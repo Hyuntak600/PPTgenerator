@@ -129,6 +129,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
   width:100%; border:0; resize:none; background:transparent; color:var(--ink);
   font-family:inherit; font-size:14px; line-height:1.5; padding:18px 8px 6px; display:block;
 }
+.box textarea{overflow:hidden;} /* 상자 안 스크롤은 없음: 글이 길면 상자 높이가 글자 길이에 맞춰 늘어남(autoGrow) */
 .box textarea:focus{outline:none;}
 .box:focus-within{border-color:var(--lang-color); box-shadow:0 0 0 1px var(--lang-color);}
 .box-link{
@@ -2796,9 +2797,13 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
       const t = col.querySelector(".box textarea");
       if (!t) return;
       t.value = VERSES[col.dataset.lang] || "";
-      t.dispatchEvent(new Event("input")); // 높이 맞춤·슬라이드 그리기·자동 저장이 같이 돌아감
+      // bubbles:true 필수: 조각의 input 리스너는 조각마다가 아니라 왼쪽 영역(left)에 한 번만 달려 있어서,
+      // 버블링되지 않는 이벤트는 그 리스너에 도달하지 못해 상자 높이가 안 늘어났음
+      t.dispatchEvent(new Event("input", { bubbles: true })); // 높이 맞춤·슬라이드 그리기·자동 저장이 같이 돌아감
     });
     document.getElementById("patchCloseBtn").click();
+    // 창이 닫혀 화면 배치가 확정된 뒤 한 번 더 모든 상자 높이를 글자 길이에 맞춤(안전장치)
+    requestAnimationFrame(() => left.querySelectorAll("textarea").forEach(autoGrowSoon));
     showToast("요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.");
   });
 
