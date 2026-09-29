@@ -660,6 +660,7 @@ input[type=checkbox]{accent-color:var(--accent);}
 
 <div class="patch-overlay" id="patchOverlay">
   <div class="patch-modal wel-modal">
+    <button type="button" class="btn lang-toggle" id="langBtnWel" style="float:right; margin-left:10px;" title="화면 언어 · Interface language">🌐 한국어</button>
     <h2>다국어 자막 정렬 도구</h2>
     <p class="patch-sub">언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.</p>
 
@@ -865,7 +866,7 @@ input[type=checkbox]{accent-color:var(--accent);}
       <button type="button" class="btn" id="bkImport">📂 파일에서 불러오기</button>
       <input type="file" id="bkFile" accept=".json,application/json" hidden>
     </div>
-    <p class="patch-sub" style="margin-top:12px"><b>자동 백업</b> (최근 6개 · 지우기·복구 직전 내용도 여기에 남아요)</p>
+    <p class="patch-sub" style="margin-top:12px"><b>자동 백업</b> (최근 12개 · 1분마다 · 24시간 보관 1개 · 지우기·복구 직전 내용도 여기에 남아요)</p>
     <div id="bkList"></div>
     <div class="copy-actions"><button class="patch-close-btn" id="bkClose">닫기</button></div>
   </div>
@@ -879,7 +880,8 @@ input[type=checkbox]{accent-color:var(--accent);}
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
       <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요">⚠ 자동 저장 안 됨</span>
-      <button type="button" class="btn" id="themeBtn" title="화면 색: 자동(기기 설정 따라감) → 다크 → 라이트 순서로 바뀌어요">🌗 자동</button>
+      <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환">🌗 자동</button>
+      <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language">🌐 한국어</button>
       <button type="button" class="btn" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요">🛡️ 백업·복구</button>
       <button type="button" class="btn quiet danger" id="resetBtn" title="왼쪽 원고와 오른쪽 슬라이드를 모두 지우고 처음부터 시작해요">모두 지우기</button>
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)">📋 전체 텍스트 복사</button>
@@ -962,7 +964,7 @@ input[type=checkbox]{accent-color:var(--accent);}
     <div class="right-head" id="composeBar">
       <span class="rh-title">슬라이드 구성</span>
       <span class="rh-chips" id="composeChips" title="이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요"></span>
-      <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">바꾸기</button>
+      <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">설정</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
         <p class="help">위에 있는 언어가 슬라이드에서도 위쪽에 표시돼요. ⠿를 잡고 끌어서 순서를 바꿔 보세요.</p>
@@ -1501,6 +1503,21 @@ window.addEventListener("resize", () => {
   alignResizeTimer = setTimeout(() => left.querySelectorAll("textarea").forEach(autoGrowSoon), 150);
 });
 
+// 칸 너비가 바뀌면 줄바꿈이 달라져 글 높이도 달라진다. 창 크기 이벤트만 보면 놓치는 경우(스크롤바 등장·사라짐,
+// 화면 확대, 오른쪽 영역 변화, 글꼴 늦게 로드)가 있어서, 칸(.col) 너비 자체를 감시해 그 칸의 상자 높이를 다시 맞춘다.
+// 높이만 바꾸고 너비는 건드리지 않으므로 서로를 계속 다시 부르지 않는다.
+const colWidths = new WeakMap();
+const colResizeObserver = new ResizeObserver(entries => {
+  for (const en of entries) {
+    const w = Math.round(en.contentRect.width);
+    if (colWidths.get(en.target) === w) continue;
+    colWidths.set(en.target, w);
+    en.target.querySelectorAll(":scope > .box > textarea").forEach(autoGrowSoon);
+  }
+});
+left.querySelectorAll(":scope > .col").forEach(c => colResizeObserver.observe(c));
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => left.querySelectorAll("textarea").forEach(autoGrowSoon));
+
 function addBox(col, lang, text, afterWrap, placeholder) {
   const wrap = document.createElement("div");
   wrap.className = "box";
@@ -2020,7 +2037,7 @@ const MODE_LABELS = { on: "슬라이드", paren: "( ) 복사", hid: "제외" };
 function setComposeOpen(open) {
   composePanel.hidden = !open;
   composeToggle.setAttribute("aria-expanded", open ? "true" : "false");
-  composeToggle.textContent = open ? "닫기" : "바꾸기";
+  composeToggle.textContent = open ? "닫기" : "설정";
 }
 composeToggle.addEventListener("click", () => setComposeOpen(composePanel.hidden));
 document.addEventListener("click", e => { // 세부 설정 / 슬라이드 구성 패널은 바깥을 누르면 닫힘
@@ -2497,12 +2514,14 @@ function serializeState() {
 
 // ---------------------------------------------------------------------
 // 원고 보호: ① 준비가 끝나기 전엔 저장 안 함 ② 글이 있던 저장값을 빈 화면으로 덮어쓰기 직전 백업
-// ③ 최근 6개 자동 백업 ④ 손상된 저장값은 지우지 않고 보관 + 최근 백업으로 자동 복구
+// ③ 1분마다 최근 12개 + 24시간 보관 1개 자동 백업 ④ 손상된 저장값은 지우지 않고 보관 + 최근 백업으로 자동 복구
 // ⑤ 창을 닫기 직전에 마지막 내용 저장 ⑥ 저장 실패 표시 ⑦ 파일로 내보내기/불러오기
 // ---------------------------------------------------------------------
 const BACKUP_KEY = "subtitleTool_backups_v1";
-const BACKUP_MAX = 6;
-const BACKUP_GAP_MS = 60000; // 자동 백업은 최대 1분에 한 번
+const BACKUP_MAX = 12;         // 실시간(최근) 백업 개수
+const BACKUP_GAP_MS = 60000;   // 자동 백업은 최대 1분에 한 번
+const DAY_BACKUP_KEY = "subtitleTool_backup_day_v1"; // 24시간 보관 백업 1개(최근 백업 12개와 별도로 보관)
+const DAY_BACKUP_MS = 24 * 60 * 60 * 1000;
 let stateReady = false;
 let stateDirty = false;      // 아직 저장 안 된 변경이 있을 때만 창 닫기 직전 저장(안 고친 오래된 탭이 다른 탭의 새 내용을 덮어쓰지 않게)      // initState가 끝나야 true (오류로 화면이 비었을 때 저장값을 덮어쓰지 않게)
 let lastAutoBackup = 0;
@@ -2513,15 +2532,31 @@ function textCount(st) {
   Object.values((st && st.cols) || {}).forEach(list => (list || []).forEach(b => { n += ((b && b.text) || "").trim().length; }));
   return n;
 }
-function readBackups() {
+function readRecentBackups() {
   try { const a = JSON.parse(localStorage.getItem(BACKUP_KEY) || "[]"); return Array.isArray(a) ? a : []; }
   catch (e) { return []; }
+}
+function readDayBackup() {
+  try { const d = JSON.parse(localStorage.getItem(DAY_BACKUP_KEY) || "null"); return d && typeof d === "object" && d.state ? d : null; }
+  catch (e) { return null; }
+}
+// 목록(화면·손상 복구용): 최근 백업(새것 → 옛것) 뒤에 24시간 보관 백업 1개
+function readBackups() {
+  const list = readRecentBackups(), day = readDayBackup();
+  return day ? [...list, day] : list;
 }
 function pushBackup(st, why, force) {
   try {
     if (textCount(st) === 0) return;
     if (!force && Date.now() - lastAutoBackup < BACKUP_GAP_MS) return;
-    const list = readBackups();
+    // 24시간 보관 백업: 없거나 만든 지 24시간이 지났으면 지금 내용으로 새로 잡고, 그 전까지는 그대로 둔다
+    try {
+      const day = readDayBackup();
+      if (!day || Date.now() - day.t >= DAY_BACKUP_MS) {
+        localStorage.setItem(DAY_BACKUP_KEY, JSON.stringify({ t: Date.now(), why: "24시간 보관", n: textCount(st), state: st }));
+      }
+    } catch (e) { /* 실패해도 최근 백업은 계속 진행 */ }
+    const list = readRecentBackups();
     if (list[0] && JSON.stringify(list[0].state) === JSON.stringify(st)) return; // 같은 내용이면 또 쌓지 않음
     list.unshift({ t: Date.now(), why, n: textCount(st), state: st });
     localStorage.setItem(BACKUP_KEY, JSON.stringify(list.slice(0, BACKUP_MAX)));
@@ -2815,15 +2850,18 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
 (function(){
   const btn=document.getElementById("themeBtn"); if(!btn) return;
   const root=document.documentElement;
-  const LABEL={auto:"🌗 자동",dark:"🌙 다크",light:"☀️ 라이트"};
-  let mode=root.getAttribute("data-theme")||"auto";
-  function apply(){
-    if(mode==="auto") root.removeAttribute("data-theme"); else root.setAttribute("data-theme",mode);
+  const LABEL={dark:"🌙 다크",light:"☀️ 라이트"};
+  // 다크/라이트 두 가지만. 저장된 값이 없는 첫 방문에는 기기 설정을 한 번만 참고해 시작 모드를 정하고,
+  // 버튼을 누르면 그때부터 고른 값이 저장된다.
+  let mode=root.getAttribute("data-theme");
+  if(mode!=="dark" && mode!=="light") mode=(window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  function apply(save){
+    root.setAttribute("data-theme",mode);
     btn.textContent=LABEL[mode];
-    try{ if(mode==="auto") localStorage.removeItem("subtitleTheme"); else localStorage.setItem("subtitleTheme",mode); }catch(e){}
+    if(save){ try{ localStorage.setItem("subtitleTheme",mode); }catch(e){} }
   }
-  btn.addEventListener("click",()=>{ mode = mode==="auto" ? "dark" : mode==="dark" ? "light" : "auto"; apply(); });
-  btn.textContent=LABEL[mode];
+  btn.addEventListener("click",()=>{ mode = mode==="dark" ? "light" : "dark"; apply(true); });
+  apply(false);
 })();
 (function(){
   const seg=document.getElementById("boldSeg"); if(!seg) return;
@@ -2842,5 +2880,176 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
   show();
 })();
 </script>
+<script id="i18nModule">
+/* ── 화면 언어(한국어 / English) 전환 ──
+   사전(EN)에 있는 한글 문구를 영어로 바꿔 보여주고, 한국어로 돌아가면 원래 문구로 복원한다.
+   글자·툴팁·placeholder뿐 아니라 나중에 스크립트가 만드는 알림/라벨(MutationObserver), confirm 창도 같이 바꾼다.
+   사전에 없는 문구는 그대로 한글로 남는다(새 문구는 EN 또는 RX에 한 줄 추가). */
+(function(){
+  const EN = {
+    "다국어 자막 정렬 도구":"Multilingual Subtitle Alignment Tool",
+    "언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.":"Split each language's script into sentences, pair them on one slide, check them, then copy the text out.",
+    "🚀 이렇게 써요":"🚀 How to use", "🧪 직접 해보기 — 요한복음 3:16":"🧪 Try it — John 3:16",
+    "성경 구절 언어":"Verse language","번역 결과":"Translate to","한국어":"Korean",
+    "📥 왼쪽 칸 4개에 이 구절 넣어 보기":"📥 Put this verse in the 4 left columns",
+    "🆕 최신 패치노트":"🆕 Latest patch notes","🛠 개발자 노트":"🛠 Developer notes",
+    "다음부터 처음에 자동으로 열지 않기":"Don't open this automatically next time","시작하기":"Get started",
+    "🐳 번역 서버(LibreTranslate) 설치 안내":"🐳 Translation server (LibreTranslate) setup guide",
+    "확인":"OK","전체 텍스트":"Full text","복사":"Copy","닫기":"Close","백업 · 복구":"Backup · Restore",
+    "글은 이 브라우저에 자동 저장돼요. 브라우저 데이터를 지우거나 다른 브라우저·다른 파일 위치로 열면 보이지 않으니, 중요한 원고는 파일로도 받아 두세요.":"Your text is auto-saved in this browser. It won't appear if you clear browser data or open the file from another browser or location, so save important scripts to a file too.",
+    "💾 파일로 저장":"💾 Save to file","📂 파일에서 불러오기":"📂 Load from file","자동 백업":"Auto backups",
+    "(최근 12개 · 1분마다 · 24시간 보관 1개 · 지우기·복구 직전 내용도 여기에 남아요)":"(latest 12 · every 1 min · 1 kept for 24 hours · content from just before clearing/restoring is kept here too)",
+    "ℹ️ 시작 안내":"ℹ️ Getting started","🐳 번역 서버 안내":"🐳 Translation server guide",
+    "번역 서버 확인 중":"Checking translation server","번역 서버 연결 안 됨":"Translation server not connected",
+    "번역 서버 오류":"Translation server error","번역 서버 응답 이상":"Translation server bad response",
+    "번역 서버 연결됨 · 언어 모델 부족":"Translation server connected · language models missing","번역 서버 연결됨":"Translation server connected",
+    "⚠ 자동 저장 안 됨":"⚠ Auto-save off","🌗 자동":"🌗 Auto","🌙 다크":"🌙 Dark","☀️ 라이트":"☀️ Light",
+    "🛡️ 백업·복구":"🛡️ Backup·Restore","모두 지우기":"Clear all","📋 전체 텍스트 복사":"📋 Copy full text",
+    "기준 글자 크기":"Base font size","기본 정렬":"Default alignment","왼쪽":"Left","가운데":"Center","오른쪽":"Right",
+    "⚙ 세부 설정":"⚙ Advanced settings","선택한 글자 번역 언어":"Language for selected-text translation",
+    "조각 안의 글자를 드래그해서 고르면 이 언어로 번역해 칸 위쪽에 보여줘요.":"Drag to select text inside a piece and it is translated into this language above the column.",
+    "ProPresenter 캔버스 높이":"ProPresenter canvas height","직접 입력…":"Custom…",
+    "출력 해상도예요. 글자 크기와 줄 수를 계산하는 기준이 돼요(1pt = 1px).":"This is the output resolution, used to calculate font size and line count (1pt = 1px).",
+    "슬라이드 글자 굵기":"Slide font weight","보통":"Regular","굵게":"Bold",
+    "🐳 설치 안내 보기":"🐳 View setup guide","다시 확인":"Re-check","저장하고 다시 확인":"Save and re-check","서버 주소":"Server address",
+    "언어별 칸에 원고를 붙여넣어요":"Paste each language's script into its column",
+    "문장이 끝나는 곳에서 Enter로 나눠요":"Split at the end of each sentence with Enter",
+    "오른쪽 슬라이드에서 언어끼리 짝이 맞는지 확인해요":"Check on the right that the languages line up",
+    "전체 텍스트를 복사해 가져가요":"Copy the full text and take it away",
+    "문장 나누기":"Split sentence","줄바꿈":"New line","조각 맨 앞에서":"At the start of a piece","앞 조각과 합치기":"Merge with previous piece",
+    "슬라이드 속 문장을 클릭하면 원문 조각으로 이동":"Click a sentence in a slide to jump to its source piece",
+    "슬라이드 구성":"Slide layout","설정":"Settings","슬라이드에 넣을 언어와 순서":"Languages and order on the slide",
+    "위에 있는 언어가 슬라이드에서도 위쪽에 표시돼요. ⠿를 잡고 끌어서 순서를 바꿔 보세요.":"Languages higher in the list appear higher on the slide. Drag ⠿ to reorder.",
+    "슬라이드":"Slide","슬라이드에 표시해요(기본)":"Show on the slide (default)","( ) 복사":"( ) copy",
+    "슬라이드에는 안 넣고, 전체 텍스트 복사에만 ( ) 안에 함께 넣어요":"Not on the slide; only included in parentheses in the full-text copy",
+    "제외":"Exclude","슬라이드·복사에서 모두 빼요(왼쪽 원문은 그대로 남아요)":"Removed from slides and copy (the left source text stays)",
+    "( ) 복사만":"( ) copy only","끌어서 순서를 바꿀 수 있어요":"Drag to reorder","기준 글자 크기 ":"Base font size",
+    /* 툴팁 · placeholder */
+    "요한복음 3장 16절":"John 3:16","언어별 칸 4개에 요한복음 3:16을 한 조각씩 넣어요 (칸이 모두 비어 있을 때만)":"Puts John 3:16 as one piece into each of the 4 language columns (only when all columns are empty)",
+    "사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트":"Usage · Translation demo · Patch notes · Developer notes",
+    "번역 미리보기에 쓰는 번역 서버 설치 방법":"How to install the translation server used for previews",
+    "눌러서 번역 서버 연결을 다시 확인":"Click to re-check the translation server connection",
+    "브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요":"Browser storage is unavailable. Save to a file from Backup·Restore.",
+    "화면 색: 다크 ↔ 라이트 전환":"Theme: switch between Dark and Light",
+    "자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요":"Restore from the auto-backup list, or save/load the script as a file",
+    "왼쪽 원고와 오른쪽 슬라이드를 모두 지우고 처음부터 시작해요":"Clear the left script and right slides and start over",
+    "슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)":"Open a notepad-style window with all slide text (use the Copy button inside)",
+    "슬라이드의 기준(목표) 글자 크기예요. 글자가 많으면 슬라이드마다 자동으로 줄어들어요. 슬라이드 위쪽 칸으로 그 슬라이드만 따로 정할 수도 있어요":"Target font size for slides. Slides with lots of text shrink automatically. You can also set one slide separately with the box above it.",
+    "모든 슬라이드의 기본 정렬이에요. 슬라이드 위쪽 버튼으로 그 슬라이드만 따로 바꿀 수 있어요":"Default alignment for all slides. Use the buttons above a slide to change just that one.",
+    "이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요":"Slides and the full-text copy use this order. Drag to reorder.",
+    "기본은 실제 프로프레젠터 화면(굵은 글씨)과 같은":"The default matches the real ProPresenter display (bold text), i.e.",
+    "예요. 굵으면 줄바꿈과 자동 축소도 굵은 글씨 기준으로 계산돼요.":". Bold means line breaks and auto-shrink are also calculated using bold text.",
+    "화면 언어 · Interface language":"Interface language · 화면 언어",
+    /* 스크립트가 만드는 문구 */
+    "LibreTranslate 서버 연결 확인 중...":"Checking LibreTranslate server connection...",
+    "주소는 http:// 로 시작해야 해요. 예: http://localhost:5000":"The address must start with http://, e.g. http://localhost:5000",
+    "서버 주소를 저장했어요. 다시 확인합니다.":"Server address saved. Re-checking.",
+    "드래그하는 동안 선택한 부분의 번역이 여기 실시간으로 표시됩니다":"While you drag, the translation of the selection appears here in real time",
+    "이 조각이 들어간 슬라이드로 이동":"Go to the slide containing this piece","(비어있음)":"(empty)","번역 중...":"Translating...",
+    "(번역 실패 · 번역 서버 확인)":"(Translation failed · check the translation server)",
+    "클릭하면 왼쪽 원문 조각으로 이동해요":"Click to jump to the source piece on the left",
+    "이 슬라이드만 글자 크기를 따로 정해요. 비워 두면 위쪽 기준 글자 크기를 따라가요":"Set the font size for this slide only. Leave empty to follow the base font size.",
+    "이 슬라이드 글자 크기(pt)":"Font size for this slide (pt)","이 슬라이드의 개별 설정을 지우고 기본값으로":"Clear this slide's own settings and use the defaults",
+    "왼쪽 원고와 오른쪽 슬라이드가 모두 지워져요. 계속할까요?":"The left script and right slides will all be cleared. Continue?",
+    "처음 상태로 되돌렸어요. 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요.":"Reset to the initial state. Content from just before clearing can be restored in 🛡️ Backup·Restore.",
+    "슬라이드에는 언어가 하나 이상 있어야 해요.":"At least one language must be on the slide.",
+    "복사하지 못했어요. 브라우저의 클립보드 권한을 확인해 주세요.":"Couldn't copy. Please check your browser's clipboard permission.","복사했어요.":"Copied.",
+    "복사할 내용이 없어요. 왼쪽 칸에 원고를 먼저 붙여넣어 주세요.":"Nothing to copy. Paste a script into the left columns first.",
+    "비우기 직전":"Before clearing","24시간 보관":"24-hour keep","자동":"Auto","복구 직전":"Before restoring",
+    "다른 탭에서 이 도구가 편집되고 있어요. 두 곳에서 동시에 고치면 나중에 저장된 쪽이 덮어써요.":"This tool is being edited in another tab. If you edit in both, the one saved last overwrites the other.",
+    "복구할 내용을 저장하지 못했어요.":"Couldn't save the content to restore.",
+    "아직 자동 백업이 없어요. 글을 쓰면 1분에 한 번씩 자동으로 쌓여요.":"No auto backups yet. They accumulate every minute as you type.",
+    "이 시점으로 복구":"Restore to this point","이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.":"Restore this backup? The current content is also kept as a backup.",
+    "백업 파일을 저장했어요.":"Backup file saved.","백업 파일을 읽지 못했어요. 이 도구에서 저장한 .json 파일인지 확인해 주세요.":"Couldn't read the backup file. Make sure it's a .json saved by this tool.",
+    "파일 내용으로 바꿀까요? 지금 내용도 자동 백업에 남겨 둬요.":"Replace with the file's content? The current content is also kept in the auto backups.",
+    "저장된 데이터를 읽지 못해 가장 최근 자동 백업으로 열었어요.":"Couldn't read the saved data, so the latest auto backup was opened.",
+    "저장된 데이터를 읽지 못했어요. 원본은 브라우저에 따로 보관해 뒀어요.":"Couldn't read the saved data. The original is kept separately in the browser.",
+    "위 구절을 마우스로 드래그해 보세요. 선택한 부분만 여기에 번역돼요.":"Drag over the verse above with your mouse. Only the selected part is translated here.",
+    "[번역 실패] 번역 서버가 켜져 있는지 확인해 주세요 (위쪽 🐳 번역 서버 안내).":"[Translation failed] Please check that the translation server is running (🐳 Translation server guide at the top).",
+    "이미 원고가 있어서 예시를 넣지 않았어요. \"모두 지우기\" 후 다시 눌러 주세요.":"There is already text, so the example wasn't inserted. Press \"Clear all\" and try again.",
+    "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation."
+  };
+  const L = x => EN[x] || x;
+  const RX = [
+    [/^(.+) 텍스트 붙여넣기$/, a => "Paste " + L(a) + " text here"],
+    [/^슬라이드 (\d+)$/, n => "Slide " + n],
+    [/^(\d+)조각$/, n => n + (n === "1" ? " piece" : " pieces")],
+    [/^다른 언어는 최대 (\d+)조각이에요\. .*$/, n => "Other languages have up to " + n + " pieces. Check that the sentence splits match."],
+    [/^⚠ (.+) 비어 있음$/, a => "⚠ " + a.split(", ").map(L).join(", ") + " empty"],
+    [/^제외: ?(.*)$/, a => "Excluded: " + a.split(", ").map(L).join(", ")],
+    [/^(개별 · )?(\d+)줄 · (\d+)pt → (\d+(?:\.\d+)?)pt로 축소$/, (c, l, t, e) => (c ? "Custom · " : "") + l + " lines · " + t + "pt → " + e + "pt (shrunk)"],
+    [/^(개별 · )?(\d+)줄 · (\d+(?:\.\d+)?)pt \(여유\)$/, (c, l, e) => (c ? "Custom · " : "") + l + " lines · " + e + "pt (fits)"],
+    [/^슬라이드 (\d+)장 · .*$/, n => n + " slides · Each paragraph starts with [number · font size]. Edit if needed, then press Copy."],
+    [/^(.*) · (\d+)자 · (.+)$/, (d, n, w) => d + " · " + n + " chars · " + L(w)],
+    [/^이 슬라이드만 (.+) 정렬 \(한 번 더 누르면 기본 정렬로\)$/, a => "Align only this slide " + L(a).toLowerCase() + " (click again for default)"],
+    [/^(.+): 번역 중\.\.\.$/, a => L(a) + ": translating..."],
+    [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m + "]"],
+    [/^없는 언어: ?(.*)$/, a => "Missing languages: " + a],
+    [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Only translation stops working; everything else works as usual. See \"Can't connect\" in the setup guide."],
+    [/^LibreTranslate 서버\((.+)\) 연결 정상,.*$/s, u => "LibreTranslate server (" + u + ") is connected and all required language models are installed."],
+    [/^LibreTranslate 서버\((.+)\)에 연결할 수 없습니다\..*?\((.*)\)$/s, (u, m) => "Cannot reach the LibreTranslate server (" + u + "). Check that it is running, that the address is correct, and the server's CORS settings. (" + m + ")"],
+    [/^LibreTranslate 서버\((.+)\)가 오류를 반환했습니다: (.*)$/s, (u, m) => "The LibreTranslate server (" + u + ") returned an error: " + m],
+    [/^LibreTranslate 서버\((.+)\) 응답을 해석할 수 없습니다.*$/s, u => "Couldn't parse the response from the LibreTranslate server (" + u + ") (not JSON)."],
+    [/^LibreTranslate 서버에는 연결됐지만 다음 언어 모델이 설치돼 있지 않습니다: (.+?)\. .*$/s, m => "Connected to LibreTranslate, but these language models are not installed: " + m + ". Translations involving them will keep failing until you install them on the server."]
+  ];
+  function T(s) {
+    const k = s.trim(); if (!k) return s;
+    let v = EN[k];
+    if (v === undefined) for (const [re, f] of RX) { const m = k.match(re); if (m) { v = f.apply(null, m.slice(1)); break; } }
+    return v === undefined ? s : s.replace(k, () => v);
+  }
+  const KEY = "subtitleUiLang", ATTRS = ["title", "placeholder", "aria-label"], SKIP = /^(SCRIPT|STYLE|TEXTAREA)$/;
+  let lang = "ko"; try { if (localStorage.getItem(KEY) === "en") lang = "en"; } catch (e) {}
+
+  function txt(n) {
+    if (n._en !== undefined && n.data === n._en) { if (lang === "ko") { n.data = n._ko; n._en = undefined; } return; }
+    if (lang !== "en") return;
+    const s = n.data, v = T(s);
+    if (v !== s) { n._ko = s; n._en = v; n.data = v; }
+  }
+  function attr(el, a) {
+    const v = el.getAttribute(a); if (v == null) return;
+    const r = el._a && el._a[a];
+    if (r && v === r.en) { if (lang === "ko") { el.setAttribute(a, r.ko); delete el._a[a]; } return; }
+    if (lang !== "en") return;
+    const t = T(v);
+    if (t !== v) { (el._a || (el._a = {}))[a] = { ko: v, en: t }; el.setAttribute(a, t); }
+  }
+  function pass(root) {
+    if (root.nodeType === 3) { if (!SKIP.test(root.parentNode.tagName)) txt(root); return; }
+    if (root.nodeType !== 1 || SKIP.test(root.tagName) && root.tagName !== "TEXTAREA") return;
+    const els = [root, ...root.querySelectorAll("*")];
+    els.forEach(el => ATTRS.forEach(a => attr(el, a)));
+    const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, { acceptNode: n => SKIP.test(n.parentNode.tagName) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+    const list = []; while (w.nextNode()) list.push(w.currentNode);
+    list.forEach(txt);
+  }
+  new MutationObserver(ms => {
+    if (lang !== "en") return;
+    for (const m of ms) {
+      if (m.type === "childList") m.addedNodes.forEach(pass);
+      else if (m.type === "characterData") txt(m.target);
+      else if (m.type === "attributes") attr(m.target, m.attributeName);
+    }
+  }).observe(document.body, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: ATTRS });
+
+  const _confirm = window.confirm; window.confirm = m => _confirm.call(window, lang === "en" ? T(String(m)) : m);
+  const _alert = window.alert; window.alert = m => _alert.call(window, lang === "en" ? T(String(m)) : m);
+  const koTitle = document.title;
+
+  const btns = document.querySelectorAll(".lang-toggle");
+  function setLang(l, save) {
+    lang = l;
+    if (save) try { localStorage.setItem(KEY, l); } catch (e) {}
+    document.documentElement.lang = l;
+    document.title = l === "en" ? T(koTitle) : koTitle;
+    pass(document.body);
+    btns.forEach(b => { b.textContent = l === "en" ? "🌐 English" : "🌐 한국어"; });
+  }
+  btns.forEach(b => b.addEventListener("click", () => setLang(lang === "en" ? "ko" : "en", true)));
+  setLang(lang, false);
+})();
+</script>
+
 </body>
 </html>
