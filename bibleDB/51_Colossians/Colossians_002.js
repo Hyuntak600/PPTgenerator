@@ -22,7 +22,7 @@ BibleDB.add([
   {Bible:"Colossians", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Do not let anyone who delights in false humility and the worship of angels disqualify you for the prize. Such a person goes into great detail about what he has seen, and his unspiritual mind puffs him up with idle notions.", Ind:""},
   {Bible:"Colossians", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He has lost connection with the Head, from whom the whole body, supported and held together by its ligaments and sinews, grows as God causes it to grow.", Ind:""},
   {Bible:"Colossians", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Since you died with Christ to the basic principles of this world, why, as though you still belonged to it, do you submit to its rules:", Ind:""},
-  {Bible:"Colossians", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Do not handle! Do not taste! Do not touch!"?", Ind:""},
+  {Bible:"Colossians", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not handle! Do not taste! Do not touch!0\"?\", Ind:"},
   {Bible:"Colossians", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"These are all destined to perish with use, because they are based on human commands and teachings.", Ind:""},
   {Bible:"Colossians", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.", Ind:""},
 ]);

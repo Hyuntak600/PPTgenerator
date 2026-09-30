@@ -18,5 +18,5 @@ BibleDB.add([
   {Bible:"Colossians", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Our dear friend Luke, the doctor, and Demas send greetings.", Ind:""},
   {Bible:"Colossians", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house.", Ind:""},
   {Bible:"Colossians", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.", Ind:""},
-  {Bible:"Colossians", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Tell Archippus: "See to it that you complete the work you have received in the Lord."", Ind:""},
+  {Bible:"Colossians", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Tell Archippus: \"See to it that you complete the work you have received in the Lord\"", Ind:""},
 ]);
