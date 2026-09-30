@@ -671,7 +671,29 @@ html[data-mode="db"] .ref-tag{display:block;}
 html[data-mode="db"] .ref-tag:empty{display:none;}
 html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-cqh, 10.2) * 1cqh * var(--fit-scale, 1) * var(--pad-y, 0));}
 </style>
-<script src="bible/bibledb.js"></script>
+<script>
+/* 성경 폴더 이름이 bible → bibleDB로 바뀌어도 장 파일을 찾도록: 예전 "bible/" 경로로 가는 요청을 "bibleDB/"로 바꿔 줌 */
+(function () {
+  function fix(u) {
+    if (typeof u !== "string") return u;
+    if (/^(https?:)?\/\//i.test(u) && u.indexOf(location.origin) !== 0) return u; // 다른 사이트 주소는 건드리지 않음
+    return u.replace(/(^|\/)bible\//g, "$1bibleDB/");
+  }
+  try {
+    var d = Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, "src");
+    if (d && d.set) Object.defineProperty(HTMLScriptElement.prototype, "src", { get: d.get, set: function (v) { d.set.call(this, fix(v)); }, configurable: true, enumerable: d.enumerable });
+    var sa = Element.prototype.setAttribute;
+    Element.prototype.setAttribute = function (n, v) { if (this.tagName === "SCRIPT" && String(n).toLowerCase() === "src") v = fix(v); return sa.call(this, n, v); };
+    if (window.fetch) { var f = window.fetch; window.fetch = function (u, o) { return f.call(this, typeof u === "string" ? fix(u) : u, o); }; }
+    var xo = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function (m, u) { var a = [].slice.call(arguments); a[1] = fix(u); return xo.apply(this, a); };
+  } catch (e) { /* 무시 */ }
+})();
+</script>
+<script src="bibleDB/bibledb.js"></script>
+<script>if(!window.BibleDB)document.write('<script src="bibleDB/bibleDB.js"><\/script>');</script>
+<script>if(!window.BibleDB)document.write('<script src="bible/bibledb.js"><\/script>');</script>
+<script>(function(){var B=window.BibleDB;if(B&&typeof B.path==="function"&&!B.__p){var o=B.path;B.path=function(){var r=o.apply(this,arguments);return typeof r==="string"?r.replace(/(^|\/)bible\//,"$1bibleDB/"):r;};B.__p=1;}})();</script>
 <script>try{var __t=localStorage.getItem("subtitleTheme");if(__t==="dark"||__t==="light")document.documentElement.setAttribute("data-theme",__t);}catch(e){}try{if(localStorage.getItem("subtitleSlideBold")!=="0")document.documentElement.setAttribute("data-slide-bold","1");}catch(e){document.documentElement.setAttribute("data-slide-bold","1");}</script>
 </head>
 <body>
@@ -720,7 +742,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>🆕 최신 패치노트<span class="wel-date">2026-09-30</span></h3>
     <ul>
-      <li><b>📖 성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절·페이지를 골라 4개 언어 본문을 입력해요. <b>🧩 DB 코드 복사</b>로 <code>bible/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 전체 삭제가 없어요.</li>
+      <li><b>📖 성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절·페이지를 골라 4개 언어 본문을 입력해요. <b>🧩 DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 전체 삭제가 없어요.</li>
       <li>슬라이드 만들기 모드의 <b>🧹 로컬 데이터·캐시 삭제</b>로 원고·자동 백업·번역 캐시·설정을 한 번에 지울 수 있어요. 성경 DB 초안은 지워지지 않아요.</li>
       <li>슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이고. 전체 텍스트 복사에는 글자 크기가 문단 앞에 표시돼요.</li>
       <li><b>📋 전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
@@ -2830,7 +2852,7 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
 // 성경 DB 모드: 성경 책 + 장 + 절을 고르면 그 절의 내용이 왼쪽 4개 언어 칸에 올라온다.
 //  - 조각(상자) 하나 = 페이지 하나 = 슬라이드 하나. 한 절이 길면 Enter로 나눠서 페이지를 늘린다.
 //  - 글은 "절 하나씩" 브라우저에 초안으로 저장된다(다른 절·슬라이드 만들기 내용은 건드리지 않음).
-//  - 화면에 올라오는 순서: ① 저장된 초안 → ② bible/ 폴더의 장 파일(하드 코딩된 내용) → ③ 빈 화면
+//  - 화면에 올라오는 순서: ① 저장된 초안 → ② bibleDB/ 폴더의 장 파일(하드 코딩된 내용) → ③ 빈 화면
 // ---------------------------------------------------------------------
 const DB_KEY = "subtitleTool_db_v1", DB_SEL_KEY = "subtitleTool_dbSel_v1";
 const DB_FIELD = { ko: "Kor", zh: "Chn", en: "Eng", id: "Ind" };
@@ -2965,7 +2987,7 @@ async function dbGo(sel) {
   saveDbNow(); dbCur = null; // 지금 절을 먼저 저장하고, 불러오는 동안은 저장하지 않음
   const my = ++dbSeq;
   try { localStorage.setItem(DB_SEL_KEY, JSON.stringify(sel)); } catch (e) { /* 무시 */ }
-  if (!window.BibleDB) { dbStat.textContent = "⚠ bible/bibledb.js를 찾지 못했어요. index.html과 같은 위치에 bible 폴더가 있어야 해요."; return; }
+  if (!window.BibleDB) { dbStat.textContent = "⚠ bibleDB/bibledb.js를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요."; return; }
   dbBook.value = sel.en;
   fillNum(dbChap, BibleDB.book(sel.en).chapters, sel.ch);
   let miss = false;
@@ -3012,7 +3034,7 @@ function setMode(m) {
   if (m === appMode || !stateReady) return;
   saveStateNow();
   if (m === "db") {
-    if (!window.BibleDB) { showToast("bible 폴더를 찾지 못해 DB 모드를 열 수 없어요. index.html과 같은 위치에 bible 폴더를 두세요.", true); return; }
+    if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못해 DB 모드를 열 수 없어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더를 두세요.", true); return; }
     dbSlideSnap = { opts: slideOpts, map: columnsToMap() };
     appMode = "db"; dbRoot.dataset.mode = "db"; slideOpts = [];
     dbGo(dbLoadSel());
