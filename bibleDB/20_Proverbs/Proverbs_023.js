@@ -1,5 +1,5 @@
 // 잠언 23장 · Proverbs 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",23,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When you sit to dine with a ruler, note well what is before you,", Ind:""},
@@ -8,7 +8,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Do not wear yourself out to get rich; have the wisdom to show restraint.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not eat the food of a stingy man, do not crave his delicacies;", Ind:""},
-  {Bible:"Proverbs", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"for he is the kind of man who is always thinking about the cost. "Eat and drink," he says to you, but his heart is not with you.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"for he is the kind of man who is always thinking about the cost. \"Eat and drink,\" he says to you, but his heart is not with you.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You will vomit up the little you have eaten and will have wasted your compliments.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not speak to a fool, for he will scorn the wisdom of your words.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not move an ancient boundary stone or encroach on the fields of the fatherless,", Ind:""},
@@ -36,5 +36,5 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:23, Verse:32, Page:1, Kor:"", Chn:"", Eng:"In the end it bites like a snake and poisons like a viper.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Your eyes will see strange sights and your mind imagine confusing things.", Ind:""},
   {Bible:"Proverbs", Chapter:23, Verse:34, Page:1, Kor:"", Chn:"", Eng:"You will be like one sleeping on the high seas, lying on top of the rigging.", Ind:""},
-  {Bible:"Proverbs", Chapter:23, Verse:35, Page:1, Kor:"", Chn:"", Eng:""They hit me," you will say, "but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?"", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:35, Page:1, Kor:"", Chn:"", Eng:"\"They hit me,\" you will say, \"but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?\"", Ind:""},
 ]);

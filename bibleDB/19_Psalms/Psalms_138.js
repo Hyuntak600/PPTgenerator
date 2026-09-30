@@ -1,8 +1,8 @@
 // 시편 138장 · Psalms 138
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",138,8);
 BibleDB.add([
-  {Bible:"Psalms", Chapter:138, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I will praise you, O LORD, with all my heart; before the "gods" I will sing your praise.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I will praise you, O LORD, with all my heart; before the \"gods\" I will sing your praise.", Ind:""},
   {Bible:"Psalms", Chapter:138, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I will bow down toward your holy temple and will praise your name for your love and your faithfulness, for you have exalted above all things your name and your word.", Ind:""},
   {Bible:"Psalms", Chapter:138, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When I called, you answered me; you made me bold and stouthearted.", Ind:""},
   {Bible:"Psalms", Chapter:138, Verse:4, Page:1, Kor:"", Chn:"", Eng:"May all the kings of the earth praise you, O LORD, when they hear the words of your mouth.", Ind:""},

@@ -1,9 +1,9 @@
 // 민수기 13장 · Numbers 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",13,33);
 BibleDB.add([
   {Bible:"Numbers", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Send some men to explore the land of Canaan, which I am giving to the Israelites. From each ancestral tribe send one of its leaders."", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Send some men to explore the land of Canaan, which I am giving to the Israelites. From each ancestral tribe send one of its leaders.\"", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So at the LORD'S command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"These are their names: from the tribe of Reuben, Shammua son of Zaccur;", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"from the tribe of Simeon, Shaphat son of Hori;", Ind:""},
@@ -18,21 +18,21 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"from the tribe of Naphtali, Nahbi son of Vophsi;", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"from the tribe of Gad, Geuel son of Maki.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"These are the names of the men Moses sent to explore the land. (Moses gave Hoshea son of Nun the name Joshua.)", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"When Moses sent them to explore Canaan, he said, "Go up through the Negev and on into the hill country.", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"When Moses sent them to explore Canaan, he said, \"Go up through the Negev and on into the hill country.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"See what the land is like and whether the people who live there are strong or weak, few or many.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"What kind of land do they live in? Is it good or bad? What kind of towns do they live in? Are they unwalled or fortified?", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"How is the soil? Is it fertile or poor? Are there trees on it or not? Do your best to bring back some of the fruit of the land." (It was the season for the first ripe grapes.)", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"How is the soil? Is it fertile or poor? Are there trees on it or not? Do your best to bring back some of the fruit of the land.\" (It was the season for the first ripe grapes.)", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So they went up and explored the land from the Desert of Zin as far as Rehob, toward Lebo Hamath.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"They went up through the Negev and came to Hebron, where Ahiman, Sheshai and Talmai, the descendants of Anak, lived. (Hebron had been built seven years before Zoan in Egypt.)", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When they reached the Valley of Eshcol, they cut off a branch bearing a single cluster of grapes. Two of them carried it on a pole between them, along with some pomegranates and figs.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:"That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut off there.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"At the end of forty days they returned from exploring the land.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They came back to Moses and Aaron and the whole Israelite community at Kadesh in the Desert of Paran. There they reported to them and to the whole assembly and showed them the fruit of the land.", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They gave Moses this account: "We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit.", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They gave Moses this account: \"We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit.", Ind:""},
   {Bible:"Numbers", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:"But the people who live there are powerful, and the cities are fortified and very large. We even saw descendants of Anak there.", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The Amalekites live in the Negev; the Hittites, Jebusites and Amorites live in the hill country; and the Canaanites live near the sea and along the Jordan."", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Caleb silenced the people before Moses and said, "We should go up and take possession of the land, for we can certainly do it."", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But the men who had gone up with him said, "We can't attack those people; they are stronger than we are."", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And they spread among the Israelites a bad report about the land they had explored. They said, "The land we explored devours those living in it. All the people we saw there are of great size.", Ind:""},
-  {Bible:"Numbers", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:"We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them."", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The Amalekites live in the Negev; the Hittites, Jebusites and Amorites live in the hill country; and the Canaanites live near the sea and along the Jordan.\"", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Caleb silenced the people before Moses and said, \"We should go up and take possession of the land, for we can certainly do it.\"", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But the men who had gone up with him said, \"We can't attack those people; they are stronger than we are.\"", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And they spread among the Israelites a bad report about the land they had explored. They said, \"The land we explored devours those living in it. All the people we saw there are of great size.", Ind:""},
+  {Bible:"Numbers", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:"We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them.\"", Ind:""},
 ]);

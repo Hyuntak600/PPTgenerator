@@ -1,5 +1,5 @@
 // 잠언 26장 · Proverbs 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",26,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Like snow in summer or rain in harvest, honor is not fitting for a fool.", Ind:""},
@@ -14,13 +14,13 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Like an archer who wounds at random is he who hires a fool or any passer-by.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"As a dog returns to its vomit, so a fool repeats his folly.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Do you see a man wise in his own eyes? There is more hope for a fool than for him.", Ind:""},
-  {Bible:"Proverbs", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sluggard says, "There is a lion in the road, a fierce lion roaming the streets!"", Ind:""},
+  {Bible:"Proverbs", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sluggard says, \"There is a lion in the road, a fierce lion roaming the streets!\"", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"As a door turns on its hinges, so a sluggard turns on his bed.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The sluggard is wiser in his own eyes than seven men who answer discreetly.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Like one who seizes a dog by the ears is a passer-by who meddles in a quarrel not his own.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Like a madman shooting firebrands or deadly arrows", Ind:""},
-  {Bible:"Proverbs", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:"is a man who deceives his neighbor and says, "I was only joking!"", Ind:""},
+  {Bible:"Proverbs", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:"is a man who deceives his neighbor and says, \"I was only joking!\"", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Without wood a fire goes out; without gossip a quarrel dies down.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:21, Page:1, Kor:"", Chn:"", Eng:"As charcoal to embers and as wood to fire, so is a quarrelsome man for kindling strife.", Ind:""},
   {Bible:"Proverbs", Chapter:26, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The words of a gossip are like choice morsels; they go down to a man's inmost parts.", Ind:""},

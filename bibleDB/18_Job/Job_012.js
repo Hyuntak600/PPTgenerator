@@ -1,20 +1,20 @@
 // 욥기 12장 · Job 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",12,25);
 BibleDB.add([
   {Bible:"Job", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied:", Ind:""},
-  {Bible:"Job", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Doubtless you are the people, and wisdom will die with you!", Ind:""},
+  {Bible:"Job", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Doubtless you are the people, and wisdom will die with you!", Ind:""},
   {Bible:"Job", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But I have a mind as well as you; I am not inferior to you. Who does not know all these things?", Ind:""},
-  {Bible:"Job", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:""I have become a laughingstock to my friends, though I called upon God and he answered--a mere laughingstock, though righteous and blameless!", Ind:""},
+  {Bible:"Job", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"I have become a laughingstock to my friends, though I called upon God and he answered--a mere laughingstock, though righteous and blameless!", Ind:""},
   {Bible:"Job", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Men at ease have contempt for misfortune as the fate of those whose feet are slipping.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The tents of marauders are undisturbed, and those who provoke God are secure--those who carry their god in their hands.", Ind:""},
-  {Bible:"Job", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:""But ask the animals, and they will teach you, or the birds of the air, and they will tell you;", Ind:""},
+  {Bible:"Job", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"But ask the animals, and they will teach you, or the birds of the air, and they will tell you;", Ind:""},
   {Bible:"Job", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"or speak to the earth, and it will teach you, or let the fish of the sea inform you.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Which of all these does not know that the hand of the LORD has done this?", Ind:""},
   {Bible:"Job", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"In his hand is the life of every creature and the breath of all mankind.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Does not the ear test words as the tongue tastes food?", Ind:""},
   {Bible:"Job", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Is not wisdom found among the aged? Does not long life bring understanding?", Ind:""},
-  {Bible:"Job", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:""To God belong wisdom and power; counsel and understanding are his.", Ind:""},
+  {Bible:"Job", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"To God belong wisdom and power; counsel and understanding are his.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"What he tears down cannot be rebuilt; the man he imprisons cannot be released.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If he holds back the waters, there is drought; if he lets them loose, they devastate the land.", Ind:""},
   {Bible:"Job", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"To him belong strength and victory; both deceived and deceiver are his.", Ind:""},

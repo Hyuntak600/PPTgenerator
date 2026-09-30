@@ -1,17 +1,17 @@
 // 출애굽기 35장 · Exodus 35
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Exodus",35,35);
 BibleDB.add([
-  {Bible:"Exodus", Chapter:35, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Moses assembled the whole Israelite community and said to them, "These are the things the LORD has commanded you to do:", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Moses assembled the whole Israelite community and said to them, \"These are the things the LORD has commanded you to do:", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:2, Page:1, Kor:"", Chn:"", Eng:"For six days, work is to be done, but the seventh day shall be your holy day, a Sabbath of rest to the LORD. Whoever does any work on it must be put to death.", Ind:""},
-  {Bible:"Exodus", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not light a fire in any of your dwellings on the Sabbath day."", Ind:""},
-  {Bible:"Exodus", Chapter:35, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Moses said to the whole Israelite community, "This is what the LORD has commanded:", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not light a fire in any of your dwellings on the Sabbath day.\"", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Moses said to the whole Israelite community, \"This is what the LORD has commanded:", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:5, Page:1, Kor:"", Chn:"", Eng:"From what you have, take an offering for the LORD. Everyone who is willing is to bring to the LORD an offering of gold, silver and bronze;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:6, Page:1, Kor:"", Chn:"", Eng:"blue, purple and scarlet yarn and fine linen; goat hair;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:7, Page:1, Kor:"", Chn:"", Eng:"ram skins dyed red and hides of sea cows; acacia wood;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:8, Page:1, Kor:"", Chn:"", Eng:"olive oil for the light; spices for the anointing oil and for the fragrant incense;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and onyx stones and other gems to be mounted on the ephod and breastpiece.", Ind:""},
-  {Bible:"Exodus", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:""All who are skilled among you are to come and make everything the LORD has commanded:", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"All who are skilled among you are to come and make everything the LORD has commanded:", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:11, Page:1, Kor:"", Chn:"", Eng:"the tabernacle with its tent and its covering, clasps, frames, crossbars, posts and bases;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:12, Page:1, Kor:"", Chn:"", Eng:"the ark with its poles and the atonement cover and the curtain that shields it;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:13, Page:1, Kor:"", Chn:"", Eng:"the table with its poles and all its articles and the bread of the Presence;", Ind:""},
@@ -20,7 +20,7 @@ BibleDB.add([
   {Bible:"Exodus", Chapter:35, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the altar of burnt offering with its bronze grating, its poles and all its utensils; the bronze basin with its stand;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:17, Page:1, Kor:"", Chn:"", Eng:"the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:18, Page:1, Kor:"", Chn:"", Eng:"the tent pegs for the tabernacle and for the courtyard, and their ropes;", Ind:""},
-  {Bible:"Exodus", Chapter:35, Verse:19, Page:1, Kor:"", Chn:"", Eng:"the woven garments worn for ministering in the sanctuary--both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests."", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:19, Page:1, Kor:"", Chn:"", Eng:"the woven garments worn for ministering in the sanctuary--both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.\"", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then the whole Israelite community withdrew from Moses' presence,", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and everyone who was willing and whose heart moved him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its service, and for the sacred garments.", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:22, Page:1, Kor:"", Chn:"", Eng:"All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the LORD.", Ind:""},
@@ -31,7 +31,7 @@ BibleDB.add([
   {Bible:"Exodus", Chapter:35, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece.", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense.", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:29, Page:1, Kor:"", Chn:"", Eng:"All the Israelite men and women who were willing brought to the LORD freewill offerings for all the work the LORD through Moses had commanded them to do.", Ind:""},
-  {Bible:"Exodus", Chapter:35, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Moses said to the Israelites, "See, the LORD has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,", Ind:""},
+  {Bible:"Exodus", Chapter:35, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Moses said to the Israelites, \"See, the LORD has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:31, Page:1, Kor:"", Chn:"", Eng:"and he has filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts--", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:32, Page:1, Kor:"", Chn:"", Eng:"to make artistic designs for work in gold, silver and bronze,", Ind:""},
   {Bible:"Exodus", Chapter:35, Verse:33, Page:1, Kor:"", Chn:"", Eng:"to cut and set stones, to work in wood and to engage in all kinds of artistic craftsmanship.", Ind:""},

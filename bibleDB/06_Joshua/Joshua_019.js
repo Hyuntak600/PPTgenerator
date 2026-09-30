@@ -1,5 +1,5 @@
 // 여호수아 19장 · Joshua 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",19,51);
 BibleDB.add([
   {Bible:"Joshua", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The second lot came out for the tribe of Simeon, clan by clan. Their inheritance lay within the territory of Judah.", Ind:""},

@@ -1,11 +1,11 @@
 // 사도행전 28장 · Acts 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Acts",28,30);
 BibleDB.add([
   {Bible:"Acts", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Once safely on shore, we found out that the island was called Malta.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand.", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When the islanders saw the snake hanging from his hand, they said to each other, "This man must be a murderer; for though he escaped from the sea, Justice has not allowed him to live."", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When the islanders saw the snake hanging from his hand, they said to each other, \"This man must be a murderer; for though he escaped from the sea, Justice has not allowed him to live.\"", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But Paul shook the snake off into the fire and suffered no ill effects.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The people expected him to swell up or suddenly fall dead, but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and for three days entertained us hospitably.", Ind:""},
@@ -18,18 +18,18 @@ BibleDB.add([
   {Bible:"Acts", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"There we found some brothers who invited us to spend a week with them. And so we came to Rome.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The brothers there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these men Paul thanked God and was encouraged.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them: "My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them: \"My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They examined me and wanted to release me, because I was not guilty of any crime deserving death.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But when the Jews objected, I was compelled to appeal to Caesar--not that I had any charge to bring against my own people.", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain."", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They replied, "We have not received any letters from Judea concerning you, and none of the brothers who have come from there has reported or said anything bad about you.", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But we want to hear what your views are, for we know that people everywhere are talking against this sect."", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.\"", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They replied, \"We have not received any letters from Judea concerning you, and none of the brothers who have come from there has reported or said anything bad about you.", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But we want to hear what your views are, for we know that people everywhere are talking against this sect.\"", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. From morning till evening he explained and declared to them the kingdom of God and tried to convince them about Jesus from the Law of Moses and from the Prophets.", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Some were convinced by what he said, but others would not believe.", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They disagreed among themselves and began to leave after Paul had made this final statement: "The Holy Spirit spoke the truth to your forefathers when he said through Isaiah the prophet:", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:""'Go to this people and say, "You will be ever hearing but never understanding; you will be ever seeing but never perceiving."", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They disagreed among themselves and began to leave after Paul had made this final statement: \"The Holy Spirit spoke the truth to your forefathers when he said through Isaiah the prophet:", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"\"'Go to this people and say, \"You will be ever hearing but never understanding; you will be ever seeing but never perceiving.\"", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'", Ind:""},
-  {Bible:"Acts", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!"", Ind:""},
+  {Bible:"Acts", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:"\"Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!\"", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:29, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
   {Bible:"Acts", Chapter:28, Verse:30, Page:1, Kor:"", Chn:"", Eng:"For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.", Ind:""},
 ]);

@@ -1,17 +1,17 @@
 // 시편 35장 · Psalms 35
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",35,28);
 BibleDB.add([
   {Bible:"Psalms", Chapter:35, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Contend, O LORD, with those who contend with me; fight against those who fight against me.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Take up shield and buckler; arise and come to my aid.", Ind:""},
-  {Bible:"Psalms", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Brandish spear and javelin against those who pursue me. Say to my soul, "I am your salvation."", Ind:""},
+  {Bible:"Psalms", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Brandish spear and javelin against those who pursue me. Say to my soul, \"I am your salvation.\"", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:4, Page:1, Kor:"", Chn:"", Eng:"May those who seek my life be disgraced and put to shame; may those who plot my ruin be turned back in dismay.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:5, Page:1, Kor:"", Chn:"", Eng:"May they be like chaff before the wind, with the angel of the LORD driving them away;", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:6, Page:1, Kor:"", Chn:"", Eng:"may their path be dark and slippery, with the angel of the LORD pursuing them.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Since they hid their net for me without cause and without cause dug a pit for me,", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:8, Page:1, Kor:"", Chn:"", Eng:"may ruin overtake them by surprise--may the net they hid entangle them, may they fall into the pit, to their ruin.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then my soul will rejoice in the LORD and delight in his salvation.", Ind:""},
-  {Bible:"Psalms", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:"My whole being will exclaim, "Who is like you, O LORD? You rescue the poor from those too strong for them, the poor and needy from those who rob them."", Ind:""},
+  {Bible:"Psalms", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:"My whole being will exclaim, \"Who is like you, O LORD? You rescue the poor from those too strong for them, the poor and needy from those who rob them.\"", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Ruthless witnesses come forward; they question me on things I know nothing about.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They repay me evil for good and leave my soul forlorn.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Yet when they were ill, I put on sackcloth and humbled myself with fasting. When my prayers returned to me unanswered,", Ind:""},
@@ -22,12 +22,12 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:35, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will give you thanks in the great assembly; among throngs of people I will praise you.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Let not those gloat over me who are my enemies without cause; let not those who hate me without reason maliciously wink the eye.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They do not speak peaceably, but devise false accusations against those who live quietly in the land.", Ind:""},
-  {Bible:"Psalms", Chapter:35, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They gape at me and say, "Aha! Aha! With our own eyes we have seen it."", Ind:""},
+  {Bible:"Psalms", Chapter:35, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They gape at me and say, \"Aha! Aha! With our own eyes we have seen it.\"", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:22, Page:1, Kor:"", Chn:"", Eng:"O LORD, you have seen this; be not silent. Do not be far from me, O Lord.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Awake, and rise to my defense! Contend for me, my God and Lord.", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Vindicate me in your righteousness, O LORD my God; do not let them gloat over me.", Ind:""},
-  {Bible:"Psalms", Chapter:35, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not let them think, "Aha, just what we wanted!" or say, "We have swallowed him up."", Ind:""},
+  {Bible:"Psalms", Chapter:35, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not let them think, \"Aha, just what we wanted!\" or say, \"We have swallowed him up.\"", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:26, Page:1, Kor:"", Chn:"", Eng:"May all who gloat over my distress be put to shame and confusion; may all who exalt themselves over me be clothed with shame and disgrace.", Ind:""},
-  {Bible:"Psalms", Chapter:35, Verse:27, Page:1, Kor:"", Chn:"", Eng:"May those who delight in my vindication shout for joy and gladness; may they always say, "The LORD be exalted, who delights in the well-being of his servant."", Ind:""},
+  {Bible:"Psalms", Chapter:35, Verse:27, Page:1, Kor:"", Chn:"", Eng:"May those who delight in my vindication shout for joy and gladness; may they always say, \"The LORD be exalted, who delights in the well-being of his servant.\"", Ind:""},
   {Bible:"Psalms", Chapter:35, Verse:28, Page:1, Kor:"", Chn:"", Eng:"My tongue will speak of your righteousness and of your praises all day long.", Ind:""},
 ]);

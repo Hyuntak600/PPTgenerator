@@ -1,5 +1,5 @@
 // 시편 105장 · Psalms 105
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",105,45);
 BibleDB.add([
   {Bible:"Psalms", Chapter:105, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, call on his name; make known among the nations what he has done.", Ind:""},
@@ -12,11 +12,11 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:105, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He remembers his covenant forever, the word he commanded, for a thousand generations,", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:9, Page:1, Kor:"", Chn:"", Eng:"the covenant he made with Abraham, the oath he swore to Isaac.", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:", Ind:""},
-  {Bible:"Psalms", Chapter:105, Verse:11, Page:1, Kor:"", Chn:"", Eng:""To you I will give the land of Canaan as the portion you will inherit."", Ind:""},
+  {Bible:"Psalms", Chapter:105, Verse:11, Page:1, Kor:"", Chn:"", Eng:"\"To you I will give the land of Canaan as the portion you will inherit.\"", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When they were but few in number, few indeed, and strangers in it,", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:13, Page:1, Kor:"", Chn:"", Eng:"they wandered from nation to nation, from one kingdom to another.", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He allowed no one to oppress them; for their sake he rebuked kings:", Ind:""},
-  {Bible:"Psalms", Chapter:105, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Do not touch my anointed ones; do my prophets no harm."", Ind:""},
+  {Bible:"Psalms", Chapter:105, Verse:15, Page:1, Kor:"", Chn:"", Eng:"\"Do not touch my anointed ones; do my prophets no harm.\"", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He called down famine on the land and destroyed all their supplies of food;", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:17, Page:1, Kor:"", Chn:"", Eng:"and he sent a man before them--Joseph, sold as a slave.", Ind:""},
   {Bible:"Psalms", Chapter:105, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They bruised his feet with shackles, his neck was put in irons,", Ind:""},

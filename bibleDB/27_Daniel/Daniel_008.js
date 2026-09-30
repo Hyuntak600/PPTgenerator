@@ -1,5 +1,5 @@
 // 다니엘 8장 · Daniel 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Daniel",8,27);
 BibleDB.add([
   {Bible:"Daniel", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the third year of King Belshazzar's reign, I, Daniel, had a vision, after the one that had already appeared to me.", Ind:""},
@@ -14,19 +14,19 @@ BibleDB.add([
   {Bible:"Daniel", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"It grew until it reached the host of the heavens, and it threw some of the starry host down to the earth and trampled on them.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It set itself up to be as great as the Prince of the host; it took away the daily sacrifice from him, and the place of his sanctuary was brought low.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Because of rebellion, the host of the saints and the daily sacrifice were given over to it. It prospered in everything it did, and truth was thrown to the ground.", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then I heard a holy one speaking, and another holy one said to him, "How long will it take for the vision to be fulfilled--the vision concerning the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host that will be trampled underfoot?"", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He said to me, "It will take 2,300 evenings and mornings; then the sanctuary will be reconsecrated."", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then I heard a holy one speaking, and another holy one said to him, \"How long will it take for the vision to be fulfilled--the vision concerning the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host that will be trampled underfoot?\"", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He said to me, \"It will take 2,300 evenings and mornings; then the sanctuary will be reconsecrated.\"", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"While I, Daniel, was watching the vision and trying to understand it, there before me stood one who looked like a man.", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And I heard a man's voice from the Ulai calling, "Gabriel, tell this man the meaning of the vision."", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As he came near the place where I was standing, I was terrified and fell prostrate. "Son of man," he said to me, "understand that the vision concerns the time of the end."", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And I heard a man's voice from the Ulai calling, \"Gabriel, tell this man the meaning of the vision.\"", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As he came near the place where I was standing, I was terrified and fell prostrate. \"Son of man,\" he said to me, \"understand that the vision concerns the time of the end.\"", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"While he was speaking to me, I was in a deep sleep, with my face to the ground. Then he touched me and raised me to my feet.", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He said: "I am going to tell you what will happen later in the time of wrath, because the vision concerns the appointed time of the end.", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He said: \"I am going to tell you what will happen later in the time of wrath, because the vision concerns the appointed time of the end.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The two-horned ram that you saw represents the kings of Media and Persia.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The shaggy goat is the king of Greece, and the large horn between his eyes is the first king.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The four horns that replaced the one that was broken off represent four kingdoms that will emerge from his nation but will not have the same power.", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:""In the latter part of their reign, when rebels have become completely wicked, a stern-faced king, a master of intrigue, will arise.", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"In the latter part of their reign, when rebels have become completely wicked, a stern-faced king, a master of intrigue, will arise.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy the mighty men and the holy people.", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He will cause deceit to prosper, and he will consider himself superior. When they feel secure, he will destroy many and take his stand against the Prince of princes. Yet he will be destroyed, but not by human power.", Ind:""},
-  {Bible:"Daniel", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:""The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future."", Ind:""},
+  {Bible:"Daniel", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"\"The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.\"", Ind:""},
   {Bible:"Daniel", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I, Daniel, was exhausted and lay ill for several days. Then I got up and went about the king's business. I was appalled by the vision; it was beyond understanding.", Ind:""},
 ]);

@@ -1,14 +1,14 @@
 // 레위기 9장 · Leviticus 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Leviticus",9,24);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"On the eighth day Moses summoned Aaron and his sons and the elders of Israel.", Ind:""},
-  {Bible:"Leviticus", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He said to Aaron, "Take a bull calf for your sin offering and a ram for your burnt offering, both without defect, and present them before the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He said to Aaron, \"Take a bull calf for your sin offering and a ram for your burnt offering, both without defect, and present them before the LORD.", Ind:""},
   {Bible:"Leviticus", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then say to the Israelites: 'Take a male goat for a sin offering, a calf and a lamb--both a year old and without defect--for a burnt offering,", Ind:""},
-  {Bible:"Leviticus", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and an ox and a ram for a fellowship offering to sacrifice before the LORD, together with a grain offering mixed with oil. For today the LORD will appear to you.'"", Ind:""},
+  {Bible:"Leviticus", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and an ox and a ram for a fellowship offering to sacrifice before the LORD, together with a grain offering mixed with oil. For today the LORD will appear to you.'\"", Ind:""},
   {Bible:"Leviticus", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They took the things Moses commanded to the front of the Tent of Meeting, and the entire assembly came near and stood before the LORD.", Ind:""},
-  {Bible:"Leviticus", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses said, "This is what the LORD has commanded you to do, so that the glory of the LORD may appear to you."", Ind:""},
-  {Bible:"Leviticus", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Moses said to Aaron, "Come to the altar and sacrifice your sin offering and your burnt offering and make atonement for yourself and the people; sacrifice the offering that is for the people and make atonement for them, as the LORD has commanded."", Ind:""},
+  {Bible:"Leviticus", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses said, \"This is what the LORD has commanded you to do, so that the glory of the LORD may appear to you.\"", Ind:""},
+  {Bible:"Leviticus", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Moses said to Aaron, \"Come to the altar and sacrifice your sin offering and your burnt offering and make atonement for yourself and the people; sacrifice the offering that is for the people and make atonement for them, as the LORD has commanded.\"", Ind:""},
   {Bible:"Leviticus", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So Aaron came to the altar and slaughtered the calf as a sin offering for himself.", Ind:""},
   {Bible:"Leviticus", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"His sons brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar; the rest of the blood he poured out at the base of the altar.", Ind:""},
   {Bible:"Leviticus", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"On the altar he burned the fat, the kidneys and the covering of the liver from the sin offering, as the LORD commanded Moses;", Ind:""},

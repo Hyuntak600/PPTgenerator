@@ -1,5 +1,5 @@
 // 창세기 10장 · Genesis 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",10,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the account of Shem, Ham and Japheth, Noah's sons, who themselves had sons after the  flood.", Ind:""},
@@ -10,7 +10,7 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The sons of Ham: Cush, Mizraim, Put and Canaan.", Ind:""},
   {Bible:"Genesis", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The sons of Cush: Seba, Havilah, Sabtah, Raamah and Sabteca. The sons of Raamah: Sheba and  Dedan.", Ind:""},
   {Bible:"Genesis", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Cush was the father of Nimrod, who grew to be a mighty warrior on the earth.", Ind:""},
-  {Bible:"Genesis", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He was a mighty hunter before the LORD; that is why it is said, "Like Nimrod, a mighty  hunter before the LORD."", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He was a mighty hunter before the LORD; that is why it is said, \"Like Nimrod, a mighty  hunter before the LORD.\"", Ind:""},
   {Bible:"Genesis", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The first centers of his kingdom were Babylon, Erech, Akkad and Calneh, in Shinar.", Ind:""},
   {Bible:"Genesis", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"From that land he went to Assyria, where he built Nineveh, Rehoboth Ir, Calah", Ind:""},
   {Bible:"Genesis", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"and Resen, which is between Nineveh and Calah; that is the great city.", Ind:""},

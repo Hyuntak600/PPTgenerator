@@ -1,5 +1,5 @@
 // 빌립보서 3장 · Philippians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Philippians",3,21);
 BibleDB.add([
   {Bible:"Philippians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Finally, my brothers, rejoice in the Lord! It is no trouble for me to write the same things to you again, and it is a safeguard for you.", Ind:""},

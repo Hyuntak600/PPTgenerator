@@ -1,13 +1,13 @@
 // 히브리서 13장 · Hebrews 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",13,24);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Keep on loving each other as brothers.", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Do not forget to entertain strangers, for by so doing some people have entertained angels without knowing it.", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Remember those in prison as if you were their fellow prisoners, and those who are mistreated as if you yourselves were suffering.", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral.", Ind:""},
-  {Bible:"Hebrews", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Keep your lives free from the love of money and be content with what you have, because God has said, "Never will I leave you; never will I forsake you."", Ind:""},
-  {Bible:"Hebrews", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So we say with confidence, "The Lord is my helper; I will not be afraid. What can man do to me?"", Ind:""},
+  {Bible:"Hebrews", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Keep your lives free from the love of money and be content with what you have, because God has said, \"Never will I leave you; never will I forsake you.\"", Ind:""},
+  {Bible:"Hebrews", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So we say with confidence, \"The Lord is my helper; I will not be afraid. What can man do to me?\"", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Remember your leaders, who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith.", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Jesus Christ is the same yesterday and today and forever.", Ind:""},
   {Bible:"Hebrews", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not be carried away by all kinds of strange teachings. It is good for our hearts to be strengthened by grace, not by ceremonial foods, which are of no value to those who eat them.", Ind:""},

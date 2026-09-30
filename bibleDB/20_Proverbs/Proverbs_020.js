@@ -1,5 +1,5 @@
 // 잠언 20장 · Proverbs 20
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",20,30);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:20, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.", Ind:""},
@@ -10,12 +10,12 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:20, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Many a man claims to have unfailing love, but a faithful man who can find?", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The righteous man leads a blameless life; blessed are his children after him.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When a king sits on his throne to judge, he winnows out all evil with his eyes.", Ind:""},
-  {Bible:"Proverbs", Chapter:20, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Who can say, "I have kept my heart pure; I am clean and without sin"?", Ind:""},
+  {Bible:"Proverbs", Chapter:20, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Who can say, \"I have kept my heart pure; I am clean and without sin\"?", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Differing weights and differing measures--the LORD detests them both.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Even a child is known by his actions, by whether his conduct is pure and right.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Ears that hear and eyes that see--the LORD has made them both.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Do not love sleep or you will grow poor; stay awake and you will have food to spare.", Ind:""},
-  {Bible:"Proverbs", Chapter:20, Verse:14, Page:1, Kor:"", Chn:"", Eng:""It's no good, it's no good!" says the buyer; then off he goes and boasts about his purchase.", Ind:""},
+  {Bible:"Proverbs", Chapter:20, Verse:14, Page:1, Kor:"", Chn:"", Eng:"\"It's no good, it's no good!\" says the buyer; then off he goes and boasts about his purchase.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Gold there is, and rubies in abundance, but lips that speak knowledge are a rare jewel.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Food gained by fraud tastes sweet to a man, but he ends up with a mouth full of gravel.", Ind:""},
@@ -23,7 +23,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:20, Verse:19, Page:1, Kor:"", Chn:"", Eng:"A gossip betrays a confidence; so avoid a man who talks too much.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:20, Page:1, Kor:"", Chn:"", Eng:"If a man curses his father or mother, his lamp will be snuffed out in pitch darkness.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:21, Page:1, Kor:"", Chn:"", Eng:"An inheritance quickly gained at the beginning will not be blessed at the end.", Ind:""},
-  {Bible:"Proverbs", Chapter:20, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not say, "I'll pay you back for this wrong!" Wait for the LORD, and he will deliver you.", Ind:""},
+  {Bible:"Proverbs", Chapter:20, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will deliver you.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The LORD detests differing weights, and dishonest scales do not please him.", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:24, Page:1, Kor:"", Chn:"", Eng:"A man's steps are directed by the LORD. How then can anyone understand his own way?", Ind:""},
   {Bible:"Proverbs", Chapter:20, Verse:25, Page:1, Kor:"", Chn:"", Eng:"It is a trap for a man to dedicate something rashly and only later to consider his vows.", Ind:""},

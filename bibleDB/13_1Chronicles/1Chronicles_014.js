@@ -1,6 +1,22 @@
-// 역대상 14장 · 1 Chronicles 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 14장 · 1Chronicles 14
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",14,17);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now Hiram king of Tyre sent messengers to David, along with cedar logs, stonemasons and carpenters to build a palace for him.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And David knew that the LORD had established him as king over Israel and that his kingdom had been highly exalted for the sake of his people Israel.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"In Jerusalem David took more wives and became the father of more sons and daughters.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"These are the names of the children born to him there: Shammua, Shobab, Nathan, Solomon,", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Ibhar, Elishua, Elpelet,", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Nogah, Nepheg, Japhia,", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Elishama, Beeliada and Eliphelet.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When the Philistines heard that David had been anointed king over all Israel, they went up in full force to search for him, but David heard about it and went out to meet them.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Now the Philistines had come and raided the Valley of Rephaim;", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"so David inquired of God: \"Shall I go and attack the Philistines? Will you hand them over to me?\" The LORD answered him, \"Go, I will hand them over to you.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So David and his men went up to Baal Perazim, and there he defeated them. He said, \"As waters break out, God has broken out against my enemies by my hand.\" So that place was called Baal Perazim.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The Philistines had abandoned their gods there, and David gave orders to burn them in the fire.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Once more the Philistines raided the valley;", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"so David inquired of God again, and God answered him, \"Do not go straight up, but circle around them and attack them in front of the balsam trees.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:"As soon as you hear the sound of marching in the tops of the balsam trees, move out to battle, because that will mean God has gone out in front of you to strike the Philistine army.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So David did as God commanded him, and they struck down the Philistine army, all the way from Gibeon to Gezer.", Ind:""},
+  {Bible:"1Chronicles", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So David's fame spread throughout every land, and the LORD made all the nations fear him.", Ind:""},
 ]);

@@ -1,11 +1,11 @@
 // 시편 118장 · Psalms 118
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",118,29);
 BibleDB.add([
   {Bible:"Psalms", Chapter:118, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, for he is good; his love endures forever.", Ind:""},
-  {Bible:"Psalms", Chapter:118, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Let Israel say: "His love endures forever."", Ind:""},
-  {Bible:"Psalms", Chapter:118, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Let the house of Aaron say: "His love endures forever."", Ind:""},
-  {Bible:"Psalms", Chapter:118, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Let those who fear the LORD say: "His love endures forever."", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Let Israel say: \"His love endures forever.\"", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Let the house of Aaron say: \"His love endures forever.\"", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Let those who fear the LORD say: \"His love endures forever.\"", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:5, Page:1, Kor:"", Chn:"", Eng:"In my anguish I cried to the LORD, and he answered by setting me free.", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD is with me; I will not be afraid. What can man do to me?", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The LORD is with me; he is my helper. I will look in triumph on my enemies.", Ind:""},
@@ -16,8 +16,8 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:118, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They swarmed around me like bees, but they died out as quickly as burning thorns; in the name of the LORD I cut them off.", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I was pushed back and about to fall, but the LORD helped me.", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD is my strength and my song; he has become my salvation.", Ind:""},
-  {Bible:"Psalms", Chapter:118, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Shouts of joy and victory resound in the tents of the righteous: "The LORD'S right hand has done mighty things!", Ind:""},
-  {Bible:"Psalms", Chapter:118, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD'S right hand is lifted high; the LORD'S right hand has done mighty things!"", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Shouts of joy and victory resound in the tents of the righteous: \"The LORD'S right hand has done mighty things!", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD'S right hand is lifted high; the LORD'S right hand has done mighty things!\"", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I will not die but live, and will proclaim what the LORD has done.", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The LORD has chastened me severely, but he has not given me over to death.", Ind:""},
   {Bible:"Psalms", Chapter:118, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Open for me the gates of righteousness; I will enter and give thanks to the LORD.", Ind:""},

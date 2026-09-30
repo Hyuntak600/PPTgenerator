@@ -1,5 +1,5 @@
 // 시편 139장 · Psalms 139
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",139,24);
 BibleDB.add([
   {Bible:"Psalms", Chapter:139, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O LORD, you have searched me and you know me.", Ind:""},
@@ -12,7 +12,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:139, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If I go up to the heavens, you are there; if I make my bed in the depths, you are there.", Ind:""},
   {Bible:"Psalms", Chapter:139, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If I rise on the wings of the dawn, if I settle on the far side of the sea,", Ind:""},
   {Bible:"Psalms", Chapter:139, Verse:10, Page:1, Kor:"", Chn:"", Eng:"even there your hand will guide me, your right hand will hold me fast.", Ind:""},
-  {Bible:"Psalms", Chapter:139, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If I say, "Surely the darkness will hide me and the light become night around me,"", Ind:""},
+  {Bible:"Psalms", Chapter:139, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If I say, \"Surely the darkness will hide me and the light become night around me,\"", Ind:""},
   {Bible:"Psalms", Chapter:139, Verse:12, Page:1, Kor:"", Chn:"", Eng:"even the darkness will not be dark to you; the night will shine like the day, for darkness is as light to you.", Ind:""},
   {Bible:"Psalms", Chapter:139, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For you created my inmost being; you knit me together in my mother's womb.", Ind:""},
   {Bible:"Psalms", Chapter:139, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.", Ind:""},

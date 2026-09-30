@@ -1,5 +1,5 @@
 // 전도서 4장 · Ecclesiastes 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",4,16);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Again I looked and saw all the oppression that was taking place under the sun: I saw the tears of the oppressed--and they have no comforter; power was on the side of their oppressors--and they have no comforter.", Ind:""},
@@ -9,7 +9,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The fool folds his hands and ruins himself.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Better one handful with tranquillity than two handfuls with toil and chasing after the wind.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Again I saw something meaningless under the sun:", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. "For whom am I toiling," he asked, "and why am I depriving myself of enjoyment?" This too is meaningless--a miserable business!", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. \"For whom am I toiling,\" he asked, \"and why am I depriving myself of enjoyment?\" This too is meaningless--a miserable business!", Ind:""},
   {Bible:"Ecclesiastes", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Two are better than one, because they have a good return for their work:", Ind:""},
   {Bible:"Ecclesiastes", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"If one falls down, his friend can help him up. But pity the man who falls and has no one to help him up!", Ind:""},
   {Bible:"Ecclesiastes", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Also, if two lie down together, they will keep warm. But how can one keep warm alone?", Ind:""},

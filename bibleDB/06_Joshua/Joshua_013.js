@@ -1,14 +1,14 @@
 // 여호수아 13장 · Joshua 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",13,33);
 BibleDB.add([
-  {Bible:"Joshua", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Joshua was old and well advanced in years, the LORD said to him, "You are very old, and there are still very large areas of land to be taken over.", Ind:""},
-  {Bible:"Joshua", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:""This is the land that remains: all the regions of the Philistines and Geshurites:", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Joshua was old and well advanced in years, the LORD said to him, \"You are very old, and there are still very large areas of land to be taken over.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"This is the land that remains: all the regions of the Philistines and Geshurites:", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"from the Shihor River on the east of Egypt to the territory of Ekron on the north, all of it counted as Canaanite (the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron--that of the Avvites);", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"from the south, all the land of the Canaanites, from Arah of the Sidonians as far as Aphek, the region of the Amorites,", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"the area of the Gebalites; and all Lebanon to the east, from Baal Gad below Mount Hermon to Lebo Hamath.", Ind:""},
-  {Bible:"Joshua", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:""As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,", Ind:""},
-  {Bible:"Joshua", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and divide it as an inheritance among the nine tribes and half of the tribe of Manasseh."", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and divide it as an inheritance among the nine tribes and half of the tribe of Manasseh.\"", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the LORD, had assigned it to them.", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"It extended from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and included the whole plateau of Medeba as far as Dibon,", Ind:""},
   {Bible:"Joshua", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and all the towns of Sihon king of the Amorites, who ruled in Heshbon, out to the border of the Ammonites.", Ind:""},

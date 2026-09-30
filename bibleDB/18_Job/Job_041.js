@@ -1,8 +1,8 @@
 // 욥기 41장 · Job 41
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",41,34);
 BibleDB.add([
-  {Bible:"Job", Chapter:41, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:1, Page:1, Kor:"", Chn:"", Eng:"\"Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Can you put a cord through his nose or pierce his jaw with a hook?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Will he keep begging you for mercy? Will he speak to you with gentle words?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Will he make an agreement with you for you to take him as your slave for life?", Ind:""},
@@ -13,7 +13,7 @@ BibleDB.add([
   {Bible:"Job", Chapter:41, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Any hope of subduing him is false; the mere sight of him is overpowering.", Ind:""},
   {Bible:"Job", Chapter:41, Verse:10, Page:1, Kor:"", Chn:"", Eng:"No one is fierce enough to rouse him. Who then is able to stand against me?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Who has a claim against me that I must pay? Everything under heaven belongs to me.", Ind:""},
-  {Bible:"Job", Chapter:41, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I will not fail to speak of his limbs, his strength and his graceful form.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"I will not fail to speak of his limbs, his strength and his graceful form.", Ind:""},
   {Bible:"Job", Chapter:41, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Who can strip off his outer coat? Who would approach him with a bridle?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Who dares open the doors of his mouth, ringed about with his fearsome teeth?", Ind:""},
   {Bible:"Job", Chapter:41, Verse:15, Page:1, Kor:"", Chn:"", Eng:"His back has rows of shields tightly sealed together;", Ind:""},
@@ -35,5 +35,5 @@ BibleDB.add([
   {Bible:"Job", Chapter:41, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He makes the depths churn like a boiling caldron and stirs up the sea like a pot of ointment.", Ind:""},
   {Bible:"Job", Chapter:41, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Behind him he leaves a glistening wake; one would think the deep had white hair.", Ind:""},
   {Bible:"Job", Chapter:41, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Nothing on earth is his equal--a creature without fear.", Ind:""},
-  {Bible:"Job", Chapter:41, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He looks down on all that are haughty; he is king over all that are proud."", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He looks down on all that are haughty; he is king over all that are proud.\"", Ind:""},
 ]);

@@ -1,5 +1,5 @@
 // 로마서 2장 · Romans 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",2,29);
 BibleDB.add([
   {Bible:"Romans", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge the other, you are condemning yourself, because you who pass judgment do the same things.", Ind:""},
@@ -7,7 +7,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So when you, a mere man, pass judgment on them and yet do the same things, do you think you will escape God's judgment?", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Or do you show contempt for the riches of his kindness, tolerance and patience, not realizing that God's kindness leads you toward repentance?", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God's wrath, when his righteous judgment will be revealed.", Ind:""},
-  {Bible:"Romans", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"God "will give to each person according to what he has done."", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"God \"will give to each person according to what he has done.\"", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile;", Ind:""},
@@ -25,7 +25,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You who brag about the law, do you dishonor God by breaking the law?", Ind:""},
-  {Bible:"Romans", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"As it is written: "God's name is blasphemed among the Gentiles because of you."", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"As it is written: \"God's name is blasphemed among the Gentiles because of you.\"", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised.", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If those who are not circumcised keep the law's requirements, will they not be regarded as though they were circumcised?", Ind:""},
   {Bible:"Romans", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.", Ind:""},

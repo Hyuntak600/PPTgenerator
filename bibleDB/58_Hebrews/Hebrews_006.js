@@ -1,5 +1,5 @@
 // 히브리서 6장 · Hebrews 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",6,20);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from acts that lead to death, and of faith in God,", Ind:""},
@@ -15,7 +15,7 @@ BibleDB.add([
   {Bible:"Hebrews", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"We want each of you to show this same diligence to the very end, in order to make your hope sure.", Ind:""},
   {Bible:"Hebrews", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"We do not want you to become lazy, but to imitate those who through faith and patience inherit what has been promised.", Ind:""},
   {Bible:"Hebrews", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When God made his promise to Abraham, since there was no one greater for him to swear by, he swore by himself,", Ind:""},
-  {Bible:"Hebrews", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"saying, "I will surely bless you and give you many descendants."", Ind:""},
+  {Bible:"Hebrews", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"saying, \"I will surely bless you and give you many descendants.\"", Ind:""},
   {Bible:"Hebrews", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And so after waiting patiently, Abraham received what was promised.", Ind:""},
   {Bible:"Hebrews", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Men swear by someone greater than themselves, and the oath confirms what is said and puts an end to all argument.", Ind:""},
   {Bible:"Hebrews", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Because God wanted to make the unchanging nature of his purpose very clear to the heirs of what was promised, he confirmed it with an oath.", Ind:""},

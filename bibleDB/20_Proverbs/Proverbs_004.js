@@ -1,16 +1,16 @@
 // 잠언 4장 · Proverbs 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",4,27);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Listen, my sons, to a father's instruction; pay attention and gain understanding.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I give you sound learning, so do not forsake my teaching.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When I was a boy in my father's house, still tender, and an only child of my mother,", Ind:""},
-  {Bible:"Proverbs", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he taught me and said, "Lay hold of my words with all your heart; keep my commands and you will live.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he taught me and said, \"Lay hold of my words with all your heart; keep my commands and you will live.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Get wisdom, get understanding; do not forget my words or swerve from them.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not forsake wisdom, and she will protect you; love her, and she will watch over you.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Wisdom is supreme; therefore get wisdom. Though it cost all you have, get understanding.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Esteem her, and she will exalt you; embrace her, and she will honor you.", Ind:""},
-  {Bible:"Proverbs", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"She will set a garland of grace on your head and present you with a crown of splendor."", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"She will set a garland of grace on your head and present you with a crown of splendor.\"", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Listen, my son, accept what I say, and the years of your life will be many.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I guide you in the way of wisdom and lead you along straight paths.", Ind:""},
   {Bible:"Proverbs", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When you walk, your steps will not be hampered; when you run, you will not stumble.", Ind:""},

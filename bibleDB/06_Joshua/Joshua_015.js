@@ -1,5 +1,5 @@
 // 여호수아 15장 · Joshua 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",15,63);
 BibleDB.add([
   {Bible:"Joshua", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The allotment for the tribe of Judah, clan by clan, extended down to the territory of Edom, to the Desert of Zin in the extreme south.", Ind:""},
@@ -17,10 +17,10 @@ BibleDB.add([
   {Bible:"Joshua", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"In accordance with the LORD'S command to him, Joshua gave to Caleb son of Jephunneh a portion in Judah--Kiriath Arba, that is, Hebron. (Arba was the forefather of Anak.)", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"From Hebron Caleb drove out the three Anakites--Sheshai, Ahiman and Talmai--descendants of Anak.", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"From there he marched against the people living in Debir (formerly called Kiriath Sepher).", Ind:""},
-  {Bible:"Joshua", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And Caleb said, "I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher."", Ind:""},
+  {Bible:"Joshua", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And Caleb said, \"I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher.\"", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Othniel son of Kenaz, Caleb's brother, took it; so Caleb gave his daughter Acsah to him in marriage.", Ind:""},
-  {Bible:"Joshua", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, "What can I do for you?"", Ind:""},
-  {Bible:"Joshua", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"She replied, "Do me a special favor. Since you have given me land in the Negev, give me also springs of water." So Caleb gave her the upper and lower springs.", Ind:""},
+  {Bible:"Joshua", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\"", Ind:""},
+  {Bible:"Joshua", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"She replied, \"Do me a special favor. Since you have given me land in the Negev, give me also springs of water.\" So Caleb gave her the upper and lower springs.", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"This is the inheritance of the tribe of Judah, clan by clan:", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, Jagur,", Ind:""},
   {Bible:"Joshua", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Kinah, Dimonah, Adadah,", Ind:""},

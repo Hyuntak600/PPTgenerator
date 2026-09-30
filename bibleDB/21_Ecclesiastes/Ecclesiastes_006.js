@@ -1,5 +1,5 @@
 // 전도서 6장 · Ecclesiastes 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",6,12);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I have seen another evil under the sun, and it weighs heavily on men:", Ind:""},

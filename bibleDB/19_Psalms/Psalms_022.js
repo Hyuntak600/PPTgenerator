@@ -1,5 +1,5 @@
 // 시편 22장 · Psalms 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",22,31);
 BibleDB.add([
   {Bible:"Psalms", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My God, my God, why have you forsaken me? Why are you so far from saving me, so far from the words of my groaning?", Ind:""},
@@ -9,7 +9,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They cried to you and were saved; in you they trusted and were not disappointed.", Ind:""},
   {Bible:"Psalms", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But I am a worm and not a man, scorned by men and despised by the people.", Ind:""},
   {Bible:"Psalms", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All who see me mock me; they hurl insults, shaking their heads:", Ind:""},
-  {Bible:"Psalms", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:""He trusts in the LORD; let the LORD rescue him. Let him deliver him, since he delights in him."", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"He trusts in the LORD; let the LORD rescue him. Let him deliver him, since he delights in him.\"", Ind:""},
   {Bible:"Psalms", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Yet you brought me out of the womb; you made me trust in you even at my mother's breast.", Ind:""},
   {Bible:"Psalms", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"From birth I was cast upon you; from my mother's womb you have been my God.", Ind:""},
   {Bible:"Psalms", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Do not be far from me, for trouble is near and there is no one to help.", Ind:""},

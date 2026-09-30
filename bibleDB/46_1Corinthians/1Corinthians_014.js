@@ -1,6 +1,45 @@
-// 고린도전서 14장 · 1 Corinthians 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Corinthians",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 고린도전서 14장 · 1Corinthians 14
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Corinthians",14,40);
 BibleDB.add([
+  {Bible:"1Corinthians", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Follow the way of love and eagerly desire spiritual gifts, especially the gift of prophecy.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"For anyone who speaks in a tongue does not speak to men but to God. Indeed, no one understands him; he utters mysteries with his spirit.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But everyone who prophesies speaks to men for their strengthening, encouragement and comfort.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He who speaks in a tongue edifies himself, but he who prophesies edifies the church.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I would like every one of you to speak in tongues, but I would rather have you prophesy. He who prophesies is greater than one who speaks in tongues, unless he interprets, so that the church may be edified.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Now, brothers, if I come to you and speak in tongues, what good will I be to you, unless I bring you some revelation or knowledge or prophecy or word of instruction?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Even in the case of lifeless things that make sounds, such as the flute or harp, how will anyone know what tune is being played unless there is a distinction in the notes?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Again, if the trumpet does not sound a clear call, who will get ready for battle?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Undoubtedly there are all sorts of languages in the world, yet none of them is without meaning.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If then I do not grasp the meaning of what someone is saying, I am a foreigner to the speaker, and he is a foreigner to me.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"So it is with you. Since you are eager to have spiritual gifts, try to excel in gifts that build up the church.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For this reason anyone who speaks in a tongue should pray that he may interpret what he says.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For if I pray in a tongue, my spirit prays, but my mind is unfruitful.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So what shall I do? I will pray with my spirit, but I will also pray with my mind; I will sing with my spirit, but I will also sing with my mind.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If you are praising God with your spirit, how can one who finds himself among those who do not understand say \"Amen\" to your thanksgiving, since he does not know what you are saying?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may be giving thanks well enough, but the other man is not edified.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I thank God that I speak in tongues more than all of you.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But in the church I would rather speak five intelligible words to instruct others than ten thousand words in a tongue.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Brothers, stop thinking like children. In regard to evil be infants, but in your thinking be adults.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"In the Law it is written: \"Through men of strange tongues and through the lips of foreigners I will speak to this people, but even then they will not listen to me,\" says the Lord.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Tongues, then, are a sign, not for believers but for unbelievers; prophecy, however, is for believers, not for unbelievers.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"So if the whole church comes together and everyone speaks in tongues, and some who do not understand or some unbelievers come in, will they not say that you are out of your mind?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But if an unbeliever or someone who does not understand comes in while everybody is prophesying, he will be convinced by all that he is a sinner and will be judged by all,", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:25, Page:1, Kor:"", Chn:"", Eng:"and the secrets of his heart will be laid bare. So he will fall down and worship God, exclaiming, \"God is really among you!\"", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:26, Page:1, Kor:"", Chn:"", Eng:"What then shall we say, brothers? When you come together, everyone has a hymn, or a word of instruction, a revelation, a tongue or an interpretation. All of these must be done for the strengthening of the church.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:27, Page:1, Kor:"", Chn:"", Eng:"If anyone speaks in a tongue, two--or at the most three--should speak, one at a time, and someone must interpret.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:28, Page:1, Kor:"", Chn:"", Eng:"If there is no interpreter, the speaker should keep quiet in the church and speak to himself and God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Two or three prophets should speak, and the others should weigh carefully what is said.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And if a revelation comes to someone who is sitting down, the first speaker should stop.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:31, Page:1, Kor:"", Chn:"", Eng:"For you can all prophesy in turn so that everyone may be instructed and encouraged.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The spirits of prophets are subject to the control of prophets.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:33, Page:1, Kor:"", Chn:"", Eng:"For God is not a God of disorder but of peace. As in all the congregations of the saints,", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:34, Page:1, Kor:"", Chn:"", Eng:"women should remain silent in the churches. They are not allowed to speak, but must be in submission, as the Law says.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:35, Page:1, Kor:"", Chn:"", Eng:"If they want to inquire about something, they should ask their own husbands at home; for it is disgraceful for a woman to speak in the church.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Did the word of God originate with you? Or are you the only people it has reached?", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:37, Page:1, Kor:"", Chn:"", Eng:"If anybody thinks he is a prophet or spiritually gifted, let him acknowledge that what I am writing to you is the Lord's command.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:38, Page:1, Kor:"", Chn:"", Eng:"If he ignores this, he himself will be ignored.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:39, Page:1, Kor:"", Chn:"", Eng:"Therefore, my brothers, be eager to prophesy, and do not forbid speaking in tongues.", Ind:""},
+  {Bible:"1Corinthians", Chapter:14, Verse:40, Page:1, Kor:"", Chn:"", Eng:"But everything should be done in a fitting and orderly way.", Ind:""},
 ]);

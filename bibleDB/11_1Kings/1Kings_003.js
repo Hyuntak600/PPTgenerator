@@ -1,6 +1,33 @@
-// 열왕기상 3장 · 1 Kings 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 3장 · 1Kings 3
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",3,28);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Solomon made an alliance with Pharaoh king of Egypt and married his daughter. He brought her to the City of David until he finished building his palace and the temple of the LORD, and the wall around Jerusalem.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The people, however, were still sacrificing at the high places, because a temple had not yet been built for the Name of the LORD.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Solomon showed his love for the LORD by walking according to the statutes of his father David, except that he offered sacrifices and burned incense on the high places.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The king went to Gibeon to offer sacrifices, for that was the most important high place, and Solomon offered a thousand burnt offerings on that altar.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"At Gibeon the LORD appeared to Solomon during the night in a dream, and God said, \"Ask for whatever you want me to give you.\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Solomon answered, \"You have shown great kindness to your servant, my father David, because he was faithful to you and righteous and upright in heart. You have continued this great kindness to him and have given him a son to sit on his throne this veryday.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Now, O LORD my God, you have made your servant king in place of my father David. But I am only a little child and do not know how to carry out my duties.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Your servant is here among the people you have chosen, a great people, too numerous to count or number.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So give your servant a discerning heart to govern your people and to distinguish between right and wrong. For who is able to govern this great people of yours?\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The Lord was pleased that Solomon had asked for this.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So God said to him, \"Since you have asked for this and not for long life or wealth for yourself, nor have asked for the death of your enemies but for discernment in administering justice,", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been anyone like you, nor will there ever be.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Moreover, I will give you what you have not asked for--both riches and honor--so that in your lifetime you will have no equal among kings.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"And if you walk in my ways and obey my statutes and commands as David your father did, I will give you a long life.\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then Solomon awoke--and he realized it had been a dream. He returned to Jerusalem, stood before the ark of the Lord's covenant and sacrificed burnt offerings and fellowship offerings. Then he gave a feast for all his court.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Now two prostitutes came to the king and stood before him.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"One of them said, \"My lord, this woman and I live in the same house. I had a baby while she was there with me.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The third day after my child was born, this woman also had a baby. We were alone; there was no one in the house but the two of us.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"\"During the night this woman's son died because she lay on him.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So she got up in the middle of the night and took my son from my side while I your servant was asleep. She put him by her breast and put her dead son by my breast.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The next morning, I got up to nurse my son--and he was dead! But when I looked at him closely in the morning light, I saw that it wasn't the son I had borne.\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The other woman said, \"No! The living one is my son; the dead one is yours.\" But the first one insisted, \"No! The dead one is yours; the living one is mine.\" And so they argued before the king.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The king said, \"This one says, 'My son is alive and your son is dead,' while that one says, 'No! Your son is dead and mine is alive.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then the king said, \"Bring me a sword.\" So they brought a sword for the king.", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He then gave an order: \"Cut the living child in two and give half to one and half to the other.\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The woman whose son was alive was filled with compassion for her son and said to the king, \"Please, my lord, give her the living baby! Don't kill him!\" But the other said, \"Neither I nor you shall have him. Cut him in two!\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then the king gave his ruling: \"Give the living baby to the first woman. Do not kill him; she is his mother.\"", Ind:""},
+  {Bible:"1Kings", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice.", Ind:""},
 ]);

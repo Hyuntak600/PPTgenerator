@@ -1,5 +1,5 @@
 // 이사야 59장 · Isaiah 59
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",59,21);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:59, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Surely the arm of the LORD is not too short to save, nor his ear too dull to hear.", Ind:""},
@@ -21,6 +21,6 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:59, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He put on righteousness as his breastplate, and the helmet of salvation on his head; he put on the garments of vengeance and wrapped himself in zeal as in a cloak.", Ind:""},
   {Bible:"Isaiah", Chapter:59, Verse:18, Page:1, Kor:"", Chn:"", Eng:"According to what they have done, so will he repay wrath to his enemies and retribution to his foes; he will repay the islands their due.", Ind:""},
   {Bible:"Isaiah", Chapter:59, Verse:19, Page:1, Kor:"", Chn:"", Eng:"From the west, men will fear the name of the LORD, and from the rising of the sun, they will revere his glory. For he will come like a pent-up flood that the breath of the LORD drives along.", Ind:""},
-  {Bible:"Isaiah", Chapter:59, Verse:20, Page:1, Kor:"", Chn:"", Eng:""The Redeemer will come to Zion, to those in Jacob who repent of their sins," declares the LORD.", Ind:""},
-  {Bible:"Isaiah", Chapter:59, Verse:21, Page:1, Kor:"", Chn:"", Eng:""As for me, this is my covenant with them," says the LORD. "My Spirit, who is on you, and my words that I have put in your mouth will not depart from your mouth, or from the mouths of your children, or from the mouths of their descendants from this time on and forever," says the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:59, Verse:20, Page:1, Kor:"", Chn:"", Eng:"\"The Redeemer will come to Zion, to those in Jacob who repent of their sins,\" declares the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:59, Verse:21, Page:1, Kor:"", Chn:"", Eng:"\"As for me, this is my covenant with them,\" says the LORD. \"My Spirit, who is on you, and my words that I have put in your mouth will not depart from your mouth, or from the mouths of your children, or from the mouths of their descendants from this time on and forever,\" says the LORD.", Ind:""},
 ]);

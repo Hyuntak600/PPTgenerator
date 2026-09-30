@@ -1,5 +1,5 @@
 // 이사야 9장 · Isaiah 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",9,21);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Nevertheless, there will be no more gloom for those who were in distress. In the past he humbled the land of Zebulun and the land of Naphtali, but in the future he will honor Galilee of the Gentiles, by the way of the sea, along the Jordan--", Ind:""},
@@ -11,7 +11,7 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Of the increase of his government and peace there will be no end. He will reign on David's throne and over his kingdom, establishing and upholding it with justice and righteousness from that time on and forever. The zeal of the LORD Almighty will accomplish this.", Ind:""},
   {Bible:"Isaiah", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The Lord has sent a message against Jacob; it will fall on Israel.", Ind:""},
   {Bible:"Isaiah", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the people will know it--Ephraim and the inhabitants of Samaria--who say with pride and arrogance of heart,", Ind:""},
-  {Bible:"Isaiah", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:""The bricks have fallen down, but we will rebuild with dressed stone; the fig trees have been felled, but we will replace them with cedars."", Ind:""},
+  {Bible:"Isaiah", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"The bricks have fallen down, but we will rebuild with dressed stone; the fig trees have been felled, but we will replace them with cedars.\"", Ind:""},
   {Bible:"Isaiah", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the LORD has strengthened Rezin's foes against them and has spurred their enemies on.", Ind:""},
   {Bible:"Isaiah", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Arameans from the east and Philistines from the west have devoured Israel with open mouth. Yet for all this, his anger is not turned away, his hand is still upraised.", Ind:""},
   {Bible:"Isaiah", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But the people have not returned to him who struck them, nor have they sought the LORD Almighty.", Ind:""},

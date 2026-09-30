@@ -1,11 +1,11 @@
 // 시편 89장 · Psalms 89
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",89,52);
 BibleDB.add([
   {Bible:"Psalms", Chapter:89, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I will sing of the LORD'S great love forever; with my mouth I will make your faithfulness known through all generations.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I will declare that your love stands firm forever, that you established your faithfulness in heaven itself.", Ind:""},
-  {Bible:"Psalms", Chapter:89, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You said, "I have made a covenant with my chosen one, I have sworn to David my servant,", Ind:""},
-  {Bible:"Psalms", Chapter:89, Verse:4, Page:1, Kor:"", Chn:"", Eng:"'I will establish your line forever and make your throne firm through all generations.'" Selah", Ind:""},
+  {Bible:"Psalms", Chapter:89, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You said, \"I have made a covenant with my chosen one, I have sworn to David my servant,", Ind:""},
+  {Bible:"Psalms", Chapter:89, Verse:4, Page:1, Kor:"", Chn:"", Eng:"'I will establish your line forever and make your throne firm through all generations.'\" Selah", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The heavens praise your wonders, O LORD, your faithfulness too, in the assembly of the holy ones.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For who in the skies above can compare with the LORD? Who is like the LORD among the heavenly beings?", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In the council of the holy ones God is greatly feared; he is more awesome than all who surround him.", Ind:""},
@@ -20,7 +20,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:89, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They rejoice in your name all day long; they exult in your righteousness.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For you are their glory and strength, and by your favor you exalt our horn.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Indeed, our shield belongs to the LORD, our king to the Holy One of Israel.", Ind:""},
-  {Bible:"Psalms", Chapter:89, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Once you spoke in a vision, to your faithful people you said: "I have bestowed strength on a warrior; I have exalted a young man from among the people.", Ind:""},
+  {Bible:"Psalms", Chapter:89, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Once you spoke in a vision, to your faithful people you said: \"I have bestowed strength on a warrior; I have exalted a young man from among the people.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I have found David my servant; with my sacred oil I have anointed him.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:21, Page:1, Kor:"", Chn:"", Eng:"My hand will sustain him; surely my arm will strengthen him.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:22, Page:1, Kor:"", Chn:"", Eng:"No enemy will subject him to tribute; no wicked man will oppress him.", Ind:""},
@@ -31,14 +31,14 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:89, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I will also appoint him my firstborn, the most exalted of the kings of the earth.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:28, Page:1, Kor:"", Chn:"", Eng:"I will maintain my love to him forever, and my covenant with him will never fail.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I will establish his line forever, his throne as long as the heavens endure.", Ind:""},
-  {Bible:"Psalms", Chapter:89, Verse:30, Page:1, Kor:"", Chn:"", Eng:""If his sons forsake my law and do not follow my statutes,", Ind:""},
+  {Bible:"Psalms", Chapter:89, Verse:30, Page:1, Kor:"", Chn:"", Eng:"\"If his sons forsake my law and do not follow my statutes,", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:31, Page:1, Kor:"", Chn:"", Eng:"if they violate my decrees and fail to keep my commands,", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:32, Page:1, Kor:"", Chn:"", Eng:"I will punish their sin with the rod, their iniquity with flogging;", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:33, Page:1, Kor:"", Chn:"", Eng:"but I will not take my love from him, nor will I ever betray my faithfulness.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:34, Page:1, Kor:"", Chn:"", Eng:"I will not violate my covenant or alter what my lips have uttered.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Once for all, I have sworn by my holiness--and I will not lie to David--", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:36, Page:1, Kor:"", Chn:"", Eng:"that his line will continue forever and his throne endure before me like the sun;", Ind:""},
-  {Bible:"Psalms", Chapter:89, Verse:37, Page:1, Kor:"", Chn:"", Eng:"it will be established forever like the moon, the faithful witness in the sky." Selah", Ind:""},
+  {Bible:"Psalms", Chapter:89, Verse:37, Page:1, Kor:"", Chn:"", Eng:"it will be established forever like the moon, the faithful witness in the sky.\" Selah", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:38, Page:1, Kor:"", Chn:"", Eng:"But you have rejected, you have spurned, you have been very angry with your anointed one.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:39, Page:1, Kor:"", Chn:"", Eng:"You have renounced the covenant with your servant and have defiled his crown in the dust.", Ind:""},
   {Bible:"Psalms", Chapter:89, Verse:40, Page:1, Kor:"", Chn:"", Eng:"You have broken through all his walls and reduced his strongholds to ruins.", Ind:""},

@@ -1,9 +1,9 @@
 // 창세기 5장 · Genesis 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",5,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the written account of Adam's line. When God created man, he made him in the likeness  of God.", Ind:""},
-  {Bible:"Genesis", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He created them male and female and blessed them. And when they were created, he called them  "man."", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He created them male and female and blessed them. And when they were created, he called them  \"man.\"", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he  named him Seth.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"After Seth was born, Adam lived 800 years and had other sons and daughters.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Altogether, Adam lived 930 years, and then he died.", Ind:""},
@@ -30,7 +30,7 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Lamech, Methuselah lived 782 years and had other sons and  daughters.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Altogether, Methuselah lived 969 years, and then he died.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When Lamech had lived 182 years, he had a son.", Ind:""},
-  {Bible:"Genesis", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He named him Noah and said, "He will comfort us in the labor and painful toil of our hands  caused by the ground the LORD has cursed."", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He named him Noah and said, \"He will comfort us in the labor and painful toil of our hands  caused by the ground the LORD has cursed.\"", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"After Noah was born, Lamech lived 595 years and had other sons and daughters.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Altogether, Lamech lived 777 years, and then he died.", Ind:""},
   {Bible:"Genesis", Chapter:5, Verse:32, Page:1, Kor:"", Chn:"", Eng:"After Noah was 500 years old, he became the father of Shem, Ham and Japheth.", Ind:""},

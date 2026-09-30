@@ -1,5 +1,5 @@
 // 전도서 5장 · Ecclesiastes 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",5,20);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.", Ind:""},
@@ -7,7 +7,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"As a dream comes when there are many cares, so the speech of a fool when there are many words.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When you make a vow to God, do not delay in fulfilling it. He has no pleasure in fools; fulfill your vow.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"It is better not to vow than to make a vow and not fulfill it.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not let your mouth lead you into sin. And do not protest to the temple messenger, "My vow was a mistake." Why should God be angry at what you say and destroy the work of your hands?", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not let your mouth lead you into sin. And do not protest to the temple messenger, \"My vow was a mistake.\" Why should God be angry at what you say and destroy the work of your hands?", Ind:""},
   {Bible:"Ecclesiastes", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Much dreaming and many words are meaningless. Therefore stand in awe of God.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If you see the poor oppressed in a district, and justice and rights denied, do not be surprised at such things; for one official is eyed by a higher one, and over them both are others higher still.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The increase from the land is taken by all; the king himself profits from the fields.", Ind:""},

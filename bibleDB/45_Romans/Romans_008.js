@@ -1,5 +1,5 @@
 // 로마서 8장 · Romans 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",8,39);
 BibleDB.add([
   {Bible:"Romans", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore, there is now no condemnation for those who are in Christ Jesus,", Ind:""},
@@ -16,7 +16,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Therefore, brothers, we have an obligation--but it is not to the sinful nature, to live according to it.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For if you live according to the sinful nature, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live,", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"because those who are led by the Spirit of God are sons of God.", Ind:""},
-  {Bible:"Romans", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For you did not receive a spirit that makes you a slave again to fear, but you received the Spirit of sonship. And by him we cry, "Abba, Father."", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For you did not receive a spirit that makes you a slave again to fear, but you received the Spirit of sonship. And by him we cry, \"Abba, Father.\"", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The Spirit himself testifies with our spirit that we are God's children.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.", Ind:""},
@@ -37,7 +37,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Who will bring any charge against those whom God has chosen? It is God who justifies.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Who is he that condemns? Christ Jesus, who died--more than that, who was raised to life--is at the right hand of God and is also interceding for us.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?", Ind:""},
-  {Bible:"Romans", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"As it is written: "For your sake we face death all day long; we are considered as sheep to be slaughtered."", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"As it is written: \"For your sake we face death all day long; we are considered as sheep to be slaughtered.\"", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:37, Page:1, Kor:"", Chn:"", Eng:"No, in all these things we are more than conquerors through him who loved us.", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:38, Page:1, Kor:"", Chn:"", Eng:"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,", Ind:""},
   {Bible:"Romans", Chapter:8, Verse:39, Page:1, Kor:"", Chn:"", Eng:"neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.", Ind:""},

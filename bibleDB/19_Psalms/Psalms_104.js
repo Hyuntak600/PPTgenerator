@@ -1,5 +1,5 @@
 // 시편 104장 · Psalms 104
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",104,35);
 BibleDB.add([
   {Bible:"Psalms", Chapter:104, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Praise the LORD, O my soul. O LORD my God, you are very great; you are clothed with splendor and majesty.", Ind:""},

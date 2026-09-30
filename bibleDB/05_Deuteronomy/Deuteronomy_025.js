@@ -1,5 +1,5 @@
 // 신명기 25장 · Deuteronomy 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",25,19);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When men have a dispute, they are to take it to court and the judges will decide the case, acquitting the innocent and condemning the guilty.", Ind:""},
@@ -8,9 +8,9 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Do not muzzle an ox while it is treading out the grain.", Ind:""},
   {Bible:"Deuteronomy", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"If brothers are living together and one of them dies without a son, his widow must not marry outside the family. Her husband's brother shall take her and marry her and fulfill the duty of a brother-in-law to her.", Ind:""},
   {Bible:"Deuteronomy", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The first son she bears shall carry on the name of the dead brother so that his name will not be blotted out from Israel.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"However, if a man does not want to marry his brother's wife, she shall go to the elders at the town gate and say, "My husband's brother refuses to carry on his brother's name in Israel. He will not fulfill the duty of a brother-in-law to me."", Ind:""},
-  {Bible:"Deuteronomy", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the elders of his town shall summon him and talk to him. If he persists in saying, "I do not want to marry her,"", Ind:""},
-  {Bible:"Deuteronomy", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"his brother's widow shall go up to him in the presence of the elders, take off one of his sandals, spit in his face and say, "This is what is done to the man who will not build up his brother's family line."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"However, if a man does not want to marry his brother's wife, she shall go to the elders at the town gate and say, \"My husband's brother refuses to carry on his brother's name in Israel. He will not fulfill the duty of a brother-in-law to me.\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the elders of his town shall summon him and talk to him. If he persists in saying, \"I do not want to marry her,\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"his brother's widow shall go up to him in the presence of the elders, take off one of his sandals, spit in his face and say, \"This is what is done to the man who will not build up his brother's family line.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:"That man's line shall be known in Israel as The Family of the Unsandaled.", Ind:""},
   {Bible:"Deuteronomy", Chapter:25, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If two men are fighting and the wife of one of them comes to rescue her husband from his assailant, and she reaches out and seizes him by his private parts,", Ind:""},
   {Bible:"Deuteronomy", Chapter:25, Verse:12, Page:1, Kor:"", Chn:"", Eng:"you shall cut off her hand. Show her no pity.", Ind:""},

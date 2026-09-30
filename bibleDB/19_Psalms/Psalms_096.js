@@ -1,5 +1,5 @@
 // 시편 96장 · Psalms 96
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",96,13);
 BibleDB.add([
   {Bible:"Psalms", Chapter:96, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Sing to the LORD a new song; sing to the LORD, all the earth.", Ind:""},
@@ -11,7 +11,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:96, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Ascribe to the LORD, O families of nations, ascribe to the LORD glory and strength.", Ind:""},
   {Bible:"Psalms", Chapter:96, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Ascribe to the LORD the glory due his name; bring an offering and come into his courts.", Ind:""},
   {Bible:"Psalms", Chapter:96, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Worship the LORD in the splendor of his holiness; tremble before him, all the earth.", Ind:""},
-  {Bible:"Psalms", Chapter:96, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Say among the nations, "The LORD reigns." The world is firmly established, it cannot be moved; he will judge the peoples with equity.", Ind:""},
+  {Bible:"Psalms", Chapter:96, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Say among the nations, \"The LORD reigns.\" The world is firmly established, it cannot be moved; he will judge the peoples with equity.", Ind:""},
   {Bible:"Psalms", Chapter:96, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Let the heavens rejoice, let the earth be glad; let the sea resound, and all that is in it;", Ind:""},
   {Bible:"Psalms", Chapter:96, Verse:12, Page:1, Kor:"", Chn:"", Eng:"let the fields be jubilant, and everything in them. Then all the trees of the forest will sing for joy;", Ind:""},
   {Bible:"Psalms", Chapter:96, Verse:13, Page:1, Kor:"", Chn:"", Eng:"they will sing before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his truth.", Ind:""},

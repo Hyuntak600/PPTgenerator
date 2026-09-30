@@ -1,19 +1,19 @@
 // 로마서 15장 · Romans 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",15,33);
 BibleDB.add([
   {Bible:"Romans", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"We who are strong ought to bear with the failings of the weak and not to please ourselves.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Each of us should please his neighbor for his good, to build him up.", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For even Christ did not please himself but, as it is written: "The insults of those who insult you have fallen on me."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For even Christ did not please himself but, as it is written: \"The insults of those who insult you have fallen on me.\"", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For everything that was written in the past was written to teach us, so that through endurance and the encouragement of the Scriptures we might have hope.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"May the God who gives endurance and encouragement give you a spirit of unity among yourselves as you follow Christ Jesus,", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"so that with one heart and mouth you may glorify the God and Father of our Lord Jesus Christ.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Accept one another, then, just as Christ accepted you, in order to bring praise to God.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For I tell you that Christ has become a servant of the Jews on behalf of God's truth, to confirm the promises made to the patriarchs", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"so that the Gentiles may glorify God for his mercy, as it is written: "Therefore I will praise you among the Gentiles; I will sing hymns to your name."", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Again, it says, "Rejoice, O Gentiles, with his people."", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And again, "Praise the Lord, all you Gentiles, and sing praises to him, all you peoples."", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And again, Isaiah says, "The Root of Jesse will spring up, one who will arise to rule over the nations; the Gentiles will hope in him."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"so that the Gentiles may glorify God for his mercy, as it is written: \"Therefore I will praise you among the Gentiles; I will sing hymns to your name.\"", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Again, it says, \"Rejoice, O Gentiles, with his people.\"", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And again, \"Praise the Lord, all you Gentiles, and sing praises to him, all you peoples.\"", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And again, Isaiah says, \"The Root of Jesse will spring up, one who will arise to rule over the nations; the Gentiles will hope in him.\"", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I myself am convinced, my brothers, that you yourselves are full of goodness, complete in knowledge and competent to instruct one another.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me", Ind:""},
@@ -22,7 +22,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done--", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"by the power of signs and miracles, through the power of the Spirit. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else's foundation.", Ind:""},
-  {Bible:"Romans", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Rather, as it is written: "Those who were not told about him will see, and those who have not heard will understand."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Rather, as it is written: \"Those who were not told about him will see, and those who have not heard will understand.\"", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is why I have often been hindered from coming to you.", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But now that there is no more place for me to work in these regions, and since I have been longing for many years to see you,", Ind:""},
   {Bible:"Romans", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I plan to do so when I go to Spain. I hope to visit you while passing through and to have you assist me on my journey there, after I have enjoyed your company for a while.", Ind:""},

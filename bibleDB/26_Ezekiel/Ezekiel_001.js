@@ -1,5 +1,5 @@
 // 에스겔 1장 · Ezekiel 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezekiel",1,28);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.", Ind:""},

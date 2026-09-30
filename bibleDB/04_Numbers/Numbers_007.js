@@ -1,18 +1,18 @@
 // 민수기 7장 · Numbers 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",7,89);
 BibleDB.add([
   {Bible:"Numbers", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Moses finished setting up the tabernacle, he anointed it and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the leaders of Israel, the heads of families who were the tribal leaders in charge of those who were counted, made offerings.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They brought as their gifts before the LORD six covered carts and twelve oxen--an ox from each leader and a cart from every two. These they presented before the tabernacle.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Accept these from them, that they may be used in the work at the Tent of Meeting. Give them to the Levites as each man's work requires."", Ind:""},
+  {Bible:"Numbers", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"\"Accept these from them, that they may be used in the work at the Tent of Meeting. Give them to the Levites as each man's work requires.\"", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So Moses took the carts and oxen and gave them to the Levites.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He gave two carts and four oxen to the Gershonites, as their work required,", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and he gave four carts and eight oxen to the Merarites, as their work required. They were all under the direction of Ithamar son of Aaron, the priest.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But Moses did not give any to the Kohathites, because they were to carry on their shoulders the holy things, for which they were responsible.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When the altar was anointed, the leaders brought their offerings for its dedication and presented them before the altar.", Ind:""},
-  {Bible:"Numbers", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For the LORD had said to Moses, "Each day one leader is to bring his offering for the dedication of the altar."", Ind:""},
+  {Bible:"Numbers", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For the LORD had said to Moses, \"Each day one leader is to bring his offering for the dedication of the altar.\"", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The one who brought his offering on the first day was Nahshon son of Amminadab of the tribe of Judah.", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"His offering was one silver plate weighing a hundred and thirty shekels, and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with fine flour mixed with oil as a grain offering;", Ind:""},
   {Bible:"Numbers", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"one gold dish weighing ten shekels, filled with incense;", Ind:""},

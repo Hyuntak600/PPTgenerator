@@ -1,5 +1,5 @@
 // 로마서 14장 · Romans 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",14,23);
 BibleDB.add([
   {Bible:"Romans", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Accept him whose faith is weak, without passing judgment on disputable matters.", Ind:""},
@@ -12,7 +12,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If we live, we live to the Lord; and if we die, we die to the Lord. So, whether we live or die, we belong to the Lord.", Ind:""},
   {Bible:"Romans", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For this very reason, Christ died and returned to life so that he might be the Lord of both the dead and the living.", Ind:""},
   {Bible:"Romans", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You, then, why do you judge your brother? Or why do you look down on your brother? For we will all stand before God's judgment seat.", Ind:""},
-  {Bible:"Romans", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It is written: "'As surely as I live,' says the Lord, 'every knee will bow before me; every tongue will confess to God.'"", Ind:""},
+  {Bible:"Romans", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It is written: \"'As surely as I live,' says the Lord, 'every knee will bow before me; every tongue will confess to God.'\"", Ind:""},
   {Bible:"Romans", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"So then, each of us will give an account of himself to God.", Ind:""},
   {Bible:"Romans", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Therefore let us stop passing judgment on one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother's way.", Ind:""},
   {Bible:"Romans", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"As one who is in the Lord Jesus, I am fully convinced that no food is unclean in itself. But if anyone regards something as unclean, then for him it is unclean.", Ind:""},

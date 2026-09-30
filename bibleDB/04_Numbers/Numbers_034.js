@@ -1,24 +1,24 @@
 // 민수기 34장 · Numbers 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",34,29);
 BibleDB.add([
   {Bible:"Numbers", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance will have these boundaries:", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:""'Your southern side will include some of the Desert of Zin along the border of Edom. On the east, your southern boundary will start from the end of the Salt Sea,", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance will have these boundaries:", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"'Your southern side will include some of the Desert of Zin along the border of Edom. On the east, your southern boundary will start from the end of the Salt Sea,", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:4, Page:1, Kor:"", Chn:"", Eng:"cross south of Scorpion Pass, continue on to Zin and go south of Kadesh Barnea. Then it will go to Hazar Addar and over to Azmon,", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:5, Page:1, Kor:"", Chn:"", Eng:"where it will turn, join the Wadi of Egypt and end at the Sea.", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'Your western boundary will be the coast of the Great Sea. This will be your boundary on the west.", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'For your northern boundary, run a line from the Great Sea to Mount Hor", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"'Your western boundary will be the coast of the Great Sea. This will be your boundary on the west.", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"'For your northern boundary, run a line from the Great Sea to Mount Hor", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and from Mount Hor to Lebo Hamath. Then the boundary will go to Zedad,", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:9, Page:1, Kor:"", Chn:"", Eng:"continue to Ziphron and end at Hazar Enan. This will be your boundary on the north.", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:""'For your eastern boundary, run a line from Hazar Enan to Shepham.", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"'For your eastern boundary, run a line from Hazar Enan to Shepham.", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The boundary will go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Kinnereth.", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the boundary will go down along the Jordan and end at the Salt Sea. "'This will be your land, with its boundaries on every side.'"", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Moses commanded the Israelites: "Assign this land by lot as an inheritance. The LORD has ordered that it be given to the nine and a half tribes,", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the boundary will go down along the Jordan and end at the Salt Sea. \"'This will be your land, with its boundaries on every side.'\"", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Moses commanded the Israelites: \"Assign this land by lot as an inheritance. The LORD has ordered that it be given to the nine and a half tribes,", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:14, Page:1, Kor:"", Chn:"", Eng:"because the families of the tribe of Reuben, the tribe of Gad and the half-tribe of Manasseh have received their inheritance.", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"These two and a half tribes have received their inheritance on the east side of the Jordan of Jericho, toward the sunrise."", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"These two and a half tribes have received their inheritance on the east side of the Jordan of Jericho, toward the sunrise.\"", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:""These are the names of the men who are to assign the land for you as an inheritance: Eleazar the priest and Joshua son of Nun.", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:"\"These are the names of the men who are to assign the land for you as an inheritance: Eleazar the priest and Joshua son of Nun.", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And appoint one leader from each tribe to help assign the land.", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:19, Page:1, Kor:"", Chn:"", Eng:"These are their names: Caleb son of Jephunneh, from the tribe of Judah;", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Shemuel son of Ammihud, from the tribe of Simeon;", Ind:""},
@@ -29,6 +29,6 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:34, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Elizaphan son of Parnach, the leader from the tribe of Zebulun;", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Paltiel son of Azzan, the leader from the tribe of Issachar;", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Ahihud son of Shelomi, the leader from the tribe of Asher;", Ind:""},
-  {Bible:"Numbers", Chapter:34, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Pedahel son of Ammihud, the leader from the tribe of Naphtali."", Ind:""},
+  {Bible:"Numbers", Chapter:34, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Pedahel son of Ammihud, the leader from the tribe of Naphtali.\"", Ind:""},
   {Bible:"Numbers", Chapter:34, Verse:29, Page:1, Kor:"", Chn:"", Eng:"These are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan.", Ind:""},
 ]);

@@ -1,6 +1,36 @@
-// 역대상 23장 · 1 Chronicles 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 23장 · 1Chronicles 23
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",23,31);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These were the divisions of the sons of Aaron: The sons of Aaron were Nadab, Abihu, Eleazar and Ithamar.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as the priests.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"With the help of Zadok a descendant of Eleazar and Ahimelech a descendant of Ithamar, David separated them into divisions for their appointed order of ministering.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"A larger number of leaders were found among Eleazar's descendants than among Ithamar's, and they were divided accordingly: sixteen heads of families from Eleazar's descendants and eight heads of families from Ithamar's descendants.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They divided them impartially by drawing lots, for there were officials of the sanctuary and officials of God among the descendants of both Eleazar and Ithamar.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The scribe Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officials: Zadok the priest, Ahimelech son of Abiathar and the heads of families of the priests and of the Levites--one family being taken from Eleazar and then one from Ithamar.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The first lot fell to Jehoiarib, the second to Jedaiah,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:"the third to Harim, the fourth to Seorim,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"the fifth to Malkijah, the sixth to Mijamin,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"the seventh to Hakkoz, the eighth to Abijah,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"the ninth to Jeshua, the tenth to Shecaniah,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:"the eleventh to Eliashib, the twelfth to Jakim,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:"the thirteenth to Huppah, the fourteenth to Jeshebeab,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:"the fifteenth to Bilgah, the sixteenth to Immer,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:"the seventeenth to Hezir, the eighteenth to Happizzez,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the nineteenth to Pethahiah, the twentieth to Jehezkel,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:"the twenty-first to Jakin, the twenty-second to Gamul,", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:"the twenty-third to Delaiah and the twenty-fourth to Maaziah.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:"This was their appointed order of ministering when they entered the temple of the LORD, according to the regulations prescribed for them by their forefather Aaron, as the LORD, the God of Israel, had commanded him.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:"As for the rest of the descendants of Levi: from the sons of Amram: Shubael; from the sons of Shubael: Jehdeiah.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:"As for Rehabiah, from his sons: Isshiah was the first.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"From the Izharites: Shelomoth; from the sons of Shelomoth: Jahath.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The son of Uzziel: Micah; from the sons of Micah: Shamir.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The brother of Micah: Isshiah; from the sons of Isshiah: Zechariah.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The sons of Merari: from Jaaziah: Beno, Shoham, Zaccur and Ibri.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:28, Page:1, Kor:"", Chn:"", Eng:"From Mahli: Eleazar, who had no sons.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:29, Page:1, Kor:"", Chn:"", Eng:"From Kish: the son of Kish: Jerahmeel.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And the sons of Mushi: Mahli, Eder and Jerimoth. These were the Levites, according to their families.", Ind:""},
+  {Bible:"1Chronicles", Chapter:23, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They also cast lots, just as their brothers the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelech, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.", Ind:""},
 ]);

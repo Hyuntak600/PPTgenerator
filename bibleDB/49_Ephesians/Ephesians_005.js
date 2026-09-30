@@ -1,5 +1,5 @@
 // 에베소서 5장 · Ephesians 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ephesians",5,33);
 BibleDB.add([
   {Bible:"Ephesians", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Be imitators of God, therefore, as dearly loved children", Ind:""},
@@ -15,7 +15,7 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Have nothing to do with the fruitless deeds of darkness, but rather expose them.", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For it is shameful even to mention what the disobedient do in secret.", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But everything exposed by the light becomes visible,", Ind:""},
-  {Bible:"Ephesians", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"for it is light that makes everything visible. This is why it is said: "Wake up, O sleeper, rise from the dead, and Christ will shine on you."", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"for it is light that makes everything visible. This is why it is said: \"Wake up, O sleeper, rise from the dead, and Christ will shine on you.\"", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Be very careful, then, how you live--not as unwise but as wise,", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"making the most of every opportunity, because the days are evil.", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Therefore do not be foolish, but understand what the Lord's will is.", Ind:""},
@@ -32,7 +32,7 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"After all, no one ever hated his own body, but he feeds and cares for it, just as Christ does the church--", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"for we are members of his body.", Ind:""},
-  {Bible:"Ephesians", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:""For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh."", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:"\"For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\"", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:32, Page:1, Kor:"", Chn:"", Eng:"This is a profound mystery--but I am talking about Christ and the church.", Ind:""},
   {Bible:"Ephesians", Chapter:5, Verse:33, Page:1, Kor:"", Chn:"", Eng:"However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.", Ind:""},
 ]);

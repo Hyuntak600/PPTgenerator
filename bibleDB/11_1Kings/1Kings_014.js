@@ -1,6 +1,36 @@
-// 열왕기상 14장 · 1 Kings 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 14장 · 1Kings 14
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",14,31);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"At that time Abijah son of Jeroboam became ill,", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and Jeroboam said to his wife, \"Go, disguise yourself, so you won't be recognized as the wife of Jeroboam. Then go to Shiloh. Ahijah the prophet is there--the one who told me I would be king over this people.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Take ten loaves of bread with you, some cakes and a jar of honey, and go to him. He will tell you what will happen to the boy.\"", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So Jeroboam's wife did what he said and went to Ahijah's house in Shiloh. Now Ahijah could not see; his sight was gone because of his age.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But the LORD had told Ahijah, \"Jeroboam's wife is coming to ask you about her son, for he is ill, and you are to give her such and such an answer. When she arrives, she will pretend to be someone else.\"", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So when Ahijah heard the sound of her footsteps at the door, he said, \"Come in, wife of Jeroboam. Why this pretense? I have been sent to you with bad news.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Go, tell Jeroboam that this is what the LORD, the God of Israel, says: 'I raised you up from among the people and made you a leader over my people Israel.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I tore the kingdom away from the house of David and gave it to you, but you have not been like my servant David, who kept my commands and followed me with all his heart, doing only what was right in my eyes.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You have done more evil than all who lived before you. You have made for yourself other gods, idols made of metal; you have provoked me to anger and thrust me behind your back.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"'Because of this, I am going to bring disaster on the house of Jeroboam. I will cut off from Jeroboam every last male in Israel--slave or free. I will burn up the house of Jeroboam as one burns dung, until it is all gone.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Dogs will eat those belonging to Jeroboam who die in the city, and the birds of the air will feed on those who die in the country. The LORD has spoken!'", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"As for you, go back home. When you set foot in your city, the boy will die.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"All Israel will mourn for him and bury him. He is the only one belonging to Jeroboam who will be buried, because he is the only one in the house of Jeroboam in whom the LORD, the God of Israel, has found anything good.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"\"The LORD will raise up for himself a king over Israel who will cut off the family of Jeroboam. This is the day! What? Yes, even now.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And the LORD will strike Israel, so that it will be like a reed swaying in the water. He will uproot Israel from this good land that he gave to their forefathers and scatter them beyond the River, because they provoked the LORD to anger by making Asherah poles.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And he will give Israel up because of the sins Jeroboam has committed and has caused Israel to commit.\"", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then Jeroboam's wife got up and left and went to Tirzah. As soon as she stepped over the threshold of the house, the boy died.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They buried him, and all Israel mourned for him, as the LORD had said through his servant the prophet Ahijah.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The other events of Jeroboam's reign, his wars and how he ruled, are written in the book of the annals of the kings of Israel.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He reigned for twenty-two years and then rested with his fathers. And Nadab his son succeeded him as king.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Rehoboam son of Solomon was king in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen out of all the tribes of Israel in which to put his Name. His mother's name was Naamah; she was an Ammonite.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Judah did evil in the eyes of the LORD. By the sins they committed they stirred up his jealous anger more than their fathers had done.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They also set up for themselves high places, sacred stones and Asherah poles on every high hill and under every spreading tree.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"There were even male shrine prostitutes in the land; the people engaged in all the detestable practices of the nations the LORD had driven out before the Israelites.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In the fifth year of King Rehoboam, Shishak king of Egypt attacked Jerusalem.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He carried off the treasures of the temple of the LORD and the treasures of the royal palace. He took everything, including all the gold shields Solomon had made.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:27, Page:1, Kor:"", Chn:"", Eng:"So King Rehoboam made bronze shields to replace them and assigned these to the commanders of the guard on duty at the entrance to the royal palace.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Whenever the king went to the LORD'S temple, the guards bore the shields, and afterward they returned them to the guardroom.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:29, Page:1, Kor:"", Chn:"", Eng:"As for the other events of Rehoboam's reign, and all he did, are they not written in the book of the annals of the kings of Judah?", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:30, Page:1, Kor:"", Chn:"", Eng:"There was continual warfare between Rehoboam and Jeroboam.", Ind:""},
+  {Bible:"1Kings", Chapter:14, Verse:31, Page:1, Kor:"", Chn:"", Eng:"And Rehoboam rested with his fathers and was buried with them in the City of David. His mother's name was Naamah; she was an Ammonite. And Abijah his son succeeded him as king.", Ind:""},
 ]);

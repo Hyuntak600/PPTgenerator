@@ -1,5 +1,5 @@
 // 시편 106장 · Psalms 106
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",106,48);
 BibleDB.add([
   {Bible:"Psalms", Chapter:106, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Praise the LORD. Give thanks to the LORD, for he is good; his love endures forever.", Ind:""},
@@ -49,5 +49,5 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:106, Verse:45, Page:1, Kor:"", Chn:"", Eng:"for their sake he remembered his covenant and out of his great love he relented.", Ind:""},
   {Bible:"Psalms", Chapter:106, Verse:46, Page:1, Kor:"", Chn:"", Eng:"He caused them to be pitied by all who held them captive.", Ind:""},
   {Bible:"Psalms", Chapter:106, Verse:47, Page:1, Kor:"", Chn:"", Eng:"Save us, O LORD our God, and gather us from the nations, that we may give thanks to your holy name and glory in your praise.", Ind:""},
-  {Bible:"Psalms", Chapter:106, Verse:48, Page:1, Kor:"", Chn:"", Eng:"Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, "Amen!" Praise the LORD.", Ind:""},
+  {Bible:"Psalms", Chapter:106, Verse:48, Page:1, Kor:"", Chn:"", Eng:"Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, \"Amen!\" Praise the LORD.", Ind:""},
 ]);

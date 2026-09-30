@@ -1,5 +1,5 @@
 // 로마서 12장 · Romans 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",12,21);
 BibleDB.add([
   {Bible:"Romans", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God--this is your spiritual act of worship.", Ind:""},
@@ -20,7 +20,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited.", Ind:""},
   {Bible:"Romans", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everybody.", Ind:""},
   {Bible:"Romans", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"If it is possible, as far as it depends on you, live at peace with everyone.", Ind:""},
-  {Bible:"Romans", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Do not take revenge, my friends, but leave room for God's wrath, for it is written: "It is mine to avenge; I will repay," says the Lord.", Ind:""},
-  {Bible:"Romans", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"On the contrary: "If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head."", Ind:""},
+  {Bible:"Romans", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Do not take revenge, my friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord.", Ind:""},
+  {Bible:"Romans", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"On the contrary: \"If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.\"", Ind:""},
   {Bible:"Romans", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not be overcome by evil, but overcome evil with good.", Ind:""},
 ]);

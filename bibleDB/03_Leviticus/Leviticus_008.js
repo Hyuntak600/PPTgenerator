@@ -1,12 +1,12 @@
 // 레위기 8장 · Leviticus 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Leviticus",8,36);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Leviticus", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Bring Aaron and his sons, their garments, the anointing oil, the bull for the sin offering, the two rams and the basket containing bread made without yeast,", Ind:""},
-  {Bible:"Leviticus", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and gather the entire assembly at the entrance to the Tent of Meeting."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Bring Aaron and his sons, their garments, the anointing oil, the bull for the sin offering, the two rams and the basket containing bread made without yeast,", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and gather the entire assembly at the entrance to the Tent of Meeting.\"", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Moses did as the LORD commanded him, and the assembly gathered at the entrance to the Tent of Meeting.", Ind:""},
-  {Bible:"Leviticus", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Moses said to the assembly, "This is what the LORD has commanded to be done."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Moses said to the assembly, \"This is what the LORD has commanded to be done.\"", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses brought Aaron and his sons forward and washed them with water.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He put the tunic on Aaron, tied the sash around him, clothed him with the robe and put the ephod on him. He also tied the ephod to him by its skillfully woven waistband; so it was fastened on him.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He placed the breastpiece on him and put the Urim and Thummim in the breastpiece.", Ind:""},
@@ -32,10 +32,10 @@ BibleDB.add([
   {Bible:"Leviticus", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Moses took them from their hands and burned them on the altar on top of the burnt offering as an ordination offering, a pleasing aroma, an offering made to the LORD by fire.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He also took the breast--Moses' share of the ordination ram--and waved it before the LORD as a wave offering, as the LORD commanded Moses.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Moses took some of the anointing oil and some of the blood from the altar and sprinkled them on Aaron and his garments and on his sons and their garments. So he consecrated Aaron and his garments and his sons and their garments.", Ind:""},
-  {Bible:"Leviticus", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Moses then said to Aaron and his sons, "Cook the meat at the entrance to the Tent of Meeting and eat it there with the bread from the basket of ordination offerings, as I commanded, saying, 'Aaron and his sons are to eat it.'", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Moses then said to Aaron and his sons, \"Cook the meat at the entrance to the Tent of Meeting and eat it there with the bread from the basket of ordination offerings, as I commanded, saying, 'Aaron and his sons are to eat it.'", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Then burn up the rest of the meat and the bread.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Do not leave the entrance to the Tent of Meeting for seven days, until the days of your ordination are completed, for your ordination will last seven days.", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"What has been done today was commanded by the LORD to make atonement for you.", Ind:""},
-  {Bible:"Leviticus", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"You must stay at the entrance to the Tent of Meeting day and night for seven days and do what the LORD requires, so you will not die; for that is what I have been commanded."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"You must stay at the entrance to the Tent of Meeting day and night for seven days and do what the LORD requires, so you will not die; for that is what I have been commanded.\"", Ind:""},
   {Bible:"Leviticus", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"So Aaron and his sons did everything the LORD commanded through Moses.", Ind:""},
 ]);

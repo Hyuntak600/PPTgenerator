@@ -1,11 +1,11 @@
 // 전도서 8장 · Ecclesiastes 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",8,17);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Who is like the wise man? Who knows the explanation of things? Wisdom brightens a man's face and changes its hard appearance.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Obey the king's command, I say, because you took an oath before God.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not be in a hurry to leave the king's presence. Do not stand up for a bad cause, for he will do whatever he pleases.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Since a king's word is supreme, who can say to him, "What are you doing?"", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Since a king's word is supreme, who can say to him, \"What are you doing?\"", Ind:""},
   {Bible:"Ecclesiastes", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Whoever obeys his command will come to no harm, and the wise heart will know the proper time and procedure.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For there is a proper time and procedure for every matter, though a man's misery weighs heavily upon him.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Since no man knows the future, who can tell him what is to come?", Ind:""},

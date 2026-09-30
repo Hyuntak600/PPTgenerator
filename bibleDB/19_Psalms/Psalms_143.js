@@ -1,5 +1,5 @@
 // 시편 143장 · Psalms 143
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",143,12);
 BibleDB.add([
   {Bible:"Psalms", Chapter:143, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O LORD, hear my prayer, listen to my cry for mercy; in your faithfulness and righteousness come to my relief.", Ind:""},

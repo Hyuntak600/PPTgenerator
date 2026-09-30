@@ -1,9 +1,9 @@
 // 히브리서 7장 · Hebrews 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",7,28);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the defeat of the kings and blessed him,", Ind:""},
-  {Bible:"Hebrews", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and Abraham gave him a tenth of everything. First, his name means "king of righteousness"; then also, "king of Salem" means "king of peace."", Ind:""},
+  {Bible:"Hebrews", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and Abraham gave him a tenth of everything. First, his name means \"king of righteousness\"; then also, \"king of Salem\" means \"king of peace.\"", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Without father or mother, without genealogy, without beginning of days or end of life, like the Son of God he remains a priest forever.", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Just think how great he was: Even the patriarch Abraham gave him a tenth of the plunder!", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Now the law requires the descendants of Levi who become priests to collect a tenth from the people--that is, their brothers--even though their brothers are descended from Abraham.", Ind:""},
@@ -18,11 +18,11 @@ BibleDB.add([
   {Bible:"Hebrews", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For it is clear that our Lord descended from Judah, and in regard to that tribe Moses said nothing about priests.", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And what we have said is even more clear if another priest like Melchizedek appears,", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"one who has become a priest not on the basis of a regulation as to his ancestry but on the basis of the power of an indestructible life.", Ind:""},
-  {Bible:"Hebrews", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For it is declared: "You are a priest forever, in the order of Melchizedek."", Ind:""},
+  {Bible:"Hebrews", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For it is declared: \"You are a priest forever, in the order of Melchizedek.\"", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The former regulation is set aside because it was weak and useless", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"(for the law made nothing perfect), and a better hope is introduced, by which we draw near to God.", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And it was not without an oath! Others became priests without any oath,", Ind:""},
-  {Bible:"Hebrews", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"but he became a priest with an oath when God said to him: "The Lord has sworn and will not change his mind: 'You are a priest forever.'"", Ind:""},
+  {Bible:"Hebrews", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"but he became a priest with an oath when God said to him: \"The Lord has sworn and will not change his mind: 'You are a priest forever.'\"", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Because of this oath, Jesus has become the guarantee of a better covenant.", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Now there have been many of those priests, since death prevented them from continuing in office;", Ind:""},
   {Bible:"Hebrews", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"but because Jesus lives forever, he has a permanent priesthood.", Ind:""},

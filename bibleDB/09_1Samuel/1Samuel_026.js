@@ -1,6 +1,30 @@
-// 사무엘상 26장 · 1 Samuel 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",26,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 26장 · 1Samuel 26
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",26,25);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The Ziphites went to Saul at Gibeah and said, \"Is not David hiding on the hill of Hakilah, which faces Jeshimon?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So Saul went down to the Desert of Ziph, with his three thousand chosen men of Israel, to search there for David.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Saul made his camp beside the road on the hill of Hakilah facing Jeshimon, but David stayed in the desert. When he saw that Saul had followed him there,", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he sent out scouts and learned that Saul had definitely arrived.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then David set out and went to the place where Saul had camped. He saw where Saul and Abner son of Ner, the commander of the army, had lain down. Saul was lying inside the camp, with the army encamped around him.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"David then asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab's brother, \"Who will go down into the camp with me to Saul?\" \"I'll go with you,\" said Abishai.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So David and Abishai went to the army by night, and there was Saul, lying asleep inside the camp with his spear stuck in the ground near his head. Abner and the soldiers were lying around him.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Abishai said to David, \"Today God has delivered your enemy into your hands. Now let me pin him to the ground with one thrust of my spear; I won't strike him twice.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But David said to Abishai, \"Don't destroy him! Who can lay a hand on the LORD'S anointed and be guiltless?", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"As surely as the LORD lives,\" he said, \"the LORD himself will strike him; either his time will come and he will die, or he will go into battle and perish.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the LORD forbid that I should lay a hand on the LORD'S anointed. Now get the spear and water jug that are near his head, and let's go.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:"So David took the spear and water jug near Saul's head, and they left. No one saw or knew about it, nor did anyone wake up. They were all sleeping, because the LORD had put them into a deep sleep.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then David crossed over to the other side and stood on top of the hill some distance away; there was a wide space between them.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He called out to the army and to Abner son of Ner, \"Aren't you going to answer me, Abner?\" Abner replied, \"Who are you who calls to the king?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:"David said, \"You're a man, aren't you? And who is like you in Israel? Why didn't you guard your lord the king? Someone came to destroy your lord the king.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"What you have done is not good. As surely as the LORD lives, you and your men deserve to die, because you did not guard your master, the LORD'S anointed. Look around you. Where are the king's spear and water jug that were near his head?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Saul recognized David's voice and said, \"Is that your voice, David my son?\" David replied, \"Yes it is, my lord the king.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And he added, \"Why is my lord pursuing his servant? What have I done, and what wrong am I guilty of?", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Now let my lord the king listen to his servant's words. If the LORD has incited you against me, then may he accept an offering. If, however, men have done it, may they be cursed before the LORD! They have now driven me from my share in the LORD'S inheritance and have said, 'Go, serve other gods.'", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Now do not let my blood fall to the ground far from the presence of the LORD. The king of Israel has come out to look for a flea--as one hunts a partridge in the mountains.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then Saul said, \"I have sinned. Come back, David my son. Because you considered my life precious today, I will not try to harm you again. Surely I have acted like a fool and have erred greatly.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:22, Page:1, Kor:"", Chn:"", Eng:"\"Here is the king's spear,\" David answered. \"Let one of your young men come over and get it.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The LORD rewards every man for his righteousness and faithfulness. The LORD delivered you into my hands today, but I would not lay a hand on the LORD'S anointed.", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:24, Page:1, Kor:"", Chn:"", Eng:"As surely as I valued your life today, so may the LORD value my life and deliver me from all trouble.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:26, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Saul said to David, \"May you be blessed, my son David; you will do great things and surely triumph.\" So David went on his way, and Saul returned home.", Ind:""},
 ]);

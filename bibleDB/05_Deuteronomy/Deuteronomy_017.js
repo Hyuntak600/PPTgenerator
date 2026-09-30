@@ -1,5 +1,5 @@
 // 신명기 17장 · Deuteronomy 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",17,20);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not sacrifice to the LORD your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.", Ind:""},
@@ -15,9 +15,9 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Act according to the law they teach you and the decisions they give you. Do not turn aside from what they tell you, to the right or to the left.", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The man who shows contempt for the judge or for the priest who stands ministering there to the LORD your God must be put to death. You must purge the evil from Israel.", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"All the people will hear and be afraid, and will not be contemptuous again.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When you enter the land the LORD your God is giving you and have taken possession of it and settled in it, and you say, "Let us set a king over us like all the nations around us,"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When you enter the land the LORD your God is giving you and have taken possession of it and settled in it, and you say, \"Let us set a king over us like all the nations around us,\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"be sure to appoint over you the king the LORD your God chooses. He must be from among your own brothers. Do not place a foreigner over you, one who is not a brother Israelite.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them, for the LORD has told you, "You are not to go back that way again."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them, for the LORD has told you, \"You are not to go back that way again.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He must not take many wives, or his heart will be led astray. He must not accumulate large amounts of silver and gold.", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When he takes the throne of his kingdom, he is to write for himself on a scroll a copy of this law, taken from that of the priests, who are Levites.", Ind:""},
   {Bible:"Deuteronomy", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It is to be with him, and he is to read it all the days of his life so that he may learn to revere the LORD his God and follow carefully all the words of this law and these decrees", Ind:""},

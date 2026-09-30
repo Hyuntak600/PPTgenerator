@@ -1,19 +1,19 @@
 // 출애굽기 6장 · Exodus 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Exodus",6,30);
 BibleDB.add([
-  {Bible:"Exodus", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country."", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"God also said to Moses, "I am the LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, \"Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.\"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"God also said to Moses, \"I am the LORD.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name the LORD I did not make myself known to them.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I also established my covenant with them to give them the land of Canaan, where they lived as aliens.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Therefore, say to the Israelites: 'I am the LORD, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"Therefore, say to the Israelites: 'I am the LORD, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I will take you as my own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians.", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the LORD.'"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the LORD.'\"", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Moses reported this to the Israelites, but they did not listen to him because of their discouragement and cruel bondage.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses,", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Go, tell Pharaoh king of Egypt to let the Israelites go out of his country."", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But Moses said to the LORD, "If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"\"Go, tell Pharaoh king of Egypt to let the Israelites go out of his country.\"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But Moses said to the LORD, \"If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?\"", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Now the LORD spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"These were the heads of their families: The sons of Reuben the firstborn son of Israel were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite woman. These were the clans of Simeon.", Ind:""},
@@ -27,9 +27,9 @@ BibleDB.add([
   {Bible:"Exodus", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The sons of Korah were Assir, Elkanah and Abiasaph. These were the Korahite clans.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, clan by clan.", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"It was this same Aaron and Moses to whom the LORD said, "Bring the Israelites out of Egypt by their divisions."", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"It was this same Aaron and Moses to whom the LORD said, \"Bring the Israelites out of Egypt by their divisions.\"", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt. It was the same Moses and Aaron.", Ind:""},
   {Bible:"Exodus", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Now when the LORD spoke to Moses in Egypt,", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"he said to him, "I am the LORD. Tell Pharaoh king of Egypt everything I tell you."", Ind:""},
-  {Bible:"Exodus", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But Moses said to the LORD, "Since I speak with faltering lips, why would Pharaoh listen to me?"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"he said to him, \"I am the LORD. Tell Pharaoh king of Egypt everything I tell you.\"", Ind:""},
+  {Bible:"Exodus", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But Moses said to the LORD, \"Since I speak with faltering lips, why would Pharaoh listen to me?\"", Ind:""},
 ]);

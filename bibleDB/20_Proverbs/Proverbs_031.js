@@ -1,16 +1,16 @@
 // 잠언 31장 · Proverbs 31
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",31,30);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:31, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The sayings of King Lemuel--an oracle his mother taught him:", Ind:""},
-  {Bible:"Proverbs", Chapter:31, Verse:2, Page:1, Kor:"", Chn:"", Eng:""O my son, O son of my womb, O son of my vows,", Ind:""},
+  {Bible:"Proverbs", Chapter:31, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"O my son, O son of my womb, O son of my vows,", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:3, Page:1, Kor:"", Chn:"", Eng:"do not spend your strength on women, your vigor on those who ruin kings.", Ind:""},
-  {Bible:"Proverbs", Chapter:31, Verse:4, Page:1, Kor:"", Chn:"", Eng:""It is not for kings, O Lemuel--not for kings to drink wine, not for rulers to crave beer,", Ind:""},
+  {Bible:"Proverbs", Chapter:31, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"It is not for kings, O Lemuel--not for kings to drink wine, not for rulers to crave beer,", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:5, Page:1, Kor:"", Chn:"", Eng:"lest they drink and forget what the law decrees, and deprive all the oppressed of their rights.", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Give beer to those who are perishing, wine to those who are in anguish;", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:7, Page:1, Kor:"", Chn:"", Eng:"let them drink and forget their poverty and remember their misery no more.", Ind:""},
-  {Bible:"Proverbs", Chapter:31, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Speak up for those who cannot speak for themselves, for the rights of all who are destitute.", Ind:""},
-  {Bible:"Proverbs", Chapter:31, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Speak up and judge fairly; defend the rights of the poor and needy."", Ind:""},
+  {Bible:"Proverbs", Chapter:31, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"Speak up for those who cannot speak for themselves, for the rights of all who are destitute.", Ind:""},
+  {Bible:"Proverbs", Chapter:31, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Speak up and judge fairly; defend the rights of the poor and needy.\"", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A wife of noble character who can find? She is worth far more than rubies.", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Her husband has full confidence in her and lacks nothing of value.", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:12, Page:1, Kor:"", Chn:"", Eng:"She brings him good, not harm, all the days of her life.", Ind:""},
@@ -30,6 +30,6 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:31, Verse:26, Page:1, Kor:"", Chn:"", Eng:"She speaks with wisdom, and faithful instruction is on her tongue.", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:27, Page:1, Kor:"", Chn:"", Eng:"She watches over the affairs of her household and does not eat the bread of idleness.", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Her children arise and call her blessed; her husband also, and he praises her:", Ind:""},
-  {Bible:"Proverbs", Chapter:31, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Many women do noble things, but you surpass them all."", Ind:""},
+  {Bible:"Proverbs", Chapter:31, Verse:29, Page:1, Kor:"", Chn:"", Eng:"\"Many women do noble things, but you surpass them all.\"", Ind:""},
   {Bible:"Proverbs", Chapter:31, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.", Ind:""},
 ]);

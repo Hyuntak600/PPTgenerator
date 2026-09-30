@@ -1,5 +1,5 @@
 // 시편 71장 · Psalms 71
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",71,24);
 BibleDB.add([
   {Bible:"Psalms", Chapter:71, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In you, O LORD, I have taken refuge; let me never be put to shame.", Ind:""},
@@ -12,7 +12,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:71, Verse:8, Page:1, Kor:"", Chn:"", Eng:"My mouth is filled with your praise, declaring your splendor all day long.", Ind:""},
   {Bible:"Psalms", Chapter:71, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not cast me away when I am old; do not forsake me when my strength is gone.", Ind:""},
   {Bible:"Psalms", Chapter:71, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For my enemies speak against me; those who wait to kill me conspire together.", Ind:""},
-  {Bible:"Psalms", Chapter:71, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They say, "God has forsaken him; pursue him and seize him, for no one will rescue him."", Ind:""},
+  {Bible:"Psalms", Chapter:71, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They say, \"God has forsaken him; pursue him and seize him, for no one will rescue him.\"", Ind:""},
   {Bible:"Psalms", Chapter:71, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Be not far from me, O God; come quickly, O my God, to help me.", Ind:""},
   {Bible:"Psalms", Chapter:71, Verse:13, Page:1, Kor:"", Chn:"", Eng:"May my accusers perish in shame; may those who want to harm me be covered with scorn and disgrace.", Ind:""},
   {Bible:"Psalms", Chapter:71, Verse:14, Page:1, Kor:"", Chn:"", Eng:"But as for me, I will always have hope; I will praise you more and more.", Ind:""},

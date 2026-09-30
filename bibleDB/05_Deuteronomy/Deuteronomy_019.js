@@ -1,5 +1,5 @@
 // 신명기 19장 · Deuteronomy 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",19,21);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God has destroyed the nations whose land he is giving you, and when you have driven them out and settled in their towns and houses,", Ind:""},

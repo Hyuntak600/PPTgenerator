@@ -1,19 +1,19 @@
 // 욥기 33장 · Job 33
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",33,33);
 BibleDB.add([
-  {Bible:"Job", Chapter:33, Verse:1, Page:1, Kor:"", Chn:"", Eng:""But now, Job, listen to my words; pay attention to everything I say.", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:1, Page:1, Kor:"", Chn:"", Eng:"\"But now, Job, listen to my words; pay attention to everything I say.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I am about to open my mouth; my words are on the tip of my tongue.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:3, Page:1, Kor:"", Chn:"", Eng:"My words come from an upright heart; my lips sincerely speak what I know.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The Spirit of God has made me; the breath of the Almighty gives me life.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Answer me then, if you can; prepare yourself and confront me.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I am just like you before God; I too have been taken from clay.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:7, Page:1, Kor:"", Chn:"", Eng:"No fear of me should alarm you, nor should my hand be heavy upon you.", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:8, Page:1, Kor:"", Chn:"", Eng:""But you have said in my hearing--I heard the very words--", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"But you have said in my hearing--I heard the very words--", Ind:""},
   {Bible:"Job", Chapter:33, Verse:9, Page:1, Kor:"", Chn:"", Eng:"'I am pure and without sin; I am clean and free from guilt.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Yet God has found fault with me; he considers me his enemy.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He fastens my feet in shackles; he keeps close watch on all my paths.'", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:12, Page:1, Kor:"", Chn:"", Eng:""But I tell you, in this you are not right, for God is greater than man.", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"But I tell you, in this you are not right, for God is greater than man.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Why do you complain to him that he answers none of man's words?", Ind:""},
   {Bible:"Job", Chapter:33, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For God does speak--now one way, now another--though man may not perceive it.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:15, Page:1, Kor:"", Chn:"", Eng:"In a dream, in a vision of the night, when deep sleep falls on men as they slumber in their beds,", Ind:""},
@@ -24,15 +24,15 @@ BibleDB.add([
   {Bible:"Job", Chapter:33, Verse:20, Page:1, Kor:"", Chn:"", Eng:"so that his very being finds food repulsive and his soul loathes the choicest meal.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:21, Page:1, Kor:"", Chn:"", Eng:"His flesh wastes away to nothing, and his bones, once hidden, now stick out.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:22, Page:1, Kor:"", Chn:"", Eng:"His soul draws near to the pit, and his life to the messengers of death.", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Yet if there is an angel on his side as a mediator, one out of a thousand, to tell a man what is right for him,", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"Yet if there is an angel on his side as a mediator, one out of a thousand, to tell a man what is right for him,", Ind:""},
   {Bible:"Job", Chapter:33, Verse:24, Page:1, Kor:"", Chn:"", Eng:"to be gracious to him and say, 'Spare him from going down to the pit; I have found a ransom for him'--", Ind:""},
   {Bible:"Job", Chapter:33, Verse:25, Page:1, Kor:"", Chn:"", Eng:"then his flesh is renewed like a child's; it is restored as in the days of his youth.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He prays to God and finds favor with him, he sees God's face and shouts for joy; he is restored by God to his righteous state.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then he comes to men and says, 'I sinned, and perverted what was right, but I did not get what I deserved.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He redeemed my soul from going down to the pit, and I will live to enjoy the light.'", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:29, Page:1, Kor:"", Chn:"", Eng:""God does all these things to a man--twice, even three times--", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:29, Page:1, Kor:"", Chn:"", Eng:"\"God does all these things to a man--twice, even three times--", Ind:""},
   {Bible:"Job", Chapter:33, Verse:30, Page:1, Kor:"", Chn:"", Eng:"to turn back his soul from the pit, that the light of life may shine on him.", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Pay attention, Job, and listen to me; be silent, and I will speak.", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:31, Page:1, Kor:"", Chn:"", Eng:"\"Pay attention, Job, and listen to me; be silent, and I will speak.", Ind:""},
   {Bible:"Job", Chapter:33, Verse:32, Page:1, Kor:"", Chn:"", Eng:"If you have anything to say, answer me; speak up, for I want you to be cleared.", Ind:""},
-  {Bible:"Job", Chapter:33, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But if not, then listen to me; be silent, and I will teach you wisdom."", Ind:""},
+  {Bible:"Job", Chapter:33, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But if not, then listen to me; be silent, and I will teach you wisdom.\"", Ind:""},
 ]);

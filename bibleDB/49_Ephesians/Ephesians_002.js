@@ -1,5 +1,5 @@
 // 에베소서 2장 · Ephesians 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ephesians",2,22);
 BibleDB.add([
   {Bible:"Ephesians", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"As for you, you were dead in your transgressions and sins,", Ind:""},
@@ -12,7 +12,7 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For it is by grace you have been saved, through faith--and this not from yourselves, it is the gift of God--", Ind:""},
   {Bible:"Ephesians", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"not by works, so that no one can boast.", Ind:""},
   {Bible:"Ephesians", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For we are God's workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do.", Ind:""},
-  {Bible:"Ephesians", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore, remember that formerly you who are Gentiles by birth and called "uncircumcised" by those who call themselves "the circumcision" (that done in the body by the hands of men)--", Ind:""},
+  {Bible:"Ephesians", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore, remember that formerly you who are Gentiles by birth and called \"uncircumcised\" by those who call themselves \"the circumcision\" (that done in the body by the hands of men)--", Ind:""},
   {Bible:"Ephesians", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners to the covenants of the promise, without hope and without God in the world.", Ind:""},
   {Bible:"Ephesians", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But now in Christ Jesus you who once were far away have been brought near through the blood of Christ.", Ind:""},
   {Bible:"Ephesians", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For he himself is our peace, who has made the two one and has destroyed the barrier, the dividing wall of hostility,", Ind:""},

@@ -1,5 +1,5 @@
 // 신명기 28장 · Deuteronomy 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",28,68);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"If you fully obey the LORD your God and carefully follow all his commands I give you today, the LORD your God will set you high above all the nations on earth.", Ind:""},
@@ -68,6 +68,6 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:28, Verse:64, Page:1, Kor:"", Chn:"", Eng:"Then the LORD will scatter you among all nations, from one end of the earth to the other. There you will worship other gods--gods of wood and stone, which neither you nor your fathers have known.", Ind:""},
   {Bible:"Deuteronomy", Chapter:28, Verse:65, Page:1, Kor:"", Chn:"", Eng:"Among those nations you will find no repose, no resting place for the sole of your foot. There the LORD will give you an anxious mind, eyes weary with longing, and a despairing heart.", Ind:""},
   {Bible:"Deuteronomy", Chapter:28, Verse:66, Page:1, Kor:"", Chn:"", Eng:"You will live in constant suspense, filled with dread both night and day, never sure of your life.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:28, Verse:67, Page:1, Kor:"", Chn:"", Eng:"In the morning you will say, "If only it were evening!" and in the evening, "If only it were morning!"--because of the terror that will fill your hearts and the sights that your eyes will see.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:28, Verse:67, Page:1, Kor:"", Chn:"", Eng:"In the morning you will say, \"If only it were evening!\" and in the evening, \"If only it were morning!\"--because of the terror that will fill your hearts and the sights that your eyes will see.", Ind:""},
   {Bible:"Deuteronomy", Chapter:28, Verse:68, Page:1, Kor:"", Chn:"", Eng:"The LORD will send you back in ships to Egypt on a journey I said you should never make again. There you will offer yourselves for sale to your enemies as male and female slaves, but no one will buy you.", Ind:""},
 ]);

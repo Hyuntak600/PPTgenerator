@@ -1,6 +1,23 @@
-// 열왕기상 5장 · 1 Kings 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 5장 · 1Kings 5
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",5,18);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Hiram king of Tyre heard that Solomon had been anointed king to succeed his father David, he sent his envoys to Solomon, because he had always been on friendly terms with David.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Solomon sent back this message to Hiram:", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"You know that because of the wars waged against my father David from all sides, he could not build a temple for the Name of the LORD his God until the LORD put his enemies under his feet.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But now the LORD my God has given me rest on every side, and there is no adversary or disaster.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I intend, therefore, to build a temple for the Name of the LORD my God, as the LORD told my father David, when he said, 'Your son whom I will put on the throne in your place will build the temple for my Name.'", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"So give orders that cedars of Lebanon be cut for me. My men will work with yours, and I will pay you for your men whatever wages you set. You know that we have no one so skilled in felling timber as the Sidonians.\"", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When Hiram heard Solomon's message, he was greatly pleased and said, \"Praise be to the LORD today, for he has given David a wise son to rule over this great nation.\"", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So Hiram sent word to Solomon: \"I have received the message you sent me and will do all you want in providing the cedar and pine logs.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"My men will haul them down from Lebanon to the sea, and I will float them in rafts by sea to the place you specify. There I will separate them and you can take them away. And you are to grant my wish by providing food for my royal household.\"", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"In this way Hiram kept Solomon supplied with all the cedar and pine logs he wanted,", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and Solomon gave Hiram twenty thousand cors of wheat as food for his household, in addition to twenty thousand baths of pressed olive oil. Solomon continued to do this for Hiram year after year.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The LORD gave Solomon wisdom, just as he had promised him. There were peaceful relations between Hiram and Solomon, and the two of them made a treaty.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"King Solomon conscripted laborers from all Israel--thirty thousand men.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He sent them off to Lebanon in shifts of ten thousand a month, so that they spent one month in Lebanon and two months at home. Adoniram was in charge of the forced labor.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Solomon had seventy thousand carriers and eighty thousand stonecutters in the hills,", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"as well as thirty-three hundred foremen who supervised the project and directed the workmen.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"At the king's command they removed from the quarry large blocks of quality stone to provide a foundation of dressed stone for the temple.", Ind:""},
+  {Bible:"1Kings", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The craftsmen of Solomon and Hiram and the men of Gebal cut and prepared the timber and stone for the building of the temple.", Ind:""},
 ]);

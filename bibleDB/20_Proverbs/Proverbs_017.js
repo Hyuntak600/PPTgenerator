@@ -1,5 +1,5 @@
 // 잠언 17장 · Proverbs 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",17,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Better a dry crust with peace and quiet than a house full of feasting, with strife.", Ind:""},

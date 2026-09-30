@@ -1,5 +1,5 @@
 // 시편 73장 · Psalms 73
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",73,28);
 BibleDB.add([
   {Bible:"Psalms", Chapter:73, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Surely God is good to Israel, to those who are pure in heart.", Ind:""},
@@ -12,11 +12,11 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:73, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They scoff, and speak with malice; in their arrogance they threaten oppression.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Their mouths lay claim to heaven, and their tongues take possession of the earth.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Therefore their people turn to them and drink up waters in abundance.", Ind:""},
-  {Bible:"Psalms", Chapter:73, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They say, "How can God know? Does the Most High have knowledge?"", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They say, \"How can God know? Does the Most High have knowledge?\"", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:12, Page:1, Kor:"", Chn:"", Eng:"This is what the wicked are like--always carefree, they increase in wealth.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Surely in vain have I kept my heart pure; in vain have I washed my hands in innocence.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:14, Page:1, Kor:"", Chn:"", Eng:"All day long I have been plagued; I have been punished every morning.", Ind:""},
-  {Bible:"Psalms", Chapter:73, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If I had said, "I will speak thus," I would have betrayed your children.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If I had said, \"I will speak thus,\" I would have betrayed your children.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When I tried to understand all this, it was oppressive to me", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:17, Page:1, Kor:"", Chn:"", Eng:"till I entered the sanctuary of God; then I understood their final destiny.", Ind:""},
   {Bible:"Psalms", Chapter:73, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Surely you place them on slippery ground; you cast them down to ruin.", Ind:""},

@@ -1,5 +1,5 @@
 // 잠언 6장 · Proverbs 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",6,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My son, if you have put up security for your neighbor, if you have struck hands in pledge for another,", Ind:""},

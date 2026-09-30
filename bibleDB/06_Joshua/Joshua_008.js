@@ -1,15 +1,15 @@
 // 여호수아 8장 · Joshua 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",8,35);
 BibleDB.add([
-  {Bible:"Joshua", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, "Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.", Ind:""},
-  {Bible:"Joshua", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city."", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, \"Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city.\"", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Joshua and the whole army moved out to attack Ai. He chose thirty thousand of his best fighting men and sent them out at night", Ind:""},
-  {Bible:"Joshua", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"with these orders: "Listen carefully. You are to set an ambush behind the city. Don't go very far from it. All of you be on the alert.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"with these orders: \"Listen carefully. You are to set an ambush behind the city. Don't go very far from it. All of you be on the alert.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I and all those with me will advance on the city, and when the men come out against us, as they did before, we will flee from them.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They will pursue us until we have lured them away from the city, for they will say, 'They are running away from us as they did before.' So when we flee from them,", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"you are to rise up from ambush and take the city. The LORD your God will give it into your hand.", Ind:""},
-  {Bible:"Joshua", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When you have taken the city, set it on fire. Do what the LORD has commanded. See to it; you have my orders."", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When you have taken the city, set it on fire. Do what the LORD has commanded. See to it; you have my orders.\"", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then Joshua sent them off, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai--but Joshua spent that night with the people.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Early the next morning Joshua mustered his men, and he and the leaders of Israel marched before them to Ai.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The entire force that was with him marched up and approached the city and arrived in front of it. They set up camp north of Ai, with the valley between them and the city.", Ind:""},
@@ -19,7 +19,7 @@ BibleDB.add([
   {Bible:"Joshua", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Joshua and all Israel let themselves be driven back before them, and they fled toward the desert.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"All the men of Ai were called to pursue them, and they pursued Joshua and were lured away from the city.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Not a man remained in Ai or Bethel who did not go after Israel. They left the city open and went in pursuit of Israel.", Ind:""},
-  {Bible:"Joshua", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, "Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city." So Joshua held out his javelin toward Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, \"Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city.\" So Joshua held out his javelin toward Ai.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As soon as he did this, the men in the ambush rose quickly from their position and rushed forward. They entered the city and captured it and quickly set it on fire.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The men of Ai looked back and saw the smoke of the city rising against the sky, but they had no chance to escape in any direction, for the Israelites who had been fleeing toward the desert had turned back against their pursuers.", Ind:""},
   {Bible:"Joshua", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For when Joshua and all Israel saw that the ambush had taken the city and that smoke was going up from the city, they turned around and attacked the men of Ai.", Ind:""},

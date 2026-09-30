@@ -1,5 +1,5 @@
 // 로마서 7장 · Romans 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",7,25);
 BibleDB.add([
   {Bible:"Romans", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do you not know, brothers--for I am speaking to men who know the law--that the law has authority over a man only as long as he lives?", Ind:""},
@@ -8,7 +8,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So, my brothers, you also died to the law through the body of Christ, that you might belong to another, to him who was raised from the dead, in order that we might bear fruit to God.", Ind:""},
   {Bible:"Romans", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For when we were controlled by the sinful nature, the sinful passions aroused by the law were at work in our bodies, so that we bore fruit for death.", Ind:""},
   {Bible:"Romans", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But now, by dying to what once bound us, we have been released from the law so that we serve in the new way of the Spirit, and not in the old way of the written code.", Ind:""},
-  {Bible:"Romans", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What shall we say, then? Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law. For I would not have known what coveting really was if the law had not said, "Do not covet."", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What shall we say, then? Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law. For I would not have known what coveting really was if the law had not said, \"Do not covet.\"", Ind:""},
   {Bible:"Romans", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But sin, seizing the opportunity afforded by the commandment, produced in me every kind of covetous desire. For apart from law, sin is dead.", Ind:""},
   {Bible:"Romans", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Once I was alive apart from law; but when the commandment came, sin sprang to life and I died.", Ind:""},
   {Bible:"Romans", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I found that the very commandment that was intended to bring life actually brought death.", Ind:""},

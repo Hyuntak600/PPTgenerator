@@ -1,5 +1,5 @@
 // 미가 1장 · Micah 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Micah",1,16);
 BibleDB.add([
   {Bible:"Micah", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah--the vision he saw concerning Samaria and Jerusalem.", Ind:""},
@@ -7,8 +7,8 @@ BibleDB.add([
   {Bible:"Micah", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Look! The LORD is coming from his dwelling place; he comes down and treads the high places of the earth.", Ind:""},
   {Bible:"Micah", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The mountains melt beneath him and the valleys split apart, like wax before the fire, like water rushing down a slope.", Ind:""},
   {Bible:"Micah", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"All this is because of Jacob's transgression, because of the sins of the house of Israel. What is Jacob's transgression? Is it not Samaria? What is Judah's high place? Is it not Jerusalem?", Ind:""},
-  {Bible:"Micah", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Therefore I will make Samaria a heap of rubble, a place for planting vineyards. I will pour her stones into the valley and lay bare her foundations.", Ind:""},
-  {Bible:"Micah", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All her idols will be broken to pieces; all her temple gifts will be burned with fire; I will destroy all her images. Since she gathered her gifts from the wages of prostitutes, as the wages of prostitutes they will again be used."", Ind:""},
+  {Bible:"Micah", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"Therefore I will make Samaria a heap of rubble, a place for planting vineyards. I will pour her stones into the valley and lay bare her foundations.", Ind:""},
+  {Bible:"Micah", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All her idols will be broken to pieces; all her temple gifts will be burned with fire; I will destroy all her images. Since she gathered her gifts from the wages of prostitutes, as the wages of prostitutes they will again be used.\"", Ind:""},
   {Bible:"Micah", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Because of this I will weep and wail; I will go about barefoot and naked. I will howl like a jackal and moan like an owl.", Ind:""},
   {Bible:"Micah", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For her wound is incurable; it has come to Judah. It has reached the very gate of my people, even to Jerusalem itself.", Ind:""},
   {Bible:"Micah", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Tell it not in Gath; weep not at all. In Beth Ophrah roll in the dust.", Ind:""},

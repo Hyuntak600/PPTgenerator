@@ -1,5 +1,5 @@
 // 히브리서 11장 · Hebrews 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",11,40);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now faith is being sure of what we hope for and certain of what we do not see.", Ind:""},
@@ -19,7 +19,7 @@ BibleDB.add([
   {Bible:"Hebrews", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If they had been thinking of the country they had left, they would have had opportunity to return.", Ind:""},
   {Bible:"Hebrews", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Instead, they were longing for a better country--a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared a city for them.", Ind:""},
   {Bible:"Hebrews", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"By faith Abraham, when God tested him, offered Isaac as a sacrifice. He who had received the promises was about to sacrifice his one and only son,", Ind:""},
-  {Bible:"Hebrews", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"even though God had said to him, "It is through Isaac that your offspring will be reckoned."", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"even though God had said to him, \"It is through Isaac that your offspring will be reckoned.\"", Ind:""},
   {Bible:"Hebrews", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Abraham reasoned that God could raise the dead, and figuratively speaking, he did receive Isaac back from death.", Ind:""},
   {Bible:"Hebrews", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"By faith Isaac blessed Jacob and Esau in regard to their future.", Ind:""},
   {Bible:"Hebrews", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"By faith Jacob, when he was dying, blessed each of Joseph's sons, and worshiped as he leaned on the top of his staff.", Ind:""},

@@ -1,13 +1,13 @@
 // 히브리서 5장 · Hebrews 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",5,14);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Every high priest is selected from among men and is appointed to represent them in matters related to God, to offer gifts and sacrifices for sins.", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He is able to deal gently with those who are ignorant and are going astray, since he himself is subject to weakness.", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"This is why he has to offer sacrifices for his own sins, as well as for the sins of the people.", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"No one takes this honor upon himself; he must be called by God, just as Aaron was.", Ind:""},
-  {Bible:"Hebrews", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So Christ also did not take upon himself the glory of becoming a high priest. But God said to him, "You are my Son; today I have become your Father."", Ind:""},
-  {Bible:"Hebrews", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And he says in another place, "You are a priest forever, in the order of Melchizedek."", Ind:""},
+  {Bible:"Hebrews", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So Christ also did not take upon himself the glory of becoming a high priest. But God said to him, \"You are my Son; today I have become your Father.\"", Ind:""},
+  {Bible:"Hebrews", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And he says in another place, \"You are a priest forever, in the order of Melchizedek.\"", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"During the days of Jesus' life on earth, he offered up prayers and petitions with loud cries and tears to the one who could save him from death, and he was heard because of his reverent submission.", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Although he was a son, he learned obedience from what he suffered", Ind:""},
   {Bible:"Hebrews", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and, once made perfect, he became the source of eternal salvation for all who obey him", Ind:""},

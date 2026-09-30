@@ -1,9 +1,9 @@
 // 여호수아 21장 · Joshua 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",21,45);
 BibleDB.add([
   {Bible:"Joshua", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribal families of Israel", Ind:""},
-  {Bible:"Joshua", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"at Shiloh in Canaan and said to them, "The LORD commanded through Moses that you give us towns to live in, with pasturelands for our livestock."", Ind:""},
+  {Bible:"Joshua", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"at Shiloh in Canaan and said to them, \"The LORD commanded through Moses that you give us towns to live in, with pasturelands for our livestock.\"", Ind:""},
   {Bible:"Joshua", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So, as the LORD had commanded, the Israelites gave the Levites the following towns and pasturelands out of their own inheritance:", Ind:""},
   {Bible:"Joshua", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The first lot came out for the Kohathites, clan by clan. The Levites who were descendants of Aaron the priest were allotted thirteen towns from the tribes of Judah, Simeon and Benjamin.", Ind:""},
   {Bible:"Joshua", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The rest of Kohath's descendants were allotted ten towns from the clans of the tribes of Ephraim, Dan and half of Manasseh.", Ind:""},

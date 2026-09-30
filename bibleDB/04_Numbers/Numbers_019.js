@@ -1,27 +1,27 @@
 // 민수기 19장 · Numbers 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",19,22);
 BibleDB.add([
   {Bible:"Numbers", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses and Aaron:", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:""This is a requirement of the law that the LORD has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"This is a requirement of the law that the LORD has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Give it to Eleazar the priest; it is to be taken outside the camp and slaughtered in his presence.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the Tent of Meeting.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"While he watches, the heifer is to be burned--its hide, flesh, blood and offal.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The priest is to take some cedar wood, hyssop and scarlet wool and throw them onto the burning heifer.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"After that, the priest must wash his clothes and bathe himself with water. He may then come into the camp, but he will be ceremonially unclean till evening.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The man who burns it must also wash his clothes and bathe with water, and he too will be unclean till evening.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:""A man who is clean shall gather up the ashes of the heifer and put them in a ceremonially clean place outside the camp. They shall be kept by the Israelite community for use in the water of cleansing; it is for purification from sin.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"\"A man who is clean shall gather up the ashes of the heifer and put them in a ceremonially clean place outside the camp. They shall be kept by the Israelite community for use in the water of cleansing; it is for purification from sin.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The man who gathers up the ashes of the heifer must also wash his clothes, and he too will be unclean till evening. This will be a lasting ordinance both for the Israelites and for the aliens living among them.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Whoever touches the dead body of anyone will be unclean for seven days.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"\"Whoever touches the dead body of anyone will be unclean for seven days.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He must purify himself with the water on the third day and on the seventh day; then he will be clean. But if he does not purify himself on the third and seventh days, he will not be clean.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Whoever touches the dead body of anyone and fails to purify himself defiles the LORD'S tabernacle. That person must be cut off from Israel. Because the water of cleansing has not been sprinkled on him, he is unclean; his uncleanness remains on him.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:""This is the law that applies when a person dies in a tent: Anyone who enters the tent and anyone who is in it will be unclean for seven days,", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"\"This is the law that applies when a person dies in a tent: Anyone who enters the tent and anyone who is in it will be unclean for seven days,", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"and every open container without a lid fastened on it will be unclean.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Anyone out in the open who touches someone who has been killed with a sword or someone who has died a natural death, or anyone who touches a human bone or a grave, will be unclean for seven days.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:""For the unclean person, put some ashes from the burned purification offering into a jar and pour fresh water over them.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"\"Anyone out in the open who touches someone who has been killed with a sword or someone who has died a natural death, or anyone who touches a human bone or a grave, will be unclean for seven days.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:"\"For the unclean person, put some ashes from the burned purification offering into a jar and pour fresh water over them.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then a man who is ceremonially clean is to take some hyssop, dip it in the water and sprinkle the tent and all the furnishings and the people who were there. He must also sprinkle anyone who has touched a human bone or a grave or someone who has been killed or someone who has died a natural death.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The man who is clean is to sprinkle the unclean person on the third and seventh days, and on the seventh day he is to purify him. The person being cleansed must wash his clothes and bathe with water, and that evening he will be clean.", Ind:""},
   {Bible:"Numbers", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But if a person who is unclean does not purify himself, he must be cut off from the community, because he has defiled the sanctuary of the LORD. The water of cleansing has not been sprinkled on him, and he is unclean.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"This is a lasting ordinance for them. "The man who sprinkles the water of cleansing must also wash his clothes, and anyone who touches the water of cleansing will be unclean till evening.", Ind:""},
-  {Bible:"Numbers", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening."", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"This is a lasting ordinance for them. \"The man who sprinkles the water of cleansing must also wash his clothes, and anyone who touches the water of cleansing will be unclean till evening.", Ind:""},
+  {Bible:"Numbers", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening.\"", Ind:""},
 ]);

@@ -1,24 +1,24 @@
 // 욥기 15장 · Job 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",15,35);
 BibleDB.add([
   {Bible:"Job", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Eliphaz the Temanite replied:", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Would a wise man answer with empty notions or fill his belly with the hot east wind?", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Would a wise man answer with empty notions or fill his belly with the hot east wind?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Would he argue with useless words, with speeches that have no value?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But you even undermine piety and hinder devotion to God.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Your sin prompts your mouth; you adopt the tongue of the crafty.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Your own mouth condemns you, not mine; your own lips testify against you.", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Are you the first man ever born? Were you brought forth before the hills?", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Are you the first man ever born? Were you brought forth before the hills?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Do you listen in on God's council? Do you limit wisdom to yourself?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"What do you know that we do not know? What insights do you have that we do not have?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The gray-haired and the aged are on our side, men even older than your father.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Are God's consolations not enough for you, words spoken gently to you?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Why has your heart carried you away, and why do your eyes flash,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"so that you vent your rage against God and pour out such words from your mouth?", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:""What is man, that he could be pure, or one born of woman, that he could be righteous?", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"\"What is man, that he could be pure, or one born of woman, that he could be righteous?", Ind:""},
   {Bible:"Job", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If God places no trust in his holy ones, if even the heavens are not pure in his eyes,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"how much less man, who is vile and corrupt, who drinks up evil like water!", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Listen to me and I will explain to you; let me tell you what I have seen,", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"\"Listen to me and I will explain to you; let me tell you what I have seen,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"what wise men have declared, hiding nothing received from their fathers", Ind:""},
   {Bible:"Job", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"(to whom alone the land was given when no alien passed among them):", Ind:""},
   {Bible:"Job", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"All his days the wicked man suffers torment, the ruthless through all the years stored up for him.", Ind:""},
@@ -28,7 +28,7 @@ BibleDB.add([
   {Bible:"Job", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Distress and anguish fill him with terror; they overwhelm him, like a king poised to attack,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"because he shakes his fist at God and vaunts himself against the Almighty,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"defiantly charging against him with a thick, strong shield.", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Though his face is covered with fat and his waist bulges with flesh,", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"\"Though his face is covered with fat and his waist bulges with flesh,", Ind:""},
   {Bible:"Job", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:"he will inhabit ruined towns and houses where no one lives, houses crumbling to rubble.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He will no longer be rich and his wealth will not endure, nor will his possessions spread over the land.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He will not escape the darkness; a flame will wither his shoots, and the breath of God's mouth will carry him away.", Ind:""},
@@ -36,5 +36,5 @@ BibleDB.add([
   {Bible:"Job", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Before his time he will be paid in full, and his branches will not flourish.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"He will be like a vine stripped of its unripe grapes, like an olive tree shedding its blossoms.", Ind:""},
   {Bible:"Job", Chapter:15, Verse:34, Page:1, Kor:"", Chn:"", Eng:"For the company of the godless will be barren, and fire will consume the tents of those who love bribes.", Ind:""},
-  {Bible:"Job", Chapter:15, Verse:35, Page:1, Kor:"", Chn:"", Eng:"They conceive trouble and give birth to evil; their womb fashions deceit."", Ind:""},
+  {Bible:"Job", Chapter:15, Verse:35, Page:1, Kor:"", Chn:"", Eng:"They conceive trouble and give birth to evil; their womb fashions deceit.\"", Ind:""},
 ]);

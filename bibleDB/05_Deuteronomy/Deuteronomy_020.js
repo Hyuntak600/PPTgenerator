@@ -1,15 +1,15 @@
 // 신명기 20장 · Deuteronomy 20
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",20,20);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:20, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When you go to war against your enemies and see horses and chariots and an army greater than yours, do not be afraid of them, because the LORD your God, who brought you up out of Egypt, will be with you.", Ind:""},
   {Bible:"Deuteronomy", Chapter:20, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When you are about to go into battle, the priest shall come forward and address the army.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:20, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He shall say: "Hear, O Israel, today you are going into battle against your enemies. Do not be fainthearted or afraid; do not be terrified or give way to panic before them.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:20, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For the LORD your God is the one who goes with you to fight for you against your enemies to give you victory."", Ind:""},
-  {Bible:"Deuteronomy", Chapter:20, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The officers shall say to the army: "Has anyone built a new house and not dedicated it? Let him go home, or he may die in battle and someone else may dedicate it.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:20, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He shall say: \"Hear, O Israel, today you are going into battle against your enemies. Do not be fainthearted or afraid; do not be terrified or give way to panic before them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:20, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For the LORD your God is the one who goes with you to fight for you against your enemies to give you victory.\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:20, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The officers shall say to the army: \"Has anyone built a new house and not dedicated it? Let him go home, or he may die in battle and someone else may dedicate it.", Ind:""},
   {Bible:"Deuteronomy", Chapter:20, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Has anyone planted a vineyard and not begun to enjoy it? Let him go home, or he may die in battle and someone else enjoy it.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:20, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Has anyone become pledged to a woman and not married her? Let him go home, or he may die in battle and someone else marry her."", Ind:""},
-  {Bible:"Deuteronomy", Chapter:20, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the officers shall add, "Is any man afraid or fainthearted? Let him go home so that his brothers will not become disheartened too."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:20, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Has anyone become pledged to a woman and not married her? Let him go home, or he may die in battle and someone else marry her.\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:20, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the officers shall add, \"Is any man afraid or fainthearted? Let him go home so that his brothers will not become disheartened too.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:20, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When the officers have finished speaking to the army, they shall appoint commanders over it.", Ind:""},
   {Bible:"Deuteronomy", Chapter:20, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When you march up to attack a city, make its people an offer of peace.", Ind:""},
   {Bible:"Deuteronomy", Chapter:20, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If they accept and open their gates, all the people in it shall be subject to forced labor and shall work for you.", Ind:""},

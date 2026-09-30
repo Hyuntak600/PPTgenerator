@@ -1,5 +1,5 @@
 // 갈라디아서 4장 · Galatians 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Galatians",4,31);
 BibleDB.add([
   {Bible:"Galatians", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"What I am saying is that as long as the heir is a child, he is no different from a slave, although he owns the whole estate.", Ind:""},
@@ -7,7 +7,7 @@ BibleDB.add([
   {Bible:"Galatians", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So also, when we were children, we were in slavery under the basic principles of the world.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But when the time had fully come, God sent his Son, born of a woman, born under law,", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"to redeem those under law, that we might receive the full rights of sons.", Ind:""},
-  {Bible:"Galatians", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Because you are sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, "Abba, Father."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Because you are sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, \"Abba, Father.\"", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So you are no longer a slave, but a son; and since you are a son, God has made you also an heir.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Formerly, when you did not know God, you were slaves to those who by nature are not gods.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But now that you know God--or rather are known by God--how is it that you are turning back to those weak and miserable principles? Do you wish to be enslaved by them all over again?", Ind:""},
@@ -28,9 +28,9 @@ BibleDB.add([
   {Bible:"Galatians", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"These things may be taken figuratively, for the women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But the Jerusalem that is above is free, and she is our mother.", Ind:""},
-  {Bible:"Galatians", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For it is written: "Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For it is written: \"Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband.\"", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Now you, brothers, like Isaac, are children of promise.", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"At that time the son born in the ordinary way persecuted the son born by the power of the Spirit. It is the same now.", Ind:""},
-  {Bible:"Galatians", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But what does the Scripture say? "Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But what does the Scripture say? \"Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son.\"", Ind:""},
   {Bible:"Galatians", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Therefore, brothers, we are not children of the slave woman, but of the free woman.", Ind:""},
 ]);

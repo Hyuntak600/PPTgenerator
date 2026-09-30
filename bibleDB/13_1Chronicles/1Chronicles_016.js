@@ -1,6 +1,48 @@
-// 역대상 16장 · 1 Chronicles 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 16장 · 1Chronicles 16
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",16,43);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"They brought the ark of God and set it inside the tent that David had pitched for it, and they presented burnt offerings and fellowship offerings before God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"After David had finished sacrificing the burnt offerings and fellowship offerings, he blessed the people in the name of the LORD.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then he gave a loaf of bread, a cake of dates and a cake of raisins to each Israelite man and woman.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He appointed some of the Levites to minister before the ark of the LORD, to make petition, to give thanks, and to praise the LORD, the God of Israel:", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Asaph was the chief, Zechariah second, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-Edom and Jeiel. They were to play the lyres and harps, Asaph was to sound the cymbals,", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and Benaiah and Jahaziel the priests were to blow the trumpets regularly before the ark of the covenant of God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"That day David first committed to Asaph and his associates this psalm of thanks to the LORD:", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, call on his name; make known among the nations what he has done.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Sing to him, sing praise to him; tell of all his wonderful acts.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Glory in his holy name; let the hearts of those who seek the LORD rejoice.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Look to the LORD and his strength; seek his face always.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Remember the wonders he has done, his miracles, and the judgments he pronounced,", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"O descendants of Israel his servant, O sons of Jacob, his chosen ones.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He is the LORD our God; his judgments are in all the earth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He remembers his covenant forever, the word he commanded, for a thousand generations,", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the covenant he made with Abraham, the oath he swore to Isaac.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"\"To you I will give the land of Canaan as the portion you will inherit.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When they were but few in number, few indeed, and strangers in it,", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"they wandered from nation to nation, from one kingdom to another.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He allowed no man to oppress them; for their sake he rebuked kings:", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"\"Do not touch my anointed ones; do my prophets no harm.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Sing to the LORD, all the earth; proclaim his salvation day after day.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Declare his glory among the nations, his marvelous deeds among all peoples.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For great is the LORD and most worthy of praise; he is to be feared above all gods.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For all the gods of the nations are idols, but the LORD made the heavens.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Splendor and majesty are before him; strength and joy in his dwelling place.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Ascribe to the LORD, O families of nations, ascribe to the LORD glory and strength,", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:"ascribe to the LORD the glory due his name. Bring an offering and come before him; worship the LORD in the splendor of his holiness.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Tremble before him, all the earth! The world is firmly established; it cannot be moved.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Let the heavens rejoice, let the earth be glad; let them say among the nations, \"The LORD reigns!\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Let the sea resound, and all that is in it; let the fields be jubilant, and everything in them!", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Then the trees of the forest will sing, they will sing for joy before the LORD, for he comes to judge the earth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, for he is good; his love endures forever.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Cry out, \"Save us, O God our Savior; gather us and deliver us from the nations, that we may give thanks to your holy name, that we may glory in your praise.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Praise be to the LORD, the God of Israel, from everlasting to everlasting. Then all the people said \"Amen\" and \"Praise the LORD.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:37, Page:1, Kor:"", Chn:"", Eng:"David left Asaph and his associates before the ark of the covenant of the LORD to minister there regularly, according to each day's requirements.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:38, Page:1, Kor:"", Chn:"", Eng:"He also left Obed-Edom and his sixty-eight associates to minister with them. Obed-Edom son of Jeduthun, and also Hosah, were gatekeepers.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:39, Page:1, Kor:"", Chn:"", Eng:"David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:40, Page:1, Kor:"", Chn:"", Eng:"to present burnt offerings to the LORD on the altar of burnt offering regularly, morning and evening, in accordance with everything written in the Law of the LORD, which he had given Israel.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:41, Page:1, Kor:"", Chn:"", Eng:"With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to the LORD, \"for his love endures forever.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:42, Page:1, Kor:"", Chn:"", Eng:"Heman and Jeduthun were responsible for the sounding of the trumpets and cymbals and for the playing of the other instruments for sacred song. The sons of Jeduthun were stationed at the gate.", Ind:""},
+  {Bible:"1Chronicles", Chapter:16, Verse:43, Page:1, Kor:"", Chn:"", Eng:"Then all the people left, each for his own home, and David returned home to bless his family.", Ind:""},
 ]);

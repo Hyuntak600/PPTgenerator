@@ -1,5 +1,5 @@
 // 디도서 1장 · Titus 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Titus",1,16);
 BibleDB.add([
   {Bible:"Titus", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, a servant of God and an apostle of Jesus Christ for the faith of God's elect and the knowledge of the truth that leads to godliness--", Ind:""},
@@ -13,7 +13,7 @@ BibleDB.add([
   {Bible:"Titus", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it.", Ind:""},
   {Bible:"Titus", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For there are many rebellious people, mere talkers and deceivers, especially those of the circumcision group.", Ind:""},
   {Bible:"Titus", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They must be silenced, because they are ruining whole households by teaching things they ought not to teach--and that for the sake of dishonest gain.", Ind:""},
-  {Bible:"Titus", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Even one of their own prophets has said, "Cretans are always liars, evil brutes, lazy gluttons."", Ind:""},
+  {Bible:"Titus", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Even one of their own prophets has said, \"Cretans are always liars, evil brutes, lazy gluttons.\"", Ind:""},
   {Bible:"Titus", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"This testimony is true. Therefore, rebuke them sharply, so that they will be sound in the faith", Ind:""},
   {Bible:"Titus", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and will pay no attention to Jewish myths or to the commands of those who reject the truth.", Ind:""},
   {Bible:"Titus", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted.", Ind:""},

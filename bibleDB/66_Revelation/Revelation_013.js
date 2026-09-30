@@ -1,24 +1,23 @@
 // 요한계시록 13장 · Revelation 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Revelation",13,18);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
 BibleDB.add([
-  {Bible:"Revelation", Chapter:13, Verse:1, Page:1, Kor:"<짐승 두 마리> 나는 바다에서 짐승 하나가 올라오는 것을 보았습니다. 그 짐승은 뿔 열과 머리 일곱이 달려 있었는데, 그 뿔 하나하나에 왕관을 쓰고 있고, 그 머리 하나하나에는 하나님을 모독하는 이름이 붙어 있었습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:2, Page:1, Kor:"내가 본 그 짐승은 표범과 비슷한데, 그 발은 곰의 발과 같고, 그 입은 사자의 입과 같았습니다. 그 용이 자기 힘과 왕위와 큰 권세를 이 짐승에게 주었습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:3, Page:1, Kor:"그 머리들 가운데 하나는 치명상을 입은 듯하였습니다. 그러나 그 a치명적인 상처가 나으니, 온 세상은 놀라서 그 짐승을 따라갔습니다.(a 그, '죽음의 재앙이')", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:4, Page:1, Kor:"용이 그 짐승에게 권세를 주니, 사람들은 그 용에게 경배하였습니다. 또 그들은 \"누가 이 짐승과 같으랴? 누가 이 짐승과 맞서서 싸울 수 있으랴?\" 하고 말하면서, 그 짐승에게 경배하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:5, Page:1, Kor:"○그 짐승은, 큰소리를 치며 하나님을 모독하는 말을 하는 입을 받고, 마흔두 달 동안 활동할 권세를 받았습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:6, Page:1, Kor:"그 짐승은 입을 열어서 하나님을 모독하였으니, 하나님의 이름과 거처와 하늘에 사는 이들을 모독하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:7, Page:1, Kor:"b그 짐승은 성도들과 싸워서 이길 것을 허락받고, 또 모든 종족과 백성과 언어와 민족을 다스리는 권세를 받았습니다.(b) 다른 고대 사본들에는 7절 상반절이 없음)", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:8, Page:1, Kor:"그러므로 땅 위에 사는 사람 가운데서, c죽임을 당한 어린 양의 생명책에 창세 때부터 이름이 기록되어 있지 않은 사람은, 모두 그에게 경배할 것입니다.(c 또는 '창세 때부터 죽임을 당한 그 어린 양의 생명책에 기록되어 있지 않은 사람은')", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:9, Page:1, Kor:"귀가 있는 사람은 들으십시오.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:10, Page:1, Kor:"d\"사로잡혀 가기로 되어 있는 사람이면, 사로잡혀 갈 것이요, 칼에 맞아서 죽임을 당하기로 되어 있는 사람이면, 칼에 맞아서 죽임을 당할 것이다.\" 여기에 성도들의 인내와 믿음이 필요합니다.(d 렘 15:2; 43:11)", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:11, Page:1, Kor:"○나는 또 땅에서 다른 짐승 하나가 올라오는 것을 보았습니다. 그것은 어린 양처럼 뿔이 둘 있고, 용처럼 말을 하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:12, Page:1, Kor:"이 짐승은 첫째 짐승이 가진 모든 권세를 그 첫째 짐승을 대신하여 행사하였습니다. 이 짐승은, 땅과 땅 위에 사는 모든 사람들로 하여금 e치명상에서 나음을 받은 그 첫째 짐승에게 절하게 하였습니다.(e 그, '죽음의 재앙')", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:13, Page:1, Kor:"또 그 짐승은 큰 기적들을 행하였는데, 사람들이 보는 앞에서 하늘에서 불이 땅에 내려오게도 하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:14, Page:1, Kor:"그리고 그 첫째 짐승을 대신해서 행하도록 허락받은 그 기적들을 미끼로 해서 땅 위에 사는 사람들을 미혹하였습니다. 땅 위에 사는 사람들에게, 칼에 f맞아서 상처를 입고서도 살아난 그 짐승을 위하여 우상을 만들라고 말하였습니다.(f 또는 '칼의 재앙을 받았다가도')", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:15, Page:1, Kor:"그리고 둘째 짐승이 능력을 받아서 첫째 짐승의 우상에게 g생기를 넣어 주고, 그 짐승의 우상으로 하여금 말을 하게도 하고, 또 우상에게 경배하지 않는 사람은 모두 죽임을 당하게도 하였습니다.(g 또는 '영')", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:16, Page:1, Kor:"또 작은 자나 큰 자나, 부자나 가난한 자나, 자유인이나 종이나 할 것 없이, 다 그들의 오른손이나 이마에 표를 받게 하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:17, Page:1, Kor:"누구든지 이 표를 가진 사람, 곧 그 짐승의 이름이나, 그 이름을 나타내는 숫자로 표가 찍힌 사람이 아니면, 아무도 팔거나 사거나 할 수 없게 하였습니다.", Chn:"", Eng:"", Ind:""},
-  {Bible:"Revelation", Chapter:13, Verse:18, Page:1, Kor:"여기에 지혜가 필요합니다. 지각이 있는 사람은 그 짐승을 상징하는 숫자를 세어 보십시오. 그 수는 어떤 사람을 가리키는데, 그 수는 h육백육십육입니다.(h 다른 고대 사본들에는 '육백십육')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"And the dragon stood on the shore of the sea. And I saw a beast coming out of the sea. He had ten horns and seven heads, with ten crowns on his horns, and on each head a blasphemous name.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The beast I saw resembled a leopard, but had feet like those of a bear and a mouth like that of a lion. The dragon gave the beast his power and his throne and great authority.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"One of the heads of the beast seemed to have had a fatal wound, but the fatal wound had been healed. The whole world was astonished and followed the beast.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Men worshiped the dragon because he had given authority to the beast, and they also worshiped the beast and asked, \"Who is like the beast? Who can make war against him?\"", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The beast was given a mouth to utter proud words and blasphemies and to exercise his authority for forty-two months.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He opened his mouth to blaspheme God, and to slander his name and his dwelling place and those who live in heaven.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He was given power to make war against the saints and to conquer them. And he was given authority over every tribe, people, language and nation.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All inhabitants of the earth will worship the beast--all whose names have not been written in the book of life belonging to the Lamb that was slain from the creation of the world.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He who has an ear, let him hear.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"If anyone is to go into captivity, into captivity he will go. If anyone is to be killed with the sword, with the sword he will be killed. This calls for patient endurance and faithfulness on the part of the saints.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then I saw another beast, coming out of the earth. He had two horns like a lamb, but he spoke like a dragon.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He exercised all the authority of the first beast on his behalf, and made the earth and its inhabitants worship the first beast, whose fatal wound had been healed.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And he performed great and miraculous signs, even causing fire to come down from heaven to earth in full view of men.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Because of the signs he was given power to do on behalf of the first beast, he deceived the inhabitants of the earth. He ordered them to set up an image in honor of the beast who was wounded by the sword and yet lived.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He was given power to give breath to the image of the first beast, so that it could speak and cause all who refused to worship the image to be killed.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He also forced everyone, small and great, rich and poor, free and slave, to receive a mark on his right hand or on his forehead,", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"so that no one could buy or sell unless he had the mark, which is the name of the beast or the number of his name.", Ind:""},
+  {Bible:"Revelation", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This calls for wisdom. If anyone has insight, let him calculate the number of the beast, for it is man's number. His number is 666.", Ind:""},
 ]);

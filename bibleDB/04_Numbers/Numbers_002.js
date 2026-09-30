@@ -1,9 +1,9 @@
 // 민수기 2장 · Numbers 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",2,34);
 BibleDB.add([
   {Bible:"Numbers", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses and Aaron:", Ind:""},
-  {Bible:"Numbers", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:""The Israelites are to camp around the Tent of Meeting some distance from it, each man under his standard with the banners of his family."", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"The Israelites are to camp around the Tent of Meeting some distance from it, each man under his standard with the banners of his family.\"", Ind:""},
   {Bible:"Numbers", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"On the east, toward the sunrise, the divisions of the camp of Judah are to encamp under their standard. The leader of the people of Judah is Nahshon son of Amminadab.", Ind:""},
   {Bible:"Numbers", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His division numbers 74,600.", Ind:""},
   {Bible:"Numbers", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar.", Ind:""},

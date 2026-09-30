@@ -1,5 +1,5 @@
 // 신명기 7장 · Deuteronomy 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",7,26);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God brings you into the land you are entering to possess and drives out before you many nations--the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites and Jebusites, seven nations larger and stronger than you--", Ind:""},
@@ -18,7 +18,7 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You will be blessed more than any other people; none of your men or women will be childless, nor any of your livestock without young.", Ind:""},
   {Bible:"Deuteronomy", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The LORD will keep you free from every disease. He will not inflict on you the horrible diseases you knew in Egypt, but he will inflict them on all who hate you.", Ind:""},
   {Bible:"Deuteronomy", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"You must destroy all the peoples the LORD your God gives over to you. Do not look on them with pity and do not serve their gods, for that will be a snare to you.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may say to yourselves, "These nations are stronger than we are. How can we drive them out?"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may say to yourselves, \"These nations are stronger than we are. How can we drive them out?\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But do not be afraid of them; remember well what the LORD your God did to Pharaoh and to all Egypt.", Ind:""},
   {Bible:"Deuteronomy", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You saw with your own eyes the great trials, the miraculous signs and wonders, the mighty hand and outstretched arm, with which the LORD your God brought you out. The LORD your God will do the same to all the peoples you now fear.", Ind:""},
   {Bible:"Deuteronomy", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Moreover, the LORD your God will send the hornet among them until even the survivors who hide from you have perished.", Ind:""},

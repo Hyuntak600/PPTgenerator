@@ -1,6 +1,43 @@
-// 열왕기상 6장 · 1 Kings 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 6장 · 1Kings 6
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",6,38);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the four hundred and eightieth year after the Israelites had come out of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv, the second month, he began to build the temple of the LORD.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The temple that King Solomon built for the LORD was sixty cubits long, twenty wide and thirty high.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The portico at the front of the main hall of the temple extended the width of the temple, that is twenty cubits, and projected ten cubits from the front of the temple.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He made narrow clerestory windows in the temple.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Against the walls of the main hall and inner sanctuary he built a structure around the building, in which there were side rooms.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The lowest floor was five cubits wide, the middle floor six cubits and the third floor seven. He made offset ledges around the outside of the temple so that nothing would be inserted into the temple walls.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In building the temple, only blocks dressed at the quarry were used, and no hammer, chisel or any other iron tool was heard at the temple site while it was being built.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The entrance to the lowest floor was on the south side of the temple; a stairway led up to the middle level and from there to the third.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So he built the temple and completed it, roofing it with beams and cedar planks.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And he built the side rooms all along the temple. The height of each was five cubits, and they were attached to the temple by beams of cedar.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to Solomon:", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"As for this temple you are building, if you follow my decrees, carry out my regulations and keep all my commands and obey them, I will fulfill through you the promise I gave to David your father.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And I will live among the Israelites and will not abandon my people Israel.\"", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So Solomon built the temple and completed it.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He lined its interior walls with cedar boards, paneling them from the floor of the temple to the ceiling, and covered the floor of the temple with planks of pine.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He partitioned off twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The main hall in front of this room was forty cubits long.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The inside of the temple was cedar, carved with gourds and open flowers. Everything was cedar; no stone was to be seen.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The inner sanctuary was twenty cubits long, twenty wide and twenty high. He overlaid the inside with pure gold, and he also overlaid the altar of cedar.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Solomon covered the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So he overlaid the whole interior with gold. He also overlaid with gold the altar that belonged to the inner sanctuary.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In the inner sanctuary he made a pair of cherubim of olive wood, each ten cubits high.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"One wing of the first cherub was five cubits long, and the other wing five cubits--ten cubits from wing tip to wing tip.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The second cherub also measured ten cubits, for the two cherubim were identical in size and shape.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The height of each cherub was ten cubits.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He placed the cherubim inside the innermost room of the temple, with their wings spread out. The wing of one cherub touched one wall, while the wing of the other touched the other wall, and their wings touched each other in the middle of the room.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He overlaid the cherubim with gold.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"On the walls all around the temple, in both the inner and outer rooms, he carved cherubim, palm trees and open flowers.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He also covered the floors of both the inner and outer rooms of the temple with gold.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:31, Page:1, Kor:"", Chn:"", Eng:"For the entrance of the inner sanctuary he made doors of olive wood with five-sided jambs.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And on the two olive wood doors he carved cherubim, palm trees and open flowers, and overlaid the cherubim and palm trees with beaten gold.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:33, Page:1, Kor:"", Chn:"", Eng:"In the same way he made four-sided jambs of olive wood for the entrance to the main hall.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He also made two pine doors, each having two leaves that turned in sockets.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:35, Page:1, Kor:"", Chn:"", Eng:"He carved cherubim, palm trees and open flowers on them and overlaid them with gold hammered evenly over the carvings.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:36, Page:1, Kor:"", Chn:"", Eng:"And he built the inner courtyard of three courses of dressed stone and one course of trimmed cedar beams.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:37, Page:1, Kor:"", Chn:"", Eng:"The foundation of the temple of the LORD was laid in the fourth year, in the month of Ziv.", Ind:""},
+  {Bible:"1Kings", Chapter:6, Verse:38, Page:1, Kor:"", Chn:"", Eng:"In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.", Ind:""},
 ]);

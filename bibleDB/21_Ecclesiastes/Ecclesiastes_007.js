@@ -1,5 +1,5 @@
 // 전도서 7장 · Ecclesiastes 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",7,29);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A good name is better than fine perfume, and the day of death better than the day of birth.", Ind:""},
@@ -11,7 +11,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Extortion turns a wise man into a fool, and a bribe corrupts the heart.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The end of a matter is better than its beginning, and patience is better than pride.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not be quickly provoked in your spirit, for anger resides in the lap of fools.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not say, "Why were the old days better than these?" For it is not wise to ask such questions.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not say, \"Why were the old days better than these?\" For it is not wise to ask such questions.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Wisdom, like an inheritance, is a good thing and benefits those who see the sun.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: that wisdom preserves the life of its possessor.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Consider what God has done: Who can straighten what he has made crooked?", Ind:""},
@@ -24,11 +24,11 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"There is not a righteous man on earth who does what is right and never sins.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not pay attention to every word people say, or you may hear your servant cursing you--", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"for you know in your heart that many times you yourself have cursed others.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"All this I tested by wisdom and I said, "I am determined to be wise"--but this was beyond me.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"All this I tested by wisdom and I said, \"I am determined to be wise\"--but this was beyond me.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Whatever wisdom may be, it is far off and most profound--who can discover it?", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"So I turned my mind to understand, to investigate and to search out wisdom and the scheme of things and to understand the stupidity of wickedness and the madness of folly.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Look," says the Teacher, "this is what I have discovered: "Adding one thing to another to discover the scheme of things--", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:"\"Look,\" says the Teacher, \"this is what I have discovered: \"Adding one thing to another to discover the scheme of things--", Ind:""},
   {Bible:"Ecclesiastes", Chapter:7, Verse:28, Page:1, Kor:"", Chn:"", Eng:"while I was still searching but not finding--I found one upright man among a thousand, but not one upright woman among them all.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:7, Verse:29, Page:1, Kor:"", Chn:"", Eng:"This only have I found: God made mankind upright, but men have gone in search of many schemes."", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:7, Verse:29, Page:1, Kor:"", Chn:"", Eng:"This only have I found: God made mankind upright, but men have gone in search of many schemes.\"", Ind:""},
 ]);

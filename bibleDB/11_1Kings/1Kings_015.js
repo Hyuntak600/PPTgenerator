@@ -1,6 +1,39 @@
-// 열왕기상 15장 · 1 Kings 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 15장 · 1Kings 15
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",15,34);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the eighteenth year of the reign of Jeroboam son of Nebat, Abijah became king of Judah,", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and he reigned in Jerusalem three years. His mother's name was Maacah daughter of Abishalom.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He committed all the sins his father had done before him; his heart was not fully devoted to the LORD his God, as the heart of David his forefather had been.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Nevertheless, for David's sake the LORD his God gave him a lamp in Jerusalem by raising up a son to succeed him and by making Jerusalem strong.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For David had done what was right in the eyes of the LORD and had not failed to keep any of the LORD'S commands all the days of his life--except in the case of Uriah the Hittite.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"There was war between Rehoboam and Jeroboam throughout Abijah's lifetime.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"As for the other events of Abijah's reign, and all he did, are they not written in the book of the annals of the kings of Judah? There was war between Abijah and Jeroboam.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And Abijah rested with his fathers and was buried in the City of David. And Asa his son succeeded him as king.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"In the twentieth year of Jeroboam king of Israel, Asa became king of Judah,", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and he reigned in Jerusalem forty-one years. His grandmother's name was Maacah daughter of Abishalom.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Asa did what was right in the eyes of the LORD, as his father David had done.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He expelled the male shrine prostitutes from the land and got rid of all the idols his fathers had made.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He even deposed his grandmother Maacah from her position as queen mother, because she had made a repulsive Asherah pole. Asa cut the pole down and burned it in the Kidron Valley.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Although he did not remove the high places, Asa's heart was fully committed to the LORD all his life.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He brought into the temple of the LORD the silver and gold and the articles that he and his father had dedicated.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"There was war between Asa and Baasha king of Israel throughout their reigns.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Asa then took all the silver and gold that was left in the treasuries of the LORD'S temple and of his own palace. He entrusted it to his officials and sent them to Ben-Hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"\"Let there be a treaty between me and you,\" he said, \"as there was between my father and your father. See, I am sending you a gift of silver and gold. Now break your treaty with Baasha king of Israel so he will withdraw from me.\"", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Ben-Hadad agreed with King Asa and sent the commanders of his forces against the towns of Israel. He conquered Ijon, Dan, Abel Beth Maacah and all Kinnereth in addition to Naphtali.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When Baasha heard this, he stopped building Ramah and withdrew to Tirzah.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then King Asa issued an order to all Judah--no one was exempt--and they carried away from Ramah the stones and timber Baasha had been using there. With them King Asa built up Geba in Benjamin, and also Mizpah.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"As for all the other events of Asa's reign, all his achievements, all he did and the cities he built, are they not written in the book of the annals of the kings of Judah? In his old age, however, his feet became diseased.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Asa rested with his fathers and was buried with them in the city of his father David. And Jehoshaphat his son succeeded him as king.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Nadab son of Jeroboam became king of Israel in the second year of Asa king of Judah, and he reigned over Israel two years.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He did evil in the eyes of the LORD, walking in the ways of his father and in his sin, which he had caused Israel to commit.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Baasha son of Ahijah of the house of Issachar plotted against him, and he struck him down at Gibbethon, a Philistine town, while Nadab and all Israel were besieging it.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Baasha killed Nadab in the third year of Asa king of Judah and succeeded him as king.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"As soon as he began to reign, he killed Jeroboam's whole family. He did not leave Jeroboam anyone that breathed, but destroyed them all, according to the word of the LORD given through his servant Ahijah the Shilonite--", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"because of the sins Jeroboam had committed and had caused Israel to commit, and because he provoked the LORD, the God of Israel, to anger.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:"As for the other events of Nadab's reign, and all he did, are they not written in the book of the annals of the kings of Israel?", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"There was war between Asa and Baasha king of Israel throughout their reigns.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"In the third year of Asa king of Judah, Baasha son of Ahijah became king of all Israel in Tirzah, and he reigned twenty-four years.", Ind:""},
+  {Bible:"1Kings", Chapter:15, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He did evil in the eyes of the LORD, walking in the ways of Jeroboam and in his sin, which he had caused Israel to commit.", Ind:""},
 ]);

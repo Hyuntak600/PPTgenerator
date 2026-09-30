@@ -1,5 +1,5 @@
 // 요엘 1장 · Joel 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joel",1,20);
 BibleDB.add([
   {Bible:"Joel", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD that came to Joel son of Pethuel.", Ind:""},

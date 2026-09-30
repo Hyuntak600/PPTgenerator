@@ -1,5 +1,5 @@
 // 느헤미야 3장 · Nehemiah 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Nehemiah",3,32);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Eliashib the high priest and his fellow priests went to work and rebuilt the Sheep Gate. They dedicated it and set its doors in place, building as far as the Tower of the Hundred, which they dedicated, and as far as the Tower of Hananel.", Ind:""},

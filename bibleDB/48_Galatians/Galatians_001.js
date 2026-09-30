@@ -1,5 +1,5 @@
 // 갈라디아서 1장 · Galatians 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Galatians",1,24);
 BibleDB.add([
   {Bible:"Galatians", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, an apostle--sent not from men nor by man, but by Jesus Christ and God the Father, who raised him from the dead--", Ind:""},
@@ -24,6 +24,6 @@ BibleDB.add([
   {Bible:"Galatians", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I assure you before God that what I am writing you is no lie.", Ind:""},
   {Bible:"Galatians", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Later I went to Syria and Cilicia.", Ind:""},
   {Bible:"Galatians", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I was personally unknown to the churches of Judea that are in Christ.", Ind:""},
-  {Bible:"Galatians", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They only heard the report: "The man who formerly persecuted us is now preaching the faith he once tried to destroy."", Ind:""},
+  {Bible:"Galatians", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They only heard the report: \"The man who formerly persecuted us is now preaching the faith he once tried to destroy.\"", Ind:""},
   {Bible:"Galatians", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And they praised God because of me.", Ind:""},
 ]);

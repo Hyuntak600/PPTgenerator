@@ -1,5 +1,5 @@
 // 이사야 13장 · Isaiah 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",13,22);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"An oracle concerning Babylon that Isaiah son of Amoz saw:", Ind:""},

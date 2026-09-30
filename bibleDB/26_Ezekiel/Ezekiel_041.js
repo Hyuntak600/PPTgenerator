@@ -1,11 +1,11 @@
 // 에스겔 41장 · Ezekiel 41
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezekiel",41,26);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:41, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the man brought me to the outer sanctuary and measured the jambs; the width of the jambs was six cubits on each side.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The entrance was ten cubits wide, and the projecting walls on each side of it were five cubits wide. He also measured the outer sanctuary; it was forty cubits long and twenty cubits wide.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then he went into the inner sanctuary and measured the jambs of the entrance; each was two cubits wide. The entrance was six cubits wide, and the projecting walls on each side of it were seven cubits wide.", Ind:""},
-  {Bible:"Ezekiel", Chapter:41, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And he measured the length of the inner sanctuary; it was twenty cubits, and its width was twenty cubits across the end of the outer sanctuary. He said to me, "This is the Most Holy Place."", Ind:""},
+  {Bible:"Ezekiel", Chapter:41, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And he measured the length of the inner sanctuary; it was twenty cubits, and its width was twenty cubits across the end of the outer sanctuary. He said to me, \"This is the Most Holy Place.\"", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then he measured the wall of the temple; it was six cubits thick, and each side room around the temple was four cubits wide.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The side rooms were on three levels, one above another, thirty on each level. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports were not inserted into the wall of the temple.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The side rooms all around the temple were wider at each successive level. The structure surrounding the temple was built in ascending stages, so that the rooms widened as one went upward. A stairway went up from the lowest floor to the top floor through the middle floor.", Ind:""},
@@ -23,7 +23,7 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:41, Verse:19, Page:1, Kor:"", Chn:"", Eng:"the face of a man toward the palm tree on one side and the face of a lion toward the palm tree on the other. They were carved all around the whole temple.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:20, Page:1, Kor:"", Chn:"", Eng:"From the floor to the area above the entrance, cherubim and palm trees were carved on the wall of the outer sanctuary.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The outer sanctuary had a rectangular doorframe, and the one at the front of the Most Holy Place was similar.", Ind:""},
-  {Bible:"Ezekiel", Chapter:41, Verse:22, Page:1, Kor:"", Chn:"", Eng:"There was a wooden altar three cubits high and two cubits square; its corners, its base and its sides were of wood. The man said to me, "This is the table that is before the LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:41, Verse:22, Page:1, Kor:"", Chn:"", Eng:"There was a wooden altar three cubits high and two cubits square; its corners, its base and its sides were of wood. The man said to me, \"This is the table that is before the LORD.\"", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Both the outer sanctuary and the Most Holy Place had double doors.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Each door had two leaves--two hinged leaves for each door.", Ind:""},
   {Bible:"Ezekiel", Chapter:41, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And on the doors of the outer sanctuary were carved cherubim and palm trees like those carved on the walls, and there was a wooden overhang on the front of the portico.", Ind:""},

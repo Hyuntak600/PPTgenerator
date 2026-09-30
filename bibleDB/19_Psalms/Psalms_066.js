@@ -1,11 +1,11 @@
 // 시편 66장 · Psalms 66
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",66,20);
 BibleDB.add([
   {Bible:"Psalms", Chapter:66, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Shout with joy to God, all the earth!", Ind:""},
   {Bible:"Psalms", Chapter:66, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Sing the glory of his name; make his praise glorious!", Ind:""},
-  {Bible:"Psalms", Chapter:66, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Say to God, "How awesome are your deeds! So great is your power that your enemies cringe before you.", Ind:""},
-  {Bible:"Psalms", Chapter:66, Verse:4, Page:1, Kor:"", Chn:"", Eng:"All the earth bows down to you; they sing praise to you, they sing praise to your name." Selah", Ind:""},
+  {Bible:"Psalms", Chapter:66, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Say to God, \"How awesome are your deeds! So great is your power that your enemies cringe before you.", Ind:""},
+  {Bible:"Psalms", Chapter:66, Verse:4, Page:1, Kor:"", Chn:"", Eng:"All the earth bows down to you; they sing praise to you, they sing praise to your name.\" Selah", Ind:""},
   {Bible:"Psalms", Chapter:66, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Come and see what God has done, how awesome his works in man's behalf!", Ind:""},
   {Bible:"Psalms", Chapter:66, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He turned the sea into dry land, they passed through the waters on foot--come, let us rejoice in him.", Ind:""},
   {Bible:"Psalms", Chapter:66, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He rules forever by his power, his eyes watch the nations--let not the rebellious rise up against him. Selah", Ind:""},

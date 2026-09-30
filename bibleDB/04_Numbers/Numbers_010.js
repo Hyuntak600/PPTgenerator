@@ -1,17 +1,17 @@
 // 민수기 10장 · Numbers 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",10,36);
 BibleDB.add([
   {Bible:"Numbers", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses:", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out.", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When both are sounded, the whole community is to assemble before you at the entrance to the Tent of Meeting.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"If only one is sounded, the leaders--the heads of the clans of Israel--are to assemble before you.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When a trumpet blast is sounded, the tribes camping on the east are to set out.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"At the sounding of a second blast, the camps on the south are to set out. The blast will be the signal for setting out.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"To gather the assembly, blow the trumpets, but not with the same signal.", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:""The sons of Aaron, the priests, are to blow the trumpets. This is to be a lasting ordinance for you and the generations to come.", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"The sons of Aaron, the priests, are to blow the trumpets. This is to be a lasting ordinance for you and the generations to come.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the LORD your God and rescued from your enemies.", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Also at your times of rejoicing--your appointed feasts and New Moon festivals--you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the LORD your God."", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Also at your times of rejoicing--your appointed feasts and New Moon festivals--you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the LORD your God.\"", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"On the twentieth day of the second month of the second year, the cloud lifted from above the tabernacle of the Testimony.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the Israelites set out from the Desert of Sinai and traveled from place to place until the cloud came to rest in the Desert of Paran.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"They set out, this first time, at the LORD'S command through Moses.", Ind:""},
@@ -30,12 +30,12 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Pagiel son of Ocran was over the division of the tribe of Asher,", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and Ahira son of Enan was over the division of the tribe of Naphtali.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:28, Page:1, Kor:"", Chn:"", Eng:"This was the order of march for the Israelite divisions as they set out.", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Now Moses said to Hobab son of Reuel the Midianite, Moses' father-in-law, "We are setting out for the place about which the LORD said, 'I will give it to you.' Come with us and we will treat you well, for the LORD has promised good things to Israel."", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He answered, "No, I will not go; I am going back to my own land and my own people."", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But Moses said, "Please do not leave us. You know where we should camp in the desert, and you can be our eyes.", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:32, Page:1, Kor:"", Chn:"", Eng:"If you come with us, we will share with you whatever good things the LORD gives us."", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Now Moses said to Hobab son of Reuel the Midianite, Moses' father-in-law, \"We are setting out for the place about which the LORD said, 'I will give it to you.' Come with us and we will treat you well, for the LORD has promised good things to Israel.\"", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He answered, \"No, I will not go; I am going back to my own land and my own people.\"", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But Moses said, \"Please do not leave us. You know where we should camp in the desert, and you can be our eyes.", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:32, Page:1, Kor:"", Chn:"", Eng:"If you come with us, we will share with you whatever good things the LORD gives us.\"", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:33, Page:1, Kor:"", Chn:"", Eng:"So they set out from the mountain of the LORD and traveled for three days. The ark of the covenant of the LORD went before them during those three days to find them a place to rest.", Ind:""},
   {Bible:"Numbers", Chapter:10, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The cloud of the LORD was over them by day when they set out from the camp.", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Whenever the ark set out, Moses said, "Rise up, O LORD! May your enemies be scattered; may your foes flee before you."", Ind:""},
-  {Bible:"Numbers", Chapter:10, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Whenever it came to rest, he said, "Return, O LORD, to the countless thousands of Israel."", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Whenever the ark set out, Moses said, \"Rise up, O LORD! May your enemies be scattered; may your foes flee before you.\"", Ind:""},
+  {Bible:"Numbers", Chapter:10, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Whenever it came to rest, he said, \"Return, O LORD, to the countless thousands of Israel.\"", Ind:""},
 ]);

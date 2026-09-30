@@ -1,5 +1,5 @@
 // 빌레몬서 1장 · Philemon 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Philemon",1,24);
 BibleDB.add([
   {Bible:"Philemon", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our dear friend and fellow worker,", Ind:""},

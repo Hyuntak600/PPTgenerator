@@ -1,5 +1,5 @@
 // 시편 133장 · Psalms 133
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",133,3);
 BibleDB.add([
   {Bible:"Psalms", Chapter:133, Verse:1, Page:1, Kor:"", Chn:"", Eng:"How good and pleasant it is when brothers live together in unity!", Ind:""},

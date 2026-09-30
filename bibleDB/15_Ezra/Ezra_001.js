@@ -1,11 +1,11 @@
 // 에스라 1장 · Ezra 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezra",1,11);
 BibleDB.add([
   {Bible:"Ezra", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:", Ind:""},
-  {Bible:"Ezra", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:""This is what Cyrus king of Persia says: "'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.", Ind:""},
+  {Bible:"Ezra", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"This is what Cyrus king of Persia says: \"'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.", Ind:""},
   {Bible:"Ezra", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Anyone of his people among you--may his God be with him, and let him go up to Jerusalem in Judah and build the temple of the LORD, the God of Israel, the God who is in Jerusalem.", Ind:""},
-  {Bible:"Ezra", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And the people of any place where survivors may now be living are to provide him with silver and gold, with goods and livestock, and with freewill offerings for the temple of God in Jerusalem.'"", Ind:""},
+  {Bible:"Ezra", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And the people of any place where survivors may now be living are to provide him with silver and gold, with goods and livestock, and with freewill offerings for the temple of God in Jerusalem.'\"", Ind:""},
   {Bible:"Ezra", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then the family heads of Judah and Benjamin, and the priests and Levites--everyone whose heart God had moved--prepared to go up and build the house of the LORD in Jerusalem.", Ind:""},
   {Bible:"Ezra", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"All their neighbors assisted them with articles of silver and gold, with goods and livestock, and with valuable gifts, in addition to all the freewill offerings.", Ind:""},
   {Bible:"Ezra", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Moreover, King Cyrus brought out the articles belonging to the temple of the LORD, which Nebuchadnezzar had carried away from Jerusalem and had placed in the temple of his god.", Ind:""},

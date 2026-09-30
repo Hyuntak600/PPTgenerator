@@ -1,5 +1,5 @@
 // 에스더 9장 · Esther 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Esther",9,32);
 BibleDB.add([
   {Bible:"Esther", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.", Ind:""},
@@ -13,8 +13,8 @@ BibleDB.add([
   {Bible:"Esther", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Parmashta, Arisai, Aridai and Vaizatha,", Ind:""},
   {Bible:"Esther", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"the ten sons of Haman son of Hammedatha, the enemy of the Jews. But they did not lay their hands on the plunder.", Ind:""},
   {Bible:"Esther", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The number of those slain in the citadel of Susa was reported to the king that same day.", Ind:""},
-  {Bible:"Esther", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The king said to Queen Esther, "The Jews have killed and destroyed five hundred men and the ten sons of Haman in the citadel of Susa. What have they done in the rest of the king's provinces? Now what is your petition? It will be given you. What is your request? It will also be granted."", Ind:""},
-  {Bible:"Esther", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:""If it pleases the king," Esther answered, "give the Jews in Susa permission to carry out this day's edict tomorrow also, and let Haman's ten sons be hanged on gallows."", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The king said to Queen Esther, \"The Jews have killed and destroyed five hundred men and the ten sons of Haman in the citadel of Susa. What have they done in the rest of the king's provinces? Now what is your petition? It will be given you. What is your request? It will also be granted.\"", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"If it pleases the king,\" Esther answered, \"give the Jews in Susa permission to carry out this day's edict tomorrow also, and let Haman's ten sons be hanged on gallows.\"", Ind:""},
   {Bible:"Esther", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So the king commanded that this be done. An edict was issued in Susa, and they hanged the ten sons of Haman.", Ind:""},
   {Bible:"Esther", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The Jews in Susa came together on the fourteenth day of the month of Adar, and they put to death in Susa three hundred men, but they did not lay their hands on the plunder.", Ind:""},
   {Bible:"Esther", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Meanwhile, the remainder of the Jews who were in the king's provinces also assembled to protect themselves and get relief from their enemies. They killed seventy-five thousand of them but did not lay their hands on the plunder.", Ind:""},

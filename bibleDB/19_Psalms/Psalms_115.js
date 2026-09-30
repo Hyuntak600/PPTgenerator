@@ -1,9 +1,9 @@
 // 시편 115장 · Psalms 115
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",115,18);
 BibleDB.add([
   {Bible:"Psalms", Chapter:115, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Not to us, O LORD, not to us but to your name be the glory, because of your love and faithfulness.", Ind:""},
-  {Bible:"Psalms", Chapter:115, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Why do the nations say, "Where is their God?"", Ind:""},
+  {Bible:"Psalms", Chapter:115, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Why do the nations say, \"Where is their God?\"", Ind:""},
   {Bible:"Psalms", Chapter:115, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Our God is in heaven; he does whatever pleases him.", Ind:""},
   {Bible:"Psalms", Chapter:115, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But their idols are silver and gold, made by the hands of men.", Ind:""},
   {Bible:"Psalms", Chapter:115, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They have mouths, but cannot speak, eyes, but they cannot see;", Ind:""},

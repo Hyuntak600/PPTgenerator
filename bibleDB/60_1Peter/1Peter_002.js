@@ -1,6 +1,30 @@
-// 베드로전서 2장 · 1 Peter 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Peter",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 베드로전서 2장 · 1Peter 2
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Peter",2,25);
 BibleDB.add([
+  {Bible:"1Peter", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore, rid yourselves of all malice and all deceit, hypocrisy, envy, and slander of every kind.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"now that you have tasted that the Lord is good.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"As you come to him, the living Stone--rejected by men but chosen by God and precious to him--", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For in Scripture it says: \"See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame.\"", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Now to you who believe, this stone is precious. But to those who do not believe, \"The stone the builders rejected has become the capstone,\"", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and, \"A stone that causes men to stumble and a rock that makes them fall.\" They stumble because they disobey the message--which is also what they were destined for.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But you are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of him who called you out of darkness into his wonderful light.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Dear friends, I urge you, as aliens and strangers in the world, to abstain from sinful desires, which war against your soul.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Live such good lives among the pagans that, though they accuse you of doing wrong, they may see your good deeds and glorify God on the day he visits us.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"or to governors, who are sent by him to punish those who do wrong and to commend those who do right.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For it is God's will that by doing good you should silence the ignorant talk of foolish men.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Live as free men, but do not use your freedom as a cover-up for evil; live as servants of God.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Show proper respect to everyone: Love the brotherhood of believers, fear God, honor the king.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Slaves, submit yourselves to your masters with all respect, not only to those who are good and considerate, but also to those who are harsh.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For it is commendable if a man bears up under the pain of unjust suffering because he is conscious of God.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But how is it to your credit if you receive a beating for doing wrong and endure it? But if you suffer for doing good and you endure it, this is commendable before God.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"To this you were called, because Christ suffered for you, leaving you an example, that you should follow in his steps.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"\"He committed no sin, and no deceit was found in his mouth.\"", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds you have been healed.", Ind:""},
+  {Bible:"1Peter", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For you were like sheep going astray, but now you have returned to the Shepherd and Overseer of your souls.", Ind:""},
 ]);

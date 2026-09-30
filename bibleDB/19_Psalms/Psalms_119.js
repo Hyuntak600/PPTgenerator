@@ -1,5 +1,5 @@
 // 시편 119장 · Psalms 119
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",119,176);
 BibleDB.add([
   {Bible:"Psalms", Chapter:119, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Blessed are they whose ways are blameless, who walk according to the law of the LORD.", Ind:""},
@@ -83,7 +83,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:119, Verse:79, Page:1, Kor:"", Chn:"", Eng:"May those who fear you turn to me, those who understand your statutes.", Ind:""},
   {Bible:"Psalms", Chapter:119, Verse:80, Page:1, Kor:"", Chn:"", Eng:"May my heart be blameless toward your decrees, that I may not be put to shame.", Ind:""},
   {Bible:"Psalms", Chapter:119, Verse:81, Page:1, Kor:"", Chn:"", Eng:"My soul faints with longing for your salvation, but I have put my hope in your word.", Ind:""},
-  {Bible:"Psalms", Chapter:119, Verse:82, Page:1, Kor:"", Chn:"", Eng:"My eyes fail, looking for your promise; I say, "When will you comfort me?"", Ind:""},
+  {Bible:"Psalms", Chapter:119, Verse:82, Page:1, Kor:"", Chn:"", Eng:"My eyes fail, looking for your promise; I say, \"When will you comfort me?\"", Ind:""},
   {Bible:"Psalms", Chapter:119, Verse:83, Page:1, Kor:"", Chn:"", Eng:"Though I am like a wineskin in the smoke, I do not forget your decrees.", Ind:""},
   {Bible:"Psalms", Chapter:119, Verse:84, Page:1, Kor:"", Chn:"", Eng:"How long must your servant wait? When will you punish my persecutors?", Ind:""},
   {Bible:"Psalms", Chapter:119, Verse:85, Page:1, Kor:"", Chn:"", Eng:"The arrogant dig pitfalls for me, contrary to your law.", Ind:""},

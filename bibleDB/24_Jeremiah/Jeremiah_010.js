@@ -1,26 +1,26 @@
 // 예레미야 10장 · Jeremiah 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Jeremiah",10,25);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear what the LORD says to you, O house of Israel.", Ind:""},
-  {Bible:"Jeremiah", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "Do not learn the ways of the nations or be terrified by signs in the sky, though the nations are terrified by them.", Ind:""},
+  {Bible:"Jeremiah", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: \"Do not learn the ways of the nations or be terrified by signs in the sky, though the nations are terrified by them.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For the customs of the peoples are worthless; they cut a tree out of the forest, and a craftsman shapes it with his chisel.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They adorn it with silver and gold; they fasten it with hammer and nails so it will not totter.", Ind:""},
-  {Bible:"Jeremiah", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Like a scarecrow in a melon patch, their idols cannot speak; they must be carried because they cannot walk. Do not fear them; they can do no harm nor can they do any good."", Ind:""},
+  {Bible:"Jeremiah", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Like a scarecrow in a melon patch, their idols cannot speak; they must be carried because they cannot walk. Do not fear them; they can do no harm nor can they do any good.\"", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"No one is like you, O LORD; you are great, and your name is mighty in power.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Who should not revere you, O King of the nations? This is your due. Among all the wise men of the nations and in all their kingdoms, there is no one like you.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They are all senseless and foolish; they are taught by worthless wooden idols.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Hammered silver is brought from Tarshish and gold from Uphaz. What the craftsman and goldsmith have made is then dressed in blue and purple--all made by skilled workers.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But the LORD is the true God; he is the living God, the eternal King. When he is angry, the earth trembles; the nations cannot endure his wrath.", Ind:""},
-  {Bible:"Jeremiah", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Tell them this: 'These gods, who did not make the heavens and the earth, will perish from the earth and from under the heavens.'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"\"Tell them this: 'These gods, who did not make the heavens and the earth, will perish from the earth and from under the heavens.'\"", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But God made the earth by his power; he founded the world by his wisdom and stretched out the heavens by his understanding.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When he thunders, the waters in the heavens roar; he makes clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from his storehouses.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Everyone is senseless and without knowledge; every goldsmith is shamed by his idols. His images are a fraud; they have no breath in them.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"They are worthless, the objects of mockery; when their judgment comes, they will perish.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He who is the Portion of Jacob is not like these, for he is the Maker of all things, including Israel, the tribe of his inheritance--the LORD Almighty is his name.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Gather up your belongings to leave the land, you who live under siege.", Ind:""},
-  {Bible:"Jeremiah", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For this is what the LORD says: "At this time I will hurl out those who live in this land; I will bring distress on them so that they may be captured."", Ind:""},
-  {Bible:"Jeremiah", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Woe to me because of my injury! My wound is incurable! Yet I said to myself, "This is my sickness, and I must endure it."", Ind:""},
+  {Bible:"Jeremiah", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For this is what the LORD says: \"At this time I will hurl out those who live in this land; I will bring distress on them so that they may be captured.\"", Ind:""},
+  {Bible:"Jeremiah", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Woe to me because of my injury! My wound is incurable! Yet I said to myself, \"This is my sickness, and I must endure it.\"", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"My tent is destroyed; all its ropes are snapped. My sons are gone from me and are no more; no one is left now to pitch my tent or to set up my shelter.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The shepherds are senseless and do not inquire of the LORD; so they do not prosper and all their flock is scattered.", Ind:""},
   {Bible:"Jeremiah", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Listen! The report is coming--a great commotion from the land of the north! It will make the towns of Judah desolate, a haunt of jackals.", Ind:""},

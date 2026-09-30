@@ -1,20 +1,20 @@
 // 욥기 19장 · Job 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",19,29);
 BibleDB.add([
   {Bible:"Job", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied:", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:""How long will you torment me and crush me with words?", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"How long will you torment me and crush me with words?", Ind:""},
   {Bible:"Job", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Ten times now you have reproached me; shamelessly you attack me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"If it is true that I have gone astray, my error remains my concern alone.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"If indeed you would exalt yourselves above me and use my humiliation against me,", Ind:""},
   {Bible:"Job", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"then know that God has wronged me and drawn his net around me.", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Though I cry, 'I've been wronged!' I get no response; though I call for help, there is no justice.", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Though I cry, 'I've been wronged!' I get no response; though I call for help, there is no justice.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He has blocked my way so I cannot pass; he has shrouded my paths in darkness.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He has stripped me of my honor and removed the crown from my head.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He tears me down on every side till I am gone; he uproots my hope like a tree.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"His anger burns against me; he counts me among his enemies.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"His troops advance in force; they build a siege ramp against me and encamp around my tent.", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:""He has alienated my brothers from me; my acquaintances are completely estranged from me.", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"He has alienated my brothers from me; my acquaintances are completely estranged from me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"My kinsmen have gone away; my friends have forgotten me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"My guests and my maidservants count me a stranger; they look upon me as an alien.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I summon my servant, but he does not answer, though I beg him with my own mouth.", Ind:""},
@@ -22,13 +22,13 @@ BibleDB.add([
   {Bible:"Job", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Even the little boys scorn me; when I appear, they ridicule me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"All my intimate friends detest me; those I love have turned against me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I am nothing but skin and bones; I have escaped with only the skin of my teeth.", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Have pity on me, my friends, have pity, for the hand of God has struck me.", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"\"Have pity on me, my friends, have pity, for the hand of God has struck me.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Why do you pursue me as God does? Will you never get enough of my flesh?", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Oh, that my words were recorded, that they were written on a scroll,", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"Oh, that my words were recorded, that they were written on a scroll,", Ind:""},
   {Bible:"Job", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"that they were inscribed with an iron tool on lead, or engraved in rock forever!", Ind:""},
   {Bible:"Job", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I know that my Redeemer lives, and that in the end he will stand upon the earth.", Ind:""},
   {Bible:"Job", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And after my skin has been destroyed, yet in my flesh I will see God;", Ind:""},
   {Bible:"Job", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I myself will see him with my own eyes--I, and not another. How my heart yearns within me!", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:""If you say, 'How we will hound him, since the root of the trouble lies in him,'", Ind:""},
-  {Bible:"Job", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment."", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:"\"If you say, 'How we will hound him, since the root of the trouble lies in him,'", Ind:""},
+  {Bible:"Job", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment.\"", Ind:""},
 ]);

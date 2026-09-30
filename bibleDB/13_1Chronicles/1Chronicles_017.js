@@ -1,6 +1,32 @@
-// 역대상 17장 · 1 Chronicles 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",17,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 17장 · 1Chronicles 17
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",17,27);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After David was settled in his palace, he said to Nathan the prophet, \"Here I am, living in a palace of cedar, while the ark of the covenant of the LORD is under a tent.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Nathan replied to David, \"Whatever you have in mind, do it, for God is with you.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"That night the word of God came to Nathan, saying:", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"Go and tell my servant David, 'This is what the LORD says: You are not the one to build me a house to dwell in.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I have not dwelt in a house from the day I brought Israel up out of Egypt to this day. I have moved from one tent site to another, from one dwelling place to another.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Wherever I have moved with all the Israelites, did I ever say to any of their leaders whom I commanded to shepherd my people, \"Why have you not built me a house of cedar?\"'", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Now then, tell my servant David, 'This is what the LORD Almighty says: I took you from the pasture and from following the flock, to be ruler over my people Israel.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make your name like the names of the greatest men of the earth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And I will provide a place for my people Israel and will plant them so that they can have a home of their own and no longer be disturbed. Wicked people will not oppress them anymore, as they did at the beginning", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and have done ever since the time I appointed leaders over my people Israel. I will also subdue all your enemies. \"'I declare to you that the LORD will build a house for you:", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When your days are over and you go to be with your fathers, I will raise up your offspring to succeed you, one of your own sons, and I will establish his kingdom.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He is the one who will build a house for me, and I will establish his throne forever.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will be his father, and he will be my son. I will never take my love away from him, as I took it away from your predecessor.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I will set him over my house and my kingdom forever; his throne will be established forever.'\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Nathan reported to David all the words of this entire revelation.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then King David went in and sat before the LORD, and he said: \"Who am I, O LORD God, and what is my family, that you have brought me this far?", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And as if this were not enough in your sight, O God, you have spoken about the future of the house of your servant. You have looked on me as though I were the most exalted of men, O LORD God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"\"What more can David say to you for honoring your servant? For you know your servant,", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"O LORD. For the sake of your servant and according to your will, you have done this great thing and made known all these great promises.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:20, Page:1, Kor:"", Chn:"", Eng:"\"There is no one like you, O LORD, and there is no God but you, as we have heard with our own ears.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:21, Page:1, Kor:"", Chn:"", Eng:"And who is like your people Israel--the one nation on earth whose God went out to redeem a people for himself, and to make a name for yourself, and to perform great and awesome wonders by driving out nations from before your people, whom you redeemed from Egypt?", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You made your people Israel your very own forever, and you, O LORD, have become their God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"And now, LORD, let the promise you have made concerning your servant and his house be established forever. Do as you promised,", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:24, Page:1, Kor:"", Chn:"", Eng:"so that it will be established and that your name will be great forever. Then men will say, 'The LORD Almighty, the God over Israel, is Israel's God!' And the house of your servant David will be established before you.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:25, Page:1, Kor:"", Chn:"", Eng:"\"You, my God, have revealed to your servant that you will build a house for him. So your servant has found courage to pray to you.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:26, Page:1, Kor:"", Chn:"", Eng:"O LORD, you are God! You have promised these good things to your servant.", Ind:""},
+  {Bible:"1Chronicles", Chapter:17, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Now you have been pleased to bless the house of your servant, that it may continue forever in your sight; for you, O LORD, have blessed it, and it will be blessed forever.\"", Ind:""},
 ]);

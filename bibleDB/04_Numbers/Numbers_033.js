@@ -1,5 +1,5 @@
 // 민수기 33장 · Numbers 33
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",33,56);
 BibleDB.add([
   {Bible:"Numbers", Chapter:33, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Here are the stages in the journey of the Israelites when they came out of Egypt by divisions under the leadership of Moses and Aaron.", Ind:""},
@@ -52,10 +52,10 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:33, Verse:48, Page:1, Kor:"", Chn:"", Eng:"They left the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho.", Ind:""},
   {Bible:"Numbers", Chapter:33, Verse:49, Page:1, Kor:"", Chn:"", Eng:"There on the plains of Moab they camped along the Jordan from Beth Jeshimoth to Abel Shittim.", Ind:""},
   {Bible:"Numbers", Chapter:33, Verse:50, Page:1, Kor:"", Chn:"", Eng:"On the plains of Moab by the Jordan across from Jericho the LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:33, Verse:51, Page:1, Kor:"", Chn:"", Eng:""Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,", Ind:""},
+  {Bible:"Numbers", Chapter:33, Verse:51, Page:1, Kor:"", Chn:"", Eng:"\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,", Ind:""},
   {Bible:"Numbers", Chapter:33, Verse:52, Page:1, Kor:"", Chn:"", Eng:"drive out all the inhabitants of the land before you. Destroy all their carved images and their cast idols, and demolish all their high places.", Ind:""},
   {Bible:"Numbers", Chapter:33, Verse:53, Page:1, Kor:"", Chn:"", Eng:"Take possession of the land and settle in it, for I have given you the land to possess.", Ind:""},
   {Bible:"Numbers", Chapter:33, Verse:54, Page:1, Kor:"", Chn:"", Eng:"Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes.", Ind:""},
-  {Bible:"Numbers", Chapter:33, Verse:55, Page:1, Kor:"", Chn:"", Eng:""'But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live.", Ind:""},
-  {Bible:"Numbers", Chapter:33, Verse:56, Page:1, Kor:"", Chn:"", Eng:"And then I will do to you what I plan to do to them.'"", Ind:""},
+  {Bible:"Numbers", Chapter:33, Verse:55, Page:1, Kor:"", Chn:"", Eng:"\"'But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live.", Ind:""},
+  {Bible:"Numbers", Chapter:33, Verse:56, Page:1, Kor:"", Chn:"", Eng:"And then I will do to you what I plan to do to them.'\"", Ind:""},
 ]);

@@ -1,5 +1,5 @@
 // 신명기 18장 · Deuteronomy 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",18,22);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The priests, who are Levites--indeed the whole tribe of Levi--are to have no allotment or inheritance with Israel. They shall live on the offerings made to the LORD by fire, for that is their inheritance.", Ind:""},
@@ -17,11 +17,11 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You must be blameless before the LORD your God.", Ind:""},
   {Bible:"Deuteronomy", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The nations you will dispossess listen to those who practice sorcery or divination. But as for you, the LORD your God has not permitted you to do so.", Ind:""},
   {Bible:"Deuteronomy", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The LORD your God will raise up for you a prophet like me from among your own brothers. You must listen to him.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For this is what you asked of the LORD your God at Horeb on the day of the assembly when you said, "Let us not hear the voice of the LORD our God nor see this great fire anymore, or we will die."", Ind:""},
-  {Bible:"Deuteronomy", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me: "What they say is good.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For this is what you asked of the LORD your God at Horeb on the day of the assembly when you said, \"Let us not hear the voice of the LORD our God nor see this great fire anymore, or we will die.\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me: \"What they say is good.", Ind:""},
   {Bible:"Deuteronomy", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will raise up for them a prophet like you from among their brothers; I will put my words in his mouth, and he will tell them everything I command him.", Ind:""},
   {Bible:"Deuteronomy", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"If anyone does not listen to my words that the prophet speaks in my name, I myself will call him to account.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But a prophet who presumes to speak in my name anything I have not commanded him to say, or a prophet who speaks in the name of other gods, must be put to death."", Ind:""},
-  {Bible:"Deuteronomy", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"You may say to yourselves, "How can we know when a message has not been spoken by the LORD?"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But a prophet who presumes to speak in my name anything I have not commanded him to say, or a prophet who speaks in the name of other gods, must be put to death.\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"You may say to yourselves, \"How can we know when a message has not been spoken by the LORD?\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"If what a prophet proclaims in the name of the LORD does not take place or come true, that is a message the LORD has not spoken. That prophet has spoken presumptuously. Do not be afraid of him.", Ind:""},
 ]);

@@ -1,5 +1,5 @@
 // 시편 17장 · Psalms 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",17,15);
 BibleDB.add([
   {Bible:"Psalms", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer--it does not rise from deceitful lips.", Ind:""},

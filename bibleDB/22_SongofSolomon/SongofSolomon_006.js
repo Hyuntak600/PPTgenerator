@@ -1,6 +1,18 @@
-// 아가 6장 · Song of Solomon 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Song of Solomon",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 아가 6장 · SongofSolomon 6
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("SongofSolomon",6,13);
 BibleDB.add([
+  {Bible:"SongofSolomon", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Where has your lover gone, most beautiful of women? Which way did your lover turn, that we may look for him with you?", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"My lover has gone down to his garden, to the beds of spices, to browse in the gardens and to gather lilies.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I am my lover's and my lover is mine; he browses among the lilies.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You are beautiful, my darling, as Tirzah, lovely as Jerusalem, majestic as troops with banners.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Turn your eyes from me; they overwhelm me. Your hair is like a flock of goats descending from Gilead.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Your teeth are like a flock of sheep coming up from the washing. Each has its twin, not one of them is alone.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Your temples behind your veil are like the halves of a pomegranate.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Sixty queens there may be, and eighty concubines, and virgins beyond number;", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"but my dove, my perfect one, is unique, the only daughter of her mother, the favorite of the one who bore her. The maidens saw her and called her blessed; the queens and concubines praised her.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Who is this that appears like the dawn, fair as the moon, bright as the sun, majestic as the stars in procession?", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I went down to the grove of nut trees to look at the new growth in the valley, to see if the vines had budded or the pomegranates were in bloom.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Before I realized it, my desire set me among the royal chariots of my people.", Ind:""},
+  {Bible:"SongofSolomon", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Come back, come back, O Shulammite; come back, come back, that we may gaze on you! Why would you gaze on the Shulammite as on the dance of Mahanaim?", Ind:""},
 ]);

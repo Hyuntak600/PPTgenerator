@@ -1,5 +1,5 @@
 // 사도행전 18장 · Acts 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Acts",18,28);
 BibleDB.add([
   {Bible:"Acts", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After this, Paul left Athens and went to Corinth.", Ind:""},
@@ -7,22 +7,22 @@ BibleDB.add([
   {Bible:"Acts", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and because he was a tentmaker as they were, he stayed and worked with them.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Christ.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when the Jews opposed Paul and became abusive, he shook out his clothes in protest and said to them, "Your blood be on your own heads! I am clear of my responsibility. From now on I will go to the Gentiles."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when the Jews opposed Paul and became abusive, he shook out his clothes in protest and said to them, \"Your blood be on your own heads! I am clear of my responsibility. From now on I will go to the Gentiles.\"", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Crispus, the synagogue ruler, and his entire household believed in the Lord; and many of the Corinthians who heard him believed and were baptized.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"One night the Lord spoke to Paul in a vision: "Do not be afraid; keep on speaking, do not be silent.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For I am with you, and no one is going to attack and harm you, because I have many people in this city."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"One night the Lord spoke to Paul in a vision: \"Do not be afraid; keep on speaking, do not be silent.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For I am with you, and no one is going to attack and harm you, because I have many people in this city.\"", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So Paul stayed for a year and a half, teaching them the word of God.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"While Gallio was proconsul of Achaia, the Jews made a united attack on Paul and brought him into court.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:""This man," they charged, "is persuading the people to worship God in ways contrary to the law."", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Just as Paul was about to speak, Gallio said to the Jews, "If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But since it involves questions about words and names and your own law--settle the matter yourselves. I will not be a judge of such things."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"This man,\" they charged, \"is persuading the people to worship God in ways contrary to the law.\"", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Just as Paul was about to speak, Gallio said to the Jews, \"If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But since it involves questions about words and names and your own law--settle the matter yourselves. I will not be a judge of such things.\"", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So he had them ejected from the court.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then they all turned on Sosthenes the synagogue ruler and beat him in front of the court. But Gallio showed no concern whatever.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Paul stayed on in Corinth for some time. Then he left the brothers and sailed for Syria, accompanied by Priscilla and Aquila. Before he sailed, he had his hair cut off at Cenchrea because of a vow he had taken.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They arrived at Ephesus, where Paul left Priscilla and Aquila. He himself went into the synagogue and reasoned with the Jews.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When they asked him to spend more time with them, he declined.", Ind:""},
-  {Bible:"Acts", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But as he left, he promised, "I will come back if it is God's will." Then he set sail from Ephesus.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But as he left, he promised, \"I will come back if it is God's will.\" Then he set sail from Ephesus.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When he landed at Caesarea, he went up and greeted the church and then went down to Antioch.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"After spending some time in Antioch, Paul set out from there and traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.", Ind:""},
   {Bible:"Acts", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures.", Ind:""},

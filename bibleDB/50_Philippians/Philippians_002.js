@@ -1,5 +1,5 @@
 // 빌립보서 2장 · Philippians 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Philippians",2,30);
 BibleDB.add([
   {Bible:"Philippians", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"If you have any encouragement from being united with Christ, if any comfort from his love, if any fellowship with the Spirit, if any tenderness and compassion,", Ind:""},

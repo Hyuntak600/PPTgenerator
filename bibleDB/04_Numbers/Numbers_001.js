@@ -1,9 +1,9 @@
 // 민수기 1장 · Numbers 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",1,54);
 BibleDB.add([
   {Bible:"Numbers", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:", Ind:""},
-  {Bible:"Numbers", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.", Ind:""},
+  {Bible:"Numbers", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You and Aaron are to number by their divisions all the men in Israel twenty years old or more who are able to serve in the army.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"One man from each tribe, each the head of his family, is to help you.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;", Ind:""},
@@ -16,7 +16,7 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"from Dan, Ahiezer son of Ammishaddai;", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"from Asher, Pagiel son of Ocran;", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"from Gad, Eliasaph son of Deuel;", Ind:""},
-  {Bible:"Numbers", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"from Naphtali, Ahira son of Enan."", Ind:""},
+  {Bible:"Numbers", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"from Naphtali, Ahira son of Enan.\"", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Moses and Aaron took these men whose names had been given,", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"and they called the whole community together on the first day of the second month. The people indicated their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,", Ind:""},
@@ -50,10 +50,10 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:1, Verse:46, Page:1, Kor:"", Chn:"", Eng:"The total number was 603,550.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:47, Page:1, Kor:"", Chn:"", Eng:"The families of the tribe of Levi, however, were not counted along with the others.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:48, Page:1, Kor:"", Chn:"", Eng:"The LORD had said to Moses:", Ind:""},
-  {Bible:"Numbers", Chapter:1, Verse:49, Page:1, Kor:"", Chn:"", Eng:""You must not count the tribe of Levi or include them in the census of the other Israelites.", Ind:""},
+  {Bible:"Numbers", Chapter:1, Verse:49, Page:1, Kor:"", Chn:"", Eng:"\"You must not count the tribe of Levi or include them in the census of the other Israelites.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:50, Page:1, Kor:"", Chn:"", Eng:"Instead, appoint the Levites to be in charge of the tabernacle of the Testimony--over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:51, Page:1, Kor:"", Chn:"", Eng:"Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who goes near it shall be put to death.", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:52, Page:1, Kor:"", Chn:"", Eng:"The Israelites are to set up their tents by divisions, each man in his own camp under his own standard.", Ind:""},
-  {Bible:"Numbers", Chapter:1, Verse:53, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony."", Ind:""},
+  {Bible:"Numbers", Chapter:1, Verse:53, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony.\"", Ind:""},
   {Bible:"Numbers", Chapter:1, Verse:54, Page:1, Kor:"", Chn:"", Eng:"The Israelites did all this just as the LORD commanded Moses.", Ind:""},
 ]);

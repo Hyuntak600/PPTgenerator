@@ -1,5 +1,5 @@
 // 잠언 5장 · Proverbs 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",5,23);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My son, pay attention to my wisdom, listen well to my words of insight,", Ind:""},
@@ -13,9 +13,9 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"lest you give your best strength to others and your years to one who is cruel,", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"lest strangers feast on your wealth and your toil enrich another man's house.", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"At the end of your life you will groan, when your flesh and body are spent.", Ind:""},
-  {Bible:"Proverbs", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You will say, "How I hated discipline! How my heart spurned correction!", Ind:""},
+  {Bible:"Proverbs", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You will say, \"How I hated discipline! How my heart spurned correction!", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I would not obey my teachers or listen to my instructors.", Ind:""},
-  {Bible:"Proverbs", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I have come to the brink of utter ruin in the midst of the whole assembly."", Ind:""},
+  {Bible:"Proverbs", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I have come to the brink of utter ruin in the midst of the whole assembly.\"", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Drink water from your own cistern, running water from your own well.", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Should your springs overflow in the streets, your streams of water in the public squares?", Ind:""},
   {Bible:"Proverbs", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Let them be yours alone, never to be shared with strangers.", Ind:""},

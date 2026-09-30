@@ -1,15 +1,15 @@
 // 욥기 42장 · Job 42
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",42,16);
 BibleDB.add([
   {Bible:"Job", Chapter:42, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied to the LORD:", Ind:""},
-  {Bible:"Job", Chapter:42, Verse:2, Page:1, Kor:"", Chn:"", Eng:""I know that you can do all things; no plan of yours can be thwarted.", Ind:""},
+  {Bible:"Job", Chapter:42, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"I know that you can do all things; no plan of yours can be thwarted.", Ind:""},
   {Bible:"Job", Chapter:42, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You asked, 'Who is this that obscures my counsel without knowledge?' Surely I spoke of things I did not understand, things too wonderful for me to know.", Ind:""},
-  {Bible:"Job", Chapter:42, Verse:4, Page:1, Kor:"", Chn:"", Eng:""You said, 'Listen now, and I will speak; I will question you, and you shall answer me.'", Ind:""},
+  {Bible:"Job", Chapter:42, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"You said, 'Listen now, and I will speak; I will question you, and you shall answer me.'", Ind:""},
   {Bible:"Job", Chapter:42, Verse:5, Page:1, Kor:"", Chn:"", Eng:"My ears had heard of you but now my eyes have seen you.", Ind:""},
-  {Bible:"Job", Chapter:42, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Therefore I despise myself and repent in dust and ashes."", Ind:""},
-  {Bible:"Job", Chapter:42, Verse:7, Page:1, Kor:"", Chn:"", Eng:"After the LORD had said these things to Job, he said to Eliphaz the Temanite, "I am angry with you and your two friends, because you have not spoken of me what is right, as my servant Job has.", Ind:""},
-  {Bible:"Job", Chapter:42, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken of me what is right, as my servant Job has."", Ind:""},
+  {Bible:"Job", Chapter:42, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Therefore I despise myself and repent in dust and ashes.\"", Ind:""},
+  {Bible:"Job", Chapter:42, Verse:7, Page:1, Kor:"", Chn:"", Eng:"After the LORD had said these things to Job, he said to Eliphaz the Temanite, \"I am angry with you and your two friends, because you have not spoken of me what is right, as my servant Job has.", Ind:""},
+  {Bible:"Job", Chapter:42, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken of me what is right, as my servant Job has.\"", Ind:""},
   {Bible:"Job", Chapter:42, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the LORD told them; and the LORD accepted Job's prayer.", Ind:""},
   {Bible:"Job", Chapter:42, Verse:10, Page:1, Kor:"", Chn:"", Eng:"After Job had prayed for his friends, the LORD made him prosperous again and gave him twice as much as he had before.", Ind:""},
   {Bible:"Job", Chapter:42, Verse:11, Page:1, Kor:"", Chn:"", Eng:"All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the LORD had brought upon him, and each one gave him a piece of silver and a gold ring.", Ind:""},

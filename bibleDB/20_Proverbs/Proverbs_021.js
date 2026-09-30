@@ -1,5 +1,5 @@
 // 잠언 21장 · Proverbs 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",21,31);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.", Ind:""},
@@ -25,7 +25,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He who pursues righteousness and love finds life, prosperity and honor.", Ind:""},
   {Bible:"Proverbs", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A wise man attacks the city of the mighty and pulls down the stronghold in which they trust.", Ind:""},
   {Bible:"Proverbs", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He who guards his mouth and his tongue keeps himself from calamity.", Ind:""},
-  {Bible:"Proverbs", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The proud and arrogant man--"Mocker" is his name; he behaves with overweening pride.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The proud and arrogant man--\"Mocker\" is his name; he behaves with overweening pride.", Ind:""},
   {Bible:"Proverbs", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The sluggard's craving will be the death of him, because his hands refuse to work.", Ind:""},
   {Bible:"Proverbs", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"All day long he craves for more, but the righteous give without sparing.", Ind:""},
   {Bible:"Proverbs", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The sacrifice of the wicked is detestable--how much more so when brought with evil intent!", Ind:""},

@@ -1,5 +1,5 @@
 // 잠언 10장 · Proverbs 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",10,32);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.", Ind:""},

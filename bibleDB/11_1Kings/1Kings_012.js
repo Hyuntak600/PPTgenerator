@@ -1,6 +1,38 @@
-// 열왕기상 12장 · 1 Kings 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 12장 · 1Kings 12
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",12,33);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Rehoboam went to Shechem, for all the Israelites had gone there to make him king.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When Jeroboam son of Nebat heard this (he was still in Egypt, where he had fled from King Solomon), he returned from Egypt.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Rehoboam answered, \"Go away for three days and then come back to me.\" So the people went away.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then King Rehoboam consulted the elders who had served his father Solomon during his lifetime. \"How would you advise me to answer these people?\" he asked.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They replied, \"If today you will be a servant to these people and serve them and give them a favorable answer, they will always be your servants.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But Rehoboam rejected the advice the elders gave him and consulted the young men who had grown up with him and were serving him.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He asked them, \"What is your advice? How should we answer these people who say to me, 'Lighten the yoke your father put on us'?\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The young men who had grown up with him replied, \"Tell these people who have said to you, 'Your father put a heavy yoke on us, but make our yoke lighter'--tell them, 'My little finger is thicker than my father's waist.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Three days later Jeroboam and all the people returned to Rehoboam, as the king had said, \"Come back to me in three days.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The king answered the people harshly. Rejecting the advice given him by the elders,", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"he followed the advice of the young men and said, \"My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So the king did not listen to the people, for this turn of events was from the LORD, to fulfill the word the LORD had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When all Israel saw that the king refused to listen to them, they answered the king: \"What share do we have in David, what part in Jesse's son? To your tents, O Israel! Look after your own house, O David!\" So the Israelites went home.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"King Rehoboam sent out Adoniram, who was in charge of forced labor, but all Israel stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"So Israel has been in rebellion against the house of David to this day.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When all the Israelites heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. Only the tribe of Judah remained loyal to the house of David.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When Rehoboam arrived in Jerusalem, he mustered the whole house of Judah and the tribe of Benjamin--a hundred and eighty thousand fighting men--to make war against the house of Israel and to regain the kingdom for Rehoboam son of Solomon.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But this word of God came to Shemaiah the man of God:", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"Say to Rehoboam son of Solomon king of Judah, to the whole house of Judah and Benjamin, and to the rest of the people,", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"'This is what the LORD says: Do not go up to fight against your brothers, the Israelites. Go home, every one of you, for this is my doing.'\" So they obeyed the word of the LORD and went home again, as the LORD had ordered.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Jeroboam fortified Shechem in the hill country of Ephraim and lived there. From there he went out and built up Peniel.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Jeroboam thought to himself, \"The kingdom will now likely revert to the house of David.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:27, Page:1, Kor:"", Chn:"", Eng:"If these people go up to offer sacrifices at the temple of the LORD in Jerusalem, they will again give their allegiance to their lord, Rehoboam king of Judah. They will kill me and return to King Rehoboam.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:28, Page:1, Kor:"", Chn:"", Eng:"After seeking advice, the king made two golden calves. He said to the people, \"It is too much for you to go up to Jerusalem. Here are your gods, O Israel, who brought you up out of Egypt.\"", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:29, Page:1, Kor:"", Chn:"", Eng:"One he set up in Bethel, and the other in Dan.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And this thing became a sin; the people went even as far as Dan to worship the one there.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Jeroboam built shrines on high places and appointed priests from all sorts of people, even though they were not Levites.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He instituted a festival on the fifteenth day of the eighth month, like the festival held in Judah, and offered sacrifices on the altar. This he did in Bethel, sacrificing to the calves he had made. And at Bethel he also installed priests at the high places he had made.", Ind:""},
+  {Bible:"1Kings", Chapter:12, Verse:33, Page:1, Kor:"", Chn:"", Eng:"On the fifteenth day of the eighth month, a month of his own choosing, he offered sacrifices on the altar he had built at Bethel. So he instituted the festival for the Israelites and went up to the altar to make offerings.", Ind:""},
 ]);

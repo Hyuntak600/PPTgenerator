@@ -1,5 +1,5 @@
 // 시편 74장 · Psalms 74
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",74,23);
 BibleDB.add([
   {Bible:"Psalms", Chapter:74, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Why have you rejected us forever, O God? Why does your anger smolder against the sheep of your pasture?", Ind:""},
@@ -9,7 +9,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:74, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They behaved like men wielding axes to cut through a thicket of trees.", Ind:""},
   {Bible:"Psalms", Chapter:74, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They smashed all the carved paneling with their axes and hatchets.", Ind:""},
   {Bible:"Psalms", Chapter:74, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They burned your sanctuary to the ground; they defiled the dwelling place of your Name.", Ind:""},
-  {Bible:"Psalms", Chapter:74, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They said in their hearts, "We will crush them completely!" They burned every place where God was worshiped in the land.", Ind:""},
+  {Bible:"Psalms", Chapter:74, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They said in their hearts, \"We will crush them completely!\" They burned every place where God was worshiped in the land.", Ind:""},
   {Bible:"Psalms", Chapter:74, Verse:9, Page:1, Kor:"", Chn:"", Eng:"We are given no miraculous signs; no prophets are left, and none of us knows how long this will be.", Ind:""},
   {Bible:"Psalms", Chapter:74, Verse:10, Page:1, Kor:"", Chn:"", Eng:"How long will the enemy mock you, O God? Will the foe revile your name forever?", Ind:""},
   {Bible:"Psalms", Chapter:74, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Why do you hold back your hand, your right hand? Take it from the folds of your garment and destroy them!", Ind:""},

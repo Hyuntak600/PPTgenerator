@@ -1,5 +1,5 @@
 // 로마서 5장 · Romans 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",5,21);
 BibleDB.add([
   {Bible:"Romans", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,", Ind:""},

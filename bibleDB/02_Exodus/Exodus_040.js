@@ -1,22 +1,22 @@
 // 출애굽기 40장 · Exodus 40
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Exodus",40,37);
 BibleDB.add([
   {Bible:"Exodus", Chapter:40, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses:", Ind:""},
-  {Bible:"Exodus", Chapter:40, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Set up the tabernacle, the Tent of Meeting, on the first day of the first month.", Ind:""},
+  {Bible:"Exodus", Chapter:40, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Set up the tabernacle, the Tent of Meeting, on the first day of the first month.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Place the ark of the Testimony in it and shield the ark with the curtain.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Bring in the table and set out what belongs on it. Then bring in the lampstand and set up its lamps.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Place the gold altar of incense in front of the ark of the Testimony and put the curtain at the entrance to the tabernacle.", Ind:""},
-  {Bible:"Exodus", Chapter:40, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Place the altar of burnt offering in front of the entrance to the tabernacle, the Tent of Meeting;", Ind:""},
+  {Bible:"Exodus", Chapter:40, Verse:6, Page:1, Kor:"", Chn:"", Eng:"\"Place the altar of burnt offering in front of the entrance to the tabernacle, the Tent of Meeting;", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:7, Page:1, Kor:"", Chn:"", Eng:"place the basin between the Tent of Meeting and the altar and put water in it.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Set up the courtyard around it and put the curtain at the entrance to the courtyard.", Ind:""},
-  {Bible:"Exodus", Chapter:40, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Take the anointing oil and anoint the tabernacle and everything in it; consecrate it and all its furnishings, and it will be holy.", Ind:""},
+  {Bible:"Exodus", Chapter:40, Verse:9, Page:1, Kor:"", Chn:"", Eng:"\"Take the anointing oil and anoint the tabernacle and everything in it; consecrate it and all its furnishings, and it will be holy.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then anoint the altar of burnt offering and all its utensils; consecrate the altar, and it will be most holy.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Anoint the basin and its stand and consecrate them.", Ind:""},
-  {Bible:"Exodus", Chapter:40, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water.", Ind:""},
+  {Bible:"Exodus", Chapter:40, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"Bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then dress Aaron in the sacred garments, anoint him and consecrate him so he may serve me as priest.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Bring his sons and dress them in tunics.", Ind:""},
-  {Bible:"Exodus", Chapter:40, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Anoint them just as you anointed their father, so they may serve me as priests. Their anointing will be to a priesthood that will continue for all generations to come."", Ind:""},
+  {Bible:"Exodus", Chapter:40, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Anoint them just as you anointed their father, so they may serve me as priests. Their anointing will be to a priesthood that will continue for all generations to come.\"", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Moses did everything just as the LORD commanded him.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So the tabernacle was set up on the first day of the first month in the second year.", Ind:""},
   {Bible:"Exodus", Chapter:40, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When Moses set up the tabernacle, he put the bases in place, erected the frames, inserted the crossbars and set up the posts.", Ind:""},

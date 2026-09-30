@@ -1,5 +1,5 @@
 // 히브리서 9장 · Hebrews 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Hebrews",9,28);
 BibleDB.add([
   {Bible:"Hebrews", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the first covenant had regulations for worship and also an earthly sanctuary.", Ind:""},
@@ -21,7 +21,7 @@ BibleDB.add([
   {Bible:"Hebrews", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"because a will is in force only when somebody has died; it never takes effect while the one who made it is living.", Ind:""},
   {Bible:"Hebrews", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This is why even the first covenant was not put into effect without blood.", Ind:""},
   {Bible:"Hebrews", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When Moses had proclaimed every commandment of the law to all the people, he took the blood of calves, together with water, scarlet wool and branches of hyssop, and sprinkled the scroll and all the people.", Ind:""},
-  {Bible:"Hebrews", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He said, "This is the blood of the covenant, which God has commanded you to keep."", Ind:""},
+  {Bible:"Hebrews", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He said, \"This is the blood of the covenant, which God has commanded you to keep.\"", Ind:""},
   {Bible:"Hebrews", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"In the same way, he sprinkled with the blood both the tabernacle and everything used in its ceremonies.", Ind:""},
   {Bible:"Hebrews", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"In fact, the law requires that nearly everything be cleansed with blood, and without the shedding of blood there is no forgiveness.", Ind:""},
   {Bible:"Hebrews", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"It was necessary, then, for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves with better sacrifices than these.", Ind:""},

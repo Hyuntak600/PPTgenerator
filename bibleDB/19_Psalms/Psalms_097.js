@@ -1,5 +1,5 @@
 // 시편 97장 · Psalms 97
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",97,12);
 BibleDB.add([
   {Bible:"Psalms", Chapter:97, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD reigns, let the earth be glad; let the distant shores rejoice.", Ind:""},

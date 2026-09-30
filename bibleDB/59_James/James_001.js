@@ -1,5 +1,5 @@
 // 야고보서 1장 · James 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("James",1,27);
 BibleDB.add([
   {Bible:"James", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings.", Ind:""},
@@ -14,7 +14,7 @@ BibleDB.add([
   {Bible:"James", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But the one who is rich should take pride in his low position, because he will pass away like a wild flower.", Ind:""},
   {Bible:"James", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For the sun rises with scorching heat and withers the plant; its blossom falls and its beauty is destroyed. In the same way, the rich man will fade away even while he goes about his business.", Ind:""},
   {Bible:"James", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love him.", Ind:""},
-  {Bible:"James", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When tempted, no one should say, "God is tempting me." For God cannot be tempted by evil, nor does he tempt anyone;", Ind:""},
+  {Bible:"James", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When tempted, no one should say, \"God is tempting me.\" For God cannot be tempted by evil, nor does he tempt anyone;", Ind:""},
   {Bible:"James", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"but each one is tempted when, by his own evil desire, he is dragged away and enticed.", Ind:""},
   {Bible:"James", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.", Ind:""},
   {Bible:"James", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Don't be deceived, my dear brothers.", Ind:""},

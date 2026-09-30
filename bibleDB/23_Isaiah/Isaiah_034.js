@@ -1,5 +1,5 @@
 // 이사야 34장 · Isaiah 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",34,17);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Come near, you nations, and listen; pay attention, you peoples! Let the earth hear, and all that is in it, the world, and all that comes out of it!", Ind:""},

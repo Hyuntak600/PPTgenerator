@@ -1,11 +1,11 @@
 // 창세기 7장 · Genesis 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",7,24);
 BibleDB.add([
-  {Bible:"Genesis", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD then said to Noah, "Go into the ark, you and your whole family, because I have found  you righteous in this generation.", Ind:""},
+  {Bible:"Genesis", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD then said to Noah, \"Go into the ark, you and your whole family, because I have found  you righteous in this generation.", Ind:""},
   {Bible:"Genesis", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Take with you seven of every kind of clean animal, a male and its mate, and two of every kind  of unclean animal, a male and its mate,", Ind:""},
   {Bible:"Genesis", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and also seven of every kind of bird, male and female, to keep their various kinds alive  throughout the earth.", Ind:""},
-  {Bible:"Genesis", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Seven days from now I will send rain on the earth for forty days and forty nights, and I will  wipe from the face of the earth every living creature I have made."", Ind:""},
+  {Bible:"Genesis", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Seven days from now I will send rain on the earth for forty days and forty nights, and I will  wipe from the face of the earth every living creature I have made.\"", Ind:""},
   {Bible:"Genesis", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And Noah did all that the LORD commanded him.", Ind:""},
   {Bible:"Genesis", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Noah was six hundred years old when the floodwaters came on the earth.", Ind:""},
   {Bible:"Genesis", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And Noah and his sons and his wife and his sons' wives entered the ark to escape the waters  of the flood.", Ind:""},

@@ -1,5 +1,5 @@
 // 전도서 9장 · Ecclesiastes 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",9,18);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So I reflected on all this and concluded that the righteous and the wise and what they do are in God's hands, but no man knows whether love or hate awaits him.", Ind:""},
@@ -17,7 +17,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I also saw under the sun this example of wisdom that greatly impressed me:", Ind:""},
   {Bible:"Ecclesiastes", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"There was once a small city with only a few people in it. And a powerful king came against it, surrounded it and built huge siegeworks against it.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Now there lived in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So I said, "Wisdom is better than strength." But the poor man's wisdom is despised, and his words are no longer heeded.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So I said, \"Wisdom is better than strength.\" But the poor man's wisdom is despised, and his words are no longer heeded.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The quiet words of the wise are more to be heeded than the shouts of a ruler of fools.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Wisdom is better than weapons of war, but one sinner destroys much good.", Ind:""},
 ]);

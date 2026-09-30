@@ -1,6 +1,30 @@
-// 사무엘상 12장 · 1 Samuel 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 12장 · 1Samuel 12
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",12,25);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Samuel said to all Israel, \"I have listened to everything you said to me and have set a king over you.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now you have a king as your leader. As for me, I am old and gray, and my sons are here with you. I have been your leader from my youth until this day.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Here I stand. Testify against me in the presence of the LORD and his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I accepted a bribe to make me shut my eyes? If I have done any of these, I will make it right.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"You have not cheated or oppressed us,\" they replied. \"You have not taken anything from anyone's hand.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Samuel said to them, \"The LORD is witness against you, and also his anointed is witness this day, that you have not found anything in my hand.\" \"He is witness,\" they said.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Samuel said to the people, \"It is the LORD who appointed Moses and Aaron and brought your forefathers up out of Egypt.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Now then, stand here, because I am going to confront you with evidence before the LORD as to all the righteous acts performed by the LORD for you and your fathers.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"After Jacob entered Egypt, they cried to the LORD for help, and the LORD sent Moses and Aaron, who brought your forefathers out of Egypt and settled them in this place.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"\"But they forgot the LORD their God; so he sold them into the hand of Sisera, the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They cried out to the LORD and said, 'We have sinned; we have forsaken the LORD and served the Baals and the Ashtoreths. But now deliver us from the hands of our enemies, and we will serve you.'", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then the LORD sent Jerub-Baal, Barak, Jephthah and Samuel, and he delivered you from the hands of your enemies on every side, so that you lived securely.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"But when you saw that Nahash king of the Ammonites was moving against you, you said to me, 'No, we want a king to rule over us'--even though the LORD your God was your king.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Now here is the king you have chosen, the one you asked for; see, the LORD has set a king over you.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"If you fear the LORD and serve and obey him and do not rebel against his commands, and if both you and the king who reigns over you follow the LORD your God--good!", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But if you do not obey the LORD, and if you rebel against his commands, his hand will be against you, as it was against your fathers.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"\"Now then, stand still and see this great thing the LORD is about to do before your eyes!", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Is it not wheat harvest now? I will call upon the LORD to send thunder and rain. And you will realize what an evil thing you did in the eyes of the LORD when you asked for a king.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Samuel called upon the LORD, and that same day the LORD sent thunder and rain. So all the people stood in awe of the LORD and of Samuel.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The people all said to Samuel, \"Pray to the LORD your God for your servants so that we will not die, for we have added to all our other sins the evil of asking for a king.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"\"Do not be afraid,\" Samuel replied. \"You have done all this evil; yet do not turn away from the LORD, but serve the LORD with all your heart.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not turn away after useless idols. They can do you no good, nor can they rescue you, because they are useless.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For the sake of his great name the LORD will not reject his people, because the LORD was pleased to make you his own.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"As for me, far be it from me that I should sin against the LORD by failing to pray for you. And I will teach you the way that is good and right.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But be sure to fear the LORD and serve him faithfully with all your heart; consider what great things he has done for you.", Ind:""},
+  {Bible:"1Samuel", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Yet if you persist in doing evil, both you and your king will be swept away.\"", Ind:""},
 ]);

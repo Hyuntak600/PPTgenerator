@@ -1,5 +1,5 @@
 // 다니엘 1장 · Daniel 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Daniel",1,21);
 BibleDB.add([
   {Bible:"Daniel", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.", Ind:""},
@@ -11,10 +11,10 @@ BibleDB.add([
   {Bible:"Daniel", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The chief official gave them new names: to Daniel, the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But Daniel resolved not to defile himself with the royal food and wine, and he asked the chief official for permission not to defile himself this way.", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Now God had caused the official to show favor and sympathy to Daniel,", Ind:""},
-  {Bible:"Daniel", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"but the official told Daniel, "I am afraid of my lord the king, who has assigned your food and drink. Why should he see you looking worse than the other young men your age? The king would then have my head because of you."", Ind:""},
+  {Bible:"Daniel", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"but the official told Daniel, \"I am afraid of my lord the king, who has assigned your food and drink. Why should he see you looking worse than the other young men your age? The king would then have my head because of you.\"", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Daniel then said to the guard whom the chief official had appointed over Daniel, Hananiah, Mishael and Azariah,", Ind:""},
-  {Bible:"Daniel", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink.", Ind:""},
-  {Bible:"Daniel", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then compare our appearance with that of the young men who eat the royal food, and treat your servants in accordance with what you see."", Ind:""},
+  {Bible:"Daniel", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"\"Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink.", Ind:""},
+  {Bible:"Daniel", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then compare our appearance with that of the young men who eat the royal food, and treat your servants in accordance with what you see.\"", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So he agreed to this and tested them for ten days.", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"At the end of the ten days they looked healthier and better nourished than any of the young men who ate the royal food.", Ind:""},
   {Bible:"Daniel", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So the guard took away their choice food and the wine they were to drink and gave them vegetables instead.", Ind:""},

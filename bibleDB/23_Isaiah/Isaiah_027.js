@@ -1,12 +1,12 @@
 // 이사야 27장 · Isaiah 27
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",27,13);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:27, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In that day, the LORD will punish with his sword, his fierce, great and powerful sword, Leviathan the gliding serpent, Leviathan the coiling serpent; he will slay the monster of the sea.", Ind:""},
-  {Bible:"Isaiah", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:"In that day-- "Sing about a fruitful vineyard:", Ind:""},
+  {Bible:"Isaiah", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:"In that day-- \"Sing about a fruitful vineyard:", Ind:""},
   {Bible:"Isaiah", Chapter:27, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I, the LORD, watch over it; I water it continually. I guard it day and night so that no one may harm it.", Ind:""},
   {Bible:"Isaiah", Chapter:27, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I am not angry. If only there were briers and thorns confronting me! I would march against them in battle; I would set them all on fire.", Ind:""},
-  {Bible:"Isaiah", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Or else let them come to me for refuge; let them make peace with me, yes, let them make peace with me."", Ind:""},
+  {Bible:"Isaiah", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Or else let them come to me for refuge; let them make peace with me, yes, let them make peace with me.\"", Ind:""},
   {Bible:"Isaiah", Chapter:27, Verse:6, Page:1, Kor:"", Chn:"", Eng:"In days to come Jacob will take root, Israel will bud and blossom and fill all the world with fruit.", Ind:""},
   {Bible:"Isaiah", Chapter:27, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Has the LORD struck her as he struck down those who struck her? Has she been killed as those were killed who killed her?", Ind:""},
   {Bible:"Isaiah", Chapter:27, Verse:8, Page:1, Kor:"", Chn:"", Eng:"By warfare and exile you contend with her--with his fierce blast he drives her out, as on a day the east wind blows.", Ind:""},

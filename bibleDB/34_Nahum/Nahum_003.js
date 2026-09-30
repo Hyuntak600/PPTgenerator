@@ -1,14 +1,14 @@
 // 나훔 3장 · Nahum 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Nahum",3,18);
 BibleDB.add([
   {Bible:"Nahum", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Woe to the city of blood, full of lies, full of plunder, never without victims!", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The crack of whips, the clatter of wheels, galloping horses and jolting chariots!", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Charging cavalry, flashing swords and glittering spears! Many casualties, piles of dead, bodies without number, people stumbling over the corpses--", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"all because of the wanton lust of a harlot, alluring, the mistress of sorceries, who enslaved nations by her prostitution and peoples by her witchcraft.", Ind:""},
-  {Bible:"Nahum", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:""I am against you," declares the LORD Almighty. "I will lift your skirts over your face. I will show the nations your nakedness and the kingdoms your shame.", Ind:""},
+  {Bible:"Nahum", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"\"I am against you,\" declares the LORD Almighty. \"I will lift your skirts over your face. I will show the nations your nakedness and the kingdoms your shame.", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will pelt you with filth, I will treat you with contempt and make you a spectacle.", Ind:""},
-  {Bible:"Nahum", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All who see you will flee from you and say, 'Nineveh is in ruins--who will mourn for her?' Where can I find anyone to comfort you?"", Ind:""},
+  {Bible:"Nahum", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All who see you will flee from you and say, 'Nineveh is in ruins--who will mourn for her?' Where can I find anyone to comfort you?\"", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Are you better than Thebes, situated on the Nile, with water around her? The river was her defense, the waters her wall.", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Cush and Egypt were her boundless strength; Put and Libya were among her allies.", Ind:""},
   {Bible:"Nahum", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Yet she was taken captive and went into exile. Her infants were dashed to pieces at the head of every street. Lots were cast for her nobles, and all her great men were put in chains.", Ind:""},

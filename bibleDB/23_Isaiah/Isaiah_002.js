@@ -1,10 +1,10 @@
 // 이사야 2장 · Isaiah 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",2,22);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is what Isaiah son of Amoz saw concerning Judah and Jerusalem:", Ind:""},
   {Bible:"Isaiah", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"In the last days the mountain of the LORD'S temple will be established as chief among the mountains; it will be raised above the hills, and all nations will stream to it.", Ind:""},
-  {Bible:"Isaiah", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Many peoples will come and say, "Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us his ways, so that we may walk in his paths." The law will go out from Zion, the word of the LORD from Jerusalem.", Ind:""},
+  {Bible:"Isaiah", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Many peoples will come and say, \"Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us his ways, so that we may walk in his paths.\" The law will go out from Zion, the word of the LORD from Jerusalem.", Ind:""},
   {Bible:"Isaiah", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He will judge between the nations and will settle disputes for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war anymore.", Ind:""},
   {Bible:"Isaiah", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Come, O house of Jacob, let us walk in the light of the LORD.", Ind:""},
   {Bible:"Isaiah", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You have abandoned your people, the house of Jacob. They are full of superstitions from the East; they practice divination like the Philistines and clasp hands with pagans.", Ind:""},

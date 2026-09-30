@@ -1,17 +1,17 @@
 // 이사야 5장 · Isaiah 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",5,30);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I will sing for the one I love a song about his vineyard: My loved one had a vineyard on a fertile hillside.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He dug it up and cleared it of stones and planted it with the choicest vines. He built a watchtower in it and cut out a winepress as well. Then he looked for a crop of good grapes, but it yielded only bad fruit.", Ind:""},
-  {Bible:"Isaiah", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Now you dwellers in Jerusalem and men of Judah, judge between me and my vineyard.", Ind:""},
+  {Bible:"Isaiah", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"Now you dwellers in Jerusalem and men of Judah, judge between me and my vineyard.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"What more could have been done for my vineyard than I have done for it? When I looked for good grapes, why did it yield only bad?", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Now I will tell you what I am going to do to my vineyard: I will take away its hedge, and it will be destroyed; I will break down its wall, and it will be trampled.", Ind:""},
-  {Bible:"Isaiah", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will make it a wasteland, neither pruned nor cultivated, and briers and thorns will grow there. I will command the clouds not to rain on it."", Ind:""},
+  {Bible:"Isaiah", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will make it a wasteland, neither pruned nor cultivated, and briers and thorns will grow there. I will command the clouds not to rain on it.\"", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The vineyard of the LORD Almighty is the house of Israel, and the men of Judah are the garden of his delight. And he looked for justice, but saw bloodshed; for righteousness, but heard cries of distress.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Woe to you who add house to house and join field to field till no space is left and you live alone in the land.", Ind:""},
-  {Bible:"Isaiah", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty has declared in my hearing: "Surely the great houses will become desolate, the fine mansions left without occupants.", Ind:""},
-  {Bible:"Isaiah", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A ten-acre vineyard will produce only a bath of wine, a homer of seed only an ephah of grain."", Ind:""},
+  {Bible:"Isaiah", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty has declared in my hearing: \"Surely the great houses will become desolate, the fine mansions left without occupants.", Ind:""},
+  {Bible:"Isaiah", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A ten-acre vineyard will produce only a bath of wine, a homer of seed only an ephah of grain.\"", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Woe to those who rise early in the morning to run after their drinks, who stay up late at night till they are inflamed with wine.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They have harps and lyres at their banquets, tambourines and flutes and wine, but they have no regard for the deeds of the LORD, no respect for the work of his hands.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Therefore my people will go into exile for lack of understanding; their men of rank will die of hunger and their masses will be parched with thirst.", Ind:""},
@@ -20,7 +20,7 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But the LORD Almighty will be exalted by his justice, and the holy God will show himself holy by his righteousness.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then sheep will graze as in their own pasture; lambs will feed among the ruins of the rich.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Woe to those who draw sin along with cords of deceit, and wickedness as with cart ropes,", Ind:""},
-  {Bible:"Isaiah", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"to those who say, "Let God hurry, let him hasten his work so we may see it. Let it approach, let the plan of the Holy One of Israel come, so we may know it."", Ind:""},
+  {Bible:"Isaiah", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"to those who say, \"Let God hurry, let him hasten his work so we may see it. Let it approach, let the plan of the Holy One of Israel come, so we may know it.\"", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Woe to those who are wise in their own eyes and clever in their own sight.", Ind:""},
   {Bible:"Isaiah", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Woe to those who are heroes at drinking wine and champions at mixing drinks,", Ind:""},

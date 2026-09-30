@@ -1,8 +1,8 @@
 // 욥기 13장 · Job 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",13,28);
 BibleDB.add([
-  {Bible:"Job", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:""My eyes have seen all this, my ears have heard and understood it.", Ind:""},
+  {Bible:"Job", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"\"My eyes have seen all this, my ears have heard and understood it.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"What you know, I also know; I am not inferior to you.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But I desire to speak to the Almighty and to argue my case with God.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You, however, smear me with lies; you are worthless physicians, all of you!", Ind:""},
@@ -14,14 +14,14 @@ BibleDB.add([
   {Bible:"Job", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He would surely rebuke you if you secretly showed partiality.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Would not his splendor terrify you? Would not the dread of him fall on you?", Ind:""},
   {Bible:"Job", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Your maxims are proverbs of ashes; your defenses are defenses of clay.", Ind:""},
-  {Bible:"Job", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Keep silent and let me speak; then let come to me what may.", Ind:""},
+  {Bible:"Job", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"Keep silent and let me speak; then let come to me what may.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Why do I put myself in jeopardy and take my life in my hands?", Ind:""},
   {Bible:"Job", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Though he slay me, yet will I hope in him; I will surely defend my ways to his face.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Indeed, this will turn out for my deliverance, for no godless man would dare come before him!", Ind:""},
   {Bible:"Job", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Listen carefully to my words; let your ears take in what I say.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Now that I have prepared my case, I know I will be vindicated.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Can anyone bring charges against me? If so, I will be silent and die.", Ind:""},
-  {Bible:"Job", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Only grant me these two things, O God, and then I will not hide from you:", Ind:""},
+  {Bible:"Job", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"\"Only grant me these two things, O God, and then I will not hide from you:", Ind:""},
   {Bible:"Job", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Withdraw your hand far from me, and stop frightening me with your terrors.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then summon me and I will answer, or let me speak, and you reply.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"How many wrongs and sins have I committed? Show me my offense and my sin.", Ind:""},
@@ -29,5 +29,5 @@ BibleDB.add([
   {Bible:"Job", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Will you torment a windblown leaf? Will you chase after dry chaff?", Ind:""},
   {Bible:"Job", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For you write down bitter things against me and make me inherit the sins of my youth.", Ind:""},
   {Bible:"Job", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"You fasten my feet in shackles; you keep close watch on all my paths by putting marks on the soles of my feet.", Ind:""},
-  {Bible:"Job", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:""So man wastes away like something rotten, like a garment eaten by moths.", Ind:""},
+  {Bible:"Job", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:"\"So man wastes away like something rotten, like a garment eaten by moths.", Ind:""},
 ]);

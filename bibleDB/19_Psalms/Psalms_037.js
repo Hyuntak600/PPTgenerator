@@ -1,5 +1,5 @@
 // 시편 37장 · Psalms 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",37,40);
 BibleDB.add([
   {Bible:"Psalms", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not fret because of evil men or be envious of those who do wrong;", Ind:""},

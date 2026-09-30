@@ -1,5 +1,5 @@
 // 잠언 24장 · Proverbs 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",24,34);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not envy wicked men, do not desire their company;", Ind:""},
@@ -13,7 +13,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:24, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The schemes of folly are sin, and men detest a mocker.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:10, Page:1, Kor:"", Chn:"", Eng:"If you falter in times of trouble, how small is your strength!", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Rescue those being led away to death; hold back those staggering toward slaughter.", Ind:""},
-  {Bible:"Proverbs", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If you say, "But we knew nothing about this," does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?", Ind:""},
+  {Bible:"Proverbs", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If you say, \"But we knew nothing about this,\" does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Eat honey, my son, for it is good; honey from the comb is sweet to your taste.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Know also that wisdom is sweet to your soul; if you find it, there is a future hope for you, and your hope will not be cut off.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Do not lie in wait like an outlaw against a righteous man's house, do not raid his dwelling place;", Ind:""},
@@ -25,12 +25,12 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:24, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Fear the LORD and the king, my son, and do not join with the rebellious,", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:22, Page:1, Kor:"", Chn:"", Eng:"for those two will send sudden destruction upon them, and who knows what calamities they can bring?", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:23, Page:1, Kor:"", Chn:"", Eng:"These also are sayings of the wise: To show partiality in judging is not good:", Ind:""},
-  {Bible:"Proverbs", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Whoever says to the guilty, "You are innocent"--peoples will curse him and nations denounce him.", Ind:""},
+  {Bible:"Proverbs", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Whoever says to the guilty, \"You are innocent\"--peoples will curse him and nations denounce him.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But it will go well with those who convict the guilty, and rich blessing will come upon them.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:26, Page:1, Kor:"", Chn:"", Eng:"An honest answer is like a kiss on the lips.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Finish your outdoor work and get your fields ready; after that, build your house.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do not testify against your neighbor without cause, or use your lips to deceive.", Ind:""},
-  {Bible:"Proverbs", Chapter:24, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do not say, "I'll do to him as he has done to me; I'll pay that man back for what he did."", Ind:""},
+  {Bible:"Proverbs", Chapter:24, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do not say, \"I'll do to him as he has done to me; I'll pay that man back for what he did.\"", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I went past the field of the sluggard, past the vineyard of the man who lacks judgment;", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:31, Page:1, Kor:"", Chn:"", Eng:"thorns had come up everywhere, the ground was covered with weeds, and the stone wall was in ruins.", Ind:""},
   {Bible:"Proverbs", Chapter:24, Verse:32, Page:1, Kor:"", Chn:"", Eng:"I applied my heart to what I observed and learned a lesson from what I saw:", Ind:""},

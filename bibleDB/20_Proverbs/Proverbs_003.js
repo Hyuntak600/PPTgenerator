@@ -1,5 +1,5 @@
 // 잠언 3장 · Proverbs 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",3,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My son, do not forget my teaching, but keep my commands in your heart,", Ind:""},
@@ -29,7 +29,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Have no fear of sudden disaster or of the ruin that overtakes the wicked,", Ind:""},
   {Bible:"Proverbs", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"for the LORD will be your confidence and will keep your foot from being snared.", Ind:""},
   {Bible:"Proverbs", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Do not withhold good from those who deserve it, when it is in your power to act.", Ind:""},
-  {Bible:"Proverbs", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do not say to your neighbor, "Come back later; I'll give it tomorrow"--when you now have it with you.", Ind:""},
+  {Bible:"Proverbs", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do not say to your neighbor, \"Come back later; I'll give it tomorrow\"--when you now have it with you.", Ind:""},
   {Bible:"Proverbs", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do not plot harm against your neighbor, who lives trustfully near you.", Ind:""},
   {Bible:"Proverbs", Chapter:3, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Do not accuse a man for no reason--when he has done you no harm.", Ind:""},
   {Bible:"Proverbs", Chapter:3, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Do not envy a violent man or choose any of his ways,", Ind:""},

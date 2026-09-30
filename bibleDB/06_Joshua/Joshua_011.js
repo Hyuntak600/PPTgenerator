@@ -1,5 +1,5 @@
 // 여호수아 11장 · Joshua 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",11,23);
 BibleDB.add([
   {Bible:"Joshua", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the kings of Shimron and Acshaph,", Ind:""},
@@ -7,7 +7,7 @@ BibleDB.add([
   {Bible:"Joshua", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites and Jebusites in the hill country; and to the Hivites below Hermon in the region of Mizpah.", Ind:""},
   {Bible:"Joshua", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They came out with all their troops and a large number of horses and chariots--a huge army, as numerous as the sand on the seashore.", Ind:""},
   {Bible:"Joshua", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"All these kings joined forces and made camp together at the Waters of Merom, to fight against Israel.", Ind:""},
-  {Bible:"Joshua", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Joshua, "Do not be afraid of them, because by this time tomorrow I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots."", Ind:""},
+  {Bible:"Joshua", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Joshua, \"Do not be afraid of them, because by this time tomorrow I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots.\"", Ind:""},
   {Bible:"Joshua", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So Joshua and his whole army came against them suddenly at the Waters of Merom and attacked them,", Ind:""},
   {Bible:"Joshua", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and the LORD gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left.", Ind:""},
   {Bible:"Joshua", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Joshua did to them as the LORD had directed: He hamstrung their horses and burned their chariots.", Ind:""},

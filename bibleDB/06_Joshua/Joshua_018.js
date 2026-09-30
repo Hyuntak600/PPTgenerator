@@ -1,15 +1,15 @@
 // 여호수아 18장 · Joshua 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",18,28);
 BibleDB.add([
   {Bible:"Joshua", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The whole assembly of the Israelites gathered at Shiloh and set up the Tent of Meeting there. The country was brought under their control,", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"but there were still seven Israelite tribes who had not yet received their inheritance.", Ind:""},
-  {Bible:"Joshua", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Joshua said to the Israelites: "How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Joshua said to the Israelites: \"How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Appoint three men from each tribe. I will send them out to make a survey of the land and to write a description of it, according to the inheritance of each. Then they will return to me.", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You are to divide the land into seven parts. Judah is to remain in its territory on the south and the house of Joseph in its territory on the north.", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"After you have written descriptions of the seven parts of the land, bring them here to me and I will cast lots for you in the presence of the LORD our God.", Ind:""},
-  {Bible:"Joshua", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, do not get a portion among you, because the priestly service of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have already received their inheritance on the east side of the Jordan. Moses the servant of the LORD gave it to them."", Ind:""},
-  {Bible:"Joshua", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"As the men started on their way to map out the land, Joshua instructed them, "Go and make a survey of the land and write a description of it. Then return to me, and I will cast lots for you here at Shiloh in the presence of the LORD."", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, do not get a portion among you, because the priestly service of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have already received their inheritance on the east side of the Jordan. Moses the servant of the LORD gave it to them.\"", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"As the men started on their way to map out the land, Joshua instructed them, \"Go and make a survey of the land and write a description of it. Then return to me, and I will cast lots for you here at Shiloh in the presence of the LORD.\"", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So the men left and went through the land. They wrote its description on a scroll, town by town, in seven parts, and returned to Joshua in the camp at Shiloh.", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Joshua then cast lots for them in Shiloh in the presence of the LORD, and there he distributed the land to the Israelites according to their tribal divisions.", Ind:""},
   {Bible:"Joshua", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The lot came up for the tribe of Benjamin, clan by clan. Their allotted territory lay between the tribes of Judah and Joseph:", Ind:""},

@@ -1,6 +1,39 @@
-// 고린도전서 11장 · 1 Corinthians 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Corinthians",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 고린도전서 11장 · 1Corinthians 11
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Corinthians",11,34);
 BibleDB.add([
+  {Bible:"1Corinthians", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Follow my example, as I follow the example of Christ.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I praise you for remembering me in everything and for holding to the teachings, just as I passed them on to you.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Now I want you to realize that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Every man who prays or prophesies with his head covered dishonors his head.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And every woman who prays or prophesies with her head uncovered dishonors her head--it is just as though her head were shaved.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"If a woman does not cover her head, she should have her hair cut off; and if it is a disgrace for a woman to have her hair cut or shaved off, she should cover her head.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For man did not come from woman, but woman from man;", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"neither was man created for woman, but woman for man.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For this reason, and because of the angels, the woman ought to have a sign of authority on her head.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"In the Lord, however, woman is not independent of man, nor is man independent of woman.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For as woman came from man, so also man is born of woman. But everything comes from God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered?", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Does not the very nature of things teach you that if a man has long hair, it is a disgrace to him,", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"but that if a woman has long hair, it is her glory? For long hair is given to her as a covering.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If anyone wants to be contentious about this, we have no other practice--nor do the churches of God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"In the following directives I have no praise for you, for your meetings do more harm than good.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"In the first place, I hear that when you come together as a church, there are divisions among you, and to some extent I believe it.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"No doubt there have to be differences among you to show which of you have God's approval.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When you come together, it is not the Lord's Supper you eat,", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"for as you eat, each of you goes ahead without waiting for anybody else. One remains hungry, another gets drunk.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Don't you have homes to eat and drink in? Or do you despise the church of God and humiliate those who have nothing? What shall I say to you? Shall I praise you for this? Certainly not!", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread,", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and when he had given thanks, he broke it and said, \"This is my body, which is for you; do this in remembrance of me.\"", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In the same way, after supper he took the cup, saying, \"This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.\"", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A man ought to examine himself before he eats of the bread and drinks of the cup.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"For anyone who eats and drinks without recognizing the body of the Lord eats and drinks judgment on himself.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"That is why many among you are weak and sick, and a number of you have fallen asleep.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But if we judged ourselves, we would not come under judgment.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"When we are judged by the Lord, we are being disciplined so that we will not be condemned with the world.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:33, Page:1, Kor:"", Chn:"", Eng:"So then, my brothers, when you come together to eat, wait for each other.", Ind:""},
+  {Bible:"1Corinthians", Chapter:11, Verse:34, Page:1, Kor:"", Chn:"", Eng:"If anyone is hungry, he should eat at home, so that when you meet together it may not result in judgment. And when I come I will give further directions.", Ind:""},
 ]);

@@ -1,5 +1,5 @@
 // 디도서 2장 · Titus 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Titus",2,15);
 BibleDB.add([
   {Bible:"Titus", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You must teach what is in accord with sound doctrine.", Ind:""},
@@ -13,7 +13,7 @@ BibleDB.add([
   {Bible:"Titus", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them,", Ind:""},
   {Bible:"Titus", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.", Ind:""},
   {Bible:"Titus", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For the grace of God that brings salvation has appeared to all men.", Ind:""},
-  {Bible:"Titus", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It teaches us to say "No" to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,", Ind:""},
+  {Bible:"Titus", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It teaches us to say \"No\" to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,", Ind:""},
   {Bible:"Titus", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"while we wait for the blessed hope--the glorious appearing of our great God and Savior, Jesus Christ,", Ind:""},
   {Bible:"Titus", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.", Ind:""},
   {Bible:"Titus", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.", Ind:""},

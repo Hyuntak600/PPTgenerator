@@ -1,10 +1,10 @@
 // 느헤미야 7장 · Nehemiah 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
-BibleDB.ref("Nehemiah",7,70);
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("Nehemiah",7,73);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After the wall had been rebuilt and I had set the doors in place, the gatekeepers and the singers and the Levites were appointed.", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most men do.", Ind:""},
-  {Bible:"Nehemiah", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I said to them, "The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses."", Ind:""},
+  {Bible:"Nehemiah", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I said to them, \"The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.\"", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So my God put it into my heart to assemble the nobles, the officials and the common people for registration by families. I found the genealogical record of those who had been the first to return. This is what I found written there:", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"These are the people of the province who came up from the captivity of the exiles whom Nebuchadnezzar king of Babylon had taken captive (they returned to Jerusalem and Judah, each to his own town,", Ind:""},
@@ -72,4 +72,7 @@ BibleDB.add([
   {Bible:"Nehemiah", Chapter:7, Verse:68, Page:1, Kor:"", Chn:"", Eng:"There were 736 horses, 245 mules,", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:69, Page:1, Kor:"", Chn:"", Eng:"435 camels and 6,720 donkeys.", Ind:""},
   {Bible:"Nehemiah", Chapter:7, Verse:70, Page:1, Kor:"", Chn:"", Eng:"Some of the heads of the families contributed to the work. The governor gave to the treasury", Ind:""},
+  {Bible:"Nehemiah", Chapter:7, Verse:71, Page:1, Kor:"", Chn:"", Eng:"Some of the heads of the families gave to the treasury for the work 20,000 drachmas of gold and 2,200 minas of silver.", Ind:""},
+  {Bible:"Nehemiah", Chapter:7, Verse:72, Page:1, Kor:"", Chn:"", Eng:"The total given by the rest of the people was 20,000 drachmas of gold, 2,000 minas of silver and 67 garments for priests.", Ind:""},
+  {Bible:"Nehemiah", Chapter:7, Verse:73, Page:1, Kor:"", Chn:"", Eng:"The priests, the Levites, the gatekeepers, the singers and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns,", Ind:""},
 ]);

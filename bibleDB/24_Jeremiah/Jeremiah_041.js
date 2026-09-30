@@ -1,5 +1,5 @@
 // 예레미야 41장 · Jeremiah 41
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Jeremiah",41,18);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:41, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the seventh month Ishmael son of Nethaniah, the son of Elishama, who was of royal blood and had been one of the king's officers, came with pen men to Gedaliah son of Ahikam at Mizpah. While they were eating together there,", Ind:""},
@@ -7,9 +7,9 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:41, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Ishmael also killed all the Jews who were with Gedaliah at Mizpah, as well as the Babylonian soldiers who were there.", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The day after Gedaliah's assassination, before anyone knew about it,", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:5, Page:1, Kor:"", Chn:"", Eng:"eighty men who had shaved off their beards, torn their clothes and cut themselves came from Shechem, Shiloh and Samaria, bringing grain offerings and incense with them to the house of the LORD.", Ind:""},
-  {Bible:"Jeremiah", Chapter:41, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When he met them, he said, "Come to Gedaliah son of Ahikam."", Ind:""},
+  {Bible:"Jeremiah", Chapter:41, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When he met them, he said, \"Come to Gedaliah son of Ahikam.\"", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When they went into the city, Ishmael son of Nethaniah and the men who were with him slaughtered them and threw them into a cistern.", Ind:""},
-  {Bible:"Jeremiah", Chapter:41, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But ten of them said to Ishmael, "Don't kill us! We have wheat and barley, oil and honey, hidden in a field." So he let them alone and did not kill them with the others.", Ind:""},
+  {Bible:"Jeremiah", Chapter:41, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But ten of them said to Ishmael, \"Don't kill us! We have wheat and barley, oil and honey, hidden in a field.\" So he let them alone and did not kill them with the others.", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Now the cistern where he threw all the bodies of the men he had killed along with Gedaliah was the one King Asa had made as part of his defense against Baasha king of Israel. Ishmael son of Nethaniah filled it with the dead.", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Ishmael made captives of all the rest of the people who were in Mizpah--the king's daughters along with all the others who were left there, over whom Nebuzaradan commander of the imperial guard had appointed Gedaliah son of Ahikam. Ishmael son of Nethaniah took them captive and set out to cross over to the Ammonites.", Ind:""},
   {Bible:"Jeremiah", Chapter:41, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When Johanan son of Kareah and all the army officers who were with him heard about all the crimes Ishmael son of Nethaniah had committed,", Ind:""},

@@ -1,5 +1,5 @@
 // 신명기 24장 · Deuteronomy 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",24,22);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"If a man marries a woman who becomes displeasing to him because he finds something indecent about her, and he writes her a certificate of divorce, gives it to her and sends her from his house,", Ind:""},

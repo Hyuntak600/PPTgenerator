@@ -1,5 +1,5 @@
 // 신명기 6장 · Deuteronomy 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",6,25);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are the commands, decrees and laws the LORD your God directed me to teach you to observe in the land that you are crossing the Jordan to possess,", Ind:""},
@@ -21,10 +21,10 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Be sure to keep the commands of the LORD your God and the stipulations and decrees he has given you.", Ind:""},
   {Bible:"Deuteronomy", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Do what is right and good in the LORD'S sight, so that it may go well with you and you may go in and take over the good land that the LORD promised on oath to your forefathers,", Ind:""},
   {Bible:"Deuteronomy", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"thrusting out all your enemies before you, as the LORD said.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In the future, when your son asks you, "What is the meaning of the stipulations, decrees and laws the LORD our God has commanded you?"", Ind:""},
-  {Bible:"Deuteronomy", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"tell him: "We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In the future, when your son asks you, \"What is the meaning of the stipulations, decrees and laws the LORD our God has commanded you?\"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"tell him: \"We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.", Ind:""},
   {Bible:"Deuteronomy", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Before our eyes the LORD sent miraculous signs and wonders--great and terrible--upon Egypt and Pharaoh and his whole household.", Ind:""},
   {Bible:"Deuteronomy", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But he brought us out from there to bring us in and give us the land that he promised on oath to our forefathers.", Ind:""},
   {Bible:"Deuteronomy", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The LORD commanded us to obey all these decrees and to fear the LORD our God, so that we might always prosper and be kept alive, as is the case today.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And if we are careful to obey all this law before the LORD our God, as he has commanded us, that will be our righteousness."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And if we are careful to obey all this law before the LORD our God, as he has commanded us, that will be our righteousness.\"", Ind:""},
 ]);

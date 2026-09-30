@@ -1,6 +1,36 @@
-// 고린도전서 1장 · 1 Corinthians 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Corinthians",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 고린도전서 1장 · 1Corinthians 1
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Corinthians",1,31);
 BibleDB.add([
+  {Bible:"1Corinthians", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ--their Lord and ours:", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Grace and peace to you from God our Father and the Lord Jesus Christ.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I always thank God for you because of his grace given you in Christ Jesus.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For in him you have been enriched in every way--in all your speaking and in all your knowledge--", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"because our testimony about Christ was confirmed in you.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Therefore you do not lack any spiritual gift as you eagerly wait for our Lord Jesus Christ to be revealed.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He will keep you strong to the end, so that you will be blameless on the day of our Lord Jesus Christ.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"God, who has called you into fellowship with his Son Jesus Christ our Lord, is faithful.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree with one another so that there may be no divisions among you and that you may be perfectly united in mind and thought.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"My brothers, some from Chloe's household have informed me that there are quarrels among you.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"What I mean is this: One of you says, \"I follow Paul\"; another, \"I follow Apollos\"; another, \"I follow Cephas\"; still another, \"I follow Christ.\"", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Is Christ divided? Was Paul crucified for you? Were you baptized into the name of Paul?", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I am thankful that I did not baptize any of you except Crispus and Gaius,", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"so no one can say that you were baptized into my name.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"(Yes, I also baptized the household of Stephanas; beyond that, I don't remember if I baptized anyone else.)", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For Christ did not send me to baptize, but to preach the gospel--not with words of human wisdom, lest the cross of Christ be emptied of its power.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For it is written: \"I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate.\"", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Where is the wise man? Where is the scholar? Where is the philosopher of this age? Has not God made foolish the wisdom of the world?", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For since in the wisdom of God the world through its wisdom did not know him, God was pleased through the foolishness of what was preached to save those who believe.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Jews demand miraculous signs and Greeks look for wisdom,", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles,", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For the foolishness of God is wiser than man's wisdom, and the weakness of God is stronger than man's strength.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Brothers, think of what you were when you were called. Not many of you were wise by human standards; not many were influential; not many were of noble birth.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He chose the lowly things of this world and the despised things--and the things that are not--to nullify the things that are,", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"so that no one may boast before him.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"It is because of him that you are in Christ Jesus, who has become for us wisdom from God--that is, our righteousness, holiness and redemption.", Ind:""},
+  {Bible:"1Corinthians", Chapter:1, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Therefore, as it is written: \"Let him who boasts boast in the Lord.\"", Ind:""},
 ]);

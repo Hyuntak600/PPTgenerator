@@ -1,5 +1,5 @@
 // 마태복음 1장 · Matthew 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Matthew",1,25);
 BibleDB.add([
   {Bible:"Matthew", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A record of the genealogy of Jesus Christ the son of David, the son of Abraham:", Ind:""},
@@ -21,10 +21,10 @@ BibleDB.add([
   {Bible:"Matthew", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.", Ind:""},
   {Bible:"Matthew", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This is how the birth of Jesus Christ came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be with child through the Holy Spirit.", Ind:""},
   {Bible:"Matthew", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Because Joseph her husband was a righteous man and did not want to expose her to public disgrace, he had in mind to divorce her quietly.", Ind:""},
-  {Bible:"Matthew", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But after he had considered this, an angel of the Lord appeared to him in a dream and said, "Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.", Ind:""},
-  {Bible:"Matthew", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins."", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But after he had considered this, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.\"", Ind:""},
   {Bible:"Matthew", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"All this took place to fulfill what the Lord had said through the prophet:", Ind:""},
-  {Bible:"Matthew", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:""The virgin will be with child and will give birth to a son, and they will call him Immanuel"--which means, "God with us."", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"The virgin will be with child and will give birth to a son, and they will call him Immanuel\"--which means, \"God with us.\"", Ind:""},
   {Bible:"Matthew", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife.", Ind:""},
   {Bible:"Matthew", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But he had no union with her until she gave birth to a son. And he gave him the name Jesus.", Ind:""},
 ]);

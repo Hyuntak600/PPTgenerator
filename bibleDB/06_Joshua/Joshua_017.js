@@ -1,11 +1,11 @@
 // 여호수아 17장 · Joshua 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Joshua",17,18);
 BibleDB.add([
   {Bible:"Joshua", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This was the allotment for the tribe of Manasseh as Joseph's firstborn, that is, for Makir, Manasseh's firstborn. Makir was the ancestor of the Gileadites, who had received Gilead and Bashan because the Makirites were great soldiers.", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So this allotment was for the rest of the people of Manasseh--the clans of Abiezer, Helek, Asriel, Shechem, Hepher and Shemida. These are the other male descendants of Manasseh son of Joseph by their clans.", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Now Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, had no sons but only daughters, whose names were Mahlah, Noah, Hoglah, Milcah and Tirzah.", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They went to Eleazar the priest, Joshua son of Nun, and the leaders and said, "The LORD commanded Moses to give us an inheritance among our brothers." So Joshua gave them an inheritance along with the brothers of their father, according to the LORD'S command.", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They went to Eleazar the priest, Joshua son of Nun, and the leaders and said, \"The LORD commanded Moses to give us an inheritance among our brothers.\" So Joshua gave them an inheritance along with the brothers of their father, according to the LORD'S command.", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Manasseh's share consisted of ten tracts of land besides Gilead and Bashan east of the Jordan,", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"because the daughters of the tribe of Manasseh received an inheritance among the sons. The land of Gilead belonged to the rest of the descendants of Manasseh.", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The territory of Manasseh extended from Asher to Micmethath east of Shechem. The boundary ran southward from there to include the people living at En Tappuah.", Ind:""},
@@ -15,9 +15,9 @@ BibleDB.add([
   {Bible:"Joshua", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Within Issachar and Asher, Manasseh also had Beth Shan, Ibleam and the people of Dor, Endor, Taanach and Megiddo, together with their surrounding settlements (the third in the list is Naphoth).", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Yet the Manassites were not able to occupy these towns, for the Canaanites were determined to live in that region.", Ind:""},
   {Bible:"Joshua", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"However, when the Israelites grew stronger, they subjected the Canaanites to forced labor but did not drive them out completely.", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The people of Joseph said to Joshua, "Why have you given us only one allotment and one portion for an inheritance? We are a numerous people and the LORD has blessed us abundantly."", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:""If you are so numerous," Joshua answered, "and if the hill country of Ephraim is too small for you, go up into the forest and clear land for yourselves there in the land of the Perizzites and Rephaites."", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The people of Joseph replied, "The hill country is not enough for us, and all the Canaanites who live in the plain have iron chariots, both those in Beth Shan and its settlements and those in the Valley of Jezreel."", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But Joshua said to the house of Joseph--to Ephraim and Manasseh--"You are numerous and very powerful. You will have not only one allotment", Ind:""},
-  {Bible:"Joshua", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"but the forested hill country as well. Clear it, and its farthest limits will be yours; though the Canaanites have iron chariots and though they are strong, you can drive them out."", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The people of Joseph said to Joshua, \"Why have you given us only one allotment and one portion for an inheritance? We are a numerous people and the LORD has blessed us abundantly.\"", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"\"If you are so numerous,\" Joshua answered, \"and if the hill country of Ephraim is too small for you, go up into the forest and clear land for yourselves there in the land of the Perizzites and Rephaites.\"", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The people of Joseph replied, \"The hill country is not enough for us, and all the Canaanites who live in the plain have iron chariots, both those in Beth Shan and its settlements and those in the Valley of Jezreel.\"", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But Joshua said to the house of Joseph--to Ephraim and Manasseh--\"You are numerous and very powerful. You will have not only one allotment", Ind:""},
+  {Bible:"Joshua", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"but the forested hill country as well. Clear it, and its farthest limits will be yours; though the Canaanites have iron chariots and though they are strong, you can drive them out.\"", Ind:""},
 ]);

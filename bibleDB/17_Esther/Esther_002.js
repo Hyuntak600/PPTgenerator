@@ -1,11 +1,11 @@
 // 에스더 2장 · Esther 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Esther",2,23);
 BibleDB.add([
   {Bible:"Esther", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Later when the anger of King Xerxes had subsided, he remembered Vashti and what she had done and what he had decreed about her.", Ind:""},
-  {Bible:"Esther", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the king's personal attendants proposed, "Let a search be made for beautiful young virgins for the king.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the king's personal attendants proposed, \"Let a search be made for beautiful young virgins for the king.", Ind:""},
   {Bible:"Esther", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Let the king appoint commissioners in every province of his realm to bring all these beautiful girls into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king's eunuch, who is in charge of the women; and let beauty treatments be given to them.", Ind:""},
-  {Bible:"Esther", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then let the girl who pleases the king be queen instead of Vashti." This advice appealed to the king, and he followed it.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then let the girl who pleases the king be queen instead of Vashti.\" This advice appealed to the king, and he followed it.", Ind:""},
   {Bible:"Esther", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Now there was in the citadel of Susa a Jew of the tribe of Benjamin, named Mordecai son of Jair, the son of Shimei, the son of Kish,", Ind:""},
   {Bible:"Esther", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"who had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon, among those taken captive with Jehoiachin king of Judah.", Ind:""},
   {Bible:"Esther", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Mordecai had a cousin named Hadassah, whom he had brought up because she had neither father nor mother. This girl, who was also known as Esther, was lovely in form and features, and Mordecai had taken her as his own daughter when her father and mother died.", Ind:""},

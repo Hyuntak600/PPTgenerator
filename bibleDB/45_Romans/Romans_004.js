@@ -1,15 +1,15 @@
 // 로마서 4장 · Romans 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",4,25);
 BibleDB.add([
   {Bible:"Romans", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"What then shall we say that Abraham, our forefather, discovered in this matter?", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"If, in fact, Abraham was justified by works, he had something to boast about--but not before God.", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"What does the Scripture say? "Abraham believed God, and it was credited to him as righteousness."", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"What does the Scripture say? \"Abraham believed God, and it was credited to him as righteousness.\"", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Now when a man works, his wages are not credited to him as a gift, but as an obligation.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"However, to the man who does not work but trusts God who justifies the wicked, his faith is credited as righteousness.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"David says the same thing when he speaks of the blessedness of the man to whom God credits righteousness apart from works:", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Blessed are they whose transgressions are forgiven, whose sins are covered.", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man whose sin the Lord will never count against him."", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Blessed are they whose transgressions are forgiven, whose sins are covered.", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man whose sin the Lord will never count against him.\"", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Is this blessedness only for the circumcised, or also for the uncircumcised? We have been saying that Abraham's faith was credited to him as righteousness.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Under what circumstances was it credited? Was it after he was circumcised, or before? It was not after, but before!", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And he received the sign of circumcision, a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but have not been circumcised, in order that righteousness might be credited to them.", Ind:""},
@@ -18,13 +18,13 @@ BibleDB.add([
   {Bible:"Romans", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For if those who live by law are heirs, faith has no value and the promise is worthless,", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"because law brings wrath. And where there is no law there is no transgression.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Therefore, the promise comes by faith, so that it may be by grace and may be guaranteed to all Abraham's offspring--not only to those who are of the law but also to those who are of the faith of Abraham. He is the father of us all.", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As it is written: "I have made you a father of many nations." He is our father in the sight of God, in whom he believed--the God who gives life to the dead and calls things that are not as though they were.", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, "So shall your offspring be."", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As it is written: \"I have made you a father of many nations.\" He is our father in the sight of God, in whom he believed--the God who gives life to the dead and calls things that are not as though they were.", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, \"So shall your offspring be.\"", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Without weakening in his faith, he faced the fact that his body was as good as dead--since he was about a hundred years old--and that Sarah's womb was also dead.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God,", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"being fully persuaded that God had power to do what he had promised.", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is why "it was credited to him as righteousness."", Ind:""},
-  {Bible:"Romans", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The words "it was credited to him" were written not for him alone,", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is why \"it was credited to him as righteousness.\"", Ind:""},
+  {Bible:"Romans", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The words \"it was credited to him\" were written not for him alone,", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"but also for us, to whom God will credit righteousness--for us who believe in him who raised Jesus our Lord from the dead.", Ind:""},
   {Bible:"Romans", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He was delivered over to death for our sins and was raised to life for our justification.", Ind:""},
 ]);

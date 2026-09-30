@@ -1,5 +1,5 @@
 // 이사야 24장 · Isaiah 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",24,23);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"See, the LORD is going to lay waste the earth and devastate it; he will ruin its face and scatter its inhabitants--", Ind:""},
@@ -17,7 +17,7 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So will it be on the earth and among the nations, as when an olive tree is beaten, or as when gleanings are left after the grape harvest.", Ind:""},
   {Bible:"Isaiah", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They raise their voices, they shout for joy; from the west they acclaim the LORD'S majesty.", Ind:""},
   {Bible:"Isaiah", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Therefore in the east give glory to the LORD; exalt the name of the LORD, the God of Israel, in the islands of the sea.", Ind:""},
-  {Bible:"Isaiah", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:"From the ends of the earth we hear singing: "Glory to the Righteous One." But I said, "I waste away, I waste away! Woe to me! The treacherous betray! With treachery the treacherous betray!"", Ind:""},
+  {Bible:"Isaiah", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:"From the ends of the earth we hear singing: \"Glory to the Righteous One.\" But I said, \"I waste away, I waste away! Woe to me! The treacherous betray! With treachery the treacherous betray!\"", Ind:""},
   {Bible:"Isaiah", Chapter:24, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Terror and pit and snare await you, O people of the earth.", Ind:""},
   {Bible:"Isaiah", Chapter:24, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Whoever flees at the sound of terror will fall into a pit; whoever climbs out of the pit will be caught in a snare. The floodgates of the heavens are opened, the foundations of the earth shake.", Ind:""},
   {Bible:"Isaiah", Chapter:24, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The earth is broken up, the earth is split asunder, the earth is thoroughly shaken.", Ind:""},

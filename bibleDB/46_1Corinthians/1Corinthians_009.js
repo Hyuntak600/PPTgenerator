@@ -1,6 +1,32 @@
-// 고린도전서 9장 · 1 Corinthians 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Corinthians",9,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 고린도전서 9장 · 1Corinthians 9
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Corinthians",9,27);
 BibleDB.add([
+  {Bible:"1Corinthians", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not the result of my work in the Lord?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Even though I may not be an apostle to others, surely I am to you! For you are the seal of my apostleship in the Lord.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"This is my defense to those who sit in judgment on me.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Don't we have the right to food and drink?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Don't we have the right to take a believing wife along with us, as do the other apostles and the Lord's brothers and Cephas?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Or is it only I and Barnabas who must work for a living?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its grapes? Who tends a flock and does not drink of the milk?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Do I say this merely from a human point of view? Doesn't the Law say the same thing?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For it is written in the Law of Moses: \"Do not muzzle an ox while it is treading out the grain.\" Is it about oxen that God is concerned?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Surely he says this for us, doesn't he? Yes, this was written for us, because when the plowman plows and the thresher threshes, they ought to do so in the hope of sharing in the harvest.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If we have sown spiritual seed among you, is it too much if we reap a material harvest from you?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If others have this right of support from you, shouldn't we have it all the more? But we did not use this right. On the contrary, we put up with anything rather than hinder the gospel of Christ.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Don't you know that those who work in the temple get their food from the temple, and those who serve at the altar share in what is offered on the altar?", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"In the same way, the Lord has commanded that those who preach the gospel should receive their living from the gospel.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But I have not used any of these rights. And I am not writing this in the hope that you will do such things for me. I would rather die than have anyone deprive me of this boast.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Yet when I preach the gospel, I cannot boast, for I am compelled to preach. Woe to me if I do not preach the gospel!", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"If I preach voluntarily, I have a reward; if not voluntarily, I am simply discharging the trust committed to me.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"What then is my reward? Just this: that in preaching the gospel I may offer it free of charge, and so not make use of my rights in preaching it.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Though I am free and belong to no man, I make myself a slave to everyone, to win as many as possible.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"To those not having the law I became like one not having the law (though I am not free from God's law but am under Christ's law), so as to win those not having the law.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"To the weak I became weak, to win the weak. I have become all things to all men so that by all possible means I might save some.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I do all this for the sake of the gospel, that I may share in its blessings.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Everyone who competes in the games goes into strict training. They do it to get a crown that will not last; but we do it to get a crown that will last forever.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Therefore I do not run like a man running aimlessly; I do not fight like a man beating the air.", Ind:""},
+  {Bible:"1Corinthians", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"No, I beat my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize.", Ind:""},
 ]);

@@ -1,5 +1,5 @@
 // 잠언 12장 · Proverbs 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",12,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Whoever loves discipline loves knowledge, but he who hates correction is stupid.", Ind:""},

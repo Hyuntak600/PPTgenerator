@@ -1,6 +1,32 @@
-// 사무엘상 10장 · 1 Samuel 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 10장 · 1Samuel 10
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",10,27);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Samuel took a flask of oil and poured it on Saul's head and kissed him, saying, \"Has not the LORD anointed you leader over his inheritance?", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When you leave me today, you will meet two men near Rachel's tomb, at Zelzah on the border of Benjamin. They will say to you, 'The donkeys you set out to look for have been found. And now your father has stopped thinking about them and is worried about you. He is asking, \"What shall I do about my son?\"'", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"Then you will go on from there until you reach the great tree of Tabor. Three men going up to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They will greet you and offer you two loaves of bread, which you will accept from them.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"\"After that you will go to Gibeah of God, where there is a Philistine outpost. As you approach the town, you will meet a procession of prophets coming down from the high place with lyres, tambourines, flutes and harps being played before them, and they will be prophesying.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The Spirit of the LORD will come upon you in power, and you will prophesy with them; and you will be changed into a different person.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Once these signs are fulfilled, do whatever your hand finds to do, for God is with you.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"\"Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but you must wait seven days until I come to you and tell you what you are to do.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"As Saul turned to leave Samuel, God changed Saul's heart, and all these signs were fulfilled that day.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When they arrived at Gibeah, a procession of prophets met him; the Spirit of God came upon him in power, and he joined in their prophesying.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When all those who had formerly known him saw him prophesying with the prophets, they asked each other, \"What is this that has happened to the son of Kish? Is Saul also among the prophets?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A man who lived there answered, \"And who is their father?\" So it became a saying: \"Is Saul also among the prophets?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"After Saul stopped prophesying, he went to the high place.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Now Saul's uncle asked him and his servant, \"Where have you been?\" \"Looking for the donkeys,\" he said. \"But when we saw they were not to be found, we went to Samuel.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Saul's uncle said, \"Tell me what Samuel said to you.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Saul replied, \"He assured us that the donkeys had been found.\" But he did not tell his uncle what Samuel had said about the kingship.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Samuel summoned the people of Israel to the LORD at Mizpah", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"and said to them, \"This is what the LORD, the God of Israel, says: 'I brought Israel up out of Egypt, and I delivered you from the power of Egypt and all the kingdoms that oppressed you.'", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But you have now rejected your God, who saves you out of all your calamities and distresses. And you have said, 'No, set a king over us.' So now present yourselves before the LORD by your tribes and clans.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When Samuel brought all the tribes of Israel near, the tribe of Benjamin was chosen.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then he brought forward the tribe of Benjamin, clan by clan, and Matri's clan was chosen. Finally Saul son of Kish was chosen. But when they looked for him, he was not to be found.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So they inquired further of the LORD, \"Has the man come here yet?\" And the LORD said, \"Yes, he has hidden himself among the baggage.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They ran and brought him out, and as he stood among the people he was a head taller than any of the others.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Samuel said to all the people, \"Do you see the man the LORD has chosen? There is no one like him among all the people.\" Then the people shouted, \"Long live the king!\"", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Samuel explained to the people the regulations of the kingship. He wrote them down on a scroll and deposited it before the LORD. Then Samuel dismissed the people, each to his own home.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Saul also went to his home in Gibeah, accompanied by valiant men whose hearts God had touched.", Ind:""},
+  {Bible:"1Samuel", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But some troublemakers said, \"How can this fellow save us?\" They despised him and brought him no gifts. But Saul kept silent. 1SA", Ind:""},
 ]);

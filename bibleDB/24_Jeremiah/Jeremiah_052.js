@@ -1,6 +1,6 @@
 // 예레미야 52장 · Jeremiah 52
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
-BibleDB.ref("Jeremiah",52,28);
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("Jeremiah",52,33);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:52, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah.", Ind:""},
   {Bible:"Jeremiah", Chapter:52, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He did evil in the eyes of the LORD, just as Jehoiakim had done.", Ind:""},
@@ -30,4 +30,9 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:52, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah.", Ind:""},
   {Bible:"Jeremiah", Chapter:52, Verse:27, Page:1, Kor:"", Chn:"", Eng:"There at Riblah, in the land of Hamath, the king had them executed. So Judah went into captivity, away from her land.", Ind:""},
   {Bible:"Jeremiah", Chapter:52, Verse:28, Page:1, Kor:"", Chn:"", Eng:"This is the number of the people Nebuchadnezzar carried into exile: in the seventh year,", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:29, Page:1, Kor:"", Chn:"", Eng:"in Nebuchadnezzar's eighteenth year, 832 people from Jerusalem;", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:30, Page:1, Kor:"", Chn:"", Eng:"in his twenty-third year, 745 Jews taken into exile by Nebuzaradan the commander of the imperial guard. There were 4,600 people in all.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:31, Page:1, Kor:"", Chn:"", Eng:"In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin king of Judah and freed him from prison on the twenty-fifth day of the twelfth month.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:33, Page:1, Kor:"", Chn:"", Eng:"So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table.", Ind:""},
 ]);

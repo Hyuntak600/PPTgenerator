@@ -1,5 +1,5 @@
 // 시편 78장 · Psalms 78
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",78,72);
 BibleDB.add([
   {Bible:"Psalms", Chapter:78, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O my people, hear my teaching; listen to the words of my mouth.", Ind:""},
@@ -20,8 +20,8 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:78, Verse:16, Page:1, Kor:"", Chn:"", Eng:"he brought streams out of a rocky crag and made water flow down like rivers.", Ind:""},
   {Bible:"Psalms", Chapter:78, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But they continued to sin against him, rebelling in the desert against the Most High.", Ind:""},
   {Bible:"Psalms", Chapter:78, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They willfully put God to the test by demanding the food they craved.", Ind:""},
-  {Bible:"Psalms", Chapter:78, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They spoke against God, saying, "Can God spread a table in the desert?", Ind:""},
-  {Bible:"Psalms", Chapter:78, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When he struck the rock, water gushed out, and streams flowed abundantly. But can he also give us food? Can he supply meat for his people?"", Ind:""},
+  {Bible:"Psalms", Chapter:78, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They spoke against God, saying, \"Can God spread a table in the desert?", Ind:""},
+  {Bible:"Psalms", Chapter:78, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When he struck the rock, water gushed out, and streams flowed abundantly. But can he also give us food? Can he supply meat for his people?\"", Ind:""},
   {Bible:"Psalms", Chapter:78, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When the LORD heard them, he was very angry; his fire broke out against Jacob, and his wrath rose against Israel,", Ind:""},
   {Bible:"Psalms", Chapter:78, Verse:22, Page:1, Kor:"", Chn:"", Eng:"for they did not believe in God or trust in his deliverance.", Ind:""},
   {Bible:"Psalms", Chapter:78, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Yet he gave a command to the skies above and opened the doors of the heavens;", Ind:""},

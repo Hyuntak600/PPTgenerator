@@ -1,5 +1,5 @@
 // 잠언 28장 · Proverbs 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",28,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The wicked man flees though no one pursues, but the righteous are as bold as a lion.", Ind:""},
@@ -25,7 +25,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"To show partiality is not good--yet a man will do wrong for a piece of bread.", Ind:""},
   {Bible:"Proverbs", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A stingy man is eager to get rich and is unaware that poverty awaits him.", Ind:""},
   {Bible:"Proverbs", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He who rebukes a man will in the end gain more favor than he who has a flattering tongue.", Ind:""},
-  {Bible:"Proverbs", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He who robs his father or mother and says, "It's not wrong"--he is partner to him who destroys.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He who robs his father or mother and says, \"It's not wrong\"--he is partner to him who destroys.", Ind:""},
   {Bible:"Proverbs", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A greedy man stirs up dissension, but he who trusts in the LORD will prosper.", Ind:""},
   {Bible:"Proverbs", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He who trusts in himself is a fool, but he who walks in wisdom is kept safe.", Ind:""},
   {Bible:"Proverbs", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses.", Ind:""},

@@ -1,5 +1,5 @@
 // 시편 100장 · Psalms 100
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",100,5);
 BibleDB.add([
   {Bible:"Psalms", Chapter:100, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Shout for joy to the LORD, all the earth.", Ind:""},

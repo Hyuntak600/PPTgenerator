@@ -1,10 +1,10 @@
 // 에베소서 6장 · Ephesians 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ephesians",6,23);
 BibleDB.add([
   {Bible:"Ephesians", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Children, obey your parents in the Lord, for this is right.", Ind:""},
-  {Bible:"Ephesians", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Honor your father and mother"--which is the first commandment with a promise--", Ind:""},
-  {Bible:"Ephesians", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:""that it may go well with you and that you may enjoy long life on the earth."", Ind:""},
+  {Bible:"Ephesians", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Honor your father and mother\"--which is the first commandment with a promise--", Ind:""},
+  {Bible:"Ephesians", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"that it may go well with you and that you may enjoy long life on the earth.\"", Ind:""},
   {Bible:"Ephesians", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.", Ind:""},
   {Bible:"Ephesians", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.", Ind:""},
   {Bible:"Ephesians", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Obey them not only to win their favor when their eye is on you, but like slaves of Christ, doing the will of God from your heart.", Ind:""},

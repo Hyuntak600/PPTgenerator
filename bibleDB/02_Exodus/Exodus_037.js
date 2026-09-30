@@ -1,5 +1,5 @@
 // 출애굽기 37장 · Exodus 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Exodus",37,29);
 BibleDB.add([
   {Bible:"Exodus", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Bezalel made the ark of acacia wood--two and a half cubits long, a cubit and a half wide, and a cubit and a half high.", Ind:""},

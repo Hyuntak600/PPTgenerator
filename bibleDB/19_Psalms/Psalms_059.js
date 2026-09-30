@@ -1,5 +1,5 @@
 // 시편 59장 · Psalms 59
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",59,17);
 BibleDB.add([
   {Bible:"Psalms", Chapter:59, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Deliver me from my enemies, O God; protect me from those who rise up against me.", Ind:""},
@@ -8,7 +8,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:59, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I have done no wrong, yet they are ready to attack me. Arise to help me; look on my plight!", Ind:""},
   {Bible:"Psalms", Chapter:59, Verse:5, Page:1, Kor:"", Chn:"", Eng:"O LORD God Almighty, the God of Israel, rouse yourself to punish all the nations; show no mercy to wicked traitors. Selah", Ind:""},
   {Bible:"Psalms", Chapter:59, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They return at evening, snarling like dogs, and prowl about the city.", Ind:""},
-  {Bible:"Psalms", Chapter:59, Verse:7, Page:1, Kor:"", Chn:"", Eng:"See what they spew from their mouths--they spew out swords from their lips, and they say, "Who can hear us?"", Ind:""},
+  {Bible:"Psalms", Chapter:59, Verse:7, Page:1, Kor:"", Chn:"", Eng:"See what they spew from their mouths--they spew out swords from their lips, and they say, \"Who can hear us?\"", Ind:""},
   {Bible:"Psalms", Chapter:59, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But you, O LORD, laugh at them; you scoff at all those nations.", Ind:""},
   {Bible:"Psalms", Chapter:59, Verse:9, Page:1, Kor:"", Chn:"", Eng:"O my Strength, I watch for you; you, O God, are my fortress,", Ind:""},
   {Bible:"Psalms", Chapter:59, Verse:10, Page:1, Kor:"", Chn:"", Eng:"my loving God. God will go before me and will let me gloat over those who slander me.", Ind:""},

@@ -1,6 +1,26 @@
-// 사무엘상 6장 · 1 Samuel 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 6장 · 1Samuel 6
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",6,21);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When the ark of the LORD had been in Philistine territory seven months,", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"the Philistines called for the priests and the diviners and said, \"What shall we do with the ark of the LORD? Tell us how we should send it back to its place.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They answered, \"If you return the ark of the god of Israel, do not send it away empty, but by all means send a guilt offering to him. Then you will be healed, and you will know why his hand has not been lifted from you.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The Philistines asked, \"What guilt offering should we send to him?\" They replied, \"Five gold tumors and five gold rats, according to the number of the Philistine rulers, because the same plague has struck both you and your rulers.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Make models of the tumors and of the rats that are destroying the country, and pay honor to Israel's god. Perhaps he will lift his hand from you and your gods and your land.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Why do you harden your hearts as the Egyptians and Pharaoh did? When he treated them harshly, did they not send the Israelites out so they could go on their way?", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Now then, get a new cart ready, with two cows that have calved and have never been yoked. Hitch the cows to the cart, but take their calves away and pen them up.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Take the ark of the LORD and put it on the cart, and in a chest beside it put the gold objects you are sending back to him as a guilt offering. Send it on its way,", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"but keep watching it. If it goes up to its own territory, toward Beth Shemesh, then the LORD has brought this great disaster on us. But if it does not, then we will know that it was not his hand that struck us and that it happened to us by chance.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So they did this. They took two such cows and hitched them to the cart and penned up their calves.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They placed the ark of the LORD on the cart and along with it the chest containing the gold rats and the models of the tumors.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the cows went straight up toward Beth Shemesh, keeping on the road and lowing all the way; they did not turn to the right or to the left. The rulers of the Philistines followed them to the boder of Beth-shemesh.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Now the people of Beth-shemesh were reaping their wheat harvest in the valley, and they raised their eyes and saw the ark and were glad to see it.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"And the cart came into the field of Joshua the Beth-shemite and stood there where there was a large stone; and they split the wood of the cart and offered the cows as a burnt offering to the LORD.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And the Levites took down the ark of the LORD and the box that was with it, in which were the articles of gold, and put them on the large rock. On that day the people of Beth Shemesh offered burnt offerings and made sacrifices to the LORD.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The five rulers of the Philistines saw all this and then returned that same day to Ekron.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"These are the gold tumors the Philistines sent as a guilt offering to the LORD--one each for Ashdod, Gaza, Ashkelon, Gath and Ekron.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And the number of the gold rats was according to the number of Philistine towns belonging to the five rulers--the fortified towns with their country villages. The large rock, on which they set the ark of the LORD, is a witness to this day in the field of Joshua of Beth Shemesh.", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But God struck down some of the men of Beth Shemesh, putting seventy of them to death because they had looked into the ark of the LORD. The people mourned because of the heavy blow the LORD had dealt them,", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and the men of Beth Shemesh asked, \"Who can stand in the presence of the LORD, this holy God? To whom will the ark go up from here?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then they sent messengers to the people of Kiriath Jearim, saying, \"The Philistines have returned the ark of the LORD. Come down and take it up to your place.\"", Ind:""},
 ]);

@@ -1,6 +1,36 @@
-// 역대상 24장 · 1 Chronicles 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",24,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 24장 · 1Chronicles 24
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",24,31);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"David, together with the commanders of the army, set apart some of the sons of Asaph, Heman and Jeduthun for the ministry of prophesying, accompanied by harps, lyres and cymbals. Here is the list of the men who performed this service:", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:2, Page:1, Kor:"", Chn:"", Eng:"From the sons of Asaph: Zaccur, Joseph, Nethaniah and Asarelah. The sons of Asaph were under the supervision of Asaph, who prophesied under the king's supervision.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:3, Page:1, Kor:"", Chn:"", Eng:"As for Jeduthun, from his sons: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the LORD.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:4, Page:1, Kor:"", Chn:"", Eng:"As for Heman, from his sons: Bukkiah, Mattaniah, Uzziel, Shubael and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti and Romamti-Ezer; Joshbekashah, Mallothi, Hothir and Mahazioth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:5, Page:1, Kor:"", Chn:"", Eng:"All these were sons of Heman the king's seer. They were given him through the promises of God to exalt him. God gave Heman fourteen sons and three daughters.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:6, Page:1, Kor:"", Chn:"", Eng:"All these men were under the supervision of their fathers for the music of the temple of the LORD, with cymbals, lyres and harps, for the ministry at the house of God. Asaph, Jeduthun and Heman were under the supervision of the king.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Along with their relatives--all of them trained and skilled in music for the LORD--they numbered 288.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Young and old alike, teacher as well as student, cast lots for their duties.", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The first lot, which was for Asaph, fell to Joseph, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"the fifth to Nethaniah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:10, Page:1, Kor:"", Chn:"", Eng:"the third to Zaccur, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:11, Page:1, Kor:"", Chn:"", Eng:"the fourth to Izri, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:"the sixth to Bukkiah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:"the seventh to Jesarelah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"the eighth to Jeshaiah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the ninth to Mattaniah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:17, Page:1, Kor:"", Chn:"", Eng:"the tenth to Shimei, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:18, Page:1, Kor:"", Chn:"", Eng:"the eleventh to Azarel, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:19, Page:1, Kor:"", Chn:"", Eng:"the twelfth to Hashabiah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:20, Page:1, Kor:"", Chn:"", Eng:"the thirteenth to Shubael, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:21, Page:1, Kor:"", Chn:"", Eng:"the fourteenth to Mattithiah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:22, Page:1, Kor:"", Chn:"", Eng:"the fifteenth to Jerimoth, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:23, Page:1, Kor:"", Chn:"", Eng:"the sixteenth to Hananiah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"the seventeenth to Joshbekashah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:25, Page:1, Kor:"", Chn:"", Eng:"the eighteenth to Hanani, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:26, Page:1, Kor:"", Chn:"", Eng:"the nineteenth to Mallothi, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:27, Page:1, Kor:"", Chn:"", Eng:"the twentieth to Eliathah, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:28, Page:1, Kor:"", Chn:"", Eng:"the twenty-first to Hothir, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:29, Page:1, Kor:"", Chn:"", Eng:"the twenty-second to Giddalti, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:30, Page:1, Kor:"", Chn:"", Eng:"the twenty-third to Mahazioth, his sons and relatives,", Ind:""},
+  {Bible:"1Chronicles", Chapter:24, Verse:31, Page:1, Kor:"", Chn:"", Eng:"the twenty-fourth to Romamti-Ezer, his sons and relatives,", Ind:""},
 ]);

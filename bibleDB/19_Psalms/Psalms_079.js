@@ -1,5 +1,5 @@
 // 시편 79장 · Psalms 79
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",79,13);
 BibleDB.add([
   {Bible:"Psalms", Chapter:79, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O God, the nations have invaded your inheritance; they have defiled your holy temple, they have reduced Jerusalem to rubble.", Ind:""},
@@ -11,7 +11,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:79, Verse:7, Page:1, Kor:"", Chn:"", Eng:"for they have devoured Jacob and destroyed his homeland.", Ind:""},
   {Bible:"Psalms", Chapter:79, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Do not hold against us the sins of the fathers; may your mercy come quickly to meet us, for we are in desperate need.", Ind:""},
   {Bible:"Psalms", Chapter:79, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Help us, O God our Savior, for the glory of your name; deliver us and forgive our sins for your name's sake.", Ind:""},
-  {Bible:"Psalms", Chapter:79, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Why should the nations say, "Where is their God?" Before our eyes, make known among the nations that you avenge the outpoured blood of your servants.", Ind:""},
+  {Bible:"Psalms", Chapter:79, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Why should the nations say, \"Where is their God?\" Before our eyes, make known among the nations that you avenge the outpoured blood of your servants.", Ind:""},
   {Bible:"Psalms", Chapter:79, Verse:11, Page:1, Kor:"", Chn:"", Eng:"May the groans of the prisoners come before you; by the strength of your arm preserve those condemned to die.", Ind:""},
   {Bible:"Psalms", Chapter:79, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Pay back into the laps of our neighbors seven times the reproach they have hurled at you, O Lord.", Ind:""},
   {Bible:"Psalms", Chapter:79, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then we your people, the sheep of your pasture, will praise you forever; from generation to generation we will recount your praise.", Ind:""},

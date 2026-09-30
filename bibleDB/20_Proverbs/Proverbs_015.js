@@ -1,5 +1,5 @@
 // 잠언 15장 · Proverbs 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",15,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A gentle answer turns away wrath, but a harsh word stirs up anger.", Ind:""},

@@ -1,5 +1,5 @@
 // 잠언 25장 · Proverbs 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",25,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are more proverbs of Solomon, copied by the men of Hezekiah king of Judah:", Ind:""},
@@ -8,7 +8,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Remove the dross from the silver, and out comes material for the silversmith;", Ind:""},
   {Bible:"Proverbs", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"remove the wicked from the king's presence, and his throne will be established through righteousness.", Ind:""},
   {Bible:"Proverbs", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not exalt yourself in the king's presence, and do not claim a place among great men;", Ind:""},
-  {Bible:"Proverbs", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"it is better for him to say to you, "Come up here," than for him to humiliate you before a nobleman. What you have seen with your eyes", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"it is better for him to say to you, \"Come up here,\" than for him to humiliate you before a nobleman. What you have seen with your eyes", Ind:""},
   {Bible:"Proverbs", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?", Ind:""},
   {Bible:"Proverbs", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If you argue your case with a neighbor, do not betray another man's confidence,", Ind:""},
   {Bible:"Proverbs", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:"or he who hears it may shame you and you will never lose your bad reputation.", Ind:""},

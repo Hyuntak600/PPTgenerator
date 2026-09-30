@@ -1,5 +1,5 @@
 // 골로새서 3장 · Colossians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Colossians",3,25);
 BibleDB.add([
   {Bible:"Colossians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.", Ind:""},

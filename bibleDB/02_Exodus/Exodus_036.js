@@ -1,13 +1,13 @@
 // 출애굽기 36장 · Exodus 36
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Exodus",36,38);
 BibleDB.add([
-  {Bible:"Exodus", Chapter:36, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded."", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded.\"", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then Moses summoned Bezalel and Oholiab and every skilled person to whom the LORD had given ability and who was willing to come and do the work.", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They received from Moses all the offerings the Israelites had brought to carry out the work of constructing the sanctuary. And the people continued to bring freewill offerings morning after morning.", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So all the skilled craftsmen who were doing all the work on the sanctuary left their work", Ind:""},
-  {Bible:"Exodus", Chapter:36, Verse:5, Page:1, Kor:"", Chn:"", Eng:"and said to Moses, "The people are bringing more than enough for doing the work the LORD commanded to be done."", Ind:""},
-  {Bible:"Exodus", Chapter:36, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses gave an order and they sent this word throughout the camp: "No man or woman is to make anything else as an offering for the sanctuary." And so the people were restrained from bringing more,", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:5, Page:1, Kor:"", Chn:"", Eng:"and said to Moses, \"The people are bringing more than enough for doing the work the LORD commanded to be done.\"", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses gave an order and they sent this word throughout the camp: \"No man or woman is to make anything else as an offering for the sanctuary.\" And so the people were restrained from bringing more,", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:7, Page:1, Kor:"", Chn:"", Eng:"because what they already had was more than enough to do all the work.", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All the skilled men among the workmen made the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.", Ind:""},
   {Bible:"Exodus", Chapter:36, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the curtains were the same size--twenty-eight cubits long and four cubits wide.", Ind:""},

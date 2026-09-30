@@ -1,11 +1,11 @@
 // 민수기 26장 · Numbers 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Numbers",26,65);
 BibleDB.add([
   {Bible:"Numbers", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After the plague the LORD said to Moses and Eleazar son of Aaron, the priest,", Ind:""},
-  {Bible:"Numbers", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Take a census of the whole Israelite community by families--all those twenty years old or more who are able to serve in the army of Israel."", Ind:""},
+  {Bible:"Numbers", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Take a census of the whole Israelite community by families--all those twenty years old or more who are able to serve in the army of Israel.\"", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So on the plains of Moab by the Jordan across from Jericho, Moses and Eleazar the priest spoke with them and said,", Ind:""},
-  {Bible:"Numbers", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Take a census of the men twenty years old or more, as the LORD commanded Moses." These were the Israelites who came out of Egypt:", Ind:""},
+  {Bible:"Numbers", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"Take a census of the men twenty years old or more, as the LORD commanded Moses.\" These were the Israelites who came out of Egypt:", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The descendants of Reuben, the firstborn son of Israel, were: through Hanoch, the Hanochite clan; through Pallu, the Palluite clan;", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"through Hezron, the Hezronite clan; through Carmi, the Carmite clan.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:"These were the clans of Reuben; those numbered were 43,730.", Ind:""},
@@ -54,10 +54,10 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:26, Verse:50, Page:1, Kor:"", Chn:"", Eng:"These were the clans of Naphtali; those numbered were 45,400.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:51, Page:1, Kor:"", Chn:"", Eng:"The total number of the men of Israel was 601,730.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:52, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
-  {Bible:"Numbers", Chapter:26, Verse:53, Page:1, Kor:"", Chn:"", Eng:""The land is to be allotted to them as an inheritance based on the number of names.", Ind:""},
+  {Bible:"Numbers", Chapter:26, Verse:53, Page:1, Kor:"", Chn:"", Eng:"\"The land is to be allotted to them as an inheritance based on the number of names.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:54, Page:1, Kor:"", Chn:"", Eng:"To a larger group give a larger inheritance, and to a smaller group a smaller one; each is to receive its inheritance according to the number of those listed.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:55, Page:1, Kor:"", Chn:"", Eng:"Be sure that the land is distributed by lot. What each group inherits will be according to the names for its ancestral tribe.", Ind:""},
-  {Bible:"Numbers", Chapter:26, Verse:56, Page:1, Kor:"", Chn:"", Eng:"Each inheritance is to be distributed by lot among the larger and smaller groups."", Ind:""},
+  {Bible:"Numbers", Chapter:26, Verse:56, Page:1, Kor:"", Chn:"", Eng:"Each inheritance is to be distributed by lot among the larger and smaller groups.\"", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:57, Page:1, Kor:"", Chn:"", Eng:"These were the Levites who were counted by their clans: through Gershon, the Gershonite clan; through Kohath, the Kohathite clan; through Merari, the Merarite clan.", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:58, Page:1, Kor:"", Chn:"", Eng:"These also were Levite clans: the Libnite clan, the Hebronite clan, the Mahlite clan, the Mushite clan, the Korahite clan. (Kohath was the forefather of Amram;", Ind:""},
   {Bible:"Numbers", Chapter:26, Verse:59, Page:1, Kor:"", Chn:"", Eng:"the name of Amram's wife was Jochebed, a descendant of Levi, who was born to the Levites in Egypt. To Amram she bore Aaron, Moses and their sister Miriam.", Ind:""},

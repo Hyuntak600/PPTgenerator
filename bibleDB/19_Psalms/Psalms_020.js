@@ -1,5 +1,5 @@
 // 시편 20장 · Psalms 20
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",20,9);
 BibleDB.add([
   {Bible:"Psalms", Chapter:20, Verse:1, Page:1, Kor:"", Chn:"", Eng:"May the LORD answer you when you are in distress; may the name of the God of Jacob protect you.", Ind:""},

@@ -1,5 +1,5 @@
 // 잠언 18장 · Proverbs 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",18,24);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"An unfriendly man pursues selfish ends; he defies all sound judgment.", Ind:""},

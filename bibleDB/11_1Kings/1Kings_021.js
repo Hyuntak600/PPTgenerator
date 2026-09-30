@@ -1,6 +1,34 @@
-// 열왕기상 21장 · 1 Kings 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",21,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 21장 · 1Kings 21
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",21,29);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Some time later there was an incident involving a vineyard belonging to Naboth the Jezreelite. The vineyard was in Jezreel, close to the palace of Ahab king of Samaria.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Ahab said to Naboth, \"Let me have your vineyard to use for a vegetable garden, since it is close to my palace. In exchange I will give you a better vineyard or, if you prefer, I will pay you whatever it is worth.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But Naboth replied, \"The LORD forbid that I should give you the inheritance of my fathers.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So Ahab went home, sullen and angry because Naboth the Jezreelite had said, \"I will not give you the inheritance of my fathers.\" He lay on his bed sulking and refused to eat.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"His wife Jezebel came in and asked him, \"Why are you so sullen? Why won't you eat?\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He answered her, \"Because I said to Naboth the Jezreelite, 'Sell me your vineyard; or if you prefer, I will give you another vineyard in its place.' But he said, 'I will not give you my vineyard.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jezebel his wife said, \"Is this how you act as king over Israel? Get up and eat! Cheer up. I'll get you the vineyard of Naboth the Jezreelite.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So she wrote letters in Ahab's name, placed his seal on them, and sent them to the elders and nobles who lived in Naboth's city with him.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:9, Page:1, Kor:"", Chn:"", Eng:"In those letters she wrote: \"Proclaim a day of fasting and seat Naboth in a prominent place among the people.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But seat two scoundrels opposite him and have them testify that he has cursed both God and the king. Then take him out and stone him to death.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So the elders and nobles who lived in Naboth's city did as Jezebel directed in the letters she had written to them.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They proclaimed a fast and seated Naboth in a prominent place among the people.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then two scoundrels came and sat opposite him and brought charges against Naboth before the people, saying, \"Naboth has cursed both God and the king.\" So they took him outside the city and stoned him to death.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then they sent word to Jezebel: \"Naboth has been stoned and is dead.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"As soon as Jezebel heard that Naboth had been stoned to death, she said to Ahab, \"Get up and take possession of the vineyard of Naboth the Jezreelite that he refused to sell you. He is no longer alive, but dead.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When Ahab heard that Naboth was dead, he got up and went down to take possession of Naboth's vineyard.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to Elijah the Tishbite:", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:18, Page:1, Kor:"", Chn:"", Eng:"\"Go down to meet Ahab king of Israel, who rules in Samaria. He is now in Naboth's vineyard, where he has gone to take possession of it.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Say to him, 'This is what the LORD says: Have you not murdered a man and seized his property?' Then say to him, 'This is what the LORD says: In the place where dogs licked up Naboth's blood, dogs will lick up your blood--yes, yours!'\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Ahab said to Elijah, \"So you have found me, my enemy!\" \"I have found you,\" he answered, \"because you have sold yourself to do evil in the eyes of the LORD.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"'I am going to bring disaster on you. I will consume your descendants and cut off from Ahab every last male in Israel--slave or free.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I will make your house like that of Jeroboam son of Nebat and that of Baasha son of Ahijah, because you have provoked me to anger and have caused Israel to sin.'", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"And also concerning Jezebel the LORD says: 'Dogs will devour Jezebel by the wall of Jezreel.'", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"\"Dogs will eat those belonging to Ahab who die in the city, and the birds of the air will feed on those who die in the country.\"", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:"(There was never a man like Ahab, who sold himself to do evil in the eyes of the LORD, urged on by Jezebel his wife.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He behaved in the vilest manner by going after idols, like the Amorites the LORD drove out before Israel.)", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"When Ahab heard these words, he tore his clothes, put on sackcloth and fasted. He lay in sackcloth and went around meekly.", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to Elijah the Tishbite:", Ind:""},
+  {Bible:"1Kings", Chapter:21, Verse:29, Page:1, Kor:"", Chn:"", Eng:"\"Have you noticed how Ahab has humbled himself before me? Because he has humbled himself, I will not bring this disaster in his day, but I will bring it on his house in the days of his son.\"", Ind:""},
 ]);

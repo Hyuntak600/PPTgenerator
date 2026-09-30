@@ -1,5 +1,5 @@
 // 야고보서 3장 · James 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("James",3,18);
 BibleDB.add([
   {Bible:"James", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Not many of you should presume to be teachers, my brothers, because you know that we who teach will be judged more strictly.", Ind:""},
@@ -16,7 +16,7 @@ BibleDB.add([
   {Bible:"James", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"My brothers, can a fig tree bear olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.", Ind:""},
   {Bible:"James", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Who is wise and understanding among you? Let him show it by his good life, by deeds done in the humility that comes from wisdom.", Ind:""},
   {Bible:"James", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"But if you harbor bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.", Ind:""},
-  {Bible:"James", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Such "wisdom" does not come down from heaven but is earthly, unspiritual, of the devil.", Ind:""},
+  {Bible:"James", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Such \"wisdom\" does not come down from heaven but is earthly, unspiritual, of the devil.", Ind:""},
   {Bible:"James", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For where you have envy and selfish ambition, there you find disorder and every evil practice.", Ind:""},
   {Bible:"James", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.", Ind:""},
   {Bible:"James", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Peacemakers who sow in peace raise a harvest of righteousness.", Ind:""},

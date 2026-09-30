@@ -1,22 +1,22 @@
 // 에스겔 7장 · Ezekiel 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezekiel",7,27);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, this is what the Sovereign LORD says to the land of Israel: The end! The end has come upon the four corners of the land.", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Son of man, this is what the Sovereign LORD says to the land of Israel: The end! The end has come upon the four corners of the land.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The end is now upon you and I will unleash my anger against you. I will judge you according to your conduct and repay you for all your detestable practices.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will not look on you with pity or spare you; I will surely repay you for your conduct and the detestable practices among you. Then you will know that I am the LORD.", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:""This is what the Sovereign LORD says: Disaster! An unheard-of disaster is coming.", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"\"This is what the Sovereign LORD says: Disaster! An unheard-of disaster is coming.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The end has come! The end has come! It has roused itself against you. It has come!", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Doom has come upon you--you who dwell in the land. The time has come, the day is near; there is panic, not joy, upon the mountains.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I am about to pour out my wrath on you and spend my anger against you; I will judge you according to your conduct and repay you for all your detestable practices.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I will not look on you with pity or spare you; I will repay you in accordance with your conduct and the detestable practices among you. Then you will know that it is I the LORD who strikes the blow.", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:""The day is here! It has coma! Doom has burst forth, the rod has budded, arrogance has blossomed!", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"The day is here! It has coma! Doom has burst forth, the rod has budded, arrogance has blossomed!", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Violence has grown into a rod to punish wickedness; none of the people will be left, none of that crowd--no wealth, nothing of value.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The time has come, the day has arrived. Let not the buyer rejoice nor the seller grieve, for wrath is upon the whole crowd.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The seller will not recover the land he has sold as long as both of them live, for the vision concerning the whole crowd will not be reversed. Because of their sins, not one of them will preserve his life.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Though they blow the trumpet and get everything ready, no one will go into battle, for my wrath is upon the whole crowd.", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Outside is the sword, inside are plague and famine; those in the country will die by the sword, and those in the city will be devoured by famine and plague.", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"\"Outside is the sword, inside are plague and famine; those in the country will die by the sword, and those in the city will be devoured by famine and plague.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"All who survive and escape will be in the mountains, moaning like doves of the valleys, each because of his sins.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Every hand will go limp, and every knee will become as weak as water.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They will put on sackcloth and be clothed with terror. Their faces will be covered with shame and their heads will be shaved.", Ind:""},
@@ -24,9 +24,9 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They were proud of their beautiful jewelry and used it to make their detestable idols and vile images. Therefore I will turn these into an unclean thing for them.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I will hand it all over as plunder to foreigners and as loot to the wicked of the earth, and they will defile it.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I will turn my face away from them, and they will desecrate my treasured place; robbers will enter it and desecrate it.", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Prepare chains, because the land is full of bloodshed and the city is full of violence.", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"\"Prepare chains, because the land is full of bloodshed and the city is full of violence.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I will bring the most wicked of the nations to take possession of their houses; I will put an end to the pride of the mighty, and their sanctuaries will be desecrated.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When terror comes, they will seek peace, but there will be none.", Ind:""},
   {Bible:"Ezekiel", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Calamity upon calamity will come, and rumor upon rumor. They will try to get a vision from the prophet; the teaching of the law by the priest will be lost, as will the counsel of the elders.", Ind:""},
-  {Bible:"Ezekiel", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. Then they will know that I am the LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. Then they will know that I am the LORD.\"", Ind:""},
 ]);

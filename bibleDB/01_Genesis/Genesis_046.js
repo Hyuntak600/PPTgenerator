@@ -1,11 +1,11 @@
 // 창세기 46장 · Genesis 46
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",46,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:46, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So Israel set out with all that was his, and when he reached Beersheba, he offered  sacrifices to the God of his father Isaac.", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And God spoke to Israel in a vision at night and said, "Jacob! Jacob!" "Here I am," he  replied.", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:3, Page:1, Kor:"", Chn:"", Eng:""I am God, the God of your father," he said. "Do not be afraid to go down to Egypt, for I  will make you into a great nation there.", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will go down to Egypt with you, and I will surely bring you back again. And Joseph's own  hand will close your eyes."", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And God spoke to Israel in a vision at night and said, \"Jacob! Jacob!\" \"Here I am,\" he  replied.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:3, Page:1, Kor:"", Chn:"", Eng:"\"I am God, the God of your father,\" he said. \"Do not be afraid to go down to Egypt, for I  will make you into a great nation there.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will go down to Egypt with you, and I will surely bring you back again. And Joseph's own  hand will close your eyes.\"", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then Jacob left Beersheba, and Israel's sons took their father Jacob and their children and  their wives in the carts that Pharaoh had sent to transport him.", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They also took with them their livestock and the possessions they had acquired in Canaan,  and Jacob and all his offspring went to Egypt.", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He took with him to Egypt his sons and grandsons and his daughters and granddaughters--all  his offspring.", Ind:""},
@@ -31,9 +31,9 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:46, Verse:27, Page:1, Kor:"", Chn:"", Eng:"With the two sons who had been born to Joseph in Egypt, the members of Jacob's family,  which went to Egypt, were seventy in all.", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Now Jacob sent Judah ahead of him to Joseph to get directions to Goshen. When they arrived  in the region of Goshen,", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Joseph had his chariot made ready and went to Goshen to meet his father Israel. As soon as  Joseph appeared before him, he threw his arms around his father and wept for a long time.", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Israel said to Joseph, "Now I am ready to die, since I have seen for myself that you are  still alive."", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then Joseph said to his brothers and to his father's household, "I will go up and speak to  Pharaoh and will say to him, 'My brothers and my father's household, who were living in the land  of Canaan, have come to me.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Israel said to Joseph, \"Now I am ready to die, since I have seen for myself that you are  still alive.\"", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then Joseph said to his brothers and to his father's household, \"I will go up and speak to  Pharaoh and will say to him, 'My brothers and my father's household, who were living in the land  of Canaan, have come to me.", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The men are shepherds; they tend livestock, and they have brought along their flocks and  herds and everything they own.'", Ind:""},
   {Bible:"Genesis", Chapter:46, Verse:33, Page:1, Kor:"", Chn:"", Eng:"When Pharaoh calls you in and asks, 'What is your occupation?'", Ind:""},
-  {Bible:"Genesis", Chapter:46, Verse:34, Page:1, Kor:"", Chn:"", Eng:"you should answer, 'Your servants have tended livestock from our boyhood on, just as our  fathers did.' Then you will be allowed to settle in the region of Goshen, for all shepherds are  detestable to the Egyptians."", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:34, Page:1, Kor:"", Chn:"", Eng:"you should answer, 'Your servants have tended livestock from our boyhood on, just as our  fathers did.' Then you will be allowed to settle in the region of Goshen, for all shepherds are  detestable to the Egyptians.\"", Ind:""},
 ]);

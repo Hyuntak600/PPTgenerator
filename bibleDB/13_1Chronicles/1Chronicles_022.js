@@ -1,6 +1,37 @@
-// 역대상 22장 · 1 Chronicles 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 22장 · 1Chronicles 22
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",22,32);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When David was old and full of years, he made his son Solomon king over Israel.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He also gathered together all the leaders of Israel, as well as the priests and Levites.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The Levites thirty years old or more were counted, and the total number of men was thirty-eight thousand.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"David said, \"Of these, twenty-four thousand are to supervise the work of the temple of the LORD and six thousand are to be officials and judges.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Four thousand are to be gatekeepers and four thousand are to praise the LORD with the musical instruments I have provided for that purpose.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"David divided the Levites into groups corresponding to the sons of Levi: Gershon, Kohath and Merari.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Belonging to the Gershonites: Ladan and Shimei.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The sons of Ladan: Jehiel the first, Zetham and Joel--three in all.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The sons of Shimei: Shelomoth, Haziel and Haran--three in all. These were the heads of the families of Ladan.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And the sons of Shimei: Jahath, Ziza, Jeush and Beriah. These were the sons of Shimei--four in all.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Jahath was the first and Ziza the second, but Jeush and Beriah did not have many sons; so they were counted as one family with one assignment.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The sons of Kohath: Amram, Izhar, Hebron and Uzziel--four in all.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sons of Amram: Aaron and Moses. Aaron was set apart, he and his descendants forever, to consecrate the most holy things, to offer sacrifices before the LORD, to minister before him and to pronounce blessings in his name forever.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The sons of Moses the man of God were counted as part of the tribe of Levi.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The sons of Moses: Gershom and Eliezer.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The descendants of Gershom: Shubael was the first.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The descendants of Eliezer: Rehabiah was the first. Eliezer had no other sons, but the sons of Rehabiah were very numerous.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The sons of Izhar: Shelomith was the first.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The sons of Uzziel: Micah the first and Isshiah the second.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Eleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The sons of Mushi: Mahli, Eder and Jerimoth--three in all.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"These were the descendants of Levi by their families--the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more who served in the temple of the LORD.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For David had said, \"Since the LORD, the God of Israel, has granted rest to his people and has come to dwell in Jerusalem forever,", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"the Levites no longer need to carry the tabernacle or any of the articles used in its service.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"According to the last instructions of David, the Levites were counted from those twenty years old or more.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The duty of the Levites was to help Aaron's descendants in the service of the temple of the LORD: to be in charge of the courtyards, the side rooms, the purification of all sacred things and the performance of other duties at the house of God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They were in charge of the bread set out on the table, the flour for the grain offerings, the unleavened wafers, the baking and the mixing, and all measurements of quantity and size.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:"They were also to stand every morning to thank and praise the LORD. They were to do the same in the evening", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:31, Page:1, Kor:"", Chn:"", Eng:"and whenever burnt offerings were presented to the LORD on Sabbaths and at New Moon festivals and at appointed feasts. They were to serve before the LORD regularly in the proper number and in the way prescribed for them.", Ind:""},
+  {Bible:"1Chronicles", Chapter:22, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And so the Levites carried out their responsibilities for the Tent of Meeting, for the Holy Place and, under their brothers the descendants of Aaron, for the service of the temple of the LORD.", Ind:""},
 ]);

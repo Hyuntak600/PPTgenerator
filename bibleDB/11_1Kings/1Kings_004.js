@@ -1,6 +1,39 @@
-// 열왕기상 4장 · 1 Kings 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 4장 · 1Kings 4
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",4,34);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So King Solomon ruled over all Israel.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And these were his chief officials: Azariah son of Zadok--the priest;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Elihoreph and Ahijah, sons of Shisha--secretaries; Jehoshaphat son of Ahilud--recorder;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Benaiah son of Jehoiada--commander in chief; Zadok and Abiathar--priests;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Azariah son of Nathan--in charge of the district officers; Zabud son of Nathan--a priest and personal adviser to the king;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Ahishar--in charge of the palace; Adoniram son of Abda--in charge of forced labor.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Solomon also had twelve district governors over all Israel, who supplied provisions for the king and the royal household. Each one had to provide supplies for one month in the year.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"These are their names: Ben-Hur--in the hill country of Ephraim;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Ben-Deker--in Makaz, Shaalbim, Beth Shemesh and Elon Bethhanan;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Ben-Hesed--in Arubboth (Socoh and all the land of Hepher were his);", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Ben-Abinadab--in Naphoth Dor (he was married to Taphath daughter of Solomon);", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Baana son of Ahilud--in Taanach and Megiddo, and in all of Beth Shan next to Zarethan below Jezreel, from Beth Shan to Abel Meholah across to Jokmeam;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Ben-Geber--in Ramoth Gilead (the settlements of Jair son of Manasseh in Gilead were his, as well as the district of Argob in Bashan and its sixty large walled cities with bronze gate bars);", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Ahinadab son of Iddo--in Mahanaim;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Ahimaaz--in Naphtali (he had married Basemath daughter of Solomon);", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Baana son of Hushai--in Asher and in Aloth;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Jehoshaphat son of Paruah--in Issachar;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Shimei son of Ela--in Benjamin;", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Geber son of Uri--in Gilead (the country of Sihon king of the Amorites and the country of Og king of Bashan). He was the only governor over the district.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The people of Judah and Israel were as numerous as the sand on the seashore; they ate, they drank and they were happy.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"And Solomon ruled over all the kingdoms from the River to the land of the Philistines, as far as the border of Egypt. These countries brought tribute and were Solomon's subjects all his life.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Solomon's daily provisions were thirty cors of fine flour and sixty cors of meal,", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For he ruled over all the kingdoms west of the River, from Tiphsah to Gaza, and had peace on all sides.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"During Solomon's lifetime Judah and Israel, from Dan to Beersheba, lived in safety, each man under his own vine and fig tree.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Solomon had four thousand stalls for chariot horses, and twelve thousand horses.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The district officers, each in his month, supplied provisions for King Solomon and all who came to the king's table. They saw to it that nothing was lacking.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Solomon's wisdom was greater than the wisdom of all the men of the East, and greater than all the wisdom of Egypt.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He was wiser than any other man, including Ethan the Ezrahite--wiser than Heman, Calcol and Darda, the sons of Mahol. And his fame spread to all the surrounding nations.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He spoke three thousand proverbs and his songs numbered a thousand and five.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:33, Page:1, Kor:"", Chn:"", Eng:"He described plant life, from the cedar of Lebanon to the hyssop that grows out of walls. He also taught about animals and birds, reptiles and fish.", Ind:""},
+  {Bible:"1Kings", Chapter:4, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Men of all nations came to listen to Solomon's wisdom, sent by all the kings of the world, who had heard of his wisdom.", Ind:""},
 ]);

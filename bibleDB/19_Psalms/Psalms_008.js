@@ -1,5 +1,5 @@
 // 시편 8장 · Psalms 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",8,9);
 BibleDB.add([
   {Bible:"Psalms", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O LORD, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.", Ind:""},

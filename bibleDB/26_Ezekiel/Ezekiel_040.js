@@ -1,11 +1,11 @@
 // 에스겔 40장 · Ezekiel 40
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezekiel",40,49);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:40, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city--on that very day the hand of the LORD was upon me and he took me there.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:2, Page:1, Kor:"", Chn:"", Eng:"In visions of God he took me to the land of Israel and set me on a very high mountain, on whose south side were some buildings that looked like a city.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He took me there, and I saw a man whose appearance was like bronze; he was standing in the gateway with a linen cord and a measuring rod in his hand.", Ind:""},
-  {Bible:"Ezekiel", Chapter:40, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The man said to me, "Son of man, look with your eyes and hear with your ears and pay attention to everything I am going to show you, for that is why you have been brought here. Tell the house of Israel everything you see."", Ind:""},
+  {Bible:"Ezekiel", Chapter:40, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The man said to me, \"Son of man, look with your eyes and hear with your ears and pay attention to everything I am going to show you, for that is why you have been brought here. Tell the house of Israel everything you see.\"", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I saw a wall completely surrounding the temple area. The length of the measuring rod in the man's hand was six long cubits, each of which was a cubit and a handbreadth. He measured the wall; it was one measuring rod thick and one rod high.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then he went to the gate facing east. He climbed its steps and measured the threshold of the gate; it was one rod deep.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The alcoves for the guards were one rod long and one rod wide, and the projecting walls between the alcoves were five cubits thick. And the threshold of the gate next to the portico facing the temple was one rod deep.", Ind:""},
@@ -46,8 +46,8 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:40, Verse:42, Page:1, Kor:"", Chn:"", Eng:"There were also four tables of dressed stone for the burnt offerings, each a cubit and a half long, a cubit and a half wide and a cubit high. On them were placed the utensils for slaughtering the burnt offerings and the other sacrifices.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:43, Page:1, Kor:"", Chn:"", Eng:"And double-pronged hooks, each a handbreadth long, were attached to the wall all around. The tables were for the flesh of the offerings.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:44, Page:1, Kor:"", Chn:"", Eng:"Outside the inner gate, within the inner court, were two rooms, one at the side of the north gate and facing south, and another at the side of the south gate and facing north.", Ind:""},
-  {Bible:"Ezekiel", Chapter:40, Verse:45, Page:1, Kor:"", Chn:"", Eng:"He said to me, "The room facing south is for the priests who have charge of the temple,", Ind:""},
-  {Bible:"Ezekiel", Chapter:40, Verse:46, Page:1, Kor:"", Chn:"", Eng:"and the room facing north is for the priests who have charge of the altar. These are the sons of Zadok, who are the only Levites who may draw near to the LORD to minister before him."", Ind:""},
+  {Bible:"Ezekiel", Chapter:40, Verse:45, Page:1, Kor:"", Chn:"", Eng:"He said to me, \"The room facing south is for the priests who have charge of the temple,", Ind:""},
+  {Bible:"Ezekiel", Chapter:40, Verse:46, Page:1, Kor:"", Chn:"", Eng:"and the room facing north is for the priests who have charge of the altar. These are the sons of Zadok, who are the only Levites who may draw near to the LORD to minister before him.\"", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:47, Page:1, Kor:"", Chn:"", Eng:"Then he measured the court: It was square--a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:48, Page:1, Kor:"", Chn:"", Eng:"He brought me to the portico of the temple and measured the jambs of the portico; they were five cubits wide on either side. The width of the entrance was fourteen cubits and its projecting walls were three cubits wide on either side.", Ind:""},
   {Bible:"Ezekiel", Chapter:40, Verse:49, Page:1, Kor:"", Chn:"", Eng:"The portico was twenty cubits wide, and twelve cubits from front to back. It was reached by a flight of stairs, and there were pillars on each side of the jambs.", Ind:""},

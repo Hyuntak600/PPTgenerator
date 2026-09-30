@@ -1,5 +1,5 @@
 // 창세기 14장 · Genesis 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",14,24);
 BibleDB.add([
   {Bible:"Genesis", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"At this time Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam and  Tidal king of Goiim", Ind:""},
@@ -20,10 +20,10 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He recovered all the goods and brought back his relative Lot and his possessions, together  with the women and the other people.", Ind:""},
   {Bible:"Genesis", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of  Sodom came out to meet him in the Valley of Shaveh (that is, the King's Valley).", Ind:""},
   {Bible:"Genesis", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High,", Ind:""},
-  {Bible:"Genesis", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and he blessed Abram, saying, "Blessed be Abram by God Most High, Creator of heaven and  earth.", Ind:""},
-  {Bible:"Genesis", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And blessed be God Most High, who delivered your enemies into your hand." Then Abram gave  him a tenth of everything.", Ind:""},
-  {Bible:"Genesis", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The king of Sodom said to Abram, "Give me the people and keep the goods for yourself."", Ind:""},
-  {Bible:"Genesis", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But Abram said to the king of Sodom, "I have raised my hand to the LORD, God Most High,  Creator of heaven and earth, and have taken an oath", Ind:""},
+  {Bible:"Genesis", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and he blessed Abram, saying, \"Blessed be Abram by God Most High, Creator of heaven and  earth.", Ind:""},
+  {Bible:"Genesis", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And blessed be God Most High, who delivered your enemies into your hand.\" Then Abram gave  him a tenth of everything.", Ind:""},
+  {Bible:"Genesis", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The king of Sodom said to Abram, \"Give me the people and keep the goods for yourself.\"", Ind:""},
+  {Bible:"Genesis", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But Abram said to the king of Sodom, \"I have raised my hand to the LORD, God Most High,  Creator of heaven and earth, and have taken an oath", Ind:""},
   {Bible:"Genesis", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"that I will accept nothing belonging to you, not even a thread or the thong of a sandal, so  that you will never be able to say, 'I made Abram rich.'", Ind:""},
-  {Bible:"Genesis", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I will accept nothing but what my men have eaten and the share that belongs to the men who  went with me--to Aner, Eshcol and Mamre. Let them have their share."", Ind:""},
+  {Bible:"Genesis", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I will accept nothing but what my men have eaten and the share that belongs to the men who  went with me--to Aner, Eshcol and Mamre. Let them have their share.\"", Ind:""},
 ]);

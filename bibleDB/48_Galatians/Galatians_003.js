@@ -1,5 +1,5 @@
 // 갈라디아서 3장 · Galatians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Galatians",3,29);
 BibleDB.add([
   {Bible:"Galatians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.", Ind:""},
@@ -7,17 +7,17 @@ BibleDB.add([
   {Bible:"Galatians", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Are you so foolish? After beginning with the Spirit, are you now trying to attain your goal by human effort?", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Have you suffered so much for nothing--if it really was for nothing?", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Does God give you his Spirit and work miracles among you because you observe the law, or because you believe what you heard?", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Consider Abraham: "He believed God, and it was credited to him as righteousness."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Consider Abraham: \"He believed God, and it was credited to him as righteousness.\"", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Understand, then, that those who believe are children of Abraham.", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: "All nations will be blessed through you."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: \"All nations will be blessed through you.\"", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So those who have faith are blessed along with Abraham, the man of faith.", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"All who rely on observing the law are under a curse, for it is written: "Cursed is everyone who does not continue to do everything written in the Book of the Law."", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Clearly no one is justified before God by the law, because, "The righteous will live by faith."", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The law is not based on faith; on the contrary, "The man who does these things will live by them."", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Christ redeemed us from the curse of the law by becoming a curse for us, for it is written: "Cursed is everyone who is hung on a tree."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"All who rely on observing the law are under a curse, for it is written: \"Cursed is everyone who does not continue to do everything written in the Book of the Law.\"", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Clearly no one is justified before God by the law, because, \"The righteous will live by faith.\"", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The law is not based on faith; on the contrary, \"The man who does these things will live by them.\"", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Christ redeemed us from the curse of the law by becoming a curse for us, for it is written: \"Cursed is everyone who is hung on a tree.\"", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He redeemed us in order that the blessing given to Abraham might come to the Gentiles through Christ Jesus, so that by faith we might receive the promise of the Spirit.", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Brothers, let me take an example from everyday life. Just as no one can set aside or add to a human covenant that has been duly established, so it is in this case.", Ind:""},
-  {Bible:"Galatians", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The promises were spoken to Abraham and to his seed. The Scripture does not say "and to seeds," meaning many people, but "and to your seed," meaning one person, who is Christ.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The promises were spoken to Abraham and to his seed. The Scripture does not say \"and to seeds,\" meaning many people, but \"and to your seed,\" meaning one person, who is Christ.", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"What I mean is this: The law, introduced 430 years later, does not set aside the covenant previously established by God and thus do away with the promise.", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For if the inheritance depends on the law, then it no longer depends on a promise; but God in his grace gave it to Abraham through a promise.", Ind:""},
   {Bible:"Galatians", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"What, then, was the purpose of the law? It was added because of transgressions until the Seed to whom the promise referred had come. The law was put into effect through angels by a mediator.", Ind:""},

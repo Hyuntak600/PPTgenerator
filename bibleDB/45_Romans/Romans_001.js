@@ -1,5 +1,5 @@
 // 로마서 1장 · Romans 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Romans",1,32);
 BibleDB.add([
   {Bible:"Romans", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--", Ind:""},
@@ -18,7 +18,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.", Ind:""},
   {Bible:"Romans", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"That is why I am so eager to preach the gospel also to you who are at Rome.", Ind:""},
   {Bible:"Romans", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile.", Ind:""},
-  {Bible:"Romans", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: "The righteous will live by faith."", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\"", Ind:""},
   {Bible:"Romans", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness,", Ind:""},
   {Bible:"Romans", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"since what may be known about God is plain to them, because God has made it plain to them.", Ind:""},
   {Bible:"Romans", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For since the creation of the world God's invisible qualities--his eternal power and divine nature--have been clearly seen, being understood from what has been made, so that men are without excuse.", Ind:""},

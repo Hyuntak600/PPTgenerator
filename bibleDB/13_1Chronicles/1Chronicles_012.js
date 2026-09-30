@@ -1,6 +1,45 @@
-// 역대상 12장 · 1 Chronicles 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Chronicles",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 역대상 12장 · 1Chronicles 12
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Chronicles",12,40);
 BibleDB.add([
+  {Bible:"1Chronicles", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These were the men who came to David at Ziklag, while he was banished from the presence of Saul son of Kish (they were among the warriors who helped him in battle;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"they were armed with bows and were able to shoot arrows or to sling stones right-handed or left-handed; they were kinsmen of Saul from the tribe of Benjamin):", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Ahiezer their chief and Joash the sons of Shemaah the Gibeathite; Jeziel and Pelet the sons of Azmaveth; Beracah, Jehu the Anathothite,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and Ishmaiah the Gibeonite, a mighty man among the Thirty, who was a leader of the Thirty; Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Eluzai, Jerimoth, Bealiah, Shemariah and Shephatiah the Haruphite;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Elkanah, Isshiah, Azarel, Joezer and Jashobeam the Korahites;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and Joelah and Zebadiah the sons of Jeroham from Gedor.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Some Gadites defected to David at his stronghold in the desert. They were brave warriors, ready for battle and able to handle the shield and spear. Their faces were the faces of lions, and they were as swift as gazelles in the mountains.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Ezer was the chief, Obadiah the second in command, Eliab the third,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Mishmannah the fourth, Jeremiah the fifth,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Attai the sixth, Eliel the seventh,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Johanan the eighth, Elzabad the ninth,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Jeremiah the tenth and Macbannai the eleventh.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"These Gadites were army commanders; the least was a match for a hundred, and the greatest for a thousand.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"It was they who crossed the Jordan in the first month when it was overflowing all its banks, and they put to flight everyone living in the valleys, to the east and to the west.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Other Benjamites and some men from Judah also came to David in his stronghold.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"David went out to meet them and said to them, \"If you have come to me in peace, to help me, I am ready to have you unite with me. But if you have come to betray me to my enemies when my hands are free from violence, may the God of our fathers see it and judge you.\"", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the Spirit came upon Amasai, chief of the Thirty, and he said: \"We are yours, O David! We are with you, O son of Jesse! Success, success to you, and success to those who help you, for your God will help you.\" So David received them and made them leaders of his raiding bands.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Some of the men of Manasseh defected to David when he went with the Philistines to fight against Saul. (He and his men did not help the Philistines because, after consultation, their rulers sent him away. They said, \"It will cost us our heads if he deserts to his master Saul.\")", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When David went to Ziklag, these were the men of Manasseh who defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu and Zillethai, leaders of units of a thousand in Manasseh.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They helped David against raiding bands, for all of them were brave warriors, and they were commanders in his army.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Day after day men came to help David, until he had a great army, like the army of God.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"These are the numbers of the men armed for battle who came to David at Hebron to turn Saul's kingdom over to him, as the LORD had said:", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"men of Judah, carrying shield and spear--6,800 armed for battle;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"men of Simeon, warriors ready for battle--7,100;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:26, Page:1, Kor:"", Chn:"", Eng:"men of Levi--4,600,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:27, Page:1, Kor:"", Chn:"", Eng:"including Jehoiada, leader of the family of Aaron, with 3,700 men,", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:28, Page:1, Kor:"", Chn:"", Eng:"and Zadok, a brave young warrior, with 22 officers from his family;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:29, Page:1, Kor:"", Chn:"", Eng:"men of Benjamin, Saul's kinsmen--3,000, most of whom had remained loyal to Saul's house until then;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:30, Page:1, Kor:"", Chn:"", Eng:"men of Ephraim, brave warriors, famous in their own clans--20,800;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:31, Page:1, Kor:"", Chn:"", Eng:"men of half the tribe of Manasseh, designated by name to come and make David king--18,000;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:32, Page:1, Kor:"", Chn:"", Eng:"men of Issachar, who understood the times and knew what Israel should do--200 chiefs, with all their relatives under their command;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:33, Page:1, Kor:"", Chn:"", Eng:"men of Zebulun, experienced soldiers prepared for battle with every type of weapon, to help David with undivided loyalty--50,000;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:34, Page:1, Kor:"", Chn:"", Eng:"men of Naphtali--1,000 officers, together with 37,000 men carrying shields and spears;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:35, Page:1, Kor:"", Chn:"", Eng:"men of Dan, ready for battle--28,600;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:36, Page:1, Kor:"", Chn:"", Eng:"men of Asher, experienced soldiers prepared for battle--40,000;", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:37, Page:1, Kor:"", Chn:"", Eng:"and from east of the Jordan, men of Reuben, Gad and the half-tribe of Manasseh, armed with every type of weapon--120,000.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:38, Page:1, Kor:"", Chn:"", Eng:"All these were fighting men who volunteered to serve in the ranks. They came to Hebron fully determined to make David king over all Israel. All the rest of the Israelites were also of one mind to make David king.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:39, Page:1, Kor:"", Chn:"", Eng:"The men spent three days there with David, eating and drinking, for their families had supplied provisions for them.", Ind:""},
+  {Bible:"1Chronicles", Chapter:12, Verse:40, Page:1, Kor:"", Chn:"", Eng:"Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, oil, cattle and sheep, for there was joy in Israel.", Ind:""},
 ]);

@@ -1,6 +1,39 @@
-// 열왕기상 13장 · 1 Kings 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Kings",13,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 열왕기상 13장 · 1Kings 13
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Kings",13,34);
 BibleDB.add([
+  {Bible:"1Kings", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"By the word of the LORD a man of God came from Judah to Bethel, as Jeroboam was standing by the altar to make an offering.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He cried out against the altar by the word of the LORD: \"O altar, altar! This is what the LORD says: 'A son named Josiah will be born to the house of David. On you he will sacrifice the priests of the high places who now make offerings here, and human bones will be burned on you.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"That same day the man of God gave a sign: \"This is the sign the LORD has declared: The altar will be split apart and the ashes on it will be poured out.\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When King Jeroboam heard what the man of God cried out against the altar at Bethel, he stretched out his hand from the altar and said, \"Seize him!\" But the hand he stretched out toward the man shriveled up, so that he could not pull it back.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Also, the altar was split apart and its ashes poured out according to the sign given by the man of God by the word of the LORD.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then the king said to the man of God, \"Intercede with the LORD your God and pray for me that my hand may be restored.\" So the man of God interceded with the LORD, and the king's hand was restored and became as it was before.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The king said to the man of God, \"Come home with me and have something to eat, and I will give you a gift.\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But the man of God answered the king, \"Even if you were to give me half your possessions, I would not go with you, nor would I eat bread or drink water here.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For I was commanded by the word of the LORD: 'You must not eat bread or drink water or return by the way you came.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So he took another road and did not return by the way he had come to Bethel.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Now there was a certain old prophet living in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Their father asked them, \"Which way did he go?\" And his sons showed him which road the man of God from Judah had taken.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So he said to his sons, \"Saddle the donkey for me.\" And when they had saddled the donkey for him, he mounted it", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and rode after the man of God. He found him sitting under an oak tree and asked, \"Are you the man of God who came from Judah?\" \"I am,\" he replied.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So the prophet said to him, \"Come home with me and eat.\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The man of God said, \"I cannot turn back and go with you, nor can I eat bread or drink water with you in this place.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I have been told by the word of the LORD: 'You must not eat bread or drink water there or return by the way you came.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The old prophet answered, \"I too am a prophet, as you are. And an angel said to me by the word of the LORD: 'Bring him back with you to your house so that he may eat bread and drink water.'\" (But he was lying to him.)", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"So the man of God returned with him and ate and drank in his house.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"While they were sitting at the table, the word of the LORD came to the old prophet who had brought him back.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He cried out to the man of God who had come from Judah, \"This is what the LORD says: 'You have defied the word of the LORD and have not kept the command the LORD your God gave you.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You came back and ate bread and drank water in the place where he told you not to eat or drink. Therefore your body will not be buried in the tomb of your fathers.'\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When the man of God had finished eating and drinking, the prophet who had brought him back saddled his donkey for him.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:"As he went on his way, a lion met him on the road and killed him, and his body was thrown down on the road, with both the donkey and the lion standing beside it.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Some people who passed by saw the body thrown down there, with the lion standing beside the body, and they went and reported it in the city where the old prophet lived.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:"When the prophet who had brought him back from his journey heard of it, he said, \"It is the man of God who defied the word of the LORD. The LORD has given him over to the lion, which has mauled him and killed him, as the word of the LORD had warned him.\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The prophet said to his sons, \"Saddle the donkey for me,\" and they did so.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then he went out and found the body thrown down on the road, with the donkey and the lion standing beside it. The lion had neither eaten the body nor mauled the donkey.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So the prophet picked up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then he laid the body in his own tomb, and they mourned over him and said, \"Oh, my brother!\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"After burying him, he said to his sons, \"When I die, bury me in the grave where the man of God is buried; lay my bones beside his bones.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For the message he declared by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the towns of Samaria will certainly come true.\"", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Even after this, Jeroboam did not change his evil ways, but once more appointed priests for the high places from all sorts of people. Anyone who wanted to become a priest he consecrated for the high places.", Ind:""},
+  {Bible:"1Kings", Chapter:13, Verse:34, Page:1, Kor:"", Chn:"", Eng:"This was the sin of the house of Jeroboam that led to its downfall and to its destruction from the face of the earth.", Ind:""},
 ]);

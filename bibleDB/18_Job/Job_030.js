@@ -1,8 +1,8 @@
 // 욥기 30장 · Job 30
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",30,31);
 BibleDB.add([
-  {Bible:"Job", Chapter:30, Verse:1, Page:1, Kor:"", Chn:"", Eng:""But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.", Ind:""},
+  {Bible:"Job", Chapter:30, Verse:1, Page:1, Kor:"", Chn:"", Eng:"\"But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Of what use was the strength of their hands to me, since their vigor had gone from them?", Ind:""},
   {Bible:"Job", Chapter:30, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Haggard from want and hunger, they roamed the parched land in desolate wastelands at night.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:4, Page:1, Kor:"", Chn:"", Eng:"In the brush they gathered salt herbs, and their food was the root of the broom tree.", Ind:""},
@@ -10,22 +10,22 @@ BibleDB.add([
   {Bible:"Job", Chapter:30, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They were forced to live in the dry stream beds, among the rocks and in holes in the ground.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They brayed among the bushes and huddled in the undergrowth.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:8, Page:1, Kor:"", Chn:"", Eng:"A base and nameless brood, they were driven out of the land.", Ind:""},
-  {Bible:"Job", Chapter:30, Verse:9, Page:1, Kor:"", Chn:"", Eng:""And now their sons mock me in song; I have become a byword among them.", Ind:""},
+  {Bible:"Job", Chapter:30, Verse:9, Page:1, Kor:"", Chn:"", Eng:"\"And now their sons mock me in song; I have become a byword among them.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They detest me and keep their distance; they do not hesitate to spit in my face.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Now that God has unstrung my bow and afflicted me, they throw off restraint in my presence.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:12, Page:1, Kor:"", Chn:"", Eng:"On my right the tribe attacks; they lay snares for my feet, they build their siege ramps against me.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:13, Page:1, Kor:"", Chn:"", Eng:"They break up my road; they succeed in destroying me--without anyone's helping them.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They advance as through a gaping breach; amid the ruins they come rolling in.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Terrors overwhelm me; my dignity is driven away as by the wind, my safety vanishes like a cloud.", Ind:""},
-  {Bible:"Job", Chapter:30, Verse:16, Page:1, Kor:"", Chn:"", Eng:""And now my life ebbs away; days of suffering grip me.", Ind:""},
+  {Bible:"Job", Chapter:30, Verse:16, Page:1, Kor:"", Chn:"", Eng:"\"And now my life ebbs away; days of suffering grip me.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Night pierces my bones; my gnawing pains never rest.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:18, Page:1, Kor:"", Chn:"", Eng:"In his great power God becomes like clothing to me; he binds me like the neck of my garment.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He throws me into the mud, and I am reduced to dust and ashes.", Ind:""},
-  {Bible:"Job", Chapter:30, Verse:20, Page:1, Kor:"", Chn:"", Eng:""I cry out to you, O God, but you do not answer; I stand up, but you merely look at me.", Ind:""},
+  {Bible:"Job", Chapter:30, Verse:20, Page:1, Kor:"", Chn:"", Eng:"\"I cry out to you, O God, but you do not answer; I stand up, but you merely look at me.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:21, Page:1, Kor:"", Chn:"", Eng:"You turn on me ruthlessly; with the might of your hand you attack me.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You snatch me up and drive me before the wind; you toss me about in the storm.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I know you will bring me down to death, to the place appointed for all the living.", Ind:""},
-  {Bible:"Job", Chapter:30, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Surely no one lays a hand on a broken man when he cries for help in his distress.", Ind:""},
+  {Bible:"Job", Chapter:30, Verse:24, Page:1, Kor:"", Chn:"", Eng:"\"Surely no one lays a hand on a broken man when he cries for help in his distress.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Have I not wept for those in trouble? Has not my soul grieved for the poor?", Ind:""},
   {Bible:"Job", Chapter:30, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Yet when I hoped for good, evil came; when I looked for light, then came darkness.", Ind:""},
   {Bible:"Job", Chapter:30, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The churning inside me never stops; days of suffering confront me.", Ind:""},

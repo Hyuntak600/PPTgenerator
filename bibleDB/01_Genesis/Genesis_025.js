@@ -1,5 +1,5 @@
 // 창세기 25장 · Genesis 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",25,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Abraham took another wife, whose name was Keturah.", Ind:""},
@@ -23,17 +23,17 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:25, Verse:19, Page:1, Kor:"", Chn:"", Eng:"This is the account of Abraham's son Isaac. Abraham became the father of Isaac,", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and Isaac was forty years old when he married Rebekah daughter of Bethuel the Aramean from  Paddan Aram and sister of Laban the Aramean.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Isaac prayed to the LORD on behalf of his wife, because she was barren. The LORD answered  his prayer, and his wife Rebekah became pregnant.", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The babies jostled each other within her, and she said, "Why is this happening to me?" So  she went to inquire of the LORD.", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The LORD said to her, "Two nations are in your womb, and two peoples from within you will  be separated; one people will be stronger than the other, and the older will serve the younger."", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The babies jostled each other within her, and she said, \"Why is this happening to me?\" So  she went to inquire of the LORD.", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The LORD said to her, \"Two nations are in your womb, and two peoples from within you will  be separated; one people will be stronger than the other, and the older will serve the younger.\"", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When the time came for her to give birth, there were twin boys in her womb.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The first to come out was red, and his whole body was like a hairy garment; so they named  him Esau.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:26, Page:1, Kor:"", Chn:"", Eng:"After this, his brother came out, with his hand grasping Esau's heel; so he was named  Jacob. Isaac was sixty years old when Rebekah gave birth to them.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The boys grew up, and Esau became a skillful hunter, a man of the open country, while Jacob  was a quiet man, staying among the tents.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Isaac, who had a taste for wild game, loved Esau, but Rebekah loved Jacob.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Once when Jacob was cooking some stew, Esau came in from the open country, famished.", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He said to Jacob, "Quick, let me have some of that red stew! I'm famished!" (That is why he  was also called Edom.)", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Jacob replied, "First sell me your birthright."", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:32, Page:1, Kor:"", Chn:"", Eng:""Look, I am about to die," Esau said. "What good is the birthright to me?"", Ind:""},
-  {Bible:"Genesis", Chapter:25, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But Jacob said, "Swear to me first." So he swore an oath to him, selling his birthright to  Jacob.", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He said to Jacob, \"Quick, let me have some of that red stew! I'm famished!\" (That is why he  was also called Edom.)", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Jacob replied, \"First sell me your birthright.\"", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:32, Page:1, Kor:"", Chn:"", Eng:"\"Look, I am about to die,\" Esau said. \"What good is the birthright to me?\"", Ind:""},
+  {Bible:"Genesis", Chapter:25, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But Jacob said, \"Swear to me first.\" So he swore an oath to him, selling his birthright to  Jacob.", Ind:""},
   {Bible:"Genesis", Chapter:25, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and  left. So Esau despised his birthright.", Ind:""},
 ]);

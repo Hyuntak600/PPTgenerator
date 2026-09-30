@@ -1,5 +1,5 @@
 // 시편 21장 · Psalms 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",21,13);
 BibleDB.add([
   {Bible:"Psalms", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O LORD, the king rejoices in your strength. How great is his joy in the victories you give!", Ind:""},

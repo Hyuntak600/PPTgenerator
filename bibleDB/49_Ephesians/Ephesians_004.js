@@ -1,5 +1,5 @@
 // 에베소서 4장 · Ephesians 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ephesians",4,32);
 BibleDB.add([
   {Bible:"Ephesians", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received.", Ind:""},
@@ -9,8 +9,8 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"one Lord, one faith, one baptism;", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"one God and Father of all, who is over all and through all and in all.", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But to each one of us grace has been given as Christ apportioned it.", Ind:""},
-  {Bible:"Ephesians", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"This is why it says: "When he ascended on high, he led captives in his train and gave gifts to men."", Ind:""},
-  {Bible:"Ephesians", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"(What does "he ascended" mean except that he also descended to the lower, earthly regions?", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"This is why it says: \"When he ascended on high, he led captives in his train and gave gifts to men.\"", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"(What does \"he ascended\" mean except that he also descended to the lower, earthly regions?", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.)", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It was he who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers,", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"to prepare God's people for works of service, so that the body of Christ may be built up", Ind:""},
@@ -27,7 +27,7 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"to be made new in the attitude of your minds;", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and to put on the new self, created to be like God in true righteousness and holiness.", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one body.", Ind:""},
-  {Bible:"Ephesians", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:""In your anger do not sin": Do not let the sun go down while you are still angry,", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"\"In your anger do not sin\": Do not let the sun go down while you are still angry,", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and do not give the devil a foothold.", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He who has been stealing must steal no longer, but must work, doing something useful with his own hands, that he may have something to share with those in need.", Ind:""},
   {Bible:"Ephesians", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.", Ind:""},

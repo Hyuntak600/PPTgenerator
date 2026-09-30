@@ -1,14 +1,14 @@
 // 창세기 11장 · Genesis 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Genesis",11,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the whole world had one language and a common speech.", Ind:""},
   {Bible:"Genesis", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"As men moved eastward, they found a plain in Shinar and settled there.", Ind:""},
-  {Bible:"Genesis", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They said to each other, "Come, let's make bricks and bake them thoroughly." They used brick  instead of stone, and tar for mortar.", Ind:""},
-  {Bible:"Genesis", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then they said, "Come, let us build ourselves a city, with a tower that reaches to the  heavens, so that we may make a name for ourselves and not be scattered over the face of the whole  earth."", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They said to each other, \"Come, let's make bricks and bake them thoroughly.\" They used brick  instead of stone, and tar for mortar.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then they said, \"Come, let us build ourselves a city, with a tower that reaches to the  heavens, so that we may make a name for ourselves and not be scattered over the face of the whole  earth.\"", Ind:""},
   {Bible:"Genesis", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But the LORD came down to see the city and the tower that the men were building.", Ind:""},
-  {Bible:"Genesis", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD said, "If as one people speaking the same language they have begun to do this, then  nothing they plan to do will be impossible for them.", Ind:""},
-  {Bible:"Genesis", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Come, let us go down and confuse their language so they will not understand each other."", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD said, \"If as one people speaking the same language they have begun to do this, then  nothing they plan to do will be impossible for them.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Come, let us go down and confuse their language so they will not understand each other.\"", Ind:""},
   {Bible:"Genesis", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So the LORD scattered them from there over all the earth, and they stopped building the  city.", Ind:""},
   {Bible:"Genesis", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"That is why it was called Babel--because there the LORD confused the language of the whole  world. From there the LORD scattered them over the face of the whole earth.", Ind:""},
   {Bible:"Genesis", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is the account of Shem. Two years after the flood, when Shem was 100 years old, he  became the father of Arphaxad.", Ind:""},

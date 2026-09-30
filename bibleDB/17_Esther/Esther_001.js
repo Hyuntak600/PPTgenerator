@@ -1,5 +1,5 @@
 // 에스더 1장 · Esther 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Esther",1,22);
 BibleDB.add([
   {Bible:"Esther", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:", Ind:""},
@@ -16,12 +16,12 @@ BibleDB.add([
   {Bible:"Esther", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But when the attendants delivered the king's command, Queen Vashti refused to come. Then the king became furious and burned with anger.", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Since it was customary for the king to consult experts in matters of law and justice, he spoke with the wise men who understood the times", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and were closest to the king--Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memucan, the seven nobles of Persia and Media who had special access to the king and were highest in the kingdom.", Ind:""},
-  {Bible:"Esther", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:""According to law, what must be done to Queen Vashti?" he asked. "She has not obeyed the command of King Xerxes that the eunuchs have taken to her."", Ind:""},
-  {Bible:"Esther", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then Memucan replied in the presence of the king and the nobles, "Queen Vashti has done wrong, not only against the king but also against all the nobles and the peoples of all the provinces of King Xerxes.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"\"According to law, what must be done to Queen Vashti?\" he asked. \"She has not obeyed the command of King Xerxes that the eunuchs have taken to her.\"", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then Memucan replied in the presence of the king and the nobles, \"Queen Vashti has done wrong, not only against the king but also against all the nobles and the peoples of all the provinces of King Xerxes.", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For the queen's conduct will become known to all the women, and so they will despise their husbands and say, 'King Xerxes commanded Queen Vashti to be brought before him, but she would not come.'", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This very day the Persian and Median women of the nobility who have heard about the queen's conduct will respond to all the king's nobles in the same way. There will be no end of disrespect and discord.", Ind:""},
-  {Bible:"Esther", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Therefore, if it pleases the king, let him issue a royal decree and let it be written in the laws of Persia and Media, which cannot be repealed, that Vashti is never again to enter the presence of King Xerxes. Also let the king give her royal position to someone else who is better than she.", Ind:""},
-  {Bible:"Esther", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then when the king's edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest."", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"\"Therefore, if it pleases the king, let him issue a royal decree and let it be written in the laws of Persia and Media, which cannot be repealed, that Vashti is never again to enter the presence of King Xerxes. Also let the king give her royal position to someone else who is better than she.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then when the king's edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest.\"", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The king and his nobles were pleased with this advice, so the king did as Memucan proposed.", Ind:""},
   {Bible:"Esther", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"He sent dispatches to all parts of the kingdom, to each province in its own script and to each people in its own language, proclaiming in each people's tongue that every man should be ruler over his own household.", Ind:""},
 ]);

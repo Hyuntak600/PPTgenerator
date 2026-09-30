@@ -1,5 +1,5 @@
 // 에베소서 3장 · Ephesians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ephesians",3,21);
 BibleDB.add([
   {Bible:"Ephesians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles--", Ind:""},

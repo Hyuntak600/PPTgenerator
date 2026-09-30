@@ -1,10 +1,10 @@
 // 시편 90장 · Psalms 90
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",90,17);
 BibleDB.add([
   {Bible:"Psalms", Chapter:90, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Lord, you have been our dwelling place throughout all generations.", Ind:""},
   {Bible:"Psalms", Chapter:90, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Before the mountains were born or you brought forth the earth and the world, from everlasting to everlasting you are God.", Ind:""},
-  {Bible:"Psalms", Chapter:90, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You turn men back to dust, saying, "Return to dust, O sons of men."", Ind:""},
+  {Bible:"Psalms", Chapter:90, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You turn men back to dust, saying, \"Return to dust, O sons of men.\"", Ind:""},
   {Bible:"Psalms", Chapter:90, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For a thousand years in your sight are like a day that has just gone by, or like a watch in the night.", Ind:""},
   {Bible:"Psalms", Chapter:90, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You sweep men away in the sleep of death; they are like the new grass of the morning--", Ind:""},
   {Bible:"Psalms", Chapter:90, Verse:6, Page:1, Kor:"", Chn:"", Eng:"though in the morning it springs up new, by evening it is dry and withered.", Ind:""},

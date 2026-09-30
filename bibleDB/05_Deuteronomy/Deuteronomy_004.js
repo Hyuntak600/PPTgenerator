@@ -1,5 +1,5 @@
 // 신명기 4장 · Deuteronomy 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",4,49);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear now, O Israel, the decrees and laws I am about to teach you. Follow them so that you may live and may go in and take possession of the land that the LORD, the God of your fathers, is giving you.", Ind:""},
@@ -7,11 +7,11 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You saw with your own eyes what the LORD did at Baal Peor. The LORD your God destroyed from among you everyone who followed the Baal of Peor,", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"but all of you who held fast to the LORD your God are still alive today.", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"See, I have taught you decrees and laws as the LORD my God commanded me, so that you may follow them in the land you are entering to take possession of it.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Observe them carefully, for this will show your wisdom and understanding to the nations, who will hear about all these decrees and say, "Surely this great nation is a wise and understanding people."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Observe them carefully, for this will show your wisdom and understanding to the nations, who will hear about all these decrees and say, \"Surely this great nation is a wise and understanding people.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What other nation is so great as to have their gods near them the way the LORD our God is near us whenever we pray to him?", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And what other nation is so great as to have such righteous decrees and laws as this body of laws I am setting before you today?", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Only be careful, and watch yourselves closely so that you do not forget the things your eyes have seen or let them slip from your heart as long as you live. Teach them to your children and to their children after them.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Remember the day you stood before the LORD your God at Horeb, when he said to me, "Assemble the people before me to hear my words so that they may learn to revere me as long as they live in the land and may teach them to their children."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Remember the day you stood before the LORD your God at Horeb, when he said to me, \"Assemble the people before me to hear my words so that they may learn to revere me as long as they live in the land and may teach them to their children.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You came near and stood at the foot of the mountain while it blazed with fire to the very heavens, with black clouds and deep darkness.", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the LORD spoke to you out of the fire. You heard the sound of words but saw no form; there was only a voice.", Ind:""},
   {Bible:"Deuteronomy", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He declared to you his covenant, the Ten Commandments, which he commanded you to follow and then wrote them on two stone tablets.", Ind:""},

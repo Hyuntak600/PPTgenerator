@@ -1,6 +1,6 @@
 // 에스라 2장 · Ezra 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
-BibleDB.ref("Ezra",2,69);
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("Ezra",2,70);
 BibleDB.add([
   {Bible:"Ezra", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to his own town,", Ind:""},
   {Bible:"Ezra", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"in company with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah): The list of the men of the people of Israel:", Ind:""},
@@ -71,4 +71,5 @@ BibleDB.add([
   {Bible:"Ezra", Chapter:2, Verse:67, Page:1, Kor:"", Chn:"", Eng:"435 camels and 6,720 donkeys.", Ind:""},
   {Bible:"Ezra", Chapter:2, Verse:68, Page:1, Kor:"", Chn:"", Eng:"When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.", Ind:""},
   {Bible:"Ezra", Chapter:2, Verse:69, Page:1, Kor:"", Chn:"", Eng:"According to their ability they gave to the treasury for this work 61,000 drachmas of gold,", Ind:""},
+  {Bible:"Ezra", Chapter:2, Verse:70, Page:1, Kor:"", Chn:"", Eng:"The priests, the Levites, the singers, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.", Ind:""},
 ]);

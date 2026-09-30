@@ -1,11 +1,11 @@
 // 욥기 21장 · Job 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Job",21,34);
 BibleDB.add([
   {Bible:"Job", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied:", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Listen carefully to my words; let this be the consolation you give me.", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Listen carefully to my words; let this be the consolation you give me.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Bear with me while I speak, and after I have spoken, mock on.", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Is my complaint directed to man? Why should I not be impatient?", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"\"Is my complaint directed to man? Why should I not be impatient?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Look at me and be astonished; clap your hand over your mouth.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When I think about this, I am terrified; trembling seizes my body.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Why do the wicked live on, growing old and increasing in power?", Ind:""},
@@ -18,22 +18,22 @@ BibleDB.add([
   {Bible:"Job", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Yet they say to God, 'Leave us alone! We have no desire to know your ways.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Who is the Almighty, that we should serve him? What would we gain by praying to him?'", Ind:""},
   {Bible:"Job", Chapter:21, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But their prosperity is not in their own hands, so I stand aloof from the counsel of the wicked.", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Yet how often is the lamp of the wicked snuffed out? How often does calamity come upon them, the fate God allots in his anger?", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:"\"Yet how often is the lamp of the wicked snuffed out? How often does calamity come upon them, the fate God allots in his anger?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:18, Page:1, Kor:"", Chn:"", Eng:"How often are they like straw before the wind, like chaff swept away by a gale?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It is said, 'God stores up a man's punishment for his sons.' Let him repay the man himself, so that he will know it!", Ind:""},
   {Bible:"Job", Chapter:21, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Let his own eyes see his destruction; let him drink of the wrath of the Almighty.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For what does he care about the family he leaves behind when his allotted months come to an end?", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Can anyone teach knowledge to God, since he judges even the highest?", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"\"Can anyone teach knowledge to God, since he judges even the highest?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"One man dies in full vigor, completely secure and at ease,", Ind:""},
   {Bible:"Job", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"his body well nourished, his bones rich with marrow.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Another man dies in bitterness of soul, never having enjoyed anything good.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Side by side they lie in the dust, and worms cover them both.", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:""I know full well what you are thinking, the schemes by which you would wrong me.", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"\"I know full well what you are thinking, the schemes by which you would wrong me.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:28, Page:1, Kor:"", Chn:"", Eng:"You say, 'Where now is the great man's house, the tents where wicked men lived?'", Ind:""},
   {Bible:"Job", Chapter:21, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Have you never questioned those who travel? Have you paid no regard to their accounts--", Ind:""},
   {Bible:"Job", Chapter:21, Verse:30, Page:1, Kor:"", Chn:"", Eng:"that the evil man is spared from the day of calamity, that he is delivered from the day of wrath?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Who denounces his conduct to his face? Who repays him for what he has done?", Ind:""},
   {Bible:"Job", Chapter:21, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He is carried to the grave, and watch is kept over his tomb.", Ind:""},
   {Bible:"Job", Chapter:21, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The soil in the valley is sweet to him; all men follow after him, and a countless throng goes before him.", Ind:""},
-  {Bible:"Job", Chapter:21, Verse:34, Page:1, Kor:"", Chn:"", Eng:""So how can you console me with your nonsense? Nothing is left of your answers but falsehood!"", Ind:""},
+  {Bible:"Job", Chapter:21, Verse:34, Page:1, Kor:"", Chn:"", Eng:"\"So how can you console me with your nonsense? Nothing is left of your answers but falsehood!\"", Ind:""},
 ]);

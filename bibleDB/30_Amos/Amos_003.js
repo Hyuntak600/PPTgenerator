@@ -1,20 +1,20 @@
 // 아모스 3장 · Amos 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Amos",3,15);
 BibleDB.add([
   {Bible:"Amos", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear this word the LORD has spoken against you, O people of Israel--against the whole family I brought up out of Egypt:", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:""You only have I chosen of all the families of the earth; therefore I will punish you for all your sins."", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"You only have I chosen of all the families of the earth; therefore I will punish you for all your sins.\"", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do two walk together unless they have agreed to do so?", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Does a lion roar in the thicket when he has no prey? Does he growl in his den when he has caught nothing?", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Does a bird fall into a trap on the ground where no snare has been set? Does a trap spring up from the earth when there is nothing to catch?", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When a trumpet sounds in a city, do not the people tremble? When disaster comes to a city, has not the LORD caused it?", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Surely the Sovereign LORD does nothing without revealing his plan to his servants the prophets.", Ind:""},
   {Bible:"Amos", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The lion has roared--who will not fear? The Sovereign LORD has spoken--who can but prophesy?", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Proclaim to the fortresses of Ashdod and to the fortresses of Egypt: "Assemble yourselves on the mountains of Samaria; see the great unrest within her and the oppression among her people."", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:""They do not know how to do right," declares the LORD, "who hoard plunder and loot in their fortresses."", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Sovereign LORD says: "An enemy will overrun the land; he will pull down your strongholds and plunder your fortresses."", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "As a shepherd saves from the lion's mouth only two leg bones or a piece of an ear, so will the Israelites be saved, those who sit in Samaria on the edge of their beds and in Damascus on their couches."", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Hear this and testify against the house of Jacob," declares the Lord, the LORD God Almighty.", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:""On the day I punish Israel for her sins, I will destroy the altars of Bethel; the horns of the altar will be cut off and fall to the ground.", Ind:""},
-  {Bible:"Amos", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will tear down the winter house along with the summer house; the houses adorned with ivory will be destroyed and the mansions will be demolished," declares the LORD.", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Proclaim to the fortresses of Ashdod and to the fortresses of Egypt: \"Assemble yourselves on the mountains of Samaria; see the great unrest within her and the oppression among her people.\"", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"\"They do not know how to do right,\" declares the LORD, \"who hoard plunder and loot in their fortresses.\"", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Sovereign LORD says: \"An enemy will overrun the land; he will pull down your strongholds and plunder your fortresses.\"", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: \"As a shepherd saves from the lion's mouth only two leg bones or a piece of an ear, so will the Israelites be saved, those who sit in Samaria on the edge of their beds and in Damascus on their couches.\"", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"\"Hear this and testify against the house of Jacob,\" declares the Lord, the LORD God Almighty.", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"\"On the day I punish Israel for her sins, I will destroy the altars of Bethel; the horns of the altar will be cut off and fall to the ground.", Ind:""},
+  {Bible:"Amos", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will tear down the winter house along with the summer house; the houses adorned with ivory will be destroyed and the mansions will be demolished,\" declares the LORD.", Ind:""},
 ]);

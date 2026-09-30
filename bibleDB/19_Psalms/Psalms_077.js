@@ -1,5 +1,5 @@
 // 시편 77장 · Psalms 77
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",77,20);
 BibleDB.add([
   {Bible:"Psalms", Chapter:77, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I cried out to God for help; I cried out to God to hear me.", Ind:""},
@@ -8,10 +8,10 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:77, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You kept my eyes from closing; I was too troubled to speak.", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I thought about the former days, the years of long ago;", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I remembered my songs in the night. My heart mused and my spirit inquired:", Ind:""},
-  {Bible:"Psalms", Chapter:77, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Will the Lord reject forever? Will he never show his favor again?", Ind:""},
+  {Bible:"Psalms", Chapter:77, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"Will the Lord reject forever? Will he never show his favor again?", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Has his unfailing love vanished forever? Has his promise failed for all time?", Ind:""},
-  {Bible:"Psalms", Chapter:77, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Has God forgotten to be merciful? Has he in anger withheld his compassion?" Selah", Ind:""},
-  {Bible:"Psalms", Chapter:77, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then I thought, "To this I will appeal: the years of the right hand of the Most High."", Ind:""},
+  {Bible:"Psalms", Chapter:77, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Has God forgotten to be merciful? Has he in anger withheld his compassion?\" Selah", Ind:""},
+  {Bible:"Psalms", Chapter:77, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then I thought, \"To this I will appeal: the years of the right hand of the Most High.\"", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I will remember the deeds of the LORD; yes, I will remember your miracles of long ago.", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I will meditate on all your works and consider all your mighty deeds.", Ind:""},
   {Bible:"Psalms", Chapter:77, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Your ways, O God, are holy. What god is so great as our God?", Ind:""},

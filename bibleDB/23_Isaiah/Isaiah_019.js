@@ -1,18 +1,18 @@
 // 이사야 19장 · Isaiah 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Isaiah",19,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"An oracle concerning Egypt: See, the LORD rides on a swift cloud and is coming to Egypt. The idols of Egypt tremble before him, and the hearts of the Egyptians melt within them.", Ind:""},
-  {Bible:"Isaiah", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:""I will stir up Egyptian against Egyptian--brother will fight against brother, neighbor against neighbor, city against city, kingdom against kingdom.", Ind:""},
+  {Bible:"Isaiah", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"I will stir up Egyptian against Egyptian--brother will fight against brother, neighbor against neighbor, city against city, kingdom against kingdom.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The Egyptians will lose heart, and I will bring their plans to nothing; they will consult the idols and the spirits of the dead, the mediums and the spiritists.", Ind:""},
-  {Bible:"Isaiah", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will hand the Egyptians over to the power of a cruel master, and a fierce king will rule over them," declares the Lord, the LORD Almighty.", Ind:""},
+  {Bible:"Isaiah", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will hand the Egyptians over to the power of a cruel master, and a fierce king will rule over them,\" declares the Lord, the LORD Almighty.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The waters of the river will dry up, and the riverbed will be parched and dry.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The canals will stink; the streams of Egypt will dwindle and dry up. The reeds and rushes will wither,", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"also the plants along the Nile, at the mouth of the river. Every sown field along the Nile will become parched, will blow away and be no more.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The fishermen will groan and lament, all who cast hooks into the Nile; those who throw nets on the water will pine away.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Those who work with combed flax will despair, the weavers of fine linen will lose hope.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The workers in cloth will be dejected, and all the wage earners will be sick at heart.", Ind:""},
-  {Bible:"Isaiah", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The officials of Zoan are nothing but fools; the wise counselors of Pharaoh give senseless advice. How can you say to Pharaoh, "I am one of the wise men, a disciple of the ancient kings"?", Ind:""},
+  {Bible:"Isaiah", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The officials of Zoan are nothing but fools; the wise counselors of Pharaoh give senseless advice. How can you say to Pharaoh, \"I am one of the wise men, a disciple of the ancient kings\"?", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Where are your wise men now? Let them show you and make known what the LORD Almighty has planned against Egypt.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The officials of Zoan have become fools, the leaders of Memphis are deceived; the cornerstones of her peoples have led Egypt astray.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD has poured into them a spirit of dizziness; they make Egypt stagger in all that she does, as a drunkard staggers around in his vomit.", Ind:""},
@@ -26,5 +26,5 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The LORD will strike Egypt with a plague; he will strike them and heal them. They will turn to the LORD, and he will respond to their pleas and heal them.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together.", Ind:""},
   {Bible:"Isaiah", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"In that day Israel will be the third, along with Egypt and Assyria, a blessing on the earth.", Ind:""},
-  {Bible:"Isaiah", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty will bless them, saying, "Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance."", Ind:""},
+  {Bible:"Isaiah", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty will bless them, saying, \"Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.\"", Ind:""},
 ]);

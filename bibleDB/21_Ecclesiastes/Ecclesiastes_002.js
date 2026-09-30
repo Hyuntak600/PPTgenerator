@@ -1,9 +1,9 @@
 // 전도서 2장 · Ecclesiastes 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ecclesiastes",2,26);
 BibleDB.add([
-  {Bible:"Ecclesiastes", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I thought in my heart, "Come now, I will test you with pleasure to find out what is good." But that also proved to be meaningless.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Laughter," I said, "is foolish. And what does pleasure accomplish?"", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I thought in my heart, \"Come now, I will test you with pleasure to find out what is good.\" But that also proved to be meaningless.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"\"Laughter,\" I said, \"is foolish. And what does pleasure accomplish?\"", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I tried cheering myself with wine, and embracing folly--my mind still guiding me with wisdom. I wanted to see what was worthwhile for men to do under heaven during the few days of their lives.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I undertook great projects: I built houses for myself and planted vineyards.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I made gardens and parks and planted all kinds of fruit trees in them.", Ind:""},
@@ -16,7 +16,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then I turned my thoughts to consider wisdom, and also madness and folly. What more can the king's successor do than what has already been done?", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I saw that wisdom is better than folly, just as light is better than darkness.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The wise man has eyes in his head, while the fool walks in the darkness; but I came to realize that the same fate overtakes them both.", Ind:""},
-  {Bible:"Ecclesiastes", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then I thought in my heart, "The fate of the fool will overtake me also. What then do I gain by being wise?" I said in my heart, "This too is meaningless."", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then I thought in my heart, \"The fate of the fool will overtake me also. What then do I gain by being wise?\" I said in my heart, \"This too is meaningless.\"", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For the wise man, like the fool, will not be long remembered; in days to come both will be forgotten. Like the fool, the wise man too must die!", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.", Ind:""},
   {Bible:"Ecclesiastes", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.", Ind:""},

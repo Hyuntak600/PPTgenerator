@@ -1,6 +1,49 @@
-// 사무엘상 25장 · 1 Samuel 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",25,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 25장 · 1Samuel 25
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",25,44);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now Samuel died, and all Israel assembled and mourned for him; and they buried him at his home in Ramah. Then David moved down into the Desert of Maon.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:2, Page:1, Kor:"", Chn:"", Eng:"A certain man in Maon, who had property there at Carmel, was very wealthy. He had a thousand goats and three thousand sheep, which he was shearing in Carmel.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:3, Page:1, Kor:"", Chn:"", Eng:"His name was Nabal and his wife's name was Abigail. She was an intelligent and beautiful woman, but her husband, a Calebite, was surly and mean in his dealings.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"While David was in the desert, he heard that Nabal was shearing sheep.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So he sent ten young men and said to them, \"Go up to Nabal at Carmel and greet him in my name.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Say to him: 'Long life to you! Good health to you and your household! And good health to all that is yours!", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"\"'Now I hear that it is sheep-shearing time. When your shepherds were with us, we did not mistreat them, and the whole time they were at Carmel nothing of theirs was missing.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Ask your own servants and they will tell you. Therefore be favorable toward my young men, since we come at a festive time. Please give your servants and your son David whatever you can find for them.'\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When David's men arrived, they gave Nabal this message in David's name. Then they waited.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Nabal answered David's servants, \"Who is this David? Who is this son of Jesse? Many servants are breaking away from their masters these days.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Why should I take my bread and water, and the meat I have slaughtered for my shearers, and give it to men coming from who knows where?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:12, Page:1, Kor:"", Chn:"", Eng:"David's men turned around and went back. When they arrived, they reported every word.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:13, Page:1, Kor:"", Chn:"", Eng:"David said to his men, \"Put on your swords!\" So they put on their swords, and David put on his. About four hundred men went up with David, while two hundred stayed with the supplies.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:14, Page:1, Kor:"", Chn:"", Eng:"One of the servants told Nabal's wife Abigail: \"David sent messengers from the desert to give our master his greetings, but he hurled insults at them.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Yet these men were very good to us. They did not mistreat us, and the whole time we were out in the fields near them nothing was missing.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Night and day they were a wall around us all the time we were herding our sheep near them.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now think it over and see what you can do, because disaster is hanging over our master and his whole household. He is such a wicked man that no one can talk to him.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Abigail lost no time. She took two hundred loaves of bread, two skins of wine, five dressed sheep, five seahs of roasted grain, a hundred cakes of raisins and two hundred cakes of pressed figs, and loaded them on donkeys.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then she told her servants, \"Go on ahead; I'll follow you.\" But she did not tell her husband Nabal.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:20, Page:1, Kor:"", Chn:"", Eng:"As she came riding her donkey into a mountain ravine, there were David and his men descending toward her, and she met them.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:21, Page:1, Kor:"", Chn:"", Eng:"David had just said, \"It's been useless--all my watching over this fellow's property in the desert so that nothing of his was missing. He has paid me back evil for good.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"May God deal with David, be it ever so severely, if by morning I leave alive one male of all who belong to him!\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When Abigail saw David, she quickly got off her donkey and bowed down before David with her face to the ground.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:24, Page:1, Kor:"", Chn:"", Eng:"She fell at his feet and said: \"My lord, let the blame be on me alone. Please let your servant speak to you; hear what your servant has to say.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:25, Page:1, Kor:"", Chn:"", Eng:"May my lord pay no attention to that wicked man Nabal. He is just like his name--his name is Fool, and folly goes with him. But as for me, your servant, I did not see the men my master sent.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:26, Page:1, Kor:"", Chn:"", Eng:"\"Now since the LORD has kept you, my master, from bloodshed and from avenging yourself with your own hands, as surely as the LORD lives and as you live, may your enemies and all who intend to harm my master be like Nabal.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And let this gift, which your servant has brought to my master, be given to the men who follow you.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Please forgive your servant's offense, for the LORD will certainly make a lasting dynasty for my master, because he fights the LORD'S battles. Let no wrongdoing be found in you as long as you live.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Even though someone is pursuing you to take your life, the life of my master will be bound securely in the bundle of the living by the LORD your God. But the lives of your enemies he will hurl away as from the pocket of a sling.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:30, Page:1, Kor:"", Chn:"", Eng:"When the LORD has done for my master every good thing he promised concerning him and has appointed him leader over Israel,", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:31, Page:1, Kor:"", Chn:"", Eng:"my master will not have on his conscience the staggering burden of needless bloodshed or of having avenged himself. And when the LORD has brought my master success, remember your servant.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:32, Page:1, Kor:"", Chn:"", Eng:"David said to Abigail, \"Praise be to the LORD, the God of Israel, who has sent you today to meet me.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:33, Page:1, Kor:"", Chn:"", Eng:"May you be blessed for your good judgment and for keeping me from bloodshed this day and from avenging myself with my own hands.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Otherwise, as surely as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, not one male belonging to Nabal would have been left alive by daybreak.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Then David accepted from her hand what she had brought him and said, \"Go home in peace. I have heard your words and granted your request.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:36, Page:1, Kor:"", Chn:"", Eng:"When Abigail went to Nabal, he was in the house holding a banquet like that of a king. He was in high spirits and very drunk. So she told him nothing until daybreak.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Then in the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he became like a stone.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:38, Page:1, Kor:"", Chn:"", Eng:"About ten days later, the LORD struck Nabal and he died.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:39, Page:1, Kor:"", Chn:"", Eng:"When David heard that Nabal was dead, he said, \"Praise be to the LORD, who has upheld my cause against Nabal for treating me with contempt. He has kept his servant from doing wrong and has brought Nabal's wrongdoing down on his own head.\" Then David sent word to Abigail, asking her to become his wife.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:40, Page:1, Kor:"", Chn:"", Eng:"His servants went to Carmel and said to Abigail, \"David has sent us to you to take you to become his wife.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:41, Page:1, Kor:"", Chn:"", Eng:"She bowed down with her face to the ground and said, \"Here is your maidservant, ready to serve you and wash the feet of my master's servants.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:42, Page:1, Kor:"", Chn:"", Eng:"Abigail quickly got on a donkey and, attended by her five maids, went with David's messengers and became his wife.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:43, Page:1, Kor:"", Chn:"", Eng:"David had also married Ahinoam of Jezreel, and they both were his wives.", Ind:""},
+  {Bible:"1Samuel", Chapter:25, Verse:44, Page:1, Kor:"", Chn:"", Eng:"But Saul had given his daughter Michal, David's wife, to Paltiel son of Laish, who was from Gallim.", Ind:""},
 ]);

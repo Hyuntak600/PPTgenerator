@@ -1,5 +1,5 @@
 // 신명기 8장 · Deuteronomy 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Deuteronomy",8,20);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Be careful to follow every command I am giving you today, so that you may live and increase and may enter and possess the land that the LORD promised on oath to your forefathers.", Ind:""},
@@ -18,7 +18,7 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"then your heart will become proud and you will forget the LORD your God, who brought you out of Egypt, out of the land of slavery.", Ind:""},
   {Bible:"Deuteronomy", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He led you through the vast and dreadful desert, that thirsty and waterless land, with its venomous snakes and scorpions. He brought you water out of hard rock.", Ind:""},
   {Bible:"Deuteronomy", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He gave you manna to eat in the desert, something your fathers had never known, to humble and to test you so that in the end it might go well with you.", Ind:""},
-  {Bible:"Deuteronomy", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may say to yourself, "My power and the strength of my hands have produced this wealth for me."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may say to yourself, \"My power and the strength of my hands have produced this wealth for me.\"", Ind:""},
   {Bible:"Deuteronomy", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But remember the LORD your God, for it is he who gives you the ability to produce wealth, and so confirms his covenant, which he swore to your forefathers, as it is today.", Ind:""},
   {Bible:"Deuteronomy", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"If you ever forget the LORD your God and follow other gods and worship and bow down to them, I testify against you today that you will surely be destroyed.", Ind:""},
   {Bible:"Deuteronomy", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Like the nations the LORD destroyed before you, so you will be destroyed for not obeying the LORD your God.", Ind:""},

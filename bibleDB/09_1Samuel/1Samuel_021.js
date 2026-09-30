@@ -1,6 +1,20 @@
-// 사무엘상 21장 · 1 Samuel 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("1 Samuel",21,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// 사무엘상 21장 · 1Samuel 21
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
+BibleDB.ref("1Samuel",21,15);
 BibleDB.add([
+  {Bible:"1Samuel", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"David went to Nob, to Ahimelech the priest. Ahimelech trembled when he met him, and asked, \"Why are you alone? Why is no one with you?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"David answered Ahimelech the priest, \"The king charged me with a certain matter and said to me, 'No one is to know anything about your mission and your instructions.' As for my men, I have told them to meet me at a certain place.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Now then, what do you have on hand? Give me five loaves of bread, or whatever you can find.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But the priest answered David, \"I don't have any ordinary bread on hand; however, there is some consecrated bread here--provided the men have kept themselves from women.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"David replied, \"Indeed women have been kept from us, as usual whenever I set out. The men's things are holy even on missions that are not holy. How much more so today!\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So the priest gave him the consecrated bread, since there was no bread there except the bread of the Presence that had been removed from before the LORD and replaced by hot bread on the day it was taken away.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Now one of Saul's servants was there that day, detained before the LORD; he was Doeg the Edomite, Saul's head shepherd.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:8, Page:1, Kor:"", Chn:"", Eng:"David asked Ahimelech, \"Don't you have a spear or a sword here? I haven't brought my sword or any other weapon, because the king's business was urgent.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The priest replied, \"The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want it, take it; there is no sword here but that one.\" David said, \"There is none like it; give it to me.\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:10, Page:1, Kor:"", Chn:"", Eng:"That day David fled from Saul and went to Achish king of Gath.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the servants of Achish said to him, \"Isn't this David, the king of the land? Isn't he the one they sing about in their dances: \"'Saul has slain his thousands, and David his tens of thousands'?\"", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:12, Page:1, Kor:"", Chn:"", Eng:"David took these words to heart and was very much afraid of Achish king of Gath.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So he pretended to be insane in their presence; and while he was in their hands he acted like a madman, making marks on the doors of the gate and letting saliva run down his beard.", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Achish said to his servants, \"Look at the man! He is insane! Why bring him to me?", Ind:""},
+  {Bible:"1Samuel", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Am I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?\"", Ind:""},
 ]);

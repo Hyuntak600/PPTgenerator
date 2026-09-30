@@ -1,5 +1,5 @@
 // 잠언 22장 · Proverbs 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",22,29);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A good name is more desirable than great riches; to be esteemed is better than silver or gold.", Ind:""},
@@ -14,7 +14,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Drive out the mocker, and out goes strife; quarrels and insults are ended.", Ind:""},
   {Bible:"Proverbs", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He who loves a pure heart and whose speech is gracious will have the king for his friend.", Ind:""},
   {Bible:"Proverbs", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The eyes of the LORD keep watch over knowledge, but he frustrates the words of the unfaithful.", Ind:""},
-  {Bible:"Proverbs", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sluggard says, "There is a lion outside!" or, "I will be murdered in the streets!"", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sluggard says, \"There is a lion outside!\" or, \"I will be murdered in the streets!\"", Ind:""},
   {Bible:"Proverbs", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The mouth of an adulteress is a deep pit; he who is under the LORD'S wrath will fall into it.", Ind:""},
   {Bible:"Proverbs", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Folly is bound up in the heart of a child, but the rod of discipline will drive it far from him.", Ind:""},
   {Bible:"Proverbs", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He who oppresses the poor to increase his wealth and he who gives gifts to the rich--both come to poverty.", Ind:""},

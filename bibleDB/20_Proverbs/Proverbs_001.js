@@ -1,5 +1,5 @@
 // 잠언 1장 · Proverbs 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Proverbs",1,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The proverbs of Solomon son of David, king of Israel:", Ind:""},
@@ -12,10 +12,10 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Listen, my son, to your father's instruction and do not forsake your mother's teaching.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"They will be a garland to grace your head and a chain to adorn your neck.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"My son, if sinners entice you, do not give in to them.", Ind:""},
-  {Bible:"Proverbs", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If they say, "Come along with us; let's lie in wait for someone's blood, let's waylay some harmless soul;", Ind:""},
+  {Bible:"Proverbs", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If they say, \"Come along with us; let's lie in wait for someone's blood, let's waylay some harmless soul;", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"let's swallow them alive, like the grave, and whole, like those who go down to the pit;", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"we will get all sorts of valuable things and fill our houses with plunder;", Ind:""},
-  {Bible:"Proverbs", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"throw in your lot with us, and we will share a common purse"--", Ind:""},
+  {Bible:"Proverbs", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"throw in your lot with us, and we will share a common purse\"--", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"my son, do not go along with them, do not set foot on their paths;", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"for their feet rush into sin, they are swift to shed blood.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"How useless to spread a net in full view of all the birds!", Ind:""},
@@ -23,16 +23,16 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Such is the end of all who go after ill-gotten gain; it takes away the lives of those who get it.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Wisdom calls aloud in the street, she raises her voice in the public squares;", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"at the head of the noisy streets she cries out, in the gateways of the city she makes her speech:", Ind:""},
-  {Bible:"Proverbs", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:""How long will you simple ones love your simple ways? How long will mockers delight in mockery and fools hate knowledge?", Ind:""},
+  {Bible:"Proverbs", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"\"How long will you simple ones love your simple ways? How long will mockers delight in mockery and fools hate knowledge?", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If you had responded to my rebuke, I would have poured out my heart to you and made my thoughts known to you.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But since you rejected me when I called and no one gave heed when I stretched out my hand,", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"since you ignored all my advice and would not accept my rebuke,", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I in turn will laugh at your disaster; I will mock when calamity overtakes you--", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you.", Ind:""},
-  {Bible:"Proverbs", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Then they will call to me but I will not answer; they will look for me but will not find me.", Ind:""},
+  {Bible:"Proverbs", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"\"Then they will call to me but I will not answer; they will look for me but will not find me.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Since they hated knowledge and did not choose to fear the LORD,", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"since they would not accept my advice and spurned my rebuke,", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:31, Page:1, Kor:"", Chn:"", Eng:"they will eat the fruit of their ways and be filled with the fruit of their schemes.", Ind:""},
   {Bible:"Proverbs", Chapter:1, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For the waywardness of the simple will kill them, and the complacency of fools will destroy them;", Ind:""},
-  {Bible:"Proverbs", Chapter:1, Verse:33, Page:1, Kor:"", Chn:"", Eng:"but whoever listens to me will live in safety and be at ease, without fear of harm."", Ind:""},
+  {Bible:"Proverbs", Chapter:1, Verse:33, Page:1, Kor:"", Chn:"", Eng:"but whoever listens to me will live in safety and be at ease, without fear of harm.\"", Ind:""},
 ]);

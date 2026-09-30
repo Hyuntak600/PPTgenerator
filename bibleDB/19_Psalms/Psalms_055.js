@@ -1,5 +1,5 @@
 // 시편 55장 · Psalms 55
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",55,23);
 BibleDB.add([
   {Bible:"Psalms", Chapter:55, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Listen to my prayer, O God, do not ignore my plea;", Ind:""},
@@ -7,9 +7,9 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:55, Verse:3, Page:1, Kor:"", Chn:"", Eng:"at the voice of the enemy, at the stares of the wicked; for they bring down suffering upon me and revile me in their anger.", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:4, Page:1, Kor:"", Chn:"", Eng:"My heart is in anguish within me; the terrors of death assail me.", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Fear and trembling have beset me; horror has overwhelmed me.", Ind:""},
-  {Bible:"Psalms", Chapter:55, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I said, "Oh, that I had the wings of a dove! I would fly away and be at rest--", Ind:""},
+  {Bible:"Psalms", Chapter:55, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I said, \"Oh, that I had the wings of a dove! I would fly away and be at rest--", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I would flee far away and stay in the desert; Selah", Ind:""},
-  {Bible:"Psalms", Chapter:55, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I would hurry to my place of shelter, far from the tempest and storm."", Ind:""},
+  {Bible:"Psalms", Chapter:55, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I would hurry to my place of shelter, far from the tempest and storm.\"", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Confuse the wicked, O Lord, confound their speech, for I see violence and strife in the city.", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Day and night they prowl about on its walls; malice and abuse are within it.", Ind:""},
   {Bible:"Psalms", Chapter:55, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Destructive forces are at work in the city; threats and lies never leave its streets.", Ind:""},

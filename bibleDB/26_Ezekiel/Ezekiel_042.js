@@ -1,5 +1,5 @@
 // 에스겔 42장 · Ezekiel 42
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Ezekiel",42,20);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:42, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the man led me northward into the outer court and brought me to the rooms opposite the temple courtyard and opposite the outer wall on the north side.", Ind:""},
@@ -14,8 +14,8 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:42, Verse:10, Page:1, Kor:"", Chn:"", Eng:"On the south side along the length of the wall of the outer court, adjoining the temple courtyard and opposite the outer wall, were rooms", Ind:""},
   {Bible:"Ezekiel", Chapter:42, Verse:11, Page:1, Kor:"", Chn:"", Eng:"with a passageway in front of them. These were like the rooms on the north; they had the same length and width, with similar exits and dimensions. Similar to the doorways on the north", Ind:""},
   {Bible:"Ezekiel", Chapter:42, Verse:12, Page:1, Kor:"", Chn:"", Eng:"were the doorways of the rooms on the south. There was a doorway at the beginning of the passageway that was parallel to the corresponding wall extending eastward, by which one enters the rooms.", Ind:""},
-  {Bible:"Ezekiel", Chapter:42, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then he said to me, "The north and south rooms facing the temple courtyard are the priests' rooms, where the priests who approach the LORD will eat the most holy offerings. There they will put the most holy offerings--the grain offerings, the sin offerings and the guilt offerings--for the place is holy.", Ind:""},
-  {Bible:"Ezekiel", Chapter:42, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Once the priests enter the holy precincts, they are not to go into the outer court until they leave behind the garments in which they minister, for these are holy. They are to put on other clothes before they go near the places that are for the people."", Ind:""},
+  {Bible:"Ezekiel", Chapter:42, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then he said to me, \"The north and south rooms facing the temple courtyard are the priests' rooms, where the priests who approach the LORD will eat the most holy offerings. There they will put the most holy offerings--the grain offerings, the sin offerings and the guilt offerings--for the place is holy.", Ind:""},
+  {Bible:"Ezekiel", Chapter:42, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Once the priests enter the holy precincts, they are not to go into the outer court until they leave behind the garments in which they minister, for these are holy. They are to put on other clothes before they go near the places that are for the people.\"", Ind:""},
   {Bible:"Ezekiel", Chapter:42, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When he had finished measuring what was inside the temple area, he led me out by the east gate and measured the area all around:", Ind:""},
   {Bible:"Ezekiel", Chapter:42, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He measured the east side with the measuring rod; it was five hundred cubits.", Ind:""},
   {Bible:"Ezekiel", Chapter:42, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He measured the north side; it was five hundred cubits by the measuring rod.", Ind:""},
