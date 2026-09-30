@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 import re
@@ -204,6 +205,127 @@ for canonical_book, chinese_name in bible_chinese_book_names.items():
   if existing and existing[0] != canonical_book:
     raise ValueError(f"중국어 책 이름이 다른 책과 겹칩니다: {chinese_name}")
   bible_books_master[chinese_name] = (canonical_book, chinese_name)
+
+
+def parse_chinese_numberless_chapters(lines, source_name):
+  chapters = {}
+  current_book = None
+  current_chapter = None
+  verse_lines = []
+
+  def save_chapter():
+    if current_book is None or current_chapter is None:
+      return
+    if not verse_lines:
+      raise ValueError(f"중국어 장 본문이 비어 있습니다: {source_name}")
+    key = (current_book, current_chapter)
+    if key in chapters:
+      raise ValueError(f"중국어 장이 중복됐습니다: {source_name} {key}")
+    chapters[key] = list(verse_lines)
+    verse_lines.clear()
+
+  for line_number, raw_line in enumerate(lines, 1):
+    line = raw_line.rstrip("\r\n")
+    if line_number == 1 and line.startswith("\ufeff"):
+      line = line[1:]
+    if not line.strip():
+      continue
+    heading = line.strip()
+
+    if heading.endswith("."):
+      candidate = get_validated_book(heading[:-1].strip())
+      if candidate:
+        save_chapter()
+        expected_title = bible_chinese_book_names.get(candidate)
+        if expected_title != heading[:-1].strip():
+          raise ValueError(f"중국어 책 이름이 화합본 기준과 다릅니다: {source_name}:{line_number}")
+        current_book = candidate
+        current_chapter = None
+        continue
+
+    chapter_match = re.fullmatch(r"(\d+)\.", heading)
+    if chapter_match:
+      save_chapter()
+      if current_book is None:
+        raise ValueError(f"책 이름보다 장 번호가 먼저 나왔습니다: {source_name}:{line_number}")
+      current_chapter = int(chapter_match.group(1))
+      if current_chapter < 1 or current_chapter > bible_chapter_counts[current_book]:
+        raise ValueError(
+            f"중국어 장 번호가 범위를 벗어났습니다: "
+            f"{source_name}:{line_number} {current_book} {current_chapter}장"
+        )
+      continue
+
+    if current_book is None or current_chapter is None:
+      raise ValueError(f"책/장 헤더 밖의 중국어 본문입니다: {source_name}:{line_number}")
+    verse_lines.append(line.rstrip())
+
+  save_chapter()
+  return chapters
+
+
+def load_chinese_numberless_file(filename):
+  with open(filename, "r", encoding="utf-8-sig") as source_file:
+    chapters = parse_chinese_numberless_chapters(source_file.readlines(), filename)
+
+  expected_refs = {
+      (book, chapter)
+      for book, chapter_count in bible_chapter_counts.items()
+      for chapter in range(1, chapter_count + 1)
+  }
+  if set(chapters) != expected_refs:
+    missing = sorted(
+        expected_refs - set(chapters), key=lambda item: (bible_book_numbers[item[0]], item[1])
+    )
+    extra = sorted(set(chapters) - expected_refs)
+    raise ValueError(
+        f"중국어 통합 파일 구성이 66권·1189장 기준과 다릅니다. "
+        f"누락={missing[:5]}, 범위 밖={extra[:5]}"
+    )
+  return chapters
+
+
+def load_chinese_numberless_sources():
+  source_dir = os.path.join(BASE_DIR, "chinese bible")
+  file_pattern = re.compile(r"cmn-cu89s_\d+_([A-Z0-9]+)_(\d+)_read\.txt")
+  chapters = {}
+
+  for filename in os.listdir(source_dir):
+    match = file_pattern.fullmatch(filename)
+    if not match:
+      continue
+    source_code, chapter_text = match.groups()
+    if source_code == "000" and chapter_text == "000":
+      continue
+    expected_book = bible_chinese_source_codes.get(source_code)
+    if not expected_book:
+      raise ValueError(f"화합본 파일명의 책 코드가 목록에 없습니다: {filename}")
+
+    source_path = os.path.join(source_dir, filename)
+    with open(source_path, "r", encoding="utf-8-sig") as source_file:
+      parsed = parse_chinese_numberless_chapters(source_file.readlines(), filename)
+    if len(parsed) != 1:
+      raise ValueError(f"장별 중국어 원본에 장이 하나가 아닙니다: {filename}")
+    (book, chapter), verse_lines = next(iter(parsed.items()))
+    if book != expected_book or chapter != int(chapter_text):
+      raise ValueError(f"화합본 파일명 코드와 책/장이 다릅니다: {filename}")
+    if (book, chapter) in chapters:
+      raise ValueError(f"중국어 원본 장이 중복됐습니다: {book} {chapter}장")
+    chapters[book, chapter] = verse_lines
+
+  expected_refs = {
+      (book, chapter)
+      for book, chapter_count in bible_chapter_counts.items()
+      for chapter in range(1, chapter_count + 1)
+  }
+  if set(chapters) != expected_refs:
+    missing = sorted(
+        expected_refs - set(chapters), key=lambda item: (bible_book_numbers[item[0]], item[1])
+    )
+    extra = sorted(set(chapters) - expected_refs)
+    raise ValueError(f"중국어 원본 장 구성이 다릅니다. 누락={missing[:5]}, 범위 밖={extra[:5]}")
+  return chapters
+
 
 def sanitize_text(text):
   if not text:
@@ -680,6 +802,75 @@ def export_korean_to_existing_files(db):
   )
 
 
+def export_chinese_to_existing_files(chinese_chapters=None):
+  if chinese_chapters is None:
+    chinese_chapters = load_chinese_numberless_sources()
+  plans = []
+  skipped = []
+
+  for (book, chapter), verse_lines in sorted(
+      chinese_chapters.items(), key=lambda item: (bible_book_numbers[item[0][0]], item[0][1])
+  ):
+    target_path = os.path.join(
+        find_existing_book_dir(book), f"{book}_{chapter:03d}.js"
+    )
+    if not os.path.isfile(target_path):
+      raise FileNotFoundError(f"기존 장 파일이 없어 새로 만들지 않았습니다: {target_path}")
+
+    with open(target_path, "r", encoding="utf-8") as target_file:
+      original = target_file.read()
+    ref_match = re.search(
+        r'BibleDB\.ref\(\s*"([^"]+)"\s*,\s*(\d+)\s*,\s*(\d+)\s*\)',
+        original,
+    )
+    if not ref_match or ref_match.group(1) != book or int(ref_match.group(2)) != chapter:
+      raise ValueError(f"기존 장 파일의 책/장 정보가 다릅니다: {target_path}")
+    expected_verses = int(ref_match.group(3))
+    if len(verse_lines) != expected_verses:
+      skipped.append((book, chapter, len(verse_lines), expected_verses))
+      continue
+
+    lines = original.splitlines(keepends=True)
+    add_start = next((i for i, line in enumerate(lines) if "BibleDB.add([" in line), None)
+    add_end = next(
+        (i for i, line in enumerate(lines) if re.match(r"\s*\]\);\s*$", line)), None
+    )
+    if add_start is None or add_end is None or add_end <= add_start:
+      raise ValueError(f"기존 장 파일의 BibleDB.add 배열이 올바르지 않습니다: {target_path}")
+
+    rows_by_verse = {}
+    for index in range(add_start + 1, add_end):
+      row = parse_js_row(lines[index])
+      if row is None:
+        continue
+      row_book, row_chapter, verse, page = row
+      if row_book != book or row_chapter != chapter:
+        raise ValueError(f"기존 행의 책/장이 다릅니다: {target_path}:{index + 1}")
+      rows_by_verse.setdefault(verse, []).append((index, page))
+
+    updated_lines = list(lines)
+    for verse, chinese_text in enumerate(verse_lines, 1):
+      page_one_rows = [index for index, page in rows_by_verse.get(verse, []) if page == 1]
+      if len(page_one_rows) != 1:
+        raise ValueError(f"기존 절 행이 하나가 아닙니다: {target_path} {chapter}:{verse}")
+      index = page_one_rows[0]
+      updated_lines[index] = replace_js_string_property(
+          updated_lines[index], "Chn", chinese_text
+      )
+    plans.append((target_path, "".join(updated_lines)))
+
+  for target_path, content in plans:
+    with open(target_path, "w", encoding="utf-8", newline="") as target_file:
+      target_file.write(content)
+
+  print(
+      f"화합본 중국어 반영: {len(plans)}개 기존 장 파일, "
+      f"줄/절 수 불일치로 보류 {len(skipped)}개, 새 파일 생성 0개"
+  )
+  for book, chapter, line_count, verse_count in skipped:
+    print(f"검토 필요: {book} {chapter}장 (본문 줄 {line_count}, 기존 절 {verse_count})")
+
+
 def export_to_js_files(db):
   chapter_groups = {}
   for ref_key, data in db.items():
@@ -730,10 +921,27 @@ def export_to_js_files(db):
     print(f"생성/덮어쓰기 완료: {file_path}")
 
 if __name__ == "__main__":
+  parser = argparse.ArgumentParser()
+  parser.add_argument(
+      "--chinese-source",
+      help="책 이름·장 번호·절별 줄이 들어 있는 중국어 통합 파일 경로",
+  )
+  args = parser.parse_args()
+
   load_and_update_bible(os.path.join(BASE_DIR, "BibleData_Kor.txt"), "Kor")
 
   print("\n--- 기존 장 파일의 한글 본문 갱신 시작 ---")
   export_korean_to_existing_files(bible_database)
   print("\n--- 책/장 번호 전수 정리 및 중복 파일 제거 시작 ---")
   repair_duplicate_chapter_files()
+
+  if args.chinese_source:
+    chinese_source = args.chinese_source
+    if not os.path.isabs(chinese_source):
+      chinese_source = os.path.join(BASE_DIR, chinese_source)
+    print("\n--- 통합 화합본 중국어 갱신 시작 ---")
+    export_chinese_to_existing_files(load_chinese_numberless_file(chinese_source))
+  else:
+    print("중국어 통합 파일을 지정하지 않아 중국어 본문은 갱신하지 않았습니다.")
+
   print("모든 작업이 완료되었습니다!")
