@@ -1,18 +1,19 @@
 // 베드로전서 5장 · 1Peter 5
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("1Peter",5,13);
+BibleDB.ref("1Peter",5,14);
 BibleDB.add([
-  {Bible:"1Peter", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"To the elders among you, I appeal as a fellow elder, a witness of Christ's sufferings and one who also will share in the glory to be revealed:", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Be shepherds of God's flock that is under your care, serving as overseers--not because you must, but because you are willing, as God wants you to be; not greedy for money, but eager to serve;", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"not lording it over those entrusted to you, but being examples to the flock.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Young men, in the same way be submissive to those who are older. All of you, clothe yourselves with humility toward one another, because, \"God opposes the proud but gives grace to the humble.\"", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Cast all your anxiety on him because he cares for you.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Be self-controlled and alert. Your enemy the devil prowls around like a roaring lion looking for someone to devour.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Resist him, standing firm in the faith, because you know that your brothers throughout the world are undergoing the same kind of sufferings.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"To him be the power for ever and ever. Amen.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"With the help of Silas, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.", Ind:""},
-  {Bible:"1Peter", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:1, Page:1, Kor:"<하나님의 양 떼를 돌보십시오> 나는 여러분 가운데 장로로 있는 이들에게, 같은 장로로서, 또한 그리스도의 고난의 증인이요 앞으로 나타날 영광을 함께 누릴 사람으로서 권면합니다.", Chn:"", Eng:"To the elders among you, I appeal as a fellow elder, a witness of Christ's sufferings and one who also will share in the glory to be revealed:", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:2, Page:1, Kor:"여러분 가운데 있는 하나님의 양 떼를 먹이십시오.a 억지로 할 것이 아니라, b하나님의 뜻을 따라 자진하여 하고, 더러운 이익을 탐하여 할 것이 아니라, 기쁜 마음으로 하십시오.(a 다른 고대 사본들에는 '그들을 잘 감독하십시오'가 있음 b 다른 고대 사본들에는 '하나님의 뜻을 따라'가 없음)", Chn:"", Eng:"Be shepherds of God's flock that is under your care, serving as overseers--not because you must, but because you are willing, as God wants you to be; not greedy for money, but eager to serve;", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:3, Page:1, Kor:"여러분은 여러분이 맡은 사람들을 지배하려고 하지 말고, 양 떼의 모범이 되십시오.", Chn:"", Eng:"not lording it over those entrusted to you, but being examples to the flock.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:4, Page:1, Kor:"그러면 목자장이 나타나실 때에 변하지 않는 영광의 면류관을 얻을 것입니다.", Chn:"", Eng:"And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:5, Page:1, Kor:"○젊은이 여러분, 이와 같이 여러분도 c나이가 많은 이들에게 복종하십시오. 모두가 서로서로 겸손의 옷을 입으십시오.  d하나님께서는 교만한 자를 물리치시고, 겸손한 사람에게 은혜를 베푸십니다. (c 또는 '장로들에게' d 잠 3:34(칠십인역))", Chn:"", Eng:"Young men, in the same way be submissive to those who are older. All of you, clothe yourselves with humility toward one another, because, \"God opposes the proud but gives grace to the humble.\"", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:6, Page:1, Kor:"○그러므로 여러분은 하나님의 능력의 손 아래로 자기를 낮추십시오. 때가 되면, 하나님께서 여러분을 높이실 것입니다.", Chn:"", Eng:"Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:7, Page:1, Kor:"여러분의 걱정을 모두 하나님께 맡기십시오. 하나님께서는 여러분을 돌보고 계십니다.", Chn:"", Eng:"Cast all your anxiety on him because he cares for you.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:8, Page:1, Kor:"○정신을 차리고, 깨어 있으십시오. 여러분의 원수 e악마가, 우는 사자 같이 삼킬 자를 찾아 두루 다닙니다.(e 그, '훼방자')", Chn:"", Eng:"Be self-controlled and alert. Your enemy the devil prowls around like a roaring lion looking for someone to devour.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:9, Page:1, Kor:"믿음에 굳게 서서, e악마를 맞서 싸우십시오. 여러분도 아는 대로, 세상에 있는 여러분의 f형제자매들도 다 같은 고난을 겪고 있습니다.(e 그, '훼방자' f 그, '형제의 관계')", Chn:"", Eng:"Resist him, standing firm in the faith, because you know that your brothers throughout the world are undergoing the same kind of sufferings.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:10, Page:1, Kor:"모든 은혜를 주시는 하나님, 곧 그리스도 안에서 여러분을 자기의 영원한 영광에 불러들이신 분께서, 잠시동안 고난을 받은 여러분을 친히 온전하게 하시고, 굳게 세워 주시고, 강하게 하시고, 기초를 튼튼하게 하여 주실 것입니다.", Chn:"", Eng:"And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:11, Page:1, Kor:"권세가 영원히 하나님께 있기를 빕니다. 아멘.", Chn:"", Eng:"To him be the power for ever and ever. Amen.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:12, Page:1, Kor:"<작별 인사> ○내가 신실한 형제로 여기는 실루아노의 손을 빌려서 나는 여러분에게 몇 마디 썼습니다. 이로써 나는 여러분을 격려하고 이것이 하나님의 참된 은혜라는 것을 증거합니다. 여러분은 이 은혜 안에 든든히 서십시오.", Chn:"", Eng:"With the help of Silas, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:13, Page:1, Kor:"여러분과 함께 택하심을 받은 g바빌론에 있는 자매 교회와 나의 아들 마가가 여러분에게 문안합니다.(g 요한계시록에서처럼 로마를 가리킴)", Chn:"", Eng:"She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark.", Ind:""},
+  {Bible:"1Peter", Chapter:5, Verse:14, Page:1, Kor:"여러분도 사랑의 입맞춤으로써 서로 문안하십시오. 그리스도 안에 있는 여러분 모두에게 평화가 있기를 빕니다.h(h 다른 고대 사본들에는 절 끝에 '아멘'이 있음)", Chn:"", Eng:"", Ind:""},
 ]);

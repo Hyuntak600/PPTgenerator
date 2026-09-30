@@ -2,12 +2,12 @@
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",138,8);
 BibleDB.add([
-  {Bible:"Psalms", Chapter:138, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I will praise you, O LORD, with all my heart; before the \"gods\" I will sing your praise.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I will bow down toward your holy temple and will praise your name for your love and your faithfulness, for you have exalted above all things your name and your word.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When I called, you answered me; you made me bold and stouthearted.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:4, Page:1, Kor:"", Chn:"", Eng:"May all the kings of the earth praise you, O LORD, when they hear the words of your mouth.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:5, Page:1, Kor:"", Chn:"", Eng:"May they sing of the ways of the LORD, for the glory of the LORD is great.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Though the LORD is on high, he looks upon the lowly, but the proud he knows from afar.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my foes, with your right hand you save me.", Ind:""},
-  {Bible:"Psalms", Chapter:138, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The LORD will fulfill his purpose for me; your love, O LORD, endures forever--do not abandon the works of your hands.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:1, Page:1, Kor:"<다윗의 노래> 주님, 온 마음을 기울여서 주님께 감사를 드립니다. 신들 앞에서, 내가 주님께 찬양을 드리렵니다.", Chn:"", Eng:"I will praise you, O LORD, with all my heart; before the \"gods\" I will sing your praise.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:2, Page:1, Kor:"내가 주님의 성전을 바라보면서 경배하고, 주님의 인자하심과 주님의 진실하심을 생각하면서 주님의 이름에 감사를 드립니다. a주님은 주님의 이름과 말씀을 온갖 것보다 더 높이셨습니다. (a 히, '주님은 주님의 말씀을 주님의 모든 이름보다 더 높이셨습니다')", Chn:"", Eng:"I will bow down toward your holy temple and will praise your name for your love and your faithfulness, for you have exalted above all things your name and your word.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:3, Page:1, Kor:"내가 부르짖었을 때에, 주님께서는 나에게 응답해 주셨고, b나에게 힘을 한껏 북돋우어 주셨습니다. (b 시리아어역을 따름(칠십인역과 타르굼 참조). 히, '내 영혼에 힘을 주시어 나를 거만하게 하셨습니다')", Chn:"", Eng:"When I called, you answered me; you made me bold and stouthearted.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:4, Page:1, Kor:"주님, 주님께서 친히 하신 말씀을 들은 모든 왕들이 주님께 감사를 드립니다.", Chn:"", Eng:"May all the kings of the earth praise you, O LORD, when they hear the words of your mouth.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:5, Page:1, Kor:"주님의 영광이 참으로 크시므로, 주님께서 하신 일을 그들이 노래합니다.", Chn:"", Eng:"May they sing of the ways of the LORD, for the glory of the LORD is great.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:6, Page:1, Kor:"주님께서는 높은 분이시지만, 낮은 자를 굽어보시며, 멀리서도 오만한 자를 다 알아보십니다.", Chn:"", Eng:"Though the LORD is on high, he looks upon the lowly, but the proud he knows from afar.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:7, Page:1, Kor:"내가 고난의 길 한복판을 걷는다고 하여도, 주님께서 나에게 새 힘 주시고, 손을 내미셔서, 내 원수들의 분노를 가라앉혀 주시며, 주님의 오른손으로 나를 구원하여 주십니다.", Chn:"", Eng:"Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my foes, with your right hand you save me.", Ind:""},
+  {Bible:"Psalms", Chapter:138, Verse:8, Page:1, Kor:"주님께서 나를 위해 그들에게 갚아주시니, 주님, 주님의 인자하심은 영원합니다. 주님께서 손수 지으신 이 모든 것을 버리지 말아 주십시오.", Chn:"", Eng:"The LORD will fulfill his purpose for me; your love, O LORD, endures forever--do not abandon the works of your hands.", Ind:""},
 ]);
