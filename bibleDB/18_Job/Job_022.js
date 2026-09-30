@@ -1,6 +1,35 @@
 // 욥기 22장 · Job 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",22,30);
 BibleDB.add([
+  {Bible:"Job", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Eliphaz the Temanite replied:", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Can a man be of benefit to God? Can even a wise man benefit him?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"What pleasure would it give the Almighty if you were righteous? What would he gain if your ways were blameless?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Is it for your piety that he rebukes you and brings charges against you?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Is not your wickedness great? Are not your sins endless?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You demanded security from your brothers for no reason; you stripped men of their clothing, leaving them naked.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You gave no water to the weary and you withheld food from the hungry,", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"though you were a powerful man, owning land--an honored man, living on it.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And you sent widows away empty-handed and broke the strength of the fatherless.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"That is why snares are all around you, why sudden peril terrifies you,", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"why it is so dark you cannot see, and why a flood of water covers you.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Is not God in the heights of heaven? And see how lofty are the highest stars!", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Yet you say, 'What does God know? Does he judge through such darkness?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Thick clouds veil him, so he does not see us as he goes about in the vaulted heavens.'", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Will you keep to the old path that evil men have trod?", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They were carried off before their time, their foundations washed away by a flood.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"They said to God, 'Leave us alone! What can the Almighty do to us?'", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Yet it was he who filled their houses with good things, so I stand aloof from the counsel of the wicked.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:""The righteous see their ruin and rejoice; the innocent mock them, saying,", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"'Surely our foes are destroyed, and fire devours their wealth.'", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Submit to God and be at peace with him; in this way prosperity will come to you.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Accept instruction from his mouth and lay up his words in your heart.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If you return to the Almighty, you will be restored: If you remove wickedness far from your tent", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and assign your nuggets to the dust, your gold of Ophir to the rocks in the ravines,", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"then the Almighty will be your gold, the choicest silver for you.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Surely then you will find delight in the Almighty and will lift up your face to God.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"You will pray to him, and he will hear you, and you will fulfill your vows.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"What you decide on will be done, and light will shine on your ways.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"When men are brought low and you say, 'Lift them up!' then he will save the downcast.", Ind:""},
+  {Bible:"Job", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He will deliver even one who is not innocent, who will be delivered through the cleanness of your hands."", Ind:""},
 ]);

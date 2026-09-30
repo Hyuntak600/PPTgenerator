@@ -1,6 +1,37 @@
 // 여호수아 24장 · Joshua 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joshua",24,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joshua",24,32);
 BibleDB.add([
+  {Bible:"Joshua", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges and officials of Israel, and they presented themselves before God.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Joshua said to all the people, "This is what the LORD, the God of Israel, says: 'Long ago your forefathers, including Terah the father of Abraham and Nahor, lived beyond the River and worshiped other gods.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But I took your father Abraham from the land beyond the River and led him throughout Canaan and gave him many descendants. I gave him Isaac,", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and to Isaac I gave Jacob and Esau. I assigned the hill country of Seir to Esau, but Jacob and his sons went down to Egypt.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:5, Page:1, Kor:"", Chn:"", Eng:""'Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and I brought you out.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When I brought your fathers out of Egypt, you came to the sea, and the Egyptians pursued them with chariots and horsemen as far as the Red Sea.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But they cried to the LORD for help, and he put darkness between you and the Egyptians; he brought the sea over them and covered them. You saw with your own eyes what I did to the Egyptians. Then you lived in the desert for a long time.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'I brought you to the land of the Amorites who lived east of the Jordan. They fought against you, but I gave them into your hands. I destroyed them from before you, and you took possession of their land.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When Balak son of Zippor, the king of Moab, prepared to fight against Israel, he sent for Balaam son of Beor to put a curse on you.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But I would not listen to Balaam, so he blessed you again and again, and I delivered you out of his hand.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'Then you crossed the Jordan and came to Jericho. The citizens of Jericho fought against you, as did also the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites and Jebusites, but I gave them into your hands.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I sent the hornet ahead of you, which drove them out before you--also the two Amorite kings. You did not do it with your own sword and bow.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So I gave you a land on which you did not toil and cities you did not build; and you live in them and eat from vineyards and olive groves that you did not plant.'", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:""Now fear the LORD and serve him with all faithfulness. Throw away the gods your forefathers worshiped beyond the River and in Egypt, and serve the LORD.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers served beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then the people answered, "Far be it from us to forsake the LORD to serve other gods!", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:17, Page:1, Kor:"", Chn:"", Eng:"It was the LORD our God himself who brought us and our fathers up out of Egypt, from that land of slavery, and performed those great signs before our eyes. He protected us on our entire journey and among all the nations through which we traveled.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And the LORD drove out before us all the nations, including the Amorites, who lived in the land. We too will serve the LORD, because he is our God."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Joshua said to the people, "You are not able to serve the LORD. He is a holy God; he is a jealous God. He will not forgive your rebellion and your sins.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:20, Page:1, Kor:"", Chn:"", Eng:"If you forsake the LORD and serve foreign gods, he will turn and bring disaster on you and make an end of you, after he has been good to you."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But the people said to Joshua, "No! We will serve the LORD."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then Joshua said, "You are witnesses against yourselves that you have chosen to serve the LORD." "Yes, we are witnesses," they replied.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Now then," said Joshua, "throw away the foreign gods that are among you and yield your hearts to the LORD, the God of Israel."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And the people said to Joshua, "We will serve the LORD our God and obey him."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:25, Page:1, Kor:"", Chn:"", Eng:"On that day Joshua made a covenant for the people, and there at Shechem he drew up for them decrees and laws.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And Joshua recorded these things in the Book of the Law of God. Then he took a large stone and set it up there under the oak near the holy place of the LORD.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:27, Page:1, Kor:"", Chn:"", Eng:""See!" he said to all the people. "This stone will be a witness against us. It has heard all the words the LORD has said to us. It will be a witness against you if you are untrue to your God."", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Joshua sent the people away, each to his own inheritance.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:29, Page:1, Kor:"", Chn:"", Eng:"After these things, Joshua son of Nun, the servant of the LORD, died at the age of a hundred and ten.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And they buried him in the land of his inheritance, at Timnath Serah in the hill country of Ephraim, north of Mount Gaash.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Israel served the LORD throughout the lifetime of Joshua and of the elders who outlived him and who had experienced everything the LORD had done for Israel.", Ind:""},
+  {Bible:"Joshua", Chapter:24, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And Joseph's bones, which the Israelites had brought up from Egypt, were buried at Shechem in the tract of land that Jacob bought for a hundred pieces of silver from the sons of Hamor, the father of Shechem. This became the inheritance of Joseph's descendants.", Ind:""},
 ]);

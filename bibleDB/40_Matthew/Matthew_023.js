@@ -1,6 +1,44 @@
 // 마태복음 23장 · Matthew 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",23,39);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Jesus said to the crowds and to his disciples:", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:""The teachers of the law and the Pharisees sit in Moses' seat.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So you must obey them and do everything they tell you. But do not do what they do, for they do not practice what they preach.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They tie up heavy loads and put them on men's shoulders, but they themselves are not willing to lift a finger to move them.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Everything they do is done for men to see: They make their phylacteries wide and the tassels on their garments long;", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"they love the place of honor at banquets and the most important seats in the synagogues;", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"they love to be greeted in the marketplaces and to have men call them 'Rabbi.'", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:""But you are not to be called 'Rabbi,' for you have only one Master and you are all brothers.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And do not call anyone on earth 'father,' for you have one Father, and he is in heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Nor are you to be called 'teacher,' for you have one Teacher, the Christ.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The greatest among you will be your servant.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the kingdom of heaven in men's faces. You yourselves do not enter, nor will you let those enter who are trying to.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Woe to you, blind guides! You say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:"You also say, 'If anyone swears by the altar, it means nothing; but if anyone swears by the gift on it, he is bound by his oath.'", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You blind men! Which is greater: the gift, or the altar that makes the gift sacred?", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Therefore, he who swears by the altar swears by it and by everything on it.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:"And he who swears by the temple swears by it and by the one who dwells in it.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And he who swears by heaven swears by God's throne and by the one who sits on it.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices--mint, dill and cummin. But you have neglected the more important matters of the law--justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You blind guides! You strain out a gnat but swallow a camel.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of dead men's bones and everything unclean.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:28, Page:1, Kor:"", Chn:"", Eng:"In the same way, on the outside you appear to people as righteous but on the inside you are full of hypocrisy and wickedness.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Woe to you, teachers of the law and Pharisees, you hypocrites! You build tombs for the prophets and decorate the graves of the righteous.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And you say, 'If we had lived in the days of our forefathers, we would not have taken part with them in shedding the blood of the prophets.'", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:31, Page:1, Kor:"", Chn:"", Eng:"So you testify against yourselves that you are the descendants of those who murdered the prophets.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Fill up, then, the measure of the sin of your forefathers!", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:33, Page:1, Kor:"", Chn:"", Eng:""You snakes! You brood of vipers! How will you escape being condemned to hell?", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Therefore I am sending you prophets and wise men and teachers. Some of them you will kill and crucify; others you will flog in your synagogues and pursue from town to town.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:35, Page:1, Kor:"", Chn:"", Eng:"And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:36, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, all this will come upon this generation.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:37, Page:1, Kor:"", Chn:"", Eng:""O Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were not willing.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:38, Page:1, Kor:"", Chn:"", Eng:"Look, your house is left to you desolate.", Ind:""},
+  {Bible:"Matthew", Chapter:23, Verse:39, Page:1, Kor:"", Chn:"", Eng:"For I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'"", Ind:""},
 ]);

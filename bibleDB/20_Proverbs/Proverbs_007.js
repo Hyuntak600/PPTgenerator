@@ -1,6 +1,32 @@
 // 잠언 7장 · Proverbs 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",7,27);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My son, keep my words and store up my commands within you.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Keep my commands and you will live; guard my teachings as the apple of your eye.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Bind them on your fingers; write them on the tablet of your heart.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Say to wisdom, "You are my sister," and call understanding your kinsman;", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"they will keep you from the adulteress, from the wayward wife with her seductive words.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"At the window of my house I looked out through the lattice.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I saw among the simple, I noticed among the young men, a youth who lacked judgment.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He was going down the street near her corner, walking along in the direction of her house", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"at twilight, as the day was fading, as the dark of night set in.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then out came a woman to meet him, dressed like a prostitute and with crafty intent.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"(She is loud and defiant, her feet never stay at home;", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"now in the street, now in the squares, at every corner she lurks.)", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"She took hold of him and kissed him and with a brazen face she said:", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:""I have fellowship offerings at home; today I fulfilled my vows.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So I came out to meet you; I looked for you and have found you!", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I have covered my bed with colored linens from Egypt.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I have perfumed my bed with myrrh, aloes and cinnamon.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Come, let's drink deep of love till morning; let's enjoy ourselves with love!", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My husband is not at home; he has gone on a long journey.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He took his purse filled with money and will not be home till full moon."", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"With persuasive words she led him astray; she seduced him with her smooth talk.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"till an arrow pierces his liver, like a bird darting into a snare, little knowing it will cost him his life.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Now then, my sons, listen to me; pay attention to what I say.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not let your heart turn to her ways or stray into her paths.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Many are the victims she has brought down; her slain are a mighty throng.", Ind:""},
+  {Bible:"Proverbs", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Her house is a highway to the grave, leading down to the chambers of death.", Ind:""},
 ]);

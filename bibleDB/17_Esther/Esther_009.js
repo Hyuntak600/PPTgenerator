@@ -1,6 +1,37 @@
 // 에스더 9장 · Esther 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Esther",9,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Esther",9,32);
 BibleDB.add([
+  {Bible:"Esther", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The Jews assembled in their cities in all the provinces of King Xerxes to attack those seeking their destruction. No one could stand against them, because the people of all the other nationalities were afraid of them.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"And all the nobles of the provinces, the satraps, the governors and the king's administrators helped the Jews, because fear of Mordecai had seized them.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Mordecai was prominent in the palace; his reputation spread throughout the provinces, and he became more and more powerful.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The Jews struck down all their enemies with the sword, killing and destroying them, and they did what they pleased to those who hated them.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"In the citadel of Susa, the Jews killed and destroyed five hundred men.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They also killed Parshandatha, Dalphon, Aspatha,", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Poratha, Adalia, Aridatha,", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Parmashta, Arisai, Aridai and Vaizatha,", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"the ten sons of Haman son of Hammedatha, the enemy of the Jews. But they did not lay their hands on the plunder.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The number of those slain in the citadel of Susa was reported to the king that same day.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The king said to Queen Esther, "The Jews have killed and destroyed five hundred men and the ten sons of Haman in the citadel of Susa. What have they done in the rest of the king's provinces? Now what is your petition? It will be given you. What is your request? It will also be granted."", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:""If it pleases the king," Esther answered, "give the Jews in Susa permission to carry out this day's edict tomorrow also, and let Haman's ten sons be hanged on gallows."", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So the king commanded that this be done. An edict was issued in Susa, and they hanged the ten sons of Haman.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The Jews in Susa came together on the fourteenth day of the month of Adar, and they put to death in Susa three hundred men, but they did not lay their hands on the plunder.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Meanwhile, the remainder of the Jews who were in the king's provinces also assembled to protect themselves and get relief from their enemies. They killed seventy-five thousand of them but did not lay their hands on the plunder.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"This happened on the thirteenth day of the month of Adar, and on the fourteenth they rested and made it a day of feasting and joy.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The Jews in Susa, however, had assembled on the thirteenth and fourteenth, and then on the fifteenth they rested and made it a day of feasting and joy.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"That is why rural Jews--those living in villages--observe the fourteenth of the month of Adar as a day of joy and feasting, a day for giving presents to each other.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Mordecai recorded these events, and he sent letters to all the Jews throughout the provinces of King Xerxes, near and far,", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"to have them celebrate annually the fourteenth and fifteenth days of the month of Adar", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"as the time when the Jews got relief from their enemies, and as the month when their sorrow was turned into joy and their mourning into a day of celebration. He wrote them to observe the days as days of feasting and joy and giving presents of food to one another and gifts to the poor.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"So the Jews agreed to continue the celebration they had begun, doing what Mordecai had written to them.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the pur (that is, the lot) for their ruin and destruction.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But when the plot came to the king's attention, he issued written orders that the evil scheme Haman had devised against the Jews should come back onto his own head, and that he and his sons should be hanged on the gallows.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"(Therefore these days were called Purim, from the word pur.) Because of everything written in this letter and because of what they had seen and what had happened to them,", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"the Jews took it upon themselves to establish the custom that they and their descendants and all who join them should without fail observe these two days every year, in the way prescribed and at the time appointed.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:28, Page:1, Kor:"", Chn:"", Eng:"These days should be remembered and observed in every generation by every family, and in every province and in every city. And these days of Purim should never cease to be celebrated by the Jews, nor should the memory of them die out among their descendants.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So Queen Esther, daughter of Abihail, along with Mordecai the Jew, wrote with full authority to confirm this second letter concerning Purim.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And Mordecai sent letters to all the Jews in the 127 provinces of the kingdom of Xerxes--words of goodwill and assurance--", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:31, Page:1, Kor:"", Chn:"", Eng:"to establish these days of Purim at their designated times, as Mordecai the Jew and Queen Esther had decreed for them, and as they had established for themselves and their descendants in regard to their times of fasting and lamentation.", Ind:""},
+  {Bible:"Esther", Chapter:9, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Esther's decree confirmed these regulations about Purim, and it was written down in the records.", Ind:""},
 ]);

@@ -1,6 +1,43 @@
 // 창세기 19장 · Genesis 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",19,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",19,38);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the  city. When he saw them, he got up to meet them and bowed down with his face to the ground.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:""My lords," he said, "please turn aside to your servant's house. You can wash your feet and  spend the night and then go on your way early in the morning." "No," they answered, "we will  spend the night in the square."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But he insisted so strongly that they did go with him and entered his house. He prepared a  meal for them, baking bread without yeast, and they ate.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Before they had gone to bed, all the men from every part of the city of Sodom--both young  and old--surrounded the house.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They called to Lot, "Where are the men who came to you tonight? Bring them out to us so that  we can have sex with them."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Lot went outside to meet them and shut the door behind him", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and said, "No, my friends. Don't do this wicked thing.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Look, I have two daughters who have never slept with a man. Let me bring them out to you,  and you can do what you like with them. But don't do anything to these men, for they have come  under the protection of my roof."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Get out of our way," they replied. And they said, "This fellow came here as an alien, and  now he wants to play the judge! We'll treat you worse than them." They kept bringing pressure on  Lot and moved forward to break down the door.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But the men inside reached out and pulled Lot back into the house and shut the door.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then they struck the men who were at the door of the house, young and old, with blindness  so that they could not find the door.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The two men said to Lot, "Do you have anyone else here--sons-in-law, sons or daughters, or  anyone else in the city who belongs to you? Get them out of here,", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"because we are going to destroy this place. The outcry to the LORD against its people is so  great that he has sent us to destroy it."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He  said, "Hurry and get out of this place, because the LORD is about to destroy the city!" But his  sons-in-law thought he was joking.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"With the coming of dawn, the angels urged Lot, saying, "Hurry! Take your wife and your two  daughters who are here, or you will be swept away when the city is punished."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When he hesitated, the men grasped his hand and the hands of his wife and of his two  daughters and led them safely out of the city, for the LORD was merciful to them.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As soon as they had brought them out, one of them said, "Flee for your lives! Don't look  back, and don't stop anywhere in the plain! Flee to the mountains or you will be swept away!"", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But Lot said to them, "No, my lords, please!", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Your servant has found favor in your eyes, and you have shown great kindness to me in  sparing my life. But I can't flee to the mountains; this disaster will overtake me, and I'll die.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Look, here is a town near enough to run to, and it is small. Let me flee to it--it is very  small, isn't it? Then my life will be spared."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He said to him, "Very well, I will grant this request too; I will not overthrow the town  you speak of.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But flee there quickly, because I cannot do anything until you reach it." (That is why the  town was called Zoar.)", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"By the time Lot reached Zoar, the sun had risen over the land.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then the LORD rained down burning sulfur on Sodom and Gomorrah--from the LORD out of the  heavens.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Thus he overthrew those cities and the entire plain, including all those living in the  cities--and also the vegetation in the land.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But Lot's wife looked back, and she became a pillar of salt.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Early the next morning Abraham got up and returned to the place where he had stood before  the LORD.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He looked down toward Sodom and Gomorrah, toward all the land of the plain, and he saw  dense smoke rising from the land, like smoke from a furnace.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So when God destroyed the cities of the plain, he remembered Abraham, and he brought Lot  out of the catastrophe that overthrew the cities where Lot had lived.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Lot and his two daughters left Zoar and settled in the mountains, for he was afraid to stay  in Zoar. He and his two daughters lived in a cave.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:31, Page:1, Kor:"", Chn:"", Eng:"One day the older daughter said to the younger, "Our father is old, and there is no man  around here to lie with us, as is the custom all over the earth.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Let's get our father to drink wine and then lie with him and preserve our family line  through our father."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:33, Page:1, Kor:"", Chn:"", Eng:"That night they got their father to drink wine, and the older daughter went in and lay with  him. He was not aware of it when she lay down or when she got up.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The next day the older daughter said to the younger, "Last night I lay with my father.  Let's get him to drink wine again tonight, and you go in and lie with him so we can preserve our  family line through our father."", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:35, Page:1, Kor:"", Chn:"", Eng:"So they got their father to drink wine that night also, and the younger daughter went and  lay with him. Again he was not aware of it when she lay down or when she got up.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:36, Page:1, Kor:"", Chn:"", Eng:"So both of Lot's daughters became pregnant by their father.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:37, Page:1, Kor:"", Chn:"", Eng:"The older daughter had a son, and she named him Moab; he is the father of the Moabites of  today.", Ind:""},
+  {Bible:"Genesis", Chapter:19, Verse:38, Page:1, Kor:"", Chn:"", Eng:"The younger daughter also had a son, and she named him Ben-Ammi; he is the father of the  Ammonites of today.", Ind:""},
 ]);

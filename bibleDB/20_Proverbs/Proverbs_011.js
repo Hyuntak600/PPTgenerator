@@ -1,6 +1,36 @@
 // 잠언 11장 · Proverbs 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",11,31);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD abhors dishonest scales, but accurate weights are his delight.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When pride comes, then comes disgrace, but with humility comes wisdom.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Wealth is worthless in the day of wrath, but righteousness delivers from death.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The righteousness of the blameless makes a straight way for them, but the wicked are brought down by their own wickedness.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When a wicked man dies, his hope perishes; all he expected from his power comes to nothing.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The righteous man is rescued from trouble, and it comes on the wicked instead.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"With his mouth the godless destroys his neighbor, but through knowledge the righteous escape.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When the righteous prosper, the city rejoices; when the wicked perish, there are shouts of joy.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Through the blessing of the upright a city is exalted, but by the mouth of the wicked it is destroyed.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A man who lacks judgment derides his neighbor, but a man of understanding holds his tongue.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"A gossip betrays a confidence, but a trustworthy man keeps a secret.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For lack of guidance a nation falls, but many advisers make victory sure.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He who puts up security for another will surely suffer, but whoever refuses to strike hands in pledge is safe.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"A kindhearted woman gains respect, but ruthless men gain only wealth.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A kind man benefits himself, but a cruel man brings trouble on himself.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The wicked man earns deceptive wages, but he who sows righteousness reaps a sure reward.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The truly righteous man attains life, but he who pursues evil goes to his death.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The LORD detests men of perverse heart but he delights in those whose ways are blameless.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Be sure of this: The wicked will not go unpunished, but those who are righteous will go free.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Like a gold ring in a pig's snout is a beautiful woman who shows no discretion.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The desire of the righteous ends only in good, but the hope of the wicked only in wrath.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"One man gives freely, yet gains even more; another withholds unduly, but comes to poverty.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A generous man will prosper; he who refreshes others will himself be refreshed.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"People curse the man who hoards grain, but blessing crowns him who is willing to sell.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He who seeks good finds goodwill, but evil comes to him who searches for it.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Whoever trusts in his riches will fall, but the righteous will thrive like a green leaf.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He who brings trouble on his family will inherit only wind, and the fool will be servant to the wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The fruit of the righteous is a tree of life, and he who wins souls is wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"If the righteous receive their due on earth, how much more the ungodly and the sinner!", Ind:""},
 ]);

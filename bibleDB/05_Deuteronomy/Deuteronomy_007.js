@@ -1,6 +1,31 @@
 // 신명기 7장 · Deuteronomy 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",7,26);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God brings you into the land you are entering to possess and drives out before you many nations--the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites and Jebusites, seven nations larger and stronger than you--", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and when the LORD your God has delivered them over to you and you have defeated them, then you must destroy them totally. Make no treaty with them, and show them no mercy.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"for they will turn your sons away from following me to serve other gods, and the LORD'S anger will burn against you and will quickly destroy you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"This is what you are to do to them: Break down their altars, smash their sacred stones, cut down their Asherah poles and burn their idols in the fire.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For you are a people holy to the LORD your God. The LORD your God has chosen you out of all the peoples on the face of the earth to be his people, his treasured possession.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The LORD did not set his affection on you and choose you because you were more numerous than other peoples, for you were the fewest of all peoples.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But it was because the LORD loved you and kept the oath he swore to your forefathers that he brought you out with a mighty hand and redeemed you from the land of slavery, from the power of Pharaoh king of Egypt.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Know therefore that the LORD your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commands.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But those who hate him he will repay to their face by destruction; he will not be slow to repay to their face those who hate him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore, take care to follow the commands, decrees and laws I give you today.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If you pay attention to these laws and are careful to follow them, then the LORD your God will keep his covenant of love with you, as he swore to your forefathers.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He will love you and bless you and increase your numbers. He will bless the fruit of your womb, the crops of your land--your grain, new wine and oil--the calves of your herds and the lambs of your flocks in the land that he swore to your forefathers to give you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You will be blessed more than any other people; none of your men or women will be childless, nor any of your livestock without young.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The LORD will keep you free from every disease. He will not inflict on you the horrible diseases you knew in Egypt, but he will inflict them on all who hate you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"You must destroy all the peoples the LORD your God gives over to you. Do not look on them with pity and do not serve their gods, for that will be a snare to you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You may say to yourselves, "These nations are stronger than we are. How can we drive them out?"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But do not be afraid of them; remember well what the LORD your God did to Pharaoh and to all Egypt.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You saw with your own eyes the great trials, the miraculous signs and wonders, the mighty hand and outstretched arm, with which the LORD your God brought you out. The LORD your God will do the same to all the peoples you now fear.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Moreover, the LORD your God will send the hornet among them until even the survivors who hide from you have perished.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not be terrified by them, for the LORD your God, who is among you, is a great and awesome God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The LORD your God will drive out those nations before you, little by little. You will not be allowed to eliminate them all at once, or the wild animals will multiply around you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But the LORD your God will deliver them over to you, throwing them into great confusion until they are destroyed.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He will give their kings into your hand, and you will wipe out their names from under heaven. No one will be able to stand up against you; you will destroy them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The images of their gods you are to burn in the fire. Do not covet the silver and gold on them, and do not take it for yourselves, or you will be ensnared by it, for it is detestable to the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Do not bring a detestable thing into your house or you, like it, will be set apart for destruction. Utterly abhor and detest it, for it is set apart for destruction.", Ind:""},
 ]);

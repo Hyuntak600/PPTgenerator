@@ -1,6 +1,11 @@
 // 시편 53장 · Psalms 53
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",53,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",53,6);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:53, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The fool says in his heart, "There is no God." They are corrupt, and their ways are vile; there is no one who does good.", Ind:""},
+  {Bible:"Psalms", Chapter:53, Verse:2, Page:1, Kor:"", Chn:"", Eng:"God looks down from heaven on the sons of men to see if there are any who understand, any who seek God.", Ind:""},
+  {Bible:"Psalms", Chapter:53, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Everyone has turned away, they have together become corrupt; there is no one who does good, not even one.", Ind:""},
+  {Bible:"Psalms", Chapter:53, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Will the evildoers never learn--those who devour my people as men eat bread and who do not call on God?", Ind:""},
+  {Bible:"Psalms", Chapter:53, Verse:5, Page:1, Kor:"", Chn:"", Eng:"There they were, overwhelmed with dread, where there was nothing to dread. God scattered the bones of those who attacked you; you put them to shame, for God despised them.", Ind:""},
+  {Bible:"Psalms", Chapter:53, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice and Israel be glad!", Ind:""},
 ]);

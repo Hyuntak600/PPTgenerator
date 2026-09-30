@@ -1,6 +1,40 @@
 // 잠언 6장 · Proverbs 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",6,35);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My son, if you have put up security for your neighbor, if you have struck hands in pledge for another,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"if you have been trapped by what you said, ensnared by the words of your mouth,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"then do this, my son, to free yourself, since you have fallen into your neighbor's hands: Go and humble yourself; press your plea with your neighbor!", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Allow no sleep to your eyes, no slumber to your eyelids.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Go to the ant, you sluggard; consider its ways and be wise!", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"It has no commander, no overseer or ruler,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"yet it stores its provisions in summer and gathers its food at harvest.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"How long will you lie there, you sluggard? When will you get up from your sleep?", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A little sleep, a little slumber, a little folding of the hands to rest--", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and poverty will come on you like a bandit and scarcity like an armed man.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A scoundrel and villain, who goes about with a corrupt mouth,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"who winks with his eye, signals with his feet and motions with his fingers,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"who plots evil with deceit in his heart--he always stirs up dissension.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Therefore disaster will overtake him in an instant; he will suddenly be destroyed--without remedy.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"There are six things the LORD hates, seven that are detestable to him:", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"haughty eyes, a lying tongue, hands that shed innocent blood,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"a heart that devises wicked schemes, feet that are quick to rush into evil,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"a false witness who pours out lies and a man who stirs up dissension among brothers.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"My son, keep your father's commands and do not forsake your mother's teaching.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Bind them upon your heart forever; fasten them around your neck.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For these commands are a lamp, this teaching is a light, and the corrections of discipline are the way to life,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"keeping you from the immoral woman, from the smooth tongue of the wayward wife.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not lust in your heart after her beauty or let her captivate you with her eyes,", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"for the prostitute reduces you to a loaf of bread, and the adulteress preys upon your very life.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Can a man scoop fire into his lap without his clothes being burned?", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Can a man walk on hot coals without his feet being scorched?", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So is he who sleeps with another man's wife; no one who touches her will go unpunished.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Men do not despise a thief if he steals to satisfy his hunger when he is starving.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:32, Page:1, Kor:"", Chn:"", Eng:"But a man who commits adultery lacks judgment; whoever does so destroys himself.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Blows and disgrace are his lot, and his shame will never be wiped away;", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:34, Page:1, Kor:"", Chn:"", Eng:"for jealousy arouses a husband's fury, and he will show no mercy when he takes revenge.", Ind:""},
+  {Bible:"Proverbs", Chapter:6, Verse:35, Page:1, Kor:"", Chn:"", Eng:"He will not accept any compensation; he will refuse the bribe, however great it is.", Ind:""},
 ]);

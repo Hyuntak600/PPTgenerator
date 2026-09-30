@@ -1,6 +1,36 @@
 // 창세기 34장 · Genesis 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",34,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",34,31);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When Shechem son of Hamor the Hivite, the ruler of that area, saw her, he took her and  violated her.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:"His heart was drawn to Dinah daughter of Jacob, and he loved the girl and spoke tenderly to  her.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And Shechem said to his father Hamor, "Get me this girl as my wife."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with  his livestock; so he kept quiet about it until they came home.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Shechem's father Hamor went out to talk with Jacob.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Now Jacob's sons had come in from the fields as soon as they heard what had happened. They  were filled with grief and fury, because Shechem had done a disgraceful thing in Israel by lying  with Jacob's daughter--a thing that should not be done.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But Hamor said to them, "My son Shechem has his heart set on your daughter. Please give her  to him as his wife.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Intermarry with us; give us your daughters and take our daughters for yourselves.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You can settle among us; the land is open to you. Live in it, trade in it, and acquire  property in it."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then Shechem said to Dinah's father and brothers, "Let me find favor in your eyes, and I  will give you whatever you ask.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Make the price for the bride and the gift I am to bring as great as you like, and I'll pay  whatever you ask me. Only give me the girl as my wife."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Because their sister Dinah had been defiled, Jacob's sons replied deceitfully as they spoke  to Shechem and his father Hamor.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They said to them, "We can't do such a thing; we can't give our sister to a man who is not  circumcised. That would be a disgrace to us.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"We will give our consent to you on one condition only: that you become like us by  circumcising all your males.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then we will give you our daughters and take your daughters for ourselves. We'll settle  among you and become one people with you.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But if you will not agree to be circumcised, we'll take our sister and go."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Their proposal seemed good to Hamor and his son Shechem.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The young man, who was the most honored of all his father's household, lost no time in  doing what they said, because he was delighted with Jacob's daughter.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So Hamor and his son Shechem went to the gate of their city to speak to their fellow  townsmen.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:21, Page:1, Kor:"", Chn:"", Eng:""These men are friendly toward us," they said. "Let them live in our land and trade in it;  the land has plenty of room for them. We can marry their daughters and they can marry ours.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But the men will consent to live with us as one people only on the condition that our males  be circumcised, as they themselves are.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Won't their livestock, their property and all their other animals become ours? So let us  give our consent to them, and they will settle among us."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:24, Page:1, Kor:"", Chn:"", Eng:"All the men who went out of the city gate agreed with Hamor and his son Shechem, and every  male in the city was circumcised.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Three days later, while all of them were still in pain, two of Jacob's sons, Simeon and  Levi, Dinah's brothers, took their swords and attacked the unsuspecting city, killing every male.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They put Hamor and his son Shechem to the sword and took Dinah from Shechem's house and  left.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The sons of Jacob came upon the dead bodies and looted the city where their sister had been  defiled.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They seized their flocks and herds and donkeys and everything else of theirs in the city  and out in the fields.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They carried off all their wealth and all their women and children, taking as plunder  everything in the houses.", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Jacob said to Simeon and Levi, "You have brought trouble on me by making me a stench  to the Canaanites and Perizzites, the people living in this land. We are few in number, and if  they join forces against me and attack me, I and my household will be destroyed."", Ind:""},
+  {Bible:"Genesis", Chapter:34, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But they replied, "Should he have treated our sister like a prostitute?"", Ind:""},
 ]);

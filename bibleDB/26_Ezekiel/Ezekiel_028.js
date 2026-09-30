@@ -1,6 +1,31 @@
 // 에스겔 28장 · Ezekiel 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",28,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",28,26);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, say to the ruler of Tyre, 'This is what the Sovereign LORD says: "'In the pride of your heart you say, "I am a god; I sit on the throne of a god in the heart of the seas." But you are a man and not a god, though you think you are as wise as a god.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Are you wiser than Daniel? Is no secret hidden from you?", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"By your wisdom and understanding you have gained wealth for yourself and amassed gold and silver in your treasuries.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"By your great skill in trading you have increased your wealth, and because of your wealth your heart has grown proud.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'Therefore this is what the Sovereign LORD says: "'Because you think you are wise, as wise as a god,", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I am going to bring foreigners against you, the most ruthless of nations; they will draw their swords against your beauty and wisdom and pierce your shining splendor.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They will bring you down to the pit, and you will die a violent death in the heart of the seas.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Will you then say, "I am a god," in the presence of those who kill you? You will be but a man, not a god, in the hands of those who slay you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You will die the death of the uncircumcised at the hands of foreigners. I have spoken, declares the Sovereign LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Son of man, take up a lament concerning the king of Tyre and say to him: 'This is what the Sovereign LORD says: "'You were the model of perfection, full of wisdom and perfect in beauty.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You were in Eden, the garden of God; every precious stone adorned you: ruby, topaz and emerald, chrysolite, onyx and jasper, sapphire, turquoise and beryl. Your settings and mountings were made of gold; on the day you were created they were prepared.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You were anointed as a guardian cherub, for so I ordained you. You were on the holy mount of God; you walked among the fiery stones.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You were blameless in your ways from the day you were created till wickedness was found in you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Through your widespread trade you were filled with violence, and you sinned. So I drove you in disgrace from the mount of God, and I expelled you, O guardian cherub, from among the fiery stones.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Your heart became proud on account of your beauty, and you corrupted your wisdom because of your splendor. So I threw you to the earth; I made a spectacle of you before kings.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"By your many sins and dishonest trade you have desecrated your sanctuaries. So I made a fire come out from you, and it consumed you, and I reduced you to ashes on the ground in the sight of all who were watching.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"All the nations who knew you are appalled at you; you have come to a horrible end and will be no more.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Son of man, set your face against Sidon; prophesy against her", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"and say: 'This is what the Sovereign LORD says: "'I am against you, O Sidon, and I will gain glory within you. They will know that I am the LORD, when I inflict punishment on her and show myself holy within her.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I will send a plague upoj her and make blood flow in her streets. The slain will fall within her, with the sword against her on every side. Then they will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'No longer will the people of Israel have malicious neighbors who are painful briers and sharp thorns. Then they will know that I am the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: When I gather the people of Israel from the nations where they have been scattered, I will show myself holy among them in the sight of the nations. Then they will live in their own land, which I gave to my servant Jacob.", Ind:""},
+  {Bible:"Ezekiel", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They will live there in safety and will build houses and plant vineyards; they will live in safety when I inflict punishment on all their neighbors who maligned them. Then they will know that I am the LORD their God.'"", Ind:""},
 ]);

@@ -1,6 +1,42 @@
 // 신명기 2장 · Deuteronomy 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",2,37);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then we turned back and set out toward the desert along the route to the Red Sea, as the LORD had directed me. For a long time we made our way around the hill country of Seir.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to me,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:""You have made your way around this hill country long enough; now turn north.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Give the people these orders: 'You are about to pass through the territory of your brothers the descendants of Esau, who live in Seir. They will be afraid of you, but be very careful.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Do not provoke them to war, for I will not give you any of their land, not even enough to put your foot on. I have given Esau the hill country of Seir as his own.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You are to pay them in silver for the food you eat and the water you drink.'"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The LORD your God has blessed you in all the work of your hands. He has watched over your journey through this vast desert. These forty years the LORD your God has been with you, and you have not lacked anything.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So we went on past our brothers the descendants of Esau, who live in Seir. We turned from the Arabah road, which comes up from Elath and Ezion Geber, and traveled along the desert road of Moab.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to me, "Do not harass the Moabites or provoke them to war, for I will not give you any part of their land. I have given Ar to the descendants of Lot as a possession."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"(The Emites used to live there--a people strong and numerous, and as tall as the Anakites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Like the Anakites, they too were considered Rephaites, but the Moabites called them Emites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land the LORD gave them as their possession.)", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And the LORD said, "Now get up and cross the Zered Valley." So we crossed the valley.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Thirty-eight years passed from the time we left Kadesh Barnea until we crossed the Zered Valley. By then, that entire generation of fighting men had perished from the camp, as the LORD had sworn to them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The LORD'S hand was against them until he had completely eliminated them from the camp.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Now when the last of these fighting men among the people had died,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"the LORD said to me,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Today you are to pass by the region of Moab at Ar.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When you come to the Ammonites, do not harass them or provoke them to war, for I will not give you possession of any land belonging to the Ammonites. I have given it as a possession to the descendants of Lot."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"(That too was considered a land of the Rephaites, who used to live there; but the Ammonites called them Zamzummites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They were a people strong and numerous, and as tall as the Anakites. The LORD destroyed them from before the Ammonites, who drove them out and settled in their place.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The LORD had done the same for the descendants of Esau, who lived in Seir, when he destroyed the Horites from before them. They drove them out and have lived in their place to this day.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And as for the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor destroyed them and settled in their place.)", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Set out now and cross the Arnon Gorge. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his country. Begin to take possession of it and engage him in battle.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"This very day I will begin to put the terror and fear of you on all the nations under heaven. They will hear reports of you and will tremble and be in anguish because of you."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"From the desert of Kedemoth I sent messengers to Sihon king of Heshbon offering peace and saying,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Let us pass through your country. We will stay on the main road; we will not turn aside to the right or to the left.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Sell us food to eat and water to drink for their price in silver. Only let us pass through on foot--", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:"as the descendants of Esau, who live in Seir, and the Moabites, who live in Ar, did for us--until we cross the Jordan into the land the LORD our God is giving us."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But Sihon king of Heshbon refused to let us pass through. For the LORD your God had made his spirit stubborn and his heart obstinate in order to give him into your hands, as he has now done.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me, "See, I have begun to deliver Sihon and his country over to you. Now begin to conquer and possess his land."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:32, Page:1, Kor:"", Chn:"", Eng:"When Sihon and all his army came out to meet us in battle at Jahaz,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:33, Page:1, Kor:"", Chn:"", Eng:"the LORD our God delivered him over to us and we struck him down, together with his sons and his whole army.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:34, Page:1, Kor:"", Chn:"", Eng:"At that time we took all his towns and completely destroyed them--men, women and children. We left no survivors.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:35, Page:1, Kor:"", Chn:"", Eng:"But the livestock and the plunder from the towns we had captured we carried off for ourselves.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:36, Page:1, Kor:"", Chn:"", Eng:"From Aroer on the rim of the Arnon Gorge, and from the town in the gorge, even as far as Gilead, not one town was too strong for us. The LORD our God gave us all of them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:2, Verse:37, Page:1, Kor:"", Chn:"", Eng:"But in accordance with the command of the LORD our God, you did not encroach on any of the land of the Ammonites, neither the land along the course of the Jabbok nor that around the towns in the hills.", Ind:""},
 ]);

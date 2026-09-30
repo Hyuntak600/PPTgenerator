@@ -1,6 +1,45 @@
 // 시편 37장 · Psalms 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",37,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",37,40);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not fret because of evil men or be envious of those who do wrong;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:2, Page:1, Kor:"", Chn:"", Eng:"for like the grass they will soon wither, like green plants they will soon die away.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Trust in the LORD and do good; dwell in the land and enjoy safe pasture.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Delight yourself in the LORD and he will give you the desires of your heart.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Commit your way to the LORD; trust in him and he will do this:", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He will make your righteousness shine like the dawn, the justice of your cause like the noonday sun.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Be still before the LORD and wait patiently for him; do not fret when men succeed in their ways, when they carry out their wicked schemes.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Refrain from anger and turn from wrath; do not fret--it leads only to evil.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For evil men will be cut off, but those who hope in the LORD will inherit the land.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A little while, and the wicked will be no more; though you look for them, they will not be found.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the meek will inherit the land and enjoy great peace.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The wicked plot against the righteous and gnash their teeth at them;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:13, Page:1, Kor:"", Chn:"", Eng:"but the Lord laughs at the wicked, for he knows their day is coming.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The wicked draw the sword and bend the bow to bring down the poor and needy, to slay those whose ways are upright.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But their swords will pierce their own hearts, and their bows will be broken.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Better the little that the righteous have than the wealth of many wicked;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:17, Page:1, Kor:"", Chn:"", Eng:"for the power of the wicked will be broken, but the LORD upholds the righteous.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The days of the blameless are known to the LORD, and their inheritance will endure forever.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:19, Page:1, Kor:"", Chn:"", Eng:"In times of disaster they will not wither; in days of famine they will enjoy plenty.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But the wicked will perish: The LORD'S enemies will be like the beauty of the fields, they will vanish--vanish like smoke.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The wicked borrow and do not repay, but the righteous give generously;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:22, Page:1, Kor:"", Chn:"", Eng:"those the LORD blesses will inherit the land, but those he curses will be cut off.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If the LORD delights in a man's way, he makes his steps firm;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:24, Page:1, Kor:"", Chn:"", Eng:"though he stumble, he will not fall, for the LORD upholds him with his hand.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They are always generous and lend freely; their children will be blessed.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Turn from evil and do good; then you will dwell in the land forever.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:28, Page:1, Kor:"", Chn:"", Eng:"For the LORD loves the just and will not forsake his faithful ones. They will be protected forever, but the offspring of the wicked will be cut off;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:29, Page:1, Kor:"", Chn:"", Eng:"the righteous will inherit the land and dwell in it forever.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The mouth of the righteous man utters wisdom, and his tongue speaks what is just.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The law of his God is in his heart; his feet do not slip.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The wicked lie in wait for the righteous, seeking their very lives;", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:33, Page:1, Kor:"", Chn:"", Eng:"but the LORD will not leave them in their power or let them be condemned when brought to trial.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Wait for the LORD and keep his way. He will exalt you to inherit the land; when the wicked are cut off, you will see it.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:35, Page:1, Kor:"", Chn:"", Eng:"I have seen a wicked and ruthless man flourishing like a green tree in its native soil,", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:36, Page:1, Kor:"", Chn:"", Eng:"but he soon passed away and was no more; though I looked for him, he could not be found.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Consider the blameless, observe the upright; there is a future for the man of peace.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:38, Page:1, Kor:"", Chn:"", Eng:"But all sinners will be destroyed; the future of the wicked will be cut off.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:39, Page:1, Kor:"", Chn:"", Eng:"The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.", Ind:""},
+  {Bible:"Psalms", Chapter:37, Verse:40, Page:1, Kor:"", Chn:"", Eng:"The LORD helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.", Ind:""},
 ]);

@@ -1,6 +1,30 @@
 // 마태복음 1장 · Matthew 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",1,25);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A record of the genealogy of Jesus Christ the son of David, the son of Abraham:", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Judah the father of Perez and Zerah, whose mother was Tamar, Perez the father of Hezron, Hezron the father of Ram,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Ram the father of Amminadab, Amminadab the father of Nahshon, Nahshon the father of Salmon,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Salmon the father of Boaz, whose mother was Rahab, Boaz the father of Obed, whose mother was Ruth, Obed the father of Jesse,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and Jesse the father of King David. David was the father of Solomon, whose mother had been Uriah's wife,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Asa the father of Jehoshaphat, Jehoshaphat the father of Jehoram, Jehoram the father of Uzziah,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Uzziah the father of Jotham, Jotham the father of Ahaz, Ahaz the father of Hezekiah,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Hezekiah the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Zerubbabel the father of Abiud, Abiud the father of Eliakim, Eliakim the father of Azor,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Azor the father of Zadok, Zadok the father of Akim, Akim the father of Eliud,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Eliud the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This is how the birth of Jesus Christ came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be with child through the Holy Spirit.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Because Joseph her husband was a righteous man and did not want to expose her to public disgrace, he had in mind to divorce her quietly.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But after he had considered this, an angel of the Lord appeared to him in a dream and said, "Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins."", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"All this took place to fulfill what the Lord had said through the prophet:", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:""The virgin will be with child and will give birth to a son, and they will call him Immanuel"--which means, "God with us."", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife.", Ind:""},
+  {Bible:"Matthew", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But he had no union with her until she gave birth to a son. And he gave him the name Jesus.", Ind:""},
 ]);

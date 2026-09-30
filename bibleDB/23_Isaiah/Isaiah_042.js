@@ -1,6 +1,30 @@
 // 이사야 42장 · Isaiah 42
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",42,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",42,25);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:42, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Here is my servant, whom I uphold, my chosen one in whom I delight; I will put my Spirit on him and he will bring justice to the nations.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He will not shout or cry out, or raise his voice in the streets.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A bruised reed he will not break, and a smoldering wick he will not snuff out. In faithfulness he will bring forth justice;", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he will not falter or be discouraged till he establishes justice on earth. In his law the islands will put their hope."", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:5, Page:1, Kor:"", Chn:"", Eng:"This is what God the LORD says--he who created the heavens and stretched them out, who spread out the earth and all that comes out of it, who gives breath to its people, and life to those who walk on it:", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:6, Page:1, Kor:"", Chn:"", Eng:""I, the LORD, have called you in righteousness; I will take hold of your hand. I will keep you and will make you to be a covenant for the people and a light for the Gentiles,", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:7, Page:1, Kor:"", Chn:"", Eng:"to open eyes that are blind, to free captives from prison and to release from the dungeon those who sit in darkness.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:8, Page:1, Kor:"", Chn:"", Eng:""I am the LORD; that is my name! I will not give my glory to another or my praise to idols.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:9, Page:1, Kor:"", Chn:"", Eng:"See, the former things have taken place, and new things I declare; before they spring into being I announce them to you."", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Sing to the LORD a new song, his praise from the ends of the earth, you who go down to the sea, and all that is in it, you islands, and all who live in them.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Let the desert and its towns raise their voices; let the settlements where Kedar lives rejoice. Let the people of Sela sing for joy; let them shout from the mountaintops.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Let them give glory to the LORD and proclaim his praise in the islands.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The LORD will march out like a mighty man, like a warrior he will stir up his zeal; with a shout he will raise the battle cry and will triumph over his enemies.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:14, Page:1, Kor:"", Chn:"", Eng:""For a long time I have kept silent, I have been quiet and held myself back. But now, like a woman in childbirth, I cry out, I gasp and pant.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will lay waste the mountains and hills and dry up all their vegetation; I will turn rivers into islands and dry up the pools.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I will lead the blind by ways they have not known, along unfamiliar paths I will guide them; I will turn the darkness into light before them and make the rough places smooth. These are the things I will do; I will not forsake them.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But those who trust in idols, who say to images, 'You are our gods,' will be turned back in utter shame.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Hear, you deaf; look, you blind, and see!", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Who is blind but my servant, and deaf like the messenger I send? Who is blind like the one committed to me, blind like the servant of the LORD?", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You have seen many things, but have paid no attention; your ears are open, but you hear nothing."", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:21, Page:1, Kor:"", Chn:"", Eng:"It pleased the LORD for the sake of his righteousness to make his law great and glorious.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But this is a people plundered and looted, all of them trapped in pits or hidden away in prisons. They have become plunder, with no one to rescue them; they have been made loot, with no one to say, "Send them back."", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Which of you will listen to this or pay close attention in time to come?", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Who handed Jacob over to become loot, and Israel to the plunderers? Was it not the LORD, against whom we have sinned? For they would not follow his ways; they did not obey his law.", Ind:""},
+  {Bible:"Isaiah", Chapter:42, Verse:25, Page:1, Kor:"", Chn:"", Eng:"So he poured out on them his burning anger, the violence of war. It enveloped them in flames, yet they did not understand; it consumed them, but they did not take it to heart.", Ind:""},
 ]);

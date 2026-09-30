@@ -1,6 +1,40 @@
 // 잠언 23장 · Proverbs 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",23,35);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When you sit to dine with a ruler, note well what is before you,", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and put a knife to your throat if you are given to gluttony.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not crave his delicacies, for that food is deceptive.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Do not wear yourself out to get rich; have the wisdom to show restraint.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not eat the food of a stingy man, do not crave his delicacies;", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"for he is the kind of man who is always thinking about the cost. "Eat and drink," he says to you, but his heart is not with you.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You will vomit up the little you have eaten and will have wasted your compliments.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not speak to a fool, for he will scorn the wisdom of your words.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not move an ancient boundary stone or encroach on the fields of the fatherless,", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"for their Defender is strong; he will take up their case against you.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Apply your heart to instruction and your ears to words of knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Do not withhold discipline from a child; if you punish him with the rod, he will not die.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Punish him with the rod and save his soul from death.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:"My son, if your heart is wise, then my heart will be glad;", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:"my inmost being will rejoice when your lips speak what is right.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do not let your heart envy sinners, but always be zealous for the fear of the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:"There is surely a future hope for you, and your hope will not be cut off.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Listen, my son, and be wise, and keep your heart on the right path.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Do not join those who drink too much wine or gorge themselves on meat,", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:"for drunkards and gluttons become poor, and drowsiness clothes them in rags.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Listen to your father, who gave you life, and do not despise your mother when she is old.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Buy the truth and do not sell it; get wisdom, discipline and understanding.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The father of a righteous man has great joy; he who has a wise son delights in him.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:"May your father and mother be glad; may she who gave you birth rejoice!", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:26, Page:1, Kor:"", Chn:"", Eng:"My son, give me your heart and let your eyes keep to my ways,", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:27, Page:1, Kor:"", Chn:"", Eng:"for a prostitute is a deep pit and a wayward wife is a narrow well.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Like a bandit she lies in wait, and multiplies the unfaithful among men.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Those who linger over wine, who go to sample bowls of mixed wine.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly!", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:32, Page:1, Kor:"", Chn:"", Eng:"In the end it bites like a snake and poisons like a viper.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Your eyes will see strange sights and your mind imagine confusing things.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:34, Page:1, Kor:"", Chn:"", Eng:"You will be like one sleeping on the high seas, lying on top of the rigging.", Ind:""},
+  {Bible:"Proverbs", Chapter:23, Verse:35, Page:1, Kor:"", Chn:"", Eng:""They hit me," you will say, "but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?"", Ind:""},
 ]);

@@ -1,6 +1,36 @@
 // 에스겔 44장 · Ezekiel 44
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",44,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",44,31);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:44, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the man brought me back to the outer gate of the sanctuary, the one facing east, and it was shut.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me, "This gate is to remain shut. It must not be opened; no one may enter through it. It is to remain shut because the LORD, the God of Israel, has entered through it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The prince himself is the only one who may sit inside the gateway to eat in the presence of the LORD. He is to enter by way of the portico of the gateway and go out the same way."", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then the man brought me by way of the north gate to the front of the temple. I looked and saw the glory of the LORD filling the temple of the LORD, and I fell facedown.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me, "Son of man, look carefully, listen closely and give attention to everything I tell you concerning all the regulations regarding the temple of the LORD. Give attention to the entrance of the temple and all the exits of the sanctuary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Say to the rebellious house of Israel, 'This is what the Sovereign LORD says: Enough of your detestable practices, O house of Israel!", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In addition to all your other detestable practices, you brought foreigners uncircumcised in heart and flesh into my sanctuary, desecrating my temple while you offered me food, fat and blood, and you broke my covenant.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Instead of carrying out your duty in regard to my holy things, you put others in charge of my sanctuary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:9, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: No foreigner uncircumcised in heart and flesh is to enter my sanctuary, not even the foreigners who live among the Israelites.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:10, Page:1, Kor:"", Chn:"", Eng:""'The Levites who went far from me when Israel went astray and who wandered from me after their idols must bear the consequences of their sin.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They may serve in my sanctuary, having charge of the gates of the temple and serving in it; they may slaughter the burnt offerings and sacrifices for the people and stand before the people and serve them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But because they served them in the presence of their idols and made the house of Israel fall into sin, therefore I have sworn with uplifted hand that they must bear the consequences of their sin, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:13, Page:1, Kor:"", Chn:"", Eng:"They are not to come near to serve me as priests or come near any of my holy things or my most holy offerings; they must bear the shame of their detestable practices.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Yet I will put them in charge of the duties of the temple and all the work that is to be done in it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:15, Page:1, Kor:"", Chn:"", Eng:""'But the priests, who are Levites and descendants of Zadok and who faithfully carried out the duties of my sanctuary when the Israelites went astray from me, are to come near to minister before me; they are to stand before me to offer sacrifices of fat and blood, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They alone are to enter my sanctuary; they alone are to come near my table to minister before me and perform my service.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'When they enter the gates of the inner court, they are to wear linen clothes; they must not wear any woolen garment while ministering at the gates of the inner court or inside the temple.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When they go out into the outer court where the people are, they are to take off the clothes they have been ministering in and are to leave them in the sacred rooms, and put on other clothes, so that they do not consecrate the people by means of their garments.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'They must not shave their heads or let their hair grow long, but they are to keep the hair of their heads trimmed.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:21, Page:1, Kor:"", Chn:"", Eng:"No priest is to drink wine when he enters the inner court.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:22, Page:1, Kor:"", Chn:"", Eng:"They must not marry widows or divorced women; they may marry only virgins of Israelite descent or widows of priests.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They are to teach my people the difference between the holy and the common and show them how to distinguish between the unclean and the clean.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my decrees for all my appointed feasts, and they are to keep my Sabbaths holy.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'A priest must not defile himself by going near a dead person; however, if the dead person was his father or mother, son or daughter, brother or unmarried sister, then he may defile himself.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:26, Page:1, Kor:"", Chn:"", Eng:"After he is cleansed, he must wait seven days.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:27, Page:1, Kor:"", Chn:"", Eng:"On the day he goes into the inner court of the sanctuary to minister in the sanctuary, he is to offer a sin offering for himself, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:28, Page:1, Kor:"", Chn:"", Eng:""'I am to be the only inheritance the priests have. You are to give them no possession in Israel; I will be their possession.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They will eat the grain offerings, the sin offerings and the guilt offerings; and everything in Israel devoted to the LORD will belong to them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The best of all the firstfruits and of all your special gifts will belong to the priests. You are to give them the first portion of your ground meal so that a blessing may rest on your household.", Ind:""},
+  {Bible:"Ezekiel", Chapter:44, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The priests must not eat anything, bird or animal, found dead or torn by wild animals.", Ind:""},
 ]);

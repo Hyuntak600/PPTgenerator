@@ -1,6 +1,36 @@
 // 로마서 3장 · Romans 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",3,31);
 BibleDB.add([
+  {Bible:"Romans", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"What advantage, then, is there in being a Jew, or what value is there in circumcision?", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Much in every way! First of all, they have been entrusted with the very words of God.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"What if some did not have faith? Will their lack of faith nullify God's faithfulness?", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Not at all! Let God be true, and every man a liar. As it is written: "So that you may be proved right when you speak and prevail when you judge."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But if our unrighteousness brings out God's righteousness more clearly, what shall we say? That God is unjust in bringing his wrath on us? (I am using a human argument.)", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Certainly not! If that were so, how could God judge the world?", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Someone might argue, "If my falsehood enhances God's truthfulness and so increases his glory, why am I still condemned as a sinner?"", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Why not say--as we are being slanderously reported as saying and as some claim that we say--"Let us do evil that good may result"? Their condemnation is deserved.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"What shall we conclude then? Are we any better? Not at all! We have already made the charge that Jews and Gentiles alike are all under sin.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"As it is written: "There is no one righteous, not even one;", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"there is no one who understands, no one who seeks God.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"All have turned away, they have together become worthless; there is no one who does good, not even one."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Their throats are open graves; their tongues practice deceit." "The poison of vipers is on their lips."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:""Their mouths are full of cursing and bitterness."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Their feet are swift to shed blood;", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"ruin and misery mark their ways,", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"and the way of peace they do not know."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:""There is no fear of God before their eyes."", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Therefore no one will be declared righteous in his sight by observing the law; rather, through the law we become conscious of sin.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But now a righteousness from God, apart from law, has been made known, to which the Law and the Prophets testify.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This righteousness from God comes through faith in Jesus Christ to all who believe. There is no difference,", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"for all have sinned and fall short of the glory of God,", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and are justified freely by his grace through the redemption that came by Christ Jesus.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"God presented him as a sacrifice of atonement, through faith in his blood. He did this to demonstrate his justice, because in his forbearance he had left the sins committed beforehand unpunished--", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"he did it to demonstrate his justice at the present time, so as to be just and the one who justifies those who have faith in Jesus.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Where, then, is boasting? It is excluded. On what principle? On that of observing the law? No, but on that of faith.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"For we maintain that a man is justified by faith apart from observing the law.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:30, Page:1, Kor:"", Chn:"", Eng:"since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith.", Ind:""},
+  {Bible:"Romans", Chapter:3, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law.", Ind:""},
 ]);

@@ -1,6 +1,36 @@
 // 누가복음 16장 · Luke 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Luke",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Luke",16,31);
 BibleDB.add([
+  {Bible:"Luke", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Jesus told his disciples: "There was a rich man whose manager was accused of wasting his possessions.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So he called him in and asked him, 'What is this I hear about you? Give an account of your management, because you cannot be manager any longer.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:""The manager said to himself, 'What shall I do now? My master is taking away my job. I'm not strong enough to dig, and I'm ashamed to beg--", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I know what I'll do so that, when I lose my job here, people will welcome me into their houses.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:""So he called in each one of his master's debtors. He asked the first, 'How much do you owe my master?'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'Eight hundred gallons of olive oil,' he replied. "The manager told him, 'Take your bill, sit down quickly, and make it four hundred.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Then he asked the second, 'And how much do you owe?' "'A thousand bushels of wheat,' he replied. "He told him, 'Take your bill and make it eight hundred.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:""The master commended the dishonest manager because he had acted shrewdly. For the people of this world are more shrewd in dealing with their own kind than are the people of the light.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I tell you, use worldly wealth to gain friends for yourselves, so that when it is gone, you will be welcomed into eternal dwellings.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So if you have not been trustworthy in handling worldly wealth, who will trust you with true riches?", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And if you have not been trustworthy with someone else's property, who will give you property of your own?", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:""No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money."", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The Pharisees, who loved money, heard all this and were sneering at Jesus.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He said to them, "You are the ones who justify yourselves in the eyes of men, but God knows your hearts. What is highly valued among men is detestable in God's sight.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:""The Law and the Prophets were proclaimed until John. Since that time, the good news of the kingdom of God is being preached, and everyone is forcing his way into it.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"It is easier for heaven and earth to disappear than for the least stroke of a pen to drop out of the Law.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Anyone who divorces his wife and marries another woman commits adultery, and the man who marries a divorced woman commits adultery.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:""There was a rich man who was dressed in purple and fine linen and lived in luxury every day.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"At his gate was laid a beggar named Lazarus, covered with sores", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and longing to eat what fell from the rich man's table. Even the dogs came and licked his sores.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:""The time came when the beggar died and the angels carried him to Abraham's side. The rich man also died and was buried.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In hell, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So he called to him, 'Father Abraham, have pity on me and send Lazarus to dip the tip of his finger in water and cool my tongue, because I am in agony in this fire.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:""But Abraham replied, 'Son, remember that in your lifetime you received your good things, while Lazarus received bad things, but now he is comforted here and you are in agony.", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And besides all this, between us and you a great chasm has been fixed, so that those who want to go from here to you cannot, nor can anyone cross over from there to us.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:""He answered, 'Then I beg you, father, send Lazarus to my father's house,", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"for I have five brothers. Let him warn them, so that they will not also come to this place of torment.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Abraham replied, 'They have Moses and the Prophets; let them listen to them.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:""'No, father Abraham,' he said, 'but if someone from the dead goes to them, they will repent.'", Ind:""},
+  {Bible:"Luke", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:""He said to him, 'If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'"", Ind:""},
 ]);

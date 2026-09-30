@@ -1,6 +1,28 @@
 // 에스겔 47장 · Ezekiel 47
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",47,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",47,23);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:47, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The man brought me back to the entrance of the temple, and I saw water coming out from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He then brought me out through the north gate and led me around the outside to the outer gate facing east, and the water was flowing from the south side.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:3, Page:1, Kor:"", Chn:"", Eng:"As the man went eastward with a measuring line in his hand, he measured off a thousand cubits and then led me through water that was ankle-deep.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He measured off another thousand cubits and led me through water that was knee-deep. He measured off another thousand and led me through water that was up to the waist.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He measured off another thousand, but now it was a river that I could not cross, because the water had risen and was deep enough to swim in--a river that no one could cross.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He asked me, "Son of man, do you see this?" Then he led me back to the bank of the river.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When I arrived there, I saw a great number of trees on each side of the river.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He said to me, "This water flows toward the eastern region and goes down into the Arabah, where it enters the Sea. When it empties into the Sea, the water there becomes fresh.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Swarms of living creatures will live wherever the river flows. There will be large numbers of fish, because this water flows there and makes the salt water fresh; so where the river flows everything will live.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Fishermen will stand along the shore; from En Gedi to En Eglaim there will be places for spreading nets. The fish will be of many kinds--like the fish of the Great Sea.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the swamps and marshes will not become fresh; they will be left for salt.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Fruit trees of all kinds will grow on both banks of the river. Their leaves will not wither, nor will their fruit fail. Every month they will bear, because the water from the sanctuary flows to them. Their fruit will serve for food and their leaves for healing."", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:13, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: "These are the boundaries by which you are to divide the land for an inheritance among the twelve tribes of Israel, with two portions for Joseph.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You are to divide it equally among them. Because I swore with uplifted hand to give it to your forefathers, this land will become your inheritance.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:15, Page:1, Kor:"", Chn:"", Eng:""This is to be the boundary of the land: "On the north side it will run from the Great Sea by the Hethlon road past Lebo Hamath to Zedad,", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Berothah and Sibraim (which lies on the border between Damascus and Hamath), as far as Hazer Hatticon, which is on the border of Hauran.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The boundary will extend from the sea to Hazar Enan, along the northern border of Damascus, with the border of Hamath to the north. This will be the north boundary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:18, Page:1, Kor:"", Chn:"", Eng:""On the east side the boundary will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the eastern sea and as far as Tamar. This will be the east boundary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:19, Page:1, Kor:"", Chn:"", Eng:""On the south side it will run from Tamar as far as the waters of Meribah Kadesh, thej along the Wadi$of Egypt to the Great Sea. This will be the south boundary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:20, Page:1, Kor:"", Chn:"", Eng:""On the west side, the Great Sea will be the boundary to a point opposite Lebo Hamath. This will be the west boundary.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:21, Page:1, Kor:"", Chn:"", Eng:""You are to distribute this land among yourselves according to the tribes of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You are to allot it as an inheritance for yourselves and for the aliens who have settled among you and who have children. You are to consider them as native-born Israelites; along with you they are to be allotted an inheritance among the tribes of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:47, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In whatever tribe the alien settles, there you are to give him his inheritance," declares the Sovereign LORD.", Ind:""},
 ]);

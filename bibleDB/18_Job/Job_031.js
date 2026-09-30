@@ -1,6 +1,45 @@
 // 욥기 31장 · Job 31
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",31,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",31,40);
 BibleDB.add([
+  {Bible:"Job", Chapter:31, Verse:1, Page:1, Kor:"", Chn:"", Eng:""I made a covenant with my eyes not to look lustfully at a girl.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:2, Page:1, Kor:"", Chn:"", Eng:"For what is man's lot from God above, his heritage from the Almighty on high?", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Is it not ruin for the wicked, disaster for those who do wrong?", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Does he not see my ways and count my every step?", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:5, Page:1, Kor:"", Chn:"", Eng:""If I have walked in falsehood or my foot has hurried after deceit--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:6, Page:1, Kor:"", Chn:"", Eng:"let God weigh me in honest scales and he will know that I am blameless--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:7, Page:1, Kor:"", Chn:"", Eng:"if my steps have turned from the path, if my heart has been led by my eyes, or if my hands have been defiled,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:8, Page:1, Kor:"", Chn:"", Eng:"then may others eat what I have sown, and may my crops be uprooted.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:9, Page:1, Kor:"", Chn:"", Eng:""If my heart has been enticed by a woman, or if I have lurked at my neighbor's door,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:10, Page:1, Kor:"", Chn:"", Eng:"then may my wife grind another man's grain, and may other men sleep with her.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For that would have been shameful, a sin to be judged.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It is a fire that burns to Destruction; it would have uprooted my harvest.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:13, Page:1, Kor:"", Chn:"", Eng:""If I have denied justice to my menservants and maidservants when they had a grievance against me,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:14, Page:1, Kor:"", Chn:"", Eng:"what will I do when God confronts me? What will I answer when called to account?", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Did not he who made me in the womb make them? Did not the same one form us both within our mothers?", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:16, Page:1, Kor:"", Chn:"", Eng:""If I have denied the desires of the poor or let the eyes of the widow grow weary,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:17, Page:1, Kor:"", Chn:"", Eng:"if I have kept my bread to myself, not sharing it with the fatherless--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:18, Page:1, Kor:"", Chn:"", Eng:"but from my youth I reared him as would a father, and from my birth I guided the widow--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:19, Page:1, Kor:"", Chn:"", Eng:"if I have seen anyone perishing for lack of clothing, or a needy man without a garment,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and his heart did not bless me for warming him with the fleece from my sheep,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:21, Page:1, Kor:"", Chn:"", Eng:"if I have raised my hand against the fatherless, knowing that I had influence in court,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:22, Page:1, Kor:"", Chn:"", Eng:"then let my arm fall from the shoulder, let it be broken off at the joint.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For I dreaded destruction from God, and for fear of his splendor I could not do such things.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:24, Page:1, Kor:"", Chn:"", Eng:""If I have put my trust in gold or said to pure gold, 'You are my security,'", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:25, Page:1, Kor:"", Chn:"", Eng:"if I have rejoiced over my great wealth, the fortune my hands had gained,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:26, Page:1, Kor:"", Chn:"", Eng:"if I have regarded the sun in its radiance or the moon moving in splendor,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:27, Page:1, Kor:"", Chn:"", Eng:"so that my heart was secretly enticed and my hand offered them a kiss of homage,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:28, Page:1, Kor:"", Chn:"", Eng:"then these also would be sins to be judged, for I would have been unfaithful to God on high.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:29, Page:1, Kor:"", Chn:"", Eng:""If I have rejoiced at my enemy's misfortune or gloated over the trouble that came to him--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I have not allowed my mouth to sin by invoking a curse against his life--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:31, Page:1, Kor:"", Chn:"", Eng:"if the men of my household have never said, 'Who has not had his fill of Job's meat?'--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:32, Page:1, Kor:"", Chn:"", Eng:"but no stranger had to spend the night in the street, for my door was always open to the traveler--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:33, Page:1, Kor:"", Chn:"", Eng:"if I have concealed my sin as men do, by hiding my guilt in my heart", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:34, Page:1, Kor:"", Chn:"", Eng:"because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:35, Page:1, Kor:"", Chn:"", Eng:"("Oh, that I had someone to hear me! I sign now my defense--let the Almighty answer me; let my accuser put his indictment in writing.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Surely I would wear it on my shoulder, I would put it on like a crown.", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:37, Page:1, Kor:"", Chn:"", Eng:"I would give him an account of my every step; like a prince I would approach him.)--", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:38, Page:1, Kor:"", Chn:"", Eng:""if my land cries out against me and all its furrows are wet with tears,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:39, Page:1, Kor:"", Chn:"", Eng:"if I have devoured its yield without payment or broken the spirit of its tenants,", Ind:""},
+  {Bible:"Job", Chapter:31, Verse:40, Page:1, Kor:"", Chn:"", Eng:"then let briers come up instead of wheat and weeds instead of barley." The words of Job are ended.", Ind:""},
 ]);

@@ -1,6 +1,32 @@
 // 사도행전 25장 · Acts 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",25,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",25,27);
 BibleDB.add([
+  {Bible:"Acts", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Three days after arriving in the province, Festus went up from Caesarea to Jerusalem,", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:2, Page:1, Kor:"", Chn:"", Eng:"where the chief priests and Jewish leaders appeared before him and presented the charges against Paul.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They urgently requested Festus, as a favor to them, to have Paul transferred to Jerusalem, for they were preparing an ambush to kill him along the way.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Festus answered, "Paul is being held at Caesarea, and I myself am going there soon.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Let some of your leaders come with me and press charges against the man there, if he has done anything wrong."", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"After spending eight or ten days with them, he went down to Caesarea, and the next day he convened the court and ordered that Paul be brought before him.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When Paul appeared, the Jews who had come down from Jerusalem stood around him, bringing many serious charges against him, which they could not prove.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then Paul made his defense: "I have done nothing wrong against the law of the Jews or against the temple or against Caesar."", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Festus, wishing to do the Jews a favor, said to Paul, "Are you willing to go up to Jerusalem and stand trial before me there on these charges?"", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Paul answered: "I am now standing before Caesar's court, where I ought to be tried. I have not done any wrong to the Jews, as you yourself know very well.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:11, Page:1, Kor:"", Chn:"", Eng:"If, however, I am guilty of doing anything deserving death, I do not refuse to die. But if the charges brought against me by these Jews are not true, no one has the right to hand me over to them. I appeal to Caesar!"", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:12, Page:1, Kor:"", Chn:"", Eng:"After Festus had conferred with his council, he declared: "You have appealed to Caesar. To Caesar you will go!"", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:13, Page:1, Kor:"", Chn:"", Eng:"A few days later King Agrippa and Bernice arrived at Caesarea to pay their respects to Festus.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Since they were spending many days there, Festus discussed Paul's case with the king. He said: "There is a man here whom Felix left as a prisoner.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When I went to Jerusalem, the chief priests and elders of the Jews brought charges against him and asked that he be condemned.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:16, Page:1, Kor:"", Chn:"", Eng:""I told them that it is not the Roman custom to hand over any man before he has faced his accusers and has had an opportunity to defend himself against their charges.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:17, Page:1, Kor:"", Chn:"", Eng:"When they came here with me, I did not delay the case, but convened the court the next day and ordered the man to be brought in.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When his accusers got up to speak, they did not charge him with any of the crimes I had expected.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Instead, they had some points of dispute with him about their own religion and about a dead man named Jesus who Paul claimed was alive.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I was at a loss how to investigate such matters; so I asked if he would be willing to go to Jerusalem and stand trial there on these charges.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When Paul made his appeal to be held over for the Emperor's decision, I ordered him held until I could send him to Caesar."", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then Agrippa said to Festus, "I would like to hear this man myself." He replied, "Tomorrow you will hear him."", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The next day Agrippa and Bernice came with great pomp and entered the audience room with the high ranking officers and the leading men of the city. At the command of Festus, Paul was brought in.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Festus said: "King Agrippa, and all who are present with us, you see this man! The whole Jewish community has petitioned me about him in Jerusalem and here in Caesarea, shouting that he ought not to live any longer.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I found he had done nothing deserving of death, but because he made his appeal to the Emperor I decided to send him to Rome.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But I have nothing definite to write to His Majesty about him. Therefore I have brought him before all of you, and especially before you, King Agrippa, so that as a result of this investigation I may have something to write.", Ind:""},
+  {Bible:"Acts", Chapter:25, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For I think it is unreasonable to send on a prisoner without specifying the charges against him."", Ind:""},
 ]);

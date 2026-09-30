@@ -1,6 +1,37 @@
 // 신명기 12장 · Deuteronomy 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",12,32);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are the decrees and laws you must be careful to follow in the land that the LORD, the God of your fathers, has given you to possess--as long as you live in the land.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Destroy completely all the places on the high mountains and on the hills and under every spreading tree where the nations you are dispossessing worship their gods.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Break down their altars, smash their sacred stones and burn their Asherah poles in the fire; cut down the idols of their gods and wipe out their names from those places.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You must not worship the LORD your God in their way.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But you are to seek the place the LORD your God will choose from among all your tribes to put his Name there for his dwelling. To that place you must go;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"there bring your burnt offerings and sacrifices, your tithes and special gifts, what you have vowed to give and your freewill offerings, and the firstborn of your herds and flocks.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"There, in the presence of the LORD your God, you and your families shall eat and shall rejoice in everything you have put your hand to, because the LORD your God has blessed you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You are not to do as we do here today, everyone as he sees fit,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"since you have not yet reached the resting place and the inheritance the LORD your God is giving you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But you will cross the Jordan and settle in the land the LORD your God is giving you as an inheritance, and he will give you rest from all your enemies around you so that you will live in safety.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then to the place the LORD your God will choose as a dwelling for his Name--there you are to bring everything I command you: your burnt offerings and sacrifices, your tithes and special gifts, and all the choice possessions you have vowed to the LORD.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And there rejoice before the LORD your God, you, your sons and daughters, your menservants and maidservants, and the Levites from your towns, who have no allotment or inheritance of their own.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Be careful not to sacrifice your burnt offerings anywhere you please.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Offer them only at the place the LORD will choose in one of your tribes, and there observe everything I command you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Nevertheless, you may slaughter your animals in any of your towns and eat as much of the meat as you want, as if it were gazelle or deer, according to the blessing the LORD your God gives you. Both the ceremonially unclean and the clean may eat it.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But you must not eat the blood; pour it out on the ground like water.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You must not eat in your own towns the tithe of your grain and new wine and oil, or the firstborn of your herds and flocks, or whatever you have vowed to give, or your freewill offerings or special gifts.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Instead, you are to eat them in the presence of the LORD your God at the place the LORD your God will choose--you, your sons and daughters, your menservants and maidservants, and the Levites from your towns--and you are to rejoice before the LORD your God in everything you put your hand to.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Be careful not to neglect the Levites as long as you live in your land.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God has enlarged your territory as he promised you, and you crave meat and say, "I would like some meat," then you may eat as much of it as you want.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"If the place where the LORD your God chooses to put his Name is too far away from you, you may slaughter animals from the herds and flocks the LORD has given you, as I have commanded you, and in your own towns you may eat as much of them as you want.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Eat them as you would gazelle or deer. Both the ceremonially unclean and the clean may eat.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But be sure you do not eat the blood, because the blood is the life, and you must not eat the life with the meat.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You must not eat the blood; pour it out on the ground like water.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not eat it, so that it may go well with you and your children after you, because you will be doing what is right in the eyes of the LORD.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But take your consecrated things and whatever you have vowed to give, and go to the place the LORD will choose.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Present your burnt offerings on the altar of the LORD your God, both the meat and the blood. The blood of your sacrifices must be poured beside the altar of the LORD your God, but you may eat the meat.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Be careful to obey all these regulations I am giving you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The LORD your God will cut off before you the nations you are about to invade and dispossess. But when you have driven them out and settled in their land,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:30, Page:1, Kor:"", Chn:"", Eng:"and after they have been destroyed before you, be careful not to be ensnared by inquiring about their gods, saying, "How do these nations serve their gods? We will do the same."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:31, Page:1, Kor:"", Chn:"", Eng:"You must not worship the LORD your God in their way, because in worshiping their gods, they do all kinds of detestable things the LORD hates. They even burn their sons and daughters in the fire as sacrifices to their gods.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:12, Verse:32, Page:1, Kor:"", Chn:"", Eng:"See that you do all I command you; do not add to it or take away from it.", Ind:""},
 ]);

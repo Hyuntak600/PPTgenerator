@@ -1,6 +1,38 @@
 // 로마서 15장 · Romans 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",15,33);
 BibleDB.add([
+  {Bible:"Romans", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"We who are strong ought to bear with the failings of the weak and not to please ourselves.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Each of us should please his neighbor for his good, to build him up.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For even Christ did not please himself but, as it is written: "The insults of those who insult you have fallen on me."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For everything that was written in the past was written to teach us, so that through endurance and the encouragement of the Scriptures we might have hope.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"May the God who gives endurance and encouragement give you a spirit of unity among yourselves as you follow Christ Jesus,", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"so that with one heart and mouth you may glorify the God and Father of our Lord Jesus Christ.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Accept one another, then, just as Christ accepted you, in order to bring praise to God.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For I tell you that Christ has become a servant of the Jews on behalf of God's truth, to confirm the promises made to the patriarchs", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"so that the Gentiles may glorify God for his mercy, as it is written: "Therefore I will praise you among the Gentiles; I will sing hymns to your name."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Again, it says, "Rejoice, O Gentiles, with his people."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And again, "Praise the Lord, all you Gentiles, and sing praises to him, all you peoples."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And again, Isaiah says, "The Root of Jesse will spring up, one who will arise to rule over the nations; the Gentiles will hope in him."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I myself am convinced, my brothers, that you yourselves are full of goodness, complete in knowledge and competent to instruct one another.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"to be a minister of Christ Jesus to the Gentiles with the priestly duty of proclaiming the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Therefore I glory in Christ Jesus in my service to God.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done--", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"by the power of signs and miracles, through the power of the Spirit. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else's foundation.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Rather, as it is written: "Those who were not told about him will see, and those who have not heard will understand."", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is why I have often been hindered from coming to you.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But now that there is no more place for me to work in these regions, and since I have been longing for many years to see you,", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I plan to do so when I go to Spain. I hope to visit you while passing through and to have you assist me on my journey there, after I have enjoyed your company for a while.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Now, however, I am on my way to Jerusalem in the service of the saints there.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in the Jews' spiritual blessings, they owe it to the Jews to share with them their material blessings.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:"So after I have completed this task and have made sure that they have received this fruit, I will go to Spain and visit you on the way.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I know that when I come to you, I will come in the full measure of the blessing of Christ.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Pray that I may be rescued from the unbelievers in Judea and that my service in Jerusalem may be acceptable to the saints there,", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"so that by God's will I may come to you with joy and together with you be refreshed.", Ind:""},
+  {Bible:"Romans", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The God of peace be with you all. Amen.", Ind:""},
 ]);

@@ -1,0 +1,31 @@
+// 역대상 5장 · Chronicles1 5
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Chronicles1",5,26);
+BibleDB.add([
+  {Bible:"Chronicles1", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The sons of Reuben the firstborn of Israel (he was the firstborn, but when he defiled his father's marriage bed, his rights as firstborn were given to the sons of Joseph son of Israel; so he could not be listed in the genealogical record in accordance with his birthright,", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and though Judah was the strongest of his brothers and a ruler came from him, the rights of the firstborn belonged to Joseph)--", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron and Carmi.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The descendants of Joel: Shemaiah his son, Gog his son, Shimei his son,", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Micah his son, Reaiah his son, Baal his son,", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and Beerah his son, whom Tiglath-Pileser king of Assyria took into exile. Beerah was a leader of the Reubenites.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Their relatives by clans, listed according to their genealogical records: Jeiel the chief, Zechariah,", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and Bela son of Azaz, the son of Shema, the son of Joel. They settled in the area from Aroer to Nebo and Baal Meon.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"To the east they occupied the land up to the edge of the desert that extends to the Euphrates River, because their livestock had increased in Gilead.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"During Saul's reign they waged war against the Hagrites, who were defeated at their hands; they occupied the dwellings of the Hagrites throughout the entire region east of Gilead.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The Gadites lived next to them in Bashan, as far as Salecah:", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Joel was the chief, Shapham the second, then Janai and Shaphat, in Bashan.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Their relatives, by families, were: Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber--seven in all.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Ahi son of Abdiel, the son of Guni, was head of their family.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The Gadites lived in Gilead, in Bashan and its outlying villages, and on all the pasturelands of Sharon as far as they extended.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"All these were entered in the genealogical records during the reigns of Jotham king of Judah and Jeroboam king of Israel.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The Reubenites, the Gadites and the half-tribe of Manasseh had 44,760 men ready for military service--able-bodied men who could handle shield and sword, who could use a bow, and who were trained for battle.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They waged war against the Hagrites, Jetur, Naphish and Nodab.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They were helped in fighting them, and God handed the Hagrites and all their allies over to them, because they cried out to him during the battle. He answered their prayers, because they trusted in him.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They seized the livestock of the Hagrites--fifty thousand camels, two hundred fifty thousand sheep and two thousand donkeys. They also took one hundred thousand people captive,", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"and many others fell slain, because the battle was God's. And they occupied the land until the exile.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The people of the half-tribe of Manasseh were numerous; they settled in the land from Bashan to Baal Hermon, that is, to Senir (Mount Hermon).", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"These were the heads of their families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah and Jahdiel. They were brave warriors, famous men, and heads of their families.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But they were unfaithful to the God of their fathers and prostituted themselves to the gods of the peoples of the land, whom God had destroyed before them.", Ind:""},
+  {Bible:"Chronicles1", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-Pileser king of Assyria), who took the Reubenites, the Gadites and the half-tribe of Manasseh into exile. He took them to Halah, Habor, Hara and the river of Gozan, where they are to this day.", Ind:""},
+]);

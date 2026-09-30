@@ -1,6 +1,40 @@
 // 출애굽기 9장 · Exodus 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",9,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",9,35);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Go to Pharaoh and say to him, 'This is what the LORD, the God of the Hebrews, says: "Let my people go, so that they may worship me."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"If you refuse to let them go and continue to hold them back,", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"the hand of the LORD will bring a terrible plague on your livestock in the field--on your horses and donkeys and camels and on your cattle and sheep and goats.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But the LORD will make a distinction between the livestock of Israel and that of Egypt, so that no animal belonging to the Israelites will die.'"", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD set a time and said, "Tomorrow the LORD will do this in the land."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And the next day the LORD did it: All the livestock of the Egyptians died, but not one animal belonging to the Israelites died.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Pharaoh sent men to investigate and found that not even one of the animals of the Israelites had died. Yet his heart was unyielding and he would not let the people go.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses and Aaron, "Take handfuls of soot from a furnace and have Moses toss it into the air in the presence of Pharaoh.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"It will become fine dust over the whole land of Egypt, and festering boils will break out on men and animals throughout the land."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So they took soot from a furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on men and animals.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The magicians could not stand before Moses because of the boils that were on them and on all the Egyptians.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But the LORD hardened Pharaoh's heart and he would not listen to Moses and Aaron, just as the LORD had said to Moses.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Get up early in the morning, confront Pharaoh and say to him, 'This is what the LORD, the God of the Hebrews, says: Let my people go, so that they may worship me,", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"or this time I will send the full force of my plagues against you and against your officials and your people, so you may know that there is no one like me in all the earth.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For by now I could have stretched out my hand and struck you and your people with a plague that would have wiped you off the earth.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But I have raised you up for this very purpose, that I might show you my power and that my name might be proclaimed in all the earth.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You still set yourself against my people and will not let them go.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Therefore, at this time tomorrow I will send the worst hailstorm that has ever fallen on Egypt, from the day it was founded till now.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Give an order now to bring your livestock and everything you have in the field to a place of shelter, because the hail will fall on every man and animal that has not been brought in and is still out in the field, and they will die.'"", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Those officials of Pharaoh who feared the word of the LORD hurried to bring their slaves and their livestock inside.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But those who ignored the word of the LORD left their slaves and livestock in the field.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Stretch out your hand toward the sky so that hail will fall all over Egypt--on men and animals and on everything growing in the fields of Egypt."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When Moses stretched out his staff toward the sky, the LORD sent thunder and hail, and lightning flashed down to the ground. So the LORD rained hail on the land of Egypt;", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:"hail fell and lightning flashed back and forth. It was the worst storm in all the land of Egypt since it had become a nation.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Throughout Egypt hail struck everything in the fields--both men and animals; it beat down everything growing in the fields and stripped every tree.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The only place it did not hail was the land of Goshen, where the Israelites were.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then Pharaoh summoned Moses and Aaron. "This time I have sinned," he said to them. "The LORD is in the right, and I and my people are in the wrong.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Pray to the LORD, for we have had enough thunder and hail. I will let you go; you don't have to stay any longer."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Moses replied, "When I have gone out of the city, I will spread out my hands in prayer to the LORD. The thunder will stop and there will be no more hail, so you may know that the earth is the LORD'S.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But I know that you and your officials still do not fear the LORD God."", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:31, Page:1, Kor:"", Chn:"", Eng:"(The flax and barley were destroyed, since the barley had headed and the flax was in bloom.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The wheat and spelt, however, were not destroyed, because they ripen later.)", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Then Moses left Pharaoh and went out of the city. He spread out his hands toward the LORD; the thunder and hail stopped, and the rain no longer poured down on the land.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:34, Page:1, Kor:"", Chn:"", Eng:"When Pharaoh saw that the rain and hail and thunder had stopped, he sinned again: He and his officials hardened their hearts.", Ind:""},
+  {Bible:"Exodus", Chapter:9, Verse:35, Page:1, Kor:"", Chn:"", Eng:"So Pharaoh's heart was hard and he would not let the Israelites go, just as the LORD had said through Moses.", Ind:""},
 ]);

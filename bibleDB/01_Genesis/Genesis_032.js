@@ -1,6 +1,37 @@
 // 창세기 32장 · Genesis 32
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",32,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",32,32);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:32, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Jacob also went on his way, and the angels of God met him.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When Jacob saw them, he said, "This is the camp of God!" So he named that place Mahanaim.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of  Edom.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He instructed them: "This is what you are to say to my master Esau: 'Your servant Jacob  says, I have been staying with Laban and have remained there till now.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I have cattle and donkeys, sheep and goats, menservants and maidservants. Now I am sending  this message to my lord, that I may find favor in your eyes.'"", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When the messengers returned to Jacob, they said, "We went to your brother Esau, and now he  is coming to meet you, and four hundred men are with him."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In great fear and distress Jacob divided the people who were with him into two groups, and  the flocks and herds and camels as well.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He thought, "If Esau comes and attacks one group, the group that is left may escape."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then Jacob prayed, "O God of my father Abraham, God of my father Isaac, O LORD, who said to  me, 'Go back to your country and your relatives, and I will make you prosper,'", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I am unworthy of all the kindness and faithfulness you have shown your servant. I had only  my staff when I crossed this Jordan, but now I have become two groups.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Save me, I pray, from the hand of my brother Esau, for I am afraid he will come and attack  me, and also the mothers with their children.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But you have said, 'I will surely make you prosper and will make your descendants like the  sand of the sea, which cannot be counted.'"", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He spent the night there, and from what he had with him he selected a gift for his brother  Esau:", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:14, Page:1, Kor:"", Chn:"", Eng:"two hundred female goats and twenty male goats, two hundred ewes and twenty rams,", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:15, Page:1, Kor:"", Chn:"", Eng:"thirty female camels with their young, forty cows and ten bulls, and twenty female donkeys  and ten male donkeys.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He put them in the care of his servants, each herd by itself, and said to his servants, "Go  ahead of me, and keep some space between the herds."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He instructed the one in the lead: "When my brother Esau meets you and asks, 'To whom do  you belong, and where are you going, and who owns all these animals in front of you?'", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:18, Page:1, Kor:"", Chn:"", Eng:"then you are to say, 'They belong to your servant Jacob. They are a gift sent to my lord  Esau, and he is coming behind us.'"", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He also instructed the second, the third and all the others who followed the herds: "You  are to say the same thing to Esau when you meet him.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And be sure to say, 'Your servant Jacob is coming behind us.'" For he thought, "I will  pacify him with these gifts I am sending on ahead; later, when I see him, perhaps he will receive  me."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So Jacob's gifts went on ahead of him, but he himself spent the night in the camp.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:22, Page:1, Kor:"", Chn:"", Eng:"That night Jacob got up and took his two wives, his two maidservants and his eleven sons  and crossed the ford of the Jabbok.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:23, Page:1, Kor:"", Chn:"", Eng:"After he had sent them across the stream, he sent over all his possessions.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So Jacob was left alone, and a man wrestled with him till daybreak.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When the man saw that he could not overpower him, he touched the socket of Jacob's hip so  that his hip was wrenched as he wrestled with the man.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Then the man said, "Let me go, for it is daybreak." But Jacob replied, "I will not let you  go unless you bless me."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The man asked him, "What is your name?" "Jacob," he answered.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then the man said, "Your name will no longer be Jacob, but Israel, because you have  struggled with God and with men and have overcome."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Jacob said, "Please tell me your name." But he replied, "Why do you ask my name?" Then he  blessed him there.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:30, Page:1, Kor:"", Chn:"", Eng:"So Jacob called the place Peniel, saying, "It is because I saw God face to face, and yet my  life was spared."", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The sun rose above him as he passed Peniel, and he was limping because of his hip.", Ind:""},
+  {Bible:"Genesis", Chapter:32, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Therefore to this day the Israelites do not eat the tendon attached to the socket of the  hip, because the socket of Jacob's hip was touched near the tendon.", Ind:""},
 ]);

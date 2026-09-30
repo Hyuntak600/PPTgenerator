@@ -1,6 +1,42 @@
 // 느헤미야 11장 · Nehemiah 11
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Nehemiah",11,0);
+BibleDB.ref("Nehemiah",11,36);
 // [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
 BibleDB.add([
+  {Bible:"Nehemiah", Chapter:11, Verse:1, Page:1, Kor:"<예루살렘에 자리를 잡은 백성들> 백성의 지도자들은 예루살렘에 자리잡았다. 나머지 백성은 주사위를 던져서, 십분의 일은 거룩한 성 예루살렘에서 살게 하고, 십분의 구는 저마다 자기의 성읍에서 살게 하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:2, Page:1, Kor:"스스로 예루살렘에서 살겠다고 자원하는 사람 모두에게는 백성이 복을 빌어 주었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:3, Page:1, Kor:"○예루살렘에 자리를 잡은 지방 지도자들은 다음과 같다. 다른 이스라엘 사람들 곧 제사장과 레위 사람과 성전 막일꾼과 솔로몬을 섬기던 종의 자손은, 각자가 물려받은 땅인 유다 여러 성읍에서 살고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:4, Page:1, Kor:"유다와 베냐민 자손 가운데서 일부가 예루살렘에서 살았다. ○유다 자손으로는 아다야가 있다. 그의 아버지는 웃시야요, 그 윗대는 스가랴요, 그 윗대는 아마랴요, 그 윗대는 스바댜요, 그 윗대는 마할랄렐이요, 그 윗대는 베레스이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:5, Page:1, Kor:"그 다음으로는 마아세야가 있다. 그의 아버지는 바룩이요, 그 윗대는 골호세요, 그 윗대는 하사야요, 그 윗대는 아다야요, 그 윗대는 요야립이요, 그 윗대는 스가랴요, 그 윗대는 실로 사람의 아들이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:6, Page:1, Kor:"예루살렘에 자리잡은 베레스의 자손은 모두 사백육십팔 명이고, 그들은 모두 용사였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:7, Page:1, Kor:"○베냐민 자손으로는 살루가 있다. 그의 아버지는 므술람이요, 그 윗대는 요엣이요, 그 윗대는 브다야요, 그 윗대는 골라야요, 그 윗대는 마아세야요, 그 윗대는 이디엘이요, 그 윗대는 여사야이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:8, Page:1, Kor:"그를 따르는 자는, 갑배와 살래를 비롯하여, 구백이십팔 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:9, Page:1, Kor:"시그리의 아들인 요엘이 그 우두머리이고, 핫스누아의 아들인 유다는 그 도성의 제 이 구역을 다스렸다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:10, Page:1, Kor:"○제사장 가운데는, 요야립의 아들인 여다야와 야긴과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:11, Page:1, Kor:"스라야가 있다. 스라야의 아버지는 힐기야요, 그 윗대는 므술람이요, 그 윗대는 사독이요, 그 윗대는 므라욧이요, 그 윗대는 하나님의 성전의 책임자인 아히둡이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:12, Page:1, Kor:"성전의 일을 맡아 보는 그들의 친족은 모두 팔백이십이 명이다. 또 아다야가 있는데, 그의 아버지는 여로함이요, 그 윗대는 블라야요, 그 윗대는 암시요, 그 윗대는 스가랴요, 그 윗대는 바스훌이요, 그 윗대는 말기야이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:13, Page:1, Kor:"그의 친족 각 가문의 우두머리는 이백사십이 명이다. 또 아맛새가 있다. 그의 아버지는 아사렐이요, 그 윗대는 아흐새요, 그 윗대는 므실레못이요, 그 윗대는 임멜이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:14, Page:1, Kor:"큰 용사들인 a그들의 친족은 모두 백이십팔 명이다. 그들의 우두머리는 하그돌림의 아들 삽디엘이다.(a 칠십인역에는 '그의')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:15, Page:1, Kor:"○레위 사람으로는 스마야가 있다. 그의 아버지는 핫숩이요, 그 윗대는 아스리감이요, 그 윗대는 하사뱌요, 그 윗대는 분니이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:16, Page:1, Kor:"또 레위 사람의 우두머리인 삽브대와 요사밧도 있다. 그들은 하나님의 성전 바깥 일을 맡은 이들이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:17, Page:1, Kor:"또 맛다니야가 있다. 그의 아버지는 미가요, 그 윗대는 삽디요, 그 윗대는 아삽이다. 그는 감사의 찬송과 기도를 인도하는 지휘자이다. 그의 형제들 가운데서 박부갸가 버금가는 지휘자가 되었다. 또 압다가 있다. 그의 아버지는 삼무아요, 그 윗대는 갈랄이요, 그 윗대는 여두둔이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:18, Page:1, Kor:"거룩한 성에 자리를 잡은 레위 사람들은 모두 이백팔십사 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:19, Page:1, Kor:"○성전 문지기는 악굽과 달몬과 그 친족들인데, 모두 백칠십이 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:20, Page:1, Kor:"나머지 이스라엘 백성과 제사장과 레위 사람들은, 제각기 자기 유산으로 받은 땅이 있는 유다 여러 성읍에 흩어져서 살았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:21, Page:1, Kor:"○성전 막일꾼들은 오벨에 자리를 잡았다. 시하와 기스바가 그들을 맡았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:22, Page:1, Kor:"○예루살렘에 자리를 잡은 레위 사람들의 우두머리는 웃시이다. 그의 아버지는 바니요, 그 윗대는 하사뱌요, 그 윗대는 맛다니야요, 그 윗대는 미가이다. 웃시는 하나님의 성전에서 예배드릴 때에 노래를 맡은 아삽의 자손 가운데 한 사람이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:23, Page:1, Kor:"노래하는 사람들에게는, 날마다 하여야 할 일을 규정한 왕명이 내려져 있었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:24, Page:1, Kor:"○유다의 아들 세라의 자손 가운데서, 므세사벨의 아들 브다히야가 왕 곁에서 이스라엘 백성과 관련된 일을 맡아 보았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:25, Page:1, Kor:"<마을과 성읍에 자리를 잡은 백성들> ○마을과 거기에 딸린 들판은 이러하다. 유다 자손 가운데서 더러는 기럇아르바와 거기에 딸린 촌락들과, 디본과 거기에 딸린 촌락들과, 여갑스엘과 거기에 딸린 마을들에 자리를 잡고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:26, Page:1, Kor:"더러는 예수아와 몰라다와 벳벨렛과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:27, Page:1, Kor:"하살수알과 브엘세바와 거기에 딸린 촌락들,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:28, Page:1, Kor:"시글락과 므고나와 거기에 딸린 촌락들,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:29, Page:1, Kor:"에느림몬과 소라와 야르뭇과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:30, Page:1, Kor:"사노아와 아둘람과 거기에 딸린 촌락들, 라기스와 거기에 딸린 들판, 아세가와 거기에 딸린 촌락들에 자리를 잡았다. 이렇게 그들은 브엘세바에서 힌놈 골짜기까지 장막을 치고 살게 되었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:31, Page:1, Kor:"○베냐민 자손은 게바와 믹마스와 아야와 베델과 거기에 딸린 촌락들,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:32, Page:1, Kor:"아나돗과 놉과 아나냐와", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:33, Page:1, Kor:"하솔과 라마와 깃다임과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:34, Page:1, Kor:"하딧과 스보임과 느발랏과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:35, Page:1, Kor:"로드와 오노와 대장장이 골짜기에 자리를 잡았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Nehemiah", Chapter:11, Verse:36, Page:1, Kor:"유다에 있던 레위 사람들 가운데서 일부는 베냐민으로 가서 자리를 잡았다.", Chn:"", Eng:"", Ind:""},
 ]);

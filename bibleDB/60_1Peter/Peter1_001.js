@@ -1,0 +1,30 @@
+// 베드로전서 1장 · Peter1 1
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Peter1",1,25);
+BibleDB.add([
+  {Bible:"Peter1", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ and sprinkling by his blood: Grace and peace be yours in abundance.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and into an inheritance that can never perish, spoil or fade--kept in heaven for you,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"In this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"for you are receiving the goal of your faith, the salvation of your souls.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of Christ and the glories that would follow.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Therefore, prepare your minds for action; be self-controlled; set your hope fully on the grace to be given you when Jesus Christ is revealed.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"As obedient children, do not conform to the evil desires you had when you lived in ignorance.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But just as he who called you is holy, so be holy in all you do;", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"for it is written: "Be holy, because I am holy."", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Since you call on a Father who judges each man's work impartially, live your lives as strangers here in reverent fear.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"but with the precious blood of Christ, a lamb without blemish or defect.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He was chosen before the creation of the world, but was revealed in these last times for your sake.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Now that you have purified yourselves by obeying the truth so that you have sincere love for your brothers, love one another deeply, from the heart.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For, "All men are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall,", Ind:""},
+  {Bible:"Peter1", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"but the word of the Lord stands forever." And this is the word that was preached to you.", Ind:""},
+]);

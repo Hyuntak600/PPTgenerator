@@ -1,6 +1,35 @@
 // 욥기 6장 · Job 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",6,30);
 BibleDB.add([
+  {Bible:"Job", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied:", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:""If only my anguish could be weighed and all my misery be placed on the scales!", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"It would surely outweigh the sand of the seas--no wonder my words have been impetuous.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The arrows of the Almighty are in me, my spirit drinks in their poison; God's terrors are marshaled against me.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Does a wild donkey bray when it has grass, or an ox bellow when it has fodder?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Is tasteless food eaten without salt, or is there flavor in the white of an egg?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I refuse to touch it; such food makes me ill.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Oh, that I might have my request, that God would grant what I hope for,", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"that God would be willing to crush me, to let loose his hand and cut me off!", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then I would still have this consolation--my joy in unrelenting pain--that I had not denied the words of the Holy One.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:""What strength do I have, that I should still hope? What prospects, that I should be patient?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Do I have the strength of stone? Is my flesh bronze?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Do I have any power to help myself, now that success has been driven from me?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:""A despairing man should have the devotion of his friends, even though he forsakes the fear of the Almighty.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But my brothers are as undependable as intermittent streams, as the streams that overflow", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"when darkened by thawing ice and swollen with melting snow,", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"but that cease to flow in the dry season, and in the heat vanish from their channels.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Caravans turn aside from their routes; they go up into the wasteland and perish.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The caravans of Tema look for water, the traveling merchants of Sheba look in hope.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They are distressed, because they had been confident; they arrive there, only to be disappointed.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Now you too have proved to be of no help; you see something dreadful and are afraid.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Have I ever said, 'Give something on my behalf, pay a ransom for me from your wealth,", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"deliver me from the hand of the enemy, ransom me from the clutches of the ruthless'?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Teach me, and I will be quiet; show me where I have been wrong.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"How painful are honest words! But what do your arguments prove?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Do you mean to correct what I say, and treat the words of a despairing man as wind?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"You would even cast lots for the fatherless and barter away your friend.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:""But now be so kind as to look at me. Would I lie to your face?", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Relent, do not be unjust; reconsider, for my integrity is at stake.", Ind:""},
+  {Bible:"Job", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Is there any wickedness on my lips? Can my mouth not discern malice?", Ind:""},
 ]);

@@ -1,6 +1,32 @@
 // 예레미야 17장 · Jeremiah 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",17,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",17,27);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Judah's sin is engraved with an iron tool, inscribed with a flint point, on the tablets of their hearts and on the horns of their altars.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Even their children remember their altars and Asherah poles beside the spreading trees and on the high hills.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"My mountain in the land and your wealth and all your treasures I will give away as plunder, together with your high places, because of sin throughout your country.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Through your own fault you will lose the inheritance I gave you. I will enshave you to your enemies in a land you do not know, for you have kindled my anger, and it will burn forever."", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "Cursed is the one who trusts in man, who depends on flesh for his strength and whose heart turns away from the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He will be like a bush in the wastelands; he will not see prosperity when it comes. He will dwell in the parched places of the desert, in a salt land where no one lives.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:""But blessed is the man who trusts in the LORD, whose confidence is in him.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit."", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The heart is deceitful above all things and beyond cure. Who can understand it?", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:10, Page:1, Kor:"", Chn:"", Eng:""I the LORD search the heart and examine the mind, to reward a man according to his conduct, according to what his deeds deserve."", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Like a partridge that hatches eggs it did not lay is the man who gains riches by unjust means. When his life is half gone, they will desert him, and in the end he will prove to be a fool.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A glorious throne, exalted from the beginning, is the place of our sanctuary.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"O LORD, the hope of Israel, all who forsake you will be put to shame. Those who turn away from you will be written in the dust because they have forsaken the LORD, the spring of living water.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Heal me, O LORD, and I will be healed; save me and I will be saved, for you are the one I praise.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"They keep saying to me, "Where is the word of the LORD? Let it now be fulfilled!"", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I have not run away from being your shepherd; you know I have not desired the day of despair. What passes my lips is open before you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do not be a terror to me; you are my refuge in the day of disaster.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Let my persecutors be put to shame, but keep me from shame; let them be terrified, but keep me from terror. Bring on them the day of disaster; destroy them with double destruction.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD said to me: "Go and stand at the gate of the people, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Say to them, 'Hear the word of the LORD, O kings of Judah and all people of Judah and everyone living in Jerusalem who come through these gates.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:21, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not bring a load out of your houses or do any work on the Sabbath, but keep the Sabbath day holy, as I commanded your forefathers.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Yet they did not listen or pay attention; they were stiff-necked and would not listen or respond to discipline.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But if you are careful to obey me, declares the LORD, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it,", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:25, Page:1, Kor:"", Chn:"", Eng:"then kings who sit on David's throne will come through the gates of this city with their officials. They and their officials will come riding in chariots and on horses, accompanied by the men of Judah and those living in Jerusalem, and this city will be inhabited forever.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:26, Page:1, Kor:"", Chn:"", Eng:"People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings, incense and thank offerings to the house of the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:17, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But if you do not obey me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.'"", Ind:""},
 ]);

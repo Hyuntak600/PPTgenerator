@@ -1,6 +1,30 @@
 // 이사야 7장 · Isaiah 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",7,25);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Ahaz son of Jotham, the son of Uzziah, was king of Judah, King Rezin of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem, but they could not overpower it.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now the house of David was told, "Aram has allied itself with Ephraim"; so the hearts of Ahaz and his people were shaken, as the trees of the forest are shaken by the wind.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Isaiah, "Go out, you and your son Shear-Jashub, to meet Ahaz at the end of the aqueduct of the Upper Pool, on the road to the Washerman's Field.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Say to him, 'Be careful, keep calm and don't be afraid. Do not lose heart because of these two smoldering stubs of firewood--because of the fierce anger of Rezin and Aram and of the son of Remaliah.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Aram, Ephraim and Remaliah's son have plotted your ruin, saying,", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Let us invade Judah; let us tear it apart and divide it among ourselves, and make the son of Tabeel king over it."", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Yet this is what the Sovereign LORD says: "'It will not take place, it will not happen,", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"for the head of Aram is Damascus, and the head of Damascus is only Rezin. Within sixty-five years Ephraim will be too shattered to be a people.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The head of Ephraim is Samaria, and the head of Samaria is only Remaliah's son. If you do not stand firm in your faith, you will not stand at all.'"", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Again the LORD spoke to Ahaz,", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Ask the LORD your God for a sign, whether in the deepest depths or in the highest heights."", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But Ahaz said, "I will not ask; I will not put the LORD to the test."", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then Isaiah said, "Hear now, you house of David! Is it not enough to try the patience of men? Will you try the patience of my God also?", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Therefore the Lord himself will give you a sign: The virgin will be with child and will give birth to a son, and will call him Immanuel.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He will eat curds and honey when he knows enough to reject the wrong and choose the right.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The LORD will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah--he will bring the king of Assyria."", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"In that day the LORD will whistle for flies from the distant streams of Egypt and for bees from the land of Assyria.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They will all come and settle in the steep ravines and in the crevices in the rocks, on all the thornbushes and at all the water holes.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In that day the Lord will use a razor hired from beyond the River--the king of Assyria--to shave your head and the hair of your legs, and to take off your beards also.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"In that day, a man will keep alive a young cow and two goats.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And because of the abundance of the milk they give, he will have curds to eat. All who remain in the land will eat curds and honey.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In that day, in every place where there were a thousand vines worth a thousand silver shekels, there will be only briers and thorns.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Men will go there with bow and arrow, for the land will be covered with briers and thorns.", Ind:""},
+  {Bible:"Isaiah", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.", Ind:""},
 ]);

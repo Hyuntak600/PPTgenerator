@@ -1,6 +1,45 @@
 // 사도행전 8장 · Acts 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",8,40);
 BibleDB.add([
+  {Bible:"Acts", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"And Saul was there, giving approval to his death. On that day a great persecution broke out against the church at Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Godly men buried Stephen and mourned deeply for him.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Those who had been scattered preached the word wherever they went.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Philip went down to a city in Samaria and proclaimed the Christ there.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When the crowds heard Philip and saw the miraculous signs he did, they all paid close attention to what he said.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"With shrieks, evil spirits came out of many, and many paralytics and cripples were healed.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So there was great joy in that city.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and all the people, both high and low, gave him their attention and exclaimed, "This man is the divine power known as the Great Power."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They followed him because he had amazed them for a long time with his magic.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But when they believed Philip as he preached the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Simon himself believed and was baptized. And he followed Philip everywhere, astonished by the great signs and miracles he saw.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to them.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When they arrived, they prayed for them that they might receive the Holy Spirit,", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"because the Holy Spirit had not yet come upon any of them; they had simply been baptized into the name of the Lord Jesus.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then Peter and John placed their hands on them, and they received the Holy Spirit.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When Simon saw that the Spirit was given at the laying on of the apostles' hands, he offered them money", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and said, "Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Peter answered: "May your money perish with you, because you thought you could buy the gift of God with money!", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"You have no part or share in this ministry, because your heart is not right before God.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Repent of this wickedness and pray to the Lord. Perhaps he will forgive you for having such a thought in your heart.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For I see that you are full of bitterness and captive to sin."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Simon answered, "Pray to the Lord for me so that nothing you have said may happen to me."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When they had testified and proclaimed the word of the Lord, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Now an angel of the Lord said to Philip, "Go south to the road--the desert road--that goes down from Jerusalem to Gaza."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of Candace, queen of the Ethiopians. This man had gone to Jerusalem to worship,", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"and on his way home was sitting in his chariot reading the book of Isaiah the prophet.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The Spirit told Philip, "Go to that chariot and stay near it."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. "Do you understand what you are reading?" Philip asked.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:""How can I," he said, "unless someone explains it to me?" So he invited Philip to come up and sit with him.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The eunuch was reading this passage of Scripture: "He was led like a sheep to the slaughter, and as a lamb before the shearer is silent, so he did not open his mouth.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"In his humiliation he was deprived of justice. Who can speak of his descendants? For his life was taken from the earth."", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The eunuch asked Philip, "Tell me, please, who is the prophet talking about, himself or someone else?"", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Then Philip began with that very passage of Scripture and told him the good news about Jesus.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"As they traveled along the road, they came to some water and the eunuch said, "Look, here is water. Why shouldn't I be baptized?"", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:37, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:38, Page:1, Kor:"", Chn:"", Eng:"And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:39, Page:1, Kor:"", Chn:"", Eng:"When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.", Ind:""},
+  {Bible:"Acts", Chapter:8, Verse:40, Page:1, Kor:"", Chn:"", Eng:"Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.", Ind:""},
 ]);

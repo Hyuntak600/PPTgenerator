@@ -1,0 +1,30 @@
+// 디모데전서 5장 · Timothy1 5
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Timothy1",5,25);
+BibleDB.add([
+  {Bible:"Timothy1", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers,", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"older women as mothers, and younger women as sisters, with absolute purity.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Give proper recognition to those widows who are really in need.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But if a widow has children or grandchildren, these should learn first of all to put their religion into practice by caring for their own family and so repaying their parents and grandparents, for this is pleasing to God.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The widow who is really in need and left all alone puts her hope in God and continues night and day to pray and to ask God for help.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But the widow who lives for pleasure is dead even while she lives.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Give the people these instructions, too, so that no one may be open to blame.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If anyone does not provide for his relatives, and especially for his immediate family, he has denied the faith and is worse than an unbeliever.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"No widow may be put on the list of widows unless she is over sixty, has been faithful to her husband,", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and is well known for her good deeds, such as bringing up children, showing hospitality, washing the feet of the saints, helping those in trouble and devoting herself to all kinds of good deeds.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"As for younger widows, do not put them on such a list. For when their sensual desires overcome their dedication to Christ, they want to marry.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Thus they bring judgment on themselves, because they have broken their first pledge.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Besides, they get into the habit of being idle and going about from house to house. And not only do they become idlers, but also gossips and busybodies, saying things they ought not to.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So I counsel younger widows to marry, to have children, to manage their homes and to give the enemy no opportunity for slander.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Some have in fact already turned away to follow Satan.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If any woman who is a believer has widows in her family, she should help them and not let the church be burdened with them, so that the church can help those widows who are really in need.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For the Scripture says, "Do not muzzle the ox while it is treading out the grain," and "The worker deserves his wages."", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Do not entertain an accusation against an elder unless it is brought by two or three witnesses.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Those who sin are to be rebuked publicly, so that the others may take warning.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I charge you, in the sight of God and Christ Jesus and the elect angels, to keep these instructions without partiality, and to do nothing out of favoritism.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not be hasty in the laying on of hands, and do not share in the sins of others. Keep yourself pure.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Stop drinking only water, and use a little wine because of your stomach and your frequent illnesses.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The sins of some men are obvious, reaching the place of judgment ahead of them; the sins of others trail behind them.", Ind:""},
+  {Bible:"Timothy1", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In the same way, good deeds are obvious, and even those that are not cannot be hidden.", Ind:""},
+]);

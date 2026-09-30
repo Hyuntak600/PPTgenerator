@@ -1,6 +1,23 @@
 // 에스겔 31장 · Ezekiel 31
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",31,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",31,18);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:31, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the eleventh year, in the third month on the first day, the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, say to Pharaoh king of Egypt and to his hordes: "'Who can be compared with you in majesty?", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Consider Assyria, once a cedar in Lebanon, with beautiful branches overshadowing the forest; it towered on high, its top above the thick foliage.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The waters nourished it, deep springs made it grow tall; their streams flowed all around its base and sent their channels to all the trees of the field.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So it towered higher than all the trees of the field; its boughs increased and its branches grew long, spreading because of abundant waters.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:6, Page:1, Kor:"", Chn:"", Eng:"All the birds of the air nested in its boughs, all the beasts of the field gave birth under its branches; all the great nations lived in its shade.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:7, Page:1, Kor:"", Chn:"", Eng:"It was majestic in beauty, with its spreading boughs, for its roots went down to abundant waters.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The cedars in the garden of God could not rival it, nor could the pine trees equal its boughs, nor could the plane trees compare with its branches--no tree in the garden of God could match its beauty.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I made it beautiful with abundant branches, the envy of all the trees of Eden in the garden of God.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:10, Page:1, Kor:"", Chn:"", Eng:""'Therefore this is what the Sovereign LORD says: Because it towered on high, lifting its top above the thick foliage, and because it was proud of its height,", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I handed it over to the ruler of the nations, for him to deal with according to its wickedness. I cast it aside,", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:12, Page:1, Kor:"", Chn:"", Eng:"and the most ruthless of foreign nations cut it down and left it. Its boughs fell on the mountains and in all the valleys; its branches lay broken in all the ravines of the land. All the nations of the earth came out from under its shade and left it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:13, Page:1, Kor:"", Chn:"", Eng:"All the birds of the air settled on the fallen tree, and all the beasts of the field were among its branches.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Therefore no other trees by the waters are ever to tower proudly on high, lifting their tops above the thick foliage. No other trees so well-watered are ever to reach such a height; they are all destined for death, for the earth below, among mortal men, with those who go down to the pit.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:15, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: On the day it was brought down to the grave I covered the deep springs with mourning for it; I held back its streams, and its abundant waters were restrained. Because of it I clothed Lebanon with gloom, and all the trees of the field withered away.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I made the nations tremble at the sound of its fall when I brought it down to the grave with those who go down to the pit. Then all the trees of Eden, the choicest and best of Lebanon, all the trees that were well-watered, were consoled in the earth below.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Those who lived in its shade, its allies among the nations, had also gone down to the grave with it, joining those killed by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:31, Verse:18, Page:1, Kor:"", Chn:"", Eng:""'Which of the trees of Eden can be compared with you in splendor and majesty? Yet you, too, will be brought down with the trees of Eden to the earth below; you will lie among the uncircumcised, with those killed by the sword. "'This is Pharaoh and all his hordes, declares the Sovereign LORD.'"", Ind:""},
 ]);

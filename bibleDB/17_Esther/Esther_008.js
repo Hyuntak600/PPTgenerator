@@ -1,6 +1,22 @@
 // 에스더 8장 · Esther 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Esther",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Esther",8,17);
 BibleDB.add([
+  {Bible:"Esther", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai came into the presence of the king, for Esther had told how he was related to her.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The king took off his signet ring, which he had reclaimed from Haman, and presented it to Mordecai. And Esther appointed him over Haman's estate.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Esther again pleaded with the king, falling at his feet and weeping. She begged him to put an end to the evil plan of Haman the Agagite, which he had devised against the Jews.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then the king extended the gold scepter to Esther and she arose and stood before him.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:""If it pleases the king," she said, "and if he regards me with favor and thinks it the right thing to do, and if he is pleased with me, let an order be written overruling the dispatches that Haman son of Hammedatha, the Agagite, devised and wrote to destroy the Jews in all the king's provinces.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For how can I bear to see disaster fall on my people? How can I bear to see the destruction of my family?"", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"King Xerxes replied to Queen Esther and to Mordecai the Jew, "Because Haman attacked the Jews, I have given his estate to Esther, and they have hanged him on the gallows.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Now write another decree in the king's name in behalf of the Jews as seems best to you, and seal it with the king's signet ring--for no document written in the king's name and sealed with his ring can be revoked."", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"At once the royal secretaries were summoned--on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai's orders to the Jews, and to the satraps, governors and nobles of the 127 provinces stretching from India to Cush. These orders were written in the script of each province and the language of each people and also to the Jews in their own script and language.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Mordecai wrote in the name of King Xerxes, sealed the dispatches with the king's signet ring, and sent them by mounted couriers, who rode fast horses especially bred for the king.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The king's edict granted the Jews in every city the right to assemble and protect themselves; to destroy, kill and annihilate any armed force of any nationality or province that might attack them and their women and children; and to plunder the property of their enemies.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The day appointed for the Jews to do this in all the provinces of King Xerxes was the thirteenth day of the twelfth month, the month of Adar.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"A copy of the text of the edict was to be issued as law in every province and made known to the people of every nationality so that the Jews would be ready on that day to avenge themselves on their enemies.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The couriers, riding the royal horses, raced out, spurred on by the king's command. And the edict was also issued in the citadel of Susa.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Mordecai left the king's presence wearing royal garments of blue and white, a large crown of gold and a purple robe of fine linen. And the city of Susa held a joyous celebration.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For the Jews it was a time of happiness and joy, gladness and honor.", Ind:""},
+  {Bible:"Esther", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"In every province and in every city, wherever the edict of the king went, there was joy and gladness among the Jews, with feasting and celebrating. And many people of other nationalities became Jews because fear of the Jews had seized them.", Ind:""},
 ]);

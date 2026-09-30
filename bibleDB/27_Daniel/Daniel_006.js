@@ -1,6 +1,33 @@
 // 다니엘 6장 · Daniel 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Daniel",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Daniel",6,28);
 BibleDB.add([
+  {Bible:"Daniel", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"It pleased Darius to appoint 120 satraps to rule throughout the kingdom,", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Now Daniel so distinguished himself among the administrators and the satraps by his exceptional qualities that the king planned to set him over the whole kingdom.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"At this, the administrators and the satraps tried to find grounds for charges against Daniel in his conduct of government affairs, but they were unable to do so. They could find no corruption in him, because he was trustworthy and neither corrupt nor negligent.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Finally these men said, "We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So the administrators and the satraps went as a group to the king and said: "O King Darius, live forever!", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The royal administrators, prefects, satraps, advisers and governors have all agreed that the king should issue an edict and enforce the decree that anyone who prays to any god or man during the next thirty days, except to you, O king, shall be thrown into the lions' den.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Now, O king, issue the decree and put it in writing so that it cannot be altered--in accordance with the laws of the Medes and Persians, which cannot be repealed."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So King Darius put the decree in writing.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then these men went as a group and found Daniel praying and asking God for help.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"So they went to the king and spoke to him about his royal decree: "Did you not publish a decree that during the next thirty days anyone who prays to any god or man except to you, O king, would be thrown into the lions' den?" The king answered, "The decree stands--in accordance with the laws of the Medes and Persians, which cannot be repealed."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then they said to the king, "Daniel, who is one of the exiles from Judah, pays no attention to you, O king, or to the decree you put in writing. He still prays three times a day."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then the men went as a group to the king and said to him, "Remember, O king, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So the king gave the order, and they brought Daniel and threw him into the lions' den. The king said to Daniel, "May your God, whom you serve continually, rescue you!"", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel's situation might not be changed.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"At the first light of dawn, the king got up and hurried to the lions' den.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When he came near the den, he called to Daniel in an anguished voice, "Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?"", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Daniel answered, "O king, live forever!", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, O king."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"At the king's command, the men who had falsely accused Daniel were brought in and thrown into the lions' den, along with their wives and children. And before they reached the floor of the den, the lions overpowered them and crushed all their bones.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then King Darius wrote to all the peoples, nations and men of every language throughout the land: "May you prosper greatly!", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:""I issue a decree that in every part of my kingdom people must fear and reverence the God of Daniel. "For he is the living God and he endures forever; his kingdom will not be destroyed, his dominion will never end.", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He rescues and he saves; he performs signs and wonders in the heavens and on the earth. He has rescued Daniel from the power of the lions."", Ind:""},
+  {Bible:"Daniel", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.", Ind:""},
 ]);

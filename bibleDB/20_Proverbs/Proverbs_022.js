@@ -1,6 +1,34 @@
 // 잠언 22장 · Proverbs 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",22,29);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A good name is more desirable than great riches; to be esteemed is better than silver or gold.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Rich and poor have this in common: The LORD is the Maker of them all.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A prudent man sees danger and takes refuge, but the simple keep going and suffer for it.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Humility and the fear of the LORD bring wealth and honor and life.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"In the paths of the wicked lie thorns and snares, but he who guards his soul stays far from them.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Train a child in the way he should go, and when he is old he will not turn from it.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The rich rule over the poor, and the borrower is servant to the lender.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"A generous man will himself be blessed, for he shares his food with the poor.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Drive out the mocker, and out goes strife; quarrels and insults are ended.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He who loves a pure heart and whose speech is gracious will have the king for his friend.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The eyes of the LORD keep watch over knowledge, but he frustrates the words of the unfaithful.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sluggard says, "There is a lion outside!" or, "I will be murdered in the streets!"", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The mouth of an adulteress is a deep pit; he who is under the LORD'S wrath will fall into it.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Folly is bound up in the heart of a child, but the rod of discipline will drive it far from him.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He who oppresses the poor to increase his wealth and he who gives gifts to the rich--both come to poverty.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Pay attention and listen to the sayings of the wise; apply your heart to what I teach,", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"for it is pleasing when you keep them in your heart and have all of them ready on your lips.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"So that your trust may be in the LORD, I teach you today, even you.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Have I not written thirty sayings for you, sayings of counsel and knowledge,", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"teaching you true and reliable words, so that you can give sound answers to him who sent you?", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not exploit the poor because they are poor and do not crush the needy in court,", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"for the LORD will take up their case and will plunder those who plunder them.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Do not make friends with a hot-tempered man, do not associate with one easily angered,", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"or you may learn his ways and get yourself ensnared.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Do not be a man who strikes hands in pledge or puts up security for debts;", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"if you lack the means to pay, your very bed will be snatched from under you.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do not move an ancient boundary stone set up by your forefathers.", Ind:""},
+  {Bible:"Proverbs", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.", Ind:""},
 ]);

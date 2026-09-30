@@ -1,6 +1,34 @@
 // 신명기 29장 · Deuteronomy 29
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",29,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",29,29);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:29, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are the terms of the covenant the LORD commanded Moses to make with the Israelites in Moab, in addition to the covenant he had made with them at Horeb.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Moses summoned all the Israelites and said to them: Your eyes have seen all that the LORD did in Egypt to Pharaoh, to all his officials and to all his land.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:3, Page:1, Kor:"", Chn:"", Eng:"With your own eyes you saw those great trials, those miraculous signs and great wonders.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But to this day the LORD has not given you a mind that understands or eyes that see or ears that hear.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:5, Page:1, Kor:"", Chn:"", Eng:"During the forty years that I led you through the desert, your clothes did not wear out, nor did the sandals on your feet.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You ate no bread and drank no wine or other fermented drink. I did this so that you might know that I am the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When you reached this place, Sihon king of Heshbon and Og king of Bashan came out to fight against us, but we defeated them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:8, Page:1, Kor:"", Chn:"", Eng:"We took their land and gave it as an inheritance to the Reubenites, the Gadites and the half-tribe of Manasseh.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Carefully follow the terms of this covenant, so that you may prosper in everything you do.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:10, Page:1, Kor:"", Chn:"", Eng:"All of you are standing today in the presence of the LORD your God--your leaders and chief men, your elders and officials, and all the other men of Israel,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:11, Page:1, Kor:"", Chn:"", Eng:"together with your children and your wives, and the aliens living in your camps who chop your wood and carry your water.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You are standing here in order to enter into a covenant with the LORD your God, a covenant the LORD is making with you this day and sealing with an oath,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:13, Page:1, Kor:"", Chn:"", Eng:"to confirm you this day as his people, that he may be your God as he promised you and as he swore to your fathers, Abraham, Isaac and Jacob.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I am making this covenant, with its oath, not only with you", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:15, Page:1, Kor:"", Chn:"", Eng:"who are standing here with us today in the presence of the LORD our God but also with those who are not here today.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:16, Page:1, Kor:"", Chn:"", Eng:"You yourselves know how we lived in Egypt and how we passed through the countries on the way here.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You saw among them their detestable images and idols of wood and stone, of silver and gold.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations; make sure there is no root among you that produces such bitter poison.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When such a person hears the words of this oath, he invokes a blessing on himself and therefore thinks, "I will be safe, even though I persist in going my own way." This will bring disaster on the watered land as well as the dry.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The LORD will never be willing to forgive him; his wrath and zeal will burn against that man. All the curses written in this book will fall upon him, and the LORD will blot out his name from under heaven.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The LORD will single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Your children who follow you in later generations and foreigners who come from distant lands will see the calamities that have fallen on the land and the diseases with which the LORD has afflicted it.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The whole land will be a burning waste of salt and sulfur--nothing planted, nothing sprouting, no vegetation growing on it. It will be like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in fierce anger.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:24, Page:1, Kor:"", Chn:"", Eng:"All the nations will ask: "Why has the LORD done this to this land? Why this fierce, burning anger?"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And the answer will be: "It is because this people abandoned the covenant of the LORD, the God of their fathers, the covenant he made with them when he brought them out of Egypt.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They went off and worshiped other gods and bowed down to them, gods they did not know, gods he had not given them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Therefore the LORD'S anger burned against this land, so that he brought on it all the curses written in this book.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:28, Page:1, Kor:"", Chn:"", Eng:"In furious anger and in great wrath the LORD uprooted them from their land and thrust them into another land, as it is now."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:29, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, that we may follow all the words of this law.", Ind:""},
 ]);

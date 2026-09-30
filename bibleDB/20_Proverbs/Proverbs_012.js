@@ -1,6 +1,33 @@
 // 잠언 12장 · Proverbs 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",12,28);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Whoever loves discipline loves knowledge, but he who hates correction is stupid.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"A good man obtains favor from the LORD, but the LORD condemns a crafty man.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A man cannot be established through wickedness, but the righteous cannot be uprooted.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"A wife of noble character is her husband's crown, but a disgraceful wife is like decay in his bones.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The plans of the righteous are just, but the advice of the wicked is deceitful.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The words of the wicked lie in wait for blood, but the speech of the upright rescues them.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Wicked men are overthrown and are no more, but the house of the righteous stands firm.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"A man is praised according to his wisdom, but men with warped minds are despised.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Better to be a nobody and yet have a servant than pretend to be somebody and have no food.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A righteous man cares for the needs of his animal, but the kindest acts of the wicked are cruel.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He who works his land will have abundant food, but he who chases fantasies lacks judgment.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The wicked desire the plunder of evil men, but the root of the righteous flourishes.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"An evil man is trapped by his sinful talk, but a righteous man escapes trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"From the fruit of his lips a man is filled with good things as surely as the work of his hands rewards him.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The way of a fool seems right to him, but a wise man listens to advice.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"A fool shows his annoyance at once, but a prudent man overlooks an insult.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A truthful witness gives honest testimony, but a false witness tells lies.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Reckless words pierce like a sword, but the tongue of the wise brings healing.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Truthful lips endure forever, but a lying tongue lasts only a moment.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"There is deceit in the hearts of those who plot evil, but joy for those who promote peace.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"No harm befalls the righteous, but the wicked have their fill of trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The LORD detests lying lips, but he delights in men who are truthful.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A prudent man keeps his knowledge to himself, but the heart of fools blurts out folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Diligent hands will rule, but laziness ends in slave labor.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"An anxious heart weighs a man down, but a kind word cheers him up.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:26, Page:1, Kor:"", Chn:"", Eng:"A righteous man is cautious in friendship, but the way of the wicked leads them astray.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The lazy man does not roast his game, but the diligent man prizes his possessions.", Ind:""},
+  {Bible:"Proverbs", Chapter:12, Verse:28, Page:1, Kor:"", Chn:"", Eng:"In the way of righteousness there is life; along that path is immortality.", Ind:""},
 ]);

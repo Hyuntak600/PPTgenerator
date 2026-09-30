@@ -1,6 +1,34 @@
 // 이사야 28장 · Isaiah 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",28,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",28,29);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Woe to that wreath, the pride of Ephraim's drunkards, to the fading flower, his glorious beauty, set on the head of a fertile valley--to that city, the pride of those laid low by wine!", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:"See, the Lord has one who is powerful and strong. Like a hailstorm and a destructive wind, like a driving rain and a flooding downpour, he will throw it forcefully to the ground.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"That wreath, the pride of Ephraim's drunkards, will be trampled underfoot.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"That fading flower, his glorious beauty, set on the head of a fertile valley, will be like a fig ripe before harvest--as soon as someone sees it and takes it in his hand, he swallows it.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"In that day the LORD Almighty will be a glorious crown, a beautiful wreath for the remnant of his people.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He will be a spirit of justice to him who sits in judgment, a source of strength to those who turn back the battle at the gate.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And these also stagger from wine and reel from beer: Priests and prophets stagger from beer and are befuddled with wine; they reel from beer, they stagger when seeing visions, they stumble when rendering decisions.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All the tables are covered with vomit and there is not a spot without filth.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Who is it he is trying to teach? To whom is he explaining his message? To children weaned from their milk, to those just taken from the breast?", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For it is: Do and do, do and do, rule on rule, rule on rule; a little here, a little there."", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Very well then, with foreign lips and strange tongues God will speak to this people,", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:12, Page:1, Kor:"", Chn:"", Eng:"to whom he said, "This is the resting place, let the weary rest"; and, "This is the place of repose"--but they would not listen.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So then, the word of the LORD to them will become: Do and do, do and do, rule on rule, rule on rule; a little here, a little there--so that they will go and fall backward, be injured and snared and captured.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Therefore hear the word of the LORD, you scoffers who rule this people in Jerusalem.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You boast, "We have entered into a covenant with death, with the grave we have made an agreement. When an overwhelming scourge sweeps by, it cannot touch us, for we have made a lie our refuge and falsehood our hiding place."", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So this is what the Sovereign LORD says: "See, I lay a stone in Zion, a tested stone, a precious cornerstone for a sure foundation; the one who trusts will never be dismayed.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I will make justice the measuring line and righteousness the plumb line; hail will sweep away your refuge, the lie, and water will overflow your hiding place.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Your covenant with death will be annulled; your agreement with the grave will not stand. When the overwhelming scourge sweeps by, you will be beaten down by it.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As often as it comes it will carry you away; morning after morning, by day and by night, it will sweep through." The understanding of this message will bring sheer terror.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The bed is too short to stretch out on, the blanket too narrow to wrap around you.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The LORD will rise up as he did at Mount Perazim, he will rouse himself as in the Valley of Gibeon--to do his work, his strange work, and perform his task, his alien task.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Now stop your mocking, or your chains will become heavier; the Lord, the LORD Almighty, has told me of the destruction decreed against the whole land.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Listen and hear my voice; pay attention and hear what I say.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When a farmer plows for planting, does he plow continually? Does he keep on breaking up and harrowing the soil?", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When he has leveled the surface, does he not sow caraway and scatter cummin? Does he not plant wheat in its place, barley in its plot, and spelt in its field?", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"His God instructs him and teaches him the right way.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Caraway is not threshed with a sledge, nor is a cartwheel rolled over cummin; caraway is beaten out with a rod, and cummin with a stick.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Grain must be ground to make bread; so one does not go on threshing it forever. Though he drives the wheels of his threshing cart over it, his horses do not grind it.", Ind:""},
+  {Bible:"Isaiah", Chapter:28, Verse:29, Page:1, Kor:"", Chn:"", Eng:"All this also comes from the LORD Almighty, wonderful in counsel and magnificent in wisdom.", Ind:""},
 ]);

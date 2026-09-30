@@ -1,6 +1,33 @@
 // 잠언 25장 · Proverbs 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",25,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",25,28);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are more proverbs of Solomon, copied by the men of Hezekiah king of Judah:", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:2, Page:1, Kor:"", Chn:"", Eng:"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:3, Page:1, Kor:"", Chn:"", Eng:"As the heavens are high and the earth is deep, so the hearts of kings are unsearchable.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Remove the dross from the silver, and out comes material for the silversmith;", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"remove the wicked from the king's presence, and his throne will be established through righteousness.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not exalt yourself in the king's presence, and do not claim a place among great men;", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"it is better for him to say to you, "Come up here," than for him to humiliate you before a nobleman. What you have seen with your eyes", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:"do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If you argue your case with a neighbor, do not betray another man's confidence,", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:"or he who hears it may shame you and you will never lose your bad reputation.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:11, Page:1, Kor:"", Chn:"", Eng:"A word aptly spoken is like apples of gold in settings of silver.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Like an earring of gold or an ornament of fine gold is a wise man's rebuke to a listening ear.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Like the coolness of snow at harvest time is a trustworthy messenger to those who send him; he refreshes the spirit of his masters.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Like clouds and wind without rain is a man who boasts of gifts he does not give.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Through patience a ruler can be persuaded, and a gentle tongue can break a bone.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If you find honey, eat just enough--too much of it, and you will vomit.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Seldom set foot in your neighbor's house--too much of you, and he will hate you.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Like a club or a sword or a sharp arrow is the man who gives false testimony against his neighbor.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Like a bad tooth or a lame foot is reliance on the unfaithful in times of trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Like one who takes away a garment on a cold day, or like vinegar poured on soda, is one who sings songs to a heavy heart.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:21, Page:1, Kor:"", Chn:"", Eng:"If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"In doing this, you will heap burning coals on his head, and the LORD will reward you.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:"As a north wind brings rain, so a sly tongue brings angry looks.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Better to live on a corner of the roof than share a house with a quarrelsome wife.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Like cold water to a weary soul is good news from a distant land.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Like a muddied spring or a polluted well is a righteous man who gives way to the wicked.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:27, Page:1, Kor:"", Chn:"", Eng:"It is not good to eat too much honey, nor is it honorable to seek one's own honor.", Ind:""},
+  {Bible:"Proverbs", Chapter:25, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Like a city whose walls are broken down is a man who lacks self-control.", Ind:""},
 ]);

@@ -1,9 +1,36 @@
 // 창세기 1장 · Genesis 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
 BibleDB.ref("Genesis",1,31);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
 BibleDB.add([
-{Bible:"Genesis",Chapter:1,Verse:1,Page:1,Kor:"태초에 하나님이 천지를 창조하시니라",Chn:"起初，神创造天地。",Eng:"In the beginning God created the heaven and the earth.",Ind:"Bahwa pada mula pertama dijadikan Allah akan langit dan bumi."},
-{Bible:"Genesis",Chapter:1,Verse:2,Page:1,Kor:"땅이 혼돈하고 공허하며 흑암이 깊음 위에 있고",Chn:"地是空虚混沌，渊面黑暗；",Eng:"And the earth was without form, and void; and darkness was upon the face of the deep.",Ind:"Maka bumi itu lagi campur baur adanya, yaitu suatu hal yang ketutupan kelam kabut;"},
-{Bible:"Genesis",Chapter:1,Verse:2,Page:2,Kor:"하나님의 영은 수면 위에 운행하시니라",Chn:"神的灵运行在水面上。",Eng:"And the Spirit of God moved upon the face of the waters.",Ind:"maka Roh Allah berlayang-layang di atas muka air itu."},
+  {Bible:"Genesis", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the beginning God created the heavens and the earth.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now the earth was formless and empty, darkness was over the surface of the deep, and the  Spirit of God was hovering over the waters.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let there be light," and there was light.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"God saw that the light was good, and he separated the light from the darkness.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"God called the light "day," and the darkness he called "night." And there was evening, and  there was morning--the first day.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let there be an expanse between the waters to separate water from water."", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So God made the expanse and separated the water under the expanse from the water above it.  And it was so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"God called the expanse "sky." And there was evening, and there was morning--the second day.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let the water under the sky be gathered to one place, and let dry ground  appear." And it was so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"God called the dry ground "land," and the gathered waters he called "seas." And God saw that  it was good.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then God said, "Let the land produce vegetation: seed-bearing plants and trees on the land  that bear fruit with seed in it, according to their various kinds." And it was so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The land produced vegetation: plants bearing seed according to their kinds and trees bearing  fruit with seed in it according to their kinds. And God saw that it was good.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And there was evening, and there was morning--the third day.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let there be lights in the expanse of the sky to separate the day from the  night, and let them serve as signs to mark seasons and days and years,", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"and let them be lights in the expanse of the sky to give light on the earth." And it was so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"God made two great lights--the greater light to govern the day and the lesser light to  govern the night. He also made the stars.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"God set them in the expanse of the sky to give light on the earth,", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"to govern the day and the night, and to separate light from darkness. And God saw that it  was good.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"And there was evening, and there was morning--the fourth day.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let the water teem with living creatures, and let birds fly above the earth  across the expanse of the sky."", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So God created the great creatures of the sea and every living and moving thing with which  the water teems, according to their kinds, and every winged bird according to its kind. And God  saw that it was good.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"God blessed them and said, "Be fruitful and increase in number and fill the water in the  seas, and let the birds increase on the earth."", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And there was evening, and there was morning--the fifth day.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And God said, "Let the land produce living creatures according to their kinds: livestock,  creatures that move along the ground, and wild animals, each according to its kind." And it was  so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"God made the wild animals according to their kinds, the livestock according to their kinds,  and all the creatures that move along the ground according to their kinds. And God saw that it  was good.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Then God said, "Let us make man in our image, in our likeness, and let them rule over the  fish of the sea and the birds of the air, over the livestock, over all the earth, and over all  the creatures that move along the ground."", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"So God created man in his own image, in the image of God he created him; male and female he  created them.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"God blessed them and said to them, "Be fruitful and increase in number; fill the earth and  subdue it. Rule over the fish of the sea and the birds of the air and over every living creature  that moves on the ground."", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Then God said, "I give you every seed-bearing plant on the face of the whole earth and every  tree that has fruit with seed in it. They will be yours for food.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And to all the beasts of the earth and all the birds of the air and all the creatures that  move on the ground--everything that has the breath of life in it--I give every green plant for  food." And it was so.", Ind:""},
+  {Bible:"Genesis", Chapter:1, Verse:31, Page:1, Kor:"", Chn:"", Eng:"God saw all that he had made, and it was very good. And there was evening, and there was  morning--the sixth day.", Ind:""},
 ]);

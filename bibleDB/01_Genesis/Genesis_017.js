@@ -1,6 +1,32 @@
 // 창세기 17장 · Genesis 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",17,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",17,27);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Abram was ninety-nine years old, the LORD appeared to him and said, "I am God Almighty;  walk before me and be blameless.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I will confirm my covenant between me and you and will greatly increase your numbers."", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Abram fell facedown, and God said to him,", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:""As for me, this is my covenant with you: You will be the father of many nations.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"No longer will you be called Abram; your name will be Abraham, for I have made you a father  of many nations.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will make you very fruitful; I will make nations of you, and kings will come from you.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I will establish my covenant as an everlasting covenant between me and you and your  descendants after you for the generations to come, to be your God and the God of your descendants  after you.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The whole land of Canaan, where you are now an alien, I will give as an everlasting  possession to you and your descendants after you; and I will be their God."", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then God said to Abraham, "As for you, you must keep my covenant, you and your descendants  after you for the generations to come.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is my covenant with you and your descendants after you, the covenant you are to keep:  Every male among you shall be circumcised.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You are to undergo circumcision, and it will be the sign of the covenant between me and  you.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For the generations to come every male among you who is eight days old must be circumcised,  including those born in your household or bought with money from a foreigner--those who are not  your offspring.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Whether born in your household or bought with your money, they must be circumcised. My  covenant in your flesh is to be an everlasting covenant.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Any uncircumcised male, who has not been circumcised in the flesh, will be cut off from his  people; he has broken my covenant."", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"God also said to Abraham, "As for Sarai your wife, you are no longer to call her Sarai; her  name will be Sarah.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I will bless her and will surely give you a son by her. I will bless her so that she will  be the mother of nations; kings of peoples will come from her."", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Abraham fell facedown; he laughed and said to himself, "Will a son be born to a man a  hundred years old? Will Sarah bear a child at the age of ninety?"", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And Abraham said to God, "If only Ishmael might live under your blessing!"", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then God said, "Yes, but your wife Sarah will bear you a son, and you will call him Isaac.  I will establish my covenant with him as an everlasting covenant for his descendants after him.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And as for Ishmael, I have heard you: I will surely bless him; I will make him fruitful and  will greatly increase his numbers. He will be the father of twelve rulers, and I will make him  into a great nation.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But my covenant I will establish with Isaac, whom Sarah will bear to you by this time next  year."", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When he had finished speaking with Abraham, God went up from him.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:23, Page:1, Kor:"", Chn:"", Eng:"On that very day Abraham took his son Ishmael and all those born in his household or bought  with his money, every male in his household, and circumcised them, as God told him.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Abraham was ninety-nine years old when he was circumcised,", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:25, Page:1, Kor:"", Chn:"", Eng:"and his son Ishmael was thirteen;", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Abraham and his son Ishmael were both circumcised on that same day.", Ind:""},
+  {Bible:"Genesis", Chapter:17, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And every male in Abraham's household, including those born in his household or bought from  a foreigner, was circumcised with him.", Ind:""},
 ]);

@@ -1,6 +1,37 @@
 // 잠언 10장 · Proverbs 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",10,32);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Ill-gotten treasures are of no value, but righteousness delivers from death.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The LORD does not let the righteous go hungry but he thwarts the craving of the wicked.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Lazy hands make a man poor, but diligent hands bring wealth.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He who gathers crops in summer is a wise son, but he who sleeps during harvest is a disgraceful son.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The memory of the righteous will be a blessing, but the name of the wicked will rot.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The wise in heart accept commands, but a chattering fool comes to ruin.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The man of integrity walks securely, but he who takes crooked paths will be found out.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He who winks maliciously causes grief, and a chattering fool comes to ruin.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The mouth of the righteous is a fountain of life, but violence overwhelms the mouth of the wicked.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Hatred stirs up dissension, but love covers over all wrongs.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Wise men store up knowledge, but the mouth of a fool invites ruin.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The wealth of the rich is their fortified city, but poverty is the ruin of the poor.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The wages of the righteous bring them life, but the income of the wicked brings them punishment.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He who heeds discipline shows the way to life, but whoever ignores correction leads others astray.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He who conceals his hatred has lying lips, and whoever spreads slander is a fool.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When words are many, sin is not absent, but he who holds his tongue is wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The tongue of the righteous is choice silver, but the heart of the wicked is of little value.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The lips of the righteous nourish many, but fools die for lack of judgment.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The blessing of the LORD brings wealth, and he adds no trouble to it.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:24, Page:1, Kor:"", Chn:"", Eng:"What the wicked dreads will overtake him; what the righteous desire will be granted.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When the storm has swept by, the wicked are gone, but the righteous stand firm forever.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"As vinegar to the teeth and smoke to the eyes, so is a sluggard to those who send him.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The fear of the LORD adds length to life, but the years of the wicked are cut short.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The prospect of the righteous is joy, but the hopes of the wicked come to nothing.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The way of the LORD is a refuge for the righteous, but it is the ruin of those who do evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The righteous will never be uprooted, but the wicked will not remain in the land.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The mouth of the righteous brings forth wisdom, but a perverse tongue will be cut out.", Ind:""},
+  {Bible:"Proverbs", Chapter:10, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The lips of the righteous know what is fitting, but the mouth of the wicked only what is perverse. PRO", Ind:""},
 ]);

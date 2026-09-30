@@ -1,6 +1,34 @@
 // 창세기 35장 · Genesis 35
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",35,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",35,29);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:35, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then God said to Jacob, "Go up to Bethel and settle there, and build an altar there to God,  who appeared to you when you were fleeing from your brother Esau."", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So Jacob said to his household and to all who were with him, "Get rid of the foreign gods  you have with you, and purify yourselves and change your clothes.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then come, let us go up to Bethel, where I will build an altar to God, who answered me in  the day of my distress and who has been with me wherever I have gone."", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So they gave Jacob all the foreign gods they had and the rings in their ears, and Jacob  buried them under the oak at Shechem.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then they set out, and the terror of God fell upon the towns all around them so that no one  pursued them.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Jacob and all the people with him came to Luz (that is, Bethel) in the land of Canaan.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:7, Page:1, Kor:"", Chn:"", Eng:"There he built an altar, and he called the place El Bethel, because it was there that God  revealed himself to him when he was fleeing from his brother.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Now Deborah, Rebekah's nurse, died and was buried under the oak below Bethel. So it was  named Allon Bacuth.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:9, Page:1, Kor:"", Chn:"", Eng:"After Jacob returned from Paddan Aram, God appeared to him again and blessed him.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:"God said to him, "Your name is Jacob, but you will no longer be called Jacob; your name  will be Israel." So he named him Israel.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And God said to him, "I am God Almighty; be fruitful and increase in number. A nation and a  community of nations will come from you, and kings will come from your body.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The land I gave to Abraham and Isaac I also give to you, and I will give this land to your  descendants after you."", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then God went up from him at the place where he had talked with him.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Jacob set up a stone pillar at the place where God had talked with him, and he poured out a  drink offering on it; he also poured oil on it.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Jacob called the place where God had talked with him Bethel.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then they moved on from Bethel. While they were still some distance from Ephrath, Rachel  began to give birth and had great difficulty.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And as she was having great difficulty in childbirth, the midwife said to her, "Don't be  afraid, for you have another son."", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:18, Page:1, Kor:"", Chn:"", Eng:"As she breathed her last--for she was dying--she named her son Ben-Oni. But his father  named him Benjamin.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:19, Page:1, Kor:"", Chn:"", Eng:"So Rachel died and was buried on the way to Ephrath (that is, Bethlehem).", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Over her tomb Jacob set up a pillar, and to this day that pillar marks Rachel's tomb.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Israel moved on again and pitched his tent beyond Migdal Eder.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:22, Page:1, Kor:"", Chn:"", Eng:"While Israel was living in that region, Reuben went in and slept with his father's  concubine Bilhah, and Israel heard of it. Jacob had twelve sons:", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The sons of Leah: Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issachar and Zebulun.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The sons of Rachel: Joseph and Benjamin.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The sons of Rachel's maidservant Bilhah: Dan and Naphtali.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The sons of Leah's maidservant Zilpah: Gad and Asher. These were the sons of Jacob, who  were born to him in Paddan Aram.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Jacob came home to his father Isaac in Mamre, near Kiriath Arba (that is, Hebron), where  Abraham and Isaac had stayed.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Isaac lived a hundred and eighty years.", Ind:""},
+  {Bible:"Genesis", Chapter:35, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Then he breathed his last and died and was gathered to his people, old and full of years.  And his sons Esau and Jacob buried him.", Ind:""},
 ]);

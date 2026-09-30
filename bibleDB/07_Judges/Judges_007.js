@@ -1,6 +1,30 @@
 // 사사기 7장 · Judges 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",7,25);
 BibleDB.add([
+  {Bible:"Judges", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Gideon, "You have too many men for me to deliver Midian into their hands. In order that Israel may not boast against me that her own strength has saved her,", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"announce now to the people, 'Anyone who trembles with fear may turn back and leave Mount Gilead.'" So twenty-two thousand men left, while ten thousand remained.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But the LORD said to Gideon, "There are still too many men. Take them down to the water, and I will sift them for you there. If I say, 'This one shall go with you,' he shall go; but if I say, 'This one shall not go with you,' he shall not go."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So Gideon took the men down to the water. There the LORD told him, "Separate those who lap the water with their tongues like a dog from those who kneel down to drink."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Three hundred men lapped with their hands to their mouths. All the rest got down on their knees to drink.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Gideon, "With the three hundred men that lapped I will save you and give the Midianites into your hands. Let all the other men go, each to his own place."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So Gideon sent the rest of the Israelites to their tents but kept the three hundred, who took over the provisions and trumpets of the others. Now the camp of Midian lay below him in the valley.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"During that night the LORD said to Gideon, "Get up, go down against the camp, because I am going to give it into your hands.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"If you are afraid to attack, go down to the camp with your servant Purah", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and listen to what they are saying. Afterward, you will be encouraged to attack the camp." So he and Purah his servant went down to the outposts of the camp.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The Midianites, the Amalekites and all the other eastern peoples had settled in the valley, thick as locusts. Their camels could no more be counted than the sand on the seashore.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Gideon arrived just as a man was telling a friend his dream. "I had a dream," he was saying. "A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"His friend responded, "This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has given the Midianites and the whole camp into his hands."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When Gideon heard the dream and its interpretation, he worshiped God. He returned to the camp of Israel and called out, "Get up! The LORD has given the Midianite camp into your hands."", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Dividing the three hundred men into three companies, he placed trumpets and empty jars in the hands of all of them, with torches inside.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Watch me," he told them. "Follow my lead. When I get to the edge of the camp, do exactly as I do.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When I and all who are with me blow our trumpets, then from all around the camp blow yours and shout, 'For the LORD and for Gideon.'"", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Gideon and the hundred men with him reached the edge of the camp at the beginning of the middle watch, just after they had changed the guard. They blew their trumpets and broke the jars that were in their hands.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The three companies blew the trumpets and smashed the jars. Grasping the torches in their left hands and holding in their right hands the trumpets they were to blow, they shouted, "A sword for the LORD and for Gideon!"", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"While each man held his position around the camp, all the Midianites ran, crying out as they fled.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When the three hundred trumpets sounded, the LORD caused the men throughout the camp to turn on each other with their swords. The army fled to Beth Shittah toward Zererah as far as the border of Abel Meholah near Tabbath.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Israelites from Naphtali, Asher and all Manasseh were called out, and they pursued the Midianites.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Gideon sent messengers throughout the hill country of Ephraim, saying, "Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth Barah." So all the men of Ephraim were called out and they took the waters of the Jordan as far as Beth Barah.", Ind:""},
+  {Bible:"Judges", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan.", Ind:""},
 ]);

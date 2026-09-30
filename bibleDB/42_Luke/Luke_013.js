@@ -1,6 +1,40 @@
 // 누가복음 13장 · Luke 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Luke",13,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Luke",13,35);
 BibleDB.add([
+  {Bible:"Luke", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now there were some present at that time who told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "Do you think that these Galileans were worse sinners than all the other Galileans because they suffered this way?", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I tell you, no! But unless you repent, you too will all perish.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Or those eighteen who died when the tower in Siloam fell on them--do you think they were more guilty than all the others living in Jerusalem?", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I tell you, no! But unless you repent, you too will all perish."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then he told this parable: "A man had a fig tree, planted in his vineyard, and he went to look for fruit on it, but did not find any.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So he said to the man who took care of the vineyard, 'For three years now I've been coming to look for fruit on this fig tree and haven't found any. Cut it down! Why should it use up the soil?'", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'Sir,' the man replied, 'leave it alone for one more year, and I'll dig around it and fertilize it.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If it bears fruit next year, fine! If not, then cut it down.'"", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"On a Sabbath Jesus was teaching in one of the synagogues,", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and a woman was there who had been crippled by a spirit for eighteen years. She was bent over and could not straighten up at all.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When Jesus saw her, he called her forward and said to her, "Woman, you are set free from your infirmity."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then he put his hands on her, and immediately she straightened up and praised God.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Indignant because Jesus had healed on the Sabbath, the synagogue ruler said to the people, "There are six days for work. So come and be healed on those days, not on the Sabbath."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The Lord answered him, "You hypocrites! Doesn't each of you on the Sabbath untie his ox or donkey from the stall and lead it out to give it water?", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then should not this woman, a daughter of Abraham, whom Satan has kept bound for eighteen long years, be set free on the Sabbath day from what bound her?"", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"When he said this, all his opponents were humiliated, but the people were delighted with all the wonderful things he was doing.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Jesus asked, "What is the kingdom of God like? What shall I compare it to?", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It is like a mustard seed, which a man took and planted in his garden. It grew and became a tree, and the birds of the air perched in its branches."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Again he asked, "What shall I compare the kingdom of God to?", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"It is like yeast that a woman took and mixed into a large amount of flour until it worked all through the dough."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then Jesus went through the towns and villages, teaching as he made his way to Jerusalem.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Someone asked him, "Lord, are only a few people going to be saved?" He said to them,", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Make every effort to enter through the narrow door, because many, I tell you, will try to enter and will not be able to.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Once the owner of the house gets up and closes the door, you will stand outside knocking and pleading, 'Sir, open the door for us.' "But he will answer, 'I don't know you or where you come from.'", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Then you will say, 'We ate and drank with you, and you taught in our streets.'", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:""But he will reply, 'I don't know you or where you come from. Away from me, all you evildoers!'", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:""There will be weeping there, and gnashing of teeth, when you see Abraham, Isaac and Jacob and all the prophets in the kingdom of God, but you yourselves thrown out.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"People will come from east and west and north and south, and will take their places at the feast in the kingdom of God.", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Indeed there are those who are last who will be first, and first who will be last."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"At that time some Pharisees came to Jesus and said to him, "Leave this place and go somewhere else. Herod wants to kill you."", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He replied, "Go tell that fox, 'I will drive out demons and heal people today and tomorrow, and on the third day I will reach my goal.'", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:"In any case, I must keep going today and tomorrow and the next day--for surely no prophet can die outside Jerusalem!", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:34, Page:1, Kor:"", Chn:"", Eng:""O Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were not willing!", Ind:""},
+  {Bible:"Luke", Chapter:13, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Look, your house is left to you desolate. I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'"", Ind:""},
 ]);

@@ -1,6 +1,34 @@
 // 로마서 2장 · Romans 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",2,29);
 BibleDB.add([
+  {Bible:"Romans", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge the other, you are condemning yourself, because you who pass judgment do the same things.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now we know that God's judgment against those who do such things is based on truth.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So when you, a mere man, pass judgment on them and yet do the same things, do you think you will escape God's judgment?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Or do you show contempt for the riches of his kindness, tolerance and patience, not realizing that God's kindness leads you toward repentance?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God's wrath, when his righteous judgment will be revealed.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"God "will give to each person according to what he has done."", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile;", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"but glory, honor and peace for everyone who does good: first for the Jew, then for the Gentile.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For God does not show favoritism.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"(Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law,", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"since they show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts now accusing, now even defending them.)", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"This will take place on the day when God will judge men's secrets through Jesus Christ, as my gospel declares.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now you, if you call yourself a Jew; if you rely on the law and brag about your relationship to God;", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"if you know his will and approve of what is superior because you are instructed by the law;", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"if you are convinced that you are a guide for the blind, a light for those who are in the dark,", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth--", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You who brag about the law, do you dishonor God by breaking the law?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"As it is written: "God's name is blasphemed among the Gentiles because of you."", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If those who are not circumcised keep the law's requirements, will they not be regarded as though they were circumcised?", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A man is not a Jew if he is only one outwardly, nor is circumcision merely outward and physical.", Ind:""},
+  {Bible:"Romans", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:"No, a man is a Jew if he is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a man's praise is not from men, but from God.", Ind:""},
 ]);

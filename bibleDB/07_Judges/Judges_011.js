@@ -1,6 +1,45 @@
 // 사사기 11장 · Judges 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",11,40);
 BibleDB.add([
+  {Bible:"Judges", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Gilead's wife also bore him sons, and when they were grown up, they drove Jephthah away. "You are not going to get any inheritance in our family," they said, "because you are the son of another woman."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Jephthah fled from his brothers and settled in the land of Tob, where a group of adventurers gathered around him and followed him.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Some time later, when the Ammonites made war on Israel,", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"the elders of Gilead went to get Jephthah from the land of Tob.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Come," they said, "be our commander, so we can fight the Ammonites."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jephthah said to them, "Didn't you hate me and drive me from my father's house? Why do you come to me now, when you're in trouble?"", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The elders of Gilead said to him, "Nevertheless, we are turning to you now; come with us to fight the Ammonites, and you will be our head over all who live in Gilead."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Jephthah answered, "Suppose you take me back to fight the Ammonites and the LORD gives them to me--will I really be your head?"", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The elders of Gilead replied, "The LORD is our witness; we will certainly do as you say."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And he repeated all his words before the LORD in Mizpah.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then Jephthah sent messengers to the Ammonite king with the question: "What do you have against us that you have attacked our country?"", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The king of the Ammonites answered Jephthah's messengers, "When Israel came up out of Egypt, they took away my land from the Arnon to the Jabbok, all the way to the Jordan. Now give it back peaceably."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Jephthah sent back messengers to the Ammonite king,", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"saying: "This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But when they came up out of Egypt, Israel went through the desert to the Red Sea and on to Kadesh.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then Israel sent messengers to the king of Edom, saying, 'Give us permission to go through your country,' but the king of Edom would not listen. They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Next they traveled through the desert, skirted the lands of Edom and Moab, passed along the eastern side of the country of Moab, and camped on the other side of the Arnon. They did not enter the territory of Moab, for the Arnon was its border.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Then Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, 'Let us pass through your country to our own place.'", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Sihon, however, did not trust Israel to pass through his territory. He mustered all his men and encamped at Jahaz and fought with Israel.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Then the LORD, the God of Israel, gave Sihon and all his men into Israel's hands, and they defeated them. Israel took over all the land of the Amorites who lived in that country,", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"capturing all of it from the Arnon to the Jabbok and from the desert to the Jordan.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Now since the LORD, the God of Israel, has driven the Amorites out before his people Israel, what right have you to take it over?", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Will you not take what your god Chemosh gives you? Likewise, whatever the LORD our God has given us, we will possess.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Are you better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel or fight with them?", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For three hundred years Israel occupied Heshbon, Aroer, the surrounding settlements and all the towns along the Arnon. Why didn't you retake them during that time?", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I have not wronged you, but you are doing me wrong by waging war against me. Let the LORD, the Judge, decide the dispute this day between the Israelites and the Ammonites."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The king of Ammon, however, paid no attention to the message Jephthah sent him.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Then the Spirit of the LORD came upon Jephthah. He crossed Gilead and Manasseh, passed through Mizpah of Gilead, and from there he advanced against the Ammonites.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And Jephthah made a vow to the LORD: "If you give the Ammonites into my hands,", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the LORD'S, and I will sacrifice it as a burnt offering."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Then Jephthah went over to fight the Ammonites, and the LORD gave them into his hands.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:33, Page:1, Kor:"", Chn:"", Eng:"He devastated twenty towns from Aroer to the vicinity of Minnith, as far as Abel Keramim. Thus Israel subdued Ammon.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:34, Page:1, Kor:"", Chn:"", Eng:"When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of tambourines! She was an only child. Except for her he had neither son nor daughter.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:35, Page:1, Kor:"", Chn:"", Eng:"When he saw her, he tore his clothes and cried, "Oh! My daughter! You have made me miserable and wretched, because I have made a vow to the LORD that I cannot break."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:36, Page:1, Kor:"", Chn:"", Eng:""My father," she replied, "you have given your word to the LORD. Do to me just as you promised, now that the LORD has avenged you of your enemies, the Ammonites.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:37, Page:1, Kor:"", Chn:"", Eng:"But grant me this one request," she said. "Give me two months to roam the hills and weep with my friends, because I will never marry."", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:38, Page:1, Kor:"", Chn:"", Eng:""You may go," he said. And he let her go for two months. She and the girls went into the hills and wept because she would never marry.", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:39, Page:1, Kor:"", Chn:"", Eng:"After the two months, she returned to her father and he did to her as he had vowed. And she was a virgin. From this comes the Israelite custom", Ind:""},
+  {Bible:"Judges", Chapter:11, Verse:40, Page:1, Kor:"", Chn:"", Eng:"that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.", Ind:""},
 ]);

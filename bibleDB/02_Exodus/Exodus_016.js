@@ -1,6 +1,41 @@
 // 출애굽기 16장 · Exodus 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",16,36);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The whole Israelite community set out from Elim and came to the Desert of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had come out of Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"In the desert the whole community grumbled against Moses and Aaron.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The Israelites said to them, "If only we had died by the LORD'S hand in Egypt! There we sat around pots of meat and ate all the food we wanted, but you have brought us out into this desert to starve this entire assembly to death."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them and see whether they will follow my instructions.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"On the sixth day they are to prepare what they bring in, and that is to be twice as much as they gather on the other days."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So Moses and Aaron said to all the Israelites, "In the evening you will know that it was the LORD who brought you out of Egypt,", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and in the morning you will see the glory of the LORD, because he has heard your grumbling against him. Who are we, that you should grumble against us?"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Moses also said, "You will know that it was the LORD when he gives you meat to eat in the evening and all the bread you want in the morning, because he has heard your grumbling against him. Who are we? You are not grumbling against us, but against the LORD."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then Moses told Aaron, "Say to the entire Israelite community, 'Come before the LORD, for he has heard your grumbling.'"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"While Aaron was speaking to the whole Israelite community, they looked toward the desert, and there was the glory of the LORD appearing in the cloud.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I have heard the grumbling of the Israelites. Tell them, 'At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.'"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When the dew was gone, thin flakes like frost on the ground appeared on the desert floor.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When the Israelites saw it, they said to each other, "What is it?" For they did not know what it was. Moses said to them, "It is the bread the LORD has given you to eat.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD has commanded: 'Each one is to gather as much as he needs. Take an omer for each person you have in your tent.'"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The Israelites did as they were told; some gathered much, some little.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And when they measured it by the omer, he who gathered much did not have too much, and he who gathered little did not have too little. Each one gathered as much as he needed.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then Moses said to them, "No one is to keep any of it until morning."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"However, some of them paid no attention to Moses; they kept part of it until morning, but it was full of maggots and began to smell. So Moses was angry with them.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Each morning everyone gathered as much as he needed, and when the sun grew hot, it melted away.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"On the sixth day, they gathered twice as much--two omers for each person--and the leaders of the community came and reported this to Moses.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He said to them, "This is what the LORD commanded: 'Tomorrow is to be a day of rest, a holy Sabbath to the LORD. So bake what you want to bake and boil what you want to boil. Save whatever is left and keep it until morning.'"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So they saved it until morning, as Moses commanded, and it did not stink or get maggots in it.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Eat it today," Moses said, "because today is a Sabbath to the LORD. You will not find any of it on the ground today.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Six days you are to gather it, but on the seventh day, the Sabbath, there will not be any."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Nevertheless, some of the people went out on the seventh day to gather it, but they found none.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "How long will you refuse to keep my commands and my instructions?", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Bear in mind that the LORD has given you the Sabbath; that is why on the sixth day he gives you bread for two days. Everyone is to stay where he is on the seventh day; no one is to go out."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"So the people rested on the seventh day.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The people of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Moses said, "This is what the LORD has commanded: 'Take an omer of manna and keep it for the generations to come, so they can see the bread I gave you to eat in the desert when I brought you out of Egypt.'"", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:"So Moses said to Aaron, "Take a jar and put an omer of manna in it. Then place it before the LORD to be kept for the generations to come."", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:34, Page:1, Kor:"", Chn:"", Eng:"As the LORD commanded Moses, Aaron put the manna in front of the Testimony, that it might be kept.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:35, Page:1, Kor:"", Chn:"", Eng:"The Israelites ate manna forty years, until they came to a land that was settled; they ate manna until they reached the border of Canaan.", Ind:""},
+  {Bible:"Exodus", Chapter:16, Verse:36, Page:1, Kor:"", Chn:"", Eng:"(An omer is one tenth of an ephah.)", Ind:""},
 ]);

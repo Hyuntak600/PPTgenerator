@@ -1,6 +1,37 @@
 // 에베소서 4장 · Ephesians 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ephesians",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ephesians",4,32);
 BibleDB.add([
+  {Bible:"Ephesians", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Be completely humble and gentle; be patient, bearing with one another in love.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Make every effort to keep the unity of the Spirit through the bond of peace.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"There is one body and one Spirit--just as you were called to one hope when you were called--", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"one Lord, one faith, one baptism;", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"one God and Father of all, who is over all and through all and in all.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But to each one of us grace has been given as Christ apportioned it.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"This is why it says: "When he ascended on high, he led captives in his train and gave gifts to men."", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"(What does "he ascended" mean except that he also descended to the lower, earthly regions?", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.)", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It was he who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers,", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"to prepare God's people for works of service, so that the body of Christ may be built up", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of men in their deceitful scheming.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Instead, speaking the truth in love, we will in all things grow up into him who is the Head, that is, Christ.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So I tell you this, and insist on it in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Having lost all sensitivity, they have given themselves over to sensuality so as to indulge in every kind of impurity, with a continual lust for more.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You, however, did not come to know Christ that way.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Surely you heard of him and were taught in him in accordance with the truth that is in Jesus.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"to be made new in the attitude of your minds;", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and to put on the new self, created to be like God in true righteousness and holiness.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one body.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:""In your anger do not sin": Do not let the sun go down while you are still angry,", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and do not give the devil a foothold.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He who has been stealing must steal no longer, but must work, doing something useful with his own hands, that he may have something to share with those in need.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice.", Ind:""},
+  {Bible:"Ephesians", Chapter:4, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.", Ind:""},
 ]);

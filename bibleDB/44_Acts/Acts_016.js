@@ -1,6 +1,45 @@
 // 사도행전 16장 · Acts 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",16,40);
 BibleDB.add([
+  {Bible:"Acts", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"He came to Derbe and then to Lystra, where a disciple named Timothy lived, whose mother was a Jewess and a believer, but whose father was a Greek.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The brothers at Lystra and Iconium spoke well of him.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Paul wanted to take him along on the journey, so he circumcised him because of the Jews who lived in that area, for they all knew that his father was a Greek.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"As they traveled from town to town, they delivered the decisions reached by the apostles and elders in Jerusalem for the people to obey.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So the churches were strengthened in the faith and grew daily in numbers.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So they passed by Mysia and went down to Troas.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"During the night Paul had a vision of a man of Macedonia standing and begging him, "Come over to Macedonia and help us."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"From Troas we put out to sea and sailed straight for Samothrace, and the next day on to Neapolis.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"One of those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul's message.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When she and the members of her household were baptized, she invited us to her home. "If you consider me a believer in the Lord," she said, "come and stay at my house." And she persuaded us.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Once when we were going to the place of prayer, we were met by a slave girl who had a spirit by which she predicted the future. She earned a great deal of money for her owners by fortune-telling.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"This girl followed Paul and the rest of us, shouting, "These men are servants of the Most High God, who are telling you the way to be saved."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"She kept this up for many days. Finally Paul became so troubled that he turned around and said to the spirit, "In the name of Jesus Christ I command you to come out of her!" At that moment the spirit left her.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When the owners of the slave girl realized that their hope of making money was gone, they seized Paul and Silas and dragged them into the marketplace to face the authorities.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They brought them before the magistrates and said, "These men are Jews, and are throwing our city into an uproar", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"by advocating customs unlawful for us Romans to accept or practice."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The crowd joined in the attack against Paul and Silas, and the magistrates ordered them to be stripped and beaten.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"After they had been severely flogged, they were thrown into prison, and the jailer was commanded to guard them carefully.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Upon receiving such orders, he put them in the inner cell and fastened their feet in the stocks.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everybody's chains came loose.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The jailer woke up, and when he saw the prison doors open, he drew his sword and was about to kill himself because he thought the prisoners had escaped.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"But Paul shouted, "Don't harm yourself! We are all here!"", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The jailer called for lights, rushed in and fell trembling before Paul and Silas.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He then brought them out and asked, "Sirs, what must I do to be saved?"", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They replied, "Believe in the Lord Jesus, and you will be saved--you and your household."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Then they spoke the word of the Lord to him and to all the others in his house.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:"At that hour of the night the jailer took them and washed their wounds; then immediately he and all his family were baptized.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God--he and his whole family.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:35, Page:1, Kor:"", Chn:"", Eng:"When it was daylight, the magistrates sent their officers to the jailer with the order: "Release those men."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:36, Page:1, Kor:"", Chn:"", Eng:"The jailer told Paul, "The magistrates have ordered that you and Silas be released. Now you can leave. Go in peace."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:37, Page:1, Kor:"", Chn:"", Eng:"But Paul said to the officers: "They beat us publicly without a trial, even though we are Roman citizens, and threw us into prison. And now do they want to get rid of us quietly? No! Let them come themselves and escort us out."", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:38, Page:1, Kor:"", Chn:"", Eng:"The officers reported this to the magistrates, and when they heard that Paul and Silas were Roman citizens, they were alarmed.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:39, Page:1, Kor:"", Chn:"", Eng:"They came to appease them and escorted them from the prison, requesting them to leave the city.", Ind:""},
+  {Bible:"Acts", Chapter:16, Verse:40, Page:1, Kor:"", Chn:"", Eng:"After Paul and Silas came out of the prison, they went to Lydia's house, where they met with the brothers and encouraged them. Then they left.", Ind:""},
 ]);

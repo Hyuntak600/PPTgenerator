@@ -1,6 +1,39 @@
 // 민수기 2장 · Numbers 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",2,34);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses and Aaron:", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:""The Israelites are to camp around the Tent of Meeting some distance from it, each man under his standard with the banners of his family."", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"On the east, toward the sunrise, the divisions of the camp of Judah are to encamp under their standard. The leader of the people of Judah is Nahshon son of Amminadab.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His division numbers 74,600.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"His division numbers 54,400.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The tribe of Zebulun will be next. The leader of the people of Zebulun is Eliab son of Helon.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"His division numbers 57,400.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the men assigned to the camp of Judah, according to their divisions, number 186,400. They will set out first.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"On the south will be the divisions of the camp of Reuben under their standard. The leader of the people of Reuben is Elizur son of Shedeur.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"His division numbers 46,500.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The tribe of Simeon will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"His division numbers 59,300.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The tribe of Gad will be next. The leader of the people of Gad is Eliasaph son of Deuel.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"His division numbers 45,650.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"All the men assigned to the camp of Reuben, according to their divisions, number 151,450. They will set out second.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the Tent of Meeting and the camp of the Levites will set out in the middle of the camps. They will set out in the same order as they encamp, each in his own place under his standard.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"On the west will be the divisions of the camp of Ephraim under their standard. The leader of the people of Ephraim is Elishama son of Ammihud.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"His division numbers 40,500.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The tribe of Manasseh will be next to them. The leader of the people of Manasseh is Gamaliel son of Pedahzur.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"His division numbers 32,200.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The tribe of Benjamin will be next. The leader of the people of Benjamin is Abidan son of Gideoni.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"His division numbers 35,400.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"All the men assigned to the camp of Ephraim, according to their divisions, number 108,100. They will set out third.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"On the north will be the divisions of the camp of Dan, under their standard. The leader of the people of Dan is Ahiezer son of Ammishaddai.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"His division numbers 62,700.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Ocran.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:"His division numbers 41,500.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The tribe of Naphtali will be next. The leader of the people of Naphtali is Ahira son of Enan.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:30, Page:1, Kor:"", Chn:"", Eng:"His division numbers 53,400.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:31, Page:1, Kor:"", Chn:"", Eng:"All the men assigned to the camp of Dan number 157,600. They will set out last, under their standards.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:32, Page:1, Kor:"", Chn:"", Eng:"These are the Israelites, counted according to their families. All those in the camps, by their divisions, number 603,550.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, were not counted along with the other Israelites, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:2, Verse:34, Page:1, Kor:"", Chn:"", Eng:"So the Israelites did everything the LORD commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each with his clan and family.", Ind:""},
 ]);

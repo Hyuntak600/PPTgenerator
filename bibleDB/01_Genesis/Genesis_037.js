@@ -1,6 +1,41 @@
 // 창세기 37장 · Genesis 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",37,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",37,36);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Jacob lived in the land where his father had stayed, the land of Canaan.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is the account of Jacob. Joseph, a young man of seventeen, was tending the flocks with  his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, and he brought their  father a bad report about them.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Now Israel loved Joseph more than any of his other sons, because he had been born to him in  his old age; and he made a richly ornamented robe for him.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When his brothers saw that their father loved him more than any of them, they hated him and  could not speak a kind word to him.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Joseph had a dream, and when he told it to his brothers, they hated him all the more.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He said to them, "Listen to this dream I had:", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:7, Page:1, Kor:"", Chn:"", Eng:"We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood  upright, while your sheaves gathered around mine and bowed down to it."", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:8, Page:1, Kor:"", Chn:"", Eng:"His brothers said to him, "Do you intend to reign over us? Will you actually rule us?" And  they hated him all the more because of his dream and what he had said.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then he had another dream, and he told it to his brothers. "Listen," he said, "I had another  dream, and this time the sun and moon and eleven stars were bowing down to me."", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When he told his father as well as his brothers, his father rebuked him and said, "What is  this dream you had? Will your mother and I and your brothers actually come and bow down to the  ground before you?"", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:11, Page:1, Kor:"", Chn:"", Eng:"His brothers were jealous of him, but his father kept the matter in mind.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Now his brothers had gone to graze their father's flocks near Shechem,", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:13, Page:1, Kor:"", Chn:"", Eng:"and Israel said to Joseph, "As you know, your brothers are grazing the flocks near Shechem.  Come, I am going to send you to them." "Very well," he replied.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So he said to him, "Go and see if all is well with your brothers and with the flocks, and  bring word back to me." Then he sent him off from the Valley of Hebron. When Joseph arrived at  Shechem,", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:15, Page:1, Kor:"", Chn:"", Eng:"a man found him wandering around in the fields and asked him, "What are you looking for?"", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He replied, "I'm looking for my brothers. Can you tell me where they are grazing their  flocks?"", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:17, Page:1, Kor:"", Chn:"", Eng:""They have moved on from here," the man answered. "I heard them say, 'Let's go to Dothan.'"  So Joseph went after his brothers and found them near Dothan.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But they saw him in the distance, and before he reached them, they plotted to kill him.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Here comes that dreamer!" they said to each other.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Come now, let's kill him and throw him into one of these cisterns and say that a ferocious  animal devoured him. Then we'll see what comes of his dreams."", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When Reuben heard this, he tried to rescue him from their hands. "Let's not take his life,"  he said.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Don't shed any blood. Throw him into this cistern here in the desert, but don't lay a hand  on him." Reuben said this to rescue him from them and take him back to his father.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:23, Page:1, Kor:"", Chn:"", Eng:"So when Joseph came to his brothers, they stripped him of his robe--the richly ornamented  robe he was wearing--", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and they took him and threw him into the cistern. Now the cistern was empty; there was no  water in it.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:25, Page:1, Kor:"", Chn:"", Eng:"As they sat down to eat their meal, they looked up and saw a caravan of Ishmaelites coming  from Gilead. Their camels were loaded with spices, balm and myrrh, and they were on their way to  take them down to Egypt.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Judah said to his brothers, "What will we gain if we kill our brother and cover up his  blood?", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Come, let's sell him to the Ishmaelites and not lay our hands on him; after all, he is our  brother, our own flesh and blood." His brothers agreed.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:28, Page:1, Kor:"", Chn:"", Eng:"So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern  and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:29, Page:1, Kor:"", Chn:"", Eng:"When Reuben returned to the cistern and saw that Joseph was not there, he tore his clothes.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He went back to his brothers and said, "The boy isn't there! Where can I turn now?"", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then they got Joseph's robe, slaughtered a goat and dipped the robe in the blood.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:32, Page:1, Kor:"", Chn:"", Eng:"They took the ornamented robe back to their father and said, "We found this. Examine it to  see whether it is your son's robe."", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:33, Page:1, Kor:"", Chn:"", Eng:"He recognized it and said, "It is my son's robe! Some ferocious animal has devoured him.  Joseph has surely been torn to pieces."", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then Jacob tore his clothes, put on sackcloth and mourned for his son many days.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:35, Page:1, Kor:"", Chn:"", Eng:"All his sons and daughters came to comfort him, but he refused to be comforted. "No," he  said, "in mourning will I go down to the grave to my son." So his father wept for him.", Ind:""},
+  {Bible:"Genesis", Chapter:37, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh's officials, the  captain of the guard.", Ind:""},
 ]);

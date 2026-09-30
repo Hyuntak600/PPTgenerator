@@ -1,6 +1,30 @@
 // 로마서 7장 · Romans 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",7,25);
 BibleDB.add([
+  {Bible:"Romans", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do you not know, brothers--for I am speaking to men who know the law--that the law has authority over a man only as long as he lives?", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"For example, by law a married woman is bound to her husband as long as he is alive, but if her husband dies, she is released from the law of marriage.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So then, if she marries another man while her husband is still alive, she is called an adulteress. But if her husband dies, she is released from that law and is not an adulteress, even though she marries another man.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So, my brothers, you also died to the law through the body of Christ, that you might belong to another, to him who was raised from the dead, in order that we might bear fruit to God.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For when we were controlled by the sinful nature, the sinful passions aroused by the law were at work in our bodies, so that we bore fruit for death.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But now, by dying to what once bound us, we have been released from the law so that we serve in the new way of the Spirit, and not in the old way of the written code.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What shall we say, then? Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law. For I would not have known what coveting really was if the law had not said, "Do not covet."", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But sin, seizing the opportunity afforded by the commandment, produced in me every kind of covetous desire. For apart from law, sin is dead.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Once I was alive apart from law; but when the commandment came, sin sprang to life and I died.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I found that the very commandment that was intended to bring life actually brought death.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For sin, seizing the opportunity afforded by the commandment, deceived me, and through the commandment put me to death.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"So then, the law is holy, and the commandment is holy, righteous and good.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Did that which is good, then, become death to me? By no means! But in order that sin might be recognized as sin, it produced death in me through what was good, so that through the commandment sin might become utterly sinful.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I do not understand what I do. For what I want to do I do not do, but what I hate I do.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And if I do what I do not want to do, I agree that the law is good.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As it is, it is no longer I myself who do it, but it is sin living in me.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I know that nothing good lives in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For what I do is not the good I want to do; no, the evil I do not want to do--this I keep on doing.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So I find this law at work: When I want to do good, evil is right there with me.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For in my inner being I delight in God's law;", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"but I see another law at work in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin at work within my members.", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"What a wretched man I am! Who will rescue me from this body of death?", Ind:""},
+  {Bible:"Romans", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Thanks be to God--through Jesus Christ our Lord! So then, I myself in my mind am a slave to God's law, but in the sinful nature a slave to the law of sin.", Ind:""},
 ]);

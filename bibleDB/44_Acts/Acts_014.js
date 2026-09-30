@@ -1,6 +1,33 @@
 // 사도행전 14장 · Acts 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",14,28);
 BibleDB.add([
+  {Bible:"Acts", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Gentiles believed.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But the Jews who refused to believe stirred up the Gentiles and poisoned their minds against the brothers.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to do miraculous signs and wonders.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The people of the city were divided; some sided with the Jews, others with the apostles.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"There was a plot afoot among the Gentiles and Jews, together with their leaders, to mistreat them and stone them.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country,", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"where they continued to preach the good news.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and called out, "Stand up on your feet!" At that, the man jumped up and began to walk.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When the crowd saw what Paul had done, they shouted in the Lycaonian language, "The gods have come down to us in human form!"", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting:", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Men, why are you doing this? We too are only men, human like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"In the past, he let all nations go their own way.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy."", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Even with these words, they had difficulty keeping the crowd from sacrificing to them.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then some Jews came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They preached the good news in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch,", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"strengthening the disciples and encouraging them to remain true to the faith. "We must go through many hardships to enter the kingdom of God," they said.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"After going through Pisidia, they came into Pamphylia,", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:25, Page:1, Kor:"", Chn:"", Eng:"and when they had preached the word in Perga, they went down to Attalia.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:26, Page:1, Kor:"", Chn:"", Eng:"From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:27, Page:1, Kor:"", Chn:"", Eng:"On arriving there, they gathered the church together and reported all that God had done through them and how he had opened the door of faith to the Gentiles.", Ind:""},
+  {Bible:"Acts", Chapter:14, Verse:28, Page:1, Kor:"", Chn:"", Eng:"And they stayed there a long time with the disciples.", Ind:""},
 ]);

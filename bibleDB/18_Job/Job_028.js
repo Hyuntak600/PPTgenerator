@@ -1,6 +1,33 @@
 // 욥기 28장 · Job 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",28,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",28,28);
 BibleDB.add([
+  {Bible:"Job", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:""There is a mine for silver and a place where gold is refined.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Iron is taken from the earth, and copper is smelted from ore.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Man puts an end to the darkness; he searches the farthest recesses for ore in the blackest darkness.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Far from where people dwell he cuts a shaft, in places forgotten by the foot of man; far from men he dangles and sways.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The earth, from which food comes, is transformed below as by fire;", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:"sapphires come from its rocks, and its dust contains nuggets of gold.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"No bird of prey knows that hidden path, no falcon's eye has seen it.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Proud beasts do not set foot on it, and no lion prowls there.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Man's hand assaults the flinty rock and lays bare the roots of the mountains.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He tunnels through the rock; his eyes see all its treasures.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He searches the sources of the rivers and brings hidden things to light.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:12, Page:1, Kor:"", Chn:"", Eng:""But where can wisdom be found? Where does understanding dwell?", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Man does not comprehend its worth; it cannot be found in the land of the living.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The deep says, 'It is not in me'; the sea says, 'It is not with me.'", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"It cannot be bought with the finest gold, nor can its price be weighed in silver.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:"It cannot be bought with the gold of Ophir, with precious onyx or sapphires.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Neither gold nor crystal can compare with it, nor can it be had for jewels of gold.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Coral and jasper are not worthy of mention; the price of wisdom is beyond rubies.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The topaz of Cush cannot compare with it; it cannot be bought with pure gold.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Where then does wisdom come from? Where does understanding dwell?", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"It is hidden from the eyes of every living thing, concealed even from the birds of the air.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Destruction and Death say, 'Only a rumor of it has reached our ears.'", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"God understands the way to it and he alone knows where it dwells,", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"for he views the ends of the earth and sees everything under the heavens.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When he established the force of the wind and measured out the waters,", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"when he made a decree for the rain and a path for the thunderstorm,", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"then he looked at wisdom and appraised it; he confirmed it and tested it.", Ind:""},
+  {Bible:"Job", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:"And he said to man, 'The fear of the Lord--that is wisdom, and to shun evil is understanding.'"", Ind:""},
 ]);

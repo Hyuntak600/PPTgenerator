@@ -1,6 +1,40 @@
 // 욥기 9장 · Job 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",9,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",9,35);
 BibleDB.add([
+  {Bible:"Job", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Job replied:", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Indeed, I know that this is true. But how can a mortal be righteous before God?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Though one wished to dispute with him, he could not answer him one time out of a thousand.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He moves mountains without their knowing it and overturns them in his anger.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He shakes the earth from its place and makes its pillars tremble.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He speaks to the sun and it does not shine; he seals off the light of the stars.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He alone stretches out the heavens and treads on the waves of the sea.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He is the Maker of the Bear and Orion, the Pleiades and the constellations of the south.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He performs wonders that cannot be fathomed, miracles that cannot be counted.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When he passes me, I cannot see him; when he goes by, I cannot perceive him.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If he snatches away, who can stop him? Who can say to him, 'What are you doing?'", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"God does not restrain his anger; even the cohorts of Rahab cowered at his feet.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:""How then can I dispute with him? How can I find words to argue with him?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Though I were innocent, I could not answer him; I could only plead with my Judge for mercy.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Even if I summoned him and he responded, I do not believe he would give me a hearing.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He would crush me with a storm and multiply my wounds for no reason.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He would not let me regain my breath but would overwhelm me with misery.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"If it is a matter of strength, he is mighty! And if it is a matter of justice, who will summon him?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Although I am blameless, I have no concern for myself; I despise my own life.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"It is all the same; that is why I say, 'He destroys both the blameless and the wicked.'", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When a scourge brings sudden death, he mocks the despair of the innocent.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:""My days are swifter than a runner; they fly away without a glimpse of joy.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They skim past like boats of papyrus, like eagles swooping down on their prey.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"If I say, 'I will forget my complaint, I will change my expression, and smile,'", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:28, Page:1, Kor:"", Chn:"", Eng:"I still dread all my sufferings, for I know you will not hold me innocent.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Since I am already found guilty, why should I struggle in vain?", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Even if I washed myself with soap and my hands with washing soda,", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:31, Page:1, Kor:"", Chn:"", Eng:"you would plunge me into a slime pit so that even my clothes would detest me.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:32, Page:1, Kor:"", Chn:"", Eng:""He is not a man like me that I might answer him, that we might confront each other in court.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:33, Page:1, Kor:"", Chn:"", Eng:"If only there were someone to arbitrate between us, to lay his hand upon us both,", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:34, Page:1, Kor:"", Chn:"", Eng:"someone to remove God's rod from me, so that his terror would frighten me no more.", Ind:""},
+  {Bible:"Job", Chapter:9, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Then I would speak up without fear of him, but as it now stands with me, I cannot.", Ind:""},
 ]);

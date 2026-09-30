@@ -1,6 +1,38 @@
 // 에베소서 5장 · Ephesians 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ephesians",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ephesians",5,33);
 BibleDB.add([
+  {Bible:"Ephesians", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Be imitators of God, therefore, as dearly loved children", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and live a life of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For of this you can be sure: No immoral, impure or greedy person--such a man is an idolater--has any inheritance in the kingdom of Christ and of God.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Let no one deceive you with empty words, for because of such things God's wrath comes on those who are disobedient.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Therefore do not be partners with them.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For you were once darkness, but now you are light in the Lord. Live as children of light", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"(for the fruit of the light consists in all goodness, righteousness and truth)", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and find out what pleases the Lord.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Have nothing to do with the fruitless deeds of darkness, but rather expose them.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For it is shameful even to mention what the disobedient do in secret.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But everything exposed by the light becomes visible,", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"for it is light that makes everything visible. This is why it is said: "Wake up, O sleeper, rise from the dead, and Christ will shine on you."", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Be very careful, then, how you live--not as unwise but as wise,", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"making the most of every opportunity, because the days are evil.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Therefore do not be foolish, but understand what the Lord's will is.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Speak to one another with psalms, hymns and spiritual songs. Sing and make music in your heart to the Lord,", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Submit to one another out of reverence for Christ.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Wives, submit to your husbands as to the Lord.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Now as the church submits to Christ, so also wives should submit to their husbands in everything.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Husbands, love your wives, just as Christ loved the church and gave himself up for her", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"to make her holy, cleansing her by the washing with water through the word,", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"After all, no one ever hated his own body, but he feeds and cares for it, just as Christ does the church--", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"for we are members of his body.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:""For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh."", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:32, Page:1, Kor:"", Chn:"", Eng:"This is a profound mystery--but I am talking about Christ and the church.", Ind:""},
+  {Bible:"Ephesians", Chapter:5, Verse:33, Page:1, Kor:"", Chn:"", Eng:"However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.", Ind:""},
 ]);

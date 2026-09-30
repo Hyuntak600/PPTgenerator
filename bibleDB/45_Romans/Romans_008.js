@@ -1,6 +1,44 @@
 // 로마서 8장 · Romans 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",8,39);
 BibleDB.add([
+  {Bible:"Romans", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Therefore, there is now no condemnation for those who are in Christ Jesus,", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"because through Christ Jesus the law of the Spirit of life set me free from the law of sin and death.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For what the law was powerless to do in that it was weakened by the sinful nature, God did by sending his own Son in the likeness of sinful man to be a sin offering. And so he condemned sin in sinful man,", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"in order that the righteous requirements of the law might be fully met in us, who do not live according to the sinful nature but according to the Spirit.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Those who live according to the sinful nature have their minds set on what that nature desires; but those who live in accordance with the Spirit have their minds set on what the Spirit desires.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The mind of sinful man is death, but the mind controlled by the Spirit is life and peace;", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"the sinful mind is hostile to God. It does not submit to God's law, nor can it do so.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Those controlled by the sinful nature cannot please God.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You, however, are controlled not by the sinful nature but by the Spirit, if the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, he does not belong to Christ.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And if the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will also give life to your mortal bodies through his Spirit, who lives in you.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Therefore, brothers, we have an obligation--but it is not to the sinful nature, to live according to it.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For if you live according to the sinful nature, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live,", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"because those who are led by the Spirit of God are sons of God.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For you did not receive a spirit that makes you a slave again to fear, but you received the Spirit of sonship. And by him we cry, "Abba, Father."", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The Spirit himself testifies with our spirit that we are God's children.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now if we are children, then we are heirs--heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The creation waits in eager expectation for the sons of God to be revealed.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"that the creation itself will be liberated from its bondage to decay and brought into the glorious freedom of the children of God.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Not only so, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption as sons, the redemption of our bodies.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what he already has?", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But if we hope for what we do not yet have, we wait for it patiently.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us with groans that words cannot express.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints in accordance with God's will.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"And we know that in all things God works for the good of those who love him, who have been called according to his purpose.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"For those God foreknew he also predestined to be conformed to the likeness of his Son, that he might be the firstborn among many brothers.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"What, then, shall we say in response to this? If God is for us, who can be against us?", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He who did not spare his own Son, but gave him up for us all--how will he not also, along with him, graciously give us all things?", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Who will bring any charge against those whom God has chosen? It is God who justifies.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Who is he that condemns? Christ Jesus, who died--more than that, who was raised to life--is at the right hand of God and is also interceding for us.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"As it is written: "For your sake we face death all day long; we are considered as sheep to be slaughtered."", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:37, Page:1, Kor:"", Chn:"", Eng:"No, in all these things we are more than conquerors through him who loved us.", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:38, Page:1, Kor:"", Chn:"", Eng:"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,", Ind:""},
+  {Bible:"Romans", Chapter:8, Verse:39, Page:1, Kor:"", Chn:"", Eng:"neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.", Ind:""},
 ]);

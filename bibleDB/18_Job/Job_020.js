@@ -1,6 +1,34 @@
 // 욥기 20장 · Job 20
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",20,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",20,29);
 BibleDB.add([
+  {Bible:"Job", Chapter:20, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Zophar the Naamathite replied:", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:2, Page:1, Kor:"", Chn:"", Eng:""My troubled thoughts prompt me to answer because I am greatly disturbed.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I hear a rebuke that dishonors me, and my understanding inspires me to reply.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Surely you know how it has been from of old, ever since man was placed on the earth,", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:5, Page:1, Kor:"", Chn:"", Eng:"that the mirth of the wicked is brief, the joy of the godless lasts but a moment.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Though his pride reaches to the heavens and his head touches the clouds,", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:7, Page:1, Kor:"", Chn:"", Eng:"he will perish forever, like his own dung; those who have seen him will say, 'Where is he?'", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Like a dream he flies away, no more to be found, banished like a vision of the night.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The eye that saw him will not see him again; his place will look on him no more.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:10, Page:1, Kor:"", Chn:"", Eng:"His children must make amends to the poor; his own hands must give back his wealth.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The youthful vigor that fills his bones will lie with him in the dust.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Though evil is sweet in his mouth and he hides it under his tongue,", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:13, Page:1, Kor:"", Chn:"", Eng:"though he cannot bear to let it go and keeps it in his mouth,", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:14, Page:1, Kor:"", Chn:"", Eng:"yet his food will turn sour in his stomach; it will become the venom of serpents within him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He will spit out the riches he swallowed; God will make his stomach vomit them up.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He will suck the poison of serpents; the fangs of an adder will kill him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He will not enjoy the streams, the rivers flowing with honey and cream.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:18, Page:1, Kor:"", Chn:"", Eng:"What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For he has oppressed the poor and left them destitute; he has seized houses he did not build.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Surely he will have no respite from his craving; he cannot save himself by his treasure.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Nothing is left for him to devour; his prosperity will not endure.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:22, Page:1, Kor:"", Chn:"", Eng:"In the midst of his plenty, distress will overtake him; the full force of misery will come upon him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When he has filled his belly, God will vent his burning anger against him and rain down his blows upon him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Though he flees from an iron weapon, a bronze-tipped arrow pierces him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him;", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:26, Page:1, Kor:"", Chn:"", Eng:"total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The heavens will expose his guilt; the earth will rise up against him.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A flood will carry off his house, rushing waters on the day of God's wrath.", Ind:""},
+  {Bible:"Job", Chapter:20, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Such is the fate God allots the wicked, the heritage appointed for them by God." JOB", Ind:""},
 ]);

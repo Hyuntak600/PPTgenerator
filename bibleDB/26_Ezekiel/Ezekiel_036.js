@@ -1,6 +1,43 @@
 // 에스겔 36장 · Ezekiel 36
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",36,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",36,38);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:36, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Son of man, prophesy to the mountains of Israel and say, 'O mountains of Israel, hear the word of the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: The enemy said of you, "Aha! The ancient heights have become our possession."'", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Therefore prophesy and say, 'This is what the Sovereign LORD says: Because they ravaged and hounded you from every side so that you became the possession of the rest of the nations and the object of people's malicious talk and slander,", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:4, Page:1, Kor:"", Chn:"", Eng:"therefore, O mountains of Israel, hear the word of the Sovereign LORD: This is what the Sovereign LORD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and the deserted towns that have been plundered and ridiculed by the rest of the nations around you--", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:5, Page:1, Kor:"", Chn:"", Eng:"this is what the Sovereign LORD says: In my burning zeal I have spoken against the rest of the nations, and against all Edom, for with glee and with malice in their hearts they made my land their own possession so that they might plunder its pastureland.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Therefore prophesy concerning the land of Israel and say to the mountains and hills, to the ravines and valleys: 'This is what the Sovereign LORD says: I speak in my jealous wrath because you have suffered the scorn of the nations.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Sovereign LORD says: I swear with uplifted hand that the nations around you will also suffer scorn.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'But you, O mountains of Israel, will produce branches and fruit for my people Israel, for they will soon come home.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I am concerned for you and will look on you with favor; you will be plowed and sown,", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and I will multiply the number of people upon you, even the whole house of Israel. The towns will be inhabited and the ruins rebuilt.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I will increase the number of men and animals upon you, and they will be fruitful and become numerous. I will settle people on you as in the past and will make you prosper more than before. Then you will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I will cause people, my people Israel, to walk upon you. They will possess you, and you will be their inheritance; you will never again deprive them of their children.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: Because people say to you, "You devour men and deprive your nation of its children,"", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:14, Page:1, Kor:"", Chn:"", Eng:"therefore you will no longer devour men or make your nation childless, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:15, Page:1, Kor:"", Chn:"", Eng:"No longer will I make you hear the taunts of the nations, and no longer will you suffer the scorn of the peoples or cause your nation to fall, declares the Sovereign LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Again the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Son of man, when the people of Israel were living in their own land, they defiled it by their conduct and their actions. Their conduct was like a woman's monthly uncleanness in my sight.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:18, Page:1, Kor:"", Chn:"", Eng:"So I poured out my wrath on them because they had shed blood in the land and because they had defiled it with their idols.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I dispersed them among the nations, and they were scattered through the countries; I judged them according to their conduct and their actions.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And wherever they went among the nations they profaned my holy name, for it was said of them, 'These are the LORD'S people, and yet they had to leave his land.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I had concern for my holy name, which the house of Israel profaned among the nations where they had gone.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Therefore say to the house of Israel, 'This is what the Sovereign LORD says: It is not for your sake, O house of Israel, that I am going to do these things, but for the sake of my holy name, which you have profaned among the nations where you have gone.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I will show the holiness of my great name, which has been profaned among the nations, the name you have profaned among them. Then the nations will know that I am the LORD, declares the Sovereign LORD, when I show myself holy through you before their eyes.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'For I will take you out of the nations; I will gather you from all the countries and bring you back into your own land.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I will sprinkle clean water on you, and you will be clean; I will cleanse you from all your impurities and from all your idols.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And I will put my Spirit in you and move you to follow my decrees and be careful to keep my laws.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:28, Page:1, Kor:"", Chn:"", Eng:"You will live in the land I gave your forefathers; you will be my people, and I will be your God.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I will save you from all your uncleanness. I will call for the grain and make it plentiful and will not bring famine upon you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I will increase the fruit of the trees and the crops of the field, so that you will no longer suffer disgrace among the nations because of famine.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your sins and detestable practices.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:32, Page:1, Kor:"", Chn:"", Eng:"I want you to know that I am not doing this for your sake, declares the Sovereign LORD. Be ashamed and disgraced for your conduct, O house of Israel!", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:33, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: On the day I cleanse you from all your sins, I will resettle your towns, and the ruins will be rebuilt.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The desolate land will be cultivated instead of lying desolate in the sight of all who pass through it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:35, Page:1, Kor:"", Chn:"", Eng:"They will say, "This land that was laid waste has become like the garden of Eden; the cities that were lying in ruins, desolate and destroyed, are now fortified and inhabited."", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Then the nations around you that remain will know that I the LORD have rebuilt what was destroyed and have replanted what was desolate. I the LORD have spoken, and I will do it.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:37, Page:1, Kor:"", Chn:"", Eng:""This is what the Sovereign LORD says: Once again I will yield to the plea of the house of Israel and do this for them: I will make their people as numerous as sheep,", Ind:""},
+  {Bible:"Ezekiel", Chapter:36, Verse:38, Page:1, Kor:"", Chn:"", Eng:"as numerous as the flocks for offerings at Jerusalem during her appointed feasts. So will the ruined cities be filled with flocks of people. Then they will know that I am the LORD."", Ind:""},
 ]);

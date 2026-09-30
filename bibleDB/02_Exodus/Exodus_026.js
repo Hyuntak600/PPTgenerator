@@ -1,6 +1,42 @@
 // 출애굽기 26장 · Exodus 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",26,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",26,37);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:"All the curtains are to be the same size--twenty-eight cubits long and four cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Join five of the curtains together, and do the same with the other five.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Make loops of blue material along the edge of the end curtain in one set, and do the same with the end curtain in the other set.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Make fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then make fifty gold clasps and use them to fasten the curtains together so that the tabernacle is a unit.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Make curtains of goat hair for the tent over the tabernacle--eleven altogether.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All eleven curtains are to be the same size--thirty cubits long and four cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Join five of the curtains together into one set and the other six into another set. Fold the sixth curtain double at the front of the tent.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Make fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then make fifty bronze clasps and put them in the loops to fasten the tent together as a unit.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:"As for the additional length of the tent curtains, the half curtain that is left over is to hang down at the rear of the tabernacle.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The tent curtains will be a cubit longer on both sides; what is left will hang over the sides of the tabernacle so as to cover it.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Make for the tent a covering of ram skins dyed red, and over that a covering of hides of sea cows.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Make upright frames of acacia wood for the tabernacle.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Each frame is to be ten cubits long and a cubit and a half wide,", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"with two projections set parallel to each other. Make all the frames of the tabernacle in this way.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Make twenty frames for the south side of the tabernacle", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and make forty silver bases to go under them--two bases for each frame, one under each projection.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For the other side, the north side of the tabernacle, make twenty frames", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and forty silver bases--two under each frame.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Make six frames for the far end, that is, the west end of the tabernacle,", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:23, Page:1, Kor:"", Chn:"", Eng:"and make two frames for the corners at the far end.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:24, Page:1, Kor:"", Chn:"", Eng:"At these two corners they must be double from the bottom all the way to the top, and fitted into a single ring; both shall be like that.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:25, Page:1, Kor:"", Chn:"", Eng:"So there will be eight frames and sixteen silver bases--two under each frame.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:27, Page:1, Kor:"", Chn:"", Eng:"five for those on the other side, and five for the frames on the west, at the far end of the tabernacle.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The center crossbar is to extend from end to end at the middle of the frames.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:30, Page:1, Kor:"", Chn:"", Eng:""Set up the tabernacle according to the plan shown you on the mountain.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Make a curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim worked into it by a skilled craftsman.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Hang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Hang the curtain from the clasps and place the ark of the Testimony behind the curtain. The curtain will separate the Holy Place from the Most Holy Place.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Put the atonement cover on the ark of the Testimony in the Most Holy Place.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Place the table outside the curtain on the north side of the tabernacle and put the lampstand opposite it on the south side.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:36, Page:1, Kor:"", Chn:"", Eng:""For the entrance to the tent make a curtain of blue, purple and scarlet yarn and finely twisted linen--the work of an embroiderer.", Ind:""},
+  {Bible:"Exodus", Chapter:26, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.", Ind:""},
 ]);

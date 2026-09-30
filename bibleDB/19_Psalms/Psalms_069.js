@@ -1,6 +1,41 @@
 // 시편 69장 · Psalms 69
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",69,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",69,36);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:69, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Save me, O God, for the waters have come up to my neck.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I sink in the miry depths, where there is no foothold. I have come into the deep waters; the floods engulf me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I am worn out calling for help; my throat is parched. My eyes fail, looking for my God.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Those who hate me without reason outnumber the hairs of my head; many are my enemies without cause, those who seek to destroy me. I am forced to restore what I did not steal.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You know my folly, O God; my guilt is not hidden from you.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:6, Page:1, Kor:"", Chn:"", Eng:"May those who hope in you not be disgraced because of me, O Lord, the LORD Almighty; may those who seek you not be put to shame because of me, O God of Israel.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:7, Page:1, Kor:"", Chn:"", Eng:"For I endure scorn for your sake, and shame covers my face.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I am a stranger to my brothers, an alien to my own mother's sons;", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:9, Page:1, Kor:"", Chn:"", Eng:"for zeal for your house consumes me, and the insults of those who insult you fall on me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When I weep and fast, I must endure scorn;", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:11, Page:1, Kor:"", Chn:"", Eng:"when I put on sackcloth, people make sport of me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Those who sit at the gate mock me, and I am the song of the drunkards.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But I pray to you, O LORD, in the time of your favor; in your great love, O God, answer me with your sure salvation.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Rescue me from the mire, do not let me sink; deliver me from those who hate me, from the deep waters.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Do not let the floodwaters engulf me or the depths swallow me up or the pit close its mouth over me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Answer me, O LORD, out of the goodness of your love; in your great mercy turn to me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do not hide your face from your servant; answer me quickly, for I am in trouble.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Come near and rescue me; redeem me because of my foes.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You know how I am scorned, disgraced and shamed; all my enemies are before you.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Scorn has broken my heart and has left me helpless; I looked for sympathy, but there was none, for comforters, but I found none.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They put gall in my food and gave me vinegar for my thirst.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:22, Page:1, Kor:"", Chn:"", Eng:"May the table set before them become a snare; may it become retribution and a trap.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:23, Page:1, Kor:"", Chn:"", Eng:"May their eyes be darkened so they cannot see, and their backs be bent forever.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Pour out your wrath on them; let your fierce anger overtake them.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:25, Page:1, Kor:"", Chn:"", Eng:"May their place be deserted; let there be no one to dwell in their tents.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For they persecute those you wound and talk about the pain of those you hurt.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Charge them with crime upon crime; do not let them share in your salvation.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:28, Page:1, Kor:"", Chn:"", Eng:"May they be blotted out of the book of life and not be listed with the righteous.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I am in pain and distress; may your salvation, O God, protect me.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I will praise God's name in song and glorify him with thanksgiving.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:31, Page:1, Kor:"", Chn:"", Eng:"This will please the LORD more than an ox, more than a bull with its horns and hoofs.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The poor will see and be glad--you who seek God, may your hearts live!", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The LORD hears the needy and does not despise his captive people.", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Let heaven and earth praise him, the seas and all that move in them,", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:35, Page:1, Kor:"", Chn:"", Eng:"for God will save Zion and rebuild the cities of Judah. Then people will settle there and possess it;", Ind:""},
+  {Bible:"Psalms", Chapter:69, Verse:36, Page:1, Kor:"", Chn:"", Eng:"the children of his servants will inherit it, and those who love his name will dwell there.", Ind:""},
 ]);

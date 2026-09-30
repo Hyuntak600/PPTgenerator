@@ -1,6 +1,38 @@
 // 여호수아 13장 · Joshua 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joshua",13,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joshua",13,33);
 BibleDB.add([
+  {Bible:"Joshua", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Joshua was old and well advanced in years, the LORD said to him, "You are very old, and there are still very large areas of land to be taken over.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:""This is the land that remains: all the regions of the Philistines and Geshurites:", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"from the Shihor River on the east of Egypt to the territory of Ekron on the north, all of it counted as Canaanite (the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron--that of the Avvites);", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"from the south, all the land of the Canaanites, from Arah of the Sidonians as far as Aphek, the region of the Amorites,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"the area of the Gebalites; and all Lebanon to the east, from Baal Gad below Mount Hermon to Lebo Hamath.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:""As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and divide it as an inheritance among the nine tribes and half of the tribe of Manasseh."", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the LORD, had assigned it to them.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"It extended from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and included the whole plateau of Medeba as far as Dibon,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and all the towns of Sihon king of the Amorites, who ruled in Heshbon, out to the border of the Ammonites.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"It also included Gilead, the territory of the people of Geshur and Maacah, all of Mount Hermon and all Bashan as far as Salecah--", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"that is, the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had survived as one of the last of the Rephaites. Moses had defeated them and taken over their land.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But the Israelites did not drive out the people of Geshur and Maacah, so they continue to live among the Israelites to this day.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"But to the tribe of Levi he gave no inheritance, since the offerings made by fire to the LORD, the God of Israel, are their inheritance, as he promised them.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"This is what Moses had given to the tribe of Reuben, clan by clan:", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The territory from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and the whole plateau past Medeba", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"to Heshbon and all its towns on the plateau, including Dibon, Bamoth Baal, Beth Baal Meon,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Jahaz, Kedemoth, Mephaath,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Kiriathaim, Sibmah, Zereth Shahar on the hill in the valley,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Beth Peor, the slopes of Pisgah, and Beth Jeshimoth", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"--all the towns on the plateau and the entire realm of Sihon king of the Amorites, who ruled at Heshbon. Moses had defeated him and the Midianite chiefs, Evi, Rekem, Zur, Hur and Reba--princes allied with Sihon--who lived in that country.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"In addition to those slain in battle, the Israelites had put to the sword Balaam son of Beor, who practiced divination.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The boundary of the Reubenites was the bank of the Jordan. These towns and their villages were the inheritance of the Reubenites, clan by clan.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:"This is what Moses had given to the tribe of Gad, clan by clan:", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The territory of Jazer, all the towns of Gilead and half the Ammonite country as far as Aroer, near Rabbah;", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:"and from Heshbon to Ramath Mizpah and Betonim, and from Mahanaim to the territory of Debir;", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and in the valley, Beth Haram, Beth Nimrah, Succoth and Zaphon with the rest of the realm of Sihon king of Heshbon (the east side of the Jordan, the territory up to the end of the Sea of Kinnereth).", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:"These towns and their villages were the inheritance of the Gadites, clan by clan.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"This is what Moses had given to the half-tribe of Manasseh, that is, to half the family of the descendants of Manasseh, clan by clan:", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The territory extending from Mahanaim and including all of Bashan, the entire realm of Og king of Bashan--all the settlements of Jair in Bashan, sixty towns,", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"half of Gilead, and Ashtaroth and Edrei (the royal cities of Og in Bashan). This was for the descendants of Makir son of Manasseh--for half of the sons of Makir, clan by clan.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"This is the inheritance Moses had given when he was in the plains of Moab across the Jordan east of Jericho.", Ind:""},
+  {Bible:"Joshua", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But to the tribe of Levi, Moses had given no inheritance; the LORD, the God of Israel, is their inheritance, as he promised them.", Ind:""},
 ]);

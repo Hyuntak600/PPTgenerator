@@ -1,6 +1,45 @@
 // 요한복음 18장 · John 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("John",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("John",18,40);
 BibleDB.add([
+  {Bible:"John", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When he had finished praying, Jesus left with his disciples and crossed the Kidron Valley. On the other side there was an olive grove, and he and his disciples went into it.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now Judas, who betrayed him, knew the place, because Jesus had often met there with his disciples.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Judas came to the grove, guiding a detachment of soldiers and some officials from the chief priests and Pharisees. They were carrying torches, lanterns and weapons.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Jesus, knowing all that was going to happen to him, went out and asked them, "Who is it you want?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Jesus of Nazareth," they replied. "I am he," Jesus said. (And Judas the traitor was standing there with them.)", Ind:""},
+  {Bible:"John", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When Jesus said, "I am he," they drew back and fell to the ground.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Again he asked them, "Who is it you want?" And they said, "Jesus of Nazareth."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:""I told you that I am he," Jesus answered. "If you are looking for me, then let these men go."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"This happened so that the words he had spoken would be fulfilled: "I have not lost one of those you gave me."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear. (The servant's name was Malchus.)", Ind:""},
+  {Bible:"John", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Jesus commanded Peter, "Put your sword away! Shall I not drink the cup the Father has given me?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the detachment of soldiers with its commander and the Jewish officials arrested Jesus. They bound him", Ind:""},
+  {Bible:"John", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"and brought him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Caiaphas was the one who had advised the Jews that it would be good if one man died for the people.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Simon Peter and another disciple were following Jesus. Because this disciple was known to the high priest, he went with Jesus into the high priest's courtyard,", Ind:""},
+  {Bible:"John", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"but Peter had to wait outside at the door. The other disciple, who was known to the high priest, came back, spoke to the girl on duty there and brought Peter in.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:""You are not one of his disciples, are you?" the girl at the door asked Peter. He replied, "I am not."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"It was cold, and the servants and officials stood around a fire they had made to keep warm. Peter also was standing with them, warming himself.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Meanwhile, the high priest questioned Jesus about his disciples and his teaching.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:""I have spoken openly to the world," Jesus replied. "I always taught in synagogues or at the temple, where all the Jews come together. I said nothing in secret.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Why question me? Ask those who heard me. Surely they know what I said."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When Jesus said this, one of the officials nearby struck him in the face. "Is this the way you answer the high priest?" he demanded.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:""If I said something wrong," Jesus replied, "testify as to what is wrong. But if I spoke the truth, why did you strike me?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Annas sent him, still bound, to Caiaphas the high priest.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"As Simon Peter stood warming himself, he was asked, "You are not one of his disciples, are you?" He denied it, saying, "I am not."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"One of the high priest's servants, a relative of the man whose ear Peter had cut off, challenged him, "Didn't I see you with him in the olive grove?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Again Peter denied it, and at that moment a rooster began to crow.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then the Jews led Jesus from Caiaphas to the palace of the Roman governor. By now it was early morning, and to avoid ceremonial uncleanness the Jews did not enter the palace; they wanted to be able to eat the Passover.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So Pilate came out to them and asked, "What charges are you bringing against this man?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:30, Page:1, Kor:"", Chn:"", Eng:""If he were not a criminal," they replied, "we would not have handed him over to you."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Pilate said, "Take him yourselves and judge him by your own law." "But we have no right to execute anyone," the Jews objected.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:32, Page:1, Kor:"", Chn:"", Eng:"This happened so that the words Jesus had spoken indicating the kind of death he was going to die would be fulfilled.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Pilate then went back inside the palace, summoned Jesus and asked him, "Are you the king of the Jews?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:34, Page:1, Kor:"", Chn:"", Eng:""Is that your own idea," Jesus asked, "or did others talk to you about me?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:35, Page:1, Kor:"", Chn:"", Eng:""Am I a Jew?" Pilate replied. "It was your people and your chief priests who handed you over to me. What is it you have done?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Jesus said, "My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:37, Page:1, Kor:"", Chn:"", Eng:""You are a king, then!" said Pilate. Jesus answered, "You are right in saying I am a king. In fact, for this reason I was born, and for this I came into the world, to testify to the truth. Everyone on the side of truth listens to me."", Ind:""},
+  {Bible:"John", Chapter:18, Verse:38, Page:1, Kor:"", Chn:"", Eng:""What is truth?" Pilate asked. With this he went out again to the Jews and said, "I find no basis for a charge against him.", Ind:""},
+  {Bible:"John", Chapter:18, Verse:39, Page:1, Kor:"", Chn:"", Eng:"But it is your custom for me to release to you one prisoner at the time of the Passover. Do you want me to release 'the king of the Jews'?"", Ind:""},
+  {Bible:"John", Chapter:18, Verse:40, Page:1, Kor:"", Chn:"", Eng:"They shouted back, "No, not him! Give us Barabbas!" Now Barabbas had taken part in a rebellion.", Ind:""},
 ]);

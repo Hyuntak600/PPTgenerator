@@ -1,6 +1,31 @@
 // 여호수아 7장 · Joshua 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joshua",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joshua",7,26);
 BibleDB.add([
+  {Bible:"Joshua", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"But the Israelites acted unfaithfully in regard to the devoted things; Achan son of Carmi, the son of Zimri, the son of Zerah, of the tribe of Judah, took some of them. So the LORD'S anger burned against Israel.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now Joshua sent men from Jericho to Ai, which is near Beth Aven to the east of Bethel, and told them, "Go up and spy out the region." So the men went up and spied out Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When they returned to Joshua, they said, "Not all the people will have to go up against Ai. Send two or three thousand men to take it and do not weary all the people, for only a few men are there."", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So about three thousand men went up; but they were routed by the men of Ai,", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"who killed about thirty-six of them. They chased the Israelites from the city gate as far as the stone quarries and struck them down on the slopes. At this the hearts of the people melted and became like water.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Joshua tore his clothes and fell facedown to the ground before the ark of the LORD, remaining there till evening. The elders of Israel did the same, and sprinkled dust on their heads.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And Joshua said, "Ah, Sovereign LORD, why did you ever bring this people across the Jordan to deliver us into the hands of the Amorites to destroy us? If only we had been content to stay on the other side of the Jordan!", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"O Lord, what can I say, now that Israel has been routed by its enemies?", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The Canaanites and the other people of the country will hear about this and they will surround us and wipe out our name from the earth. What then will you do for your own great name?"", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Joshua, "Stand up! What are you doing down on your face?", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Israel has sinned; they have violated my covenant, which I commanded them to keep. They have taken some of the devoted things; they have stolen, they have lied, they have put them with their own possessions.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"That is why the Israelites cannot stand against their enemies; they turn their backs and run because they have been made liable to destruction. I will not be with you anymore unless you destroy whatever among you is devoted to destruction.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Go, consecrate the people. Tell them, 'Consecrate yourselves in preparation for tomorrow; for this is what the LORD, the God of Israel, says: That which is devoted is among you, O Israel. You cannot stand against your enemies until you remove it.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'In the morning, present yourselves tribe by tribe. The tribe that the LORD takes shall come forward clan by clan; the clan that the LORD takes shall come forward family by family; and the family that the LORD takes shall come forward man by man.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He who is caught with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of the LORD and has done a disgraceful thing in Israel!'"", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Early the next morning Joshua had Israel come forward by tribes, and Judah was taken.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The clans of Judah came forward, and he took the Zerahites. He had the clan of the Zerahites come forward by families, and Zimri was taken.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Joshua had his family come forward man by man, and Achan son of Carmi, the son of Zimri, the son of Zerah, of the tribe of Judah, was taken.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then Joshua said to Achan, "My son, give glory to the LORD, the God of Israel, and give him the praise. Tell me what you have done; do not hide it from me."", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Achan replied, "It is true! I have sinned against the LORD, the God of Israel. This is what I have done:", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When I saw in the plunder a beautiful robe from Babylonia, two hundred shekels of silver and a wedge of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath."", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So Joshua sent messengers, and they ran to the tent, and there it was, hidden in his tent, with the silver underneath.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They took the things from the tent, brought them to Joshua and all the Israelites and spread them out before the LORD.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the robe, the gold wedge, his sons and daughters, his cattle, donkeys and sheep, his tent and all that he had, to the Valley of Achor.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Joshua said, "Why have you brought this trouble on us? The LORD will bring trouble on you today." Then all Israel stoned him, and after they had stoned the rest, they burned them.", Ind:""},
+  {Bible:"Joshua", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Over Achan they heaped up a large pile of rocks, which remains to this day. Then the LORD turned from his fierce anger. Therefore that place has been called the Valley of Achor ever since.", Ind:""},
 ]);

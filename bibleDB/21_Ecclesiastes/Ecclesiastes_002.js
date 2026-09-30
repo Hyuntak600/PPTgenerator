@@ -1,6 +1,31 @@
 // 전도서 2장 · Ecclesiastes 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ecclesiastes",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ecclesiastes",2,26);
 BibleDB.add([
+  {Bible:"Ecclesiastes", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I thought in my heart, "Come now, I will test you with pleasure to find out what is good." But that also proved to be meaningless.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Laughter," I said, "is foolish. And what does pleasure accomplish?"", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I tried cheering myself with wine, and embracing folly--my mind still guiding me with wisdom. I wanted to see what was worthwhile for men to do under heaven during the few days of their lives.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I undertook great projects: I built houses for myself and planted vineyards.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I made gardens and parks and planted all kinds of fruit trees in them.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I made reservoirs to water groves of flourishing trees.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired men and women singers, and a harem as well--the delights of the heart of man.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I denied myself nothing my eyes desired; I refused my heart no pleasure. My heart took delight in all my work, and this was the reward for all my labor.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Yet when I surveyed all that my hands had done and what I had toiled to achieve, everything was meaningless, a chasing after the wind; nothing was gained under the sun.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then I turned my thoughts to consider wisdom, and also madness and folly. What more can the king's successor do than what has already been done?", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I saw that wisdom is better than folly, just as light is better than darkness.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The wise man has eyes in his head, while the fool walks in the darkness; but I came to realize that the same fate overtakes them both.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then I thought in my heart, "The fate of the fool will overtake me also. What then do I gain by being wise?" I said in my heart, "This too is meaningless."", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For the wise man, like the fool, will not be long remembered; in days to come both will be forgotten. Like the fool, the wise man too must die!", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"And who knows whether he will be a wise man or a fool? Yet he will have control over all the work into which I have poured my effort and skill under the sun. This too is meaningless.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So my heart began to despair over all my toilsome labor under the sun.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For a man may do his work with wisdom, knowledge and skill, and then he must leave all he owns to someone who has not worked for it. This too is meaningless and a great misfortune.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"What does a man get for all the toil and anxious striving with which he labors under the sun?", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"All his days his work is pain and grief; even at night his mind does not rest. This too is meaningless.", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"A man can do nothing better than to eat and drink and find satisfaction in his work. This too, I see, is from the hand of God,", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"for without him, who can eat or find enjoyment?", Ind:""},
+  {Bible:"Ecclesiastes", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"To the man who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.", Ind:""},
 ]);

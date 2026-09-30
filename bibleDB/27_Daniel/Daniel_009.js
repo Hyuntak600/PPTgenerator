@@ -1,6 +1,32 @@
 // 다니엘 9장 · Daniel 9
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Daniel",9,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Daniel",9,27);
 BibleDB.add([
+  {Bible:"Daniel", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the first year of Darius son of Xerxes (a Mede by descent), who was made ruler over the Babylonian kingdom--", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"in the first year of his reign, I, Daniel, understood from the Scriptures, according to the word of the LORD given to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So I turned to the Lord God and pleaded with him in prayer and petition, in fasting, and in sackcloth and ashes.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I prayed to the LORD my God and confessed: "O Lord, the great and awesome God, who keeps his covenant of love with all who love him and obey his commands,", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"we have sinned and done wrong. We have been wicked and have rebelled; we have turned away from your commands and laws.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:"We have not listened to your servants the prophets, who spoke in your name to our kings, our princes and our fathers, and to all the people of the land.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Lord, you are righteous, but this day we are covered with shame--the men of Judah and people of Jerusalem and all Israel, both near and far, in all the countries where you have scattered us because of our unfaithfulness to you.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"O LORD, we and our kings, our princes and our fathers are covered with shame because we have sinned against you.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The Lord our God is merciful and forgiving, even though we have rebelled against him;", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"we have not obeyed the LORD our God or kept the laws he gave us through his servants the prophets.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"All Israel has transgressed your law and turned away, refusing to obey you. "Therefore the curses and sworn judgments written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against you.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You have fulfilled the words spoken against us and against our rulers by bringing upon us great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our sins and giving attention to your truth.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD did not hesitate to bring the disaster upon us, for the LORD our God is righteous in everything he does; yet we have not obeyed him.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Now, O Lord our God, who brought your people out of Egypt with a mighty hand and who made for yourself a name that endures to this day, we have sinned, we have done wrong.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"O Lord, in keeping with all your righteous acts, turn away your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our fathers have made Jerusalem and your people an object of scorn to all those around us.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Now, our God, hear the prayers and petitions of your servant. For your sake, O Lord, look with favor on your desolate sanctuary.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Give ear, O God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"O Lord, listen! O Lord, forgive! O Lord, hear and act! For your sake, O my God, do not delay, because your city and your people bear your Name."", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"While I was speaking and praying, confessing my sin and the sin of my people Israel and making my request to the LORD my God for his holy hill--", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"while I was still in prayer, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"He instructed me and said to me, "Daniel, I have now come to give you insight and understanding.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"As soon as you began to pray, an answer was given, which I have come to tell you, for you are highly esteemed. Therefore, consider the message and understand the vision:", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Seventy 'sevens' are decreed for your people and your holy city to finish transgression, to put an end to sin, to atone for wickedness, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the most holy.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Know and understand this: From the issuing of the decree to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven 'sevens,' and sixty-two 'sevens.' It will be rebuilt with streets and a trench, but in times of trouble.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"After the sixty-two 'sevens,' the Anointed One will be cut off and will have nothing. The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: War will continue until the end, and desolations have been decreed.", Ind:""},
+  {Bible:"Daniel", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He will confirm a covenant with many for one 'seven.' In the middle of the 'seven' he will put an end to sacrifice and offering. And on a wing of the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him."", Ind:""},
 ]);

@@ -1,0 +1,33 @@
+// 열왕기상 9장 · Kings1 9
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Kings1",9,28);
+BibleDB.add([
+  {Bible:"Kings1", Chapter:9, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Solomon had finished building the temple of the LORD and the royal palace, and had achieved all he had desired to do,", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:2, Page:1, Kor:"", Chn:"", Eng:"the LORD appeared to him a second time, as he had appeared to him at Gibeon.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The LORD said to him: "I have heard the prayer and plea you have made before me; I have consecrated this temple, which you have built, by putting my Name there forever. My eyes and my heart will always be there.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:4, Page:1, Kor:"", Chn:"", Eng:""As for you, if you walk before me in integrity of heart and uprightness, as David your father did, and do all I command and observe my decrees and laws,", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I will establish your royal throne over Israel forever, as I promised David your father when I said, 'You shall never fail to have a man on the throne of Israel.'", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:6, Page:1, Kor:"", Chn:"", Eng:""But if you or your sons turn away from me and do not observe the commands and decrees I have given you and go off to serve other gods and worship them,", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:7, Page:1, Kor:"", Chn:"", Eng:"then I will cut off Israel from the land I have given them and will reject this temple I have consecrated for my Name. Israel will then become a byword and an object of ridicule among all peoples.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And though this temple is now imposing, all who pass by will be appalled and will scoff and say, 'Why has the LORD done such a thing to this land and to this temple?'", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:9, Page:1, Kor:"", Chn:"", Eng:"People will answer, 'Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, worshiping and serving them--that is why the LORD brought all this disaster on them.'"", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:10, Page:1, Kor:"", Chn:"", Eng:"At the end of twenty years, during which Solomon built these two buildings--the temple of the LORD and the royal palace--", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:11, Page:1, Kor:"", Chn:"", Eng:"King Solomon gave twenty towns in Galilee to Hiram king of Tyre, because Hiram had supplied him with all the cedar and pine and gold he wanted.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But when Hiram went from Tyre to see the towns that Solomon had given him, he was not pleased with them.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:13, Page:1, Kor:"", Chn:"", Eng:""What kind of towns are these you have given me, my brother?" he asked. And he called them the Land of Cabul, a name they have to this day.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Now Hiram had sent to the king 120 talents of gold.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Here is the account of the forced labor King Solomon conscripted to build the LORD'S temple, his own palace, the supporting terraces, the wall of Jerusalem, and Hazor, Megiddo and Gezer.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:16, Page:1, Kor:"", Chn:"", Eng:"(Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire. He killed its Canaanite inhabitants and then gave it as a wedding gift to his daughter, Solomon's wife.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And Solomon rebuilt Gezer.) He built up Lower Beth Horon,", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Baalath, and Tadmor in the desert, within his land,", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:19, Page:1, Kor:"", Chn:"", Eng:"as well as all his store cities and the towns for his chariots and for his horses--whatever he desired to build in Jerusalem, in Lebanon and throughout all the territory he ruled.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:20, Page:1, Kor:"", Chn:"", Eng:"All the people left from the Amorites, Hittites, Perizzites, Hivites and Jebusites (these peoples were not Israelites),", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:21, Page:1, Kor:"", Chn:"", Eng:"that is, their descendants remaining in the land, whom the Israelites could not exterminate--these Solomon conscripted for his slave labor force, as it is to this day.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But Solomon did not make slaves of any of the Israelites; they were his fighting men, his government officials, his officers, his captains, and the commanders of his chariots and charioteers.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They were also the chief officials in charge of Solomon's projects--550 officials supervising the men who did the work.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:24, Page:1, Kor:"", Chn:"", Eng:"After Pharaoh's daughter had come up from the City of David to the palace Solomon had built for her, he constructed the supporting terraces.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Three times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the LORD, burning incense before the LORD along with them, and so fulfilled the temple obligations.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:26, Page:1, Kor:"", Chn:"", Eng:"King Solomon also built ships at Ezion Geber, which is near Elath in Edom, on the shore of the Red Sea.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And Hiram sent his men--sailors who knew the sea--to serve in the fleet with Solomon's men.", Ind:""},
+  {Bible:"Kings1", Chapter:9, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They sailed to Ophir and brought back 420 talents of gold, which they delivered to King Solomon.", Ind:""},
+]);

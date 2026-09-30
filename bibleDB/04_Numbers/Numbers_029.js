@@ -1,6 +1,45 @@
 // 민수기 29장 · Numbers 29
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",29,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",29,40);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:29, Verse:1, Page:1, Kor:"", Chn:"", Eng:""'On the first day of the seventh month hold a sacred assembly and do no regular work. It is a day for you to sound the trumpets.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:2, Page:1, Kor:"", Chn:"", Eng:"As an aroma pleasing to the LORD, prepare a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:3, Page:1, Kor:"", Chn:"", Eng:"With the bull prepare a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, two-tenths;", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and with each of the seven lambs, one-tenth.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering to make atonement for you.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:6, Page:1, Kor:"", Chn:"", Eng:"These are in addition to the monthly and daily burnt offerings with their grain offerings and drink offerings as specified. They are offerings made to the LORD by fire--a pleasing aroma.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'On the tenth day of this seventh month hold a sacred assembly. You must deny yourselves and do no work.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Present as an aroma pleasing to the LORD a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:9, Page:1, Kor:"", Chn:"", Eng:"With the bull prepare a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, two-tenths;", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and with each of the seven lambs, one-tenth.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the sin offering for atonement and the regular burnt offering with its grain offering, and their drink offerings.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'On the fifteenth day of the seventh month, hold a sacred assembly and do no regular work. Celebrate a festival to the LORD for seven days.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Present an offering made by fire as an aroma pleasing to the LORD, a burnt offering of thirteen young bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:14, Page:1, Kor:"", Chn:"", Eng:"With each of the thirteen bulls prepare a grain offering of three-tenths of an ephah of fine flour mixed with oil; with each of the two rams, two-tenths;", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:15, Page:1, Kor:"", Chn:"", Eng:"and with each of the fourteen lambs, one-tenth.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'On the second day prepare twelve young bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:18, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering, and their drink offerings.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'On the third day prepare eleven bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:21, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:23, Page:1, Kor:"", Chn:"", Eng:""'On the fourth day prepare ten bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:24, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:26, Page:1, Kor:"", Chn:"", Eng:""'On the fifth day prepare nine bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:27, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:29, Page:1, Kor:"", Chn:"", Eng:""'On the sixth day prepare eight bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:30, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:32, Page:1, Kor:"", Chn:"", Eng:""'On the seventh day prepare seven bulls, two rams and fourteen male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:33, Page:1, Kor:"", Chn:"", Eng:"With the bulls, rams and lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:35, Page:1, Kor:"", Chn:"", Eng:""'On the eighth day hold an assembly and do no regular work.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Present an offering made by fire as an aroma pleasing to the LORD, a burnt offering of one bull, one ram and seven male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:37, Page:1, Kor:"", Chn:"", Eng:"With the bull, the ram and the lambs, prepare their grain offerings and drink offerings according to the number specified.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:38, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:39, Page:1, Kor:"", Chn:"", Eng:""'In addition to what you vow and your freewill offerings, prepare these for the LORD at your appointed feasts: your burnt offerings, grain offerings, drink offerings and fellowship offerings.'"", Ind:""},
+  {Bible:"Numbers", Chapter:29, Verse:40, Page:1, Kor:"", Chn:"", Eng:"Moses told the Israelites all that the LORD commanded him.", Ind:""},
 ]);

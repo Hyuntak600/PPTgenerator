@@ -1,6 +1,34 @@
 // 신명기 3장 · Deuteronomy 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",3,29);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Next we turned and went up along the road toward Bashan, and Og king of Bashan with his whole army marched out to meet us in battle at Edrei.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me, "Do not be afraid of him, for I have handed him over to you with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So the LORD our God also gave into our hands Og king of Bashan and all his army. We struck them down, leaving no survivors.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"At that time we took all his cities. There was not one of the sixty cities that we did not take from them--the whole region of Argob, Og's kingdom in Bashan.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"All these cities were fortified with high walls and with gates and bars, and there were also a great many unwalled villages.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"We completely destroyed them, as we had done with Sihon king of Heshbon, destroying every city--men, women and children.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But all the livestock and the plunder from their cities we carried off for ourselves.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So at that time we took from these two kings of the Amorites the territory east of the Jordan, from the Arnon Gorge as far as Mount Hermon.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"(Hermon is called Sirion by the Sidonians; the Amorites call it Senir.)", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"We took all the towns on the plateau, and all Gilead, and all Bashan as far as Salecah and Edrei, towns of Og's kingdom in Bashan.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"(Only Og king of Bashan was left of the remnant of the Rephaites. His bed was made of iron and was more than thirteen feet long and six feet wide. It is still in Rabbah of the Ammonites.)", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Of the land that we took over at that time, I gave the Reubenites and the Gadites the territory north of Aroer by the Arnon Gorge, including half the hill country of Gilead, together with its towns.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The rest of Gilead and also all of Bashan, the kingdom of Og, I gave to the half tribe of Manasseh. (The whole region of Argob in Bashan used to be known as a land of the Rephaites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Jair, a descendant of Manasseh, took the whole region of Argob as far as the border of the Geshurites and the Maacathites; it was named after him, so that to this day Bashan is called Havvoth Jair.)", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And I gave Gilead to Makir.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But to the Reubenites and the Gadites I gave the territory extending from Gilead down to the Arnon Gorge (the middle of the gorge being the border) and out to the Jabbok River, which is the border of the Ammonites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Its western border was the Jordan in the Arabah, from Kinnereth to the Sea of the Arabah (the Salt Sea), below the slopes of Pisgah.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I commanded you at that time: "The LORD your God has given you this land to take possession of it. But all your able-bodied men, armed for battle, must cross over ahead of your brother Israelites.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"However, your wives, your children and your livestock (I know you have much livestock) may stay in the towns I have given you,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"until the LORD gives rest to your brothers as he has to you, and they too have taken over the land that the LORD your God is giving them, across the Jordan. After that, each of you may go back to the possession I have given you."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"At that time I commanded Joshua: "You have seen with your own eyes all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms over there where you are going.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not be afraid of them; the LORD your God himself will fight for you."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"At that time I pleaded with the LORD:", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:""O Sovereign LORD, you have begun to show to your servant your greatness and your strong hand. For what god is there in heaven or on earth who can do the deeds and mighty works you do?", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Let me go over and see the good land beyond the Jordan--that fine hill country and Lebanon."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But because of you the LORD was angry with me and would not listen to me. "That is enough," the LORD said. "Do not speak to me anymore about this matter.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Go up to the top of Pisgah and look west and north and south and east. Look at the land with your own eyes, since you are not going to cross this Jordan.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"But commission Joshua, and encourage and strengthen him, for he will lead this people across and will cause them to inherit the land that you will see."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"So we stayed in the valley near Beth Peor.", Ind:""},
 ]);

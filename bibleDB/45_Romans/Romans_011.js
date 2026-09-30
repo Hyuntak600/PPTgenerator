@@ -1,6 +1,41 @@
 // 로마서 11장 · Romans 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",11,36);
 BibleDB.add([
+  {Bible:"Romans", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"God did not reject his people, whom he foreknew. Don't you know what the Scripture says in the passage about Elijah--how he appealed to God against Israel:", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me"?", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And what was God's answer to him? "I have reserved for myself seven thousand who have not bowed the knee to Baal."", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So too, at the present time there is a remnant chosen by grace.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And if by grace, then it is no longer by works; if it were, grace would no longer be grace.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What then? What Israel sought so earnestly it did not obtain, but the elect did. The others were hardened,", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"as it is written: "God gave them a spirit of stupor, eyes so that they could not see and ears so that they could not hear, to this very day."", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And David says: "May their table become a snare and a trap, a stumbling block and a retribution for them.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"May their eyes be darkened so they cannot see, and their backs be bent forever."", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Again I ask: Did they stumble so as to fall beyond recovery? Not at all! Rather, because of their transgression, salvation has come to the Gentiles to make Israel envious.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But if their transgression means riches for the world, and their loss means riches for the Gentiles, how much greater riches will their fullness bring!", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I make much of my ministry", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"in the hope that I may somehow arouse my own people to envy and save some of them.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If the part of the dough offered as firstfruits is holy, then the whole batch is holy; if the root is holy, so are the branches.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"If some of the branches have been broken off, and you, though a wild olive shoot, have been grafted in among the others and now share in the nourishing sap from the olive root,", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"do not boast over those branches. If you do, consider this: You do not support the root, but the root supports you.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You will say then, "Branches were broken off so that I could be grafted in."", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Granted. But they were broken off because of unbelief, and you stand by faith. Do not be arrogant, but be afraid.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For if God did not spare the natural branches, he will not spare you either.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Consider therefore the kindness and sternness of God: sternness to those who fell, but kindness to you, provided that you continue in his kindness. Otherwise, you also will be cut off.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"After all, if you were cut out of an olive tree that is wild by nature, and contrary to nature were grafted into a cultivated olive tree, how much more readily will these, the natural branches, be grafted into their own olive tree!", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I do not want you to be ignorant of this mystery, brothers, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And so all Israel will be saved, as it is written: "The deliverer will come from Zion; he will turn godlessness away from Jacob.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And this is my covenant with them when I take away their sins."", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"As far as the gospel is concerned, they are enemies on your account; but as far as election is concerned, they are loved on account of the patriarchs,", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"for God's gifts and his call are irrevocable.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"so they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For God has bound all men over to disobedience so that he may have mercy on them all.", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:34, Page:1, Kor:"", Chn:"", Eng:""Who has known the mind of the Lord? Or who has been his counselor?"", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:35, Page:1, Kor:"", Chn:"", Eng:""Who has ever given to God, that God should repay him?"", Ind:""},
+  {Bible:"Romans", Chapter:11, Verse:36, Page:1, Kor:"", Chn:"", Eng:"For from him and through him and to him are all things. To him be the glory forever! Amen.", Ind:""},
 ]);

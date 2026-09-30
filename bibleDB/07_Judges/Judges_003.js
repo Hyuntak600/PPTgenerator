@@ -1,6 +1,36 @@
 // 사사기 3장 · Judges 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",3,31);
 BibleDB.add([
+  {Bible:"Judges", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are the nations the LORD left to test all those Israelites who had not experienced any of the wars in Canaan", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"(he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience):", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites living in the Lebanon mountains from Mount Baal Hermon to Lebo Hamath.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They were left to test the Israelites to see whether they would obey the LORD'S commands, which he had given their forefathers through Moses.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They took their daughters in marriage and gave their own daughters to their sons, and served their gods.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The Israelites did evil in the eyes of the LORD; they forgot the LORD their God and served the Baals and the Asherahs.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The anger of the LORD burned against Israel so that he sold them into the hands of Cushan-Rishathaim king of Aram Naharaim, to whom the Israelites were subject for eight years.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But when they cried out to the LORD, he raised up for them a deliverer, Othniel son of Kenaz, Caleb's younger brother, who saved them.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The Spirit of the LORD came upon him, so that he became Israel's judge and went to war. The LORD gave Cushan-Rishathaim king of Aram into the hands of Othniel, who overpowered him.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So the land had peace for forty years, until Othniel son of Kenaz died.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Once again the Israelites did evil in the eyes of the LORD, and because they did this evil the LORD gave Eglon king of Moab power over Israel.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Getting the Ammonites and Amalekites to join him, Eglon came and attacked Israel, and they took possession of the City of Palms.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The Israelites were subject to Eglon king of Moab for eighteen years.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Again the Israelites cried out to the LORD, and he gave them a deliverer--Ehud, a left-handed man, the son of Gera the Benjamite. The Israelites sent him with tribute to Eglon king of Moab.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Now Ehud had made a double-edged sword about a foot and a half long, which he strapped to his right thigh under his clothing.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He presented the tribute to Eglon king of Moab, who was a very fat man.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"After Ehud had presented the tribute, he sent on their way the men who had carried it.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"At the idols near Gilgal he himself turned back and said, "I have a secret message for you, O king." The king said, "Quiet!" And all his attendants left him.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Ehud then approached him while he was sitting alone in the upper room of his summer palace and said, "I have a message from God for you." As the king rose from his seat,", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king's belly.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Even the handle sank in after the blade, which came out his back. Ehud did not pull the sword out, and the fat closed in over it.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Then Ehud went out to the porch; he shut the doors of the upper room behind him and locked them.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"After he had gone, the servants came and found the doors of the upper room locked. They said, "He must be relieving himself in the inner room of the house."", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They waited to the point of embarrassment, but when he did not open the doors of the room, they took a key and unlocked them. There they saw their lord fallen to the floor, dead.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"While they waited, Ehud got away. He passed by the idols and escaped to Seirah.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"When he arrived there, he blew a trumpet in the hill country of Ephraim, and the Israelites went down with him from the hills, with him leading them.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Follow me," he ordered, "for the LORD has given Moab, your enemy, into your hands." So they followed him down and, taking possession of the fords of the Jordan that led to Moab, they allowed no one to cross over.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"At that time they struck down about ten thousand Moabites, all vigorous and strong; not a man escaped.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:30, Page:1, Kor:"", Chn:"", Eng:"That day Moab was made subject to Israel, and the land had peace for eighty years.", Ind:""},
+  {Bible:"Judges", Chapter:3, Verse:31, Page:1, Kor:"", Chn:"", Eng:"After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.", Ind:""},
 ]);

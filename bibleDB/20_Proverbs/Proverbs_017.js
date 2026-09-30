@@ -1,6 +1,33 @@
 // 잠언 17장 · Proverbs 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",17,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",17,28);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Better a dry crust with peace and quiet than a house full of feasting, with strife.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"A wise servant will rule over a disgraceful son, and will share the inheritance as one of the brothers.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The crucible for silver and the furnace for gold, but the LORD tests the heart.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"A wicked man listens to evil lips; a liar pays attention to a malicious tongue.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He who mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Children's children are a crown to the aged, and parents are the pride of their children.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Arrogant lips are unsuited to a fool--how much worse lying lips to a ruler!", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:8, Page:1, Kor:"", Chn:"", Eng:"A bribe is a charm to the one who gives it; wherever he turns, he succeeds.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He who covers over an offense promotes love, but whoever repeats the matter separates close friends.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A rebuke impresses a man of discernment more than a hundred lashes a fool.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"An evil man is bent only on rebellion; a merciless official will be sent against him.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Better to meet a bear robbed of her cubs than a fool in his folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"If a man pays back evil for good, evil will never leave his house.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Acquitting the guilty and condemning the innocent--the LORD detests them both.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Of what use is money in the hand of a fool, since he has no desire to get wisdom?", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A friend loves at all times, and a brother is born for adversity.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"A man lacking in judgment strikes hands in pledge and puts up security for his neighbor.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He who loves a quarrel loves sin; he who builds a high gate invites destruction.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:20, Page:1, Kor:"", Chn:"", Eng:"A man of perverse heart does not prosper; he whose tongue is deceitful falls into trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:21, Page:1, Kor:"", Chn:"", Eng:"To have a fool for a son brings grief; there is no joy for the father of a fool.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A cheerful heart is good medicine, but a crushed spirit dries up the bones.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A wicked man accepts a bribe in secret to pervert the course of justice.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:24, Page:1, Kor:"", Chn:"", Eng:"A discerning man keeps wisdom in view, but a fool's eyes wander to the ends of the earth.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A foolish son brings grief to his father and bitterness to the one who bore him.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:26, Page:1, Kor:"", Chn:"", Eng:"It is not good to punish an innocent man, or to flog officials for their integrity.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:27, Page:1, Kor:"", Chn:"", Eng:"A man of knowledge uses words with restraint, and a man of understanding is even-tempered.", Ind:""},
+  {Bible:"Proverbs", Chapter:17, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue.", Ind:""},
 ]);

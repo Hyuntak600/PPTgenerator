@@ -1,6 +1,33 @@
 // 잠언 28장 · Proverbs 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",28,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",28,28);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The wicked man flees though no one pursues, but the righteous are as bold as a lion.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When a country is rebellious, it has many rulers, but a man of understanding and knowledge maintains order.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A ruler who oppresses the poor is like a driving rain that leaves no crops.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Those who forsake the law praise the wicked, but those who keep the law resist them.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Evil men do not understand justice, but those who seek the LORD understand it fully.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Better a poor man whose walk is blameless than a rich man whose ways are perverse.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He who keeps the law is a discerning son, but a companion of gluttons disgraces his father.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He who increases his wealth by exorbitant interest amasses it for another, who will be kind to the poor.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If anyone turns a deaf ear to the law, even his prayers are detestable.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He who leads the upright along an evil path will fall into his own trap, but the blameless will receive a good inheritance.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:11, Page:1, Kor:"", Chn:"", Eng:"A rich man may be wise in his own eyes, but a poor man who has discernment sees through him.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When the righteous triumph, there is great elation; but when the wicked rise to power, men go into hiding.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man who always fears the LORD, but he who hardens his heart falls into trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Like a roaring lion or a charging bear is a wicked man ruling over a helpless people.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:"A tyrannical ruler lacks judgment, but he who hates ill-gotten gain will enjoy a long life.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A man tormented by the guilt of murder will be a fugitive till death; let no one support him.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He whose walk is blameless is kept safe, but he whose ways are perverse will suddenly fall.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"A faithful man will be richly blessed, but one eager to get rich will not go unpunished.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"To show partiality is not good--yet a man will do wrong for a piece of bread.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A stingy man is eager to get rich and is unaware that poverty awaits him.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He who rebukes a man will in the end gain more favor than he who has a flattering tongue.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He who robs his father or mother and says, "It's not wrong"--he is partner to him who destroys.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A greedy man stirs up dissension, but he who trusts in the LORD will prosper.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He who trusts in himself is a fool, but he who walks in wisdom is kept safe.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses.", Ind:""},
+  {Bible:"Proverbs", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive.", Ind:""},
 ]);

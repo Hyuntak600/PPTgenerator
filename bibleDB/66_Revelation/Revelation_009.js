@@ -1,6 +1,27 @@
 // 요한계시록 9장 · Revelation 9
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Revelation",9,0);
+BibleDB.ref("Revelation",9,21);
 // [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
 BibleDB.add([
+  {Bible:"Revelation", Chapter:9, Verse:1, Page:1, Kor:"다섯째 천사가 나팔을 불었습니다. 내가 보니, 하늘에서 땅에 떨어진 별이 하나 있는데, 그 별은 a아비소스를 여는 열쇠를 받았습니다.(a '밑바닥이 없는 깊은 곳'을 일컫는 그리스어)", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:2, Page:1, Kor:"그 별이 아비소스를 여니, 거기에서 큰 용광로의 연기와 같은 연기가 올라왔습니다. 그래서 해와 하늘이 그 구덩이에서 나온 연기 때문에 어두워졌습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:3, Page:1, Kor:"그리고 그 연기 속에서 메뚜기들이 나와서 땅에 퍼졌습니다. 그것들은, 땅에 있는 전갈이 가진 것과 같은 권세를 받아 가지고 있었습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:4, Page:1, Kor:"그것들은, 땅에 있는 풀이나 푸성귀나 나무는 하나도 해하지 말고, 이마에 하나님의 도장이 찍히지 않은 사람만을 해하라는 명령을 받았습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:5, Page:1, Kor:"그러나 그들에게는, 사람들을 죽이지는 말고, 다섯 달 동안 괴롭게만 하라는 허락이 내렸습니다. 그것들이 주는 고통은 마치 전갈이 사람을 쏠 때와 같은 고통이었습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:6, Page:1, Kor:"그 기간에는 그 사람들이 죽으려고 애써도 죽지 못하고, 죽기를 원해도 죽음이 그들을 피하여 달아날 것입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:7, Page:1, Kor:"○그 메뚜기들의 모양은 전투 채비를 한 말들과 같고, 머리에는 금 면류관과 같은 것을 쓰고, 그 얼굴은 사람의 얼굴과 같았습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:8, Page:1, Kor:"그리고 그것들은, 여자의 머리털 같은 머리털이 있고, 이빨은 사자의 이빨과 같고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:9, Page:1, Kor:"쇠로 된 가슴막이와 같은 가슴막이를 두르고, 그 날개 소리는 마치 전쟁터로 내닫는 많은 말이 끄는 병거 소리와 같았습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:10, Page:1, Kor:"그것들은 전갈과 같은 꼬리와 침이 달려 있었는데, 그 꼬리에는 다섯 달 동안 사람을 해할 수 있는 권세가 있었습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:11, Page:1, Kor:"그것들은 a아비소스의 사자를 자기들의 왕으로 떠받들었는데, 그 이름은 히브리 말로는 b아바돈이요, 그리스 말로는 c아볼루온입니다.(a '밑바닥이 없는 깊은 곳'을 일컫는 그리스어 b '파멸' c '파괴자')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:12, Page:1, Kor:"○첫째 재앙이 지나갔습니다. 그러나 아직도 두 가지 재앙이 더 닥쳐올 것입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:13, Page:1, Kor:"○여섯째 천사가 나팔을 불었습니다. 나는 하나님 앞에 있는 금제단의 d네 뿔에서 울려 나오는 음성을 들었습니다.(d 다른 고대 사본들에는 '뿔들')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:14, Page:1, Kor:"그것은 나팔을 가진 여섯째 천사에게 \"큰 강 유프라테스에 매여 있는 네 천사를 풀어놓아 주어라\" 하는 음성이었습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:15, Page:1, Kor:"그래서 그 네 천사가 풀려났습니다. 그들은 사람의 삼분의 일을 죽이기 위하여, 그 해, 그 달, 그 날, 그 때에 맞추어 예비된 이들입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:16, Page:1, Kor:"내가 들은 바로는 그 천사들이 거느린 기마대의 수는 이억이나 된다는 것입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:17, Page:1, Kor:"나는 이러한 환상 가운데서 말들과 그 위에 탄 사람들을 보았는데, 사람들은 화홍색과 청색과 유황색 가슴막이를 둘렀고, 말들은 머리가 사자의 머리와 같으며, 입에서는 불과 연기와 유황을 내뿜고 있었습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:18, Page:1, Kor:"그 입에서 나오는 불과 연기와 유황, 이 세 가지 재앙으로 사람의 삼분의 일이 죽임을 당하였습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:19, Page:1, Kor:"그 말들의 힘은 입과 꼬리에 있는데, 꼬리는 뱀과 같고, 또 꼬리에 머리가 달려 있어서, 그 머리로 사람을 해쳤습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:20, Page:1, Kor:"○이런 재앙에서 죽지 않고 살아 남은 사람이 자기 손으로 한 일들을 회개하지 않고, 오히려 귀신들에게나, 또는 보거나 듣거나 걸어 다니지 못하는, 금이나 은이나 구리나 돌이나 나무로 만든 우상들에게, 절하기를 그치지 않았습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Revelation", Chapter:9, Verse:21, Page:1, Kor:"그들은 또한 살인과 점치는 일과 음행과 도둑질을 회개하지 않았습니다.", Chn:"", Eng:"", Ind:""},
 ]);

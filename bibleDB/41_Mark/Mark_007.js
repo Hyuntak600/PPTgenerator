@@ -1,6 +1,42 @@
 // 마가복음 7장 · Mark 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Mark",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Mark",7,37);
 BibleDB.add([
+  {Bible:"Mark", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The Pharisees and some of the teachers of the law who had come from Jerusalem gathered around Jesus and", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"saw some of his disciples eating food with hands that were "unclean," that is, unwashed.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"(The Pharisees and all the Jews do not eat unless they give their hands a ceremonial washing, holding to the tradition of the elders.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When they come from the marketplace they do not eat unless they wash. And they observe many other traditions, such as the washing of cups, pitchers and kettles.)", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So the Pharisees and teachers of the law asked Jesus, "Why don't your disciples live according to the tradition of the elders instead of eating their food with 'unclean' hands?"", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He replied, "Isaiah was right when he prophesied about you hypocrites; as it is written: "'These people honor me with their lips, but their hearts are far from me.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They worship me in vain; their teachings are but rules taught by men.'", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You have let go of the commands of God and are holding on to the traditions of men."", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And he said to them: "You have a fine way of setting aside the commands of God in order to observe your own traditions!", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For Moses said, 'Honor your father and your mother,' and, 'Anyone who curses his father or mother must be put to death.'", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But you say that if a man says to his father or mother: 'Whatever help you might otherwise have received from me is Corban' (that is, a gift devoted to God),", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"then you no longer let him do anything for his father or mother.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that."", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Again Jesus called the crowd to him and said, "Listen to me, everyone, and understand this.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Nothing outside a man can make him 'unclean' by going into him. Rather, it is what comes out of a man that makes him 'unclean.'"", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"After he had left the crowd and entered the house, his disciples asked him about this parable.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Are you so dull?" he asked. "Don't you see that nothing that enters a man from the outside can make him 'unclean'?", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For it doesn't go into his heart but into his stomach, and then out of his body." (In saying this, Jesus declared all foods "clean.")", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He went on: "What comes out of a man is what makes him 'unclean.'", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For from within, out of men's hearts, come evil thoughts, sexual immorality, theft, murder, adultery,", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"greed, malice, deceit, lewdness, envy, slander, arrogance and folly.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"All these evils come from inside and make a man 'unclean.'"", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Jesus left that place and went to the vicinity of Tyre. He entered a house and did not want anyone to know it; yet he could not keep his presence secret.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In fact, as soon as she heard about him, a woman whose little daughter was possessed by an evil spirit came and fell at his feet.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:""First let the children eat all they want," he told her, "for it is not right to take the children's bread and toss it to their dogs."", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Yes, Lord," she replied, "but even the dogs under the table eat the children's crumbs."", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Then he told her, "For such a reply, you may go; the demon has left your daughter."", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:30, Page:1, Kor:"", Chn:"", Eng:"She went home and found her child lying on the bed, and the demon gone.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:32, Page:1, Kor:"", Chn:"", Eng:"There some people brought to him a man who was deaf and could hardly talk, and they begged him to place his hand on the man.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:33, Page:1, Kor:"", Chn:"", Eng:"After he took him aside, away from the crowd, Jesus put his fingers into the man's ears. Then he spit and touched the man's tongue.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He looked up to heaven and with a deep sigh said to him, "Ephphatha!" (which means, "Be opened!").", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:35, Page:1, Kor:"", Chn:"", Eng:"At this, the man's ears were opened, his tongue was loosened and he began to speak plainly.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it.", Ind:""},
+  {Bible:"Mark", Chapter:7, Verse:37, Page:1, Kor:"", Chn:"", Eng:"People were overwhelmed with amazement. "He has done everything well," they said. "He even makes the deaf hear and the mute speak."", Ind:""},
 ]);

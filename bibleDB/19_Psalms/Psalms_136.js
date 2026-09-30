@@ -1,6 +1,31 @@
 // 시편 136장 · Psalms 136
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",136,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",136,26);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:136, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, for he is good. His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the God of gods. His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the Lord of lords: His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:4, Page:1, Kor:"", Chn:"", Eng:"to him who alone does great wonders, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:5, Page:1, Kor:"", Chn:"", Eng:"who by his understanding made the heavens, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:6, Page:1, Kor:"", Chn:"", Eng:"who spread out the earth upon the waters, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:7, Page:1, Kor:"", Chn:"", Eng:"who made the great lights--His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:8, Page:1, Kor:"", Chn:"", Eng:"the sun to govern the day, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:9, Page:1, Kor:"", Chn:"", Eng:"the moon and stars to govern the night; His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:10, Page:1, Kor:"", Chn:"", Eng:"to him who struck down the firstborn of Egypt His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and brought Israel out from among them His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:12, Page:1, Kor:"", Chn:"", Eng:"with a mighty hand and outstretched arm; His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:13, Page:1, Kor:"", Chn:"", Eng:"to him who divided the Red Sea asunder His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and brought Israel through the midst of it, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:15, Page:1, Kor:"", Chn:"", Eng:"but swept Pharaoh and his army into the Red Sea; His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:16, Page:1, Kor:"", Chn:"", Eng:"to him who led his people through the desert, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:17, Page:1, Kor:"", Chn:"", Eng:"who struck down great kings, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:18, Page:1, Kor:"", Chn:"", Eng:"and killed mighty kings--His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Sihon king of the Amorites His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and Og king of Bashan--His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and gave their land as an inheritance, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:22, Page:1, Kor:"", Chn:"", Eng:"an inheritance to his servant Israel; His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:23, Page:1, Kor:"", Chn:"", Eng:"to the One who remembered us in our low estate His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and freed us from our enemies, His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:25, Page:1, Kor:"", Chn:"", Eng:"and who gives food to every creature. His love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:136, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the God of heaven. His love endures forever.", Ind:""},
 ]);

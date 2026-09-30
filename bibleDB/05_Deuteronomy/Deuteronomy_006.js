@@ -1,6 +1,30 @@
 // 신명기 6장 · Deuteronomy 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",6,25);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"These are the commands, decrees and laws the LORD your God directed me to teach you to observe in the land that you are crossing the Jordan to possess,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"so that you, your children and their children after them may fear the LORD your God as long as you live by keeping all his decrees and commands that I give you, and so that you may enjoy long life.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Hear, O Israel, and be careful to obey so that it may go well with you and that you may increase greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, promised you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Hear, O Israel: The LORD our God, the LORD is one.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Love the LORD your God with all your heart and with all your soul and with all your strength.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"These commandments that I give you today are to be upon your hearts.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Tie them as symbols on your hands and bind them on your foreheads.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Write them on the doorframes of your houses and on your gates.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God brings you into the land he swore to your fathers, to Abraham, Isaac and Jacob, to give you--a land with large, flourishing cities you did not build,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"houses filled with all kinds of good things you did not provide, wells you did not dig, and vineyards and olive groves you did not plant--then when you eat and are satisfied,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"be careful that you do not forget the LORD, who brought you out of Egypt, out of the land of slavery.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Fear the LORD your God, serve him only and take your oaths in his name.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Do not follow other gods, the gods of the peoples around you;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"for the LORD your God, who is among you, is a jealous God and his anger will burn against you, and he will destroy you from the face of the land.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Do not test the LORD your God as you did at Massah.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Be sure to keep the commands of the LORD your God and the stipulations and decrees he has given you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Do what is right and good in the LORD'S sight, so that it may go well with you and you may go in and take over the good land that the LORD promised on oath to your forefathers,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"thrusting out all your enemies before you, as the LORD said.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In the future, when your son asks you, "What is the meaning of the stipulations, decrees and laws the LORD our God has commanded you?"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"tell him: "We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Before our eyes the LORD sent miraculous signs and wonders--great and terrible--upon Egypt and Pharaoh and his whole household.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But he brought us out from there to bring us in and give us the land that he promised on oath to our forefathers.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The LORD commanded us to obey all these decrees and to fear the LORD our God, so that we might always prosper and be kept alive, as is the case today.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And if we are careful to obey all this law before the LORD our God, as he has commanded us, that will be our righteousness."", Ind:""},
 ]);

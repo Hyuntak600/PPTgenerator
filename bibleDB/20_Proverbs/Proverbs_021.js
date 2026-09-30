@@ -1,6 +1,36 @@
 // 잠언 21장 · Proverbs 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",21,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",21,31);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"All a man's ways seem right to him, but the LORD weighs the heart.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"To do what is right and just is more acceptable to the LORD than sacrifice.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Haughty eyes and a proud heart, the lamp of the wicked, are sin!", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The plans of the diligent lead to profit as surely as haste leads to poverty.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:"A fortune made by a lying tongue is a fleeting vapor and a deadly snare.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The violence of the wicked will drag them away, for they refuse to do what is right.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The way of the guilty is devious, but the conduct of the innocent is upright.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Better to live on a corner of the roof than share a house with a quarrelsome wife.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The wicked man craves evil; his neighbor gets no mercy from him.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When a mocker is punished, the simple gain wisdom; when a wise man is instructed, he gets knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The Righteous One takes note of the house of the wicked and brings the wicked to ruin.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:13, Page:1, Kor:"", Chn:"", Eng:"If a man shuts his ears to the cry of the poor, he too will cry out and not be answered.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:"A gift given in secret soothes anger, and a bribe concealed in the cloak pacifies great wrath.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When justice is done, it brings joy to the righteous but terror to evildoers.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:16, Page:1, Kor:"", Chn:"", Eng:"A man who strays from the path of understanding comes to rest in the company of the dead.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He who loves pleasure will become poor; whoever loves wine and oil will never be rich.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The wicked become a ransom for the righteous, and the unfaithful for the upright.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Better to live in a desert than with a quarrelsome and ill-tempered wife.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In the house of the wise are stores of choice food and oil, but a foolish man devours all he has.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He who pursues righteousness and love finds life, prosperity and honor.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A wise man attacks the city of the mighty and pulls down the stronghold in which they trust.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He who guards his mouth and his tongue keeps himself from calamity.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The proud and arrogant man--"Mocker" is his name; he behaves with overweening pride.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The sluggard's craving will be the death of him, because his hands refuse to work.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"All day long he craves for more, but the righteous give without sparing.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The sacrifice of the wicked is detestable--how much more so when brought with evil intent!", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A false witness will perish, and whoever listens to him will be destroyed forever.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:29, Page:1, Kor:"", Chn:"", Eng:"A wicked man puts up a bold front, but an upright man gives thought to his ways.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:30, Page:1, Kor:"", Chn:"", Eng:"There is no wisdom, no insight, no plan that can succeed against the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:21, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The horse is made ready for the day of battle, but victory rests with the LORD.", Ind:""},
 ]);

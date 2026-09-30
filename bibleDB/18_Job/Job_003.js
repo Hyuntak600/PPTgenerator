@@ -1,6 +1,31 @@
 // 욥기 3장 · Job 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",3,26);
 BibleDB.add([
+  {Bible:"Job", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After this, Job opened his mouth and cursed the day of his birth.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He said:", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:""May the day of my birth perish, and the night it was said, 'A boy is born!'", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"That day--may it turn to darkness; may God above not care about it; may no light shine upon it.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"May darkness and deep shadow claim it once more; may a cloud settle over it; may blackness overwhelm its light.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"That night--may thick darkness seize it; may it not be included among the days of the year nor be entered in any of the months.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"May that night be barren; may no shout of joy be heard in it.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"May those who curse days curse that day, those who are ready to rouse Leviathan.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"May its morning stars become dark; may it wait for daylight in vain and not see the first rays of dawn,", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"for it did not shut the doors of the womb on me to hide trouble from my eyes.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Why did I not perish at birth, and die as I came from the womb?", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Why were there knees to receive me and breasts that I might be nursed?", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For now I would be lying down in peace; I would be asleep and at rest", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"with kings and counselors of the earth, who built for themselves places now lying in ruins,", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"with rulers who had gold, who filled their houses with silver.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Or why was I not hidden in the ground like a stillborn child, like an infant who never saw the light of day?", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"There the wicked cease from turmoil, and there the weary are at rest.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Captives also enjoy their ease; they no longer hear the slave driver's shout.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The small and the great are there, and the slave is freed from his master.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Why is light given to those in misery, and life to the bitter of soul,", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"to those who long for death that does not come, who search for it more than for hidden treasure,", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"who are filled with gladness and rejoice when they reach the grave?", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Why is life given to a man whose way is hidden, whom God has hedged in?", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For sighing comes to me instead of food; my groans pour out like water.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"What I feared has come upon me; what I dreaded has happened to me.", Ind:""},
+  {Bible:"Job", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I have no peace, no quietness; I have no rest, but only turmoil."", Ind:""},
 ]);

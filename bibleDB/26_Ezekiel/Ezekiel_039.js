@@ -1,6 +1,34 @@
 // 에스겔 39장 · Ezekiel 39
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",39,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",39,29);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:39, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Son of man, prophesy against Gog and say: 'This is what the Sovereign LORD says: I am against you, O Gog, chief prince of Meshech and Tubal.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I will turn you around and drag you along. I will bring you from the far north and send you against the mountains of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then I will strike your bow from your left hand and make your arrows drop from your right hand.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:4, Page:1, Kor:"", Chn:"", Eng:"On the mountains of Israel you will fall, you and all your troops and the nations with you. I will give you as food to all kinds of carrion birds and to the wild animals.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You will fall in the open field, for I have spoken, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will send fire on Magog and on those who live in safety in the coastlands, and they will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'I will make known my holy name among my people Israel. I will no longer let my holy name be profaned, and the nations will know that I the LORD am the Holy One in Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:8, Page:1, Kor:"", Chn:"", Eng:"It is coming! It will surely take place, declares the Sovereign LORD. This is the day I have spoken of.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'Then those who live in the towns of Israel will go out and use the weapons for fuel and burn them up--the small and large shields, the bows and arrows, the war clubs and spears. For seven years they will use them for fuel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They will not need to gather wood from the fields or cut it from the forests, because they will use the weapons for fuel. And they will plunder those who plundered them and loot those who looted them, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'On that day I will give Gog a burial place in Israel, in the valley of those who travel east toward the Sea. It will block the way of travelers, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon Gog.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'For seven months the house of Israel will be burying them in order to cleanse the land.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:13, Page:1, Kor:"", Chn:"", Eng:"All the people of the land will bury them, and the day I am glorified will be a memorable day for them, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'Men will be regularly employed to cleanse the land. Some will go throughout the land and, in addition to them, others will bury those that remain on the ground. At the end of the seven months they will begin their search.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:15, Page:1, Kor:"", Chn:"", Eng:"As they go through the land and one of them sees a human bone, he will set up a marker beside it until the gravediggers have buried it in the Valley of Hamon Gog.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:16, Page:1, Kor:"", Chn:"", Eng:"(Also a town called Hamonah will be there.) And so they will cleanse the land.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Son of man, this is what the Sovereign LORD says: Call out to every kind of bird and all the wild animals: 'Assemble and come together from all around to the sacrifice I am preparing for you, the great sacrifice on the mountains of Israel. There you will eat flesh and drink blood.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:18, Page:1, Kor:"", Chn:"", Eng:"You will eat the flesh of mighty men and drink the blood of the princes of the earth as if they were rams and lambs, goats and bulls--all of them fattened animals from Bashan.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:19, Page:1, Kor:"", Chn:"", Eng:"At the sacrifice I am preparing for you, you will eat fat till you are glutted and drink blood till you are drunk.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:20, Page:1, Kor:"", Chn:"", Eng:"At my table you will eat your fill of horses and riders, mighty men and soldiers of every kind,' declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:21, Page:1, Kor:"", Chn:"", Eng:""I will display my glory among the nations, and all the nations will see the punishment I inflict and the hand I lay upon them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:22, Page:1, Kor:"", Chn:"", Eng:"From that day forward the house of Israel will know that I am the LORD their God.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And the nations will know that the people of Israel went into exile for their sin, because they were unfaithful to me. So I hid my face from them and handed them over to their enemies, and they all fell by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I dealt with them according to their uncleanness and their offenses, and I hid my face from them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Therefore this is what the Sovereign LORD says: I will now bring Jacob back from captivity and will have compassion on all the people of Israel, and I will be zealous for my holy name.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They will forget their shame and all the unfaithfulness they showed toward me when they lived in safety in their land with no one to make them afraid.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:27, Page:1, Kor:"", Chn:"", Eng:"When I have brought them back from the nations and have gathered them from the countries of their enemies, I will show myself holy through them in the sight of many nations.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then they will know that I am the LORD their God, for though I sent them into exile among the nations, I will gather them to their own land, not leaving any behind.", Ind:""},
+  {Bible:"Ezekiel", Chapter:39, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I will no longer hide my face from them, for I will pour out my Spirit on the house of Israel, declares the Sovereign LORD."", Ind:""},
 ]);

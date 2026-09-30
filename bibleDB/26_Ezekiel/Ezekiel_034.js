@@ -1,6 +1,36 @@
 // 에스겔 34장 · Ezekiel 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",34,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",34,31);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, prophesy against the shepherds of Israel; prophesy and say to them: 'This is what the Sovereign LORD says: Woe to the shepherds of Israel who only take care of themselves! Should not shepherds take care of the flock?", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You eat the curds, clothe yourselves with the wool and slaughter the choice animals, but you do not take care of the flock.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You have not strengthened the weak or healed the sick or bound up the injured. You have not brought back the strays or searched for the lost. You have ruled them harshly and brutally.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So they were scattered because there was no shepherd, and when they were scattered they became food for all the wild animals.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:"My sheep wandered over all the mountains and on every high hill. They were scattered over the whole earth, and no one searched or looked for them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'Therefore, you shepherds, hear the word of the LORD:", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:8, Page:1, Kor:"", Chn:"", Eng:"As surely as I live, declares the Sovereign LORD, because my flock lacks a shepherd and so has been plundered and has become food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:9, Page:1, Kor:"", Chn:"", Eng:"therefore, O shepherds, hear the word of the LORD:", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: I am against the shepherds and will hold them accountable for my flock. I will remove them from tending the flock so that the shepherds can no longer feed themselves. I will rescue my flock from their mouths, and it will no longer be food for them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'For this is what the Sovereign LORD says: I myself will search for my sheep and look after them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"As a shepherd looks after his scattered flock when he is with them, so will I look after my sheep. I will rescue them from all the places where they were scattered on a day of clouds and darkness.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will bring them out from the nations and gather them from the countries, and I will bring them into their own land. I will pasture them on the mountains of Israel, in the ravines and in all the settlements in the land.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I will tend them in a good pasture, and the mountain heights of Israel will be their grazing land. There they will lie down in good grazing land, and there they will feed in a rich pasture on the mountains of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I myself will tend my sheep and have them lie down, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I will search for the lost and bring back the strays. I will bind up the injured and strengthen the weak, but the sleek and the strong I will destroy. I will shepherd the flock with justice.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'As for you, my flock, this is what the Sovereign LORD says: I will judge between one sheep and another, and between rams and goats.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Is it not enough for you to feed on the good pasture? Iust you also trample the rest of your pasture with your feet? Is it not enough for you to drink clear water? Must you also muddy the rest with your feet?", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Must my flock feed on what you have trampled and drink what you have muddied with your feet?", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'Therefore this is what the Sovereign LORD says to them: See, I myself will judge between the fat sheep and the lean sheep.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Because you shove with flank and shoulder, butting all the weak sheep with your horns until you have driven them away,", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I will save my flock, and they will no longer be plundered. I will judge between one sheep and another.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I will place over them one shepherd, my servant David, and he will tend them; he will tend them and be their shepherd.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:24, Page:1, Kor:"", Chn:"", Eng:"I the LORD will be their God, and my servant David will be prince among them. I the LORD have spoken.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'I will make a covenant of peace with them and rid the land of wild beasts so that they may live in the desert and sleep in the forests in safety.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I will bless them and the places surrounding my hill. I will send down showers in season; there will be showers of blessing.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The trees of the field will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will know that I am the LORD, when I break the bars of their yoke and rescue them from the hands of those who enslaved them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They will no longer be plundered by the nations, nor will wild animals devour them. They will live in safety, and no one will make them afraid.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:29, Page:1, Kor:"", Chn:"", Eng:"I will provide for them a land renowned for its crops, and they will no longer be victims of famine in the land or bear the scorn of the nations.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then they will know that I, the LORD their God, am with them and that they, the house of Israel, are my people, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:34, Verse:31, Page:1, Kor:"", Chn:"", Eng:"You my sheep, the sheep of my pasture, are people, and I am your God, declares the Sovereign LORD.'"", Ind:""},
 ]);

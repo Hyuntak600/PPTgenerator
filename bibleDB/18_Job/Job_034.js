@@ -1,6 +1,42 @@
 // 욥기 34장 · Job 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",34,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",34,37);
 BibleDB.add([
+  {Bible:"Job", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Elihu said:", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Hear my words, you wise men; listen to me, you men of learning.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For the ear tests words as the tongue tastes food.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Let us discern for ourselves what is right; let us learn together what is good.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Job says, 'I am innocent, but God denies me justice.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Although I am right, I am considered a liar; although I am guiltless, his arrow inflicts an incurable wound.'", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:"What man is like Job, who drinks scorn like water?", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He keeps company with evildoers; he associates with wicked men.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For he says, 'It profits a man nothing when he tries to please God.'", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:""So listen to me, you men of understanding. Far be it from God to do evil, from the Almighty to do wrong.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He repays a man for what he has done; he brings upon him what his conduct deserves.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It is unthinkable that God would do wrong, that the Almighty would pervert justice.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Who appointed him over the earth? Who put him in charge of the whole world?", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:14, Page:1, Kor:"", Chn:"", Eng:"If it were his intention and he withdrew his spirit and breath,", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"all mankind would perish together and man would return to the dust.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:16, Page:1, Kor:"", Chn:"", Eng:""If you have understanding, hear this; listen to what I say.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Can he who hates justice govern? Will you condemn the just and mighty One?", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Is he not the One who says to kings, 'You are worthless,' and to nobles, 'You are wicked,'", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:19, Page:1, Kor:"", Chn:"", Eng:"who shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands?", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They die in an instant, in the middle of the night; the people are shaken and they pass away; the mighty are removed without human hand.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:21, Page:1, Kor:"", Chn:"", Eng:""His eyes are on the ways of men; he sees their every step.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:22, Page:1, Kor:"", Chn:"", Eng:"There is no dark place, no deep shadow, where evildoers can hide.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:23, Page:1, Kor:"", Chn:"", Eng:"God has no need to examine men further, that they should come before him for judgment.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Without inquiry he shatters the mighty and sets up others in their place.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Because he takes note of their deeds, he overthrows them in the night and they are crushed.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He punishes them for their wickedness where everyone can see them,", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:27, Page:1, Kor:"", Chn:"", Eng:"because they turned from following him and had no regard for any of his ways.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They caused the cry of the poor to come before him, so that he heard the cry of the needy.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:29, Page:1, Kor:"", Chn:"", Eng:"But if he remains silent, who can condemn him? If he hides his face, who can see him? Yet he is over man and nation alike,", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:30, Page:1, Kor:"", Chn:"", Eng:"to keep a godless man from ruling, from laying snares for the people.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Suppose a man says to God, 'I am guilty but will offend no more.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Teach me what I cannot see; if I have done wrong, I will not do so again.'", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Should God then reward you on your terms, when you refuse to repent? You must decide, not I; so tell me what you know.", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:34, Page:1, Kor:"", Chn:"", Eng:""Men of understanding declare, wise men who hear me say to me,", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:35, Page:1, Kor:"", Chn:"", Eng:"'Job speaks without knowledge; his words lack insight.'", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Oh, that Job might be tested to the utmost for answering like a wicked man!", Ind:""},
+  {Bible:"Job", Chapter:34, Verse:37, Page:1, Kor:"", Chn:"", Eng:"To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God."", Ind:""},
 ]);

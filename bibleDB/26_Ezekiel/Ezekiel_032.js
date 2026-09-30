@@ -1,6 +1,37 @@
 // 에스겔 32장 · Ezekiel 32
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",32,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",32,32);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:32, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the twelfth year, in the twelfth month on the first day, the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, take up a lament concerning Pharaoh king of Egypt and say to him: "'You are like a lion among the nations; you are like a monster in the seas thrashing about in your streams, churning the water with your feet and muddying the streams.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:3, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: "'With a great throng of people I will cast my net over you, and they will haul you up in my net.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will throw you on the land and hurl you on the open field. I will let all the birds of the air settle on you and all the beasts of the earth gorge themselves on you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I will spread your flesh on the mountains and fill the valleys with your remains.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will drench the land with your flowing blood all the way to the mountains, and the ravines will be filled with your flesh.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When I snuff you out, I will cover the heavens and darken their stars; I will cover the sun with a cloud, and the moon will not give its light.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All the shining lights in the heavens I will darken over you; I will bring darkness over your land, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I will trouble the hearts of many peoples when I bring about your destruction among the nations, among lands you have not known.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I will cause many peoples to be appalled at you, and their kings will shudder with horror because of you when I brandish my sword before them. On the day of your downfall each of them will tremble every moment for his life.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'For this is what the Sovereign LORD says: "'The sword of the king of Babylon will come against you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I will cause your hordes to fall by the swords of mighty men--the most ruthless of all nations. They will shatter the pride of Egypt, and all her hordes will be overthrown.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will destroy all her cattle from beside abundant waters no longer to be stirred by the foot of man or muddied by the hoofs of cattle.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then I will let her waters settle and make her streams flow like oil, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When I make Egypt desolate and strip the land of everything in it, when I strike down all who live there, then they will know that I am the LORD.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:16, Page:1, Kor:"", Chn:"", Eng:""This is the lament they will chant for her. The daughters of the nations will chant it; for Egypt and all her hordes they will chant it, declares the Sovereign LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:17, Page:1, Kor:"", Chn:"", Eng:"In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Son of man, wail for the hordes of Egypt and consign to the earth below both her and the daughters of mighty nations, with those who go down to the pit.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Say to them, 'Are you more favored than others? Go down and be laid among the uncircumcised.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They will fall among those killed by the sword. The sword is drawn; let her be dragged off with all her hordes.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:21, Page:1, Kor:"", Chn:"", Eng:"From within the grave the mighty leaders will say of Egypt and her allies, 'They have come down and they lie with the uncircumcised, with those killed by the sword.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Assyria is there with her whole army; she is surrounded by the graves of all her slain, all who have fallen by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Their graves are in the depths of the pit and her army lies around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living went down uncircumcised to the earth below. They bear their shame with those who go down to the pit.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A bed is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit; they are laid among the slain.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Meshech and Tubal are there, with all their hordes around their graves. All of them are uncircumcised, killed by the sword because they spread their terror in the land of the living.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Do they not lie with the other uncircumcised warriors who have fallen, who went down to the grave with their weapons of war, whose swords were placed under their heads? The punishment for their sins rested on their bones, though the terror of these warriors had stalked through the land of the living.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:28, Page:1, Kor:"", Chn:"", Eng:""You too, O Pharaoh, will be broken and will lie among the uncircumcised, with those killed by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Edom is there, her kings and all her princes; despite their power, they are laid with those killed by the sword. They lie with the uncircumcised, with those who go down to the pit.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:30, Page:1, Kor:"", Chn:"", Eng:""All the princes of the north and all the Sidonians are there; they went down with the slain in disgrace despite the terror caused by their power. They lie uncircumcised with those killed by the sword and bear their shame with those who go down to the pit.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Pharaoh--he and all his army--will see them and he will be consoled for all his hordes that were killed by the sword, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:32, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Although I had him spread terror in the land of the living, Pharaoh and all his hordes will be laid among the uncircumcised, with those killed by the sword, declares the Sovereign LORD."", Ind:""},
 ]);

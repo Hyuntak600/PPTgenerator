@@ -1,6 +1,36 @@
 // 민수기 28장 · Numbers 28
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",28,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",28,31);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:28, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Give this command to the Israelites and say to them: 'See that you present to me at the appointed time the food for my offerings made by fire, as an aroma pleasing to me.'", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Say to them: 'This is the offering made by fire that you are to present to the LORD: two lambs a year old without defect, as a regular burnt offering each day.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Prepare one lamb in the morning and the other at twilight,", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:5, Page:1, Kor:"", Chn:"", Eng:"together with a grain offering of a tenth of an ephah of fine flour mixed with a quarter of a hin of oil from pressed olives.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:6, Page:1, Kor:"", Chn:"", Eng:"This is the regular burnt offering instituted at Mount Sinai as a pleasing aroma, an offering made to the LORD by fire.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The accompanying drink offering is to be a quarter of a hin of fermented drink with each lamb. Pour out the drink offering to the LORD at the sanctuary.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Prepare the second lamb at twilight, along with the same kind of grain offering and drink offering that you prepare in the morning. This is an offering made by fire, an aroma pleasing to the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'On the Sabbath day, make an offering of two lambs a year old without defect, together with its drink offering and a grain offering of two-tenths of an ephah of fine flour mixed with oil.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'On the first of every month, present to the LORD a burnt offering of two young bulls, one ram and seven male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:12, Page:1, Kor:"", Chn:"", Eng:"With each bull there is to be a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, a grain offering of two-tenths of an ephah of fine flour mixed with oil;", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:13, Page:1, Kor:"", Chn:"", Eng:"and with each lamb, a grain offering of a tenth of an ephah of fine flour mixed with oil. This is for a burnt offering, a pleasing aroma, an offering made to the LORD by fire.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:14, Page:1, Kor:"", Chn:"", Eng:"With each bull there is to be a drink offering of half a hin of wine; with the ram, a third of a hin; and with each lamb, a quarter of a hin. This is the monthly burnt offering to be made at each new moon during the year.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Besides the regular burnt offering with its drink offering, one male goat is to be presented to the LORD as a sin offering.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'On the fourteenth day of the first month the LORD'S Passover is to be held.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:17, Page:1, Kor:"", Chn:"", Eng:"On the fifteenth day of this month there is to be a festival; for seven days eat bread made without yeast.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:18, Page:1, Kor:"", Chn:"", Eng:"On the first day hold a sacred assembly and do no regular work.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Present to the LORD an offering made by fire, a burnt offering of two young bulls, one ram and seven male lambs a year old, all without defect.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:20, Page:1, Kor:"", Chn:"", Eng:"With each bull prepare a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, two-tenths;", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and with each of the seven lambs, one-tenth.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Include one male goat as a sin offering to make atonement for you.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Prepare these in addition to the regular morning burnt offering.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:24, Page:1, Kor:"", Chn:"", Eng:"In this way prepare the food for the offering made by fire every day for seven days as an aroma pleasing to the LORD; it is to be prepared in addition to the regular burnt offering and its drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:25, Page:1, Kor:"", Chn:"", Eng:"On the seventh day hold a sacred assembly and do no regular work.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:26, Page:1, Kor:"", Chn:"", Eng:""'On the day of firstfruits, when you present to the LORD an offering of new grain during the Feast of Weeks, hold a sacred assembly and do no regular work.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Present a burnt offering of two young bulls, one ram and seven male lambs a year old as an aroma pleasing to the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:28, Page:1, Kor:"", Chn:"", Eng:"With each bull there is to be a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, two-tenths;", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:29, Page:1, Kor:"", Chn:"", Eng:"and with each of the seven lambs, one-tenth.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Include one male goat to make atonement for you.", Ind:""},
+  {Bible:"Numbers", Chapter:28, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Prepare these together with their drink offerings, in addition to the regular burnt offering and its grain offering. Be sure the animals are without defect.", Ind:""},
 ]);

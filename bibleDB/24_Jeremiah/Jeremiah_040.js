@@ -1,6 +1,21 @@
 // 예레미야 40장 · Jeremiah 40
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",40,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",40,16);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:40, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word came to Jeremiah from the LORD after Nebuzaradan commander of the imperial guard had released him at Ramah. He had found Jeremiah bound in chains among all the captives from Jerusalem and Judah who were being carried into exile to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When the commander of the guard found Jeremiah, he said to him, "The LORD your God decreed this disaster for this place.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:3, Page:1, Kor:"", Chn:"", Eng:"And now the LORD has brought it about; he has done just as he said he would. All this happened because you people sinned against the LORD and did not obey him.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But today I am freeing you from the chains on your wrists. Come with me to Babylon, if you like, and I will look after you; but if you do not want to, then don't come. Look, the whole country lies before you; go wherever you please."", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:5, Page:1, Kor:"", Chn:"", Eng:"However, before Jeremiah turned to go, Nebuzaradan added, "Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people,", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left behind in the land.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:8, Page:1, Kor:"", Chn:"", Eng:"they came to Gedaliah at Mizpah--Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jaazaniah the son of the Maacathite, and their men.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Gedaliah son of Ahikam, the son of Shaphan, took an oath to reassure them and their men. "Do not be afraid to serve the Babylonians," he said. "Settle down in the land and serve the king of Babylon, and it will go well with you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I myself will stay at Mizpah to represent you before the Babylonians who come to us, but you are to harvest the wine, summer fruit and oil, and put them in your storage jars, and live in the towns you have taken over."", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When all the Jews in Moab, Ammon, Edom and all the other countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them,", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:12, Page:1, Kor:"", Chn:"", Eng:"they all came back to the land of Judah, to Gedaliah at Mizpah, from all the countries where they had been scattered. And they harvested an abundance of wine and summer fruit.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Johanan son of Kareah and all the army officers still in the open country came to Gedaliah at Mizpah", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and said to him, "Don't you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?" But Gedaliah son of Ahikam did not believe them.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then Johanan son of Kareah said privately to Gedaliah in Mizpah, "Let me go and kill Ishmael son of Nethaniah, and no one will know it.", Ind:""},
+  {Bible:"Jeremiah", Chapter:40, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But Gedaliah son of Ahikam said to Johanan son of Kareah, "Don't do such a thing! What you are saying about Ishmael is not true."", Ind:""},
 ]);

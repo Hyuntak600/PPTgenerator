@@ -1,6 +1,39 @@
 // 욥기 41장 · Job 41
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",41,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",41,34);
 BibleDB.add([
+  {Bible:"Job", Chapter:41, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Can you put a cord through his nose or pierce his jaw with a hook?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Will he keep begging you for mercy? Will he speak to you with gentle words?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Will he make an agreement with you for you to take him as your slave for life?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Can you make a pet of him like a bird or put him on a leash for your girls?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Will traders barter for him? Will they divide him up among the merchants?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Can you fill his hide with harpoons or his head with fishing spears?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If you lay a hand on him, you will remember the struggle and never do it again!", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Any hope of subduing him is false; the mere sight of him is overpowering.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:10, Page:1, Kor:"", Chn:"", Eng:"No one is fierce enough to rouse him. Who then is able to stand against me?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Who has a claim against me that I must pay? Everything under heaven belongs to me.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I will not fail to speak of his limbs, his strength and his graceful form.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Who can strip off his outer coat? Who would approach him with a bridle?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Who dares open the doors of his mouth, ringed about with his fearsome teeth?", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:15, Page:1, Kor:"", Chn:"", Eng:"His back has rows of shields tightly sealed together;", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:16, Page:1, Kor:"", Chn:"", Eng:"each is so close to the next that no air can pass between.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:17, Page:1, Kor:"", Chn:"", Eng:"They are joined fast to one another; they cling together and cannot be parted.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:18, Page:1, Kor:"", Chn:"", Eng:"His snorting throws out flashes of light; his eyes are like the rays of dawn.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Firebrands stream from his mouth; sparks of fire shoot out.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Smoke pours from his nostrils as from a boiling pot over a fire of reeds.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:21, Page:1, Kor:"", Chn:"", Eng:"His breath sets coals ablaze, and flames dart from his mouth.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Strength resides in his neck; dismay goes before him.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The folds of his flesh are tightly joined; they are firm and immovable.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:24, Page:1, Kor:"", Chn:"", Eng:"His chest is hard as rock, hard as a lower millstone.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When he rises up, the mighty are terrified; they retreat before his thrashing.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The sword that reaches him has no effect, nor does the spear or the dart or the javelin.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Iron he treats like straw and bronze like rotten wood.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Arrows do not make him flee; slingstones are like chaff to him.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:29, Page:1, Kor:"", Chn:"", Eng:"A club seems to him but a piece of straw; he laughs at the rattling of the lance.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:30, Page:1, Kor:"", Chn:"", Eng:"His undersides are jagged potsherds, leaving a trail in the mud like a threshing sledge.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He makes the depths churn like a boiling caldron and stirs up the sea like a pot of ointment.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Behind him he leaves a glistening wake; one would think the deep had white hair.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Nothing on earth is his equal--a creature without fear.", Ind:""},
+  {Bible:"Job", Chapter:41, Verse:34, Page:1, Kor:"", Chn:"", Eng:"He looks down on all that are haughty; he is king over all that are proud."", Ind:""},
 ]);

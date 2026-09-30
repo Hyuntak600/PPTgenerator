@@ -1,0 +1,30 @@
+// 열왕기하 2장 · Kings2 2
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Kings2",2,25);
+BibleDB.add([
+  {Bible:"Kings2", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When the LORD was about to take Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Elijah said to Elisha, "Stay here; the LORD has sent me to Bethel." But Elisha said, "As surely as the LORD lives and as you live, I will not leave you." So they went down to Bethel.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The company of the prophets at Bethel came out to Elisha and asked, "Do you know that the LORD is going to take your master from you today?" "Yes, I know," Elisha replied, "but do not speak of it."", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then Elijah said to him, "Stay here, Elisha; the LORD has sent me to Jericho." And he replied, "As surely as the LORD lives and as you live, I will not leave you." So they went to Jericho.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The company of the prophets at Jericho went up to Elisha and asked him, "Do you know that the LORD is going to take your master from you today?" "Yes, I know," he replied, "but do not speak of it."", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Elijah said to him, "Stay here; the LORD has sent me to the Jordan." And he replied, "As surely as the LORD lives and as you live, I will not leave you." So the two of them walked on.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Fifty men of the company of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped at the Jordan.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Elijah took his cloak, rolled it up and struck the water with it. The water divided to the right and to the left, and the two of them crossed over on dry ground.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When they had crossed, Elijah said to Elisha, "Tell me, what can I do for you before I am taken from you?" "Let me inherit a double portion of your spirit," Elisha replied.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:""You have asked a difficult thing," Elijah said, "yet if you see me when I am taken from you, it will be yours--otherwise not."", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"As they were walking along and talking together, suddenly a chariot of fire and horses of fire appeared and separated the two of them, and Elijah went up to heaven in a whirlwind.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Elisha saw this and cried out, "My father! My father! The chariots and horsemen of Israel!" And Elisha saw him no more. Then he took hold of his own clothes and tore them apart.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He picked up the cloak that had fallen from Elijah and went back and stood on the bank of the Jordan.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then he took the cloak that had fallen from him and struck the water with it. "Where now is the LORD, the God of Elijah?" he asked. When he struck the water, it divided to the right and to the left, and he crossed over.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The company of the prophets from Jericho, who were watching, said, "The spirit of Elijah is resting on Elisha." And they went to meet him and bowed to the ground before him.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Look," they said, "we your servants have fifty able men. Let them go and look for your master. Perhaps the Spirit of the LORD has picked him up and set him down on some mountain or in some valley." "No," Elisha replied, "do not send them."", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But they persisted until he was too ashamed to refuse. So he said, "Send them." And they sent fifty men, who searched for three days but did not find him.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When they returned to Elisha, who was staying in Jericho, he said to them, "Didn't I tell you not to go?"", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The men of the city said to Elisha, "Look, our lord, this town is well situated, as you can see, but the water is bad and the land is unproductive."", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Bring me a new bowl," he said, "and put salt in it." So they brought it to him.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then he went out to the spring and threw the salt into it, saying, "This is what the LORD says: 'I have healed this water. Never again will it cause death or make the land unproductive.'"", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And the water has remained wholesome to this day, according to the word Elisha had spoken.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"From there Elisha went up to Bethel. As he was walking along the road, some youths came out of the town and jeered at him. "Go on up, you baldhead!" they said. "Go on up, you baldhead!"", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He turned around, looked at them and called down a curse on them in the name of the LORD. Then two bears came out of the woods and mauled forty-two of the youths.", Ind:""},
+  {Bible:"Kings2", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And he went on to Mount Carmel and from there returned to Samaria.", Ind:""},
+]);

@@ -1,6 +1,33 @@
 // 에스겔 12장 · Ezekiel 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",12,28);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, you are living among a rebellious people. They have eyes to see but do not see and ears to hear but do not hear, for they are a rebellious people.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Therefore, son of man, pack your belongings for exile and in the daytime, as they watch, set out and go from where you are to another place. Perhaps they will understand, though they are a rebellious house.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"During the daytime, while they watch, bring out your belongings packed for exile. Then in the evening, while they are watching, go out like those who go into exile.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"While they watch, dig through the wall and take your belongings out through it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Put them on your shoulder as they are watching and carry them out at dusk. Cover your face so that you cannot see the land, for I have made you a sign to the house of Israel."", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So I did as I was commanded. During the day I brought out my things packed for exile. Then in the evening I dug through the wall with my hands. I took my belongings out at dusk, carrying them on my shoulders while they watched.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"In the morning the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Son of man, did not that rebellious house of Israel ask you, 'What are you doing?'", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Say to them, 'This is what the Sovereign LORD says: This oracle concerns the prince in Jerusalem and the whole house of Israel who are there.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Say to them, 'I am a sign to you.' "As I have done, so it will be done to them. They will go into exile as captives.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:""The prince among them will put his things on his shoulder at dusk and leave, and a hole will be dug in the wall for him to go through. He will cover his face so that he cannot see the land.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will spread my net for him, and he will be caught in my snare; I will bring him to Babylonia, the land of the Chaldeans, but he will not see it, and there he will die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I will scatter to the winds all those around him--his staff and all his troops--and I will pursue them with drawn sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:""They will know that I am the LORD, when I disperse them among the nations and scatter them through the countries.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But I will spare a few of them from the sword, famine and plague, so that in the nations where they go they may acknowledge all their detestable practices. Then they will know that I am the LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Son of man, tremble as you eat your food, and shudder in fear as you drink your water.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Say to the people of the land: 'This is what the Sovereign LORD says about those living in Jerusalem and in the land of Israel: They will eat their food in anxiety and drink their water in despair, for their land will be stripped of everything in it because of the violence of all who live there.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The inhabited towns will be laid waste and the land will be desolate. Then you will know that I am the LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Son of man, what is this proverb you have in the land of Israel: 'The days go by and every vision comes to nothing'?", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Say to them, 'This is what the Sovereign LORD says: I am going to put an end to this proverb, and they will no longer quote it in Israel.' Say to them, 'The days are near when every vision will be fulfilled.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For there will be no more false visions or flattering divinations among the people of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But I the LORD will speak what I will, and it shall be fulfilled without delay. For in your days, you rebellious house, I will fulfill whatever I say, declares the Sovereign LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Son of man, the house of Israel is saying, 'The vision he sees is for many years from now, and he prophesies about the distant future.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:12, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Therefore say to them, 'This is what the Sovereign LORD says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign LORD.'"", Ind:""},
 ]);

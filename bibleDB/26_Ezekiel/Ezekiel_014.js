@@ -1,6 +1,28 @@
 // 에스겔 14장 · Ezekiel 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",14,23);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Some of the elders of Israel came to me and sat down in front of me.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Son of man, these men have set up idols in their hearts and put wicked stumbling blocks before their faces. Should I let them inquire of me at all?", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Therefore speak to them and tell them, 'This is what the Sovereign LORD says: When any Israelite sets up idols in his heart and puts a wicked stumbling block before his face and then goes to a prophet, I the LORD will answer him myself in keeping with his great idolatry.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I will do this to recapture the hearts of the people of Israel, who have all deserted me for their idols.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Therefore say to the house of Israel, 'This is what the Sovereign LORD says: Repent! Turn from your idols and renounce all your detestable practices!", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'When any Israelite or any alien living in Israel separates himself from me and sets up idols in his heart and puts a wicked stumbling block before his face and then goes to a prophet to inquire of me, I the LORD will answer him myself.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"I will set my face against that man and make him an example and a byword. I will cut him off from my people. Then you will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'And if the prophet is enticed to utter a prophecy, I the LORD have enticed that prophet, and I will stretch out my hand against him and destroy him from among my people Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They will bear their guilt--the prophet will be as guilty as the one who consults him.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then the people of Israel will no longer stray from me, nor will they defile themselves anymore with all their sins. They will be my people, and I will be their God, declares the Sovereign LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Son of man, if a country sins against me by being unfaithful and I stretch out my hand against it to cut off its food supply and send famine upon it and kill its men and their animals,", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"even if these three men--Noah, Daniel and Job--were in it, they could save only themselves by their righteousness, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Or if I send wild beasts through that country and they leave it childless and it becomes desolate so that no one can pass through it because of the beasts,", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"as surely as I live, declares the Sovereign LORD, even if these three men were in it, they could not save their own sons or daughters. They alone would be saved, but the land would be desolate.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Or if I bring a sword against that country and say, 'Let the sword pass throughout the land,' and I kill its men and their animals,", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"as surely as I live, declares the Sovereign LORD, even if these three men were in it, they could not save their own sons or daughters. They alone would be saved.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Or if I send a plague into that land and pour out my wrath upon it through bloodshed, killing its men and their animals,", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"as surely as I live, declares the Sovereign LORD, even if Noah, Daniel and Job were in it, they could save neither son nor daughter. They would save only themselves by their righteousness.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:""For this is what the Sovereign LORD says: How much worse will it be when I send against Jerusalem my four dreadful judgments--sword and famine and wild beasts and plague--to kill its men and their animals!", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Yet there will be some survivors--sons and daughters who will be brought out of it. They will come to you, and when you see their conduct and their actions, you will be consoled regarding the disaster I have brought upon Jerusalem--every disaster I have brought upon it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You will be consoled when you see their conduct and their actions, for you will know that I have done nothing in it without cause, declares the Sovereign LORD."", Ind:""},
 ]);

@@ -1,6 +1,41 @@
 // 사사기 1장 · Judges 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",1,36);
 BibleDB.add([
+  {Bible:"Judges", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After the death of Joshua, the Israelites asked the LORD, "Who will be the first to go up and fight for us against the Canaanites?"", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD answered, "Judah is to go; I have given the land into their hands."", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then the men of Judah said to the Simeonites their brothers, "Come up with us into the territory allotted to us, to fight against the Canaanites. We in turn will go with you into yours." So the Simeonites went with them.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When Judah attacked, the LORD gave the Canaanites and Perizzites into their hands and they struck down ten thousand men at Bezek.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"It was there that they found Adoni-Bezek and fought against him, putting to rout the Canaanites and Perizzites.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Adoni-Bezek fled, but they chased him and caught him, and cut off his thumbs and big toes.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then Adoni-Bezek said, "Seventy kings with their thumbs and big toes cut off have picked up scraps under my table. Now God has paid me back for what I did to them." They brought him to Jerusalem, and he died there.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The men of Judah attacked Jerusalem also and took it. They put the city to the sword and set it on fire.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"After that, the men of Judah went down to fight against the Canaanites living in the hill country, the Negev and the western foothills.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They advanced against the Canaanites living in Hebron (formerly called Kiriath Arba) and defeated Sheshai, Ahiman and Talmai.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"From there they advanced against the people living in Debir (formerly called Kiriath Sepher).", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And Caleb said, "I will give my daughter Acsah in marriage to the man who attacks and captures Kiriath Sepher."", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Othniel son of Kenaz, Caleb's younger brother, took it; so Caleb gave his daughter Acsah to him in marriage.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, "What can I do for you?"", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"She replied, "Do me a special favor. Since you have given me land in the Negev, give me also springs of water." Then Caleb gave her the upper and lower springs.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The descendants of Moses' father-in-law, the Kenite, went up from the City of Palms with the men of Judah to live among the people of the Desert of Judah in the Negev near Arad.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the men of Judah went with the Simeonites their brothers and attacked the Canaanites living in Zephath, and they totally destroyed the city. Therefore it was called Hormah.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The men of Judah also took Gaza, Ashkelon and Ekron--each city with its territory.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The LORD was with the men of Judah. They took possession of the hill country, but they were unable to drive the people from the plains, because they had iron chariots.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"As Moses had promised, Hebron was given to Caleb, who drove from it the three sons of Anak.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The Benjamites, however, failed to dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the Benjamites.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Now the house of Joseph attacked Bethel, and the LORD was with them.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When they sent men to spy out Bethel (formerly called Luz),", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"the spies saw a man coming out of the city and they said to him, "Show us how to get into the city and we will see that you are treated well."", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"So he showed them, and they put the city to the sword but spared the man and his whole family.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He then went to the land of the Hittites, where he built a city and called it Luz, which is its name to this day.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But Manasseh did not drive out the people of Beth Shan or Taanach or Dor or Ibleam or Megiddo and their surrounding settlements, for the Canaanites were determined to live in that land.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When Israel became strong, they pressed the Canaanites into forced labor but never drove them out completely.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Nor did Ephraim drive out the Canaanites living in Gezer, but the Canaanites continued to live there among them.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Neither did Zebulun drive out the Canaanites living in Kitron or Nahalol, who remained among them; but they did subject them to forced labor.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Nor did Asher drive out those living in Acco or Sidon or Ahlab or Aczib or Helbah or Aphek or Rehob,", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:32, Page:1, Kor:"", Chn:"", Eng:"and because of this the people of Asher lived among the Canaanite inhabitants of the land.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Neither did Naphtali drive out those living in Beth Shemesh or Beth Anath; but the Naphtalites too lived among the Canaanite inhabitants of the land, and those living in Beth Shemesh and Beth Anath became forced laborers for them.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The Amorites confined the Danites to the hill country, not allowing them to come down into the plain.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:35, Page:1, Kor:"", Chn:"", Eng:"And the Amorites were determined also to hold out in Mount Heres, Aijalon and Shaalbim, but when the power of the house of Joseph increased, they too were pressed into forced labor.", Ind:""},
+  {Bible:"Judges", Chapter:1, Verse:36, Page:1, Kor:"", Chn:"", Eng:"The boundary of the Amorites was from Scorpion Pass to Sela and beyond.", Ind:""},
 ]);

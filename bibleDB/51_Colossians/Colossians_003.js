@@ -1,6 +1,30 @@
 // 골로새서 3장 · Colossians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Colossians",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Colossians",3,25);
 BibleDB.add([
+  {Bible:"Colossians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Set your minds on things above, not on earthly things.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For you died, and your life is now hidden with Christ in God.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When Christ, who is your life, appears, then you also will appear with him in glory.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Because of these, the wrath of God is coming.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You used to walk in these ways, in the life you once lived.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not lie to each other, since you have taken off your old self with its practices", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and have put on the new self, which is being renewed in knowledge in the image of its Creator.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Here there is no Greek or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Bear with each other and forgive whatever grievances you may have against one another. Forgive as the Lord forgave you.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"And over all these virtues put on love, which binds them all together in perfect unity.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Let the word of Christ dwell in you richly as you teach and admonish one another with all wisdom, and as you sing psalms, hymns and spiritual songs with gratitude in your hearts to God.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Wives, submit to your husbands, as is fitting in the Lord.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Husbands, love your wives and do not be harsh with them.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Children, obey your parents in everything, for this pleases the Lord.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Fathers, do not embitter your children, or they will become discouraged.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to win their favor, but with sincerity of heart and reverence for the Lord.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Whatever you do, work at it with all your heart, as working for the Lord, not for men,", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.", Ind:""},
+  {Bible:"Colossians", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Anyone who does wrong will be repaid for his wrong, and there is no favoritism.", Ind:""},
 ]);

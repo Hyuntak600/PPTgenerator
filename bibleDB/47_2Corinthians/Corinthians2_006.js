@@ -1,0 +1,24 @@
+// 고린도후서 6장 · Corinthians2 6
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
+BibleDB.ref("Corinthians2",6,18);
+// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+BibleDB.add([
+  {Bible:"Corinthians2", Chapter:6, Verse:1, Page:1, Kor:"a우리는 하나님과 함께 일하는 사람으로서 여러분에게 권면합니다. 하나님의 은혜를 헛되이 받지 않도록 하십시오.(a 그, '우리가 함께 일하므로')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:2, Page:1, Kor:"하나님께서 말씀하시기를  b\"은혜의 때에, 나는 네 말을 들어주었다. 구원의 날에, 나는 너를 도와주었다\" 하셨습니다. 보십시오, 지금이야말로 은혜의 때요, 지금이야말로 구원의 날입니다.(b 사 49:8(칠십인역))", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:3, Page:1, Kor:"아무도 우리가 섬기는 이 일에 흠을 잡지 못하게 하려고, 우리는 무슨 일에서나 아무에게도 거리낌거리를 주지 않습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:4, Page:1, Kor:"우리는 무슨 일에서나 하나님의 일꾼답게 처신합니다. 우리는 많이 참으면서, 환난과 궁핍과 곤경과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:5, Page:1, Kor:"매 맞음과 옥에 갇힘과 난동과 수고와 잠을 자지 못함과 굶주림을 겪습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:6, Page:1, Kor:"또 우리는 순결과 지식과 인내와 친절과 성령의 감화와 거짓 없는 사랑과", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:7, Page:1, Kor:"진리의 말씀과 하나님의 능력으로 이 일을 합니다. 우리는 오른손과 왼손에 의의 무기를 들고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:8, Page:1, Kor:"영광을 받거나, 수치를 당하거나, 비난을 받거나, 칭찬을 받거나, 그렇게 합니다. 우리는 속이는 사람 같으나 진실하고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:9, Page:1, Kor:"이름 없는 사람 같으나 유명하고, 죽는 사람 같으나, 보십시오, 살아 있습니다. 징벌을 받는 사람 같으나 죽임을 당하는 데까지는 이르지 않고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:10, Page:1, Kor:"근심하는 사람 같으나 항상 기뻐하고, 가난한 사람 같으나 많은 사람을 부요하게 하고, 아무것도 가지지 않은 사람 같으나 모든 것을 가진 사람입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:11, Page:1, Kor:"○고린도 사람 여러분, 우리는 여러분에게 숨김없이 말하였습니다. 우리는 마음을 넓혀 놓았습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:12, Page:1, Kor:"우리가 여러분을 옹졸하게 만드는 것이 아니라 여러분의 마음이 옹졸한 것입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:13, Page:1, Kor:"나는 자녀들을 타이르듯이 말합니다. 보답하는 셈으로 여러분도 마음을 넓히십시오.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:14, Page:1, Kor:"<우리는 살아 계신 하나님의 성전이다> ○믿지 않는 사람들과 멍에를 함께 메지 마십시오. 정의와 불의가 어떻게 짝하며, 빛과 어둠이 어떻게 사귈 수 있겠습니까?", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:15, Page:1, Kor:"그리스도와 c벨리알이 어떻게 화합하며, 믿는 자가 믿지 않는 자와 더불어 함께 차지할 몫이 무엇이며,(c 악마의 이름)", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:16, Page:1, Kor:"하나님의 성전과 우상이 어떻게 일치하겠습니까? d우리는 살아 계신 하나님의 성전입니다. 그것은 하나님께서 말씀하신 바와 같습니다.  e\"내가 그들 가운데서 살며, 그들 가운데로 다닐 것이다. f나는 그들의 하나님이 되고, 그들은 내 백성이 될 것이다.\" (d 다른 고대 사본들에는 '여러분은' e 레 26:12; 렘 32:38; 겔 37:27 f 렘 31:1)", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:17, Page:1, Kor:"g\"그러므로 너희는 그들 가운데서 나오너라. 그들과 떨어져라. 부정한 것을 만지지 말아라. 나 주가 말한다. 그리하면 내가 너희를 영접할 것이다.\" (g 사 52:11; 겔 20:34, 41)", Chn:"", Eng:"", Ind:""},
+  {Bible:"Corinthians2", Chapter:6, Verse:18, Page:1, Kor:"h\"그리하여 나는 너희의 아버지가 되고, 너희는 내 자녀가 될 것이다. 나 전능한 주가 말한다.\" (h 삼하 7:14(칠십인역); 렘 31:9; 사 43:6; 삼하 7:8)", Chn:"", Eng:"", Ind:""},
+]);

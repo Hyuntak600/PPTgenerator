@@ -1,6 +1,40 @@
 // 여호수아 8장 · Joshua 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joshua",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joshua",8,35);
 BibleDB.add([
+  {Bible:"Joshua", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, "Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city."", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Joshua and the whole army moved out to attack Ai. He chose thirty thousand of his best fighting men and sent them out at night", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"with these orders: "Listen carefully. You are to set an ambush behind the city. Don't go very far from it. All of you be on the alert.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I and all those with me will advance on the city, and when the men come out against us, as they did before, we will flee from them.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They will pursue us until we have lured them away from the city, for they will say, 'They are running away from us as they did before.' So when we flee from them,", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"you are to rise up from ambush and take the city. The LORD your God will give it into your hand.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When you have taken the city, set it on fire. Do what the LORD has commanded. See to it; you have my orders."", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then Joshua sent them off, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai--but Joshua spent that night with the people.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Early the next morning Joshua mustered his men, and he and the leaders of Israel marched before them to Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The entire force that was with him marched up and approached the city and arrived in front of it. They set up camp north of Ai, with the valley between them and the city.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Joshua had taken about five thousand men and set them in ambush between Bethel and Ai, to the west of the city.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"They had the soldiers take up their positions--all those in the camp to the north of the city and the ambush to the west of it. That night Joshua went into the valley.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When the king of Ai saw this, he and all the men of the city hurried out early in the morning to meet Israel in battle at a certain place overlooking the Arabah. But he did not know that an ambush had been set against him behind the city.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Joshua and all Israel let themselves be driven back before them, and they fled toward the desert.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"All the men of Ai were called to pursue them, and they pursued Joshua and were lured away from the city.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Not a man remained in Ai or Bethel who did not go after Israel. They left the city open and went in pursuit of Israel.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Joshua, "Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city." So Joshua held out his javelin toward Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As soon as he did this, the men in the ambush rose quickly from their position and rushed forward. They entered the city and captured it and quickly set it on fire.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The men of Ai looked back and saw the smoke of the city rising against the sky, but they had no chance to escape in any direction, for the Israelites who had been fleeing toward the desert had turned back against their pursuers.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For when Joshua and all Israel saw that the ambush had taken the city and that smoke was going up from the city, they turned around and attacked the men of Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The men of the ambush also came out of the city against them, so that they were caught in the middle, with Israelites on both sides. Israel cut them down, leaving them neither survivors nor fugitives.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But they took the king of Ai alive and brought him to Joshua.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When Israel had finished killing all the men of Ai in the fields and in the desert where they had chased them, and when every one of them had been put to the sword, all the Israelites returned to Ai and killed those who were in it.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Twelve thousand men and women fell that day--all the people of Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For Joshua did not draw back the hand that held out his javelin until he had destroyed all who lived in Ai.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But Israel did carry off for themselves the livestock and plunder of this city, as the LORD had instructed Joshua.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"So Joshua burned Ai and made it a permanent heap of ruins, a desolate place to this day.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He hung the king of Ai on a tree and left him there until evening. At sunset, Joshua ordered them to take his body from the tree and throw it down at the entrance of the city gate. And they raised a large pile of rocks over it, which remains to this day.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Joshua built on Mount Ebal an altar to the LORD, the God of Israel,", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses--an altar of uncut stones, on which no iron tool had been used. On it they offered to the LORD burnt offerings and sacrificed fellowship offerings.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"There, in the presence of the Israelites, Joshua copied on stones the law of Moses, which he had written.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"All Israel, aliens and citizens alike, with their elders, officials and judges, were standing on both sides of the ark of the covenant of the LORD, facing those who carried it--the priests, who were Levites. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had formerly commanded when he gave instructions to bless the people of Israel.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Afterward, Joshua read all the words of the law--the blessings and the curses--just as it is written in the Book of the Law.", Ind:""},
+  {Bible:"Joshua", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"There was not a word of all that Moses had commanded that Joshua did not read to the whole assembly of Israel, including the women and children, and the aliens who lived among them.", Ind:""},
 ]);

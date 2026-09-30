@@ -1,6 +1,33 @@
 // 여호수아 18장 · Joshua 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joshua",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joshua",18,28);
 BibleDB.add([
+  {Bible:"Joshua", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The whole assembly of the Israelites gathered at Shiloh and set up the Tent of Meeting there. The country was brought under their control,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"but there were still seven Israelite tribes who had not yet received their inheritance.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Joshua said to the Israelites: "How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Appoint three men from each tribe. I will send them out to make a survey of the land and to write a description of it, according to the inheritance of each. Then they will return to me.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You are to divide the land into seven parts. Judah is to remain in its territory on the south and the house of Joseph in its territory on the north.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"After you have written descriptions of the seven parts of the land, bring them here to me and I will cast lots for you in the presence of the LORD our God.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The Levites, however, do not get a portion among you, because the priestly service of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have already received their inheritance on the east side of the Jordan. Moses the servant of the LORD gave it to them."", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"As the men started on their way to map out the land, Joshua instructed them, "Go and make a survey of the land and write a description of it. Then return to me, and I will cast lots for you here at Shiloh in the presence of the LORD."", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So the men left and went through the land. They wrote its description on a scroll, town by town, in seven parts, and returned to Joshua in the camp at Shiloh.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Joshua then cast lots for them in Shiloh in the presence of the LORD, and there he distributed the land to the Israelites according to their tribal divisions.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The lot came up for the tribe of Benjamin, clan by clan. Their allotted territory lay between the tribes of Judah and Joseph:", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"On the north side their boundary began at the Jordan, passed the northern slope of Jericho and headed west into the hill country, coming out at the desert of Beth Aven.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"From there it crossed to the south slope of Luz (that is, Bethel) and went down to Ataroth Addar on the hill south of Lower Beth Horon.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"From the hill facing Beth Horon on the south the boundary turned south along the western side and came out at Kiriath Baal (that is, Kiriath Jearim), a town of the people of Judah. This was the western side.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The southern side began at the outskirts of Kiriath Jearim on the west, and the boundary came out at the spring of the waters of Nephtoah.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The boundary went down to the foot of the hill facing the Valley of Ben Hinnom, north of the Valley of Rephaim. It continued down the Hinnom Valley along the southern slope of the Jebusite city and so to En Rogel.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"It then curved north, went to En Shemesh, continued to Geliloth, which faces the Pass of Adummim, and ran down to the Stone of Bohan son of Reuben.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"It continued to the northern slope of Beth Arabah and on down into the Arabah.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It then went to the northern slope of Beth Hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan in the south. This was the southern boundary.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The Jordan formed the boundary on the eastern side. These were the boundaries that marked out the inheritance of the clans of Benjamin on all sides.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The tribe of Benjamin, clan by clan, had the following cities: Jericho, Beth Hoglah, Emek Keziz,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Beth Arabah, Zemaraim, Bethel,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Avvim, Parah, Ophrah,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Kephar Ammoni, Ophni and Geba--twelve towns and their villages.", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Gibeon, Ramah, Beeroth,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Mizpah, Kephirah, Mozah,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Rekem, Irpeel, Taralah,", Ind:""},
+  {Bible:"Joshua", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah and Kiriath--fourteen towns and their villages. This was the inheritance of Benjamin for its clans.", Ind:""},
 ]);

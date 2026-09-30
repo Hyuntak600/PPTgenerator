@@ -1,6 +1,24 @@
 // 신명기 26장 · Deuteronomy 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",26,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",26,19);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When you have entered the land the LORD your God is giving you as an inheritance and have taken possession of it and settled in it,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:"take some of the firstfruits of all that you produce from the soil of the land the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for his Name", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and say to the priest in office at the time, "I declare today to the LORD your God that I have come to the land the LORD swore to our forefathers to give us."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The priest shall take the basket from your hands and set it down in front of the altar of the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then you shall declare before the LORD your God: "My father was a wandering Aramean, and he went down into Egypt with a few people and lived there and became a great nation, powerful and numerous.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But the Egyptians mistreated us and made us suffer, putting us to hard labor.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then we cried out to the LORD, the God of our fathers, and the LORD heard our voice and saw our misery, toil and oppression.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror and with miraculous signs and wonders.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He brought us to this place and gave us this land, a land flowing with milk and honey;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and now I bring the firstfruits of the soil that you, O LORD, have given me." Place the basket before the LORD your God and bow down before him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And you and the Levites and the aliens among you shall rejoice in all the good things the LORD your God has given to you and your household.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When you have finished setting aside a tenth of all your produce in the third year, the year of the tithe, you shall give it to the Levite, the alien, the fatherless and the widow, so that they may eat in your towns and be satisfied.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then say to the LORD your God: "I have removed from my house the sacred portion and have given it to the Levite, the alien, the fatherless and the widow, according to all you commanded. I have not turned aside from your commands nor have I forgotten any of them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I have not eaten any of the sacred portion while I was in mourning, nor have I removed any of it while I was unclean, nor have I offered any of it to the dead. I have obeyed the LORD my God; I have done everything you commanded me.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Look down from heaven, your holy dwelling place, and bless your people Israel and the land you have given us as you promised on oath to our forefathers, a land flowing with milk and honey."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD your God commands you this day to follow these decrees and laws; carefully observe them with all your heart and with all your soul.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You have declared this day that the LORD is your God and that you will walk in his ways, that you will keep his decrees, commands and laws, and that you will obey him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And the LORD has declared this day that you are his people, his treasured possession as he promised, and that you are to keep all his commands.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He has declared that he will set you in praise, fame and honor high above all the nations he has made and that you will be a people holy to the LORD your God, as he promised.", Ind:""},
 ]);

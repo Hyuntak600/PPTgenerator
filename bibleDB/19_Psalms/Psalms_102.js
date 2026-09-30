@@ -1,6 +1,33 @@
 // 시편 102장 · Psalms 102
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",102,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",102,28);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:102, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear my prayer, O LORD; let my cry for help come to you.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Do not hide your face from me when I am in distress. Turn your ear to me; when I call, answer me quickly.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For my days vanish like smoke; my bones burn like glowing embers.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:4, Page:1, Kor:"", Chn:"", Eng:"My heart is blighted and withered like grass; I forget to eat my food.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Because of my loud groaning I am reduced to skin and bones.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I am like a desert owl, like an owl among the ruins.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I lie awake; I have become like a bird alone on a roof.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All day long my enemies taunt me; those who rail against me use my name as a curse.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For I eat ashes as my food and mingle my drink with tears", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:10, Page:1, Kor:"", Chn:"", Eng:"because of your great wrath, for you have taken me up and thrown me aside.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:11, Page:1, Kor:"", Chn:"", Eng:"My days are like the evening shadow; I wither away like grass.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But you, O LORD, sit enthroned forever; your renown endures through all generations.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You will arise and have compassion on Zion, for it is time to show favor to her; the appointed time has come.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For her stones are dear to your servants; her very dust moves them to pity.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The nations will fear the name of the LORD, all the kings of the earth will revere your glory.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For the LORD will rebuild Zion and appear in his glory.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He will respond to the prayer of the destitute; he will not despise their plea.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Let this be written for a future generation, that a people not yet created may praise the LORD:", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:19, Page:1, Kor:"", Chn:"", Eng:""The LORD looked down from his sanctuary on high, from heaven he viewed the earth,", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:20, Page:1, Kor:"", Chn:"", Eng:"to hear the groans of the prisoners and release those condemned to death."", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So the name of the LORD will be declared in Zion and his praise in Jerusalem", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:22, Page:1, Kor:"", Chn:"", Eng:"when the peoples and the kingdoms assemble to worship the LORD.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In the course of my life he broke my strength; he cut short my days.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So I said: "Do not take me away, O my God, in the midst of my days; your years go on through all generations.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In the beginning you laid the foundations of the earth, and the heavens are the work of your hands.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They will perish, but you remain; they will all wear out like a garment. Like clothing you will change them and they will be discarded.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But you remain the same, and your years will never end.", Ind:""},
+  {Bible:"Psalms", Chapter:102, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The children of your servants will live in your presence; their descendants will be established before you."", Ind:""},
 ]);

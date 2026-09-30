@@ -1,6 +1,33 @@
 // 이사야 43장 · Isaiah 43
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",43,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",43,28);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:43, Verse:1, Page:1, Kor:"", Chn:"", Eng:"But now, this is what the LORD says--he who created you, O Jacob, he who formed you, O Israel: "Fear not, for I have redeemed you; I have summoned you by name; you are mine.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For I am the LORD, your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your stead.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Since you are precious and honored in my sight, and because I love you, I will give men in exchange for you, and people in exchange for your life.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Do not be afraid, for I am with you; I will bring your children from the east and gather you from the west.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I will say to the north, 'Give them up!' and to the south, 'Do not hold them back.' Bring my sons from afar and my daughters from the ends of the earth--", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:7, Page:1, Kor:"", Chn:"", Eng:"everyone who is called by my name, whom I created for my glory, whom I formed and made."", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Lead out those who have eyes but are blind, who have ears but are deaf.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the nations gather together and the peoples assemble. Which of them foretold this and proclaimed to us the former things? Let them bring in their witnesses to prove they were right, so that others may hear and say, "It is true."", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:10, Page:1, Kor:"", Chn:"", Eng:""You are my witnesses," declares the LORD, "and my servant whom I have chosen, so that you may know and believe me and qnderstand that I am he. Before me no god was formed, nor will there be one after me.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I, even I, am the LORD, and apart from me there is no savior.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I have revealed and saved and proclaimed--I, and not some foreign god among you. You are my witnesses," declares the LORD, "that I am God.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Yes, and from ancient days I am he. No one can deliver out of my hand. When I act, who can reverse it?"", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:14, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says--your Redeemer, the Holy One of Israel: "For your sake I will send to Babylon and bring down as fugitives all the Babylonians, in the ships in which they took pride.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I am the LORD, your Holy One, Israel's Creator, your King."", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:16, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says--he who made a way through the sea, a path through the mighty waters,", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:17, Page:1, Kor:"", Chn:"", Eng:"who drew out the chariots and horses, the army and reinforcements together, and they lay there, never to rise again, extinguished, snuffed out like a wick:", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Forget the former things; do not dwell on the past.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:19, Page:1, Kor:"", Chn:"", Eng:"See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the desert and streams in the wasteland.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The wild animals honor me, the jackals and the owls, because I provide water in the desert and streams in the wasteland, to give drink to my people, my chosen,", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:21, Page:1, Kor:"", Chn:"", Eng:"the people I formed for myself that they may proclaim my praise.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Yet you have not called upon me, O Jacob, you have not wearied yourselves for me, O Israel.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You have not brought me sheep for burnt offerings, nor honored me with your sacrifices. I have not burdened you with grain offerings nor wearied you with demands for incense.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You have not bought any fragrant calamus for me, or lavished on me the fat of your sacrifices. But you have burdened me with your sins and wearied me with your offenses.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:25, Page:1, Kor:"", Chn:"", Eng:""I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no more.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Review the past for me, let us argue the matter together; state the case for your innocence.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Your first father sinned; your spokesmen rebelled against me.", Ind:""},
+  {Bible:"Isaiah", Chapter:43, Verse:28, Page:1, Kor:"", Chn:"", Eng:"So I will disgrace the dignitaries of your temple, and I will consign Jacob to destruction and Israel to scorn.", Ind:""},
 ]);

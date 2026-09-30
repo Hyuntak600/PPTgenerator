@@ -1,6 +1,32 @@
 // 잠언 29장 · Proverbs 29
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",29,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",29,27);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:29, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A man who remains stiff-necked after many rebukes will suddenly be destroyed--without remedy.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When the righteous thrive, the people rejoice; when the wicked rule, the people groan.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:4, Page:1, Kor:"", Chn:"", Eng:"By justice a king gives a country stability, but one who is greedy for bribes tears it down.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Whoever flatters his neighbor is spreading a net for his feet.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:6, Page:1, Kor:"", Chn:"", Eng:"An evil man is snared by his own sin, but a righteous one can sing and be glad.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The righteous care about justice for the poor, but the wicked have no such concern.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Mockers stir up a city, but wise men turn away anger.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If a wise man goes to court with a fool, the fool rages and scoffs, and there is no peace.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Bloodthirsty men hate a man of integrity and seek to kill the upright.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:11, Page:1, Kor:"", Chn:"", Eng:"A fool gives full vent to his anger, but a wise man keeps himself under control.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:12, Page:1, Kor:"", Chn:"", Eng:"If a ruler listens to lies, all his officials become wicked.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The poor man and the oppressor have this in common: The LORD gives sight to the eyes of both.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:14, Page:1, Kor:"", Chn:"", Eng:"If a king judges the poor with fairness, his throne will always be secure.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The rod of correction imparts wisdom, but a child left to himself disgraces his mother.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When the wicked thrive, so does sin, but the righteous will see their downfall.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Discipline your son, and he will give you peace; he will bring delight to your soul.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Where there is no revelation, the people cast off restraint; but blessed is he who keeps the law.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:19, Page:1, Kor:"", Chn:"", Eng:"A servant cannot be corrected by mere words; though he understands, he will not respond.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Do you see a man who speaks in haste? There is more hope for a fool than for him.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:21, Page:1, Kor:"", Chn:"", Eng:"If a man pampers his servant from youth, he will bring grief in the end.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:22, Page:1, Kor:"", Chn:"", Eng:"An angry man stirs up dissension, and a hot-tempered one commits many sins.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A man's pride brings him low, but a man of lowly spirit gains honor.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The accomplice of a thief is his own enemy; he is put under oath and dare not testify.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Many seek an audience with a ruler, but it is from the LORD that man gets justice.", Ind:""},
+  {Bible:"Proverbs", Chapter:29, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The righteous detest the dishonest; the wicked detest the upright.", Ind:""},
 ]);

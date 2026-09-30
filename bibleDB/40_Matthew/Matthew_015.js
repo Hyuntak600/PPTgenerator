@@ -1,6 +1,44 @@
 // 마태복음 15장 · Matthew 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",15,39);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked,", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Why do your disciples break the tradition of the elders? They don't wash their hands before they eat!"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "And why do you break the command of God for the sake of your tradition?", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For God said, 'Honor your father and mother' and 'Anyone who curses his father or mother must be put to death.'", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But you say that if a man says to his father or mother, 'Whatever help you might otherwise have received from me is a gift devoted to God,'", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"he is not to 'honor his father' with it. Thus you nullify the word of God for the sake of your tradition.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You hypocrites! Isaiah was right when he prophesied about you:", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'These people honor me with their lips, but their hearts are far from me.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"They worship me in vain; their teachings are but rules taught by men.'"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Jesus called the crowd to him and said, "Listen and understand.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"What goes into a man's mouth does not make him 'unclean,' but what comes out of his mouth, that is what makes him 'unclean.'"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the disciples came to him and asked, "Do you know that the Pharisees were offended when they heard this?"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He replied, "Every plant that my heavenly Father has not planted will be pulled up by the roots.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Leave them; they are blind guides. If a blind man leads a blind man, both will fall into a pit."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Peter said, "Explain the parable to us."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Are you still so dull?" Jesus asked them.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Don't you see that whatever enters the mouth goes into the stomach and then out of the body?", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But the things that come out of the mouth come from the heart, and these make a man 'unclean.'", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, slander.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"These are what make a man 'unclean'; but eating with unwashed hands does not make him 'unclean.'"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Leaving that place, Jesus withdrew to the region of Tyre and Sidon.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A Canaanite woman from that vicinity came to him, crying out, "Lord, Son of David, have mercy on me! My daughter is suffering terribly from demon-possession."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Jesus did not answer a word. So his disciples came to him and urged him, "Send her away, for she keeps crying out after us."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He answered, "I was sent only to the lost sheep of Israel."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The woman came and knelt before him. "Lord, help me!" she said.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He replied, "It is not right to take the children's bread and toss it to their dogs."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Yes, Lord," she said, "but even the dogs eat the crumbs that fall from their masters' table."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Jesus answered, "Woman, you have great faith! Your request is granted." And her daughter was healed from that very hour.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they praised the God of Israel.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Jesus called his disciples to him and said, "I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"His disciples answered, "Where could we get enough bread in this remote place to feed such a crowd?"", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:34, Page:1, Kor:"", Chn:"", Eng:""How many loaves do you have?" Jesus asked. "Seven," they replied, "and a few small fish."", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:35, Page:1, Kor:"", Chn:"", Eng:"He told the crowd to sit down on the ground.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:37, Page:1, Kor:"", Chn:"", Eng:"They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:38, Page:1, Kor:"", Chn:"", Eng:"The number of those who ate was four thousand, besides women and children.", Ind:""},
+  {Bible:"Matthew", Chapter:15, Verse:39, Page:1, Kor:"", Chn:"", Eng:"After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.", Ind:""},
 ]);

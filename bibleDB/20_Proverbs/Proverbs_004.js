@@ -1,6 +1,32 @@
 // 잠언 4장 · Proverbs 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",4,27);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Listen, my sons, to a father's instruction; pay attention and gain understanding.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I give you sound learning, so do not forsake my teaching.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When I was a boy in my father's house, still tender, and an only child of my mother,", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he taught me and said, "Lay hold of my words with all your heart; keep my commands and you will live.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Get wisdom, get understanding; do not forget my words or swerve from them.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not forsake wisdom, and she will protect you; love her, and she will watch over you.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Wisdom is supreme; therefore get wisdom. Though it cost all you have, get understanding.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Esteem her, and she will exalt you; embrace her, and she will honor you.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"She will set a garland of grace on your head and present you with a crown of splendor."", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Listen, my son, accept what I say, and the years of your life will be many.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I guide you in the way of wisdom and lead you along straight paths.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When you walk, your steps will not be hampered; when you run, you will not stumble.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Hold on to instruction, do not let it go; guard it well, for it is your life.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Do not set foot on the path of the wicked or walk in the way of evil men.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Avoid it, do not travel on it; turn from it and go on your way.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For they cannot sleep till they do evil; they are robbed of slumber till they make someone fall.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"They eat the bread of wickedness and drink the wine of violence.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The path of the righteous is like the first gleam of dawn, shining ever brighter till the full light of day.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But the way of the wicked is like deep darkness; they do not know what makes them stumble.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"My son, pay attention to what I say; listen closely to my words.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not let them out of your sight, keep them within your heart;", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"for they are life to those who find them and health to a man's whole body.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Above all else, guard your heart, for it is the wellspring of life.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Put away perversity from your mouth; keep corrupt talk far from your lips.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Let your eyes look straight ahead, fix your gaze directly before you.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Make level paths for your feet and take only ways that are firm.", Ind:""},
+  {Bible:"Proverbs", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Do not swerve to the right or the left; keep your foot from evil.", Ind:""},
 ]);

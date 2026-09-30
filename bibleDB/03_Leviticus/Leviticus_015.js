@@ -1,6 +1,38 @@
 // 레위기 15장 · Leviticus 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",15,33);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses and Aaron,", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Speak to the Israelites and say to them: 'When any man has a bodily discharge, the discharge is unclean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Whether it continues flowing from his body or is blocked, it will make him unclean. This is how his discharge will bring about uncleanness:", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:""'Any bed the man with a discharge lies on will be unclean, and anything he sits on will be unclean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Anyone who touches his bed must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Whoever sits on anything that the man with a discharge sat on must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'Whoever touches the man who has a discharge must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'If the man with the discharge spits on someone who is clean, that person must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'Everything the man sits on when riding will be unclean,", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and whoever touches any of the things that were under him will be unclean till evening; whoever picks up those things must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'Anyone the man with a discharge touches without rinsing his hands with water must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'A clay pot that the man touches must be broken, and any wooden article is to be rinsed with water.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'When a man is cleansed from his discharge, he is to count off seven days for his ceremonial cleansing; he must wash his clothes and bathe himself with fresh water, and he will be clean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"On the eighth day he must take two doves or two young pigeons and come before the LORD to the entrance to the Tent of Meeting and give them to the priest.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The priest is to sacrifice them, the one for a sin offering and the other for a burnt offering. In this way he will make atonement before the LORD for the man because of his discharge.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'When a man has an emission of semen, he must bathe his whole body with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Any clothing or leather that has semen on it must be washed with water, and it will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When a man lies with a woman and there is an emission of semen, both must bathe with water, and they will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:""'When a woman has her regular flow of blood, the impurity of her monthly period will last seven days, and anyone who touches her will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'Anything she lies on during her period will be unclean, and anything she sits on will be unclean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Whoever touches her bed must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Whoever touches anything she sits on must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Whether it is the bed or anything she was sitting on, when anyone touches it, he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'If a man lies with her and her monthly flow touches him, he will be unclean for seven days; any bed he lies on will be unclean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'When a woman has a discharge of blood for many days at a time other than her monthly period or has a discharge that continues beyond her period, she will be unclean as long as she has the discharge, just as in the days of her period.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Any bed she lies on while her discharge continues will be unclean, as is her bed during her monthly period, and anything she sits on will be unclean, as during her period.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Whoever touches them will be unclean; he must wash his clothes and bathe with water, and he will be unclean till evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:""'When she is cleansed from her discharge, she must count off seven days, and after that she will be ceremonially clean.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"On the eighth day she must take two doves or two young pigeons and bring them to the priest at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The priest is to sacrifice one for a sin offering and the other for a burnt offering. In this way he will make atonement for her before the LORD for the uncleanness of her discharge.", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:""'You must keep the Israelites separate from things that make them unclean, so they will not die in their uncleanness for defiling my dwelling place, which is among them.'"", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"These are the regulations for a man with a discharge, for anyone made unclean by an emission of semen,", Ind:""},
+  {Bible:"Leviticus", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"for a woman in her monthly period, for a man or a woman with a discharge, and for a man who lies with a woman who is ceremonially unclean.", Ind:""},
 ]);

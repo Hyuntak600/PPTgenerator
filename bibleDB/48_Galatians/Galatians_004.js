@@ -1,6 +1,36 @@
 // 갈라디아서 4장 · Galatians 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Galatians",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Galatians",4,31);
 BibleDB.add([
+  {Bible:"Galatians", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"What I am saying is that as long as the heir is a child, he is no different from a slave, although he owns the whole estate.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He is subject to guardians and trustees until the time set by his father.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So also, when we were children, we were in slavery under the basic principles of the world.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But when the time had fully come, God sent his Son, born of a woman, born under law,", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"to redeem those under law, that we might receive the full rights of sons.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Because you are sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, "Abba, Father."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So you are no longer a slave, but a son; and since you are a son, God has made you also an heir.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Formerly, when you did not know God, you were slaves to those who by nature are not gods.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But now that you know God--or rather are known by God--how is it that you are turning back to those weak and miserable principles? Do you wish to be enslaved by them all over again?", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You are observing special days and months and seasons and years!", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I fear for you, that somehow I have wasted my efforts on you.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I plead with you, brothers, become like me, for I became like you. You have done me no wrong.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"As you know, it was because of an illness that I first preached the gospel to you.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Even though my illness was a trial to you, you did not treat me with contempt or scorn. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus himself.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"What has happened to all your joy? I can testify that, if you could have done so, you would have torn out your eyes and given them to me.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Have I now become your enemy by telling you the truth?", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Those people are zealous to win you over, but for no good. What they want is to alienate you from us, so that you may be zealous for them.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"It is fine to be zealous, provided the purpose is good, and to be so always and not just when I am with you.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My dear children, for whom I am again in the pains of childbirth until Christ is formed in you,", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"how I wish I could be with you now and change my tone, because I am perplexed about you!", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Tell me, you who want to be under the law, are you not aware of what the law says?", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"His son by the slave woman was born in the ordinary way; but his son by the free woman was born as the result of a promise.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"These things may be taken figuratively, for the women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But the Jerusalem that is above is free, and she is our mother.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For it is written: "Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Now you, brothers, like Isaac, are children of promise.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"At that time the son born in the ordinary way persecuted the son born by the power of the Spirit. It is the same now.", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But what does the Scripture say? "Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son."", Ind:""},
+  {Bible:"Galatians", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Therefore, brothers, we are not children of the slave woman, but of the free woman.", Ind:""},
 ]);

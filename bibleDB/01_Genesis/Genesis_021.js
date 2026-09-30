@@ -1,6 +1,39 @@
 // 창세기 21장 · Genesis 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",21,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",21,34);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had  promised.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had  promised him.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Abraham gave the name Isaac to the son Sarah bore him.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"When his son Isaac was eight days old, Abraham circumcised him, as God commanded him.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Abraham was a hundred years old when his son Isaac was born to him.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Sarah said, "God has brought me laughter, and everyone who hears about this will laugh with  me."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And she added, "Who would have said to Abraham that Sarah would nurse children? Yet I have  borne him a son in his old age."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking,", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and she said to Abraham, "Get rid of that slave woman and her son, for that slave woman's  son will never share in the inheritance with my son Isaac."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The matter distressed Abraham greatly because it concerned his son.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But God said to him, "Do not be so distressed about the boy and your maidservant. Listen to  whatever Sarah tells you, because it is through Isaac that your offspring will be reckoned.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will make the son of the maidservant into a nation also, because he is your offspring."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Early the next morning Abraham took some food and a skin of water and gave them to Hagar.  He set them on her shoulders and then sent her off with the boy. She went on her way and wandered  in the desert of Beersheba.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When the water in the skin was gone, she put the boy under one of the bushes.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then she went off and sat down nearby, about a bowshot away, for she thought, "I cannot  watch the boy die." And as she sat there nearby, she began to sob.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:"God heard the boy crying, and the angel of God called to Hagar from heaven and said to her,  "What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Lift the boy up and take him by the hand, for I will make him into a great nation."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then God opened her eyes and she saw a well of water. So she went and filled the skin with  water and gave the boy a drink.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:20, Page:1, Kor:"", Chn:"", Eng:"God was with the boy as he grew up. He lived in the desert and became an archer.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"While he was living in the Desert of Paran, his mother got a wife for him from Egypt.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"At that time Abimelech and Phicol the commander of his forces said to Abraham, "God is with  you in everything you do.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Now swear to me here before God that you will not deal falsely with me or my children or my  descendants. Show to me and the country where you are living as an alien the same kindness I have  shown to you."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Abraham said, "I swear it."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Abraham complained to Abimelech about a well of water that Abimelech's servants had  seized.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But Abimelech said, "I don't know who has done this. You did not tell me, and I heard about  it only today."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a  treaty.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Abraham set apart seven ewe lambs from the flock,", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:29, Page:1, Kor:"", Chn:"", Eng:"and Abimelech asked Abraham, "What is the meaning of these seven ewe lambs you have set  apart by themselves?"", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He replied, "Accept these seven lambs from my hand as a witness that I dug this well."", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:31, Page:1, Kor:"", Chn:"", Eng:"So that place was called Beersheba, because the two men swore an oath there.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:32, Page:1, Kor:"", Chn:"", Eng:"After the treaty had been made at Beersheba, Abimelech and Phicol the commander of his  forces returned to the land of the Philistines.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the  LORD, the Eternal God.", Ind:""},
+  {Bible:"Genesis", Chapter:21, Verse:34, Page:1, Kor:"", Chn:"", Eng:"And Abraham stayed in the land of the Philistines for a long time.", Ind:""},
 ]);

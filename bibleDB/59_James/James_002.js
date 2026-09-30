@@ -1,6 +1,31 @@
 // 야고보서 2장 · James 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("James",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("James",2,26);
 BibleDB.add([
+  {Bible:"James", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My brothers, as believers in our glorious Lord Jesus Christ, don't show favoritism.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"If you show special attention to the man wearing fine clothes and say, "Here's a good seat for you," but say to the poor man, "You stand there" or "Sit on the floor by my feet,"", Ind:""},
+  {Bible:"James", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"have you not discriminated among yourselves and become judges with evil thoughts?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Listen, my dear brothers: Has not God chosen those who are poor in the eyes of the world to be rich in faith and to inherit the kingdom he promised those who love him?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But you have insulted the poor. Is it not the rich who are exploiting you? Are they not the ones who are dragging you into court?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Are they not the ones who are slandering the noble name of him to whom you belong?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"If you really keep the royal law found in Scripture, "Love your neighbor as yourself," you are doing right.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But if you show favoritism, you sin and are convicted by the law as lawbreakers.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For he who said, "Do not commit adultery," also said, "Do not murder." If you do not commit adultery but do commit murder, you have become a lawbreaker.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Speak and act as those who are going to be judged by the law that gives freedom,", Ind:""},
+  {Bible:"James", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"because judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment!", Ind:""},
+  {Bible:"James", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"What good is it, my brothers, if a man claims to have faith but has no deeds? Can such faith save him?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Suppose a brother or sister is without clothes and daily food.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"If one of you says to him, "Go, I wish you well; keep warm and well fed," but does nothing about his physical needs, what good is it?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"In the same way, faith by itself, if it is not accompanied by action, is dead.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But someone will say, "You have faith; I have deeds." Show me your faith without deeds, and I will show you my faith by what I do.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You believe that there is one God. Good! Even the demons believe that--and shudder.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You foolish man, do you want evidence that faith without deeds is useless?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Was not our ancestor Abraham considered righteous for what he did when he offered his son Isaac on the altar?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You see that his faith and his actions were working together, and his faith was made complete by what he did.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And the scripture was fulfilled that says, "Abraham believed God, and it was credited to him as righteousness," and he was called God's friend.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You see that a person is justified by what he does and not by faith alone.", Ind:""},
+  {Bible:"James", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In the same way, was not even Rahab the prostitute considered righteous for what she did when she gave lodging to the spies and sent them off in a different direction?", Ind:""},
+  {Bible:"James", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"As the body without the spirit is dead, so faith without deeds is dead.", Ind:""},
 ]);

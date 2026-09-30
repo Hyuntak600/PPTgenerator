@@ -1,6 +1,38 @@
 // 마가복음 11장 · Mark 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Mark",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Mark",11,33);
 BibleDB.add([
+  {Bible:"Mark", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent two of his disciples,", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"saying to them, "Go to the village ahead of you, and just as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"If anyone asks you, 'Why are you doing this?' tell him, 'The Lord needs it and will send it back here shortly.'"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They went and found a colt outside in the street, tied at a doorway. As they untied it,", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"some people standing there asked, "What are you doing, untying that colt?"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They answered as Jesus had told them to, and the people let them go.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When they brought the colt to Jesus and threw their cloaks over it, he sat on it.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Many people spread their cloaks on the road, while others spread branches they had cut in the fields.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Those who went ahead and those who followed shouted, "Hosanna!" "Blessed is he who comes in the name of the Lord!"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Blessed is the coming kingdom of our father David!" "Hosanna in the highest!"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Jesus entered Jerusalem and went to the temple. He looked around at everything, but since it was already late, he went out to Bethany with the Twelve.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The next day as they were leaving Bethany, Jesus was hungry.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Seeing in the distance a fig tree in leaf, he went to find out if it had any fruit. When he reached it, he found nothing but leaves, because it was not the season for figs.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then he said to the tree, "May no one ever eat fruit from you again." And his disciples heard him say it.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"On reaching Jerusalem, Jesus entered the temple area and began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves,", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"and would not allow anyone to carry merchandise through the temple courts.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And as he taught them, he said, "Is it not written: "'My house will be called a house of prayer for all nations'? But you have made it 'a den of robbers.'"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The chief priests and the teachers of the law heard this and began looking for a way to kill him, for they feared him, because the whole crowd was amazed at his teaching.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When evening came, they went out of the city.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In the morning, as they went along, they saw the fig tree withered from the roots.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Peter remembered and said to Jesus, "Rabbi, look! The fig tree you cursed has withered!"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Have faith in God," Jesus answered.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:""I tell you the truth, if anyone says to this mountain, 'Go, throw yourself into the sea,' and does not doubt in his heart but believes that what he says will happen, it will be done for him.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And when you stand praying, if you hold anything against anyone, forgive him, so that your Father in heaven may forgive you your sins."", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They arrived again in Jerusalem, and while Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to him.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:""By what authority are you doing these things?" they asked. "And who gave you authority to do this?"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "I will ask you one question. Answer me, and I will tell you by what authority I am doing these things.", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"John's baptism--was it from heaven, or from men? Tell me!"", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They discussed it among themselves and said, "If we say, 'From heaven,' he will ask, 'Then why didn't you believe him?'", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"But if we say, 'From men'...." (They feared the people, for everyone held that John really was a prophet.)", Ind:""},
+  {Bible:"Mark", Chapter:11, Verse:33, Page:1, Kor:"", Chn:"", Eng:"So they answered Jesus, "We don't know." Jesus said, "Neither will I tell you by what authority I am doing these things."", Ind:""},
 ]);

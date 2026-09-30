@@ -1,6 +1,24 @@
 // 예레미야 35장 · Jeremiah 35
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",35,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",35,19);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:35, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the word that came to Jeremiah from the LORD during the reign of Jehoiakim son of Josiah king of Judah:", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Go to the Recabite family and invite them to come to one of the side rooms of the house of the LORD and give them wine to drink."", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So I went to get Jaazaniah son of Jeremiah, the son of Habazziniah, and his brothers and all his sons--the whole family of the Recabites.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I brought them into the house of the LORD, into the room of the sons of Hanan son of Igdaliah the man of God. It was next to the room of the officials, which was over that of Maaseiah son of Shallum the doorkeeper.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then I set bowls full of wine and some cups before the men of the Recabite family and said to them, "Drink some wine."", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But they replied, "We do not drink wine, because our forefather Jonadab son of Recab gave us this command: 'Neither you nor your descendants must ever drink wine.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Also you must never build houses, sow seed or plant vineyards; you must never have any of these things, but must always live in tents. Then you will live a long time in the land where you are nomads.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:8, Page:1, Kor:"", Chn:"", Eng:"We have obeyed everything our forefather Jonadab son of Recab commanded us. Neither we nor our wives nor our sons and daughters have ever drunk wine", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:9, Page:1, Kor:"", Chn:"", Eng:"or built houses to live in or had vineyards, fields or crops.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:10, Page:1, Kor:"", Chn:"", Eng:"We have lived in tents and have fully obeyed everything our forefather Jonadab commanded us.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But when Nebuchadnezzar king of Babylon invaded this land, we said, 'Come, we must go to Jerusalem to escape the Babylonian and Aramean armies.' So we have remained in Jerusalem."", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to Jeremiah, saying:", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:13, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD Almighty, the God of Israel, says: Go and tell the men of Judah and the people of Jerusalem, 'Will you not learn a lesson and obey my words?' declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:14, Page:1, Kor:"", Chn:"", Eng:"'Jonadab son of Recab ordered his sons not to drink wine and this command has been kept. To this day they do not drink wine, because they obey their forefather's command. But I have spoken to you again and again, yet you have not obeyed me.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Again and again I sent all my servants the prophets to you. They said, "Each of you must turn from your wicked ways and reform your actions; do not follow other gods to serve them. Then you will live in the land I have given to you and your fathers." But you have not paid attention or listened to me.", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The descendants of Jonadab son of Recab have carried out the command their forefather gave them, but these people have not obeyed me.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Therefore, this is what the LORD God Almighty, the God of Israel, says: 'Listen! I am going to bring on Judah and on everyone living in Jerusalem every disaster I pronounced against them. I spoke to them, but they did not listen; I called to them, but they did not answer.'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Jeremiah said to the family of the Recabites, "This is what the LORD Almighty, the God of Israel, says: 'You have obeyed the command of your forefather Jonadab and have followed all his instructions and have done everything he ordered.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:35, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Therefore, this is what the LORD Almighty, the God of Israel, says: 'Jonadab son of Recab will never fail to have a man to serve me.'"", Ind:""},
 ]);

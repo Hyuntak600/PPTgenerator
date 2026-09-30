@@ -1,6 +1,37 @@
 // 창세기 10장 · Genesis 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",10,32);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the account of Shem, Ham and Japheth, Noah's sons, who themselves had sons after the  flood.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The sons of Gomer: Ashkenaz, Riphath and Togarmah.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The sons of Javan: Elishah, Tarshish, the Kittim and the Rodanim.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"(From these the maritime peoples spread out into their territories by their clans within  their nations, each with its own language.)", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The sons of Ham: Cush, Mizraim, Put and Canaan.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The sons of Cush: Seba, Havilah, Sabtah, Raamah and Sabteca. The sons of Raamah: Sheba and  Dedan.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Cush was the father of Nimrod, who grew to be a mighty warrior on the earth.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He was a mighty hunter before the LORD; that is why it is said, "Like Nimrod, a mighty  hunter before the LORD."", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The first centers of his kingdom were Babylon, Erech, Akkad and Calneh, in Shinar.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"From that land he went to Assyria, where he built Nineveh, Rehoboth Ir, Calah", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"and Resen, which is between Nineveh and Calah; that is the great city.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Pathrusites, Casluhites (from whom the Philistines came) and Caphtorites.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Canaan was the father of Sidon his firstborn, and of the Hittites,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Jebusites, Amorites, Girgashites,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Hivites, Arkites, Sinites,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Arvadites, Zemarites and Hamathites. Later the Canaanite clans scattered", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and the borders of Canaan reached from Sidon toward Gerar as far as Gaza, and then toward  Sodom, Gomorrah, Admah and Zeboiim, as far as Lasha.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"These are the sons of Ham by their clans and languages, in their territories and nations.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Sons were also born to Shem, whose older brother was Japheth; Shem was the ancestor of all  the sons of Eber.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The sons of Shem: Elam, Asshur, Arphaxad, Lud and Aram.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The sons of Aram: Uz, Hul, Gether and Meshech.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Arphaxad was the father of Shelah, and Shelah the father of Eber.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Two sons were born to Eber: One was named Peleg, because in his time the earth was divided;  his brother was named Joktan.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Hadoram, Uzal, Diklah,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Obal, Abimael, Sheba,", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Ophir, Havilah and Jobab. All these were sons of Joktan.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The region where they lived stretched from Mesha toward Sephar, in the eastern hill  country.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:31, Page:1, Kor:"", Chn:"", Eng:"These are the sons of Shem by their clans and languages, in their territories and nations.", Ind:""},
+  {Bible:"Genesis", Chapter:10, Verse:32, Page:1, Kor:"", Chn:"", Eng:"These are the clans of Noah's sons, according to their lines of descent, within their  nations. From these the nations spread out over the earth after the flood.", Ind:""},
 ]);

@@ -1,0 +1,22 @@
+// 3,600Foremenoverthemtokeepthepeopleworking. 3장 · 3,600Foremenoverthemtokeepthepeopleworking. 3
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("3,600Foremenoverthemtokeepthepeopleworking.",3,17);
+BibleDB.add([
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Solomon began to build the temple of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. It was on the threshing floor of Araunah the Jebusite, the place provided by David.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He began building on the second day of the second month in the fourth year of his reign.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The foundation Solomon laid for building the temple of God was sixty cubits long and twenty cubits wide (using the cubit of the old standard).", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The portico at the front of the temple was twenty cubits long across the width of the building and twenty cubits high. He overlaid the inside with pure gold.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He paneled the main hall with pine and covered it with fine gold and decorated it with palm tree and chain designs.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He adorned the temple with precious stones. And the gold he used was gold of Parvaim.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He overlaid the ceiling beams, doorframes, walls and doors of the temple with gold, and he carved cherubim on the walls.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He built the Most Holy Place, its length corresponding to the width of the temple--twenty cubits long and twenty cubits wide. He overlaid the inside with six hundred talents of fine gold.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The gold nails weighed fifty shekels. He also overlaid the upper parts with gold.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"In the Most Holy Place he made a pair of sculptured cherubim and overlaid them with gold.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long and touched the temple wall, while its other wing, also five cubits long, touched the wing of the other cherub.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Similarly one wing of the second cherub was five cubits long and touched the other temple wall, and its other wing, also five cubits long, touched the wing of the first cherub.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The wings of these cherubim extended twenty cubits. They stood on their feet, facing the main hall.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He made the curtain of blue, purple and crimson yarn and fine linen, with cherubim worked into it.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"In the front of the temple he made two pillars, which together were thirty-five cubits long, each with a capital on top measuring five cubits.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He made interwoven chains and put them on top of the pillars. He also made a hundred pomegranates and attached them to the chains.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin and the one to the north Boaz.", Ind:""},
+]);

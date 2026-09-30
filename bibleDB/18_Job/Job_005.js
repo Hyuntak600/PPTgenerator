@@ -1,6 +1,32 @@
 // 욥기 5장 · Job 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",5,27);
 BibleDB.add([
+  {Bible:"Job", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Call if you will, but who will answer you? To which of the holy ones will you turn?", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Resentment kills a fool, and envy slays the simple.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I myself have seen a fool taking root, but suddenly his house was cursed.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His children are far from safety, crushed in court without a defender.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The hungry consume his harvest, taking it even from among thorns, and the thirsty pant after his wealth.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For hardship does not spring from the soil, nor does trouble sprout from the ground.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Yet man is born to trouble as surely as sparks fly upward.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:""But if it were I, I would appeal to God; I would lay my cause before him.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He performs wonders that cannot be fathomed, miracles that cannot be counted.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He bestows rain on the earth; he sends water upon the countryside.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The lowly he sets on high, and those who mourn are lifted to safety.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He thwarts the plans of the crafty, so that their hands achieve no success.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He catches the wise in their craftiness, and the schemes of the wily are swept away.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Darkness comes upon them in the daytime; at noon they grope as in the night.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He saves the needy from the sword in their mouth; he saves them from the clutches of the powerful.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So the poor have hope, and injustice shuts its mouth.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Blessed is the man whom God corrects; so do not despise the discipline of the Almighty.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For he wounds, but he also binds up; he injures, but his hands also heal.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"From six calamities he will rescue you; in seven no harm will befall you.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In famine he will ransom you from death, and in battle from the stroke of the sword.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"You will be protected from the lash of the tongue, and need not fear when destruction comes.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"You will laugh at destruction and famine, and need not fear the beasts of the earth.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For you will have a covenant with the stones of the field, and the wild animals will be at peace with you.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You will know that your tent is secure; you will take stock of your property and find nothing missing.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"You will know that your children will be many, and your descendants like the grass of the earth.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"You will come to the grave in full vigor, like sheaves gathered in season.", Ind:""},
+  {Bible:"Job", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:""We have examined this, and it is true. So hear it and apply it to yourself."", Ind:""},
 ]);

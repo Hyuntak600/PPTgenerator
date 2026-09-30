@@ -1,6 +1,31 @@
 // 민수기 8장 · Numbers 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",8,26);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Speak to Aaron and say to him, 'When you set up the seven lamps, they are to light the area in front of the lampstand.'"", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Aaron did so; he set up the lamps so that they faced forward on the lampstand, just as the LORD commanded Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"This is how the lampstand was made: It was made of hammered gold--from its base to its blossoms. The lampstand was made exactly like the pattern the LORD had shown Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses:", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Take the Levites from among the other Israelites and make them ceremonially clean.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"To purify them, do this: Sprinkle the water of cleansing on them; then have them shave their whole bodies and wash their clothes, and so purify themselves.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Have them take a young bull with its grain offering of fine flour mixed with oil; then you are to take a second young bull for a sin offering.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Bring the Levites to the front of the Tent of Meeting and assemble the whole Israelite community.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You are to bring the Levites before the LORD, and the Israelites are to lay their hands on them.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Aaron is to present the Levites before the LORD as a wave offering from the Israelites, so that they may be ready to do the work of the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:""After the Levites lay their hands on the heads of the bulls, use the one for a sin offering to the LORD and the other for a burnt offering, to make atonement for the Levites.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Have the Levites stand in front of Aaron and his sons and then present them as a wave offering to the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"In this way you are to set the Levites apart from the other Israelites, and the Levites will be mine.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:""After you have purified the Levites and presented them as a wave offering, they are to come to do their work at the Tent of Meeting.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They are the Israelites who are to be given wholly to me. I have taken them as my own in place of the firstborn, the first male offspring from every Israelite woman.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Every firstborn male in Israel, whether man or animal, is mine. When I struck down all the firstborn in Egypt, I set them apart for myself.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And I have taken the Levites in place of all the firstborn sons in Israel.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Of all the Israelites, I have given the Levites as gifts to Aaron and his sons to do the work at the Tent of Meeting on behalf of the Israelites and to make atonement for them so that no plague will strike the Israelites when they go near the sanctuary."", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Moses, Aaron and the whole Israelite community did with the Levites just as the LORD commanded Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The Levites purified themselves and washed their clothes. Then Aaron presented them as a wave offering before the LORD and made atonement for them to purify them.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"After that, the Levites came to do their work at the Tent of Meeting under the supervision of Aaron and his sons. They did with the Levites just as the LORD commanded Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:""This applies to the Levites: Men twenty-five years old or more shall come to take part in the work at the Tent of Meeting,", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"but at the age of fifty, they must retire from their regular service and work no longer.", Ind:""},
+  {Bible:"Numbers", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They may assist their brothers in performing their duties at the Tent of Meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites."", Ind:""},
 ]);

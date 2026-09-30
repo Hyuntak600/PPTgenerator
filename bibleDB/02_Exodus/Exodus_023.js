@@ -1,6 +1,38 @@
 // 출애굽기 23장 · Exodus 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",23,33);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Do not spread false reports. Do not help a wicked man by being a malicious witness.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd,", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and do not show favoritism to a poor man in his lawsuit.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:""If you come across your enemy's ox or donkey wandering off, be sure to take it back to him.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"If you see the donkey of someone who hates you fallen down under its load, do not leave it there; be sure you help him with it.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Do not deny justice to your poor people in their lawsuits.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Have nothing to do with a false charge and do not put an innocent or honest person to death, for I will not acquit the guilty.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Do not accept a bribe, for a bribe blinds those who see and twists the words of the righteous.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Do not oppress an alien; you yourselves know how it feels to be aliens, because you were aliens in Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:""For six years you are to sow your fields and harvest the crops,", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"but during the seventh year let the land lie unplowed and unused. Then the poor among your people may get food from it, and the wild animals may eat what they leave. Do the same with your vineyard and your olive grove.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest and the slave born in your household, and the alien as well, may be refreshed.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Be careful to do everything I have said to you. Do not invoke the names of other gods; do not let them be heard on your lips.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:""Three times a year you are to celebrate a festival to me.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Celebrate the Feast of Unleavened Bread; for seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Abib, for in that month you came out of Egypt. "No one is to appear before me empty-handed.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Celebrate the Feast of Harvest with the firstfruits of the crops you sow in your field. "Celebrate the Feast of Ingathering at the end of the year, when you gather in your crops from the field.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Three times a year all the men are to appear before the Sovereign LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Do not offer the blood of a sacrifice to me along with anything containing yeast. "The fat of my festival offerings must not be kept until morning.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Bring the best of the firstfruits of your soil to the house of the LORD your God. "Do not cook a young goat in its mother's milk.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:""See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Pay attention to him and listen to what he says. Do not rebel against him; he will not forgive your rebellion, since my Name is in him.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"If you listen carefully to what he says and do all that I say, I will be an enemy to your enemies and will oppose those who oppose you.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:"My angel will go ahead of you and bring you into the land of the Amorites, Hittites, Perizzites, Canaanites, Hivites and Jebusites, and I will wipe them out.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Do not bow down before their gods or worship them or follow their practices. You must demolish them and break their sacred stones to pieces.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Worship the LORD your God, and his blessing will be on your food and water. I will take away sickness from among you,", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:26, Page:1, Kor:"", Chn:"", Eng:"and none will miscarry or be barren in your land. I will give you a full life span.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:27, Page:1, Kor:"", Chn:"", Eng:""I will send my terror ahead of you and throw into confusion every nation you encounter. I will make all your enemies turn their backs and run.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:28, Page:1, Kor:"", Chn:"", Eng:"I will send the hornet ahead of you to drive the Hivites, Canaanites and Hittites out of your way.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:29, Page:1, Kor:"", Chn:"", Eng:"But I will not drive them out in a single year, because the land would become desolate and the wild animals too numerous for you.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Little by little I will drive them out before you, until you have increased enough to take possession of the land.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:31, Page:1, Kor:"", Chn:"", Eng:""I will establish your borders from the Red Sea to the Sea of the Philistines, and from the desert to the River. I will hand over to you the people who live in the land and you will drive them out before you.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Do not make a covenant with them or with their gods.", Ind:""},
+  {Bible:"Exodus", Chapter:23, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Do not let them live in your land, or they will cause you to sin against me, because the worship of their gods will certainly be a snare to you."", Ind:""},
 ]);

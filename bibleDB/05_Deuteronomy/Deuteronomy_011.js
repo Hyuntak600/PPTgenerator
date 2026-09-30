@@ -1,6 +1,37 @@
 // 신명기 11장 · Deuteronomy 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",11,32);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Love the LORD your God and keep his requirements, his decrees, his laws and his commands always.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Remember today that your children were not the ones who saw and experienced the discipline of the LORD your God: his majesty, his mighty hand, his outstretched arm;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"the signs he performed and the things he did in the heart of Egypt, both to Pharaoh king of Egypt and to his whole country;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"what he did to the Egyptian army, to its horses and chariots, how he overwhelmed them with the waters of the Red Sea as they were pursuing you, and how the LORD brought lasting ruin on them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"It was not your children who saw what he did for you in the desert until you arrived at this place,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and what he did to Dathan and Abiram, sons of Eliab the Reubenite, when the earth opened its mouth right in the middle of all Israel and swallowed them up with their households, their tents and every living thing that belonged to them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But it was your own eyes that saw all these great things the LORD has done.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Observe therefore all the commands I am giving you today, so that you may have the strength to go in and take over the land that you are crossing the Jordan to possess,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and so that you may live long in the land that the LORD swore to your forefathers to give to them and their descendants, a land flowing with milk and honey.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The land you are entering to take over is not like the land of Egypt, from which you have come, where you planted your seed and irrigated it by foot as in a vegetable garden.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the land you are crossing the Jordan to take possession of is a land of mountains and valleys that drinks rain from heaven.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It is a land the LORD your God cares for; the eyes of the LORD your God are continually on it from the beginning of the year to its end.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So if you faithfully obey the commands I am giving you today--to love the LORD your God and to serve him with all your heart and with all your soul--", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"then I will send rain on your land in its season, both autumn and spring rains, so that you may gather in your grain, new wine and oil.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will provide grass in the fields for your cattle, and you will eat and be satisfied.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Be careful, or you will be enticed to turn away and worship other gods and bow down to them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the LORD'S anger will burn against you, and he will shut the heavens so that it will not rain and the ground will yield no produce, and you will soon perish from the good land the LORD is giving you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Fix these words of mine in your hearts and minds; tie them as symbols on your hands and bind them on your foreheads.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Teach them to your children, talking about them when you sit at home and when you walk along the road, when you lie down and when you get up.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Write them on the doorframes of your houses and on your gates,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"so that your days and the days of your children may be many in the land that the LORD swore to give your forefathers, as many as the days that the heavens are above the earth.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"If you carefully observe all these commands I am giving you to follow--to love the LORD your God, to walk in all his ways and to hold fast to him--", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"then the LORD will drive out all these nations before you, and you will dispossess nations larger and stronger than you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Every place where you set your foot will be yours: Your territory will extend from the desert to Lebanon, and from the Euphrates River to the western sea.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"No man will be able to stand against you. The LORD your God, as he promised you, will put the terror and fear of you on the whole land, wherever you go.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"See, I am setting before you today a blessing and a curse--", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"the blessing if you obey the commands of the LORD your God that I am giving you today;", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"the curse if you disobey the commands of the LORD your God and turn from the way that I command you today by following other gods, which you have not known.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"When the LORD your God has brought you into the land you are entering to possess, you are to proclaim on Mount Gerizim the blessings, and on Mount Ebal the curses.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"As you know, these mountains are across the Jordan, west of the road, toward the setting sun, near the great trees of Moreh, in the territory of those Canaanites living in the Arabah in the vicinity of Gilgal.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"You are about to cross the Jordan to enter and take possession of the land the LORD your God is giving you. When you have taken it over and are living there,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"be sure that you obey all the decrees and laws I am setting before you today.", Ind:""},
 ]);

@@ -1,6 +1,44 @@
 // 히브리서 10장 · Hebrews 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Hebrews",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Hebrews",10,39);
 BibleDB.add([
+  {Bible:"Hebrews", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The law is only a shadow of the good things that are coming--not the realities themselves. For this reason it can never, by the same sacrifices repeated endlessly year after year, make perfect those who draw near to worship.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"If it could, would they not have stopped being offered? For the worshipers would have been cleansed once for all, and would no longer have felt guilty for their sins.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But those sacrifices are an annual reminder of sins,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"because it is impossible for the blood of bulls and goats to take away sins.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Therefore, when Christ came into the world, he said: "Sacrifice and offering you did not desire, but a body you prepared for me;", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"with burnt offerings and sin offerings you were not pleased.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then I said, 'Here I am--it is written about me in the scroll--I have come to do your will, O God.'"", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"First he said, "Sacrifices and offerings, burnt offerings and sin offerings you did not desire, nor were you pleased with them" (although the law required them to be made).", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then he said, "Here I am, I have come to do your will." He sets aside the first to establish the second.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And by that will, we have been made holy through the sacrifice of the body of Jesus Christ once for all.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But when this priest had offered for all time one sacrifice for sins, he sat down at the right hand of God.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Since that time he waits for his enemies to be made his footstool,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"because by one sacrifice he has made perfect forever those who are being made holy.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The Holy Spirit also testifies to us about this. First he says:", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:""This is the covenant I will make with them after that time, says the Lord. I will put my laws in their hearts, and I will write them on their minds."", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then he adds: "Their sins and lawless acts I will remember no more."", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And where these have been forgiven, there is no longer any sacrifice for sin.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"by a new and living way opened for us through the curtain, that is, his body,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and since we have a great priest over the house of God,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"let us draw near to God with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Let us hold unswervingly to the hope we profess, for he who promised is faithful.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And let us consider how we may spur one another on toward love and good deeds.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another--and all the more as you see the Day approaching.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If we deliberately keep on sinning after we have received the knowledge of the truth, no sacrifice for sins is left,", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"but only a fearful expectation of judgment and of raging fire that will consume the enemies of God.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:"How much more severely do you think a man deserves to be punished who has trampled the Son of God under foot, who has treated as an unholy thing the blood of the covenant that sanctified him, and who has insulted the Spirit of grace?", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:30, Page:1, Kor:"", Chn:"", Eng:"For we know him who said, "It is mine to avenge; I will repay," and again, "The Lord will judge his people."", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:31, Page:1, Kor:"", Chn:"", Eng:"It is a dreadful thing to fall into the hands of the living God.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Remember those earlier days after you had received the light, when you stood your ground in a great contest in the face of suffering.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Sometimes you were publicly exposed to insult and persecution; at other times you stood side by side with those who were so treated.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:34, Page:1, Kor:"", Chn:"", Eng:"You sympathized with those in prison and joyfully accepted the confiscation of your property, because you knew that you yourselves had better and lasting possessions.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:35, Page:1, Kor:"", Chn:"", Eng:"So do not throw away your confidence; it will be richly rewarded.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:36, Page:1, Kor:"", Chn:"", Eng:"You need to persevere so that when you have done the will of God, you will receive what he has promised.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:37, Page:1, Kor:"", Chn:"", Eng:"For in just a very little while, "He who is coming will come and will not delay.", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:38, Page:1, Kor:"", Chn:"", Eng:"But my righteous one will live by faith. And if he shrinks back, I will not be pleased with him."", Ind:""},
+  {Bible:"Hebrews", Chapter:10, Verse:39, Page:1, Kor:"", Chn:"", Eng:"But we are not of those who shrink back and are destroyed, but of those who believe and are saved.", Ind:""},
 ]);

@@ -1,6 +1,43 @@
 // 요한복음 13장 · John 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("John",13,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("John",13,38);
 BibleDB.add([
+  {Bible:"John", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"It was just before the Passover Feast. Jesus knew that the time had come for him to leave this world and go to the Father. Having loved his own who were in the world, he now showed them the full extent of his love.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The evening meal was being served, and the devil had already prompted Judas Iscariot, son of Simon, to betray Jesus.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Jesus knew that the Father had put all things under his power, and that he had come from God and was returning to God;", Ind:""},
+  {Bible:"John", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"so he got up from the meal, took off his outer clothing, and wrapped a towel around his waist.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"After that, he poured water into a basin and began to wash his disciples' feet, drying them with the towel that was wrapped around him.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He came to Simon Peter, who said to him, "Lord, are you going to wash my feet?"", Ind:""},
+  {Bible:"John", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "You do not realize now what I am doing, but later you will understand."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:""No," said Peter, "you shall never wash my feet." Jesus answered, "Unless I wash you, you have no part with me."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Then, Lord," Simon Peter replied, "not just my feet but my hands and my head as well!"", Ind:""},
+  {Bible:"John", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "A person who has had a bath needs only to wash his feet; his whole body is clean. And you are clean, though not every one of you."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For he knew who was going to betray him, and that was why he said not every one was clean.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When he had finished washing their feet, he put on his clothes and returned to his place. "Do you understand what I have done for you?" he asked them.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:""You call me 'Teacher' and 'Lord,' and rightly so, for that is what I am.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Now that I, your Lord and Teacher, have washed your feet, you also should wash one another's feet.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I have set you an example that you should do as I have done for you.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, no servant is greater than his master, nor is a messenger greater than the one who sent him.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now that you know these things, you will be blessed if you do them.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:""I am not referring to all of you; I know those I have chosen. But this is to fulfill the scripture: 'He who shares my bread has lifted up his heel against me.'", Ind:""},
+  {Bible:"John", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:""I am telling you now before it happens, so that when it does happen you will believe that I am He.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, whoever accepts anyone I send accepts me; and whoever accepts me accepts the one who sent me."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"After he had said this, Jesus was troubled in spirit and testified, "I tell you the truth, one of you is going to betray me."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"His disciples stared at one another, at a loss to know which of them he meant.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"One of them, the disciple whom Jesus loved, was reclining next to him.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Simon Peter motioned to this disciple and said, "Ask him which one he means."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Leaning back against Jesus, he asked him, "Lord, who is it?"", Ind:""},
+  {Bible:"John", Chapter:13, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "It is the one to whom I will give this piece of bread when I have dipped it in the dish." Then, dipping the piece of bread, he gave it to Judas Iscariot, son of Simon.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:27, Page:1, Kor:"", Chn:"", Eng:"As soon as Judas took the bread, Satan entered into him. "What you are about to do, do quickly," Jesus told him,", Ind:""},
+  {Bible:"John", Chapter:13, Verse:28, Page:1, Kor:"", Chn:"", Eng:"but no one at the meal understood why Jesus said this to him.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Since Judas had charge of the money, some thought Jesus was telling him to buy what was needed for the Feast, or to give something to the poor.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:30, Page:1, Kor:"", Chn:"", Eng:"As soon as Judas had taken the bread, he went out. And it was night.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:31, Page:1, Kor:"", Chn:"", Eng:"When he was gone, Jesus said, "Now is the Son of Man glorified and God is glorified in him.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:32, Page:1, Kor:"", Chn:"", Eng:"If God is glorified in him, God will glorify the Son in himself, and will glorify him at once.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:33, Page:1, Kor:"", Chn:"", Eng:""My children, I will be with you only a little longer. You will look for me, and just as I told the Jews, so I tell you now: Where I am going, you cannot come.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:34, Page:1, Kor:"", Chn:"", Eng:""A new command I give you: Love one another. As I have loved you, so you must love one another.", Ind:""},
+  {Bible:"John", Chapter:13, Verse:35, Page:1, Kor:"", Chn:"", Eng:"By this all men will know that you are my disciples, if you love one another."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Simon Peter asked him, "Lord, where are you going?" Jesus replied, "Where I am going, you cannot follow now, but you will follow later."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Peter asked, "Lord, why can't I follow you now? I will lay down my life for you."", Ind:""},
+  {Bible:"John", Chapter:13, Verse:38, Page:1, Kor:"", Chn:"", Eng:"Then Jesus answered, "Will you really lay down your life for me? I tell you the truth, before the rooster crows, you will disown me three times!", Ind:""},
 ]);

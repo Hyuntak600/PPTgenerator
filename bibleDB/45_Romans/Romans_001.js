@@ -1,6 +1,37 @@
 // 로마서 1장 · Romans 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",1,32);
 BibleDB.add([
+  {Bible:"Romans", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"the gospel he promised beforehand through his prophets in the Holy Scriptures", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"regarding his Son, who as to his human nature was a descendant of David,", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and who through the Spirit of holiness was declared with power to be the Son of God by his resurrection from the dead: Jesus Christ our Lord.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Through him and for his name's sake, we received grace and apostleship to call people from among all the Gentiles to the obedience that comes from faith.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And you also are among those who are called to belong to Jesus Christ.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and from the Lord Jesus Christ.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"in my prayers at all times; and I pray that now at last by God's will the way may be opened for me to come to you.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I long to see you so that I may impart to you some spiritual gift to make you strong--", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"that is, that you and I may be mutually encouraged by each other's faith.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I do not want you to be unaware, brothers, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"That is why I am so eager to preach the gospel also to you who are at Rome.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: "The righteous will live by faith."", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness,", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"since what may be known about God is plain to them, because God has made it plain to them.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"For since the creation of the world God's invisible qualities--his eternal power and divine nature--have been clearly seen, being understood from what has been made, so that men are without excuse.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Although they claimed to be wise, they became fools", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"and exchanged the glory of the immortal God for images made to look like mortal man and birds and animals and reptiles.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Therefore God gave them over in the sinful desires of their hearts to sexual impurity for the degrading of their bodies with one another.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator--who is forever praised. Amen.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Because of this, God gave them over to shameful lusts. Even their women exchanged natural relations for unnatural ones.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"In the same way the men also abandoned natural relations with women and were inflamed with lust for one another. Men committed indecent acts with other men, and received in themselves the due penalty for their perversion.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips,", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:31, Page:1, Kor:"", Chn:"", Eng:"they are senseless, faithless, heartless, ruthless.", Ind:""},
+  {Bible:"Romans", Chapter:1, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.", Ind:""},
 ]);

@@ -1,6 +1,30 @@
 // 신명기 23장 · Deuteronomy 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",23,25);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"No one who has been emasculated by crushing or cutting may enter the assembly of the LORD.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:"No one born of a forbidden marriage nor any of his descendants may enter the assembly of the LORD, even down to the tenth generation.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For they did not come to meet you with bread and water on your way when you came out of Egypt, and they hired Balaam son of Beor from Pethor in Aram Naharaim to pronounce a curse on you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"However, the LORD your God would not listen to Balaam but turned the curse into a blessing for you, because the LORD your God loves you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Do not seek a treaty of friendship with them as long as you live.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Do not abhor an Edomite, for he is your brother. Do not abhor an Egyptian, because you lived as an alien in his country.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The third generation of children born to them may enter the assembly of the LORD.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When you are encamped against your enemies, keep away from everything impure.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"If one of your men is unclean because of a nocturnal emission, he is to go outside the camp and stay there.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But as evening approaches he is to wash himself, and at sunset he may return to the camp.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Designate a place outside the camp where you can go to relieve yourself.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:"As part of your equipment have something to dig with, and when you relieve yourself, dig a hole and cover up your excrement.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For the LORD your God moves about in your camp to protect you and to deliver your enemies to you. Your camp must be holy, so that he will not see among you anything indecent and turn away from you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If a slave has taken refuge with you, do not hand him over to his master.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Let him live among you wherever he likes and in whatever town he chooses. Do not oppress him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:"No Israelite man or woman is to become a shrine prostitute.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:"You must not bring the earnings of a female prostitute or of a male prostitute into the house of the LORD your God to pay any vow, because the LORD your God detests them both.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Do not charge your brother interest, whether on money or food or anything else that may earn interest.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You may charge a foreigner interest, but not a brother Israelite, so that the LORD your God may bless you in everything you put your hand to in the land you are entering to possess.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:"If you make a vow to the LORD your God, do not be slow to pay it, for the LORD your God will certainly demand it of you and you will be guilty of sin.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But if you refrain from making a vow, you will not be guilty.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Whatever your lips utter you must be sure to do, because you made your vow freely to the LORD your God with your own mouth.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"If you enter your neighbor's vineyard, you may eat all the grapes you want, but do not put any in your basket.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:"If you enter your neighbor's grainfield, you may pick kernels with your hands, but you must not put a sickle to his standing grain.", Ind:""},
 ]);

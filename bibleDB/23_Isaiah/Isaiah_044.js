@@ -1,6 +1,33 @@
 // 이사야 44장 · Isaiah 44
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",44,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",44,28);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:44, Verse:1, Page:1, Kor:"", Chn:"", Eng:""But now listen, O Jacob, my servant, Israel, whom I have chosen.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says--he who made you, who formed you in the womb, and who will help you: Do not be afraid, O Jacob, my servant, Jeshurun, whom I have chosen.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For I will pour water on the thirsty land, and streams on the dry ground; I will pour out my Spirit on your offspring, and my blessing on your descendants.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They will spring up like grass in a meadow, like poplar trees by flowing streams.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:5, Page:1, Kor:"", Chn:"", Eng:"One will say, 'I belong to the LORD'; another will call himself by the name of Jacob; still another will write on his hand, 'The LORD'S,' and will take the name Israel.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:6, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD says--Israel's King and Redeemer, the LORD Almighty: I am the first and I am the last; apart from me there is no God.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Who then is like me? Let him proclaim it. Let him declare and lay out before me what has happened since I established my ancient people, and what is yet to come--yes, let him foretell what will come.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Do not tremble, do not be afraid. Did I not proclaim this and foretell it long ago? You are my witnesses. Is there any God besides me? No, there is no other Rock; I know not one."", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All who make idols are nothing, and the things they treasure are worthless. Those who would speak up for them are blind; they are ignorant, to their own shame.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Who shapes a god and casts an idol, which can profit him nothing?", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He and his kind will be put to shame; craftsmen are nothing but men. Let them all come together and take their stand; they will be brought down to terror and infamy.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The blacksmith takes a tool and works with it in the coals; he shapes an idol with hammers, he forges it with the might of his arm. He gets hungry and loses his strength; he drinks no water and grows faint.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The carpenter measures with a line and makes an outline with a marker; he roughs it out with chisels and marks it with compasses. He shapes it in the form of man, of man in all his glory, that it may dwell in a shrine.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He cut down cedars, or perhaps took a cypress or oak. He let it grow among the trees of the forest, or planted a pine, and the rain made it grow.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:15, Page:1, Kor:"", Chn:"", Eng:"It is man's fuel for burning; some of it he takes and warms himself, he kindles a fire and bakes bread. But he also fashions a god and worships it; he makes an idol and bows down to it.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Half of the wood he burns in the fire; over it he prepares his meal, he roasts his meat and eats his fill. He also warms himself and says, "Ah! I am warm; I see the fire."", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:17, Page:1, Kor:"", Chn:"", Eng:"From the rest he makes a god, his idol; he bows down to it and worships. He prays to it and says, "Save me; you are my god."", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They know nothing, they understand nothing; their eyes are plastered over so they cannot see, and their minds closed so they cannot understand.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:19, Page:1, Kor:"", Chn:"", Eng:"No one stops to think, no one has the knowledge or understanding to say, "Half of it I used for fuel; I even baked bread over its coals, I roasted meat and I ate. Shall I make a detestable thing from what is left? Shall I bow down to a block of wood?"", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He feeds on ashes, a deluded heart misleads him; he cannot save himself, or say, "Is not this thing in my right hand a lie?"", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Remember these things, O Jacob, for you are my servant, O Israel. I have made you, you are my servant; O Israel, I will not forget you.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I have swept away your offenses like a cloud, your sins like the morning mist. Return to me, for I have redeemed you."", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Sing for joy, O heavens, for the LORD has done this; shout aloud, O earth beneath. Burst into song, you mountains, you forests and all your trees, for the LORD has redeemed Jacob, he displays his glory in Israel.", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:24, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD says--your Redeemer, who formed you in the womb: I am the LORD, who has made all things, who alone stretched out the heavens, who spread out the earth by myself,", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:25, Page:1, Kor:"", Chn:"", Eng:"who foils the signs of false prophets and makes fools of diviners, who overthrows the learning of the wise and turns it into nonsense,", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:26, Page:1, Kor:"", Chn:"", Eng:"who carries out the words of his servants and fulfills the predictions of his messengers, who says of Jerusalem, 'It shall be inhabited,' of the towns of Judah, 'They shall be built,' and of their ruins, 'I will restore them,'", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:27, Page:1, Kor:"", Chn:"", Eng:"who says to the watery deap, 'Be dry, and I will dry up your streams,'", Ind:""},
+  {Bible:"Isaiah", Chapter:44, Verse:28, Page:1, Kor:"", Chn:"", Eng:"who says of Cyrus, 'He is my shepherd and will accomplish all that I please; he will say of Jerusalem, "Let it be rebuilt," and of the temple, "Let its foundations be laid."'", Ind:""},
 ]);

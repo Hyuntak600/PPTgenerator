@@ -1,6 +1,38 @@
 // 잠언 15장 · Proverbs 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",15,33);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A gentle answer turns away wrath, but a harsh word stirs up anger.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The tongue of the wise commends knowledge, but the mouth of the fool gushes folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The eyes of the LORD are everywhere, keeping watch on the wicked and the good.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The tongue that brings healing is a tree of life, but a deceitful tongue crushes the spirit.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"A fool spurns his father's discipline, but whoever heeds correction shows prudence.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The house of the righteous contains great treasure, but the income of the wicked brings them trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The lips of the wise spread knowledge; not so the hearts of fools.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The LORD detests the sacrifice of the wicked, but the prayer of the upright pleases him.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The LORD detests the way of the wicked but he loves those who pursue righteousness.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Stern discipline awaits him who leaves the path; he who hates correction will die.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Death and Destruction lie open before the LORD--how much more the hearts of men!", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A mocker resents correction; he will not consult the wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:"A happy heart makes the face cheerful, but heartache crushes the spirit.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The discerning heart seeks knowledge, but the mouth of a fool feeds on folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"All the days of the oppressed are wretched, but the cheerful heart has a continual feast.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Better a little with the fear of the LORD than great wealth with turmoil.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Better a meal of vegetables where there is love than a fattened calf with hatred.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"A hot-tempered man stirs up dissension, but a patient man calms a quarrel.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The way of the sluggard is blocked with thorns, but the path of the upright is a highway.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"A wise son brings joy to his father, but a foolish man despises his mother.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Folly delights a man who lacks judgment, but a man of understanding keeps a straight course.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Plans fail for lack of counsel, but with many advisers they succeed.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A man finds joy in giving an apt reply--and how good is a timely word!", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The path of life leads upward for the wise to keep him from going down to the grave.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The LORD tears down the proud man's house but he keeps the widow's boundaries intact.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The LORD detests the thoughts of the wicked, but those of the pure are pleasing to him.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"A greedy man brings trouble to his family, but he who hates bribes will live.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The LORD is far from the wicked but he hears the prayer of the righteous.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"A cheerful look brings joy to the heart, and good news gives health to the bones.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He who listens to a life-giving rebuke will be at home among the wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He who ignores discipline despises himself, but whoever heeds correction gains understanding.", Ind:""},
+  {Bible:"Proverbs", Chapter:15, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The fear of the LORD teaches a man wisdom, and humility comes before honor.", Ind:""},
 ]);

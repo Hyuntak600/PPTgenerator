@@ -1,6 +1,31 @@
 // 시편 44장 · Psalms 44
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",44,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",44,26);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:44, Verse:1, Page:1, Kor:"", Chn:"", Eng:"We have heard with our ears, O God; our fathers have told us what you did in their days, in days long ago.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:2, Page:1, Kor:"", Chn:"", Eng:"With your hand you drove out the nations and planted our fathers; you crushed the peoples and made our fathers flourish.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:3, Page:1, Kor:"", Chn:"", Eng:"It was not by their sword that they won the land, nor did their arm bring them victory; it was your right hand, your arm, and the light of your face, for you loved them.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You are my King and my God, who decrees victories for Jacob.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Through you we push back our enemies; through your name we trample our foes.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I do not trust in my bow, my sword does not bring me victory;", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:7, Page:1, Kor:"", Chn:"", Eng:"but you give us victory over our enemies, you put our adversaries to shame.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:8, Page:1, Kor:"", Chn:"", Eng:"In God we make our boast all day long, and we will praise your name forever. Selah", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But now you have rejected and humbled us; you no longer go out with our armies.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You made us retreat before the enemy, and our adversaries have plundered us.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You gave us up to be devoured like sheep and have scattered us among the nations.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You sold your people for a pittance, gaining nothing from their sale.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You have made us a reproach to our neighbors, the scorn and derision of those around us.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You have made us a byword among the nations; the peoples shake their heads at us.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:15, Page:1, Kor:"", Chn:"", Eng:"My disgrace is before me all day long, and my face is covered with shame", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:16, Page:1, Kor:"", Chn:"", Eng:"at the taunts of those who reproach and revile me, because of the enemy, who is bent on revenge.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:17, Page:1, Kor:"", Chn:"", Eng:"All this happened to us, though we had not forgotten you or been false to your covenant.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Our hearts had not turned back; our feet had not strayed from your path.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But you crushed us and made us a haunt for jackals and covered us over with deep darkness.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:20, Page:1, Kor:"", Chn:"", Eng:"If we had forgotten the name of our God or spread out our hands to a foreign god,", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:21, Page:1, Kor:"", Chn:"", Eng:"would not God have discovered it, since he knows the secrets of the heart?", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Yet for your sake we face death all day long; we are considered as sheep to be slaughtered.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Awake, O Lord! Why do you sleep? Rouse yourself! Do not reject us forever.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Why do you hide your face and forget our misery and oppression?", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:25, Page:1, Kor:"", Chn:"", Eng:"We are brought down to the dust; our bodies cling to the ground.", Ind:""},
+  {Bible:"Psalms", Chapter:44, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Rise up and help us; redeem us because of your unfailing love.", Ind:""},
 ]);

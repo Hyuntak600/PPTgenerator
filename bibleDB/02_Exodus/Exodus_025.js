@@ -1,6 +1,45 @@
 // 출애굽기 25장 · Exodus 25
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",25,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",25,40);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:25, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Tell the Israelites to bring me an offering. You are to receive the offering for me from each man whose heart prompts him to give.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:3, Page:1, Kor:"", Chn:"", Eng:"These are the offerings you are to receive from them: gold, silver and bronze;", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:4, Page:1, Kor:"", Chn:"", Eng:"blue, purple and scarlet yarn and fine linen; goat hair;", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:5, Page:1, Kor:"", Chn:"", Eng:"ram skins dyed red and hides of sea cows; acacia wood;", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:6, Page:1, Kor:"", Chn:"", Eng:"olive oil for the light; spices for the anointing oil and for the fragrant incense;", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and onyx stones and other gems to be mounted on the ephod and breastpiece.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Then have them make a sanctuary for me, and I will dwell among them.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Make this tabernacle and all its furnishings exactly like the pattern I will show you.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Have them make a chest of acacia wood--two and a half cubits long, a cubit and a half wide, and a cubit and a half high.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Overlay it with pure gold, both inside and out, and make a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Cast four gold rings for it and fasten them to its four feet, with two rings on one side and two rings on the other.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then make poles of acacia wood and overlay them with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Insert the poles into the rings on the sides of the chest to carry it.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The poles are to remain in the rings of this ark; they are not to be removed.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then put in the ark the Testimony, which I will give you.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Make an atonement cover of pure gold--two and a half cubits long and a cubit and a half wide.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And make two cherubim out of hammered gold at the ends of the cover.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Make one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The cherubim are to have their wings spread upward, overshadowing the cover with them. The cherubim are to face each other, looking toward the cover.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Place the cover on top of the ark and put in the ark the Testimony, which I will give you.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:22, Page:1, Kor:"", Chn:"", Eng:"There, above the cover between the two cherubim that are over the ark of the Testimony, I will meet with you and give you all my commands for the Israelites.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Make a table of acacia wood--two cubits long, a cubit wide and a cubit and a half high.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Overlay it with pure gold and make a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Also make around it a rim a handbreadth wide and put a gold molding on the rim.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Make four gold rings for the table and fasten them to the four corners, where the four legs are.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The rings are to be close to the rim to hold the poles used in carrying the table.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Make the poles of acacia wood, overlay them with gold and carry the table with them.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:29, Page:1, Kor:"", Chn:"", Eng:"And make its plates and dishes of pure gold, as well as its pitchers and bowls for the pouring out of offerings.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Put the bread of the Presence on this table to be before me at all times.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Make a lampstand of pure gold and hammer it out, base and shaft; its flowerlike cups, buds and blossoms shall be of one piece with it.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Six branches are to extend from the sides of the lampstand--three on one side and three on the other.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Three cups shaped like almond flowers with buds and blossoms are to be on one branch, three on the next branch, and the same for all six branches extending from the lampstand.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:34, Page:1, Kor:"", Chn:"", Eng:"And on the lampstand there are to be four cups shaped like almond flowers with buds and blossoms.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:35, Page:1, Kor:"", Chn:"", Eng:"One bud shall be under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:36, Page:1, Kor:"", Chn:"", Eng:"The buds and branches shall all be of one piece with the lampstand, hammered out of pure gold.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:37, Page:1, Kor:"", Chn:"", Eng:""Then make its seven lamps and set them up on it so that they light the space in front of it.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:38, Page:1, Kor:"", Chn:"", Eng:"Its wick trimmers and trays are to be of pure gold.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:39, Page:1, Kor:"", Chn:"", Eng:"A talent of pure gold is to be used for the lampstand and all these accessories.", Ind:""},
+  {Bible:"Exodus", Chapter:25, Verse:40, Page:1, Kor:"", Chn:"", Eng:"See that you make them according to the pattern shown you on the mountain.", Ind:""},
 ]);

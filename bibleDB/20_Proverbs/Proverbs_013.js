@@ -1,6 +1,30 @@
 // 잠언 13장 · Proverbs 13
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",13,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",13,25);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:13, Verse:1, Page:1, Kor:"", Chn:"", Eng:"A wise son heeds his father's instruction, but a mocker does not listen to rebuke.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:2, Page:1, Kor:"", Chn:"", Eng:"From the fruit of his lips a man enjoys good things, but the unfaithful have a craving for violence.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He who guards his lips guards his life, but he who speaks rashly will come to ruin.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The righteous hate what is false, but the wicked bring shame and disgrace.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Righteousness guards the man of integrity, but wickedness overthrows the sinner.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:7, Page:1, Kor:"", Chn:"", Eng:"One man pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:8, Page:1, Kor:"", Chn:"", Eng:"A man's riches may ransom his life, but a poor man hears no threat.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The light of the righteous shines brightly, but the lamp of the wicked is snuffed out.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Pride only breeds quarrels, but wisdom is found in those who take advice.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Dishonest money dwindles away, but he who gathers money little by little makes it grow.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He who scorns instruction will pay for it, but he who respects a command is rewarded.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The teaching of the wise is a fountain of life, turning a man from the snares of death.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Good understanding wins favor, but the way of the unfaithful is hard.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Every prudent man acts out of knowledge, but a fool exposes his folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A wicked messenger falls into trouble, but a trustworthy envoy brings healing.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He who ignores discipline comes to poverty and shame, but whoever heeds correction is honored.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:19, Page:1, Kor:"", Chn:"", Eng:"A longing fulfilled is sweet to the soul, but fools detest turning from evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He who walks with the wise grows wise, but a companion of fools suffers harm.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Misfortune pursues the sinner, but prosperity is the reward of the righteous.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:22, Page:1, Kor:"", Chn:"", Eng:"A good man leaves an inheritance for his children's children, but a sinner's wealth is stored up for the righteous.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A poor man's field may produce abundant food, but injustice sweeps it away.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He who spares the rod hates his son, but he who loves him is careful to discipline him.", Ind:""},
+  {Bible:"Proverbs", Chapter:13, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The righteous eat to their hearts' content, but the stomach of the wicked goes hungry.", Ind:""},
 ]);

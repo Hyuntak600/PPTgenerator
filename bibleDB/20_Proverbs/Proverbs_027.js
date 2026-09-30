@@ -1,6 +1,32 @@
 // 잠언 27장 · Proverbs 27
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",27,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",27,27);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:27, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Do not boast about tomorrow, for you do not know what a day may bring forth.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Let another praise you, and not your own mouth; someone else, and not your own lips.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Stone is heavy and sand a burden, but provocation by a fool is heavier than both.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Anger is cruel and fury overwhelming, but who can stand before jealousy?", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Better is open rebuke than hidden love.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Wounds from a friend can be trusted, but an enemy multiplies kisses.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He who is full loathes honey, but to the hungry even what is bitter tastes sweet.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Like a bird that strays from its nest is a man who strays from his home.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Perfume and incense bring joy to the heart, and the pleasantness of one's friend springs from his earnest counsel.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not forsake your friend and the friend of your father, and do not go to your brother's house when disaster strikes you--better a neighbor nearby than a brother far away.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The prudent see danger and take refuge, but the simple keep going and suffer for it.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:14, Page:1, Kor:"", Chn:"", Eng:"If a man loudly blesses his neighbor early in the morning, it will be taken as a curse.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:15, Page:1, Kor:"", Chn:"", Eng:"A quarrelsome wife is like a constant dripping on a rainy day;", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:16, Page:1, Kor:"", Chn:"", Eng:"restraining her is like restraining the wind or grasping oil with the hand.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:17, Page:1, Kor:"", Chn:"", Eng:"As iron sharpens iron, so one man sharpens another.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As water reflects a face, so a man's heart reflects the man.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Death and Destruction are never satisfied, and neither are the eyes of man.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The crucible for silver and the furnace for gold, but man is tested by the praise he receives.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Be sure you know the condition of your flocks, give careful attention to your herds;", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:24, Page:1, Kor:"", Chn:"", Eng:"for riches do not endure forever, and a crown is not secure for all generations.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When the hay is removed and new growth appears and the grass from the hills is gathered in,", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:26, Page:1, Kor:"", Chn:"", Eng:"the lambs will provide you with clothing, and the goats with the price of a field.", Ind:""},
+  {Bible:"Proverbs", Chapter:27, Verse:27, Page:1, Kor:"", Chn:"", Eng:"You will have plenty of goats' milk to feed you and your family and to nourish your servant girls.", Ind:""},
 ]);

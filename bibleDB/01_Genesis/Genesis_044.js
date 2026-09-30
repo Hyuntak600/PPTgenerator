@@ -1,6 +1,39 @@
 // 창세기 44장 · Genesis 44
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",44,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",44,34);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:44, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now Joseph gave these instructions to the steward of his house: "Fill the men's sacks with  as much food as they can carry, and put each man's silver in the mouth of his sack.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the  silver for his grain." And he did as Joseph said.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:3, Page:1, Kor:"", Chn:"", Eng:"As morning dawned, the men were sent on their way with their donkeys.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They had not gone far from the city when Joseph said to his steward, "Go after those men at  once, and when you catch up with them, say to them, 'Why have you repaid good with evil?", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Isn't this the cup my master drinks from and also uses for divination? This is a wicked  thing you have done.'"", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When he caught up with them, he repeated these words to them.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But they said to him, "Why does my lord say such things? Far be it from your servants to do  anything like that!", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:8, Page:1, Kor:"", Chn:"", Eng:"We even brought back to you from the land of Canaan the silver we found inside the mouths of  our sacks. So why would we steal silver or gold from your master's house?", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If any of your servants is found to have it, he will die; and the rest of us will become my  lord's slaves."", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Very well, then," he said, "let it be as you say. Whoever is found to have it will become  my slave; the rest of you will be free from blame."", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Each of them quickly lowered his sack to the ground and opened it.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the steward proceeded to search, beginning with the oldest and ending with the  youngest. And the cup was found in Benjamin's sack.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:13, Page:1, Kor:"", Chn:"", Eng:"At this, they tore their clothes. Then they all loaded their donkeys and returned to the  city.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Joseph was still in the house when Judah and his brothers came in, and they threw  themselves to the ground before him.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Joseph said to them, "What is this you have done? Don't you know that a man like me can  find things out by divination?"", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:16, Page:1, Kor:"", Chn:"", Eng:""What can we say to my lord?" Judah replied. "What can we say? How can we prove our  innocence? God has uncovered your servants' guilt. We are now my lord's slaves--we ourselves and  the one who was found to have the cup."", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But Joseph said, "Far be it from me to do such a thing! Only the man who was found to have  the cup will become my slave. The rest of you, go back to your father in peace."", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Judah went up to him and said: "Please, my lord, let your servant speak a word to my  lord. Do not be angry with your servant, though you are equal to Pharaoh himself.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My lord asked his servants, 'Do you have a father or a brother?'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And we answered, 'We have an aged father, and there is a young son born to him in his old  age. His brother is dead, and he is the only one of his mother's sons left, and his father loves  him.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Then you said to your servants, 'Bring him down to me so I can see him for myself.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And we said to my lord, 'The boy cannot leave his father; if he leaves him, his father will  die.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But you told your servants, 'Unless your youngest brother comes down with you, you will not  see my face again.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When we went back to your servant my father, we told him what my lord had said.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Then our father said, 'Go back and buy a little more food.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But we said, 'We cannot go down. Only if our youngest brother is with us will we go. We  cannot see the man's face unless our youngest brother is with us.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Your servant my father said to us, 'You know that my wife bore me two sons.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:28, Page:1, Kor:"", Chn:"", Eng:"One of them went away from me, and I said, "He has surely been torn to pieces." And I have  not seen him since.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:29, Page:1, Kor:"", Chn:"", Eng:"If you take this one from me too and harm comes to him, you will bring my gray head down to  the grave in misery.'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:30, Page:1, Kor:"", Chn:"", Eng:""So now, if the boy is not with us when I go back to your servant my father and if my  father, whose life is closely bound up with the boy's life,", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:31, Page:1, Kor:"", Chn:"", Eng:"sees that the boy isn't there, he will die. Your servants will bring the gray head of our  father down to the grave in sorrow.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Your servant guaranteed the boy's safety to my father. I said, 'If I do not bring him back  to you, I will bear the blame before you, my father, all my life!'", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:33, Page:1, Kor:"", Chn:"", Eng:""Now then, please let your servant remain here as my lord's slave in place of the boy, and  let the boy return with his brothers.", Ind:""},
+  {Bible:"Genesis", Chapter:44, Verse:34, Page:1, Kor:"", Chn:"", Eng:"How can I go back to my father if the boy is not with me? No! Do not let me see the misery  that would come upon my father."", Ind:""},
 ]);

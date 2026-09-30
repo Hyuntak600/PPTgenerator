@@ -1,6 +1,10 @@
 // 시편 15장 · Psalms 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",15,5);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"LORD, who may dwell in your sanctuary? Who may live on your holy hill?", Ind:""},
+  {Bible:"Psalms", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He whose walk is blameless and who does what is righteous, who speaks the truth from his heart", Ind:""},
+  {Bible:"Psalms", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and has no slander on his tongue, who does his neighbor no wrong and casts no slur on his fellowman,", Ind:""},
+  {Bible:"Psalms", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"who despises a vile man but honors those who fear the LORD, who keeps his oath even when it hurts,", Ind:""},
+  {Bible:"Psalms", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"who lends his money without usury and does not accept a bribe against the innocent. He who does these things will never be shaken.", Ind:""},
 ]);

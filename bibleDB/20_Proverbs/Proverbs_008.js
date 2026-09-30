@@ -1,6 +1,41 @@
 // 잠언 8장 · Proverbs 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",8,36);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Does not wisdom call out? Does not understanding raise her voice?", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"On the heights along the way, where the paths meet, she takes her stand;", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"beside the gates leading into the city, at the entrances, she cries aloud:", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:""To you, O men, I call out; I raise my voice to all mankind.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You who are simple, gain prudence; you who are foolish, gain understanding.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Listen, for I have worthy things to say; I open my lips to speak what is right.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"My mouth speaks what is true, for my lips detest wickedness.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All the words of my mouth are just; none of them is crooked or perverse.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"To the discerning all of them are right; they are faultless to those who have knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Choose my instruction instead of silver, knowledge rather than choice gold,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"for wisdom is more precious than rubies, and nothing you desire can compare with her.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I, wisdom, dwell together with prudence; I possess knowledge and discretion.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Counsel and sound judgment are mine; I have understanding and power.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"By me kings reign and rulers make laws that are just;", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"by me princes govern, and all nobles who rule on earth.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I love those who love me, and those who seek me find me.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"With me are riches and honor, enduring wealth and prosperity.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My fruit is better than fine gold; what I yield surpasses choice silver.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I walk in the way of righteousness, along the paths of justice,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"bestowing wealth on those who love me and making their treasuries full.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:""The LORD brought me forth as the first of his works, before his deeds of old;", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I was appointed from eternity, from the beginning, before the world began.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When there were no oceans, I was given birth, when there were no springs abounding with water;", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"before the mountains were settled in place, before the hills, I was given birth,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"before he made the earth or its fields or any of the dust of the world.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"when he established the clouds above and fixed securely the fountains of the deep,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then I was the craftsman at his side. I was filled with delight day after day, rejoicing always in his presence,", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"rejoicing in his whole world and delighting in mankind.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:""Now then, my sons, listen to me; blessed are those who keep my ways.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Listen to my instruction and be wise; do not ignore it.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man who listens to me, watching daily at my doors, waiting at my doorway.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"For whoever finds me finds life and receives favor from the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"But whoever fails to find me harms himself; all who hate me love death."", Ind:""},
 ]);

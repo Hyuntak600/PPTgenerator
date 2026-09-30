@@ -1,6 +1,26 @@
 // 다니엘 10장 · Daniel 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Daniel",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Daniel",10,21);
 BibleDB.add([
+  {Bible:"Daniel", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the third year of Cyrus king of Persia, a revelation was given to Daniel (who was called Belteshazzar). Its message was true and it concerned a great war. The understanding of the message came to him in a vision.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"At that time I, Daniel, mourned for three weeks.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I ate no choice food; no meat or wine touched my lips; and I used no lotions at all until the three weeks were over.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris,", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"I looked up and there before me was a man dressed in linen, with a belt of the finest gold around his waist.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"His body was like chrysolite, his face like lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and his voice like the sound of a multitude.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I, Daniel, was the only one who saw the vision; the men with me did not see it, but such terror overwhelmed them that they fled and hid themselves.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So I was left alone, gazing at this great vision; I had no strength left, my face turned deathly pale and I was helpless.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then I heard him speaking, and as I listened to him, I fell into a deep sleep, my face to the ground.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A hand touched me and set me trembling on my hands and knees.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He said, "Daniel, you who are highly esteemed, consider carefully the words I am about to speak to you, and stand up, for I have now been sent to you." And when he said this to me, I stood up trembling.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then he continued, "Do not be afraid, Daniel. Since the first day that you set your mind to gain understanding and to humble yourself before your God, your words were heard, and I have come in response to them.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But the prince of the Persian kingdom resisted me twenty-one days. Then Michael, one of the chief princes, came to help me, because I was detained there with the king of Persia.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Now I have come to explain to you what will happen to your people in the future, for the vision concerns a time yet to come."", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"While he was saying this to me, I bowed with my face toward the ground and was speechless.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then one who looked like a man touched my lips, and I opened my mouth and began to speak. I said to the one standing before me, "I am overcome with anguish because of the vision, my lord, and I am helpless.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"How can I, your servant, talk with you, my lord? My strength is gone and I can hardly breathe."", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Again the one who looked like a man touched me and gave me strength.", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Do not be afraid, O man highly espeemed," he said. "Peace! Be strong now; be strong." When he spoke to me, I was strengthened and said, "Speak, my lord, since you have given me strength."", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So he said, "Do you know why I have come to you? Soon I will return to fight against the prince of Persia, and when I go, the prince of Greece will come;", Ind:""},
+  {Bible:"Daniel", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"but first I will tell you what is written in the Book of Truth. (No one supports me against them except Michael, your prince.", Ind:""},
 ]);

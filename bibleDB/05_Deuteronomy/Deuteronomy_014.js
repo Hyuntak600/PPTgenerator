@@ -1,6 +1,34 @@
 // 신명기 14장 · Deuteronomy 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",14,29);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You are the children of the LORD your God. Do not cut yourselves or shave the front of your heads for the dead,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"for you are a people holy to the LORD your God. Out of all the peoples on the face of the earth, the LORD has chosen you to be his treasured possession.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do not eat any detestable thing.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"These are the animals you may eat: the ox, the sheep, the goat,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope and the mountain sheep.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You may eat any animal that has a split hoof divided in two and that chews the cud.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"However, of those that chew the cud or that have a split hoof completely divided you may not eat the camel, the rabbit or the coney. Although they chew the cud, they do not have a split hoof; they are ceremonially unclean for you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The pig is also unclean; although it has a split hoof, it does not chew the cud. You are not to eat their meat or touch their carcasses.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Of all the creatures living in the water, you may eat any that has fins and scales.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But anything that does not have fins and scales you may not eat; for you it is unclean.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You may eat any clean bird.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But these you may not eat: the eagle, the vulture, the black vulture,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"the red kite, the black kite, any kind of falcon,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"any kind of raven,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:"the horned owl, the screech owl, the gull, any kind of hawk,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the little owl, the great owl, the white owl,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"the desert owl, the osprey, the cormorant,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"the stork, any kind of heron, the hoopoe and the bat.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"All flying insects that swarm are unclean to you; do not eat them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But any winged creature that is clean you may eat.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do not eat anything you find already dead. You may give it to an alien living in any of your towns, and he may eat it, or you may sell it to a foreigner. But you are a people holy to the LORD your God. Do not cook a young goat in its mother's milk.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Be sure to set aside a tenth of all that your fields produce each year.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Eat the tithe of your grain, new wine and oil, and the firstborn of your herds and flocks in the presence of the LORD your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the LORD your God always.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But if that place is too distant and you have been blessed by the LORD your God and cannot carry your tithe (because the place where the LORD will choose to put his Name is so far away),", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:25, Page:1, Kor:"", Chn:"", Eng:"then exchange your tithe for silver, and take the silver with you and go to the place the LORD your God will choose.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Use the silver to buy whatever you like: cattle, sheep, wine or other fermented drink, or anything you wish. Then you and your household shall eat there in the presence of the LORD your God and rejoice.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:27, Page:1, Kor:"", Chn:"", Eng:"And do not neglect the Levites living in your towns, for they have no allotment or inheritance of their own.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:28, Page:1, Kor:"", Chn:"", Eng:"At the end of every three years, bring all the tithes of that year's produce and store it in your towns,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:14, Verse:29, Page:1, Kor:"", Chn:"", Eng:"so that the Levites (who have no allotment or inheritance of their own) and the aliens, the fatherless and the widows who live in your towns may come and eat and be satisfied, and so that the LORD your God may bless you in all the work of your hands.", Ind:""},
 ]);

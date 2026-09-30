@@ -1,6 +1,38 @@
 // 신명기 5장 · Deuteronomy 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",5,33);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Moses summoned all Israel and said: Hear, O Israel, the decrees and laws I declare in your hearing today. Learn them and be sure to follow them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD our God made a covenant with us at Horeb.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"It was not with our fathers that the LORD made this covenant, but with us, with all of us who are alive here today.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The LORD spoke to you face to face out of the fire on the mountain.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"(At that time I stood between the LORD and you to declare to you the word of the LORD, because you were afraid of the fire and did not go up the mountain.) And he said:", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:""I am the LORD your God, who brought you out of Egypt, out of the land of slavery.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:""You shall have no other gods before me.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:""You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"but showing love to a thousand generations of those who love me and keep my commandments.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:""You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Observe the Sabbath day by keeping it holy, as the LORD your God has commanded you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Six days you shall labor and do all your work,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox, your donkey or any of your animals, nor the alien within your gates, so that your manservant and maidservant may rest, as you do.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Remember that you were slaves in Egypt and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. Therefore the LORD your God has commanded you to observe the Sabbath day.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Honor your father and your mother, as the LORD your God has commanded you, so that you may live long and that it may go well with you in the land the LORD your God is giving you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:""You shall not murder.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:""You shall not commit adultery.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:""You shall not steal.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:""You shall not give false testimony against your neighbor.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:""You shall not covet your neighbor's wife. You shall not set your desire on your neighbor's house or land, his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"These are the commandments the LORD proclaimed in a loud voice to your whole assembly there on the mountain from out of the fire, the cloud and the deep darkness; and he added nothing more. Then he wrote them on two stone tablets and gave them to me.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When you heard the voice out of the darkness, while the mountain was ablaze with fire, all the leading men of your tribes and your elders came to me.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And you said, "The LORD our God has shown us his glory and his majesty, and we have heard his voice from the fire. Today we have seen that a man can live even if God speaks with him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But now, why should we die? This great fire will consume us, and we will die if we hear the voice of the LORD our God any longer.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For what mortal man has ever heard the voice of the living God speaking out of fire, as we have, and survived?", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Go near and listen to all that the LORD our God says. Then tell us whatever the LORD our God tells you. We will listen and obey."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The LORD heard you when you spoke to me and the LORD said to me, "I have heard what this people said to you. Everything they said was good.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them and their children forever!", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:""Go, tell them to return to their tents.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:"But you stay here with me so that I may give you all the commands, decrees and laws you are to teach them to follow in the land I am giving them to possess."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:32, Page:1, Kor:"", Chn:"", Eng:"So be careful to do what the LORD your God has commanded you; do not turn aside to the right or to the left.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:5, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Walk in all the way that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.", Ind:""},
 ]);

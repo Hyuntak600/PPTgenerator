@@ -1,6 +1,36 @@
 // 출애굽기 22장 · Exodus 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",22,31);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:""If a man steals an ox or a sheep and slaughters it or sells it, he must pay back five head of cattle for the ox and four sheep for the sheep.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:""If a thief is caught breaking in and is struck so that he dies, the defender is not guilty of bloodshed;", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"but if it happens after sunrise, he is guilty of bloodshed. "A thief must certainly make restitution, but if he has nothing, he must be sold to pay for his theft.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:""If the stolen animal is found alive in his possession--whether ox or donkey or sheep--he must pay back double.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:""If a man grazes his livestock in a field or vineyard and lets them stray and they graze in another man's field, he must make restitution from the best of his own field or vineyard.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:""If a fire breaks out and spreads into thornbushes so that it burns shocks of grain or standing grain or the whole field, the one who started the fire must make restitution.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:""If a man gives his neighbor silver or goods for safekeeping and they are stolen from the neighbor's house, the thief, if he is caught, must pay back double.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But if the thief is not found, the owner of the house must appear before the judges to determine whether he has laid his hands on the other man's property.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any other lost property about which somebody says, 'This is mine,' both parties are to bring their cases before the judges. The one whom the judges declare guilty must pay back double to his neighbor.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:""If a man gives a donkey, an ox, a sheep or any other animal to his neighbor for safekeeping and it dies or is injured or is taken away while no one is looking,", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"the issue between them will be settled by the taking of an oath before the LORD that the neighbor did not lay hands on the other person's property. The owner is to accept this, and no restitution is required.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But if the animal was stolen from the neighbor, he must make restitution to the owner.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"If it was torn to pieces by a wild animal, he shall bring in the remains as evidence and he will not be required to pay for the torn animal.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:""If a man borrows an animal from his neighbor and it is injured or dies while the owner is not present, he must make restitution.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:""If a man seduces a virgin who is not pledged to be married and sleeps with her, he must pay the bride-price, and she shall be his wife.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"If her father absolutely refuses to give her to him, he must still pay the bride-price for virgins.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Do not allow a sorceress to live.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Anyone who has sexual relations with an animal must be put to death.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Whoever sacrifices to any god other than the LORD must be destroyed.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Do not mistreat an alien or oppress him, for you were aliens in Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Do not take advantage of a widow or an orphan.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If you do and they cry out to me, I will certainly hear their cry.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"My anger will be aroused, and I will kill you with the sword; your wives will become widows and your children fatherless.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:""If you lend money to one of my people among you who is needy, do not be like a moneylender; charge him no interest.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If you take your neighbor's cloak as a pledge, return it to him by sunset,", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"because his cloak is the only covering he has for his body. What else will he sleep in? When he cries out to me, I will hear, for I am compassionate.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Do not blaspheme God or curse the ruler of your people.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Do not hold back offerings from your granaries or your vats. "You must give me the firstborn of your sons.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Do the same with your cattle and your sheep. Let them stay with their mothers for seven days, but give them to me on the eighth day.", Ind:""},
+  {Bible:"Exodus", Chapter:22, Verse:31, Page:1, Kor:"", Chn:"", Eng:""You are to be my holy people. So do not eat the meat of an animal torn by wild beasts; throw it to the dogs.", Ind:""},
 ]);

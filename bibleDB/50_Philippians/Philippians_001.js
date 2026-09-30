@@ -1,6 +1,35 @@
 // 빌립보서 1장 · Philippians 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Philippians",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Philippians",1,30);
 BibleDB.add([
+  {Bible:"Philippians", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Grace and peace to you from God our Father and the Lord Jesus Christ.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"I thank my God every time I remember you.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"In all my prayers for all of you, I always pray with joy", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"because of your partnership in the gospel from the first day until now,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"It is right for me to feel this way about all of you, since I have you in my heart; for whether I am in chains or defending and confirming the gospel, all of you share in God's grace with me.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"God can testify how I long for all of you with the affection of Christ Jesus.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And this is my prayer: that your love may abound more and more in knowledge and depth of insight,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"so that you may be able to discern what is best and may be pure and blameless until the day of Christ,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"filled with the fruit of righteousness that comes through Jesus Christ--to the glory and praise of God.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Now I want you to know, brothers, that what has happened to me has really served to advance the gospel.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"As a result, it has become clear throughout the whole palace guard and to everyone else that I am in chains for Christ.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Because of my chains, most of the brothers in the Lord have been encouraged to speak the word of God more courageously and fearlessly.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"It is true that some preach Christ out of envy and rivalry, but others out of goodwill.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The latter do so in love, knowing that I am put here for the defense of the gospel.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The former preach Christ out of selfish ambition, not sincerely, supposing that they can stir up trouble for me while I am in chains.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But what does it matter? The important thing is that in every way, whether from false motives or true, Christ is preached. And because of this I rejoice. Yes, and I will continue to rejoice,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"for I know that through your prayers and the help given by the Spirit of Jesus Christ, what has happened to me will turn out for my deliverance.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I eagerly expect and hope that I will in no way be ashamed, but will have sufficient courage so that now as always Christ will be exalted in my body, whether by life or by death.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For to me, to live is Christ and to die is gain.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"If I am to go on living in the body, this will mean fruitful labor for me. Yet what shall I choose? I do not know!", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I am torn between the two: I desire to depart and be with Christ, which is better by far;", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"but it is more necessary for you that I remain in the body.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Convinced of this, I know that I will remain, and I will continue with all of you for your progress and joy in the faith,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"so that through my being with you again your joy in Christ Jesus will overflow on account of me.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Whatever happens, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, contending as one man for the faith of the gospel", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"without being frightened in any way by those who oppose you. This is a sign to them that they will be destroyed, but that you will be saved--and that by God.", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"For it has been granted to you on behalf of Christ not only to believe on him, but also to suffer for him,", Ind:""},
+  {Bible:"Philippians", Chapter:1, Verse:30, Page:1, Kor:"", Chn:"", Eng:"since you are going through the same struggle you saw I had, and now hear that I still have.", Ind:""},
 ]);

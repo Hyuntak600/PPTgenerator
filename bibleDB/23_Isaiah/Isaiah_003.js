@@ -1,6 +1,31 @@
 // 이사야 3장 · Isaiah 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",3,26);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"See now, the Lord, the LORD Almighty, is about to take from Jerusalem and Judah both supply and support: all supplies of food and all supplies of water,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"the hero and warrior, the judge and prophet, the soothsayer and elder,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"the captain of fifty and man of rank, the counselor, skilled craftsman and clever enchanter.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will make boys their officials; mere children will govern them.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"People will oppress each other--man against man, neighbor against neighbor. The young will rise up against the old, the base against the honorable.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"A man will seize one of his brothers at his father's home, and say, "You have a cloak, you be our leader; take charge of this heap of ruins!"", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But in that day he will cry out, "I have no remedy. I have no food or clothing in my house; do not make me the leader of the people."", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Jerusalem staggers, Judah is falling; their words and deeds are against the LORD, defying his glorious presence.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The look on their faces testifies against them; they parade their sin like Sodom; they do not hide it. Woe to them! They have brought disaster upon themselves.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Tell the righteous it will be well with them, for they will enjoy the fruit of their deeds.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Woe to the wicked! Disaster is upon them! They will be paid back for what their hands have done.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Youths oppress my people, women rule over them. O my people, your guides lead you astray; they turn you from the path.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The LORD takes his place in court; he rises to judge the people.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD enters into judgment against the elders and leaders of his people: "It is you who have ruined my vineyard; the plunder from the poor is in your houses.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"What do you mean by crushing my people and grinding the faces of the poor?" declares the Lord, the LORD Almighty.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD says, "The women of Zion are haughty, walking along with outstretched necks, flirting with their eyes, tripping along with mincing steps, with ornaments jingling on their ankles.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Therefore the Lord will bring sores on the heads of the women of Zion; the LORD will make their scalps bald."", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"the earrings and bracelets and veils,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"the headdresses and ankle chains and sashes, the perfume bottles and charms,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"the signet rings and nose rings,", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"the fine robes and the capes and cloaks, the purses", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"and mirrors, and the linen garments and tiaras and shawls.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Instead of fragrance there will be a stench; instead of a sash, a rope; instead of well-dressed hair, baldness; instead of fine clothing, sackcloth; instead of beauty, branding.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Your men will fall by the sword, your warriors in battle.", Ind:""},
+  {Bible:"Isaiah", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The gates of Zion will lament and mourn; destitute, she will sit on the ground.", Ind:""},
 ]);

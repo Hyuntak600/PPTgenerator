@@ -1,6 +1,28 @@
 // 이사야 51장 · Isaiah 51
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",51,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",51,23);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:51, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Listen to me, you who pursue righteousness and who seek the LORD: Look to the rock from which you were cut and to the quarry from which you were hewn;", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:2, Page:1, Kor:"", Chn:"", Eng:"look to Abraham, your father, and to Sarah, who gave you birth. When I called him he was but one, and I blessed him and made him many.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The LORD will surely comfort Zion and will look with compassion on all her ruins; he will make her deserts like Eden, her wastelands like the garden of the LORD. Joy and gladness will be found in her, thanksgiving and the sound of singing.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Listen to me, my people; hear me, my nation: The law will go out from me; my justice will become a light to the nations.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:5, Page:1, Kor:"", Chn:"", Eng:"My righteousness draws near speedily, my salvation is on the way, and my arm will bring justice to the nations. The islands will look to me and wait in hope for my arm.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Lift up your eyes to the heavens, look at the earth beneath; the heavens will vanish like smoke, the earth will wear out like a garment and its inhabitants die like flies. But my salvation will last forever, my righteousness will never fail.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Hear me, you who know what is right, you people who have my law in your hearts: Do not fear the reproach of men or be terrified by their insults.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:8, Page:1, Kor:"", Chn:"", Eng:"For the moth will eat them up like a garment; the worm will devour them like wool. But my righteousness will last forever, my salvation through all generations."", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Awake, awake! Clothe yourself with strength, O arm of the LORD; awake, as in days gone by, as in generations of old. Was it not you who cut Rahab to pieces, who pierced that monster through?", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Was it not you who dried up the sea, the waters of the great deep, who made a road in the depths of the sea so that the redeemed might cross over?", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The ransomed of the LORD will return. They will enter Zion with singing; everlasting joy will crown their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I, even I, am he who comforts you. Who are you that you fear mortal men, the sons of men, who are but grass,", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:13, Page:1, Kor:"", Chn:"", Eng:"that you forget the LORD your Maker, who stretched out the heavens and laid the foundations of the earth, that you live in constant terror every day because of the wrath of the oppressor, who is bent on destruction? For where is the wrath of the oppressor?", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The cowering prisoners will soon be set free; they will not die in their dungeon, nor will they lack bread.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:15, Page:1, Kor:"", Chn:"", Eng:"For I am the LORD your God, who churns up the sea so that its waves roar--the LORD Almighty is his name.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I have put my words in your mouth and covered you with the shadow of my hand--I who set the heavens in place, who laid the foundations of the earth, and who say to Zion, 'You are my people.'"", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD the cup of his wrath, you who have drained to its dregs the goblet that makes men stagger.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Of all the sons she bore there was none to guide her; of all the sons she reared there was none to take her by the hand.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:19, Page:1, Kor:"", Chn:"", Eng:"These double calamities have come upon you--who can comfort you?--ruin and destruction, famine and sword--who can console you?", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Your sons have fainted; they lie at the head of every street, like antelope caught in a net. They are filled with the wrath of the LORD and the rebuke of your God.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Therefore hear this, you afflicted one, made drunk, but not with wine.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is what your Sovereign LORD says, your God, who defends his people: "See, I have taken out of your hand the cup that made you stagger; from that cup, the goblet of my wrath, you will never drink again.", Ind:""},
+  {Bible:"Isaiah", Chapter:51, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I will put it into the hands of your tormentors, who said to you, 'Fall prostrate that we may walk over you.' And you made your back like the ground, like a street to be walked over."", Ind:""},
 ]);

@@ -1,6 +1,37 @@
 // 에스겔 21장 · Ezekiel 21
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",21,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",21,32);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:21, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, set your face against Jerusalem and preach against the sanctuary. Prophesy against the land of Israel", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and say to her: 'This is what the LORD says: I am against you. I will draw my sword from its scabbard and cut off from you both the righteous and the wicked.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Because I am going to cut off the righteous and the wicked, my sword will be unsheathed against everyone from south to north.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then all people will know that I the LORD have drawn my sword from its scabbard; it will not return again.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Therefore groan, son of man! Groan before them with broken heart and bitter grief.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And when they ask you, 'Why are you groaning?' you shall say, 'Because of the news that is coming. Every heart will melt and every hand go limp; every spirit will become faint and every knee become as weak as water.' It is coming! It will surely take place, declares the Sovereign LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Son of man, prophesy and say, 'This is what the Lord says: "'A sword, a sword, sharpened and polished--", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:10, Page:1, Kor:"", Chn:"", Eng:"sharpened for the slaughter, polished to flash like lightning! "'Shall we rejoice in the scepter of my son Judah? The sword despises every such stick.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'The sword is appointed to be polished, to be grasped with the hand; it is sharpened and polished, made ready for the hand of the slayer.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Cry out and wail, son of man, for it is against my people; it is against all the princes of Israel. They are thrown to the sword along with my people. Therefore beat your breast.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Testing will surely come. And what if the scepter of Judah, which the sword despises, does not continue? declares the Sovereign LORD.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:14, Page:1, Kor:"", Chn:"", Eng:""So then, son of man, prophesy and strike your hands together. Let the sword strike twice, even three times. It is a sword for slaughter--a sword for great slaughter, closing in on them from every side.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So that hearts may melt and the fallen be many, I have stationed the sword for slaughter at all their gates. Oh! It is made to flash like lightning, it is grasped for slaughter.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:16, Page:1, Kor:"", Chn:"", Eng:"O sword, slash to the right, then to the left, wherever your blade is turned.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I too will strike my hands together, and my wrath will subside. I the LORD have spoken."", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same country. Make a signpost where the road branches off to the city.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Mark out one road for the sword to come against Rabbah of the Ammonites and another against Judah and fortified Jerusalem.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For the king of Babylon will stop at the fork in the road, at the junction of the two roads, to seek an omen: He will cast lots with arrows, he will consult his idols, he will examine the liver.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Into his right hand will come the lot for Jerusalem, where he is to set up battering rams, to give the command to slaughter, to sound the battle cry, to set battering rams against the gates, to build a ramp and to erect siege works.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:23, Page:1, Kor:"", Chn:"", Eng:"It will seem like a false omen to those who have sworn allegiance to him, but he will remind them of their guilt and take them captive.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Therefore this is what the Sovereign LORD says: 'Because you people have brought to mind your guilt by your open rebellion, revealing your sins in all that you do--because you have done this, you will be taken captive.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'O profane and wicked prince of Israel, whose day has come, whose time of punishment has reached its climax,", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:26, Page:1, Kor:"", Chn:"", Eng:"this is what the Sovereign LORD says: Take off the turban, remove the crown. It will not be as it was: The lowly will be exalted and the exalted will be brought low.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:27, Page:1, Kor:"", Chn:"", Eng:"A ruin! A ruin! I will make it a ruin! It will not be restored until he comes to whom it rightfully belongs; to him I will give it.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:28, Page:1, Kor:"", Chn:"", Eng:""And you, son of man, prophesy and say, 'This is what the Sovereign LORD says about the Ammonites and their insults: "'A sword, a sword, drawn for the slaughter, polished to consume and to flash like lightning!", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Despite false visions concerning you and lying divinations about you, it will be laid on the necks of the wicked who are to be slain, whose day has come, whose time of punishment has reached its climax.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Return the sword to its scabbard. In the place where you were created, in the land of your ancestry, I will judge you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:31, Page:1, Kor:"", Chn:"", Eng:"I will pour out my wrath upon you and breathe out my fiery anger against you; I will hand you over to brutal men, men skilled in destruction.", Ind:""},
+  {Bible:"Ezekiel", Chapter:21, Verse:32, Page:1, Kor:"", Chn:"", Eng:"You will be fuel for the fire, your blood will be shed in your land, you will be remembered no more; for I the LORD have spoken.'"", Ind:""},
 ]);

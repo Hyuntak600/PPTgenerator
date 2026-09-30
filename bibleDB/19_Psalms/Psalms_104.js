@@ -1,6 +1,40 @@
 // 시편 104장 · Psalms 104
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",104,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",104,35);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:104, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Praise the LORD, O my soul. O LORD my God, you are very great; you are clothed with splendor and majesty.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He wraps himself in light as with a garment; he stretches out the heavens like a tent", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and lays the beams of his upper chambers on their waters. He makes the clouds his chariot and rides on the wings of the wind.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He makes winds his messengers, flames of fire his servants.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He set the earth on its foundations; it can never be moved.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You covered it with the deep as with a garment; the waters stood above the mountains.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But at your rebuke the waters fled, at the sound of your thunder they took to flight;", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:8, Page:1, Kor:"", Chn:"", Eng:"they flowed over the mountains, they went down into the valleys, to the place you assigned for them.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You set a boundary they cannot cross; never again will they cover the earth.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He makes springs pour water into the ravines; it flows between the mountains.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They give water to all the beasts of the field; the wild donkeys quench their thirst.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The birds of the air nest by the waters; they sing among the branches.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He waters the mountains from his upper chambers; the earth is satisfied by the fruit of his work.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He makes grass grow for the cattle, and plants for man to cultivate--bringing forth food from the earth:", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:15, Page:1, Kor:"", Chn:"", Eng:"wine that gladdens the heart of man, oil to make his face shine, and bread that sustains his heart.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The trees of the LORD are well watered, the cedars of Lebanon that he planted.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:17, Page:1, Kor:"", Chn:"", Eng:"There the birds make their nests; the stork has its home in the pine trees.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The high mountains belong to the wild goats; the crags are a refuge for the coneys.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The moon marks off the seasons, and the sun knows when to go down.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You bring darkness, it becomes night, and all the beasts of the forest prowl.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The lions roar for their prey and seek their food from God.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The sun rises, and they steal away; they return and lie down in their dens.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Then man goes out to his work, to his labor until evening.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:24, Page:1, Kor:"", Chn:"", Eng:"How many are your works, O LORD! In wisdom you made them all; the earth is full of your creatures.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:25, Page:1, Kor:"", Chn:"", Eng:"There is the sea, vast and spacious, teeming with creatures beyond number--living things both large and small.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:26, Page:1, Kor:"", Chn:"", Eng:"There the ships go to and fro, and the leviathan, which you formed to frolic there.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:27, Page:1, Kor:"", Chn:"", Eng:"These all look to you to give them their food at the proper time.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When you give it to them, they gather it up; when you open your hand, they are satisfied with good things.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:29, Page:1, Kor:"", Chn:"", Eng:"When you hide your face, they are terrified; when you take away their breath, they die and return to the dust.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:30, Page:1, Kor:"", Chn:"", Eng:"When you send your Spirit, they are created, and you renew the face of the earth.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:31, Page:1, Kor:"", Chn:"", Eng:"May the glory of the LORD endure forever; may the LORD rejoice in his works--", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:32, Page:1, Kor:"", Chn:"", Eng:"he who looks at the earth, and it trembles, who touches the mountains, and they smoke.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:33, Page:1, Kor:"", Chn:"", Eng:"I will sing to the LORD all my life; I will sing praise to my God as long as I live.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:34, Page:1, Kor:"", Chn:"", Eng:"May my meditation be pleasing to him, as I rejoice in the LORD.", Ind:""},
+  {Bible:"Psalms", Chapter:104, Verse:35, Page:1, Kor:"", Chn:"", Eng:"But may sinners vanish from the earth and the wicked be no more. Praise the LORD, O my soul. Praise the LORD.", Ind:""},
 ]);

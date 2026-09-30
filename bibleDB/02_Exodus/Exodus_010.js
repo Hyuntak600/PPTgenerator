@@ -1,6 +1,34 @@
 // 출애굽기 10장 · Exodus 10
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",10,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",10,29);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:10, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these miraculous signs of mine among them", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:2, Page:1, Kor:"", Chn:"", Eng:"that you may tell your children and grandchildren how I dealt harshly with the Egyptians and how I performed my signs among them, and that you may know that I am the LORD."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:3, Page:1, Kor:"", Chn:"", Eng:"So Moses and Aaron went to Pharaoh and said to him, "This is what the LORD, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may worship me.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:4, Page:1, Kor:"", Chn:"", Eng:"If you refuse to let them go, I will bring locusts into your country tomorrow.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They will cover the face of the ground so that it cannot be seen. They will devour what little you have left after the hail, including every tree that is growing in your fields.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They will fill your houses and those of all your officials and all the Egyptians--something neither your fathers nor your forefathers have ever seen from the day they settled in this land till now.'" Then Moses turned and left Pharaoh.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Pharaoh's officials said to him, "How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt is ruined?"", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then Moses and Aaron were brought back to Pharaoh. "Go, worship the LORD your God," he said. "But just who will be going?"", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Moses answered, "We will go with our young and old, with our sons and daughters, and with our flocks and herds, because we are to celebrate a festival to the LORD."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Pharaoh said, "The LORD be with you--if I let you go, along with your women and children! Clearly you are bent on evil.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:11, Page:1, Kor:"", Chn:"", Eng:"No! Have only the men go; and worship the LORD, since that's what you have been asking for." Then Moses and Aaron were driven out of Pharaoh's presence.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And the LORD said to Moses, "Stretch out your hand over Egypt so that locusts will swarm over the land and devour everything growing in the fields, everything left by the hail."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:13, Page:1, Kor:"", Chn:"", Eng:"So Moses stretched out his staff over Egypt, and the LORD made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts;", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:14, Page:1, Kor:"", Chn:"", Eng:"they invaded all Egypt and settled down in every area of the country in great numbers. Never before had there been such a plague of locusts, nor will there ever be again.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:15, Page:1, Kor:"", Chn:"", Eng:"They covered all the ground until it was black. They devoured all that was left after the hail--everything growing in the fields and the fruit on the trees. Nothing green remained on tree or plant in all the land of Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Pharaoh quickly summoned Moses and Aaron and said, "I have sinned against the LORD your God and against you.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now forgive my sin once more and pray to the LORD your God to take this deadly plague away from me."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Moses then left Pharaoh and prayed to the LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:19, Page:1, Kor:"", Chn:"", Eng:"And the LORD changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea. Not a locust was left anywhere in Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But the LORD hardened Pharaoh's heart, and he would not let the Israelites go.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Stretch out your hand toward the sky so that darkness will spread over Egypt--darkness that can be felt."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So Moses stretched out his hand toward the sky, and total darkness covered all Egypt for three days.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:23, Page:1, Kor:"", Chn:"", Eng:"No one could see anyone else or leave his place for three days. Yet all the Israelites had light in the places where they lived.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Pharaoh summoned Moses and said, "Go, worship the LORD. Even your women and children may go with you; only leave your flocks and herds behind."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But Moses said, "You must allow us to have sacrifices and burnt offerings to present to the LORD our God.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Our livestock too must go with us; not a hoof is to be left behind. We have to use some of them in worshiping the LORD our God, and until we get there we will not know what we are to use to worship the LORD."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But the LORD hardened Pharaoh's heart, and he was not willing to let them go.", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Pharaoh said to Moses, "Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die."", Ind:""},
+  {Bible:"Exodus", Chapter:10, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Just as you say," Moses replied, "I will never appear before you again."", Ind:""},
 ]);

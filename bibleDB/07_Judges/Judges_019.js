@@ -1,6 +1,35 @@
 // 사사기 19장 · Judges 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",19,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",19,30);
 BibleDB.add([
+  {Bible:"Judges", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In those days Israel had no king. Now a Levite who lived in a remote area in the hill country of Ephraim took a concubine from Bethlehem in Judah.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But she was unfaithful to him. She left him and went back to her father's house in Bethlehem, Judah. After she had been there four months,", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"her husband went to her to persuade her to return. He had with him his servant and two donkeys. She took him into her father's house, and when her father saw him, he gladly welcomed him.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His father-in-law, the girl's father, prevailed upon him to stay; so he remained with him three days, eating and drinking, and sleeping there.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"On the fourth day they got up early and he prepared to leave, but the girl's father said to his son-in-law, "Refresh yourself with something to eat; then you can go."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So the two of them sat down to eat and drink together. Afterward the girl's father said, "Please stay tonight and enjoy yourself."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And when the man got up to go, his father-in-law persuaded him, so he stayed there that night.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"On the morning of the fifth day, when he rose to go, the girl's father said, "Refresh yourself. Wait till afternoon!" So the two of them ate together.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then when the man, with his concubine and his servant, got up to leave, his father-in-law, the girl's father, said, "Now look, it's almost evening. Spend the night here; the day is nearly over. Stay and enjoy yourself. Early tomorrow morning you can get up and be on your way home."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But, unwilling to stay another night, the man left and went toward Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When they were near Jebus and the day was almost gone, the servant said to his master, "Come, let's stop at this city of the Jebusites and spend the night."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"His master replied, "No. We won't go into an alien city, whose people are not Israelites. We will go on to Gibeah."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He added, "Come, let's try to reach Gibeah or Ramah and spend the night in one of those places."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So they went on, and the sun set as they neared Gibeah in Benjamin.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"There they stopped to spend the night. They went and sat in the city square, but no one took them into his home for the night.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"That evening an old man from the hill country of Ephraim, who was living in Gibeah (the men of the place were Benjamites), came in from his work in the fields.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:"When he looked and saw the traveler in the city square, the old man asked, "Where are you going? Where did you come from?"", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He answered, "We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the LORD. No one has taken me into his house.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"We have both straw and fodder for our donkeys and bread and wine for ourselves your servants--me, your maidservant, and the young man with us. We don't need anything."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:""You are welcome at my house," the old man said. "Let me supply whatever you need. Only don't spend the night in the square."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and drink.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"While they were enjoying themselves, some of the wicked men of the city surrounded the house. Pounding on the door, they shouted to the old man who owned the house, "Bring out the man who came to your house so we can have sex with him."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The owner of the house went outside and said to them, "No, my friends, don't be so vile. Since this man is my guest, don't do this disgraceful thing.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Look, here is my virgin daughter, and his concubine. I will bring them out to you now, and you can use them and do to them whatever you wish. But to this man, don't do such a disgraceful thing."", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But the men would not listen to him. So the man took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:"At daybreak the woman went back to the house where her master was staying, fell down at the door and lay there until daylight.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:"When her master got up in the morning and opened the door of the house and stepped out to continue on his way, there lay his concubine, fallen in the doorway of the house, with her hands on the threshold.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He said to her, "Get up; let's go." But there was no answer. Then the man put her on his donkey and set out for home.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"When he reached home, he took a knife and cut up his concubine, limb by limb, into twelve parts and sent them into all the areas of Israel.", Ind:""},
+  {Bible:"Judges", Chapter:19, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Everyone who saw it said, "Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Think about it! Consider it! Tell us what to do!"", Ind:""},
 ]);

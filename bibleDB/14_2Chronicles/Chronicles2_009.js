@@ -1,0 +1,37 @@
+// 역대하 9장 · Chronicles2 9
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
+BibleDB.ref("Chronicles2",9,31);
+// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+BibleDB.add([
+  {Bible:"Chronicles2", Chapter:9, Verse:1, Page:1, Kor:"<스바의 여왕이 솔로몬을 찾아오다(왕상 10:1-13)> 스바의 여왕이 솔로몬의 명성을 듣고, 여러 가지 어려운 질문으로 그를 시험하여 보려고, 예루살렘으로 그를 찾아왔다. 그는 많은 수행원을 데리고, 또 여러 가지 향료와 많은 금과 보석들을 낙타에 싣고 왔다. 그는 솔로몬에게 이르자, 마음 속에 품고 있는 온갖 것들을 다 물어 보았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:2, Page:1, Kor:"솔로몬은 여왕이 묻는 모든 물음에 척척 대답하였다. 솔로몬이 몰라서 여왕에게 대답하지 못한 것은 하나도 없었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:3, Page:1, Kor:"스바의 여왕은, 솔로몬이 온갖 지혜를 갖추고 있는 것을 확인하고, 그가 지은 궁전을 두루 살펴보고,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:4, Page:1, Kor:"또 왕의 상에 오른 요리와, 신하들이 둘러 앉은 모습과, 그의 관리들이 일하는 모습과, 그들이 입은 제복과, 술잔을 받들어 올리는 시종들과, 그들이 입은 제복과, 주님의 성전에서 드리는 번제물을 보고 나서 넋을 잃었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:5, Page:1, Kor:"○여왕이 왕에게 말하였다. \"임금님께서 이루신 업적과 임금님의 지혜에 관한 소문을, 내가 내 나라에서 이미 들었지만, 와서 보니, 과연 들은 소문이 모두 사실입니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:6, Page:1, Kor:"내가 여기 오기 전까지는 그 소문을 믿지 못하였는데, 내 눈으로 직접 확인하고 보니, 오히려 내가 들은 소문은 사실의 절반도 안 되는 것 같습니다. 임금님께서는, 내가 들은 소문보다 훨씬 뛰어나신 분이십니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:7, Page:1, Kor:"임금님의 백성은 참으로 행복한 사람들입니다. 임금님 앞에 서서, 늘 임금님의 지혜를 배우는 임금님의 신하들 또한, 참으로 행복하다 아니할 수 없습니다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:8, Page:1, Kor:"주 임금님의 하나님께 찬양을 돌립니다. 하나님께서는 임금님을 좋아하셔서 임금님을 그의 보좌에 앉히시고, 주 하나님을 받드는 왕으로 삼으셨습니다. 임금님의 하나님께서는 이스라엘을 사랑하셔서, 그들을 영원히 굳게 세우시려고, 임금님을 그들 위에 왕으로 세우시고, 공평과 정의로 다스리게 하셨습니다.\"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:9, Page:1, Kor:"○그런 다음에, 여왕은, 금 백이십 달란트와 아주 많은 향료와 보석을 왕에게 선사하였다. 솔로몬 왕은, 스바의 여왕에게서 받은 만큼, 그렇게 많은 향료를, 다시는 어느 누구에게서도 더 받아 본 일이 없다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:10, Page:1, Kor:"○(히람의 일꾼들과 솔로몬의 일꾼들도 오빌에서 금을 실어 왔다. 그들은 백단목과 보석도 가져 왔다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:11, Page:1, Kor:"왕은 이 백단목으로 주님의 성전과 왕궁의 계단을 만들고, 합창단원이 쓸 수금과 거문고를 만들었다. 이와 같은 백단목은 일찍이 유다 땅에서는 본 일이 없었다.)", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:12, Page:1, Kor:"○솔로몬 왕은 스바의 여왕이 가져 온 것보다 더 많이 주었을 뿐만 아니라, 여왕이 요구하는 대로, 가지고 싶어 하는 것은 모두 주었다. 여왕은 신하들과 함께 자기의 나라로 돌아갔다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:13, Page:1, Kor:"<솔로몬의 부귀 영화(왕상 10:14-25)> ○해마다 솔로몬에게 들어오는 금의 무게가 육백육십육 달란트나 되었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:14, Page:1, Kor:"이 밖에도 관세 수입과 외국과의 무역에서 벌어들인 것이 있고, 아라비아의 모든 왕들과, 국내의 지방 장관들이 보내오는 금도 있었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:15, Page:1, Kor:"솔로몬 왕은 금을 두드려 펴서 입힌 큰 방패를 이백 개나 만들었는데, 방패 하나에 들어간 금만 해도 육백 세겔이나 되었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:16, Page:1, Kor:"그는 또 금을 두드려 펴서 입힌 작은 방패를 삼백 개 만들었는데, 그 방패 하나에 들어간 금은 삼백 세겔이었다. 왕은 이 방패들을 '레바논 수풀 궁'에 두었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:17, Page:1, Kor:"○왕은 또 상아로 큰 보좌를 만들고, 겉에 순금을 입혔다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:18, Page:1, Kor:"그 보좌로 오르는 층계는 계단이 여섯이었으며, 보좌에 붙은 발받침대는 금으로 만든 것이었다. 앉는 자리 양쪽에는 팔걸이가 있고, 팔걸이 양 옆에는 사자 상이 하나씩 서 있었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:19, Page:1, Kor:"여섯 개의 계단 양쪽에도, 각각 여섯 개씩 열두 개의 사자 상이 서 있었다. 일찍이 어느 나라에서도 이렇게는 만들지 못하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:20, Page:1, Kor:"○솔로몬 왕이 마시는 데 쓰는 모든 그릇은 금으로 되어 있었고, '레바논 수풀 궁'에 있는 그릇도 모두 순금으로 만든 것이었다. 솔로몬 시대에는, 은은 귀금속 축에 들지도 못하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:21, Page:1, Kor:"왕의 배들은 a히람의 일꾼들을 태우고 다시스로 다니며, 세 해마다 한 번씩 금과 은과 상아와 원숭이와 공작새 들을 실어 오곤 하였다.(a 히, '후람')", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:22, Page:1, Kor:"○솔로몬 왕은 재산에 있어서나, 지혜에 있어서나, 이 세상의 어떤 왕보다 훨씬 뛰어났다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:23, Page:1, Kor:"그래서 세상의 모든 왕들은 솔로몬을 직접 만나서, 하나님께서 그의 마음 속에 넣어 주신 지혜의 말을 들으려고 하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:24, Page:1, Kor:"그리하여 그들은 각자, 은그릇과 금그릇과 옷과 갑옷과 향료와 말과 노새를 예물로 가지고 왔는데, 해마다 이런 사람들의 방문이 그치지 않았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:25, Page:1, Kor:"○병거 끄는 말을 매어 두는 마구간만 하더라도, 솔로몬이 가지고 있던 것이 사천 칸이나 되었다. 기병은 만 이천 명에 이르렀다. 솔로몬은 그들을, 병거 주둔성과 왕이 있는 예루살렘에다가 나누어서 배치하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:26, Page:1, Kor:"그는 유프라테스 강에서부터 블레셋 영토에 이르기까지, 또 이집트의 국경에 이르기까지 모든 왕을 다스렸다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:27, Page:1, Kor:"왕의 덕분에 예루살렘에는 은이 돌처럼 흔하였고, 백향목은 세펠라 평원지대의 뽕나무만큼이나 많았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:28, Page:1, Kor:"솔로몬은 이집트에서 그리고 다른 모든 나라에서 군마를 사들였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:29, Page:1, Kor:"<솔로몬의 통치 개요(왕상 11:41-43)> ○솔로몬의 나머지 행적은 처음부터 끝까지, '나단 예언자의 역사책'과 '실로 사람 아히야의 예언서'와 '잇도 선견자의 묵시록', 곧 잇도가 느밧의 아들 여로보암에 대하여 쓴 책에 기록되어 있다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:30, Page:1, Kor:"솔로몬은 예루살렘에서 마흔 해 동안 온 이스라엘을 다스렸다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles2", Chapter:9, Verse:31, Page:1, Kor:"솔로몬은 죽어서 그의 아버지 다윗의 성에 묻혔다. 그의 아들 르호보암이 그의 뒤를 이어 왕이 되었다.", Chn:"", Eng:"", Ind:""},
+]);

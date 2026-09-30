@@ -1,6 +1,36 @@
 // 출애굽기 4장 · Exodus 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",4,31);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Moses answered, "What if they do not believe me or listen to me and say, 'The LORD did not appear to you'?"", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to him, "What is that in your hand?" "A staff," he replied.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The LORD said, "Throw it on the ground." Moses threw it on the ground and it became a snake, and he ran from it.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to him, "Reach out your hand and take it by the tail." So Moses reached out and took hold of the snake and it turned back into a staff in his hand.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:""This," said the LORD, "is so that they may believe that the LORD, the God of their fathers--the God of Abraham, the God of Isaac and the God of Jacob--has appeared to you."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said, "Put your hand inside your cloak." So Moses put his hand into his cloak, and when he took it out, it was leprous, like snow.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Now put it back into your cloak," he said. So Moses put his hand back into his cloak, and when he took it out, it was restored, like the rest of his flesh.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said, "If they do not believe you or pay attention to the first miraculous sign, they may believe the second.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"But if they do not believe these two signs or listen to you, take some water from the Nile and pour it on the dry ground. The water you take from the river will become blood on the ground."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Moses said to the LORD, "O Lord, I have never been eloquent, neither in the past nor since you have spoken to your servant. I am slow of speech and tongue."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The LORD said to him, "Who gave man his mouth? Who makes him deaf or mute? Who gives him sight or makes him blind? Is it not I, the LORD?", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Now go; I will help you speak and will teach you what to say."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But Moses said, "O Lord, please send someone else to do it."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then the LORD'S anger burned against Moses and he said, "What about your brother, Aaron the Levite? I know he can speak well. He is already on his way to meet you, and his heart will be glad when he sees you.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You shall speak to him and put words in his mouth; I will help both of you speak and will teach you what to do.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He will speak to the people for you, and it will be as if he were your mouth and as if you were God to him.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But take this staff in your hand so you can perform miraculous signs with it."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then Moses went back to Jethro his father-in-law and said to him, "Let me go back to my own people in Egypt to see if any of them are still alive." Jethro said, "Go, and I wish you well."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Now the LORD had said to Moses in Midian, "Go back to Egypt, for all the men who wanted to kill you are dead."", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So Moses took his wife and sons, put them on a donkey and started back to Egypt. And he took the staff of God in his hand.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses, "When you return to Egypt, see that you perform before Pharaoh all the wonders I have given you the power to do. But I will harden his heart so that he will not let the people go.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then say to Pharaoh, 'This is what the LORD says: Israel is my firstborn son,", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"and I told you, "Let my son go, so he may worship me." But you refused to let him go; so I will kill your firstborn son.'"", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"At a lodging place on the way, the LORD met Moses and was about to kill him.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But Zipporah took a flint knife, cut off her son's foreskin and touched Moses' feet with it. "Surely you are a bridegroom of blood to me," she said.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"So the LORD let him alone. (At that time she said "bridegroom of blood," referring to circumcision.)", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Aaron, "Go into the desert to meet Moses." So he met Moses at the mountain of God and kissed him.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Moses told Aaron everything the LORD had sent him to say, and also about all the miraculous signs he had commanded him to perform.", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Moses and Aaron brought together all the elders of the Israelites,", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"and Aaron told them everything the LORD had said to Moses. He also performed the signs before the people,", Ind:""},
+  {Bible:"Exodus", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"and they believed. And when they heard that the LORD was concerned about them and had seen their misery, they bowed down and worshiped.", Ind:""},
 ]);

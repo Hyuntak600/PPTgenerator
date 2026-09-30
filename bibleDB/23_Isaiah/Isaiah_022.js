@@ -1,6 +1,30 @@
 // 이사야 22장 · Isaiah 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",22,25);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"An oracle concerning the Valley of Vision: What troubles you now, that you have all gone up on the roofs,", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:"O town full of commotion, O city of tumult and revelry? Your slain were not killed by the sword, nor did they die in battle.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"All your leaders have fled together; they have been captured without using the bow. All you who were caught were taken prisoner together, having fled while the enemy was still far away.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Therefore I said, "Turn away from me; let me weep bitterly. Do not try to console me over the destruction of my people."", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The Lord, the LORD Almighty, has a day of tumult and trampling and terror in the Valley of Vision, a day of battering down walls and of crying out to the mountains.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Elam takes up the quiver, with her charioteers and horses; Kir uncovers the shield.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Your choicest valleys are full of chariots, and horsemen are posted at the city gates;", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"the defenses of Judah are stripped away. And you looked in that day to the weapons in the Palace of the Forest;", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"you saw that the City of David had many breaches in its defenses; you stored up water in the Lower Pool.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You counted the buildings in Jerusalem and tore down houses to strengthen the wall.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You built a reservoir between the two walls for the water of the Old Pool, but you did not look to the One who made it, or have regard for the One who planned it long ago.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The Lord, the LORD Almighty, called you on that day to weep and to wail, to tear out your hair and put on sackcloth.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But see, there is joy and revelry, slaughtering of cattle and killing of sheep, eating of meat and drinking of wine! "Let us eat and drink," you say, "for tomorrow we die!"", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty has revealed this in my hearing: "Till your dying day this sin will not be atoned for," says the Lord, the LORD Almighty.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"This is what the Lord, the LORD Almighty, says: "Go, say to this steward, to Shebna, who is in charge of the palace:", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"What are you doing here and who gave you permission to cut out a grave for yourself here, hewing your grave on the height and chiseling your resting place in the rock?", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Beware, the LORD is about to take firm hold of you and hurl you away, O you mighty man.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He will roll you up tightly like a ball and throw you into a large country. There you will die and there your splendid chariots will remain--you disgrace to your master's house!", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I will depose you from your office, and you will be ousted from your position.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:""In that day I will summon my servant, Eliakim son of Hilkiah.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I will clothe him with your robe and fasten your sash around him and hand your authority over to him. He will be a father to those who live in Jerusalem and to the house of Judah.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I will place on his shoulder the key to the house of David; what he opens no one can shut, and what he shuts no one can open.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I will drive him like a peg into a firm place; he will be a seat of honor for the house of his father.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"All the glory of his family will hang on him: its offspring and offshoots--all its lesser vessels, from the bowls to all the jars.", Ind:""},
+  {Bible:"Isaiah", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:""In that day," declares the LORD Almighty, "the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down." The LORD has spoken.", Ind:""},
 ]);

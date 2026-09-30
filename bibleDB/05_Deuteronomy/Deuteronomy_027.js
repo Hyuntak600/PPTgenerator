@@ -1,6 +1,31 @@
 // 신명기 27장 · Deuteronomy 27
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",27,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",27,26);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:27, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Moses and the elders of Israel commanded the people: "Keep all these commands that I give you today.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:"When you have crossed the Jordan into the land the LORD your God is giving you, set up some large stones and coat them with plaster.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Write on them all the words of this law when you have crossed over to enter the land the LORD your God is giving you, a land flowing with milk and honey, just as the LORD, the God of your fathers, promised you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:4, Page:1, Kor:"", Chn:"", Eng:"And when you have crossed the Jordan, set up these stones on Mount Ebal, as I command you today, and coat them with plaster.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Build there an altar to the LORD your God, an altar of stones. Do not use any iron tool upon them.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Build the altar of the LORD your God with fieldstones and offer burnt offerings on it to the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Sacrifice fellowship offerings there, eating them and rejoicing in the presence of the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And you shall write very clearly all the words of this law on these stones you have set up."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then Moses and the priests, who are Levites, said to all Israel, "Be silent, O Israel, and listen! You have now become the people of the LORD your God.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Obey the LORD your God and follow his commands and decrees that I give you today."", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:11, Page:1, Kor:"", Chn:"", Eng:"On the same day Moses commanded the people:", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph and Benjamin.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And these tribes shall stand on Mount Ebal to pronounce curses: Reuben, Gad, Asher, Zebulun, Dan and Naphtali.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The Levites shall recite to all the people of Israel in a loud voice:", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who carves an image or casts an idol--a thing detestable to the LORD, the work of the craftsman's hands--and sets it up in secret." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who dishonors his father or his mother." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who moves his neighbor's boundary stone." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who leads the blind astray on the road." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who withholds justice from the alien, the fatherless or the widow." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who sleeps with his father's wife, for he dishonors his father's bed." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who has sexual relations with any animal." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:22, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who sleeps with his sister, the daughter of his father or the daughter of his mother." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who sleeps with his mother-in-law." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who kills his neighbor secretly." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who accepts a bribe to kill an innocent person." Then all the people shall say, "Amen!"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:27, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Cursed is the man who does not uphold the words of this law by carrying them out." Then all the people shall say, "Amen!"", Ind:""},
 ]);

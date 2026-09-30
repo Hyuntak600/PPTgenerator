@@ -1,6 +1,33 @@
 // 마태복음 16장 · Matthew 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",16,28);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The Pharisees and Sadducees came to Jesus and tested him by asking him to show them a sign from heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He replied, "When evening comes, you say, 'It will be fair weather, for the sky is red,'", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"A wicked and adulterous generation looks for a miraculous sign, but none will be given it except the sign of Jonah." Jesus then left them and went away.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When they went across the lake, the disciples forgot to take bread.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Be careful," Jesus said to them. "Be on your guard against the yeast of the Pharisees and Sadducees."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They discussed this among themselves and said, "It is because we didn't bring any bread."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Aware of their discussion, Jesus asked, "You of little faith, why are you talking among yourselves about having no bread?", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do you still not understand? Don't you remember the five loaves for the five thousand, and how many basketfuls you gathered?", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Or the seven loaves for the four thousand, and how many basketfuls you gathered?", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"How is it you don't understand that I was not talking to you about bread? But be on your guard against the yeast of the Pharisees and Sadducees."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then they understood that he was not telling them to guard against the yeast used in bread, but against the teaching of the Pharisees and Sadducees.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When Jesus came to the region of Caesarea Philippi, he asked his disciples, "Who do people say the Son of Man is?"", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They replied, "Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:""But what about you?" he asked. "Who do you say I am?"", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Simon Peter answered, "You are the Christ, the Son of the living God."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "Blessed are you, Simon son of Jonah, for this was not revealed to you by man, but by my Father in heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then he warned his disciples not to tell anyone that he was the Christ.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, chief priests and teachers of the law, and that he must be killed and on the third day be raised to life.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Peter took him aside and began to rebuke him. "Never, Lord!" he said. "This shall never happen to you!"", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Jesus turned and said to Peter, "Get behind me, Satan! You are a stumbling block to me; you do not have in mind the things of God, but the things of men."", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then Jesus said to his disciples, "If anyone would come after me, he must deny himself and take up his cross and follow me.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For whoever wants to save his life will lose it, but whoever loses his life for me will find it.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"What good will it be for a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"For the Son of Man is going to come in his Father's glory with his angels, and then he will reward each person according to what he has done.", Ind:""},
+  {Bible:"Matthew", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, some who are standing here will not taste death before they see the Son of Man coming in his kingdom."", Ind:""},
 ]);

@@ -1,0 +1,31 @@
+// 디모데후서 2장 · Timothy2 2
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Timothy2",2,26);
+BibleDB.add([
+  {Bible:"Timothy2", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You then, my son, be strong in the grace that is in Christ Jesus.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And the things you have heard me say in the presence of many witnesses entrust to reliable men who will also be qualified to teach others.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Endure hardship with us like a good soldier of Christ Jesus.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"No one serving as a soldier gets involved in civilian affairs--he wants to please his commanding officer.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Similarly, if anyone competes as an athlete, he does not receive the victor's crown unless he competes according to the rules.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The hardworking farmer should be the first to receive a share of the crops.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Reflect on what I am saying, for the Lord will give you insight into all this.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Remember Jesus Christ, raised from the dead, descended from David. This is my gospel,", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"for which I am suffering even to the point of being chained like a criminal. But God's word is not chained.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Therefore I endure everything for the sake of the elect, that they too may obtain the salvation that is in Christ Jesus, with eternal glory.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Here is a trustworthy saying: If we died with him, we will also live with him;", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"if we endure, we will also reign with him. If we disown him, he will also disown us;", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"if we are faithless, he will remain faithful, for he cannot disown himself.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Keep reminding them of these things. Warn them before God against quarreling about words; it is of no value, and only ruins those who listen.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Do your best to present yourself to God as one approved, a workman who does not need to be ashamed and who correctly handles the word of truth.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Avoid godless chatter, because those who indulge in it will become more and more ungodly.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Their teaching will spread like gangrene. Among them are Hymenaeus and Philetus,", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"who have wandered away from the truth. They say that the resurrection has already taken place, and they destroy the faith of some.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Nevertheless, God's solid foundation stands firm, sealed with this inscription: "The Lord knows those who are his," and, "Everyone who confesses the name of the Lord must turn away from wickedness."", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In a large house there are articles not only of gold and silver, but also of wood and clay; some are for noble purposes and some for ignoble.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"If a man cleanses himself from the latter, he will be an instrument for noble purposes, made holy, useful to the Master and prepared to do any good work.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Flee the evil desires of youth, and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Don't have anything to do with foolish and stupid arguments, because you know they produce quarrels.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And the Lord's servant must not quarrel; instead, he must be kind to everyone, able to teach, not resentful.", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Those who oppose him he must gently instruct, in the hope that God will grant them repentance leading them to a knowledge of the truth,", Ind:""},
+  {Bible:"Timothy2", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will.", Ind:""},
+]);

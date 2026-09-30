@@ -1,0 +1,32 @@
+// 데살로니가전서 5장 · Thessalonians1 5
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Thessalonians1",5,27);
+BibleDB.add([
+  {Bible:"Thessalonians1", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now, brothers, about times and dates we do not need to write to you,", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"for you know very well that the day of the Lord will come like a thief in the night.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"While people are saying, "Peace and safety," destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But you, brothers, are not in darkness so that this day should surprise you like a thief.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"You are all sons of the light and sons of the day. We do not belong to the night or to the darkness.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So then, let us not be like others, who are asleep, but let us be alert and self-controlled.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"For those who sleep, sleep at night, and those who get drunk, get drunk at night.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But since we belong to the day, let us be self-controlled, putting on faith and love as a breastplate, and the hope of salvation as a helmet.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He died for us so that, whether we are awake or asleep, we may live together with him.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Therefore encourage one another and build each other up, just as in fact you are doing.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Now we ask you, brothers, to respect those who work hard among you, who are over you in the Lord and who admonish you.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Hold them in the highest regard in love because of their work. Live in peace with each other.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"And we urge you, brothers, warn those who are idle, encourage the timid, help the weak, be patient with everyone.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Make sure that nobody pays back wrong for wrong, but always try to be kind to each other and to everyone else.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Be joyful always;", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"pray continually;", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"give thanks in all circumstances, for this is God's will for you in Christ Jesus.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Do not put out the Spirit's fire;", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"do not treat prophecies with contempt.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Test everything. Hold on to the good.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Avoid every kind of evil.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The one who calls you is faithful and he will do it.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Brothers, pray for us.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Greet all the brothers with a holy kiss.", Ind:""},
+  {Bible:"Thessalonians1", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"I charge you before the Lord to have this letter read to all the brothers.", Ind:""},
+]);

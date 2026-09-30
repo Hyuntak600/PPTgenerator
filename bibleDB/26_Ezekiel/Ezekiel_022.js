@@ -1,6 +1,36 @@
 // 에스겔 22장 · Ezekiel 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",22,31);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, will you judge her? Will you judge this city of bloodshed? Then confront her with all her detestable practices", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and say: 'This is what the Sovereign LORD says: O city that brings on herself doom by shedding blood in her midst and defiles herself by making idols,", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"you have become guilty because of the blood you have shed and have become defiled by the idols you have made. You have brought your days to a close, and the end of your years has come. Therefore I will make you an object of scorn to the nations and a laughingstock to all the countries.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Those who are near and those who are far away will mock you, O infamous city, full of turmoil.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'See how each of the princes of Israel who are in you uses his power to shed blood.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In you they have treated father and mother with contempt; in you they have oppressed the alien and mistreated the fatherless and the widow.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You have despised my holy things and desecrated my Sabbaths.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"In you are slanderous men bent on shedding blood; in you are those who eat at the mountain shrines and commit lewd acts.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"In you are those who dishonor their fathers' bed; in you are those who violate women during their period, when they are ceremonially unclean.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"In you one man commits a detestable offense with his neighbor's wife, another shamefully defiles his daughter-in-law, and another violates his sister, his own father's daughter.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"In you men accept bribes to shed blood; you take usury and excessive interest and make unjust gain from your neighbors by extortion. And you have forgotten me, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'I will surely strike my hands together at the unjust gain you have made and at the blood you have shed in your midst.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Will your courage endure or your hands be strong in the day I deal with you? I the LORD have spoken, and I will do it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will disperse you among the nations and scatter you through the countries; and I will put an end to your uncleanness.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When you have been defiled in the eyes of the nations, you will know that I am the LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Son of man, the house of Israel has become dross to me; all of them are the copper, tin, iron and lead left inside a furnace. They are but the dross of silver.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Sovereign LORD says: 'Because you have all become dross, I will gather you into Jerusalem.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"As men gather silver, copper, iron, lead and tin into a furnace to melt it with a fiery blast, so will I gather you in my anger and my wrath and put you inside the city and melt you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I will gather you and I will blow on you with my fiery wrath, and you will be melted inside her.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"As silver is melted in a furnace, so you will be melted inside her, and you will know that I the LORD have poured out my wrath upon you.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Again the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Son of man, say to the land, 'You are a land that has had no rain or showers in the day of wrath.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"There is a conspiracy of her princes within her like a roaring lion tearing its prey; they devour people, take treasures and precious things and make many widows within her.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Her priests do violence to my law and profane my holy things; they do not distinguish between the holy and the common; they teach that there is no difference between the unclean and the clean; and they shut their eyes to the keeping of my Sabbaths, so that I am profaned among them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Her officials within her are like wolves tearing their prey; they shed blood and kill people to make unjust gain.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Her prophets whitewash these deeds for them by false visions and lying divinations. They say, 'This is what the Sovereign LORD says'--when the LORD has not spoken.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The people of the land practice extortion and commit robbery; they oppress the poor and needy and mistreat the alien, denying them justice.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:""I looked for a man among them who would build up the wall and stand before me in the gap on behalf of the land so I would not have to destroy it, but I found none.", Ind:""},
+  {Bible:"Ezekiel", Chapter:22, Verse:31, Page:1, Kor:"", Chn:"", Eng:"So I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign LORD."", Ind:""},
 ]);

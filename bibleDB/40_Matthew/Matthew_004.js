@@ -1,6 +1,30 @@
 // 마태복음 4장 · Matthew 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",4,25);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Jesus was led by the Spirit into the desert to be tempted by the devil.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"After fasting forty days and forty nights, he was hungry.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The tempter came to him and said, "If you are the Son of God, tell these stones to become bread."", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "It is written: 'Man does not live on bread alone, but on every word that comes from the mouth of God.'"", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then the devil took him to the holy city and had him stand on the highest point of the temple.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:""If you are the Son of God," he said, "throw yourself down. For it is written: "'He will command his angels concerning you, and they will lift you up in their hands, so that you will not strike your foot against a stone.'"", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jesus answered him, "It is also written: 'Do not put the Lord your God to the test.'"", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:""All this I will give you," he said, "if you will bow down and worship me."", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Jesus said to him, "Away from me, Satan! For it is written: 'Worship the Lord your God, and serve him only.'"", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then the devil left him, and angels came and attended him.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When Jesus heard that John had been put in prison, he returned to Galilee.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Leaving Nazareth, he went and lived in Capernaum, which was by the lake in the area of Zebulun and Naphtali--", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"to fulfill what was said through the prophet Isaiah:", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Land of Zebulun and land of Naphtali, the way to the sea, along the Jordan, Galilee of the Gentiles--", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned."", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"From that time on Jesus began to preach, "Repent, for the kingdom of heaven is near."", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Come, follow me," Jesus said, "and I will make you fishers of men."", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"At once they left their nets and followed him.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them,", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"and immediately they left the boat and their father and followed him.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Jesus went throughout Galilee, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and sickness among the people.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed, and he healed them.", Ind:""},
+  {Bible:"Matthew", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Large crowds from Galilee, the Decapolis, Jerusalem, Judea and the region across the Jordan followed him.", Ind:""},
 ]);

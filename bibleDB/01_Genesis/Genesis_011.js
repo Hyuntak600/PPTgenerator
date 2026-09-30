@@ -1,6 +1,37 @@
 // 창세기 11장 · Genesis 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",11,32);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the whole world had one language and a common speech.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"As men moved eastward, they found a plain in Shinar and settled there.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They said to each other, "Come, let's make bricks and bake them thoroughly." They used brick  instead of stone, and tar for mortar.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then they said, "Come, let us build ourselves a city, with a tower that reaches to the  heavens, so that we may make a name for ourselves and not be scattered over the face of the whole  earth."", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But the LORD came down to see the city and the tower that the men were building.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD said, "If as one people speaking the same language they have begun to do this, then  nothing they plan to do will be impossible for them.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Come, let us go down and confuse their language so they will not understand each other."", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"So the LORD scattered them from there over all the earth, and they stopped building the  city.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"That is why it was called Babel--because there the LORD confused the language of the whole  world. From there the LORD scattered them over the face of the whole earth.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is the account of Shem. Two years after the flood, when Shem was 100 years old, he  became the father of Arphaxad.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Arphaxad, Shem lived 500 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When Arphaxad had lived 35 years, he became the father of Shelah.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When Shelah had lived 30 years, he became the father of Eber.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Eber, Shelah lived 403 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When Eber had lived 34 years, he became the father of Peleg.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Peleg, Eber lived 430 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When Peleg had lived 30 years, he became the father of Reu.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Reu, Peleg lived 209 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When Reu had lived 32 years, he became the father of Serug.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Serug, Reu lived 207 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When Serug had lived 30 years, he became the father of Nahor.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Nahor, Serug lived 200 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When Nahor had lived 29 years, he became the father of Terah.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Terah, Nahor lived 119 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"After Terah had lived 70 years, he became the father of Abram, Nahor and Haran.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"This is the account of Terah. Terah became the father of Abram, Nahor and Haran. And Haran  became the father of Lot.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"While his father Terah was still alive, Haran died in Ur of the Chaldeans, in the land of  his birth.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Abram and Nahor both married. The name of Abram's wife was Sarai, and the name of Nahor's  wife was Milcah; she was the daughter of Haran, the father of both Milcah and Iscah.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Now Sarai was barren; she had no children.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai, the  wife of his son Abram, and together they set out from Ur of the Chaldeans to go to Canaan. But  when they came to Haran, they settled there.", Ind:""},
+  {Bible:"Genesis", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Terah lived 205 years, and he died in Haran.", Ind:""},
 ]);

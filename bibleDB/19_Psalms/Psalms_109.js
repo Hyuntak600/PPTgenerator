@@ -1,6 +1,36 @@
 // 시편 109장 · Psalms 109
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",109,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",109,31);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:109, Verse:1, Page:1, Kor:"", Chn:"", Eng:"O God, whom I praise, do not remain silent,", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:2, Page:1, Kor:"", Chn:"", Eng:"for wicked and deceitful men have opened their mouths against me; they have spoken against me with lying tongues.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:3, Page:1, Kor:"", Chn:"", Eng:"With words of hatred they surround me; they attack me without cause.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:4, Page:1, Kor:"", Chn:"", Eng:"In return for my friendship they accuse me, but I am a man of prayer.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They repay me evil for good, and hatred for my friendship.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Appoint an evil man to oppose him; let an accuser stand at his right hand.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When he is tried, let him be found guilty, and may his prayers condemn him.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:8, Page:1, Kor:"", Chn:"", Eng:"May his days be few; may another take his place of leadership.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:9, Page:1, Kor:"", Chn:"", Eng:"May his children be fatherless and his wife a widow.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:10, Page:1, Kor:"", Chn:"", Eng:"May his children be wandering beggars; may they be driven from their ruined homes.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:11, Page:1, Kor:"", Chn:"", Eng:"May a creditor seize all he has; may strangers plunder the fruits of his labor.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:12, Page:1, Kor:"", Chn:"", Eng:"May no one extend kindness to him or take pity on his fatherless children.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:13, Page:1, Kor:"", Chn:"", Eng:"May his descendants be cut off, their names blotted out from the next generation.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:14, Page:1, Kor:"", Chn:"", Eng:"May the iniquity of his fathers be remembered before the LORD; may the sin of his mother never be blotted out.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:15, Page:1, Kor:"", Chn:"", Eng:"May their sins always remain before the LORD, that he may cut off the memory of them from the earth.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For he never thought of doing a kindness, but hounded to death the poor and the needy and the brokenhearted.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He loved to pronounce a curse--may it come on him; he found no pleasure in blessing--may it be far from him.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He wore cursing as his garment; it entered into his body like water, into his bones like oil.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:19, Page:1, Kor:"", Chn:"", Eng:"May it be like a cloak wrapped about him, like a belt tied forever around him.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:20, Page:1, Kor:"", Chn:"", Eng:"May this be the LORD'S payment to my accusers, to those who speak evil of me.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But you, O Sovereign LORD, deal well with me for your name's sake; out of the goodness of your love, deliver me.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For I am poor and needy, and my heart is wounded within me.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I fade away like an evening shadow; I am shaken off like a locust.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:24, Page:1, Kor:"", Chn:"", Eng:"My knees give way from fasting; my body is thin and gaunt.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I am an object of scorn to my accusers; when they see me, they shake their heads.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Help me, O LORD my God; save me in accordance with your love.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Let them know that it is your hand, that you, O LORD, have done it.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They may curse, but you will bless; when they attack they will be put to shame, but your servant will rejoice.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:29, Page:1, Kor:"", Chn:"", Eng:"My accusers will be clothed with disgrace and wrapped in shame as in a cloak.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:30, Page:1, Kor:"", Chn:"", Eng:"With my mouth I will greatly extol the LORD; in the great throng I will praise him.", Ind:""},
+  {Bible:"Psalms", Chapter:109, Verse:31, Page:1, Kor:"", Chn:"", Eng:"For he stands at the right hand of the needy one, to save his life from those who condemn him.", Ind:""},
 ]);

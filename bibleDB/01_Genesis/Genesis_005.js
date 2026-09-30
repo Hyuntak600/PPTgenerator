@@ -1,6 +1,37 @@
 // 창세기 5장 · Genesis 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",5,32);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the written account of Adam's line. When God created man, he made him in the likeness  of God.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He created them male and female and blessed them. And when they were created, he called them  "man."", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he  named him Seth.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"After Seth was born, Adam lived 800 years and had other sons and daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Altogether, Adam lived 930 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"When Seth had lived 105 years, he became the father of Enosh.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Enosh, Seth lived 807 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Altogether, Seth lived 912 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When Enosh had lived 90 years, he became the father of Kenan.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Kenan, Enosh lived 815 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Altogether, Enosh lived 905 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When Kenan had lived 70 years, he became the father of Mahalalel.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Mahalalel, Kenan lived 840 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Altogether, Kenan lived 910 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When Mahalalel had lived 65 years, he became the father of Jared.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Jared, Mahalalel lived 830 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Altogether, Mahalalel lived 895 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When Jared had lived 162 years, he became the father of Enoch.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Enoch, Jared lived 800 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Altogether, Jared lived 962 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When Enoch had lived 65 years, he became the father of Methuselah.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Methuselah, Enoch walked with God 300 years and had other  sons and daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Altogether, Enoch lived 365 years.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Enoch walked with God; then he was no more, because God took him away.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When Methuselah had lived 187 years, he became the father of Lamech.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"And after he became the father of Lamech, Methuselah lived 782 years and had other sons and  daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Altogether, Methuselah lived 969 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When Lamech had lived 182 years, he had a son.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He named him Noah and said, "He will comfort us in the labor and painful toil of our hands  caused by the ground the LORD has cursed."", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"After Noah was born, Lamech lived 595 years and had other sons and daughters.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Altogether, Lamech lived 777 years, and then he died.", Ind:""},
+  {Bible:"Genesis", Chapter:5, Verse:32, Page:1, Kor:"", Chn:"", Eng:"After Noah was 500 years old, he became the father of Shem, Ham and Japheth.", Ind:""},
 ]);

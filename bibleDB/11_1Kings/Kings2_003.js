@@ -1,0 +1,32 @@
+// 열왕기하 3장 · Kings2 3
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Kings2",3,27);
+BibleDB.add([
+  {Bible:"Kings2", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Joram son of Ahab became king of Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He did evil in the eyes of the LORD, but not as his father and mother had done. He got rid of the sacred stone of Baal that his father had made.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Nevertheless he clung to the sins of Jeroboam son of Nebat, which he had caused Israel to commit; he did not turn away from them.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Now Mesha king of Moab raised sheep, and he had to supply the king of Israel with a hundred thousand lambs and with the wool of a hundred thousand rams.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But after Ahab died, the king of Moab rebelled against the king of Israel.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So at that time King Joram set out from Samaria and mobilized all Israel.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He also sent this message to Jehoshaphat king of Judah: "The king of Moab has rebelled against me. Will you go with me to fight against Moab?" "I will go with you," he replied. "I am as you are, my people as your people, my horses as your horses."", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:""By what route shall we attack?" he asked. "Through the Desert of Edom," he answered.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So the king of Israel set out with the king of Judah and the king of Edom. After a roundabout march of seven days, the army had no more water for themselves or for the animals with them.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:""What!" exclaimed the king of Israel. "Has the LORD called us three kings together only to hand us over to Moab?"", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But Jehoshaphat asked, "Is there no prophet of the LORD here, that we may inquire of the LORD through him?" An officer of the king of Israel answered, "Elisha son of Shaphat is here. He used to pour water on the hands of Elijah."", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Jehoshaphat said, "The word of the LORD is with him." So the king of Israel and Jehoshaphat and the king of Edom went down to him.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Elisha said to the king of Israel, "What do we have to do with each other? Go to the prophets of your father and the prophets of your mother." "No," the king of Israel answered, "because it was the LORD who called us three kings together to hand us over to Moab."", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Elisha said, "As surely as the LORD Almighty lives, whom I serve, if I did not have respect for the presence of Jehoshaphat king of Judah, I would not look at you or even notice you.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But now bring me a harpist." While the harpist was playing, the hand of the LORD came upon Elisha", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"and he said, "This is what the LORD says: Make this valley full of ditches.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For this is what the LORD says: You will see neither wind nor rain, yet this valley will be filled with water, and you, your cattle and your other animals will drink.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This is an easy thing in the eyes of the LORD; he will also hand Moab over to you.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"You will overthrow every fortified city and every major town. You will cut down every good tree, stop up all the springs, and ruin every good field with stones."", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The next morning, about the time for offering the sacrifice, there it was--water flowing from the direction of Edom! And the land was filled with water.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Now all the Moabites had heard that the kings had come to fight against them; so every man, young and old, who could bear arms was called up and stationed on the border.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When they got up early in the morning, the sun was shining on the water. To the Moabites across the way, the water looked red--like blood.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:""That's blood!" they said. "Those kings must have fought and slaughtered each other. Now to the plunder, Moab!"", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But when the Moabites came to the camp of Israel, the Israelites rose up and fought them until they fled. And the Israelites invaded the land and slaughtered the Moabites.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They destroyed the towns, and each man threw a stone on every good field until it was covered. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"When the king of Moab saw that the battle had gone against him, he took with him seven hundred swordsmen to break through to the king of Edom, but they failed.", Ind:""},
+  {Bible:"Kings2", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then he took his firstborn son, who was to succeed him as king, and offered him as a sacrifice on the city wall. The fury against Israel was great; they withdrew and returned to their own land.", Ind:""},
+]);

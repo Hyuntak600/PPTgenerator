@@ -1,6 +1,30 @@
 // 요한복음 2장 · John 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("John",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("John",2,25);
 BibleDB.add([
+  {Bible:"John", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"On the third day a wedding took place at Cana in Galilee. Jesus' mother was there,", Ind:""},
+  {Bible:"John", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"and Jesus and his disciples had also been invited to the wedding.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When the wine was gone, Jesus' mother said to him, "They have no more wine."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Dear woman, why do you involve me?" Jesus replied, "My time has not yet come."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"His mother said to the servants, "Do whatever he tells you."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jesus said to the servants, "Fill the jars with water"; so they filled them to the brim.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then he told them, "Now draw some out and take it to the master of the banquet." They did so,", Ind:""},
+  {Bible:"John", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside", Ind:""},
+  {Bible:"John", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and said, "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"This, the first of his miraculous signs, Jesus performed at Cana in Galilee. He thus revealed his glory, and his disciples put their faith in him.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"After this he went down to Capernaum with his mother and brothers and his disciples. There they stayed for a few days.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When it was almost time for the Jewish Passover, Jesus went up to Jerusalem.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"In the temple courts he found men selling cattle, sheep and doves, and others sitting at tables exchanging money.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So he made a whip out of cords, and drove all from the temple area, both sheep and cattle; he scattered the coins of the money changers and overturned their tables.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"To those who sold doves he said, "Get these out of here! How dare you turn my Father's house into a market!"", Ind:""},
+  {Bible:"John", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"His disciples remembered that it is written: "Zeal for your house will consume me."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the Jews demanded of him, "What miraculous sign can you show us to prove your authority to do all this?"", Ind:""},
+  {Bible:"John", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Jesus answered them, "Destroy this temple, and I will raise it again in three days."", Ind:""},
+  {Bible:"John", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The Jews replied, "It has taken forty-six years to build this temple, and you are going to raise it in three days?"", Ind:""},
+  {Bible:"John", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But the temple he had spoken of was his body.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"After he was raised from the dead, his disciples recalled what he had said. Then they believed the Scripture and the words that Jesus had spoken.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Now while he was in Jerusalem at the Passover Feast, many people saw the miraculous signs he was doing and believed in his name.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But Jesus would not entrust himself to them, for he knew all men.", Ind:""},
+  {Bible:"John", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He did not need man's testimony about man, for he knew what was in a man.", Ind:""},
 ]);

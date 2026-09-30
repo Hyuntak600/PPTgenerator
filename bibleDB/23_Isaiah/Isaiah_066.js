@@ -1,6 +1,28 @@
 // 이사야 66장 · Isaiah 66
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",66,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",66,23);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:66, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "Heaven is my throne, and the earth is my footstool. Where is the house you will build for me? Where will my resting place be?", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Has not my hand made all these things, and so they came into being?" declares the LORD. "This is the one I esteem: he who is humble and contrite in spirit, and trembles at my word.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But whoever sacrifices a bull is like one who kills a man, and whoever offers a lamb, like one who breaks a dog's neck; whoever makes a grain offering is like one who presents pig's blood, and whoever burns memorial incense, like one who worships an idol. They have chosen their own ways, and their souls delight in their abominations;", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:4, Page:1, Kor:"", Chn:"", Eng:"so I also will choose harsh treatment for them and will bring upon them shat they dread. For when I called, no one answered, when I spoke, no one listened. They did evil in my sight and chose what displeases me."", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Hear the word of the LORD, you who tremble at his word: "Your brothers who hate you, and exclude you because of my name, have said, 'Let the LORD be glorified, that we may see your joy!' Yet they will be put to shame.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Hear that uproar from the city, hear that noise from the temple! It is the sound of the LORD repaying his enemies all they deserve.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Before she goes into labor, she gives birth; before the pains come upon her, she delivers a son.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Who has ever heard of such a thing? Who has ever seen such things? Can a country be born in a day or a nation be brought forth in a moment? Yet no sooner is Zion in labor than she gives birth to her children.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do I bring to the moment of birth and not give delivery?" says the LORD. "Do I close up the womb when I bring to delivery?" says your God.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Rejoice with Jerusalem and be glad for her, all you who love her; rejoice greatly with her, all you who mourn over her.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For you will nurse and be satisfied at her comforting breasts; you will drink deeply and delight in her overflowing abundance."", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For this is what the LORD says: "I will extend peace to her like a river, and the wealth of nations like a flooding stream; you will nurse and be carried on her arm and dandled on her knees.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:13, Page:1, Kor:"", Chn:"", Eng:"As a mother comforts her child, so will I comfort you; and you will be comforted over Jerusalem."", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When you see this, your heart will rejoice and you will flourish like grass; the hand of the LORD will be made known to his servants, but his fury will be shown to his foes.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:15, Page:1, Kor:"", Chn:"", Eng:"See, the LORD is coming with fire, and his chariots are like a whirlwind; he will bring down his anger with fury, and his rebuke with flames of fire.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For with fire and with his sword the LORD will execute judgment upon all men, and many will be those slain by the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Those who consecrate and purify themselves to go into the gardens, following the one in the midst of those who eat the flesh of pigs and rats and other abominable things--they will meet their end together," declares the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:18, Page:1, Kor:"", Chn:"", Eng:""And I, because of their actions and their imaginations, am about to come and gather all nations and tongues, and they will come and see my glory.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:19, Page:1, Kor:"", Chn:"", Eng:""I will set a sign among them, and I will send some of those who survive to the nations--to Tarshish, to the Libyans and Lydians (famous as archers), to Tubal and Greece, and to the distant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And they will bring all your brothers, from all the nations, to my holy mountain in Jerusalem as an offering to the LORD--on horses, in chariots and wagons, and on mules and camels," says the LORD. "They will bring them, as the Israelites bring their grain offerings, to the temple of the LORD in ceremonially clean vessels.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:21, Page:1, Kor:"", Chn:"", Eng:"And I will select some of them also to be priests and Levites," says the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:22, Page:1, Kor:"", Chn:"", Eng:""As the new heavens and the new earth that I make will endure before me," declares the LORD, "so will your name and descendants endure.", Ind:""},
+  {Bible:"Isaiah", Chapter:66, Verse:23, Page:1, Kor:"", Chn:"", Eng:"From one New Moon to another and from one Sabbath to another, all mankind will come and bow down before me," says the LORD.", Ind:""},
 ]);

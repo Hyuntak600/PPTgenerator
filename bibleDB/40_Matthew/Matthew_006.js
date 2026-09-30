@@ -1,6 +1,39 @@
 // 마태복음 6장 · Matthew 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",6,34);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Be careful not to do your 'acts of righteousness' before men, to be seen by them. If you do, you will have no reward from your Father in heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:""So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by men. I tell you the truth, they have received their reward in full.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But when you give to the needy, do not let your left hand know what your right hand is doing,", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:""And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by men. I tell you the truth, they have received their reward in full.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Do not be like them, for your Father knows what you need before you ask him.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:""This, then, is how you should pray: "'Our Father in heaven, hallowed be your name,", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"your kingdom come, your will be done on earth as it is in heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Give us today our daily bread.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Forgive us our debts, as we also have forgiven our debtors.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And lead us not into temptation, but deliver us from the evil one.'", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"For if you forgive men when they sin against you, your heavenly Father will also forgive you.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But if you do not forgive men their sins, your Father will not forgive your sins.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:""When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show men they are fasting. I tell you the truth, they have received their reward in full.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But when you fast, put oil on your head and wash your face,", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"so that it will not be obvious to men that you are fasting, but only to your Father, who is unseen; and your Father, who sees what is done in secret, will reward you.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For where your treasure is, there your heart will be also.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:""The eye is the lamp of the body. If your eyes are good, your whole body will be full of light.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:""No one can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more important than food, and the body more important than clothes?", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Who of you by worrying can add a single hour to his life?", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:""And why do you worry about clothes? See how the lilies of the field grow. They do not labor or spin.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Yet I tell you that not even Solomon in all his splendor was dressed like one of these.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you, O you of little faith?", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:31, Page:1, Kor:"", Chn:"", Eng:"So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?'", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For the pagans run after all these things, and your heavenly Father knows that you need them.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But seek first his kingdom and his righteousness, and all these things will be given to you as well.", Ind:""},
+  {Bible:"Matthew", Chapter:6, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.", Ind:""},
 ]);

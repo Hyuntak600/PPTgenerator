@@ -1,6 +1,27 @@
 // 예레미야 27장 · Jeremiah 27
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",27,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",27,22);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:27, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Early in the reign of Zedekiah son of Josiah king of Judah, this word came to Jeremiah from the LORD:", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD said to me: "Make a yoke out of straps and crossbars and put it on your neck.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then send word to the kings of Edom, Moab, Ammon, Tyre and Sidon through the envoys who have come to Jerusalem to Zedekiah king of Judah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Give them a message for their masters and say, 'This is what the LORD Almighty, the God of Israel, says: "Tell this to your masters:", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"With my great power and outstretched arm I made the earth and its people and the animals that are on it, and I give it to anyone I please.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Now I will hand all your countries over to my servant Nebuchadnezzar king of Babylon; I will make even the wild animals subject to him.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All nations will serve him and his son and his grandson until the time for his land comes; then many nations and great kings will subjugate him.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'"If, however, any nation or kingdom will not serve Nebuchadnezzar king of Babylon or bow its neck under his yoke, I will punish that nation with the sword, famine and plague, declares the LORD, until I destroy it by his hand.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So do not listen to your prophets, your diviners, your interpreters of dreams, your mediums or your sorcerers who tell you, 'You will not serve the king of Babylon.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They prophesy lies to you that will only serve to remove you far from your lands; I will banish you and you will perish.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But if any nation will bow its neck under the yoke of the king of Babylon and serve him, I will let that nation remain in its own land to till it and to live there, declares the LORD."'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I gave the same message to Zedekiah king of Judah. I said, "Bow your neck under the yoke of the king of Babylon; serve him and his people, and you will live.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Why will you and your people die by the sword, famine and plague with which the LORD has threatened any nation that will not serve the king of Babylon?", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Do not listen to the words of the prophets who say to you, 'You will not serve the king of Babylon,' for they are prophesying lies to you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:15, Page:1, Kor:"", Chn:"", Eng:"'I have not sent them,' declares the LORD. 'They are prophesying lies in my name. Therefore, I will banish you and you will perish, both you and the prophets who prophesy to you.'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then I said to the priests and all these people, "This is what the LORD says: Do not listen to the prophets who say, 'Very soon now the articles from the LORD'S house will be brought back from Babylon.' They are prophesying lies to you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do not listen to them. Serve the king of Babylon, and you will live. Why should this city become a ruin?", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:18, Page:1, Kor:"", Chn:"", Eng:"If they are prophets and have the word of the LORD, let them plead with the LORD Almighty that the furnishings remaining in the house of the LORD and in the palace of the king of Judah and in Jerusalem not be taken to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For this is what the LORD Almighty says about the pillars, the Sea, the movable stands and the other furnishings that are left in this city,", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:20, Page:1, Kor:"", Chn:"", Eng:"which Nebuchadnezzar king of Babylon did not take away when he carried Jehoiachin son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem--", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:21, Page:1, Kor:"", Chn:"", Eng:"yes, this is what the LORD Almighty, the God of Israel, says about the things that are left in the house of the LORD and in the palace of the king of Judah and in Jerusalem:", Ind:""},
+  {Bible:"Jeremiah", Chapter:27, Verse:22, Page:1, Kor:"", Chn:"", Eng:"'They will be taken to Babylon and there they will remain until the day I come for them,' declares the LORD. 'Then I will bring them back and restore them to this place.'"", Ind:""},
 ]);

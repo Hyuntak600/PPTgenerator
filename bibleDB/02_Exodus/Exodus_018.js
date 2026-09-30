@@ -1,6 +1,32 @@
 // 출애굽기 18장 · Exodus 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",18,27);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the LORD had brought Israel out of Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"After Moses had sent away his wife Zipporah, his father-in-law Jethro received her", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and her two sons. One son was named Gershom, for Moses said, "I have become an alien in a foreign land";", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"and the other was named Eliezer, for he said, "My father's God was my helper; he saved me from the sword of Pharaoh."", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Jethro, Moses' father-in-law, together with Moses' sons and wife, came to him in the desert, where he was camped near the mountain of God.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Jethro had sent word to him, "I, your father-in-law Jethro, am coming to you with your wife and her two sons."", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So Moses went out to meet his father-in-law and bowed down and kissed him. They greeted each other and then went into the tent.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Moses told his father-in-law about everything the LORD had done to Pharaoh and the Egyptians for Israel's sake and about all the hardships they had met along the way and how the LORD had saved them.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Jethro was delighted to hear about all the good things the LORD had done for Israel in rescuing them from the hand of the Egyptians.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He said, "Praise be to the LORD, who rescued you from the hand of the Egyptians and of Pharaoh, and who rescued the people from the hand of the Egyptians.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Now I know that the LORD is greater than all other gods, for he did this to those who had treated Israel arrogantly."", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then Jethro, Moses' father-in-law, brought a burnt offering and other sacrifices to God, and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law in the presence of God.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The next day Moses took his seat to serve as judge for the people, and they stood around him from morning till evening.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When his father-in-law saw all that Moses was doing for the people, he said, "What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?"", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Moses answered him, "Because the people come to me to seek God's will.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Whenever they have a dispute, it is brought to me, and I decide between the parties and inform them of God's decrees and laws."", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Moses' father-in-law replied, "What you are doing is not good.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Listen now to me and I will give you some advice, and may God be with you. You must be the people's representative before God and bring their disputes to him.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Teach them the decrees and laws, and show them the way to live and the duties they are to perform.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But select capable men from all the people--men who fear God, trustworthy men who hate dishonest gain--and appoint them as officials over thousands, hundreds, fifties and tens.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Have them serve as judges for the people at all times, but have them bring every difficult case to you; the simple cases they can decide themselves. That will make your load lighter, because they will share it with you.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If you do this and God so commands, you will be able to stand the strain, and all these people will go home satisfied."", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Moses listened to his father-in-law and did everything he said.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He chose capable men from all Israel and made them leaders of the people, officials over thousands, hundreds, fifties and tens.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They served as judges for the people at all times. The difficult cases they brought to Moses, but the simple ones they decided themselves.", Ind:""},
+  {Bible:"Exodus", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then Moses sent his father-in-law on his way, and Jethro returned to his own country.", Ind:""},
 ]);

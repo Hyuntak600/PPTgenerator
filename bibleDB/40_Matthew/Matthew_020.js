@@ -1,6 +1,39 @@
 // 마태복음 20장 · Matthew 20
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",20,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",20,34);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:20, Verse:1, Page:1, Kor:"", Chn:"", Eng:""For the kingdom of heaven is like a landowner who went out early in the morning to hire men to work in his vineyard.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He agreed to pay them a denarius for the day and sent them into his vineyard.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:3, Page:1, Kor:"", Chn:"", Eng:""About the third hour he went out and saw others standing in the marketplace doing nothing.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He told them, 'You also go and work in my vineyard, and I will pay you whatever is right.'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So they went. "He went out again about the sixth hour and the ninth hour and did the same thing.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:6, Page:1, Kor:"", Chn:"", Eng:"About the eleventh hour he went out and found still others standing around. He asked them, 'Why have you been standing here all day long doing nothing?'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'Because no one has hired us,' they answered. "He said to them, 'You also go and work in my vineyard.'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:8, Page:1, Kor:"", Chn:"", Eng:""When evening came, the owner of the vineyard said to his foreman, 'Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:9, Page:1, Kor:"", Chn:"", Eng:""The workers who were hired about the eleventh hour came and each received a denarius.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So when those came who were hired first, they expected to receive more. But each one of them also received a denarius.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:11, Page:1, Kor:"", Chn:"", Eng:"When they received it, they began to grumble against the landowner.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:12, Page:1, Kor:"", Chn:"", Eng:"'These men who were hired last worked only one hour,' they said, 'and you have made them equal to us who have borne the burden of the work and the heat of the day.'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:13, Page:1, Kor:"", Chn:"", Eng:""But he answered one of them, 'Friend, I am not being unfair to you. Didn't you agree to work for a denarius?", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Take your pay and go. I want to give the man who was hired last the same as I gave you.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Don't I have the right to do what I want with my own money? Or are you envious because I am generous?'", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:16, Page:1, Kor:"", Chn:"", Eng:""So the last will be first, and the first will be last."", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now as Jesus was going up to Jerusalem, he took the twelve disciples aside and said to them,", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:18, Page:1, Kor:"", Chn:"", Eng:""We are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and the teachers of the law. They will condemn him to death", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:19, Page:1, Kor:"", Chn:"", Eng:"and will turn him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!"", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then the mother of Zebedee's sons came to Jesus with her sons and, kneeling down, asked a favor of him.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:21, Page:1, Kor:"", Chn:"", Eng:""What is it you want?" he asked. She said, "Grant that one of these two sons of mine may sit at your right and the other at your left in your kingdom."", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:22, Page:1, Kor:"", Chn:"", Eng:""You don't know what you are asking," Jesus said to them. "Can you drink the cup I am going to drink?" "We can," they answered.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Jesus said to them, "You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father."", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When the ten heard about this, they were indignant with the two brothers.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Jesus called them together and said, "You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Not so with you. Instead, whoever wants to become great among you must be your servant,", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:27, Page:1, Kor:"", Chn:"", Eng:"and whoever wants to be first must be your slave--", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:28, Page:1, Kor:"", Chn:"", Eng:"just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:29, Page:1, Kor:"", Chn:"", Eng:"As Jesus and his disciples were leaving Jericho, a large crowd followed him.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, "Lord, Son of David, have mercy on us!"", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The crowd rebuked them and told them to be quiet, but they shouted all the louder, "Lord, Son of David, have mercy on us!"", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Jesus stopped and called them. "What do you want me to do for you?" he asked.", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:33, Page:1, Kor:"", Chn:"", Eng:""Lord," they answered, "we want our sight."", Ind:""},
+  {Bible:"Matthew", Chapter:20, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him. MAT", Ind:""},
 ]);

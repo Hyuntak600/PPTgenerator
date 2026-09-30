@@ -1,6 +1,31 @@
 // 로마서 16장 · Romans 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Romans",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Romans",16,26);
 BibleDB.add([
+  {Bible:"Romans", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I commend to you our sister Phoebe, a servant of the church in Cenchrea.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I ask you to receive her in the Lord in a way worthy of the saints and to give her any help she may need from you, for she has been a great help to many people, including me.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Greet Priscilla and Aquila, my fellow workers in Christ Jesus.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Greet also the church that meets at their house. Greet my dear friend Epenetus, who was the first convert to Christ in the province of Asia.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Greet Mary, who worked very hard for you.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Greet Andronicus and Junias, my relatives who have been in prison with me. They are outstanding among the apostles, and they were in Christ before I was.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Greet Ampliatus, whom I love in the Lord.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Greet Apelles, tested and approved in Christ. Greet those who belong to the household of Aristobulus.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Greet Herodion, my relative. Greet those in the household of Narcissus who are in the Lord.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Greet Tryphena and Tryphosa, those women who work hard in the Lord. Greet my dear friend Persis, another woman who has worked very hard in the Lord.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me, too.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brothers with them.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Greet Philologus, Julia, Nereus and his sister, and Olympas and all the saints with them.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Greet one another with a holy kiss. All the churches of Christ send greetings.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I urge you, brothers, to watch out for those who cause divisions and put obstacles in your way that are contrary to the teaching you have learned. Keep away from them.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the minds of naive people.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Everyone has heard about your obedience, so I am full of joy over you; but I want you to be wise about what is good, and innocent about what is evil.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Timothy, my fellow worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my relatives.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I, Tertius, who wrote down this letter, greet you in the Lord.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city's director of public works, and our brother Quartus send you their greetings.", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Now to him who is able to establish you by my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,", Ind:""},
+  {Bible:"Romans", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"but now revealed and made known through the prophetic writings by the command of the eternal God, so that all nations might believe and obey him--", Ind:""},
 ]);

@@ -1,6 +1,31 @@
 // 갈라디아서 5장 · Galatians 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Galatians",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Galatians",5,26);
 BibleDB.add([
+  {Bible:"Galatians", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Mark my words! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You who are trying to be justified by law have been alienated from Christ; you have fallen away from grace.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But by faith we eagerly await through the Spirit the righteousness for which we hope.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You were running a good race. Who cut in on you and kept you from obeying the truth?", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"That kind of persuasion does not come from the one who calls you.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:""A little yeast works through the whole batch of dough."", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"I am confident in the Lord that you will take no other view. The one who is throwing you into confusion will pay the penalty, whoever he may be.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"As for those agitators, I wish they would go the whole way and emasculate themselves!", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You, my brothers, were called to be free. But do not use your freedom to indulge the sinful nature; rather, serve one another in love.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The entire law is summed up in a single command: "Love your neighbor as yourself."", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If you keep on biting and devouring each other, watch out or you will be destroyed by each other.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So I say, live by the Spirit, and you will not gratify the desires of the sinful nature.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For the sinful nature desires what is contrary to the Spirit, and the Spirit what is contrary to the sinful nature. They are in conflict with each other, so that you do not do what you want.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But if you are led by the Spirit, you are not under law.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The acts of the sinful nature are obvious: sexual immorality, impurity and debauchery;", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"gentleness and self-control. Against such things there is no law.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Since we live by the Spirit, let us keep in step with the Spirit.", Ind:""},
+  {Bible:"Galatians", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Let us not become conceited, provoking and envying each other.", Ind:""},
 ]);

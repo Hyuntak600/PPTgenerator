@@ -1,6 +1,39 @@
 // 레위기 16장 · Leviticus 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",16,34);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD spoke to Moses after the death of the two sons of Aaron who died when they approached the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses: "Tell your brother Aaron not to come whenever he chooses into the Most Holy Place behind the curtain in front of the atonement cover on the ark, or else he will die, because I appear in the cloud over the atonement cover.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:""This is how Aaron is to enter the sanctuary area: with a young bull for a sin offering and a ram for a burnt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He is to put on the sacred linen tunic, with linen undergarments next to his body; he is to tie the linen sash around him and put on the linen turban. These are sacred garments; so he must bathe himself with water before he puts them on.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"From the Israelite community he is to take two male goats for a sin offering and a ram for a burnt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Aaron is to offer the bull for his own sin offering to make atonement for himself and his household.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then he is to take the two goats and present them before the LORD at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He is to cast lots for the two goats--one lot for the LORD and the other for the scapegoat.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Aaron shall bring the goat whose lot falls to the LORD and sacrifice it for a sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to be used for making atonement by sending it into the desert as a scapegoat.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He is to take a censer full of burning coals from the altar before the LORD and two handfuls of finely ground fragrant incense and take them behind the curtain.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He is to put the incense on the fire before the LORD, and the smoke of the incense will conceal the atonement cover above the Testimony, so that he will not die.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He is to take some of the bull's blood and with his finger sprinkle it on the front of the atonement cover; then he shall sprinkle some of it with his finger seven times before the atonement cover.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:""He shall then slaughter the goat for the sin offering for the people and take its blood behind the curtain and do with it as he did with the bull's blood: He shall sprinkle it on the atonement cover and in front of it.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"In this way he will make atonement for the Most Holy Place because of the uncleanness and rebellion of the Israelites, whatever their sins have been. He is to do the same for the Tent of Meeting, which is among them in the midst of their uncleanness.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"No one is to be in the Tent of Meeting from the time Aaron goes in to make atonement in the Most Holy Place until he comes out, having made atonement for himself, his household and the whole community of Israel.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Then he shall come out to the altar that is before the LORD and make atonement for it. He shall take some of the bull's blood and some of the goat's blood and put it on all the horns of the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He shall sprinkle some of the blood on it with his finger seven times to cleanse it and to consecrate it from the uncleanness of the Israelites.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:""When Aaron has finished making atonement for the Most Holy Place, the Tent of Meeting and the altar, he shall bring forward the live goat.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He is to lay both hands on the head of the live goat and confess over it all the wickedness and rebellion of the Israelites--all their sins--and put them on the goat's head. He shall send the goat away into the desert in the care of a man appointed for the task.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The goat will carry on itself all their sins to a solitary place; and the man shall release it in the desert.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Then Aaron is to go into the Tent of Meeting and take off the linen garments he put on before he entered the Most Holy Place, and he is to leave them there.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He shall bathe himself with water in a holy place and put on his regular garments. Then he shall come out and sacrifice the burnt offering for himself and the burnt offering for the people, to make atonement for himself and for the people.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He shall also burn the fat of the sin offering on the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:""The man who releases the goat as a scapegoat must wash his clothes and bathe himself with water; afterward he may come into the camp.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The bull and the goat for the sin offerings, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; their hides, flesh and offal are to be burned up.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The man who burns them must wash his clothes and bathe himself with water; afterward he may come into the camp.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:""This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves and not do any work--whether native-born or an alien living among you--", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"because on this day atonement will be made for you, to cleanse you. Then, before the LORD, you will be clean from all your sins.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:"It is a sabbath of rest, and you must deny yourselves; it is a lasting ordinance.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The priest who is anointed and ordained to succeed his father as high priest is to make atonement. He is to put on the sacred linen garments", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:"and make atonement for the Most Holy Place, for the Tent of Meeting and the altar, and for the priests and all the people of the community.", Ind:""},
+  {Bible:"Leviticus", Chapter:16, Verse:34, Page:1, Kor:"", Chn:"", Eng:""This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites." And it was done, as the LORD commanded Moses.", Ind:""},
 ]);

@@ -1,6 +1,20 @@
 // 에스더 3장 · Esther 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Esther",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Esther",3,15);
 BibleDB.add([
+  {Bible:"Esther", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"All the royal officials at the king's gate knelt down and paid honor to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honor.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then the royal officials at the king's gate asked Mordecai, "Why do you disobey the king's command?"", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Day after day they spoke to him but he refused to comply. Therefore they told Haman about it to see whether Mordecai's behavior would be tolerated, for he had told them he was a Jew.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When Haman saw that Mordecai would not kneel down or pay him honor, he was enraged.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Yet having learned who Mordecai's people were, he scorned the idea of killing only Mordecai. Instead Haman looked for a way to destroy all Mordecai's people, the Jews, throughout the whole kingdom of Xerxes.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In the twelfth year of King Xerxes, in the first month, the month of Nisan, they cast the pur (that is, the lot) in the presence of Haman to select a day and month. And the lot fell on the twelfth month, the month of Adar.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then Haman said to King Xerxes, "There is a certain people dispersed and scattered among the peoples in all the provinces of your kingdom whose customs are different from those of all other people and who do not obey the king's laws; it is not in the king's best interest to tolerate them.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"If it pleases the king, let a decree be issued to destroy them, and I will put ten thousand talents of silver into the royal treasury for the men who carry out this business."", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So the king took his signet ring from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Keep the money," the king said to Haman, "and do with the people as you please."", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then on the thirteenth day of the first month the royal secretaries were summoned. They wrote out in the script of each province and in the language of each people all Haman's orders to the king's satraps, the governors of the various provinces and the nobles of the various peoples. These were written in the name of King Xerxes himself and sealed with his own ring.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Dispatches were sent by couriers to all the king's provinces with the order to destroy, kill and annihilate all the Jews--young and old, women and little children--on a single day, the thirteenth day of the twelfth month, the month of Adar, and to plunder their goods.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"A copy of the text of the edict was to be issued as law in every province and made known to the people of every nationality so they would be ready for that day.", Ind:""},
+  {Bible:"Esther", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Spurred on by the king's command, the couriers went out, and the edict was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered.", Ind:""},
 ]);

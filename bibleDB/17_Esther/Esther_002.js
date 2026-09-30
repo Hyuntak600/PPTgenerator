@@ -1,6 +1,28 @@
 // 에스더 2장 · Esther 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Esther",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Esther",2,23);
 BibleDB.add([
+  {Bible:"Esther", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Later when the anger of King Xerxes had subsided, he remembered Vashti and what she had done and what he had decreed about her.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then the king's personal attendants proposed, "Let a search be made for beautiful young virgins for the king.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Let the king appoint commissioners in every province of his realm to bring all these beautiful girls into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king's eunuch, who is in charge of the women; and let beauty treatments be given to them.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then let the girl who pleases the king be queen instead of Vashti." This advice appealed to the king, and he followed it.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Now there was in the citadel of Susa a Jew of the tribe of Benjamin, named Mordecai son of Jair, the son of Shimei, the son of Kish,", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"who had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon, among those taken captive with Jehoiachin king of Judah.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Mordecai had a cousin named Hadassah, whom he had brought up because she had neither father nor mother. This girl, who was also known as Esther, was lovely in form and features, and Mordecai had taken her as his own daughter when her father and mother died.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When the king's order and edict had been proclaimed, many girls were brought to the citadel of Susa and put under the care of Hegai. Esther also was taken to the king's palace and entrusted to Hegai, who had charge of the harem.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The girl pleased him and won his favor. Immediately he provided her with her beauty treatments and special food. He assigned to her seven maids selected from the king's palace and moved her and her maids into the best place in the harem.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Esther had not revealed her nationality and family background, because Mordecai had forbidden her to do so.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Every day he walked back and forth near the courtyard of the harem to find out how Esther was and what was happening to her.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Before a girl's turn came to go in to King Xerxes, she had to complete twelve months of beauty treatments prescribed for the women, six months with oil of myrrh and six with perfumes and cosmetics.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"And this is how she would go to the king: Anything she wanted was given her to take with her from the harem to the king's palace.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"In the evening she would go there and in the morning return to another part of the harem to the care of Shaashgaz, the king's eunuch who was in charge of the concubines. She would not return to the king unless he was pleased with her and summoned her by name.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When the turn came for Esther (the girl Mordecai had adopted, the daughter of his uncle Abihail) to go to the king, she asked for nothing other than what Hegai, the king's eunuch who was in charge of the harem, suggested. And Esther won the favor of everyone who saw her.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"She was taken to King Xerxes in the royal residence in the tenth month, the month of Tebeth, in the seventh year of his reign.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now the king was attracted to Esther more than to any of the other women, and she won his favor and approval more than any of the other virgins. So he set a royal crown on her head and made her queen instead of Vashti.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And the king gave a great banquet, Esther's banquet, for all his nobles and officials. He proclaimed a holiday throughout the provinces and distributed gifts with royal liberality.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When the virgins were assembled a second time, Mordecai was sitting at the king's gate.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But Esther had kept secret her family background and nationality just as Mordecai had told her to do, for she continued to follow Mordecai's instructions as she had done when he was bringing her up.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"During the time Mordecai was sitting at the king's gate, Bigthana and Teresh, two of the king's officers who guarded the doorway, became angry and conspired to assassinate King Xerxes.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But Mordecai found out about the plot and told Queen Esther, who in turn reported it to the king, giving credit to Mordecai.", Ind:""},
+  {Bible:"Esther", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"And when the report was investigated and found to be true, the two officials were hanged on a gallows. All this was recorded in the book of the annals in the presence of the king.", Ind:""},
 ]);

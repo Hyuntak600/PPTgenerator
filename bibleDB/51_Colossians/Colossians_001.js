@@ -1,6 +1,34 @@
 // 골로새서 1장 · Colossians 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Colossians",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Colossians",1,29);
 BibleDB.add([
+  {Bible:"Colossians", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"To the holy and faithful brothers in Christ at Colosse: Grace and peace to you from God our Father.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"We always thank God, the Father of our Lord Jesus Christ, when we pray for you,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"because we have heard of your faith in Christ Jesus and of the love you have for all the saints--", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"the faith and love that spring from the hope that is stored up for you in heaven and that you have already heard about in the word of truth, the gospel", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and understood God's grace in all its truth.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"and who also told us of your love in the Spirit.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of his will through all spiritual wisdom and understanding.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And we pray this in order that you may live a life worthy of the Lord and may please him in every way: bearing fruit in every good work, growing in the knowledge of God,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"being strengthened with all power according to his glorious might so that you may have great endurance and patience, and joyfully", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the kingdom of light.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"in whom we have redemption, the forgiveness of sins.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He is the image of the invisible God, the firstborn over all creation.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For by him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things were created by him and for him.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He is before all things, and in him all things hold together.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For God was pleased to have all his fullness dwell in him,", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Once you were alienated from God and were enemies in your minds because of your evil behavior.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But now he has reconciled you by Christ's physical body through death to present you holy in his sight, without blemish and free from accusation--", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"if you continue in your faith, established and firm, not moved from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Now I rejoice in what was suffered for you, and I fill up in my flesh what is still lacking in regard to Christ's afflictions, for the sake of his body, which is the church.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I have become its servant by the commission God gave me to present to you the word of God in its fullness--", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"the mystery that has been kept hidden for ages and generations, but is now disclosed to the saints.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:28, Page:1, Kor:"", Chn:"", Eng:"We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ.", Ind:""},
+  {Bible:"Colossians", Chapter:1, Verse:29, Page:1, Kor:"", Chn:"", Eng:"To this end I labor, struggling with all his energy, which so powerfully works in me.", Ind:""},
 ]);

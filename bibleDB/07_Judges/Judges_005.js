@@ -1,6 +1,36 @@
 // 사사기 5장 · Judges 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",5,31);
 BibleDB.add([
+  {Bible:"Judges", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"On that day Deborah and Barak son of Abinoam sang this song:", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:""When the princes in Israel take the lead, when the people willingly offer themselves--praise the LORD!", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Hear this, you kings! Listen, you rulers! I will sing to the LORD, I will sing; I will make music to the LORD, the God of Israel.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:""O LORD, when you went out from Seir, when you marched from the land of Edom, the earth shook, the heavens poured, the clouds poured down water.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The mountains quaked before the LORD, the One of Sinai, before the LORD, the God of Israel.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:""In the days of Shamgar son of Anath, in the days of Jael, the roads were abandoned; travelers took to winding paths.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Village life in Israel ceased, ceased until I, Deborah, arose, arose a mother in Israel.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When they chose new gods, war came to the city gates, and not a shield or spear was seen among forty thousand in Israel.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"My heart is with Israel's princes, with the willing volunteers among the people. Praise the LORD!", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:""You who ride on white donkeys, sitting on your saddle blankets, and you who walk along the road, consider", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"the voice of the singers at the watering places. They recite the righteous acts of the LORD, the righteous acts of his warriors in Israel. "Then the people of the LORD went down to the city gates.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"'Wake up, wake up, Deborah! Wake up, wake up, break out in song! Arise, O Barak! Take captive your captives, O son of Abinoam.'", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Then the men who were left came down to the nobles; the people of the LORD came to me with the mighty.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Some came from Ephraim, whose roots were in Amalek; Benjamin was with the people who followed you. From Makir captains came down, from Zebulun those who bear a commander's staff.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The princes of Issachar were with Deborah; yes, Issachar was with Barak, rushing after him into the valley. In the districts of Reuben there was much searching of heart.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Why did you stay among the campfires to hear the whistling for the flocks? In the districts of Reuben there was much searching of heart.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Gilead stayed beyond the Jordan. And Dan, why did he linger by the ships? Asher remained on the coast and stayed in his coves.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The people of Zebulun risked their very lives; so did Naphtali on the heights of the field.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Kings came, they fought; the kings of Canaan fought at Taanach by the waters of Megiddo, but they carried off no silver, no plunder.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"From the heavens the stars fought, from their courses they fought against Sisera.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The river Kishon swept them away, the age-old river, the river Kishon. March on, my soul; be strong!", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then thundered the horses' hoofs--galloping, galloping go his mighty steeds.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"'Curse Meroz,' said the angel of the LORD. 'Curse its people bitterly, because they did not come to help the LORD, to help the LORD against the mighty.'", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Most blessed of women be Jael, the wife of Heber the Kenite, most blessed of tent-dwelling women.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He asked for water, and she gave him milk; in a bowl fit for nobles she brought him curdled milk.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Her hand reached for the tent peg, her right hand for the workman's hammer. She struck Sisera, she crushed his head, she shattered and pierced his temple.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"At her feet he sank, he fell; there he lay. At her feet he sank, he fell; where he sank, there he fell--dead.", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:""Through the window peered Sisera's mother; behind the lattice she cried out, 'Why is his chariot so long in coming? Why is the clatter of his chariots delayed?'", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The wisest of her ladies answer her; indeed, she keeps saying to herself,", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"'Are they not finding and dividing the spoils: a girl or two for each man, colorful garments as plunder for Sisera, colorful garments embroidered, highly embroidered garments for my neck--all this as plunder?'", Ind:""},
+  {Bible:"Judges", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:""So may all your enemies perish, O LORD! But may they who love you be like the sun when it rises in its strength." Then the land had peace forty years.", Ind:""},
 ]);

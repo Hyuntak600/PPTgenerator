@@ -1,6 +1,30 @@
 // 이사야 65장 · Isaiah 65
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",65,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",65,25);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:65, Verse:1, Page:1, Kor:"", Chn:"", Eng:""I revealed myself to those who did not ask for me; I was found by those who did not seek me. To a nation that did not call on my name, I said, 'Here am I, here am I.'", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:2, Page:1, Kor:"", Chn:"", Eng:"All day long I have held out my hands to an obstinate people, who walk in ways not good, pursuing their own imaginations--", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:3, Page:1, Kor:"", Chn:"", Eng:"a people who continually provoke me to my very face, offering sacrifices in gardens and burning incense on altars of brick;", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:4, Page:1, Kor:"", Chn:"", Eng:"who sit among the graves and spend their nights keeping secret vigil; who eat the flesh of pigs, and whose pots hold broth of unclean meat;", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:5, Page:1, Kor:"", Chn:"", Eng:"who say, 'Keep away; don't come near me, for I am too sacred for you!' Such people are smoke in my nostrils, a fire that keeps burning all day.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:6, Page:1, Kor:"", Chn:"", Eng:""See, it stands written before me: I will not keep silent but will pay back in full; I will pay it back into their laps--", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:7, Page:1, Kor:"", Chn:"", Eng:"both your sins and the sins of your fathers," says the LORD. "Because they burned sacrifices on the mountains and defied me on the hills, I will measure into their laps the full payment for their former deeds."", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:8, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "As when juice is still found in a cluster of grapes and men say, 'Don't destroy it, there is yet some good in it,' so will I do in behalf of my servants; I will not destroy them all.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I will bring forth descendants from Jacob, and from Judah those who will possess my mountains; my chosen people will inherit them, and there will my servants live.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for my people who seek me.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:11, Page:1, Kor:"", Chn:"", Eng:""But as for you who forsake the LORD and forget my holy mountain, who spread a table for Fortune and fill bowls of mixed wine for Destiny,", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I will destine you for the sword, and you will all bend down for the slaughter; for I called but you did not answer, I spoke but you did not listen. You did evil in my sight and chose what displeases me."", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Sovereign LORD says: "My servants will eat, but you will go hungry; my servants will drink, but you will go thirsty; my servants will rejoice, but you will be put to shame.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:14, Page:1, Kor:"", Chn:"", Eng:"My servants will sing out of the joy of their hearts, but you will cry out from anguish of heart and wail in brokenness of spirit.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You will leave your name to my chosen ones as a curse; the Sovereign LORD will put you to death, but to his servants he will give another name.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But be glad and rejoice forever in what I will create, for I will create Jerusalem to be a delight and its people a joy.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I will rejoice over Jerusalem and take delight in my people; the sound of weeping and of crying will be heard in it no more.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Never again will there be in it an infant who lives but a few days, or an old man who does not live out his years; he who dies at a hundred will be thought a mere youth; he who fails to reach a hundred will be considered accursed.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They will build houses and dwell in them; they will plant vineyards and eat their fruit.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:22, Page:1, Kor:"", Chn:"", Eng:"No longer will they build houses and others live in them, or plant and others eat. For as the days of a tree, so will be the days of my people; my chosen ones will long enjoy the works of their hands.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They will not toil in vain or bear children doomed to misfortune; for they will be a people blessed by the LORD, they and their descendants with them.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Before they call I will answer; while they are still speaking I will hear.", Ind:""},
+  {Bible:"Isaiah", Chapter:65, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The wolf and the lamb will feed together, and the lion will eat straw like the ox, but dust will be the serpent's food. They will neither harm nor destroy on all my holy mountain," says the LORD.", Ind:""},
 ]);

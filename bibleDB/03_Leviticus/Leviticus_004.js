@@ -1,6 +1,40 @@
 // 레위기 4장 · Leviticus 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",4,35);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Say to the Israelites: 'When anyone sins unintentionally and does what is forbidden in any of the LORD'S commands--", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:""'If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without defect as a sin offering for the sin he has committed.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He is to present the bull at the entrance to the Tent of Meeting before the LORD. He is to lay his hand on its head and slaughter it before the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then the anointed priest shall take some of the bull's blood and carry it into the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He is to dip his finger into the blood and sprinkle some of it seven times before the LORD, in front of the curtain of the sanctuary.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The priest shall then put some of the blood on the horns of the altar of fragrant incense that is before the LORD in the Tent of Meeting. The rest of the bull's blood he shall pour out at the base of the altar of burnt offering at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He shall remove all the fat from the bull of the sin offering--the fat that covers the inner parts or is connected to them,", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"both kidneys with the fat on them near the loins, and the covering of the liver, which he will remove with the kidneys--", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"just as the fat is removed from the ox sacrificed as a fellowship offering. Then the priest shall burn them on the altar of burnt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But the hide of the bull and all its flesh, as well as the head and legs, the inner parts and offal--", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"that is, all the rest of the bull--he must take outside the camp to a place ceremonially clean, where the ashes are thrown, and burn it in a wood fire on the ash heap.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'If the whole Israelite community sins unintentionally and does what is forbidden in any of the LORD'S commands, even though the community is unaware of the matter, they are guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When they become aware of the sin they committed, the assembly must bring a young bull as a sin offering and present it before the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The elders of the community are to lay their hands on the bull's head before the LORD, and the bull shall be slaughtered before the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then the anointed priest is to take some of the bull's blood into the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He shall dip his finger into the blood and sprinkle it before the LORD seven times in front of the curtain.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He is to put some of the blood on the horns of the altar that is before the LORD in the Tent of Meeting. The rest of the blood he shall pour out at the base of the altar of burnt offering at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"He shall remove all the fat from it and burn it on the altar,", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and do with this bull just as he did with the bull for the sin offering. In this way the priest will make atonement for them, and they will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then he shall take the bull outside the camp and burn it as he burned the first bull. This is the sin offering for the community.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:""'When a leader sins unintentionally and does what is forbidden in any of the commands of the LORD his God, he is guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When he is made aware of the sin he committed, he must bring as his offering a male goat without defect.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He is to lay his hand on the goat's head and slaughter it at the place where the burnt offering is slaughtered before the LORD. It is a sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He shall burn all the fat on the altar as he burned the fat of the fellowship offering. In this way the priest will make atonement for the man's sin, and he will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:27, Page:1, Kor:"", Chn:"", Eng:""'If a member of the community sins unintentionally and does what is forbidden in any of the LORD'S commands, he is guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When he is made aware of the sin he committed, he must bring as his offering for the sin he committed a female goat without defect.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He is to lay his hand on the head of the sin offering and slaughter it at the place of the burnt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then the priest is to take some of the blood with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He shall remove all the fat, just as the fat is removed from the fellowship offering, and the priest shall burn it on the altar as an aroma pleasing to the LORD. In this way the priest will make atonement for him, and he will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:32, Page:1, Kor:"", Chn:"", Eng:""'If he brings a lamb as his sin offering, he is to bring a female without defect.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:33, Page:1, Kor:"", Chn:"", Eng:"He is to lay his hand on its head and slaughter it for a sin offering at the place where the burnt offering is slaughtered.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:4, Verse:35, Page:1, Kor:"", Chn:"", Eng:"He shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the offerings made to the LORD by fire. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven.", Ind:""},
 ]);

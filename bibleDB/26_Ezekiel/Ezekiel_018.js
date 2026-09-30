@@ -1,6 +1,37 @@
 // 에스겔 18장 · Ezekiel 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",18,32);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:""What do you people mean by quoting this proverb about the land of Israel: "'The fathers eat sour grapes, and the children's teeth are set on edge'?", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:""As surely as I live, declares the Sovereign LORD, you will no longer quote this proverb in Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For every living soul belongs to me, the father as well as the son--both alike belong to me. The soul who sins is the one who will die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Suppose there is a righteous man who does what is just and right.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He does not eat at the mountain shrines or look to the idols of the house of Israel. He does not defile his neighbor's wife or lie with a woman during her period.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He does not oppress anyone, but returns what he took in pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He does not lend at usury or take excessive interest. He withholds his hand from doing wrong and judges fairly between man and man.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He follows my decrees and faithfully keeps my laws. That man is righteous; he will surely live, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Suppose he has a violent son, who sheds blood or does any of these other things", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"(though the father has done none of them): "He eats at the mountain shrines. He defiles his neighbor's wife.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He oppresses the poor and needy. He commits robbery. He does not return what he took in pledge. He looks to the idols. He does detestable things.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He lends at usury and takes excessive interest. Will such a man live? He will not! Because he has done all these detestable things, he will surely be put to death and his blood will be on his own head.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:""But suppose this son has a son who sees all the sins his father commits, and though he sees them, he does not do such things:", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:""He does not eat at the mountain shrines or look to the idols of the house of Israel. He does not defile his neighbor's wife.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He does not oppress anyone or require a pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He withholds his hand from sin and takes no usury or excessive interest. He keeps my laws and follows my decrees. He will not die for his father's sin; he will surely live.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But his father will die for his own sin, because he practiced extortion, robbed his brother and did what was wrong among his people.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Yet you ask, 'Why does the son not share the guilt of his father?' Since the son has done what is just and right and has been careful to keep all my decrees, he will surely live.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:""But if a wicked man turns away from all the sins he has committed and keeps all my decrees and does what is just and right, he will surely live; he will not die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"None of the offenses he has committed will be remembered against him. Because of the righteous things he has done, he will live.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Do I take any pleasure in the death of the wicked? declares the Sovereign LORD. Rather, am I not pleased when they turn from their ways and live?", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:""But if a righteous man turns from his righteousness and commits sin and does the same detestable things the wicked man does, will he live? None of the righteous things he has done will be remembered. Because of the unfaithfulness he is guilty of and because of the sins he has committed, he will die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Yet you say, 'The way of the Lord is not just.' Hear, O house of Israel: Is my way unjust? Is it not your ways that are unjust?", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If a righteous man turns from his righteousness and commits sin, he will die for it; because of the sin he has committed he will die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"But if a wicked man turns away from the wickedness he has committed and does what is just and right, he will save his life.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Because he considers all the offenses he has committed and turns away from them, he will surely live; he will not die.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Yet the house of Israel says, 'The way of the Lord is not just.' Are my ways unjust, O house of Israel? Is it not your ways that are unjust?", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:30, Page:1, Kor:"", Chn:"", Eng:""Therefore, O house of Israel, I will judge you, each one according to his ways, declares the Sovereign LORD. Repent! Turn away from all your offenses; then sin will not be your downfall.", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Rid yourselves of all the offenses you have committed, and get a new heart and a new spirit. Why will you die, O house of Israel?", Ind:""},
+  {Bible:"Ezekiel", Chapter:18, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For I take no pleasure in the death of anyone, declares the Sovereign LORD. Repent and live!", Ind:""},
 ]);

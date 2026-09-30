@@ -1,6 +1,37 @@
 // 예레미야 29장 · Jeremiah 29
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",29,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",29,32);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:29, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:2, Page:1, Kor:"", Chn:"", Eng:"(This was after King Jehoiachin and the queen mother, the court officials and the leaders of Judah and Jerusalem, the craftsmen and the artisans had gone into exile from Jerusalem.)", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He entrusted the letter to Elasah son of Shaphan and to Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It said:", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:4, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD Almighty, the God of Israel, says to all those I carried into exile from Jerusalem to Babylon:", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Build houses and settle down; plant gardens and eat what they produce.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Marry and have sons and daughters; find wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Increase in number there; do not decrease.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper."", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Yes, this is what the LORD Almighty, the God of Israel, says: "Do not let the prophets and diviners among you deceive you. Do not listen to the dreams you encourage them to have.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:9, Page:1, Kor:"", Chn:"", Eng:"They are prophesying lies to you in my name. I have not sent them," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "When seventy years are completed for Babylon, I will come to you and fulfill my gracious promise to bring you back to this place.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then you will call upon me and come and pray to me, and I will listen to you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:13, Page:1, Kor:"", Chn:"", Eng:"You will seek me and find me when you seek me with all your heart.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I will be found by you," declares the LORD, "and will bring you back from captivity. I will gather you from all the nations and places where I have banished you," declares the LORD, "and will bring you back to the place from which I carried you into exile."", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You may say, "The LORD has raised up prophets for us in Babylon,"", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:16, Page:1, Kor:"", Chn:"", Eng:"but this is what the LORD says about the king who sits on David's throne and all the people who remain in this city, your countrymen who did not go with you into exile--", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:17, Page:1, Kor:"", Chn:"", Eng:"yes, this is what the LORD Almighty says: "I will send the sword, famine and plague against them and I will make them like poor figs that are so bad they cannot be eaten.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will pursue them with the sword, famine and plague and will make them abhorrent to all the kingdoms of the earth and an object of cursing and horror, of scorn and reproach, among all the nations where I drive them.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:19, Page:1, Kor:"", Chn:"", Eng:"For they have not listened to my words," declares the LORD, "words that I sent to them again and again by my servants the prophets. And you exiles have not listened either," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Therefore, hear the word of the LORD, all you exiles whom I have sent away from Jerusalem to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:21, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD Almighty, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you in my name: "I will hand them over to Nebuchadnezzar king of Babylon, and he will put them to death before your very eyes.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Because of them, all the exiles from Judah who are in Babylon will use this curse: 'The LORD treat you like Zedekiah and Ahab, whom the king of Babylon burned in the fire.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For they have done outrageous things in Israel; they have committed adultery with their neighbors' wives and in my name have spoken lies, which I did not tell them to do. I know it and am a witness to it," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Tell Shemaiah the Nehelamite,", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:25, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD Almighty, the God of Israel, says: You sent letters in your own name to all the people in Jerusalem, to Zephaniah son of Maaseiah the priest, and to all the other priesps. You said to Zephaniah,", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:26, Page:1, Kor:"", Chn:"", Eng:"'The LORD has appointed you priest in place of Jehoiada to be in charge of the house of the LORD; you should put any madman who acts like a prophet into the stocks and neck-irons.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:27, Page:1, Kor:"", Chn:"", Eng:"So why have you not reprimanded Jeremiah from Anathoth, who poses as a prophet among you?", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:28, Page:1, Kor:"", Chn:"", Eng:"He has sent this message to us in Babylon: It will be a long time. Therefore build houses and settle down; plant gardens and eat what they produce.'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Zephaniah the priest, however, read the letter to Jeremiah the prophet.", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to Jeremiah:", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:31, Page:1, Kor:"", Chn:"", Eng:""Send this message to all the exiles: 'This is what the LORD says about Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, even though I did not send him, and has led you to believe a lie,", Ind:""},
+  {Bible:"Jeremiah", Chapter:29, Verse:32, Page:1, Kor:"", Chn:"", Eng:"this is what the LORD says: I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good things I will do for my people, declares the LORD, because he has preached rebellion against me.'"", Ind:""},
 ]);

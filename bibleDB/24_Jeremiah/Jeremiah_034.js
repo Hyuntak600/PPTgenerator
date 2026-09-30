@@ -1,6 +1,27 @@
 // 예레미야 34장 · Jeremiah 34
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",34,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",34,22);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:34, Verse:1, Page:1, Kor:"", Chn:"", Eng:"While Nebuchadnezzar king of Babylon and all his army and all the kingdoms and peoples in the empire he ruled were fighting against Jerusalem and all its surrounding towns, this word came to Jeremiah from the LORD:", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:2, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD, the God of Israel, says: Go to Zedekiah king of Judah and tell him, 'This is what the LORD says: I am about to hand this city over to the king of Babylon, and he will burn it down.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You will not escape from his grasp but will surely be captured and handed over to him. You will see the king of Babylon with your own eyes, and he will speak with you face to face. And you will go to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:4, Page:1, Kor:"", Chn:"", Eng:""'Yet hear the promise of the LORD, O Zedekiah king of Judah. This is what the LORD says concerning you: You will not die by the sword;", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:5, Page:1, Kor:"", Chn:"", Eng:"you will die peacefully. As people made a funeral fire in honor of your fathers, the former kings who preceded you, so they will make a fire in your honor and lament, "Alas, O master!" I myself make this promise, declares the LORD.'"", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Jeremiah the prophet told all this to Zedekiah king of Judah, in Jerusalem,", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:7, Page:1, Kor:"", Chn:"", Eng:"while the army of the king of Babylon was fighting against Jerusalem and the other cities of Judah that were still holding out--Lachish and Azekah. These were the only fortified cities left in Judah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The word came to Jeremiah from the LORD after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom for the slaves.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Everyone was to free his Hebrew slaves, both male and female; no one was to hold a fellow Jew in bondage.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So all the officials and people who entered into this covenant agreed that they would free their male and female slaves and no longer hold them in bondage. They agreed, and set them free.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But afterward they changed their minds and took back the slaves they had freed and enslaved them again.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then the word of the LORD came to Jeremiah:", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:13, Page:1, Kor:"", Chn:"", Eng:""This is what the LORD, the God of Israel, says: I made a covenant with your forefathers when I brought them out of Egypt, out of the land of slavery. I said,", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:14, Page:1, Kor:"", Chn:"", Eng:"'Every seventh year each of you must free any fellow Hebrew who has sold himself to you. After he has served you six years, you must let him go free.' Your fathers, however, did not listen to me or pay attention to me.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Recently you repented and did what is right in my sight: Each of you proclaimed freedom to his countrymen. You even made a covenant before me in the house that bears my Name.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But now you have turned around and profaned my name; each of you has taken back the male and female slaves you had set free to go where they wished. You have forced them to become your slaves again.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Therefore, this is what the LORD says: You have not obeyed me; you have not proclaimed freedom for your fellow countrymen. So I now proclaim 'freedom' for you, declares the LORD--'freedom' to fall by the sword, plague and famine. I will make you abhorrent to all the kingdoms of the earth.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The men who have violated my covenant and have not fulfilled the terms of the covenant they made before me, I will treat like the calf they cut in two and then walked between its pieces.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The leaders of Judah and Jerusalem, the court officials, the priests and all the people of the land who walked between the pieces of the calf,", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I will hand over to their enemies who seek their lives. Their dead bodies will become food for the birds of the air and the beasts of the earth.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:21, Page:1, Kor:"", Chn:"", Eng:""I will hand Zedekiah king of Judah and his officials over to their enemies who seek their lives, to the army of the king of Babylon, which has withdrawn from you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:34, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I am going to give the order, declares the LORD, and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so no one can live there."", Ind:""},
 ]);

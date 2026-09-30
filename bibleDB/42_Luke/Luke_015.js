@@ -1,6 +1,37 @@
 // 누가복음 15장 · Luke 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Luke",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Luke",15,32);
 BibleDB.add([
+  {Bible:"Luke", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the tax collectors and "sinners" were all gathering around to hear him.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But the Pharisees and the teachers of the law muttered, "This man welcomes sinners and eats with them."", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then Jesus told them this parable:", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Suppose one of you has a hundred sheep and loses one of them. Does he not leave the ninety-nine in the open country and go after the lost sheep until he finds it?", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And when he finds it, he joyfully puts it on his shoulders", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and goes home. Then he calls his friends and neighbors together and says, 'Rejoice with me; I have found my lost sheep.'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Or suppose a woman has ten silver coins and loses one. Does she not light a lamp, sweep the house and search carefully until she finds it?", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And when she finds it, she calls her friends and neighbors together and says, 'Rejoice with me; I have found my lost coin.'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents."", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Jesus continued: "There was a man who had two sons.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The younger one said to his father, 'Father, give me my share of the estate.' So he divided his property between them.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"After he had spent everything, there was a severe famine in that whole country, and he began to be in need.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:""When he came to his senses, he said, 'How many of my father's hired men have food to spare, and here I am starving to death!", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I am no longer worthy to be called your son; make me like one of your hired men.'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So he got up and went to his father. "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:""The son said to him, 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:""But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Bring the fattened calf and kill it. Let's have a feast and celebrate.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For this son of mine was dead and is alive again; he was lost and is found.' So they began to celebrate.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"So he called one of the servants and asked him what was going on.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"'Your brother has come,' he replied, 'and your father has killed the fattened calf because he has him back safe and sound.'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:28, Page:1, Kor:"", Chn:"", Eng:""The older brother became angry and refused to go in. So his father went out and pleaded with him.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:29, Page:1, Kor:"", Chn:"", Eng:"But he answered his father, 'Look! All these years I've been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!'", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:31, Page:1, Kor:"", Chn:"", Eng:""'My son,' the father said, 'you are always with me, and everything I have is yours.", Ind:""},
+  {Bible:"Luke", Chapter:15, Verse:32, Page:1, Kor:"", Chn:"", Eng:"But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.'"", Ind:""},
 ]);

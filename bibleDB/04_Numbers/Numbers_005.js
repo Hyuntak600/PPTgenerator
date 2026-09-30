@@ -1,6 +1,36 @@
 // 민수기 5장 · Numbers 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",5,31);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Command the Israelites to send away from the camp anyone who has an infectious skin disease or a discharge of any kind, or who is ceremonially unclean because of a dead body.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Send away male and female alike; send them outside the camp so they will not defile their camp, where I dwell among them."", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The Israelites did this; they sent them outside the camp. They did just as the LORD had instructed Moses.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Say to the Israelites: 'When a man or woman wrongs another in any way and so is unfaithful to the LORD, that person is guilty", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and must confess the sin he has committed. He must make full restitution for his wrong, add one fifth to it and give it all to the person he has wronged.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But if that person has no close relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest, along with the ram with which atonement is made for him.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the sacred contributions the Israelites bring to a priest will belong to him.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Each man's sacred gifts are his own, but what he gives to the priest will belong to the priest.'"", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Speak to the Israelites and say to them: 'If a man's wife goes astray and is unfaithful to him", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"by sleeping with another man, and this is hidden from her husband and her impurity is undetected (since there is no witness against her and she has not been caught in the act),", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and if feelings of jealousy come over her husband and he suspects his wife and she is impure--or if he is jealous and suspects her even though she is not impure--", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"then he is to take his wife to the priest. He must also take an offering of a tenth of an ephah of barley flour on her behalf. He must not pour oil on it or put incense on it, because it is a grain offering for jealousy, a reminder offering to draw attention to guilt.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'The priest shall bring her and have her stand before the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then he shall take some holy water in a clay jar and put some dust from the tabernacle floor into the water.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"After the priest has had the woman stand before the LORD, he shall loosen her hair and place in her hands the reminder offering, the grain offering for jealousy, while he himself holds the bitter water that brings a curse.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then the priest shall put the woman under oath and say to her, "If no other man has slept with you and you have not gone astray and become impure while married to your husband, may this bitter water that brings a curse not harm you.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"But if you have gone astray while married to your husband and you have defiled yourself by sleeping with a man other than your husband"--", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:"here the priest is to put the woman under this curse of the oath--"may the LORD cause your people to curse and denounce you when he causes your thigh to waste away and your abdomen to swell.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"May this water that brings a curse enter your body so that your abdomen swells and your thigh wastes away." "'Then the woman is to say, "Amen. So be it."", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:""'The priest is to write these curses on a scroll and then wash them off into the bitter water.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He shall have the woman drink the bitter water that brings a curse, and this water will enter her and cause bitter suffering.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The priest is to take from her hands the grain offering for jealousy, wave it before the LORD and bring it to the altar.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The priest is then to take a handful of the grain offering as a memorial offering and burn it on the altar; after that, he is to have the woman drink the water.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"If she has defiled herself and been unfaithful to her husband, then when she is made to drink the water that brings a curse, it will go into her and cause bitter suffering; her abdomen will swell and her thigh waste away, and she will become accursed among her people.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:28, Page:1, Kor:"", Chn:"", Eng:"If, however, the woman has not defiled herself and is free from impurity, she will be cleared of guilt and will be able to have children.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:29, Page:1, Kor:"", Chn:"", Eng:""'This, then, is the law of jealousy when a woman goes astray and defiles herself while married to her husband,", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:30, Page:1, Kor:"", Chn:"", Eng:"or when feelings of jealousy come over a man because he suspects his wife. The priest is to have her stand before the LORD and is to apply this entire law to her.", Ind:""},
+  {Bible:"Numbers", Chapter:5, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The husband will be innocent of any wrongdoing, but the woman will bear the consequences of her sin.'"", Ind:""},
 ]);

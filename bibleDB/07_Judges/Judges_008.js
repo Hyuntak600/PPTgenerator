@@ -1,6 +1,40 @@
 // 사사기 8장 · Judges 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",8,35);
 BibleDB.add([
+  {Bible:"Judges", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now the Ephraimites asked Gideon, "Why have you treated us like this? Why didn't you call us when you went to fight Midian?" And they criticized him sharply.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But he answered them, "What have I accomplished compared to you? Aren't the gleanings of Ephraim's grapes better than the full grape harvest of Abiezer?", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"God gave Oreb and Zeeb, the Midianite leaders, into your hands. What was I able to do compared to you?" At this, their resentment against him subsided.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Gideon and his three hundred men, exhausted yet keeping up the pursuit, came to the Jordan and crossed it.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"He said to the men of Succoth, "Give my troops some bread; they are worn out, and I am still pursuing Zebah and Zalmunna, the kings of Midian."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But the officials of Succoth said, "Do you already have the hands of Zebah and Zalmunna in your possession? Why should we give bread to your troops?"", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then Gideon replied, "Just for that, when the LORD has given Zebah and Zalmunna into my hand, I will tear your flesh with desert thorns and briers."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"From there he went up to Peniel and made the same request of them, but they answered as the men of Succoth had.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So he said to the men of Peniel, "When I return in triumph, I will tear down this tower."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Now Zebah and Zalmunna were in Karkor with a force of about fifteen thousand men, all that were left of the armies of the eastern peoples; a hundred and twenty thousand swordsmen had fallen.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Gideon went up by the route of the nomads east of Nobah and Jogbehah and fell upon the unsuspecting army.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Zebah and Zalmunna, the two kings of Midian, fled, but he pursued them and captured them, routing their entire army.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Gideon son of Joash then returned from the battle by the Pass of Heres.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He caught a young man of Succoth and questioned him, and the young man wrote down for him the names of the seventy-seven officials of Succoth, the elders of the town.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then Gideon came and said to the men of Succoth, "Here are Zebah and Zalmunna, about whom you taunted me by saying, 'Do you already have the hands of Zebah and Zalmunna in your possession? Why should we give bread to your exhausted men?'"", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He took the elders of the town and taught the men of Succoth a lesson by punishing them with desert thorns and briers.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He also pulled down the tower of Peniel and killed the men of the town.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then he asked Zebah and Zalmunna, "What kind of men did you kill at Tabor?" "Men like you," they answered, "each one with the bearing of a prince."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Gideon replied, "Those were my brothers, the sons of my own mother. As surely as the LORD lives, if you had spared their lives, I would not kill you."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Turning to Jether, his oldest son, he said, "Kill them!" But Jether did not draw his sword, because he was only a boy and was afraid.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Zebah and Zalmunna said, "Come, do it yourself. 'As is the man, so is his strength.'" So Gideon stepped forward and killed them, and took the ornaments off their camels' necks.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The Israelites said to Gideon, "Rule over us--you, your son and your grandson--because you have saved us out of the hand of Midian."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"But Gideon told them, "I will not rule over you, nor will my son rule over you. The LORD will rule over you."", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And he said, "I do have one request, that each of you give me an earring from your share of the plunder." (It was the custom of the Ishmaelites to wear gold earrings.)", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They answered, "We'll be glad to give them." So they spread out a garment, and each man threw a ring from his plunder onto it.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The weight of the gold rings he asked for came to seventeen hundred shekels, not counting the ornaments, the pendants and the purple garments worn by the kings of Midian or the chains that were on their camels' necks.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Gideon made the gold into an ephod, which he placed in Ophrah, his town. All Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his family.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Thus Midian was subdued before the Israelites and did not raise its head again. During Gideon's lifetime, the land enjoyed peace forty years.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Jerub-Baal son of Joash went back home to live.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He had seventy sons of his own, for he had many wives.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"His concubine, who lived in Shechem, also bore him a son, whom he named Abimelech.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Gideon son of Joash died at a good old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"No sooner had Gideon died than the Israelites again prostituted themselves to the Baals. They set up Baal-Berith as their god and", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"did not remember the LORD their God, who had rescued them from the hands of all their enemies on every side.", Ind:""},
+  {Bible:"Judges", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"They also failed to show kindness to the family of Jerub-Baal (that is, Gideon) for all the good things he had done for them.", Ind:""},
 ]);

@@ -1,6 +1,37 @@
 // 요엘 2장 · Joel 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Joel",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Joel",2,32);
 BibleDB.add([
+  {Bible:"Joel", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the LORD is coming. It is close at hand--", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"a day of darkness and gloom, a day of clouds and blackness. Like dawn spreading across the mountains a large and mighty army comes, such as never was of old nor ever will be in ages to come.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Before them fire devours, behind them a flame blazes. Before them the land is like the garden of Eden, behind them, a desert waste--nothing escapes them.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They have the appearance of horses; they gallop along like cavalry.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"With a noise like that of chariots they leap over the mountaintops, like a crackling fire consuming stubble, like a mighty army drawn up for battle.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"At the sight of them, nations are in anguish; every face turns pale.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They charge like warriors; they scale walls like soldiers. They all march in line, not swerving from their course.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They do not jostle each other; each marches straight ahead. They plunge through defenses without breaking ranks.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"They rush upon the city; they run along the wall. They climb into the houses; like thieves they enter through the windows.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Before them the earth shakes, the sky trembles, the sun and moon are darkened, and the stars no longer shine.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The LORD thunders at the head of his army; his forces are beyond number, and mighty are those who obey his command. The day of the LORD is great; it is dreadful. Who can endure it?", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Even now," declares the LORD, "return to me with all your heart, sith fasting and weeping and mourning."", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Rend your heart and not your garments. Return to the LORD your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Who knows? He may turn and have pity and leave behind a blessing--grain offerings and drink offerings for the LORD your God.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Blow the trumpet in Zion, declare a holy fast, call a sacred assembly.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Gather the people, consecrate the assembly; bring together the elders, gather the children, those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Let the priests, who minister before the LORD, weep between the temple porch and the altar. Let them say, "Spare your people, O LORD. Do not make your inheritance an object of scorn, a byword among the nations. Why should they say among the peoples, 'Where is their God?'"", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then the LORD will be jealous for his land and take pity on his people.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The LORD will reply to them: "I am sending you grain, new wine and oil, enough to satisfy you fully; never again will I make you an object of scorn to the nations.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:""I will drive the northern army far from you, pushing it into a parched and barren land, with its front columns going into the eastern sea and those in the rear into the western sea. And its stench will go up; its smell will rise." Surely he has done great things.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Be not afraid, O land; be glad and rejoice. Surely the LORD has done great things.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Be not afraid, O wild animals, for the open pastures are becoming green. The trees are bearing their fruit; the fig tree and the vine yield their riches.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Be glad, O people of Zion, rejoice in the LORD your God, for he has given you the autumn rains in righteousness. He sends you abundant showers, both autumn and spring rains, as before.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The threshing floors will be filled with grain; the vats will overflow with new wine and oil.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:""I will repay you for the years the locusts have eaten--the great locust and the young locust, the other locusts and the locust swarm--my great army that I sent among you.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"You will have plenty to eat, until you are full, and you will praise the name of the LORD your God, who has worked wonders for you; never again will my people be shamed.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then you will know that I am in Israel, that I am the LORD your God, and that there is no other; never again will my people be shamed.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:""And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Even on my servants, both men and women, I will pour out my Spirit in those days.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:30, Page:1, Kor:"", Chn:"", Eng:"I will show wonders in the heavens and on the earth, blood and fire and billows of smoke.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the LORD.", Ind:""},
+  {Bible:"Joel", Chapter:2, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, among the survivors whom the LORD calls.", Ind:""},
 ]);

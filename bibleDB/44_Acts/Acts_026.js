@@ -1,6 +1,37 @@
 // 사도행전 26장 · Acts 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",26,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",26,32);
 BibleDB.add([
+  {Bible:"Acts", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Agrippa said to Paul, "You have permission to speak for yourself." So Paul motioned with his hand and began his defense:", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:""King Agrippa, I consider myself fortunate to stand before you today as I make my defense against all the accusations of the Jews,", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and especially so because you are well acquainted with all the Jewish customs and controversies. Therefore, I beg you to listen to me patiently.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:""The Jews all know the way I have lived ever since I was a child, from the beginning of my life in my own country, and also in Jerusalem.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They have known me for a long time and can testify, if they are willing, that according to the strictest sect of our religion, I lived as a Pharisee.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And now it is because of my hope in what God has promised our fathers that I am on trial today.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:"This is the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. O king, it is because of this hope that the Jews are accusing me.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Why should any of you consider it incredible that God raises the dead?", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:9, Page:1, Kor:"", Chn:"", Eng:""I too was convinced that I ought to do all that was possible to oppose the name of Jesus of Nazareth.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"And that is just what I did in Jerusalem. On the authority of the chief priests I put many of the saints in prison, and when they were put to death, I cast my vote against them.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Many a time I went from one synagogue to another to have them punished, and I tried to force them to blaspheme. In my obsession against them, I even went to foreign cities to persecute them.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:""On one of these journeys I was going to Damascus with the authority and commission of the chief priests.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"About noon, O king, as I was on the road, I saw a light from heaven, brighter than the sun, blazing around me and my companions.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"We all fell to the ground, and I heard a voice saying to me in Aramaic, 'Saul, Saul, why do you persecute me? It is hard for you to kick against the goads.'", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Then I asked, 'Who are you, Lord?' "'I am Jesus, whom you are persecuting,' the Lord replied.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"'Now get up and stand on your feet. I have appeared to you to appoint you as a servant and as a witness of what you have seen of me and what I will show you.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I will rescue you from your own people and from the Gentiles. I am sending you to them", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.'", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:""So then, King Agrippa, I was not disobedient to the vision from heaven.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:20, Page:1, Kor:"", Chn:"", Eng:"First to those in Damascus, then to those in Jerusalem and in all Judea, and to the Gentiles also, I preached that they should repent and turn to God and prove their repentance by their deeds.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:21, Page:1, Kor:"", Chn:"", Eng:"That is why the Jews seized me in the temple courts and tried to kill me.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But I have had God's help to this very day, and so I stand here and testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen--", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:23, Page:1, Kor:"", Chn:"", Eng:"that the Christ would suffer and, as the first to rise from the dead, would proclaim light to his own people and to the Gentiles."", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:24, Page:1, Kor:"", Chn:"", Eng:"At this point Festus interrupted Paul's defense. "You are out of your mind, Paul!" he shouted. "Your great learning is driving you insane."", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:25, Page:1, Kor:"", Chn:"", Eng:""I am not insane, most excellent Festus," Paul replied. "What I am saying is true and reasonable.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The king is familiar with these things, and I can speak freely to him. I am convinced that none of this has escaped his notice, because it was not done in a corner.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:27, Page:1, Kor:"", Chn:"", Eng:"King Agrippa, do you believe the prophets? I know you do."", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Agrippa said to Paul, "Do you think that in such a short time you can persuade me to be a Christian?"", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Paul replied, "Short time or long--I pray God that not only you but all who are listening to me today may become what I am, except for these chains."", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:30, Page:1, Kor:"", Chn:"", Eng:"The king rose, and with him the governor and Bernice and those sitting with them.", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They left the room, and while talking with one another, they said, "This man is not doing anything that deserves death or imprisonment."", Ind:""},
+  {Bible:"Acts", Chapter:26, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Agrippa said to Festus, "This man could have been set free if he had not appealed to Caesar."", Ind:""},
 ]);

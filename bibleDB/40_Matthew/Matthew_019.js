@@ -1,6 +1,35 @@
 // 마태복음 19장 · Matthew 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",19,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",19,30);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Large crowds followed him, and he healed them there.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Some Pharisees came to him to test him. They asked, "Is it lawful for a man to divorce his wife for any and every reason?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Haven't you read," he replied, "that at the beginning the Creator 'made them male and female,'", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"and said, 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh'?", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So they are no longer two, but one. Therefore what God has joined together, let man not separate."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Why then," they asked, "did Moses command that a man give his wife a certificate of divorce and send her away?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I tell you that anyone who divorces his wife, except for marital unfaithfulness, and marries another woman commits adultery."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The disciples said to him, "If this is the situation between a husband and wife, it is better not to marry."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "Not everyone can accept this word, but only those to whom it has been given.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For some are eunuchs because they were born that way; others were made that way by men; and others have renounced marriage because of the kingdom of heaven. The one who can accept this should accept it."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then little children were brought to Jesus for him to place his hands on them and pray for them. But the disciples rebuked those who brought them.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Jesus said, "Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When he had placed his hands on them, he went on from there.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Now a man came up to Jesus and asked, "Teacher, what good thing must I do to get eternal life?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Why do you ask me about what is good?" Jesus replied. "There is only One who is good. If you want to enter life, obey the commandments."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Which ones?" the man inquired. Jesus replied, "'Do not murder, do not commit adultery, do not steal, do not give false testimony,", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"honor your father and mother,' and 'love your neighbor as yourself.'"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:""All these I have kept," the young man said. "What do I still lack?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When the young man heard this, he went away sad, because he had great wealth.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Then Jesus said to his disciples, "I tell you the truth, it is hard for a rich man to enter the kingdom of heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When the disciples heard this, they were greatly astonished and asked, "Who then can be saved?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Jesus looked at them and said, "With man this is impossible, but with God all things are possible."", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Peter answered him, "We have left everything to follow you! What then will there be for us?"", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Jesus said to them, "I tell you the truth, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"And everyone who has left houses or brothers or sisters or father or mother or children or fields for my sake will receive a hundred times as much and will inherit eternal life.", Ind:""},
+  {Bible:"Matthew", Chapter:19, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But many who are first will be last, and many who are last will be first.", Ind:""},
 ]);

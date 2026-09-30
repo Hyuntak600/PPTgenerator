@@ -1,6 +1,39 @@
 // 창세기 46장 · Genesis 46
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",46,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",46,34);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:46, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So Israel set out with all that was his, and when he reached Beersheba, he offered  sacrifices to the God of his father Isaac.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And God spoke to Israel in a vision at night and said, "Jacob! Jacob!" "Here I am," he  replied.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:3, Page:1, Kor:"", Chn:"", Eng:""I am God, the God of your father," he said. "Do not be afraid to go down to Egypt, for I  will make you into a great nation there.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I will go down to Egypt with you, and I will surely bring you back again. And Joseph's own  hand will close your eyes."", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then Jacob left Beersheba, and Israel's sons took their father Jacob and their children and  their wives in the carts that Pharaoh had sent to transport him.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They also took with them their livestock and the possessions they had acquired in Canaan,  and Jacob and all his offspring went to Egypt.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He took with him to Egypt his sons and grandsons and his daughters and granddaughters--all  his offspring.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:8, Page:1, Kor:"", Chn:"", Eng:"These are the names of the sons of Israel (Jacob and his descendants) who went to Egypt:  Reuben the firstborn of Jacob.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The sons of Reuben: Hanoch, Pallu, Hezron and Carmi.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite  woman.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The sons of Levi: Gershon, Kohath and Merari.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The sons of Judah: Er, Onan, Shelah, Perez and Zerah (but Er and Onan had died in the land  of Canaan). The sons of Perez: Hezron and Hamul.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The sons of Issachar: Tola, Puah, Jashub and Shimron.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The sons of Zebulun: Sered, Elon and Jahleel.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:15, Page:1, Kor:"", Chn:"", Eng:"These were the sons Leah bore to Jacob in Paddan Aram, besides his daughter Dinah. These  sons and daughters of his were thirty-three in all.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The sons of Gad: Zephon, Haggi, Shuni, Ezbon, Eri, Arodi and Areli.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The sons of Asher: Imnah, Ishvah, Ishvi and Beriah. Their sister was Serah. The sons of  Beriah: Heber and Malkiel.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:18, Page:1, Kor:"", Chn:"", Eng:"These were the children born to Jacob by Zilpah, whom Laban had given to his daughter  Leah--sixteen in all.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The sons of Jacob's wife Rachel: Joseph and Benjamin.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:20, Page:1, Kor:"", Chn:"", Eng:"In Egypt, Manasseh and Ephraim were born to Joseph by Asenath daughter of Potiphera, priest  of On.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The sons of Benjamin: Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:22, Page:1, Kor:"", Chn:"", Eng:"These were the sons of Rachel who were born to Jacob--fourteen in all.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The son of Dan: Hushim.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The sons of Naphtali: Jahziel, Guni, Jezer and Shillem.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:25, Page:1, Kor:"", Chn:"", Eng:"These were the sons born to Jacob by Bilhah, whom Laban had given to his daughter  Rachel--seven in all.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:26, Page:1, Kor:"", Chn:"", Eng:"All those who went to Egypt with Jacob--those who were his direct descendants, not counting  his sons' wives--numbered sixty-six persons.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:27, Page:1, Kor:"", Chn:"", Eng:"With the two sons who had been born to Joseph in Egypt, the members of Jacob's family,  which went to Egypt, were seventy in all.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Now Jacob sent Judah ahead of him to Joseph to get directions to Goshen. When they arrived  in the region of Goshen,", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Joseph had his chariot made ready and went to Goshen to meet his father Israel. As soon as  Joseph appeared before him, he threw his arms around his father and wept for a long time.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Israel said to Joseph, "Now I am ready to die, since I have seen for myself that you are  still alive."", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Then Joseph said to his brothers and to his father's household, "I will go up and speak to  Pharaoh and will say to him, 'My brothers and my father's household, who were living in the land  of Canaan, have come to me.", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:32, Page:1, Kor:"", Chn:"", Eng:"The men are shepherds; they tend livestock, and they have brought along their flocks and  herds and everything they own.'", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:33, Page:1, Kor:"", Chn:"", Eng:"When Pharaoh calls you in and asks, 'What is your occupation?'", Ind:""},
+  {Bible:"Genesis", Chapter:46, Verse:34, Page:1, Kor:"", Chn:"", Eng:"you should answer, 'Your servants have tended livestock from our boyhood on, just as our  fathers did.' Then you will be allowed to settle in the region of Goshen, for all shepherds are  detestable to the Egyptians."", Ind:""},
 ]);

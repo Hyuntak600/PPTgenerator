@@ -1,6 +1,34 @@
 // 잠언 19장 · Proverbs 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",19,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",19,29);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Better a poor man whose walk is blameless than a fool whose lips are perverse.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:"It is not good to have zeal without knowledge, nor to be hasty and miss the way.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A man's own folly ruins his life, yet his heart rages against the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Wealth brings many friends, but a poor man's friend deserts him.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:"A false witness will not go unpunished, and he who pours out lies will not go free.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Many curry favor with a ruler, and everyone is the friend of a man who gives gifts.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"A poor man is shunned by all his relatives--how much more do his friends avoid him! Though he pursues them with pleading, they are nowhere to be found.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He who gets wisdom loves his own soul; he who cherishes understanding prospers.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:"A false witness will not go unpunished, and he who pours out lies will perish.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"It is not fitting for a fool to live in luxury--how much worse for a slave to rule over princes!", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:"A man's wisdom gives him patience; it is to his glory to overlook an offense.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:"A king's rage is like the roar of a lion, but his favor is like dew on the grass.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:"A foolish son is his father's ruin, and a quarrelsome wife is like a constant dripping.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Houses and wealth are inherited from parents, but a prudent wife is from the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Laziness brings on deep sleep, and the shiftless man goes hungry.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He who obeys instructions guards his life, but he who is contemptuous of his ways will die.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He who is kind to the poor lends to the LORD, and he will reward him for what he has done.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Discipline your son, for in that there is hope; do not be a willing party to his death.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:"A hot-tempered man must pay the penalty; if you rescue him, you will have to do it again.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Listen to advice and accept instruction, and in the end you will be wise.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Many are the plans in a man's heart, but it is the LORD'S purpose that prevails.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"What a man desires is unfailing love; better to be poor than a liar.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The fear of the LORD leads to life: Then one rests content, untouched by trouble.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The sluggard buries his hand in the dish; he will not even bring it back to his mouth!", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Flog a mocker, and the simple will learn prudence; rebuke a discerning man, and he will gain knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He who robs his father and drives out his mother is a son who brings shame and disgrace.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Stop listening to instruction, my son, and you will stray from the words of knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Penalties are prepared for mockers, and beatings for the backs of fools.", Ind:""},
 ]);

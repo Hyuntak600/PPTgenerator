@@ -1,6 +1,36 @@
 // 시편 22장 · Psalms 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",22,31);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"My God, my God, why have you forsaken me? Why are you so far from saving me, so far from the words of my groaning?", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:"O my God, I cry out by day, but you do not answer, by night, and am not silent.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Yet you are enthroned as the Holy One; you are the praise of Israel.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"In you our fathers put their trust; they trusted and you delivered them.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They cried to you and were saved; in you they trusted and were not disappointed.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But I am a worm and not a man, scorned by men and despised by the people.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"All who see me mock me; they hurl insults, shaking their heads:", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:""He trusts in the LORD; let the LORD rescue him. Let him deliver him, since he delights in him."", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Yet you brought me out of the womb; you made me trust in you even at my mother's breast.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"From birth I was cast upon you; from my mother's womb you have been my God.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Do not be far from me, for trouble is near and there is no one to help.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Many bulls surround me; strong bulls of Bashan encircle me.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Roaring lions tearing their prey open their mouths wide against me.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I am poured out like water, and all my bones are out of joint. My heart has turned to wax; it has melted away within me.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth; you lay me in the dust of death.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Dogs have surrounded me; a band of evil men has encircled me, they have pierced my hands and my feet.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I can count all my bones; people stare and gloat over me.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They divide my garments among them and cast lots for my clothing.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But you, O LORD, be not far off; O my Strength, come quickly to help me.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Deliver my life from the sword, my precious life from the power of the dogs.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Rescue me from the mouth of the lions; save me from the horns of the wild oxen.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I will declare your name to my brothers; in the congregation I will praise you.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You who fear the LORD, praise him! All you descendants of Jacob, honor him! Revere him, all you descendants of Israel!", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For he has not despised or disdained the suffering of the afflicted one; he has not hidden his face from him but has listened to his cry for help.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"From you comes the theme of my praise in the great assembly; before those who fear you will I fulfill my vows.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The poor will eat and be satisfied; they who seek the LORD will praise him--may your hearts live forever!", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"All the ends of the earth will remember and turn to the LORD, and all the families of the nations will bow down before him,", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"for dominion belongs to the LORD and he rules over the nations.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"All the rich of the earth will feast and worship; all who go down to the dust will kneel before him--those who cannot keep themselves alive.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Posterity will serve him; future generations will be told about the Lord.", Ind:""},
+  {Bible:"Psalms", Chapter:22, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They will proclaim his righteousness to a people yet unborn--for he has done it.", Ind:""},
 ]);

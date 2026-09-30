@@ -1,6 +1,31 @@
 // 사도행전 1장 · Acts 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",1,26);
 BibleDB.add([
+  {Bible:"Acts", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In my former book, Theophilus, I wrote about all that Jesus began to do and to teach", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"After his suffering, he showed himself to these men and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"On one occasion, while he was eating with them, he gave them this command: "Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"For John baptized with water, but in a few days you will be baptized with the Holy Spirit."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So when they met together, they asked him, "Lord, are you at this time going to restore the kingdom to Israel?"", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He said to them: "It is not for you to know the times or dates the Father has set by his own authority.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Men of Galilee," they said, "why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Then they returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk from the city.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When they arrived, they went upstairs to the room where they were staying. Those present were Peter, John, James and Andrew; Philip and Thomas, Bartholomew and Matthew; James son of Alphaeus and Simon the Zealot, and Judas son of James.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"In those days Peter stood up among the believers (a group numbering about a hundred and twenty)", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"and said, "Brothers, the Scripture had to be fulfilled which the Holy Spirit spoke long ago through the mouth of David concerning Judas, who served as guide for those who arrested Jesus--", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"he was one of our number and shared in this ministry."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"(With the reward he got for his wickedness, Judas bought a field; there he fell headlong, his body burst open and all his intestines spilled out.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Everyone in Jerusalem heard about this, so they called that field in their language Akeldama, that is, Field of Blood.)", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:""For," said Peter, "it is written in the book of Psalms, "'May his place be deserted; let there be no one to dwell in it,' and, "'May another take his place of leadership.'", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Therefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus went in and out among us,", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"beginning from John's baptism to the time when Jesus was taken up from us. For one of these must become a witness with us of his resurrection."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias.", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Then they prayed, "Lord, you know everyone's heart. Show us which of these two you have chosen", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"to take over this apostolic ministry, which Judas left to go where he belongs."", Ind:""},
+  {Bible:"Acts", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.", Ind:""},
 ]);

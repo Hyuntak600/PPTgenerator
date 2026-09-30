@@ -1,6 +1,41 @@
 // 요한복음 3장 · John 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("John",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("John",3,36);
 BibleDB.add([
+  {Bible:"John", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now there was a man of the Pharisees named Nicodemus, a member of the Jewish ruling council.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He came to Jesus at night and said, "Rabbi, we know you are a teacher who has come from God. For no one could perform the miraculous signs you are doing if God were not with him."", Ind:""},
+  {Bible:"John", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"In reply Jesus declared, "I tell you the truth, no one can see the kingdom of God unless he is born again."", Ind:""},
+  {Bible:"John", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:""How can a man be born when he is old?" Nicodemus asked. "Surely he cannot enter a second time into his mother's womb to be born!"", Ind:""},
+  {Bible:"John", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Jesus answered, "I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Flesh gives birth to flesh, but the Spirit gives birth to spirit.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You should not be surprised at my saying, 'You must be born again.'", Ind:""},
+  {Bible:"John", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit."", Ind:""},
+  {Bible:"John", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:""How can this be?" Nicodemus asked.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:""You are Israel's teacher," said Jesus, "and do you not understand these things?", Ind:""},
+  {Bible:"John", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, we speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"I have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things?", Ind:""},
+  {Bible:"John", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"No one has ever gone into heaven except the one who came from heaven--the Son of Man.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Just as Moses lifted up the snake in the desert, so the Son of Man must be lifted up,", Ind:""},
+  {Bible:"John", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"that everyone who believes in him may have eternal life.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:""For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For God did not send his Son into the world to condemn the world, but to save the world through him.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Whoever believes in him is not condemned, but whoever does not believe stands condemned already because he has not believed in the name of God's one and only Son.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"This is the verdict: Light has come into the world, but men loved darkness instead of light because their deeds were evil.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Everyone who does evil hates the light, and will not come into the light for fear that his deeds will be exposed.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But whoever lives by the truth comes into the light, so that it may be seen plainly that what he has done has been done through God."", Ind:""},
+  {Bible:"John", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"After this, Jesus and his disciples went out into the Judean countryside, where he spent some time with them, and baptized.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Now John also was baptizing at Aenon near Salim, because there was plenty of water, and people were constantly coming to be baptized.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"(This was before John was put in prison.)", Ind:""},
+  {Bible:"John", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"An argument developed between some of John's disciples and a certain Jew over the matter of ceremonial washing.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They came to John and said to him, "Rabbi, that man who was with you on the other side of the Jordan--the one you testified about--well, he is baptizing, and everyone is going to him."", Ind:""},
+  {Bible:"John", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"To this John replied, "A man can receive only what is given him from heaven.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"You yourselves can testify that I said, 'I am not the Christ but am sent ahead of him.'", Ind:""},
+  {Bible:"John", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him, and is full of joy when he hears the bridegroom's voice. That joy is mine, and it is now complete.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He must become greater; I must become less.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:31, Page:1, Kor:"", Chn:"", Eng:""The one who comes from above is above all; the one who is from the earth belongs to the earth, and speaks as one from the earth. The one who comes from heaven is above all.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He testifies to what he has seen and heard, but no one accepts his testimony.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The man who has accepted it has certified that God is truthful.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:34, Page:1, Kor:"", Chn:"", Eng:"For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:35, Page:1, Kor:"", Chn:"", Eng:"The Father loves the Son and has placed everything in his hands.", Ind:""},
+  {Bible:"John", Chapter:3, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him."", Ind:""},
 ]);

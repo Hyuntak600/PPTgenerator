@@ -1,6 +1,31 @@
 // 이사야 49장 · Isaiah 49
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",49,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",49,26);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:49, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Listen to me, you islands; hear this, you distant nations: Before I was born the LORD called me; from my birth he has made mention of my name.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He made my mouth like a sharpened sword, in the shadow of his hand he hid me; he made me into a polished arrow and concealed me in his quiver.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He said to me, "You are my servant, Israel, in whom I will display my splendor."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But I said, "I have labored to no purpose; I have spent my strength in vain and for nothing. Yet what is due me is in the LORD'S hand, and my reward is with my God."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And now the LORD says--he who formed me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honored in the eyes of the LORD and my God has been my strength--", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:6, Page:1, Kor:"", Chn:"", Eng:"he says: "It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back those of Israel I have kept. I will also make you a light for the Gentiles, that you may bring my salvation to the ends of the earth."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:7, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says--the Redeemer and Holy One of Israel--to him who was despised and abhorred by the nation, to the servant of rulers: "Kings will see you and rise up, princes will see and bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen you."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:8, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "In the time of my favor I will answer you, and in the day of salvation I will help you; I will keep you and will make you to be a covenant for the people, to restore the land and to reassign its desolate inheritances,", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:9, Page:1, Kor:"", Chn:"", Eng:"to say to the captives, 'Come out,' and to those in darkness, 'Be free!' "They will feed beside the roads and find pasture on every barren hill.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They will neither hunger nor thirst, nor will the desert heat or the sun beat upon them. He who has compassion on them will guide them and lead them beside springs of water.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I will turn all my mountains into roads, and my highways will be raised up.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:12, Page:1, Kor:"", Chn:"", Eng:"See, they will come from afar--some from the north, some from the west, some from the region of Aswan."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Shout for joy, O heavens; rejoice, O earth; burst into song, O mountains! For the LORD comforts his people and will have compassion on his afflicted ones.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:14, Page:1, Kor:"", Chn:"", Eng:"But Zion said, "The LORD has forsaken me, the Lord has forgotten me."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Can a mother forget the baby at her breast and have no compassion on the child she has borne? Though she may forget, I will not forget you!", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:16, Page:1, Kor:"", Chn:"", Eng:"See, I have engraved you on the palms of my hands; your walls are ever before me.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Your sons hasten back, and those who laid you waste depart from you.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Lift up your eyes and look around; all your sons gather and come to you. As surely as I live," declares the LORD, "you will wear them all as ornaments; you will put them on, like a bride.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Though you were ruined and made desolate and your land laid waste, now you will be too small for your people, and those who devoured you will be far away.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The children born during your bereavement will yet say in your hearing, 'This place is too small for us; give us more space to live in.'", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then you will say in your heart, 'Who bore me these? I was bereaved and barren; I was exiled and rejected. Who brought these up? I was left all alone, but these--where have they come from?'"", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: "See, I will beckon to the Gentiles, I will lift up my banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the LORD; those who hope in me will not be disappointed."", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Can plunder be taken from warriors, or captives rescued from the fierce?", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But this is what the LORD says: "Yes, captives will be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.", Ind:""},
+  {Bible:"Isaiah", Chapter:49, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with wine. Then all mankind will know that I, the LORD, am your Savior, your Redeemer, the Mighty One of Jacob."", Ind:""},
 ]);

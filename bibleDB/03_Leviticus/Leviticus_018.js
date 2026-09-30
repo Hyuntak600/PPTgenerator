@@ -1,6 +1,35 @@
 // 레위기 18장 · Leviticus 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",18,30);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Speak to the Israelites and say to them: 'I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"You must not do as they do in Egypt, where you used to live, and you must not do as they do in the land of Canaan, where I am bringing you. Do not follow their practices.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"You must obey my laws and be careful to follow my decrees. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Keep my decrees and laws, for the man who obeys them will live by them. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'No one is to approach any close relative to have sexual relations. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'Do not dishonor your father by having sexual relations with your mother. She is your mother; do not have relations with her.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your father's wife; that would dishonor your father.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your sister, either your father's daughter or your mother's daughter, whether she was born in the same home or elsewhere.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your son's daughter or your daughter's daughter; that would dishonor you.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with the daughter of your father's wife, born to your father; she is your sister.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your father's sister; she is your father's close relative.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your mother's sister, because she is your mother's close relative.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'Do not dishonor your father's brother by approaching his wife to have sexual relations; she is your aunt.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your daughter-in-law. She is your son's wife; do not have relations with her.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your brother's wife; that would dishonor your brother.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son's daughter or her daughter's daughter; they are her close relatives. That is wickedness.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:""'Do not take your wife's sister as a rival wife and have sexual relations with her while your wife is living.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:""'Do not approach a woman to have sexual relations during the uncleanness of her monthly period.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with your neighbor's wife and defile yourself with her.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:""'Do not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:""'Do not lie with a man as one lies with a woman; that is detestable.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:""'Do not have sexual relations with an animal and defile yourself with it. A woman must not present herself to an animal to have sexual relations with it; that is a perversion.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'Do not defile yourselves in any of these ways, because this is how the nations that I am going to drive out before you became defiled.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Even the land was defiled; so I punished it for its sin, and the land vomited out its inhabitants.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But you must keep my decrees and my laws. The native-born and the aliens living among you must not do any of these detestable things,", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"for all these things were done by the people who lived in the land before you, and the land became defiled.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"And if you defile the land, it will vomit you out as it vomited out the nations that were before you.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:29, Page:1, Kor:"", Chn:"", Eng:""'Everyone who does any of these detestable things--such persons must be cut off from their people.", Ind:""},
+  {Bible:"Leviticus", Chapter:18, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the LORD your God.'"", Ind:""},
 ]);

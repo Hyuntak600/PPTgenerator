@@ -1,6 +1,34 @@
 // 시편 118장 · Psalms 118
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",118,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",118,29);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:118, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, for he is good; his love endures forever.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Let Israel say: "His love endures forever."", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Let the house of Aaron say: "His love endures forever."", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Let those who fear the LORD say: "His love endures forever."", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:5, Page:1, Kor:"", Chn:"", Eng:"In my anguish I cried to the LORD, and he answered by setting me free.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The LORD is with me; I will not be afraid. What can man do to me?", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The LORD is with me; he is my helper. I will look in triumph on my enemies.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:8, Page:1, Kor:"", Chn:"", Eng:"It is better to take refuge in the LORD than to trust in man.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:9, Page:1, Kor:"", Chn:"", Eng:"It is better to take refuge in the LORD than to trust in princes.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:10, Page:1, Kor:"", Chn:"", Eng:"All the nations surrounded me, but in the name of the LORD I cut them off.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They surrounded me on every side, but in the name of the LORD I cut them off.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They swarmed around me like bees, but they died out as quickly as burning thorns; in the name of the LORD I cut them off.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I was pushed back and about to fall, but the LORD helped me.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD is my strength and my song; he has become my salvation.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Shouts of joy and victory resound in the tents of the righteous: "The LORD'S right hand has done mighty things!", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD'S right hand is lifted high; the LORD'S right hand has done mighty things!"", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I will not die but live, and will proclaim what the LORD has done.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The LORD has chastened me severely, but he has not given me over to death.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Open for me the gates of righteousness; I will enter and give thanks to the LORD.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:20, Page:1, Kor:"", Chn:"", Eng:"This is the gate of the LORD through which the righteous may enter.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I will give you thanks, for you answered me; you have become my salvation.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The stone the builders rejected has become the capstone;", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:23, Page:1, Kor:"", Chn:"", Eng:"the LORD has done this, and it is marvelous in our eyes.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:24, Page:1, Kor:"", Chn:"", Eng:"This is the day the LORD has made; let us rejoice and be glad in it.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:25, Page:1, Kor:"", Chn:"", Eng:"O LORD, save us; O LORD, grant us success.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The LORD is God, and he has made his light shine upon us. With boughs in hand, join in the festal procession up to the horns of the altar.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:28, Page:1, Kor:"", Chn:"", Eng:"You are my God, and I will give you thanks; you are my God, and I will exalt you.", Ind:""},
+  {Bible:"Psalms", Chapter:118, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Give thanks to the LORD, for he is good; his love endures forever.", Ind:""},
 ]);

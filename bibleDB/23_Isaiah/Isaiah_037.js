@@ -1,6 +1,43 @@
 // 이사야 37장 · Isaiah 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",37,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",37,38);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When King Hezekiah heard this, he tore his clothes and put on sackcloth and went into the temple of the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He sent Eliakim the palace administrator, Shebna the secretary, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They told him, "This is what Hezekiah says: This day is a day of distress and rebuke and disgrace, as when children come to the point of birth and there is no strength to deliver them.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:4, Page:1, Kor:"", Chn:"", Eng:"It may be that the LORD your God will hear the words of the field commander, whom his master, the king of Assyria, has sent to ridicule the living God, and that he will rebuke him for the words the LORD your God has heard. Therefore pray for the remnant that still survives."", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When King Hezekiah's officials came to Isaiah,", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Isaiah said to them, "Tell your master, 'This is what the LORD says: Do not be afraid of what you have heard--those words with which the underlings of the king of Assyria have blasphemed me.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Listen! I am going to put a spirit in him so that when he hears a certain report, he will return to his own country, and there I will have him cut down with the sword.'"", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Now Sennacherib received a report that Tirhakah, the Cushite king of Egypt, was marching out to fight against him. When he heard it, he sent messengers to Hezekiah with this word:", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:10, Page:1, Kor:"", Chn:"", Eng:""Say to Hezekiah king of Judah: Do not let the god you depend on deceive you when he says, 'Jerusalem will not be handed over to the king of Assyria.'", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Surely you have heard what the kings of Assyria have done to all the countries, destroying them completely. And will you be delivered?", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Did the gods of the nations that were destroyed by my forefathers deliver them--the gods of Gozan, Haran, Rezeph and the people of Eden who were in Tel Assar?", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Where is the king of Hamath, the king of Arpad, the king of the city of Sepharvaim, or of Hena or Ivvah?"", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Hezekiah received the letter from the messengers and read it. Then he went up to the temple of the LORD and spread it out before the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:15, Page:1, Kor:"", Chn:"", Eng:"And Hezekiah prayed to the LORD:", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:16, Page:1, Kor:"", Chn:"", Eng:""O LORD Almighty, God of Israel, enthroned between the cherubim, you alone are God over all the kingdoms of the earth. You have made heaven and earth.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Give ear, O LORD, and hear; open your eyes, O LORD, and see; listen to all the words Sennacherib has sent to insult the living God.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:18, Page:1, Kor:"", Chn:"", Eng:""It is true, O LORD, that the Assyrian kings have laid waste all these peoples and their lands.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by human hands.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth may know that you alone, O LORD, are God."", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Then Isaiah son of Amoz sent a message to Hezekiah: "This is what the LORD, the God of Israel, says: Because you have prayed to me concerning Sennacherib king of Assyria,", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:22, Page:1, Kor:"", Chn:"", Eng:"this is the word the LORD has spoken against him: "The Virgin Daughter of Zion despises and mocks you. The Daughter of Jerusalem tosses her head as you flee.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Who is it you have insulted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:24, Page:1, Kor:"", Chn:"", Eng:"By your messengers you have heaped insults on the Lord. And you have said, 'With my many chariots I have ascended the heights of the mountains, the utmost heights of Lebanon. I have cut down its tallest cedars, the choicest of its pines. I have reached its remotest heights, the finest of its forests.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I have dug wells in foreign lands and drunk the water there. With the soles of my feet I have dried up all the streams of Egypt.'", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Have you not heard? Long ago I ordained it. In days of old I planned it; now I have brought it to pass, that you have turned fortified cities into piles of stone.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Their people, drained of power, are dismayed and put to shame. They are like plants in the field, like tender green shoots, like grass sprouting on the roof, scorched before it grows up.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:28, Page:1, Kor:"", Chn:"", Eng:""But I know where you stay and when you come and go and how you rage against me.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Because you rage against me and because your insolence has reached my ears, I will put my hook in your nose and my bit in your mouth, and I will make you return by the way you came.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:30, Page:1, Kor:"", Chn:"", Eng:""This will be the sign for you, O Hezekiah: "This year you will eat what grows by itself, and the second year what springs from that. But in the third year sow and reap, plant vineyards and eat their fruit.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Once more a remnant of the house of Judah will take root below and bear fruit above.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:32, Page:1, Kor:"", Chn:"", Eng:"For out of Jerusalem will come a remnant, and out of Mount Zion a band of survivors. The zeal of the LORD Almighty will accomplish this.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:33, Page:1, Kor:"", Chn:"", Eng:""Therefore this is what the LORD says concerning the king of Assyria: "He will not enter this city or shoot an arrow here. He will not come before it with shield or build a siege ramp against it.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:34, Page:1, Kor:"", Chn:"", Eng:"By the way that he came he will return; he will not enter this city," declares the LORD.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:35, Page:1, Kor:"", Chn:"", Eng:""I will defend this city and save it, for my sake and for the sake of David my servant!"", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Then the angel of the LORD went out and put to death a hundred and eighty-five thousand men in the Assyrian camp. When the people got up the next morning--there were all the dead bodies!", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:37, Page:1, Kor:"", Chn:"", Eng:"So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there.", Ind:""},
+  {Bible:"Isaiah", Chapter:37, Verse:38, Page:1, Kor:"", Chn:"", Eng:"One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.", Ind:""},
 ]);

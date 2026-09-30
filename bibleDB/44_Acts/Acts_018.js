@@ -1,6 +1,33 @@
 // 사도행전 18장 · Acts 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",18,28);
 BibleDB.add([
+  {Bible:"Acts", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After this, Paul left Athens and went to Corinth.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all the Jews to leave Rome. Paul went to see them,", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and because he was a tentmaker as they were, he stayed and worked with them.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Christ.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when the Jews opposed Paul and became abusive, he shook out his clothes in protest and said to them, "Your blood be on your own heads! I am clear of my responsibility. From now on I will go to the Gentiles."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Crispus, the synagogue ruler, and his entire household believed in the Lord; and many of the Corinthians who heard him believed and were baptized.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"One night the Lord spoke to Paul in a vision: "Do not be afraid; keep on speaking, do not be silent.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For I am with you, and no one is going to attack and harm you, because I have many people in this city."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"So Paul stayed for a year and a half, teaching them the word of God.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"While Gallio was proconsul of Achaia, the Jews made a united attack on Paul and brought him into court.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:""This man," they charged, "is persuading the people to worship God in ways contrary to the law."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Just as Paul was about to speak, Gallio said to the Jews, "If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But since it involves questions about words and names and your own law--settle the matter yourselves. I will not be a judge of such things."", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So he had them ejected from the court.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then they all turned on Sosthenes the synagogue ruler and beat him in front of the court. But Gallio showed no concern whatever.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Paul stayed on in Corinth for some time. Then he left the brothers and sailed for Syria, accompanied by Priscilla and Aquila. Before he sailed, he had his hair cut off at Cenchrea because of a vow he had taken.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They arrived at Ephesus, where Paul left Priscilla and Aquila. He himself went into the synagogue and reasoned with the Jews.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"When they asked him to spend more time with them, he declined.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But as he left, he promised, "I will come back if it is God's will." Then he set sail from Ephesus.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When he landed at Caesarea, he went up and greeted the church and then went down to Antioch.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"After spending some time in Antioch, Paul set out from there and traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He had been instructed in the way of the Lord, and he spoke with great fervor and taught about Jesus accurately, though he knew only the baptism of John.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"When Apollos wanted to go to Achaia, the brothers encouraged him and wrote to the disciples there to welcome him. On arriving, he was a great help to those who by grace had believed.", Ind:""},
+  {Bible:"Acts", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"For he vigorously refuted the Jews in public debate, proving from the Scriptures that Jesus was the Christ.", Ind:""},
 ]);

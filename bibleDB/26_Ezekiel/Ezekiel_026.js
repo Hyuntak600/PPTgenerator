@@ -1,6 +1,26 @@
 // 에스겔 26장 · Ezekiel 26
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",26,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",26,21);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:26, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the eleventh year, on the first day of the month, the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, because Tyre has said of Jerusalem, 'Aha! The gate to the nations is broken, and its doors have swung open to me; now that she lies in ruins I will prosper,'", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:3, Page:1, Kor:"", Chn:"", Eng:"therefore this is what the Sovereign LORD says: I am against you, O Tyre, and I will bring many nations against you, like the sea casting up its waves.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They will destroy the walls of Tyre and pull down her towers; I will scrape away her rubble and make her a bare rock.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Out in the sea she will become a place to spread fishnets, for I have spoken, declares the Sovereign LORD. She will become plunder for the nations,", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and her settlements on the mainland will be ravaged by the sword. Then they will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:7, Page:1, Kor:"", Chn:"", Eng:""For this is what the Sovereign LORD says: From the north I am going to bring against Tyre Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with horsemen and a great army.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He will ravage your settlements on the mainland with the sword; he will set up siege works against you, build a ramp up to your walls and raise his shields against you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He will direct the blows of his battering rams against your walls and demolish your towers with his weapons.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:10, Page:1, Kor:"", Chn:"", Eng:"His horses will be so many that they will cover you with dust. Your walls will tremble at the noise of the war horses, wagons and chariots when he enters your gates as men enter a city whose walls have been broken through.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The hoofs of his horses will trample all your streets; he will kill your people with the sword, and your strong pillars will fall to the ground.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They will plunder your wealth and loot your merchandise; they will break down your walls and demolish your fine houses and throw your stones, timber and rubble into the sea.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:13, Page:1, Kor:"", Chn:"", Eng:"I will put an end to your noisy songs, and the music of your harps will be heard no more.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I the LORD have spoken, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:15, Page:1, Kor:"", Chn:"", Eng:""This is what the Sovereign LORD says to Tyre: Will not the coastlands tremble at the sound of your fall, when the wounded groan and the slaughter takes place in you?", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then all the princes of the coast will step down from their thrones and lay aside their robes and take off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled at you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then they will take up a lament concerning you and say to you: "'How you are destroyed, O city of renown, peopled by men of the sea! You were a power on the seas, you and your citizens; you put your terror on all who lived there.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Now the coastlands tremble on the day of your fall; the islands in the sea are terrified at your collapse.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:19, Page:1, Kor:"", Chn:"", Eng:""This is what the Sovereign LORD says: When I make you a desolate city, like cities no longer inhabited, and when I bring the ocean depths over you and its vast waters cover you,", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:20, Page:1, Kor:"", Chn:"", Eng:"then I will bring you down with those who go down to the pit, to the people of long ago. I will make you dwell in the earth below, as in ancient ruins, with those who go down to the pit, and you will not return or take your place in the land of the living.", Ind:""},
+  {Bible:"Ezekiel", Chapter:26, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign LORD."", Ind:""},
 ]);

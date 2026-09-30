@@ -1,6 +1,32 @@
 // 아모스 5장 · Amos 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Amos",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Amos",5,27);
 BibleDB.add([
+  {Bible:"Amos", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Hear this word, O house of Israel, this lament I take up concerning you:", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Fallen is Virgin Israel, never to rise again, deserted in her own land, with no one to lift her up."", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:"This is what the Sovereign LORD says: "The city that marches out a thousand strong for Israel will have only a hundred left; the town that marches out a hundred strong will have only ten left."", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says to the house of Israel: "Seek me and live;", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:"do not seek Bethel, do not go to Gilgal, do not journey to Beersheba. For Gilgal will surely go into exile, and Bethel will be reduced to nothing."", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Seek the LORD and live, or he will sweep through the house of Joseph like a fire; it will devour, and Bethel will have no one to quench it.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You who turn justice into bitterness and cast righteousness to the ground", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"(he who made the Pleiades and Orion, who turns blackness into dawn and darkens day into night, who calls for the waters of the sea and pours them out over the face of the land--the LORD is his name--", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"he flashes destruction on the stronghold and brings the fortified city to ruin),", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"you hate the one who reproves in court and despise him who tells the truth.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:"You trample on the poor and force him to give you grain. Therefore, though you have built stone mansions, you will not live in them; though you have planted lush vineyards, you will not drink their wine.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"For I know how many are your offenses and how great your sins. You oppress the righteous and take bribes and you deprive the poor of justice in the courts.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Therefore the prudent man keeps quiet in such times, for the times are evil.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Seek good, not evil, that you may live. Then the LORD God Almighty will be with you, just as you say he is.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Hate evil, love good; maintain justice in the courts. Perhaps the LORD God Almighty will have mercy on the remnant of Joseph.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the Lord, the LORD God Almighty, says: "There will be wailing in all the streets and cries of anguish in every public square. The farmers will be summoned to weep and the mourners to wail.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:"There will be wailing in all the vineyards, for I will pass through your midst," says the LORD.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Woe to you who long for the day of the LORD! Why do you long for the day of the LORD? That day will be darkness, not light.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It will be as though a man fled from a lion only to meet a bear, as though he entered his house and rested his hand on the wall only to have a snake bite him.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Will not the day of the LORD be darkness, not light--pitch-dark, without a ray of brightness?", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:21, Page:1, Kor:"", Chn:"", Eng:""I hate, I despise your religious feasts; I cannot stand your assemblies.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Even though you bring me burnt offerings and grain offerings, I will not accept them. Though you bring choice fellowship offerings, I will have no regard for them.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Away with the noise of your songs! I will not listen to the music of your harps.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But let justice roll on like a river, righteousness like a never-failing stream!", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Did you bring me sacrifices and offerings forty years in the desert, O house of Israel?", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:26, Page:1, Kor:"", Chn:"", Eng:"You have lifted up the shrine of your king, the pedestal of your idols, the star of your god--which you made for yourselves.", Ind:""},
+  {Bible:"Amos", Chapter:5, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Therefore I will send you into exile beyond Damascus," says the LORD, whose name is God Almighty.", Ind:""},
 ]);

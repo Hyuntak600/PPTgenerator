@@ -1,6 +1,42 @@
 // 레위기 19장 · Leviticus 19
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",19,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",19,37);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:19, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Speak to the entire assembly of Israel and say to them: 'Be holy because I, the LORD your God, am holy.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:3, Page:1, Kor:"", Chn:"", Eng:""'Each of you must respect his mother and father, and you must observe my Sabbaths. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:4, Page:1, Kor:"", Chn:"", Eng:""'Do not turn to idols or make gods of cast metal for yourselves. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:5, Page:1, Kor:"", Chn:"", Eng:""'When you sacrifice a fellowship offering to the LORD, sacrifice it in such a way that it will be accepted on your behalf.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:6, Page:1, Kor:"", Chn:"", Eng:"It shall be eaten on the day you sacrifice it or on the next day; anything left over until the third day must be burned up.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:7, Page:1, Kor:"", Chn:"", Eng:"If any of it is eaten on the third day, it is impure and will not be accepted.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Whoever eats it will be held responsible because he has desecrated what is holy to the LORD; that person must be cut off from his people.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not go over your vineyard a second time or pick up the grapes that have fallen. Leave them for the poor and the alien. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'Do not steal. "'Do not lie. "'Do not deceive one another.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'Do not swear falsely by my name and so profane the name of your God. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Do not defraud your neighbor or rob him. "'Do not hold back the wages of a hired man overnight.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:15, Page:1, Kor:"", Chn:"", Eng:""'Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'Do not go about spreading slander among your people. "'Do not do anything that endangers your neighbor's life. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'Do not hate your brother in your heart. Rebuke your neighbor frankly so you will not share in his guilt.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:18, Page:1, Kor:"", Chn:"", Eng:""'Do not seek revenge or bear a grudge against one of your people, but love your neighbor as yourself. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:19, Page:1, Kor:"", Chn:"", Eng:""'Keep my decrees. "'Do not mate different kinds of animals. "'Do not plant your field with two kinds of seed. "'Do not wear clothing woven of two kinds of material.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'If a man sleeps with a woman who is a slave girl promised to another man but who has not been ransomed or given her freedom, there must be due punishment. Yet they are not to be put to death, because she had not been freed.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The man, however, must bring a ram to the entrance to the Tent of Meeting for a guilt offering to the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:22, Page:1, Kor:"", Chn:"", Eng:"With the ram of the guilt offering the priest is to make atonement for him before the LORD for the sin he has committed, and his sin will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:23, Page:1, Kor:"", Chn:"", Eng:""'When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:24, Page:1, Kor:"", Chn:"", Eng:"In the fourth year all its fruit will be holy, an offering of praise to the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But in the fifth year you may eat its fruit. In this way your harvest will be increased. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:26, Page:1, Kor:"", Chn:"", Eng:""'Do not eat any meat with the blood still in it. "'Do not practice divination or sorcery.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:27, Page:1, Kor:"", Chn:"", Eng:""'Do not cut the hair at the sides of your head or clip off the edges of your beard.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:28, Page:1, Kor:"", Chn:"", Eng:""'Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:29, Page:1, Kor:"", Chn:"", Eng:""'Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:30, Page:1, Kor:"", Chn:"", Eng:""'Observe my Sabbaths and have reverence for my sanctuary. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:31, Page:1, Kor:"", Chn:"", Eng:""'Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:32, Page:1, Kor:"", Chn:"", Eng:""'Rise in the presence of the aged, show respect for the elderly and revere your God. I am the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:33, Page:1, Kor:"", Chn:"", Eng:""'When an alien lives with you in your land, do not mistreat him.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:34, Page:1, Kor:"", Chn:"", Eng:"The alien living with you must be treated as one of your native-born. Love him as yourself, for you were aliens in Egypt. I am the LORD your God.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:35, Page:1, Kor:"", Chn:"", Eng:""'Do not use dishonest standards when measuring length, weight or quantity.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Use honest scales and honest weights, an honest ephah and an honest hin. I am the LORD your God, who brought you out of Egypt.", Ind:""},
+  {Bible:"Leviticus", Chapter:19, Verse:37, Page:1, Kor:"", Chn:"", Eng:""'Keep all my decrees and all my laws and follow them. I am the LORD.'"", Ind:""},
 ]);

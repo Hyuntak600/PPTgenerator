@@ -1,6 +1,24 @@
 // 레위기 5장 · Leviticus 5
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",5,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",5,19);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:5, Verse:1, Page:1, Kor:"", Chn:"", Eng:""'If a person sins because he does not speak up when he hears a public charge to testify regarding something he has seen or learned about, he will be held responsible.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:2, Page:1, Kor:"", Chn:"", Eng:""'Or if a person touches anything ceremonially unclean--whether the carcasses of unclean wild animals or of unclean livestock or of unclean creatures that move along the ground--even though he is unaware of it, he has become unclean and is guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:3, Page:1, Kor:"", Chn:"", Eng:""'Or if he touches human uncleanness--anything that would make him unclean--even though he is unaware of it, when he learns of it he will be guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:4, Page:1, Kor:"", Chn:"", Eng:""'Or if a person thoughtlessly takes an oath to do anything, whether good or evil--in any matter one might carelessly swear about--even though he is unaware of it, in any case when he learns of it he will be guilty.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:5, Page:1, Kor:"", Chn:"", Eng:""'When anyone is guilty in any of these ways, he must confess in what way he has sinned", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:6, Page:1, Kor:"", Chn:"", Eng:"and, as a penalty for the sin he has committed, he must bring to the LORD a female lamb or goat from the flock as a sin offering; and the priest shall make atonement for him for his sin.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'If he cannot afford a lamb, he is to bring two doves or two young pigeons to the LORD as a penalty for his sin--one for a sin offering and the other for a burnt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He is to bring them to the priest, who shall first offer the one for the sin offering. He is to wring its head from its neck, not severing it completely,", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and is to sprinkle some of the blood of the sin offering against the side of the altar; the rest of the blood must be drained out at the base of the altar. It is a sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The priest shall then offer the other as a burnt offering in the prescribed way and make atonement for him for the sin he has committed, and he will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'If, however, he cannot afford two doves or two young pigeons, he is to bring as an offering for his sin a tenth of an ephah of fine flour for a sin offering. He must not put oil or incense on it, because it is a sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He is to bring it to the priest, who shall take a handful of it as a memorial portion and burn it on the altar on top of the offerings made to the LORD by fire. It is a sin offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:13, Page:1, Kor:"", Chn:"", Eng:"In this way the priest will make atonement for him for any of these sins he has committed, and he will be forgiven. The rest of the offering will belong to the priest, as in the case of the grain offering.'"", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses:", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:15, Page:1, Kor:"", Chn:"", Eng:""When a person commits a violation and sins unintentionally in regard to any of the LORD'S holy things, he is to bring to the LORD as a penalty a ram from the flock, one without defect and of the proper value in silver, according to the sanctuary shekel. It is a guilt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:16, Page:1, Kor:"", Chn:"", Eng:"He must make restitution for what he has failed to do in regard to the holy things, add a fifth of the value to that and give it all to the priest, who will make atonement for him with the ram as a guilt offering, and he will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:17, Page:1, Kor:"", Chn:"", Eng:""If a person sins and does what is forbidden in any of the LORD'S commands, even though he does not know it, he is guilty and will be held responsible.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He is to bring to the priest as a guilt offering a ram from the flock, one without defect and of the proper value. In this way the priest will make atonement for him for the wrong he has committed unintentionally, and he will be forgiven.", Ind:""},
+  {Bible:"Leviticus", Chapter:5, Verse:19, Page:1, Kor:"", Chn:"", Eng:"It is a guilt offering; he has been guilty of wrongdoing against the LORD."", Ind:""},
 ]);

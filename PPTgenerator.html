@@ -846,7 +846,6 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
     </ul>
 
     <div class="patch-actions">
-      <label><input type="checkbox" id="welHideChk"> 다음부터 처음에 자동으로 열지 않기</label>
       <button class="patch-close-btn" id="patchCloseBtn">시작하기</button>
     </div>
   </div>
@@ -1173,33 +1172,20 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 // 패치 노트 모달: 처음 열 때(또는 "다시 보지 않기"를 체크하지 않은 경우) 자동으로 표시
 // ---------------------------------------------------------------------
 (function initPatchNotes() {
-  // 처음 화면(시작 안내): 열 때마다 자동으로 뜨고, "다음부터 열지 않기"를 체크하면 이 버전에서는 자동으로 안 뜸
-  const PATCH_VERSION = "2026-09-29-welcome";
-  const STORAGE_KEY = "subtitleTool_welcomeHidden";
   const overlay = document.getElementById("patchOverlay");
   const closeBtn = document.getElementById("patchCloseBtn");
   const reopenBtn = document.getElementById("patchReopenBtn");
-  const hideChk = document.getElementById("welHideChk");
 
   function openModal() {
     overlay.classList.add("open");
   }
   function closeModal() {
     overlay.classList.remove("open");
-    try {
-      if (hideChk.checked) localStorage.setItem(STORAGE_KEY, PATCH_VERSION);
-      else localStorage.removeItem(STORAGE_KEY);
-    } catch (e) { /* 저장 불가 환경은 무시 */ }
   }
 
   closeBtn.addEventListener("click", closeModal);
   reopenBtn.addEventListener("click", openModal);
   overlay.addEventListener("click", e => { if (e.target === overlay) closeModal(); });
-
-  let hidden = null;
-  try { hidden = localStorage.getItem(STORAGE_KEY); } catch (e) { /* 무시 */ }
-  hideChk.checked = hidden === PATCH_VERSION;
-  if (!hideChk.checked) openModal();
 })();
 
 // ---------------------------------------------------------------------

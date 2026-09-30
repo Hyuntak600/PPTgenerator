@@ -1,6 +1,43 @@
 // 출애굽기 30장 · Exodus 30
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",30,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",30,38);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:30, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Make an altar of acacia wood for burning incense.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:2, Page:1, Kor:"", Chn:"", Eng:"It is to be square, a cubit long and a cubit wide, and two cubits high--its horns of one piece with it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Overlay the top and all the sides and the horns with pure gold, and make a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Make two gold rings for the altar below the molding--two on opposite sides--to hold the poles used to carry it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Make the poles of acacia wood and overlay them with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Put the altar in front of the curtain that is before the ark of the Testimony--before the atonement cover that is over the Testimony--where I will meet with you.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Aaron must burn fragrant incense on the altar every morning when he tends the lamps.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He must burn incense again when he lights the lamps at twilight so incense will burn regularly before the LORD for the generations to come.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the LORD."", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:12, Page:1, Kor:"", Chn:"", Eng:""When you take a census of the Israelites to count them, each one must pay the LORD a ransom for his life at the time he is counted. Then no plague will come on them when you number them.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Each one who crosses over to those already counted is to give a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:14, Page:1, Kor:"", Chn:"", Eng:"All who cross over, those twenty years old or more, are to give an offering to the LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The rich are not to give more than a half shekel and the poor are not to give less when you make the offering to the LORD to atone for your lives.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Receive the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will be a memorial for the Israelites before the LORD, making atonement for your lives."", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Make a bronze basin, with its bronze stand, for washing. Place it between the Tent of Meeting and the altar, and put water in it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Aaron and his sons are to wash their hands and feet with water from it.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Whenever they enter the Tent of Meeting, they shall wash with water so that they will not die. Also, when they approach the altar to minister by presenting an offering made to the LORD by fire,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:21, Page:1, Kor:"", Chn:"", Eng:"they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come."", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Take the following fine spices: 500 shekels of liquid myrrh, half as much (that is, 250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:24, Page:1, Kor:"", Chn:"", Eng:"500 shekels of cassia--all according to the sanctuary shekel--and a hin of olive oil.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be the sacred anointing oil.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Then use it to anoint the Tent of Meeting, the ark of the Testimony,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:27, Page:1, Kor:"", Chn:"", Eng:"the table and all its articles, the lampstand and its accessories, the altar of incense,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:28, Page:1, Kor:"", Chn:"", Eng:"the altar of burnt offering and all its utensils, and the basin with its stand.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:29, Page:1, Kor:"", Chn:"", Eng:"You shall consecrate them so they will be most holy, and whatever touches them will be holy.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:30, Page:1, Kor:"", Chn:"", Eng:""Anoint Aaron and his sons and consecrate them so they may serve me as priests.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Say to the Israelites, 'This is to be my sacred anointing oil for the generations to come.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Do not pour it on men's bodies and do not make any oil with the same formula. It is sacred, and you are to consider it sacred.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Whoever makes perfume like it and whoever puts it on anyone other than a priest must be cut off from his people.'"", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Take fragrant spices--gum resin, onycha and galbanum--and pure frankincense, all in equal amounts,", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:35, Page:1, Kor:"", Chn:"", Eng:"and make a fragrant blend of incense, the work of a perfumer. It is to be salted and pure and sacred.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Grind some of it to powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Do not make any incense with this formula for yourselves; consider it holy to the LORD.", Ind:""},
+  {Bible:"Exodus", Chapter:30, Verse:38, Page:1, Kor:"", Chn:"", Eng:"Whoever makes any like it to enjoy its fragrance must be cut off from his people."", Ind:""},
 ]);

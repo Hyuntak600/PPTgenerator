@@ -1,6 +1,38 @@
 // 요한복음 16장 · John 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("John",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("John",16,33);
 BibleDB.add([
+  {Bible:"John", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:""All this I have told you so that you will not go astray.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"They will put you out of the synagogue; in fact, a time is coming when anyone who kills you will think he is offering a service to God.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They will do such things because they have not known the Father or me.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"I have told you this, so that when the time comes you will remember that I warned you. I did not tell you this at first because I was with you.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Now I am going to him who sent me, yet none of you asks me, 'Where are you going?'", Ind:""},
+  {Bible:"John", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Because I have said these things, you are filled with grief.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"But I tell you the truth: It is for your good that I am going away. Unless I go away, the Counselor will not come to you; but if I go, I will send him to you.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When he comes, he will convict the world of guilt in regard to sin and righteousness and judgment:", Ind:""},
+  {Bible:"John", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"in regard to sin, because men do not believe in me;", Ind:""},
+  {Bible:"John", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"in regard to righteousness, because I am going to the Father, where you can see me no longer;", Ind:""},
+  {Bible:"John", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and in regard to judgment, because the prince of this world now stands condemned.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:""I have much more to say to you, more than you can now bear.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He will bring glory to me by taking from what is mine and making it known to you.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"All that belongs to the Father is mine. That is why I said the Spirit will take from what is mine and make it known to you.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:""In a little while you will see me no more, and then after a little while you will see me."", Ind:""},
+  {Bible:"John", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Some of his disciples said to one another, "What does he mean by saying, 'In a little while you will see me no more, and then after a little while you will see me,' and 'Because I am going to the Father'?"", Ind:""},
+  {Bible:"John", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They kept asking, "What does he mean by 'a little while'? We don't understand what he is saying."", Ind:""},
+  {Bible:"John", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Jesus saw that they wanted to ask him about this, so he said to them, "Are you asking one another what I meant when I said, 'In a little while you will see me no more, and then after a little while you will see me'?", Ind:""},
+  {Bible:"John", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I tell you the truth, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"In that day you will no longer ask me anything. I tell you the truth, my Father will give you whatever you ask in my name.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be complete.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"In that day you will ask in my name. I am not saying that I will ask the Father on your behalf.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"No, the Father himself loves you because you have loved me and have believed that I came from God.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"I came from the Father and entered the world; now I am leaving the world and going back to the Father."", Ind:""},
+  {Bible:"John", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Then Jesus' disciples said, "Now you are speaking clearly and without figures of speech.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Now we can see that you know all things and that you do not even need to have anyone ask you questions. This makes us believe that you came from God."", Ind:""},
+  {Bible:"John", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:""You believe at last!" Jesus answered.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:""But a time is coming, and has come, when you will be scattered, each to his own home. You will leave me all alone. Yet I am not alone, for my Father is with me.", Ind:""},
+  {Bible:"John", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:""I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."", Ind:""},
 ]);

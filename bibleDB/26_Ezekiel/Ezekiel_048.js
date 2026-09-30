@@ -1,6 +1,39 @@
 // 에스겔 48장 · Ezekiel 48
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",48,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",48,34);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:48, Verse:1, Page:1, Kor:"", Chn:"", Eng:""These are the tribes, listed by name: At the northern frontier, Dan will have one portion; it will follow the Hethlon road to Lebo Hamath; Hazar Enan and the northern border of Damascus next to Hamath will be part of its border from the east side to the west side.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Asher will have one portion; it will border the territory of Dan from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Naphtali will have one portion; it will border the territory of Asher from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Manasseh will have one portion; it will border the territory of Japhtali from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:5, Page:1, Kor:"", Chn:"", Eng:""Ephraim will have one portion; it will border the territory of Manasseh from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Reuben will have one portion; it will border the territory of Ephraim from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Judah will have one portion; it will border the territory of Reuben from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:8, Page:1, Kor:"", Chn:"", Eng:""Bordering the territory of Judah from east to west will be the portion you are to present as a special gift. It will be 25,000 cubits wide, and its length from east to west will equal one of the tribal portions; the sanctuary will be in the center of it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:9, Page:1, Kor:"", Chn:"", Eng:""The special portion you are to offer to the LORD will be 25,000 cubits long and 10,000 cubits wide.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This will be the sacred portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side and 25,000 cubits long on the south side. In the center of it will be the sanctuary of the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:11, Page:1, Kor:"", Chn:"", Eng:"This will be for the consecrated priests, the Zadokites, who were faithful in serving me and did not go astray as the Levites did when the Israelites went astray.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It will be a special gift to them from the sacred portion of the land, a most holy portion, bordering the territory of the Levites.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:13, Page:1, Kor:"", Chn:"", Eng:""Alongside the territory of the priests, the Levites will have an allotment 25,000 cubits long and 10,000 cubits wide. Its total length will be 25,000 cubits and its width 10,000 cubits.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They must not sell or exchange any of it. This is the best of the land and must not pass into other hands, because it is holy to the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:15, Page:1, Kor:"", Chn:"", Eng:""The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for the common use of the city, for houses and for pastureland. The city will be in the center of it", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:16, Page:1, Kor:"", Chn:"", Eng:"and will have these measurements: the north side 4,500 cubits, the south side 4,500 cubits, the east side 4,500 cubits, and the west side 4,500 cubits.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The pastureland for the city will be 250 cubits on the north, 250 cubits on the south, 250 cubits on the east, and 250 cubits on the west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:18, Page:1, Kor:"", Chn:"", Eng:"What remains of the area, bordering on the sacred portion and running the length of it, will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The workers from the city who farm it will come from all the tribes of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The entire portion will be a square, 25,000 cubits on each side. As a special gift you will set aside the sacred portion, along with the property of the city.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:21, Page:1, Kor:"", Chn:"", Eng:""What remains on both sides of the area formed by the sacred portion and the city property will belong to the prince. It will extend eastward from the 25,000 cubits of the sacred portion to the eastern border, and westward from the 25,000 cubits to the western border. Both these areas running the length of the tribal portions will belong to the prince, and the sacred portion with the temple sanctuary will be in the center of them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:22, Page:1, Kor:"", Chn:"", Eng:"So the property of the Levites and the property of the city will lie in the center of the area that belongs to the prince. The area belonging to the prince will lie between the border of Judah and the border of Benjamin.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:23, Page:1, Kor:"", Chn:"", Eng:""As for the rest of the tribes: Benjamin will have one portion; it will extend from the east side to the west side.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Simeon will have one portion; it will border the territory of Benjamin from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Issachar will have one portion; it will border the territory of Simeon from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:26, Page:1, Kor:"", Chn:"", Eng:""Zebulun will have one portion; it will border the territory of Issachar from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Gad will have one portion; it will border the territory of Zebulun from east to west.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:28, Page:1, Kor:"", Chn:"", Eng:""The southern boundary of Gad will run south from Tamar to the waters of Meribah Kadesh, then along the Wadi of Egypt to the Great Sea.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:29, Page:1, Kor:"", Chn:"", Eng:""This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions," declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:30, Page:1, Kor:"", Chn:"", Eng:""These will be the exits of the city: Beginning on the north side, which is 4,500 cubits long,", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:31, Page:1, Kor:"", Chn:"", Eng:"the gates of the city will be named after the tribes of Israel. The three gates on the north side will be the gate of Reuben, the gate of Judah and the gate of Levi.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:32, Page:1, Kor:"", Chn:"", Eng:""On the east side, which is 4,500 cubits long, will be three gates: the gate of Joseph, the gate of Benjamin and the gate of Dan.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:33, Page:1, Kor:"", Chn:"", Eng:""On the south side, which measures 4,500 cubits, will be three gates: the gate of Simeon, the gate of Issachar and the gate of Zebulun.", Ind:""},
+  {Bible:"Ezekiel", Chapter:48, Verse:34, Page:1, Kor:"", Chn:"", Eng:""On the west side, which is 4,500 cubits long, will be three gates: the gate of Gad, the gate of Asher and the gate of Naphtali.", Ind:""},
 ]);

@@ -1,6 +1,36 @@
 // 이사야 40장 · Isaiah 40
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Isaiah",40,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Isaiah",40,31);
 BibleDB.add([
+  {Bible:"Isaiah", Chapter:40, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Comfort, comfort my people, says your God.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Speak tenderly to Jerusalem, and proclaim to her that her hard service has been completed, that her sin has been paid for, that she has received from the LORD'S hand double for all her sins.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A voice of one calling: "In the desert prepare the way for the LORD; make straight in the wilderness a highway for our God.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Every valley shall be raised up, every mountain and hill made low; the rough ground shall become level, the rugged places a plain.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And the glory of the LORD will be revealed, and all mankind together will see it. For the mouth of the LORD has spoken."", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:6, Page:1, Kor:"", Chn:"", Eng:"A voice says, "Cry out." And I said, "What shall I cry?" "All men are like grass, and all their glory is like the flowers of the field.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:7, Page:1, Kor:"", Chn:"", Eng:"The grass withers and the flowers fall, because the breath of the LORD blows on them. Surely the people are grass.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The grass withers and the flowers fall, but the word of our God stands forever."", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You who bring good tidings to Zion, go up on a high mountain. You who bring good tidings to Jerusalem, lift up your voice with a shout, lift it up, do not be afraid; say to the towns of Judah, "Here is your God!"", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:10, Page:1, Kor:"", Chn:"", Eng:"See, the Sovereign LORD comes with power, and his arm rules for him. See, his reward is with him, and his recompense accompanies him.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He tends his flock like a shepherd: He gathers the lambs in his arms and carries them close to his heart; he gently leads those that have young.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Who has measured the waters in the hollow of his hand, or with the breadth of his hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Who has understood the mind of the LORD, or instructed him as his counselor?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Whom did the LORD consult to enlighten him, and who taught him the right way? Who was it that taught him knowledge or showed him the path of understanding?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Surely the nations are like a drop in a bucket; they are regarded as dust on the scales; he weighs the islands as though they were fine dust.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Lebanon is not sufficient for altar fires, nor its animals enough for burnt offerings.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Before him all the nations are as nothing; they are regarded by him as worthless and less than nothing.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:18, Page:1, Kor:"", Chn:"", Eng:"To whom, then, will you compare God? What image will you compare him to?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As for an idol, a craftsman casts it, and a goldsmith overlays it with gold and fashions silver chains for it.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:20, Page:1, Kor:"", Chn:"", Eng:"A man too poor to present such an offering selects wood that will not rot. He looks for a skilled craftsman to set up an idol that will not topple.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Do you not know? Have you not heard? Has it not been told you from the beginning? Have you not understood since the earth was founded?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:22, Page:1, Kor:"", Chn:"", Eng:"He sits enthroned above the circle of the earth, and its people are like grasshoppers. He stretches out the heavens like a canopy, and spreads them out like a tent to live in.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He brings princes to naught and reduces the rulers of this world to nothing.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:24, Page:1, Kor:"", Chn:"", Eng:"No sooner are they planted, no sooner are they sown, no sooner do they take root in the ground, than he blows on them and they wither, and a whirlwind sweeps them away like chaff.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:25, Page:1, Kor:"", Chn:"", Eng:""To whom will you compare me? Or who is my equal?" says the Holy One.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Lift your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one, and calls them each by name. Because of his great power and mighty strength, not one of them is missing.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Why do you say, O Jacob, and complain, O Israel, "My way is hidden from the LORD; my cause is disregarded by my God"?", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He gives strength to the weary and increases the power of the weak.", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Even youths grow tired and weary, and young men stumble and fall;", Ind:""},
+  {Bible:"Isaiah", Chapter:40, Verse:31, Page:1, Kor:"", Chn:"", Eng:"but those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. ISA", Ind:""},
 ]);

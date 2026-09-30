@@ -1,6 +1,39 @@
 // 마태복음 8장 · Matthew 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Matthew",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Matthew",8,34);
 BibleDB.add([
+  {Bible:"Matthew", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When he came down from the mountainside, large crowds followed him.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:"A man with leprosy came and knelt before him and said, "Lord, if you are willing, you can make me clean."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Jesus reached out his hand and touched the man. "I am willing," he said. "Be clean!" Immediately he was cured of his leprosy.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then Jesus said to him, "See that you don't tell anyone. But go, show yourself to the priest and offer the gift Moses commanded, as a testimony to them."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When Jesus had entered Capernaum, a centurion came to him, asking for help.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Lord," he said, "my servant lies at home paralyzed and in terrible suffering."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Jesus said to him, "I will go and heal him."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The centurion replied, "Lord, I do not deserve to have you come under my roof. But just say the word, and my servant will be healed.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"For I myself am a man under authority, with soldiers under me. I tell this one, 'Go,' and he goes; and that one, 'Come,' and he comes. I say to my servant, 'Do this,' and he does it."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When Jesus heard this, he was astonished and said to those following him, "I tell you the truth, I have not found anyone in Israel with such great faith.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"I say to you that many will come from the east and the west, and will take their places at the feast with Abraham, Isaac and Jacob in the kingdom of heaven.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then Jesus said to the centurion, "Go! It will be done just as you believed it would." And his servant was healed at that very hour.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When Jesus came into Peter's house, he saw Peter's mother-in-law lying in bed with a fever.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"He touched her hand and the fever left her, and she got up and began to wait on him.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When evening came, many who were demon-possessed were brought to him, and he drove out the spirits with a word and healed all the sick.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"This was to fulfill what was spoken through the prophet Isaiah: "He took up our infirmities and carried our diseases."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When Jesus saw the crowd around him, he gave orders to cross to the other side of the lake.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then a teacher of the law came to him and said, "Teacher, I will follow you wherever you go."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Jesus replied, "Foxes have holes and birds of the air have nests, but the Son of Man has no place to lay his head."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Another disciple said to him, "Lord, first let me go and bury my father."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But Jesus told him, "Follow me, and let the dead bury their own dead."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Then he got into the boat and his disciples followed him.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Without warning, a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The disciples went and woke him, saying, "Lord, save us! We're going to drown!"", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He replied, "You of little faith, why are you so afraid?" Then he got up and rebuked the winds and the waves, and it was completely calm.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The men were amazed and asked, "What kind of man is this? Even the winds and the waves obey him!"", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"When he arrived at the other side in the region of the Gadarenes, two demon-possessed men coming from the tombs met him. They were so violent that no one could pass that way.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:""What do you want with us, Son of God?" they shouted. "Have you come here to torture us before the appointed time?"", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Some distance from them a large herd of pigs was feeding.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"The demons begged Jesus, "If you drive us out, send us into the herd of pigs."", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He said to them, "Go!" So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Those tending the pigs ran off, went into the town and reported all this, including what had happened to the demon-possessed men.", Ind:""},
+  {Bible:"Matthew", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then the whole town went out to meet Jesus. And when they saw him, they pleaded with him to leave their region.", Ind:""},
 ]);

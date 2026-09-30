@@ -1,6 +1,35 @@
 // 예레미야 6장 · Jeremiah 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",6,30);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Flee for safety, people of Benjamin! Flee from Jerusalem! Sound the trumpet in Tekoa! Raise the signal over Beth Hakkerem! For disaster looms out of the north, even terrible destruction.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:"M will destroy the Daughter of Zion, so beautiful and delicate.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Shepherds with their flocks will come against her; they will pitch their tents around her, each tending his own portion."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:""Prepare for battle against her! Arise, let us attack at noon! But, alas, the daylight is fading, and the shadows of evening grow long.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So arise, let us attack at night and destroy her fortresses!"", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD Almighty says: "Cut down the trees and build siege ramps against Jerusalem. This city must be punished; it is filled with oppression.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"As a well pours out its water, so she pours out her wickedness. Violence and destruction resound in her; her sickness and wounds are ever before me.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Take warning, O Jerusalem, or I will turn away from you and make your land desolate so no one can live in it."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD Almighty says: "Let them glean the remnant of Israel as thoroughly as a vine; pass your hand over the branches again, like one gathering grapes."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"To whom can I speak and give warning? Who will listen to me? Their ears are closed so they cannot hear. The word of the LORD is offensive to them; they find no pleasure in it.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"But I am full of the wrath of the LORD, and I cannot hold it in. "Pour it out on the children in the street and on the young men gathered together; both husband and wife will be caught in it, and the old, those weighed down with years.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Their houses will be turned over to others, together with their fields and their wives, when I stretch out my hand against those who live in the land," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:""From the least to the greatest, all are greedy for gain; prophets and priests alike, all practice deceit.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They dress the wound of my people as though it were not serious. 'Peace, peace,' they say, when there is no peace.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Are they ashamed of their loathsome conduct? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; they will be brought down when I punish them," says the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "Stand at the crossroads and look; ask for the ancient paths, ask where the good way is, and walk in it, and you will find rest for your souls. But you said, 'We will not walk in it.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I appointed watchmen over you and said, 'Listen to the sound of the trumpet!' But you said, 'We will not listen.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Therefore hear, O nations; observe, O witnesses, what will happen to them.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Hear, O earth: I am bringing disaster on this people, the fruit of their schemes, because they have not listened to my words and have rejected my law.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"What do I care about incense from Sheba or sweet calamus from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please me."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Therefore this is what the LORD says: "I will put obstacles before this people. Fathers and sons alike will stumble over them; neighbors and friends will perish."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "Look, an army is coming from the land of the north; a great nation is being stirred up from the ends of the earth.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They are armed with bow and spear; they are cruel and show no mercy. They sound like the roaring sea as they ride on their horses; they come like men in battle formation to attack you, O Daughter of Zion."", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"We have heard reports about them, and our hands hang limp. Anguish has gripped us, pain like that of a woman in labor.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not go out to the fields or walk on the roads, for the enemy has a sword, and there is terror on every side.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"O my people, put on sackcloth and roll in ashes; mourn with bitter wailing as for an only son, for suddenly the destroyer will come upon us.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:""I have made you a tester of metals and my people the ore, that you may observe and test their ways.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They are all hardened rebels, going about to slander. They are bronze and iron; they all act corruptly.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The bellows blow fiercely to burn away the lead with fire, but the refining goes on in vain; the wicked are not purged out.", Ind:""},
+  {Bible:"Jeremiah", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"They are called rejected silver, because the LORD has rejected them."", Ind:""},
 ]);

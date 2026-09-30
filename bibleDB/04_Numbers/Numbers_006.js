@@ -1,6 +1,32 @@
 // 민수기 6장 · Numbers 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",6,27);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Speak to the Israelites and say to them: 'If a man or woman wants to make a special vow, a vow of separation to the LORD as a Nazirite,", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"he must abstain from wine and other fermented drink and must not drink vinegar made from wine or from other fermented drink. He must not drink grape juice or eat grapes or raisins.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"As long as he is a Nazirite, he must not eat anything that comes from the grapevine, not even the seeds or skins.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:""'During the entire period of his vow of separation no razor may be used on his head. He must be holy until the period of his separation to the LORD is over; he must let the hair of his head grow long.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Throughout the period of his separation to the LORD he must not go near a dead body.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Even if his own father or mother or brother or sister dies, he must not make himself ceremonially unclean on account of them, because the symbol of his separation to God is on his head.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Throughout the period of his separation he is consecrated to the LORD.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'If someone dies suddenly in his presence, thus defiling the hair he has dedicated, he must shave his head on the day of his cleansing--the seventh day.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then on the eighth day he must bring two doves or two young pigeons to the priest at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The priest is to offer one as a sin offering and the other as a burnt offering to make atonement for him because he sinned by being in the presence of the dead body. That same day he is to consecrate his head.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He must dedicate himself to the LORD for the period of his separation and must bring a year-old male lamb as a guilt offering. The previous days do not count, because he became defiled during his separation.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Now this is the law for the Nazirite when the period of his separation is over. He is to be brought to the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:"There he is to present his offerings to the LORD: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"together with their grain offerings and drink offerings, and a basket of bread made without yeast--cakes made of fine flour mixed with oil, and wafers spread with oil.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'The priest is to present them before the LORD and make the sin offering and the burnt offering.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"He is to present the basket of unleavened bread and is to sacrifice the ram as a fellowship offering to the LORD, together with its grain offering and drink offering.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:""'Then at the entrance to the Tent of Meeting, the Nazirite must shave off the hair that he dedicated. He is to take the hair and put it in the fire that is under the sacrifice of the fellowship offering.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:""'After the Nazirite has shaved off the hair of his dedication, the priest is to place in his hands a boiled shoulder of the ram, and a cake and a wafer from the basket, both made without yeast.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The priest shall then wave them before the LORD as a wave offering; they are holy and belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine.", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:""'This is the law of the Nazirite who vows his offering to the LORD in accordance with his separation, in addition to whatever else he can afford. He must fulfill the vow he has made, according to the law of the Nazirite.'"", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Tell Aaron and his sons, 'This is how you are to bless the Israelites. Say to them:", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:""'"The LORD bless you and keep you;", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:"the LORD make his face shine upon you and be gracious to you;", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"the LORD turn his face toward you and give you peace."'", Ind:""},
+  {Bible:"Numbers", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:""So they will put my name on the Israelites, and I will bless them."", Ind:""},
 ]);

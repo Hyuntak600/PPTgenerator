@@ -1,6 +1,35 @@
 // 신명기 22장 · Deuteronomy 22
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Deuteronomy",22,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Deuteronomy",22,30);
 BibleDB.add([
+  {Bible:"Deuteronomy", Chapter:22, Verse:1, Page:1, Kor:"", Chn:"", Eng:"If you see your brother's ox or sheep straying, do not ignore it but be sure to take it back to him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:2, Page:1, Kor:"", Chn:"", Eng:"If the brother does not live near you or if you do not know who he is, take it home with you and keep it until he comes looking for it. Then give it back to him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do the same if you find your brother's donkey or his cloak or anything he loses. Do not ignore it.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:4, Page:1, Kor:"", Chn:"", Eng:"If you see your brother's donkey or his ox fallen on the road, do not ignore it. Help him get it to its feet.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:5, Page:1, Kor:"", Chn:"", Eng:"A woman must not wear men's clothing, nor a man wear women's clothing, for the LORD your God detests anyone who does this.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:6, Page:1, Kor:"", Chn:"", Eng:"If you come across a bird's nest beside the road, either in a tree or on the ground, and the mother is sitting on the young or on the eggs, do not take the mother with the young.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:7, Page:1, Kor:"", Chn:"", Eng:"You may take the young, but be sure to let the mother go, so that it may go well with you and you may have a long life.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When you build a new house, make a parapet around your roof so that you may not bring the guilt of bloodshed on your house if someone falls from the roof.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Do not plant two kinds of seed in your vineyard; if you do, not only the crops you plant but also the fruit of the vineyard will be defiled.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Do not plow with an ox and a donkey yoked together.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Do not wear clothes of wool and linen woven together.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Make tassels on the four corners of the cloak you wear.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:13, Page:1, Kor:"", Chn:"", Eng:"If a man takes a wife and, after lying with her, dislikes her", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and slanders her and gives her a bad name, saying, "I married this woman, but when I approached her, I did not find proof of her virginity,"", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:15, Page:1, Kor:"", Chn:"", Eng:"then the girl's father and mother shall bring proof that she was a virgin to the town elders at the gate.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The girl's father will say to the elders, "I gave my daughter in marriage to this man, but he dislikes her.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Now he has slandered her and said, 'I did not find your daughter to be a virgin.' But here is the proof of my daughter's virginity." Then her parents shall display the cloth before the elders of the town,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:18, Page:1, Kor:"", Chn:"", Eng:"and the elders shall take the man and punish him.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They shall fine him a hundred shekels of silver and give them to the girl's father, because this man has given an Israelite virgin a bad name. She shall continue to be his wife; he must not divorce her as long as he lives.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:20, Page:1, Kor:"", Chn:"", Eng:"If, however, the charge is true and no proof of the girl's virginity can be found,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:21, Page:1, Kor:"", Chn:"", Eng:"she shall be brought to the door of her father's house and there the men of her town shall stone her to death. She has done a disgraceful thing in Israel by being promiscuous while still in her father's house. You must purge the evil from among you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:22, Page:1, Kor:"", Chn:"", Eng:"If a man is found sleeping with another man's wife, both the man who slept with her and the woman must die. You must purge the evil from Israel.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:23, Page:1, Kor:"", Chn:"", Eng:"If a man happens to meet in a town a virgin pledged to be married and he sleeps with her,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:24, Page:1, Kor:"", Chn:"", Eng:"you shall take both of them to the gate of that town and stone them to death--the girl because she was in a town and did not scream for help, and the man because he violated another man's wife. You must purge the evil from among you.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But if out in the country a man happens to meet a girl pledged to be married and rapes her, only the man who has done this shall die.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Do nothing to the girl; she has committed no sin deserving death. This case is like that of someone who attacks and murders his neighbor,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:27, Page:1, Kor:"", Chn:"", Eng:"for the man found the girl out in the country, and though the betrothed girl screamed, there was no one to rescue her.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:28, Page:1, Kor:"", Chn:"", Eng:"If a man happens to meet a virgin who is not pledged to be married and rapes her and they are discovered,", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:29, Page:1, Kor:"", Chn:"", Eng:"he shall pay the girl's father fifty shekels of silver. He must marry the girl, for he has violated her. He can never divorce her as long as he lives.", Ind:""},
+  {Bible:"Deuteronomy", Chapter:22, Verse:30, Page:1, Kor:"", Chn:"", Eng:"A man is not to marry his father's wife; he must not dishonor his father's bed.", Ind:""},
 ]);

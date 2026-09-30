@@ -1,0 +1,32 @@
+// 사무엘하 1장 · Samuel2 1
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Samuel2",1,27);
+BibleDB.add([
+  {Bible:"Samuel2", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"On the third day a man arrived from Saul's camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honor.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Where have you come from?" David asked him. He answered, "I have escaped from the Israelite camp."", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:""What happened?" David asked. "Tell me." He said, "The men fled from the battle. Many of them fell and died. And Saul and his son Jonathan are dead."", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then David said to the young man who brought him the report, "How do you know that Saul and his son Jonathan are dead?"", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:""I happened to be on Mount Gilboa," the young man said, "and there was Saul, leaning on his spear, with the chariots and riders almost upon him.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When he turned around and saw me, he called out to me, and I said, 'What can I do?'", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:""He asked me, 'Who are you?' "'An Amalekite,' I answered.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Then he said to me, 'Stand over me and kill me! I am in the throes of death, but I'm still alive.'", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:""So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord."", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then David and all the men with him took hold of their clothes and tore them.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the LORD and the house of Israel, because they had fallen by the sword.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"David said to the young man who brought him the report, "Where are you from?" "I am the son of an alien, an Amalekite," he answered.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"David asked him, "Why were you not afraid to lift your hand to destroy the LORD'S anointed?"", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then David called one of his men and said, "Go, strike him down!" So he struck him down, and he died.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"For David had said to him, "Your blood be on your own head. Your own mouth testified against you when you said, 'I killed the LORD'S anointed.'"", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"David took up this lament concerning Saul and his son Jonathan,", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"and ordered that the men of Judah be taught this lament of the bow (it is written in the Book of Jashar):", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Your glory, O Israel, lies slain on your heights. How the mighty have fallen!", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Tell it not in Gath, proclaim it not in the streets of Ashkelon, lest the daughters of the Philistines be glad, lest the daughters of the uncircumcised rejoice.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:""O mountains of Gilboa, may you have neither dew nor rain, nor fields that yield offerings of grain. For there the shield of the mighty was defiled, the shield of Saul--no longer rubbed with oil.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"From the blood of the slain, from the flesh of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return unsatisfied.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:""Saul and Jonathan--in life they were loved and gracious, and in death they were not parted. They were swifter than eagles, they were stronger than lions.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:""O daughters of Israel, weep for Saul, who clothed you in scarlet and finery, who adorned your garments with ornaments of gold.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:""How the mighty have fallen in battle! Jonathan lies slain on your heights.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I grieve for you, Jonathan my brother; you were very dear to me. Your love for me was wonderful, more wonderful than that of women.", Ind:""},
+  {Bible:"Samuel2", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:""How the mighty have fallen! The weapons of war have perished!"", Ind:""},
+]);

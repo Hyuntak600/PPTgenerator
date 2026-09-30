@@ -1,6 +1,31 @@
 // 창세기 4장 · Genesis 4
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",4,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",4,26);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. She said, "With  the help of the LORD I have brought forth a man."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soil.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"In the course of time Cain brought some of the fruits of the soil as an offering to the LORD.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"But Abel brought fat portions from some of the firstborn of his flock. The LORD looked with  favor on Abel and his offering,", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"but on Cain and his offering he did not look with favor. So Cain was very angry, and his face  was downcast.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Cain, "Why are you angry? Why is your face downcast?", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"If you do what is right, will you not be accepted? But if you do not do what is right, sin is  crouching at your door; it desires to have you, but you must master it."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Now Cain said to his brother Abel, "Let's go out to the field." And while they were in the  field, Cain attacked his brother Abel and killed him.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Cain, "Where is your brother Abel?" "I don't know," he replied. "Am I  my brother's keeper?"", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The LORD said, "What have you done? Listen! Your brother's blood cries out to me from the  ground.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Now you are under a curse and driven from the ground, which opened its mouth to receive your  brother's blood from your hand.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When you work the ground, it will no longer yield its crops for you. You will be a restless  wanderer on the earth."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Cain said to the LORD, "My punishment is more than I can bear.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Today you are driving me from the land, and I will be hidden from your presence; I will be a  restless wanderer on the earth, and whoever finds me will kill me."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"But the LORD said to him, "Not so; if anyone kills Cain, he will suffer vengeance seven  times over." Then the LORD put a mark on Cain so that no one who found him would kill him.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"So Cain went out from the LORD'S presence and lived in the land of Nod, east of Eden.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Cain lay with his wife, and she became pregnant and gave birth to Enoch. Cain was then  building a city, and he named it after his son Enoch.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"To Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of  Methushael, and Methushael was the father of Lamech.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Lamech married two women, one named Adah and the other Zillah.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"His brother's name was Jubal; he was the father of all who play the harp and flute.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of bronze and iron.  Tubal-Cain's sister was Naamah.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Lamech said to his wives, "Adah and Zillah, listen to me; wives of Lamech, hear my words. I  have killed a man for wounding me, a young man for injuring me.", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:24, Page:1, Kor:"", Chn:"", Eng:"If Cain is avenged seven times, then Lamech seventy-seven times."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Adam lay with his wife again, and she gave birth to a son and named him Seth, saying, "God  has granted me another child in place of Abel, since Cain killed him."", Ind:""},
+  {Bible:"Genesis", Chapter:4, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Seth also had a son, and he named him Enosh. At that time men began to call on the name of  the LORD.", Ind:""},
 ]);

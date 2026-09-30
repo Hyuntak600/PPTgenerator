@@ -1,6 +1,36 @@
 // 사사기 18장 · Judges 18
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Judges",18,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Judges",18,31);
 BibleDB.add([
+  {Bible:"Judges", Chapter:18, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In those days Israel had no king. And in those days the tribe of the Danites was seeking a place of their own where they might settle, because they had not yet come into an inheritance among the tribes of Israel.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So the Danites sent five warriors from Zorah and Eshtaol to spy out the land and explore it. These men represented all their clans. They told them, "Go, explore the land."The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When they were near Micah's house, they recognized the voice of the young Levite; so they turned in there and asked him, "Who brought you here? What are you doing in this place? Why are you here?"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:4, Page:1, Kor:"", Chn:"", Eng:"He told them what Micah had done for him, and said, "He has hired me and I am his priest."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then they said to him, "Please inquire of God to learn whether our journey will be successful."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The priest answered them, "Go in peace. Your journey has the LORD'S approval."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:7, Page:1, Kor:"", Chn:"", Eng:"So the five men left and came to Laish, where they saw that the people were living in safety, like the Sidonians, unsuspecting and secure. And since their land lacked nothing, they were prosperous. Also, they lived a long way from the Sidonians and had no relationship with anyone else.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When they returned to Zorah and Eshtaol, their brothers asked them, "How did you find things?"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:9, Page:1, Kor:"", Chn:"", Eng:"They answered, "Come on, let's attack them! We have seen that the land is very good. Aren't you going to do something? Don't hesitate to go there and take it over.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:10, Page:1, Kor:"", Chn:"", Eng:"When you get there, you will find an unsuspecting people and a spacious land that God has put into your hands, a land that lacks nothing whatever."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then six hundred men from the clan of the Danites, armed for battle, set out from Zorah and Eshtaol.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:12, Page:1, Kor:"", Chn:"", Eng:"On their way they set up camp near Kiriath Jearim in Judah. This is why the place west of Kiriath Jearim is called Mahaneh Dan to this day.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:13, Page:1, Kor:"", Chn:"", Eng:"From there they went on to the hill country of Ephraim and came to Micah's house.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then the five men who had spied out the land of Laish said to their brothers, "Do you know that one of these houses has an ephod, other household gods, a carved image and a cast idol? Now you know what to do."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So they turned in there and went to the house of the young Levite at Micah's place and greeted him.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The six hundred Danites, armed for battle, stood at the entrance to the gate.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The five men who had spied out the land went inside and took the carved image, the ephod, the other household gods and the cast idol while the priest and the six hundred armed men stood at the entrance to the gate.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When these men went into Micah's house and took the carved image, the ephod, the other household gods and the cast idol, the priest said to them, "What are you doing?"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:19, Page:1, Kor:"", Chn:"", Eng:"They answered him, "Be quiet! Don't say a word. Come with us, and be our father and priest. Isn't it better that you serve a tribe and clan in Israel as priest rather than just one man's household?"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then the priest was glad. He took the ephod, the other household gods and the carved image and went along with the people.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Putting their little children, their livestock and their possessions in front of them, they turned away and left.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:22, Page:1, Kor:"", Chn:"", Eng:"When they had gone some distance from Micah's house, the men who lived near Micah were called together and overtook the Danites.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:23, Page:1, Kor:"", Chn:"", Eng:"As they shouted after them, the Danites turned and said to Micah, "What's the matter with you that you called out your men to fight?"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He replied, "You took the gods I made, and my priest, and went away. What else do I have? How can you ask, 'What's the matter with you?'"", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The Danites answered, "Don't argue with us, or some hot-tempered men will attack you, and you and your family will lose your lives."", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:26, Page:1, Kor:"", Chn:"", Eng:"So the Danites went their way, and Micah, seeing that they were too strong for him, turned around and went back home.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then they took what Micah had made, and his priest, and went on to Laish, against a peaceful and unsuspecting people. They attacked them with the sword and burned down their city.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:28, Page:1, Kor:"", Chn:"", Eng:"There was no one to rescue them because they lived a long way from Sidon and had no relationship with anyone else. The city was in a valley near Beth Rehob. The Danites rebuilt the city and settled there.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They named it Dan after their forefather Dan, who was born to Israel--though the city used to be called Laish.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:30, Page:1, Kor:"", Chn:"", Eng:"There the Danites set up for themselves the idols, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the time of the captivity of the land.", Ind:""},
+  {Bible:"Judges", Chapter:18, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They continued to use the idols Micah had made, all the time the house of God was in Shiloh.", Ind:""},
 ]);

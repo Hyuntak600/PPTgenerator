@@ -1,6 +1,41 @@
 // 레위기 8장 · Leviticus 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",8,36);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Bring Aaron and his sons, their garments, the anointing oil, the bull for the sin offering, the two rams and the basket containing bread made without yeast,", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and gather the entire assembly at the entrance to the Tent of Meeting."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Moses did as the LORD commanded him, and the assembly gathered at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Moses said to the assembly, "This is what the LORD has commanded to be done."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses brought Aaron and his sons forward and washed them with water.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He put the tunic on Aaron, tied the sash around him, clothed him with the robe and put the ephod on him. He also tied the ephod to him by its skillfully woven waistband; so it was fastened on him.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He placed the breastpiece on him and put the Urim and Thummim in the breastpiece.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then he placed the turban on Aaron's head and set the gold plate, the sacred diadem, on the front of it, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Then Moses took the anointing oil and anointed the tabernacle and everything in it, and so consecrated them.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils and the basin with its stand, to consecrate them.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He poured some of the anointing oil on Aaron's head and anointed him to consecrate him.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then he brought Aaron's sons forward, put tunics on them, tied sashes around them and put headbands on them, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He then presented the bull for the sin offering, and Aaron and his sons laid their hands on its head.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Moses slaughtered the bull and took some of the blood, and with his finger he put it on all the horns of the altar to purify the altar. He poured out the rest of the blood at the base of the altar. So he consecrated it to make atonement for it.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Moses also took all the fat around the inner parts, the covering of the liver, and both kidneys and their fat, and burned it on the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But the bull with its hide and its flesh and its offal he burned up outside the camp, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He then presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then Moses slaughtered the ram and sprinkled the blood against the altar on all sides.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He cut the ram into pieces and burned the head, the pieces and the fat.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He washed the inner parts and the legs with water and burned the whole ram on the altar as a burnt offering, a pleasing aroma, an offering made to the LORD by fire, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"He then presented the other ram, the ram for the ordination, and Aaron and his sons laid their hands on its head.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Moses slaughtered the ram and took some of its blood and put it on the lobe of Aaron's right ear, on the thumb of his right hand and on the big toe of his right foot.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Moses also brought Aaron's sons forward and put some of the blood on the lobes of their right ears, on the thumbs of their right hands and on the big toes of their right feet. Then he sprinkled blood against the altar on all sides.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He took the fat, the fat tail, all the fat around the inner parts, the covering of the liver, both kidneys and their fat and the right thigh.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Then from the basket of bread made without yeast, which was before the LORD, he took a cake of bread, and one made with oil, and a wafer; he put these on the fat portions and on the right thigh.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"He put all these in the hands of Aaron and his sons and waved them before the LORD as a wave offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Then Moses took them from their hands and burned them on the altar on top of the burnt offering as an ordination offering, a pleasing aroma, an offering made to the LORD by fire.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:"He also took the breast--Moses' share of the ordination ram--and waved it before the LORD as a wave offering, as the LORD commanded Moses.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Then Moses took some of the anointing oil and some of the blood from the altar and sprinkled them on Aaron and his garments and on his sons and their garments. So he consecrated Aaron and his garments and his sons and their garments.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Moses then said to Aaron and his sons, "Cook the meat at the entrance to the Tent of Meeting and eat it there with the bread from the basket of ordination offerings, as I commanded, saying, 'Aaron and his sons are to eat it.'", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Then burn up the rest of the meat and the bread.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Do not leave the entrance to the Tent of Meeting for seven days, until the days of your ordination are completed, for your ordination will last seven days.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"What has been done today was commanded by the LORD to make atonement for you.", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"You must stay at the entrance to the Tent of Meeting day and night for seven days and do what the LORD requires, so you will not die; for that is what I have been commanded."", Ind:""},
+  {Bible:"Leviticus", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"So Aaron and his sons did everything the LORD commanded through Moses.", Ind:""},
 ]);

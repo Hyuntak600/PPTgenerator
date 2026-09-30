@@ -1,0 +1,27 @@
+// 3,600Foremenoverthemtokeepthepeopleworking. 4장 · 3,600Foremenoverthemtokeepthepeopleworking. 4
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("3,600Foremenoverthemtokeepthepeopleworking.",4,22);
+BibleDB.add([
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:1, Page:1, Kor:"", Chn:"", Eng:"He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Below the rim, figures of bulls encircled it--ten to a cubit. The bulls were cast in two rows in one piece with the Sea.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:5, Page:1, Kor:"", Chn:"", Eng:"It was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held three thousand baths.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He then made ten basins for washing and placed five on the south side and five on the north. In them the things to be used for the burnt offerings were rinsed, but the Sea was to be used by the priests for washing.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He made ten gold lampstands according to the specifications for them and placed them in the temple, five on the south side and five on the north.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He made ten tables and placed them in the temple, five on the south side and five on the north. He also made a hundred gold sprinkling bowls.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:9, Page:1, Kor:"", Chn:"", Eng:"He made the courtyard of the priests, and the large court and the doors for the court, and overlaid the doors wiuh bronze.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:10, Page:1, Kor:"", Chn:"", Eng:"He placed the Sea on the south side, at the southeast corner.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:11, Page:1, Kor:"", Chn:"", Eng:"He also made the pots and shovels and sprinkling bowls. So Huram finished the work he had undertaken for King Solomon in the temple of God:", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:12, Page:1, Kor:"", Chn:"", Eng:"the two pillars; the two bowl-shaped capitals on top of the pillars; the two sets of network decorating the two bowl-shaped capitals on top of the pillars;", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:13, Page:1, Kor:"", Chn:"", Eng:"the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network, decorating the bowl-shaped capitals on top of the pillars);", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:14, Page:1, Kor:"", Chn:"", Eng:"the stands with their basins;", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:15, Page:1, Kor:"", Chn:"", Eng:"the Sea and the twelve bulls under it;", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:16, Page:1, Kor:"", Chn:"", Eng:"the pots, shovels, meat forks and all related articles. All the objects that Huram-Abi made for King Solomon for the temple of the LORD were of polished bronze.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:18, Page:1, Kor:"", Chn:"", Eng:"All these things that Solomon made amounted to so much that the weight of the bronze was not determined.", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Solomon also made all the furnishings that were in God's temple: the golden altar; the tables on which was the bread of the Presence;", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:20, Page:1, Kor:"", Chn:"", Eng:"the lampstands of pure gold with their lamps, to burn in front of the inner sanctuary as prescribed;", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:21, Page:1, Kor:"", Chn:"", Eng:"the gold floral work and lamps and tongs (they were solid gold);", Ind:""},
+  {Bible:"3,600Foremenoverthemtokeepthepeopleworking.", Chapter:4, Verse:22, Page:1, Kor:"", Chn:"", Eng:"the pure gold wick trimmers, sprinkling bowls, dishes and censers; and the gold doors of the temple: the inner doors to the Most Holy Place and the doors of the main hall.", Ind:""},
+]);

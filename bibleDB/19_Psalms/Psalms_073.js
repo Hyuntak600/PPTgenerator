@@ -1,6 +1,33 @@
 // 시편 73장 · Psalms 73
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",73,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",73,28);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:73, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Surely God is good to Israel, to those who are pure in heart.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:2, Page:1, Kor:"", Chn:"", Eng:"But as for me, my feet had almost slipped; I had nearly lost my foothold.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:3, Page:1, Kor:"", Chn:"", Eng:"For I envied the arrogant when I saw the prosperity of the wicked.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They have no struggles; their bodies are healthy and strong.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They are free from the burdens common to man; they are not plagued by human ills.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Therefore pride is their necklace; they clothe themselves with violence.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:7, Page:1, Kor:"", Chn:"", Eng:"From their callous hearts comes iniquity; the evil conceits of their minds know no limits.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They scoff, and speak with malice; in their arrogance they threaten oppression.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Their mouths lay claim to heaven, and their tongues take possession of the earth.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Therefore their people turn to them and drink up waters in abundance.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They say, "How can God know? Does the Most High have knowledge?"", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:12, Page:1, Kor:"", Chn:"", Eng:"This is what the wicked are like--always carefree, they increase in wealth.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Surely in vain have I kept my heart pure; in vain have I washed my hands in innocence.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:14, Page:1, Kor:"", Chn:"", Eng:"All day long I have been plagued; I have been punished every morning.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If I had said, "I will speak thus," I would have betrayed your children.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:16, Page:1, Kor:"", Chn:"", Eng:"When I tried to understand all this, it was oppressive to me", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:17, Page:1, Kor:"", Chn:"", Eng:"till I entered the sanctuary of God; then I understood their final destiny.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Surely you place them on slippery ground; you cast them down to ruin.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:19, Page:1, Kor:"", Chn:"", Eng:"How suddenly are they destroyed, completely swept away by terrors!", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:20, Page:1, Kor:"", Chn:"", Eng:"As a dream when one awakes, so when you arise, O Lord, you will despise them as fantasies.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:21, Page:1, Kor:"", Chn:"", Eng:"When my heart was grieved and my spirit embittered,", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:22, Page:1, Kor:"", Chn:"", Eng:"I was senseless and ignorant; I was a brute beast before you.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Yet I am always with you; you hold me by my right hand.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:24, Page:1, Kor:"", Chn:"", Eng:"You guide me with your counsel, and afterward you will take me into glory.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Whom have I in heaven but you? And earth has nothing I desire besides you.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:26, Page:1, Kor:"", Chn:"", Eng:"My flesh and my heart may fail, but God is the strength of my heart and my portion forever.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Those who are far from you will perish; you destroy all who are unfaithful to you.", Ind:""},
+  {Bible:"Psalms", Chapter:73, Verse:28, Page:1, Kor:"", Chn:"", Eng:"But as for me, it is good to be near God. I have made the Sovereign LORD my refuge; I will tell of all your deeds.", Ind:""},
 ]);

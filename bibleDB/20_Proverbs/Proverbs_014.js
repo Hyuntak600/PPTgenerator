@@ -1,6 +1,40 @@
 // 잠언 14장 · Proverbs 14
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",14,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",14,35);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:14, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The wise woman builds her house, but with her own hands the foolish one tears hers down.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He whose walk is upright fears the LORD, but he whose ways are devious despises him.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:3, Page:1, Kor:"", Chn:"", Eng:"A fool's talk brings a rod to his back, but the lips of the wise protect them.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Where there are no oxen, the manger is empty, but from the strength of an ox comes an abundant harvest.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:5, Page:1, Kor:"", Chn:"", Eng:"A truthful witness does not deceive, but a false witness pours out lies.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Stay away from a foolish man, for you will not find knowledge on his lips.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Fools mock at making amends for sin, but goodwill is found among the upright.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Each heart knows its own bitterness, and no one else can share its joy.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The house of the wicked will be destroyed, but the tent of the upright will flourish.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:12, Page:1, Kor:"", Chn:"", Eng:"There is a way that seems right to a man, but in the end it leads to death.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Even in laughter the heart may ache, and joy may end in grief.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The faithless will be fully repaid for their ways, and the good man rewarded for his.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:15, Page:1, Kor:"", Chn:"", Eng:"A simple man believes anything, but a prudent man gives thought to his steps.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:16, Page:1, Kor:"", Chn:"", Eng:"A wise man fears the LORD and shuns evil, but a fool is hotheaded and reckless.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:17, Page:1, Kor:"", Chn:"", Eng:"A quick-tempered man does foolish things, and a crafty man is hated.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The simple inherit folly, but the prudent are crowned with knowledge.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Evil men will bow down in the presence of the good, and the wicked at the gates of the righteous.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The poor are shunned even by their neighbors, but the rich have many friends.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He who despises his neighbor sins, but blessed is he who is kind to the needy.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not those who plot evil go astray? But those who plan what is good find love and faithfulness.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:23, Page:1, Kor:"", Chn:"", Eng:"All hard work brings a profit, but mere talk leads only to poverty.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The wealth of the wise is their crown, but the folly of fools yields folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:25, Page:1, Kor:"", Chn:"", Eng:"A truthful witness saves lives, but a false witness is deceitful.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He who fears the LORD has a secure fortress, and for his children it will be a refuge.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The fear of the LORD is a fountain of life, turning a man from the snares of death.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A large population is a king's glory, but without subjects a prince is ruined.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:29, Page:1, Kor:"", Chn:"", Eng:"A patient man has great understanding, but a quick-tempered man displays folly.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:30, Page:1, Kor:"", Chn:"", Eng:"A heart at peace gives life to the body, but envy rots the bones.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He who oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:32, Page:1, Kor:"", Chn:"", Eng:"When calamity comes, the wicked are brought down, but even in death the righteous have a refuge.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Wisdom reposes in the heart of the discerning and even among fools she lets herself be known.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Righteousness exalts a nation, but sin is a disgrace to any people.", Ind:""},
+  {Bible:"Proverbs", Chapter:14, Verse:35, Page:1, Kor:"", Chn:"", Eng:"A king delights in a wise servant, but a shameful servant incurs his wrath.", Ind:""},
 ]);

@@ -1,0 +1,38 @@
+// 역대상 26장 · Chronicles1 26
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
+BibleDB.ref("Chronicles1",26,32);
+// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+BibleDB.add([
+  {Bible:"Chronicles1", Chapter:26, Verse:1, Page:1, Kor:"<성전 문지기> 문지기의 갈래는 다음과 같다. 고라 가문에서는, 아삽의 자손인 고레의 아들 므셀레먀와,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:2, Page:1, Kor:"므셀레먀의 아들인 맏아들 스가랴와, 둘째 여디아엘과, 셋째 스바댜와, 넷째 야드니엘과,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:3, Page:1, Kor:"다섯째 엘람과, 여섯째 여호하난과, 일곱째 엘여호에내이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:4, Page:1, Kor:"○오벳에돔의 아들은, 맏아들 스마야와, 둘째 여호사밧과, 셋째 요아와, 넷째 사갈과, 다섯째 느다넬과,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:5, Page:1, Kor:"여섯째 암미엘과, 일곱째 잇사갈과, 여덟째 브울래대이다. 하나님께서 오벳에돔에게 이와 같이 복을 주셨다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:6, Page:1, Kor:"○오벳에돔의 아들 스마야도 아들들을 낳았다. 그들은 용맹스러운 사람들이었으므로, 그들 가문의 지도자가 되었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:7, Page:1, Kor:"스마야의 아들은 오드니와 르바엘과 오벳과 엘사밧이다. 엘사밧의 형제 엘리후와 스마갸는 유능한 사람이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:8, Page:1, Kor:"○이들이 모두 오벳에돔의 자손이다. 그들과 그 아들과 형제들은 맡은 일을 할 수 있는 능력을 가진 용맹스러운 사람들이다. 오벳에돔 집안에 딸린 사람은 예순두 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:9, Page:1, Kor:"○므셀레먀의 아들과 형제들도 용맹스러운 사람들이며, 모두 열여덟 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:10, Page:1, Kor:"○므라리의 자손인 호사의 아들 가운데서는 시므리가 족장이다. 시므리는 맏아들은 아니었으나, 그의 아버지가 그를 우두머리로 삼았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:11, Page:1, Kor:"둘째는 힐기야이고, 셋째는 드발리야이고, 넷째는 스가랴이다. 호사의 아들과 형제는 모두 열세 명이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:12, Page:1, Kor:"○이 문지기 갈래의 우두머리들과 형제들 모두에게 주님의 성전을 섬기는 임무를 맡겼다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:13, Page:1, Kor:"그들은 큰 가문이나 작은 가문을 가리지 않고, 그들의 가문을 따라 제비를 뽑아, 각 문을 맡았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:14, Page:1, Kor:"셀레먀는 동쪽 문에 뽑혔고, 그의 아들 스가랴는 슬기로운 참모인데, 사람들이 제비를 뽑은 결과 북쪽 문에 뽑혔다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:15, Page:1, Kor:"오벳에돔은 남쪽 문에 뽑히고, 그의 아들들은 곳간에 뽑혔다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:16, Page:1, Kor:"숩빔과 호사는 서쪽 문과 올라가는 길 가에 있는 살래겟 문의 문지기로 뽑혀, 두 문을 다 지켰다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:17, Page:1, Kor:"이렇게 하여, 레위 사람이 동쪽 문에 여섯 사람, 북쪽 문에 매일 네 사람, 남쪽 문에 매일 네 사람, 곳간에는 각각 두 사람씩,", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:18, Page:1, Kor:"서쪽 문의 회랑에 네 사람, 길가의 회랑에 두 사람이 배치되었다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:19, Page:1, Kor:"이들은 고라 자손과 므라리 자손의 문지기 갈래이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:20, Page:1, Kor:"<성전 관리인> ○레위 사람 가운데 다른 사람들은 하나님의 성전 곳간과 성물 곳간을 맡았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:21, Page:1, Kor:"게르손 자손인 라단 자손 곧 게르손 사람 라단 가문의 족장은 여히엘리이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:22, Page:1, Kor:"여히엘리의 아들은 세담과 그 아우 요엘이며, 이들은 주님의 성전 곳간을 맡았다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:23, Page:1, Kor:"○아므람과 이스할과 헤브론과 웃시엘의 자손에서는", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:24, Page:1, Kor:"모세의 아들인 게르솜의 자손 스브엘이 곳간의 책임자이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:25, Page:1, Kor:"그의 아우인 엘리에셀에게는 그의 아들 르하뱌와, 르하뱌의 아들 여사야와, 여사야의 아들 요람과, 요람의 아들 시그리와, 시그리의 아들 슬로못이 있다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:26, Page:1, Kor:"이 슬로못이 그의 가족들과 함께 성물을 보관한 모든 곳간을 관리하였다. 이 성물은 다윗 왕과 족장들과 천부장과 백부장과 군대 지휘관들이 구별하여 바친 물건들이다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:27, Page:1, Kor:"그들은 전쟁에서 빼앗은 물건들을 주님의 성전 건축과 수리를 위하여 구별하여 바쳤다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:28, Page:1, Kor:"선견자 사무엘, 기스의 아들 사울, 넬의 아들 아브넬, 스루야의 아들 요압이 구별하여 바친 모든 성물도 슬로못과 그의 가족들이 관리하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:29, Page:1, Kor:"<다른 레위 사람들의 직무> ○이스할 사람 그나냐와 그의 아들들은 서기관과 재판관으로서, 이스라엘의 일반 행정을 담당하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:30, Page:1, Kor:"○헤브론 사람 하사뱌와 그의 형제 가운데서 유능한 사람 천칠백 명이 요단 강 서쪽의 이스라엘을 관리하며, 주님의 모든 일과 왕을 섬기는 일을 담당하였다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:31, Page:1, Kor:"헤브론 사람의 족장은 여리야이다. 다윗이 통치한 지 사십 년이 되던 해에, 헤브론의 족보와 가문을 따라, 길르앗의 야스엘에서 사람들을 조사하여 용사를 찾아냈다.", Chn:"", Eng:"", Ind:""},
+  {Bible:"Chronicles1", Chapter:26, Verse:32, Page:1, Kor:"그의 친족 이천칠백 명은 용사들이며, 이들은 모두 족장이었다. 다윗 왕이 그들을 르우벤과 갓과 므낫세 반쪽 지파의 관리자로 세워, 하나님의 모든 일과 왕의 일을 담당하게 하였다.", Chn:"", Eng:"", Ind:""},
+]);

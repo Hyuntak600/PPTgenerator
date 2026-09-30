@@ -1,6 +1,35 @@
 // 레위기 6장 · Leviticus 6
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Leviticus",6,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Leviticus",6,30);
 BibleDB.add([
+  {Bible:"Leviticus", Chapter:6, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses:", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:2, Page:1, Kor:"", Chn:"", Eng:""If anyone sins and is unfaithful to the LORD by deceiving his neighbor about something entrusted to him or left in his care or stolen, or if he cheats him,", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:3, Page:1, Kor:"", Chn:"", Eng:"or if he finds lost property and lies about it, or if he swears falsely, or if he commits any such sin that people may do--", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:4, Page:1, Kor:"", Chn:"", Eng:"when he thus sins and becomes guilty, he must return what he has stolen or taken by extortion, or what was entrusted to him, or the lost property he found,", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:5, Page:1, Kor:"", Chn:"", Eng:"or whatever it was he swore falsely about. He must make restitution in full, add a fifth of the value to it and give it all to the owner on the day he presents his guilt offering.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And as a penalty he must bring to the priest, that is, to the LORD, his guilt offering, a ram from the flock, one without defect and of the proper value.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In this way the priest will make atonement for him before the LORD, and he will be forgiven for any of these things he did that made him guilty."", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses:", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Give Aaron and his sons this command: 'These are the regulations for the burnt offering: The burnt offering is to remain on the altar hearth throughout the night, till morning, and the fire must be kept burning on the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The priest shall then put on his linen clothes, with linen undergarments next to his body, and shall remove the ashes of the burnt offering that the fire has consumed on the altar and place them beside the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then he is to take off these clothes and put on others, and carry the ashes outside the camp to a place that is ceremonially clean.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The fire on the altar must be kept burning; it must not go out. Every morning the priest is to add firewood and arrange the burnt offering on the fire and burn the fat of the fellowship offerings on it.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The fire must be kept burning on the altar continuously; it must not go out.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'These are the regulations for the grain offering: Aaron's sons are to bring it before the LORD, in front of the altar.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The priest is to take a handful of fine flour and oil, together with all the incense on the grain offering, and burn the memorial portion on the altar as an aroma pleasing to the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Aaron and his sons shall eat the rest of it, but it is to be eaten without yeast in a holy place; they are to eat it in the courtyard of the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:17, Page:1, Kor:"", Chn:"", Eng:"It must not be baked with yeast; I have given it as their share of the offerings made to me by fire. Like the sin offering and the guilt offering, it is most holy.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Any male descendant of Aaron may eat it. It is his regular share of the offerings made to the LORD by fire for the generations to come. Whatever touches them will become holy.'"", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The LORD also said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:20, Page:1, Kor:"", Chn:"", Eng:""This is the offering Aaron and his sons are to bring to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Prepare it with oil on a griddle; bring it well-mixed and present the grain offering broken in pieces as an aroma pleasing to the LORD.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The son who is to succeed him as anointed priest shall prepare it. It is the LORD'S regular share and is to be burned completely.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Every grain offering of a priest shall be burned completely; it must not be eaten."", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses,", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:25, Page:1, Kor:"", Chn:"", Eng:""Say to Aaron and his sons: 'These are the regulations for the sin offering: The sin offering is to be slaughtered before the LORD in the place the burnt offering is slaughtered; it is most holy.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The priest who offers it shall eat it; it is to be eaten in a holy place, in the courtyard of the Tent of Meeting.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Whatever touches any of the flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The clay pot the meat is cooked in must be broken; but if it is cooked in a bronze pot, the pot is to be scoured and rinsed with water.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Any male in a priest's family may eat it; it is most holy.", Ind:""},
+  {Bible:"Leviticus", Chapter:6, Verse:30, Page:1, Kor:"", Chn:"", Eng:"But any sin offering whose blood is brought into the Tent of Meeting to make atonement in the Holy Place must not be eaten; it must be burned.", Ind:""},
 ]);

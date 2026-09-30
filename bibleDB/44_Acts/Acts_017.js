@@ -1,6 +1,39 @@
 // 사도행전 17장 · Acts 17
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",17,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",17,34);
 BibleDB.add([
+  {Bible:"Acts", Chapter:17, Verse:1, Page:1, Kor:"", Chn:"", Eng:"When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:2, Page:1, Kor:"", Chn:"", Eng:"As his custom was, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures,", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:3, Page:1, Kor:"", Chn:"", Eng:"explaining and proving that the Christ had to suffer and rise from the dead. "This Jesus I am proclaiming to you is the Christ," he said.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and not a few prominent women.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:5, Page:1, Kor:"", Chn:"", Eng:"But the Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason's house in search of Paul and Silas in order to bring them out to the crowd.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when they did not find them, they dragged Jason and some other brothers before the city officials, shouting: "These men who have caused trouble all over the world have now come here,", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:7, Page:1, Kor:"", Chn:"", Eng:"and Jason has welcomed them into his house. They are all defying Caesar's decrees, saying that there is another king, one called Jesus."", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When they heard this, the crowd and the city officials were thrown into turmoil.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Then they made Jason and the others post bond and let them go.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:10, Page:1, Kor:"", Chn:"", Eng:"As soon as it was night, the brothers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Many of the Jews believed, as did also a number of prominent Greek women and many Greek men.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When the Jews in Thessalonica learned that Paul was preaching the word of God at Berea, they went there too, agitating the crowds and stirring them up.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The brothers immediately sent Paul to the coast, but Silas and Timothy stayed at Berea.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The men who escorted Paul brought him to Athens and then left with instructions for Silas and Timothy to join him as soon as possible.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:16, Page:1, Kor:"", Chn:"", Eng:"While Paul was waiting for them in Athens, he was greatly distressed to see that the city was full of idols.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So he reasoned in the synagogue with the Jews and the God-fearing Greeks, as well as in the marketplace day by day with those who happened to be there.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:18, Page:1, Kor:"", Chn:"", Eng:"A group of Epicurean and Stoic philosophers began to dispute with him. Some of them asked, "What is this babbler trying to say?" Others remarked, "He seems to be advocating foreign gods." They said this because Paul was preaching the good news about Jesus and the resurrection.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then they took him and brought him to a meeting of the Areopagus, where they said to him, "May we know what this new teaching is that you are presenting?", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:20, Page:1, Kor:"", Chn:"", Eng:"You are bringing some strange ideas to our ears, and we want to know what they mean."", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:21, Page:1, Kor:"", Chn:"", Eng:"(All the Athenians and the foreigners who lived there spent their time doing nothing but talking about and listening to the latest ideas.)", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Paul then stood up in the meeting of the Areopagus and said: "Men of Athens! I see that in every way you are very religious.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:23, Page:1, Kor:"", Chn:"", Eng:"For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Now what you worship as something unknown I am going to proclaim to you.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:24, Page:1, Kor:"", Chn:"", Eng:""The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by hands.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And he is not served by human hands, as if he needed anything, because he himself gives all men life and breath and everything else.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:26, Page:1, Kor:"", Chn:"", Eng:"From one man he made every nation of men, that they should inhabit the whole earth; and he determined the times set for them and the exact places where they should live.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:27, Page:1, Kor:"", Chn:"", Eng:"God did this so that men would seek him and perhaps reach out for him and find him, though he is not far from each one of us.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:28, Page:1, Kor:"", Chn:"", Eng:"'For in him we live and move and have our being.' As some of your own poets have said, 'We are his offspring.'", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Therefore since we are God's offspring, we should not think that the divine being is like gold or silver or stone--an image made by man's design and skill.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:30, Page:1, Kor:"", Chn:"", Eng:"In the past God overlooked such ignorance, but now he commands all people everywhere to repent.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:31, Page:1, Kor:"", Chn:"", Eng:"For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to all men by raising him from the dead."", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:32, Page:1, Kor:"", Chn:"", Eng:"When they heard about the resurrection of the dead, some of them sneered, but others said, "We want to hear you again on this subject."", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:33, Page:1, Kor:"", Chn:"", Eng:"At that, Paul left the Council.", Ind:""},
+  {Bible:"Acts", Chapter:17, Verse:34, Page:1, Kor:"", Chn:"", Eng:"A few men became followers of Paul and believed. Among them was Dionysius, a member of the Areopagus, also a woman named Damaris, and a number of others.", Ind:""},
 ]);

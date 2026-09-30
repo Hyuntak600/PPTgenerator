@@ -1,6 +1,33 @@
 // 예레미야 52장 · Jeremiah 52
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",52,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",52,28);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:52, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He did evil in the eyes of the LORD, just as Jehoiakim had done.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:3, Page:1, Kor:"", Chn:"", Eng:"It was because of the LORD'S anger that all this happened to Jerusalem and Judah, and in the end he thrust them from his presence. Now Zedekiah rebelled against the king of Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So in the ninth year of Zedekiah's reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. They camped outside the city and built siege works all around it.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The city was kept under siege until the eleventh year of King Zedekiah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:6, Page:1, Kor:"", Chn:"", Eng:"By the ninth day of the fourth month the famine in the city had become so severe that there was no food for the people to eat.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then the city wall was broken through, and the whole army fled. They left the city at night through the gate between the two walls near the king's garden, though the Babylonians were surrounding the city. They fled toward the Arabah,", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:8, Page:1, Kor:"", Chn:"", Eng:"but the Babylonian army pursued King Zedekiah and overtook him in the plains of Jericho. All his soldiers were separated from him and scattered,", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:9, Page:1, Kor:"", Chn:"", Eng:"and he was captured. He was taken to the king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:10, Page:1, Kor:"", Chn:"", Eng:"There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes; he also killed all the officials of Judah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then he put out Zedekiah's eyes, bound him with bronze shackles and took him to Babylon, where he put him in prison till the day of his death.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:12, Page:1, Kor:"", Chn:"", Eng:"On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar king of Babylon, Nebuzaradan commander of the imperial guard, who served the king of Babylon, came to Jerusalem.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He set fire to the temple of the LORD, the royal palace and all the houses of Jerusalem. Every important building he burned down.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The whole Babylonian army under the commander of the imperial guard broke down all the walls around Jerusalem.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Nebuzaradan the commander of the guard carried into exile some of the poorest people and those who remained in the city, along with the rest of the craftsmen and those who had gone over to the king of Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But Nebuzaradan left behind the rest of the poorest people of the land to work the vineyards and fields.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the LORD and they carried all the bronze to Babylon.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes and all the bronze articles used in the temple service.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The commander of the imperial guard took away the basins, censers, sprinkling bowls, pots, lampstands, dishes and bowls used for drink offerings--all that were made of pure gold or silver.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The bronze from the two pillars, the Sea and the twelve bronze bulls under it, and the movable stands, which King Solomon had made for the temple of the LORD, was more than could be weighed.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Each of the pillars was eighteen cubits high and twelve cubits in circumference; each was four fingers thick, and hollow.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The bronze capital on top of the one pillar was five cubits high and was decorated with a network and pomegranates of bronze all around. The other pillar, with its pomegranates, was similar.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:23, Page:1, Kor:"", Chn:"", Eng:"There were ninety-six pomegranates on the sides; the total number of pomegranates above the surrounding network was a hundred.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The commander of the guard took as prisoners Seraiah the chief priest, Zephaniah the priest next in rank and the three doorkeepers.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Of those still in the city, he took the officer in charge of the fighting men, and seven royal advisers. He also took the secretary who was chief officer in charge of conscripting the people of the land and sixty of his men who were found in the city.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:27, Page:1, Kor:"", Chn:"", Eng:"There at Riblah, in the land of Hamath, the king had them executed. So Judah went into captivity, away from her land.", Ind:""},
+  {Bible:"Jeremiah", Chapter:52, Verse:28, Page:1, Kor:"", Chn:"", Eng:"This is the number of the people Nebuchadnezzar carried into exile: in the seventh year,", Ind:""},
 ]);

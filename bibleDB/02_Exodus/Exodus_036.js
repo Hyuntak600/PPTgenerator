@@ -1,6 +1,43 @@
 // 출애굽기 36장 · Exodus 36
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",36,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",36,38);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:36, Verse:1, Page:1, Kor:"", Chn:"", Eng:"So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded."", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Then Moses summoned Bezalel and Oholiab and every skilled person to whom the LORD had given ability and who was willing to come and do the work.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They received from Moses all the offerings the Israelites had brought to carry out the work of constructing the sanctuary. And the people continued to bring freewill offerings morning after morning.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:4, Page:1, Kor:"", Chn:"", Eng:"So all the skilled craftsmen who were doing all the work on the sanctuary left their work", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:5, Page:1, Kor:"", Chn:"", Eng:"and said to Moses, "The people are bringing more than enough for doing the work the LORD commanded to be done."", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Moses gave an order and they sent this word throughout the camp: "No man or woman is to make anything else as an offering for the sanctuary." And so the people were restrained from bringing more,", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:7, Page:1, Kor:"", Chn:"", Eng:"because what they already had was more than enough to do all the work.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:8, Page:1, Kor:"", Chn:"", Eng:"All the skilled men among the workmen made the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:9, Page:1, Kor:"", Chn:"", Eng:"All the curtains were the same size--twenty-eight cubits long and four cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They joined five of the curtains together and did the same with the other five.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then they made loops of blue material along the edge of the end curtain in one set, and the same was done with the end curtain in the other set.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They also made fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then they made fifty gold clasps and used them to fasten the two sets of curtains together so that the tabernacle was a unit.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:14, Page:1, Kor:"", Chn:"", Eng:"They made curtains of goat hair for the tent over the tabernacle--eleven altogether.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:15, Page:1, Kor:"", Chn:"", Eng:"All eleven curtains were the same size--thirty cubits long and four cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They joined five of the curtains into one set and the other six into another set.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Then they made fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:18, Page:1, Kor:"", Chn:"", Eng:"They made fifty bronze clasps to fasten the tent together as a unit.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then they made for the tent a covering of ram skins dyed red, and over that a covering of hides of sea cows.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:20, Page:1, Kor:"", Chn:"", Eng:"They made upright frames of acacia wood for the tabernacle.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Each frame was ten cubits long and a cubit and a half wide,", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:22, Page:1, Kor:"", Chn:"", Eng:"with two projections set parallel to each other. They made all the frames of the tabernacle in this way.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They made twenty frames for the south side of the tabernacle", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and made forty silver bases to go under them--two bases for each frame, one under each projection.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:25, Page:1, Kor:"", Chn:"", Eng:"For the other side, the north side of the tabernacle, they made twenty frames", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:26, Page:1, Kor:"", Chn:"", Eng:"and forty silver bases--two under each frame.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They made six frames for the far end, that is, the west end of the tabernacle,", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:28, Page:1, Kor:"", Chn:"", Eng:"and two frames were made for the corners of the tabernacle at the far end.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:29, Page:1, Kor:"", Chn:"", Eng:"At these two corners the frames were double from the bottom all the way to the top and fitted into a single ring; both were made alike.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:30, Page:1, Kor:"", Chn:"", Eng:"So there were eight frames and sixteen silver bases--two under each frame.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They also made crossbars of acacia wood: five for the frames on one side of the tabernacle,", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:32, Page:1, Kor:"", Chn:"", Eng:"five for those on the other side, and five for the frames on the west, at the far end of the tabernacle.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:33, Page:1, Kor:"", Chn:"", Eng:"They made the center crossbar so that it extended from end to end at the middle of the frames.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:34, Page:1, Kor:"", Chn:"", Eng:"They overlaid the frames with gold and made gold rings to hold the crossbars. They also overlaid the crossbars with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:35, Page:1, Kor:"", Chn:"", Eng:"They made the curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim worked into it by a skilled craftsman.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:36, Page:1, Kor:"", Chn:"", Eng:"They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases.", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:37, Page:1, Kor:"", Chn:"", Eng:"For the entrance to the tent they made a curtain of blue, purple and scarlet yarn and finely twisted linen--the work of an embroiderer;", Ind:""},
+  {Bible:"Exodus", Chapter:36, Verse:38, Page:1, Kor:"", Chn:"", Eng:"and they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze.", Ind:""},
 ]);

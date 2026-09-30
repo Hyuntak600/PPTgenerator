@@ -1,6 +1,34 @@
 // 갈라디아서 3장 · Galatians 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Galatians",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Galatians",3,29);
 BibleDB.add([
+  {Bible:"Galatians", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"You foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"I would like to learn just one thing from you: Did you receive the Spirit by observing the law, or by believing what you heard?", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Are you so foolish? After beginning with the Spirit, are you now trying to attain your goal by human effort?", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Have you suffered so much for nothing--if it really was for nothing?", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Does God give you his Spirit and work miracles among you because you observe the law, or because you believe what you heard?", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Consider Abraham: "He believed God, and it was credited to him as righteousness."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Understand, then, that those who believe are children of Abraham.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: "All nations will be blessed through you."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"So those who have faith are blessed along with Abraham, the man of faith.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"All who rely on observing the law are under a curse, for it is written: "Cursed is everyone who does not continue to do everything written in the Book of the Law."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Clearly no one is justified before God by the law, because, "The righteous will live by faith."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The law is not based on faith; on the contrary, "The man who does these things will live by them."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Christ redeemed us from the curse of the law by becoming a curse for us, for it is written: "Cursed is everyone who is hung on a tree."", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He redeemed us in order that the blessing given to Abraham might come to the Gentiles through Christ Jesus, so that by faith we might receive the promise of the Spirit.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Brothers, let me take an example from everyday life. Just as no one can set aside or add to a human covenant that has been duly established, so it is in this case.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The promises were spoken to Abraham and to his seed. The Scripture does not say "and to seeds," meaning many people, but "and to your seed," meaning one person, who is Christ.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:"What I mean is this: The law, introduced 430 years later, does not set aside the covenant previously established by God and thus do away with the promise.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"For if the inheritance depends on the law, then it no longer depends on a promise; but God in his grace gave it to Abraham through a promise.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"What, then, was the purpose of the law? It was added because of transgressions until the Seed to whom the promise referred had come. The law was put into effect through angels by a mediator.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"A mediator, however, does not represent just one party; but God is one.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Is the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have come by the law.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But the Scripture declares that the whole world is a prisoner of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Before this faith came, we were held prisoners by the law, locked up until faith should be revealed.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So the law was put in charge to lead us to Christ that we might be justified by faith.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Now that faith has come, we are no longer under the supervision of the law.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"You are all sons of God through faith in Christ Jesus,", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:27, Page:1, Kor:"", Chn:"", Eng:"for all of you who were baptized into Christ have clothed yourselves with Christ.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:28, Page:1, Kor:"", Chn:"", Eng:"There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.", Ind:""},
+  {Bible:"Galatians", Chapter:3, Verse:29, Page:1, Kor:"", Chn:"", Eng:"If you belong to Christ, then you are Abraham's seed, and heirs according to the promise.", Ind:""},
 ]);

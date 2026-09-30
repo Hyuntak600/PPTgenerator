@@ -1,6 +1,30 @@
 // 창세기 2장 · Genesis 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Genesis",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Genesis",2,25);
 BibleDB.add([
+  {Bible:"Genesis", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Thus the heavens and the earth were completed in all their vast array.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"By the seventh day God had finished the work he had been doing; so on the seventh day he  rested from all his work.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"And God blessed the seventh day and made it holy, because on it he rested from all the work  of creating that he had done.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"This is the account of the heavens and the earth when they were created. When the LORD God  made the earth and the heavens--", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"and no shrub of the field had yet appeared on the earth and no plant of the field had yet  sprung up, for the LORD God had not sent rain on the earth and there was no man to work the  ground,", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"but streams came up from the earth and watered the whole surface of the ground--", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"the LORD God formed the man from the dust of the ground and breathed into his nostrils the  breath of life, and the man became a living being.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Now the LORD God had planted a garden in the east, in Eden; and there he put the man he had  formed.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"And the LORD God made all kinds of trees grow out of the ground--trees that were pleasing to  the eye and good for food. In the middle of the garden were the tree of life and the tree of the  knowledge of good and evil.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"A river watering the garden flowed from Eden; from there it was separated into four  headwaters.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The name of the first is the Pishon; it winds through the entire land of Havilah, where  there is gold.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"(The gold of that land is good; aromatic resin and onyx are also there.)", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The name of the second river is the Gihon; it winds through the entire land of Cush.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The name of the third river is the Tigris; it runs along the east side of Asshur. And the  fourth river is the Euphrates.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And the LORD God commanded the man, "You are free to eat from any tree in the garden;", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"but you must not eat from the tree of the knowledge of good and evil, for when you eat of it  you will surely die."", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The LORD God said, "It is not good for the man to be alone. I will make a helper suitable  for him."", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Now the LORD God had formed out of the ground all the beasts of the field and all the birds  of the air. He brought them to the man to see what he would name them; and whatever the man  called each living creature, that was its name.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So the man gave names to all the livestock, the birds of the air and all the beasts of the  field. But for Adam no suitable helper was found.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took  one of the man's ribs and closed up the place with flesh.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then the LORD God made a woman from the rib he had taken out of the man, and he brought her  to the man.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The man said, "This is now bone of my bones and flesh of my flesh; she shall be called  'woman,' for she was taken out of man."", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For this reason a man will leave his father and mother and be united to his wife, and they  will become one flesh.", Ind:""},
+  {Bible:"Genesis", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The man and his wife were both naked, and they felt no shame.", Ind:""},
 ]);

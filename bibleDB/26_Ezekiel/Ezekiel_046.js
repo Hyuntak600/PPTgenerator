@@ -1,6 +1,29 @@
 // 에스겔 46장 · Ezekiel 46
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",46,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",46,24);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:46, Verse:1, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: The gate of the inner court facing east is to be shut on the six working days, but on the Sabbath day and on the day of the New Moon it is to be opened.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The prince is to enter from the outside through the portico of the gateway and stand by the gatepost. The priests are to sacrifice his burnt offering and his fellowship offerings. He is to worship at the threshold of the gateway and then go out, but the gate will not be shut until evening.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:3, Page:1, Kor:"", Chn:"", Eng:"On the Sabbaths and New Moons the people of the land are to worship in the presence of the LORD at the entrance to that gateway.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The burnt offering the prince brings to the LORD on the Sabbath day is to be six male lambs and a ram, all without defect.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The grain offering given with the ram is to be an ephah, and the grain offering with the lambs is to be as much as he pleases, along with a hin of oil for each ephah.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:6, Page:1, Kor:"", Chn:"", Eng:"On the day of the New Moon he is to offer a young bull, six lambs and a ram, all without defect.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:7, Page:1, Kor:"", Chn:"", Eng:"He is to provide as a grain offering one ephah with the bull, one ephah with the ram, and with the lambs as much as he wants to give, along with a hin of oil with each ephah.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:8, Page:1, Kor:"", Chn:"", Eng:"When the prince enters, he is to go in through the portico of the gateway, and he is to come out the same way.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'When the people of the land come before the LORD at the appointed feasts, whoever enters by the north gate to worship is to go out the south gate; and whoever enters by the south gate is to go out the north gate. No one is to return through the gate by which he entered, but each is to go out the opposite gate.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The prince is to be among them, going in when they go in and going out when they go out.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:11, Page:1, Kor:"", Chn:"", Eng:""'At the festivals and the appointed feasts, the grain offering is to be an ephah with a bull, an ephah with a ram, and with the lambs as much as one pleases, along with a hin of oil for each ephah.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When the prince provides a freewill offering to the LORD--whether a burnt offering or fellowship offerings--the gate facing east is to be opened for him. He shall offer his burnt offering or his fellowship offerings as he does on the Sabbath day. Then he shall go out, and after he has gone out, the gate will be shut.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Every day you are to provide a year-old lamb without defect for a burnt offering to the LORD; morning by morning you shall provide it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You are also to provide with it morning by morning a grain offering, consisting of a sixth of an ephah with a third of a hin of oil to moisten the flour. The presenting of this grain offering to the LORD is a lasting ordinance.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:15, Page:1, Kor:"", Chn:"", Eng:"So the lamb and the grain offering and the oil shall be provided morning by morning for a regular burnt offering.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'This is what the Sovereign LORD says: If the prince makes a gift from his inheritance to one of his sons, it will also belong to his descendants; it is to be their property by inheritance.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:17, Page:1, Kor:"", Chn:"", Eng:"If, however, he makes a gift from his inheritance to one of his servants, the servant may keep it until the year of freedom; then it will revert to the prince. His inheritance belongs to his sons only; it is theirs.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The prince must not take any of the inheritance of the people, driving them off their property. He is to give his sons their inheritance out of his own property, so that none of my people will be separated from his property.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then the man brought me through the entrance at the side of the gate to the sacred rooms facing north, which belonged to the priests, and showed me a place at the western end.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He said to me, "This is the place where the priests will cook the guilt offering and the sin offering and bake the grain offering, to avoid bringing them into the outer court and consecrating the people."", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He then brought me to the outer court and led me around to its four corners, and I saw in each corner another court.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:22, Page:1, Kor:"", Chn:"", Eng:"In the four corners of the outer court were enclosed courts, forty cubits long and thirty cubits wide; each of the courts in the four corners was the same size.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Around the inside of each of the four courts was a ledge of stone, with places for fire built all around under the ledge.", Ind:""},
+  {Bible:"Ezekiel", Chapter:46, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He said to me, "These are the kitchens where those who minister at the temple will cook the sacrifices of the people."", Ind:""},
 ]);

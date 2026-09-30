@@ -1,6 +1,32 @@
 // 야고보서 1장 · James 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("James",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("James",1,27);
 BibleDB.add([
+  {Bible:"James", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Consider it pure joy, my brothers, whenever you face trials of many kinds,", Ind:""},
+  {Bible:"James", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"because you know that the testing of your faith develops perseverance.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Perseverance must finish its work so that you may be mature and complete, not lacking anything.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"If any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"But when he asks, he must believe and not doubt, because he who doubts is like a wave of the sea, blown and tossed by the wind.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"That man should not think he will receive anything from the Lord;", Ind:""},
+  {Bible:"James", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"he is a double-minded man, unstable in all he does.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The brother in humble circumstances ought to take pride in his high position.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But the one who is rich should take pride in his low position, because he will pass away like a wild flower.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"For the sun rises with scorching heat and withers the plant; its blossom falls and its beauty is destroyed. In the same way, the rich man will fade away even while he goes about his business.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love him.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"When tempted, no one should say, "God is tempting me." For God cannot be tempted by evil, nor does he tempt anyone;", Ind:""},
+  {Bible:"James", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"but each one is tempted when, by his own evil desire, he is dragged away and enticed.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Don't be deceived, my dear brothers.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My dear brothers, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,", Ind:""},
+  {Bible:"James", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"for man's anger does not bring about the righteous life that God desires.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word planted in you, which can save you.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Do not merely listen to the word, and so deceive yourselves. Do what it says.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Anyone who listens to the word but does not do what it says is like a man who looks at his face in a mirror", Ind:""},
+  {Bible:"James", Chapter:1, Verse:24, Page:1, Kor:"", Chn:"", Eng:"and, after looking at himself, goes away and immediately forgets what he looks like.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But the man who looks intently into the perfect law that gives freedom, and continues to do this, not forgetting what he has heard, but doing it--he will be blessed in what he does.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:26, Page:1, Kor:"", Chn:"", Eng:"If anyone considers himself religious and yet does not keep a tight rein on his tongue, he deceives himself and his religion is worthless.", Ind:""},
+  {Bible:"James", Chapter:1, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.", Ind:""},
 ]);

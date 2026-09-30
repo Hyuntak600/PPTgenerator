@@ -1,6 +1,35 @@
 // 빌립보서 2장 · Philippians 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Philippians",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Philippians",2,30);
 BibleDB.add([
+  {Bible:"Philippians", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"If you have any encouragement from being united with Christ, if any comfort from his love, if any fellowship with the Spirit, if any tenderness and compassion,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:"then make my joy complete by being like-minded, having the same love, being one in spirit and purpose.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Each of you should look not only to your own interests, but also to the interests of others.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Your attitude should be the same as that of Christ Jesus:", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Who, being in very nature God, did not consider equality with God something to be grasped,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"but made himself nothing, taking the very nature of a servant, being made in human likeness.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And being found in appearance as a man, he humbled himself and became obedient to death--even death on a cross!", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Therefore God exalted him to the highest place and gave him the name that is above every name,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Therefore, my dear friends, as you have always obeyed--not only in my presence, but now much more in my absence--continue to work out your salvation with fear and trembling,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:"for it is God who works in you to will and to act according to his good purpose.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Do everything without complaining or arguing,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"so that you may become blameless and pure, children of God without fault in a crooked and depraved generation, in which you shine like stars in the universe", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"as you hold out the word of life--in order that I may boast on the day of Christ that I did not run or labor for nothing.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"But even if I am being poured out like a drink offering on the sacrifice and service coming from your faith, I am glad and rejoice with all of you.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"So you too should be glad and rejoice with me.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I receive news about you.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I have no one else like him, who takes a genuine interest in your welfare.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"For everyone looks out for his own interests, not those of Jesus Christ.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But you know that Timothy has proved himself, because as a son with his father he has served with me in the work of the gospel.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:"I hope, therefore, to send him as soon as I see how things go with me.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And I am confident in the Lord that I myself will come soon.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"But I think it is necessary to send back to you Epaphroditus, my brother, fellow worker and fellow soldier, who is also your messenger, whom you sent to take care of my needs.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:"For he longs for all of you and is distressed because you heard he was ill.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Indeed he was ill, and almost died. But God had mercy on him, and not on him only but also on me, to spare me sorrow upon sorrow.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Therefore I am all the more eager to send him, so that when you see him again you may be glad and I may have less anxiety.", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Welcome him in the Lord with great joy, and honor men like him,", Ind:""},
+  {Bible:"Philippians", Chapter:2, Verse:30, Page:1, Kor:"", Chn:"", Eng:"because he almost died for the work of Christ, risking his life to make up for the help you could not give me.", Ind:""},
 ]);

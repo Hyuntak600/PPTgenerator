@@ -1,6 +1,32 @@
 // 출애굽기 15장 · Exodus 15
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",15,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",15,27);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then Moses and the Israelites sang this song to the LORD: "I will sing to the LORD, for he is highly exalted. The horse and its rider he has hurled into the sea.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD is my strength and my song; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"The LORD is a warrior; the LORD is his name.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Pharaoh's chariots and his army he has hurled into the sea. The best of Pharaoh's officers are drowned in the Red Sea.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The deep waters have covered them; they sank to the depths like a stone.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:""Your right hand, O LORD, was majestic in power. Your right hand, O LORD, shattered the enemy.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"In the greatness of your majesty you threw down those who opposed you. You unleashed your burning anger; it consumed them like stubble.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"By the blast of your nostrils the waters piled up. The surging waters stood firm like a wall; the deep waters congealed in the heart of the sea.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:9, Page:1, Kor:"", Chn:"", Eng:""The enemy boasted, 'I will pursue, I will overtake them. I will divide the spoils; I will gorge myself on them. I will draw my sword and my hand will destroy them.'", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But you blew with your breath, and the sea covered them. They sank like lead in the mighty waters.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Who among the gods is like you, O LORD? Who is like you--majestic in holiness, awesome in glory, working wonders?", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:12, Page:1, Kor:"", Chn:"", Eng:"You stretched out your right hand and the earth swallowed them.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:13, Page:1, Kor:"", Chn:"", Eng:""In your unfailing love you will lead the people you have redeemed. In your strength you will guide them to your holy dwelling.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The nations will hear and tremble; anguish will grip the people of Philistia.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The chiefs of Edom will be terrified, the leaders of Moab will be seized with trembling, the people of Canaan will melt away;", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:16, Page:1, Kor:"", Chn:"", Eng:"terror and dread will fall upon them. By the power of your arm they will be as still as a stone--until your people pass by, O LORD, until the people you bought pass by.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:17, Page:1, Kor:"", Chn:"", Eng:"You will bring them in and plant them on the mountain of your inheritance--the place, O LORD, you made for your dwelling, the sanctuary, O Lord, your hands established.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The LORD will reign for ever and ever."", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When Pharaoh's horses, chariots and horsemen went into the sea, the LORD brought the waters of the sea back over them, but the Israelites walked through the sea on dry ground.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then Miriam the prophetess, Aaron's sister, took a tambourine in her hand, and all the women followed her, with tambourines and dancing.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Miriam sang to them: "Sing to the LORD, for he is highly exalted. The horse and its rider he has hurled into the sea."", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then Moses led Israel from the Red Sea and they went into the Desert of Shur. For three days they traveled in the desert without finding water.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When they came to Marah, they could not drink its water because it was bitter. (That is why the place is called Marah.)", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:24, Page:1, Kor:"", Chn:"", Eng:"So the people grumbled against Moses, saying, "What are we to drink?"", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Moses cried out to the LORD, and the LORD showed him a piece of wood. He threw it into the water, and the water became sweet. There the LORD made a decree and a law for them, and there he tested them.", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He said, "If you listen carefully to the voice of the LORD your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the LORD, who heals you."", Ind:""},
+  {Bible:"Exodus", Chapter:15, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then they came to Elim, where there were twelve springs and seventy palm trees, and they camped there near the water.", Ind:""},
 ]);

@@ -1,6 +1,30 @@
 // 출애굽기 7장 · Exodus 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",7,25);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:"You are to say everything I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his country.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But I will harden Pharaoh's heart, and though I multiply my miraculous signs and wonders in Egypt,", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"he will not listen to you. Then I will lay my hand on Egypt and with mighty acts of judgment I will bring out my divisions, my people the Israelites.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And the Egyptians will know that I am the LORD when I stretch out my hand against Egypt and bring the Israelites out of it."", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Moses and Aaron did just as the LORD commanded them.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses and Aaron,", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:""When Pharaoh says to you, 'Perform a miracle,' then say to Aaron, 'Take your staff and throw it down before Pharaoh,' and it will become a snake."", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So Moses and Aaron went to Pharaoh and did just as the LORD commanded. Aaron threw his staff down in front of Pharaoh and his officials, and it became a snake.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Pharaoh then summoned wise men and sorcerers, and the Egyptian magicians also did the same things by their secret arts:", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Each one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Yet Pharaoh's heart became hard and he would not listen to them, just as the LORD had said.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Then the LORD said to Moses, "Pharaoh's heart is unyielding; he refuses to let the people go.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Go to Pharaoh in the morning as he goes out to the water. Wait on the bank of the Nile to meet him, and take in your hand the staff that was changed into a snake.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then say to him, 'The LORD, the God of the Hebrews, has sent me to say to you: Let my people go, so that they may worship me in the desert. But until now you have not listened.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: By this you will know that I am the LORD: With the staff that is in my hand I will strike the water of the Nile, and it will be changed into blood.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The fish in the Nile will die, and the river will stink; the Egyptians will not be able to drink its water.'"", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"The LORD said to Moses, "Tell Aaron, 'Take your staff and stretch out your hand over the waters of Egypt--over the streams and canals, over the ponds and all the reservoirs'--and they will turn to blood. Blood will be everywhere in Egypt, even in the wooden buckets and stone jars."", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Moses and Aaron did just as the LORD had commanded. He raised his staff in the presence of Pharaoh and his officials and struck the water of the Nile, and all the water was changed into blood.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water. Blood was everywhere in Egypt.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But the Egyptian magicians did the same things by their secret arts, and Pharaoh's heart became hard; he would not listen to Moses and Aaron, just as the LORD had said.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Instead, he turned and went into his palace, and did not take even this to heart.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"And all the Egyptians dug along the Nile to get drinking water, because they could not drink the water of the river.", Ind:""},
+  {Bible:"Exodus", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Seven days passed after the LORD struck the Nile.", Ind:""},
 ]);

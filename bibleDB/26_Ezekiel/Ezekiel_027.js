@@ -1,6 +1,41 @@
 // 에스겔 27장 · Ezekiel 27
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",27,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",27,36);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:27, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, take up a lament concerning Tyre.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, 'This is what the Sovereign LORD says: "'You say, O Tyre, "I am perfect in beauty."", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Your domain was on the high seas; your builders brought your beauty to perfection.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They made all your timbers of pine trees from Senir; they took a cedar from Lebanon to make a mast for you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Of oaks from Bashan they made your oars; of cypress wood from the coasts of Cyprus they made your deck, inlaid with ivory.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Fine embroidered linen from Egypt was your sail and served as your banner; your awnings were of blue and purple from the coasts of Elishah.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Men of Sidon and Arvad were your oarsmen; your skilled men, O Tyre, were aboard as your seamen.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Veteran craftsmen of Gebal were on board as shipwrights to caulk your seams. All the ships of the sea and their sailors came alongside to trade for your wares.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:10, Page:1, Kor:"", Chn:"", Eng:""'Men of Persia, Lydia and Put served as soldiers in your army. They hung their shields and helmets on your walls, bringing you splendor.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Men of Arvad and Helech manned your walls on every side; men of Gammad were in your towers. They hung their shields around your walls; they brought your beauty to perfection.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'Tarshish did business with you because of your great wealth of goods; they exchanged silver, iron, tin and lead for your merchandise.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Greece, Tubal and Meshech traded with you; they exchanged slaves and articles of bronze for your wares.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'Men of Beth Togarmah exchanged work horses, war horses and mules for your merchandise.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:15, Page:1, Kor:"", Chn:"", Eng:""'The men of Rhodes traded with you, and many coastlands were your customers; they paid you with ivory tusks and ebony.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:16, Page:1, Kor:"", Chn:"", Eng:""'Aram did business with you because of your many products; they exchanged turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:17, Page:1, Kor:"", Chn:"", Eng:""'Judah and Israel traded with you; they exchanged wheat from Minnith and confections, honey, oil and balm for your wares.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:18, Page:1, Kor:"", Chn:"", Eng:""'Damascus, because of your many products and great wealth of goods, did business with you in wine from Helbon and wool from Zahar.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:19, Page:1, Kor:"", Chn:"", Eng:""'Danites and Greeks from Uzal bought your merchandise; they exchanged wrought iron, cassia and calamus for your wares.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'Dedan traded in saddle blankets with you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:21, Page:1, Kor:"", Chn:"", Eng:""'Arabia and all the princes of Kedar were your customers; they did business with you in lambs, rams and goats.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:22, Page:1, Kor:"", Chn:"", Eng:""'The merchants of Sheba and Raamah traded with you; for your merchandise they exchanged the finest of all kinds of spices and precious stones, and gold.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:23, Page:1, Kor:"", Chn:"", Eng:""'Haran, Canneh and Eden and merchants of Sheba, Asshur and Kilmad traded with you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:24, Page:1, Kor:"", Chn:"", Eng:"In your marketplace they traded with you beautiful garments, blue fabric, embroidered work and multicolored rugs with cords twisted and tightly knotted.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:25, Page:1, Kor:"", Chn:"", Eng:""'The ships of Tarshish serve as carriers for your wares. You are filled with heavy cargo in the heart of the sea.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Your oarsmen take you out to the high seas. But the east wind will break you to pieces in the heart of the sea.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Your wealth, merchandise and wares, your mariners, seamen and shipwrights, your merchants and all your soldiers, and everyone else on board will sink into the heart of the sea on the day of your shipwreck.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:28, Page:1, Kor:"", Chn:"", Eng:"The shorelands will quake when your seamen cry out.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:29, Page:1, Kor:"", Chn:"", Eng:"All who handle the oars will abandon their ships; the mariners and all the seamen will stand on the shore.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:30, Page:1, Kor:"", Chn:"", Eng:"They will raise their voice and cry bitterly over you; they will sprinkle dust on their heads and roll in ashes.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They will shave their heads because of you and will put on sackcloth. They will weep over you with anguish of soul and with bitter mourning.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:32, Page:1, Kor:"", Chn:"", Eng:"As they wail and mourn over you, they will take up a lament concerning you: "Who was ever silenced like Tyre, surrounded by the sea?"", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:33, Page:1, Kor:"", Chn:"", Eng:"When your merchandise went out on the seas, you satisfied many nations; with your great wealth and your wares you enriched the kings of the earth.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Now you are shattered by the sea in the depths of the waters; your wares and all your company have gone down with you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:35, Page:1, Kor:"", Chn:"", Eng:"All who live in the coastlands are appalled at you; their kings shudder with horror and their faces are distorted with fear.", Ind:""},
+  {Bible:"Ezekiel", Chapter:27, Verse:36, Page:1, Kor:"", Chn:"", Eng:"The merchants among the nations hiss at you; you have come to a horrible end and will be no more.'"", Ind:""},
 ]);

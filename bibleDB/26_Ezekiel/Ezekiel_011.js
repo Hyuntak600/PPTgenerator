@@ -1,6 +1,30 @@
 // 에스겔 11장 · Ezekiel 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",11,25);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. There at the entrance to the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"The LORD said to me, "Son of man, these are the men who are plotting evil and giving wicked advice in this city.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They say, 'Will it not soon be time to build houses? This city is a cooking pot, and we are the meat.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Therefore prophesy against them; prophesy, son of man."", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Then the Spirit of the LORD came upon me, and he told me to say: "This is what the LORD says: That is what you are saying, O house of Israel, but I know what is going through your mind.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"You have killed many people in this city and filled its streets with the dead.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Therefore this is what the Sovereign LORD says: The bodies you have thrown there are the meat and this city is the pot, but I will drive you out of it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"You fear the sword, and the sword is what I will bring against you, declares the Sovereign LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"I will drive you out of the city and hand you over to foreigners and inflict punishment on you.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"You will fall by the sword, and I will execute judgment on you at the borders of Israel. Then you will know that I am the LORD.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"This city will not be a pot for you, nor will you be the meat in it; I will execute judgment on you at the borders of Israel.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And you will know that I am the LORD, for you have not followed my decrees or kept my laws but have conformed to the standards of the nations around you."", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and cried out in a loud voice, "Ah, Sovereign LORD! Will you completely destroy the remnant of Israel?"", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Son of man, your brothers--your brothers who are your blood relatives and the whole house of Israel--are those of whom the people of Jerusalem have said, 'They are far away from the LORD; this land was given to us as our possession.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Therefore say: 'This is what the Sovereign LORD says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries where they have gone.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Therefore say: 'This is what the Sovereign LORD says: I will gather you from the nations and bring you back from the countries where you have been scattered, and I will give you back the land of Israel again.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:""They will return to it and remove all its vile images and detestable idols.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"I will give them an undivided heart and put a new spirit in them; I will remove from them their heart of stone and give them a heart of flesh.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then they will follow my decrees and be careful to keep my laws. They will be my people, and I will be their God.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"But as for those whose hearts are devoted to their vile images and detestable idols, I will bring down on their own heads what they have done, declares the Sovereign LORD."", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"The glory of the LORD went up from within the city and stopped above the mountain east of it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The Spirit lifted me up and brought me to the exiles in Babylonia in the vision given by the Spirit of God. Then the vision I had seen went up from me,", Ind:""},
+  {Bible:"Ezekiel", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"and I told the exiles everything the LORD had shown me.", Ind:""},
 ]);

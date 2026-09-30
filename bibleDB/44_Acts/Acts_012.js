@@ -1,6 +1,30 @@
 // 사도행전 12장 · Acts 12
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",12,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",12,25);
 BibleDB.add([
+  {Bible:"Acts", Chapter:12, Verse:1, Page:1, Kor:"", Chn:"", Eng:"It was about this time that King Herod arrested some who belonged to the church, intending to persecute them.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He had James, the brother of John, put to death with the sword.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When he saw that this pleased the Jews, he proceeded to seize Peter also. This happened during the Feast of Unleavened Bread.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:4, Page:1, Kor:"", Chn:"", Eng:"After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So Peter was kept in prison, but the church was earnestly praying to God for him.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. "Quick, get up!" he said, and the chains fell off Peter's wrists.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Then the angel said to him, "Put on your clothes and sandals." And Peter did so. "Wrap your cloak around you and follow me," the angel told him.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Peter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They passed the first and second guards and came to the iron gate leading to the city. It opened for them by itself, and they went through it. When they had walked the length of one street, suddenly the angel left him.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then Peter came to himself and said, "Now I know without a doubt that the Lord sent his angel and rescued me from Herod's clutches and from everything the Jewish people were anticipating."", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Peter knocked at the outer entrance, and a servant girl named Rhoda came to answer the door.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When she recognized Peter's voice, she was so overjoyed she ran back without opening it and exclaimed, "Peter is at the door!"", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:15, Page:1, Kor:"", Chn:"", Eng:""You're out of your mind," they told her. When she kept insisting that it was so, they said, "It must be his angel."", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:16, Page:1, Kor:"", Chn:"", Eng:"But Peter kept on knocking, and when they opened the door and saw him, they were astonished.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. "Tell James and the brothers about this," he said, and then he left for another place.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:18, Page:1, Kor:"", Chn:"", Eng:"In the morning, there was no small commotion among the soldiers as to what had become of Peter.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:19, Page:1, Kor:"", Chn:"", Eng:"After Herod had a thorough search made for him and did not find him, he cross-examined the guards and ordered that they be executed. Then Herod went from Judea to Caesarea and stayed there a while.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:20, Page:1, Kor:"", Chn:"", Eng:"He had been quarreling with the people of Tyre and Sidon; they now joined together and sought an audience with him. Having secured the support of Blastus, a trusted personal servant of the king, they asked for peace, because they depended on the king's country for their food supply.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:21, Page:1, Kor:"", Chn:"", Eng:"On the appointed day Herod, wearing his royal robes, sat on his throne and delivered a public address to the people.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:22, Page:1, Kor:"", Chn:"", Eng:"They shouted, "This is the voice of a god, not of a man."", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Immediately, because Herod did not give praise to God, an angel of the Lord struck him down, and he was eaten by worms and died.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But the word of God continued to increase and spread.", Ind:""},
+  {Bible:"Acts", Chapter:12, Verse:25, Page:1, Kor:"", Chn:"", Eng:"When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark.", Ind:""},
 ]);

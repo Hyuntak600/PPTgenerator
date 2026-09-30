@@ -1,6 +1,30 @@
 // 욥기 29장 · Job 29
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",29,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",29,25);
 BibleDB.add([
+  {Bible:"Job", Chapter:29, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Job continued his discourse:", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:2, Page:1, Kor:"", Chn:"", Eng:""How I long for the months gone by, for the days when God watched over me,", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:3, Page:1, Kor:"", Chn:"", Eng:"when his lamp shone upon my head and by his light I walked through darkness!", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Oh, for the days when I was in my prime, when God's intimate friendship blessed my house,", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:5, Page:1, Kor:"", Chn:"", Eng:"when the Almighty was still with me and my children were around me,", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:6, Page:1, Kor:"", Chn:"", Eng:"when my path was drenched with cream and the rock poured out for me streams of olive oil.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:7, Page:1, Kor:"", Chn:"", Eng:""When I went to the gate of the city and took my seat in the public square,", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:8, Page:1, Kor:"", Chn:"", Eng:"the young men saw me and stepped aside and the old men rose to their feet;", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:9, Page:1, Kor:"", Chn:"", Eng:"the chief men refrained from speaking and covered their mouths with their hands;", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:10, Page:1, Kor:"", Chn:"", Eng:"the voices of the nobles were hushed, and their tongues stuck to the roof of their mouths.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Whoever heard me spoke well of me, and those who saw me commended me,", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:12, Page:1, Kor:"", Chn:"", Eng:"because I rescued the poor who cried for help, and the fatherless who had none to assist him.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The man who was dying blessed me; I made the widow's heart sing.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:14, Page:1, Kor:"", Chn:"", Eng:"I put on righteousness as my clothing; justice was my robe and my turban.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I was eyes to the blind and feet to the lame.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:16, Page:1, Kor:"", Chn:"", Eng:"I was a father to the needy; I took up the case of the stranger.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:17, Page:1, Kor:"", Chn:"", Eng:"I broke the fangs of the wicked and snatched the victims from their teeth.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:18, Page:1, Kor:"", Chn:"", Eng:""I thought, 'I will die in my own house, my days as numerous as the grains of sand.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:19, Page:1, Kor:"", Chn:"", Eng:"My roots will reach to the water, and the dew will lie all night on my branches.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:20, Page:1, Kor:"", Chn:"", Eng:"My glory will remain fresh in me, the bow ever new in my hand.'", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:21, Page:1, Kor:"", Chn:"", Eng:""Men listened to me expectantly, waiting in silence for my counsel.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:22, Page:1, Kor:"", Chn:"", Eng:"After I had spoken, they spoke no more; my words fell gently on their ears.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They waited for me as for showers and drank in my words as the spring rain.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:24, Page:1, Kor:"", Chn:"", Eng:"When I smiled at them, they scarcely believed it; the light of my face was precious to them.", Ind:""},
+  {Bible:"Job", Chapter:29, Verse:25, Page:1, Kor:"", Chn:"", Eng:"I chose the way for them and sat as their chief; I dwelt as a king among his troops; I was like one who comforts mourners.", Ind:""},
 ]);

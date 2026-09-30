@@ -1,6 +1,36 @@
 // 출애굽기 38장 · Exodus 38
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",38,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",38,31);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:38, Verse:1, Page:1, Kor:"", Chn:"", Eng:"They built the altar of burnt offering of acacia wood, three cubits high; it was square, five cubits long and five cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:2, Page:1, Kor:"", Chn:"", Eng:"They made a horn at each of the four corners, so that the horns and the altar were of one piece, and they overlaid the altar with bronze.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They made all its utensils of bronze--its pots, shovels, sprinkling bowls, meat forks and firepans.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They made a grating for the altar, a bronze network, to be under its ledge, halfway up the altar.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:5, Page:1, Kor:"", Chn:"", Eng:"They cast bronze rings to hold the poles for the four corners of the bronze grating.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They made the poles of acacia wood and overlaid them with bronze.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the Tent of Meeting.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Next they made the courtyard. The south side was a hundred cubits long and had curtains of finely twisted linen,", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:10, Page:1, Kor:"", Chn:"", Eng:"with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The north side was also a hundred cubits long and had twenty posts and twenty bronze bases, with silver hooks and bands on the posts.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The west end was fifty cubits wide and had curtains, with ten posts and ten bases, with silver hooks and bands on the posts.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The east end, toward the sunrise, was also fifty cubits wide.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Curtains fifteen cubits long were on one side of the entrance, with three posts and three bases,", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:15, Page:1, Kor:"", Chn:"", Eng:"and curtains fifteen cubits long were on the other side of the entrance to the courtyard, with three posts and three bases.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:16, Page:1, Kor:"", Chn:"", Eng:"All the curtains around the courtyard were of finely twisted linen.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The bases for the posts were bronze. The hooks and bands on the posts were silver, and their tops were overlaid with silver; so all the posts of the courtyard had silver bands.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The curtain for the entrance to the courtyard was of blue, purple and scarlet yarn and finely twisted linen--the work of an embroiderer. It was twenty cubits long and, like the curtains of the courtyard, five cubits high,", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:19, Page:1, Kor:"", Chn:"", Eng:"with four posts and four bronze bases. Their hooks and bands were silver, and their tops were overlaid with silver.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:20, Page:1, Kor:"", Chn:"", Eng:"All the tent pegs of the tabernacle and of the surrounding courtyard were bronze.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:21, Page:1, Kor:"", Chn:"", Eng:"These are the amounts of the materials used for the tabernacle, the tabernacle of the Testimony, which were recorded at Moses' command by the Levites under the direction of Ithamar son of Aaron, the priest.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:22, Page:1, Kor:"", Chn:"", Eng:"(Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the LORD commanded Moses;", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:23, Page:1, Kor:"", Chn:"", Eng:"with him was Oholiab son of Ahisamach, of the tribe of Dan--a craftsman and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.)", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The total amount of the gold from the wave offering used for all the work on the sanctuary was", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:29, Page:1, Kor:"", Chn:"", Eng:"talents and 730 shekels, according to the sanctuary shekel.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The silver obtained from those of the community who were counted in the census was 100 talents and 1,775 shekels, according to the sanctuary shekel--", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:26, Page:1, Kor:"", Chn:"", Eng:"one beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone who had crossed over to those counted, twenty years old or more, a total of 603,550 men.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:27, Page:1, Kor:"", Chn:"", Eng:"The 100 talents of silver were used to cast the bases for the sanctuary and for the curtain--100 bases from the 100 talents, one talent for each base.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They used the 1,775 shekels to make the hooks for the posts, to overlay the tops of the posts, and to make their bands. 29 The bronze from the wave offering was 70 talents and 2,400 shekels.", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:30, Page:1, Kor:"", Chn:"", Eng:"They used it to make the bases for the entrance to the Tent of Meeting, the bronze altar with its bronze grating and all its utensils,", Ind:""},
+  {Bible:"Exodus", Chapter:38, Verse:31, Page:1, Kor:"", Chn:"", Eng:"the bases for the surrounding courtyard and those for its entrance and all the tent pegs for the tabernacle and those for the surrounding courtyard.", Ind:""},
 ]);

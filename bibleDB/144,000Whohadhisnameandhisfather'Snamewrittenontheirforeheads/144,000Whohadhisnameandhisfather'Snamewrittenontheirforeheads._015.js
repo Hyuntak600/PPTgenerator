@@ -1,0 +1,13 @@
+// 144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads. 15장 · 144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads. 15
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.",15,8);
+BibleDB.add([
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:1, Page:1, Kor:"", Chn:"", Eng:"I saw in heaven another great and marvelous sign: seven angels with the seven last plagues--last, because with them God's wrath is completed.", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:2, Page:1, Kor:"", Chn:"", Eng:"And I saw what looked like a sea of glass mixed with fire and, standing beside the sea, those who had been victorious over the beast and his image and over the number of his name. They held harps given them by God", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and sang the song of Moses the servant of God and the song of the Lamb: "Great and marvelous are your deeds, Lord God Almighty. Just and true are your ways, King of the ages.", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Who will not fear you, O Lord, and bring glory to your name? For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed."", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:5, Page:1, Kor:"", Chn:"", Eng:"After this I looked and in heaven the temple, that is, the tabernacle of the Testimony, was opened.", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Out of the temple came the seven angels with the seven plagues. They were dressed in clean, shining linen and wore golden sashes around their chests.", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then one of the four living creatures gave to the seven angels seven golden bowls filled with the wrath of God, who lives for ever and ever.", Ind:""},
+  {Bible:"144,000Whohadhisnameandhisfather'Snamewrittenontheirforeheads.", Chapter:15, Verse:8, Page:1, Kor:"", Chn:"", Eng:"And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.", Ind:""},
+]);

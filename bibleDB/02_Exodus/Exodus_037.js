@@ -1,6 +1,34 @@
 // 출애굽기 37장 · Exodus 37
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Exodus",37,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Exodus",37,29);
 BibleDB.add([
+  {Bible:"Exodus", Chapter:37, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Bezalel made the ark of acacia wood--two and a half cubits long, a cubit and a half wide, and a cubit and a half high.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:2, Page:1, Kor:"", Chn:"", Eng:"He overlaid it with pure gold, both inside and out, and made a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:3, Page:1, Kor:"", Chn:"", Eng:"He cast four gold rings for it and fastened them to its four feet, with two rings on one side and two rings on the other.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Then he made poles of acacia wood and overlaid them with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:5, Page:1, Kor:"", Chn:"", Eng:"And he inserted the poles into the rings on the sides of the ark to carry it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He made the atonement cover of pure gold--two and a half cubits long and a cubit and a half wide.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then he made two cherubim out of hammered gold at the ends of the cover.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He made one cherub on one end and the second cherub on the other; at the two ends he made them of one piece with the cover.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The cherubim had their wings spread upward, overshadowing the cover with them. The cherubim faced each other, looking toward the cover.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:10, Page:1, Kor:"", Chn:"", Eng:"They made the table of acacia wood--two cubits long, a cubit wide, and a cubit and a half high.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then they overlaid it with pure gold and made a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:12, Page:1, Kor:"", Chn:"", Eng:"They also made around it a rim a handbreadth wide and put a gold molding on the rim.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:13, Page:1, Kor:"", Chn:"", Eng:"They cast four gold rings for the table and fastened them to the four corners, where the four legs were.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The rings were put close to the rim to hold the poles used in carrying the table.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The poles for carrying the table were made of acacia wood and were overlaid with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:16, Page:1, Kor:"", Chn:"", Eng:"And they made from pure gold the articles for the table--its plates and dishes and bowls and its pitchers for the pouring out of drink offerings.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:17, Page:1, Kor:"", Chn:"", Eng:"They made the lampstand of pure gold and hammered it out, base and shaft; its flowerlike cups, buds and blossoms were of one piece with it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Six branches extended from the sides of the lampstand--three on one side and three on the other.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Three cups shaped like almond flowers with buds and blossoms were on one branch, three on the next branch and the same for all six branches extending from the lampstand.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:20, Page:1, Kor:"", Chn:"", Eng:"And on the lampstand were four cups shaped like almond flowers with buds and blossoms.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:21, Page:1, Kor:"", Chn:"", Eng:"One bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The buds and the branches were all of one piece with the lampstand, hammered out of pure gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They made its seven lamps, as well as its wick trimmers and trays, of pure gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:24, Page:1, Kor:"", Chn:"", Eng:"They made the lampstand and all its accessories from one talent of pure gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:25, Page:1, Kor:"", Chn:"", Eng:"They made the altar of incense out of acacia wood. It was square, a cubit long and a cubit wide, and two cubits high--its horns of one piece with it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:26, Page:1, Kor:"", Chn:"", Eng:"They overlaid the top and all the sides and the horns with pure gold, and made a gold molding around it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They made two gold rings below the molding--two on opposite sides--to hold the poles used to carry it.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They made the poles of acacia wood and overlaid them with gold.", Ind:""},
+  {Bible:"Exodus", Chapter:37, Verse:29, Page:1, Kor:"", Chn:"", Eng:"They also made the sacred anointing oil and the pure, fragrant incense--the work of a perfumer.", Ind:""},
 ]);

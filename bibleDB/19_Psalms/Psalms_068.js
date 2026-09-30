@@ -1,6 +1,40 @@
 // 시편 68장 · Psalms 68
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Psalms",68,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Psalms",68,35);
 BibleDB.add([
+  {Bible:"Psalms", Chapter:68, Verse:1, Page:1, Kor:"", Chn:"", Eng:"May God arise, may his enemies be scattered; may his foes flee before him.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:2, Page:1, Kor:"", Chn:"", Eng:"As smoke is blown away by the wind, may you blow them away; as wax melts before the fire, may the wicked perish before God.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:3, Page:1, Kor:"", Chn:"", Eng:"But may the righteous be glad and rejoice before God; may they be happy and joyful.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Sing to God, sing praise to his name, extol him who rides on the clouds--his name is the LORD--and rejoice before him.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:5, Page:1, Kor:"", Chn:"", Eng:"A father to the fatherless, a defender of widows, is God in his holy dwelling.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:6, Page:1, Kor:"", Chn:"", Eng:"God sets the lonely in families, he leads forth the prisoners with singing; but the rebellious live in a sun-scorched land.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When you went out before your people, O God, when you marched through the wasteland, Selah", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:8, Page:1, Kor:"", Chn:"", Eng:"the earth shook, the heavens poured down rain, before God, the One of Sinai, before God, the God of Israel.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:9, Page:1, Kor:"", Chn:"", Eng:"You gave abundant showers, O God; you refreshed your weary inheritance.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Your people settled in it, and from your bounty, O God, you provided for the poor.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The Lord announced the word, and great was the company of those who proclaimed it:", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:12, Page:1, Kor:"", Chn:"", Eng:""Kings and armies flee in haste; in the camps men divide the plunder.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Even while you sleep among the campfires, the wings of my dove are sheathed with silver, its feathers with shining gold."", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When the Almighty scattered the kings in the land, it was like snow fallen on Zalmon.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The mountains of Bashan are majestic mountains; rugged are the mountains of Bashan.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Why gaze in envy, O rugged mountains, at the mountain where God chooses to reign, where the LORD himself will dwell forever?", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The chariots of God are tens of thousands and thousands of thousands; the Lord has come from Sinai into his sanctuary.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When you ascended on high, you led captives in your train; you received gifts from men, even from the rebellious--that you, O LORD God, might dwell there.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Praise be to the Lord, to God our Savior, who daily bears our burdens. Selah", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Our God is a God who saves; from the Sovereign LORD comes escape from death.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Surely God will crush the heads of his enemies, the hairy crowns of those who go on in their sins.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:22, Page:1, Kor:"", Chn:"", Eng:"The Lord says, "I will bring them from Bashan; I will bring them from the depths of the sea,", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:23, Page:1, Kor:"", Chn:"", Eng:"that you may plunge your feet in the blood of your foes, while the tongues of your dogs have their share."", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Your procession has come into view, O God, the procession of my God and King into the sanctuary.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:25, Page:1, Kor:"", Chn:"", Eng:"In front are the singers, after them the musicians; with them are the maidens playing tambourines.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Praise God in the great congregation; praise the LORD in the assembly of Israel.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:27, Page:1, Kor:"", Chn:"", Eng:"There is the little tribe of Benjamin, leading them, there the great throng of Judah's princes, and there the princes of Zebulun and of Naphtali.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Summon your power, O God; show us your strength, O God, as you have done before.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Because of your temple at Jerusalem kings will bring you gifts.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Rebuke the beast among the reeds, the herd of bulls among the calves of the nations. Humbled, may it bring bars of silver. Scatter the nations who delight in war.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Envoys will come from Egypt; Cush will submit herself to God.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Sing to God, O kingdoms of the earth, sing praise to the Lord, Selah", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:33, Page:1, Kor:"", Chn:"", Eng:"to him who rides the ancient skies above, who thunders with mighty voice.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Proclaim the power of God, whose majesty is over Israel, whose power is in the skies.", Ind:""},
+  {Bible:"Psalms", Chapter:68, Verse:35, Page:1, Kor:"", Chn:"", Eng:"You are awesome, O God, in your sanctuary; the God of Israel gives power and strength to his people. Praise be to God!", Ind:""},
 ]);

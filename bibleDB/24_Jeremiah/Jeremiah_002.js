@@ -1,6 +1,42 @@
 // 예레미야 2장 · Jeremiah 2
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",2,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",2,37);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:2, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Go and proclaim in the hearing of Jerusalem: "'I remember the devotion of your youth, how as a bride you loved me and followed me through the desert, through a land not sown.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Israel was holy to the LORD, the firstfruits of his harvest; all who devoured her were held guilty, and disaster overtook them,'" declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Hear the word of the LORD, O house of Jacob, all you clans of the house of Israel.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:5, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD says: "What fault did your fathers find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They did not ask, 'Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and rifts, a land of drought and darkness, a land where no one travels and no one lives?'", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:7, Page:1, Kor:"", Chn:"", Eng:"I brought you into a fertile land to eat its fruit and rich produce. But you came and defiled my land and made my inheritance detestable.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The priests did not ask, 'Where is the LORD?' Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:9, Page:1, Kor:"", Chn:"", Eng:""Therefore I bring charges against you again," declares the LORD. "And I will bring charges against your children's children.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Cross over to the coasts of Kittim and look, send to Kedar and observe closely; see if there has ever been anything like this:", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Has a nation ever changed its gods? (Yet they are not gods at all.) But my people have exchanged their Glory for worthless idols.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Be appalled at this, O heavens, and shudder with great horror," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:13, Page:1, Kor:"", Chn:"", Eng:""My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Is Israel a servant, a slave by birth? Why then has he become plunder?", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Lions have roared; they have growled at him. They have laid waste his land; his towns are burned and deserted.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Also, the men of Memphis and Pahpanhes have shaved the crown of your head.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Have you not brought this on yourselves by forsaking the LORD your God when he led you in the way?", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Now why go to Egypt to drink water from the Shihor? And why go to Assyria to drink water from the River?", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Your wickedness will punish you; your backsliding will rebuke you. Consider then and realize how evil and bitter it is for you when you forsake the LORD your God and have no awe of me," declares the Lord, the LORD Almighty.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Long ago you broke off your yoke and tore off your bonds; you said, 'I will not serve you!' Indeed, on every high hill and under every spreading tree you lay down as a prostitute.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:21, Page:1, Kor:"", Chn:"", Eng:"I had planted you like a choice vine of sound and reliable stock. How then did you turn against me into a corrupt, wild vine?", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Although you wash yourself with soda and use an abundance of soap, the stain of your guilt is still before me," declares the Sovereign LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:23, Page:1, Kor:"", Chn:"", Eng:""How can you say, 'I am not defiled; I have not run after the Baals'? See how you behaved in the valley; consider what you have done. You are a swift she-camel running here and there,", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:24, Page:1, Kor:"", Chn:"", Eng:"a wild donkey accustomed to the desert, sniffing the wind in her craving--in her heat who can restrain her? Any males that pursue her need not tire themselves; at mating time they will find her.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Do not run until your feet are bare and your throat is dry. But you said, 'It's no use! I love foreign gods, and I must go after them.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:26, Page:1, Kor:"", Chn:"", Eng:""As a thief is disgraced when he is caught, so the house of Israel is disgraced--they, their kings and their officials, their priests and their prophets.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:27, Page:1, Kor:"", Chn:"", Eng:"They say to wood, 'You are my father,' and to stone, 'You gave me birth.' They have turned their backs to me and not their faces; yet when they are in trouble, they say, 'Come and save us!'", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Where then are the gods you made for yourselves? Let them come if they can save you when you are in trouble! For you have as many gods as you have towns, O Judah.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:29, Page:1, Kor:"", Chn:"", Eng:""Why do you bring charges against me? You have all rebelled against me," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:30, Page:1, Kor:"", Chn:"", Eng:""In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravening lion.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:31, Page:1, Kor:"", Chn:"", Eng:""You of this generation, consider the word of the LORD: "Have I been a desert to Israel or a land of great darkness? Why do my people say, 'We are free to roam; we will come to you no more'?", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Does a maiden forget her jewelry, a bride her wedding ornaments? Yet my people have forgotten me, days without number.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:33, Page:1, Kor:"", Chn:"", Eng:"How skilled you are at pursuing love! Even the worst of women can learn from your ways.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:34, Page:1, Kor:"", Chn:"", Eng:"On your clothes men find the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all this", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:35, Page:1, Kor:"", Chn:"", Eng:"you say, 'I am innocent; he is not angry with me.' But I will pass judgment on you because you say, 'I have not sinned.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Why do you go about so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.", Ind:""},
+  {Bible:"Jeremiah", Chapter:2, Verse:37, Page:1, Kor:"", Chn:"", Eng:"You will also leave that place with your hands on your head, for the LORD has rejected those you trust; you will not be helped by them.", Ind:""},
 ]);

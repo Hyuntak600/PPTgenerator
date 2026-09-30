@@ -1,6 +1,45 @@
 // 히브리서 11장 · Hebrews 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Hebrews",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Hebrews",11,40);
 BibleDB.add([
+  {Bible:"Hebrews", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Now faith is being sure of what we hope for and certain of what we do not see.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"This is what the ancients were commended for.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as a righteous man, when God spoke well of his offerings. And by faith he still speaks, even though he is dead.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:"By faith Enoch was taken from this life, so that he did not experience death; he could not be found, because God had taken him away. For before he was taken, he was commended as one who pleased God.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"By faith Noah, when warned about things not yet seen, in holy fear built an ark to save his family. By his faith he condemned the world and became heir of the righteousness that comes by faith.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:"By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, even though he did not know where he was going.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:"By faith he made his home in the promised land like a stranger in a foreign country; he lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"For he was looking forward to the city with foundations, whose architect and builder is God.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:"By faith Abraham, even though he was past age--and Sarah herself was barren--was enabled to become a father because he considered him faithful who had made the promise.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"And so from this one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance. And they admitted that they were aliens and strangers on earth.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"People who say such things show that they are looking for a country of their own.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:"If they had been thinking of the country they had left, they would have had opportunity to return.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Instead, they were longing for a better country--a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared a city for them.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"By faith Abraham, when God tested him, offered Isaac as a sacrifice. He who had received the promises was about to sacrifice his one and only son,", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"even though God had said to him, "It is through Isaac that your offspring will be reckoned."", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Abraham reasoned that God could raise the dead, and figuratively speaking, he did receive Isaac back from death.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"By faith Isaac blessed Jacob and Esau in regard to their future.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"By faith Jacob, when he was dying, blessed each of Joseph's sons, and worshiped as he leaned on the top of his staff.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"By faith Joseph, when his end was near, spoke about the exodus of the Israelites from Egypt and gave instructions about his bones.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"By faith Moses' parents hid him for three months after he was born, because they saw he was no ordinary child, and they were not afraid of the king's edict.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"By faith Moses, when he had grown up, refused to be known as the son of Pharaoh's daughter.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"He chose to be mistreated along with the people of God rather than to enjoy the pleasures of sin for a short time.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"By faith he left Egypt, not fearing the king's anger; he persevered because he saw him who is invisible.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"By faith he kept the Passover and the sprinkling of blood, so that the destroyer of the firstborn would not touch the firstborn of Israel.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to do so, they were drowned.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"By faith the walls of Jericho fell, after the people had marched around them for seven days.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:31, Page:1, Kor:"", Chn:"", Eng:"By faith the prostitute Rahab, because she welcomed the spies, was not killed with those who were disobedient.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:32, Page:1, Kor:"", Chn:"", Eng:"And what more shall I say? I do not have time to tell about Gideon, Barak, Samson, Jephthah, David, Samuel and the prophets,", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:33, Page:1, Kor:"", Chn:"", Eng:"who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions,", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:34, Page:1, Kor:"", Chn:"", Eng:"quenched the fury of the flames, and escaped the edge of the sword; whose weakness was turned to strength; and who became powerful in battle and routed foreign armies.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:35, Page:1, Kor:"", Chn:"", Eng:"Women received back their dead, raised to life again. Others were tortured and refused to be released, so that they might gain a better resurrection.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:36, Page:1, Kor:"", Chn:"", Eng:"Some faced jeers and flogging, while still others were chained and put in prison.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:37, Page:1, Kor:"", Chn:"", Eng:"They were stoned; they were sawed in two; they were put to death by the sword. They went about in sheepskins and goatskins, destitute, persecuted and mistreated--", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:38, Page:1, Kor:"", Chn:"", Eng:"the world was not worthy of them. They wandered in deserts and mountains, and in caves and holes in the ground.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:39, Page:1, Kor:"", Chn:"", Eng:"These were all commended for their faith, yet none of them received what had been promised.", Ind:""},
+  {Bible:"Hebrews", Chapter:11, Verse:40, Page:1, Kor:"", Chn:"", Eng:"God had planned something better for us so that only together with us would they be made perfect.", Ind:""},
 ]);

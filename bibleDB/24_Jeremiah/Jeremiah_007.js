@@ -1,6 +1,39 @@
 // 예레미야 7장 · Jeremiah 7
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",7,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",7,34);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:7, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the word that came to Jeremiah from the LORD:", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Stand at the gate of the LORD'S house and there proclaim this message: "'Hear the word of the LORD, all you people of Judah who come through these gates to worship the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:3, Page:1, Kor:"", Chn:"", Eng:"This is what the LORD Almighty, the God of Israel, says: Reform your ways and your actions, and I will let you live in this place.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Do not trust in deceptive words and say, "This is the temple of the LORD, the temple of the LORD, the temple of the LORD!"", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:5, Page:1, Kor:"", Chn:"", Eng:"If you really change your ways and your actions and deal with each other justly,", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:6, Page:1, Kor:"", Chn:"", Eng:"if you do not oppress the alien, the fatherless or the widow and do not shed innocent blood in this place, and if you do not follow other gods to your own harm,", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:7, Page:1, Kor:"", Chn:"", Eng:"then I will let you live in this place, in the land I gave your forefathers for ever and ever.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:8, Page:1, Kor:"", Chn:"", Eng:"But look, you are trusting in deceptive words that are worthless.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'Will you steal and murder, commit adultery and perjury, burn incense to Baal and follow other gods you have not known,", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:10, Page:1, Kor:"", Chn:"", Eng:"and then come and stand before me in this house, which bears my Name, and say, "We are safe"--safe to do all these detestable things?", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Has this house, which bears my Name, become a den of robbers to you? But I have been watching! declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:12, Page:1, Kor:"", Chn:"", Eng:""'Go now to the place in Shiloh where I first made a dwelling for my Name, and see what I did to it because of the wickedness of my people Israel.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:13, Page:1, Kor:"", Chn:"", Eng:"While you were doing all these things, declares the LORD, I spoke to you again and again, but you did not listen; I called you, but you did not answer.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:14, Page:1, Kor:"", Chn:"", Eng:"Therefore, what I did to Shiloh I will now do to the house that bears my Name, the temple you trust in, the place I gave to you and your fathers.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:15, Page:1, Kor:"", Chn:"", Eng:"I will thrust you from my presence, just as I did all your brothers, the people of Ephraim.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:16, Page:1, Kor:"", Chn:"", Eng:""So do not pray for this people nor offer any plea or petition for them; do not plead with me, for I will not listen to you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Do you not see what they are doing in the towns of Judah and in the streets of Jerusalem?", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:18, Page:1, Kor:"", Chn:"", Eng:"The children gather wood, the fathers light the fire, and the women knead the dough and make cakes of bread for the Queen of Heaven. They pour out drink offerings to other gods to provoke me to anger.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:19, Page:1, Kor:"", Chn:"", Eng:"But am I the one they are provoking? declares the LORD. Are they not rather harming themselves, to their own shame?", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:20, Page:1, Kor:"", Chn:"", Eng:""'Therefore this is what the Sovereign LORD says: My anger and my wrath will be poured out on this place, on man and beast, on the trees of the field and on the fruit of the ground, and it will burn and not be quenched.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:21, Page:1, Kor:"", Chn:"", Eng:""'This is what the LORD Almighty, the God of Israel, says: Go ahead, add your burnt offerings to your other sacrifices and eat the meat yourselves!", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For when I brought your forefathers out of Egypt and spoke to them, I did not just give them commands about burnt offerings and sacrifices,", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:23, Page:1, Kor:"", Chn:"", Eng:"but I gave them this command: Obey me, and I will be your God and you will be my people. Walk in all the ways I command you, that it may go well with you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:24, Page:1, Kor:"", Chn:"", Eng:"But they did not listen or pay attention; instead, they followed the stubborn inclinations of their evil hearts. They went backward and not forward.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:25, Page:1, Kor:"", Chn:"", Eng:"From the time your forefathers left Egypt until now, day after day, again and again I sent you my servants the prophets.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:26, Page:1, Kor:"", Chn:"", Eng:"But they did not listen to me or pay attention. They were stiff-necked and did more evil than their forefathers.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:27, Page:1, Kor:"", Chn:"", Eng:""When you tell them all this, they will not listen to you; when you call to them, they will not answer.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Therefore say to them, 'This is the nation that has not obeyed the LORD its God or responded to correction. Truth has perished; it has vanished from their lips.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Cut off your hair and throw it away; take up a lament on the barren heights, for the LORD has rejected and abandoned this generation that is under his wrath.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:30, Page:1, Kor:"", Chn:"", Eng:""'The people of Judah have done evil in my eyes, declares the LORD. They have set up their detestable idols in the house that bears my Name and have defiled it.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:31, Page:1, Kor:"", Chn:"", Eng:"They have built the high places of Topheth in the Valley of Ben Hinnom to burn their sons and daughters in the fire--something I did not command, nor did it enter my mind.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:32, Page:1, Kor:"", Chn:"", Eng:"So beware, the days are coming, declares the LORD, when people will no longer call it Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter, for they will bury the dead in Topheth until there is no more room.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:33, Page:1, Kor:"", Chn:"", Eng:"Then the carcasses of this people will become food for the birds of the air and the beasts of the earth, and there will be no one to frighten them away.", Ind:""},
+  {Bible:"Jeremiah", Chapter:7, Verse:34, Page:1, Kor:"", Chn:"", Eng:"I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land will become desolate.", Ind:""},
 ]);

@@ -1,6 +1,30 @@
 // 욥기 24장 · Job 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Job",24,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Job",24,25);
 BibleDB.add([
+  {Bible:"Job", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:""Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Men move boundary stones; they pasture flocks they have stolen.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:3, Page:1, Kor:"", Chn:"", Eng:"They drive away the orphan's donkey and take the widow's ox in pledge.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:4, Page:1, Kor:"", Chn:"", Eng:"They thrust the needy from the path and force all the poor of the land into hiding.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:5, Page:1, Kor:"", Chn:"", Eng:"Like wild donkeys in the desert, the poor go about their labor of foraging food; the wasteland provides food for their children.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:6, Page:1, Kor:"", Chn:"", Eng:"They gather fodder in the fields and glean in the vineyards of the wicked.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Lacking clothes, they spend the night naked; they have nothing to cover themselves in the cold.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:8, Page:1, Kor:"", Chn:"", Eng:"They are drenched by mountain rains and hug the rocks for lack of shelter.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:9, Page:1, Kor:"", Chn:"", Eng:"The fatherless child is snatched from the breast; the infant of the poor is seized for a debt.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Lacking clothes, they go about naked; they carry the sheaves, but still go hungry.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:11, Page:1, Kor:"", Chn:"", Eng:"They crush olives among the terraces; they tread the winepresses, yet suffer thirst.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The groans of the dying rise from the city, and the souls of the wounded cry out for help. But God charges no one with wrongdoing.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:""There are those who rebel against the light, who do not know its ways or stay in its paths.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:"When daylight is gone, the murderer rises up and kills the poor and needy; in the night he steals forth like a thief.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The eye of the adulterer watches for dusk; he thinks, 'No eye will see me,' and he keeps his face concealed.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:"In the dark, men break into houses, but by day they shut themselves in; they want nothing to do with the light.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For all of them, deep darkness is their morning; they make friends with the terrors of darkness.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:18, Page:1, Kor:"", Chn:"", Eng:""Yet they are foam on the surface of the water; their portion of the land is cursed, so that no one goes to the vineyards.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:19, Page:1, Kor:"", Chn:"", Eng:"As heat and drought snatch away the melted snow, so the grave snatches away those who have sinned.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:20, Page:1, Kor:"", Chn:"", Eng:"The womb forgets them, the worm feasts on them; evil men are no longer remembered but are broken like a tree.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:21, Page:1, Kor:"", Chn:"", Eng:"They prey on the barren and childless woman, and to the widow show no kindness.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:22, Page:1, Kor:"", Chn:"", Eng:"But God drags away the mighty by his power; though they become established, they have no assurance of life.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He may let them rest in a feeling of security, but his eyes are on their ways.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"For a little while they are exalted, and then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.", Ind:""},
+  {Bible:"Job", Chapter:24, Verse:25, Page:1, Kor:"", Chn:"", Eng:""If this is not so, who can prove me false and reduce my words to nothing?"", Ind:""},
 ]);

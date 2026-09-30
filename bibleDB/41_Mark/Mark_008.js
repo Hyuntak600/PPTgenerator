@@ -1,6 +1,43 @@
 // 마가복음 8장 · Mark 8
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Mark",8,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Mark",8,38);
 BibleDB.add([
+  {Bible:"Mark", Chapter:8, Verse:1, Page:1, Kor:"", Chn:"", Eng:"During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:2, Page:1, Kor:"", Chn:"", Eng:""I have compassion for these people; they have already been with me three days and have nothing to eat.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:3, Page:1, Kor:"", Chn:"", Eng:"If I send them home hungry, they will collapse on the way, because some of them have come a long distance."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:4, Page:1, Kor:"", Chn:"", Eng:"His disciples answered, "But where in this remote place can anyone get enough bread to feed them?"", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:5, Page:1, Kor:"", Chn:"", Eng:""How many loaves do you have?" Jesus asked. "Seven," they replied.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:6, Page:1, Kor:"", Chn:"", Eng:"He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to set before the people, and they did so.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:7, Page:1, Kor:"", Chn:"", Eng:"They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:8, Page:1, Kor:"", Chn:"", Eng:"The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:9, Page:1, Kor:"", Chn:"", Eng:"About four thousand men were present. And having sent them away,", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:10, Page:1, Kor:"", Chn:"", Eng:"he got into the boat with his disciples and went to the region of Dalmanutha.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:11, Page:1, Kor:"", Chn:"", Eng:"The Pharisees came and began to question Jesus. To test him, they asked him for a sign from heaven.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He sighed deeply and said, "Why does this generation ask for a miraculous sign? I tell you the truth, no sign will be given to it."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then he left them, got back into the boat and crossed to the other side.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:14, Page:1, Kor:"", Chn:"", Eng:"The disciples had forgotten to bring bread, except for one loaf they had with them in the boat.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:15, Page:1, Kor:"", Chn:"", Eng:""Be careful," Jesus warned them. "Watch out for the yeast of the Pharisees and that of Herod."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They discussed this with one another and said, "It is because we have no bread."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Aware of their discussion, Jesus asked them: "Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:19, Page:1, Kor:"", Chn:"", Eng:"When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?" "Twelve," they replied.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:20, Page:1, Kor:"", Chn:"", Eng:""And when I broke the seven loaves for the four thousand, how many basketfuls of pieces did you pick up?" They answered, "Seven."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He said to them, "Do you still not understand?"", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:22, Page:1, Kor:"", Chn:"", Eng:"They came to Bethsaida, and some people brought a blind man and begged Jesus to touch him.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:23, Page:1, Kor:"", Chn:"", Eng:"He took the blind man by the hand and led him outside the village. When he had spit on the man's eyes and put his hands on him, Jesus asked, "Do you see anything?"", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He looked up and said, "I see people; they look like trees walking around."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Once more Jesus put his hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Jesus sent him home, saying, "Don't go into the village."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked them, "Who do people say I am?"", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:28, Page:1, Kor:"", Chn:"", Eng:"They replied, "Some say John the Baptist; others say Elijah; and still others, one of the prophets."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:29, Page:1, Kor:"", Chn:"", Eng:""But what about you?" he asked. "Who do you say I am?" Peter answered, "You are the Christ."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Jesus warned them not to tell anyone about him.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:31, Page:1, Kor:"", Chn:"", Eng:"He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:32, Page:1, Kor:"", Chn:"", Eng:"He spoke plainly about this, and Peter took him aside and began to rebuke him.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:33, Page:1, Kor:"", Chn:"", Eng:"But when Jesus turned and looked at his disciples, he rebuked Peter. "Get behind me, Satan!" he said. "You do not have in mind the things of God, but the things of men."", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:34, Page:1, Kor:"", Chn:"", Eng:"Then he called the crowd to him along with his disciples and said: "If anyone would come after me, he must deny himself and take up his cross and follow me.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:35, Page:1, Kor:"", Chn:"", Eng:"For whoever wants to save his life will lose it, but whoever loses his life for me and for the gospel will save it.", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:36, Page:1, Kor:"", Chn:"", Eng:"What good is it for a man to gain the whole world, yet forfeit his soul?", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:37, Page:1, Kor:"", Chn:"", Eng:"Or what can a man give in exchange for his soul?", Ind:""},
+  {Bible:"Mark", Chapter:8, Verse:38, Page:1, Kor:"", Chn:"", Eng:"If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels."", Ind:""},
 ]);

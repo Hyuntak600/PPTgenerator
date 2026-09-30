@@ -1,6 +1,35 @@
 // 사도행전 11장 · Acts 11
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",11,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",11,30);
 BibleDB.add([
+  {Bible:"Acts", Chapter:11, Verse:1, Page:1, Kor:"", Chn:"", Eng:"The apostles and the brothers throughout Judea heard that the Gentiles also had received the word of God.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:2, Page:1, Kor:"", Chn:"", Eng:"So when Peter went up to Jerusalem, the circumcised believers criticized him", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and said, "You went into the house of uncircumcised men and ate with them."", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Peter began and explained everything to them precisely as it had happened:", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:5, Page:1, Kor:"", Chn:"", Eng:""I was in the city of Joppa praying, and in a trance I saw a vision. I saw something like a large sheet being let down from heaven by its four corners, and it came down to where I was.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:6, Page:1, Kor:"", Chn:"", Eng:"I looked into it and saw four-footed animals of the earth, wild beasts, reptiles, and birds of the air.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then I heard a voice telling me, 'Get up, Peter. Kill and eat.'", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:8, Page:1, Kor:"", Chn:"", Eng:""I replied, 'Surely not, Lord! Nothing impure or unclean has ever entered my mouth.'", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:9, Page:1, Kor:"", Chn:"", Eng:""The voice spoke from heaven a second time, 'Do not call anything impure that God has made clean.'", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:10, Page:1, Kor:"", Chn:"", Eng:"This happened three times, and then it was all pulled up to heaven again.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Right then three men who had been sent to me from Caesarea stopped at the house where I was staying.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The Spirit told me to have no hesitation about going with them. These six brothers also went with me, and we entered the man's house.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:13, Page:1, Kor:"", Chn:"", Eng:"He told us how he had seen an angel appear in his house and say, 'Send to Joppa for Simon who is called Peter.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:14, Page:1, Kor:"", Chn:"", Eng:"He will bring you a message through which you and all your household will be saved.'", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:15, Page:1, Kor:"", Chn:"", Eng:""As I began to speak, the Holy Spirit came on them as he had come on us at the beginning.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then I remembered what the Lord had said: 'John baptized with water, but you will be baptized with the Holy Spirit.'", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So if God gave them the same gift as he gave us, who believed in the Lord Jesus Christ, who was I to think that I could oppose God?"", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:18, Page:1, Kor:"", Chn:"", Eng:"When they heard this, they had no further objections and praised God, saying, "So then, God has granted even the Gentiles repentance unto life."", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Now those who had been scattered by the persecution in connection with Stephen traveled as far as Phoenicia, Cyprus and Antioch, telling the message only to Jews.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The Lord's hand was with them, and a great number of people believed and turned to the Lord.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:22, Page:1, Kor:"", Chn:"", Eng:"News of this reached the ears of the church at Jerusalem, and they sent Barnabas to Antioch.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:23, Page:1, Kor:"", Chn:"", Eng:"When he arrived and saw the evidence of the grace of God, he was glad and encouraged them all to remain true to the Lord with all their hearts.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:24, Page:1, Kor:"", Chn:"", Eng:"He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Barnabas went to Tarsus to look for Saul,", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:26, Page:1, Kor:"", Chn:"", Eng:"and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:27, Page:1, Kor:"", Chn:"", Eng:"During this time some prophets came down from Jerusalem to Antioch.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:28, Page:1, Kor:"", Chn:"", Eng:"One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:29, Page:1, Kor:"", Chn:"", Eng:"The disciples, each according to his ability, decided to provide help for the brothers living in Judea.", Ind:""},
+  {Bible:"Acts", Chapter:11, Verse:30, Page:1, Kor:"", Chn:"", Eng:"This they did, sending their gift to the elders by Barnabas and Saul.", Ind:""},
 ]);

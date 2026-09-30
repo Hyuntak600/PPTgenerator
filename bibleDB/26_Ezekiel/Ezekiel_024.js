@@ -1,6 +1,32 @@
 // 에스겔 24장 · Ezekiel 24
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Ezekiel",24,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Ezekiel",24,27);
 BibleDB.add([
+  {Bible:"Ezekiel", Chapter:24, Verse:1, Page:1, Kor:"", Chn:"", Eng:"In the ninth year, in the tenth month on the tenth day, the word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:2, Page:1, Kor:"", Chn:"", Eng:""Son of man, record this date, this very date, because the king of Babylon has laid siege to Jerusalem this very day.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Tell this rebellious house a parable and say to them: 'This is what the Sovereign LORD says: "'Put on the cooking pot; put it on and pour water into it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Put into it the pieces of meat, all the choice pieces--the leg and the shoulder. Fill it with the best of these bones;", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:5, Page:1, Kor:"", Chn:"", Eng:"take the pick of the flock. Pile wood beneath it for the bones; bring it to a boil and cook the bones in it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:6, Page:1, Kor:"", Chn:"", Eng:""'For this is what the Sovereign LORD says: "'Woe to the city of bloodshed, to the pot now encrusted, whose deposit will not go away! Empty it piece by piece without casting lots for them.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:7, Page:1, Kor:"", Chn:"", Eng:""'For the blood she shed is in her midst: She poured it on the bare rock; she did not pour it on the ground, where the dust would cover it.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:8, Page:1, Kor:"", Chn:"", Eng:"To stir up wrath and take revenge I put her blood on the bare rock, so that it would not be covered.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:9, Page:1, Kor:"", Chn:"", Eng:""'Therefore this is what the Sovereign LORD says: "'Woe to the city of bloodshed! I, too, will pile the wood high.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:10, Page:1, Kor:"", Chn:"", Eng:"So heap on the wood and kindle the fire. Cook the meat well, mixing in the spices; and let the bones be charred.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Then set the empty pot on the coals till it becomes hot and its copper glows so its impurities may be melted and its deposit burned away.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:12, Page:1, Kor:"", Chn:"", Eng:"It has frustrated all efforts; its heavy deposit has not been removed, not even by fire.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:13, Page:1, Kor:"", Chn:"", Eng:""'Now your impurity is lewdness. Because I tried to cleanse you but you would not be cleansed from your impurity, you will not be clean again until my wrath against you has subsided.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:14, Page:1, Kor:"", Chn:"", Eng:""'I the LORD have spoken. The time has come for me to act. I will not hold back; I will not have pity, nor will I relent. You will be judged according to your conduct and your actions, declares the Sovereign LORD.'"", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:15, Page:1, Kor:"", Chn:"", Eng:"The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:16, Page:1, Kor:"", Chn:"", Eng:""Son of man, with one blow I am about to take away from you the delight of your eyes. Yet do not lament or weep or shed any tears.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:17, Page:1, Kor:"", Chn:"", Eng:"Groan quietly; do not mourn for the dead. Keep your turban fastened and your sandals on your feet; do not cover the lower part of your face or eat the customary food of mourners."", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:18, Page:1, Kor:"", Chn:"", Eng:"So I spoke to the people in the morning, and in the evening my wife died. The next morning I did as I had been commanded.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Then the people asked me, "Won't you tell us what these things have to do with us?"", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:20, Page:1, Kor:"", Chn:"", Eng:"So I said to them, "The word of the LORD came to me:", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:21, Page:1, Kor:"", Chn:"", Eng:"Say to the house of Israel, 'This is what the Sovereign LORD says: I am about to desecrate my sanctuary--the stronghold in which you take pride, the delight of your eyes, the object of your affection. The sons and daughters you left behind will fall by the sword.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:22, Page:1, Kor:"", Chn:"", Eng:"And you will do as I have done. You will not cover the lower part of your face or eat the customary food of mourners.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:23, Page:1, Kor:"", Chn:"", Eng:"You will keep your turbans on your heads and your sandals on your feet. You will not mourn or weep but will waste away because of your sins and groan among yourselves.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Ezekiel will be a sign to you; you will do just as he has done. When this happens, you will know that I am the Sovereign LORD.'", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:25, Page:1, Kor:"", Chn:"", Eng:""And you, son of man, on the day I take away their stronghold, their joy and glory, the delight of their eyes, their heart's desire, and their sons and daughters as well--", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:26, Page:1, Kor:"", Chn:"", Eng:"on that day a fugitive will come to tell you the news.", Ind:""},
+  {Bible:"Ezekiel", Chapter:24, Verse:27, Page:1, Kor:"", Chn:"", Eng:"At that time your mouth will be opened; you will speak with him and will no longer be silent. So you will be a sign to them, and they will know that I am the LORD."", Ind:""},
 ]);

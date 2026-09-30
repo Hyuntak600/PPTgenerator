@@ -1,6 +1,35 @@
 // 민수기 23장 · Numbers 23
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Numbers",23,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Numbers",23,30);
 BibleDB.add([
+  {Bible:"Numbers", Chapter:23, Verse:1, Page:1, Kor:"", Chn:"", Eng:"Balaam said, "Build me seven altars here, and prepare seven bulls and seven rams for me."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Balak did as Balaam said, and the two of them offered a bull and a ram on each altar.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Then Balaam said to Balak, "Stay here beside your offering while I go aside. Perhaps the LORD will come to meet with me. Whatever he reveals to me I will tell you." Then he went off to a barren height.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:4, Page:1, Kor:"", Chn:"", Eng:"God met with him, and Balaam said, "I have prepared seven altars, and on each altar I have offered a bull and a ram."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD put a message in Balaam's mouth and said, "Go back to Balak and give him this message."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:6, Page:1, Kor:"", Chn:"", Eng:"So he went back to him and found him standing beside his offering, with all the princes of Moab.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Then Balaam uttered his oracle: "Balak brought me from Aram, the king of Moab from the eastern mountains. 'Come,' he said, 'curse Jacob for me; come, denounce Israel.'", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:8, Page:1, Kor:"", Chn:"", Eng:"How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:9, Page:1, Kor:"", Chn:"", Eng:"From the rocky peaks I see them, from the heights I view them. I see a people who live apart and do not consider themselves one of the nations.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:10, Page:1, Kor:"", Chn:"", Eng:"Who can count the dust of Jacob or number the fourth part of Israel? Let me die the death of the righteous, and may my end be like theirs!"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Balak said to Balaam, "What have you done to me? I brought you to curse my enemies, but you have done nothing but bless them!"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:12, Page:1, Kor:"", Chn:"", Eng:"He answered, "Must I not speak what the LORD puts in my mouth?"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Then Balak said to him, "Come with me to another place where you can see them; you will see only a part but not all of them. And from there, curse them for me."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:14, Page:1, Kor:"", Chn:"", Eng:"So he took him to the field of Zophim on the top of Pisgah, and there he built seven altars and offered a bull and a ram on each altar.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Balaam said to Balak, "Stay here beside your offering while I meet with him over there."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:16, Page:1, Kor:"", Chn:"", Eng:"The LORD met with Balaam and put a message in his mouth and said, "Go back to Balak and give him this message."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:17, Page:1, Kor:"", Chn:"", Eng:"So he went to him and found him standing beside his offering, with the princes of Moab. Balak asked him, "What did the LORD say?"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Then he uttered his oracle: "Arise, Balak, and listen; hear me, son of Zippor.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:19, Page:1, Kor:"", Chn:"", Eng:"God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:20, Page:1, Kor:"", Chn:"", Eng:"I have received a command to bless; he has blessed, and I cannot change it.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:21, Page:1, Kor:"", Chn:"", Eng:""No misfortune is seen in Jacob, no misery observed in Israel. The LORD their God is with them; the shout of the King is among them.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:22, Page:1, Kor:"", Chn:"", Eng:"God brought them out of Egypt; they have the strength of a wild ox.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:23, Page:1, Kor:"", Chn:"", Eng:"There is no sorcery against Jacob, no divination against Israel. It will now be said of Jacob and of Israel, 'See what God has done!'", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The people rise like a lioness; they rouse themselves like a lion that does not rest till he devours his prey and drinks the blood of his victims."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:25, Page:1, Kor:"", Chn:"", Eng:"Then Balak said to Balaam, "Neither curse them at all nor bless them at all!"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:26, Page:1, Kor:"", Chn:"", Eng:"Balaam answered, "Did I not tell you I must do whatever the LORD says?"", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:27, Page:1, Kor:"", Chn:"", Eng:"Then Balak said to Balaam, "Come, let me take you to another place. Perhaps it will please God to let you curse them for me from there."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:28, Page:1, Kor:"", Chn:"", Eng:"And Balak took Balaam to the top of Peor, overlooking the wasteland.", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:29, Page:1, Kor:"", Chn:"", Eng:"Balaam said, "Build me seven altars here, and prepare seven bulls and seven rams for me."", Ind:""},
+  {Bible:"Numbers", Chapter:23, Verse:30, Page:1, Kor:"", Chn:"", Eng:"Balak did as Balaam had said, and offered a bull and a ram on each altar.", Ind:""},
 ]);

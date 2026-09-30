@@ -1,6 +1,31 @@
 // 사도행전 3장 · Acts 3
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Acts",3,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Acts",3,26);
 BibleDB.add([
+  {Bible:"Acts", Chapter:3, Verse:1, Page:1, Kor:"", Chn:"", Eng:"One day Peter and John were going up to the temple at the time of prayer--at three in the afternoon.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Now a man crippled from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:3, Page:1, Kor:"", Chn:"", Eng:"When he saw Peter and John about to enter, he asked them for money.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Peter looked straight at him, as did John. Then Peter said, "Look at us!"", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:5, Page:1, Kor:"", Chn:"", Eng:"So the man gave them his attention, expecting to get something from them.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Then Peter said, "Silver or gold I do not have, but what I have I give you. In the name of Jesus Christ of Nazareth, walk."", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Taking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:8, Page:1, Kor:"", Chn:"", Eng:"He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:9, Page:1, Kor:"", Chn:"", Eng:"When all the people saw him walking and praising God,", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:10, Page:1, Kor:"", Chn:"", Eng:"they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:11, Page:1, Kor:"", Chn:"", Eng:"While the beggar held on to Peter and John, all the people were astonished and came running to them in the place called Solomon's Colonnade.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:12, Page:1, Kor:"", Chn:"", Eng:"When Peter saw this, he said to them: "Men of Israel, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk?", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:13, Page:1, Kor:"", Chn:"", Eng:"The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:14, Page:1, Kor:"", Chn:"", Eng:"You disowned the Holy and Righteous One and asked that a murderer be released to you.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:15, Page:1, Kor:"", Chn:"", Eng:"You killed the author of life, but God raised him from the dead. We are witnesses of this.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:16, Page:1, Kor:"", Chn:"", Eng:"By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has given this complete healing to him, as you can all see.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:17, Page:1, Kor:"", Chn:"", Eng:""Now, brothers, I know that you acted in ignorance, as did your leaders.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:18, Page:1, Kor:"", Chn:"", Eng:"But this is how God fulfilled what he had foretold through all the prophets, saying that his Christ would suffer.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord,", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:20, Page:1, Kor:"", Chn:"", Eng:"and that he may send the Christ, who has been appointed for you--even Jesus.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:21, Page:1, Kor:"", Chn:"", Eng:"He must remain in heaven until the time comes for God to restore everything, as he promised long ago through his holy prophets.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:22, Page:1, Kor:"", Chn:"", Eng:"For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:23, Page:1, Kor:"", Chn:"", Eng:"Anyone who does not listen to him will be completely cut off from among his people.'", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:24, Page:1, Kor:"", Chn:"", Eng:""Indeed, all the prophets from Samuel on, as many as have spoken, have foretold these days.", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:25, Page:1, Kor:"", Chn:"", Eng:"And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, 'Through your offspring all peoples on earth will be blessed.'", Ind:""},
+  {Bible:"Acts", Chapter:3, Verse:26, Page:1, Kor:"", Chn:"", Eng:"When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways."", Ind:""},
 ]);

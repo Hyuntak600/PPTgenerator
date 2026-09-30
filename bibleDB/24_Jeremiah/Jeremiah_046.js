@@ -1,6 +1,33 @@
 // 예레미야 46장 · Jeremiah 46
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Jeremiah",46,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Jeremiah",46,28);
 BibleDB.add([
+  {Bible:"Jeremiah", Chapter:46, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is the word of the LORD that came to Jeremiah the prophet concerning the nations:", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:2, Page:1, Kor:"", Chn:"", Eng:"Concerning Egypt: This is the message against the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:3, Page:1, Kor:"", Chn:"", Eng:""Prepare your shields, both large and small, and march out for battle!", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:4, Page:1, Kor:"", Chn:"", Eng:"Harness the horses, mount the steeds! Take your positions with helmets on! Polish your spears, put on your armor!", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:5, Page:1, Kor:"", Chn:"", Eng:"What do I see? They are terrified, they are retreating, their warriors are defeated. They flee in haste without looking back, and there is terror on every side," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:6, Page:1, Kor:"", Chn:"", Eng:""The swift cannot flee nor the strong escape. In the north by the River Euphrates they stumble and fall.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:7, Page:1, Kor:"", Chn:"", Eng:""Who is this that rises like the Nile, like rivers of surging waters?", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Egypt rises like the Nile, like rivers of surging waters. She says, 'I will rise and cover the earth; I will destroy cities and their people.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Charge, O horses! Drive furiously, O charioteers! March on, O warriors--men of Cush and Put who carry shields, men of Lydia who draw the bow.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:10, Page:1, Kor:"", Chn:"", Eng:"But that day belongs to the Lord, the LORD Almighty--a day of vengeance, for vengeance on his foes. The sword will devour till it is satisfied, till it has quenched its thirst with blood. For the Lord, the LORD Almighty, will offer sacrifice in the land of the north by the River Euphrates.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:11, Page:1, Kor:"", Chn:"", Eng:""Go up to Gilead and get balm, O Virgin Daughter of Egypt. But you multiply remedies in vain; there is no healing for you.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:12, Page:1, Kor:"", Chn:"", Eng:"The nations will hear of your shame; your cries will fill the earth. One warrior will stumble over another; both will fall down together."", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:13, Page:1, Kor:"", Chn:"", Eng:"This is the message the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:14, Page:1, Kor:"", Chn:"", Eng:""Announce this in Egypt, and proclaim it in Migdol; proclaim it also in Memphis and Tahpanhes: 'Take your positions and get ready, for the sword devours those around you.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:15, Page:1, Kor:"", Chn:"", Eng:"Why will your warriors be laid low? They cannot stand, for the LORD will push them down.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:16, Page:1, Kor:"", Chn:"", Eng:"They will stumble repeatedly; they will fall over each other. They will say, 'Get up, let us go back to our own people and our native lands, away from the sword of the oppressor.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:17, Page:1, Kor:"", Chn:"", Eng:"There they will exclaim, 'Pharaoh king of Egypt is only a loud noise; he has missed his opportunity.'", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:18, Page:1, Kor:"", Chn:"", Eng:""As surely as I live," declares the King, whose name is the LORD Almighty, "one will come who is like Tabor among the mountains, like Carmel by the sea.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Pack your belongings for exile, you who live in Egypt, for Memphis will be laid waste and lie in ruins without inhabitant.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:20, Page:1, Kor:"", Chn:"", Eng:""Egypt is a beautiful heifer, but a gadfly is coming against her from the north.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The mercenaries in her ranks are like fattened calves. They too will turn and flee together, they will not stand their ground, for the day of disaster is coming upon them, the time for them to be punished.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Egypt will hiss like a fleeing serpent as the enemy advances in force; they will come against her with axes, like men who cut down trees.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:23, Page:1, Kor:"", Chn:"", Eng:"They will chop down her forest," declares the LORD, "dense though it be. They are more numerous than locusts, they cannot be counued.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:24, Page:1, Kor:"", Chn:"", Eng:"The Daughter of Egypt will be put to shame, handed over to the people of the north."", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:25, Page:1, Kor:"", Chn:"", Eng:"The LORD Almighty, the God of Israel, says: "I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:26, Page:1, Kor:"", Chn:"", Eng:"I will hand them over to those who seek their lives, to Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past," declares the LORD.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:27, Page:1, Kor:"", Chn:"", Eng:""Do not fear, O Jacob my servant; do not be dismayed, O Israel. I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no one will make him afraid.", Ind:""},
+  {Bible:"Jeremiah", Chapter:46, Verse:28, Page:1, Kor:"", Chn:"", Eng:"Do not fear, O Jacob my servant, for I am with you," declares the LORD. "Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only with justice; I will not let you go entirely unpunished."", Ind:""},
 ]);

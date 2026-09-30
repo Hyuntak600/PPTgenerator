@@ -1,6 +1,38 @@
 // 잠언 16장 · Proverbs 16
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Proverbs",16,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Proverbs",16,33);
 BibleDB.add([
+  {Bible:"Proverbs", Chapter:16, Verse:1, Page:1, Kor:"", Chn:"", Eng:"To man belong the plans of the heart, but from the LORD comes the reply of the tongue.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:2, Page:1, Kor:"", Chn:"", Eng:"All a man's ways seem innocent to him, but motives are weighed by the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:3, Page:1, Kor:"", Chn:"", Eng:"Commit to the LORD whatever you do, and your plans will succeed.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:4, Page:1, Kor:"", Chn:"", Eng:"The LORD works out everything for his own ends--even the wicked for a day of disaster.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:5, Page:1, Kor:"", Chn:"", Eng:"The LORD detests all the proud of heart. Be sure of this: They will not go unpunished.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:6, Page:1, Kor:"", Chn:"", Eng:"Through love and faithfulness sin is atoned for; through the fear of the LORD a man avoids evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:7, Page:1, Kor:"", Chn:"", Eng:"When a man's ways are pleasing to the LORD, he makes even his enemies live at peace with him.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:8, Page:1, Kor:"", Chn:"", Eng:"Better a little with righteousness than much gain with injustice.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:9, Page:1, Kor:"", Chn:"", Eng:"In his heart a man plans his course, but the LORD determines his steps.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:10, Page:1, Kor:"", Chn:"", Eng:"The lips of a king speak as an oracle, and his mouth should not betray justice.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:11, Page:1, Kor:"", Chn:"", Eng:"Honest scales and balances are from the LORD; all the weights in the bag are of his making.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:12, Page:1, Kor:"", Chn:"", Eng:"Kings detest wrongdoing, for a throne is established through righteousness.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Kings take pleasure in honest lips; they value a man who speaks the truth.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:14, Page:1, Kor:"", Chn:"", Eng:"A king's wrath is a messenger of death, but a wise man will appease it.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:15, Page:1, Kor:"", Chn:"", Eng:"When a king's face brightens, it means life; his favor is like a rain cloud in spring.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:16, Page:1, Kor:"", Chn:"", Eng:"How much better to get wisdom than gold, to choose understanding rather than silver!", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:17, Page:1, Kor:"", Chn:"", Eng:"The highway of the upright avoids evil; he who guards his way guards his life.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:18, Page:1, Kor:"", Chn:"", Eng:"Pride goes before destruction, a haughty spirit before a fall.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:19, Page:1, Kor:"", Chn:"", Eng:"Better to be lowly in spirit and among the oppressed than to share plunder with the proud.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Whoever gives heed to instruction prospers, and blessed is he who trusts in the LORD.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The wise in heart are called discerning, and pleasant words promote instruction.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:22, Page:1, Kor:"", Chn:"", Eng:"Understanding is a fountain of life to those who have it, but folly brings punishment to fools.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:23, Page:1, Kor:"", Chn:"", Eng:"A wise man's heart guides his mouth, and his lips promote instruction.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:24, Page:1, Kor:"", Chn:"", Eng:"Pleasant words are a honeycomb, sweet to the soul and healing to the bones.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:25, Page:1, Kor:"", Chn:"", Eng:"There is a way that seems right to a man, but in the end it leads to death.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:26, Page:1, Kor:"", Chn:"", Eng:"The laborer's appetite works for him; his hunger drives him on.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:27, Page:1, Kor:"", Chn:"", Eng:"A scoundrel plots evil, and his speech is like a scorching fire.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:28, Page:1, Kor:"", Chn:"", Eng:"A perverse man stirs up dissension, and a gossip separates close friends.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:29, Page:1, Kor:"", Chn:"", Eng:"A violent man entices his neighbor and leads him down a path that is not good.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:30, Page:1, Kor:"", Chn:"", Eng:"He who winks with his eye is plotting perversity; he who purses his lips is bent on evil.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:31, Page:1, Kor:"", Chn:"", Eng:"Gray hair is a crown of splendor; it is attained by a righteous life.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:32, Page:1, Kor:"", Chn:"", Eng:"Better a patient man than a warrior, a man who controls his temper than one who takes a city.", Ind:""},
+  {Bible:"Proverbs", Chapter:16, Verse:33, Page:1, Kor:"", Chn:"", Eng:"The lot is cast into the lap, but its every decision is from the LORD.", Ind:""},
 ]);

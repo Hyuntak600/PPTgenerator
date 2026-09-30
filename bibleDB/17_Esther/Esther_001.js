@@ -1,6 +1,27 @@
 // 에스더 1장 · Esther 1
-// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요. (0 = 아직 모름 → 176까지 표시)
-BibleDB.ref("Esther",1,0);
-// [본문] 한 줄 = 한 절의 한 페이지. 아래 [ ] 안에 줄을 추가하세요. (앱의 'DB 코드 복사' 결과를 그대로 붙여넣기)
+// [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요. 그 개수만큼만 절 드롭다운에 나와요.
+BibleDB.ref("Esther",1,22);
 BibleDB.add([
+  {Bible:"Esther", Chapter:1, Verse:1, Page:1, Kor:"", Chn:"", Eng:"This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:2, Page:1, Kor:"", Chn:"", Eng:"At that time King Xerxes reigned from his royal throne in the citadel of Susa,", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:3, Page:1, Kor:"", Chn:"", Eng:"and in the third year of his reign he gave a banquet for all his nobles and officials. The military leaders of Persia and Media, the princes, and the nobles of the provinces were present.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:4, Page:1, Kor:"", Chn:"", Eng:"For a full 180 days he displayed the vast wealth of his kingdom and the splendor and glory of his majesty.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:5, Page:1, Kor:"", Chn:"", Eng:"When these days were over, the king gave a banquet, lasting seven days, in the enclosed garden of the king's palace, for all the people from the least to the greatest, who were in the citadel of Susa.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:6, Page:1, Kor:"", Chn:"", Eng:"The garden had hangings of white and blue linen, fastened with cords of white linen and purple material to silver rings on marble pillars. There were couches of gold and silver on a mosaic pavement of porphyry, marble, mother-of-pearl and other costly stones.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:7, Page:1, Kor:"", Chn:"", Eng:"Wine was served in goblets of gold, each one different from the other, and the royal wine was abundant, in keeping with the king's liberality.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:8, Page:1, Kor:"", Chn:"", Eng:"By the king's command each guest was allowed to drink in his own way, for the king instructed all the wine stewards to serve each man what he wished.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:9, Page:1, Kor:"", Chn:"", Eng:"Queen Vashti also gave a banquet for the women in the royal palace of King Xerxes.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:10, Page:1, Kor:"", Chn:"", Eng:"On the seventh day, when King Xerxes was in high spirits from wine, he commanded the seven eunuchs who served him--Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar and Carcas--", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:11, Page:1, Kor:"", Chn:"", Eng:"to bring before him Queen Vashti, wearing her royal crown, in order to display her beauty to the people and nobles, for she was lovely to look at.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:12, Page:1, Kor:"", Chn:"", Eng:"But when the attendants delivered the king's command, Queen Vashti refused to come. Then the king became furious and burned with anger.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:13, Page:1, Kor:"", Chn:"", Eng:"Since it was customary for the king to consult experts in matters of law and justice, he spoke with the wise men who understood the times", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:14, Page:1, Kor:"", Chn:"", Eng:"and were closest to the king--Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memucan, the seven nobles of Persia and Media who had special access to the king and were highest in the kingdom.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:15, Page:1, Kor:"", Chn:"", Eng:""According to law, what must be done to Queen Vashti?" he asked. "She has not obeyed the command of King Xerxes that the eunuchs have taken to her."", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:16, Page:1, Kor:"", Chn:"", Eng:"Then Memucan replied in the presence of the king and the nobles, "Queen Vashti has done wrong, not only against the king but also against all the nobles and the peoples of all the provinces of King Xerxes.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:17, Page:1, Kor:"", Chn:"", Eng:"For the queen's conduct will become known to all the women, and so they will despise their husbands and say, 'King Xerxes commanded Queen Vashti to be brought before him, but she would not come.'", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:18, Page:1, Kor:"", Chn:"", Eng:"This very day the Persian and Median women of the nobility who have heard about the queen's conduct will respond to all the king's nobles in the same way. There will be no end of disrespect and discord.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:19, Page:1, Kor:"", Chn:"", Eng:""Therefore, if it pleases the king, let him issue a royal decree and let it be written in the laws of Persia and Media, which cannot be repealed, that Vashti is never again to enter the presence of King Xerxes. Also let the king give her royal position to someone else who is better than she.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:20, Page:1, Kor:"", Chn:"", Eng:"Then when the king's edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest."", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:21, Page:1, Kor:"", Chn:"", Eng:"The king and his nobles were pleased with this advice, so the king did as Memucan proposed.", Ind:""},
+  {Bible:"Esther", Chapter:1, Verse:22, Page:1, Kor:"", Chn:"", Eng:"He sent dispatches to all parts of the kingdom, to each province in its own script and to each people in its own language, proclaiming in each people's tongue that every man should be ruler over his own household.", Ind:""},
 ]);
