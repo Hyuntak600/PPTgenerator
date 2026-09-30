@@ -202,7 +202,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 .chk-line.par{opacity:.8;}
 .chk-line.par .chk-text::after{content:" (슬라이드 밖 · 전체 텍스트 복사에만 ( )로 들어감)"; font-style:italic; color:var(--sub);}
 .chk-line.hid .chk-text::after{content:" (슬라이드에서 제외됨)"; font-style:italic; color:var(--sub);}
-.slot-main{color:#fff; text-align:left; width:100%; line-height:1.2; overflow-wrap:break-word;} /* 사진(프로프레젠터, Tahoma) 기준 줄 간격 */
+.slot-main{color:#fff; text-align:left; width:100%; line-height:1.2; overflow-wrap:break-word; white-space:pre-wrap;} /* 사진(프로프레젠터, Tahoma) 기준 줄 간격 */
 .slot:not(.empty) .slot-main{font-size:calc(var(--font-cqh, 10.2) * 1cqh * var(--fit-scale, 1));}
 :root[data-slide-bold="1"] .slot:not(.empty) .slot-main{font-weight:bold;}
 .slot.empty .slot-main{opacity:.45; font-size:3.2cqh; font-style:italic; color:var(--lang-color);}
@@ -1912,7 +1912,7 @@ function syncSlides() {
       slot._text = text;
       dirty = true;
       if (text) {
-        slot._main.textContent = text;
+        slot._main.textContent = text.trim(); // 상자 안 Shift+Enter 줄바꿈은 white-space:pre-wrap으로 슬라이드에도 그대로 나옴(앞뒤 공백·빈 줄만 뺌)
         slot.classList.remove("empty");
       } else {
         slot._main.textContent = labelOf(code);
@@ -2583,12 +2583,19 @@ fontSizeInput.addEventListener("input", () => {
 const alignSeg = document.getElementById("alignSeg");
 alignSeg.querySelectorAll("button").forEach(btn => {
   btn.addEventListener("click", () => {
-    defaultAlign = btn.dataset.align;
-    alignSeg.querySelectorAll("button").forEach(b => b.classList.toggle("active", b === btn));
-    right.querySelectorAll(".slide-block").forEach((blk, i) => applySlideOpts(blk, i));
+    setDefaultAlign(btn.dataset.align);
+    if (appMode === "db") dbAlign = defaultAlign; // 성경 DB 모드에서 바꾼 정렬은 그 모드에서만 기억
     saveStateDebounced();
   });
 });
+// 기본 정렬을 바꾸고 툴바 표시·슬라이드에 바로 반영
+function setDefaultAlign(a) {
+  defaultAlign = a;
+  alignSeg.querySelectorAll("button").forEach(b => b.classList.toggle("active", b.dataset.align === a));
+  right.querySelectorAll(".slide-block").forEach((blk, i) => applySlideOpts(blk, i));
+}
+let dbAlign = "right";       // 성경 DB 모드의 기본 정렬: 오른쪽
+let slideAlignSnap = "left"; // DB 모드에 들어가기 전 슬라이드 만들기 모드의 기본 정렬(돌아올 때 복원)
 
 
 // ---------------------------------------------------------------------
@@ -3036,12 +3043,14 @@ function setMode(m) {
   if (m === "db") {
     if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못해 DB 모드를 열 수 없어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더를 두세요.", true); return; }
     dbSlideSnap = { opts: slideOpts, map: columnsToMap() };
+    slideAlignSnap = defaultAlign;
     appMode = "db"; dbRoot.dataset.mode = "db"; slideOpts = [];
+    setDefaultAlign(dbAlign); // 성경 DB 모드 기본 정렬 = 오른쪽
     dbGo(dbLoadSel());
   } else {
     dbSeq++; dbCur = null; appMode = "slide"; dbRoot.dataset.mode = "slide"; setRefTags("");
     const sn = dbSlideSnap || { opts: [], map: {} };
-    slideOpts = sn.opts; fillColumns(sn.map);
+    slideOpts = sn.opts; setDefaultAlign(slideAlignSnap); fillColumns(sn.map);
   }
   document.querySelectorAll("#modeSeg button").forEach(b => b.classList.toggle("active", b.dataset.mode === appMode));
 }
