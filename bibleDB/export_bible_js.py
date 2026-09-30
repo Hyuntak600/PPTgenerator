@@ -135,6 +135,76 @@ def load_bible_chapter_counts():
 
 bible_chapter_counts = load_bible_chapter_counts()
 
+bible_chinese_source_codes = dict(zip(
+    "GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH EST JOB PSA PRO ECC SNG ISA JER LAM EZK DAN HOS JOL AMO OBA JON MIC NAM HAB ZEP HAG ZEC MAL MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV".split(),
+    bible_book_order,
+))
+
+
+def load_chinese_book_names():
+  source_dir = os.path.join(BASE_DIR, "chinese bible")
+  file_pattern = re.compile(r"cmn-cu89s_\d+_([A-Z0-9]+)_(\d+)_read\.txt")
+  names = {}
+  chapters_by_book = {book: set() for book in bible_book_order}
+  source_file_count = 0
+
+  for filename in os.listdir(source_dir):
+    match = file_pattern.fullmatch(filename)
+    if not match:
+      continue
+    source_code, chapter_text = match.groups()
+    if source_code == "000" and chapter_text == "000":
+      continue
+    book = bible_chinese_source_codes.get(source_code)
+    if not book:
+      raise ValueError(f"화합본 파일명의 책 코드가 목록에 없습니다: {filename}")
+
+    with open(os.path.join(source_dir, filename), "r", encoding="utf-8-sig") as source_file:
+      lines = [line.strip() for line in source_file if line.strip()]
+    if len(lines) < 3 or not lines[0].endswith("."):
+      raise ValueError(f"화합본 파일의 책/장 헤더가 올바르지 않습니다: {filename}")
+
+    title = lines[0][:-1].strip()
+    chapter = int(chapter_text)
+    declared_chapter = int(lines[1].rstrip(".")) if lines[1].rstrip(".").isdigit() else None
+    if declared_chapter != chapter:
+      raise ValueError(f"화합본 파일명의 장과 본문 장이 다릅니다: {filename}")
+    if chapter < 1 or chapter > bible_chapter_counts[book]:
+      raise ValueError(f"화합본 파일의 장 번호가 범위를 벗어났습니다: {filename}")
+    if book in names and names[book] != title:
+      raise ValueError(f"화합본에서 한 책의 중국어 이름이 달라집니다: {book}")
+
+    names[book] = title
+    chapters_by_book[book].add(chapter)
+    source_file_count += 1
+
+  expected_chapters = {
+      book: set(range(1, chapter_count + 1))
+      for book, chapter_count in bible_chapter_counts.items()
+  }
+  incomplete = [
+      (book, sorted(expected_chapters[book] - chapters_by_book[book]))
+      for book in bible_book_order
+      if chapters_by_book[book] != expected_chapters[book]
+  ]
+  if source_file_count != 1189 or len(names) != 66 or incomplete:
+    raise ValueError(
+        f"화합본 파일 구성이 66권·1189장 기준과 다릅니다: "
+        f"파일={source_file_count}, 책={len(names)}, 누락={incomplete[:5]}"
+    )
+
+  if len(set(names.values())) != len(names):
+    raise ValueError("화합본 중국어 책 이름이 서로 중복됩니다.")
+  return names
+
+
+bible_chinese_book_names = load_chinese_book_names()
+for canonical_book, chinese_name in bible_chinese_book_names.items():
+  existing = bible_books_master.get(chinese_name)
+  if existing and existing[0] != canonical_book:
+    raise ValueError(f"중국어 책 이름이 다른 책과 겹칩니다: {chinese_name}")
+  bible_books_master[chinese_name] = (canonical_book, chinese_name)
+
 def sanitize_text(text):
   if not text:
     return ""
