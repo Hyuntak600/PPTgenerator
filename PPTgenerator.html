@@ -661,9 +661,9 @@ html[data-mode="db"] .slide-only, html[data-mode="db"] #guideBar{display:none !i
 .dbbar .btn{padding:3px 9px;}
 .dbstat{font-size:.76rem; color:var(--sub);}
 /* 성경 DB 모드: 슬라이드 왼쪽 위에 "영어 (한국어) 중국어 인도네시아어 장:절" 표시 */
-:root{--ref-h:5.8;}
+:root{--ref-h:7.4;}
 .ref-tag{display:none; position:absolute; top:.6cqh; left:.8cqh; right:.8cqh; z-index:1; text-align:left;
-  font-size:4.2cqh; line-height:1.2; font-weight:bold; color:#fff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; pointer-events:none;}
+  font-size:5.4cqh; line-height:1.2; font-weight:bold; color:#fff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; pointer-events:none;}
 .row[data-align="center"] .ref-tag{text-align:center;}
 .row[data-align="right"] .ref-tag{text-align:right;}
 html[data-mode="db"] .row[data-align="right"] .fit-badge{top:auto; bottom:6px;} /* 오른쪽 정렬이면 구절 라벨이 오른쪽 위에 오므로 배지는 아래로 */
@@ -742,11 +742,11 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>🆕 최신 패치노트<span class="wel-date">2026-09-30</span></h3>
     <ul>
-      <li><b>📖 성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절·페이지를 골라 4개 언어 본문을 입력해요. <b>🧩 DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 전체 삭제가 없어요.</li>
+      <li><b>📖 성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절을 골라(키보드 ← → 로 절을 넘길 수 있어요) 4개 언어 본문을 입력해요. <b>🧩 DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 전체 삭제가 없어요.</li>
       <li>슬라이드 만들기 모드의 <b>🧹 로컬 데이터·캐시 삭제</b>로 원고·자동 백업·번역 캐시·설정을 한 번에 지울 수 있어요. 성경 DB 초안은 지워지지 않아요.</li>
       <li>슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이고. 전체 텍스트 복사에는 글자 크기가 문단 앞에 표시돼요.</li>
       <li><b>📋 전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
-      <li>복사 글의 문단 맨 앞에 <b>[번호 · 글자 크기]</b>(예: [1 · 80pt])가 붙어요. 글자 크기는 자동 축소까지 반영된 실제 값이에요.</li>
+      <li>복사 글은 슬라이드 한 장이 한 문단이고, 언어별 글만 나와요.</li>
       <li>글자를 드래그했을 때의 번역 결과 언어가 처음부터 <b>English</b>로 설정돼요(세부 설정에서 한국어로 바꿀 수 있어요).</li>
       <li>처음 화면을 지금의 시작 안내로 바꿨어요. 위쪽 <b>ℹ️ 시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
     </ul>
@@ -1002,9 +1002,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
     <label class="field"><span>성경</span><select id="dbBook"></select></label>
     <label class="field"><span>장</span><select id="dbChap"></select></label>
     <label class="field"><span>절</span><select id="dbVerse"></select></label>
-    <label class="field" title="한 절이 길어 슬라이드를 나눈 경우, 그 페이지(=슬라이드 N번)로 이동해요"><span>페이지</span><select id="dbPage"></select></label>
-    <button type="button" class="btn" id="dbPrev" title="이전 절">◀</button>
-    <button type="button" class="btn" id="dbNext" title="다음 절">▶</button>
+    <button type="button" class="btn" id="dbPrev" title="이전 절 (키보드 ←)">◀</button>
+    <button type="button" class="btn" id="dbNext" title="다음 절 (키보드 →)">▶</button>
     <span class="dbstat" id="dbStat"></span>
     <span style="margin-left:auto; display:inline-flex; gap:6px">
       <button type="button" class="btn quiet" id="dbExportBtn" title="지금까지 만든 모든 절 초안을 파일로 저장해요">💾 DB 초안 백업</button>
@@ -2035,7 +2034,6 @@ function refreshInfo() {
   updateSlideHeaders(cols);
   updateBoxLinks(cols);
   updateHelpBars(cols);
-  if (appMode === "db") updateDbPage();
 }
 const refreshInfoSoon = debounce(refreshInfo, 80);
 
@@ -2437,7 +2435,7 @@ function computeFitScale(row) {
   const contentH = row.clientHeight; // 고정 padding 없음
   const cssNum = (name, dflt) => { const v = parseFloat(getComputedStyle(row).getPropertyValue(name)); return isNaN(v) ? dflt : v; };
   const padY = cssNum("--pad-y", 0), langGap = cssNum("--lang-gap", 0.05);
-  const refPx = appMode === "db" && dbRefStr ? cssNum("--ref-h", 5.8) / 100 * contentH : 0; // 성경 DB 모드: 왼쪽 위 라벨 자리
+  const refPx = appMode === "db" && dbRefStr ? cssNum("--ref-h", 7.4) / 100 * contentH : 0; // 성경 DB 모드: 왼쪽 위 라벨 자리
   const fits = sc => {
     row.style.setProperty("--fit-scale", sc);
     let total = 0;
@@ -2509,9 +2507,8 @@ function collectSlidesForCopy() {
 }
 // 한 슬라이드 = 한 문단: 언어마다 한 줄씩(줄바꿈), 슬라이드 사이는 빈 줄 한 줄로 나눈다
 function slideLineText(s) {
-  const head = "[" + s.no + " · " + s.pt + "pt]"; // 문단 맨 앞: 슬라이드 번호 · 실제 적용 글자 크기
   const ref = appMode === "db" && dbRefStr ? dbRefStr + "\n" : ""; // 성경 DB 모드: 문단 제일 위에 "책 이름 장:절"
-  return ref + head + "\n" + s.parts.map(p => p.paren ? "(" + p.text + ")" : p.text).join("\n");
+  return ref + s.parts.map(p => p.paren ? "(" + p.text + ")" : p.text).join("\n");
 }
 
 async function copyToClipboard(text, okMsg) {
@@ -2537,7 +2534,7 @@ async function copyToClipboard(text, okMsg) {
 
 // ---------------------------------------------------------------------
 // 전체 텍스트 창: 메모장처럼 글자만 보여준다. 한 슬라이드 = 한 문단(언어마다 한 줄, 슬라이드 사이는 빈 줄).
-// 창을 열어도 자동으로 복사되지 않고, 자유롭게 고친 뒤 [복사]를 눌러야 복사된다. 문단 맨 앞에 [번호 · 글자 크기] 표시.
+// 창을 열어도 자동으로 복사되지 않고, 자유롭게 고친 뒤 [복사]를 눌러야 복사된다. 문단마다 언어별 글만 나옴(번호·글자 크기 없음).
 // ---------------------------------------------------------------------
 const copyOverlay = document.getElementById("copyOverlay");
 const copyText = document.getElementById("copyText");
@@ -2560,7 +2557,7 @@ async function copyAllText() {
   }
   copyText.value = text;
   document.getElementById("ctSub").textContent =
-    "슬라이드 " + slides.length + "장 · 문단마다 맨 앞에 [번호 · 글자 크기]가 붙어 있어요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
+    "슬라이드 " + slides.length + "장 · 문단마다 언어별 글만 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
   copyOverlay.classList.add("open"); // 열기만 하고 자동 복사는 하지 않음 — [복사] 버튼을 눌러야 복사돼요
 }
 document.getElementById("copyAllBtn").addEventListener("click", copyAllText);
@@ -2857,7 +2854,7 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
 // ---------------------------------------------------------------------
 // ---------------------------------------------------------------------
 // 성경 DB 모드: 성경 책 + 장 + 절을 고르면 그 절의 내용이 왼쪽 4개 언어 칸에 올라온다.
-//  - 조각(상자) 하나 = 페이지 하나 = 슬라이드 하나. 한 절이 길면 Enter로 나눠서 페이지를 늘린다.
+//  - 조각(상자) 하나 = 슬라이드 하나(DB의 Page 값은 상자 순서대로 자동으로 매겨짐). 한 절이 길면 Enter로 나눠서 슬라이드를 늘린다.
 //  - 글은 "절 하나씩" 브라우저에 초안으로 저장된다(다른 절·슬라이드 만들기 내용은 건드리지 않음).
 //  - 화면에 올라오는 순서: ① 저장된 초안 → ② bibleDB/ 폴더의 장 파일(하드 코딩된 내용) → ③ 빈 화면
 // ---------------------------------------------------------------------
@@ -2880,7 +2877,7 @@ function setRefTags(str) {
 }
 const dbRoot = document.documentElement;
 const dbBook = document.getElementById("dbBook"), dbChap = document.getElementById("dbChap"),
-      dbVerse = document.getElementById("dbVerse"), dbPage = document.getElementById("dbPage"),
+      dbVerse = document.getElementById("dbVerse"),
       dbStat = document.getElementById("dbStat");
 let dbBroken = false, dbSlideSnap = null, dbSeq = 0, dbMiss = false;
 dbVerse.title = "✎ 표시: 초안이 장 파일(코드)과 달라요 — 🧩 DB 코드 복사로 파일에 반영하세요";
@@ -2948,7 +2945,7 @@ function dbMarkVerses() {
   });
   [...dbVerse.options].forEach(o => { const t = o.value + (pend.has(+o.value) ? " ✎" : ""); if (o.textContent !== t) o.textContent = t; });
   const cur = d[dbKey(s)], nf = fileBy.get(s.v) ? fileBy.get(s.v).length : 0;
-  const base = cur ? "✏️ 저장된 초안 · " + cur.length + "페이지" : nf ? "📄 장 파일에 하드 코딩된 내용 · " + nf + "페이지" : "비어 있음";
+  const base = cur ? "✏️ 저장된 초안 · " + "슬라이드 " + cur.length + "장" : nf ? "📄 장 파일에 하드 코딩된 내용 · " + "슬라이드 " + nf + "장" : "비어 있음";
   dbStat.textContent = base + (dbMiss ? " · ⚠ 장 파일(" + BibleDB.path(s.en, s.ch) + ")을 못 찾았어요" : "") + (pend.size ? " · ✎ 코드에 아직 반영 안 된 절 " + pend.size + "개" : " · 이 장은 코드와 일치");
 }
 function dbSource(s) {
@@ -2986,10 +2983,6 @@ function fillColumns(map) {
   } finally { isRestoring = false; }
   refreshInfo();
 }
-function updateDbPage() {
-  const n = Math.max(1, right.children.length);
-  if (dbPage.options.length !== n) fillNum(dbPage, n, +dbPage.value || 1);
-}
 async function dbGo(sel) {
   saveDbNow(); dbCur = null; // 지금 절을 먼저 저장하고, 불러오는 동안은 저장하지 않음
   const my = ++dbSeq;
@@ -3022,12 +3015,6 @@ if (window.BibleDB) BibleDB.books.forEach(b => {
 dbBook.addEventListener("change", () => dbGo({ en: dbBook.value, ch: 1, v: 1 }));
 dbChap.addEventListener("change", () => dbGo({ en: dbBook.value, ch: +dbChap.value, v: 1 }));
 dbVerse.addEventListener("change", () => dbGo(dbSelNow()));
-dbPage.addEventListener("change", () => { // 그 페이지의 조각(왼쪽)과 슬라이드(오른쪽)로 이동
-  const i = (+dbPage.value || 1) - 1, block = right.children[i];
-  const box = left.querySelector(".col").querySelectorAll(".box")[i];
-  if (box) { box.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(box); }
-  if (block) { block.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(block._row); }
-});
 function dbStep(d) {
   const s = dbSelNow(), v = s.v + d;
   if (v < 1 || v > dbVerse.options.length) { showToast(d < 0 ? "이 장의 첫 절이에요." : "이 장의 마지막 절이에요. 다음 장은 장 드롭다운에서 골라 주세요."); return; }
@@ -3035,6 +3022,19 @@ function dbStep(d) {
 }
 document.getElementById("dbPrev").addEventListener("click", () => dbStep(-1));
 document.getElementById("dbNext").addEventListener("click", () => dbStep(1));
+// 성경 DB 모드: 키보드 ← → 로 이전/다음 절 넘기기 (글 입력 중이거나 창이 열려 있을 때는 동작하지 않음)
+document.addEventListener("keydown", e => {
+  if (appMode !== "db" || e.defaultPrevented || e.isComposing) return;
+  if (e.key !== "ArrowLeft" && e.key !== "ArrowRight") return;
+  if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  const t = e.target;
+  if (t && (t.isContentEditable || /^(TEXTAREA|INPUT|SELECT)$/.test(t.tagName))) return;
+  if (document.querySelector(".patch-overlay.open")) return;
+  e.preventDefault();
+  dbStep(e.key === "ArrowRight" ? 1 : -1);
+});
+// 드롭다운으로 고른 직후에도 바로 방향키가 먹도록 포커스를 풀어 줌
+[dbBook, dbChap, dbVerse].forEach(el => el.addEventListener("change", () => el.blur()));
 
 // 모드 전환: 어느 쪽이든 지금 모드의 내용을 먼저 저장한 뒤 바꾼다. 두 모드의 저장 공간은 완전히 따로다.
 function setMode(m) {
