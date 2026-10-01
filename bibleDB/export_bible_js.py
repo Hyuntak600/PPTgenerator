@@ -143,7 +143,7 @@ bible_chinese_source_codes = dict(zip(
 
 
 def load_chinese_book_names():
-  source_dir = os.path.join(BASE_DIR, "chinese bible")
+  source_dir = os.path.join(BASE_DIR, "chinese_bible")
   file_pattern = re.compile(r"cmn-cu89s_\d+_([A-Z0-9]+)_(\d+)_read\.txt")
   names = {}
   chapters_by_book = {book: set() for book in bible_book_order}
@@ -264,6 +264,74 @@ def parse_chinese_numberless_chapters(lines, source_name):
   return chapters
 
 
+def map_chinese_verse_groups(chapters):
+  mapping_path = os.path.join(BASE_DIR, "chinese_verse_map.json")
+  with open(mapping_path, "r", encoding="utf-8") as mapping_file:
+    mapping = json.load(mapping_file)
+  verse_ranges = mapping.get("verse_ranges", {})
+  target_ranges = mapping.get("target_ranges", {})
+  used_ranges = set()
+  used_targets = set()
+  mapped_chapters = {}
+
+  for (book, chapter), verse_lines in chapters.items():
+    chapter_key = f"{book}|{chapter}"
+    source_ranges = verse_ranges.get(chapter_key, {})
+    source_target_ranges = target_ranges.get(chapter_key, {})
+    groups_by_target = {}
+    source_verse = 1
+
+    for text in verse_lines:
+      source_end = int(source_ranges.get(str(source_verse), source_verse))
+      if source_end < source_verse:
+        raise ValueError(f"중국어 원본 절 범위가 잘못됐습니다: {chapter_key} {source_verse}")
+      if source_end != source_verse:
+        used_ranges.add((chapter_key, str(source_verse)))
+
+      target_range = source_target_ranges.get(str(source_verse))
+      if target_range:
+        target_start, target_end = map(int, target_range)
+        used_targets.add((chapter_key, str(source_verse)))
+      else:
+        target_start, target_end = source_verse, source_end
+      if target_start < 1 or target_end < target_start:
+        raise ValueError(f"중국어 대상 절 범위가 잘못됐습니다: {chapter_key} {target_start}-{target_end}")
+
+      existing = groups_by_target.get(target_start)
+      if existing:
+        if existing[0] != target_end:
+          raise ValueError(f"중국어 대상 절 범위가 겹칩니다: {chapter_key} {target_start}")
+        groups_by_target[target_start] = (target_end, existing[1] + " " + text)
+      else:
+        groups_by_target[target_start] = (target_end, text)
+      source_verse = source_end + 1
+
+    mapped_chapters[book, chapter] = [
+        (start, end, text)
+        for start, (end, text) in sorted(groups_by_target.items())
+    ]
+
+  configured_ranges = {
+      (chapter_key, start)
+      for chapter_key, ranges in verse_ranges.items()
+      for start in ranges
+  }
+  configured_targets = {
+      (chapter_key, start)
+      for chapter_key, ranges in target_ranges.items()
+      for start in ranges
+  }
+  if used_ranges != configured_ranges or used_targets != configured_targets:
+    raise ValueError(
+        f"중국어 절 매핑표와 본문이 다릅니다: "
+        f"누락 범위={sorted(configured_ranges - used_ranges)[:5]}, "
+        f"미사용 범위={sorted(used_ranges - configured_ranges)[:5]}, "
+        f"누락 대상={sorted(configured_targets - used_targets)[:5]}, "
+        f"미사용 대상={sorted(used_targets - configured_targets)[:5]}"
+    )
+  return mapped_chapters
+
+
 def load_chinese_numberless_file(filename):
   with open(filename, "r", encoding="utf-8-sig") as source_file:
     chapters = parse_chinese_numberless_chapters(source_file.readlines(), filename)
@@ -282,11 +350,11 @@ def load_chinese_numberless_file(filename):
         f"중국어 통합 파일 구성이 66권·1189장 기준과 다릅니다. "
         f"누락={missing[:5]}, 범위 밖={extra[:5]}"
     )
-  return chapters
+  return map_chinese_verse_groups(chapters)
 
 
 def load_chinese_numberless_sources():
-  source_dir = os.path.join(BASE_DIR, "chinese bible")
+  source_dir = os.path.join(BASE_DIR, "chinese_bible")
   file_pattern = re.compile(r"cmn-cu89s_\d+_([A-Z0-9]+)_(\d+)_read\.txt")
   chapters = {}
 
@@ -324,7 +392,7 @@ def load_chinese_numberless_sources():
     )
     extra = sorted(set(chapters) - expected_refs)
     raise ValueError(f"중국어 원본 장 구성이 다릅니다. 누락={missing[:5]}, 범위 밖={extra[:5]}")
-  return chapters
+  return map_chinese_verse_groups(chapters)
 
 
 def sanitize_text(text):
@@ -333,7 +401,7 @@ def sanitize_text(text):
   return text
 
 def read_file_lines(filename):
-  for enc in ["utf-8", "cp949", "euc-kr"]:
+  for enc in ["utf-8-sig", "cp949", "euc-kr"]:
     try:
       with open(filename, "r", encoding=enc) as f:
         return f.readlines()
@@ -351,6 +419,7 @@ def load_and_update_bible(filename, target_lang, db=bible_database):
 
   current_book = None
   current_book_id = None
+  current_chapter = None
 
   for line_number, line in enumerate(lines, 1):
     line = line.strip()
@@ -358,10 +427,22 @@ def load_and_update_bible(filename, target_lang, db=bible_database):
       continue
 
     if ":" not in line:
+      chapter_heading = re.fullmatch(r"(.+?)\s+(\d+)", line)
+      if chapter_heading:
+        chapter_book = get_validated_book(chapter_heading.group(1))
+        if chapter_book:
+          chapter = int(chapter_heading.group(2))
+          if chapter < 1 or chapter > bible_chapter_counts[chapter_book]:
+            raise ValueError(f"장 제목의 번호가 범위를 벗어났습니다 ({filename}:{line_number})")
+          current_book = chapter_book
+          current_book_id = None
+          current_chapter = chapter
+          continue
       validated = get_validated_book(line)
       if validated:
         current_book = validated
         current_book_id = None
+        current_chapter = None
       continue
 
     tokens = line.split(None, 1)
@@ -406,6 +487,7 @@ def load_and_update_bible(filename, target_lang, db=bible_database):
         )
       current_book = header_book
       current_book_id = row_book_id
+      current_chapter = None
       continue
 
     if ":" not in chap_verse_part:
@@ -430,6 +512,11 @@ def load_and_update_bible(filename, target_lang, db=bible_database):
           f"장 번호가 범위를 벗어났습니다 ({filename}:{line_number}): "
           f"{current_book} {chapter}장 (최대 {bible_chapter_counts[current_book]}장)"
       )
+      if current_chapter is not None and chapter != current_chapter:
+        raise ValueError(
+          f"장 제목과 구절 번호가 다릅니다 ({filename}:{line_number}): "
+          f"{current_chapter}장 제목 아래 {chapter}:{verse}"
+        )
     if verse < 1:
       raise ValueError(f"절 번호는 1 이상이어야 합니다 ({filename}:{line_number}): {verse}")
 
@@ -487,6 +574,18 @@ def replace_js_string_property(line, property_name, value):
   raise ValueError(f"JS 행의 {property_name} 문자열이 닫히지 않았습니다.")
 
 
+def set_js_number_property(line, property_name, value):
+  pattern = re.compile(rf"(,\s*{re.escape(property_name)}\s*:\s*)\d+")
+  if value is None:
+    return pattern.sub(lambda match: match.group(1) + "0", line, count=1)
+  if pattern.search(line):
+    return pattern.sub(lambda match: match.group(1) + str(int(value)), line, count=1)
+  closing_brace = line.rfind("}")
+  if closing_brace < 0:
+    raise ValueError(f"JS 행에 객체 닫는 괄호가 없습니다: {line.strip()}")
+  return line[:closing_brace] + f", {property_name}:{int(value)}" + line[closing_brace:]
+
+
 def read_js_string_property(line, property_name):
   match = re.search(rf'\b{re.escape(property_name)}\s*:\s*"', line)
   if not match:
@@ -518,6 +617,112 @@ def parse_js_row(line):
   if not book_match:
     raise ValueError(f"JS 행에 Bible 문자열 필드가 없습니다: {line.strip()}")
   return book_match.group(1), values["Chapter"], values["Verse"], values["Page"]
+
+
+def iter_js_rows(lines, add_start, add_end):
+  index = add_start + 1
+  while index < add_end:
+    if not re.search(r"\{\s*Bible\s*:", lines[index]):
+      index += 1
+      continue
+    start = index
+    if re.search(r"\}\s*,?\s*$", lines[index]):
+      end = index
+    else:
+      end = next(
+          (candidate for candidate in range(index + 1, add_end)
+           if re.fullmatch(r"\s*}\s*,?\s*", lines[candidate])),
+          None,
+      )
+      if end is None:
+        raise ValueError(f"JS 행의 객체 닫는 줄을 찾지 못했습니다: {start + 1}")
+    block = "".join(lines[start:end + 1])
+    row = parse_js_row(block)
+    if row is not None:
+      yield start, end, row, block
+    index = end + 1
+
+
+def replace_js_row_property(lines, start, end, property_name, value, numeric=False):
+  block = "".join(lines[start:end + 1])
+  updated = (
+      set_js_number_property(block, property_name, value)
+      if numeric else replace_js_string_property(block, property_name, value)
+  )
+  replacement = updated.splitlines(keepends=True)
+  lines[start:end + 1] = replacement
+  return start, start + len(replacement) - 1
+
+
+def format_js_row(data):
+  lines = [
+      "  {"
+      + f"Bible:{json.dumps(data['Bible'], ensure_ascii=False)}, "
+      + f"Chapter:{data['Chapter']}, Verse:{data['Verse']}, Page:{data['Page']},\n",
+      f"    Kor:{json.dumps(data.get('Kor', ''), ensure_ascii=False)},\n",
+      f"    Chn:{json.dumps(data.get('Chn', ''), ensure_ascii=False)},\n",
+      f"    Eng:{json.dumps(data.get('Eng', ''), ensure_ascii=False)},\n",
+  ]
+  indonesian_line = f"    Ind:{json.dumps(data.get('Ind', ''), ensure_ascii=False)}"
+  range_end = data.get("ChnVerseEnd")
+  if range_end and range_end > data["Verse"]:
+    lines.extend((indonesian_line + ",\n", f"    ChnVerseEnd:{range_end}\n"))
+  else:
+    lines.append(indonesian_line + "\n")
+  lines.append("  },\n")
+  return "".join(lines)
+
+
+def reformat_existing_js_rows(dry_run=False):
+  plans = []
+  row_count = 0
+  for book in bible_book_order:
+    folder = find_existing_book_dir(book)
+    for chapter in range(1, bible_chapter_counts[book] + 1):
+      target_path = os.path.join(folder, f"{book}_{chapter:03d}.js")
+      if not os.path.isfile(target_path):
+        raise FileNotFoundError(f"기존 장 파일이 없습니다: {target_path}")
+      with open(target_path, "r", encoding="utf-8") as source_file:
+        original = source_file.read()
+      lines = original.splitlines(keepends=True)
+      add_start = next((i for i, line in enumerate(lines) if "BibleDB.add([" in line), None)
+      add_end = next(
+          (i for i, line in enumerate(lines) if re.match(r"\s*\]\);\s*$", line)), None
+      )
+      if add_start is None or add_end is None or add_end <= add_start:
+        raise ValueError(f"기존 장 파일의 BibleDB.add 배열이 올바르지 않습니다: {target_path}")
+
+      reformatted = []
+      cursor = 0
+      chapter_rows = 0
+      for start, end, row, block in iter_js_rows(lines, add_start, add_end):
+        reformatted.extend(lines[cursor:start])
+        row_data = {
+            "Bible": row[0],
+            "Chapter": row[1],
+            "Verse": row[2],
+            "Page": row[3],
+        }
+        for field in ("Kor", "Chn", "Eng", "Ind"):
+          row_data[field] = read_js_string_property(block, field)
+        range_match = re.search(r"\bChnVerseEnd\s*:\s*(\d+)", block)
+        if range_match:
+          row_data["ChnVerseEnd"] = int(range_match.group(1))
+        reformatted.append(format_js_row(row_data))
+        cursor = end + 1
+        chapter_rows += 1
+      reformatted.extend(lines[cursor:])
+      if not chapter_rows:
+        raise ValueError(f"장 파일에 성경 행이 없습니다: {target_path}")
+      row_count += chapter_rows
+      plans.append((target_path, "".join(reformatted)))
+
+  if not dry_run:
+    for target_path, content in plans:
+      with open(target_path, "w", encoding="utf-8", newline="") as target_file:
+        target_file.write(content)
+  action = "행 형식 검증" if dry_run else "행 형식 변경"
+  print(f"{action} 완료: {len(plans)}개 장 파일, {row_count}개 절 행, 번역 내용 변경 0개")
 
 
 def repair_duplicate_chapter_files():
@@ -581,34 +786,35 @@ def repair_duplicate_chapter_files():
       raise ValueError(f"정식 장 파일의 BibleDB.add 배열이 올바르지 않습니다: {target_path}")
 
     row_indexes = {}
-    duplicate_row_indexes = []
+    duplicate_row_spans = []
     maximum_verse = max(copy[2] for copy in copies)
 
-    def merge_row(target_index, source_line):
-      target_line = lines[target_index]
+    def merge_row(target_span, source_block):
+      target_start, target_end = target_span
+      target_block = "".join(lines[target_start:target_end + 1])
       for field in ("Kor", "Chn", "Eng", "Ind"):
-        target_value = read_js_string_property(target_line, field)
-        source_value = read_js_string_property(source_line, field)
+        target_value = read_js_string_property(target_block, field)
+        source_value = read_js_string_property(source_block, field)
         if not target_value and source_value:
-          target_line = replace_js_string_property(target_line, field, source_value)
+          target_block = replace_js_string_property(target_block, field, source_value)
         elif target_value and source_value and target_value != source_value:
           conflicts[field] += 1
-      lines[target_index] = target_line
+      replacement = target_block.splitlines(keepends=True)
+      lines[target_start:target_end + 1] = replacement
 
-    for index in range(add_start + 1, add_end):
-      row = parse_js_row(lines[index])
-      if row is None:
-        continue
+    for start, end, row, block in iter_js_rows(lines, add_start, add_end):
       raw_row_book, row_chapter, verse, page = row
       if get_validated_book(raw_row_book) != book or row_chapter != chapter:
-        raise ValueError(f"정식 파일 내부의 책/장이 잘못됐습니다: {target_path}:{index + 1}")
-      lines[index] = replace_js_string_property(lines[index], "Bible", book)
+        raise ValueError(f"정식 파일 내부의 책/장이 잘못됐습니다: {target_path}:{start + 1}")
+      updated_block = replace_js_string_property(block, "Bible", book)
+      replacement = updated_block.splitlines(keepends=True)
+      lines[start:end + 1] = replacement
       key = (verse, page)
       if key in row_indexes:
-        merge_row(row_indexes[key], lines[index])
-        duplicate_row_indexes.append(index)
+        merge_row(row_indexes[key], updated_block)
+        duplicate_row_spans.append((start, end))
       else:
-        row_indexes[key] = index
+        row_indexes[key] = (start, start + len(replacement) - 1)
       maximum_verse = max(maximum_verse, verse)
 
     for source_path, source_content, source_verse_count in copies:
@@ -626,13 +832,10 @@ def repair_duplicate_chapter_files():
       if source_start is None or source_end is None or source_end <= source_start:
         raise ValueError(f"중복 파일의 BibleDB.add 배열이 올바르지 않습니다: {source_path}")
 
-      for index in range(source_start + 1, source_end):
-        row = parse_js_row(source_lines[index])
-        if row is None:
-          continue
+      for start, _, row, source_block in iter_js_rows(source_lines, source_start, source_end):
         raw_row_book, row_chapter, verse, page = row
         if get_validated_book(raw_row_book) != book or row_chapter != chapter:
-          raise ValueError(f"중복 파일 내부의 책/장이 잘못됐습니다: {source_path}:{index + 1}")
+          raise ValueError(f"중복 파일 내부의 책/장이 잘못됐습니다: {source_path}:{start + 1}")
         maximum_verse = max(maximum_verse, verse)
         key = (verse, page)
         if key not in row_indexes:
@@ -640,11 +843,11 @@ def repair_duplicate_chapter_files():
               f"정식 파일에만 없는 고유 절이 있어 사본을 삭제하지 않았습니다: "
               f"{source_path} {book} {chapter}:{verse} page {page}"
           )
-        merge_row(row_indexes[key], source_lines[index])
+        merge_row(row_indexes[key], source_block)
       duplicate_paths.append(source_path)
 
-    for index in reversed(duplicate_row_indexes):
-      del lines[index]
+    for start, end in sorted(duplicate_row_spans, reverse=True):
+      del lines[start:end + 1]
     add_end = next(
         i for i, line in enumerate(lines) if re.match(r"\s*\]\);\s*$", line)
     )
@@ -755,31 +958,34 @@ def export_korean_to_existing_files(db):
       raise ValueError(f"기존 장 파일의 BibleDB.add 배열 형식이 올바르지 않습니다: {source_path}")
 
     rows_by_verse = {}
-    for index in range(add_start + 1, add_end):
-      row = parse_js_row(lines[index])
-      if row is None:
-        continue
+    for start, end, row, _ in iter_js_rows(lines, add_start, add_end):
       row_book, row_chapter, verse, page = row
       if row_book != book or row_chapter != chapter:
-        raise ValueError(f"파일 경로와 JS 행의 성경/장이 다릅니다: {source_path}:{index + 1}")
-      rows_by_verse.setdefault(verse, []).append((index, page))
+        raise ValueError(f"파일 경로와 JS 행의 성경/장이 다릅니다: {source_path}:{start + 1}")
+      rows_by_verse.setdefault(verse, []).append((start, end, page))
 
     new_rows = []
     for verse, korean_text in sorted(verses.items()):
       existing_rows = rows_by_verse.get(verse, [])
       if existing_rows:
-        target_index = min(existing_rows, key=lambda item: (item[1] != 1, item[1]))[0]
-        lines[target_index] = replace_js_string_property(lines[target_index], "Kor", korean_text)
-        for index, _ in existing_rows:
-          if index != target_index:
-            lines[index] = replace_js_string_property(lines[index], "Kor", "")
-      else:
-        new_rows.append(
-            "  {"
-            + f"Bible:{json.dumps(book, ensure_ascii=False)}, Chapter:{chapter}, "
-            + f"Verse:{verse}, Page:1, Kor:{json.dumps(korean_text, ensure_ascii=False)}, "
-            + 'Chn:"", Eng:"", Ind:""},\n'
+        target_start, target_end, _ = min(
+            existing_rows, key=lambda item: (item[2] != 1, item[2])
         )
+        replace_js_row_property(lines, target_start, target_end, "Kor", korean_text)
+        for start, end, _ in existing_rows:
+          if start != target_start:
+            replace_js_row_property(lines, start, end, "Kor", "")
+      else:
+        new_rows.append(format_js_row({
+            "Bible": book,
+            "Chapter": chapter,
+            "Verse": verse,
+            "Page": 1,
+            "Kor": korean_text,
+            "Chn": "",
+            "Eng": "",
+            "Ind": "",
+        }))
 
     if new_rows:
       lines[add_end:add_end] = new_rows
@@ -802,13 +1008,14 @@ def export_korean_to_existing_files(db):
   )
 
 
-def export_chinese_to_existing_files(chinese_chapters=None):
+def export_chinese_to_existing_files(chinese_chapters=None, dry_run=False):
   if chinese_chapters is None:
     chinese_chapters = load_chinese_numberless_sources()
   plans = []
-  skipped = []
+  group_count = 0
+  range_count = 0
 
-  for (book, chapter), verse_lines in sorted(
+  for (book, chapter), verse_groups in sorted(
       chinese_chapters.items(), key=lambda item: (bible_book_numbers[item[0][0]], item[0][1])
   ):
     target_path = os.path.join(
@@ -820,15 +1027,11 @@ def export_chinese_to_existing_files(chinese_chapters=None):
     with open(target_path, "r", encoding="utf-8") as target_file:
       original = target_file.read()
     ref_match = re.search(
-        r'BibleDB\.ref\(\s*"([^"]+)"\s*,\s*(\d+)\s*,\s*(\d+)\s*\)',
+        r'BibleDB\.ref\(\s*"([^"]+)"\s*,\s*(\d+)\s*,\s*\d+\s*\)',
         original,
     )
     if not ref_match or ref_match.group(1) != book or int(ref_match.group(2)) != chapter:
       raise ValueError(f"기존 장 파일의 책/장 정보가 다릅니다: {target_path}")
-    expected_verses = int(ref_match.group(3))
-    if len(verse_lines) != expected_verses:
-      skipped.append((book, chapter, len(verse_lines), expected_verses))
-      continue
 
     lines = original.splitlines(keepends=True)
     add_start = next((i for i, line in enumerate(lines) if "BibleDB.add([" in line), None)
@@ -839,36 +1042,146 @@ def export_chinese_to_existing_files(chinese_chapters=None):
       raise ValueError(f"기존 장 파일의 BibleDB.add 배열이 올바르지 않습니다: {target_path}")
 
     rows_by_verse = {}
-    for index in range(add_start + 1, add_end):
-      row = parse_js_row(lines[index])
-      if row is None:
-        continue
+    for start, end, row, _ in iter_js_rows(lines, add_start, add_end):
       row_book, row_chapter, verse, page = row
       if row_book != book or row_chapter != chapter:
-        raise ValueError(f"기존 행의 책/장이 다릅니다: {target_path}:{index + 1}")
-      rows_by_verse.setdefault(verse, []).append((index, page))
+        raise ValueError(f"기존 행의 책/장이 다릅니다: {target_path}:{start + 1}")
+      rows_by_verse.setdefault(verse, []).append((start, end, page))
 
     updated_lines = list(lines)
-    for verse, chinese_text in enumerate(verse_lines, 1):
-      page_one_rows = [index for index, page in rows_by_verse.get(verse, []) if page == 1]
+    for verse, verse_end, chinese_text in verse_groups:
+      if verse_end < verse:
+        raise ValueError(f"중국어 절 범위가 잘못됐습니다: {book} {chapter}:{verse}-{verse_end}")
+      page_one_rows = [
+          (start, end) for start, end, page in rows_by_verse.get(verse, []) if page == 1
+      ]
       if len(page_one_rows) != 1:
         raise ValueError(f"기존 절 행이 하나가 아닙니다: {target_path} {chapter}:{verse}")
-      index = page_one_rows[0]
-      updated_lines[index] = replace_js_string_property(
-          updated_lines[index], "Chn", chinese_text
+      for covered_verse in range(verse, verse_end + 1):
+        covered_rows = [
+            start for start, _, page in rows_by_verse.get(covered_verse, []) if page == 1
+        ]
+        if len(covered_rows) != 1:
+          raise ValueError(
+              f"중국어 범위의 대상 절 행이 하나가 아닙니다: "
+              f"{target_path} {chapter}:{covered_verse}"
+          )
+        start, end = page_one_rows[0]
+        replace_js_row_property(updated_lines, start, end, "Chn", chinese_text)
+        replace_js_row_property(
+          updated_lines, start, end, "ChnVerseEnd",
+          verse_end if verse_end > verse else None, numeric=True
       )
+      group_count += 1
+      range_count += verse_end > verse
     plans.append((target_path, "".join(updated_lines)))
 
-  for target_path, content in plans:
-    with open(target_path, "w", encoding="utf-8", newline="") as target_file:
-      target_file.write(content)
+  if not dry_run:
+    for target_path, content in plans:
+      with open(target_path, "w", encoding="utf-8", newline="") as target_file:
+        target_file.write(content)
 
+  action = "중국어 반영" if not dry_run else "중국어 사전 검증"
   print(
-      f"화합본 중국어 반영: {len(plans)}개 기존 장 파일, "
-      f"줄/절 수 불일치로 보류 {len(skipped)}개, 새 파일 생성 0개"
+      f"{action} 완료: {len(plans)}개 기존 장 파일, {group_count}개 중국어 본문 그룹, "
+      f"그중 절 범위 그룹 {range_count}개, 새 파일 생성 0개"
   )
-  for book, chapter, line_count, verse_count in skipped:
-    print(f"검토 필요: {book} {chapter}장 (본문 줄 {line_count}, 기존 절 {verse_count})")
+
+
+def export_indonesian_to_existing_files(db, dry_run=False):
+  chapter_groups = {}
+  for data in db.values():
+    book = get_validated_book(data["Bible"])
+    if not book:
+      continue
+    key = (book, data["Chapter"])
+    chapter_groups.setdefault(key, {})[data["Verse"]] = data.get("Ind", "")
+
+  expected_chapters = {
+      (book, chapter)
+      for book, chapter_count in bible_chapter_counts.items()
+      for chapter in range(1, chapter_count + 1)
+  }
+  if set(chapter_groups) != expected_chapters:
+    missing = sorted(expected_chapters - set(chapter_groups))
+    extra = sorted(set(chapter_groups) - expected_chapters)
+    raise ValueError(
+        f"인도네시아어 원본 장 구성이 66권 기준과 다릅니다: "
+        f"누락={missing[:5]}, 범위 밖={extra[:5]}"
+    )
+
+  verse_overrides = {
+      ("2Corinthians", 13): {12: 12, 13: 12, 14: 13},
+  }
+  for key, overrides in verse_overrides.items():
+    source_verses = chapter_groups.get(key, {})
+    if not set(overrides).issubset(source_verses):
+      raise ValueError(f"인도네시아어 절 번호 예외가 원본과 다릅니다: {key}")
+    mapped_verses = {}
+    for source_verse, text in source_verses.items():
+      target_verse = overrides.get(source_verse, source_verse)
+      mapped_verses[target_verse] = (
+          mapped_verses[target_verse] + " " + text
+          if target_verse in mapped_verses else text
+      )
+    chapter_groups[key] = mapped_verses
+
+  plans = []
+  verse_count = 0
+  for (book, chapter), verses in sorted(
+      chapter_groups.items(), key=lambda item: (bible_book_numbers[item[0][0]], item[0][1])
+  ):
+    target_path = os.path.join(
+        find_existing_book_dir(book), f"{book}_{chapter:03d}.js"
+    )
+    if not os.path.isfile(target_path):
+      raise FileNotFoundError(f"기존 장 파일이 없어 새로 만들지 않았습니다: {target_path}")
+
+    with open(target_path, "r", encoding="utf-8") as target_file:
+      original = target_file.read()
+    ref_match = re.search(
+        r'BibleDB\.ref\(\s*"([^"]+)"\s*,\s*(\d+)\s*,\s*\d+\s*\)',
+        original,
+    )
+    if not ref_match or ref_match.group(1) != book or int(ref_match.group(2)) != chapter:
+      raise ValueError(f"기존 장 파일의 책/장 정보가 다릅니다: {target_path}")
+
+    lines = original.splitlines(keepends=True)
+    add_start = next((i for i, line in enumerate(lines) if "BibleDB.add([" in line), None)
+    add_end = next(
+        (i for i, line in enumerate(lines) if re.match(r"\s*\]\);\s*$", line)), None
+    )
+    if add_start is None or add_end is None or add_end <= add_start:
+      raise ValueError(f"기존 장 파일의 BibleDB.add 배열이 올바르지 않습니다: {target_path}")
+
+    rows_by_verse = {}
+    for start, end, row, _ in iter_js_rows(lines, add_start, add_end):
+      row_book, row_chapter, verse, page = row
+      if row_book != book or row_chapter != chapter:
+        raise ValueError(f"기존 행의 책/장이 다릅니다: {target_path}:{start + 1}")
+      rows_by_verse.setdefault(verse, []).append((start, end, page))
+
+    updated_lines = list(lines)
+    for verse, indonesian_text in sorted(verses.items()):
+      page_one_rows = [
+          (start, end) for start, end, page in rows_by_verse.get(verse, []) if page == 1
+      ]
+      if len(page_one_rows) != 1:
+        raise ValueError(f"기존 절 행이 하나가 아닙니다: {target_path} {chapter}:{verse}")
+      start, end = page_one_rows[0]
+      replace_js_row_property(updated_lines, start, end, "Ind", indonesian_text)
+      verse_count += 1
+    plans.append((target_path, "".join(updated_lines)))
+
+  if not dry_run:
+    for target_path, content in plans:
+      with open(target_path, "w", encoding="utf-8", newline="") as target_file:
+        target_file.write(content)
+
+  action = "인도네시아어 반영" if not dry_run else "인도네시아어 사전 검증"
+  print(
+      f"{action} 완료: {len(plans)}개 기존 장 파일, {verse_count}개 절, 새 파일 생성 0개"
+  )
 
 
 def export_to_js_files(db):
@@ -904,14 +1217,7 @@ def export_to_js_files(db):
     js_content += "BibleDB.add([\n"
 
     for data in verses:
-      js_content += (
-          f'  {{Bible:{json.dumps(data["Bible"], ensure_ascii=False)}, Chapter:{data["Chapter"]},'
-          f' Verse:{data["Verse"]}, Page:{data["Page"]},'
-          f' Kor:{json.dumps(data["Kor"], ensure_ascii=False)},'
-          f' Chn:{json.dumps(data["Chn"], ensure_ascii=False)},'
-          f' Eng:{json.dumps(data["Eng"], ensure_ascii=False)},'
-          f' Ind:{json.dumps(data["Ind"], ensure_ascii=False)}}},\n'
-      )
+      js_content += format_js_row(data)
 
     js_content += "]);\n"
 
@@ -926,7 +1232,39 @@ if __name__ == "__main__":
       "--chinese-source",
       help="책 이름·장 번호·절별 줄이 들어 있는 중국어 통합 파일 경로",
   )
+  parser.add_argument(
+      "--indonesian-source",
+      help="인도네시아어 파일 경로 (예: BibleData_Ind.txt)",
+  )
+  parser.add_argument(
+      "--dry-run-indonesian",
+      action="store_true",
+      help="인도네시아어 절 매핑만 검증하고 파일은 변경하지 않습니다",
+  )
+  parser.add_argument(
+      "--format-language-rows",
+      action="store_true",
+      help="기존 장 파일의 언어별 문자열을 여러 줄 형식으로 재배치합니다",
+  )
   args = parser.parse_args()
+
+  if args.format_language_rows:
+    reformat_existing_js_rows()
+    raise SystemExit(0)
+
+  if args.indonesian_source:
+    indonesian_source = args.indonesian_source
+    if not os.path.isabs(indonesian_source):
+      indonesian_source = os.path.join(BASE_DIR, indonesian_source)
+    indonesian_database = {}
+    load_and_update_bible(indonesian_source, "Ind", db=indonesian_database)
+    export_indonesian_to_existing_files(
+        indonesian_database, dry_run=args.dry_run_indonesian
+    )
+    print("모든 작업이 완료되었습니다!")
+    raise SystemExit(0)
+  if args.dry_run_indonesian:
+    parser.error("--dry-run-indonesian은 --indonesian-source와 함께 사용해야 합니다.")
 
   load_and_update_bible(os.path.join(BASE_DIR, "BibleData_Kor.txt"), "Kor")
 

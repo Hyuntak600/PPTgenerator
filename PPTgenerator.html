@@ -3298,7 +3298,7 @@ function bibleRefKey(en, ch, label) { return "BIB|" + en + "|" + ch + "|" + labe
 function refDisplay(raw, withPage) { // withPage === true 일 때만 "3:16 (a)"처럼 페이지 표시를 붙임. 슬라이드·복사·알림에는 숫자만("3:16")
   if (!raw || raw.slice(0, 4) !== "BIB|") return raw || "";
   const [, en, ch, lab0] = raw.split("|");
-  const pm = /^(\d+)(?:([a-z])|-(\d+))$/.exec(lab0 || ""), lab = pm ? pm[1] : lab0; // "16a" → 16 / 페이지 a
+  const vr = /^(\d+)~(\d+)$/.exec(lab0 || ""), pm = /^(\d+)(?:([a-z])|-(\d+))$/.exec(lab0 || ""), lab = vr ? vr[1] + "-" + vr[2] : pm ? pm[1] : lab0; // "16a" → 16 / 페이지 a
   const b = window.BibleDB ? BibleDB.book(en) : null;
   if (!b) return en + " " + ch + ":" + lab + (withPage && pm ? " (" + (pm[2] || pm[3]) + ")" : "");
   const idx = (+b.no > 0 ? +b.no : BibleDB.books.indexOf(b) + 1) - 1;
@@ -3317,7 +3317,7 @@ function dbRefText(s) {
   if (!b) return s.en + " " + s.ch + ":" + s.v;
   const idx = (+b.no > 0 ? +b.no : BibleDB.books.indexOf(b) + 1) - 1;
   const zh = b.zh || BOOK_ZH[idx] || "", idn = b.id || b.ind || BOOK_ID[idx] || "";
-  return [b.en + (b.ko ? " (" + b.ko + ")" : ""), zh, idn, s.ch + ":" + s.v].filter(Boolean).join(" ");
+  return [b.en + (b.ko ? " (" + b.ko + ")" : ""), zh, idn, s.ch + ":" + s.v + (s.vEnd > s.v ? "-" + s.vEnd : "")].filter(Boolean).join(" ");
 }
 function setRefTags(str) {
   dbRefStr = str || "";
@@ -3359,10 +3359,11 @@ function columnsToMap() {
 function dbPagesFromScreen() {
   const cols = readColumns();
   if (!Object.values(cols).some(c => c.items.some(x => x.filled))) return [];
-  const need = slideCountNeeded(cols), pages = [], rows = rowsOf(cols);
+  const need = slideCountNeeded(cols), pages = [], rows = rowsOf(cols), sourcePages = dbCur ? dbSource(dbCur).pages : [];
   for (let i = 0; i < need; i++) {
     const p = {};
     LANGS.forEach(({ code }) => { const it = rows[i] && rows[i][code]; p[DB_FIELD[code]] = it && it.filled ? it.value.trim() : ""; });
+    if (sourcePages[i] && sourcePages[i].ChnVerseEnd) p.ChnVerseEnd = sourcePages[i].ChnVerseEnd;
     pages.push(p);
   }
   return pages;
@@ -3383,7 +3384,7 @@ function saveDbNow() { // 지금 올라와 있는 "이 절"만 저장(다른 절
   } catch (e) { saveWarnEl.hidden = false; }
 }
 // 초안이 장 파일(하드 코딩된 내용)과 다른 절에 ✎ 표시 + 이 장에서 아직 코드에 반영 안 된 절 수를 상태줄에 표시
-function dbNormPages(list) { return JSON.stringify((list || []).map(p => [p.Kor, p.Chn, p.Eng, p.Ind].map(x => (x || "").trim()))); }
+function dbNormPages(list) { return JSON.stringify((list || []).map(p => [p.Kor, p.Chn, p.Eng, p.Ind].map(x => (x || "").trim()).concat(p.ChnVerseEnd || 0))); }
 function dbMarkVerses() {
   const s = dbCur; if (!s || !window.BibleDB) return;
   const pre = s.en + "|" + s.ch + "|", d = dbRead().d, fileBy = new Map(), pend = new Set();
@@ -3406,7 +3407,7 @@ function dbSource(s) {
   const o = dbRead(), k = dbKey(s);
   if (o.d[k]) return { pages: o.d[k], src: "draft" };
   const rows = window.BibleDB ? BibleDB.rows(s.en, s.ch).filter(r => r.Verse === s.v) : [];
-  if (rows.length) return { pages: rows.map(r => ({ Kor: r.Kor || "", Chn: r.Chn || "", Eng: r.Eng || "", Ind: r.Ind || "" })), src: "file" };
+  if (rows.length) return { pages: rows.map(r => ({ Kor: r.Kor || "", Chn: r.Chn || "", Eng: r.Eng || "", Ind: r.Ind || "", ChnVerseEnd: r.ChnVerseEnd || 0 })), src: "file" };
   return { pages: [], src: "empty" };
 }
 function dbVerseMax(s) { // 절 수: 장 파일의 BibleDB.ref → 없으면 이미 있는 절 중 가장 큰 번호 → 그래도 모르면 176(가장 긴 장)
@@ -3524,7 +3525,8 @@ async function dbGo(sel) {
   try { await BibleDB.load(sel.en, sel.ch); } catch (e) { miss = true; }
   if (my !== dbSeq) return; // 그 사이 다른 절을 골랐으면 이 결과는 버림
   fillNum(dbVerse, Math.max(dbVerseMax(sel), sel.v), sel.v);
-  setRefTags(dbRefText(sel));
+  const rangeRow = BibleDB.rows(sel.en, sel.ch).find(r => r.Page === 1 && r.ChnVerseEnd >= sel.v && r.Verse <= sel.v && r.Chn);
+  setRefTags(rangeRow ? dbRefText({ en: sel.en, ch: sel.ch, v: rangeRow.Verse, vEnd: rangeRow.ChnVerseEnd }) : dbRefText(sel));
   const { pages, src } = dbSource(sel);
   const map = {};
   LANGS.forEach(({ code }) => { map[code] = pages.map(p => p[DB_FIELD[code]] || ""); });
@@ -3717,7 +3719,7 @@ async function impLoad() {
   try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
   if (my !== impSeq) return; // 그 사이 다른 장을 골랐으면 이 결과는 버림
   const d = dbRead().d, by = new Map(), pre = en + "|" + ch + "|";
-  BibleDB.rows(en, ch).forEach(r => { if (!by.has(r.Verse)) by.set(r.Verse, []); by.get(r.Verse).push({ Kor: r.Kor || "", Chn: r.Chn || "", Eng: r.Eng || "", Ind: r.Ind || "" }); });
+  BibleDB.rows(en, ch).forEach(r => { if (!by.has(r.Verse)) by.set(r.Verse, []); by.get(r.Verse).push({ Kor: r.Kor || "", Chn: r.Chn || "", Eng: r.Eng || "", Ind: r.Ind || "", ChnVerseEnd: r.ChnVerseEnd || 0 }); });
   Object.keys(d).forEach(k => { const v = k.startsWith(pre) ? parseInt(k.slice(pre.length), 10) : 0; if (v > 0) by.set(v, d[k] || []); }); // 초안이 있으면 초안이 우선(dbSource와 같은 규칙)
   let top = 0; try { top = +BibleDB.verses(en, ch) || 0; } catch (e) { /* 절 수를 모르면 내용이 있는 마지막 절까지만 */ }
   by.forEach((pgs, v) => { if (pgs.some(pageHas)) top = Math.max(top, v); });
@@ -3727,7 +3729,10 @@ async function impLoad() {
     if (!pgs.length) { impCells.push({ label: String(v), item: -1, title: "아직 데이터가 없어요" }); continue; }
     filled++;
     pgs.forEach((p, i) => {
-      const label = impShow(v, i, pgs.length), item = impItems.push({ page: p, ref: bibleRefKey(en, ch, impLabel(v, i, pgs.length)), label }) - 1;
+      const rangeEnd = p.ChnVerseEnd > v ? p.ChnVerseEnd : 0;
+      const label = rangeEnd ? v + "-" + rangeEnd : impShow(v, i, pgs.length);
+      const refLabel = rangeEnd ? v + "~" + rangeEnd : impLabel(v, i, pgs.length);
+      const item = impItems.push({ page: p, ref: bibleRefKey(en, ch, refLabel), label }) - 1;
       impCells.push({ label, item, title: (p.Kor || p.Eng || p.Chn || p.Ind).replace(/\s+/g, " ").slice(0, 80) });
     });
   }
@@ -3844,11 +3849,17 @@ const dbCodeOverlay = document.getElementById("dbCodeOverlay"), dbCodeText = doc
 let dbScope = "verse";
 const jq = JSON.stringify; // 따옴표·줄바꿈을 코드에 안전하게 넣기
 function dbLine(en, ch, v, i, p) {
-  return "{Bible:" + jq(en) + ",Chapter:" + ch + ",Verse:" + v + ",Page:" + (i + 1) + ",Kor:" + jq(p.Kor || "") + ",Chn:" + jq(p.Chn || "") + ",Eng:" + jq(p.Eng || "") + ",Ind:" + jq(p.Ind || "") + "},";
+  const rangeEnd = p.ChnVerseEnd > v ? ",ChnVerseEnd:" + p.ChnVerseEnd : "";
+  return "  {Bible:" + jq(en) + ", Chapter:" + ch + ", Verse:" + v + ", Page:" + (i + 1) + ",\n"
+    + "    Kor:" + jq(p.Kor || "") + ",\n"
+    + "    Chn:" + jq(p.Chn || "") + ",\n"
+    + "    Eng:" + jq(p.Eng || "") + ",\n"
+    + "    Ind:" + jq(p.Ind || "") + rangeEnd + "\n"
+    + "  },";
 }
 function dbChapterEntries(en, ch) { // [[절, 페이지들]...] — 절마다 초안이 있으면 초안, 없으면 장 파일 내용
   const by = new Map();
-  BibleDB.rows(en, ch).forEach(r => { if (!by.has(r.Verse)) by.set(r.Verse, []); by.get(r.Verse).push({ Kor: r.Kor, Chn: r.Chn, Eng: r.Eng, Ind: r.Ind }); });
+  BibleDB.rows(en, ch).forEach(r => { if (!by.has(r.Verse)) by.set(r.Verse, []); by.get(r.Verse).push({ Kor: r.Kor, Chn: r.Chn, Eng: r.Eng, Ind: r.Ind, ChnVerseEnd: r.ChnVerseEnd || 0 }); });
   const pre = en + "|" + ch + "|", d = dbRead().d;
   Object.keys(d).forEach(k => { if (k.startsWith(pre)) by.set(parseInt(k.slice(pre.length), 10), d[k]); });
   return [...by.entries()].filter(e => e[1].length).sort((a, b) => a[0] - b[0]);

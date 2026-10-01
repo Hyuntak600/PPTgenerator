@@ -2,7 +2,22 @@
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
 BibleDB.ref("Psalms",131,3);
 BibleDB.add([
-  {Bible:"Psalms", Chapter:131, Verse:1, Page:1, Kor:"<다윗의 시, 성전에 올라가는 순례자의 노래> 주님, 이제 내가 교만한 마음을 버렸습니다. 오만한 길에서 돌아섰습니다. 너무 큰 것을 가지려고 나서지 않으며, 분에 넘치는 놀라운 일을 이루려고도 하지 않습니다.", Chn:"", Eng:"My heart is not proud, O LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me.", Ind:""},
-  {Bible:"Psalms", Chapter:131, Verse:2, Page:1, Kor:"오히려, 내 마음은 고요하고 평온합니다. 젖뗀 아이가 어머니 품에 안겨 있듯이, 내 영혼도 젖뗀 아이와 같습니다.", Chn:"", Eng:"But I have stilled and quieted my soul; like a weaned child with its mother, like a weaned child is my soul within me.", Ind:""},
-  {Bible:"Psalms", Chapter:131, Verse:3, Page:1, Kor:"이스라엘아, 이제부터 영원히 오직 주님만을 의지하여라.", Chn:"", Eng:"O Israel, put your hope in the LORD both now and forevermore.", Ind:""},
+  {Bible:"Psalms", Chapter:131, Verse:1, Page:1,
+    Kor:"<다윗의 시, 성전에 올라가는 순례자의 노래> 주님, 이제 내가 교만한 마음을 버렸습니다. 오만한 길에서 돌아섰습니다. 너무 큰 것을 가지려고 나서지 않으며, 분에 넘치는 놀라운 일을 이루려고도 하지 않습니다.",
+    Chn:"大卫上行之诗。 耶和华啊，我的心不狂傲， 我的眼不高大； 重大和测不透的事， 我也不敢行。",
+    Eng:"My heart is not proud, O LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me.",
+    Ind:"Nyanyian ziarah Daud. TUHAN, aku tidak tinggi hati, dan tidak memandang dengan sombong; aku tidak mengejar hal-hal yang terlalu besar atau hal-hal yang terlalu ajaib bagiku."
+  },
+  {Bible:"Psalms", Chapter:131, Verse:2, Page:1,
+    Kor:"오히려, 내 마음은 고요하고 평온합니다. 젖뗀 아이가 어머니 품에 안겨 있듯이, 내 영혼도 젖뗀 아이와 같습니다.",
+    Chn:"我的心平稳安静， 好像断过奶的孩子在他母亲的怀中； 我的心在我里面真像断过奶的孩子。",
+    Eng:"But I have stilled and quieted my soul; like a weaned child with its mother, like a weaned child is my soul within me.",
+    Ind:"Sesungguhnya, aku telah menenangkan dan mendiamkan jiwaku; seperti anak yang disapih berbaring dekat ibunya, ya, seperti anak yang disapih jiwaku dalam diriku."
+  },
+  {Bible:"Psalms", Chapter:131, Verse:3, Page:1,
+    Kor:"이스라엘아, 이제부터 영원히 오직 주님만을 의지하여라.",
+    Chn:"以色列啊，你当仰望耶和华， 从今时直到永远！",
+    Eng:"O Israel, put your hope in the LORD both now and forevermore.",
+    Ind:"Berharaplah kepada TUHAN, hai Israel, dari sekarang sampai selama-lamanya!"
+  },
 ]);
