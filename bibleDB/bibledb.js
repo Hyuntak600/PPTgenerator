@@ -73,13 +73,14 @@
   ["Revelation","요한계시록",22]
   ];
   const pad = (n, w) => String(n).padStart(w, "0");
+  const bookKey = en => String(en).replace(/\s+/g, "");
   const chapters = new Map();   // "Genesis|1" -> Map("verse|page" -> row)
   const refs = new Map();       // "Genesis|1" -> 그 장의 마지막 절 번호(장 파일의 BibleDB.ref로 하드 코딩)
   const loading = new Map();    // "Genesis|1" -> Promise
-  const ck = (b, c) => b + "|" + c;
+  const ck = (b, c) => bookKey(b) + "|" + c;
   const DB = window.BibleDB = {
     books: BOOKS.map((b, i) => ({ no: i + 1, en: b[0], ko: b[1], chapters: b[2], folder: pad(i + 1, 2) + "_" + b[0].replace(/ /g, "") })),
-    book(en) { return DB.books.find(b => b.en === en); },
+    book(en) { const key = bookKey(en); return DB.books.find(b => bookKey(b.en) === key); },
     path(en, ch) {
       const b = DB.book(en), nm = en.replace(/ /g, "");
       return "bible/" + b.folder + "/" + nm + "_" + pad(ch, 3) + ".js";
