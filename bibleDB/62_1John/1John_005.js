@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"1John", Chapter:5, Verse:21, Page:1,
     Kor:"자녀 된 이 여러분, 여러분은 우상을 멀리하십시오.e(e 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"小子们哪，你们要自守，远避偶像！",
-    Eng:"",
+    Eng:"Dear children, keep yourselves from idols.",
     Ind:"Anak-anakku, waspadalah terhadap segala berhala."
   },
 ]);

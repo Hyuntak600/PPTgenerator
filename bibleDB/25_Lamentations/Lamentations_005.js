@@ -131,7 +131,7 @@ BibleDB.add([
   {Bible:"Lamentations", Chapter:5, Verse:22, Page:1,
     Kor:"c주님께서 우리를 아주 버리셨습니까? 우리에게서 진노를 풀지 않으시렵니까?\" (c 또는 '주님께서 우리를 아주 버리시고 우리에게서 진노를 풀지 않으십니다')",
     Chn:"你竟全然弃绝我们， 向我们大发烈怒？",
-    Eng:"",
+    Eng:"unless you have utterly rejected us and are angry with us beyond measure.",
     Ind:"Atau, apa Engkau sudah membuang kami sama sekali? Sangat murkakah Engkau terhadap kami?"
   },
 ]);

@@ -77,7 +77,7 @@ BibleDB.add([
   {Bible:"2John", Chapter:1, Verse:13, Page:1,
     Kor:"택하심을 받은 그대 자매의 자녀들이 그대에게 문안합니다.d(d 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"你那蒙拣选之姊妹的儿女都问你安。",
-    Eng:"",
+    Eng:"The children of your chosen sister send their greetings.",
     Ind:"Salam kepada kamu dari anak-anak saudaramu yang terpilih."
   },
 ]);

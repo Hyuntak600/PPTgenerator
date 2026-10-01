@@ -185,7 +185,7 @@ BibleDB.add([
   {Bible:"Proverbs", Chapter:31, Verse:31, Page:1,
     Kor:"d아내가 손수 거둔 결실은 e아내에게 돌려라. d아내가 이룬 공로가 성문 어귀 광장에서 인정받게 하여라. (d 히, '그 여자가' e 히, '그 여자에게')",
     Chn:"愿她享受操作所得的； 愿她的工作在城门口荣耀她。",
-    Eng:"",
+    Eng:"Give her the reward she has earned, and let her works bring her praise at the city gate.",
     Ind:"Berilah kepadanya bagian dari hasil tangannya, biarlah perbuatannya memuji dia di pintu-pintu gerbang!"
   },
 ]);

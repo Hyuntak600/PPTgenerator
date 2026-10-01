@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"2Peter", Chapter:3, Verse:18, Page:1,
     Kor:"우리의 주님이시며 구주이신 그리스도 예수에 대한 지식과 그의 은혜 안에서 자라십시오. 이제도 영원한 날까지도 영광이 주님께 있기를 빕니다. <아멘.>",
     Chn:"你们却要在我们主—救主耶稣基督的恩典和知识上有长进。愿荣耀归给他，从今直到永远。阿们！",
-    Eng:"",
+    Eng:"But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.",
     Ind:"Tetapi bertumbuhlah dalam kasih karunia dan dalam pengenalan akan Tuhan dan Juruselamat kita, Yesus Kristus. Bagi-Nya kemuliaan, sekarang dan sampai selama-lamanya."
   },
 ]);

@@ -317,7 +317,7 @@ BibleDB.add([
   {Bible:"1Kings", Chapter:22, Verse:53, Page:1,
     Kor:"그는 바알을 섬기고, 그것에 절을 하여서, 그의 아버지가 한 것과 마찬가지로, 주 이스라엘의 하나님께서 진노하시게 하였다.",
     Chn:"他照他父亲一切所行的，事奉敬拜巴力，惹耶和华—以色列　神的怒气。",
-    Eng:"",
+    Eng:"He served and worshiped Baal and provoked the Lord , the God of Israel, to anger, just as his father had done.",
     Ind:"(22-54) Ia beribadah kepada Baal dan sujud menyembah kepadanya dan dengan demikian ia menimbulkan sakit hati TUHAN, Allah Israel, tepat seperti yang dilakukan ayahnya."
   },
 ]);

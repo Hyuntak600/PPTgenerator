@@ -203,7 +203,7 @@ BibleDB.add([
   {Bible:"Leviticus", Chapter:27, Verse:34, Page:1,
     Kor:"이것은 주님께서 시내 산에서 모세더러, 이스라엘 자손에게 이르라고 내리신 명이다.",
     Chn:"这就是耶和华在西奈山为以色列人所吩咐摩西的命令。",
-    Eng:"",
+    Eng:"These are the commands the Lord gave Moses on Mount Sinai for the Israelites.",
     Ind:"Itulah perintah-perintah yang diperintahkan TUHAN kepada Musa di gunung Sinai untuk disampaikan kepada orang Israel."
   },
 ]);

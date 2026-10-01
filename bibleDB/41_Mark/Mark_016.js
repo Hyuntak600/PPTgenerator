@@ -119,7 +119,7 @@ BibleDB.add([
   {Bible:"Mark", Chapter:16, Verse:20, Page:1,
     Kor:"그들은 나가서, 곳곳에서 복음을 전파하였다. 주님께서 그들과 함께 일하시고, 여러 가지 표징이 따르게 하셔서, 말씀을 확증하여 주셨다.>>g(g 다른 고대 사본들에는 '아멘'이 첨가되어 있음)",
     Chn:"门徒出去，到处宣传福音。主和他们同工，用神迹随着，证实所传的道。阿们！",
-    Eng:"",
+    Eng:"Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it.",
     Ind:"Merekapun pergilah memberitakan Injil ke segala penjuru, dan Tuhan turut bekerja dan meneguhkan firman itu dengan tanda-tanda yang menyertainya."
   },
 ]);

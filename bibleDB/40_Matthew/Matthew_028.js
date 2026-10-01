@@ -119,7 +119,7 @@ BibleDB.add([
   {Bible:"Matthew", Chapter:28, Verse:20, Page:1,
     Kor:"내가 너희에게 명령한 모든 것을 그들에게 가르쳐 지키게 하여라. 보아라, 내가 세상 끝 날까지 항상 너희와 함께 있을 것이다.\"d(d 다른 고대 사본들은 절 끝에 '아멘'이 있음)",
     Chn:"凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。」",
-    Eng:"",
+    Eng:"and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.\"",
     Ind:"dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.\""
   },
 ]);

@@ -131,7 +131,7 @@ BibleDB.add([
   {Bible:"Ruth", Chapter:4, Verse:22, Page:1,
     Kor:"오벳은 이새를 낳고, 이새는 다윗을 낳았다.",
     Chn:"俄备得生耶西；耶西生大卫。",
-    Eng:"",
+    Eng:"Obed the father of Jesse, and Jesse the father of David.",
     Ind:"Obed memperanakkan Isai dan Isai memperanakkan Daud."
   },
 ]);

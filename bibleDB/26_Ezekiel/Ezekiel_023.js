@@ -287,13 +287,13 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:23, Verse:48, Page:1,
     Kor:"나는 이렇게 해서, 음란한 행위를 이 땅에서 없애 버려, 모든 여인이 경고를 받아, 너희의 음행을 본받지 않게 하겠다.",
     Chn:"这样，我必使淫行从境内止息，好叫一切妇人都受警戒，不效法你们的淫行。",
-    Eng:"",
+    Eng:"\"So I will put an end to lewdness in the land, that all women may take warning and not imitate you.",
     Ind:"Aku akan menghentikan kemesuman di tanah itu dan semua kaum perempuan akan memperhatikan peringatan itu dan tidak akan melakukan kemesuman lagi seperti yang kamu lakukan."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:49, Page:1,
     Kor:"너희가 음행을 저지른 이유로 형벌을 받고 나면, 그리고 너희가 우상들을 섬기다가 지은 죄에 대한 징벌을 받고 나면, 그 때에야 너희는 내가 주 하나님인 줄 알게 될 것이다.\"",
     Chn:"人必照着你们的淫行报应你们；你们要担当拜偶像的罪，就知道我是主耶和华。」",
-    Eng:"",
+    Eng:"You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign LORD .\"",
     Ind:"Orang akan membalaskan kemesumanmu atasmu dan kamu harus menanggung dosa-dosamu lantaran kamu menyembah berhala-berhala. Dan kamu akan mengetahui bahwa Akulah Tuhan ALLAH.\""
   },
 ]);

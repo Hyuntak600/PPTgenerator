@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"Hebrews", Chapter:13, Verse:25, Page:1,
     Kor:"여러분 모두에게 은혜가 있기를 빕니다.g(g 다른 고대 사본들은 절 끝에 '아멘'이 있음)",
     Chn:"愿恩惠常与你们众人同在。阿们！",
-    Eng:"",
+    Eng:"Grace be with you all.",
     Ind:"Kasih karunia menyertai kamu sekalian."
   },
 ]);

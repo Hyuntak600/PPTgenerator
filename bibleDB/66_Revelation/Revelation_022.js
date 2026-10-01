@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"Revelation", Chapter:22, Verse:21, Page:1,
     Kor:"○주 예수의 은혜가 b모든 사람에게 있기를 빕니다. c아멘.(b 다른 고대 사본들에는 '성도에게' c 다른 고대 사본들은 절 끝에 '아멘'이 없음)",
     Chn:"愿主耶稣的恩惠常与众圣徒同在。阿们！",
-    Eng:"",
+    Eng:"The grace of the Lord Jesus be with God's people. Amen.",
     Ind:"Kasih karunia Tuhan Yesus menyertai kamu sekalian! Amin."
   },
 ]);

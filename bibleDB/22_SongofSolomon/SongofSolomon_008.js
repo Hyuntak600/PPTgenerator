@@ -83,7 +83,7 @@ BibleDB.add([
   {Bible:"SongofSolomon", Chapter:8, Verse:14, Page:1,
     Kor:"(여자) 임이여, 노루처럼 빨리 오세요. 향내 그윽한 이 산의 어린 사슴처럼, 빨리 오세요.",
     Chn:"我的良人哪，求你快来！ 如羚羊或小鹿在香草山上。",
-    Eng:"",
+    Eng:"Come away, my lover, and be like a gazelle or like a young stag on the spice-laden mountains.",
     Ind:"--Cepat, kekasihku, berlakulah seperti kijang, atau seperti anak rusa di atas gunung-gunung tanaman rempah-rempah."
   },
 ]);

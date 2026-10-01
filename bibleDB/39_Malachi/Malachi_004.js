@@ -35,7 +35,7 @@ BibleDB.add([
   {Bible:"Malachi", Chapter:4, Verse:6, Page:1,
     Kor:"그가 아버지의 마음을 자녀에게로 돌이키고, 자녀의 마음을 아버지에게로 돌이킬 것이다. 돌이키지 아니하면, 내가 가서 이 땅에 저주를 내리겠다.\"",
     Chn:"他必使父亲的心转向儿女，儿女的心转向父亲，免得我来咒诅遍地。」",
-    Eng:"",
+    Eng:"He will turn the hearts of the fathers to their children, and the hearts of the children to their fathers; or else I will come and strike the land with a curse.\"",
     Ind:"Maka ia akan membuat hati bapa-bapa berbalik kepada anak-anaknya dan hati anak-anak kepada bapa-bapanya supaya jangan Aku datang memukul bumi sehingga musnah."
   },
 ]);

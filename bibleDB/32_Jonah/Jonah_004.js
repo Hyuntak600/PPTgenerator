@@ -65,7 +65,7 @@ BibleDB.add([
   {Bible:"Jonah", Chapter:4, Verse:11, Page:1,
     Kor:"하물며 좌우를 가릴 줄 모르는 사람들이 십이만 명도 더 되고 짐승들도 수없이 많은 이 큰 성읍 니느웨를, 어찌 내가 아끼지 않겠느냐?\"",
     Chn:"何况这尼尼微大城，其中不能分辨左手右手的有十二万多人，并有许多牲畜，我岂能不爱惜呢？」",
-    Eng:"",
+    Eng:"But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?\"",
     Ind:"Bagaimana tidak Aku akan sayang kepada Niniwe, kota yang besar itu, yang berpenduduk lebih dari seratus dua puluh ribu orang, yang semuanya tak tahu membedakan tangan kanan dari tangan kiri, dengan ternaknya yang banyak?\""
   },
 ]);

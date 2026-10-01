@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"2Thessalonians", Chapter:3, Verse:18, Page:1,
     Kor:"우리 주 예수 그리스도의 은혜가 여러분 모두에게 있기를 빕니다.d(d 다른 고대 사본들은 절 끝에 '아멘'이 있음)",
     Chn:"愿我们主耶稣基督的恩常与你们众人同在！",
-    Eng:"",
+    Eng:"The grace of our Lord Jesus Christ be with you all.",
     Ind:"Kasih karunia Yesus Kristus, Tuhan kita, menyertai kamu sekalian!"
   },
 ]);

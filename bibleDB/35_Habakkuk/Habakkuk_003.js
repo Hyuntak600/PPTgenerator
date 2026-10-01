@@ -113,7 +113,7 @@ BibleDB.add([
   {Bible:"Habakkuk", Chapter:3, Verse:19, Page:1,
     Kor:"주 하나님은 나의 힘이시다. 나의 발을 사슴의 발과 같게 하셔서, 산등성이를 마구 치닫게 하신다. ○이 노래는 음악 지휘자를 따라서, 수금에 맞추어 부른다.",
     Chn:"主耶和华是我的力量； 他使我的脚快如母鹿的蹄， 又使我稳行在高处。 这歌交与伶长，用丝弦的乐器。",
-    Eng:"",
+    Eng:"The Sovereign Lord is my strength; he makes my feet like the feet of a deer, he enables me to go on the heights. For the director of music. On my stringed instruments.",
     Ind:"ALLAH Tuhanku itu kekuatanku: Ia membuat kakiku seperti kaki rusa, Ia membiarkan aku berjejak di bukit-bukitku. (Untuk pemimpin biduan. Dengan permainan kecapi)."
   },
 ]);

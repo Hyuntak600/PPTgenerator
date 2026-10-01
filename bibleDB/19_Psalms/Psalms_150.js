@@ -35,7 +35,7 @@ BibleDB.add([
   {Bible:"Psalms", Chapter:150, Verse:6, Page:1,
     Kor:"숨쉬는 사람마다 주님을 찬양하여라. a할렐루야. (a 또는 '주님을 찬송하여라')",
     Chn:"凡有气息的都要赞美耶和华！ 你们要赞美耶和华！",
-    Eng:"",
+    Eng:"Let everything that has breath praise the Lord . Praise the Lord .",
     Ind:"Biarlah segala yang bernafas memuji TUHAN! Haleluya!"
   },
 ]);

@@ -209,7 +209,7 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:48, Verse:35, Page:1,
     Kor:"○이렇게 그 둘레가 만 팔천 자이다. 이 성읍의 이름이 이제부터는 d'여호와샤마'라고 불릴 것이다.\"(d 히, '아도나이 샤마(주님께서 거기에 계심)')",
     Chn:"城四围共一万八千肘。从此以后，这城的名字必称为「耶和华的所在」。",
-    Eng:"",
+    Eng:"\"The distance all around will be 18,000 cubits. \"And the name of the city from that time on will be: The LORD is There .\"",
     Ind:"Jadi keliling kota itu adalah delapan belas ribu hasta. Sejak hari itu nama kota itu ialah: TUHAN HADIR DI SITU.\""
   },
 ]);

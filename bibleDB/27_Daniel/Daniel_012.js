@@ -77,7 +77,7 @@ BibleDB.add([
   {Bible:"Daniel", Chapter:12, Verse:13, Page:1,
     Kor:"○너, 다니엘아, 너는 끝까지 신실하여라. 너는 죽겠지만, 끝 날에는 네가 일어나서, 네게 돌아올 보상을 받을 것이다.\"",
     Chn:"「你且去等候结局，因为你必安歇。到了末期，你必起来，享受你的福分。」",
-    Eng:"",
+    Eng:"\"As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.\"",
     Ind:"Tetapi engkau, pergilah sampai tiba akhir zaman, dan engkau akan beristirahat, dan akan bangkit untuk mendapat bagianmu pada kesudahan zaman.\""
   },
 ]);

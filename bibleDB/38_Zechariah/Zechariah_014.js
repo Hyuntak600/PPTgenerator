@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"Zechariah", Chapter:14, Verse:21, Page:1,
     Kor:"예루살렘과 유다에 있는 모든 솥도 만군의 주님께 거룩하게 바친 것이 되어, 제사를 드리는 사람들이 와서, 그 솥에 제물 고기를 삶을 것이다. 그 날이 오면, 만군의 주님의 성전 안에 다시는 c상인들이 없을 것이다.(c 히, '가나안 사람들이')",
     Chn:"凡耶路撒冷和犹大的锅都必归万军之耶和华为圣。凡献祭的都必来取这锅，煮肉在其中。当那日，在万军之耶和华的殿中必不再有迦南人。",
-    Eng:"",
+    Eng:"Every pot in Jerusalem and Judah will be holy to the Lord Almighty, and all who come to sacrifice will take some of the pots and cook in them. And on that day there will no longer be a Canaanite in the house of the Lord Almighty.",
     Ind:"Maka segala kuali di Yerusalem dan di Yehuda akan menjadi kudus bagi TUHAN semesta alam; semua orang yang mempersembahkan korban akan datang mengambilnya dan memasak di dalamnya. Dan tidak akan ada lagi pedagang di rumah TUHAN semesta alam pada waktu itu."
   },
 ]);

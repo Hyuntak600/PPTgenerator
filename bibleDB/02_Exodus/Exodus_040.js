@@ -227,7 +227,7 @@ BibleDB.add([
   {Bible:"Exodus", Chapter:40, Verse:38, Page:1,
     Kor:"그들이 길을 가는 동안에, 낮에는 주님의 구름이 성막 위에 있고, 밤에는 구름 가운데 불이 있어서, 이스라엘 온 자손의 눈 앞을 밝혀 주었다.",
     Chn:"日间，耶和华的云彩是在帐幕以上；夜间，云中有火，在以色列全家的眼前。在他们所行的路上都是这样。",
-    Eng:"",
+    Eng:"So the cloud of the Lord was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel during all their travels.",
     Ind:"Sebab awan TUHAN itu ada di atas Kemah Suci pada siang hari, dan pada malam hari ada api di dalamnya, di depan mata seluruh umat Israel pada setiap tempat mereka berkemah."
   },
 ]);

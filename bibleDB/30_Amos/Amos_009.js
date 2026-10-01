@@ -89,7 +89,7 @@ BibleDB.add([
   {Bible:"Amos", Chapter:9, Verse:15, Page:1,
     Kor:"내가 이 백성을 그들이 살아갈 땅에 심어서, 내가 그들에게 준 이 땅에서 다시는 뿌리가 뽑히지 않게 하겠다.\" 주 너의 하나님이 말씀하신다.",
     Chn:"我要将他们栽于本地， 他们不再从我所赐给他们的地上拔出来。 这是耶和华—你的　神说的。",
-    Eng:"",
+    Eng:"I will plant Israel in their own land, never again to be uprooted from the land I have given them,\" says the Lord your God.",
     Ind:"Maka Aku akan menanam mereka di tanah mereka, dan mereka tidak akan dicabut lagi dari tanah yang telah Kuberikan kepada mereka,\" firman TUHAN, Allahmu."
   },
 ]);

@@ -119,7 +119,7 @@ BibleDB.add([
   {Bible:"Micah", Chapter:7, Verse:20, Page:1,
     Kor:"주님께서는 옛적에 우리의 조상에게 맹세하신 대로, 야곱에게 성실을 베푸시며, 아브라함에게 인애를 더하여 주십니다.",
     Chn:"你必按古时起誓应许我们列祖的话， 向雅各发诚实， 向亚伯拉罕施慈爱。",
-    Eng:"",
+    Eng:"You will be true to Jacob, and show mercy to Abraham, as you pledged on oath to our fathers in days long ago.",
     Ind:"Kiranya Engkau menunjukkan setia-Mu kepada Yakub dan kasih-Mu kepada Abraham seperti yang telah Kaujanjikan dengan bersumpah kepada nenek moyang kami sejak zaman purbakala!"
   },
 ]);

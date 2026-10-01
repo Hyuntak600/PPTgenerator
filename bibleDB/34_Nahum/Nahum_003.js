@@ -113,7 +113,7 @@ BibleDB.add([
   {Bible:"Nahum", Chapter:3, Verse:19, Page:1,
     Kor:"네 상처는 고칠 길이 없고, 네 부상은 치명적이다. 네 소식을 듣는 이들마다, 네가 망한 것을 보고 기뻐서 손뼉을 친다. 너의 계속되는 학대를 받지 않았다고 생각하는 사람이 어디에 있느냐?",
     Chn:"你的损伤无法医治； 你的伤痕极其重大。 凡听你信息的必都因此向你拍掌。 你所行的恶谁没有时常遭遇呢？",
-    Eng:"",
+    Eng:"Nothing can heal your wound; your injury is fatal. Everyone who hears the news about you claps his hands at your fall, for who has not felt your endless cruelty?",
     Ind:"Tiada pengobatan untuk cederamu, lukamu tidak tersembuhkan. Semua orang yang mendengar tentang engkau bertepuk tangan karena engkau; sebab kepada siapakah tidak tertimpa perbuatan jahatmu terus-menerus?"
   },
 ]);

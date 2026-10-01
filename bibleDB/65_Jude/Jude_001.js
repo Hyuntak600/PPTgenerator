@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"Jude", Chapter:1, Verse:25, Page:1,
     Kor:"곧 우리의 구주이시며 오직 한 분이신 하나님께 영광과 위엄과 주권과 권세가 우리 주 예수 그리스도로 말미암아 영원 전에와 이제와 영원까지 있기를 빕니다. 아멘.",
     Chn:"愿荣耀、威严、能力、权柄，因我们的主耶稣基督归与他，从万古以前并现今，直到永永远远。阿们！",
-    Eng:"",
+    Eng:"to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.",
     Ind:"Allah yang esa, Juruselamat kita oleh Yesus Kristus, Tuhan kita, bagi Dia adalah kemuliaan, kebesaran, kekuatan dan kuasa sebelum segala abad dan sekarang dan sampai selama-lamanya. Amin."
   },
 ]);

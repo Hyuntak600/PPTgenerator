@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"2Samuel", Chapter:24, Verse:25, Page:1,
     Kor:"거기에서 다윗은 주님께 제단을 쌓아, 번제와 화목제를 드렸다. 다윗이 땅을 돌보아 달라고 주님께 비니, 주님께서 그의 기도를 들어 주셔서, 이스라엘에 내리던 재앙이 그쳤다.",
     Chn:"大卫在那里为耶和华筑了一座坛，献燔祭和平安祭。如此，耶和华垂听国民所求的，瘟疫在以色列人中就止住了。",
-    Eng:"",
+    Eng:"David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. Then the Lord answered prayer in behalf of the land, and the plague on Israel was stopped.",
     Ind:"Lalu Daud mendirikan di sana mezbah bagi TUHAN dan mempersembahkan korban bakaran dan korban keselamatan. Maka TUHAN mengabulkan doa untuk negeri itu, dan tulah itu berhenti menimpa orang Israel."
   },
 ]);

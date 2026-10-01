@@ -1531,6 +1531,7 @@
 50:23 and saw the third generation of Ephraim's children. Also the children of Makir son of  Manasseh were placed at birth on Joseph's knees.
 50:24 Then Joseph said to his brothers, "I am about to die. But God will surely come to your aid  and take you up out of this land to the land he promised on oath to Abraham, Isaac and Jacob."
 50:25 And Joseph made the sons of Israel swear an oath and said, "God will surely come to your  aid, and then you must carry my bones up from this place."
+50:26 So Joseph died at the age of a hundred and ten. And after they embalmed him, he was placed in a coffin in Egypt.
 Exodus
 1:1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:
 1:2 Reuben, Simeon, Levi and Judah;
@@ -2744,6 +2745,7 @@ Exodus
 40:35 Moses could not enter the Tent of Meeting because the cloud had settled upon it, and the glory of the LORD filled the tabernacle.
 40:36 In all the travels of the Israelites, whenever the cloud lifted from above the tabernacle, they would set out;
 40:37 but if the cloud did not lift, they did not set out--until the day it lifted.
+40:38 So the cloud of the Lord was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel during all their travels.
 Leviticus 
 1:1 The LORD called to Moses and spoke to him from the Tent of Meeting. He said,
 1:2 "Speak to the Israelites and say to them: 'When any of you brings an offering to the LORD, bring as your offering an animal from either the herd or the flock.
@@ -3603,6 +3605,7 @@ Leviticus
 27:31 If a man redeems any of his tithe, he must add a fifth of the value to it.
 27:32 The entire tithe of the herd and flock--every tenth animal that passes under the shepherd's rod--will be holy to the LORD.
 27:33 He must not pick out the good from the bad or make any substitution. If he does make a substitution, both the animal and its substitute become holy and cannot be redeemed.'"
+27:34 These are the commands the Lord gave Moses on Mount Sinai for the Israelites.
 Numbers
 1:1 The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:
 1:2 "Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.
@@ -4891,6 +4894,7 @@ Numbers
 36:10 So Zelophehad's daughters did as the LORD commanded Moses.
 36:11 Zelophehad's daughters--Mahlah, Tirzah, Hoglah, Milcah and Noah--married their cousins on their father's side.
 36:12 They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained in their father's clan and tribe.
+36:13 These are the commands and regulations the Lord gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.
 Deuteronomy 
 1:1 These are the words Moses spoke to all Israel in the desert east of the Jordan--that is, in the Arabah--opposite Suph, between Paran and Tophel, Laban, Hazeroth and Dizahab.
 1:2 (It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)
@@ -5850,6 +5854,7 @@ Deuteronomy
 34:9 Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites listened to him and did what the LORD had commanded Moses.
 34:10 Since then, no prophet has risen in Israel like Moses, whom the LORD knew face to face,
 34:11 who did all those miraculous signs and wonders the LORD sent him to do in Egypt--to Pharaoh and to all his officials and to his whole land.
+34:12 For no one has ever shown the mighty power or performed the awesome deeds that Moses did in the sight of all Israel.
 Joshua 
 1:1 After the death of Moses the servant of the LORD, the LORD said to Joshua son of Nun, Moses' aide:
 1:2 "Moses my servant is dead. Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them--to the Israelites.
@@ -6508,6 +6513,7 @@ Joshua
 24:30 And they buried him in the land of his inheritance, at Timnath Serah in the hill country of Ephraim, north of Mount Gaash.
 24:31 Israel served the LORD throughout the lifetime of Joshua and of the elders who outlived him and who had experienced everything the LORD had done for Israel.
 24:32 And Joseph's bones, which the Israelites had brought up from Egypt, were buried at Shechem in the tract of land that Jacob bought for a hundred pieces of silver from the sons of Hamor, the father of Shechem. This became the inheritance of Joseph's descendants.
+24:33 And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.
 Judges 
 1:1 After the death of Joshua, the Israelites asked the LORD, "Who will be the first to go up and fight for us against the Canaanites?"
 1:2 The LORD answered, "Judah is to go; I have given the land into their hands."
@@ -7126,6 +7132,7 @@ Judges
 21:22 When their fathers or brothers complain to us, we will say to them, 'Do us a kindness by helping them, because we did not get wives for them during the war, and you are innocent, since you did not give your daughters to them.'"
 21:23 So that is what the Benjamites did. While the girls were dancing, each man caught one and carried her off to be his wife. Then they returned to their inheritance and rebuilt the towns and settled in them.
 21:24 At that time the Israelites left that place and went home to their tribes and clans, each to his own inheritance.
+21:25 In those days Israel had no king; everyone did as he saw fit.
 Ruth 
 1:1 In the days when the judges ruled, there was a famine in the land, and a man from Bethlehem in Judah, together with his wife and two sons, went to live for a while in the country of Moab.
 1:2 The man's name was Elimelech, his wife's name Naomi, and the names of his two sons were Mahlon and Kilion. They were Ephrathites from Bethlehem, Judah. And they went to Moab and lived there.
@@ -7211,6 +7218,7 @@ Ruth
 4:19 Hezron the father of Ram, Ram the father of Amminadab,
 4:20 Amminadab the father of Nahshon, Nahshon the father of Salmon,
 4:21 Salmon the father of Boaz, Boaz the father of Obed,
+4:22 Obed the father of Jesse, and Jesse the father of David.
 1 Samuel 
 1:1 There was a certain man from Ramathaim, a Zuphite from the hill country of Ephraim, whose name was Elkanah son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
 1:2 He had two wives; one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.
@@ -8021,6 +8029,7 @@ Ruth
 31:10 They put his armor in the temple of the Ashtoreths and fastened his body to the wall of Beth Shan.
 31:11 When the people of Jabesh Gilead heard of what the Philistines had done to Saul,
 31:12 all their valiant men journeyed through the night to Beth Shan. They took down the bodies of Saul and his sons from the wall of Beth Shan and went to Jabesh, where they burned them.
+31:13 Then they took their bones and buried them under a tamarisk tree at Jabesh, and they fasted seven days.
 2 Samuel 
 1:1 After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.
 1:2 On the third day a man arrived from Saul's camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honor.
@@ -8716,6 +8725,7 @@ Ruth
 24:22 Araunah said to David, "Let my lord the king take whatever pleases him and offer it up. Here are oxen for the burnt offering, and here are threshing sledges and ox yokes for the wood.
 24:23 O king, Araunah gives all this to the king." Araunah also said to him, "May the LORD your God accept you."
 24:24 But the king replied to Araunah, "No, I insist on paying you for it. I will not sacrifice to the LORD my God burnt offerings that cost me nothing." So David bought the threshing floor and the oxen and paid fifty shekels of silver for them.
+24:25 David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. Then the Lord answered prayer in behalf of the land, and the plague on Israel was stopped.
 1 Kings 
 1:1 When King David was old and well advanced in years, he could not keep warm even when they put covers over him.
 1:2 So his servants said to him, "Let us look for a young virgin to attend the king and take care of him. She can lie beside him so that our lord the king may keep warm."
@@ -9533,6 +9543,7 @@ Ruth
 22:50 Then Jehoshaphat rested with his fathers and was buried with them in the city of David his father. And Jehoram his son succeeded him.
 22:51 Ahaziah son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.
 22:52 He did evil in the eyes of the LORD, because he walked in the ways of his father and mother and in the ways of Jeroboam son of Nebat, who caused Israel to sin.
+22:53 He served and worshiped Baal and provoked the Lord , the God of Israel, to anger, just as his father had done.
 2 Kings 
 1:1 After Ahab's death, Moab rebelled against Israel.
 1:2 Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers, saying to them, "Go and consult Baal-Zebub, the god of Ekron, to see if I will recover from this injury."
@@ -10253,6 +10264,7 @@ Ruth
 25:27 In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin from prison on the twenty-seventh day of the twelfth month.
 25:28 He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon.
 25:29 So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table.
+25:30 Day by day the king gave Jehoiachin a regular allowance as long as he lived.
 1 Chronicles 
 1:1 Adam, Seth, Enosh,
 1:2 Kenan, Mahalalel, Jared,
@@ -12018,6 +12030,7 @@ Ruth
 36:20 He carried into exile to Babylon the remnant, who escaped from the sword, and they became servants to him and his sons until the kingdom of Persia came to power.
 36:21 The land enjoyed its sabbath rests; all the time of its desolation it rested, until the seventy years were completed in fulfillment of the word of the LORD spoken by Jeremiah.
 36:22 In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:
+36:23 "This is what Cyrus king of Persia says: " 'The Lord , the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Anyone of his people among you-may the Lord his God be with him, and let him go up.' "
 Ezra 
 1:1 In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:
 1:2 "This is what Cyrus king of Persia says: "'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.
@@ -12298,6 +12311,7 @@ Ezra
 10:41 Azarel, Shelemiah, Shemariah,
 10:42 Shallum, Amariah and Joseph.
 10:43 From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and Benaiah.
+10:44 All these had married foreign women, and some of them had children by these wives.
 Nehemiah
 1:1 The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,
 1:2 Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that survived the exile, and also about Jerusalem.
@@ -12704,6 +12718,7 @@ Nehemiah
 13:28 One of the sons of Joiada son of Eliashib the high priest was son-in-law to Sanballat the Horonite. And I drove him away from me.
 13:29 Remember them, O my God, because they defiled the priestly office and the covenant of the priesthood and of the Levites.
 13:30 So I purified the priests and the Levites of everything foreign, and assigned them duties, each to his own task.
+13:31 I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favor, O my God.
 Esther 
 1:1 This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:
 1:2 At that time King Xerxes reigned from his royal throne in the citadel of Susa,
@@ -12871,6 +12886,7 @@ Esther
 9:32 Esther's decree confirmed these regulations about Purim, and it was written down in the records. 
 10:1 King Xerxes imposed tribute throughout the empire, to its distant shores.
 10:2 And all his acts of power and might, together with a full account of the greatness of Mordecai to which the king had raised him, are they not written in the book of the annals of the kings of Media and Persia?
+10:3 Mordecai the Jew was second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews.
 Job 
 1:1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.
 1:2 He had seven sons and three daughters,
@@ -13941,6 +13957,7 @@ Job
 42:14 The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch.
 42:15 Nowhere in all the land were there found women as beautiful as Job's daughters, and their father granted them an inheritance along with their brothers.
 42:16 After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation.
+42:17 And so he died, old and full of years.
 Psalms 
 1:1 Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers.
 1:2 But his delight is in the law of the LORD, and on his law he meditates day and night.
@@ -16402,6 +16419,7 @@ Psalms
 150:3 Praise him with the sounding of the trumpet, praise him with the harp and lyre,
 150:4 praise him with tambourine and dancing, praise him with the strings and flute,
 150:5 praise him with the clash of cymbals, praise him with resounding cymbals.
+150:6 Let everything that has breath praise the Lord . Praise the Lord .
 Proverbs 
 1:1 The proverbs of Solomon son of David, king of Israel:
 1:2 for attaining wisdom and discipline; for understanding words of insight;
@@ -17317,6 +17335,7 @@ Proverbs
 31:28 Her children arise and call her blessed; her husband also, and he praises her:
 31:29 "Many women do noble things, but you surpass them all."
 31:30 Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.
+31:31 Give her the reward she has earned, and let her works bring her praise at the city gate.
 Ecclesiastes 
 1:1 The words of the Teacher, son of David, king in Jerusalem:
 1:2 "Meaningless! Meaningless!" says the Teacher. "Utterly meaningless! Everything is meaningless."
@@ -17539,6 +17558,7 @@ Ecclesiastes
 12:11 The words of the wise are like goads, their collected sayings like firmly embedded nails--given by one Shepherd.
 12:12 Be warned, my son, of anything in addition to them. Of making many books there is no end, and much study wearies the body.
 12:13 Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of man.
+12:14 For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.
 Song of Songs 
 1:1 Solomon's Song of Songs.
 1:2 Let him kiss me with the kisses of his mouth--for your love is more delightful than wine.
@@ -17656,6 +17676,7 @@ Song of Songs
 8:11 Solomon had a vineyard in Baal Hamon; he let out his vineyard to tenants. Each was to bring for its fruit a thousand shekels of silver.
 8:12 But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit.
 8:13 You who dwell in the gardens with friends in attendance, let me hear your voice!
+8:14 Come away, my lover, and be like a gazelle or like a young stag on the spice-laden mountains.
 Isaiah 
 1:1 The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.
 1:2 Hear, O heavens! Listen, O earth! For the LORD has spoken: "I reared children and brought them up, but they have rebelled against me.
@@ -18948,6 +18969,7 @@ Isaiah
 66:21 And I will select some of them also to be priests and Levites," says the LORD.
 66:22 "As the new heavens and the new earth that I make will endure before me," declares the LORD, "so will your name and descendants endure.
 66:23 From one New Moon to another and from one Sabbath to another, all mankind will come and bow down before me," says the LORD.
+66:24 "And they will go out and look upon the dead bodies of those who rebelled against me; their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind."
 Jeremiah 
 1:1 The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin.
 1:2 The word of the LORD came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah,
@@ -20312,6 +20334,7 @@ Jeremiah
 52:31 In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin king of Judah and freed him from prison on the twenty-fifth day of the twelfth month.
 52:32 He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon.
 52:33 So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table.
+52:34 Day by day the king of Babylon gave Jehoiachin a regular allowance as long as he lived, till the day of his death.
 Lamentations 
 1:1 How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave.
 1:2 Bitterly she weeps at night, tears are upon her cheeks. Among all her lovers there is none to comfort her. All her friends have betrayed her; they have become her enemies.
@@ -20466,6 +20489,7 @@ Lamentations
 5:19 You, O LORD, reign forever; your throne endures from generation to generation.
 5:20 Why do you always forget us? Why do you forsake us so long?
 5:21 Restore us to yourself, O LORD, that we may return; renew our days as of old
+5:22 unless you have utterly rejected us and are angry with us beyond measure.
 Ezekiel 
 1:1 In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.
 1:2 On the fifth of the month--it was the fifth year of the exile of King Jehoiachin--
@@ -21057,6 +21081,8 @@ Ezekiel
 23:45 But righteous men will sentence them to the punishment of women who commit adultery and shed blood, because they are adulterous and blood is on their hands.
 23:46 "This is what the Sovereign LORD says: Bring a mob against them and give them over to terror and plunder.
 23:47 The mob will stone them and cut them down with their swords; they will kill their sons and daughters and burn down their houses.
+23:48 "So I will put an end to lewdness in the land, that all women may take warning and not imitate you.
+23:49 You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign LORD ."
 24:1 In the ninth year, in the tenth month on the tenth day, the word of the LORD came to me:
 24:2 "Son of man, record this date, this very date, because the king of Babylon has laid siege to Jerusalem this very day.
 24:3 Tell this rebellious house a parable and say to them: 'This is what the Sovereign LORD says: "'Put on the cooking pot; put it on and pour water into it.
@@ -21737,6 +21763,7 @@ Ezekiel
 48:32 "On the east side, which is 4,500 cubits long, will be three gates: the gate of Joseph, the gate of Benjamin and the gate of Dan.
 48:33 "On the south side, which measures 4,500 cubits, will be three gates: the gate of Simeon, the gate of Issachar and the gate of Zebulun.
 48:34 "On the west side, which is 4,500 cubits long, will be three gates: the gate of Gad, the gate of Asher and the gate of Naphtali.
+48:35 "The distance all around will be 18,000 cubits. "And the name of the city from that time on will be: The LORD is There ."
 Daniel 
 1:1 In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 1:2 And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the articles from the temple of God. These he carried off to the temple of his god in Babylonia and put in the treasure house of his god.
@@ -22094,6 +22121,7 @@ Daniel
 12:10 Many will be purified, made spotless and refined, but the wicked will continue to be wicked. None of the wicked will understand, but those who are wise will understand.
 12:11 "From the time that the daily sacrifice is abolished and the abomination that causes desolation is set up, there will be 1,290 days.
 12:12 Blessed is the one who waits for and reaches the end of the 1,335 days.
+12:13 "As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance."
 Hosea 
 1:1 The word of the LORD that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash king of Israel:
 1:2 When the LORD began to speak through Hosea, the LORD said to him, "Go, take to yourself an adulterous wife and children of unfaithfulness, because the land is guilty of the vilest adultery in departing from the LORD."
@@ -22291,6 +22319,7 @@ Hosea
 14:6 his young shoots will grow. His splendor will be like an olive tree, his fragrance like a cedar of Lebanon.
 14:7 Men will dwell again in his shade. He will flourish like the grain. He will blossom like a vine, and his fame will be like the wine from Lebanon.
 14:8 O Ephraim, what more have I to do with idols? I will answer him and care for him. I am like a green pine tree; your fruitfulness comes from me."
+14:9 Who is wise? He will realize these things. Who is discerning? He will understand them. The ways of the Lord are right; the righteous walk in them, but the rebellious stumble in them.
 Joel
 1:1 The word of the LORD that came to Joel son of Pethuel.
 1:2 Hear this, you elders; listen, all who live in the land. Has anything like this ever happened in your days or in the days of your forefathers?
@@ -22364,6 +22393,7 @@ Joel
 3:18 "In that day the mountains will drip new wine, and the hills will flow with milk; all the ravines of Judah will run with water. A fountain will flow out of the LORD'S house and will water the valley of acacias.
 3:19 But Egypt will be desolate, Edom a desert waste, because of violence done to the people of Judah, in whose land they shed innocent blood.
 3:20 Judah will be inhabited forever and Jerusalem through all generations.
+3:21 Their bloodguilt, which I have not pardoned, I will pardon." The Lord dwells in Zion!
 Amos 
 1:1 The words of Amos, one of the shepherds of Tekoa--what he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.
 1:2 He said: "The LORD roars from Zion and thunders from Jerusalem; the pastures of the shepherds dry up, and the top of Carmel withers."
@@ -22510,6 +22540,7 @@ Amos
 9:12 so that they may possess the remnant of Edom and all the nations that bear my name," declares the LORD, who will do these things.
 9:13 "The days are coming," declares the LORD, "when the reaper will be overtaken by the plowman and the planter by the one treading grapes. New wine will drip from the mountains and flow from all the hills.
 9:14 I will bring back my exiled people Israel; they will rebuild the ruined cities and live in them. They will plant vineyards and drink their wine; they will make gardens and eat their fruit.
+9:15 I will plant Israel in their own land, never again to be uprooted from the land I have given them," says the Lord your God.
 Obadiah 
 1:1 The vision of Obadiah. This is what the Sovereign LORD says about Edom--We have heard a message from the LORD: An envoy was sent to the nations to say, "Rise, and let us go against her for battle"--
 1:2 "See, I will make you small among the nations; you will be utterly despised.
@@ -22531,6 +22562,7 @@ Obadiah
 1:18 The house of Jacob will be a fire and the house of Joseph a flame; the house of Esau will be stubble, and they will set it on fire and consume it. There will be no survivors from the house of Esau." The LORD has spoken.
 1:19 People from the Negev will occupy the mountains of Esau, and people from the foothills will possess the land of the Philistines. They will occupy the fields of Ephraim and Samaria, and Benjamin will possess Gilead.
 1:20 This company of Israelite exiles who are in Canaan will possess the land as far as Zarephath; the exiles from Jerusalem who are in Sepharad will possess the towns of the Negev.
+1:21 Deliverers will go up on Mount Zion to govern the mountains of Esau. And the kingdom will be the Lord's.
 Jonah 
 1:1 The word of the LORD came to Jonah son of Amittai:
 1:2 "Go to the great city of Nineveh and preach against it, because its wickedness has come up before me."
@@ -22579,6 +22611,7 @@ Jonah
 4:8 When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah's head so that he grew faint. He wanted to die, and said, "It would be better for me to die than to live."
 4:9 But God said to Jonah, "Do you have a right to be angry about the vine?" "I do," he said. "I am angry enough to die."
 4:10 But the LORD said, "You have been concerned about this vine, though you did not tend it or make it grow. It sprang up overnight and died overnight.
+4:11 But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?"
 Micah 
 1:1 The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah--the vision he saw concerning Samaria and Jerusalem.
 1:2 Hear, O peoples, all of you, listen, O earth and all who are in it, that the Sovereign LORD may witness against you, the Lord from his holy temple.
@@ -22684,6 +22717,7 @@ Micah
 7:17 They will lick dust like a snake, like creatures that crawl on the ground. They will come trembling out of their dens; they will turn in fear to the LORD our God and will be afraid of you.
 7:18 Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy.
 7:19 You will again have compassion on us; you will tread our sins underfoot and hurl all our iniquities into the depths of the sea.
+7:20 You will be true to Jacob, and show mercy to Abraham, as you pledged on oath to our fathers in days long ago.
 Nahum 
 1:1 An oracle concerning Nineveh. The book of the vision of Nahum the Elkoshite.
 1:2 The LORD is a jealous and avenging God; the LORD takes vengeance and is filled with wrath. The LORD takes vengeance on his foes and maintains his wrath against his enemies.
@@ -22731,6 +22765,7 @@ Nahum
 3:16 You have increased the number of your merchants till they are more than the stars of the sky, but like locusts they strip the land and then fly away.
 3:17 Your guards are like locusts, your officials like swarms of locusts that settle in the walls on a cold day--but when the sun appears they fly away, and no one knows where.
 3:18 O king of Assyria, your shepherds slumber; your nobles lie down to rest. Your people are scattered on the mountains with no one to gather them.
+3:19 Nothing can heal your wound; your injury is fatal. Everyone who hears the news about you claps his hands at your fall, for who has not felt your endless cruelty?
 Habakkuk 
 1:1 The oracle that Habakkuk the prophet received.
 1:2 How long, O LORD, must I call for help, but you do not listen? Or cry out to you, "Violence!" but you do not save?
@@ -22787,6 +22822,7 @@ Habakkuk
 3:16 I heard and my heart pounded, my lips quivered at the sound; decay crept into my bones, and my legs trembled. Yet I will wait patiently for the day of calamity to come on the nation invading us.
 3:17 Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls,
 3:18 yet I will rejoice in the LORD, I will be joyful in God my Savior.
+3:19 The Sovereign Lord is my strength; he makes my feet like the feet of a deer, he enables me to go on the heights. For the director of music. On my stringed instruments.
 Zephaniah 
 1:1 The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:
 1:2 "I will sweep away everything from the face of the earth," declares the LORD.
@@ -22840,6 +22876,7 @@ Zephaniah
 3:17 The LORD your God is with you, he is mighty to save. He will take great delight in you, he will quiet you with his love, he will rejoice over you with singing."
 3:18 "The sorrows for the appointed feasts I will remove from you; they are a burden and a reproach to you.
 3:19 At that time I will deal with all who oppressed you; I will rescue the lame and gather those who have been scattered. I will give them praise and honor in every land where they were put to shame.
+3:20 At that time I will gather you; at that time I will bring you home. I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your very eyes," says the Lord .
 Haggai 
 1:1 In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:
 1:2 This is what the LORD Almighty says: "These people say, 'The time has not yet come for the LORD'S house to be built.'"
@@ -22878,6 +22915,7 @@ Haggai
 2:20 The word of the LORD came to Haggai a second time on the twenty-fourth day of the month:
 2:21 "Tell Zerubbabel governor of Judah that I will shake the heavens and the earth.
 2:22 I will overturn royal thrones and shatter the power of the foreign kingdoms. I will overthrow chariots and their drivers; horses and their riders will fall, each by the sword of his brother.
+2:23 " 'On that day,' declares the Lord Almighty, 'I will take you, my servant Zerubbabel son of Shealtiel,' declares the Lord , 'and I will make you like my signet ring, for I have chosen you,' declares the Lord Almighty."
 Zechariah 
 1:1 In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berekiah, the son of Iddo:
 1:2 "The LORD was very angry with your forefathers.
@@ -23089,6 +23127,7 @@ Zechariah
 14:18 If the Egyptian people do not go up and take part, they will have no rain. The LORD will bring on them the plague he inflicts on the nations that do not go up to celebrate the Feast of Tabernacles.
 14:19 This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Feast of Tabernacles.
 14:20 On that day HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the LORD'S house will be like the sacred bowls in front of the altar.
+14:21 Every pot in Jerusalem and Judah will be holy to the Lord Almighty, and all who come to sacrifice will take some of the pots and cook in them. And on that day there will no longer be a Canaanite in the house of the Lord Almighty.
 Malachi 
 1:1 An oracle: The word of the LORD to Israel through Malachi.
 1:2 "I have loved you," says the LORD. "But you ask, 'How have you loved us?' "Was not Esau Jacob's brother?" the LORD says. "Yet I have loved Jacob,
@@ -23144,6 +23183,7 @@ Malachi
 4:3 Then you will trample down the wicked; they will be ashes under the soles of your feet on the day when I do these things," says the LORD Almighty.
 4:4 "Remember the law of my servant Moses, the decrees and laws I gave him at Horeb for all Israel.
 4:5 "See, I will send you the prophet Elijah before that great and dreadful day of the LORD comes.
+4:6 He will turn the hearts of the fathers to their children, and the hearts of the children to their fathers; or else I will come and strike the land with a curse."
 Matthew 
 1:1 A record of the genealogy of Jesus Christ the son of David, the son of Abraham:
 1:2 Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,
@@ -24215,6 +24255,7 @@ Matthew
 28:17 When they saw him, they worshiped him; but some doubted.
 28:18 Then Jesus came to them and said, "All authority in heaven and on earth has been given to me.
 28:19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+28:20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."
 Mark 
 1:1 The beginning of the gospel about Jesus Christ, the Son of God.
 1:2 It is written in Isaiah the prophet: "I will send my messenger ahead of you, who will prepare your way"--
@@ -24893,6 +24934,7 @@ Mark
 16:17 And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;
 16:18 they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well."
 16:19 After the Lord Jesus had spoken to them, he was taken up into heaven and he sat at the right hand of God.
+16:20 Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it.
 Luke 
 1:1 Many have undertaken to draw up an account of the things that have been fulfilled among us,
 1:2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word.
@@ -26044,6 +26086,7 @@ Luke
 24:50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them.
 24:51 While he was blessing them, he left them and was taken up into heaven.
 24:52 Then they worshiped him and returned to Jerusalem with great joy.
+24:53 And they stayed continually at the temple, praising God.
 John 
 1:1 In the beginning was the Word, and the Word was with God, and the Word was God.
 1:2 He was with God in the beginning.
@@ -26923,6 +26966,7 @@ John
 21:22 Jesus answered, "If I want him to remain alive until I return, what is that to you? You must follow me."
 21:23 Because of this, the rumor spread among the brothers that this disciple would not die. But Jesus did not say that he would not die; he only said, "If I want him to remain alive until I return, what is that to you?"
 21:24 This is the disciple who testifies to these things and who wrote them down. We know that his testimony is true.
+21:25 Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.
 Acts 
 1:1 In my former book, Theophilus, I wrote about all that Jesus began to do and to teach
 1:2 until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.
@@ -27930,6 +27974,7 @@ Acts
 28:28 "Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!"
 28:29 
 28:30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.
+28:31 Boldly and without hindrance he preached the kingdom of God and taught about the Lord Jesus Christ.
 Romans 
 1:1 Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--
 1:2 the gospel he promised beforehand through his prophets in the Holy Scriptures
@@ -28363,6 +28408,7 @@ Romans
 16:24
 16:25 Now to him who is able to establish you by my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,
 16:26 but now revealed and made known through the prophetic writings by the command of the eternal God, so that all nations might believe and obey him--
+16:27 to the only wise God be glory forever through Jesus Christ! Amen.
 1 Corinthians 
 1:1 Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,
 1:2 To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ--their Lord and ours:
@@ -28800,6 +28846,7 @@ Romans
 16:21 I, Paul, write this greeting in my own hand.
 16:22 If anyone does not love the Lord--a curse be on him. Come, O Lord!
 16:23 The grace of the Lord Jesus be with you.
+16:24 My love to all of you in Christ Jesus. Amen.
 2 Corinthians
 1:1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:
 1:2 Grace and peace to you from God our Father and the Lord Jesus Christ.
@@ -29206,6 +29253,7 @@ Galatians
 6:15 Neither circumcision nor uncircumcision means anything; what counts is a new creation.
 6:16 Peace and mercy to all who follow this rule, even to the Israel of God.
 6:17 Finally, let no one cause me trouble, for I bear on my body the marks of Jesus.
+6:18 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.
 Ephesians 
 1:1 Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:
 1:2 Grace and peace to you from God our Father and the Lord Jesus Christ.
@@ -29361,6 +29409,7 @@ Ephesians
 6:21 Tychicus, the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing.
 6:22 I am sending him to you for this very purpose, that you may know how we are, and that he may encourage you.
 6:23 Peace to the brothers, and love with faith from God the Father and the Lord Jesus Christ.
+6:24 Grace to all who love our Lord Jesus Christ with an undying love.
 Philippians 
 1:1 Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:
 1:2 Grace and peace to you from God our Father and the Lord Jesus Christ.
@@ -29465,6 +29514,7 @@ Philippians
 4:20 To our God and Father be glory for ever and ever. Amen.
 4:21 Greet all the saints in Christ Jesus. The brothers who are with me send greetings.
 4:22 All the saints send you greetings, especially those who belong to Caesar's household.
+4:23 The grace of the Lord Jesus Christ be with your spirit. Amen.
 Colossians 
 1:1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 1:2 To the holy and faithful brothers in Christ at Colosse: Grace and peace to you from God our Father.
@@ -29560,6 +29610,7 @@ Colossians
 4:15 Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house.
 4:16 After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.
 4:17 Tell Archippus: "See to it that you complete the work you have received in the Lord."
+4:18 I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.
 1 Thessalonians 
 1:1 Paul, Silas and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.
 1:2 We always thank God for all of you, mentioning you in our prayers.
@@ -29649,6 +29700,7 @@ Colossians
 5:25 Brothers, pray for us.
 5:26 Greet all the brothers with a holy kiss.
 5:27 I charge you before the Lord to have this letter read to all the brothers.
+5:28 The grace of our Lord Jesus Christ be with you.
 2 Thessalonians 
 1:1 Paul, Silas and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 1:2 Grace and peace to you from God the Father and the Lord Jesus Christ.
@@ -29696,6 +29748,7 @@ Colossians
 3:15 Yet do not regard him as an enemy, but warn him as a brother.
 3:16 Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you.
 3:17 I, Paul, write this greeting in my own hand, which is the distinguishing mark in all my letters. This is how I write.
+3:18 The grace of our Lord Jesus Christ be with you all.
 1 Timothy 
 1:1 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
 1:2 To Timothy my true son in the faith: Grace, mercy and peace from God the Father and Christ Jesus our Lord.
@@ -29809,6 +29862,7 @@ Colossians
 6:18 Command them to do good, to be rich in good deeds, and to be generous and willing to share.
 6:19 In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life.
 6:20 Timothy, guard what has been entrusted to your care. Turn away from godless chatter and the opposing ideas of what is falsely called knowledge,
+6:21 which some have professed and in so doing have wandered from the faith. Grace be with you.
 2 Timothy 
 1:1 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,
 1:2 To Timothy, my dear son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.
@@ -29892,6 +29946,7 @@ Colossians
 4:19 Greet Priscilla and Aquila and the household of Onesiphorus.
 4:20 Erastus stayed in Corinth, and I left Trophimus sick in Miletus.
 4:21 Do your best to get here before winter. Eubulus greets you, and so do Pudens, Linus, Claudia and all the brothers.
+4:22 The Lord be with your spirit. Grace be with you.
 Titus 
 1:1 Paul, a servant of God and an apostle of Jesus Christ for the faith of God's elect and the knowledge of the truth that leads to godliness--
 1:2 a faith and knowledge resting on the hope of eternal life, which God, who does not lie, promised before the beginning of time,
@@ -29938,6 +29993,7 @@ Titus
 3:12 As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.
 3:13 Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need.
 3:14 Our people must learn to devote themselves to doing what is good, in order that they may provide for daily necessities and not live unproductive lives.
+3:15 Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.
 Philemon 
 1:1 Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our dear friend and fellow worker,
 1:2 to Apphia our sister, to Archippus our fellow soldier and to the church that meets in your home:
@@ -29963,6 +30019,7 @@ Philemon
 1:22 And one thing more: Prepare a guest room for me, because I hope to be restored to you in answer to your prayers.
 1:23 Epaphras, my fellow prisoner in Christ Jesus, sends you greetings.
 1:24 And so do Mark, Aristarchus, Demas and Luke, my fellow workers.
+1:25 The grace of the Lord Jesus Christ be with your spirit.
 Hebrews 
 1:1 In the past God spoke to our forefathers through the prophets at many times and in various ways,
 1:2 but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom he made the universe.
@@ -30266,6 +30323,7 @@ Hebrews
 13:22 Brothers, I urge you to bear with my word of exhortation, for I have written you only a short letter.
 13:23 I want you to know that our brother Timothy has been released. If he arrives soon, I will come with him to see you.
 13:24 Greet all your leaders and all God's people. Those from Italy send you their greetings.
+13:25 Grace be with you all.
 James 
 1:1 James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings.
 1:2 Consider it pure joy, my brothers, whenever you face trials of many kinds,
@@ -30374,6 +30432,7 @@ James
 5:17 Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years.
 5:18 Again he prayed, and the heavens gave rain, and the earth produced its crops.
 5:19 My brothers, if one of you should wander from the truth and someone should bring him back,
+5:20 remember this: Whoever turns a sinner from the error of his way will save him from death and cover over a multitude of sins.
 1 Peter 
 1:1 Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,
 1:2 who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ and sprinkling by his blood: Grace and peace be yours in abundance.
@@ -30479,6 +30538,7 @@ James
 5:11 To him be the power for ever and ever. Amen.
 5:12 With the help of Silas, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.
 5:13 She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark.
+5:14 Greet one another with a kiss of love. Peace to all of you who are in Christ.
 2 Peter 
 1:1 Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:
 1:2 Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.
@@ -30540,6 +30600,7 @@ James
 3:15 Bear in mind that our Lord's patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him.
 3:16 He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.
 3:17 Therefore, dear friends, since you already know this, be on your guard so that you may not be carried away by the error of lawless men and fall from your secure position.
+3:18 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.
 1 John 
 1:1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched--this we proclaim concerning the Word of life.
 1:2 The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us.
@@ -30645,6 +30706,7 @@ James
 5:18 We know that anyone born of God does not continue to sin; the one who was born of God keeps him safe, and the evil one cannot harm him.
 5:19 We know that we are children of God, and that the whole world is under the control of the evil one.
 5:20 We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true--even in his Son Jesus Christ. He is the true God and eternal life.
+5:21 Dear children, keep yourselves from idols.
 2 John 
 1:1 The elder, To the chosen lady and her children, whom I love in the truth--and not I only, but also all who know the truth--
 1:2 because of the truth, which lives in us and will be with us forever:
@@ -30658,6 +30720,7 @@ James
 1:10 If anyone comes to you and does not bring this teaching, do not take him into your house or welcome him.
 1:11 Anyone who welcomes him shares in his wicked work.
 1:12 I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.
+1:13 The children of your chosen sister send their greetings.
 3 John 
 1:1 The elder, To my dear friend Gaius, whom I love in the truth.
 1:2 Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.
@@ -30672,6 +30735,8 @@ James
 1:11 Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God.
 1:12 Demetrius is well spoken of by everyone--and even by the truth itself. We also speak well of him, and you know that our testimony is true.
 1:13 I have much to write you, but I do not want to do so with pen and ink.
+1:14 I hope to see you soon, and we will talk face to face.
+1:15 Peace to you. The friends here send their greetings. Greet the friends there by name.
 Jude 
 1:1 Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved by God the Father and kept by Jesus Christ:
 1:2 Mercy, peace and love be yours in abundance.
@@ -30697,6 +30762,7 @@ Jude
 1:22 Be merciful to those who doubt;
 1:23 snatch others from the fire and save them; to others show mercy, mixed with fear--hating even the clothing stained by corrupted flesh.
 1:24 To him who is able to keep you from falling and to present you before his glorious presence without fault and with great joy--
+1:25 to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.
 Revelation 
 1:1 The revelation of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,
 1:2 who testifies to everything he saw--that is, the word of God and the testimony of Jesus Christ.
@@ -31101,3 +31167,4 @@ Revelation
 22:18 I warn everyone who hears the words of the prophecy of this book: If anyone adds anything to them, God will add to him the plagues described in this book.
 22:19 And if anyone takes words away from this book of prophecy, God will take away from him his share in the tree of life and in the holy city, which are described in this book.
 22:20 He who testifies to these things says, "Yes, I am coming soon." Amen. Come, Lord Jesus.
+22:21 The grace of the Lord Jesus be with God's people. Amen.

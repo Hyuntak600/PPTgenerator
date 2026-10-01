@@ -203,7 +203,7 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:52, Verse:34, Page:1,
     Kor:"여호야긴의 생계비는, 그가 죽을 때까지 매일 일정하게, 그의 일생 동안 끊이지 않고, 바빌로니아 왕이 그에게 대주었다.",
     Chn:"巴比伦王赐他所需用的食物，日日赐他一分，终身是这样，直到他死的日子。",
-    Eng:"",
+    Eng:"Day by day the king of Babylon gave Jehoiachin a regular allowance as long as he lived, till the day of his death.",
     Ind:"Dan tentang belanjanya, raja Babel selalu memberikannya kepadanya, sekadar yang perlu tiap-tiap hari, selama hidupnya, sampai hari matinya."
   },
 ]);

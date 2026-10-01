@@ -101,7 +101,7 @@ BibleDB.add([
   {Bible:"Job", Chapter:42, Verse:17, Page:1,
     Kor:"욥은 이렇게 오래 살다가 세상을 떠났다.",
     Chn:"这样，约伯年纪老迈，日子满足而死。",
-    Eng:"",
+    Eng:"And so he died, old and full of years.",
     Ind:"Maka matilah Ayub, tua dan lanjut umur."
   },
 ]);

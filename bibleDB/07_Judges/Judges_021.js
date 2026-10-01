@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"Judges", Chapter:21, Verse:25, Page:1,
     Kor:"○그 때에는 이스라엘에 왕이 없었으므로, 사람들은 저마다 자기의 뜻에 맞는 대로 하였다.",
     Chn:"那时，以色列中没有王，各人任意而行。",
-    Eng:"",
+    Eng:"In those days Israel had no king; everyone did as he saw fit.",
     Ind:"Pada zaman itu tidak ada raja di antara orang Israel; setiap orang berbuat apa yang benar menurut pandangannya sendiri."
   },
 ]);

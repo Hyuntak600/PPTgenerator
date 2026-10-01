@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"John", Chapter:21, Verse:25, Page:1,
     Kor:"○예수께서 하신 일은 이 밖에도 많이 있어서, 그것을 낱낱이 기록한다면, 이 세상이라도 그 기록한 책들을 다 담아 두기에 부족할 것이라고 생각한다.",
     Chn:"耶稣所行的事还有许多，若是一一地都写出来，我想，所写的书就是世界也容不下了。",
-    Eng:"",
+    Eng:"Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.",
     Ind:"Masih banyak hal-hal lain lagi yang diperbuat oleh Yesus, tetapi jikalau semuanya itu harus dituliskan satu per satu, maka agaknya dunia ini tidak dapat memuat semua kitab yang harus ditulis itu."
   },
 ]);

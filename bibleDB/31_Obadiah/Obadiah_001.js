@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"Obadiah", Chapter:1, Verse:21, Page:1,
     Kor:"f구원자들이 시온 산에 올라와서 에서의 영토를 다스릴 것이다. 나라가 주의 것이 될 것이다.\" (f 또는 '구원받은 사람들이……')",
     Chn:"必有拯救者上到锡安山，审判以扫山； 国度就归耶和华了。",
-    Eng:"",
+    Eng:"Deliverers will go up on Mount Zion to govern the mountains of Esau. And the kingdom will be the Lord's.",
     Ind:"Penyelamat-penyelamat akan naik ke atas gunung Sion untuk menghukumkan pegunungan Esau; maka Tuhanlah yang akan empunya kerajaan itu."
   },
 ]);

@@ -17,7 +17,7 @@ BibleDB.add([
   {Bible:"Esther", Chapter:10, Verse:3, Page:1,
     Kor:"유다 사람 모르드개는 아하수에로 왕 다음으로 실권이 있었다. 그는 유다 사람들 사이에서 존경을 받았다. 특히 자기 백성이 잘 되도록 꾀하였고, 유다 사람들이 안전하게 살도록 애썼으므로, 같은 겨레인 유다 사람은 모두 그를 좋아하였다.",
     Chn:"犹大人末底改作亚哈随鲁王的宰相，在犹大人中为大，得他众弟兄的喜悦，为本族的人求好处，向他们说和平的话。",
-    Eng:"",
+    Eng:"Mordecai the Jew was second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews.",
     Ind:"Karena Mordekhai, orang Yahudi itu, menjadi orang kedua di bawah raja Ahasyweros, dan ia dihormati oleh orang Yahudi serta disukai oleh banyak sanak saudaranya, sebab ia mengikhtiarkan yang baik bagi bangsanya dan berbicara untuk keselamatan bagi semua orang sebangsanya."
   },
 ]);

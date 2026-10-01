@@ -77,7 +77,7 @@ BibleDB.add([
   {Bible:"1Samuel", Chapter:31, Verse:13, Page:1,
     Kor:"그들의 뼈를 거두어다가 야베스에 있는 에셀 나무 아래에 묻고, 이레 동안 금식하였다.",
     Chn:"将他们骸骨葬在雅比的垂丝柳树下，就禁食七日。",
-    Eng:"",
+    Eng:"Then they took their bones and buried them under a tamarisk tree at Jabesh, and they fasted seven days.",
     Ind:"Mereka mengambil tulang-tulangnya lalu menguburkannya di bawah pohon tamariska di Yabesh. Sesudah itu berpuasalah mereka tujuh hari lamanya."
   },
 ]);

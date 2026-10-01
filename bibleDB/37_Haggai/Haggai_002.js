@@ -137,7 +137,7 @@ BibleDB.add([
   {Bible:"Haggai", Chapter:2, Verse:23, Page:1,
     Kor:"나 만군의 주의 말이다. 스알디엘의 아들, 나의 종 스룹바벨아, 그 날이 오면, 내가 너를 높이 세우겠다. 나 주의 말이다. 너를 이미 뽑아 세웠으니, 내가 너를 내 옥새로 삼겠다. 나 만군의 주의 말이다.'\"",
     Chn:"万军之耶和华说：我仆人撒拉铁的儿子所罗巴伯啊，到那日，我必以你为印，因我拣选了你。这是万军之耶和华说的。」",
-    Eng:"",
+    Eng:"\" 'On that day,' declares the Lord Almighty, 'I will take you, my servant Zerubbabel son of Shealtiel,' declares the Lord , 'and I will make you like my signet ring, for I have chosen you,' declares the Lord Almighty.\"",
     Ind:"(2-24) Pada waktu itu, demikianlah firman TUHAN semesta alam, Aku akan mengambil engkau, hai Zerubabel bin Sealtiel, hamba-Ku--demikianlah firman TUHAN--dan akan menjadikan engkau seperti cincin meterai; sebab engkaulah yang Kupilih, demikianlah firman TUHAN semesta alam.\""
   },
 ]);

@@ -83,7 +83,7 @@ BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:12, Verse:14, Page:1,
     Kor:"하나님은 모든 행위를 심판하신다. 선한 것이든 악한 것이든 모든 은밀한 일을 다 심판하신다.\"",
     Chn:"因为人所做的事，连一切隐藏的事，无论是善是恶，　神都必审问。",
-    Eng:"",
+    Eng:"For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.",
     Ind:"Karena Allah akan membawa setiap perbuatan ke pengadilan yang berlaku atas segala sesuatu yang tersembunyi, entah itu baik, entah itu jahat."
   },
 ]);

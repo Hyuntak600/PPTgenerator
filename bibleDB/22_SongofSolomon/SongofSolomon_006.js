@@ -75,16 +75,10 @@ BibleDB.add([
     Ind:"Tak sadar diri aku; kerinduanku menempatkan aku di atas kereta orang bangsawan."
   },
   {Bible:"SongofSolomon", Chapter:6, Verse:13, Page:1,
-    Kor:"(친구들) 술람미의 아가씨야, 돌아오너라, 돌아오너라. 눈부신 너의 모습을 우리가 좀 볼 수 있게, 돌아오너라, 돌아오너라. 술람미의 아가씨야.",
+    Kor:"(친구들) 술람미의 아가씨야, 돌아오너라, 돌아오너라. 눈부신 너의 모습을 우리가 좀 볼 수 있게, 돌아오너라, 돌아오너라. 술람미의 아가씨야. (남자) 그대들은 어찌하여 마하나임 춤마당에서 춤추는 술람미의 아가씨를 보려 하는가?",
     Chn:"回来，回来，书拉密女； 你回来，你回来，使我们得观看你。 〔新娘〕 你们为何要观看书拉密女， 像观看玛哈念跳舞的呢？",
     Eng:"Come back, come back, O Shulammite; come back, come back, that we may gaze on you! Why would you gaze on the Shulammite as on the dance of Mahanaim?",
     Ind:"Kembalilah, kembalilah, ya gadis Sulam, kembalilah, kembalilah, supaya kami dapat melihat engkau! Mengapa kamu senang melihat gadis Sulam itu seperti melihat tari-tarian perang?",
     ChnVerseEnd:14
-  },
-  {Bible:"SongofSolomon", Chapter:6, Verse:14, Page:1,
-    Kor:"(남자) 그대들은 어찌하여 마하나임 춤마당에서 춤추는 술람미의 아가씨를 보려 하는가?",
-    Chn:"",
-    Eng:"",
-    Ind:""
   },
 ]);

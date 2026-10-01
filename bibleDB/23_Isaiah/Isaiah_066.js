@@ -143,7 +143,7 @@ BibleDB.add([
   {Bible:"Isaiah", Chapter:66, Verse:24, Page:1,
     Kor:"주님께서 말씀하신다. \"그들이 나가서 나를 거역한 자들의 시체들을 볼 것이다.\" 그들을 먹는 벌레가 죽지 않으며, 그들을 삼키는 불도 꺼지지 않을 것이니, 모든 사람이 그들을 보고 소름이 끼칠 것이다.",
     Chn:"他们必出去观看那些违背我人的尸首； 因为他们的虫是不死的； 他们的火是不灭的； 凡有血气的都必憎恶他们。",
-    Eng:"",
+    Eng:"\"And they will go out and look upon the dead bodies of those who rebelled against me; their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.\"",
     Ind:"Mereka akan keluar dan akan memandangi bangkai orang-orang yang telah memberontak kepada-Ku. Di situ ulat-ulatnya tidak akan mati, dan apinya tidak akan padam, maka semuanya akan menjadi kengerian bagi segala yang hidup."
   },
 ]);

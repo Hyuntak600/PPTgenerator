@@ -119,7 +119,7 @@ BibleDB.add([
   {Bible:"Zephaniah", Chapter:3, Verse:20, Page:1,
     Kor:"그 때가 되면, 내가 너희를 모으겠다. 그 때에 내가 너희를 고향으로 인도하겠다. 사로잡혀 갔던 이들을 너희가 보는 앞에서 데려오고, 이 땅의 모든 민족 가운데서, 너희가 영예와 칭송을 받게 하겠다. 나 주가 말한다.\"",
     Chn:"那时，我必领你们进来，聚集你们； 我使你们被掳之人归回的时候， 就必使你们在地上的万民中有名声，得称赞。 这是耶和华说的。",
-    Eng:"",
+    Eng:"At that time I will gather you; at that time I will bring you home. I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your very eyes,\" says the Lord .",
     Ind:"Pada waktu itu Aku akan membawa kamu pulang, yakni pada waktu Aku mengumpulkan kamu, sebab Aku mau membuat kamu menjadi kenamaan dan kepujian di antara segala bangsa di bumi dengan memulihkan keadaanmu di depan mata mereka,\" firman TUHAN."
   },
 ]);

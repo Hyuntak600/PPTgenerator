@@ -137,7 +137,7 @@ BibleDB.add([
   {Bible:"2Chronicles", Chapter:36, Verse:23, Page:1,
     Kor:"○\"페르시아의 고레스 왕은 다음과 같이 선포한다. 주 하늘의 하나님께서 나에게 이 땅 위의 모든 나라를 주셔서 다스리게 하시고, 유다의 예루살렘에 그의 성전을 지으라고 명하셨다. 이 나라 사람 가운데, 하나님을 섬기는 모든 백성에게, 하나님께서 함께 계시기를 빈다. 그들을 모두 올라가게 하여라.\"",
     Chn:"「波斯王塞鲁士如此说：耶和华—天上的　神已将天下万国赐给我，又嘱咐我在犹大的耶路撒冷为他建造殿宇。你们中间凡作他子民的，可以上去，愿耶和华—他的　神与他同在。」",
-    Eng:"",
+    Eng:"\"This is what Cyrus king of Persia says: \" 'The Lord , the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Anyone of his people among you-may the Lord his God be with him, and let him go up.' \"",
     Ind:"\"Beginilah perintah Koresh, raja Persia: Segala kerajaan di bumi telah dikaruniakan kepadaku oleh TUHAN, Allah semesta langit. Ia menugaskan aku untuk mendirikan rumah bagi-Nya di Yerusalem, yang terletak di Yehuda. Siapa di antara kamu termasuk umat-Nya, TUHAN, Allahnya, menyertainya, dan biarlah ia berangkat pulang!\""
   },
 ]);

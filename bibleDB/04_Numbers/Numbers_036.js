@@ -77,7 +77,7 @@ BibleDB.add([
   {Bible:"Numbers", Chapter:36, Verse:13, Page:1,
     Kor:"○이것은 주님께서 여리고 건너편 요단 강 가 모압 평지에서 모세를 시켜 이스라엘 자손에게 말씀하신 명령과 규례이다.",
     Chn:"这是耶和华在摩押平原—约旦河边、耶利哥对面—借着摩西所吩咐以色列人的命令典章。",
-    Eng:"",
+    Eng:"These are the commands and regulations the Lord gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.",
     Ind:"Itulah perintah dan peraturan yang diperintahkan TUHAN kepada orang Israel dengan perantaraan Musa di dataran Moab di tepi sungai Yordan dekat Yerikho."
   },
 ]);

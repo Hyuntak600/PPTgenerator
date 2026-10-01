@@ -144,7 +144,7 @@ BibleDB.add([
   {Bible:"Ephesians", Chapter:6, Verse:24, Page:1,
     Kor:"우리 주 예수 그리스도를 변함없이 사랑하는 모든 사람에게 은혜가 있기를 빕니다.i(i 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"并愿所有诚心爱我们主耶稣基督的人都蒙恩惠！",
-    Eng:"",
+    Eng:"Grace to all who love our Lord Jesus Christ with an undying love.",
     Ind:"Kasih karunia menyertai semua orang, yang mengasihi Tuhan kita Yesus Kristus dengan kasih yang tidak binasa."
   },
 ]);

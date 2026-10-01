@@ -155,7 +155,7 @@ BibleDB.add([
   {Bible:"Genesis", Chapter:50, Verse:26, Page:1,
     Kor:"○요셉이 백열 살에 세상을 떠나니, 사람들은 그의 시신에 방부제 향 재료를 넣은 다음에, 이집트에서 그를 입관하였다.",
     Chn:"约瑟死了，正一百一十岁。人用香料将他薰了，把他收殓在棺材里，停在埃及。",
-    Eng:"",
+    Eng:"So Joseph died at the age of a hundred and ten. And after they embalmed him, he was placed in a coffin in Egypt.",
     Ind:"Kemudian matilah Yusuf, berumur seratus sepuluh tahun. Mayatnya dirempah-rempahi, dan ditaruh dalam peti mati di Mesir."
   },
 ]);

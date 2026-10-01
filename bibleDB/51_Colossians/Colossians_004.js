@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"Colossians", Chapter:4, Verse:18, Page:1,
     Kor:"○나 바울이 친필로 문안합니다. 내가 갇혀 있음을 기억하십시오. 은혜가 여러분에게 있기를 빕니다.d(d 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"我—保罗亲笔问你们安。你们要记念我的捆锁。愿恩惠常与你们同在！",
-    Eng:"",
+    Eng:"I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.",
     Ind:"Salam dari padaku, Paulus. Salam ini kutulis dengan tanganku sendiri. Ingatlah akan belengguku. Kasih karunia menyertai kamu."
   },
 ]);

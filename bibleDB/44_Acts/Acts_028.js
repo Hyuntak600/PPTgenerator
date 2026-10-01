@@ -185,7 +185,7 @@ BibleDB.add([
   {Bible:"Acts", Chapter:28, Verse:31, Page:1,
     Kor:"그는 아무런 방해도 받지 않고, 아주 담대하게 하나님 나라를 전하고, 주 예수 그리스도에 관한 일들을 가르쳤다.",
     Chn:"",
-    Eng:"",
+    Eng:"Boldly and without hindrance he preached the kingdom of God and taught about the Lord Jesus Christ.",
     Ind:"Dengan terus terang dan tanpa rintangan apa-apa ia memberitakan Kerajaan Allah dan mengajar tentang Tuhan Yesus Kristus."
   },
 ]);

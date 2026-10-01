@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"1Timothy", Chapter:6, Verse:21, Page:1,
     Kor:"이 반대 이론을 내세우다가 믿음을 잃은 사람도 더러 있습니다. ○은혜가 e여러분과 함께 있기를 바랍니다.f(e 다른 고대 사본들에는 '그대와' f 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"已经有人自称有这学问，就偏离了真道。 愿恩惠常与你们同在！",
-    Eng:"",
+    Eng:"which some have professed and in so doing have wandered from the faith. Grace be with you.",
     Ind:"karena ada beberapa orang yang mengajarkannya dan dengan demikian telah menyimpang dari iman. Kasih karunia menyertai kamu!"
   },
 ]);

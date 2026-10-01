@@ -185,7 +185,7 @@ BibleDB.add([
   {Bible:"Nehemiah", Chapter:13, Verse:31, Page:1,
     Kor:"또 사람들에게 때를 정하여 주어서, 제단에서 쓸 장작과 처음 거둔 소산을 바치게 하였다. ○\"나의 하나님, 나를 기억하여 주시고, 복을 내려 주십시오.\"",
     Chn:"我又派百姓按定期献柴和初熟的土产。我的　神啊，求你记念我，施恩与我。",
-    Eng:"",
+    Eng:"I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favor, O my God.",
     Ind:"pula kutetapkan suatu cara untuk menyediakan kayu api pada waktu-waktu tertentu dan untuk hasil-hasil yang pertama. Ya Allahku, ingatlah kepadaku, demi kesejahteraanku!"
   },
 ]);

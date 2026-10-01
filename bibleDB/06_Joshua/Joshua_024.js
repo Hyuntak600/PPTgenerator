@@ -197,7 +197,7 @@ BibleDB.add([
   {Bible:"Joshua", Chapter:24, Verse:33, Page:1,
     Kor:"○아론의 아들 엘르아살도 죽었다. 사람들은 그를, 그의 아들 비느하스가 유산으로 받은, 에브라임의 산간지방인 기브아에 장사하였다.",
     Chn:"亚伦的儿子以利亚撒也死了，就把他葬在他儿子非尼哈所得以法莲山地的小山上。",
-    Eng:"",
+    Eng:"And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.",
     Ind:"Juga Eleazar bin Harun mati, dan dia dikuburkan di bukit yang diberikan kepada Pinehas, anaknya itu, di pegunungan Efraim."
   },
 ]);

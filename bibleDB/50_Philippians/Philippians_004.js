@@ -137,7 +137,7 @@ BibleDB.add([
   {Bible:"Philippians", Chapter:4, Verse:23, Page:1,
     Kor:"주 예수 그리스도의 은혜가 여러분의 심령과 함께 있기를 빕니다.f(f 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"愿主耶稣基督的恩常在你们心里！",
-    Eng:"",
+    Eng:"The grace of the Lord Jesus Christ be with your spirit. Amen.",
     Ind:"Kasih karunia Tuhan Yesus Kristus menyertai rohmu!"
   },
 ]);

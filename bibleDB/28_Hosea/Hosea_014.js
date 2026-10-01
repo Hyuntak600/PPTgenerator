@@ -53,7 +53,7 @@ BibleDB.add([
   {Bible:"Hosea", Chapter:14, Verse:9, Page:1,
     Kor:"<맺는 말> 지혜로운 사람은 여기에 쓴 것을 깨달아라. 총명한 사람은 이것을 마음에 새겨라. 주님의 길은 올바르다. 의로운 백성은 그 길을 따라 살아가지만 죄인은 비틀거리며 넘어질 것이다.",
     Chn:"谁是智慧人？可以明白这些事； 谁是通达人？可以知道这一切。 因为，耶和华的道是正直的； 义人必在其中行走， 罪人却在其上跌倒。",
-    Eng:"",
+    Eng:"Who is wise? He will realize these things. Who is discerning? He will understand them. The ways of the Lord are right; the righteous walk in them, but the rebellious stumble in them.",
     Ind:"(14-10) Siapa yang bijaksana, biarlah ia memahami semuanya ini; siapa yang paham, biarlah ia mengetahuinya; sebab jalan-jalan TUHAN adalah lurus, dan orang benar menempuhnya, tetapi pemberontak tergelincir di situ."
   },
 ]);

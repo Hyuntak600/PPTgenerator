@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"Philemon", Chapter:1, Verse:25, Page:1,
     Kor:"주 예수 그리스도의 은혜가 여러분의 영과 함께 하기를 빕니다.g(g 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"愿我们主耶稣基督的恩常在你的心里。阿们！",
-    Eng:"",
+    Eng:"The grace of the Lord Jesus Christ be with your spirit.",
     Ind:"Kasih karunia Tuhan Yesus Kristus menyertai roh kamu!"
   },
 ]);

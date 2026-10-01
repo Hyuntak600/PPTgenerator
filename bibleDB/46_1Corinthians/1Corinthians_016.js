@@ -143,7 +143,7 @@ BibleDB.add([
   {Bible:"1Corinthians", Chapter:16, Verse:24, Page:1,
     Kor:"나는 그리스도 예수 안에서 여러분 모두를 사랑합니다. e아멘.(e 다른 고대 사본들에는 '아멘'이 없음)",
     Chn:"我在基督耶稣里的爱与你们众人同在。阿们！",
-    Eng:"",
+    Eng:"My love to all of you in Christ Jesus. Amen.",
     Ind:"Kasihku menyertai kamu sekalian dalam Kristus Yesus."
   },
 ]);

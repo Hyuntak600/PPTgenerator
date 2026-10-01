@@ -131,7 +131,7 @@ BibleDB.add([
   {Bible:"2Timothy", Chapter:4, Verse:22, Page:1,
     Kor:"○주님께서 그대의 영과 함께 하시기를 빌며, 주님의 은혜가 그대와 함께 있기를 빕니다.d(d 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"愿主与你的灵同在！愿恩惠常与你们同在！",
-    Eng:"",
+    Eng:"The Lord be with your spirit. Grace be with you.",
     Ind:"Tuhan menyertai rohmu. Kasih karunia-Nya menyertai kamu!"
   },
 ]);

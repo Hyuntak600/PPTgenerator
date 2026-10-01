@@ -263,7 +263,7 @@ BibleDB.add([
   {Bible:"Ezra", Chapter:10, Verse:44, Page:1,
     Kor:"이들은 모두 이방 여자와 결혼한 남자이다. 이방 여자 가운데는 자식을 낳은 사람들도 있었다.",
     Chn:"这些人都娶了外邦女子为妻，其中也有生了儿女的。",
-    Eng:"",
+    Eng:"All these had married foreign women, and some of them had children by these wives.",
     Ind:"Mereka sekalian mengambil sebagai isteri perempuan asing; maka mereka menyuruh pergi isteri-isteri itu dengan anak-anaknya."
   },
 ]);

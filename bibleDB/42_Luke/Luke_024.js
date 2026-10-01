@@ -317,7 +317,7 @@ BibleDB.add([
   {Bible:"Luke", Chapter:24, Verse:53, Page:1,
     Kor:"하나님을 찬양하면서 날마다 성전에서 지냈다.k(k 다른 고대 사본들은 끝에 '아멘'이 있음)",
     Chn:"常在殿里称颂　神。",
-    Eng:"",
+    Eng:"And they stayed continually at the temple, praising God.",
     Ind:"Mereka senantiasa berada di dalam Bait Allah dan memuliakan Allah."
   },
 ]);

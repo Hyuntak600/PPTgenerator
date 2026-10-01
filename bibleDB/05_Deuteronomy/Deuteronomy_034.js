@@ -71,7 +71,7 @@ BibleDB.add([
   {Bible:"Deuteronomy", Chapter:34, Verse:12, Page:1,
     Kor:"온 이스라엘 백성이 보는 앞에서, 모세가 한 것처럼, 큰 권능을 보이면서 놀라운 일을 한 사람은 다시 없다.",
     Chn:"又在以色列众人眼前显大能的手，行一切大而可畏的事。",
-    Eng:"",
+    Eng:"For no one has ever shown the mighty power or performed the awesome deeds that Moses did in the sight of all Israel.",
     Ind:"dan dalam hal segala perbuatan kekuasaan dan segala kedahsyatan yang besar yang dilakukan Musa di depan seluruh orang Israel."
   },
 ]);

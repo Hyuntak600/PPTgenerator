@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"Revelation", Chapter:12, Verse:18, Page:1,
     Kor:"○f그 때에 그 용이 바닷가 모래 위에 섰습니다.(f 다른 고대 사본들에는 '그 때에 나는')",
     Chn:"那时龙就站在海边的沙上。",
-    Eng:"",
-    Ind:""
+    Eng:"13장에 붙어있음",
+    Ind:"13장에 붙어있음"
   },
 ]);

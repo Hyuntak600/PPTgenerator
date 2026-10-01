@@ -89,7 +89,7 @@ BibleDB.add([
   {Bible:"Titus", Chapter:3, Verse:15, Page:1,
     Kor:"○나와 함께 있는 모든 사람이 그대에게 문안합니다. 믿음 안에서 우리를 사랑하는 사람에게 문안하십시오. 은혜가 여러분 모두에게 있기를 빕니다.a(a 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"同我在一处的人都问你安。请代问那些因有信心爱我们的人安。愿恩惠常与你们众人同在！",
-    Eng:"",
+    Eng:"Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.",
     Ind:"Salam dari semua orang yang bersama aku di sini dan sampaikanlah salamku kepada mereka yang mengasihi kami di dalam iman. Kasih karunia menyertai kamu sekalian!"
   },
 ]);

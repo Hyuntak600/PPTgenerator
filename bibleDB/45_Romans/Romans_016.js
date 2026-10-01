@@ -161,7 +161,7 @@ BibleDB.add([
   {Bible:"Romans", Chapter:16, Verse:27, Page:1,
     Kor:"오직 한 분이신 지혜로우신 하나님께, 예수 그리스도로 말미암아 영광이 영원무궁 하도록 있기를 빕니다. 아멘.>",
     Chn:"愿荣耀，因耶稣基督，归与独一全智的　神，直到永远。阿们！",
-    Eng:"",
+    Eng:"to the only wise God be glory forever through Jesus Christ! Amen.",
     Ind:"bagi Dia, satu-satunya Allah yang penuh hikmat, oleh Yesus Kristus: segala kemuliaan sampai selama-lamanya! Amin."
   },
 ]);

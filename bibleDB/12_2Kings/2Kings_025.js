@@ -179,7 +179,7 @@ BibleDB.add([
   {Bible:"2Kings", Chapter:25, Verse:30, Page:1,
     Kor:"왕은 그에게 평생 동안 계속해서 매일 일정하게 생계비를 대주었다.",
     Chn:"王赐他所需用的食物，日日赐他一分，终身都是这样。",
-    Eng:"",
+    Eng:"Day by day the king gave Jehoiachin a regular allowance as long as he lived.",
     Ind:"Dan tentang belanjanya, raja selalu memberikannya kepadanya, sekadar yang perlu tiap-tiap hari, selama hidupnya."
   },
 ]);

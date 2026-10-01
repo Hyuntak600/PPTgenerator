@@ -119,7 +119,7 @@ BibleDB.add([
   {Bible:"James", Chapter:5, Verse:20, Page:1,
     Kor:"이 사실을 알아두십시오. 죄인을 그릇된 길에서 돌아서게 하는 사람은 그 죄인의 영혼을 죽음에서 구할 것이고, 또 많은 죄를 덮어줄 것입니다.",
     Chn:"这人该知道：叫一个罪人从迷路上转回便是救一个灵魂不死，并且遮盖许多的罪。",
-    Eng:"",
+    Eng:"remember this: Whoever turns a sinner from the error of his way will save him from death and cover over a multitude of sins.",
     Ind:"ketahuilah, bahwa barangsiapa membuat orang berdosa berbalik dari jalannya yang sesat, ia akan menyelamatkan jiwa orang itu dari maut dan menutupi banyak dosa."
   },
 ]);

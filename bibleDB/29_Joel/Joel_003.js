@@ -125,7 +125,7 @@ BibleDB.add([
   {Bible:"Joel", Chapter:3, Verse:21, Page:1,
     Kor:"사람들이 학살을 당하여도 내가 그 원수를 갚아 주지 않았으나, 이제는 원수를 갚아 주겠다. 나 주는 시온에서 산다.\"",
     Chn:"我未曾报复流血的罪， 现在我要报复， 因为耶和华住在锡安。",
-    Eng:"",
+    Eng:"Their bloodguilt, which I have not pardoned, I will pardon.\" The Lord dwells in Zion!",
     Ind:"Aku akan membalas darah mereka yang belum Kubalas; TUHAN tetap diam di Sion.\""
   },
 ]);

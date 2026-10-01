@@ -83,13 +83,13 @@ BibleDB.add([
   {Bible:"3John", Chapter:1, Verse:14, Page:1,
     Kor:"그대를 곧 만나게 되기를 바랍니다. 그러면 우리가 얼굴을 마주 보고 말하게 될 것입니다.",
     Chn:"但盼望快快地见你，我们就当面谈论。",
-    Eng:"",
+    Eng:"I hope to see you soon, and we will talk face to face.",
     Ind:"Aku harap segera berjumpa dengan engkau dan berbicara berhadapan muka. (1-15) Damai sejahtera menyertai engkau! Salam dari sahabat-sahabatmu. Sampaikanlah salamku kepada sahabat-sahabat satu per satu."
   },
   {Bible:"3John", Chapter:1, Verse:15, Page:1,
     Kor:"평화가 그대에게 있기를 빕니다. 친구들이 그대에게 문안합니다. 친구들 각 사람에게 문안하여 주십시오.",
     Chn:"愿你平安。众位朋友都问你安。请你替我按着姓名问众位朋友安。",
-    Eng:"",
+    Eng:"Peace to you. The friends here send their greetings. Greet the friends there by name.",
     Ind:""
   },
 ]);

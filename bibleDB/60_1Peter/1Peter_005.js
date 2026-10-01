@@ -83,7 +83,7 @@ BibleDB.add([
   {Bible:"1Peter", Chapter:5, Verse:14, Page:1,
     Kor:"여러분도 사랑의 입맞춤으로써 서로 문안하십시오. 그리스도 안에 있는 여러분 모두에게 평화가 있기를 빕니다.h(h 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
     Chn:"你们要用爱心彼此亲嘴问安。愿平安归与你们凡在基督里的人！",
-    Eng:"",
+    Eng:"Greet one another with a kiss of love. Peace to all of you who are in Christ.",
     Ind:"Berilah salam seorang kepada yang lain dengan cium yang kudus. Damai sejahtera menyertai kamu sekalian yang berada dalam Kristus. Amin."
   },
 ]);

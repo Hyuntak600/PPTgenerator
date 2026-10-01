@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"Galatians", Chapter:6, Verse:18, Page:1,
     Kor:"○a형제자매 여러분, 우리 주 예수 그리스도의 은혜가 여러분의 심령에 있기를 빕니다. 아멘.(a 그, '형제들')",
     Chn:"弟兄们，愿我主耶稣基督的恩常在你们心里。阿们！",
-    Eng:"",
+    Eng:"The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
     Ind:"Kasih karunia Tuhan kita Yesus Kristus menyertai roh kamu, saudara-saudara! Amin."
   },
 ]);
