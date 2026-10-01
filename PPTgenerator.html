@@ -117,7 +117,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 /* 칸 맨 위 고정 영역(제목 + 선택 영역 번역 미리보기): 조각을 스크롤해서 내려도 항상 보이도록 sticky */
 .col-head{flex:none; position:sticky; top:0; z-index:3; display:flex; flex-direction:column; gap:6px; background:var(--bg); padding-bottom:2px;}
 .col-selpreview{
-  height:9em; overflow-y:auto; overflow-wrap:anywhere; box-sizing:border-box; /* 높이 고정: 결과가 길어져도 아래 상자가 밀리지 않고 칸 안에서만 스크롤됨 */
+  height:5.2em; overflow-y:auto; overflow-wrap:anywhere; box-sizing:border-box; /* 높이 고정: 결과가 길어져도 아래 상자가 밀리지 않고 칸 안에서만 스크롤됨 */
   border:1px dashed var(--line); border-radius:6px; padding:5px 8px;
   font-size:.76rem; line-height:1.4; color:var(--sub); background:var(--panel);
 }
@@ -1062,19 +1062,19 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
     <h1>다국어 자막 정렬 도구</h1>
     <span class="seg" id="modeSeg" title="슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기"><button type="button" data-mode="slide" class="active">🎞 슬라이드 만들기</button><button type="button" data-mode="db">📖 성경 DB</button></span>
     <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트">ℹ️ 시작 안내</button>
-    <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법">🐳 번역 서버 안내</button>
+    <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법">🐳 서버 안내</button>
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
       <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요">⚠ 자동 저장 안 됨</span>
       <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환">🌗 자동</button>
       <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language">🌐 한국어</button>
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요">🛡️ 백업·복구</button>
-      <button type="button" class="btn quiet danger slide-only" id="wipeBtn" title="이 도구가 브라우저에 저장한 슬라이드 원고·자동 백업·번역 캐시·설정을 전부 지워요 (성경 DB 초안은 건드리지 않아요)">🧹 로컬 데이터·캐시 삭제</button>
-      <button type="button" class="btn quiet slide-only" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶ 되돌리기</button>
-      <button type="button" class="btn quiet slide-only" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷ 다시</button>
+      <button type="button" class="btn quiet danger slide-only" id="wipeBtn" title="이 도구가 브라우저에 저장한 슬라이드 원고·자동 백업·번역 캐시·설정을 전부 지워요 (성경 DB 초안은 건드리지 않아요)">🧹 데이터 삭제</button>
+      <button type="button" class="btn quiet slide-only" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
+      <button type="button" class="btn quiet slide-only" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
       <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="왼쪽 원고와 오른쪽 슬라이드를 모두 지우고 처음부터 시작해요">모두 지우기</button>
       <button type="button" class="btn primary db-only" id="dbCodeBtn" title="GitHub·VS Code의 장 파일에 붙여넣을 코드를 만들어요">🧩 DB 코드 복사</button>
-    <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)">📋 전체 텍스트 복사</button>
+    <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)">📋 전체 복사</button>
     </div>
   </div>
   <div class="toolbar">
@@ -1101,7 +1101,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
             <button type="button" data-lang="ko">한국어</button>
             <button type="button" data-lang="en" class="active">English</button>
           </span>
-          <p class="help">조각 안의 글자를 드래그해서 고르면 이 언어로 번역해 칸 위쪽에 보여줘요.</p>
+          <p class="help">드래그한 글자를 이 언어로 번역해 보여줘요.</p>
         </div>
         <div class="setting">
           <label class="sl" for="canvasHeightSelect">ProPresenter 캔버스 높이</label>
@@ -1112,7 +1112,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
             <option value="custom">직접 입력…</option>
           </select>
           <input type="number" id="canvasHeightCustom" min="200" max="10000" value="1080" style="display:none;">
-          <p class="help">출력 해상도예요. 글자 크기와 줄 수를 계산하는 기준이 돼요(1pt = 1px).</p>
+          <p class="help">출력 해상도예요 (1pt = 1px).</p>
         </div>
         <div class="setting">
           <span class="sl">슬라이드 글자 굵기</span>
@@ -1120,7 +1120,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
             <button type="button" data-bold="0">보통</button>
             <button type="button" data-bold="1" class="active">굵게</button>
           </span>
-          <p class="help">기본은 실제 프로프레젠터 화면(굵은 글씨)과 같은 <b>굵게</b>예요. 굵으면 줄바꿈과 자동 축소도 굵은 글씨 기준으로 계산돼요.</p>
+          <p class="help">기본은 프로프레젠터와 같은 <b>굵게</b>예요.</p>
         </div>
       </div>
     </details>
@@ -1385,7 +1385,7 @@ async function checkLibreTranslateConnection(silent) {
     } catch (e) {
       setLtChip("down", "번역 서버 연결 안 됨", LIBRETRANSLATE_URL);
       banner(
-        `번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 번역만 안 되고 나머지 기능은 그대로 쓸 수 있어요. 오른쪽 "설치 방법 보기"의 "연결이 안 될 때"를 확인해 보세요.`,
+        `번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 번역만 빼고 모두 쓸 수 있어요.`,
         false,
         `LibreTranslate 서버(${LIBRETRANSLATE_URL})에 연결할 수 없습니다. 서버가 켜져 있는지, ` +
         `주소가 맞는지, 서버 쪽 CORS 설정을 확인하세요. (${e && e.message ? e.message : e})`
@@ -1589,7 +1589,7 @@ const livePreview = throttleTrailing(wrap => updateSelectionPreview(wrap), 120);
 // 왼쪽: 언어별 칸 + 조각(box)
 // ---------------------------------------------------------------------
 // 선택 영역 번역 미리보기 칸이 아무것도 선택 안 됐을 때 보여줄 안내 문구
-const SEL_PREVIEW_PLACEHOLDER = "드래그하는 동안 선택한 부분의 번역이 여기 실시간으로 표시됩니다";
+const SEL_PREVIEW_PLACEHOLDER = "드래그하면 번역이 여기 보여요";
 function colSelPreviewEl(col) { return col ? col.querySelector(".col-selpreview") : null; }
 function resetColSelPreview(col) {
   const el = colSelPreviewEl(col);
@@ -5607,17 +5607,17 @@ dbFile.addEventListener("change", async () => {
     "글은 이 브라우저에 자동 저장돼요. 브라우저 데이터를 지우거나 다른 브라우저·다른 파일 위치로 열면 보이지 않으니, 중요한 원고는 파일로도 받아 두세요.":"Your text is auto-saved in this browser. It won't appear if you clear browser data or open the file from another browser or location, so save important scripts to a file too.",
     "💾 파일로 저장":"💾 Save to file","📂 파일에서 불러오기":"📂 Load from file","자동 백업":"Auto backups",
     "(최근 12개 · 1분마다 · 24시간 보관 1개 · 지우기·복구 직전 내용도 여기에 남아요)":"(latest 12 · every 1 min · 1 kept for 24 hours · content from just before clearing/restoring is kept here too)",
-    "ℹ️ 시작 안내":"ℹ️ Getting started","🐳 번역 서버 안내":"🐳 Translation server guide",
+    "ℹ️ 시작 안내":"ℹ️ Getting started","🐳 서버 안내":"🐳 Server guide",
     "번역 서버 확인 중":"Checking translation server","번역 서버 연결 안 됨":"Translation server not connected",
     "번역 서버 오류":"Translation server error","번역 서버 응답 이상":"Translation server bad response",
     "번역 서버 연결됨 · 언어 모델 부족":"Translation server connected · language models missing","번역 서버 연결됨":"Translation server connected",
     "⚠ 자동 저장 안 됨":"⚠ Auto-save off","🌗 자동":"🌗 Auto","🌙 다크":"🌙 Dark","☀️ 라이트":"☀️ Light",
-    "🛡️ 백업·복구":"🛡️ Backup·Restore","모두 지우기":"Clear all","📋 전체 텍스트 복사":"📋 Copy full text",
+    "🛡️ 백업·복구":"🛡️ Backup·Restore","🧹 데이터 삭제":"🧹 Delete data","모두 지우기":"Clear all","📋 전체 복사":"📋 Copy all",
     "기준 글자 크기":"Base font size","기본 정렬":"Default alignment","왼쪽":"Left","가운데":"Center","오른쪽":"Right",
     "⚙ 세부 설정":"⚙ Advanced settings","선택한 글자 번역 언어":"Language for selected-text translation",
-    "조각 안의 글자를 드래그해서 고르면 이 언어로 번역해 칸 위쪽에 보여줘요.":"Drag to select text inside a piece and it is translated into this language above the column.",
+    "드래그한 글자를 이 언어로 번역해 보여줘요.":"Drag text to see it translated into this language.",
     "ProPresenter 캔버스 높이":"ProPresenter canvas height","직접 입력…":"Custom…",
-    "출력 해상도예요. 글자 크기와 줄 수를 계산하는 기준이 돼요(1pt = 1px).":"This is the output resolution, used to calculate font size and line count (1pt = 1px).",
+    "출력 해상도예요 (1pt = 1px).":"Output resolution (1pt = 1px).",
     "슬라이드 글자 굵기":"Slide font weight","보통":"Regular","굵게":"Bold",
     "🐳 설치 안내 보기":"🐳 View setup guide","다시 확인":"Re-check","저장하고 다시 확인":"Save and re-check","서버 주소":"Server address",
     "언어별 칸에 원고를 붙여넣어요":"Paste each language's script into its column",
@@ -5645,14 +5645,14 @@ dbFile.addEventListener("change", async () => {
     "슬라이드의 기준(목표) 글자 크기예요. 글자가 많으면 슬라이드마다 자동으로 줄어들어요. 슬라이드 위쪽 칸으로 그 슬라이드만 따로 정할 수도 있어요":"Target font size for slides. Slides with lots of text shrink automatically. You can also set one slide separately with the box above it.",
     "모든 슬라이드의 기본 정렬이에요. 슬라이드 위쪽 버튼으로 그 슬라이드만 따로 바꿀 수 있어요":"Default alignment for all slides. Use the buttons above a slide to change just that one.",
     "이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요":"Slides and the full-text copy use this order. Drag to reorder.",
-    "기본은 실제 프로프레젠터 화면(굵은 글씨)과 같은":"The default matches the real ProPresenter display (bold text), i.e.",
-    "예요. 굵으면 줄바꿈과 자동 축소도 굵은 글씨 기준으로 계산돼요.":". Bold means line breaks and auto-shrink are also calculated using bold text.",
+    "기본은 프로프레젠터와 같은":"The default matches ProPresenter:",
+    "예요.":".",
     "화면 언어 · Interface language":"Interface language · 화면 언어",
     /* 스크립트가 만드는 문구 */
     "LibreTranslate 서버 연결 확인 중...":"Checking LibreTranslate server connection...",
     "주소는 http:// 로 시작해야 해요. 예: http://localhost:5000":"The address must start with http://, e.g. http://localhost:5000",
     "서버 주소를 저장했어요. 다시 확인합니다.":"Server address saved. Re-checking.",
-    "드래그하는 동안 선택한 부분의 번역이 여기 실시간으로 표시됩니다":"While you drag, the translation of the selection appears here in real time",
+    "드래그하면 번역이 여기 보여요":"Drag to see the translation here",
     "이 조각이 들어간 슬라이드로 이동":"Go to the slide containing this piece","(비어있음)":"(empty)","번역 중...":"Translating...",
     "(번역 실패 · 번역 서버 확인)":"(Translation failed · check the translation server)",
     "클릭하면 왼쪽 원문 조각으로 이동해요":"Click to jump to the source piece on the left",
@@ -5697,7 +5697,7 @@ dbFile.addEventListener("change", async () => {
     [/^(.+): 번역 중\.\.\.$/, a => L(a) + ": translating..."],
     [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m + "]"],
     [/^없는 언어: ?(.*)$/, a => "Missing languages: " + a],
-    [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Only translation stops working; everything else works as usual. See \"Can't connect\" in the setup guide."],
+    [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Everything except translation still works."],
     [/^LibreTranslate 서버\((.+)\) 연결 정상,.*$/s, u => "LibreTranslate server (" + u + ") is connected and all required language models are installed."],
     [/^LibreTranslate 서버\((.+)\)에 연결할 수 없습니다\..*?\((.*)\)$/s, (u, m) => "Cannot reach the LibreTranslate server (" + u + "). Check that it is running, that the address is correct, and the server's CORS settings. (" + m + ")"],
     [/^LibreTranslate 서버\((.+)\)가 오류를 반환했습니다: (.*)$/s, (u, m) => "The LibreTranslate server (" + u + ") returned an error: " + m],
