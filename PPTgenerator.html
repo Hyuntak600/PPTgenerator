@@ -278,21 +278,8 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 /* 세그먼트 버튼(왼쪽/가운데/오른쪽 등) */
 /* DB 코드 복사 창: 절·페이지 체크 목록 */
 #dbCodeText{height:min(30vh,260px);}
-#copyText.with-pick{height:min(30vh,260px);}
-.dc-list{max-height:min(30vh,240px); overflow:auto; border:1px solid var(--line); border-radius:8px; background:var(--bg); padding:4px 6px; margin-bottom:10px; font-size:.8rem;}
-.dc-v{display:flex; align-items:center; gap:10px; padding:3px 4px; border-radius:6px;}
-.dc-v:hover{background:color-mix(in srgb,var(--accent) 7%,transparent);}
-.dc-v label{display:inline-flex; align-items:center; gap:4px; cursor:pointer; white-space:nowrap;}
-.dc-v .dc-num{min-width:3.4em; font-weight:600;}
-.dc-v .dc-pg{color:var(--sub);}
-.dc-v .dc-pv{flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; color:var(--sub); font-size:.74rem;}
-.dc-none{padding:10px; color:var(--sub);}
-/* 선택한 절: 여러 페이지짜리 절은 a·b·c 칩으로 나눠 보여 주고, 칩마다 첫 한두 단어를 붙임 */
-.dc-v.multi{flex-wrap:wrap; row-gap:3px;}
-.dc-v .dc-pg{font-weight:700; color:var(--ink);}
-.dc-v .dc-pgw{color:var(--sub); font-size:.74rem; font-weight:400;}
-.dc-v.multi > label + label{padding:1px 9px; border-radius:7px; background:color-mix(in srgb,var(--ink) 6%,transparent);}
-.dc-v .dc-cnt{color:var(--sub); font-size:.68rem; font-weight:400; margin-left:3px;}
+.copy-pick{display:flex; align-items:center; flex-wrap:wrap; gap:8px 16px; margin-bottom:10px;}
+.copy-pick .field{display:inline-flex; align-items:center; gap:6px;}
 /* 위쪽 버튼 줄: 그룹 사이 구분선 + 모든 데이터 삭제는 따로 떨어뜨려 빨간 테두리 */
 .hsep{flex:none; width:1px; align-self:stretch; min-height:18px; margin:0 3px; background:var(--line);}
 .head-top .btn.quiet.wipe{border-color:color-mix(in srgb,#ff3b30 50%,transparent); color:#d2382d;}
@@ -1019,21 +1006,13 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
   <div class="patch-modal copy-modal">
     <h2>전체 텍스트</h2>
     <p class="patch-sub" id="ctSub"></p>
-    <div class="wel-row db-only" id="ctScopeRow" style="margin-bottom:10px">
-      <span class="seg" id="ctScopeSeg">
-        <button type="button" data-scope="cur" class="active" title="지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)">① 지금 보고 있는 절</button>
-        <button type="button" data-scope="pick" title="성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요">② 선택한 절</button>
-      </span>
+    <div class="copy-pick slide-only" id="ctSlidePick">
+      <div class="field"><span>슬라이드</span><select id="ssFrom" title="시작 슬라이드"></select><select id="ssTo" title="끝 슬라이드"></select></div>
     </div>
-    <div id="dbPickWrap" hidden>
-      <div class="wel-row" style="margin-bottom:6px">
-        <label class="field"><span>성경</span><select id="dcBook"></select></label>
-        <label class="field"><span>장</span><select id="dcChap"></select></label>
-        <button type="button" class="btn quiet" id="dcAll">이 장 전체 선택</button>
-        <button type="button" class="btn quiet" id="dcNone">전체 해제</button>
-        <span class="dbstat" id="dcCount"></span>
-      </div>
-      <div class="dc-list" id="dcList"></div>
+    <div class="copy-pick db-only" id="ctBiblePick">
+      <label class="field"><span>성경</span><select id="ccBook"></select></label>
+      <label class="field"><span>장</span><select id="ccChap"></select></label>
+      <div class="field"><span>절</span><select id="ccFrom" title="시작 절"></select><select id="ccTo" title="끝 절"></select></div>
     </div>
     <textarea id="copyText" class="copy-text" spellcheck="false"></textarea>
     <div class="copy-actions">
@@ -1078,7 +1057,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>🎞 슬라이드를 만들 때는</h3>
     <ul>
-      <li data-en="When making slides, use <b>📋 Copy all</b>. To copy several verses at once, switch to <b>② Selected verses</b> there and check the verses (or pages a·b·c) you need.">슬라이드를 만들 때는 <b>📋 전체 복사</b>를 사용하면 돼요. 여러 절이 필요하면 거기서 <b>② 선택한 절</b>을 눌러 필요한 절(또는 a·b·c 페이지)을 체크해 한꺼번에 복사할 수 있어요.</li>
+      <li data-en="When making slides, use <b>📋 Copy all</b>. Pick the Bible, chapter and verse range from the Mac-style menus (the whole chapter is selected by default; verses with several pages show as 16 (a) · 16 (b)).">슬라이드를 만들 때는 <b>📋 전체 복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 범위의 글이 한꺼번에 나와요(처음엔 그 장 전체가 골라져 있어요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
     </ul>
 
     <h3>🗑 모든 데이터 삭제</h3>
@@ -3068,29 +3047,48 @@ document.getElementById("copyTextBtn").addEventListener("click", () =>
   copyOverlay.addEventListener("click", e => { if (e.target === copyOverlay) close(); });
 })();
 
-// ① 지금 보는 화면의 글(원래 동작) — 글이 있으면 true
-function fillCopyCur() {
-  syncSlides(); // 왼쪽 기준으로 한 번 더 맞춘 뒤 뽑음
-  recomputeAllFits(); // 문단 앞에 적을 실제 적용 글자 크기를 최신으로
-  const slides = collectSlidesForCopy();
-  copyText.value = slides.map(slideLineText).join("\n\n");
-  document.getElementById("ctSub").textContent = slides.length
-    ? "슬라이드 " + slides.length + "장 · 문단마다 언어별 글만 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요."
-    : "지금 보고 있는 절에는 복사할 내용이 없어요.";
-  return slides.length > 0;
+// 전체 복사 창. 슬라이드 만들기 = 슬라이드 범위 드롭다운(기본 전부) / 성경 DB = 성경·장·절 드롭다운(성경 불러오기와 같은 맥 스타일)
+// 고른 범위의 글이 아래 칸에 나오고, 필요하면 고친 뒤 [복사]를 누르면 복사된다.
+let ctSlides = [];
+const ssFrom = document.getElementById("ssFrom"), ssTo = document.getElementById("ssTo");
+let ssInited = false;
+function ssRange() { return ssFrom.value === "" ? null : [Math.min(+ssFrom.value, +ssTo.value), Math.max(+ssFrom.value, +ssTo.value)]; }
+function ssFirstWords(s) { const x = String((s.parts[0] && s.parts[0].text) || "").replace(/\s+/g, " ").trim(); return x.length > 36 ? x.slice(0, 36) + "…" : x; }
+function ssRefresh() {
+  macSyncs.forEach(f => f());
+  const r = ssRange(), n = ctSlides.length;
+  const pick = r ? ctSlides.slice(r[0], r[1] + 1) : [];
+  copyText.value = pick.map(slideLineText).join("\n\n");
+  document.getElementById("ctSub").textContent = !n ? "복사할 슬라이드가 없어요."
+    : (pick.length === n ? "슬라이드 전부 " + n + "장" : "슬라이드 " + n + "장 중 " + pick.length + "장") + " · 문단마다 언어별 글만 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
 }
-async function copyAllText() {
-  if (appMode !== "db") { // 슬라이드 만들기 모드: 원래 그대로
-    if (!fillCopyCur()) { showToast("복사할 내용이 없어요. 왼쪽 칸에 원고를 먼저 붙여넣어 주세요.", true); return; }
-    ctSetScope("cur");
+function ssInit() {
+  if (ssInited) return; ssInited = true;
+  const ctx = { book: null, chap: null, from: ssFrom, to: ssTo, cells: () => ctSlides.map((s, i) => ({ label: String(s.no), item: i, title: ssFirstWords(s) })),
+    loaded: () => true, range: ssRange, update: ssRefresh, all: () => { ssFill(); ssRefresh(); }, unit: "슬라이드", allText: "전부", emptyMsg: "슬라이드가 없어요." };
+  pkMake([ssFrom, ssTo], () => {
+    const n = ctSlides.length, r = ssRange();
+    if (!n || !r) return { text: "슬라이드 선택", ph: true };
+    if (r[0] === 0 && r[1] === n - 1) return { text: "전부 (" + n + "장)" };
+    const a = ctSlides[r[0]].no, b = ctSlides[r[1]].no;
+    return { text: a === b ? a + "번" : a + " ~ " + b + "번" };
+  }, 120, close => pkVerseMenu(close, ctx)).title = "슬라이드 고르기 (시작 → 끝, 기본은 전부)";
+}
+function ssFill() { // 슬라이드 목록을 채우고 기본값 = 전부
+  [ssFrom, ssTo].forEach(sel => { sel.textContent = ""; ctSlides.forEach((s, i) => { const o = document.createElement("option"); o.value = String(i); o.textContent = String(s.no); sel.appendChild(o); }); });
+  ssFrom.value = ctSlides.length ? "0" : ""; ssTo.value = ctSlides.length ? String(ctSlides.length - 1) : "";
+}
+function copyAllText() {
+  if (appMode !== "db") { // 슬라이드 만들기 모드
+    syncSlides(); recomputeAllFits();
+    ctSlides = collectSlidesForCopy();
+    if (!ctSlides.length) { showToast("복사할 내용이 없어요. 왼쪽 칸에 원고를 먼저 붙여넣어 주세요.", true); return; }
+    ssInit(); ssFill(); ssRefresh();
     copyOverlay.classList.add("open"); // 열기만 하고 자동 복사는 하지 않음 — [복사] 버튼을 눌러야 복사돼요
     return;
   }
   saveDbNow();
-  dcSel = dbCurSel(); // ② 선택한 절은 지금 보는 절이 체크된 채로 시작
-  if (dbCur && window.BibleDB) { dcBook.value = dbCur.en; fillNum(dcChap, BibleDB.book(dbCur.en).chapters, dbCur.ch); macSyncs.forEach(f => f()); }
-  ctSetScope("cur");
-  copyOverlay.classList.add("open");
+  ccOpen();
 }
 document.getElementById("copyAllBtn").addEventListener("click", copyAllText);
 
@@ -3849,18 +3847,18 @@ function pkNav(e, cells, cur, locked) { // 번호판 방향키: { hit, pick, to 
   let j = cur + d; while (j >= 0 && j < cells.length && locked(j)) j += d; // 잠긴 칸은 건너뜀
   return { hit: true, to: j >= 0 && j < cells.length ? j : -1 };
 }
-function pkBookMenu(close, after) {
+function pkBookMenu(close, after, C = pkImpCtx()) {
   const el = document.createElement("div"), inp = document.createElement("input"), sc = document.createElement("div"), none = document.createElement("div");
   inp.className = "pk-search"; inp.type = "text"; inp.placeholder = "책 이름 검색  (요한 · John · 43)"; inp.setAttribute("autocomplete", "off"); inp.spellcheck = false;
   sc.className = "pk-scroll"; none.className = "pk-none"; none.textContent = "찾는 책이 없어요"; none.hidden = true;
   el.style.width = "min(300px, 92vw)"; el.append(inp, sc); sc.appendChild(none);
   const rows = [], heads = [];
   let lastG = "";
-  [...impBook.options].forEach((o, i) => {
+  [...C.book.options].forEach((o, i) => {
     const b = BibleDB.book(o.value) || {}, no = +b.no > 0 ? +b.no : i + 1, g = no <= 39 ? "구약" : "신약";
     if (g !== lastG) { const h = document.createElement("div"); h.className = "pk-group"; h.textContent = g; h.dataset.g = g; sc.insertBefore(h, none); heads.push(h); lastG = g; }
     const r = document.createElement("div"), a = document.createElement("span"), k = document.createElement("span"), n = document.createElement("span");
-    r.className = "mac-item pk-book"; r.setAttribute("role", "option"); r.setAttribute("aria-selected", i === impBook.selectedIndex ? "true" : "false");
+    r.className = "mac-item pk-book"; r.setAttribute("role", "option"); r.setAttribute("aria-selected", i === C.book.selectedIndex ? "true" : "false");
     a.className = "pk-no"; a.textContent = no; k.className = "pk-ko"; k.textContent = b.ko || o.value; n.className = "pk-en"; n.textContent = b.en || "";
     r.append(a, k, n); r.dataset.g = g; sc.insertBefore(r, none);
     const hay = ((b.ko || "") + " " + (b.en || o.value) + " " + no).toLowerCase();
@@ -3875,18 +3873,18 @@ function pkBookMenu(close, after) {
     const q = inp.value.trim().toLowerCase(), qf = q.replace(/\s+/g, "");
     rows.forEach(r => { r.on = !q || r.hay.includes(q) || r.flat.includes(qf); r.el.hidden = !r.on; r.el.classList.remove("on"); });
     heads.forEach(h => { h.hidden = !rows.some(r => r.on && r.el.dataset.g === h.dataset.g); });
-    none.hidden = vis().length > 0; cur = 0; mark(0, true); if (!q) pkCenter(sc, rows[impBook.selectedIndex].el);
+    none.hidden = vis().length > 0; cur = 0; mark(0, true); if (!q) pkCenter(sc, rows[C.book.selectedIndex].el);
   }
   function pick(ri) {
-    const r = rows[ri]; if (!r) return; const o = impBook.options[r.i];
+    const r = rows[ri]; if (!r) return; const o = C.book.options[r.i];
     close();
-    if (o && impBook.value !== o.value) { impBook.value = o.value; impBook.dispatchEvent(new Event("change", { bubbles: true })); }
+    if (o && C.book.value !== o.value) { C.book.value = o.value; C.book.dispatchEvent(new Event("change", { bubbles: true })); }
     after();
   }
   inp.addEventListener("input", filter);
   return {
     el,
-    start() { inp.focus(); const v = vis(), j = v.findIndex(r => r.i === impBook.selectedIndex); mark(j < 0 ? 0 : j); pkCenter(sc, v[j < 0 ? 0 : j].el); },
+    start() { inp.focus(); const v = vis(), j = v.findIndex(r => r.i === C.book.selectedIndex); mark(j < 0 ? 0 : j); pkCenter(sc, v[j < 0 ? 0 : j].el); },
     key(e) {
       const v = vis();
       if (e.key === "ArrowDown") { if (v.length) mark(Math.min(v.length - 1, cur + 1), true); return true; }
@@ -3896,17 +3894,17 @@ function pkBookMenu(close, after) {
     }
   };
 }
-function pkChapMenu(close, after) {
-  const n = impChap.options.length, empty = i => dbChapSeen.get(impBook.value + "|" + (i + 1)) === 0;
+function pkChapMenu(close, after, C = pkImpCtx()) {
+  const n = C.chap.options.length, empty = i => dbChapSeen.get(C.book.value + "|" + (i + 1)) === 0;
   const el = document.createElement("div"), sc = document.createElement("div"), { g, cells } = pkGrid(n, i => String(i + 1), empty, null, 7);
   sc.className = "pk-scroll"; sc.appendChild(g); el.appendChild(sc); el.style.width = "min(316px, 92vw)";
-  let cur = Math.max(0, impChap.selectedIndex);
+  let cur = Math.max(0, C.chap.selectedIndex);
   if (cells[cur]) cells[cur].classList.add("sel");
   const mark = (j, scroll) => { if (cells[cur]) cells[cur].classList.remove("cur"); cur = j; cells[j].classList.add("cur"); if (scroll) pkNear(sc, cells[j]); };
   const pick = j => {
     if (empty(j)) return;
     close(); const v = String(j + 1);
-    if (impChap.value !== v) { impChap.value = v; impChap.dispatchEvent(new Event("change", { bubbles: true })); }
+    if (C.chap.value !== v) { C.chap.value = v; C.chap.dispatchEvent(new Event("change", { bubbles: true })); }
     after();
   };
   g.addEventListener("mouseover", e => { const c = e.target.closest(".pk-cell"), j = cells.indexOf(c); if (c && !empty(j)) mark(j); });
@@ -3917,37 +3915,37 @@ function pkChapMenu(close, after) {
     key(e) { const r = pkNav(e, cells, cur, empty); if (!r.hit) return false; if (r.pick) pick(cur); else if (r.to >= 0) mark(r.to, true); return true; }
   };
 }
-function pkVerseMenu(close) {
+function pkVerseMenu(close, C = pkImpCtx()) {
   const el = document.createElement("div"), top = document.createElement("div"), hint = document.createElement("span"), all = document.createElement("button"), sc = document.createElement("div");
-  top.className = "pk-top"; sc.className = "pk-scroll"; all.type = "button"; all.className = "pk-all"; all.textContent = "장 전체";
+  top.className = "pk-top"; sc.className = "pk-scroll"; all.type = "button"; all.className = "pk-all"; all.textContent = C.allText;
   el.style.width = "min(352px, 92vw)"; top.append(hint, all); el.append(top, sc);
-  const cs = impCells, n = cs.length;
+  const cs = C.cells(), n = cs.length;
   if (!n) {
-    hint.textContent = "절 선택"; all.hidden = true;
-    const m = document.createElement("div"); m.className = "pk-none"; m.textContent = impLoaded ? "이 장에는 아직 불러올 내용이 없어요." : "불러오는 중이에요…"; sc.appendChild(m);
+    hint.textContent = C.unit + " 선택"; all.hidden = true;
+    const m = document.createElement("div"); m.className = "pk-none"; m.textContent = C.loaded() ? C.emptyMsg : "불러오는 중이에요…"; sc.appendChild(m);
     return { el, key: () => false };
   }
   const locked = i => cs[i].item < 0, { g, cells } = pkGrid(n, i => cs[i].label, locked, i => cs[i].title, 6);
   sc.appendChild(g);
   let anchor = -1, hov = -1, cur = -1;
-  const range = () => { if (anchor >= 0) { const h = hov >= 0 ? hov : anchor; return [Math.min(anchor, h), Math.max(anchor, h)]; } return impRange() || [-1, -1]; };
+  const range = () => { if (anchor >= 0) { const h = hov >= 0 ? hov : anchor; return [Math.min(anchor, h), Math.max(anchor, h)]; } return C.range() || [-1, -1]; };
   function paint() {
     const [a, b] = range();
     cells.forEach((c, i) => { c.classList.toggle("sel", i === a || i === b); c.classList.toggle("rng", i > a && i < b); c.classList.toggle("cur", i === cur); });
-    hint.textContent = anchor < 0 ? "시작 절을 누르세요" : "끝 절을 누르세요 (같은 절 = 한 절만)";
+    hint.textContent = anchor < 0 ? (C.unit === "절" ? "시작 절을 누르세요" : "시작 슬라이드를 누르세요") : (C.unit === "절" ? "끝 절을 누르세요 (같은 절 = 한 절만)" : "끝 슬라이드를 누르세요 (같은 슬라이드 = 한 장만)");
   }
   function pick(i) {
     if (locked(i)) return;
-    if (anchor < 0) { anchor = i; hov = -1; impFrom.value = String(i); impTo.value = String(i); impUpdateSum(); paint(); return; }
-    impFrom.value = String(Math.min(anchor, i)); impTo.value = String(Math.max(anchor, i)); impUpdateSum(); close();
+    if (anchor < 0) { anchor = i; hov = -1; C.from.value = String(i); C.to.value = String(i); C.update(); paint(); return; }
+    C.from.value = String(Math.min(anchor, i)); C.to.value = String(Math.max(anchor, i)); C.update(); close();
   }
   g.addEventListener("mouseover", e => { const c = e.target.closest(".pk-cell"), i = cells.indexOf(c); if (!c || locked(i)) return; cur = i; if (anchor >= 0) hov = i; paint(); });
   g.addEventListener("click", e => { const c = e.target.closest(".pk-cell"); if (c) pick(cells.indexOf(c)); });
-  all.addEventListener("click", () => { close(); impAllBtn.click(); });
+  all.addEventListener("click", () => { close(); C.all(); });
   return {
     el,
     start() {
-      const r = impRange(), a = r ? r[0] : -1; cur = a >= 0 ? a : cs.findIndex((c, i) => !locked(i));
+      const r = C.range(), a = r ? r[0] : -1; cur = a >= 0 ? a : cs.findIndex((c, i) => !locked(i));
       paint(); pkCenter(sc, cells[cur]);
     },
     key(e) {
@@ -4051,6 +4049,10 @@ function impImport() {
   showToast(picks.length + "개 조각을 원고 뒤에 넣었어요.");
   const col = left.querySelector(".col"), box = col && col.querySelectorAll(".box")[Math.max(0, (out[col.dataset.lang] || []).length - picks.length)];
   if (box) { box.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(box); }
+}
+function pkImpCtx() { // 성경 불러오기 창이 쓰는 선택기 값 묶음
+  return { book: impBook, chap: impChap, from: impFrom, to: impTo, cells: () => impCells, loaded: () => impLoaded, range: impRange, update: impUpdateSum,
+    all: () => impAllBtn.click(), unit: "절", allText: "장 전체", emptyMsg: "이 장에는 아직 불러올 내용이 없어요." };
 }
 function impInit() {
   if (impInited) return; impInited = true;
@@ -4214,78 +4216,12 @@ function buildDbUnsentCode() {
   });
   return out.join("\n");
 }
-// 선택한 절 고르기(📋 전체 복사 창의 ② 선택한 절): 책·장을 바꿔 가며 절 / 페이지(a·b·c)를 체크해 한 번에 모음. 선택은 장을 옮겨도 유지됨.
-// 선택 키 = "책|장|절|페이지번호(0부터)"
-const dcBook = document.getElementById("dcBook"), dcChap = document.getElementById("dcChap"), dcList = document.getElementById("dcList"),
-      dcCount = document.getElementById("dcCount"), dbPickWrap = document.getElementById("dbPickWrap");
-let dbScope = "cur", dcSel = new Set(), dcSeq = 0; // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아직 안 보낸 것). dcSel은 📋 전체 복사의 ② 선택한 절 체크 상태
-if (window.BibleDB) BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; dcBook.appendChild(o); });
-macSelect(dcBook);   // 선택한 절 창의 성경·장도 맥 스타일 메뉴로
-macSelect(dcChap, c => dbChapSeen.get(dcBook.value + "|" + c) === 0);
+// (DB 코드 복사 창에서 쓰는 도우미)
+let dbScope = "cur", dcSel = new Set(); // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아직 안 보낸 것)
 const pgName = i => String.fromCharCode(97 + (i % 26)); // a, b, c ...
 const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
 function dcEntries(en, ch) { return dbChapterEntries(en, ch).map(([v, pages]) => [v, pages.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]).filter(e => e[1].length); }
 function dcKey(en, ch, v, i) { return en + "|" + ch + "|" + v + "|" + i; }
-function dcUpdateCount() {
-  const verses = new Set([...dcSel].map(k => k.split("|").slice(0, 3).join("|")));
-  dcCount.textContent = dcSel.size ? "선택 " + verses.size + "절 · " + dcSel.size + "페이지" : "선택 없음";
-}
-async function dcRender() {
-  const en = dcBook.value, ch = +dcChap.value || 1, seq = ++dcSeq;
-  dcList.textContent = "불러오는 중...";
-  try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
-  if (seq !== dcSeq) return;
-  const ob = dbRead(), drafts = ob.d, entries = dcEntries(en, ch);
-  dcList.textContent = "";
-  if (!entries.length) { const d = document.createElement("div"); d.className = "dc-none"; d.textContent = "이 장에는 내용이 있는 절이 없어요."; dcList.appendChild(d); dcUpdateCount(); return; }
-  const firstWords = p => { // 본문 처음 한두 단어만 (띄어쓰기 없는 중국어는 앞 4글자)
-    const x = String(p.Kor || p.Eng || p.Chn || p.Ind || "").replace(/\s+/g, " ").trim();
-    if (!x) return "";
-    const w = x.split(" ");
-    if (w.length > 1) return w.slice(0, 2).join(" ") + (w.length > 2 ? "…" : "");
-    return x.length > 4 ? x.slice(0, 4) + "…" : x;
-  };
-  entries.forEach(([v, pgs]) => {
-    const multi = pgs.length > 1;
-    const row = document.createElement("div"); row.className = "dc-v" + (multi ? " multi" : "");
-    const lab = document.createElement("label"), vc = document.createElement("input"), num = document.createElement("span");
-    vc.type = "checkbox"; num.className = "dc-num"; num.textContent = v + (drafts[en + "|" + ch + "|" + v] ? (dbIsUnsent(ob, en + "|" + ch + "|" + v) ? " ✎" : " ✓") : "");
-    lab.append(vc, num);
-    if (multi) { const cnt = document.createElement("span"); cnt.className = "dc-cnt"; cnt.textContent = "(" + pgs.length + "장)"; lab.title = v + "절 · 슬라이드 " + pgs.length + "장 (" + pgs.map(x => pgName(x.i)).join("·") + ") — 눌러서 전부 선택/해제"; lab.appendChild(cnt); }
-    row.appendChild(lab);
-    const boxes = pgs.map(({ p, i }) => {
-      const k = dcKey(en, ch, v, i);
-      if (!multi) return { k, c: vc };
-      const l = document.createElement("label"), c = document.createElement("input"), t = document.createElement("span"), w = document.createElement("span");
-      c.type = "checkbox"; t.className = "dc-pg"; t.textContent = pgName(i); w.className = "dc-pgw"; w.textContent = firstWords(p);
-      l.title = v + "절 " + pgName(i) + "페이지"; l.append(c, t, w); row.appendChild(l);
-      return { k, c };
-    });
-    const sync = () => { // 절 체크박스: 모든 페이지가 체크됐을 때만 체크, 일부면 반쯤(indeterminate)
-      if (!multi) { vc.checked = dcSel.has(boxes[0].k); return; }
-      const n = boxes.filter(x => dcSel.has(x.k)).length;
-      vc.checked = n === boxes.length; vc.indeterminate = n > 0 && n < boxes.length;
-    };
-    boxes.forEach(({ k, c }) => { if (c !== vc) { c.checked = dcSel.has(k); c.addEventListener("change", () => { if (c.checked) dcSel.add(k); else dcSel.delete(k); sync(); dcUpdateCount(); refreshCopyPick(); }); } });
-    vc.addEventListener("change", () => {
-      boxes.forEach(({ k, c }) => { if (vc.checked) dcSel.add(k); else dcSel.delete(k); if (c !== vc) c.checked = vc.checked; });
-      sync(); dcUpdateCount(); refreshCopyPick();
-    });
-    sync();
-    if (!multi) { const pv = document.createElement("span"); pv.className = "dc-pv"; pv.textContent = firstWords(pgs[0].p); row.appendChild(pv); }
-    dcList.appendChild(row);
-  });
-  dcUpdateCount();
-}
-dcBook.addEventListener("change", () => { fillNum(dcChap, BibleDB.book(dcBook.value).chapters, 1); dcRender(); });
-dcChap.addEventListener("change", () => { dcRender(); });
-document.getElementById("dcAll").addEventListener("click", () => {
-  const en = dcBook.value, ch = +dcChap.value || 1;
-  dcEntries(en, ch).forEach(([v, pgs]) => pgs.forEach(({ i }) => dcSel.add(dcKey(en, ch, v, i))));
-  dcRender().then(refreshCopyPick);
-});
-document.getElementById("dcNone").addEventListener("click", () => { dcSel.clear(); dcRender().then(refreshCopyPick); });
-
 // 지금 보고 있는 절(내용이 있는 모든 페이지)의 선택 키 집합
 function dbCurSel() {
   const s = dbCur, sel = new Set(); if (!s) return sel;
@@ -4366,14 +4302,86 @@ document.getElementById("dbCodeCopy").addEventListener("click", () => {
 document.getElementById("dbCodeClose").addEventListener("click", () => dbCodeOverlay.classList.remove("open"));
 dbCodeOverlay.addEventListener("click", e => { if (e.target === dbCodeOverlay) dbCodeOverlay.classList.remove("open"); });
 
-// ---- 📋 전체 복사 창의 ② 선택한 절: 체크한 절·페이지의 글을 "전체 복사"와 같은 모양으로 모음 ----
-// 문단 하나 = 한 페이지: 맨 위에 "책 이름 장:절", 그 아래 언어마다 한 줄, 문단 사이는 빈 줄
-let ctScope = "cur";
-const ctScopeSeg = document.getElementById("ctScopeSeg");
-function ctPickText() {
+// ---- 📋 전체 복사 창 (성경 DB 모드): 성경 → 장 → 절 범위를 성경 불러오기와 같은 맥 스타일 선택기로 고름 ----
+// 문단 하나 = 한 페이지: 맨 위에 "책 이름 장:절", 그 아래 언어마다 한 줄, 문단 사이는 빈 줄. 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉨.
+const ccBook = document.getElementById("ccBook"), ccChap = document.getElementById("ccChap"), ccFrom = document.getElementById("ccFrom"), ccTo = document.getElementById("ccTo");
+let ccSeq = 0, ccInited = false, ccLoaded = false, ccItems = [], ccCells = [], ccLoading = null;
+function ccRange() { return ccFrom.value === "" ? null : [Math.min(+ccFrom.value, +ccTo.value === "" ? +ccFrom.value : +ccTo.value), Math.max(+ccFrom.value, +ccTo.value === "" ? +ccFrom.value : +ccTo.value)]; }
+function ccFill(sel, ph) {
+  sel.textContent = "";
+  const o0 = document.createElement("option"); o0.value = ""; o0.textContent = ph; sel.appendChild(o0);
+  ccCells.forEach((c, i) => { const o = document.createElement("option"); o.value = String(i); o.textContent = c.label; if (c.title) o.title = c.title; sel.appendChild(o); });
+  sel.value = "";
+}
+function ccAll() { // 장 전체: 내용이 있는 첫 항목 ~ 마지막 항목
+  const has = ccCells.map((c, i) => c.item >= 0 ? i : -1).filter(i => i >= 0);
+  if (!has.length) return;
+  ccFrom.value = String(has[0]); ccTo.value = String(has[has.length - 1]); ccRefresh();
+}
+function ccRefresh() {
+  macSyncs.forEach(f => f());
+  const r = ccRange(), sub = document.getElementById("ctSub");
+  if (!ccLoaded) { sub.textContent = "불러오는 중..."; return; }
+  const picks = r ? ccCells.slice(r[0], r[1] + 1).filter(c => c.item >= 0).map(c => ccItems[c.item]) : [];
+  if (!ccItems.length) { copyText.value = ""; sub.textContent = "이 장에는 아직 복사할 내용이 없어요. 다른 장을 골라 주세요."; return; }
+  if (!picks.length) { copyText.value = ""; sub.textContent = r ? "고른 범위에 내용이 있는 절이 없어요." : "절을 골라 주세요."; return; }
+  const res = ctPickText(new Set(picks.map(x => dcKey(x.en, x.ch, x.v, x.i))));
+  copyText.value = res.text;
+  const bk = BibleDB.book(ccBook.value), nm = (bk && (bk.ko || bk.en)) || ccBook.value, a = picks[0].label, b = picks[picks.length - 1].label;
+  sub.textContent = nm + " " + ccChap.value + ":" + (a === b ? a : a + " ~ " + b) + " · " + res.n + "페이지의 글을 모았어요. 문단마다 구절 이름과 언어별 글이 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
+}
+async function ccLoad() { // 장을 바꾸면 그 장 전체가 기본으로 골라짐
+  const my = ++ccSeq, en = ccBook.value, ch = +ccChap.value || 1;
+  ccLoaded = false; ccItems = []; ccCells = []; ccFill(ccFrom, "시작 절 선택"); ccFill(ccTo, "끝 절 선택"); ccRefresh();
+  try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
+  if (my !== ccSeq) return;
+  const entries = dbChapterEntries(en, ch), by = new Map(entries.map(([v, pgs]) => [v, pgs.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]));
+  let top = 0; try { top = +BibleDB.verses(en, ch) || 0; } catch (e) { /* 절 수를 모르면 내용이 있는 마지막 절까지만 */ }
+  by.forEach((pgs, v) => { if (pgs.length) top = Math.max(top, v); });
+  let filled = 0;
+  for (let v = 1; v <= top; v++) {
+    const pgs = by.get(v) || [];
+    if (!pgs.length) { ccCells.push({ label: String(v), item: -1, title: "아직 데이터가 없어요" }); continue; }
+    filled++;
+    pgs.forEach(({ p, i }, k) => {
+      const end = p.ChnVerseEnd > v ? p.ChnVerseEnd : 0, label = end ? v + "-" + end : impShow(v, k, pgs.length);
+      const item = ccItems.push({ en, ch, v, i, label }) - 1;
+      ccCells.push({ label, item, title: String(p.Kor || p.Eng || p.Chn || p.Ind || "").replace(/\s+/g, " ").slice(0, 80) });
+    });
+  }
+  ccFill(ccFrom, "시작 절 선택"); ccFill(ccTo, "끝 절 선택");
+  dbChapSeen.set(en + "|" + ch, filled);
+  ccLoaded = true; ccAll(); ccRefresh();
+}
+function ccInit() {
+  if (ccInited) return; ccInited = true;
+  BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; ccBook.appendChild(o); });
+  const ctx = { book: ccBook, chap: ccChap, from: ccFrom, to: ccTo, cells: () => ccCells, loaded: () => ccLoaded, range: ccRange, update: ccRefresh,
+    all: ccAll, unit: "절", allText: "장 전체", emptyMsg: "이 장에는 아직 복사할 내용이 없어요." };
+  let chapBtn = null;
+  pkMake([ccBook], () => { const b = ccBook.value ? BibleDB.book(ccBook.value) : null; return { text: b ? (b.ko || b.en) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
+  chapBtn = pkMake([ccChap], () => ({ text: ccChap.value ? ccChap.value + "장" : "장", ph: !ccChap.value }), 64, close => pkChapMenu(close, () => {}, ctx)); chapBtn.title = "장 고르기";
+  pkMake([ccFrom, ccTo], () => {
+    const r = ccRange();
+    if (!r || !ccCells[r[0]]) return { text: ccLoaded ? "절 선택" : "불러오는 중…", ph: true };
+    const a = ccCells[r[0]].label, b = ccCells[r[1]].label;
+    return { text: a === b ? a + "절" : a + " ~ " + b + "절" };
+  }, 108, close => pkVerseMenu(close, ctx)).title = "절 고르기 (시작 절 → 끝 절)";
+  ccBook.addEventListener("change", () => { fillNum(ccChap, BibleDB.book(ccBook.value).chapters, 1); ccLoading = ccLoad(); });
+  ccChap.addEventListener("change", () => { ccLoading = ccLoad(); });
+}
+function ccOpen() {
+  if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요.", true); return; }
+  ccInit();
+  const sel = dbCur || dbLoadSel();
+  ccBook.value = sel.en; fillNum(ccChap, BibleDB.book(sel.en).chapters, sel.ch); macSyncs.forEach(f => f());
+  copyText.value = ""; copyOverlay.classList.add("open");
+  ccLoading = ccLoad();
+}
+function ctPickText(sel) {
   saveDbNow(); // 지금 화면의 내용까지 반영한 뒤 뽑음
   const order = new Map(); BibleDB.books.forEach((b, i) => order.set(b.en, +b.no > 0 ? +b.no : i + 1));
-  const items = [...dcSel].map(k => { const q = k.split("|"); return { en: q[0], ch: +q[1], v: +q[2], i: +q[3] }; })
+  const items = [...sel].map(k => { const q = k.split("|"); return { en: q[0], ch: +q[1], v: +q[2], i: +q[3] }; })
     .sort((a, b) => (order.get(a.en) || 999) - (order.get(b.en) || 999) || a.ch - b.ch || a.v - b.v || a.i - b.i);
   const cache = new Map(), paras = [], verses = new Set();
   items.forEach(x => {
@@ -4392,29 +4400,6 @@ function ctPickText() {
   });
   return { text: paras.join("\n\n"), n: paras.length, verses: verses.size };
 }
-function refreshCopyPick() {
-  if (ctScope !== "pick") return;
-  const r = ctPickText();
-  copyText.value = r.text;
-  document.getElementById("ctSub").textContent = r.n
-    ? "체크한 " + r.verses + "절 · " + r.n + "페이지의 글을 모았어요. 문단마다 구절 이름과 언어별 글이 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요."
-    : "성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)";
-}
-function ctSetScope(sc) {
-  ctScope = appMode === "db" && sc === "pick" ? "pick" : "cur";
-  const pick = ctScope === "pick";
-  ctScopeSeg.querySelectorAll("button").forEach(x => x.classList.toggle("active", x.dataset.scope === ctScope));
-  dbPickWrap.hidden = !pick; copyText.classList.toggle("with-pick", pick);
-  if (pick) {
-    refreshCopyPick();
-    dcRender().then(() => {
-      refreshCopyPick();
-      const row = dcList.querySelector(".dc-v input:checked, .dc-v input:indeterminate"); // 체크된 절이 보이게 스크롤
-      if (row) row.closest(".dc-v").scrollIntoView({ block: "nearest" });
-    });
-  } else if (appMode === "db") fillCopyCur();
-}
-ctScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", () => ctSetScope(b.dataset.scope)));
 
 (function initWelcomeTry() {
   const VERSES = {
@@ -5842,7 +5827,7 @@ ctScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", (
     "이 슬라이드를 한 칸 위로":"Move this slide up one","이 슬라이드를 한 칸 아래로":"Move this slide down one","슬라이드 순서를 바꿨어요.":"Slide order changed.",
     "다국어 자막 정렬 도구":"Multilingual Subtitle Alignment Tool",
     "🎞 슬라이드 만들기":"🎞 Make slides","📖 성경 DB":"📖 Bible DB","슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기":"Make slides ↔ Build the Bible verse database",
-    "🧩 DB 코드 복사":"🧩 Copy DB code","🗑 모든 데이터 삭제":"🗑 Delete all data","📖 성경 DB 사용 안내":"📖 Bible DB guide","ℹ️ 사용 안내":"ℹ️ Guide","성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요":"View the Bible DB instructions again (how to send your edits, local data, etc.)","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🗑 모든 데이터 삭제":"🗑 Delete all data","확인했어요":"Got it","① 선택한 절":"① Selected verses","① 지금 보고 있는 절":"① Current verse","② 선택한 절":"② Selected verses","지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요":"Makes the code for the verse open on screen (all its pages a·b·c)","지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)":"Shows the verse open on screen as is (edit it if you like, then copy)","성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요":"Change the book/chapter and check verses or pages (a·b·c) — only the checked text is copied together","성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)":"Pick a book and chapter and check verses — their text gathers below. (No verses checked)","지금 보고 있는 절에는 복사할 내용이 없어요.":"The verse you are viewing has nothing to copy.","② 아직 안 보낸 것":"② Not sent yet","보낸 것도 포함":"Include already sent","✅ 보냈어요":"✅ Mark as sent","날짜와 상관없이, 고친 뒤 아직 '보냈어요'를 누르지 않은 모든 절을 (여러 장이어도) 한 번에 모아요":"Collects every verse you edited and haven't marked as sent, whatever the date (even across chapters)","이미 보냈다고 표시한 절도 목록에 함께 보여 줘요":"Also lists verses already marked as sent","복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요":"Press this after sending the copied code to the administrator. It marks the listed verses as sent, so from now on only verses you edit again are collected","✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요":"✎ = edited, not sent yet · ✓ = edited and marked as sent — collect them in 🧩 Copy DB code ② Not sent yet and send them to the administrator","보냈다고 표시할 절이 없어요.":"There are no verses to mark as sent.","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
+    "🧩 DB 코드 복사":"🧩 Copy DB code","슬라이드 선택":"Select slides","슬라이드 고르기 (시작 → 끝, 기본은 전부)":"Pick slides (start → end, default: all)","불러오는 중...":"Loading...","🗑 모든 데이터 삭제":"🗑 Delete all data","📖 성경 DB 사용 안내":"📖 Bible DB guide","ℹ️ 사용 안내":"ℹ️ Guide","성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요":"View the Bible DB instructions again (how to send your edits, local data, etc.)","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🗑 모든 데이터 삭제":"🗑 Delete all data","확인했어요":"Got it","① 선택한 절":"① Selected verses","① 지금 보고 있는 절":"① Current verse","② 선택한 절":"② Selected verses","지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요":"Makes the code for the verse open on screen (all its pages a·b·c)","지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)":"Shows the verse open on screen as is (edit it if you like, then copy)","성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요":"Change the book/chapter and check verses or pages (a·b·c) — only the checked text is copied together","성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)":"Pick a book and chapter and check verses — their text gathers below. (No verses checked)","지금 보고 있는 절에는 복사할 내용이 없어요.":"The verse you are viewing has nothing to copy.","② 아직 안 보낸 것":"② Not sent yet","보낸 것도 포함":"Include already sent","✅ 보냈어요":"✅ Mark as sent","날짜와 상관없이, 고친 뒤 아직 '보냈어요'를 누르지 않은 모든 절을 (여러 장이어도) 한 번에 모아요":"Collects every verse you edited and haven't marked as sent, whatever the date (even across chapters)","이미 보냈다고 표시한 절도 목록에 함께 보여 줘요":"Also lists verses already marked as sent","복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요":"Press this after sending the copied code to the administrator. It marks the listed verses as sent, so from now on only verses you edit again are collected","✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요":"✎ = edited, not sent yet · ✓ = edited and marked as sent — collect them in 🧩 Copy DB code ② Not sent yet and send them to the administrator","보냈다고 표시할 절이 없어요.":"There are no verses to mark as sent.","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
     "이전 장":"Previous chapter","다음 장":"Next chapter","이전 절 (키보드 ←)":"Previous verse (keyboard ←)","다음 절 (키보드 →)":"Next verse (keyboard →)","이전 절":"Previous verse","다음 절":"Next verse",
     "성경의 첫 장이에요.":"This is the first chapter of the Bible.","성경의 마지막 장이에요.":"This is the last chapter of the Bible.","이 장의 첫 절이에요.":"This is the first verse of the chapter.",
     "이 장의 마지막 절이에요. 다음 장은 장 옆 ▶ 버튼을 눌러 주세요.":"This is the last verse of the chapter. Press the ▶ next to Chapter to go to the next chapter.",
@@ -5972,7 +5957,8 @@ ctScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", (
     [/^(\d+)절을 보낸 것으로 표시했어요\..*$/s, n => "Marked " + n + (n === "1" ? " verse" : " verses") + " as sent. Only verses you edit again will be collected again."]
 ,
     [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (sht0230@naver.com)." + (x ? " (This verse has no content)" : "")],
-    [/^체크한 (\d+)절 · (\d+)페이지의 글을 모았어요\..*$/s, (v, p) => "Gathered the text of " + v + (v === "1" ? " checked verse · " : " checked verses · ") + p + (p === "1" ? " page." : " pages.") + " Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
+    [/^(.+?) (\d+):(.+?) · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, rg, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " " + ch + ":" + rg + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
+    [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];
   function T(s) {
     const k = s.trim(); if (!k) return s;
