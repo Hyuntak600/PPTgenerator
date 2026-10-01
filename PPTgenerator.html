@@ -276,6 +276,16 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 }
 
 /* 세그먼트 버튼(왼쪽/가운데/오른쪽 등) */
+/* DB 코드 복사 창: 절·페이지 체크 목록 */
+#dbCodeText{height:min(30vh,260px);}
+.dc-list{max-height:min(30vh,240px); overflow:auto; border:1px solid var(--line); border-radius:8px; background:var(--bg); padding:4px 6px; margin-bottom:10px; font-size:.8rem;}
+.dc-v{display:flex; align-items:center; gap:10px; padding:3px 4px; border-radius:6px;}
+.dc-v:hover{background:color-mix(in srgb,var(--accent) 7%,transparent);}
+.dc-v label{display:inline-flex; align-items:center; gap:4px; cursor:pointer; white-space:nowrap;}
+.dc-v .dc-num{min-width:3.4em; font-weight:600;}
+.dc-v .dc-pg{color:var(--sub);}
+.dc-v .dc-pv{flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; color:var(--sub); font-size:.74rem;}
+.dc-none{padding:10px; color:var(--sub);}
 .seg{display:inline-flex; border:1px solid var(--line); border-radius:6px; overflow:hidden;}
 .seg button{border:0; background:var(--bg); color:var(--ink); padding:3px 10px; font-size:.78rem; cursor:pointer;}
 .seg button.active{background:var(--accent); color:#fff;}
@@ -1036,7 +1046,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>📨 수정한 내용을 프로그램에 반영하려면</h3>
     <ul>
-      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>📅 Gather one day</b> tab collects everything you edited that day) and send the code to the program administrator (<a href='mailto:sht0230@naver.com'>sht0230@naver.com</a>). We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>📅 하루치 모아서</b>를 누르면 그날 수정한 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<a href="mailto:sht0230@naver.com">sht0230@naver.com</a>)에게 보내 주세요. 확인 후 프로그램을 업데이트할게요.</li>
+      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>② Edited today</b> tab collects everything you edited that day) and send the code to the program administrator (<a href='mailto:sht0230@naver.com'>sht0230@naver.com</a>). We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>② 오늘 수정한 것</b>을 누르면 그날 수정한 절이 한 번에 모여요. (① 선택한 절에서는 지금 보는 절이 기본으로 체크돼 있고, 다른 절이나 a·b·c 페이지를 골라 담을 수 있어요.) 복사한 코드를 프로그램 관리자(<a href="mailto:sht0230@naver.com">sht0230@naver.com</a>)에게 보내 주세요. 확인 후 프로그램을 업데이트할게요.</li>
     </ul>
 
     <h3>🎞 슬라이드를 만들 때는</h3>
@@ -1062,12 +1072,20 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
     <p class="patch-sub" id="dbCodeSub"></p>
     <div class="wel-row" style="margin-bottom:10px">
       <span class="seg" id="dbScopeSeg">
-        <button type="button" data-scope="verse" class="active" title="지금 화면의 이 절만 (장 파일의 BibleDB.add([ ]) 안에 붙여넣기)">이 절</button>
-        <button type="button" data-scope="chap" title="이 장의 모든 절 줄들 (BibleDB.add([ ]) 안에 붙여넣기)">이 장 전체 줄</button>
-        <button type="button" data-scope="file" title="장 파일 내용 통째로 (파일 내용을 전부 지우고 붙여넣기)">장 파일 통째로</button>
-        <button type="button" data-scope="day" title="고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요">📅 하루치 모아서</button>
+        <button type="button" data-scope="pick" class="active" title="지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요">① 선택한 절</button>
+        <button type="button" data-scope="day" title="고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요">② 오늘 수정한 것</button>
       </span>
       <label class="field" id="dbDayWrap" hidden title="이 날짜에 수정한 절을 모아요 (기본: 오늘)"><span>날짜</span><input type="date" id="dbDayInput"></label>
+    </div>
+    <div id="dbPickWrap">
+      <div class="wel-row" style="margin-bottom:6px">
+        <label class="field"><span>성경</span><select id="dcBook"></select></label>
+        <label class="field"><span>장</span><select id="dcChap"></select></label>
+        <button type="button" class="btn quiet" id="dcAll">이 장 전체 선택</button>
+        <button type="button" class="btn quiet" id="dcNone">전체 해제</button>
+        <span class="dbstat" id="dcCount"></span>
+      </div>
+      <div class="dc-list" id="dcList"></div>
     </div>
     <textarea id="dbCodeText" class="copy-text" spellcheck="false"></textarea>
     <div class="copy-actions">
@@ -3385,7 +3403,7 @@ const dbBook = document.getElementById("dbBook"), dbChap = document.getElementBy
 let dbBroken = false, dbSlideSnap = null, dbSeq = 0, dbMiss = false;
 const dbChapSeen = new Map(); // "책|장" → 내용이 있는 절 수(열어 본 장만 앎)
 let dbVerseHas = new Set();   // 지금 장에서 초안 또는 장 파일에 내용이 있는 절 번호
-dbVerse.title = "✎ 표시: 초안이 장 파일(코드)과 달라요 — 🧩 DB 코드 복사로 파일에 반영하세요";
+dbVerse.title = "✎ 표시: 내가 수정한 절 — 🧩 DB 코드 복사로 관리자에게 보내 주세요";
 dbRoot.dataset.mode = "slide";
 
 function dbRead() {
@@ -3455,9 +3473,7 @@ function dbMarkVerses() {
   Object.keys(d).forEach(k => { if (!k.startsWith(pre)) return; const v = parseInt(k.slice(pre.length), 10); if ((d[k] || []).some(filled)) has.add(v); else has.delete(v); }); // 빈 초안 = 일부러 비운 절
   dbVerseHas = has; dbChapSeen.set(s.en + "|" + s.ch, has.size);
   [...dbVerse.options].forEach(o => { const t = o.value + (pend.has(+o.value) ? " ✎" : ""); if (o.textContent !== t) o.textContent = t; });
-  const cur = d[dbKey(s)], nf = fileBy.get(s.v) ? fileBy.get(s.v).length : 0;
-  const base = cur ? "✏️ 저장된 초안 · " + "슬라이드 " + cur.length + "장" : nf ? "📄 장 파일에 하드 코딩된 내용 · " + "슬라이드 " + nf + "장" : "비어 있음";
-  dbStat.textContent = base + (dbMiss ? " · ⚠ 장 파일(" + BibleDB.path(s.en, s.ch) + ")을 못 찾았어요" : "") + (pend.size ? " · ✎ 코드에 아직 반영 안 된 절 " + pend.size + "개" : " · 이 장은 코드와 일치");
+  dbStat.textContent = dbMiss ? "⚠ 장 파일(" + BibleDB.path(s.en, s.ch) + ")을 못 찾았어요" : ""; // 문제가 있을 때만 표시
 }
 function dbSource(s) {
   const o = dbRead(), k = dbKey(s);
@@ -4096,7 +4112,6 @@ document.querySelectorAll("#modeSeg button").forEach(b => b.addEventListener("cl
 // ---- DB 코드 복사: {Bible:"John",Chapter:3,Verse:16,Page:1,Kor:"",Chn:"",Eng:"",Ind:""}, 형식 ----
 const dbCodeOverlay = document.getElementById("dbCodeOverlay"), dbCodeText = document.getElementById("dbCodeText"),
       dbCodeSub = document.getElementById("dbCodeSub"), dbScopeSeg = document.getElementById("dbScopeSeg");
-let dbScope = "verse";
 const jq = JSON.stringify; // 따옴표·줄바꿈을 코드에 안전하게 넣기
 function dbLine(en, ch, v, i, p) {
   const rangeEnd = p.ChnVerseEnd > v ? ",ChnVerseEnd:" + p.ChnVerseEnd : "";
@@ -4150,44 +4165,123 @@ function buildDbDayCode() {
   });
   return out.join("\n");
 }
+// ① 선택한 절: 책·장을 바꿔 가며 절 / 페이지(a·b·c)를 체크해 한 번에 모음. 선택은 장을 옮겨도 유지됨.
+// 선택 키 = "책|장|절|페이지번호(0부터)"
+const dcBook = document.getElementById("dcBook"), dcChap = document.getElementById("dcChap"), dcList = document.getElementById("dcList"),
+      dcCount = document.getElementById("dcCount"), dbPickWrap = document.getElementById("dbPickWrap");
+let dbScope = "pick", dcSel = new Set(), dcSeq = 0;
+if (window.BibleDB) BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; dcBook.appendChild(o); });
+const pgName = i => String.fromCharCode(97 + (i % 26)); // a, b, c ...
+const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
+function dcEntries(en, ch) { return dbChapterEntries(en, ch).map(([v, pages]) => [v, pages.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]).filter(e => e[1].length); }
+function dcKey(en, ch, v, i) { return en + "|" + ch + "|" + v + "|" + i; }
+function dcUpdateCount() {
+  const verses = new Set([...dcSel].map(k => k.split("|").slice(0, 3).join("|")));
+  dcCount.textContent = dcSel.size ? "선택 " + verses.size + "절 · " + dcSel.size + "페이지" : "선택 없음";
+}
+async function dcRender() {
+  const en = dcBook.value, ch = +dcChap.value || 1, seq = ++dcSeq;
+  dcList.textContent = "불러오는 중...";
+  try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
+  if (seq !== dcSeq) return;
+  const drafts = dbRead().d, entries = dcEntries(en, ch);
+  dcList.textContent = "";
+  if (!entries.length) { const d = document.createElement("div"); d.className = "dc-none"; d.textContent = "이 장에는 내용이 있는 절이 없어요."; dcList.appendChild(d); dcUpdateCount(); return; }
+  entries.forEach(([v, pgs]) => {
+    const row = document.createElement("div"); row.className = "dc-v";
+    const lab = document.createElement("label"), vc = document.createElement("input"), num = document.createElement("span");
+    vc.type = "checkbox"; num.className = "dc-num"; num.textContent = v + (drafts[en + "|" + ch + "|" + v] ? " ✎" : "");
+    lab.append(vc, num); row.appendChild(lab);
+    const boxes = pgs.map(({ p, i }) => {
+      const k = dcKey(en, ch, v, i);
+      if (pgs.length === 1) return { k, c: vc };
+      const l = document.createElement("label"), c = document.createElement("input"), t = document.createElement("span");
+      c.type = "checkbox"; t.className = "dc-pg"; t.textContent = pgName(i); l.append(c, t); row.appendChild(l);
+      return { k, c };
+    });
+    const sync = () => { // 절 체크박스: 모든 페이지가 체크됐을 때만 체크, 일부면 반쯤(indeterminate)
+      const n = pgs.length === 1 ? 0 : boxes.filter(x => dcSel.has(x.k)).length;
+      if (pgs.length === 1) { vc.checked = dcSel.has(boxes[0].k); return; }
+      vc.checked = n === boxes.length; vc.indeterminate = n > 0 && n < boxes.length;
+    };
+    boxes.forEach(({ k, c }) => { if (c !== vc) { c.checked = dcSel.has(k); c.addEventListener("change", () => { if (c.checked) dcSel.add(k); else dcSel.delete(k); sync(); dcUpdateCount(); refreshDbCode(); }); } });
+    vc.addEventListener("change", () => {
+      boxes.forEach(({ k, c }) => { if (vc.checked) dcSel.add(k); else dcSel.delete(k); if (c !== vc) c.checked = vc.checked; });
+      sync(); dcUpdateCount(); refreshDbCode();
+    });
+    sync();
+    const pv = document.createElement("span"); pv.className = "dc-pv";
+    const f = pgs[0].p; pv.textContent = (f.Kor || f.Eng || f.Chn || f.Ind || "").replace(/\s+/g, " ").slice(0, 60);
+    row.appendChild(pv); dcList.appendChild(row);
+  });
+  dcUpdateCount();
+}
+dcBook.addEventListener("change", () => { fillNum(dcChap, BibleDB.book(dcBook.value).chapters, 1); dcRender(); refreshDbCode(); });
+dcChap.addEventListener("change", () => { dcRender(); });
+document.getElementById("dcAll").addEventListener("click", () => {
+  const en = dcBook.value, ch = +dcChap.value || 1;
+  dcEntries(en, ch).forEach(([v, pgs]) => pgs.forEach(({ i }) => dcSel.add(dcKey(en, ch, v, i))));
+  dcRender().then(refreshDbCode);
+});
+document.getElementById("dcNone").addEventListener("click", () => { dcSel.clear(); dcRender().then(refreshDbCode); });
+
+function dcBuildPickCode() {
+  const order = new Map(); BibleDB.books.forEach((b, i) => order.set(b.en, +b.no > 0 ? +b.no : i + 1));
+  const items = [...dcSel].map(k => { const q = k.split("|"); return { en: q[0], ch: +q[1], v: +q[2], i: +q[3] }; })
+    .sort((a, b) => (order.get(a.en) || 999) - (order.get(b.en) || 999) || a.ch - b.ch || a.v - b.v || a.i - b.i);
+  if (!items.length) return "";
+  const cache = new Map(), pageOf = x => {
+    const ck = x.en + "|" + x.ch; if (!cache.has(ck)) cache.set(ck, new Map(dbChapterEntries(x.en, x.ch)));
+    const pages = cache.get(ck).get(x.v); return pages && pages[x.i];
+  };
+  const out = ["// 같은 절의 기존 줄이 있으면 지우고, 장마다 안내된 파일의 BibleDB.add([ ]) 안에 붙여넣어 주세요.", ""];
+  let cur = "";
+  items.forEach(x => {
+    const p = pageOf(x); if (!p) return;
+    const key = x.en + "|" + x.ch;
+    if (key !== cur) { cur = key; if (out[out.length - 1] !== "") out.push(""); out.push("// ━━ " + BibleDB.book(x.en).ko + " " + x.ch + "장 (" + x.en + " " + x.ch + ") → " + BibleDB.path(x.en, x.ch) + " ━━"); }
+    out.push(dbLine(x.en, x.ch, x.v, x.i, p));
+  });
+  return out.join("\n");
+}
 function buildDbCode() {
-  const s = dbCur; if (!s) return "";
   saveDbNow(); // 지금 화면의 내용까지 초안에 반영한 뒤 뽑음
-  if (dbScope === "day") return buildDbDayCode();
-  const entries = dbChapterEntries(s.en, s.ch), book = BibleDB.book(s.en);
-  const rowsOf = list => list.flatMap(([v, pages]) => pages.map((p, i) => dbLine(s.en, s.ch, v, i, p)));
-  if (dbScope === "verse") {
-    const e = entries.find(x => x[0] === s.v);
-    return e ? rowsOf([e]).join("\n") : "";
-  }
-  const lines = rowsOf(entries);
-  if (dbScope === "chap") return lines.join("\n");
-  const last = entries.length ? entries[entries.length - 1][0] : 0;
-  return "// " + book.ko + " " + s.ch + "장 · " + s.en + " " + s.ch + "\n"
-    + "BibleDB.ref(" + jq(s.en) + "," + s.ch + "," + Math.max(BibleDB.verses(s.en, s.ch), last) + ");\n"
-    + "BibleDB.add([\n" + lines.join("\n") + (lines.length ? "\n" : "") + "]);\n";
+  return dbScope === "day" ? buildDbDayCode() : dcBuildPickCode();
 }
 function refreshDbCode() {
-  const s = dbCur, code = buildDbCode();
+  const code = buildDbCode();
   dbCodeText.value = code;
-  const where = BibleDB.path(s.en, s.ch), book = BibleDB.book(s.en).ko;
-  dbCodeSub.textContent = ({
-    verse: book + " " + s.ch + ":" + s.v + " · 붙여넣을 곳: " + where + " 의 BibleDB.add([ ]) 안. 그 절의 기존 줄이 있으면 지우고 붙여넣어 주세요.",
-    chap: book + " " + s.ch + "장 전체 · 붙여넣을 곳: " + where + " 의 BibleDB.add([ ]) 안. 기존 줄은 지우고 붙여넣어 주세요.",
-    file: book + " " + s.ch + "장 · " + where + " 파일의 내용을 전부 지우고 이 내용으로 바꿔 주세요.",
-    day: (() => { const r = dbDayList(); return r.day + " 에 수정한 절을 모두 모았어요(" + r.list.length + "절). 이 내용을 그대로 복사해 관리자(sht0230@naver.com)에게 보내 주세요." + (r.undated ? " · 수정 날짜가 기록되지 않은 이전 초안 " + r.undated + "절은 포함되지 않아요(이 장 전체 줄로 따로 복사)." : ""); })(),
-  })[dbScope] + (code ? "" : dbScope === "day" ? " (그 날짜에 수정한 절이 없어요 — 날짜를 바꿔 보세요)" : " (내용이 없어요)");
+  if (dbScope === "day") {
+    const r = dbDayList();
+    dbCodeSub.textContent = r.day + " 에 수정한 절을 모두 모았어요(" + r.list.length + "절). 이 내용을 그대로 복사해 관리자(sht0230@naver.com)에게 보내 주세요."
+      + (r.undated ? " · 수정 날짜가 기록되지 않은 이전 초안 " + r.undated + "절은 포함되지 않아요(① 선택한 절에서 체크해 복사하세요)." : "")
+      + (code ? "" : " (그 날짜에 수정한 절이 없어요 — 날짜를 바꿔 보세요)");
+  } else {
+    dbCodeSub.textContent = "지금 보고 있는 절이 체크돼 있어요. 성경·장을 바꿔 다른 절을 체크하거나, 같은 절의 페이지(a·b·c) 중 일부만 뺄 수도 있어요. 복사한 코드는 관리자(sht0230@naver.com)에게 보내 주세요."
+      + (code ? "" : " (체크한 절이 없어요)");
+  }
 }
-document.getElementById("dbCodeBtn").addEventListener("click", () => {
+function dbSetScope(sc) {
+  dbScope = sc; dbDayWrap.hidden = sc !== "day"; dbPickWrap.hidden = sc !== "pick";
+  dbScopeSeg.querySelectorAll("button").forEach(x => x.classList.toggle("active", x.dataset.scope === sc));
+  refreshDbCode();
+}
+document.getElementById("dbCodeBtn").addEventListener("click", async () => {
   if (dbBroken) { showToast("DB 초안을 읽지 못하는 상태라 코드를 만들지 않아요. 원본은 브라우저에 보관돼 있어요.", true); return; }
   if (!dbCur) { showToast("절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.", true); return; }
-  refreshDbCode(); dbCodeOverlay.classList.add("open");
-});
-dbScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
-  dbScope = b.dataset.scope; dbDayWrap.hidden = dbScope !== "day";
-  dbScopeSeg.querySelectorAll("button").forEach(x => x.classList.toggle("active", x === b));
+  const s = dbCur; saveDbNow();
+  dcSel = new Set(); // 열 때마다: 지금 보고 있는 절(모든 페이지)만 체크된 상태에서 시작
+  dcEntries(s.en, s.ch).forEach(([v, pgs]) => { if (v === s.v) pgs.forEach(({ i }) => dcSel.add(dcKey(s.en, s.ch, v, i))); });
+  dcBook.value = s.en; fillNum(dcChap, BibleDB.book(s.en).chapters, s.ch);
+  dbScope = "pick"; dbDayWrap.hidden = true; dbPickWrap.hidden = false;
+  dbScopeSeg.querySelectorAll("button").forEach(x => x.classList.toggle("active", x.dataset.scope === "pick"));
+  dbCodeOverlay.classList.add("open");
   refreshDbCode();
-}));
+  await dcRender();
+  const row = dcList.querySelector(".dc-v input:checked, .dc-v input:indeterminate"); // 체크된 절이 보이게 스크롤
+  if (row) row.closest(".dc-v").scrollIntoView({ block: "nearest" });
+});
+dbScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", () => dbSetScope(b.dataset.scope)));
 dbDayInput.addEventListener("change", () => { if (!dbDayInput.value) dbDayInput.value = dbToday(); refreshDbCode(); });
 document.getElementById("dbCodeCopy").addEventListener("click", () => {
   if (!dbCodeText.value.trim()) { showToast("복사할 내용이 없어요.", true); return; }
@@ -5622,7 +5716,7 @@ dbCodeOverlay.addEventListener("click", e => { if (e.target === dbCodeOverlay) d
     "이 슬라이드를 한 칸 위로":"Move this slide up one","이 슬라이드를 한 칸 아래로":"Move this slide down one","슬라이드 순서를 바꿨어요.":"Slide order changed.",
     "다국어 자막 정렬 도구":"Multilingual Subtitle Alignment Tool",
     "🎞 슬라이드 만들기":"🎞 Make slides","📖 성경 DB":"📖 Bible DB","슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기":"Make slides ↔ Build the Bible verse database",
-    "🧩 DB 코드 복사":"🧩 Copy DB code","🧹 로컬 데이터 지우기":"🧹 Clear local data","📖 성경 DB 사용 안내":"📖 Bible DB guide","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🧹 로컬 데이터":"🧹 Local data","확인했어요":"Got it","📅 하루치 모아서":"📅 Gather one day","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
+    "🧩 DB 코드 복사":"🧩 Copy DB code","🧹 로컬 데이터 지우기":"🧹 Clear local data","📖 성경 DB 사용 안내":"📖 Bible DB guide","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🧹 로컬 데이터":"🧹 Local data","확인했어요":"Got it","① 선택한 절":"① Selected verses","② 오늘 수정한 것":"② Edited today","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
     "이전 장":"Previous chapter","다음 장":"Next chapter","이전 절 (키보드 ←)":"Previous verse (keyboard ←)","다음 절 (키보드 →)":"Next verse (keyboard →)","이전 절":"Previous verse","다음 절":"Next verse",
     "성경의 첫 장이에요.":"This is the first chapter of the Bible.","성경의 마지막 장이에요.":"This is the last chapter of the Bible.","이 장의 첫 절이에요.":"This is the first verse of the chapter.",
     "이 장의 마지막 절이에요. 다음 장은 장 옆 ▶ 버튼을 눌러 주세요.":"This is the last verse of the chapter. Press the ▶ next to Chapter to go to the next chapter.",
@@ -5747,9 +5841,11 @@ dbCodeOverlay.addEventListener("click", e => { if (e.target === dbCodeOverlay) d
     [/^이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요\..*?(?:현재 (\d+)절)?\n\n✅.*$/s, n => "This deletes all local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n· Your own Bible verse edits (DB drafts)" + (n ? " — currently " + n + " verses" : "") + "\n\n✅ The original DB published on the website is NOT deleted. It loads again as usual.\n⚠ Your own edits can't be restored, so first send them to the administrator with '🧩 Copy DB code', and save any script you need as a file in 🛡️ Backup·Restore.\n\nContinue?"],
     [/^마지막 확인이에요\.\n\n내가 수정한 성경 구절 (\d+)절이.*$/s, n => "Final check.\n\n" + n + " Bible verses you edited will be permanently removed from this PC. Did you send the DB code to the administrator?\n\nReally delete?"]
 ,
-    [/^(\d{4}-\d{2}-\d{2}) 에 수정한 절을 모두 모았어요\((\d+)절\)\. .*?(?: · 수정 날짜가 기록되지 않은 이전 초안 (\d+)절.*)?$/s, (d, n, u) => "Gathered every verse edited on " + d + " (" + n + " verses). Copy this as is and send it to the administrator (sht0230@naver.com)." + (u ? " · " + u + " older drafts have no edit date and are not included (copy them separately with 'Whole chapter lines')." : "")],
+    [/^(\d{4}-\d{2}-\d{2}) 에 수정한 절을 모두 모았어요\((\d+)절\)\. .*?(?: · 수정 날짜가 기록되지 않은 이전 초안 (\d+)절.*)?$/s, (d, n, u) => "Gathered every verse edited on " + d + " (" + n + " verses). Copy this as is and send it to the administrator (sht0230@naver.com)." + (u ? " · " + u + " older drafts have no edit date and are not included (check and copy them in ① Selected verses)." : "")],
     [/^ \(그 날짜에 수정한 절이 없어요.*$/s, () => " (No verses were edited on that date — try another date)"]
-  ];
+,
+    [/^지금 보고 있는 절이 체크돼 있어요\..*?(\(체크한 절이 없어요\))?$/s, x => "The verse you are viewing is checked. Change the book/chapter to check other verses, or uncheck some pages (a·b·c) of the same verse. Send the copied code to the administrator (sht0230@naver.com)." + (x ? " (No verses checked)" : "")],
+    [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];
   function T(s) {
     const k = s.trim(); if (!k) return s;
     let v = EN[k];
