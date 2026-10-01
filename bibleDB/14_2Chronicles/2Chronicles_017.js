@@ -95,7 +95,7 @@ BibleDB.add([
   {Bible:"2Chronicles", Chapter:17, Verse:16, Page:1,
     Kor:"그 다음으로는 주님을 위하여 자원하여 나선 시그리의 아들 아마샤가 용사 이십만 명을 거느렸다.",
     Chn:"其次是，细基利的儿子亚玛斯雅（他为耶和华牺牲自己）率领大能的勇士—二十万。",
-    Eng:"next, Amasiah son of Zicri, who volunteered himself for the service of the LORD, with",
+    Eng:"next, Amasiah son of Zicri, who volunteered himself for the service of the LORD, with 200,000.",
     Ind:"dan di samping dia Amasia bin Zikhri, yang dengan sukarela telah menyerahkan dirinya kepada TUHAN, dengan dua ratus ribu pahlawan yang gagah perkasa."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:17, Page:1,

@@ -35,19 +35,19 @@ BibleDB.add([
   {Bible:"Revelation", Chapter:7, Verse:6, Page:1,
     Kor:"아셀 지파에서 일만 이천 명이요, 납달리 지파에서 일만 이천 명이요, 므낫세 지파에서 일만 이천 명이요,",
     Chn:"亚设支派中有一万二千；拿弗他利支派中有一万二千；玛拿西支派中有一万二千；",
-    Eng:"from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh",
+    Eng:"from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,",
     Ind:"dari suku Asyer dua belas ribu, dari suku Naftali dua belas ribu, dari suku Manasye dua belas ribu,"
   },
   {Bible:"Revelation", Chapter:7, Verse:7, Page:1,
     Kor:"시므온 지파에서 일만 이천 명이요, 레위 지파에서 일만 이천 명이요, 잇사갈 지파에서 일만 이천 명이요,",
     Chn:"西缅支派中有一万二千；利未支派中有一万二千；以萨迦支派中有一万二千；",
-    Eng:"from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar",
+    Eng:"from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,",
     Ind:"dari suku Simeon dua belas ribu, dari suku Lewi dua belas ribu, dari suku Isakhar dua belas ribu,"
   },
   {Bible:"Revelation", Chapter:7, Verse:8, Page:1,
     Kor:"스불론 지파에서 일만 이천 명이요, 요셉 지파에서 일만 이천 명이요, 베냐민 지파에서 일만 이천 명이었습니다.",
     Chn:"西布伦支派中有一万二千；约瑟支派中有一万二千；便雅悯支派中受印的有一万二千。",
-    Eng:"from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin",
+    Eng:"from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000.",
     Ind:"dari suku Zebulon dua belas ribu, dari suku Yusuf dua belas ribu, dari suku Benyamin dua belas ribu."
   },
   {Bible:"Revelation", Chapter:7, Verse:9, Page:1,

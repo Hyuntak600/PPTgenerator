@@ -1,4 +1,4 @@
-Genesis
+﻿Genesis
 1:1 In the beginning God created the heavens and the earth.
 1:2 Now the earth was formless and empty, darkness was over the surface of the deep, and the  Spirit of God was hovering over the waters.
 1:3 And God said, "Let there be light," and there was light.
@@ -10576,8 +10576,7 @@ Ruth
 7:37 Bezer, Hod, Shamma, Shilshah, Ithran and Beera.
 7:38 The sons of Jether: Jephunneh, Pispah and Ara.
 7:39 The sons of Ulla: Arah, Hanniel and Rizia.
-7:40 All these were descendants of Asher--heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 
-26,000.
+7:40 All these were descendants of Asher--heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000.
 8:1 Benjamin was the father of Bela his firstborn, Ashbel the second son, Aharah the third,
 8:2 Nohah the fourth and Rapha the fifth.
 8:3 The sons of Bela were: Addar, Gera, Abihud,
@@ -10937,268 +10936,266 @@ Ruth
 20:6 In still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot--twenty-four in all. He also was descended from Rapha.
 20:7 When he taunted Israel, Jonathan son of Shimea, David's brother, killed him.
 20:8 These were descendants of Rapha in Gath, and they fell at the hands of David and his men. 
-21:1 Then David said, "The house of the LORD God is to be here, and also the altar of burnt offering for Israel."
-21:2 So David gave orders to assemble the aliens living in Israel, and from among them he appointed stonecutters to prepare dressed stone for building the house of God.
-21:3 He provided a large amount of iron to make nails for the doors of the gateways and for the fittings, and more bronze than could be weighed.
-21:4 He also provided more cedar logs than could be counted, for the Sidonians and Tyrians had brought large numbers of them to David.
-21:5 David said, "My son Solomon is young and inexperienced, and the house to be built for the LORD should be of great magnificence and fame and splendor in the sight of all the nations. Therefore I will make preparations for it." So David made extensive preparations before his death.
-21:6 Then he called for his son Solomon and charged him to build a house for the LORD, the God of Israel.
-21:7 David said to Solomon: "My son, I had it in my heart to build a house for the Name of the LORD my God.
-21:8 But this word of the LORD came to me: 'You have shed much blood and have fought many wars. You are not to build a house for my Name, because you have shed much blood on the earth in my sight.
-21:9 But you will have a son who will be a man of peace and rest, and I will give him rest from all his enemies on every side. His name will be Solomon, and I will grant Israel peace and quiet during his reign.
-21:10 He is the one who will build a house for my Name. He will be my son, and I will be his father. And I will establish the throne of his kingdom over Israel forever.'
-21:11 "Now, my son, the LORD be with you, and may you have success and build the house of the LORD your God, as he said you would.
-21:12 May the LORD give you discretion and understanding when he puts you in command over Israel, so that you may keep the law of the LORD your God.
-21:13 Then you will have success if you are careful to observe the decrees and laws that the LORD gave Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.
-21:14 "I have taken great pains to provide for the temple of the LORD a hundred thousand talents of gold, a million talents of silver, quantities of bronze and iron too great to be weighed, and wood and stone. And you may add to them.
-21:15 You have many workmen: stonecutters, masons and carpenters, as well as men skilled in every kind of work
-21:16 in gold and silver, bronze and iron--craftsmen beyond number. Now begin the work, and the LORD be with you."
-21:17 Then David ordered all the leaders of Israel to help his son Solomon.
-21:18 He said to them, "Is not the LORD your God with you? And has he not granted you rest on every side? For he has handed the inhabitants of the land over to me, and the land is subject to the LORD and to his people.
-21:19 Now devote your heart and soul to seeking the LORD your God. Begin to build the sanctuary of the LORD God, so that you may bring the ark of the covenant of the LORD and the sacred articles belonging to God into the temple that will be built for the Name of the LORD." 
-22:1 When David was old and full of years, he made his son Solomon king over Israel.
-22:2 He also gathered together all the leaders of Israel, as well as the priests and Levites.
-22:3 The Levites thirty years old or more were counted, and the total number of men was thirty-eight thousand.
-22:4 David said, "Of these, twenty-four thousand are to supervise the work of the temple of the LORD and six thousand are to be officials and judges.
-22:5 Four thousand are to be gatekeepers and four thousand are to praise the LORD with the musical instruments I have provided for that purpose."
-22:6 David divided the Levites into groups corresponding to the sons of Levi: Gershon, Kohath and Merari.
-22:7 Belonging to the Gershonites: Ladan and Shimei.
-22:8 The sons of Ladan: Jehiel the first, Zetham and Joel--three in all.
-22:9 The sons of Shimei: Shelomoth, Haziel and Haran--three in all. These were the heads of the families of Ladan.
-22:10 And the sons of Shimei: Jahath, Ziza, Jeush and Beriah. These were the sons of Shimei--four in all.
-22:11 Jahath was the first and Ziza the second, but Jeush and Beriah did not have many sons; so they were counted as one family with one assignment.
-22:12 The sons of Kohath: Amram, Izhar, Hebron and Uzziel--four in all.
-22:13 The sons of Amram: Aaron and Moses. Aaron was set apart, he and his descendants forever, to consecrate the most holy things, to offer sacrifices before the LORD, to minister before him and to pronounce blessings in his name forever.
-22:14 The sons of Moses the man of God were counted as part of the tribe of Levi.
-22:15 The sons of Moses: Gershom and Eliezer.
-22:16 The descendants of Gershom: Shubael was the first.
-22:17 The descendants of Eliezer: Rehabiah was the first. Eliezer had no other sons, but the sons of Rehabiah were very numerous.
-22:18 The sons of Izhar: Shelomith was the first.
-22:19 The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.
-22:20 The sons of Uzziel: Micah the first and Isshiah the second.
-22:21 The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.
-22:22 Eleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them.
-22:23 The sons of Mushi: Mahli, Eder and Jerimoth--three in all.
-22:24 These were the descendants of Levi by their families--the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more who served in the temple of the LORD.
-22:25 For David had said, "Since the LORD, the God of Israel, has granted rest to his people and has come to dwell in Jerusalem forever,
-22:26 the Levites no longer need to carry the tabernacle or any of the articles used in its service."
-22:27 According to the last instructions of David, the Levites were counted from those twenty years old or more.
-22:28 The duty of the Levites was to help Aaron's descendants in the service of the temple of the LORD: to be in charge of the courtyards, the side rooms, the purification of all sacred things and the performance of other duties at the house of God.
-22:29 They were in charge of the bread set out on the table, the flour for the grain offerings, the unleavened wafers, the baking and the mixing, and all measurements of quantity and size.
-22:30 They were also to stand every morning to thank and praise the LORD. They were to do the same in the evening
-22:31 and whenever burnt offerings were presented to the LORD on Sabbaths and at New Moon festivals and at appointed feasts. They were to serve before the LORD regularly in the proper number and in the way prescribed for them.
-22:32 And so the Levites carried out their responsibilities for the Tent of Meeting, for the Holy Place and, under their brothers the descendants of Aaron, for the service of the temple of the LORD. 
-23:1 These were the divisions of the sons of Aaron: The sons of Aaron were Nadab, Abihu, Eleazar and Ithamar.
-23:2 But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as the priests.
-23:3 With the help of Zadok a descendant of Eleazar and Ahimelech a descendant of Ithamar, David separated them into divisions for their appointed order of ministering.
-23:4 A larger number of leaders were found among Eleazar's descendants than among Ithamar's, and they were divided accordingly: sixteen heads of families from Eleazar's descendants and eight heads of families from Ithamar's descendants.
-23:5 They divided them impartially by drawing lots, for there were officials of the sanctuary and officials of God among the descendants of both Eleazar and Ithamar.
-23:6 The scribe Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officials: Zadok the priest, Ahimelech son of Abiathar and the heads of families of the priests and of the Levites--one family being taken from Eleazar and then one from Ithamar.
-23:7 The first lot fell to Jehoiarib, the second to Jedaiah,
-23:8 the third to Harim, the fourth to Seorim,
-23:9 the fifth to Malkijah, the sixth to Mijamin,
-23:10 the seventh to Hakkoz, the eighth to Abijah,
-23:11 the ninth to Jeshua, the tenth to Shecaniah,
-23:12 the eleventh to Eliashib, the twelfth to Jakim,
-23:13 the thirteenth to Huppah, the fourteenth to Jeshebeab,
-23:14 the fifteenth to Bilgah, the sixteenth to Immer,
-23:15 the seventeenth to Hezir, the eighteenth to Happizzez,
-23:16 the nineteenth to Pethahiah, the twentieth to Jehezkel,
-23:17 the twenty-first to Jakin, the twenty-second to Gamul,
-23:18 the twenty-third to Delaiah and the twenty-fourth to Maaziah.
-23:19 This was their appointed order of ministering when they entered the temple of the LORD, according to the regulations prescribed for them by their forefather Aaron, as the LORD, the God of Israel, had commanded him.
-23:20 As for the rest of the descendants of Levi: from the sons of Amram: Shubael; from the sons of Shubael: Jehdeiah.
-23:21 As for Rehabiah, from his sons: Isshiah was the first.
-23:22 From the Izharites: Shelomoth; from the sons of Shelomoth: Jahath.
-23:23 The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.
-23:24 The son of Uzziel: Micah; from the sons of Micah: Shamir.
-23:25 The brother of Micah: Isshiah; from the sons of Isshiah: Zechariah.
-23:26 The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.
-23:27 The sons of Merari: from Jaaziah: Beno, Shoham, Zaccur and Ibri.
-23:28 From Mahli: Eleazar, who had no sons.
-23:29 From Kish: the son of Kish: Jerahmeel.
-23:30 And the sons of Mushi: Mahli, Eder and Jerimoth. These were the Levites, according to their families.
-23:31 They also cast lots, just as their brothers the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelech, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest. 
-24:1 David, together with the commanders of the army, set apart some of the sons of Asaph, Heman and Jeduthun for the ministry of prophesying, accompanied by harps, lyres and cymbals. Here is the list of the men who performed this service:
-24:2 From the sons of Asaph: Zaccur, Joseph, Nethaniah and Asarelah. The sons of Asaph were under the supervision of Asaph, who prophesied under the king's supervision.
-24:3 As for Jeduthun, from his sons: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the LORD.
-24:4 As for Heman, from his sons: Bukkiah, Mattaniah, Uzziel, Shubael and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti and Romamti-Ezer; Joshbekashah, Mallothi, Hothir and Mahazioth.
-24:5 All these were sons of Heman the king's seer. They were given him through the promises of God to exalt him. God gave Heman fourteen sons and three daughters.
-24:6 All these men were under the supervision of their fathers for the music of the temple of the LORD, with cymbals, lyres and harps, for the ministry at the house of God. Asaph, Jeduthun and Heman were under the supervision of the king.
-24:7 Along with their relatives--all of them trained and skilled in music for the LORD--they numbered 288.
-24:8 Young and old alike, teacher as well as student, cast lots for their duties.
-24:9 The first lot, which was for Asaph, fell to Joseph, his sons and relatives,
-24:12 the second to Gedaliah, he and his relatives and sons,
-24:10 the third to Zaccur, his sons and relatives,
-24:11 the fourth to Izri, his sons and relatives, 
-24:12 the fifth to Nethaniah, his sons and relatives,
-24:13 the sixth to Bukkiah, his sons and relatives,
-24:14 the seventh to Jesarelah, his sons and relatives,
-24:15 the eighth to Jeshaiah, his sons and relatives,
-24:16 the ninth to Mattaniah, his sons and relatives,
-24:17 the tenth to Shimei, his sons and relatives,
-24:18 the eleventh to Azarel, his sons and relatives,
-24:19 the twelfth to Hashabiah, his sons and relatives,
-24:20 the thirteenth to Shubael, his sons and relatives,
-24:21 the fourteenth to Mattithiah, his sons and relatives,
-24:22 the fifteenth to Jerimoth, his sons and relatives,
-24:23 the sixteenth to Hananiah, his sons and relatives,
-24:24 the seventeenth to Joshbekashah, his sons and relatives,
-24:25 the eighteenth to Hanani, his sons and relatives,
-24:26 the nineteenth to Mallothi, his sons and relatives,
-24:27 the twentieth to Eliathah, his sons and relatives,
-24:28 the twenty-first to Hothir, his sons and relatives,
-24:29 the twenty-second to Giddalti, his sons and relatives,
-24:30 the twenty-third to Mahazioth, his sons and relatives,
-24:31 the twenty-fourth to Romamti-Ezer, his sons and relatives,
-25:1 The divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.
-25:2 Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
-25:3 Elam the fifth, Jehohanan the sixth and Eliehoenai the seventh.
-25:4 Obed-Edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
-25:5 Ammiel the sixth, Issachar the seventh and Peullethai the eighth. (For God had blessed Obed-Edom.)
-25:6 His son Shemaiah also had sons, who were leaders in their father's family because they were very capable men.
-25:7 The sons of Shemaiah: Othni, Rephael, Obed and Elzabad; his relatives Elihu and Semakiah were also able men.
-25:8 All these were descendants of Obed-Edom; they and their sons and their relatives were capable men with the strength to do the work--descendants of Obed-Edom, 62 in all.
-25:9 Meshelemiah had sons and relatives, who were able men--18 in all.
-25:10 Hosah the Merarite had sons: Shimri the first (although he was not the firstborn, his father had appointed him the first),
-25:11 Hilkiah the second, Tabaliah the third and Zechariah the fourth. The sons and relatives of Hosah were
-25:13 in all.
-25:12 These divisions of the gatekeepers, through their chief men, had duties for ministering in the temple of the LORD, just as their relatives had. 13 Lots were cast for each gate, according to their families, young and old alike.
-25:14 The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zechariah, a wise counselor, and the lot for the North Gate fell to him.
-25:15 The lot for the South Gate fell to Obed-Edom, and the lot for the storehouse fell to his sons.
-25:16 The lots for the West Gate and the Shalleketh Gate on the upper road fell to Shuppim and Hosah. Guard was alongside of guard:
-25:17 There were six Levites a day on the east, four a day on the north, four a day on the south and two at a time at the storehouse.
-25:18 As for the court to the west, there were four at the road and two at the court itself.
-25:19 These were the divisions of the gatekeepers who were descendants of Korah and Merari.
-25:20 Their fellow Levites were in charge of the treasuries of the house of God and the treasuries for the dedicated things.
-25:21 The descendants of Ladan, who were Gershonites through Ladan and who were heads of families belonging to Ladan the Gershonite, were Jehieli,
-25:22 the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries of the temple of the LORD.
-25:23 From the Amramites, the Izharites, the Hebronites and the Uzzielites:
-25:24 Shubael, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.
-25:25 His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zicri his son and Shelomith his son.
-25:26 Shelomith and his relatives were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders.
-25:27 Some of the plunder taken in battle they dedicated for the repair of the temple of the LORD.
-25:28 And everything dedicated by Samuel the seer and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.
-25:29 From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges over Israel.
-25:30 From the Hebronites: Hashabiah and his relatives--seventeen hundred able men--were responsible in Israel west of the Jordan for all the work of the LORD and for the king's service.
-25:31 As for the Hebronites, Jeriah was their chief according to the genealogical records of their families. In the fortieth year of David's reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead.
-25:32 Jeriah had twenty-seven hundred relatives, who were able men and heads of families, and King David put them in charge of the Reubenites, the Gadites and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king. 
-26:1 This is the list of the Israelites--heads of families, commanders of thousands and commanders of hundreds, and their officers, who served the king in all that concerned the army divisions that were on duty month by month throughout the year. Each division consisted of 24,000 men.
-26:2 In charge of the first division, for the first month, was Jashobeam son of Zabdiel. There were 24,000 men in his division.
-26:3 He was a descendant of Perez and chief of all the army officers for the first month.
-26:4 In charge of the division for the second month was Dodai the Ahohite; Mikloth was the leader of his division. There were 24,000 men in his division.
-26:5 The third army commander, for the third month, was Benaiah son of Jehoiada the priest. He was chief and there were 24,000 men in his division.
-26:6 This was the Benaiah who was a mighty man among the Thirty and was over the Thirty. His son Ammizabad was in charge of his division.
-26:7 The fourth, for the fourth month, was Asahel the brother of Joab; his son Zebadiah was his successor. There were 24,000 men in his division.
-26:8 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.
-26:9 The sixth, for the sixth month, was Ira the son of Ikkesh the Tekoite. There were 24,000 men in his division.
-26:10 The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 
-24,000 men in his division.
-26:11 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. There were 
-24,000 men in his division.
-26:12 The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.
-26:13 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.
-26:14 The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.
-26:15 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.
-26:16 The officers over the tribes of Israel: over the Reubenites: Eliezer son of Zicri; over the Simeonites: Shephatiah son of Maacah;
-26:17 over Levi: Hashabiah son of Kemuel; over Aaron: Zadok;
-26:18 over Judah: Elihu, a brother of David; over Issachar: Omri son of Michael;
-26:19 over Zebulun: Ishmaiah son of Obadiah; over Naphtali: Jerimoth son of Azriel;
-26:20 over the Ephraimites: Hoshea son of Azaziah; over half the tribe of Manasseh: Joel son of Pedaiah;
-26:21 over the half-tribe of Manasseh in Gilead: Iddo son of Zechariah; over Benjamin: Jaasiel son of Abner;
-26:22 over Dan: Azarel son of Jeroham. These were the officers over the tribes of Israel.
-26:23 David did not take the number of the men twenty years old or less, because the LORD had promised to make Israel as numerous as the stars in the sky.
-26:24 Joab son of Zeruiah began to count the men but did not finish. Wrath came on Israel on account of this numbering, and the number was not entered in the book of the annals of King David.
-26:25 Azmaveth son of Adiel was in charge of the royal storehouses. Jonathan son of Uzziah was in charge of the storehouses in the outlying districts, in the towns, the villages and the watchtowers.
-26:26 Ezri son of Kelub was in charge of the field workers who farmed the land.
-26:27 Shimei the Ramathite was in charge of the vineyards. Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine vats.
-26:28 Baal-Hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills. Joash was in charge of the supplies of olive oil.
-26:29 Shitrai the Sharonite was in charge of the herds grazing in Sharon. Shaphat son of Adlai was in charge of the herds in the valleys.
-26:30 Obil the Ishmaelite was in charge of the camels. Jehdeiah the Meronothite was in charge of the donkeys.
-26:31 Jaziz the Hagrite was in charge of the flocks. All these were the officials in charge of King David's property.
-26:32 Jonathan, David's uncle, was a counselor, a man of insight and a scribe. Jehiel son of Hacmoni took care of the king's sons.
-26:33 Ahithophel was the king's counselor. Hushai the Arkite was the king's friend.
-26:34 Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar. Joab was the commander of the royal army. 
-27:1 David summoned all the officials of Israel to assemble at Jerusalem: the officers over the tribes, the commanders of the divisions in the service of the king, the commanders of thousands and commanders of hundreds, and the officials in charge of all the property and livestock belonging to the king and his sons, together with the palace officials, the mighty men and all the brave warriors.
-27:2 King David rose to his feet and said: "Listen to me, my brothers and my people. I had it in my heart to build a house as a place of rest for the ark of the covenant of the LORD, for the footstool of our God, and I made plans to build it.
-27:3 But God said to me, 'You are not to build a house for my Name, because you are a warrior and have shed blood.'
-27:4 "Yet the LORD, the God of Israel, chose me from my whole family to be king over Israel forever. He chose Judah as leader, and from the house of Judah he chose my family, and from my father's sons he was pleased to make me king over all Israel.
-27:5 Of all my sons--and the LORD has given me many--he has chosen my son Solomon to sit on the throne of the kingdom of the LORD over Israel.
-27:6 He said to me: 'Solomon your son is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father.
-27:7 I will establish his kingdom forever if he is unswerving in carrying out my commands and laws, as is being done at this time.'
-27:8 "So now I charge you in the sight of all Israel and of the assembly of the LORD, and in the hearing of our God: Be careful to follow all the commands of the LORD your God, that you may possess this good land and pass it on as an inheritance to your descendants forever.
-27:9 "And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion and with a willing mind, for the LORD searches every heart and understands every motive behind the thoughts. If you seek him, he will be found by you; but if you forsake him, he will reject you forever.
-27:10 Consider now, for the LORD has chosen you to build a temple as a sanctuary. Be strong and do the work."
-27:11 Then David gave his son Solomon the plans for the portico of the temple, its buildings, its storerooms, its upper parts, its inner rooms and the place of atonement.
-27:12 He gave him the plans of all that the Spirit had put in his mind for the courts of the temple of the LORD and all the surrounding rooms, for the treasuries of the temple of God and for the treasuries for the dedicated things.
-27:13 He gave him instructions for the divisions of the priests and Levites, and for all the work of serving in the temple of the LORD, as well as for all the articles to be used in its service.
-27:14 He designated the weight of gold for all the gold articles to be used in various kinds of service, and the weight of silver for all the silver articles to be used in various kinds of service:
-27:15 the weight of gold for the gold lampstands and their lamps, with the weight for each lampstand and its lamps; and the weight of silver for each silver lampstand and its lamps, according to the use of each lampstand;
-27:16 the weight of gold for each table for consecrated bread; the weight of silver for the silver tables;
-27:17 the weight of pure gold for the forks, sprinkling bowls and pitchers; the weight of gold for each gold dish; the weight of silver for each silver dish;
-27:18 and the weight of the refined gold for the altar of incense. He also gave him the plan for the chariot, that is, the cherubim of gold that spread their wings and shelter the ark of the covenant of the LORD.
-27:19 "All this," David said, "I have in writing from the hand of the LORD upon me, and he gave me understanding in all the details of the plan."
-27:20 David also said to Solomon his son, "Be strong and courageous, and do the work. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will not fail you or forsake you until all the work for the service of the temple of the LORD is finished.
-27:21 The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing man skilled in any craft will help you in all the work. The officials and all the people will obey your every command." 
-28:1 Then King David said to the whole assembly: "My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the LORD God.
-28:2 With all my resources I have provided for the temple of my God--gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble--all of these in large quantities.
-28:3 Besides, in my devotion to the temple of my God I now give my personal treasures of gold and silver for the temple of my God, over and above everything I have provided for this holy temple:
-28:4 three thousand talents of gold (gold of Ophir) and seven thousand talents of refined silver, for the overlaying of the walls of the buildings,
-28:5 for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate himself today to the LORD?"
-28:6 Then the leaders of families, the officers of the tribes of Israel, the commanders of thousands and commanders of hundreds, and the officials in charge of the king's work gave willingly.
-28:7 They gave toward the work on the temple of God five thousand talents and ten thousand darics of gold, ten thousand talents of silver, eighteen thousand talents of bronze and a hundred thousand talents of iron.
-28:8 Any who had precious stones gave them to the treasury of the temple of the LORD in the custody of Jehiel the Gershonite.
-28:9 The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the LORD. David the king also rejoiced greatly.
-28:10 David praised the LORD in the presence of the whole assembly, saying, "Praise be to you, O LORD, God of our father Israel, from everlasting to everlasting.
-28:11 Yours, O LORD, is the greatness and the power and the glory and the majesty and the splendor, for everything in heaven and earth is yours. Yours, O LORD, is the kingdom; you are exalted as head over all.
-28:12 Wealth and honor come from you; you are the ruler of all things. In your hands are strength and power to exalt and give strength to all.
-28:13 Now, our God, we give you thanks, and praise your glorious name.
-28:14 "But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand.
-28:15 We are aliens and strangers in your sight, as were all our forefathers. Our days on earth are like a shadow, without hope.
-28:16 O LORD our God, as for all this abundance that we have provided for building you a temple for your Holy Name, it comes from your hand, and all of it belongs to you.
-28:17 I know, my God, that you test the heart and are pleased with integrity. All these things have I given willingly and with honest intent. And now I have seen with joy how willingly your people who are here have given to you.
-28:18 O LORD, God of our fathers Abraham, Isaac and Israel, keep this desire in the hearts of your people forever, and keep their hearts loyal to you.
-28:19 And give my son Solomon the wholehearted devotion to keep your commands, requirements and decrees and to do everything to build the palatial structure for which I have provided."
-28:20 Then David said to the whole assembly, "Praise the LORD your God." So they all praised the LORD, the God of their fathers; they bowed low and fell prostrate before the LORD and the king.
-28:21 The next day they made sacrifices to the LORD and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.
-28:22 They ate and drank with great joy in the presence of the LORD that day. Then they acknowledged Solomon son of David as king a second time, anointing him before the LORD to be ruler and Zadok to be priest.
-28:23 So Solomon sat on the throne of the LORD as king in place of his father David. He prospered and all Israel obeyed him.
-28:24 All the officers and mighty men, as well as all of King David's sons, pledged their submission to King Solomon.
-28:25 The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.
-28:26 David son of Jesse was king over all Israel.
-28:27 He ruled over Israel forty years--seven in Hebron and thirty-three in Jerusalem.
-28:28 He died at a good old age, having enjoyed long life, wealth and honor. His son Solomon succeeded him as king.
-28:29 As for the events of King David's reign, from beginning to end, they are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer,
-28:30 together with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands. 
-29:1 Then King David said to the whole assembly: "My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the LORD God.
-29:2 With all my resources I have provided for the temple of my God--gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble--all of these in large quantities.
+21:1 Satan rose up against Israel andincited David to take a census of Israel.
+21:2 So David said to Joab and the commanders of the troops, "Go and count the Israelites from Beersheba to Dan. Then report back to me so that I may know how many there are."
+21:3 But Joab replied, "May the Lord multiply his troops a hundred times over. My lord the king, are they not all my lord's subjects? Why does my lord want to do this? Why should he bring guilt on Israel?"
+21:4 The king's word, however, overruled Joab; so Joab left and went throughout Israel and then came back to Jerusalem.
+21:5 Joab reported the number of the fighting men to David: In all Israel there were one million one hundred thousand men who could handle a sword, including four hundred and seventy thousand in Judah.
+21:6 But Joab did not include Levi and Benjamin in the numbering, because the king's command was repulsive to him.
+21:7 This command was also evil in the sight of God; so he punished Israel.
+21:8 Then David said to God, "I have sinned greatly by doing this. Now, I beg you, take away the guilt of your servant. I have done a very foolish thing."
+21:9 The Lord said to Gad, David's seer,
+21:10 "Go and tell David, 'This is what the Lord says: I am giving you three options. Choose one of them for me to carry out against you.' "
+21:11 So Gad went to David and said to him, "This is what the Lord says: 'Take your choice:
+21:12 three years of famine, three months of being swept away before your enemies, with their swords overtaking you, or three days of the sword of the Lord - days of plague in the land, with the angel of the Lord ravaging every part of Israel.' Now then, decide how I should answer the one who sent me."
+21:13 David said to Gad, "I am in deep distress. Let me fall into the hands of the Lord , for his mercy is very great; but do not let me fall into the hands of men."
+21:14 So the Lord sent a plague on Israel, and seventy thousand men of Israel fell dead.
+21:15 And God sent an angel to destroy Jerusalem. But as the angel was doing so, the Lord saw it and was grieved because of the calamity and said to the angel who was destroying the people, "Enough! Withdraw your hand." The angel of the Lord was then standing at the threshing floor of Araunah the Jebusite.
+21:16 David looked up and saw the angel of the Lord standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell facedown.
+21:17 David said to God, "Was it not I who ordered the fighting men to be counted? I am the one who has sinned and done wrong. These are but sheep. What have they done? O Lord my God, let your hand fall upon me and my family, but do not let this plague remain on your people."
+21:18 Then the angel of the Lord ordered Gad to tell David to go up and build an altar to the Lord on the threshing floor of Araunah the Jebusite.
+21:19 So David went up in obedience to the word that Gad had spoken in the name of the Lord .
+21:20 While Araunah was threshing wheat, he turned and saw the angel; his four sons who were with him hid themselves.
+21:21 Then David approached, and when Araunah looked and saw him, he left the threshing floor and bowed down before David with his face to the ground.
+21:22 David said to him, "Let me have the site of your threshing floor so I can build an altar to the Lord , that the plague on the people may be stopped. Sell it to me at the full price."
+21:23 Araunah said to David, "Take it! Let my lord the king do whatever pleases him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering. I will give all this."
+21:24 But King David replied to Araunah, "No, I insist on paying the full price. I will not take for the Lord what is yours, or sacrifice a burnt offering that costs me nothing."
+21:25 So David paid Araunah six hundred shekels of gold for the site.
+21:26 David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. He called on the Lord , and the Lord answered him with fire from heaven on the altar of burnt offering.
+21:27 Then the Lord spoke to the angel, and he put his sword back into its sheath.
+21:28 At that time, when David saw that the Lord had answered him on the threshing floor of Araunah the Jebusite, he offered sacrifices there.
+21:29 The tabernacle of the Lord , which Moses had made in the desert, and the altar of burnt offering were at that time on the high place at Gibeon.
+21:30 But David could not go before it to inquire of God, because he was afraid of the sword of the angel of the Lord .
+22:1 Then David said, "The house of the Lord God is to be here, and also the altar of burnt offering for Israel."
+22:2 So David gave orders to assemble the aliens living in Israel, and from among them he appointed stonecutters to prepare dressed stone for building the house of God.
+22:3 He provided a large amount of iron to make nails for the doors of the gateways and for the fittings, and more bronze than could be weighed.
+22:4 He also provided more cedar logs than could be counted, for the Sidonians and Tyrians had brought large numbers of them to David.
+22:5 David said, "My son Solomon is young and inexperienced, and the house to be built for the Lord should be of great magnificence and fame and splendor in the sight of all the nations. Therefore I will make preparations for it." So David made extensive preparations before his death.
+22:6 Then he called for his son Solomon and charged him to build a house for the Lord , the God of Israel.
+22:7 David said to Solomon: "My son, I had it in my heart to build a house for the Name of the Lord my God.
+22:8 But this word of the Lord came to me: 'You have shed much blood and have fought many wars. You are not to build a house for my Name, because you have shed much blood on the earth in my sight.
+22:9 But you will have a son who will be a man of peace and rest, and I will give him rest from all his enemies on every side. His name will be Solomon, and I will grant Israel peace and quiet during his reign.
+22:10 He is the one who will build a house for my Name. He will be my son, and I will be his father. And I will establish the throne of his kingdom over Israel forever.'
+22:11 "Now, my son, the Lord be with you, and may you have success and build the house of the Lord your God, as he said you would.
+22:12 May the Lord give you discretion and understanding when he puts you in command over Israel, so that you may keep the law of the Lord your God.
+22:13 Then you will have success if you are careful to observe the decrees and laws that the Lord gave Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.
+22:14 "I have taken great pains to provide for the temple of the Lord a hundred thousand talents of gold, a million talents of silver, quantities of bronze and iron too great to be weighed, and wood and stone. And you may add to them.
+22:15 You have many workmen: stonecutters, masons and carpenters, as well as men skilled in every kind of work
+22:16 in gold and silver, bronze and iron-craftsmen beyond number. Now begin the work, and the Lord be with you."
+22:17 Then David ordered all the leaders of Israel to help his son Solomon.
+22:18 He said to them, "Is not the Lord your God with you? And has he not granted you rest on every side? For he has handed the inhabitants of the land over to me, and the land is subject to the Lord and to his people.
+22:19 Now devote your heart and soul to seeking the Lord your God. Begin to build the sanctuary of the Lord God, so that you may bring the ark of the covenant of the Lord and the sacred articles belonging to God into the temple that will be built for the Name of the Lord ."
+23:1 When David was old and full of years, he made his son Solomon king over Israel.
+23:2 He also gathered together all the leaders of Israel, as well as the priests and Levites.
+23:3 The Levites thirty years old or more were counted, and the total number of men was thirty-eight thousand.
+23:4 David said, "Of these, twenty-four thousand are to supervise the work of the temple of the Lord and six thousand are to be officials and judges.
+23:5 Four thousand are to be gatekeepers and four thousand are to praise the Lord with the musical instruments I have provided for that purpose."
+23:6 David divided the Levites into groups corresponding to the sons of Levi: Gershon, Kohath and Merari.
+23:7 Belonging to the Gershonites: Ladan and Shimei.
+23:8 The sons of Ladan: Jehiel the first, Zetham and Joel-three in all.
+23:9 The sons of Shimei: Shelomoth, Haziel and Haran-three in all. These were the heads of the families of Ladan.
+23:10 And the sons of Shimei: Jahath, Ziza, Jeush and Beriah. These were the sons of Shimei-four in all.
+23:11 Jahath was the first and Ziza the second, but Jeush and Beriah did not have many sons; so they were counted as one family with one assignment.
+23:12 The sons of Kohath: Amram, Izhar, Hebron and Uzziel-four in all.
+23:13 The sons of Amram: Aaron and Moses. Aaron was set apart, he and his descendants forever, to consecrate the most holy things, to offer sacrifices before the Lord , to minister before him and to pronounce blessings in his name forever.
+23:14 The sons of Moses the man of God were counted as part of the tribe of Levi.
+23:15 The sons of Moses: Gershom and Eliezer.
+23:16 The descendants of Gershom: Shubael was the first.
+23:17 The descendants of Eliezer: Rehabiah was the first. Eliezer had no other sons, but the sons of Rehabiah were very numerous.
+23:18 The sons of Izhar: Shelomith was the first.
+23:19 The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.
+23:20 The sons of Uzziel: Micah the first and Isshiah the second.
+23:21 The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.
+23:22 Eleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them.
+23:23 The sons of Mushi: Mahli, Eder and Jerimoth-three in all.
+23:24 These were the descendants of Levi by their families-the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more who served in the temple of the Lord .
+23:25 For David had said, "Since the Lord , the God of Israel, has granted rest to his people and has come to dwell in Jerusalem forever,
+23:26 the Levites no longer need to carry the tabernacle or any of the articles used in its service."
+23:27 According to the last instructions of David, the Levites were counted from those twenty years old or more.
+23:28 The duty of the Levites was to help Aaron's descendants in the service of the temple of the Lord : to be in charge of the courtyards, the side rooms, the purification of all sacred things and the performance of other duties at the house of God.
+23:29 They were in charge of the bread set out on the table, the flour for the grain offerings, the unleavened wafers, the baking and the mixing, and all measurements of quantity and size.
+23:30 They were also to stand every morning to thank and praise the Lord . They were to do the same in the evening
+23:31 and whenever burnt offerings were presented to the Lord on Sabbaths and at New Moon festivals and at appointed feasts. They were to serve before the Lord regularly in the proper number and in the way prescribed for them.
+23:32 And so the Levites carried out their responsibilities for the Tent of Meeting, for the Holy Place and, under their brothers the descendants of Aaron, for the service of the temple of the Lord .
+24:1 These were the divisions of the sons of Aaron: The sons of Aaron were Nadab, Abihu, Eleazar and Ithamar.
+24:2 But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as the priests.
+24:3 With the help of Zadok a descendant of Eleazar and Ahimelech a descendant of Ithamar, David separated them into divisions for their appointed order of ministering.
+24:4 A larger number of leaders were found among Eleazar's descendants than among Ithamar's, and they were divided accordingly: sixteen heads of families from Eleazar's descendants and eight heads of families from Ithamar's descendants.
+24:5 They divided them impartially by drawing lots, for there were officials of the sanctuary and officials of God among the descendants of both Eleazar and Ithamar.
+24:6 The scribe Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officials: Zadok the priest, Ahimelech son of Abiathar and the heads of families of the priests and of the Levites-one family being taken from Eleazar and then one from Ithamar.
+24:7 The first lot fell to Jehoiarib, the second to Jedaiah,
+24:8 the third to Harim, the fourth to Seorim,
+24:9 the fifth to Malkijah, the sixth to Mijamin,
+24:10 the seventh to Hakkoz, the eighth to Abijah,
+24:11 the ninth to Jeshua, the tenth to Shecaniah,
+24:12 the eleventh to Eliashib, the twelfth to Jakim,
+24:13 the thirteenth to Huppah, the fourteenth to Jeshebeab,
+24:14 the fifteenth to Bilgah, the sixteenth to Immer,
+24:15 the seventeenth to Hezir, the eighteenth to Happizzez,
+24:16 the nineteenth to Pethahiah, the twentieth to Jehezkel,
+24:17 the twenty-first to Jakin, the twenty-second to Gamul,
+24:18 the twenty-third to Delaiah and the twenty-fourth to Maaziah.
+24:19 This was their appointed order of ministering when they entered the temple of the Lord , according to the regulations prescribed for them by their forefather Aaron, as the Lord , the God of Israel, had commanded him.
+24:20 As for the rest of the descendants of Levi: from the sons of Amram: Shubael; from the sons of Shubael: Jehdeiah.
+24:21 As for Rehabiah, from his sons: Isshiah was the first.
+24:22 From the Izharites: Shelomoth; from the sons of Shelomoth: Jahath.
+24:23 The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.
+24:24 The son of Uzziel: Micah; from the sons of Micah: Shamir.
+24:25 The brother of Micah: Isshiah; from the sons of Isshiah: Zechariah.
+24:26 The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.
+24:27 The sons of Merari: from Jaaziah: Beno, Shoham, Zaccur and Ibri.
+24:28 From Mahli: Eleazar, who had no sons.
+24:29 From Kish: the son of Kish: Jerahmeel.
+24:30 And the sons of Mushi: Mahli, Eder and Jerimoth. These were the Levites, according to their families.
+24:31 They also cast lots, just as their brothers the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelech, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.
+25:1 David, together with the commanders of the army, set apart some of the sons of Asaph, Heman and Jeduthun for the ministry of prophesying, accompanied by harps, lyres and cymbals. Here is the list of the men who performed this service:
+25:2 From the sons of Asaph: Zaccur, Joseph, Nethaniah and Asarelah. The sons of Asaph were under the supervision of Asaph, who prophesied under the king's supervision.
+25:3 As for Jeduthun, from his sons: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the Lord .
+25:4 As for Heman, from his sons: Bukkiah, Mattaniah, Uzziel, Shubael and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti and Romamti-Ezer; Joshbekashah, Mallothi, Hothir and Mahazioth.
+25:5 All these were sons of Heman the king's seer. They were given him through the promises of God to exalt him. God gave Heman fourteen sons and three daughters.
+25:6 All these men were under the supervision of their fathers for the music of the temple of the Lord , with cymbals, lyres and harps, for the ministry at the house of God. Asaph, Jeduthun and Heman were under the supervision of the king.
+25:7 Along with their relatives-all of them trained and skilled in music for the Lord -they numbered 288.
+25:8 Young and old alike, teacher as well as student, cast lots for their duties.
+25:9 The first lot, which was for Asaph, fell to Joseph, his sons and relatives, 12 the second to Gedaliah, he and his relatives and sons, 12
+25:10 the third to Zaccur, his sons and relatives, 12
+25:11 the fourth to Izri, his sons and relatives, 12
+25:12 the fifth to Nethaniah, his sons and relatives, 12
+25:13 the sixth to Bukkiah, his sons and relatives, 12
+25:14 the seventh to Jesarelah, his sons and relatives, 12
+25:15 the eighth to Jeshaiah, his sons and relatives, 12
+25:16 the ninth to Mattaniah, his sons and relatives, 12
+25:17 the tenth to Shimei, his sons and relatives, 12
+25:18 the eleventh to Azarel, his sons and relatives, 12
+25:19 the twelfth to Hashabiah, his sons and relatives, 12
+25:20 the thirteenth to Shubael, his sons and relatives, 12
+25:21 the fourteenth to Mattithiah, his sons and relatives, 12
+25:22 the fifteenth to Jerimoth, his sons and relatives, 12
+25:23 the sixteenth to Hananiah, his sons and relatives, 12
+25:24 the seventeenth to Joshbekashah, his sons and relatives, 12
+25:25 the eighteenth to Hanani, his sons and relatives, 12
+25:26 the nineteenth to Mallothi, his sons and relatives, 12
+25:27 the twentieth to Eliathah, his sons and relatives, 12
+25:28 the twenty-first to Hothir, his sons and relatives, 12
+25:29 the twenty-second to Giddalti, his sons and relatives, 12
+25:30 the twenty-third to Mahazioth, his sons and relatives, 12
+25:31 the twenty-fourth to Romamti-Ezer, his sons and relatives, 12
+26:1 The divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.
+26:2 Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+26:3 Elam the fifth, Jehohanan the sixth and Eliehoenai the seventh.
+26:4 Obed-Edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
+26:5 Ammiel the sixth, Issachar the seventh and Peullethai the eighth. (For God had blessed Obed-Edom.)
+26:6 His son Shemaiah also had sons, who were leaders in their father's family because they were very capable men.
+26:7 The sons of Shemaiah: Othni, Rephael, Obed and Elzabad; his relatives Elihu and Semakiah were also able men.
+26:8 All these were descendants of Obed-Edom; they and their sons and their relatives were capable men with the strength to do the work-descendants of Obed-Edom, 62 in all.
+26:9 Meshelemiah had sons and relatives, who were able men-18 in all.
+26:10 Hosah the Merarite had sons: Shimri the first (although he was not the firstborn, his father had appointed him the first),
+26:11 Hilkiah the second, Tabaliah the third and Zechariah the fourth. The sons and relatives of Hosah were 13 in all.
+26:12 These divisions of the gatekeepers, through their chief men, had duties for ministering in the temple of the Lord , just as their relatives had.
+26:13 Lots were cast for each gate, according to their families, young and old alike.
+26:14 The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zechariah, a wise counselor, and the lot for the North Gate fell to him.
+26:15 The lot for the South Gate fell to Obed-Edom, and the lot for the storehouse fell to his sons.
+26:16 The lots for the West Gate and the Shalleketh Gate on the upper road fell to Shuppim and Hosah. Guard was alongside of guard:
+26:17 There were six Levites a day on the east, four a day on the north, four a day on the south and two at a time at the storehouse.
+26:18 As for the court to the west, there were four at the road and two at the court itself.
+26:19 These were the divisions of the gatekeepers who were descendants of Korah and Merari.
+26:20 Their fellow Levites were in charge of the treasuries of the house of God and the treasuries for the dedicated things.
+26:21 The descendants of Ladan, who were Gershonites through Ladan and who were heads of families belonging to Ladan the Gershonite, were Jehieli,
+26:22 the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries of the temple of the Lord .
+26:23 From the Amramites, the Izharites, the Hebronites and the Uzzielites:
+26:24 Shubael, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.
+26:25 His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zicri his son and Shelomith his son.
+26:26 Shelomith and his relatives were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders.
+26:27 Some of the plunder taken in battle they dedicated for the repair of the temple of the Lord .
+26:28 And everything dedicated by Samuel the seer and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.
+26:29 From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges over Israel.
+26:30 From the Hebronites: Hashabiah and his relatives-seventeen hundred able men-were responsible in Israel west of the Jordan for all the work of the Lord and for the king's service.
+26:31 As for the Hebronites, Jeriah was their chief according to the genealogical records of their families. In the fortieth year of David's reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead.
+26:32 Jeriah had twenty-seven hundred relatives, who were able men and heads of families, and King David put them in charge of the Reubenites, the Gadites and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king.
+27:1 This is the list of the Israelites- heads of families, commanders of thousands and commanders of hundreds, and their officers, who served the king in all that concerned the army divisions that were on duty month by month throughout the year. Each division consisted of 24,000 men.
+27:2 In charge of the first division, for the first month, was Jashobeam son of Zabdiel. There were 24,000 men in his division.
+27:3 He was a descendant of Perez and chief of all the army officers for the first month.
+27:4 In charge of the division for the second month was Dodai the Ahohite; Mikloth was the leader of his division. There were 24,000 men in his division.
+27:5 The third army commander, for the third month, was Benaiah son of Jehoiada the priest. He was chief and there were 24,000 men in his division.
+27:6 This was the Benaiah who was a mighty man among the Thirty and was over the Thirty. His son Ammizabad was in charge of his division.
+27:7 The fourth, for the fourth month, was Asahel the brother of Joab; his son Zebadiah was his successor. There were 24,000 men in his division.
+27:8 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.
+27:9 The sixth, for the sixth month, was Ira the son of Ikkesh the Tekoite. There were 24,000 men in his division.
+27:10 The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 24,000 men in his division.
+27:11 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. There were 24,000 men in his division.
+27:12 The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.
+27:13 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.
+27:14 The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.
+27:15 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.
+27:16 The officers over the tribes of Israel: over the Reubenites: Eliezer son of Zicri; over the Simeonites: Shephatiah son of Maacah;
+27:17 over Levi: Hashabiah son of Kemuel; over Aaron: Zadok;
+27:18 over Judah: Elihu, a brother of David; over Issachar: Omri son of Michael;
+27:19 over Zebulun: Ishmaiah son of Obadiah; over Naphtali: Jerimoth son of Azriel;
+27:20 over the Ephraimites: Hoshea son of Azaziah; over half the tribe of Manasseh: Joel son of Pedaiah;
+27:21 over the half-tribe of Manasseh in Gilead: Iddo son of Zechariah; over Benjamin: Jaasiel son of Abner;
+27:22 over Dan: Azarel son of Jeroham. These were the officers over the tribes of Israel.
+27:23 David did not take the number of the men twenty years old or less, because the Lord had promised to make Israel as numerous as the stars in the sky.
+27:24 Joab son of Zeruiah began to count the men but did not finish. Wrath came on Israel on account of this numbering, and the number was not entered in the book of the annals of King David.
+27:25 Azmaveth son of Adiel was in charge of the royal storehouses. Jonathan son of Uzziah was in charge of the storehouses in the outlying districts, in the towns, the villages and the watchtowers.
+27:26 Ezri son of Kelub was in charge of the field workers who farmed the land.
+27:27 Shimei the Ramathite was in charge of the vineyards. Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine vats.
+27:28 Baal- Hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills. Joash was in charge of the supplies of olive oil.
+27:29 Shitrai the Sharonite was in charge of the herds grazing in Sharon. Shaphat son of Adlai was in charge of the herds in the valleys.
+27:30 Obil the Ishmaelite was in charge of the camels. Jehdeiah the Meronothite was in charge of the donkeys.
+27:31 Jaziz the Hagrite was in charge of the flocks. All these were the officials in charge of King David's property.
+27:32 Jonathan, David's uncle, was a counselor, a man of insight and a scribe. Jehiel son of Hacmoni took care of the king's sons.
+27:33 Ahithophel was the king's counselor. Hushai the Arkite was the king's friend.
+27:34 Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar. Joab was the commander of the royal army.
+28:1 David summoned all the officials of Israel to assemble at Jerusalem: the officers over the tribes, the commanders of the divisions in the service of the king, the commanders of thousands and commanders of hundreds, and the officials in charge of all the property and livestock belonging to the king and his sons, together with the palace officials, the mighty men and all the brave warriors.
+28:2 King David rose to his feet and said: "Listen to me, my brothers and my people. I had it in my heart to build a house as a place of rest for the ark of the covenant of the Lord , for the footstool of our God, and I made plans to build it.
+28:3 But God said to me, 'You are not to build a house for my Name, because you are a warrior and have shed blood.'
+28:4 "Yet the Lord , the God of Israel, chose me from my whole family to be king over Israel forever. He chose Judah as leader, and from the house of Judah he chose my family, and from my father's sons he was pleased to make me king over all Israel.
+28:5 Of all my sons-and the Lord has given me many-he has chosen my son Solomon to sit on the throne of the kingdom of the Lord over Israel.
+28:6 He said to me: 'Solomon your son is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father.
+28:7 I will establish his kingdom forever if he is unswerving in carrying out my commands and laws, as is being done at this time.'
+28:8 "So now I charge you in the sight of all Israel and of the assembly of the Lord , and in the hearing of our God: Be careful to follow all the commands of the Lord your God, that you may possess this good land and pass it on as an inheritance to your descendants forever.
+28:9 "And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion and with a willing mind, for the Lord searches every heart and understands every motive behind the thoughts. If you seek him, he will be found by you; but if you forsake him, he will reject you forever.
+28:10 Consider now, for the Lord has chosen you to build a temple as a sanctuary. Be strong and do the work."
+28:11 Then David gave his son Solomon the plans for the portico of the temple, its buildings, its storerooms, its upper parts, its inner rooms and the place of atonement.
+28:12 He gave him the plans of all that the Spirit had put in his mind for the courts of the temple of the Lord and all the surrounding rooms, for the treasuries of the temple of God and for the treasuries for the dedicated things.
+28:13 He gave him instructions for the divisions of the priests and Levites, and for all the work of serving in the temple of the Lord , as well as for all the articles to be used in its service.
+28:14 He designated the weight of gold for all the gold articles to be used in various kinds of service, and the weight of silver for all the silver articles to be used in various kinds of service:
+28:15 the weight of gold for the gold lampstands and their lamps, with the weight for each lampstand and its lamps; and the weight of silver for each silver lampstand and its lamps, according to the use of each lampstand;
+28:16 the weight of gold for each table for consecrated bread; the weight of silver for the silver tables;
+28:17 the weight of pure gold for the forks, sprinkling bowls and pitchers; the weight of gold for each gold dish; the weight of silver for each silver dish;
+28:18 and the weight of the refined gold for the altar of incense. He also gave him the plan for the chariot, that is, the cherubim of gold that spread their wings and shelter the ark of the covenant of the Lord .
+28:19 "All this," David said, "I have in writing from the hand of the Lord upon me, and he gave me understanding in all the details of the plan."
+28:20 David also said to Solomon his son, "Be strong and courageous, and do the work. Do not be afraid or discouraged, for the Lord God, my God, is with you. He will not fail you or forsake you until all the work for the service of the temple of the Lord is finished.
+28:21 The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing man skilled in any craft will help you in all the work. The officials and all the people will obey your every command."
+29:1 Then King David said to the whole assembly: "My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the Lord God.
+29:2 With all my resources I have provided for the temple of my God-gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble-all of these in large quantities.
 29:3 Besides, in my devotion to the temple of my God I now give my personal treasures of gold and silver for the temple of my God, over and above everything I have provided for this holy temple:
 29:4 three thousand talents of gold (gold of Ophir) and seven thousand talents of refined silver, for the overlaying of the walls of the buildings,
-29:5 for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate himself today to the LORD?"
+29:5 for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate himself today to the Lord ?"
 29:6 Then the leaders of families, the officers of the tribes of Israel, the commanders of thousands and commanders of hundreds, and the officials in charge of the king's work gave willingly.
 29:7 They gave toward the work on the temple of God five thousand talents and ten thousand darics of gold, ten thousand talents of silver, eighteen thousand talents of bronze and a hundred thousand talents of iron.
-29:8 Any who had precious stones gave them to the treasury of the temple of the LORD in the custody of Jehiel the Gershonite.
-29:9 The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the LORD. David the king also rejoiced greatly.
-29:10 David praised the LORD in the presence of the whole assembly, saying, "Praise be to you, O LORD, God of our father Israel, from everlasting to everlasting.
-29:11 Yours, O LORD, is the greatness and the power and the glory and the majesty and the splendor, for everything in heaven and earth is yours. Yours, O LORD, is the kingdom; you are exalted as head over all.
+29:8 Any who had precious stones gave them to the treasury of the temple of the Lord in the custody of Jehiel the Gershonite.
+29:9 The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the Lord . David the king also rejoiced greatly.
+29:10 David praised the Lord in the presence of the whole assembly, saying, "Praise be to you, O Lord , God of our father Israel, from everlasting to everlasting.
+29:11 Yours, O Lord , is the greatness and the power and the glory and the majesty and the splendor, for everything in heaven and earth is yours. Yours, O Lord , is the kingdom; you are exalted as head over all.
 29:12 Wealth and honor come from you; you are the ruler of all things. In your hands are strength and power to exalt and give strength to all.
 29:13 Now, our God, we give you thanks, and praise your glorious name.
 29:14 "But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand.
 29:15 We are aliens and strangers in your sight, as were all our forefathers. Our days on earth are like a shadow, without hope.
-29:16 O LORD our God, as for all this abundance that we have provided for building you a temple for your Holy Name, it comes from your hand, and all of it belongs to you.
+29:16 O Lord our God, as for all this abundance that we have provided for building you a temple for your Holy Name, it comes from your hand, and all of it belongs to you.
 29:17 I know, my God, that you test the heart and are pleased with integrity. All these things have I given willingly and with honest intent. And now I have seen with joy how willingly your people who are here have given to you.
-29:18 O LORD, God of our fathers Abraham, Isaac and Israel, keep this desire in the hearts of your people forever, and keep their hearts loyal to you.
+29:18 O Lord , God of our fathers Abraham, Isaac and Israel, keep this desire in the hearts of your people forever, and keep their hearts loyal to you.
 29:19 And give my son Solomon the wholehearted devotion to keep your commands, requirements and decrees and to do everything to build the palatial structure for which I have provided."
-29:20 Then David said to the whole assembly, "Praise the LORD your God." So they all praised the LORD, the God of their fathers; they bowed low and fell prostrate before the LORD and the king.
-29:21 The next day they made sacrifices to the LORD and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.
-29:22 They ate and drank with great joy in the presence of the LORD that day. Then they acknowledged Solomon son of David as king a second time, anointing him before the LORD to be ruler and Zadok to be priest.
-29:23 So Solomon sat on the throne of the LORD as king in place of his father David. He prospered and all Israel obeyed him.
+29:20 Then David said to the whole assembly, "Praise the Lord your God." So they all praised the Lord , the God of their fathers; they bowed low and fell prostrate before the Lord and the king.
+29:21 The next day they made sacrifices to the Lord and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.
+29:22 They ate and drank with great joy in the presence of the Lord that day. Then they acknowledged Solomon son of David as king a second time, anointing him before the Lord to be ruler and Zadok to be priest.
+29:23 So Solomon sat on the throne of the Lord as king in place of his father David. He prospered and all Israel obeyed him.
 29:24 All the officers and mighty men, as well as all of King David's sons, pledged their submission to King Solomon.
-29:25 The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.
+29:25 The Lord highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.
 29:26 David son of Jesse was king over all Israel.
-29:27 He ruled over Israel forty years--seven in Hebron and thirty-three in Jerusalem.
+29:27 He ruled over Israel forty years-seven in Hebron and thirty-three in Jerusalem.
 29:28 He died at a good old age, having enjoyed long life, wealth and honor. His son Solomon succeeded him as king.
 29:29 As for the events of King David's reign, from beginning to end, they are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer,
+29:30 together with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands.
 2 Chronicles 
 1:1 Solomon son of David established himself firmly over his kingdom, for the LORD his God was with him and made him exceedingly great.
 1:2 Then Solomon spoke to all Israel--to the commanders of thousands and commanders of hundreds, to the judges and to all the leaders in Israel, the heads of families--
@@ -11234,8 +11231,7 @@ Ruth
 2:15 "Now let my lord send his servants the wheat and barley and the olive oil and wine he promised,
 2:16 and we will cut all the logs from Lebanon that you need and will float them in rafts by sea down to Joppa. You can then take them up to Jerusalem."
 2:17 Solomon took a census of all the aliens who were in Israel, after the census his father David had taken; and they were found to be 153,600.
-2:18 He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 
-3,600 foremen over them to keep the people working. 
+2:18 He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 3,600 foremen over them to keep the people working.
 3:1 Then Solomon began to build the temple of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. It was on the threshing floor of Araunah the Jebusite, the place provided by David.
 3:2 He began building on the second day of the second month in the fourth year of his reign.
 3:3 The foundation Solomon laid for building the temple of God was sixty cubits long and twenty cubits wide (using the cubit of the old standard).
@@ -11545,8 +11541,7 @@ Ruth
 17:13 and had large supplies in the towns of Judah. He also kept experienced fighting men in Jerusalem.
 17:14 Their enrollment by families was as follows: From Judah, commanders of units of 1,000: Adnah the commander, with 300,000 fighting men;
 17:15 next, Jehohanan the commander, with 280,000;
-17:16 next, Amasiah son of Zicri, who volunteered himself for the service of the LORD, with 
-200,000.
+17:16 next, Amasiah son of Zicri, who volunteered himself for the service of the LORD, with 200,000.
 17:17 From Benjamin: Eliada, a valiant soldier, with 200,000 men armed with bows and shields;
 17:18 next, Jehozabad, with 180,000 men armed for battle.
 17:19 These were the men who served the king, besides those he stationed in the fortified cities throughout Judah. 
@@ -12103,8 +12098,7 @@ Ezra
 2:66 They had 736 horses, 245 mules,
 2:67 435 camels and 6,720 donkeys.
 2:68 When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.
-2:69 According to their ability they gave to the treasury for this work 61,000 drachmas of gold, 
-5,000 minas of silver and 100 priestly garments.
+2:69 According to their ability they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver and 100 priestly garments.
 2:70 The priests, the Levites, the singers, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns. 
 3:1 When the seventh month came and the Israelites had settled in their towns, the people assembled as one man in Jerusalem.
 3:2 Then Jeshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to build the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with what is written in the Law of Moses the man of God.
@@ -12227,8 +12221,7 @@ Ezra
 8:15 I assembled them at the canal that flows toward Ahava, and we camped there three days. When I checked among the people and the priests, I found no Levites there.
 8:16 So I summoned Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah and Meshullam, who were leaders, and Joiarib and Elnathan, who were men of learning,
 8:17 and I sent them to Iddo, the leader in Casiphia. I told them what to say to Iddo and his kinsmen, the temple servants in Casiphia, so that they might bring attendants to us for the house of our God.
-8:18 Because the gracious hand of our God was on us, they brought us Sherebiah, a capable man, from the descendants of Mahli son of Levi, the son of Israel, and Sherebiah's sons and brothers, 
-18 men;
+8:18 Because the gracious hand of our God was on us, they brought us Sherebiah, a capable man, from the descendants of Mahli son of Levi, the son of Israel, and Sherebiah's sons and brothers, 18 men;
 8:19 and Hashabiah, together with Jeshaiah from the descendants of Merari, and his brothers and nephews,
 8:20 They also brought 220 of the temple servants--a body that David and the officials had established to assist the Levites. All were registered by name.
 8:21 There, by the Ahava Canal, I proclaimed a fast, so that we might humble ourselves before our God and ask him for a safe journey for us and our children, with all our possessions.
@@ -12499,8 +12492,7 @@ Nehemiah
 7:67 besides their 7,337 menservants and maidservants; and they also had 245 men and women singers.
 7:68 There were 736 horses, 245 mules,
 7:69 435 camels and 6,720 donkeys.
-7:70 Some of the heads of the families contributed to the work. The governor gave to the treasury 
-1,000 drachmas of gold, 50 bowls and 530 garments for priests.
+7:70 Some of the heads of the families contributed to the work. The governor gave to the treasury 1,000 drachmas of gold, 50 bowls and 530 garments for priests.
 7:71 Some of the heads of the families gave to the treasury for the work 20,000 drachmas of gold and 2,200 minas of silver.
 7:72 The total given by the rest of the people was 20,000 drachmas of gold, 2,000 minas of silver and 67 garments for priests.
 7:73 The priests, the Levites, the gatekeepers, the singers and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns, 
@@ -19956,11 +19948,9 @@ Jeremiah
 40:2 When the commander of the guard found Jeremiah, he said to him, "The LORD your God decreed this disaster for this place.
 40:3 And now the LORD has brought it about; he has done just as he said he would. All this happened because you people sinned against the LORD and did not obey him.
 40:4 But today I am freeing you from the chains on your wrists. Come with me to Babylon, if you like, and I will look after you; but if you do not want to, then don't come. Look, the whole country lies before you; go wherever you please."
-40:5 However, before Jeremiah turned to go, Nebuzaradan added, "Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people,
-40:5+ or go anywhere else you please." Then the commander gave him provisions and a present and let him go.
+40:5 However, before Jeremiah turned to go, Nebuzaradan added, "Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people, or go anywhere else you please." Then the commander gave him provisions and a present and let him go.
 40:6 So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left behind in the land.
-40:7 When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children 
-40:7+who were the poorest in the land and who had not been carried into exile to Babylon,
+40:7 When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children who were the poorest in the land and who had not been carried into exile to Babylon,
 40:8 they came to Gedaliah at Mizpah--Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jaazaniah the son of the Maacathite, and their men.
 40:9 Gedaliah son of Ahikam, the son of Shaphan, took an oath to reassure them and their men. "Do not be afraid to serve the Babylonians," he said. "Settle down in the land and serve the king of Babylon, and it will go well with you.
 40:10 I myself will stay at Mizpah to represent you before the Babylonians who come to us, but you are to harvest the wine, summer fruit and oil, and put them in your storage jars, and live in the towns you have taken over."
@@ -19968,8 +19958,7 @@ Jeremiah
 40:12 they all came back to the land of Judah, to Gedaliah at Mizpah, from all the countries where they had been scattered. And they harvested an abundance of wine and summer fruit.
 40:13 Johanan son of Kareah and all the army officers still in the open country came to Gedaliah at Mizpah
 40:14 and said to him, "Don't you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?" But Gedaliah son of Ahikam did not believe them.
-40:15 Then Johanan son of Kareah said privately to Gedaliah in Mizpah, "Let me go and kill Ishmael son of Nethaniah, and no one will know it.
-40:15+ Why should he take your life and cause all the Jews who are gathered around you to be scattered and the remnant of Judah to perish?"
+40:15 Then Johanan son of Kareah said privately to Gedaliah in Mizpah, "Let me go and kill Ishmael son of Nethaniah, and no one will know it. Why should he take your life and cause all the Jews who are gathered around you to be scattered and the remnant of Judah to perish?"
 40:16 But Gedaliah son of Ahikam said to Johanan son of Kareah, "Don't do such a thing! What you are saying about Ishmael is not true."
 41:1 In the seventh month Ishmael son of Nethaniah, the son of Elishama, who was of royal blood and had been one of the king's officers, came with pen men to Gedaliah son of Ahikam at Mizpah. While they were eating together there,
 41:2 Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, killing the one whom the king of Babylon had appointed as governor over the land.
@@ -20317,8 +20306,7 @@ Jeremiah
 52:25 Of those still in the city, he took the officer in charge of the fighting men, and seven royal advisers. He also took the secretary who was chief officer in charge of conscripting the people of the land and sixty of his men who were found in the city.
 52:26 Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah.
 52:27 There at Riblah, in the land of Hamath, the king had them executed. So Judah went into captivity, away from her land.
-52:28 This is the number of the people Nebuchadnezzar carried into exile: in the seventh year, 
-3,023 Jews;
+52:28 This is the number of the people Nebuchadnezzar carried into exile: in the seventh year, 3,023 Jews;
 52:29 in Nebuchadnezzar's eighteenth year, 832 people from Jerusalem;
 52:30 in his twenty-third year, 745 Jews taken into exile by Nebuzaradan the commander of the imperial guard. There were 4,600 people in all.
 52:31 In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin king of Judah and freed him from prison on the twenty-fifth day of the twelfth month.
@@ -21068,7 +21056,7 @@ Ezekiel
 23:44 And they slept with her. As men sleep with a prostitute, so they slept with those lewd women, Oholah and Oholibah.
 23:45 But righteous men will sentence them to the punishment of women who commit adultery and shed blood, because they are adulterous and blood is on their hands.
 23:46 "This is what the Sovereign LORD says: Bring a mob against them and give them over to terror and plunder.
-23:47 The mob will stone them and cut them down with their swords9 they will kill thistant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations. 
+23:47 The mob will stone them and cut them down with their swords; they will kill their sons and daughters and burn down their houses.
 24:1 In the ninth year, in the tenth month on the tenth day, the word of the LORD came to me:
 24:2 "Son of man, record this date, this very date, because the king of Babylon has laid siege to Jerusalem this very day.
 24:3 Tell this rebellious house a parable and say to them: 'This is what the Sovereign LORD says: "'Put on the cooking pot; put it on and pour water into it.
@@ -30828,12 +30816,9 @@ Revelation
 7:3 "Do not harm the land or the sea or the trees until we put a seal on the foreheads of the servants of our God."
 7:4 Then I heard the number of those who were sealed: 144,000 from all the tribes of Israel.
 7:5 From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,
-7:6 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 
-12,000,
-7:7 from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 
-12,000,
-7:8 from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 
-12,000.
+7:6 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,
+7:7 from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,
+7:8 from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000.
 7:9 After this I looked and there before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and in front of the Lamb. They were wearing white robes and were holding palm branches in their hands.
 7:10 And they cried out in a loud voice: "Salvation belongs to our God, who sits on the throne, and to the Lamb."
 7:11 All the angels were standing around the throne and around the elders and the four living creatures. They fell down on their faces before the throne and worshiped God,
@@ -30942,8 +30927,7 @@ Revelation
 13:16 He also forced everyone, small and great, rich and poor, free and slave, to receive a mark on his right hand or on his forehead,
 13:17 so that no one could buy or sell unless he had the mark, which is the name of the beast or the number of his name.
 13:18 This calls for wisdom. If anyone has insight, let him calculate the number of the beast, for it is man's number. His number is 666. 
-14:1 Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 
-144,000 who had his name and his Father's name written on their foreheads.
+14:1 Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father's name written on their foreheads.
 14:2 And I heard a sound from heaven like the roar of rushing waters and like a loud peal of thunder. The sound I heard was like that of harpists playing their harps.
 14:3 And they sang a new song before the throne and before the four living creatures and the elders. No one could learn the song except the 144,000 who had been redeemed from the earth.
 14:4 These are those who did not defile themselves with women, for they kept themselves pure. They follow the Lamb wherever he goes. They were purchased from among men and offered as firstfruits to God and the Lamb.

@@ -29,7 +29,7 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:40, Verse:5, Page:1,
     Kor:"○예레미야가 아직 돌아가려고 하지 않으니까, 그는 말을 계속하였다. \"그대가 이 곳에 머물기를 원하면, 사반의 손자요 아히감의 아들인 그달리야에게로 돌아가서, 그와 함께 동족과 더불어 사시오. 그는 바빌로니아 왕께서 유다 땅의 총독으로 세우신 사람이오. 그것도 싫으면, 어디든지, 그대가 보기에 적당한 곳으로 찾아가시오.\" ○이렇게 말하면서, 근위대장은 예레미야에게 길에서 먹을 양식과 선물을 주어서 보냈다.",
     Chn:"耶利米还没有回去，护卫长说：「你可以回到沙番的孙子亚希甘的儿子基大利那里去；现在巴比伦王立他作犹大城邑的省长。你可以在他那里住在民中，不然，你看哪里合宜就可以上那里去。」于是护卫长送他粮食和礼物，释放他去了。",
-    Eng:"However, before Jeremiah turned to go, Nebuzaradan added, \"Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people,",
+    Eng:"However, before Jeremiah turned to go, Nebuzaradan added, \"Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people, or go anywhere else you please.\" Then the commander gave him provisions and a present and let him go.",
     Ind:"Engkau boleh kembali kepada Gedalya bin Ahikam bin Safan yang telah diangkat oleh raja Babel atas kota-kota Yehuda, dan tinggallah bersama-sama dia di tengah-tengah rakyat, atau ke mana saja engkau pandang benar, pergilah ke situ!\" Lalu kepala pasukan pengawal itu memberikan kepadanya bekal makanan dan suatu hadiah, kemudian melepas dia pergi."
   },
   {Bible:"Jeremiah", Chapter:40, Verse:6, Page:1,
@@ -41,7 +41,7 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:40, Verse:7, Page:1,
     Kor:"<유다 총독 그달리야(왕하 25:22-24)> ○들판에서 부하들과 함께 있는 군지휘관들은, 바빌로니아 왕이 아히감의 아들 그달리야를 이 땅의 총독으로 삼고, 남자와 여자와 어린 아이들뿐 아니라, 그 땅의 빈민 가운데서 바빌로니아로 끌려가지 않은 사람들을 그에게 맡겼다는 소식을 듣고,",
     Chn:"在田野的一切军长和属他们的人听见巴比伦王立了亚希甘的儿子基大利作境内的省长，并将没有掳到巴比伦的男人、妇女、孩童，和境内极穷的人全交给他。",
-    Eng:"When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children",
+    Eng:"When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children who were the poorest in the land and who had not been carried into exile to Babylon,",
     Ind:"Ketika semua panglima tentara, yang masih berada di luar kota dengan orang-orangnya, mendengar bahwa raja Babel telah mengangkat Gedalya bin Ahikam bin Safan atas negeri itu dan bahwa kepadanya telah diserahkan pengawasan atas laki-laki, perempuan dan anak-anak, yaitu dari orang-orang lemah di negeri itu, yang tidak diangkut ke dalam pembuangan ke Babel,"
   },
   {Bible:"Jeremiah", Chapter:40, Verse:8, Page:1,
@@ -89,7 +89,7 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:40, Verse:15, Page:1,
     Kor:"그 뒤에 가레아의 아들 요하난은 미스바의 그달리야에게 은밀히 이렇게까지 말하였다. \"제가 아무도 모르게 가서, 느다니야의 아들 이스마엘을 죽이겠습니다. 허락해 주십시오. 그가 총독님을 살해하면, 지금 총독님께 모여 있는 모든 유다 사람이 다시 흩어지고, 이렇게 살아 남은 유다 사람들마저 멸망하고 말 것입니다.\"",
     Chn:"加利亚的儿子约哈难在米斯巴私下对基大利说：「求你容我去杀尼探雅的儿子以实玛利，必无人知道。何必让他要你的命，使聚集到你这里来的犹大人都分散，以致犹大剩下的人都灭亡呢？」",
-    Eng:"Then Johanan son of Kareah said privately to Gedaliah in Mizpah, \"Let me go and kill Ishmael son of Nethaniah, and no one will know it.",
+    Eng:"Then Johanan son of Kareah said privately to Gedaliah in Mizpah, \"Let me go and kill Ishmael son of Nethaniah, and no one will know it. Why should he take your life and cause all the Jews who are gathered around you to be scattered and the remnant of Judah to perish?\"",
     Ind:"Kemudian Yohanan bin Kareah berkata dengan diam-diam kepada Gedalya di Mizpa: \"Baiklah aku pergi membunuh Ismael bin Netanya itu dengan tidak diketahui siapapun juga. Mengapa engkau harus dibunuhnya, sehingga semua orang Yehuda yang telah berkumpul di sekelilingmu berserak-serak lagi dan sisa Yehuda itu binasa?\""
   },
   {Bible:"Jeremiah", Chapter:40, Verse:16, Page:1,

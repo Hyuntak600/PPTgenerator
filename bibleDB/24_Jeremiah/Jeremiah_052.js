@@ -167,7 +167,7 @@ BibleDB.add([
   {Bible:"Jeremiah", Chapter:52, Verse:28, Page:1,
     Kor:"느부갓네살이 포로로 끌고 간 유다 백성의 수는 이러하다. 그의 통치 제 칠년에는 삼천이십삼 명이었다.",
     Chn:"尼布甲尼撒所掳的民数记在下面：在他第七年掳去犹大人三千零二十三名；",
-    Eng:"This is the number of the people Nebuchadnezzar carried into exile: in the seventh year,",
+    Eng:"This is the number of the people Nebuchadnezzar carried into exile: in the seventh year, 3,023 Jews;",
     Ind:"Inilah jumlah rakyat yang diangkut ke dalam pembuangan oleh Nebuzaradan: dalam tahun ketujuh, tiga ribu dua puluh tiga orang Yehuda;"
   },
   {Bible:"Jeremiah", Chapter:52, Verse:29, Page:1,

@@ -281,7 +281,7 @@ BibleDB.add([
   {Bible:"Ezekiel", Chapter:23, Verse:47, Page:1,
     Kor:"회중이 그 자매들에게 돌을 던지고, 그들을 칼로 쳐서 죽이고, 그 자매들의 아들딸들도 죽이고, 그들의 집도 불태울 것이다.",
     Chn:"这些人必用石头打死她们，用刀剑杀害她们，又杀戮她们的儿女，用火焚烧她们的房屋。",
-    Eng:"The mob will stone them and cut them down with their swords9 they will kill thistant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations.",
+    Eng:"The mob will stone them and cut them down with their swords; they will kill their sons and daughters and burn down their houses.",
     Ind:"Kumpulan orang ini akan melontari mereka dengan batu dan memancung mereka dengan pedangnya, membunuh anak-anak lelaki dan anak-anak perempuan mereka dan membakar habis rumah-rumah mereka."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:48, Page:1,

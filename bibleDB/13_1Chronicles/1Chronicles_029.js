@@ -5,13 +5,13 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:1, Page:1,
     Kor:"<성전 건축에 쓸 예물> 다윗이 온 회중에게 말하였다. \"하나님께서 유일하게 선택하신 나의 아들 솔로몬은, 아직 어리고 경험도 부족합니다. 그런데 이 공사는 너무나 큽니다. 이 성전은 사람의 집이 아니고, 주 하나님의 성전이기 때문입니다.",
     Chn:"大卫王对会众说：「我儿子所罗门是　神特选的，还年幼娇嫩；这工程甚大，因这殿不是为人，乃是为耶和华　神建造的。",
-    Eng:"Then King David said to the whole assembly: \"My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the LORD God.",
+    Eng:"Then King David said to the whole assembly: \"My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the Lord God.",
     Ind:"Berkatalah raja Daud kepada segenap jemaah itu: \"Salomo, anakku yang satu-satunya dipilih Allah adalah masih muda dan kurang berpengalaman, sedang pekerjaan ini besar, sebab bukanlah untuk manusia bait itu, melainkan untuk TUHAN Allah."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:2, Page:1,
     Kor:"나는 온 힘을 기울여, 내 하나님의 성전을 지으려고 준비하였습니다. 곧 금기구들을 만들 금과, 은기구들을 만들 은과, 동기구들을 만들 동과, 철기구들을 만들 철과, 목재 기구들을 만들 목재와, 마노와 박을 보석과 꾸밀 보석과 여러 색깔의 돌과 그 밖의 여러 보석과 대리석을 많이 준비하였습니다.",
     Chn:"我为我　神的殿已经尽力，预备金子做金器，银子做银器，铜做铜器，铁做铁器，木做木器，还有红玛瑙可镶嵌的宝石，彩石和一切的宝石，并许多汉白玉。",
-    Eng:"With all my resources I have provided for the temple of my God--gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble--all of these in large quantities.",
+    Eng:"With all my resources I have provided for the temple of my God-gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble-all of these in large quantities.",
     Ind:"Dengan segenap kemampuan aku telah mengadakan persediaan untuk rumah Allahku, yakni emas untuk barang-barang emas, perak untuk barang-barang perak, tembaga untuk barang-barang tembaga, besi untuk barang-barang besi, dan kayu untuk barang-barang kayu, batu permata syoham dan permata tatahan, batu hitam dan batu permata yang berwarna-warna, dan segala macam batu mahal-mahal dan sangat banyak pualam."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:3, Page:1,
@@ -29,7 +29,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:5, Page:1,
     Kor:"금기구와 은기구를 만들며, 기술공이 손으로 만드는 모든 일에 쓰게 하였습니다. 오늘 기꺼이 주님께 예물을 바칠 분은 안 계십니까?\"",
     Chn:"金子做金器，银子做银器，并借匠人的手制造一切。今日有谁乐意将自己献给耶和华呢？」",
-    Eng:"for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate himself today to the LORD?\"",
+    Eng:"for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate himself today to the Lord ?\"",
     Ind:"yakni emas untuk barang-barang emas dan perak untuk barang-barang perak dan untuk segala yang dikerjakan oleh tukang-tukang. Maka siapakah pada hari ini yang rela memberikan persembahan kepada TUHAN?\""
   },
   {Bible:"1Chronicles", Chapter:29, Verse:6, Page:1,
@@ -47,25 +47,25 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:8, Page:1,
     Kor:"또 보석이 있는 사람은 저마다, 게르손 사람 여히엘이 관리하는 주님의 성전 곳간에 가져다 바쳤다.",
     Chn:"凡有宝石的都交给革顺人耶歇，送入耶和华殿的府库。",
-    Eng:"Any who had precious stones gave them to the treasury of the temple of the LORD in the custody of Jehiel the Gershonite.",
+    Eng:"Any who had precious stones gave them to the treasury of the temple of the Lord in the custody of Jehiel the Gershonite.",
     Ind:"Siapa yang mempunyai batu permata menyerahkannya kepada Yehiel, orang Gerson itu, untuk perbendaharaan rumah TUHAN."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:9, Page:1,
     Kor:"그들이 기꺼이 주님께 예물을 바쳤으므로, 그들이 이렇게 기꺼이 바치게 된 것을, 백성도 기뻐하고, 다윗 왕도 크게 기뻐하였다.",
     Chn:"因这些人诚心乐意献给耶和华，百姓就欢喜，大卫王也大大欢喜。",
-    Eng:"The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the LORD. David the king also rejoiced greatly.",
+    Eng:"The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the Lord . David the king also rejoiced greatly.",
     Ind:"Bangsa itu bersukacita karena kerelaan mereka masing-masing, sebab dengan tulus hati mereka memberikan persembahan sukarela kepada TUHAN; juga raja Daud sangat bersukacita."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:10, Page:1,
     Kor:"<다윗의 감사 기도> ○그래서 다윗이 온 회중 앞에서 주님을 찬양하였다. ○\"주 우리 조상 이스라엘의 하나님, 길이길이 찬양을 받아 주십시오!",
     Chn:"所以，大卫在会众面前称颂耶和华说：「耶和华—我们的父，以色列的　神是应当称颂，直到永永远远的！",
-    Eng:"David praised the LORD in the presence of the whole assembly, saying, \"Praise be to you, O LORD, God of our father Israel, from everlasting to everlasting.",
+    Eng:"David praised the Lord in the presence of the whole assembly, saying, \"Praise be to you, O Lord , God of our father Israel, from everlasting to everlasting.",
     Ind:"Lalu Daud memuji TUHAN di depan mata segenap jemaah itu. Berkatalah Daud: \"Terpujilah Engkau, ya TUHAN, Allahnya bapa kami Israel, dari selama-lamanya sampai selama-lamanya."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:11, Page:1,
     Kor:"주님, 위대함과 능력과 영광과 승리와 존귀가 모두 주님의 것입니다. 하늘과 땅에 있는 모든 것이 다 주님의 것입니다. 그리고 이 나라도 주님의 것입니다. 주님께서는 만물의 머리 되신 분으로 높임을 받아 주십시오!",
     Chn:"耶和华啊，尊大、能力、荣耀、强胜、威严都是你的；凡天上地下的都是你的；国度也是你的，并且你为至高，为万有之首。",
-    Eng:"Yours, O LORD, is the greatness and the power and the glory and the majesty and the splendor, for everything in heaven and earth is yours. Yours, O LORD, is the kingdom; you are exalted as head over all.",
+    Eng:"Yours, O Lord , is the greatness and the power and the glory and the majesty and the splendor, for everything in heaven and earth is yours. Yours, O Lord , is the kingdom; you are exalted as head over all.",
     Ind:"Ya TUHAN, punya-Mulah kebesaran dan kejayaan, kehormatan, kemasyhuran dan keagungan, ya, segala-galanya yang ada di langit dan di bumi! Ya TUHAN, punya-Mulah kerajaan dan Engkau yang tertinggi itu melebihi segala-galanya sebagai kepala."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:12, Page:1,
@@ -95,7 +95,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:16, Page:1,
     Kor:"주 우리 하나님, 우리가 주님의 거룩한 이름을 위하여 주님의 성전을 건축하려고 준비한 이 모든 물건은, 다 주님의 손에서 받은 것이니, 모두 다 주님의 것입니다.",
     Chn:"耶和华—我们的　神啊，我们预备这许多材料，要为你的圣名建造殿宇，都是从你而来，都是属你的。",
-    Eng:"O LORD our God, as for all this abundance that we have provided for building you a temple for your Holy Name, it comes from your hand, and all of it belongs to you.",
+    Eng:"O Lord our God, as for all this abundance that we have provided for building you a temple for your Holy Name, it comes from your hand, and all of it belongs to you.",
     Ind:"Ya TUHAN, Allah kami, segala kelimpahan bahan-bahan yang kami sediakan ini untuk mendirikan bagi-Mu rumah bagi nama-Mu yang kudus adalah dari tangan-Mu sendiri dan punya-Mulah segala-galanya."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:17, Page:1,
@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:18, Page:1,
     Kor:"주, 우리 조상 아브라함과 이삭과 이스라엘의 하나님, 주님의 백성이 마음 가운데 품은 이러한 생각이 언제까지나 계속되도록 지켜 주시고, 그들의 마음이 항상 주님을 향하게 해주십시오.",
     Chn:"耶和华—我们列祖亚伯拉罕、以撒、以色列的　神啊，求你使你的民常存这样的心思意念，坚定他们的心归向你，",
-    Eng:"O LORD, God of our fathers Abraham, Isaac and Israel, keep this desire in the hearts of your people forever, and keep their hearts loyal to you.",
+    Eng:"O Lord , God of our fathers Abraham, Isaac and Israel, keep this desire in the hearts of your people forever, and keep their hearts loyal to you.",
     Ind:"Ya TUHAN, Allah Abraham, Ishak dan Israel, bapa-bapa kami, peliharalah untuk selama-lamanya kecenderungan hati umat-Mu yang demikian ini dan tetaplah tujukan hati mereka kepada-Mu."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:19, Page:1,
@@ -119,25 +119,25 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:20, Page:1,
     Kor:"○그리고 다윗은 온 회중에게 \"주 당신들의 하나님을 찬양하십시오\" 하고 말하였다. 그러자 온 회중이 조상의 하나님 주님을 찬양하고, 주님과 왕에게 무릎을 꿇고 경배하였다.",
     Chn:"大卫对全会众说：「你们应当称颂耶和华—你们的　神。」于是会众称颂耶和华—他们列祖的　神，低头拜耶和华与王。",
-    Eng:"Then David said to the whole assembly, \"Praise the LORD your God.\" So they all praised the LORD, the God of their fathers; they bowed low and fell prostrate before the LORD and the king.",
+    Eng:"Then David said to the whole assembly, \"Praise the Lord your God.\" So they all praised the Lord , the God of their fathers; they bowed low and fell prostrate before the Lord and the king.",
     Ind:"Kemudian berkatalah Daud kepada segenap jemaah itu: \"Pujilah kiranya TUHAN, Allahmu!\" Maka segenap jemaah itu memuji TUHAN, Allah nenek moyang mereka, kemudian mereka berlutut dan sujud kepada TUHAN dan kepada raja."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:21, Page:1,
     Kor:"○그 다음날 백성이 주님께 제사를 드리고 또 번제를 드렸다. 수소 천 마리와 숫양 천 마리와 어린 양 천 마리와 부어 드리는 제물 등의 풍성한 제물로 온 이스라엘을 위하여 제사를 드렸다.",
     Chn:"次日，他们向耶和华献平安祭和燔祭，就是献公牛一千只，公绵羊一千只，羊羔一千只，并同献的奠祭；又为以色列众人献许多的祭。那日，他们在耶和华面前吃喝，大大欢乐。",
-    Eng:"The next day they made sacrifices to the LORD and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.",
+    Eng:"The next day they made sacrifices to the Lord and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.",
     Ind:"Keesokan harinya mereka mempersembahkan korban sembelihan dan korban bakaran kepada TUHAN, yakni seribu ekor lembu, seribu ekor domba jantan dan seribu ekor domba muda, dengan korban-korban curahannya dan sangat banyak korban sembelihan demi seluruh Israel."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:22, Page:1,
     Kor:"그 날에, 그들은 주님 앞에서 먹고 마시며, 크게 기뻐하였다. ○그리고 그들은 다윗의 아들 솔로몬을 다시 왕으로 삼아 그에게 기름을 부어, 주님께서 쓰실 지도자가 되게 하고, 사독에게 기름을 부어 제사장으로 세웠다.",
     Chn:"他们奉耶和华的命再膏大卫的儿子所罗门作王，又膏撒督作祭司。",
-    Eng:"They ate and drank with great joy in the presence of the LORD that day. Then they acknowledged Solomon son of David as king a second time, anointing him before the LORD to be ruler and Zadok to be priest.",
+    Eng:"They ate and drank with great joy in the presence of the Lord that day. Then they acknowledged Solomon son of David as king a second time, anointing him before the Lord to be ruler and Zadok to be priest.",
     Ind:"Lalu mereka makan dan minum pada hari itu di hadapan TUHAN dengan sukacita yang besar, kemudian menyatakan untuk kedua kalinya Salomo, anak Daud, sebagai raja dan mengurapi dia bagi TUHAN sebagai raja dan Zadok sebagai imam."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:23, Page:1,
     Kor:"솔로몬이 그의 아버지 다윗의 뒤를 이어, 주님께서 허락하신 왕좌에 앉아 왕이 되었다. 그가 잘 다스렸으므로, 온 이스라엘이 그에게 순종하였다.",
     Chn:"于是所罗门坐在耶和华所赐的位上，接续他父亲大卫作王，万事亨通；以色列众人也都听从他。",
-    Eng:"So Solomon sat on the throne of the LORD as king in place of his father David. He prospered and all Israel obeyed him.",
+    Eng:"So Solomon sat on the throne of the Lord as king in place of his father David. He prospered and all Israel obeyed him.",
     Ind:"Kemudian duduklah Salomo sebagai raja menggantikan Daud, ayahnya, di atas takhta yang ditetapkan TUHAN; ia mendapat kemujuran, sehingga setiap orang Israel mendengarkan perkataannya."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:24, Page:1,
@@ -149,7 +149,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:25, Page:1,
     Kor:"주님께서, 온 이스라엘의 눈에 띄도록 솔로몬을 크게 높여 주시고, 그 이전의 어떤 이스라엘 왕도 누리지 못한 왕국의 영화를 그에게 베풀어 주셨다.",
     Chn:"耶和华使所罗门在以色列众人眼前甚为尊大，极其威严，胜过在他以前的以色列王。",
-    Eng:"The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.",
+    Eng:"The Lord highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.",
     Ind:"TUHAN membuat Salomo luar biasa besar di mata seluruh orang Israel dan mengaruniakan kepadanya keagungan kerajaan seperti tidak pernah ada pada semua raja sebelum dia yang memerintah atas Israel."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:26, Page:1,
@@ -161,7 +161,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:27, Page:1,
     Kor:"이스라엘을 다스린 기간은 마흔 해이다. 헤브론에서 일곱 해를 다스리고, 예루살렘에서 서른세 해를 다스렸다.",
     Chn:"作王共四十年：在希伯 作王七年，在耶路撒冷作王三十三年。",
-    Eng:"He ruled over Israel forty years--seven in Hebron and thirty-three in Jerusalem.",
+    Eng:"He ruled over Israel forty years-seven in Hebron and thirty-three in Jerusalem.",
     Ind:"Ia memerintah atas orang Israel selama empat puluh tahun; di Hebron ia memerintah tujuh tahun dan di Yerusalem ia memerintah tiga puluh tiga tahun."
   },
   {Bible:"1Chronicles", Chapter:29, Verse:28, Page:1,
@@ -179,7 +179,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:29, Verse:30, Page:1,
     Kor:"그의 통치와 무용담 및 그와 이스라엘과 세상 모든 나라가 겪은 그 시대의 역사가 기록되어 있다.",
     Chn:"他的国事和他的勇力，以及他和以色列并列国所经过的事都写在这书上。",
-    Eng:"",
+    Eng:"together with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands.",
     Ind:"beserta segala hidupnya sebagai raja dan kepahlawanannya dan keadaan zaman yang dialaminya dan dialami Israel dan segala kerajaan di negeri-negeri lain."
   },
 ]);

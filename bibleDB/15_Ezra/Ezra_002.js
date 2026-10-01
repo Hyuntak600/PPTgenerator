@@ -413,7 +413,7 @@ BibleDB.add([
   {Bible:"Ezra", Chapter:2, Verse:69, Page:1,
     Kor:"저마다 힘 자라는 대로 건축 기금을 마련하니, 금이 육만 천 다릭, 은이 오천 마네, 제사장의 예복이 백 벌이나 되었다.",
     Chn:"他们量力捐入工程库的金子六万一千达利克，银子五千弥拿，并祭司的礼服一百件。",
-    Eng:"According to their ability they gave to the treasury for this work 61,000 drachmas of gold,",
+    Eng:"According to their ability they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver and 100 priestly garments.",
     Ind:"Mereka memberi sumbangan sekadar kemampuan mereka untuk perbendaharaan guna pekerjaan itu sebanyak enam puluh satu ribu dirham emas, lima ribu mina perak dan seratus helai kemeja imam."
   },
   {Bible:"Ezra", Chapter:2, Verse:70, Page:1,

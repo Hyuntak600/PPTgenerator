@@ -419,7 +419,7 @@ BibleDB.add([
   {Bible:"Nehemiah", Chapter:7, Verse:70, Page:1,
     Kor:"○가문의 우두머리 가운데는 건축 기금을 내놓는 사람들이 있었다. 총독도 금 천 다릭과 쟁반 오십 개와 제사장 예복 오백삼십 벌을 창고에 들여놓았다.",
     Chn:"有些族长为工程捐助。省长捐入库中的金子一千达利克，碗五十个，祭司的礼服五百三十件。",
-    Eng:"Some of the heads of the families contributed to the work. The governor gave to the treasury",
+    Eng:"Some of the heads of the families contributed to the work. The governor gave to the treasury 1,000 drachmas of gold, 50 bowls and 530 garments for priests.",
     Ind:"Sebagian dari kepala kaum keluarga memberi sumbangan untuk pekerjaan itu, sedang kepala daerah memberi sumbangan untuk perbendaharaan seribu dirham emas, lima puluh buah bokor penyiraman, dan lima ratus tiga puluh helai kemeja imam."
   },
   {Bible:"Nehemiah", Chapter:7, Verse:71, Page:1,

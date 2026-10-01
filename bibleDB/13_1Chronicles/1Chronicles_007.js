@@ -239,7 +239,7 @@ BibleDB.add([
   {Bible:"1Chronicles", Chapter:7, Verse:40, Page:1,
     Kor:"○이들은 모두 아셀의 자손으로서, 각 가문의 족장들이요, 뽑힌 용감한 군인들이요, 지도자급 족장들이다. 싸움에 나갈 만한 군인으로서 족보에 오른 사람의 수는 이만 육천 명이다.",
     Chn:"这都是亚设的子孙，都是族长，是精壮大能的勇士，也是首领中的头目，按着家谱计算，他们的子孙能出战的共有二万六千人。",
-    Eng:"All these were descendants of Asher--heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was",
+    Eng:"All these were descendants of Asher--heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000.",
     Ind:"Itulah sekaliannya keturunan Asyer, kepala-kepala puak mereka, pahlawan-pahlawan gagah perkasa yang terpilih, pemimpin-pemimpin utama. Jumlah yang terdaftar dalam silsilah mereka sebagai pasukan perang ada dua puluh enam ribu orang."
   },
 ]);

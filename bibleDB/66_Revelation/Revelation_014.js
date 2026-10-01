@@ -5,7 +5,7 @@ BibleDB.add([
   {Bible:"Revelation", Chapter:14, Verse:1, Page:1,
     Kor:"<십사만 사천 명이 부른 노래> 또 내가 보니, 어린 양이 시온 산에 서 있었습니다. 그 어린 양과 함께 십사만 사천 명이 서 있었는데, 그들의 이마에는 어린 양의 이름과 그의 아버지의 이름이 적혀 있었습니다.",
     Chn:"我又观看，见羔羊站在锡安山，同他又有十四万四千人，都有他的名和他父的名写在额上。",
-    Eng:"Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him",
+    Eng:"Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father's name written on their foreheads.",
     Ind:"Dan aku melihat: sesungguhnya, Anak Domba berdiri di bukit Sion dan bersama-sama dengan Dia seratus empat puluh empat ribu orang dan di dahi mereka tertulis nama-Nya dan nama Bapa-Nya."
   },
   {Bible:"Revelation", Chapter:14, Verse:2, Page:1,

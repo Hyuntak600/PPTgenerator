@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"2Chronicles", Chapter:2, Verse:18, Page:1,
     Kor:"그 가운데서 칠만 명은 짐꾼으로 뽑고, 팔만 명은 산에서 돌을 떠내게 하였다. 그리고 삼천육백 명을 뽑아서, 백성이 하는 일을 감독하게 하였다.",
     Chn:"使七万人扛抬材料，八万人在山上凿石头，三千六百人督理工作。",
-    Eng:"He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with",
+    Eng:"He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 3,600 foremen over them to keep the people working.",
     Ind:"Dan dari antara mereka, tujuh puluh ribu orang dijadikannya kuli, delapan puluh ribu orang tukang pahat di pegunungan, dan tiga ribu enam ratus orang mandur yang harus menyuruh orang-orang itu bekerja."
   },
 ]);

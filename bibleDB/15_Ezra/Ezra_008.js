@@ -107,7 +107,7 @@ BibleDB.add([
   {Bible:"Ezra", Chapter:8, Verse:18, Page:1,
     Kor:"하나님이 우리를 잘 보살펴 주셔서, 갔던 이들이 사람들을 데려왔다. 그들이 데려온 사람들은 레위의 아들이며 이스라엘의 손자인 마흘리 자손으로서, 아주 유능한 인재인 세레뱌와 그의 아들 및 친족 열여덟 명과,",
     Chn:"蒙我们　神施恩的手帮助我们，他们在以色列的曾孙、利未的孙子、抹利的后裔中带一个通达人来；还有示利比和他的众子与弟兄共一十八人。",
-    Eng:"Because the gracious hand of our God was on us, they brought us Sherebiah, a capable man, from the descendants of Mahli son of Levi, the son of Israel, and Sherebiah's sons and brothers,",
+    Eng:"Because the gracious hand of our God was on us, they brought us Sherebiah, a capable man, from the descendants of Mahli son of Levi, the son of Israel, and Sherebiah's sons and brothers, 18 men;",
     Ind:"Kemudian karena tangan murah Allah kami itu melindungi kami, didatangkanlah oleh mereka kepada kami orang-orang yang berakal budi dari bani Mahli bin Lewi bin Israel, yakni Serebya dengan anak-anak dan saudara-saudaranya, delapan belas orang;"
   },
   {Bible:"Ezra", Chapter:8, Verse:19, Page:1,
