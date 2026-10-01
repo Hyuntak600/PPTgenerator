@@ -1063,7 +1063,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>📨 수정한 내용을 프로그램에 반영하려면</h3>
     <ul>
-      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>② Edited today</b> tab collects everything you edited that day) and send the code to the program administrator (<a href='mailto:sht0230@naver.com'>sht0230@naver.com</a>). We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>② 오늘 수정한 것</b>을 누르면 그날 수정한 절이 한 번에 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요.) 복사한 코드를 프로그램 관리자(<a href="mailto:sht0230@naver.com">sht0230@naver.com</a>)에게 보내 주세요. 확인 후 프로그램을 업데이트할게요.</li>
+      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>② Not sent yet</b> tab collects every verse you edited and haven't marked as sent, whatever the date) and send the code to the program administrator (<a href='mailto:sht0230@naver.com'>sht0230@naver.com</a>). Then press <b>✅ Mark as sent</b> — from then on only verses you edit again are collected. We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<a href="mailto:sht0230@naver.com">sht0230@naver.com</a>)에게 보낸 뒤 <b>✅ 보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
     </ul>
 
     <h3>🎞 슬라이드를 만들 때는</h3>
@@ -1090,13 +1090,14 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
     <div class="wel-row" style="margin-bottom:10px">
       <span class="seg" id="dbScopeSeg">
         <button type="button" data-scope="cur" class="active" title="지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요">① 지금 보고 있는 절</button>
-        <button type="button" data-scope="day" title="고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요">② 오늘 수정한 것</button>
+        <button type="button" data-scope="unsent" title="날짜와 상관없이, 고친 뒤 아직 '보냈어요'를 누르지 않은 모든 절을 (여러 장이어도) 한 번에 모아요">② 아직 안 보낸 것</button>
       </span>
-      <label class="field" id="dbDayWrap" hidden title="이 날짜에 수정한 절을 모아요 (기본: 오늘)"><span>날짜</span><input type="date" id="dbDayInput"></label>
+      <label class="field" id="dbInclWrap" hidden title="이미 보냈다고 표시한 절도 목록에 함께 보여 줘요"><input type="checkbox" id="dbInclSent"><span>보낸 것도 포함</span></label>
     </div>
     <textarea id="dbCodeText" class="copy-text" spellcheck="false"></textarea>
     <div class="copy-actions">
       <button type="button" class="btn primary" id="dbCodeCopy">복사</button>
+      <button type="button" class="btn" id="dbSentBtn" hidden title="복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요">✅ 보냈어요</button>
       <button class="patch-close-btn" id="dbCodeClose">닫기</button>
     </div>
   </div>
@@ -3421,16 +3422,16 @@ const dbBook = document.getElementById("dbBook"), dbChap = document.getElementBy
 let dbBroken = false, dbSlideSnap = null, dbSeq = 0, dbMiss = false;
 const dbChapSeen = new Map(); // "책|장" → 내용이 있는 절 수(열어 본 장만 앎)
 let dbVerseHas = new Set();   // 지금 장에서 초안 또는 장 파일에 내용이 있는 절 번호
-dbVerse.title = "✎ 표시: 내가 수정한 절 — 🧩 DB 코드 복사로 관리자에게 보내 주세요";
+dbVerse.title = "✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요";
 dbRoot.dataset.mode = "slide";
 
 function dbRead() {
   let raw = null;
-  try { raw = localStorage.getItem(DB_KEY); } catch (e) { return { v: 1, d: {} }; }
-  if (!raw) return { v: 1, d: {}, t: {} };
+  try { raw = localStorage.getItem(DB_KEY); } catch (e) { return { v: 1, d: {}, t: {}, s: {} }; }
+  if (!raw) return { v: 1, d: {}, t: {}, s: {} };
   try {
     const o = JSON.parse(raw);
-    if (o && o.v === 1 && o.d && typeof o.d === "object") { if (!o.t || typeof o.t !== "object") o.t = {}; return o; } // o.t = 절마다 마지막으로 수정한 시각(ms)
+    if (o && o.v === 1 && o.d && typeof o.d === "object") { if (!o.t || typeof o.t !== "object") o.t = {}; if (!o.s || typeof o.s !== "object") o.s = {}; return o; } // o.t = 절마다 마지막으로 수정한 시각(ms) · o.s = 절마다 "관리자에게 보냈다"고 표시한 시각(ms)
     throw new Error("bad");
   } catch (e) { // 손상된 초안: 지우지 않고 따로 보관하고, 덮어쓰지 않도록 저장을 멈춤
     if (!dbBroken) {
@@ -3438,10 +3439,12 @@ function dbRead() {
       try { localStorage.setItem(DB_KEY + "_corrupt_" + Date.now(), raw); } catch (e2) { /* 무시 */ }
       showToast("DB 초안을 읽지 못해 원본을 따로 보관했어요. 덮어쓰지 않도록 저장을 멈춥니다.", true);
     }
-    return { v: 1, d: {} };
+    return { v: 1, d: {}, t: {}, s: {} };
   }
 }
 const dbKey = s => s.en + "|" + s.ch + "|" + s.v;
+// 아직 안 보낸 수정인가: 보냈다고 표시한 기록이 없거나, 표시한 뒤에 다시 고쳤으면 true (수정 시각이 없는 옛 초안은 보낸 기록이 있어야만 "보냄")
+function dbIsUnsent(o, k) { return !(o.s[k] && o.s[k] >= (o.t[k] || 0)); }
 function columnsToMap() {
   const m = {};
   left.querySelectorAll(".col").forEach(c => { m[c.dataset.lang] = [...c.querySelectorAll(".box")].map(b => b._ta.value); });
@@ -3467,9 +3470,9 @@ function saveDbNow() { // 지금 올라와 있는 "이 절"만 저장(다른 절
     const pages = dbPagesFromScreen(), k = dbKey(dbCur);
     const fr = BibleDB.rows(dbCur.en, dbCur.ch).filter(r => r.Verse === dbCur.v);
     const before = o.d[k] === undefined ? null : dbNormPages(o.d[k]);
-    if (dbNormPages(pages) === dbNormPages(fr)) { delete o.d[k]; delete o.t[k]; } // 장 파일과 같으면 초안이 필요 없음
+    if (dbNormPages(pages) === dbNormPages(fr)) { delete o.d[k]; delete o.t[k]; delete o.s[k]; } // 장 파일과 같으면 초안이 필요 없음
     else if (pages.length || fr.length) { o.d[k] = pages; if (before !== dbNormPages(pages)) o.t[k] = Date.now(); } // 파일에 있는 절을 일부러 비운 경우는 빈 초안([])으로 기억 · 내용이 실제로 바뀐 때만 수정 시각 갱신
-    else { delete o.d[k]; delete o.t[k]; }
+    else { delete o.d[k]; delete o.t[k]; delete o.s[k]; }
     localStorage.setItem(DB_KEY, JSON.stringify(o));
     stateDirty = false; saveWarnEl.hidden = true;
     dbMarkVerses();
@@ -3479,18 +3482,18 @@ function saveDbNow() { // 지금 올라와 있는 "이 절"만 저장(다른 절
 function dbNormPages(list) { return JSON.stringify((list || []).map(p => [p.Kor, p.Chn, p.Eng, p.Ind].map(x => (x || "").trim()).concat(p.ChnVerseEnd || 0))); }
 function dbMarkVerses() {
   const s = dbCur; if (!s || !window.BibleDB) return;
-  const pre = s.en + "|" + s.ch + "|", d = dbRead().d, fileBy = new Map(), pend = new Set();
+  const pre = s.en + "|" + s.ch + "|", ob = dbRead(), d = ob.d, fileBy = new Map(), pend = new Set(), sentOk = new Set();
   BibleDB.rows(s.en, s.ch).forEach(r => { if (!fileBy.has(r.Verse)) fileBy.set(r.Verse, []); fileBy.get(r.Verse).push(r); });
   Object.keys(d).forEach(k => {
     if (!k.startsWith(pre)) return;
     const v = parseInt(k.slice(pre.length), 10);
-    if (dbNormPages(d[k]) !== dbNormPages(fileBy.get(v))) pend.add(v);
+    if (dbNormPages(d[k]) !== dbNormPages(fileBy.get(v))) { pend.add(v); if (!dbIsUnsent(ob, k)) sentOk.add(v); }
   });
   const has = new Set(), filled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind); // 내용(한 글자라도)이 있는 절
   fileBy.forEach((rows, v) => { if (rows.some(filled)) has.add(v); });
   Object.keys(d).forEach(k => { if (!k.startsWith(pre)) return; const v = parseInt(k.slice(pre.length), 10); if ((d[k] || []).some(filled)) has.add(v); else has.delete(v); }); // 빈 초안 = 일부러 비운 절
   dbVerseHas = has; dbChapSeen.set(s.en + "|" + s.ch, has.size);
-  [...dbVerse.options].forEach(o => { const t = o.value + (pend.has(+o.value) ? " ✎" : ""); if (o.textContent !== t) o.textContent = t; });
+  [...dbVerse.options].forEach(o => { const t = o.value + (pend.has(+o.value) ? (sentOk.has(+o.value) ? " ✓" : " ✎") : ""); if (o.textContent !== t) o.textContent = t; });
   dbStat.textContent = dbMiss ? "⚠ 이 장의 성경 데이터를 찾지 못했어요" : ""; // 문제가 있을 때만 표시
 }
 function dbSource(s) {
@@ -4164,28 +4167,27 @@ function dbChapterEntries(en, ch) { // [[절, 페이지들]...] — 절마다 �
   Object.keys(d).forEach(k => { if (k.startsWith(pre)) by.set(parseInt(k.slice(pre.length), 10), d[k]); });
   return [...by.entries()].filter(e => e[1].length).sort((a, b) => a[0] - b[0]);
 }
-// 하루치 모으기: 고른 날짜(기본 오늘, 이 PC의 날짜 기준 0시~24시)에 수정한 절을 책·장·절 순서로 전부 모아 장별로 묶어 보여 줌
-const dbDayInput = document.getElementById("dbDayInput"), dbDayWrap = document.getElementById("dbDayWrap");
+// 아직 안 보낸 수정 모으기: 절마다 "마지막 수정 시각"(o.t)과 "보냈다고 표시한 시각"(o.s)을 견줘, 수정이 더 나중인(또는 보낸 기록이 없는) 절만
+// 날짜와 상관없이 책·장·절 순서로 모아 장별로 묶어 보여 줌. [✅ 보냈어요]를 누르면 그 절들의 o.s가 지금 시각으로 찍힘 → 다시 고친 절만 다시 모임
+const dbInclSent = document.getElementById("dbInclSent"), dbInclWrap = document.getElementById("dbInclWrap"), dbSentBtn = document.getElementById("dbSentBtn");
 function dbToday() { const t = new Date(), p = x => String(x).padStart(2, "0"); return t.getFullYear() + "-" + p(t.getMonth() + 1) + "-" + p(t.getDate()); }
-dbDayInput.value = dbToday();
-function dbDayList() { // 선택한 날짜에 수정한 절 [{en,ch,v,pages,t}] + 날짜 기록이 없는 이전 초안 수
-  const o = dbRead(), day = dbDayInput.value || dbToday(), p = day.split("-").map(Number);
-  const from = new Date(p[0], p[1] - 1, p[2]).getTime(), to = new Date(p[0], p[1] - 1, p[2] + 1).getTime();
+function dbUnsentList() { // {list:[{en,ch,v,pages,unsent}], unsent: 안 보낸 절 수, sent: 보냈다고 표시한 절 수}
+  const o = dbRead(), incl = dbInclSent.checked;
   const order = new Map(); BibleDB.books.forEach((b, i) => order.set(b.en, +b.no > 0 ? +b.no : i + 1));
-  const list = []; let undated = 0;
+  const list = []; let unsent = 0, sent = 0;
   Object.keys(o.d).forEach(k => {
-    const t = o.t[k], q = k.split("|");
-    if (!t) { undated++; return; }
-    if (t >= from && t < to) list.push({ en: q[0], ch: +q[1], v: +q[2], pages: o.d[k], t });
+    const q = k.split("|"), un = dbIsUnsent(o, k);
+    if (un) unsent++; else sent++;
+    if (un || incl) list.push({ en: q[0], ch: +q[1], v: +q[2], pages: o.d[k], unsent: un });
   });
   list.sort((a, b) => (order.get(a.en) || 999) - (order.get(b.en) || 999) || a.ch - b.ch || a.v - b.v);
-  return { list, undated, day };
+  return { list, unsent, sent };
 }
-function buildDbDayCode() {
-  const { list, day } = dbDayList();
+function buildDbUnsentCode() {
+  const { list } = dbUnsentList();
   if (!list.length) return "";
   const chapters = new Set(list.map(x => x.en + "|" + x.ch)).size;
-  const out = ["// " + day + " 수정한 성경 구절 " + list.length + "절 (" + chapters + "개 장)", ""];
+  const out = ["// " + dbToday() + " 수정한 성경 구절 " + list.length + "절 (" + chapters + "개 장)", ""];
   let cur = "";
   list.forEach(x => {
     const key = x.en + "|" + x.ch;
@@ -4203,7 +4205,7 @@ function buildDbDayCode() {
 // 선택 키 = "책|장|절|페이지번호(0부터)"
 const dcBook = document.getElementById("dcBook"), dcChap = document.getElementById("dcChap"), dcList = document.getElementById("dcList"),
       dcCount = document.getElementById("dcCount"), dbPickWrap = document.getElementById("dbPickWrap");
-let dbScope = "cur", dcSel = new Set(), dcSeq = 0; // dbScope: "cur"(지금 보고 있는 절) | "day"(오늘 수정한 것). dcSel은 📋 전체 복사의 ② 선택한 절 체크 상태
+let dbScope = "cur", dcSel = new Set(), dcSeq = 0; // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아직 안 보낸 것). dcSel은 📋 전체 복사의 ② 선택한 절 체크 상태
 if (window.BibleDB) BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; dcBook.appendChild(o); });
 const pgName = i => String.fromCharCode(97 + (i % 26)); // a, b, c ...
 const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
@@ -4218,13 +4220,13 @@ async function dcRender() {
   dcList.textContent = "불러오는 중...";
   try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
   if (seq !== dcSeq) return;
-  const drafts = dbRead().d, entries = dcEntries(en, ch);
+  const ob = dbRead(), drafts = ob.d, entries = dcEntries(en, ch);
   dcList.textContent = "";
   if (!entries.length) { const d = document.createElement("div"); d.className = "dc-none"; d.textContent = "이 장에는 내용이 있는 절이 없어요."; dcList.appendChild(d); dcUpdateCount(); return; }
   entries.forEach(([v, pgs]) => {
     const row = document.createElement("div"); row.className = "dc-v";
     const lab = document.createElement("label"), vc = document.createElement("input"), num = document.createElement("span");
-    vc.type = "checkbox"; num.className = "dc-num"; num.textContent = v + (drafts[en + "|" + ch + "|" + v] ? " ✎" : "");
+    vc.type = "checkbox"; num.className = "dc-num"; num.textContent = v + (drafts[en + "|" + ch + "|" + v] ? (dbIsUnsent(ob, en + "|" + ch + "|" + v) ? " ✎" : " ✓") : "");
     lab.append(vc, num); row.appendChild(lab);
     const boxes = pgs.map(({ p, i }) => {
       const k = dcKey(en, ch, v, i);
@@ -4286,16 +4288,18 @@ function dcBuildPickCode(sel) {
 }
 function buildDbCode() {
   saveDbNow(); // 지금 화면의 내용까지 초안에 반영한 뒤 뽑음
-  return dbScope === "day" ? buildDbDayCode() : dcBuildPickCode(dbCurSel());
+  return dbScope === "unsent" ? buildDbUnsentCode() : dcBuildPickCode(dbCurSel());
 }
 function refreshDbCode() {
   const code = buildDbCode();
   dbCodeText.value = code;
-  if (dbScope === "day") {
-    const r = dbDayList();
-    dbCodeSub.textContent = r.day + " 에 수정한 절을 모두 모았어요(" + r.list.length + "절). 이 내용을 그대로 복사해 관리자(sht0230@naver.com)에게 보내 주세요."
-      + (r.undated ? " · 수정 날짜가 기록되지 않은 이전 초안 " + r.undated + "절은 포함되지 않아요(그 절을 열어 ① 지금 보고 있는 절에서 복사하세요)." : "")
-      + (code ? "" : " (그 날짜에 수정한 절이 없어요 — 날짜를 바꿔 보세요)");
+  if (dbScope === "unsent") {
+    const r = dbUnsentList();
+    dbCodeSub.textContent = r.unsent
+      ? "아직 안 보낸 수정 " + r.unsent + "절을 날짜와 상관없이 모두 모았어요. 복사해 관리자(sht0230@naver.com)에게 보낸 뒤 [✅ 보냈어요]를 눌러 주세요. 보낸 뒤 다시 고친 절은 다시 모여요."
+        + (dbInclSent.checked && r.sent ? " (이미 보낸 " + r.sent + "절 포함)" : "")
+      : "아직 안 보낸 수정이 없어요 ✓" + (!r.sent ? "" : dbInclSent.checked ? " (아래는 이미 보낸 " + r.sent + "절이에요)" : " (이미 보낸 " + r.sent + "절은 [보낸 것도 포함]을 체크하면 다시 볼 수 있어요)");
+    dbSentBtn.disabled = !r.unsent;
   } else {
     const cs = dbCur && window.BibleDB ? BibleDB.book(dbCur.en).ko + " " + dbCur.ch + ":" + dbCur.v : "";
     dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자(sht0230@naver.com)에게 보내 주세요."
@@ -4303,7 +4307,7 @@ function refreshDbCode() {
   }
 }
 function dbSetScope(sc) {
-  dbScope = sc; dbDayWrap.hidden = sc !== "day";
+  dbScope = sc; dbInclWrap.hidden = sc !== "unsent"; dbSentBtn.hidden = sc !== "unsent";
   dbScopeSeg.querySelectorAll("button").forEach(x => x.classList.toggle("active", x.dataset.scope === sc));
   refreshDbCode();
 }
@@ -4311,11 +4315,25 @@ document.getElementById("dbCodeBtn").addEventListener("click", () => {
   if (dbBroken) { showToast("DB 초안을 읽지 못하는 상태라 코드를 만들지 않아요. 원본은 브라우저에 보관돼 있어요.", true); return; }
   if (!dbCur) { showToast("절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.", true); return; }
   saveDbNow();
+  dbInclSent.checked = false;
   dbSetScope("cur"); // 열 때마다 지금 보고 있는 절부터
   dbCodeOverlay.classList.add("open");
 });
 dbScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", () => dbSetScope(b.dataset.scope)));
-dbDayInput.addEventListener("change", () => { if (!dbDayInput.value) dbDayInput.value = dbToday(); refreshDbCode(); });
+dbInclSent.addEventListener("change", refreshDbCode);
+dbSentBtn.addEventListener("click", () => {
+  if (dbBroken) { showToast("DB 초안을 읽지 못하는 상태라 표시하지 않아요. 원본은 브라우저에 보관돼 있어요.", true); return; }
+  saveDbNow(); // 지금 화면의 내용까지 먼저 반영
+  const targets = dbUnsentList().list.filter(x => x.unsent);
+  if (!targets.length) { showToast("보냈다고 표시할 절이 없어요.", true); return; }
+  try {
+    const o = dbRead(), now = Date.now();
+    targets.forEach(x => { const k = x.en + "|" + x.ch + "|" + x.v; if (o.d[k]) o.s[k] = now; });
+    localStorage.setItem(DB_KEY, JSON.stringify(o));
+  } catch (e) { showToast("표시를 저장하지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.", true); return; }
+  showToast(targets.length + "절을 보낸 것으로 표시했어요. 다시 고친 절만 다시 모여요.");
+  refreshDbCode(); dbMarkVerses();
+});
 document.getElementById("dbCodeCopy").addEventListener("click", () => {
   if (!dbCodeText.value.trim()) { showToast("복사할 내용이 없어요.", true); return; }
   copyToClipboard(dbCodeText.value, "DB 코드를 복사했어요.");
@@ -5799,7 +5817,7 @@ ctScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", (
     "이 슬라이드를 한 칸 위로":"Move this slide up one","이 슬라이드를 한 칸 아래로":"Move this slide down one","슬라이드 순서를 바꿨어요.":"Slide order changed.",
     "다국어 자막 정렬 도구":"Multilingual Subtitle Alignment Tool",
     "🎞 슬라이드 만들기":"🎞 Make slides","📖 성경 DB":"📖 Bible DB","슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기":"Make slides ↔ Build the Bible verse database",
-    "🧩 DB 코드 복사":"🧩 Copy DB code","🧹 로컬 데이터 지우기":"🧹 Clear local data","📖 성경 DB 사용 안내":"📖 Bible DB guide","ℹ️ 사용 안내":"ℹ️ Guide","성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요":"View the Bible DB instructions again (how to send your edits, local data, etc.)","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🧹 로컬 데이터":"🧹 Local data","확인했어요":"Got it","① 선택한 절":"① Selected verses","① 지금 보고 있는 절":"① Current verse","② 선택한 절":"② Selected verses","지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요":"Makes the code for the verse open on screen (all its pages a·b·c)","지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)":"Shows the verse open on screen as is (edit it if you like, then copy)","성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요":"Change the book/chapter and check verses or pages (a·b·c) — only the checked text is copied together","성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)":"Pick a book and chapter and check verses — their text gathers below. (No verses checked)","지금 보고 있는 절에는 복사할 내용이 없어요.":"The verse you are viewing has nothing to copy.","② 오늘 수정한 것":"② Edited today","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
+    "🧩 DB 코드 복사":"🧩 Copy DB code","🧹 로컬 데이터 지우기":"🧹 Clear local data","📖 성경 DB 사용 안내":"📖 Bible DB guide","ℹ️ 사용 안내":"ℹ️ Guide","성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요":"View the Bible DB instructions again (how to send your edits, local data, etc.)","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🧹 로컬 데이터":"🧹 Local data","확인했어요":"Got it","① 선택한 절":"① Selected verses","① 지금 보고 있는 절":"① Current verse","② 선택한 절":"② Selected verses","지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요":"Makes the code for the verse open on screen (all its pages a·b·c)","지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)":"Shows the verse open on screen as is (edit it if you like, then copy)","성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요":"Change the book/chapter and check verses or pages (a·b·c) — only the checked text is copied together","성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)":"Pick a book and chapter and check verses — their text gathers below. (No verses checked)","지금 보고 있는 절에는 복사할 내용이 없어요.":"The verse you are viewing has nothing to copy.","② 아직 안 보낸 것":"② Not sent yet","보낸 것도 포함":"Include already sent","✅ 보냈어요":"✅ Mark as sent","날짜와 상관없이, 고친 뒤 아직 '보냈어요'를 누르지 않은 모든 절을 (여러 장이어도) 한 번에 모아요":"Collects every verse you edited and haven't marked as sent, whatever the date (even across chapters)","이미 보냈다고 표시한 절도 목록에 함께 보여 줘요":"Also lists verses already marked as sent","복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요":"Press this after sending the copied code to the administrator. It marks the listed verses as sent, so from now on only verses you edit again are collected","✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요":"✎ = edited, not sent yet · ✓ = edited and marked as sent — collect them in 🧩 Copy DB code ② Not sent yet and send them to the administrator","보냈다고 표시할 절이 없어요.":"There are no verses to mark as sent.","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
     "이전 장":"Previous chapter","다음 장":"Next chapter","이전 절 (키보드 ←)":"Previous verse (keyboard ←)","다음 절 (키보드 →)":"Next verse (keyboard →)","이전 절":"Previous verse","다음 절":"Next verse",
     "성경의 첫 장이에요.":"This is the first chapter of the Bible.","성경의 마지막 장이에요.":"This is the last chapter of the Bible.","이 장의 첫 절이에요.":"This is the first verse of the chapter.",
     "이 장의 마지막 절이에요. 다음 장은 장 옆 ▶ 버튼을 눌러 주세요.":"This is the last verse of the chapter. Press the ▶ next to Chapter to go to the next chapter.",
@@ -5924,11 +5942,12 @@ ctScopeSeg.querySelectorAll("button").forEach(b => b.addEventListener("click", (
     [/^이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요\..*?(?:현재 (\d+)절)?\n\n✅.*$/s, n => "This deletes all local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n· Your own Bible verse edits (DB drafts)" + (n ? " — currently " + n + " verses" : "") + "\n\n✅ The original DB published on the website is NOT deleted. It loads again as usual.\n⚠ Your own edits can't be restored, so first send them to the administrator with '🧩 Copy DB code', and save any script you need as a file in 🛡️ Backup·Restore.\n\nContinue?"],
     [/^마지막 확인이에요\.\n\n내가 수정한 성경 구절 (\d+)절이.*$/s, n => "Final check.\n\n" + n + " Bible verses you edited will be permanently removed from this PC. Did you send the DB code to the administrator?\n\nReally delete?"]
 ,
-    [/^(\d{4}-\d{2}-\d{2}) 에 수정한 절을 모두 모았어요\((\d+)절\)\. .*?(?: · 수정 날짜가 기록되지 않은 이전 초안 (\d+)절.*)?$/s, (d, n, u) => "Gathered every verse edited on " + d + " (" + n + " verses). Copy this as is and send it to the administrator (sht0230@naver.com)." + (u ? " · " + u + " older drafts have no edit date and are not included (open each verse and copy it in ① Current verse)." : "")],
-    [/^ \(그 날짜에 수정한 절이 없어요.*$/s, () => " (No verses were edited on that date — try another date)"]
+    [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator (sht0230@naver.com), then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
+    [/^아직 안 보낸 수정이 없어요 ✓(?: \(아래는 이미 보낸 (\d+)절이에요\)| \(이미 보낸 (\d+)절은 .*\))?$/s, (a, b) => "Nothing is waiting to be sent ✓" + (a ? " (below are the " + a + " already sent)" : b ? " (the " + b + " already sent can be shown by checking [Include already sent])" : "")],
+    [/^(\d+)절을 보낸 것으로 표시했어요\..*$/s, n => "Marked " + n + (n === "1" ? " verse" : " verses") + " as sent. Only verses you edit again will be collected again."]
 ,
     [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (sht0230@naver.com)." + (x ? " (This verse has no content)" : "")],
-    [/^체크한 (\d+)절 · (\d+)페이지의 글을 모았어요\..*$/s, (v, p) => "Gathered the text of " + v + " checked verses · " + p + " pages. Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
+    [/^체크한 (\d+)절 · (\d+)페이지의 글을 모았어요\..*$/s, (v, p) => "Gathered the text of " + v + (v === "1" ? " checked verse · " : " checked verses · ") + p + (p === "1" ? " page." : " pages.") + " Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];
   function T(s) {
     const k = s.trim(); if (!k) return s;
