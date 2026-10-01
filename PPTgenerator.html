@@ -703,10 +703,33 @@ html[data-mode="db"] .slide-only, html[data-mode="db"] #guideBar{display:none !i
 .mac-item.on{background:var(--accent); color:#fff;}
 .mac-item.on.empty > span{opacity:.75;}
 @media (prefers-reduced-motion:reduce){.mac-menu{animation:none;}}
-.imp-modal{max-width:640px;}
-.imp-pick{margin-bottom:10px;}
-.imp-tilde{color:var(--sub);}
-.imp-sum{margin:10px 0 0;}
+.imp-modal{max-width:560px;}
+.imp-pick{margin-bottom:12px; gap:8px 16px;}
+.imp-box{padding:10px 13px; border-radius:10px; background:color-mix(in srgb,var(--ink) 5%,transparent); min-height:3.1em; box-sizing:border-box;}
+.imp-box .imp-sum{margin:0; font-size:.82rem; font-weight:600; color:var(--ink);}
+.imp-box .imp-prev{margin:3px 0 0; font-size:.78rem; line-height:1.45; color:var(--sub); word-break:keep-all;}
+.imp-box .imp-prev:empty{display:none;}
+/* 성경 불러오기 선택 창: 책은 검색 + 구약/신약, 장·절은 번호판 */
+.mac-sel.pk .mac-lbl{font-weight:600;}
+.mac-sel.pk.ph .mac-lbl{font-weight:400; color:var(--sub);}
+.pk-menu{display:flex; flex-direction:column; overflow:hidden; padding:6px; max-width:94vw;}
+.pk-scroll{position:relative; overflow-y:auto; overscroll-behavior:contain; min-height:0; flex:1 1 auto;}
+.pk-top{display:flex; align-items:center; justify-content:space-between; gap:10px; white-space:nowrap; padding:2px 4px 8px; font-size:.74rem; color:var(--sub);}
+.pk-all{border:0; border-radius:999px; padding:3px 11px; font:inherit; font-weight:600; color:var(--accent); cursor:pointer; background:color-mix(in srgb,var(--accent) 12%,transparent);}
+.pk-all:hover{background:color-mix(in srgb,var(--accent) 22%,transparent);}
+.pk-search{display:block; width:100%; box-sizing:border-box; margin:0 0 6px; padding:6px 10px; border:0; border-radius:8px; font:inherit; font-size:.82rem; color:var(--ink); background:color-mix(in srgb,var(--ink) 7%,transparent); outline:none;}
+.pk-search:focus{box-shadow:var(--mac-ring);}
+.pk-group{position:sticky; top:0; z-index:1; padding:5px 8px 3px; font-size:.68rem; font-weight:700; letter-spacing:.04em; color:var(--sub); background:color-mix(in srgb,var(--panel) 92%,transparent);}
+.pk-book > .pk-no{flex:none; width:1.7em; text-align:right; font-size:.7rem; opacity:.5; font-variant-numeric:tabular-nums;}
+.pk-book > .pk-ko{flex:1 1 auto; font-weight:500;}
+.pk-book > .pk-en{flex:none; margin-left:14px; font-size:.7rem; opacity:.55;}
+.pk-none{padding:14px 10px; font-size:.78rem; color:var(--sub); text-align:center;}
+.pk-grid{display:grid; grid-template-columns:repeat(var(--cols,6),minmax(0,1fr)); gap:4px;}
+.pk-cell{display:flex; align-items:center; justify-content:center; height:30px; padding:0 4px; border-radius:7px; font-size:.8rem; font-variant-numeric:tabular-nums; white-space:nowrap; cursor:default; -webkit-user-select:none; user-select:none; background:color-mix(in srgb,var(--ink) 5%,transparent);}
+.pk-cell.cur:not(.locked){background:color-mix(in srgb,var(--accent) 20%,transparent);}
+.pk-cell.rng:not(.locked){background:color-mix(in srgb,var(--accent) 26%,transparent);}
+.pk-cell.sel:not(.locked){background:var(--accent); color:#fff; font-weight:600;}
+.pk-cell.locked{opacity:.3; cursor:not-allowed; background:transparent;}
 /* 슬라이드 만들기 모드의 성경 조각: 클릭·수정 없이 "줄 선택"만 됨 */
 .box.bible{cursor:pointer;}
 .box.bible textarea{pointer-events:none; -webkit-user-select:none; user-select:none; cursor:pointer;}
@@ -986,16 +1009,14 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 <div class="patch-overlay" id="impOverlay">
   <div class="patch-modal imp-modal">
     <h2>📖 성경 DB에서 불러오기</h2>
-    <p class="patch-sub">시작 절과 끝 절을 고르면 그 사이 구절이 지금 원고 맨 뒤에 조각으로 추가돼요(한 절만 넣으려면 시작 절만 고르세요). 흐리게 보이는 절은 아직 내용이 없어서 고를 수 없어요. 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보이지만, 슬라이드에는 숫자만 표시돼요. 넣은 뒤에는 슬라이드 위쪽의 ▲ ▼로 순서를 바꾸고, ✕로 지울 수 있어요.</p>
+    <p class="patch-sub">성경 → 장 → 절 순서로 고르면 원고 맨 뒤에 조각으로 들어가요. 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="impBook"></select></label>
       <label class="field"><span>장</span><select id="impChap"></select></label>
-      <label class="field"><span>절</span><select id="impFrom" title="시작 절"></select></label>
-      <span class="imp-tilde">~</span>
-      <select id="impTo" title="끝 절"></select>
+      <div class="field"><span>절</span><select id="impFrom" title="시작 절"></select><select id="impTo" title="끝 절"></select></div>
       <button type="button" class="btn quiet" id="impAll" title="이 장에서 내용이 있는 절을 처음부터 끝까지 고릅니다">장 전체</button>
     </div>
-    <p class="patch-sub imp-sum" id="impSum"></p>
+    <div class="imp-box"><p class="patch-sub imp-sum" id="impSum"></p><p class="imp-prev" id="impPrev"></p></div>
     <div class="copy-actions">
       <button type="button" class="btn primary" id="impGo">원고 뒤에 넣기</button>
       <button class="patch-close-btn" id="impClose">닫기</button>
@@ -3673,14 +3694,193 @@ function macSelect(sel, isEmpty, lock) { // lock === true 이면 isEmpty 항목�
 macSelect(dbBook);
 macSelect(dbChap, c => dbChapSeen.get(dbBook.value + "|" + c) === 0);
 macSelect(dbVerse, v => !dbVerseHas.has(+v));
+// ---- 성경 불러오기 전용 선택 창 ----
+// 성경 = 검색 + 구약/신약 목록, 장·절 = 번호판. 원래 <select>는 숨겨 둔 값 저장소로만 쓰므로 기존 코드는 그대로 동작한다.
+// 성경 → 장 → 절 순서로 고르면 다음 선택 창이 자동으로 열린다. 절은 "시작 → 끝" 두 번 누르면 범위(같은 절을 또 누르면 한 절).
+let pkClose = null; // 지금 열려 있는 선택 창을 닫는 함수(한 번에 하나만)
+function pkMake(hosts, labelFn, minW, make) {
+  const sel = hosts[0], btn = document.createElement("button"), lbl = document.createElement("span");
+  btn.type = "button"; btn.className = "mac-sel pk"; lbl.className = "mac-lbl"; btn.appendChild(lbl);
+  btn.setAttribute("aria-haspopup", "dialog"); btn.setAttribute("aria-expanded", "false");
+  btn.style.fontSize = getComputedStyle(sel).fontSize; btn.style.minWidth = minW + "px";
+  sel.parentNode.insertBefore(btn, sel); hosts.forEach(h => { h.style.display = "none"; });
+  const sync = () => { const t = labelFn(); if (lbl.textContent !== t.text) lbl.textContent = t.text; btn.classList.toggle("ph", !!t.ph); };
+  macSyncs.push(sync);
+  const mo = new MutationObserver(() => macSyncs.forEach(f => f()));
+  hosts.forEach(h => { mo.observe(h, { childList: true, subtree: true, characterData: true }); h.addEventListener("change", () => macSyncs.forEach(f => f())); });
+  sync();
+  let menu = null, ctl = null;
+  function close() {
+    if (!menu) return;
+    menu.remove(); menu = null; ctl = null; if (pkClose === close) pkClose = null; btn.setAttribute("aria-expanded", "false");
+    document.removeEventListener("keydown", onKey, true); document.removeEventListener("mousedown", onOut, true);
+    window.removeEventListener("scroll", onScroll, true); window.removeEventListener("resize", close); window.removeEventListener("blur", close);
+  }
+  function onOut(e) { if (menu && !menu.contains(e.target) && !btn.contains(e.target)) close(); }
+  function onScroll(e) { if (menu && !menu.contains(e.target)) close(); }
+  function onKey(e) {
+    if (!menu) return;
+    if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); close(); btn.focus(); return; }
+    if (e.key === "Tab") { close(); return; }
+    if (e.isComposing) return; // 한글 조합 중 Enter는 글자 확정용
+    if (ctl.key(e)) { e.preventDefault(); e.stopPropagation(); }
+  }
+  function open() {
+    if (pkClose) pkClose();
+    ctl = make(close); menu = ctl.el; menu.classList.add("mac-menu", "pk-menu");
+    document.body.appendChild(menu);
+    const r = btn.getBoundingClientRect(), below = innerHeight - r.bottom - 12, above = r.top - 12, up = below < 260 && above > below;
+    menu.style.maxHeight = Math.min(380, up ? above : below) + "px";
+    menu.style.left = Math.max(8, Math.min(r.left, innerWidth - menu.offsetWidth - 8)) + "px";
+    if (up) menu.style.bottom = innerHeight - r.top + 4 + "px"; else menu.style.top = r.bottom + 4 + "px";
+    btn.setAttribute("aria-expanded", "true"); pkClose = close;
+    document.addEventListener("keydown", onKey, true); document.addEventListener("mousedown", onOut, true);
+    window.addEventListener("scroll", onScroll, true); window.addEventListener("resize", close); window.addEventListener("blur", close);
+    if (ctl.start) ctl.start();
+  }
+  btn.addEventListener("click", () => { if (menu) close(); else open(); });
+  btn.addEventListener("keydown", e => { if (!menu && ["ArrowDown", "ArrowUp", "Enter", " "].includes(e.key)) { e.preventDefault(); open(); } });
+  btn.addEventListener("keyup", e => { if (e.key === " ") e.preventDefault(); });
+  btn.pkOpen = open;
+  return btn;
+}
+function pkCenter(sc, el) { if (el) sc.scrollTop = el.offsetTop - (sc.clientHeight - el.offsetHeight) / 2; }
+function pkNear(sc, el) { if (!el) return; const t = el.offsetTop, b = t + el.offsetHeight; if (t < sc.scrollTop) sc.scrollTop = t - 4; else if (b > sc.scrollTop + sc.clientHeight) sc.scrollTop = b - sc.clientHeight + 4; }
+function pkGrid(n, textOf, lockedOf, titleOf, cols) {
+  const g = document.createElement("div"), cells = []; g.className = "pk-grid"; g.style.setProperty("--cols", cols);
+  for (let i = 0; i < n; i++) {
+    const c = document.createElement("div"); c.className = "pk-cell" + (lockedOf(i) ? " locked" : ""); c.setAttribute("role", "option");
+    if (lockedOf(i)) c.setAttribute("aria-disabled", "true");
+    c.textContent = textOf(i); const t = titleOf && titleOf(i); if (t) c.title = t; g.appendChild(c); cells.push(c);
+  }
+  return { g, cells };
+}
+function pkNav(e, cells, cur, locked) { // 번호판 방향키: { hit, pick, to }
+  const k = e.key; let d = 0;
+  if (k === "ArrowRight") d = 1; else if (k === "ArrowLeft") d = -1;
+  else if (k === "ArrowDown" || k === "ArrowUp") { const cols = getComputedStyle(cells[0].parentNode).gridTemplateColumns.split(" ").length; d = k === "ArrowDown" ? cols : -cols; }
+  else if (k === "Enter" || k === " ") return { hit: true, pick: true };
+  else return { hit: false };
+  let j = cur + d; while (j >= 0 && j < cells.length && locked(j)) j += d; // 잠긴 칸은 건너뜀
+  return { hit: true, to: j >= 0 && j < cells.length ? j : -1 };
+}
+function pkBookMenu(close, after) {
+  const el = document.createElement("div"), inp = document.createElement("input"), sc = document.createElement("div"), none = document.createElement("div");
+  inp.className = "pk-search"; inp.type = "text"; inp.placeholder = "책 이름 검색  (요한 · John · 43)"; inp.setAttribute("autocomplete", "off"); inp.spellcheck = false;
+  sc.className = "pk-scroll"; none.className = "pk-none"; none.textContent = "찾는 책이 없어요"; none.hidden = true;
+  el.style.width = "min(300px, 92vw)"; el.append(inp, sc); sc.appendChild(none);
+  const rows = [], heads = [];
+  let lastG = "";
+  [...impBook.options].forEach((o, i) => {
+    const b = BibleDB.book(o.value) || {}, no = +b.no > 0 ? +b.no : i + 1, g = no <= 39 ? "구약" : "신약";
+    if (g !== lastG) { const h = document.createElement("div"); h.className = "pk-group"; h.textContent = g; h.dataset.g = g; sc.insertBefore(h, none); heads.push(h); lastG = g; }
+    const r = document.createElement("div"), a = document.createElement("span"), k = document.createElement("span"), n = document.createElement("span");
+    r.className = "mac-item pk-book"; r.setAttribute("role", "option"); r.setAttribute("aria-selected", i === impBook.selectedIndex ? "true" : "false");
+    a.className = "pk-no"; a.textContent = no; k.className = "pk-ko"; k.textContent = b.ko || o.value; n.className = "pk-en"; n.textContent = b.en || "";
+    r.append(a, k, n); r.dataset.g = g; sc.insertBefore(r, none);
+    const hay = ((b.ko || "") + " " + (b.en || o.value) + " " + no).toLowerCase();
+    rows.push({ el: r, i, hay, flat: hay.replace(/\s+/g, ""), on: true });
+    r.addEventListener("mousemove", () => { const j = vis().findIndex(x => x.el === r); if (j >= 0 && j !== cur) mark(j); });
+    r.addEventListener("click", () => pick(rows.findIndex(x => x.el === r)));
+  });
+  const vis = () => rows.filter(r => r.on);
+  let cur = 0, shown = [];
+  function mark(j, scroll) { const v = vis(); if (v[cur]) v[cur].el.classList.remove("on"); cur = j; if (v[j]) { v[j].el.classList.add("on"); if (scroll) pkNear(sc, v[j].el); } }
+  function filter() {
+    const q = inp.value.trim().toLowerCase(), qf = q.replace(/\s+/g, "");
+    rows.forEach(r => { r.on = !q || r.hay.includes(q) || r.flat.includes(qf); r.el.hidden = !r.on; r.el.classList.remove("on"); });
+    heads.forEach(h => { h.hidden = !rows.some(r => r.on && r.el.dataset.g === h.dataset.g); });
+    none.hidden = vis().length > 0; cur = 0; mark(0, true); if (!q) pkCenter(sc, rows[impBook.selectedIndex].el);
+  }
+  function pick(ri) {
+    const r = rows[ri]; if (!r) return; const o = impBook.options[r.i];
+    close();
+    if (o && impBook.value !== o.value) { impBook.value = o.value; impBook.dispatchEvent(new Event("change", { bubbles: true })); }
+    after();
+  }
+  inp.addEventListener("input", filter);
+  return {
+    el,
+    start() { inp.focus(); const v = vis(), j = v.findIndex(r => r.i === impBook.selectedIndex); mark(j < 0 ? 0 : j); pkCenter(sc, v[j < 0 ? 0 : j].el); },
+    key(e) {
+      const v = vis();
+      if (e.key === "ArrowDown") { if (v.length) mark(Math.min(v.length - 1, cur + 1), true); return true; }
+      if (e.key === "ArrowUp") { if (v.length) mark(Math.max(0, cur - 1), true); return true; }
+      if (e.key === "Enter") { if (v[cur]) pick(rows.indexOf(v[cur])); return true; }
+      return false; // 나머지 키는 검색창에 그대로 입력
+    }
+  };
+}
+function pkChapMenu(close, after) {
+  const n = impChap.options.length, empty = i => dbChapSeen.get(impBook.value + "|" + (i + 1)) === 0;
+  const el = document.createElement("div"), sc = document.createElement("div"), { g, cells } = pkGrid(n, i => String(i + 1), empty, null, 7);
+  sc.className = "pk-scroll"; sc.appendChild(g); el.appendChild(sc); el.style.width = "min(316px, 92vw)";
+  let cur = Math.max(0, impChap.selectedIndex);
+  if (cells[cur]) cells[cur].classList.add("sel");
+  const mark = (j, scroll) => { if (cells[cur]) cells[cur].classList.remove("cur"); cur = j; cells[j].classList.add("cur"); if (scroll) pkNear(sc, cells[j]); };
+  const pick = j => {
+    if (empty(j)) return;
+    close(); const v = String(j + 1);
+    if (impChap.value !== v) { impChap.value = v; impChap.dispatchEvent(new Event("change", { bubbles: true })); }
+    after();
+  };
+  g.addEventListener("mouseover", e => { const c = e.target.closest(".pk-cell"), j = cells.indexOf(c); if (c && !empty(j)) mark(j); });
+  g.addEventListener("click", e => { const c = e.target.closest(".pk-cell"); if (c) pick(cells.indexOf(c)); });
+  return {
+    el,
+    start() { mark(cur); pkCenter(sc, cells[cur]); },
+    key(e) { const r = pkNav(e, cells, cur, empty); if (!r.hit) return false; if (r.pick) pick(cur); else if (r.to >= 0) mark(r.to, true); return true; }
+  };
+}
+function pkVerseMenu(close) {
+  const el = document.createElement("div"), top = document.createElement("div"), hint = document.createElement("span"), all = document.createElement("button"), sc = document.createElement("div");
+  top.className = "pk-top"; sc.className = "pk-scroll"; all.type = "button"; all.className = "pk-all"; all.textContent = "장 전체";
+  el.style.width = "min(352px, 92vw)"; top.append(hint, all); el.append(top, sc);
+  const cs = impCells, n = cs.length;
+  if (!n) {
+    hint.textContent = "절 선택"; all.hidden = true;
+    const m = document.createElement("div"); m.className = "pk-none"; m.textContent = impLoaded ? "이 장에는 아직 불러올 내용이 없어요." : "불러오는 중이에요…"; sc.appendChild(m);
+    return { el, key: () => false };
+  }
+  const locked = i => cs[i].item < 0, { g, cells } = pkGrid(n, i => cs[i].label, locked, i => cs[i].title, 6);
+  sc.appendChild(g);
+  let anchor = -1, hov = -1, cur = -1;
+  const range = () => { if (anchor >= 0) { const h = hov >= 0 ? hov : anchor; return [Math.min(anchor, h), Math.max(anchor, h)]; } return impRange() || [-1, -1]; };
+  function paint() {
+    const [a, b] = range();
+    cells.forEach((c, i) => { c.classList.toggle("sel", i === a || i === b); c.classList.toggle("rng", i > a && i < b); c.classList.toggle("cur", i === cur); });
+    hint.textContent = anchor < 0 ? "시작 절을 누르세요" : "끝 절을 누르세요 (같은 절 = 한 절만)";
+  }
+  function pick(i) {
+    if (locked(i)) return;
+    if (anchor < 0) { anchor = i; hov = -1; impFrom.value = String(i); impTo.value = String(i); impUpdateSum(); paint(); return; }
+    impFrom.value = String(Math.min(anchor, i)); impTo.value = String(Math.max(anchor, i)); impUpdateSum(); close();
+  }
+  g.addEventListener("mouseover", e => { const c = e.target.closest(".pk-cell"), i = cells.indexOf(c); if (!c || locked(i)) return; cur = i; if (anchor >= 0) hov = i; paint(); });
+  g.addEventListener("click", e => { const c = e.target.closest(".pk-cell"); if (c) pick(cells.indexOf(c)); });
+  all.addEventListener("click", () => { close(); impAllBtn.click(); });
+  return {
+    el,
+    start() {
+      const r = impRange(), a = r ? r[0] : -1; cur = a >= 0 ? a : cs.findIndex((c, i) => !locked(i));
+      paint(); pkCenter(sc, cells[cur]);
+    },
+    key(e) {
+      if (cur < 0) return false;
+      const r = pkNav(e, cells, cur, locked); if (!r.hit) return false;
+      if (r.pick) pick(cur); else if (r.to >= 0) { cur = r.to; if (anchor >= 0) hov = cur; paint(); pkNear(sc, cells[cur]); }
+      return true;
+    }
+  };
+}
 // ---- 슬라이드 만들기 모드에서 성경 DB 구절 불러오기 ----
 // 성경·장·시작 절·끝 절을 드롭다운으로 고른다(처음엔 아무것도 선택돼 있지 않음). 시작 절만 고르면 그 절 하나, 끝 절까지 고르면 그 사이 전부.
 // 한 절이 여러 페이지면 드롭다운에는 "16 (a)", "16 (b)"로 나뉘어 보이지만, 조각에 붙는 표시는 "16a"로 저장하고 슬라이드에는 숫자(16)만 보인다(refDisplay).
 // 내용이 없는 절은 드롭다운에서 흐리게 보이고 고를 수 없다. 고른 페이지는 지금 원고 맨 뒤에 조각으로 붙는다(언어별 칸에 각 언어 글이 들어가고, N번 조각 = N번 슬라이드). 기존 원고는 그대로 두고, 넣기 직전 상태는 자동 백업.
 const impOverlay = document.getElementById("impOverlay"), impBook = document.getElementById("impBook"), impChap = document.getElementById("impChap"),
       impFrom = document.getElementById("impFrom"), impTo = document.getElementById("impTo"), impAllBtn = document.getElementById("impAll"),
-      impSum = document.getElementById("impSum"), impGo = document.getElementById("impGo");
-let impSeq = 0, impInited = false, impSel = null;
+      impSum = document.getElementById("impSum"), impGo = document.getElementById("impGo"), impPrev = document.getElementById("impPrev");
+let impSeq = 0, impInited = false, impSel = null, impLoading = null, impLoaded = false;
 let impItems = [];  // 가져올 수 있는 페이지들(내용 있음): { page, ref, label }
 let impCells = [];  // 드롭다운 항목 전체(내용 없는 절 포함), 순서대로: { label, item(impItems 번호, 없으면 -1), title }
 const pageHas = p => !!(p && (p.Kor || p.Chn || p.Eng || p.Ind));
@@ -3707,14 +3907,16 @@ function impUpdateSum() {
   macSyncs.forEach(f => f()); // 코드로 값을 바꿨을 때 드롭다운 글자도 맞춤
   const picks = impPicked();
   if (!impItems.length) return;
-  if (!picks.length) { impSum.textContent = impRange() ? "고른 범위에 내용이 있는 절이 없어요." : "시작 절을 골라 주세요."; impGo.disabled = true; return; }
-  const first = picks[0].label, last = picks[picks.length - 1].label;
-  impSum.textContent = "선택 " + picks.length + "개 (" + (picks.length > 1 ? first + " ~ " + last : first) + ")";
+  if (!picks.length) { impSum.textContent = impRange() ? "고른 범위에 내용이 있는 절이 없어요." : "절을 골라 주세요."; impPrev.textContent = ""; impGo.disabled = true; return; }
+  const first = picks[0].label, last = picks[picks.length - 1].label, bk = BibleDB.book(impBook.value), nm = (bk && (bk.ko || bk.en)) || impBook.value;
+  impSum.textContent = nm + " " + impChap.value + ":" + (picks.length > 1 ? first + " ~ " + last : first) + " · " + picks.length + "개 조각";
+  const p0 = picks[0].page, tx = (p0.Kor || p0.Eng || p0.Chn || p0.Ind || "").replace(/\s+/g, " ").trim();
+  impPrev.textContent = tx.length > 72 ? tx.slice(0, 72) + "…" : tx; // 첫 절 미리보기
   impGo.disabled = false;
 }
 async function impLoad() {
   const my = ++impSeq, en = impBook.value, ch = +impChap.value || 1;
-  impSel = { en, ch }; impItems = []; impCells = []; impSum.textContent = "불러오는 중..."; impGo.disabled = true; impAllBtn.disabled = true;
+  impSel = { en, ch }; impItems = []; impCells = []; impLoaded = false; impSum.textContent = "불러오는 중..."; impPrev.textContent = ""; impGo.disabled = true; impAllBtn.disabled = true;
   impFill(impFrom, "시작 절 선택"); impFill(impTo, "끝 절 선택"); macSyncs.forEach(f => f());
   try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
   if (my !== impSeq) return; // 그 사이 다른 장을 골랐으면 이 결과는 버림
@@ -3738,7 +3940,8 @@ async function impLoad() {
   }
   impFill(impFrom, "시작 절 선택"); impFill(impTo, "끝 절 선택");
   dbChapSeen.set(en + "|" + ch, filled);
-  if (impItems.length) { impAllBtn.disabled = false; impSum.textContent = "시작 절을 골라 주세요."; impUpdateSum(); macSyncs.forEach(f => f()); }
+  impLoaded = true;
+  if (impItems.length) { impAllBtn.disabled = false; impSum.textContent = "절을 골라 주세요."; impUpdateSum(); macSyncs.forEach(f => f()); }
   else { impSum.textContent = "이 장에는 아직 불러올 내용이 없어요."; impGo.disabled = true; }
 }
 function impImport() {
@@ -3767,10 +3970,18 @@ function impImport() {
 function impInit() {
   if (impInited) return; impInited = true;
   BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; impBook.appendChild(o); });
-  macSelect(impBook); macSelect(impChap, c => dbChapSeen.get(impBook.value + "|" + c) === 0, true); // 열어 보니 비어 있던 장은 흐리게 + 고를 수 없음
-  macSelect(impFrom, impIsEmpty, true); macSelect(impTo, impIsEmpty, true);                           // 내용 없는 절도 흐리게 + 고를 수 없음
-  impBook.addEventListener("change", () => { fillNum(impChap, BibleDB.book(impBook.value).chapters, 1); impLoad(); });
-  impChap.addEventListener("change", impLoad);
+  // 성경(검색) → 장(번호판) → 절(번호판) 순서로 고르면 다음 창이 자동으로 열림. 열어 보니 비어 있던 장·내용 없는 절은 흐리게 + 고를 수 없음
+  let chapBtn = null, verseBtn = null;
+  const afterChap = () => { const seq = impSeq; Promise.resolve(impLoading).then(() => { if (seq === impSeq && impOverlay.classList.contains("open") && !pkClose) verseBtn.pkOpen(); }); };
+  pkMake([impBook], () => { const b = impBook.value ? BibleDB.book(impBook.value) : null; return { text: b ? (b.ko || b.en) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen())).title = "성경 고르기 (이름·영어·번호로 검색)";
+  chapBtn = pkMake([impChap], () => ({ text: impChap.value ? impChap.value + "장" : "장", ph: !impChap.value }), 64, close => pkChapMenu(close, afterChap)); chapBtn.title = "장 고르기";
+  verseBtn = pkMake([impFrom, impTo], () => {
+    if (impFrom.value === "" || !impCells[+impFrom.value]) return { text: impLoaded || !impSeq ? "절 선택" : "불러오는 중…", ph: true };
+    const a = impCells[+impFrom.value].label, b = impTo.value === "" || !impCells[+impTo.value] ? a : impCells[+impTo.value].label;
+    return { text: a === b ? a + "절" : a + " ~ " + b + "절" };
+  }, 108, pkVerseMenu); verseBtn.title = "절 고르기 (시작 절 → 끝 절)";
+  impBook.addEventListener("change", () => { fillNum(impChap, BibleDB.book(impBook.value).chapters, 1); impLoading = impLoad(); });
+  impChap.addEventListener("change", () => { impLoading = impLoad(); });
   impFrom.addEventListener("change", () => { // 시작 절을 고르면 끝 절이 비었거나 시작보다 앞일 때 같은 절로 맞춤(= 한 절만)
     if (impFrom.value === "") impTo.value = "";
     else if (impTo.value === "" || +impTo.value < +impFrom.value) impTo.value = impFrom.value;
