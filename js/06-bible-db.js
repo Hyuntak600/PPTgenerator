@@ -178,7 +178,7 @@ document.getElementById("dbChapPrev").addEventListener("click", () => dbStepChap
 document.getElementById("dbChapNext").addEventListener("click", () => dbStepChap(1));
 // 성경 DB 모드: 키보드 ← → 로 이전/다음 절 넘기기 (글 입력 중이거나 창이 열려 있을 때는 동작하지 않음)
 document.addEventListener("keydown", e => {
-  if (appMode !== "db" || e.defaultPrevented || e.isComposing) return;
+  if (appMode !== "db" || e.defaultPrevented || imeBusy(e)) return;
   if (e.key !== "ArrowLeft" && e.key !== "ArrowRight") return;
   if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
   const t = e.target;
@@ -314,7 +314,7 @@ function pkMake(hosts, labelFn, minW, make) {
     if (!menu) return;
     if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); close(); btn.focus(); return; }
     if (e.key === "Tab") { close(); return; }
-    if (e.isComposing) return; // 한글 조합 중 Enter는 글자 확정용
+    if (imeBusy(e)) return; // 한글 조합 중 Enter는 글자 확정용
     if (ctl.key(e)) { e.preventDefault(); e.stopPropagation(); }
   }
   function open() {

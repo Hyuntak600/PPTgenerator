@@ -32,6 +32,8 @@ function setLtChip(state, text, title) {
   ltChip.lastElementChild.textContent = text;
   ltChip.title = (title ? title + " · " : "") + "눌러서 번역 서버 연결을 다시 확인";
 }
+// 맥이고 서버 주소가 5000번 포트인 경우(AirPlay 수신 모드와 충돌할 수 있음)
+const macPort5000 = () => !!(window.APP_ENV && window.APP_ENV.mac) && /:5000(\/|$)/.test(LIBRETRANSLATE_URL);
 let ltBusy = false;
 // silent === true 이면 배너 없이 상단 칩만 갱신(주기 확인용). 클릭 이벤트가 넘어와도 silent로 취급하지 않음.
 async function checkLibreTranslateConnection(silent) {
@@ -47,17 +49,29 @@ async function checkLibreTranslateConnection(silent) {
       res = await fetchWithTimeout(`${LIBRETRANSLATE_URL}/languages`, 5000);
     } catch (e) {
       setLtChip("down", "번역 서버 연결 안 됨", LIBRETRANSLATE_URL);
-      banner(
-        `번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 번역만 빼고 모두 쓸 수 있어요.`,
-        false,
+      const failDetail =
         `LibreTranslate 서버(${LIBRETRANSLATE_URL})에 연결할 수 없습니다. 서버가 켜져 있는지, ` +
-        `주소가 맞는지, 서버 쪽 CORS 설정을 확인하세요. (${e && e.message ? e.message : e})`
-      );
+        `주소가 맞는지, 서버 쪽 CORS 설정을 확인하세요. (${e && e.message ? e.message : e})`;
+      // 사파리는 https로 연 페이지에서 http 주소(번역 서버)로의 요청을 막을 수 있어서, 이 경우만 따로 안내
+      if (window.APP_ENV && window.APP_ENV.safari && location.protocol === "https:" && /^http:\/\//i.test(LIBRETRANSLATE_URL)) {
+        banner(
+          `사파리에서는 https 페이지가 http 번역 서버(${LIBRETRANSLATE_URL})에 연결하지 못할 수 있어요. 크롬으로 열면 번역도 쓸 수 있어요. 번역만 빼고 모두 쓸 수 있어요.`,
+          false, failDetail
+        );
+      } else if (macPort5000()) {
+        banner(`맥에서 번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 서버가 켜져 있는데도 안 되면 AirPlay 수신 모드(5000번 포트 충돌)를 꺼 보세요. 번역만 빼고 모두 쓸 수 있어요.`, false, failDetail);
+      } else {
+        banner(`번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 번역만 빼고 모두 쓸 수 있어요.`, false, failDetail);
+      }
       return;
     }
     if (!res.ok) {
       setLtChip("down", "번역 서버 오류 " + res.status, LIBRETRANSLATE_URL);
-      banner(`LibreTranslate 서버(${LIBRETRANSLATE_URL})가 오류를 반환했습니다: HTTP ${res.status}`);
+      if (res.status === 403 && macPort5000()) { // 맥에서 5000번을 AirPlay 수신 모드가 쓰면 번역 서버 대신 403으로 답함
+        banner("맥의 5000번 포트를 AirPlay 수신 모드가 쓰고 있는 것 같아요(HTTP 403). 시스템 설정 → 일반 → AirDrop 및 Handoff에서 AirPlay 수신 모드를 끄고 다시 확인해 주세요.");
+      } else {
+        banner(`LibreTranslate 서버(${LIBRETRANSLATE_URL})가 오류를 반환했습니다: HTTP ${res.status}`);
+      }
       return;
     }
     let langs;

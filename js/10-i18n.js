@@ -86,6 +86,8 @@
     "화면 언어 · Interface language":"Interface language · 화면 언어",
     /* 스크립트가 만드는 문구 */
     "LibreTranslate 서버 연결 확인 중...":"Checking LibreTranslate server connection...",
+    "맥의 5000번 포트를 AirPlay 수신 모드가 쓰고 있는 것 같아요(HTTP 403). 시스템 설정 → 일반 → AirDrop 및 Handoff에서 AirPlay 수신 모드를 끄고 다시 확인해 주세요.":"Port 5000 on your Mac seems to be used by AirPlay Receiver (HTTP 403). Turn off AirPlay Receiver in System Settings → General → AirDrop & Handoff, then check again.",
+    "사파리는 일주일 넘게 열지 않으면 저장된 원고와 수정한 성경 구절이 지워질 수 있어요. 수정한 구절은 DB 코드로 그때그때 관리자에게 보내 주세요.":"Safari may erase saved scripts and your verse edits if you don\u2019t open this page for over a week. Send edited verses to the administrator as a DB code as you go.",
     "주소는 http:// 로 시작해야 해요. 예: http://localhost:5000":"The address must start with http://, e.g. http://localhost:5000",
     "서버 주소를 저장했어요. 다시 확인합니다.":"Server address saved. Re-checking.",
     "드래그하면 번역이 여기 보여요":"Drag to see the translation here",
@@ -136,6 +138,8 @@
     [/^(.+): 번역 중\.\.\.$/, a => L(a) + ": translating..."],
     [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m.replace("번역 서비스 오류:", "Translation service error:").replace("번역 실패: 응답 형식이 올바르지 않습니다", "Unexpected response format").replace("알 수 없는 오류", "Unknown error") + "]"],
     [/^없는 언어: ?(.*)$/, a => "Missing languages: " + a],
+    [/^사파리에서는 https 페이지가 http 번역 서버\((.+)\)에 연결하지 못할 수 있어요\..*$/s, u => "Safari may block an https page from reaching an http translation server (" + u + "). Open this page in Chrome to use translation. Everything except translation still works."],
+    [/^맥에서 번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). If the server is running but it still fails, turn off AirPlay Receiver on your Mac (port 5000 conflict). Everything except translation still works."],
     [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Everything except translation still works."],
     [/^LibreTranslate 서버\((.+)\) 연결 정상,.*$/s, u => "LibreTranslate server (" + u + ") is connected and all required language models are installed."],
     [/^LibreTranslate 서버\((.+)\)에 연결할 수 없습니다\..*?\((.*)\)$/s, (u, m) => "Cannot reach the LibreTranslate server (" + u + "). Check that it is running, that the address is correct, and the server's CORS settings. (" + m + ")"],

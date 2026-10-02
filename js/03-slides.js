@@ -225,7 +225,7 @@ left.addEventListener("keydown", e => {
   if (!wrap) return;
   const ta = wrap._ta, col = wrap.parentElement;
   // 맨 앞에서 Backspace: 앞 조각과 합치기
-  if (e.key === "Backspace" && !e.isComposing && ta.selectionStart === 0 && ta.selectionEnd === 0) {
+  if (e.key === "Backspace" && !imeBusy(e) && ta.selectionStart === 0 && ta.selectionEnd === 0) {
     let prev = prevBoxSibling(wrap);
     if (prev && wrap.dataset.ref) { // 성경 조각 자체는 다른 조각과 합치지 않음
       e.preventDefault(); showToast("성경 구절은 한 슬라이드로 고정돼 있어서 합칠 수 없어요.", true);
@@ -238,7 +238,7 @@ left.addEventListener("keydown", e => {
     else if (prevBoxSibling(wrap)) showToast("성경 구절 위에 합칠 조각이 없어요.", true);
     return;
   }
-  if (e.key === "Enter" && !e.shiftKey && !e.isComposing) {
+  if (e.key === "Enter" && !e.shiftKey && !e.isComposing) { // 한글 확정 Enter도 그 자리에서 바로 조각을 나눔(의도한 동작이라 keyCode 229는 일부러 보지 않음)
     e.preventDefault();
     if (wrap.dataset.ref) { showToast("성경 구절은 한 슬라이드로 고정돼 있어서 나눌 수 없어요.", true); return; } // 성경 조각은 나누지 않음
     pushUndo();
@@ -521,12 +521,12 @@ const syncSlidesSoon = debounce(syncSlides, 60);
 // ---------------------------------------------------------------------
 const toastEl = document.getElementById("toast");
 let toastTimer = null;
-function showToast(msg, isError) {
+function showToast(msg, isError, ms) { // ms: 보여 줄 시간(생략하면 기본: 일반 2.6초, 오류 4.5초)
   toastEl.textContent = msg;
   toastEl.classList.toggle("error", !!isError);
   toastEl.classList.add("show");
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => toastEl.classList.remove("show"), isError ? 4500 : 2600);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), ms || (isError ? 4500 : 2600));
 }
 
 function smoothBehavior() {
@@ -640,7 +640,7 @@ function selectRefRow(box, scrollRight) {
 function clearRefSel() { if (!refSelBox) return; refSelBox = null; updateBibleBoxes(); }
 left.addEventListener("keydown", e => {
   const bx = e.target && e.target.classList && e.target.classList.contains("box") ? e.target : null;
-  if (!bx || !bx.dataset.ref || appMode !== "slide" || e.isComposing || e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) return;
+  if (!bx || !bx.dataset.ref || appMode !== "slide" || imeBusy(e) || e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) return;
   if (e.key === "Escape") { e.preventDefault(); clearRefSel(); return; }
   if (e.key !== "ArrowUp" && e.key !== "ArrowDown") return;
   e.preventDefault(); e.stopPropagation();
@@ -655,7 +655,7 @@ left.addEventListener("keydown", e => {
 }, true);
 // 선택된 성경 줄(4개 언어 조각)에서 Backspace / Delete: 그 슬라이드를 ✕ 버튼과 똑같이 지움(Ctrl+Z로 되돌릴 수 있음)
 left.addEventListener("keydown", e => {
-  if ((e.key !== "Backspace" && e.key !== "Delete") || e.isComposing || e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) return;
+  if ((e.key !== "Backspace" && e.key !== "Delete") || imeBusy(e) || e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) return;
   if (appMode !== "slide" || !refSelBox || picked.size) return; // Ctrl/⌘+클릭으로 여러 조각을 고른 경우는 deletePicked()가 처리
   const bx = e.target && e.target.closest ? e.target.closest(".box") : null;
   if (!bx || !bx.dataset.ref || !left.contains(bx)) return;     // 성경 줄에 포커스가 있을 때만
@@ -850,7 +850,7 @@ function deletePicked() {
   showToast(n + "개 조각을 지웠어요. Ctrl+Z로 되돌릴 수 있어요.");
 }
 document.addEventListener("keydown", e => {
-  if (e.isComposing || document.querySelector(".patch-overlay.open")) return;
+  if (imeBusy(e) || document.querySelector(".patch-overlay.open")) return;
   const t = e.target, tag = t && t.tagName;
   if (e.key === "Escape") { clearPicked(); return; }
   if ((e.key === "Backspace" || e.key === "Delete") && picked.size && !e.ctrlKey && !e.metaKey && !e.altKey) {

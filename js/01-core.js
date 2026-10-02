@@ -6,6 +6,8 @@
 // macConfirm(메시지, {title, ok, cancel, danger}) → Promise<boolean>: 브라우저 기본 confirm() 대신 맥 시트 창
 //   danger:true 면 확인 버튼이 빨갛고, 처음 포커스는 취소에 놓임(Enter로 실수로 지우는 일을 막음). Esc·바깥 클릭 = 취소
 // ---------------------------------------------------------------------
+// 한글 등 조합(IME) 입력 중인 키인지: 크롬은 isComposing, 사파리는 조합을 확정하는 Enter가 isComposing=false 로 오고 keyCode 229 로만 알 수 있음
+const imeBusy = e => !!e.isComposing || e.keyCode === 229;
 const icon = name => '<svg class="ic" aria-hidden="true"><use href="#i-' + name + '"/></svg>';
 function macConfirm(message, o) {
   o = o || {};
