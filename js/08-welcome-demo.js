@@ -120,6 +120,25 @@
   });
 
   setVerse("ko");
+  // ─ "📥 왼쪽 칸 4개에 이 구절 넣어 보기": 한·중·영·인니 칸에 요한복음 3:16을 한 조각씩 넣는다(칸이 모두 비어 있을 때만) ─
+  const fillBtn = document.getElementById("welFillBtn");
+  if (fillBtn) fillBtn.addEventListener("click", () => {
+    if (appMode !== "slide") return; // 성경 DB 모드의 칸은 절 데이터가 쓰고 있으니 건드리지 않음
+    if ([...left.querySelectorAll(".box textarea")].some(t => NON_BLANK.test(t.value))) {
+      showToast("이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.", true);
+      return;
+    }
+    pushUndo();
+    const map = {}; LANGS.forEach(({ code }) => { map[code] = [VERSES[code]]; });
+    fillColumns(map, true); // 왼쪽 칸을 채우면 오른쪽 슬라이드가 다시 그려짐
+    const total = buildRowMap().length; // 슬라이드별 설정 자리(글자 크기·정렬)를 기본값으로 채워 둠(성경 불러오기와 같은 방식)
+    for (let k = 0; k < total; k++) if (!slideOpts[k]) slideOpts[k] = { size: 0, align: "" };
+    syncSlides(); refreshInfo(); saveStateDebounced();
+    document.getElementById("patchOverlay").classList.remove("open"); // 창에 가려져 있던 왼쪽 칸이 보이도록
+    showToast("4개 칸에 요한복음 3:16을 넣었어요.");
+    const first = left.querySelector(".box"); if (first) { first.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(first); }
+  });
+
   // 시작 안내 창이 처음부터 열려 있으면 곧 체험을 쓸 가능성이 높으니 한가할 때 미리 받아 둔다(드래그 즉시 번역)
   const welOverlay = document.getElementById("patchOverlay");
   if (welOverlay && welOverlay.classList.contains("open")) (window.requestIdleCallback || (f => setTimeout(f, 800)))(() => { loadRecTable(); });

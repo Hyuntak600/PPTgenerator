@@ -1,6 +1,50 @@
 "use strict";
 
 // ---------------------------------------------------------------------
+// 아이콘(PPTgenerator.html 맨 위의 SVG 스프라이트) · 확인 시트
+// icon("info") → 글자 색을 따라가는 단색 선 아이콘 마크업. 버튼 글자를 JS로 바꿀 때 innerHTML에 넣어 씀
+// macConfirm(메시지, {title, ok, cancel, danger}) → Promise<boolean>: 브라우저 기본 confirm() 대신 맥 시트 창
+//   danger:true 면 확인 버튼이 빨갛고, 처음 포커스는 취소에 놓임(Enter로 실수로 지우는 일을 막음). Esc·바깥 클릭 = 취소
+// ---------------------------------------------------------------------
+const icon = name => '<svg class="ic" aria-hidden="true"><use href="#i-' + name + '"/></svg>';
+function macConfirm(message, o) {
+  o = o || {};
+  return new Promise(resolve => {
+    const prev = document.activeElement;
+    const ov = document.createElement("div"); ov.className = "patch-overlay mc-overlay";
+    const md = document.createElement("div"); md.className = "patch-modal mc-sheet";
+    md.setAttribute("role", "alertdialog"); md.setAttribute("aria-modal", "true"); md.tabIndex = -1;
+    const id = "mc" + (++macConfirm._n);
+    if (o.title) { const h = document.createElement("h2"); h.className = "mc-title"; h.id = id + "t"; h.textContent = o.title; md.appendChild(h); md.setAttribute("aria-labelledby", id + "t"); }
+    const msg = document.createElement("div"); msg.className = "mc-msg"; msg.id = id + "m"; msg.textContent = message; md.appendChild(msg);
+    md.setAttribute("aria-describedby", id + "m");
+    const act = document.createElement("div"); act.className = "copy-actions";
+    const no = document.createElement("button"); no.type = "button"; no.className = "btn"; no.textContent = o.cancel || "취소";
+    const yes = document.createElement("button"); yes.type = "button"; yes.className = "btn " + (o.danger ? "mc-danger" : "primary"); yes.textContent = o.ok || "확인";
+    act.append(no, yes); md.appendChild(act); ov.appendChild(md); document.body.appendChild(ov);
+    let done = false;
+    function finish(v) {
+      if (done) return; done = true;
+      ov.removeEventListener("keydown", onKey, true);
+      ov.remove();
+      try { if (prev && prev.focus) prev.focus(); } catch (e) { /* 포커스를 돌려줄 수 없어도 무시 */ }
+      resolve(v);
+    }
+    function onKey(e) {
+      e.stopPropagation(); // 창이 떠 있는 동안 Ctrl+Z·Delete 같은 단축키가 뒤쪽 화면에 닿지 않게
+      if (e.key === "Escape") { e.preventDefault(); finish(false); }
+      else if (e.key === "Tab") { e.preventDefault(); (document.activeElement === no ? yes : no).focus(); } // 두 버튼 사이에서만 포커스가 돎
+    }
+    ov.addEventListener("keydown", onKey, true);
+    no.addEventListener("click", () => finish(false));
+    yes.addEventListener("click", () => finish(true));
+    ov.addEventListener("click", e => { if (e.target === ov) finish(false); }); // 11-modal-guard가 "바깥에서 눌러 안에서 뗀" 경우를 걸러 줌
+    requestAnimationFrame(() => { ov.classList.add("open"); (o.danger ? no : yes).focus(); });
+  });
+}
+macConfirm._n = 0;
+
+// ---------------------------------------------------------------------
 // 패치 노트 모달: 처음 열 때(또는 "다시 보지 않기"를 체크하지 않은 경우) 자동으로 표시
 // ---------------------------------------------------------------------
 (function initPatchNotes() {

@@ -199,7 +199,7 @@ function applyStateAndReload(st) {
       const info = document.createElement("span");
       info.textContent = new Date(b.t).toLocaleString("ko-KR") + " · " + b.n + "자 · " + b.why;
       const btn = document.createElement("button"); btn.type = "button"; btn.className = "btn"; btn.textContent = "이 시점으로 복구";
-      btn.addEventListener("click", () => { if (confirm("이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.")) applyStateAndReload(b.state); });
+      btn.addEventListener("click", async () => { if (await macConfirm("이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.", { title: "백업으로 복구", ok: "복구" })) applyStateAndReload(b.state); });
       row.append(info, btn); listEl.appendChild(row);
     });
   }
@@ -220,7 +220,7 @@ function applyStateAndReload(st) {
     let st;
     try { const obj = JSON.parse(await f.text()); st = obj && obj.state ? obj.state : obj; if (!validState(st)) throw new Error("bad"); }
     catch (e) { showToast("백업 파일을 읽지 못했어요. 이 도구에서 저장한 .json 파일인지 확인해 주세요.", true); return; }
-    if (confirm("파일 내용으로 바꿀까요? 지금 내용도 자동 백업에 남겨 둬요.")) applyStateAndReload(st);
+    if (await macConfirm("파일 내용으로 바꿀까요? 지금 내용도 자동 백업에 남겨 둬요.", { title: "파일로 바꾸기", ok: "바꾸기" })) applyStateAndReload(st);
   });
 })();
 const saveStateDebounced = (() => { const d = debounce(saveStateNow, 400); return () => { stateDirty = true; d(); }; })();

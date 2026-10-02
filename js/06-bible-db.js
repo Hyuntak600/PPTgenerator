@@ -161,7 +161,7 @@ dbChap.addEventListener("change", () => dbGo({ en: dbBook.value, ch: +dbChap.val
 dbVerse.addEventListener("change", () => dbGo(dbSelNow()));
 function dbStep(d) {
   const s = dbSelNow(), v = s.v + d;
-  if (v < 1 || v > dbVerse.options.length) { showToast(d < 0 ? "이 장의 첫 절이에요." : "이 장의 마지막 절이에요. 다음 장은 장 옆 ▶ 버튼을 눌러 주세요."); return; }
+  if (v < 1 || v > dbVerse.options.length) { showToast(d < 0 ? "이 장의 첫 절이에요." : "이 장의 마지막 절이에요. 다음 장은 장 옆 › 버튼을 눌러 주세요."); return; }
   dbGo({ en: s.en, ch: s.ch, v });
 }
 document.getElementById("dbPrev").addEventListener("click", () => dbStep(-1));
@@ -667,7 +667,7 @@ function dbGuideFirstTime() {
 // 위쪽 안내 버튼: 슬라이드 만들기 = "ℹ️ 시작 안내"(원래대로), 성경 DB = "ℹ️ 사용 안내"
 function syncGuideBtn() {
   const b = document.getElementById("patchReopenBtn"), db = appMode === "db";
-  b.textContent = db ? "ℹ️ 사용 안내" : "ℹ️ 시작 안내";
+  b.innerHTML = icon("info") + (db ? "사용 안내" : "시작 안내");
   b.title = db ? "성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요" : "사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트";
 }
 document.getElementById("dbGuideClose").addEventListener("click", () => dbGuideOverlay.classList.remove("open"));

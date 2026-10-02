@@ -5,6 +5,8 @@
    굵은 글씨가 섞인 긴 문장은 요소에 data-en="영어 HTML"을 달면 통째로 바뀐다(어순이 달라도 자연스럽게). */
 (function(){
   const EN = {
+    "취소":"Cancel","모두 삭제":"Delete all","삭제":"Delete","지우기":"Clear","복구":"Restore","바꾸기":"Replace",
+    "수정한 성경 구절 삭제":"Delete your Bible verse edits","백업으로 복구":"Restore backup","파일로 바꾸기":"Replace with file",
     "⚠ 저장 공간 부족":"⚠ Storage almost full","브라우저 저장 공간 사용량":"Browser storage used",
     "브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요":"Browser storage is nearly full or automatic backups were reduced. Click to open Backup & Restore and save a file.",
     "저장 공간이 모자라 오래된 자동 백업을 줄였어요. 🛡️ 백업·복구에서 파일로 저장해 두세요.":"Storage is low, so older automatic backups were reduced. Save a file in 🛡️ Backup & Restore.",
@@ -17,7 +19,7 @@
     "🧩 DB 코드 복사":"🧩 Copy DB code","슬라이드 선택":"Select slides","슬라이드 고르기 (시작 → 끝, 기본은 전부)":"Pick slides (start → end, default: all)","불러오는 중...":"Loading...","🗑 모든 데이터 삭제":"🗑 Delete all data","📖 성경 DB 사용 안내":"📖 Bible DB guide","ℹ️ 사용 안내":"ℹ️ Guide","성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요":"View the Bible DB instructions again (how to send your edits, local data, etc.)","성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.":"Please read this before using Bible DB mode.","📚 이 구절들은 어디에 있나요?":"📚 Where do these verses live?","📨 수정한 내용을 프로그램에 반영하려면":"📨 To get your edits into the program","🎞 슬라이드를 만들 때는":"🎞 When making slides","🗑 모든 데이터 삭제":"🗑 Delete all data","확인했어요":"Got it","① 선택한 절":"① Selected verses","① 지금 보고 있는 절":"① Current verse","② 선택한 절":"② Selected verses","지금 화면에 열려 있는 절(모든 페이지 a·b·c)의 코드를 만들어요":"Makes the code for the verse open on screen (all its pages a·b·c)","지금 화면에 열려 있는 절을 그대로 보여 줘요 (필요하면 고쳐서 복사)":"Shows the verse open on screen as is (edit it if you like, then copy)","성경·장을 바꿔 가며 절 또는 페이지(a·b·c)를 체크하면, 체크한 글만 한꺼번에 복사해요":"Change the book/chapter and check verses or pages (a·b·c) — only the checked text is copied together","성경·장을 골라 절을 체크하면 글이 아래에 모여요. (체크한 절이 없어요)":"Pick a book and chapter and check verses — their text gathers below. (No verses checked)","지금 보고 있는 절에는 복사할 내용이 없어요.":"The verse you are viewing has nothing to copy.","② 아직 안 보낸 것":"② Not sent yet","보낸 것도 포함":"Include already sent","✅ 보냈어요":"✅ Mark as sent","날짜와 상관없이, 고친 뒤 아직 '보냈어요'를 누르지 않은 모든 절을 (여러 장이어도) 한 번에 모아요":"Collects every verse you edited and haven't marked as sent, whatever the date (even across chapters)","이미 보냈다고 표시한 절도 목록에 함께 보여 줘요":"Also lists verses already marked as sent","복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요":"Press this after sending the copied code to the administrator. It marks the listed verses as sent, so from now on only verses you edit again are collected","✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요":"✎ = edited, not sent yet · ✓ = edited and marked as sent — collect them in 🧩 Copy DB code ② Not sent yet and send them to the administrator","보냈다고 표시할 절이 없어요.":"There are no verses to mark as sent.","지금 보고 있는 절이 기본으로 체크돼 있어요. 다른 절이나 페이지(a·b·c)를 더 체크하거나 뺄 수 있어요":"The verse you are viewing is checked by default. Check more verses or pages (a·b·c), or uncheck some","고른 날짜에 수정한 모든 절을 (여러 장이어도) 한 번에 모아서 — 관리자에게 보낼 때 쓰세요":"All verses edited on the chosen date (even across chapters) in one go — use this to send to the administrator","이 장 전체 선택":"Select whole chapter","전체 해제":"Select none","선택 없음":"Nothing selected","이 장에는 내용이 있는 절이 없어요.":"This chapter has no verses with content.","날짜":"Date","이 날짜에 수정한 절을 모아요 (기본: 오늘)":"Gathers the verses edited on this date (default: today)","성경":"Bible","장":"Chapter","절":"Verse",
     "이전 장":"Previous chapter","다음 장":"Next chapter","이전 절 (키보드 ←)":"Previous verse (keyboard ←)","다음 절 (키보드 →)":"Next verse (keyboard →)","이전 절":"Previous verse","다음 절":"Next verse",
     "성경의 첫 장이에요.":"This is the first chapter of the Bible.","성경의 마지막 장이에요.":"This is the last chapter of the Bible.","이 장의 첫 절이에요.":"This is the first verse of the chapter.",
-    "이 장의 마지막 절이에요. 다음 장은 장 옆 ▶ 버튼을 눌러 주세요.":"This is the last verse of the chapter. Press the ▶ next to Chapter to go to the next chapter.",
+    "이 장의 마지막 절이에요. 다음 장은 장 옆 › 버튼을 눌러 주세요.":"This is the last verse of the chapter. Press the › next to Chapter to go to the next chapter.",
     "📖 성경 불러오기":"📖 Import Bible","성경 DB의 구절을 지금 원고 맨 뒤에 조각으로 넣어요":"Add verses from the Bible DB to the end of your script as pieces",
     "📖 성경 DB에서 불러오기":"📖 Import from Bible DB",
     "시작 절과 끝 절을 고르면 그 사이 구절이 지금 원고 맨 뒤에 조각으로 추가돼요(한 절만 넣으려면 시작 절만 고르세요). 흐리게 보이는 절은 아직 내용이 없어서 고를 수 없어요. 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보이지만, 슬라이드에는 숫자만 표시돼요. 넣은 뒤에는 슬라이드 위쪽의 ▲ ▼로 순서를 바꾸고, ✕로 지울 수 있어요.":"Pick a start and an end verse and everything in between is added to the end of your script as pieces (to add just one verse, pick only the start). Dimmed verses have no content yet and can’t be chosen. A verse with several pages appears as 16 (a) · 16 (b), but slides show only the number. Afterwards you can reorder with ▲ ▼ above a slide and delete with ✕.",
@@ -108,6 +110,7 @@
     "이 체험에서는 English 번역만 보여줘요":"This tryout only shows English",
     "이 구간은 체험용 번역표에 없어요. 다른 구간을 드래그해 보세요.":"This span isn't in the tryout's translation table. Try dragging a different span.",
     "체험용 번역표를 불러오지 못했어요. 페이지를 새로고침해 주세요.":"Couldn't load the tryout translation table. Please refresh the page.",
+    "4개 칸에 요한복음 3:16을 넣었어요.":"Put John 3:16 into the 4 columns.",
     "이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.":"There is already text, so the example wasn't inserted. Press \"Clear current work\" and try again.",
     "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation."
   };
@@ -136,7 +139,7 @@
     [/^LibreTranslate 서버\((.+)\) 응답을 해석할 수 없습니다.*$/s, u => "Couldn't parse the response from the LibreTranslate server (" + u + ") (not JSON)."],
     [/^LibreTranslate 서버에는 연결됐지만 다음 언어 모델이 설치돼 있지 않습니다: (.+?)\. .*$/s, m => "Connected to LibreTranslate, but these language models are not installed: " + m + ". Translations involving them will keep failing until you install them on the server."]
 ,
-    [/^이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요\..*?(?:현재 (\d+)절)?\n\n✅.*$/s, n => "This deletes all local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n· Your own Bible verse edits (DB drafts)" + (n ? " — currently " + n + " verses" : "") + "\n\n✅ The original DB published on the website is NOT deleted. It loads again as usual.\n⚠ Your own edits can't be restored, so first send them to the administrator with '🧩 Copy DB code', and save any script you need as a file in 🛡️ Backup·Restore.\n\nContinue?"],
+    [/^이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요\..*?(?:현재 (\d+)절)?\n\n홈페이지.*$/s, n => "This deletes all local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n· Your own Bible verse edits (DB drafts)" + (n ? " — currently " + n + " verses" : "") + "\n\nThe original DB published on the website is NOT deleted. It loads again as usual.\nYour own edits can't be restored, so first send them to the administrator with 'Copy DB code', and save any script you need as a file in Backup·Restore.\n\nContinue?"],
     [/^마지막 확인이에요\.\n\n내가 수정한 성경 구절 (\d+)절이.*$/s, n => "Final check.\n\n" + n + " Bible verses you edited will be permanently removed from this PC. Did you send the DB code to the administrator?\n\nReally delete?"]
 ,
     [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator (" + APP_CONFIG.adminEmail + "), then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
@@ -147,9 +150,14 @@
     [/^(.+?) (\d+)장 · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " chapter " + ch + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];
+  // 아이콘(SVG)으로 바꾼 버튼 글자는 이모지가 빠진 채로 들어오므로, 이모지·여분 공백을 뺀 형태로도 사전을 찾는다
+  const EMO = /[\u2139\u2600-\u27BF\u2B50\u25C0\u25B6\uFE0F\u{1F000}-\u{1FFFF}]/gu;
+  const nz = s => s.replace(EMO, "").replace(/\s+/g, " ").trim();
+  const NZ = {}; for (const key in EN) { const n = nz(key); if (n && n !== key && NZ[n] === undefined) NZ[n] = nz(EN[key]); }
   function T(s) {
     const k = s.trim(); if (!k) return s;
     let v = EN[k];
+    if (v === undefined) { const n = nz(k); if (NZ[n] !== undefined) v = NZ[n]; }
     if (v === undefined) for (const [re, f] of RX) { const m = k.match(re); if (m) { v = f.apply(null, m.slice(1)); break; } }
     return v === undefined ? s : s.replace(k, () => v);
   }
@@ -211,7 +219,7 @@
     document.title = l === "en" ? T(koTitle) : koTitle;
     swapHtml(); // 조각 번역보다 먼저: 원래 한글 HTML을 그대로 보관하기 위해
     pass(document.body);
-    btns.forEach(b => { b.textContent = l === "en" ? "🌐 English" : "🌐 한국어"; });
+    btns.forEach(b => { b.innerHTML = icon("globe") + (l === "en" ? "English" : "한국어"); });
   }
   btns.forEach(b => b.addEventListener("click", () => setLang(lang === "en" ? "ko" : "en", true)));
   setLang(lang, false);
