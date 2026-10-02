@@ -104,9 +104,10 @@
     "파일 내용으로 바꿀까요? 지금 내용도 자동 백업에 남겨 둬요.":"Replace with the file's content? The current content is also kept in the auto backups.",
     "저장된 데이터를 읽지 못해 가장 최근 자동 백업으로 열었어요.":"Couldn't read the saved data, so the latest auto backup was opened.",
     "저장된 데이터를 읽지 못했어요. 원본은 브라우저에 따로 보관해 뒀어요.":"Couldn't read the saved data. The original is kept separately in the browser.",
-    "위 구절을 마우스로 드래그해 보세요. 고른 부분이 번역 서버로 그대로 번역돼 여기에 나와요.":"Drag over the verse above with your mouse. Exactly what you select is translated by the server and appears here.",
+    "위 구절을 마우스로 드래그해 보세요. 고른 부분의 번역이 여기에 나와요.":"Drag over the verse above with your mouse. The translation of what you select appears here.",
     "이 체험에서는 English 번역만 보여줘요":"This tryout only shows English",
-    "[번역 실패] 번역 서버가 켜져 있는지 확인해 주세요 (위쪽 🐳 번역 서버 안내).":"[Translation failed] Please check that the translation server is running (🐳 Translation server guide at the top).",
+    "이 구간은 체험용 번역표에 없어요. 다른 구간을 드래그해 보세요.":"This span isn't in the tryout's translation table. Try dragging a different span.",
+    "체험용 번역표를 불러오지 못했어요. 페이지를 새로고침해 주세요.":"Couldn't load the tryout translation table. Please refresh the page.",
     "이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.":"There is already text, so the example wasn't inserted. Press \"Clear current work\" and try again.",
     "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation."
   };
@@ -138,11 +139,11 @@
     [/^이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요\..*?(?:현재 (\d+)절)?\n\n✅.*$/s, n => "This deletes all local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n· Your own Bible verse edits (DB drafts)" + (n ? " — currently " + n + " verses" : "") + "\n\n✅ The original DB published on the website is NOT deleted. It loads again as usual.\n⚠ Your own edits can't be restored, so first send them to the administrator with '🧩 Copy DB code', and save any script you need as a file in 🛡️ Backup·Restore.\n\nContinue?"],
     [/^마지막 확인이에요\.\n\n내가 수정한 성경 구절 (\d+)절이.*$/s, n => "Final check.\n\n" + n + " Bible verses you edited will be permanently removed from this PC. Did you send the DB code to the administrator?\n\nReally delete?"]
 ,
-    [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator (sht0230@naver.com), then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
+    [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator (" + APP_CONFIG.adminEmail + "), then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
     [/^아직 안 보낸 수정이 없어요 ✓(?: \(아래는 이미 보낸 (\d+)절이에요\)| \(이미 보낸 (\d+)절은 .*\))?$/s, (a, b) => "Nothing is waiting to be sent ✓" + (a ? " (below are the " + a + " already sent)" : b ? " (the " + b + " already sent can be shown by checking [Include already sent])" : "")],
     [/^(\d+)절을 보낸 것으로 표시했어요\..*$/s, n => "Marked " + n + (n === "1" ? " verse" : " verses") + " as sent. Only verses you edit again will be collected again."]
 ,
-    [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (sht0230@naver.com)." + (x ? " (This verse has no content)" : "")],
+    [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (" + APP_CONFIG.adminEmail + ")." + (x ? " (This verse has no content)" : "")],
     [/^(.+?) (\d+)장 · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " chapter " + ch + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];

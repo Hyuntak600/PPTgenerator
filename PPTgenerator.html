@@ -423,6 +423,12 @@ header{padding:12px 20px 10px;}
 .wel-notes li::marker{color:var(--accent); font-weight:700;}
 .wel-notes b{color:var(--accent);}
 .wel-modal .wel-date{font-weight:normal; color:var(--sub); font-size:.74rem; margin-left:.4em;}
+.wel-fold{margin:18px 0 6px; padding-top:10px; border-top:1px solid var(--line);}
+.wel-fold>summary{cursor:pointer; list-style:none; user-select:none; font-size:.86rem; font-weight:600; color:var(--ink); padding:4px 0;}
+.wel-fold>summary::-webkit-details-marker{display:none;}
+.wel-fold>summary::before{content:"\25B8"; display:inline-block; width:1.1em; color:var(--sub);}
+.wel-fold[open]>summary::before{content:"\25BE";}
+.wel-fold[open]>summary{margin-bottom:6px;}
 
 /* ── 왼쪽 칸 보완 ──
    (1) 제목/미리보기 고정 영역(.col-head) 아래 틈(gap)으로 위로 올라간 조각이 비쳐 보이던 문제:
@@ -788,9 +794,9 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 <body>
 
 <div class="patch-overlay" id="patchOverlay">
-  <div class="patch-modal wel-modal">
+  <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="patchTitle" tabindex="-1">
     <button type="button" class="btn lang-toggle" id="langBtnWel" style="float:right; margin-left:10px;" title="화면 언어 · Interface language">🌐 한국어</button>
-    <h2>다국어 자막 정렬 도구</h2>
+    <h2 id="patchTitle">다국어 자막 정렬 도구</h2>
     <p class="patch-sub">언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.</p>
 
     <h3>🚀 이렇게 써요</h3>
@@ -823,8 +829,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
         <li data-en="In your actual script, &lt;b&gt;you need to download the translation source&lt;/b&gt; for translation to work. (See 🐳 Translation server guide.)">실제 본문에서는 <b>번역 소스를 다운받아야</b> 작동해요. (🐳 번역 서버 안내 참고)</li>
         <li data-en="The translation source works better &lt;b&gt;the more it warms up&lt;/b&gt;. It may be slow or awkward at first, but it gets better after a few uses.">번역 소스는 <b>예열이 될수록</b> 더 잘 작동해요. 처음엔 느리거나 어색해도 몇 번 쓰다 보면 나아져요.</li>
       </ol>
-      <p class="wel-hint" id="welSampleTag" hidden data-en="📌 The translation server is off, so this shows &lt;b&gt;a pre-reviewed translation&lt;/b&gt;.">📌 번역 서버가 꺼져 있어서, <b>미리 검수해 둔 번역</b>을 보여줘요.</p>
-      <p class="wel-hint" data-en="Drag over the verse and &lt;b&gt;exactly what you selected is sent to the translation server&lt;/b&gt; and translated (the same translation as in the columns). e.g., select only “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”. This tryout only shows English. If the server is off, a pre-reviewed translation is shown for whatever span you drag. (see 🐳 Translation server guide)">드래그하면 <b>고른 글자가 번역 서버로 그대로 보내져 번역</b>돼요(본문 칸과 같은 번역이에요). 예) “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”만 선택해 보세요. 이 체험은 영어 번역만 보여줘요. 서버가 꺼져 있으면 미리 검수해 둔 번역을 보여줘요(어디를 드래그해도 찾아요). (🐳 번역 서버 안내 참고)</p>
+      <p class="wel-hint" id="welSampleTag" hidden data-en="📌 This tryout shows &lt;b&gt;a pre-reviewed translation&lt;/b&gt;. In your actual script, the translation server translates.">📌 체험용이라 <b>미리 검수해 둔 번역</b>을 보여줘요. 실제 본문에서는 번역 서버가 번역해요.</p>
+      <p class="wel-hint" data-en="Drag over the verse and &lt;b&gt;the translation of what you selected&lt;/b&gt; appears below. e.g., select only “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”. This tryout only shows English, and it uses &lt;b&gt;pre-made translations&lt;/b&gt;, so it works for any span you drag, with no translation server needed.">드래그하면 <b>고른 부분의 번역</b>이 아래에 나와요. 예) “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”만 선택해 보세요. 이 체험은 영어 번역만 보여주고, <b>미리 만들어 둔 번역</b>이라 번역 서버 없이도 어디를 드래그해도 나와요.</p>
       <div class="wel-row" style="display:none" data-devonly="번역기 출력 기록: UI에서만 숨김(기능 코드는 그대로)">
         <button type="button" class="btn" id="welRecBtn" title="번역 서버가 켜져 있을 때, 세 구절에서 드래그로 고를 수 있는 모든 구간(단어 단위 · 중국어는 글자 단위)을 서버에 그대로 보내 나온 영어를 기록해요. 수백 건이라 몇 분 걸려요 (개발용)">📼 번역기 출력 기록</button>
         <button type="button" class="btn" id="welRecStopBtn" hidden>⏹ 중지하고 지금까지 저장</button>
@@ -837,21 +843,29 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
       </div>
     </div>
 
-    <h3>🆕 최신 패치노트<span class="wel-date">2026-09-30</span></h3>
+    <details class="wel-fold" id="welPatchFold">
+    <summary>🆕 최신 패치노트<span class="wel-date">2026-10-02</span></summary>
     <ul>
+      <li data-en="&lt;b&gt;The start screen is lighter, and the tryout no longer needs a translation server.&lt;/b&gt; The “Try it” demo now uses only a pre-made translation table (about 120 KB), loaded when you first use it. The developer recording tool is split out and loaded only when needed."><b>시작 화면이 가벼워졌고, 체험은 번역 서버 없이 동작해요.</b> “직접 해보기”는 미리 만들어 둔 번역표(약 120KB)만 쓰며, 처음 쓸 때 불러와요. 개발용 기록 기능은 따로 떼어 두고 필요할 때만 불러와요.</li>
+      <li data-en="&lt;b&gt;Dialogs are easier to use with a keyboard or screen reader.&lt;/b&gt; When a window opens, focus moves into it and &lt;b&gt;Tab&lt;/b&gt; no longer leaves it for the screen behind. Closing the window returns focus to where you were."><b>안내 창을 키보드·화면 읽기 프로그램으로 쓰기 쉬워졌어요.</b> 창이 열리면 포커스가 창 안으로 들어가고, <b>Tab</b>을 눌러도 뒤 화면으로 나가지 않아요. 창을 닫으면 누르기 전 자리로 돌아와요.</li>
+      <li data-en="&lt;b&gt;Restore protection&lt;/b&gt;: if your saved script or Bible DB draft is damaged, it is kept aside instead of being deleted or overwritten. If a recent automatic backup exists, the tool starts from it, and if restoring fails midway, half-built pieces are cleared and the screen goes back to empty."><b>복원 보호</b>: 저장된 원고나 성경 DB 초안이 손상됐어도 지우거나 덮어쓰지 않고 따로 보관해요. 최근 자동 백업이 있으면 그걸로 이어서 시작하고, 복원하다 오류가 나면 반쯤 만들어진 조각을 치우고 빈 화면으로 되돌려요.</li>
+      <li data-en="&lt;b&gt;Your script stays as is in the English interface&lt;/b&gt;: switching the interface to English does not translate the script you pasted, the text on slides, or the translation reference lines. Even if your script matches an interface phrase like “슬라이드 3”, it is left unchanged."><b>영어 화면에서도 내 원고는 그대로</b>: 화면 언어를 English로 바꿔도 내가 붙여넣은 원고, 슬라이드 속 글, 번역 대조 줄은 번역되지 않아요. 원고가 “슬라이드 3”처럼 화면 문구와 같아도 바뀌지 않아요.</li>
+      <li data-en="&lt;b&gt;Dragging text inside a dialog&lt;/b&gt; and releasing the mouse outside it no longer closes the window by itself."><b>안내 창 안에서 글자를 드래그하다가</b> 바깥에서 마우스를 놓아도 창이 저절로 닫히지 않아요.</li>
       <li data-en="&lt;b&gt;📖 Bible DB mode&lt;/b&gt; is new. Switch between it and &lt;b&gt;🎞 Make slides&lt;/b&gt; with the buttons at the top, pick a book, chapter and verse (use the keyboard ← → to move between verses), and enter the text in 4 languages. &lt;b&gt;🧩 Copy DB code&lt;/b&gt; generates code to paste into the chapter file in the &lt;code&gt;bibleDB/&lt;/code&gt; folder. DB mode has no “Clear current work”."><b>📖 성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절을 골라(키보드 ← → 로 절을 넘길 수 있어요) 4개 언어 본문을 입력해요. <b>🧩 DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 작업 내용 지우기가 없어요.</li>
       <li data-en="Slides imported from the Bible show their source (e.g. John 3:16a) and have &lt;b&gt;▲ ▼&lt;/b&gt; buttons to move them up or down one place, and a &lt;b&gt;✕&lt;/b&gt; at the top right to delete the slide. You can also click a verse on the left to select it and press &lt;b&gt;Backspace&lt;/b&gt;/&lt;b&gt;Delete&lt;/b&gt;. The slide’s own font size and alignment move with it. A deleted slide can be restored with &lt;b&gt;Ctrl+Z&lt;/b&gt; or from 🛡️ Backup·Restore.">성경에서 불러온 슬라이드에는 출처(예: 요한복음 3:16a)가 표시되고, <b>▲ ▼</b> 버튼으로 한 칸씩 위아래로 옮길 수 있어요. 오른쪽 위 <b>✕</b>로 그 슬라이드를 바로 지울 수도 있고, 왼쪽 성경 구절을 눌러 선택한 뒤 <b>Backspace</b>/<b>Delete</b>를 눌러도 지워져요. 지운 슬라이드는 <b>Ctrl+Z</b>나 🛡️ 백업·복구에서 되돌릴 수 있어요. 슬라이드별 글자 크기·정렬도 같이 따라 움직여요.</li>
       <li data-en="You can now import verses from the Bible DB in Make slides mode too: use &lt;b&gt;📖 Import Bible&lt;/b&gt; at the start of the toolbar at the top to add them to the end of your script. Pick the book, chapter, start verse and end verse from the dropdowns and everything in between is added. Verses with several pages appear as 16 (a) · 16 (b), but slides show only the number. Verses with no content are dimmed and can’t be chosen.">슬라이드 만들기 모드에서도 위쪽 도구 줄 맨 앞의 <b>📖 성경 불러오기</b>로 성경 DB의 구절을 원고 맨 뒤에 넣을 수 있어요. 성경·장·시작 절·끝 절을 드롭다운으로 고르면 그 사이 구절이 들어가요. 여러 페이지짜리 절은 16 (a)·16 (b)처럼 나뉘어 보이지만 슬라이드에는 숫자만 표시돼요. 내용이 없는 절은 흐리게 보이고 고를 수 없어요.</li>
       <li data-en="The Bible, Chapter and Verse dropdowns in Bible DB mode are now Mac-style menus, and the &lt;b&gt;◀ ▶&lt;/b&gt; buttons next to Chapter and Verse move to the previous/next chapter or verse.">성경 DB 모드의 성경·장·절 드롭다운이 맥 스타일 메뉴로 바뀌었고, 장과 절 옆의 <b>◀ ▶</b> 버튼으로 이전/다음 장·절로 넘어갈 수 있어요.</li>
-      <li data-en="&lt;b&gt;📖 Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;ℹ️ Getting started&lt;/b&gt; button for &lt;b&gt;ℹ️ Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;🧩 Copy DB code&lt;/b&gt; and send it to the administrator (sht0230@naver.com). &lt;b&gt;🗑 Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b>ℹ️ 시작 안내</b> 버튼이 <b>ℹ️ 사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b>🧩 DB 코드 복사</b>로 관리자(sht0230@naver.com)에게 보내 주세요. 슬라이드를 만들 때는 <b>📋 전체 텍스트 복사</b>를 쓰면 돼요. <b>🗑 모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
+      <li data-en="&lt;b&gt;📖 Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;ℹ️ Getting started&lt;/b&gt; button for &lt;b&gt;ℹ️ Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;🧩 Copy DB code&lt;/b&gt; and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;). &lt;b&gt;🗑 Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b>ℹ️ 시작 안내</b> 버튼이 <b>ℹ️ 사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b>🧩 DB 코드 복사</b>로 관리자(<admin-email></admin-email>)에게 보내 주세요. 슬라이드를 만들 때는 <b>📋 전체 텍스트 복사</b>를 쓰면 돼요. <b>🗑 모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
       <li data-en="Set a &lt;b&gt;font size (pt)&lt;/b&gt; and &lt;b&gt;left / center / right alignment&lt;/b&gt; for each slide separately. The &lt;b&gt;Base font size&lt;/b&gt; at the top (default &lt;b&gt;80pt&lt;/b&gt;) is the target size for every slide. The toolbar’s &lt;b&gt;Default alignment&lt;/b&gt; is the global default.">슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이에요.</li>
       <li data-en="&lt;b&gt;📋 Copy full text&lt;/b&gt; doesn’t copy just by opening the window. Press &lt;b&gt;Copy&lt;/b&gt; inside the window to copy."><b>📋 전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
       <li data-en="In the copied text, one slide is one paragraph, and only the text of each language appears.">복사 글은 슬라이드 한 장이 한 문단이고, 언어별 글만 나와요.</li>
       <li data-en="When you drag over text, the translation language is set to &lt;b&gt;English&lt;/b&gt; from the start (you can change it to Korean in the detailed settings).">글자를 드래그했을 때의 번역 결과 언어가 처음부터 <b>English</b>로 설정돼요(세부 설정에서 한국어로 바꿀 수 있어요).</li>
       <li data-en="The first screen is now this getting-started guide. You can reopen it anytime with &lt;b&gt;ℹ️ Getting started&lt;/b&gt; at the top.">처음 화면을 지금의 시작 안내로 바꿨어요. 위쪽 <b>ℹ️ 시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
     </ul>
+    </details>
 
-    <h3>🛠 개발자 노트</h3>
+    <details class="wel-fold" id="welDevFold">
+    <summary>🛠 개발자 노트</summary>
     <ul>
       <li data-en="Translations are machine-made, so they’re &lt;b&gt;only a reference for checking that the languages carry the same content&lt;/b&gt;. They don’t replace a final proofread.">번역문은 기계번역이라 <b>언어끼리 같은 내용이 들어갔는지 대조하는 참고용</b>이에요. 최종 원고 검수를 대신하지는 않아요.</li>
       <li data-en="Per-slide font size and alignment are saved by slide &lt;b&gt;number&lt;/b&gt;. If merging or splitting pieces shifts the numbers, the settings stay with that number.">슬라이드별 글자 크기·정렬은 슬라이드 <b>번호</b> 기준으로 저장돼요. 조각을 합치거나 나눠서 번호가 밀리면 설정은 그 번호에 남아요.</li>
@@ -859,6 +873,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
       <li data-en="The save-as-PPTX feature has been removed. Now you take the text with you using &lt;b&gt;Copy full text&lt;/b&gt;.">PPTX로 저장하는 기능은 없앴어요. 이제 <b>전체 텍스트 복사</b>로 글자를 가져가요.</li>
       <li data-en="The sample Bible text uses public-domain translations (Korean 개역한글, KJV, Chinese 和合本, Indonesian Terjemahan Lama).">예시 성경 본문은 저작권이 만료된 번역(개역한글, KJV, 和合本, 인도네시아어 Terjemahan Lama)이에요.</li>
     </ul>
+    </details>
 
     <div class="patch-actions">
       <button class="patch-close-btn" id="patchCloseBtn">시작하기</button>
@@ -867,8 +882,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 </div>
 
 <div class="patch-overlay" id="howtoOverlay">
-  <div class="patch-modal">
-    <h2>🐳 번역 서버(LibreTranslate) 설치 안내</h2>
+  <div class="patch-modal" role="dialog" aria-modal="true" aria-labelledby="howtoTitle" tabindex="-1">
+    <h2 id="howtoTitle">🐳 번역 서버(LibreTranslate) 설치 안내</h2>
     <p class="patch-sub">
       이 도구는 참고번역·미리보기 번역을 위해 여러분 컴퓨터 안에서 LibreTranslate라는 번역 프로그램이
       함께 켜져 있어야 합니다. 아래 순서를 딱 한 번만 따라 하면, 다음부터는 Docker Desktop에서 서버를 다시 켜기만
@@ -987,8 +1002,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 </div>
 
 <div class="patch-overlay" id="copyOverlay">
-  <div class="patch-modal copy-modal">
-    <h2>전체 텍스트</h2>
+  <div class="patch-modal copy-modal" role="dialog" aria-modal="true" aria-labelledby="copyTitle" tabindex="-1">
+    <h2 id="copyTitle">전체 텍스트</h2>
     <p class="patch-sub" id="ctSub"></p>
     <div class="copy-pick slide-only" id="ctSlidePick">
       <div class="field"><span>슬라이드</span><select id="ssFrom" title="시작 슬라이드"></select><select id="ssTo" title="끝 슬라이드"></select></div>
@@ -1007,8 +1022,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 </div>
 
 <div class="patch-overlay" id="impOverlay">
-  <div class="patch-modal imp-modal">
-    <h2>📖 성경 DB에서 불러오기</h2>
+  <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="impTitle" tabindex="-1">
+    <h2 id="impTitle">📖 성경 DB에서 불러오기</h2>
     <p class="patch-sub">성경 → 장 → 절 순서로 고르면 원고 맨 뒤에 조각으로 들어가요. 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="impBook"></select></label>
@@ -1024,8 +1039,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
   </div>
 </div>
 <div class="patch-overlay" id="dbGuideOverlay">
-  <div class="patch-modal wel-modal">
-    <h2>📖 성경 DB 사용 안내</h2>
+  <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="dbGuideTitle" tabindex="-1">
+    <h2 id="dbGuideTitle">📖 성경 DB 사용 안내</h2>
     <p class="patch-sub">성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.</p>
 
     <h3>📚 이 구절들은 어디에 있나요?</h3>
@@ -1036,7 +1051,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
     <h3>📨 수정한 내용을 프로그램에 반영하려면</h3>
     <ul>
-      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>② Not sent yet</b> tab collects every verse you edited and haven't marked as sent, whatever the date) and send the code to the program administrator (<a href='mailto:sht0230@naver.com'>sht0230@naver.com</a>). Then press <b>✅ Mark as sent</b> — from then on only verses you edit again are collected. We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<a href="mailto:sht0230@naver.com">sht0230@naver.com</a>)에게 보낸 뒤 <b>✅ 보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
+      <li data-en="After finishing your slide work, press <b>🧩 Copy DB code</b> (the <b>② Not sent yet</b> tab collects every verse you edited and haven't marked as sent, whatever the date) and send the code to the program administrator (<admin-email></admin-email>). Then press <b>✅ Mark as sent</b> — from then on only verses you edit again are collected. We will update the program.">슬라이드 작업을 마친 뒤 <b>🧩 DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<admin-email></admin-email>)에게 보낸 뒤 <b>✅ 보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
     </ul>
 
     <h3>🎞 슬라이드를 만들 때는</h3>
@@ -1057,8 +1072,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 </div>
 
 <div class="patch-overlay" id="dbCodeOverlay">
-  <div class="patch-modal copy-modal">
-    <h2>DB 코드 복사</h2>
+  <div class="patch-modal copy-modal" role="dialog" aria-modal="true" aria-labelledby="dbCodeTitle" tabindex="-1">
+    <h2 id="dbCodeTitle">DB 코드 복사</h2>
     <p class="patch-sub" id="dbCodeSub"></p>
     <div class="wel-row" style="margin-bottom:10px">
       <span class="seg" id="dbScopeSeg">
@@ -1077,8 +1092,8 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 </div>
 
 <div class="patch-overlay" id="bkOverlay">
-  <div class="patch-modal copy-modal">
-    <h2>백업 · 복구</h2>
+  <div class="patch-modal copy-modal" role="dialog" aria-modal="true" aria-labelledby="bkTitle" tabindex="-1">
+    <h2 id="bkTitle">백업 · 복구</h2>
     <p class="patch-sub">글은 이 브라우저에 자동 저장돼요. 브라우저 데이터를 지우거나 다른 브라우저·다른 파일 위치로 열면 보이지 않으니, 중요한 원고는 파일로도 받아 두세요.</p>
     <div class="copy-actions">
       <button type="button" class="btn primary" id="bkExport">💾 파일로 저장</button>
@@ -1220,16 +1235,18 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<script defer src="js/00-config.js?v=20261002c"></script>
 <script defer src="js/01-core.js?v=20261002b"></script>
 <script defer src="js/02-translate.js?v=20261002b"></script>
 <script defer src="js/03-slides.js?v=20261002b"></script>
 <script defer src="js/04-layout-copy.js?v=20261002b"></script>
 <script defer src="js/05-storage.js?v=20261002b"></script>
 <script defer src="js/06-bible-db.js?v=20261002b"></script>
-<script defer src="js/07-bible-copy.js?v=20261002b"></script>
-<script defer src="js/08-welcome-demo.js?v=20261002b"></script>
+<script defer src="js/07-bible-copy.js?v=20261002c"></script>
+<script defer src="js/08-welcome-demo.js?v=20261002c"></script>
 <script defer src="js/09-theme.js?v=20261002b"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261002b"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261002c"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
+<script defer src="js/12-modal-a11y.js?v=20261002c"></script>
 </body>
 </html>
