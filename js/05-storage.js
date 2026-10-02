@@ -42,8 +42,8 @@ const BACKUP_MAX = 12;         // 실시간(최근) 백업 개수
 const BACKUP_GAP_MS = 60000;   // 자동 백업은 최대 1분에 한 번
 const DAY_BACKUP_KEY = "subtitleTool_backup_day_v1"; // 24시간 보관 백업 1개(최근 백업 12개와 별도로 보관)
 const DAY_BACKUP_MS = 24 * 60 * 60 * 1000;
-let stateReady = false;
-let stateDirty = false;      // 아직 저장 안 된 변경이 있을 때만 창 닫기 직전 저장(안 고친 오래된 탭이 다른 탭의 새 내용을 덮어쓰지 않게)      // initState가 끝나야 true (오류로 화면이 비었을 때 저장값을 덮어쓰지 않게)
+let stateReady = false;      // initState가 끝나야 true (오류로 화면이 비었을 때 저장값을 덮어쓰지 않게)
+let stateDirty = false;      // 아직 저장 안 된 변경이 있을 때만 창 닫기 직전 저장(안 고친 오래된 탭이 다른 탭의 새 내용을 덮어쓰지 않게)
 let lastAutoBackup = 0;
 const saveWarnEl = document.getElementById("saveWarn");
 const storageWarnEl = document.getElementById("storageWarn");
@@ -280,6 +280,24 @@ function restoreState(data) {
 syncFontCqhVars(); // 저장된 상태가 없을 때(기본값 80pt)도 미리보기 크기가 처음부터 맞도록 미리 설정
 checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언어 모델 상태를 배너로 보여줌
 
+// 복원이 중간에 실패했을 때: 반쯤 만들어진 조각·슬라이드를 치우고 빈 상태로 되돌림
+function resetBoxesBlank() {
+  isRestoring = true;
+  try {
+    document.querySelectorAll(".col .box").forEach(b => b.remove());
+    right.innerHTML = ""; uid = 0; slideSeq = 0; slideOpts = [];
+    parenSet = new Set(); hiddenSet = new Set(); langOrder = LANGS.map(l => l.code);
+    document.querySelectorAll(".col").forEach(col => addBox(col, col.dataset.lang, "", null, labelOf(col.dataset.lang)));
+    document.querySelectorAll(".col").forEach(renumberColumn);
+  } finally { isRestoring = false; }
+}
+// 형식 검사(validState)를 거친 저장값만 복원하고, 복원 중 오류가 나면 빈 상태로 되돌린 뒤 false
+function tryRestore(st) {
+  if (!validState(st)) return false;
+  try { restoreState(st); return true; }
+  catch (e) { console.error("[복원 실패]", e); resetBoxesBlank(); return false; }
+}
+
 (function initState() {
   let saved = null, raw = null, bad = false;
   try {
@@ -288,16 +306,15 @@ checkLibreTranslateConnection(); // 페이지를 열자마자 서버 연결/언�
   } catch (e) {
     bad = !!raw;
   }
-  if (bad || (saved && saved.v !== 1)) { // 손상되었거나 모르는 형식: 지우지 않고 따로 보관하고, 최근 백업이 있으면 그걸로 시작
+  let restored = false;
+  if (!bad && saved) restored = tryRestore(saved);
+  if (!restored && raw) { // 읽지 못했거나(손상·모르는 형식·깨진 항목) 복원 중 오류: 원본은 지우지 않고 따로 보관하고, 최근 백업이 있으면 그걸로 시작
     try { localStorage.setItem(STATE_KEY + "_corrupt_" + Date.now(), raw); } catch (e) { /* 공간이 없으면 무시 */ }
-    const b0 = readBackups()[0];
-    saved = b0 && validState(b0.state) ? b0.state : null;
-    showToast(saved ? "저장된 데이터를 읽지 못해 가장 최근 자동 백업으로 열었어요." : "저장된 데이터를 읽지 못했어요. 원본은 브라우저에 따로 보관해 뒀어요.", true);
+    const fromBackup = readBackups().find(b => b && validState(b.state));
+    restored = !!(fromBackup && tryRestore(fromBackup.state));
+    showToast(restored ? "저장된 데이터를 읽지 못해 가장 최근 자동 백업으로 열었어요." : "저장된 데이터를 읽지 못했어요. 원본은 브라우저에 따로 보관해 뒀어요.", true);
   }
-
-  if (saved && saved.v === 1) {
-    restoreState(saved);
-  } else {
+  if (!document.querySelector(".col .box")) { // 저장값이 없거나(처음) 쓸 수 있는 저장값이 없을 때: 빈 조각으로 시작
     document.querySelectorAll(".col").forEach(col => {
       addBox(col, col.dataset.lang, "", null, labelOf(col.dataset.lang));
     });

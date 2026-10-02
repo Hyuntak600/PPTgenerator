@@ -122,7 +122,6 @@
     [/^제외: ?(.*)$/, a => "Excluded: " + a.split(", ").map(L).join(", ")],
     [/^(개별 · )?(\d+)줄 · (\d+)pt → (\d+(?:\.\d+)?)pt로 축소$/, (c, l, t, e) => (c ? "Custom · " : "") + l + " lines · " + t + "pt → " + e + "pt (shrunk)"],
     [/^(개별 · )?(\d+)줄 · (\d+(?:\.\d+)?)pt \(여유\)$/, (c, l, e) => (c ? "Custom · " : "") + l + " lines · " + e + "pt (fits)"],
-    [/^슬라이드 (\d+)장 · .*$/, n => n + " slides · Each paragraph starts with [number · font size]. Edit if needed, then press Copy."],
     [/^(.*) · (\d+)자 · (.+)$/, (d, n, w) => d + " · " + n + " chars · " + L(w)],
     [/^이 슬라이드만 (.+) 정렬 \(한 번 더 누르면 기본 정렬로\)$/, a => "Align only this slide " + L(a).toLowerCase() + " (click again for default)"],
     [/^(.+) 슬라이드를 지웠어요\..*$/s, r => "Deleted the " + r + " slide. Undo with Ctrl+Z or restore it from 🛡️ Backup·Restore."],
@@ -156,9 +155,14 @@
   const KEY = "subtitleUiLang", ATTRS = ["title", "placeholder", "aria-label"], SKIP = /^(SCRIPT|STYLE|TEXTAREA)$/;
   let lang = "ko"; try { if (localStorage.getItem(KEY) === "en") lang = "en"; } catch (e) {}
 
+  // 사용자가 쓴 원고(슬라이드 글)와 번역 결과(슬라이드 밑 대조 줄)는 화면 문구가 아니므로 번역 대상에서 뺀다
+  // (원고가 "슬라이드 3" 같은 문구와 같아도 바뀌지 않고, 복사되는 글도 달라지지 않음). 빈 자리의 언어 이름·"(비어있음)" 같은 안내는 그대로 번역됨
+  const USER_TEXT = ".slot:not(.empty) .slot-main, .chk-text[data-raw]";
+  function isUserText(n) { const p = n.parentNode; return !!(p && p.nodeType === 1 && p.closest(USER_TEXT)); }
   function txt(n) {
     if (n._en !== undefined && n.data === n._en) { if (lang === "ko") { n.data = n._ko; n._en = undefined; } return; }
     if (lang !== "en") return;
+    if (isUserText(n)) return;
     const s = n.data, v = T(s);
     if (v !== s) { n._ko = s; n._en = v; n.data = v; }
   }

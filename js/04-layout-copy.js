@@ -263,20 +263,22 @@ function queueCheckGloss(check) {
     const seq = line._glossSeq = (line._glossSeq || 0) + 1;
     textEl.title = "";
     textEl.classList.remove("busy", "err");
-    if (mode === "empty") { textEl.textContent = "(비어있음)"; textEl.classList.add("empty"); line._shown = false; return; }
+    if (mode === "empty") { textEl.textContent = "(비어있음)"; delete textEl.dataset.raw; textEl.classList.add("empty"); line._shown = false; return; }
     textEl.classList.remove("empty");
-    if (mode === "same") { textEl.textContent = text; line._shown = true; return; }
-    if (!line._shown) textEl.textContent = "번역 중...";
+    if (mode === "same") { textEl.textContent = text; textEl.dataset.raw = "1"; line._shown = true; return; } // data-raw: 사용자 글·번역 결과 표시(화면 언어 번역 대상 아님)
+    if (!line._shown) { textEl.textContent = "번역 중..."; delete textEl.dataset.raw; }
     textEl.classList.add("busy");
     line._glossTimer = setTimeout(async () => {
       try {
         const t = await glossTranslate(text, ltcodeOf(code), ltcodeOf(dragPreviewLang));
         if (line._glossSeq !== seq) return;
         textEl.textContent = t;
+        textEl.dataset.raw = "1";
         line._shown = true;
       } catch (e) {
         if (line._glossSeq !== seq) return;
         textEl.textContent = "(번역 실패 · 번역 서버 확인)";
+        delete textEl.dataset.raw;
         textEl.title = e && e.message ? e.message : "";
         textEl.classList.add("err");
         line._shown = false;
@@ -361,8 +363,9 @@ function computeFitScale(row) {
   badge.textContent = scale < 0.995
     ? `${tag}${totalLines}줄 · ${targetPt}pt → ${effPt}pt로 축소`
     : `${tag}${totalLines}줄 · ${effPt}pt (여유)`;
-  // 권장 범위(80~85pt)를 벗어난 실제 적용 크기는 눈에 띄게 경고 표시(직접 정한 크기는 경고하지 않음)
-  badge.classList.toggle("out-of-range", !isCustom && (effPt < 80 || effPt > 85));
+  // 권장 범위(기준 글자 크기 ~ +5pt, 기본 80이면 80~85pt)를 벗어난 실제 적용 크기는 눈에 띄게 경고 표시(직접 정한 크기는 경고하지 않음)
+  const basePt = getFontSizeInputValue();
+  badge.classList.toggle("out-of-range", !isCustom && (effPt < basePt || effPt > basePt + 5));
 }
 
 function recomputeAllFits() {

@@ -218,7 +218,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
   position:absolute; top:6px; right:8px; font-size:.62rem; color:#cfd8d4;
   background:rgba(0,0,0,.4); padding:2px 7px; border-radius:10px; pointer-events:none; z-index:2;
 }
-/* 실제 적용 pt가 권장 범위(80~85, 툴바 입력값 기준 ±3pt)를 벗어나면 배지를 눈에 띄게 강조 */
+/* 실제 적용 pt가 권장 범위(툴바 기준 글자 크기 ~ +5pt, 기본 80이면 80~85)를 벗어나면 배지를 눈에 띄게 강조 */
 .fit-badge.out-of-range{background:rgba(179,64,53,.75); color:#fff;}
 
 /* 시작 화면 / 안내 모달 공통 */
@@ -780,9 +780,9 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 .slide-block.bible .sg-ref{background:var(--bible); color:#fff; border-radius:999px; padding:1px 9px;}
 .slide-block.bible .row{box-shadow:0 0 0 2px var(--bible);}
 </style>
-<script src="js/bible-compat.js?v=20261002"></script>
+<script src="js/bible-compat.js?v=20261002b"></script>
 <script src="bibleDB/bibledb.js"></script>
-<script src="js/bible-fallback.js?v=20261002"></script>
+<script src="js/bible-fallback.js?v=20261002b"></script>
 <script>try{var __t=localStorage.getItem("subtitleTheme");if(__t==="dark"||__t==="light")document.documentElement.setAttribute("data-theme",__t);}catch(e){}try{if(localStorage.getItem("subtitleSlideBold")!=="0")document.documentElement.setAttribute("data-slide-bold","1");}catch(e){document.documentElement.setAttribute("data-slide-bold","1");}</script>
 </head>
 <body>
@@ -844,7 +844,7 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
       <li data-en="You can now import verses from the Bible DB in Make slides mode too: use &lt;b&gt;📖 Import Bible&lt;/b&gt; at the start of the toolbar at the top to add them to the end of your script. Pick the book, chapter, start verse and end verse from the dropdowns and everything in between is added. Verses with several pages appear as 16 (a) · 16 (b), but slides show only the number. Verses with no content are dimmed and can’t be chosen.">슬라이드 만들기 모드에서도 위쪽 도구 줄 맨 앞의 <b>📖 성경 불러오기</b>로 성경 DB의 구절을 원고 맨 뒤에 넣을 수 있어요. 성경·장·시작 절·끝 절을 드롭다운으로 고르면 그 사이 구절이 들어가요. 여러 페이지짜리 절은 16 (a)·16 (b)처럼 나뉘어 보이지만 슬라이드에는 숫자만 표시돼요. 내용이 없는 절은 흐리게 보이고 고를 수 없어요.</li>
       <li data-en="The Bible, Chapter and Verse dropdowns in Bible DB mode are now Mac-style menus, and the &lt;b&gt;◀ ▶&lt;/b&gt; buttons next to Chapter and Verse move to the previous/next chapter or verse.">성경 DB 모드의 성경·장·절 드롭다운이 맥 스타일 메뉴로 바뀌었고, 장과 절 옆의 <b>◀ ▶</b> 버튼으로 이전/다음 장·절로 넘어갈 수 있어요.</li>
       <li data-en="&lt;b&gt;📖 Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;ℹ️ Getting started&lt;/b&gt; button for &lt;b&gt;ℹ️ Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;🧩 Copy DB code&lt;/b&gt; and send it to the administrator (sht0230@naver.com). &lt;b&gt;🗑 Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b>ℹ️ 시작 안내</b> 버튼이 <b>ℹ️ 사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b>🧩 DB 코드 복사</b>로 관리자(sht0230@naver.com)에게 보내 주세요. 슬라이드를 만들 때는 <b>📋 전체 텍스트 복사</b>를 쓰면 돼요. <b>🗑 모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
-      <li data-en="Set a &lt;b&gt;font size (pt)&lt;/b&gt; and &lt;b&gt;left / center / right alignment&lt;/b&gt; for each slide separately. The &lt;b&gt;Base font size&lt;/b&gt; at the top (default &lt;b&gt;80pt&lt;/b&gt;) is the target size for every slide. The toolbar’s &lt;b&gt;Default alignment&lt;/b&gt; is the global default. Full-text copy shows the font size before each paragraph.">슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이고. 전체 텍스트 복사에는 글자 크기가 문단 앞에 표시돼요.</li>
+      <li data-en="Set a &lt;b&gt;font size (pt)&lt;/b&gt; and &lt;b&gt;left / center / right alignment&lt;/b&gt; for each slide separately. The &lt;b&gt;Base font size&lt;/b&gt; at the top (default &lt;b&gt;80pt&lt;/b&gt;) is the target size for every slide. The toolbar’s &lt;b&gt;Default alignment&lt;/b&gt; is the global default.">슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이에요.</li>
       <li data-en="&lt;b&gt;📋 Copy full text&lt;/b&gt; doesn’t copy just by opening the window. Press &lt;b&gt;Copy&lt;/b&gt; inside the window to copy."><b>📋 전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
       <li data-en="In the copied text, one slide is one paragraph, and only the text of each language appears.">복사 글은 슬라이드 한 장이 한 문단이고, 언어별 글만 나와요.</li>
       <li data-en="When you drag over text, the translation language is set to &lt;b&gt;English&lt;/b&gt; from the start (you can change it to Korean in the detailed settings).">글자를 드래그했을 때의 번역 결과 언어가 처음부터 <b>English</b>로 설정돼요(세부 설정에서 한국어로 바꿀 수 있어요).</li>
@@ -1220,16 +1220,16 @@ html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-c
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
-<script defer src="js/01-core.js?v=20261002"></script>
-<script defer src="js/02-translate.js?v=20261002"></script>
-<script defer src="js/03-slides.js?v=20261002"></script>
-<script defer src="js/04-layout-copy.js?v=20261002"></script>
-<script defer src="js/05-storage.js?v=20261002"></script>
-<script defer src="js/06-bible-db.js?v=20261002"></script>
-<script defer src="js/07-bible-copy.js?v=20261002"></script>
-<script defer src="js/08-welcome-demo.js?v=20261002"></script>
-<script defer src="js/09-theme.js?v=20261002"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261002"></script>
-<script defer src="js/11-modal-guard.js?v=20261002"></script>
+<script defer src="js/01-core.js?v=20261002b"></script>
+<script defer src="js/02-translate.js?v=20261002b"></script>
+<script defer src="js/03-slides.js?v=20261002b"></script>
+<script defer src="js/04-layout-copy.js?v=20261002b"></script>
+<script defer src="js/05-storage.js?v=20261002b"></script>
+<script defer src="js/06-bible-db.js?v=20261002b"></script>
+<script defer src="js/07-bible-copy.js?v=20261002b"></script>
+<script defer src="js/08-welcome-demo.js?v=20261002b"></script>
+<script defer src="js/09-theme.js?v=20261002b"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261002b"></script>
+<script defer src="js/11-modal-guard.js?v=20261002b"></script>
 </body>
 </html>

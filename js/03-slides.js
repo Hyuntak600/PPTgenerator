@@ -1,7 +1,5 @@
 "use strict";
 
-// 칸(column) 안 조각들의 왼쪽 위 번호(1, 2, 3...)를 현재 순서대로 다시 매김.
-// 조각은 항상 1개 이상 있고(맨 처음 addBox 호출로 생성), 번호는 그 칸 안에서의 순서일 뿐이다.
 // ── 줄(슬라이드) 모델 ──
 // 성경에서 불러온 조각(data-ref)은 "기준점"이다. 기준점 사이의 일반 조각은 언어마다 개수가 달라도 되고(원래대로),
 // 기준점(성경 조각)은 모든 언어 칸에서 항상 같은 줄에 온다. 한 언어 칸이 조각을 늘려도 다른 칸에 조각이 생기지 않고,
@@ -43,7 +41,7 @@ function followRefOpts(rowsBefore, rowsAfter, refBox, sign) {
   const rs = sign > 0 ? rowsAfter : rowsBefore, at = rowIndexOf(refBox, rs);
   const nextAnchor = rs.findIndex((r, i) => i > at && r.anchor);
   if (nextAnchor < 0) return;
-  shiftOpts(nextAnchor - (sign > 0 ? 1 : 1), sign);
+  shiftOpts(nextAnchor - 1, sign);
 }
 
 // 여러 조각의 높이를 한꺼번에 맞춘다: 전부 auto로 푼 뒤 → 높이를 한 번에 읽고 → 한 번에 적용
