@@ -55,8 +55,7 @@ function buildDbUnsentCode() {
   return out.join("\n");
 }
 // (DB 코드 복사 창에서 쓰는 도우미)
-let dbScope = "cur", dcSel = new Set(); // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아직 안 보낸 것)
-const pgName = i => String.fromCharCode(97 + (i % 26)); // a, b, c ...
+let dbScope = "cur"; // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아직 안 보낸 것)
 const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
 function dcEntries(en, ch) { return dbChapterEntries(en, ch).map(([v, pages]) => [v, pages.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]).filter(e => e[1].length); }
 function dcKey(en, ch, v, i) { return en + "|" + ch + "|" + v + "|" + i; }
@@ -95,13 +94,13 @@ function refreshDbCode() {
   if (dbScope === "unsent") {
     const r = dbUnsentList();
     dbCodeSub.textContent = r.unsent
-      ? "아직 안 보낸 수정 " + r.unsent + "절을 날짜와 상관없이 모두 모았어요. 복사해 관리자(sht0230@naver.com)에게 보낸 뒤 [✅ 보냈어요]를 눌러 주세요. 보낸 뒤 다시 고친 절은 다시 모여요."
+      ? "아직 안 보낸 수정 " + r.unsent + "절을 날짜와 상관없이 모두 모았어요. 복사해 관리자(" + APP_CONFIG.adminEmail + ")에게 보낸 뒤 [✅ 보냈어요]를 눌러 주세요. 보낸 뒤 다시 고친 절은 다시 모여요."
         + (dbInclSent.checked && r.sent ? " (이미 보낸 " + r.sent + "절 포함)" : "")
       : "아직 안 보낸 수정이 없어요 ✓" + (!r.sent ? "" : dbInclSent.checked ? " (아래는 이미 보낸 " + r.sent + "절이에요)" : " (이미 보낸 " + r.sent + "절은 [보낸 것도 포함]을 체크하면 다시 볼 수 있어요)");
     dbSentBtn.disabled = !r.unsent;
   } else {
     const cs = dbCur && window.BibleDB ? BibleDB.book(dbCur.en).ko + " " + dbCur.ch + ":" + dbCur.v : "";
-    dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자(sht0230@naver.com)에게 보내 주세요."
+    dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자(" + APP_CONFIG.adminEmail + ")에게 보내 주세요."
       + (code ? "" : " (이 절에는 내용이 없어요)");
   }
 }
