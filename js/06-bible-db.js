@@ -193,6 +193,7 @@ document.addEventListener("keydown", e => {
 // 원래 <select>는 숨겨 둔 채 값 저장소로만 쓰고(기존 코드는 그대로 동작), 화면에는 유리 질감의 메뉴를 띄운다. 고르면 select 값을 바꾸고 change를 보낸다.
 // 데이터가 없는 항목은 흐리게: 절 = 초안·장 파일 어디에도 내용이 없는 절 / 장 = 열어 봤는데 비어 있던 장(안 열어 본 장의 파일 내용은 미리 알 수 없어 그대로 둠)
 const macSyncs = [];
+const bkName = b => b ? (document.documentElement.lang === "en" ? (b.en || b.ko) : (b.ko || b.en)) || "" : ""; // 화면 언어에 맞춘 책 이름(영어 화면이면 John, 한국어 화면이면 요한복음)
 function macSelect(sel, isEmpty, lock) { // lock === true 이면 isEmpty 항목은 흐리게 보일 뿐 아니라 고를 수도 없다(성경 불러오기용)
   const btn = document.createElement("button"), lbl = document.createElement("span");
   btn.type = "button"; btn.className = "mac-sel"; lbl.className = "mac-lbl"; btn.appendChild(lbl);
@@ -284,6 +285,7 @@ function macSelect(sel, isEmpty, lock) { // lock === true 이면 isEmpty 항목�
   btn.addEventListener("keyup", e => { if (e.key === " ") e.preventDefault(); }); // 스페이스로 메뉴를 고른 직후 버튼이 다시 눌리지 않게
 }
 macSelect(dbBook);
+macSelect(canvasHeightSelect); // 세부 설정의 "캔버스 높이"도 같은 맥 스타일 메뉴로 (값은 숨긴 <select>에 그대로 저장됨)
 // ---- 성경 불러오기 전용 선택 창 ----
 // 성경 = 검색 + 구약/신약 목록, 장·절 = 번호판. 원래 <select>는 숨겨 둔 값 저장소로만 쓰므로 기존 코드는 그대로 동작한다.
 // 성경 → 장 → 절 순서로 고르면 다음 선택 창이 자동으로 열린다. 절은 "시작 → 끝" 두 번 누르면 범위(같은 절을 또 누르면 한 절).
@@ -524,7 +526,7 @@ function impUpdateSum() {
   const picks = impPicked();
   if (!impItems.length) return;
   if (!picks.length) { impSum.textContent = impRange() ? "고른 범위에 내용이 있는 절이 없어요." : "절을 골라 주세요."; impPrev.textContent = ""; impGo.disabled = true; return; }
-  const first = picks[0].label, last = picks[picks.length - 1].label, bk = BibleDB.book(impBook.value), nm = (bk && (bk.ko || bk.en)) || impBook.value;
+  const first = picks[0].label, last = picks[picks.length - 1].label, bk = BibleDB.book(impBook.value), nm = bkName(bk) || impBook.value;
   impSum.textContent = nm + " " + impChap.value + ":" + (picks.length > 1 ? first + " ~ " + last : first) + " · " + picks.length + "개 조각";
   const p0 = picks[0].page, tx = (p0.Kor || p0.Eng || p0.Chn || p0.Ind || "").replace(/\s+/g, " ").trim();
   impPrev.textContent = tx.length > 72 ? tx.slice(0, 72) + "…" : tx; // 첫 절 미리보기
@@ -593,7 +595,7 @@ function impInit() {
   // 성경(검색) → 장(번호판) → 절(번호판) 순서로 고르면 다음 창이 자동으로 열림. 열어 보니 비어 있던 장·내용 없는 절은 흐리게 + 고를 수 없음
   let chapBtn = null, verseBtn = null;
   const afterChap = () => { const seq = impSeq; Promise.resolve(impLoading).then(() => { if (seq === impSeq && impOverlay.classList.contains("open") && !pkClose) verseBtn.pkOpen(); }); };
-  pkMake([impBook], () => { const b = impBook.value ? BibleDB.book(impBook.value) : null; return { text: b ? (b.ko || b.en) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen())).title = "성경 고르기 (이름·영어·번호로 검색)";
+  pkMake([impBook], () => { const b = impBook.value ? BibleDB.book(impBook.value) : null; return { text: b ? bkName(b) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen())).title = "성경 고르기 (이름·영어·번호로 검색)";
   chapBtn = pkMake([impChap], () => ({ text: impChap.value ? impChap.value + "장" : "장", ph: !impChap.value }), 64, close => pkChapMenu(close, afterChap)); chapBtn.title = "장 고르기";
   verseBtn = pkMake([impFrom, impTo], () => {
     if (impFrom.value === "" || !impCells[+impFrom.value]) return { text: impLoaded || !impSeq ? "절 선택" : "불러오는 중…", ph: true };
@@ -667,7 +669,7 @@ function dbGuideFirstTime() {
 // 위쪽 안내 버튼: 슬라이드 만들기 = "ℹ️ 시작 안내"(원래대로), 성경 DB = "ℹ️ 사용 안내"
 function syncGuideBtn() {
   const b = document.getElementById("patchReopenBtn"), db = appMode === "db";
-  b.innerHTML = icon("info") + (db ? "사용 안내" : "시작 안내");
+  b.innerHTML = (typeof icon === "function" ? icon("info") : "") + (db ? "사용 안내" : "시작 안내");
   b.title = db ? "성경 DB 작업 안내(수정한 내용 보내는 법, 로컬 데이터 등)를 다시 봐요" : "사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트";
 }
 document.getElementById("dbGuideClose").addEventListener("click", () => dbGuideOverlay.classList.remove("open"));

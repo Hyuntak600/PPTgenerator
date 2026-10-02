@@ -8,7 +8,7 @@
     id: "Karena demikianlah Allah mengasihi isi dunia ini, sehingga dikaruniakan-Nya Anak-Nya yang tunggal itu, supaya barangsiapa yang percaya akan Dia jangan binasa, melainkan beroleh hidup yang kekal.",
   };
 
-  // ─ 시작 화면 체험은 번역 서버를 쓰지 않는다. 처음 쓰는 사용자는 아직 번역 서버가 없으니, 미리 만들어 둔 번역표(js/welcome-rec-table.js, WEL_REC)만 쓴다 ─
+  // ─ 시작 화면 체험은 번역 서버를 쓰지 않는다. 처음 쓰는 사용자는 아직 번역 서버가 없으니, 미리 만들어 둔 번역표(js/15-welcome-rec-table.js, WEL_REC)만 쓴다 ─
   // 번역표에는 드래그로 고를 수 있는 모든 구간의 영어 번역이 번역기 출력 그대로 들어 있다. 표에 없는 구간은 지어내지 않고 안내만 한다.
   // 표는 약 120KB라서 체험을 처음 쓸 때(또는 창이 처음부터 열려 있으면 브라우저가 한가할 때) 받는다.
   const SCRIPT_Q = (() => { try { const s = document.currentScript && document.currentScript.src; return s && s.indexOf("?") > -1 ? s.slice(s.indexOf("?")) : ""; } catch (e) { return ""; } })();
@@ -23,7 +23,7 @@
   }
   async function loadRecTable() { // 성공하면 true, 파일을 못 받으면 false
     if (window.WEL_REC) return true;
-    try { await loadScriptOnce("js/welcome-rec-table.js"); } catch (e) { return false; }
+    try { await loadScriptOnce("js/15-welcome-rec-table.js"); } catch (e) { return false; }
     return !!window.WEL_REC;
   }
 
@@ -112,7 +112,7 @@
   if (recRow && /[?&]welrec(=|&|$)/.test(location.search)) { recRow.style.display = ""; if (recOutBox) recOutBox.style.display = ""; }
   if (recBtn) recBtn.addEventListener("click", async () => {
     try {
-      if (!(await loadRecTable())) throw new Error("welcome-rec-table.js");
+      if (!(await loadRecTable())) throw new Error("15-welcome-rec-table.js");
       window.__welCtx = { VERSES, WEL_REC: window.WEL_REC };
       await loadScriptOnce("js/welcome-rec-dev.js");
     } catch (e) { showToast("개발용 기록 파일을 불러오지 못했어요: " + (e && e.message || e), true); return; }

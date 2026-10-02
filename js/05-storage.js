@@ -197,7 +197,7 @@ function applyStateAndReload(st) {
     list.forEach(b => {
       const row = document.createElement("div"); row.className = "bk-row";
       const info = document.createElement("span");
-      info.textContent = new Date(b.t).toLocaleString("ko-KR") + " · " + b.n + "자 · " + b.why;
+      info.textContent = new Date(b.t).toLocaleString(document.documentElement.lang === "en" ? "en-US" : "ko-KR") + " · " + b.n + "자 · " + b.why;
       const btn = document.createElement("button"); btn.type = "button"; btn.className = "btn"; btn.textContent = "이 시점으로 복구";
       btn.addEventListener("click", async () => { if (await macConfirm("이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.", { title: "백업으로 복구", ok: "복구" })) applyStateAndReload(b.state); });
       row.append(info, btn); listEl.appendChild(row);
@@ -265,6 +265,7 @@ function restoreState(data) {
     if (canvasHeightSelect.selectedIndex === -1) canvasHeightSelect.value = "1080"; // 알 수 없는 값 방지
     canvasHeightCustom.value = data.canvasHeightCustomValue || 1080;
     canvasHeightCustom.style.display = canvasHeightSelect.value === "custom" ? "" : "none";
+    try { macSyncs.forEach(f => f()); } catch (e) { /* 06-bible-db.js보다 먼저 복원될 땐 macSelect가 만들어질 때 맞춰짐 */ }
     syncFontCqhVars();
     previewLangSeg.querySelectorAll("button").forEach(b => {
       b.classList.toggle("active", b.dataset.lang === dragPreviewLang);

@@ -112,7 +112,9 @@
     "체험용 번역표를 불러오지 못했어요. 페이지를 새로고침해 주세요.":"Couldn't load the tryout translation table. Please refresh the page.",
     "4개 칸에 요한복음 3:16을 넣었어요.":"Put John 3:16 into the 4 columns.",
     "이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.":"There is already text, so the example wasn't inserted. Press \"Clear current work\" and try again.",
-    "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation."
+    "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation.",
+    /* 영어 화면 보강(빠져 있던 문구) */
+    "中文":"Chinese","Indonesia":"Indonesian","이전으로 되돌리기 (Ctrl/⌘+Z)":"Undo (Ctrl/⌘+Z)","다시 하기 (Ctrl/⌘+Shift+Z)":"Redo (Ctrl/⌘+Shift+Z)","시작 슬라이드":"Start slide","끝 슬라이드":"End slide","지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요":"Clears only the left script and right slides you're working on and starts fresh. Backups, settings and the translation cache stay, and what you had just before clearing can be restored from 🛡️ Backup·Restore.","수정한 구절을 관리자에게 보낼 코드로 복사해요":"Copy your edited verses as code to send to the administrator","⚠ 이 PC에 저장된 모든 데이터(원고·자동 백업·번역 캐시·설정·내가 수정한 성경 구절)를 전부 지우고 처음 상태로 되돌려요. 홈페이지에 기록된 원본 DB는 그대로 남아요":"⚠ Deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own Bible verse edits) and resets to the starting state. The original DB recorded on the homepage stays.","성경 구절은 한 슬라이드로 고정돼 있어서 합칠 수 없어요.":"A Bible verse is fixed as one slide, so it can't be merged.","성경 구절 위에 합칠 조각이 없어요.":"There's no piece above this verse to merge with.","성경 구절은 한 슬라이드로 고정돼 있어서 나눌 수 없어요.":"A Bible verse is fixed as one slide, so it can't be split.","맨 위예요.":"Already at the top.","맨 아래예요.":"Already at the bottom.","이 줄은 언어마다 성경 표시가 달라서 지울 수 없어요. 오른쪽 위 ✕를 써 주세요.":"This line can't be deleted on its own because each language shows the verse reference differently. Use the ✕ at the top right.","되돌릴 내용이 없어요.":"Nothing to undo.","이전으로 되돌렸어요.":"Undone.","다시 할 내용이 없어요.":"Nothing to redo.","다시 적용했어요.":"Redone.","삭제하지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.":"Couldn't delete. Browser storage isn't available.","성경 DB 모드에서는 작업 내용 지우기를 쓸 수 없어요.":"Clear current work isn't available in Bible DB mode.","슬라이드 삭제 직전":"Before slide delete","복사할 슬라이드가 없어요.":"There are no slides to copy.","슬라이드가 없어요.":"There are no slides.","전부":"All","DB 초안을 읽지 못해 원본을 따로 보관했어요. 덮어쓰지 않도록 저장을 멈춥니다.":"Couldn't read the DB draft, so the original was set aside. Saving is paused so nothing gets overwritten.","⚠ 이 장의 성경 데이터를 찾지 못했어요":"⚠ Couldn't find Bible data for this chapter","⚠ bibleDB/bibledb.js를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요.":"⚠ Couldn't find bibleDB/bibledb.js. The bibleDB folder must be in the same place as PPTgenerator.html.","bibleDB 폴더를 찾지 못해 DB 모드를 열 수 없어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더를 두세요.":"Couldn't find the bibleDB folder, so DB mode can't be opened. Put the bibleDB folder in the same place as PPTgenerator.html.","책 이름 검색  (요한 · John · 43)":"Search books  (John · 요한 · 43)","찾는 책이 없어요":"No matching book","구약":"Old Testament","신약":"New Testament","선택":"Select","불러오는 중이에요…":"Loading…","불러오는 중…":"Loading…","시작 절을 누르세요":"Click the start verse","시작 슬라이드를 누르세요":"Click the start slide","끝 절을 누르세요 (같은 절 = 한 절만)":"Click the end verse (same verse = just one)","끝 슬라이드를 누르세요 (같은 슬라이드 = 한 장만)":"Click the end slide (same slide = just one)","장 고르기":"Pick a chapter","성경 선택":"Select Bible","성경 고르기 (이름·영어·번호로 검색)":"Pick a book (search by name, English or number)","절 선택":"Select verse","절 고르기 (시작 절 → 끝 절)":"Pick verses (start verse → end verse)","✎ 고친 절 · ✓ 보낸 절 · 흐림 = 내용 없음":"✎ edited · ✓ sent · dimmed = no content","절을 골라 주세요.":"Pick a verse.","복사할 내용이 없어요.":"Nothing to copy.","DB 코드를 복사했어요.":"DB code copied.","DB 초안을 읽지 못하는 상태라 코드를 만들지 않아요. 원본은 브라우저에 보관돼 있어요.":"The DB draft can't be read, so no code is generated. The original is kept in your browser.","DB 초안을 읽지 못하는 상태라 표시하지 않아요. 원본은 브라우저에 보관돼 있어요.":"The DB draft can't be read, so nothing was marked. The original is kept in your browser.","절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.":"The verse is still loading. Please try again in a moment.","표시를 저장하지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.":"Couldn't save the marking. Browser storage isn't available.","이 장에는 아직 복사할 내용이 없어요. 다른 장을 골라 주세요.":"This chapter has nothing to copy yet. Pick another chapter."
   };
   const L = x => EN[x] || x;
   const RX = [
@@ -130,7 +132,7 @@
     [/^이 슬라이드만 (.+) 정렬 \(한 번 더 누르면 기본 정렬로\)$/, a => "Align only this slide " + L(a).toLowerCase() + " (click again for default)"],
     [/^(.+) 슬라이드를 지웠어요\..*$/s, r => "Deleted the " + r + " slide. Undo with Ctrl+Z or restore it from 🛡️ Backup·Restore."],
     [/^(.+): 번역 중\.\.\.$/, a => L(a) + ": translating..."],
-    [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m + "]"],
+    [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m.replace("번역 서비스 오류:", "Translation service error:").replace("번역 실패: 응답 형식이 올바르지 않습니다", "Unexpected response format").replace("알 수 없는 오류", "Unknown error") + "]"],
     [/^없는 언어: ?(.*)$/, a => "Missing languages: " + a],
     [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Everything except translation still works."],
     [/^LibreTranslate 서버\((.+)\) 연결 정상,.*$/s, u => "LibreTranslate server (" + u + ") is connected and all required language models are installed."],
@@ -149,7 +151,16 @@
     [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (" + APP_CONFIG.adminEmail + ")." + (x ? " (This verse has no content)" : "")],
     [/^(.+?) (\d+)장 · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " chapter " + ch + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
-    [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"]  ];
+    [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"],
+    /* 영어 화면 보강 */
+    [/^(\d+)개 조각을 지웠어요\. Ctrl\+Z로 되돌릴 수 있어요\.$/, n => n + (n === "1" ? " piece" : " pieces") + " deleted. Undo with Ctrl+Z."],
+    [/^로컬 데이터·캐시 (\d+)개를 지웠어요\. 홈페이지의 원본 DB를 다시 불러옵니다\.$/, n => "Deleted " + n + " local data/cache items. Reloading the original DB from the homepage."],
+    [/^전부 \((\d+)장\)$/, n => "All (" + n + ")"],
+    [/^(\d+)번$/, n => "Slide " + n],
+    [/^(\d+) ~ (\d+)번$/, (a, b) => "Slides " + a + " ~ " + b],
+    [/^(\d+)장$/, n => "Ch. " + n],
+    [/^(.*) · (\d+)개 조각$/, (a, n) => a + " · " + n + (n === "1" ? " piece" : " pieces")]
+  ];
   // 아이콘(SVG)으로 바꾼 버튼 글자는 이모지가 빠진 채로 들어오므로, 이모지·여분 공백을 뺀 형태로도 사전을 찾는다
   const EMO = /[\u2139\u2600-\u27BF\u2B50\u25C0\u25B6\uFE0F\u{1F000}-\u{1FFFF}]/gu;
   const nz = s => s.replace(EMO, "").replace(/\s+/g, " ").trim();
@@ -219,7 +230,9 @@
     document.title = l === "en" ? T(koTitle) : koTitle;
     swapHtml(); // 조각 번역보다 먼저: 원래 한글 HTML을 그대로 보관하기 위해
     pass(document.body);
-    btns.forEach(b => { b.innerHTML = icon("globe") + (l === "en" ? "English" : "한국어"); });
+    try { macSyncs.forEach(f => f()); } catch (e) { /* 06-bible-db.js 전이면 건너뜀 */ } // 성경 이름 등 코드로 만든 글자도 새 언어로
+    // 아이콘 함수(01-core.js)를 못 찾는 상황(파일 일부만 옛 버전일 때)에도 언어 전환 버튼이 멈추지 않도록 글자만이라도 바꿈
+    btns.forEach(b => { b.innerHTML = (typeof icon === "function" ? icon("globe") : "") + (l === "en" ? "English" : "한국어"); });
   }
   btns.forEach(b => b.addEventListener("click", () => setLang(lang === "en" ? "ko" : "en", true)));
   setLang(lang, false);

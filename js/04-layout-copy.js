@@ -36,7 +36,7 @@ function setComposeOpen(open) {
 }
 composeToggle.addEventListener("click", () => setComposeOpen(composePanel.hidden));
 document.addEventListener("click", e => { // 세부 설정 / 슬라이드 구성 패널은 바깥을 누르면 닫힘
-  if (settingsMore.open && !settingsMore.contains(e.target)) settingsMore.open = false;
+  if (settingsMore.open && !settingsMore.contains(e.target) && !(e.target.closest && e.target.closest(".mac-menu"))) settingsMore.open = false;
   if (!composePanel.hidden && !e.composedPath().includes(composeBar)) setComposeOpen(false);
 });
 
@@ -226,7 +226,8 @@ const canvasHeightSelect = document.getElementById("canvasHeightSelect");
 const canvasHeightCustom = document.getElementById("canvasHeightCustom");
 function getCanvasHeightPt() {
   if (canvasHeightSelect.value === "custom") {
-    return parseInt(canvasHeightCustom.value, 10) || 1080;
+    const v = parseInt(canvasHeightCustom.value, 10) || 1080;
+    return Math.min(10000, Math.max(200, v)); // 타이핑 중 "2" 같은 한 글자가 바로 적용되지 않게 범위 제한
   }
   return parseInt(canvasHeightSelect.value, 10) || 1080;
 }

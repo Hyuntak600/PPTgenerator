@@ -156,7 +156,7 @@ function ccRefresh() {
   const a = Math.min(+ccFrom.value, +ccTo.value), b = Math.max(+ccFrom.value, +ccTo.value), picks = ccItems.slice(a, b + 1);
   const res = ctPickText(new Set(picks.map(x => dcKey(x.en, x.ch, x.v, x.i))));
   copyText.value = res.text;
-  const bk = BibleDB.book(ccBook.value), nm = (bk && (bk.ko || bk.en)) || ccBook.value;
+  const bk = BibleDB.book(ccBook.value), nm = bkName(bk) || ccBook.value;
   sub.textContent = nm + " " + ccChap.value + "장 · " + res.n + "페이지의 글을 모았어요. 문단마다 구절 이름과 언어별 글이 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
 }
 async function ccLoad(wantV) { // wantV: 처음 골라 둘 절(없으면 그 장의 첫 절). 한 절만 골라져 있다가 끝 절을 바꾸면 범위가 늘어남
@@ -184,7 +184,7 @@ function ccInit() {
   BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; ccBook.appendChild(o); });
   const ctx = { book: ccBook, chap: ccChap };
   let chapBtn = null;
-  pkMake([ccBook], () => { const b = ccBook.value ? BibleDB.book(ccBook.value) : null; return { text: b ? (b.ko || b.en) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
+  pkMake([ccBook], () => { const b = ccBook.value ? BibleDB.book(ccBook.value) : null; return { text: b ? bkName(b) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
   chapBtn = pkMake([ccChap], () => ({ text: ccChap.value ? ccChap.value + "장" : "장", ph: !ccChap.value }), 64, close => pkChapMenu(close, () => {}, ctx)); chapBtn.title = "장 고르기";
   macSelect(ccFrom); macSelect(ccTo); // 절도 같은 맥 스타일 드롭다운 (시작 ~ 끝)
   ccBook.addEventListener("change", () => { fillNum(ccChap, BibleDB.book(ccBook.value).chapters, 1); ccLoad(); });

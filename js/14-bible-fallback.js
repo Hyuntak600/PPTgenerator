@@ -15,7 +15,7 @@
     delete window.__bibleDbReport;
     var B = window.BibleDB;
     if (!B) { console.error("[성경 DB] " + [PRIMARY].concat(FALLBACKS).join(", ") + " 중 어느 것도 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요."); return; }
-    if (window.__bibleLegacyRewrite && typeof B.path === "function" && !B.__p) { // 옛 "bible/" 경로를 내놓는 bibledb.js 대비(js/bible-compat.js와 짝)
+    if (window.__bibleLegacyRewrite && typeof B.path === "function" && !B.__p) { // 옛 "bible/" 경로를 내놓는 bibledb.js 대비(js/13-bible-compat.js와 짝)
       var o = B.path;
       B.path = function () { var r = o.apply(this, arguments); return typeof r === "string" ? r.replace(/(^|\/)bible\//, "$1bibleDB/") : r; };
       B.__p = 1;

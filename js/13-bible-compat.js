@@ -4,7 +4,7 @@
    정리하는 법(확인 후)
    - bibleDB/bibledb.js 안에 "bible/" 경로가 남아 있는지 검색해 보세요(예: grep -n "bible/" bibleDB/bibledb.js).
      없다면 LEGACY_REWRITE를 false로 바꾸거나 이 파일과 PPTgenerator.html의 <script> 한 줄, 그리고
-     js/bible-fallback.js의 B.path 감싸기(LEGACY_REWRITE 블록)를 함께 지워도 돼요. */
+     js/14-bible-fallback.js의 B.path 감싸기(LEGACY_REWRITE 블록)를 함께 지워도 돼요. */
 (function () {
   "use strict";
   var LEGACY_REWRITE = true;
