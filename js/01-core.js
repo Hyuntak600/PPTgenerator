@@ -113,7 +113,6 @@ const LANGS = Object.keys(LANG_META).map(code => ({ code, ...LANG_META[code] }))
 const left = document.getElementById("left");
 const right = document.getElementById("right");
 const settingsMore = document.getElementById("settingsMore");
-const guideBar = document.getElementById("guideBar");
 const tipsBar = document.getElementById("tipsBar");
 let uid = 0;
 const NON_BLANK = /\S/; // 공백뿐인 칸 판별: trim()처럼 새 문자열을 만들지 않고 첫 글자에서 멈춤

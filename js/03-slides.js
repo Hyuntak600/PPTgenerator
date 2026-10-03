@@ -690,12 +690,11 @@ function updateBoxLinks(cols) {
   });
 }
 
-// 비어 있으면 사용 순서, 내용이 생기면 단축 키 안내
+// 내용이 생기면 단축 키 안내(비어 있을 땐 아무 줄도 없이 작업 공간을 넓게 씀)
 function updateHelpBars(cols) {
   const hasText = activeLangCodes(cols).length > 0;
   const hasSlot = !!right.querySelector(".slot:not(.empty)");
   const has = hasText || hasSlot;
-  guideBar.hidden = has;
   tipsBar.hidden = !has;
 }
 

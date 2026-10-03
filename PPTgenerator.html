@@ -56,12 +56,7 @@ header{padding:10px 16px; border-bottom:1px solid var(--line); flex:none; backgr
 .setting .help{font-size:.72rem; color:var(--sub); margin:5px 0 0; line-height:1.45;}
 
 /* 도움말 줄: 비어 있을 땐 사용 순서, 내용이 생기면 단축 키 안내 */
-.guide, .tips{flex:none; display:flex; align-items:center; flex-wrap:wrap; gap:4px 18px; padding:7px 16px; border-bottom:1px solid var(--line); font-size:.8rem;}
-.guide{background:var(--panel); color:var(--ink);}
-.guide strong{font-weight:bold;}
-.guide ol{display:flex; flex-wrap:wrap; gap:4px 18px; margin:0; padding:0; list-style:none; counter-reset:step;}
-.guide li{counter-increment:step;}
-.guide li::before{content:counter(step) "."; font-weight:bold; color:var(--accent); margin-right:4px;}
+.tips{flex:none; display:flex; align-items:center; flex-wrap:wrap; gap:4px 18px; padding:7px 16px; border-bottom:1px solid var(--line); font-size:.8rem;}
 .tips{font-size:.74rem; color:var(--sub);}
 kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-bottom-width:2px; border-radius:4px; padding:0 5px; background:var(--panel); color:var(--ink);}
 
@@ -93,6 +88,8 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
   padding:8px 14px; margin:8px 16px 0; font-size:.8rem; line-height:1.5;
 }
 .lt-banner.show{display:flex;}
+.lt-banner{transition:opacity 1.6s ease;}
+.lt-banner.fade{opacity:0;}
 .lt-banner.ok{background:#e2f3e6; color:#1f6b3a; border-color:#bfe3c8;}
 .lt-banner button{
   cursor:pointer; border:1px solid currentColor; background:transparent; color:inherit;
@@ -363,10 +360,7 @@ header{padding:12px 20px 10px;}
 .seg button.active{background:var(--accent); color:#fff; font-weight:600;}
 .settings-panel,.compose-panel{border-radius:12px; box-shadow:0 14px 40px -12px rgba(15,20,45,.38);}
 
-.guide{padding:8px 20px; background:color-mix(in srgb,var(--accent) 5%,var(--panel));}
 .tips{padding:6px 20px;}
-.guide li::before{content:counter(step); display:inline-grid; place-items:center; width:1.4em; height:1.4em; border-radius:50%;
-  background:var(--accent); color:#fff; font-size:.68rem; font-weight:700; margin-right:7px;}
 .lt-banner{border-radius:10px; margin:10px 20px 0;}
 .toast{border-radius:999px; padding:10px 18px; background:rgba(18,22,40,.95); box-shadow:0 10px 30px -10px rgba(10,14,30,.6);}
 
@@ -482,7 +476,7 @@ textarea,input{caret-color:var(--accent);}
 /* 위쪽 바: 반투명 유리 느낌 + 가는 경계선 */
 header{padding:10px 18px; background:color-mix(in srgb,var(--panel) 80%,transparent); -webkit-backdrop-filter:var(--mac-glass); backdrop-filter:var(--mac-glass); border-bottom:.5px solid var(--line);}
 .head-top h1{font-size:.95rem; font-weight:600; letter-spacing:-.011em;}
-.guide,.tips{border-bottom:.5px solid var(--line);}
+.tips{border-bottom:.5px solid var(--line);}
 .left{border-right:.5px solid var(--line);}
 
 /* 버튼: 흰 알약 + 가는 그림자, 주 버튼은 파란 그라데이션 */
@@ -634,10 +628,6 @@ header{padding:9px 18px 10px; background:color-mix(in srgb,var(--panel) 72%,tran
 
 /* ─────────────── Mac 업그레이드 4단계 · 안내 줄·단축키 키캡·번역 서버 배너 (CSS만 추가 · 기능·구조 그대로) ─────────────── */
 /* 시작하기 안내 줄: 번호는 은은한 파란 원 */
-.guide{gap:4px 20px; padding:7px 20px; -webkit-user-select:none; user-select:none;}
-.guide strong{font-weight:600; letter-spacing:-.01em;}
-.guide li{color:color-mix(in srgb,var(--ink) 78%,transparent);}
-.guide li::before{width:1.35em; height:1.35em; margin-right:6px; background:color-mix(in srgb,var(--accent) 15%,transparent); color:color-mix(in srgb,var(--accent) 80%,var(--ink)); font-size:.66rem; font-weight:600; font-variant-numeric:tabular-nums;}
 /* 단축키 줄: 맥 키보드의 키캡 모양 */
 .tips{gap:4px 20px; padding:5px 20px; -webkit-user-select:none; user-select:none;}
 kbd{display:inline-block; min-width:1.55em; padding:1px 6px; margin:0 1px; border:0; border-radius:5px; text-align:center; font-size:.68rem; font-weight:500; line-height:1.35;
@@ -700,7 +690,7 @@ input[type=checkbox]{accent-color:var(--accent);}
 
 /* ── 성경 DB 모드 ── */
 html:not([data-mode="db"]) .db-only{display:none !important;}
-html[data-mode="db"] .slide-only, html[data-mode="db"] #guideBar{display:none !important;}
+html[data-mode="db"] .slide-only{display:none !important;}
 .dbbar select{max-width:200px;}
 .dbbar .btn{padding:3px 9px;}
 .stepgrp{display:inline-flex; align-items:center; gap:3px;}
@@ -910,6 +900,13 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 .wel-old{margin-top:8px;}
 .wel-old>summary{cursor:pointer; font-size:.8rem; color:var(--sub); padding:2px 0;}
 .wel-old>summary:hover{color:var(--ink);}
+</style>
+<style>
+/* 되돌리기 · 다시 하기 화살표: 작아서 잘 안 보이던 것을 크게 */
+#undoBtn,#redoBtn{font-size:1.25rem !important; line-height:1; padding:1px 9px !important; font-weight:600;}
+.toolbar-right .btn.quiet{color:color-mix(in srgb,var(--ink) 70%,transparent);}
+.toolbar-right .btn.quiet:hover{color:var(--ink); background:color-mix(in srgb,var(--ink) 8%,transparent);}
+.toolbar-right .btn.quiet.danger:hover{color:#ff3b30;}
 </style>
 </head>
 <body>
@@ -1221,13 +1218,9 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
     <div class="head-actions">
       <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>자동 저장 안 됨</span>
       <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
-      <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
-      <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
-      <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
-      <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
-      <span class="hsep slide-only"></span>
       <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</button>
+      <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
       <span class="hsep"></span>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 모든 데이터(원고·자동 백업·번역 캐시·설정·내가 수정한 성경 구절)를 전부 지우고 처음 상태로 되돌려요. 홈페이지에 기록된 원본 DB는 그대로 남아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
     </div>
@@ -1279,6 +1272,10 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       </div>
     </details>
     <div class="toolbar-right">
+      <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
+      <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
+      <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
+      <span class="hsep slide-only"></span>
       <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
       <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
     </div>
@@ -1297,15 +1294,6 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
     <button type="button" id="ltStatusRecheck">다시 확인</button>
     <button type="button" id="ltStatusClose">닫기</button>
   </span>
-</div>
-<div class="guide" id="guideBar">
-  <strong>시작하기</strong>
-  <ol>
-    <li>언어별 칸에 원고를 붙여넣어요</li>
-    <li>문장이 끝나는 곳에서 Enter로 나눠요</li>
-    <li>오른쪽 슬라이드에서 언어끼리 짝이 맞는지 확인해요</li>
-    <li>전체 텍스트를 복사해 가져가요</li>
-  </ol>
 </div>
 <div class="tips" id="tipsBar" hidden>
   <span><kbd>Enter</kbd> 문장 나누기</span>

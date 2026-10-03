@@ -17,23 +17,35 @@ const LIBRETRANSLATE_API_KEY = "";
 // 필요한 언어 모델(ko/zh/en/id) 설치 여부를 미리 확인해서 화면 상단에 띄워줌.
 const ltBanner = document.getElementById("ltStatusBanner");
 const ltBannerText = document.getElementById("ltStatusText");
-let ltBannerTimer = null;
-// 안내 배너는 읽을 시간만 보여 주고 저절로 닫힌다(정상 4초 · 문제 안내 12초). 마우스를 올려 두면 닫히지 않음.
-// 연결 상태는 위쪽 칩에 계속 남아 있어서, 배너가 닫혀도 놓치지 않는다.
-function armLtBannerTimer(ms) { clearTimeout(ltBannerTimer); ltBannerTimer = setTimeout(hideLtBanner, ms); }
+let ltBannerTimer = null, ltFadeTimer = null;
+// 안내 배너는 읽을 시간만 보여 주고, 그 뒤 1.6초에 걸쳐 서서히 사라진다(정상 3초 · 문제 안내 8초). 마우스를 올려 두면 사라지지 않음.
+// 연결 상태는 위쪽 칩에 계속 남아 있어서, 배너가 사라져도 놓치지 않는다.
+const LT_FADE_MS = 1600;
+function armLtBannerTimer(ms) { clearTimeout(ltBannerTimer); ltBannerTimer = setTimeout(fadeLtBanner, ms); }
 function showLtBanner(text, ok, detail) {
+  clearTimeout(ltFadeTimer);
   ltBannerText.textContent = text;
   ltBanner.title = detail || "";
   ltBanner.classList.toggle("ok", !!ok);
+  ltBanner.classList.remove("fade");
   ltBanner.classList.add("show");
-  armLtBannerTimer(ok ? 4000 : 12000);
+  armLtBannerTimer(ok ? 3000 : 8000);
 }
-function hideLtBanner() {
-  clearTimeout(ltBannerTimer);
-  ltBanner.classList.remove("show");
+function fadeLtBanner() { // 서서히 투명해진 뒤 자리까지 접는다
+  clearTimeout(ltBannerTimer); clearTimeout(ltFadeTimer);
+  ltBanner.classList.add("fade");
+  ltFadeTimer = setTimeout(hideLtBanner, LT_FADE_MS);
 }
-ltBanner.addEventListener("mouseenter", () => clearTimeout(ltBannerTimer));
-ltBanner.addEventListener("mouseleave", () => { if (ltBanner.classList.contains("show")) armLtBannerTimer(4000); });
+function hideLtBanner() { // 닫기 버튼은 바로 접음
+  clearTimeout(ltBannerTimer); clearTimeout(ltFadeTimer);
+  ltBanner.classList.remove("show", "fade");
+}
+function keepLtBanner() { // 사라지는 중이라도 마우스를 올리면 다시 또렷하게
+  clearTimeout(ltBannerTimer); clearTimeout(ltFadeTimer);
+  ltBanner.classList.remove("fade");
+}
+ltBanner.addEventListener("mouseenter", keepLtBanner);
+ltBanner.addEventListener("mouseleave", () => { if (ltBanner.classList.contains("show")) armLtBannerTimer(3000); });
 const ltChip = document.getElementById("ltChip");
 function setLtChip(state, text, title) {
   ltChip.dataset.state = state;
