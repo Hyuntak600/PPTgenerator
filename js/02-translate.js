@@ -17,15 +17,23 @@ const LIBRETRANSLATE_API_KEY = "";
 // 필요한 언어 모델(ko/zh/en/id) 설치 여부를 미리 확인해서 화면 상단에 띄워줌.
 const ltBanner = document.getElementById("ltStatusBanner");
 const ltBannerText = document.getElementById("ltStatusText");
+let ltBannerTimer = null;
+// 안내 배너는 읽을 시간만 보여 주고 저절로 닫힌다(정상 4초 · 문제 안내 12초). 마우스를 올려 두면 닫히지 않음.
+// 연결 상태는 위쪽 칩에 계속 남아 있어서, 배너가 닫혀도 놓치지 않는다.
+function armLtBannerTimer(ms) { clearTimeout(ltBannerTimer); ltBannerTimer = setTimeout(hideLtBanner, ms); }
 function showLtBanner(text, ok, detail) {
   ltBannerText.textContent = text;
   ltBanner.title = detail || "";
   ltBanner.classList.toggle("ok", !!ok);
   ltBanner.classList.add("show");
+  armLtBannerTimer(ok ? 4000 : 12000);
 }
 function hideLtBanner() {
+  clearTimeout(ltBannerTimer);
   ltBanner.classList.remove("show");
 }
+ltBanner.addEventListener("mouseenter", () => clearTimeout(ltBannerTimer));
+ltBanner.addEventListener("mouseleave", () => { if (ltBanner.classList.contains("show")) armLtBannerTimer(4000); });
 const ltChip = document.getElementById("ltChip");
 function setLtChip(state, text, title) {
   ltChip.dataset.state = state;
@@ -55,11 +63,11 @@ async function checkLibreTranslateConnection(silent) {
       // 사파리는 https로 연 페이지에서 http 주소(번역 서버)로의 요청을 막을 수 있어서, 이 경우만 따로 안내
       if (window.APP_ENV && window.APP_ENV.safari && location.protocol === "https:" && /^http:\/\//i.test(LIBRETRANSLATE_URL)) {
         banner(
-          `사파리에서는 https 페이지가 http 번역 서버(${LIBRETRANSLATE_URL})에 연결하지 못할 수 있어요. 크롬으로 열면 번역도 쓸 수 있어요. 번역만 빼고 모두 쓸 수 있어요.`,
+          `사파리에서는 https 페이지가 http 번역 서버(${LIBRETRANSLATE_URL})에 연결하지 못할 수 있어요. 크롬으로 열어 보세요.`,
           false, failDetail
         );
       } else if (macPort5000()) {
-        banner(`맥에서 번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 서버가 켜져 있는데도 안 되면 AirPlay 수신 모드(5000번 포트 충돌)를 꺼 보세요. 번역만 빼고 모두 쓸 수 있어요.`, false, failDetail);
+        banner(`맥에서 번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 서버가 켜져 있는데도 안 되면 AirPlay 수신 모드를 꺼 보세요.`, false, failDetail);
       } else {
         banner(`번역 서버(${LIBRETRANSLATE_URL})에 연결되지 않았어요. 번역만 빼고 모두 쓸 수 있어요.`, false, failDetail);
       }
@@ -95,7 +103,6 @@ async function checkLibreTranslateConnection(silent) {
     setLtChip("ok", "번역 서버 연결됨", LIBRETRANSLATE_URL);
     if (!silent) {
       showLtBanner(`LibreTranslate 서버(${LIBRETRANSLATE_URL}) 연결 정상, 필요한 언어 모델도 모두 설치돼 있습니다.`, true);
-      setTimeout(hideLtBanner, 4000); // 정상일 땐 한동안 보여준 뒤 조용히 사라짐
     }
   } finally {
     ltBusy = false;

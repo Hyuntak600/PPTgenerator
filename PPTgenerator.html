@@ -184,7 +184,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 .compose-legend b{color:var(--ink);}
 .row{
   position:relative;
-  aspect-ratio:16/9; width:100%; max-width:680px;
+  aspect-ratio:var(--slide-ar,16/9); width:100%; max-width:680px;
   background:#000; border-radius:10px; overflow:hidden; container-type:size;
   display:flex; flex-direction:column; align-items:flex-start; justify-content:center; gap:0;
   padding:0; letter-spacing:0; /* 실제 프로프레젠터 화면(사진) 기준: 고정 여백 없음 · 자간 기본값 */
@@ -555,7 +555,9 @@ header{padding:9px 18px 10px; background:color-mix(in srgb,var(--panel) 72%,tran
 .toolbar{margin-top:9px; padding-top:9px; gap:8px 20px; border-top:.5px solid color-mix(in srgb,var(--line) 70%,transparent);}
 .field{font-size:.75rem; -webkit-user-select:none; user-select:none;}
 .toolbar input[type=number]{width:54px; text-align:center; font-variant-numeric:tabular-nums;}
-#canvasHeightCustom{width:100%; max-width:160px; box-sizing:border-box; margin-top:6px; padding:7px 10px; font-size:.95rem; text-align:left;}
+.canvas-custom{display:flex; align-items:center; gap:8px; margin-top:6px;}
+.canvas-custom .x{color:var(--sub);}
+#canvasWidthCustom,#canvasHeightCustom{width:92px; max-width:none; box-sizing:border-box; margin:0; padding:7px 10px; font-size:.95rem; text-align:left;}
 /* 분할 버튼: 선택된 칸이 하얀(다크에서는 밝은 회색) 알약으로 떠오르는 맥 방식 */
 .toolbar .seg{background:color-mix(in srgb,var(--ink) 7%,transparent);}
 .toolbar .seg button{padding:2px 12px; font-size:.75rem; color:color-mix(in srgb,var(--ink) 68%,transparent); -webkit-user-select:none; user-select:none;}
@@ -871,25 +873,63 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <script src="bibleDB/bibledb.js"></script>
 <script src="js/14-bible-fallback.js?v=20261002f"></script>
 <script>try{var __t=localStorage.getItem("subtitleTheme");if(__t==="dark"||__t==="light")document.documentElement.setAttribute("data-theme",__t);}catch(e){}try{if(localStorage.getItem("subtitleSlideBold")!=="0")document.documentElement.setAttribute("data-slide-bold","1");}catch(e){document.documentElement.setAttribute("data-slide-bold","1");}</script>
+<style>
+/* 번역 서버 안내 창: 내 컴퓨터(OS)에 맞는 안내만 보이게, 문제 해결은 접어서 */
+#howtoOverlay[data-hos="win"] .os-mac,#howtoOverlay[data-hos="mac"] .os-win{display:none !important;}
+.howto-os{display:flex; align-items:center; gap:10px; margin:12px 0 4px; font-size:.8rem; color:var(--sub);}
+.howto-cmdrow{display:flex; gap:8px; align-items:stretch; margin:8px 0;}
+.howto-cmdrow .howto-cmd{flex:1; min-width:0; margin:0; overflow-x:auto; white-space:nowrap; user-select:all;}
+.howto-cmdrow .btn{flex:none;}
+.howto-q{margin:6px 0; border-radius:10px; background:color-mix(in srgb,var(--ink) 3.5%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--ink) 14%,transparent);}
+.howto-q>summary{cursor:pointer; padding:8px 12px; font-weight:600; font-size:.86rem; list-style:none;}
+.howto-q>summary::-webkit-details-marker{display:none;}
+.howto-q>summary::before{content:"▸"; display:inline-block; width:1em; color:var(--sub);}
+.howto-q[open]>summary::before{content:"▾";}
+.howto-q>:not(summary){margin-left:12px; margin-right:12px;}
+.howto-q>*:last-child{margin-bottom:10px;}
+</style>
+<style>
+/* 상단 도구줄 오른쪽: 화면 색 · 화면 언어 (영어로 바꿔도 맨 윗줄이 길어지지 않게 이쪽으로 옮김) */
+.toolbar-right{margin-left:auto; display:flex; align-items:center; gap:6px;}
+.toolbar-right .btn{font-size:.78rem; padding:4px 9px; border-radius:6px; white-space:nowrap;}
+/* 아이콘에 은은한 색 포인트 — 색 바탕(주 버튼·선택된 토글·위험 버튼) 위에서는 글자색을 그대로 따라감 */
+.ic{stroke:var(--ic,currentColor);}
+.ic-slides,.ic-info,.ic-save{--ic:#3b82f6;} .ic-folder,.ic-mail{--ic:#4a9be8;}
+.ic-book,.ic-books{--ic:#c9822f;} .ic-clipboard{--ic:#d98a2b;} .ic-bolt{--ic:#f0a30a;} .ic-sparkles{--ic:#e6a700;}
+.ic-sun,.ic-warn{--ic:#f08a0a;} .ic-trash,.ic-pin,.ic-record{--ic:#e5534b;}
+.ic-code,.ic-flask{--ic:#9b6be0;} .ic-moon{--ic:#7c7ce8;}
+.ic-globe,.ic-server{--ic:#2aa6c9;} .ic-import{--ic:#2fae9a;} .ic-checkc,.ic-shield,.ic-terminal{--ic:#2fae5e;}
+.btn.primary .ic,.seg button.active .ic,.patch-close-btn .ic,.mc-danger .ic,.danger .ic,.btn.danger .ic{stroke:currentColor;}
+/* 시작 화면 체험: 번역 상자를 처음부터 같은 모양·같은 높이로 깔아 두어, 드래그해도 갑자기 생기거나 커지지 않게 */
+.wel-out{min-height:4.65em; background:color-mix(in srgb,var(--accent) 5%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--accent) 22%,var(--line)),inset 3px 0 0 color-mix(in srgb,var(--accent) 45%,var(--line));}
+.wel-out.has-text{background:color-mix(in srgb,var(--accent) 8%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--accent) 34%,var(--line)),inset 3px 0 0 var(--accent);}
+#welSampleTag[hidden]{display:block !important; visibility:hidden;}
+</style>
+<style>
+/* 패치노트: 이번 업데이트만 펼쳐 보이고, 이전 기록은 한 번 더 접어 둠 */
+.wel-old{margin-top:8px;}
+.wel-old>summary{cursor:pointer; font-size:.8rem; color:var(--sub); padding:2px 0;}
+.wel-old>summary:hover{color:var(--ink);}
+</style>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs><symbol id="i-slides" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></symbol><symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.5C10.5 5 8 4.5 4 4.5v13c4 0 6.5.5 8 2 1.5-1.5 4-2 8-2v-13c-4 0-6.5.5-8 2zM12 6.5v13"/></symbol><symbol id="i-code" viewBox="0 0 24 24"><path d="M9 4C7 4 6.5 5 6.5 7v2c0 1.5-.8 2.5-2.5 3 1.7.5 2.5 1.5 2.5 3v2c0 2 .5 3 2.5 3M15 4c2 0 2.5 1 2.5 3v2c0 1.5.8 2.5 2.5 3-1.7.5-2.5 1.5-2.5 3v2c0 2-.5 3-2.5 3"/></symbol><symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M10 4h4M6.5 7l.8 12a2 2 0 0 0 2 1.9h5.4a2 2 0 0 0 2-1.9l.8-12M10 11v6M14 11v6"/></symbol><symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.7h.01"/></symbol><symbol id="i-server" viewBox="0 0 24 24"><rect x="3.5" y="4" width="17" height="6.5" rx="2"/><rect x="3.5" y="13.5" width="17" height="6.5" rx="2"/><path d="M7.5 7.2h.01M7.5 16.8h.01"/></symbol><symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.5l7 2.5v5.5c0 4.3-3 7.6-7 9-4-1.4-7-4.7-7-9V6z"/><path d="M9 12l2 2 4-4"/></symbol><symbol id="i-clipboard" viewBox="0 0 24 24"><rect x="5" y="4.5" width="14" height="16.5" rx="2.5"/><path d="M9 4.5V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v.5M9 10h6M9 14h6"/></symbol><symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.6 3.8 5.6 3.8 9s-1.1 6.4-3.8 9c-2.7-2.6-3.8-5.6-3.8-9S9.3 5.6 12 3z"/></symbol><symbol id="i-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></symbol><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol><symbol id="i-save" viewBox="0 0 24 24"><path d="M12 4v10M8 10.5l4 4 4-4M4.5 15v2.5a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V15"/></symbol><symbol id="i-folder" viewBox="0 0 24 24"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></symbol><symbol id="i-import" viewBox="0 0 24 24"><path d="M12 3.5v11M8 11l4 4 4-4"/><rect x="4" y="16.5" width="16" height="4" rx="1.5"/></symbol><symbol id="i-record" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="3" fill="currentColor"/></symbol><symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></symbol><symbol id="i-checkc" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.3l2.8 2.8L16 9.5"/></symbol><symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 4l9 15.5H3z"/><path d="M12 10v4M12 17h.01"/></symbol><symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 3L5 13.5h6L10 21l9-11h-6z"/></symbol><symbol id="i-flask" viewBox="0 0 24 24"><path d="M9.5 3.5h5M10.5 3.5v6L5 18.5a1.8 1.8 0 0 0 1.6 2.5h10.8a1.8 1.8 0 0 0 1.6-2.5L13.5 9.5v-6"/></symbol><symbol id="i-sparkles" viewBox="0 0 24 24"><path d="M12 3.5l1.8 5.2 5.2 1.8-5.2 1.8L12 17.5l-1.8-5.2L5 10.5l5.2-1.8z"/><path d="M19 3v3M17.5 4.5h3"/></symbol><symbol id="i-terminal" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M7 9.5l3 2.5-3 2.5M12.5 15H17"/></symbol><symbol id="i-books" viewBox="0 0 24 24"><path d="M4 4h3.5v16H4zM9.5 4H13v16H9.5zM15 5.5l3.3-.9 3 14.5-3.3.9z"/></symbol><symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 8l8 5.5L20 8"/></symbol><symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 3.5h6l-1 5 3 3V13H7v-1.5l3-3z"/><path d="M12 13v7.5"/></symbol></defs></svg>
 
 <div class="patch-overlay" id="patchOverlay">
   <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="patchTitle" tabindex="-1">
-    <button type="button" class="btn lang-toggle" id="langBtnWel" style="float:right; margin-left:10px;" title="화면 언어 · Interface language"><svg class="ic" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
+    <button type="button" class="btn lang-toggle" id="langBtnWel" style="float:right; margin-left:10px;" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
     <h2 id="patchTitle">다국어 자막 정렬 도구</h2>
     <p class="patch-sub">언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.</p>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-bolt"/></svg>이렇게 써요</h3>
+    <h3><svg class="ic ic-bolt" aria-hidden="true"><use href="#i-bolt"/></svg>이렇게 써요</h3>
     <ol class="wel-steps">
       <li data-en="Paste each language’s script into its own column.">언어별 칸에 원고를 붙여넣어요.</li>
       <li data-en="Press &lt;b&gt;Enter&lt;/b&gt; at the end of each sentence to split it. Piece N goes into slide N.">문장이 끝나는 곳에서 <b>Enter</b>로 나눠요. N번 조각이 N번 슬라이드에 들어가요.</li>
       <li data-en="Check on the right that the languages line up. You can also change the font size and alignment for each slide.">오른쪽 슬라이드에서 언어끼리 짝이 맞는지 확인해요. 슬라이드마다 글자 크기·정렬도 바꿀 수 있어요.</li>
-      <li data-en="Take the text with you using &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt;."><b><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>로 가져가요.</li>
+      <li data-en="Take the text with you using &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt;."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>로 가져가요.</li>
     </ol>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-flask"/></svg>직접 해보기 — 요한복음 3:16</h3>
+    <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>직접 해보기 — 요한복음 3:16</h3>
     <div class="wel-try">
       <div class="wel-row">
         <span>성경 구절 언어</span>
@@ -908,46 +948,59 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       <textarea class="wel-verse" id="welVerse" rows="3" readonly spellcheck="false" aria-label="요한복음 3장 16절"></textarea>
       <div class="wel-out" id="welOut" aria-live="polite"></div>
       <ol class="wel-hint wel-notes">
-        <li data-en="In your actual script, &lt;b&gt;you need to set up the translation server&lt;/b&gt; for translation to work. (See &lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-server'/&gt;&lt;/svg&gt;Translation server guide.)">실제 본문에서는 <b>번역 소스를 다운받아야</b> 작동해요. (<svg class="ic" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내 참고)</li>
+        <li data-en="In your actual script, &lt;b&gt;you need to set up the translation server&lt;/b&gt; for translation to work. (See &lt;svg class='ic ic-server' aria-hidden='true'&gt;&lt;use href='#i-server'/&gt;&lt;/svg&gt;Translation server guide.)">실제 본문에서는 <b>번역 소스를 다운받아야</b> 작동해요. (<svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내 참고)</li>
         <li data-en="The translation server works better &lt;b&gt;the more it warms up&lt;/b&gt;. It may be slow or awkward at first, but it gets better after a few uses.">번역 소스는 <b>예열이 될수록</b> 더 잘 작동해요. 처음엔 느리거나 어색해도 몇 번 쓰다 보면 나아져요.</li>
       </ol>
-      <p class="wel-hint" id="welSampleTag" hidden data-en="&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-pin'/&gt;&lt;/svg&gt;This tryout shows &lt;b&gt;a pre-reviewed translation&lt;/b&gt;. In your actual script, the translation server translates."><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>체험용이라 <b>미리 검수해 둔 번역</b>을 보여줘요. 실제 본문에서는 번역 서버가 번역해요.</p>
+      <p class="wel-hint" id="welSampleTag" hidden data-en="&lt;svg class='ic ic-pin' aria-hidden='true'&gt;&lt;use href='#i-pin'/&gt;&lt;/svg&gt;This tryout shows &lt;b&gt;a pre-reviewed translation&lt;/b&gt;. In your actual script, the translation server translates."><svg class="ic ic-pin" aria-hidden="true"><use href="#i-pin"/></svg>체험용이라 <b>미리 검수해 둔 번역</b>을 보여줘요. 실제 본문에서는 번역 서버가 번역해요.</p>
       <p class="wel-hint" data-en="Drag over the verse and &lt;b&gt;the translation of what you selected&lt;/b&gt; appears below. e.g., select only “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”. This tryout only shows English, and it uses &lt;b&gt;pre-made translations&lt;/b&gt;, so it works for any span you drag, with no translation server needed.">드래그하면 <b>고른 부분의 번역</b>이 아래에 나와요. 예) “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”만 선택해 보세요. 이 체험은 영어 번역만 보여주고, <b>미리 만들어 둔 번역</b>이라 번역 서버 없이도 어디를 드래그해도 나와요.</p>
       <div class="wel-row" style="display:none" data-devonly="번역기 출력 기록: UI에서만 숨김(기능 코드는 그대로)">
-        <button type="button" class="btn" id="welRecBtn" title="번역 서버가 켜져 있을 때, 세 구절에서 드래그로 고를 수 있는 모든 구간(단어 단위 · 중국어는 글자 단위)을 서버에 그대로 보내 나온 영어를 기록해요. 수백 건이라 몇 분 걸려요 (개발용)"><svg class="ic" aria-hidden="true"><use href="#i-record"/></svg>번역기 출력 기록</button>
+        <button type="button" class="btn" id="welRecBtn" title="번역 서버가 켜져 있을 때, 세 구절에서 드래그로 고를 수 있는 모든 구간(단어 단위 · 중국어는 글자 단위)을 서버에 그대로 보내 나온 영어를 기록해요. 수백 건이라 몇 분 걸려요 (개발용)"><svg class="ic ic-record" aria-hidden="true"><use href="#i-record"/></svg>번역기 출력 기록</button>
         <button type="button" class="btn" id="welRecStopBtn" hidden>⏹ 중지하고 지금까지 저장</button>
-        <button type="button" class="btn" id="welRecDlBtn" hidden><svg class="ic" aria-hidden="true"><use href="#i-save"/></svg>파일로 저장</button>
+        <button type="button" class="btn" id="welRecDlBtn" hidden><svg class="ic ic-save" aria-hidden="true"><use href="#i-save"/></svg>파일로 저장</button>
         <span id="welRecStat" style="font-size:.74rem; color:var(--sub);"></span>
       </div>
       <textarea style="display:none" class="wel-verse" id="welRecOut" rows="5" readonly spellcheck="false" hidden aria-label="번역기 출력 기록"></textarea>
       <div class="wel-row">
-        <button type="button" class="btn" id="welFillBtn" title="언어별 칸 4개에 요한복음 3:16을 한 조각씩 넣어요 (칸이 모두 비어 있을 때만)"><svg class="ic" aria-hidden="true"><use href="#i-import"/></svg>왼쪽 칸 4개에 이 구절 넣어 보기</button>
+        <button type="button" class="btn" id="welFillBtn" title="언어별 칸 4개에 요한복음 3:16을 한 조각씩 넣어요 (칸이 모두 비어 있을 때만)"><svg class="ic ic-import" aria-hidden="true"><use href="#i-import"/></svg>왼쪽 칸 4개에 이 구절 넣어 보기</button>
       </div>
     </div>
 
     <details class="wel-fold" id="welPatchFold">
-    <summary><svg class="ic" aria-hidden="true"><use href="#i-sparkles"/></svg>최신 패치노트<span class="wel-date">2026-10-02</span></summary>
+    <summary><svg class="ic ic-sparkles" aria-hidden="true"><use href="#i-sparkles"/></svg>최신 패치노트<span class="wel-date">2026-10-03</span></summary>
+    <ul>
+      <li data-en="&lt;b&gt;Easier on Mac and Windows&lt;/b&gt;: the tool detects your computer and browser and shows only the guidance that applies to you."><b>맥·윈도우 모두 편하게</b>: 맥인지 윈도우인지, 사파리인지 크롬인지 알아서 알아보고 필요한 안내만 보여 줘요.</li>
+      <li data-en="&lt;b&gt;The translation server guide is shorter and easier&lt;/b&gt;: you only see the steps for your computer (Windows / Mac), and the command has a &lt;b&gt;Copy&lt;/b&gt; button. Troubleshooting is folded into separate items."><b>번역 서버 안내가 짧고 쉬워졌어요</b>: 내 컴퓨터(Windows / Mac)에 맞는 설명만 보이고, 명령은 <b>복사</b> 버튼으로 가져가요. 문제 해결은 항목별로 접혀 있어요.</li>
+      <li data-en="&lt;b&gt;The connection banner now closes by itself.&lt;/b&gt; You can always see the status in the chip at the top."><b>연결 안내 배너가 저절로 닫혀요.</b> 연결 상태는 위쪽 칩에서 계속 볼 수 있어요.</li>
+      <li data-en="&lt;b&gt;Set the canvas size as width × height.&lt;/b&gt; Enter two numbers under “Custom” in Advanced settings and the preview ratio follows."><b>캔버스 크기를 가로 × 세로로</b> 정할 수 있어요. 세부 설정의 “직접 입력”에 두 숫자를 넣으면 미리보기 비율도 맞춰져요.</li>
+      <li data-en="&lt;b&gt;The theme and language buttons&lt;/b&gt; moved to the &lt;b&gt;Base font size&lt;/b&gt; row, so the top bar stays on one line in English."><b>화면 색·언어 버튼</b>이 <b>기준 글자 크기</b> 줄로 옮겨졌어요. 영어로 바꿔도 맨 윗줄이 길어지지 않아요.</li>
+      <li data-en="&lt;b&gt;Undo / Redo (↶ ↷) now work in Bible DB mode too.&lt;/b&gt; The history clears when you move to another verse."><b>성경 DB 모드에서도 ↶ ↷</b>(되돌리기·다시 하기)를 쓸 수 있어요. 절을 넘기면 기록은 비워져요.</li>
+      <li data-en="Icons now have small color accents.">아이콘에 색 포인트를 넣었어요.</li>
+    </ul>
+    <details class="wel-old">
+    <summary data-en="Earlier updates (15)">이전 업데이트 (15)</summary>
     <ul>
       <li data-en="&lt;b&gt;The start screen is lighter, and the tryout no longer needs a translation server.&lt;/b&gt; The “Try it” demo now uses only a pre-made translation table (about 120 KB), loaded when you first use it. The developer recording tool is split out and loaded only when needed."><b>시작 화면이 가벼워졌고, 체험은 번역 서버 없이 동작해요.</b> “직접 해보기”는 미리 만들어 둔 번역표(약 120KB)만 쓰며, 처음 쓸 때 불러와요. 개발용 기록 기능은 따로 떼어 두고 필요할 때만 불러와요.</li>
       <li data-en="&lt;b&gt;Dialogs are easier to use with a keyboard or screen reader.&lt;/b&gt; When a window opens, focus moves into it and &lt;b&gt;Tab&lt;/b&gt; no longer leaves it for the screen behind. Closing the window returns focus to where you were."><b>안내 창을 키보드·화면 읽기 프로그램으로 쓰기 쉬워졌어요.</b> 창이 열리면 포커스가 창 안으로 들어가고, <b>Tab</b>을 눌러도 뒤 화면으로 나가지 않아요. 창을 닫으면 누르기 전 자리로 돌아와요.</li>
       <li data-en="&lt;b&gt;Restore protection&lt;/b&gt;: if your saved script or Bible DB draft is damaged, it is kept aside instead of being deleted or overwritten. If a recent automatic backup exists, the tool starts from it, and if restoring fails midway, half-built pieces are cleared and the screen goes back to empty."><b>복원 보호</b>: 저장된 원고나 성경 DB 초안이 손상됐어도 지우거나 덮어쓰지 않고 따로 보관해요. 최근 자동 백업이 있으면 그걸로 이어서 시작하고, 복원하다 오류가 나면 반쯤 만들어진 조각을 치우고 빈 화면으로 되돌려요.</li>
       <li data-en="&lt;b&gt;Your script stays as is in the English interface&lt;/b&gt;: switching the interface to English does not translate the script you pasted, the text on slides, or the translation reference lines. Even if your script matches an interface phrase like “슬라이드 3”, it is left unchanged."><b>영어 화면에서도 내 원고는 그대로</b>: 화면 언어를 English로 바꿔도 내가 붙여넣은 원고, 슬라이드 속 글, 번역 대조 줄은 번역되지 않아요. 원고가 “슬라이드 3”처럼 화면 문구와 같아도 바뀌지 않아요.</li>
       <li data-en="&lt;b&gt;Dragging text inside a dialog&lt;/b&gt; and releasing the mouse outside it no longer closes the window by itself."><b>안내 창 안에서 글자를 드래그하다가</b> 바깥에서 마우스를 놓아도 창이 저절로 닫히지 않아요.</li>
-      <li data-en="&lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; is new. Switch between it and &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-slides'/&gt;&lt;/svg&gt;Make slides&lt;/b&gt; with the buttons at the top, pick a book, chapter and verse (use the keyboard ← → to move between verses), and enter the text in 4 languages. &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; generates code to paste into the chapter file in the &lt;code&gt;bibleDB/&lt;/code&gt; folder. DB mode has no “Clear current work”."><b><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절을 골라(키보드 ← → 로 절을 넘길 수 있어요) 4개 언어 본문을 입력해요. <b><svg class="ic" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 작업 내용 지우기가 없어요.</li>
-      <li data-en="Slides imported from the Bible show their source (e.g. John 3:16a) and have &lt;b&gt;▲ ▼&lt;/b&gt; buttons to move them up or down one place, and a &lt;b&gt;✕&lt;/b&gt; at the top right to delete the slide. You can also click a verse on the left to select it and press &lt;b&gt;Backspace&lt;/b&gt;/&lt;b&gt;Delete&lt;/b&gt;. The slide’s own font size and alignment move with it. A deleted slide can be restored with &lt;b&gt;Ctrl+Z&lt;/b&gt; or from &lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-shield'/&gt;&lt;/svg&gt;Backup·Restore.">성경에서 불러온 슬라이드에는 출처(예: 요한복음 3:16a)가 표시되고, <b>▲ ▼</b> 버튼으로 한 칸씩 위아래로 옮길 수 있어요. 오른쪽 위 <b>✕</b>로 그 슬라이드를 바로 지울 수도 있고, 왼쪽 성경 구절을 눌러 선택한 뒤 <b>Backspace</b>/<b>Delete</b>를 눌러도 지워져요. 지운 슬라이드는 <b>Ctrl+Z</b>나 <svg class="ic" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구에서 되돌릴 수 있어요. 슬라이드별 글자 크기·정렬도 같이 따라 움직여요.</li>
-      <li data-en="You can now import verses from the Bible DB in Make slides mode too: use &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Import Bible&lt;/b&gt; at the start of the toolbar at the top to add them to the end of your script. Pick the book, chapter, start verse and end verse from the dropdowns and everything in between is added. Verses with several pages appear as 16 (a) · 16 (b), but slides show only the number. Verses with no content are dimmed and can’t be chosen.">슬라이드 만들기 모드에서도 위쪽 도구 줄 맨 앞의 <b><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</b>로 성경 DB의 구절을 원고 맨 뒤에 넣을 수 있어요. 성경·장·시작 절·끝 절을 드롭다운으로 고르면 그 사이 구절이 들어가요. 여러 페이지짜리 절은 16 (a)·16 (b)처럼 나뉘어 보이지만 슬라이드에는 숫자만 표시돼요. 내용이 없는 절은 흐리게 보이고 고를 수 없어요.</li>
+      <li data-en="&lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; is new. Switch between it and &lt;b&gt;&lt;svg class='ic ic-slides' aria-hidden='true'&gt;&lt;use href='#i-slides'/&gt;&lt;/svg&gt;Make slides&lt;/b&gt; with the buttons at the top, pick a book, chapter and verse (use the keyboard ← → to move between verses), and enter the text in 4 languages. &lt;b&gt;&lt;svg class='ic ic-code' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; generates code to paste into the chapter file in the &lt;code&gt;bibleDB/&lt;/code&gt; folder. DB mode has no “Clear current work”."><b><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB 모드</b>가 생겼어요. 위쪽 버튼으로 <b>슬라이드 만들기</b>와 오갈 수 있고, 성경·장·절을 골라(키보드 ← → 로 절을 넘길 수 있어요) 4개 언어 본문을 입력해요. <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 <code>bibleDB/</code> 폴더의 장 파일에 붙여넣을 코드를 만들어요. DB 모드에는 작업 내용 지우기가 없어요.</li>
+      <li data-en="Slides imported from the Bible show their source (e.g. John 3:16a) and have &lt;b&gt;▲ ▼&lt;/b&gt; buttons to move them up or down one place, and a &lt;b&gt;✕&lt;/b&gt; at the top right to delete the slide. You can also click a verse on the left to select it and press &lt;b&gt;Backspace&lt;/b&gt;/&lt;b&gt;Delete&lt;/b&gt;. The slide’s own font size and alignment move with it. A deleted slide can be restored with &lt;b&gt;Ctrl/⌘+Z&lt;/b&gt; or from &lt;svg class='ic ic-shield' aria-hidden='true'&gt;&lt;use href='#i-shield'/&gt;&lt;/svg&gt;Backup·Restore.">성경에서 불러온 슬라이드에는 출처(예: 요한복음 3:16a)가 표시되고, <b>▲ ▼</b> 버튼으로 한 칸씩 위아래로 옮길 수 있어요. 오른쪽 위 <b>✕</b>로 그 슬라이드를 바로 지울 수도 있고, 왼쪽 성경 구절을 눌러 선택한 뒤 <b>Backspace</b>/<b>Delete</b>를 눌러도 지워져요. 지운 슬라이드는 <b>Ctrl/⌘+Z</b>나 <svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구에서 되돌릴 수 있어요. 슬라이드별 글자 크기·정렬도 같이 따라 움직여요.</li>
+      <li data-en="You can now import verses from the Bible DB in Make slides mode too: use &lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Import Bible&lt;/b&gt; at the start of the toolbar at the top to add them to the end of your script. Pick the book, chapter, start verse and end verse from the dropdowns and everything in between is added. Verses with several pages appear as 16 (a) · 16 (b), but slides show only the number. Verses with no content are dimmed and can’t be chosen.">슬라이드 만들기 모드에서도 위쪽 도구 줄 맨 앞의 <b><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</b>로 성경 DB의 구절을 원고 맨 뒤에 넣을 수 있어요. 성경·장·시작 절·끝 절을 드롭다운으로 고르면 그 사이 구절이 들어가요. 여러 페이지짜리 절은 16 (a)·16 (b)처럼 나뉘어 보이지만 슬라이드에는 숫자만 표시돼요. 내용이 없는 절은 흐리게 보이고 고를 수 없어요.</li>
       <li data-en="The Bible, Chapter and Verse dropdowns in Bible DB mode are now Mac-style menus, and the &lt;b&gt;‹ ›&lt;/b&gt; buttons next to Chapter and Verse move to the previous/next chapter or verse.">성경 DB 모드의 성경·장·절 드롭다운이 맥 스타일 메뉴로 바뀌었고, 장과 절 옆의 <b>‹ ›</b> 버튼으로 이전/다음 장·절로 넘어갈 수 있어요.</li>
-      <li data-en="&lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; button for &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;). &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-trash'/&gt;&lt;/svg&gt;Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b><svg class="ic" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b> 버튼이 <b><svg class="ic" aria-hidden="true"><use href="#i-info"/></svg>사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b><svg class="ic" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 관리자(<admin-email></admin-email>)에게 보내 주세요. 슬라이드를 만들 때는 <b><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>를 쓰면 돼요. <b><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
+      <li data-en="&lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; button for &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;&lt;svg class='ic ic-code' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;). &lt;b&gt;&lt;svg class='ic ic-trash' aria-hidden='true'&gt;&lt;use href='#i-trash'/&gt;&lt;/svg&gt;Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b> 버튼이 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 관리자(<admin-email></admin-email>)에게 보내 주세요. 슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>를 쓰면 돼요. <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
       <li data-en="Set a &lt;b&gt;font size (pt)&lt;/b&gt; and &lt;b&gt;left / center / right alignment&lt;/b&gt; for each slide separately. The &lt;b&gt;Base font size&lt;/b&gt; at the top (default &lt;b&gt;80pt&lt;/b&gt;) is the target size for every slide. The toolbar’s &lt;b&gt;Default alignment&lt;/b&gt; is the global default.">슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이에요.</li>
-      <li data-en="&lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt; doesn’t copy just by opening the window. Press &lt;b&gt;Copy&lt;/b&gt; inside the window to copy."><b><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
+      <li data-en="&lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt; doesn’t copy just by opening the window. Press &lt;b&gt;Copy&lt;/b&gt; inside the window to copy."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
       <li data-en="In the copied text, one slide is one paragraph, and only the text of each language appears.">복사 글은 슬라이드 한 장이 한 문단이고, 언어별 글만 나와요.</li>
       <li data-en="When you drag over text, the translation language is set to &lt;b&gt;English&lt;/b&gt; from the start (you can change it to Korean in the detailed settings).">글자를 드래그했을 때의 번역 결과 언어가 처음부터 <b>English</b>로 설정돼요(세부 설정에서 한국어로 바꿀 수 있어요).</li>
-      <li data-en="The first screen is now this getting-started guide. You can reopen it anytime with &lt;b&gt;&lt;svg class='ic' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top.">처음 화면을 지금의 시작 안내로 바꿨어요. 위쪽 <b><svg class="ic" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
+      <li data-en="The first screen is now this getting-started guide. You can reopen it anytime with &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top.">처음 화면을 지금의 시작 안내로 바꿨어요. 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
     </ul>
+    </details>
+    
     </details>
 
     <details class="wel-fold" id="welDevFold">
-    <summary><svg class="ic" aria-hidden="true"><use href="#i-terminal"/></svg>개발자 노트</summary>
+    <summary><svg class="ic ic-terminal" aria-hidden="true"><use href="#i-terminal"/></svg>개발자 노트</summary>
     <ul>
       <li data-en="Translations are machine-made, so they’re &lt;b&gt;only a reference for checking that the languages carry the same content&lt;/b&gt;. They don’t replace a final proofread.">번역문은 기계번역이라 <b>언어끼리 같은 내용이 들어갔는지 대조하는 참고용</b>이에요. 최종 원고 검수를 대신하지는 않아요.</li>
       <li data-en="Per-slide font size and alignment are saved by slide &lt;b&gt;number&lt;/b&gt;. If merging or splitting pieces shifts the numbers, the settings stay with that number.">슬라이드별 글자 크기·정렬은 슬라이드 <b>번호</b> 기준으로 저장돼요. 조각을 합치거나 나눠서 번호가 밀리면 설정은 그 번호에 남아요.</li>
@@ -965,57 +1018,35 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 
 <div class="patch-overlay" id="howtoOverlay">
   <div class="patch-modal" role="dialog" aria-modal="true" aria-labelledby="howtoTitle" tabindex="-1">
-    <h2 id="howtoTitle"><svg class="ic" aria-hidden="true"><use href="#i-server"/></svg>번역 서버(LibreTranslate) 설치 안내</h2>
-    <p data-en="This tool needs a translation program called LibreTranslate running on your own computer for its reference translations and previews. Follow the steps below just once; after that, all you need to do is turn the server back on in Docker Desktop. You can reopen this guide anytime with the &lt;b&gt;&lt;svg class=&quot;ic&quot; aria-hidden=&quot;true&quot;&gt;&lt;use href=&quot;#i-server&quot;/&gt;&lt;/svg&gt;Server guide&lt;/b&gt; button at the top." class="patch-sub">
-      이 도구는 참고번역·미리보기 번역을 위해 여러분 컴퓨터 안에서 LibreTranslate라는 번역 프로그램이
-      함께 켜져 있어야 합니다. 아래 순서를 딱 한 번만 따라 하면, 다음부터는 Docker Desktop에서 서버를 다시 켜기만
-      하면 됩니다. 이 안내는 언제든 위쪽 <b><svg class="ic" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내</b> 버튼으로 다시 볼 수 있습니다.
-    </p>
-
-    <h3 data-en="1. Install Docker Desktop (one time only)">1. Docker Desktop 설치 (한 번만)</h3>
-    <p data-en="Docker is a free program that packages the translation program neatly and runs it on your computer.">Docker는 번역 프로그램을 컴퓨터에 깔끔하게 담아 실행해주는 무료 프로그램입니다.</p>
-    <ol data-en="&lt;li&gt;Go to &lt;a href=&quot;https://www.docker.com/products/docker-desktop&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;docker.com/products/docker-desktop&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Download the version for your computer (Windows / Mac) and install it. In the installer, just keep the defaults and click “Next”.&lt;/li&gt;&lt;li&gt;When it&#x27;s installed, launch &lt;b&gt;Docker Desktop&lt;/b&gt; once and wait until you see something like “Docker Desktop is running” at the bottom left (or in the menu bar).&lt;/li&gt;">
-      <li><a href="https://www.docker.com/products/docker-desktop" target="_blank" rel="noopener">docker.com/products/docker-desktop</a> 접속</li>
-      <li>내 컴퓨터에 맞는 버전(Windows / Mac) 다운로드 후 설치 — 설치 중 나오는 창은 기본값 그대로 "다음"만 눌러도 됩니다</li>
-      <li>설치가 끝나면 <b>Docker Desktop</b> 앱을 한 번 실행하고, 화면 좌측 하단(또는 상단바)에
-        "Docker Desktop is running" 같은 표시가 뜰 때까지 기다리기</li>
-    </ol>
-    <div data-en="&lt;b&gt;If you&#x27;re on a Mac:&lt;/b&gt; the first time you open it you may see an “unidentified developer” warning. If you downloaded it from the official site (docker.com), follow the prompts to open it." class="howto-note"><b>Mac을 쓰신다면</b> 처음 실행할 때 "확인되지 않은 개발자" 경고가 뜰 수 있는데,
-      공식 배포처(docker.com)에서 받은 것이라면 안내에 따라 열기를 진행하시면 됩니다.</div>
-
-    <h3 data-en="2. Start the translation server (first time only)">2. 번역 서버 실행하기 (처음 한 번)</h3>
-    <p data-en="&lt;span class=&quot;howto-badge&quot;&gt;Windows&lt;/span&gt; Open PowerShell or Command Prompt &amp;nbsp;/&amp;nbsp; &lt;span class=&quot;howto-badge&quot;&gt;Mac&lt;/span&gt; Open the Terminal app">
-      <span class="howto-badge">Windows</span> PowerShell 또는 명령 프롬프트를 열기 &nbsp;/&nbsp;
-      <span class="howto-badge">Mac</span> 터미널(Terminal) 앱을 열기
-    </p>
-    <p data-en="Copy the line below exactly, paste it into that window, and press Enter.">연 창에 아래 한 줄을 그대로 복사해서 붙여넣고 Enter를 누르세요.</p>
-    <div class="howto-cmd">docker run -d -p 5000:5000 -e LT_LOAD_ONLY=en,ko,zh,id libretranslate/libretranslate</div>
-    <ul data-en="&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; runs the server &lt;b&gt;in the background&lt;/b&gt;, so it keeps running even after you close this window.&lt;/li&gt;&lt;li&gt;&lt;code&gt;LT_LOAD_ONLY=en,ko,zh,id&lt;/code&gt; loads only the English, Korean, Chinese and Indonesian translation data, so the server starts faster and uses less memory.&lt;/li&gt;&lt;li&gt;The very first time, it can take a few minutes to download the program and language data from the internet.&lt;/li&gt;&lt;li&gt;After you run the command, a long string of letters and numbers (the container ID) appears and you&#x27;re returned to the prompt. That&#x27;s normal. The server may need another 1–2 minutes to be fully ready, so wait until the banner at the top of this tool turns &lt;b&gt;green&lt;/b&gt;.&lt;/li&gt;">
-      <li><code>-d</code> 는 서버를 <b>뒤에서(백그라운드로)</b> 실행한다는 뜻이라, 실행 후 이 창을 닫아도 서버는 계속 켜져 있습니다.</li>
-      <li><code>LT_LOAD_ONLY=en,ko,zh,id</code> 는 영어·한국어·중국어·인도네시아어 번역 데이터만 불러오게 해서, 서버가 더 빨리 켜지고 메모리도 덜 씁니다.</li>
-      <li>맨 처음 한 번은 프로그램과 언어 데이터를 인터넷에서 내려받느라 몇 분 정도 걸릴 수 있습니다.</li>
-      <li>명령을 실행하면 영문·숫자가 길게 이어진 한 줄(컨테이너 ID)이 나오고 곧바로 입력 창으로 돌아옵니다. 정상입니다.
-        서버가 완전히 준비될 때까지 1~2분 더 걸릴 수 있으니, 이 도구 위쪽 배너가 <b>초록색</b>이 될 때까지 기다려 주세요.</li>
-    </ul>
-    <div data-en="&lt;b&gt;You can close the Terminal window, but keep the Docker Desktop app running.&lt;/b&gt; If you quit Docker Desktop, the translation server shuts down too." class="howto-note"><b>터미널 창은 닫아도 되지만, Docker Desktop 앱은 켜 두세요.</b> Docker Desktop을 종료하면
-      번역 서버도 함께 꺼집니다.</div>
-
-    <h3 data-en="Next time (after restarting your computer)">다음에 다시 쓸 때 (컴퓨터를 껐다 켠 뒤)</h3>
-    <ol data-en="&lt;li&gt;Launch Docker Desktop and wait until it has fully started&lt;/li&gt;&lt;li&gt;In the left menu, open the &lt;b&gt;Containers&lt;/b&gt; tab and press the &lt;b&gt;▶ (Start)&lt;/b&gt; button on the &lt;code&gt;libretranslate/libretranslate&lt;/code&gt; container row&lt;/li&gt;">
-      <li>Docker Desktop 앱을 실행하고 완전히 켜질 때까지 기다리기</li>
-      <li>왼쪽 메뉴의 <b>Containers</b> 탭에서 <code>libretranslate/libretranslate</code> 컨테이너 줄의
-        <b>▶ (Start)</b> 버튼 누르기</li>
-    </ol>
-    <p data-en="Running the command again also works, but it creates one more container each time and they pile up. You can delete unused containers with the trash button in the Containers tab." style="font-size:.76rem; color:var(--sub);">위 명령을 다시 실행해도 켜지긴 하지만, 그때마다 새 컨테이너가 하나씩 더 만들어져 쌓입니다.
-      쓰지 않는 컨테이너는 Containers 탭에서 휴지통 버튼으로 지워도 됩니다.</p>
-
+    <h2 id="howtoTitle"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버(LibreTranslate) 설치 안내</h2>
+    <p class="patch-sub" data-en="The translation feature needs a &lt;b&gt;translation server (LibreTranslate) running on your own computer&lt;/b&gt;. Everything else works without it. You can reopen this guide any time with the &lt;b&gt;&lt;svg class=&#x27;ic ic-server&#x27; aria-hidden=&#x27;true&#x27;&gt;&lt;use href=&#x27;#i-server&#x27;/&gt;&lt;/svg&gt;Translation server guide&lt;/b&gt; button at the top.">번역 기능에는 <b>내 컴퓨터에서 도는 번역 서버</b>(LibreTranslate)가 필요해요. 번역 말고 다른 기능은 서버 없이도 모두 쓸 수 있어요. 이 안내는 위쪽 <b><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내</b> 버튼으로 언제든 다시 볼 수 있어요.</p>
+    <div class="howto-note" data-en="&lt;b&gt;Just once:&lt;/b&gt; ① Install Docker Desktop → ② run one command. After that, just &lt;b&gt;keep Docker Desktop running&lt;/b&gt;."><b>처음 한 번만:</b> ① Docker Desktop 설치 → ② 명령 한 줄 실행. 다음부터는 <b>Docker Desktop만 켜 두면</b> 돼요.</div>
+    <div class="howto-os"><span data-en="My computer">내 컴퓨터</span><span class="seg" id="howtoOsSeg"><button type="button" data-os="win">Windows</button><button type="button" data-os="mac">Mac</button></span></div>
+    <h3 data-en="1. Install Docker Desktop">1. Docker Desktop 설치</h3>
+    <ol>
+    <li data-en="Download the version for your computer from &lt;a href=&#x27;https://www.docker.com/products/docker-desktop&#x27; target=&#x27;_blank&#x27; rel=&#x27;noopener&#x27;&gt;docker.com/products/docker-desktop&lt;/a&gt; and install it.&lt;span class=&#x27;os-mac&#x27;&gt; On a Mac there are separate &lt;b&gt;Apple silicon&lt;/b&gt; and &lt;b&gt;Intel&lt;/b&gt; versions (check under the Apple menu → About This Mac).&lt;/span&gt;"><a href="https://www.docker.com/products/docker-desktop" target="_blank" rel="noopener">docker.com/products/docker-desktop</a>에서 내 컴퓨터에 맞는 버전을 받아 설치하세요.<span class="os-mac"> Mac은 <b>Apple 칩</b>용과 <b>Intel</b>용이 따로 있어요(왼쪽 위 Apple 메뉴 → 이 Mac에 관하여에서 확인).</span></li>
+    <li data-en="After installing, launch &lt;b&gt;Docker Desktop&lt;/b&gt; once and wait until it says “Docker Desktop is running”.&lt;span class=&#x27;os-mac&#x27;&gt; If a “unidentified developer” warning appears on first launch, go ahead and open it as long as you downloaded it from docker.com.&lt;/span&gt;">설치 후 <b>Docker Desktop</b>을 한 번 실행하고, "Docker Desktop is running"이 보일 때까지 기다리세요.<span class="os-mac"> 처음 실행할 때 "확인되지 않은 개발자" 경고가 뜨면, docker.com에서 받은 것이 맞는 한 열기를 눌러 진행하세요.</span></li>
+  </ol>
+    <h3 data-en="2. Start the translation server">2. 번역 서버 실행</h3>
+    <p data-en="Open &lt;span class=&#x27;os-win&#x27;&gt;&lt;b&gt;PowerShell&lt;/b&gt; or Command Prompt&lt;/span&gt;&lt;span class=&#x27;os-mac&#x27;&gt;the &lt;b&gt;Terminal&lt;/b&gt; app&lt;/span&gt;, paste the line below and press Enter."><span class="os-win"><b>PowerShell</b> 또는 명령 프롬프트</span><span class="os-mac"><b>터미널</b> 앱</span>을 열고, 아래 한 줄을 붙여넣어 Enter를 누르세요.</p>
+    <div class="howto-cmdrow"><div class="howto-cmd" id="howtoCmd">docker run -d -p 5000:5000 -e LT_LOAD_ONLY=en,ko,zh,id libretranslate/libretranslate</div><button type="button" class="btn howto-cmdcopy" data-en="Copy">복사</button></div>
+    <ul>
+    <li data-en="The first run downloads data and takes &lt;b&gt;a few minutes&lt;/b&gt;. You&#x27;re ready when the banner at the top turns &lt;b&gt;green&lt;/b&gt;.">처음에는 내려받느라 <b>몇 분</b> 걸려요. 위쪽 배너가 <b>초록색</b>이 되면 준비 끝이에요.</li>
+    <li data-en="A long string of letters and numbers followed by the prompt is normal. You can close the terminal window.">긴 영문·숫자 한 줄이 나오고 입력 창으로 돌아오면 정상이에요. 터미널 창은 닫아도 돼요.</li>
+  </ul>
+    <div class="howto-note" data-en="&lt;b&gt;Keep Docker Desktop running.&lt;/b&gt; If you quit it, the translation server stops too."><b>Docker Desktop은 계속 켜 두세요.</b> 끄면 번역 서버도 함께 꺼져요.</div>
+    <div class="howto-note os-mac" data-en="&lt;b&gt;Mac:&lt;/b&gt; If it won&#x27;t connect, &lt;b&gt;AirPlay Receiver&lt;/b&gt; (a port 5000 conflict) may be the cause. See &lt;b&gt;4. Troubleshooting&lt;/b&gt; below."><b>Mac:</b> 연결이 안 되면 <b>AirPlay 수신 모드</b>(5000번 포트 충돌) 때문일 수 있어요. 아래 <b>4. 문제 해결</b>을 보세요.</div>
+    <details class="howto-q">
+  <summary data-en="What does the command mean?">명령은 무슨 뜻인가요?</summary>
+  <ul>
+    <li data-en="&lt;code&gt;-d&lt;/code&gt;: runs the server in the background, so it keeps running after you close the window."><code>-d</code> : 서버를 뒤에서(백그라운드로) 실행해서, 창을 닫아도 계속 켜져 있어요.</li>
+    <li data-en="&lt;code&gt;LT_LOAD_ONLY=en,ko,zh,id&lt;/code&gt;: loads only English, Korean, Chinese and Indonesian data, so it starts faster and uses less memory."><code>LT_LOAD_ONLY=en,ko,zh,id</code> : 영어·한국어·중국어·인도네시아어 데이터만 불러와서 더 빨리 켜지고 메모리를 덜 써요.</li>
+  </ul>
+</details>
+    <h3 data-en="Next time">다음에 다시 쓸 때</h3>
+    <p data-en="Start &lt;b&gt;Docker Desktop&lt;/b&gt;, then press &lt;b&gt;▶&lt;/b&gt; on the &lt;code&gt;libretranslate&lt;/code&gt; row in the &lt;b&gt;Containers&lt;/b&gt; tab. Running the command again creates extra containers; delete unused ones with the trash button."><b>Docker Desktop</b>을 켜고 <b>Containers</b> 탭에서 <code>libretranslate</code> 줄의 <b>▶</b>를 누르세요. 위 명령을 또 실행하면 컨테이너가 쌓이니, 쓰지 않는 건 휴지통 버튼으로 지워도 돼요.</p>
     <h3 data-en="3. Check the connection">3. 연결 확인</h3>
-    <ul data-en="&lt;li&gt;Look at the status banner that appears at the top of the screen (below the toolbar). Right after you start the server it can take 1–2 minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Green&lt;/b&gt; “connected” → you&#x27;re good to go&lt;/li&gt;&lt;li&gt;If a &lt;b&gt;yellow&lt;/b&gt; warning appears → first make sure you did step 2 (starting the server), then press the &lt;b&gt;Re-check&lt;/b&gt; button on the banner&lt;/li&gt;">
-      <li>화면 위쪽(툴바 아래)에 뜨는 상태 배너를 확인하세요. 서버를 켠 직후에는 1~2분 걸릴 수 있어요</li>
-      <li><b>초록색</b> "연결 정상" → 바로 쓰시면 됩니다</li>
-      <li><b>노란색</b> 경고 문구가 뜨면 → 위 2번 단계(서버 실행)를 먼저 하셨는지 확인 후,
-        배너의 <b>다시 확인</b> 버튼을 눌러보세요</li>
-    </ul>
+    <p data-en="If the status banner (or chip) at the top is &lt;b&gt;green and says connected&lt;/b&gt;, you&#x27;re ready. Right after starting it can take 1–2 minutes; if not, press &lt;b&gt;Re-check&lt;/b&gt; on the banner.">위쪽 상태 배너(또는 칩)가 <b>초록색 “연결 정상”</b>이면 바로 쓰세요. 켠 직후에는 1~2분 걸릴 수 있고, 안 되면 배너의 <b>다시 확인</b>을 눌러 보세요.</p>
     <div class="howto-card">
       <p data-en="&lt;b&gt;Server address&lt;/b&gt; &lt;span style=&quot;font-size:.74rem; color:var(--sub);&quot;&gt;(default http://localhost:5000 · change it only if you started the server on a different port)&lt;/span&gt;"><b>서버 주소</b> <span style="font-size:.74rem; color:var(--sub);">(기본 http://localhost:5000 · 포트를 바꿔 실행했을 때만 고치세요)</span></p>
       <p style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;">
@@ -1023,56 +1054,47 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
         <button type="button" class="btn" id="ltUrlSave">저장하고 다시 확인</button>
       </p>
     </div>
-
-    <h3 data-en="4. If it won&#x27;t connect (check one by one)">4. 연결이 안 될 때 (하나씩 확인)</h3>
-    <div class="howto-card">
-      <p data-en="&lt;b&gt;① Check that the server is really running&lt;/b&gt;"><b>① 서버가 실제로 켜졌는지 보기</b></p>
-      <ul data-en="&lt;li&gt;In Terminal, type &lt;code&gt;docker ps -a&lt;/code&gt; and look at the STATUS of the &lt;code&gt;libretranslate&lt;/code&gt; row. &lt;b&gt;Up ...&lt;/b&gt; means it&#x27;s running; &lt;b&gt;Exited ...&lt;/b&gt; means it&#x27;s stopped (if stopped, the last few lines of &lt;code&gt;docker logs CONTAINER_ID&lt;/code&gt; will tell you why)&lt;/li&gt;&lt;li&gt;The PORTS column should show &lt;code&gt;0.0.0.0:5000-&gt;5000/tcp&lt;/code&gt;&lt;/li&gt;">
-        <li>터미널에 <code>docker ps -a</code> 를 입력해 <code>libretranslate</code> 줄의 STATUS를 확인하세요.
-          <b>Up ...</b> 이면 켜져 있는 것이고, <b>Exited ...</b> 이면 꺼진 것입니다
-          (꺼졌다면 <code>docker logs 컨테이너ID</code> 의 마지막 몇 줄이 원인을 알려줍니다)</li>
-        <li>PORTS 칸에 <code>0.0.0.0:5000-&gt;5000/tcp</code> 가 보여야 합니다</li>
-      </ul>
-      <p data-en="&lt;b&gt;② Open the server directly in your web browser&lt;/b&gt;"><b>② 인터넷 브라우저에서 서버를 직접 열어보기</b></p>
-      <ul data-en="&lt;li&gt;Type &lt;code&gt;http://localhost:5000&lt;/code&gt; into the browser&#x27;s address bar. If the LibreTranslate page appears, the server is fine (right after starting, it opens after 1–2 minutes). Then press &lt;b&gt;Re-check&lt;/b&gt; on this tool&#x27;s banner&lt;/li&gt;&lt;li&gt;If nothing appears, or you see something like “Access denied / 403”, check &lt;b&gt;Port conflict on Mac&lt;/b&gt; below&lt;/li&gt;">
-        <li>브라우저 주소창에 <code>http://localhost:5000</code> 을 입력하세요. LibreTranslate 번역 화면이 뜨면 서버는
-          정상입니다(처음 켠 직후에는 1~2분 뒤에 열립니다). 이 도구 배너의 <b>다시 확인</b>을 눌러보세요</li>
-        <li>화면이 안 뜨거나 "Access denied / 403" 같은 게 뜨면 아래 <b>Mac 포트 충돌</b>을 확인하세요</li>
-      </ul>
-      <p data-en="&lt;b&gt;If port 5000 doesn&#x27;t work on a Mac (port conflict)&lt;/b&gt;"><b>Mac에서 5000번이 안 될 때 (포트 충돌)</b></p>
-      <ul data-en="&lt;li&gt;Recent versions of macOS use port 5000 for &lt;b&gt;AirPlay Receiver&lt;/b&gt;, so even if the server is running you may not be able to connect through it. Delete the container you were using and run it again on port &lt;b&gt;5001&lt;/b&gt; as below, then change the &lt;b&gt;Server address&lt;/b&gt; in step 3 to &lt;code&gt;http://localhost:5001&lt;/code&gt; and save it &lt;span class=&quot;howto-cmd&quot;&gt;docker run -d -p 5001:5000 -e LT_LOAD_ONLY=en,ko,zh,id libretranslate/libretranslate&lt;/span&gt; (or turn off &lt;b&gt;AirPlay Receiver&lt;/b&gt; in System Settings → General → AirDrop &amp;amp; Handoff and keep using port 5000)&lt;/li&gt;">
-        <li>최근 macOS는 5000번 포트를 <b>AirPlay 수신 모드</b>가 쓰고 있어서, 서버가 켜져도 여기로 연결이 안 될 수 있습니다.
-          쓰던 컨테이너를 지우고 아래처럼 <b>5001번</b>으로 다시 실행한 뒤, 위 3번의 <b>서버 주소</b>를
-          <code>http://localhost:5001</code> 로 바꿔 저장하세요
-          <span class="howto-cmd">docker run -d -p 5001:5000 -e LT_LOAD_ONLY=en,ko,zh,id libretranslate/libretranslate</span>
-          (또는 시스템 설정 → 일반 → AirDrop 및 Handoff → <b>AirPlay 수신 모드</b>를 끄고 5000번을 그대로 써도 됩니다)</li>
-      </ul>
-    </div>
-
-    <h3 data-en="5. Other problems">5. 그 밖의 문제</h3>
-    <div class="howto-card">
-      <p data-en="&lt;b&gt;The banner keeps saying it can&#x27;t connect&lt;/b&gt;"><b>배너가 계속 "연결할 수 없습니다"라고 뜸</b></p>
-      <ul data-en="&lt;li&gt;Make sure the Docker Desktop app is running (start it first if it isn&#x27;t)&lt;/li&gt;&lt;li&gt;In Docker Desktop&#x27;s &lt;b&gt;Containers&lt;/b&gt; tab, check that the &lt;code&gt;libretranslate&lt;/code&gt; container is running (green). If it&#x27;s stopped, press ▶, wait 1–2 minutes, then press &lt;b&gt;Re-check&lt;/b&gt; on the banner&lt;/li&gt;&lt;li&gt;Click the container row and open &lt;b&gt;Logs&lt;/b&gt; to see what the server is doing right now&lt;/li&gt;">
-        <li>Docker Desktop 앱이 켜져 있는지 확인(꺼져 있으면 먼저 실행)</li>
-        <li>Docker Desktop의 <b>Containers</b> 탭에서 <code>libretranslate</code> 컨테이너가 실행 중(초록색)인지 확인.
-          멈춰 있으면 ▶ 버튼을 누르고 1~2분 기다린 뒤 배너의 <b>다시 확인</b>을 눌러보세요</li>
-        <li>컨테이너 줄을 눌러 <b>Logs</b>를 보면 서버가 지금 무엇을 하는지 볼 수 있습니다</li>
-      </ul>
-      <p data-en="&lt;b&gt;You get an error like “docker: command not found”&lt;/b&gt;"><b>"docker: command not found" 같은 에러가 뜸</b></p>
-      <ul data-en="&lt;li&gt;Docker Desktop often isn&#x27;t installed, or the computer wasn&#x27;t restarted after installing it. Launch Docker Desktop first, wait until it&#x27;s fully running, then try again&lt;/li&gt;">
-        <li>Docker Desktop 설치가 안 됐거나, 설치 후 컴퓨터를 재시작하지 않은 경우가 많습니다.
-          Docker Desktop 앱을 먼저 실행해서 완전히 켜진 뒤 다시 시도해 보세요</li>
-      </ul>
-      <p data-en="&lt;b&gt;You get an error like “port is already allocated”&lt;/b&gt;"><b>"port is already allocated" 같은 에러가 뜸</b></p>
-      <ul data-en="&lt;li&gt;It means a translation server is already running. You don&#x27;t need to run the command again — just use it as is&lt;/li&gt;">
-        <li>이미 번역 서버가 켜져 있다는 뜻입니다. 명령을 다시 실행할 필요 없이 그대로 쓰시면 됩니다</li>
-      </ul>
-      <p data-en="&lt;b&gt;Only some languages say “model not installed”&lt;/b&gt;"><b>일부 언어만 "모델이 설치돼 있지 않다"고 뜸</b></p>
-      <ul data-en="&lt;li&gt;Check that the &lt;code&gt;LT_LOAD_ONLY=en,ko,zh,id&lt;/code&gt; part of the command isn&#x27;t missing or mistyped, then delete the existing container and run the command from step 2 again&lt;/li&gt;">
-        <li>명령에서 <code>LT_LOAD_ONLY=en,ko,zh,id</code> 부분이 빠졌거나 오타가 없는지 확인하고,
-          기존 컨테이너를 지운 뒤 2번 명령을 그대로 다시 실행해 보세요</li>
-      </ul>
-    </div>
+    <h3 data-en="4. Troubleshooting">4. 문제 해결</h3>
+    <details class="howto-q">
+  <summary data-en="The banner keeps saying it can’t connect">배너가 계속 “연결할 수 없습니다”라고 떠요</summary>
+  <ul>
+    <li data-en="Make sure Docker Desktop is running.">Docker Desktop이 켜져 있는지 확인하세요.</li>
+    <li data-en="In the &lt;b&gt;Containers&lt;/b&gt; tab check that &lt;code&gt;libretranslate&lt;/code&gt; is running (green). If stopped, press ▶, wait 1–2 minutes, then press &lt;b&gt;Re-check&lt;/b&gt;."><b>Containers</b> 탭에서 <code>libretranslate</code>가 실행 중(초록색)인지 보고, 멈춰 있으면 ▶를 누른 뒤 1~2분 뒤 배너의 <b>다시 확인</b>을 누르세요.</li>
+    <li data-en="Click the container row and open &lt;b&gt;Logs&lt;/b&gt; to see what the server is doing.">컨테이너 줄을 눌러 <b>Logs</b>를 보면 서버가 지금 무엇을 하는지 알 수 있어요.</li>
+  </ul>
+</details>
+    <details class="howto-q">
+  <summary data-en="“docker: command not found”">“docker: command not found”라고 떠요</summary>
+  <p data-en="Docker Desktop may not be installed, or the computer wasn’t restarted after installing. Launch Docker Desktop, wait until it is fully running, then try again.">Docker Desktop이 설치되지 않았거나, 설치 후 재시작하지 않은 경우가 많아요. Docker Desktop을 먼저 켜서 완전히 실행된 뒤 다시 해 보세요.</p>
+</details>
+    <details class="howto-q">
+  <summary data-en="“port is already allocated”">“port is already allocated”라고 떠요</summary>
+  <p data-en="It usually means the translation server is already running. Don’t run the command again; just use it.&lt;span class=&quot;os-mac&quot;&gt; On a Mac, if it still fails, see the AirPlay item below.&lt;/span&gt;">이미 번역 서버가 켜져 있다는 뜻일 수 있어요. 명령을 다시 실행하지 말고 그대로 쓰세요.<span class="os-mac"> Mac에서 계속 안 되면 아래 AirPlay 항목도 보세요.</span></p>
+</details>
+    <details class="howto-q">
+  <summary data-en="Some languages say the model is missing">일부 언어만 “모델이 없다”고 떠요</summary>
+  <p data-en="Check that &lt;code&gt;LT_LOAD_ONLY=en,ko,zh,id&lt;/code&gt; is in the command without typos, delete the old container, and run the step 2 command again.">명령의 <code>LT_LOAD_ONLY=en,ko,zh,id</code>가 빠졌거나 오타가 있는지 확인하고, 기존 컨테이너를 지운 뒤 2번 명령을 다시 실행하세요.</p>
+</details>
+    <details class="howto-q os-mac">
+  <summary data-en="A 403 appears instead of the translation page (Mac · AirPlay)">번역 화면 대신 403이 떠요 (Mac · AirPlay)</summary>
+  <p data-en="On a Mac, port 5000 may be used by &lt;b&gt;AirPlay Receiver&lt;/b&gt;. Do one of these:">Mac은 5000번 포트를 <b>AirPlay 수신 모드</b>가 쓰는 경우가 있어요. 둘 중 하나를 하세요.</p>
+  <ol>
+    <li data-en="Turn off &lt;b&gt;AirPlay Receiver&lt;/b&gt; in System Settings → General → AirDrop &amp;amp; Handoff and keep using port 5000">시스템 설정 → 일반 → AirDrop 및 Handoff → <b>AirPlay 수신 모드</b>를 끄고 그대로 쓰기</li>
+    <li data-en="Run it on port &lt;b&gt;5001&lt;/b&gt; with the command below (delete the old container first), then set the &lt;b&gt;Server address&lt;/b&gt; in step 3 to &lt;code&gt;http://localhost:5001&lt;/code&gt; and save">아래 명령으로 <b>5001번</b>에서 다시 실행하고(쓰던 컨테이너는 먼저 지우세요), 위 3번의 <b>서버 주소</b>를 <code>http://localhost:5001</code>로 바꿔 저장하기</li>
+  </ol>
+  <div class="howto-cmdrow"><div class="howto-cmd">docker run -d -p 5001:5000 -e LT_LOAD_ONLY=en,ko,zh,id libretranslate/libretranslate</div><button type="button" class="btn howto-cmdcopy" data-en="Copy">복사</button></div>
+</details>
+    <details class="howto-q os-mac">
+  <summary data-en="Only translation fails (Mac · Safari)">번역만 안 돼요 (Mac 사파리)</summary>
+  <p data-en="Safari may block an https page from reaching an http translation server. If translation fails, open this page in &lt;b&gt;Chrome&lt;/b&gt;.">사파리는 https로 연 페이지가 http 번역 서버에 연결하는 것을 막을 수 있어요. 번역이 안 되면 <b>크롬</b>으로 열어 보세요.</p>
+</details>
+    <details class="howto-q">
+  <summary data-en="Check the server yourself (advanced)">서버가 켜졌는지 직접 보기 (고급)</summary>
+  <ul>
+    <li data-en="In a terminal run &lt;code&gt;docker ps -a&lt;/code&gt; and look at STATUS on the &lt;code&gt;libretranslate&lt;/code&gt; row. &lt;b&gt;Up ...&lt;/b&gt; means running, &lt;b&gt;Exited ...&lt;/b&gt; means stopped (the last lines of &lt;code&gt;docker logs CONTAINER_ID&lt;/code&gt; tell you why).">터미널에 <code>docker ps -a</code>를 입력해 <code>libretranslate</code> 줄의 STATUS를 보세요. <b>Up ...</b>이면 켜진 것, <b>Exited ...</b>이면 꺼진 것이에요(<code>docker logs 컨테이너ID</code>의 마지막 몇 줄이 이유를 알려줘요).</li>
+    <li data-en="Open &lt;code&gt;http://localhost:5000&lt;/code&gt; in your browser. If the LibreTranslate page appears, the server is fine (right after starting, wait 1–2 minutes), then press &lt;b&gt;Re-check&lt;/b&gt; on the banner.">브라우저 주소창에 <code>http://localhost:5000</code>을 열어 LibreTranslate 화면이 뜨면 서버는 정상이에요(켠 직후엔 1~2분 뒤). 그다음 배너의 <b>다시 확인</b>을 누르세요.</li>
+  </ul>
+</details>
     <p data-en="This server runs only on your own computer; sentences are translated locally and are not sent anywhere else." style="font-size:.76rem; color:var(--sub);">이 서버는 여러분 컴퓨터 안에서만 실행되며, 문장이
       외부로 전송되지 않고 로컬에서 번역됩니다.</p>
 
@@ -1105,7 +1127,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 
 <div class="patch-overlay" id="impOverlay">
   <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="impTitle" tabindex="-1">
-    <h2 id="impTitle"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 DB에서 불러오기</h2>
+    <h2 id="impTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB에서 불러오기</h2>
     <p data-en="Pick the Bible, then chapter, then verse, and they&#x27;re added to the end of your script as pieces. Click &lt;b&gt;start verse → end verse&lt;/b&gt; to select a range; to add just one verse, click the same verse again. Dimmed verses have no content yet and can&#x27;t be picked. A verse with several pages looks like 16 (a) · 16 (b), but slides show only the number." class="patch-sub">성경 → 장 → 절 순서로 고르면 원고 맨 뒤에 조각으로 들어가요. 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="impBook"></select></label>
@@ -1122,29 +1144,29 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 </div>
 <div class="patch-overlay" id="dbGuideOverlay">
   <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="dbGuideTitle" tabindex="-1">
-    <h2 id="dbGuideTitle"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 DB 사용 안내</h2>
+    <h2 id="dbGuideTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB 사용 안내</h2>
     <p class="patch-sub">성경 DB 모드를 쓰기 전에 꼭 읽어 주세요.</p>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-books"/></svg>이 구절들은 어디에 있나요?</h3>
+    <h3><svg class="ic ic-books" aria-hidden="true"><use href="#i-books"/></svg>이 구절들은 어디에 있나요?</h3>
     <ul>
       <li data-en="All the Bible verses here are already recorded in the program.">여기 있는 성경 구절은 <b>전부 프로그램에 기록</b>되어 있는 것이에요.</li>
       <li data-en="You can edit them, but your edits are <b>not</b> sent to the program automatically (they only stay on this PC).">구절은 <b>수정할 수 있어요.</b> 다만 수정한 내용이 프로그램에 <b>자동으로 업데이트되지는 않아요.</b> (이 PC에만 남아요)</li>
     </ul>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-mail"/></svg>수정한 내용을 프로그램에 반영하려면</h3>
+    <h3><svg class="ic ic-mail" aria-hidden="true"><use href="#i-mail"/></svg>수정한 내용을 프로그램에 반영하려면</h3>
     <ul>
-      <li data-en="After finishing your slide work, press <b><svg class='ic' aria-hidden='true'><use href='#i-code'/></svg>Copy DB code</b> and choose <b>② Not sent yet</b>: every verse you edited and haven't marked as sent is collected at once, whatever the date. Send the copied code to the program administrator (<admin-email></admin-email>), then press <b><svg class='ic' aria-hidden='true'><use href='#i-checkc'/></svg>Mark as sent</b> — from then on only verses you edit again are collected. (① Current verse is the code for the single verse open on screen. In the verse list, <b>✎</b> means an edit not sent yet and <b>✓</b> means an edit marked as sent.) After checking, we will update the program.">슬라이드 작업을 마친 뒤 <b><svg class="ic" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<admin-email></admin-email>)에게 보낸 뒤 <b><svg class="ic" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
+      <li data-en="After finishing your slide work, press <b><svg class='ic ic-code' aria-hidden='true'><use href='#i-code'/></svg>Copy DB code</b> and choose <b>② Not sent yet</b>: every verse you edited and haven't marked as sent is collected at once, whatever the date. Send the copied code to the program administrator (<admin-email></admin-email>), then press <b><svg class='ic ic-checkc' aria-hidden='true'><use href='#i-checkc'/></svg>Mark as sent</b> — from then on only verses you edit again are collected. (① Current verse is the code for the single verse open on screen. In the verse list, <b>✎</b> means an edit not sent yet and <b>✓</b> means an edit marked as sent.) After checking, we will update the program.">슬라이드 작업을 마친 뒤 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<admin-email></admin-email>)에게 보낸 뒤 <b><svg class="ic ic-checkc" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
     </ul>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드를 만들 때는</h3>
+    <h3><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드를 만들 때는</h3>
     <ul>
-      <li data-en="When making slides, use <b><svg class='ic' aria-hidden='true'><use href='#i-clipboard'/></svg>Copy all</b>. Pick the Bible, chapter and verse from the Mac-style menus and the text appears below (it starts with only the verse you were viewing; change the end verse to include a range). Verses with several pages show as 16 (a) · 16 (b). In Make slides mode, use the <b>Slides</b> menu to choose the range to copy (default: all).">슬라이드를 만들 때는 <b><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 글이 아래에 나와요(처음엔 보던 절만 나오고, 끝 절을 바꾸면 그 범위까지 나와요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
+      <li data-en="When making slides, use <b><svg class='ic ic-clipboard' aria-hidden='true'><use href='#i-clipboard'/></svg>Copy all</b>. Pick the Bible, chapter and verse from the Mac-style menus and the text appears below (it starts with only the verse you were viewing; change the end verse to include a range). Verses with several pages show as 16 (a) · 16 (b). In Make slides mode, use the <b>Slides</b> menu to choose the range to copy (default: all).">슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 글이 아래에 나와요(처음엔 보던 절만 나오고, 끝 절을 바꾸면 그 범위까지 나와요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
     </ul>
 
-    <h3><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</h3>
+    <h3><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</h3>
     <ul>
       <li data-en="Local data stays on the PC where you worked, until you remove it.">로컬 데이터는 작업한 그 PC에 계속 남아 있어요.</li>
-      <li data-en="Press <b><svg class='ic' aria-hidden='true'><use href='#i-trash'/></svg>Delete all data</b> and everything saved on this PC is deleted, leaving only the DB published on the website. The original DB itself is never touched. Send your DB code first!">상단의 <b><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b> 버튼을 누르면 이 PC에 저장된 것이 전부 없어지고, <b>홈페이지에 기록된 원본 DB만 남아요.</b> 원본 DB 자체는 절대 지워지지 않아요. 지우기 전에 DB 코드를 먼저 보내 주세요!</li>
+      <li data-en="Press <b><svg class='ic ic-trash' aria-hidden='true'><use href='#i-trash'/></svg>Delete all data</b> and everything saved on this PC is deleted, leaving only the DB published on the website. The original DB itself is never touched. Send your DB code first!">상단의 <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b> 버튼을 누르면 이 PC에 저장된 것이 전부 없어지고, <b>홈페이지에 기록된 원본 DB만 남아요.</b> 원본 DB 자체는 절대 지워지지 않아요. 지우기 전에 DB 코드를 먼저 보내 주세요!</li>
     </ul>
 
     <div class="patch-actions">
@@ -1167,7 +1189,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
     <textarea id="dbCodeText" class="copy-text" spellcheck="false"></textarea>
     <div class="copy-actions">
       <button type="button" class="btn primary" id="dbCodeCopy">복사</button>
-      <button type="button" class="btn" id="dbSentBtn" hidden title="복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요"><svg class="ic" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</button>
+      <button type="button" class="btn" id="dbSentBtn" hidden title="복사한 코드를 관리자에게 보낸 뒤 눌러 두세요. 지금 목록의 절을 '보냈다'고 표시해서, 다음부터는 새로 고친 절만 모여요"><svg class="ic ic-checkc" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</button>
       <button class="patch-close-btn" id="dbCodeClose">닫기</button>
     </div>
   </div>
@@ -1178,8 +1200,8 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
     <h2 id="bkTitle">백업 · 복구</h2>
     <p class="patch-sub">글은 이 브라우저에 자동 저장돼요. 브라우저 데이터를 지우거나 다른 브라우저·다른 파일 위치로 열면 보이지 않으니, 중요한 원고는 파일로도 받아 두세요.</p>
     <div class="copy-actions">
-      <button type="button" class="btn primary" id="bkExport"><svg class="ic" aria-hidden="true"><use href="#i-save"/></svg>파일로 저장</button>
-      <button type="button" class="btn" id="bkImport"><svg class="ic" aria-hidden="true"><use href="#i-folder"/></svg>파일에서 불러오기</button>
+      <button type="button" class="btn primary" id="bkExport"><svg class="ic ic-save" aria-hidden="true"><use href="#i-save"/></svg>파일로 저장</button>
+      <button type="button" class="btn" id="bkImport"><svg class="ic ic-folder" aria-hidden="true"><use href="#i-folder"/></svg>파일에서 불러오기</button>
       <input type="file" id="bkFile" accept=".json,application/json" hidden>
     </div>
     <p class="patch-sub" id="bkUsageLine"><span>브라우저 저장 공간 사용량</span>: <b id="bkUsageNum">-</b></p>
@@ -1192,25 +1214,22 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <header>
   <div class="head-top">
     <h1>다국어 자막 정렬 도구</h1>
-    <span class="seg" id="modeSeg" title="슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기"><button type="button" data-mode="slide" class="active"><svg class="ic" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드 만들기</button><button type="button" data-mode="db"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 DB</button></span>
-    <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
-    <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
+    <span class="seg" id="modeSeg" title="슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기"><button type="button" data-mode="slide" class="active"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드 만들기</button><button type="button" data-mode="db"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB</button></span>
+    <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
+    <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
-      <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요"><svg class="ic" aria-hidden="true"><use href="#i-warn"/></svg>자동 저장 안 됨</span>
-      <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
-      <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
-      <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
-      <span class="hsep"></span>
-      <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
-      <button type="button" class="btn quiet slide-only" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
-      <button type="button" class="btn quiet slide-only" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
+      <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>자동 저장 안 됨</span>
+      <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
+      <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
+      <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
+      <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
       <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
       <span class="hsep slide-only"></span>
-      <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
-      <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</button>
+      <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
+      <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</button>
       <span class="hsep"></span>
-      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 모든 데이터(원고·자동 백업·번역 캐시·설정·내가 수정한 성경 구절)를 전부 지우고 처음 상태로 되돌려요. 홈페이지에 기록된 원본 DB는 그대로 남아요"><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
+      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 모든 데이터(원고·자동 백업·번역 캐시·설정·내가 수정한 성경 구절)를 전부 지우고 처음 상태로 되돌려요. 홈페이지에 기록된 원본 DB는 그대로 남아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
     </div>
   </div>
   <div class="toolbar">
@@ -1228,7 +1247,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       </span>
     </div>
     <details class="settings-more" id="settingsMore">
-      <summary class="btn quiet"><svg class="ic" aria-hidden="true"><use href="#i-sliders"/></svg>세부 설정</summary>
+      <summary class="btn quiet"><svg class="ic ic-sliders" aria-hidden="true"><use href="#i-sliders"/></svg>세부 설정</summary>
       <div class="settings-panel">
         <div class="setting">
           <span class="sl">선택한 글자 번역 언어</span>
@@ -1239,14 +1258,14 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
           <p class="help">드래그한 글자를 이 언어로 번역해 보여줘요.</p>
         </div>
         <div class="setting">
-          <label class="sl" for="canvasHeightSelect">ProPresenter 캔버스 높이</label>
+          <label class="sl" for="canvasHeightSelect">ProPresenter 캔버스 크기</label>
           <select id="canvasHeightSelect">
             <option value="1080" selected>1920×1080 (FHD)</option>
             <option value="720">1280×720 (HD)</option>
             <option value="2160">3840×2160 (UHD)</option>
             <option value="custom">직접 입력…</option>
           </select>
-          <input type="number" id="canvasHeightCustom" min="200" max="10000" value="1080" style="display:none;">
+          <span class="canvas-custom" id="canvasCustomWrap" style="display:none;"><input type="number" id="canvasWidthCustom" min="200" max="10000" value="1920" aria-label="가로" title="가로"><span class="x">×</span><input type="number" id="canvasHeightCustom" min="200" max="10000" value="1080" aria-label="세로" title="세로"></span>
           <p class="help">출력 해상도예요 (1pt = 1px).</p>
         </div>
         <div class="setting">
@@ -1259,6 +1278,10 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
         </div>
       </div>
     </details>
+    <div class="toolbar-right">
+      <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
+      <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
+    </div>
   </div>
   <div class="toolbar dbbar db-only" id="dbBar">
     <label class="field"><span>성경</span><select id="dbBook"></select></label>
@@ -1270,7 +1293,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <div class="lt-banner" id="ltStatusBanner">
   <span id="ltStatusText"></span>
   <span>
-    <button type="button" class="howto-link-btn" id="ltStatusHowto"><svg class="ic" aria-hidden="true"><use href="#i-server"/></svg>설치 안내 보기</button>
+    <button type="button" class="howto-link-btn" id="ltStatusHowto"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>설치 안내 보기</button>
     <button type="button" id="ltStatusRecheck">다시 확인</button>
     <button type="button" id="ltStatusClose">닫기</button>
   </span>
@@ -1299,7 +1322,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       <span class="rh-title">슬라이드 구성</span>
       <span class="rh-chips" id="composeChips" title="이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요"></span>
       <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">설정</button>
-      <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 지금 원고 맨 뒤에 조각으로 넣어요"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
+      <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 지금 원고 맨 뒤에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
         <p class="help">위에 있는 언어가 슬라이드에서도 위쪽에 표시돼요. ⠿를 잡고 끌어서 순서를 바꿔 보세요.</p>
@@ -1317,17 +1340,17 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
-<script defer src="js/00-config.js?v=20261002h"></script>
-<script defer src="js/01-core.js?v=20261002f"></script>
-<script defer src="js/02-translate.js?v=20261002f"></script>
-<script defer src="js/03-slides.js?v=20261002j"></script>
-<script defer src="js/04-layout-copy.js?v=20261002g"></script>
-<script defer src="js/05-storage.js?v=20261002e"></script>
+<script defer src="js/00-config.js?v=20261002i"></script>
+<script defer src="js/01-core.js?v=20261002h"></script>
+<script defer src="js/02-translate.js?v=20261002h"></script>
+<script defer src="js/03-slides.js?v=20261002k"></script>
+<script defer src="js/04-layout-copy.js?v=20261002h"></script>
+<script defer src="js/05-storage.js?v=20261002f"></script>
 <script defer src="js/06-bible-db.js?v=20261002h"></script>
 <script defer src="js/07-bible-copy.js?v=20261002g"></script>
 <script defer src="js/08-welcome-demo.js?v=20261002f"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261002k"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261002n"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
 </body>
 </html>

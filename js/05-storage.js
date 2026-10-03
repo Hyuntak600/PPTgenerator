@@ -27,6 +27,7 @@ function serializeState() {
     defaultAlign,
     canvasHeightMode: canvasHeightSelect.value,
     canvasHeightCustomValue: canvasHeightCustom.value,
+    canvasWidthCustomValue: canvasWidthCustom.value,
     uid,
     cols,
   };
@@ -264,7 +265,8 @@ function restoreState(data) {
     canvasHeightSelect.value = data.canvasHeightMode || "1080";
     if (canvasHeightSelect.selectedIndex === -1) canvasHeightSelect.value = "1080"; // 알 수 없는 값 방지
     canvasHeightCustom.value = data.canvasHeightCustomValue || 1080;
-    canvasHeightCustom.style.display = canvasHeightSelect.value === "custom" ? "" : "none";
+    canvasWidthCustom.value = data.canvasWidthCustomValue || 1920; // 옛 저장본에는 가로가 없어 기본 1920
+    canvasCustomWrap.style.display = canvasHeightSelect.value === "custom" ? "" : "none";
     try { macSyncs.forEach(f => f()); } catch (e) { /* 06-bible-db.js보다 먼저 복원될 땐 macSelect가 만들어질 때 맞춰짐 */ }
     syncFontCqhVars();
     previewLangSeg.querySelectorAll("button").forEach(b => {

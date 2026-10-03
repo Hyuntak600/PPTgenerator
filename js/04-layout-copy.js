@@ -224,6 +224,8 @@ let mainCqhValue = 0; // syncFontCqhVars가 값을 넣는 변수(선언이 빠�
 
 const canvasHeightSelect = document.getElementById("canvasHeightSelect");
 const canvasHeightCustom = document.getElementById("canvasHeightCustom");
+const canvasWidthCustom = document.getElementById("canvasWidthCustom");   // 직접 입력의 가로
+const canvasCustomWrap = document.getElementById("canvasCustomWrap");     // 가로 × 세로 입력칸 묶음(직접 입력일 때만 보임)
 function getCanvasHeightPt() {
   if (canvasHeightSelect.value === "custom") {
     const v = parseInt(canvasHeightCustom.value, 10) || 1080;
@@ -231,8 +233,17 @@ function getCanvasHeightPt() {
   }
   return parseInt(canvasHeightSelect.value, 10) || 1080;
 }
+// 가로: 직접 입력이면 입력한 값, 아니면 세로의 16:9(1280×720 · 1920×1080 · 3840×2160). 미리보기 슬라이드의 가로세로 비율에만 쓰임
+function getCanvasWidthPt() {
+  if (canvasHeightSelect.value === "custom") {
+    const v = parseInt(canvasWidthCustom.value, 10) || 1920;
+    return Math.min(10000, Math.max(200, v));
+  }
+  return Math.round(getCanvasHeightPt() * 16 / 9);
+}
+function applyCanvasAspect() { document.documentElement.style.setProperty("--slide-ar", getCanvasWidthPt() + " / " + getCanvasHeightPt()); }
 function onCanvasHeightChanged() {
-  canvasHeightCustom.style.display = canvasHeightSelect.value === "custom" ? "" : "none";
+  canvasCustomWrap.style.display = canvasHeightSelect.value === "custom" ? "" : "none";
   canvasHeightPt = getCanvasHeightPt();
   syncFontCqhVars();
   recomputeAllFitsSoon();
@@ -240,11 +251,13 @@ function onCanvasHeightChanged() {
 }
 canvasHeightSelect.addEventListener("change", onCanvasHeightChanged);
 canvasHeightCustom.addEventListener("input", onCanvasHeightChanged);
+canvasWidthCustom.addEventListener("input", onCanvasHeightChanged);
 
 function syncFontCqhVars() {
   const targetPt = getFontSizeInputValue();
   canvasHeightPt = getCanvasHeightPt();
   mainCqhValue = (targetPt / canvasHeightPt) * 100;
+  applyCanvasAspect();
   document.documentElement.style.setProperty("--font-cqh", mainCqhValue.toFixed(4));
 }
 

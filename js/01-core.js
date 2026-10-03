@@ -8,7 +8,7 @@
 // ---------------------------------------------------------------------
 // 한글 등 조합(IME) 입력 중인 키인지: 크롬은 isComposing, 사파리는 조합을 확정하는 Enter가 isComposing=false 로 오고 keyCode 229 로만 알 수 있음
 const imeBusy = e => !!e.isComposing || e.keyCode === 229;
-const icon = name => '<svg class="ic" aria-hidden="true"><use href="#i-' + name + '"/></svg>';
+const icon = name => '<svg class="ic ic-' + name + '" aria-hidden="true"><use href="#i-' + name + '"/></svg>';
 function macConfirm(message, o) {
   o = o || {};
   return new Promise(resolve => {
@@ -79,6 +79,15 @@ macConfirm._n = 0;
 
   function openModal() { overlay.classList.add("open"); }
   function closeModal() { overlay.classList.remove("open"); }
+
+  // 내 컴퓨터(OS)에 맞는 안내만 보이게: 맥이면 Mac, 그 밖에는 Windows가 처음 선택됨(위쪽 선택기로 바꿀 수 있음)
+  const osSeg = document.getElementById("howtoOsSeg");
+  function setOs(os) { overlay.dataset.hos = os; osSeg.querySelectorAll("button").forEach(b => b.classList.toggle("active", b.dataset.os === os)); }
+  setOs(window.APP_ENV && window.APP_ENV.mac ? "mac" : "win");
+  osSeg.addEventListener("click", e => { const b = e.target.closest("button"); if (b) setOs(b.dataset.os); });
+  overlay.querySelectorAll(".howto-cmdcopy").forEach(btn => btn.addEventListener("click", () => {
+    copyToClipboard(btn.previousElementSibling.textContent.trim(), "복사했어요.");
+  }));
 
   closeBtn.addEventListener("click", closeModal);
   reopenBtn.addEventListener("click", openModal);

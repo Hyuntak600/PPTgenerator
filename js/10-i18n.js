@@ -52,7 +52,7 @@
     "기준 글자 크기":"Base font size","기본 정렬":"Default alignment","왼쪽":"Left","가운데":"Center","오른쪽":"Right",
     "⚙ 세부 설정":"⚙ Advanced settings","선택한 글자 번역 언어":"Language for selected-text translation",
     "드래그한 글자를 이 언어로 번역해 보여줘요.":"Drag text to see it translated into this language.",
-    "ProPresenter 캔버스 높이":"ProPresenter canvas height","직접 입력…":"Custom…",
+    "ProPresenter 캔버스 크기":"ProPresenter canvas size","가로":"Width","세로":"Height","직접 입력…":"Custom…",
     "출력 해상도예요 (1pt = 1px).":"Output resolution (1pt = 1px).",
     "슬라이드 글자 굵기":"Slide font weight","보통":"Regular","굵게":"Bold",
     "🐳 설치 안내 보기":"🐳 View setup guide","다시 확인":"Re-check","저장하고 다시 확인":"Save and re-check","서버 주소":"Server address",
@@ -87,7 +87,7 @@
     /* 스크립트가 만드는 문구 */
     "LibreTranslate 서버 연결 확인 중...":"Checking LibreTranslate server connection...",
     "맥의 5000번 포트를 AirPlay 수신 모드가 쓰고 있는 것 같아요(HTTP 403). 시스템 설정 → 일반 → AirDrop 및 Handoff에서 AirPlay 수신 모드를 끄고 다시 확인해 주세요.":"Port 5000 on your Mac seems to be used by AirPlay Receiver (HTTP 403). Turn off AirPlay Receiver in System Settings → General → AirDrop & Handoff, then check again.",
-    "사파리는 일주일 넘게 열지 않으면 저장된 원고와 수정한 성경 구절이 지워질 수 있어요. 수정한 구절은 DB 코드로 그때그때 관리자에게 보내 주세요.":"Safari may erase saved scripts and your verse edits if you don\u2019t open this page for over a week. Send edited verses to the administrator as a DB code as you go.",
+    "사파리는 일주일 넘게 안 열면 저장 데이터가 지워질 수 있어요. 수정한 구절은 그때그때 DB 코드로 보내 주세요.":"Safari may erase saved data if you don\u2019t open this page for over a week. Send edited verses as a DB code as you go.",
     "주소는 http:// 로 시작해야 해요. 예: http://localhost:5000":"The address must start with http://, e.g. http://localhost:5000",
     "서버 주소를 저장했어요. 다시 확인합니다.":"Server address saved. Re-checking.",
     "드래그하면 번역이 여기 보여요":"Drag to see the translation here",
@@ -134,12 +134,12 @@
     [/^(개별 · )?(\d+)줄 · (\d+(?:\.\d+)?)pt \(여유\)$/, (c, l, e) => (c ? "Custom · " : "") + l + " lines · " + e + "pt (fits)"],
     [/^(.*) · (\d+)자 · (.+)$/, (d, n, w) => d + " · " + n + " chars · " + L(w)],
     [/^이 슬라이드만 (.+) 정렬 \(한 번 더 누르면 기본 정렬로\)$/, a => "Align only this slide " + L(a).toLowerCase() + " (click again for default)"],
-    [/^(.+) 슬라이드를 지웠어요\..*$/s, r => "Deleted the " + r + " slide. Undo with Ctrl+Z or restore it from 🛡️ Backup·Restore."],
+    [/^(.+) 슬라이드를 지웠어요\..*$/s, r => "Deleted the " + r + " slide. Undo with Ctrl/⌘+Z or restore it from 🛡️ Backup·Restore."],
     [/^(.+): 번역 중\.\.\.$/, a => L(a) + ": translating..."],
     [/^\[번역 실패: (.*)\]$/, m => "[Translation failed: " + m.replace("번역 서비스 오류:", "Translation service error:").replace("번역 실패: 응답 형식이 올바르지 않습니다", "Unexpected response format").replace("알 수 없는 오류", "Unknown error") + "]"],
     [/^없는 언어: ?(.*)$/, a => "Missing languages: " + a],
-    [/^사파리에서는 https 페이지가 http 번역 서버\((.+)\)에 연결하지 못할 수 있어요\..*$/s, u => "Safari may block an https page from reaching an http translation server (" + u + "). Open this page in Chrome to use translation. Everything except translation still works."],
-    [/^맥에서 번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). If the server is running but it still fails, turn off AirPlay Receiver on your Mac (port 5000 conflict). Everything except translation still works."],
+    [/^사파리에서는 https 페이지가 http 번역 서버\((.+)\)에 연결하지 못할 수 있어요\..*$/s, u => "Safari may block an https page from reaching an http translation server (" + u + "). Try opening this page in Chrome."],
+    [/^맥에서 번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). If the server is running but it still fails, turn off AirPlay Receiver on your Mac."],
     [/^번역 서버\((.+)\)에 연결되지 않았어요\..*$/s, u => "Can't reach the translation server (" + u + "). Everything except translation still works."],
     [/^LibreTranslate 서버\((.+)\) 연결 정상,.*$/s, u => "LibreTranslate server (" + u + ") is connected and all required language models are installed."],
     [/^LibreTranslate 서버\((.+)\)에 연결할 수 없습니다\..*?\((.*)\)$/s, (u, m) => "Cannot reach the LibreTranslate server (" + u + "). Check that it is running, that the address is correct, and the server's CORS settings. (" + m + ")"],
@@ -159,7 +159,7 @@
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"],
     /* 영어 화면 보강 */
-    [/^(\d+)개 조각을 지웠어요\. Ctrl\+Z로 되돌릴 수 있어요\.$/, n => n + (n === "1" ? " piece" : " pieces") + " deleted. Undo with Ctrl+Z."],
+    [/^(\d+)개 조각을 지웠어요\. Ctrl\/⌘\+Z로 되돌릴 수 있어요\.$/, n => n + (n === "1" ? " piece" : " pieces") + " deleted. Undo with Ctrl/⌘+Z."],
     [/^로컬 데이터·캐시 (\d+)개를 지웠어요\. 홈페이지의 원본 DB를 다시 불러옵니다\.$/, n => "Deleted " + n + " local data/cache items. Reloading the original DB from the homepage."],
     [/^전부 \((\d+)장\)$/, n => "All (" + n + ")"],
     [/^(\d+)번$/, n => "Slide " + n],
@@ -208,7 +208,7 @@
     });
   }
   function pass(root) {
-    if (root.nodeType === 3) { if (!SKIP.test(root.parentNode.tagName)) txt(root); return; }
+    if (root.nodeType === 3) { if (root.parentNode && !SKIP.test(root.parentNode.tagName)) txt(root); return; } // 이미 지워진 글자 조각(부모 없음)은 건너뜀
     if (root.nodeType !== 1 || SKIP.test(root.tagName) && root.tagName !== "TEXTAREA") return;
     const els = [root, ...root.querySelectorAll("*")];
     els.forEach(el => ATTRS.forEach(a => attr(el, a)));

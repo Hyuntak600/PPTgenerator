@@ -37,7 +37,7 @@ window.APP_ENV = (function () {
   try { if (localStorage.getItem(KEY)) return; } catch (e) { return; }
   setTimeout(() => {
     if (typeof showToast !== "function") return;
-    showToast("사파리는 일주일 넘게 열지 않으면 저장된 원고와 수정한 성경 구절이 지워질 수 있어요. 수정한 구절은 DB 코드로 그때그때 관리자에게 보내 주세요.", false, 9000);
+    showToast("사파리는 일주일 넘게 안 열면 저장 데이터가 지워질 수 있어요. 수정한 구절은 그때그때 DB 코드로 보내 주세요.", false, 9000);
     try { localStorage.setItem(KEY, "1"); } catch (e) { /* 못 남겨도 다음에 한 번 더 보일 뿐 */ }
   }, 3500);
 })();

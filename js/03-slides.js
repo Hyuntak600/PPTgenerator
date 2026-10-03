@@ -847,7 +847,7 @@ function deletePicked() {
   clearPicked();
   left.querySelectorAll(":scope > .col").forEach(c => { renumberColumn(c); resetColSelPreview(c); });
   syncSlides(); refreshInfo(); saveStateDebounced();
-  showToast(n + "개 조각을 지웠어요. Ctrl+Z로 되돌릴 수 있어요.");
+  showToast(n + "개 조각을 지웠어요. Ctrl/⌘+Z로 되돌릴 수 있어요.");
 }
 document.addEventListener("keydown", e => {
   if (imeBusy(e) || document.querySelector(".patch-overlay.open")) return;
@@ -1008,7 +1008,7 @@ function deleteSlide(i) {
   if (i < slideOpts.length) slideOpts.splice(i, 1); // 슬라이드별 글자 크기·정렬도 같이 당김
   left.querySelectorAll(":scope > .col").forEach(col => { renumberColumn(col); resetColSelPreview(col); });
   syncSlides(); refreshInfo(); saveStateDebounced();
-  showToast(refDisplay(ref) + " 슬라이드를 지웠어요. Ctrl+Z 또는 🛡️ 백업·복구에서 되돌릴 수 있어요.");
+  showToast(refDisplay(ref) + " 슬라이드를 지웠어요. Ctrl/⌘+Z 또는 🛡️ 백업·복구에서 되돌릴 수 있어요.");
 }
 function moveSlide(i, d) {
   const j = i + d, n = right.children.length;
