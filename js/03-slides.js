@@ -536,7 +536,7 @@ function flash(el) {
   el.classList.remove("flash");
   void el.offsetWidth; // 애니메이션을 처음부터 다시 재생
   el.classList.add("flash");
-  setTimeout(() => el.classList.remove("flash"), 1200);
+  setTimeout(() => el.classList.remove("flash"), 1800);
 }
 // 조각 → 같은 번호의 슬라이드로 이동
 function goToSlideOf(box) {
@@ -548,10 +548,15 @@ function goToSlideOf(box) {
 }
 // 슬라이드를 오른쪽 영역 맨 위 첫째 줄에 맞춤(왼쪽 조각을 맨 위에 맞추는 placeBoxAtTop과 짝)
 function placeSlideAtTop(block, smooth) {
-  const rr = right.getBoundingClientRect(), br = block.getBoundingClientRect();
-  if (!br.width && !br.height) return;
-  const pad = parseFloat(getComputedStyle(right).paddingTop) || 10;
-  right.scrollTo({ top: Math.max(0, right.scrollTop + br.top - rr.top - pad), behavior: smooth ? smoothBehavior() : "auto" });
+  const go = beh => {
+    const rr = right.getBoundingClientRect(), br = block.getBoundingClientRect();
+    if (!br.width && !br.height) return;
+    const pad = parseFloat(getComputedStyle(right).paddingTop) || 10;
+    right.scrollTo({ top: Math.max(0, right.scrollTop + br.top - rr.top - pad), behavior: beh });
+  };
+  const beh = smooth ? smoothBehavior() : "auto";
+  go(beh);
+  if (beh === "smooth") settleAfterScroll(right, () => { if (block.isConnected) go("auto"); });
 }
 // 슬라이드 속 문장 → 같은 번호의 원문 조각으로 이동해서 바로 수정할 수 있게 커서를 둠
 function goToBoxOf(slot) {
@@ -569,15 +574,27 @@ function goToBoxOf(slot) {
 // 세로는 조각의 맨 위를 고정 영역(칸 제목·번역 미리보기) 바로 아래 첫째 줄에, 가로는 그 언어 칸을 원고 영역 맨 왼쪽에 맞춤.
 // (scrollIntoView는 고정 영역을 모르고 다른 바깥 스크롤까지 건드려서 직접 계산)
 function placeBoxAtTop(box, smooth) {
-  const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
-  if (!br.width && !br.height) return;
-  const col = box.closest(".col"), head = col && col.querySelector(".col-head");
-  const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 8 : 8;
-  const dy = br.top - (lr.top + topInset);
-  const cr = (col || box).getBoundingClientRect();
-  const padL = parseFloat(getComputedStyle(left).paddingLeft) || 14;
-  const dx = cr.left - lr.left - padL;
-  left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: smooth ? smoothBehavior() : "auto" });
+  const go = beh => {
+    const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
+    if (!br.width && !br.height) return 0;
+    const col = box.closest(".col"), head = col && col.querySelector(".col-head");
+    const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 12 : 12;
+    const dy = br.top - (lr.top + topInset);
+    const cr = (col || box).getBoundingClientRect();
+    const padL = parseFloat(getComputedStyle(left).paddingLeft) || 14;
+    const dx = cr.left - lr.left - padL;
+    left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: beh });
+    return Math.abs(dy) + Math.abs(dx);
+  };
+  const beh = smooth ? smoothBehavior() : "auto";
+  go(beh);
+  if (beh === "smooth") settleAfterScroll(left, () => { if (box.isConnected) go("auto"); }); // 부드럽게 가는 동안 번역 미리보기 높이 등이 바뀌어도 도착 뒤 한 번 더 딱 맞춤
+}
+// 부드러운 스크롤이 끝난 뒤 한 번만 fn 실행(scrollend를 못 쓰는 브라우저는 시간으로 대신)
+function settleAfterScroll(el, fn) {
+  let done = false, t = 0;
+  const fin = () => { if (done) return; done = true; clearTimeout(t); el.removeEventListener("scrollend", fin); fn(); };
+  if ("onscrollend" in window) { el.addEventListener("scrollend", fin); t = setTimeout(fin, 1500); } else t = setTimeout(fin, 700);
 }
 
 function activeLangCodes(cols) {

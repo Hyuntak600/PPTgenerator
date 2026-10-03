@@ -29,13 +29,13 @@
     if (!bs.length) { showToast("슬라이드가 없어요.", true); return false; }
     if (!(i >= 0 && i < bs.length)) { showToast("1~" + bs.length + " 사이의 번호를 입력해 주세요.", true); return false; }
     const beh = typeof smoothBehavior === "function" ? smoothBehavior() : "auto";
-    bs[i].scrollIntoView({ behavior: beh, block: "center" });
+    placeSlideAtTop(bs[i], beh !== "auto"); // 오른쪽: 그 슬라이드를 맨 위 첫째 줄에 맞춤
     if (typeof flash === "function" && bs[i]._row) flash(bs[i]._row);
     if (document.documentElement.getAttribute("data-view") === "slides") {
       if (typeof window.viewOnlySetCur === "function") window.viewOnlySetCur(i);
     } else {
       const row = buildRowMap()[i], box = row && Object.values(row.by).find(Boolean);
-      if (box) { box.scrollIntoView({ behavior: beh, block: "center" }); if (typeof flash === "function") flash(box); }
+      if (box) { placeBoxAtTop(box, beh !== "auto"); if (typeof flash === "function") flash(box); } // 왼쪽: 그 조각을 고정 영역 바로 아래 첫째 줄에, 그 언어 칸을 맨 왼쪽에
     }
     return true;
   }

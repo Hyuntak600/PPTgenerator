@@ -95,26 +95,25 @@
     cnt.classList.toggle("none", !!inp.value && !list.length);
     prevB.disabled = nextB.disabled = !list.length;
   }
-  // 찾은 단어가 "항상 눈에 보이는 자리" 한가운데 오게 스크롤: 위쪽의 칸 제목·번역 미리보기(고정 영역)나 아래쪽 떠 있는 버튼에 가려지지 않게,
-  // 그 영역을 뺀 나머지 보이는 부분의 가운데로 옮긴다. 가로로도 화면 밖이면 안으로 끌어옴.
-  function bring(scroller, el, topInset, bottomInset, beh) {
-    const sr = scroller.getBoundingClientRect(), r = el.getBoundingClientRect();
-    if (!r.width && !r.height) return;
-    const top = sr.top + topInset, bottom = sr.bottom - bottomInset;
-    let dy = (r.top + r.bottom) / 2 - (top + bottom) / 2;
-    const dx = r.left < sr.left + 12 ? r.left - sr.left - 12 : r.right > sr.right - 12 ? r.right - sr.right + 12 : 0;
-    scroller.scrollTo({ top: scroller.scrollTop + dy, left: scroller.scrollLeft + dx, behavior: beh });
-  }
+  // 이동은 항상 "맨 위 첫째 줄"에 맞춤: 왼쪽은 조각의 맨 위를 칸 제목·번역 미리보기(고정 영역) 바로 아래에, 그 언어 칸을 맨 왼쪽에.
+  // 다만 조각이 길어서 찾은 단어가 화면 아래로 벗어나면, 그 단어가 있는 줄을 첫째 줄에 맞춤.
   function reveal(t, smooth) {
     const beh = smooth && typeof smoothBehavior === "function" ? smoothBehavior() : "auto";
     const hit = t.box._fm && t.box._fm.querySelector("mark.cur") || t.box; // 찾은 단어 자리(없으면 조각)
     const col = t.box.closest(".col"), head = col && col.querySelector(".col-head");
-    bring(left, hit, head ? head.getBoundingClientRect().bottom - left.getBoundingClientRect().top + 8 : 0, 12, beh);
+    const lr = left.getBoundingClientRect(), topInset = head ? head.getBoundingClientRect().bottom - lr.top + 12 : 12;
+    const br = t.box.getBoundingClientRect(), hr = hit.getBoundingClientRect();
+    const target = hr.bottom - br.top > left.clientHeight - topInset - 12 ? hr : br; // 단어가 조각 맨 위 기준 화면 밖이면 단어 줄 기준
+    const cr = (col || t.box).getBoundingClientRect();
+    const padL = parseFloat(getComputedStyle(left).paddingLeft) || 14;
+    left.scrollTo({ top: Math.max(0, left.scrollTop + target.top - (lr.top + topInset)), left: left.scrollLeft + cr.left - lr.left - padL, behavior: beh });
     const blk = right.querySelectorAll(":scope > .slide-block")[t.row];
     if (blk) {
-      const vis = right.clientHeight - 64; // 아래쪽 가운데 떠 있는 확대·축소 버튼 자리를 뺌
-      if (curRange && blk.offsetHeight > vis) bring(right, curRange, 8, 64, beh); // 슬라이드가 화면보다 크면 찾은 단어 쪽으로
-      else bring(right, blk, 8, 64, beh);                                          // 아니면 슬라이드 전체가 보이게
+      const rr = right.getBoundingClientRect(), pad = parseFloat(getComputedStyle(right).paddingTop) || 8;
+      const bt = blk.getBoundingClientRect();
+      let top = bt.top; // 오른쪽: 슬라이드 맨 위를 첫째 줄에(슬라이드가 화면보다 커서 찾은 단어가 밖이면 그 단어 줄을 첫째 줄에)
+      if (curRange) { const w = curRange.getBoundingClientRect(); if (w.height && w.bottom - bt.top > right.clientHeight - pad - 12) top = w.top; }
+      right.scrollTo({ top: Math.max(0, right.scrollTop + top - rr.top - pad), behavior: beh });
     }
     if (smooth && typeof flash === "function") { flash(t.box); if (blk && blk._row) flash(blk._row); }
   }

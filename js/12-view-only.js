@@ -40,7 +40,7 @@
     const n = abs ? to : cur + to;
     if (n < 0 || n >= bs.length) { showToast(n < 0 ? "첫 슬라이드예요." : "마지막 슬라이드예요."); return; }
     cur = n; mark();
-    bs[cur].scrollIntoView({ behavior: typeof smoothBehavior === "function" ? smoothBehavior() : "auto", block: "center" });
+    placeSlideAtTop(bs[cur], true); // 방향키로 넘길 때도 그 슬라이드를 맨 위 첫째 줄에 맞춤
   }
   // ↑ ↓: 화면에서 정말 바로 위·아래에 있는 슬라이드로(여러 칸으로 늘어놓았을 때는 같은 세로줄의 윗줄·아랫줄, 가로 위치가 가장 가까운 것)
   function goVert(d) {
