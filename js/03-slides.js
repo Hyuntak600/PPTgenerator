@@ -744,6 +744,11 @@ left.addEventListener("mousedown", e => {
   const box = e.target.closest ? e.target.closest(".box") : null;
   if (!box || !left.contains(box)) { clearPicked(); return; }
   if (!isMulti(e)) { clearPicked(); return; }
+  if (box.dataset.ref && appMode === "slide") { // 성경 조각은 한 슬라이드로 묶여 있어서 일부 언어만 지우면 짝이 깨짐 → Ctrl/⌘+클릭 선택·삭제를 막음
+    e.preventDefault(); e.stopPropagation();
+    showToast("성경 구절은 Ctrl/⌘+클릭으로 고르거나 지울 수 없어요. 구절을 눌러 고른 뒤 Delete를 누르거나 슬라이드의 ✕를 써 주세요.", true);
+    return;
+  }
   e.preventDefault(); e.stopPropagation(); // 커서를 옮기거나 글자 선택 번역이 시작되지 않게
   const ae = document.activeElement, cur = ae && ae.tagName === "TEXTAREA" ? ae.closest(".box") : null;
   if (cur && left.contains(cur) && !picked.size) setPicked(cur, true); // 커서가 있던 조각도 함께 선택
@@ -827,6 +832,7 @@ undoBtn.addEventListener("click", undo);
 redoBtn.addEventListener("click", redo);
 
 function deletePicked() {
+  [...picked].forEach(b => { if (b.dataset.ref) setPicked(b, false); }); // 혹시 섞여 있어도 성경 조각은 여기서 지우지 않음
   const n = picked.size; if (!n) return;
   pushUndo();
   isRestoring = true;

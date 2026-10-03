@@ -80,7 +80,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 @media (max-width:860px){
   .wrap{flex-direction:column;}
   .left{border-right:0; border-bottom:1px solid var(--line); flex:none; max-height:55vh;}
-  .right-wrap{min-height:300px;}
+  .right-wrap{min-height:300px; flex:1 1 auto; width:auto;}
 }
 .lt-banner{
   display:none; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap;
@@ -102,7 +102,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 :root[data-theme="dark"] .lt-banner{background:#3a3120; color:#f0d58c; border-color:#5c4d20;}
 :root[data-theme="dark"] .lt-banner.ok{background:#193b26; color:#8fd6a6; border-color:#2c5c3d;}
 .wrap{display:flex; flex:1; min-height:0;}
-.left{flex:1.15; display:flex; align-items:flex-start; gap:8px; padding:10px; overflow:auto; scroll-snap-type:x proximity; border-right:1px solid var(--line);}
+.left{flex:1 1 0; min-width:0; display:flex; align-items:flex-start; gap:8px; padding:10px; overflow:auto; scroll-snap-type:x proximity; border-right:1px solid var(--line);}
 .col{flex:1; min-width:150px; display:flex; flex-direction:column; gap:6px; scroll-snap-align:start;}
 /* 언어별 강조색을 커스텀 프로퍼티 하나로 모아, 칸 제목/빈 슬롯/오프스크린 표시가 전부 이 값 하나만 참조하게 함 */
 .col[data-lang="ko"], .slot[data-lang="ko"], .chk-line[data-lang="ko"], .rh-chip[data-lang="ko"], .cr[data-lang="ko"]{--lang-color:var(--ko);}
@@ -132,7 +132,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 .box textarea{overflow:hidden;} /* 상자 안 스크롤은 없음: 글이 길면 상자 높이가 글자 길이에 맞춰 늘어남(autoGrow) */
 .box textarea:focus{outline:none;}
 .box:focus-within{border-color:var(--lang-color); box-shadow:0 0 0 1px var(--lang-color);}
-.box.picked{box-shadow:0 0 0 3px var(--lang-color) !important; background:color-mix(in srgb,var(--lang-color) 14%,var(--panel)) !important;}
+.box.picked{box-shadow:inset 0 0 0 2px var(--lang-color) !important; background:color-mix(in srgb,var(--lang-color) 14%,var(--panel)) !important;}
 .box.picked textarea{background:transparent; cursor:default; user-select:none;}
 .btn:disabled{opacity:.4; cursor:default;}
 .box-link{
@@ -141,7 +141,9 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 }
 .box-link:hover{color:var(--ink); background:rgba(127,127,127,.32);}
 
-.right-wrap{flex:1; min-width:0; min-height:0; display:flex; flex-direction:column;}
+/* 슬라이드 쪽 너비: 100% 배율에서는 예전과 같은 46.5%(= 1 : 1.15). 브라우저를 축소하면 --zoomfix(축소 비율)만큼 곱해
+   슬라이드 칸도 글씨와 함께 줄어들고, 남는 자리는 조각(왼쪽) 영역이 차지함. 확대(100% 초과)할 때는 그대로 둠 */
+.right-wrap{flex:0 0 auto; width:calc(46.5% * var(--zoomfix,1)); min-width:0; min-height:0; display:flex; flex-direction:column;}
 .right{flex:1; min-height:0; overflow-y:auto; padding:10px;}
 
 /* 슬라이드 구성(어떤 언어를 어떤 순서로 넣을지) */
@@ -749,8 +751,11 @@ html[data-mode="db"] .slide-only{display:none !important;}
 .box.bible{cursor:pointer;}
 .box.bible textarea{pointer-events:none; -webkit-user-select:none; user-select:none; cursor:pointer;}
 .box.bible:focus{outline:none;}
-.box.bible .box-link{display:none;}
-.box.ref-sel{box-shadow:0 0 0 2.5px var(--accent),var(--mac-shadow) !important; background:color-mix(in srgb,var(--accent) 12%,var(--panel)) !important;}
+/* 성경 조각도 오른쪽 위에 "슬라이드 N" 버튼을 보여 줌(누르면 그 슬라이드로 이동). 색은 성경 조각의 보라색에 맞춤 */
+.box.bible .box-link{color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:color-mix(in srgb,var(--bible) 18%,transparent);}
+.box.bible .box-link:hover{background:color-mix(in srgb,var(--bible) 30%,transparent);}
+/* 선택한 성경 줄: 바깥으로 번지는 빛 대신 상자 안쪽 가는 테두리 + 옅은 배경(칸 밖으로 새지 않음) */
+.box.ref-sel{box-shadow:inset 0 0 0 1.5px var(--accent) !important; background:color-mix(in srgb,var(--accent) 9%,var(--panel)) !important;}
 .dbstat{font-size:.76rem; color:var(--sub);}
 /* 성경 DB 모드: 슬라이드 왼쪽 위에 "영어 (한국어) 중국어 인도네시아어 장:절" 표시 */
 :root{--ref-h:7.4;}
@@ -770,18 +775,18 @@ html[data-mode="db"] .ref-tag:empty{display:none;}
 html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-cqh, 10.2) * 1cqh * var(--fit-scale, 1) * var(--pad-y, 0));}
 
 /* 성경에서 불러온 조각·슬라이드: 보라색 배경 + 굵은 왼쪽 막대 + "번호 · 책 장:절" 표시 → 내가 쓴 원고와 한눈에 구분 */
-.box.bible{background:color-mix(in srgb,var(--bible) 9%,var(--panel));
-  box-shadow:0 0 0 1px color-mix(in srgb,var(--bible) 42%,transparent),0 1px 2px rgba(0,0,0,.06);}
-.box.bible::before{opacity:1; width:5px; top:0; bottom:0; border-radius:0; background:var(--bible);}
-.box.bible:focus-within{box-shadow:0 0 0 1px var(--lang-color),0 0 0 3.5px color-mix(in srgb,var(--lang-color) 26%,transparent);}
-.box.bible .box-num{left:11px; max-width:calc(100% - 100px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
-  color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:color-mix(in srgb,var(--bible) 18%,transparent);}
-.box.bible .box-num[data-ref]::after{content:" · " attr(data-ref); font-weight:inherit;}
+.box.bible{background:color-mix(in srgb,var(--bible) 5%,var(--panel));
+  box-shadow:0 0 0 .5px color-mix(in srgb,var(--bible) 38%,transparent);}
+.box.bible::before{opacity:1; background:var(--bible);} /* 굵은 막대 대신 일반 조각의 선택 막대와 같은 가는 막대 */
+.box.bible:focus-within{box-shadow:inset 0 0 0 1.5px color-mix(in srgb,var(--accent) 70%,transparent);}
+.box.bible .box-num{left:14px; padding:0; max-width:calc(100% - 100px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  font-size:.66rem; font-weight:600; color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:transparent;}
+.box.bible .box-num[data-ref]::after{content:" · " attr(data-ref); font-weight:500; color:color-mix(in srgb,var(--ink) 62%,transparent);} /* 번호만 보라색, 구절 이름은 차분한 글자색 */
 .box.bible textarea{padding-left:14px;}
-.slide-block.bible .slide-grip{background:color-mix(in srgb,var(--bible) 14%,var(--panel));
-  box-shadow:inset 5px 0 0 var(--bible),0 0 0 .5px color-mix(in srgb,var(--bible) 45%,transparent);}
-.slide-block.bible .sg-ref{background:var(--bible); color:#fff; border-radius:999px; padding:1px 9px;}
-.slide-block.bible .row{box-shadow:0 0 0 2px var(--bible);}
+.slide-block.bible .slide-grip{background:color-mix(in srgb,var(--bible) 7%,var(--panel));
+  box-shadow:inset 3px 0 0 var(--bible),0 0 0 .5px color-mix(in srgb,var(--bible) 40%,transparent);}
+.slide-block.bible .sg-ref{background:color-mix(in srgb,var(--bible) 16%,transparent); color:color-mix(in srgb,var(--bible) 88%,var(--ink)); font-weight:600; border-radius:999px; padding:1px 9px;}
+.slide-block.bible .row{box-shadow:0 0 0 1.5px color-mix(in srgb,var(--bible) 55%,transparent);}
 
 /* ─────────────── 7단계 · 맥 스타일 마무리 (아이콘·확인 시트·분할 버튼·커서) ─────────────── */
 /* 단색 선 아이콘(SF Symbols 느낌): 글자 색을 그대로 따라감 */
@@ -867,6 +872,22 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <script src="bibleDB/bibledb.js"></script>
 <script src="js/14-bible-fallback.js?v=20261002f"></script>
 <script>try{var __t=localStorage.getItem("subtitleTheme");if(__t==="dark"||__t==="light")document.documentElement.setAttribute("data-theme",__t);}catch(e){}try{if(localStorage.getItem("subtitleSlideBold")!=="0")document.documentElement.setAttribute("data-slide-bold","1");}catch(e){document.documentElement.setAttribute("data-slide-bold","1");}</script>
+<script>
+/* 브라우저 축소 보정: 크롬은 확대·축소하면 innerWidth(CSS px)만 바뀌고 outerWidth(화면 px)는 그대로예요.
+   outer/inner < 1 이면 그 값이 곧 "축소 비율"이라서 --zoomfix 로 넘겨, 슬라이드 칸이 축소에 맞춰 줄어들고 조각 영역이 넓어지게 해요.
+   100% 이상(확대)이거나 알 수 없으면 1(보정 없음). 최소 0.25. */
+(function(){
+  var root=document.documentElement, last=0;
+  function fix(){
+    var o=window.outerWidth, n=window.innerWidth, z=1;
+    if(o>0 && n>0 && o<n) z=Math.max(0.25,o/n);
+    if(z>0.97) z=1; // 스크롤바·창 테두리 같은 오차는 무시
+    z=Math.round(z*100)/100;
+    if(z!==last){ last=z; root.style.setProperty("--zoomfix", String(z)); }
+  }
+  fix(); window.addEventListener("resize",fix);
+})();
+</script>
 <style>
 /* 번역 서버 안내 창: 내 컴퓨터(OS)에 맞는 안내만 보이게, 문제 해결은 접어서 */
 #howtoOverlay[data-hos="win"] .os-mac,#howtoOverlay[data-hos="mac"] .os-win{display:none !important;}
@@ -1335,14 +1356,14 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <script defer src="js/00-config.js?v=20261002i"></script>
 <script defer src="js/01-core.js?v=20261003a"></script>
 <script defer src="js/02-translate.js?v=20261003a"></script>
-<script defer src="js/03-slides.js?v=20261003b"></script>
+<script defer src="js/03-slides.js?v=20261003c"></script>
 <script defer src="js/04-layout-copy.js?v=20261002h"></script>
 <script defer src="js/05-storage.js?v=20261002f"></script>
 <script defer src="js/06-bible-db.js?v=20261003a"></script>
 <script defer src="js/07-bible-copy.js?v=20261002g"></script>
 <script defer src="js/08-welcome-demo.js?v=20261002f"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261003a"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261003b"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
 </body>
 </html>

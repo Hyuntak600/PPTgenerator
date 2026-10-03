@@ -8,7 +8,7 @@
 (function(){
   const EN = {
     "취소":"Cancel","모두 삭제":"Delete all","삭제":"Delete","지우기":"Clear","복구":"Restore","바꾸기":"Replace",
-    "수정한 성경 구절 삭제":"Delete your Bible verse edits","백업으로 복구":"Restore backup","파일로 바꾸기":"Replace with file",
+    "수정한 성경 구절 삭제":"Delete your Bible verse edits","성경 구절은 Ctrl/⌘+클릭으로 고르거나 지울 수 없어요. 구절을 눌러 고른 뒤 Delete를 누르거나 슬라이드의 ✕를 써 주세요.":"Bible verses can't be picked or deleted with Ctrl/⌘+click. Click the verse to select it, then press Delete, or use the ✕ on the slide.","백업으로 복구":"Restore backup","파일로 바꾸기":"Replace with file",
     "⚠ 저장 공간 부족":"⚠ Storage almost full","브라우저 저장 공간 사용량":"Browser storage used",
     "브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요":"Browser storage is nearly full or automatic backups were reduced. Click to open Backup & Restore and save a file.",
     "저장 공간이 모자라 오래된 자동 백업을 줄였어요. 🛡️ 백업·복구에서 파일로 저장해 두세요.":"Storage is low, so older automatic backups were reduced. Save a file in 🛡️ Backup & Restore.",
