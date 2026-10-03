@@ -690,12 +690,9 @@ function updateBoxLinks(cols) {
   });
 }
 
-// 내용이 생기면 단축 키 안내(비어 있을 땐 아무 줄도 없이 작업 공간을 넓게 씀)
+// 단축키 안내 줄(Enter 문장 나누기 …)은 성경 DB 모드와 똑같이 슬라이드 만들기 모드에서도 항상 보여 줌
 function updateHelpBars(cols) {
-  const hasText = activeLangCodes(cols).length > 0;
-  const hasSlot = !!right.querySelector(".slot:not(.empty)");
-  const has = hasText || hasSlot;
-  tipsBar.hidden = !has;
+  tipsBar.hidden = false;
 }
 
 function refreshInfo() {
