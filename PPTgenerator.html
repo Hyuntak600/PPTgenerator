@@ -964,6 +964,15 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
   #viewOnlyBtn{padding:2px 6px;}
   #composeToggle{padding-inline:6px;}
 }
+
+/* ── 안내 줄(tips): 항상 한 줄. 좁아지면 덜 중요한 안내부터 차례로 숨김(확대·축소 안내는 끝까지 남김) ── */
+.tips{flex-wrap:nowrap; overflow:hidden; container:tips / inline-size;}
+.tips span{flex:none; white-space:nowrap;}
+@container tips (max-width:1900px){ .tips span:nth-child(6){display:none;} }
+@container tips (max-width:1560px){ .tips span:nth-child(5){display:none;} }
+@container tips (max-width:1300px){ .tips span:nth-child(3){display:none;} }
+@container tips (max-width:1050px){ .tips span:nth-child(2){display:none;} }
+@container tips (max-width:800px){ .tips span:nth-child(4){display:none;} }
 </style>
 </head>
 <body>
@@ -1359,6 +1368,7 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+click to select several pieces → &lt;kbd&gt;Backspace&lt;/kbd&gt;/&lt;kbd&gt;Delete&lt;/kbd&gt; to delete them at once"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+클릭 여러 조각 선택 → <kbd>Backspace</kbd>/<kbd>Delete</kbd> 한 번에 삭제</span>
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;Z&lt;/kbd&gt; Undo · &lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;Z&lt;/kbd&gt; Redo"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>Z</kbd> 되돌리기 · <kbd>Shift</kbd>+<kbd>Z</kbd> 다시</span>
   <span>슬라이드 속 문장을 클릭하면 원문 조각으로 이동</span>
+  <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;+&lt;/kbd&gt;/&lt;kbd&gt;−&lt;/kbd&gt; Zoom in / out"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>+</kbd>/<kbd>−</kbd> 화면 확대·축소</span>
 </div>
 <div class="wrap">
   <div class="left" id="left"></div>
