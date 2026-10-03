@@ -88,7 +88,7 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
   padding:8px 14px; margin:8px 16px 0; font-size:.8rem; line-height:1.5;
 }
 .lt-banner.show{display:flex;}
-.lt-banner{transition:opacity 1.6s ease;}
+.lt-banner{transition:opacity .7s ease;}
 .lt-banner.fade{opacity:0;}
 .lt-banner.ok{background:#e2f3e6; color:#1f6b3a; border-color:#bfe3c8;}
 .lt-banner button{
@@ -965,14 +965,14 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
   #composeToggle{padding-inline:6px;}
 }
 
-/* ── 안내 줄(tips): 항상 한 줄. 좁아지면 덜 중요한 안내부터 차례로 숨김(확대·축소 안내는 끝까지 남김) ── */
-.tips{flex-wrap:nowrap; overflow:hidden; container:tips / inline-size;}
+/* ── 안내 줄(tips): 항상 한 줄. 좁아지면 덜 쓰는 안내부터 숨김(Enter 나누기 · Backspace 합치기가 1순위로 끝까지 남고, 그다음 되돌리기 · 슬라이드 클릭 이동) ── */
+.tips{flex-wrap:nowrap; overflow:hidden; gap:4px 16px; container:tips / inline-size;}
 .tips span{flex:none; white-space:nowrap;}
-@container tips (max-width:1900px){ .tips span:nth-child(6){display:none;} }
-@container tips (max-width:1560px){ .tips span:nth-child(5){display:none;} }
-@container tips (max-width:1300px){ .tips span:nth-child(3){display:none;} }
-@container tips (max-width:1050px){ .tips span:nth-child(2){display:none;} }
-@container tips (max-width:800px){ .tips span:nth-child(4){display:none;} }
+@container tips (max-width:1700px){ .tips span:nth-child(6){display:none;} }
+@container tips (max-width:1450px){ .tips span:nth-child(5){display:none;} }
+@container tips (max-width:1150px){ .tips span:nth-child(7){display:none;} }
+@container tips (max-width:960px){ .tips span:nth-child(4){display:none;} }
+@container tips (max-width:760px){ .tips span:nth-child(3){display:none;} }
 </style>
 </head>
 <body>
@@ -1363,11 +1363,11 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 </div>
 <div class="tips" id="tipsBar">
   <span><kbd>Enter</kbd> 문장 나누기</span>
-  <span><kbd>Shift</kbd>+<kbd>Enter</kbd> 줄바꿈</span>
   <span>조각 맨 앞에서 <kbd>Backspace</kbd> 앞 조각과 합치기</span>
-  <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+click to select several pieces → &lt;kbd&gt;Backspace&lt;/kbd&gt;/&lt;kbd&gt;Delete&lt;/kbd&gt; to delete them at once"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+클릭 여러 조각 선택 → <kbd>Backspace</kbd>/<kbd>Delete</kbd> 한 번에 삭제</span>
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;Z&lt;/kbd&gt; Undo · &lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;Z&lt;/kbd&gt; Redo"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>Z</kbd> 되돌리기 · <kbd>Shift</kbd>+<kbd>Z</kbd> 다시</span>
-  <span>슬라이드 속 문장을 클릭하면 원문 조각으로 이동</span>
+  <span data-en="Click a sentence in a slide to jump straight to its source piece">슬라이드 문장을 누르면 원문 그 자리로 바로 이동</span>
+  <span><kbd>Shift</kbd>+<kbd>Enter</kbd> 줄바꿈</span>
+  <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+click to pick several pieces → &lt;kbd&gt;Delete&lt;/kbd&gt; to delete"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+클릭 여러 조각 선택 → <kbd>Delete</kbd> 삭제</span>
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;+&lt;/kbd&gt;/&lt;kbd&gt;−&lt;/kbd&gt; Zoom in / out"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>+</kbd>/<kbd>−</kbd> 화면 확대·축소</span>
 </div>
 <div class="wrap">
