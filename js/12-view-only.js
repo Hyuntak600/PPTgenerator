@@ -8,7 +8,7 @@
   if (!btn) return;
   const root = document.documentElement;
   const ic = n => (typeof icon === "function" ? icon(n) : "");
-  const LABEL = { off: () => ic("slides") + "슬라이드만 보기", on: () => ic("split") + "편집 화면" };
+  const LABEL = { off: () => ic("slides") + "슬라이드만", on: () => ic("split") + "편집" };
   const TITLE = {
     off: "왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)",
     on: "왼쪽 원고 칸을 다시 보여 줘요 (Esc)",

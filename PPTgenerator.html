@@ -943,6 +943,8 @@ html[data-view="slides"] .slide-block{max-width:none; margin:0;}
 html[data-view="slides"] .slide-block .row{max-width:none;}
 html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨겨져 있어 이동할 곳이 없음 */
 @media (max-width:860px){html[data-view="slides"] .right{grid-template-columns:1fr;}}
+#viewOnlyBtn{flex:none; white-space:nowrap; padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
+#viewOnlyBtn .ic{width:.95em; height:.95em;}
 .view-back-fab{display:none;}
 html[data-view="slides"] .view-back-fab{display:inline-flex; align-items:center; gap:6px; position:fixed; z-index:60; right:max(18px,env(safe-area-inset-right)); bottom:max(18px,env(safe-area-inset-bottom));
   padding:9px 16px; border:0; border-radius:999px; font:inherit; font-size:.82rem; font-weight:600; cursor:pointer;
@@ -1352,7 +1354,7 @@ html[data-view="slides"] .view-back-fab:focus-visible{outline:2px solid var(--in
       <span class="rh-title">슬라이드 구성</span>
       <span class="rh-chips" id="composeChips" title="이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요"></span>
       <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">설정</button>
-      <button type="button" class="btn quiet" id="viewOnlyBtn" aria-pressed="false" title="왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드만 보기</button>
+      <button type="button" class="btn quiet" id="viewOnlyBtn" aria-pressed="false" title="왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드만</button>
       <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 지금 원고 맨 뒤에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
@@ -1383,6 +1385,6 @@ html[data-view="slides"] .view-back-fab:focus-visible{outline:2px solid var(--in
 <script defer src="js/09-theme.js?v=20261002e"></script>
 <script id="i18nModule" defer src="js/10-i18n.js?v=20261003b"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
-<script defer src="js/12-view-only.js?v=20261003b"></script>
+<script defer src="js/12-view-only.js?v=20261003c"></script>
 </body>
 </html>
