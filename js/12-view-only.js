@@ -5,7 +5,7 @@
 // 켜 있는 동안: 슬라이드를 눌러도 원문 조각으로 이동하지 않고(왼쪽이 숨겨져 있어서), 성경 불러오기 버튼은 숨긴다.
 //  - 켜 둔 상태는 이 브라우저에 기억해서 새로고침해도 이어진다(localStorage "subtitleViewOnly").
 //  - ← → ↑ ↓ 로 슬라이드를 하나씩 넘기고(Home·End = 처음·끝), 지금 슬라이드에는 테두리가 생긴다.
-//  - 슬라이드를 더블클릭하면 슬라이드만 보기를 끄고, 그 슬라이드의 원문 조각 자리로 바로 이동한다(커서도 그 칸에 둠).
+//  - 슬라이드를 더블클릭하거나, 방향키로 고른 슬라이드에서 Enter를 누르면 슬라이드만 보기를 끄고, 그 슬라이드의 원문 조각 자리로 바로 이동한다(커서도 그 칸에 둠).
 (function initViewOnly() {
   const btn = document.getElementById("viewOnlyBtn");
   if (!btn) return;
@@ -66,6 +66,44 @@
     if (i >= 0) { cur = i; mark(); }
   });
 
+  // 조각을 "바로 작업하기 좋은 자리"에 놓기: 위쪽의 칸 제목·번역 미리보기(고정 영역)에 가리지 않고, 아래쪽도 잘리지 않게
+  // 고정 영역을 뺀 보이는 부분의 가운데로 옮긴다. 조각이 보이는 부분보다 길면 맨 위를 고정 영역 바로 아래에 맞춤.
+  // 가로로도 그 칸이 화면 밖이면 안으로 끌어온다. (scrollIntoView는 고정 영역을 모르고 다른 바깥 스크롤까지 건드려서 직접 계산)
+  function placeBox(box) {
+    const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
+    if (!br.width && !br.height) return;
+    const col = box.closest(".col"), head = col && col.querySelector(".col-head");
+    const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 10 : 10, bottomInset = 16;
+    const viewH = left.clientHeight - topInset - bottomInset;
+    let dy;
+    if (br.height >= viewH) dy = br.top - (lr.top + topInset);                       // 긴 조각: 맨 위부터 보이게
+    else dy = (br.top + br.bottom) / 2 - (lr.top + topInset + viewH / 2);            // 보통: 보이는 부분의 한가운데
+    let dx = 0;
+    const cr = (col || box).getBoundingClientRect();
+    if (cr.left < lr.left + 8) dx = cr.left - lr.left - 14;
+    else if (cr.right > lr.right - 8) dx = Math.min(cr.right - lr.right + 14, cr.left - lr.left - 14);
+    left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: "auto" });
+  }
+
+  // 슬라이드 i번의 원문 조각으로 순간이동: 슬라이드만 보기를 끄고 그 칸에 커서를 둠(lang이 있으면 그 언어 칸, 없으면 그 줄의 첫 조각)
+  function jumpToSource(i, lang) {
+    const row = buildRowMap()[i];
+    const box = row && ((lang && row.by[lang]) || Object.values(row.by).find(Boolean));
+    cur = i;
+    apply(false, true); // 왼쪽 칸이 다시 보이게(저장된 "슬라이드만" 상태도 꺼짐)
+    if (!box) return;
+    const jump = () => {
+      if (!box.isConnected) return;
+      placeBox(box); // 순간이동: 부드러운 스크롤 없이, 고정 영역에 가리지 않는 자리로
+      if (typeof flash === "function") flash(box);
+      if (box.dataset.ref) { if (typeof selectRefRow === "function") selectRefRow(box, false); return; } // 성경 조각은 수정하지 않고 줄만 선택
+      const ta = box.querySelector("textarea");
+      if (ta) { ta.focus({ preventScroll: true }); try { ta.setSelectionRange(0, 0); } catch (err) { /* 커서를 맨 앞에 둠: 긴 글이어도 맨 위부터 보이게 */ } }
+    };
+    jump();
+    requestAnimationFrame(jump); // 배치·글자 맞춤이 끝난 뒤 한 번 더 자리를 맞춤
+  }
+
   // 슬라이드 더블클릭 → 슬라이드만 보기를 끄고 그 슬라이드의 원문 조각으로 순간이동(커서를 그 칸에 둠)
   right.addEventListener("dblclick", e => {
     if (!isOn() || appMode !== "slide") return;
@@ -81,21 +119,7 @@
       const r = sl.getBoundingClientRect();
       if (!lang && !sl.classList.contains("empty") && e.clientX >= r.left && e.clientX <= r.right && e.clientY >= r.top && e.clientY <= r.bottom) lang = sl.dataset.lang;
     });
-    const row = buildRowMap()[i];
-    const box = row && ((lang && row.by[lang]) || Object.values(row.by).find(Boolean));
-    cur = i;
-    apply(false, true); // 왼쪽 칸이 다시 보이게(저장된 "슬라이드만" 상태도 꺼짐)
-    if (!box) return;
-    const jump = () => {
-      if (!box.isConnected) return;
-      box.scrollIntoView({ behavior: "auto", block: "center", inline: "nearest" }); // 순간이동: 부드러운 스크롤 없이
-      if (typeof flash === "function") flash(box);
-      if (box.dataset.ref) { if (typeof selectRefRow === "function") selectRefRow(box, false); return; } // 성경 조각은 수정하지 않고 줄만 선택
-      const ta = box.querySelector("textarea");
-      if (ta) ta.focus({ preventScroll: true });
-    };
-    jump();
-    requestAnimationFrame(jump); // 배치·글자 맞춤이 끝난 뒤 한 번 더 자리를 맞춤
+    jumpToSource(i, lang);
   });
   window.viewOnlySetCur = i => { cur = i; mark(); }; // 번호로 이동(18-goto-slide.js)에서 "지금 슬라이드"를 맞출 때
   new MutationObserver(() => { if (isOn()) requestAnimationFrame(mark); }).observe(right, { childList: true });
@@ -124,6 +148,19 @@
       const cp = document.getElementById("composePanel");
       if (cp && !cp.hidden) return;                                         // 슬라이드 구성 패널도 먼저 닫힘
       apply(false, true);
+      return;
+    }
+    if (e.key === "Enter") { // 방향키로 고른 슬라이드에서 Enter → 그 슬라이드의 원문 조각으로 이동
+      if (!isOn() || appMode !== "slide" || e.defaultPrevented || e.repeat) return;
+      if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+      const t = e.target;
+      if (t && (t.isContentEditable || /^(TEXTAREA|INPUT|SELECT|BUTTON|A)$/.test(t.tagName))) return;
+      if (document.querySelector(".patch-overlay.open")) return;
+      const cp = document.getElementById("composePanel");
+      if (cp && !cp.hidden) return;
+      if (!blocks().length) return;
+      e.preventDefault();
+      jumpToSource(Math.min(cur, blocks().length - 1));
       return;
     }
     const K = { ArrowLeft: -1, ArrowUp: -1, ArrowRight: 1, ArrowDown: 1 };
