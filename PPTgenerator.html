@@ -719,6 +719,8 @@ html[data-mode="db"] .slide-only{display:none !important;}
 @media (prefers-reduced-motion:reduce){.mac-menu{animation:none;}}
 .imp-modal{max-width:560px;}
 .imp-pick{margin-bottom:12px; gap:8px 16px;}
+.imp-where{display:flex; align-items:center; gap:10px; margin:0 0 10px; font-size:.82rem; color:var(--sub);}
+.imp-where .seg button:disabled{opacity:.45; cursor:default;}
 .imp-box{padding:10px 13px; border-radius:10px; background:color-mix(in srgb,var(--ink) 5%,transparent); min-height:3.1em; box-sizing:border-box;}
 .imp-box .imp-sum{margin:0; font-size:.82rem; font-weight:600; color:var(--ink);}
 .imp-box .imp-prev{margin:3px 0 0; font-size:.78rem; line-height:1.45; color:var(--sub); word-break:keep-all;}
@@ -751,9 +753,7 @@ html[data-mode="db"] .slide-only{display:none !important;}
 .box.bible{cursor:pointer;}
 .box.bible textarea{pointer-events:none; -webkit-user-select:none; user-select:none; cursor:pointer;}
 .box.bible:focus{outline:none;}
-/* 성경 조각도 오른쪽 위에 "슬라이드 N" 버튼을 보여 줌(누르면 그 슬라이드로 이동). 색은 성경 조각의 보라색에 맞춤 */
-.box.bible .box-link{color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:color-mix(in srgb,var(--bible) 18%,transparent);}
-.box.bible .box-link:hover{background:color-mix(in srgb,var(--bible) 30%,transparent);}
+/* 성경 조각도 오른쪽 위에 "슬라이드 N" 버튼을 보여 줌(누르면 그 슬라이드로 이동). 모양은 일반 조각과 같음 */
 /* 선택한 성경 줄: 바깥으로 번지는 빛 대신 상자 안쪽 가는 테두리 + 옅은 배경(칸 밖으로 새지 않음) */
 .box.ref-sel{box-shadow:inset 0 0 0 1.5px var(--accent) !important; background:color-mix(in srgb,var(--accent) 9%,var(--panel)) !important;}
 .dbstat{font-size:.76rem; color:var(--sub);}
@@ -774,19 +774,10 @@ html[data-mode="db"] .ref-tag:empty{display:none;}
 .row[data-hasref="1"]::before{height:calc(var(--ref-h) * 1cqh + var(--font-cqh, 10.2) * 1cqh * var(--fit-scale, 1) * var(--pad-y, 0));}
 html[data-mode="db"] .row::before{height:calc(var(--ref-h) * 1cqh + var(--font-cqh, 10.2) * 1cqh * var(--fit-scale, 1) * var(--pad-y, 0));}
 
-/* 성경에서 불러온 조각·슬라이드: 보라색 배경 + 굵은 왼쪽 막대 + "번호 · 책 장:절" 표시 → 내가 쓴 원고와 한눈에 구분 */
-.box.bible{background:color-mix(in srgb,var(--bible) 5%,var(--panel));
-  box-shadow:0 0 0 .5px color-mix(in srgb,var(--bible) 38%,transparent);}
-.box.bible::before{opacity:1; background:var(--bible);} /* 굵은 막대 대신 일반 조각의 선택 막대와 같은 가는 막대 */
-.box.bible:focus-within{box-shadow:inset 0 0 0 1.5px color-mix(in srgb,var(--accent) 70%,transparent);}
-.box.bible .box-num{left:14px; padding:0; max-width:calc(100% - 100px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
-  font-size:.66rem; font-weight:600; color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:transparent;}
+/* 성경에서 불러온 조각·슬라이드: 디자인은 일반 조각과 같고, 왼쪽 위 번호 동그라미만 보라색 */
+.box.bible .box-num{max-width:calc(100% - 100px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  color:color-mix(in srgb,var(--bible) 88%,var(--ink)); background:color-mix(in srgb,var(--bible) 18%,transparent);}
 .box.bible .box-num[data-ref]::after{content:" · " attr(data-ref); font-weight:500; color:color-mix(in srgb,var(--ink) 62%,transparent);} /* 번호만 보라색, 구절 이름은 차분한 글자색 */
-.box.bible textarea{padding-left:14px;}
-.slide-block.bible .slide-grip{background:color-mix(in srgb,var(--bible) 7%,var(--panel));
-  box-shadow:inset 3px 0 0 var(--bible),0 0 0 .5px color-mix(in srgb,var(--bible) 40%,transparent);}
-.slide-block.bible .sg-ref{background:color-mix(in srgb,var(--bible) 16%,transparent); color:color-mix(in srgb,var(--bible) 88%,var(--ink)); font-weight:600; border-radius:999px; padding:1px 9px;}
-.slide-block.bible .row{box-shadow:0 0 0 1.5px color-mix(in srgb,var(--bible) 55%,transparent);}
 
 /* ─────────────── 7단계 · 맥 스타일 마무리 (아이콘·확인 시트·분할 버튼·커서) ─────────────── */
 /* 단색 선 아이콘(SF Symbols 느낌): 글자 색을 그대로 따라감 */
@@ -943,13 +934,50 @@ html[data-view="slides"] .slide-block{max-width:none; margin:0;}
 html[data-view="slides"] .slide-block .row{max-width:none;}
 html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨겨져 있어 이동할 곳이 없음 */
 @media (max-width:860px){html[data-view="slides"] .right{grid-template-columns:1fr;}}
+#gotoBtn{padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
+#gotoBtn .ic{width:.95em; height:.95em;}
+.goto-pop{position:fixed; z-index:70; width:230px; padding:12px 14px 14px; box-sizing:border-box; border-radius:12px; font-size:.8rem; color:var(--ink);
+  background:color-mix(in srgb,var(--panel) 88%,transparent); -webkit-backdrop-filter:saturate(180%) blur(24px); backdrop-filter:saturate(180%) blur(24px);
+  box-shadow:0 0 0 .5px var(--line), 0 14px 36px rgba(0,0,0,.3);}
+.goto-pop .gp-label{display:block; font-weight:600; margin-bottom:8px;}
+.goto-pop .gp-row{display:flex; gap:8px;}
+.goto-pop .gp-input{flex:1; min-width:0; box-sizing:border-box; padding:5px 8px; font:inherit; color:var(--ink); background:var(--bg); border:1px solid var(--line); border-radius:8px;}
+.goto-pop .gp-input:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
+.goto-pop .gp-go{flex:none; padding:4px 12px;}
+.find-bar{position:fixed; z-index:60; display:flex; align-items:center; gap:6px; box-sizing:border-box; padding:7px 8px 7px 10px; border-radius:12px; font-size:.8rem; color:var(--ink);
+  background:color-mix(in srgb,var(--panel) 88%,transparent); -webkit-backdrop-filter:saturate(180%) blur(24px); backdrop-filter:saturate(180%) blur(24px);
+  box-shadow:0 0 0 .5px var(--line), 0 10px 28px rgba(0,0,0,.28);}
+.find-bar .fb-input{flex:1; min-width:0; box-sizing:border-box; padding:4px 8px; font:inherit; color:var(--ink); background:var(--bg); border:1px solid var(--line); border-radius:8px;}
+.find-bar .fb-input:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
+.find-bar .fb-count{flex:none; min-width:4.2em; text-align:center; font-size:.78rem; font-weight:600; color:var(--ink); white-space:nowrap; font-variant-numeric:tabular-nums;}
+.find-bar .fb-count.none{color:var(--danger,#c0392b);}
+.find-bar .fb-btn{flex:none; border:0; border-radius:7px; padding:3px 7px; font:inherit; font-size:.72rem; line-height:1.4; color:var(--sub); background:color-mix(in srgb,var(--ink) 7%,transparent); cursor:pointer;}
+.find-bar .fb-btn:hover:not(:disabled){color:var(--ink); background:color-mix(in srgb,var(--ink) 14%,transparent);}
+.find-bar .fb-btn:disabled{opacity:.4; cursor:default;}
+.find-bar .fb-btn:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
+.box.find-hit{outline:2px solid color-mix(in srgb,var(--accent) 38%,transparent); outline-offset:-2px;}
+.box.find-cur{outline:2.5px solid var(--accent); outline-offset:-2px;}
+.box.find-hit>textarea{position:relative; z-index:1;}
+.find-mirror{position:absolute; left:0; top:0; right:0; margin:0; border:0; box-sizing:border-box; white-space:pre-wrap; overflow-wrap:break-word; word-break:normal; overflow:hidden; color:transparent; pointer-events:none; z-index:0;}
+.find-mirror mark{color:transparent; background:rgba(255,212,0,.55); border-radius:3px;}
+.find-mirror mark.cur{background:rgba(255,149,0,.8); box-shadow:0 0 0 1.5px rgba(255,149,0,.8);}
+::highlight(find-all){background:#ffd60a; color:#000;}
+::highlight(find-cur){background:#ff9500; color:#000;}
+.slide-block.find-hit{outline:2px solid color-mix(in srgb,var(--accent) 38%,transparent); outline-offset:2px; border-radius:10px;}
+.slide-block.find-cur{outline:3px solid var(--accent); outline-offset:2px; border-radius:10px;}
+#viewFsBtn{flex:none; white-space:nowrap; padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
+#viewFsBtn .ic{width:.95em; height:.95em;}
+#viewFsBtn[hidden]{display:none;}
+html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); outline-offset:4px; border-radius:12px;}
+.right-wrap:fullscreen{background:var(--bg);}
+.right-wrap:-webkit-full-screen{background:var(--bg);}
 #viewOnlyBtn{flex:none; white-space:nowrap; padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
 #viewOnlyBtn .ic{width:.95em; height:.95em;}
 
 /* ── 슬라이드 구성 줄: 언어 버튼 4개가 어떤 너비에서도 한 줄 ──
    줄바꿈을 막고, 줄이 좁아질수록 장식(⠿ 손잡이·꼬리표 → 색 점)부터 차례로 줄인다. 그래도 모자라면 칩 줄만 옆으로 밀어서 본다. */
 .right-head{flex-wrap:nowrap; container:rh / inline-size;}
-.rh-title,#composeToggle,.rh-bible,#viewOnlyBtn{flex:none; white-space:nowrap;}
+.rh-title,#composeToggle,.rh-bible,#viewOnlyBtn,#gotoBtn{flex:none; white-space:nowrap;}
 .rh-chips{flex-wrap:nowrap; gap:4px; overflow-x:auto; scrollbar-width:none;}
 .rh-chips::-webkit-scrollbar{display:none;}
 .rh-chip,.rh-excl{flex:none; white-space:nowrap;}
@@ -961,7 +989,7 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 @container rh (max-width:660px){
   .rh-chip i{display:none;}
   .rh-chip{padding:1px 6px;}
-  #viewOnlyBtn{padding:2px 6px;}
+  #viewOnlyBtn,#gotoBtn{padding:2px 6px;}
   #composeToggle{padding-inline:6px;}
 }
 
@@ -973,6 +1001,9 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 .tips-more .ic{width:.95em; height:.95em;}
 .tips-more:hover,.tips-more[aria-expanded="true"]{color:var(--ink); background:color-mix(in srgb,var(--ink) 13%,transparent);}
 .tips-more:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
+@container tips (max-width:2200px){ .tips-list span:nth-child(10){display:none;} }
+@container tips (max-width:2050px){ .tips-list span:nth-child(9){display:none;} }
+@container tips (max-width:1900px){ .tips-list span:nth-child(8){display:none;} }
 @container tips (max-width:1780px){ .tips-list span:nth-child(6){display:none;} }
 @container tips (max-width:1530px){ .tips-list span:nth-child(5){display:none;} }
 @container tips (max-width:1230px){ .tips-list span:nth-child(7){display:none;} }
@@ -986,7 +1017,7 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 </style>
 </head>
 <body>
-<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs><symbol id="i-slides" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></symbol><symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.5C10.5 5 8 4.5 4 4.5v13c4 0 6.5.5 8 2 1.5-1.5 4-2 8-2v-13c-4 0-6.5.5-8 2zM12 6.5v13"/></symbol><symbol id="i-code" viewBox="0 0 24 24"><path d="M9 4C7 4 6.5 5 6.5 7v2c0 1.5-.8 2.5-2.5 3 1.7.5 2.5 1.5 2.5 3v2c0 2 .5 3 2.5 3M15 4c2 0 2.5 1 2.5 3v2c0 1.5.8 2.5 2.5 3-1.7.5-2.5 1.5-2.5 3v2c0 2-.5 3-2.5 3"/></symbol><symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M10 4h4M6.5 7l.8 12a2 2 0 0 0 2 1.9h5.4a2 2 0 0 0 2-1.9l.8-12M10 11v6M14 11v6"/></symbol><symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.7h.01"/></symbol><symbol id="i-server" viewBox="0 0 24 24"><rect x="3.5" y="4" width="17" height="6.5" rx="2"/><rect x="3.5" y="13.5" width="17" height="6.5" rx="2"/><path d="M7.5 7.2h.01M7.5 16.8h.01"/></symbol><symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.5l7 2.5v5.5c0 4.3-3 7.6-7 9-4-1.4-7-4.7-7-9V6z"/><path d="M9 12l2 2 4-4"/></symbol><symbol id="i-clipboard" viewBox="0 0 24 24"><rect x="5" y="4.5" width="14" height="16.5" rx="2.5"/><path d="M9 4.5V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v.5M9 10h6M9 14h6"/></symbol><symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.6 3.8 5.6 3.8 9s-1.1 6.4-3.8 9c-2.7-2.6-3.8-5.6-3.8-9S9.3 5.6 12 3z"/></symbol><symbol id="i-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></symbol><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol><symbol id="i-save" viewBox="0 0 24 24"><path d="M12 4v10M8 10.5l4 4 4-4M4.5 15v2.5a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V15"/></symbol><symbol id="i-folder" viewBox="0 0 24 24"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></symbol><symbol id="i-import" viewBox="0 0 24 24"><path d="M12 3.5v11M8 11l4 4 4-4"/><rect x="4" y="16.5" width="16" height="4" rx="1.5"/></symbol><symbol id="i-record" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="3" fill="currentColor"/></symbol><symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></symbol><symbol id="i-checkc" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.3l2.8 2.8L16 9.5"/></symbol><symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 4l9 15.5H3z"/><path d="M12 10v4M12 17h.01"/></symbol><symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 3L5 13.5h6L10 21l9-11h-6z"/></symbol><symbol id="i-flask" viewBox="0 0 24 24"><path d="M9.5 3.5h5M10.5 3.5v6L5 18.5a1.8 1.8 0 0 0 1.6 2.5h10.8a1.8 1.8 0 0 0 1.6-2.5L13.5 9.5v-6"/></symbol><symbol id="i-sparkles" viewBox="0 0 24 24"><path d="M12 3.5l1.8 5.2 5.2 1.8-5.2 1.8L12 17.5l-1.8-5.2L5 10.5l5.2-1.8z"/><path d="M19 3v3M17.5 4.5h3"/></symbol><symbol id="i-terminal" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M7 9.5l3 2.5-3 2.5M12.5 15H17"/></symbol><symbol id="i-books" viewBox="0 0 24 24"><path d="M4 4h3.5v16H4zM9.5 4H13v16H9.5zM15 5.5l3.3-.9 3 14.5-3.3.9z"/></symbol><symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 8l8 5.5L20 8"/></symbol><symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 3.5h6l-1 5 3 3V13H7v-1.5l3-3z"/><path d="M12 13v7.5"/></symbol><symbol id="i-split" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M10 4.5v15"/></symbol></defs></svg>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs><symbol id="i-slides" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></symbol><symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.5C10.5 5 8 4.5 4 4.5v13c4 0 6.5.5 8 2 1.5-1.5 4-2 8-2v-13c-4 0-6.5.5-8 2zM12 6.5v13"/></symbol><symbol id="i-code" viewBox="0 0 24 24"><path d="M9 4C7 4 6.5 5 6.5 7v2c0 1.5-.8 2.5-2.5 3 1.7.5 2.5 1.5 2.5 3v2c0 2 .5 3 2.5 3M15 4c2 0 2.5 1 2.5 3v2c0 1.5.8 2.5 2.5 3-1.7.5-2.5 1.5-2.5 3v2c0 2-.5 3-2.5 3"/></symbol><symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M10 4h4M6.5 7l.8 12a2 2 0 0 0 2 1.9h5.4a2 2 0 0 0 2-1.9l.8-12M10 11v6M14 11v6"/></symbol><symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.7h.01"/></symbol><symbol id="i-server" viewBox="0 0 24 24"><rect x="3.5" y="4" width="17" height="6.5" rx="2"/><rect x="3.5" y="13.5" width="17" height="6.5" rx="2"/><path d="M7.5 7.2h.01M7.5 16.8h.01"/></symbol><symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.5l7 2.5v5.5c0 4.3-3 7.6-7 9-4-1.4-7-4.7-7-9V6z"/><path d="M9 12l2 2 4-4"/></symbol><symbol id="i-clipboard" viewBox="0 0 24 24"><rect x="5" y="4.5" width="14" height="16.5" rx="2.5"/><path d="M9 4.5V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v.5M9 10h6M9 14h6"/></symbol><symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.6 3.8 5.6 3.8 9s-1.1 6.4-3.8 9c-2.7-2.6-3.8-5.6-3.8-9S9.3 5.6 12 3z"/></symbol><symbol id="i-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></symbol><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol><symbol id="i-save" viewBox="0 0 24 24"><path d="M12 4v10M8 10.5l4 4 4-4M4.5 15v2.5a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V15"/></symbol><symbol id="i-folder" viewBox="0 0 24 24"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></symbol><symbol id="i-import" viewBox="0 0 24 24"><path d="M12 3.5v11M8 11l4 4 4-4"/><rect x="4" y="16.5" width="16" height="4" rx="1.5"/></symbol><symbol id="i-record" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="3" fill="currentColor"/></symbol><symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></symbol><symbol id="i-checkc" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.3l2.8 2.8L16 9.5"/></symbol><symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 4l9 15.5H3z"/><path d="M12 10v4M12 17h.01"/></symbol><symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 3L5 13.5h6L10 21l9-11h-6z"/></symbol><symbol id="i-flask" viewBox="0 0 24 24"><path d="M9.5 3.5h5M10.5 3.5v6L5 18.5a1.8 1.8 0 0 0 1.6 2.5h10.8a1.8 1.8 0 0 0 1.6-2.5L13.5 9.5v-6"/></symbol><symbol id="i-sparkles" viewBox="0 0 24 24"><path d="M12 3.5l1.8 5.2 5.2 1.8-5.2 1.8L12 17.5l-1.8-5.2L5 10.5l5.2-1.8z"/><path d="M19 3v3M17.5 4.5h3"/></symbol><symbol id="i-terminal" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M7 9.5l3 2.5-3 2.5M12.5 15H17"/></symbol><symbol id="i-books" viewBox="0 0 24 24"><path d="M4 4h3.5v16H4zM9.5 4H13v16H9.5zM15 5.5l3.3-.9 3 14.5-3.3.9z"/></symbol><symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 8l8 5.5L20 8"/></symbol><symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 3.5h6l-1 5 3 3V13H7v-1.5l3-3z"/><path d="M12 13v7.5"/></symbol><symbol id="i-split" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M10 4.5v15"/></symbol><symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></symbol><symbol id="i-hash" viewBox="0 0 24 24"><path d="M5 9h14M5 15h14M10 4L8 20M16 4l-2 16"/></symbol><symbol id="i-expand" viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></symbol></defs></svg>
 
 <div class="patch-overlay" id="patchOverlay">
   <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="patchTitle" tabindex="-1">
@@ -1201,13 +1232,14 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 <div class="patch-overlay" id="impOverlay">
   <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="impTitle" tabindex="-1">
     <h2 id="impTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB에서 불러오기</h2>
-    <p data-en="Pick the Bible, then chapter, then verse, and they&#x27;re added to the end of your script as pieces. Click &lt;b&gt;start verse → end verse&lt;/b&gt; to select a range; to add just one verse, click the same verse again. Dimmed verses have no content yet and can&#x27;t be picked. A verse with several pages looks like 16 (a) · 16 (b), but slides show only the number." class="patch-sub">성경 → 장 → 절 순서로 고르면 원고 맨 뒤에 조각으로 들어가요. 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
+    <p data-en="Pick the Bible, then chapter, then verse, and they&#x27;re added as pieces. You can choose where below (default: the end of your script). Click &lt;b&gt;start verse → end verse&lt;/b&gt; to select a range; to add just one verse, click the same verse again. Dimmed verses have no content yet and can&#x27;t be picked. A verse with several pages looks like 16 (a) · 16 (b), but slides show only the number." class="patch-sub">성경 → 장 → 절 순서로 고르면 조각으로 들어가요. 넣을 위치는 아래에서 고를 수 있어요(기본은 원고 맨 뒤). 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="impBook"></select></label>
       <label class="field"><span>장</span><select id="impChap"></select></label>
       <div class="field"><span>절</span><select id="impFrom" title="시작 절"></select><select id="impTo" title="끝 절"></select></div>
       <button type="button" class="btn quiet" id="impAll" title="이 장에서 내용이 있는 절을 처음부터 끝까지 고릅니다">장 전체</button>
     </div>
+    <div class="imp-where"><span class="imp-where-l">넣을 위치</span><span class="seg" id="impWhereSeg"><button type="button" data-where="end" class="active">원고 맨 뒤</button><button type="button" data-where="after" disabled>선택한 조각 아래</button></span></div>
     <div class="imp-box"><p class="patch-sub imp-sum" id="impSum"></p><p class="imp-prev" id="impPrev"></p></div>
     <div class="copy-actions">
       <button type="button" class="btn primary" id="impGo">원고 뒤에 넣기</button>
@@ -1348,6 +1380,7 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
       </div>
     </details>
     <div class="toolbar-right">
+      <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
       <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
       <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
       <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
@@ -1379,6 +1412,9 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
   <span><kbd>Shift</kbd>+<kbd>Enter</kbd> 줄바꿈</span>
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+click to pick several pieces → &lt;kbd&gt;Delete&lt;/kbd&gt; to delete"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+클릭 여러 조각 선택 → <kbd>Delete</kbd> 삭제</span>
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;+&lt;/kbd&gt;/&lt;kbd&gt;−&lt;/kbd&gt; Zoom in / out"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>+</kbd>/<kbd>−</kbd> 화면 확대·축소</span>
+  <span data-en="Slides only (&lt;kbd&gt;Esc&lt;/kbd&gt; to return) · &lt;kbd&gt;←&lt;/kbd&gt;&lt;kbd&gt;→&lt;/kbd&gt; next / previous slide">슬라이드만 보기 (<kbd>Esc</kbd>로 돌아오기) · <kbd>←</kbd><kbd>→</kbd> 슬라이드 넘기기</span>
+  <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;F&lt;/kbd&gt; Find in script · &lt;kbd&gt;Enter&lt;/kbd&gt; next · &lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;Enter&lt;/kbd&gt; previous"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd> 원고 찾기 · <kbd>Enter</kbd> 다음 · <kbd>Shift</kbd>+<kbd>Enter</kbd> 이전</span>
+  <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;G&lt;/kbd&gt; Go to slide number"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>G</kbd> 슬라이드 번호로 이동</span>
 </div>
   <button type="button" class="tips-more" id="tipsMoreBtn" aria-expanded="false" title="모든 사용 팁 보기"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>툴팁</button>
 </div>
@@ -1389,8 +1425,10 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
       <span class="rh-title">슬라이드 구성</span>
       <span class="rh-chips" id="composeChips" title="이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요"></span>
       <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">설정</button>
-      <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 지금 원고 맨 뒤에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
+      <button type="button" class="btn quiet slide-only" id="gotoBtn" aria-expanded="false" title="슬라이드 번호를 입력해 바로 이동해요 (Ctrl/⌘+G)"><svg class="ic ic-hash" aria-hidden="true"><use href="#i-hash"/></svg>이동</button>
+      <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 원고 맨 뒤나 선택한 조각 아래에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
       <button type="button" class="btn quiet" id="viewOnlyBtn" aria-pressed="false" title="왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드만</button>
+      <button type="button" class="btn quiet" id="viewFsBtn" hidden aria-pressed="false" title="슬라이드를 화면 가득 보여 줘요 (끝내기: Esc)"><svg class="ic ic-expand" aria-hidden="true"><use href="#i-expand"/></svg>전체화면</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
         <p class="help">위에 있는 언어가 슬라이드에서도 위쪽에 표시돼요. ⠿를 잡고 끌어서 순서를 바꿔 보세요.</p>
@@ -1414,13 +1452,15 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 <script defer src="js/03-slides.js?v=20261003c"></script>
 <script defer src="js/04-layout-copy.js?v=20261002h"></script>
 <script defer src="js/05-storage.js?v=20261002f"></script>
-<script defer src="js/06-bible-db.js?v=20261003a"></script>
+<script defer src="js/06-bible-db.js?v=20261003b"></script>
 <script defer src="js/07-bible-copy.js?v=20261002g"></script>
 <script defer src="js/08-welcome-demo.js?v=20261002f"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
 <script id="i18nModule" defer src="js/10-i18n.js?v=20261003b"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
-<script defer src="js/12-view-only.js?v=20261003f"></script>
+<script defer src="js/12-view-only.js?v=20261003hb"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>
+<script defer src="js/18-goto-slide.js?v=20261003a"></script>
+<script defer src="js/19-find.js?v=20261003e"></script>
 </body>
 </html>

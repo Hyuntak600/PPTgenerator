@@ -17,7 +17,7 @@
     if (!B) { console.error("[성경 DB] " + [PRIMARY].concat(FALLBACKS).join(", ") + " 중 어느 것도 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요."); return; }
     if (window.__bibleLegacyRewrite && typeof B.path === "function" && !B.__p) { // 옛 "bible/" 경로를 내놓는 bibledb.js 대비(js/13-bible-compat.js와 짝)
       var o = B.path;
-      B.path = function () { var r = o.apply(this, arguments); return typeof r === "string" ? r.replace(/(^|\/)bible\//, "$1bibleDB/") : r; };
+      B.path = function () { var r = o.apply(this, arguments); if (typeof r !== "string") return r; var f = r.replace(/(^|\/)bible\//, "$1bibleDB/"); if (f !== r) { window.__bibleLegacyHits = (window.__bibleLegacyHits || 0) + 1; try { console.warn("[성경 DB] bibledb.js가 옛 경로를 내놓아 고쳤어요: " + r + " → " + f); } catch (e) { /* 무시 */ } } return f; };
       B.__p = 1;
     }
     console.info("[성경 DB] 불러온 파일: " + window.__bibleDbSource);

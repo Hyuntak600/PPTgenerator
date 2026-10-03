@@ -241,7 +241,7 @@ left.addEventListener("keydown", e => {
   if (e.key === "Enter" && !e.shiftKey && !e.isComposing) { // 한글 확정 Enter도 그 자리에서 바로 조각을 나눔(의도한 동작이라 keyCode 229는 일부러 보지 않음)
     e.preventDefault();
     if (wrap.dataset.ref) { showToast("성경 구절은 한 슬라이드로 고정돼 있어서 나눌 수 없어요.", true); return; } // 성경 조각은 나누지 않음
-    pushUndo();
+    pushUndo("문장 나누기");
     const pos = ta.selectionStart;
     const head = ta.value.slice(0, pos), tail = ta.value.slice(pos);
     ta.value = head;
@@ -717,7 +717,7 @@ function prevBoxSibling(boxEl) {
   return sib;
 }
 function mergeIntoPrevious(curr, prev) {
-  pushUndo();
+  pushUndo("조각 합치기");
   const col = curr.closest(".col");
   const currTa = curr.querySelector("textarea");
   const prevTa = prev.querySelector("textarea");
@@ -763,15 +763,15 @@ const undoStack = [], redoStack = [], UNDO_MAX = 100;
 let lastTypeAt = 0, lastTypeBox = null;
 const undoBtn = document.getElementById("undoBtn"), redoBtn = document.getElementById("redoBtn");
 function updateUndoBtn() { undoBtn.disabled = !undoStack.length; redoBtn.disabled = !redoStack.length; }
-function takeSnap() {
+function takeSnap(label) { // label = 이 상태로 되돌리게 될 "동작 이름"(되돌리기 알림에 씀)
   const cols = {};
   left.querySelectorAll(":scope > .col").forEach(c => {
     cols[c.dataset.lang] = [...c.querySelectorAll(":scope > .box")].map(b => ({ id: b.id, text: b._ta.value, ref: b.dataset.ref || "" }));
   });
-  return { cols, opts: JSON.parse(JSON.stringify(slideOpts)) };
+  return { cols, opts: JSON.parse(JSON.stringify(slideOpts)), label: label || "" };
 }
-function pushUndo() { // 바꾸기 "직전" 상태를 저장
-  undoStack.push(takeSnap()); if (undoStack.length > UNDO_MAX) undoStack.shift();
+function pushUndo(label) { // 바꾸기 "직전" 상태를 저장 (label: "구절 삭제"처럼 무엇을 바꾸는지 짧게 → Ctrl+Z 알림에 나옴)
+  undoStack.push(takeSnap(label)); if (undoStack.length > UNDO_MAX) undoStack.shift();
   redoStack.length = 0; lastTypeAt = 0; updateUndoBtn();
 }
 // 글 입력은 잠깐 멈출 때마다(1초) 한 단계로 묶어서 저장
@@ -779,7 +779,7 @@ left.addEventListener("beforeinput", e => {
   const w = boxOfEvent(e); if (!w) return;
   const typing = /^(insertText|insertCompositionText|deleteContentBackward|deleteContentForward)$/.test(e.inputType || "");
   const now = Date.now();
-  if (!typing || now - lastTypeAt > 1000 || lastTypeBox !== w) pushUndo();
+  if (!typing || now - lastTypeAt > 1000 || lastTypeBox !== w) pushUndo(!typing ? (e.inputType === "insertFromPaste" ? "붙여넣기" : e.inputType === "deleteByCut" ? "잘라내기" : "글 수정") : "글 입력");
   lastTypeAt = now; lastTypeBox = w;
 });
 function applySnap(s) {
@@ -820,13 +820,19 @@ function applySnap(s) {
   syncSlides(); refreshInfo(); saveStateDebounced();
   if (focusTa) { focusTa.focus(); const n = focusTa.value.length; focusTa.setSelectionRange(n, n); }
 }
+// "구절 삭제" + 을/를 → "구절 삭제를". 받침을 보고 고르고, 한글이 아니면 "을(를)"
+function withJosa(w) { const c = w.charCodeAt(w.length - 1) - 0xAC00; return w + (c < 0 || c > 11171 ? "을(를)" : c % 28 ? "을" : "를"); }
 function undo() {
   if (!undoStack.length) { showToast("되돌릴 내용이 없어요."); return; }
-  redoStack.push(takeSnap()); applySnap(undoStack.pop()); lastTypeAt = 0; updateUndoBtn(); showToast("이전으로 되돌렸어요.");
+  const s = undoStack.pop();
+  redoStack.push(takeSnap(s.label)); applySnap(s); lastTypeAt = 0; updateUndoBtn();
+  showToast(s.label ? withJosa(s.label) + " 되돌렸어요." : "이전으로 되돌렸어요.");
 }
 function redo() {
   if (!redoStack.length) { showToast("다시 할 내용이 없어요."); return; }
-  undoStack.push(takeSnap()); applySnap(redoStack.pop()); lastTypeAt = 0; updateUndoBtn(); showToast("다시 적용했어요.");
+  const s = redoStack.pop();
+  undoStack.push(takeSnap(s.label)); applySnap(s); lastTypeAt = 0; updateUndoBtn();
+  showToast(s.label ? withJosa(s.label) + " 다시 적용했어요." : "다시 적용했어요.");
 }
 undoBtn.addEventListener("click", undo);
 redoBtn.addEventListener("click", redo);
@@ -834,7 +840,10 @@ redoBtn.addEventListener("click", redo);
 function deletePicked() {
   [...picked].forEach(b => { if (b.dataset.ref) setPicked(b, false); }); // 혹시 섞여 있어도 성경 조각은 여기서 지우지 않음
   const n = picked.size; if (!n) return;
-  pushUndo();
+  if (appMode === "slide" && [...picked].some(b => NON_BLANK.test(b._ta.value))) { // 글이 든 조각을 지우기 직전 상태를 자동 백업(새로고침 후에도 🛡️ 백업·복구에서 되돌릴 수 있게)
+    const before = serializeState(); if (textCount(before) > 0) pushBackup(before, "조각 삭제 직전", true);
+  }
+  pushUndo(n > 1 ? n + "개 조각 삭제" : "조각 삭제");
   isRestoring = true;
   try {
     left.querySelectorAll(":scope > .col").forEach(col => {
@@ -849,7 +858,7 @@ function deletePicked() {
   clearPicked();
   left.querySelectorAll(":scope > .col").forEach(c => { renumberColumn(c); resetColSelPreview(c); });
   syncSlides(); refreshInfo(); saveStateDebounced();
-  showToast(n + "개 조각을 지웠어요. Ctrl/⌘+Z로 되돌릴 수 있어요.");
+  showToast(n + "개 조각을 지웠어요. Ctrl/⌘+Z 또는 🛡️ 백업·복구에서 되돌릴 수 있어요.");
 }
 document.addEventListener("keydown", e => {
   if (imeBusy(e) || document.querySelector(".patch-overlay.open")) return;
@@ -894,7 +903,7 @@ document.getElementById("wipeBtn").addEventListener("click", wipeSlideLocalData)
 async function resetAll() {
   if (appMode === "db") { showToast("성경 DB 모드에서는 작업 내용 지우기를 쓸 수 없어요.", true); return; }
   if (!(await macConfirm("왼쪽 원고와 오른쪽 슬라이드가 모두 지워져요. 계속할까요?", { title: "작업 내용 지우기", ok: "지우기", danger: true }))) return;
-  pushUndo();
+  pushUndo("작업 내용 지우기");
   isRestoring = true;
   try {
     left.querySelectorAll(".box").forEach(b => b.remove());
@@ -995,7 +1004,7 @@ function deleteSlide(i) {
   const ref = readRefs()[i] || "";
   if (!ref) return; // 성경에서 불러온 슬라이드만 이 버튼으로 지움
   const before = serializeState(); if (textCount(before) > 0) pushBackup(before, "슬라이드 삭제 직전", true);
-  pushUndo(); // Ctrl+Z로도 되돌릴 수 있게(성경 표시·슬라이드별 설정까지 함께 복원됨)
+  pushUndo("구절 삭제"); // Ctrl+Z로도 되돌릴 수 있게(성경 표시·슬라이드별 설정까지 함께 복원됨)
   const row = buildRowMap()[i];
   isRestoring = true;
   try {

@@ -128,7 +128,7 @@
       showToast("이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.", true);
       return;
     }
-    pushUndo();
+    pushUndo("예시 넣기");
     const map = {}; LANGS.forEach(({ code }) => { map[code] = [VERSES[code]]; });
     fillColumns(map, true); // 왼쪽 칸을 채우면 오른쪽 슬라이드가 다시 그려짐
     const total = buildRowMap().length; // 슬라이드별 설정 자리(글자 크기·정렬)를 기본값으로 채워 둠(성경 불러오기와 같은 방식)

@@ -494,7 +494,7 @@ pkMake([dbVerse], () => { const o = dbVerse.options[dbVerse.selectedIndex]; retu
 // ---- 슬라이드 만들기 모드에서 성경 DB 구절 불러오기 ----
 // 성경·장·시작 절·끝 절을 드롭다운으로 고른다(처음엔 아무것도 선택돼 있지 않음). 시작 절만 고르면 그 절 하나, 끝 절까지 고르면 그 사이 전부.
 // 한 절이 여러 페이지면 드롭다운에는 "16 (a)", "16 (b)"로 나뉘어 보이지만, 조각에 붙는 표시는 "16a"로 저장하고 슬라이드에는 숫자(16)만 보인다(refDisplay).
-// 내용이 없는 절은 드롭다운에서 흐리게 보이고 고를 수 없다. 고른 페이지는 지금 원고 맨 뒤에 조각으로 붙는다(언어별 칸에 각 언어 글이 들어가고, N번 조각 = N번 슬라이드). 기존 원고는 그대로 두고, 넣기 직전 상태는 자동 백업.
+// 내용이 없는 절은 드롭다운에서 흐리게 보이고 고를 수 없다. 고른 페이지는 원고 맨 뒤(기본) 또는 선택한 조각 바로 아래에 조각으로 들어간다(언어별 칸에 각 언어 글이 들어가고, N번 조각 = N번 슬라이드). 기존 원고는 그대로 두고, 넣기 직전 상태는 자동 백업.
 const impOverlay = document.getElementById("impOverlay"), impBook = document.getElementById("impBook"), impChap = document.getElementById("impChap"),
       impFrom = document.getElementById("impFrom"), impTo = document.getElementById("impTo"), impAllBtn = document.getElementById("impAll"),
       impSum = document.getElementById("impSum"), impGo = document.getElementById("impGo"), impPrev = document.getElementById("impPrev");
@@ -562,27 +562,72 @@ async function impLoad() {
   if (impItems.length) { impAllBtn.disabled = false; impSum.textContent = "절을 골라 주세요."; impUpdateSum(); macSyncs.forEach(f => f()); }
   else { impSum.textContent = "이 장에는 아직 불러올 내용이 없어요."; impGo.disabled = true; }
 }
+// ---- 넣을 위치: "원고 맨 뒤"(기본) · "선택한 조각 아래" ----
+// 기준 조각 = 눌러 고른 성경 줄 → Ctrl/⌘+클릭으로 고른 조각 → 마지막으로 커서가 있던 조각 순서. 줄(슬라이드) 단위로 그 줄 바로 아래에 들어간다.
+let impAnchor = null, impLastBox = null, impWhere = "end";
+left.addEventListener("focusin", e => { const b = e.target.closest && e.target.closest(".box"); if (b) impLastBox = b; });
+function impFindAnchor() { // {box, explicit}: explicit = 사용자가 줄을 일부러 골라 둔 경우
+  if (refSelBox && refSelBox.isConnected) return { box: refSelBox, explicit: true };
+  const pk = [...picked].filter(b => b.isConnected);
+  if (pk.length) { const rows = buildRowMap(); pk.sort((x, y) => rowIndexOf(x, rows) - rowIndexOf(y, rows)); return { box: pk[pk.length - 1], explicit: true }; }
+  if (impLastBox && impLastBox.isConnected && left.contains(impLastBox)) return { box: impLastBox, explicit: false };
+  return { box: null, explicit: false };
+}
+function impWhereSync() {
+  const seg = document.getElementById("impWhereSeg"), aft = seg.querySelector('[data-where="after"]');
+  const i = impAnchor && impAnchor.isConnected ? rowIndexOf(impAnchor) : -1;
+  aft.disabled = i < 0;
+  aft.textContent = i < 0 ? "선택한 조각 아래" : "슬라이드 " + (i + 1) + " 아래";
+  aft.title = i < 0 ? "원고에서 조각을 하나 고르거나 커서를 두면 그 아래에 넣을 수 있어요" : "슬라이드 " + (i + 1) + " 바로 아래에 넣어요";
+  if (i < 0) impWhere = "end";
+  seg.querySelectorAll("button").forEach(b => b.classList.toggle("active", b.dataset.where === impWhere));
+  impGo.textContent = impWhere === "after" ? "선택한 조각 아래에 넣기" : "원고 뒤에 넣기";
+}
+// 줄 i 아래에 넣을 자리: s = 몇 번째 구간(성경 줄로 나뉜 덩어리), pre = 그 구간에서 앞에 남길 줄 수
+function impTarget(rows, i) {
+  let s = 0, start = 0;
+  for (let k = 0; k < i; k++) if (rows[k].anchor) { s++; start = k + 1; }
+  if (rows[i].anchor) return { s: s + 1, pre: 0 };
+  return { s, pre: i - start + 1 };
+}
+function impInsertIndex(refs, t) { // 한 언어 칸(조각 목록)에서 실제로 끼워 넣을 위치
+  const anc = []; refs.forEach((r, k) => { if (r) anc.push(k); });
+  const start = t.s === 0 ? 0 : (anc[t.s - 1] === undefined ? refs.length : anc[t.s - 1] + 1);
+  if (t.pre === 0) return start;
+  const end = anc[t.s] === undefined ? refs.length : anc[t.s];
+  return Math.min(start + t.pre, end);
+}
 function impImport() {
   const pickItems = impPicked(), picks = pickItems.map(x => x.page);
   if (!picks.length) return;
+  const rows0 = buildRowMap(), at = impWhere === "after" && impAnchor && impAnchor.isConnected ? rowIndexOf(impAnchor, rows0) : -1;
+  const tgt = at >= 0 ? impTarget(rows0, at) : null;
   const before = serializeState(); if (textCount(before) > 0) pushBackup(before, "성경 불러오기 직전", true);
-  pushUndo();
-  const map = columnsToMap(), out = {}, newOwn = {}, oldOwn = readOwnRefs();
+  pushUndo("성경 불러오기");
+  const map = columnsToMap(), out = {}, newOwn = {}, oldOwn = readOwnRefs(), insAt = {};
   LANGS.forEach(({ code }) => {
-    const base = (map[code] || []).slice(), refs = base.map((_, k) => (oldOwn[code] || [])[k] || "");
-    while (base.length && !NON_BLANK.test(base[base.length - 1]) && !refs[refs.length - 1]) { base.pop(); refs.pop(); } // 맨 뒤의 빈 조각은 버리고
-    out[code] = base.concat(picks.map(p => p[DB_FIELD[code]] || ""));      // 성경 조각은 모든 언어 칸의 맨 뒤에 붙임(기준점이라 같은 줄에 옴)
-    newOwn[code] = refs.concat(pickItems.map(x => x.ref));                 // 기존 표시는 그대로, 새 조각엔 "책 장:절" 표시
+    let base = (map[code] || []).slice(), refs = base.map((_, k) => (oldOwn[code] || [])[k] || "");
+    const add = picks.map(p => p[DB_FIELD[code]] || ""), addRefs = pickItems.map(x => x.ref);
+    if (!tgt) {
+      while (base.length && !NON_BLANK.test(base[base.length - 1]) && !refs[refs.length - 1]) { base.pop(); refs.pop(); } // 맨 뒤의 빈 조각은 버리고
+      insAt[code] = base.length;
+      base = base.concat(add); refs = refs.concat(addRefs);                  // 성경 조각은 모든 언어 칸의 맨 뒤에 붙임(기준점이라 같은 줄에 옴)
+    } else {
+      const idx = impInsertIndex(refs, tgt); insAt[code] = idx;               // 선택한 줄 아래: 그 구간을 둘로 나눠 사이에 끼움
+      base.splice(idx, 0, ...add); refs.splice(idx, 0, ...addRefs);
+    }
+    out[code] = base; newOwn[code] = refs;                                    // 기존 표시는 그대로, 새 조각엔 "책 장:절" 표시
   });
   fillColumns(out, true);
   applyOwnRefs(newOwn);
-  const total = buildRowMap().length, used = Math.max(0, total - picks.length);
+  const total = buildRowMap().length, n = picks.length, first = tgt ? at + 1 : Math.max(0, total - n);
+  if (tgt) { while (slideOpts.length < rows0.length) slideOpts.push({ size: 0, align: "" }); slideOpts.splice(first, 0, ...picks.map(() => ({ size: 0, align: "" }))); } // 뒤 슬라이드의 글자 크기·정렬이 같이 밀리게
   for (let k = 0; k < total; k++) if (!slideOpts[k]) slideOpts[k] = { size: 0, align: "" };
-  for (let k = used; k < total; k++) slideOpts[k].align = dbAlign; // 새 성경 슬라이드는 성경 DB 모드 정렬(기본 오른쪽)로
+  for (let k = first; k < first + n && k < total; k++) slideOpts[k].align = dbAlign; // 새 성경 슬라이드는 성경 DB 모드 정렬(기본 오른쪽)로
   syncSlides(); refreshInfo(); saveStateDebounced();
   impOverlay.classList.remove("open");
-  showToast(picks.length + "개 조각을 원고 뒤에 넣었어요.");
-  const col = left.querySelector(".col"), box = col && col.querySelectorAll(".box")[Math.max(0, (out[col.dataset.lang] || []).length - picks.length)];
+  showToast(tgt ? n + "개 조각을 슬라이드 " + (at + 1) + " 아래에 넣었어요." : n + "개 조각을 원고 뒤에 넣었어요.");
+  const col = left.querySelector(".col"), box = col && col.querySelectorAll(":scope > .box")[insAt[col.dataset.lang]];
   if (box) { box.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(box); }
 }
 function pkImpCtx() { // 성경 불러오기 창이 쓰는 선택기 값 묶음
@@ -619,6 +664,7 @@ function impInit() {
     impFrom.value = String(has[0]); impTo.value = String(has[has.length - 1]); impUpdateSum();
   });
   impGo.addEventListener("click", impImport);
+  document.getElementById("impWhereSeg").addEventListener("click", e => { const b = e.target.closest("button"); if (!b || b.disabled) return; impWhere = b.dataset.where; impWhereSync(); });
   const close = () => impOverlay.classList.remove("open");
   document.getElementById("impClose").addEventListener("click", close);
   impOverlay.addEventListener("click", e => { if (e.target === impOverlay) close(); });
@@ -628,6 +674,7 @@ document.getElementById("bibImpBtn").addEventListener("click", () => {
   impInit();
   const sel = impSel || dbLoadSel();
   impBook.value = sel.en; fillNum(impChap, BibleDB.book(sel.en).chapters, sel.ch);
+  const an = impFindAnchor(); impAnchor = an.box; impWhere = an.explicit ? "after" : "end"; impWhereSync(); // 줄을 일부러 골라 둔 때만 처음부터 "아래"로, 커서만 있으면 맨 뒤(전과 같음)
   impOverlay.classList.add("open"); impLoad();
 });
 
