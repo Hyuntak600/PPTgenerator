@@ -66,24 +66,8 @@
     if (i >= 0) { cur = i; mark(); }
   });
 
-  // 조각을 "바로 작업하기 좋은 자리"에 놓기: 위쪽의 칸 제목·번역 미리보기(고정 영역)에 가리지 않고, 아래쪽도 잘리지 않게
-  // 고정 영역을 뺀 보이는 부분의 가운데로 옮긴다. 조각이 보이는 부분보다 길면 맨 위를 고정 영역 바로 아래에 맞춤.
-  // 가로로도 그 칸이 화면 밖이면 안으로 끌어온다. (scrollIntoView는 고정 영역을 모르고 다른 바깥 스크롤까지 건드려서 직접 계산)
-  function placeBox(box) {
-    const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
-    if (!br.width && !br.height) return;
-    const col = box.closest(".col"), head = col && col.querySelector(".col-head");
-    const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 10 : 10, bottomInset = 16;
-    const viewH = left.clientHeight - topInset - bottomInset;
-    let dy;
-    if (br.height >= viewH) dy = br.top - (lr.top + topInset);                       // 긴 조각: 맨 위부터 보이게
-    else dy = (br.top + br.bottom) / 2 - (lr.top + topInset + viewH / 2);            // 보통: 보이는 부분의 한가운데
-    let dx = 0;
-    const cr = (col || box).getBoundingClientRect();
-    if (cr.left < lr.left + 8) dx = cr.left - lr.left - 14;
-    else if (cr.right > lr.right - 8) dx = Math.min(cr.right - lr.right + 14, cr.left - lr.left - 14);
-    left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: "auto" });
-  }
+  // 조각 자리 잡기는 03-slides.js의 placeBoxAtTop을 씀(평소 슬라이드 클릭 이동과 같은 위치 계산)
+  const placeBox = box => placeBoxAtTop(box, false);
 
   // 슬라이드 i번의 원문 조각으로 순간이동: 슬라이드만 보기를 끄고 그 칸에 커서를 둠(lang이 있으면 그 언어 칸, 없으면 그 줄의 첫 조각)
   function jumpToSource(i, lang) {
@@ -100,8 +84,16 @@
       const ta = box.querySelector("textarea");
       if (ta) { ta.focus({ preventScroll: true }); try { ta.setSelectionRange(0, 0); } catch (err) { /* 커서를 맨 앞에 둠: 긴 글이어도 맨 위부터 보이게 */ } }
     };
+    // 왼쪽 칸이 숨겨져 있는 동안 칸 너비가 0이 되어 조각 높이가 틀어져 있다. 그대로 자리를 잡으면 나중에 높이가 바로잡히며 엉뚱한 조각으로 밀리므로,
+    // 먼저 모든 조각의 높이와 줄 정렬을 지금 바로 계산해 두고(03-slides.js의 autoGrowSoon·alignRows와 같은 방식) 그 위에서 자리를 잡는다.
+    const tas = [...left.querySelectorAll(".box > textarea")];
+    tas.forEach(t => { t.style.height = "auto"; });
+    const hs = tas.map(t => t.scrollHeight);
+    tas.forEach((t, k) => { t.style.height = hs[k] + "px"; });
+    if (typeof alignRows === "function") alignRows();
     jump();
-    requestAnimationFrame(jump); // 배치·글자 맞춤이 끝난 뒤 한 번 더 자리를 맞춤
+    // 칸 너비 감시(ResizeObserver)가 한 번 더 높이를 다시 맞추므로, 그게 끝난 뒤(두 프레임 뒤) 같은 조각으로 한 번 더 맞춤
+    requestAnimationFrame(() => requestAnimationFrame(() => { if (box.isConnected) placeBox(box); }));
   }
 
   // 슬라이드 더블클릭 → 슬라이드만 보기를 끄고 그 슬라이드의 원문 조각으로 순간이동(커서를 그 칸에 둠)

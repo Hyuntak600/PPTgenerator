@@ -543,8 +543,15 @@ function goToSlideOf(box) {
   const i = rowIndexOf(box);
   const block = right.children[i];
   if (!block) return;
-  block.scrollIntoView({ behavior: smoothBehavior(), block: "center" });
+  placeSlideAtTop(block, true);
   flash(block._row);
+}
+// 슬라이드를 오른쪽 영역 맨 위 첫째 줄에 맞춤(왼쪽 조각을 맨 위에 맞추는 placeBoxAtTop과 짝)
+function placeSlideAtTop(block, smooth) {
+  const rr = right.getBoundingClientRect(), br = block.getBoundingClientRect();
+  if (!br.width && !br.height) return;
+  const pad = parseFloat(getComputedStyle(right).paddingTop) || 10;
+  right.scrollTo({ top: Math.max(0, right.scrollTop + br.top - rr.top - pad), behavior: smooth ? smoothBehavior() : "auto" });
 }
 // 슬라이드 속 문장 → 같은 번호의 원문 조각으로 이동해서 바로 수정할 수 있게 커서를 둠
 function goToBoxOf(slot) {
@@ -554,9 +561,23 @@ function goToBoxOf(slot) {
   const box = row && row.by[slot.dataset.lang];
   if (!box) return;
   if (box.dataset.ref && appMode === "slide") { selectRefRow(box, false); return; } // 성경 조각은 수정하지 않고 줄만 선택
-  box.scrollIntoView({ behavior: smoothBehavior(), block: "center", inline: "nearest" });
+  placeBoxAtTop(box, true);
   flash(box);
   box.querySelector("textarea").focus({ preventScroll: true });
+}
+// 원문 조각을 "바로 작업하기 좋은 자리"에 놓기(슬라이드 클릭·더블클릭·Enter 이동이 함께 씀):
+// 세로는 조각의 맨 위를 고정 영역(칸 제목·번역 미리보기) 바로 아래 첫째 줄에, 가로는 그 언어 칸을 원고 영역 맨 왼쪽에 맞춤.
+// (scrollIntoView는 고정 영역을 모르고 다른 바깥 스크롤까지 건드려서 직접 계산)
+function placeBoxAtTop(box, smooth) {
+  const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
+  if (!br.width && !br.height) return;
+  const col = box.closest(".col"), head = col && col.querySelector(".col-head");
+  const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 8 : 8;
+  const dy = br.top - (lr.top + topInset);
+  const cr = (col || box).getBoundingClientRect();
+  const padL = parseFloat(getComputedStyle(left).paddingLeft) || 14;
+  const dx = cr.left - lr.left - padL;
+  left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: smooth ? smoothBehavior() : "auto" });
 }
 
 function activeLangCodes(cols) {
