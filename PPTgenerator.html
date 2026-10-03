@@ -965,11 +965,7 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 ::highlight(find-cur){background:#ff9500; color:#000;}
 .slide-block.find-hit{outline:2px solid color-mix(in srgb,var(--accent) 38%,transparent); outline-offset:2px; border-radius:10px;}
 .slide-block.find-cur{outline:3px solid var(--accent); outline-offset:2px; border-radius:10px;}
-#viewFsBtn{flex:none; white-space:nowrap; padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
-#viewFsBtn .ic{width:.95em; height:.95em;}
-#viewFsBtn[hidden]{display:none;}
 html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); outline-offset:4px; border-radius:12px;}
-.right-wrap:fullscreen{background:var(--bg);}
 .right-wrap:-webkit-full-screen{background:var(--bg);}
 #viewOnlyBtn{flex:none; white-space:nowrap; padding:2px 8px; font-size:.72rem; gap:4px; line-height:1.4;}
 #viewOnlyBtn .ic{width:.95em; height:.95em;}
@@ -1428,7 +1424,6 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <button type="button" class="btn quiet slide-only" id="gotoBtn" aria-expanded="false" title="슬라이드 번호를 입력해 바로 이동해요 (Ctrl/⌘+G)"><svg class="ic ic-hash" aria-hidden="true"><use href="#i-hash"/></svg>이동</button>
       <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 원고 맨 뒤나 선택한 조각 아래에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
       <button type="button" class="btn quiet" id="viewOnlyBtn" aria-pressed="false" title="왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드만</button>
-      <button type="button" class="btn quiet" id="viewFsBtn" hidden aria-pressed="false" title="슬라이드를 화면 가득 보여 줘요 (끝내기: Esc)"><svg class="ic ic-expand" aria-hidden="true"><use href="#i-expand"/></svg>전체화면</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
         <p class="help">위에 있는 언어가 슬라이드에서도 위쪽에 표시돼요. ⠿를 잡고 끌어서 순서를 바꿔 보세요.</p>
@@ -1458,7 +1453,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 <script defer src="js/09-theme.js?v=20261002e"></script>
 <script id="i18nModule" defer src="js/10-i18n.js?v=20261003b"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
-<script defer src="js/12-view-only.js?v=20261003hb"></script>
+<script defer src="js/12-view-only.js?v=20261003hbc"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>
 <script defer src="js/18-goto-slide.js?v=20261003a"></script>
 <script defer src="js/19-find.js?v=20261003e"></script>
