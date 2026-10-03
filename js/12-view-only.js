@@ -34,13 +34,23 @@
     bs.forEach((b, i) => b.classList.toggle("vo-cur", isOn() && i === cur));
     return bs;
   }
+  // 지금 슬라이드(테두리 포함)가 화면 안에 다 보이면 가만히 두고, 벗어날 때만 딱 필요한 만큼 움직임. 먼 이동(Home·End 등)은 곧바로
+  function keepInView(el) {
+    const rr = right.getBoundingClientRect(), r = el.getBoundingClientRect(), m = 14; // 테두리(바깥으로 6px)가 잘리지 않을 여유
+    let dy = 0;
+    if (r.height + 2 * m > rr.height || r.top < rr.top + m) dy = r.top - rr.top - m;   // 위로 벗어났거나 화면보다 크면 윗부분이 보이게
+    else if (r.bottom > rr.bottom - m) dy = r.bottom - rr.bottom + m;                   // 아래로 벗어났으면 아래 끝이 보이게
+    if (Math.abs(dy) < 1) return;
+    const far = Math.abs(dy) > right.clientHeight * 1.5, beh = far || typeof smoothBehavior !== "function" ? "auto" : smoothBehavior();
+    right.scrollTo({ top: Math.max(0, Math.round(right.scrollTop + dy)), behavior: beh });
+  }
   function go(to, abs) {
     const bs = blocks();
     if (!bs.length) { showToast("슬라이드가 없어요."); return; }
     const n = abs ? to : cur + to;
     if (n < 0 || n >= bs.length) { showToast(n < 0 ? "첫 슬라이드예요." : "마지막 슬라이드예요."); return; }
     cur = n; mark();
-    placeSlideAtTop(bs[cur], true); // 방향키로 넘길 때도 그 슬라이드를 맨 위 첫째 줄에 맞춤
+    keepInView(bs[cur]); // 방향키로 넘길 때는 맨 위로 맞추지 않고, 파란 테두리가 화면 밖으로 나갈 때만 자연스럽게 움직임
   }
   // ↑ ↓: 화면에서 정말 바로 위·아래에 있는 슬라이드로(여러 칸으로 늘어놓았을 때는 같은 세로줄의 윗줄·아랫줄, 가로 위치가 가장 가까운 것)
   function goVert(d) {
