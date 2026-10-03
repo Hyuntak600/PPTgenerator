@@ -678,6 +678,7 @@ function setMode(m) {
   if (m === appMode || !stateReady) return;
   viewSnap[appMode] = captureView(); clearRefSel();
   saveStateNow();
+  try {
   if (m === "db") {
     if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못해 DB 모드를 열 수 없어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더를 두세요.", true); return; }
     dbSlideSnap = { opts: slideOpts, map: columnsToMap(), refs: readOwnRefs() };
@@ -692,7 +693,9 @@ function setMode(m) {
     slideOpts = sn.opts; setDefaultAlign(slideAlignSnap); fillColumns(sn.map); applyOwnRefs(sn.refs || {}); refreshInfo();
     restoreView(viewSnap.slide);
   }
-  document.querySelectorAll("#modeSeg button").forEach(b => b.classList.toggle("active", b.dataset.mode === appMode));
-  syncGuideBtn();
+  } finally { // 위 작업 중 어디서 오류가 나도 버튼 색(선택 표시)과 안내 버튼 글자는 항상 지금 모드를 따라가게
+    document.querySelectorAll("#modeSeg button").forEach(b => b.classList.toggle("active", b.dataset.mode === appMode));
+    syncGuideBtn();
+  }
 }
 document.querySelectorAll("#modeSeg button").forEach(b => b.addEventListener("click", () => setMode(b.dataset.mode)));

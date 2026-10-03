@@ -411,7 +411,7 @@ header{padding:12px 20px 10px;}
 .wel-row .seg button:disabled{opacity:.4; cursor:not-allowed;}
 .wel-row .seg button:disabled:hover{color:inherit;}
 .wel-hint{margin:0; font-size:.74rem; color:var(--sub); line-height:1.5;}
-.wel-notes{margin:0; padding:10px 14px 10px 2.1em; font-size:.92rem; line-height:1.6; color:var(--ink); font-weight:500;
+.wel-notes{margin:0; padding:10px 14px 10px 2.1em; font-size:1.04rem; line-height:1.6; color:var(--ink); font-weight:500;
   background:color-mix(in srgb,var(--accent) 9%,var(--panel)); border:1px solid color-mix(in srgb,var(--accent) 35%,var(--line)); border-left:4px solid var(--accent); border-radius:8px;}
 .wel-notes li{margin:3px 0;}
 .wel-notes li::marker{color:var(--accent); font-weight:700;}
@@ -654,7 +654,7 @@ kbd{display:inline-block; min-width:1.55em; padding:1px 6px; margin:0 1px; borde
 .patch-modal code{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:.88em; padding:1px 5px; border-radius:5px; background:color-mix(in srgb,var(--ink) 7%,transparent);}
 input[type=checkbox]{accent-color:var(--accent);}
 /* 버튼 줄은 창 아래에 고정(스크롤해도 항상 보임), 확인 버튼은 오른쪽 — 맥 시트 방식 */
-.patch-modal > .patch-actions,.patch-modal > .copy-actions:last-child{position:sticky; bottom:0; z-index:5; margin:16px -26px -24px; padding:12px 26px 14px; background:color-mix(in srgb,var(--panel) 86%,transparent); -webkit-backdrop-filter:saturate(180%) blur(18px); backdrop-filter:saturate(180%) blur(18px); box-shadow:0 -.5px 0 var(--line);}
+.patch-modal > .patch-actions,.patch-modal > .copy-actions:last-child{position:sticky; bottom:0; z-index:5; margin:16px calc(-1 * var(--px,26px)) calc(-1 * var(--pb,24px)); padding:12px var(--px,26px) 14px; background:color-mix(in srgb,var(--panel) 86%,transparent); -webkit-backdrop-filter:saturate(180%) blur(18px); backdrop-filter:saturate(180%) blur(18px); box-shadow:0 -.5px 0 var(--line);}
 .patch-modal > .copy-actions:last-child{justify-content:flex-end; gap:8px;}
 /* 입력·설명 상자: 움푹 들어간 칸과 옅은 카드 */
 .copy-text{border:0; border-radius:10px; background:color-mix(in srgb,var(--ink) 3.5%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--ink) 18%,transparent);}
@@ -678,7 +678,11 @@ input[type=checkbox]{accent-color:var(--accent);}
 .toast.error{background:rgba(176,42,34,.88);}
 
 /* ─────────────── 6단계 보정 · 고정 버튼 줄이 창 안쪽 여백(24px)만큼 떠 있던 것을 창 아래에 딱 붙임 ─────────────── */
-.patch-modal > .patch-actions,.patch-modal > .copy-actions:last-child{bottom:-24px;}
+.patch-modal > .patch-actions,.patch-modal > .copy-actions:last-child{bottom:calc(-1 * var(--pb,24px));}
+/* 버튼이 하나뿐인 안내 창(시작 안내·서버 안내·사용 안내)에서도 확인 버튼은 오른쪽 아래 */
+.patch-actions .patch-close-btn{margin-left:auto;}
+/* 창 안쪽에서 가로 스크롤은 생기지 않게(세로 스크롤만) */
+.patch-modal{overflow-x:hidden;}
 
 /* 6단계 마무리 보정 ② · 좁은 화면에서 첫 칸이 왼쪽 끝에 붙어 잘리던 것 + 시작 안내 창의 분할 버튼을 툴바와 같은 모양으로 */
 .left{scroll-padding-inline:14px;}
@@ -813,7 +817,7 @@ button,.btn,summary,.seg button,.rh-bible,.sg-del,.sg-reset,.sg-mv button,.pk-al
 :root[data-theme="dark"] .btn.mc-danger{background:linear-gradient(#ff6a61,#ff453a);}
 
 /* ─────────────── 8단계 · 시작 안내: 번역 체험 + 파란 주의사항까지 첫 화면에 한 번에 ─────────────── */
-.wel-modal{max-width:780px; max-height:94vh; padding:18px 24px 20px;}
+.wel-modal{max-width:780px; max-height:94vh; padding:18px 24px 20px; --px:24px; --pb:20px;}
 .wel-modal h2{margin:0 0 2px;}
 .wel-modal > .patch-sub{margin:0 0 10px;}
 .wel-modal h3{margin:12px 0 5px; padding-top:11px;}
@@ -826,18 +830,18 @@ button,.btn,summary,.seg button,.rh-bible,.sg-del,.sg-reset,.sg-mv button,.pk-al
 .wel-verse{padding:7px 10px; font-size:.88rem; line-height:1.55;}
 .wel-out{min-height:2.9em;}
 /* 파란 주의사항: 번역 결과 칸 바로 아래에 붙어서 같이 보임 */
-.wel-notes{padding:7px 12px 7px 2em; font-size:.84rem; line-height:1.5;}
+.wel-notes{padding:8px 12px 8px 2em; font-size:.96rem; line-height:1.55;}
 .wel-notes li{margin:2px 0;}
 .wel-try > .wel-hint{font-size:.72rem; line-height:1.45;}
 @media (max-width:680px){.wel-steps{columns:1;}}
 /* 화면 높이가 낮은 노트북에서는 한 단계 더 촘촘하게 */
 @media (max-height:760px){
-  .wel-modal{padding:14px 20px 16px;}
+  .wel-modal{padding:14px 20px 16px; --px:20px; --pb:16px;}
   .wel-modal > .patch-sub{margin-bottom:6px; font-size:.72rem;}
   .wel-modal h3{margin:8px 0 4px; padding-top:8px;}
   .wel-try{gap:5px; padding:8px 10px;}
   .wel-verse{font-size:.84rem; line-height:1.5;}
-  .wel-notes{font-size:.8rem; padding:5px 10px 5px 1.9em;}
+  .wel-notes{font-size:.9rem; padding:6px 10px 6px 1.9em;}
 }
 
 /* ── English UI (html[lang="en"]) ──
@@ -985,7 +989,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       <li data-en="Slides imported from the Bible show their source (e.g. John 3:16a) and have &lt;b&gt;▲ ▼&lt;/b&gt; buttons to move them up or down one place, and a &lt;b&gt;✕&lt;/b&gt; at the top right to delete the slide. You can also click a verse on the left to select it and press &lt;b&gt;Backspace&lt;/b&gt;/&lt;b&gt;Delete&lt;/b&gt;. The slide’s own font size and alignment move with it. A deleted slide can be restored with &lt;b&gt;Ctrl/⌘+Z&lt;/b&gt; or from &lt;svg class='ic ic-shield' aria-hidden='true'&gt;&lt;use href='#i-shield'/&gt;&lt;/svg&gt;Backup·Restore.">성경에서 불러온 슬라이드에는 출처(예: 요한복음 3:16a)가 표시되고, <b>▲ ▼</b> 버튼으로 한 칸씩 위아래로 옮길 수 있어요. 오른쪽 위 <b>✕</b>로 그 슬라이드를 바로 지울 수도 있고, 왼쪽 성경 구절을 눌러 선택한 뒤 <b>Backspace</b>/<b>Delete</b>를 눌러도 지워져요. 지운 슬라이드는 <b>Ctrl/⌘+Z</b>나 <svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구에서 되돌릴 수 있어요. 슬라이드별 글자 크기·정렬도 같이 따라 움직여요.</li>
       <li data-en="You can now import verses from the Bible DB in Make slides mode too: use &lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Import Bible&lt;/b&gt; at the start of the toolbar at the top to add them to the end of your script. Pick the book, chapter, start verse and end verse from the dropdowns and everything in between is added. Verses with several pages appear as 16 (a) · 16 (b), but slides show only the number. Verses with no content are dimmed and can’t be chosen.">슬라이드 만들기 모드에서도 위쪽 도구 줄 맨 앞의 <b><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</b>로 성경 DB의 구절을 원고 맨 뒤에 넣을 수 있어요. 성경·장·시작 절·끝 절을 드롭다운으로 고르면 그 사이 구절이 들어가요. 여러 페이지짜리 절은 16 (a)·16 (b)처럼 나뉘어 보이지만 슬라이드에는 숫자만 표시돼요. 내용이 없는 절은 흐리게 보이고 고를 수 없어요.</li>
       <li data-en="The Bible, Chapter and Verse dropdowns in Bible DB mode are now Mac-style menus, and the &lt;b&gt;‹ ›&lt;/b&gt; buttons next to Chapter and Verse move to the previous/next chapter or verse.">성경 DB 모드의 성경·장·절 드롭다운이 맥 스타일 메뉴로 바뀌었고, 장과 절 옆의 <b>‹ ›</b> 버튼으로 이전/다음 장·절로 넘어갈 수 있어요.</li>
-      <li data-en="&lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; button for &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;&lt;svg class='ic ic-code' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;). &lt;b&gt;&lt;svg class='ic ic-trash' aria-hidden='true'&gt;&lt;use href='#i-trash'/&gt;&lt;/svg&gt;Delete all data&lt;/b&gt; works in both modes: it deletes everything saved on this PC (script, automatic backups, translation cache, settings and your own verse edits). The original DB published on the website is never touched and loads again afterwards.">성경 DB 모드에서는 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b> 버튼이 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 관리자(<admin-email></admin-email>)에게 보내 주세요. 슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>를 쓰면 돼요. <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정·내가 수정한 성경 구절을 전부 지워요. 홈페이지에 기록된 원본 DB는 절대 건드리지 않고, 지운 뒤 그대로 다시 불러와요.</li>
+      <li data-en="&lt;b&gt;&lt;svg class='ic ic-book' aria-hidden='true'&gt;&lt;use href='#i-book'/&gt;&lt;/svg&gt;Bible DB mode&lt;/b&gt; swaps the top &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; button for &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Guide&lt;/b&gt; with short instructions (it opens by itself only the first time you enter). Edits are not updated in the program automatically, so press &lt;b&gt;&lt;svg class='ic ic-code' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt; and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;). &lt;b&gt;&lt;svg class='ic ic-trash' aria-hidden='true'&gt;&lt;use href='#i-trash'/&gt;&lt;/svg&gt;Delete all data&lt;/b&gt; works in both modes: it deletes the script, automatic backups, translation cache and settings saved on this PC. The Bible DB (including your own verse edits) is never deleted.">성경 DB 모드에서는 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b> 버튼이 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>사용 안내</b>로 바뀌어 작업 안내를 볼 수 있어요(처음 들어갈 때 한 번만 저절로 열려요). 구절은 수정할 수 있지만 프로그램에 자동 업데이트되지는 않으니, 작업 후 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>로 관리자(<admin-email></admin-email>)에게 보내 주세요. 슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>를 쓰면 돼요. <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b>는 두 모드 모두에서 이 PC에 저장된 원고·백업·번역 캐시·설정을 지워요. 성경 DB는 내가 수정한 구절까지 포함해 절대 지우지 않아요.</li>
       <li data-en="Set a &lt;b&gt;font size (pt)&lt;/b&gt; and &lt;b&gt;left / center / right alignment&lt;/b&gt; for each slide separately. The &lt;b&gt;Base font size&lt;/b&gt; at the top (default &lt;b&gt;80pt&lt;/b&gt;) is the target size for every slide. The toolbar’s &lt;b&gt;Default alignment&lt;/b&gt; is the global default.">슬라이드마다 <b>글자 크기(pt)</b>와 <b>왼쪽 / 가운데 / 오른쪽 정렬</b>을 따로 정할 수 있어요. 위쪽 <b>기준 글자 크기</b>(기본 <b>80pt</b>)는 모든 슬라이드의 목표 크기예요. 툴바의 <b>기본 정렬</b>은 전체 기본값이에요.</li>
       <li data-en="&lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt; doesn’t copy just by opening the window. Press &lt;b&gt;Copy&lt;/b&gt; inside the window to copy."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>는 창을 여는 것만으로는 복사하지 않아요. 창 안의 <b>복사</b>를 눌러야 복사돼요.</li>
       <li data-en="In the copied text, one slide is one paragraph, and only the text of each language appears.">복사 글은 슬라이드 한 장이 한 문단이고, 언어별 글만 나와요.</li>
@@ -1163,7 +1167,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
     <h3><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</h3>
     <ul>
       <li data-en="Local data stays on the PC where you worked, until you remove it.">로컬 데이터는 작업한 그 PC에 계속 남아 있어요.</li>
-      <li data-en="Press <b><svg class='ic ic-trash' aria-hidden='true'><use href='#i-trash'/></svg>Delete all data</b> and everything saved on this PC is deleted, leaving only the DB published on the website. The original DB itself is never touched. Send your DB code first!">상단의 <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b> 버튼을 누르면 이 PC에 저장된 것이 전부 없어지고, <b>홈페이지에 기록된 원본 DB만 남아요.</b> 원본 DB 자체는 절대 지워지지 않아요. 지우기 전에 DB 코드를 먼저 보내 주세요!</li>
+      <li data-en="Press <b><svg class='ic ic-trash' aria-hidden='true'><use href='#i-trash'/></svg>Delete all data</b> and the script, backups, translation cache and settings saved on this PC are deleted. The Bible DB (including your own verse edits) is never deleted.">상단의 <b><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</b> 버튼을 누르면 이 PC에 저장된 원고·백업·번역 캐시·설정이 없어져요. <b>성경 DB는 내가 수정한 구절까지 포함해 절대 지워지지 않아요.</b></li>
     </ul>
 
     <div class="patch-actions">
@@ -1222,7 +1226,7 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</button>
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
       <span class="hsep"></span>
-      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 모든 데이터(원고·자동 백업·번역 캐시·설정·내가 수정한 성경 구절)를 전부 지우고 처음 상태로 되돌려요. 홈페이지에 기록된 원본 DB는 그대로 남아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
+      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
     </div>
   </div>
   <div class="toolbar">
@@ -1329,16 +1333,16 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script defer src="js/00-config.js?v=20261002i"></script>
-<script defer src="js/01-core.js?v=20261002h"></script>
-<script defer src="js/02-translate.js?v=20261002h"></script>
-<script defer src="js/03-slides.js?v=20261002k"></script>
+<script defer src="js/01-core.js?v=20261003a"></script>
+<script defer src="js/02-translate.js?v=20261003a"></script>
+<script defer src="js/03-slides.js?v=20261003a"></script>
 <script defer src="js/04-layout-copy.js?v=20261002h"></script>
 <script defer src="js/05-storage.js?v=20261002f"></script>
-<script defer src="js/06-bible-db.js?v=20261002h"></script>
+<script defer src="js/06-bible-db.js?v=20261003a"></script>
 <script defer src="js/07-bible-copy.js?v=20261002g"></script>
 <script defer src="js/08-welcome-demo.js?v=20261002f"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261002n"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261003a"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
 </body>
 </html>

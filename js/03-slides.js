@@ -865,26 +865,25 @@ document.addEventListener("keydown", e => {
 }, true);
 
 // ---- 로컬 데이터 지우기 ----
-// 두 모드 어디서든 사용. 지우는 대상은 이 PC 브라우저의 localStorage(원고 · 자동 백업 · 번역 캐시 · 설정 · 내가 수정한 성경 구절 초안)뿐이다.
-// 홈페이지에 배포된 원본 DB(bibleDB 폴더의 장 파일)는 읽기만 하고 쓰거나 지우는 코드가 없으며, 새로고침하면 그대로 다시 불러온다.
+// 두 모드 어디서든 사용. 지우는 대상은 이 PC 브라우저의 localStorage(원고 · 자동 백업 · 번역 캐시 · 설정)이다.
+// 성경 DB는 지우지 않는다: 내가 수정한 구절(DB 초안, DB_KEY와 그 손상 백업)과 마지막에 보던 절(DB_SEL_KEY)은 그대로 남긴다.
+// 홈페이지에 배포된 원본 DB(bibleDB 폴더의 장 파일)도 읽기만 하고 쓰거나 지우는 코드가 없다.
 // 이 도구 것이 아닌 저장값(같은 주소의 다른 사이트)도 건드리지 않는다.
+const keepOnWipe = k => k.startsWith(DB_KEY) || k === DB_SEL_KEY;
 async function wipeSlideLocalData() {
-  let drafts = 0;
-  try { const o = JSON.parse(localStorage.getItem(DB_KEY) || "null"); if (o && o.d) drafts = Object.keys(o.d).length; } catch (e) { /* 무시 */ }
-  const wipeMsg = "이 PC의 브라우저에 저장된 로컬 데이터를 전부 지워요.\n\n· 슬라이드 원고와 설정\n· 자동 백업(최근 12개 + 24시간 보관)\n· 번역 캐시\n· 내가 수정한 성경 구절(DB 초안)" + (drafts ? " — 현재 " + drafts + "절" : "") + "\n\n홈페이지에 기록된 원본 DB는 지워지지 않아요. 새로 열면 그대로 다시 불러와요.\n내가 수정한 내용은 되돌릴 수 없으니, 먼저 'DB 코드 복사'로 관리자에게 보내 두고 필요한 원고는 백업·복구에서 파일로 저장해 두세요.\n\n계속할까요?";
+  const wipeMsg = "이 PC의 브라우저에 저장된 로컬 데이터를 지워요.\n\n· 슬라이드 원고와 설정\n· 자동 백업(최근 12개 + 24시간 보관)\n· 번역 캐시\n\n성경 DB(내가 수정한 구절 포함)는 지워지지 않아요.\n지운 내용은 되돌릴 수 없으니, 필요한 원고는 백업·복구에서 파일로 저장해 두세요.\n\n계속할까요?";
   if (!(await macConfirm(wipeMsg, { title: "모든 데이터 삭제", ok: "모두 삭제", danger: true }))) return;
-  if (drafts && !(await macConfirm("마지막 확인이에요.\n\n내가 수정한 성경 구절 " + drafts + "절이 이 PC에서 완전히 사라져요. 관리자에게 DB 코드를 보내셨나요?\n\n정말 지울까요?", { title: "수정한 성경 구절 삭제", ok: "삭제", danger: true }))) return;
   const wasReady = stateReady;
-  localWiped = true; stateReady = false; dbCur = null; // 이 순간부터 자동 저장·캐시 저장·DB 초안 저장이 아무것도 다시 쓰지 않음
+  localWiped = true; stateReady = false; // 이 순간부터 자동 저장·캐시 저장이 아무것도 다시 쓰지 않음(DB 초안은 지우지 않으니 dbCur는 그대로 둠)
   let n = 0;
   try {
     Object.keys(localStorage).forEach(k => {
       const mine = k.startsWith("subtitleTool_") || k === "subtitleTheme" || k === "subtitleSlideBold";
-      if (mine) { localStorage.removeItem(k); n++; }
+      if (mine && !keepOnWipe(k)) { localStorage.removeItem(k); n++; }
     });
   } catch (e) { localWiped = false; stateReady = wasReady; showToast("삭제하지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.", true); return; }
   glossCache = new Map();
-  showToast("로컬 데이터·캐시 " + n + "개를 지웠어요. 홈페이지의 원본 DB를 다시 불러옵니다.");
+  showToast("로컬 데이터·캐시 " + n + "개를 지웠어요. 성경 DB는 그대로 두고 다시 불러옵니다.");
   setTimeout(() => location.reload(), 700);
 }
 document.getElementById("wipeBtn").addEventListener("click", wipeSlideLocalData);
