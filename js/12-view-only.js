@@ -1,14 +1,14 @@
 "use strict";
 
 // 슬라이드만 보기: 왼쪽 원고 칸을 숨기고 오른쪽 결과(슬라이드)를 화면 전체에 넓게 보여 준다.
-// 눌러서 켜고 끄며(오른쪽 위 버튼 · Esc), 원고·슬라이드 데이터는 건드리지 않고 화면 배치만 바꾼다.
+// 눌러서 켜고 끄며(슬라이드 구성 줄 맨 왼쪽 버튼 · Esc), 원고·슬라이드 데이터는 건드리지 않고 화면 배치만 바꾼다.
 // 켜 있는 동안: 슬라이드를 눌러도 원문 조각으로 이동하지 않고(왼쪽이 숨겨져 있어서), 성경 불러오기 버튼은 숨긴다.
 (function initViewOnly() {
   const btn = document.getElementById("viewOnlyBtn");
   if (!btn) return;
   const root = document.documentElement;
   const ic = n => (typeof icon === "function" ? icon(n) : "");
-  const LABEL = { off: () => ic("slides") + "슬라이드만", on: () => ic("split") + "편집" };
+  const LABEL = { off: () => ic("slides") + "슬라이드만", on: () => ic("split") + "편집 화면으로" };
   const TITLE = {
     off: "왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)",
     on: "왼쪽 원고 칸을 다시 보여 줘요 (Esc)",
@@ -30,14 +30,6 @@
     refit();
     requestAnimationFrame(() => { if (typeof right !== "undefined" && right) right.scrollTop = st; });
   }
-
-  // 슬라이드만 보는 동안 화면 구석에 항상 떠 있는 "돌아가기" 버튼(위쪽 작은 버튼을 못 찾아도 바로 돌아올 수 있게)
-  const fab = document.createElement("button");
-  fab.type = "button"; fab.id = "viewBackFab"; fab.className = "view-back-fab";
-  fab.innerHTML = ic("split") + "편집 화면으로";
-  fab.title = "왼쪽 원고 칸을 다시 보여 줘요 (Esc)";
-  document.body.appendChild(fab);
-  fab.addEventListener("click", () => apply(false));
 
   btn.addEventListener("click", () => apply(!isOn()));
   document.addEventListener("keydown", e => {
