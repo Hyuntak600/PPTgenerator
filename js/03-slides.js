@@ -547,48 +547,34 @@ function goToSlideOf(box) {
   flash(block._row);
 }
 // 슬라이드를 오른쪽 영역 맨 위 첫째 줄에 맞춤(왼쪽 조각을 맨 위에 맞추는 placeBoxAtTop과 짝)
+// 가까운 이동(화면 한 장 반 이내)만 부드럽게, 먼 이동은 곧바로(슬라이드가 수백 장일 때 스크롤을 기다리지 않게)
+const NEAR_HOP = 1.5;
 function placeSlideAtTop(block, smooth) {
-  const go = beh => {
+  const go = allowSmooth => {
     const rr = right.getBoundingClientRect(), br = block.getBoundingClientRect();
     if (!br.width && !br.height) return;
-    const pad = parseFloat(getComputedStyle(right).paddingTop) || 10;
-    right.scrollTo({ top: Math.max(0, right.scrollTop + br.top - rr.top - pad), behavior: beh });
+    const pad = Math.min(12, parseFloat(getComputedStyle(right).paddingTop) || 10), dy = br.top - rr.top - pad; // 슬라이드 사이 간격보다 작게: 위 슬라이드가 빼꼼 보이지 않게
+    const beh = allowSmooth && smooth && Math.abs(dy) < right.clientHeight * NEAR_HOP ? smoothBehavior() : "auto";
+    right.scrollTo({ top: Math.max(0, Math.round(right.scrollTop + dy)), behavior: beh });
+    return beh;
   };
-  const beh = smooth ? smoothBehavior() : "auto";
-  go(beh);
-  if (beh === "smooth") settleAfterScroll(right, () => { if (block.isConnected) go("auto"); });
+  if (go(true) === "smooth") settleAfterScroll(right, () => { if (block.isConnected) go(false); });
 }
-// 슬라이드 속 문장 → 같은 번호의 원문 조각으로 이동해서 바로 수정할 수 있게 커서를 둠
-function goToBoxOf(slot) {
-  const block = slot.closest(".slide-block");
-  const i = blockIndex(block);
-  const row = buildRowMap()[i];
-  const box = row && row.by[slot.dataset.lang];
-  if (!box) return;
-  if (box.dataset.ref && appMode === "slide") { selectRefRow(box, false); return; } // 성경 조각은 수정하지 않고 줄만 선택
-  placeBoxAtTop(box, true);
-  flash(box);
-  box.querySelector("textarea").focus({ preventScroll: true });
-}
-// 원문 조각을 "바로 작업하기 좋은 자리"에 놓기(슬라이드 클릭·더블클릭·Enter 이동이 함께 씀):
-// 세로는 조각의 맨 위를 고정 영역(칸 제목·번역 미리보기) 바로 아래 첫째 줄에, 가로는 그 언어 칸을 원고 영역 맨 왼쪽에 맞춤.
-// (scrollIntoView는 고정 영역을 모르고 다른 바깥 스크롤까지 건드려서 직접 계산)
 function placeBoxAtTop(box, smooth) {
-  const go = beh => {
+  const go = allowSmooth => {
     const lr = left.getBoundingClientRect(), br = box.getBoundingClientRect();
-    if (!br.width && !br.height) return 0;
+    if (!br.width && !br.height) return;
     const col = box.closest(".col"), head = col && col.querySelector(".col-head");
-    const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 12 : 12;
+    const topInset = head ? head.getBoundingClientRect().bottom - lr.top + 6 : 6; // 조각 사이 간격(8px)보다 작게 둬서 위 조각이 빼꼼 보이지 않게
     const dy = br.top - (lr.top + topInset);
     const cr = (col || box).getBoundingClientRect();
     const padL = parseFloat(getComputedStyle(left).paddingLeft) || 14;
     const dx = cr.left - lr.left - padL;
-    left.scrollTo({ top: Math.max(0, left.scrollTop + dy), left: left.scrollLeft + dx, behavior: beh });
-    return Math.abs(dy) + Math.abs(dx);
+    const beh = allowSmooth && smooth && Math.abs(dy) < left.clientHeight * NEAR_HOP ? smoothBehavior() : "auto";
+    left.scrollTo({ top: Math.max(0, Math.round(left.scrollTop + dy)), left: Math.round(left.scrollLeft + dx), behavior: beh }); // 정수 위치로(고해상도 화면의 소수점 어긋남 방지)
+    return beh;
   };
-  const beh = smooth ? smoothBehavior() : "auto";
-  go(beh);
-  if (beh === "smooth") settleAfterScroll(left, () => { if (box.isConnected) go("auto"); }); // 부드럽게 가는 동안 번역 미리보기 높이 등이 바뀌어도 도착 뒤 한 번 더 딱 맞춤
+  if (go(true) === "smooth") settleAfterScroll(left, () => { if (box.isConnected) go(false); }); // 부드럽게 가는 동안 번역 미리보기 높이 등이 바뀌어도 도착 뒤 한 번 더 딱 맞춤
 }
 // 부드러운 스크롤이 끝난 뒤 한 번만 fn 실행(scrollend를 못 쓰는 브라우저는 시간으로 대신)
 function settleAfterScroll(el, fn) {
