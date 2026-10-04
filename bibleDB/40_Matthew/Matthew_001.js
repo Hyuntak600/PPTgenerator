@@ -3,13 +3,13 @@
 BibleDB.ref("Matthew",1,25);
 BibleDB.add([
   {Bible:"Matthew", Chapter:1, Verse:1, Page:1,
-    Kor:"<예수의 계보(눅 3:23-38)> 아브라함의 자손이요 다윗의 자손인 예수 a그리스도의 b계보는 이러하다.(a 또는 '메시아'. 그리스도는 그리스어이고 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함 b 또는 '나심은')",
+    Kor:"아브라함의 자손이요 다윗의 자손인 예수 그리스도의 계보는 이러하다.",
     Chn:"亚伯拉罕的后裔，大卫的子孙，耶稣基督的家谱：",
     Eng:"A record of the genealogy of Jesus Christ the son of David, the son of Abraham:",
     Ind:"Inilah silsilah Yesus Kristus, anak Daud, anak Abraham."
   },
   {Bible:"Matthew", Chapter:1, Verse:2, Page:1,
-    Kor:"○아브라함은 이삭을 낳고, 이삭은 야곱을 낳고, 야곱은 유다와 그의 형제들을 낳고,",
+    Kor:"아브라함은 이삭을 낳고, 이삭은 야곱을 낳고, 야곱은 유다와 그의 형제들을 낳고,",
     Chn:"亚伯拉罕生以撒；以撒生雅各；雅各生犹大和他的弟兄；",
     Eng:"Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,",
     Ind:"Abraham memperanakkan Ishak, Ishak memperanakkan Yakub, Yakub memperanakkan Yehuda dan saudara-saudaranya,"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Salomo memperanakkan Rehabeam, Rehabeam memperanakkan Abia, Abia memperanakkan Asa,"
   },
   {Bible:"Matthew", Chapter:1, Verse:8, Page:1,
-    Kor:"c아삽은 여호사밧을 낳고, 여호사밧은 요람을 낳고, 요람은 웃시야를 낳고,(c 다른 고대 사본들에는 '아사')",
+    Kor:"아삽은 여호사밧을 낳고, 여호사밧은 요람을 낳고, 요람은 웃시야를 낳고,",
     Chn:"亚撒生约沙法；约沙法生约兰； 约兰生乌西雅；",
     Eng:"Asa the father of Jehoshaphat, Jehoshaphat the father of Jehoram, Jehoram the father of Uzziah,",
     Ind:"Asa memperanakkan Yosafat, Yosafat memperanakkan Yoram, Yoram memperanakkan Uzia,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Uzia memperanakkan Yotam, Yotam memperanakkan Ahas, Ahas memperanakkan Hizkia,"
   },
   {Bible:"Matthew", Chapter:1, Verse:10, Page:1,
-    Kor:"히스기야는 므낫세를 낳고, 므낫세는 d아모스를 낳고, d아모스는 요시야를 낳고,(d 다른 고대 사본들에는 '아몬')",
+    Kor:"히스기야는 므낫세를 낳고, 므낫세는 아모스를 낳고, 아모스는 요시야를 낳고,",
     Chn:"希西家生玛拿西；玛拿西生亚们；亚们生约西亚；",
     Eng:"Hezekiah the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
     Ind:"Hizkia memperanakkan Manasye, Manasye memperanakkan Amon, Amon memperanakkan Yosia,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Yosia memperanakkan Yekhonya dan saudara-saudaranya pada waktu pembuangan ke Babel."
   },
   {Bible:"Matthew", Chapter:1, Verse:12, Page:1,
-    Kor:"○예루살렘 주민이 바빌론으로 끌려간 뒤에, 여고냐는 스알디엘을 낳고, 스알디엘은 스룹바벨을 낳고,",
+    Kor:"예루살렘 주민이 바빌론으로 끌려간 뒤에, 여고냐는 스알디엘을 낳고, 스알디엘은 스룹바벨을 낳고,",
     Chn:"迁到巴比伦之后，耶哥尼雅生撒拉铁；撒拉铁生所罗巴伯；",
     Eng:"After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,",
     Ind:"Sesudah pembuangan ke Babel, Yekhonya memperanakkan Sealtiel, Sealtiel memperanakkan Zerubabel,"
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Yakub memperanakkan Yusuf suami Maria, yang melahirkan Yesus yang disebut Kristus."
   },
   {Bible:"Matthew", Chapter:1, Verse:17, Page:1,
-    Kor:"○그러므로 그 모든 대 수는 아브라함으로부터 다윗까지 열네 대요, 다윗으로부터 바빌론에 끌려갈 때까지 열네 대요, 바빌론으로 끌려간 때로부터 a그리스도까지 열네 대이다.(a 또는 '메시아'. 그리스도는 그리스어이고 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함)",
+    Kor:"그러므로 그 모든 대 수는 아브라함으로부터 다윗까지 열네 대요, 다윗으로부터 바빌론에 끌려갈 때까지 열네 대요, 바빌론으로 끌려간 때로부터 a그리스도까지 열네 대이다.(a 또는 '메시아'. 그리스도는 그리스어이고 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함)",
     Chn:"这样，从亚伯拉罕到大卫共有十四代；从大卫到迁至巴比伦的时候也有十四代；从迁至巴比伦的时候到基督又有十四代。",
     Eng:"Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.",
     Ind:"Jadi seluruhnya ada: empat belas keturunan dari Abraham sampai Daud, empat belas keturunan dari Daud sampai pembuangan ke Babel, dan empat belas keturunan dari pembuangan ke Babel sampai Kristus."
   },
   {Bible:"Matthew", Chapter:1, Verse:18, Page:1,
-    Kor:"<예수의 탄생(눅 2:1-7)> ○예수 그리스도의 태어나심은 이러하다. 그의 어머니 마리아가 요셉과 약혼하고 나서, 같이 살기 전에, 마리아가 성령으로 잉태한 사실이 드러났다.",
+    Kor:"예수 그리스도의 태어나심은 이러하다. 그의 어머니 마리아가 요셉과 약혼하고 나서, 같이 살기 전에, 마리아가 성령으로 잉태한 사실이 드러났다.",
     Chn:"耶稣基督降生的事记在下面：他母亲马利亚已经许配了约瑟，还没有迎娶，马利亚就从圣灵怀了孕。",
     Eng:"This is how the birth of Jesus Christ came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be with child through the Holy Spirit.",
     Ind:"Kelahiran Yesus Kristus adalah seperti berikut: Pada waktu Maria, ibu-Nya, bertunangan dengan Yusuf, ternyata ia mengandung dari Roh Kudus, sebelum mereka hidup sebagai suami isteri."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Hal itu terjadi supaya genaplah yang difirmankan Tuhan oleh nabi:"
   },
   {Bible:"Matthew", Chapter:1, Verse:23, Page:1,
-    Kor:"f\"보아라, 동정녀가 잉태하여 아들을 낳을 것이니, 그의 이름을 임마누엘이라고 할 것이다\" 하신 말씀을 이루려고 하신 것이다. (임마누엘은 번역하면 '하나님이 우리와 함께 계시다'는 뜻이다.)(f 사 7:14(칠십인역))",
+    Kor:"\"보아라, 동정녀가 잉태하여 아들을 낳을 것이니, 그의 이름을 임마누엘이라고 할 것이다\" 하신 말씀을 이루려고 하신 것이다. (임마누엘은 번역하면 '하나님이 우리와 함께 계시다'는 뜻이다.)",
     Chn:"说： 必有童女怀孕生子； 人要称他的名为以马内利。 （以马内利翻出来就是「　神与我们同在」。）",
     Eng:"\"The virgin will be with child and will give birth to a son, and they will call him Immanuel\"--which means, \"God with us.\"",
     Ind:"\"Sesungguhnya, anak dara itu akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel\" --yang berarti: Allah menyertai kita."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Sesudah bangun dari tidurnya, Yusuf berbuat seperti yang diperintahkan malaikat Tuhan itu kepadanya. Ia mengambil Maria sebagai isterinya,"
   },
   {Bible:"Matthew", Chapter:1, Verse:25, Page:1,
-    Kor:"그러나 g아들을 낳을 때까지는 아내와 잠자리를 같이하지 않았다. 아들이 태어나니, 요셉은 그 이름을 예수라고 하였다.(g 다른 고대 사본들에는 '첫 아들을')",
+    Kor:"그러나 아들을 낳을 때까지는 아내와 잠자리를 같이하지 않았다. 아들이 태어나니, 요셉은 그 이름을 예수라고 하였다.",
     Chn:"只是没有和她同房，等她生了儿子，就给他起名叫耶稣。",
     Eng:"But he had no union with her until she gave birth to a son. And he gave him the name Jesus.",
     Ind:"tetapi tidak bersetubuh dengan dia sampai ia melahirkan anaknya laki-laki dan Yusuf menamakan Dia Yesus."
