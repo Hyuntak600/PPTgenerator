@@ -54,17 +54,24 @@ macConfirm._n = 0;
   const closeBtn = document.getElementById("patchCloseBtn");
   const reopenBtn = document.getElementById("patchReopenBtn");
 
+  // 처음 들어온 사람에게만 한 번 자동으로 띄움. 이 브라우저에 "봤다"는 표시를 남기고, 표시 키는 "로컬 데이터 지우기"(subtitleTool_ 계열)가 지우지 않아 지운 뒤에도 다시 뜨지 않음.
+  // 저장소를 못 쓰는 환경(시크릿 창 등)에서는 열 때마다 뜸. 위쪽 [시작 안내] 버튼으로는 언제든 다시 볼 수 있음.
+  const SEEN_KEY = "subtitleStartGuideSeen";
+  function markSeen() { try { localStorage.setItem(SEEN_KEY, "1"); } catch (e) { /* 못 남기면 다음에 한 번 더 보일 뿐 */ } }
+  function isSeen() { try { return localStorage.getItem(SEEN_KEY) === "1"; } catch (e) { return false; } }
   function openModal() {
     overlay.classList.add("open");
   }
   function closeModal() {
     overlay.classList.remove("open");
+    markSeen();
   }
 
   closeBtn.addEventListener("click", closeModal);
   // 성경 DB 모드에서는 이 버튼이 "사용 안내"(성경 DB용)로 바뀌어 DB 안내 창을 연다. 슬라이드 만들기 모드는 그대로 시작 안내
   reopenBtn.addEventListener("click", () => { if (appMode === "db") dbGuideOverlay.classList.add("open"); else openModal(); });
   overlay.addEventListener("click", e => { if (e.target === overlay) closeModal(); });
+  if (!isSeen()) { openModal(); markSeen(); } // 첫 방문: 어떻게 닫든(체험 버튼으로 닫아도) 한 번만 뜸
 })();
 
 // ---------------------------------------------------------------------
