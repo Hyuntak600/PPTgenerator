@@ -189,19 +189,33 @@ function applyStateAndReload(st) {
     const used = storageUsedChars();
     document.getElementById("bkUsageNum").textContent = "≈ " + Math.round(used / LS_LIMIT_CHARS * 100) + "% (" + (used / 1e6).toFixed(1) + " / " + (LS_LIMIT_CHARS / 1e6).toFixed(0) + " MB)";
     listEl.textContent = "";
-    const list = readBackups();
+    const recent = readRecentBackups(), day = readDayBackup();
+    const list = day ? [...recent.map(b => ({ b, day: false })), { b: day, day: true }] : recent.map(b => ({ b, day: false }));
     if (!list.length) {
       const p = document.createElement("p"); p.className = "patch-sub";
       p.textContent = "아직 자동 백업이 없어요. 글을 쓰면 1분에 한 번씩 자동으로 쌓여요.";
       listEl.appendChild(p); return;
     }
-    list.forEach(b => {
+    list.forEach(({ b, day: isDay }) => {
       const row = document.createElement("div"); row.className = "bk-row";
       const info = document.createElement("span");
       info.textContent = new Date(b.t).toLocaleString(document.documentElement.lang === "en" ? "en-US" : "ko-KR") + " · " + b.n + "자 · " + b.why;
       const btn = document.createElement("button"); btn.type = "button"; btn.className = "btn"; btn.textContent = "이 시점으로 복구";
       btn.addEventListener("click", async () => { if (await macConfirm("이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.", { title: "백업으로 복구", ok: "복구" })) applyStateAndReload(b.state); });
-      row.append(info, btn); listEl.appendChild(row);
+      // 백업 하나만 직접 지우기: 최근 백업은 목록에서 그 시점 것만 빼고, 24시간 보관 백업은 그 항목만 지움(현재 작업 내용은 건드리지 않음)
+      const del = document.createElement("button"); del.type = "button"; del.className = "btn danger"; del.textContent = "삭제";
+      del.title = "이 백업 하나만 지워요 (현재 작업 내용은 그대로예요)";
+      del.addEventListener("click", async () => {
+        if (!(await macConfirm("이 백업을 지울까요? 지운 백업은 되돌릴 수 없어요. 지금 작업 중인 내용은 그대로예요.", { title: "백업 삭제", ok: "삭제", danger: true }))) return;
+        try {
+          if (isDay) { const d = readDayBackup(); if (d && d.t === b.t) localStorage.removeItem(DAY_BACKUP_KEY); }
+          else localStorage.setItem(BACKUP_KEY, JSON.stringify(readRecentBackups().filter(x => x.t !== b.t)));
+        } catch (e) { showToast("백업을 지우지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.", true); return; }
+        showToast("백업을 지웠어요.");
+        render();
+        updateStorageWarn(true);
+      });
+      row.append(info, btn, del); listEl.appendChild(row);
     });
   }
   document.getElementById("bkOpenBtn").addEventListener("click", () => { render(); ov.classList.add("open"); });

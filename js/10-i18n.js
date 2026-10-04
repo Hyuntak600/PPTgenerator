@@ -106,7 +106,7 @@
     "다른 탭에서 이 도구가 편집되고 있어요. 두 곳에서 동시에 고치면 나중에 저장된 쪽이 덮어써요.":"This tool is being edited in another tab. If you edit in both, the one saved last overwrites the other.",
     "복구할 내용을 저장하지 못했어요.":"Couldn't save the content to restore.",
     "아직 자동 백업이 없어요. 글을 쓰면 1분에 한 번씩 자동으로 쌓여요.":"No auto backups yet. They accumulate every minute as you type.",
-    "이 시점으로 복구":"Restore to this point","이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.":"Restore this backup? The current content is also kept as a backup.",
+    "이 시점으로 복구":"Restore to this point","이 백업 하나만 지워요 (현재 작업 내용은 그대로예요)":"Delete just this backup (your current work stays as it is)","백업 삭제":"Delete backup","이 백업을 지울까요? 지운 백업은 되돌릴 수 없어요. 지금 작업 중인 내용은 그대로예요.":"Delete this backup? A deleted backup can't be brought back. Your current work stays as it is.","백업을 지웠어요.":"Backup deleted.","백업을 지우지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.":"Couldn't delete the backup. Browser storage isn't available.","이 백업으로 되돌릴까요? 지금 내용도 백업에 남겨 둬요.":"Restore this backup? The current content is also kept as a backup.",
     "백업 파일을 저장했어요.":"Backup file saved.","백업 파일을 읽지 못했어요. 이 도구에서 저장한 .json 파일인지 확인해 주세요.":"Couldn't read the backup file. Make sure it's a .json saved by this tool.",
     "파일 내용으로 바꿀까요? 지금 내용도 자동 백업에 남겨 둬요.":"Replace with the file's content? The current content is also kept in the auto backups.",
     "저장된 데이터를 읽지 못해 가장 최근 자동 백업으로 열었어요.":"Couldn't read the saved data, so the latest auto backup was opened.",
