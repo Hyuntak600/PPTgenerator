@@ -139,7 +139,8 @@ async function dbGo(sel) {
   if (my !== dbSeq) return; // 그 사이 다른 절을 골랐으면 이 결과는 버림
   fillNum(dbVerse, Math.max(dbVerseMax(sel), sel.v), sel.v);
   const rangeRow = BibleDB.rows(sel.en, sel.ch).find(r => r.Page === 1 && r.ChnVerseEnd >= sel.v && r.Verse <= sel.v && r.Chn);
-  setRefTags(rangeRow ? dbRefText({ en: sel.en, ch: sel.ch, v: rangeRow.Verse, vEnd: rangeRow.ChnVerseEnd }) : dbRefText(sel));
+  dbRefSrc = rangeRow ? { en: sel.en, ch: sel.ch, v: rangeRow.Verse, vEnd: rangeRow.ChnVerseEnd } : { en: sel.en, ch: sel.ch, v: sel.v };
+  setRefTags(dbRefText(dbRefSrc));
   const { pages, src } = dbSource(sel);
   const map = {};
   LANGS.forEach(({ code }) => { map[code] = pages.map(p => p[DB_FIELD[code]] || ""); });
@@ -735,7 +736,7 @@ function setMode(m) {
     dbGo(dbLoadSel()).then(() => restoreView(viewSnap.db));
     dbGuideFirstTime();
   } else {
-    dbSeq++; dbCur = null; appMode = "slide"; dbRoot.dataset.mode = "slide"; setRefTags("");
+    dbSeq++; dbCur = null; appMode = "slide"; dbRoot.dataset.mode = "slide"; dbRefSrc = null; setRefTags("");
     const sn = dbSlideSnap || { opts: [], map: {} };
     slideOpts = sn.opts; setDefaultAlign(slideAlignSnap); fillColumns(sn.map); applyOwnRefs(sn.refs || {}); refreshInfo();
     restoreView(viewSnap.slide);

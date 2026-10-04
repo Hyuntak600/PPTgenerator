@@ -36,22 +36,9 @@ function dbUnsentList() { // {list:[{en,ch,v,pages,unsent}], unsent: 안 보낸 
   list.sort((a, b) => (order.get(a.en) || 999) - (order.get(b.en) || 999) || a.ch - b.ch || a.v - b.v);
   return { list, unsent, sent };
 }
-function buildDbUnsentCode() {
-  const { list } = dbUnsentList();
-  if (!list.length) return "";
-  const chapters = new Set(list.map(x => x.en + "|" + x.ch)).size;
-  const out = ["// " + dbToday() + " 수정한 성경 구절 " + list.length + "절 (" + chapters + "개 장)", ""];
-  let cur = "";
-  list.forEach(x => {
-    const key = x.en + "|" + x.ch;
-    if (key !== cur) {
-      cur = key;
-      if (out[out.length - 1] !== "") out.push("");
-      out.push("// " + BibleDB.book(x.en).ko + " " + x.ch + "장");
-    }
-    if (!x.pages.length) out.push("// " + BibleDB.book(x.en).ko + " " + x.ch + ":" + x.v + " — 이 절은 내용을 비웠어요");
-    else x.pages.forEach((p, i) => out.push(dbLine(x.en, x.ch, x.v, i, p)));
-  });
+function buildDbUnsentCode() { // 설명 글(주석) 없이, 그대로 붙여 넣어 갱신할 항목만 책·장·절 순서로
+  const out = [];
+  dbUnsentList().list.forEach(x => x.pages.forEach((p, i) => out.push(dbLine(x.en, x.ch, x.v, i, p)))); // 내용을 비운 절(pages 없음)은 코드로 나타낼 수 없어 넣지 않음
   return out.join("\n");
 }
 // (DB 코드 복사 창에서 쓰는 도우미)
@@ -75,11 +62,8 @@ function dcBuildPickCode(sel) {
     const pages = cache.get(ck).get(x.v); return pages && pages[x.i];
   };
   const out = [];
-  let cur = "";
   items.forEach(x => {
     const p = pageOf(x); if (!p) return;
-    const key = x.en + "|" + x.ch;
-    if (key !== cur) { cur = key; if (out.length) out.push(""); out.push("// " + BibleDB.book(x.en).ko + " " + x.ch + "장"); }
     out.push(dbLine(x.en, x.ch, x.v, x.i, p));
   });
   return out.join("\n");
@@ -94,13 +78,13 @@ function refreshDbCode() {
   if (dbScope === "unsent") {
     const r = dbUnsentList();
     dbCodeSub.textContent = r.unsent
-      ? "아직 안 보낸 수정 " + r.unsent + "절을 날짜와 상관없이 모두 모았어요. 복사해 관리자(" + APP_CONFIG.adminEmail + ")에게 보낸 뒤 [✅ 보냈어요]를 눌러 주세요. 보낸 뒤 다시 고친 절은 다시 모여요."
+      ? "아직 안 보낸 수정 " + r.unsent + "절을 날짜와 상관없이 모두 모았어요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보낸 뒤 [✅ 보냈어요]를 눌러 주세요. 보낸 뒤 다시 고친 절은 다시 모여요."
         + (dbInclSent.checked && r.sent ? " (이미 보낸 " + r.sent + "절 포함)" : "")
       : "아직 안 보낸 수정이 없어요 ✓" + (!r.sent ? "" : dbInclSent.checked ? " (아래는 이미 보낸 " + r.sent + "절이에요)" : " (이미 보낸 " + r.sent + "절은 [보낸 것도 포함]을 체크하면 다시 볼 수 있어요)");
     dbSentBtn.disabled = !r.unsent;
   } else {
     const cs = dbCur && window.BibleDB ? BibleDB.book(dbCur.en).ko + " " + dbCur.ch + ":" + dbCur.v : "";
-    dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자(" + APP_CONFIG.adminEmail + ")에게 보내 주세요."
+    dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보내 주세요."
       + (code ? "" : " (이 절에는 내용이 없어요)");
   }
 }
@@ -139,7 +123,7 @@ document.getElementById("dbCodeCopy").addEventListener("click", () => {
 document.getElementById("dbCodeClose").addEventListener("click", () => dbCodeOverlay.classList.remove("open"));
 dbCodeOverlay.addEventListener("click", e => { if (e.target === dbCodeOverlay) dbCodeOverlay.classList.remove("open"); });
 
-// ---- 📋 전체 복사 창 (성경 DB 모드): 성경 → 장 → 절 범위를 성경 불러오기와 같은 맥 스타일 선택기로 고름 ----
+// ---- 📋 복사 창 (성경 DB 모드): 성경 → 장 → 절 범위를 성경 불러오기와 같은 맥 스타일 선택기로 고름 ----
 // 문단 하나 = 한 페이지: 맨 위에 "책 이름 장:절", 그 아래 언어마다 한 줄, 문단 사이는 빈 줄. 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉨.
 const ccBook = document.getElementById("ccBook"), ccChap = document.getElementById("ccChap"), ccFrom = document.getElementById("ccFrom"), ccTo = document.getElementById("ccTo");
 let ccSeq = 0, ccInited = false, ccLoaded = false, ccItems = [];
@@ -185,7 +169,17 @@ function ccInit() {
   let chapBtn = null;
   pkMake([ccBook], () => { const b = ccBook.value ? BibleDB.book(ccBook.value) : null; return { text: b ? bkName(b) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
   chapBtn = pkMake([ccChap], () => ({ text: ccChap.value ? ccChap.value + "장" : "장", ph: !ccChap.value }), 64, close => pkChapMenu(close, () => {}, ctx)); chapBtn.title = "장 고르기";
-  macSelect(ccFrom); macSelect(ccTo); // 절도 같은 맥 스타일 드롭다운 (시작 ~ 끝)
+  // 절도 성경 불러오기와 같은 번호판(박스)으로: 시작 절 → 끝 절을 차례로 누르면 범위가 잡히고, [장 전체]로 한 번에 고를 수도 있음
+  const ccRange = () => { if (ccFrom.value === "" || !ccItems[+ccFrom.value]) return null; const a = +ccFrom.value, b = ccTo.value === "" ? a : +ccTo.value; return [Math.min(a, b), Math.max(a, b)]; };
+  const vctx = { book: null, chap: null, from: ccFrom, to: ccTo, cells: () => ccItems.map((x, i) => ({ label: x.label, item: i, title: "" })),
+    loaded: () => ccLoaded, range: ccRange, update: ccRefresh, all: () => { if (!ccItems.length) return; ccFrom.value = "0"; ccTo.value = String(ccItems.length - 1); ccRefresh(); },
+    unit: "절", allText: "장 전체", emptyMsg: "이 장에는 복사할 내용이 없어요." };
+  pkMake([ccFrom, ccTo], () => {
+    const r = ccRange();
+    if (!r) return { text: ccLoaded ? "절 선택" : "불러오는 중…", ph: true };
+    const a = ccItems[r[0]].label, b = ccItems[r[1]].label;
+    return { text: a === b ? a + "절" : a + " ~ " + b + "절" };
+  }, 108, close => pkVerseMenu(close, vctx)).title = "절 고르기 (시작 절 → 끝 절)";
   ccBook.addEventListener("change", () => { fillNum(ccChap, BibleDB.book(ccBook.value).chapters, 1); ccLoad(); });
   ccChap.addEventListener("change", () => { ccLoad(); });
   ccFrom.addEventListener("change", () => { if (+ccTo.value < +ccFrom.value) ccTo.value = ccFrom.value; ccRefresh(); }); // 끝이 시작보다 앞이면 끝도 맞춤

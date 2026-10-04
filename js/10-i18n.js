@@ -49,7 +49,7 @@
     "번역 서버 오류":"Translation server error","번역 서버 응답 이상":"Translation server bad response",
     "번역 서버 연결됨 · 언어 모델 부족":"Translation server connected · language models missing","번역 서버 연결됨":"Translation server connected",
     "⚠ 자동 저장 안 됨":"⚠ Auto-save off","🌗 자동":"🌗 Auto","🌙 다크":"🌙 Dark","☀️ 라이트":"☀️ Light",
-    "🛡️ 백업·복구":"🛡️ Backup·Restore","작업 내용 지우기":"Clear current work","📋 전체 복사":"📋 Copy all",
+    "🛡️ 백업·복구":"🛡️ Backup·Restore","작업 내용 지우기":"Clear current work","📋 복사":"📋 Copy",
     "기준 글자 크기":"Base font size","기본 정렬":"Default alignment","왼쪽":"Left","가운데":"Center","오른쪽":"Right",
     "⚙ 세부 설정":"⚙ Advanced settings","선택한 글자 번역 언어":"Language for selected-text translation",
     "드래그한 글자를 이 언어로 번역해 보여줘요.":"Drag text to see it translated into this language.",
@@ -159,11 +159,11 @@
 ,
     [/^이 PC의 브라우저에 저장된 로컬 데이터를 지워요\..*$/s, () => "This deletes local data saved in this PC's browser.\n\n· Slide script and settings\n· Automatic backups\n· Translation cache\n\nThe Bible DB (including your own verse edits) is NOT deleted.\nDeleted items can't be restored, so save any script you need as a file in Backup·Restore.\n\nContinue?"]
 ,
-    [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator (" + APP_CONFIG.adminEmail + "), then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
+    [/^아직 안 보낸 수정 (\d+)절을 날짜와 상관없이 모두 모았어요\..*?(?: \(이미 보낸 (\d+)절 포함\))?$/s, (n, m) => "Gathered all " + n + (n === "1" ? " edited verse" : " edited verses") + " not yet sent, whatever the date. Copy them, send them to the administrator by email (" + APP_CONFIG.adminEmail + ") or KakaoTalk, then press [✅ Mark as sent]. Verses you edit again after that are collected again." + (m ? " (including " + m + " already sent)" : "")],
     [/^아직 안 보낸 수정이 없어요 ✓(?: \(아래는 이미 보낸 (\d+)절이에요\)| \(이미 보낸 (\d+)절은 .*\))?$/s, (a, b) => "Nothing is waiting to be sent ✓" + (a ? " (below are the " + a + " already sent)" : b ? " (the " + b + " already sent can be shown by checking [Include already sent])" : "")],
     [/^(\d+)절을 보낸 것으로 표시했어요\..*$/s, n => "Marked " + n + (n === "1" ? " verse" : " verses") + " as sent. Only verses you edit again will be collected again."]
 ,
-    [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator (" + APP_CONFIG.adminEmail + ")." + (x ? " (This verse has no content)" : "")],
+    [/^지금 보고 있는 절 (.*)의 코드예요\..*?(\(이 절에는 내용이 없어요\))?$/s, (c, x) => "Code for the verse you are viewing" + (c ? " (" + c + ")" : "") + ". Copy it and send it to the administrator by email (" + APP_CONFIG.adminEmail + ") or KakaoTalk." + (x ? " (This verse has no content)" : "")],
     [/^(.+?) (\d+)장 · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " chapter " + ch + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"],

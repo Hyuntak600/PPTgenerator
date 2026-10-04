@@ -725,6 +725,7 @@ function refreshInfo() {
   updateSlideHeaders(cols);
   updateBoxLinks(cols);
   updateBibleBoxes();
+  if (appMode === "db" && dbRefSrc) { const t = dbRefText(dbRefSrc); if (t !== dbRefStr) setRefTags(t); }
   updateHelpBars(cols);
 }
 const refreshInfoSoon = debounce(refreshInfo, 80);
@@ -966,6 +967,16 @@ const BOOK_ID = "Kejadian,Keluaran,Imamat,Bilangan,Ulangan,Yosua,Hakim-hakim,Rut
 // 슬라이드 만들기 모드의 성경 표시: 조각에는 "BIB|영어책이름|장|절" 로 저장해 두고, 보여줄 때 슬라이드 만들기의 언어 설정에 맞춰 만든다.
 // 영어 (한국어) 중국어 인도네시아어 장:절 순서 — "제외"한 언어는 뺀다(영어를 빼면 한국어는 괄호 없이). 예전 방식으로 저장된 글(요한복음 3:16)은 그대로 보여준다.
 function bibleRefKey(en, ch, label) { return "BIB|" + en + "|" + ch + "|" + label; }
+// 성경 이름 한 줄: 슬라이드 구성의 언어 순서(langOrder)대로, "제외"한 언어는 빼고 만든다.
+// 영어·중국어는 그대로, 한국어·인도네시아어는 괄호 안에 넣는다(영어·중국어 이름이 하나도 없으면 괄호 없이). 같은 글자는 한 번만.
+function bibleNameList(b, idx) {
+  const nm = { en: b.en || "", ko: b.ko || "", zh: b.zh || BOOK_ZH[idx] || "", id: b.id || b.ind || BOOK_ID[idx] || "" };
+  const shown = langOrder.filter(c => !hiddenSet.has(c) && nm[c]);
+  const base = shown.some(c => c === "en" || c === "zh");
+  const out = [];
+  shown.forEach(c => { if (!out.some(o => o.t === nm[c])) out.push({ c, t: nm[c] }); });
+  return out.map(o => (o.c === "ko" || o.c === "id") && base ? "(" + o.t + ")" : o.t);
+}
 function refDisplay(raw, withPage) { // withPage === true 일 때만 "3:16 (a)"처럼 페이지 표시를 붙임. 슬라이드·복사·알림에는 숫자만("3:16")
   if (!raw || raw.slice(0, 4) !== "BIB|") return raw || "";
   const [, en, ch, lab0] = raw.split("|");
@@ -973,23 +984,18 @@ function refDisplay(raw, withPage) { // withPage === true 일 때만 "3:16 (a)"�
   const b = window.BibleDB ? BibleDB.book(en) : null;
   if (!b) return en + " " + ch + ":" + lab + (withPage && pm ? " (" + (pm[2] || pm[3]) + ")" : "");
   const idx = (+b.no > 0 ? +b.no : BibleDB.books.indexOf(b) + 1) - 1;
-  const nm = { en: b.en || en, ko: b.ko || "", zh: b.zh || BOOK_ZH[idx] || "", id: b.id || b.ind || BOOK_ID[idx] || "" };
-  const on = c => !hiddenSet.has(c), out = [];
-  if (on("en") && nm.en) out.push(nm.en);
-  if (on("ko") && nm.ko) out.push(on("en") && nm.en ? "(" + nm.ko + ")" : nm.ko);
-  if (on("zh") && nm.zh && !out.includes(nm.zh)) out.push(nm.zh);
-  if (on("id") && nm.id && !out.includes(nm.id)) out.push(nm.id);
+  const out = bibleNameList(b, idx);
   out.push(ch + ":" + lab + (withPage && pm ? " (" + (pm[2] || pm[3]) + ")" : ""));
   return out.join(" ");
 }
-// 영어 (한국어) 중국어 인도네시아어 장:절 — 숫자(장:절)는 맨 끝에 한 번만
+// 언어 설정 순서대로 이름들 + 장:절 — 숫자(장:절)는 맨 끝에 한 번만
 function dbRefText(s) {
   const b = window.BibleDB ? BibleDB.book(s.en) : null;
   if (!b) return s.en + " " + s.ch + ":" + s.v;
   const idx = (+b.no > 0 ? +b.no : BibleDB.books.indexOf(b) + 1) - 1;
-  const zh = b.zh || BOOK_ZH[idx] || "", idn = b.id || b.ind || BOOK_ID[idx] || "";
-  return [b.en + (b.ko ? " (" + b.ko + ")" : ""), zh, idn, s.ch + ":" + s.v + (s.vEnd > s.v ? "-" + s.vEnd : "")].filter(Boolean).join(" ");
+  return bibleNameList(b, idx).concat(s.ch + ":" + s.v + (s.vEnd > s.v ? "-" + s.vEnd : "")).join(" ");
 }
+let dbRefSrc = null; // DB 모드에서 지금 라벨을 만든 절 {en,ch,v,vEnd} — 언어 설정(순서·제외)이 바뀌면 이걸로 다시 만듦
 function setRefTags(str) {
   dbRefStr = str || "";
   right.querySelectorAll(".ref-tag").forEach(t => { t.textContent = dbRefStr; });

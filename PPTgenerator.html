@@ -914,6 +914,13 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 .ic-code,.ic-flask{--ic:#9b6be0;} .ic-moon{--ic:#7c7ce8;}
 .ic-globe,.ic-server{--ic:#2aa6c9;} .ic-import{--ic:#2fae9a;} .ic-checkc,.ic-shield,.ic-terminal{--ic:#2fae5e;}
 .btn.primary .ic,.seg button.active .ic,.patch-close-btn .ic,.mc-danger .ic,.danger .ic,.btn.danger .ic{stroke:currentColor;}
+/* DB 코드 복사 버튼: 창 안의 파란 [복사] 버튼과 구분되도록 보라색(아이콘 색과 같은 계열) */
+#dbCodeBtn.btn.primary{background:linear-gradient(color-mix(in srgb,#9b6be0 82%,#fff),#9b6be0); border:0; color:#fff;}
+#dbCodeBtn.btn.primary:hover{background:linear-gradient(color-mix(in srgb,#9b6be0 82%,#fff),#9b6be0); filter:brightness(1.06);}
+#dbCodeBtn.btn.primary:active{filter:brightness(.92);}
+#dbCodeBtn.btn.primary .ic{stroke:currentColor;}
+/* 창 아래쪽 버튼 줄: [복사]·[닫기] 등 모든 버튼을 같은 크기로 */
+.patch-modal .copy-actions > .btn,.patch-modal .copy-actions > .patch-close-btn,.patch-modal .patch-actions > .btn,.patch-modal .patch-actions > .patch-close-btn{box-sizing:border-box; min-width:76px; padding:7px 18px; font-size:.82rem; font-weight:600; line-height:1.3; border-radius:8px; text-align:center;}
 /* 시작 화면 체험: 번역 상자를 처음부터 같은 모양·같은 높이로 깔아 두어, 드래그해도 갑자기 생기거나 커지지 않게 */
 .wel-out{min-height:4.65em; background:color-mix(in srgb,var(--accent) 5%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--accent) 22%,var(--line)),inset 3px 0 0 color-mix(in srgb,var(--accent) 45%,var(--line));}
 .wel-out.has-text{background:color-mix(in srgb,var(--accent) 8%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--accent) 34%,var(--line)),inset 3px 0 0 var(--accent);}
@@ -1223,7 +1230,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
     <div class="copy-pick db-only" id="ctBiblePick">
       <label class="field"><span>성경</span><select id="ccBook"></select></label>
       <label class="field"><span>장</span><select id="ccChap"></select></label>
-      <div class="field"><span>절</span><select id="ccFrom" title="시작 절"></select><span class="cc-tilde">~</span><select id="ccTo" title="끝 절"></select></div>
+      <div class="field"><span>절</span><select id="ccFrom" title="시작 절"></select><select id="ccTo" title="끝 절"></select></div>
     </div>
     <textarea id="copyText" class="copy-text" spellcheck="false"></textarea>
     <div class="copy-actions">
@@ -1269,7 +1276,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 
     <h3><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드를 만들 때는</h3>
     <ul>
-      <li data-en="When making slides, use <b><svg class='ic ic-clipboard' aria-hidden='true'><use href='#i-clipboard'/></svg>Copy all</b>. Pick the Bible, chapter and verse from the Mac-style menus and the text appears below (it starts with only the verse you were viewing; change the end verse to include a range). Verses with several pages show as 16 (a) · 16 (b). In Make slides mode, use the <b>Slides</b> menu to choose the range to copy (default: all).">슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 글이 아래에 나와요(처음엔 보던 절만 나오고, 끝 절을 바꾸면 그 범위까지 나와요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
+      <li data-en="When making slides, use <b><svg class='ic ic-clipboard' aria-hidden='true'><use href='#i-clipboard'/></svg>Copy</b>. Pick the Bible, chapter and verse from the Mac-style menus and the text appears below (it starts with only the verse you were viewing; change the end verse to include a range). Verses with several pages show as 16 (a) · 16 (b). In Make slides mode, use the <b>Slides</b> menu to choose the range to copy (default: all).">슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 글이 아래에 나와요(처음엔 보던 절만 나오고, 끝 절을 바꾸면 그 범위까지 나와요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
     </ul>
 
     <h3><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</h3>
@@ -1331,7 +1338,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>자동 저장 안 됨</span>
       <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
       <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
-      <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 복사</button>
+      <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</button>
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
       <span class="hsep"></span>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>

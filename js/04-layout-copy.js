@@ -454,7 +454,7 @@ document.getElementById("copyTextBtn").addEventListener("click", () =>
   copyOverlay.addEventListener("click", e => { if (e.target === copyOverlay) close(); });
 })();
 
-// 전체 복사 창. 슬라이드 만들기 = 슬라이드 범위 드롭다운(기본 전부) / 성경 DB = 성경·장·절 드롭다운(성경 불러오기와 같은 맥 스타일)
+// 복사 창. 슬라이드 만들기 = 슬라이드 범위 드롭다운(기본 전부) / 성경 DB = 성경·장·절 드롭다운(성경 불러오기와 같은 맥 스타일)
 // 고른 범위의 글이 아래 칸에 나오고, 필요하면 고친 뒤 [복사]를 누르면 복사된다.
 let ctSlides = [];
 const ssFrom = document.getElementById("ssFrom"), ssTo = document.getElementById("ssTo");
