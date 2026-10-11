@@ -1150,6 +1150,12 @@ html .wel-fold>summary .wel-date{margin-left:auto;}
 html .wel-fold[open]>summary{margin-bottom:12px;}
 /* 입력 칸 안내 글이 글자 중간에서 끊기지 않게 */
 .box textarea,.box textarea::placeholder{word-break:keep-all; overflow-wrap:anywhere;}
+
+/* 4개 언어 칸이 좁은 창(특히 스크롤바가 두꺼운 윈도우)에서 좌우로 잘려 스크롤되지 않게: 칸 최소 너비·간격을 줄임 */
+html .left{gap:10px; padding-left:12px; padding-right:12px;}
+html .left{overflow-x:hidden; scroll-snap-type:none;}
+html .col{flex:1 1 0; min-width:0;}
+html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
 </style>
 </head>
 <body>
@@ -1200,7 +1206,7 @@ html .wel-fold[open]>summary{margin-bottom:12px;}
       <li data-en="&lt;b&gt;The drag-translation box now follows long translations to the last line.&lt;/b&gt; The bottom stays in view as the translation changes."><b>드래그 번역 칸이 긴 번역도 마지막 줄까지 따라 내려가요.</b> 번역이 바뀔 때마다 맨 아래가 보여요.</li>
       <li data-en="&lt;b&gt;This guide appears again with each new patch note.&lt;/b&gt; Press &lt;b&gt;Hide until the next patch note&lt;/b&gt; to keep it quiet until then; reopen it any time with &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top."><b>새 패치노트가 나오면 이 안내 창이 다시 떠요.</b> 맨 아래 <b>다음 패치노트까지 안 뜨게 하기</b>를 누르면 그때까지 조용하고, 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
       <li data-en="&lt;b&gt;A long text pasted into an empty piece is split into paragraphs automatically.&lt;/b&gt; Each paragraph separated by a blank line becomes its own piece, and Ctrl/⌘+Z undoes it."><b>긴 글을 빈 조각에 붙여넣으면 단락별로 자동으로 나뉘어요.</b> 빈 줄로 구분된 단락마다 조각이 하나씩 생기고, Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
-      <li data-en="&lt;b&gt;The [Filter out other-language lines] button&lt;/b&gt; removes lines that aren't in a column's own language (such as the original text). It judges by the writing itself with no translation server, and Ctrl/⌘+Z undoes it."><b>[다른 언어 줄 거르기]</b> 버튼으로 각 칸에서 그 칸 언어가 아닌 줄(원문 등)을 뺄 수 있어요. 번역 서버 없이 글자 종류로 가리며, Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
+      <li data-en="&lt;b&gt;The [Auto-delete mixed languages] button&lt;/b&gt; automatically deletes lines that aren't in a column's own language (such as the original text). It judges by the writing itself with no translation server, and Ctrl/⌘+Z undoes it."><b>[섞인 언어 자동 삭제]</b> 버튼으로 각 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지울 수 있어요. 번역 서버 없이 글자 종류로 가리며, Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
       <li data-en="&lt;b&gt;The screen no longer jumps when you split or merge pieces.&lt;/b&gt; Scroll yourself when you need to."><b>조각을 나누거나 합칠 때 화면이 움직이지 않아요.</b> 필요하면 직접 스크롤해 주세요.</li>
       <li data-en="&lt;b&gt;The tutorial now runs right inside this guide.&lt;/b&gt; Split the Chinese and Indonesian John 3:16 yourself. Your script columns on the left are not touched."><b>튜토리얼이 시작 안내 안에서 바로 돼요.</b> 요한복음 3:16을 보며 중국어·인도네시아어를 직접 나눠 보세요. 왼쪽 원고 칸은 건드리지 않아요.</li>
     </ul>
@@ -1525,7 +1531,7 @@ html .wel-fold[open]>summary{margin-bottom:12px;}
       </div>
     </details>
     <div class="toolbar-right">
-      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에서 그 칸 언어가 아닌 줄(원문 등)을 빼요. 되돌리기: Ctrl/⌘+Z">언어별로 줄 정리</button>
+      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지워요. 되돌리기: Ctrl/⌘+Z">섞인 언어 자동 삭제</button>
       <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
       <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
       <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
