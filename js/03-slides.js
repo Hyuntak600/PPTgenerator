@@ -220,6 +220,17 @@ function splitTargetAfter(wrap, tail) {
   if (hasBlankSlotBelow(wrap)) return wrap;             // ③ 다른 언어 때문에 비어 있는 자리가 있음
   return last;                                          // 구절 밑에 글 쓸 곳이 없을 때만: 구절 밑에 새 조각
 }
+// 왼쪽·오른쪽 스크롤 위치를 기억해 두었다가 되돌려 주는 함수를 돌려준다. 바로 한 번, 그리고 높이 재계산·슬라이드 다시 그리기가 끝난 뒤(두 프레임 뒤)에 한 번 더 되돌림.
+// 그 사이에는 브라우저의 스크롤 앵커링도 꺼서 내용 높이가 바뀌어도 화면이 밀리지 않게 함
+function holdScroll() {
+  const L = { t: left.scrollTop, l: left.scrollLeft }, R = { t: right.scrollTop, l: right.scrollLeft };
+  left.style.overflowAnchor = "none"; right.style.overflowAnchor = "none";
+  const put = () => { left.scrollTop = L.t; left.scrollLeft = L.l; right.scrollTop = R.t; right.scrollLeft = R.l; };
+  return () => {
+    put();
+    requestAnimationFrame(() => { put(); requestAnimationFrame(() => { put(); setTimeout(() => { put(); left.style.overflowAnchor = ""; right.style.overflowAnchor = ""; }, 300); }); });
+  };
+}
 left.addEventListener("keydown", e => {
   const wrap = boxOfEvent(e);
   if (!wrap) return;
@@ -242,6 +253,7 @@ left.addEventListener("keydown", e => {
     e.preventDefault();
     if (wrap.dataset.ref) { showToast("성경 구절은 한 슬라이드로 고정돼 있어서 나눌 수 없어요.", true); return; } // 성경 조각은 나누지 않음
     pushUndo("문장 나누기");
+    const keep = holdScroll(); // 나누는 동안 왼쪽·오른쪽 화면 위치를 그대로 붙잡아 둠
     const pos = ta.selectionStart;
     const head = ta.value.slice(0, pos), tail = ta.value.slice(pos);
     ta.value = head;
@@ -252,11 +264,60 @@ left.addEventListener("keydown", e => {
     const after = splitTargetAfter(wrap, tail);
     const nb = addBox(col, col.dataset.lang, tail, after);
     followRefOpts(rowsBefore, buildRowMap(), nb.closest(".box"), 1);
-    nb.focus();
+    // 높이·줄 정렬을 지금 바로 확정하고, 포커스는 스크롤 없이 준다. 화면 위치는 사용자가 직접 움직일 때만 바뀐다.
+    autoGrow(nb);
+    alignRows();
+    nb.focus({ preventScroll: true });
     nb.setSelectionRange(0, 0);
+    nb.scrollTop = 0;
+    keep();
     saveStateDebounced();
     syncSlidesSoon();
   }
+});
+// 긴 글 붙여넣기(비어 있는 조각에 처음 붙일 때만): 붙여넣은 글에 빈 줄(줄바꿈 2번 이상)로 나뉜 단락이 2개 이상 있으면, 단락마다 조각을 하나씩 자동으로 만든다.
+//  - 단락 안의 한 번짜리 줄바꿈은 그대로 두고(그 조각 안의 줄바꿈), 단락 앞뒤 공백·빈 단락은 뺀다
+//  - 첫 단락은 지금(빈) 조각에, 나머지 단락은 바로 아래 새 조각으로 들어감. 글이 이미 있는 조각·직접 타이핑은 건드리지 않음
+//  - 빈 줄 단락이 하나뿐이면 평소 붙여넣기 그대로. 화면 위치는 움직이지 않고, Ctrl/⌘+Z 한 번으로 붙이기 전으로 돌아감
+const PASTE_SPLIT = /\n(?:[ \t\u00a0\u3000]*\n)+/;
+left.addEventListener("paste", e => {
+  if (appMode !== "slide") return;
+  const wrap = boxOfEvent(e);
+  if (!wrap || wrap.dataset.ref || !e.clipboardData) return;
+  const ta = wrap._ta;
+  if (ta.readOnly || ta.disabled) return;
+  if (NON_BLANK.test(ta.value)) return; // 이미 글이 있는 조각에는 평소 붙여넣기 그대로: 빈 조각에 처음 붙여넣을 때만 나눔
+  const raw = e.clipboardData.getData("text/plain");
+  if (!raw) return;
+  const parts = raw.replace(/\r\n?/g, "\n").split(PASTE_SPLIT).map(t => t.trim()).filter(Boolean);
+  if (parts.length < 2) return;
+  e.preventDefault();
+  pushUndo("붙여넣기(단락 나누기)");
+  const keep = holdScroll();
+  const col = wrap.parentElement;
+  const before = ta.value.slice(0, ta.selectionStart), after = ta.value.slice(ta.selectionEnd);
+  const rowsBefore = buildRowMap();
+  ta.value = before + parts[0];
+  const caret = ta.value.length;
+  autoGrow(ta);
+  let prev = wrap;
+  isRestoring = true; // 한꺼번에 만드는 동안은 번호·정렬을 조각마다 다시 하지 않고 끝난 뒤 한 번만
+  try {
+    for (let i = 1; i < parts.length; i++) prev = addBox(col, col.dataset.lang, i === parts.length - 1 ? parts[i] + after : parts[i], prev).closest(".box");
+  } finally { isRestoring = false; }
+  // 뒤따르는 성경 줄이 있으면 그 줄의 슬라이드별 글자 크기·정렬 설정도 늘어난 줄 수만큼 같이 밀어 줌
+  const rowsAfter = buildRowMap(), delta = rowsAfter.length - rowsBefore.length;
+  if (delta > 0) {
+    const at = rowIndexOf(prev, rowsAfter), na = rowsAfter.findIndex((r, i) => i > at && r.anchor);
+    if (na >= 0) for (let k = 0; k < delta; k++) shiftOpts(na - delta, 1);
+  }
+  renumberColumn(col);
+  ta.focus({ preventScroll: true });
+  ta.setSelectionRange(caret, caret);
+  keep();
+  saveStateDebounced();
+  syncSlidesSoon();
+  showToast(parts.length + "개 단락을 조각으로 나눠 넣었어요. (되돌리기: Ctrl/⌘+Z)");
 });
 left.addEventListener("click", e => {
   const btn = e.target.closest ? e.target.closest(".box-link") : null;
@@ -743,6 +804,7 @@ function prevBoxSibling(boxEl) {
 }
 function mergeIntoPrevious(curr, prev) {
   pushUndo("조각 합치기");
+  const keep = holdScroll(); // 합치는 동안 화면 위치를 그대로 붙잡아 둠(엔터로 나눌 때와 같은 방식)
   const col = curr.closest(".col");
   const currTa = curr.querySelector("textarea");
   const prevTa = prev.querySelector("textarea");
@@ -753,8 +815,10 @@ function mergeIntoPrevious(curr, prev) {
   curr.remove();
   followRefOpts(rowsBefore, buildRowMap(), curr, -1);
   renumberColumn(col);
-  prevTa.focus();
+  alignRows(); // 줄어든 높이를 지금 바로 맞춰 둠
+  prevTa.focus({ preventScroll: true });
   prevTa.setSelectionRange(caret, caret);
+  keep();
   syncSlides(); // 오른쪽은 왼쪽을 다시 비추기만 하면 된다
   saveStateDebounced();
 }
