@@ -54,24 +54,32 @@ macConfirm._n = 0;
   const closeBtn = document.getElementById("patchCloseBtn");
   const reopenBtn = document.getElementById("patchReopenBtn");
 
-  // 처음 들어온 사람에게만 한 번 자동으로 띄움. 이 브라우저에 "봤다"는 표시를 남기고, 표시 키는 "로컬 데이터 지우기"(subtitleTool_ 계열)가 지우지 않아 지운 뒤에도 다시 뜨지 않음.
-  // 저장소를 못 쓰는 환경(시크릿 창 등)에서는 열 때마다 뜸. 위쪽 [시작 안내] 버튼으로는 언제든 다시 볼 수 있음.
+  // 시작 안내 창은 "패치노트 버전"이 바뀔 때마다 모든 사람에게 다시 뜬다. 버전은 PPTgenerator.html의 #patchOverlay data-patch-version(날짜) 한 곳에서만 바꾼다.
+  //  - 그냥 닫기(시작하기·Esc·바깥 클릭)는 아무것도 기억하지 않아서, 다음에 열 때 또 뜸
+  //  - [다음 패치노트까지 안 뜨게 하기]를 누르면 이 브라우저에 "그 버전을 확인했다"고 남기고, 같은 버전에서는 자동으로 뜨지 않음 (새 버전이 나오면 값이 달라서 다시 뜸)
+  //  - 예전 방식이 남긴 값("1")은 버전과 달라서 모두에게 한 번 다시 뜸. 키는 "로컬 데이터 지우기"(subtitleTool_ 계열)가 지우지 않음
+  //  - 저장소를 못 쓰는 환경(시크릿 창 등)에서는 열 때마다 뜸. 위쪽 [시작 안내] 버튼으로는 언제든 다시 볼 수 있음
   const SEEN_KEY = "subtitleStartGuideSeen";
-  function markSeen() { try { localStorage.setItem(SEEN_KEY, "1"); } catch (e) { /* 못 남기면 다음에 한 번 더 보일 뿐 */ } }
-  function isSeen() { try { return localStorage.getItem(SEEN_KEY) === "1"; } catch (e) { return false; } }
+  const VERSION = overlay.dataset.patchVersion || "";
+  function isHidden() { try { return !!VERSION && localStorage.getItem(SEEN_KEY) === VERSION; } catch (e) { return false; } }
+  function hideUntilNext() { try { if (VERSION) localStorage.setItem(SEEN_KEY, VERSION); } catch (e) { /* 못 남기면 다음에도 뜰 뿐 */ } }
   function openModal() {
     overlay.classList.add("open");
   }
   function closeModal() {
     overlay.classList.remove("open");
-    markSeen();
   }
 
   closeBtn.addEventListener("click", closeModal);
   // 성경 DB 모드에서는 이 버튼이 "사용 안내"(성경 DB용)로 바뀌어 DB 안내 창을 연다. 슬라이드 만들기 모드는 그대로 시작 안내
   reopenBtn.addEventListener("click", () => { if (appMode === "db") dbGuideOverlay.classList.add("open"); else openModal(); });
   overlay.addEventListener("click", e => { if (e.target === overlay) closeModal(); });
-  if (!isSeen()) { openModal(); markSeen(); } // 첫 방문: 어떻게 닫든(체험 버튼으로 닫아도) 한 번만 뜸
+  const hideBtn = document.getElementById("patchHideBtn");
+  if (hideBtn) hideBtn.addEventListener("click", () => {
+    hideUntilNext(); closeModal();
+    if (typeof showToast === "function") showToast("다음 패치노트가 나올 때까지 이 창이 뜨지 않아요. 위쪽 [시작 안내]로 언제든 다시 볼 수 있어요.");
+  });
+  if (!isHidden()) openModal(); // 이 버전을 "안 뜨게 하기" 하지 않은 사람에게는 열 때마다 뜸
 })();
 
 // ---------------------------------------------------------------------

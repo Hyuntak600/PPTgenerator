@@ -34,7 +34,9 @@
     "언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.":"Split each language's script into sentences, pair them on one slide, check them, then copy the text out.",
     "🚀 이렇게 써요":"🚀 How to use", "🧪 직접 해보기 — 요한복음 3:16":"🧪 Try it — John 3:16",
     "성경 구절 언어":"Verse language","번역 결과":"Translate to","한국어":"Korean",
-    "📥 왼쪽 칸 4개에 이 구절 넣어 보기":"📥 Put this verse in the 4 left columns",
+    "다음 패치노트까지 안 뜨게 하기":"Hide until the next patch note","이 창을 닫고, 다음 패치노트가 나올 때까지 열 때 자동으로 뜨지 않게 해요":"Closes this window and keeps it from opening automatically until the next patch note","다음 패치노트가 나올 때까지 이 창이 뜨지 않아요. 위쪽 [시작 안내]로 언제든 다시 볼 수 있어요.":"This window won't appear until the next patch note. You can reopen it anytime with [Getting started] at the top.",
+    "📥 왼쪽 칸 4개에 넣고 직접 나눠 보기":"📥 Put it in the 4 left columns and try splitting",
+    "왼쪽 칸 4개에 넣고 직접 나눠 보기":"Put it in the 4 left columns and try splitting",
     "이 체험은 영어로 번역해서 보여줘요. 영어 구절은 쓰지 않아요":"This tryout translates into English, so the English verse isn't used",
     "📼 번역기 출력 기록":"📼 Record translator output",
     "🆕 최신 패치노트":"🆕 Latest patch notes","🛠 개발자 노트":"🛠 Developer notes",
@@ -70,7 +72,7 @@
     "제외":"Exclude","슬라이드·복사에서 모두 빼요(왼쪽 원문은 그대로 남아요)":"Removed from slides and copy (the left source text stays)",
     "( ) 복사만":"( ) copy only","끌어서 순서를 바꿀 수 있어요":"Drag to reorder","기준 글자 크기 ":"Base font size",
     /* 툴팁 · placeholder */
-    "요한복음 3장 16절":"John 3:16","언어별 칸 4개에 요한복음 3:16을 한 조각씩 넣어요 (칸이 모두 비어 있을 때만)":"Puts John 3:16 as one piece into each of the 4 language columns (only when all columns are empty)",
+    "요한복음 3장 16절":"John 3:16","요한복음 3:16을 언어별 칸 4개에 넣어요. 한국어·영어는 2조각으로 나눠 두고, 중국어·인도네시아어는 1조각으로 넣어 두니 직접 나눠 보세요 (칸이 모두 비어 있을 때만)":"Puts John 3:16 into the 4 language columns. Korean and English come already split into 2 pieces; Chinese and Indonesian are 1 piece each, so try splitting them yourself (only when all columns are empty)",
     "사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트":"Usage · Translation demo · Patch notes · Developer notes",
     "번역 미리보기에 쓰는 번역 서버 설치 방법":"How to install the translation server used for previews",
     "눌러서 번역 서버 연결을 다시 확인":"Click to re-check the translation server connection",
@@ -115,7 +117,7 @@
     "이 체험에서는 English 번역만 보여줘요":"This tryout only shows English",
     "이 구간은 체험용 번역표에 없어요. 다른 구간을 드래그해 보세요.":"This span isn't in the tryout's translation table. Try dragging a different span.",
     "체험용 번역표를 불러오지 못했어요. 페이지를 새로고침해 주세요.":"Couldn't load the tryout translation table. Please refresh the page.",
-    "4개 칸에 요한복음 3:16을 넣었어요.":"Put John 3:16 into the 4 columns.",
+    "요한복음 3:16을 넣었어요. 한국어·영어는 2조각으로 나눠 뒀어요. 중국어·인도네시아어도 내용에 맞게 다른 조각으로 나눠 보세요 (나눌 자리에 커서를 두고 Enter)!":"John 3:16 inserted. Korean and English are already split into 2 pieces. Now split the Chinese and Indonesian ones to match the meaning (put the cursor where you want to split and press Enter)!",
     "이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.":"There is already text, so the example wasn't inserted. Press \"Clear current work\" and try again.",
     "요한복음 3:16을 넣었어요. 왼쪽 글자를 드래그하면 번역을 확인할 수 있어요.":"John 3:16 inserted. Drag over the text on the left to see the translation.",
     /* 영어 화면 보강(빠져 있던 문구) */
@@ -167,6 +169,9 @@
     [/^(.+?) (\d+)장 · (\d+)페이지의 글을 모았어요\..*$/s, (nm, ch, p) => "Gathered " + p + (p === "1" ? " page" : " pages") + " of text from " + nm + " chapter " + ch + ". Each paragraph shows the verse name and the text per language. Edit it if you like, then press [Copy]."],
     [/^슬라이드 (?:전부 (\d+)장|(\d+)장 중 (\d+)장) · 문단마다.*$/s, (all, n, k) => (all ? "All " + all + " slides" : k + " of " + n + " slides") + " · One paragraph per slide, text only. Edit it if you like, then press [Copy]."],
     [/^선택 (\d+)절 · (\d+)페이지$/, (v, p) => v + " verses · " + p + " pages selected"],
+    [/^(\d+)개 단락을 조각으로 나눠 넣었어요\. \(되돌리기: Ctrl\/⌘\+Z\)$/, n => "Split into " + n + " pieces by paragraph. (Undo: Ctrl/⌘+Z)"],
+    [/^(\d+)개 조각으로 나눠 넣었어요\. 다른 언어로 보이는 (\d+)줄은 뺐어요\. \(되돌리기: Ctrl\/⌘\+Z\)$/, (n, k) => "Split into " + n + " pieces. Left out " + k + (k === "1" ? " line" : " lines") + " that look like another language. (Undo: Ctrl/⌘+Z)"],
+    [/^다른 언어로 보이는 (\d+)줄은 빼고 넣었어요\. \(되돌리기: Ctrl\/⌘\+Z\)$/, k => "Left out " + k + (k === "1" ? " line" : " lines") + " that look like another language. (Undo: Ctrl/⌘+Z)"],
     /* 영어 화면 보강 */
     [/^(\d+)개 조각을 지웠어요\. Ctrl\/⌘\+Z로 되돌릴 수 있어요\.$/, n => n + (n === "1" ? " piece" : " pieces") + " deleted. Undo with Ctrl/⌘+Z."],
     [/^로컬 데이터·캐시 (\d+)개를 지웠어요\. 성경 DB는 그대로 두고 다시 불러옵니다\.$/, n => "Deleted " + n + " local data/cache items. The Bible DB is kept and reloads."],

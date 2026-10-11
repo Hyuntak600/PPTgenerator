@@ -120,7 +120,7 @@
   });
 
   setVerse("ko");
-  // ─ "📥 왼쪽 칸 4개에 이 구절 넣어 보기": 한·중·영·인니 칸에 요한복음 3:16을 한 조각씩 넣는다(칸이 모두 비어 있을 때만) ─
+  // ─ "📥 왼쪽 칸 4개에 넣고 직접 나눠 보기"(튜토리얼): 요한복음 3:16을 한·영은 2조각, 중·인니는 1조각으로 넣는다(칸이 모두 비어 있을 때만). 중·인니는 사용자가 직접 나눠 봄 ─
   const fillBtn = document.getElementById("welFillBtn");
   if (fillBtn) fillBtn.addEventListener("click", () => {
     if (appMode !== "slide") return; // 성경 DB 모드의 칸은 절 데이터가 쓰고 있으니 건드리지 않음
@@ -129,14 +129,20 @@
       return;
     }
     pushUndo("예시 넣기");
-    const map = {}; LANGS.forEach(({ code }) => { map[code] = [VERSES[code]]; });
+    // 튜토리얼: 한국어·영어는 미리 2조각으로 나눠 두고, 중국어·인도네시아어는 한 조각에 통째로 넣어 둔다(사용자가 직접 Enter로 나눠 보게)
+    const cut = (v, marker) => { const i = v.indexOf(marker); return i < 0 ? [v] : [v.slice(0, i).trim(), v.slice(i).trim()]; };
+    const map = {};
+    LANGS.forEach(({ code }) => { map[code] = [VERSES[code]]; });
+    map.ko = cut(VERSES.ko, " 이는 ");        // 하나님이 … 주셨으니 | 이는 … 하려 하심이니라
+    map.en = cut(VERSES.en, " that whosoever"); // For God so loved … Son, | that whosoever … everlasting life.
     fillColumns(map, true); // 왼쪽 칸을 채우면 오른쪽 슬라이드가 다시 그려짐
     const total = buildRowMap().length; // 슬라이드별 설정 자리(글자 크기·정렬)를 기본값으로 채워 둠(성경 불러오기와 같은 방식)
     for (let k = 0; k < total; k++) if (!slideOpts[k]) slideOpts[k] = { size: 0, align: "" };
     syncSlides(); refreshInfo(); saveStateDebounced();
     document.getElementById("patchOverlay").classList.remove("open"); // 창에 가려져 있던 왼쪽 칸이 보이도록
-    showToast("4개 칸에 요한복음 3:16을 넣었어요.");
-    const first = left.querySelector(".box"); if (first) { first.scrollIntoView({ behavior: smoothBehavior(), block: "center" }); flash(first); }
+    showToast("요한복음 3:16을 넣었어요. 한국어·영어는 2조각으로 나눠 뒀어요. 중국어·인도네시아어도 내용에 맞게 다른 조각으로 나눠 보세요 (나눌 자리에 커서를 두고 Enter)!", false, 9000);
+    const first = left.querySelector(".box"); if (first) first.scrollIntoView({ behavior: smoothBehavior(), block: "center" });
+    ["zh", "id"].forEach(code => { const b = left.querySelector('.col[data-lang="' + code + '"] .box'); if (b) flash(b); }); // 직접 나눠 볼 두 칸을 깜빡여 알려 줌
   });
 
   // 시작 안내 창이 처음부터 열려 있으면 곧 체험을 쓸 가능성이 높으니 한가할 때 미리 받아 둔다(드래그 즉시 번역)
