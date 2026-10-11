@@ -1062,13 +1062,13 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 .col-selpreview{font-size:.9rem !important; line-height:1.5 !important;}
 
 /* ── 디자인 통일(2026-10-11): 버튼·글자·간격을 한 기준으로 ── */
-:root{--ui-fs:.86rem; --ctl-h:32px; --ctl-r:8px;}
+:root{--ui-fs:.8rem; --ctl-h:26px; --ctl-r:7px;}
 /* 1) 버튼: 위쪽 줄·툴바·오른쪽 줄 어디서나 같은 높이·글자·모서리 */
 html .head-top .btn,html .toolbar .btn,html .right-head .btn,html .toolbar-right .btn{
   box-sizing:border-box; display:inline-flex; align-items:center; justify-content:center; gap:6px;
-  min-height:var(--ctl-h); padding:0 12px; font-size:var(--ui-fs); line-height:1.2; border-radius:var(--ctl-r); white-space:nowrap;}
+  min-height:var(--ctl-h); padding:0 9px; font-size:var(--ui-fs); line-height:1.2; border-radius:var(--ctl-r); white-space:nowrap;}
 html .toolbar .btn.step{width:var(--ctl-h); padding:0; font-size:1.15rem;}
-html #undoBtn,html #redoBtn{padding:0 10px; font-size:1.2rem;}
+html #undoBtn,html #redoBtn{padding:0 8px; font-size:1.05rem;}
 html .head-top .lt-chip{min-height:var(--ctl-h); font-size:var(--ui-fs);}
 html .seg button{font-size:var(--ui-fs);}
 html .field{font-size:var(--ui-fs);}
@@ -1078,7 +1078,7 @@ html .head-top .btn.quiet.wipe{border-color:transparent; box-shadow:none; color:
 html .head-top .btn.quiet.wipe:hover{border-color:transparent; box-shadow:none; color:#d2382d; background:color-mix(in srgb,#ff3b30 12%,transparent);}
 html[data-theme="dark"] .head-top .btn.quiet.wipe,html[data-theme="dark"] .head-top .btn.quiet.wipe:hover{color:#ff7a70;}
 /* 3) 안내 줄(팁): 배너와 붙어 보이지 않게 여백, 단축키 글자 통일 */
-html .tips{padding:9px 20px; font-size:.84rem !important;}
+html .tips{padding:5px 16px; font-size:.78rem !important;}
 html .tips kbd,html .tips-pop kbd{font-size:.76rem; padding:1px 6px; border-radius:5px;}
 /* 4) 작은 라벨들 최소 크기 */
 .box-num,.box-link,.fit-badge{font-size:.72rem;}
@@ -1103,12 +1103,27 @@ html .rh-chips > *{white-space:nowrap;}
 html .lt-banner button{font-size:.84rem; padding:4px 12px;}
 /* 7) 보정: 오른쪽 헤더는 한 줄 유지(버튼을 조금 작게), 연결 칩은 점과 글자 사이 간격 */
 html .right-head{flex-wrap:nowrap;}
-html .right-head .btn{padding:0 7px; font-size:.78rem; min-height:30px;}
+html .right-head .btn{padding:0 7px; font-size:.78rem; min-height:26px;}
 html .rh-title{font-size:.88rem; white-space:nowrap;}
 html .rh-chips{flex:1 1 0; min-width:0;}
 html .head-top .lt-chip{gap:6px;}
 /* 8) 보정: 화면이 좁을 때(영어 등) 칩이 잘리지 않게 제목 글자를 접음 */
 @media (max-width:1320px){html .rh-title{display:none;}}
+
+
+/* ── 헤더 묶음 메뉴(도움말 ▾ · 데이터 ▾): 같은 종류 버튼을 한 곳에 ── */
+.hmenu{position:relative; display:inline-block;}
+.hmenu>summary{list-style:none; cursor:pointer; -webkit-user-select:none; user-select:none;}
+.hmenu>summary::-webkit-details-marker{display:none;}
+.hmenu>summary::after{content:"▾"; margin-left:5px; font-size:.75em; opacity:.65;}
+.hmenu[open]>summary{background:color-mix(in srgb,var(--ink) 10%,transparent);}
+.hmenu-panel{position:absolute; top:calc(100% + 6px); left:0; z-index:60; min-width:190px; display:flex; flex-direction:column; gap:1px; padding:5px; border-radius:10px;
+  background:color-mix(in srgb,var(--panel) 92%,transparent); -webkit-backdrop-filter:var(--mac-glass); backdrop-filter:var(--mac-glass); box-shadow:var(--mac-pop,0 10px 28px rgba(0,0,0,.25));}
+.hmenu.right .hmenu-panel{left:auto; right:0;}
+html .hmenu-panel .btn{width:100%; justify-content:flex-start; background:transparent; box-shadow:none; text-align:left;}
+html .hmenu-panel .btn:hover{background:color-mix(in srgb,var(--ink) 9%,transparent);}
+.hmenu-panel hr{border:0; border-top:1px solid var(--line); margin:4px 2px;}
+.settings-panel .setting .btn{min-width:96px;}
 </style>
 </head>
 <body>
@@ -1411,18 +1426,22 @@ html .head-top .lt-chip{gap:6px;}
   <div class="head-top">
     <h1>다국어 자막 정렬 도구</h1>
     <span class="seg" id="modeSeg" title="슬라이드 만들기 ↔ 성경 구절 데이터베이스 만들기"><button type="button" data-mode="slide" class="active"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드 만들기</button><button type="button" data-mode="db"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB</button></span>
-    <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
-    <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
+    <details class="hmenu" id="helpMenu"><summary class="btn quiet" title="사용법 · 서버 설치 안내">도움말</summary><div class="hmenu-panel">
+      <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
+      <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
+    </div></details>
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
       <span class="btn quiet danger" id="saveWarn" hidden title="브라우저 저장소를 쓸 수 없어요. 백업·복구에서 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>자동 저장 안 됨</span>
       <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
       <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</button>
+      <details class="hmenu right" id="dataMenu"><summary class="btn" title="백업·복구 · 지우기">데이터</summary><div class="hmenu-panel">
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
-      <span class="hsep"></span>
+      <hr class="slide-only">
       <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
+    </div></details>
     </div>
   </div>
   <div class="toolbar">
@@ -1440,7 +1459,7 @@ html .head-top .lt-chip{gap:6px;}
       </span>
     </div>
     <details class="settings-more" id="settingsMore">
-      <summary class="btn quiet"><svg class="ic ic-sliders" aria-hidden="true"><use href="#i-sliders"/></svg>세부 설정</summary>
+      <summary class="btn quiet"><svg class="ic ic-sliders" aria-hidden="true"><use href="#i-sliders"/></svg>설정</summary>
       <div class="settings-panel">
         <div class="setting">
           <span class="sl">선택한 글자 번역 언어</span>
@@ -1469,16 +1488,21 @@ html .head-top .lt-chip{gap:6px;}
           </span>
           <p class="help">기본은 프로프레젠터와 같은 <b>굵게</b>예요.</p>
         </div>
+              <div class="setting">
+          <span class="sl">화면 색</span>
+          <button type="button" class="btn quiet" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
+        </div>
+        <div class="setting">
+          <span class="sl">화면 언어</span>
+          <button type="button" class="btn quiet lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
+        </div>
       </div>
     </details>
     <div class="toolbar-right">
-      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에서 그 칸 언어가 아닌 줄(원문 등)을 빼요. 되돌리기: Ctrl/⌘+Z">다른 언어 줄 거르기</button>
+      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에서 그 칸 언어가 아닌 줄(원문 등)을 빼요. 되돌리기: Ctrl/⌘+Z">언어별로 줄 정리</button>
       <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
       <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
       <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
-      <span class="hsep"></span>
-      <button type="button" class="btn quiet" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
-      <button type="button" class="btn quiet lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
     </div>
   </div>
   <div class="toolbar dbbar db-only" id="dbBar">
@@ -1540,19 +1564,19 @@ html .head-top .lt-chip{gap:6px;}
 <script defer src="js/00-config.js?v=20261002i"></script>
 <script defer src="js/01-core.js?v=20261004a"></script>
 <script defer src="js/02-translate.js?v=20261011b"></script>
-<script defer src="js/03-slides.js?v=20261011a"></script>
+<script defer src="js/03-slides.js?v=20261011b"></script>
 <script defer src="js/04-layout-copy.js?v=20261004a"></script>
 <script defer src="js/05-storage.js?v=20261004b"></script>
 <script defer src="js/06-bible-db.js?v=20261004a"></script>
 <script defer src="js/07-bible-copy.js?v=20261004a"></script>
 <script defer src="js/08-welcome-demo.js?v=20261011a"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261011a"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261011b"></script>
 <script defer src="js/11-modal-guard.js?v=20261002b"></script>
 <script defer src="js/12-view-only.js?v=20261003hbc"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>
 <script defer src="js/18-goto-slide.js?v=20261003a"></script>
 <script defer src="js/19-find.js?v=20261003e"></script>
-<script defer src="js/20-etc-menu.js?v=20261011a"></script>
+<script defer src="js/20-menus.js?v=20261011b"></script>
 </body>
 </html>
