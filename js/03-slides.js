@@ -275,10 +275,114 @@ left.addEventListener("keydown", e => {
     syncSlidesSoon();
   }
 });
-// 긴 글 붙여넣기(비어 있는 조각에 처음 붙일 때만): 붙여넣은 글에 빈 줄(줄바꿈 2번 이상)로 나뉜 단락이 2개 이상 있으면, 단락마다 조각을 하나씩 자동으로 만든다.
+// ---- 붙여넣은 글에서 "이 칸의 언어가 아닌 줄" 걸러 내기 ----
+// 원문과 번역이 문단마다 번갈아 나오는 글을 한 칸에 통으로 붙여도, 그 칸 언어(한·중·영·인니)가 아닌 줄은 빼고 넣는다.
+// 번역 서버를 쓰지 않고 글자 종류로 판별한다(서버가 꺼져 있어도 되고, 수천 줄도 바로 끝남).
+// 칸이 언어별로 따로 있으니 "그 칸 언어인 줄만 남긴다"가 원칙이다. 다만 판단할 근거가 없는 줄(숫자·기호뿐인 줄, 아주 짧은 줄)은 남긴다.
+//  - 인용·괄호 안은 줄의 언어를 가릴 때 세지 않는다(영어 줄 끝의 "(요한복음 3:16)"이나 한국어 줄 속의 영어 인용에 속지 않게). 빼고 나면 글이 거의 안 남는 줄은 통째로 본다
+//  - 글자 종류별로 센다: 한글·한자·가나(일본어)·그 밖의 문자(그리스·히브리·키릴·아랍·태국 등)·알파벳. 한글·한자는 글자 하나가 알파벳 2.5자만큼 정보가 많다고 보고, 그 칸의 글자가 절반 이상일 때만 남김
+//  - 한국어 칸: 한글이 2자 이상이고 절반 이상. 중국어 칸: 한자가 3자 이상이고 절반 이상(한글보다 많고 일본어가 아님). 영어·인니 칸: 알파벳이 절반 이상
+//  - 그리스어·히브리어 같은 "그 밖의 문자" 원문은 어느 칸에서도 뺀다
+//  - 영어·인니 칸의 알파벳 줄은 대표 낱말(영어: the/and/of… · 인니: yang/dan/di…)로 한 번 더 가림: 반대 언어 낱말이 더 많으면 빼고, 낱말이 7개 이상인데 이 칸 언어 낱말이 하나도 없으면(스페인어·프랑스어 등 다른 언어) 뺌
+//  - 한국어·중국어 칸의 알파벳 낱말뿐인 줄(4자 이상), 영어·인니 칸의 한글·한자뿐인 짧은 줄은 짧아도 뺌
+//  - 숫자·기호뿐인 줄, 그 밖의 짧은 줄(글자 3자 미만이고 알파벳 12자 미만)은 판단하지 않고 남김
+const EN_STOP = new Set("the and of to in that is was for with as his her he she they you it not be are have but by on at from this which who will shall unto thee thou thy him them their there these those were been had has would could should what when where how why all our we your its if or than then an my so did does said say says up out into over upon about after before because also any some such only own one two am us let man men god lord".split(" "));
+const ID_STOP = new Set("yang dan di ke dari untuk dengan itu ini tidak akan pada adalah dalam juga atau saya kamu kita mereka dia ia telah oleh karena sebagai supaya itulah barangsiapa tetapi bahwa sudah ada bagi kepada seperti lebih semua setiap kami anda dapat harus hanya jika agar sehingga maka serta lalu masih sedang belum bukan pun lagi ketika kemudian sebab namun yaitu ialah kata berkata antara sampai setelah sebelum kalau apa siapa mana bisa boleh sangat para tiap sesudah segala suatu seorang kini nya aku engkau".split(" "));
+const QUOTED = /“[^”]*”|"[^"]*"|「[^」]*」|『[^』]*』|\([^)]*\)|（[^）]*）/g; // 인용·괄호 안은 그 줄의 언어를 가릴 때 세지 않음
+const DENSE = 2.5; // 한글·한자 한 글자 ≈ 알파벳 2.5자
+function scriptCounts(str) {
+  let hg = 0, han = 0, kana = 0, lat = 0, oth = 0;
+  for (let i = 0; i < str.length; i++) {
+    const c = str.charCodeAt(i);
+    if ((c >= 0xAC00 && c <= 0xD7A3) || (c >= 0x1100 && c <= 0x11FF) || (c >= 0x3130 && c <= 0x318F)) hg++;
+    else if ((c >= 0x4E00 && c <= 0x9FFF) || (c >= 0x3400 && c <= 0x4DBF)) han++;
+    else if (c >= 0x3040 && c <= 0x30FF) kana++;
+    else if ((c >= 65 && c <= 90) || (c >= 97 && c <= 122) || (c >= 0xC0 && c <= 0x24F) || (c >= 0x1E00 && c <= 0x1EFF)) lat++;
+    else if ((c >= 0x370 && c < 0x1100) || (c >= 0x1200 && c < 0x1E00) || (c >= 0x1F00 && c < 0x2000)) oth++; // 그리스·키릴·히브리·아랍·태국 등
+  }
+  return { hg, han, kana, lat, oth };
+}
+// 알파벳 줄이 이 칸(en/id) 언어인지: 대표 낱말로 가림. true = 남김
+function latinFits(code, str) {
+  const stripped = str.replace(QUOTED, " ");
+  const src = (stripped.match(/[A-Za-z]+/g) || []).length >= 4 ? stripped : str;
+  const ws = src.toLowerCase().match(/[a-zà-ÿ]+/g) || [];
+  let en = 0, id = 0;
+  ws.forEach(w => { if (EN_STOP.has(w)) en++; if (ID_STOP.has(w)) id++; });
+  const own = code === "en" ? en : id, other = code === "en" ? id : en;
+  if (ws.length >= 3 && other > own) return false;   // 반대쪽 언어 낱말이 더 많음
+  if (ws.length >= 7 && own === 0) return false;      // 긴 줄인데 이 칸 언어 낱말이 하나도 없음(다른 언어)
+  return true;
+}
+// 이 줄을 code 칸에 남길까? (true = 남김, false = 다른 언어 줄로 보고 뺌)
+function lineFits(code, str) {
+  let c = scriptCounts(str.replace(QUOTED, " "));
+  if (c.hg + c.han + c.kana + c.oth < 3 && c.lat < 12) c = scriptCounts(str); // 인용·괄호를 빼니 글이 안 남으면 통째로 봄
+  const nonLat = c.hg + c.han + c.kana + c.oth;
+  if ((code === "ko" || code === "zh") && !nonLat && c.lat >= 4) return false; // 한국어·중국어 칸에 알파벳 낱말뿐인 줄(Amen, John 3:16 등)
+  if (code === "zh" && c.hg && !c.han) return false;                             // 중국어 칸에 한글뿐인 줄(아멘 등)
+  if ((code === "en" || code === "id") && nonLat && c.lat < 3) return false;    // 영어·인니 칸에 한글·한자 글자뿐인 짧은 줄(아멘 등)
+  if (nonLat < 3 && c.lat < 12) return true;           // 너무 짧거나 글자가 거의 없는 줄: 판단하지 않음
+  const total = nonLat * DENSE + c.lat;
+  if (code === "ko") return c.hg >= 2 && c.hg * DENSE >= total * 0.5;
+  if (code === "zh") return c.han >= 3 && c.han > c.hg && c.kana <= c.han * 0.3 && c.han * DENSE >= total * 0.5;
+  if (c.lat * 1 < total * 0.5) return false;           // 영어·인니 칸: 알파벳이 절반도 안 되는 줄(한글·한자·가나·그 밖의 문자 위주)
+  return latinFits(code, str);
+}
+// [기타 ▾ → 다른 언어 줄 거르기] (js/20-etc-menu.js가 부름): 지금 원고의 각 언어 칸에서 그 칸 언어가 아닌 줄(원문 등)을 뺀다.
+//  - 붙여넣을 때 자동으로 하지 않고, 이 기능을 눌렀을 때만 한다. 줄 단위로 가려서, 조각 안에 섞여 있던 줄만 빼고 나머지는 그대로 둔다
+//  - 빼고 나서 글이 하나도 안 남는 조각은 지운다(칸에는 조각이 항상 1개 이상 남음). 성경에서 불러온 조각은 건드리지 않음
+//  - 칸에서 남는 줄이 10% 미만이면(칸을 잘못 고른 듯, 예: 영어 글만 있는 한국어 칸) 그 칸은 그대로 둠
+//  - 되돌리기: Ctrl/⌘+Z 한 번(지우기 직전 내용은 자동 백업에도 남음)
+function filterOtherLanguages() {
+  if (appMode !== "slide") return;
+  const plan = [], skipped = [];
+  let dropTotal = 0;
+  left.querySelectorAll(":scope > .col").forEach(col => {
+    const code = col.dataset.lang;
+    if (!LANGS.some(l => l.code === code)) return;
+    let total = 0, kept = 0, dropped = 0;
+    const edits = [];
+    col.querySelectorAll(":scope > .box").forEach(box => {
+      if (box.dataset.ref || !NON_BLANK.test(box._ta.value)) return;
+      const out = []; let bd = 0;
+      box._ta.value.replace(/\r\n?/g, "\n").split("\n").forEach(line => {
+        const t = line.trim();
+        if (!t) { out.push(""); return; }
+        total++;
+        if (lineFits(code, t)) { kept++; out.push(line); } else { bd++; dropped++; }
+      });
+      if (bd) edits.push({ box, text: out.join("\n").replace(/\n{3,}/g, "\n\n").replace(/^\n+|\n+$/g, "") });
+    });
+    if (!dropped) return;
+    if (kept < total * 0.1) { skipped.push(labelOf(code)); return; }
+    dropTotal += dropped; plan.push({ col, edits });
+  });
+  const undoTip = " (되돌리기: Ctrl/⌘+Z)", skipTip = skipped.join("·") + " 칸은 거의 다른 언어라 그대로 뒀어요.";
+  if (!dropTotal) { showToast(skipped.length ? skipTip : "다른 언어로 보이는 줄이 없어요."); return; }
+  const before = serializeState(); if (textCount(before) > 0) pushBackup(before, "언어 거르기 직전", true);
+  pushUndo("언어 거르기");
+  clearPicked();
+  isRestoring = true;
+  try {
+    plan.forEach(({ col, edits }) => edits.forEach(({ box, text }) => {
+      if (text) box._ta.value = text;
+      else if (col.querySelectorAll(":scope > .box").length > 1) { box.remove(); return; }
+      else box._ta.value = "";
+      autoGrowSoon(box._ta);
+    }));
+  } finally { isRestoring = false; }
+  plan.forEach(({ col }) => { renumberColumn(col); resetColSelPreview(col); });
+  syncSlides(); refreshInfo(); saveStateDebounced();
+  showToast("다른 언어로 보이는 " + dropTotal + "줄을 뺐어요." + (skipped.length ? " " + skipTip : "") + undoTip, false, skipped.length ? 7000 : undefined);
+}
+
+// 긴 글 붙여넣기(비어 있는 조각에 처음 붙일 때만):
+//  - 붙여넣은 글에 빈 줄(줄바꿈 2번 이상)로 나뉜 단락이 2개 이상 있으면, 단락마다 조각을 하나씩 자동으로 만든다
+//  - 다른 언어 줄 거르기는 붙여넣을 때 자동으로 하지 않는다: 위쪽 [기타 ▾] → [다른 언어 줄 거르기]를 눌렀을 때만(filterOtherLanguages)
 //  - 단락 안의 한 번짜리 줄바꿈은 그대로 두고(그 조각 안의 줄바꿈), 단락 앞뒤 공백·빈 단락은 뺀다
 //  - 첫 단락은 지금(빈) 조각에, 나머지 단락은 바로 아래 새 조각으로 들어감. 글이 이미 있는 조각·직접 타이핑은 건드리지 않음
-//  - 빈 줄 단락이 하나뿐이면 평소 붙여넣기 그대로. 화면 위치는 움직이지 않고, Ctrl/⌘+Z 한 번으로 붙이기 전으로 돌아감
+//  - 나눌 것이 없으면 평소 붙여넣기 그대로. 화면 위치는 움직이지 않고, Ctrl/⌘+Z 한 번으로 붙이기 전으로 돌아감
 const PASTE_SPLIT = /\n(?:[ \t\u00a0\u3000]*\n)+/;
 left.addEventListener("paste", e => {
   if (appMode !== "slide") return;
@@ -289,12 +393,13 @@ left.addEventListener("paste", e => {
   if (NON_BLANK.test(ta.value)) return; // 이미 글이 있는 조각에는 평소 붙여넣기 그대로: 빈 조각에 처음 붙여넣을 때만 나눔
   const raw = e.clipboardData.getData("text/plain");
   if (!raw) return;
-  const parts = raw.replace(/\r\n?/g, "\n").split(PASTE_SPLIT).map(t => t.trim()).filter(Boolean);
-  if (parts.length < 2) return;
+  const col = wrap.parentElement;
+  const paras = raw.replace(/\r\n?/g, "\n").split(PASTE_SPLIT);
+  const parts = paras.map(t => t.trim()).filter(Boolean);
+  if (parts.length < 2) return; // 나눌 것이 없으면 평소 붙여넣기
   e.preventDefault();
   pushUndo("붙여넣기(단락 나누기)");
   const keep = holdScroll();
-  const col = wrap.parentElement;
   const before = ta.value.slice(0, ta.selectionStart), after = ta.value.slice(ta.selectionEnd);
   const rowsBefore = buildRowMap();
   ta.value = before + parts[0];
@@ -318,15 +423,6 @@ left.addEventListener("paste", e => {
   saveStateDebounced();
   syncSlidesSoon();
   showToast(parts.length + "개 단락을 조각으로 나눠 넣었어요. (되돌리기: Ctrl/⌘+Z)");
-});
-left.addEventListener("click", e => {
-  const btn = e.target.closest ? e.target.closest(".box-link") : null;
-  if (btn) goToSlideOf(btn.parentElement);
-});
-// 슬라이드 속 문장을 누르면 같은 번호의 원문 조각으로 이동(슬라이드마다 리스너를 달지 않음)
-right.addEventListener("click", e => {
-  const slot = e.target.closest ? e.target.closest(".slot") : null;
-  if (slot && !slot.classList.contains("empty")) goToBoxOf(slot);
 });
 
 // ---------------------------------------------------------------------

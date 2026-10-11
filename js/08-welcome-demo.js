@@ -120,30 +120,148 @@
   });
 
   setVerse("ko");
-  // ─ "📥 왼쪽 칸 4개에 넣고 직접 나눠 보기"(튜토리얼): 요한복음 3:16을 한·영은 2조각, 중·인니는 1조각으로 넣는다(칸이 모두 비어 있을 때만). 중·인니는 사용자가 직접 나눠 봄 ─
-  const fillBtn = document.getElementById("welFillBtn");
-  if (fillBtn) fillBtn.addEventListener("click", () => {
-    if (appMode !== "slide") return; // 성경 DB 모드의 칸은 절 데이터가 쓰고 있으니 건드리지 않음
-    if ([...left.querySelectorAll(".box textarea")].some(t => NON_BLANK.test(t.value))) {
-      showToast("이미 원고가 있어서 예시를 넣지 않았어요. \"작업 내용 지우기\" 후 다시 눌러 주세요.", true);
-      return;
+  // ─ 튜토리얼(시작 안내 안에서 바로 연습): 요한복음 3:16을 한국어·영어는 이미 2조각으로 나눠 보여 주고, 중국어·인도네시아어는 1조각으로 보여 준다.
+  //   번역표를 보면서 Enter로 같은 뜻이 시작되는 곳에서 직접 나눠 보고, 맞게 나눴는지 알려 준다. 왼쪽 원고 칸·저장 데이터는 건드리지 않는다. ─
+  (function initWelTutorial() {
+    const grid = document.getElementById("tutGrid"), prev = document.getElementById("tutPrev"), out = document.getElementById("tutOut");
+    const done = document.getElementById("tutDone"), resetBtn = document.getElementById("tutReset"), ov = document.getElementById("patchOverlay");
+    if (!grid || !prev || !out) return;
+    const M_SUB_FIXED = "미리 나뉘어 있어요";
+    const M_SUB_EDIT = "직접 나눠 보세요";
+    const M_ST_ONE = "아직 한 조각이에요. 조각 아래 번역을 보고, 한국어·영어의 2번 조각과 같은 뜻이 시작되는 곳에 커서를 두고 Enter를 눌러 보세요.";
+    const M_ST_OK = "잘 나눴어요! 한국어·영어와 같은 자리에서 나뉘었어요.";
+    const M_ST_MANY = "조각이 너무 많아요. 한국어·영어처럼 2조각이 되게 해 보세요. (조각 맨 앞에서 Backspace를 누르면 앞 조각과 합쳐져요)";
+    const M_ST_OFF = "나뉜 자리가 한국어·영어와 조금 달라요. 2번 조각이 “믿는 자마다 … 영생을 얻게 하려…(that whosoever…)”로 시작하게 나눠 보세요. (조각 맨 앞에서 Backspace로 합친 뒤 다시 나눠도 돼요)";
+    const M_ST_MID = "글 중간에 커서를 두고 Enter를 눌러 주세요.";
+    const M_SEL_PLACE = "글자를 드래그하면 그 부분의 번역이 여기에 나와요. 번역을 보고 같은 뜻이 시작되는 곳을 찾아 보세요.";
+    const M_SEL_EN = "영어 구절은 번역하지 않아요.";
+    const ORDER = ["ko", "zh", "en", "id"], FIXED = new Set(["ko", "en"]);
+    const cutAt = (v, m) => { const i = v.indexOf(m); return i < 0 ? [v] : [v.slice(0, i).trim(), v.slice(i).trim()]; };
+    const START = { ko: cutAt(VERSES.ko, " 이는 "), en: cutAt(VERSES.en, " that whosoever") }; // 이미 나뉘어 있는 칸
+    const GOAL = { zh: cutAt(VERSES.zh, "叫一切信他的"), id: cutAt(VERSES.id, " supaya") };      // 같은 뜻으로 나뉘는 자리(정답)
+    const norm = s => s.replace(/[\s，,。.、;；]/g, "");
+    let pieces = {}, recAsked = false, selSeq = 0;
+    const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+    const isOpen = () => ov && ov.classList.contains("open");
+
+    function offsets(code) { // 각 조각이 구절 안에서 시작하는 자리
+      let p = 0;
+      return pieces[code].map(t => { const i = VERSES[code].indexOf(t, p), o = i < 0 ? p : i; p = o + t.length; return o; });
     }
-    pushUndo("예시 넣기");
-    // 튜토리얼: 한국어·영어는 미리 2조각으로 나눠 두고, 중국어·인도네시아어는 한 조각에 통째로 넣어 둔다(사용자가 직접 Enter로 나눠 보게)
-    const cut = (v, marker) => { const i = v.indexOf(marker); return i < 0 ? [v] : [v.slice(0, i).trim(), v.slice(i).trim()]; };
-    const map = {};
-    LANGS.forEach(({ code }) => { map[code] = [VERSES[code]]; });
-    map.ko = cut(VERSES.ko, " 이는 ");        // 하나님이 … 주셨으니 | 이는 … 하려 하심이니라
-    map.en = cut(VERSES.en, " that whosoever"); // For God so loved … Son, | that whosoever … everlasting life.
-    fillColumns(map, true); // 왼쪽 칸을 채우면 오른쪽 슬라이드가 다시 그려짐
-    const total = buildRowMap().length; // 슬라이드별 설정 자리(글자 크기·정렬)를 기본값으로 채워 둠(성경 불러오기와 같은 방식)
-    for (let k = 0; k < total; k++) if (!slideOpts[k]) slideOpts[k] = { size: 0, align: "" };
-    syncSlides(); refreshInfo(); saveStateDebounced();
-    document.getElementById("patchOverlay").classList.remove("open"); // 창에 가려져 있던 왼쪽 칸이 보이도록
-    showToast("요한복음 3:16을 넣었어요. 한국어·영어는 2조각으로 나눠 뒀어요. 중국어·인도네시아어도 내용에 맞게 다른 조각으로 나눠 보세요 (나눌 자리에 커서를 두고 Enter)!", false, 9000);
-    const first = left.querySelector(".box"); if (first) first.scrollIntoView({ behavior: smoothBehavior(), block: "center" });
-    ["zh", "id"].forEach(code => { const b = left.querySelector('.col[data-lang="' + code + '"] .box'); if (b) flash(b); }); // 직접 나눠 볼 두 칸을 깜빡여 알려 줌
-  });
+    function recAt(code, s, e) { // 번역표에서 [s, e) 구간 찾기(위 recLookup과 같은 규칙: 띄어쓰기 언어는 걸친 단어까지 넓혀 찾음)
+      const v = VERSES[code], rec = (window.WEL_REC && window.WEL_REC[code]) || {};
+      while (s < e && /\s/.test(v[s])) s++;
+      while (e > s && /\s/.test(v[e - 1])) e--;
+      if (s >= e) return "";
+      if (rec[v.slice(s, e)]) return rec[v.slice(s, e)];
+      if (code !== "zh") { while (s > 0 && !/\s/.test(v[s - 1])) s--; while (e < v.length && !/\s/.test(v[e])) e++; }
+      return rec[v.slice(s, e)] || "";
+    }
+    function fillTr() { // 조각마다 영어 번역을 아래에 보여 줌(번역표를 받은 뒤에)
+      if (!window.WEL_REC) return;
+      const offs = {}; ORDER.forEach(c => { offs[c] = offsets(c); });
+      grid.querySelectorAll(".tut-tr").forEach(tr => {
+        const c = tr.dataset.lang, i = +tr.dataset.idx, t = pieces[c][i], o = offs[c][i];
+        tr.textContent = t ? recAt(c, o, o + t.length) : "";
+      });
+    }
+    function ensureRec() {
+      if (window.WEL_REC) { fillTr(); return; }
+      if (recAsked) return;
+      recAsked = true;
+      loadRecTable().then(ok => { if (ok) fillTr(); else recAsked = false; });
+    }
+    function autosize() {
+      grid.querySelectorAll("textarea").forEach(t => { t.style.height = "auto"; t.style.height = (t.scrollHeight + 2) + "px"; });
+    }
+    function check(code) {
+      const p = pieces[code], g = GOAL[code];
+      if (p.length === 1) return { k: "hint", msg: M_ST_ONE };
+      if (p.length > 2) return { k: "hint", msg: M_ST_MANY };
+      if (norm(p[0]) === norm(g[0]) && norm(p[1]) === norm(g[1])) return { k: "ok", msg: M_ST_OK };
+      return { k: "hint", msg: M_ST_OFF };
+    }
+    function updateStats() {
+      grid.querySelectorAll(".tut-stat").forEach(st => { const c = check(st.dataset.lang); st.className = "tut-stat " + c.k; st.textContent = c.msg; });
+      if (done) done.hidden = !(check("zh").k === "ok" && check("id").k === "ok");
+    }
+    function renderPrev() { // 오른쪽 슬라이드가 어떻게 짝지어지는지: N번 조각이 N번 슬라이드에 들어감
+      prev.textContent = "";
+      const n = Math.max(...ORDER.map(c => pieces[c].length));
+      for (let i = 0; i < n; i++) {
+        const card = el("div", "tut-slide"); card.appendChild(el("div", "tut-sno", "슬라이드 " + (i + 1)));
+        ORDER.forEach(c => { const t = pieces[c][i], ln = el("div", "tut-line" + (t ? "" : " empty"), t || "—"); ln.style.color = "var(--" + c + ")"; card.appendChild(ln); });
+        prev.appendChild(card);
+      }
+    }
+    function setOut(text, has) { out.textContent = text; out.classList.toggle("has-text", !!has); out.classList.remove("pending"); }
+    function render(focus) {
+      grid.textContent = "";
+      ORDER.forEach(code => {
+        const fixed = FIXED.has(code), wrap = el("div", "tut-lang" + (fixed ? " fixed" : ""));
+        const head = el("div", "tut-head"), chip = el("span", "tut-chip", labelOf(code)); chip.style.color = "var(--" + code + ")";
+        head.append(chip, el("span", "tut-sub", fixed ? M_SUB_FIXED : M_SUB_EDIT)); wrap.appendChild(head);
+        pieces[code].forEach((t, i) => {
+          const box = el("div", "tut-box"), col = el("div", "tut-boxcol"), ta = document.createElement("textarea");
+          ta.className = "wel-verse tut-ta"; ta.readOnly = true; ta.rows = 1; ta.spellcheck = false; ta.value = t;
+          ta.dataset.lang = code; ta.dataset.idx = String(i);
+          col.appendChild(ta);
+          if (code !== "en") { const tr = el("div", "tut-tr"); tr.dataset.lang = code; tr.dataset.idx = String(i); col.appendChild(tr); }
+          box.append(el("span", "tut-num", String(i + 1)), col); wrap.appendChild(box);
+        });
+        if (!fixed) { const st = el("div", "tut-stat"); st.dataset.lang = code; wrap.appendChild(st); }
+        grid.appendChild(wrap);
+      });
+      updateStats(); renderPrev(); fillTr(); autosize();
+      if (focus) {
+        const ta = grid.querySelector('textarea[data-lang="' + focus.code + '"][data-idx="' + focus.idx + '"]');
+        if (ta) { ta.focus({ preventScroll: true }); try { ta.setSelectionRange(focus.caret, focus.caret); } catch (e) { /* 무시 */ } }
+      }
+    }
+    function reset() { pieces = { ko: START.ko.slice(), en: START.en.slice(), zh: [VERSES.zh], id: [VERSES.id] }; render(); setOut(M_SEL_PLACE, false); }
+
+    function split(code, idx, at) {
+      const t = pieces[code][idx], l = t.slice(0, at).trim(), r = t.slice(at).trim();
+      if (!l || !r) { const st = grid.querySelector('.tut-stat[data-lang="' + code + '"]'); if (st) { st.className = "tut-stat hint"; st.textContent = M_ST_MID; } return; }
+      pieces[code].splice(idx, 1, l, r);
+      render({ code, idx: idx + 1, caret: 0 });
+    }
+    function merge(code, idx) { // 조각 맨 앞에서 Backspace: 앞 조각과 합침
+      const a = pieces[code][idx - 1], b = pieces[code][idx];
+      pieces[code].splice(idx - 1, 2, a + (code === "zh" ? "" : " ") + b);
+      render({ code, idx: idx - 1, caret: a.length });
+    }
+    grid.addEventListener("keydown", e => {
+      const ta = e.target;
+      if (!ta.classList || !ta.classList.contains("tut-ta") || imeBusy(e)) return;
+      const code = ta.dataset.lang, idx = +ta.dataset.idx;
+      if (FIXED.has(code) || e.altKey || e.ctrlKey || e.metaKey) return;
+      if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); e.stopPropagation(); split(code, idx, ta.selectionStart); }
+      else if (e.key === "Backspace" && idx > 0 && ta.selectionStart === 0 && ta.selectionEnd === 0) { e.preventDefault(); e.stopPropagation(); merge(code, idx); }
+    });
+    async function showSel(ta) { // 드래그로 고른 부분의 번역
+      if (!ta || !ta.classList || !ta.classList.contains("tut-ta")) return;
+      const s = ta.selectionStart, e = ta.selectionEnd, code = ta.dataset.lang, my = ++selSeq;
+      if (s === e) { setOut(M_SEL_PLACE, false); return; }
+      if (code === "en") { setOut(M_SEL_EN, false); return; }
+      if (!window.WEL_REC) { out.textContent = "불러오는 중..."; out.classList.add("has-text", "pending"); }
+      const ok = await loadRecTable();
+      if (my !== selSeq) return;
+      if (!ok) { setOut(LOAD_FAIL, false); return; }
+      const o = offsets(code)[+ta.dataset.idx], text = recAt(code, o + s, o + e);
+      if (text) setOut(text, true); else setOut(NOT_FOUND, false);
+    }
+    grid.addEventListener("mouseup", e => { const t = e.target; setTimeout(() => showSel(t), 0); });
+    grid.addEventListener("keyup", e => showSel(e.target));
+    grid.addEventListener("select", e => showSel(e.target));
+    grid.addEventListener("focusin", ensureRec);
+    grid.addEventListener("mousedown", ensureRec);
+    if (resetBtn) resetBtn.addEventListener("click", reset);
+    if (ov) new MutationObserver(() => { if (isOpen()) { ensureRec(); requestAnimationFrame(autosize); } }).observe(ov, { attributes: true, attributeFilter: ["class"] });
+    window.addEventListener("resize", () => { if (isOpen()) autosize(); });
+    reset();
+    if (isOpen()) { ensureRec(); requestAnimationFrame(autosize); }
+  })();
 
   // 시작 안내 창이 처음부터 열려 있으면 곧 체험을 쓸 가능성이 높으니 한가할 때 미리 받아 둔다(드래그 즉시 번역)
   const welOverlay = document.getElementById("patchOverlay");
