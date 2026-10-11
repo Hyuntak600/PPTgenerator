@@ -215,6 +215,13 @@ previewLangSeg.querySelectorAll("button").forEach(btn => {
   });
 });
 
+// 미리보기 칸은 높이가 고정이라 글이 길어지면 맨 위에 머무른다 → 내용을 바꿀 때마다 맨 아래(가장 마지막 줄)가 보이게 내림
+function scrollSelToEnd(el) {
+  if (!el) return;
+  el.scrollTop = el.scrollHeight;
+  requestAnimationFrame(() => { el.scrollTop = el.scrollHeight; }); // 글자가 배치된 뒤 높이가 확정되면 한 번 더
+}
+
 function updateSelectionPreview(wrap) {
   const ta = wrap.querySelector("textarea");
   const col = wrap.closest(".col");
@@ -233,6 +240,7 @@ function updateSelectionPreview(wrap) {
     selEl.textContent = selected; // 이미 목표 언어이므로 번역 불필요
     selEl.classList.remove("pending");
     selEl.classList.add("has-text");
+    scrollSelToEnd(selEl);
     return;
   }
   // 끌고 있는 동안 선택이 계속 바뀌므로, 요청을 쌓지 않고 "가장 최근 선택"만 기억해 두었다가
@@ -263,6 +271,7 @@ async function runSelectionTranslate(selEl) {
       selEl.textContent = text;
       selEl.classList.remove("pending");
       selEl.classList.add("has-text");
+      scrollSelToEnd(selEl);
     }
   } finally {
     selEl._busy = false;
@@ -294,6 +303,7 @@ function resetColSelPreview(col) {
   el._want = null;
   el.textContent = SEL_PREVIEW_PLACEHOLDER;
   el.classList.remove("has-text", "pending");
+  el.scrollTop = 0;
 }
 
 LANGS.forEach(({ code, label }) => {

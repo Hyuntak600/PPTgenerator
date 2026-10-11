@@ -422,26 +422,27 @@ header{padding:12px 20px 10px;}
 .wel-row .seg button:disabled:hover{color:inherit;}
 .wel-hint{margin:0; font-size:.74rem; color:var(--sub); line-height:1.5;}
 .wel-tut{margin-top:6px;}
-.tut-grid{display:flex; flex-direction:column; gap:12px;}
-.tut-lang{display:flex; flex-direction:column; gap:6px;}
-.tut-head{display:flex; align-items:center; gap:8px; font-size:.76rem;}
-.tut-chip{font-weight:700;}
-.tut-sub{color:var(--sub);}
-.tut-box{display:flex; gap:8px; align-items:flex-start;}
-.tut-num{flex:none; width:20px; height:20px; margin-top:6px; border-radius:50%; background:var(--accent); color:#fff; font-size:.68rem; font-weight:600; display:grid; place-items:center;}
-.tut-boxcol{flex:1; min-width:0;}
-.tut-lang.fixed .tut-ta{opacity:.8;}
-.tut-lang:not(.fixed) .tut-ta{cursor:text;}
-.tut-tr{margin:3px 0 0 2px; font-size:.72rem; color:var(--sub); line-height:1.45;}
-.tut-tr:empty{display:none;}
-.tut-stat{font-size:.76rem; line-height:1.5; padding:6px 10px; border-radius:8px; background:var(--panel); border-left:3px solid var(--line); color:var(--ink);}
+.tut-grid{display:grid; grid-template-columns:repeat(4,minmax(150px,1fr)); column-gap:8px; row-gap:6px; align-items:stretch; overflow-x:auto; padding-bottom:4px; scroll-snap-type:x proximity;}
+.tut-cell{display:flex; flex-direction:column; gap:4px; min-width:0; scroll-snap-align:start;}
+.tut-cell[data-lang="ko"]{--lang-color:var(--ko);} .tut-cell[data-lang="zh"]{--lang-color:var(--zh);}
+.tut-cell[data-lang="en"]{--lang-color:var(--en);} .tut-cell[data-lang="id"]{--lang-color:var(--id);}
+.tut-grid .col-head{position:static; padding-bottom:0; background:transparent; gap:4px;}
+.tut-grid .col-selpreview{height:4.4em; font-size:.72rem;}
+.tut-sub{font-size:.68rem; color:var(--sub); text-align:center; line-height:1.3;}
+.tut-grid .box{flex:1; display:flex; flex-direction:column;}
+.tut-grid .box textarea{flex:none; font-size:.8rem; line-height:1.5; padding:18px 8px 4px;}
+.tut-cell.fixed .box textarea{opacity:.85; cursor:default;}
+.tut-cell:not(.fixed) .box textarea{cursor:text;}
+.tut-cell.gap{min-height:0;}
+.tut-stat{font-size:.72rem; line-height:1.45; padding:6px 8px; border-radius:8px; background:var(--panel); border-left:3px solid var(--line); color:var(--ink);}
+.tut-stat[hidden]{display:none;}
+.tut-guide{margin:0; font-size:1.02rem; line-height:1.55; padding:11px 14px; border-radius:10px; color:var(--ink); background:color-mix(in srgb,var(--accent) 10%,var(--panel)); box-shadow:inset 4px 0 0 var(--accent);}
 .tut-stat.hint{border-left-color:var(--accent);}
 .tut-stat.ok{border-left-color:#2e9e6b;}
-.tut-prev{display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:8px;}
-.tut-slide{border:1px solid var(--line); border-radius:8px; background:var(--panel); padding:7px 9px; display:flex; flex-direction:column; gap:3px; min-width:0;}
-.tut-sno{font-size:.68rem; color:var(--sub);}
-.tut-line{font-size:.74rem; line-height:1.4; font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
-.tut-line.empty{opacity:.35; font-weight:400;}
+@media (min-width:620px){ .wel-modal:has(.tut-grid){max-width:900px;} }
+.tut-prev{display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:14px;}
+.tut-prev .slide-block{max-width:none; margin:0;}
+.tut-prev .slot{pointer-events:none;}
 .tut-done{margin:0; font-size:.78rem; line-height:1.5; padding:8px 10px; border-radius:8px; background:var(--panel); border-left:3px solid #2e9e6b; color:var(--ink);}
 .tut-done[hidden]{display:none;}
 .wel-notes{margin:0; padding:10px 14px 10px 2.1em; font-size:1.04rem; line-height:1.6; color:var(--ink); font-weight:500;
@@ -982,13 +983,8 @@ html[data-view="slides"] .slot{pointer-events:none;} /* 원문 조각 칸이 숨
 .goto-pop .gp-input{flex:1; min-width:0; box-sizing:border-box; padding:5px 8px; font:inherit; color:var(--ink); background:var(--bg); border:1px solid var(--line); border-radius:8px;}
 .goto-pop .gp-input:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
 .goto-pop .gp-go{flex:none; padding:4px 12px;}
-.etc-pop{position:fixed; z-index:70; width:min(280px,calc(100vw - 24px)); padding:6px; box-sizing:border-box; border-radius:12px; font-size:.8rem; color:var(--ink);
   background:color-mix(in srgb,var(--panel) 88%,transparent); -webkit-backdrop-filter:saturate(180%) blur(24px); backdrop-filter:saturate(180%) blur(24px);
   box-shadow:0 0 0 .5px var(--line), 0 14px 36px rgba(0,0,0,.3);}
-.etc-pop .etc-item{display:flex; flex-direction:column; gap:3px; width:100%; box-sizing:border-box; padding:8px 10px; text-align:left; font:inherit; color:inherit; background:transparent; border:0; border-radius:8px; cursor:pointer;}
-.etc-pop .etc-item b{font-weight:600;}
-.etc-pop .etc-item span{color:var(--sub); font-size:.74rem; line-height:1.45;}
-.etc-pop .etc-item:hover,.etc-pop .etc-item:focus-visible{background:color-mix(in srgb,var(--accent) 14%,transparent); outline:none;}
 .find-bar{position:fixed; z-index:60; display:flex; align-items:center; gap:6px; box-sizing:border-box; padding:7px 8px 7px 10px; border-radius:12px; font-size:.8rem; color:var(--ink);
   background:color-mix(in srgb,var(--panel) 88%,transparent); -webkit-backdrop-filter:saturate(180%) blur(24px); backdrop-filter:saturate(180%) blur(24px);
   box-shadow:0 0 0 .5px var(--line), 0 10px 28px rgba(0,0,0,.28);}
@@ -1055,6 +1051,15 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
   box-shadow:0 0 0 .5px var(--line), 0 14px 36px rgba(0,0,0,.3);}
 .tips-pop .tp-title{font-weight:600; font-size:.8rem; margin-bottom:8px;}
 .tips-pop ul{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:9px; line-height:1.5;}
+
+/* 안내 글 가독성(2026-10-11): 안내·도움말·미리보기 글자를 키우고 줄 간격을 넉넉히 */
+.help,.patch-sub,.patch-modal p,.patch-modal li,.wel-hint,.imp-prev,.howto-note,.compose-legend li,.tut-done{font-size:.95rem !important; line-height:1.6 !important;}
+.patch-modal p.tut-guide{font-size:1.05rem !important;}
+.patch-modal h3{font-size:1.04rem;}
+.tips{font-size:.86rem !important;}
+.tips-pop,.tips-pop .tp-title{font-size:.9rem !important;}
+.lt-banner{font-size:.9rem !important;}
+.col-selpreview{font-size:.9rem !important; line-height:1.5 !important;}
 </style>
 </head>
 <body>
@@ -1074,30 +1079,21 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <li data-en="Take the text with you using &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt;."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>로 가져가요.</li>
     </ol>
 
-    <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>직접 해보기 — 요한복음 3:16</h3>
-    <div class="wel-try">
+    <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>튜토리얼 — 번역을 보고 직접 나눠 보기</h3>
+    <div class="wel-try wel-tut" id="welTut">
+      <p class="tut-guide" data-en="&lt;b&gt;Give it a try!&lt;/b&gt; Drag over the Chinese or Indonesian text to see its translation, then put the cursor where the same meaning starts and press &lt;b&gt;Enter&lt;/b&gt; to split."><b>한번 해 보세요!</b> 중국어·인도네시아어 글자를 드래그해서 번역을 보고, <b>같은 뜻이 시작되는 곳</b>에 커서를 두고 <b>Enter</b>로 나눠 보세요.</p>
+      <p class="wel-hint" data-en="Korean and English are already split into 2 pieces; Chinese and Indonesian are 1 piece each. Press &lt;b&gt;Backspace&lt;/b&gt; at the start of a piece to merge it with the previous one.">한국어·영어는 이미 2조각으로 나뉘어 있고, 중국어·인도네시아어는 각각 1조각이에요. 조각 맨 앞에서 <b>Backspace</b>를 누르면 앞 조각과 합쳐져요.</p>
+      <div class="tut-grid" id="tutGrid"></div>
+      <p class="wel-hint" data-en="Slide preview (piece N goes into slide N)">슬라이드 미리보기 (N번 조각이 N번 슬라이드에 들어가요)</p>
+      <div class="tut-prev" id="tutPrev"></div>
+      <p class="tut-done" id="tutDone" hidden data-en="You split both Chinese and Indonesian! Split your real script the same way and every slide on the right pairs up all 4 languages.">중국어·인도네시아어를 모두 잘 나눴어요! 실제 원고에서도 이렇게 나누면 오른쪽에서 슬라이드마다 4개 언어가 짝지어져요.</p>
       <div class="wel-row">
-        <span>성경 구절 언어</span>
-        <span class="seg" id="welVerseSeg">
-          <button type="button" data-lang="ko" class="active">한국어</button>
-          <button type="button" data-lang="zh">中文</button>
-          <button type="button" data-lang="en" disabled title="이 체험은 영어로 번역해서 보여줘요. 영어 구절은 쓰지 않아요">English</button>
-          <button type="button" data-lang="id">Indonesia</button>
-        </span>
-        <span>번역 결과</span>
-        <span class="seg" id="welTargetSeg">
-          <button type="button" data-lang="ko" disabled title="이 체험에서는 English 번역만 보여줘요">한국어</button>
-          <button type="button" data-lang="en" class="active">English</button>
-        </span>
+        <button type="button" class="btn" id="tutReset">처음부터 다시</button>
       </div>
-      <textarea class="wel-verse" id="welVerse" rows="3" readonly spellcheck="false" aria-label="요한복음 3장 16절"></textarea>
-      <div class="wel-out" id="welOut" aria-live="polite"></div>
       <ol class="wel-hint wel-notes">
         <li data-en="In your actual script, &lt;b&gt;you need to set up the translation server&lt;/b&gt; for translation to work. (See &lt;svg class='ic ic-server' aria-hidden='true'&gt;&lt;use href='#i-server'/&gt;&lt;/svg&gt;Translation server guide.)">실제 본문에서는 <b>번역 소스를 다운받아야</b> 작동해요. (<svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내 참고)</li>
         <li data-en="The translation server works better &lt;b&gt;the more it warms up&lt;/b&gt;. It may be slow or awkward at first, but it gets better after a few uses.">번역 소스는 <b>예열이 될수록</b> 더 잘 작동해요. 처음엔 느리거나 어색해도 몇 번 쓰다 보면 나아져요.</li>
       </ol>
-      <p class="wel-hint" id="welSampleTag" hidden data-en="&lt;svg class='ic ic-pin' aria-hidden='true'&gt;&lt;use href='#i-pin'/&gt;&lt;/svg&gt;This tryout shows &lt;b&gt;a pre-reviewed translation&lt;/b&gt;. In your actual script, the translation server translates."><svg class="ic ic-pin" aria-hidden="true"><use href="#i-pin"/></svg>체험용이라 <b>미리 검수해 둔 번역</b>을 보여줘요. 실제 본문에서는 번역 서버가 번역해요.</p>
-      <p class="wel-hint" data-en="Drag over the verse and &lt;b&gt;the translation of what you selected&lt;/b&gt; appears below. e.g., select only “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”. This tryout only shows English, and it uses &lt;b&gt;pre-made translations&lt;/b&gt;, so it works for any span you drag, with no translation server needed.">드래그하면 <b>고른 부분의 번역</b>이 아래에 나와요. 예) “하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니”만 선택해 보세요. 이 체험은 영어 번역만 보여주고, <b>미리 만들어 둔 번역</b>이라 번역 서버 없이도 어디를 드래그해도 나와요.</p>
       <div class="wel-row" style="display:none" data-devonly="번역기 출력 기록: UI에서만 숨김(기능 코드는 그대로)">
         <button type="button" class="btn" id="welRecBtn" title="번역 서버가 켜져 있을 때, 세 구절에서 드래그로 고를 수 있는 모든 구간(단어 단위 · 중국어는 글자 단위)을 서버에 그대로 보내 나온 영어를 기록해요. 수백 건이라 몇 분 걸려요 (개발용)"><svg class="ic ic-record" aria-hidden="true"><use href="#i-record"/></svg>번역기 출력 기록</button>
         <button type="button" class="btn" id="welRecStopBtn" hidden>⏹ 중지하고 지금까지 저장</button>
@@ -1107,27 +1103,16 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <textarea style="display:none" class="wel-verse" id="welRecOut" rows="5" readonly spellcheck="false" hidden aria-label="번역기 출력 기록"></textarea>
     </div>
 
-    <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>튜토리얼 — 번역을 보고 직접 나눠 보기</h3>
-    <div class="wel-try wel-tut" id="welTut">
-      <p class="wel-hint" data-en="Korean and English are already split into 2 pieces, like in real use. Chinese and Indonesian are each 1 piece. Look at the translation under each piece, put the cursor where the same meaning starts, and press &lt;b&gt;Enter&lt;/b&gt; to split. &lt;b&gt;Backspace&lt;/b&gt; at the start of a piece merges it with the previous one. Drag over the text to see the translation of what you selected.">한국어·영어는 실제 사용처럼 이미 2조각으로 나뉘어 있어요. 중국어와 인도네시아어는 각각 1조각이에요. 조각 아래 번역을 보고, <b>같은 뜻이 시작되는 곳</b>에 커서를 두고 <b>Enter</b>로 나눠 보세요. 조각 맨 앞에서 <b>Backspace</b>를 누르면 앞 조각과 합쳐져요. 글자를 드래그하면 고른 부분의 번역이 나와요.</p>
-      <div class="tut-grid" id="tutGrid"></div>
-      <div class="wel-out" id="tutOut" aria-live="polite"></div>
-      <p class="wel-hint" data-en="Slide preview (piece N goes into slide N)">슬라이드 미리보기 (N번 조각이 N번 슬라이드에 들어가요)</p>
-      <div class="tut-prev" id="tutPrev"></div>
-      <p class="tut-done" id="tutDone" hidden data-en="You split both Chinese and Indonesian! Split your real script the same way and every slide on the right pairs up all 4 languages.">중국어·인도네시아어를 모두 잘 나눴어요! 실제 원고에서도 이렇게 나누면 오른쪽에서 슬라이드마다 4개 언어가 짝지어져요.</p>
-      <div class="wel-row">
-        <button type="button" class="btn" id="tutReset">처음부터 다시</button>
-      </div>
-    </div>
-
     <details class="wel-fold" id="welPatchFold">
     <summary><svg class="ic ic-sparkles" aria-hidden="true"><use href="#i-sparkles"/></svg>최신 패치노트<span class="wel-date">2026-10-11</span></summary>
     <ul>
-      <li data-en="&lt;b&gt;This guide now appears again with every new patch note.&lt;/b&gt; Press &lt;b&gt;Hide until the next patch note&lt;/b&gt; at the bottom and it stays away until the next one. If you just close it (Get started or Esc), it shows again next time. You can always reopen it with &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top."><b>이 안내 창이 새 패치노트마다 다시 떠요.</b> 맨 아래 <b>다음 패치노트까지 안 뜨게 하기</b>를 누르면 다음 패치노트가 나올 때까지 뜨지 않아요. 그냥 닫으면(시작하기·Esc) 다음에 열 때 또 떠요. 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
-      <li data-en="&lt;b&gt;A long text pasted into an empty piece is split into paragraphs automatically.&lt;/b&gt; Each paragraph separated by a blank line (two or more line breaks) becomes its own piece. Pasting into a piece that already has text, or typing by hand, works as before. Undo with Ctrl/⌘+Z."><b>긴 글을 빈 조각에 처음 붙여넣으면 단락별로 자동으로 나뉘어요.</b> 빈 줄(줄바꿈 2번 이상)로 구분된 단락마다 조각이 하나씩 만들어져요. 글이 이미 있는 조각에 붙이거나 직접 타이핑할 때는 그대로예요. Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
-      <li data-en="&lt;b&gt;Lines in another language can be removed with [More ▾] → [Filter out other-language lines].&lt;/b&gt; If you paste a bilingual script (original and translation, paragraph by paragraph) into a column, it is still split into pieces automatically. When original lines are mixed in, press this and each column keeps only the lines in its own language (Korean, Chinese, English, Indonesian), judged by the writing itself with no translation server. A line is kept when it only mixes in another language (a quoted word or an English quotation), and very short or unclear lines are kept too. A column that is almost entirely another language is left as is. Undo with Ctrl/⌘+Z."><b>다른 언어 줄은 [기타 ▾] → [다른 언어 줄 거르기]로 뺄 수 있어요.</b> 원문과 번역이 문단마다 번갈아 나오는 글을 한 칸에 통으로 붙이면 지금처럼 조각으로 자동으로 나뉘어요. 원문이 섞여 있으면 이 기능을 누르세요. 각 칸에서 그 칸의 언어(한국어·중국어·영어·인도네시아어)인 줄만 남아요. 번역 서버 없이 글자 종류로 가려요. 줄 안에 다른 언어(원어 단어·영어 인용)가 섞여 있을 뿐이면 남기고, 아주 짧은 줄과 애매한 줄도 지우지 않아요. 칸 언어와 거의 안 맞는 칸은 그대로 둬요. Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
-      <li data-en="&lt;b&gt;The screen no longer jumps when you split or merge pieces.&lt;/b&gt; Splitting a long text with Enter used to send the view all the way to the bottom. Now the view stays put, so scroll yourself when you need to."><b>조각을 나누거나 합칠 때 화면이 움직이지 않아요.</b> 긴 글을 Enter로 나누면 화면이 맨 아래로 내려가던 문제를 고쳤어요. 이제 위치를 그대로 두니, 필요하면 직접 스크롤해 주세요.</li>
-      <li data-en="&lt;b&gt;The tutorial now runs right inside this guide.&lt;/b&gt; Below, John 3:16 is shown with Korean and English already split into 2 pieces and Chinese and Indonesian as 1 piece each. Look at the translation and split the Chinese and Indonesian yourself with Enter, where the same meaning starts. It tells you whether you split it right and shows how the slides pair up. Your script columns on the left are not touched."><b>튜토리얼이 시작 안내 안에서 바로 돼요.</b> 아래에서 요한복음 3:16을 한국어·영어는 이미 2조각으로 나뉜 채로, 중국어·인도네시아어는 1조각으로 보여 줘요. 번역을 보고 같은 뜻이 시작되는 곳에서 Enter로 직접 나눠 보세요. 맞게 나눴는지 알려 주고, 슬라이드가 어떻게 짝지어지는지도 바로 보여 줘요. 왼쪽 원고 칸은 건드리지 않아요.</li>
+      <li data-en="&lt;b&gt;Guides are shorter and the text is larger.&lt;/b&gt; Button positions and names are now the same in Make slides and Bible DB modes."><b>안내 글을 짧게, 글자를 크게 바꿨어요.</b> 버튼 위치와 이름도 슬라이드 만들기와 성경 DB 모드에서 같게 맞췄어요.</li>
+      <li data-en="&lt;b&gt;The drag-translation box now follows long translations to the last line.&lt;/b&gt; The bottom stays in view as the translation changes."><b>드래그 번역 칸이 긴 번역도 마지막 줄까지 따라 내려가요.</b> 번역이 바뀔 때마다 맨 아래가 보여요.</li>
+      <li data-en="&lt;b&gt;This guide appears again with each new patch note.&lt;/b&gt; Press &lt;b&gt;Hide until the next patch note&lt;/b&gt; to keep it quiet until then; reopen it any time with &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top."><b>새 패치노트가 나오면 이 안내 창이 다시 떠요.</b> 맨 아래 <b>다음 패치노트까지 안 뜨게 하기</b>를 누르면 그때까지 조용하고, 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
+      <li data-en="&lt;b&gt;A long text pasted into an empty piece is split into paragraphs automatically.&lt;/b&gt; Each paragraph separated by a blank line becomes its own piece, and Ctrl/⌘+Z undoes it."><b>긴 글을 빈 조각에 붙여넣으면 단락별로 자동으로 나뉘어요.</b> 빈 줄로 구분된 단락마다 조각이 하나씩 생기고, Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
+      <li data-en="&lt;b&gt;The [Filter out other-language lines] button&lt;/b&gt; removes lines that aren't in a column's own language (such as the original text). It judges by the writing itself with no translation server, and Ctrl/⌘+Z undoes it."><b>[다른 언어 줄 거르기]</b> 버튼으로 각 칸에서 그 칸 언어가 아닌 줄(원문 등)을 뺄 수 있어요. 번역 서버 없이 글자 종류로 가리며, Ctrl/⌘+Z로 되돌릴 수 있어요.</li>
+      <li data-en="&lt;b&gt;The screen no longer jumps when you split or merge pieces.&lt;/b&gt; Scroll yourself when you need to."><b>조각을 나누거나 합칠 때 화면이 움직이지 않아요.</b> 필요하면 직접 스크롤해 주세요.</li>
+      <li data-en="&lt;b&gt;The tutorial now runs right inside this guide.&lt;/b&gt; Split the Chinese and Indonesian John 3:16 yourself. Your script columns on the left are not touched."><b>튜토리얼이 시작 안내 안에서 바로 돼요.</b> 요한복음 3:16을 보며 중국어·인도네시아어를 직접 나눠 보세요. 왼쪽 원고 칸은 건드리지 않아요.</li>
     </ul>
     <details class="wel-old">
     <summary data-en="Earlier updates (22)">이전 업데이트 (22)</summary>
@@ -1172,7 +1157,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 
     <div class="patch-actions">
       <button type="button" class="btn" id="patchHideBtn" title="이 창을 닫고, 다음 패치노트가 나올 때까지 열 때 자동으로 뜨지 않게 해요">다음 패치노트까지 안 뜨게 하기</button>
-      <button class="patch-close-btn" id="patchCloseBtn">시작하기</button>
+      <button class="patch-close-btn" id="patchCloseBtn">닫기</button>
     </div>
   </div>
 </div>
@@ -1180,7 +1165,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 <div class="patch-overlay" id="howtoOverlay">
   <div class="patch-modal" role="dialog" aria-modal="true" aria-labelledby="howtoTitle" tabindex="-1">
     <h2 id="howtoTitle"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버(LibreTranslate) 설치 안내</h2>
-    <p class="patch-sub" data-en="The translation feature needs a &lt;b&gt;translation server (LibreTranslate) running on your own computer&lt;/b&gt;. Everything else works without it. You can reopen this guide any time with the &lt;b&gt;&lt;svg class=&#x27;ic ic-server&#x27; aria-hidden=&#x27;true&#x27;&gt;&lt;use href=&#x27;#i-server&#x27;/&gt;&lt;/svg&gt;Translation server guide&lt;/b&gt; button at the top.">번역 기능에는 <b>내 컴퓨터에서 도는 번역 서버</b>(LibreTranslate)가 필요해요. 번역 말고 다른 기능은 서버 없이도 모두 쓸 수 있어요. 이 안내는 위쪽 <b><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내</b> 버튼으로 언제든 다시 볼 수 있어요.</p>
+    <p class="patch-sub" data-en="The translation feature needs a &lt;b&gt;translation server (LibreTranslate) running on your own computer&lt;/b&gt;. Everything else works without it.">번역 기능에는 <b>내 컴퓨터에서 도는 번역 서버</b>(LibreTranslate)가 필요해요. 번역 말고 다른 기능은 서버 없이도 쓸 수 있어요.</p>
     <div class="howto-note" data-en="&lt;b&gt;Just once:&lt;/b&gt; ① Install Docker Desktop → ② run one command. After that, just &lt;b&gt;keep Docker Desktop running&lt;/b&gt;."><b>처음 한 번만:</b> ① Docker Desktop 설치 → ② 명령 한 줄 실행. 다음부터는 <b>Docker Desktop만 켜 두면</b> 돼요.</div>
     <div class="howto-os"><span data-en="My computer">내 컴퓨터</span><span class="seg" id="howtoOsSeg"><button type="button" data-os="win">Windows</button><button type="button" data-os="mac">Mac</button></span></div>
     <h3 data-en="1. Install Docker Desktop">1. Docker Desktop 설치</h3>
@@ -1261,7 +1246,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 
     <div class="patch-actions">
       <span></span>
-      <button class="patch-close-btn" id="howtoCloseBtn">확인</button>
+      <button class="patch-close-btn" id="howtoCloseBtn">닫기</button>
     </div>
   </div>
 </div>
@@ -1289,7 +1274,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 <div class="patch-overlay" id="impOverlay">
   <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="impTitle" tabindex="-1">
     <h2 id="impTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB에서 불러오기</h2>
-    <p data-en="Pick the Bible, then chapter, then verse, and they&#x27;re added as pieces. You can choose where below (default: the end of your script). Click &lt;b&gt;start verse → end verse&lt;/b&gt; to select a range; to add just one verse, click the same verse again. Dimmed verses have no content yet and can&#x27;t be picked. A verse with several pages looks like 16 (a) · 16 (b), but slides show only the number." class="patch-sub">성경 → 장 → 절 순서로 고르면 조각으로 들어가요. 넣을 위치는 아래에서 고를 수 있어요(기본은 원고 맨 뒤). 절은 <b>시작 절 → 끝 절</b> 순서로 누르면 범위가 되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐린 절은 아직 내용이 없어 고를 수 없어요. 여러 페이지짜리 절은 16 (a) · 16 (b)처럼 보이지만 슬라이드에는 숫자만 표시돼요.</p>
+    <p class="patch-sub" data-en="Pick the Bible, then chapter, then verse, and they're added as pieces. Click &lt;b&gt;start verse → end verse&lt;/b&gt; to select a range, or click the same verse again to add just one. Dimmed verses have no content and can't be picked.">성경 → 장 → 절 순서로 고르면 조각으로 들어가요. <b>시작 절 → 끝 절</b>을 누르면 범위가 선택되고, 한 절만 넣으려면 같은 절을 한 번 더 누르세요. 흐리게 보이는 절은 내용이 없어서 고를 수 없어요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="impBook"></select></label>
       <label class="field"><span>장</span><select id="impChap"></select></label>
@@ -1317,12 +1302,12 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 
     <h3><svg class="ic ic-mail" aria-hidden="true"><use href="#i-mail"/></svg>수정한 내용을 프로그램에 반영하려면</h3>
     <ul>
-      <li data-en="After finishing your slide work, press <b><svg class='ic ic-code' aria-hidden='true'><use href='#i-code'/></svg>Copy DB code</b> and choose <b>② Not sent yet</b>: every verse you edited and haven't marked as sent is collected at once, whatever the date. Send the copied code to the program administrator (<admin-email></admin-email>), then press <b><svg class='ic ic-checkc' aria-hidden='true'><use href='#i-checkc'/></svg>Mark as sent</b> — from then on only verses you edit again are collected. (① Current verse is the code for the single verse open on screen. In the verse list, <b>✎</b> means an edit not sent yet and <b>✓</b> means an edit marked as sent.) After checking, we will update the program.">슬라이드 작업을 마친 뒤 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 누르면 날짜와 상관없이 고치고 아직 안 보낸 절이 한 번에 모여요. 복사한 코드를 프로그램 관리자(<admin-email></admin-email>)에게 보낸 뒤 <b><svg class="ic ic-checkc" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</b>를 눌러 두면, 그다음부터는 새로 고친 절만 모여요. (① 지금 보고 있는 절은 지금 화면에 열려 있는 절 하나의 코드예요. 절 목록의 <b>✎</b>는 아직 안 보낸 수정, <b>✓</b>는 보냈다고 표시한 수정이에요.) 확인 후 프로그램을 업데이트할게요.</li>
+      <li data-en="When you finish editing, press &lt;b&gt;&lt;svg class='ic ic-code' aria-hidden='true'&gt;&lt;use href='#i-code'/&gt;&lt;/svg&gt;Copy DB code&lt;/b&gt;, choose &lt;b&gt;② Not sent yet&lt;/b&gt;, copy it and send it to the administrator (&lt;admin-email&gt;&lt;/admin-email&gt;).">수정을 마치면 <b><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</b>에서 <b>② 아직 안 보낸 것</b>을 골라 복사하고, 관리자(<admin-email></admin-email>)에게 보내 주세요.</li><li data-en="After sending, press &lt;b&gt;&lt;svg class='ic ic-checkc' aria-hidden='true'&gt;&lt;use href='#i-checkc'/&gt;&lt;/svg&gt;Mark as sent&lt;/b&gt; and from then on only verses you edit again are collected.">보낸 뒤 <b><svg class="ic ic-checkc" aria-hidden="true"><use href="#i-checkc"/></svg>보냈어요</b>를 누르면, 그다음부터는 새로 고친 절만 모여요.</li>
     </ul>
 
     <h3><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드를 만들 때는</h3>
     <ul>
-      <li data-en="When making slides, use <b><svg class='ic ic-clipboard' aria-hidden='true'><use href='#i-clipboard'/></svg>Copy</b>. Pick the Bible, chapter and verse from the Mac-style menus and the text appears below (it starts with only the verse you were viewing; change the end verse to include a range). Verses with several pages show as 16 (a) · 16 (b). In Make slides mode, use the <b>Slides</b> menu to choose the range to copy (default: all).">슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b>를 사용하면 돼요. 성경·장·절을 맥 스타일 메뉴로 고르면 그 글이 아래에 나와요(처음엔 보던 절만 나오고, 끝 절을 바꾸면 그 범위까지 나와요). 한 절이 여러 페이지면 16 (a) · 16 (b)처럼 나뉘어 보여요. 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사할 범위를 고를 수 있어요(기본은 전부).</li>
+      <li data-en="To make slides, use &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy&lt;/b&gt;. Pick the Bible, chapter and verse and the text appears below; in Make slides mode, choose the range with the &lt;b&gt;Slides&lt;/b&gt; menu.">슬라이드를 만들 때는 <b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b>를 쓰세요. 성경·장·절을 고르면 글이 아래에 나타나고, 슬라이드 만들기 모드에서는 <b>슬라이드</b> 메뉴로 복사 범위를 정해요.</li>
     </ul>
 
     <h3><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</h3>
@@ -1332,7 +1317,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
     </ul>
 
     <div class="patch-actions">
-      <button class="patch-close-btn" id="dbGuideClose">확인했어요</button>
+      <button class="patch-close-btn" id="dbGuideClose">닫기</button>
     </div>
   </div>
 </div>
@@ -1387,6 +1372,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</button>
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
       <span class="hsep"></span>
+      <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
     </div>
   </div>
@@ -1437,14 +1423,13 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       </div>
     </details>
     <div class="toolbar-right">
-      <button type="button" class="btn quiet slide-only" id="etcBtn" aria-expanded="false" aria-haspopup="menu" title="그 밖의 도구 (다른 언어 줄 거르기)">기타 ▾</button>
+      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에서 그 칸 언어가 아닌 줄(원문 등)을 빼요. 되돌리기: Ctrl/⌘+Z">다른 언어 줄 거르기</button>
       <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
       <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
       <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
-      <button type="button" class="btn quiet danger slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
-      <span class="hsep slide-only"></span>
-      <button type="button" class="btn" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
-      <button type="button" class="btn lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
+      <span class="hsep"></span>
+      <button type="button" class="btn quiet" id="themeBtn" title="화면 색: 다크 ↔ 라이트 전환"><svg class="ic ic-half" aria-hidden="true"><use href="#i-half"/></svg>자동</button>
+      <button type="button" class="btn quiet lang-toggle" id="langBtn" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
     </div>
   </div>
   <div class="toolbar dbbar db-only" id="dbBar">
@@ -1484,7 +1469,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <span class="rh-chips" id="composeChips" title="이 순서로 슬라이드와 전체 텍스트 복사에 들어가요. 끌어서 순서를 바꿀 수 있어요"></span>
       <button type="button" class="btn quiet" id="composeToggle" aria-expanded="false" aria-controls="composePanel">설정</button>
       <button type="button" class="btn quiet slide-only" id="gotoBtn" aria-expanded="false" title="슬라이드 번호를 입력해 바로 이동해요 (Ctrl/⌘+G)"><svg class="ic ic-hash" aria-hidden="true"><use href="#i-hash"/></svg>이동</button>
-      <button type="button" class="rh-bible slide-only" id="bibImpBtn" title="성경 DB의 구절을 원고 맨 뒤나 선택한 조각 아래에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
+      <button type="button" class="btn quiet slide-only" id="bibImpBtn" title="성경 DB의 구절을 원고 맨 뒤나 선택한 조각 아래에 조각으로 넣어요"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 불러오기</button>
       <button type="button" class="btn quiet" id="viewOnlyBtn" aria-pressed="false" title="왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)"><svg class="ic ic-slides" aria-hidden="true"><use href="#i-slides"/></svg>슬라이드만</button>
       <div class="compose-panel" id="composePanel" hidden>
         <h3>슬라이드에 넣을 언어와 순서</h3>
@@ -1505,7 +1490,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 
 <script defer src="js/00-config.js?v=20261002i"></script>
 <script defer src="js/01-core.js?v=20261004a"></script>
-<script defer src="js/02-translate.js?v=20261003a"></script>
+<script defer src="js/02-translate.js?v=20261011b"></script>
 <script defer src="js/03-slides.js?v=20261011a"></script>
 <script defer src="js/04-layout-copy.js?v=20261004a"></script>
 <script defer src="js/05-storage.js?v=20261004b"></script>
