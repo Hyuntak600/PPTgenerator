@@ -1060,6 +1060,55 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 .tips-pop,.tips-pop .tp-title{font-size:.9rem !important;}
 .lt-banner{font-size:.9rem !important;}
 .col-selpreview{font-size:.9rem !important; line-height:1.5 !important;}
+
+/* ── 디자인 통일(2026-10-11): 버튼·글자·간격을 한 기준으로 ── */
+:root{--ui-fs:.86rem; --ctl-h:32px; --ctl-r:8px;}
+/* 1) 버튼: 위쪽 줄·툴바·오른쪽 줄 어디서나 같은 높이·글자·모서리 */
+html .head-top .btn,html .toolbar .btn,html .right-head .btn,html .toolbar-right .btn{
+  box-sizing:border-box; display:inline-flex; align-items:center; justify-content:center; gap:6px;
+  min-height:var(--ctl-h); padding:0 12px; font-size:var(--ui-fs); line-height:1.2; border-radius:var(--ctl-r); white-space:nowrap;}
+html .toolbar .btn.step{width:var(--ctl-h); padding:0; font-size:1.15rem;}
+html #undoBtn,html #redoBtn{padding:0 10px; font-size:1.2rem;}
+html .head-top .lt-chip{min-height:var(--ctl-h); font-size:var(--ui-fs);}
+html .seg button{font-size:var(--ui-fs);}
+html .field{font-size:var(--ui-fs);}
+html .field input[type="number"]{font-size:var(--ui-fs);}
+/* 2) 지우기 버튼: 빨간 테두리 대신 글자만 붉게(누를 때 색이 차오름) — 눈에 덜 거슬리고 두 모드에서 같은 자리 */
+html .head-top .btn.quiet.wipe{border-color:transparent; box-shadow:none; color:#d2382d;}
+html .head-top .btn.quiet.wipe:hover{border-color:transparent; box-shadow:none; color:#d2382d; background:color-mix(in srgb,#ff3b30 12%,transparent);}
+html[data-theme="dark"] .head-top .btn.quiet.wipe,html[data-theme="dark"] .head-top .btn.quiet.wipe:hover{color:#ff7a70;}
+/* 3) 안내 줄(팁): 배너와 붙어 보이지 않게 여백, 단축키 글자 통일 */
+html .tips{padding:9px 20px; font-size:.84rem !important;}
+html .tips kbd,html .tips-pop kbd{font-size:.76rem; padding:1px 6px; border-radius:5px;}
+/* 4) 작은 라벨들 최소 크기 */
+.box-num,.box-link,.fit-badge{font-size:.72rem;}
+.col-title{font-size:.92rem;}
+.col-title .ct-count{font-size:.76rem;}
+.rh-title{font-size:.92rem;}
+.rh-chips > *{font-size:.78rem;}
+.sg-title{font-size:.86rem;}
+.sg-size,.sg-size input,.sg-size-input{font-size:.82rem;}
+.sg-ctl .seg button{font-size:.8rem;}
+.sg-del{font-size:.82rem;}
+.sg-mv button{font-size:.76rem;}
+.slide-check{font-size:.86rem;}
+/* 5) 시작 안내의 단계 목록은 한 줄 순서대로 */
+.wel-steps{columns:1 !important;}
+/* 6) 보정: 아이콘 간격은 원래 여백만, 오른쪽 헤더는 줄이 모자라면 아래로 넘김, 배너 버튼도 같은 글자 크기 */
+html .head-top .btn,html .toolbar .btn,html .right-head .btn,html .toolbar-right .btn{gap:0;}
+html .right-head{flex-wrap:wrap; row-gap:6px;}
+html .right-head .btn{padding:0 9px; font-size:.82rem;}
+html .rh-chips{flex:1 1 220px;}
+html .rh-chips > *{white-space:nowrap;}
+html .lt-banner button{font-size:.84rem; padding:4px 12px;}
+/* 7) 보정: 오른쪽 헤더는 한 줄 유지(버튼을 조금 작게), 연결 칩은 점과 글자 사이 간격 */
+html .right-head{flex-wrap:nowrap;}
+html .right-head .btn{padding:0 7px; font-size:.78rem; min-height:30px;}
+html .rh-title{font-size:.88rem; white-space:nowrap;}
+html .rh-chips{flex:1 1 0; min-width:0;}
+html .head-top .lt-chip{gap:6px;}
+/* 8) 보정: 화면이 좁을 때(영어 등) 칩이 잘리지 않게 제목 글자를 접음 */
+@media (max-width:1320px){html .rh-title{display:none;}}
 </style>
 </head>
 <body>
@@ -1076,7 +1125,7 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
       <li data-en="Paste each language’s script into its own column.">언어별 칸에 원고를 붙여넣어요.</li>
       <li data-en="Press &lt;b&gt;Enter&lt;/b&gt; at the end of each sentence to split it. Piece N goes into slide N.">문장이 끝나는 곳에서 <b>Enter</b>로 나눠요. N번 조각이 N번 슬라이드에 들어가요.</li>
       <li data-en="Check on the right that the languages line up. You can also change the font size and alignment for each slide.">오른쪽 슬라이드에서 언어끼리 짝이 맞는지 확인해요. 슬라이드마다 글자 크기·정렬도 바꿀 수 있어요.</li>
-      <li data-en="Take the text with you using &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy full text&lt;/b&gt;."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>전체 텍스트 복사</b>로 가져가요.</li>
+      <li data-en="Take the text with you using the &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy&lt;/b&gt; button."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b> 버튼으로 가져가요.</li>
     </ol>
 
     <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>튜토리얼 — 번역을 보고 직접 나눠 보기</h3>
