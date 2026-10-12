@@ -1156,6 +1156,28 @@ html .left{gap:10px; padding-left:12px; padding-right:12px;}
 html .left{overflow-x:hidden; scroll-snap-type:none;}
 html .col{flex:1 1 0; min-width:0;}
 html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
+
+/* 도구 줄: 왼쪽 = 글자 크기·정렬·찾기·되돌리기, 오른쪽 = 섞인 언어 삭제·설정 */
+.tb-edit{display:flex; align-items:center; gap:4px;}
+.toolbar-right .settings-panel{left:auto; right:0;}
+
+/* 시작 안내 압축판: 설명 카드는 튜토리얼 위 한 줄 흐름으로 합치고, 글자·여백을 줄여 튜토리얼이 첫 화면에 크게 보이게 */
+html .wel-modal{padding:20px 26px 18px; --px:26px; --pb:18px;}
+html .wel-modal h2{font-size:1.3rem; margin-bottom:4px;}
+html .wel-modal h2::before{width:34px; height:34px; border-radius:10px; font-size:.72rem;}
+html .wel-modal > .patch-sub{font-size:.86rem !important; margin:0 0 4px;}
+html .wel-modal h3,html .wel-modal h3:first-of-type{margin:14px 0 8px; font-size:.82rem !important;}
+html .wel-modal .wel-tut{padding:12px 14px; gap:8px;}
+html .wel-modal p.tut-guide{font-size:.9rem !important; line-height:1.5 !important; padding:8px 12px;}
+html .wel-modal .wel-hint{font-size:.8rem !important; line-height:1.5 !important; margin:0;}
+html .wel-modal .wel-notes li{font-size:.78rem !important; line-height:1.5 !important;}
+.wel-flow{list-style:none; counter-reset:wf; display:flex; flex-wrap:wrap; gap:6px 4px; margin:0 0 2px; padding:0;}
+.wel-flow li{counter-increment:wf; display:inline-flex; align-items:center; gap:6px; margin:0; padding:4px 10px 4px 5px; border-radius:999px; font-size:.8rem !important; line-height:1.3 !important; word-break:keep-all;
+  background:color-mix(in srgb,var(--ink) 5%,transparent);}
+.wel-flow li::before{content:counter(wf); display:grid; place-items:center; flex:none; width:19px; height:19px; border-radius:50%; font-size:.7rem; font-weight:700; color:#fff; background:var(--accent);}
+.wel-flow li:not(:last-child)::after{content:"›"; margin-left:4px; opacity:.4;}
+html .wel-fold{margin-top:14px;}
+html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 </style>
 </head>
 <body>
@@ -1167,16 +1189,15 @@ html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
     <h2 id="patchTitle">다국어 자막 정렬 도구</h2>
     <p class="patch-sub">언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.</p>
 
-    <h3><svg class="ic ic-bolt" aria-hidden="true"><use href="#i-bolt"/></svg>이렇게 써요</h3>
-    <ol class="wel-steps">
-      <li data-en="Paste each language’s script into its own column.">언어별 칸에 원고를 붙여넣어요.</li>
-      <li data-en="Press &lt;b&gt;Enter&lt;/b&gt; at the end of each sentence to split it. Piece N goes into slide N.">문장이 끝나는 곳에서 <b>Enter</b>로 나눠요. N번 조각이 N번 슬라이드에 들어가요.</li>
-      <li data-en="Check on the right that the languages line up. You can also change the font size and alignment for each slide.">오른쪽 슬라이드에서 언어끼리 짝이 맞는지 확인해요. 슬라이드마다 글자 크기·정렬도 바꿀 수 있어요.</li>
-      <li data-en="Take the text with you using the &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy&lt;/b&gt; button."><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b> 버튼으로 가져가요.</li>
-    </ol>
 
     <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>튜토리얼 — 번역을 보고 직접 나눠 보기</h3>
     <div class="wel-try wel-tut" id="welTut">
+      <ol class="wel-flow">
+        <li data-en="Paste your script">칸에 원고 붙여넣기</li>
+        <li data-en="Split sentences with &lt;b&gt;Enter&lt;/b&gt;"><b>Enter</b>로 문장 나누기</li>
+        <li data-en="Check the pairing on the right">오른쪽 슬라이드에서 짝 확인</li>
+        <li data-en="Take it with &lt;b&gt;&lt;svg class='ic ic-clipboard' aria-hidden='true'&gt;&lt;use href='#i-clipboard'/&gt;&lt;/svg&gt;Copy&lt;/b&gt;"><b><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</b>로 가져가기</li>
+      </ol>
       <p class="tut-guide" data-en="&lt;b&gt;Give it a try!&lt;/b&gt; Drag over the Chinese or Indonesian text to see its translation, then put the cursor where the same meaning starts and press &lt;b&gt;Enter&lt;/b&gt; to split."><b>한번 해 보세요!</b> 중국어·인도네시아어 글자를 드래그해서 번역을 보고, <b>같은 뜻이 시작되는 곳</b>에 커서를 두고 <b>Enter</b>로 나눠 보세요.</p>
       <p class="wel-hint" data-en="Korean and English are already split into 2 pieces; Chinese and Indonesian are 1 piece each. Press &lt;b&gt;Backspace&lt;/b&gt; at the start of a piece to merge it with the previous one.">한국어·영어는 이미 2조각으로 나뉘어 있고, 중국어·인도네시아어는 각각 1조각이에요. 조각 맨 앞에서 <b>Backspace</b>를 누르면 앞 조각과 합쳐져요.</p>
       <div class="tut-grid" id="tutGrid"></div>
@@ -1490,7 +1511,14 @@ html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
         <button type="button" data-align="right">오른쪽</button>
       </span>
     </div>
-    <details class="settings-more" id="settingsMore">
+    <div class="tb-edit">
+      <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
+      <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
+      <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
+    </div>
+    <div class="toolbar-right">
+      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지워요. 되돌리기: Ctrl/⌘+Z">섞인 언어 자동 삭제</button>
+      <details class="settings-more" id="settingsMore">
       <summary class="btn quiet"><svg class="ic ic-sliders" aria-hidden="true"><use href="#i-sliders"/></svg>설정</summary>
       <div class="settings-panel">
         <div class="setting">
@@ -1530,11 +1558,6 @@ html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
         </div>
       </div>
     </details>
-    <div class="toolbar-right">
-      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지워요. 되돌리기: Ctrl/⌘+Z">섞인 언어 자동 삭제</button>
-      <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
-      <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
-      <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
     </div>
   </div>
   <div class="toolbar dbbar db-only" id="dbBar">
