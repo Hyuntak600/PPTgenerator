@@ -85,26 +85,9 @@ function makeSortable(container, itemSel, horizontal, onCommit) {
     onCommit();
   });
 }
-// 성경 DB 모드: 슬라이드·구절 표시·복사의 언어 순서는 영어 → 중국어 → 한국어 → 인도네시아어로 고정(순서를 바꿀 수 없음).
-// 들어갈 때 슬라이드 만들기의 순서를 기억해 두었다가, 슬라이드 만들기로 돌아오면 그대로 되돌린다.
-const DB_LANG_ORDER = ["en", "zh", "ko", "id"];
-let slideLangOrderSnap = null;
-function lockDbLangOrder(on) {
-  if (on) {
-    if (!slideLangOrderSnap) slideLangOrderSnap = [...langOrder];
-    langOrder = [...DB_LANG_ORDER];
-  } else if (slideLangOrderSnap) {
-    langOrder = [...new Set([...slideLangOrderSnap.filter(c => LANG_META[c]), ...LANGS.map(l => l.code)])];
-    slideLangOrderSnap = null;
-  } else return;
-  applyLangLayout();
-}
+// 성경 DB 모드도 슬라이드 만들기 모드와 같은 언어 순서·설정을 그대로 씀(고정하지 않음).
+function lockDbLangOrder() { applyLangLayout(); }
 function commitOrder(newCodes) {
-  if (appMode === "db") { // 끌어서 옮긴 것을 되돌림
-    showToast("성경 DB 모드에서는 언어 순서가 영어 · 중국어 · 한국어 · 인도네시아어로 고정돼 있어요.", true);
-    syncComposePanel(); syncComposeChips();
-    return;
-  }
   // newCodes에 없는 언어(칩에 안 보이는 제외 언어)는 원래 자리를 그대로 지킨다
   const set = new Set(newCodes);
   const queue = [...newCodes];
@@ -112,6 +95,7 @@ function commitOrder(newCodes) {
   if (next.join() === langOrder.join()) { syncComposePanel(); syncComposeChips(); return; }
   langOrder = next;
   applyLangLayout();
+  refreshInfoSoon(); // 성경 이름 줄도 바뀐 순서대로 다시 만듦
 }
 
 // 패널 줄은 한 번만 만들고, 이후에는 제자리에서 갱신
@@ -159,7 +143,7 @@ function syncComposePanel() {
   if (wanted.some((li, i) => li !== rows[i])) wanted.forEach(li => composeList.appendChild(li));
   wanted.forEach(li => {
     const mode = langMode(li.dataset.lang);
-    li.draggable = appMode !== "db"; // 성경 DB 모드는 순서 고정
+    li.draggable = true;
     li.classList.toggle("excluded", mode === "hid");
     li.querySelectorAll(".cr-mode button").forEach(b => {
       const on = b.dataset.mode === mode;
@@ -177,7 +161,7 @@ function syncComposeChips() {
     const chip = document.createElement("span");
     chip.className = "rh-chip";
     chip.dataset.lang = code;
-    chip.draggable = appMode !== "db"; // 성경 DB 모드는 순서 고정
+    chip.draggable = true;
     const grip = document.createElement("span");
     grip.className = "grip";
     grip.textContent = "⠿";

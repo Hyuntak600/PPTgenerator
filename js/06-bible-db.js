@@ -174,6 +174,7 @@ function dbRefreshTags() {
     const tag = b._row.querySelector(".ref-tag"), t = text(r.v);
     if (tag && tag.textContent !== t) tag.textContent = t;
   });
+  fitRefTags();
   dbRefStr = text(s.v); // 글자 맞춤 계산이 "위쪽 구절 자리가 있다"고 알게 하는 값
 }
 function dbRowRef(i) { const b = right.children[i], t = b && b._row && b._row.querySelector(".ref-tag"); return (t && t.textContent) || dbRefStr; } // 슬라이드 i번(0부터)의 구절 표시
@@ -834,7 +835,7 @@ function setMode(m) {
     slideAlignSnap = defaultAlign;
     appMode = "db"; dbRoot.dataset.mode = "db"; slideOpts = [];
     setDefaultAlign(dbAlign); // 성경 DB 모드 기본 정렬 = 오른쪽
-    lockDbLangOrder(true);    // 언어 순서 = 영어 · 중국어 · 한국어 · 인도네시아어 고정
+    lockDbLangOrder(true);    // 슬라이드 만들기와 같은 언어 순서·설정을 그대로 씀
     dbGo(dbLoadSel()).then(() => restoreView(viewSnap.db));
     dbGuideFirstTime();
   } else {

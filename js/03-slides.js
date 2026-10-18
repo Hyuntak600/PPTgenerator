@@ -1215,13 +1215,13 @@ const BOOK_ID = "Kejadian,Keluaran,Imamat,Bilangan,Ulangan,Yosua,Hakim-hakim,Rut
 // 영어 (한국어) 중국어 인도네시아어 장:절 순서 — "제외"한 언어는 뺀다(영어를 빼면 한국어는 괄호 없이). 예전 방식으로 저장된 글(요한복음 3:16)은 그대로 보여준다.
 function bibleRefKey(en, ch, label) { return "BIB|" + en + "|" + ch + "|" + label; }
 // 성경 이름 한 줄: 슬라이드 구성의 언어 순서(langOrder)대로, "제외"한 언어는 빼고 만든다.
-// 영어·중국어는 그대로, 한국어·인도네시아어는 괄호 안에 넣는다(영어·중국어 이름이 하나도 없으면 괄호 없이). 같은 글자는 한 번만.
+// 영어·중국어는 그대로, 한국어·인도네시아어는 괄호 안에 넣는다(영어·중국어 이름이 하나도 없으면 괄호 없이). 
 function bibleNameList(b, idx) {
-  const nm = { en: b.en || "", ko: b.ko || "", zh: b.zh || BOOK_ZH[idx] || "", id: b.id || b.ind || BOOK_ID[idx] || "" };
+  const nm = { en: b.en || "", ko: b.ko || "", zh: b.zh || BOOK_ZH[idx] || "", id: (typeof b.id === "string" && isNaN(+b.id) && b.id) || b.ind || BOOK_ID[idx] || "" };
   const shown = langOrder.filter(c => !hiddenSet.has(c) && nm[c]);
   const base = shown.some(c => c === "en" || c === "zh");
   const out = [];
-  shown.forEach(c => { if (!out.some(o => o.t === nm[c])) out.push({ c, t: nm[c] }); });
+  shown.forEach(c => out.push({ c, t: nm[c] })); // 영어와 철자가 같은 이름(1 Samuel 등)도 빼지 않고 화면의 언어를 전부 표시
   return out.map(o => (o.c === "ko" || o.c === "id") && base ? "(" + o.t + ")" : o.t);
 }
 function refDisplay(raw, withPage) { // withPage === true 일 때만 "3:16 (a)"처럼 페이지 표시를 붙임. 슬라이드·복사·알림에는 숫자만("3:16")
@@ -1243,9 +1243,19 @@ function dbRefText(s) {
   return bibleNameList(b, idx).concat(s.ch + ":" + s.v + (s.vEnd > s.v ? "-" + s.vEnd : "")).join(" ");
 }
 let dbRefSrc = null; // DB 모드에서 지금 라벨을 만든 절 {en,ch,v,vEnd} — 언어 설정(순서·제외)이 바뀌면 이걸로 다시 만듦
+// 구절 표시가 슬라이드 너비보다 길면 잘리지 않게 글자를 줄여 한 줄에 다 보이게 함(언어를 4개 다 넣어도 인도네시아어·장:절까지 보임)
+function fitRefTags() {
+  requestAnimationFrame(() => right.querySelectorAll(".ref-tag").forEach(t => {
+    t.style.fontSize = "";
+    if (!t.textContent || t.clientWidth <= 0) return;
+    const k = t.clientWidth / t.scrollWidth;
+    if (k < 1) t.style.fontSize = "calc(5.4cqh * " + Math.max(0.4, k * 0.98).toFixed(3) + ")";
+  }));
+}
 function setRefTags(str) {
   dbRefStr = str || "";
   right.querySelectorAll(".ref-tag").forEach(t => { t.textContent = dbRefStr; });
+  fitRefTags();
 }
 // ---- 성경에서 불러온 슬라이드 표시 · 순서 바꾸기 ----
 // 표시(예: "요한복음 3:16a")는 조각(상자)에 붙어 다니므로 조각을 옮기면 같이 움직인다. 슬라이드 N = 각 언어 칸의 N번 조각.
