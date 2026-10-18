@@ -148,6 +148,10 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
   font-size:.62rem; color:var(--sub); background:rgba(127,127,127,.18); padding:0 7px; border-radius:8px; line-height:1.5;
 }
 .box-link:hover{color:var(--ink); background:rgba(127,127,127,.32);}
+/* 성경 DB 모드에서 여러 절을 한 화면에 볼 때: 조각 번호 옆에 절 표시, 절이 바뀌는 자리에 굵은 윗선, 절마다 번갈아 옅은 바탕. 높이·여백을 바꾸지 않는 표시만 써서 언어 칸 줄 맞춤이 어긋나지 않음 */
+html[data-mode="db"] .box-num[data-vl]::after{content:" · " attr(data-vl) "절"; font-weight:700; color:var(--ink);}
+html[data-mode="db"] .box.vfirst::before{content:""; position:absolute; left:0; right:0; top:0; height:3px; background:var(--lang-color); opacity:.7; z-index:3; pointer-events:none;}
+html[data-mode="db"] .box.valt{background:color-mix(in srgb,var(--lang-color) 7%,var(--panel));}
 
 /* 슬라이드 쪽 너비: 100% 배율에서는 예전과 같은 46.5%(= 1 : 1.15). 브라우저를 축소하면 --zoomfix(축소 비율)만큼 곱해
    슬라이드 칸도 글씨와 함께 줄어들고, 남는 자리는 조각(왼쪽) 영역이 차지함. 확대(100% 초과)할 때는 그대로 둠 */
@@ -727,6 +731,13 @@ input[type=checkbox]{accent-color:var(--accent);}
 :root[data-theme="light"]{color-scheme:light;}
 
 /* ── 성경 DB 모드 ── */
+/* 성경 DB 모드: 왼쪽 언어 칸도 영어 · 중국어 · 한국어 · 인도네시아어 순서로 고정 */
+html[data-mode="db"] .left > .col[data-lang="en"]{order:0;}
+html[data-mode="db"] .left > .col[data-lang="zh"]{order:1;}
+html[data-mode="db"] .left > .col[data-lang="ko"]{order:2;}
+html[data-mode="db"] .left > .col[data-lang="id"]{order:3;}
+html[data-mode="db"] .cr-grip{visibility:hidden;}
+html[data-mode="db"] #composeChips .rh-chip .grip{visibility:hidden;}
 html:not([data-mode="db"]) .db-only{display:none !important;}
 html[data-mode="db"] .slide-only{display:none !important;}
 .dbbar select{max-width:200px;}
@@ -1154,10 +1165,12 @@ html .wel-fold[open]>summary{margin-bottom:12px;}
 /* 4개 언어 칸이 좁은 창(특히 스크롤바가 두꺼운 윈도우)에서 좌우로 잘려 스크롤되지 않게: 칸 최소 너비·간격을 줄임 */
 html .left{gap:10px; padding-left:12px; padding-right:12px;}
 html .left{overflow-x:hidden; scroll-snap-type:none;}
+/* 한쪽 칸에만 조각이 많아도 모든 언어 칸이 같은 길이가 되게 늘려, 스크롤을 내려도 언어 이름·번역 미리보기 칸(고정 영역)이 끝까지 그대로 붙어 있게 함 */
+html .left{display:grid; grid-auto-flow:column; grid-auto-columns:minmax(150px,1fr); align-items:stretch;} /* 칸마다 길이가 달라도 가장 긴 칸에 맞춰 같은 높이로 */
 html .col{flex:1 1 0; min-width:0;}
 html .col .box,html .col .box textarea{min-width:0; max-width:100%;}
 
-/* 도구 줄: 왼쪽 = 글자 크기·정렬·찾기·되돌리기, 오른쪽 = 섞인 언어 삭제·설정 */
+/* 도구 줄: 왼쪽 = 글자 크기·정렬·찾기·되돌리기·섞인 언어 삭제, 오른쪽 = 설정 */
 .tb-edit{display:flex; align-items:center; gap:4px;}
 .toolbar-right .settings-panel{left:auto; right:0;}
 
@@ -1178,6 +1191,31 @@ html .wel-modal .wel-notes li{font-size:.78rem !important; line-height:1.5 !impo
 .wel-flow li:not(:last-child)::after{content:"›"; margin-left:4px; opacity:.4;}
 html .wel-fold{margin-top:14px;}
 html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
+
+/* 섞인 언어 자동 삭제 · 미리 보기 창: 지워질 글자는 회색 */
+.fp-modal{max-width:min(1180px,96vw);}
+.fp-modal .fp-rules{margin:0 0 10px; padding:8px 12px; border:.5px solid var(--line); border-radius:10px; background:color-mix(in srgb,var(--ink) 4%,transparent);}
+.fp-modal .fp-rules summary{cursor:pointer; font-weight:600; font-size:.88rem;}
+.fp-modal .fp-rules ul{margin:6px 0 2px;}
+.fp-modal .fp-rules li{font-size:.84rem !important; line-height:1.55 !important;}
+.fp-sum{margin:0 0 8px; font-size:.84rem;}
+.fp-skipnote{color:var(--sub);}
+.fp-grid-wrap{overflow:auto; max-height:46vh; border:.5px solid var(--line); border-radius:10px;}
+.fp-grid{display:grid; grid-template-columns:repeat(var(--n,4),minmax(210px,1fr));}
+.fp-col{min-width:0; border-left:.5px solid var(--line);}
+.fp-col:first-child{border-left:0;}
+.fp-col-head{position:sticky; top:0; z-index:2; padding:8px 10px; background:var(--panel); border-top:3px solid var(--line); border-bottom:.5px solid var(--line); font-size:.84rem; font-weight:600;}
+.fp-col-head small{display:block; font-weight:400; font-size:.74rem; color:var(--sub);}
+.fp-piece{margin:8px; padding:7px 10px; border:.5px solid var(--line); border-radius:8px; font-size:.84rem; line-height:1.5;}
+.fp-piece.gone{border-style:dashed;}
+.fp-piece-tag{margin-bottom:3px; font-size:.7rem; color:var(--sub);}
+.fp-line{white-space:pre-wrap; overflow-wrap:anywhere; min-height:1.5em;}
+.fp-line.fp-empty{color:var(--sub); font-style:italic;}
+.fp-line.drop{color:#8e8e93; background:rgba(142,142,147,.26); border-radius:4px; padding:0 4px; margin:1px -4px;}
+.fp-sw{display:inline-block; min-height:0; margin:0; padding:0 6px;}
+.fp-bar{display:flex; align-items:center; gap:8px; margin:0 0 8px; font-size:.84rem;}
+.fp-bar select{max-width:100%; font-size:.84rem;}
+.patch-modal .copy-actions > .fp-clear{margin-right:auto;}
 </style>
 </head>
 <body>
@@ -1415,6 +1453,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     <ul>
       <li data-en="All the Bible verses here are already recorded in the program.">여기 있는 성경 구절은 <b>전부 프로그램에 기록</b>되어 있는 것이에요.</li>
       <li data-en="You can edit them, but your edits are <b>not</b> sent to the program automatically (they only stay on this PC).">구절은 <b>수정할 수 있어요.</b> 다만 수정한 내용이 프로그램에 <b>자동으로 업데이트되지는 않아요.</b> (이 PC에만 남아요)</li>
+      <li data-en="Press the <b>Verse</b> box and pick a start verse, then an end verse (or <b>Whole chapter</b>) to see and edit several verses at once. Each piece carries its own verse label, so verses never get mixed, and pieces of different verses can't be merged.">절 칸을 누르고 <b>시작 절 → 끝 절</b>(또는 <b>장 전체</b>)을 고르면 여러 절을 한 화면에서 보고 고칠 수 있어요. 조각마다 절 표시가 붙어 있어서 <b>절끼리 섞이지 않고</b>, 다른 절의 조각과는 합칠 수 없어요.</li>
     </ul>
 
     <h3><svg class="ic ic-mail" aria-hidden="true"><use href="#i-mail"/></svg>수정한 내용을 프로그램에 반영하려면</h3>
@@ -1491,6 +1530,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</button>
       <details class="hmenu end" id="dataMenu"><summary class="btn" title="백업·복구 · 지우기">데이터</summary><div class="hmenu-panel">
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
+      <button type="button" class="btn slide-only" id="filterLogBtn" title="[섞인 언어 자동 삭제]로 지운 글자를 그대로 남겨 둔 기록이에요. 지운 뒤에도 맞게 지웠는지 확인할 수 있어요">섞인 언어 삭제 기록</button>
       <hr class="slide-only">
       <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
@@ -1515,9 +1555,9 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <button type="button" class="btn quiet slide-only" id="findBtn" aria-expanded="false" title="원고에서 글자를 찾아요 (Ctrl/⌘+Shift+F)"><svg class="ic ic-search" aria-hidden="true"><use href="#i-search"/></svg>찾기</button>
       <button type="button" class="btn quiet" id="undoBtn" title="이전으로 되돌리기 (Ctrl/⌘+Z)" disabled>↶</button>
       <button type="button" class="btn quiet" id="redoBtn" title="다시 하기 (Ctrl/⌘+Shift+Z)" disabled>↷</button>
+      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지워요. 되돌리기: Ctrl/⌘+Z">섞인 언어 자동 삭제</button>
     </div>
     <div class="toolbar-right">
-      <button type="button" class="btn quiet slide-only" id="filterLangBtn" title="각 언어 칸에 섞여 있는 다른 언어 줄(원문 등)을 자동으로 지워요. 되돌리기: Ctrl/⌘+Z">섞인 언어 자동 삭제</button>
       <details class="settings-more" id="settingsMore">
       <summary class="btn quiet"><svg class="ic ic-sliders" aria-hidden="true"><use href="#i-sliders"/></svg>설정</summary>
       <div class="settings-panel">
@@ -1619,19 +1659,19 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <script defer src="js/00-config.js?v=20261002i"></script>
 <script defer src="js/01-core.js?v=20261004a"></script>
 <script defer src="js/02-translate.js?v=20261011b"></script>
-<script defer src="js/03-slides.js?v=20261011b"></script>
-<script defer src="js/04-layout-copy.js?v=20261004a"></script>
+<script defer src="js/03-slides.js?v=20261018c"></script>
+<script defer src="js/04-layout-copy.js?v=20261018b"></script>
 <script defer src="js/05-storage.js?v=20261004b"></script>
-<script defer src="js/06-bible-db.js?v=20261004a"></script>
-<script defer src="js/07-bible-copy.js?v=20261004a"></script>
+<script defer src="js/06-bible-db.js?v=20261018b"></script>
+<script defer src="js/07-bible-copy.js?v=20261018a"></script>
 <script defer src="js/08-welcome-demo.js?v=20261011a"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261011b"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261018a"></script>
 <script defer src="js/11-modal-guard.js?v=20261011b"></script>
 <script defer src="js/12-view-only.js?v=20261003hbc"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>
 <script defer src="js/18-goto-slide.js?v=20261003a"></script>
 <script defer src="js/19-find.js?v=20261003e"></script>
-<script defer src="js/20-menus.js?v=20261011b"></script>
+<script defer src="js/20-menus.js?v=20261018c"></script>
 </body>
 </html>

@@ -46,11 +46,15 @@ let dbScope = "cur"; // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아�
 const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
 function dcEntries(en, ch) { return dbChapterEntries(en, ch).map(([v, pages]) => [v, pages.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]).filter(e => e[1].length); }
 function dcKey(en, ch, v, i) { return en + "|" + ch + "|" + v + "|" + i; }
-// 지금 보고 있는 절(내용이 있는 모든 페이지)의 선택 키 집합
+// 지금 보고 있는 절(여러 절을 보고 있으면 시작 절~끝 절 전부, 내용이 있는 모든 페이지)의 선택 키 집합
 function dbCurSel() {
   const s = dbCur, sel = new Set(); if (!s) return sel;
-  dcEntries(s.en, s.ch).forEach(([v, pgs]) => { if (v === s.v) pgs.forEach(({ i }) => sel.add(dcKey(s.en, s.ch, v, i))); });
+  dcEntries(s.en, s.ch).forEach(([v, pgs]) => { if (v >= s.v && v <= s.vEnd) pgs.forEach(({ i }) => sel.add(dcKey(s.en, s.ch, v, i))); });
   return sel;
+}
+function dbCurLabel() { // "요한복음 3:16" 또는 여러 절이면 "요한복음 3:16~18"
+  const s = dbCur; if (!s || !window.BibleDB) return "";
+  return BibleDB.book(s.en).ko + " " + s.ch + ":" + s.v + (s.vEnd > s.v ? "~" + s.vEnd : "");
 }
 function dcBuildPickCode(sel) {
   const order = new Map(); BibleDB.books.forEach((b, i) => order.set(b.en, +b.no > 0 ? +b.no : i + 1));
@@ -83,9 +87,9 @@ function refreshDbCode() {
       : "아직 안 보낸 수정이 없어요 ✓" + (!r.sent ? "" : dbInclSent.checked ? " (아래는 이미 보낸 " + r.sent + "절이에요)" : " (이미 보낸 " + r.sent + "절은 [보낸 것도 포함]을 체크하면 다시 볼 수 있어요)");
     dbSentBtn.disabled = !r.unsent;
   } else {
-    const cs = dbCur && window.BibleDB ? BibleDB.book(dbCur.en).ko + " " + dbCur.ch + ":" + dbCur.v : "";
-    dbCodeSub.textContent = "지금 보고 있는 절 " + cs + "의 코드예요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보내 주세요."
-      + (code ? "" : " (이 절에는 내용이 없어요)");
+    const cs = dbCurLabel();
+    dbCodeSub.textContent = "지금 보고 있는 " + (dbCur && dbCur.vEnd > dbCur.v ? "절들 " : "절 ") + cs + "의 코드예요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보내 주세요."
+      + (code ? "" : (dbCur && dbCur.vEnd > dbCur.v ? " (이 절들에는 내용이 없어요)" : " (이 절에는 내용이 없어요)"));
   }
 }
 function dbSetScope(sc) {
@@ -142,7 +146,7 @@ function ccRefresh() {
   const bk = BibleDB.book(ccBook.value), nm = bkName(bk) || ccBook.value;
   sub.textContent = nm + " " + ccChap.value + "장 · " + res.n + "페이지의 글을 모았어요. 문단마다 구절 이름과 언어별 글이 나와요. 필요하면 고친 뒤 [복사]를 눌러 주세요.";
 }
-async function ccLoad(wantV) { // wantV: 처음 골라 둘 절(없으면 그 장의 첫 절). 한 절만 골라져 있다가 끝 절을 바꾸면 범위가 늘어남
+async function ccLoad(wantV, wantEnd) { // wantV~wantEnd: 처음 골라 둘 절 범위(없으면 그 장의 첫 절 하나). 한 절만 골라져 있다가 끝 절을 바꾸면 범위가 늘어남
   const my = ++ccSeq, en = ccBook.value, ch = +ccChap.value || 1;
   ccLoaded = false; ccItems = []; ccFill(ccFrom); ccFill(ccTo); ccRefresh();
   try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
@@ -157,8 +161,9 @@ async function ccLoad(wantV) { // wantV: 처음 골라 둘 절(없으면 그 장
   ccFill(ccFrom); ccFill(ccTo); ccLoaded = true;
   if (ccItems.length) {
     let v0 = wantV && ccItems.some(x => x.v === wantV) ? wantV : ccItems[0].v;
-    const idx = ccItems.map((x, i) => x.v === v0 ? i : -1).filter(i => i >= 0);
-    ccFrom.value = String(idx[0]); ccTo.value = String(idx[idx.length - 1]); // 그 절의 모든 페이지(a·b)
+    const v1 = wantV && wantEnd > v0 ? wantEnd : v0;
+    const idx = ccItems.map((x, i) => x.v >= v0 && x.v <= v1 ? i : -1).filter(i => i >= 0);
+    ccFrom.value = String(idx[0]); ccTo.value = String(idx[idx.length - 1]); // 그 절(범위)의 모든 페이지(a·b)
   }
   ccRefresh();
 }
@@ -191,7 +196,7 @@ function ccOpen() {
   const sel = dbCur || dbLoadSel();
   ccBook.value = sel.en; fillNum(ccChap, BibleDB.book(sel.en).chapters, sel.ch); macSyncs.forEach(f => f());
   copyText.value = ""; copyOverlay.classList.add("open");
-  ccLoad(sel.v); // 처음엔 지금 보던 절만
+  ccLoad(sel.v, sel.vEnd); // 처음엔 지금 보던 절(여러 절을 보고 있었으면 그 범위)만
 }
 function ctPickText(sel) {
   saveDbNow(); // 지금 화면의 내용까지 반영한 뒤 뽑음

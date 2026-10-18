@@ -85,7 +85,26 @@ function makeSortable(container, itemSel, horizontal, onCommit) {
     onCommit();
   });
 }
+// 성경 DB 모드: 슬라이드·구절 표시·복사의 언어 순서는 영어 → 중국어 → 한국어 → 인도네시아어로 고정(순서를 바꿀 수 없음).
+// 들어갈 때 슬라이드 만들기의 순서를 기억해 두었다가, 슬라이드 만들기로 돌아오면 그대로 되돌린다.
+const DB_LANG_ORDER = ["en", "zh", "ko", "id"];
+let slideLangOrderSnap = null;
+function lockDbLangOrder(on) {
+  if (on) {
+    if (!slideLangOrderSnap) slideLangOrderSnap = [...langOrder];
+    langOrder = [...DB_LANG_ORDER];
+  } else if (slideLangOrderSnap) {
+    langOrder = [...new Set([...slideLangOrderSnap.filter(c => LANG_META[c]), ...LANGS.map(l => l.code)])];
+    slideLangOrderSnap = null;
+  } else return;
+  applyLangLayout();
+}
 function commitOrder(newCodes) {
+  if (appMode === "db") { // 끌어서 옮긴 것을 되돌림
+    showToast("성경 DB 모드에서는 언어 순서가 영어 · 중국어 · 한국어 · 인도네시아어로 고정돼 있어요.", true);
+    syncComposePanel(); syncComposeChips();
+    return;
+  }
   // newCodes에 없는 언어(칩에 안 보이는 제외 언어)는 원래 자리를 그대로 지킨다
   const set = new Set(newCodes);
   const queue = [...newCodes];
@@ -140,6 +159,7 @@ function syncComposePanel() {
   if (wanted.some((li, i) => li !== rows[i])) wanted.forEach(li => composeList.appendChild(li));
   wanted.forEach(li => {
     const mode = langMode(li.dataset.lang);
+    li.draggable = appMode !== "db"; // 성경 DB 모드는 순서 고정
     li.classList.toggle("excluded", mode === "hid");
     li.querySelectorAll(".cr-mode button").forEach(b => {
       const on = b.dataset.mode === mode;
@@ -157,7 +177,7 @@ function syncComposeChips() {
     const chip = document.createElement("span");
     chip.className = "rh-chip";
     chip.dataset.lang = code;
-    chip.draggable = true;
+    chip.draggable = appMode !== "db"; // 성경 DB 모드는 순서 고정
     const grip = document.createElement("span");
     grip.className = "grip";
     grip.textContent = "⠿";
@@ -414,7 +434,7 @@ function collectSlidesForCopy() {
 }
 // 한 슬라이드 = 한 문단: 언어마다 한 줄씩(줄바꿈), 슬라이드 사이는 빈 줄 한 줄로 나눈다
 function slideLineText(s) {
-  const r0 = appMode === "db" ? dbRefStr : refDisplay(readRefs()[s.no - 1] || "");
+  const r0 = appMode === "db" ? dbRowRef(s.no - 1) : refDisplay(readRefs()[s.no - 1] || "");
   const ref = r0 ? r0 + "\n" : ""; // 성경 슬라이드: 문단 제일 위에 "책 이름 장:절"
   return ref + s.parts.map(p => p.paren ? "(" + p.text + ")" : p.text).join("\n");
 }

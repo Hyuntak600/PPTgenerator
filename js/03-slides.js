@@ -5,6 +5,21 @@
 // 기준점(성경 조각)은 모든 언어 칸에서 항상 같은 줄에 온다. 한 언어 칸이 조각을 늘려도 다른 칸에 조각이 생기지 않고,
 // 다른 칸은 그 만큼 화면에서만 비워 두고(보이지 않는 여백) 성경 줄을 같은 높이에 맞춘다.
 function buildRowMap() {
+  // 성경 DB 모드(여러 절 보기): 조각마다 절 이름표(data-v)가 붙어 있다. 절이 줄 묶음의 경계가 되고(성경 줄 같은 "기준점"은 따로 만들지 않음),
+  // 같은 절 안에서는 언어마다 위에서부터 N번째 조각이 N번째 페이지(슬라이드)가 된다. 다른 절의 조각은 절대 같은 줄에 오지 않는다.
+  if (appMode === "db" && left.querySelector(".box[data-v]")) {
+    const per = [...left.querySelectorAll(":scope > .col")].map(col => {
+      const g = new Map();
+      col.querySelectorAll(":scope > .box").forEach(b => { const v = +b.dataset.v || 0; if (!g.has(v)) g.set(v, []); g.get(v).push(b); });
+      return { code: col.dataset.lang, g };
+    });
+    const vs = [...new Set(per.flatMap(p => [...p.g.keys()]))].sort((a, b) => a - b), rows = [];
+    vs.forEach(v => {
+      const n = Math.max(0, ...per.map(p => (p.g.get(v) || []).length));
+      for (let j = 0; j < n; j++) { const by = {}; per.forEach(p => { by[p.code] = (p.g.get(v) || [])[j] || null; }); rows.push({ by, anchor: false, v }); }
+    });
+    return rows;
+  }
   const per = [...left.querySelectorAll(":scope > .col")].map(col => {
     const segs = [[]], refs = [];
     col.querySelectorAll(":scope > .box").forEach(b => { if (b.dataset.ref) { refs.push(b); segs.push([]); } else segs[segs.length - 1].push(b); });
@@ -76,16 +91,22 @@ function alignRows() {
     Object.values(r.by).forEach(b => { if (b && b._ta) h = Math.max(h, b._ta.offsetHeight + (b.offsetHeight - b.clientHeight)); });
     return h;
   });
+  // 조각 사이 실제 간격 = 칸의 row-gap + 둘째 조각부터 붙는 margin-top(CSS의 ".box + .box"). 줄 맞춤용 인라인 margin이 읽는 값에 섞이지 않게 잠깐 걷어 내고 읽는다.
+  const probe = left.querySelector(":scope > .col > .box + .box");
+  let boxMargin = 0;
+  if (probe) { const keep = probe.style.marginTop; probe.style.marginTop = ""; boxMargin = parseFloat(getComputedStyle(probe).marginTop) || 0; probe.style.marginTop = keep; }
   cols.forEach(col => {
-    const gap = parseFloat(getComputedStyle(col).rowGap) || 6;
-    let skip = 0; // 이 칸에 조각이 없는 줄(다른 언어만 있는 줄)의 높이만큼 다음 조각 위를 비움
+    const flexGap = parseFloat(getComputedStyle(col).rowGap) || 0, gap = flexGap + boxMargin;
+    let skip = 0, placed = false; // skip: 이 칸에 조각이 없는 줄(다른 언어만 있는 줄)의 높이만큼 다음 조각 위를 비움
     rows.forEach((r, i) => {
       const b = r.by[col.dataset.lang];
       if (!b) { skip += want[i] + gap; return; }
-      const v = want[i] ? want[i] + "px" : "", m = skip ? skip + "px" : "";
+      const v = want[i] ? want[i] + "px" : "";
+      // 인라인 margin-top은 CSS의 기본 간격(boxMargin)을 대신하므로, 앞 조각이 있으면 그 간격을 다시 더해 줘야 다른 칸과 정확히 같은 높이에 선다
+      const m = skip ? (skip + (placed ? boxMargin : 0)) + "px" : "";
       if (b.style.minHeight !== v) b.style.minHeight = v;
       if (b.style.marginTop !== m) b.style.marginTop = m;
-      skip = 0;
+      skip = 0; placed = true;
     });
   });
 }
@@ -121,6 +142,7 @@ function addBox(col, lang, text, afterWrap, placeholder) {
   const wrap = document.createElement("div");
   wrap.className = "box";
   wrap.id = "b" + uid++;
+  if (appMode === "db" && afterWrap && afterWrap.dataset && afterWrap.dataset.v) wrap.dataset.v = afterWrap.dataset.v; // 성경 DB 모드: Enter로 나눈 조각은 같은 절에 남음
 
   const numBadge = document.createElement("div");
   numBadge.className = "box-num";
@@ -238,6 +260,10 @@ left.addEventListener("keydown", e => {
   // 맨 앞에서 Backspace: 앞 조각과 합치기
   if (e.key === "Backspace" && !imeBusy(e) && ta.selectionStart === 0 && ta.selectionEnd === 0) {
     let prev = prevBoxSibling(wrap);
+    if (appMode === "db" && prev && prev.dataset.v !== wrap.dataset.v) { // 성경 DB 모드: 절의 첫 조각은 앞 절 조각과 합칠 수 없음
+      e.preventDefault(); showToast("다른 절과는 합칠 수 없어요. 절마다 따로 저장돼요.", true);
+      return;
+    }
     if (prev && wrap.dataset.ref) { // 성경 조각 자체는 다른 조각과 합치지 않음
       e.preventDefault(); showToast("성경 구절은 한 슬라이드로 고정돼 있어서 합칠 수 없어요.", true);
       return;
@@ -333,48 +359,96 @@ function lineFits(code, str) {
 //  - 붙여넣을 때 자동으로 하지 않고, 이 기능을 눌렀을 때만 한다. 줄 단위로 가려서, 조각 안에 섞여 있던 줄만 빼고 나머지는 그대로 둔다
 //  - 빼고 나서 글이 하나도 안 남는 조각은 지운다(칸에는 조각이 항상 1개 이상 남음). 성경에서 불러온 조각은 건드리지 않음
 //  - 칸에서 남는 줄이 10% 미만이면(칸을 잘못 고른 듯, 예: 영어 글만 있는 한국어 칸) 그 칸은 그대로 둠
+//  - 세 단계로 나뉨: ① planFilterOtherLanguages = 무엇을 지울지 계획만 세움(원고는 안 건드림) → ② 미리 보기 창(js/20-menus.js의 openFilterPreview)에서 확인 → ③ applyFilterPlan = [삭제하기]를 눌렀을 때만 실제로 지움
 //  - 되돌리기: Ctrl/⌘+Z 한 번(지우기 직전 내용은 자동 백업에도 남음)
-function filterOtherLanguages() {
-  if (appMode !== "slide") return;
-  const plan = [], skipped = [];
+function planFilterOtherLanguages() {
+  const cols = [], skipped = [];
   let dropTotal = 0;
   left.querySelectorAll(":scope > .col").forEach(col => {
     const code = col.dataset.lang;
     if (!LANGS.some(l => l.code === code)) return;
     let total = 0, kept = 0, dropped = 0;
-    const edits = [];
-    col.querySelectorAll(":scope > .box").forEach(box => {
-      if (box.dataset.ref || !NON_BLANK.test(box._ta.value)) return;
+    const pieces = [];
+    col.querySelectorAll(":scope > .box").forEach((box, idx) => {
+      const p = { box, num: idx + 1, ref: !!box.dataset.ref, blank: false, lines: [], text: null, fate: "" };
+      pieces.push(p);
+      const raw = box._ta.value.replace(/\r\n?/g, "\n");
+      if (p.ref) { p.lines = raw.split("\n").map(t => ({ text: t, drop: false })); return; } // 성경 조각은 건드리지 않음(보여 주기만)
+      if (!NON_BLANK.test(raw)) { p.blank = true; return; }
       const out = []; let bd = 0;
-      box._ta.value.replace(/\r\n?/g, "\n").split("\n").forEach(line => {
+      raw.split("\n").forEach(line => {
         const t = line.trim();
-        if (!t) { out.push(""); return; }
+        if (!t) { out.push(""); p.lines.push({ text: "", drop: false }); return; }
         total++;
-        if (lineFits(code, t)) { kept++; out.push(line); } else { bd++; dropped++; }
+        if (lineFits(code, t)) { kept++; out.push(line); p.lines.push({ text: line, drop: false }); }
+        else { bd++; dropped++; p.lines.push({ text: line, drop: true }); }
       });
-      if (bd) edits.push({ box, text: out.join("\n").replace(/\n{3,}/g, "\n\n").replace(/^\n+|\n+$/g, "") });
+      if (bd) p.text = out.join("\n").replace(/\n{3,}/g, "\n\n").replace(/^\n+|\n+$/g, "");
     });
-    if (!dropped) return;
-    if (kept < total * 0.1) { skipped.push(labelOf(code)); return; }
-    dropTotal += dropped; plan.push({ col, edits });
+    const skip = dropped > 0 && kept < total * 0.1; // 남는 줄이 10% 미만이면 이 칸은 통째로 건너뜀
+    if (skip) { skipped.push(labelOf(code)); pieces.forEach(p => { p.text = null; p.lines.forEach(l => { l.drop = false; }); }); }
+    else {
+      dropTotal += dropped;
+      let count = pieces.length; // 글이 하나도 안 남는 조각: 칸에 조각이 2개 이상이면 조각째 삭제, 마지막 하나면 빈 조각으로 남김
+      pieces.forEach(p => { if (p.text === "") { if (count > 1) { p.fate = "remove"; count--; } else p.fate = "clear"; } });
+    }
+    cols.push({ col, code, label: labelOf(code), total, kept, dropped: skip ? 0 : dropped, skip, pieces });
   });
-  const undoTip = " (되돌리기: Ctrl/⌘+Z)", skipTip = skipped.join("·") + " 칸은 거의 다른 언어라 그대로 뒀어요.";
-  if (!dropTotal) { showToast(skipped.length ? skipTip : "다른 언어로 보이는 줄이 없어요."); return; }
+  return { cols, dropTotal, skipped };
+}
+// 삭제 기록: [삭제하기]를 누르는 순간, "무엇을 어느 조각에서 지웠는지"를 그대로(지운 글자 포함) 이 브라우저에 남겨 둔다.
+//  나중에 지운 글자가 맞았는지 크로스체크하려는 용도라 원고를 되돌려도 기록은 남음. 최근 5번까지 보관하고 오래된 것부터 버림
+//  (데이터 ▾ → [섞인 언어 삭제 기록]에서 봄). 키가 "subtitleTool_"로 시작해서 [모든 데이터 삭제]가 지우는 대상에 들어감
+const FILTER_LOG_KEY = "subtitleTool_filterLog_v1", FILTER_LOG_MAX = 5, FILTER_LOG_CHARS = 1200000;
+function readFilterLog() {
+  try { const a = JSON.parse(localStorage.getItem(FILTER_LOG_KEY) || "[]"); return Array.isArray(a) ? a : []; } catch (e) { return []; }
+}
+function clearFilterLog() { try { localStorage.removeItem(FILTER_LOG_KEY); } catch (e) { /* 무시 */ } }
+function saveFilterLog(plan) { // 성공하면 true
+  if (localWiped) return false;
+  const rec = {
+    t: Date.now(), dropTotal: plan.dropTotal, skipped: plan.skipped.slice(),
+    cols: plan.cols.map(c => ({ code: c.code, label: c.label, total: c.total, dropped: c.dropped, skip: c.skip,
+      pieces: c.pieces.map(p => ({ num: p.num, ref: p.ref, blank: p.blank, fate: p.fate, lines: p.lines.map(l => ({ text: l.text, drop: l.drop })) })) })),
+  };
+  const list = [rec, ...readFilterLog()].slice(0, FILTER_LOG_MAX);
+  while (list.length) {
+    const json = JSON.stringify(list);
+    if (json.length <= FILTER_LOG_CHARS || list.length === 1) { try { localStorage.setItem(FILTER_LOG_KEY, json); return true; } catch (e) { /* 공간 부족 → 오래된 기록부터 줄여 다시 */ } }
+    list.pop();
+  }
+  return false;
+}
+window.readFilterLog = readFilterLog; window.clearFilterLog = clearFilterLog;
+function applyFilterPlan(plan) {
+  if (appMode !== "slide") return;
+  const act = plan.cols.filter(c => !c.skip && c.dropped);
+  if (!act.length) return;
+  const skipTip = plan.skipped.join("·") + " 칸은 거의 다른 언어라 그대로 뒀어요.";
   const before = serializeState(); if (textCount(before) > 0) pushBackup(before, "언어 거르기 직전", true);
+  const logged = saveFilterLog(plan); // 지우기 직전, 지울 글자를 기록으로 남김(지운 뒤에도 크로스체크할 수 있게)
   pushUndo("언어 거르기");
   clearPicked();
   isRestoring = true;
   try {
-    plan.forEach(({ col, edits }) => edits.forEach(({ box, text }) => {
+    act.forEach(({ col, pieces }) => pieces.forEach(({ box, text }) => {
+      if (text === null || !box.isConnected) return;
       if (text) box._ta.value = text;
       else if (col.querySelectorAll(":scope > .box").length > 1) { box.remove(); return; }
       else box._ta.value = "";
       autoGrowSoon(box._ta);
     }));
   } finally { isRestoring = false; }
-  plan.forEach(({ col }) => { renumberColumn(col); resetColSelPreview(col); });
+  act.forEach(({ col }) => { renumberColumn(col); resetColSelPreview(col); });
   syncSlides(); refreshInfo(); saveStateDebounced();
-  showToast("다른 언어로 보이는 " + dropTotal + "줄을 뺐어요." + (skipped.length ? " " + skipTip : "") + undoTip, false, skipped.length ? 7000 : undefined);
+  showToast("다른 언어로 보이는 " + plan.dropTotal + "줄을 뺐어요." + (plan.skipped.length ? " " + skipTip : "") + " (되돌리기: Ctrl/⌘+Z)" + (logged ? " 지운 글자는 데이터 ▾ → 섞인 언어 삭제 기록에서 다시 볼 수 있어요." : " ⚠ 저장 공간이 모자라 삭제 기록은 남기지 못했어요. 🛡️ 백업·복구의 자동 백업을 확인하세요."), !logged, 8000);
+}
+function filterOtherLanguages() {
+  if (appMode !== "slide") return;
+  const plan = planFilterOtherLanguages();
+  if (typeof window.openFilterPreview === "function") window.openFilterPreview(plan, () => applyFilterPlan(plan)); // 미리 보기 창에서 [삭제하기]를 눌러야 지움(지울 글자가 없어도 창은 열고, 없다고 알려 줌)
+  else if (!plan.dropTotal) showToast(plan.skipped.length ? plan.skipped.join("·") + " 칸은 거의 다른 언어라 그대로 뒀어요." : "다른 언어로 보이는 줄이 없어요.");
+  else applyFilterPlan(plan);
 }
 
 // 긴 글 붙여넣기(비어 있는 조각에 처음 붙일 때만):
@@ -882,7 +956,7 @@ function refreshInfo() {
   updateSlideHeaders(cols);
   updateBoxLinks(cols);
   updateBibleBoxes();
-  if (appMode === "db" && dbRefSrc) { const t = dbRefText(dbRefSrc); if (t !== dbRefStr) setRefTags(t); }
+  if (appMode === "db") { dbRefreshTags(); dbUpdateVerseChips(); } // 슬라이드 위 구절 표시(슬라이드마다 자기 절) · 왼쪽 조각의 절 표시
   updateHelpBars(cols);
 }
 const refreshInfoSoon = debounce(refreshInfo, 80);
@@ -951,7 +1025,7 @@ function updateUndoBtn() { undoBtn.disabled = !undoStack.length; redoBtn.disable
 function takeSnap(label) { // label = 이 상태로 되돌리게 될 "동작 이름"(되돌리기 알림에 씀)
   const cols = {};
   left.querySelectorAll(":scope > .col").forEach(c => {
-    cols[c.dataset.lang] = [...c.querySelectorAll(":scope > .box")].map(b => ({ id: b.id, text: b._ta.value, ref: b.dataset.ref || "" }));
+    cols[c.dataset.lang] = [...c.querySelectorAll(":scope > .box")].map(b => ({ id: b.id, text: b._ta.value, ref: b.dataset.ref || "", v: b.dataset.v || "" }));
   });
   return { cols, opts: JSON.parse(JSON.stringify(slideOpts)), label: label || "" };
 }
@@ -980,6 +1054,7 @@ function applySnap(s) {
       const o = s.cols[c.dataset.lang][i];
       if (b._ta.value !== o.text) { b._ta.value = o.text; autoGrowSoon(b._ta); if (!focusTa) focusTa = b._ta; }
       if (o.ref) b.dataset.ref = o.ref; else delete b.dataset.ref;
+      if (o.v) b.dataset.v = o.v; else delete b.dataset.v;
     }));
   } else {
     const st = left.scrollTop, sl = left.scrollLeft;
@@ -991,7 +1066,7 @@ function applySnap(s) {
         let prev = null;
         sv.forEach(o => {
           const w = addBox(c, lang, o.text, prev, labelOf(lang)).closest(".box");
-          w.id = o.id; if (o.ref) w.dataset.ref = o.ref; prev = w;
+          w.id = o.id; if (o.ref) w.dataset.ref = o.ref; if (o.v) w.dataset.v = o.v; else delete w.dataset.v; prev = w;
         });
         if (!sv.length) addBox(c, lang, "", null, labelOf(lang));
         renumberColumn(c); resetColSelPreview(c);
@@ -1034,6 +1109,17 @@ function deletePicked() {
     left.querySelectorAll(":scope > .col").forEach(col => {
       const boxes = [...col.querySelectorAll(":scope > .box")], del = boxes.filter(b => picked.has(b));
       if (!del.length) return;
+      if (appMode === "db") { // 성경 DB 모드: 한 절의 조각을 전부 골랐으면 그 절에 빈 조각 하나는 남김(그 칸에서 그 절이 사라지지 않게)
+        const gs = new Map();
+        boxes.forEach(b => { const v = b.dataset.v || ""; if (!gs.has(v)) gs.set(v, []); gs.get(v).push(b); });
+        gs.forEach(list => {
+          const d = list.filter(b => picked.has(b));
+          if (!d.length) return;
+          if (d.length === list.length) { d.slice(1).forEach(b => b.remove()); d[0]._ta.value = ""; autoGrowSoon(d[0]._ta); }
+          else d.forEach(b => b.remove());
+        });
+        return;
+      }
       if (del.length === boxes.length) { // 칸에는 조각이 항상 1개 이상: 하나만 남기고 비움
         del.slice(1).forEach(b => b.remove());
         del[0]._ta.value = ""; delete del[0].dataset.ref; autoGrowSoon(del[0]._ta);
@@ -1068,7 +1154,7 @@ document.addEventListener("keydown", e => {
 // 이 도구 것이 아닌 저장값(같은 주소의 다른 사이트)도 건드리지 않는다.
 const keepOnWipe = k => k.startsWith(DB_KEY) || k === DB_SEL_KEY;
 async function wipeSlideLocalData() {
-  const wipeMsg = "이 PC의 브라우저에 저장된 로컬 데이터를 지워요.\n\n· 슬라이드 원고와 설정\n· 자동 백업(최근 12개 + 24시간 보관)\n· 번역 캐시\n\n성경 DB(내가 수정한 구절 포함)는 지워지지 않아요.\n지운 내용은 되돌릴 수 없으니, 필요한 원고는 백업·복구에서 파일로 저장해 두세요.\n\n계속할까요?";
+  const wipeMsg = "이 PC의 브라우저에 저장된 로컬 데이터를 지워요.\n\n· 슬라이드 원고와 설정\n· 자동 백업(최근 12개 + 24시간 보관)\n· 번역 캐시\n· 섞인 언어 삭제 기록\n\n성경 DB(내가 수정한 구절 포함)는 지워지지 않아요.\n지운 내용은 되돌릴 수 없으니, 필요한 원고는 백업·복구에서 파일로 저장해 두세요.\n\n계속할까요?";
   if (!(await macConfirm(wipeMsg, { title: "모든 데이터 삭제", ok: "모두 삭제", danger: true }))) return;
   const wasReady = stateReady;
   localWiped = true; stateReady = false; // 이 순간부터 자동 저장·캐시 저장이 아무것도 다시 쓰지 않음(DB 초안은 지우지 않으니 dbCur는 그대로 둠)
@@ -1079,6 +1165,7 @@ async function wipeSlideLocalData() {
       if (mine && !keepOnWipe(k)) { localStorage.removeItem(k); n++; }
     });
   } catch (e) { localWiped = false; stateReady = wasReady; showToast("삭제하지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.", true); return; }
+  clearFilterLog(); // 섞인 언어 삭제 기록(subtitleTool_filterLog_v1)은 위 반복에서 이미 지워지지만, 키 이름이 바뀌어도 빠지지 않게 한 번 더 지움
   glossCache = new Map();
   showToast("로컬 데이터·캐시 " + n + "개를 지웠어요. 성경 DB는 그대로 두고 다시 불러옵니다.");
   setTimeout(() => location.reload(), 700);
