@@ -149,9 +149,10 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 }
 .box-link:hover{color:var(--ink); background:rgba(127,127,127,.32);}
 /* 성경 DB 모드에서 여러 절을 한 화면에 볼 때: 조각 번호 옆에 절 표시, 절이 바뀌는 자리에 굵은 윗선, 절마다 번갈아 옅은 바탕. 높이·여백을 바꾸지 않는 표시만 써서 언어 칸 줄 맞춤이 어긋나지 않음 */
-html[data-mode="db"] .box-num[data-vl]::after{content:" · " attr(data-vl) "절"; font-weight:700; color:var(--ink);}
+/* 성경 DB 모드(여러 절 보기): 조각 번호는 숨기고 "절 번호"만 보여 줌(슬라이드 번호는 오른쪽 위 [슬라이드 N] 버튼에 있음) */
+html[data-mode="db"] .box-num[data-vl]{font-size:0;}
+html[data-mode="db"] .box-num[data-vl]::after{content:attr(data-vl) "절"; font-size:.72rem; font-weight:700; color:var(--ink);}
 html[data-mode="db"] .box.vfirst::before{content:""; position:absolute; left:0; right:0; top:0; height:3px; background:var(--lang-color); opacity:.7; z-index:3; pointer-events:none;}
-html[data-mode="db"] .box.valt{background:color-mix(in srgb,var(--lang-color) 7%,var(--panel));}
 
 /* 슬라이드 쪽 너비: 100% 배율에서는 예전과 같은 46.5%(= 1 : 1.15). 브라우저를 축소하면 --zoomfix(축소 비율)만큼 곱해
    슬라이드 칸도 글씨와 함께 줄어들고, 남는 자리는 조각(왼쪽) 영역이 차지함. 확대(100% 초과)할 때는 그대로 둠 */
