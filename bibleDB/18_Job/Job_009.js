@@ -3,7 +3,7 @@
 BibleDB.ref("Job",9,35);
 BibleDB.add([
   {Bible:"Job", Chapter:9, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"yang memberi perintah kepada matahari, sehingga tidak terbit, dan mengurung bintang-bintang dengan meterai;"
   },
   {Bible:"Job", Chapter:9, Verse:8, Page:1,
-    Kor:"어느 누구에게 도움을 받지도 않고 하늘을 펼치시며, a바다 괴물의 등을 짓밟으신다. (a 또는 '바다의 파도를 짓밟으신다')",
+    Kor:"어느 누구에게 도움을 받지도 않고 하늘을 펼치시며, 바다 괴물의 등을 짓밟으신다.",
     Chn:"他独自铺张苍天， 步行在海浪之上。",
     Eng:"He alone stretches out the heavens and treads on the waves of the sea.",
     Ind:"yang seorang diri membentangkan langit, dan melangkah di atas gelombang-gelombang laut;"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Apabila Ia merampas, siapa akan menghalangi-Nya? Siapa akan menegur-Nya: Apa yang Kaulakukan?"
   },
   {Bible:"Job", Chapter:9, Verse:13, Page:1,
-    Kor:"하나님이 진노를 풀지 아니하시면 b라합을 돕는 무리도 무릎을 꿇는데, (b 전설에 나오는 바다의 괴물, 혼돈과 악의 세력을 대표함)",
+    Kor:"하나님이 진노를 풀지 아니하시면 라합을 돕는 무리도 무릎을 꿇는데,",
     Chn:"神必不收回他的怒气； 扶助拉哈伯的，屈身在他以下。",
     Eng:"God does not restrain his anger; even the cohorts of Rahab cowered at his feet.",
     Ind:"Allah tidak menahani murka-Nya, di bawah kuasa-Nya para pembantu Rahab membungkuk;"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"yang tidak membiarkan aku bernafas, tetapi mengenyangkan aku dengan kepahitan."
   },
   {Bible:"Job", Chapter:9, Verse:19, Page:1,
-    Kor:"강한 쪽이 그분이신데, 힘으로 겨룬다고 한들 어떻게 이기겠으며, 재판에 붙인다고 한들 누가 c그분을 재판정으로 불러올 수 있겠느냐? (c 칠십인역을 따름. 히, '나를')",
+    Kor:"강한 쪽이 그분이신데, 힘으로 겨룬다고 한들 어떻게 이기겠으며, 재판에 붙인다고 한들 누가 그분을 재판정으로 불러올 수 있겠느냐?",
     Chn:"若论力量，他真有能力！ 若论审判，他说谁能将我传来呢？",
     Eng:"If it is a matter of strength, he is mighty! And if it is a matter of justice, who will summon him?",
     Ind:"Jika mengenai kekuatan tenaga, Dialah yang mempunyai! Jika mengenai keadilan, siapa dapat menggugat Dia?"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Bila cemeti-Nya membunuh dengan tiba-tiba, Ia mengolok-olok keputusasaan orang yang tidak bersalah."
   },
   {Bible:"Job", Chapter:9, Verse:24, Page:1,
-    Kor:"세상이 악한 권세자의 손에 넘어가도, 주님께서 재판관의 눈을 가려서 제대로 판결하지 못하게 하신다. 그렇지 않다고 하면, 그렇게 하는 이가 누구란 말이냐?",
+    Kor:"세상이 악한 권세자의 손에 넘어가도, 주께서 재판관의 눈을 가려서 제대로 판결하지 못하게 하신다. 그렇지 않다고 하면, 그렇게 하는 이가 누구란 말이냐?",
     Chn:"世界交在恶人手中； 蒙蔽世界审判官的脸， 若不是他，是谁呢？",
     Eng:"When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?",
     Ind:"Bumi telah diserahkan ke dalam tangan orang fasik, dan mata para hakimnya telah ditutup-Nya; kalau bukan oleh Dia, oleh siapa lagi?"
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"maka takutlah aku kepada segala kesusahanku; aku tahu, bahwa Engkau tidak akan menganggap aku tidak bersalah."
   },
   {Bible:"Job", Chapter:9, Verse:29, Page:1,
-    Kor:"주님께서 나를 정죄하신다면, 내가 무엇 때문에 이렇게 애써서 헛된 수고를 해야 합니까?",
+    Kor:"주께서 나를 정죄하신다면, 내가 무엇 때문에 이렇게 애써서 헛된 수고를 해야 합니까?",
     Chn:"我必被你定为有罪， 我何必徒然劳苦呢？",
     Eng:"Since I am already found guilty, why should I struggle in vain?",
     Ind:"Aku dinyatakan bersalah, apa gunanya aku menyusahkan diri dengan sia-sia?"
   },
   {Bible:"Job", Chapter:9, Verse:30, Page:1,
-    Kor:"비록 내가 d비누로 몸을 씻고, 잿물로 손을 깨끗이 닦아도, (d 또는 '눈으로')",
+    Kor:"비록 내가 비누로 몸을 씻고, 잿물로 손을 깨끗이 닦아도,",
     Chn:"我若用雪水洗身， 用硷洁净我的手，",
     Eng:"Even if I washed myself with soap and my hands with washing soda,",
     Ind:"Walaupun aku membasuh diriku dengan salju dan mencuci tanganku dengan sabun,"
   },
   {Bible:"Job", Chapter:9, Verse:31, Page:1,
-    Kor:"주님께서 나를 다시 시궁창에 처넣으시니, 내 옷인들 나를 좋아하겠습니까?",
+    Kor:"주께서 나를 다시 시궁창에 처넣으시니, 내 옷인들 나를 좋아하겠습니까?",
     Chn:"你还要扔我在坑里， 我的衣服都憎恶我。",
     Eng:"you would plunge me into a slime pit so that even my clothes would detest me.",
     Ind:"namun Engkau akan membenamkan aku dalam lumpur, sehingga pakaianku merasa jijik terhadap aku."

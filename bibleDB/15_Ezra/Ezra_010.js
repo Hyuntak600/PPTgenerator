@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",10,44);
 BibleDB.add([
   {Bible:"Ezra", Chapter:10, Verse:1, Page:1,
-    Kor:"<이방인 아내와 자녀를 내쫓다> 에스라가 하나님의 성전 앞에 엎드려 울면서 기도하며 죄를 자백하자, 이스라엘 사람도 남자, 여자, 어린아이 할 것 없이, 많은 무리가 에스라 주변에 모여서, 큰소리로 슬피 울었다.",
+    Kor:"에스라가 하나님의 성전 앞에 엎드려 울면서 기도하며 죄를 자백하자, 이스라엘 사람도 남자, 여자, 어린아이 할 것 없이, 많은 무리가 에스라 주변에 모여서, 큰소리로 슬피 울었다.",
     Chn:"以斯拉祷告，认罪，哭泣，俯伏在　神殿前的时候，有以色列中的男女孩童聚集到以斯拉那里，成了大会，众民无不痛哭。",
     Eng:"While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites--men, women and children--gathered around him. They too wept bitterly.",
     Ind:"Sementara Ezra berdoa dan mengaku dosa, sambil menangis dengan bersujud di depan rumah Allah, berhimpunlah kepadanya jemaah orang Israel yang sangat besar jumlahnya, laki-laki, perempuan dan anak-anak. Orang-orang itu menangis keras-keras."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Kemudian bangkitlah Ezra dan menyuruh para pemuka imam dan orang-orang Lewi dan segenap orang Israel bersumpah, bahwa mereka akan berbuat menurut perkataan itu, maka bersumpahlah mereka."
   },
   {Bible:"Ezra", Chapter:10, Verse:6, Page:1,
-    Kor:"에스라는 하나님의 성전 앞에서 물러 나와, 엘리아십의 아들 여호하난의 방으로 들어가서, 포로로 잡혀 갔다가 돌아온 백성이 지은 죄 때문에, a밤이 새도록 밥도 먹지 않고, 물도 마시지 않으며, 슬피 울었다.(a '밤이 새도록'은 칠십인역을 따름)",
+    Kor:"에스라는 하나님의 성전 앞에서 물러 나와, 엘리아십의 아들 여호하난의 방으로 들어가서, 포로로 잡혀 갔다가 돌아온 백성이 지은 죄 때문에, 밤이 새도록 밥도 먹지 않고, 물도 마시지 않으며, 슬피 울었다.",
     Chn:"以斯拉从　神殿前起来，进入以利亚实的儿子约哈难的屋里，到了那里不吃饭，也不喝水；因为被掳归回之人所犯的罪，心里悲伤。",
     Eng:"Then Ezra withdrew from before the house of God and went to the room of Jehohanan son of Eliashib. While he was there, he ate no food and drank no water, because he continued to mourn over the unfaithfulness of the exiles.",
     Ind:"Sesudah itu Ezra pergi dari depan rumah Allah menuju bilik Yohanan bin Elyasib, dan di sana ia bermalam dengan tidak makan roti dan minum air, sebab ia berkabung karena orang-orang buangan itu telah melakukan perbuatan tidak setia."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Barangsiapa dalam tiga hari tidak datang, maka menurut keputusan para pemimpin dan tua-tua segala hartanya akan disita dan ia akan dikucilkan dari jemaah yang pulang dari pembuangan."
   },
   {Bible:"Ezra", Chapter:10, Verse:9, Page:1,
-    Kor:"사흘 안에 유다와 베냐민 사람들이 모두 예루살렘에 모였다. 그 때가 b아홉째 달 이십일이다. 온 백성이 하나님의 성전 앞뜰에 모여 앉아서 떨고 있었다. 사태가 이러한 터에, 큰비까지 내리고 있었기 때문이다.(b '기슬르'월, 양력 십일월 중순 이후)",
+    Kor:"사흘 안에 유다와 베냐민 사람들이 모두 예루살렘에 모였다. 그 때가 아홉째 달 이십일이다. 온 백성이 하나님의 성전 앞뜰에 모여 앉아서 떨고 있었다. 사태가 이러한 터에, 큰비까지 내리고 있었기 때문이다.",
     Chn:"于是，犹大和便雅悯众人，三日之内都聚集在耶路撒冷。那日正是九月二十日，众人都坐在　神殿前的宽阔处；因这事，又因下大雨，就都战兢。",
     Eng:"Within the three days, all the men of Judah and Benjamin had gathered in Jerusalem. And on the twentieth day of the ninth month, all the people were sitting in the square before the house of God, greatly distressed by the occasion and because of the rain.",
     Ind:"Lalu berhimpunlah semua orang laki-laki Yehuda dan Benyamin di Yerusalem dalam tiga hari itu, yakni dalam bulan kesembilan pada tanggal dua puluh bulan itu. Seluruh rakyat duduk di halaman rumah Allah, sambil menggigil karena perkara itu dan karena hujan lebat."
   },
   {Bible:"Ezra", Chapter:10, Verse:10, Page:1,
-    Kor:"드디어, 에스라 제사장이 나서서, 그들에게 말하였다. \"여러분은 이방 여자들과 결혼하였으므로, 배신자가 되었습니다. 그것 때문에, 이스라엘의 죄가 더욱 커졌습니다.",
+    Kor:"드디어, 에스라 제사장이 나서서, 그들에게 말하였다. \"여러분은 이방 여자들과 결혼하였으므로, 배신자가 되었소. 그것 때문에, 이스라엘의 죄가 더욱 커졌소.",
     Chn:"祭司以斯拉站起来，对他们说：「你们有罪了；因你们娶了外邦的女子为妻，增添以色列人的罪恶。",
     Eng:"Then Ezra the priest stood up and said to them, \"You have been unfaithful; you have married foreign women, adding to Israel's guilt.",
     Ind:"Maka bangkitlah imam Ezra, lalu berkata kepada mereka: \"Kamu telah melakukan perbuatan tidak setia, karena kamu memperisteri perempuan asing dan dengan demikian menambah kesalahan orang Israel."
   },
   {Bible:"Ezra", Chapter:10, Verse:11, Page:1,
-    Kor:"이제 주 여러분의 조상의 하나님께 죄를 자백하고, 그의 뜻을 따르십시오. 이 땅에 있는 이방 백성과 관계를 끊고, 여러분이 데리고 사는 이방인 아내들과도 인연을 끊어야 합니다.\"",
+    Kor:"이제 주 우리 조상의 하나님께 죄를 자백하고, 그의 뜻을 따르시오. 이 땅에 있는 이방 백성과 관계를 끊고, 여러분이 데리고 사는 이방인 아내들과도 인연을 끊어야 하오.\"",
     Chn:"现在当向耶和华—你们列祖的　神认罪，遵行他的旨意，离绝这些国的民和外邦的女子。」",
     Eng:"Now make confession to the LORD, the God of your fathers, and do his will. Separate yourselves from the peoples around you and from your foreign wives.\"",
     Ind:"Tetapi sekarang mengakulah di hadapan TUHAN, Allah nenek moyangmu, dan lakukanlah apa yang berkenan kepada-Nya dan pisahkanlah dirimu dari penduduk negeri dan perempuan-perempuan asing itu!\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Hanya Yonatan bin Asael, dan Yahzeya bin Tikwa, berdiri menentang perkara itu, disokong oleh Mesulam dan Sabetai, orang Lewi itu."
   },
   {Bible:"Ezra", Chapter:10, Verse:16, Page:1,
-    Kor:"포로로 사로잡혀 갔다가 돌아온 백성들은, 많은 쪽의 의견을 따르기로 하였다. 에스라 제사장은 각 가문의 갈래마다 한 사람씩을 우두머리로 뽑아서, 그들에게 책임을 맡겼다. 이방 여자와 결혼한 사람들에 대한 조사는, c열째 달 초하루에 시작하여,(c '테벳'월, 양력 십이월 중순 이후)",
+    Kor:"포로로 사로잡혀 갔다가 돌아온 백성들은, 많은 쪽의 의견을 따르기로 하였다. 에스라 제사장은 각 가문의 갈래마다 한 사람씩을 우두머리로 뽑아서, 그들에게 책임을 맡겼다. 이방 여자와 결혼한 사람들에 대한 조사는, 열째 달 초하루에 시작하여,",
     Chn:"被掳归回的人如此而行。祭司以斯拉和些族长按着宗族都指名见派；在十月初一日，一同在座查办这事，",
     Eng:"So the exiles did as was proposed. Ezra the priest selected men who were family heads, one from each family division, and all of them designated by name. On the first day of the tenth month they sat down to investigate the cases,",
     Ind:"Tetapi mereka yang pulang dari pembuangan melakukannya. Maka imam Ezra memilih beberapa orang, kepala-kepala kaum keluarga, masing-masing untuk kaum keluarganya, semuanya dengan namanya disebut. Pada hari pertama bulan kesepuluh mereka bersidang untuk menyelidiki perkara itu,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"dan mereka menyelesaikan segala urusan mengenai orang yang memperisteri perempuan asing itu pada hari pertama bulan pertama."
   },
   {Bible:"Ezra", Chapter:10, Verse:18, Page:1,
-    Kor:"<이방 여자와 결혼한 남자들> ○제사장의 무리 가운데서 이방 여자와 결혼한 사람들은 다음과 같다. 요사닥의 아들 예수아 및 그 형제들의 자손 가운데서는 마아세야와 엘리에셀과 야립과 그달리야이다.",
+    Kor:"○제사장의 무리 가운데서 이방 여자와 결혼한 사람들은 다음과 같다. 요사닥의 아들 예수아 및 그 형제들의 자손 가운데서는 마아세야와 엘리에셀과 야립과 그달리야이다.",
     Chn:"在祭司中查出娶外邦女子为妻的，就是耶书亚的子孙约萨达的儿子，和他弟兄玛西雅、以利以谢、雅立、基大利；",
     Eng:"Among the descendants of the priests, the following had married foreign women: From the descendants of Jeshua son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib and Gedaliah.",
     Ind:"Di antara kaum imam yang memperisteri perempuan asing terdapat: dari bani Yesua bin Yozadak, dengan saudara-saudaranya: Maaseya, Eliezer, Yarib dan Gedalya."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Dari orang-orang Israel yang lain: dari bani Paros: Ramya, Yezia, Malkia, Miyamin, Eleazar, Malkia dan Benaya."
   },
   {Bible:"Ezra", Chapter:10, Verse:26, Page:1,
-    Kor:"엘람의 자손 가운데서는 맛다니야와 스가랴와 여히엘과 압디와 여레못과 엘리야요,",
+    Kor:"엘람의 자손 가운데서는 맛다냐와 스가랴와 여히엘과 압디와 여레못과 엘리야요,",
     Chn:"以拦的子孙中，有玛他尼、撒迦利亚、耶歇、押底、耶利末、以利雅。",
     Eng:"From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth and Elijah.",
     Ind:"Dari bani Elam: Matanya, Zakharia, Yehiel, Abdi, Yeremot dan Elia."
   },
   {Bible:"Ezra", Chapter:10, Verse:27, Page:1,
-    Kor:"삿두의 자손 가운데서는 엘료에내와 엘리아십과 맛다니야와 여레못과 사밧과 아시사요,",
+    Kor:"삿두의 자손 가운데서는 엘료에내와 엘리아십과 맛다냐와 여레못과 사밧과 아시사요,",
     Chn:"萨土的子孙中，有以利约乃、以利亚实、玛他尼、耶利末、撒拔、亚西撒。",
     Eng:"From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad and Aziza.",
     Ind:"Dari bani Zatu: Elyoenai, Elyasib, Matanya, Yeremot, Zabad dan Aziza."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Dari bani Bani: Mesulam, Malukh, Adaya, Yasub, Seal dan Yeramot."
   },
   {Bible:"Ezra", Chapter:10, Verse:30, Page:1,
-    Kor:"바핫모압의 자손 가운데서는 앗나와 글랄과 브나야와 마아세야와 맛다니야와 브살렐과 빈누이와 므낫세요,",
+    Kor:"바핫모압의 자손 가운데서는 앗나와 글랄과 브나야와 마아세야와 맛다냐와 브살렐과 빈누이와 므낫세요,",
     Chn:"巴哈·摩押的子孙中，有阿底拿、基拉、比拿雅、玛西雅、玛他尼、比撒列、宾内、玛拿西。",
     Eng:"From the descendants of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui and Manasseh.",
     Ind:"Dari bani Pahat-Moab: Adna dan Kelal, Benaya, Maaseya, Matania, Bezaleel, Binui dan Manasye."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Wanya, Meremot, Elyasib,"
   },
   {Bible:"Ezra", Chapter:10, Verse:37, Page:1,
-    Kor:"맛다니야와 맛드내와 야아수와",
+    Kor:"맛다냐와 맛드내와 야아수와",
     Chn:"玛他尼、玛特乃、雅扫、",
     Eng:"Mattaniah, Mattenai and Jaasu.",
     Ind:"Matanya, Matnai, Yaasai."

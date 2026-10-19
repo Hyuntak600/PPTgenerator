@@ -3,7 +3,7 @@
 BibleDB.ref("Job",12,25);
 BibleDB.add([
   {Bible:"Job", Chapter:12, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Atau bertuturlah kepada bumi, maka engkau akan diberinya pengajaran, bahkan ikan di laut akan bercerita kepadamu."
   },
   {Bible:"Job", Chapter:12, Verse:9, Page:1,
-    Kor:"주님께서 손수 이렇게 하신 것을, 이것들 가운데서 그 무엇이 모르겠느냐?",
+    Kor:"주께서 손수 이렇게 하신 것을, 이것들 가운데서 그 무엇이 모르겠느냐?",
     Chn:"看这一切， 谁不知道是耶和华的手做成的呢？",
     Eng:"Which of all these does not know that the hand of the LORD has done this?",
     Ind:"Siapa di antara semuanya itu yang tidak tahu, bahwa tangan Allah yang melakukan itu;"
   },
   {Bible:"Job", Chapter:12, Verse:10, Page:1,
-    Kor:"모든 생물의 생명이 하나님의 손 안에 있고, 사람의 목숨 또한 모두 그분의 능력 안에 있지 않느냐?",
+    Kor:"모든 생물의 생명이 하나님의 손 안에 있고, 사람의 목숨 또한, 모두 그분의 능력 안에 있지 않느냐?",
     Chn:"凡活物的生命和人类的气息都在他手中。",
     Eng:"In his hand is the life of every creature and the breath of all mankind.",
     Ind:"bahwa di dalam tangan-Nya terletak nyawa segala yang hidup dan nafas setiap manusia?"

@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",7,73);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:7, Verse:1, Page:1,
-    Kor:"<느헤미야가 지도자들을 세우다> 성벽을 다시 쌓고, 문들을 제자리에 단 다음에, 나는 성전 문지기와 노래하는 사람과 레위 사람을 세우고",
+    Kor:"성벽을 다시 쌓고, 문들을 제자리에 단 다음에, 나는 성전 문지기와 노래하는 사람과 레위 사람을 세우고",
     Chn:"城墙修完，我安了门扇，守门的、歌唱的，和利未人都已派定。",
     Eng:"After the wall had been rebuilt and I had set the doors in place, the gatekeepers and the singers and the Levites were appointed.",
     Ind:"Setelah tembok selesai dibangun, aku memasang pintu-pintu. Lalu diangkatlah penunggu-penunggu pintu gerbang, para penyanyi dan orang-orang Lewi."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Pengawasan atas Yerusalem aku serahkan kepada Hanani, saudaraku, dan kepada Hananya, panglima benteng, karena dia seorang yang dapat dipercaya dan yang takut akan Allah lebih dari pada orang-orang lain."
   },
   {Bible:"Nehemiah", Chapter:7, Verse:3, Page:1,
-    Kor:"나는 그들에게 일렀다. \"해가 떠서 환해지기 전에는 예루살렘 성문들을 열지 말고, 해가 아직 높이 있을 때에, 성문들을 닫고 빗장을 지르도록 하시오. 예루살렘 성 사람들로 경비를 세우시오. 일부는 지정된 초소에서, 일부는 자기들의 집 가까이에서 경비를 서게 하십시오.\"",
+    Kor:"나는 그들에게 일렀다. \"해가 떠서 환해지기 전에는 예루살렘 성문들을 열지 말고, 해가 아직 높이 있을 때에, 성문들을 닫고 빗장을 지르도록 하시오. 예루살렘 성 사람들로 경비를 세우시오. 일부는 지정된 초소에서, 일부는 자기들의 집 가까이에서 경비를 서게 하시오.\"",
     Chn:"我吩咐他们说：「等到太阳上升才可开耶路撒冷的城门；人尚看守的时候就要关门上闩；也当派耶路撒冷的居民各按班次看守自己房屋对面之处。」",
     Eng:"I said to them, \"The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.\"",
     Ind:"Berkatalah aku kepada mereka: \"Pintu-pintu gerbang Yerusalem jangan dibuka sampai matahari panas terik. Dan pintu-pintunya harus ditutup dan dipalangi, sementara orang masih bertugas di tempatnya. Tempatkanlah penjaga-penjaga dari antara penduduk Yerusalem, masing-masing pada tempat-tempat penjagaan dan di depan rumahnya.\""
   },
   {Bible:"Nehemiah", Chapter:7, Verse:4, Page:1,
-    Kor:"<포로에서 돌아온 사람들(라 2:1-70)> ○성읍은 크고 넓으나, 인구가 얼마 안 되고, 제대로 지은 집도 얼마 없었다.",
+    Kor:"○성읍은 크고 넓으나, 인구가 얼마 안 되고, 제대로 지은 집도 얼마 없었다.",
     Chn:"城是广大，其中的民却稀少，房屋还没有建造。",
     Eng:"Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.",
     Ind:"Adapun kota itu luas dan besar, tetapi penduduknya sedikit dan rumah-rumah belum dibangun."
@@ -375,7 +375,7 @@ BibleDB.add([
     Ind:"bani Delaya, bani Tobia, bani Nekoda: enam ratus empat puluh dua orang;"
   },
   {Bible:"Nehemiah", Chapter:7, Verse:63, Page:1,
-    Kor:"○제사장 가문 가운데는 호바야 자손과 학고스 자손과 바르실래 자손도 있는데, 이들 가운데서 바르실래는 길르앗 지방 사람인 바르실래 집안으로 장가를 들어서, 장인의 이름을 이어받은 사람이다.",
+    Kor:"○제사장 가문 가운데는, 호바야 자손과 학고스 자손과 바르실래 자손도 있는데, 이들 가운데서 바르실래는, 길르앗 지방 사람인 바르실래 집안으로 장가를 들어서, 장인의 이름을 이어받은 사람이다.",
     Chn:"祭司中，哈巴雅的子孙、哈哥斯的子孙、巴西莱的子孙；因为他们的先祖娶了基列人巴西莱的女儿为妻，所以起名叫巴西莱。",
     Eng:"And from among the priests: the descendants of Hobaiah, Hakkoz and Barzillai (a man who had married a daughter of Barzillai the Gileadite and was called by that name).",
     Ind:"dan dari antara para imam: bani Habaya, bani Hakos, bani Barzilai. Barzilai itu memperisteri seorang anak perempuan Barzilai, orang Gilead itu, dan sejak itu ia dinamai menurut nama keluarga itu."
@@ -405,7 +405,7 @@ BibleDB.add([
     Ind:"selain dari budak mereka laki-laki dan perempuan yang berjumlah tujuh ribu tiga ratus tiga puluh tujuh orang. Pada mereka ada dua ratus empat puluh lima penyanyi laki-laki dan perempuan."
   },
   {Bible:"Nehemiah", Chapter:7, Verse:68, Page:1,
-    Kor:"a또 말이 칠백삼십육 마리요, 노새가 이백사십오 마리요,(a 히브리어 사본 가운데 일부를 따름. 대다수의 히브리어 사본에는 68절이 없음)",
+    Kor:"또 말이 칠백삼십육 마리요, 노새가 이백사십오 마리요,",
     Chn:"他们有马七百三十六匹，骡子二百四十五匹，",
     Eng:"There were 736 horses, 245 mules,",
     Ind:"Mereka mempunyai tujuh ratus tiga puluh enam ekor kuda, dua ratus empat puluh lima ekor bagal,"
@@ -417,7 +417,7 @@ BibleDB.add([
     Ind:"empat ratus tiga puluh lima ekor unta dan enam ribu tujuh ratus dua puluh ekor keledai."
   },
   {Bible:"Nehemiah", Chapter:7, Verse:70, Page:1,
-    Kor:"○가문의 우두머리 가운데는 건축 기금을 내놓는 사람들이 있었다. 총독도 금 천 다릭과 쟁반 오십 개와 제사장 예복 오백삼십 벌을 창고에 들여놓았다.",
+    Kor:"○가문의 우두머리 가운데는, 건축 기금을 내놓는 사람들이 있었다. 총독도 금 천 다릭과 쟁반 오십 개와 제사장 예복 오백삼십 벌을 창고에 들여놓았다.",
     Chn:"有些族长为工程捐助。省长捐入库中的金子一千达利克，碗五十个，祭司的礼服五百三十件。",
     Eng:"Some of the heads of the families contributed to the work. The governor gave to the treasury 1,000 drachmas of gold, 50 bowls and 530 garments for priests.",
     Ind:"Sebagian dari kepala kaum keluarga memberi sumbangan untuk pekerjaan itu, sedang kepala daerah memberi sumbangan untuk perbendaharaan seribu dirham emas, lima puluh buah bokor penyiraman, dan lima ratus tiga puluh helai kemeja imam."
@@ -435,7 +435,7 @@ BibleDB.add([
     Ind:"Dan yang disumbangkan oleh orang-orang lain adalah: dua puluh ribu dirham emas, dua ribu mina perak dan enam puluh tujuh helai kemeja imam."
   },
   {Bible:"Nehemiah", Chapter:7, Verse:73, Page:1,
-    Kor:"○제사장들과 레위 사람들과 성전 문지기들과 노래하는 사람들과 백성 가운데 일부와 성전 막일꾼들과 나머지 이스라엘 사람들은, 저마다 고향에 자리를 잡았다. <백성에게 율법을 읽어 주다> ○이스라엘 자손이 그렇게 여러 마을에 흩어져서 살고 있었다. 일곱째 달이 되었을 때에,",
+    Kor:"○제사장들과 레위 사람들과 성전 문지기들과 노래하는 사람들과 백성 가운데 일부와 성전 막일꾼들과 나머지 이스라엘 사람들은, 저마다 고향에 자리를 잡았다. ○이스라엘 자손이 그렇게 여러 마을에 흩어져서 살고 있었다. 일곱째 달이 되었을 때에,",
     Chn:"于是祭司、利未人、守门的、歌唱的、民中的一些人、尼提宁，并以色列众人，各住在自己的城里。",
     Eng:"The priests, the Levites, the gatekeepers, the singers and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns,",
     Ind:"Adapun para imam dan orang-orang Lewi, para penunggu pintu dan para penyanyi, juga sebagian dari rakyat, para budak di bait Allah dan semua orang Israel yang lain menetap di kota-kota mereka. (8-1) Ketika tiba bulan yang ketujuh, sedang orang Israel telah menetap di kota-kotanya,"

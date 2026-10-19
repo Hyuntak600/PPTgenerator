@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",14,31);
 BibleDB.add([
   {Bible:"Exodus", Chapter:14, Verse:1, Page:1,
-    Kor:"<홍해를 건너다> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"Berfirmanlah TUHAN kepada Musa, demikian:"
   },
   {Bible:"Exodus", Chapter:14, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여, 오던 길로 되돌아가서, 믹돌과 바다 사이의 비하히롯 앞 곧 바알스본 맞은쪽 바닷가에 장막을 치라고 하여라.",
+    Kor:"\"너는 이스라엘 자손에게 말하여, 오던 길로 되돌아가서, 믹돌과 바다 사이의 비하히롯 앞, 곧 바알스본 맞은쪽 바닷가에 장막을 치라고 하여라.",
     Chn:"「你吩咐以色列人转回，安营在比·哈希录前，密夺和海的中间，对着巴力· 洗分，靠近海边安营。",
     Eng:"\"Tell the Israelites to turn back and encamp near Pi Hahiroth, between Migdol and the sea. They are to encamp by the sea, directly opposite Baal Zephon.",
     Ind:"\"Katakanlah kepada orang Israel, supaya mereka balik kembali dan berkemah di depan Pi-Hahirot, antara Migdol dan laut; tepat di depan Baal-Zefon berkemahlah kamu, di tepi laut."
   },
   {Bible:"Exodus", Chapter:14, Verse:3, Page:1,
-    Kor:"그러면 바로는, 이스라엘 자손이 막막한 광야에 갇혀서 아직 이 땅을 헤매고 있을 것이라고 생각할 것이다.",
+    Kor:"그러면 바로는, 이스라엘 자손이 막막한 광야에 갇혀, 아직 이 땅을 헤매고 있을 것이라고 생각할 것이다.",
     Chn:"法老必说：『以色列人在地中绕迷了，旷野把他们困住了。』",
     Eng:"Pharaoh will think, 'The Israelites are wandering around the land in confusion, hemmed in by the desert.'",
     Ind:"Maka Firaun akan berkata tentang orang Israel: Mereka telah sesat di negeri ini, padang gurun telah mengurung mereka."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Aku akan mengeraskan hati Firaun, sehingga ia mengejar mereka. Dan terhadap Firaun dan seluruh pasukannya Aku akan menyatakan kemuliaan-Ku, sehingga orang Mesir mengetahui, bahwa Akulah TUHAN.\" Lalu mereka berbuat demikian."
   },
   {Bible:"Exodus", Chapter:14, Verse:5, Page:1,
-    Kor:"○이스라엘 백성이 도망쳤다는 소식이 이집트의 왕의 귀에 들어갔다. 그러자 바로와 그의 신하들은 이 백성에 대한 생각을 바꾸었다. \"우리에게 종살이하던 이스라엘 백성을 이렇게 풀어 주어 놓아 보내다니, 어쩌자고 이렇게 하였는가?\" 하고 후회하였다.",
+    Kor:"○이스라엘 백성이 도망 쳤다는 소식이 이집트의 왕의 귀에 들어갔다. 그러자 바로와 그의 신하들은 이 백성에 대한 생각을 바꾸었다. \"우리에게 종살이하던 이스라엘 백성을 이렇게 풀어 주어 놓아 보내다니, 어쩌자고 이렇게 하였는가?\" 하고 후회하였다.",
     Chn:"有人告诉埃及王说：「百姓逃跑。」法老和他的臣仆就向百姓变心，说：「我们容以色列人去，不再服事我们，这做的是什么事呢？」",
     Eng:"When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, \"What have we done? We have let the Israelites go and have lost their services!\"",
     Ind:"Ketika diberitahukan kepada raja Mesir, bahwa bangsa itu telah lari, maka berubahlah hati Firaun dan pegawai-pegawainya terhadap bangsa itu, dan berkatalah mereka: \"Apakah yang telah kita perbuat ini, bahwa kita membiarkan orang Israel pergi dari perbudakan kita?\""
@@ -45,49 +45,49 @@ BibleDB.add([
     Ind:"Ia membawa enam ratus kereta yang terpilih, ya, segala kereta Mesir, masing-masing lengkap dengan perwiranya."
   },
   {Bible:"Exodus", Chapter:14, Verse:8, Page:1,
-    Kor:"주님께서 이집트의 왕 바로의 마음을 고집스럽게 하시니, 바로가, 주님의 보호를 받으면서 a당당하게 나가고 있는 이스라엘 자손을 뒤쫓았다.(a 히, '높은 손으로')",
+    Kor:"주께서 이집트의 왕 바로의 마음을 고집스럽게 하시니, 바로가, 주의 보호를 받으면서 당당하게 나가고 있는 이스라엘 자손을 뒤쫓았다.",
     Chn:"耶和华使埃及王法老的心刚硬，他就追赶以色列人，因为以色列人是昂然无惧地出埃及。",
     Eng:"The LORD hardened the heart of Pharaoh king of Egypt, so that he pursued the Israelites, who were marching out boldly.",
     Ind:"Demikianlah TUHAN mengeraskan hati Firaun, raja Mesir itu, sehingga ia mengejar orang Israel. Tetapi orang Israel berjalan terus dipimpin oleh tangan yang dinaikkan."
   },
   {Bible:"Exodus", Chapter:14, Verse:9, Page:1,
-    Kor:"마침내 바로의 모든 병거와 기마와 그의 기병과 보병으로 구성된 이집트 군대가 이스라엘 백성을 추격하여, 그들이 진을 치고 있는 비하히롯 근처 바알스본 맞은쪽 바닷가에 이르렀다.",
+    Kor:"마침내, 바로의 모든 병거와 기마와 그의 기병과 보병으로 구성된 이집트 군대가 이스라엘 백성을 추격하여, 그들이 진을 치고 있는 비하히롯 근처 바알스본 맞은쪽 바닷가에 이르렀다.",
     Chn:"埃及人追赶他们，法老一切的马匹、车辆、马兵，与军兵就在海边上，靠近比·哈希录，对着巴力·洗分，在他们安营的地方追上了。",
     Eng:"The Egyptians--all Pharaoh's horses and chariots, horsemen and troops--pursued the Israelites and overtook them as they camped by the sea near Pi Hahiroth, opposite Baal Zephon.",
     Ind:"Adapun orang Mesir, segala kuda dan kereta Firaun, orang-orang berkuda dan pasukannya, mengejar mereka dan mencapai mereka pada waktu mereka berkemah di tepi laut, dekat Pi-Hahirot di depan Baal-Zefon."
   },
   {Bible:"Exodus", Chapter:14, Verse:10, Page:1,
-    Kor:"○바로가 다가오고 있었다. 이스라엘 자손이 고개를 들고 보니, 이집트 사람들이 그들을 추격하여 오고 있었다. 이스라엘 자손은 크게 두려워하며, 주님께 부르짖었다.",
+    Kor:"○바로가 다가오고 있었다. 이스라엘 자손이 고개를 들고 보니, 이집트 사람들이 그들을 추격하여 오고 있었다. 이스라엘 자손은 크게 두려워하며, 주께 부르짖었다.",
     Chn:"法老临近的时候，以色列人举目看见埃及人赶来，就甚惧怕，向耶和华哀求。",
     Eng:"As Pharaoh approached, the Israelites looked up, and there were the Egyptians, marching after them. They were terrified and cried out to the LORD.",
     Ind:"Ketika Firaun telah dekat, orang Israel menoleh, maka tampaklah orang Mesir bergerak menyusul mereka. Lalu sangat ketakutanlah orang Israel dan mereka berseru-seru kepada TUHAN,"
   },
   {Bible:"Exodus", Chapter:14, Verse:11, Page:1,
-    Kor:"그들은 모세를 원망하며 말하였다. \"이집트에는 묘 자리가 없어서, 우리를 이 광야에다 끌어내어 죽이려는 것입니까? 우리를 이집트에서 끌어내어, 여기서 이런 일을 당하게 하다니, 왜 우리를 이렇게 만드십니까?",
+    Kor:"그들은 모세를 원망하며 말하였다. \"이집트에는 묘 자리가 없어서, 우리를 이 광야에다 끌어내어 죽이려는 것이냐? 우리를 이집트에서 끌어내어, 여기서 이런 일을 당하게 하다니, 왜 우리를 이렇게 만드느냐?",
     Chn:"他们对摩西说：「难道在埃及没有坟地，你把我们带来死在旷野吗？你为什么这样待我们，将我们从埃及领出来呢？",
     Eng:"They said to Moses, \"Was it because there were no graves in Egypt that you brought us to the desert to die? What have you done to us by bringing us out of Egypt?",
     Ind:"dan mereka berkata kepada Musa: \"Apakah karena tidak ada kuburan di Mesir, maka engkau membawa kami untuk mati di padang gurun ini? Apakah yang kauperbuat ini terhadap kami dengan membawa kami keluar dari Mesir?"
   },
   {Bible:"Exodus", Chapter:14, Verse:12, Page:1,
-    Kor:"이집트에 있을 때에, 우리가 이미 당신에게 말하지 않았습니까? 광야에 나가서 죽는 것보다 이집트 사람을 섬기는 것이 더 나으니, 우리가 이집트 사람을 섬기게 그대로 내버려 두라고 하지 않았습니까?\"",
+    Kor:"이집트에 있을 때에, 우리가 이미 당신에게 말하지 않더냐? 광야에 나가서 죽는 것보다 이집트 사람을 섬기는 것이 더 나으니, 우리가 이집트 사람을 섬기게 그대로 내버려 두라고 하지 않았느냐?\"",
     Chn:"我们在埃及岂没有对你说过，不要搅扰我们，容我们服事埃及人吗？因为服事埃及人比死在旷野还好。」",
     Eng:"Didn't we say to you in Egypt, 'Leave us alone; let us serve the Egyptians'? It would have been better for us to serve the Egyptians than to die in the desert!\"",
     Ind:"Bukankah ini telah kami katakan kepadamu di Mesir: Janganlah mengganggu kami dan biarlah kami bekerja pada orang Mesir. Sebab lebih baik bagi kami untuk bekerja pada orang Mesir dari pada mati di padang gurun ini.\""
   },
   {Bible:"Exodus", Chapter:14, Verse:13, Page:1,
-    Kor:"모세가 백성에게 대답하였다. \"두려워하지 마십시오. 당신들은 가만히 서서, 주님께서 오늘 당신들을 어떻게 구원하시는지 지켜 보기만 하십시오. 당신들이 오늘 보는 이 이집트 사람을 다시는 볼 수 없을 것입니다.",
+    Kor:"모세가 백성에게 대답하였다. \"두려워하지 말아라. 너희는 가만히 서서, 주께서 오늘 너희를 어떻게 구원하시는지 지켜 보기만 하여라. 너희가 오늘 보는 이 이집트 사람을 다시는 볼 수 없을 것이다.",
     Chn:"摩西对百姓说：「不要惧怕，只管站住！看耶和华今天向你们所要施行的救恩。因为，你们今天所看见的埃及人必永远不再看见了。",
     Eng:"Moses answered the people, \"Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again.",
     Ind:"Tetapi berkatalah Musa kepada bangsa itu: \"Janganlah takut, berdirilah tetap dan lihatlah keselamatan dari TUHAN, yang akan diberikan-Nya hari ini kepadamu; sebab orang Mesir yang kamu lihat hari ini, tidak akan kamu lihat lagi untuk selama-lamanya."
   },
   {Bible:"Exodus", Chapter:14, Verse:14, Page:1,
-    Kor:"주님께서 당신들을 구하여 주시려고 싸우실 것이니, 당신들은 진정하십시오.\"",
+    Kor:"주께서 너희를 구하여 주시려고 싸우실 것이니, 너희는 진정하여라.\"",
     Chn:"耶和华必为你们争战；你们只管静默，不要作声。」",
     Eng:"The LORD will fight for you; you need only to be still.\"",
     Ind:"TUHAN akan berperang untuk kamu, dan kamu akan diam saja.\""
   },
   {Bible:"Exodus", Chapter:14, Verse:15, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너는 왜 부르짖느냐? 너는 이스라엘 자손에게 명하여, 앞으로 나아가게 하여라.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 왜 부르짖느냐? 너는 이스라엘 자손에게 명하여, 앞으로 나아가게 하여라.",
     Chn:"耶和华对摩西说：「你为什么向我哀求呢？你吩咐以色列人往前走。",
     Eng:"Then the LORD said to Moses, \"Why are you crying out to me? Tell the Israelites to move on.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Mengapakah engkau berseru-seru demikian kepada-Ku? Katakanlah kepada orang Israel, supaya mereka berangkat."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Tetapi sungguh Aku akan mengeraskan hati orang Mesir, sehingga mereka menyusul orang Israel, dan terhadap Firaun dan seluruh pasukannya, keretanya dan orangnya yang berkuda, Aku akan menyatakan kemuliaan-Ku."
   },
   {Bible:"Exodus", Chapter:14, Verse:18, Page:1,
-    Kor:"내가 바로와 그의 병거와 기병들을 물리치고서 나의 영광을 드러낼 때에, 이집트 사람은 비로소 내가 주님임을 알게 될 것이다.\"",
+    Kor:"내가 바로와 그의 병거와 기병들을 물리치고서, 나의 영광을 드러낼 때에, 이집트 사람은 비로소 내가 주님임을 알게 될 것이다.\"",
     Chn:"我在法老和他的车辆、马兵上得荣耀的时候，埃及人就知道我是耶和华了。」",
     Eng:"The Egyptians will know that I am the LORD when I gain glory through Pharaoh, his chariots and his horsemen.\"",
     Ind:"Maka orang Mesir akan mengetahui, bahwa Akulah TUHAN, apabila Aku memperlihatkan kemuliaan-Ku terhadap Firaun, keretanya dan orangnya yang berkuda.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Demikianlah tiang itu berdiri di antara tentara orang Mesir dan tentara orang Israel; dan oleh karena awan itu menimbulkan kegelapan, maka malam itu lewat, sehingga yang satu tidak dapat mendekati yang lain, semalam-malaman itu."
   },
   {Bible:"Exodus", Chapter:14, Verse:21, Page:1,
-    Kor:"○모세가 바다 위로 팔을 내밀었다. 주님께서 밤새도록 강한 동풍으로 바닷물을 뒤로 밀어 내시니, 바다가 말라서 바닥이 드러났다. 바닷물이 갈라지고,",
+    Kor:"○모세가 바다 위로 팔을 내밀었다. 주께서 밤새도록 강한 동풍으로 바닷물을 뒤로 밀어 내시니, 바다가 말라서 바닥이 드러났다. 바닷물이 갈라지고,",
     Chn:"摩西向海伸杖，耶和华便用大东风，使海水一夜退去，水便分开，海就成了干地。",
     Eng:"Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided,",
     Ind:"Lalu Musa mengulurkan tangannya ke atas laut, dan semalam-malaman itu TUHAN menguakkan air laut dengan perantaraan angin timur yang keras, membuat laut itu menjadi tanah kering; maka terbelahlah air itu."
@@ -141,49 +141,49 @@ BibleDB.add([
     Ind:"Orang Mesir mengejar dan menyusul mereka--segala kuda Firaun, keretanya dan orangnya yang berkuda--sampai ke tengah-tengah laut."
   },
   {Bible:"Exodus", Chapter:14, Verse:24, Page:1,
-    Kor:"새벽녘이 되어, 주님께서 불기둥과 구름기둥에서 이집트 진을 내려다 보시고, 이집트 진을 혼란 속에 빠뜨리셨다.",
+    Kor:"새벽녘이 되어, 주께서 불기둥과 구름기둥에서 이집트 진을 내려다 보시고, 이집트 진을 혼란 속에 빠뜨리셨다.",
     Chn:"到了晨更的时候，耶和华从云火柱中向埃及的军兵观看，使埃及的军兵混乱了；",
     Eng:"During the last watch of the night the LORD looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion.",
     Ind:"Dan pada waktu jaga pagi, TUHAN yang di dalam tiang api dan awan itu memandang kepada tentara orang Mesir, lalu dikacaukan-Nya tentara orang Mesir itu."
   },
   {Bible:"Exodus", Chapter:14, Verse:25, Page:1,
-    Kor:"주님께서 b병거의 바퀴를 벗기셔서 전진하기 어렵게 만드시니, 이집트 사람들은 '이스라엘 사람들을 쫓지 말고 되돌아가자. 그들의 주가 그들 편이 되어 우리 이집트 사람과 싸운다!' 하고 외쳤다.(b 사마리아 오경과 칠십인역과 시리아어역에는 '병거의 바퀴를 움직이지 못하게 하셔서')",
+    Kor:"주께서 병거의 바퀴를 벗기셔서 전진하기 어렵게 만드시니, 이집트 사람들은 '이스라엘 사람들을 쫓지 말고 되돌아가자. 그들의 주가 그들 편이 되어 우리 이집트 사람과 싸운다!' 하고 외쳤다.",
     Chn:"又使他们的车轮脱落，难以行走，以致埃及人说：「我们从以色列人面前逃跑吧！因耶和华为他们攻击我们了。」",
     Eng:"He made the wheels of their chariots come off so that they had difficulty driving. And the Egyptians said, \"Let's get away from the Israelites! The LORD is fighting for them against Egypt.\"",
     Ind:"Ia membuat roda keretanya berjalan miring dan maju dengan berat, sehingga orang Mesir berkata: \"Marilah kita lari meninggalkan orang Israel, sebab Tuhanlah yang berperang untuk mereka melawan Mesir.\""
   },
   {Bible:"Exodus", Chapter:14, Verse:26, Page:1,
-    Kor:"○주님께서 모세에게 이르셨다. \"너는 바다 위로 너의 팔을 내밀어라. 그러면 바닷물이 이집트 사람과 그 병거와 기병 쪽으로 다시 흐를 것이다.\"",
+    Kor:"○주께서 모세에게 이르셨다. \"너는 바다 위로 너의 팔을 내밀어라. 그러면 바닷물이 이집트 사람과 그 병거와 기병 쪽으로 다시 흐를 것이다.\"",
     Chn:"耶和华对摩西说：「你向海伸杖，叫水仍合在埃及人并他们的车辆、马兵身上。」",
     Eng:"Then the LORD said to Moses, \"Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Ulurkanlah tanganmu ke atas laut, supaya air berbalik meliputi orang Mesir, meliputi kereta mereka dan orang mereka yang berkuda.\""
   },
   {Bible:"Exodus", Chapter:14, Verse:27, Page:1,
-    Kor:"모세가 바다 위로 팔을 내미니, 새벽녘에 바닷물이 본래의 상태로 되돌아왔다. 이집트 사람들이 되돌아오는 물결에서 벗어나려고 하였으나, 주님께서 이집트 사람들을 바다 한가운데 빠뜨리셨다.",
+    Kor:"모세가 바다 위로 팔을 내미니, 새벽녘에 바닷물이 본래의 상태로 되돌아왔다. 이집트 사람들이 되돌아오는 물결에서 벗어나려고 하였으나, 주께서 이집트 사람들을 바다 한가운데 빠뜨리셨다.",
     Chn:"摩西就向海伸杖，到了天一亮，海水仍旧复原。埃及人避水逃跑的时候，耶和华把他们推翻在海中，",
     Eng:"Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward it, and the LORD swept them into the sea.",
     Ind:"Musa mengulurkan tangannya ke atas laut, maka menjelang pagi berbaliklah air laut ke tempatnya, sedang orang Mesir lari menuju air itu; demikianlah TUHAN mencampakkan orang Mesir ke tengah-tengah laut."
   },
   {Bible:"Exodus", Chapter:14, Verse:28, Page:1,
-    Kor:"이렇게 물이 다시 돌아와서 병거와 기병을 뒤덮어 버렸다. 그래서 이스라엘 백성의 뒤를 따라 바다로 들어간 바로의 모든 군대는 하나도 살아 남지 못하였다.",
+    Kor:"이렇게 물이 다시 돌아와서 병거와 기병을 뒤덮어 버렸다. 그래서 이스라엘 백성의 뒤를 따라 바다로 들어간 바로의 모든 군대는, 하나도 살아 남지 못하였다.",
     Chn:"水就回流，淹没了车辆和马兵。那些跟着以色列人下海法老的全军，连一个也没有剩下。",
     Eng:"The water flowed back and covered the chariots and horsemen--the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived.",
     Ind:"Berbaliklah segala air itu, lalu menutupi kereta dan orang berkuda dari seluruh pasukan Firaun, yang telah menyusul orang Israel itu ke laut; seorangpun tidak ada yang tinggal dari mereka."
   },
   {Bible:"Exodus", Chapter:14, Verse:29, Page:1,
-    Kor:"이스라엘 자손은 바다 한가운데로 마른 땅을 밟으며 지나갔는데, 바닷물이 좌우에서 그들을 가리는 벽이 되어 주었던 것이다.",
+    Kor:"이스라엘 자손은 바다 한가운데로 마른 땅을 밟으며 지나갔는데 바닷물이 좌우에서 그들을 가리는 벽이 되어 주었던 것이다.",
     Chn:"以色列人却在海中走干地；水在他们的左右作了墙垣。",
     Eng:"But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left.",
     Ind:"Tetapi orang Israel berjalan di tempat kering dari tengah-tengah laut, sedang di kiri dan di kanan mereka air itu sebagai tembok bagi mereka."
   },
   {Bible:"Exodus", Chapter:14, Verse:30, Page:1,
-    Kor:"○바로 그 날, 주님께서 이스라엘을 이집트 사람들의 손아귀에서 구원하셨고, 이스라엘은 바닷가에 널려 있는 이집트 사람들의 주검을 보게 되었다.",
+    Kor:"○바로 그 날, 주께서 이스라엘을 이집트 사람들의 손아귀에서 구원하셨고, 이스라엘은 바닷가에 널려 있는 이집트 사람들의 주검을 보게 되었다.",
     Chn:"当日，耶和华这样拯救以色列人脱离埃及人的手，以色列人看见埃及人的死尸都在海边了。",
     Eng:"That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.",
     Ind:"Demikianlah pada hari itu TUHAN menyelamatkan orang Israel dari tangan orang Mesir. Dan orang Israel melihat orang Mesir mati terhantar di pantai laut."
   },
   {Bible:"Exodus", Chapter:14, Verse:31, Page:1,
-    Kor:"이스라엘은 이집트를 치신 주님의 크신 권능을 보고 주님을 두려워하고, 주님과 주님의 종 모세를 믿었다.",
+    Kor:"이스라엘은 이집트를 치신 주의 크신 권능을 보고 주를 두려워하고, 주와 주의 종 모세를 믿었다.",
     Chn:"以色列人看见耶和华向埃及人所行的大事，就敬畏耶和华，又信服他和他的仆人摩西。",
     Eng:"And when the Israelites saw the great power the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant.",
     Ind:"Ketika dilihat oleh orang Israel, betapa besarnya perbuatan yang dilakukan TUHAN terhadap orang Mesir, maka takutlah bangsa itu kepada TUHAN dan mereka percaya kepada TUHAN dan kepada Musa, hamba-Nya itu."

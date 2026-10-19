@@ -3,19 +3,19 @@
 BibleDB.ref("Acts",22,30);
 BibleDB.add([
   {Bible:"Acts", Chapter:22, Verse:1, Page:1,
-    Kor:"\"동포 여러분, 내가 이제 여러분에게 드리는 해명을 잘 들어 주시기 바랍니다.\"",
+    Kor:"\"부형 여러분, 내가 이제 여러분에게 드리는 해명을 잘 들어 주시기 바랍니다.\"",
     Chn:"「诸位父兄请听，我现在对你们分诉。」",
     Eng:"\"Brothers and fathers, listen now to my defense.\"",
     Ind:"\"Hai saudara-saudara dan bapa-bapa, dengarkanlah, apa yang hendak kukatakan kepadamu sebagai pembelaan diri.\""
   },
   {Bible:"Acts", Chapter:22, Verse:2, Page:1,
-    Kor:"군중들은 바울이 a히브리 말로 연설하는 것을 듣고, 더욱더 조용해졌다. 바울은 말을 이었다.(a 아람어를 가리킴)",
+    Kor:"군중은, 바울이 히브리 말로 연설하는 것을 듣고서, 더욱더 조용해졌다. 바울은 말을 이었다.",
     Chn:"众人听他说的是希伯来话，就更加安静了。",
     Eng:"When they heard him speak to them in Aramaic, they became very quiet. Then Paul said:",
     Ind:"Ketika orang banyak itu mendengar ia berbicara dalam bahasa Ibrani, makin tenanglah mereka. Ia berkata:"
   },
   {Bible:"Acts", Chapter:22, Verse:3, Page:1,
-    Kor:"\"나는 유대 사람입니다. 나는 길리기아의 다소에서 태어나서, 이 도시 예루살렘에서 자랐고, 가말리엘 선생의 문하에서 우리 조상의 율법의 엄격한 방식을 따라 교육을 받았습니다. 그래서 나는 오늘날 여러분 모두가 그러하신 것과 같이, 하나님께 열성적인 사람이었습니다.",
+    Kor:"○\"나는 유대 사람입니다. 나는 길리기아의 다소에서 태어나서, 이 도시 예루살렘에서 자랐고, 가말리엘 선생의 문하에서 우리 조상의 율법의 엄격한 방식을 따라 교육을 받았습니다. 그래서 나는 오늘날 여러분 모두가 그러하신 것과 같이, 하나님께 열성적인 사람이었습니다.",
     Chn:"保罗说：「我原是犹太人，生在基利家的大数，长在这城里，在迦玛列门下，按着我们祖宗严紧的律法受教，热心事奉　神，像你们众人今日一样。",
     Eng:"\"I am a Jew, born in Tarsus of Cilicia, but brought up in this city. Under Gamaliel I was thoroughly trained in the law of our fathers and was just as zealous for God as any of you are today.",
     Ind:"\"Aku adalah orang Yahudi, lahir di Tarsus di tanah Kilikia, tetapi dibesarkan di kota ini; dididik dengan teliti di bawah pimpinan Gamaliel dalam hukum nenek moyang kita, sehingga aku menjadi seorang yang giat bekerja bagi Allah sama seperti kamu semua pada waktu ini."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Tentang hal itu baik Imam Besar maupun Majelis Tua-Tua dapat memberi kesaksian. Dari mereka aku telah membawa surat-surat untuk saudara-saudara di Damsyik dan aku telah pergi ke sana untuk menangkap penganut-penganut Jalan Tuhan, yang terdapat juga di situ dan membawa mereka ke Yerusalem untuk dihukum."
   },
   {Bible:"Acts", Chapter:22, Verse:6, Page:1,
-    Kor:"<바울이 자기의 회개를 이야기하다(행 9:1-19; 26:12-18)> ○\"가다가, 정오 때쯤에 다마스쿠스 가까이에 이르렀는데, 갑자기 하늘로부터 큰 빛이 나를 둘러 비추었습니다.",
+    Kor:"○\"가다가, 정오 때쯤에 다마스쿠스 가까이에 이르렀는데, 갑자기 하늘로부터 큰 빛이 나를 둘러 비추었습니다.",
     Chn:"「我将到大马士革，正走的时候，约在晌午，忽然从天上发大光，四面照着我。",
     Eng:"\"About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.",
     Ind:"Tetapi dalam perjalananku ke sana, ketika aku sudah dekat Damsyik, yaitu waktu tengah hari, tiba-tiba memancarlah cahaya yang menyilaukan dari langit mengelilingi aku."
   },
   {Bible:"Acts", Chapter:22, Verse:7, Page:1,
-    Kor:"나는 땅바닥에 엎어졌는데 '사울아, 사울아, 네가 어찌하여 나를 핍박하느냐?' 하는 소리가 들려왔습니다.",
+    Kor:"나는 땅바닥에 엎어졌는데 '사울아, 사울아, 네가 어찌하여 나를 핍박하느냐?' 하는 소리가 들려 왔습니다.",
     Chn:"我就仆倒在地，听见有声音对我说：『扫罗！扫罗！你为什么逼迫我？』",
     Eng:"I fell to the ground and heard a voice say to me, 'Saul! Saul! Why do you persecute me?'",
     Ind:"Maka rebahlah aku ke tanah dan aku mendengar suatu suara yang berkata kepadaku: Saulus, Saulus, mengapakah engkau menganiaya Aku?"
   },
   {Bible:"Acts", Chapter:22, Verse:8, Page:1,
-    Kor:"그래서 내가 '주님, 누구십니까?' 하고 물었더니, 그는 나에게 대답하시기를 '나는 네가 핍박하는 b나사렛 예수이다' 하셨습니다.(b 그, '나사렛 사람')",
+    Kor:"그래서 내가 '주님, 누구십니까?' 하고 물었더니 '나는 네가 핍박하는 나사렛 예수다' 하는 대답이 들렸습니다.",
     Chn:"我回答说：『主啊，你是谁？』他说：『我就是你所逼迫的拿撒勒人耶稣。』",
     Eng:"\"'Who are you, Lord?' I asked. \"'I am Jesus of Nazareth, whom you are persecuting,' he replied.",
     Ind:"Jawabku: Siapakah Engkau, Tuhan? Kata-Nya: Akulah Yesus, orang Nazaret, yang kauaniaya itu."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Dan mereka yang menyertai aku, memang melihat cahaya itu, tetapi suara Dia, yang berkata kepadaku, tidak mereka dengar."
   },
   {Bible:"Acts", Chapter:22, Verse:10, Page:1,
-    Kor:"그 때에 내가 '주님, 어떻게 하라 하십니까?' 하고 말하였더니, 주님께서 내게 말씀하셨습니다. '일어나서, 다마스쿠스로 가거라. 거기에는 네가 해야 할 모든 일을 누가 말해 줄 것이다.'",
+    Kor:"그 때에 내가 '주님, 어떻게 하라 하십니까?' 하고 말하였더니, 주께서 내게 말씀하셨습니다. '일어나서, 다마스쿠스로 가거라. 그러면 네가 해야 할 모든 일을 말해 줄 사람이 거기에 있다.'",
     Chn:"我说：『主啊，我当做什么？』主说：『起来，进大马士革去，在那里，要将所派你做的一切事告诉你。』",
     Eng:"\"'What shall I do, Lord?' I asked. \"'Get up,' the Lord said, 'and go into Damascus. There you will be told all that you have been assigned to do.'",
     Ind:"Maka kataku: Tuhan, apakah yang harus kuperbuat? Kata Tuhan kepadaku: Bangkitlah dan pergilah ke Damsyik. Di sana akan diberitahukan kepadamu segala sesuatu yang ditugaskan kepadamu."
   },
   {Bible:"Acts", Chapter:22, Verse:11, Page:1,
-    Kor:"나는 그 빛의 광채 때문에 눈이 멀어서, 함께 가던 사람들의 손에 이끌려 다마스쿠스로 갔습니다.",
+    Kor:"나는 그 빛의 광채 때문에 눈이 멀어서, 같이 가는 사람들의 손에 이끌려 다마스쿠스로 갔습니다.",
     Chn:"我因那光的荣耀不能看见，同行的人就拉着我手进了大马士革。",
     Eng:"My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.",
     Ind:"Dan karena aku tidak dapat melihat oleh karena cahaya yang menyilaukan mata itu, maka kawan-kawan seperjalananku memegang tanganku dan menuntun aku ke Damsyik."
@@ -75,61 +75,61 @@ BibleDB.add([
     Ind:"Di situ ada seorang bernama Ananias, seorang saleh yang menurut hukum Taurat dan terkenal baik di antara semua orang Yahudi yang ada di situ."
   },
   {Bible:"Acts", Chapter:22, Verse:13, Page:1,
-    Kor:"그가 나를 찾아와 곁에 서서, '형제 사울이여, 눈을 뜨시오' 하고 나에게 말하였습니다. 그 순간에 나는 시력을 회복하여, 그를 쳐다보았습니다.",
+    Kor:"그가 나를 찾아와, 곁에 서서 '사울 형제, 눈을 뜨시오' 하고 나에게 말하였습니다. 그 순간에 나는 시력을 회복하여, 그를 쳐다보았습니다.",
     Chn:"他来见我，站在旁边，对我说：『兄弟扫罗，你可以看见。』我当时往上一看，就看见了他。",
     Eng:"He stood beside me and said, 'Brother Saul, receive your sight!' And at that very moment I was able to see him.",
     Ind:"Ia datang berdiri di dekatku dan berkata: Saulus, saudaraku, bukalah matamu dan melihatlah! Dan seketika itu juga aku melihat kembali dan menatap dia."
   },
   {Bible:"Acts", Chapter:22, Verse:14, Page:1,
-    Kor:"그때에 아나니아가 내게 말하였습니다. '우리 조상의 하나님께서 당신을 택하셔서, 자기의 뜻을 알게 하시고, 그 의로우신 분을 보게 하시고, 그분의 입에서 나오는 음성을 듣게 하셨습니다.",
+    Kor:"그 때에 아나니아가 내게 말하였습니다. '우리 조상의 하나님께서 당신을 택정하셔서, 그분의 뜻을 알게 하시고, 그 의로우신 분을 보게 하시고, 그분의 입에서 나오는 음성을 듣게 하셨습니다.",
     Chn:"他又说：『我们祖宗的　神拣选了你，叫你明白他的旨意，又得见那义者，听他口中所出的声音。",
     Eng:"\"Then he said: 'The God of our fathers has chosen you to know his will and to see the Righteous One and to hear words from his mouth.",
     Ind:"Lalu katanya: Allah nenek moyang kita telah menetapkan engkau untuk mengetahui kehendak-Nya, untuk melihat Yang Benar dan untuk mendengar suara yang keluar dari mulut-Nya."
   },
   {Bible:"Acts", Chapter:22, Verse:15, Page:1,
-    Kor:"당신은 그분을 위하여 모든 사람에게 당신이 보고 들은 것을 증언하는 증인이 될 것입니다.",
+    Kor:"당신은 모든 사람 앞에서, 그분을 위하여, 당신이 보고 들은 것을 증언하는 증인이 될 것입니다.",
     Chn:"因为你要将所看见的，所听见的，对着万人为他作见证。",
     Eng:"You will be his witness to all men of what you have seen and heard.",
     Ind:"Sebab engkau harus menjadi saksi-Nya terhadap semua orang tentang apa yang kaulihat dan yang kaudengar."
   },
   {Bible:"Acts", Chapter:22, Verse:16, Page:1,
-    Kor:"그러니 이제 망설일 까닭이 어디 있습니까? 일어나, 주님의 이름을 불러서, c세례를 받고, 당신의 죄 씻음을 받으시오.'\"(c 또는 '침례')",
+    Kor:"그러니 이제 망설일 까닭이 어디 있습니까? 일어나, 그분의 이름을 불러서, 세례를 받고, 당신의 죄를 씻어 주심을 받으시오.'\"",
     Chn:"现在你为什么耽延呢？起来，求告他的名受洗，洗去你的罪。』」",
     Eng:"And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.'",
     Ind:"Dan sekarang, mengapa engkau masih ragu-ragu? Bangunlah, berilah dirimu dibaptis dan dosa-dosamu disucikan sambil berseru kepada nama Tuhan!"
   },
   {Bible:"Acts", Chapter:22, Verse:17, Page:1,
-    Kor:"<바울이 이방 사람의 사도가 된 경위> ○\"그 뒤에 내가 예루살렘으로 돌아와서, 성전에서 기도하는 가운데 황홀경에 빠져",
+    Kor:"○\"그 뒤에 나는 예루살렘으로 돌아와서, 성전에서 기도하는 가운데 무아지경에 빠져",
     Chn:"「后来，我回到耶路撒冷，在殿里祷告的时候，魂游象外，",
     Eng:"\"When I returned to Jerusalem and was praying at the temple, I fell into a trance",
     Ind:"Sesudah aku kembali di Yerusalem dan ketika aku sedang berdoa di dalam Bait Allah, rohku diliputi oleh kuasa ilahi."
   },
   {Bible:"Acts", Chapter:22, Verse:18, Page:1,
-    Kor:"주님이 내게 말씀하시는 것을 보았습니다. 그는 말씀하시기를 '서둘러서 예루살렘을 떠나라. 예루살렘 사람들이 나에 관한 네 증언을 받아들이지 않을 것이기 때문이다' 하셨습니다.",
+    Kor:"주님을 보았습니다. 그는 내게 '서둘러서 예루살렘을 떠나라. 예루살렘 사람들이 나를 두고 한 네 증언을 받아들이지 않을 것이기 때문이다' 하고 말씀하셨습니다.",
     Chn:"看见主向我说：『你赶紧地离开耶路撒冷，不可迟延；因你为我作的见证，这里的人必不领受。』",
     Eng:"and saw the Lord speaking. 'Quick!' he said to me. 'Leave Jerusalem immediately, because they will not accept your testimony about me.'",
     Ind:"Aku melihat Dia, yang berkata kepadaku: Lekaslah, segeralah tinggalkan Yerusalem, sebab mereka tidak akan menerima kesaksianmu tentang Aku."
   },
   {Bible:"Acts", Chapter:22, Verse:19, Page:1,
-    Kor:"그래서 내가 말하였습니다. '주님, 내가 주님을 믿는 사람들을 가는 곳마다 회당에서 잡아 가두고 때리고 하던 사실을 사람들이 잘 알고 있습니다.",
+    Kor:"그래서 내가 말하였습니다. '주님, 제가 주님을 믿는 사람들을 가는 곳마다 회당에서 잡아 가두고 때리고 하던 사실을 사람들이 잘 알고 있습니다.",
     Chn:"我就说：『主啊，他们知道我从前把信你的人收在监里，又在各会堂里鞭打他们。",
     Eng:"\"'Lord,' I replied, 'these men know that I went from one synagogue to another to imprison and beat those who believe in you.",
     Ind:"Jawabku: Tuhan, mereka tahu, bahwa akulah yang pergi dari rumah ibadat yang satu ke rumah ibadat yang lain dan yang memasukkan mereka yang percaya kepada-Mu ke dalam penjara dan menyesah mereka."
   },
   {Bible:"Acts", Chapter:22, Verse:20, Page:1,
-    Kor:"그리고 주님의 증언자인 스데반이 피를 흘리고 죽임을 당할 때에, 나도 곁에 서서, 그 일에 찬동하면서, 그를 죽이는 사람들의 옷을 지키고 있었습니다.'",
+    Kor:"그리고 주의 증언자인 스데반이 피를 흘리고 죽임을 당할 때에, 저도 곁에 서서, 그 일에 찬동하면서, 그를 죽이는 사람들의 옷을 지키고 있었습니다.'",
     Chn:"并且你的见证人司提反被害流血的时候，我也站在旁边欢喜；又看守害死他之人的衣裳。』",
     Eng:"And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.'",
     Ind:"Dan ketika darah Stefanus, saksi-Mu itu, ditumpahkan, aku ada di situ dan menyetujui perbuatan itu dan aku menjaga pakaian mereka yang membunuhnya."
   },
   {Bible:"Acts", Chapter:22, Verse:21, Page:1,
-    Kor:"그 때에 주님께서 말씀하시기를 '가라. 내가 너를 멀리 이방 사람들에게로 보내겠다' 하셨습니다.\"",
+    Kor:"그 때에 주께서 말씀하시기를 '가거라. 내가 너를 멀리 이방 사람들에게로 보내겠다' 하셨습니다.\"",
     Chn:"主向我说：『你去吧！我要差你远远地往外邦人那里去。』」",
     Eng:"\"Then the Lord said to me, 'Go; I will send you far away to the Gentiles.'\"",
     Ind:"Tetapi kata Tuhan kepadaku: Pergilah, sebab Aku akan mengutus engkau jauh dari sini kepada bangsa-bangsa lain.\""
   },
   {Bible:"Acts", Chapter:22, Verse:22, Page:1,
-    Kor:"<바울이 로마 시민권의 소유자임을 알리다> ○사람들이 바울의 말을 여기까지 듣고 있다가 \"이런 자는 없애 버려라. 살려 두면 안 된다\" 하고 소리를 질렀다.",
+    Kor:"○사람들이 바울의 말을 여기까지 듣고 있다가 \"이런 자는 없애 버려라. 살려 두면 안 된다\" 하고 소리를 질렀다.",
     Chn:"众人听他说到这句话，就高声说：「这样的人，从世上除掉他吧！他是不当活着的。」",
     Eng:"The crowd listened to Paul until he said this. Then they raised their voices and shouted, \"Rid the earth of him! He's not fit to live!\"",
     Ind:"Rakyat mendengarkan Paulus sampai kepada perkataan itu; tetapi sesudah itu, mereka mulai berteriak, katanya: \"Enyahkan orang ini dari muka bumi! Ia tidak layak hidup!\""
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Mereka terus berteriak sambil melemparkan jubah mereka dan menghamburkan debu ke udara."
   },
   {Bible:"Acts", Chapter:22, Verse:24, Page:1,
-    Kor:"그 때에 천부장이 바울을 병영 안으로 끌어들이라고 명령하였다. 그리고 그는 유대 사람들이 바울에게 이렇게 소리를 지르는 이유를 알아내려고, 바울을 채찍질하면서 캐물어 보라고 하였다.",
+    Kor:"그 때에 천부장이 바울을 병영 안으로 끌어들이라고 명령하였다. 그리고 그는 유대 사람들이 바울에게 이렇게 소리를 지르는 이유를 알아내려고, 바울을 채찍질하면서 신문하라고 하였다.",
     Chn:"千夫长就吩咐将保罗带进营楼去，叫人用鞭子拷问他，要知道他们向他这样喧嚷是为什么缘故。",
     Eng:"the commander ordered Paul to be taken into the barracks. He directed that he be flogged and questioned in order to find out why the people were shouting at him like this.",
     Ind:"Karena itu kepala pasukan memberi perintah untuk membawa Paulus ke markas dan menyuruh memeriksa dan menyesah dia, supaya dapat diketahui apa sebabnya orang banyak itu berteriak-teriak sedemikian terhadap dia."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Maka mereka yang harus menyesah dia, segera mundur; dan kepala pasukan itu juga takut, setelah ia tahu, bahwa Paulus, yang ia suruh ikat itu, adalah orang Rum."
   },
   {Bible:"Acts", Chapter:22, Verse:30, Page:1,
-    Kor:"<바울이 의회 앞에서 해명하다> ○이튿날 천부장은 무슨 일로 유대 사람이 바울을 고소하는지, 그 진상을 알아보려고 하였다. 그래서 그는 바울의 결박을 풀어주고, 명령을 내려서, 대제사장들과 온 의회를 모이게 하였다. 그리고 그는 바울을 데리고 내려가서, 그들 앞에 세웠다.",
+    Kor:"○이튿날 천부장은 무슨 일로 유대 사람이 바울을 고소하는지, 그 진상을 알아보려고 하였다. 그래서 그는 바울의 결박을 풀어 주고, 명령을 내려서, 대제사장들과 온 의회를 모이게 하였다. 그리고 그는 바울을 데리고 내려가서, 그들 앞에 세웠다.",
     Chn:"第二天，千夫长为要知道犹太人控告保罗的实情，便解开他，吩咐祭司长和全公会的人都聚集，将保罗带下来，叫他站在他们面前。",
     Eng:"The next day, since the commander wanted to find out exactly why Paul was being accused by the Jews, he released him and ordered the chief priests and all the Sanhedrin to assemble. Then he brought Paul and had him stand before them.",
     Ind:"Namun kepala pasukan itu ingin mengetahui dengan teliti apa yang dituduhkan orang-orang Yahudi kepada Paulus. Karena itu pada keesokan harinya ia menyuruh mengambil Paulus dari penjara dan memerintahkan, supaya imam-imam kepala dan seluruh Mahkamah Agama berkumpul. Lalu ia membawa Paulus dari markas dan menghadapkannya kepada mereka."

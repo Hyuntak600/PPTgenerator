@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",9,27);
 BibleDB.add([
   {Bible:"Joshua", Chapter:9, Verse:1, Page:1,
-    Kor:"<기브온 사람들이 여호수아를 속이다> 요단 강 서쪽의 야산과 평원지대와 지중해 연안에서 레바논에 이르는 곳에 사는 헷 사람과 아모리 사람과 가나안 사람과 브리스 사람과 히위 사람과 여부스 사람의 모든 왕이 이 소식을 듣고,",
+    Kor:"요단 강 서쪽의 야산과 평원지대와 지중해 연안에서 레바논에 이르는 곳에 사는, 헷 사람과 아모리 사람과 가나안 사람과 브리스 사람과 히위 사람과 여부스 사람의 모든 왕이 이 소식을 듣고,",
     Chn:"约旦河西，住山地、高原，并对着黎巴嫩山沿大海一带的诸王，就是赫人、亚摩利人、迦南人、比利洗人、希未人、耶布斯人的诸王，听见这事，",
     Eng:"Now when all the kings west of the Jordan heard about these things--those in the hill country, in the western foothills, and along the entire coast of the Great Sea as far as Lebanon (the kings of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites)--",
     Ind:"Ketika terdengar oleh raja-raja di sebelah barat sungai Yordan, di Pegunungan, di Daerah Bukit dan sepanjang tepi pantai Laut Besar sampai ke seberang gunung Libanon, yakni raja-raja orang Het, orang Amori, orang Kanaan, orang Feris, orang Hewi dan orang Yebus,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Tetapi ketika terdengar kepada penduduk negeri Gibeon apa yang dilakukan Yosua terhadap Yerikho dan Ai,"
   },
   {Bible:"Joshua", Chapter:9, Verse:4, Page:1,
-    Kor:"여호수아를 속이기로 결정하였다. 그들은 낡은 부대와 해어지고 터져서 기운 가죽 포도주 부대를 나귀에 싣고서, 외모를 사절단처럼 꾸미고 길을 떠났다.",
+    Kor:"여호수아를 속이기로 결정하였다. 그들은 낡은 부대와 해어지고 터져서 기운 가죽 포도주 부대를 나귀에 싣고서, 외모를 사절단처럼 꾸미고, 길을 떠났다.",
     Chn:"就设诡计，假充使者，拿旧口袋和破裂缝补的旧皮酒袋驮在驴上，",
     Eng:"they resorted to a ruse: They went as a delegation whose donkeys were loaded with worn-out sacks and old wineskins, cracked and mended.",
     Ind:"maka merekapun bertindak dengan memakai akal: mereka pergi menyediakan bekal, mengambil karung yang buruk-buruk untuk dimuatkan ke atas keledai mereka dan kirbat anggur yang buruk-buruk, yang robek dan dijahit kembali,"
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Lalu kata mereka kepada Yosua: \"Kami ini hamba-hambamu.\" Tanya Yosua: \"Siapakah kamu ini dan dari manakah kamu datang?\""
   },
   {Bible:"Joshua", Chapter:9, Verse:9, Page:1,
-    Kor:"○그들이 여호수아에게 대답하였다. \"종들은 주 하나님의 명성을 듣고서, 아주 먼 곳에서 왔습니다. 우리는 주님께서 이집트에서 하신 모든 일을 들었으며,",
+    Kor:"○그들이 여호수아에게 대답하였다. \"종들은 주 하나님의 명성을 듣고서, 아주 먼 곳에서 왔습니다. 우리는 주께서 이집트에서 하신 모든 일을 들었으며,",
     Chn:"他们回答说：「仆人从极远之地而来，是因听见耶和华—你　神的名声和他在埃及所行的一切事，",
     Eng:"They answered: \"Your servants have come from a very distant country because of the fame of the LORD your God. For we have heard reports of him: all that he did in Egypt,",
     Ind:"Jawab mereka kepadanya: \"Dari negeri yang sangat jauh hamba-hambamu ini datang karena nama TUHAN, Allahmu, sebab kami telah mendengar kabar tentang Dia, yakni segala yang dilakukan-Nya di Mesir,"
   },
   {Bible:"Joshua", Chapter:9, Verse:10, Page:1,
-    Kor:"또 주님께서 요단 강 동쪽 아모리 사람의 두 왕 곧 헤스본 왕 시혼과 아스다롯에 있는 바산 왕 옥에게 하신 일을 모두 들었습니다.",
+    Kor:"또 주께서 요단 강 동쪽 아모리 사람의 두 왕, 곧 헤스본 왕 시혼과 아스다롯에 있는 바산 왕 옥에게 하신 일을 모두 들었습니다.",
     Chn:"并他向约旦河东的两个亚摩利王，就是希实本王西宏和在亚斯他录的巴珊王噩一切所行的事。",
     Eng:"and all that he did to the two kings of the Amorites east of the Jordan--Sihon king of Heshbon, and Og king of Bashan, who reigned in Ashtaroth.",
     Ind:"dan segala yang dilakukan-Nya terhadap kedua raja orang Amori itu di seberang sungai Yordan, Sihon, raja Hesybon, dan Og, raja Basan, yang diam di Asytarot."
   },
   {Bible:"Joshua", Chapter:9, Verse:11, Page:1,
-    Kor:"그래서 우리 땅에 살고 있는 장로들과 모든 주민이 우리를 이리로 보냈습니다. 우리 기브온 주민은, 종이 될 각오가 되어 있다는 것을 말씀드리고, 우리와 평화조약을 맺어 달라고 하는 부탁을 하려고, 길에서 먹을 양식을 준비해 가지고 이렇게 왔습니다.",
+    Kor:"그래서 우리 땅에 살고 있는 장로들과 모든 주민이 우리를 이리로 보냈습니다. 우리 기브온 주민은, 종이 될 각오가 되어 있다는 것을 말씀드리고, 우리와 평화조약을 맺어 주십사고 하는 부탁을 하려고, 길에서 먹을 양식을 준비해 가지고 이렇게 왔습니다.",
     Chn:"我们的长老和我们那地的一切居民对我们说：『你们手里要带着路上用的食物去迎接以色列人，对他们说：我们是你们的仆人；现在求你们与我们立约。』",
     Eng:"And our elders and all those living in our country said to us, 'Take provisions for your journey; go and meet them and say to them, \"We are your servants; make a treaty with us.\"'",
     Ind:"Sebab itu para tua-tua kami dan seluruh penduduk negeri kami berkata kepada kami, demikian: Bawalah bekal untuk di jalan dan pergilah menemui mereka dan berkatalah kepada mereka: Kami ini hamba-hambamu, maka sekarang ikatlah perjanjian dengan kami."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Inilah kirbat-kirbat anggur, yang masih baru ketika kami mengisinya, tetapi lihatlah, telah robek; dan inilah pakaian dan kasut kami, semuanya telah buruk-buruk karena perjalanan yang sangat jauh itu.\""
   },
   {Bible:"Joshua", Chapter:9, Verse:14, Page:1,
-    Kor:"○이스라엘 사람들은, 어떻게 해야 할지를 주님께 묻지도 않은 채, 그들이 가져 온 양식을 넘겨받았다.",
+    Kor:"○이스라엘 사람들은, 어떻게 해야 할지를 주께 묻지도 않은 채, 그들이 가져 온 양식을 넘겨받았다.",
     Chn:"以色列人受了他们些食物，并没有求问耶和华。",
     Eng:"The men of Israel sampled their provisions but did not inquire of the LORD.",
     Ind:"Lalu orang-orang Israel mengambil bekal orang-orang itu, tetapi tidak meminta keputusan TUHAN."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Tetapi setelah lewat tiga hari, sesudah orang Israel mengikat perjanjian dengan orang-orang itu, terdengarlah oleh mereka, bahwa orang-orang itu tinggal dekat mereka, bahkan diam di tengah-tengah mereka."
   },
   {Bible:"Joshua", Chapter:9, Verse:17, Page:1,
-    Kor:"이스라엘 자손은 그리로 가서 보려고 길을 떠났는데, 겨우 사흘 만에 자기들과 조약을 맺은 사람들이 살고 있는 여러 성읍에 이르렀다. 그들이 살고 있는 성읍은 기브온과 그비라와 브에롯과 기럇여아림이었다.",
+    Kor:"이스라엘 자손은, 그리로 가서 보려고 길을 떠났는데, 겨우 사흘 만에 자기들과 조약을 맺은 사람들이 살고 있는 여러 성읍에 이르렀다. 그들이 살고 있는 성읍은 기브온과 그비라와 브에롯과 기럇여아림이었다.",
     Chn:"以色列人起行，第三天到了他们的城邑，就是基遍、基非拉、比录、基列·耶琳。",
     Eng:"So the Israelites set out and on the third day came to their cities: Gibeon, Kephirah, Beeroth and Kiriath Jearim.",
     Ind:"Sebab orang Israel berangkat pergi dan pada hari ketiga sampai ke kota-kota orang-orang itu; adapun kota-kota itu ialah Gibeon, Kefira, Beerot dan Kiryat-Yearim."
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Orang Israel tidak menewaskan, sebab para pemimpin umat telah bersumpah kepada mereka demi TUHAN, Allah Israel. Lalu bersungut-sungutlah segenap umat kepada para pemimpin."
   },
   {Bible:"Joshua", Chapter:9, Verse:19, Page:1,
-    Kor:"그러나 모든 지도자들이 온 회중에게 말하였다. \"우리가 주 이스라엘 하나님의 이름을 두고 그들에게 맹세하였으므로, 그들을 해칠 수 없습니다.",
+    Kor:"그러나 모든 지도자들이 온 회중에게 말하였다. \"우리가 주 이스라엘 하나님의 이름을 두고 그들에게 맹세하였으므로, 그들을 해칠 수 없다.",
     Chn:"众首领对全会众说：「我们已经指着耶和华—以色列的　神向他们起誓，现在我们不能害他们。",
     Eng:"but all the leaders answered, \"We have given them our oath by the LORD, the God of Israel, and we cannot touch them now.",
     Ind:"Berkatalah pemimpin-pemimpin itu kepada seluruh umat: \"Kami telah bersumpah kepada mereka demi TUHAN, Allah Israel; oleh sebab itu kita tidak dapat mengusik mereka."
   },
   {Bible:"Joshua", Chapter:9, Verse:20, Page:1,
-    Kor:"우리가 그들에게 할 일이라고는, 그들을 살려 두어서, 우리가 그들에게 맹세한 맹세 때문에 받게 될 진노가 우리에게 내리지 않게 하는 것뿐입니다.",
+    Kor:"우리가 그들에게 할 일이라고는, 그들을 살려 두어서, 우리가 그들에게 맹세한 맹세 때문에 받게 될 진노가 우리에게 내리지 않게 하는 것뿐이다.",
     Chn:"我们要如此待他们，容他们活着，免得有忿怒因我们所起的誓临到我们身上。」",
     Eng:"This is what we will do to them: We will let them live, so that wrath will not fall on us for breaking the oath we swore to them.\"",
     Ind:"Beginilah akan kita perlakukan mereka: membiarkan mereka hidup, supaya kita jangan tertimpa murka karena sumpah yang telah kita ikrarkan itu kepada mereka.\""
   },
   {Bible:"Joshua", Chapter:9, Verse:21, Page:1,
-    Kor:"그러나 비록 그들을 살려 둔다 하더라도, 우리 가운데서 나무 패는 자와 물 긷는 자로 살아가도록 그들을 제한할 것입니다.\" 지도자들이 이렇게 제안한 것을 회중이 받아들였다.",
+    Kor:"그러나 비록 그들을 살려 둔다 하더라도, 우리 가운데서 나무 패는 자와 물 긷는 자로 살아가도록 그들을 제한할 것이다.\" 지도자들이 이렇게 제안한 것을 회중이 받아들였다.",
     Chn:"首领又对会众说：「要容他们活着。」于是他们为全会众作了劈柴挑水的人，正如首领对他们所说的话。",
     Eng:"They continued, \"Let them live, but let them be woodcutters and water carriers for the entire community.\" So the leaders' promise to them was kept.",
     Ind:"Lagi kata para pemimpin kepada mereka: \"Biarlah mereka hidup.\" Maka merekapun dijadikan tukang belah kayu dan tukang timba air untuk segenap umat, seperti yang ditetapkan oleh para pemimpin mengenai mereka."
   },
   {Bible:"Joshua", Chapter:9, Verse:22, Page:1,
-    Kor:"○여호수아가 그들을 불러다가 말하였다. \"당신들은 우리 가까이에 살면서, 어찌하여 아주 멀리서 왔다고 말하여 우리를 속였소?",
+    Kor:"○여호수아가 그들을 불러다가 말하였다. \"너희는 우리 가까이에 살면서, 어찌하여 아주 멀리서 왔다고 말하여, 우리를 속였느냐?",
     Chn:"约书亚召了他们来，对他们说：「为什么欺哄我们说『我们离你们甚远』呢？其实你们是住在我们中间。",
     Eng:"Then Joshua summoned the Gibeonites and said, \"Why did you deceive us by saying, 'We live a long way from you,' while actually you live near us?",
     Ind:"Lalu Yosua memanggil mereka dan berkata kepada mereka, demikian: \"Mengapa kamu menipu kami dengan berkata: Kami ini tinggal sangat jauh dari pada kamu, padahal kamu diam di tengah-tengah kami?"
   },
   {Bible:"Joshua", Chapter:9, Verse:23, Page:1,
-    Kor:"당신들이 이렇게 우리를 속였기 때문에, 당신들은 저주를 받아서, 영원히 종이 되어, 우리 하나님의 집에서 나무를 패고 물을 긷는 일을 하게 될 것이오.\"",
+    Kor:"너희들이 이렇게 우리를 속였기 때문에, 너희들은 저주를 받아서, 영원히 종이 되어, 우리 하나님의 집에서 나무를 패고 물을 긷는 일을 하게 될 것이다.\"",
     Chn:"现在你们是被咒诅的！你们中间的人必断不了作奴仆，为我　神的殿作劈柴挑水的人。」",
     Eng:"You are now under a curse: You will never cease to serve as woodcutters and water carriers for the house of my God.\"",
     Ind:"Oleh sebab itu, terkutuklah kamu dan tak putus-putusnya kamu menjadi hamba, tukang belah kayu dan tukang timba air untuk rumah Allahku.\""
   },
   {Bible:"Joshua", Chapter:9, Verse:24, Page:1,
-    Kor:"○그들이 여호수아에게 대답하였다. \"우리가 그렇게 속일 수밖에 없었던 까닭은, 주 하나님이 그의 종 모세에게 명하신 것이 참으로 사실임을 우리가 알았기 때문입니다. 하나님이 이 땅을 다 이스라엘 사람에게 주라고 명하셨고, 이스라엘 사람이 보는 앞에서 이 땅에 사는 모든 사람을 다 죽이라고 명하셨다는 것을, 우리가 들어서 알았습니다. 우리가 속임수를 쓸 수밖에 06 9:없었던 것은, 우리가 이스라엘 사람 때문에 목숨을 잃을까 두려워하였기 때문입니다.",
+    Kor:"○그들이 여호수아에게 대답하였다. \"우리가 그렇게 속일 수밖에 없었던 까닭은, 주 하나님이 그의 종 모세에게 명하신 것이 참으로 사실임을 우리가 알았기 때문입니다. 하나님이 이 땅을 다 이스라엘 사람에게 주라고 명하셨고, 이스라엘 사람이 보는 앞에서 이 땅에 사는 모든 사람을 다 죽이라고 명하셨다는 것을, 우리가 들어서 알았습니다. 우리가 속임수를 쓸 수밖에 없었던 것은, 우리가 이스라엘 사람 때문에 목숨을 잃을까 두려워하였기 때문입니다.",
     Chn:"他们回答约书亚说：「因为有人实在告诉你的仆人，耶和华—你的　神曾吩咐他的仆人摩西，把这全地赐给你们，并在你们面前灭绝这地的一切居民，所以我们为你们的缘故甚怕丧命，就行了这事。",
     Eng:"They answered Joshua, \"Your servants were clearly told how the LORD your God had commanded his servant Moses to give you the whole land and to wipe out all its inhabitants from before you. So we feared for our lives because of you, and that is why we did this.",
     Ind:"Jawab mereka kepada Yosua, katanya: \"Sebab telah dikabarkan dengan sungguh-sungguh kepada hamba-hambamu ini, bahwa TUHAN, Allahmu, memerintahkan kepada Musa hamba-Nya, memberikan seluruh negeri itu kepadamu dan memunahkan seluruh penduduk negeri itu dari depan kamu, maka sangatlah kami takut kehilangan nyawa, menghadapi kamu; itulah sebabnya kami melakukan yang demikian."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Demikianlah dilakukannya kepada mereka. Dilepaskannyalah mereka dari tangan orang-orang Israel, sehingga mereka tidak dibunuh."
   },
   {Bible:"Joshua", Chapter:9, Verse:27, Page:1,
-    Kor:"바로 그 날로 여호수아는 그들을, 회중을 섬기고 주님의 제단을 돌보는 종으로 삼아, 나무를 패고 물을 긷는 일을 맡게 하였다. 그들은 오늘까지 주님께서 택하신 곳에서 그 일을 하고 있다.",
+    Kor:"바로 그 날로 여호수아는 그들을, 회중을 섬기고 주의 제단을 돌보는 종으로 삼아, 나무를 패고 물을 긷는 일을 맡게 하였다. 그들은 오늘까지 주께서 택하신 곳에서 그 일을 하고 있다.",
     Chn:"当日约书亚使他们在耶和华所要选择的地方，为会众和耶和华的坛作劈柴挑水的人，直到今日。",
     Eng:"That day he made the Gibeonites woodcutters and water carriers for the community and for the altar of the LORD at the place the LORD would choose. And that is what they are to this day.",
     Ind:"Dan pada waktu itu Yosua menjadikan mereka tukang belah kayu dan tukang timba air untuk umat itu dan untuk mezbah TUHAN, sampai sekarang, di tempat yang akan dipilih-Nya."

@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",14,57);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:14, Verse:1, Page:1,
-    Kor:"<환자를 정하게 하는 예식> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：「",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Orang yang akan ditahirkan itu haruslah mencuci pakaiannya, mencukur seluruh rambutnya dan membasuh tubuhnya dengan air, maka ia menjadi tahir. Sesudah itu ia boleh masuk ke dalam perkemahan, tetapi harus tinggal di luar kemahnya sendiri tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:14, Verse:9, Page:1,
-    Kor:"이레째 되는 날에 그는 다시 털을 모두 밀어야 한다. 머리카락과 수염과 눈썹까지, 털을 다 밀어야 한다. 그런 다음에, 옷을 빨고 물로 목욕을 하면, 그는 정하게 된다.",
+    Kor:"이레째 되는 날에, 그는 다시 털을 모두 밀어야 한다. 머리카락과 수염과 눈썹까지, 털을 다 밀어야 한다. 그런 다음에, 옷을 빨고 물로 목욕을 하면, 그는 정하게 된다.",
     Chn:"第七天，再把头上所有的头发与胡须、眉毛，并全身的毛，都剃了；又要洗衣服，用水洗身，就洁净了。",
     Eng:"On the seventh day he must shave off all his hair; he must shave his head, his beard, his eyebrows and the rest of his hair. He must wash his clothes and bathe himself with water, and he will be clean.",
     Ind:"Maka pada hari yang ketujuh ia harus mencukur seluruh rambutnya: rambut kepala, janggut, alis, bahkan segala bulunya harus dicukur, pakaiannya dicuci, dan tubuhnya dibasuh dengan air; maka ia menjadi tahir."
   },
   {Bible:"Leviticus", Chapter:14, Verse:10, Page:1,
-    Kor:"○여드레째 되는 날에, 그는 흠 없는 숫양 두 마리와, 흠 없는 일 년 된 어린 암양 한 마리와, 곡식제물로 바칠 기름 섞은 고운 밀가루 십분의 삼 에바와, 기름 한 록을 가져 와야 한다.",
+    Kor:"○여드레째 되는 날에, 그는 흠 없는 숫양 두 마리와, 흠 없는 일 년 된 어린 암양 한 마리와, 곡식제물로 드릴 기름 섞은 고운 밀가루 십분의 삼 에바와, 기름 한 록을 가져 와야 한다.",
     Chn:"「第八天，他要取两只没有残疾的公羊羔和一只没有残疾、一岁的母羊羔，又要把调油的细面伊法十分之三为素祭，并油一罗革，一同取来。",
     Eng:"\"On the eighth day he must bring two male lambs and one ewe lamb a year old, each without defect, along with three-tenths of an ephah of fine flour mixed with oil for a grain offering, and one log of oil.",
     Ind:"Pada hari yang kedelapan ia harus mengambil dua ekor domba jantan yang tidak bercela dan seekor domba betina berumur setahun yang tidak bercela dan tiga persepuluh efa tepung yang terbaik diolah dengan minyak sebagai korban sajian, serta satu log minyak."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Imam yang melakukan pentahiran itu harus menempatkan orang yang akan ditahirkan bersama-sama dengan persembahannya di hadapan TUHAN di depan pintu Kemah Pertemuan."
   },
   {Bible:"Leviticus", Chapter:14, Verse:12, Page:1,
-    Kor:"제사장은 숫양 한 마리를 끌어다가, 그것을 기름 한 a록과 함께 속건제물로 바치는데, 그것은 주 앞에서 흔들어 바치는 제물이므로, 제사장은 그것들을 흔들어야 한다.(a 1록은 0.54리터(약 두 홉 반))",
+    Kor:"제사장은 숫양 한 마리를 끌어다가, 그것을 기름 한 록과 함께 속건제물로 드리는데, 그것은 주 앞에서 흔들어 바치는 제물이므로, 제사장은 그것들을 흔들어야 한다.",
     Chn:"祭司要取一只公羊羔献为赎愆祭，和那一罗革油一同作摇祭，在耶和华面前摇一摇；",
     Eng:"\"Then the priest is to take one of the male lambs and offer it as a guilt offering, along with the log of oil; he shall wave them before the LORD as a wave offering.",
     Ind:"Dan ia harus mengambil domba jantan yang seekor dan mempersembahkannya sebagai tebusan salah bersama-sama dengan minyak yang satu log itu, dan ia harus mempersembahkannya sebagai persembahan unjukan di hadapan TUHAN."
   },
   {Bible:"Leviticus", Chapter:14, Verse:13, Page:1,
-    Kor:"제사장이 그렇게 하고 나면, 정하게 되려는 그 사람이 속죄제물과 번제물을 잡는 바로 그 장소 곧 거룩한 곳에서, 나머지 숫양 한 마리를 잡는다. 속건제물은 속죄제물과 마찬가지로 제사장의 몫이 된다. 그것은 가장 거룩한 것이다.",
+    Kor:"제사장이 그렇게 하고 나면, 정하게 되려는 그 사람이 속죄제물과 번제물을 잡는 바로 그 장소, 곧 거룩한 곳에서, 나머지 숫양 한 마리를 잡는다. 속건제물은 속죄제물과 마찬가지로 제사장의 몫이 된다. 그것은 가장 거룩한 것이다.",
     Chn:"把公羊羔宰于圣地，就是宰赎罪祭牲和燔祭牲之地。赎愆祭要归祭司，与赎罪祭一样，是至圣的。",
     Eng:"He is to slaughter the lamb in the holy place where the sin offering and the burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.",
     Ind:"Domba jantan itu harus disembelihnya di tempat orang menyembelih korban penghapus dosa dan korban bakaran, di tempat kudus, karena korban penebus salah, begitu juga korban penghapus dosa, adalah bagian imam; itulah bagian maha kudus."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Dan apa yang tinggal dari minyak itu haruslah dibubuhnya pada kepala orang yang akan ditahirkan. Dengan demikian imam mengadakan pendamaian bagi orang itu di hadapan TUHAN."
   },
   {Bible:"Leviticus", Chapter:14, Verse:19, Page:1,
-    Kor:"부정한 상태에서 이제 정하게 되려는 그 사람의 죄를 속하여 주려고, 제사장은 속죄제물을 바친다. 그렇게 한 다음에, 정하게 되려는 그 사람이 번제물을 잡으면,",
+    Kor:"부정한 상태에서 이제 정하게 되려는 그 사람의 죄를 속하여 주려고, 제사장은 속죄제물을 드린다. 그렇게 한 다음에, 정하게 되려는 그 사람이 번제물을 잡으면,",
     Chn:"祭司要献赎罪祭，为那本不洁净、求洁净的人赎罪；然后要宰燔祭牲，",
     Eng:"\"Then the priest is to sacrifice the sin offering and make atonement for the one to be cleansed from his uncleanness. After that, the priest shall slaughter the burnt offering",
     Ind:"Imam harus mempersembahkan korban penghapus dosa dan dengan demikian mengadakan pendamaian bagi orang yang akan ditahirkan dari kenajisannya, dan sesudah itu ia harus menyembelih korban bakaran."
   },
   {Bible:"Leviticus", Chapter:14, Verse:20, Page:1,
-    Kor:"제사장은 번제물과 곡식제물을 제단에 바친다. 이렇게 하여, 제사장이 그의 죄를 속하여 주면, 그는 정하게 된다.",
+    Kor:"제사장은 번제물과 곡식제물을 제단에 드린다. 이렇게 하여, 제사장이 그의 죄를 속하여 주면, 그는 정하게 된다.",
     Chn:"把燔祭和素祭献在坛上，为他赎罪，他就洁净了。",
     Eng:"and offer it on the altar, together with the grain offering, and make atonement for him, and he will be clean.",
     Ind:"Kemudian imam harus mempersembahkan korban bakaran dan korban sajian di atas mezbah. Dengan demikian imam mengadakan pendamaian bagi orang itu, maka ia menjadi tahir."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Tetapi jikalau orang itu miskin dan tidak mampu, ia harus mengambil domba jantan seekor saja sebagai tebusan salah untuk persembahan unjukan, supaya diadakan pendamaian bagi orang itu, juga sepersepuluh efa tepung yang terbaik diolah dengan minyak untuk korban sajian, dan satu log minyak."
   },
   {Bible:"Leviticus", Chapter:14, Verse:22, Page:1,
-    Kor:"힘이 닿는 대로, 산비둘기 두 마리나 집비둘기 새끼 두 마리를 가져다가, 한 마리는 속죄제물로, 다른 한 마리는 번제물로 바치면 된다.",
+    Kor:"힘 자라는 대로, 산비둘기 두 마리나 집비둘기 새끼 두 마리를 가져다가, 한 마리는 속죄제물로, 다른 한 마리는 번제물로 바치면 된다.",
     Chn:"又照他的力量取两只斑鸠或是两只雏鸽，一只作赎罪祭，一只作燔祭。",
     Eng:"and two doves or two young pigeons, which he can afford, one for a sin offering and the other for a burnt offering.",
     Ind:"Dan lagi dua ekor burung tekukur atau dua ekor burung merpati sekadar kemampuannya, yang seekor harus menjadi korban penghapus dosa dan yang seekor lagi menjadi korban bakaran."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Pada hari yang kedelapan ia harus membawa semuanya untuk pentahirannya kepada imam, ke depan pintu Kemah Pertemuan di hadapan TUHAN."
   },
   {Bible:"Leviticus", Chapter:14, Verse:24, Page:1,
-    Kor:"그러면 제사장은 속건제물로 바칠 숫양과 기름 한 록을 받아다가, 주에게 흔들어 바치는 제물로 그것들을 흔들 것이다.",
+    Kor:"그러면 제사장은 속건제물로 드릴 숫양과 기름 한 록을 받아다가, 주께 흔들어 바치는 제물로 그것들을 흔들 것이다.",
     Chn:"祭司要把赎愆祭的羊羔和那一罗革油一同作摇祭，在耶和华面前摇一摇。",
     Eng:"The priest is to take the lamb for the guilt offering, together with the log of oil, and wave them before the LORD as a wave offering.",
     Ind:"Kemudian imam harus mengambil domba tebusan salah dan minyak yang satu log itu, lalu imam harus mempersembahkan semuanya sebagai persembahan unjukan di hadapan TUHAN."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Itulah hukum tentang pentahiran seorang yang kena kusta yang tidak mampu.\""
   },
   {Bible:"Leviticus", Chapter:14, Verse:33, Page:1,
-    Kor:"<건물에 생기는 곰팡이> ○주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
   },
   {Bible:"Leviticus", Chapter:14, Verse:34, Page:1,
-    Kor:"○\"나 주가 너희에게 유산으로 준 가나안 땅으로 너희가 들어가서 그 땅을 차지하였을 때에, 나 주가 내린 b악성 곰팡이가 너희가 유산으로 받은 땅에 있는 어떤 집에 생기거든,(b '피부병'과 같은 뜻으로 사용됨)",
+    Kor:"○\"주께서 너희에게 유산으로 준 가나안 땅으로 너희가 들어가서 그 땅을 차지하였을 때에, 주께서 내린 악성 곰팡이가 너희가 유산으로 받은 땅에 있는 어떤 집에 생기거든,",
     Chn:"「你们到了我赐给你们为业的迦南地，我若使你们所得为业之地的房屋中有大麻风的灾病，",
     Eng:"\"When you enter the land of Canaan, which I am giving you as your possession, and I put a spreading mildew in a house in that land,",
     Ind:"\"Apabila kamu masuk ke tanah Kanaan yang akan Kuberikan kepadamu menjadi milikmu dan Aku mendatangkan tanda kusta di sebuah rumah di negeri milikmu itu,"
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"imam harus keluar dari rumah itu, lalu berdiri di depan pintu rumah, dan menutup rumah itu tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:14, Verse:39, Page:1,
-    Kor:"이레째 되는 날에 제사장이 다시 가서 보고, 그 곰팡이가 그 집 벽에 퍼졌으면,",
+    Kor:"이레째 되는 날에, 제사장이 다시 가서 보고, 그 곰팡이가 그 집 벽에 퍼졌으면,",
     Chn:"第七天，祭司要再去察看，灾病若在房子的墙上发散，",
     Eng:"On the seventh day the priest shall return to inspect the house. If the mildew has spread on the walls,",
     Ind:"Pada hari yang ketujuh imam harus datang kembali; kalau menurut pemeriksaannya tanda kusta itu meluas pada dinding rumah,"
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"Rumah itu haruslah dirombak, yakni batunya, kayunya dan segala lepa rumah itu, lalu dibawa semuanya ke luar kota ke suatu tempat yang najis."
   },
   {Bible:"Leviticus", Chapter:14, Verse:46, Page:1,
-    Kor:"특히 그 집을 잠가 둔 동안 그 집에 들어간 사람은 그 날 저녁때까지 부정하다.",
+    Kor:"특히 그 집을 잠가 둔 동안 그 집에 들어간 사람은, 그 날 저녁때까지 부정하다.",
     Chn:"在房子封锁的时候，进去的人必不洁净到晚上；",
     Eng:"\"Anyone who goes into the house while it is closed up will be unclean till evening.",
     Ind:"Dan orang yang masuk ke dalam rumah itu selama rumah itu ditutup, menjadi najis sampai matahari terbenam."

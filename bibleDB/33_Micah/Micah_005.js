@@ -3,43 +3,43 @@
 BibleDB.ref("Micah",5,15);
 BibleDB.add([
   {Bible:"Micah", Chapter:5, Verse:1, Page:1,
-    Kor:"a군대의 도성아, 군대를 모아라! 우리가 포위되었다! 침략군들이 몽둥이로 이스라엘의 통치자의 뺨을 칠 것이다. (a 또는 '성벽으로 둘러싸인 성읍아, 네 성벽을 튼튼하게 하여라')",
+    Kor:"군대의 도성아, 군대를 모아라! 우리가 포위되었다! 침략군들이 몽둥이로 이스라엘의 통치자의 뺨을 칠 것이다.",
     Chn:"成群的民哪，现在你要聚集成队； 因为仇敌围攻我们， 要用杖击打以色列审判者的脸。",
     Eng:"Marshal your troops, O city of troops, for a siege is laid against us. They will strike Israel's ruler on the cheek with a rod.",
     Ind:"(4-14) Sekarang, engkau harus mendirikan tembok bagimu; pagar pengepungan telah mereka dirikan melawan kita; dengan tongkat mereka memukul pipi orang yang memerintah Israel."
   },
   {Bible:"Micah", Chapter:5, Verse:2, Page:1,
-    Kor:"<베들레헴에서 통치자가 나올 것이다> \"그러나 너 베들레헴 에브라다야, 너는 유다의 여러 b족속 가운데서 작은 족속이지만, 이스라엘을 다스릴 자가 네게서 내게로 나올 것이다. 그의 기원은 아득한 옛날, 태초에까지 거슬러 올라간다.\" (b 히, '천 천' 또는 '통치자들')",
+    Kor:"\"그러나 너 베들레헴 에브라다야, 너는 유다의 여러 족속 가운데서 작은 족속이지만, 이스라엘을 다스릴 자가 네게서 내게로 나올 것이다. 그의 기원은 아득한 옛날, 태초에까지 거슬러 올라간다.\"",
     Chn:"伯利恒的以法他啊， 你在犹大诸城中为小， 将来必有一位从你那里出来， 在以色列中为我作掌权的； 他的根源从亘古，从太初就有。",
     Eng:"\"But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.\"",
     Ind:"(5-1) Tetapi engkau, hai Betlehem Efrata, hai yang terkecil di antara kaum-kaum Yehuda, dari padamu akan bangkit bagi-Ku seorang yang akan memerintah Israel, yang permulaannya sudah sejak purbakala, sejak dahulu kala."
   },
   {Bible:"Micah", Chapter:5, Verse:3, Page:1,
-    Kor:"그러므로 주님께서는 해산하는 여인이 아이를 낳을 때까지, 당신의 백성을 원수들에게 그대로 맡겨 두실 것이다. 그 뒤에 그의 동포, 사로잡혀 가 있던 남은 백성이, 이스라엘 자손에게로 돌아올 것이다.",
+    Kor:"그러므로 주께서는 해산하는 여인이 아이를 낳을 때까지, 그의 백성을 원수들에게 그대로 맡겨 두실 것이다. 그 뒤에 그 형제, 사로잡혀 가 있던 남은 백성이, 이스라엘 자손에게로 돌아올 것이다.",
     Chn:"耶和华必将以色列人交付敌人， 直等那生产的妇人生下子来。 那时掌权者其余的弟兄 必归到以色列人那里。",
     Eng:"Therefore Israel will be abandoned until the time when she who is in labor gives birth and the rest of his brothers return to join the Israelites.",
     Ind:"(5-2) Sebab itu ia akan membiarkan mereka sampai waktu perempuan yang akan melahirkan telah melahirkan; lalu selebihnya dari saudara-saudaranya akan kembali kepada orang Israel."
   },
   {Bible:"Micah", Chapter:5, Verse:4, Page:1,
-    Kor:"그가 주님께서 주신 능력을 가지고, 그의 하나님이신 주님의 이름이 지닌 그 위엄을 의지하고 서서 그의 떼를 먹일 것이다. 그러면 그의 위대함이 땅 끝까지 이를 것이므로, 그들은 안전하게 살아갈 수 있을 것이다.",
+    Kor:"그가 주께서 주신 능력을 가지고, 그의 하나님 주의 이름의 위엄을 의지하고 서서 그의 떼를 먹일 것이다. 그러면 그의 위대함이 땅 끝까지 이를 것이므로, 그들은 안전하게 살아갈 수 있을 것이다.",
     Chn:"他必起来，倚靠耶和华的大能， 并耶和华—他　神之名的威严， 牧养他的羊群。 他们要安然居住； 因为他必日见尊大，直到地极。",
     Eng:"He will stand and shepherd his flock in the strength of the LORD, in the majesty of the name of the LORD his God. And they will live securely, for then his greatness will reach to the ends of the earth.",
     Ind:"(5-3) Maka ia akan bertindak dan akan menggembalakan mereka dalam kekuatan TUHAN, dalam kemegahan nama TUHAN Allahnya; mereka akan tinggal tetap, sebab sekarang ia menjadi besar sampai ke ujung bumi,"
   },
   {Bible:"Micah", Chapter:5, Verse:5, Page:1,
-    Kor:"그리고 그는 그들에게 '평화'를 가져다 줄 것이다.  <구원과 심판>  앗시리아 사람이 우리 땅을 침략하여, 우리의 방어망을 뚫고 들어올 때에, 우리는 일곱 목자, 여덟 장군들을 보내서, 침략자들과 싸우게 할 것이다.",
+    Kor:"그리고 그는 그들의 '평화'가 될 것이다. 앗시리아 사람이 우리 땅을 침략하여, 우리의 방어망을 뚫고 들어올 때에, 우리는 일곱 목자, 여덟 장군들을 보내서, 침략자들과 싸우게 할 것이다.",
     Chn:"这位必作我们的平安。 当亚述人进入我们的地境， 践踏宫殿的时候， 我们就立起七个牧者， 八个首领攻击他。",
     Eng:"And he will be their peace. When the Assyrian invades our land and marches through our fortresses, we will raise against him seven shepherds, even eight leaders of men.",
     Ind:"(5-4) dan dia menjadi damai sejahtera. Apabila Asyur masuk ke negeri kita dan apabila ia menginjak tanah kita, maka kita akan membangkitkan melawan dia tujuh gembala, bahkan delapan pemimpin manusia."
   },
   {Bible:"Micah", Chapter:5, Verse:6, Page:1,
-    Kor:"그들은 칼로 앗시리아 땅을 정복하고, 뺀 칼로 c니므롯 땅을 황무지로 만들 것이다. 앗시리아의 군대가 우리의 땅을 침략하여, 우리의 국경선 너머로 들어올 때에 그가 우리를 앗시리아 군대의 손에서 구원하여 낼 것이다. (c 또는 '니므롯을 그 성문 어귀에서')",
+    Kor:"그들은 칼로 앗시리아 땅을 정복하고, 뺀 칼로 니므롯 땅을 황무지로 만들 것이다. 앗시리아의 군대가 우리의 땅을 침략하여, 우리의 국경선 너머로 들어올 때에 그가 우리를 앗시리아 군대의 손에서 구원하여 낼 것이다.",
     Chn:"他们必用刀剑毁坏亚述地 和宁录地的关口。 亚述人进入我们的地境践踏的时候， 他必拯救我们。",
     Eng:"They will rule the land of Assyria with the sword, the land of Nimrod with drawn sword. He will deliver us from the Assyrian when he invades our land and marches into our borders.",
     Ind:"(5-5) Mereka itu akan mencukur negeri Asyur dengan pedang dan negeri Nimrod dengan pedang terhunus; mereka akan melepaskan kita dari Asyur, apabila ia ini masuk ke negeri kita dan menginjak daerah kita."
   },
   {Bible:"Micah", Chapter:5, Verse:7, Page:1,
-    Kor:"많은 민족들 사이에 살아 남은 야곱 백성은, 주님께서 내려 주시는 아침 이슬과 같이 될 것이며, 푸성귀 위에 내리는 비와도 같게 되어서, 사람을 의지하거나 인생을 기다리지 않을 것이다.",
+    Kor:"많은 민족들 사이에 살아 남은 야곱 백성은, 주께서 내려 주시는 아침 이슬과 같이 될 것이며, 푸성귀 위에 내리는 비와도 같게 되어서, 사람을 의지하거나 인생을 기다리지 않을 것이다.",
     Chn:"雅各余剩的人必在多国的民中， 如从耶和华那里降下的露水， 又如甘霖降在草上； 不仗赖人力，也不等候世人之功。",
     Eng:"The remnant of Jacob will be in the midst of many peoples like dew from the LORD, like showers on the grass, which do not wait for man or linger for mankind.",
     Ind:"(5-6) Maka sisa-sisa Yakub akan ada di tengah-tengah banyak bangsa seperti embun dari pada TUHAN seperti dirus hujan ke atas tumbuh-tumbuhan yang tidak menanti-nantikan orang dan tidak mengharap-harapkan anak manusia."

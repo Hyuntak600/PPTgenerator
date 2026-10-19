@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",30,26);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:30, Verse:1, Page:1,
-    Kor:"<주님께서 이집트를 심판하실 것이다> 주님께서 내게 말씀하셨다.",
+    Kor:"주께서 내게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:30, Verse:2, Page:1,
-    Kor:"○\"사람아, 예언하여 전하여라.  '나 주 하나님이 말한다. 너희는 오늘 슬퍼하고 통곡하여라.",
+    Kor:"\"사람아, 예언하여 전하여라. '나 주 하나님이 말한다. 너희는 오늘 슬퍼하고 통곡하여라.",
     Chn:"「人子啊，你要发预言说，主耶和华如此说： 哀哉这日！你们应当哭号。",
     Eng:"\"Son of man, prophesy and say: 'This is what the Sovereign LORD says: \"'Wail and say, \"Alas for that day!\"",
     Ind:"\"Hai anak manusia, bernubuatlah dan katakanlah: Beginilah firman Tuhan ALLAH: Merataplah: Aduh, hari itu!"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Hari itu sudah dekat, hari TUHAN sudah dekat, hari dengan awan gelap; itu adalah saat bangsa-bangsa."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:4, Page:1,
-    Kor:"이집트에 전쟁이 휘몰아치고, a에티오피아는 큰 고통을 당할 것이다. 이집트에서 많은 사람이 칼에 쓰러지고 재산을 약탈당할 때에, 이집트는 그 기초가 파괴될 것이다. (a 히, '구스'. 나일 강 상류지역)",
+    Kor:"이집트에 전쟁이 휘몰아치고, 에티오피아는 큰 고통을 당할 것이다. 이집트에서 많은 사람이 칼에 쓰러지고 재산을 약탈당할 때에, 이집트는 그 기초가 파괴될 것이다.",
     Chn:"必有刀剑临到埃及； 在埃及被杀之人仆倒的时候， 古实人就有痛苦， 人民必被掳掠， 基址必被拆毁。",
     Eng:"A sword will come against Egypt, and anguish will come upon Cush. When the slain fall in Egypt, her wealth will be carried away and her foundations torn down.",
     Ind:"Pedang datang atas Mesir dan Etiopia akan gemetar pada saat berebahan orang-orang yang mati terbunuh di Mesir dan kekayaannya dilarikan dan dasar-dasarnya terbongkar."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:5, Page:1,
-    Kor:"a에티오피아와 b리비아와 c리디아와, 아라비아와 굽과 모든 동맹국의 백성들이 이집트 사람들과 함께 칼에 쓰러질 것이다. (a 히, '구스'. 나일 강 상류지역 b 히, '붓' c 히, '룻')",
+    Kor:"에티오피아와 리비아와 리디아와, 아라비아와 굽과 모든 동맹국의 백성들이 이집트 사람들과 함께 칼에 쓰러질 것이다.",
     Chn:"古实人、弗人、路德人、杂族的人民，并古巴人，以及同盟之地的人都要与埃及人一同倒在刀下。」",
     Eng:"Cush and Put, Lydia and all Arabia, Libya and the people of the covenant land will fall by the sword along with Egypt.",
     Ind:"Orang Etiopia, Put, Lud, seluruh tanah Arab, Libia dan orang-orang dari negeri yang bersekutu dengan mereka akan mati rebah oleh pedang bersama mereka."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Maka mereka akan mengetahui bahwa Akulah TUHAN, pada saat Aku menimbulkan api di Mesir sehingga semua orang yang membantunya dimusnahkan."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:9, Page:1,
-    Kor:"○그 날이 오면, 내가 보낸 사자들이 배를 타고 가서, 안심하고 있는 a에티오피아 사람들을 놀라게 할 것이다. 이집트가 고통을 받는 바로 그 날에, a에티오피아 사람들이 고통을 당할 것이다. 정말 그 일이 닥쳐오고 있다.(a 히, '구스'. 나일 강 상류지역)",
+    Kor:"○그 날이 오면, 내가 보낸 사자들이 배를 타고 가서, 안심하고 있는 에티오피아 사람들을 놀라게 할 것이다. 이집트가 고통을 받는 바로 그 날에, 에티오피아 사람들이 고통을 당할 것이다. 정말 그 일이 닥쳐오고 있다.",
     Chn:"「到那日，必有使者坐船，从我面前出去，使安逸无虑的古实人惊惧；必有痛苦临到他们，好像埃及遭灾的日子一样。看哪，这事临近了！",
     Eng:"\"'On that day messengers will go out from me in ships to frighten Cush out of her complacency. Anguish will take hold of them on the day of Egypt's doom, for it is sure to come.",
     Ind:"Pada hari itu utusan-utusan-Ku akan berangkat dengan cepat-cepat untuk mengejutkan Etiopia yang bersenang-senang dan mereka akan gentar pada hari penghukuman Mesir; sebab, sungguh, hari itu akan datang!"
   },
   {Bible:"Ezekiel", Chapter:30, Verse:10, Page:1,
-    Kor:"나 주 하나님이 말한다. 내가 바빌로니아 왕 느부갈네살을 보내어 이집트의 무리를 없애 버리겠다.",
+    Kor:"나 주 하나님이 말한다. 내가 바빌로니아 왕 느부갓네살을 보내어 이집트의 무리를 없애 버리겠다.",
     Chn:"主耶和华如此说： 我必借巴比伦王尼布甲尼撒的手， 除灭埃及众人。",
     Eng:"\"'This is what the Sovereign LORD says: \"'I will put an end to the hordes of Egypt by the hand of Nebuchadnezzar king of Babylon.",
     Ind:"Beginilah firman Tuhan ALLAH: Aku akan meniadakan kekayaan Mesir dengan perantaraan Nebukadnezar, raja Babel."
@@ -75,31 +75,31 @@ BibleDB.add([
     Ind:"Aku akan mengeringkan anak-anak sungai Nil dan akan menyerahkan tanah itu dalam tangan orang-orang jahat dan memusnahkan tanah itu serta segala isinya dengan perantaraan orang-orang asing. Aku, TUHAN, yang mengatakannya."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:13, Page:1,
-    Kor:"나 주 하나님이 말한다. 내가 우상들을 멸절시키며, d멤피스에서 신상들을 없애 버리겠다. 이집트 땅에 다시는 지도자가 나지 않을 것이다. 내가 이집트 땅을 공포에 사로잡히게 하겠다. (d 히, '놉')",
+    Kor:"나 주 하나님이 말한다. 내가 우상들을 멸절시키며, 멤피스에서 신상들을 없애 버리겠다. 이집트 땅에 다시는 지도자가 나지 않을 것이다. 내가 이집트 땅을 공포에 사로잡히게 하겠다.",
     Chn:"主耶和华如此说： 我必毁灭偶像， 从挪弗除灭神像； 必不再有君王出自埃及地。 我要使埃及地的人惧怕。",
     Eng:"\"'This is what the Sovereign LORD says: \"'I will destroy the idols and put an end to the images in Memphis. No longer will there be a prince in Egypt, and I will spread fear throughout the land.",
     Ind:"Beginilah firman Tuhan ALLAH: Aku akan membinasakan berhala-berhala dan meniadakan dewa-dewa dari Memfis; dan tidak akan ada lagi pemimpin di tanah Mesir dan Aku akan menimbulkan ketakutan di sana."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:14, Page:1,
-    Kor:"내가 e상 이집트 땅을 황무지로 만들어 버리고, 소안에 불을 지르고, f테베를 심판하겠다. (e 히, '바드로스' f 히, '노')",
+    Kor:"내가 상 이집트 땅을 황무지로 만들어 버리고, 소안에 불을 지르고, 테베를 심판하겠다.",
     Chn:"我必使巴忒罗荒凉， 在琐安中使火着起， 向挪施行审判。",
     Eng:"I will lay waste Upper Egypt, set fire to Zoan and inflict punishment on Thebes.",
     Ind:"Aku akan memusnahkan Patros dan menimbulkan api di Soan dan menjatuhkan hukuman atas Tebe."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:15, Page:1,
-    Kor:"또 내가 이집트의 요새인 g펠루시움에 내 분노를 쏟아 붓고, 테베의 무리들을 멸하겠다. (g 히, '신')",
+    Kor:"또 내가 이집트의 요새인 펠루시움에 내 분노를 쏟아 붓고, 테베의 무리들을 멸하겠다.",
     Chn:"我必将我的忿怒倒在埃及的保障上， 就是训上， 并要剪除挪的众人。",
     Eng:"I will pour out my wrath on Pelusium, the stronghold of Egypt, and cut off the hordes of Thebes.",
     Ind:"Aku akan mencurahkan amarah-Ku atas Sin, benteng Mesir dan melenyapkan kekayaan Tebe."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:16, Page:1,
-    Kor:"내가 이집트에 불을 지르면 g펠루시움의 요새가 고통으로 몸부림칠 것이고, 테베는 적에게 뚫릴 것이며, 멤피스에는 날마다 적들이 쳐들어갈 것이다. (g 히, '신')",
+    Kor:"내가 이집트에 불을 지르면 펠루시움의 요새가 고통으로 몸부림칠 것이고, 테베는 적에게 뚫릴 것이며, 멤피스에는 대낮에 적들이 쳐들어갈 것이다.",
     Chn:"我必在埃及中使火着起； 训必大大痛苦； 挪必被攻破； 挪弗白日见仇敌。",
     Eng:"I will set fire to Egypt; Pelusium will writhe in agony. Thebes will be taken by storm; Memphis will be in constant distress.",
     Ind:"Aku akan menimbulkan api di Mesir, Sin akan gemetar dan Tebe akan direbut dan tembok-temboknya akan dibongkar."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:17, Page:1,
-    Kor:"h헬리오폴리스와 i부바스티스의 젊은이들은 칼에 쓰러질 것이며, 주민은 포로로 끌려갈 것이다. (h 히, '아웬' i 히, '비베셋')",
+    Kor:"헬리오폴리스와 부바스티스의 젊은이들은 칼에 쓰러질 것이며, 주민은 포로로 끌려갈 것이다.",
     Chn:"亚文和比伯实的少年人必倒在刀下； 这些城的人必被掳掠。",
     Eng:"The young men of Heliopolis and Bubastis will fall by the sword, and the cities themselves will go into captivity.",
     Ind:"Teruna-teruna On dan Pi-Beset akan mati rebah oleh pedang dan perempuan-perempuan akan diangkut tertawan."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Dan Aku akan menjatuhkan hukuman atas Mesir dan mereka akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:30, Verse:20, Page:1,
-    Kor:"<이집트 왕의 부러진 팔> ○제 십일년 첫째 달 칠일에 주님께서 나에게 말씀하셨다.",
+    Kor:"○제 십일년 첫째 달 칠일에 주께서 나에게 말씀하셨다.",
     Chn:"十一年正月初七日，耶和华的话临到我说：",
     Eng:"In the eleventh year, in the first month on the seventh day, the word of the LORD came to me:",
     Ind:"Pada tahun kesebelas, dalam bulan pertama, pada tanggal tujuh bulan itu, datanglah firman TUHAN kepadaku:"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Ya, Aku akan menguatkan tangan raja Babel, tetapi tangan raja Firaun akan jatuh terkulai. Dan mereka akan mengetahui bahwa Akulah TUHAN, pada saat Aku memberikan pedang-Ku dalam tangan raja Babel dan ia mengacungkannya melawan tanah Mesir."
   },
   {Bible:"Ezekiel", Chapter:30, Verse:26, Page:1,
-    Kor:"내가 이집트 사람들을 여러 민족 가운데 흩어 놓고, 그들을 뭇 나라로 헤쳐 놓겠다. 그 때에야 비로소 그들은, 내가 주인 줄 알 것이다.\"",
+    Kor:"내가 이집트 사람들을 여러 민족 가운데 흩어 놓고, 그들을 뭇 나라로 헤쳐 놓겠다. 그 때에야, 비로소 그들은, 내가 주인 줄 알 것이다.\"",
     Chn:"我必将埃及人分散在列国，四散在列邦；他们就知道我是耶和华。」",
     Eng:"I will disperse the Egyptians among the nations and scatter them through the countries. Then they will know that I am the LORD.\"",
     Ind:"Aku akan menyerakkan orang Mesir di antara bangsa-bangsa dan menghamburkan mereka ke semua negeri. Dan mereka akan mengetahui bahwa Akulah TUHAN.\""

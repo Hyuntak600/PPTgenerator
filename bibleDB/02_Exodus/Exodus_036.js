@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",36,38);
 BibleDB.add([
   {Bible:"Exodus", Chapter:36, Verse:1, Page:1,
-    Kor:"그러므로 브살렐과 오홀리압과 기술 있는 모든 사람, 곧 주님께서 지혜와 총명을 주셔서 성소의 제사에 필요한 모든 것을 만들 줄 아는 사람들은, 모든 것을 주님께서 명하신 그대로 만들어야 합니다.\"",
+    Kor:"그러므로 브살렐과 오홀리압과 기술 있는 모든 사람, 곧 주께서 지혜와 총명을 주셔서, 성소의 제사에 필요한 모든 것을 만들 줄 아는 사람들은, 모든 것을 주께서 명하신 그대로 만들어야 한다.\"",
     Chn:"「比撒列和亚何利亚伯，并一切心里有智慧的，就是蒙耶和华赐智慧聪明、叫他知道做圣所各样使用之工的，都要照耶和华所吩咐的做工。」",
     Eng:"So Bezalel, Oholiab and every skilled person to whom the LORD has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the LORD has commanded.\"",
     Ind:"Demikianlah harus bekerja Bezaleel dan Aholiab, dan setiap orang yang ahli, yang telah dikaruniai TUHAN keahlian dan pengertian, sehingga ia tahu melakukan segala macam pekerjaan untuk mendirikan tempat kudus, tepat menurut yang diperintahkan TUHAN.\""
   },
   {Bible:"Exodus", Chapter:36, Verse:2, Page:1,
-    Kor:"<자재 헌납> ○모세는, 브살렐과 오홀리압과, 주님께서 그 마음에 지혜를 더하여 주신 기술 있는 모든 사람, 곧 타고난 재주가 있어서 기꺼이 그 일을 하고자 하는 모든 사람을 불러모았다.",
+    Kor:"○모세는, 브살렐과 오홀리압과, 주께서 그 마음에 지혜를 더하여 주신, 기술 있는 모든 사람, 곧 타고난 재주가 있어서 기꺼이 그 일을 하고자 하는 모든 사람을 불러모았다.",
     Chn:"凡耶和华赐他心里有智慧、而且受感前来做这工的，摩西把他们和比撒列并亚何利亚伯一同召来。",
     Eng:"Then Moses summoned Bezalel and Oholiab and every skilled person to whom the LORD had given ability and who was willing to come and do the work.",
     Ind:"Lalu Musa memanggil Bezaleel dan Aholiab dan setiap orang yang ahli, yang dalam hatinya telah ditanam TUHAN keahlian, setiap orang yang tergerak hatinya untuk datang melakukan pekerjaan itu."
   },
   {Bible:"Exodus", Chapter:36, Verse:3, Page:1,
-    Kor:"그들은 이스라엘 자손이 성소의 제사에 필요한 것을 만드는 데 쓰라고 가져온 모든 예물을 모세에게서 받았다. 그런 다음에도 사람들은 아침마다 계속 자원하여 예물을 가져 왔다.",
+    Kor:"그들은, 이스라엘 자손이 성소의 제사에 필요한 것을 만드는 데 쓰라고 가져온 모든 예물을 모세에게서 받았다. 그런 다음에도 사람들은 아침마다 계속, 자원하여 예물을 가져 왔다.",
     Chn:"这些人就从摩西收了以色列人为做圣所并圣所使用之工所拿来的礼物。百姓每早晨还把甘心献的礼物拿来。",
     Eng:"They received from Moses all the offerings the Israelites had brought to carry out the work of constructing the sanctuary. And the people continued to bring freewill offerings morning after morning.",
     Ind:"Mereka menerima dari pada Musa seluruh persembahan khusus, yang telah dibawa oleh orang Israel untuk melaksanakan pekerjaan mendirikan tempat kudus. Tetapi orang Israel itu masih terus membawa pemberian sukarela kepada Musa tiap-tiap pagi."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Dan segala orang ahli yang melakukan seluruh pekerjaan untuk tempat kudus itu, datanglah masing-masing dari pekerjaan yang dilakukannya,"
   },
   {Bible:"Exodus", Chapter:36, Verse:5, Page:1,
-    Kor:"이르기를 \"백성들이, 주님께서 명하신 일을 하는 데에 쓰고도 남을 만큼 많은 것을 가져 오고 있습니다\" 하였다.",
+    Kor:"이르기를 \"백성들이, 주께서 명하신 일을 하는 데에, 쓰고도 남을 만큼 많은 것을 가져 오고 있습니다\" 하였다.",
     Chn:"来对摩西说：「百姓为耶和华吩咐使用之工所拿来的，富富有余。」",
     Eng:"and said to Moses, \"The people are bringing more than enough for doing the work the LORD commanded to be done.\"",
     Ind:"dan berkata kepada Musa: \"Rakyat membawa lebih banyak dari yang diperlukan untuk mengerjakan pekerjaan yang diperintahkan TUHAN untuk dilakukan.\""
   },
   {Bible:"Exodus", Chapter:36, Verse:6, Page:1,
-    Kor:"그래서 모세는 진중에 명령을 내려서 '남자든 여자든, 성소에서 쓸 물품을 더는 헌납하지 말라'고 알리니, 백성들이 더 이상 바치지 않았다.",
+    Kor:"그래서 모세는 진중에 명령을 내려서 \"남자든 여자든, 성소에서 쓸 물품을, 더는 헌납하지 말아라\" 하고 알리니, 백성들이 더 이상 바치지 않았다.",
     Chn:"摩西传命，他们就在全营中宣告说：「无论男女，不必再为圣所拿什么礼物来。」这样才拦住百姓不再拿礼物来。",
     Eng:"Then Moses gave an order and they sent this word throughout the camp: \"No man or woman is to make anything else as an offering for the sanctuary.\" And so the people were restrained from bringing more,",
     Ind:"Lalu Musa memerintahkan, supaya dimaklumkan di mana-mana di perkemahan itu, demikian: \"Tidak usah lagi ada orang laki-laki atau perempuan yang membuat sesuatu menjadi persembahan khusus bagi tempat kudus.\" Demikianlah rakyat itu dicegah membawa persembahan lagi."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Sebab bahan yang diperlukan mereka telah cukup untuk melakukan segala pekerjaan itu, bahkan berlebih."
   },
   {Bible:"Exodus", Chapter:36, Verse:8, Page:1,
-    Kor:"<성막을 만들다(출 26:1-37)> ○일을 하는 사람들 가운데, 기술이 있는 사람은 모두 열 폭 천으로 성막을 만들었다. 그 천은 가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로, 그룹을 정교하게 수를 놓아서 짠 것이다.",
+    Kor:"○일을 하는 사람들 가운데, 기술이 있는 사람은 모두 열 폭 천으로 성막을 만들었다. 그 천은 가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로, 그룹을 정교하게 수를 놓아서 짠 것이다.",
     Chn:"他们中间，凡心里有智慧做工的，用十幅幔子做帐幕。这幔子是比撒列用捻的细麻和蓝色、紫色、朱红色线制造的，并用巧匠的手工绣上基路伯。",
     Eng:"All the skilled men among the workmen made the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.",
     Ind:"Lalu semua ahli di antara tukang-tukang itu membuat Kemah Suci dari sepuluh tenda dari lenan halus yang dipintal benangnya dan dari kain ungu tua, kain ungu muda dan kain kirmizi; dengan ada kerubnya, buatan ahli tenun, dibuat orang semuanya itu."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Panjang tiap-tiap tenda dua puluh delapan hasta dan lebar tiap-tiap tenda empat hasta: semua tenda itu sama ukurannya."
   },
   {Bible:"Exodus", Chapter:36, Verse:10, Page:1,
-    Kor:"○먼저 다섯 폭을 옆으로 나란히 이어 한 벌을 만들고, 또 다른 다섯 폭도 옆으로 나란히 이어서 한 벌을 만들었다.",
+    Kor:"○먼저, 다섯 폭을 옆으로 나란히 이어 한 벌을 만들고, 또 다른 다섯 폭도 옆으로 나란히 이어서 한 벌을 만들었다.",
     Chn:"他使这五幅幔子幅幅相连，又使那五幅幔子幅幅相连；",
     Eng:"They joined five of the curtains together and did the same with the other five.",
     Ind:"Lima dari tenda itu dirangkap menjadi satu, dan yang lima lagi juga dirangkap menjadi satu."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"lima kayu lintang untuk papan-papan pada sisi yang kedua dari Kemah Suci, dan lima kayu lintang untuk papan-papan Kemah Suci yang merupakan sisi belakangnya, pada sebelah barat."
   },
   {Bible:"Exodus", Chapter:36, Verse:33, Page:1,
-    Kor:"널빤지들의 가운데에 끼울 중간 가로다지는 이쪽 끝에서 저쪽 끝까지 이르게 만들었다.",
+    Kor:"널빤지들의 가운데에 끼울 중간 가로다지는, 이쪽 끝에서 저쪽 끝까지 이르게 만들었다.",
     Chn:"使板腰间的中闩从这一头通到那一头。",
     Eng:"They made the center crossbar so that it extended from end to end at the middle of the frames.",
     Ind:"Dibuat oranglah kayu lintang yang di tengah menjadi melintang terus di tengah-tengah papan-papan itu dari ujung ke ujung."

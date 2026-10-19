@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",45,28);
 BibleDB.add([
   {Bible:"Genesis", Chapter:45, Verse:1, Page:1,
-    Kor:"<요셉이 형제들에게 자기를 밝히다> 요셉은 북받치는 감정을 억누르지 못하고, 자기의 모든 시종들 앞에서 그만 모두들 물러가라고 소리쳤다. 주위 사람들을 물러나게 하고, 요셉은 드디어 자기가 누구인지를 형제들에게 밝히고 나서,",
+    Kor:"요셉은 북받치는 감정을 억누르지 못하고, 자기의 모든 시종들 앞에서 그만 \"모두들 물러가라!\" 하고 소리쳤다. 주위 사람들을 물러나게 하고, 요셉은 드디어 자기가 누구인지를 형제들에게 밝히고 나서,",
     Chn:"约瑟在左右站着的人面前情不自禁，吩咐一声说：「人都要离开我出去！」约瑟和弟兄们相认的时候并没有一人站在他面前。",
     Eng:"Then Joseph could no longer control himself before all his attendants, and he cried out,  \"Have everyone leave my presence!\" So there was no one with Joseph when he made himself known to  his brothers.",
     Ind:"Ketika itu Yusuf tidak dapat menahan hatinya lagi di depan semua orang yang berdiri di dekatnya, lalu berserulah ia: \"Suruhlah keluar semua orang dari sini.\" Maka tidak ada seorangpun yang tinggal di situ bersama-sama Yusuf, ketika ia memperkenalkan dirinya kepada saudara-saudaranya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Dan Yusuf berkata kepada saudara-saudaranya: \"Akulah Yusuf! Masih hidupkah bapa?\" Tetapi saudara-saudaranya tidak dapat menjawabnya, sebab mereka takut dan gemetar menghadapi dia."
   },
   {Bible:"Genesis", Chapter:45, Verse:4, Page:1,
-    Kor:"○\"이리 가까이 오십시오\" 하고 요셉이 형제들에게 말하니, 그제야 그들이 요셉 앞으로 다가왔다. \"내가, 형님들이 이집트로 팔아 넘긴 그 아우입니다.",
+    Kor:"○\"이리 가까이 오십시오\" 하고 요셉이 형제들에게 말하니, 그제야 그들이 요셉 앞으로 다가왔다. \"내가 형님들이 이집트로 팔아 넘긴 그 아우입니다.",
     Chn:"约瑟又对他弟兄们说：「请你们近前来。」他们就近前来。他说：「我是你们的兄弟约瑟，就是你们所卖到埃及的。",
     Eng:"Then Joseph said to his brothers, \"Come close to me.\" When they had done so, he said, \"I am  your brother Joseph, the one you sold into Egypt!",
     Ind:"Lalu kata Yusuf kepada saudara-saudaranya itu: \"Marilah dekat-dekat.\" Maka mendekatlah mereka. Katanya lagi: \"Akulah Yusuf, saudaramu, yang kamu jual ke Mesir."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Tetapi sekarang, janganlah bersusah hati dan janganlah menyesali diri, karena kamu menjual aku ke sini, sebab untuk memelihara kehidupanlah Allah menyuruh aku mendahului kamu."
   },
   {Bible:"Genesis", Chapter:45, Verse:6, Page:1,
-    Kor:"이 땅에 흉년이 든 지 이태가 됩니다. 앞으로도 다섯 해 동안은 밭을 갈지도 못하고 거두지도 못합니다.",
+    Kor:"이 땅에 흉년이 든 지 이태가 됩니다. 앞으로도 다섯 해 동안은, 밭을 갈지도 못하고, 거두지도 못합니다.",
     Chn:"现在这地的饥荒已经二年了，还有五年不能耕种，不能收成。",
     Eng:"For two years now there has been famine in the land, and for the next five years there will  not be plowing and reaping.",
     Ind:"Karena telah dua tahun ada kelaparan dalam negeri ini dan selama lima tahun lagi orang tidak akan membajak atau menuai."
   },
   {Bible:"Genesis", Chapter:45, Verse:7, Page:1,
-    Kor:"하나님이 나를 형님들보다 앞서서 보내신 것은, 하나님이 크나큰 구원을 베푸셔서 형님들의 목숨을 지켜 주시려는 것이고, 또 형님들의 자손을 이 세상에 살아 남게 하시려는 것입니다.",
+    Kor:"하나님이 나를 형님들보다 앞서서 보내신 것은, 하나님이 크나큰 구원을 베푸셔서 형님들의 목숨을 지켜 주시는 것이고, 또 형님들의 자손을 이 세상에 살아 남게 하시려는 것입니다.",
     Chn:"神差我在你们以先来，为要给你们存留余种在世上，又要大施拯救，保全你们的生命。",
     Eng:"But God sent me ahead of you to preserve for you a remnant on earth and to save your lives  by a great deliverance.",
     Ind:"Maka Allah telah menyuruh aku mendahului kamu untuk menjamin kelanjutan keturunanmu di bumi ini dan untuk memelihara hidupmu, sehingga sebagian besar dari padamu tertolong."
   },
   {Bible:"Genesis", Chapter:45, Verse:8, Page:1,
-    Kor:"그러므로 실제로 나를 이리로 보낸 것은 형님들이 아니라 하나님이십니다. 하나님이 나를 이리로 보내셔서, 바로의 아버지가 되게 하시고, 바로의 온 집안의 최고의 어른이 되게 하시고, 이집트 온 땅의 통치자로 세우신 것입니다.",
+    Kor:"그러므로 실제로 나를 이리로 보낸 것은, 형님들이 아니라, 하나님이십니다. 하나님이 나를 이리로 보내셔서, 바로의 아버지가 되게 하시고, 바로의 온 집안의 최고의 어른이 되게 하시고, 이집트 온 땅의 통치자로 세우신 것입니다.",
     Chn:"这样看来，差我到这里来的不是你们，乃是　神。他又使我如法老的父，作他全家的主，并埃及全地的宰相。",
     Eng:"\"So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of  his entire household and ruler of all Egypt.",
     Ind:"Jadi bukanlah kamu yang menyuruh aku ke sini, tetapi Allah; Dialah yang telah menempatkan aku sebagai bapa bagi Firaun dan tuan atas seluruh istananya dan sebagai kuasa atas seluruh tanah Mesir."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Engkau akan tinggal di tanah Gosyen dan akan dekat kepadaku, engkau serta anak dan cucumu, kambing domba dan lembu sapimu dan segala milikmu."
   },
   {Bible:"Genesis", Chapter:45, Verse:11, Page:1,
-    Kor:"흉년이 아직 다섯 해나 더 계속됩니다. 제가 여기에서 아버지를 모시겠습니다. 아버지와 아버지의 집안과 아버지께 딸린 모든 식구가 아쉬운 것이 없도록 해 드리겠습니다' 하고 여쭈십시오.",
+    Kor:"흉년이 아직 다섯 해나 더 계속됩니다. 제가 여기에서 아버지를 모시겠습니다. 아버지와 아버지의 집안과 아버지께 딸린 모든 식구들이 아쉬울 것이 없도록 해 드리겠습니다' 하고 여쭈십시오.",
     Chn:"我要在那里奉养你；因为还有五年的饥荒，免得你和你的眷属，并一切所有的，都败落了。』",
     Eng:"I will provide for you there, because five years of famine are still to come. Otherwise you  and your household and all who belong to you will become destitute.'",
     Ind:"Di sanalah aku memelihara engkau--sebab kelaparan ini masih ada lima tahun lagi--supaya engkau jangan jatuh miskin bersama seisi rumahmu dan semua orang yang ikut serta dengan engkau."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Sebab itu ceritakanlah kepada bapa segala kemuliaanku di negeri Mesir ini, dan segala yang telah kamu lihat, kemudian segeralah bawa bapa ke mari.\""
   },
   {Bible:"Genesis", Chapter:45, Verse:14, Page:1,
-    Kor:"요셉이 자기 아우 베냐민의 목을 얼싸안고 우니, 베냐민도 울면서 요셉의 목에 매달렸다.",
+    Kor:"요셉이 자기 아우 베냐민의 목을 얼싸안고 우니, 베냐민도 울면서, 요셉의 목에 매달렸다.",
     Chn:"于是约瑟伏在他兄弟便雅悯的颈项上哭，便雅悯也在他的颈项上哭。",
     Eng:"Then he threw his arms around his brother Benjamin and wept, and Benjamin embraced him,  weeping.",
     Ind:"Lalu dipeluknyalah leher Benyamin, adiknya itu, dan menangislah ia, dan menangis pulalah Benyamin pada bahu Yusuf."
   },
   {Bible:"Genesis", Chapter:45, Verse:15, Page:1,
-    Kor:"요셉이 형들과도 하나하나 다 입을 맞추고, 부둥켜 안고 울었다. 그제야 요셉의 형들이 요셉과 말을 주고받았다.",
+    Kor:"요셉이 형들과도 하나하나 다 입을 맞추고, 부둥켜 안고 울었다. 그제야, 요셉의 형들이 요셉과 말을 주고받았다.",
     Chn:"他又与众弟兄亲嘴，抱着他们哭，随后他弟兄们就和他说话。",
     Eng:"And he kissed all his brothers and wept over them. Afterward his brothers talked with him.",
     Ind:"Yusuf mencium semua saudaranya itu dengan mesra dan ia menangis sambil memeluk mereka. Sesudah itu barulah saudara-saudaranya bercakap-cakap dengan dia."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Ketika dalam istana Firaun terdengar kabar, bahwa saudara-saudara Yusuf datang, hal itu diterima dengan baik oleh Firaun dan pegawai-pegawainya."
   },
   {Bible:"Genesis", Chapter:45, Verse:17, Page:1,
-    Kor:"바로가 요셉에게 말하였다. \"그대의 형제들에게 나의 말을 전하시오. 짐승들의 등에 짐을 싣고 가나안 땅으로 돌아가서,",
+    Kor:"바로가 요셉에게 말하였다. \"그대의 형제들에게 나의 말을 전하시오. 짐승들의 등에 짐을 싣고, 가나안 땅으로 돌아가서,",
     Chn:"法老对约瑟说：「你吩咐你的弟兄们说：『你们要这样行：把驮子抬在牲口上，起身往迦南地去。",
     Eng:"Pharaoh said to Joseph, \"Tell your brothers, 'Do this: Load your animals and return to the  land of Canaan,",
     Ind:"Lalu berkatalah Firaun kepada Yusuf: \"Katakanlah kepada saudara-saudaramu Buatlah begini: muatilah binatang-binatangmu dan pergilah ke tanah Kanaan,"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Kepada mereka masing-masing diberikannya sepotong pesalin dan kepada Benyamin diberikannya tiga ratus uang perak dan lima potong pesalin."
   },
   {Bible:"Genesis", Chapter:45, Verse:23, Page:1,
-    Kor:"요셉은 아버지에게 드릴 또 다른 예물을 마련하였다. 이집트에서 나는 귀한 물건을 수나귀 열 마리에 나누어 싣고, 아버지가 이집트로 오는 길에 필요한 곡식과 빵과 다른 먹거리는 암나귀 열 마리에 나누어 실었다.",
+    Kor:"요셉은 아버지에게 드릴 또 다른 예물을 마련하였다. 이집트에서 나는 귀한 물건을 수나귀 열 마리에 나누어 싣고, 아버지가 이집트로 오는 길에 필요한 곡식과 빵과 다른 먹을거리는 암나귀 열 마리에 나누어 실었다.",
     Chn:"送给他父亲公驴十匹，驮着埃及的美物，母驴十匹，驮着粮食与饼和菜，为他父亲路上用。",
     Eng:"And this is what he sent to his father: ten donkeys loaded with the best things of Egypt,  and ten female donkeys loaded with grain and bread and other provisions for his journey.",
     Ind:"Di samping itu kepada ayahnya dikirimkannya sepuluh ekor keledai jantan, dimuati dengan apa yang paling baik di Mesir, lagipula sepuluh ekor keledai betina, dimuati dengan gandum dan roti dan makanan untuk ayahnya dalam perjalanan."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Demikianlah mereka pergi dari tanah Mesir dan sampai di tanah Kanaan, kepada Yakub, ayah mereka."
   },
   {Bible:"Genesis", Chapter:45, Verse:26, Page:1,
-    Kor:"그들이 야곱에게 말하였다. \"요셉이 지금까지 살아 있습니다. 이집트 온 나라를 다스리는 총리가 되었습니다.\" 이 말을 듣고서 야곱은 정신이 나간 듯 어리벙벙하여, 그 말을 곧이들을 수가 없었다.",
+    Kor:"그들이 야곱에게 말하였다. \"요셉이 지금까지 살아 있습니다. 이집트 온 나라를 다스리는 총리가 되었습니다.\" 이 말을 듣고서, 야곱은 정신이 나간 듯 어리벙벙하여 그 말을 곧이들을 수가 없었다.",
     Chn:"告诉他说：「约瑟还在，并且作埃及全地的宰相。」雅各心里冰凉，因为不信他们。",
     Eng:"They told him, \"Joseph is still alive! In fact, he is ruler of all Egypt.\" Jacob was  stunned; he did not believe them.",
     Ind:"Mereka menceritakan kepadanya: \"Yusuf masih hidup, bahkan dialah yang menjadi kuasa atas seluruh tanah Mesir.\" Tetapi hati Yakub tetap dingin, sebab ia tidak dapat mempercayai mereka."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Tetapi ketika mereka menyampaikan kepadanya segala perkataan yang diucapkan Yusuf, dan ketika dilihatnya kereta yang dikirim oleh Yusuf untuk menjemputnya, maka bangkitlah kembali semangat Yakub, ayah mereka itu."
   },
   {Bible:"Genesis", Chapter:45, Verse:28, Page:1,
-    Kor:"\"이제는 죽어도 한이 없다. 내 아들 요셉이 아직 살아 있다니! 암, 가고말고! 내가 죽기 전에 그 아이를 보아야지!\" 하고 이스라엘은 중얼거렸다.",
+    Kor:"\"이제는 죽어도 한이 없다. 나의 아들 요셉이 아직 살아 있다니! 암, 가고말고! 내가 죽기 전에 그 아이를 보아야지!\" 하고 이스라엘은 중얼거렸다.",
     Chn:"以色列说：「罢了！罢了！我的儿子约瑟还在，趁我未死以先，我要去见他一面。」",
     Eng:"And Israel said, \"I'm convinced! My son Joseph is still alive. I will go and see him before  I die.\"",
     Ind:"Kata Yakub: \"Cukuplah itu; anakku Yusuf masih hidup; aku mau pergi melihatnya, sebelum aku mati.\""

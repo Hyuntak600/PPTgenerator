@@ -3,13 +3,13 @@
 BibleDB.ref("Luke",21,38);
 BibleDB.add([
   {Bible:"Luke", Chapter:21, Verse:1, Page:1,
-    Kor:"<과부의 헌금(막 12:41-44)> 예수께서 눈을 들어 부자들이 헌금궤에 a헌금 넣는 것을 보시고,(a 그, '예물')",
+    Kor:"예수께서 눈을 들어서, 부자들이 헌금궤에 헌금을 넣는 것을 보시고,",
     Chn:"耶稣抬头观看，见财主把捐项投在库里，",
     Eng:"As he looked up, Jesus saw the rich putting their gifts into the temple treasury.",
     Ind:"Ketika Yesus mengangkat muka-Nya, Ia melihat orang-orang kaya memasukkan persembahan mereka ke dalam peti persembahan."
   },
   {Bible:"Luke", Chapter:21, Verse:2, Page:1,
-    Kor:"또 어떤 가난한 과부가 거기에 b렙돈 두 닢을 넣는 것을 보셨다.(b 동전의 이름)",
+    Kor:"또 어떤 가난한 과부가 거기에 렙돈 두 닢을 넣는 것을 보셨다.",
     Chn:"又见一个穷寡妇投了两个小钱，",
     Eng:"He also saw a poor widow put in two very small copper coins.",
     Ind:"Ia melihat juga seorang janda miskin memasukkan dua peser ke dalam peti itu."
@@ -21,43 +21,43 @@ BibleDB.add([
     Ind:"Lalu Ia berkata: \"Aku berkata kepadamu, sesungguhnya janda miskin ini memberi lebih banyak dari pada semua orang itu."
   },
   {Bible:"Luke", Chapter:21, Verse:4, Page:1,
-    Kor:"저 사람들은 다 넉넉한 가운데서 자기들의 a헌금을 넣었지만, 이 과부는 구차한 가운데서 가지고 있는 생활비 전부를 털어 넣었다.\"(a 그, '예물')",
+    Kor:"저 사람들은 다 넉넉한 가운데서 자기들의 헌금을 넣었지만, 이 여자는 구차한 가운데서 가지고 있는 생활비 전부를 털어 넣었다.\"",
     Chn:"因为众人都是自己有余，拿出来投在捐项里，但这寡妇是自己不足，把她一切养生的都投上了。」",
     Eng:"All these people gave their gifts out of their wealth; but she out of her poverty put in all she had to live on.\"",
     Ind:"Sebab mereka semua memberi persembahannya dari kelimpahannya, tetapi janda ini memberi dari kekurangannya, bahkan ia memberi seluruh nafkahnya.\""
   },
   {Bible:"Luke", Chapter:21, Verse:5, Page:1,
-    Kor:"<성전이 무너질 것을 예언하시다(마 24:1-2; 막 13:1-2)> ○몇몇 사람들이 성전을 가리켜서, 아름다운 돌과 봉헌물로 꾸며 놓았다고 말들을 하니, 예수께서 말씀하셨다.",
+    Kor:"○몇몇 사람이 성전을 가리켜서, 아름다운 돌과 봉헌물로 꾸며 놓았다고 말들을 하니, 예수께서 말씀하셨다.",
     Chn:"有人谈论圣殿是用美石和供物妆饰的；",
     Eng:"Some of his disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said,",
     Ind:"Ketika beberapa orang berbicara tentang Bait Allah dan mengagumi bangunan itu yang dihiasi dengan batu yang indah-indah dan dengan berbagai-bagai barang persembahan, berkatalah Yesus:"
   },
   {Bible:"Luke", Chapter:21, Verse:6, Page:1,
-    Kor:"\"너희가 보고 있는 이것들이, 돌 한 개도 돌 위에 남지 않고 다 무너질 날이 올 것이다.\"",
+    Kor:"\"너희가 보고 있는 이것들이, 돌 하나도 돌 위에 남지 않고 다 무너질 날이 올 것이다.\"",
     Chn:"耶稣就说：「论到你们所看见的这一切，将来日子到了，在这里没有一块石头留在石头上，不被拆毁了。」",
     Eng:"\"As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down.\"",
     Ind:"\"Apa yang kamu lihat di situ--akan datang harinya di mana tidak ada satu batupun akan dibiarkan terletak di atas batu yang lain; semuanya akan diruntuhkan.\""
   },
   {Bible:"Luke", Chapter:21, Verse:7, Page:1,
-    Kor:"<재난의 징조(마 24:3-14; 막 13:3-13)> ○제자들이 예수께 물었다. \"선생님, 그러면 이런 일들이 언제 있겠습니까? 또 이런 일이 일어나려고 할 때에는, 무슨 징조가 있겠습니까?\"",
+    Kor:"○제자들이 예수께 물었다. \"선생님, 그러면 이런 일들이 언제 일어나겠습니까? 또 이런 일이 일어나려고 할 때에는, 무슨 징조가 있겠습니까?\"",
     Chn:"他们问他说：「夫子！什么时候有这事呢？这事将到的时候有什么预兆呢？」",
     Eng:"\"Teacher,\" they asked, \"when will these things happen? And what will be the sign that they are about to take place?\"",
     Ind:"Dan murid-murid bertanya kepada Yesus, katanya: \"Guru, bilamanakah itu akan terjadi? Dan apakah tandanya, kalau itu akan terjadi?\""
   },
   {Bible:"Luke", Chapter:21, Verse:8, Page:1,
-    Kor:"예수께서 대답하셨다. \"너희는 속지 않도록 조심하여라. 많은 사람이 내 이름으로 와서 말하기를 '내가 그리스도다' 하거나, '때가 가까이 왔다' 할 것이다. 그러나 그들을 따라가지 말아라.",
+    Kor:"예수께서 대답하셨다. \"너희는 속지 않도록 조심하여라. 많은 사람이 내 이름으로 와서는 '내가 그리스도다' 하거나 '때가 가까이 왔다' 할 것이다. 그러나 그들을 따라가지 말아라.",
     Chn:"耶稣说：「你们要谨慎，不要受迷惑；因为将来有好些人冒我的名来，说：『我是基督』，又说：『时候近了』，你们不要跟从他们！",
     Eng:"He replied: \"Watch out that you are not deceived. For many will come in my name, claiming, 'I am he,' and, 'The time is near.' Do not follow them.",
     Ind:"Jawab-Nya: \"Waspadalah, supaya kamu jangan disesatkan. Sebab banyak orang akan datang dengan memakai nama-Ku dan berkata: Akulah Dia, dan: Saatnya sudah dekat. Janganlah kamu mengikuti mereka."
   },
   {Bible:"Luke", Chapter:21, Verse:9, Page:1,
-    Kor:"전쟁과 난리의 소문을 듣더라도 두려워하지 말아라. 이런 일이 반드시 먼저 일어나야 한다. 그러나 종말이 곧 오는 것은 아니다.\"",
+    Kor:"○전쟁과 난리의 소문을 듣게 되어도 겁내지 말아라. 이런 일이 반드시 먼저 있어야 한다. 그러나 종말이 곧 오는 것은 아니다.\"",
     Chn:"你们听见打仗和扰乱的事，不要惊惶；因为这些事必须先有，只是末期不能立时就到。」",
     Eng:"When you hear of wars and revolutions, do not be frightened. These things must happen first, but the end will not come right away.\"",
     Ind:"Dan apabila kamu mendengar tentang peperangan dan pemberontakan, janganlah kamu terkejut. Sebab semuanya itu harus terjadi dahulu, tetapi itu tidak berarti kesudahannya akan datang segera.\""
   },
   {Bible:"Luke", Chapter:21, Verse:10, Page:1,
-    Kor:"그 때에 예수께서 그들에게 말씀하셨다. \"민족이 일어나 민족을 치고, 나라가 일어나 나라를 칠 것이다.",
+    Kor:"그 때에 예수께서 말씀하셨다. \"민족과 민족이 맞서 일어나고, 나라와 나라가 맞서 일어날 것이며,",
     Chn:"当时，耶稣对他们说：「民要攻打民，国要攻打国；",
     Eng:"Then he said to them: \"Nation will rise against nation, and kingdom against kingdom.",
     Ind:"Ia berkata kepada mereka: \"Bangsa akan bangkit melawan bangsa dan kerajaan melawan kerajaan,"
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"dan akan terjadi gempa bumi yang dahsyat dan di berbagai tempat akan ada penyakit sampar dan kelaparan, dan akan terjadi juga hal-hal yang mengejutkan dan tanda-tanda yang dahsyat dari langit."
   },
   {Bible:"Luke", Chapter:21, Verse:12, Page:1,
-    Kor:"그러나 이 모든 일이 일어나기에 앞서, 사람들이 너희에게 손을 대어 박해하고, 너희를 회당과 감옥에 넘겨줄 것이다. 너희는 내 이름 때문에 왕들과 총독들 앞에 끌려갈 것이다.",
+    Kor:"○그러나 이 모든 일이 일어나기에 앞서, 사람들이 너희에게 손을 대어 박해하고, 너희를 회당과 감옥에 넘겨 줄 것이다. 너희는 내 이름 때문에 왕들과 총독들 앞에 끌려갈 것이다.",
     Chn:"但这一切的事以先，人要下手拿住你们，逼迫你们，把你们交给会堂，并且收在监里，又为我的名拉你们到君王诸侯面前。",
     Eng:"\"But before all this, they will lay hands on you and persecute you. They will deliver you to synagogues and prisons, and you will be brought before kings and governors, and all on account of my name.",
     Ind:"Tetapi sebelum semuanya itu kamu akan ditangkap dan dianiaya; kamu akan diserahkan ke rumah-rumah ibadat dan penjara-penjara, dan kamu akan dihadapkan kepada raja-raja dan penguasa-penguasa oleh karena nama-Ku."
   },
   {Bible:"Luke", Chapter:21, Verse:13, Page:1,
-    Kor:"그러나 이것이, 너희에게는 증언할 기회가 될 것이다.",
+    Kor:"그러나 이것이, 너희에게는 증언의 기회가 될 것이다.",
     Chn:"但这些事终必为你们的见证。",
     Eng:"This will result in your being witnesses to them.",
     Ind:"Hal itu akan menjadi kesempatan bagimu untuk bersaksi."
   },
   {Bible:"Luke", Chapter:21, Verse:14, Page:1,
-    Kor:"그러므로 너희는 변호할 말을 미리부터 생각하지 않도록 명심하여라.",
+    Kor:"그러므로 너희는 명심해서, 변론할 말을 미리부터 생각하지 말아라.",
     Chn:"所以，你们当立定心意，不要预先思想怎样分诉；",
     Eng:"But make up your mind not to worry beforehand how you will defend yourselves.",
     Ind:"Sebab itu tetapkanlah di dalam hatimu, supaya kamu jangan memikirkan lebih dahulu pembelaanmu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Sebab Aku sendiri akan memberikan kepadamu kata-kata hikmat, sehingga kamu tidak dapat ditentang atau dibantah lawan-lawanmu."
   },
   {Bible:"Luke", Chapter:21, Verse:16, Page:1,
-    Kor:"너희의 부모와 형제와 친척과 친구들까지도 너희를 넘겨줄 것이요, 너희 가운데서 더러는 죽일 것이다.",
+    Kor:"너희의 부모와 형제와 친척과 친구들까지도 너희를 넘겨 줄 것이요, 너희 가운데서 더러는 죽일 것이다.",
     Chn:"连你们的父母、弟兄、亲族、朋友也要把你们交官；你们也有被他们害死的。",
     Eng:"You will be betrayed even by parents, brothers, relatives and friends, and they will put some of you to death.",
     Ind:"Dan kamu akan diserahkan juga oleh orang tuamu, saudara-saudaramu, kaum keluargamu dan sahabat-sahabatmu dan beberapa orang di antara kamu akan dibunuh"
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Tetapi tidak sehelaipun dari rambut kepalamu akan hilang."
   },
   {Bible:"Luke", Chapter:21, Verse:19, Page:1,
-    Kor:"너희는 참고 견디는 가운데 너희의 목숨을 c얻어라.\"(c 다른 고대 사본에는 '얻을 것이다')",
+    Kor:"너희는 참고 견디는 가운데 너희의 생명을 얻어라.\"",
     Chn:"你们常存忍耐，就必保全灵魂。」",
     Eng:"By standing firm you will gain life.",
     Ind:"Kalau kamu tetap bertahan, kamu akan memperoleh hidupmu.\""
   },
   {Bible:"Luke", Chapter:21, Verse:20, Page:1,
-    Kor:"<예루살렘의 멸망을 예언하시다(마 24:15-21; 막 13:14-19)> ○\"예루살렘이 군대에게 포위 당하는 것을 보거든, 그 도성의 파멸이 가까이 온 줄 알아라.",
+    Kor:"○\"예루살렘이 군대에게 포위당하는 것을 보거든, 그 도시의 파멸이 가까이 온 줄 알아라.",
     Chn:"「你们看见耶路撒冷被兵围困，就可知道它成荒场的日子近了。",
     Eng:"\"When you see Jerusalem being surrounded by armies, you will know that its desolation is near.",
     Ind:"\"Apabila kamu melihat Yerusalem dikepung oleh tentara-tentara, ketahuilah, bahwa keruntuhannya sudah dekat."
   },
   {Bible:"Luke", Chapter:21, Verse:21, Page:1,
-    Kor:"그 때에 유대에 있는 사람들은 산으로 도망하고, 그 도성 안에 있는 사람들은 거기에서 빠져나가고, 산골에 있는 사람들은 그 성 안으로 들어가지 말아라.",
+    Kor:"그 때에 유대에 있는 사람들은 산으로 도망하고, 그 도시 안에 있는 사람들은 거기에서 빠져 나가고, 산골에 있는 사람들은 그 성 안으로 들어가지 말아라.",
     Chn:"那时，在犹太的应当逃到山上；在城里的应当出来；在乡下的不要进城；",
     Eng:"Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country not enter the city.",
     Ind:"Pada waktu itu orang-orang yang berada di Yudea harus melarikan diri ke pegunungan, dan orang-orang yang berada di dalam kota harus mengungsi, dan orang-orang yang berada di pedusunan jangan masuk lagi ke dalam kota,"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"sebab itulah masa pembalasan di mana akan genap semua yang ada tertulis."
   },
   {Bible:"Luke", Chapter:21, Verse:23, Page:1,
-    Kor:"그 날에는, 아이 밴 여자들과 젖먹이가 딸린 여자들은 화가 있다. 땅에는 큰 재난이 닥치겠고, 이 백성에게는 무서운 진노가 내릴 것이다.",
+    Kor:"그 날에는, 임신한 여자들과 젖먹이가 딸린 여자들은 불행하다. 땅에는 큰 재난이 닥치겠고, 이 백성에게는, 무서운 진노가 내릴 것이다.",
     Chn:"当那些日子，怀孕的和奶孩子的有祸了！因为将有大灾难降在这地方，也有震怒临到这百姓。",
     Eng:"How dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people.",
     Ind:"Celakalah ibu-ibu yang sedang hamil atau yang menyusukan bayi pada masa itu! Sebab akan datang kesesakan yang dahsyat atas seluruh negeri dan murka atas bangsa ini,"
   },
   {Bible:"Luke", Chapter:21, Verse:24, Page:1,
-    Kor:"그들은 칼날에 쓰러지고, 뭇 이방 나라에 포로로 잡혀갈 것이요, 예루살렘은 이방 사람들의 때가 차기까지, 이방 사람들에게 짓밟힐 것이다.\"",
+    Kor:"그들은 칼날에 쓰러지고, 뭇 이방 나라에 포로로 잡혀 갈 것이요, 예루살렘은 이방 사람들의 때가 차기까지, 이방 사람들에게 짓밟힐 것이다.\"",
     Chn:"他们要倒在刀下，又被掳到各国去。耶路撒冷要被外邦人践踏，直到外邦人的日期满了。」",
     Eng:"They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled.",
     Ind:"dan mereka akan tewas oleh mata pedang dan dibawa sebagai tawanan ke segala bangsa, dan Yerusalem akan diinjak-injak oleh bangsa-bangsa yang tidak mengenal Allah, sampai genaplah zaman bangsa-bangsa itu.\""
   },
   {Bible:"Luke", Chapter:21, Verse:25, Page:1,
-    Kor:"<인자가 오실 때의 현상(마 24:29-31; 막 13:24-27)> ○\"그리고 해와 달과 별들에서 징조들이 나타나고, 땅에서는 민족들이 바다와 파도의 성난 소리 때문에 어쩔 줄을 몰라서 괴로워할 것이다.",
+    Kor:"○\"그리고 해와 달과 별들에서 징조들이 나타나고, 땅에서는 민족들이 바다의 태풍 소리와 성난 파도 때문에 어쩔 줄을 몰라서 괴로워할 것이다.",
     Chn:"「日、月、星辰要显出异兆，地上的邦国也有困苦；因海中波浪的响声，就慌慌不定。",
     Eng:"\"There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea.",
     Ind:"\"Dan akan ada tanda-tanda pada matahari dan bulan dan bintang-bintang, dan di bumi bangsa-bangsa akan takut dan bingung menghadapi deru dan gelora laut."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Orang akan mati ketakutan karena kecemasan berhubung dengan segala apa yang menimpa bumi ini, sebab kuasa-kuasa langit akan goncang."
   },
   {Bible:"Luke", Chapter:21, Verse:27, Page:1,
-    Kor:"그 때에 사람들은 인자가 큰 권능과 영광을 띠고 구름을 타고 오는 것을 볼 것이다.",
+    Kor:"그 때에 사람들은 인자가 큰 권능과 영광으로 구름을 타고 오는 것을 볼 것이다.",
     Chn:"那时，他们要看见人子有能力，有大荣耀驾云降临。",
     Eng:"At that time they will see the Son of Man coming in a cloud with power and great glory.",
     Ind:"Pada waktu itu orang akan melihat Anak Manusia datang dalam awan dengan segala kekuasaan dan kemuliaan-Nya."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Apabila semuanya itu mulai terjadi, bangkitlah dan angkatlah mukamu, sebab penyelamatanmu sudah dekat.\""
   },
   {Bible:"Luke", Chapter:21, Verse:29, Page:1,
-    Kor:"<무화과나무의 교훈(마 24:32-35; 막 13:28-31)> ○예수께서 그들에게 비유를 하나 말씀하셨다. \"무화과나무와 모든 나무를 보아라.",
+    Kor:"○예수께서 그들에게 비유를 하나 말씀하셨다. \"무화과나무와 모든 나무를 보아라.",
     Chn:"耶稣又设比喻对他们说：「你们看无花果树和各样的树；它发芽的时候，你们一看见，自然晓得夏天近了。",
     Eng:"He told them this parable: \"Look at the fig tree and all the trees.",
     Ind:"Lalu Yesus mengatakan perumpamaan ini kepada mereka: \"Perhatikanlah pohon ara atau pohon apa saja.",
@@ -184,7 +184,7 @@ BibleDB.add([
     Ind:"Apabila kamu melihat pohon-pohon itu sudah bertunas, kamu tahu dengan sendirinya bahwa musim panas sudah dekat."
   },
   {Bible:"Luke", Chapter:21, Verse:31, Page:1,
-    Kor:"이와 같이 너희도 이런 일들이 일어나는 것을 보거든, 하나님의 나라가 가까이 온 줄로 알아라.",
+    Kor:"이와 같이, 너희도 이런 일들이 일어나는 것을 보거든, 하나님의 나라가 가까이 온 줄로 알아라.",
     Chn:"这样，你们看见这些事渐渐地成就，也该晓得　神的国近了。",
     Eng:"Even so, when you see these things happening, you know that the kingdom of God is near.",
     Ind:"Demikian juga, jika kamu melihat hal-hal itu terjadi, ketahuilah, bahwa Kerajaan Allah sudah dekat."
@@ -196,25 +196,25 @@ BibleDB.add([
     Ind:"Aku berkata kepadamu: Sesungguhnya angkatan ini tidak akan berlalu, sebelum semuanya terjadi."
   },
   {Bible:"Luke", Chapter:21, Verse:33, Page:1,
-    Kor:"하늘과 땅은 없어질지라도, 내 말은 절대로 없어지지 않을 것이다.\"",
+    Kor:"하늘과 땅은 없어질지라도, 내 말은 절대로 없어지지 않을 것이다.",
     Chn:"天地要废去，我的话却不能废去。」",
     Eng:"Heaven and earth will pass away, but my words will never pass away.",
     Ind:"Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu.\""
   },
   {Bible:"Luke", Chapter:21, Verse:34, Page:1,
-    Kor:"<깨어 있어라> ○\"너희는 스스로 조심해서, 방탕과 술취함과 세상살이의 걱정으로 너희의 마음이 짓눌리지 않게 하고, 또한 그 날이 덫과 같이 너희에게 닥치지 않게 하여라.",
+    Kor:"○너희는 스스로 조심해서, 방탕과 술취함과 세상살이의 걱정으로 너희의 마음이 짓눌리지 않게 하고, 또한 그 날이 덫과 같이 너희에게 닥치지 않게 하여라.",
     Chn:"「你们要谨慎，恐怕因贪食、醉酒，并今生的思虑累住你们的心，那日子就如同网罗忽然临到你们；",
     Eng:"\"Be careful, or your hearts will be weighed down with dissipation, drunkenness and the anxieties of life, and that day will close on you unexpectedly like a trap.",
     Ind:"\"Jagalah dirimu, supaya hatimu jangan sarat oleh pesta pora dan kemabukan serta kepentingan-kepentingan duniawi dan supaya hari Tuhan jangan dengan tiba-tiba jatuh ke atas dirimu seperti suatu jerat."
   },
   {Bible:"Luke", Chapter:21, Verse:35, Page:1,
-    Kor:"그 날은 온 땅에 사는 모든 사람에게 닥칠 것이다.",
+    Kor:"그 날은 온 땅 위에 사는 모든 사람에게 닥칠 것이다.",
     Chn:"因为那日子要这样临到全地上一切居住的人。",
     Eng:"For it will come upon all those who live on the face of the whole earth.",
     Ind:"Sebab ia akan menimpa semua penduduk bumi ini."
   },
   {Bible:"Luke", Chapter:21, Verse:36, Page:1,
-    Kor:"그러니 너희는 앞으로 일어날 이 모든 일을 능히 피하고, 또 인자 앞에 설 수 있도록, 기도하면서 늘 깨어 있어라.\"",
+    Kor:"그러니 너희는 앞으로 일어날 이 모든 일을 능히 피하고 또 인자 앞에 설 수 있도록, 기도하면서 늘 깨어 있어라.\"",
     Chn:"你们要时时警醒，常常祈求，使你们能逃避这一切要来的事，得以站立在人子面前。」",
     Eng:"Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man.\"",
     Ind:"Berjaga-jagalah senantiasa sambil berdoa, supaya kamu beroleh kekuatan untuk luput dari semua yang akan terjadi itu, dan supaya kamu tahan berdiri di hadapan Anak Manusia.\""

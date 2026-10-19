@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",20,43);
 BibleDB.add([
   {Bible:"1Kings", Chapter:20, Verse:1, Page:1,
-    Kor:"<시리아와의 전쟁> 시리아 왕 벤하닷은 군대를 모두 모았다. 지방 영주 서른두 명과 기마병과 병거들이 모이자, 그는 올라가서, 사마리아 성을 포위하고, 공격하였다.",
+    Kor:"시리아 왕 벤하닷은 군대를 모두 모았다. 지방 영주 서른두 명과 기마병과 병거들이 모이자, 그는 올라가서, 사마리아 성을 포위하고, 공격하였다.",
     Chn:"亚兰王便·哈达聚集他的全军，率领三十二个王，带着车马上来围攻撒马利亚；",
     Eng:"Now Ben-Hadad king of Aram mustered his entire army. Accompanied by thirty-two kings with their horses and chariots, he went up and besieged Samaria and attacked it.",
     Ind:"Benhadad, raja Aram, mengumpulkan seluruh tentaranya, tiga puluh dua orang raja bersama-sama dia beserta kuda dan kereta. Lalu ia maju, ia mengepung Samaria dan memeranginya."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sesudah itu utusan-utusan itu kembali dan berkata: \"Beginilah pesan Benhadad: Memang aku telah menyuruh orang kepadamu mengatakan: Emas dan perakmu, isteri-isteri dan anak-anakmu harus kauserahkan kepadaku,"
   },
   {Bible:"1Kings", Chapter:20, Verse:6, Page:1,
-    Kor:"내일 이맘때쯤에 내가 내 신하들을 보내겠다. 그들이 네 집과 신하들의 집을 뒤져서, a그들의 눈에 드는 것은 무엇이나 가져 올 것이니, 그리 알아라.\"(a 칠십인역과 시리아어역과 불가타를 따름. 히, '네 눈에')",
+    Kor:"내일 이맘때쯤에, 내가 내 신하들을 보내겠다. 그들이 네 집과 신하들의 집을 뒤져서, 그들의 눈에 드는 것은 무엇이나 가져 올 것이니, 그리 알아라.\"",
     Chn:"但明日约在这时候，我还要差遣臣仆到你那里，搜查你的家和你仆人的家，将你眼中一切所喜爱的都拿了去。」",
     Eng:"But about this time tomorrow I am going to send my officials to search your palace and the houses of your officials. They will seize everything you value and carry it away.'\"",
     Ind:"tetapi besok kira-kira pada waktu ini, aku akan menyuruh pegawai-pegawaiku kepadamu dan mereka akan menggeledah rumahmu dan rumah pegawai-pegawaimu, maka segala yang mereka lihat dan ingini akan mereka ambil dan mereka bawa.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Tetapi raja Israel menjawab, katanya: \"Katakanlah! Orang yang baru menyandangkan pedang janganlah memegahkan diri seperti orang yang sudah menanggalkannya.\""
   },
   {Bible:"1Kings", Chapter:20, Verse:12, Page:1,
-    Kor:"벤하닷은 지방 영주들과 함께 막사에서 술을 마시고 있다가, 이 말을 듣고는, 신하들에게 공격 준비를 갖추라고 명령을 내렸다. 그들은 곧 b사마리아 성을 공격할 준비를 갖추었다.(b 히, '성을')",
+    Kor:"벤하닷은 지방 영주들과 함께 막사에서 술을 마시고 있다가, 이 말을 듣고는, 신하들에게 공격 준비를 갖추라고 명령을 내렸다. 그들은 곧 사마리아 성을 공격할 준비를 갖추었다.",
     Chn:"便·哈达和诸王正在帐幕里喝酒，听见这话，就对他臣仆说：「摆队吧！」他们就摆队攻城。",
     Eng:"Ben-Hadad heard this message while he and the kings were drinking in their tents, and he ordered his men: \"Prepare to attack.\" So they prepared to attack the city.",
     Ind:"Segera sesudah Benhadad mendengar perkataan itu, pada waktu ia sedang minum-minum dengan raja-raja di pondok, berkatalah ia kepada pegawai-pegawainya: \"Aturlah barisanmu,\" lalu mereka mengatur barisannya melawan kota itu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tetapi tiba-tiba tampillah seorang nabi kepada Ahab, raja Israel, serta berkata: \"Beginilah firman TUHAN: Sudahkah kaulihat semua orang yang sangat ramai itu? Bahwasanya pada hari ini Aku akan menyerahkan mereka ke dalam tanganmu, supaya engkau tahu, bahwa Akulah TUHAN.\""
   },
   {Bible:"1Kings", Chapter:20, Verse:14, Page:1,
-    Kor:"아합이 물었다. \"진 앞에는 누가 섭니까?\" 예언자가 대답하였다. \"주님께서 말씀하시기를, 지방장관들의 젊은 부하들을 앞세우라고 하셨습니다.\" 그러자 아합은 다시 물었다. \"누가 총지휘를 합니까?\" 그 예언자가 대답하였다. \"임금님이십니다.\"",
+    Kor:"아합이 물었다. \"진 앞에는 누가 섭니까?\" 예언자가 대답하였다. \"주께서 말씀하시기를, 지방장관들의 젊은 부하들을 앞세우라고 하셨습니다.\" 그러자 아합은 다시 물었다. \"누가 총지휘를 합니까?\" 그 예언자가 대답하였다. \"임금님이십니다.\"",
     Chn:"亚哈说：「借着谁呢？」他回答说：「耶和华说，借着跟从省长的少年人。」亚哈说：「要谁率领呢？」他说：「要你亲自率领。」",
     Eng:"\"But who will do this?\" asked Ahab. The prophet replied, \"This is what the LORD says: 'The young officers of the provincial commanders will do it.'\" \"And who will start the battle?\" he asked. The prophet answered, \"You will.\"",
     Ind:"Lalu bertanyalah Ahab: \"Dengan bantuan siapa?\" Jawabnya: \"Beginilah firman TUHAN: Dengan bantuan orang-orang muda pengiring kepala-kepala daerah.\" Tanyanya pula: \"Siapakah yang akan memulai perang?\" Jawabnya: \"Engkau!\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Lalu tampillah nabi itu kepada raja Israel dan berkata kepadanya: \"Baiklah, kuatkanlah hatimu, pertimbangkan dan pikirkanlah apa yang harus kauperbuat, sebab pada pergantian tahun raja Aram akan maju menyerang engkau.\""
   },
   {Bible:"1Kings", Chapter:20, Verse:23, Page:1,
-    Kor:"<시리아 군대의 두 번째 공격> ○시리아 왕의 신하들이 자기들의 왕에게 말하였다. ○\"이스라엘의 신은 산의 신입니다. 저번에는 산에서 싸웠으므로, 우리가 졌습니다. 그러나 평지에서 싸우면, 우리가 그들을 반드시 이길 것입니다.",
+    Kor:"○시리아 왕의 신하들이 자기들의 왕에게 말하였다. ○\"이스라엘의 신은 산의 신입니다. 저번에는 산에서 싸웠으므로, 우리가 졌습니다. 그러나 평지에서 싸우면, 우리가 그들을 반드시 이길 것입니다.",
     Chn:"亚兰王的臣仆对亚兰王说：「以色列人的神是山神，所以他们胜过我们；但在平原与他们打仗，我们必定得胜。",
     Eng:"Meanwhile, the officials of the king of Aram advised him, \"Their gods are gods of the hills. That is why they were too strong for us. But if we fight them on the plains, surely we will be stronger than they.",
     Ind:"Pegawai-pegawai raja Aram berkata kepadanya: \"Allah mereka ialah allah gunung; itulah sebabnya mereka lebih kuat dari pada kita. Tetapi apabila kita berperang melawan mereka di tanah rata, pastilah kita lebih kuat dari pada mereka."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Bertindaklah begini: Pecatlah raja-raja itu masing-masing dari kedudukannya, dan angkatlah bupati-bupati menggantikan mereka."
   },
   {Bible:"1Kings", Chapter:20, Verse:25, Page:1,
-    Kor:"잃은 수만큼, 군대와 기마와 병거를 보충하십시오. 그런 다음에 평지에서 싸우면, 틀림없이 우리가 이길 것입니다.\" 왕은 그들의 말을 듣고, 그대로 하였다.",
+    Kor:"잃은 수만큼, 군대와 기마와 병거를 보충하십시오. 그런 다음에, 평지에서 싸우면, 틀림없이 우리가 이길 것입니다.\" 왕은 그들의 말을 듣고, 그대로 하였다.",
     Chn:"又照着王丧失军兵之数，再招募一军，马补马，车补车，我们在平原与他们打仗，必定得胜。」王便听臣仆的话去行。",
     Eng:"You must also raise an army like the one you lost--horse for horse and chariot for chariot--so we can fight Israel on the plains. Then surely we will be stronger than they.\" He agreed with them and acted accordingly.",
     Ind:"Lalu kerahkanlah tentara sebanyak tentara yang telah gugur dari pihakmu itu, demikian pula kuda dan kereta sebanyak yang dahulu. Marilah kita berperang melawan mereka di tanah rata, pastilah kita lebih kuat dari pada mereka.\" Raja mendengarkan usul mereka, dan bertindak demikian."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Orang Israelpun memeriksa barisannya dan setelah dibekali mereka berangkat menghadapi orang Aram. Orang Israel berkemah di hadapan mereka seperti dua kawanan kambing, sedang orang Aram telah datang membanjiri negeri itu."
   },
   {Bible:"1Kings", Chapter:20, Verse:28, Page:1,
-    Kor:"그 때에 하나님의 사람이 가까이 와서, 이스라엘 왕에게 말하였다. \"주님께서 이렇게 말씀하셨습니다. '시리아 사람이 말하기를, 내가 산의 신이지, 평지의 신은 아니라고 하니, 내가 이 큰 군대를 모두 네 손에 내주겠다. 이제 너희는 곧, 내가 주인 줄 알게 될 것이다.'\"",
+    Kor:"그 때에 하나님의 사람이 가까이 와서, 이스라엘 왕에게 말하였다. \"주께서 이렇게 말씀하셨습니다. '시리아 사람이 말하기를, 내가 산의 신이지, 평지의 신은 아니라고 하니, 내가 이 큰 군대를 모두 네 손에 내주겠다. 이제 너희는 곧, 내가 주인 줄 알게 될 것이다.'\"",
     Chn:"有神人来见以色列王，说：「耶和华如此说：『亚兰人既说我—耶和华是山神，不是平原的神，所以我必将这一大群人都交在你手中，你们就知道我是耶和华。』」",
     Eng:"The man of God came up and told the king of Israel, \"This is what the LORD says: 'Because the Arameans think the LORD is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am the LORD.'\"",
     Ind:"Maka tampillah abdi Allah dan berkata kepada raja Israel: \"Beginilah firman TUHAN: Oleh karena orang Aram itu telah berkata: TUHAN ialah allah gunung dan bukan allah dataran, maka Aku akan menyerahkan seluruh tentara yang besar itu ke dalam tanganmu, supaya kamu tahu, bahwa Akulah TUHAN.\""
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Kata Benhadad kepadanya: \"Kota-kota yang telah diambil bapaku dari pihak bapamu akan kukembalikan; engkau boleh juga membuat pasar bagimu di Damsyik, seperti yang dibuat bapaku di Samaria.\" \"Dan aku sendiri,\" kata Ahab, \"akan membiarkan engkau pergi dengan perjanjian.\" Lalu ia mengadakan perjanjian dengan dia dan membiarkannya pergi."
   },
   {Bible:"1Kings", Chapter:20, Verse:35, Page:1,
-    Kor:"<한 예언자가 아합을 규탄하다> ○c예언자의 무리 가운데서 어떤 예언자가 주님의 명령을 받고서, 동료에게 자기를 때리라고 말하였으나, 그 동료가 때리기를 거절하니,(c 히, '예언자의 아들들 가운데서')",
+    Kor:"○예언자의 무리 가운데서 어떤 예언자가, 주의 명령을 받고서, 동료에게 자기를 때리라고 말하였으나, 그 동료가 때리기를 거절하니,",
     Chn:"有先知的一个门徒奉耶和华的命对他的同伴说：「你打我吧！」那人不肯打他。",
     Eng:"By the word of the LORD one of the sons of the prophets said to his companion, \"Strike me with your weapon,\" but the man refused.",
     Ind:"Seorang dari rombongan nabi berkata kepada temannya atas perintah TUHAN: \"Pukullah aku!\" Tetapi orang itu menolak memukulnya."
   },
   {Bible:"1Kings", Chapter:20, Verse:36, Page:1,
-    Kor:"그 예언자가 말하였다. \"네가 주님의 말씀에 순종하지 않았으니, 네가 나를 떠날 때에 사자가 너를 죽일 것이다.\" 과연 그 사람이 그를 떠날 때에 사자가 나타나서 그를 죽였다.",
+    Kor:"그 예언자가 말하였다. \"네가 주의 말씀에 순종하지 않았으니, 네가 나를 떠날 때에 사자가 너를 죽일 것이다.\" 과연 그 사람이 그를 떠날 때에 사자가 나타나서 그를 죽였다.",
     Chn:"他就对那人说：「你既不听从耶和华的话，你一离开我，必有狮子咬死你。」那人一离开他，果然遇见狮子，把他咬死了。",
     Eng:"So the prophet said, \"Because you have not obeyed the LORD, as soon as you leave me a lion will kill you.\" And after the man went away, a lion found him and killed him.",
     Ind:"Lalu ia berkata kepadanya: \"Oleh sebab engkau tidak mendengarkan suara TUHAN, ketahuilah, apabila engkau pergi dari padaku, seekor singa akan menerkam engkau.\" Dan ketika orang itu pergi dari padanya, maka seekor singa bertemu dengan dia, lalu menerkam dia."
@@ -249,7 +249,7 @@ BibleDB.add([
     Ind:"Lalu segeralah ia membuka kain pembalut itu dari matanya, sehingga raja Israel mengenali dia sebagai seorang dari rombongan nabi."
   },
   {Bible:"1Kings", Chapter:20, Verse:42, Page:1,
-    Kor:"그 예언자는 왕에게 이렇게 말하였다. \"주님께서 이렇게 말씀하셨습니다. '내가 멸망시키기로 작정한 사람을 네가 직접 놓아 주었으니, 너는 그 목숨을 대신하여서 죽게 될 것이고, 네 백성은 그의 백성을 대신하여서 멸망할 것이다.'\"",
+    Kor:"그 예언자는 왕에게 이렇게 말하였다. \"주께서 이렇게 말씀하셨습니다. '내가 멸망시키기로 작정한 사람을, 네가 직접 놓아 주었으니, 너는 그 목숨을 대신하여서 죽게 될 것이고, 네 백성은 그의 백성을 대신하여서 멸망할 것이다.'\"",
     Chn:"他对王说：「耶和华如此说：『因你将我定要灭绝的人放去，你的命就必代替他的命，你的民也必代替他的民。』」",
     Eng:"He said to the king, \"This is what the LORD says: 'You have set free a man I had determined should die. Therefore it is your life for his life, your people for his people.'\"",
     Ind:"Kata nabi itu kepadanya: \"Beginilah firman TUHAN: Oleh karena engkau telah membiarkan lolos orang yang dikhususkan bagi-Ku untuk ditumpas, maka nyawamu adalah ganti nyawanya dan rakyatmu ganti rakyatnya.\""

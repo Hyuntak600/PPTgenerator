@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",8,22);
 BibleDB.add([
   {Bible:"Genesis", Chapter:8, Verse:1, Page:1,
-    Kor:"<홍수가 그치다> 그 때에 하나님이, 노아와 방주에 함께 있는 모든 들짐승과 집짐승을 돌아보실 생각을 하시고, 땅 위에 바람을 일으키시니, 물이 빠지기 시작하였다.",
+    Kor:"그 때에 하나님이, 노아와 방주에 함께 있는 모든 들짐승과 집짐승을 돌아보실 생각을 하시고, 땅 위에 바람을 일으키시니, 물이 빠지기 시작하였다.",
     Chn:"神记念挪亚和挪亚方舟里的一切走兽牲畜。　神叫风吹地，水势渐落。",
     Eng:"But God remembered Noah and all the wild animals and the livestock that were with him in the  ark, and he sent a wind over the earth, and the waters receded.",
     Ind:"Maka Allah mengingat Nuh dan segala binatang liar dan segala ternak, yang bersama-sama dengan dia dalam bahtera itu, dan Allah membuat angin menghembus melalui bumi, sehingga air itu turun."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"dan makin surutlah air itu dari muka bumi. Demikianlah berkurang air itu sesudah seratus lima puluh hari."
   },
   {Bible:"Genesis", Chapter:8, Verse:4, Page:1,
-    Kor:"a일곱째 달 열이렛날에, 방주가 아라랏 산에 머물러 쉬었다.(a '티스리월', 양력 구월 중순 이후)",
+    Kor:"일곱째 달 열이렛날에, 방주가 아라랏 산에 머물러 쉬었다.",
     Chn:"七月十七日，方舟停在亚拉腊山上。",
     Eng:"and on the seventeenth day of the seventh month the ark came to rest on the mountains of  Ararat.",
     Ind:"Dalam bulan yang ketujuh, pada hari yang ketujuh belas bulan itu, terkandaslah bahtera itu pada pegunungan Ararat."
   },
   {Bible:"Genesis", Chapter:8, Verse:5, Page:1,
-    Kor:"물은 열째 달이 될 때까지 줄곧 줄어들어서, 그 달 곧 b열째 달 초하루에는 산 봉우리들이 드러났다.(b '테베스월', 양력 십이월 중순 이후)",
+    Kor:"물은 열째 달이 될 때까지 줄곧 줄어들어서, 그 달, 곧 열째 달 초하루에는, 산 봉우리들이 드러났다.",
     Chn:"水又渐消，到十月初一日，山顶都现出来了。",
     Eng:"The waters continued to recede until the tenth month, and on the first day of the tenth month  the tops of the mountains became visible.",
     Ind:"Sampai bulan yang kesepuluh makin berkuranglah air itu; dalam bulan yang kesepuluh, pada tanggal satu bulan itu, tampaklah puncak-puncak gunung."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Ia menunggu tujuh hari lagi, kemudian dilepaskannya pula burung merpati itu dari bahtera;"
   },
   {Bible:"Genesis", Chapter:8, Verse:11, Page:1,
-    Kor:"그 비둘기는 저녁때가 되어서 그에게로 되돌아왔는데, 비둘기가 금방 딴 올리브 잎을 부리에 물고 있었으므로, 노아는 땅 위에서 물이 빠진 것을 알았다.",
+    Kor:"그 비둘기는 저녁때가 되어서, 그에게로 되돌아왔는데, 비둘기가 금방 딴 올리브 잎을 부리에 물고 있었으므로, 노아는 땅 위에서 물이 빠진 것을 알았다.",
     Chn:"到了晚上，鸽子回到他那里，嘴里叼着一个新拧下来的橄榄叶子，挪亚就知道地上的水退了。",
     Eng:"When the dove returned to him in the evening, there in its beak was a freshly plucked olive  leaf! Then Noah knew that the water had receded from the earth.",
     Ind:"menjelang waktu senja pulanglah burung merpati itu mendapatkan Nuh, dan pada paruhnya dibawanya sehelai daun zaitun yang segar. Dari situlah diketahui Nuh, bahwa air itu telah berkurang dari atas bumi."
   },
   {Bible:"Genesis", Chapter:8, Verse:12, Page:1,
-    Kor:"노아는 다시 이레를 더 기다리다가, 그 비둘기를 내보냈다. 그러나 이번에는 그 비둘기가 그에게로 다시 돌아오지 않았다.",
+    Kor:"노아는 다시 이레를 더 기다리다가, 그 비둘기를 내보냈다. 그러나 이번에는, 그 비둘기가 그에게로 다시 돌아오지 않았다.",
     Chn:"他又等了七天，放出鸽子去，鸽子就不再回来了。",
     Eng:"He waited seven more days and sent the dove out again, but this time it did not return to  him.",
     Ind:"Selanjutnya ditunggunya pula tujuh hari lagi, kemudian dilepaskannya burung merpati itu, tetapi burung itu tidak kembali lagi kepadanya."
   },
   {Bible:"Genesis", Chapter:8, Verse:13, Page:1,
-    Kor:"○노아가 육백한 살 되는 해 c첫째 달, 곧 그 달 초하룻날, 땅 위에서 물이 다 말랐다. 노아가 방주 뚜껑을 열고, 바깥을 내다보니, 땅바닥이 말라 있었다.(c '아빕월', 양력 삼월 중순 이후)",
+    Kor:"○노아가 육백한 살 되는 해 첫째 달, 곧 그 달 초하룻날, 땅 위에서 물이 다 말랐다. 노아가 방주 뚜껑을 열고, 바깥을 내다보니, 땅바닥이 말라 있었다.",
     Chn:"到挪亚六百零一岁，正月初一日，地上的水都干了。挪亚撤去方舟的盖观看，便见地面上干了。",
     Eng:"By the first day of the first month of Noah's six hundred and first year, the water had  dried up from the earth. Noah then removed the covering from the ark and saw that the surface of  the ground was dry.",
     Ind:"Dalam tahun keenam ratus satu, dalam bulan pertama, pada tanggal satu bulan itu, sudahlah kering air itu dari atas bumi; kemudian Nuh membuka tutup bahtera itu dan melihat-lihat; ternyatalah muka bumi sudah mulai kering."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Segala binatang liar, segala binatang melata dan segala burung, semuanya yang bergerak di bumi, masing-masing menurut jenisnya, keluarlah juga dari bahtera itu."
   },
   {Bible:"Genesis", Chapter:8, Verse:20, Page:1,
-    Kor:"<노아가 제사를 드리다> ○노아는 주님 앞에 제단을 쌓고, 모든 정결한 집짐승과 정결한 새들 가운데서 제물을 골라서, 제단 위에 번제물로 바쳤다.",
+    Kor:"○노아는 주 앞에 제단을 쌓고, 모든 정결한 집짐승과 정결한 새들 가운데서 제물을 골라서, 제단 위에 번제물로 바쳤다.",
     Chn:"挪亚为耶和华筑了一座坛，拿各类洁净的牲畜、飞鸟献在坛上为燔祭。",
     Eng:"Then Noah built an altar to the LORD and, taking some of all the clean animals and clean  birds, he sacrificed burnt offerings on it.",
     Ind:"Lalu Nuh mendirikan mezbah bagi TUHAN; dari segala binatang yang tidak haram dan dari segala burung yang tidak haram diambilnyalah beberapa ekor, lalu ia mempersembahkan korban bakaran di atas mezbah itu."
   },
   {Bible:"Genesis", Chapter:8, Verse:21, Page:1,
-    Kor:"주님께서 그 향기를 맡으시고서, 마음 속으로 다짐하셨다. \"다시는 사람이 악하다고 하여서, 땅을 저주하지는 않겠다. 사람은 어릴 때부터 그 마음의 생각이 악하기 마련이다. 다시는 이번에 한 것 같이, 모든 생물을 없애지는 않겠다.",
+    Kor:"주께서 그 향기를 맡으시고서, 마음 속으로 다짐하셨다. \"다시는, 사람이 악하다고 하여서, 땅을 저주하지는 않겠다. 사람은 어릴 때부터 그 마음의 생각이 악하기 마련이다. 다시는 이번에 한 것 같이, 모든 생물을 없애지는 않겠다.",
     Chn:"耶和华闻那馨香之气，就心里说：「我不再因人的缘故咒诅地（人从小时心里怀着恶念），也不再按着我才行的灭各种的活物了。",
     Eng:"The LORD smelled the pleasing aroma and said in his heart: \"Never again will I curse the  ground because of man, even though every inclination of his heart is evil from childhood. And  never again will I destroy all living creatures, as I have done.",
     Ind:"Ketika TUHAN mencium persembahan yang harum itu, berfirmanlah TUHAN dalam hati-Nya: \"Aku takkan mengutuk bumi ini lagi karena manusia, sekalipun yang ditimbulkan hatinya adalah jahat dari sejak kecilnya, dan Aku takkan membinasakan lagi segala yang hidup seperti yang telah Kulakukan."

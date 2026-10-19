@@ -3,7 +3,7 @@
 BibleDB.ref("Lamentations",4,22);
 BibleDB.add([
   {Bible:"Lamentations", Chapter:4, Verse:1, Page:1,
-    Kor:"a아, 슬프다. 어찌하여 금이 빛을 잃고, 어찌하여 순금이 변하고, 성전 돌들이 거리 어귀마다 흩어졌는가? (a 각 절 첫 글자가 히브리어의 알파벳 순서로 되어 있는 알파벳 시)",
+    Kor:"아, 슬프다. 어찌하여 금이 빛을 잃고, 어찌하여 순금이 변하고, 성전 돌들이 거리 어귀마다 흩어졌는가?",
     Chn:"黄金何其失光！ 纯金何其变色！ 圣所的石头倒在各市口上。",
     Eng:"How the gold has lost its luster, the fine gold become dull! The sacred gems are scattered at the head of every street.",
     Ind:"Ah, sungguh pudar emas itu, emas murni itu berubah; batu-batu suci itu terbuang di pojok tiap jalan."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Yang biasa makan yang sedap-sedap mati bulur di jalan-jalan; yang biasa duduk di atas bantal kirmizi terbaring di timbunan sampah."
   },
   {Bible:"Lamentations", Chapter:4, Verse:6, Page:1,
-    Kor:"예전에는 저 소돔 성이 사람이 손을 대지 않아도 순식간에 무너지더니, 내 백성의 도성이 b지은 죄가 소돔이 b지은 죄보다 크구나. (b 또는 '받은 심판' 또는 '받은 벌')",
+    Kor:"예전에는 저 소돔 성이 사람이 손을 대지 않아도 순식간에 무너지더니, 내 백성의 도성이 지은 죄가 소돔이 지은 죄보다 크구나.",
     Chn:"都因我众民的罪孽比所多玛的罪还大； 所多玛虽然无人加手于她， 还是转眼之间被倾覆。",
     Eng:"The punishment of my people is greater than that of Sodom, which was overthrown in a moment without a hand turned to help her.",
     Ind:"Kedurjanaan puteri bangsaku melebihi dosa Sodom, yang sekejap mata dibongkar-bangkir tanpa ada tangan yang memukulnya."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Sekarang rupa mereka lebih hitam dari pada jelaga, mereka tidak dikenal di jalan-jalan, kulit mereka berkerut pada tulang-tulangnya, mengering seperti kayu."
   },
   {Bible:"Lamentations", Chapter:4, Verse:9, Page:1,
-    Kor:"굶어 죽은 사람보다는 차라리, 칼에 죽은 사람이 낫겠다. 다쳐서 죽은 사람이, 먹거리가 없어서 서서히 굶어 죽어가는 사람보다 더 낫겠다.",
+    Kor:"굶어 죽은 사람보다는 차라리, 칼에 죽은 사람이 낫겠다. 다쳐서 죽은 사람이, 먹을거리가 없어서 서서히 굶어 죽어가는 사람보다 더 낫겠다.",
     Chn:"饿死的不如被刀杀的， 因为这是缺了田间的土产， 就身体衰弱，渐渐消灭。",
     Eng:"Those killed by the sword are better off than those who die of famine; racked with hunger, they waste away for lack of food from the field.",
     Ind:"Lebih bahagia mereka yang gugur karena pedang dari pada mereka yang tewas karena lapar, yang merana dan mati sebab tak ada hasil ladang."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Dengan tangan sendiri wanita yang lemah lembut memasak kanak-kanak mereka, untuk makanan mereka tatkala runtuh puteri bangsaku."
   },
   {Bible:"Lamentations", Chapter:4, Verse:11, Page:1,
-    Kor:"주님께서 진노하셔서, 타오르는 분노를 퍼부으셨다. 시온에 불을 지르고, 그 터를 사르셨다.",
+    Kor:"주께서 진노하셔서, 타오르는 분노를 퍼부으셨다. 시온에 불을 지르고, 그 터를 사르셨다.",
     Chn:"耶和华发怒成就他所定的， 倒出他的烈怒； 在锡安使火着起， 烧毁锡安的根基。",
     Eng:"The LORD has given full vent to his wrath; he has poured out his fierce anger. He kindled a fire in Zion that consumed her foundations.",
     Ind:"TUHAN melepaskan segenap amarah-Nya, mencurahkan murka-Nya yang menyala-nyala, dan menyalakan api di Sion, yang memakan dasar-dasarnya."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"\"Singkir! Najis!\", kata orang kepada mereka, \"Singkir! Singkir! Jangan sentuh!\"; lalu mereka lari dan mengembara, maka berkatalah bangsa-bangsa: \"Mereka tak boleh tinggal lebih lama di sini.\""
   },
   {Bible:"Lamentations", Chapter:4, Verse:16, Page:1,
-    Kor:"주님께서 진노하셔서, 그들을 흩으시고 돌보아 주지 않으신다. 침략자들은 제사장들을 대우하지도 않고, 장로들을 대접하지도 않았다.",
+    Kor:"주께서 진노하셔서, 그들을 흩으시고 돌보아 주지 않으신다. 침략자들은 제사장들을 대우하지도 않고, 장로들을 대접하지도 않았다.",
     Chn:"耶和华发怒，将他们分散， 不再眷顾他们； 人不重看祭司，也不厚待长老。",
     Eng:"The LORD himself has scattered them; he no longer watches over them. The priests are shown no honor, the elders no favor.",
     Ind:"TUHAN sendiri mencerai-beraikan mereka, tak mau lagi Ia memandang mereka. Para imam tidak mereka hormati, dan orang-orang tua tidak mereka kasihani."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Pengejar-pengejar kami lebih cepat dari pada burung rajawali di angkasa mereka memburu kami di atas gunung-gunung, menghadang kami di padang gurun."
   },
   {Bible:"Lamentations", Chapter:4, Verse:20, Page:1,
-    Kor:"우리의 힘, 곧 주님께서 기름 부어 세우신 이가 그들의 함정에 빠졌다. 그는 바로, \"뭇 민족 가운데서, 우리가 그의 보호를 받으며 살 것이다\" 하고 우리가 말한 사람이 아니던가!",
+    Kor:"우리의 힘, 곧 주께서 기름 부어 세우신 이가 그들의 함정에 빠졌다. 그는 바로, \"뭇 민족 가운데서, 우리가 그의 보호를 받으며 살 것이다\" 하고 우리가 말한 사람이 아니던가!",
     Chn:"耶和华的受膏者好比我们鼻中的气， 在他们的坑中被捉住； 我们曾论到他说： 我们必在他荫下， 在列国中存活。",
     Eng:"The LORD'S anointed, our very life breath, was caught in their traps. We thought that under his shadow we would live among the nations.",
     Ind:"Orang yang diurapi TUHAN, nafas hidup kami, tertangkap dalam pelubang mereka, dia yang kami sangka: \"Dalam naungannya kami akan hidup di antara bangsa-bangsa.\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Bergembira dan bersukacitalah, hai puteri Edom, engkau yang mendiami tanah Us, juga kepadamu piala akan sampai, engkau akan jadi mabuk lalu menelanjangi dirimu!"
   },
   {Bible:"Lamentations", Chapter:4, Verse:22, Page:1,
-    Kor:"도성 시온아, 이제 네가 지은 죄의 형벌을 다 받았으니, 주님께서 다시는, 네가 사로잡혀 가지 않게 하실 것이다. 에돔의 도성아, 주님께서 네 죄악을 벌하시며, 네 죄를 밝혀 내실 것이다.",
+    Kor:"도성 시온아, 이제 네가 지은 죄의 형벌을 다 받았으니, 주께서 다시는, 네가 사로잡혀 가지 않게 하실 것이다. 에돔의 도성아, 주께서 네 죄악을 벌하시며, 네 죄를 밝혀 내실 것이다.",
     Chn:"锡安的民哪，你罪孽的刑罚受足了， 耶和华必不使你再被掳去。 以东的民哪，他必追讨你的罪孽， 显露你的罪恶。",
     Eng:"O Daughter of Zion, your punishment will end; he will not prolong your exile. But, O Daughter of Edom, he will punish your sin and expose your wickedness.",
     Ind:"Telah hapus kesalahanmu, puteri Sion, tak akan lagi TUHAN membawa engkau ke dalam pembuangan, tetapi kesalahanmu, puteri Edom, akan dibalas-Nya, dan dosa-dosamu akan disingkapkan-Nya."

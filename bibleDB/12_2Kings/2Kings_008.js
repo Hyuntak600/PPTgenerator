@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",8,29);
 BibleDB.add([
   {Bible:"2Kings", Chapter:8, Verse:1, Page:1,
-    Kor:"<수넴 여인이 돌아오다> 엘리사가 이전에 한 여인의 죽은 아들을 살려 준 일이 있었는데, 그 아이의 어머니에게 이렇게 말했었다. \"부인은 가족을 데리고 이 곳을 떠나서, 가족이 몸붙여 살 만한 곳으로 가서 지내시오. 주님께서 기근을 명하셨기 때문에, 이 땅에 일곱 해 동안 기근이 들 것이오.\"",
+    Kor:"엘리사가 이전에 한 여인의 죽은 아들을 살려 준 일이 있는데, 그 아이의 어머니에게 이렇게 말하였다. \"부인은 가족을 데리고 이 곳을 떠나서, 가족이 몸붙여 살 만한 곳으로 가서 지내시오. 주께서 기근을 명하셨기 때문에, 이 땅에 일곱 해 동안 기근이 들 것이오.\"",
     Chn:"以利沙曾对所救活之子的那妇人说：「你和你的全家要起身往你可住的地方去住，因为耶和华命饥荒降在这地七年。」",
     Eng:"Now Elisha had said to the woman whose son he had restored to life, \"Go away with your family and stay for a while wherever you can, because the LORD has decreed a famine in the land that will last seven years.\"",
     Ind:"Elisa telah berbicara kepada perempuan yang anaknya dihidupkannya kembali, katanya: \"Berkemaslah dan pergilah bersama-sama dengan keluargamu, dan tinggallah di mana saja engkau dapat menetap sebagai pendatang, sebab TUHAN telah mendatangkan kelaparan, yang pasti menimpa negeri ini tujuh tahun lamanya.\""
@@ -39,25 +39,25 @@ BibleDB.add([
     Ind:"Lalu raja bertanya-tanya, dan perempuan itu menceritakan semuanya kepadanya. Kemudian raja menugaskan seorang pegawai istana menyertai perempuan itu dengan pesan: \"Pulangkanlah segala miliknya dan segala hasil ladang itu sejak ia meninggalkan negeri ini sampai sekarang.\""
   },
   {Bible:"2Kings", Chapter:8, Verse:7, Page:1,
-    Kor:"<엘리사와 시리아 왕 벤하닷> ○엘리사가 다마스쿠스에 갔을 때에 시리아 왕 벤하닷은 병이 들어 있었는데, 어떤 사람이 왕에게 하나님의 사람이 이 곳에 와 있다는 소식을 전하였다.",
+    Kor:"○엘리사가 다마스쿠스에 갔을 때에, 시리아 왕 벤하닷은 병이 들어 있었는데, 어떤 사람이 왕에게, 하나님의 사람이 이 곳에 와 있다는 소식을 전하였다.",
     Chn:"以利沙来到大马士革，亚兰王便·哈达正患病。有人告诉王说：「神人来到这里了。」",
     Eng:"Elisha went to Damascus, and Ben-Hadad king of Aram was ill. When the king was told, \"The man of God has come all the way up here,\"",
     Ind:"Elisa masuk ke Damsyik, dan pada waktu itu Benhadad, raja Aram, sedang sakit. Ketika dikabarkan kepada raja: \"Sudah datang abdi Allah ke mari,\""
   },
   {Bible:"2Kings", Chapter:8, Verse:8, Page:1,
-    Kor:"왕이 하사엘에게 말하였다. \"예물을 가지고 가서, 하나님의 사람을 만나시오. 그리고 그에게, 내가 이 병에서 회복될 수 있겠는지를, 주님께 물어 보도록 부탁을 드려 주시오.\"",
+    Kor:"왕이 하사엘에게 말하였다. \"예물을 가지고 가서, 하나님의 사람을 만나시오. 그리고 그에게, 내가 이 병에서 회복될 수 있겠는지를, 주께 물어 보도록 부탁을 드려 주시오.\"",
     Chn:"王就吩咐哈薛说：「你带着礼物去见神人，托他求问耶和华，我这病能好不能好？」",
     Eng:"he said to Hazael, \"Take a gift with you and go to meet the man of God. Consult the LORD through him; ask him, 'Will I recover from this illness?'\"",
     Ind:"berkatalah ia kepada Hazael: \"Ambillah persembahan, pergilah menyongsong abdi Allah itu dan mintalah petunjuk TUHAN dengan perantaraannya: Sembuhkah aku dari penyakit ini?\""
   },
   {Bible:"2Kings", Chapter:8, Verse:9, Page:1,
-    Kor:"하사엘은 다마스쿠스에서 제일 좋은 온갖 예물을 낙타 마흔 마리에 가득 싣고, 몸소 예를 갖추어 하나님의 사람을 만나러 갔다. 그리고 그의 앞에 서서 말하였다. \"예언자님의 아들 같은 시리아 왕 벤하닷이 나를 예언자님에게 보냈습니다. 왕은, 자신이 이 병에서 회복되겠는가를 여쭈어 보라고 하였습니다.\"",
+    Kor:"하사엘은 다마스쿠스에서 제일 좋은 온갖 예물을 낙타 마흔 마리에 가득 싣고, 몸소 예를 갖추어 하나님의 사람을 만나러 갔다. 그리고 그의 앞에 서서 말하였다. \"선생님의 아들 같은 시리아 왕 벤하닷이 나를 선생님에게 보냈습니다. 왕은, 자신이 이 병에서 회복되겠는가를 여쭈어 보라고 하였습니다.\"",
     Chn:"于是哈薛用四十个骆驼，驮着大马士革的各样美物为礼物，去见以利沙。到了他那里，站在他面前，说：「你儿子亚兰王便·哈达打发我来见你，他问说：『我这病能好不能好？』」",
     Eng:"Hazael went to meet Elisha, taking with him as a gift forty camel-loads of all the finest wares of Damascus. He went in and stood before him, and said, \"Your son Ben-Hadad king of Aram has sent me to ask, 'Will I recover from this illness?'\"",
     Ind:"Lalu pergilah Hazael menyongsong dia, diambilnyalah persembahan berupa segala barang yang indah-indah dari Damsyik, sebanyak muatan empat puluh ekor unta. Sesudah sampai, tampillah ia ke depan Elisa dan berkata: \"Anakmu Benhadad, raja Aram, menyuruh aku menanyakan kepadamu: Apakah aku akan sembuh dari penyakit ini?\""
   },
   {Bible:"2Kings", Chapter:8, Verse:10, Page:1,
-    Kor:"○엘리사가 그에게 말하였다. \"가서, 왕에게는 a회복될 것이라고 말하시오. 그러나 주님께서는, 그가 반드시 죽을 것이라고 내게 계시해 주셨소.\"(a 또는 '회복되지 않을 것이라고 말하시오. 왜냐하면 주님께서……')",
+    Kor:"○엘리사가 그에게 말하였다. \"가서, 왕에게는 회복될 것이라고 말하시오. 그러나 주께서는, 그가 반드시 죽을 것이라고 내게 계시해 주셨소.\"",
     Chn:"以利沙对哈薛说：「你回去告诉他说，这病必能好；但耶和华指示我，他必要死。」",
     Eng:"Elisha answered, \"Go and say to him, 'You will certainly recover'; but the LORD has revealed to me that he will in fact die.\"",
     Ind:"Jawab Elisa kepadanya: \"Pergilah, katakanlah kepadanya: Pastilah engkau sembuh. Namun demikian, TUHAN telah memperlihatkan kepadaku, bahwa ia pasti mati dibunuh.\""
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Elisa menatap dengan lama ke depan, lalu menangislah abdi Allah itu."
   },
   {Bible:"2Kings", Chapter:8, Verse:12, Page:1,
-    Kor:"그러자 하사엘이 \"예언자님, 왜 우십니까?\" 하고 물었다. ○엘리사는 다음과 같이 말하였다. \"나는, 그대가 이스라엘 자손에게 어떤 악한 일을 할지를 알기 때문이오. 그대는 이스라엘 자손의 요새에 불을 지를 것이고, 젊은이들을 칼로 살해하며, 어린 아이들을 메어쳐 죽일 것이고, 임신한 여인의 배를 가를 것이오.\"",
+    Kor:"그러자 하사엘이 \"선생님, 왜 우십니까?\" 하고 물었다. ○엘리사는 다음과 같이 말하였다. \"나는, 그대가 이스라엘 자손에게 어떤 악한 일을 할지를 알기 때문이오. 그대는 이스라엘 자손의 요새에 불을 지를 것이고, 젊은이들을 칼로 살해하며, 어린 아이들을 메어쳐 죽일 것이고, 임신한 여인의 배를 가를 것이오.\"",
     Chn:"哈薛说：「我主为什么哭？」回答说：「因为我知道你必苦害以色列人，用火焚烧他们的保障，用刀杀死他们的壮丁，摔死他们的婴孩，剖开他们的孕妇。」",
     Eng:"\"Why is my lord weeping?\" asked Hazael. \"Because I know the harm you will do to the Israelites,\" he answered. \"You will set fire to their fortified places, kill their young men with the sword, dash their little children to the ground, and rip open their pregnant women.\"",
     Ind:"Hazael berkata: \"Mengapa tuanku menangis?\" Jawab Elisa: \"Sebab aku tahu bagaimana malapetaka yang akan kaulakukan kepada orang Israel: kotanya yang berkubu akan kaucampakkan ke dalam api, terunanya akan kaubunuh dengan pedang, bayinya akan kauremukkan dan perempuannya yang mengandung akan kaubelah.\""
   },
   {Bible:"2Kings", Chapter:8, Verse:13, Page:1,
-    Kor:"○하사엘이 물었다. \"그러나 개보다 나을 것이 없는 나 같은 사람이, 어떻게 그런 엄청난 일을 저지를 수 있겠습니까?\" 그러자 엘리사가 말하였다. \"주님께서, 그대가 시리아 왕이 될 것을 나에게 계시하여 주셨소.\"",
+    Kor:"○하사엘이 물었다. \"그러나 개보다 나을 것이 없는 나 같은 사람이, 어떻게 그런 엄청난 일을 저지를 수 있겠습니까?\" 그러자 엘리사가 말하였다. \"주께서, 그대가 시리아 왕이 될 것을 나에게 계시하여 주셨소.\"",
     Chn:"哈薛说：「你仆人算什么，不过是一条狗，焉能行这大事呢？」以利沙回答说：「耶和华指示我，你必作亚兰王。」",
     Eng:"Hazael said, \"How could your servant, a mere dog, accomplish such a feat?\" \"The LORD has shown me that you will become king of Aram,\" answered Elisha.",
     Ind:"Sesudah itu berkatalah Hazael: \"Tetapi apakah hambamu ini, yang tidak lain dari anjing saja, sehingga ia dapat melakukan hal sehebat itu?\" Jawab Elisa: \"TUHAN telah memperlihatkan kepadaku, bahwa engkau akan menjadi raja atas Aram.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi keesokan harinya ia mengambil sehelai selimut yang telah dicelupkannya ke dalam air dan membentangkannya ke atas muka raja. Jadi matilah raja, dan Hazael menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:8, Verse:16, Page:1,
-    Kor:"<유다 왕 여호람(대하 21:1-20)> ○이스라엘 왕 아합의 아들 요람 제 오년에 b여호사밧이 아직도 유다의 왕일 때에, 여호사밧의 아들 여호람이 다스리기 시작하였다.(b 칠십인역과 시리아어역에는 '여호사밧이 아직도 유다의 왕일 때에'가 없음)",
+    Kor:"○이스라엘 왕 아합의 아들 요람 제 오년에, 여호사밧이 아직도 유다의 왕일 때에, 여호사밧의 아들 여호람이 다스리기 시작하였다.",
     Chn:"以色列王亚哈的儿子约兰第五年，犹大王约沙法还在位的时候，约沙法的儿子约兰登基作了犹大王。",
     Eng:"In the fifth year of Joram son of Ahab king of Israel, when Jehoshaphat was king of Judah, Jehoram son of Jehoshaphat began his reign as king of Judah.",
     Ind:"Dalam tahun kelima zaman Yoram, anak Ahab raja Israel--pada waktu itu Yosafat adalah raja Yehuda--Yoram, anak Yosafat raja Yehuda menjadi raja."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Ia hidup menurut kelakuan raja-raja Israel seperti yang dilakukan keluarga Ahab, sebab yang menjadi isterinya adalah anak Ahab. Ia melakukan apa yang jahat di mata TUHAN."
   },
   {Bible:"2Kings", Chapter:8, Verse:19, Page:1,
-    Kor:"그러나 주님께서는 자기의 종 다윗을 생각하셔서 유다를 멸망시키려고는 하지 않으셨다. 주님께서는 이미 다윗과 그의 자손에게서 왕조의 등불이 영원히 꺼지지 않게 하시겠다고 약속하셨기 때문이다.",
+    Kor:"그러나 주께서는 자기의 종 다윗을 생각하셔서 유다를 멸망시키려고는 하지 않으셨다. 주께서는 이미 다윗과 그의 자손에게서 왕조의 등불이 영원히 꺼지지 않게 하시겠다고 약속하셨기 때문이다.",
     Chn:"耶和华却因他仆人大卫的缘故，仍不肯灭绝犹大，照他所应许大卫的话，永远赐灯光与他的子孙。",
     Eng:"Nevertheless, for the sake of his servant David, the LORD was not willing to destroy Judah. He had promised to maintain a lamp for David and his descendants forever.",
     Ind:"Namun demikian, TUHAN tidak mau memusnahkan Yehuda oleh karena Daud, hamba-Nya, sesuai dengan yang dijanjikan-Nya kepada Daud, bahwa Ia hendak memberikan keturunan kepadanya dan kepada anak-anaknya untuk selama-lamanya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Kemudian Yoram mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud. Maka Ahazia, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:8, Verse:25, Page:1,
-    Kor:"<유다 왕 아하시야(대하 22:1-6)> ○이스라엘의 아합 왕의 아들 요람 제 십이년에 여호람의 아들 아하시야가 유다 왕이 되었다.",
+    Kor:"○이스라엘의 아합 왕의 아들 요람 제 십이년에 여호람의 아들 아하시야가 유다 왕이 되었다.",
     Chn:"以色列王亚哈的儿子约兰十二年，犹大王约兰的儿子亚哈谢登基。",
     Eng:"In the twelfth year of Joram son of Ahab king of Israel, Ahaziah son of Jehoram king of Judah began to reign.",
     Ind:"Dalam tahun kedua belas zaman Yoram, anak Ahab raja Israel, Ahazia, anak Yoram raja Yehuda, menjadi raja."

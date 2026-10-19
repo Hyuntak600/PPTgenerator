@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"(39-14) Percayakah engkau kepadanya, karena kekuatannya sangat besar? Atau kauserahkankah kepadanya pekerjaanmu yang berat?"
   },
   {Bible:"Job", Chapter:39, Verse:12, Page:1,
-    Kor:"들소가, 심은 것을 거두어들여서 타작 마당에 쌓아 줄 것 같으냐?",
+    Kor:"들소가, 심은 것을 거두어들여서, 타작 마당에 쌓아 줄 것 같으냐?",
     Chn:"岂可信靠它把你的粮食运到家， 又收聚你禾场上的谷吗？",
     Eng:"Can you trust him to bring in your grain and gather it to your threshing floor?",
     Ind:"(39-15) Apakah engkau menaruh kepercayaan kepadanya, bahwa ia akan membawa pulang hasil tanahmu, dan mengumpulkannya di tempat pengirikanmu?"
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"(39-29) Oleh pengertianmukah burung elang terbang, mengembangkan sayapnya menuju ke selatan?"
   },
   {Bible:"Job", Chapter:39, Verse:27, Page:1,
-    Kor:"독수리가 하늘 높이 떠서 높은 곳에 보금자리를 만드는 것이 네 명령을 따른 것이냐?",
+    Kor:"독수리가 하늘 높이 떠서, 높은 곳에 보금자리를 만드는 것이 네 명령을 따른 것이냐?",
     Chn:"大鹰上腾在高处搭窝， 岂是听你的吩咐吗？",
     Eng:"Does the eagle soar at your command and build his nest on high?",
     Ind:"(39-30) Atas perintahmukah rajawali terbang membubung, dan membuat sarangnya di tempat yang tinggi?"
   },
   {Bible:"Job", Chapter:39, Verse:28, Page:1,
-    Kor:"독수리는 바위에 집을 짓고 거기에서 자고, 험한 바위와 요새 위에 살면서,",
+    Kor:"독수리가 바위에 집을 짓고 거기에서 자고, 험한 바위와 요새 위에 살면서,",
     Chn:"它住在山岩， 以山峰和坚固之所为家，",
     Eng:"He dwells on a cliff and stays there at night; a rocky crag is his stronghold.",
     Ind:"(39-31) Ia diam dan bersarang di bukit batu, di puncak bukit batu dan di gunung yang sulit didatangi."

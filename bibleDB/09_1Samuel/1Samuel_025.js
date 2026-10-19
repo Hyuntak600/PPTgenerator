@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",25,44);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:25, Verse:1, Page:1,
-    Kor:"<사무엘의 죽음> 사무엘이 죽었다. 온 이스라엘 백성이 모여 그의 죽음을 슬퍼하며 울고, 그의 고향 라마에 그를 장사하였다. <다윗과 아비가일> ○그 뒤에 다윗은 a바란 광야로 내려갔다.(a 칠십인역 사본 가운데 더러는 '마온')",
+    Kor:"사무엘이 죽었다. 온 이스라엘 백성이 모여 그의 죽음을 슬퍼하며 울고, 그의 고향 라마에 그를 장사하였다. ○그 뒤에 다윗은 바란 광야로 내려갔다.",
     Chn:"撒母耳死了，以色列众人聚集，为他哀哭，将他葬在拉玛—他自己的坟墓里。 大卫起身，下到巴兰的旷野。",
     Eng:"Now Samuel died, and all Israel assembled and mourned for him; and they buried him at his home in Ramah. Then David moved down into the Desert of Maon.",
     Ind:"Dan matilah Samuel; seluruh orang Israel berkumpul meratapi dia dan menguburkan dia di rumahnya di Rama. Dan Daud berkemas, lalu pergi ke padang gurun Paran."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Baru-baru ini aku mendengar bahwa engkau mengadakan pengguntingan bulu domba. Adapun gembala-gembalamu yang ada dengan kami, tidak kami ganggu dan tidak ada sesuatu yang hilang dari pada mereka selama mereka ada di Karmel."
   },
   {Bible:"1Samuel", Chapter:25, Verse:8, Page:1,
-    Kor:"일꾼들에게 물어 보시면, 그들이 사실대로 대답할 것입니다. 그리고 우리들이, 잔치를 벌이는 좋은 날에 어른을 찾아왔으니, 제가 보낸 젊은이들을 너그럽게 보시고, 부디 어른의 종들이나 다름이 없는 저의 부하들과, 아들이나 다름이 없는 이 다윗을 생각하셔서, 먹거리를 좀 들려 보내 주십시오.'\"",
+    Kor:"일꾼들에게 물어 보시면, 그들이 사실대로 대답할 것입니다. 그리고 우리들이, 잔치를 벌이는 좋은 날에 어른을 찾아왔으니, 제가 보낸 젊은이들을 너그럽게 보시고, 부디 어른의 종들이나 다름이 없는 저의 부하들과, 아들이나 다름이 없는 이 다윗을 생각하셔서, 먹을거리를 좀 들려 보내 주십시오.'\"",
     Chn:"可以问你的仆人，他们必告诉你。所以愿我的仆人在你眼前蒙恩，因为是在好日子来的。求你随手取点赐与仆人和你儿子大卫。』」",
     Eng:"Ask your own servants and they will tell you. Therefore be favorable toward my young men, since we come at a festive time. Please give your servants and your son David whatever you can find for them.'\"",
     Ind:"Tanyakanlah kepada orang-orangmu, mereka tentu akan memberitahukan kepadamu. Sebab itu biarlah orang-orang ini mendapat belas kasihanmu; bukankah kami ini datang pada hari raya? Berikanlah kepada hamba-hambamu ini dan kepada anakmu Daud apa yang ada padamu.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Lalu segeralah Abigail mengambil dua ratus roti, dua buyung anggur, lima domba yang telah diolah, lima sukat bertih gandum, seratus buah kue kismis dan dua ratus kue ara, dimuatnyalah semuanya ke atas keledai,"
   },
   {Bible:"1Samuel", Chapter:25, Verse:19, Page:1,
-    Kor:"자기의 일꾼들에게 말하였다. \"나는 뒤따라 갈 터이니, 너희가 앞장 서라.\" 아비가일은 이 일을 자기의 남편 나발에게는 전혀 알리지 않았다.",
+    Kor:"자기의 일꾼들에게 말하였다. \"나는 뒤따라 갈 터이니, 너희가 앞장 서라.\" 아비가일은, 이 일을 자기의 남편 나발에게는 전혀 알리지 않았다.",
     Chn:"对仆人说：「你们前头走，我随着你们去。」这事她却没有告诉丈夫拿八。",
     Eng:"Then she told her servants, \"Go on ahead; I'll follow you.\" But she did not tell her husband Nabal.",
     Ind:"lalu berkata kepada bujang-bujangnya: \"Berjalanlah mendahului aku; aku segera menyusul kamu.\" Tetapi Nabal, suaminya, tidaklah diberitahunya."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Daud tadinya telah berkata: \"Sia-sialah aku melindungi segala kepunyaan orang ini di padang gurun, sehingga tidak ada sesuatupun yang hilang dari segala kepunyaannya; ia membalas kebaikanku dengan kejahatan."
   },
   {Bible:"1Samuel", Chapter:25, Verse:22, Page:1,
-    Kor:"내가 내일 아침까지, 그에게 속한 모든 사람들 가운데서, 남자들을 하나라도 남겨 둔다면, b나 다윗은 하나님께 무슨 벌이라도 받겠다.\"(b 칠십인역과 시리아어역을 따름. 히, '다윗의 원수들은')",
+    Kor:"내가 내일 아침까지, 그에게 속한 모든 사람들 가운데서, 남자들을 하나라도 남겨 둔다면, 나 다윗은 하나님께 무슨 벌이라도 받겠다.\"",
     Chn:"凡属拿八的男丁，我若留一个到明日早晨，愿　神重重降罚与我！」",
     Eng:"May God deal with David, be it ever so severely, if by morning I leave alive one male of all who belong to him!\"",
     Ind:"Beginilah kiranya Allah menghukum Daud, bahkan lebih lagi dari pada itu, jika kutinggalkan hidup sampai pagi seorang laki-laki sajapun dari semua yang ada padanya.\""
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Ketika Abigail melihat Daud, segeralah ia turun dari atas keledainya, lalu sujud menyembah di depan Daud dengan mukanya sampai ke tanah."
   },
   {Bible:"1Samuel", Chapter:25, Verse:24, Page:1,
-    Kor:"그런 다음에 아비가일이 다윗의 발 앞에 엎드려 애원하였다. \"죄는 바로 나에게 있습니다. 이 종이 말씀드리는 것을 허락해 주시고, 이 종의 말에 귀를 기울여 주십시오.",
+    Kor:"그런 다음에, 아비가일이 다윗의 발 앞에 엎드려 애원하였다. \"죄는 바로 나에게 있습니다. 이 종이 말씀드리는 것을 허락해 주시고, 이 종의 말에 귀를 기울여 주십시오.",
     Chn:"俯伏在大卫的脚前，说：「我主啊，愿这罪归我！求你容婢女向你进言，更求你听婢女的话。",
     Eng:"She fell at his feet and said: \"My lord, let the blame be on me alone. Please let your servant speak to you; hear what your servant has to say.",
     Ind:"Ia sujud pada kaki Daud serta berkata: \"Aku sajalah, ya tuanku, yang menanggung kesalahan itu. Izinkanlah hambamu ini berbicara kepadamu, dan dengarkanlah perkataan hambamu ini."
   },
   {Bible:"1Samuel", Chapter:25, Verse:25, Page:1,
-    Kor:"장군께서는 나의 몹쓸 남편 나발에게 조금도 마음을 쓰지 마시기 바랍니다. 그 사람은 정말 이름 그대로, 못된 사람입니다. 이름도 c나발인데다, 하는 일도 어리석습니다. 그런데다가 장군께서 보내신 젊은이들이 왔을 때에는, 내가 거기에 있지 않아서, 그들을 만나지도 못하였습니다.(c '어리석음')",
+    Kor:"장군께서는 나의 몹쓸 남편 나발에게 조금도 마음을 쓰지 마시기 바랍니다. 그 사람은 정말 이름 그대로, 못된 사람입니다. 이름도 나발인데다, 하는 일도 어리석습니다. 그런데다가 장군께서 보내신 젊은이들이 왔을 때에는, 내가 거기에 있지 않아서, 그들을 만나지도 못하였습니다.",
     Chn:"我主不要理这坏人拿八，他的性情与他的名相称；他名叫拿八，他为人果然愚顽。但我主所打发的仆人，婢女并没有看见。",
     Eng:"May my lord pay no attention to that wicked man Nabal. He is just like his name--his name is Fool, and folly goes with him. But as for me, your servant, I did not see the men my master sent.",
     Ind:"Janganlah kiranya tuanku mengindahkan Nabal, orang yang dursila itu, sebab seperti namanya demikianlah ia: Nabal namanya dan bebal orangnya. Tetapi aku, hambamu ini, tidak melihat orang-orang yang tuanku suruh."
   },
   {Bible:"1Samuel", Chapter:25, Verse:26, Page:1,
-    Kor:"장군께서 사람을 죽이시거나 몸소 원수를 갚지 못하도록 막아 주신 분은 주님이십니다. 주님도 살아 계시고, 장군께서도 살아 계십니다. 장군님의 원수들과 장군께 해를 끼치려고 하는 자들이 모두 나발과 같이 되기를 바랍니다.",
+    Kor:"장군께서 사람을 죽이시거나 몸소 원수를 갚지 못하도록 막아 주신 분은 주님이십니다. 주님도 살아 계시고, 장군께서도 살아 계십니다. 장군님의 원수들과 장군께 해를 끼치려고 하는 자들이, 모두 나발과 같이 되기를 바랍니다.",
     Chn:"我主啊，耶和华既然阻止你亲手报仇，取流血的罪，所以我指着永生的耶和华、又敢在你面前起誓说：『愿你的仇敌和谋害你的人都像拿八一样。』",
     Eng:"\"Now since the LORD has kept you, my master, from bloodshed and from avenging yourself with your own hands, as surely as the LORD lives and as you live, may your enemies and all who intend to harm my master be like Nabal.",
     Ind:"Oleh sebab itu, tuanku, demi TUHAN yang hidup dan demi hidupmu yang dicegah TUHAN dari pada melakukan hutang darah dan dari pada bertindak sendiri dalam mencari keadilan, biarlah menjadi sama seperti Nabal musuhmu dan orang yang bermaksud jahat terhadap tuanku!"
@@ -165,32 +165,32 @@ BibleDB.add([
     Ind:"Oleh sebab itu, pemberian yang dibawa kepada tuanku oleh budakmu ini, biarlah diberikan kepada orang-orang yang mengikuti tuanku."
   },
   {Bible:"1Samuel", Chapter:25, Verse:28, Page:1,
-    Kor:"이 종의 허물을 용서해 주시기 바랍니다. 장군께서는 언제나 주님의 전쟁만을 하셨으니, 주님께서 틀림없이 장군님의 집안을 영구히 세워 주시고, 장군께서 사시는 동안, 평생토록 아무런 재난도 일어나지 않도록 도와 주실 것입니다.",
+    Kor:"이 종의 허물을 용서해 주시기 바랍니다. 장군께서는 언제나 주의 전쟁만을 하셨으니, 주께서 틀림없이 장군님의 집안을 영구히 세워 주시고, 장군께서 사시는 동안, 평생토록 아무런 재난도 일어나지 않도록 도와 주실 것입니다.",
     Chn:"求你饶恕婢女的罪过。耶和华必为我主建立坚固的家，因我主为耶和华争战；并且在你平生的日子查不出有什么过来。",
     Eng:"Please forgive your servant's offense, for the LORD will certainly make a lasting dynasty for my master, because he fights the LORD'S battles. Let no wrongdoing be found in you as long as you live.",
     Ind:"Ampunilah kiranya kecerobohan hambamu ini, sebab pastilah TUHAN akan membangun bagi tuanku keturunan yang teguh, karena tuanku ini melakukan perang TUHAN dan tidak ada yang jahat terdapat padamu selama hidupmu."
   },
   {Bible:"1Samuel", Chapter:25, Verse:29, Page:1,
-    Kor:"그러므로 어느 누가 일어나서 장군님을 죽이려고 쫓아다니는 일이 있더라도, 장군님의 생명은 장군께서 섬기시는 주 하나님이 생명 보자기에 싸서 보존하실 것이지만, 장군님을 거역하는 원수들의 생명은, 주님께서, 돌팔매로 던지듯이 팽개쳐 버리실 것입니다.",
+    Kor:"그러므로 어느 누가 일어나서 장군님을 죽이려고 쫓아다니는 일이 있더라도, 장군님의 생명은 장군께서 섬기시는 주 하나님이 생명 보자기에 싸서 보존하실 것이지만, 장군님을 거역하는 원수들의 생명은, 주께서, 돌팔매로 던지듯이 팽개쳐 버리실 것입니다.",
     Chn:"虽有人起来追逼你，寻索你的性命，你的性命却在耶和华—你的　神那里蒙保护，如包裹宝器一样；你仇敌的性命，耶和华必抛去，如用机弦甩石一样。",
     Eng:"Even though someone is pursuing you to take your life, the life of my master will be bound securely in the bundle of the living by the LORD your God. But the lives of your enemies he will hurl away as from the pocket of a sling.",
     Ind:"Jika sekiranya ada seorang bangkit mengejar engkau dan ingin mencabut nyawamu, maka nyawa tuanku akan terbungkus dalam bungkusan tempat orang-orang hidup pada TUHAN, Allahmu, tetapi nyawa para musuhmu akan diumbankan-Nya dari dalam salang umban."
   },
   {Bible:"1Samuel", Chapter:25, Verse:30, Page:1,
-    Kor:"이제 곧 주님께서 장군께 약속하신 대로, 온갖 좋은 일을 모두 베푸셔서, 장군님을 이스라엘의 영도자로 세워 주실 터인데,",
+    Kor:"이제 곧 주께서 장군께 약속하신 대로, 온갖 좋은 일을 모두 베푸셔서, 장군님을 이스라엘의 영도자로 세워 주실 터인데,",
     Chn:"我主现在若不亲手报仇流无辜人的血，到了耶和华照所应许你的话赐福与你，立你作以色列的王，那时我主必不至心里不安，觉得良心有亏。耶和华赐福与我主的时候，求你记念婢女。」",
     Eng:"When the LORD has done for my master every good thing he promised concerning him and has appointed him leader over Israel,",
     Ind:"Apabila TUHAN melakukan kepada tuanku sesuai dengan segala kebaikan yang difirmankan-Nya kepadamu dan menunjuk engkau menjadi raja atas Israel,",
     ChnVerseEnd:31
   },
   {Bible:"1Samuel", Chapter:25, Verse:31, Page:1,
-    Kor:"지금 공연히 사람을 죽이신다든지, 몸소 원수를 갚으신다든지 하여, 왕이 되실 때에 후회하시거나 마음에 걸리는 일이 없도록 하시기 바랍니다. 주님께서 그처럼 좋은 일을 장군께 베풀어 주시는 날, 이 종을 기억해 주시기 바랍니다.\"",
+    Kor:"지금 공연히 사람을 죽이신다든지, 몸소 원수를 갚으신다든지 하여, 왕이 되실 때에 후회하시거나 마음에 걸리는 일이 없도록 하시기 바랍니다. 주께서 그처럼 좋은 일을 장군께 베풀어 주시는 날, 이 종을 기억해 주시기 바랍니다.\"",
     Chn:"",
     Eng:"my master will not have on his conscience the staggering burden of needless bloodshed or of having avenged himself. And when the LORD has brought my master success, remember your servant.\"",
     Ind:"maka tak usahlah tuanku bersusah hati dan menyesal karena menumpahkan darah tanpa alasan, dan karena tuanku bertindak sendiri dalam mencari keadilan. Dan apabila TUHAN berbuat baik kepada tuanku, ingatlah kepada hambamu ini.\""
   },
   {Bible:"1Samuel", Chapter:25, Verse:32, Page:1,
-    Kor:"○다윗이 아비가일에게 말하였다. \"주 이스라엘의 하나님이 오늘 그대를 보내어 이렇게 만나게 하여 주셨으니, 주님께 찬양을 드리오.",
+    Kor:"○다윗이 아비가일에게 말하였다. \"주 이스라엘의 하나님이 오늘 그대를 보내어 이렇게 만나게 하여 주셨으니, 주께 찬양을 드리오.",
     Chn:"大卫对亚比该说：「耶和华—以色列的　神是应当称颂的，因为他今日使你来迎接我。",
     Eng:"David said to Abigail, \"Praise be to the LORD, the God of Israel, who has sent you today to meet me.",
     Ind:"Lalu berkatalah Daud kepada Abigail: \"Terpujilah TUHAN, Allah Israel, yang mengutus engkau menemui aku pada hari ini;"
@@ -226,13 +226,13 @@ BibleDB.add([
     Ind:"Tetapi pada waktu pagi, ketika sudah hilang mabuk Nabal itu, diceriterakanlah kepadanya oleh isterinya segala perkara itu. Lalu terhentilah jantungnya dalam dada dan ia membatu."
   },
   {Bible:"1Samuel", Chapter:25, Verse:38, Page:1,
-    Kor:"열흘쯤 지났을 때에, 주님께서 나발을 치시니, 그가 죽었다.",
+    Kor:"열흘쯤 지났을 때에, 주께서 나발을 치시니, 그가 죽었다.",
     Chn:"过了十天，耶和华击打拿八，他就死了。",
     Eng:"About ten days later, the LORD struck Nabal and he died.",
     Ind:"Dan kira-kira sepuluh hari sesudah itu TUHAN memukul Nabal, sehingga ia mati."
   },
   {Bible:"1Samuel", Chapter:25, Verse:39, Page:1,
-    Kor:"○나발이 죽었다는 소문을 듣고, 다윗이 말하였다. \"주님을 찬양하여라! 나발이 나를 모욕하였으나, 주님께서 그 원수를 갚아 주시고, 이 종이 직접 무슨 악을 행하지 않게 막아 주셨다. 주님께서는 나발이 저지른 죄악을 나발의 머리로 돌려보내 주셨다.\" ○다윗은 아비가일을 자기의 아내로 삼으려고, 그 여인에게 사람을 보내어 그 뜻을 전하였다.",
+    Kor:"○나발이 죽었다는 소문을 듣고, 다윗이 말하였다. \"주를 찬양하여라! 나발이 나를 모욕하였으나, 주께서 그 원수를 갚아 주시고, 이 종이 직접 무슨 악을 행하지 않게 막아 주셨다. 주께서는 나발이 저지른 죄악을 나발의 머리로 돌려보내 주셨다.\" ○다윗은 아비가일을 자기의 아내로 삼으려고, 그 여인에게 사람을 보내어 그 뜻을 전하였다.",
     Chn:"大卫听见拿八死了，就说：「应当称颂耶和华，因他伸了拿八羞辱我的冤，又阻止仆人行恶；也使拿八的恶归到拿八的头上。」于是大卫打发人去，与亚比该说，要娶她为妻。",
     Eng:"When David heard that Nabal was dead, he said, \"Praise be to the LORD, who has upheld my cause against Nabal for treating me with contempt. He has kept his servant from doing wrong and has brought Nabal's wrongdoing down on his own head.\" Then David sent word to Abigail, asking her to become his wife.",
     Ind:"Ketika didengar Daud, bahwa Nabal telah mati, berkatalah ia: \"Terpujilah TUHAN, yang membela aku dalam perkara penghinaan Nabal terhadap aku dan yang mencegah hamba-Nya dari pada berbuat jahat. TUHAN telah membalikkan kejahatan Nabal ke atas kepalanya sendiri.\" Kemudian Daud menyuruh orang untuk berbicara dengan Abigail tentang mengambil dia menjadi isterinya."

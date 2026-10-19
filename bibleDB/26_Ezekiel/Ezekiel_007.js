@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",7,27);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:7, Verse:1, Page:1,
-    Kor:"<이스라엘의 종말이 다가오다> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:7, Verse:2, Page:1,
-    Kor:"○\"너 사람아, 이스라엘에게 전하여라. 나 주 하나님이 이스라엘 땅을 두고 말한다.  끝이 왔다. 이 땅의 사방 구석구석에 끝이 왔다.",
+    Kor:"○\"너 사람아, 이스라엘에게 전하여라. 나 주 하나님이 이스라엘 땅을 두고 말한다. '끝이 왔다. 이 땅의 사방 구석구석에 끝이 왔다.",
     Chn:"「人子啊，主耶和华对以色列地如此说：结局到了，结局到了地的四境！",
     Eng:"\"Son of man, this is what the Sovereign LORD says to the land of Israel: The end! The end has come upon the four corners of the land.",
     Ind:"\"Engkau, anak manusia, katakanlah: Beginilah firman Tuhan ALLAH kepada tanah Israel: Berakhir! Berakhirlah keempat penjuru tanah itu."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Kini kesudahanmu tiba dan Aku akan mencurahkan murka-Ku atasmu dan Aku akan menghakimi engkau selaras dengan tingkah lakumu dan Aku akan membalaskan kepadamu segala perbuatanmu yang keji."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:4, Page:1,
-    Kor:"내가 너희를 아끼지도 않고, 불쌍히 여기지도 않겠다. 오히려 나는 너희의 모든 행실에 따라 너희를 벌하여, 역겨운 일들이 바로 너희의 한가운데서 벌어지게 하겠다. 그 때에야 비로소 내가 주인 줄 너희가 알게 될 것이다.\"",
+    Kor:"내가 너희를 아끼지도 않고, 불쌍히 여기지도 않겠다. 오히려 나는 너희의 모든 행실에 따라 너희를 벌하여, 역겨운 일들이 바로 너희의 한가운데서 벌어지게 하겠다. 그 때에야 비로소 내가 주인 줄 너희가 알게 될 것이다.'\"",
     Chn:"我眼必不顾惜你，也不可怜你，却要按你所行的报应你，照你中间可憎的事刑罚你。你就知道我是耶和华。",
     Eng:"I will not look on you with pity or spare you; I will surely repay you for your conduct and the detestable practices among you. Then you will know that I am the LORD.",
     Ind:"Aku tidak akan merasa sayang kepadamu dan tidak akan kenal belas kasihan, tetapi Aku akan membalaskan kepadamu selaras dengan tingkah lakumu dan perbuatan-perbuatanmu yang keji akan tertimpa atasmu. Maka kamu akan mengetahui, bahwa Akulah TUHAN."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:5, Page:1,
-    Kor:"주 하나님이 이렇게 말씀하신다. \"a재앙이다. 너희가 들어보지 못한 재앙이다. 이미 다가왔다. (a 몇몇 히브리어 사본과 시리아어역에는 '재앙에 재앙이 겹쳐 온다!')",
+    Kor:"주 하나님이 이렇게 말씀하신다. \"재앙이다. 너희가 들어보지 못한 재앙이다. 이미 다가왔다.",
     Chn:"「主耶和华如此说：有一灾，独有一灾；看哪，临近了！",
     Eng:"\"This is what the Sovereign LORD says: Disaster! An unheard-of disaster is coming.",
     Ind:"Beginilah firman Tuhan ALLAH: Lihat, bencana demi bencana akan datang!"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Malapetaka datang atasmu, hai penduduk negeri! Waktunya datang, saatnya tiba! Hari huru-hara, bukan tempik sorak di atas gunung-gunung."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:8, Page:1,
-    Kor:"나는 이제 너희에게 내 분노를, 나의 분을 너희에게 쏟아서, 너희 행실에 따라 너희를 심판하며, 너희의 역겨운 일들을 너희에게 갚아주겠다.",
+    Kor:"나는 이제 너희에게 내 분노를, 나의 분을 너희에게 풀어서, 너희 행실에 따라 너희를 심판하며, 너희의 역겨운 일들을 너희에게 보응하겠다.",
     Chn:"我快要将我的忿怒倾在你身上，向你成就我怒中所定的，按你的行为审判你，照你一切可憎的事刑罚你。",
     Eng:"I am about to pour out my wrath on you and spend my anger against you; I will judge you according to your conduct and repay you for all your detestable practices.",
     Ind:"Sekarang dengan segera Aku akan mencurahkan amarah-Ku atasmu dan melampiaskan murka-Ku kepadamu, Aku akan menghakimi engkau selaras dengan tingkah lakumu dan membalaskan kepadamu segala perbuatan-perbuat yang keji."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lihat, harinya sungguh datang: malapetaka akan menimpa, kelaliman bertunas, keangkuhan bertaruk."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:11, Page:1,
-    Kor:"b폭력이 일어나서 죄악을 징벌하는 몽둥이가 되었다. 이 백성 가운데서 한 사람도 남지 않고, 이 백성의 무리들 가운데서도 더 이상 남을 사람이 없고, 그들의 재물이나 그들이 가진 것들 가운데서 눈에 띌 만한 것은 하나도 남아 있지 않을 것이다. (b 또는 '광포한 자가')",
+    Kor:"폭력이 일어나서 죄악을 징벌하는 몽둥이가 되었다. 이 백성 가운데서 한 사람도 남지 않고, 이 백성의 무리들 가운데서도 더 이상 남을 사람이 없고, 그들의 재물이나 그들이 가진 것들 가운데서 눈에 띌 만한 것은 하나도 남아 있지 않을 것이다.",
     Chn:"强暴兴起，成了罚恶的杖。以色列人，或是他们的群众，或是他们的财宝，无一存留；他们中间也没有得尊荣的。",
     Eng:"Violence has grown into a rod to punish wickedness; none of the people will be left, none of that crowd--no wealth, nothing of value.",
     Ind:"Kekerasan bersimaharajalela, yang menjadi penopang segala kejahatan. Tidak ada dari mereka yang tertinggal, baik dari kelimpahan mereka maupun dari kemewahannya; kemolekannyapun akan terhapus."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Waktunya datang, harinya mendekat! Biarlah si pembeli jangan bergembira dan biarlah si penjual jangan berdukacita, karena kehangatan murka tertimpa atas segala kegemparan mereka."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:13, Page:1,
-    Kor:"○판 사람이 아직 살아 있다 하여도, 팔린 것을 되찾으려고 돌아갈 수가 없을 것이니, 이 땅의 모든 무리에게 보여 준 묵시는 돌이킬 수가 없기 때문이다. 죄를 짓고서는, 어느 누구도 자기 목숨을 굳게 부지할 수가 없다.",
+    Kor:"○판 사람이 아직 살아 있다 하여도, 팔린 것을 얻으려고 돌아갈 수가 없을 것이니, 이 땅의 모든 무리에게 보여 준 묵시는 돌이킬 수가 없기 때문이다. 죄를 짓고서는, 어느 누구도 자기 목숨을 굳게 부지할 수가 없다.",
     Chn:"卖主虽然存活，却不能归回再得所卖的，因为这异象关乎他们众人。谁都不得归回，也没有人在他的罪孽中坚立自己。」",
     Eng:"The seller will not recover the land he has sold as long as both of them live, for the vision concerning the whole crowd will not be reversed. Because of their sins, not one of them will preserve his life.",
     Ind:"Sebab si penjual tidak akan kembali kepada jualannya, kalaupun mereka masih di tengah-tengah orang hidup, karena kehangatan murka tertimpa atas segala kegemparan mereka dan tidak dapat ditahan lagi, dan seorangpun tidak dapat mempertahankan hidupnya oleh karena kesalahannya."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Tiuplah sangkakala dan sediakanlah segala sesuatu! Tetapi seorangpun tidak maju berperang, sebab kehangatan murka-Ku tertimpa atas segala kegemparan mereka."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:15, Page:1,
-    Kor:"<이스라엘이 받는 형벌> \"거리에는 전쟁이 있고, 집 안에는 전염병과 기근이 있다. 들녘에 있는 사람은 칼에 찔려 죽고, 성읍 안에 있는 사람은 기근과 전염병으로 죽는다.",
+    Kor:"\"거리에는 전쟁이 있고, 집 안에는 전염병과 기근이 있다. 들녘에 있는 사람은 칼에 찔려 죽고, 성읍 안에 있는 사람은 기근과 전염병으로 죽는다.",
     Chn:"在外有刀剑；在内有瘟疫、饥荒。在田野的，必遭刀剑而死；在城中的，必有饥荒、瘟疫吞灭他。",
     Eng:"\"Outside is the sword, inside are plague and famine; those in the country will die by the sword, and those in the city will be devoured by famine and plague.",
     Ind:"Pedang ada di luar kota, sampar dan kelaparan ada di dalam. Barangsiapa yang di luar kota akan mati karena pedang, dan barangsiapa yang di dalam kota akan binasa oleh kelaparan dan sampar."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Aku akan menyerahkannya menjadi rampasan di tangan orang-orang asing dan menjadi jarahan bagi orang-orang fasik di bumi ini, dan mereka ini akan menajiskannya."
   },
   {Bible:"Ezekiel", Chapter:7, Verse:22, Page:1,
-    Kor:"내가 간섭하지 않을 것이니, 외국 사람들이 나의 c은밀한 성소를 더럽히고, 도둑들이 그 곳에 들어가서 약탈할 것이다. (c 또는 '보물을 쌓아 둔 곳을')",
+    Kor:"내가 간섭하지 않을 것이니, 외국 사람들이 나의 은밀한 성소를 더럽히고, 도둑들이 그 곳에 들어가서 약탈할 것이다.",
     Chn:"我必转脸不顾以色列人，他们亵渎我隐密之所，强盗也必进去亵渎。",
     Eng:"I will turn my face away from them, and they will desecrate my treasured place; robbers will enter it and desecrate it.",
     Ind:"Aku akan memalingkan wajah-Ku dari pada mereka dan perampok-perampok akan menajiskan rumah-Ku yang berharga; mereka akan masuk ke dalamnya dan menajiskannya,"

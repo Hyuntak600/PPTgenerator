@@ -3,7 +3,7 @@
 BibleDB.ref("Job",18,21);
 BibleDB.add([
   {Bible:"Job", Chapter:18, Verse:1, Page:1,
-    Kor:"<빌닷의 두 번째 발언> 수아 사람 빌닷이 대답하였다.",
+    Kor:"수아 사람 빌닷이 대답하였다.",
     Chn:"书亚人比勒达回答说：",
     Eng:"Then Bildad the Shuhite replied:",
     Ind:"Maka Bildad, orang Suah, menjawab:"

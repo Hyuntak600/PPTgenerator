@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Aku akan mendekati kamu untuk menghakimi dan akan segera menjadi saksi terhadap tukang-tukang sihir, orang-orang berzinah dan orang-orang yang bersumpah dusta dan terhadap orang-orang yang menindas orang upahan, janda dan anak piatu, dan yang mendesak ke samping orang asing, dengan tidak takut kepada-Ku, firman TUHAN semesta alam."
   },
   {Bible:"Malachi", Chapter:3, Verse:6, Page:1,
-    Kor:"<십일조> \"나 주는 변하지 않는다. 그러므로 너 야곱의 자손아, 너희는 멸망하지 않는다.",
+    Kor:"\"나 주는 변하지 않는다. 그러므로 너 야곱의 자손아, 너희는 멸망하지 않는다.",
     Chn:"「因我—耶和华是不改变的，所以你们雅各之子没有灭亡。",
     Eng:"\"I the LORD do not change. So you, O descendants of Jacob, are not destroyed.",
     Ind:"Bahwasanya Aku, TUHAN, tidak berubah, dan kamu, bani Yakub, tidak akan lenyap."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Maka segala bangsa akan menyebut kamu berbahagia, sebab kamu ini akan menjadi negeri kesukaan, firman TUHAN semesta alam."
   },
   {Bible:"Malachi", Chapter:3, Verse:13, Page:1,
-    Kor:"<이스라엘을 귀하게 만들고 아끼시다> \"너희가 불손한 말로 나를 거역하였다. 나, 주가 말한다. '우리가 무슨 말을 하였기에, 주님을 거역하였다고 하십니까?' 하고 너희는 묻는다.",
+    Kor:"\"너희가 불손한 말로 나를 거역하였다. 나, 주가 말한다. '우리가 무슨 말을 하였기에, 주님을 거역하였다고 하십니까?' 하고 너희는 묻는다.",
     Chn:"耶和华说：「你们用话顶撞我，你们还说：『我们用什么话顶撞了你呢？』",
     Eng:"\"You have said harsh things against me,\" says the LORD. \"Yet you ask, 'What have we said against you?'",
     Ind:"Bicaramu kurang ajar tentang Aku, firman TUHAN. Tetapi kamu berkata: \"Apakah kami bicarakan di antara kami tentang Engkau?\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu kita ini menyebut berbahagia orang-orang yang gegabah: bukan saja mujur orang-orang yang berbuat fasik itu, tetapi dengan mencobai Allahpun, mereka luput juga.\""
   },
   {Bible:"Malachi", Chapter:3, Verse:16, Page:1,
-    Kor:"○그 때에 주님께서는, 주님을 경외한 사람들이 서로 주고받는 말을 똑똑히 들으셨다. 그 가운데서도 주님을 경외하며, 주님의 이름을 존중하는 사람들을 당신 앞에 있는 비망록에 기록하셨다.",
+    Kor:"○그 때에 주께서는, 주를 경외한 사람들이 서로 주고받는 말을 똑똑히 들으셨다. 그 가운데서도 주를 경외하며, 주의 이름을 존중하는 사람들을 당신 앞에 있는 비망록에 기록하셨다.",
     Chn:"那时，敬畏耶和华的彼此谈论，耶和华侧耳而听，且有纪念册在他面前，记录那敬畏耶和华、思念他名的人。",
     Eng:"Then those who feared the LORD talked with each other, and the LORD listened and heard. A scroll of remembrance was written in his presence concerning those who feared the LORD and honored his name.",
     Ind:"Beginilah berbicara satu sama lain orang-orang yang takut akan TUHAN: \"TUHAN memperhatikan dan mendengarnya; sebuah kitab peringatan ditulis di hadapan-Nya bagi orang-orang yang takut akan TUHAN dan bagi orang-orang yang menghormati nama-Nya.\""

@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",18,33);
 BibleDB.add([
   {Bible:"Genesis", Chapter:18, Verse:1, Page:1,
-    Kor:"<아브라함이 아들을 약속받다> 주님께서 마므레의 상수리나무 곁에서 아브라함에게 나타나셨다. 한창 더운 대낮에, 아브라함은 자기의 장막 어귀에 앉아 있었다.",
+    Kor:"주께서 마므레의 상수리나무 곁에서 아브라함에게 나타나셨다. 한창 더운 대낮에, 아브라함은 자기의 장막 어귀에 앉아 있었다.",
     Chn:"耶和华在幔利橡树那里向亚伯拉罕显现出来。那时正热，亚伯拉罕坐在帐棚门口，",
     Eng:"The LORD appeared to Abraham near the great trees of Mamre while he was sitting at the  entrance to his tent in the heat of the day.",
     Ind:"Kemudian TUHAN menampakkan diri kepada Abraham dekat pohon tarbantin di Mamre, sedang ia duduk di pintu kemahnya waktu hari panas terik."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Biarlah diambil air sedikit, basuhlah kakimu dan duduklah beristirahat di bawah pohon ini;"
   },
   {Bible:"Genesis", Chapter:18, Verse:5, Page:1,
-    Kor:"손님들께서 잡수실 것을, 제가 조금 가져 오겠습니다. 이렇게 이 종에게로 오셨으니, 좀 잡수시고, 기분이 상쾌해진 다음에 길을 떠나시기 바랍니다.\" 그들이 대답하였다. \"좋습니다. 정 그렇게 하라고 하시면, 사양하지 않겠습니다.\"",
+    Kor:"손님들께서 잡수실 것을, 제가 조금 가져 오겠습니다. 이렇게 이 종에게로 오셨으니, 좀 잡수시고, 기분이 상쾌해진 다음에, 길을 떠나시기 바랍니다.\" 그들이 대답하였다. \"좋습니다. 정 그렇게 하라고 하시면, 사양하지 않겠습니다.\"",
     Chn:"我再拿一点饼来，你们可以加添心力，然后往前去。你们既到仆人这里来，理当如此。」他们说：「就照你说的行吧。」",
     Eng:"Let me get you something to eat, so you can be refreshed and then go on your way--now that  you have come to your servant.\" \"Very well,\" they answered, \"do as you say.\"",
     Ind:"biarlah kuambil sepotong roti, supaya tuan-tuan segar kembali; kemudian bolehlah tuan-tuan meneruskan perjalanannya; sebab tuan-tuan telah datang ke tempat hambamu ini.\" Jawab mereka: \"Perbuatlah seperti yang kaukatakan itu.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Lalu kata mereka kepadanya: \"Di manakah Sara, isterimu?\" Jawabnya: \"Di sana, di dalam kemah.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:10, Page:1,
-    Kor:"그 때에 주님께서 말씀하셨다. \"다음 해 이맘때에, 내가 반드시 너를 다시 찾아오겠다. 그 때에 너의 아내 사라에게 아들이 있을 것이다.\" 사라는, 아브라함이 등지고 서 있는 장막 어귀에서 이 말을 들었다.",
+    Kor:"그 때에 주께서 말씀하셨다. \"다음 해 이맘때에, 내가 반드시 너를 다시 찾아오겠다. 그 때에 너의 아내 사라에게 아들이 있을 것이다.\" 사라는, 아브라함이 등지고 서 있는 장막 어귀에서 이 말을 들었다.",
     Chn:"三人中有一位说：「到明年这时候，我必要回到你这里；你的妻子撒拉必生一个儿子。」撒拉在那人后边的帐棚门口也听见了这话。",
     Eng:"Then the LORD said, \"I will surely return to you about this time next year, and Sarah your  wife will have a son.\" Now Sarah was listening at the entrance to the tent, which was behind him.",
     Ind:"Dan firman-Nya: \"Sesungguhnya Aku akan kembali tahun depan mendapatkan engkau, pada waktu itulah Sara, isterimu, akan mempunyai seorang anak laki-laki.\" Dan Sara mendengarkan pada pintu kemah yang di belakang-Nya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Jadi tertawalah Sara dalam hatinya, katanya: \"Akan berahikah aku, setelah aku sudah layu, sedangkan tuanku sudah tua?\""
   },
   {Bible:"Genesis", Chapter:18, Verse:13, Page:1,
-    Kor:"그 때에 주님께서 아브라함에게 말씀하셨다. \"어찌하여 사라가 웃으면서 '이 늙은 나이에 내가 어찌 아들을 낳으랴?' 하느냐?",
+    Kor:"그 때에 주께서 아브라함에게 말씀하셨다. \"어찌하여 사라가 웃으면서 '이 늙은 나이에 내가 어찌 아들을 낳으랴?' 하느냐?",
     Chn:"耶和华对亚伯拉罕说：「撒拉为什么暗笑，说：『我既已年老，果真能生养吗？』",
     Eng:"Then the LORD said to Abraham, \"Why did Sarah laugh and say, 'Will I really have a child,  now that I am old?'",
     Ind:"Lalu berfirmanlah TUHAN kepada Abraham: \"Mengapakah Sara tertawa dan berkata: Sungguhkah aku akan melahirkan anak, sedangkan aku telah tua?"
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Adakah sesuatu apapun yang mustahil untuk TUHAN? Pada waktu yang telah ditetapkan itu, tahun depan, Aku akan kembali mendapatkan engkau, pada waktu itulah Sara mempunyai seorang anak laki-laki.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:15, Page:1,
-    Kor:"사라는 두려워서 거짓말을 하였다. \"저는 웃지 않았습니다.\" 그러나 주님께서 말씀하셨다. \"아니다. 너는 웃었다.\"",
+    Kor:"사라는 두려워서 거짓말을 하였다. \"저는 웃지 않았습니다.\" 그러나 주께서 말씀하셨다. \"아니다. 너는 웃었다.\"",
     Chn:"撒拉就害怕，不承认，说：「我没有笑。」那位说：「不然，你实在笑了。」",
     Eng:"Sarah was afraid, so she lied and said, \"I did not laugh.\" But he said, \"Yes, you did  laugh.\"",
     Ind:"Lalu Sara menyangkal, katanya: \"Aku tidak tertawa,\" sebab ia takut; tetapi TUHAN berfirman: \"Tidak, memang engkau tertawa!\""
   },
   {Bible:"Genesis", Chapter:18, Verse:16, Page:1,
-    Kor:"<아브라함이 소돔을 위하여 빌다> ○그 사람들이 떠나려고 일어서서, 소돔이 내려다보이는 데로 갔다. 아브라함은 그들을 바래다 주려고, 함께 얼마쯤 걸었다.",
+    Kor:"○그 사람들이 떠나려고 일어서서, 소돔이 내려다보이는 데로 갔다. 아브라함은 그들을 바래다 주려고, 함께 얼마쯤 걸었다.",
     Chn:"三人就从那里起行，向所多玛观看，亚伯拉罕也与他们同行，要送他们一程。",
     Eng:"When the men got up to leave, they looked down toward Sodom, and Abraham walked along with  them to see them on their way.",
     Ind:"Lalu berangkatlah orang-orang itu dari situ dan memandang ke arah Sodom; dan Abraham berjalan bersama-sama dengan mereka untuk mengantarkan mereka."
   },
   {Bible:"Genesis", Chapter:18, Verse:17, Page:1,
-    Kor:"그 때에 주님께서 말씀하셨다. \"내가 앞으로 하려고 하는 일을, 어찌 아브라함에게 숨기랴?",
+    Kor:"그 때에 주께서 말씀하셨다. \"내가 앞으로 하려고 하는 일을, 어찌 아브라함에게 숨기랴?",
     Chn:"耶和华说：「我所要做的事岂可瞒着亚伯拉罕呢？",
     Eng:"Then the LORD said, \"Shall I hide from Abraham what I am about to do?",
     Ind:"Berpikirlah TUHAN: \"Apakah Aku akan menyembunyikan kepada Abraham apa yang hendak Kulakukan ini?"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Sebab Aku telah memilih dia, supaya diperintahkannya kepada anak-anaknya dan kepada keturunannya supaya tetap hidup menurut jalan yang ditunjukkan TUHAN, dengan melakukan kebenaran dan keadilan, dan supaya TUHAN memenuhi kepada Abraham apa yang dijanjikan-Nya kepadanya.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:20, Page:1,
-    Kor:"주님께서 또 말씀하셨다. \"소돔과 고모라에서 들려 오는 저 울부짖는 소리가 너무 크다. 그 안에서 사람들이 엄청난 죄를 저지르고 있다.",
+    Kor:"주께서 또 말씀하셨다. \"소돔과 고모라에서 들려 오는 저 울부짖는 소리가 너무 크다. 그 안에서 사람들이 엄청난 죄를 저지르고 있다.",
     Chn:"耶和华说：「所多玛和蛾摩拉的罪恶甚重，声闻于我。",
     Eng:"Then the LORD said, \"The outcry against Sodom and Gomorrah is so great and their sin so  grievous",
     Ind:"Sesudah itu berfirmanlah TUHAN: \"Sesungguhnya banyak keluh kesah orang tentang Sodom dan Gomora dan sesungguhnya sangat berat dosanya."
@@ -129,73 +129,73 @@ BibleDB.add([
     Ind:"Baiklah Aku turun untuk melihat, apakah benar-benar mereka telah berkelakuan seperti keluh kesah orang yang telah sampai kepada-Ku atau tidak; Aku hendak mengetahuinya.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:22, Page:1,
-    Kor:"○그 사람들은 거기에서 떠나서 소돔으로 갔으나, a아브라함은 주님 앞에 그대로 서 있었다.(a 마소라 본문을 따름. 고대 히브리의 서기관 전통에서는 '주님께서 아브라함 앞에 그대로 서 계셨다')",
+    Kor:"○그 사람들은 거기에서 떠나서 소돔으로 갔으나, 아브라함은 주 앞에 그대로 서 있었다.",
     Chn:"二人转身离开那里，向所多玛去；但亚伯拉罕仍旧站在耶和华面前。",
     Eng:"The men turned away and went toward Sodom, but Abraham remained standing before the LORD.",
     Ind:"Lalu berpalinglah orang-orang itu dari situ dan berjalan ke Sodom, tetapi Abraham masih tetap berdiri di hadapan TUHAN."
   },
   {Bible:"Genesis", Chapter:18, Verse:23, Page:1,
-    Kor:"아브라함이 주님께 가까이 가서 아뢰었다. \"주님께서 의인을 기어이 악인과 함께 쓸어 버리시렵니까?",
+    Kor:"아브라함이 주께 가까이 가서 아뢰었다. \"주께서 의인을 기어이 악인과 함께 쓸어 버리시렵니까?",
     Chn:"亚伯拉罕近前来，说：「无论善恶，你都要剿灭吗？",
     Eng:"Then Abraham approached him and said: \"Will you sweep away the righteous with the wicked?",
     Ind:"Abraham datang mendekat dan berkata: \"Apakah Engkau akan melenyapkan orang benar bersama-sama dengan orang fasik?"
   },
   {Bible:"Genesis", Chapter:18, Verse:24, Page:1,
-    Kor:"그 성 안에 의인이 쉰 명이 있으면, 어떻게 하시겠습니까? 그래도 주님께서는 그 성을 기어이 쓸어 버리시렵니까? 의인 쉰 명을 보시고서도, 그 성을 용서하지 않으시렵니까?",
+    Kor:"그 성 안에 의인이 쉰 명이 있으면, 어떻게 하시겠습니까? 그래도 주께서는 그 성을 기어이 쓸어 버리시렵니까? 의인 쉰 명을 보시고서도, 그 성을 용서하지 않으시렵니까?",
     Chn:"假若那城里有五十个义人，你还剿灭那地方吗？不为城里这五十个义人饶恕其中的人吗？",
     Eng:"What if there are fifty righteous people in the city? Will you really sweep it away and not  spare the place for the sake of the fifty righteous people in it?",
     Ind:"Bagaimana sekiranya ada lima puluh orang benar dalam kota itu? Apakah Engkau akan melenyapkan tempat itu dan tidakkah Engkau mengampuninya karena kelima puluh orang benar yang ada di dalamnya itu?"
   },
   {Bible:"Genesis", Chapter:18, Verse:25, Page:1,
-    Kor:"그처럼 의인을 악인과 함께 죽게 하시는 것은, 주님께서 하실 일이 아닙니다. 의인을 악인과 똑같이 보시는 것도, 주님께서 하실 일이 아닌 줄 압니다. 세상을 심판하시는 분께서는 공정하게 판단하셔야 하지 않겠습니까?\"",
+    Kor:"그처럼 의인을 악인과 함께 죽게 하시는 것은, 주께서 하실 일이 아닙니다. 의인을 악인과 똑같이 보시는 것도, 주께서 하실 일이 아닌 줄 압니다. 세상을 심판하시는 분께서는 공정하게 판단하셔야 하지 않겠습니까?\"",
     Chn:"将义人与恶人同杀，将义人与恶人一样看待，这断不是你所行的。审判全地的主岂不行公义吗？」",
     Eng:"Far be it from you to do such a thing--to kill the righteous with the wicked, treating the  righteous and the wicked alike. Far be it from you! Will not the Judge of all the earth do  right?\"",
     Ind:"Jauhlah kiranya dari pada-Mu untuk berbuat demikian, membunuh orang benar bersama-sama dengan orang fasik, sehingga orang benar itu seolah-olah sama dengan orang fasik! Jauhlah kiranya yang demikian dari pada-Mu! Masakan Hakim segenap bumi tidak menghukum dengan adil?\""
   },
   {Bible:"Genesis", Chapter:18, Verse:26, Page:1,
-    Kor:"주님께서 대답하셨다. \"소돔 성에서 내가 의인 쉰 명만을 찾을 수 있으면, 그들을 보아서라도 그 성 전체를 용서하겠다.\"",
+    Kor:"주께서 대답하셨다. \"소돔 성에서 내가 의인 쉰 명만을 찾을 수 있으면, 그들을 보아서라도 그 성 전체를 용서하겠다.\"",
     Chn:"耶和华说：「我若在所多玛城里见有五十个义人，我就为他们的缘故饶恕那地方的众人。」",
     Eng:"The LORD said, \"If I find fifty righteous people in the city of Sodom, I will spare the  whole place for their sake.\"",
     Ind:"TUHAN berfirman: \"Jika Kudapati lima puluh orang benar dalam kota Sodom, Aku akan mengampuni seluruh tempat itu karena mereka.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:27, Page:1,
-    Kor:"아브라함이 다시 아뢰었다. \"티끌이나 재밖에 안 되는 주제에, 제가 주님께 감히 아룁니다.",
+    Kor:"아브라함이 다시 아뢰었다. \"티끌이나 재밖에 안 되는 주제에, 제가 주께 감히 아룁니다.",
     Chn:"亚伯拉罕说：「我虽然是灰尘，还敢对主说话。",
     Eng:"Then Abraham spoke up again: \"Now that I have been so bold as to speak to the Lord, though  I am nothing but dust and ashes,",
     Ind:"Abraham menyahut: \"Sesungguhnya aku telah memberanikan diri berkata kepada Tuhan, walaupun aku debu dan abu."
   },
   {Bible:"Genesis", Chapter:18, Verse:28, Page:1,
-    Kor:"의인이 쉰 명에서 다섯이 모자란다고 하면, 어떻게 하시겠습니까? 다섯이 모자란다고, 성 전체를 다 멸하시겠습니까?\" 주님께서 대답하셨다. \"내가 거기에서 마흔다섯 명만 찾아도, 그 성을 멸하지 않겠다.\"",
+    Kor:"의인이 쉰 명에서 다섯이 모자란다고 하면, 어떻게 하시겠습니까? 다섯이 모자란다고, 성 전체를 다 멸하시겠습니까?\" 주께서 대답하셨다. \"내가 거기에서 마흔다섯 명만 찾아도, 그 성을 멸하지 않겠다.\"",
     Chn:"假若这五十个义人短了五个，你就因为短了五个毁灭全城吗？」他说：「我在那里若见有四十五个，也不毁灭那城。」",
     Eng:"what if the number of the righteous is five less than fifty? Will you destroy the whole  city because of five people?\" \"If I find forty-five there,\" he said, \"I will not destroy it.\"",
     Ind:"Sekiranya kurang lima orang dari kelima puluh orang benar itu, apakah Engkau akan memusnahkan seluruh kota itu karena yang lima itu?\" Firman-Nya: \"Aku tidak memusnahkannya, jika Kudapati empat puluh lima di sana.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:29, Page:1,
-    Kor:"아브라함이 다시 한 번 주님께 아뢰었다. \"거기에서 마흔 명만 찾으시면, 어떻게 하시겠습니까?\" 주님께서 대답하셨다. \"그 마흔 명을 보아서, 내가 그 성을 멸하지 않겠다.\"",
+    Kor:"아브라함이 다시 한 번 주께 아뢰었다. \"거기에서 마흔 명만 찾으시면, 어떻게 하시겠습니까?\" 주께서 대답하셨다. \"그 마흔 명을 보아서, 내가 그 성을 멸하지 않겠다.\"",
     Chn:"亚伯拉罕又对他说：「假若在那里见有四十个怎么样呢？」他说：「为这四十个的缘故，我也不做这事。」",
     Eng:"Once again he spoke to him, \"What if only forty are found there?\" He said, \"For the sake of  forty, I will not do it.\"",
     Ind:"Lagi Abraham melanjutkan perkataannya kepada-Nya: \"Sekiranya empat puluh didapati di sana?\" Firman-Nya: \"Aku tidak akan berbuat demikian karena yang empat puluh itu.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:30, Page:1,
-    Kor:"아브라함이 또 아뢰었다. \"주님! 노하지 마시고, 제가 말씀드리는 것을 허락하여 주시기 바랍니다. 거기에서 서른 명만 찾으시면, 어떻게 하시겠습니까?\" 주님께서 대답하셨다. \"거기에서 서른 명만 찾아도, 내가 그 성을 멸하지 않겠다.\"",
+    Kor:"아브라함이 또 아뢰었다. \"주님! 노하지 마시고, 제가 말씀드리는 것을 허락하여 주시기 바랍니다. 거기에서 서른 명만 찾으시면, 어떻게 하시겠습니까?\" 주께서 대답하셨다. \"거기에서 서른 명만 찾아도, 내가 그 성을 멸하지 않겠다.\"",
     Chn:"亚伯拉罕说：「求主不要动怒，容我说，假若在那里见有三十个怎么样呢？」他说：「我在那里若见有三十个，我也不做这事。」",
     Eng:"Then he said, \"May the Lord not be angry, but let me speak. What if only thirty can be  found there?\" He answered, \"I will not do it if I find thirty there.\"",
     Ind:"Katanya: \"Janganlah kiranya Tuhan murka, kalau aku berkata sekali lagi. Sekiranya tiga puluh didapati di sana?\" Firman-Nya: \"Aku tidak akan berbuat demikian, jika Kudapati tiga puluh di sana.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:31, Page:1,
-    Kor:"아브라함이 다시 아뢰었다. \"감히 주님께 아룁니다. 거기에서 스무 명만 찾으시면, 어떻게 하시겠습니까?\" 주님께서 대답하셨다. \"스무 명을 보아서라도, 내가 그 성을 멸하지 않겠다.\"",
+    Kor:"아브라함이 다시 아뢰었다. \"감히 주께 아룁니다. 거기에서 스무 명만 찾으시면, 어떻게 하시겠습니까?\" 주께서 대답하셨다. \"스무 명을 보아서라도, 내가 그 성을 멸하지 않겠다.\"",
     Chn:"亚伯拉罕说：「我还敢对主说话，假若在那里见有二十个怎么样呢？」他说：「为这二十个的缘故，我也不毁灭那城。」",
     Eng:"Abraham said, \"Now that I have been so bold as to speak to the Lord, what if only twenty  can be found there?\" He said, \"For the sake of twenty, I will not destroy it.\"",
     Ind:"Katanya: \"Sesungguhnya aku telah memberanikan diri berkata kepada Tuhan. Sekiranya dua puluh didapati di sana?\" Firman-Nya: \"Aku tidak akan memusnahkannya karena yang dua puluh itu.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:32, Page:1,
-    Kor:"아브라함이 또 아뢰었다. \"주님! 노하지 마시고, 제가 한 번만 더 말씀드리게 허락하여 주시기 바랍니다. 거기에서 열 명만 찾으시면, 어떻게 하시겠습니까?\" 주님께서 대답하셨다. \"열 명을 보아서라도, 내가 그 성을 멸하지 않겠다.\"",
+    Kor:"아브라함이 또 아뢰었다. \"주님! 노하지 마시고, 제가 한 번만 더 말씀드리게 허락하여 주시기 바랍니다. 거기에서 열 명만 찾으시면, 어떻게 하시겠습니까?\" 주께서 대답하셨다. \"열 명을 보아서라도, 내가 그 성을 멸하지 않겠다.\"",
     Chn:"亚伯拉罕说：「求主不要动怒，我再说这一次，假若在那里见有十个呢？」他说：「为这十个的缘故，我也不毁灭那城。」",
     Eng:"Then he said, \"May the Lord not be angry, but let me speak just once more. What if only ten  can be found there?\" He answered, \"For the sake of ten, I will not destroy it.\"",
     Ind:"Katanya: \"Janganlah kiranya Tuhan murka, kalau aku berkata lagi sekali ini saja. Sekiranya sepuluh didapati di sana?\" Firman-Nya: \"Aku tidak akan memusnahkannya karena yang sepuluh itu.\""
   },
   {Bible:"Genesis", Chapter:18, Verse:33, Page:1,
-    Kor:"주님께서는 아브라함과 말씀을 마치신 뒤에 곧 가시고, 아브라함도 자기가 사는 곳으로 돌아갔다.",
+    Kor:"주께서는 아브라함과 말씀을 마치신 뒤에 곧 가시고, 아브라함도 자기가 사는 곳으로 돌아갔다.",
     Chn:"耶和华与亚伯拉罕说完了话就走了；亚伯拉罕也回到自己的地方去了。",
     Eng:"When the LORD had finished speaking with Abraham, he left, and Abraham returned home.",
     Ind:"Lalu pergilah TUHAN, setelah Ia selesai berfirman kepada Abraham; dan kembalilah Abraham ke tempat tinggalnya."

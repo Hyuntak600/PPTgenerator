@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",46,28);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:46, Verse:1, Page:1,
-    Kor:"<이집트 심판의 예언> 이것은 이방 민족들에게 전하라고, 예언자 예레미야에게 하신 주님의 말씀이다.",
+    Kor:"이것은 이방 민족들에게 전하라고, 예언자 예레미야에게 하신 주의 말씀이다.",
     Chn:"耶和华论列国的话临到先知耶利米。",
     Eng:"This is the word of the LORD that came to Jeremiah the prophet concerning the nations:",
     Ind:"Firman TUHAN yang datang kepada nabi Yeremia tentang bangsa-bangsa."
   },
   {Bible:"Jeremiah", Chapter:46, Verse:2, Page:1,
-    Kor:"이것은 이집트에게 한 말씀으로서, 요시야의 아들 여호야김이 유다 왕이 되어 다스린 지 사 년째가 되던 해에, 유프라테스 강 근처의 갈그미스까지 원정을 갔다가 바빌로니아 왕 느부갓네살에게 격파된 이집트 왕 바로 느고의 군대를 두고 하신 말씀이다.",
+    Kor:"이것은 이집트에게 한 말씀으로서, 요시야의 아들 여호야김이 유다 왕이 되어 다스린 지 사년째가 되던 해에, 유프라테스 강 근처의 갈그미스까지 원정을 갔다가 바빌로니아 왕 느부갓네살에게 격파된 이집트 왕 바로 느고의 군대를 두고 하신 말씀이다.",
     Chn:"论到关乎埃及王法老尼哥的军队：这军队安营在幼发拉底河边的迦基米施，是巴比伦王尼布甲尼撒在犹大王约西亚的儿子约雅敬第四年所打败的。",
     Eng:"Concerning Egypt: This is the message against the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:",
     Ind:"Mengenai Mesir. Terhadap tentara Firaun Nekho, raja Mesir, yang berkemah di tepi sungai Efrat dekat Karkemis dan yang dipukul kalah oleh Nebukadnezar, raja Babel, dalam tahun yang keempat pemerintahan Yoyakim bin Yosia, raja Yehuda:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Pasanglah kuda, dan naiklah, hai pengendara-pengendara! Ambillah tempatmu dengan memakai ketopong, tajamkanlah tombakmu, pakailah baju zirahmu!"
   },
   {Bible:"Jeremiah", Chapter:46, Verse:5, Page:1,
-    Kor:"주님께서 말씀하신다. \"내가 보고 있는 것이 무엇이냐? 그들이 모두 놀라서 뒤로 도망하고 있구나. 그들의 용사들마저도 격파되어, 겁에 질려서, 뒤도 돌아보지 않고, 정신없이 도망한다.\"",
+    Kor:"주께서 말씀하신다. \"내가 보고 있는 것이 무엇이냐? 그들이 모두 놀라서 뒤로 도망하고 있구나. 그들의 용사들마저도 격파되어, 겁에 질려서, 뒤도 돌아보지 않고, 정신없이 도망한다.\"",
     Chn:"我为何看见他们惊惶转身退后呢？ 他们的勇士打败了， 急忙逃跑，并不回头； 惊吓四围都有！ 这是耶和华说的。",
     Eng:"What do I see? They are terrified, they are retreating, their warriors are defeated. They flee in haste without looking back, and there is terror on every side,\" declares the LORD.",
     Ind:"Mengapa kulihat mereka terkejut, mundur ke belakang? Pahlawan-pahlawan mereka terpukul kalah, lari kocar-kacir, tanpa menoleh; kedahsyatan dari segala jurusan!, demikianlah firman TUHAN."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Itulah Mesir yang meluas seperti sungai Nil, dan yang airnya bergelora seperti sungai-sungai. Ia berkata: Aku mau meluas menutupi bumi, membinasakan kota dan penduduknya."
   },
   {Bible:"Jeremiah", Chapter:46, Verse:9, Page:1,
-    Kor:"말들아, 달려라. 병거들아, 돌격하여라. 용사들아, 진격하여라. a에티오피아의 군대와 리비아의 군대도 방패를 들고 진격하여라. 리디아의 군대도 활을 당기며 진격하여라.' (a 히, '구스'. 나일 강 상류지역)",
+    Kor:"말들아, 달려라. 병거들아, 돌격하여라. 용사들아, 진격하여라. 에티오피아의 군대와 리비아의 군대도 방패를 들고 진격하여라. 리디아의 군대도 활을 당기며 진격하여라.",
     Chn:"马匹上去吧！ 车辆急行吧！ 勇士，就是手拿盾牌的古实人和弗人， 并拉弓的路德族，都出去吧！",
     Eng:"Charge, O horses! Drive furiously, O charioteers! March on, O warriors--men of Cush and Put who carry shields, men of Lydia who draw the bow.",
     Ind:"Majulah, hai kuda-kuda! Melajulah, hai kereta-kereta! Majulah berperang, hai pahlawan-pahlawan, hai kamu orang Etiopia dan orang Put yang memegang perisai, dan orang Lidia yang membentur busur!"
   },
   {Bible:"Jeremiah", Chapter:46, Verse:10, Page:1,
-    Kor:"오늘은 만군의 주 하나님께서 원수들에게 복수하시는 날이다. 오늘은 주님께서 원수를 갚으시는 날이다. 주님의 칼이 그들을 삼켜서 배부를 것이며, 그들의 피로 흠뻑 젖을 것이다. 오늘은 만군의 주 하나님께서 북녘 땅 유프라테스 강 가로 오셔서, 희생제물을 잡으시는 날이다.",
+    Kor:"○오늘은 만군의 주 하나님께서 원수들에게 복수하시는 날이다. 오늘은 주께서 원수를 갚으시는 날이다. 주의 칼이 그들을 삼켜서 배부를 것이며, 그들의 피로 흠뻑 젖을 것이다. 오늘은 만군의 주 하나님께서 북녘 땅 유프라테스 강 가로 오셔서, 희생제물을 잡으신다.",
     Chn:"那日是主—万军之耶和华报仇的日子， 要向敌人报仇。 刀剑必吞吃得饱， 饮血饮足； 因为主—万军之耶和华 在北方幼发拉底河边有献祭的事。",
     Eng:"But that day belongs to the Lord, the LORD Almighty--a day of vengeance, for vengeance on his foes. The sword will devour till it is satisfied, till it has quenched its thirst with blood. For the Lord, the LORD Almighty, will offer sacrifice in the land of the north by the River Euphrates.",
     Ind:"Hari itu ialah hari Tuhan ALLAH semesta alam, hari pembalasan untuk melakukan pembalasan kepada para lawan-Nya. Pedang akan makan sampai kenyang, dan akan puas minum darah mereka. Sebab Tuhan ALLAH semesta alam mengadakan korban penyembelihan di tanah utara, dekat sungai Efrat."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Bangsa-bangsa telah mendengar tentang celamu, bumi telah penuh dengan teriakmu, sebab pahlawan yang satu tersandung kepada pahlawan yang lain, keduanya rebah bersama-sama.\""
   },
   {Bible:"Jeremiah", Chapter:46, Verse:13, Page:1,
-    Kor:"<느부갓네살의 이집트 원정을 예언하다> ○주님께서 예언자 예레미야에게, 바빌로니아 왕 느부갓네살이 이집트 땅을 치려고 올 것을 말씀하셨다.",
+    Kor:"○주께서 예언자 예레미야에게, 바빌로니아 왕 느부갓네살이 이집트 땅을 치려고 올 것을 말씀하셨다.",
     Chn:"耶和华对先知耶利米所说的话，论到巴比伦王尼布甲尼撒要来攻击埃及地：",
     Eng:"This is the message the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:",
     Ind:"Firman yang disampaikan TUHAN kepada nabi Yeremia tentang datangnya Nebukadnezar, raja Babel, untuk memukul kalah tanah Mesir:"
   },
   {Bible:"Jeremiah", Chapter:46, Verse:14, Page:1,
-    Kor:"\"너희는 믹돌에서 외치고, b멤피스와 다바네스에서도 외쳐서 온 이집트에 알려라. 너희는 이렇게 전하여라. '너희는 어서 방어 태세를 갖추어라. 사방에서 전쟁이 일어나서 너를 삼킬 것이다' 하여라. (b 히, '놉')",
+    Kor:"\"너희는 믹돌에서 외치고, 멤피스와 다바네스에서도 외쳐서 온 이집트에 알려라. 너희는 이렇게 전하여라. '너희는 어서 방어 태세를 갖추어라. 사방에서 전쟁이 일어나서 너를 삼킬 것이다' 하여라.",
     Chn:"你们要传扬在埃及，宣告在密夺， 报告在挪弗、答比匿说： 要站起出队，自作准备， 因为刀剑在你四围施行吞灭的事。",
     Eng:"\"Announce this in Egypt, and proclaim it in Migdol; proclaim it also in Memphis and Tahpanhes: 'Take your positions and get ready, for the sword devours those around you.'",
     Ind:"\"Beritahukanlah di Mesir, dan kabarkanlah di Migdol! Kabarkanlah di Memfis dan di Tahpanhes! Katakanlah: Ambillah tempat dan bersiaplah, sebab sekitarmu habis dimakan pedang!"
   },
   {Bible:"Jeremiah", Chapter:46, Verse:15, Page:1,
-    Kor:"어찌하여 너의 힘센 황소가 꺼꾸러졌느냐? 주님께서 그를 메어치셨기 때문에, 그가 서서 견딜 수가 없었다.",
+    Kor:"어찌하여 너의 힘센 황소가 꺼꾸러졌느냐? 주께서 그를 메어치셨기 때문에, 그가 서서 견딜 수가 없었다.",
     Chn:"你的壮士为何被冲去呢？ 他们站立不住； 因为耶和华驱逐他们，",
     Eng:"Why will your warriors be laid low? They cannot stand, for the LORD will push them down.",
     Ind:"Mengapa Apis melarikan diri, tidakkah sanggup sapi jantanmu bertahan? Sungguh, TUHAN telah menundukkan dia!"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Demi Aku yang hidup, demikianlah firman Raja yang nama-Nya TUHAN semesta alam, ia akan datang seperti gunung Tabor yang menjulang di antara gunung-gunung lain, seperti gunung Karmel yang menganjur ke laut."
   },
   {Bible:"Jeremiah", Chapter:46, Verse:19, Page:1,
-    Kor:"딸 이집트의 백성아, 너희는 짐을 꾸려서 잡혀 갈 준비를 하여라. b멤피스는 황무지로 바뀌어서, 아무도 살 수 없는 폐허가 될 것이다. (b 히, '놉')",
+    Kor:"딸 이집트의 백성아, 너희는 짐을 꾸려서 잡혀 갈 준비를 하여라. 멤피스는 황무지로 바뀌어서, 아무도 살 수 없는 폐허가 될 것이다.",
     Chn:"住在埃及的民哪， 要预备掳去时所用的物件； 因为挪弗必成为荒场， 且被烧毁，无人居住。",
     Eng:"Pack your belongings for exile, you who live in Egypt, for Memphis will be laid waste and lie in ruins without inhabitant.",
     Ind:"Siapkanlah bagimu barang-barang untuk perjalananmu ke pembuangan, hai puteri Mesir yang sudah lama menetap! Sebab Memfis akan menjadi sunyi sepi, dijadikan reruntuhan yang tidak berpenduduk lagi."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Puteri Mesir menjadi malu, diserahkan ke dalam tangan bangsa dari utara.\""
   },
   {Bible:"Jeremiah", Chapter:46, Verse:25, Page:1,
-    Kor:"○\"나 만군의 주 이스라엘의 하나님이 말한다. 보아라, 내가 c테에베의 신 아몬에게 벌을 내리고, 바로와 이집트와 그 나라의 신들이나 왕들에게도 벌을 내리고, 바로뿐만 아니라 그를 의지하는 사람들에게도 벌을 내리겠다.(c 히, '노의')",
+    Kor:"○\"나 만군의 주 이스라엘의 하나님이 말한다. 보아라, 내가 테에베의 신 아몬에게 벌을 내리고, 바로와 이집트와 그 나라의 신들이나 왕들에게도 벌을 내리고, 바로뿐만 아니라 그를 의지하는 사람들에게도 벌을 내리겠다.",
     Chn:"万军之耶和华—以色列的　神说：「我必刑罚挪的亚扪和法老，并埃及与埃及的神，以及君王，也必刑罚法老和倚靠他的人。",
     Eng:"The LORD Almighty, the God of Israel, says: \"I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.",
     Ind:"TUHAN semesta alam, Allah Israel, berfirman: \"Sesungguhnya, Aku mendatangkan hukuman atas dewa Amon dari Tebe, atas Firaun beserta Mesir, dewa-dewanya dan raja-rajanya, yakni atas Firaun beserta orang-orang yang percaya kepadanya."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Aku akan menyerahkan mereka ke dalam tangan orang-orang yang berusaha mencabut nyawa mereka, yakni ke dalam tangan Nebukadnezar, raja Babel, dan para pegawainya. Tetapi sesudahnya negeri itu akan didiami seperti dalam zaman purbakala, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:46, Verse:27, Page:1,
-    Kor:"<이스라엘 백성을 위로하는 말씀> \"나의 종 야곱아, 너는 두려워하지 말아라. 이스라엘아, 너는 무서워하지 말아라. 내가 너를 먼 곳에서 구원하여 데려오고, 포로로 잡혀 간 땅에서 너의 자손을 구원할 것이니, 야곱이 고향으로 돌아와서 평안하고 안정되게 살 것이며, 아무런 위협도 받지 않고 살 것이다.",
+    Kor:"\"나의 종 야곱아, 너는 두려워하지 말아라. 이스라엘아, 너는 무서워하지 말아라. 내가 너를 먼 곳에서 구원하여 데려오고, 포로로 잡혀 간 땅에서 너의 자손을 구원할 것이니, 야곱이 고향으로 돌아와서 평안하고 안정되게 살 것이며, 아무런 위협도 받지 않고 살 것이다.",
     Chn:"我的仆人雅各啊，不要惧怕！ 以色列啊，不要惊惶！ 因我要从远方拯救你， 从被掳到之地拯救你的后裔。 雅各必回来，得享平靖安逸， 无人使他害怕。",
     Eng:"\"Do not fear, O Jacob my servant; do not be dismayed, O Israel. I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no one will make him afraid.",
     Ind:"Maka engkau, janganlah takut, hai hamba-Ku Yakub, janganlah gentar, hai Israel! Sebab sesungguhnya, Aku menyelamatkan engkau dari tempat jauh dan keturunanmu dari negeri pembuangan mereka. Yakub akan kembali dan hidup tenang dan aman, dengan tidak ada yang mengejutkan."

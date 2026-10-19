@@ -3,7 +3,7 @@
 BibleDB.ref("Joel",2,32);
 BibleDB.add([
   {Bible:"Joel", Chapter:2, Verse:1, Page:1,
-    Kor:"<주님의 날을 경고하는 메뚜기 떼> 너희는 시온에서 뿔나팔을 불어라. 하나님의 거룩한 산에서 경보를 울려라. 유다 땅에 사는 백성아, 모두 떨어라. 주님의 날이 오고 있다. 그 날이 다가오고 있다.",
+    Kor:"너희는 시온에서 뿔나팔을 불어라. 하나님의 거룩한 산에서 경보를 울려라. 유다 땅에 사는 백성아, 모두 떨어라. 주의 날이 오고 있다. 그 날이 다가오고 있다.",
     Chn:"你们要在锡安吹角， 在我圣山吹出大声。 国中的居民都要发颤； 因为耶和华的日子将到， 已经临近。",
     Eng:"Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the LORD is coming. It is close at hand--",
     Ind:"Tiuplah sangkakala di Sion dan berteriaklah di gunung-Ku yang kudus! Biarlah gemetar seluruh penduduk negeri, sebab hari TUHAN datang, sebab hari itu sudah dekat;"
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Di depannya bumi gemetar, langit bergoncang; matahari dan bulan menjadi gelap, dan bintang-bintang menghilangkan cahayanya."
   },
   {Bible:"Joel", Chapter:2, Verse:11, Page:1,
-    Kor:"주님께서 큰 음성으로 당신의 군대를 지휘하신다. 병력은 헤아릴 수 없이 많고, 명령을 따르는 군대는 막강하다. 주님의 날은 놀라운 날, 가장 무서운 날이다. 누가 감히 그 날을 견디어 낼까?",
+    Kor:"주께서 큰 음성으로 당신의 군대를 지휘하신다. 병력은 헤아릴 수 없이 많고, 명령을 따르는 군대는 막강하다. 주의 날은 놀라운 날, 가장 무서운 날이다. 누가 감히 그 날을 견디어 낼까?",
     Chn:"耶和华在他军旅前发声， 他的队伍甚大； 成就他命的是强盛者。 因为耶和华的日子大而可畏， 谁能当得起呢？",
     Eng:"The LORD thunders at the head of his army; his forces are beyond number, and mighty are those who obey his command. The day of the LORD is great; it is dreadful. Who can endure it?",
     Ind:"Dan TUHAN memperdengarkan suara-Nya di depan tentara-Nya. Pasukan-Nya sangat banyak dan pelaksana firman-Nya kuat. Betapa hebat dan sangat dahsyat hari TUHAN! Siapakah yang dapat menahannya?"
   },
   {Bible:"Joel", Chapter:2, Verse:12, Page:1,
-    Kor:"<회개를 촉구하다> \"지금이라도 너희는 진심으로 회개하여라. 나 주가 말한다. 금식하고 통곡하고 슬퍼하면서, 나에게로 돌아오너라.",
+    Kor:"\"지금이라도 너희는 진심으로 회개하여라. 나 주가 말한다. 금식하고 통곡하고 슬퍼하면서, 나에게로 돌아오너라.",
     Chn:"耶和华说：虽然如此， 你们应当禁食、哭泣、悲哀， 一心归向我。",
     Eng:"\"Even now,\" declares the LORD, \"return to me with all your heart, sith fasting and weeping and mourning.\"",
     Ind:"\"Tetapi sekarang juga,\" demikianlah firman TUHAN, \"berbaliklah kepada-Ku dengan segenap hatimu, dengan berpuasa, dengan menangis dan dengan mengaduh.\""
   },
   {Bible:"Joel", Chapter:2, Verse:13, Page:1,
-    Kor:"옷을 찢지 말고, 마음을 찢어라.\" 주 너희의 하나님께로 돌아오너라. 주님께서는 은혜롭고 자비로우시며, 오래 참으시며, 한결같은 사랑을 늘 베푸시고, 불쌍히 여기는 마음이 많으셔서, 뜻을 돌이켜 재앙을 거두기도 하신다.",
+    Kor:"옷을 찢지 말고, 마음을 찢어라.\" 주 너희의 하나님께로 돌아오너라. 주께서는 은혜롭고 자비로우시며, 오래 참으시며, 한결같은 사랑을 늘 베푸시고, 불쌍히 여기는 마음이 많으셔서, 뜻을 돌이켜 재앙을 거두기도 하신다.",
     Chn:"你们要撕裂心肠， 不撕裂衣服。 归向耶和华—你们的　神； 因为他有恩典，有怜悯， 不轻易发怒， 有丰盛的慈爱， 并且后悔不降所说的灾。",
     Eng:"Rend your heart and not your garments. Return to the LORD your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.",
     Ind:"Koyakkanlah hatimu dan jangan pakaianmu, berbaliklah kepada TUHAN, Allahmu, sebab Ia pengasih dan penyayang, panjang sabar dan berlimpah kasih setia, dan Ia menyesal karena hukuman-Nya."
   },
   {Bible:"Joel", Chapter:2, Verse:14, Page:1,
-    Kor:"행여 주님께서 마음과 뜻을 돌이키시고 오히려 복까지 베푸셔서, 너희가 주 하나님께 곡식제물과 부어 드리는 제물을 바칠 수 있게까지 하실는지 누가 아느냐?",
+    Kor:"행여 주께서 마음과 뜻을 돌이키시고 오히려 복까지 베푸셔서, 너희가 주 하나님께 곡식제물과 부어 드리는 제물을 바칠 수 있게까지 하실는지 누가 아느냐?",
     Chn:"或者他转意后悔，留下余福， 就是留下献给耶和华—你们　神的素祭和奠祭， 也未可知。",
     Eng:"Who knows? He may turn and have pity and leave behind a blessing--grain offerings and drink offerings for the LORD your God.",
     Ind:"Siapa tahu, mungkin Ia mau berbalik dan menyesal, dan ditinggalkan-Nya berkat, menjadi korban sajian dan korban curahan bagi TUHAN, Allahmu."
@@ -99,31 +99,31 @@ BibleDB.add([
     Ind:"kumpulkanlah bangsa ini, kuduskanlah jemaah, himpunkanlah orang-orang yang tua, kumpulkanlah anak-anak, bahkan anak-anak yang menyusu; baiklah penganten laki-laki keluar dari kamarnya, dan penganten perempuan dari kamar tidurnya;"
   },
   {Bible:"Joel", Chapter:2, Verse:17, Page:1,
-    Kor:"주님을 섬기는 제사장들은 성전 현관과 번제단 사이에서, 울면서 호소하여라. \"주님, 주님의 백성을 불쌍히 여겨 주십시오. 주님의 소유인 이 백성이 이방인들에게 통치를 받는 수모를 당하지 않게 하여 주십시오. 세계 만민이 '그들의 하나님이 어디에 있느냐?' 하면서 조롱하지 못하게 하여 주십시오.\"",
+    Kor:"주님을 섬기는 제사장들은 성전 현관과 번제단 사이에서, 울면서 호소하여라. \"주님, 주의 백성을 불쌍히 여겨 주십시오. 주의 소유인 이 백성이 이방인들에게 통치를 받는 수모를 당하지 않게 하여 주십시오. 세계 만민이 '그들의 하나님이 어디에 있느냐?' 하면서 조롱하지 못하게 하여 주십시오.\"",
     Chn:"事奉耶和华的祭司 要在廊子和祭坛中间哭泣，说： 耶和华啊，求你顾惜你的百姓， 不要使你的产业受羞辱， 列邦管辖他们。 为何容列国的人说： 「他们的　神在哪里」呢？",
     Eng:"Let the priests, who minister before the LORD, weep between the temple porch and the altar. Let them say, \"Spare your people, O LORD. Do not make your inheritance an object of scorn, a byword among the nations. Why should they say among the peoples, 'Where is their God?'\"",
     Ind:"baiklah para imam, pelayan-pelayan TUHAN, menangis di antara balai depan dan mezbah, dan berkata: \"Sayangilah, ya TUHAN, umat-Mu, dan janganlah biarkan milik-Mu sendiri menjadi cela, sehingga bangsa-bangsa menyindir kepada mereka. Mengapa orang berkata di antara bangsa: Di mana Allah mereka?\""
   },
   {Bible:"Joel", Chapter:2, Verse:18, Page:1,
-    Kor:"<하나님이 땅을 비옥하게 하시다> 그 때에 주님께서 땅이 당한 일로 마음 아파하시고, 당신의 백성을 불쌍히 여기셨다.",
+    Kor:"그 때에 주께서 땅이 당한 일로 마음 아파하시고, 당신의 백성을 불쌍히 여기셨다.",
     Chn:"耶和华就为自己的地发热心， 怜恤他的百姓。",
     Eng:"Then the LORD will be jealous for his land and take pity on his people.",
     Ind:"TUHAN menjadi cemburu karena tanah-Nya, dan Ia belas kasihan kepada umat-Nya."
   },
   {Bible:"Joel", Chapter:2, Verse:19, Page:1,
-    Kor:"주님께서 백성에게 대답하셨다. \"내가 너희에게 곡식과 포도주와 올리브 기름을 주어서 아쉬움이 없도록 하겠다. 다시는 다른 나라가 너희를 조롱거리로 만들지 못하게 하겠다.",
+    Kor:"주께서 백성에게 대답하셨다. \"내가 너희에게 곡식과 포도주와 올리브 기름을 주어서 아쉬움이 없도록 하겠다. 다시는 다른 나라가 너희를 조롱거리로 만들지 못하게 하겠다.",
     Chn:"耶和华应允他的百姓说： 我必赐给你们五谷、新酒，和油， 使你们饱足； 我也不再使你们受列国的羞辱；",
     Eng:"The LORD will reply to them: \"I am sending you grain, new wine and oil, enough to satisfy you fully; never again will I make you an object of scorn to the nations.",
     Ind:"TUHAN menjawab, kata-Nya kepada umat-Nya: \"Sesungguhnya, Aku akan mengirim kepadamu gandum, anggur dan minyak, dan kamu akan kenyang memakannya; Aku tidak akan menyerahkan kamu lagi menjadi cela di antara bangsa-bangsa."
   },
   {Bible:"Joel", Chapter:2, Verse:20, Page:1,
-    Kor:"북쪽에서 온 메뚜기 군대를 멀리 쫓아 버리겠다. 메마르고 황량한 땅으로 몰아내겠다. 전위부대는 a사해에 몰아넣고 후위부대는 b지중해에 몰아넣겠다. 시체 썩는 냄새, 그 악취가 코를 찌를 것이다.\" 주님께서 큰 일을 하셨다! (a 히, '동쪽 바다' b 히, '서쪽 바다')",
+    Kor:"북쪽에서 온 메뚜기 군대를 멀리 쫓아 버리겠다. 메마르고 황량한 땅으로 몰아내겠다. 전위부대는 사해에 몰아넣고 후위부대는 지중해에 몰아넣겠다. 시체 썩는 냄새, 그 악취가 코를 찌를 것이다.\" 주께서 큰 일을 하셨다!",
     Chn:"却要使北方来的军队远离你们， 将他们赶到干旱荒废之地： 前队赶入东海， 后队赶入西海； 因为他们所行的大恶， 臭气上升，腥味腾空。",
     Eng:"\"I will drive the northern army far from you, pushing it into a parched and barren land, with its front columns going into the eastern sea and those in the rear into the western sea. And its stench will go up; its smell will rise.\" Surely he has done great things.",
     Ind:"Yang datang dari utara itu akan Kujauhkan dari padamu, dan akan Kuusir ke suatu negeri kering dan tandus, barisan mukanya ke laut timur, dan barisan belakangnya ke laut barat, maka bau busuknya dan bau anyirnya akan naik, sebab ia telah melakukan perkara yang besar."
   },
   {Bible:"Joel", Chapter:2, Verse:21, Page:1,
-    Kor:"땅아, 두려워하지 말아라. 기뻐하고 즐거워하여라. 주님께서 큰 일을 하셨다.",
+    Kor:"땅아, 두려워하지 말아라. 기뻐하고 즐거워하여라. 주께서 큰 일을 하셨다.",
     Chn:"地土啊，不要惧怕； 要欢喜快乐， 因为耶和华行了大事。",
     Eng:"Be not afraid, O land; be glad and rejoice. Surely the LORD has done great things.",
     Ind:"Jangan takut, hai tanah, bersorak-soraklah dan bersukacitalah, sebab juga TUHAN telah melakukan perkara yang besar!"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Jangan takut, hai binatang-binatang di padang, sebab tanah gembalaan di padang gurun menghijau, pohon menghasilkan buahnya, pohon ara dan pohon anggur memberi kekayaannya."
   },
   {Bible:"Joel", Chapter:2, Verse:23, Page:1,
-    Kor:"시온에 사는 사람들아, 주 너희의 하나님과 더불어 기뻐하고 즐거워하여라. c주님께서 너희를 변호하여 가을비를 내리셨다. 비를 흡족하게 내려주셨으니, 옛날처럼 가을비와 봄비를 내려 주셨다. (c 또는 '주님께서 너희에게 의의 교사를 보내셨다')",
+    Kor:"시온에 사는 사람들아, 주 너희의 하나님과 더불어 기뻐하고 즐거워하여라. 주께서 너희를 변호하여 가을비를 내리셨다. 비를 흡족하게 내려주셨으니, 옛날처럼 가을비와 봄비를 내려 주셨다.",
     Chn:"锡安的民哪，你们要快乐， 为耶和华—你们的　神欢喜； 因他赐给你们合宜的秋雨， 为你们降下甘霖， 就是秋雨、春雨，和先前一样。",
     Eng:"Be glad, O people of Zion, rejoice in the LORD your God, for he has given you the autumn rains in righteousness. He sends you abundant showers, both autumn and spring rains, as before.",
     Ind:"Hai bani Sion, bersorak-soraklah dan bersukacitalah karena TUHAN, Allahmu! Sebab telah diberikan-Nya kepadamu hujan pada awal musim dengan adilnya, dan diturunkan-Nya kepadamu hujan, hujan pada awal dan hujan pada akhir musim seperti dahulu."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Kamu akan mengetahui bahwa Aku ini ada di antara orang Israel, dan bahwa Aku ini, TUHAN, adalah Allahmu dan tidak ada yang lain; dan umat-Ku tidak akan menjadi malu lagi untuk selama-lamanya.\""
   },
   {Bible:"Joel", Chapter:2, Verse:28, Page:1,
-    Kor:"<주님께서 심판하시는 날> \"그런 다음에, 내가 모든 사람에게 나의 영을 부어 주겠다. 너희의 아들딸은 예언을 하고, 노인들은 꿈을 꾸고, 젊은이들은 환상을 볼 것이다.",
+    Kor:"\"그런 다음에, 내가 모든 사람에게 나의 영을 부어 주겠다. 너희의 아들딸은 예언을 하고, 노인들은 꿈을 꾸고, 젊은이들은 환상을 볼 것이다.",
     Chn:"以后，我要将我的灵浇灌凡有血气的。 你们的儿女要说预言； 你们的老年人要做异梦， 少年人要见异象。",
     Eng:"\"And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.",
     Ind:"\"Kemudian dari pada itu akan terjadi, bahwa Aku akan mencurahkan Roh-Ku ke atas semua manusia, maka anak-anakmu laki-laki dan perempuan akan bernubuat; orang-orangmu yang tua akan mendapat mimpi, teruna-terunamu akan mendapat penglihatan-penglihatan."
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Aku akan mengadakan mujizat-mujizat di langit dan di bumi: darah dan api dan gumpalan-gumpalan asap."
   },
   {Bible:"Joel", Chapter:2, Verse:31, Page:1,
-    Kor:"해가 어두워지고 달이 핏빛 같이 붉어질 것이다. 끔찍스럽고 크나큰 주의 날이 오기 전에, 그런 일이 먼저 일어날 것이다.\"",
+    Kor:"해가 어두워지고 달이 핏빛 같이 붉어질 것이다. 끔찍스럽고 크나큰 주의 날이 오기 전에, 그런 일이 먼저 일어날 것이다.",
     Chn:"日头要变为黑暗，月亮要变为血，这都在耶和华大而可畏的日子未到以前。",
     Eng:"The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the LORD.",
     Ind:"Matahari akan berubah menjadi gelap gulita dan bulan menjadi darah sebelum datangnya hari TUHAN yang hebat dan dahsyat itu."
   },
   {Bible:"Joel", Chapter:2, Verse:32, Page:1,
-    Kor:"○그러나 주님의 이름을 불러 구원을 호소하는 사람은 다 구원을 받을 것이다. 시온 산 곧 예루살렘 안에는 피하여 살아 남는 사람이 있을 것이라고, 주님께서 부르신 사람이 살아 남아 있을 것이라고, 주님께서 말씀하셨다.",
+    Kor:"그러나 주의 이름을 불러 구원을 호소하는 사람은 다 구원을 받을 것이다. 시온 산 곧 예루살렘 안에는 피하여 살아 남는 사람이 있을 것이라고, 주께서 부르신 사람이 살아 남아 있을 것이라고, 주께서 말씀하셨다.",
     Chn:"到那时候，凡求告耶和华名的就必得救；因为照耶和华所说的，在锡安山，耶路撒冷必有逃脱的人，在剩下的人中必有耶和华所召的。」",
     Eng:"And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, among the survivors whom the LORD calls.",
     Ind:"Dan barangsiapa yang berseru kepada nama TUHAN akan diselamatkan, sebab di gunung Sion dan di Yerusalem akan ada keselamatan, seperti yang telah difirmankan TUHAN; dan setiap orang yang dipanggil TUHAN akan termasuk orang-orang yang terlepas.\""

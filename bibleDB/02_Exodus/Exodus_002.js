@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",2,25);
 BibleDB.add([
   {Bible:"Exodus", Chapter:2, Verse:1, Page:1,
-    Kor:"<모세의 탄생> 레위 가문의 한 남자가 레위 가문의 한 여자를 아내로 맞이하였다.",
+    Kor:"레위 가문의 어떤 남자가 레위 가문의 여자를 아내로 맞이하였다.",
     Chn:"有一个利未家的人娶了一个利未女子为妻。",
     Eng:"Now a man of the house of Levi married a Levite woman,",
     Ind:"Seorang laki-laki dari keluarga Lewi kawin dengan seorang perempuan Lewi;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"kakaknya perempuan berdiri di tempat yang agak jauh untuk melihat, apakah yang akan terjadi dengan dia."
   },
   {Bible:"Exodus", Chapter:2, Verse:5, Page:1,
-    Kor:"○마침 바로의 딸이 목욕을 하려고 강으로 내려왔다. 시녀들이 강가를 거닐고 있을 때에, 공주가 갈대 숲 속에 있는 상자를 보고, 시녀 한 명을 보내서 그것을 가져 오게 하였다.",
+    Kor:"○마침, 바로의 딸이 목욕을 하려고 강으로 내려왔다. 시녀들이 강가를 거닐고 있을 때에, 공주가 갈대 숲 속에 있는 상자를 보고, 시녀 한 명을 보내서 그것을 가져 오게 하였다.",
     Chn:"法老的女儿来到河边洗澡，她的使女们在河边行走。她看见箱子在芦荻中，就打发一个婢女拿来。",
     Eng:"Then Pharaoh's daughter went down to the Nile to bathe, and her attendants were walking along the river bank. She saw the basket among the reeds and sent her slave girl to get it.",
     Ind:"Maka datanglah puteri Firaun untuk mandi di sungai Nil, sedang dayang-dayangnya berjalan-jalan di tepi sungai Nil, lalu terlihatlah olehnya peti yang di tengah-tengah teberau itu, maka disuruhnya hambanya perempuan untuk mengambilnya."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Sahut puteri Firaun kepadanya: \"Baiklah.\" Lalu pergilah gadis itu memanggil ibu bayi itu."
   },
   {Bible:"Exodus", Chapter:2, Verse:9, Page:1,
-    Kor:"바로의 딸이 그에게 말하였다. \"이 아이를 데리고 가서, 나를 대신하여 젖을 먹여 다오. 그렇게 하면, 내가 너에게 삯을 주겠다.\" 그래서 그 여인은 그 아이를 데리고 가서 젖을 먹였다.",
+    Kor:"바로의 딸이 그에게 말하였다. \"이 아이를 데리고 가서, 나를 대신하여 젖을 먹여 다오. 그렇게 하면, 내가 너에게 삯을 주겠다.\" 그래서 그 여인은 그 아이를 데리고 가서, 젖을 먹였다.",
     Chn:"法老的女儿对她说：「你把这孩子抱去，为我奶他，我必给你工价。」妇人就抱了孩子去奶他。",
     Eng:"Pharaoh's daughter said to her, \"Take this baby and nurse him for me, and I will pay you.\" So the woman took the baby and nursed him.",
     Ind:"Maka berkatalah puteri Firaun kepada ibu itu: \"Bawalah bayi ini dan susukanlah dia bagiku, maka aku akan memberi upah kepadamu.\" Kemudian perempuan itu mengambil bayi itu dan menyusuinya."
   },
   {Bible:"Exodus", Chapter:2, Verse:10, Page:1,
-    Kor:"그 아이가 다 자란 다음에, 그 여인이 그 아이를 바로의 딸에게 데려다 주니, 공주는 이 아이를 양자로 삼았다. 공주는 \"내가 그를 물에서 a건졌다\" 하면서, 그의 이름을 b모세라고 지었다.(a 히, '마샤' b 히, '모셰')",
+    Kor:"그 아이가 다 자란 다음에, 그 여인이 그 아이를 바로의 딸에게 데려다 주니, 공주는 이 아이를 양자로 삼았다. 공주는 \"내가 그를 물에서 건졌다\" 하면서, 그의 이름을 모세라고 지었다.",
     Chn:"孩子渐长，妇人把他带到法老的女儿那里，就作了她的儿子。她给孩子起名叫摩西，意思说：「因我把他从水里拉出来。」",
     Eng:"When the child grew older, she took him to Pharaoh's daughter and he became her son. She named him Moses, saying, \"I drew him out of the water.\"",
     Ind:"Ketika anak itu telah besar, dibawanyalah kepada puteri Firaun, yang mengangkatnya menjadi anaknya, dan menamainya Musa, sebab katanya: \"Karena aku telah menariknya dari air.\""
   },
   {Bible:"Exodus", Chapter:2, Verse:11, Page:1,
-    Kor:"<모세가 미디안으로 피하다> ○세월이 지나, 모세가 어른이 되었다. 어느 날 그는 왕궁 바깥으로 나가 동족에게로 갔다가, 그들이 고되게 노동하는 것을 보았다. 그 때에 그는 동족인 히브리 사람이 이집트 사람에게 매를 맞는 것을 보고,",
+    Kor:"○세월이 지나, 모세가 어른이 되었다. 어느 날, 그는 왕궁 바깥으로 나가 동족에게로 갔다가, 그들이 고되게 노동하는 것을 보았다. 그 때에 그는, 동족인 히브리 사람이 이집트 사람에게 매를 맞는 것을 보고,",
     Chn:"后来，摩西长大，他出去到他弟兄那里，看他们的重担，见一个埃及人打希伯来人的一个弟兄。",
     Eng:"One day, after Moses had grown up, he went out to where his own people were and watched them at their hard labor. He saw an Egyptian beating a Hebrew, one of his own people.",
     Ind:"Pada waktu itu, ketika Musa telah dewasa, ia keluar mendapatkan saudara-saudaranya untuk melihat kerja paksa mereka; lalu dilihatnyalah seorang Mesir memukul seorang Ibrani, seorang dari saudara-saudaranya itu."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Ia menoleh ke sana sini dan ketika dilihatnya tidak ada orang, dibunuhnya orang Mesir itu, dan disembunyikannya mayatnya dalam pasir."
   },
   {Bible:"Exodus", Chapter:2, Verse:13, Page:1,
-    Kor:"이튿날 그가 다시 나가서 보니, 히브리 사람 둘이 서로 싸우고 있었다. 그래서 그는 잘못한 사람에게 말하였다. \"당신은 왜 동족을 때리오?\"",
+    Kor:"이튿날, 그가 다시 나가서 보니, 히브리 사람 둘이 서로 싸우고 있었다. 그래서 그는 잘못한 사람에게 말하였다. \"당신은 왜 동족을 때리오?\"",
     Chn:"第二天他出去，见有两个希伯来人争斗，就对那欺负人的说：「你为什么打你同族的人呢？」",
     Eng:"The next day he went out and saw two Hebrews fighting. He asked the one in the wrong, \"Why are you hitting your fellow Hebrew?\"",
     Ind:"Ketika keesokan harinya ia keluar lagi, didapatinya dua orang Ibrani tengah berkelahi. Ia bertanya kepada yang bersalah itu: \"Mengapa engkau pukul temanmu?\""
   },
   {Bible:"Exodus", Chapter:2, Verse:14, Page:1,
-    Kor:"그러자 그 사람은 대들었다. \"누가 당신을 우리의 지도자와 재판관으로 세웠단 말이오? 당신이 이집트 사람을 죽이더니, 이제는 나도 죽일 작정이오?\" 모세는 일이 탄로난 것을 알고 두려워하였다.",
+    Kor:"그러자 그 사람은 대들었다. \"누가 당신을 우리의 지도자와 재판관으로 세웠단 말이오? 당신이 이집트 사람을 죽이더니, 이제는 나도 죽일 작정이오?\" 모세는, 일이 탄로난 것을 알고, 두려워하였다.",
     Chn:"那人说：「谁立你作我们的首领和审判官呢？难道你要杀我，像杀那埃及人吗？」摩西便惧怕，说：「这事必是被人知道了。」",
     Eng:"The man said, \"Who made you ruler and judge over us? Are you thinking of killing me as you killed the Egyptian?\" Then Moses was afraid and thought, \"What I did must have become known.\"",
     Ind:"Tetapi jawabnya: \"Siapakah yang mengangkat engkau menjadi pemimpin dan hakim atas kami? Apakah engkau bermaksud membunuh aku, sama seperti engkau telah membunuh orang Mesir itu?\" Musa menjadi takut, sebab pikirnya: \"Tentulah perkara itu telah ketahuan.\""
   },
   {Bible:"Exodus", Chapter:2, Verse:15, Page:1,
-    Kor:"바로가 이 일을 전하여 듣고, 모세를 죽이려고 찾았다. 모세는 바로를 피하여 미디안 땅으로 도망 쳐서, 거기에서 머물렀다. ○어느 날 그가 우물가에 앉아 있을 때이다.",
+    Kor:"바로가 이 일을 전하여 듣고, 모세를 죽이려고 찾았다. 모세는 바로를 피하여 미디안 땅으로 도망 쳐서, 거기에서 머물렀다. ○어느 날, 그가 우물가에 앉아 있을 때이다.",
     Chn:"法老听见这事，就想杀摩西，但摩西躲避法老，逃往米甸地居住。",
     Eng:"When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to live in Midian, where he sat down by a well.",
     Ind:"Ketika Firaun mendengar tentang perkara itu, dicarinya ikhtiar untuk membunuh Musa. Tetapi Musa melarikan diri dari hadapan Firaun dan tiba di tanah Midian, lalu ia duduk-duduk di tepi sebuah sumur."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Adapun imam di Midian itu mempunyai tujuh anak perempuan. Mereka datang menimba air dan mengisi palungan-palungan untuk memberi minum kambing domba ayahnya."
   },
   {Bible:"Exodus", Chapter:2, Verse:17, Page:1,
-    Kor:"그런데 목자들이 나타나서, 그들을 쫓아 버렸다. 그래서 모세가 일어나서, 그 딸들을 도와 양 떼에게 물을 먹였다.",
+    Kor:"그런데 목동들이 나타나서, 그들을 쫓아 버렸다. 그래서 모세가 일어나서, 그 딸들을 도와 양 떼에게 물을 먹였다.",
     Chn:"有牧羊的人来，把她们赶走了，摩西却起来帮助她们，又饮了她们的群羊。",
     Eng:"Some shepherds came along and drove them away, but Moses got up and came to their rescue and watered their flock.",
     Ind:"Maka datanglah gembala-gembala yang mengusir mereka, lalu Musa bangkit menolong mereka dan memberi minum kambing domba mereka."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Ketika mereka sampai kepada Rehuel, ayah mereka, berkatalah ia: \"Mengapa selekas itu kamu pulang hari ini?\""
   },
   {Bible:"Exodus", Chapter:2, Verse:19, Page:1,
-    Kor:"그들이 대답하였다. \"어떤 이집트 사람이 목자들의 손에서 우리를 구하여 주고, 우리를 도와서 물까지 길어, 양 떼에게 먹였습니다.\"",
+    Kor:"그들이 대답하였다. \"어떤 이집트 사람이 목동들의 손에서 우리를 구하여 주고, 우리를 도와서 물까지 길어, 양 떼에게 먹였습니다.\"",
     Chn:"她们说：「有一个埃及人救我们脱离牧羊人的手，并且为我们打水饮了群羊。」",
     Eng:"They answered, \"An Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.\"",
     Ind:"Jawab mereka: \"Seorang Mesir menolong kami terhadap gembala-gembala, bahkan ia menimba air banyak-banyak untuk kami dan memberi minum kambing domba.\""
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Ia berkata kepada anak-anaknya: \"Di manakah ia? Mengapakah kamu tinggalkan orang itu? Panggillah dia makan.\""
   },
   {Bible:"Exodus", Chapter:2, Verse:21, Page:1,
-    Kor:"c르우엘은, 모세가 기꺼이 자기와 함께 살겠다고 하므로, 자기 딸 십보라를 모세와 결혼하게 하였다.(c 모세의 장인은 민 10:29 및 삿 1:16과 4:11에서는 호밥이고, 출 2:21에서는 르우엘이고, 출 18장에서는 이드로이다)",
+    Kor:"르우엘은, 모세가 기꺼이 자기와 함께 살겠다고 하므로, 자기 딸 십보라를 모세와 결혼하게 하였다.",
     Chn:"摩西甘心和那人同住；那人把他的女儿西坡拉给摩西为妻。",
     Eng:"Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage.",
     Ind:"Musa bersedia tinggal di rumah itu, lalu diberikan Rehuellah Zipora, anaknya, kepada Musa."
   },
   {Bible:"Exodus", Chapter:2, Verse:22, Page:1,
-    Kor:"십보라가 아들을 낳으니, 모세는 \"내가 낯선 땅에서 d나그네가 되었구나!\" 하면서, 아들의 이름을 게르솜이라고 지었다.(d 히, '게르')",
+    Kor:"십보라가 아들을 낳으니, 모세는 \"내가 낯선 땅에서 나그네가 되었구나!\" 하면서, 아들의 이름을 게르솜이라고 지었다.",
     Chn:"西坡拉生了一个儿子，摩西给他起名叫革舜，意思说：「因我在外邦作了寄居的。」",
     Eng:"Zipporah gave birth to a son, and Moses named him Gershom, saying, \"I have become an alien in a foreign land.\"",
     Ind:"Perempuan itu melahirkan seorang anak laki-laki, maka Musa menamainya Gersom, sebab katanya: \"Aku telah menjadi seorang pendatang di negeri asing.\""

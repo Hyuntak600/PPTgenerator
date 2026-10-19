@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",26,35);
 BibleDB.add([
   {Bible:"Genesis", Chapter:26, Verse:1, Page:1,
-    Kor:"<이삭이 그랄에서 살다> 일찍이 아브라함 때에 그 땅에 흉년이 든 적이 있는데, 이삭 때에도 그 땅에 흉년이 들어서, 이삭이 그랄의 블레셋 왕 아비멜렉에게로 갔다.",
+    Kor:"일찍이 아브라함 때에 그 땅에 흉년이 든 적이 있는데, 이삭 때에도 그 땅에 흉년이 들어서, 이삭이 그랄의 블레셋 왕 아비멜렉에게로 갔다.",
     Chn:"在亚伯拉罕的日子，那地有一次饥荒；这时又有饥荒，以撒就往基拉耳去，到非利士人的王亚比米勒那里。",
     Eng:"Now there was a famine in the land--besides the earlier famine of Abraham's time--and Isaac  went to Abimelech king of the Philistines in Gerar.",
     Ind:"Maka timbullah kelaparan di negeri itu. --Ini bukan kelaparan yang pertama, yang telah terjadi dalam zaman Abraham. Sebab itu Ishak pergi ke Gerar, kepada Abimelekh, raja orang Filistin."
   },
   {Bible:"Genesis", Chapter:26, Verse:2, Page:1,
-    Kor:"주님께서 이삭에게 나타나셔서, 말씀하셨다. \"이집트로 가지 말아라. 내가 너에게 살라고 한 이 땅에서 살아라.",
+    Kor:"주께서 이삭에게 나타나셔서, 말씀하셨다. \"이집트로 가지 말아라. 내가 너에게 살라고 한 이 땅에서 살아라.",
     Chn:"耶和华向以撒显现，说：「你不要下埃及去，要住在我所指示你的地。",
     Eng:"The LORD appeared to Isaac and said, \"Do not go down to Egypt; live in the land where I tell  you to live.",
     Ind:"Lalu TUHAN menampakkan diri kepadanya serta berfirman: \"Janganlah pergi ke Mesir, diamlah di negeri yang akan Kukatakan kepadamu."
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"Ketika orang-orang di tempat itu bertanya tentang isterinya, berkatalah ia: \"Dia saudaraku,\" sebab ia takut mengatakan: \"Ia isteriku,\" karena pikirnya: \"Jangan-jangan aku dibunuh oleh penduduk tempat ini karena Ribka, sebab elok parasnya.\""
   },
   {Bible:"Genesis", Chapter:26, Verse:8, Page:1,
-    Kor:"이삭이 그 곳에 자리를 잡고 산 지 꽤 오래 된 어느 날, 블레셋 왕 아비멜렉은, 이삭이 그 아내 리브가를 애무하는 것을 우연히 창으로 보게 되었다.",
+    Kor:"이삭이 그 곳에자리를 잡고 산 지 꽤 오래 된 어느 날, 블레셋 왕 아비멜렉은, 이삭이 그 아내 리브가를 애무하는 것을 우연히 창으로 보게 되었다.",
     Chn:"他在那里住了许久。有一天，非利士人的王亚比米勒从窗户里往外观看，见以撒和他的妻子利百加戏玩。",
     Eng:"When Isaac had been there a long time, Abimelech king of the Philistines looked down from a  window and saw Isaac caressing his wife Rebekah.",
     Ind:"Setelah beberapa lama ia ada di sana, pada suatu kali menjenguklah Abimelekh, raja orang Filistin itu dari jendela, maka dilihatnya Ishak sedang bercumbu-cumbuan dengan Ribka, isterinya."
   },
   {Bible:"Genesis", Chapter:26, Verse:9, Page:1,
-    Kor:"아비멜렉은 이삭을 불러들여서 나무랐다. \"그는 틀림없이 당신의 아내인데, 어쩌려고 당신은 그를 누이라고 말하였소?\" 이삭이 대답하였다. \"저 여자 때문에 제가 혹시 목숨을 잃을지도 모른다고 생각하였기 때문입니다.\"",
+    Kor:"아비멜렉은 이삭을 불러들여서 나무랐다. \"그는 틀림없이 너의 아내인데, 어쩌려고 너는 그를 누이라고 말하였느냐?\" 이삭이 대답하였다. \"저 여자 때문에 제가 혹시 목숨을 잃을지도 모른다고 생각하였기 때문입니다.\"",
     Chn:"亚比米勒召了以撒来，对他说：「她实在是你的妻子，你怎么说她是你的妹子？」以撒说：「我心里想，恐怕我因她而死。」",
     Eng:"So Abimelech summoned Isaac and said, \"She is really your wife! Why did you say, 'She is my  sister'?\" Isaac answered him, \"Because I thought I might lose my life on account of her.\"",
     Ind:"Lalu Abimelekh memanggil Ishak dan berkata: \"Sesungguhnya dia isterimu, masakan engkau berkata: Dia saudaraku?\" Jawab Ishak kepadanya: \"Karena pikirku: Jangan-jangan aku mati karena dia.\""
   },
   {Bible:"Genesis", Chapter:26, Verse:10, Page:1,
-    Kor:"아비멜렉이 말하였다. \"어쩌려고 당신이 우리에게 이렇게 하였소? 하마터면, 나의 백성 가운데서 누구인가가 당신의 아내를 건드릴 뻔하지 않았소? 괜히 당신 때문에 우리가 죄인이 될 뻔하였소.\"",
+    Kor:"아비멜렉이 말하였다. \"어쩌려고 네가 우리에게 이렇게 하였느냐? 하마터면, 나의 백성 가운데서 누구인가가 너의 아내를 건드릴 뻔하지 않았느냐? 괜히 너 때문에 우리가 죄인이 될 뻔하였구나.\"",
     Chn:"亚比米勒说：「你向我们做的是什么事呢？民中险些有人和你的妻同寝，把我们陷在罪里。」",
     Eng:"Then Abimelech said, \"What is this you have done to us? One of the men might well have  slept with your wife, and you would have brought guilt upon us.\"",
     Ind:"Tetapi Abimelekh berkata: \"Apakah juga yang telah kauperbuat ini terhadap kami? Mudah sekali terjadi, salah seorang dari bangsa ini tidur dengan isterimu, sehingga dengan demikian engkau mendatangkan kesalahan atas kami.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Lalu Abimelekh memberi perintah kepada seluruh bangsa itu: \"Siapa yang mengganggu orang ini atau isterinya, pastilah ia akan dihukum mati.\""
   },
   {Bible:"Genesis", Chapter:26, Verse:12, Page:1,
-    Kor:"○이삭이 그 땅에서 농사를 지어서, 그 해에 백 배의 수확을 거두어들였다. 주님께서 그에게 복을 주셨기 때문이다.",
+    Kor:"○이삭이 그 땅에서 농사를 지어서, 그 해에 백 배의 수확을 거두어들였다. 주께서 그에게 복을 주셨기 때문이다.",
     Chn:"以撒在那地耕种，那一年有百倍的收成。耶和华赐福给他，",
     Eng:"Isaac planted crops in that land and the same year reaped a hundredfold, because the LORD  blessed him.",
     Ind:"Maka menaburlah Ishak di tanah itu dan dalam tahun itu juga ia mendapat hasil seratus kali lipat; sebab ia diberkati TUHAN."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Segala sumur, yang digali dalam zaman Abraham, ayahnya, oleh hamba-hamba ayahnya itu, telah ditutup oleh orang Filistin dan ditimbun dengan tanah."
   },
   {Bible:"Genesis", Chapter:26, Verse:16, Page:1,
-    Kor:"아비멜렉이 이삭에게 말하였다. \"우리에게서 떠나가시오. 이제 당신은 우리보다 훨씬 강하오.\"",
+    Kor:"아비멜렉이 이삭에게 말하였다. \"우리에게서 떠나가거라. 이제 너는 우리보다 훨씬 강하다.\"",
     Chn:"亚比米勒对以撒说：「你离开我们去吧。因为你比我们强盛得多。」",
     Eng:"Then Abimelech said to Isaac, \"Move away from us; you have become too powerful for us.\"",
     Ind:"Lalu kata Abimelekh kepada Ishak: \"Pergilah dari tengah-tengah kami sebab engkau telah menjadi jauh lebih berkuasa dari pada kami.\""
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Ketika hamba-hamba Ishak menggali di lembah itu, mereka mendapati di situ mata air yang berbual-bual airnya."
   },
   {Bible:"Genesis", Chapter:26, Verse:20, Page:1,
-    Kor:"샘이 터지는 바람에, 그랄 지방 목자들이 그 샘줄기를 자기들의 것이라고 주장하면서, 이삭의 목자들과 다투었다. 우물을 두고서 다투었다고 해서, 이삭은 이 우물을 a에섹이라고 불렀다.(a '다툼')",
+    Kor:"샘이 터지는 바람에, 그랄 지방 목자들이 그 샘줄기를 자기들의 것이라고 주장하면서, 이삭의 목자들과 다투었다. 우물을 두고서 다투었다고 해서, 이삭은 이 우물을 에섹이라고 불렀다.",
     Chn:"基拉耳的牧人与以撒的牧人争竞，说：「这水是我们的。」以撒就给那井起名叫埃色，因为他们和他相争。",
     Eng:"But the herdsmen of Gerar quarreled with Isaac's herdsmen and said, \"The water is ours!\" So  he named the well Esek, because they disputed with him.",
     Ind:"Lalu bertengkarlah para gembala Gerar dengan para gembala Ishak. Kata mereka: \"Air ini kepunyaan kami.\" Dan Ishak menamai sumur itu Esek, karena mereka bertengkar dengan dia di sana."
   },
   {Bible:"Genesis", Chapter:26, Verse:21, Page:1,
-    Kor:"이삭의 종들이 또 다른 우물을 팠는데, 그랄 지방 목자들이 또 시비를 걸었다. 그래서 이삭은 그 우물 이름을 b싯나라고 하였다.(b '반대')",
+    Kor:"이삭의 종들이 또 다른 우물을 팠는데, 그랄 지방 목자들이 또 시비를 걸었다. 그래서 이삭은 그 우물 이름을 싯나라고 하였다.",
     Chn:"以撒的仆人又挖了一口井，他们又为这井争竞，因此以撒给这井起名叫西提拿。",
     Eng:"Then they dug another well, but they quarreled over that one also; so he named it Sitnah.",
     Ind:"Kemudian mereka menggali sumur lain, dan mereka bertengkar juga tentang itu. Maka Ishak menamai sumur itu Sitna."
   },
   {Bible:"Genesis", Chapter:26, Verse:22, Page:1,
-    Kor:"이삭이 거기에서 옮겨서, 또 다른 우물을 팠는데, 그 때에는 아무도 시비를 걸지 않았다. 그래서 그는 \"이제 주님께서 우리가 살 곳을 넓히셨으니, 여기에서 우리가 번성하게 되었다\" 하면서, 그 우물 이름을 c르호봇이라고 하였다.(c '넓은 곳')",
+    Kor:"이삭이 거기에서 옮겨서, 또 다른 우물을 팠는데, 그 때에는 아무도 시비를 걸지 않았다. 그래서 그는 \"이제 주께서 우리가 살 곳을 넓히셨으니, 여기에서 우리가 번성하게 되었다\" 하면서, 그 우물 이름을 르호봇이라고 하였다.",
     Chn:"以撒离开那里，又挖了一口井，他们不为这井争竞了，他就给那井起名叫利河伯。他说：「耶和华现在给我们宽阔之地，我们必在这地昌盛。」",
     Eng:"He moved on from there and dug another well, and no one quarreled over it. He named it  Rehoboth, saying, \"Now the LORD has given us room and we will flourish in the land.\"",
     Ind:"Ia pindah dari situ dan menggali sumur yang lain lagi, tetapi tentang sumur ini mereka tidak bertengkar. Sumur ini dinamainya Rehobot, dan ia berkata: \"Sekarang TUHAN telah memberikan kelonggaran kepada kita, sehingga kita dapat beranak cucu di negeri ini.\""
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Dari situ ia pergi ke Bersyeba."
   },
   {Bible:"Genesis", Chapter:26, Verse:24, Page:1,
-    Kor:"그 날 밤에 주님께서 그에게 나타나셔서 말씀하셨다. \"나는 너의 아버지 아브라함을 보살펴 준 하나님이다. 내가 너와 함께 있으니, 두려워하지 말아라. 내가 나의 종 아브라함을 보아서, 너에게 복을 주고, 너의 자손의 수를 불어나게 하겠다.\"",
+    Kor:"그 날 밤에 주께서 그에게 나타나셔서 말씀하셨다. \"나는 너의 아버지 아브라함을 보살펴 준 하나님이다. 내가 너와 함께 있으니, 두려워하지 말아라. 내가 나의 종 아브라함을 보아서, 너에게 복을 주고, 너의 자손의 수를 불어나게 하겠다.\"",
     Chn:"当夜耶和华向他显现，说：「我是你父亲亚伯拉罕的　神，不要惧怕！因为我与你同在，要赐福给你，并要为我仆人亚伯拉罕的缘故，使你的后裔繁多。」",
     Eng:"That night the LORD appeared to him and said, \"I am the God of your father Abraham. Do not  be afraid, for I am with you; I will bless you and will increase the number of your descendants  for the sake of my servant Abraham.\"",
     Ind:"Lalu pada malam itu TUHAN menampakkan diri kepadanya serta berfirman: \"Akulah Allah ayahmu Abraham; janganlah takut, sebab Aku menyertai engkau; Aku akan memberkati engkau dan membuat banyak keturunanmu karena Abraham, hamba-Ku itu.\""
   },
   {Bible:"Genesis", Chapter:26, Verse:25, Page:1,
-    Kor:"이삭이 그 곳에 제단을 쌓고, 주님의 이름을 부르며 예배하였다. 그는 거기에 장막을 치고, 그의 종들은 거기에서도 우물을 팠다.",
+    Kor:"이삭이 그 곳에 제단을 쌓고, 주의 이름을 부르며 예배하였다. 그는 거기에 장막을 치고, 그의 종들은 거기에서도 우물을 팠다.",
     Chn:"以撒就在那里筑了一座坛，求告耶和华的名，并且支搭帐棚；他的仆人便在那里挖了一口井。",
     Eng:"Isaac built an altar there and called on the name of the LORD. There he pitched his tent,  and there his servants dug a well.",
     Ind:"Sesudah itu Ishak mendirikan mezbah di situ dan memanggil nama TUHAN. Ia memasang kemahnya di situ, lalu hamba-hambanya menggali sumur di situ."
   },
   {Bible:"Genesis", Chapter:26, Verse:26, Page:1,
-    Kor:"<이삭과 아비멜렉의 협약> ○아비멜렉이 친구 아훗삿과 군사령관 비골을 데리고, 그랄에서 이삭에게로 왔다.",
+    Kor:"○아비멜렉이 친구 아훗삿과 군사령관 비골을 데리고, 그랄에서 이삭에게로 왔다.",
     Chn:"亚比米勒，同他的朋友亚户撒和他的军长非各，从基拉耳来见以撒。",
     Eng:"Meanwhile, Abimelech had come to him from Gerar, with Ahuzzath his personal adviser and  Phicol the commander of his forces.",
     Ind:"Datanglah Abimelekh dari Gerar mendapatkannya, bersama-sama dengan Ahuzat, sahabatnya, dan Pikhol, kepala pasukannya."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Tetapi kata Ishak kepada mereka: \"Mengapa kamu datang mendapatkan aku? Bukankah kamu benci kepadaku, dan telah menyuruh aku keluar dari tanahmu?\""
   },
   {Bible:"Genesis", Chapter:26, Verse:28, Page:1,
-    Kor:"그들이 대답하였다. \"우리는 주님께서 당신과 함께 계심을 똑똑히 보았습니다. 그래서 우리는, 우리와 당신 사이에 평화조약을 맺어야 하겠다고 생각합니다. 이제 우리와 당신 사이에 언약을 맺읍시다.",
+    Kor:"그들이 대답하였다. \"우리는 주께서 그대와 함께 계심을 똑똑히 보았습니다. 그래서 우리는, 우리와 그대 사이에 평화조약을 맺어야 하겠다고 생각합니다. 이제 우리와 그대 사이에 언약을 맺읍시다.",
     Chn:"他们说：「我们明明地看见耶和华与你同在，便说，不如我们两下彼此起誓，彼此立约，",
     Eng:"They answered, \"We saw clearly that the LORD was with you; so we said, 'There ought to be a  sworn agreement between us'--between us and you. Let us make a treaty with you",
     Ind:"Jawab mereka: \"Kami telah melihat sendiri, bahwa TUHAN menyertai engkau; sebab itu kami berkata: baiklah kita mengadakan sumpah setia, antara kami dan engkau; dan baiklah kami mengikat perjanjian dengan engkau,"
   },
   {Bible:"Genesis", Chapter:26, Verse:29, Page:1,
-    Kor:"우리가 당신을 건드리지 않고, 당신을 잘 대하여, 당신을 평안히 가게 한 것처럼, 당신도 우리를 해롭게 하지 마십시오. 당신은 분명히 주님께 복을 받은 사람입니다.\"",
+    Kor:"우리가 그대를 건드리지 않고, 그대를 잘 대하여, 그대를 평안히 가게 한 것처럼, 그대도 우리를 해롭게 하지 마십시오. 그대는 분명히 주께 복을 받은 사람입니다.\"",
     Chn:"使你不害我们，正如我们未曾害你，一味地厚待你，并且打发你平平安安地走。你是蒙耶和华赐福的了。」",
     Eng:"that you will do us no harm, just as we did not molest you but always treated you well and  sent you away in peace. And now you are blessed by the LORD.\"",
     Ind:"bahwa engkau tidak akan berbuat jahat kepada kami, seperti kami tidak mengganggu engkau, dan seperti kami semata-mata berbuat baik kepadamu dan membiarkan engkau pergi dengan damai; bukankah engkau sekarang yang diberkati TUHAN.\""
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Pada hari itu datanglah hamba-hamba Ishak memberitahukan kepadanya tentang sumur yang telah digali mereka, serta berkata kepadanya: \"Kami telah mendapat air.\""
   },
   {Bible:"Genesis", Chapter:26, Verse:33, Page:1,
-    Kor:"이삭이 그 우물을 d세바라고 부르니, 사람들은 오늘날까지 그 우물이 있는 성읍을 e브엘세바라고 한다.(d '맹세' 또는 '일곱' e '맹세의 우물' 또는 '일곱 우물')",
+    Kor:"이삭이 그 우물을 세바라고 부르니, 사람들은 오늘날까지 그 우물이 있는 성읍을 브엘세바라고 한다.",
     Chn:"他就给那井起名叫示巴；因此那城叫做别是巴，直到今日。",
     Eng:"He called it Shibah, and to this day the name of the town has been Beersheba.",
     Ind:"Lalu dinamainyalah sumur itu Syeba. Sebab itu nama kota itu adalah Bersyeba, sampai sekarang."
   },
   {Bible:"Genesis", Chapter:26, Verse:34, Page:1,
-    Kor:"<에서의 이방인 아내들> ○에서는, 마흔 살이 되는 해에, 헷 사람 브에리의 딸 유딧과, 헷 사람 엘론의 딸 바스맛을 아내로 맞았다.",
+    Kor:"○에서는, 마흔 살이 되는 해에, 헷 사람 브에리의 딸 유딧과, 헷 사람 엘론의 딸 바스맛을 아내로 맞았다.",
     Chn:"以扫四十岁的时候娶了赫人比利的女儿犹滴，与赫人以伦的女儿巴实抹为妻。",
     Eng:"When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and also  Basemath daughter of Elon the Hittite.",
     Ind:"Ketika Esau telah berumur empat puluh tahun, ia mengambil Yudit, anak Beeri orang Het, dan Basmat, anak Elon orang Het, menjadi isterinya."

@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",75,10);
 BibleDB.add([
   {Bible:"Psalms", Chapter:75, Verse:1, Page:1,
-    Kor:"<아삽의 시, 지휘자를 따라 a'알다스헷'에 맞추어 부르는 노래> 하나님, 우리가 주님께 감사하고 또 감사합니다. 주님의 이름을 부르는 이들이 주님께서 이루신 그 놀라운 일들을 전파합니다. (a '파괴하지 말아라')",
+    Kor:"하나님, 우리가 주님께 감사하고 또 감사합니다. 주의 이름이 우리에게 가까이 있습니다. 주께서 이루신 그 놀라운 행적을 전파합니다.",
     Chn:"亚萨的诗歌，交与伶长。调用休要毁坏。 　神啊，我们称谢你，我们称谢你！ 因为你的名相近，人都述说你奇妙的作为。",
     Eng:"We give thanks to you, O God, we give thanks, for your Name is near; men tell of your wonderful deeds.",
     Ind:"Untuk pemimpin biduan. Menurut lagu: Jangan memusnahkan. Mazmur Asaf. Nyanyian. (75-2) Kami bersyukur kepada-Mu, ya Allah, kami bersyukur, dan orang-orang yang menyerukan nama-Mu menceritakan perbuatan-perbuatan-Mu yang ajaib."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"(75-3) \"Apabila Aku menetapkan waktunya, Aku sendiri akan menghakimi dengan kebenaran."
   },
   {Bible:"Psalms", Chapter:75, Verse:3, Page:1,
-    Kor:"땅이 진동하고 거기에 사는 사람들이 흔들리고 비틀거릴 때에, 땅의 기둥을 견고하게 붙드는 자는 바로 나다. (셀라)",
+    Kor:"땅이 진동하고, 거기에 사는 사람들이 흔들리고 비틀거릴 때에, 땅의 기둥을 견고하게 붙드는 자는 바로 나다. (셀라)",
     Chn:"地和其上的居民都消化了； 我曾立了地的柱子。 （细拉）",
     Eng:"When the earth and all its people quake, it is I who hold its pillars firm. Selah",
     Ind:"(75-4) Bumi hancur dan semua penduduknya; tetapi Akulah yang mengokohkan tiang-tiangnya.\" Sela"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"(75-6) Jangan mengangkat tandukmu tinggi-tinggi, jangan berbicara dengan bertegang leher!\""
   },
   {Bible:"Psalms", Chapter:75, Verse:6, Page:1,
-    Kor:"높이 세우는 그 일은 동쪽에서나 서쪽에서 말미암지 않고, 남쪽에서 말미암지도 않는다.",
+    Kor:"높이 세우는 그 일은 동쪽에서나 서쪽에서 말미암지 않고, 광야에서 말미암지도 않는다.",
     Chn:"因为高举非从东，非从西， 也非从南而来。",
     Eng:"No one from the east or the west or from the desert can exalt a man.",
     Ind:"(75-7) Sebab bukan dari timur atau dari barat dan bukan dari padang gurun datangnya peninggian itu,"

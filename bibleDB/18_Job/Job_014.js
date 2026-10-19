@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Seperti bunga ia berkembang, lalu layu, seperti bayang-bayang ia hilang lenyap dan tidak dapat bertahan."
   },
   {Bible:"Job", Chapter:14, Verse:3, Page:1,
-    Kor:"주님께서는 이렇게 미미한 것을 눈여겨 살피시겠다는 겁니까? 더욱이 저와 같은 것을 심판대로 데리고 가셔서, 심판하시겠다는 겁니까?",
+    Kor:"주께서는 이렇게 미미한 것을 눈여겨 살피시겠다는 겁니까? 더욱이 저와 같은 것을 심판대로 데리고 가셔서, 심판하시겠다는 겁니까?",
     Chn:"这样的人你岂睁眼看他吗？ 又叫我来受审吗？",
     Eng:"Do you fix your eye on such a one? Will you bring him before you for judgment?",
     Ind:"Masakan Engkau menujukan pandangan-Mu kepada orang seperti itu, dan menghadapkan kepada-Mu untuk diadili?"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Siapa dapat mendatangkan yang tahir dari yang najis? Seorangpun tidak!"
   },
   {Bible:"Job", Chapter:14, Verse:5, Page:1,
-    Kor:"인생이 살아갈 날 수는 미리 정해져 있고, 그 달 수도 주님께서는 다 헤아리고 계십니다. 주님께서는 사람이 더 이상 넘어갈 수 없는 한계를 정하셨습니다.",
+    Kor:"인생이 살아갈 날 수는 미리 정해져 있고, 그 달 수도, 주께서는 다 헤아리고 계십니다. 주께서는 사람이 더 이상 넘어갈 수 없는 한계를 정하셨습니다.",
     Chn:"人的日子既然限定， 他的月数在你那里， 你也派定他的界限，使他不能越过，",
     Eng:"Man's days are determined; you have decreed the number of his months and have set limits he cannot exceed.",
     Ind:"Jikalau hari-harinya sudah pasti, dan jumlah bulannya sudah tentu pada-Mu, dan batas-batasnya sudah Kautetapkan, sehingga tidak dapat dilangkahinya,"
@@ -75,31 +75,31 @@ BibleDB.add([
     Ind:"demikian juga manusia berbaring dan tidak bangkit lagi, sampai langit hilang lenyap, mereka tidak terjaga, dan tidak bangun dari tidurnya."
   },
   {Bible:"Job", Chapter:14, Verse:13, Page:1,
-    Kor:"차라리 나를 a스올에 감추어 두실 수는 없으십니까? 주님의 진노가 가실 때까지만이라도 나를 숨겨 주시고, 기한을 정해 두셨다가 뒷날에 다시 기억해 주실 수는 없습니까? (a 또는 '무덤' 또는 '죽음')",
+    Kor:"차라리 나를 스올에 감추어 두실 수는 없으십니까? 주의 진노가 가실 때까지만이라도 나를 숨겨 주시고, 기한을 정해 두셨다가 뒷날에 다시 기억해 주실 수는 없습니까?",
     Chn:"惟愿你把我藏在阴间， 存于隐密处，等你的忿怒过去； 愿你为我定了日期，记念我。",
     Eng:"\"If only you would hide me in the grave and conceal me till your anger has passed! If only you would set me a time and then remember me!",
     Ind:"Ah, kiranya Engkau menyembunyikan aku di dalam dunia orang mati, melindungi aku, sampai murka-Mu surut; dan menetapkan waktu bagiku, kemudian mengingat aku pula!"
   },
   {Bible:"Job", Chapter:14, Verse:14, Page:1,
-    Kor:"아무리 대장부라 하더라도 죽으면 그만입니다. 그러므로 나는 더 좋은 때를 기다리겠습니다. 이 고난의 때가 지나가기까지 기다리겠습니다.",
+    Kor:"아무리 대장부라 하더라도, 죽으면 그만입니다. 그러므로 나는 더 좋은 때를 기다리겠습니다. 이 고난의 때가 지나가기까지 기다리겠습니다.",
     Chn:"人若死了岂能再活呢？ 我只要在我一切争战的日子， 等我被释放的时候来到。",
     Eng:"If a man dies, will he live again? All the days of my hard service I will wait for my renewal to come.",
     Ind:"Kalau manusia mati, dapatkah ia hidup lagi? Maka aku akan menaruh harap selama hari-hari pergumulanku, sampai tiba giliranku;"
   },
   {Bible:"Job", Chapter:14, Verse:15, Page:1,
-    Kor:"그 때에 주님께서 나를 불러 주시면, 내가 대답하겠습니다. 주님께서도 손수 지으신 나를 보시고 기뻐하실 것입니다.",
+    Kor:"그 때에 주께서 나를 불러 주시면, 내가 대답하겠습니다. 주께서도 손수 지으신 나를 보시고 기뻐하실 것입니다.",
     Chn:"你呼叫，我便回答； 你手所做的，你必羡慕。",
     Eng:"You will call and I will answer you; you will long for the creature your hands have made.",
     Ind:"maka Engkau akan memanggil, dan akupun akan menyahut; Engkau akan rindu kepada buatan tangan-Mu."
   },
   {Bible:"Job", Chapter:14, Verse:16, Page:1,
-    Kor:"그러므로 지금은 주님께서 내 모든 걸음걸음을 세고 계시지만, 그 때에는 내 죄를 살피지 않으실 것입니다.",
+    Kor:"그러므로 지금은 주께서 내 모든 걸음걸음을 세고 계시지만, 그 때에는 내 죄를 살피지 않으실 것입니다.",
     Chn:"但如今你数点我的脚步， 岂不窥察我的罪过吗？",
     Eng:"Surely then you will count my steps but not keep track of my sin.",
     Ind:"Sungguhpun Engkau menghitung langkahku, Engkau tidak akan memperhatikan dosaku;"
   },
   {Bible:"Job", Chapter:14, Verse:17, Page:1,
-    Kor:"주님께서는 내 허물을 자루에 넣어 봉하시고, 내 잘못을 덮어 주실 것입니다.",
+    Kor:"주께서는 내 허물을 자루에 넣어 봉하시고, 내 잘못을 덮어 주실 것입니다.",
     Chn:"我的过犯被你封在囊中， 也缝严了我的罪孽。",
     Eng:"My offenses will be sealed up in a bag; you will cover over my sin.",
     Ind:"pelanggaranku akan dimasukkan di dalam pundi-pundi yang dimeteraikan, dan kesalahanku akan Kaututup dengan lepa."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Tetapi seperti gunung runtuh berantakan, dan gunung batu bergeser dari tempatnya,"
   },
   {Bible:"Job", Chapter:14, Verse:19, Page:1,
-    Kor:"물이 바위를 굴려 내고 폭우가 온 세상 먼지를 급류로 씻어 내듯이,",
+    Kor:"물이 바위를 굴려 내고 폭우가 온 세상 먼지를 급류로 씻어 내듯이, 주께서는 연약한 사람의 삶의 희망도 그렇게 끊으십니다.",
     Chn:"水流消磨石头， 所流溢的洗去地上的尘土； 你也照样灭绝人的指望。",
     Eng:"as water wears away stones and torrents wash away the soil, so you destroy man's hope.",
     Ind:"seperti batu-batu dikikis air, dan bumi dihanyutkan tanahnya oleh hujan lebat, demikianlah Kauhancurkan harapan manusia."
   },
   {Bible:"Job", Chapter:14, Verse:20, Page:1,
-    Kor:"주님께서는 연약한 사람의 삶의 희망도 그렇게 끊으십니다. 주님께서 사람을 끝까지 억누르시면, 창백하게 질린 얼굴로 주님 앞에서 쫓겨날 것입니다.",
+    Kor:"주님께서 사람을 끝까지 억누르시면, 창백하게 질린 얼굴로 주님 앞에서 쫓겨날 것입니다.",
     Chn:"你攻击人常常得胜，使他去世； 你改变他的容貌，叫他往而不回。",
     Eng:"You overpower him once for all, and he is gone; you change his countenance and send him away.",
     Ind:"Engkau menggagahi dia untuk selama-lamanya, maka pergilah ia, Engkau mengubah wajahnya dan menyuruh dia pergi."

@@ -3,19 +3,19 @@
 BibleDB.ref("Judges",17,13);
 BibleDB.add([
   {Bible:"Judges", Chapter:17, Verse:1, Page:1,
-    Kor:"<미가 집의 제사장> 에브라임 산간지방에 미가라는 사람이 있었다.",
+    Kor:"에브라임 산간지방에 미가라는 사람이 있었다.",
     Chn:"以法莲山地有一个人名叫米迦。",
     Eng:"Now a man named Micah from the hill country of Ephraim",
     Ind:"Ada seorang dari pegunungan Efraim, Mikha namanya."
   },
   {Bible:"Judges", Chapter:17, Verse:2, Page:1,
-    Kor:"그가 어머니에게 말하였다. \"누군가가 은돈 천백 냥을 훔쳐 갔을 때에, 어머니는 그 훔친 사람을 저주하셨습니다. 나도 이 귀로 직접 들었습니다. 보십시오, 그 은돈이 여기 있습니다. 바로 내가 그것을 가져 갔습니다.\" 그러자 그의 어머니는 도리어 이렇게 말하였다. \"얘야, 주님께서 너에게 복 주시기를 바란다.\"",
+    Kor:"그가 어머니에게 말하였다. \"누군가가 은돈 천백 냥을 훔쳐 갔을 때에, 어머니는 그 훔친 사람을 저주하셨습니다. 나도 이 귀로 직접 들었습니다. 보십시오, 그 은돈이 여기 있습니다. 바로 내가 그것을 가져 갔습니다.\" 그러자 그의 어머니는 도리어 이렇게 말하였다. \"얘야, 주께서 너에게 복 주시기를 바란다.\"",
     Chn:"他对母亲说：「你那一千一百舍客勒银子被人拿去，你因此咒诅，并且告诉了我。看哪，这银子在我这里，是我拿去了。」他母亲说：「我儿啊，愿耶和华赐福与你！」",
     Eng:"said to his mother, \"The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse--I have that silver with me; I took it.\" Then his mother said, \"The LORD bless you, my son!\"",
     Ind:"Berkatalah ia kepada ibunya: \"Uang perak yang seribu seratus itu, yang diambil orang dari padamu dan yang karena itu kauucapkan kutuk--aku sendiri mendengar ucapanmu itu--memang uang itu ada padaku, akulah yang mengambilnya.\" Lalu kata ibunya: \"Diberkatilah kiranya anakku oleh TUHAN.\""
   },
   {Bible:"Judges", Chapter:17, Verse:3, Page:1,
-    Kor:"그는 은돈 천백 냥을 어머니에게 내놓았다. 그러자 그의 어머니가 말하였다. \"나의 아들이 저주를 받지 않도록, 이 은돈을 주님께 거룩하게 구별하여 바치겠다. 이 돈은 은을 입힌 목상을 만드는 데 쓰도록 하겠다. 그러니 이 은돈을 너에게 다시 돌려 주마.\"",
+    Kor:"그는 은돈 천백 냥을 어머니에게 내놓았다. 그러자 그의 어머니가 말하였다. \"나의 아들이 저주를 받지 않도록, 이 은돈을 주께 거룩하게 구별하여 바치겠다. 이 돈은 은을 입힌 목상을 만드는 데 쓰도록 하겠다. 그러니 이 은돈을 너에게 다시 돌려 주마.\"",
     Chn:"米迦就把这一千一百舍客勒银子还他母亲。他母亲说：「我分出这银子来为你献给耶和华，好雕刻一个像，铸成一个像。现在我还是交给你。」",
     Eng:"When he returned the eleven hundred shekels of silver to his mother, she said, \"I solemnly consecrate my silver to the LORD for my son to make a carved image and a cast idol. I will give it back to you.\"",
     Ind:"Sesudah itu dikembalikannyalah uang perak yang seribu seratus itu kepada ibunya. Tetapi ibunya berkata: \"Aku mau menguduskan uang itu bagi TUHAN, aku menyerahkannya untuk anakku, supaya dibuat patung pahatan dan patung tuangan dari pada uang itu. Maka sekarang, uang itu kukembalikan kepadamu.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Maka ada seorang muda dari Betlehem-Yehuda, dari kaum Yehuda; ia seorang Lewi dan tinggal di sana sebagai pendatang."
   },
   {Bible:"Judges", Chapter:17, Verse:8, Page:1,
-    Kor:"그 사람이 자기가 살던 유다 땅 베들레헴을 떠나서 있을 곳을 찾다가, 에브라임 산간지방까지 와서, 미가의 집에 이르렀다.",
+    Kor:"그 사람이, 자기가 살던 유다 땅 베들레헴을 떠나서, 있을 곳을 찾다가, 에브라임 산간지방까지 와서, 미가의 집에 이르렀다.",
     Chn:"这人离开犹大的伯利恒城，要找一个可住的地方。行路的时候，到了以法莲山地，走到米迦的家。",
     Eng:"left that town in search of some other place to stay. On his way he came to Micah's house in the hill country of Ephraim.",
     Ind:"Lalu orang itu keluar dari kota Betlehem-Yehuda untuk menetap sebagai pendatang di mana saja ia mendapat tempat; dan dalam perjalanannya itu sampailah ia ke pegunungan Efraim di rumah Mikha."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Bertanyalah Mikha kepadanya: \"Engkau dari mana?\" Jawabnya kepadanya: \"Aku orang Lewi dari Betlehem-Yehuda, dan aku pergi untuk menetap sebagai pendatang di mana saja aku mendapat tempat.\""
   },
   {Bible:"Judges", Chapter:17, Verse:10, Page:1,
-    Kor:"미가가 그에게 말하였다. \"우리 집에 살면서, 어른이 되어 주시고, 제사장이 되어 주십시오. 일 년에 은돈 열 냥을 드리고, 옷과 먹거리를 드리겠습니다.\" 이 말을 듣고 그 젊은 레위 사람은 안으로 들어갔다.",
+    Kor:"미가가 그에게 말하였다. \"우리 집에 살면서, 어른이 되어 주시고, 제사장이 되어 주시오. 일 년에 은돈 열 냥을 드리고, 옷과 먹을거리를 드리겠소.\" 이 말을 듣고 그 젊은 레위 사람은 안으로 들어갔다.",
     Chn:"米迦说：「你可以住在我这里，我以你为父、为祭司。我每年给你十舍客勒银子，一套衣服和度日的食物。」利未人就进了他的家。",
     Eng:"Then Micah said to him, \"Live with me and be my father and priest, and I'll give you ten shekels of silver a year, your clothes and your food.\"",
     Ind:"Lalu kata Mikha kepadanya: \"Tinggallah padaku dan jadilah bapak dan imam bagiku; maka setiap tahun aku akan memberikan kepadamu sepuluh uang perak, sepasang pakaian serta makananmu.\""
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Mikha mentahbiskan orang Lewi itu; orang muda itu menjadi imamnya dan diam di rumah Mikha."
   },
   {Bible:"Judges", Chapter:17, Verse:13, Page:1,
-    Kor:"그래서 미가는, 자기가 이제 레위 사람을 제사장으로 삼았으니, 주님께서 틀림없이 자기에게 복을 주실 것이라고 생각하였다.",
+    Kor:"그래서 미가는, 자기가 이제 레위 사람을 제사장으로 삼았으니, 주께서 틀림없이 자기에게 복을 주실 것이라고 생각하였다.",
     Chn:"米迦说：「现在我知道耶和华必赐福与我，因我有一个利未人作祭司。」",
     Eng:"And Micah said, \"Now I know that the LORD will be good to me, since this Levite has become my priest.\"",
     Ind:"Lalu kata Mikha: \"Sekarang tahulah aku, bahwa TUHAN akan berbuat baik kepadaku, karena ada seorang Lewi menjadi imamku.\""

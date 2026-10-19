@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",7,29);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:7, Verse:1, Page:1,
-    Kor:"<나단의 예언(대상 17:1-15)> 주님께서 사방에 있는 모든 원수에게서 다윗 왕을 안전하게 지켜 주셨으므로, 왕은 이제 자기의 왕궁에서 살게 되었다.",
+    Kor:"주께서 사방에 있는 모든 원수에게서 다윗 왕을 안전하게 지켜 주셨으므로, 왕은 이제 자기의 왕궁에서 살게 되었다.",
     Chn:"王住在自己宫中，耶和华使他安靖，不被四围的仇敌扰乱。",
     Eng:"After the king was settled in his palace and the LORD had given him rest from all his enemies around him,",
     Ind:"Ketika raja telah menetap di rumahnya dan TUHAN telah mengaruniakan keamanan kepadanya terhadap semua musuhnya di sekeliling,"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"berkatalah raja kepada nabi Natan: \"Lihatlah, aku ini diam dalam rumah dari kayu aras, padahal tabut Allah diam di bawah tenda.\""
   },
   {Bible:"2Samuel", Chapter:7, Verse:3, Page:1,
-    Kor:"나단이 왕에게 말하였다. \"주님께서 임금님과 함께 계시니, 가셔서, 무슨 일이든지 계획하신 대로 하십시오.\"",
+    Kor:"나단이 왕에게 말하였다. \"주께서 임금님과 함께 계시니, 가셔서, 무슨 일이든지 계획하신 대로 하십시오.\"",
     Chn:"拿单对王说：「你可以照你的心意而行，因为耶和华与你同在。」",
     Eng:"Nathan replied to the king, \"Whatever you have in mind, go ahead and do it, for the LORD is with you.\"",
     Ind:"Lalu berkatalah Natan kepada raja: \"Baik, lakukanlah segala sesuatu yang dikandung hatimu, sebab TUHAN menyertai engkau.\""
   },
   {Bible:"2Samuel", Chapter:7, Verse:4, Page:1,
-    Kor:"○그러나 바로 그 날 밤에 주님께서 나단에게 말씀하셨다.",
+    Kor:"○그러나 바로 그 날 밤에, 주께서 나단에게 말씀하셨다.",
     Chn:"当夜，耶和华的话临到拿单说：",
     Eng:"That night the word of the LORD came to Nathan, saying:",
     Ind:"Tetapi pada malam itu juga datanglah firman TUHAN kepada Natan, demikian:"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Aku tidak pernah diam dalam rumah sejak Aku menuntun orang Israel dari Mesir sampai hari ini, tetapi Aku selalu mengembara dalam kemah sebagai kediaman."
   },
   {Bible:"2Samuel", Chapter:7, Verse:7, Page:1,
-    Kor:"내가 이스라엘 온 자손과 함께 옮겨 다닌 모든 곳에서, 내가 나의 백성 이스라엘을 돌보라고 명한 이스라엘 그 어느 a지파에게라도, 나에게 백향목 집을 지어 주지 않은 것을 두고 말한 적이 있느냐?'(a 또는 '지도자에게도' 또는 '지파 지도자에게도'(대상 17:6 참조))",
+    Kor:"내가 이스라엘 온 자손과 함께 옮겨 다닌 모든 곳에서, 내가 나의 백성 이스라엘을 돌보라고 명한 이스라엘 그 어느 지파에게라도, 나에게 백향목 집을 지어 주지 않은 것을 두고 말한 적이 있느냐?'",
     Chn:"凡我同以色列人所走的地方，我何曾向以色列一支派的士师，就是我吩咐牧养我民以色列的说：你们为何不给我建造香柏木的殿宇呢？』",
     Eng:"Wherever I have moved with all the Israelites, did I ever say to any of their rulers whom I commanded to shepherd my people Israel, \"Why have you not built me a house of cedar?\"'",
     Ind:"Selama Aku mengembara bersama-sama seluruh orang Israel, pernahkah Aku mengucapkan firman kepada salah seorang hakim orang Israel, yang Kuperintahkan menggembalakan umat-Ku Israel, demikian: Mengapa kamu tidak mendirikan bagi-Ku rumah dari kayu aras?"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Aku menentukan tempat bagi umat-Ku Israel dan menanamkannya, sehingga ia dapat diam di tempatnya sendiri dengan tidak lagi dikejutkan dan tidak pula ditindas oleh orang-orang lalim seperti dahulu,"
   },
   {Bible:"2Samuel", Chapter:7, Verse:11, Page:1,
-    Kor:"이전에 내가 나의 백성 이스라엘에게 사사들을 세워 준 때와는 달리, 내가 너를 너의 모든 원수로부터 보호하여서, 평안히 살게 하겠다. 그뿐만 아니라, 나 주가 너의 집안을 한 왕조로 만들겠다는 것을 이제 나 주가 너에게 선언한다.",
+    Kor:"이전에, 내가 나의 백성 이스라엘에게 사사들을 세워 준 때와는 달리, 내가 너를 너의 모든 원수로부터 보호하여서, 평안히 살게 하겠다. 그뿐만 아니라, 나 주가 너의 집안을 한 왕조로 만들겠다는 것을 이제 나 주가 너에게 선언한다.",
     Chn:"并不像我命士师治理我民以色列的时候一样。我必使你安靖，不被一切仇敌扰乱，并且我—耶和华应许你，必为你建立家室。",
     Eng:"and have done ever since the time I appointed leaders over my people Israel. I will also give you rest from all your enemies. \"'The LORD declares to you that the LORD himself will establish a house for you:",
     Ind:"sejak Aku mengangkat hakim-hakim atas umat-Ku Israel. Aku mengaruniakan keamanan kepadamu dari pada semua musuhmu. Juga diberitahukan TUHAN kepadamu: TUHAN akan memberikan keturunan kepadamu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi kasih setia-Ku tidak akan hilang dari padanya, seperti yang Kuhilangkan dari pada Saul, yang telah Kujauhkan dari hadapanmu."
   },
   {Bible:"2Samuel", Chapter:7, Verse:16, Page:1,
-    Kor:"네 집과 네 나라가 b내 앞에서 영원히 이어 갈 것이며, 네 왕위가 영원히 튼튼하게 서 있을 것이다.'\"(b 몇몇 히브리어 사본과 칠십인역을 따름. 대다수의 히브리어 사본에는 '네')",
+    Kor:"네 집과 네 나라가 내 앞에서 영원히 이어 갈 것이며, 네 왕위가 영원히 튼튼하게 서 있을 것이다.'\"",
     Chn:"你的家和你的国必在我面前永远坚立。你的国位也必坚定，直到永远。』」",
     Eng:"Your house and your kingdom will endure forever before me; your throne will be established forever.'\"",
     Ind:"Keluarga dan kerajaanmu akan kokoh untuk selama-lamanya di hadapan-Ku, takhtamu akan kokoh untuk selama-lamanya.\""
@@ -105,25 +105,25 @@ BibleDB.add([
     Ind:"Tepat seperti perkataan ini dan tepat seperti penglihatan ini Natan berbicara kepada Daud."
   },
   {Bible:"2Samuel", Chapter:7, Verse:18, Page:1,
-    Kor:"<다윗의 감사 기도(대상 17:16-27)> ○다윗 왕이 성막으로 들어가서, 주님 앞에 꿇어앉아, 이렇게 기도하였다. \"주 하나님, 내가 누구이며 또 내 집안이 무엇이기에, 주님께서 나를 이러한 자리에까지 오르게 해주셨습니까?",
+    Kor:"○다윗 왕이 성막으로 들어가서, 주 앞에 꿇어앉아, 이렇게 기도하였다. \"주 하나님, 내가 누구이며 또 내 집안이 무엇이기에, 주께서 나를 이러한 자리에까지 오르게 해주셨습니까?",
     Chn:"于是大卫王进去，坐在耶和华面前，说：「主耶和华啊，我是谁？我的家算什么？你竟使我到这地步呢？",
     Eng:"Then King David went in and sat before the LORD, and he said: \"Who am I, O Sovereign LORD, and what is my family, that you have brought me this far?",
     Ind:"Lalu masuklah raja Daud ke dalam, kemudian duduklah ia di hadapan TUHAN sambil berkata: \"Siapakah aku ini, ya Tuhan ALLAH, dan siapakah keluargaku, sehingga Engkau membawa aku sampai sedemikian ini?"
   },
   {Bible:"2Samuel", Chapter:7, Verse:19, Page:1,
-    Kor:"주 하나님, 그런데도 주님께서는 이것도 오히려 부족하게 여기시고, 주님의 종의 집안에 있을 먼 장래의 일까지 말씀해 주셨습니다. 주 나의 하나님, 이것이 어찌 주님께서 사람을 대하시는 일상적인 방법이겠습니까?",
+    Kor:"주 하나님, 그런데도 주께서는 이것도 오히려 부족하게 여기시고, 주의 종의 집안에 있을 먼 장래의 일까지 말씀해 주셨습니다. 주 나의 하나님, 이것이 어찌 주께서 사람을 대하시는 일상적인 방법이겠습니까?",
     Chn:"主耶和华啊，这在你眼中还看为小，又应许你仆人的家至于久远。主耶和华啊，这岂是人所常遇的事吗？",
     Eng:"And as if this were not enough in your sight, O Sovereign LORD, you have also spoken about the future of the house of your servant. Is this your usual way of dealing with man, O Sovereign LORD?",
     Ind:"Dan hal ini masih kurang di mata-Mu, ya Tuhan ALLAH; sebab itu Engkau telah berfirman juga tentang keluarga hamba-Mu ini dalam masa yang masih jauh dan telah memperlihatkan kepadaku serentetan manusia yang akan datang, ya Tuhan ALLAH."
   },
   {Bible:"2Samuel", Chapter:7, Verse:20, Page:1,
-    Kor:"주 하나님, 주님께서 주님의 종을 잘 아시니, 이 다윗이 주님께 무슨 말씀을 더 드릴 필요가 있겠습니까?",
+    Kor:"주 하나님, 주께서 주의 종을 잘 아시니, 이 다윗이 주님께 무슨 말씀을 더 드릴 필요가 있겠습니까?",
     Chn:"主耶和华啊，我还有何言可以对你说呢？因为你知道你的仆人。",
     Eng:"\"What more can David say to you? For you know your servant, O Sovereign LORD.",
     Ind:"Apakah yang dapat dikatakan Daud kepada-Mu lebih lagi dari pada itu. Bukankah Engkau yang mengenal hamba-Mu ini, ya Tuhan ALLAH?"
   },
   {Bible:"2Samuel", Chapter:7, Verse:21, Page:1,
-    Kor:"주님께서 세우신 뜻과 목적대로 주님께서는 이렇게 크나큰 일을 하시고, 또 그것을 이 종에게까지 알려 주셨습니다.",
+    Kor:"주께서 세우신 뜻과 목적대로 주께서는 이렇게 크나큰 일을 하시고, 또 그것을 이 종에게까지 알려 주셨습니다.",
     Chn:"你行这大事使仆人知道，是因你所应许的话，也是照你的心意。",
     Eng:"For the sake of your word and according to your will, you have done this great thing and made it known to your servant.",
     Ind:"Oleh karena firman-Mu dan menurut hati-Mu Engkau telah melakukan segala perkara yang besar ini dengan memberitahukannya kepada hamba-Mu ini."
@@ -135,43 +135,43 @@ BibleDB.add([
     Ind:"Sebab itu Engkau besar, ya Tuhan ALLAH, sebab tidak ada yang sama seperti Engkau dan tidak ada Allah selain Engkau menurut segala yang kami tangkap dengan telinga kami."
   },
   {Bible:"2Samuel", Chapter:7, Verse:23, Page:1,
-    Kor:"이 세상에서 어떤 민족이 주님의 백성 이스라엘과 같겠습니까? 하나님이 직접 찾아가셔서, 이스라엘을 구하여 내시고, 주님의 백성으로 삼아서, 주님의 명성을 드러내셨습니다. 그들을 이집트에서 구하여 내시려고 큰 일을 하셨고, 주님의 백성이 보는 앞에서, 다른 민족들과 그 신들에게서 그들을 친히 구원하시려고 이렇게 큰 일을 하시었고, 주님의 땅에서 놀라운 일을 10 7:하셨습니다.",
+    Kor:"이 세상에서 어떤 민족이 주의 백성 이스라엘과 같겠습니까? 하나님이 직접 찾아가셔서, 이스라엘을 구하여 내시고, 주의 백성으로 삼아서, 주의 명성을 드러내셨습니다. 그들을 이집트에서 구하여 내시려고 큰 일을 하셨고, 주의 백성이 보는 앞에서, 다른 민족들과 그 신들에게서 그들을 친히 구원하시려고 이렇게 큰 일을 하시었고, 주의 땅에서 놀라운 일을 하셨습니다.",
     Chn:"世上有何民能比你的民以色列呢？你从埃及救赎他们作自己的子民，又在你赎出来的民面前行大而可畏的事，驱逐列邦人和他们的神，显出你的大名。",
     Eng:"And who is like your people Israel--the one nation on earth that God went out to redeem as a people for himself, and to make a name for himself, and to perform great and awesome wonders by driving out nations and their gods from before your people, whom you redeemed from Egypt?",
     Ind:"Dan bangsa manakah di bumi seperti umat-Mu Israel, yang Allahnya pergi membebaskannya menjadi umat-Nya, untuk mendapat nama bagi-Nya dengan melakukan perbuatan-perbuatan yang besar dan dahsyat bagi mereka, dan dengan menghalau bangsa-bangsa dan para allah mereka dari depan umat-Nya?"
   },
   {Bible:"2Samuel", Chapter:7, Verse:24, Page:1,
-    Kor:"주님께서는 이렇게 주님의 백성 이스라엘을 튼튼히 세우셔서, 영원히 주님의 백성으로 삼으셨습니다. 또 주님께서 그들의 하나님이 되셨습니다.",
+    Kor:"주께서는 이렇게 주의 백성 이스라엘을 튼튼히 세우셔서, 영원히 주의 백성으로 삼으셨습니다. 또 주께서 그들의 하나님이 되셨습니다.",
     Chn:"你曾坚立你的民以色列作你的子民，直到永远；你—耶和华也作了他们的　神。",
     Eng:"You have established your people Israel as your very own forever, and you, O LORD, have become their God.",
     Ind:"Engkau telah mengokohkan bagi-Mu umat-Mu Israel menjadi umat-Mu untuk selama-lamanya, dan Engkau, ya TUHAN, menjadi Allah mereka."
   },
   {Bible:"2Samuel", Chapter:7, Verse:25, Page:1,
-    Kor:"○주 하나님, 주님께서 주님의 종과 이 종의 집안에 약속하여 주신 말씀이 영원히 변하지 않게 하여 주십시오.",
+    Kor:"○주 하나님, 주께서 주의 종과 이 종의 집안에 약속하여 주신 말씀이 영원히 변하지 않게 하여 주십시오.",
     Chn:"「耶和华　神啊，你所应许仆人和仆人家的话，求你坚定，直到永远；照你所说的而行。",
     Eng:"\"And now, LORD God, keep forever the promise you have made concerning your servant and his house. Do as you promised,",
     Ind:"Dan sekarang, ya TUHAN Allah, tepatilah untuk selama-lamanya janji yang Kauucapkan mengenai hamba-Mu ini dan mengenai keluarganya dan lakukanlah seperti yang Kaujanjikan itu."
   },
   {Bible:"2Samuel", Chapter:7, Verse:26, Page:1,
-    Kor:"그래서 사람들이 '만군의 주님께서 이스라엘의 하나님이시다!' 하고 외치며, 주님의 이름을 영원토록 높이게 하시고, 주님의 종 다윗의 집안도 주님 앞에서 튼튼히 서게 해주시기를 바랍니다.",
+    Kor:"그래서 사람들이 '만군의 주께서 이스라엘의 하나님이시다!' 하고 외치며, 주의 이름을 영원토록 높이게 하시고, 주의 종 다윗의 집안도 주님 앞에서 튼튼히 서게 해주시기를 바랍니다.",
     Chn:"愿人永远尊你的名为大，说：『万军之耶和华是治理以色列的　神。』这样，你仆人大卫的家必在你面前坚立。",
     Eng:"so that your name will be great forever. Then men will say, 'The LORD Almighty is God over Israel!' And the house of your servant David will be established before you.",
     Ind:"Maka nama-Mu akan menjadi besar untuk selama-lamanya, sehingga orang berkata: TUHAN semesta alam ialah Allah atas Israel; maka keluarga hamba-Mu Daud akan tetap kokoh di hadapan-Mu."
   },
   {Bible:"2Samuel", Chapter:7, Verse:27, Page:1,
-    Kor:"만군의 주, 이스라엘의 하나님, 주님께서 몸소 이 계시를 이 종에게 주시고 '내가 너의 집안을 세우겠다!' 하고 말씀하여 주셨으므로, 주님의 종이 감히 주님께 이러한 간구를 드릴 용기를 얻었습니다.",
+    Kor:"만군의 주, 이스라엘의 하나님, 주께서 몸소 이 계시를 이 종에게 주시고 '내가 너의 집안을 세우겠다!' 하고 말씀하여 주셨으므로, 주의 종이 감히 주께 이러한 간구를 드릴 용기를 얻었습니다.",
     Chn:"万军之耶和华—以色列的　神啊，因你启示你的仆人说：『我必为你建立家室』，所以仆人大胆向你如此祈祷。",
     Eng:"\"O LORD Almighty, God of Israel, you have revealed this to your servant, saying, 'I will build a house for you.' So your servant has found courage to offer you this prayer.",
     Ind:"Sebab Engkau, TUHAN semesta alam, Allah Israel, telah menyatakan kepada hamba-Mu ini, demikian: Aku akan membangun keturunan bagimu. Itulah sebabnya hamba-Mu ini telah memberanikan diri untuk memanjatkan doa ini kepada-Mu."
   },
   {Bible:"2Samuel", Chapter:7, Verse:28, Page:1,
-    Kor:"○그리고 이제 주 나의 하나님, 주님께서는 참으로 하나님이십니다. 주님께서는 언제나 약속을 지키십니다. 그리고 주님께서 주님의 종에게 이와 같이 놀라운 약속을 하셨습니다.",
+    Kor:"○그리고 이제 주 나의 하나님, 주께서는 참으로 하나님이십니다. 주께서는 언제나 약속을 지키십니다. 그리고 주께서 주의 종에게 이와 같이 놀라운 약속을 하셨습니다.",
     Chn:"「主耶和华啊，惟有你是　神。你的话是真实的；你也应许将这福气赐给仆人。",
     Eng:"O Sovereign LORD, you are God! Your words are trustworthy, and you have promised these good things to your servant.",
     Ind:"Oleh sebab itu, ya Tuhan ALLAH, Engkaulah Allah dan segala firman-Mulah kebenaran; Engkau telah menjanjikan perkara yang baik ini kepada hamba-Mu."
   },
   {Bible:"2Samuel", Chapter:7, Verse:29, Page:1,
-    Kor:"그러므로 이제 주님의 종의 집안에 기꺼이 복을 내리셔서, 나의 자손이 주님 앞에서 영원토록 대를 잇게 해주시기를 바랍니다. 주 하나님, 주님께서 직접 그렇게 약속하여 주셨으니, 주님의 종의 집안이 영원토록, 주님께서 내리시는 복을 받게 해주십시오.\"",
+    Kor:"그러므로 이제 주의 종의 집안에 기꺼이 복을 내리셔서, 나의 자손이 주님 앞에서 영원토록 대를 잇게 해주시기를 바랍니다. 주 하나님, 주께서 직접 그렇게 약속하여 주셨으니, 주의 종의 집안이 영원토록, 주께서 내리시는 복을 받게 해주십시오.\"",
     Chn:"现在求你赐福与仆人的家，可以永存在你面前。主耶和华啊，这是你所应许的。愿你永远赐福与仆人的家！」",
     Eng:"Now be pleased to bless the house of your servant, that it may continue forever in your sight; for you, O Sovereign LORD, have spoken, and with your blessing the house of your servant will be blessed forever.\"",
     Ind:"Kiranya Engkau sekarang berkenan memberkati keluarga hamba-Mu ini, supaya tetap ada di hadapan-Mu untuk selama-lamanya. Sebab, ya Tuhan ALLAH, Engkau sendirilah yang berfirman dan oleh karena berkat-Mu keluarga hamba-Mu ini diberkati untuk selama-lamanya.\""

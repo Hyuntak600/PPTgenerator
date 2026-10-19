@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",9,44);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:9, Verse:1, Page:1,
-    Kor:"<포로 생활에서 돌아온 백성> 이와 같이 온 이스라엘이 족보에 오르고, '이스라엘 열왕기'에 기록되었다. ○유다는 배신하였으므로 바빌론으로 사로잡혀 갔는데,",
+    Kor:"이와 같이 온 이스라엘이 족보에 오르고, '이스라엘 열왕기'에 기록되었다. ○유다는 배신하였으므로 바빌론으로 사로잡혀 갔는데,",
     Chn:"以色列人都按家谱计算，写在以色列诸王记上。犹大人因犯罪就被掳到巴比伦。",
     Eng:"All Israel was listed in the genealogies recorded in the book of the kings of Israel. The people of Judah were taken captive to Babylon because of their unfaithfulness.",
     Ind:"Seluruh orang Israel telah terdaftar dalam silsilah; mereka tertulis dalam kitab raja-raja Israel, sedang orang Yehuda telah diangkut ke dalam pembuangan ke Babel oleh karena perbuatan mereka yang tidak setia."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"dengan sanak saudara mereka menurut keturunan mereka, sembilan ratus lima puluh enam orang. Semua orang itu adalah kepala puak."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:10, Page:1,
-    Kor:"<예루살렘에 정착한 제사장들> ○제사장 가운데서는 여다야와 여호야립과 야긴과",
+    Kor:"○제사장 가운데서는 여다야와 여호야립과 야긴과",
     Chn:"祭司中有耶大雅、耶何雅立、雅斤，",
     Eng:"Of the priests: Jedaiah; Jehoiarib; Jakin;",
     Ind:"Dari para imam ialah Yedaya, Yoyarib, Yakhin,"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"dengan sanak saudara mereka, kepala-kepala puak, seribu tujuh ratus enam puluh orang, orang-orang tangkas untuk menyelenggarakan ibadah di rumah Allah."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:14, Page:1,
-    Kor:"<예루살렘에 정착한 레위 사람들> ○레위 사람들 가운데서는 므라리 자손인 스마야가 살았는데, 그는 핫숩의 아들이요, 아스리감의 손자요, 하사뱌의 증손이다.",
+    Kor:"○레위 사람들 가운데서는 므라리 자손인 스마야가 살았는데, 그는 핫숩의 아들이요, 아스리감의 손자요, 하사뱌의 증손이다.",
     Chn:"利未人米拉利的子孙中，有哈沙比雅的曾孙、押利甘的孙子、哈述的儿子示玛雅。",
     Eng:"Of the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, a Merarite;",
     Ind:"Dari orang-orang Lewi ialah Semaya bin Hasub bin Azrikam bin Hasabya, dari keturunan Merari;"
   },
   {Bible:"1Chronicles", Chapter:9, Verse:15, Page:1,
-    Kor:"또 박박갈과 헤레스와 갈랄과 맛다니야가 살았는데, 맛다니야는 미가의 아들이요, 시그리의 손자요, 아삽의 증손이다.",
+    Kor:"또 박박갈과 헤레스와 갈랄과 맛다냐가 살았는데, 맛다냐는 미가의 아들이요, 시그리의 손자요, 아삽의 증손이다.",
     Chn:"有拔巴甲、黑勒施、迦拉，并亚萨的曾孙、细基利的孙子、米迦的儿子玛探雅，",
     Eng:"Bakbakkar, Heresh, Galal and Mattaniah son of Mica, the son of Zicri, the son of Asaph;",
     Ind:"lalu Bakbakar, Heresh, Galal dan Matanya bin Mikha bin Zikhri bin Asaf,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"serta Obaja bin Semaya bin Galal bin Yedutun dan Berekhya bin Asa bin Elkana yang diam di desa-desa orang Netofa."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:17, Page:1,
-    Kor:"<예루살렘에 정착한 성전 문지기> ○문지기는 살룸과 악굽과 달몬과 아히만과 그들의 친족들인데, 살룸이 그 우두머리이다.",
+    Kor:"○문지기는 살룸과 악굽과 달몬과 아히만과 그들의 친족들인데, 살룸이 그 우두머리이다.",
     Chn:"守门的是沙龙、亚谷、达们、亚希幔，和他们的弟兄；沙龙为长。",
     Eng:"The gatekeepers: Shallum, Akkub, Talmon, Ahiman and their brothers, Shallum their chief",
     Ind:"Penunggu-penunggu pintu gerbang ialah Salum, Akub, Talmon dan Ahiman, dengan sanak saudara mereka; Salum ialah kepala."
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Sampai sekarang mereka ada di pintu gerbang raja di sebelah timur. Merekalah penunggu-penunggu pintu gerbang perkemahan bani Lewi."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:19, Page:1,
-    Kor:"○고라의 증손이요 에비아삽의 손자요 고레의 아들인 살룸과, 그의 가문에 속한 그의 친족들, 즉 고라 족속은, a성막 문을 지키는 임무를 맡았다. 그들의 조상도 주님의 성막 문을 지키는 사람이었다.(a 성전 문을 말함)",
+    Kor:"○고라의 증손이요 에비아삽의 손자요 고레의 아들인 살룸과, 그의 가문에 속한 그의 친족들, 즉 고라 족속은, 성막 문을 지키는 임무를 맡았다. 그들의 조상도 주의 성막 문을 지키는 사람이었다.",
     Chn:"可拉的曾孙、以比雅撒的孙子、可利的儿子沙龙，和他的族弟兄可拉人都管理使用之工，并守会幕的门。他们的祖宗曾管理耶和华的营盘，又把守营门。",
     Eng:"Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his fellow gatekeepers from his family (the Korahites) were responsible for guarding the thresholds of the Tent just as their fathers had been responsible for guarding the entrance to the dwelling of the LORD.",
     Ind:"Salum bin Kore bin Ebyasaf bin Korah dan saudara-saudara sepuaknya, yakni orang-orang Korah, mempunyai tugas jabatan sebagai penjaga-penjaga ambang pintu Kemah, seperti bapa-bapa mereka bertugas di perkemahan TUHAN sebagai penjaga-penjaga pintu masuk."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:20, Page:1,
-    Kor:"예전에는 엘르아살의 아들 비느하스가 그들의 책임자였는데, 주님께서 그와 함께 하셨다.",
+    Kor:"예전에는 엘르아살의 아들 비느하스가 그들의 책임자였는데, 주께서 그와 함께 하셨다.",
     Chn:"从前以利亚撒的儿子非尼哈管理他们，耶和华也与他同在。",
     Eng:"In earlier times Phinehas son of Eleazar was in charge of the gatekeepers, and the LORD was with him.",
     Ind:"Pinehas bin Eleazar mengepalai mereka sebelumnya. TUHAN kiranya menyertai dia."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:21, Page:1,
-    Kor:"○므셀레먀의 아들 스가랴는 a회막 문의 문지기이다.(a 성전 문을 말함)",
+    Kor:"○므셀레먀의 아들 스가랴는 회막 문의 문지기이다.",
     Chn:"米施利米雅的儿子撒迦利雅是看守会幕之门的。",
     Eng:"Zechariah son of Meshelemiah was the gatekeeper at the entrance to the Tent of Meeting.",
     Ind:"Zakharia bin Meselemya adalah penunggu pintu Kemah Pertemuan."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Mereka semuanya yang terpilih menjadi penunggu ambang pintu ada dua ratus dua belas orang. Mereka telah terdaftar dalam silsilah di desa-desa mereka. Daud dan Samuel, pelihat itu, mengangkat mereka dalam jabatan itu."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:23, Page:1,
-    Kor:"그들과 그 자손이 주님의 성전 문 곧 a성막 문을 지키는 일을 맡았는데,(a 성전 문을 말함)",
+    Kor:"그들과 그 자손이 주의 성전 문 곧 성막 문을 지키는 일을 맡았는데,",
     Chn:"他们和他们的子孙按着班次看守耶和华殿的门，就是会幕的门。",
     Eng:"They and their descendants were in charge of guarding the gates of the house of the LORD--the house called the Tent.",
     Ind:"Mereka dan anak-anak mereka bertugas menjaga pintu-pintu gerbang rumah TUHAN, yakni Bait Kemah itu."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Mereka bermalam di sekitar rumah Allah itu sebab mereka bertanggung jawab atas penjagaan dan harus membuka pintu setiap pagi."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:28, Page:1,
-    Kor:"<나머지 레위 사람들> ○그들 가운데 몇 사람은 성전에서 사용하는 기구를 맡았으므로, 그것들을 세어서 들여오고, 세어서 내주었다.",
+    Kor:"○그들 가운데 몇 사람은 성전에서 사용하는 기구를 맡았으므로, 그것들을 세어서 들여오고, 세어서 내주었다.",
     Chn:"利未人中有管理使用器皿的，按着数目拿出拿入；",
     Eng:"Some of them were in charge of the articles used in the temple service; they counted them when they were brought in and when they were taken out.",
     Ind:"Sebagian dari mereka mengurus perkakas ibadah: mereka menghitung perkakas itu pada waktu dimasukkan dan dikeluarkan."
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Itulah para kepala puak orang Lewi, para kepala, menurut keturunan mereka; mereka ini diam di Yerusalem."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:35, Page:1,
-    Kor:"<사울의 족보(8:29-38)> ○기브온의 조상 b여이엘은 기브온에 살았으며, 그 아내의 이름은 마아가이다.(b 칠십인역 사본들을 따름)",
+    Kor:"○기브온의 조상 여이엘은 기브온에 살았으며, 그 아내의 이름은 마아가이다.",
     Chn:"在基遍住的有基遍的父亲耶利。他的妻名叫玛迦；",
     Eng:"Jeiel the father of Gibeon lived in Gibeon. His wife's name was Maacah,",
     Ind:"Di Gibeon diam bapa Gibeon, yakni Yeiel, dan nama isterinya ialah Maakha."
   },
   {Bible:"1Chronicles", Chapter:9, Verse:36, Page:1,
-    Kor:"그 맏아들은 압돈이고, 그 아래로 수르와 기스와 바알과 넬과 나답과",
+    Kor:"그 맏아들은 압돈이고, 그 아래로 술과 기스와 바알과 넬과 나답과",
     Chn:"他长子是亚伯顿。他又生苏珥、基士、巴力、尼珥、拿答、",
     Eng:"and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,",
     Ind:"Anak sulungnya ialah Abdon, lalu Zur, Kish, Baal, Ner, Nadab,"

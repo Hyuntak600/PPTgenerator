@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Aku akan melemparkan barang keji ke atasmu, akan menghina engkau dan akan membuat engkau menjadi tontonan."
   },
   {Bible:"Nahum", Chapter:3, Verse:7, Page:1,
-    Kor:"너를 보는 사람마다 '니느웨가 망하였다만, 누가 그를 애도하랴?'하면서 너를 피하여 달아나니, 너를 위로할 자들을, 내가 어디에서 찾아올 수 있겠느냐?\"",
+    Kor:"너를 보는 사람마다 \"니느웨가 망하였다만, 누가 그를 애도하랴?\" 하면서 너를 피하여 달아나니, 너를 위로할 자들을, 내가 어디에서 찾아올 수 있겠느냐?\"",
     Chn:"凡看见你的，都必逃跑离开你， 说：尼尼微荒凉了！有谁为你悲伤呢？ 我何处寻得安慰你的人呢？",
     Eng:"All who see you will flee from you and say, 'Nineveh is in ruins--who will mourn for her?' Where can I find anyone to comfort you?\"",
     Ind:"Maka semua orang yang melihat engkau akan lari meninggalkan engkau serta berkata: \"Niniwe sudah rusak! Siapakah yang meratapi dia? Dari manakah aku akan mencari penghibur-penghibur untuk dia?\""
   },
   {Bible:"Nahum", Chapter:3, Verse:8, Page:1,
-    Kor:"네가 a테베보다 나은 것이 무엇이냐? 나일 강 옆에 자리 잡은 테베, 강물에 둘러 싸여 그 큰 물이 방어벽이 되고 그 큰 물이 성벽이 된 그 성읍, (a 히, '노아몬')",
+    Kor:"네가 테베보다 나은 것이 무엇이냐? 나일 강 옆에 자리 잡은 테베, 강물에 둘러 싸여 그 큰 물이 방어벽이 되고 그 큰 물이 성벽이 된 그 성읍,",
     Chn:"你岂比挪亚们强呢？ 挪亚们坐落在众河之间，周围有水； 海作她的濠沟， 又作她的城墙。",
     Eng:"Are you better than Thebes, situated on the Nile, with water around her? The river was her defense, the waters her wall.",
     Ind:"Adakah engkau lebih baik dari Tebe, kota dewa Amon, yang letaknya di sungai Nil, dengan air sekelilingnya, yang tembok kotanya adalah laut, dan bentengnya adalah air?"
   },
   {Bible:"Nahum", Chapter:3, Verse:9, Page:1,
-    Kor:"b에티오피아와 이집트가 얼마든지 힘이 되어 주고 붓과 리비아가 도와주었다. (b 또는 '누비아', 히, '구스')",
+    Kor:"에티오피아와 이집트가 얼마든지 힘이 되어 주고 붓과 리비아가 도와주었다.",
     Chn:"古实和埃及是她无穷的力量； 弗人和路比族是她的帮手。",
     Eng:"Cush and Egypt were her boundless strength; Put and Libya were among her allies.",
     Ind:"Etiopia adalah kekuatannya, juga Mesir, dengan tidak terbatas; Put dan orang-orang Libia adalah pembantunya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Segala kubumu adalah seperti pohon ara dengan buah ara yang masak duluan; jika diayunkan, maka jatuhlah buahnya ke dalam mulut orang yang hendak memakannya."
   },
   {Bible:"Nahum", Chapter:3, Verse:13, Page:1,
-    Kor:"c네 군인들을 보아라. 그들은 모두 여자들이다! 밀어닥치는 대적들 앞에서 네 땅의 성문들은 모두 열리고, 빗장은 불에 타 버렸다. (c 또는 '네 군인들은 모두 힘없는 여자와 같다')",
+    Kor:"네 군인들을 보아라. 그들은 모두 여자들이다! 밀어닥치는 대적들 앞에서 네 땅의 성문들은 모두 열리고, 빗장은 불에 타 버렸다.",
     Chn:"你地上的人民如同妇女； 你国中的关口向仇敌敞开； 你的门闩被火焚烧。",
     Eng:"Look at your troops--they are all women! The gates of your land are wide open to your enemies; fire has consumed their bars.",
     Ind:"Sesungguhnya, laskar yang di tengah-tengahmu itu adalah perempuan-perempua pintu-pintu gerbang negerimu terbuka lebar-lebar untuk musuhmu; api telah memakan habis palang pintumu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Sekalipun para penjagamu seperti belalang pindahan dan para pegawaimu seperti kawanan belalang, yang hinggap pada tembok-tembok pada waktu dingin, namun jika matahari terbit, mereka lari menghilang, tidak ketahuan tempatnya."
   },
   {Bible:"Nahum", Chapter:3, Verse:18, Page:1,
-    Kor:"앗시리아의 왕아, 네 d목자들이 다 죽고 네 귀족들이 영영 잠들었구나. 네 백성이 이 산 저 산으로 흩어졌으나, 다시 모을 사람이 없구나. (d 또는 '지도자들')",
+    Kor:"앗시리아의 왕아, 네 목자들이 다 죽고 네 귀족들이 영영 잠들었구나. 네 백성이 이 산 저 산으로 흩어졌으나, 다시 모을 사람이 없구나.",
     Chn:"亚述王啊，你的牧人睡觉； 你的贵胄安歇； 你的人民散在山间，无人招聚。",
     Eng:"O king of Assyria, your shepherds slumber; your nobles lie down to rest. Your people are scattered on the mountains with no one to gather them.",
     Ind:"Celaka! Alangkah terlelapnya para gembalamu, hai raja negeri Asyur! Para pemukamu tertidur, laskarmu berserak-serak di gunung-gunung, dan tidak ada yang mengumpulkan."

@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"\"Bersabarlah sebentar, aku akan mengajar engkau, karena masih ada yang hendak kukatakan demi Allah."
   },
   {Bible:"Job", Chapter:36, Verse:3, Page:1,
-    Kor:"나는 내가 가진 지혜를 모두 다 짜내서라도 나를 지으신 하나님이 의로우시다는 것을 밝히겠습니다.",
+    Kor:"나는, 내가 가진 지혜를 모두 다 짜내서라도 나를 지으신 하나님이 의로우시다는 것을 밝히겠습니다.",
     Chn:"我要将所知道的从远处引来， 将公义归给造我的主。",
     Eng:"I get my knowledge from afar; I will ascribe justice to my Maker.",
     Ind:"Aku akan meraih pengetahuanku dari jauh dan membenarkan Pembuatku;"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Jikalau mereka mendengar dan takluk, maka mereka hidup mujur sampai akhir hari-hari mereka dan senang sampai akhir tahun-tahun mereka."
   },
   {Bible:"Job", Chapter:36, Verse:12, Page:1,
-    Kor:"그러나 그들이 귀담아 듣지 않으면 결국 죽음의 세계로 내려갈 것이고, 아무도 그들이 왜 죽었는지를 모를 것입니다.",
+    Kor:"그러나 그들이 귀담아 듣지 않으면, 결국 죽음의 세계로 내려가고, 아무도, 그들이 왜 죽었는지를 모를 것입니다.",
     Chn:"若不听从， 就要被刀杀灭，无知无识而死。",
     Eng:"But if they do not listen, they will perish by the sword and die without knowledge.",
     Ind:"Tetapi, jikalau mereka tidak mendengar, maka mereka akan mati oleh lembing, dan binasa dalam kebebalan."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, Allah itu mulia di dalam kekuasaan-Nya; siapakah guru seperti Dia?"
   },
   {Bible:"Job", Chapter:36, Verse:23, Page:1,
-    Kor:"하나님께 이래라 저래라 할 사람도 없고, \"주님께서 옳지 못한 일을 하셨습니다\" 하고 하나님을 꾸짖을 사람도 없습니다.",
+    Kor:"하나님께 이래라 저래라 할 사람도 없고, \"주께서 옳지 못한 일을 하셨습니다\" 하고 하나님을 꾸짖을 사람도 없습니다.",
     Chn:"谁派定他的道路？ 谁能说：你所行的不义？",
     Eng:"Who has prescribed his ways for him, or said to him, 'You have done wrong'?",
     Ind:"Siapakah akan menentukan jalan bagi-Nya, dan siapa berani berkata: Engkau telah berbuat curang?"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"yang dicurahkan oleh mendung, dan disiramkan ke atas banyak manusia."
   },
   {Bible:"Job", Chapter:36, Verse:29, Page:1,
-    Kor:"하나님이 구름을 어떻게 펴시는지는 아무도 알지 못하며, 그 계신 곳 하늘에서 나는 천둥소리가 어떻게 해서 생기는지 아무도 모릅니다.",
+    Kor:"하나님이 구름을 어떻게 펴시는지는 아무도 알지 못하며, 그 계신 곳, 하늘에서 나는 천둥소리가 어떻게 해서 생기는지 아무도 모릅니다.",
     Chn:"谁能明白云彩如何铺张， 和　神行宫的雷声呢？",
     Eng:"Who can understand how he spreads out the clouds, how he thunders from his pavilion?",
     Ind:"Siapa mengerti berkembangnya awan, dan bunyi gemuruh di tempat kediaman-Nya?"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, Ia mengembangkan terang-Nya di sekeliling-Nya, dan menudungi dasar laut."
   },
   {Bible:"Job", Chapter:36, Verse:31, Page:1,
-    Kor:"이런 방법으로 사람을 기르시고, 먹거리를 넉넉하게 주십니다.",
+    Kor:"이런 방법으로 사람을 기르시고, 먹을거리를 넉넉하게 주십니다.",
     Chn:"他用这些审判众民， 且赐丰富的粮食。",
     Eng:"This is the way he governs the nations and provides food in abundance.",
     Ind:"Karena dengan semuanya itu Ia mengadili bangsa-bangsa, dan juga memberi makan dengan berlimpah-limpah."

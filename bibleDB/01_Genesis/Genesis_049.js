@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",49,33);
 BibleDB.add([
   {Bible:"Genesis", Chapter:49, Verse:1, Page:1,
-    Kor:"<야곱의 유언> 야곱이 아들들을 불러 놓고서 일렀다. \"너희는 모여라. 너희가 뒷날에 겪을 일을, 내가 너희에게 말하겠다.",
+    Kor:"야곱이 아들들을 불러 놓고서 일렀다. \"너희는 모여라. 너희가 뒷날에 겪을 일을, 내가 너희에게 말하겠다.",
     Chn:"雅各叫了他的儿子们来，说：「你们都来聚集，我好把你们日后必遇的事告诉你们。",
     Eng:"Then Jacob called for his sons and said: \"Gather around so I can tell you what will happen  to you in days to come.",
     Ind:"Kemudian Yakub memanggil anak-anaknya dan berkata: \"Datanglah berkumpul, supaya kuberitahukan kepadamu, apa yang akan kamu alami di kemudian hari."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Simeon dan Lewi bersaudara; senjata mereka ialah alat kekerasan."
   },
   {Bible:"Genesis", Chapter:49, Verse:6, Page:1,
-    Kor:"나는 그들의 비밀 회담에 들어가지 않으며, 그들의 회의에 끼여들지 않을 것이다. 그들은 화가 난다고 사람을 죽이고, 장난삼아 소의 발목 힘줄을 끊었다.",
+    Kor:"나는 그들의 비밀 회담에 들어가지 않으며, 그들의 회의에 끼어들지 않을 것이다. 그들은 화가 난다고, 사람을 죽이고, 장난삼아 소의 발목 힘줄을 끊었다.",
     Chn:"我的灵啊，不要与他们同谋； 我的心哪，不要与他们联络； 因为他们趁怒杀害人命， 任意砍断牛腿大筋。",
     Eng:"Let me not enter their council, let me not join their assembly, for they have killed men in  their anger and hamstrung oxen as they pleased.",
     Ind:"Janganlah kiranya jiwaku turut dalam permupakatan mereka, janganlah kiranya rohku bersatu dengan perkumpulan mereka, sebab dalam kemarahannya mereka telah membunuh orang dan dalam keangkaraannya mereka telah memotong urat keting lembu."
   },
   {Bible:"Genesis", Chapter:49, Verse:7, Page:1,
-    Kor:"그 노여움이 혹독하고, 그 분노가 맹렬하니, 저주를 받을 것이다. 그들을 야곱 자손 사이에 분산시키고, 이스라엘 백성 사이에 흩어 버릴 것이다.",
+    Kor:"그 노여움이 혹독하고, 그 분노가 맹렬하니, 저주를 받을 것이다. 그들을 야곱 자손들 사이에 분산시키고, 이스라엘 백성 사이에 흩어 버릴 것이다.",
     Chn:"他们的怒气暴烈可咒； 他们的忿恨残忍可诅。 我要使他们分居在雅各家里， 散住在以色列地中。",
     Eng:"Cursed be their anger, so fierce, and their fury, so cruel! I will scatter them in Jacob and  disperse them in Israel.",
     Ind:"Terkutuklah kemarahan mereka, sebab amarahnya keras, terkutuklah keberangan mereka, sebab berangnya bengis. Aku akan membagi-bagikan mereka di antara anak-anak Yakub dan menyerakkan mereka di antara anak-anak Israel."
   },
   {Bible:"Genesis", Chapter:49, Verse:8, Page:1,
-    Kor:"a유다야, 너의 형제들이 너를 찬양할 것이다. 너는 원수의 멱살을 잡을 것이다. 너의 아버지의 아들들이 네 앞에 무릎을 꿇을 것이다. (a 유다라는 이름은 '찬양'에서 유래함)",
+    Kor:"유다야, 너의 형제들이 너를 찬양할 것이다. 너는 원수의 멱살을 잡을 것이다. 너의 아버지의 아들들이 네 앞에 무릎을 꿇을 것이다.",
     Chn:"犹大啊，你弟兄们必赞美你； 你手必掐住仇敌的颈项； 你父亲的儿子们必向你下拜。",
     Eng:"\"Judah, your brothers will praise you; your hand will be on the neck of your enemies; your  father's sons will bow down to you.",
     Ind:"Yehuda, engkau akan dipuji oleh saudara-saudaramu, tanganmu akan menekan tengkuk musuhmu, kepadamu akan sujud anak-anak ayahmu."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Yehuda adalah seperti anak singa: setelah menerkam, engkau naik ke suatu tempat yang tinggi, hai anakku; ia meniarap dan berbaring seperti singa jantan atau seperti singa betina; siapakah yang berani membangunkannya?"
   },
   {Bible:"Genesis", Chapter:49, Verse:10, Page:1,
-    Kor:"임금의 지휘봉이 유다를 떠나지 않고, 통치자의 지휘봉이 자손 만대에까지 이를 것이다. b권능으로 그 자리에 앉을 분이 오시면, 만민이 그에게 순종할 것이다. (b 또는 '실로가 오시기까지', '그가 실로에 오시기까지', '그가 통치 지팡이를 쥔 자에게 오기까지' (시리아어역))",
+    Kor:"임금의 지휘봉이 유다를 떠나지 않고, 통치자의 지휘봉이 자손 만대에까지 이를 것이다. 권능으로 그 자리에 앉을 분이 오시면, 만민이 그에게 순종할 것이다.",
     Chn:"圭必不离犹大， 杖必不离他两脚之间， 直等细罗来到， 万民都必归顺。",
     Eng:"The scepter will not depart from Judah, nor the ruler's staff from between his feet, until  he comes to whom it belongs and the obedience of the nations is his.",
     Ind:"Tongkat kerajaan tidak akan beranjak dari Yehuda ataupun lambang pemerintahan dari antara kakinya, sampai dia datang yang berhak atasnya, maka kepadanya akan takluk bangsa-bangsa."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Gad, ia akan diserang oleh gerombolan, tetapi ia akan menyerang tumit mereka."
   },
   {Bible:"Genesis", Chapter:49, Verse:20, Page:1,
-    Kor:"아셀에게서는 먹거리가 넉넉히 나올 것이니 그가 임금의 수라상을 맡을 것이다.",
+    Kor:"아셀에게서는 먹을거리가 넉넉히 나올 것이니 그가 임금의 수라상을 맡을 것이다.",
     Chn:"亚设之地必出肥美的粮食， 且出君王的美味。",
     Eng:"\"Asher's food will be rich; he will provide delicacies fit for a king.",
     Ind:"Asyer, makanannya akan limpah mewah dan ia akan memberikan santapan raja-raja."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Naftali adalah seperti rusa betina yang terlepas; ia akan melahirkan anak-anak indah."
   },
   {Bible:"Genesis", Chapter:49, Verse:22, Page:1,
-    Kor:"c요셉은 들망아지, 샘 곁에 있는 들망아지, 언덕 위에 있는 들나귀다. (c 또는 '요셉은 열매가 많은 덩굴, 샘 곁에 있는 열매가 많은 덩굴, 그 가지가 담을 넘는다.' 히브리어 본문이 불확실함)",
+    Kor:"요셉은 들망아지, 샘 곁에 있는 들망아지, 언덕 위에 있는 들나귀다.",
     Chn:"约瑟是多结果子的树枝， 是泉旁多结果的枝子； 他的枝条探出墙外。",
     Eng:"\"Joseph is a fruitful vine, a fruitful vine near a spring, whose branches climb over a  wall.",
     Ind:"Yusuf adalah seperti pohon buah-buahan yang muda, pohon buah-buahan yang muda pada mata air. Dahan-dahannya naik mengatasi tembok."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"namun panahnya tetap kokoh dan lengan tangannya tinggal liat, oleh pertolongan Yang Mahakuat pelindung Yakub, oleh sebab gembalanya Gunung Batu Israel,"
   },
   {Bible:"Genesis", Chapter:49, Verse:25, Page:1,
-    Kor:"너의 조상의 하나님이 너를 도우시고, d전능하신 분께서 너에게 복을 베푸시기 때문이다. 위로 하늘에서 내리는 복과, 아래로 깊은 샘에서 솟아오르는 복과, 젖가슴에서 흐르는 복과, 태에서 잉태되는 복을 베푸실 것이다. (d 히, '샤다이')",
+    Kor:"너의 조상의 하나님이 너를 도우시고, 전능하신 분께서 너에게 복을 베푸시기 때문이다. 위로 하늘에서 내리는 복과, 아래로 깊은 샘에서 솟아오르는 복과, 젖가슴에서 흐르는 복과, 태에서 잉태되는 복을 베푸실 것이다.",
     Chn:"你父亲的　神必帮助你； 那全能者必将天上所有的福， 地里所藏的福，以及生产乳养的福，都赐给你。",
     Eng:"because of your father's God, who helps you, because of the Almighty, who blesses you with  blessings of the heavens above, blessings of the deep that lies below, blessings of the breast  and womb.",
     Ind:"oleh Allah ayahmu yang akan menolong engkau, dan oleh Allah Yang Mahakuasa, yang akan memberkati engkau dengan berkat dari langit di atas, dengan berkat samudera raya yang letaknya di bawah, dengan berkat buah dada dan kandungan."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Itulah semuanya suku Israel, dua belas jumlahnya; dan itulah yang dikatakan ayahnya kepada mereka, ketika ia memberkati mereka; tiap-tiap orang diberkatinya dengan berkat yang diuntukkan kepada mereka masing-masing."
   },
   {Bible:"Genesis", Chapter:49, Verse:29, Page:1,
-    Kor:"<야곱이 죽다> ○야곱이 아들들에게 일렀다. \"나는 곧 세상을 떠나서, 나의 조상들에게로 돌아간다. 내가 죽거든, 나의 조상들과 함께 있게 헷 사람 에브론의 밭에 있는 묘실에 묻어라.",
+    Kor:"○야곱이 아들들에게 일렀다. \"나는 곧 세상을 떠나서, 나의 조상들에게로 돌아간다. 내가 죽거든, 나의 조상들과 함께 있게 헷 사람 에브론의 밭에 있는 묘실에 묻어라.",
     Chn:"他又嘱咐他们说：「我将要归到我列祖那里，你们要将我葬在赫人以弗 田间的洞里，与我祖我父在一处，",
     Eng:"Then he gave them these instructions: \"I am about to be gathered to my people. Bury me with  my fathers in the cave in the field of Ephron the Hittite,",
     Ind:"Kemudian berpesanlah Yakub kepada mereka: \"Apabila aku nanti dikumpulkan kepada kaum leluhurku, kuburkanlah aku di sisi nenek moyangku dalam gua yang di ladang Efron, orang Het itu,"

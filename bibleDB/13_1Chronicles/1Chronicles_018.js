@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",18,17);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:18, Verse:1, Page:1,
-    Kor:"<다윗의 승전 기록(삼하 8:1-18)> 그 뒤에 다윗이 블레셋 사람을 쳐서, 그들을 굴복시켰다. 그래서 그는 블레셋 사람의 손에서 가드와 그 주변 마을을 빼앗았다.",
+    Kor:"그 뒤에 다윗이 블레셋 사람을 쳐서, 그들을 굴복시켰다. 그래서 그는 블레셋 사람의 손에서 가드와 그 주변 마을을 빼앗았다.",
     Chn:"此后，大卫攻打非利士人，把他们治服，从他们手下夺取了迦特和属迦特的村庄；",
     Eng:"In the course of time, David defeated the Philistines and subdued them, and he took Gath and its surrounding villages from the control of the Philistines.",
     Ind:"Sesudah itu Daud memukul kalah orang Filistin dan menundukkan mereka; lalu ia merebut Gat dan segala anak kotanya dari tangan orang Filistin."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu orang Aram dari Damsyik datang menolong Hadadezer, raja Zoba, tetapi dari antara orang Aram itu Daud menewaskan dua puluh dua ribu orang."
   },
   {Bible:"1Chronicles", Chapter:18, Verse:6, Page:1,
-    Kor:"그리고 다윗이 시리아의 다마스쿠스에 주둔군을 두니, 시리아도 다윗의 종이 되어 그에게 조공을 바쳤다. 다윗이 어느 곳으로 출전하든지, 주님께서 그에게 승리를 안겨 주셨다.",
+    Kor:"그리고 다윗이 시리아의 다마스쿠스에 주둔군을 두니, 시리아도 다윗의 종이 되어 그에게 조공을 바쳤다. 다윗이 어느 곳으로 출전하든지, 주께서 그에게 승리를 안겨 주셨다.",
     Chn:"于是大卫在大马士革的亚兰地设立防营，亚兰人就归服他，给他进贡。大卫无论往哪里去，耶和华都使他得胜。",
     Eng:"He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought tribute. The LORD gave David victory everywhere he went.",
     Ind:"Kemudian Daud menempatkan pasukan-pasukan pendudukan di daerah orang Aram dari Damsyik, dan orang Aram itu menjadi budak Daud yang harus mempersembahkan upeti. TUHAN memberi kemenangan kepada Daud ke manapun ia pergi berperang."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"maka ia mengutus Hadoram, anaknya, kepada raja Daud untuk menyampaikan salam dan mengucapkan selamat kepadanya, karena ia telah berperang melawan Hadadezer dan memukul dia kalah, sebab Hadadezer sering memerangi Tou. Dan Hadoram membawa pelbagai barang-barang emas, perak dan tembaga."
   },
   {Bible:"1Chronicles", Chapter:18, Verse:11, Page:1,
-    Kor:"다윗 왕은 이것들도 따로 구별하여, 에돔, 모압, 암몬 사람, 블레셋 사람, 아말렉 등 여러 민족에게서 가져 온 은 금과 함께, 주님께 구별하여 바쳤다.",
+    Kor:"다윗 왕은 이것들도 따로 구별하여, 에돔, 모압, 암몬 사람, 블레셋 사람, 아말렉 등 여러 민족에게서 가져 온 은 금과 함께, 주께 구별하여 바쳤다.",
     Chn:"大卫王将这些器皿，并从各国夺来的金银，就是从以东、摩押、亚扪、非利士、亚玛力人所夺来的，都分别为圣献给耶和华。",
     Eng:"King David dedicated these articles to the LORD, as he had done with the silver and gold he had taken from all these nations: Edom and Moab, the Ammonites and the Philistines, and Amalek.",
     Ind:"Juga barang-barang ini dikhususkan raja Daud bagi TUHAN, bersama-sama perak dan emas yang diangkutnya dari segala bangsa, yakni dari orang Edom, dari orang Moab, dari bani Amon, dari orang Filistin dan dari orang Amalek."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Abisai, anak Zeruya, menewaskan delapan belas ribu orang Edom di Lembah Asin."
   },
   {Bible:"1Chronicles", Chapter:18, Verse:13, Page:1,
-    Kor:"에돔에 주둔군을 두었다. 마침내 온 에돔 사람이 다윗의 종이 되었다. 다윗이 어느 곳으로 출전하든지, 주님께서 그에게 승리를 안겨 주셨다.",
+    Kor:"에돔에 주둔군을 두었다. 마침내 온 에돔 사람이 다윗의 종이 되었다. 다윗이 어느 곳으로 출전하든지, 주께서 그에게 승리를 안겨 주셨다.",
     Chn:"大卫在以东地设立防营，以东人就都归服他。大卫无论往哪里去，耶和华都使他得胜。",
     Eng:"He put garrisons in Edom, and all the Edomites became subject to David. The LORD gave David victory everywhere he went.",
     Ind:"Lalu ia menempatkan pasukan-pasukan pendudukan di Edom, sehingga seluruh Edom diperbudak oleh Daud. TUHAN memberi kemenangan kepada Daud ke manapun ia pergi berperang."

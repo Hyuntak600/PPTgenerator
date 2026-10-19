@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",100,5);
 BibleDB.add([
   {Bible:"Psalms", Chapter:100, Verse:1, Page:1,
-    Kor:"<감사드리며 부르는 노래> 온 땅아, 주님께 환호성을 올려라.",
+    Kor:"온 땅아, 주님께 환호성을 올려라.",
     Chn:"称谢诗。 普天下当向耶和华欢呼！",
     Eng:"Shout for joy to the LORD, all the earth.",
     Ind:"Mazmur untuk korban syukur. Bersorak-soraklah bagi TUHAN, hai seluruh bumi!"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Ketahuilah, bahwa Tuhanlah Allah; Dialah yang menjadikan kita dan punya Dialah kita, umat-Nya dan kawanan domba gembalaan-Nya."
   },
   {Bible:"Psalms", Chapter:100, Verse:4, Page:1,
-    Kor:"감사의 노래를 드리며, 그 성문으로 들어가거라. 찬양의 노래를 부르며, 그 뜰 안으로 들어가거라. 감사의 노래를 드리며, 그 이름을 찬양하여라.",
+    Kor:"감사의 노래를 드리며, 그 성문으로 들어가거라. 찬양의 노래를 부르며, 그 뜰 안으로 들어가거라. 감사의 노래를 드리며, 그 이름을 송축하여라.",
     Chn:"当称谢进入他的门； 当赞美进入他的院。 当感谢他，称颂他的名！",
     Eng:"Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
     Ind:"Masuklah melalui pintu gerbang-Nya dengan nyanyian syukur, ke dalam pelataran-Nya dengan puji-pujian, bersyukurlah kepada-Nya dan pujilah nama-Nya!"

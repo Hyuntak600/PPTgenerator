@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",13,33);
 BibleDB.add([
   {Bible:"Numbers", Chapter:13, Verse:1, Page:1,
-    Kor:"<가나안 땅 탐지(신 1:19-33)> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"\"Suruhlah beberapa orang mengintai tanah Kanaan, yang akan Kuberikan kepada orang Israel; dari setiap suku nenek moyang mereka haruslah kausuruh seorang, semuanya pemimpin-pemimpin di antara mereka.\""
   },
   {Bible:"Numbers", Chapter:13, Verse:3, Page:1,
-    Kor:"○모세는 주님의 분부대로 바란 광야에서 그들을 보냈다. 그 사람들은 모두 이스라엘 자손의 우두머리들이었다.",
+    Kor:"○모세는 주의 분부대로 바란 광야에서 그들을 보냈다. 그 사람들은 모두 이스라엘 자손의 우두머리들이었다.",
     Chn:"摩西就照耶和华的吩咐从巴兰的旷野打发他们去；他们都是以色列人的族长。",
     Eng:"So at the LORD'S command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites.",
     Ind:"Lalu Musa menyuruh mereka dari padang gurun Paran, sesuai dengan titah TUHAN; semua orang itu adalah kepala-kepala di antara orang Israel."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"dari suku Gad: Guel bin Makhi."
   },
   {Bible:"Numbers", Chapter:13, Verse:16, Page:1,
-    Kor:"모세가 땅을 탐지하라고 보낸 사람들의 이름이 이와 같다. 모세는 눈의 아들 a호세아를 여호수아라고 불렀다.(a 호세아와 여호수아는 같은 이름의 두 형태로서 '주께서 구원하시다'라는 뜻. 여기에서 그리스어 이름 '예수'가 나옴(마 1:21))",
+    Kor:"모세가 땅을 탐지하라고 보낸 사람들의 이름이 이와 같다. 모세는 눈의 아들 호세아를 여호수아라고 불렀다.",
     Chn:"这就是摩西所打发、窥探那地之人的名字。摩西就称嫩的儿子何希阿为约书亚。",
     Eng:"These are the names of the men Moses sent to explore the land. (Moses gave Hoshea son of Nun the name Joshua.)",
     Ind:"Itulah nama orang-orang yang disuruh Musa untuk mengintai negeri itu; dan Musa menamai Hosea bin Nun itu Yosua."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Ketika mereka sampai ke lembah Eskol, dipotong merekalah di sana suatu cabang dengan setandan buah anggurnya, lalu berdualah mereka menggandarnya; juga mereka membawa beberapa buah delima dan buah ara."
   },
   {Bible:"Numbers", Chapter:13, Verse:24, Page:1,
-    Kor:"이스라엘 자손이 거기에서 포도송이를 땄기 때문에, 사람들은 그 곳을 가리켜 b에스골 골짜기라고 불렀다.(b '송이')",
+    Kor:"이스라엘 자손이 거기에서 포도송이를 땄기 때문에, 사람들은 그 곳을 가리켜 에스골 골짜기라고 불렀다.",
     Chn:"因为以色列人从那里砍来的那挂葡萄，所以那地方叫做以实各谷。）",
     Eng:"That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut off there.",
     Ind:"Tempat itu dinamai orang lembah Eskol, karena tandan buah anggur yang dipotong orang Israel di sana."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"dan langsung datang kepada Musa, Harun dan segenap umat Israel di Kadesh, di padang gurun Paran. Mereka membawa pulang kabar kepada keduanya dan kepada segenap umat itu dan memperlihatkan kepada sekaliannya hasil negeri itu."
   },
   {Bible:"Numbers", Chapter:13, Verse:27, Page:1,
-    Kor:"그들은 모세에게 다음과 같이 설명하였다. \"우리에게 가라고 하신 그 땅에, 우리가 갔었습니다. 그 곳은 정말 젖과 꿀이 흐르는 곳입니다. 이것이 바로 그 땅에서 난 과일입니다.",
+    Kor:"그들은 모세에게 다음과 같이 설명하였다. \"우리더러 가라고 하신 그 땅에, 우리가 갔었습니다. 그 곳은 정말 젖과 꿀이 흐르는 곳입니다. 이것이 바로 그 땅에서 난 과일입니다.",
     Chn:"又告诉摩西说：「我们到了你所打发我们去的那地，果然是流奶与蜜之地；这就是那地的果子。",
     Eng:"They gave Moses this account: \"We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit.",
     Ind:"Mereka menceritakan kepadanya: \"Kami sudah masuk ke negeri, ke mana kausuruh kami, dan memang negeri itu berlimpah-limpah susu dan madunya, dan inilah hasilnya."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemudian Kaleb mencoba menenteramkan hati bangsa itu di hadapan Musa, katanya: \"Tidak! Kita akan maju dan menduduki negeri itu, sebab kita pasti akan mengalahkannya!\""
   },
   {Bible:"Numbers", Chapter:13, Verse:31, Page:1,
-    Kor:"○그러나 그와 함께 올라갔다 온 사람들은 말하였다. \"우리는 도저히 그 백성에게로 쳐올라가지 못합니다. 그 백성은 우리보다 더 강합니다.\"",
+    Kor:"○그러나 그와 함께 올라갔다 온 사람들은 \"우리는 도저히 그 백성에게로 쳐올라가지 못합니다. 그 백성은 우리보다 더 강합니다\" 하고 말하였다.",
     Chn:"但那些和他同去的人说：「我们不能上去攻击那民，因为他们比我们强壮。」",
     Eng:"But the men who had gone up with him said, \"We can't attack those people; they are stronger than we are.\"",
     Ind:"Tetapi orang-orang yang pergi ke sana bersama-sama dengan dia berkata: \"Kita tidak dapat maju menyerang bangsa itu, karena mereka lebih kuat dari pada kita.\""

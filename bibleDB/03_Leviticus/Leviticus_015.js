@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",15,33);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:15, Verse:1, Page:1,
-    Kor:"<남자가 부정하게 되는 경우> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华对摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan setiap pelana yang diduduki orang yang demikian menjadi najis."
   },
   {Bible:"Leviticus", Chapter:15, Verse:10, Page:1,
-    Kor:"그리고 그 고름을 흘리는 남자가 깔았던 어떤 것에 닿은 사람은 누구든지 저녁때까지 부정하다. 그런 물건을 옮기는 사람도 그 옷을 빨고 물로 목욕을 하여야 한다. 그래도 그는 저녁때까지 부정하다.",
+    Kor:"그리고 그 고름을 흘리는 남자가 깔았던 어떤 것에 닿은 사람은, 누구든지 저녁때까지 부정하다. 그런 물건을 옮기는 사람도 그 옷을 빨고 물로 목욕을 하여야 한다. 그래도 그는 저녁때까지 부정하다.",
     Chn:"凡摸了他身下之物的，必不洁净到晚上；拿了那物的，必不洁净到晚上，并要洗衣服，用水洗澡。",
     Eng:"and whoever touches any of the things that were under him will be unclean till evening; whoever picks up those things must wash his clothes and bathe with water, and he will be unclean till evening.",
     Ind:"Setiap orang yang kena kepada sesuatu bekas tempat orang tadi menjadi najis sampai matahari terbenam. Siapa yang mengangkatnya, haruslah mencuci pakaiannya, membasuh tubuhnya dengan air dan ia menjadi najis sampai matahari terbenam."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu imam harus mempersembahkannya, yang seekor sebagai korban penghapus dosa dan yang seekor lagi sebagai korban bakaran. Dengan demikian imam mengadakan pendamaian bagi orang itu di hadapan TUHAN karena lelehannya."
   },
   {Bible:"Leviticus", Chapter:15, Verse:16, Page:1,
-    Kor:"○남자가 정액을 흘리면, 자기 온 몸을 물로 씻어야 한다. 그래도 그 사람은 저녁때까지 부정하다.",
+    Kor:"○남자가 정액을 흘렸으면, 자기 온 몸을 물로 씻어야 한다. 그래도 그 사람은 저녁때까지 부정하다.",
     Chn:"「人若梦遗，他必不洁净到晚上，并要用水洗全身。",
     Eng:"\"'When a man has an emission of semen, he must bathe his whole body with water, and he will be unclean till evening.",
     Ind:"Apabila seorang laki-laki tertumpah maninya, ia harus membasuh seluruh tubuhnya dengan air dan ia menjadi najis sampai matahari terbenam."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Setiap pakaian dan setiap kulit, yang kena tumpahan mani itu, haruslah dicuci dengan air dan menjadi najis sampai matahari terbenam."
   },
   {Bible:"Leviticus", Chapter:15, Verse:18, Page:1,
-    Kor:"남자가 여자와 동침하였다가 정액을 쏟으면, 두 사람이 다 물로 목욕을 하여야 한다. 그래도 그들은 저녁때까지 부정하다.\"",
+    Kor:"남자가 여자와 동침하였다가 정액을 쏟으면, 두 사람이 다 물로 목욕을 하여야 한다. 그래도 그들은 저녁때까지 부정하다.",
     Chn:"若男女交合，两个人必不洁净到晚上，并要用水洗澡。",
     Eng:"When a man lies with a woman and there is an emission of semen, both must bathe with water, and they will be unclean till evening.",
     Ind:"Juga seorang perempuan, kalau seorang laki-laki tidur dengan dia dengan ada tumpahan mani, maka keduanya harus membasuh tubuhnya dengan air dan mereka menjadi najis sampai matahari terbenam."
   },
   {Bible:"Leviticus", Chapter:15, Verse:19, Page:1,
-    Kor:"<여자가 부정하게 되는 경우> ○\"여자가 몸에서 피를 흘릴 때에, 그것이 그 여자의 몸에서 흐르는 월경이면, 그 여자는 이레 동안 불결하다. 그 여자에게 닿는 남자는 모두 저녁때까지 부정하다.",
+    Kor:"○여자가 몸에서 피를 흘릴 때에, 그것이 그 여자의 몸에서 흐르는 월경이면, 그 여자는 이레 동안 불결하다. 그 여자에게 닿는 남자는 모두 저녁때까지 부정하다.",
     Chn:"「女人行经，必污秽七天；凡摸她的，必不洁净到晚上。",
     Eng:"\"'When a woman has her regular flow of blood, the impurity of her monthly period will last seven days, and anyone who touches her will be unclean till evening.",
     Ind:"Apabila seorang perempuan mengeluarkan lelehan, dan lelehannya itu adalah darah dari auratnya, ia harus tujuh hari lamanya dalam cemar kainnya, dan setiap orang yang kena kepadanya, menjadi najis sampai matahari terbenam."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Jikalau seorang laki-laki tidur dengan perempuan itu, dan ia kena cemar kain perempuan itu, maka ia menjadi najis selama tujuh hari, dan setiap tempat tidur yang ditidurinya menjadi najis juga."
   },
   {Bible:"Leviticus", Chapter:15, Verse:25, Page:1,
-    Kor:"○어떤 여자가 자기 몸이 월경 기간이 아닌데도, 여러 날 동안 줄곧 피를 흘리거나, 월경 기간이 끝났는데도, 줄곧 피를 흘리면, 피가 흐르는 그 기간 동안 그 여자는 부정하다. 몸이 불결한 때와 같이, 이 기간에도 그 여자는 부정하다.",
+    Kor:"○어떤 여자가 자기 몸이 불결한 기간이 아닌데도, 여러 날 동안 줄곧 피를 흘리거나, 불결한 기간이 끝났는데도, 줄곧 피를 흘리면, 피가 흐르는 그 기간 동안 그 여자는 부정하다. 몸이 불결한 때와 같이, 이 기간에도 그 여자는 부정하다.",
     Chn:"「女人若在经期以外患多日的血漏，或是经期过长，有了漏症，她就因这漏症不洁净，与她在经期不洁净一样。",
     Eng:"\"'When a woman has a discharge of blood for many days at a time other than her monthly period or has a discharge that continues beyond her period, she will be unclean as long as she has the discharge, just as in the days of her period.",
     Ind:"Apabila seorang perempuan berhari-hari lamanya mengeluarkan lelehan, yakni lelehan darah yang bukan pada waktu cemar kainnya, atau apabila ia mengeluarkan lelehan lebih lama dari waktu cemar kainnya, maka selama lelehannya yang najis itu perempuan itu adalah seperti pada hari-hari cemar kainnya, yakni ia najis."
   },
   {Bible:"Leviticus", Chapter:15, Verse:26, Page:1,
-    Kor:"그 여자가 피를 흘리는 동안 눕는 잠자리는 모두, 월경 기간에 눕는 잠자리와 마찬가지로 부정하고, 그 여자가 앉는 자리도, 월경 기간에 앉는 자리가 부정하듯이, 모두 부정하다.",
+    Kor:"그 여자가 피를 흘리는 동안 눕는 잠자리는 모두, 불결한 기간에 눕는 잠자리와 마찬가지로 부정하고, 그 여자가 앉는 자리도, 불결한 기간에 앉는 자리가 부정하듯이, 모두 부정하다.",
     Chn:"她在患漏症的日子所躺的床、所坐的物都要看为不洁净，与她月经的时候一样。",
     Eng:"Any bed she lies on while her discharge continues will be unclean, as is her bed during her monthly period, and anything she sits on will be unclean, as during her period.",
     Ind:"Setiap tempat tidur yang ditidurinya, selama ia mengeluarkan lelehan, haruslah baginya seperti tempat tidur pada waktu cemar kainnya dan setiap barang yang didudukinya menjadi najis sama seperti kenajisan cemar kainnya."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Itulah hukum tentang seorang laki-laki yang mengeluarkan lelehan atau yang tertumpah maninya yang menyebabkan dia najis,"
   },
   {Bible:"Leviticus", Chapter:15, Verse:33, Page:1,
-    Kor:"몸이 월경 상태에 있는 여자와, 부정한 것을 흘리는 남녀와, 그리고 월경 상태에 있는 여자와 동침한 남자가 지켜야 할 규례이다.\"",
+    Kor:"몸이 불결한 상태에 있는 여자와, 부정한 것을 흘리는 남녀와, 그리고 불결한 상태에 있는 여자와 동침한 남자가 지켜야 할 규례이다.\"",
     Chn:"并有月经病的和患漏症的，无论男女，并人与不洁净女人同房的条例。",
     Eng:"for a woman in her monthly period, for a man or a woman with a discharge, and for a man who lies with a woman who is ceremonially unclean.",
     Ind:"dan tentang seorang perempuan yang bercemar kain dan tentang seseorang, baik laki-laki maupun perempuan, yang mengeluarkan lelehan, dan tentang laki-laki yang tidur dengan perempuan yang najis."

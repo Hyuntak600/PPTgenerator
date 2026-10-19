@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",25,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:25, Verse:1, Page:1,
-    Kor:"<솔로몬의 잠언 추가> 이것도 솔로몬의 잠언으로, 유다 왕 히스기야의 신하들이 편집한 것이다.",
+    Kor:"이것도 솔로몬의 잠언으로, 유다 왕 히스기야의 신하들이 편집한 것이다.",
     Chn:"以下也是所罗门的箴言，是犹大王希西家的人所誊录的。",
     Eng:"These are more proverbs of Solomon, copied by the men of Hezekiah king of Judah:",
     Ind:"Juga ini adalah amsal-amsal Salomo yang dikumpulkan pegawai-pegawai Hizkia, raja Yehuda."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sisihkanlah orang fasik dari hadapan raja, maka kokohlah takhtanya oleh kebenaran."
   },
   {Bible:"Proverbs", Chapter:25, Verse:6, Page:1,
-    Kor:"왕 앞에서 스스로 높은 체하지 말며, 높은 사람의 자리에 끼여들지 말아라.",
+    Kor:"왕 앞에서 스스로 높은 체하지 말며, 높은 사람의 자리에 끼어 들지 말아라.",
     Chn:"不要在王面前妄自尊大； 不要在大人的位上站立。",
     Eng:"Do not exalt yourself in the king's presence, and do not claim a place among great men;",
     Ind:"Jangan berlagak di hadapan raja, atau berdiri di tempat para pembesar."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"supaya jangan orang yang mendengar engkau akan mencemoohkan engkau, dan umpat terhadap engkau akan tidak hilang."
   },
   {Bible:"Proverbs", Chapter:25, Verse:11, Page:1,
-    Kor:"경우에 알맞은 말은, 은쟁반에 담긴 금사과이다.",
+    Kor:"경우에 알맞는 말은, 은쟁반에 담긴 금사과이다.",
     Chn:"一句话说得合宜， 就如金苹果在银网子里。",
     Eng:"A word aptly spoken is like apples of gold in settings of silver.",
     Ind:"Perkataan yang diucapkan tepat pada waktunya adalah seperti buah apel emas di pinggan perak."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Jikalau seterumu lapar, berilah dia makan roti, dan jikalau ia dahaga, berilah dia minum air."
   },
   {Bible:"Proverbs", Chapter:25, Verse:22, Page:1,
-    Kor:"이렇게 하는 것은, 그의 낯을 뜨겁게 하는 것이며, 주님께서 너에게 상으로 갚아 주실 것이다.",
+    Kor:"이렇게 하는 것은, 그의 낯을 뜨겁게 하는 것이며, 주께서 너에게 상으로 갚아 주실 것이다.",
     Chn:"因为，你这样行就是把炭火堆在他的头上； 耶和华也必赏赐你。",
     Eng:"In doing this, you will heap burning coals on his head, and the LORD will reward you.",
     Ind:"Karena engkau akan menimbun bara api di atas kepalanya, dan TUHAN akan membalas itu kepadamu."

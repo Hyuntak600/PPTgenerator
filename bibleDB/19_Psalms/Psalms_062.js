@@ -3,31 +3,31 @@
 BibleDB.ref("Psalms",62,12);
 BibleDB.add([
   {Bible:"Psalms", Chapter:62, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 여두둔에 맞추어 부르는 노래, 다윗의 시> 내 영혼이 잠잠히 하나님만을 기다림은 나의 구원이 그에게서만 나오기 때문이다.",
+    Kor:"내 영혼이 잠잠히 하나님만을 기다림은 나의 구원이 그에게서만 나오기 때문이다.",
     Chn:"大卫的诗，照耶杜顿的作法，交与伶长。 我的心默默无声，专等候　神； 我的救恩是从他而来。",
     Eng:"My soul finds rest in God alone; my salvation comes from him.",
     Ind:"Untuk pemimpin biduan. Menurut: Yedutun. Mazmur Daud. (62-2) Hanya dekat Allah saja aku tenang, dari pada-Nyalah keselamatanku."
   },
   {Bible:"Psalms", Chapter:62, Verse:2, Page:1,
-    Kor:"하나님만이 나의 반석, 나의 구원, 나의 요새이시니, 나는 결코 흔들리지 않는다.",
+    Kor:"하나님만이 나의 반석, 나의 구원, 나의 요새이시니, 나는 전혀 흔들리지 않는다.",
     Chn:"惟独他是我的磐石，我的拯救； 他是我的高台，我必不很动摇。",
     Eng:"He alone is my rock and my salvation; he is my fortress, I will never be shaken.",
     Ind:"(62-3) Hanya Dialah gunung batuku dan keselamatanku, kota bentengku, aku tidak akan goyah."
   },
   {Bible:"Psalms", Chapter:62, Verse:3, Page:1,
-    Kor:"기울어 가는 담과도 같고 무너지는 돌담과도 같은 사람을, 너희가 죽이려고 다 함께 공격하니, 너희가 언제까지 그리하겠느냐?",
+    Kor:"기울어 가는 담과도 같고 무너지는 돌담과도 같은 사람을, 너희가 죽이려고 다 함께 추격하니, 너희가 언제까지 그리하겠느냐?",
     Chn:"你们大家攻击一人，把他毁坏， 如同毁坏歪斜的墙、将倒的壁，要到几时呢？",
     Eng:"How long will you assault a man? Would all of you throw him down--this leaning wall, this tottering fence?",
     Ind:"(62-4) Berapa lamakah kamu hendak menyerbu seseorang, hendak meremukkan dia, hai kamu sekalian, seperti terhadap dinding yang miring, terhadap tembok yang hendak roboh?"
   },
   {Bible:"Psalms", Chapter:62, Verse:4, Page:1,
-    Kor:"너희가 그를 그 높은 자리에서 떨어뜨릴 궁리만 하고, 거짓말만 즐겨 하니, 입으로는 축복하지만 마음 속으로는 저주를 퍼붓는구나. (셀라)",
+    Kor:"너희가 그를 그 높은 자리에서 떨어뜨릴 궁리만 하고, 거짓말만 즐겨 하니, 입으로 해주는 축복이 속으로는 저주로구나. (셀라)",
     Chn:"他们彼此商议，专要从他的尊位上把他推下； 他们喜爱谎话，口虽祝福，心却咒诅。 （细拉）",
     Eng:"They fully intend to topple him from his lofty place; they take delight in lies. With their mouths they bless, but in their hearts they curse. Selah",
     Ind:"(62-5) Mereka hanya bermaksud menghempaskan dia dari kedudukannya yang tinggi; mereka suka kepada dusta; dengan mulutnya mereka memberkati, tetapi dalam hatinya mereka mengutuki. Sela"
   },
   {Bible:"Psalms", Chapter:62, Verse:5, Page:1,
-    Kor:"내 영혼아, 잠잠히 하나님만 기다려라. 내 희망은 오직 하나님에게만 있다.",
+    Kor:"내 영혼아, 잠잠히 하나님만 기다려라. 내 희망은 그에게서 온다.",
     Chn:"我的心哪，你当默默无声，专等候　神， 因为我的盼望是从他而来。",
     Eng:"Find rest, O my soul, in God alone; my hope comes from him.",
     Ind:"(62-6) Hanya pada Allah saja kiranya aku tenang, sebab dari pada-Nyalah harapanku."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"(62-7) Hanya Dialah gunung batuku dan keselamatanku, kota bentengku, aku tidak akan goyah."
   },
   {Bible:"Psalms", Chapter:62, Verse:7, Page:1,
-    Kor:"a내 구원과 영광이 하나님께 있다. 하나님은 내 견고한 바위이시요, 나의 피난처이시다. (a 또는 '가장 높으신 하나님은 나의 구원, 나의 영예이시다')",
+    Kor:"내 구원과 영광이 하나님께 있다. 하나님은 내 견고한 바위이시요, 나의 피난처이시다.",
     Chn:"我的拯救、我的荣耀都在乎　神； 我力量的磐石、我的避难所都在乎　神。",
     Eng:"My salvation and my honor depend on God; he is my mighty rock, my refuge.",
     Ind:"(62-8) Pada Allah ada keselamatanku dan kemuliaanku; gunung batu kekuatanku, tempat perlindunganku ialah Allah."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"(62-11) Janganlah percaya kepada pemerasan, janganlah menaruh harap yang sia-sia kepada perampasan; apabila harta makin bertambah, janganlah hatimu melekat padanya."
   },
   {Bible:"Psalms", Chapter:62, Verse:11, Page:1,
-    Kor:"하나님께서 한 가지를 말씀하셨을 때에, 나는 두 가지를 배웠다. '권세는 하나님의 것'이요,",
+    Kor:"하나님께서 한 마디를 말씀하셨을 때에, 나는 두 가지를 배웠다. '권세는 하나님의 것'이요,",
     Chn:"神说了一次、两次，我都听见： 就是能力都属乎　神。",
     Eng:"One thing God has spoken, two things have I heard: that you, O God, are strong,",
     Ind:"(62-12) Satu kali Allah berfirman, dua hal yang aku dengar: bahwa kuasa dari Allah asalnya,"

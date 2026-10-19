@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",2,32);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:2, Verse:1, Page:1,
-    Kor:"<다윗이 유다의 왕이 되다> 이런 일이 일어난 뒤에, 다윗이 주님께 \"제가 유다에 있는 성읍으로 올라가도 됩니까?\" 하고 여쭈었다. 주님께서 그에게 올라가라고 하셨다. 다윗이 다시 여쭈었다. \"어느 성읍으로 올라가야 합니까?\" 주님께서 헤브론으로 올라가라고 알려 주셨다.",
+    Kor:"이런 일이 일어난 뒤에, 다윗이 주께 \"제가 유다에 있는 성읍으로 올라가도 됩니까?\" 하고 여쭈었다. 주께서 그에게 올라가라고 하셨다. 다윗이 다시 여쭈었다. \"어느 성읍으로 올라가야 합니까?\" 주께서 헤브론으로 올라가라고 알려 주셨다.",
     Chn:"此后，大卫问耶和华说：「我上犹大的一个城去可以吗？」耶和华说：「可以。」大卫说：「我上哪一个城去呢？」耶和华说：「上希伯 去。」",
     Eng:"In the course of time, David inquired of the LORD. \"Shall I go up to one of the towns of Judah?\" he asked. The LORD said, \"Go up.\" David asked, \"Where shall I go?\" \"To Hebron,\" the LORD answered.",
     Ind:"Kemudian bertanyalah Daud kepada TUHAN, katanya: \"Apakah aku harus pergi ke salah satu kota di Yehuda?\" Firman TUHAN kepadanya: \"Pergilah.\" Lalu kata Daud: \"Ke mana aku pergi?\" Firman-Nya: \"Ke Hebron.\""
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Kemudian datanglah orang-orang Yehuda, lalu mengurapi Daud di sana menjadi raja atas kaum Yehuda. Ketika kepada Daud diberitahukan bahwa orang-orang Yabesh-Gilead menguburkan Saul,"
   },
   {Bible:"2Samuel", Chapter:2, Verse:5, Page:1,
-    Kor:"다윗이 길르앗의 야베스 주민에게 사절을 보내어서, 그들에게 이와 같이 전하였다. \"야베스 주민 여러분이 사울 왕의 장례를 잘 치러서, 왕에게 의리를 지켰으니, 주님께서 여러분에게 복을 주시기 바랍니다.",
+    Kor:"다윗이 길르앗의 야베스 주민에게 사절을 보내어서, 그들에게 이와 같이 전하였다. \"야베스 주민 여러분이 사울 왕의 장례를 잘 치러서, 왕에게 의리를 지켰으니, 주께서 여러분에게 복을 주시기 바랍니다.",
     Chn:"大卫就差人去见基列·雅比人，对他们说：「你们厚待你们的主—扫罗，将他葬埋。愿耶和华赐福与你们！",
     Eng:"he sent messengers to the men of Jabesh Gilead to say to them, \"The LORD bless you for showing this kindness to Saul your master by burying him.",
     Ind:"maka Daud mengirim orang kepada orang-orang Yabesh-Gilead dengan pesan: \"Diberkatilah kamu oleh TUHAN, karena kamu telah menunjukkan kasihmu kepada tuanmu, Saul, dengan menguburkannya."
   },
   {Bible:"2Samuel", Chapter:2, Verse:6, Page:1,
-    Kor:"여러분이 그러한 일을 하였으니, 이제는 주님께서 여러분을 친절과 성실로 대하여 주시기를 바랍니다. 나도 여러분을 잘 대접하겠습니다.",
+    Kor:"여러분이 그러한 일을 하였으니, 이제는 주께서 여러분을 친절과 성실로 대하여 주시기를 바랍니다. 나도 여러분을 잘 대접하겠습니다.",
     Chn:"你们既行了这事，愿耶和华以慈爱诚实待你们，我也要为此厚待你们。",
     Eng:"May the LORD now show you kindness and faithfulness, and I too will show you the same favor because you have done this.",
     Ind:"Oleh sebab itu, TUHAN kiranya menunjukkan kasih dan setia-Nya kepadamu. Akupun akan berbuat kebaikan yang sama kepadamu, karena kamu telah melakukan hal yang demikian."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Kuatkanlah hatimu sekarang dan jadilah orang-orang yang gagah perkasa, sekalipun tuanmu Saul sudah mati; dan aku telah diurapi oleh kaum Yehuda menjadi raja atas mereka.\""
   },
   {Bible:"2Samuel", Chapter:2, Verse:8, Page:1,
-    Kor:"○<이스보셋이 이스라엘의 왕이 되다> 넬의 아들 아브넬은 사울의 군대 사령관인데, 그가 사울의 아들 이스보셋을 데리고, 마하나임으로 건너갔다.",
+    Kor:"○넬의 아들 아브넬은 사울의 군대 사령관인데, 그가 사울의 아들 이스보셋을 데리고, 마하나임으로 건너갔다.",
     Chn:"扫罗的元帅尼珥的儿子押尼珥，曾将扫罗的儿子伊施波设带过河，到玛哈念，",
     Eng:"Meanwhile, Abner son of Ner, the commander of Saul's army, had taken Ish-Bosheth son of Saul and brought him over to Mahanaim.",
     Ind:"Abner bin Ner, panglima Saul, telah mengambil Isyboset, anak Saul, dan membawanya ke Mahanaim"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Dan lamanya Daud memerintah di Hebron atas kaum Yehuda adalah tujuh tahun dan enam bulan."
   },
   {Bible:"2Samuel", Chapter:2, Verse:12, Page:1,
-    Kor:"<이스라엘과 유다의 전쟁> ○어느 날, 넬의 아들 아브넬이 사울의 아들 이스보셋의 부하들을 거느리고, 마하나임을 떠나 기브온으로 갔다.",
+    Kor:"○어느 날, 넬의 아들 아브넬이 사울의 아들 이스보셋의 부하들을 거느리고, 마하나임을 떠나 기브온으로 갔다.",
     Chn:"尼珥的儿子押尼珥和扫罗的儿子伊施波设的仆人从玛哈念出来，往基遍去。",
     Eng:"Abner son of Ner, together with the men of Ish-Bosheth son of Saul, left Mahanaim and went to Gibeon.",
     Ind:"Lalu Abner bin Ner dengan anak buah Isyboset bin Saul bergerak maju dari Mahanaim ke Gibeon."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Juga Yoab, anak Zeruya, dan anak buah Daud bergerak maju. Mereka saling bertemu di telaga Gibeon, lalu tinggal di sana, pihak yang satu di tepi telaga sebelah sini, dan pihak yang lain di tepi telaga sebelah sana."
   },
   {Bible:"2Samuel", Chapter:2, Verse:14, Page:1,
-    Kor:"그 때에 아브넬이 요압에게 이런 제안을 하였다. \"젊은이들을 내세워서, 우리 앞에서 겨루게 합시다.\" 요압도 그렇게 하자고 찬성하였다.",
+    Kor:"그 때에, 아브넬이 요압에게 이런 제안을 하였다. \"젊은이들을 내세워서, 우리 앞에서 겨루게 합시다.\" 요압도 그렇게 하자고 찬성하였다.",
     Chn:"押尼珥对约押说：「让少年人起来，在我们面前戏耍吧！」约押说：「可以。」",
     Eng:"Then Abner said to Joab, \"Let's have some of the young men get up and fight hand to hand in front of us.\" \"All right, let them do it,\" Joab said.",
     Ind:"Berkatalah Abner kepada Yoab: \"Biarlah orang-orang muda tampil dan mengadakan pertandingan di depan kita.\" Jawab Yoab: \"Baik.\""
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Kemudian mereka masing-masing menangkap kepala lawannya, dan menikamkan pedangnya ke lambung lawannya, sehingga rebahlah mereka bersama-sama. Sebab itu tempat itu disebutkan orang Helkat-Hazurim; letaknya dekat Gibeon."
   },
   {Bible:"2Samuel", Chapter:2, Verse:17, Page:1,
-    Kor:"그 날에 싸움은 가장 치열하게 번져 나갔고, 결국 아브넬이 거느린 이스라엘 군대가 다윗의 군대에게 졌다.",
+    Kor:"○그 날에, 싸움은 가장 치열하게 번져 나갔고, 결국 아브넬이 거느린 이스라엘 군대가 다윗의 군대에게 졌다.",
     Chn:"那日的战事凶猛，押尼珥和以色列人败在大卫的仆人面前。",
     Eng:"The battle that day was very fierce, and Abner and the men of Israel were defeated by David's men.",
     Ind:"Pada hari itu pertempuran sangat hebat, dan Abner serta orang-orang Israel terpukul kalah oleh anak buah Daud."
   },
   {Bible:"2Samuel", Chapter:2, Verse:18, Page:1,
-    Kor:"○마침 그 곳에는, 스루야의 세 아들 요압과 아비새와 아사헬이 있었는데, 아사헬은 들에 사는 노루처럼 달음박질을 잘 하였다.",
+    Kor:"마침 그 곳에는, 스루야의 세 아들 요압과 아비새와 아사헬이 있었는데, 아사헬은 들에 사는 노루처럼 달음박질을 잘 하였다.",
     Chn:"在那里有洗鲁雅的三个儿子：约押、亚比筛、亚撒黑。亚撒黑脚快如野鹿一般；",
     Eng:"The three sons of Zeruiah were there: Joab, Abishai and Asahel. Now Asahel was as fleet-footed as a wild gazelle.",
     Ind:"Ketiga anak laki-laki Zeruya, yakni Yoab, Abisai dan Asael ada di sana; Asael cepat larinya seperti kijang di padang."
@@ -141,25 +141,25 @@ BibleDB.add([
     Ind:"Tetapi Asael menolak berhenti. Lalu Abner menusuk ke belakang ke perut Asael dengan tombaknya, sehingga tombak itu menembus belakangnya; dan rebahlah ia di sana dan mati di tempat itu juga. Semua orang yang datang ke tempat Asael rebah dan mati itu, berhenti di sana."
   },
   {Bible:"2Samuel", Chapter:2, Verse:24, Page:1,
-    Kor:"○그러나 나머지 두 형제 요압과 아비새는 아브넬을 계속 뒤쫓았다. 그들이 기브온 광야로 들어가는 길 가의 기아 건너쪽에 있는 암마 언덕에 이르렀을 때에, 날이 저물었다.",
+    Kor:"그러나 나머지 두 형제 요압과 아비새는 아브넬을 계속 뒤쫓았다. 그들이 기브온 광야로 들어가는 길 가의 기아 건너쪽에 있는 암마 언덕에 이르렀을 때에, 날이 저물었다.",
     Chn:"约押和亚比筛追赶押尼珥，日落的时候，到了通基遍旷野的路旁，基亚对面的亚玛山。",
     Eng:"But Joab and Abishai pursued Abner, and as the sun was setting, they came to the hill of Ammah, near Giah on the way to the wasteland of Gibeon.",
     Ind:"Tetapi Yoab dan Abisai mengejar Abner. Ketika matahari masuk dan mereka sampai ke dekat bukit Ama, yang ada di sebelah timur Giah, ke arah padang gurun Gibeon,"
   },
   {Bible:"2Samuel", Chapter:2, Verse:25, Page:1,
-    Kor:"그 때에 아브넬을 따르는 베냐민 족속의 군인들은, 언덕 위에서 아브넬을 호위하고 버티었다.",
+    Kor:"○그 때에 아브넬을 따르는 베냐민 족속의 군인들은, 언덕 위에서 아브넬을 호위하고 버티었다.",
     Chn:"便雅悯人聚集，跟随押尼珥站在一个山顶上。",
     Eng:"Then the men of Benjamin rallied behind Abner. They formed themselves into a group and took their stand on top of a hill.",
     Ind:"berhimpunlah bani Benyamin di belakang Abner menjadi satu gabungan dan bersiap-siap di puncak sebuah bukit."
   },
   {Bible:"2Samuel", Chapter:2, Verse:26, Page:1,
-    Kor:"거기에서 아브넬이 요압에게 휴전을 제의하였다. \"우리가 언제까지 이렇게 싸워야 하겠소? 이렇게 싸우다가는, 마침내 우리 둘 다 비참하게 망하고 말지 않겠소? 우리가 얼마나 더 기다려야, 장군이 장군의 부하들에게 동족을 추격하지 말고 돌아가라고 명령하겠소?\"",
+    Kor:"거기에서 아브넬이 요압에게 휴전을 제의하였다. \"우리가 언제까지 이렇게 싸워야 하느냐? 이렇게 싸우다가는, 마침내 우리 둘 다 비참하게 망하고 말지 않겠느냐? 우리가 얼마나 더 기다려야, 네가 너의 부하들에게 동족을 추격하지 말고 돌아가라고 명령하겠느냐?\"",
     Chn:"押尼珥呼叫约押说：「刀剑岂可永远杀人吗？你岂不知终久必有苦楚吗？你要等何时才叫百姓回去、不追赶弟兄呢？」",
     Eng:"Abner called out to Joab, \"Must the sword devour forever? Don't you realize that this will end in bitterness? How long before you order your men to stop pursuing their brothers?\"",
     Ind:"Berserulah Abner kepada Yoab: \"Haruskah pedang makan terus-menerus? Tidak tahukah engkau, bahwa kepahitan datang pada akhirnya? Berapa lama lagi engkau tidak mau mengatakan kepada rakyat itu, supaya mereka berhenti memburu saudara-saudaranya?\""
   },
   {Bible:"2Samuel", Chapter:2, Verse:27, Page:1,
-    Kor:"요압이 대답하였다. \"하나님의 살아 계심을 두고 맹세하오. 장군이 이런 제안을 하지 않으셨으면, 내 군대가 내일 아침까지 추격을 해서, 장군을 잡았을 것이오.\"",
+    Kor:"요압이 대답하였다. \"하나님이 살아 계심을 두고 맹세한다. 네가 이런 제안을 하지 않았으면, 내 군대가 내일 아침까지 추격을 해서, 너를 잡았을 것이다.\"",
     Chn:"约押说：「我指着永生的　神起誓：你若不说戏耍的那句话，今日早晨百姓就回去，不追赶弟兄了。」",
     Eng:"Joab answered, \"As surely as God lives, if you had not spoken, the men would have continued the pursuit of their brothers until morning.\"",
     Ind:"Jawab Yoab: \"Demi Allah yang hidup, sekiranya engkau berbicara tadi, maka tentulah sudah dari tadi pagi rakyat menarik diri dari memburu saudara-saudaranya.\""

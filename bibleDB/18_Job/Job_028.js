@@ -3,7 +3,7 @@
 BibleDB.ref("Job",28,28);
 BibleDB.add([
   {Bible:"Job", Chapter:28, Verse:1, Page:1,
-    Kor:"<지혜를 찬양하다> 은을 캐는 광산이 있고, 금을 정련하는 제련소도 있다.",
+    Kor:"은을 캐는 광산이 있고, 금을 정련하는 제련소도 있다.",
     Chn:"银子有矿； 炼金有方。",
     Eng:"\"There is a mine for silver and a place where gold is refined.",
     Ind:"\"Memang ada tempat orang menambang perak dan tempat orang melimbang emas;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Orang menggali tambang jauh dari tempat kediaman manusia, mereka dilupakan oleh orang-orang yang berjalan di atas, mereka melayang-layang jauh dari manusia."
   },
   {Bible:"Job", Chapter:28, Verse:5, Page:1,
-    Kor:"땅 위에서는 먹거리가 자라지만, 땅 속은 같은 땅인데도 용암으로 들끓고 있다.",
+    Kor:"땅 위에서는 먹을거리가 자라지만, 땅 속은 같은 땅인데도, 용암으로 들끓고 있다.",
     Chn:"至于地，能出粮食， 地内好像被火翻起来。",
     Eng:"The earth, from which food comes, is transformed below as by fire;",
     Ind:"Tanah yang menghasilkan pangan, dibawahnya dibongkar-bangkir seperti oleh api."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Manusia melekatkan tangannya pada batu yang keras, ia membongkar-bangkir gunung-gunung sampai pada akar-akarnya;"
   },
   {Bible:"Job", Chapter:28, Verse:10, Page:1,
-    Kor:"바위에 굴을 뚫어서, 각종 진귀한 보물을 찾아낸다.",
+    Kor:"바위에 굴을 뚫어서, 각종 진귀한 보물을 찾아 낸다.",
     Chn:"在磐石中凿出水道， 亲眼看见各样宝物。",
     Eng:"He tunnels through the rock; his eyes see all its treasures.",
     Ind:"di dalam gunung batu ia menggali terowongan, dan matanya melihat segala sesuatu yang berharga;"
   },
   {Bible:"Job", Chapter:28, Verse:11, Page:1,
-    Kor:"강의 근원을 a찾아내고, 땅에 감추어진 온갖 보화를 들추어낸다. (a 칠십인역과 아퀼라역과 불가타를 따름. 히, '둑으로 막고')",
+    Kor:"강의 근원을 찾아내고 땅에 감추어진 온갖 보화를 들추어낸다.",
     Chn:"他封闭水不得滴流， 使隐藏的物显露出来。",
     Eng:"He searches the sources of the rivers and brings hidden things to light.",
     Ind:"air sungai yang merembes dibendungnya, dan apa yang tersembunyi dibawanya ke tempat terang."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Untuk gantinya tidak dapat diberikan emas murni, dan harganya tidak dapat ditimbang dengan perak."
   },
   {Bible:"Job", Chapter:28, Verse:16, Page:1,
-    Kor:"지혜는 오빌의 금이나 값진 루비나 사파이어로도 그 값을 치를 수 없다.",
+    Kor:"지혜는, 오빌의 금이나 값진 루비나 사파이어로도, 그 값을 치를 수 없다.",
     Chn:"俄斐金和贵重的红玛瑙， 并蓝宝石，不足与较量；",
     Eng:"It cannot be bought with the gold of Ophir, with precious onyx or sapphires.",
     Ind:"Ia tidak dapat dinilai dengan emas Ofir, ataupun dengan permata krisopras yang mahal atau dengan permata lazurit;"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Ia terlindung dari mata segala yang hidup, bahkan tersembunyi bagi burung di udara."
   },
   {Bible:"Job", Chapter:28, Verse:22, Page:1,
-    Kor:"b멸망의 구덩이와 죽음도 지혜를 두고 이르기를 \"지혜라는 것이 있다는 말은 다만 소문으로만 들었을 뿐이다\" 하고 말한다. (b 히, '아바돈')",
+    Kor:"멸망의 구덩이와 죽음도 지혜를 두고 이르기를 \"지혜라는 것이 있다는 말은 다만 소문으로만 들었을 뿐이다\" 하고 말한다.",
     Chn:"灭没和死亡说： 我们风闻其名。",
     Eng:"Destruction and Death say, 'Only a rumor of it has reached our ears.'",
     Ind:"Kebinasaan dan maut berkata: Hanya desas-desusnya yang sampai ke telinga kami."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Ketika Ia menetapkan kekuatan angin, dan mengatur banyaknya air,"
   },
   {Bible:"Job", Chapter:28, Verse:26, Page:1,
-    Kor:"비가 내리는 규칙을 세우시던 그 때에, 천둥 번개가 치는 길을 정하시던 그 때에,",
+    Kor:"비가 내리는 규칙을 세우시던 그때에, 천둥 번개가 치는 길을 정하시던 그 때에,",
     Chn:"他为雨露定命令， 为雷电定道路。",
     Eng:"when he made a decree for the rain and a path for the thunderstorm,",
     Ind:"ketika Ia membuat ketetapan bagi hujan, dan jalan bagi kilat guruh,"
   },
   {Bible:"Job", Chapter:28, Verse:27, Page:1,
-    Kor:"바로 그 때에 그분께서, 지혜를 보시고, 지혜를 칭찬하시고, 지혜를 튼튼하게 세우시고, 지혜를 시험해 보셨다.",
+    Kor:"바로 그 때에, 그분께서 지혜를 보시고, 지혜를 칭찬하시고, 지혜를 튼튼하게 세우시고 지혜를 시험해 보셨다.",
     Chn:"那时他看见智慧，而且述说； 他坚定，并且查究。",
     Eng:"then he looked at wisdom and appraised it; he confirmed it and tested it.",
     Ind:"ketika itulah Ia melihat hikmat, lalu memberitakannya, menetapkannya, bahkan menyelidikinya;"
   },
   {Bible:"Job", Chapter:28, Verse:28, Page:1,
-    Kor:"그런 다음에, 하나님은 사람에게 말씀하셨다. \"주님을 경외하는 것이 지혜요, 악을 멀리하는 것이 슬기다.\"",
+    Kor:"그런 다음에, 하나님은 사람에게 말씀하셨다. \"주를 경외하는 것이 지혜요, 악을 멀리하는 것이 곧 슬기다.\"",
     Chn:"他对人说：敬畏主就是智慧； 远离恶便是聪明。",
     Eng:"And he said to man, 'The fear of the Lord--that is wisdom, and to shun evil is understanding.'\"",
     Ind:"tetapi kepada manusia Ia berfirman: Sesungguhnya, takut akan Tuhan, itulah hikmat, dan menjauhi kejahatan itulah akal budi.\""

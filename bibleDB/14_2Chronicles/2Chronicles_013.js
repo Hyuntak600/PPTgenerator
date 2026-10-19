@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",13,22);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:13, Verse:1, Page:1,
-    Kor:"<아비야와 여로보암의 전쟁(왕상 15:1-8)> 여로보암 왕 십팔년에 아비야가 유다의 왕이 되었다.",
+    Kor:"여로보암 왕 십팔년에 아비야가 유다의 왕이 되었다.",
     Chn:"耶罗波安王十八年，亚比雅登基作犹大王，",
     Eng:"In the eighteenth year of the reign of Jeroboam, Abijah became king of Judah,",
     Ind:"Dalam tahun kedelapan belas zaman raja Yerobeam menjadi rajalah Abia atas Yehuda."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:2, Page:1,
-    Kor:"그는 예루살렘에서 세 해 동안 다스렸다. 그의 어머니는 기브아 사람 우리엘의 a딸, b미가야이다. ○아비야와 여로보암 사이에 전쟁이 벌어졌다.(a 또는 '손녀' b 칠십인역과 시리아어역에는 '마아가'(대하 11:20; 왕상 15:2을 볼 것))",
+    Kor:"그는 예루살렘에서 세 해 동안 다스렸다. 그의 어머니는 기브아 사람 우리엘의 딸, 미가야이다. ○아비야와 여로보암 사이에 전쟁이 벌어졌다.",
     Chn:"在耶路撒冷作王三年。他母亲名叫米该亚，是基比亚人乌列的女儿。 亚比雅常与耶罗波安争战。",
     Eng:"and he reigned in Jerusalem three years. His mother's name was Maacah, a daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam.",
     Ind:"Tiga tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Mikhaya, anak Uriel dari Gibea. Dan ada perang antara Abia dan Yerobeam."
@@ -45,25 +45,25 @@ BibleDB.add([
     Ind:"Petualang-petualang, orang-orang dursila, berhimpun padanya; mereka terlalu kuat bagi Rehabeam bin Salomo, yang masih muda dan belum teguh hati, dan yang tidak dapat mempertahankan diri terhadap mereka."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:8, Page:1,
-    Kor:"너희는 수도 많고, 또 여로보암이 너희의 신이라고 만들어 준 금송아지들이 너희와 함께 있다고 해서, 지금 다윗의 자손이 맡아 다스리는 주님의 나라를 감히 대적하고 있다.",
+    Kor:"너희는 수도 많고, 또 여로보암이 너희의 신이라고 만들어 준 금송아지들이 너희와 함께 있다고 해서, 지금 다윗의 자손이 맡아 다스리는 주의 나라를 감히 대적하고 있다.",
     Chn:"「现在你们有意抗拒大卫子孙手下所治耶和华的国，你们的人也甚多，你们那里又有耶罗波安为你们所造当作神的金牛犊。",
     Eng:"\"And now you plan to resist the kingdom of the LORD, which is in the hands of David's descendants. You are indeed a vast army and have with you the golden calves that Jeroboam made to be your gods.",
     Ind:"Tentu kamu menyangka, bahwa kamu dapat mempertahankan diri terhadap kerajaan TUHAN, yang dipegang keturunan Daud, karena jumlah kamu besar dan karena pada kamu ada anak lembu emas yang dibuat Yerobeam untuk kamu menjadi allah."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:9, Page:1,
-    Kor:"너희는 아론의 자손인 주님의 제사장들뿐 아니라 레위 사람들까지 내쫓고, 이방 나라의 백성들이 하듯이, 너희 마음대로 제사장들을 임명하지 않았느냐? 누구든지 수송아지 한 마리와 숫양 일곱 마리만 끌고 와서 성직을 맡겠다고 하면, 허수아비 신의 제사장이 되는 것이 아니냐?",
+    Kor:"너희는 아론의 자손인 주의 제사장들뿐 아니라 레위 사람들까지 내쫓고, 이방 나라의 백성들이 하듯이, 너희 마음대로 제사장들을 임명하지 않았느냐? 누구든지 수송아지 한 마리와 숫양 일곱 마리만 끌고 와서 성직을 맡겠다고 하면, 허수아비 신의 제사장이 되는 것이 아니냐?",
     Chn:"你们不是驱逐耶和华的祭司亚伦的后裔和利未人吗？不是照着外邦人的恶俗为自己立祭司吗？无论何人牵一只公牛犊、七只公绵羊将自己分别出来，就可作虚无之神的祭司。",
     Eng:"But didn't you drive out the priests of the LORD, the sons of Aaron, and the Levites, and make priests of your own as the peoples of other lands do? Whoever comes to consecrate himself with a young bull and seven rams may become a priest of what are not gods.",
     Ind:"Bukankah kamu telah menyingkirkan imam-imam TUHAN, anak-anak Harun itu, dan orang-orang Lewi, lalu mengangkat imam-imam menurut kebiasaan bangsa-bangsa negeri-negeri lain, sehingga setiap orang yang datang untuk ditahbiskan dengan seekor lembu jantan muda dan tujuh ekor domba jantan, dijadikan imam untuk sesuatu yang bukan Allah."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:10, Page:1,
-    Kor:"○그러나 우리에게는 주님만이 우리의 하나님이다. 우리는 그를 저버리지 않았다. 주님을 섬기는 제사장들은 다 아론의 자손이다. 레위 사람들도 자기들의 직무를 수행하고 있다.",
+    Kor:"○그러나 우리에게는 주님만이 우리의 하나님이다. 우리는 그를 저버리지 않았다. 주를 섬기는 제사장들은 다 아론의 자손이다. 레위 사람들도 자기들의 직무를 수행하고 있다.",
     Chn:"至于我们，耶和华是我们的　神，我们并没有离弃他。我们有事奉耶和华的祭司，都是亚伦的后裔，并有利未人各尽其职，",
     Eng:"\"As for us, the LORD is our God, and we have not forsaken him. The priests who serve the LORD are sons of Aaron, and the Levites assist them.",
     Ind:"Tetapi kami ini, Tuhanlah Allah kami, dan kami tidak meninggalkan-Nya. Dan anak-anak Harunlah yang melayani TUHAN sebagai imam, sedang orang Lewi menunaikan tugasnya,"
   },
   {Bible:"2Chronicles", Chapter:13, Verse:11, Page:1,
-    Kor:"그들은 날마다 아침 저녁으로 주님께 번제를 드리고, 향을 피워 드리고, 깨끗한 상에 빵을 차려 놓고, 금등잔대에는 저녁마다 불을 밝힌다. 이렇게 우리는 주님께서 정하여 주신 법도를 지키고 있다. 그러나 너희는 그 법도를 저버렸다.",
+    Kor:"그들은 날마다 아침 저녁으로 주께 번제를 드리고, 향을 피워 드리고, 깨끗한 상에 빵을 차려 놓고, 금등잔대에는 저녁마다 불을 밝힌다. 이렇게 우리는 주께서 정하여 주신 법도를 지키고 있다. 그러나 너희는 그 법도를 저버렸다.",
     Chn:"每日早晚向耶和华献燔祭，烧美香，又在精金的桌子上摆陈设饼；又有金灯台和灯盏，每晚点起，因为我们遵守耶和华—我们　神的命；惟有你们离弃了他。",
     Eng:"Every morning and evening they present burnt offerings and fragrant incense to the LORD. They set out the bread on the ceremonially clean table and light the lamps on the gold lampstand every evening. We are observing the requirements of the LORD our God. But you have forsaken him.",
     Ind:"yakni setiap pagi dan setiap petang mereka membakar bagi TUHAN korban bakaran dan ukupan dari wangi-wangian, menyusun roti sajian di atas meja yang tahir, dan mengatur kandil emas dengan pelita-pelitanya untuk dinyalakan setiap petang, karena kamilah yang memelihara kewajiban kami terhadap TUHAN, Allah kami, tetapi kamulah yang meninggalkan-Nya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tetapi Yerobeam mengirim suatu pasukan penghadang yang harus membuat gerakan keliling supaya sampai di belakang mereka, sehingga induk pasukannya berada di depan Yehuda dan pasukan-pasukan penghadang di belakang mereka."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:14, Page:1,
-    Kor:"유다 군이 둘러 보니, 앞뒤에서 공격을 받고 있는 것이 아닌가! 그래서 그들은 주님께 부르짖고, 제사장들은 나팔을 불었다.",
+    Kor:"유다 군이 둘러 보니, 앞뒤에서 공격을 받고 있는 것이 아닌가! 그래서 그들은 주께 부르짖고, 제사장들은 나팔을 불었다.",
     Chn:"犹大人回头观看，见前后都有敌兵，就呼求耶和华，祭司也吹号。",
     Eng:"Judah turned and saw that they were being attacked at both front and rear. Then they cried out to the LORD. The priests blew their trumpets",
     Ind:"Ketika Yehuda menoleh ke belakang, lihatlah, mereka harus menghadapi pertempuran dari depan dan dari belakang. Mereka berteriak kepada TUHAN, sedang para imam meniup nafiri,"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Abia mengejar Yerobeam dan merebut dari padanya beberapa kota, yakni Betel dengan segala anak kotanya, Yesana dengan segala anak kotanya dan Efron dengan segala anak kotanya."
   },
   {Bible:"2Chronicles", Chapter:13, Verse:20, Page:1,
-    Kor:"여로보암은 아비야 생전에 다시 힘을 회복하지 못하고, 주님께 벌을 받아서 죽고 말았다.",
+    Kor:"여로보암은 아비야 생전에 다시 힘을 회복하지 못하고, 주께 벌을 받아서 죽고 말았다.",
     Chn:"亚比雅在世的时候，耶罗波安不能再强盛；耶和华攻击他，他就死了。",
     Eng:"Jeroboam did not regain power during the time of Abijah. And the LORD struck him down and he died.",
     Ind:"Tak pernah lagi Yerobeam mendapat kekuatan di zaman Abia. TUHAN memukul dia, sehingga ia mati."

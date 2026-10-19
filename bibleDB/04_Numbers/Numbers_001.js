@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",1,54);
 BibleDB.add([
   {Bible:"Numbers", Chapter:1, Verse:1, Page:1,
-    Kor:"<첫 번째 병적 조사> 이스라엘 자손이 이집트 땅에서 나온 지 이 년이 되던 해 a둘째 달 초하루에, 주님께서 시내 광야의 b회막에서 모세에게 말씀하셨다.(a 시브월, 양력 사월 중순 이후 b 하나님이 백성을 만나시는 곳)",
+    Kor:"이스라엘 자손이 이집트 땅에서 나온 지 이 년이 되던 해 둘째 달 초하루에, 주께서 시내 광야의 회막에서 모세에게 말씀하셨다.",
     Chn:"以色列人出埃及地后，第二年二月初一日，耶和华在西奈的旷野、会幕中晓谕摩西说：",
     Eng:"The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:",
     Ind:"TUHAN berfirman kepada Musa di padang gurun Sinai, dalam Kemah Pertemuan, pada tanggal satu bulan yang kedua dalam tahun yang kedua sesudah mereka keluar dari tanah Mesir:"
   },
   {Bible:"Numbers", Chapter:1, Verse:2, Page:1,
-    Kor:"\"c너희는 이스라엘 자손의 온 회중을 각 가문별, 가족별로 인구를 조사하여라. 남자의 경우는 그 머리 수대로 하나하나 모두 올려 명단을 만들어라.(c 모세와 아론)",
+    Kor:"\"너희는 이스라엘 자손의 온 회중을 각 가문별, 가족별로 인구를 조사하여라. 남자의 경우는 그 머리 수대로 하나하나 모두 올려 명단을 만들어라.",
     Chn:"「你要按以色列全会众的家室、宗族、人名的数目计算所有的男丁。",
     Eng:"\"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.",
     Ind:"\"Hitunglah jumlah segenap umat Israel menurut kaum-kaum yang ada dalam setiap suku mereka, dan catatlah nama semua laki-laki di Israel"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Dari tiap-tiap suku harus ada satu orang yang mendampingi kamu, yakni orang yang menjadi kepala dari suku yang diwakilinya itu."
   },
   {Bible:"Numbers", Chapter:1, Verse:5, Page:1,
-    Kor:"다음은 너희 곁에 서서 너희를 도울 사람들의 이름이다.\" ○\"르우벤 지파에서는 스데울의 아들 엘리술이요,",
+    Kor:"다음은 너희 곁에 서서 너희를 도울 사람들의 이름이다. ○르우벤 지파에서는 스데울의 아들 엘리술이요,",
     Chn:"他们的名字：属吕便的，有示丢珥的儿子以利蓿；",
     Eng:"These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;",
     Ind:"Dan inilah nama semua orang yang harus mendampingi kamu. Dari suku Ruben: Elizur bin Syedeur;"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"dari suku Asyer: Pagiel bin Okhran;"
   },
   {Bible:"Numbers", Chapter:1, Verse:14, Page:1,
-    Kor:"○갓 지파에서는 d르우엘의 아들 엘리아삽이요,(d 히, '드우엘'. 2:14절을 따름)",
+    Kor:"○갓 지파에서는 르우엘의 아들 엘리아삽이요,",
     Chn:"属迦得的，有丢珥的儿子以利雅萨；",
     Eng:"from Gad, Eliasaph son of Deuel;",
     Ind:"dari suku Gad: Elyasaf bin Rehuel;"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"dan pada tanggal satu bulan yang kedua mereka menyuruh segenap umat berkumpul. Kemudian silsilah orang-orang Israel disusun menurut kaum-kaum yang ada dalam setiap suku mereka, sedang nama-nama mereka yang berumur dua puluh tahun ke atas dicatat orang demi orang,"
   },
   {Bible:"Numbers", Chapter:1, Verse:19, Page:1,
-    Kor:"이것은 주님께서 모세에게 명하신 대로 한 것이다. 모세가 시내 광야에서 그들의 수를 세었다.",
+    Kor:"이것은 주께서 모세에게 명하신 대로 한 것이다. 모세가 시내 광야에서 그들의 수를 세었다.",
     Chn:"耶和华怎样吩咐摩西，他就怎样在西奈的旷野数点他们。",
     Eng:"as the LORD commanded Moses. And so he counted them in the Desert of Sinai:",
     Ind:"seperti yang diperintahkan TUHAN kepada Musa. Demikianlah Musa mencatat mereka di padang gurun Sinai."
@@ -298,7 +298,7 @@ BibleDB.add([
     Ind:"Tetapi mereka yang menurut suku bapa leluhurnya termasuk orang Lewi, tidak turut dicatat bersama-sama dengan mereka itu."
   },
   {Bible:"Numbers", Chapter:1, Verse:48, Page:1,
-    Kor:"<레위 지파의 병역 면제> ○주님께서 모세에게 이렇게 분부하여 이르셨다.",
+    Kor:"○주께서 모세에게 이렇게 분부하여 이르셨다.",
     Chn:"因为耶和华晓谕摩西说：",
     Eng:"The LORD had said to Moses:",
     Ind:"Sebab TUHAN telah berfirman kepada Musa:"
@@ -310,7 +310,7 @@ BibleDB.add([
     Ind:"\"Hanya suku Lewi janganlah kaucatat dan janganlah kauhitung jumlahnya bersama-sama dengan orang Israel,"
   },
   {Bible:"Numbers", Chapter:1, Verse:50, Page:1,
-    Kor:"그 대신 너는 레위 사람을 시켜, e증거궤가 보관된 성막을 보살피게 하여라. 모든 기구와 그 안에 있는 모든 비품을 그들이 관리할 것이다. 그들은 성막을 옮기는 일과 그 안에 있는 모든 기구를 옮기는 일을 맡을 것이다. 그들은 성막을 돌보며, 성막 둘레에 진을 치고 살아야 한다.(e 또는 '법막' 또는 '증거막')",
+    Kor:"그 대신 너는 레위 사람을 시켜, 증거궤가 보관된 성막을 보살피게 하여라. 모든 기구와 그 안에 있는 모든 비품을 그들이 관리할 것이다. 그들은 성막을 옮기는 일과 그 안에 있는 모든 기구를 옮기는 일을 맡을 것이다. 그들은 성막을 돌보며, 성막 둘레에 진을 치고 살아야 한다.",
     Chn:"只要派利未人管法柜的帐幕和其中的器具，并属乎帐幕的；他们要抬帐幕和其中的器具，并要办理帐幕的事，在帐幕的四围安营。",
     Eng:"Instead, appoint the Levites to be in charge of the tabernacle of the Testimony--over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it.",
     Ind:"tetapi tugaskanlah mereka untuk mengawasi Kemah Suci, tempat hukum Allah dengan segala perabotan dan perlengkapannya; mereka harus mengangkat Kemah Suci dengan segala perabotannya; mereka harus mengurusnya dan harus berkemah di sekelilingnya."
@@ -328,13 +328,13 @@ BibleDB.add([
     Ind:"Orang Israel haruslah berkemah masing-masing di tempat perkemahannya dan masing-masing dekat panji-panjinya, menurut pasukan mereka,"
   },
   {Bible:"Numbers", Chapter:1, Verse:53, Page:1,
-    Kor:"그러나 레위 사람은 e증거궤가 보관된 성막 둘레에 진을 쳐서, 나의 진노가 이스라엘 자손의 회중에게 내리지 않게 해야 한다. 레위 사람은 e증거궤가 보관된 성막을 보호할 임무를 맡는다.\"(e 또는 '법막' 또는 '증거막')",
+    Kor:"그러나 레위 사람은 증거궤가 보관된 성막 둘레에 진을 쳐서, 나의 진노가 이스라엘 자손의 회중에게 내리지 않게 해야 한다. 레위 사람은 증거궤가 보관된 성막을 보호할 임무를 맡는다.\"",
     Chn:"但利未人要在法柜帐幕的四围安营，免得忿怒临到以色列会众；利未人并要谨守法柜的帐幕。」",
     Eng:"The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony.\"",
     Ind:"tetapi orang Lewi haruslah berkemah di sekeliling Kemah Suci, tempat hukum Allah supaya umat Israel jangan kena murka; orang Lewi haruslah memelihara Kemah Suci, tempat hukum itu.\""
   },
   {Bible:"Numbers", Chapter:1, Verse:54, Page:1,
-    Kor:"○이스라엘 자손은, 주님께서 모세에게 명하신 모든 것을 다 그대로 하였다.",
+    Kor:"○이스라엘 자손은, 주께서 모세에게 명하신 모든 것을 다 그대로 하였다.",
     Chn:"以色列人就这样行。凡耶和华所吩咐摩西的，他们就照样行了。",
     Eng:"The Israelites did all this just as the LORD commanded Moses.",
     Ind:"Maka orang Israel berbuat demikian; tepat seperti yang diperintahkan TUHAN kepada Musa, demikianlah diperbuat mereka."

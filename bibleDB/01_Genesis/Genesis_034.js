@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",34,31);
 BibleDB.add([
   {Bible:"Genesis", Chapter:34, Verse:1, Page:1,
-    Kor:"<디나가 폭행을 당하다> 레아와 야곱 사이에서 태어난 딸 디나가 그 지방 여자들을 보러 나갔다.",
+    Kor:"레아와 야곱 사이에서 태어난 딸 디나가 그 지방 여자들을 보러 나갔다.",
     Chn:"利亚给雅各所生的女儿底拿出去，要见那地的女子们。",
     Eng:"Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land.",
     Ind:"Pada suatu kali pergilah Dina, anak perempuan Lea yang dilahirkannya bagi Yakub, mengunjungi perempuan-perempuan di negeri itu."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Tetapi terikatlah hatinya kepada Dina, anak Yakub; ia cinta kepada gadis itu, lalu menenangkan hati gadis itu."
   },
   {Bible:"Genesis", Chapter:34, Verse:4, Page:1,
-    Kor:"세겜은 자기 아버지 하몰에게 말하였다. \"이 처녀를 아내로 삼게 해주십시오.\"",
+    Kor:"세겜은 자기 아버지 하몰에게 말하였다. \"이 처녀를 아내로 삼게 해주십시오.",
     Chn:"示剑对他父亲哈抹说：「求你为我聘这女子为妻。」",
     Eng:"And Shechem said to his father Hamor, \"Get me this girl as my wife.\"",
     Ind:"Sebab itu berkatalah Sikhem kepada Hemor, ayahnya: \"Ambillah bagiku gadis ini untuk menjadi isteriku.\""
   },
   {Bible:"Genesis", Chapter:34, Verse:5, Page:1,
-    Kor:"○야곱이 자기의 딸 디나의 몸을 세겜이 더럽혔다는 말을 들을 때에, 그의 아들들은 가축 떼와 함께 들에 있었다. 야곱은 아들들이 돌아올 때까지 이 일을 입 밖에 내지 않았다.",
+    Kor:"○야곱이 자기의 딸 디나의 몸을 세겜이 더럽혔다는 말을 들을 때에, 그의 아들들은 가축 떼와 함께 들에 있었다. 야곱은 아들들이 돌아올 때까지, 이 일을 입 밖에 내지 않았다.",
     Chn:"雅各听见示剑玷污了他的女儿底拿。那时他的儿子们正和群畜在田野，雅各就闭口不言，等他们回来。",
     Eng:"When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with  his livestock; so he kept quiet about it until they came home.",
     Ind:"Kedengaranlah kepada Yakub, bahwa Sikhem mencemari Dina. Tetapi anak-anaknya ada di padang menjaga ternaknya, jadi Yakub mendiamkan soal itu sampai mereka pulang."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu Hemor ayah Sikhem, pergi mendapatkan Yakub untuk berbicara dengan dia."
   },
   {Bible:"Genesis", Chapter:34, Verse:7, Page:1,
-    Kor:"와서 보니, 야곱의 아들들이 이미 디나에게 일어난 일을 듣고, 들에서 돌아와 있었다. 세겜이 야곱의 딸을 욕보여서, 이스라엘 사람에게 부끄러운 일 곧 해서는 안 될 일을 하였으므로, 야곱의 아들들은 슬픔과 분노를 억누르지 못하고 있었다.",
+    Kor:"와서 보니, 야곱의 아들들이 이미 디나에게 일어난 일을 듣고, 들에서 돌아와 있었다. 세겜이 야곱의 딸을 욕보여서, 이스라엘 사람에게 부끄러운 일, 곧 해서는 안 될 일을 하였으므로, 야곱의 아들들은 슬픔과 분노를 억누르지 못하고 있었다.",
     Chn:"雅各的儿子们听见这事，就从田野回来，人人忿恨，十分恼怒；因示剑在以色列家做了丑事，与雅各的女儿行淫，这本是不该做的事。",
     Eng:"Now Jacob's sons had come in from the fields as soon as they heard what had happened. They  were filled with grief and fury, because Shechem had done a disgraceful thing in Israel by lying  with Jacob's daughter--a thing that should not be done.",
     Ind:"Sementara itu anak-anak Yakub pulang dari padang, dan sesudah mendengar peristiwa itu orang-orang ini sakit hati dan sangat marah karena Sikhem telah berbuat noda di antara orang Israel dengan memperkosa anak perempuan Yakub, sebab yang demikian itu tidak patut dilakukan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"berkatalah mereka kepada kedua orang itu: \"Kami tidak dapat berbuat demikian, memberikan adik kami kepada seorang laki-laki yang tidak bersunat, sebab hal itu aib bagi kami."
   },
   {Bible:"Genesis", Chapter:34, Verse:15, Page:1,
-    Kor:"조건이 하나 있습니다. 당신들 쪽에서 남자들이 우리처럼 모두 할례를 받겠다고 하면, 그 청혼을 받아들이겠습니다.",
+    Kor:"조건이 하나 있습니다. 당신들 쪽에서, 남자들이 우리처럼 모두 할례를 받겠다고 하면, 그 청혼을 받아들이겠습니다.",
     Chn:"惟有一件才可以应允：若你们所有的男丁都受割礼，和我们一样，",
     Eng:"We will give our consent to you on one condition only: that you become like us by  circumcising all your males.",
     Ind:"Hanyalah dengan syarat ini kami dapat menyetujui permintaanmu: kamu harus sama seperti kami, yaitu setiap laki-laki di antara kamu harus disunat,"
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"segala kekayaannya, semua anaknya dan perempuannya ditawan dan dijarah mereka, juga seluruhnya yang ada di rumah-rumah."
   },
   {Bible:"Genesis", Chapter:34, Verse:30, Page:1,
-    Kor:"일이 이쯤 되니, 야곱이 시므온과 레위를 나무랐다. \"너희는 나를 오히려 더 어렵게 만들었다. 이제 가나안 사람이나, 브리스 사람이나, 이 땅에 사는 모든 사람이, 나를 사귀지도 못할 추한 인간이라고 여길 게 아니냐? 우리는 수가 적은데, 그들이 합세해서, 나를 치고, 나를 죽이면, 나와 나의 01 34:집안이 다 몰살당할 수밖에 없지 않느냐?\"",
+    Kor:"일이 이쯤 되니, 야곱이 시므온과 레위를 나무랐다. \"너희는 나를 오히려 더 어렵게 만들었다. 이제 가나안 사람이나, 브리스 사람이나, 이 땅에 사는 모든 사람이, 나를 사귀지도 못할 추한 인간이라고 여길 게 아니냐? 우리는 수가 적은데, 그들이 합세해서, 나를 치고, 나를 죽이면, 나와 나의 집안이 다 몰살당할 수밖에 없지 않느냐?\"",
     Chn:"雅各对西缅和利未说：「你们连累我，使我在这地的居民中，就是在迦南人和比利洗人中，有了臭名。我的人丁既然稀少，他们必聚集来击杀我，我和全家的人都必灭绝。」",
     Eng:"Then Jacob said to Simeon and Levi, \"You have brought trouble on me by making me a stench  to the Canaanites and Perizzites, the people living in this land. We are few in number, and if  they join forces against me and attack me, I and my household will be destroyed.\"",
     Ind:"Yakub berkata kepada Simeon dan Lewi: \"Kamu telah mencelakakan aku dengan membusukkan namaku kepada penduduk negeri ini, kepada orang Kanaan dan orang Feris, padahal kita ini hanya sedikit jumlahnya; apabila mereka bersekutu melawan kita, tentulah mereka akan memukul kita kalah, dan kita akan dipunahkan, aku beserta seisi rumahku.\""
   },
   {Bible:"Genesis", Chapter:34, Verse:31, Page:1,
-    Kor:"그들이 대답하였다. \"그가 우리 누이를 창녀 다루듯이 하는 데도, 그대로 두라는 말입니까?\"",
+    Kor:"그들이 대답하였 다. \"그가 우리 누이를 창녀 다루듯이 하는 데도, 그대로 두라는 말입니까?\"",
     Chn:"他们说：「他岂可待我们的妹子如同妓女吗？」",
     Eng:"But they replied, \"Should he have treated our sister like a prostitute?\"",
     Ind:"Tetapi jawab mereka: \"Mengapa adik kita diperlakukannya sebagai seorang perempuan sundal!\""

@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Balak melakukan seperti yang dikatakan Bileam, maka Balak dan Bileam mempersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah itu."
   },
   {Bible:"Numbers", Chapter:23, Verse:3, Page:1,
-    Kor:"발람이 발락에게 말하였다. \"임금님께서는 제물 곁에 서 계시기 바랍니다. 저는 가볼 데가 있습니다. 어쩌면 주님께서 저를 만나러 오실지도 모르겠습니다. 주님께서 저에게 밝히 나타내 주시는 것이면, 어떤 말씀이든지 제가 임금님께 말씀드리겠습니다.\" 그러면서 발람은 오솔길을 걸어갔다.",
+    Kor:"발람이 발락에게 말하였다. \"임금님께서는 제물 곁에 서 계시기 바랍니다. 저는 가볼 데가 있습니다. 어쩌면 주께서 저를 만나러 오실지도 모르겠습니다. 주께서 저에게 밝히 나타내 주시는 것이면, 어떤 말씀이든지 제가 임금님께 말씀드리겠습니다.\" 그러면서 발람은 오솔길을 걸어갔다.",
     Chn:"巴兰对巴勒说：「你站在你的燔祭旁边，我且往前去，或者耶和华来迎见我。他指示我什么，我必告诉你。」于是巴兰上一净光的高处。",
     Eng:"Then Balaam said to Balak, \"Stay here beside your offering while I go aside. Perhaps the LORD will come to meet with me. Whatever he reveals to me I will tell you.\" Then he went off to a barren height.",
     Ind:"Sesudah itu berkatalah Bileam kepada Balak: \"Berdirilah di samping korban bakaranmu, tetapi aku ini hendak pergi; mungkin TUHAN akan datang menemui aku, dan perkataan apapun yang dinyatakan-Nya kepadaku, akan kuberitahukan kepadamu.\" Lalu pergilah ia ke atas sebuah bukit yang gundul."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Maka Allah menemui Bileam, lalu Bileam berkata kepada-Nya: \"Ketujuh mezbah itu telah kuatur, dan kupersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:5, Page:1,
-    Kor:"주님께서는 발람의 입에 말씀을 넣어 주시면서, 발락에게로 돌아가서 그대로 말하라고 하셨다.",
+    Kor:"주께서는 발람의 입에 말씀을 넣어 주시면서, 발락에게로 돌아가서 그대로 말하라고 하셨다.",
     Chn:"耶和华将话传给巴兰，又说：「你回到巴勒那里，要如此如此说。」",
     Eng:"The LORD put a message in Balaam's mouth and said, \"Go back to Balak and give him this message.\"",
     Ind:"Kemudian TUHAN menaruh perkataan ke dalam mulut Bileam dan berfirman: \"Kembalilah kepada Balak dan katakanlah demikian.\""
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Ketika ia kembali, maka Balak masih berdiri di situ di samping korban bakarannya, bersama dengan semua pemuka Moab."
   },
   {Bible:"Numbers", Chapter:23, Verse:7, Page:1,
-    Kor:"발람이 예언을 선포하였다.  \"발락이 나를 a시리아에서 데려왔다. 모압의 왕이 나를 동쪽 산골에서 데려왔다. 와서, 자기에게 유리하게 야곱을 저주하라 하고 와서 이스라엘을 규탄하라 하였지만, (a 또는 '메소포타미아')",
+    Kor:"발람이 예언을 선포하였다. 발락이 나를 시리아에서 데려왔다. 모압의 왕이 나를 동쪽 산골에서 데려왔다. 와서 자기에게 유리하게 야곱을 저주하라 하고 와서 이스라엘을 규탄하라 하였지만,",
     Chn:"巴兰便题起诗歌说： 巴勒引我出亚兰， 摩押王引我出东山，说： 来啊，为我咒诅雅各； 来啊，怒骂以色列。",
     Eng:"Then Balaam uttered his oracle: \"Balak brought me from Aram, the king of Moab from the eastern mountains. 'Come,' he said, 'curse Jacob for me; come, denounce Israel.'",
     Ind:"Lalu Bileam mengucapkan sanjaknya, katanya: \"Dari Aram aku disuruh datang oleh Balak, raja Moab, dari gunung-gunung sebelah timur: Datanglah, katanya, kutuklah bagiku Yakub, dan datanglah, kutuklah Israel."
   },
   {Bible:"Numbers", Chapter:23, Verse:8, Page:1,
-    Kor:"하나님이 저주하지 않으시는데, 내가 어떻게 저주하며, 주님께서 꾸짖지 않으시는데, 내가 어떻게 꾸짖으랴!",
+    Kor:"하나님이 저주하지 않으시는데, 내가 어떻게 저주하며, 주께서 꾸짖지 않으시는데, 내가 어떻게 꾸짖으랴!",
     Chn:"神没有咒诅的，我焉能咒诅？ 耶和华没有怒骂的，我焉能怒骂？",
     Eng:"How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?",
     Ind:"Bagaimanakah aku menyerapah yang tidak diserapah Allah? Bagaimanakah aku mengutuk yang tidak dikutuk TUHAN?"
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Sebab dari puncak gunung-gunung batu aku melihat mereka, dari bukit-bukit aku memandang mereka. Lihat, suatu bangsa yang diam tersendiri dan tidak mau dihitung di antara bangsa-bangsa kafir."
   },
   {Bible:"Numbers", Chapter:23, Verse:10, Page:1,
-    Kor:"티끌처럼 많은 야곱의 자손을 누가 셀 수 있겠느냐? b먼지처럼 많은 이스라엘의 자손을 누가 셀 수 있겠느냐? 나는 정직한 사람이 죽듯이 죽기를 바란다. 나의 마지막이 정직한 사람의 마지막과 같기를 바란다.\" (b 히, '이스라엘의 사분의 일')",
+    Kor:"티끌처럼 많은 야곱의 자손을 누가 셀 수 있겠느냐? 먼지처럼 많은 이스라엘의 자손을 누가 셀 수 있겠느냐? 나는 정직한 사람이 죽듯이 죽기를 바란다. 나의 마지막이 정직한 사람의 마지막과 같기를 바란다.",
     Chn:"谁能数点雅各的尘土？ 谁能计算以色列的四分之一？ 我愿如义人之死而死； 我愿如义人之终而终。",
     Eng:"Who can count the dust of Jacob or number the fourth part of Israel? Let me die the death of the righteous, and may my end be like theirs!\"",
     Ind:"Siapakah yang menghitung debu Yakub dan siapakah yang membilang bondongan-bondongan Israel? Sekiranya aku mati seperti matinya orang-orang jujur dan sekiranya ajalku seperti ajal mereka!\""
   },
   {Bible:"Numbers", Chapter:23, Verse:11, Page:1,
-    Kor:"○발락이 발람에게 말하였다. \"지금 무엇을 하고 있는 거요? 대적들을 저주해 달라고 당신을 데려왔습니다. 그런데 당신은 그들에게 복을 빌어 주었습니다!\"",
+    Kor:"○발락이 발람에게 말하였다. \"지금 무엇을 하고 있는 거요? 대적들을 저주해 달라고 그대를 데려왔습니다. 그런데 그대는 그들에게 복을 빌어 주었습니다!\"",
     Chn:"巴勒对巴兰说：「你向我做的是什么事呢？我领你来咒诅我的仇敌，不料，你竟为他们祝福。」",
     Eng:"Balak said to Balaam, \"What have you done to me? I brought you to curse my enemies, but you have done nothing but bless them!\"",
     Ind:"Lalu berkatalah Balak kepada Bileam: \"Apakah yang kaulakukan kepadaku ini? Untuk menyerapah musuhkulah aku menjemput engkau, tetapi sebaliknya engkau memberkati mereka.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:12, Page:1,
-    Kor:"발람이 대답하였다. \"주님께서 나의 입에 넣어 주시는 말씀을 말하지 말란 말입니까?\"",
+    Kor:"발람이 대답하였다. \"주께서 나의 입에 넣어 주시는 말씀을 말하지 말란 말입니까?\"",
     Chn:"他回答说：「耶和华传给我的话，我能不谨慎传说吗？」",
     Eng:"He answered, \"Must I not speak what the LORD puts in my mouth?\"",
     Ind:"Tetapi ia menjawab: \"Bukankah aku harus berawas-awas, supaya mengatakan apa yang ditaruh TUHAN ke dalam mulutku?\""
   },
   {Bible:"Numbers", Chapter:23, Verse:13, Page:1,
-    Kor:"<발람의 두 번째 예언> ○발락이 그에게 말하였다. \"나와 함께 다른 곳으로 가서 보시기 바랍니다. 거기에서는 그들의 일부만 보일 것입니다. 그들이 전부 다 보이지는 않을 것이니, 거기에서 나에게 유리하도록 그들을 저주하여 주시기 바랍니다.\"",
+    Kor:"○발락이 그에게 말하였다. \"나와 함께 다른 곳으로 가서 보시기 바랍니다. 거기에서는 그들의 일부만 보일 것입니다. 그들이 전부 다 보이지는 않을 것이니, 거기에서 나에게 유리하도록 그들을 저주하여 주시기 바랍니다.\"",
     Chn:"巴勒说：「求你同我往别处去，在那里可以看见他们；你不能全看见，只能看见他们边界上的人。在那里要为我咒诅他们。」",
     Eng:"Then Balak said to him, \"Come with me to another place where you can see them; you will see only a part but not all of them. And from there, curse them for me.\"",
     Ind:"Lalu Balak berkata kepadanya: \"Baiklah pergi bersama-sama dengan aku ke tempat lain, dan dari sana engkau dapat melihat bangsa itu; engkau akan melihat hanya bagiannya yang paling ujung, tetapi seluruhnya tidak akan kaulihat; serapahlah mereka dari situ bagiku.\""
@@ -87,25 +87,25 @@ BibleDB.add([
     Ind:"Lalu dibawanyalah dia ke Padang Pengintai, ke puncak gunung Pisga; ia mendirikan tujuh mezbah dan mempersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah itu."
   },
   {Bible:"Numbers", Chapter:23, Verse:15, Page:1,
-    Kor:"○발람이 발락에게 말하였다. \"임금님은 번제물 곁에 그대로 서 계시기 바랍니다. 나는 지난번처럼 주님을 만나 뵈어야 합니다.\"",
+    Kor:"○발람이 발락에게 말하였다. \"임금님은 번제물 곁에 그대로 서 계시기 바랍니다. 나는 지난번처럼 주를 만나 뵈어야 합니다.\"",
     Chn:"巴兰对巴勒说：「你站在这燔祭旁边，等我往那边去迎见耶和华。」",
     Eng:"Balaam said to Balak, \"Stay here beside your offering while I meet with him over there.\"",
     Ind:"Kemudian berkatalah ia kepada Balak: \"Berdirilah di sini di samping korban bakaranmu, sedang aku hendak bertemu dengan TUHAN di situ.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:16, Page:1,
-    Kor:"○주님께서는 발람을 만나셔서, 그의 입에 말씀을 넣어 주시면서 발락에게로 돌아가서 그대로 말하라고 하셨다.",
+    Kor:"○주께서는 발람을 만나셔서, 그의 입에 말씀을 넣어 주시면서 발락에게로 돌아가서 그대로 말하라고 하셨다.",
     Chn:"耶和华临到巴兰那里，将话传给他；又说：「你回到巴勒那里，要如此如此说。」",
     Eng:"The LORD met with Balaam and put a message in his mouth and said, \"Go back to Balak and give him this message.\"",
     Ind:"Lalu TUHAN menemui Bileam dan menaruh perkataan ke dalam mulutnya, dan berfirman: \"Kembalilah kepada Balak dan katakanlah demikian.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:17, Page:1,
-    Kor:"발람이 발락에게로 와서 보니, 발락이 번제물 곁에 그대로 서 있었다. 모압의 고관들도 그와 함께 있었다. 발락이 그에게 물었다. \"주님께서 무슨 말씀을 하셨습니까?\"",
+    Kor:"발람이 발락에게로 와서 보니, 발락이 번제물 곁에 그대로 서 있었다. 모압의 고관들도 그와 함께 있었다. 발락이 그에게 물었다. \"주께서 무슨 말씀을 하셨습니까?\"",
     Chn:"他就回到巴勒那里，见他站在燔祭旁边；摩押的使臣也和他在一处。巴勒问他说：「耶和华说了什么话呢？」",
     Eng:"So he went to him and found him standing beside his offering, with the princes of Moab. Balak asked him, \"What did the LORD say?\"",
     Ind:"Ketika ia sampai kepadanya, Balak masih berdiri di samping korban bakarannya bersama-sama dengan pemuka-pemuka Moab. Berkatalah Balak kepadanya: \"Apakah yang difirmankan TUHAN?\""
   },
   {Bible:"Numbers", Chapter:23, Verse:18, Page:1,
-    Kor:"○발람이 예언을 선포하였다.  \"발락은 와서 들어라. 십볼의 아들은 나에게 귀를 기울여라.",
+    Kor:"○발람이 예언을 선포하였다. 발락은 와서 들어라. 십볼의 아들은 나에게 귀를 기울여라.",
     Chn:"巴兰就题诗歌说： 巴勒，你起来听； 西拨的儿子，你听我言。",
     Eng:"Then he uttered his oracle: \"Arise, Balak, and listen; hear me, son of Zippor.",
     Ind:"Lalu diucapkannyalah sanjaknya, katanya: \"Bangunlah, hai Balak, dan dengarlah; pasanglah telingamu mendengarkan aku, ya anak Zipor."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Allah bukanlah manusia, sehingga Ia berdusta bukan anak manusia, sehingga Ia menyesal. Masakan Ia berfirman dan tidak melakukannya, atau berbicara dan tidak menepatinya?"
   },
   {Bible:"Numbers", Chapter:23, Verse:20, Page:1,
-    Kor:"나는 축복하라 하시는 명을 받았다. 주님께서 복을 베푸셨으니, 내가 그것을 바꿀 수 없다.",
+    Kor:"나는 축복하라 하시는 명을 받았다. 주께서 복을 베푸셨으니, 내가 그것을 바꿀 수 없다.",
     Chn:"我奉命祝福； 　神也曾赐福，此事我不能翻转。",
     Eng:"I have received a command to bless; he has blessed, and I cannot change it.",
     Ind:"Ketahuilah, aku mendapat perintah untuk memberkati, dan apabila Dia memberkati, maka aku tidak dapat membalikkannya."
   },
   {Bible:"Numbers", Chapter:23, Verse:21, Page:1,
-    Kor:"주님께서는 야곱에게서 아무런 죄도 찾지 못하셨다. 주님께서는 이스라엘에게서 어떤 잘못도 발견하지 못하셨다. 그들의 주 하나님이 그들과 함께 계신다. 주님을 임금으로 떠받드는 소리가 그들에게서 들린다.",
+    Kor:"주께서는 야곱에게서 아무런 죄도 찾지 못하셨다. 주께서는 이스라엘에게서 어떤 잘못도 발견하지 못하셨다. 그들의 주 하나님이 그들과 함께 계신다. 주를 임금으로 떠받드는 소리가 그들에게서 들린다.",
     Chn:"他未见雅各中有罪孽， 也未见以色列中有奸恶。 耶和华—他的　神和他同在； 有欢呼王的声音在他们中间。",
     Eng:"\"No misfortune is seen in Jacob, no misery observed in Israel. The LORD their God is with them; the shout of the King is among them.",
     Ind:"Tidak ada ditengok kepincangan di antara keturunan Yakub, dan tidak ada dilihat kesukaran di antara orang Israel. TUHAN, Allah mereka, menyertai mereka, dan sorak-sorak karena Raja ada di antara mereka."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Allah, yang membawa mereka keluar dari Mesir, adalah bagi mereka seperti tanduk kekuatan lembu hutan,"
   },
   {Bible:"Numbers", Chapter:23, Verse:23, Page:1,
-    Kor:"야곱에 맞설 마술은 없다. 이스라엘에 맞설 술법도 없다. 이제는 사람들이 야곱과 이스라엘에게 물을 것이다. '하나님이 하신 일이 어찌 그리 크냐?’고.",
+    Kor:"야곱에 맞설 마술은 없다. 이스라엘에 맞설 술법도 없다. 이제는 사람들이 야곱과 이스라엘에게 물을 것이다. '하나님이 하신 일이 어찌 그리 크냐?'고.",
     Chn:"断没有法术可以害雅各， 也没有占卜可以害以色列。 现在必有人论及雅各，就是论及以色列说： 　神为他行了何等的大事！",
     Eng:"There is no sorcery against Jacob, no divination against Israel. It will now be said of Jacob and of Israel, 'See what God has done!'",
     Ind:"sebab tidak ada mantera yang mempan terhadap Yakub, ataupun tenungan yang mempan terhadap Israel. Pada waktunya akan dikatakan kepada Yakub, begitu juga kepada Israel, keajaiban yang diperbuat Allah:"
   },
   {Bible:"Numbers", Chapter:23, Verse:24, Page:1,
-    Kor:"보아라, 그 백성이 암사자처럼 일어난다. 그들이 수사자처럼 우뚝 선다. 짐승을 잡아 먹지 아니하고는 짐승을 찔러 그 피를 마시지 아니하고는 눕지 아니할 것이다.\"",
+    Kor:"보아라, 그 백성이 암사자처럼 일어난다. 그들이 수사자처럼 우뚝 선다. 짐승을 잡아 먹지 아니하고는 짐승을 찔러 그 피를 마시지 아니하고는 눕지 아니할 것이다.",
     Chn:"这民起来，仿佛母狮， 挺身，好像公狮， 未曾吃野食， 未曾喝被伤者之血，决不躺卧。",
     Eng:"The people rise like a lioness; they rouse themselves like a lion that does not rest till he devours his prey and drinks the blood of his victims.\"",
     Ind:"Lihat, suatu bangsa, yang bangkit seperti singa betina, dan yang berdiri tegak seperti singa jantan, yang tidak membaringkan dirinya, sebelum ia memakan mangsanya dan meminum darah dari yang mati dibunuhnya.\""
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Lalu berkatalah Balak kepada Bileam: \"Jika sekali-kali tidak mau engkau menyerapah mereka, janganlah sekali-kali memberkatinya.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:26, Page:1,
-    Kor:"발람이 발락에게 이렇게 대답하였다. \"무엇이든 주님께서 내게 말씀하신 것만을 말하겠다고, 내가 말씀드리지 않았습니까?\"",
+    Kor:"발람이 발락에게 이렇게 대답하였다. \"무엇이든 주께서 내게 말씀하신 것만을 말하겠다고, 내가 말씀드리지 않았습니까?\"",
     Chn:"巴兰回答巴勒说：「我岂不是告诉你说『凡耶和华所说的，我必须遵行』吗？」",
     Eng:"Balaam answered, \"Did I not tell you I must do whatever the LORD says?\"",
     Ind:"Tetapi Bileam menjawab Balak: \"Bukankah telah kukatakan kepadamu: Segala yang akan difirmankan TUHAN, itulah yang akan kulakukan.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:27, Page:1,
-    Kor:"<발람의 세 번째 예언> ○발락이 발람에게 말하였다. \"함께 가시기 바랍니다. 내가 당신을 다른 곳으로 데리고 가겠습니다. 하나님 보시기에 올바른 일이면, 거기에서, 나에게 유리하도록 그들을 저주하여 주시기 바랍니다.\"",
+    Kor:"○발락이 발람에게 말하였다. \"함께 가시기 바랍니다. 내가 그대를 다른 곳으로 데리고 가겠습니다. 하나님 보시기에 올바른 일이면, 거기에서, 나에게 유리하도록 그들을 저주하여 주시기 바랍니다.\"",
     Chn:"巴勒对巴兰说：「来吧，我领你往别处去，或者　神喜欢你在那里为我咒诅他们。」",
     Eng:"Then Balak said to Balaam, \"Come, let me take you to another place. Perhaps it will please God to let you curse them for me from there.\"",
     Ind:"Kemudian berkatalah Balak kepada Bileam: \"Marilah aku akan membawa engkau ke tempat lain; mungkin benar di mata Allah bahwa engkau menyerapah mereka bagiku dari tempat itu.\""
   },
   {Bible:"Numbers", Chapter:23, Verse:28, Page:1,
-    Kor:"발락은 발람을 c광야가 내려다보이는 브올 산 꼭대기로 데리고 갔다.(c 히, '여시몬이')",
+    Kor:"발락은 발람을 광야가 내려다보이는 브올 산 꼭대기로 데리고 갔다.",
     Chn:"巴勒就领巴兰到那下望旷野的毗珥山顶上。",
     Eng:"And Balak took Balaam to the top of Peor, overlooking the wasteland.",
     Ind:"Lalu Balak membawa Bileam ke puncak gunung Peor, yang menghadap Padang Belantara."

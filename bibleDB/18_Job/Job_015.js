@@ -3,7 +3,7 @@
 BibleDB.ref("Job",15,35);
 BibleDB.add([
   {Bible:"Job", Chapter:15, Verse:1, Page:1,
-    Kor:"<엘리바스의 두 번째 발언> 데만 사람 엘리바스가 대답하였다.",
+    Kor:"데만 사람 엘리바스가 대답하였다.",
     Chn:"提幔人以利法回答说：",
     Eng:"Then Eliphaz the Temanite replied:",
     Ind:"Maka Elifas, orang Teman, menjawab:"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Mengapa engkau dihanyutkan oleh perasaan hatimu dan mengapa matamu menyala-nyala,"
   },
   {Bible:"Job", Chapter:15, Verse:13, Page:1,
-    Kor:"어찌하여 너는 하나님께 격한 심정을 털어놓으며, 하나님께 함부로 입을 놀려 대느냐?",
+    Kor:"어찌하여 너는, 하나님께 격한 심정을 털어놓으며, 하나님께 함부로 입을 놀려 대느냐?",
     Chn:"使你的灵反对　神， 也任你的口发这言语？",
     Eng:"so that you vent your rage against God and pour out such words from your mouth?",
     Ind:"sehingga engkau memalingkan hatimu menentang Allah, dan mulutmu mengeluarkan perkataan serupa itu?"

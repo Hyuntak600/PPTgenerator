@@ -3,19 +3,19 @@
 BibleDB.ref("Psalms",107,43);
 BibleDB.add([
   {Bible:"Psalms", Chapter:107, Verse:1, Page:1,
-    Kor:"<제5권(시편 107-150)> <주님은 당신의 백성을 선대하신다> 주님께 감사드려라. 그는 선하시며, 그의 인자하심이 영원하다.",
+    Kor:"주님께 감사하여라. 그는 선하시며, 그의 인자하심이 영원하다.",
     Chn:"你们要称谢耶和华，因他本为善； 他的慈爱永远长存！",
     Eng:"Give thanks to the LORD, for he is good; his love endures forever.",
     Ind:"Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:107, Verse:2, Page:1,
-    Kor:"주님께 구원받은 사람들아, 대적의 손에서 구원받은 사람들아, 모두 주님께 감사드려라.",
+    Kor:"주님께 구원받은 사람들아, 대적의 손에서 구원받은 사람들아, 주님께 감사의 말씀을 올려라.",
     Chn:"愿耶和华的赎民说这话， 就是他从敌人手中所救赎的，",
     Eng:"Let the redeemed of the LORD say this--those he redeemed from the hand of the foe,",
     Ind:"Biarlah itu dikatakan orang-orang yang ditebus TUHAN, yang ditebus-Nya dari kuasa yang menyesakkan,"
   },
   {Bible:"Psalms", Chapter:107, Verse:3, Page:1,
-    Kor:"a동서 남북 사방에서, 주님께서 모아들이신 사람들아, 모두 주님께 감사드려라. (a 히, '동서북 바다')",
+    Kor:"동서 남북 사방에서, 주께서 모아들이신 사람들아, 주님께 감사의 말씀을 올려라.",
     Chn:"从各地，从东从西， 从南从北，所招聚来的。",
     Eng:"those he gathered from the lands, from east and west, from north and south.",
     Ind:"yang dikumpulkan-Nya dari negeri-negeri, dari timur dan dari barat, dari utara dan dari selatan."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"mereka lapar dan haus, jiwa mereka lemah lesu di dalam diri mereka."
   },
   {Bible:"Psalms", Chapter:107, Verse:6, Page:1,
-    Kor:"그러나 그들이 그 고난 가운데서 주님께 부르짖을 때에, 주님께서는 그들을 그 고통에서 건지시고,",
+    Kor:"그러나 그들이 그 고난 가운데서 주께 부르짖을 때에, 주께서는 그들을 그 고통에서 건지시고,",
     Chn:"于是，他们在苦难中哀求耶和华； 他从他们的祸患中搭救他们，",
     Eng:"Then they cried out to the LORD in their trouble, and he delivered them from their distress.",
     Ind:"Maka berseru-serulah mereka kepada TUHAN dalam kesesakan mereka, dan dilepaskan-Nya mereka dari kecemasan mereka."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Dibawa-Nya mereka menempuh jalan yang lurus, sehingga sampai ke kota tempat kediaman orang."
   },
   {Bible:"Psalms", Chapter:107, Verse:8, Page:1,
-    Kor:"주님의 인자하심을 감사하여라. 사람들에게 베푸신 주님의 놀라운 구원을 감사하여라.",
+    Kor:"주의 인자하심을 감사하여라. 사람들에게 베푸신 주의 놀라운 구원을 감사하여라.",
     Chn:"但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他；",
     Eng:"Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,",
     Ind:"Biarlah mereka bersyukur kepada TUHAN karena kasih setia-Nya, karena perbuatan-perbuatan-Nya yang ajaib terhadap anak-anak manusia,"
   },
   {Bible:"Psalms", Chapter:107, Verse:9, Page:1,
-    Kor:"주님께서는 목마른 사람에게 물을 실컷 마시게 하시고, 배고픈 사람에게 좋은 음식을 마음껏 먹게 해주셨다.",
+    Kor:"주께서는 목마른 사람에게 물을 실컷 마시게 하시고, 배고픈 사람에게 좋은 음식을 마음껏 먹게 해주셨다.",
     Chn:"因他使心里渴慕的人得以知足， 使心里饥饿的人得饱美物。",
     Eng:"for he satisfies the thirsty and fills the hungry with good things.",
     Ind:"sebab dipuaskan-Nya jiwa yang dahaga, dan jiwa yang lapar dikenyangkan-Nya dengan kebaikan."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Karena mereka memberontak terhadap perintah-perintah Allah, dan menista nasihat Yang Mahatinggi,"
   },
   {Bible:"Psalms", Chapter:107, Verse:12, Page:1,
-    Kor:"그러므로 주님께서는 그들의 마음에 고통을 주셔서 그들을 낮추셨으니, 그들이 비틀거려도 돕는 사람이 없었다.",
+    Kor:"그러므로 주께서는 그들의 마음에 고통을 주셔서 그들을 낮추셨으니, 그들이 비틀거려도 돕는 이가 없었다.",
     Chn:"所以，他用劳苦治服他们的心； 他们仆倒，无人扶助。",
     Eng:"So he subjected them to bitter labor; they stumbled, and there was no one to help.",
     Ind:"maka ditundukkan-Nya hati mereka ke dalam kesusahan, mereka tergelincir, dan tidak ada yang menolong."
   },
   {Bible:"Psalms", Chapter:107, Verse:13, Page:1,
-    Kor:"그러나 그들이 고난 가운데서 주님께 부르짖을 때에, 그들을 그 곤경에서 구원해 주셨다.",
+    Kor:"그러나 그들이 고난 가운데서 주께 부르짖을 때에, 그들을 그 곤경에서 구원해 주셨다.",
     Chn:"于是，他们在苦难中哀求耶和华； 他从他们的祸患中拯救他们。",
     Eng:"Then they cried to the LORD in their trouble, and he saved them from their distress.",
     Ind:"Maka berseru-serulah mereka kepada TUHAN dalam kesesakan mereka, dan diselamatkan-Nyalah mereka dari kecemasan mereka,"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"dibawa-Nya mereka keluar dari dalam gelap dan kelam, dan diputuskan-Nya belenggu-belenggu mereka."
   },
   {Bible:"Psalms", Chapter:107, Verse:15, Page:1,
-    Kor:"주님의 인자하심을 감사하여라. 사람에게 베푸신 주님의 놀라운 구원을 감사하여라.",
+    Kor:"주의 인자하심을 감사하여라. 사람에게 베푸신 주의 놀라운 구원을 감사하여라.",
     Chn:"但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他；",
     Eng:"Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men,",
     Ind:"Biarlah mereka bersyukur kepada TUHAN karena kasih setia-Nya, karena perbuatan-perbuatan-Nya yang ajaib terhadap anak-anak manusia,"
   },
   {Bible:"Psalms", Chapter:107, Verse:16, Page:1,
-    Kor:"주님께서 놋대문을 부수시고, 쇠빗장을 깨뜨리셨기 때문이다.",
+    Kor:"주께서 놋대문을 부수시고, 쇠빗장을 깨뜨리셨기 때문이다.",
     Chn:"因为他打破了铜门， 砍断了铁闩。",
     Eng:"for he breaks down gates of bronze and cuts through bars of iron.",
     Ind:"sebab dipecahkan-Nya pintu-pintu tembaga, dan dihancurkan-Nya palang-palang pintu besi."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"mereka muak terhadap segala makanan dan mereka sudah sampai pada pintu gerbang maut."
   },
   {Bible:"Psalms", Chapter:107, Verse:19, Page:1,
-    Kor:"그 때에 그들이 고난 가운데서 주님께 부르짖으니, 주님께서 그들을 곤경에서 구원해 주셨다.",
+    Kor:"그 때에 그들이 고난 가운데서 주님께 부르짖으니, 주께서 그들을 곤경에서 구원해 주셨다.",
     Chn:"于是，他们在苦难中哀求耶和华； 他从他们的祸患中拯救他们。",
     Eng:"Then they cried to the LORD in their trouble, and he saved them from their distress.",
     Ind:"Maka berseru-serulah mereka kepada TUHAN dalam kesesakan mereka, dan diselamatkan-Nya mereka dari kecemasan mereka,"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"disampaikan-Nya firman-Nya dan disembuhkan-Nya mereka, diluputkan-Nya mereka dari liang kubur."
   },
   {Bible:"Psalms", Chapter:107, Verse:21, Page:1,
-    Kor:"주님의 인자하심을 감사하여라. 사람에게 베푸신 주님의 놀라운 구원을 감사하여라.",
+    Kor:"주의 인자하심을 감사하여라. 사람에게 베푸신 주의 놀라운 구원을 감사하여라.",
     Chn:"但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他。",
     Eng:"Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men.",
     Ind:"Biarlah mereka bersyukur kepada TUHAN karena kasih setia-Nya, karena perbuatan-perbuatan-Nya yang ajaib terhadap anak-anak manusia."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Biarlah mereka mempersembahkan korban syukur, dan menceritakan pekerjaan-pekerjaan-Nya dengan sorak-sorai!"
   },
   {Bible:"Psalms", Chapter:107, Verse:23, Page:1,
-    Kor:"배를 타고 바다로 내려가서, 큰 물을 헤쳐 가면서 장사하는 사람들은,",
+    Kor:"그들이 배를 타고 바다로 내려가서, 큰 물을 헤쳐 가면서 영업을 할 때에,",
     Chn:"在海上坐船， 在大水中经理事务的，",
     Eng:"Others went out on the sea in ships; they were merchants on the mighty waters.",
     Ind:"Ada orang-orang yang mengarungi laut dengan kapal-kapal, yang melakukan perdagangan di lautan luas;"
   },
   {Bible:"Psalms", Chapter:107, Verse:24, Page:1,
-    Kor:"주님께서 하신 행사를 보고, 깊은 바다에서 일으키신 놀라운 기적을 본다.",
+    Kor:"그들은, 주께서 하신 행사를 보고, 깊은 바다에서 일으키신 기사를 본다.",
     Chn:"他们看见耶和华的作为， 并他在深水中的奇事。",
     Eng:"They saw the works of the LORD, his wonderful deeds in the deep.",
     Ind:"mereka melihat pekerjaan-pekerjaan TUHAN, dan perbuatan-perbuatan-Nya yang ajaib di tempat yang dalam."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Ia berfirman, maka dibangkitkan-Nya angin badai yang meninggikan gelombang-gelombangnya."
   },
   {Bible:"Psalms", Chapter:107, Verse:26, Page:1,
-    Kor:"배들은 하늘 높이 떠올랐다가 깊은 바다로 떨어진다. 그런 위기에서 그들은 얼이 빠지고 간담이 녹는다.",
+    Kor:"배들은 하늘 높이 떠올랐다가 바다 깊이 잠긴다. 그런 위기에서 사람들은 얼이 빠지고 간담이 녹는다.",
     Chn:"他们上到天空，下到海底； 他们的心因患难便消化。",
     Eng:"They mounted up to the heavens and went down to the depths; in their peril their courage melted away.",
     Ind:"Mereka naik sampai ke langit dan turun ke samudera raya, jiwa mereka hancur karena celaka;"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Mereka bersukacita, sebab semuanya reda, dan dituntun-Nya mereka ke pelabuhan kesukaan mereka."
   },
   {Bible:"Psalms", Chapter:107, Verse:31, Page:1,
-    Kor:"주님의 인자하심을 감사하여라. 사람에게 베푸신 주님의 놀라운 구원을 감사하여라.",
+    Kor:"주의 인자하심을 감사하여라. 사람에게 베푸신 주의 놀라운 구원을 감사하여라.",
     Chn:"但愿人因耶和华的慈爱 和他向人所行的奇事都称赞他。",
     Eng:"Let them give thanks to the LORD for his unfailing love and his wonderful deeds for men.",
     Ind:"Biarlah mereka bersyukur kepada TUHAN karena kasih setia-Nya, karena perbuatan-perbuatan-Nya yang ajaib terhadap anak-anak manusia."
@@ -195,19 +195,19 @@ BibleDB.add([
     Ind:"Biarlah mereka meninggikan Dia dalam jemaat umat itu, dan memuji-muji Dia dalam majelis para tua-tua."
   },
   {Bible:"Psalms", Chapter:107, Verse:33, Page:1,
-    Kor:"주님께서는 강들을 사막으로 만드시며, 물이 솟는 샘들을 마른 땅이 되게 하시며,",
+    Kor:"주께서는 강들을 사막으로 만드시며, 물이 솟는 샘들을 마른 땅이 되게 하시며,",
     Chn:"他使江河变为旷野， 叫水泉变为干渴之地，",
     Eng:"He turned rivers into a desert, flowing springs into thirsty ground,",
     Ind:"Dibuat-Nya sungai-sungai menjadi padang gurun, dan pancaran-pancaran air menjadi tanah gersang,"
   },
   {Bible:"Psalms", Chapter:107, Verse:34, Page:1,
-    Kor:"그 곳에서 사는 사람들의 죄악 때문에, 옥토를 소금밭이 되게 하신다.",
+    Kor:"그 곳에서 사는 사람들의 죄악 때문에, 기름진 땅을 소금밭이 되게 하시며,",
     Chn:"使肥地变为硷地； 这都因其间居民的罪恶。",
     Eng:"and fruitful land into a salt waste, because of the wickedness of those who lived there.",
     Ind:"tanah yang subur menjadi padang asin, oleh sebab kejahatan orang-orang yang diam di dalamnya."
   },
   {Bible:"Psalms", Chapter:107, Verse:35, Page:1,
-    Kor:"그러나 주님께서는 사막을 연못으로 만드시며, 마른 땅을 물이 솟는 샘으로 만드시고,",
+    Kor:"사막을 연못으로 만드시며, 마른 땅을 물이 솟는 샘으로 만드시고,",
     Chn:"他使旷野变为水潭， 叫旱地变为水泉。",
     Eng:"He turned the desert into pools of water and the parched ground into flowing springs;",
     Ind:"Dibuat-Nya padang gurun menjadi kolam air, dan tanah kering menjadi pancaran-pancaran air."
@@ -231,31 +231,31 @@ BibleDB.add([
     Ind:"Diberkati-Nya mereka sehingga mereka bertambah banyak dengan sangat, dan hewan-hewan mereka tidak dibuat-Nya berkurang."
   },
   {Bible:"Psalms", Chapter:107, Verse:39, Page:1,
-    Kor:"그들이 억압과 고난과 걱정 근심 때문에 수가 줄어들고 비천해질 때에,",
+    Kor:"그들이 압박과 고난과 우환 때문에 수가 줄어들고 비천해질 때에,",
     Chn:"他们又因暴虐、患难、愁苦， 就减少且卑下。",
     Eng:"Then their numbers decreased, and they were humbled by oppression, calamity and sorrow;",
     Ind:"Tetapi mereka menjadi berkurang dan membungkuk oleh sebab tekanan celaka dan duka."
   },
   {Bible:"Psalms", Chapter:107, Verse:40, Page:1,
-    Kor:"주님께서는 높은 자들에게 능욕을 부으시고, 그들을 길 없는 황무지에서 헤매게 하셨지만,",
+    Kor:"주께서는 고관들에게 능욕을 부으시고, 그들을 길 없는 황무지에서 헤매게 하셨지만,",
     Chn:"他使君王蒙羞被辱， 使他们在荒废无路之地漂流。",
     Eng:"he who pours contempt on nobles made them wander in a trackless waste.",
     Ind:"Ditumpahkan-Nya kehinaan ke atas orang-orang terkemuka, dan dibuat-Nya mereka mengembara di padang tandus yang tiada jalan;"
   },
   {Bible:"Psalms", Chapter:107, Verse:41, Page:1,
-    Kor:"가난한 사람은 그 고달픔에서 벗어나게 해주시고, 그 가족을 양 떼처럼 번성하게 하셨다.",
+    Kor:"가난한 사람은 고난에서 이기게 해주시고, 그 가족을 양 떼처럼 지켜 주셨다.",
     Chn:"他却将穷乏人安置在高处，脱离苦难， 使他的家属多如羊群。",
     Eng:"But he lifted the needy out of their affliction and increased their families like flocks.",
     Ind:"tetapi orang miskin dibentengi-Nya terhadap penindasan, dan dibuat-Nya kaum-kaum mereka seperti kawanan domba banyaknya."
   },
   {Bible:"Psalms", Chapter:107, Verse:42, Page:1,
-    Kor:"정직한 사람은 이것을 보고 즐거워하고, 사악한 사람은 말문이 막힐 것이다.",
+    Kor:"정직한 사람은 이것을 보고 즐거워하고, 사악한 사람은 입을 열지 말 일이다.",
     Chn:"正直人看见就欢喜； 罪孽之辈必塞口无言。",
     Eng:"The upright see and rejoice, but all the wicked shut their mouths.",
     Ind:"Orang-orang benar melihatnya, lalu bersukacita, tetapi segala kecurangan tutup mulut."
   },
   {Bible:"Psalms", Chapter:107, Verse:43, Page:1,
-    Kor:"지혜 있는 사람이 누구냐? 이 일들을 명심하고, 주님의 인자하심을 깨달아라.",
+    Kor:"지혜 있는 사람이 누구냐? 이 일들을 명심하고, 주의 인자하심을 깨달아라.",
     Chn:"凡有智慧的，必在这些事上留心， 也必思想耶和华的慈爱。",
     Eng:"Whoever is wise, let him heed these things and consider the great love of the LORD.",
     Ind:"Siapa yang mempunyai hikmat? Biarlah ia berpegang pada semuanya ini, dan memperhatikan segala kemurahan TUHAN."

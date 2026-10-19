@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",149,9);
 BibleDB.add([
   {Bible:"Psalms", Chapter:149, Verse:1, Page:1,
-    Kor:"<새 노래로 찬양하여라> a할렐루야. 새 노래로 주님께 노래하며, 성도의 회중 앞에서 찬양하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 새 노래로 주님께 노래하며, 성도의 회중 앞에서 찬양하여라.",
     Chn:"你们要赞美耶和华！ 向耶和华唱新歌， 在圣民的会中赞美他！",
     Eng:"Praise the LORD. Sing to the LORD a new song, his praise in the assembly of the saints.",
     Ind:"Haleluya! Nyanyikanlah bagi TUHAN nyanyian baru! Pujilah Dia dalam jemaah orang-orang saleh."
   },
   {Bible:"Psalms", Chapter:149, Verse:2, Page:1,
-    Kor:"이스라엘아, 창조주를 모시고 기뻐하여라. 시온의 주민아, 너희의 임금님을 모시고 큰소리로 즐거워하여라.",
+    Kor:"이스라엘아, 창조주를 모시고 기뻐하여라. 시온의 주민아, 너희의 왕을 뵙고 큰소리로 즐거워하여라.",
     Chn:"愿以色列因造他的主欢喜！ 愿锡安的民因他们的王快乐！",
     Eng:"Let Israel rejoice in their Maker; let the people of Zion be glad in their King.",
     Ind:"Biarlah Israel bersukacita atas Yang menjadikannya, biarlah bani Sion bersorak-sorak atas raja mereka!"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Biarlah mereka memuji-muji nama-Nya dengan tari-tarian, biarlah mereka bermazmur kepada-Nya dengan rebana dan kecapi!"
   },
   {Bible:"Psalms", Chapter:149, Verse:4, Page:1,
-    Kor:"주님께서 당신의 백성을 보시고 기뻐하신다. 눌림받는 약한 사람에게 승리의 영광을 안겨 주신다.",
+    Kor:"주께서 당신의 백성을 보시고 기뻐하신다. 눌림받는 약한 사람에게 승리의 영광을 안겨 주신다.",
     Chn:"因为耶和华喜爱他的百姓； 他要用救恩当作谦卑人的妆饰。",
     Eng:"For the LORD takes delight in his people; he crowns the humble with salvation.",
     Ind:"Sebab TUHAN berkenan kepada umat-Nya, Ia memahkotai orang-orang yang rendah hati dengan keselamatan."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"untuk membelenggu raja-raja mereka dengan rantai, dan orang-orang mereka yang mulia dengan tali-tali besi,"
   },
   {Bible:"Psalms", Chapter:149, Verse:9, Page:1,
-    Kor:"기록된 판결문대로 처형할 것이니, 이 영광은 모든 성도들의 것이다. a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"기록된 판결문대로 처형할 것이니, 이 영광은 모든 성도들의 것이다. 할렐루야.",
     Chn:"要在他们身上施行所记录的审判。 他的圣民都有这荣耀。 你们要赞美耶和华！",
     Eng:"to carry out the sentence written against them. This is the glory of all his saints. Praise the LORD.",
     Ind:"untuk melaksanakan terhadap mereka hukuman seperti yang tertulis. Itulah semarak bagi semua orang yang dikasihi-Nya. Haleluya!"

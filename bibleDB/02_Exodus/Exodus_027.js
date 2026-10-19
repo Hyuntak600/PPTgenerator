@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",27,21);
 BibleDB.add([
   {Bible:"Exodus", Chapter:27, Verse:1, Page:1,
-    Kor:"<제단(출 38:1-7)> \"아카시아 나무로 제단을 만들어라. 그 제단은 길이가 다섯 자요 너비가 다섯 자인 네모난 모양으로 만들고, 그 높이는 석 자로 하여라.",
+    Kor:"아카시아 나무로 제단을 만들어라. 그 제단은 길이가 다섯 자요, 너비가 다섯 자인, 네모난 모양으로 만들고, 그 높이는 석 자로 하여라.",
     Chn:"「你要用皂荚木做坛。这坛要四方的，长五肘，宽五肘，高三肘。",
     Eng:"\"Build an altar of acacia wood, three cubits high; it is to be square, five cubits long and five cubits wide.",
     Ind:"\"Haruslah engkau membuat mezbah dari kayu penaga, lima hasta panjangnya dan lima hasta lebarnya, sehingga mezbah itu empat persegi, tetapi tiga hasta tingginya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Kayu-kayu pengusungnya itu haruslah dimasukkan ke dalam gelang-gelang itu dan kayu-kayu pengusung itu haruslah ada pada kedua rusuk mezbah itu waktu mezbah itu diangkut."
   },
   {Bible:"Exodus", Chapter:27, Verse:8, Page:1,
-    Kor:"제단은 널빤지로 속이 비게 만들되, 내가 이 산에서 너에게 보여 준 그대로 만들어야 한다.\"",
+    Kor:"제단은 널빤지로 속이 비게 만들되, 내가 이 산에서 너에게 보여 준 그대로 만들어야 한다.",
     Chn:"要用板做坛，坛是空的，都照着在山上指示你的样式做。」",
     Eng:"Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain.",
     Ind:"Mezbah itu harus kaubuat berongga dan dari papan, seperti yang ditunjukkan kepadamu di atas gunung itu, demikianlah harus dibuat mezbah itu.\""
   },
   {Bible:"Exodus", Chapter:27, Verse:9, Page:1,
-    Kor:"<성막 뜰 울타리(출 38:9-20)> ○\"성막 뜰을 두르는 울타리를 만들어라. 가는 실로 짠 모시 휘장으로 울타리를 두르도록 하여라. 남쪽 휘장은 길이가 백 자가 되게 하여라.",
+    Kor:"○성막 뜰을 두르는 울타리를 만들어라. 가는 실로 짠 모시 휘장으로 울타리를 두르도록 하여라. 남쪽 휘장은 길이가 백 자가 되게 하여라.",
     Chn:"「你要做帐幕的院子。院子的南面要用捻的细麻做帷子，长一百肘。",
     Eng:"\"Make a courtyard for the tabernacle. The south side shall be a hundred cubits long and is to have curtains of finely twisted linen,",
     Ind:"\"Haruslah engkau membuat pelataran Kemah Suci; untuk pelataran itu pada sebelah selatan harus dibuat layar dari lenan halus yang dipintal benangnya, seratus hasta panjangnya pada sisi yang satu itu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"dan juga untuk sisi yang kedua di samping pintu gerbang itu lima belas hasta layar, dengan tiga tiangnya dan tiga alas tiang itu;"
   },
   {Bible:"Exodus", Chapter:27, Verse:16, Page:1,
-    Kor:"동쪽 울타리의 정문에 칠 막은, 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 수를 놓아 짠 것으로, 그 길이가 스무 자가 되는 막을 만들어서 치되, 밑받침 넷을 놓고 그 위에 기둥 넷을 세운 다음에 그것을 쳐라.",
+    Kor:"동쪽 울타리의 정문에 칠 막은, 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 수를 놓아 짠 것으로, 그 길이가 스무 자가 되는 막을 만들어서 치되, 밑받침 넷을 놓고 그 위에 기둥 넷을 세운 다음, 그것을 쳐라.",
     Chn:"院子的门当有帘子，长二十肘，要拿蓝色、紫色、朱红色线，和捻的细麻，用绣花的手工织成，柱子四根，带卯的座四个。",
     Eng:"\"For the entrance to the courtyard, provide a curtain twenty cubits long, of blue, purple and scarlet yarn and finely twisted linen--the work of an embroiderer--with four posts and four bases.",
     Ind:"tetapi untuk pintu gerbang pelataran itu tirai dua puluh hasta dari kain ungu tua dan kain ungu muda, kain kirmizi dan dari lenan halus yang dipintal benangnya--tenunan yang berwarna-warna--dengan empat tiangnya dan empat alas tiang itu."
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Panjang pelataran itu harus seratus hasta, lebarnya lima puluh hasta dan tingginya lima hasta, dari lenan halus yang dipintal benangnya, dan alas-alasnya harus dari tembaga."
   },
   {Bible:"Exodus", Chapter:27, Verse:19, Page:1,
-    Kor:"성막에서 각종 제사에 쓰는 기구와 성막의 말뚝과 울타리의 말뚝은 모두 놋쇠로 만들어야 한다.\"",
+    Kor:"성막에서 각종 제사에 쓰는 기구와 성막의 말뚝과 울타리의 말뚝은 모두 놋쇠로 만들어야 한다.",
     Chn:"帐幕各样用处的器具，并帐幕一切的橛子，和院子里一切的橛子，都要用铜做。」",
     Eng:"All the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze.",
     Ind:"Adapun segala perabotan untuk seluruh perlengkapan Kemah Suci, dan juga segala patoknya dan segala patok pelataran: semuanya harus dari tembaga.\""
   },
   {Bible:"Exodus", Chapter:27, Verse:20, Page:1,
-    Kor:"<등불 관리(레 24:1-d> ○\"너는 이스라엘 자손에게 명하여, 올리브를 찧어서 짜낸 깨끗한 기름을 가져다가 등불을 켜게 하되, 그 등불은 늘 켜 두어라.",
+    Kor:"○너는 이스라엘 자손에게 명하여, 올리브를 찧어서 짜낸 깨끗한 기름을 가져다가 등불을 켜게 하되, 그 등불은 늘 켜 두어라.",
     Chn:"「你要吩咐以色列人，把那为点灯捣成的清橄榄油拿来给你，使灯常常点着。",
     Eng:"\"Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning.",
     Ind:"\"Haruslah kauperintahkan kepada orang Israel, supaya mereka membawa kepadamu minyak zaitun tumbuk yang murni untuk lampu, supaya orang dapat memasang lampu agar tetap menyala."
   },
   {Bible:"Exodus", Chapter:27, Verse:21, Page:1,
-    Kor:"아론과 그 아들들은 그것을 회막 안의 a증거궤 앞에 쳐놓은 휘장 밖에 켜 두어서, 저녁부터 아침까지 주 앞에서 꺼지지 않도록 보살펴야 한다. 이것은 이스라엘 자손이 대대로 길이 지켜야 할 규례이다.\"(a 또는 '법궤')",
+    Kor:"아론과 그 아들들은 그것을 회막 안의 증거궤 앞에 쳐놓은 휘장 밖에 켜 두어서, 저녁부터 아침까지 주 앞에서 꺼지지 않도록 보살펴야 한다. 이것은, 이스라엘 자손이 대대로 길이 지켜야 할 규례이다.",
     Chn:"在会幕中法柜前的幔外，亚伦和他的儿子，从晚上到早晨，要在耶和华面前经理这灯。这要作以色列人世世代代永远的定例。」",
     Eng:"In the Tent of Meeting, outside the curtain that is in front of the Testimony, Aaron and his sons are to keep the lamps burning before the LORD from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come.",
     Ind:"Di dalam Kemah Pertemuan di depan tabir yang menutupi tabut hukum, haruslah Harun dan anak-anaknya mengaturnya dari petang sampai pagi di hadapan TUHAN. Itulah suatu ketetapan yang berlaku untuk selama-lamanya bagi orang Israel turun-temurun.\""

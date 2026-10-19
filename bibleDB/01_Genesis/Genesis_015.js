@@ -3,43 +3,43 @@
 BibleDB.ref("Genesis",15,21);
 BibleDB.add([
   {Bible:"Genesis", Chapter:15, Verse:1, Page:1,
-    Kor:"<하나님이 아브람과 언약을 맺으시다> 이런 일들이 일어난 뒤에, 주님께서 환상 가운데 아브람에게 말씀하셨다. \"아브람아, 두려워하지 말아라. 나는 너의 방패다. 네가 받을 보상이 매우 크다.\"",
+    Kor:"이런 일들이 일어난 뒤에, 주께서 환상 가운데 아브람에게 말씀하셨다. \"아브람아, 두려워하지 말아라. 나는 너의 방패다. 네가 받을 보상이 매우 크다.\"",
     Chn:"这事以后，耶和华在异象中有话对亚伯兰说：「亚伯兰，你不要惧怕！我是你的盾牌，必大大地赏赐你。」",
     Eng:"After this, the word of the LORD came to Abram in a vision: \"Do not be afraid, Abram. I am  your shield, your very great reward.\"",
     Ind:"Kemudian datanglah firman TUHAN kepada Abram dalam suatu penglihatan: \"Janganlah takut, Abram, Akulah perisaimu; upahmu akan sangat besar.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:2, Page:1,
-    Kor:"아브람이 여쭈었다. \"주 나의 하나님, 주님께서는 저에게 무엇을 주시렵니까? 저에게는 자식이 아직 없습니다. 저의 재산을 상속받을 자식이라고는 다마스쿠스 녀석 엘리에셀뿐입니다.",
+    Kor:"아브람이 여쭈었다. \"주 나의 하나님, 주께서는 저에게 무엇을 주시렵니까? 저에게는 자식이 아직 없습니다. 저의 재산을 상속받을 자식이라고는 다마스쿠스 녀석 엘리에셀뿐입니다.",
     Chn:"亚伯兰说：「主耶和华啊，我既无子，你还赐我什么呢？并且要承受我家业的是大马士革人以利以谢。」",
     Eng:"But Abram said, \"O Sovereign LORD, what can you give me since I remain childless and the one  who will inherit my estate is Eliezer of Damascus?\"",
     Ind:"Abram menjawab: \"Ya Tuhan ALLAH, apakah yang akan Engkau berikan kepadaku, karena aku akan meninggal dengan tidak mempunyai anak, dan yang akan mewarisi rumahku ialah Eliezer, orang Damsyik itu.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:3, Page:1,
-    Kor:"주님께서 저에게 자식을 주지 않으셨으니, 이제, 저의 집에 있는 이 종이 저의 상속자가 될 것입니다.\" 아브람이 이렇게 말씀드리니,",
+    Kor:"주께서 저에게 자식을 주지 않으셨으니, 이제, 저의 집에 있는 이 종이 저의 상속자가 될 것입니다.\" 아브람이 이렇게 말씀드리니,",
     Chn:"亚伯兰又说：「你没有给我儿子；那生在我家中的人就是我的后嗣。」",
     Eng:"And Abram said, \"You have given me no children; so a servant in my household will be my  heir.\"",
     Ind:"Lagi kata Abram: \"Engkau tidak memberikan kepadaku keturunan, sehingga seorang hambaku nanti menjadi ahli warisku.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:4, Page:1,
-    Kor:"주님께서 그에게 말씀하셨다. \"그 아이는 너의 상속자가 아니다. 너의 몸에서 태어날 아들이 너의 상속자가 될 것이다.\"",
+    Kor:"주께서 그에게 말씀하셨다. \"그 아이는 너의 상속자가 아니다. 너의 몸에서 태어날 아들이 너의 상속자가 될 것이다.\"",
     Chn:"耶和华又有话对他说：「这人必不成为你的后嗣；你本身所生的才成为你的后嗣。」",
     Eng:"Then the word of the LORD came to him: \"This man will not be your heir, but a son coming  from your own body will be your heir.\"",
     Ind:"Tetapi datanglah firman TUHAN kepadanya, demikian: \"Orang ini tidak akan menjadi ahli warismu, melainkan anak kandungmu, dialah yang akan menjadi ahli warismu.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:5, Page:1,
-    Kor:"주님께서 아브람을 데리고 바깥으로 나가서 말씀하셨다. \"하늘을 쳐다보아라. 네가 셀 수 있거든, 저 별들을 세어 보아라.\" 그리고는 주님께서 아브람에게 말씀하셨다. \"너의 자손이 저 별처럼 많아질 것이다.\"",
+    Kor:"주께서 아브람을 데리고 바깥으로 나가서 말씀하셨다. \"하늘을 쳐다보아라, 네가 셀 수 있거든, 저 별들을 세어 보아라.\" 그리고는, 주께서 아브람에게 말씀하셨다. \"너의 자손이 저 별처럼 많아질 것이다.\"",
     Chn:"于是领他走到外边，说：「你向天观看，数算众星，能数得过来吗？」又对他说：「你的后裔将要如此。」",
     Eng:"He took him outside and said, \"Look up at the heavens and count the stars--if indeed you can  count them.\" Then he said to him, \"So shall your offspring be.\"",
     Ind:"Lalu TUHAN membawa Abram ke luar serta berfirman: \"Coba lihat ke langit, hitunglah bintang-bintang, jika engkau dapat menghitungnya.\" Maka firman-Nya kepadanya: \"Demikianlah banyaknya nanti keturunanmu.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:6, Page:1,
-    Kor:"아브람이 주님을 믿으니, 주님께서는 아브람의 그런 믿음을 의로 여기셨다.",
+    Kor:"아브람이 주를 믿으니, 주께서는 아브람의 그런 믿음을 의로 여기셨다.",
     Chn:"亚伯兰信耶和华，耶和华就以此为他的义。",
     Eng:"Abram believed the LORD, and he credited it to him as righteousness.",
     Ind:"Lalu percayalah Abram kepada TUHAN, maka TUHAN memperhitungkan hal itu kepadanya sebagai kebenaran."
   },
   {Bible:"Genesis", Chapter:15, Verse:7, Page:1,
-    Kor:"○하나님이 아브람에게 말씀하셨다. \"나는 주다. 너에게 이 땅을 주어서 너의 소유가 되게 하려고, 너를 a바빌로니아의 우르에서 이끌어 내었다.\"(a 또는 '갈대아')",
+    Kor:"○하나님이 아브람에게 말씀하셨다. \"나는 주님이다. 너에게 이 땅을 주어서 너의 소유가 되게 하려고, 너를 바빌로니아의 우르에서 이끌어 내었다.\"",
     Chn:"耶和华又对他说：「我是耶和华，曾领你出了迦勒底的吾珥，为要将这地赐你为业。」",
     Eng:"He also said to him, \"I am the LORD, who brought you out of Ur of the Chaldeans to give you  this land to take possession of it.\"",
     Ind:"Lagi firman TUHAN kepadanya: \"Akulah TUHAN, yang membawa engkau keluar dari Ur-Kasdim untuk memberikan negeri ini kepadamu menjadi milikmu.\""
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Kata Abram: \"Ya Tuhan ALLAH, dari manakah aku tahu, bahwa aku akan memilikinya?\""
   },
   {Bible:"Genesis", Chapter:15, Verse:9, Page:1,
-    Kor:"주님께서 말씀하셨다. \"나에게 삼 년 된 암송아지 한 마리와 삼 년 된 암염소 한 마리와 삼 년 된 숫양 한 마리와 산비둘기 한 마리와 집비둘기 한 마리씩을 가지고 오너라.\"",
+    Kor:"주께서 말씀하셨다. \"나에게 삼 년 된 암송아지 한 마리와 삼 년 된 암염소 한 마리와 삼 년 된 숫양 한 마리와 산비둘기 한 마리와 집비둘기 한 마리씩을 가지고 오너라.\"",
     Chn:"他说：「你为我取一只三年的母牛，一只三年的母山羊，一只三年的公绵羊，一只斑鸠，一只雏鸽。」",
     Eng:"So the LORD said to him, \"Bring me a heifer, a goat and a ram, each three years old, along  with a dove and a young pigeon.\"",
     Ind:"Firman TUHAN kepadanya: \"Ambillah bagi-Ku seekor lembu betina berumur tiga tahun, seekor kambing betina berumur tiga tahun, seekor domba jantan berumur tiga tahun, seekor burung tekukur dan seekor anak burung merpati.\""
   },
   {Bible:"Genesis", Chapter:15, Verse:10, Page:1,
-    Kor:"아브람이 이 모든 희생제물을 주님께 가지고 가서, 몸통 가운데를 쪼개어, 서로 마주 보게 차려 놓았다. 그러나 비둘기는 반으로 쪼개지 않았다.",
+    Kor:"아브람이 이 모든 희생제물을 주께 가지고 가서, 몸통 가운데를 쪼개어, 서로 마주 보게 차려 놓았다. 그러나 비둘기는 반으로 쪼개지 않았다.",
     Chn:"亚伯兰就取了这些来，每样劈开，分成两半，一半对着一半地摆列，只有鸟没有劈开。",
     Eng:"Abram brought all these to him, cut them in two and arranged the halves opposite each  other; the birds, however, he did not cut in half.",
     Ind:"Diambilnyalah semuanya itu bagi TUHAN, dipotong dua, lalu diletakkannya bagian-bagian itu yang satu di samping yang lain, tetapi burung-burung itu tidak dipotong dua."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Menjelang matahari terbenam, tertidurlah Abram dengan nyenyak. Lalu turunlah meliputinya gelap gulita yang mengerikan."
   },
   {Bible:"Genesis", Chapter:15, Verse:13, Page:1,
-    Kor:"주님께서 아브람에게 말씀하셨다. \"너는 똑똑히 알고 있거라. 너의 자손이 다른 나라에서 나그네살이를 하다가, 마침내 종이 되어서, 사백 년 동안 괴로움을 받을 것이다.",
+    Kor:"주께서 아브람에게 말씀하셨다. \"너는 똑똑히 알고 있거라. 너의 자손이 다른 나라에서 나그네살이를 하다가, 마침내 종이 되어서, 사백 년 동안 괴로움을 받을 것이다.",
     Chn:"耶和华对亚伯兰说：「你要的确知道，你的后裔必寄居别人的地，又服事那地的人；那地的人要苦待他们四百年。",
     Eng:"Then the LORD said to him, \"Know for certain that your descendants will be strangers in a  country not their own, and they will be enslaved and mistreated four hundred years.",
     Ind:"Firman TUHAN kepada Abram: \"Ketahuilah dengan sesungguhnya bahwa keturunanmu akan menjadi orang asing dalam suatu negeri, yang bukan kepunyaan mereka, dan bahwa mereka akan diperbudak dan dianiaya, empat ratus tahun lamanya."
   },
   {Bible:"Genesis", Chapter:15, Verse:14, Page:1,
-    Kor:"그러나 너의 자손을 종살이하게 한 그 나라를 내가 반드시 벌할 것이며, 그 다음에 너의 자손이 재물을 많이 가지고 나올 것이다.",
+    Kor:"그러나 너의 자손을 종살이하게 한 그 나라를, 내가 반드시 벌할 것이며, 그 다음에, 너의 자손이 재물을 많이 가지고 나올 것이다.",
     Chn:"并且他们所要服事的那国，我要惩罚，后来他们必带着许多财物从那里出来。",
     Eng:"But I will punish the nation they serve as slaves, and afterward they will come out with  great possessions.",
     Ind:"Tetapi bangsa yang akan memperbudak mereka, akan Kuhukum, dan sesudah itu mereka akan keluar dengan membawa harta benda yang banyak."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi engkau akan pergi kepada nenek moyangmu dengan sejahtera; engkau akan dikuburkan pada waktu telah putih rambutmu."
   },
   {Bible:"Genesis", Chapter:15, Verse:16, Page:1,
-    Kor:"너의 자손은 사 대째가 되어서야 이 땅으로 돌아올 것이다. 아모리 사람들의 죄가 아직 벌을 받을 만큼 이르지는 않았기 때문이다.\"",
+    Kor:"너의 자손은, 사 대째가 되어서야 이 땅으로 돌아올 것이다. 아모리 사람들의 죄가 아직 벌을 받을 만큼 이르지는 않았기 때문이다.\"",
     Chn:"到了第四代，他们必回到此地，因为亚摩利人的罪孽还没有满盈。」",
     Eng:"In the fourth generation your descendants will come back here, for the sin of the Amorites  has not yet reached its full measure.\"",
     Ind:"Tetapi keturunan yang keempat akan kembali ke sini, sebab sebelum itu kedurjanaan orang Amori itu belum genap.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Ketika matahari telah terbenam, dan hari menjadi gelap, maka kelihatanlah perapian yang berasap beserta suluh yang berapi lewat di antara potongan-potongan daging itu."
   },
   {Bible:"Genesis", Chapter:15, Verse:18, Page:1,
-    Kor:"바로 그 날, 주님께서 아브람과 언약을 세우시고 말씀하셨다. \"내가 이 땅을, 이집트 강에서 큰 강 유프라테스에 이르기까지를 너의 자손에게 준다.",
+    Kor:"바로 그 날, 주께서 아브람과 언약을 세우시고 말씀하셨다. \"내가 이 땅을, 이집트 강에서 큰 강 유프라테스에 이르기까지를 너의 자손에게 준다.",
     Chn:"当那日，耶和华与亚伯兰立约，说：「我已赐给你的后裔，从埃及河直到幼发拉底大河之地，",
     Eng:"On that day the LORD made a covenant with Abram and said, \"To your descendants I give this  land, from the river of Egypt to the great river, the Euphrates--",
     Ind:"Pada hari itulah TUHAN mengadakan perjanjian dengan Abram serta berfirman: \"Kepada keturunanmulah Kuberikan negeri ini, mulai dari sungai Mesir sampai ke sungai yang besar itu, sungai Efrat:"

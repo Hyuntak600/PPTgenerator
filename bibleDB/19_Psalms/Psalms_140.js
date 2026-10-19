@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",140,13);
 BibleDB.add([
   {Bible:"Psalms", Chapter:140, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 부르는 다윗의 노래> 주님, 악인에게서 나를 건져 주시고, 포악한 자에게서 나를 보호하여 주십시오.",
+    Kor:"주님, 악인에게서 나를 건져 주시고, 폭력을 휘두르는 사람에게서 나를 보호하여 주십시오.",
     Chn:"大卫的诗，交与伶长。 耶和华啊，求你拯救我脱离凶恶的人， 保护我脱离强暴的人！",
     Eng:"Rescue me, O LORD, from evil men; protect me from men of violence,",
     Ind:"Untuk pemimpin biduan. Mazmur Daud. (140-2) Luputkanlah aku, ya TUHAN, dari pada manusia jahat, jagalah aku terhadap orang yang melakukan kekerasan,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"(140-4) Mereka menajamkan lidahnya seperti ular, bisa ular senduk ada di bawah bibirnya. Sela"
   },
   {Bible:"Psalms", Chapter:140, Verse:4, Page:1,
-    Kor:"주님, 악인에게서 나를 지켜 주시고, 포악한 자에게서 나를 보호하여 주십시오. 그들이 나를 밀어서 넘어뜨리려 합니다.",
+    Kor:"주님, 악인에게서 나를 지켜 주시고, 폭력을 휘두르는 사람에게서 나를 보호하여 주십시오. 그들이 나를 밀어서 넘어뜨리려 합니다.",
     Chn:"耶和华啊，求你拯救我脱离恶人的手， 保护我脱离强暴的人！ 他们图谋推我跌倒。",
     Eng:"Keep me, O LORD, from the hands of the wicked; protect me from men of violence who plan to trip my feet.",
     Ind:"(140-5) Peliharalah aku, ya TUHAN, terhadap tangan orang fasik, jagalah aku terhadap orang yang melakukan kekerasan, yang bermaksud menjatuhkan aku."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"(140-7) Aku berkata kepada TUHAN: \"Allahku Engkau, berilah telinga, ya TUHAN, kepada suara permohonanku!\""
   },
   {Bible:"Psalms", Chapter:140, Verse:7, Page:1,
-    Kor:"내 구원의 힘이신 주 하나님, 전쟁을 하는 날에 주님께서 내 머리에 투구를 씌워 보호해 주셨습니다.",
+    Kor:"내 구원의 힘이신 주 하나님, 전쟁을 하는 날에, 주님께서 내 머리를 가려서, 보호해 주셨습니다.",
     Chn:"主—耶和华、我救恩的力量啊， 在争战的日子，你遮蔽了我的头。",
     Eng:"O Sovereign LORD, my strong deliverer, who shields my head in the day of battle--",
     Ind:"(140-8) Ya ALLAH, Tuhanku, kekuatan keselamatanku, Engkau menudungi kepalaku pada hari pertarungan senjata."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"(140-9) Ya TUHAN, jangan penuhi keinginan orang fasik, jangan luluskan tipu rencananya! Sela"
   },
   {Bible:"Psalms", Chapter:140, Verse:9, Page:1,
-    Kor:"나를 에워싸고 있는 자들이 a승리하지 못하게 해주십시오. 그들이 남들에게 퍼붓는 재앙을 다시 그들에게 되덮어 주십시오. (a 히브리어 본문의 뜻이 불확실함)",
+    Kor:"나를 에워싸고 있는 자들이 승리하지 못하게 해주십시오. 그들이 남들에게 퍼붓는 재앙을 다시 그들에게 되덮어 주십시오.",
     Chn:"至于那些昂首围困我的人， 愿他们嘴唇的奸恶陷害自己！",
     Eng:"Let the heads of those who surround me be covered with the trouble their lips have caused.",
     Ind:"(140-10) Orang-orang yang mengelilingi aku meninggikan kepala; biarlah bencana yang diucapkan mereka menimpa mereka!"
   },
   {Bible:"Psalms", Chapter:140, Verse:10, Page:1,
-    Kor:"뜨거운 숯불이 그들 위에 쏟아지게 하시고, 그들이 불구덩이나 수렁에 빠져서 다시는 일어나지 못하게 해주십시오.",
+    Kor:"숯불이 그들 위에 쏟아지게 하시고, 그들이 불구덩이나 수렁에 빠져서 다시는 일어나지 못하게 해주십시오.",
     Chn:"愿火炭落在他们身上！ 愿他们被丢在火中， 抛在深坑里，不能再起来。",
     Eng:"Let burning coals fall upon them; may they be thrown into the fire, into miry pits, never to rise.",
     Ind:"(140-11) Biarlah Ia menghujani mereka dengan bara api! Biarlah Ia menjatuhkan mereka ke dalam jurang sehingga tidak bangkit lagi!"
   },
   {Bible:"Psalms", Chapter:140, Verse:11, Page:1,
-    Kor:"혀를 놀려 남을 모함하는 사람은, 이 땅에서 버젓이 살지 못하게 해주십시오. 폭력을 놀이 삼는 자들에게는 큰 재앙이 늘 따라다니게 해주십시오.",
+    Kor:"혀를 놀려 남을 모함하는 사람은, 세상에서 다시는 버티지 못하게 해주십시오. 폭력을 놀이삼아 행사하는 사람들에게는, 큰 재앙이 늘 따라다니게 해주십시오.",
     Chn:"说恶言的人在地上必坚立不住； 祸患必猎取强暴的人，将他打倒。",
     Eng:"Let slanderers not be established in the land; may disaster hunt down men of violence.",
     Ind:"(140-12) Pemfitnah tidak akan diam tetap di bumi; orang yang melakukan kekerasan akan diburu oleh malapetaka."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"(140-13) Aku tahu, bahwa TUHAN akan memberi keadilan kepada orang tertindas, dan membela perkara orang miskin."
   },
   {Bible:"Psalms", Chapter:140, Verse:13, Page:1,
-    Kor:"분명히 의인은 주님의 이름에 찬양을 돌리고, 정직한 사람은 주님 앞에서 살 것입니다.",
+    Kor:"분명히 의인은 주의 이름에 찬양을 돌리고, 정직한 사람은 주의 얼굴을 뵈며, 함께 살 것입니다.",
     Chn:"义人必要称赞你的名； 正直人必住在你面前。",
     Eng:"Surely the righteous will praise your name and the upright will live before you.",
     Ind:"(140-14) Sungguh, orang-orang benar akan memuji nama-Mu, orang-orang yang jujur akan diam di hadapan-Mu."

@@ -3,31 +3,31 @@
 BibleDB.ref("Acts",15,41);
 BibleDB.add([
   {Bible:"Acts", Chapter:15, Verse:1, Page:1,
-    Kor:"<예루살렘 회의> 몇몇 사람이 유대에서 내려와서, 이렇게 a신도들을 가르쳤다. \"여러분이 모세의 관례대로 할례를 받지 않으면, 구원을 얻을 수 없습니다.\"(a 그, '형제들')",
+    Kor:"몇몇 사람이 유대에서 내려와서, 신도들을 가르치기를 \"여러분은 모세의 관례대로 할례를 받지 않으면, 구원을 얻을 수 없습니다\" 하였다.",
     Chn:"有几个人从犹太下来，教训弟兄们说：「你们若不按摩西的规条受割礼，不能得救。」",
     Eng:"Some men came down from Judea to Antioch and were teaching the brothers: \"Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.\"",
     Ind:"Beberapa orang datang dari Yudea ke Antiokhia dan mengajarkan kepada saudara-saudara di situ: \"Jikalau kamu tidak disunat menurut adat istiadat yang diwariskan oleh Musa, kamu tidak dapat diselamatkan.\""
   },
   {Bible:"Acts", Chapter:15, Verse:2, Page:1,
-    Kor:"그래서 바울과 바나바 두 사람과 그들 사이에 적지 않은 충돌과 논쟁이 벌어졌다. 드디어 안디옥 교회는 이 문제로 바울과 바나바와 신도들 가운데 몇 사람을 예루살렘으로 올라가게 해서, 사도들과 장로들을 찾아 보게 하였다.",
+    Kor:"그래서 바울과 바나바 두 사람과 그들 사이에 적지 않은 충돌과 논쟁이 벌어졌다. 드디어 안디옥 교회는 이 문제로 바울과 바나바와 신도들 가운데 몇 사람을 예루살렘으로 올라가게 해서, 사도들과 장로들을 찾아보게 하였다.",
     Chn:"保罗、巴拿巴与他们大大地纷争辩论；众门徒就定规，叫保罗、巴拿巴和本会中几个人，为所辩论的，上耶路撒冷去见使徒和长老。",
     Eng:"This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.",
     Ind:"Tetapi Paulus dan Barnabas dengan keras melawan dan membantah pendapat mereka itu. Akhirnya ditetapkan, supaya Paulus dan Barnabas serta beberapa orang lain dari jemaat itu pergi kepada rasul-rasul dan penatua-penatua di Yerusalem untuk membicarakan soal itu."
   },
   {Bible:"Acts", Chapter:15, Verse:3, Page:1,
-    Kor:"그들은 교회의 전송을 받고 떠나서, 페니키아와 사마리아를 거쳐가면서, 이방 사람들이 회개한 일을 이야기하였다. 그리하여 그들은 그 곳의 모든 a신도들을 매우 기쁘게 하였다.(a 그, '형제들')",
+    Kor:"그들은 교회의 전송을 받고 떠나서, 베니게와 사마리아를 거쳐 가면서, 이방 사람들이 회개한 일을 이야기하였다. 그래서 그들은 그 곳의 모든 신도들을 매우 기쁘게 하였다.",
     Chn:"于是教会送他们起行。他们经过腓尼基、撒马利亚，随处传说外邦人归主的事，叫众弟兄都甚欢喜。",
     Eng:"The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the brothers very glad.",
     Ind:"Mereka diantarkan oleh jemaat sampai ke luar kota, lalu mereka berjalan melalui Fenisia dan Samaria, dan di tempat-tempat itu mereka menceriterakan tentang pertobatan orang-orang yang tidak mengenal Allah. Hal itu sangat menggembirakan hati saudara-saudara di situ."
   },
   {Bible:"Acts", Chapter:15, Verse:4, Page:1,
-    Kor:"예루살렘에 이르러서, 그들은 교회와 사도들과 장로들에게 환영을 받고, 하나님께서 그들과 함께 행하신 일들을 모두 보고하였다.",
+    Kor:"그들은 예루살렘에 이르러서, 교회와 사도들과 장로들에게 환영을 받고, 하나님께서 그들과 함께 행하신 일들을 모두 보고하였다.",
     Chn:"到了耶路撒冷，教会和使徒并长老都接待他们，他们就述说　神同他们所行的一切事。",
     Eng:"When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.",
     Ind:"Setibanya di Yerusalem mereka disambut oleh jemaat dan oleh rasul-rasul dan penatua-penatua, lalu mereka menceriterakan segala sesuatu yang Allah lakukan dengan perantaraan mereka."
   },
   {Bible:"Acts", Chapter:15, Verse:5, Page:1,
-    Kor:"그런데 바리새파에 속하였다가 신도가 된 사람 몇이 일어나서 \"이방 사람들에게도 할례를 행하고, 모세의 율법을 지키도록 명하여야 합니다\" 하고 말하였다.",
+    Kor:"그런데 바리새파에 속하였다가 신도가 된 사람 몇이 일어나서 \"이방 사람들에게도 할례를 주고, 모세의 율법을 지키라고 명령하여야 합니다\" 하고 말하였다.",
     Chn:"惟有几个信徒是法利赛教门的人，起来说：「必须给外邦人行割礼，吩咐他们遵守摩西的律法。」",
     Eng:"Then some of the believers who belonged to the party of the Pharisees stood up and said, \"The Gentiles must be circumcised and required to obey the law of Moses.\"",
     Ind:"Tetapi beberapa orang dari golongan Farisi, yang telah menjadi percaya, datang dan berkata: \"Orang-orang bukan Yahudi harus disunat dan diwajibkan untuk menuruti hukum Musa.\""
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Maka bersidanglah rasul-rasul dan penatua-penatua untuk membicarakan soal itu."
   },
   {Bible:"Acts", Chapter:15, Verse:7, Page:1,
-    Kor:"많은 논쟁을 한 뒤에, 베드로가 일어나서 그들에게 말하였다. \"a형제 여러분, 여러분이 아시는 대로, 하나님께서 일찍이 여러분 가운데서 나를 택하셔서, 이방 사람들도 내가 전하는 복음의 말씀을 듣고 믿게 하셨습니다.(a 그, '형제들')",
+    Kor:"토론을 많이 한 뒤에, 베드로가 일어나서 그들에게 말하였다. \"형제 여러분, 여러분이 아시는 대로, 하나님께서 일찍이 여러분 가운데서 나를 택하셔서, 이방 사람들도 내가 말하는 복음의 말씀을 듣고 믿게 하셨습니다.",
     Chn:"辩论已经多了，彼得就起来，说：「诸位弟兄，你们知道　神早已在你们中间拣选了我，叫外邦人从我口中得听福音之道，而且相信。",
     Eng:"After much discussion, Peter got up and addressed them: \"Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe.",
     Ind:"Sesudah beberapa waktu lamanya berlangsung pertukaran pikiran mengenai soal itu, berdirilah Petrus dan berkata kepada mereka: \"Hai saudara-saudara, kamu tahu, bahwa telah sejak semula Allah memilih aku dari antara kamu, supaya dengan perantaraan mulutku bangsa-bangsa lain mendengar berita Injil dan menjadi percaya."
   },
   {Bible:"Acts", Chapter:15, Verse:8, Page:1,
-    Kor:"그리고 사람의 마음 속을 아시는 하나님께서는 우리에게 주신 것과 같이 그들에게도 성령을 주셔서, 그들을 인정해 주셨습니다.",
+    Kor:"그리고 사람의 마음 속을 아시는 하나님께서는 우리에게 성령을 주신 것과 같이 그들에게도 주셔서, 그들을 인정해 주셨습니다.",
     Chn:"知道人心的　神也为他们作了见证，赐圣灵给他们，正如给我们一样；",
     Eng:"God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us.",
     Ind:"Dan Allah, yang mengenal hati manusia, telah menyatakan kehendak-Nya untuk menerima mereka, sebab Ia mengaruniakan Roh Kudus juga kepada mereka sama seperti kepada kita,"
   },
   {Bible:"Acts", Chapter:15, Verse:9, Page:1,
-    Kor:"하나님께서는 그들의 믿음을 보셔서, 그들의 마음을 깨끗하게 하시고, 우리와 그들 사이에, 아무런 차별을 두지 않으셨습니다.",
+    Kor:"하나님께서는 그들의 믿음을 보셔서, 그들의 마음을 깨끗하게 하시고, 우리와 그들 사이에 아무런 차별을 두지 않으셨습니다.",
     Chn:"又借着信洁净了他们的心，并不分他们我们。",
     Eng:"He made no distinction between us and them, for he purified their hearts by faith.",
     Ind:"dan Ia sama sekali tidak mengadakan perbedaan antara kita dengan mereka, sesudah Ia menyucikan hati mereka oleh iman."
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Kalau demikian, mengapa kamu mau mencobai Allah dengan meletakkan pada tengkuk murid-murid itu suatu kuk, yang tidak dapat dipikul, baik oleh nenek moyang kita maupun oleh kita sendiri?"
   },
   {Bible:"Acts", Chapter:15, Verse:11, Page:1,
-    Kor:"우리가 주 예수의 은혜로 구원을 얻고, 그들도 꼭 마찬가지로 주 예수의 은혜로 구원을 얻는다고 우리는 믿습니다.\"",
+    Kor:"우리는, 우리가 주 예수의 은혜로 구원을 얻는다면, 그들도 꼭 마찬가지로 주 예수의 은혜로 구원을 얻는다고 믿습니다.\"",
     Chn:"我们得救乃是因主耶稣的恩，和他们一样，这是我们所信的。」",
     Eng:"No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.\"",
     Ind:"Sebaliknya, kita percaya, bahwa oleh kasih karunia Tuhan Yesus Kristus kita akan beroleh keselamatan sama seperti mereka juga.\""
   },
   {Bible:"Acts", Chapter:15, Verse:12, Page:1,
-    Kor:"○그러자 온 회중은 조용해졌다. 그리고 그들은 바나바와 바울이 하나님께서 자기들을 통하여 이방 사람들 가운데 행하신 온갖 표징과 놀라운 일을 보고하는 것을 들었다.",
+    Kor:"○그러자 온 회중은 조용해졌다. 그리고 그들은, 바나바와 바울이, 하나님께서 자기들을 시켜서 이방 사람들 가운데서 행하신, 여러 가지 표적과 기이한 일들을 보고하는 것을 들었다.",
     Chn:"众人都默默无声，听巴拿巴和保罗述说　神借他们在外邦人中所行的神迹奇事。",
     Eng:"The whole assembly became silent as they listened to Barnabas and Paul telling about the miraculous signs and wonders God had done among the Gentiles through them.",
     Ind:"Maka diamlah seluruh umat itu, lalu mereka mendengarkan Paulus dan Barnabas menceriterakan segala tanda dan mujizat yang dilakukan Allah dengan perantaraan mereka di tengah-tengah bangsa-bangsa lain."
   },
   {Bible:"Acts", Chapter:15, Verse:13, Page:1,
-    Kor:"바나바와 바울이 말을 마친 뒤에, 야고보가 대답하였다. \"a형제 여러분, 내 말을 들어보십시오.(a 그, '형제들')",
+    Kor:"바나바와 바울이 말을 마친 뒤에, 야고보가 대답하였다. \"형제 여러분, 내 말을 들어 보십시오.",
     Chn:"他们住了声，雅各就说：「诸位弟兄，请听我的话。",
     Eng:"When they finished, James spoke up: \"Brothers, listen to me.",
     Ind:"Setelah Paulus dan Barnabas selesai berbicara, berkatalah Yakobus: \"Hai saudara-saudara, dengarkanlah aku:"
   },
   {Bible:"Acts", Chapter:15, Verse:14, Page:1,
-    Kor:"하나님께서 이방 사람들을 돌아보셔서, 그들 가운데서 자기 이름을 위하여 처음으로 한 백성을 택하신 경위를 b시므온이 이야기하였습니다.(b 시몬 곧 베드로)",
+    Kor:"하나님께서 이방 사람들 가운데서 자기 이름을 위하여 한 백성을 취하시려고 이방 사람들을 처음으로 돌보신 경위에 대해서는 시므온이 이야기하였습니다.",
     Chn:"方才西门述说　神当初怎样眷顾外邦人，从他们中间选取百姓归于自己的名下；",
     Eng:"Simon has described to us how God at first showed his concern by taking from the Gentiles a people for himself.",
     Ind:"Simon telah menceriterakan, bahwa sejak semula Allah menunjukkan rahmat-Nya kepada bangsa-bangsa lain, yaitu dengan memilih suatu umat dari antara mereka bagi nama-Nya."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Hal itu sesuai dengan ucapan-ucapan para nabi seperti yang tertulis:"
   },
   {Bible:"Acts", Chapter:15, Verse:16, Page:1,
-    Kor:"c'이 뒤에 내가 다시 돌아와서, 무너진 다윗의 집을 다시 짓겠으니, 허물어진 곳을 다시 고치고, 그 집을 바로 세우겠다. (c 암 9:11, 12(칠십인역))",
+    Kor:"'이 뒤에 내가 다시 돌아와서, 무너진 다윗의 집을 다시 짓겠으니, 허물어진 곳을 다시 고치고, 그 집을 바로 세우겠다.",
     Chn:"正如经上所写的： 此后，我要回来， 重新修造大卫倒塌的帐幕， 把那破坏的重新修造建立起来，",
     Eng:"\"'After this I will return and rebuild David's fallen tent. Its ruins I will rebuild, and I will restore it,",
     Ind:"Kemudian Aku akan kembali dan membangunkan kembali pondok Daud yang telah roboh, dan reruntuhannya akan Kubangun kembali dan akan Kuteguhkan,"
@@ -105,43 +105,43 @@ BibleDB.add([
     Ind:"supaya semua orang lain mencari Tuhan dan segala bangsa yang tidak mengenal Allah, yang Kusebut milik-Ku demikianlah firman Tuhan yang melakukan semuanya ini,"
   },
   {Bible:"Acts", Chapter:15, Verse:18, Page:1,
-    Kor:"이것은 주님의 말씀이니, 주님은 옛부터, 이 모든 일을 알게 해주시는 분이시다.'",
+    Kor:"이것은 주의 말이니, 나 주는 옛부터, 이 모든 일을 알게 해주는 자다.'",
     Chn:"这话是从创世以来显明这事的主说的。",
     Eng:"that have been known for ages.",
     Ind:"yang telah diketahui dari sejak semula."
   },
   {Bible:"Acts", Chapter:15, Verse:19, Page:1,
-    Kor:"그러므로 내 판단으로는 하나님께로 돌아오는 이방 사람들을 괴롭히지 말고,",
+    Kor:"그러므로 나의 판단으로는 하나님께로 돌아오는 이방 사람들을 괴롭히지 말고,",
     Chn:"「所以据我的意见，不可难为那归服　神的外邦人；",
     Eng:"\"It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God.",
     Ind:"Sebab itu aku berpendapat, bahwa kita tidak boleh menimbulkan kesulitan bagi mereka dari bangsa-bangsa lain yang berbalik kepada Allah,"
   },
   {Bible:"Acts", Chapter:15, Verse:20, Page:1,
-    Kor:"다만 그들에게 편지를 보내서, 우상에게 바친 더러운 음식과 음행과 d목매어 죽인 것과 피를 멀리하라고 하는 것이 좋겠습니다.(d 다른 고대 사본들에는 '목매어 죽인 것과'가 없음)",
+    Kor:"다만 그들에게 편지를 보내서, 우상에게 바친 더러운 음식과 음행과 목매어 죽인 것과 피를 멀리하라고 하는 것이 좋겠습니다.",
     Chn:"只要写信，吩咐他们禁戒偶像的污秽和奸淫，并勒死的牲畜和血。",
     Eng:"Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.",
     Ind:"tetapi kita harus menulis surat kepada mereka, supaya mereka menjauhkan diri dari makanan yang telah dicemarkan berhala-berhala, dari percabulan, dari daging binatang yang mati dicekik dan dari darah."
   },
   {Bible:"Acts", Chapter:15, Verse:21, Page:1,
-    Kor:"예로부터 어느 도시에나 모세를 전하는 사람이 있어서, 안식일마다 회당에서 그의 글을 읽고 있습니다.\"",
+    Kor:"예로부터 어느 도시에서나 모세를 전하는 사람이 있어서, 안식일마다 회당에서 그의 글을 읽고 있습니다.\"",
     Chn:"因为从古以来，摩西的书在各城有人传讲，每逢安息日，在会堂里诵读。」",
     Eng:"For Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.\"",
     Ind:"Sebab sejak zaman dahulu hukum Musa diberitakan di tiap-tiap kota, dan sampai sekarang hukum itu dibacakan tiap-tiap hari Sabat di rumah-rumah ibadat.\""
   },
   {Bible:"Acts", Chapter:15, Verse:22, Page:1,
-    Kor:"<이방계 신자들에게 보낸 사도들의 편지> ○그래서 사도들과 장로들과 온 교회가 대표들을 뽑아서, 바울과 바나바와 함께 안디옥으로 보내기로 결정하였다. 그래서 대표로 뽑힌 사람은 a신도들 가운데서 지도자인 바사바라고 하는 유다와 실라였다.(a 그, '형제들')",
+    Kor:"○그래서 사도들과 장로들과 온 교회가 대표들을 뽑아서, 바울과 바나바와 함께 안디옥으로 보내기로 결정하였다. 그래서 대표로 뽑힌 사람은 신도들 가운데서 지도자인 바사바라고 하는 유다와 실라였다.",
     Chn:"那时，使徒和长老并全教会定意从他们中间拣选人，差他们和保罗、巴拿巴同往安提阿去；所拣选的就是称呼巴撒巴的犹大和西拉。这两个人在弟兄中是作首领的。",
     Eng:"Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, two men who were leaders among the brothers.",
     Ind:"Maka rasul-rasul dan penatua-penatua beserta seluruh jemaat itu mengambil keputusan untuk memilih dari antara mereka beberapa orang yang akan diutus ke Antiokhia bersama-sama dengan Paulus dan Barnabas, yaitu Yudas yang disebut Barsabas dan Silas. Keduanya adalah orang terpandang di antara saudara-saudara itu."
   },
   {Bible:"Acts", Chapter:15, Verse:23, Page:1,
-    Kor:"그들은 이 사람들 편에 아래와 같은 내용의 편지를 써 보냈다. \"형제들인 우리 사도들과 장로들은 안디옥과 시리아와 길리기아의 이방 사람 a교우 여러분에게 문안합니다.(a 그, '형제들')",
+    Kor:"그들은 이 사람들 편에 아래와 같은 내용의 편지를 써 보냈다. ○\"형제들인 우리 사도와 장로들은 안디옥과 수리아와 길리기아의 이방인 신도 여러분에게 문안합니다.",
     Chn:"于是写信交付他们，内中说：「使徒和作长老的弟兄们问安提阿、叙利亚、基利家外邦众弟兄的安。",
     Eng:"With them they sent the following letter: The apostles and elders, your brothers, To the Gentile believers in Antioch, Syria and Cilicia: Greetings.",
     Ind:"Kepada mereka diserahkan surat yang bunyinya: \"Salam dari rasul-rasul dan penatua-penatua, dari saudara-saudaramu kepada saudara-saudara di Antiokhia, Siria dan Kilikia yang berasal dari bangsa-bangsa lain."
   },
   {Bible:"Acts", Chapter:15, Verse:24, Page:1,
-    Kor:"그런데 우리 가운데 몇몇 사람이 <여러분에게로 가서>, 우리가 시키지 않은 여러 가지 말로 여러분을 혼란에 빠뜨리고, e여러분의 마음을 어지럽게 하였다는 소식을 들었습니다.(e 다른 고대 사본들에는 '여러분이 할례를 받고 율법을 지켜야 한다고 하면서'라는 말이 더 있음)",
+    Kor:"우리 가운데 몇몇 사람이 여러분에게로 가서, 우리가 시키지 않은 여러 말로 여러분을 혼란에 빠뜨리고, 여러분의 마음을 어지럽게 하였다는 소식을 들었습니다.",
     Chn:"我们听说，有几个人从我们这里出去，用言语搅扰你们，惑乱你们的心。其实我们并没有吩咐他们。",
     Eng:"We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said.",
     Ind:"Kami telah mendengar, bahwa ada beberapa orang di antara kami, yang tiada mendapat pesan dari kami, telah menggelisahkan dan menggoyangkan hatimu dengan ajaran mereka."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Maka kami telah mengutus Yudas dan Silas, yang dengan lisan akan menyampaikan pesan yang tertulis ini juga kepada kamu."
   },
   {Bible:"Acts", Chapter:15, Verse:28, Page:1,
-    Kor:"성령과 우리는 꼭 필요한 다음 몇 가지 밖에는 더 이상 아무 무거운 짐도 여러분에게 지우지 않기로 하였습니다.",
+    Kor:"성령과 우리는 다음 몇 가지 필수 사항 밖에는, 더 이상 무거운 짐을 여러분에게 지우지 않기로 하였습니다.",
     Chn:"因为圣灵和我们定意不将别的重担放在你们身上，惟有几件事是不可少的，",
     Eng:"It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:",
     Ind:"Sebab adalah keputusan Roh Kudus dan keputusan kami, supaya kepada kamu jangan ditanggungkan lebih banyak beban dari pada yang perlu ini:"
   },
   {Bible:"Acts", Chapter:15, Verse:29, Page:1,
-    Kor:"여러분은 우상에게 바친 제물과 피와 f목매어 죽인 것과 음행을 멀리하여야 합니다. 여러분이 이런 것을 삼가면, 여러분은 잘 행한다고 하겠습니다. 안녕히 계십시오.\"(f 다른 고대 사본들에는 '목매어 죽인 것'이 없음)",
+    Kor:"여러분은 우상에게 바친 제물과 피와 목매어 죽인 것과 음행을 멀리하여야 합니다. 여러분이 이런 것을 삼가면, 여러분은 잘 행동한다고 할 수 있습니다. 안녕히 계십시오.\"",
     Chn:"就是禁戒祭偶像的物和血，并勒死的牲畜和奸淫。这几件你们若能自己禁戒不犯就好了。愿你们平安！」",
     Eng:"You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things. Farewell.",
     Ind:"kamu harus menjauhkan diri dari makanan yang dipersembahkan kepada berhala, dari darah, dari daging binatang yang mati dicekik dan dari percabulan. Jikalau kamu memelihara diri dari hal-hal ini, kamu berbuat baik. Sekianlah, selamat.\""
@@ -189,19 +189,19 @@ BibleDB.add([
     Ind:"Setelah membaca surat itu, jemaat bersukacita karena isinya yang menghiburkan."
   },
   {Bible:"Acts", Chapter:15, Verse:32, Page:1,
-    Kor:"유다와 실라도 예언자이므로, 여러 말로 a신도들을 격려하고, 굳세게 하여 주었다.(a 그, '형제들')",
+    Kor:"유다와 실라도 예언자이므로, 여러 말로 신도들을 격려하고, 굳세게 하여 주었다.",
     Chn:"犹大和西拉也是先知，就用许多话劝勉弟兄，坚固他们。",
     Eng:"Judas and Silas, who themselves were prophets, said much to encourage and strengthen the brothers.",
     Ind:"Yudas dan Silas, yang adalah juga nabi, lama menasihati saudara-saudara itu dan menguatkan hati mereka."
   },
   {Bible:"Acts", Chapter:15, Verse:33, Page:1,
-    Kor:"그들은 거기서 얼마 동안 지낸 뒤에, a신도들에게서 평안히 가라는 전송을 받고서, 자기들을 보낸 사람들에게로 돌아갔다.(a 그, '형제들')",
+    Kor:"그들은 거기에서 얼마 동안 지낸 뒤에, 신도들에게서 평안히 가라는 전송을 받고서, 자기들을 보낸 사람들에게로 돌아갔다.",
     Chn:"住了些日子，弟兄们打发他们平平安安地回到差遣他们的人那里去。",
     Eng:"After spending some time there, they were sent off by the brothers with the blessing of peace to return to those who had sent them.",
     Ind:"Dan sesudah beberapa waktu keduanya tinggal di situ, saudara-saudara itu melepas mereka dalam damai untuk kembali kepada mereka yang mengutusnya."
   },
   {Bible:"Acts", Chapter:15, Verse:34, Page:1,
-    Kor:"g(34절 없음)(g 어떤 사본에는 34절의 내용이 첨가되어 있음. '34. 그러나 실라는 그들과 함께 머무르려고 하였다')",
+    Kor:"(없음)",
     Chn:"但保罗和巴拿巴仍住在安提阿，和许多别人一同教训人，传主的道。",
     Eng:"",
     Ind:"(Tetapi Silas memutuskan untuk tinggal di situ.)"
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Paulus dan Barnabas tinggal beberapa lama di Antiokhia. Mereka bersama-sama dengan banyak orang lain mengajar dan memberitakan firman Tuhan."
   },
   {Bible:"Acts", Chapter:15, Verse:36, Page:1,
-    Kor:"<바울과 바나바가 갈라서다> ○며칠 뒤에, 바울이 바나바에게 말하였다. \"우리가 주님의 말씀을 전파한 여러 도시로 a신도들을 다시 찾아가서, 그들이 어떻게 지내고 있는지를 살펴 봅시다.\"(a 그, '형제들')",
+    Kor:"○며칠 뒤에, 바울이 바나바에게 말하기를 \"우리가 주의 말씀을 선포한 여러 도시로 신도들을 다시 찾아가서, 그들이 어떻게 지내고 있는지를 살펴봅시다\" 하였다.",
     Chn:"巴拿巴有意要带称呼马可的约翰同去；",
     Eng:"Some time later Paul said to Barnabas, \"Let us go back and visit the brothers in all the towns where we preached the word of the Lord and see how they are doing.\"",
     Ind:"Tetapi beberapa waktu kemudian berkatalah Paulus kepada Barnabas: \"Baiklah kita kembali kepada saudara-saudara kita di setiap kota, di mana kita telah memberitakan firman Tuhan, untuk melihat, bagaimana keadaan mereka.\""
@@ -237,13 +237,13 @@ BibleDB.add([
     Ind:"Hal itu menimbulkan perselisihan yang tajam, sehingga mereka berpisah dan Barnabas membawa Markus juga sertanya berlayar ke Siprus."
   },
   {Bible:"Acts", Chapter:15, Verse:40, Page:1,
-    Kor:"그러나 바울은 실라를 택하고, a신도들로부터 주님의 은혜가 함께 하기를 바라는 인사를 받고서, 길을 떠났다.(a 그, '형제들')",
+    Kor:"그러나 바울은 실라를 택해서, 신도들로부터 주의 은혜가 함께 있기를 바라는 인사를 받고, 길을 떠났다.",
     Chn:"他就走遍叙利亚、基利家，坚固众教会。",
     Eng:"but Paul chose Silas and left, commended by the brothers to the grace of the Lord.",
     Ind:"Tetapi Paulus memilih Silas, dan sesudah diserahkan oleh saudara-saudara itu kepada kasih karunia Tuhan"
   },
   {Bible:"Acts", Chapter:15, Verse:41, Page:1,
-    Kor:"그래서 시리아와 길리기아를 돌아다니며, 모든 교회를 튼튼하게 하였다.",
+    Kor:"그래서 시리아와 길리기아를 돌아다니면서, 모든 교회를 굳세게 하였다.",
     Chn:"",
     Eng:"He went through Syria and Cilicia, strengthening the churches.",
     Ind:"berangkatlah ia mengelilingi Siria dan Kilikia sambil meneguhkan jemaat-jemaat di situ."

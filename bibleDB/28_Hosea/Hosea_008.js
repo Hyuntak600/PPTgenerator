@@ -3,7 +3,7 @@
 BibleDB.ref("Hosea",8,14);
 BibleDB.add([
   {Bible:"Hosea", Chapter:8, Verse:1, Page:1,
-    Kor:"<주님께서 우상숭배를 책망하시다> \"나팔을 불어서 비상 경보를 알려라! 이스라엘 백성이 나의 언약을 깨뜨리고, 내가 가르쳐 준 율법을 어겼으므로, 적군이 독수리처럼 나 주의 집을 덮칠 것이다.",
+    Kor:"\"나팔을 불어서 비상 경보를 알려라! 이스라엘 백성이 나의 언약을 깨뜨리고, 내가 가르쳐 준 율법을 어겼으므로, 적군이 독수리처럼 나 주의 집을 덮칠 것이다.",
     Chn:"你用口吹角吧！ 敌人如鹰来攻打耶和华的家； 因为这民违背我的约， 干犯我的律法。",
     Eng:"\"Put the trumpet to your lips! An eagle is over the house of the LORD because the people have broken my covenant and rebelled against my law.",
     Ind:"Tiuplah sangkakala! Serangan laksana rajawali atas rumah TUHAN! Oleh karena mereka telah melangkahi perjanjian-Ku dan telah mendurhaka terhadap pengajaran-Ku."

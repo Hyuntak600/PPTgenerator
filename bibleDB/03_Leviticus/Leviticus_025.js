@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",25,55);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:25, Verse:1, Page:1,
-    Kor:"<안식년> 주님께서 시내 산에서 모세에게 말씀하셨다.",
+    Kor:"주께서 시내 산에서 모세에게 말씀하셨다.",
     Chn:"耶和华在西奈山对摩西说：",
     Eng:"The LORD said to Moses on Mount Sinai,",
     Ind:"TUHAN berfirman kepada Musa di gunung Sinai:"
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Dan apa yang tumbuh sendiri dari penuaianmu itu, janganlah kautuai dan buah anggur dari pokok anggurmu yang tidak dirantingi, janganlah kaupetik. Tahun itu harus menjadi tahun perhentian penuh bagi tanah itu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:6, Page:1,
-    Kor:"땅을 이렇게 쉬게 해야만, 땅도 너희에게 먹거리를 내어 줄 것이다. 너뿐만 아니라, 남종과 여종과 품꾼과 너와 함께 사는 나그네에게도, 먹거리를 줄 것이다.",
+    Kor:"땅을 이렇게 쉬게 해야만, 땅도 너희에게 먹을거리를 내어 줄 것이다. 너뿐만 아니라, 남종과 여종과 품꾼과 너와 함께 사는 나그네에게도, 먹을거리를 줄 것이다.",
     Chn:"地在安息年所出的，要给你和你的仆人、婢女、雇工人，并寄居的外人当食物。",
     Eng:"Whatever the land yields during the sabbath year will be food for you--for yourself, your manservant and maidservant, and the hired worker and temporary resident who live among you,",
     Ind:"Hasil tanah selama sabat itu haruslah menjadi makanan bagimu, yakni bagimu sendiri, bagi budakmu laki-laki, bagi budakmu perempuan, bagi orang upahan dan bagi orang asing di antaramu, yang semuanya tinggal padamu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:7, Page:1,
-    Kor:"또한 너의 가축도, 너의 땅에서 사는 짐승까지도, 땅에서 나는 모든 것을 먹이로 얻게 될 것이다.\"",
+    Kor:"또한 너의 가축도, 너의 땅에서 사는 짐승까지도, 땅에서 나는 모든 것을 먹이로 얻게 될 것이다.",
     Chn:"这年的土产也要给你的牲畜和你地上的走兽当食物。」",
     Eng:"as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten.",
     Ind:"Juga bagi ternakmu, dan bagi binatang liar yang ada di tanahmu, segala hasil tanah itu menjadi makanannya."
   },
   {Bible:"Leviticus", Chapter:25, Verse:8, Page:1,
-    Kor:"<희년> ○\"안식년을 일곱 번 세어라. 칠 년이 일곱 번이면, 안식년이 일곱 번 지나, 사십구 년이 끝난다.",
+    Kor:"○안식년을 일곱 번 세어라. 칠 년이 일곱 번이면, 안식년이 일곱 번 지나, 사십구 년이 끝난다.",
     Chn:"「你要计算七个安息年，就是七七年。这便为你成了七个安息年，共是四十九年。",
     Eng:"\"'Count off seven sabbaths of years--seven times seven years--so that the seven sabbaths of years amount to a period of forty-nine years.",
     Ind:"Selanjutnya engkau harus menghitung tujuh tahun sabat, yakni tujuh kali tujuh tahun; sehingga masa tujuh tahun sabat itu sama dengan empat puluh sembilan tahun."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Lalu engkau harus memperdengarkan bunyi sangkakala di mana-mana dalam bulan yang ketujuh pada tanggal sepuluh bulan itu; pada hari raya Pendamaian kamu harus memperdengarkan bunyi sangkakala itu di mana-mana di seluruh negerimu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:10, Page:1,
-    Kor:"너희는 오십 년이 시작되는 이 해를 거룩한 해로 정하고, 전국의 모든 거민에게 자유를 선포하여라. 이 해는 너희가 희년으로 누릴 해이다. 이 해는 너희가 유산 곧 분배받은 땅으로 돌아가는 해이며, 저마다 가족에게로 돌아가는 해이다.",
+    Kor:"너희는 오십 년이 시작되는 이 해를 거룩한 해로 정하고, 전국의 모든 거민에게 자유를 선포하여라. 이 해는 너희가 희년으로 누릴 해이다. 이 해는 너희가 유산, 곧 분배받은 땅으로 돌아가는 해이며, 저마다 가족에게로 돌아가는 해이다.",
     Chn:"第五十年，你们要当作圣年，在遍地给一切的居民宣告自由。这年必为你们的禧年，各人要归自己的产业，各归本家。",
     Eng:"Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each one of you is to return to his family property and each to his own clan.",
     Ind:"Kamu harus menguduskan tahun yang kelima puluh, dan memaklumkan kebebasan di negeri itu bagi segenap penduduknya. Itu harus menjadi tahun Yobel bagimu, dan kamu harus masing-masing pulang ke tanah miliknya dan kepada kaumnya."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Karena tahun itu adalah tahun Yobel, haruslah itu kudus bagimu; hasil tahun itu yang hendak kamu makan harus diambil dari ladang."
   },
   {Bible:"Leviticus", Chapter:25, Verse:13, Page:1,
-    Kor:"이렇게 희년이 되면, 너희는 저마다 유산 곧 분배받은 땅으로 돌아가야 한다.\"",
+    Kor:"이렇게 희년이 되면, 너희는 저마다 유산 곧 분배받은 땅으로 돌아가야 한다.",
     Chn:"「这禧年，你们各人要归自己的地业。",
     Eng:"\"'In this Year of Jubilee everyone is to return to his own property.",
     Ind:"Dalam tahun Yobel itu kamu harus masing-masing pulang ke tanah miliknya."
   },
   {Bible:"Leviticus", Chapter:25, Verse:14, Page:1,
-    Kor:"<부당한 이익을 삼갈 것> ○\"너희가 저마다 제 이웃에게 무엇을 팔거나, 또는 이웃에게서 무엇을 살 때에는, 부당하게 이익을 남겨서는 안 된다.",
+    Kor:"○너희가 저마다 제 이웃에게 무엇을 팔거나, 또는 이웃에게서 무엇을 살 때에는, 부당하게 이익을 남겨서는 안 된다.",
     Chn:"你若卖什么给邻舍，或是从邻舍的手中买什么，彼此不可亏负。",
     Eng:"\"'If you sell land to one of your countrymen or buy any from him, do not take advantage of each other.",
     Ind:"Apabila kamu menjual sesuatu kepada sesamamu atau membeli dari padanya, janganlah kamu merugikan satu sama lain."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Tanah itu akan memberi hasilnya, dan kamu akan makan sampai kenyang dan diam di sana dengan aman tenteram."
   },
   {Bible:"Leviticus", Chapter:25, Verse:20, Page:1,
-    Kor:"○'일곱째 해에는 씨를 뿌려도 안 되고, 소출을 거두어들여도 안 된다면, 그 해에 우리는 무엇을 먹을까?' 하고 너희는 물을 것이다.",
+    Kor:"○'일곱째 해에는 씨를 뿌려도 안 되고, 소출을 거두어들여도 안 된다면, 그 해에 우리는 무엇을 먹을까?' 하고 물을 것이다.",
     Chn:"你们若说：『这第七年我们不耕种，也不收藏土产，吃什么呢？』",
     Eng:"You may ask, \"What will we eat in the seventh year if we do not plant or harvest our crops?\"",
     Ind:"Apabila kamu bertanya: Apakah yang akan kami makan dalam tahun yang ketujuh itu, bukankah kami tidak boleh menabur dan tidak boleh mengumpulkan hasil tanah kami?"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Maka Aku akan memerintahkan berkat-Ku kepadamu dalam tahun yang keenam, supaya diberinya hasil untuk tiga tahun."
   },
   {Bible:"Leviticus", Chapter:25, Verse:22, Page:1,
-    Kor:"여덟째 해 곧 너희가 다시 씨를 뿌리는 그 해에, 너희는 묵은 곡식을 먹을 것이다. 아홉째 해가 되어서 햇곡식이 날 때까지, 너희는 묵은 곡식을 먹을 것이다.",
+    Kor:"여덟째 해, 곧 너희가 다시 씨를 뿌리는 그 해에, 너희는 묵은 곡식을 먹을 것이다. 아홉째 해가 되어서 햇곡식이 날 때까지, 너희는 묵은 곡식을 먹을 것이다.",
     Chn:"第八年，你们要耕种，也要吃陈粮，等到第九年出产收来的时候，你们还吃陈粮。」",
     Eng:"While you plant during the eighth year, you will eat from the old crop and will continue to eat from it until the harvest of the ninth year comes in.",
     Ind:"Dalam tahun yang kedelapan kamu akan menabur, tetapi kamu akan makan dari hasil yang lama sampai kepada tahun yang kesembilan, sampai masuk hasilnya, kamu akan memakan yang lama.\""
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Tetapi rumah-rumah di desa-desa yang tidak dikelilingi pagar tembok haruslah dianggap sama dengan ladang-ladang di negeri itu, atasnya harus ada hak menebus dan dalam tahun Yobel rumah itu harus bebas."
   },
   {Bible:"Leviticus", Chapter:25, Verse:32, Page:1,
-    Kor:"○그러나 레위 사람의 성읍 곧 그들이 유산으로 받은 성읍 안에 있는 집은 그렇지 않다. 레위 사람은 성읍 안에 있는 집을 팔았어도, 언제든지 그것을 다시 무를 수 있다.",
+    Kor:"○그러나 레위 사람의 성읍, 곧 그들이 유산으로 받은 성읍 안에 있는 집은 그렇지 않다. 레위 사람은 성읍 안에 있는 집을 팔았어도, 언제든지 그것을 다시 무를 수 있다.",
     Chn:"然而利未人所得为业的城邑，其中的房屋，利未人可以随时赎回。",
     Eng:"\"'The Levites always have the right to redeem their houses in the Levitical towns, which they possess.",
     Ind:"Mengenai rumah-rumah di kota-kota orang Lewi, hak menebus rumah-rumah itu ada pada orang-orang Lewi untuk selama-lamanya."
@@ -207,19 +207,19 @@ BibleDB.add([
     Ind:"Dan padang penggembalaan sekitar kota-kota mereka janganlah dijual, karena itu milik mereka untuk selama-lamanya.\""
   },
   {Bible:"Leviticus", Chapter:25, Verse:35, Page:1,
-    Kor:"○너희 동족 가운데, 아주 가난해서, 도저히 자기 힘만으로는 살아갈 수 없는 사람이 너희의 곁에 살면, 너희는 그를 돌보아 주어야 한다. 너희는 그를, 나그네나 임시 거주자처럼, 너희와 함께 살도록 하여야 한다.",
+    Kor:"○너의 동족 가운데, 아주 가난해서, 도저히 자기 힘만으로는 살아갈 수 없는 사람이 너의 곁에 살면, 너는 그를 돌보아 주어야 한다. 너는 그를, 나그네나 임시 거주자처럼, 너와 함께 살도록 하여야 한다.",
     Chn:"「你的弟兄在你那里若渐渐贫穷，手中缺乏，你就要帮补他，使他与你同住，像外人和寄居的一样。",
     Eng:"\"'If one of your countrymen becomes poor and is unable to support himself among you, help him as you would an alien or a temporary resident, so he can continue to live among you.",
     Ind:"\"Apabila saudaramu jatuh miskin, sehingga tidak sanggup bertahan di antaramu, maka engkau harus menyokong dia sebagai orang asing dan pendatang, supaya ia dapat hidup di antaramu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:36, Page:1,
-    Kor:"그에게서는 이자를 받아도 안 되고, 어떤 이익을 남기려고 해서도 안 된다. 너희가 하나님 두려운 줄을 안다면, 너희의 동족을 너희의 곁에 데리고 함께 살아야 한다.",
+    Kor:"그에게서는 이자를 받아도 안 되고, 어떤 이익을 남기려고 해서도 안 된다. 네가 하나님 두려운 줄을 안다면, 너의 동족을 너의 곁에 데리고 함께 살아야 한다.",
     Chn:"不可向他取利，也不可向他多要；只要敬畏你的　神，使你的弟兄与你同住。",
     Eng:"Do not take interest of any kind from him, but fear your God, so that your countryman may continue to live among you.",
     Ind:"Janganlah engkau mengambil bunga uang atau riba dari padanya, melainkan engkau harus takut akan Allahmu, supaya saudaramu dapat hidup di antaramu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:37, Page:1,
-    Kor:"너희는 그런 사람에게, 이자를 받을 목적으로 돈을 꾸어 주거나, 이익을 볼 셈으로 먹거리를 꾸어 주어서는 안 된다.",
+    Kor:"너는 그런 사람에게, 이자를 받을 목적으로 돈을 꾸어 주거나, 이익을 볼 셈으로 먹을거리를 꾸어 주어서는 안된다.",
     Chn:"你借钱给他，不可向他取利；借粮给他，也不可向他多要。",
     Eng:"You must not lend him money at interest or sell him food at a profit.",
     Ind:"Janganlah engkau memberi uangmu kepadanya dengan meminta bunga, juga makananmu janganlah kauberikan dengan meminta riba."
@@ -231,19 +231,19 @@ BibleDB.add([
     Ind:"Akulah TUHAN, Allahmu, yang membawa kamu keluar dari tanah Mesir, untuk memberikan kepadamu tanah Kanaan, supaya Aku menjadi Allahmu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:39, Page:1,
-    Kor:"○너희 곁에 사는 동족 가운데서, 누군가가 가난하게 되어서 너희에게 종으로 팔려 왔어도, 너희는 그를 종 부리듯 해서는 안 된다.",
+    Kor:"○너의 곁에 사는 동족 가운데서, 누군가가 가난하게 되어서 너에게 종으로 팔려 왔어도, 너는 그를 종 부리듯 해서는 안 된다.",
     Chn:"「你的弟兄若在你那里渐渐穷乏，将自己卖给你，不可叫他像奴仆服事你。",
     Eng:"\"'If one of your countrymen becomes poor among you and sells himself to you, do not make him work as a slave.",
     Ind:"Apabila saudaramu jatuh miskin di antaramu, sehingga menyerahkan dirinya kepadamu, maka janganlah memperbudak dia."
   },
   {Bible:"Leviticus", Chapter:25, Verse:40, Page:1,
-    Kor:"너희는 그를, 품꾼이나 임시 거주자처럼, 너희의 곁에서 살도록 하여야 한다. 너희는 희년이 될 때까지만 그에게 일을 시키다가,",
+    Kor:"너는 그를, 품꾼이나 임시 거주자처럼, 너의 곁에서 살도록 하여야 한다. 너는 희년이 될 때까지만 그에게 일을 시키다가,",
     Chn:"他要在你那里像雇工人和寄居的一样，要服事你直到禧年。",
     Eng:"He is to be treated as a hired worker or a temporary resident among you; he is to work for you until the Year of Jubilee.",
     Ind:"Sebagai orang upahan dan sebagai pendatang ia harus tinggal di antaramu; sampai kepada tahun Yobel ia harus bekerja padamu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:41, Page:1,
-    Kor:"희년이 되면, 그가 자식들과 함께 너희를 떠나, 자기 가족이 있는 조상에게서 받은 유산의 땅으로 돌아가도록 하여야 한다.",
+    Kor:"희년이 되면, 그가 자식들과 함께 너를 떠나, 자기 가족이 있는 조상에게서 받은 유산의 땅으로 돌아가도록 하여야 한다.",
     Chn:"到了禧年，他和他儿女要离开你，一同出去归回本家，到他祖宗的地业那里去。",
     Eng:"Then he and his children are to be released, and he will go back to his own clan and to the property of his forefathers.",
     Ind:"Kemudian ia harus diizinkan keluar dari padamu, ia bersama-sama anak-anaknya, lalu pulang kembali kepada kaumnya dan ia boleh pulang ke tanah milik nenek moyangnya."
@@ -255,31 +255,31 @@ BibleDB.add([
     Ind:"Karena mereka itu hamba-hamba-Ku yang Kubawa keluar dari tanah Mesir, janganlah mereka itu dijual, secara orang menjual budak."
   },
   {Bible:"Leviticus", Chapter:25, Verse:43, Page:1,
-    Kor:"너희는 그를 고되게 부려서도 안 된다. 모름지기 너희는 하나님 두려운 줄을 알아야 한다.",
+    Kor:"너는 그를 고되게 부려서도 안 된다. 모름지기 너는 하나님 두려운 줄을 알아야 한다.",
     Chn:"不可严严地辖管他，只要敬畏你的　神。",
     Eng:"Do not rule over them ruthlessly, but fear your God.",
     Ind:"Janganlah engkau memerintah dia dengan kejam, melainkan engkau harus takut akan Allahmu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:44, Page:1,
-    Kor:"○너희가 남종이나 여종을 두려면, 너희의 주변에 있는 여러 나라에서 남종이나 여종을 사들일 수 있다.",
+    Kor:"○네가 남종이나 여종을 두려면, 너의 주변에 있는 여러 나라에서 남종이나 여종을 사들일 수 있다.",
     Chn:"至于你的奴仆、婢女，可以从你四围的国中买。",
     Eng:"\"'Your male and female slaves are to come from the nations around you; from them you may buy slaves.",
     Ind:"Tetapi budakmu laki-laki atau perempuan yang boleh kaumiliki adalah dari antara bangsa-bangsa yang di sekelilingmu; hanya dari antara merekalah kamu boleh membeli budak laki-laki dan perempuan."
   },
   {Bible:"Leviticus", Chapter:25, Verse:45, Page:1,
-    Kor:"너희는 또, 너희와 함께 사는 외국인 거주자의 자손 가운데서나, 너희의 땅에서 태어나서 너희와 함께 사는 그들의 가족 가운데서 종을 사서, 너희의 소유로 삼을 수 있다.",
+    Kor:"너는 또, 너와 함께 사는 외국인 거주자의 자손 가운데서나, 너의 땅에서 태어나서 너와 함께 사는 그들의 가족 가운데서 종을 사서, 너의 소유로 삼을 수 있다.",
     Chn:"并且那寄居在你们中间的外人和他们的家属，在你们地上所生的，你们也可以从其中买人；他们要作你们的产业。",
     Eng:"You may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property.",
     Ind:"Juga dari antara anak-anak pendatang yang tinggal di antaramu boleh kamu membelinya dan dari antara kaum mereka yang tinggal di antaramu, yang dilahirkan di negerimu. Orang-orang itu boleh menjadi milikmu."
   },
   {Bible:"Leviticus", Chapter:25, Verse:46, Page:1,
-    Kor:"너희는 또 그 종들을 너희의 자손에게 영원한 유산으로 물려줄 수도 있다. 바로 이들은 너희가 종으로 부려도 된다. 그러나 너희의 동포 이스라엘 자손들끼리 서로 고되게 부려서는 안 된다.",
+    Kor:"너는 또 그 종들을 너의 자손에게 영원한 유산으로 물려줄 수도 있다. 바로 이들은 네가 종으로 부려도 된다. 그러나 너의 동포 이스라엘 자손들끼리 서로 고되게 부려서는 안 된다.",
     Chn:"你们要将他们遗留给你们的子孙为产业，要永远从他们中间拣出奴仆；只是你们的弟兄以色列人，你们不可严严地辖管。",
     Eng:"You can will them to your children as inherited property and can make them slaves for life, but you must not rule over your fellow Israelites ruthlessly.",
     Ind:"Kamu harus membagikan mereka sebagai milik pusaka kepada anak-anakmu yang kemudian, supaya diwarisi sebagai milik; kamu harus memperbudakkan mereka untuk selama-lamanya, tetapi atas saudara-saudaramu orang-orang Israel, janganlah memerintah dengan kejam yang satu sama yang lain."
   },
   {Bible:"Leviticus", Chapter:25, Verse:47, Page:1,
-    Kor:"○너희와 함께 사는, 나그네 신세 된 외국 사람이나 임시 거주자 가운데는 부자로 사는 사람이 있는데, 마침 그 이웃에 너희의 동족이 살고 있다가 가난하게 되어서, 그 외국 사람에게나, 너희와 같이 사는 임시 거주자에게나, 그 가족 가운데 누구에게, 종으로 팔렸다고 하자.",
+    Kor:"○너와 함께 사는, 나그네 신세 된 외국 사람이나 임시 거주자 가운데는 부자로 사는 사람이 있는데, 마침 그 이웃에 너의 동족이 살고 있다가 가난하게 되어서, 그 외국 사람에게나, 너와 같이 사는 임시 거주자에게나, 그 가족 가운데 누구에게, 종으로 팔렸다고 하자.",
     Chn:"「住在你那里的外人，或是寄居的，若渐渐富足，你的弟兄却渐渐穷乏，将自己卖给那外人，或是寄居的，或是外人的宗族，",
     Eng:"\"'If an alien or a temporary resident among you becomes rich and one of your countrymen becomes poor and sells himself to the alien living among you or to a member of the alien's clan,",
     Ind:"Apabila seorang asing atau seorang pendatang di antaramu telah menjadi mampu, sedangkan saudaramu yang tinggal padanya jatuh miskin, sehingga menyerahkan dirinya kepada orang asing atau pendatang yang di antaramu itu atau kepada seorang yang berasal dari kaum orang asing,"

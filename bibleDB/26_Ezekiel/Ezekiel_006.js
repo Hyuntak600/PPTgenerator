@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",6,14);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:6, Verse:1, Page:1,
-    Kor:"<주님께서 우상숭배를 심판하시다> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:6, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 이스라엘의 산들을 바라보면서, 그것들에게 내릴 심판을 예언하여라.",
+    Kor:"\"사람아, 너는 이스라엘의 산들을 바라보면서, 그것들에게 내릴 심판을 예언하여라.",
     Chn:"「人子啊，你要面向以色列的众山说预言，",
     Eng:"\"Son of man, set your face against the mountains of Israel; prophesy against them",
     Ind:"\"Hai anak manusia, tujukanlah mukamu ke gunung-gunung Israel dan bernubuatlah melawan mereka!"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan kamu akan mengetahui, bahwa Akulah TUHAN, tatkala orang-orang mereka yang terbunuh berebahan di tengah-tengah berhala-berhala mereka keliling mezbah-mezbahnya, di atas setiap bukit yang tinggi dan di atas semua puncak-puncak gunung, di bawah setiap pohon yang rimbun dan setiap pohon keramat yang penuh cabang-cabang, di tempat mana mereka membawa korban persembahan yang harum bagi semua berhala-berhala mereka."
   },
   {Bible:"Ezekiel", Chapter:6, Verse:14, Page:1,
-    Kor:"○내가 그렇게 나의 손을 펴서 그들을 치고, 그 땅을 남쪽의 광야에서부터 북쪽의 a디블라에 이르기까지, 그들이 거주하는 모든 곳을 황무지로 만들어 버리겠다. 그 때에야 비로소 내가 주인 줄 그들이 알게 될 것이다.\"(a 몇몇 히브리어 사본에는 '리블라')",
+    Kor:"○내가 그렇게 나의 손을 펴서 그들을 치고, 그 땅을 남쪽의 광야에서부터 북쪽의 디블라에 이르기까지, 그들이 거주하는 모든 곳을 황무지로 만들어 버리겠다. 그 때에야 비로소 내가 주인 줄 그들이 알게 될 것이다.\"",
     Chn:"我必伸手攻击他们，使他们的地从旷野到第伯拉他一切住处极其荒凉，他们就知道我是耶和华。」",
     Eng:"And I will stretch out my hand against them and make the land a desolate waste from the desert to Diblah--wherever they live. Then they will know that I am the LORD.'\"",
     Ind:"Aku akan mengacungkan tangan-Ku melawan mereka dan tanahnya, di mana saja mereka diam, akan Kubuat menjadi musnah dan sunyi sepi mulai dari padang gurun sampai ke Ribla dan mereka akan mengetahui, bahwa Akulah TUHAN.\""

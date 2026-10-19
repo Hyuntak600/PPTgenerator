@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",31,18);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:31, Verse:1, Page:1,
-    Kor:"<한 때 백향목 같았던 이집트> 제 십일년 셋째 달 초하루에 주님께서 내게 말씀하셨다.",
+    Kor:"제 십일년 셋째 달 초하루에 주께서 내게 말씀하셨다.",
     Chn:"十一年三月初一日，耶和华的话临到我说：",
     Eng:"In the eleventh year, in the third month on the first day, the word of the LORD came to me:",
     Ind:"Pada tahun kesebelas, dalam bulan yang ketiga, pada tanggal satu bulan itu, datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:31, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 이집트 왕 바로와 그의 무리에게 이렇게 전하여라.  '너의 위엄찬 모습을 누구와 비할 수 있겠느냐?",
+    Kor:"\"사람아, 너는 이집트 왕 바로와 그의 무리에게 이렇게 전하여라. '너의 위엄찬 모습을 누구와 비할 수 있겠느냐?",
     Chn:"「人子啊，你要向埃及王法老和他的众人说： 在威势上谁能与你相比呢？",
     Eng:"\"Son of man, say to Pharaoh king of Egypt and to his hordes: \"'Who can be compared with you in majesty?",
     Ind:"\"Hai anak manusia, katakanlah kepada Firaun, raja Mesir dan kepada khalayak ramai yang mengikutinya: Di dalam kebesaranmu siapakah yang dapat menyamai engkau?"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Maka dari itu tumbuhnya lebih tinggi dari segala pohon di padang; ranting-rantingnya menjadi banyak, cabang-cabangnya menjadi panjang lantaran air yang melimpah datang."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:6, Page:1,
-    Kor:"너의 큰 가지 속에서는 공중의 모든 새가 보금자리를 만들고, 가는 가지 밑에서는 들의 모든 짐승이 새끼를 낳고, 그 나무의 그늘 밑에서는 모든 큰 민족이 자리잡고 살았다.",
+    Kor:"너의 큰 가지 속에서는 공중의 모든 새가 보금자리를 만들고, 가는 가지 밑에서는 들의 모든 짐승이 새끼를 낳고, 그 나무의 그늘 밑에 모든 큰 민족이 자리잡았다.",
     Chn:"空中的飞鸟都在枝子上搭窝； 田野的走兽都在枝条下生子； 所有大国的人民都在它荫下居住。",
     Eng:"All the birds of the air nested in its boughs, all the beasts of the field gave birth under its branches; all the great nations lived in its shade.",
     Ind:"Pada rantingnya diam bersarang segala burung yang di udara, di bawah cabangnya segala binatang di hutan, melahirkan anaknya; dan semuanya bangsa besar duduk bernaung di bawahnya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu beginilah firman Tuhan ALLAH: Oleh karena ia tumbuh tinggi dan puncaknya menjulang sampai ke langit dan ia menjadi sombong karena ketinggiannya,"
   },
   {Bible:"Ezekiel", Chapter:31, Verse:11, Page:1,
-    Kor:"그러므로 나는 그 나무를 민족들의 통치자에게 넘겨 주고, 그는 그 나무가 저지른 악에 맞는 마땅한 벌을 내릴 것이다. 나는 그 나무를 내버렸다.",
+    Kor:"그러므로 나는 그 나무를 민족들의 통치자에게 넘겨 주고, 그는 그 나무가 저지른 악에 맞는 마땅한 처벌을 할 것이다. 나는 그 나무를 내버렸다.",
     Chn:"我就必将它交给列国中大有威势的人；他必定办它。我因它的罪恶，已经驱逐它。",
     Eng:"I handed it over to the ruler of the nations, for him to deal with according to its wickedness. I cast it aside,",
     Ind:"maka Aku telah menyerahkan dia ke dalam tangan seorang berkuasa di antara bangsa-bangsa, supaya ia memperlakukannya selaras dengan kejahatannya; Aku menghalau dia."
@@ -81,31 +81,31 @@ BibleDB.add([
     Ind:"Di atas batangnya yang roboh itu berhinggapan segala burung di udara dan di antara cabang-cabangnya diam segala binatang di hutan."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:14, Page:1,
-    Kor:"그것은 물가의 나무들이 다시는 키 때문에 교만하지 못하게 하며, 그 꼭대기가 구름 속으로 치솟아 오르지도 못하게 하며, 물을 빨아들이는 모든 나무가 자신의 교만에 머물지 못하게 한 것이었다.  그것들은 모두 죽음에 넘겨져서, 지하로 내려가고, 깊은 구덩이로 내려가는 사람들 속에 들어 있게 하였기 때문이다.",
+    Kor:"그것은 물가의 나무들이 다시는 키 때문에 교만하지 못하게 하며, 그 꼭대기가 구름 속으로 치솟아 오르지도 못하게 하며, 물을 빨아들이는 모든 나무가 자신의 교만에 머물지 못하게 한 것이었다. 그것들은 모두 죽음에게 넘겨 주어, 지하로 내려가고, 깊은 구덩이로 내려가는 사람들 속에 들어 있게 하였기 때문이다.",
     Chn:"好使水旁的诸树不因高大而自尊，也不将树尖插入云中，并且那些得水滋润、有势力的，也不得高大自立。因为它们在世人中，和下坑的人都被交与死亡，到阴府去了。」",
     Eng:"Therefore no other trees by the waters are ever to tower proudly on high, lifting their tops above the thick foliage. No other trees so well-watered are ever to reach such a height; they are all destined for death, for the earth below, among mortal men, with those who go down to the pit.",
     Ind:"Semuanya ini terjadi supaya segala pohon yang di tepi air jangan meninggikan dirinya dan puncaknya jangan dijulurkan sampai ke langit dan supaya pohon-pohon besar, yaitu semua yang menghisap banyak air, jangan tetap berdiri di dalam kecongkakannya; sebab mereka semuanya telah diserahkan ke dalam maut, ke dalam bumi yang paling bawah, di tengah anak-anak manusia yang telah turun ke liang kubur."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:15, Page:1,
-    Kor:"○나 주 하나님이 말한다. 그 나무가 a스올로 내려갈 때에, 내가 지하수를 말리고, 강물을 막고, 흐르는 큰 물을 모두 멈추게 하겠다. 또 내가 레바논 산으로는 그 나무를 애도하여 통곡하게 하겠고, 온 누리의 모든 나무는 그 나무를 애도하여 시들어 죽게 하겠다.(a 또는 '무덤' 또는 '죽음')",
+    Kor:"○나 주 하나님이 말한다. 그 나무가 스올로 내려갈 때에, 내가 지하수를 말리고, 강물을 막고, 흐르는 큰 물을 모두 멈추게 하겠다. 또 내가 레바논 산으로는 그 나무를 애도하여 통곡하게 하겠고, 온 누리의 모든 나무는 그 나무를 애도하여 시들어 죽게 하겠다.",
     Chn:"主耶和华如此说：「它下阴间的那日，我便使人悲哀。我为它遮盖深渊，使江河凝结，大水停流；我也使黎巴嫩为它凄惨，田野的诸树都因它发昏。",
     Eng:"\"'This is what the Sovereign LORD says: On the day it was brought down to the grave I covered the deep springs with mourning for it; I held back its streams, and its abundant waters were restrained. Because of it I clothed Lebanon with gloom, and all the trees of the field withered away.",
     Ind:"Beginilah firman Tuhan ALLAH: Pada hari ia turun ke dunia orang mati, Aku membuat samudera raya berkabung karena dia. Aku mengempang sungai-sungainya, sehingga air banjirnya dibendung. Dan karena dia Aku membuat gunung Libanon berpakaian kabung dan membuat segala pohon di hutan layu lesu."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:16, Page:1,
-    Kor:"내가 그 나무를 a스올로 내려 보낼 때에는, 깊은 구덩이로 내려가는 사람들과 함께 그 나무를 그리로 보낼 것이니, 그 나무가 a스올로 떨어지는 큰소리를 듣고서, 뭇 민족이 벌벌 떨 것이다. 이미 a스올에 가 있는 에덴의 모든 나무와, 물을 흠뻑 먹으며 자란 레바논 산의 가장 좋은 나무들이, 그 나무가 이렇게 심판을 받는 것을 보고는, a스올에서 큰 위로를 받을 것이다.(a 또는 '무덤' 또는 '죽음')",
+    Kor:"내가 그 나무를 스올로 내려 보낼 때에는, 깊은 구덩이로 내려가는 사람들과 함께 그 나무를 그리로 보낼 것이니, 그 나무가 스올로 떨어지는 큰소리를 듣고서, 뭇 민족이 벌벌 떨 것이다. 이미 스올에 가 있는 에덴의 모든 나무와, 물을 흠뻑 먹으며 자란 레바논 산의 가장 좋은 나무들이, 그 나무가 이렇게 심판을 받는 것을 보고는, 스올에서 큰 위로를 받을 것이다.",
     Chn:"我将它扔到阴间，与下坑的人一同下去。那时，列国听见它坠落的响声就都震动，并且伊甸的一切树—就是黎巴嫩得水滋润、最佳最美的树—都在阴府受了安慰。",
     Eng:"I made the nations tremble at the sound of its fall when I brought it down to the grave with those who go down to the pit. Then all the trees of Eden, the choicest and best of Lebanon, all the trees that were well-watered, were consoled in the earth below.",
     Ind:"Mendengar derum kejatuhannya Aku membuat bangsa-bangsa gemetar, pada saat Aku menurunkan dia ke dunia orang mati, menjumpai mereka yang telah turun ke liang kubur. Dan segala pohon taman Eden akan merasa terhibur di bumi yang paling bawah, yaitu pohon yang terpilih dan yang terindah dari Libanon, yang menghisap banyak air."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:17, Page:1,
-    Kor:"나무들도 그 나무와 함께 a스올로 내려가서, 이미 거기에 먼저 와 있던 나무들, 곧 칼에 찔려서 살해된 자들, 살아 생전에 그 나무의 그늘 밑에서 살다가 a스올로 들어온 자들에게로 갈 것이다.(a 또는 '무덤' 또는 '죽음')",
+    Kor:"나무들도 그 나무와 함께 스올로 내려가서, 이미 거기에 먼저 와 있던 나무들, 곧 칼에 찔려서 살해된 자들, 살아 생전에 그 나무의 그늘 밑에서 살다가 스올로 들어온 자들에게로 갈 것이다.",
     Chn:"它们也与它同下阴间，到被杀的人那里。它们曾作它的膀臂，在列国中它的荫下居住。",
     Eng:"Those who lived in its shade, its allies among the nations, had also gone down to the grave with it, joining those killed by the sword.",
     Ind:"Mereka juga turun bersama dia ke dunia orang mati, yaitu ke orang-orang yang mati terbunuh oleh pedang, dan mereka yang bernaung di bawahnya di tengah bangsa-bangsa mati juga."
   },
   {Bible:"Ezekiel", Chapter:31, Verse:18, Page:1,
-    Kor:"○에덴의 나무들 가운데서 어떤 나무가 너처럼 화려하고 컸더냐? 그러나 너도 이제는 에덴의 나무들과 함께 a스올로 끌려가서, 할례받지 못한 사람들 가운데 섞여, 칼에 찔려 죽은 사람들과 함께 누울 것이다. 바로와 그의 백성 모두가 이렇게 될 것이다. 나 주 하나님의 말이다.'\"(a 또는 '무덤' 또는 '죽음')",
+    Kor:"○에덴의 나무들 가운데서 어떤 나무가 너처럼 화려하고 컸더냐? 그러나 너도 이제는 에덴의 나무들과 함께 스올로 끌려가서, 할례받지 못한 사람들 가운데 섞여, 칼에 찔려 죽은 사람들과 함께 누울 것이다. 바로와 그의 백성 모두가 이렇게 될 것이다. 나 주 하나님의 말이다.'\"",
     Chn:"在这样荣耀威势上，在伊甸园诸树中，谁能与你相比呢？然而你要与伊甸的诸树一同下到阴府，在未受割礼的人中，与被杀的人一同躺卧。 「法老和他的群众乃是如此。这是主耶和华说的。」",
     Eng:"\"'Which of the trees of Eden can be compared with you in splendor and majesty? Yet you, too, will be brought down with the trees of Eden to the earth below; you will lie among the uncircumcised, with those killed by the sword. \"'This is Pharaoh and all his hordes, declares the Sovereign LORD.'\"",
     Ind:"Maka dengan siapakah engkau dapat disamakan di antara pohon-pohon di taman Eden dalam hal kemuliaan dan kebesaran? Engkau akan diturunkan ke bumi yang paling bawah bersama pohon-pohon di taman Eden dan engkau telentang di tengah orang-orang yang tak bersunat bersama orang-orang yang mati terbunuh oleh pedang. Itulah Firaun dengan semua khalayak ramai yang mengikutinya, demikianlah firman Tuhan ALLAH.\""

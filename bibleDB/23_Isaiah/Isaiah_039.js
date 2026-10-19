@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",39,8);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:39, Verse:1, Page:1,
-    Kor:"<바빌로니아에서 온 사절단(왕하 20:12-19)> 그 때에 발라단의 아들 바빌로니아 왕 므로닥발라단이, 히스기야가 병들었다가 나았다는 소식을 듣고서, 그에게 친서와 예물을 보내 왔다.",
+    Kor:"그 때에 발라단의 아들 바빌로니아 왕 므로닥발라단이, 히스기야가 병들었다가 나았다는 소식을 듣고서, 그에게 친서와 예물을 보내 왔다.",
     Chn:"那时，巴比伦王巴拉但的儿子米罗达·巴拉但听见希西家病而痊愈，就送书信和礼物给他。",
     Eng:"At that time Merodach-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of his illness and recovery.",
     Ind:"Pada waktu itu Merodakh-Baladan bin Baladan, raja Babel, menyuruh orang membawa surat dan pemberian kepada Hizkia, sebab telah didengarnya bahwa Hizkia sakit tadinya dan sudah kuat kembali."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Lalu tanyanya lagi: \"Apakah yang telah dilihat mereka di istanamu?\" Jawab Hizkia: \"Semua yang ada di istanaku telah mereka lihat. Tidak ada barang yang tidak kuperlihatkan kepada mereka di perbendaharaanku.\""
   },
   {Bible:"Isaiah", Chapter:39, Verse:5, Page:1,
-    Kor:"○이사야가 히스기야에게 말하였다. \"만군의 주님의 말씀을 들으십시오.",
+    Kor:"○이사야가 히스기야에게 말하였다. \"만군의 주의 말씀을 들으십시오.",
     Chn:"以赛亚对希西家说：「你要听万军之耶和华的话：",
     Eng:"Then Isaiah said to Hezekiah, \"Hear the word of the LORD Almighty:",
     Ind:"Lalu Yesaya berkata kepada Hizkia: \"Dengarkanlah firman TUHAN semesta alam!"
   },
   {Bible:"Isaiah", Chapter:39, Verse:6, Page:1,
-    Kor:"'그 날이 다가오고 있다. 그 날이 오면, 너의 왕궁 안에 있는 모든 것과 오늘까지 너의 조상이 저장하여 놓은 모든 보물이, 남김없이 바빌론으로 옮겨 갈 것이다.' 주님께서 또 말씀하십니다.",
+    Kor:"'그 날이 다가오고 있다. 그 날이 오면, 너의 왕궁 안에 있는 모든 것과 오늘까지 너의 조상이 저장하여 놓은 모든 보물이, 남김없이 바빌론으로 옮겨 갈 것이다.' 주께서 또 말씀하십니다.",
     Chn:"日子必到，凡你家里所有的，并你列祖积蓄到如今的，都要被掳到巴比伦去，不留下一样；这是耶和华说的。",
     Eng:"The time will surely come when everything in your palace, and all that your fathers have stored up until this day, will be carried off to Babylon. Nothing will be left, says the LORD.",
     Ind:"Sesungguhnya, suatu masa akan datang, bahwa segala yang ada dalam istanamu dan yang disimpan oleh nenek moyangmu sampai hari ini akan diangkut ke Babel. Tidak ada barang yang akan ditinggalkan, demikianlah firman TUHAN."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Dan dari keturunanmu yang akan kauperoleh, akan diambil orang untuk menjadi sida-sida di istana raja Babel.\""
   },
   {Bible:"Isaiah", Chapter:39, Verse:8, Page:1,
-    Kor:"○히스기야가 이사야에게 말하였다. \"그대가 전하여 준 주님의 말씀은 지당한 말씀이오.\" 히스기야는, 자기가 살아 있는 동안만이라도 평화와 안정이 계속되면 다행이라고 생각하였다.",
+    Kor:"○히스기야가 이사야에게 말하였다. \"그대가 전하여 준 주의 말씀은 지당한 말씀이오.\" 히스기야는, 자기가 살아 있는 동안만이라도 평화와 안정이 계속되면 다행이라고 생각하였다.",
     Chn:"希西家对以赛亚说：「你所说耶和华的话甚好，因为在我的年日中必有太平和稳固的景况。」",
     Eng:"\"The word of the LORD you have spoken is good,\" Hezekiah replied. For he thought, \"There will be peace and security in my lifetime.\"",
     Ind:"Hizkia menjawab kepada Yesaya: \"Sungguh baik firman TUHAN yang engkau ucapkan itu!\" Tetapi pikirnya: \"Asal ada damai dan keamanan seumur hidupku!\""

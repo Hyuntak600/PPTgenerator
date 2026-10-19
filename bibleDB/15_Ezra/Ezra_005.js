@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",5,17);
 BibleDB.add([
   {Bible:"Ezra", Chapter:5, Verse:1, Page:1,
-    Kor:"<성전을 재건하다> 그 때에 학개 예언자와 잇도의 아들 스가랴 예언자가, 자기들이 받들어 섬기는 이스라엘의 하나님의 이름으로, 유다와 예루살렘에 사는 유다 사람들에게 예언을 하기 시작하였다.",
+    Kor:"그 때에 학개 예언자와 잇도의 아들 스가랴 예언자가, 자기들이 받들어 섬기는 이스라엘의 하나님의 이름으로, 유다와 예루살렘에 사는 유다 사람들에게 예언을 하기 시작하였다.",
     Chn:"那时，先知哈该和易多的孙子撒迦利亚奉以色列　神的名向犹大和耶路撒冷的犹大人说劝勉的话。",
     Eng:"Now Haggai the prophet and Zechariah the prophet, a descendant of Iddo, prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.",
     Ind:"Tetapi nabi Hagai dan Zakharia bin Ido, kedua nabi itu, bernubuat terhadap orang-orang Yahudi yang tinggal di Yehuda dan di Yerusalem dalam nama Allah Israel, yang menyertai mereka."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Pada waktu itu mulailah Zerubabel bin Sealtiel dan Yesua bin Yozadak membangun rumah Allah yang ada di Yerusalem. Mereka didampingi dan dibantu oleh nabi-nabi Allah."
   },
   {Bible:"Ezra", Chapter:5, Verse:3, Page:1,
-    Kor:"○바로 그 때에 유프라테스 강 서쪽 지방의 닷드내 총독이 스달보스내와 동료 관리들을 데리고 그들에게 와서, 누가 그 성전을 다시 지으라고 하였는지, 누가 성벽 공사를 마치라고 하였는지를 물었다.",
+    Kor:"○바로 그 때에 유프라테스 강 서쪽 지방의 닷드내 총독이 스달보스내와 동료 관리들을 데리고 그들에게 와서, 누가 그 성전을 다시 지으라고 하였는지, 누가 공사 자재 준비를 마치라고 하였는지를 물었다.",
     Chn:"当时河西的总督达乃和示他·波斯乃，并他们的同党来问说：「谁降旨让你们建造这殿，修成这墙呢？」",
     Eng:"At that time Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates went to them and asked, \"Who authorized you to rebuild this temple and restore this structure?\"",
     Ind:"Tetapi pada waktu itu juga datanglah kepada mereka Tatnai, bupati daerah sebelah barat sungai Efrat, bersama-sama dengan Syetar-Boznai dan rekan-rekan mereka, dan beginilah katanya kepada mereka: \"Siapakah yang memberi perintah kepadamu untuk membangun rumah ini dan menyelesaikan tembok ini?\""
   },
   {Bible:"Ezra", Chapter:5, Verse:4, Page:1,
-    Kor:"a그들은 또한 성전 재건을 돕는 사람들의 이름도 밝히라고 요구하였다.(a 칠십인역을 따름. 아람어 본문에는 '우리는 그들에게 성전 재건을 돕는 사람들의 이름을 밝혔다')",
+    Kor:"그들은 또한 성전 재건을 돕는 사람들의 이름도 밝히라고 요구하였다.",
     Chn:"我们便告诉他们建造这殿的人叫什么名字。",
     Eng:"They also asked, \"What are the names of the men constructing this building?\"",
     Ind:"Lalu katanya pula kepada mereka: \"Siapakah nama-nama orang yang mendirikan bangunan ini?\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Kiranya raja maklum, bahwa kami datang ke daerah Yehuda, ke rumah Allah yang maha besar. Rumah itu sedang dibangun dengan batu yang besar-besar, sedang dindingnya dilapis dengan kayu, dan pekerjaan itu dikerjakan dengan seksama dan berjalan lancar di tangan mereka."
   },
   {Bible:"Ezra", Chapter:5, Verse:9, Page:1,
-    Kor:"그래서 저희는 원로들에게, 누가 그 성전을 다시 지으라고 하였는지, 누가 성벽 공사를 마치라고 하였는지를 물었습니다.",
+    Kor:"그래서 저희는 원로들에게, 누가 그 성전을 다시 지으라고 하였는지, 누가 공사 자재 준비를 마치라고 하였는지를 물었습니다.",
     Chn:"我们就问那些长老说：『谁降旨让你们建造这殿，修成这墙呢？』",
     Eng:"We questioned the elders and asked them, \"Who authorized you to rebuild this temple and restore this structure?\"",
     Ind:"Kemudian kami menanyai para tua-tua itu dan beginilah kata kami kepada mereka: Siapakah yang memberi perintah kepadamu untuk membangun rumah ini dan menyelesaikan tembok ini?"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Tetapi sesudah nenek moyang kami membangkitkan murka Allah semesta langit, mereka diserahkan-Nya ke dalam tangan Nebukadnezar, raja negeri Babel, orang Kasdim, yang merusak rumah itu dan mengangkut bangsa itu sebagai tawanan ke negeri Babel."
   },
   {Bible:"Ezra", Chapter:5, Verse:13, Page:1,
-    Kor:"그러나 고레스 왕께서 바빌로니아 왕이 된 그 첫 해에, 하나님의 성전을 지으라고 칙령을 내렸습니다.",
+    Kor:"그러나 고레스가 바빌로니아 왕이 된 그 첫 해에, 하나님의 성전을 지으라고 칙령을 내렸습니다.",
     Chn:"然而巴比伦王塞鲁士元年，他降旨允准建造　神的这殿。",
     Eng:"\"However, in the first year of Cyrus king of Babylon, King Cyrus issued a decree to rebuild this house of God.",
     Ind:"Akan tetapi pada tahun pertama zaman Koresh, raja negeri Babel, dikeluarkanlah perintah oleh raja Koresh untuk membangun rumah Allah ini."
   },
   {Bible:"Ezra", Chapter:5, Verse:14, Page:1,
-    Kor:"그뿐만 아니라, 그는 느부갓네살이 예루살렘 성전에서 꺼내어서 바빌론 b신전으로 가지고 간 성전의 금그릇과 은그릇을 그 b신전에서 꺼내어 돌려주기까지 하였습니다. 그 때에 고레스 왕께서는 세스바살을 총독으로 임명하고, 그 그릇들을 주면서,(b 또는 '궁전')",
+    Kor:"그뿐만 아니라, 그는 느부갓네살이 예루살렘 성전에서 꺼내어서 바빌론 신전으로 가지고 간 성전의 금그릇과 은그릇을 그 신전에서 꺼내어 돌려주기까지 하였습니다. 그 때에 고레스 왕께서는 세스바살을 총독으로 임명하고, 그 그릇들을 주면서,",
     Chn:"神殿中的金、银器皿，就是尼布甲尼撒从耶路撒冷的殿中掠去带到巴比伦庙里的，塞鲁士王从巴比伦庙里取出来，交给派为省长的，名叫设巴萨，",
     Eng:"He even removed from the temple of Babylon the gold and silver articles of the house of God, which Nebuchadnezzar had taken from the temple in Jerusalem and brought to the temple in Babylon. \"Then King Cyrus gave them to a man named Sheshbazzar, whom he had appointed governor,",
     Ind:"Juga perlengkapan emas dan perak dari rumah Allah, yang telah diambil oleh Nebukadnezar dari bait suci yang di Yerusalem dan dibawa ke dalam bait suci yang di Babel, diambil pula oleh raja Koresh dari bait suci yang di Babel itu, dan diserahkan kepada seorang yang bernama Sesbazar yang telah diangkatnya menjadi bupati."

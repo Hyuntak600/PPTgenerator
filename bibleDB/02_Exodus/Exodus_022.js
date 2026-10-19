@@ -3,13 +3,13 @@
 BibleDB.ref("Exodus",22,31);
 BibleDB.add([
   {Bible:"Exodus", Chapter:22, Verse:1, Page:1,
-    Kor:"<배상에 관한 법> \"어떤 사람이 소나 양을 도둑질하여 그것을 잡거나 팔면, 그는 소 한 마리에는 소 다섯 마리로, 양 한 마리에는 양 네 마리로 갚아야 한다.",
+    Kor:"\"어떤 사람이 소나 양을 도둑질하여 그것을 잡거나 팔면, 그는 소 한 마리에는 소 다섯 마리로, 양 한 마리에는 양 네 마리로 갚아야 한다.",
     Chn:"「人若偷牛或羊，无论是宰了，是卖了，他就要以五牛赔一牛，四羊赔一羊。",
     Eng:"\"If a man steals an ox or a sheep and slaughters it or sells it, he must pay back five head of cattle for the ox and four sheep for the sheep.",
     Ind:"\"Apabila seseorang mencuri seekor lembu atau seekor domba dan membantainya atau menjualnya, maka ia harus membayar gantinya, yakni lima ekor lembu ganti lembu itu dan empat ekor domba ganti domba itu."
   },
   {Bible:"Exodus", Chapter:22, Verse:2, Page:1,
-    Kor:"○밤에 도둑이 몰래 들어온 것을 알고서, 그를 때려서 죽였을 경우에는, 죽인 사람에게 살인죄가 없다.",
+    Kor:"밤에 도둑이 몰래 들어온 것을 알고서, 그를 때려서 죽였을 경우에는, 죽인 사람에게 살인죄가 없다.",
     Chn:"人若遇见贼挖窟窿，把贼打了，以至于死，就不能为他有流血的罪。",
     Eng:"\"If a thief is caught breaking in and is struck so that he dies, the defender is not guilty of bloodshed;",
     Ind:"Jika seorang pencuri kedapatan waktu membongkar, dan ia dipukul orang sehingga mati, maka si pemukul tidak berhutang darah;"
@@ -27,31 +27,31 @@ BibleDB.add([
     Ind:"Jika yang dicurinya itu masih terdapat padanya dalam keadaan hidup, baik lembu, keledai atau domba, maka ia harus membayar ganti kerugian dua kali lipat."
   },
   {Bible:"Exodus", Chapter:22, Verse:5, Page:1,
-    Kor:"○어떤 사람이 밭이나 포도원에서 집짐승을 풀어 놓아서 풀을 뜯게 하다가, 이 집짐승이 남의 밭의 농작물을 모두 뜯어먹었으면, 그는 자기 밭의 가장 좋은 소출과 자기 포도원의 가장 좋은 소출로 그것을 물어주어야 한다.",
+    Kor:"○어떤 사람이 밭이나 포도원에서 집짐승을 풀어 놓아서, 풀을 뜯게 하다가, 이 집짐승이 남의 밭의 농작물을 모두 뜯어먹었으면, 그는 자기 밭의 가장 좋은 소출과 자기 포도원의 가장 좋은 소출로 그것을 물어주어야 한다.",
     Chn:"「人若在田间或在葡萄园里放牲畜，任凭牲畜上别人的田里去吃，就必拿自己田间上好的和葡萄园上好的赔还。",
     Eng:"\"If a man grazes his livestock in a field or vineyard and lets them stray and they graze in another man's field, he must make restitution from the best of his own field or vineyard.",
     Ind:"Apabila seseorang menggembalakan ternaknya di ladangnya atau di kebun anggurnya dan ternak itu dibiarkannya berjalan lepas, sehingga makan habis ladang orang lain, maka ia harus memberikan hasil yang terbaik dari ladangnya sendiri atau hasil yang terbaik dari kebun anggurnya sebagai ganti kerugian."
   },
   {Bible:"Exodus", Chapter:22, Verse:6, Page:1,
-    Kor:"○불이 나서 가시덤불로 옮겨붙어서, 남의 낟가리나 거두지 않은 곡식이나 밭을 태웠으면, 불을 놓은 사람은 그것을 반드시 물어주어야 한다.",
+    Kor:"○불이 나서, 가시덤불로 옮겨붙어서, 남의 낟가리나 거두지 않은 곡식이나 밭을 태웠으면, 불을 놓은 사람은 그것을 반드시 물어주어야 한다.",
     Chn:"「若点火焚烧荆棘，以致将别人堆积的禾捆，站着的禾稼，或是田园，都烧尽了，那点火的必要赔还。",
     Eng:"\"If a fire breaks out and spreads into thornbushes so that it burns shocks of grain or standing grain or the whole field, the one who started the fire must make restitution.",
     Ind:"Apabila ada api dinyalakan dan api itu menjilat semak duri, tetapi tumpukan gandum atau gandum yang belum dituai atau seluruh ladang itu ikut juga dimakan api, maka orang yang menyebabkan kebakaran itu harus membayar ganti kerugian sepenuhnya."
   },
   {Bible:"Exodus", Chapter:22, Verse:7, Page:1,
-    Kor:"○어떤 사람이 그 이웃에게 돈이나 물품을 보관하여 달라고 맡겼는데, 그 맡은 집에 도둑이 들었을 때에, 그 도둑이 잡히면, 도둑이 그것을 갑절로 물어 내야 한다.",
+    Kor:"○어떤 사람이 그 이웃에게 돈이나 물품을 보관하여 달라고 맡겼는데, 그 맡은 집에 도둑이 들었는데, 그 도둑이 잡히면, 도둑이 그것을 갑절로 물어 내야 한다.",
     Chn:"「人若将银钱或家具交付邻舍看守，这物从那人的家被偷去，若把贼找到了，贼要加倍赔还；",
     Eng:"\"If a man gives his neighbor silver or goods for safekeeping and they are stolen from the neighbor's house, the thief, if he is caught, must pay back double.",
     Ind:"Apabila seseorang menitipkan kepada temannya uang atau barang, dan itu dicuri dari rumah orang itu, maka jika pencuri itu terdapat, ia harus membayar ganti kerugian dua kali lipat."
   },
   {Bible:"Exodus", Chapter:22, Verse:8, Page:1,
-    Kor:"그러나 도둑이 잡히지 않으면, 그 집 주인이 a하나님 앞으로 나가서, 그 이웃의 물건에 손을 댔는지 안 댔는지를 판결받아야 한다.",
+    Kor:"그러나 도둑이 잡히지 않으면, 그 집 주인이 하나님 앞으로 나가서, 그 이웃의 물건에 손을 댔는지 안 댔는지를 판결받아야 한다.",
     Chn:"若找不到贼，那家主必就近审判官，要看看他拿了原主的物件没有。",
     Eng:"But if the thief is not found, the owner of the house must appear before the judges to determine whether he has laid his hands on the other man's property.",
     Ind:"Jika pencuri itu tidak terdapat, maka tuan rumah harus pergi menghadap Allah untuk bersumpah, bahwa ia tidak mengulurkan tangannya mengambil harta kepunyaan temannya."
   },
   {Bible:"Exodus", Chapter:22, Verse:9, Page:1,
-    Kor:"○소든지 나귀든지 양이든지 의복이든지, 그 밖의 어떤 분실물이든지, 그것을 서로 자기 것이라고 주장하는 사건이 생기면, 양쪽 다 a하나님 앞으로 나아가야 하며, 하나님께 유죄 판결을 받은 사람은 그 상대방에게 갑절로 물어주어야 한다.",
+    Kor:"○소든지 나귀든지 양이든지 의복이든지, 그 밖의 어떤 분실물이든지, 그것을 서로 자기 것이라고 주장하는 사건이 생기면, 양쪽 다 하나님 앞으로 나아가야 하며, 하나님께 유죄 판결을 받은 사람은 그 상대방에게 갑절로 물어주어야 한다.",
     Chn:"「两个人的案件，无论是为什么过犯，或是为牛，为驴，为羊，为衣裳，或是为什么失掉之物，有一人说：『这是我的』，两造就要将案件禀告审判官，审判官定谁有罪，谁就要加倍赔还。",
     Eng:"In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any other lost property about which somebody says, 'This is mine,' both parties are to bring their cases before the judges. The one whom the judges declare guilty must pay back double to his neighbor.",
     Ind:"Dalam tiap-tiap perkara pertengkaran harta, baik tentang seekor lembu, tentang seekor keledai, tentang seekor domba, tentang sehelai pakaian, baik tentang barang apapun yang kehilangan, kalau seorang mengatakan: Inilah kepunyaanku--maka perkara kedua orang itu harus dibawa ke hadapan Allah. Siapa yang dipersalahkan oleh Allah haruslah membayar kepada temannya ganti kerugian dua kali lipat."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Apabila seseorang menitipkan kepada temannya seekor keledai atau lembu atau seekor domba atau binatang apapun dan binatang itu mati, atau patah kakinya atau dihalau orang dengan kekerasan, dengan tidak ada orang yang melihatnya,"
   },
   {Bible:"Exodus", Chapter:22, Verse:11, Page:1,
-    Kor:"그것을 맡은 사람이 이웃의 짐승을 가로채지 않았음을 주 앞에서 맹세함으로써, 둘의 옳고 그름을 가려야 한다. 이 경우에 그 임자가 맹세를 받아들이면, 그는 물어 내지 않아도 된다.",
+    Kor:"그것을 맡은 사람이, 이웃의 짐승을 가로채지 않았음을 주 앞에서 맹세함으로써, 둘의 옳고 그름을 가려야 한다. 이 경우에, 그 임자가 맹세를 받아들이면, 그는 물어 내지 않아도 된다.",
     Chn:"那看守的人要凭着耶和华起誓，手里未曾拿邻舍的物，本主就要罢休，看守的人不必赔还。",
     Eng:"the issue between them will be settled by the taking of an oath before the LORD that the neighbor did not lay hands on the other person's property. The owner is to accept this, and no restitution is required.",
     Ind:"maka sumpah di hadapan TUHAN harus menentukan di antara kedua orang itu, apakah ia tidak mengulurkan tangannya mengambil harta kepunyaan temannya, dan pemilik harus menerima sumpah itu, dan yang lain itu tidak usah membayar ganti kerugian."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi jika pemiliknya ada di situ, maka tidak usahlah ia membayar ganti kerugian. Jika binatang itu disewa, maka kerugian itu telah termasuk dalam sewa."
   },
   {Bible:"Exodus", Chapter:22, Verse:16, Page:1,
-    Kor:"<도덕과 종교에 관한 법> ○\"어떤 사람이 아직 약혼하지 않은 처녀를 꾀어서 건드리면, 그는 반드시 신부의 몸값을 내고, 그 여자를 아내로 맞아들여야 한다.",
+    Kor:"○\"어떤 사람이 아직 약혼하지 않은 처녀를 꾀어서 건드리면, 그는 반드시 신부의 몸값을 내고, 그 여자를 아내로 맞아들여야 한다.",
     Chn:"「人若引诱没有受聘的处女，与她行淫，他总要交出聘礼，娶她为妻。",
     Eng:"\"If a man seduces a virgin who is not pledged to be married and sleeps with her, he must pay the bride-price, and she shall be his wife.",
     Ind:"Apabila seseorang membujuk seorang anak perawan yang belum bertunangan, dan tidur dengan dia, maka haruslah ia mengambilnya menjadi isterinya dengan membayar mas kawin."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"sebab hanya itu saja penutup tubuhnya, itulah pemalut kulitnya--pakai apakah ia pergi tidur? Maka apabila ia berseru-seru kepada-Ku, Aku akan mendengarkannya, sebab Aku ini pengasih.\""
   },
   {Bible:"Exodus", Chapter:22, Verse:28, Page:1,
-    Kor:"○너희는 a하나님께 욕되는 말을 하거나, 너희 백성의 지도자를 저주하지 못한다.(a 또는 '재판장')",
+    Kor:"○너희는 하나님께 욕되는 말을 하거나, 너희 백성의 지도자를 저주하지 못한다.",
     Chn:"「不可毁谤　神；也不可毁谤你百姓的官长。",
     Eng:"\"Do not blaspheme God or curse the ruler of your people.",
     Ind:"\"Janganlah engkau mengutuki Allah dan janganlah engkau menyumpahi seorang pemuka di tengah-tengah bangsamu."

@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",35,34);
 BibleDB.add([
   {Bible:"Numbers", Chapter:35, Verse:1, Page:1,
-    Kor:"<레위 사람에게 준 성읍> 여리고 건너편 요단 강 가 모압 평야에서, 주님께서 모세에게 말씀하셨다.",
+    Kor:"여리고 건너편 요단 강 가 모압 평야에서, 주께서 모세에게 말씀하셨다.",
     Chn:"耶和华在摩押平原—约旦河边、耶利哥对面晓谕摩西说：",
     Eng:"On the plains of Moab by the Jordan across from Jericho, the LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa di dataran Moab di tepi sungai Yordan di dekat Yerikho:"
   },
   {Bible:"Numbers", Chapter:35, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게, 그들이 유산으로 받는 땅에서 레위 사람이 살 성읍들을 떼어 주라고 명령하여라. 레위 사람에게는 성읍과 함께 그 주변의 a목초지도 함께 주어라.(a 또는 '들')",
+    Kor:"\"너는 이스라엘 자손에게, 그들이 유산으로 받는 땅에서 레위 사람이 살 성읍들을 떼어 주라고 명령하여라. 레위 사람에게는 성읍과 함께 그 주변의 목초지도 함께 주어라.",
     Chn:"「你吩咐以色列人，要从所得为业的地中把些城给利未人居住，也要把这城四围的郊野给利未人。",
     Eng:"\"Command the Israelites to give the Levites towns to live in from the inheritance the Israelites will possess. And give them pasturelands around the towns.",
     Ind:"\"Perintahkanlah kepada orang Israel, supaya dari milik pusaka kepunyaannya diberikan mereka kota-kota kepada orang Lewi untuk didiami; juga haruslah kamu memberikan kepada orang Lewi tanah-tanah penggembalaan yang di sekeliling kota-kota itu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Kota-kota itu akan menjadi kepunyaan mereka untuk didiami dan tanah-tanah penggembalaannya untuk hewan yang mereka miliki dan untuk segala ternak mereka yang lain."
   },
   {Bible:"Numbers", Chapter:35, Verse:4, Page:1,
-    Kor:"너희가 레위 사람에게 줄 성읍 둘레의 목초지의 범위는 각 성에 다같이 성벽 둘레로부터 b이천 자까지의 지역이어야 한다.(b 히, '천 자')",
+    Kor:"너희가 레위 사람에게 줄 성읍 둘레의 목초지의 범위는 각 성에 다같이 성벽 둘레로부터 이천 자까지의 지역이어야 한다.",
     Chn:"你们给利未人的郊野，要从城根起，四围往外量一千肘。",
     Eng:"\"The pasturelands around the towns that you give the Levites will extend out fifteen hundred feet from the town wall.",
     Ind:"Tanah-tanah penggembalaan kota-kota yang harus kamu berikan kepada orang Lewi itu ialah dari tembok kota ke luar seribu hasta berkeliling."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Mengenai kota-kota yang akan kamu berikan dari tanah milik orang Israel, dari suku yang banyak jumlahnya haruslah kamu ambil banyak, dan dari suku yang sedikit jumlahnya haruslah kamu ambil sedikit. Setiap suku harus memberikan dari kota-kotanya kepada orang Lewi sekadar milik pusaka yang dibagikan kepadanya.\""
   },
   {Bible:"Numbers", Chapter:35, Verse:9, Page:1,
-    Kor:"<도피성(신 19:1-13; 수 20:1-9)> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:35, Verse:10, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○너희가 앞으로 곧 요단 강을 건너 가나안 땅에 들어가게 되거든,",
+    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. '너희가 앞으로 곧 요단 강을 건너 가나안 땅에 들어가게 되거든,",
     Chn:"「你吩咐以色列人说：你们过约旦河，进了迦南地，",
     Eng:"\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila kamu menyeberangi sungai Yordan ke tanah Kanaan,"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"dan penuntut darah mendapat dia di luar batas kota perlindungannya, dan penuntut darah membunuh pembunuh itu, maka tidaklah ia berhutang darah,"
   },
   {Bible:"Numbers", Chapter:35, Verse:28, Page:1,
-    Kor:"살인자는 반드시 대제사장이 죽을 때까지 도피성에 머물러 있어야 하고, 대제사장이 죽은 다음에야 비로소 자기 소유지가 있는 땅으로 돌아갈 수 있다.",
+    Kor:"살인자는 반드시 대제사장이 죽을 때까지 도피성에 머물러 있어야 하고,대제사장이 죽은 다음에야 비로소 자기 소유지가 있는 땅으로 돌아갈 수 있다.",
     Chn:"因为误杀人的该住在逃城里，等到大祭司死了。大祭司死了以后，误杀人的才可以回到他所得为业之地。",
     Eng:"The accused must stay in his city of refuge until the death of the high priest; only after the death of the high priest may he return to his own property.",
     Ind:"sebab pembunuh itu wajib tinggal di kota perlindungan sampai matinya imam besar, tetapi sesudah matinya imam besar bolehlah pembunuh itu kembali ke tanah kepunyaannya sendiri."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Jadi janganlah kamu mencemarkan negeri tempat tinggalmu, sebab darah itulah yang mencemarkan negeri itu, maka bagi negeri itu tidak dapat diadakan pendamaian oleh karena darah yang tertumpah di sana, kecuali dengan darah orang yang telah menumpahkannya."
   },
   {Bible:"Numbers", Chapter:35, Verse:34, Page:1,
-    Kor:"너희가 사는 땅, 곧 내가 머물러 있는 이 땅을 더럽히지 말아라. 나 주가 이스라엘 자손과 더불어 함께 머물고 있다.\"",
+    Kor:"너희가 사는 땅, 곧 내가 머물러 있는 이 땅을 더럽히지 말아라. 나 주가 이스라엘 자손과 더불어 함께 머물고 있다.'\"",
     Chn:"你们不可玷污所住之地，就是我住在其中之地，因为我—耶和华住在以色列人中间。」",
     Eng:"Do not defile the land where you live and where I dwell, for I, the LORD, dwell among the Israelites.'\"",
     Ind:"Maka janganlah najiskan negeri tempat kedudukanmu, yang di tengah-tengahnya Aku diam, sebab Aku, TUHAN, diam di tengah-tengah orang Israel.\""

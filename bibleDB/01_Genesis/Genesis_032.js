@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",32,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:32, Verse:1, Page:1,
-    Kor:"<야곱이 에서를 만날 준비를 하다> 야곱이 길을 떠나서 가는데, 하나님의 천사들이 야곱 앞에 나타났다.",
+    Kor:"야곱이 길을 떠나서 가는데, 하나님의 천사들이 야곱 앞에 나타났다.",
     Chn:"雅各仍旧行路，　神的使者遇见他。",
     Eng:"Jacob also went on his way, and the angels of God met him.",
     Ind:"Yakub melanjutkan perjalanannya, lalu bertemulah malaikat-malaikat Allah dengan dia."
   },
   {Bible:"Genesis", Chapter:32, Verse:2, Page:1,
-    Kor:"야곱이 그들을 알아보고 \"이 곳은 하나님의 진이구나!\" 하면서, 그 곳 이름을 a마하나임이라고 하였다.(a '두 진지')",
+    Kor:"야곱이 그들을 알아보고 \"이 곳은 하나님의 진이구나!\" 하면서, 그 곳 이름을 마하나임이라고 하였다.",
     Chn:"雅各看见他们就说：「这是　神的军兵」，于是给那地方起名叫玛哈念。",
     Eng:"When Jacob saw them, he said, \"This is the camp of God!\" So he named that place Mahanaim.",
     Ind:"Ketika Yakub melihat mereka, berkatalah ia: \"Ini bala tentara Allah.\" Sebab itu dinamainyalah tempat itu Mahanaim."
@@ -51,31 +51,31 @@ BibleDB.add([
     Ind:"Sebab pikirnya: \"Jika Esau datang menyerang pasukan yang satu, sehingga terpukul kalah, maka pasukan yang tinggal akan terluput.\""
   },
   {Bible:"Genesis", Chapter:32, Verse:9, Page:1,
-    Kor:"○야곱은 기도를 드렸다. \"할아버지 아브라함을 보살펴 주신 하나님, 아버지 이삭을 보살펴 주신 하나님, 고향 친족에게로 돌아가면 은혜를 베푸시겠다고 저에게 약속하신 주님,",
+    Kor:"○야곱은 기도를 드렸다. \"할아버지 아브라함을 보살펴 주신 하나님, 아버지 이삭을 보살펴 주신 하나님, 고향 친척에게로 돌아가면, 은혜를 베푸시겠다고 저에게 약속하신 주님,",
     Chn:"雅各说：「耶和华—我祖亚伯拉罕的　神，我父亲以撒的　神啊，你曾对我说：『回你本地本族去，我要厚待你。』",
     Eng:"Then Jacob prayed, \"O God of my father Abraham, God of my father Isaac, O LORD, who said to  me, 'Go back to your country and your relatives, and I will make you prosper,'",
     Ind:"Kemudian berkatalah Yakub: \"Ya Allah nenekku Abraham dan Allah ayahku Ishak, ya TUHAN, yang telah berfirman kepadaku: Pulanglah ke negerimu serta kepada sanak saudaramu dan Aku akan berbuat baik kepadamu--"
   },
   {Bible:"Genesis", Chapter:32, Verse:10, Page:1,
-    Kor:"주님께서 주님의 종에게 베푸신 이 모든 은총과 온갖 진실을, 이 종은 감히 받을 자격이 없습니다. 제가 이 요단 강을 건널 때에, 가진 것이라고는 지팡이 하나뿐이었습니다만, 이제 저는 이처럼 두 무리나 이루었습니다.",
+    Kor:"주께서 주의 종에게 베푸신 이 모든 은총과 온갖 진실을, 이 종은 감히 받을 자격이 없습니다. 제가 이 요단 강을 건널 때에, 가진 것이라고는 지팡이 하나뿐이었습니다만, 이제 저는 이처럼 두 무리나 이루었습니다.",
     Chn:"你向仆人所施的一切慈爱和诚实，我一点也不配得；我先前只拿着我的杖过这约旦河，如今我却成了两队了。",
     Eng:"I am unworthy of all the kindness and faithfulness you have shown your servant. I had only  my staff when I crossed this Jordan, but now I have become two groups.",
     Ind:"sekali-kali aku tidak layak untuk menerima segala kasih dan kesetiaan yang Engkau tunjukkan kepada hamba-Mu ini, sebab aku membawa hanya tongkatku ini waktu aku menyeberangi sungai Yordan ini, tetapi sekarang telah menjadi dua pasukan."
   },
   {Bible:"Genesis", Chapter:32, Verse:11, Page:1,
-    Kor:"부디, 제 형의 손에서, 에서의 손에서, 저를 건져 주십시오. 형이 와서 저를 치고, 아내들과 자식들까지 죽일까 두렵습니다.",
+    Kor:"부디, 저의 형의 손에서, 에서의 손에서, 저를 건져 주십시오. 형이 와서 저를 치고, 아내들과 자식들까지 죽일까 두렵습니다.",
     Chn:"求你救我脱离我哥哥以扫的手；因为我怕他来杀我，连妻子带儿女一同杀了。",
     Eng:"Save me, I pray, from the hand of my brother Esau, for I am afraid he will come and attack  me, and also the mothers with their children.",
     Ind:"Lepaskanlah kiranya aku dari tangan kakakku, dari tangan Esau, sebab aku takut kepadanya, jangan-jangan ia datang membunuh aku, juga ibu-ibu dengan anak-anaknya."
   },
   {Bible:"Genesis", Chapter:32, Verse:12, Page:1,
-    Kor:"주님께서 말씀하시기를 '내가 반드시 너에게 은혜를 베풀어서, 너의 씨가 바다의 모래처럼 셀 수도 없이 많아지게 하겠다' 하시지 않으셨습니까?\"",
+    Kor:"주께서 말씀하시기를 '내가 반드시 너에게 은혜를 베풀어서, 너의 씨가 바다의 모래처럼 셀 수도 없이 많아지게 하겠다' 하시지 않으셨습니까?\"",
     Chn:"你曾说：『我必定厚待你，使你的后裔如同海边的沙，多得不可胜数。』」",
     Eng:"But you have said, 'I will surely make you prosper and will make your descendants like the  sand of the sea, which cannot be counted.'\"",
     Ind:"Bukankah Engkau telah berfirman: Tentu Aku akan berbuat baik kepadamu dan menjadikan keturunanmu sebagai pasir di laut, yang karena banyaknya tidak dapat dihitung.\""
   },
   {Bible:"Genesis", Chapter:32, Verse:13, Page:1,
-    Kor:"○그 날 밤에 야곱은 거기에서 묵었다. 야곱은 자기가 가진 것 가운데서, 자기의 형 에서에게 줄 선물을 따로 골라 냈다.",
+    Kor:"○그 날 밤에 야곱은 거기에서 묵었다. 야곱은 자기가 가진 것 가운데서, 자기의 형, 에서에게 줄 선물을 따로 골라 냈다.",
     Chn:"当夜，雅各在那里住宿，就从他所有的物中拿礼物要送给他哥哥以扫：",
     Eng:"He spent the night there, and from what he had with him he selected a gift for his brother  Esau:",
     Ind:"Lalu bermalamlah ia di sana pada malam itu. Kemudian diambilnyalah dari apa yang ada padanya suatu persembahan untuk Esau, kakaknya,"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Jadi persembahan itu diantarkan lebih dahulu, tetapi ia sendiri bermalam pada malam itu di tempat perkemahannya."
   },
   {Bible:"Genesis", Chapter:32, Verse:22, Page:1,
-    Kor:"<야곱이 브니엘에서 씨름을 하다> ○그 밤에 야곱은 일어나서, 두 아내와 두 여종과 열한 아들을 데리고, 얍복 나루를 건넜다.",
+    Kor:"○그 밤에 야곱은 일어나서, 두 아내와 두 여종과 열한 아들을 데리고, 얍복 나루를 건넜다.",
     Chn:"他夜间起来，带着两个妻子，两个使女，并十一个儿子，都过了雅博渡口，",
     Eng:"That night Jacob got up and took his two wives, his two maidservants and his eleven sons  and crossed the ford of the Jabbok.",
     Ind:"Pada malam itu Yakub bangun dan ia membawa kedua isterinya, kedua budaknya perempuan dan kesebelas anaknya, dan menyeberang di tempat penyeberangan sungai Yabok."
@@ -141,31 +141,31 @@ BibleDB.add([
     Ind:"Sesudah ia menyeberangkan mereka, ia menyeberangkan juga segala miliknya."
   },
   {Bible:"Genesis", Chapter:32, Verse:24, Page:1,
-    Kor:"뒤에 홀로 남았는데, 어떤 이가 나타나 야곱을 붙잡고 동이 틀 때까지 씨름을 하였다.",
+    Kor:"뒤에 홀로 남았는데, 어떤 분이 나타나 야곱을 붙잡고, 동이 틀 때까지 씨름을 하였다.",
     Chn:"只剩下雅各一人。有一个人来和他摔跤，直到黎明。",
     Eng:"So Jacob was left alone, and a man wrestled with him till daybreak.",
     Ind:"Lalu tinggallah Yakub seorang diri. Dan seorang laki-laki bergulat dengan dia sampai fajar menyingsing."
   },
   {Bible:"Genesis", Chapter:32, Verse:25, Page:1,
-    Kor:"그는 도저히 야곱을 이길 수 없다는 것을 알고서, 야곱의 엉덩이뼈를 쳤다. 야곱은 그와 씨름을 하다가 엉덩이뼈를 다쳤다.",
+    Kor:"그분은 도저히 야곱을 이길 수 없다는 것을 알고서, 야곱의 엉덩이뼈를 쳤다. 야곱은 그와 씨름을 하다가 엉덩이뼈를 다쳤다.",
     Chn:"那人见自己胜不过他，就将他的大腿窝摸了一把，雅各的大腿窝正在摔跤的时候就扭了。",
     Eng:"When the man saw that he could not overpower him, he touched the socket of Jacob's hip so  that his hip was wrenched as he wrestled with the man.",
     Ind:"Ketika orang itu melihat, bahwa ia tidak dapat mengalahkannya, ia memukul sendi pangkal paha Yakub, sehingga sendi pangkal paha itu terpelecok, ketika ia bergulat dengan orang itu."
   },
   {Bible:"Genesis", Chapter:32, Verse:26, Page:1,
-    Kor:"그가, 날이 새려고 하니 놓아 달라고 하였지만, 야곱은 자기에게 축복해 주지 않으면 보내지 않겠다고 떼를 썼다.",
+    Kor:"그분이, 날이 새려고 하니 놓아 달라고 하였지만, 야곱은 자기에게 축복해 주지 않으면 보내지 않겠다고 떼를 썼다.",
     Chn:"那人说：「天黎明了，容我去吧！」雅各说：「你不给我祝福，我就不容你去。」",
     Eng:"Then the man said, \"Let me go, for it is daybreak.\" But Jacob replied, \"I will not let you  go unless you bless me.\"",
     Ind:"Lalu kata orang itu: \"Biarkanlah aku pergi, karena fajar telah menyingsing.\" Sahut Yakub: \"Aku tidak akan membiarkan engkau pergi, jika engkau tidak memberkati aku.\""
   },
   {Bible:"Genesis", Chapter:32, Verse:27, Page:1,
-    Kor:"그가 야곱에게 물었다. \"너의 이름이 무엇이냐?\" 야곱이 대답하였다. \"야곱입니다.\"",
+    Kor:"그분이 야곱에게 물었다. \"너의 이름이 무엇이냐?\" 야곱이 대답하였다. \"야곱입니다.\"",
     Chn:"那人说：「你名叫什么？」他说：「我名叫雅各。」",
     Eng:"The man asked him, \"What is your name?\" \"Jacob,\" he answered.",
     Ind:"Bertanyalah orang itu kepadanya: \"Siapakah namamu?\" Sahutnya: \"Yakub.\""
   },
   {Bible:"Genesis", Chapter:32, Verse:28, Page:1,
-    Kor:"b그 사람이 말하였다. \"네가 하나님과도 겨루어 이겼고, 사람과도 겨루어 이겼으니, 이제 네 이름은 야곱이 아니라 c이스라엘이다.\"(b 히, '그가' c '하나님과 겨루다' 또는 '하나님이 겨루시다')",
+    Kor:"그 사람이 말하였다. \"네가 하나님과도 겨루어 이겼고, 사람과도 겨루어 이겼으니, 이제 너의 이름은, 야곱이 아니라, 이스라엘이다.\"",
     Chn:"那人说：「你的名不要再叫雅各，要叫以色列；因为你与　神与人较力，都得了胜。」",
     Eng:"Then the man said, \"Your name will no longer be Jacob, but Israel, because you have  struggled with God and with men and have overcome.\"",
     Ind:"Lalu kata orang itu: \"Namamu tidak akan disebutkan lagi Yakub, tetapi Israel, sebab engkau telah bergumul melawan Allah dan manusia, dan engkau menang.\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Bertanyalah Yakub: \"Katakanlah juga namamu.\" Tetapi sahutnya: \"Mengapa engkau menanyakan namaku?\" Lalu diberkatinyalah Yakub di situ."
   },
   {Bible:"Genesis", Chapter:32, Verse:30, Page:1,
-    Kor:"야곱은 \"내가 하나님의 얼굴을 직접 뵙고도, 목숨이 이렇게 붙어 있구나!\" 하면서, 그 곳 이름을 d브니엘이라고 하였다.(d '하나님의 얼굴')",
+    Kor:"야곱은 \"내가 하나님의 얼굴을 직접 뵈옵고도, 목숨이 이렇게 붙어 있구나\" 하면서, 그 곳 이름을 브니엘이라고 하였다.",
     Chn:"雅各便给那地方起名叫毗努伊勒，意思说：「我面对面见了　神，我的性命仍得保全。」",
     Eng:"So Jacob called the place Peniel, saying, \"It is because I saw God face to face, and yet my  life was spared.\"",
     Ind:"Yakub menamai tempat itu Pniel, sebab katanya: \"Aku telah melihat Allah berhadapan muka, tetapi nyawaku tertolong!\""
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Lalu tampaklah kepadanya matahari terbit, ketika ia telah melewati Pniel; dan Yakub pincang karena pangkal pahanya."
   },
   {Bible:"Genesis", Chapter:32, Verse:32, Page:1,
-    Kor:"밤에 나타난 그가 야곱의 엉덩이뼈의 힘줄을 쳤으므로, 이스라엘 사람들은 오늘날까지 짐승의 엉덩이뼈의 큰 힘줄을 먹지 않는다.",
+    Kor:"밤에 나타난 그분이 야곱의 엉덩이뼈의 힘줄을 쳤으므로, 이스라엘 사람들은 오늘날까지 짐승의 엉덩이뼈의 큰 힘줄을 먹지 않는다.",
     Chn:"故此，以色列人不吃大腿窝的筋，直到今日，因为那人摸了雅各大腿窝的筋。",
     Eng:"Therefore to this day the Israelites do not eat the tendon attached to the socket of the  hip, because the socket of Jacob's hip was touched near the tendon.",
     Ind:"Itulah sebabnya sampai sekarang orang Israel tidak memakan daging yang menutupi sendi pangkal paha, karena Dia telah memukul sendi pangkal paha Yakub, pada otot pangkal pahanya."

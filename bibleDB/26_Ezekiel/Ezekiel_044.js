@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",44,31);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:44, Verse:1, Page:1,
-    Kor:"<성전 동쪽 문의 용도> 또 그가 나를 동쪽으로 난 성소의 바깥 문으로 다시 데리고 가셨는데, 그 문은 잠겨 있었다.",
+    Kor:"또 그가 나를 동쪽으로 난 성소의 바깥 문으로 다시 데리고 가셨는데, 그 문은 잠겨 있었다.",
     Chn:"他又带我回到圣地朝东的外门；那门关闭了。",
     Eng:"Then the man brought me back to the outer gate of the sanctuary, the one facing east, and it was shut.",
     Ind:"Kemudian ia membawa aku kembali ke pintu gerbang luar dari tempat kudus, yang menghadap ke timur; gerbang ini tertutup."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:2, Page:1,
-    Kor:"주님께서 나에게 말씀하셨다. ○\"이 문은 잠가 두어야 한다. 이 문은 열 수 없다. 아무도 이 문으로 들어가서는 안 된다. 주 이스라엘의 하나님이 이 문으로 들어오셨으므로, 이 문은 잠가 두어야 한다.",
+    Kor:"주께서 나에게 말씀하셨다. \"이 문은 잠가 두어야 한다. 이 문은 열 수 없다. 아무도 이 문으로 들어가서는 안 된다. 주 이스라엘의 하나님이 이 문으로 들어왔으므로, 이 문은 잠가 두어야 한다.",
     Chn:"耶和华对我说：「这门必须关闭，不可敞开，谁也不可由其中进入；因为耶和华—以色列的　神已经由其中进入，所以必须关闭。",
     Eng:"The LORD said to me, \"This gate is to remain shut. It must not be opened; no one may enter through it. It is to remain shut because the LORD, the God of Israel, has entered through it.",
     Ind:"Lalu TUHAN berfirman kepadaku: \"Pintu gerbang ini harus tetap tertutup, jangan dibuka dan jangan seorangpun masuk dari situ, sebab TUHAN, Allah Israel, sudah masuk melaluinya; karena itu gerbang itu harus tetap tertutup."
@@ -21,31 +21,31 @@ BibleDB.add([
     Ind:"Hanya raja itu, oleh karena ia raja boleh duduk di sana makan santapan di hadapan TUHAN. Raja itu akan masuk melalui balai gerbang dan akan keluar dari situ.\""
   },
   {Bible:"Ezekiel", Chapter:44, Verse:4, Page:1,
-    Kor:"<주님의 영광이 성전에 가득 차다> ○또 그가 나를 데리고 북쪽 문으로 들어가서, 성전 앞에 이르렀는데, 거기에서 내가 보니, 주님의 영광이 주님의 성전에 가득 차 있었다. 그래서 내가 얼굴을 땅에 대고 엎드렸다.",
+    Kor:"○또 그가 나를 데리고 북쪽 문으로 들어가서, 성전 앞에 이르렀는데, 거기에서 내가 보니, 주의 영광이 주의 성전에 가득 차 있었다. 그래서, 내가 얼굴을 땅에 대고 엎드렸다.",
     Chn:"他又带我由北门来到殿前。我观看，见耶和华的荣光充满耶和华的殿，我就俯伏在地。",
     Eng:"Then the man brought me by way of the north gate to the front of the temple. I looked and saw the glory of the LORD filling the temple of the LORD, and I fell facedown.",
     Ind:"Lalu dibawanya aku melalui pintu gerbang utara ke depan Bait Suci; aku melihat, sungguh, rumah TUHAN penuh kemuliaan TUHAN, maka aku sujud menyembah."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:5, Page:1,
-    Kor:"주님께서 나에게 말씀하셨다. ○\"사람아, 내가 너에게 일러주는 주의 성전에 대한 모든 규례와 그 모든 율례를 너는 명심하고, 네 눈으로 확인하고, 귀담아 들어라. 그리고 성전으로 들어가는 어귀와 성소의 모든 출구들을 잘 기억해 두어라.",
+    Kor:"주께서 나에게 말씀하셨다. \"사람아, 내가 너에게 일러주는 주의 성전에 대한 모든 규례와 그 모든 율례를 너는 명심하고, 네 눈으로 확인하고, 귀담아 들어라. 그리고 성전으로 들어가는 어귀와 성소의 모든 출구들을 명심하여라.",
     Chn:"耶和华对我说：「人子啊，我对你所说耶和华殿中的一切典章法则，你要放在心上，用眼看，用耳听，并要留心殿宇和圣地一切出入之处。",
     Eng:"The LORD said to me, \"Son of man, look carefully, listen closely and give attention to everything I tell you concerning all the regulations regarding the temple of the LORD. Give attention to the entrance of the temple and all the exits of the sanctuary.",
     Ind:"TUHAN berfirman kepadaku: \"Hai anak manusia, perhatikanlah baik-baik, lihatlah dengan teliti dan dengarlah dengan sungguh-sungguh segala sesuatu yang hendak Kufirmankan kepadamu mengenai peraturan-peraturan rumah TUHAN dan tentang segala hukumnya dan perhatikanlah baik-baik siapa yang diperbolehkan masuk ke dalamnya: dan siapa yang harus ditolak dari tempat kudus."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:6, Page:1,
-    Kor:"○너는 저 반역하는 자들 곧 이스라엘 족속에게 전하여라. 나 주 하나님이 말한다. 이스라엘 족속아, 너희는 역겨운 일을 해도 너무 많이 했다.",
+    Kor:"○너는 저 반역하는 자들, 곧 이스라엘 족속에게 전하여라. 나 주 하나님이 말한다. 이스라엘 족속아, 너희는 역겨운 일을 해도 너무 많이 했다.",
     Chn:"你要对那悖逆的以色列家说，主耶和华如此说：以色列家啊，你们行一切可憎的事，当够了吧！",
     Eng:"Say to the rebellious house of Israel, 'This is what the Sovereign LORD says: Enough of your detestable practices, O house of Israel!",
     Ind:"Katakanlah kepada kaum pemberontak, yaitu kaum Israel: Beginilah firman Tuhan ALLAH: Cukuplah perbuatan-perbuatanmu yang keji itu, hai kaum Israel,"
   },
   {Bible:"Ezekiel", Chapter:44, Verse:7, Page:1,
-    Kor:"너희가 내 음식과 기름과 피를 제물로 바치며, 마음에 할례를 받지 않고, 육체에도 할례를 받지 않은 이방 사람들을, 내 성소 안에 데리고 들어옴으로써, 내 성전을 이렇게 더럽혀 놓았다. 너희가 저지른 온갖 역겨운 일들 때문에, 너희는 나와 세운 언약을 어겼다.",
+    Kor:"너희가 내 음식과 기름과 피를 제물로 바치며, 마음에 할례를 받지 않고, 육체에도 할례를 받지 않은 이방 사람들을, 내 성소 안에 데리고 들어옴으로써, 내 성전을 이렇게 더럽혀 놓았다. 너희가 저지른 온갖 역겨운 일들 때문에, 너희는 나와 세운 언약을 위반하였다.",
     Chn:"你们把我的食物，就是脂油和血献上的时候，将身心未受割礼的外邦人领进我的圣地，玷污了我的殿；又背了我的约，在你们一切可憎的事上，加上这一层。",
     Eng:"In addition to all your other detestable practices, you brought foreigners uncircumcised in heart and flesh into my sanctuary, desecrating my temple while you offered me food, fat and blood, and you broke my covenant.",
     Ind:"yang membiarkan orang-orang asing, yaitu orang-orang yang tidak bersunat hatinya maupun dagingnya masuk dalam tempat kudus-Ku dan dengan kehadirannya mereka menajiskannya waktu kamu mempersembahkan santapan-Ku, yaitu lemak dan darah. Dengan berbuat begitu kamu lebih mengingkari perjanjian-Ku dari pada dengan segala perbuatanmu yang keji yang sudah-sudah."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:8, Page:1,
-    Kor:"또 너희가 나의 거룩한 물건들을 맡은 직분을 수행하지 않고, 그 일을 이방 사람들에게 맡겨서, 그들이 내 성소에서 너희 대신에 나를 섬기는 일을 하게 하였다.",
+    Kor:"또 너희가 나의 거룩한 물건들을 맡은 직분을 수행하지 않고, 그 일을 이방 사람들에게 맡겨서, 그들이 내 성소에서 너희 대신에 임무를 수행하게 하였다.",
     Chn:"你们也没有看守我的圣物，却派别人在圣地替你们看守我所吩咐你们的。",
     Eng:"Instead of carrying out your duty in regard to my holy things, you put others in charge of my sanctuary.",
     Ind:"Kamu tidak memelihara barang-barang-Ku yang kudus dan kamu mengangkat mereka untuk memelihara kewajibanmu terhadap Aku di dalam tempat kudus-Ku."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu beginilah firman Tuhan ALLAH: Tidak seorangpun dari orang-orang asing yang hatinya dan dagingnya tidak bersunat, boleh masuk dalam tempat kudus-Ku, ya setiap orang asing yang ada di tengah-tengah orang Israel."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:10, Page:1,
-    Kor:"<레위 사람들의 제사장 직무 박탈> ○\"특별히 이스라엘 족속이 나를 버리고 떠나서, 우상들을 따라 잘못된 길로 갔을 때에, 레위 제사장들도 내게서 멀리 떠나갔기 때문에, 레위 제사장들은 자신들이 지은 죄의 벌을 받아야 할 것이다.",
+    Kor:"○\"특별히 이스라엘 족속이 나를 버리고 떠나서, 우상들을 따라 잘못된 길로 갔을 때에, 레위 제사장들도 내게서 멀리 떠나갔기 때문에, 레위 제사장들은 자신들이 지은 죄의 벌을 받아야 할 것이다.",
     Chn:"「当以色列人走迷的时候，有利未人远离我，就是走迷离开我、随从他们的偶像，他们必担当自己的罪孽。",
     Eng:"\"'The Levites who went far from me when Israel went astray and who wandered from me after their idols must bear the consequences of their sin.",
     Ind:"Tetapi orang-orang Lewi yang menjauh dari pada-Ku waktu Israel sesat dari pada-Ku dengan mengikuti berhala-berhala mereka, akan menanggung hukumannya."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Oleh karena mereka telah melayani bangsa itu di hadapan berhala-berhala mereka, dan mereka bagi kaum Israel telah menjadi batu sandungan, yang menjatuhkannya ke dalam kesalahan, oleh karena itu Aku bersumpah mengenai mereka, demikianlah firman Tuhan ALLAH, bahwa mereka akan menanggung hukumannya sendiri."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:13, Page:1,
-    Kor:"그들은 이제 내 앞에 가까이 나오지 못하고, 제사장의 직무를 맡지 못한다. 그들은 가장 거룩한 것 뿐만이 아니라, 다른 모든 거룩한 물건에도 가까이 가지 못한다. 이처럼 그들은, 자기들이 저지른 수치스러운 일과, 자기들이 저지른 그 역겨운 일 때문에, 벌을 받아야 한다.",
+    Kor:"그들은, 이제, 내 앞에 가까이 나오지 못하고, 제사장의 직무를 수행하지 못한다. 그들은 가장 거룩한 것 뿐만이 아니라, 다른 모든 거룩한 물건에도 가까이 가지 못한다. 이처럼 그들은, 자기들이 저지른 수치스러운 일과, 자기들이 저지른 그 역겨운 일 때문에, 벌을 받아야 한다.",
     Chn:"他们不可亲近我，给我供祭司的职分，也不可挨近我的一件圣物，就是至圣的物；他们却要担当自己的羞辱和所行可憎之事的报应。",
     Eng:"They are not to come near to serve me as priests or come near any of my holy things or my most holy offerings; they must bear the shame of their detestable practices.",
     Ind:"Mereka tidak akan mendekati Aku untuk melaksanakan tugas imam di hadapan-Ku ataupun mendekati segala barang-Ku yang kudus atau persembahan-persembahan maha kudus; mereka akan menanggung nodanya yang timbul karena perbuatan-perbuatan mereka yang keji."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:14, Page:1,
-    Kor:"그래도 나는 그들에게, 성전 안에서 해야 할 모든 일들 곧 성전에서 시중드는 일들을 맡아 보게 할 것이다.\"",
+    Kor:"그래도 나는 그들에게, 성전 안에서 해야 할 모든 일들, 곧 성전에서 시중드는 일들을 맡아 보게 할 것이다.\"",
     Chn:"然而我要使他们看守殿宇，办理其中的一切事，并做其内一切当做之工。」",
     Eng:"Yet I will put them in charge of the duties of the temple and all the work that is to be done in it.",
     Ind:"Aku menetapkan mereka untuk bertugas di Bait Suci dan melakukan segala pelayanan yang berhubungan dengan itu dan melakukan segala sesuatu yang perlu di situ."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:15, Page:1,
-    Kor:"<제사장들> ○\"그러나 이스라엘 자손이 나에게서 떠나 잘못된 길로 갔을 때에도, 레위 지파 가운데서 사독의 자손 제사장들은 내 성소에서 맡은 직분을 지켰으므로, 그들은 내게 가까이 나아와서 나를 섬길 수 있고, 내 앞에 서서 내게 기름과 피를 바칠 수 있다. 나 주 하나님의 말이다.",
+    Kor:"○\"그러나 이스라엘 자손이 나에게서 떠나 잘못된 길로 갔을 때에도, 레위 지파 가운데서 사독의 자손 제사장들은 내 성소에서 맡은 직분을 지켰으므로, 그들은 내게 가까이 나아와서 나를 섬길 수 있고, 내 앞에 서서 내게 기름과 피를 바칠 수 있다. 나 주 하나님의 말이다.",
     Chn:"「以色列人走迷离开我的时候，祭司利未人撒督的子孙仍看守我的圣所。他们必亲近我，事奉我，并且侍立在我面前，将脂油与血献给我。这是主耶和华说的。",
     Eng:"\"'But the priests, who are Levites and descendants of Zadok and who faithfully carried out the duties of my sanctuary when the Israelites went astray from me, are to come near to minister before me; they are to stand before me to offer sacrifices of fat and blood, declares the Sovereign LORD.",
     Ind:"Tetapi mengenai imam-imam orang Lewi dari bani Zadok yang menjalankan tugas-tugas di tempat kudus-Ku waktu orang Israel sesat dari pada-Ku, merekalah yang akan mendekat kepada-Ku untuk menyelenggarakan kebaktian dan bertugas di hadapan-Ku untuk mempersembahkan kepada-Ku lemak dan darah, demikianlah firman Tuhan ALLAH."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Merekalah yang akan masuk ke dalam tempat kudus-Ku dan yang akan mendekati meja-Ku untuk menyelenggarakan kebaktian dan mereka akan menjalankan tugasnya terhadap Aku."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:17, Page:1,
-    Kor:"○그러나 제사장들이 안뜰 문으로 들어올 때에나, 안뜰 문 안에서나, 성전 안에서 직무를 수행할 때에는, 양털로 만든 옷을 입어서는 안 되고, 반드시 모시 옷을 입어야 한다.",
+    Kor:"○그러나, 제사장들이 안뜰 문으로 들어올 때에나, 안뜰 문 안에서나, 성전 안에서 직무를 수행할 때에는, 양털로 만든 옷을 입어서는 안 되고, 반드시 모시 옷을 입어야 한다.",
     Chn:"他们进内院门必穿细麻衣。在内院门和殿内供职的时候不可穿羊毛衣服。",
     Eng:"\"'When they enter the gates of the inner court, they are to wear linen clothes; they must not wear any woolen garment while ministering at the gates of the inner court or inside the temple.",
     Ind:"Maka kalau mereka hendak masuk dari pintu-pintu gerbang pelataran dalam, mereka harus mengenakan pakaian lenan; mereka tidak boleh memakai pakaian bulu domba waktu mereka bertugas di pintu-pintu gerbang pelataran dalam atau waktu menyelenggarakan kebaktian dalam Bait Suci."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Mereka harus mengajar umat-Ku tentang perbedaan antara yang kudus dengan yang tidak kudus dan memberitahukan kepada mereka perbedaan antara yang najis dengan yang tahir."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:24, Page:1,
-    Kor:"소송이 제기되면, 제사장들이 판결을 내려 주어야 한다. 그들은, 내가 정하여 준 법대로 재판하여야 하며, 또 내 모든 성회를 지킬 때마다 내 모든 법도와 율례를 지켜야 하고, 내 안식일은 거룩하게 지켜야 한다.",
+    Kor:"소송이 제기되면, 그들이 판결을 내려 주어야 한다. 그들은, 내가 정하여 준 법대로 재판하여야 하며, 또 내 모든 성회를 지킬 때마다, 내 모든 법도와 율례를 지켜야 하고, 내 안식일은 거룩하게 지켜야 한다.",
     Chn:"有争讼的事，他们应当站立判断，要按我的典章判断。在我一切的节期必守我的律法、条例，也必以我的安息日为圣日。",
     Eng:"\"'In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my decrees for all my appointed feasts, and they are to keep my Sabbaths holy.",
     Ind:"Di dalam sesuatu perkara mereka harus bertindak sebagai hakim dan mereka harus menghakiminya menurut peraturan-peraturan-Ku; mereka harus berpegang pada hukum-hukum-Ku dan ketetapan-ketetapan-Ku pada hari-hari raya-Ku dan menguduskan hari-hari Sabat-Ku."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Mereka tidak boleh melihat orang mati oleh karena dengan demikian mereka menjadi najis. Hanya dengan mayat bapaknya atau ibunya, anaknya lelaki atau perempuan, kakak adiknya lelaki, kakak adiknya perempuan yang belum kawin, mereka boleh menajiskan dirinya."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:26, Page:1,
-    Kor:"그 때에는 제사장이 제 몸을 정하게 한 다음에도, 이레를 지내야 한다.",
+    Kor:"그 때에는 제사장인 제 몸을 정하게 한 다음에도, 이레를 지내야 한다.",
     Chn:"祭司洁净之后，必再计算七日。",
     Eng:"After he is cleansed, he must wait seven days.",
     Ind:"Sesudah pentahirannya ia harus menghitung tujuh hari,"
   },
   {Bible:"Ezekiel", Chapter:44, Verse:27, Page:1,
-    Kor:"그런 다음에 성소에서 직무를 수행하려고 안뜰에 들어갈 때에는, 자신의 몫으로 속죄제를 드려야 한다. 나 주 하나님의 말이다.",
+    Kor:"그런 다음에, 성소에서 직무를 수행하려고 안뜰에 들어갈 때에는, 자신의 몫으로 속죄제를 드려야 한다. 나 주 하나님의 말이다.",
     Chn:"当他进内院，进圣所，在圣所中事奉的日子，要为自己献赎罪祭。这是主耶和华说的。",
     Eng:"On the day he goes into the inner court of the sanctuary to minister in the sanctuary, he is to offer a sin offering for himself, declares the Sovereign LORD.",
     Ind:"dan pada hari ia masuk lagi ke tempat kudus, ke pelataran dalam, untuk menyelenggarakan kebaktian di tempat kudus, ia harus mempersembahkan korban penghapus dosanya, demikianlah firman Tuhan ALLAH."
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Mereka tidak mendapat bagian milik pusaka, sebab Akulah milik pusakanya, dan janganlah berikan kepada mereka tanah milik di Israel, sebab Akulah milik mereka."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:29, Page:1,
-    Kor:"그들은 곡식제사와 속죄제와 속건제로 바친 제물을 먹을 것이며, 이스라엘에서 a구별하여 바친 모든 예물이 제사장들의 차지가 될 것이다.(a 히, '헤렘'. 주님께 바친 사람이나 물건으로서 취소할 수 없는 제물)",
+    Kor:"그들은 곡식제사와 속죄제와 속건제로 바친 제물을 먹을 것이며, 이스라엘에서 구별하여 바친 모든 예물이 제사장들의 차지가 될 것이다.",
     Chn:"素祭、赎罪祭，和赎愆祭他们都可以吃，以色列中一切永献的物都要归他们。",
     Eng:"They will eat the grain offerings, the sin offerings and the guilt offerings; and everything in Israel devoted to the LORD will belong to them.",
     Ind:"Persembahan, korban penghapus dosa dan korban penebus salah, merekalah yang harus memakannya dan segala yang dikhususkan di tanah Israel adalah bagian mereka."
   },
   {Bible:"Ezekiel", Chapter:44, Verse:30, Page:1,
-    Kor:"온갖 종류의 첫 열매 가운데서도 가장 좋은 것과, 너희가 들어 바친 온갖 제물은 다 제사장들의 몫으로 돌리고, 또 너희는 첫 밀가루를 제사장에게 주어서, 제사장으로 말미암아 너희 집안에 복을 내리게 하여라.",
+    Kor:"온갖 종류의 첫 열매 가운데서도 가장 좋은 것과, 너희가 받들어 바친 온갖 제물은 다 제사장들의 몫으로 돌리고, 또 너희는 첫 밀가루를 제사장에게 주어서, 제사장으로 말미암아 너희 집안에 복을 내리게 하여라.",
     Chn:"首先初熟之物和一切所献的供物都要归给祭司。你们也要用初熟的麦子磨面给祭司；这样，福气就必临到你们的家了。",
     Eng:"The best of all the firstfruits and of all your special gifts will belong to the priests. You are to give them the first portion of your ground meal so that a blessing may rest on your household.",
     Ind:"Dan yang terbaik dari buah sulung apapun dan segala persembahan khusus dari apapun, dari segala persembahan khususmu adalah bagian imam-imam; juga yang terbaik dari tepung jelaimu harus kamu berikan kepada imam supaya rumah-rumahmu mendapat berkat."

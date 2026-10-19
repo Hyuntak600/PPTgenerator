@@ -3,13 +3,13 @@
 BibleDB.ref("Joshua",19,51);
 BibleDB.add([
   {Bible:"Joshua", Chapter:19, Verse:1, Page:1,
-    Kor:"<시므온 지파의 땅> 두 번째로 시므온 곧 시므온 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다. 그들의 유산은 유다 자손의 몫 가운데서 차지하였다.",
+    Kor:"두 번째로 시므온, 곧 시므온 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다. 그들의 유산은 유다 자손의 몫 가운데서 차지하였다.",
     Chn:"为西缅支派的人，按着宗族，拈出第二阄。他们所得的地业是在犹大人地业中间。",
     Eng:"The second lot came out for the tribe of Simeon, clan by clan. Their inheritance lay within the territory of Judah.",
     Ind:"Undian yang keduapun keluarlah bagi suku Simeon, untuk suku bani Simeon menurut kaum-kaum mereka. Milik pusaka mereka ada di tengah-tengah milik pusaka bani Yehuda."
   },
   {Bible:"Joshua", Chapter:19, Verse:2, Page:1,
-    Kor:"다음은 그들이 차지한 유산이다. 브엘세바 곧 세바와 몰라다와",
+    Kor:"다음은 그들이 차지한 유산이다. 브엘세바, 곧 세바와 몰라다와",
     Chn:"他们所得为业之地就是：别是巴（或名示巴）、摩拉大、",
     Eng:"It included: Beersheba (or Sheba), Moladah,",
     Ind:"Sebagai milik warisan mereka menerima: Bersyeba, Syeba, Molada,"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"En-Rimon, Eter, dan Asan: empat kota dengan desa-desanya;"
   },
   {Bible:"Joshua", Chapter:19, Verse:8, Page:1,
-    Kor:"또 남쪽 라마 곧 바알랏브엘까지, 이 성읍들을 둘러 있는 모든 마을이 시므온 자손의 지파가 그 가문을 따라 받은 유산이다.",
+    Kor:"또 남쪽 라마 곧 바알랏브엘까지, 이 성읍들을 둘러 있는 모든 마을이, 시므온 자손의 지파가 그 가문을 따라 받은 유산이다.",
     Chn:"并有这些城邑四围一切的村庄，直到巴拉·比珥，就是南地的拉玛。这是西缅支派按着宗族所得的地业。",
     Eng:"and all the villages around these towns as far as Baalath Beer (Ramah in the Negev). This was the inheritance of the tribe of the Simeonites, clan by clan.",
     Ind:"juga segala desa di sekeliling kota-kota tadi, sampai ke Baalat-Beer, yakni Rama yang di Tanah Selatan. Itulah milik pusaka suku bani Simeon menurut kaum-kaum mereka."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Milik pusaka bani Simeon diambil dari bagian bani Yehuda. Karena bagian bani Yehuda itu terlalu besar bagi mereka, maka bani Simeon menerima milik pusaka di tengah-tengah mereka."
   },
   {Bible:"Joshua", Chapter:19, Verse:10, Page:1,
-    Kor:"<스불론 지파의 땅> ○세 번째로 스불론 자손의 각 가문의 몫을 결정할 제비를 뽑았다. 그들이 받은 유산의 경계선은 사릿까지 미치고,",
+    Kor:"○세 번째로 스불론 자손의 각 가문의 몫을 결정할 제비를 뽑았다. 그들이 받은 유산의 경계선은 사릿까지 미치고,",
     Chn:"为西布伦人，按着宗族，拈出第三阄。他们地业的境界是到撒立；",
     Eng:"The third lot came up for Zebulun, clan by clan: The boundary of their inheritance went as far as Sarid.",
     Ind:"Undian yang ketigapun keluarlah bagi bani Zebulon menurut kaum-kaum mereka. Batas milik pusaka mereka sampai ke Sarid."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Ke sebelah barat batas mereka itu naik ke Marala, menyinggung Dabeset, kemudian menyinggung sungai yang mengalir lewat Yokneam."
   },
   {Bible:"Joshua", Chapter:19, Verse:12, Page:1,
-    Kor:"그 경계선이 사릿에서부터는 동쪽으로 돌아서 해 뜨는 쪽으로 기슬롯다볼의 경계선에 이르고, 다브랏까지 나아가서 야비아로 올라간다.",
+    Kor:"그 경계선이 사릿에서부터는 동쪽으로 돌아서, 해 뜨는 쪽으로 기슬롯다볼의 경계선에 이르고, 다브랏까지 나아가서 야비아로 올라간다.",
     Chn:"又从撒立往东转向日出之地，到吉斯绿·他泊的境界，又通到大比拉，上到雅非亚；",
     Eng:"It turned east from Sarid toward the sunrise to the territory of Kisloth Tabor and went on to Daberath and up to Japhia.",
     Ind:"Dari Sarid batas itu berbalik ke timur, ke arah matahari terbit, melalui daerah Kislot-Tabor, menuju Dobrat, naik ke Yafia;"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Itulah milik pusaka bani Zebulon menurut kaum-kaum mereka; kota-kota tadi dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:19, Verse:17, Page:1,
-    Kor:"<잇사갈 지파의 땅> ○네 번째로 잇사갈 곧 잇사갈 자손의 각 가문의 몫을 결정할 제비를 뽑았다.",
+    Kor:"○네 번째로 잇사갈 곧 잇사갈 자손의 각 가문의 몫을 결정할 제비를 뽑았다.",
     Chn:"为以萨迦人，按着宗族，拈出第四阄。",
     Eng:"The fourth lot came out for Issachar, clan by clan.",
     Ind:"Bagi suku Isakhar keluarlah undian yang keempat, yakni bagi bani Isakhar menurut kaum-kaum mereka."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Itulah milik pusaka suku bani Isakhar menurut kaum-kaum mereka, kota-kota itu dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:19, Verse:24, Page:1,
-    Kor:"<아셀 지파의 땅> ○다섯 번째로 아셀 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다.",
+    Kor:"○다섯 번째로 아셀 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다.",
     Chn:"为亚设支派，按着宗族，拈出第五阄。",
     Eng:"The fifth lot came out for the tribe of Asher, clan by clan.",
     Ind:"Undian yang kelimapun keluarlah bagi suku bani Asyer menurut kaum-kaum mereka."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Alamelekh, Amad dan Misal; dan batasnya menyinggung gunung Karmel dan sungai Libnat di sebelah barat;"
   },
   {Bible:"Joshua", Chapter:19, Verse:27, Page:1,
-    Kor:"거기에서 해 뜨는 쪽으로 벳다곤을 돌아서 북쪽으로 스불론과 입다엘 골짜기를 만나고, 벳에멕과 느이엘에 이르러서 왼쪽으로 가불을 지나며,",
+    Kor:"거기에서 해 뜨는 쪽으로 벳다곤을 돌아서, 북쪽으로 스불론과 입다엘 골짜기를 만나고, 벳에멕과 느이엘에 이르러서 왼쪽으로 가불을 지나며,",
     Chn:"转向日出之地，到伯·大衮，达到细步纶；往北到伊弗他·伊勒谷，到伯·以墨和尼业，也通到迦步勒的左边；",
     Eng:"It then turned east toward Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Cabul on the left.",
     Ind:"kemudian berbalik ke arah matahari terbit, ke Bet-Dagon; menyinggung daerah Zebulon dan lembah Yiftah-El di sebelah utara, Bet-Emek dan Nehiel, dan menuju ke Kabul di sebelah utara,"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"dan ke Ebron, Rehob, Hamon dan Kana sampai ke Sidon Besar."
   },
   {Bible:"Joshua", Chapter:19, Verse:29, Page:1,
-    Kor:"또 그 경계선은 라마 쪽으로 돌아서 요새화된 성읍 두로에까지 이르고, 호사로 돌아서 악십 지방에 이르러, 지중해가 그 끝이 된다.",
+    Kor:"또 그 경계선은 라마 쪽으로 돌아서, 요새화된 성읍 두로에까지 이르고, 호사로 돌아서 악십 지방에 이르러, 지중해가 그 끝이 된다.",
     Chn:"转到拉玛和坚固城泰尔；又转到何萨，靠近亚革悉一带地方，直通到海；",
     Eng:"The boundary then turned back toward Ramah and went to the fortified city of Tyre, turned toward Hosah and came out at the sea in the region of Aczib,",
     Ind:"Kemudian batas itu berbalik ke Rama dan sampai ke kota yang berkubu Tirus, kemudian batas itu berbalik ke Hosa dan berakhir di laut. Lagipula Mahalab, Akhzib,"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Itulah milik pusaka suku bani Asyer menurut kaum-kaum mereka; kota-kota tadi dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:19, Verse:32, Page:1,
-    Kor:"<납달리 지파의 땅> ○여섯 번째로 납달리 자손 차례가 되어, 납달리 자손의 각 가문의 몫을 결정할 제비를 뽑았다.",
+    Kor:"○여섯 번째로 납달리 자손 차례가 되어, 납달리 자손의 각 가문의 몫을 결정할 제비를 뽑았다.",
     Chn:"为拿弗他利人，按着宗族，拈出第六阄。",
     Eng:"The sixth lot came out for Naphtali, clan by clan:",
     Ind:"Bagi bani Naftali keluarlah undian yang keenam, yakni bagi bani Naftali menurut kaum-kaum mereka."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Daerah mereka mulai dari Helef, dari pohon tarbantin di Zaananim, Adami-Nekeb dan Yabneel, sampai ke Lakum, dan berakhir di sungai Yordan."
   },
   {Bible:"Joshua", Chapter:19, Verse:34, Page:1,
-    Kor:"또 그 경계선은 서쪽으로 아스놋다볼을 돌아서 그 곳에서 훅곡에 이르고, 남쪽으로는 스불론을 만나고, 서쪽으로는 아셀을 만나며, 해 돋는 요단 강 쪽으로는 유다와 만난다.",
+    Kor:"또 그 경계선은 서쪽으로 아스놋다볼을 돌아서, 그 곳에서 훅곡에 이르고, 남쪽으로는 스불론을 만나고, 서쪽으로는 아셀을 만나며, 해 돋는 요단 강 쪽으로는 유다와 만난다.",
     Chn:"又转向西到亚斯纳·他泊，从那里通到户割，南边到西布伦，西边到亚设，又向日出之地，达到约旦河那里的犹大。",
     Eng:"The boundary ran west through Aznoth Tabor and came out at Hukkok. It touched Zebulun on the south, Asher on the west and the Jordan on the east.",
     Ind:"Kemudian batas itu berbalik ke barat ke Aznot-Tabor, dari sana menuju ke Hukok, menyinggung daerah Zebulon di sebelah selatan, menyinggung daerah Asyer di sebelah barat dan daerah Yehuda pada sungai Yordan, di sebelah matahari terbit."
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Itulah milik pusaka suku bani Naftali menurut kaum-kaum mereka; kota-kota itu dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:19, Verse:40, Page:1,
-    Kor:"<단 지파의 땅> ○일곱 번째로 단 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다.",
+    Kor:"○일곱 번째로 단 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다.",
     Chn:"为但支派，按着宗族，拈出第七阄。",
     Eng:"The seventh lot came out for the tribe of Dan, clan by clan.",
     Ind:"Bagi suku bani Dan menurut kaum-kaum mereka keluarlah undian yang ketujuh."
@@ -291,19 +291,19 @@ BibleDB.add([
     Ind:"Itulah milik pusaka suku bani Dan menurut kaum-kaum mereka; kota-kota tadi dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:19, Verse:49, Page:1,
-    Kor:"<땅 분할 완료> ○이스라엘 자손이 이렇게 그들의 경계선을 따라 땅 나누기를 마친 다음에, 그들은 눈의 아들 여호수아에게 자기들의 땅에서 얼마를 떼어 여호수아의 유산으로 주었다.",
+    Kor:"○이스라엘 자손이 이렇게 그들의 경계선을 따라 땅 나누기를 마친 다음에, 그들은 눈의 아들 여호수아에게 자기들의 땅에서 얼마를 떼어 여호수아의 유산으로 주었다.",
     Chn:"以色列人按着境界分完了地业，就在他们中间将地给嫩的儿子约书亚为业，",
     Eng:"When they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them,",
     Ind:"Setelah orang Israel selesai membagikan negeri itu menjadi milik pusaka mereka menurut daerah-daerahnya, maka kepada Yosua bin Nun diberikanlah milik pusaka di tengah-tengah mereka."
   },
   {Bible:"Joshua", Chapter:19, Verse:50, Page:1,
-    Kor:"그들은 주님께서 말씀하신 대로, 여호수아가 요구한 에브라임 산간지방에 있는 성읍 딤낫세라를 그에게 주었다. 여호수아는 거기에 성읍을 세우고, 그 곳에서 살았다.",
+    Kor:"그들은 주께서 말씀하신 대로, 여호수아가 요구한 에브라임 산간지방에 있는 성읍 딤낫세라를 그에게 주었다. 여호수아는 거기에 성읍을 세우고, 그 곳에서 살았다.",
     Chn:"是照耶和华的吩咐，将约书亚所求的城，就是以法莲山地的亭拿·西拉城，给了他。他就修那城，住在其中。",
     Eng:"as the LORD had commanded. They gave him the town he asked for--Timnath Serah in the hill country of Ephraim. And he built up the town and settled there.",
     Ind:"Sesuai dengan titah TUHAN, mereka memberikan kepadanya kota yang dimintanya, yakni Timnat-Serah di pegunungan Efraim. Kota itu dibangunnya dan menetaplah ia di sana."
   },
   {Bible:"Joshua", Chapter:19, Verse:51, Page:1,
-    Kor:"○이것이 엘르아살 제사장과 눈의 아들 여호수아와 이스라엘 자손 지파의 족장들이 실로의 회막 문 곧 주님 앞에서 제비를 뽑아서 나눈 유산이다. 이와 같이 하여 땅 나누기를 모두 마쳤다.",
+    Kor:"○이것이 엘르아살 제사장과 눈의 아들 여호수아와 이스라엘 자손 지파의 족장들이 실로의 회막 문, 곧 주 앞에서 제비를 뽑아서 나눈 유산이다. 이와 같이 하여, 땅 나누기를 모두 마쳤다.",
     Chn:"这就是祭司以利亚撒和嫩的儿子约书亚，并以色列各支派的族长，在示罗会幕门口，耶和华面前，拈阄所分的地业。这样，他们把地分完了。",
     Eng:"These are the territories that Eleazar the priest, Joshua son of Nun and the heads of the tribal clans of Israel assigned by lot at Shiloh in the presence of the LORD at the entrance to the Tent of Meeting. And so they finished dividing the land.",
     Ind:"Itulah milik pusaka yang diperundikan di antara suku-suku orang Israel di Silo oleh imam Eleazar, oleh Yosua bin Nun dan oleh para kepala kaum keluarga di hadapan TUHAN di depan pintu Kemah Pertemuan. Demikianlah diselesaikan mereka pembagian negeri itu."

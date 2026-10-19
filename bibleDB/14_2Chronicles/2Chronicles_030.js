@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",30,27);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:30, Verse:1, Page:1,
-    Kor:"<유월절 준비> 히스기야는 온 이스라엘과 유다에 전갈을 보내고, 에브라임과 므낫세에는 각각 특별히 편지를 보내서, 예루살렘에 있는 주님의 성전에서 이스라엘의 하나님이신 주님을 기리며 유월절을 지키도록, 오라고 초청하였다.",
+    Kor:"히스기야는 온 이스라엘과 유다에 전갈을 보내고, 에브라임과 므낫세에는 각각 특별히 편지를 보내서, 예루살렘에 있는 주의 성전에서 이스라엘의 하나님이신 주를 기리며 유월절을 지키도록, 오라고 초청하였다.",
     Chn:"希西家差遣人去见以色列和犹大众人，又写信给以法莲和玛拿西人，叫他们到耶路撒冷耶和华的殿，向耶和华—以色列的　神守逾越节；",
     Eng:"Hezekiah sent word to all Israel and Judah and also wrote letters to Ephraim and Manasseh, inviting them to come to the temple of the LORD in Jerusalem and celebrate the Passover to the LORD, the God of Israel.",
     Ind:"Kemudian Hizkia mengirim pesan kepada seluruh Israel dan Yehuda, bahkan menulis surat kepada Efraim dan Manasye supaya mereka datang merayakan Paskah bagi TUHAN, Allah orang Israel, di rumah TUHAN di Yerusalem."
@@ -33,25 +33,25 @@ BibleDB.add([
     Ind:"Mereka memutuskan untuk menyiarkan maklumat di seluruh Israel, dari Bersyeba sampai Dan, supaya masing-masing datang ke Yerusalem merayakan Paskah bagi TUHAN, Allah Israel, karena mereka belum merayakannya secara umum seperti yang ada tertulis."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:6, Page:1,
-    Kor:"파발꾼들이 왕과 대신들의 편지를 받아 가지고, 어명을 따라, 온 이스라엘과 유다에 두루 다니며, 다음과 같이 선포하였다. ○\"이스라엘 자손은 들으라, 백성들은 아브라함과 이삭과 이스라엘을 돌보신 주 하나님께로 돌아오라. 그러면 주님께서도 남아 있는 백성들, 곧 앗시리아 왕의 손에서 벗어난 당신들에게로 돌아오실 것이다.",
+    Kor:"파발꾼들이 왕과 대신들의 편지를 받아 가지고, 어명을 따라, 온 이스라엘과 유다에 두루 다니며, 다음과 같이 선포하였다. ○\"이스라엘 자손아, 너희는 아브라함과 이삭과 이스라엘을 돌보신 주 하나님께로 돌아오라. 그러면 주께서도 남아 있는 너희들, 곧 앗시리아 왕의 손에서 벗어난 너희에게로 돌아오실 것이다.",
     Chn:"驿卒就把王和众首领的信，遵着王命传遍以色列和犹大。信内说：「以色列人哪，你们当转向耶和华—亚伯拉罕、以撒、以色列的　神，好叫他转向你们这脱离亚述王手的余民。",
     Eng:"At the king's command, couriers went throughout Israel and Judah with letters from the king and from his officials, which read: \"People of Israel, return to the LORD, the God of Abraham, Isaac and Israel, that he may return to you who are left, who have escaped from the hand of the kings of Assyria.",
     Ind:"Maka berangkatlah pesuruh-pesuruh cepat ke seluruh Israel dan Yehuda membawa surat dari raja dan para pemimpin, dan mengatakan sesuai dengan perintah raja: \"Hai, orang Israel, kembalilah kepada TUHAN, Allah Abraham, Ishak dan Israel, maka Ia akan kembali kepada yang tertinggal dari pada kamu, yakni mereka yang terluput dari tangan raja-raja Asyur."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:7, Page:1,
-    Kor:"당신들은 조상이나 동포를 닮지 말아라. 그들이 주 조상의 하나님께 범죄하였으므로, 주님께서 그들을 멸망하도록 버려 두신 것을, 당신들은 직접 보았다.",
+    Kor:"너희는 조상이나 동포를 닮지 말아라. 그들이 주 조상의 하나님께 범죄하였으므로, 주께서 그들을 멸망하도록 버려 두신 것을, 너희가 직접 보았다.",
     Chn:"你们不要效法你们列祖和你们的弟兄；他们干犯耶和华—他们列祖的　神，以致耶和华丢弃他们，使他们败亡，正如你们所见的。",
     Eng:"Do not be like your fathers and brothers, who were unfaithful to the LORD, the God of their fathers, so that he made them an object of horror, as you see.",
     Ind:"Janganlah berlaku seperti nenek moyangmu dan saudara-saudaramu yang berubah setia terhadap TUHAN, Allah nenek moyang mereka, sehingga Ia membuat mereka menjadi kedahsyatan seperti yang kamu lihat sendiri."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:8, Page:1,
-    Kor:"당신들은 목이 곧은 조상과 같이 고집을 부리지 말고, 주님께로 돌아오라. 당신들은, 하나님께서 영원히 거룩하게 하신 성전으로 들어가서, 주 당신들의 하나님을 섬겨라. 그래야만 주님께서 당신들에게서 진노를 거두실 것이다.",
+    Kor:"너희는 목이 곧은 조상과 같이 고집을 부리지 말고, 주께로 돌아오너라. 너희는, 하나님께서 영원히 거룩하게 하신 성전으로 들어가서, 주 너희의 하나님을 섬겨라. 그래야만 주께서 너희에게서 진노를 거두실 것이다.",
     Chn:"现在不要像你们列祖硬着颈项，只要归顺耶和华，进入他的圣所，就是永远成圣的居所；又要事奉耶和华—你们的　神，好使他的烈怒转离你们。",
     Eng:"Do not be stiff-necked, as your fathers were; submit to the LORD. Come to the sanctuary, which he has consecrated forever. Serve the LORD your God, so that his fierce anger will turn away from you.",
     Ind:"Sekarang, janganlah tegar tengkuk seperti nenek moyangmu. Serahkanlah dirimu kepada TUHAN dan datanglah ke tempat kudus yang telah dikuduskan-Nya untuk selama-lamanya, serta beribadahlah kepada TUHAN, Allahmu, supaya murka-Nya yang menyala-nyala undur dari padamu."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:9, Page:1,
-    Kor:"당신들이 주님께로 돌아오면, 당신들의 친족과 아이들을 사로잡아 간 자들이 당신들의 동포에게 자비를 베풀어서, 그들을 이 땅으로 돌려 보낼 것이다. 주 당신들의 하나님은 은혜로우시고 자비로우신 분이시므로, 당신들이 그에게로 돌아오기만 하면, 당신들을 외면하지 않으실 것이다.\"",
+    Kor:"너희가 주께로 돌아오면, 너희의 친족과 아이들을 사로잡아 간 자들이 너희의 동포에게 자비를 베풀어서, 그들을 이 땅으로 돌려 보낼 것이다. 주 너희의 하나님은 은혜로우시고 자비로우신 분이시므로, 너희가 그에게로 돌아오기만 하면, 너희를 외면하지 않으실 것이다.\"",
     Chn:"你们若转向耶和华，你们的弟兄和儿女必在掳掠他们的人面前蒙怜恤，得以归回这地，因为耶和华—你们的　神有恩典、施怜悯。你们若转向他，他必不转脸不顾你们。」",
     Eng:"If you return to the LORD, then your brothers and your children will be shown compassion by their captors and will come back to this land, for the LORD your God is gracious and compassionate. He will not turn his face from you if you return to him.\"",
     Ind:"Karena bilamana kamu kembali kepada TUHAN, maka saudara-saudaramu dan anak-anakmu akan mendapat belas kasihan dari orang-orang yang menawan mereka, sehingga mereka kembali ke negeri ini. Sebab TUHAN, Allahmu, pengasih dan penyayang: Ia tidak akan memalingkan wajah-Nya dari pada kamu, bilamana kamu kembali kepada-Nya!\""
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Namun beberapa orang dari Asyer, Manasye dan Zebulon merendahkan diri, dan datang ke Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:12, Page:1,
-    Kor:"하나님이 또한, 유다에서도 역사하셔서, 왕과 대신들이 주님의 말씀대로 전한 그 명령을 유다 사람들이 한 마음으로 따르도록 감동시키셨다.",
+    Kor:"하나님이 또한, 유다에서도 역사하셔서, 왕과 대신들이 주의 말씀대로 전한 그 명령을 유다 사람들이 한 마음으로 따르도록 감동시키셨다.",
     Chn:"神也感动犹大人，使他们一心遵行王与众首领凭耶和华之言所发的命令。",
     Eng:"Also in Judah the hand of God was on the people to give them unity of mind to carry out what the king and his officials had ordered, following the word of the LORD.",
     Ind:"Di Yehuda nyata pula tangan Allah yang membulatkan hati mereka untuk melakukan perintah raja dan para pemimpin sesuai dengan firman TUHAN."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:13, Page:1,
-    Kor:"<유월절을 성대히 지키다> ○둘째 달에 백성이 무교절을 지키려고 예루살렘에 모였는데, 그 수가 심히 많아서 큰 무리를 이루었다.",
+    Kor:"○둘째 달에 백성이 무교절을 지키려고 예루살렘에 모였는데, 그 수가 심히 많아서 큰 무리를 이루었다.",
     Chn:"二月，有许多人在耶路撒冷聚集，成为大会，要守除酵节。",
     Eng:"A very large crowd of people assembled in Jerusalem to celebrate the Feast of Unleavened Bread in the second month.",
     Ind:"Maka berkumpullah di Yerusalem banyak orang, suatu jemaah yang sangat besar, untuk merayakan hari raya Roti Tidak Beragi pada bulan yang kedua."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:14, Page:1,
-    Kor:"그들은 먼저, 예루살렘 도성에 있는, 희생제사를 지내던 제단들과, 향을 피우던 분향단들을 모두 뜯어 내어 기드론 냇가에 가져다 버렸다.",
+    Kor:"그들은 먼저, 예루살렘 도성에 있는, 희생제사를 지내던 제단들과, 향을 피우던 분향단들을, 모두 뜯어 내어 기드론 냇가에 가져다 버렸다.",
     Chn:"他们起来，把耶路撒冷的祭坛和烧香的坛尽都除去，抛在汲沦溪中。",
     Eng:"They removed the altars in Jerusalem and cleared away the incense altars and threw them into the Kidron Valley.",
     Ind:"Lalu bangunlah mereka menjauhkan mezbah-mezbah yang ada di Yerusalem; juga semua mezbah korban ukupan disingkirkan dan dibuang ke lembah Kidron."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:15, Page:1,
-    Kor:"둘째 달 열나흗날에, 사람들이 유월절 양을 잡았다. 미처 부정을 벗지 못하여 부끄러워하던 제사장들과 레위 사람들은 부정을 씻는 예식을 한 다음에 번제물을 주님의 성전으로 가져 왔다.",
+    Kor:"둘째 달 열나흗날에, 사람들이 유월절 양을 잡았다. 미처 부정을 벗지 못한 제사장들과 레위 사람들은 부끄러움을 감추지 못한 채 자신들을 주께 바치고, 번제물을 주의 성전으로 가져 왔다.",
     Chn:"二月十四日，宰了逾越节的羊羔。祭司与利未人觉得惭愧，就洁净自己，把燔祭奉到耶和华殿中，",
     Eng:"They slaughtered the Passover lamb on the fourteenth day of the second month. The priests and the Levites were ashamed and consecrated themselves and brought burnt offerings to the temple of the LORD.",
     Ind:"Kemudian disembelihlah domba Paskah pada tanggal empat belas bulan kedua. Maka para imam dan orang-orang Lewi merasa malu, lalu menguduskan dirinya dan membawa korban bakaran ke rumah TUHAN."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Mereka berdiri pada tempatnya menurut peraturan yang berlaku bagi mereka masing-masing, sesuai dengan Taurat Musa, abdi Allah itu; para imam menyiramkan darah yang diterimanya dari orang-orang Lewi."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:17, Page:1,
-    Kor:"회중 가운데서 많은 사람이 성결 예식을 치르지 못하였으므로, 레위 사람들은 부정한 사람들을 깨끗하게 하려고, 유월절 양을 잡아서, 그러한 사람들을 데리고 주님 앞에서 성결 예식을 행하였다.",
+    Kor:"회중 가운데서 많은 사람이 성결 예식을 치루지 못하였으므로, 레위 사람들은 부정한 사람들을 깨끗하게 하려고, 유월절 양을 잡아서, 그러한 사람들을 데리고 주 앞에서 성결 예식을 행하였다.",
     Chn:"会中有许多人尚未自洁，所以利未人为一切不洁之人宰逾越节的羊羔，使他们在耶和华面前成为圣洁。",
     Eng:"Since many in the crowd had not consecrated themselves, the Levites had to kill the Passover lambs for all those who were not ceremonially clean and could not consecrate their lambs to the LORD.",
     Ind:"Sebab ada banyak di antara jemaah yang tidak menguduskan dirinya, sehingga menjadi tugas orang Lewi untuk menyembelih domba-domba Paskah bagi setiap orang yang tidak dapat menguduskannya bagi TUHAN karena ia tidak tahir."
@@ -112,25 +112,25 @@ BibleDB.add([
     ChnVerseEnd:19
   },
   {Bible:"2Chronicles", Chapter:30, Verse:19, Page:1,
-    Kor:"비록 그들이 성소의 성결예식대로 스스로 깨끗하게 하지 못하였어도, 그들이 마음을 다하여 하나님, 곧 조상 때부터 섬긴 주 하나님께 정성껏 예배를 드렸으니, 용서하여 주십시오.\"",
+    Kor:"비록 그들이 성소의 성결예식대로 스스로 깨끗하게 하지 못하였어도, 그들이 마음을 다하여 정성껏 하나님, 곧 조상 때부터 섬긴 주 하나님께 예배를 드렸으니, 용서하여 주십시오.\"",
     Chn:"",
     Eng:"who sets his heart on seeking God--the LORD, the God of his fathers--even if he is not clean according to the rules of the sanctuary.\"",
     Ind:"yang sungguh-sungguh berhasrat mencari Allah, yakni TUHAN, Allah nenek moyangnya, walaupun ketahiran mereka tidak sesuai dengan tempat kudus.\""
   },
   {Bible:"2Chronicles", Chapter:30, Verse:20, Page:1,
-    Kor:"주님께서 히스기야의 기도를 들으시고, 백성의 아픈 마음을 고쳐 주셨다.",
+    Kor:"주께서 히스기야의 기도를 들으시고, 백성의 아픈 마음을 고쳐 주셨다.",
     Chn:"耶和华垂听希西家的祷告，就饶恕百姓。",
     Eng:"And the LORD heard Hezekiah and healed the people.",
     Ind:"TUHAN mendengar Hizkia dan membiarkan bangsa itu selamat."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:21, Page:1,
-    Kor:"예루살렘에 모인 이스라엘 자손은 크게 기뻐하면서 이레 동안 무교절을 지켰고, 그 기간에 레위 사람들과 제사장들은 날마다 주님을 찬양하며, 웅장한 소리를 내는 악기로 주님을 찬양하였다.",
+    Kor:"예루살렘에 모인 이스라엘 자손은 크게 기뻐하면서 이레 동안 무교절을 지켰고, 그 기간에 레위 사람들과 제사장들은 날마다 주를 찬양하며, 웅장한 소리를 내는 악기로 주를 찬양하였다.",
     Chn:"在耶路撒冷的以色列人大大喜乐，守除酵节七日。利未人和祭司用响亮的乐器，日日颂赞耶和华。",
     Eng:"The Israelites who were present in Jerusalem celebrated the Feast of Unleavened Bread for seven days with great rejoicing, while the Levites and priests sang to the LORD every day, accompanied by the LORD'S instruments of praise.",
     Ind:"Tujuh hari lamanya orang Israel yang berada di Yerusalem merayakan hari raya Roti Tidak Beragi dengan kesukaan yang besar, sedang orang-orang Lewi dan para imam setiap hari menyanyikan puji-pujian bagi TUHAN dengan sekuat tenaga."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:22, Page:1,
-    Kor:"히스기야는 모든 레위 사람이 주님을 섬기는 일을 능숙하게 하는 것을 보고, 그들을 격려하여 주었다. <두 번째 축제> ○이렇게 이레 동안 주 조상의 하나님을 찬송하며 제사를 드린 다음에,",
+    Kor:"히스기야는 모든 레위 사람이 주를 섬기는 일을 능숙하게 하는 것을 보고, 그들을 격려하여 주었다. ○이렇게 이레 동안 주 조상의 하나님을 찬송하며 제사를 드린 다음에,",
     Chn:"希西家慰劳一切善于事奉耶和华的利未人。于是众人吃节筵七日，又献平安祭，且向耶和华—他们列祖的　神认罪。",
     Eng:"Hezekiah spoke encouragingly to all the Levites, who showed good understanding of the service of the LORD. For the seven days they ate their assigned portion and offered fellowship offerings and praised the LORD, the God of their fathers.",
     Ind:"Hizkia mengucapkan kata-kata pujian kepada semua orang Lewi yang menunjukkan akal budi yang baik dalam melayani TUHAN. Demikianlah orang memakan makanan perayaan selama tujuh hari, sambil mempersembahkan korban keselamatan dan mengucapkan syukur kepada TUHAN, Allah nenek moyang mereka."
@@ -160,7 +160,7 @@ BibleDB.add([
     Ind:"Maka besarlah kesukaan di Yerusalem, karena sejak Salomo bin Daud, raja Israel, tidak pernah terjadi peristiwa semacam itu di Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:30, Verse:27, Page:1,
-    Kor:"레위인 제사장들이 일어나 백성을 축복하니, 그 축복의 말이 하나님께 이르렀고, 그들의 기도가 주님께서 계신 거룩한 곳, 하늘에까지 이르렀다.",
+    Kor:"레위인 제사장들이 일어나 백성을 축복하니, 그 축복의 말이 하나님께 이르렀고, 그들의 기도가 주께서 계신 거룩한 곳, 하늘에까지 이르렀다.",
     Chn:"那时，祭司、利未人起来，为民祝福。他们的声音蒙　神垂听，他们的祷告达到天上的圣所。",
     Eng:"The priests and the Levites stood to bless the people, and God heard them, for their prayer reached heaven, his holy dwelling place. 2CH",
     Ind:"Sesudah itu para imam Lewi bangun berdiri dan memberkati rakyat. Suara mereka didengar TUHAN dan doa mereka sampai ke tempat kediaman-Nya yang kudus di sorga."

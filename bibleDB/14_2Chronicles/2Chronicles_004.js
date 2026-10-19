@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",4,22);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:4, Verse:1, Page:1,
-    Kor:"<성전 안에 있는 성물들(왕상 7:23-51)> 솔로몬이 놋으로 제단을 만들었는데, 그 길이가 스무 자이고, 너비가 스무 자이고, 높이가 열 자이다.",
+    Kor:"솔로몬이 놋으로 제단을 만들었는데, 그 길이가 스무 자이고, 너비가 스무 자이고, 높이가 열 자이다.",
     Chn:"他又制造一座铜坛，长二十肘，宽二十肘，高十肘；",
     Eng:"He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.",
     Ind:"Lalu ia membuat mezbah tembaga yang dua puluh hasta panjangnya, dan dua puluh hasta lebarnya dan sepuluh hasta tingginya."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"\"laut\" yang satu itu dan kedua belas lembu di bawahnya."
   },
   {Bible:"2Chronicles", Chapter:4, Verse:16, Page:1,
-    Kor:"솥과 부삽과 고기 갈고리였다. 이런 a일의 전문가인 후람이 주님의 성전에서 쓸 것으로 솔로몬에게 바친 모든 기구는, 광택 나는 놋쇠로 만든 것들이었다.(a 히, '후람아비')",
+    Kor:"솥과 부삽과 고기 갈고리였다. 이런 일의 전문가인 후람이 주의 성전에서 쓸 것으로 솔로몬에게 바친 모든 기구는, 광택 나는 놋쇠로 만든 것들이었다.",
     Chn:"盆、铲子、肉锸子，与耶和华殿里的一切器皿，都是巧匠户兰用光亮的铜为所罗门王造成的，",
     Eng:"the pots, shovels, meat forks and all related articles. All the objects that Huram-Abi made for King Solomon for the temple of the LORD were of polished bronze.",
     Ind:"Kuali-kuali, penyodok-penyodok, garpu-garpu dan segala perlengkapan lain yang dibuat Huram-Abi bagi raja Salomo untuk rumah TUHAN adalah dari tembaga upaman."

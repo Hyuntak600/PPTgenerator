@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",3,26);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:3, Verse:1, Page:1,
-    Kor:"<예루살렘의 혼돈> 주 만군의 주님께서 예루살렘과 유다에서 백성이 의지하는 것을 모두 없애실 것이다. 그들이 의지하는 모든 빵과 모든 물을 없애시며,",
+    Kor:"주 만군의 주께서 예루살렘과 유다에서 백성이 의지하는 것을 모두 없애실 것이다. 그들이 의지하는 모든 빵과 모든 물을 없애시며,",
     Chn:"主—万军之耶和华从耶路撒冷和犹大， 除掉众人所倚靠的，所仗赖的， 就是所倚靠的粮，所仗赖的水；",
     Eng:"See now, the Lord, the LORD Almighty, is about to take from Jerusalem and Judah both supply and support: all supplies of food and all supplies of water,",
     Ind:"Maka sesungguhnya Tuhan, TUHAN semesta alam, akan menjauhkan dari Yerusalem dan dari Yehuda setiap orang yang mereka andalkan, segala persediaan makanan dan minuman:"
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Maka bangsa itu akan desak-mendesak, seorang kepada seorang, yang satu kepada yang lain; orang muda akan membentak-bentak terhadap orang tua, orang hina terhadap orang mulia."
   },
   {Bible:"Isaiah", Chapter:3, Verse:6, Page:1,
-    Kor:"한 사람이 제 집안의 한 식구를 붙잡고 \"너는 옷이라도 걸쳤으니, 우리의 통치자가 되어 다오. 이 폐허에서 우리를 다시 일으켜 다오\" 하고 부탁을 하여도,",
+    Kor:"한 사람이 제 집안의 한 형제를 붙잡고 \"너는 옷이라도 걸쳤으니, 우리의 통치자가 되어 다오. 이 폐허에서 우리를 다시 일으켜 다오\" 하고 부탁을 하여도,",
     Chn:"人在父家拉住弟兄，说： 你有衣服，可以作我们的官长。 这败落的事归在你手下吧！",
     Eng:"A man will seize one of his brothers at his father's home, and say, \"You have a cloak, you be our leader; take charge of this heap of ruins!\"",
     Ind:"Sehingga apabila seorang memegang saudaranya di rumah ayahnya dan berkata: \"Engkau masih mempunyai jubah, jadilah pemimpin kami, dan reruntuhan ini di bawah kuasamu\","
   },
   {Bible:"Isaiah", Chapter:3, Verse:7, Page:1,
-    Kor:"바로 그 날에, 그가 큰소리로 부르짖을 것이다. \"나에게는 묘안이 없다. 나의 집에는 빵도 없고 옷도 없다. 나를 이 백성의 통치자로 세우지 말아라.\"",
+    Kor:"바로 그 날로, 그가 큰소리로 부르짖을 것이다. \"나에게는 묘안이 없다. 나의 집에는 빵도 없고 옷도 없다. 나를 이 백성의 통치자로 세우지 말아라.\"",
     Chn:"那时，他必扬声说： 我不作医治你们的人； 因我家中没有粮食，也没有衣服， 你们不可立我作百姓的官长。",
     Eng:"But in that day he will cry out, \"I have no remedy. I have no food or clothing in my house; do not make me the leader of the people.\"",
     Ind:"maka pada waktu itu saudaranya akan menjawab: \"Aku tidak mau menjadi tabib; di rumahku tidak ada roti dan tidak ada jubah; janganlah angkat aku menjadi pemimpin bangsa.\""
   },
   {Bible:"Isaiah", Chapter:3, Verse:8, Page:1,
-    Kor:"드디어 예루살렘이 넘어지고 유다는 쓰러진다. 그들이 말과 행동으로 주님께 대항하며, 하나님의 영광스러운 현존을 모독하였기 때문이다.",
+    Kor:"드디어 예루살렘이 넘어지고 유다는 쓰러진다. 그들이 말과 행동으로 주께 대항하며, 하나님의 영광스러운 현존을 모독하였기 때문이다.",
     Chn:"耶路撒冷败落， 犹大倾倒； 因为他们的舌头和行为与耶和华反对， 惹了他荣光的眼目。",
     Eng:"Jerusalem staggers, Judah is falling; their words and deeds are against the LORD, defying his glorious presence.",
     Ind:"Sungguh, Yerusalem telah runtuh dan Yehuda telah rubuh; sebab perkataan mereka dan perbuatan mereka melawan TUHAN dan mereka menantang kemuliaan hadirat-Nya."
@@ -69,43 +69,43 @@ BibleDB.add([
     Ind:"Celakalah orang fasik! Malapetaka akan menimpanya, sebab mereka akan diperlakukan menurut perbuatannya sendiri."
   },
   {Bible:"Isaiah", Chapter:3, Verse:12, Page:1,
-    Kor:"\"아이들이 내 백성을 억누르며, a여인들이 백성을 다스린다. 내 백성아, 네 지도자들이 길을 잘못 들게 하며, 가야 할 길에서 벗어나게 하는구나.\" (a 칠십인역에는 '채권자들이')",
+    Kor:"\"아이들이 내 백성을 억누르며, 여인들이 백성을 다스린다. 내 백성아, 네 지도자들이 길을 잘못 들게 하며, 가야 할 길에서 벗어나게 하는구나.\"",
     Chn:"至于我的百姓， 孩童欺压他们， 妇女辖管他们。 我的百姓啊，引导你的使你走错， 并毁坏你所行的道路。",
     Eng:"Youths oppress my people, women rule over them. O my people, your guides lead you astray; they turn you from the path.",
     Ind:"Adapun umat-Ku, penguasa mereka ialah anak-anak, dan perempuan-perempuan memerintah atasnya. Hai umat-Ku, pemimpin-pemimpinmu adalah penyesat, dan jalan yang kamu tempuh mereka kacaukan!"
   },
   {Bible:"Isaiah", Chapter:3, Verse:13, Page:1,
-    Kor:"<주님께서 백성을 심판하시다> 주님께서 재판하시려고 법정에 앉으신다. 그의 백성을 심판하시려고 들어오신다.",
+    Kor:"주께서 재판하시려고 법정에 앉으신다. 그의 백성을 심판하시려고 들어오신다.",
     Chn:"耶和华起来辩论， 站着审判众民。",
     Eng:"The LORD takes his place in court; he rises to judge the people.",
     Ind:"TUHAN mengambil tempat untuk menuntut dan berdiri untuk mengadili bangsa-bangsa."
   },
   {Bible:"Isaiah", Chapter:3, Verse:14, Page:1,
-    Kor:"주님께서 백성의 장로들과 백성의 지도자들을 세워 놓고, 재판을 시작하신다. \"나의 포도원을 망쳐 놓은 자들이 바로 너희다. 가난한 사람들을 약탈해서, 너희 집을 가득 채웠다.",
+    Kor:"주께서 백성의 장로들과 백성의 지도자들을 세워 놓고, 재판을 시작하신다. \"나의 포도원을 망쳐 놓은 자들이 바로 너희다. 가난한 사람들을 약탈해서, 너희 집을 가득 채웠다.",
     Chn:"耶和华必审问他民中的长老和首领，说： 吃尽葡萄园果子的就是你们； 向贫穷人所夺的都在你们家中。",
     Eng:"The LORD enters into judgment against the elders and leaders of his people: \"It is you who have ruined my vineyard; the plunder from the poor is in your houses.",
     Ind:"TUHAN bertindak sebagai hakim atas tua-tua dan pemimpin-pemimpin umat-Nya: \"Kamulah yang memusnahkan kebun anggur itu, barang rampasan dari orang yang tertindas tertumpuk di dalam rumahmu."
   },
   {Bible:"Isaiah", Chapter:3, Verse:15, Page:1,
-    Kor:"어찌하여 너희는 나의 백성을 짓밟으며, 어찌하여 너희는 가난한 사람들의 얼굴을 마치 맷돌질하듯 짓뭉갰느냐?\" 만군의 하나님이신 주님의 말씀이다.",
+    Kor:"어찌하여 너희는 나의 백성을 짓밟으며, 어찌하여 너희는 가난한 사람들의 얼굴을 마치 맷돌질하듯 짓뭉갰느냐?\" 만군의 하나님이신 주의 말씀이다.",
     Chn:"主—万军之耶和华说： 你们为何压制我的百姓， 搓磨贫穷人的脸呢？",
     Eng:"What do you mean by crushing my people and grinding the faces of the poor?\" declares the Lord, the LORD Almighty.",
     Ind:"Mengapa kamu menyiksa umat-Ku dan menganiaya orang-orang yang tertindas?\" demikianlah firman Tuhan ALLAH semesta alam."
   },
   {Bible:"Isaiah", Chapter:3, Verse:16, Page:1,
-    Kor:"<예루살렘 여인들에게 경고하시다> 주님께서 말씀하신다. \"시온의 딸들이 교만하여 목을 길게 빼고 다니며, 호리는 눈짓을 하고 다니며, 꼬리를 치고 걸으며, 발목에서 잘랑잘랑 소리를 내는구나.",
+    Kor:"주께서 말씀하신다. \"시온의 딸들이 교만하여 목을 길게 빼고 다니며, 호리는 눈짓을 하고 다니며, 꼬리를 치고 걸으며, 발목에서 잘랑잘랑 소리를 내는구나.",
     Chn:"耶和华又说： 因为锡安的女子狂傲， 行走挺项，卖弄眼目， 俏步徐行，脚下玎珰，",
     Eng:"The LORD says, \"The women of Zion are haughty, walking along with outstretched necks, flirting with their eyes, tripping along with mincing steps, with ornaments jingling on their ankles.",
     Ind:"TUHAN berfirman: Oleh karena wanita Sion telah menjadi sombong dan telah berjalan dengan jenjang leher dan dengan main mata, berjalan dengan dibuat-buat langkahnya dan gemerencing dengan giring-giring kakinya,"
   },
   {Bible:"Isaiah", Chapter:3, Verse:17, Page:1,
-    Kor:"그러므로 주님께서 시온의 딸들 정수리에 딱지가 생기게 하시며, 주님께서 그들의 하체를 드러내실 것이다.\"",
+    Kor:"그러므로 주께서 시온의 딸들의 정수리에 딱지가 생기게 하시며, 주께서 그들의 하체를 드러내실 것이다.\"",
     Chn:"所以，主必使锡安的女子头长秃疮； 耶和华又使她们赤露下体。",
     Eng:"Therefore the Lord will bring sores on the heads of the women of Zion; the LORD will make their scalps bald.\"",
     Ind:"maka Tuhan akan membuat batu kepala wanita Sion penuh kudis dan TUHAN akan mencukur rambut sebelah dahi mereka."
   },
   {Bible:"Isaiah", Chapter:3, Verse:18, Page:1,
-    Kor:"○그 날이 오면, 주님께서는 여인들에게서, 발목 장식, 머리 망사, 반달 장식,",
+    Kor:"그 날이 오면, 주께서는 여인들에게서, 발목 장식, 머리 망사, 반달 장식,",
     Chn:"到那日，主必除掉她们华美的脚钏、发网、月牙圈、",
     Eng:"In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces,",
     Ind:"Pada waktu itu Tuhan akan menjauhkan segala perhiasan mereka: gelang-gelang kaki, jamang-jamang dan bulan-bulanan;"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"cermin-cermin, baju-baju dalam dari kain lenan, ikat-ikat kepala dan baju-baju luar."
   },
   {Bible:"Isaiah", Chapter:3, Verse:24, Page:1,
-    Kor:"그들에게서는 향수 내음 대신에 썩는 냄새가 나고, 고운 허리띠를 띠던 허리에는 새끼줄이 감기고, 곱게 빗어 넘기던 머리는 다 빠져서 대머리가 되고, 고운 옷을 걸치던 몸에는 상복을 걸치고, 고운 얼굴 대신에 b수치의 자국만 남을 것이다. (b 사해 사본을 따름. 마소라 본문에는 '수치'가 없음)",
+    Kor:"그들에게서는 향수 내음 대신에 썩는 냄새가 나고, 고운 허리띠를 띠던 허리에는 새끼줄이 감기고, 곱게 빗어 넘기던 머리는 다 빠져서 대머리가 되고, 고운 옷을 걸치던 몸에는 상복을 걸치고, 고운 얼굴 대신에 수치의 자국만 남을 것이다.",
     Chn:"必有臭烂代替馨香， 绳子代替腰带， 光秃代替美发， 麻衣系腰代替华服， 烙伤代替美容。",
     Eng:"Instead of fragrance there will be a stench; instead of a sash, a rope; instead of well-dressed hair, baldness; instead of fine clothing, sackcloth; instead of beauty, branding.",
     Ind:"Maka sebagai ganti rempah-rempah harum akan ada bau busuk, sebagai ganti ikat pinggang seutas tali, sebagai ganti selampit rambut kepala yang gundul, sebagai ganti pakaian hari raya sehelai kain kabung; dan tanda selar sebagai ganti kemolekan."

@@ -3,31 +3,31 @@
 BibleDB.ref("Luke",14,35);
 BibleDB.add([
   {Bible:"Luke", Chapter:14, Verse:1, Page:1,
-    Kor:"<수종병 앓는 사람을 고치시다> 어느 안식일에 a예수께서 바리새파 사람의 지도자들 가운데 어떤 사람의 집에 음식을 잡수시러 들어가셨는데, 사람들이 예수를 지켜보고 있었다.(a 그, '그가')",
+    Kor:"어느 안식일에 예수께서 음식을 잡수시러 바리새파 사람의 지도자들 가운데 어떤 사람의 집에 들어가셨는데, 그들은 예수를 지켜 보고 있었다.",
     Chn:"安息日，耶稣到一个法利赛人的首领家里去吃饭，他们就窥探他。",
     Eng:"One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched.",
     Ind:"Pada suatu hari Sabat Yesus datang ke rumah salah seorang pemimpin dari orang-orang Farisi untuk makan di situ. Semua yang hadir mengamat-amati Dia dengan saksama."
   },
   {Bible:"Luke", Chapter:14, Verse:2, Page:1,
-    Kor:"그런데 예수 앞에 수종병 환자가 한 사람이 있었다.",
+    Kor:"그런데 예수 앞에 수종병 환자가 한 사람 있었다.",
     Chn:"在他面前有一个患水臌的人。",
     Eng:"There in front of him was a man suffering from dropsy.",
     Ind:"Tiba-tiba datanglah seorang yang sakit busung air berdiri di hadapan-Nya."
   },
   {Bible:"Luke", Chapter:14, Verse:3, Page:1,
-    Kor:"예수께서 율법교사들과 바리새파 사람들에게 물으셨다. \"안식일에 병을 고치는 것이 옳으냐? 옳지 않으냐?\"",
+    Kor:"예수께서 율법교사들과 바리새파 사람들에게 \"안식일에 병을 고치는 것이 옳으냐? 옳지 않으냐?\" 하고 물으셨다.",
     Chn:"耶稣对律法师和法利赛人说：「安息日治病可以不可以？」",
     Eng:"Jesus asked the Pharisees and experts in the law, \"Is it lawful to heal on the Sabbath or not?\"",
     Ind:"Lalu Yesus berkata kepada ahli-ahli Taurat dan orang-orang Farisi itu, kata-Nya: \"Diperbolehkankah menyembuhkan orang pada hari Sabat atau tidak?\""
   },
   {Bible:"Luke", Chapter:14, Verse:4, Page:1,
-    Kor:"그들은 잠잠하였다. a예수께서 그 병자를 손으로 잡아서 고쳐 주시고, 돌려보내신 다음에,(a 그, '그가')",
+    Kor:"그들은 잠잠하였다. 예수께서 그 병자를 붙잡고 고쳐 주시고, 돌려보내신 다음에,",
     Chn:"他们却不言语。耶稣就治好那人，叫他走了；",
     Eng:"But they remained silent. So taking hold of the man, he healed him and sent him away.",
     Ind:"Mereka itu diam semuanya. Lalu Ia memegang tangan orang sakit itu dan menyembuhkannya dan menyuruhnya pergi."
   },
   {Bible:"Luke", Chapter:14, Verse:5, Page:1,
-    Kor:"그들에게 말씀하셨다. \"너희 가운데서 누가 b아들이나 소가 우물에 빠지면 안식일에라도 당장 끌어내지 않겠느냐?\"(b 다른 고대 사본들에는 '나귀나')",
+    Kor:"그들에게 말씀하셨다. \"너희는 아이나 소가 우물에 빠지면, 안식일에라도 당장 끌어내지 않겠느냐?\"",
     Chn:"便对他们说：「你们中间谁有驴或有牛，在安息日掉在井里，不立时拉它上来呢？」",
     Eng:"Then he asked them, \"If one of you has a son or an ox that falls into a well on the Sabbath day, will you not immediately pull him out?\"",
     Ind:"Kemudian Ia berkata kepada mereka: \"Siapakah di antara kamu yang tidak segera menarik ke luar anaknya atau lembunya kalau terperosok ke dalam sebuah sumur, meskipun pada hari Sabat?\""
@@ -39,61 +39,61 @@ BibleDB.add([
     Ind:"Mereka tidak sanggup membantah-Nya."
   },
   {Bible:"Luke", Chapter:14, Verse:7, Page:1,
-    Kor:"<낮은 자리에 앉으라> ○예수께서는, 초청을 받은 사람들이 윗자리를 골라잡는 것을 보시고, 그들에게 비유를 하나 말씀하셨다.",
+    Kor:"○예수께서는, 초청을 받은 사람들이 얼마나 기를 쓰고 윗자리를 골라 잡는지를 보시고, 그들에게 비유를 하나 들어 말씀하셨다.",
     Chn:"耶稣见所请的客拣择首位，就用比喻对他们说：",
     Eng:"When he noticed how the guests picked the places of honor at the table, he told them this parable:",
     Ind:"Karena Yesus melihat, bahwa tamu-tamu berusaha menduduki tempat-tempat kehormatan, Ia mengatakan perumpamaan ini kepada mereka:"
   },
   {Bible:"Luke", Chapter:14, Verse:8, Page:1,
-    Kor:"\"네가 누구에게 혼인 잔치에 초대를 받거든, 높은 자리에 앉지 말아라. 혹시 손님 가운데서 너보다 더 귀한 사람이 초대를 받았을 경우에,",
+    Kor:"\"네가 혼인 잔치에 초대를 받거든, 윗자리에 앉지 말아라. 혹시 손님들 가운데서 너보다 더 귀한 사람이 초대를 받았을 경우에,",
     Chn:"「你被人请去赴婚姻的筵席，不要坐在首位上，恐怕有比你尊贵的客被他请来；",
     Eng:"\"When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited.",
     Ind:"\"Kalau seorang mengundang engkau ke pesta perkawinan, janganlah duduk di tempat kehormatan, sebab mungkin orang itu telah mengundang seorang yang lebih terhormat dari padamu,"
   },
   {Bible:"Luke", Chapter:14, Verse:9, Page:1,
-    Kor:"너와 그를 초대한 사람이 와서, 너더러 '이 분에게 자리를 내드리시오' 하고 말할지 모른다. 그러면 너는 부끄러워하며 가장 낮은 자리로 내려앉게 될 것이다.",
+    Kor:"너와 그를 초대한 사람이 와서, 너더러 '이 분에게 자리를 내드리시오' 하고 말할지 모른다. 그 때에 너는 부끄러워하면서, 맨 끝 자리로 내려앉게 될 것이다.",
     Chn:"那请你们的人前来对你说：『让座给这一位吧！』你就羞羞惭惭地退到末位上去了。",
     Eng:"If so, the host who invited both of you will come and say to you, 'Give this man your seat.' Then, humiliated, you will have to take the least important place.",
     Ind:"supaya orang itu, yang mengundang engkau dan dia, jangan datang dan berkata kepadamu: Berilah tempat ini kepada orang itu. Lalu engkau dengan malu harus pergi duduk di tempat yang paling rendah."
   },
   {Bible:"Luke", Chapter:14, Verse:10, Page:1,
-    Kor:"네가 초대를 받거든, 가서 맨 끝자리에 앉아라. 그리하면 너를 청한 사람이 와서, 너더러 '친구여, 윗자리로 올라앉으시오' 하고 말할 것이다. 그 때에 너는 너와 함께 앉은 모든 사람 앞에서 영광을 받을 것이다.",
+    Kor:"네가 초대를 받거든, 가서 맨 끝자리에 앉아라. 그러면 너를 청한 사람이 와서, 너더러 '여보게, 윗자리로 올라앉게' 하고 말할 것이다. 그 때에 너는 너와 함께 앉은 모든 사람 앞에서 영광을 받을 것이다.",
     Chn:"你被请的时候，就去坐在末位上，好叫那请你的人来对你说：『朋友，请上座。』那时，你在同席的人面前就有光彩了。",
     Eng:"But when you are invited, take the lowest place, so that when your host comes, he will say to you, 'Friend, move up to a better place.' Then you will be honored in the presence of all your fellow guests.",
     Ind:"Tetapi, apabila engkau diundang, pergilah duduk di tempat yang paling rendah. Mungkin tuan rumah akan datang dan berkata kepadamu: Sahabat, silakan duduk di depan. Dan dengan demikian engkau akan menerima hormat di depan mata semua tamu yang lain."
   },
   {Bible:"Luke", Chapter:14, Verse:11, Page:1,
-    Kor:"누구든지 자기를 높이면 낮아질 것이요, 자기를 낮추면 높아질 것이다.\"",
+    Kor:"누구든지 자기를 높이는 사람은 낮아질 것이요, 자기를 낮추는 사람은 높아질 것이다.\"",
     Chn:"因为，凡自高的，必降为卑；自卑的，必升为高。」",
     Eng:"For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.\"",
     Ind:"Sebab barangsiapa meninggikan diri, ia akan direndahkan dan barangsiapa merendahkan diri, ia akan ditinggikan.\""
   },
   {Bible:"Luke", Chapter:14, Verse:12, Page:1,
-    Kor:"○예수께서는 자기를 초대한 사람에게도 말씀하셨다. \"네가 점심이나 만찬을 베풀 때에, 네 친구나 네 형제나 네 친척이나 부유한 이웃 사람들을 부르지 말아라. 그렇게 하면 그들도 너를 도로 초대하여 네게 되갚아, 네 은공이 없어질 것이다.",
+    Kor:"○예수께서는 자기를 초대한 사람에게도 말씀하셨다. \"네가 점심이나 만찬을 베풀 때에, 네 친구나 네 형제나 네 친척이나, 부유한 이웃 사람들을 부르지 말아라. 네가 그러한 사람들을 초대하면, 그들도 너를 도로 초대하여 네게 되갚아, 은공이 없어질 것이다.",
     Chn:"耶稣又对请他的人说：「你摆设午饭或晚饭，不要请你的朋友、弟兄、亲属，和富足的邻舍，恐怕他们也请你，你就得了报答。",
     Eng:"Then Jesus said to his host, \"When you give a luncheon or dinner, do not invite your friends, your brothers or relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid.",
     Ind:"Dan Yesus berkata juga kepada orang yang mengundang Dia: \"Apabila engkau mengadakan perjamuan siang atau perjamuan malam, janganlah engkau mengundang sahabat-sahabatmu atau saudara-saudaramu atau kaum keluargamu atau tetangga-tetanggamu yang kaya, karena mereka akan membalasnya dengan mengundang engkau pula dan dengan demikian engkau mendapat balasnya."
   },
   {Bible:"Luke", Chapter:14, Verse:13, Page:1,
-    Kor:"잔치를 베풀 때에는, 가난한 사람들과 지체에 장애가 있는 사람들과 다리 저는 사람들과 눈먼 사람들을 불러라.",
+    Kor:"잔치를 베풀 때에는, 가난한 사람들과 지체 장애자들과 다리 저는 사람들과 눈먼 사람들을 불러라.",
     Chn:"你摆设筵席，倒要请那贫穷的、残废的、瘸腿的、瞎眼的，你就有福了！",
     Eng:"But when you give a banquet, invite the poor, the crippled, the lame, the blind,",
     Ind:"Tetapi apabila engkau mengadakan perjamuan, undanglah orang-orang miskin, orang-orang cacat, orang-orang lumpuh dan orang-orang buta."
   },
   {Bible:"Luke", Chapter:14, Verse:14, Page:1,
-    Kor:"그리하면 네가 복될 것이다. 그들이 네게 갚을 수 없기 때문이다. 의인들이 부활할 때에, 하나님께서 네게 갚아 주실 것이다.\"",
+    Kor:"그러면 네가 복될 것이다. 그들이 네게 갚을 수 없기 때문이다. 의인들이 부활할 때에, 하나님께서 네게 갚아 주실 것이다.\"",
     Chn:"因为他们没有什么可报答你。到义人复活的时候，你要得着报答。」",
     Eng:"and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.\"",
     Ind:"Dan engkau akan berbahagia, karena mereka tidak mempunyai apa-apa untuk membalasnya kepadamu. Sebab engkau akan mendapat balasnya pada hari kebangkitan orang-orang benar.\""
   },
   {Bible:"Luke", Chapter:14, Verse:15, Page:1,
-    Kor:"<큰 잔치의 비유(마 22:1-10)> ○함께 먹고 있던 사람 가운데 하나가 이 말씀을 듣고서 예수께 말하였다. \"하나님의 나라에서 음식을 먹는 사람은 복이 있습니다.\"",
+    Kor:"○상 앞에 함께 앉아 있던 사람 가운데 하나가 이 말씀을 듣고서 \"하나님의 나라에서 음식을 먹는 사람은 복이 있습니다\" 하고 예수께 말하였다.",
     Chn:"同席的有一人听见这话，就对耶稣说：「在　神国里吃饭的有福了！」",
     Eng:"When one of those at the table with him heard this, he said to Jesus, \"Blessed is the man who will eat at the feast in the kingdom of God.\"",
     Ind:"Mendengar itu berkatalah seorang dari tamu-tamu itu kepada Yesus: \"Berbahagialah orang yang akan dijamu dalam Kerajaan Allah.\""
   },
   {Bible:"Luke", Chapter:14, Verse:16, Page:1,
-    Kor:"a예수께서 그에게 말씀하셨다. \"어떤 사람이 큰 잔치를 베풀고, 많은 사람을 초대하였다.(a 그, '그가')",
+    Kor:"예수께서 그에게 말씀하셨다. \"어떤 사람이 큰 잔치를 베풀고, 많은 사람을 초대하였다.",
     Chn:"耶稣对他说：「有一人摆设大筵席，请了许多客。",
     Eng:"Jesus replied: \"A certain man was preparing a great banquet and invited many guests.",
     Ind:"Tetapi Yesus berkata kepadanya: \"Ada seorang mengadakan perjamuan besar dan ia mengundang banyak orang."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Menjelang perjamuan itu dimulai, ia menyuruh hambanya mengatakan kepada para undangan: Marilah, sebab segala sesuatu sudah siap."
   },
   {Bible:"Luke", Chapter:14, Verse:18, Page:1,
-    Kor:"그런데 그들은 모두 하나같이 핑계를 대기 시작하였다. 한 사람은 그에게 말하기를 '내가 밭을 샀는데, 가서 보아야 하겠소. 부디 양해해 주기 바라오' 하였다.",
+    Kor:"그런데 그들은 모두 하나같이, 핑계를 대기 시작하였다. 한 사람은 그에게 말하기를 '내가 밭을 샀는데, 가서 보아야 하겠소. 부디 양해해 주기 바라오' 하였다.",
     Chn:"众人一口同音地推辞。头一个说：『我买了一块地，必须去看看。请你准我辞了。』",
     Eng:"\"But they all alike began to make excuses. The first said, 'I have just bought a field, and I must go and see it. Please excuse me.'",
     Ind:"Tetapi mereka bersama-sama meminta maaf. Yang pertama berkata kepadanya: Aku telah membeli ladang dan aku harus pergi melihatnya; aku minta dimaafkan."
@@ -123,31 +123,31 @@ BibleDB.add([
     Ind:"Yang lain lagi berkata: Aku baru kawin dan karena itu aku tidak dapat datang."
   },
   {Bible:"Luke", Chapter:14, Verse:21, Page:1,
-    Kor:"그 종이 돌아와서, 이것을 그대로 자기 주인에게 일렀다. 그러자 집주인이 노하여 종더러 말하기를 '어서 시내의 거리와 골목으로 나가서, 가난한 사람들과 지체에 장애가 있는 사람들과 눈먼 사람들과 다리 저는 사람들을 이리로 데려 오너라' 하였다.",
+    Kor:"그 종이 돌아와서, 이것을 그대로 자기 주인에게 일렀다. 그러자 집주인이 노하여 종더러 말하기를 '어서 시내의 거리와 골목으로 나가서 가난한 사람들과 지체에 장애가 있는 사람들과 눈먼 사람들과 다리 저는 사람들을 이리로 데려오너라' 하였다.",
     Chn:"那仆人回来，把这事都告诉了主人。家主就动怒，对仆人说：『快出去，到城里大街小巷，领那贫穷的、残废的、瞎眼的、瘸腿的来。』",
     Eng:"\"The servant came back and reported this to his master. Then the owner of the house became angry and ordered his servant, 'Go out quickly into the streets and alleys of the town and bring in the poor, the crippled, the blind and the lame.'",
     Ind:"Maka kembalilah hamba itu dan menyampaikan semuanya itu kepada tuannya. Lalu murkalah tuan rumah itu dan berkata kepada hambanya: Pergilah dengan segera ke segala jalan dan lorong kota dan bawalah ke mari orang-orang miskin dan orang-orang cacat dan orang-orang buta dan orang-orang lumpuh."
   },
   {Bible:"Luke", Chapter:14, Verse:22, Page:1,
-    Kor:"그렇게 한 뒤에 종이 말하였다. '주인님, 분부대로 하였습니다만, 아직도 자리가 남아 있습니다.'",
+    Kor:"그런 뒤에 종이 말하였다. '주인님, 분부대로 하였습니다만, 아직도 자리가 남아 있습니다.'",
     Chn:"仆人说：『主啊，你所吩咐的已经办了，还有空座。』",
     Eng:"\"'Sir,' the servant said, 'what you ordered has been done, but there is still room.'",
     Ind:"Kemudian hamba itu melaporkan: Tuan, apa yang tuan perintahkan itu sudah dilaksanakan, tetapi sekalipun demikian masih ada tempat."
   },
   {Bible:"Luke", Chapter:14, Verse:23, Page:1,
-    Kor:"주인이 종에게 말하였다. '큰길과 산울타리로 나가서, 사람들을 억지로라도 데려다가, 내 집을 채워라.",
+    Kor:"주인이 종에게 말하였다. '큰길과 울타리 가로 나가서, 사람들을 억지로라도 데려다가 내 집을 채워라.",
     Chn:"主人对仆人说：『你出去到路上和篱笆那里，勉强人进来，坐满我的屋子。",
     Eng:"\"Then the master told his servant, 'Go out to the roads and country lanes and make them come in, so that my house will be full.",
     Ind:"Lalu kata tuan itu kepada hambanya: Pergilah ke semua jalan dan lintasan dan paksalah orang-orang, yang ada di situ, masuk, karena rumahku harus penuh."
   },
   {Bible:"Luke", Chapter:14, Verse:24, Page:1,
-    Kor:"내가 너희에게 말한다. 초대를 받은 사람들 가운데서는, 아무도 나의 잔치를 맛보지 못할 것이다.'\"",
+    Kor:"내가 너희에게 말한다. 초대를 받은 사람 가운데서는, 아무도 나의 잔치를 맛보지 못할 것이다.'\"",
     Chn:"我告诉你们，先前所请的人没有一个得尝我的筵席。』」",
     Eng:"I tell you, not one of those men who were invited will get a taste of my banquet.'\"",
     Ind:"Sebab Aku berkata kepadamu: Tidak ada seorangpun dari orang-orang yang telah diundang itu akan menikmati jamuan-Ku.\""
   },
   {Bible:"Luke", Chapter:14, Verse:25, Page:1,
-    Kor:"<제자가 되는 길(마 10:37-38)> ○많은 무리가 예수와 동행하였다. 예수께서 돌아서서 그들에게 말씀하셨다.",
+    Kor:"○많은 무리가 예수와 동행하였다. 예수께서 돌아서서 그들에게 말씀하셨다.",
     Chn:"有极多的人和耶稣同行。他转过来对他们说：",
     Eng:"Large crowds were traveling with Jesus, and turning to them he said:",
     Ind:"Pada suatu kali banyak orang berduyun-duyun mengikuti Yesus dalam perjalanan-Nya. Sambil berpaling Ia berkata kepada mereka:"
@@ -171,25 +171,25 @@ BibleDB.add([
     Ind:"Sebab siapakah di antara kamu yang kalau mau mendirikan sebuah menara tidak duduk dahulu membuat anggaran biayanya, kalau-kalau cukup uangnya untuk menyelesaikan pekerjaan itu?"
   },
   {Bible:"Luke", Chapter:14, Verse:29, Page:1,
-    Kor:"그렇게 하지 않아서, 기초만 놓은 채 완성하지 못하면, 보는 사람들이 그를 비웃을 것이며,",
+    Kor:"그렇게 하지 않아서, 기초만 놓은 채 완성하지 못하면, 보는 사람들이 그를 비웃기 시작하여,",
     Chn:"恐怕安了地基，不能成功，看见的人都笑话他，说：",
     Eng:"For if he lays the foundation and is not able to finish it, everyone who sees it will ridicule him,",
     Ind:"Supaya jikalau ia sudah meletakkan dasarnya dan tidak dapat menyelesaikannya, jangan-jangan semua orang yang melihatnya, mengejek dia,"
   },
   {Bible:"Luke", Chapter:14, Verse:30, Page:1,
-    Kor:"'이 사람이 짓기를 시작만 하고, 끝내지는 못하였구나' 하고 말할 것이다.",
+    Kor:"말하기를 '이 사람이 짓기를 시작만 하고, 끝내지는 못하였구나' 할 것이다.",
     Chn:"『这个人开了工，却不能完工。』",
     Eng:"saying, 'This fellow began to build and was not able to finish.'",
     Ind:"sambil berkata: Orang itu mulai mendirikan, tetapi ia tidak sanggup menyelesaikannya."
   },
   {Bible:"Luke", Chapter:14, Verse:31, Page:1,
-    Kor:"또 어떤 임금이 다른 임금과 싸우러 나가려면, 이만 명을 거느리고서 자기에게로 쳐들어오는 그를 자기가 만 명으로 당해 낼 수 있을지를, 먼저 앉아서 헤아려 보아야 하지 않겠느냐?",
+    Kor:"또 어떤 임금이 다른 임금과 싸우러 나가려면, 이만 명을 거느리고 자기에게로 밀고 들어오는 자를 만 명으로 당해 낼 수 있을지를, 먼저 앉아서 헤아려 보아야 하지 않겠느냐?",
     Chn:"或是一个王出去和别的王打仗，岂不先坐下酌量，能用一万兵去敌那领二万兵来攻打他的吗？",
     Eng:"\"Or suppose a king is about to go to war against another king. Will he not first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?",
     Ind:"Atau, raja manakah yang kalau mau pergi berperang melawan raja lain tidak duduk dahulu untuk mempertimbangkan, apakah dengan sepuluh ribu orang ia sanggup menghadapi lawan yang mendatanginya dengan dua puluh ribu orang?"
   },
   {Bible:"Luke", Chapter:14, Verse:32, Page:1,
-    Kor:"당해 낼 수 없겠으면, 그가 아직 멀리 있을 동안에 사신을 보내서, 화친을 청할 것이다.",
+    Kor:"당해 낼 수 없겠으면, 그가 아직 멀리 있는 동안에, 사신을 보내서 화친을 청할 것이다.",
     Chn:"若是不能，就趁敌人还远的时候，派使者去求和息的条款。",
     Eng:"If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.",
     Ind:"Jikalau tidak, ia akan mengirim utusan selama musuh itu masih jauh untuk menanyakan syarat-syarat perdamaian."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Demikian pulalah tiap-tiap orang di antara kamu, yang tidak melepaskan dirinya dari segala miliknya, tidak dapat menjadi murid-Ku."
   },
   {Bible:"Luke", Chapter:14, Verse:34, Page:1,
-    Kor:"<맛 잃은 소금은 쓸 데 없다(마 5:13; 막 9:50)> ○\"소금은 좋은 것이다. 그러나 소금이 짠 맛을 잃으면, c무엇으로 그것을 짜게 하겠느냐?(c 또는 '무엇으로 그 짠 맛을 회복하겠느냐?' 또는 '무엇으로 짠 맛을 나게 하겠느냐?')",
+    Kor:"○\"소금은 좋은 것이다. 그러나 소금이 짠맛을 잃으면, 무엇으로 짠맛을 나게 하겠느냐?",
     Chn:"「盐本是好的；盐若失了味，可用什么叫它再咸呢？",
     Eng:"\"Salt is good, but if it loses its saltiness, how can it be made salty again?",
     Ind:"Garam memang baik, tetapi jika garam juga menjadi tawar, dengan apakah ia diasinkan?"
   },
   {Bible:"Luke", Chapter:14, Verse:35, Page:1,
-    Kor:"그것은 땅에도 거름에도 쓸 데가 없어서 밖에 내버린다. 들을 귀가 있는 사람은 들어라.\"",
+    Kor:"그것은 땅에도 거름에도 쓸 데가 없어서, 밖에 내버린다. 들을 귀 있는 사람은 들어라.\"",
     Chn:"或用在田里，或堆在粪里，都不合式，只好丢在外面。有耳可听的，就应当听！」",
     Eng:"It is fit neither for the soil nor for the manure pile; it is thrown out. \"He who has ears to hear, let him hear.\"",
     Ind:"Tidak ada lagi gunanya baik untuk ladang maupun untuk pupuk, dan orang membuangnya saja. Siapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\""

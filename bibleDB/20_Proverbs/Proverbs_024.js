@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",24,34);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:24, Verse:1, Page:1,
-    Kor:"<-19-> 너는 악한 사람을 부러워하지 말며, 그들과 어울리고 싶어하지도 말아라.",
+    Kor:"너는 악한 사람을 부러워하지 말며, 그들과 어울리고 싶어하지도 말아라.",
     Chn:"你不要嫉妒恶人， 也不要起意与他们相处；",
     Eng:"Do not envy wicked men, do not desire their company;",
     Ind:"Jangan iri kepada orang jahat, jangan ingin bergaul dengan mereka."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Karena hati mereka memikirkan penindasan dan bibir mereka membicarakan bencana."
   },
   {Bible:"Proverbs", Chapter:24, Verse:3, Page:1,
-    Kor:"<-20-> 집은 지혜로 지어지고, 명철로 튼튼해진다.",
+    Kor:"집은 지혜로 지어지고, 명철로 튼튼해진다.",
     Chn:"房屋因智慧建造， 又因聪明立稳；",
     Eng:"By wisdom a house is built, and through understanding it is established;",
     Ind:"Dengan hikmat rumah didirikan, dengan kepandaian itu ditegakkan,"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"dan dengan pengertian kamar-kamar diisi dengan bermacam-macam harta benda yang berharga dan menarik."
   },
   {Bible:"Proverbs", Chapter:24, Verse:5, Page:1,
-    Kor:"<-21-> 지혜가 있는 사람은 힘이 센 사람보다 더 강하고, 지식이 있는 사람은 기운이 센 사람보다 더 강하다.",
+    Kor:"지혜가 있는 사람은 힘이 센 사람보다 더 강하고, 지식이 있는 사람은 기운이 센 사람보다 더 강하다.",
     Chn:"智慧人大有能力； 有知识的人力上加力。",
     Eng:"A wise man has great power, and a man of knowledge increases strength;",
     Ind:"Orang yang bijak lebih berwibawa dari pada orang kuat, juga orang yang berpengetahuan dari pada orang yang tegap kuat."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Karena hanya dengan perencanaan engkau dapat berperang, dan kemenangan tergantung pada penasihat yang banyak."
   },
   {Bible:"Proverbs", Chapter:24, Verse:7, Page:1,
-    Kor:"<-22-> 지혜는 너무 높이 있어서, 어리석은 사람이 거기에 미치지 못하니, 어리석은 사람은 사람이 모인 데서 입을 열지 못한다.",
+    Kor:"지혜는 너무 높이 있어서, 어리석은 사람이 거기에 미치지 못하니, 어리석은 사람은 사람이 모인 데서 입을 열지 못한다.",
     Chn:"智慧极高，非愚昧人所能及， 所以在城门内不敢开口。",
     Eng:"Wisdom is too high for a fool; in the assembly at the gate he has nothing to say.",
     Ind:"Hikmat terlalu tinggi bagi orang bodoh; ia tidak membuka mulutnya di pintu gerbang."
   },
   {Bible:"Proverbs", Chapter:24, Verse:8, Page:1,
-    Kor:"<-23-> 늘 악한 일만 꾀하는 사람은, 이간질꾼이라고 불린다.",
+    Kor:"늘 악한 일만 꾀하는 사람은, 이간질꾼이라고 불린다.",
     Chn:"设计作恶的， 必称为奸人。",
     Eng:"He who plots evil will be known as a schemer.",
     Ind:"Siapa selalu merencanakan kejahatan akan disebut penipu."
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Memikirkan kebodohan mendatangkan dosa, dan si pencemooh adalah kekejian bagi manusia."
   },
   {Bible:"Proverbs", Chapter:24, Verse:10, Page:1,
-    Kor:"<4-> 재난을 당할 때에 낙심하는 것은, 너의 힘이 약하다는 것을 드러내는 것이다.",
+    Kor:"재난을 당할 때에 낙심하는 것은, 너의 힘이 약하다는 것을 드러내는 것이다.",
     Chn:"你在患难之日若胆怯， 你的力量就微小。",
     Eng:"If you falter in times of trouble, how small is your strength!",
     Ind:"Jika engkau tawar hati pada masa kesesakan, kecillah kekuatanmu."
   },
   {Bible:"Proverbs", Chapter:24, Verse:11, Page:1,
-    Kor:"<-25-> 너는 죽을 자리로 끌려가는 사람을 건져 주고, 살해될 사람을 돕는 데 인색하지 말아라.",
+    Kor:"너는 죽을 자리로 끌려가는 사람을 건져 주고, 살해될 사람을 돕는 데 인색하지 말아라.",
     Chn:"人被拉到死地，你要解救； 人将被杀，你须拦阻。",
     Eng:"Rescue those being led away to death; hold back those staggering toward slaughter.",
     Ind:"Bebaskan mereka yang diangkut untuk dibunuh, selamatkan orang yang terhuyung-huyung menuju tempat pemancungan."
   },
   {Bible:"Proverbs", Chapter:24, Verse:12, Page:1,
-    Kor:"너는 그것이 '내가 알 바 아니라'고 생각하며 살겠지만, 마음을 헤아리시는 주님께서 어찌 너의 마음을 모르시겠느냐? 너의 목숨을 지키시는 주님께서 다 알고 계시지 않겠느냐? 그분은 각 사람의 행실대로 갚으실 것이다.",
+    Kor:"너는 그것이 '내가 알 바 아니라'고 생각하며 살겠지만, 마음을 헤아리시는 주께서 어찌 너의 마음을 모르시겠느냐? 너의 목숨을 지키시는 주께서 다 알고 계시지 않겠느냐? 그분은 각 사람의 행실대로 갚으실 것이다.",
     Chn:"你若说：这事我未曾知道， 那衡量人心的岂不明白吗？ 保守你命的岂不知道吗？ 他岂不按各人所行的报应各人吗？",
     Eng:"If you say, \"But we knew nothing about this,\" does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?",
     Ind:"Kalau engkau berkata: \"Sungguh, kami tidak tahu hal itu!\" Apakah Dia yang menguji hati tidak tahu yang sebenarnya? Apakah Dia yang menjaga jiwamu tidak mengetahuinya, dan membalas manusia menurut perbuatannya?"
   },
   {Bible:"Proverbs", Chapter:24, Verse:13, Page:1,
-    Kor:"<-26-> 내 아이들아, 꿀을 먹어라. 그것은 좋은 것이다. 송이꿀을 먹어라. 그것은 너의 입에 달콤할 것이다.",
+    Kor:"내 아들아, 꿀을 먹어라. 그것은 좋은 것이다. 송이꿀을 먹어라. 그것은 너의 입에 달콤할 것이다.",
     Chn:"我儿，你要吃蜜，因为是好的； 吃蜂房下滴的蜜便觉甘甜。",
     Eng:"Eat honey, my son, for it is good; honey from the comb is sweet to your taste.",
     Ind:"Anakku, makanlah madu, sebab itu baik; dan tetesan madu manis untuk langit-langit mulutmu."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ketahuilah, demikian hikmat untuk jiwamu: Jika engkau mendapatnya, maka ada masa depan, dan harapanmu tidak akan hilang."
   },
   {Bible:"Proverbs", Chapter:24, Verse:15, Page:1,
-    Kor:"<-27-> 악한 사람아, 의인의 집을 노리지 말고, 그가 쉬는 곳을 헐지 말아라.",
+    Kor:"악한 사람아, 의인의 집을 노리지 말고, 그가 쉬는 곳을 헐지 말아라.",
     Chn:"你这恶人，不要埋伏攻击义人的家； 不要毁坏他安居之所。",
     Eng:"Do not lie in wait like an outlaw against a righteous man's house, do not raid his dwelling place;",
     Ind:"Jangan mengintai kediaman orang benar seperti orang fasik, jangan merusak rumahnya."
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Sebab tujuh kali orang benar jatuh, namun ia bangun kembali, tetapi orang fasik akan roboh dalam bencana."
   },
   {Bible:"Proverbs", Chapter:24, Verse:17, Page:1,
-    Kor:"<-28-> 원수가 넘어질 때에 즐거워하지 말고, 그가 걸려서 쓰러질 때에 마음에 기뻐하지 말아라.",
+    Kor:"원수가 넘어질 때에 즐거워하지 말고, 그가 걸려서 쓰러질 때에 마음에 기뻐하지 말아라.",
     Chn:"你仇敌跌倒，你不要欢喜； 他倾倒，你心不要快乐；",
     Eng:"Do not gloat when your enemy falls; when he stumbles, do not let your heart rejoice,",
     Ind:"Jangan bersukacita kalau musuhmu jatuh, jangan hatimu beria-ria kalau ia terperosok,"
   },
   {Bible:"Proverbs", Chapter:24, Verse:18, Page:1,
-    Kor:"주님께서 이것을 보시고 좋지 않게 여기셔서, 그 노여움을 너의 원수로부터 너에게로 돌이키실까 두렵다.",
+    Kor:"주께서 이것을 보시고 좋지 않게 여기셔서, 그 노여움을 너의 원수로부터 너에게로 돌이키실까 두렵다.",
     Chn:"恐怕耶和华看见就不喜悦， 将怒气从仇敌身上转过来。",
     Eng:"or the LORD will see and disapprove and turn his wrath away from him.",
     Ind:"supaya TUHAN tidak melihatnya dan menganggapnya jahat, lalu memalingkan murkanya dari pada orang itu."
   },
   {Bible:"Proverbs", Chapter:24, Verse:19, Page:1,
-    Kor:"<-29-> 행악자 때문에 분개하지도 말고, 악인을 시기하지도 말아라.",
+    Kor:"행악자 때문에 분개하지도 말고, 악인을 시기하지도 말아라.",
     Chn:"不要为作恶的心怀不平， 也不要嫉妒恶人；",
     Eng:"Do not fret because of evil men or be envious of the wicked,",
     Ind:"Jangan menjadi marah karena orang yang berbuat jahat, jangan iri kepada orang fasik."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Karena tidak ada masa depan bagi penjahat, pelita orang fasik akan padam."
   },
   {Bible:"Proverbs", Chapter:24, Verse:21, Page:1,
-    Kor:"<-30-> 내 아이들아, 주님과 왕을 경외하고, 변절자들과 사귀지 말아라.",
+    Kor:"내 아들아, 주님과 왕을 경외하고, 변절자들과 사귀지 말아라.",
     Chn:"我儿，你要敬畏耶和华与君王， 不要与反复无常的人结交，",
     Eng:"Fear the LORD and the king, my son, and do not join with the rebellious,",
     Ind:"Hai anakku, takutilah TUHAN dan raja; jangan melawan terhadap kedua-duanya."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Karena dengan tiba-tiba mereka menimbulkan bencana, dan siapa mengetahui kehancuran yang didatangkan mereka?"
   },
   {Bible:"Proverbs", Chapter:24, Verse:23, Page:1,
-    Kor:"<추가 교훈> ○몇 가지 교훈이 더 있다.  재판할 때에 얼굴을 보아 재판하는 것은 옳지 않다.",
+    Kor:"이것도 지혜 있는 사람의 말씀이다. 재판할 때에 얼굴을 보아 재판하는 것은 옳지 않다.",
     Chn:"以下也是智慧人的箴言： 审判时看人情面是不好的。",
     Eng:"These also are sayings of the wise: To show partiality in judging is not good:",
     Ind:"Juga ini adalah amsal-amsal dari orang bijak. Memandang bulu dalam pengadilan tidaklah baik."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"\"Tidur sebentar lagi, mengantuk sebentar lagi, melipat tangan sebentar lagi untuk tinggal berbaring,\""
   },
   {Bible:"Proverbs", Chapter:24, Verse:34, Page:1,
-    Kor:"가난이 강도처럼 들이닥치고, 빈곤이 a방패로 무장한 용사처럼 달려들 것이다. (a 또는 '거지처럼')",
+    Kor:"너에게 가난이 강도처럼 들이닥치고, 빈곤이 방패로 무장한 용사처럼 달려들 것이다.",
     Chn:"你的贫穷就必如强盗速来， 你的缺乏仿佛拿兵器的人来到。",
     Eng:"and poverty will come on you like a bandit and scarcity like an armed man.",
     Ind:"maka datanglah kemiskinan seperti seorang penyerbu, dan kekurangan seperti orang yang bersenjata."

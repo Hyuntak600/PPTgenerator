@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",18,32);
 BibleDB.add([
   {Bible:"Numbers", Chapter:18, Verse:1, Page:1,
-    Kor:"<제사장과 레위 사람의 의무> 주님께서 아론에게 말씀하셨다. \"성소를 범한 죄에 대해서는, 너와 너의 아들들과 너와 함께 있는 네 아버지 집 식구들이 책임을 진다. 그리고 제사장 직분을 범한 죄에 대해서는, 너와 너에게 딸린 아들들만이 책임을 진다.",
+    Kor:"주께서 아론에게 말씀하셨다. \"성소를 범한 죄에 대해서는, 너와 너의 아들들과 너와 함께 있는 네 아버지 집 식구들이 책임을 진다. 그리고 제사장 직분을 범한 죄에 대해서는, 너와 너에게 딸린 아들들만이 책임을 진다.",
     Chn:"耶和华对亚伦说：「你和你的儿子，并你本族的人，要一同担当干犯圣所的罪孽。你和你的儿子也要一同担当干犯祭司职任的罪孽。",
     Eng:"The LORD said to Aaron, \"You, your sons and your father's family are to bear the responsibility for offenses against the sanctuary, and you and your sons alone are to bear the responsibility for offenses against the priesthood.",
     Ind:"TUHAN berfirman kepada Harun: \"Engkau ini dan anak-anakmu beserta seluruh sukumu haruslah menanggung akibat setiap kesalahan terhadap tempat kudus; sedang hanya engkau beserta anak-anakmulah yang harus menanggung akibat setiap kesalahan yang dilakukan dalam jabatanmu sebagai imam."
   },
   {Bible:"Numbers", Chapter:18, Verse:2, Page:1,
-    Kor:"너는 레위 지파, 곧 네 아버지의 지파에 속한 친족들을 데려다가, 네 가까이에 있게 하여, 너와 너에게 딸린 아들들이 a증거의 장막 앞에서 봉사할 때에, 그들이 너를 돕게 하여라.(a 또는 '법의')",
+    Kor:"너는 레위 지파, 곧 네 아버지의 지파에 속한 형제들을 데려다가, 네 가까이에 있게 하여, 너와 너에게 딸린 아들들이 증거의 장막 앞에서 봉사할 때에, 그들이 너를 돕게 하여라.",
     Chn:"你要带你弟兄利未人，就是你祖宗支派的人前来，使他们与你联合，服事你，只是你和你的儿子，要一同在法柜的帐幕前供职。",
     Eng:"Bring your fellow Levites from your ancestral tribe to join you and assist you when you and your sons minister before the Tent of the Testimony.",
     Ind:"Suruhlah juga saudara-saudaramu, suku Lewi, suku bapa leluhurmu, mendekat bersama-sama dengan engkau, supaya mereka menggabungkan diri kepadamu dan melayani engkau, apabila engkau ini beserta anak-anakmu ada di depan kemah hukum."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Dan kamu ini haruslah melakukan kewajibanmu mengenai tempat kudus dan kewajibanmu mengenai mezbah, supaya orang Israel jangan lagi tertimpa oleh murka."
   },
   {Bible:"Numbers", Chapter:18, Verse:6, Page:1,
-    Kor:"○나는 이스라엘 자손 가운데서 너희의 친족인 레위 사람을 너희에게 줄 선물로 선택하였다. 그들은 회막 일을 하도록 나 주에게 바쳐진 사람들이다.",
+    Kor:"○나는 이스라엘 자손 가운데서 너희의 형제인 레위 사람을 너희에게 줄 선물로 선택하였다. 그들은 회막 일을 하도록 주께 바쳐진 사람들이다.",
     Chn:"我已将你们的弟兄利未人从以色列人中拣选出来归耶和华，是给你们为赏赐的，为要办理会幕的事。",
     Eng:"I myself have selected your fellow Levites from among the Israelites as a gift to you, dedicated to the LORD to do the work at the Tent of Meeting.",
     Ind:"Sesungguhnya Aku ini telah mengambil saudara-saudaramu, orang Lewi, dari tengah-tengah orang Israel sebagai pemberian kepadamu, sebagai orang-orang yang diserahkan kepada TUHAN, untuk melakukan pekerjaan pada Kemah Pertemuan;"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"tetapi engkau ini beserta anak-anakmu harus memegang jabatanmu sebagai imam dalam segala hal yang berkenaan dengan mezbah dan dengan segala sesuatu yang ada di belakang tabir, dan kamu harus mengerjakannya; sebagai suatu jabatan pemberian Aku memberikan kepadamu jabatanmu sebagai imam itu; tetapi orang awam yang mendekat harus dihukum mati.\""
   },
   {Bible:"Numbers", Chapter:18, Verse:8, Page:1,
-    Kor:"<제사장의 몫> ○주님께서 아론에게 말씀하셨다. \"내가 제물로 받은 것, 이스라엘 자손이 거룩히 구별하여 나에게 바치는 것은, 모두 너에게 준다. 나는 그것들을, 너와 너의 아들들의 몫으로, 언제나 지켜야 할 규례로 준다.",
+    Kor:"○주께서 아론에게 말씀하셨다. \"내가 제물로 받은 것, 이스라엘 자손이 거룩히 구별하여 나에게 바치는 것은, 모두 너에게 준다. 나는 그것들을, 너와 너의 아들들의 몫으로, 언제나 지켜야 할 규례로 준다.",
     Chn:"耶和华晓谕亚伦说：「我已将归我的举祭，就是以色列人一切分别为圣的物，交给你经管；因你受过膏，把这些都赐给你和你的子孙，当作永得的分。",
     Eng:"Then the LORD said to Aaron, \"I myself have put you in charge of the offerings presented to me; all the holy offerings the Israelites give me I give to you and your sons as your portion and regular share.",
     Ind:"Lagi berfirmanlah TUHAN kepada Harun: \"Sesungguhnya Aku ini telah menyerahkan kepadamu pemeliharaan persembahan-persembahan khusus yang kepada-Ku; semua persembahan kudus orang Israel Kuberikan kepadamu dan kepada anak-anakmu sebagai bagianmu; itulah suatu ketetapan untuk selama-lamanya."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Mengenai uang tebusannya, dari sejak berumur satu bulan haruslah kautebus menurut nilainya, yakni lima syikal perak ditimbang menurut syikal kudus; syikal ini dua puluh gera beratnya."
   },
   {Bible:"Numbers", Chapter:18, Verse:17, Page:1,
-    Kor:"그러나 암소의 맏배나, 양의 맏배나, 염소의 맏배는 속전을 받고 되돌려 주지 못한다. 그것들은 거룩한 것이다. 너는, 그것들의 피는 제단 위에 뿌리고, 그것들의 기름기는 불태워 바치는 제물로 불살라서, 나 주를 기쁘게 하는 향기로 나 주에게 바쳐라.",
+    Kor:"그러나 암소의 맏배나, 양의 맏배나, 염소의 맏배는 속전을 받고 되돌려 주지 못한다. 그것들은 거룩한 것이다. 너는, 그것들의 피는 제단 위에 뿌리고, 그것들의 기름기는 불태워 바치는 제물로 불살라서, 나 주를 기쁘게 해주는 향기로 나 주에게 바쳐라.",
     Chn:"只是头生的牛，或是头生的绵羊和山羊，必不可赎，都是圣的，要把它的血洒在坛上，把它的脂油焚烧，当作馨香的火祭献给耶和华。",
     Eng:"\"But you must not redeem the firstborn of an ox, a sheep or a goat; they are holy. Sprinkle their blood on the altar and burn their fat as an offering made by fire, an aroma pleasing to the LORD.",
     Ind:"Tetapi anak sulung lembu, domba atau kambing janganlah kautebus; semuanya itu kudus; darahnya haruslah kausiramkan pada mezbah dan lemaknya kaubakar sebagai korban api-apian menjadi bau yang menyenangkan bagi TUHAN;"
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Segala persembahan khusus, yakni persembahan kudus yang dipersembahkan orang Israel kepada TUHAN, Aku berikan kepadamu dan kepada anak-anakmu laki-laki dan perempuan bersama-sama dengan engkau; itulah suatu ketetapan untuk selama-lamanya; itulah suatu perjanjian garam untuk selama-lamanya di hadapan TUHAN bagimu serta bagi keturunanmu.\""
   },
   {Bible:"Numbers", Chapter:18, Verse:20, Page:1,
-    Kor:"○주님께서 아론에게 말씀하셨다. \"너는 그들의 땅에서는 아무런 유산도 없다. 그들과 더불어 함께 나눌 몫이 너에게는 없다. 이스라엘 자손 가운데서 네가 받은 몫, 네가 차지할 유산은 바로 나다.\"",
+    Kor:"주께서 아론에게 말씀하셨다. \"너는 그들의 땅에서는 아무런 유산도 없다. 그들과 더불어 함께 나눌 몫이 너에게는 없다. 이스라엘 자손 가운데서 네가 받은 몫, 네가 차지할 유산은 바로 나다.\"",
     Chn:"耶和华对亚伦说：「你在以色列人的境内不可有产业，在他们中间也不可有分。我就是你的分，是你的产业。」",
     Eng:"The LORD said to Aaron, \"You will have no inheritance in their land, nor will you have any share among them; I am your share and your inheritance among the Israelites.",
     Ind:"TUHAN berfirman kepada Harun: \"Di negeri mereka engkau tidak akan mendapat milik pusaka dan tidak akan beroleh bagian di tengah-tengah mereka; Akulah bagianmu dan milik pusakamu di tengah-tengah orang Israel."
   },
   {Bible:"Numbers", Chapter:18, Verse:21, Page:1,
-    Kor:"<레위 사람의 몫> ○\"나는 레위 자손에게는 이스라엘 안에서 바치는 열의 하나를 모두 그들이 받을 유산으로 준다. 이것은 그들이 회막 일을 거드는 것에 대한 보수이다.",
+    Kor:"○\"나는 레위 자손에게는 이스라엘 안에서 바치는 열의 하나를 모두 그들이 받을 유산으로 준다. 이것은 그들이 회막 일을 거드는 것에 대한 보수이다.",
     Chn:"「凡以色列中出产的十分之一，我已赐给利未的子孙为业；因他们所办的是会幕的事，所以赐给他们为酬他们的劳。",
     Eng:"\"I give to the Levites all the tithes in Israel as their inheritance in return for the work they do while serving at the Tent of Meeting.",
     Ind:"Mengenai bani Lewi, sesungguhnya Aku berikan kepada mereka segala persembahan persepuluhan di antara orang Israel sebagai milik pusakanya, untuk membalas pekerjaan yang dilakukan mereka, pekerjaan pada Kemah Pertemuan."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"sebab persembahan persepuluhan yang dipersembahkan orang Israel kepada TUHAN sebagai persembahan khusus Kuberikan kepada orang Lewi sebagai milik pusakanya; itulah sebabnya Aku telah berfirman tentang mereka: Mereka tidak akan mendapat milik pusaka di tengah-tengah orang Israel.\""
   },
   {Bible:"Numbers", Chapter:18, Verse:25, Page:1,
-    Kor:"<레위 사람의 십일조> ○주님께서 모세에게 다음과 같이 말씀하셨다.",
+    Kor:"○주께서 모세에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华吩咐摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:18, Verse:26, Page:1,
-    Kor:"\"레위 사람에게 말하여라. 너는 그들에게 일러라. ○너희가 이스라엘 자손에게서, 내가 너희에게 유산으로 주는 열의 하나를 받을 때에, 너희는 열의 하나 받은 것에서 열째 몫을, 나 주에게 들어 올려 바치는 제물로 드려라.",
+    Kor:"\"레위 사람에게 말하여라. 너는 그들에게 일러라. '너희가 이스라엘 자손에게서, 내가 너희에게 유산으로 주는 열의 하나를 받을 때에, 너희는 열의 하나 받은 것에서 열째 몫을, 주께 들어 올려 바치는 제물로 드려라.",
     Chn:"「你晓谕利未人说：你们从以色列人中所取的十分之一，就是我给你们为业的，要再从那十分之一中取十分之一作为举祭献给耶和华，",
     Eng:"\"Speak to the Levites and say to them: 'When you receive from the Israelites the tithe I give you as your inheritance, you must present a tenth of that tithe as the LORD'S offering.",
     Ind:"\"Lagi haruslah engkau berbicara kepada orang Lewi dan berkata kepada mereka: Apabila kamu menerima dari pihak orang Israel persembahan persepuluhan yang Kuberikan kepadamu dari pihak mereka sebagai milik pusakamu, maka haruslah kamu mempersembahkan sebagian dari padanya sebagai persembahan khusus kepada TUHAN, yakni persembahan persepuluhanmu dari persembahan persepuluhan itu,"
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"dan persembahan itu akan diperhitungkan sebagai persembahan khususmu, sama seperti gandum dari tempat pengirikan dan sama seperti hasil dari tempat pemerasan anggur."
   },
   {Bible:"Numbers", Chapter:18, Verse:28, Page:1,
-    Kor:"이렇게 너희는 이스라엘 자손에게서 받는 모든 것에서 열의 하나를 떼어, 나 주에게 들어 올려 바치는 제물로 드리고, 나 주에게 드린 그 제물은 제사장 아론의 몫으로 돌려라.",
+    Kor:"이렇게 너희는 이스라엘 자손에게서 받는 모든 것에서 열의 하나를 떼어, 주께 들어 올려 바치는 제물로 드리고, 주께 드린 그 제물은 제사장 아론의 몫으로 돌려라.",
     Chn:"这样，你们从以色列人中所得的十分之一也要作举祭献给耶和华，从这十分之一中，将所献给耶和华的举祭归给祭司亚伦。",
     Eng:"In this way you also will present an offering to the LORD from all the tithes you receive from the Israelites. From these tithes you must give the LORD'S portion to Aaron the priest.",
     Ind:"Secara demikian kamupun harus mempersembahkan sebagai persembahan khusus kepada TUHAN sebagian dari segala persembahan persepuluhan yang kamu terima dari pihak orang Israel. Dan yang dipersembahkan dari padanya sebagai persembahan khusus kepada TUHAN haruslah kamu serahkan kepada imam Harun."
   },
   {Bible:"Numbers", Chapter:18, Verse:29, Page:1,
-    Kor:"너희는 주의 몫으로는 너희가 받는 모든 것 가운데서 가장 좋고 가장 거룩한 부분을, 들어 올려 바치는 제물로 모두 바쳐야 한다.",
+    Kor:"너희는 주의 몫으로는 너희가 받는 모든 것 가운데서 가장 좋고 가장 거룩한 부분을, 들어 올려 바치는 제물로 모두 바쳐야 한다.'",
     Chn:"奉给你们的一切礼物，要从其中将至好的，就是分别为圣的，献给耶和华为举祭。",
     Eng:"You must present as the LORD'S portion the best and holiest part of everything given to you.'",
     Ind:"Dari segala yang diserahkan kepadamu, yakni dari segala yang terbaik di antaranya, haruslah kamu mempersembahkan seluruh persembahan khusus kepada TUHAN, sebagai bagian kudus dari padanya."
   },
   {Bible:"Numbers", Chapter:18, Verse:30, Page:1,
-    Kor:"○너는 또 그들에게 말하여라. ○너희가 가장 좋은 부분을 들어 올려 바칠 때에, 나는 그것을 레위 사람이 타작 마당이나 포도 짜는 틀에서 나온 것을 바치는 것처럼 여길 것이다.",
+    Kor:"○너는 또 그들에게 말하여라. '너희가 가장 좋은 부분을 들어 올려 바칠 때에, 나는 그것을 레위 사람이 타작 마당이나 포도 짜는 틀에서 나온 것을 바치는 것처럼 여길 것이다.",
     Chn:"所以你要对利未人说：你们从其中将至好的举起，这就算为你们场上的粮，又如酒榨的酒。",
     Eng:"\"Say to the Levites: 'When you present the best part, it will be reckoned to you as the product of the threshing floor or the winepress.",
     Ind:"Lagi haruslah engkau berkata kepada mereka: Apabila kamu mengkhususkan yang terbaik dari padanya, maka bagi orang Lewi haruslah hal itu dihitungkan sebagai hasil tempat pengirikan dan hasil tempat pemerasan anggur;"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"kamu boleh memakannya di setiap tempat, kamu dan seisi rumahmu, sebab upahmulah itu, untuk membalas pekerjaanmu di Kemah Pertemuan."
   },
   {Bible:"Numbers", Chapter:18, Verse:32, Page:1,
-    Kor:"가장 좋은 부분을 들어 올려 바침으로써, 너희는 이 일에 죄를 짓지 아니할 것이다. 너희는 이스라엘이 바친 거룩한 제물을 더럽히지 않도록 하여라. 그래야만 너희가 죽지 않는다.\"",
+    Kor:"가장 좋은 부분을 들어 올려 바침으로써, 너희는 이 일에 죄를 짓지 아니할 것이다. 너희는 이스라엘이 바친 거룩한 제물을 더럽히지 않도록 하여라. 그래야만 너희가 죽지 않는다.'\"",
     Chn:"你们从其中将至好的举起，就不至因这物担罪。你们不可亵渎以色列人的圣物，免得死亡。」",
     Eng:"By presenting the best part of it you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.'\"",
     Ind:"Dan dalam hal itu kamu tidak akan mendatangkan dosa kepada dirimu, asal kamu mengkhususkan yang terbaik dari padanya; demikianlah kamu tidak akan melanggar kekudusan persembahan-persembahan kudus orang Israel, dan kamu tidak akan mati.\""

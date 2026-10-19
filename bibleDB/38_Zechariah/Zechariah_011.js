@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",11,17);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:11, Verse:1, Page:1,
-    Kor:"<폭군의 멸망> 레바논아, 네 문을 열어라. 불이 네 백향목을 사를 것이다.",
+    Kor:"레바논아, 네 문을 열어라. 불이 네 백향목을 사를 것이다.",
     Chn:"黎巴嫩哪，开开你的门， 任火烧灭你的香柏树。",
     Eng:"Open your doors, O Lebanon, so that fire may devour your cedars!",
     Ind:"Bukalah pintu-pintumu, hai Libanon, supaya api dapat memakan pohon-pohon arasmu."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Dengar, para gembala meratap! Sebab kemegahan mereka sudah dirusakkan. Dengar, singa-singa mengaum! Sebab sudah dirusakkan kebanggaan sungai Yordan."
   },
   {Bible:"Zechariah", Chapter:11, Verse:4, Page:1,
-    Kor:"<두 목자> ○주 나의 하나님이 이렇게 말씀하신다. \"너는 잡혀 죽을 양 떼를 먹여라.",
+    Kor:"○주 나의 하나님이 이렇게 말씀하신다. \"너는 잡혀 죽을 양 떼를 먹여라.",
     Chn:"耶和华—我的　神如此说：「你—撒迦利亚要牧养这将宰的群羊。",
     Eng:"This is what the LORD my God says: \"Pasture the flock marked for slaughter.",
     Ind:"Beginilah firman TUHAN Allahku kepadaku: \"Gembalakanlah domba-domba sembelihan itu!"
   },
   {Bible:"Zechariah", Chapter:11, Verse:5, Page:1,
-    Kor:"사람들이 그것들을 사다가 잡아도, 벌을 받지 않을 것이다. 그것들을 팔아 넘긴 자도 '주님을 찬양하세, 내가 부자가 되었네!' 하고 좋아할 것이다. 그것들을 먹이는 목자들마저도 그것들을 불쌍히 여기지 않을 것이다.",
+    Kor:"사람들이 그것들을 사다가 잡아도, 벌을 받지 않을 것이다. 그것들을 팔아 넘긴 자도 '주를 찬양하세, 내가 부자가 되었네!' 하고 좋아할 것이다. 그것들을 먹이는 목자들마저도 그것들을 불쌍히 여기지 않을 것이다.",
     Chn:"买他们的宰了他们，以自己为无罪；卖他们的说：『耶和华是应当称颂的，因我成为富足。』牧养他们的并不怜恤他们。",
     Eng:"Their buyers slaughter them and go unpunished. Those who sell them say, 'Praise the LORD, I am rich!' Their own shepherds do not spare them.",
     Ind:"Orang-orang yang membelinya menyembelihnya dengan tidak merasa bersalah dan orang-orang yang menjualnya berkata: Terpujilah TUHAN! Aku telah menjadi kaya! Dan orang-orang yang menggembalakannya tidak mengasihaninya."
   },
   {Bible:"Zechariah", Chapter:11, Verse:6, Page:1,
-    Kor:"내가 다시는, 이 땅에 사는 사람들을 불쌍히 여기지 않겠다. 나 주의 말이다. 내가 이 사람들을 이웃 나라와 그 이웃 왕에게 넘겨 주겠다. 이웃 나라가 그 땅에 사는 사람들을 쳐부수어도, 내가 그들을 이웃 나라의 손에서 구출하지 않겠다.\"",
+    Kor:"내가 다시는, 이 땅에 사는 사람들을 불쌍히 여기지 않겠다. 나 주의 말이다. 내가 이 사람들을 이웃 나라와 그 이웃 왕에게 넘겨 주겠다. 이웃 나라가 그 땅에 사는 사람들을 쳐부셔도, 내가 그들을 이웃 나라의 손에서 구출하지 않겠다.\"",
     Chn:"耶和华说：『我不再怜恤这地的居民，必将这民交给各人的邻舍和他们王的手中。他们必毁灭这地，我也不救这民脱离他们的手。』」",
     Eng:"For I will no longer have pity on the people of the land,\" declares the LORD. \"I will hand everyone over to his neighbor and his king. They will oppress the land, and I will not rescue them from their hands.\"",
     Ind:"Sebab Aku tidak lagi akan mengasihani penduduk bumi, demikianlah firman TUHAN, melainkan sesungguhnya, Aku akan menyerahkan manusia masing-masing ke dalam tangan gembalanya dan ke dalam tangan rajanya; mereka ini akan menghancurkan bumi dan Aku tidak akan melepaskan seorangpun dari tangan mereka.\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Aku mengambil tongkatku \"Kemurahan\", lalu mematahkannya untuk membatalkan perjanjian yang telah kuikat dengan segala bangsa."
   },
   {Bible:"Zechariah", Chapter:11, Verse:11, Page:1,
-    Kor:"그 언약은 바로 그 날로 취소되었다. 양 떼 가운데서 괴로움을 당하던 양들은 나의 행동을 보고서, 주님께서 말씀하고 계시다는 것을 깨달았다.",
+    Kor:"그 언약은 바로 그 날로 취소되었다. 양 떼 가운데서 괴로움을 당하던 양들은 나의 행동을 보고서, 주께서 말씀하고 계시다는 것을 깨달았다.",
     Chn:"当日就废弃了。这样，那些仰望我的困苦羊就知道所说的是耶和华的话。",
     Eng:"It was revoked on that day, and so the afflicted of the flock who were watching me knew it was the word of the LORD.",
     Ind:"Jadi dibatalkanlah perjanjian pada hari itu, maka tahulah pedagang-pedagang domba yang sedang mengamat-amati aku, bahwa itu adalah firman TUHAN."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu aku berkata kepada mereka: \"Jika itu kamu anggap baik, berikanlah upahku, dan jika tidak, biarkanlah!\" Maka mereka membayar upahku dengan menimbang tiga puluh uang perak."
   },
   {Bible:"Zechariah", Chapter:11, Verse:13, Page:1,
-    Kor:"○주님께서 내게 말씀하셨다. \"그것을 토기장이에게 던져 버려라.\" 그것은 그들이 내게 알맞은 삯이라고 생각해서 쳐 준 것이다. 나는 은 삼십 개를 집어, 주의 성전에 있는 토기장이에게 던져 주었다.",
+    Kor:"○주께서 내게 말씀하셨다. \"그것을 토기장이에게 던져 버려라.\" 그것은 그들이 내게 알맞은 삯이라고 생각해서 쳐 준 것이다. 나는 은 삼십 개를 집어, 주의 성전에 있는 토기장이에게 던져 주었다.",
     Chn:"耶和华吩咐我说：「要把众人所估定美好的价值丢给窑户。」我便将这三十块钱，在耶和华的殿中丢给窑户了。",
     Eng:"And the LORD said to me, \"Throw it to the potter\"--the handsome price at which they priced me! So I took the thirty pieces of silver and threw them into the house of the LORD to the potter.",
     Ind:"Tetapi berfirmanlah TUHAN kepadaku: \"Serahkanlah itu kepada penuang logam!\" --nilai tinggi yang ditaksir mereka bagiku. Lalu aku mengambil ketiga puluh uang perak itu dan menyerahkannya kepada penuang logam di rumah TUHAN."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Kemudian aku mematahkan tongkat yang kedua, yaitu \"Ikatan\", untuk meniadakan persaudaraan antara Yehuda dan Israel."
   },
   {Bible:"Zechariah", Chapter:11, Verse:15, Page:1,
-    Kor:"○주님께서 다시 나에게 말씀하셨다. \"너는 이번에는 쓸모 없는 목자로 분장하고, 그 구실을 하여라.",
+    Kor:"○주께서 다시 나에게 말씀하셨다. \"너는 이번에는 쓸모 없는 목자로 분장하고, 그 구실을 하여라.",
     Chn:"耶和华又吩咐我说：「你再取愚昧牧人所用的器具，",
     Eng:"Then the LORD said to me, \"Take again the equipment of a foolish shepherd.",
     Ind:"Sesudah itu berfirmanlah TUHAN kepadaku: \"Ambillah sekali lagi perkakas seorang gembala yang pandir!"

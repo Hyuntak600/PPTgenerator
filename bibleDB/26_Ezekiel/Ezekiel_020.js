@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",20,49);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:20, Verse:1, Page:1,
-    Kor:"<하나님의 뜻, 사람의 반역> 제 칠년 다섯째 달 십일에 이스라엘의 장로들 가운데서 몇 사람이, 주님의 뜻을 물으려고 나에게 와서, 내 앞에 앉았다.",
+    Kor:"제 칠년 다섯째 달 십일에 이스라엘의 장로들 가운데서 몇 사람이, 주의 뜻을 물으려고 나에게 와서, 내 앞에 앉았다.",
     Chn:"第七年五月初十日，有以色列的几个长老来求问耶和华，坐在我面前。",
     Eng:"In the seventh year, in the fifth month on the tenth day, some of the elders of Israel came to inquire of the LORD, and they sat down in front of me.",
     Ind:"Pada tahun ketujuh, dalam bulan yang kelima, pada tanggal sepuluh bulan itu, datanglah beberapa orang dari tua-tua Israel untuk meminta petunjuk dari pada TUHAN dan duduk di hadapanku."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:2, Page:1,
-    Kor:"그 때에 주님께서 나에게 말씀하셨다.",
+    Kor:"그 때에 주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:20, Verse:3, Page:1,
-    Kor:"\"사람아, 너는 이스라엘의 장로들에게 이야기하고, 그들에게 전하여라. '나 주 하나님이 말한다. 너희가 나의 뜻을 물으려고 와 있느냐? 내가 나의 삶을 두고 맹세한다. 나는 너희가 묻는 것을 허락하지 않겠다. 나 주 하나님의 말이다' 하고 말하여라.",
+    Kor:"\"사람아, 너는 이스라엘의 장로들에게 이야기하고, 그들에게 전하여라. '나 주 하나님이 말한다. 너희가 나의 뜻을 물으려고 와 있느냐? 내가 나의 삶을 두고 맹세한다. 나는, 너희가 묻는 것을 허락하지 않겠다. 나 주 하나님의 말이다' 하고 말하여라.",
     Chn:"「人子啊，你要告诉以色列的长老说，主耶和华如此说：你们来是求问我吗？主耶和华说：我指着我的永生起誓，我必不被你们求问。",
     Eng:"\"Son of man, speak to the elders of Israel and say to them, 'This is what the Sovereign LORD says: Have you come to inquire of me? As surely as I live, I will not let you inquire of me, declares the Sovereign LORD.'",
     Ind:"\"Hai anak manusia, berbicaralah kepada tua-tua Israel dan katakanlah kepada mereka: Beginilah firman Tuhan ALLAH: Apakah kamu datang untuk meminta petunjuk dari pada-Ku? Demi Aku yang hidup, Aku tidak mau kamu meminta petunjuk dari pada-Ku, demikianlah firman Tuhan ALLAH."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tetapi mereka memberontak terhadap Aku dan tidak mau mendengar kepada-Ku; setiap orang tidak membuangkan dewa-dewanya yang menjijikkan, ke mana ia selalu melihat, dan tidak meninggalkan berhala-berhala Mesir. Maka Aku bermaksud hendak mencurahkan amarah-Ku ke atas mereka untuk melampiaskan murka-Ku kepadanya di tengah-tengah tanah Mesir."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:9, Page:1,
-    Kor:"그러나 나는 나의 이름 때문에, 이방 민족의 한가운데 살던 이스라엘이, 그 모든 이방 민족이 보는 앞에서 나의 이름을 더럽히지 않게 하였으니, 바로 그 여러 민족이 보는 앞에서, 내가 그들을 이집트 땅에서 이끌어 냄으로써, 나 자신을 그들에게 알려 주었었다.",
+    Kor:"그러나 나는 나의 이름 때문에, 이방 민족의 한가운데 살던 이스라엘이, 그 모든 이방 민족이 보는 앞에서 나의 이름을 더럽히지 않게 하였으니, 바로 그 여러 민족이 보는 앞에서, 내가 그들을 이집트 땅에서 이끌어 냄으로써, 나 자신을 그들에게 알려 주었던 것이다.",
     Chn:"我却为我名的缘故没有这样行，免得我名在他们所住的列国人眼前被亵渎；我领他们出埃及地，在这列国人的眼前将自己向他们显现。",
     Eng:"But for the sake of my name I did what would keep it from being profaned in the eyes of the nations they lived among and in whose sight I had revealed myself to the Israelites by bringing them out of Egypt.",
     Ind:"Tetapi Aku bertindak oleh karena nama-Ku, supaya itu jangan dinajiskan di hadapan bangsa-bangsa, di mana mereka berada. Di hadapan bangsa-bangsa itu Aku menyatakan diri kepada mereka dalam hal Aku membawa mereka keluar dari tanah Mesir."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Hari-hari Sabat-Ku juga Kuberikan kepada mereka menjadi peringatan di antara Aku dan mereka, supaya mereka mengetahui bahwa Akulah TUHAN, yang menguduskan mereka."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:13, Page:1,
-    Kor:"그러나 이스라엘 족속이 광야에서 나에게 반역하였다. 누구나 그대로 실천하면 살 수 있는 내 율례를 그들은 지키지 않았고, 내 규례를 배척하였다. 그들은 내 안식일도 크게 더럽혔다. 그래서 내가 이르기를, 광야에서 그들의 머리 위에 내 진노를 쏟아, 그들을 모두 멸망시키겠다고 하였다.",
+    Kor:"그러나 이스라엘 족속이 광야에서 나에게 반역하였다. 누구나 그대로 실천하면 살 수 있는 내 율례를 그들은 지키지 않았고, 내 규례를 배척하였다. 그들은 내 안식일도 크게 더럽혀 놓았다. 그래서 내가 이르기를, 광야에서 그들의 머리 위에 내 진노를 쏟아, 그들을 모두 멸망시키겠다고 하였다.",
     Chn:"以色列家却在旷野悖逆我，不顺从我的律例，厌弃我的典章（人若遵行就必因此活着），大大干犯我的安息日。 「我就说，要在旷野将我的忿怒倾在他们身上，灭绝他们。",
     Eng:"\"'Yet the people of Israel rebelled against me in the desert. They did not follow my decrees but rejected my laws--although the man who obeys them will live by them--and they utterly desecrated my Sabbaths. So I said I would pour out my wrath on them and destroy them in the desert.",
     Ind:"Tetapi kaum Israel memberontak terhadap Aku di padang gurun; mereka tidak hidup menurut ketetapan-ketetapan-Ku dan mereka menolak peraturan-peraturan-Ku, yang, kalau manusia melakukannya, ia akan hidup. Mereka juga melanggar kekudusan hari-hari Sabat-Ku dengan sangat. Maka Aku bermaksud hendak mencurahkan amarah-Ku ke atas mereka di padang gurun hendak membinasakan mereka."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tetapi Aku menarik tangan-Ku kembali dan bertindak karena nama-Ku, supaya itu jangan dinajiskan di hadapan bangsa-bangsa yang melihat sendiri waktu Aku membawa mereka ke luar."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:23, Page:1,
-    Kor:"그러면서도 그들을 이방 민족들 가운데 흩어 놓고, 여러 나라 가운데 헤치겠다고 내가 광야에서 또 한번 손을 들어 맹세한 것은,",
+    Kor:"그러면서도, 그들을 이방 민족들 가운데 흩어 놓고, 여러 나라 가운데 헤치겠다고, 내가 광야에서 또 한번 손을 들어 맹세한 것은,",
     Chn:"并且我在旷野向他们起誓，必将他们分散在列国，四散在列邦；",
     Eng:"Also with uplifted hand I swore to them in the desert that I would disperse them among the nations and scatter them through the countries,",
     Ind:"Walaupun begitu Aku bersumpah kepadanya di padang gurun untuk menyerakkan mereka di antara bangsa-bangsa dan menghamburkan mereka ke semua negeri,"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Begitulah Aku juga memberi kepada mereka ketetapan-ketetapan yang tidak baik dan peraturan-peraturan, yang karenanya mereka tidak dapat hidup."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:26, Page:1,
-    Kor:"나는 그들이 모두 맏아들을 제물로 바치도록 시켰고, 그들이 바치는 그 제물이 그들을 더럽히게 하였다. 내가 이렇게 한 것은, 그들을 망하게 하여 내가 주인 줄 그들이 알게 하려는 것이었다.",
+    Kor:"나는, 그들이 모두 맏아들을 제물로 바치도록 시켰고, 그들이 바치는 그 제물이 그들을 더럽히게 하였다. 내가 이렇게 한 것은, 그들을 망하게 하여 내가 주인 줄 그들이 알게 하려는 것이었다.",
     Chn:"因他们将一切头生的经火，我就任凭他们在这供献的事上玷污自己，好叫他们凄凉，使他们知道我是耶和华。",
     Eng:"I let them become defiled through their gifts--the sacrifice of every firstborn--that I might fill them with horror so they would know that I am the LORD.'",
     Ind:"Aku membiarkan mereka menjadi najis dengan persembahan-persembahan mereka, dalam hal mereka mempersembahkan sebagai korban dalam api semua yang terdahulu lahir dari kandungan, supaya Kubuat mereka tertegun, agar mereka mengetahui bahwa Akulah TUHAN."
@@ -171,25 +171,25 @@ BibleDB.add([
     Ind:"Sebab sesudah Aku membawa mereka ke negeri yang dengan sumpah telah Kujanjikan memberikannya kepada mereka, mereka melihat ke setiap bukit yang tinggi dan ke setiap pohon yang penuh cabang-cabang dan mereka mempersembahkan di sana korban sembelihannya dan membawa persembahannya yang menyakiti hati, juga menyerbakkan di sana persembahan-perse mereka yang harum dan mempersembahkan mereka di sana korban-korban curahan mereka."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:29, Page:1,
-    Kor:"그래서 내가, 그들이 찾아 다니는 그 산당이 무엇이냐고 그들에게 꾸짖었다.' (그런 곳의 이름을 오늘날까지 a바마라고 부른다.)(a '높은 곳')",
+    Kor:"그래서 내가, 그들이 찾아 다니는 그 '산당'이 무엇이냐고 그들에게 꾸짖었다.' (그런 곳의 이름을 오늘날까지 바마라고 부른다.)",
     Chn:"我就对他们说：你们所上的那高处叫什么呢？（那高处的名字叫巴麻直到今日。）",
     Eng:"Then I said to them: What is this high place you go to?'\" (It is called Bamah to this day.)",
     Ind:"Maka Aku berkata kepada mereka: Tempat tinggi apa itu yang kamu naiki? Maka namanya disebut Tempat Tinggi sampai hari ini."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:30, Page:1,
-    Kor:"○그러므로 너는 이스라엘 족속에게 전하여라. '나 주 하나님이 말한다. 너희도 너희 조상들의 행실을 따라 너희 자신을 더럽히고, 그들의 역겨운 우상을 따라 다니며 음행을 하느냐?",
+    Kor:"○그러므로 너는, 이스라엘 족속에게 전하여라. '나 주 하나님이 말한다. 너희도 너희 조상들의 행실을 따라 너희 자신을 더럽히고, 그들의 역겨운 우상을 따라 다니며 음행을 하느냐?",
     Chn:"所以你要对以色列家说，主耶和华如此说：你们仍照你们列祖所行的玷污自己吗？仍照他们可憎的事行邪淫吗？",
     Eng:"\"Therefore say to the house of Israel: 'This is what the Sovereign LORD says: Will you defile yourselves the way your fathers did and lust after their vile images?",
     Ind:"Oleh sebab itu katakanlah kepada kaum Israel: Beginilah firman Tuhan ALLAH: Apakah kamu menajiskan dirimu juga dengan cara hidup nenek moyangmu dan berzinah dengan mengikuti dewa-dewanya yang menjijikkan?"
   },
   {Bible:"Ezekiel", Chapter:20, Verse:31, Page:1,
-    Kor:"또 너희는 온갖 제물을 바치고 너희 아들들을 불 가운데로 지나가게 하여 제물로 바침으로써, 너희가 오늘날까지 우상들을 섬김으로써, 너희 자신을 더럽히고 있다. 그런데도 내가, 너희가 나에게 묻는 것을 허락할 수 있겠느냐? 이스라엘 족속아, 내가 나의 삶을 두고 맹세한다. 나는 너희가 나에게 묻는 것을 허락하지 않겠다. 나 주 하나님의 말이다.'\"",
+    Kor:"또 너희는 온갖 제물을 바치고 너희 아들들을 불 가운데로 지나가게 하여 제물로 바침으로써, 너희가 오늘날까지 우상들을 섬김으로써, 너희 자신을 더럽히고 있다. 그런데도 내가, 너희가 나에게 묻는 것을 허락할 수 있겠느냐? 이스라엘 족속아, 내가 나의 삶을 두고 맹세한다. 나는, 너희가 나에게 묻는 것을 허락하지 않겠다. 나 주 하나님의 말이다.'\"",
     Chn:"你们奉上供物使你们儿子经火的时候，仍将一切偶像玷污自己，直到今日吗？以色列家啊，我岂被你们求问吗？主耶和华说：我指着我的永生起誓，我必不被你们求问。",
     Eng:"When you offer your gifts--the sacrifice of your sons in the fire--you continue to defile yourselves with all your idols to this day. Am I to let you inquire of me, O house of Israel? As surely as I live, declares the Sovereign LORD, I will not let you inquire of me.",
     Ind:"Dalam membawa persembahan-persembahanmu, yaitu mempersembahkan anak-anakmu sebagai korban dalam api, kamu menajiskan dirimu dengan segala berhala-berhalamu sampai hari ini, apakah Aku masih mau kamu minta petunjuk dari pada-Ku, hai kaum Israel? Demi Aku yang hidup, demikianlah firman Tuhan ALLAH, Aku tidak mau lagi kamu minta petunjuk dari pada-Ku."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:32, Page:1,
-    Kor:"<주님께서 이스라엘을 회복하시다> ○\"너희가 스스로 이르기를 '우리가 이방 사람 곧 여러 나라의 여러 백성처럼 나무와 돌을 섬기자' 하지만, 너희 마음에 품고 있는 생각대로는 절대로 되지 않을 것이다.",
+    Kor:"○\"너희가 스스로 이르기를 '우리가 이방 사람, 곧 여러 나라의 여러 백성처럼 나무와 돌을 섬기자' 하지만, 너희 마음에 품고 있는 생각대로는 절대로 되지 않을 것이다.",
     Chn:"「你们说：我们要像外邦人和列国的宗族一样，去事奉木头与石头。你们所起的这心意万不能成就。」",
     Eng:"\"'You say, \"We want to be like the nations, like the peoples of the world, who serve wood and stone.\" But what you have in mind will never happen.",
     Ind:"Dan apa yang timbul dalam hatimu sama sekali tidak akan terjadi, yaitu yang kamu katakan: Kami ingin seperti bangsa-bangsa lain, seperti segala kaum di negeri-negeri untuk berbakti kepada pohon dan batu."
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Hai kamu, kaum Israel, beginilah firman Tuhan ALLAH, biarlah masing-masing pergi beribadah kepada berhala-berhalanya. Tetapi kemudian kamu akan mendengarkan Aku dan tidak lagi melanggar kekudusan nama-Ku yang kudus dengan persembahan-persembahanmu dan berhala-berhalamu."
   },
   {Bible:"Ezekiel", Chapter:20, Verse:40, Page:1,
-    Kor:"나 주 하나님의 말이다. 나의 거룩한 산, 이스라엘의 그 높은 곳에서, 이스라엘 온 족속이, 그 땅에 사는 모든 사람들이, 나를 섬길 것이다. 거기에서 내가 그들을 기쁘게 맞아들이며, 거기에서 내가 너희의 제물과 b가장 좋은 예물을 온갖 거룩한 제물과 함께 요구할 것이다.(b 또는 '너희의 첫 열매의 예물을')",
+    Kor:"나 주 하나님의 말이다. 나의 거룩한 산, 이스라엘의 그 높은 곳에서, 이스라엘 온 족속이, 그 땅에 사는 모든 사람들이, 나를 섬길 것이다. 거기에서 내가 그들을 기쁘게 맞아들이며, 거기에서 내가 너희의 제물과 가장 좋은 예물을 온갖 거룩한 제물과 함께 요구할 것이다.",
     Chn:"「主耶和华说：在我的圣山，就是以色列高处的山，所有以色列的全家都要事奉我。我要在那里悦纳你们，向你们要供物和初熟的土产，并一切的圣物。",
     Eng:"For on my holy mountain, the high mountain of Israel, declares the Sovereign LORD, there in the land the entire house of Israel will serve me, and there I will accept them. There I will require your offerings and your choice gifts, along with all your holy sacrifices.",
     Ind:"Sebab di atas gunung-Ku yang kudus, di atas gunung Israel yang tinggi, demikianlah firman Tuhan ALLAH, di sana di tanah itu segenap kaum Israel dalam keseluruhannya akan beribadah kepada-Ku. Di sana Aku akan berkenan kepadamu dan di sana Aku akan menuntut dari kamu persembahan-persembahan khususmu dan sajian-sajianmu yang terpilih, segala yang kamu kuduskan."
@@ -267,19 +267,19 @@ BibleDB.add([
     Ind:"Dan kamu akan mengetahui bahwa Akulah TUHAN, pada masa Aku, oleh karena nama-Ku, tidak memperlakukan kamu selaras dengan tingkah lakumu yang jahat dan busuk, hai kaum Israel, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:20, Verse:45, Page:1,
-    Kor:"<불타는 숲의 비유> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:20, Verse:46, Page:1,
-    Kor:"○\"사람아, 너는 얼굴을 남쪽으로 돌려라. 남쪽을 규탄하여 외치고, 남쪽 네겝의 숲을 규탄하여 예언하여라.",
+    Kor:"\"사람아, 너는 얼굴을 남쪽으로 돌려라. 남쪽을 규탄하여 외치고, 남쪽 네겝의 숲을 규탄하여 예언하여라.",
     Chn:"「人子啊，你要面向南方，向南滴下预言攻击南方田野的树林。",
     Eng:"\"Son of man, set your face toward the south; preach against the south and prophesy against the forest of the southland.",
     Ind:"\"Hai anak manusia, tujukanlah mukamu ke selatan dan ucapkanlah banyak tegoran terhadap tanah selatan dan bernubuatlah terhadap tanah kehutanan di sebelah selatan;"
   },
   {Bible:"Ezekiel", Chapter:20, Verse:47, Page:1,
-    Kor:"너는 네겝의 숲에게 말하여라. '너는 주의 말을 들어라. 나 주 하나님이 말한다. 내가 숲 속에 불을 지르겠다. 그 불은 숲 속에 있는 모든 푸른 나무와 모든 마른 나무를 태울 것이다. 활활 치솟는 그 불꽃이 꺼지지 않아서, 남쪽에서 북쪽까지 모든 사람의 얼굴이 그 불에 그을릴 것이다.",
+    Kor:"너는 네겝의 숲에 말하여라. '너는 주의 말을 들어라. 나 주 하나님이 말한다. 내가 숲 속에 불을 지르겠다. 그 불은 숲 속에 있는 모든 푸른 나무와 모든 마른 나무를 태울 것이다. 활활 치솟는 그 불꽃이 꺼지지 않아서, 남쪽에서 북쪽까지 모든 사람의 얼굴이 그 불에 그으를 것이다.",
     Chn:"对南方的树林说，要听耶和华的话。主耶和华如此说：我必使火在你中间着起，烧灭你中间的一切青树和枯树，猛烈的火焰必不熄灭。从南到北，人的脸面都被烧焦。",
     Eng:"Say to the southern forest: 'Hear the word of the LORD. This is what the Sovereign LORD says: I am about to set fire to you, and it will consume all your trees, both green and dry. The blazing flame will not be quenched, and every face from south to north will be scorched by it.",
     Ind:"dan katakanlah kepada hutan di sebelah selatan: Dengarlah firman TUHAN: Beginilah firman Tuhan ALLAH: Lihat, Aku akan menyalakan api di dalammu yang akan memakan habis setiap pohon yang hidup padamu dan setiap pohon yang layu kering. Apinya yang sedang bernyala-nyala tidak akan padam dan semua muka dari selatan sampai utara akan terbakar kepanasan olehnya."

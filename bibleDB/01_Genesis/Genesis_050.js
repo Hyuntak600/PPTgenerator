@@ -9,13 +9,13 @@ BibleDB.add([
     Ind:"Lalu Yusuf merebahkan dirinya mendekap muka ayahnya serta menangisi dan mencium dia."
   },
   {Bible:"Genesis", Chapter:50, Verse:2, Page:1,
-    Kor:"시의들을 시켜서, 아버지 이스라엘의 시신에 방부제 향 재료를 넣게 하였다. 시의들이 방부제 향 재료를 넣는데,",
+    Kor:"시의들을 시켜서, 아버지 이스라엘의 시신에 방부제 향 재료를 넣게 하니, 시의들이 방부제 향 재료를 넣는데,",
     Chn:"约瑟吩咐伺候他的医生用香料薰他父亲，医生就用香料薰了以色列。",
     Eng:"Then Joseph directed the physicians in his service to embalm his father Israel. So the  physicians embalmed him,",
     Ind:"Dan Yusuf memerintahkan kepada tabib-tabib, yaitu hamba-hambanya, untuk merempah-rempahi mayat ayahnya; maka tabib-tabib itu merempah-rempahi mayat Israel."
   },
   {Bible:"Genesis", Chapter:50, Verse:3, Page:1,
-    Kor:"꼬박 사십 일이 걸렸다. 시신이 썩지 않도록 향 재료를 넣는 데는 이만큼 시간이 걸린다. 그리고 이집트 사람들이 그의 죽음을 애도하며, 칠십 일을 곡하였다.",
+    Kor:"꼬박 사십 일이 걸렸다. 시신이 썩지 않도록, 향 재료를 넣는 데는 이만큼 시간이 걸린다. 그리고 이집트 사람들이 그의 죽음을 애도하며, 칠십 일을 곡하였다.",
     Chn:"薰尸的常例是四十天；那四十天满了，埃及人为他哀哭了七十天。",
     Eng:"taking a full forty days, for that was the time required for embalming. And the Egyptians  mourned for him seventy days.",
     Ind:"Hal itu memerlukan empat puluh hari lamanya, sebab demikianlah lamanya waktu yang diperlukan untuk merempah-rempahi, dan orang Mesir menangisi dia tujuh puluh hari lamanya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Setelah mereka sampai ke Goren-Haatad, yang di seberang sungai Yordan, maka mereka mengadakan di situ ratapan yang sangat sedih dan riuh; dan Yusuf mengadakan perkabungan tujuh hari lamanya karena ayahnya itu."
   },
   {Bible:"Genesis", Chapter:50, Verse:11, Page:1,
-    Kor:"그들이 타작 마당에서 그렇게 애곡하는 것을 보고, 그 지방에 사는 가나안 사람들은 \"이집트 사람들이 이렇게 크게 애곡하고 있구나\" 하면서, 그 곳 이름을 a아벨미스라임이라고 하였으니, 그 곳은 요단 강 동쪽이다.(a '이집트 사람들의 애곡')",
+    Kor:"그들이 타작 마당에서 그렇게 애곡하는 것을 보고, 그 지방에 사는 가나안 사람들은 \"이집트 사람들이 이렇게 크게 애곡하고 있구나\" 하면서, 그 곳 이름을 아벨미스라임이라고 하였으니, 그 곳은 요단 강 동쪽이다.",
     Chn:"迦南的居民见亚达禾场上的哀哭，就说：「这是埃及人一场极大的哀哭。」因此那地方名叫亚伯·麦西，是在约旦河东。",
     Eng:"When the Canaanites who lived there saw the mourning at the threshing floor of Atad, they  said, \"The Egyptians are holding a solemn ceremony of mourning.\" That is why that place near the  Jordan is called Abel Mizraim.",
     Ind:"Ketika penduduk negeri itu, orang-orang Kanaan, melihat perkabungan di Goren-Haatad itu, berkatalah mereka: \"Inilah perkabungan orang Mesir yang amat riuh.\" Itulah sebabnya tempat itu dinamai Abel-Mizraim, yang letaknya di seberang Yordan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Setelah ayahnya dikuburkan, pulanglah Yusuf ke Mesir, dia dan saudara-saudaranya dan semua orang yang turut pergi ke sana bersama-sama dengan dia untuk menguburkan ayahnya itu."
   },
   {Bible:"Genesis", Chapter:50, Verse:15, Page:1,
-    Kor:"<요셉이 형들을 안심시키다> ○요셉의 형제들은 아버지를 여의고 나서, 요셉이 자기들을 미워하여, 그들에게서 당한 온갖 억울함을 앙갚음하면 어찌하나 하는 생각이 들어서,",
+    Kor:"○요셉의 형제들은 아버지를 여의고 나서 '요셉이 자기들을 미워하여, 그들에게서 당한 온갖 억울함을 앙갚음하면 어찌하나' 하는 생각이 들어서,",
     Chn:"约瑟的哥哥们见父亲死了，就说：「或者约瑟怀恨我们，照着我们从前待他一切的恶足足地报复我们。」",
     Eng:"When Joseph's brothers saw that their father was dead, they said, \"What if Joseph holds a  grudge against us and pays us back for all the wrongs we did to him?\"",
     Ind:"Ketika saudara-saudara Yusuf melihat, bahwa ayah mereka telah mati, berkatalah mereka: \"Boleh jadi Yusuf akan mendendam kita dan membalaskan sepenuhnya kepada kita segala kejahatan yang telah kita lakukan kepadanya.\""
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Sebab itu mereka menyuruh menyampaikan pesan ini kepada Yusuf: \"Sebelum ayahmu mati, ia telah berpesan:"
   },
   {Bible:"Genesis", Chapter:50, Verse:17, Page:1,
-    Kor:"아우님에게 전하라고 하시면서 '너의 형들이 너에게 몹쓸 일을 저질렀지만, 이제 이 아버지는 네가 형들의 허물과 죄를 용서하여 주기를 바란다' 하셨습니다. 그러니 아우님은, 우리 아버지께서 섬기신 그 하나님의 종들인 우리가 지은 죄를 용서하여 주시기 바랍니다.\" 요셉은 이 말을 전해 듣고서 01 50:울었다.",
+    Kor:"아우님에게 전하라고 하시면서 '너의 형들이 너에게 몹쓸 일을 저질렀지만, 이제 이 아버지는 네가 형들의 허물과 죄를 용서하여 주기를 바란다' 하셨습니다. 그러니 아우님은, 우리 아버지께서 섬기신 그 하나님의 종들인 우리가 지은 죄를 용서하여 주시기 바랍니다.\" 요셉은 이 말을 전해 듣고서, 울었다.",
     Chn:"『你们要对约瑟这样说：从前你哥哥们恶待你，求你饶恕他们的过犯和罪恶。』如今求你饶恕你父亲　神之仆人的过犯。」他们对约瑟说这话，约瑟就哭了。",
     Eng:"'This is what you are to say to Joseph: I ask you to forgive your brothers the sins and the  wrongs they committed in treating you so badly.' Now please forgive the sins of the servants of  the God of your father.\" When their message came to him, Joseph wept.",
     Ind:"Beginilah harus kamu katakan kepada Yusuf: Ampunilah kiranya kesalahan saudara-saudaramu dan dosa mereka, sebab mereka telah berbuat jahat kepadamu. Maka sekarang, ampunilah kiranya kesalahan yang dibuat hamba-hamba Allah ayahmu.\" Lalu menangislah Yusuf, ketika orang berkata demikian kepadanya."
   },
   {Bible:"Genesis", Chapter:50, Verse:18, Page:1,
-    Kor:"곧 이어서 요셉의 형들이 직접 와서, 요셉 앞에 엎드려서 말하였다. \"우리는 아우님의 종입니다.\"",
+    Kor:"곧 이어서, 요셉의 형들이 직접 와서, 요셉 앞에 엎드려서 말하였다. \"우리는 아우님의 종입니다.\"",
     Chn:"他的哥哥们又来俯伏在他面前，说：「我们是你的仆人。」",
     Eng:"His brothers then came and threw themselves down before him. \"We are your slaves,\" they  said.",
     Ind:"Juga saudara-saudaranya datang sendiri dan sujud di depannya serta berkata: \"Kami datang untuk menjadi budakmu.\""
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Tetapi Yusuf berkata kepada mereka: \"Janganlah takut, sebab aku inikah pengganti Allah?"
   },
   {Bible:"Genesis", Chapter:50, Verse:20, Page:1,
-    Kor:"형님들은 나를 해치려고 하였지만, 하나님은 오히려 그것을 선하게 바꾸셔서, 오늘과 같이 수많은 사람의 생명을 구원하셨습니다.",
+    Kor:"형님들은 나를 해치려고 하였지만, 하나님은 오히려 그것을 선하게 바꾸셔서, 오늘과 같이, 수많은 사람의 생명을 구원하셨습니다.",
     Chn:"从前你们的意思是要害我，但　神的意思原是好的，要保全许多人的性命，成就今日的光景。",
     Eng:"You intended to harm me, but God intended it for good to accomplish what is now being done,  the saving of many lives.",
     Ind:"Memang kamu telah mereka-rekakan yang jahat terhadap aku, tetapi Allah telah mereka-rekakannya untuk kebaikan, dengan maksud melakukan seperti yang terjadi sekarang ini, yakni memelihara hidup suatu bangsa yang besar."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Jadi janganlah takut, aku akan menanggung makanmu dan makan anak-anakmu juga.\" Demikianlah ia menghiburkan mereka dan menenangkan hati mereka dengan perkataannya."
   },
   {Bible:"Genesis", Chapter:50, Verse:22, Page:1,
-    Kor:"<요셉이 죽다> ○요셉이 아버지의 집안과 함께 이집트에 머물렀다. 요셉은 백 년 하고도 십 년을 더 살면서,",
+    Kor:"○요셉이 아버지의 집안과 함께 이집트에 머물렀다. 요셉은 백 년 하고도 십 년을 더 살면서,",
     Chn:"约瑟和他父亲的眷属都住在埃及。约瑟活了一百一十岁。",
     Eng:"Joseph stayed in Egypt, along with all his father's family. He lived a hundred and ten  years",
     Ind:"Adapun Yusuf, ia tetap tinggal di Mesir beserta kaum keluarganya; dan Yusuf hidup seratus sepuluh tahun."
   },
   {Bible:"Genesis", Chapter:50, Verse:23, Page:1,
-    Kor:"에브라임의 자손 삼 대를 보았고, 므낫세의 아들 마길에게서 태어난 아이들까지도 요셉이 자기의 자식으로 길렀다.",
+    Kor:"에브라임의 자손 삼 대를 보았고, 므낫세의 아들 마길에게서 태어난 아이들까지도, 요셉이 자기의 자식으로 길렀다.",
     Chn:"约瑟得见以法莲第三代的子孙。玛拿西的孙子、玛吉的儿子也养在约瑟的膝上。",
     Eng:"and saw the third generation of Ephraim's children. Also the children of Makir son of  Manasseh were placed at birth on Joseph's knees.",
     Ind:"Jadi Yusuf sempat melihat anak cucu Efraim sampai keturunan yang ketiga; juga anak-anak Makhir, anak Manasye, lahir di pangkuan Yusuf."

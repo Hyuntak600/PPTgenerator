@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",12,20);
 BibleDB.add([
   {Bible:"Genesis", Chapter:12, Verse:1, Page:1,
-    Kor:"<하나님이 아브람을 부르시다> 주님께서 아브람에게 말씀하셨다. \"너는, 네가 살고 있는 땅과, 네가 난 곳과, 너의 아버지의 집을 떠나서, 내가 보여 주는 땅으로 가거라.",
+    Kor:"주께서 아브람에게 말씀하셨다. \"너는, 네가 살고 있는 땅과, 네가 난 곳과, 너의 아버지의 집을 떠나서, 내가 보여 주는 땅으로 가거라.",
     Chn:"耶和华对亚伯兰说：「你要离开本地、本族、父家，往我所要指示你的地去。",
     Eng:"The LORD had said to Abram, \"Leave your country, your people and your father's household and  go to the land I will show you.",
     Ind:"Berfirmanlah TUHAN kepada Abram: \"Pergilah dari negerimu dan dari sanak saudaramu dan dari rumah bapamu ini ke negeri yang akan Kutunjukkan kepadamu;"
@@ -21,43 +21,43 @@ BibleDB.add([
     Ind:"Aku akan memberkati orang-orang yang memberkati engkau, dan mengutuk orang-orang yang mengutuk engkau, dan olehmu semua kaum di muka bumi akan mendapat berkat.\""
   },
   {Bible:"Genesis", Chapter:12, Verse:4, Page:1,
-    Kor:"○아브람은 주님께서 말씀하신 대로 길을 떠났다. 롯도 그와 함께 길을 떠났다. 아브람이 하란을 떠날 때에, 나이는 일흔다섯이었다.",
+    Kor:"○아브람은 주께서 말씀하신 대로 길을 떠났다. 롯도 그와 함께 길을 떠났다. 아브람이 하란을 떠날 때에, 나이는 일흔다섯이었다.",
     Chn:"亚伯兰就照着耶和华的吩咐去了；罗得也和他同去。亚伯兰出哈兰的时候年七十五岁。",
     Eng:"So Abram left, as the LORD had told him; and Lot went with him. Abram was seventy-five years  old when he set out from Haran.",
     Ind:"Lalu pergilah Abram seperti yang difirmankan TUHAN kepadanya, dan Lotpun ikut bersama-sama dengan dia; Abram berumur tujuh puluh lima tahun, ketika ia berangkat dari Haran."
   },
   {Bible:"Genesis", Chapter:12, Verse:5, Page:1,
-    Kor:"아브람은 아내 사래와 조카 롯과 하란에서 모은 재산과 거기에서 얻은 사람들을 거느리고, 가나안 땅으로 가려고 길을 떠나서, 마침내 가나안 땅에 이르렀다.",
+    Kor:"아브람은, 아내 사래와 조카 롯과 하란에서 모은 재산과 거기에서 얻은 사람들을 거느리고, 가나안 땅으로 가려고 길을 떠나서, 마침내 가나안 땅에 이르렀다.",
     Chn:"亚伯兰将他妻子撒莱和侄儿罗得，连他们在哈兰所积蓄的财物、所得的人口，都带往迦南地去。他们就到了迦南地。",
     Eng:"He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the  people they had acquired in Haran, and they set out for the land of Canaan, and they arrived  there.",
     Ind:"Abram membawa Sarai, isterinya, dan Lot, anak saudaranya, dan segala harta benda yang didapat mereka dan orang-orang yang diperoleh mereka di Haran; mereka berangkat ke tanah Kanaan, lalu sampai di situ."
   },
   {Bible:"Genesis", Chapter:12, Verse:6, Page:1,
-    Kor:"아브람은 그 땅을 지나서, 세겜 땅 곧 모레의 상수리나무가 있는 곳에 이르렀다. 그 때에 그 땅에는 가나안 사람들이 살고 있었다.",
+    Kor:"아브람은 그 땅을 지나서, 세겜 땅, 곧 모레의 상수리나무가 있는 곳에 이르렀다. 그 때에 그 땅에는, 가나안 사람들이 살고 있었다.",
     Chn:"亚伯兰经过那地，到了示剑地方、摩利橡树那里。那时迦南人住在那地。",
     Eng:"Abram traveled through the land as far as the site of the great tree of Moreh at Shechem. At  that time the Canaanites were in the land.",
     Ind:"Abram berjalan melalui negeri itu sampai ke suatu tempat dekat Sikhem, yakni pohon tarbantin di More. Waktu itu orang Kanaan diam di negeri itu."
   },
   {Bible:"Genesis", Chapter:12, Verse:7, Page:1,
-    Kor:"주님께서 아브람에게 나타나셔서 말씀하셨다. \"내가 너의 자손에게 이 땅을 주겠다.\" 아브람은 거기에서 자기에게 나타나신 주님께 제단을 쌓아서 바쳤다.",
+    Kor:"주께서 아브람에게 나타나셔서 말씀하셨다. \"내가 너의 자손에게 이 땅을 주겠다.\" 아브람은 거기에서 자기에게 나타나신 주께 제단을 쌓아서 바쳤다.",
     Chn:"耶和华向亚伯兰显现，说：「我要把这地赐给你的后裔。」亚伯兰就在那里为向他显现的耶和华筑了一座坛。",
     Eng:"The LORD appeared to Abram and said, \"To your offspring I will give this land.\" So he built  an altar there to the LORD, who had appeared to him.",
     Ind:"Ketika itu TUHAN menampakkan diri kepada Abram dan berfirman: \"Aku akan memberikan negeri ini kepada keturunanmu.\" Maka didirikannya di situ mezbah bagi TUHAN yang telah menampakkan diri kepadanya."
   },
   {Bible:"Genesis", Chapter:12, Verse:8, Page:1,
-    Kor:"아브람은 또 거기에서 떠나, 베델의 동쪽에 있는 산간지방으로 옮겨 가서 장막을 쳤다. 서쪽은 베델이고 동쪽은 아이이다. 아브람은 거기에서도 제단을 쌓아서, 주님께 바치고, 주님의 이름을 부르며 예배를 드렸다.",
+    Kor:"아브람은 또 거기에서 떠나, 베델의 동쪽에 있는 산간지방으로 옮겨 가서, 장막을 쳤다. 서쪽은 베델이고 동쪽은 아이이다. 아브람은 거기에서도 제단을 쌓아서, 주께 바치고, 주의 이름을 부르며 예배를 드렸다.",
     Chn:"从那里他又迁到伯特利东边的山，支搭帐棚；西边是伯特利，东边是艾。他在那里又为耶和华筑了一座坛，求告耶和华的名。",
     Eng:"From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on  the west and Ai on the east. There he built an altar to the LORD and called on the name of the  LORD.",
     Ind:"Kemudian ia pindah dari situ ke pegunungan di sebelah timur Betel. Ia memasang kemahnya dengan Betel di sebelah barat dan Ai di sebelah timur, lalu ia mendirikan di situ mezbah bagi TUHAN dan memanggil nama TUHAN."
   },
   {Bible:"Genesis", Chapter:12, Verse:9, Page:1,
-    Kor:"아브람은 또 길을 떠나, 줄곧 남쪽으로 가서, 네겝에 이르렀다.",
+    Kor:"아브람은 또 길을 떠나서, 줄곧 남쪽으로 가서, 네겝에 이르렀다.",
     Chn:"后来亚伯兰又渐渐迁往南地去。",
     Eng:"Then Abram set out and continued toward the Negev.",
     Ind:"Sesudah itu Abram berangkat dan makin jauh ia berjalan ke Tanah Negeb."
   },
   {Bible:"Genesis", Chapter:12, Verse:10, Page:1,
-    Kor:"<이집트로 간 아브람> ○그 땅에 기근이 들었다. 그 기근이 너무 심해서, 아브람은 이집트에서 얼마 동안 몸붙여서 살려고, 그리로 내려갔다.",
+    Kor:"○그 땅에 기근이 들었다. 그 기근이 너무 심해서, 아브람은 이집트에서 얼마 동안 몸붙여서 살려고, 그리로 내려갔다.",
     Chn:"那地遭遇饥荒。因饥荒甚大，亚伯兰就下埃及去，要在那里暂居。",
     Eng:"Now there was a famine in the land, and Abram went down to Egypt to live there for a while  because the famine was severe.",
     Ind:"Ketika kelaparan timbul di negeri itu, pergilah Abram ke Mesir untuk tinggal di situ sebagai orang asing, sebab hebat kelaparan di negeri itu."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Pada waktu ia akan masuk ke Mesir, berkatalah ia kepada Sarai, isterinya: \"Memang aku tahu, bahwa engkau adalah seorang perempuan yang cantik parasnya."
   },
   {Bible:"Genesis", Chapter:12, Verse:12, Page:1,
-    Kor:"이집트 사람들이 당신을 보고서, 당신이 나의 아내라는 것을 알면, 나는 죽이고 당신은 살릴 것이오.",
+    Kor:"이집트 사람들이 당신을 보고서, 당신이 나의 아내라는 것을 알면, 나는 죽이고, 당신은 살릴 것이오.",
     Chn:"埃及人看见你必说：『这是他的妻子』，他们就要杀我，却叫你存活。",
     Eng:"When the Egyptians see you, they will say, 'This is his wife.' Then they will kill me but  will let you live.",
     Ind:"Apabila orang Mesir melihat engkau, mereka akan berkata: Itu isterinya. Jadi mereka akan membunuh aku dan membiarkan engkau hidup."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Firaun menyambut Abram dengan baik-baik, karena ia mengingini perempuan itu, dan Abram mendapat kambing domba, lembu sapi, keledai jantan, budak laki-laki dan perempuan, keledai betina dan unta."
   },
   {Bible:"Genesis", Chapter:12, Verse:17, Page:1,
-    Kor:"○그러나 주님께서 아브람의 아내 사래의 일로 바로와 그 집안에 무서운 재앙을 내리셨으므로,",
+    Kor:"○그러나 주께서는, 아브람의 아내 사래의 일로 바로와 그 집안에 무서운 재앙을 내리셨으므로,",
     Chn:"耶和华因亚伯兰妻子撒莱的缘故，降大灾与法老和他的全家。",
     Eng:"But the LORD inflicted serious diseases on Pharaoh and his household because of Abram's  wife Sarai.",
     Ind:"Tetapi TUHAN menimpakan tulah yang hebat kepada Firaun, demikian juga kepada seisi istananya, karena Sarai, isteri Abram itu."

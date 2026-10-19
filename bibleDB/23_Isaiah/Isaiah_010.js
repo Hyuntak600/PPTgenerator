@@ -9,31 +9,31 @@ BibleDB.add([
     Ind:"Celakalah mereka yang menentukan ketetapan-ketetapan yang tidak adil, dan mereka yang mengeluarkan keputusan-keputusan kelaliman,"
   },
   {Bible:"Isaiah", Chapter:10, Verse:2, Page:1,
-    Kor:"가난한 자들의 소송을 외면하고, 불쌍한 나의 백성에게서 권리를 박탈하며, 과부들을 노략하고, 고아들을 약탈하였다.",
+    Kor:"\"가난한 자들의 소송을 외면하고, 불쌍한 나의 백성에게서 권리를 박탈하며, 과부들을 노략하고, 고아들을 약탈하였다.\"",
     Chn:"为要屈枉穷乏人， 夺去我民中困苦人的理， 以寡妇当作掳物， 以孤儿当作掠物。",
     Eng:"to deprive the poor of their rights and withhold justice from the oppressed of my people, making widows their prey and robbing the fatherless.",
     Ind:"untuk menghalang-halangi orang-orang lemah mendapat keadilan dan untuk merebut hak orang-orang sengsara di antara umat-Ku, supaya mereka dapat merampas milik janda-janda, dan dapat menjarah anak-anak yatim!"
   },
   {Bible:"Isaiah", Chapter:10, Verse:3, Page:1,
-    Kor:"주님께서 징벌하시는 날에, 먼 곳으로부터 재앙을 끌어들이시는 날에, 너희는 어찌하려느냐? 누구에게로 도망하여 도움을 청할 것이며, 너희의 재산을 어디에 감추어 두려느냐?",
+    Kor:"주께서 징벌하시는 날에, 먼 곳으로부터 재앙을 끌어들이시는 날에, 너희는 어찌하려느냐? 누구에게로 도망하여 도움을 청할 것이며, 너희의 재산을 어디에 감추어 두려느냐?",
     Chn:"到降罚的日子，有灾祸从远方临到， 那时，你们怎样行呢？ 你们向谁逃奔求救呢？ 你们的荣耀存留何处呢？",
     Eng:"What will you do on the day of reckoning, when disaster comes from afar? To whom will you run for help? Where will you leave your riches?",
     Ind:"Apakah yang akan kamu lakukan pada hari penghukuman, dan pada waktu kebinasaan yang datang dari jauh? Kepada siapakah kamu hendak lari minta tolong, dan di manakah hendak kamu tinggalkan kekayaanmu?"
   },
   {Bible:"Isaiah", Chapter:10, Verse:4, Page:1,
-    Kor:"너희는 포로들 밑에 깔려 밟혀 죽거나, 시체 더미 밑에 깔려 질식할 것이다. 그래도 주님께서는 진노를 풀지 않으시고, 심판을 계속하시려고, 여전히 손을 들고 계신다.",
+    Kor:"너희는 포로들 밑에 깔려 밟혀 죽거나, 시체 더미 밑에 깔려 질식할 것이다. 그래도 주께서는 진노를 풀지 않으시고, 심판을 계속하시려고, 여전히 손을 들고 계신다.",
     Chn:"他们只得屈身在被掳的人以下， 仆倒在被杀的人以下。 虽然如此，耶和华的怒气还未转消； 他的手仍伸不缩。",
     Eng:"Nothing will remain but to cringe among the captives or fall among the slain. Yet for all this, his anger is not turned away, his hand is still upraised.",
     Ind:"Tak dapat kamu lakukan apa-apa selain dari meringkuk di antara orang-orang yang terkurung, dan tewas di antara orang-orang yang terbunuh! Sekalipun semuanya ini terjadi, murka TUHAN belum surut, dan tangan-Nya masih teracung."
   },
   {Bible:"Isaiah", Chapter:10, Verse:5, Page:1,
-    Kor:"<하나님의 도구인 앗시리아 왕> 앗시리아에게 재앙이 닥쳐라! 그는 나의 진노의 몽둥이요, 그의 손에 있는 몽둥이는 바로 나의 분노다.",
+    Kor:"앗시리아에게 재앙이 닥쳐라! \"그는 나의 진노의 몽둥이요, 그의 손에 있는 몽둥이는 바로 나의 분노다.",
     Chn:"亚述是我怒气的棍， 手中拿我恼恨的杖。",
     Eng:"\"Woe to the Assyrian, the rod of my anger, in whose hand is the club of my wrath!",
     Ind:"Celakalah Asyur, yang menjadi cambuk murka-Ku dan yang menjadi tongkat amarah-Ku!"
   },
   {Bible:"Isaiah", Chapter:10, Verse:6, Page:1,
-    Kor:"내가 그를 경건하지 않은 민족에게 보내며, 그에게 명하여 나를 분노하게 한 백성을 치게 하며 그들을 닥치는 대로 노략하고 약탈하게 하며, 거리의 진흙같이 짓밟도록 하였다.",
+    Kor:"내가 그를 경건하지 않은 민족에게 보내며, 그에게 명하여 나를 분노하게 한 백성을 치게 하며 그들을 닥치는 대로 노략하고 약탈하게 하며, 거리의 진흙같이 짓밟도록 하였다.\"",
     Chn:"我要打发他攻击亵渎的国民， 吩咐他攻击我所恼怒的百姓， 抢财为掳物，夺货为掠物， 将他们践踏，像街上的泥土一样。",
     Eng:"I send him against a godless nation, I dispatch him against a people who anger me, to seize loot and snatch plunder, and to trample them down like mud in the streets.",
     Ind:"Aku akan menyuruhnya terhadap bangsa yang murtad, dan Aku akan memerintahkannya melawan umat sasaran murka-Ku, untuk melakukan perampasan dan penjarahan, dan untuk menginjak-injak mereka seperti lumpur di jalan."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"masakan tidak akan kulakukan kepada Yerusalem dan patung-patung berhalanya, seperti yang telah kulakukan kepada Samaria dan berhala-berhalanya?"
   },
   {Bible:"Isaiah", Chapter:10, Verse:12, Page:1,
-    Kor:"○그러므로 주님께서 시온 산과 예루살렘에서 하실 일을 다 이루시고 말씀하실 것이다. \"내가 앗시리아 왕을 벌하겠다. 멋대로 거드름을 피우며, 모든 사람을 업신여기는 그 교만을 벌하겠다.\"",
+    Kor:"○그러므로 주께서 시온 산과 예루살렘에서 하실 일을 다 이루시고 말씀하실 것이다. \"내가 앗시리아 왕을 벌하겠다. 멋대로 거드름을 피우며, 모든 사람을 업신여기는 그 교만을 벌하겠다.\"",
     Chn:"主在锡安山和耶路撒冷成就他一切工作的时候，主说：「我必罚亚述王自大的心和他高傲眼目的荣耀。」",
     Eng:"When the Lord has finished all his work against Mount Zion and Jerusalem, he will say, \"I will punish the king of Assyria for the willful pride of his heart and the haughty look in his eyes.",
     Ind:"Tetapi apabila Tuhan telah menyelesaikan segala pekerjaan-Nya di gunung Sion dan di Yerusalem, maka Ia akan menghukum perbuatan ketinggian hati raja Asyur dan sikapnya yang angkuh sombong."
   },
   {Bible:"Isaiah", Chapter:10, Verse:13, Page:1,
-    Kor:"그는 말한다. \"내가 민족들의 경계선을 옮겼고, 그들의 재물도 탈취하였으며, a용맹스럽게 주민을 진압하였다. 나는 내 손의 힘과 내 지혜로 이것을 하였다. 참으로 나는 현명한 사람이다. (a 또는 '용맹스러운 자들을 진압하였다')",
+    Kor:"그는 말한다. \"내가 민족들의 경계선을 옮겼고, 그들의 재물도 탈취하였으며, 용맹스럽게 주민을 진압하였다. 나는 나의 손의 힘과 나의 지혜로 이것을 하였다. 참으로 나는 현명한 사람이다.",
     Chn:"因为他说： 我所成就的事是靠我手的能力 和我的智慧， 我本有聪明。 我挪移列国的地界， 抢夺他们所积蓄的财宝； 并且我像勇士，使坐宝座的降为卑。",
     Eng:"For he says: \"'By the strength of my hand I have done this, and by my wisdom, because I have understanding. I removed the boundaries of nations, I plundered their treasures; like a mighty one I subdued their kings.",
     Ind:"Sebab ia telah berkata: \"Dengan kekuatan tanganku aku telah melakukannya dan dengan kebijaksanaanku, sebab aku berakal budi; aku telah meniadakan batas-batas antara bangsa, dan telah merampok persediaan-persediaan mereka, dengan perkasa aku telah menurunkan orang-orang yang duduk di atas takhta."
   },
   {Bible:"Isaiah", Chapter:10, Verse:14, Page:1,
-    Kor:"내 손이 민족들의 재물을 새의 보금자리를 움키듯 움켰고, 온 땅을 버려진 알들을 모으듯 차지하였으나, 날개를 치거나, 입을 벌리거나, 소리를 내는 자가 없었다.\"",
+    Kor:"나의 손이 민족들의 재물을 새의 보금자리를 움키듯 움켰고, 온 땅을 버려진 알들을 모으듯 차지하였으나, 날개를 치거나, 입을 벌리거나, 소리를 내는 자가 없었다.\"",
     Chn:"我的手搆到列国的财宝， 好像人搆到鸟窝； 我也得了全地， 好像人拾起所弃的雀蛋。 没有动翅膀的； 没有张嘴的，也没有鸣叫的。",
     Eng:"As one reaches into a nest, so my hand reached for the wealth of the nations; as men gather abandoned eggs, so I gathered all the countries; not one flapped a wing, or opened its mouth to chirp.'\"",
     Ind:"Seperti kepada sarang burung, demikianlah tanganku telah menjangkau kepada kekayaan bangsa-bangsa, dan seperti orang meraup telur-telur yang ditinggalkan induknya, demikianlah aku telah meraup seluruh bumi, dan tidak seekorpun yang menggerakkan sayap, yang mengangakan paruh atau yang menciap-ciap.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Maka Terang Israel akan menjadi api, dan Allahnya, Yang Mahakudus, akan menyala-nyala dan akan membakar dan memakan habis puteri malu dan rumputnya pada satu hari juga."
   },
   {Bible:"Isaiah", Chapter:10, Verse:18, Page:1,
-    Kor:"그 울창한 숲과 기름진 옥토를 b모조리 태워서, 폐허로 만드실 것이다. 마치 병자가 기력을 잃는 것과 같게 하실 것이다. (b 히, '영혼과 육체를 아울러')",
+    Kor:"그 울창한 숲과 기름진 옥토를 모조리 태워서, 폐허로 만드실 것이다. 마치 병자가 기력을 잃는 것과 같게 하실 것이다.",
     Chn:"又将他树林和肥田的荣耀全然烧尽， 好像拿军旗的昏过去一样。",
     Eng:"The splendor of his forests and fertile fields it will completely destroy, as when a sick man wastes away.",
     Ind:"Keindahan hutan Asyur dan kebun buah-buahannya akan dihabiskan-Nya, dari batangnya sampai rantingnya, sehingga akan menjadi seperti seorang sakit yang merana sampai mati;"
@@ -117,31 +117,31 @@ BibleDB.add([
     Ind:"dan sisa pohon-pohon hutannya akan dapat dihitung banyaknya, sehingga seorang anak dapat mencatatnya."
   },
   {Bible:"Isaiah", Chapter:10, Verse:20, Page:1,
-    Kor:"<살아 남은 소수가 돌아올 것이다> 그 날이 오면, 이스라엘 가운데서 남은 사람들과 야곱 겨레 가운데서 살아 남은 사람들이 다시는 그들을 친 자를 의뢰하지 않고, 오직 '이스라엘의 거룩하신 분'인 주님만을 진심으로 의지할 것이다.",
+    Kor:"그 날이 오면, 이스라엘 가운데서 남은 사람들과 야곱 겨레 가운데서 살아 남은 사람들이 다시는 그들을 친 자를 의뢰하지 않고, 오직 '이스라엘의 거룩하신 분'인 주님만을 진심으로 의지할 것이다.",
     Chn:"到那日，以色列所剩下的和雅各家所逃脱的，不再倚靠那击打他们的，却要诚实倚靠耶和华—以色列的圣者。",
     Eng:"In that day the remnant of Israel, the survivors of the house of Jacob, will no longer rely on him who struck them down but will truly rely on the LORD, the Holy One of Israel.",
     Ind:"Tetapi pada waktu itu sisa orang Israel dan orang yang terluput di antara kaum keturunan Yakub, tidak akan bersandar lagi kepada yang mengalahkannya, tetapi akan bersandar kepada TUHAN, Yang Mahakudus, Allah Israel, dan tetap setia."
   },
   {Bible:"Isaiah", Chapter:10, Verse:21, Page:1,
-    Kor:"c남은 사람들이 돌아올 것이다. 야곱의 자손 가운데서 남은 사람들이 전능하신 하나님께 돌아올 것이다.",
+    Kor:"남은 사람들이 돌아올 것이다. 야곱의 자손 가운데서 남은 사람들이 전능하신 하나님께 돌아올 것이다.",
     Chn:"所剩下的，就是雅各家所剩下的，必归回全能的　神。",
     Eng:"A remnant will return, a remnant of Jacob will return to the Mighty God.",
     Ind:"Suatu sisa akan kembali, sisa Yakub akan bertobat di hadapan Allah yang perkasa."
   },
   {Bible:"Isaiah", Chapter:10, Verse:22, Page:1,
-    Kor:"이스라엘아, 네 백성이 바다의 모래처럼 많다고 하여도, 그들 가운데서 오직 c남은 사람들만이 돌아올 것이다. 너의 파멸이 공의로운 판결에 따라서 이미 결정되었다. (c 히, '스알야숩')",
+    Kor:"이스라엘아, 네 백성이 바다의 모래처럼 많다고 하여도, 그들 가운데서 오직 남은 사람들만이 돌아올 것이다. 너의 파멸이 공의로운 판결에 따라서 이미 결정되었다.",
     Chn:"以色列啊，你的百姓虽多如海沙，惟有剩下的归回。原来灭绝的事已定，必有公义施行，如水涨溢。",
     Eng:"Though your people, O Israel, be like the sand by the sea, only a remnant will return. Destruction has been decreed, overwhelming and righteous.",
     Ind:"Sebab sekalipun bangsamu, hai Israel, seperti pasir di laut banyaknya, namun hanya sisanya akan kembali. TUHAN telah memastikan datangnya kebinasaan dan dari situ timbul keadilan yang meluap-luap."
   },
   {Bible:"Isaiah", Chapter:10, Verse:23, Page:1,
-    Kor:"파멸이 이미 결정되었으니, 주님, 곧 만군의 주님께서 온 땅 안에서 심판을 강행하실 것이다.",
+    Kor:"파멸이 이미 결정되었으니, 주, 곧 만군의 주께서 온 땅 안에서 심판을 강행하실 것이다.",
     Chn:"因为主—万军之耶和华在全地之中必成就所定规的结局。",
     Eng:"The Lord, the LORD Almighty, will carry out the destruction decreed upon the whole land.",
     Ind:"Sungguh, kebinasaan yang sudah pasti akan dilaksanakan di atas seluruh bumi oleh Tuhan, TUHAN semesta alam."
   },
   {Bible:"Isaiah", Chapter:10, Verse:24, Page:1,
-    Kor:"<주님께서 앗시리아를 벌하신다> 그러므로 주 만군의 하나님께서 이렇게 말씀하신다. \"시온에 사는 나의 백성아, 앗시리아가 몽둥이를 들어 너를 때리고, 이집트가 그랬듯이 철퇴를 들어 너에게 내리친다 하여도, 두려워하지 말아라.",
+    Kor:"그러므로 주 만군의 하나님께서 이렇게 말씀하신다. \"시온에 사는 나의 백성아, 앗시리아가 몽둥이를 들어 너를 때리고, 이집트가 그랬듯이 철퇴를 들어 너에게 내리친다 하여도, 두려워하지 말아라.",
     Chn:"所以，主—万军之耶和华如此说：「住锡安我的百姓啊，亚述王虽然用棍击打你，又照埃及的样子举杖攻击你，你却不要怕他。",
     Eng:"Therefore, this is what the Lord, the LORD Almighty, says: \"O my people who live in Zion, do not be afraid of the Assyrians, who beat you with a rod and lift up a club against you, as Egypt did.",
     Ind:"Sebab itu beginilah firman Tuhan, TUHAN semesta alam: \"Hai umat-Ku yang diam di Sion, janganlah takut terhadap Asyur, apabila mereka memukul engkau dengan gada dan menghantam engkau dengan tongkatnya, seperti yang dilakukan Mesir dahulu."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Sebab sedikit waktu lagi amarah-Ku atasmu akan berakhir, dan murka-Ku akan menyebabkan kehancuran mereka."
   },
   {Bible:"Isaiah", Chapter:10, Verse:26, Page:1,
-    Kor:"만군의 주님께서 오렙 바위에서 미디안 사람을 치신 것 같이 채찍을 들어 앗시리아를 치시며, 또한 이집트에서 바다를 치신 것 같이 몽둥이를 들어서 그들을 치실 것이다.",
+    Kor:"만군의 주께서 오렙 바위에서 미디안 사람을 치신 것 같이 채찍을 들어 앗시리아를 치시며, 또한 이집트에서 바다를 치신 것 같이 몽둥이를 들어서 그들을 치실 것이다.",
     Chn:"万军之耶和华要兴起鞭来攻击他，好像在俄立磐石那里杀戮米甸人一样。耶和华的杖要向海伸出，把杖举起，像在埃及一样。",
     Eng:"The LORD Almighty will lash them with a whip, as when he struck down Midian at the rock of Oreb; and he will raise his staff over the waters, as he did in Egypt.",
     Ind:"TUHAN semesta alam akan mencambuk mereka dengan cemeti, seperti Ia menghajar Midian di gunung batu Oreb, dan mengayunkan tongkat-Nya ke atas laut Teberau dan mengangkatnya seperti di Mesir dahulu."
   },
   {Bible:"Isaiah", Chapter:10, Verse:27, Page:1,
-    Kor:"그 날이 오면, 주님께서, 앗시리아가 지워 준 무거운 짐을 너의 어깨에서 벗기시고, 앗시리아의 멍에를 너의 목에서 벗기실 것이다. d네가 살이 쪄서 멍에가 부러질 것이다. (d 칠십인역에는 '네 어깨에서')",
+    Kor:"그 날이 오면, 주께서, 앗시리아가 지워 준 무거운 짐을 너의 어깨에서 벗기시고, 앗시리아의 멍에를 너의 목에서 벗기실 것이다. 네가 살이 쪄서 멍에가 부러질 것이다.",
     Chn:"到那日，亚述王的重担必离开你的肩头；他的轭必离开你的颈项；那轭也必因肥壮的缘故撑断。」",
     Eng:"In that day their burden will be lifted from your shoulders, their yoke from your neck; the yoke will be broken because you have grown so fat.",
     Ind:"Pada waktu itu beban yang ditimpakan mereka atas bahumu akan terbuang, dan kuk yang diletakkan mereka atas tengkukmu akan lenyap.\""
   },
   {Bible:"Isaiah", Chapter:10, Verse:28, Page:1,
-    Kor:"<침략자들의 공격> 앗시리아 왕이 리몬에서부터 올라가서 그가 아얏으로 들어갔다. 미그론을 지나서, 믹마스에다가 그의 군수품을 보관하였다.",
+    Kor:"앗시리아 왕이 리몬에서부터 올라가서 그가 아얏으로 들어갔다. 미그론을 지나서, 믹마스에다가 그의 군수품을 보관하였다.",
     Chn:"亚述王来到亚叶， 经过米矶 ， 在密抹安放辎重。",
     Eng:"They enter Aiath; they pass through Migron; they store supplies at Micmash.",
     Ind:"(10-27b) Asyur telah muncul dari Rimon (10-28) dan telah datang menyerang Ayat; ia telah lewat dari Migron, dan di Mikhmas diaturnya perbekalannya."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Hari ini juga Asyur akan berhenti di Nob, mengacung-acungkan tangannya ke arah gunung puteri Sion, bukit Yerusalem."
   },
   {Bible:"Isaiah", Chapter:10, Verse:33, Page:1,
-    Kor:"그러나 주님, 곧 만군의 주님께서 그들을 나뭇가지 치시듯 요란하게 치실 것이니, 큰 나무들이 찍히듯, 우뚝 솟은 나무들이 쓰러지듯, 그들이 그렇게 쓰러질 것이다.",
+    Kor:"그러나 주, 곧 만군의 주께서 그들을 나뭇가지 치시듯 요란하게 치실 것이니, 큰 나무들이 찍히고, 우뚝 솟은 나무들이 쓰러지듯이, 그들이 그렇게 쓰러질 것이다.",
     Chn:"看哪，主—万军之耶和华 以惊吓削去树枝； 长高的必被砍下， 高大的必被伐倒。",
     Eng:"See, the Lord, the LORD Almighty, will lop off the boughs with great power. The lofty trees will be felled, the tall ones will be brought low.",
     Ind:"Lihat, Tuhan, TUHAN semesta alam akan memotong dahan-dahan pohon dengan kekuatan yang menakutkan; yang tinggi-tinggi tumbuhnya akan ditebang, dan yang menjulang ke atas akan direndahkan."

@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",10,32);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:10, Verse:1, Page:1,
-    Kor:"<솔로몬의 잠언> 이것은 솔로몬의 잠언이다.  지혜로운 아들은 아버지를 기쁘게 하지만, 미련한 아들은 어머니의 근심거리이다.",
+    Kor:"이것은 솔로몬의 잠언이다. 지혜로운 아들은 아버지를 기쁘게 하지만, 미련한 아들은 어머니의 근심거리이다.",
     Chn:"所罗门的箴言： 智慧之子使父亲欢乐； 愚昧之子叫母亲担忧。",
     Eng:"The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.",
     Ind:"Amsal-amsal Salomo. Anak yang bijak mendatangkan sukacita kepada ayahnya, tetapi anak yang bebal adalah kedukaan bagi ibunya."
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Lidah orang benar seperti perak pilihan, tetapi pikiran orang fasik sedikit nilainya."
   },
   {Bible:"Proverbs", Chapter:10, Verse:21, Page:1,
-    Kor:"의인의 입술은 많은 사람을 먹여 살리지만, a어리석은 사람은 생각 없이 살다가 죽는다. (a '어리석은 사람'으로 번역된 히브리어 '에빌림'은 잠언 전체와 구약의 여러 곳에서 도덕적 결함이 있는 사람을 가리킴. 단순히 '둔한 사람'과 구별됨)",
+    Kor:"의인의 입술은 많은 사람을 먹여 살리지만, 어리석은 사람은 생각 없이 살다가 죽는다.",
     Chn:"义人的口教养多人； 愚昧人因无知而死亡。",
     Eng:"The lips of the righteous nourish many, but fools die for lack of judgment.",
     Ind:"Bibir orang benar menggembalakan banyak orang, tetapi orang bodoh mati karena kurang akal budi."
   },
   {Bible:"Proverbs", Chapter:10, Verse:22, Page:1,
-    Kor:"주님께서 복을 주셔서 부유하게 되는 것인데, 절대로 근심을 곁들여 주시지 않는다.",
+    Kor:"주께서 복을 주셔서 부유하게 되는 것인데, 절대로 근심을 곁들여 주시지 않는다.",
     Chn:"耶和华所赐的福使人富足， 并不加上忧虑。",
     Eng:"The blessing of the LORD brings wealth, and he adds no trouble to it.",
     Ind:"Berkat Tuhanlah yang menjadikan kaya, susah payah tidak akan menambahinya."
   },
   {Bible:"Proverbs", Chapter:10, Verse:23, Page:1,
-    Kor:"b미련한 사람은 나쁜 일을 저지르는 데서 낙을 누리지만, 명철한 사람은 지혜에서 낙을 누린다. (b '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"미련한 사람은 나쁜 일을 저지르는데서 낙을 누리지만, 명철한 사람은 지혜에서 낙을 누린다.",
     Chn:"愚妄人以行恶为戏耍； 明哲人却以智慧为乐。",
     Eng:"A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom.",
     Ind:"Berlaku cemar adalah kegemaran orang bebal, sebagaimana melakukan hikmat bagi orang yang pandai."

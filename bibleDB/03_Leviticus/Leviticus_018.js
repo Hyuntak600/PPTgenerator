@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",18,30);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:18, Verse:1, Page:1,
-    Kor:"<성 관계에 관한 규례> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:18, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 이렇게 일러라. ○내가 주 너희의 하나님이다.",
+    Kor:"너는 이스라엘 자손에게 말하여라. 그들에게 이렇게 일러라. ○'내가 주 너희의 하나님이다.",
     Chn:"「你晓谕以色列人说：我是耶和华—你们的　神。",
     Eng:"\"Speak to the Israelites and say to them: 'I am the LORD your God.",
     Ind:"\"Berbicaralah kepada orang Israel dan katakan kepada mereka: Akulah TUHAN, Allahmu."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Mengenai aurat anak perempuan dari seorang isteri ayahmu, yang lahir pada ayahmu sendiri, janganlah kausingkapkan auratnya, karena ia saudaramu perempuan."
   },
   {Bible:"Leviticus", Chapter:18, Verse:12, Page:1,
-    Kor:"○너는 네 아버지의 누이 곧 고모의 몸을 범하면 안 된다. 그 여자는 네 아버지의 가까운 살붙이이기 때문이다.",
+    Kor:"○너는 네 아버지의 누이, 곧 고모의 몸을 범하면 안 된다. 그 여자는 네 아버지의 가까운 살붙이이기 때문이다.",
     Chn:"不可露你姑母的下体；她是你父亲的骨肉之亲。",
     Eng:"\"'Do not have sexual relations with your father's sister; she is your father's close relative.",
     Ind:"Janganlah kausingkapkan aurat saudara perempuan ayahmu, karena ia kerabat ayahmu."
   },
   {Bible:"Leviticus", Chapter:18, Verse:13, Page:1,
-    Kor:"○너는 네 어머니의 형제 곧 이모의 몸을 범하면 안 된다. 그 여자는 네 어머니의 가까운 살붙이이기 때문이다.",
+    Kor:"○너는 네 어머니의 형제, 곧 이모의 몸을 범하면 안 된다. 그 여자는 네 어머니의 가까운 살붙이이기 때문이다.",
     Chn:"不可露你姨母的下体；她是你母亲的骨肉之亲。",
     Eng:"\"'Do not have sexual relations with your mother's sister, because she is your mother's close relative.",
     Ind:"Janganlah kausingkapkan aurat saudara perempuan ibumu, karena ia kerabat ibumu."
   },
   {Bible:"Leviticus", Chapter:18, Verse:14, Page:1,
-    Kor:"○너는 네 아버지의 형제 곧 네 삼촌이 데리고 사는 여자에게 가까이하여 범하면 안 된다. 그 여자를 범하는 것은 곧 네 삼촌의 몸을 부끄럽게 하는 것이기 때문이다. 그 여자는 네 숙모이다.",
+    Kor:"○너는 네 아버지의 형제, 곧 네 삼촌이 데리고 사는 여자에게 가까이하여 범하면 안 된다. 그 여자를 범하는 것은, 곧 네 삼촌의 몸을 부끄럽게 하는 것이기 때문이다. 그 여자는 네 숙모이다.",
     Chn:"不可亲近你伯叔之妻，羞辱了你伯叔；她是你的伯叔母。",
     Eng:"\"'Do not dishonor your father's brother by approaching his wife to have sexual relations; she is your aunt.",
     Ind:"Janganlah kausingkapkan aurat isteri saudara laki-laki ayahmu, janganlah kauhampiri isterinya, karena ia isteri saudara ayahmu."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Janganlah kausingkapkan aurat menantumu perempuan, karena ia isteri anakmu laki-laki, maka janganlah kausingkapkan auratnya."
   },
   {Bible:"Leviticus", Chapter:18, Verse:16, Page:1,
-    Kor:"○너는 네 형제의 아내 곧 형수나 제수의 몸을 범하면 안 된다. 그 여자는 네 형제의 몸이기 때문이다.",
+    Kor:"○너는 네 형제의 아내, 곧 형수나 제수의 몸을 범하면 안 된다. 그 여자는 네 형제의 몸이기 때문이다.",
     Chn:"不可露你弟兄妻子的下体；这本是你弟兄的下体。",
     Eng:"\"'Do not have sexual relations with your brother's wife; that would dishonor your brother.",
     Ind:"Janganlah kausingkapkan aurat isteri saudaramu laki-laki, karena itu hak saudaramu laki-laki."
   },
   {Bible:"Leviticus", Chapter:18, Verse:17, Page:1,
-    Kor:"○너는 한 여자를 데리고 살면서, 그 여자의 딸의 몸을 아울러 범하면 안 된다. 너는 또한 그 여자의 친손녀나 외손녀를 아울러 데려다가 그 몸을 범하면 안 된다. 그 여자의 딸이나 손녀들은 바로 그의 살붙이이기 때문이다. 그들을 범하는 일은 악한 일이다.",
+    Kor:"○너는 한 여자를 데리고 살면서, 그 여자의 딸의 몸을 아울러 범하면 안 된다. 너는 또한 그 여자의 친손녀나 외손녀를 아울러 데려다가 그 몸을 범하면 안 된다. 그 여자의 딸이나 손녀들은 바로 그의 살붙이이기 때문이다. 그들을 범하는 일은 악한 짓이다.",
     Chn:"不可露了妇人的下体，又露她女儿的下体，也不可娶她孙女或是外孙女，露她们的下体；她们是骨肉之亲，这本是大恶。",
     Eng:"\"'Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son's daughter or her daughter's daughter; they are her close relatives. That is wickedness.",
     Ind:"Janganlah kausingkapkan aurat seorang perempuan dan anaknya perempuan. Janganlah kauambil anak perempuan dari anaknya laki-laki atau dari anaknya perempuan untuk menyingkapkan auratnya, karena mereka adalah kerabatmu; itulah perbuatan mesum."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Dan janganlah engkau bersetubuh dengan isteri sesamamu, sehingga engkau menjadi najis dengan dia."
   },
   {Bible:"Leviticus", Chapter:18, Verse:21, Page:1,
-    Kor:"○너는 네 자식들을 a몰렉에게 희생제물로 바치면 안 된다. 그렇게 하는 것은 네 하나님의 이름을 더럽게 하는 일이다. 나는 주다.(a 암몬 사람들의 신(왕상 11:7))",
+    Kor:"○너는 네 자식들을 몰렉에게 희생제물로 바치면 안 된다. 그렇게 하는 것은 네 하나님의 이름을 더럽게 하는 일이다. 나는 주다.",
     Chn:"不可使你的儿女经火归与摩洛，也不可亵渎你　神的名。我是耶和华。",
     Eng:"\"'Do not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD.",
     Ind:"Janganlah kauserahkan seorang dari anak-anakmu untuk dipersembahkan kepada Molokh, supaya jangan engkau melanggar kekudusan nama Allahmu; Akulah TUHAN."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Janganlah engkau tidur dengan laki-laki secara orang bersetubuh dengan perempuan, karena itu suatu kekejian."
   },
   {Bible:"Leviticus", Chapter:18, Verse:23, Page:1,
-    Kor:"○너는 어떤 종류의 짐승과도 교접하면 안 된다. 그렇게 하는 것은 네 자신을 더럽게 하는 일이다. 여자들도 또한 어떤 짐승하고든 교접하면 안 된다. 그렇게 하는 것은 성을 문란하게 하는 행위이다.",
+    Kor:"○너는 어떤 종류의 짐승과도 교접하면 안 된다. 그렇게 하는 것은 네 자신을 더럽게 하는 일이다. 여자들도 또한 어떤 짐승하고든 교접하면 안 된다. 그렇게 하는 것은 성문란 행위이다.",
     Chn:"不可与兽淫合，玷污自己。女人也不可站在兽前，与它淫合；这本是逆性的事。",
     Eng:"\"'Do not have sexual relations with an animal and defile yourself with it. A woman must not present herself to an animal to have sexual relations with it; that is a perversion.",
     Ind:"Janganlah engkau berkelamin dengan binatang apapun, sehingga engkau menjadi najis dengan binatang itu. Seorang perempuan janganlah berdiri di depan seekor binatang untuk berkelamin, karena itu suatu perbuatan keji."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Karena setiap orang yang melakukan sesuatupun dari segala kekejian itu, orang itu harus dilenyapkan dari tengah-tengah bangsanya."
   },
   {Bible:"Leviticus", Chapter:18, Verse:30, Page:1,
-    Kor:"○그러므로 너희는, 내가 지키라고 한 것을 꼭 지켜서, 너희보다 앞서 그 곳에 살던 사람들이 저지른 역겨운 풍습 가운데 어느 하나라도 따라가는 일이 없도록 하여라. 그런 짓들을 하여, 너희가 스스로를 더럽히는 일이 없도록 하여라. 내가 주 너희의 하나님이다.\"",
+    Kor:"○그러므로 너희는, 내가 지키라고 한 것을 꼭 지켜서, 너희보다 앞서 그 곳에 살던 사람들이 저지른 역겨운 풍습 가운데 어느 하나라도 따라가는 일이 없도록 하여라. 그런 짓들을 하여, 너희가 스스로를 더럽히는 일이 없도록 하여라. 내가 주 너희의 하나님이다.'\"",
     Chn:"所以，你们要守我所吩咐的，免得你们随从那些可憎的恶俗，就是在你们以先的人所常行的，以致玷污了自己。我是耶和华—你们的　神。」",
     Eng:"Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the LORD your God.'\"",
     Ind:"Dengan demikian kamu harus tetap berpegang pada kewajibanmu terhadap Aku, dan jangan kamu melakukan sesuatu dari kebiasaan yang keji itu, yang dilakukan sebelum kamu, dan janganlah kamu menajiskan dirimu dengan semuanya itu; Akulah TUHAN, Allahmu.\""

@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",29,27);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:29, Verse:1, Page:1,
-    Kor:"<상식> 책망을 자주 받으면서도 고집만 부리는 사람은, 갑자기 무너져서 회복하지 못한다.",
+    Kor:"책망을 자주 받으면서도 고집만 부리는 사람은, 갑자기 무너져서 회복하지 못한다.",
     Chn:"人屡次受责罚，仍然硬着颈项； 他必顷刻败坏，无法可治。",
     Eng:"A man who remains stiff-necked after many rebukes will suddenly be destroyed--without remedy.",
     Ind:"Siapa bersitegang leher, walaupun telah mendapat teguran, akan sekonyong-konyong diremukkan tanpa dapat dipulihkan lagi."

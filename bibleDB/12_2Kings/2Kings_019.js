@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",19,37);
 BibleDB.add([
   {Bible:"2Kings", Chapter:19, Verse:1, Page:1,
-    Kor:"<왕이 이사야의 충고를 듣고자 하다(사 37:1-7)> 히스기야 왕도 이 말을 듣고, 울분을 참지 못하여 자기의 옷을 찢고, 베옷을 두르고, 주님의 성전으로 들어갔다.",
+    Kor:"히스기야 왕도 이 말을 듣고, 울분을 참지 못하여 자기의 옷을 찢고, 베옷을 두르고, 주의 성전으로 들어갔다.",
     Chn:"希西家王听见，就撕裂衣服，披上麻布，进了耶和华的殿；",
     Eng:"When King Hezekiah heard this, he tore his clothes and put on sackcloth and went into the temple of the LORD.",
     Ind:"Segera sesudah raja Hizkia mendengar itu, dikoyakkannyalah pakaiannya dan diselubunginyalah badannya dengan kain kabung, lalu masuklah ia ke rumah TUHAN."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Berkatalah mereka kepadanya: \"Beginilah kata Hizkia: Hari ini hari kesesakan, hari hukuman dan penistaan; sebab sudah datang waktunya untuk melahirkan anak, tetapi tidak ada kekuatan untuk melahirkannya."
   },
   {Bible:"2Kings", Chapter:19, Verse:4, Page:1,
-    Kor:"주 예언자님의 하나님께서는, 랍사게가 한 말을 다 들으셨을 것입니다. 랍사게는, 살아 계신 하나님을 모욕하려고, 그의 상전인 앗시리아 왕이 보낸 자입니다. 주 예언자님의 하나님께서 그가 하는 말을 들으셨으니, 그를 심판하실 것입니다. 예언자님께서는 여기에 남아 있는 우리들이 구원받도록 기도하여 주십시오.\"",
+    Kor:"주 그대의 하나님께서는, 랍사게가 한 말을 다 들으셨을 것입니다. 랍사게는, 살아 계신 하나님을 모욕하려고, 그의 상전인 앗시리아 왕이 보낸 자입니다. 주 그대의 하나님께서 그가 하는 말을 들으셨으니, 그를 심판하실 것입니다. 그대는 여기에 남아 있는 우리들이 구원받도록 기도하여 주십시오.\"",
     Chn:"或者耶和华—你的　神听见拉伯沙基的一切话，就是他主人亚述王打发他来辱骂永生　神的话，耶和华—你的　神听见这话，就发斥责。故此，求你为余剩的民扬声祷告。』」",
     Eng:"It may be that the LORD your God will hear all the words of the field commander, whom his master, the king of Assyria, has sent to ridicule the living God, and that he will rebuke him for the words the LORD your God has heard. Therefore pray for the remnant that still survives.\"",
     Ind:"Mungkin TUHAN, Allahmu, sudah mendengar segala perkataan juru minuman agung yang telah diutus oleh raja Asyur, tuannya, untuk mencela Allah yang hidup, sehingga TUHAN, Allahmu, mau memberi hukuman karena perkataan-perkataan yang telah didengar-Nya. Maka baiklah engkau menaikkan doa untuk sisa yang masih tinggal ini!\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Ketika pegawai-pegawai raja Hizkia sampai kepada Yesaya,"
   },
   {Bible:"2Kings", Chapter:19, Verse:6, Page:1,
-    Kor:"이사야가 그들에게 대답하였다. \"당신들의 왕에게 이렇게 전하십시오. 주님께서 이렇게 말씀하십니다. '앗시리아 왕의 부하들이 나를 모욕하는 말을 네가 들었다고 하여, 그렇게 두려워하지 말아라.",
+    Kor:"이사야가 그들에게 대답하였다. \"그대들의 왕에게 이렇게 전하십시오. 주께서 이렇게 말씀하십니다. '앗시리아 왕의 부하들이 나를 모욕하는 말을 네가 들었다고 하여, 그렇게 두려워하지 말아라.",
     Chn:"以赛亚对他们说：「要这样对你们的主人说，耶和华如此说：『你听见亚述王的仆人亵渎我的话，不要惧怕。",
     Eng:"Isaiah said to them, \"Tell your master, 'This is what the LORD says: Do not be afraid of what you have heard--those words with which the underlings of the king of Assyria have blasphemed me.",
     Ind:"berkatalah Yesaya kepada mereka: \"Beginilah kamu katakan kepada tuanmu: Beginilah firman TUHAN: Janganlah engkau takut terhadap perkataan yang kaudengar yang telah diucapkan oleh budak-budak raja Asyur untuk menghujat Aku."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sesungguhnya, Aku akan menyuruh suatu roh masuk di dalamnya, sehingga ia mendengar suatu kabar dan pulang ke negerinya; Aku akan membuat dia mati rebah oleh pedang di negerinya sendiri.\""
   },
   {Bible:"2Kings", Chapter:19, Verse:8, Page:1,
-    Kor:"<앗시리아가 또 다른 협박을 해 오다(사 37:8-20)> ○랍사게는 자기의 왕이 라기스를 떠났다는 소식을 듣고 후퇴하여, 립나를 치고 있는 앗시리아 왕과 합세하였다.",
+    Kor:"○랍사게는 자기의 왕이 라기스를 떠났다는 소식을 듣고 후퇴하여, 립나를 치고 있는 앗시리아 왕과 합세하였다.",
     Chn:"拉伯沙基回去，正遇见亚述王攻打立拿，原来他早听见亚述王拔营离开拉吉。",
     Eng:"When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.",
     Ind:"Ketika juru minuman agung pulang, didapatinyalah raja Asyur berperang melawan Libna; sebab sudah didengarnya bahwa raja telah berangkat dari Lakhis."
   },
   {Bible:"2Kings", Chapter:19, Verse:9, Page:1,
-    Kor:"그 때에 앗시리아 왕은 a에티오피아의 디르하가 왕이 자기와 싸우려고 출전하였다는 말을 들었다. 그리하여 그는 히스기야에게 다시 사신들을 보내어, 이렇게 말하였다.(a 또는 '누비아'. 히, '구스', 나일 강 상류 지역)",
+    Kor:"그 때에 앗시리아 왕은 에티오피아의 디르하가 왕이 자기와 싸우려고 출전하였다는 말을 들었다. 그리하여 그는 히스기야에게 다시 사신들을 보내어, 이렇게 말하였다.",
     Chn:"亚述王听见人论古实王特哈加说：「他出来要与你争战。」于是亚述王又打发使者去见希西家，吩咐他们说：",
     Eng:"Now Sennacherib received a report that Tirhakah, the Cushite king of Egypt, was marching out to fight against him. So he again sent messengers to Hezekiah with this word:",
     Ind:"Dalam pada itu raja mendengar tentang Tirhaka, raja Etiopia, berita yang demikian: \"Sesungguhnya, ia telah keluar berperang melawan engkau,\" maka disuruhnyalah kembali utusan-utusan kepada Hizkia dengan pesan:"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Di manakah raja negeri Hamat dan Arpad, raja kota Sefarwaim, raja negeri Hena dan Iwa?\""
   },
   {Bible:"2Kings", Chapter:19, Verse:14, Page:1,
-    Kor:"○히스기야는 사신들에게서 이 편지를 받아 읽었다. 그리고는 주님의 성전으로 올라가서, 주님 앞에 편지를 펴 놓은 뒤에,",
+    Kor:"○히스기야는 사신들에게서 이 편지를 받아 읽었다. 그리고는 주의 성전으로 올라가서, 주 앞에 편지를 펴 놓은 뒤에,",
     Chn:"希西家从使者手里接过书信来，看完了，就上耶和华的殿，将书信在耶和华面前展开。",
     Eng:"Hezekiah received the letter from the messengers and read it. Then he went up to the temple of the LORD and spread it out before the LORD.",
     Ind:"Hizkia menerima surat itu dari tangan para utusan, lalu membacanya; kemudian pergilah ia ke rumah TUHAN dan membentangkan surat itu di hadapan TUHAN."
   },
   {Bible:"2Kings", Chapter:19, Verse:15, Page:1,
-    Kor:"주님께 기도하였다. \"그룹들 위에 계시는 주 이스라엘의 하나님, 주님만이 이 세상의 모든 나라를 다스리시는 오직 한 분뿐인 하나님이시며, 하늘과 땅을 만드신 분이십니다.",
+    Kor:"주께 기도하였다. \"그룹들 위에 계시는 주 이스라엘의 하나님, 주님만이 이 세상의 모든 나라를 다스리시는 오직 한 분뿐인 하나님이시며, 하늘과 땅을 만드신 분이십니다.",
     Chn:"希西家向耶和华祷告说：「坐在二基路伯上耶和华—以色列的　神啊，你是天下万国的　神，你曾创造天地。",
     Eng:"And Hezekiah prayed to the LORD: \"O LORD, God of Israel, enthroned between the cherubim, you alone are God over all the kingdoms of the earth. You have made heaven and earth.",
     Ind:"Hizkia berdoa di hadapan TUHAN dengan berkata: \"Ya TUHAN, Allah Israel, yang bertakhta di atas kerubim! Hanya Engkau sendirilah Allah segala kerajaan di bumi; Engkaulah yang menjadikan langit dan bumi."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Maka sekarang, ya TUHAN, Allah kami, selamatkanlah kiranya kami dari tangannya, supaya segala kerajaan di bumi mengetahui, bahwa hanya Engkau sendirilah Allah, ya TUHAN.\""
   },
   {Bible:"2Kings", Chapter:19, Verse:20, Page:1,
-    Kor:"<이사야가 왕에게 전한 말(사 37:21-38)> ○아모스의 아들 이사야가 히스기야에게 사람을 보내어, 이렇게 말하였다. \"주 이스라엘의 하나님께서는, 임금님께서 앗시리아의 산헤립 왕의 일 때문에 주님께 올린 그 기도를 주님께서 들으셨다고 말씀하시면서,",
+    Kor:"○아모스의 아들 이사야가 히스기야에게 사람을 보내어, 이렇게 말하였다. \"주 이스라엘의 하나님께서는, 임금님께서 앗시리아의 산헤립 왕의 일 때문에 주님께 올린 그 기도를 주께서 들으셨다고 말씀하시면서,",
     Chn:"亚摩斯的儿子以赛亚就打发人去见希西家，说：「耶和华—以色列的　神如此说：『你既然求我攻击亚述王西拿基立，我已听见了。』",
     Eng:"Then Isaiah son of Amoz sent a message to Hezekiah: \"This is what the LORD, the God of Israel, says: I have heard your prayer concerning Sennacherib king of Assyria.",
     Ind:"Lalu Yesaya bin Amos menyuruh orang kepada Hizkia mengatakan: \"Beginilah firman TUHAN, Allah Israel: Apa yang telah kaudoakan kepada-Ku mengenai Sanherib, raja Asyur, telah Kudengar."
   },
   {Bible:"2Kings", Chapter:19, Verse:21, Page:1,
-    Kor:"앗시리아 왕을 두고 다음과 같이 말씀하셨습니다.  '처녀 딸 시온이 오히려 너 산헤립을 경멸하고 비웃을 것이다. 딸 예루살렘이 오히려 물러나는 네 뒷모습을 보면서 머리를 흔들 것이다.",
+    Kor:"앗시리아 왕을 두고 다음과 같이 말씀하셨습니다. '처녀 딸 시온이 오히려 너 산헤립을 경멸하고 비웃을 것이다. 딸 예루살렘이 오히려 물러나는 네 뒷모습을 보면서 머리를 흔들 것이다.",
     Chn:"耶和华论他这样说： 锡安的处女藐视你，嗤笑你； 耶路撒冷的女子向你摇头。",
     Eng:"This is the word that the LORD has spoken against him: \"'The Virgin Daughter of Zion despises you and mocks you. The Daughter of Jerusalem tosses her head as you flee.",
     Ind:"Inilah firman yang telah diucapkan TUHAN mengenai dia: Anak dara, yaitu puteri Sion, telah menghina engkau, telah mengolok-olokkan engkau; dan puteri Yerusalem telah geleng-geleng kepala di belakangmu."
   },
   {Bible:"2Kings", Chapter:19, Verse:22, Page:1,
-    Kor:"네가 감히 누구를 모욕하고 멸시하였느냐? 네가 누구에게 큰소리를 쳤느냐? 나 이스라엘의 거룩한 자에게 감히 네 눈을 부릅떴느냐?",
+    Kor:"네가 감히 누구를 모욕하고 멸시하였느냐? 네가 누구에게 큰소리를 쳤느냐? 이스라엘의 거룩하신 분께 네가 감히 네 눈을 부릅떴느냐?",
     Chn:"你辱骂谁？亵渎谁？ 扬起声来，高举眼目攻击谁呢？ 乃是攻击以色列的圣者！",
     Eng:"Who is it you have insulted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!",
     Ind:"Siapakah yang engkau cela dan engkau hujat? Terhadap siapakah engkau menyaringkan suaramu, dan memandang dengan sombong? Terhadap Yang Mahakudus Allah Israel!"
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Dan orang-orang yang terluput di antara kaum Yehuda, yaitu orang-orang yang masih tertinggal, akan berakar pula ke bawah dan menghasilkan buah ke atas."
   },
   {Bible:"2Kings", Chapter:19, Verse:31, Page:1,
-    Kor:"살아 남은 사람들이 예루살렘에서부터 나오고, 환난을 피한 사람들이 시온 산에서부터 나올 것이다. 나 주의 열심이 이 일을 이룰 것이다.'",
+    Kor:"살아 남은 사람들이 예루살렘에서부터 나오고, 환난을 피한 사람들이 시온 산에서부터 나올 것이다. 주의 열심이 이 일을 이룰 것이다.'",
     Chn:"必有余剩的民从耶路撒冷而出；必有逃脱的人从锡安山而来。耶和华的热心必成就这事。",
     Eng:"For out of Jerusalem will come a remnant, and out of Mount Zion a band of survivors. The zeal of the LORD Almighty will accomplish this.",
     Ind:"Sebab dari Yerusalem akan keluar orang-orang yang tertinggal dan dari gunung Sion orang-orang yang terluput; giat cemburu TUHAN semesta alam akan melakukan hal ini."
   },
   {Bible:"2Kings", Chapter:19, Verse:32, Page:1,
-    Kor:"○그러므로 앗시리아의 왕을 두고, 주님께서 이렇게 말씀하십니다. '그는 이 도성에 들어오지 못하며, 이리로 활 한 번 쏴 보지도 못할 것이다. 방패를 앞세워 접근하지도 못하며, 성을 공격할 흙 언덕을 쌓지도 못할 것이다.",
+    Kor:"그러므로 앗시리아의 왕을 두고, 주께서 이렇게 말씀하십니다. '그는 이 도성에 들어오지 못하며, 이리로 활 한 번 쏴 보지도 못할 것이다. 방패를 앞세워 접근하지도 못하며, 성을 공격할 흙 언덕을 쌓지도 못할 것이다.",
     Chn:"「所以，耶和华论亚述王如此说：『他必不得来到这城，也不在这里射箭，不得拿盾牌到城前，也不筑垒攻城。",
     Eng:"\"Therefore this is what the LORD says concerning the king of Assyria: \"He will not enter this city or shoot an arrow here. He will not come before it with shield or build a siege ramp against it.",
     Ind:"Sebab itu beginilah firman TUHAN mengenai raja Asyur: Ia tidak akan masuk ke kota ini dan tidak akan menembakkan panah ke sana; juga ia tidak akan mendatanginya dengan perisai dan tidak akan menimbun tanah menjadi tembok untuk mengepungnya."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memagari kota ini untuk menyelamatkannya, oleh karena Aku dan oleh karena Daud, hamba-Ku.\""
   },
   {Bible:"2Kings", Chapter:19, Verse:35, Page:1,
-    Kor:"<산헤립의 최후> ○그 날 밤에 주님의 천사가 나아가서, 앗시리아 군의 진영에서 십팔만 오천 명을 쳐죽였다. 다음날 아침이 밝았을 때에 그들은 모두 주검으로 발견되었다.",
+    Kor:"○그 날 밤에 주의 천사가 나아가서, 앗시리아 군의 진영에서 십팔만 오천 명을 쳐죽였다. 다음날 아침이 밝았을 때에, 그들은 모두 주검으로 발견되었다.",
     Chn:"当夜，耶和华的使者出去，在亚述营中杀了十八万五千人。清早有人起来，一看，都是死尸了。",
     Eng:"That night the angel of the LORD went out and put to death a hundred and eighty-five thousand men in the Assyrian camp. When the people got up the next morning--there were all the dead bodies!",
     Ind:"Maka pada malam itu keluarlah Malaikat TUHAN, lalu dibunuh-Nyalah seratus delapan puluh lima ribu orang di dalam perkemahan Asyur. Keesokan harinya pagi-pagi tampaklah, semuanya bangkai orang-orang mati belaka!"

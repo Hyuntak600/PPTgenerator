@@ -3,13 +3,13 @@
 BibleDB.ref("Mark",5,43);
 BibleDB.add([
   {Bible:"Mark", Chapter:5, Verse:1, Page:1,
-    Kor:"<귀신 들린 사람들을 고치시다(마 8:28-34; 눅 8:26-39)> 그들은 바다 건너편 a거라사 사람들의 지역으로 갔다.(a 다른 고대 사본들에는 '겔게사' 또는 '가다라' 또는 '가자라')",
+    Kor:"그들은 바다 건너편 거라사 사람들의 지역으로 갔다.",
     Chn:"他们来到海那边格拉森人的地方。",
     Eng:"They went across the lake to the region of the Gerasenes.",
     Ind:"Lalu sampailah mereka di seberang danau, di daerah orang Gerasa."
   },
   {Bible:"Mark", Chapter:5, Verse:2, Page:1,
-    Kor:"예수께서 배에서 내리시니, 곧 b악한 귀신 들린 사람 하나가 무덤 사이에서 나와서, 예수와 만났다.",
+    Kor:"예수께서 배에서 내리시니, 곧 악한 귀신 들린 사람 하나가 무덤 사이에서 나와서, 예수와 만났다.",
     Chn:"耶稣一下船，就有一个被污鬼附着的人从坟茔里出来迎着他。",
     Eng:"When Jesus got out of the boat, a man with an evil spirit came from the tombs to meet him.",
     Ind:"Baru saja Yesus turun dari perahu, datanglah seorang yang kerasukan roh jahat dari pekuburan menemui Dia."
@@ -39,55 +39,55 @@ BibleDB.add([
     Ind:"Ketika ia melihat Yesus dari jauh, berlarilah ia mendapatkan-Nya lalu menyembah-Nya,"
   },
   {Bible:"Mark", Chapter:5, Verse:7, Page:1,
-    Kor:"큰소리로 외쳤다. \"더 없이 높으신 하나님의 아들 예수님, 나와 무슨 상관이 있습니까? 하나님을 두고 애원합니다. 제발 나를 괴롭히지 마십시오.\"",
+    Kor:"큰소리로 \"가장 높으신 하나님의 아들 예수님, 나와 무슨 상관이 있습니까? 제발 나를 괴롭히지 마십시오\" 하고 외쳤다.",
     Chn:"大声呼叫说：「至高　神的儿子耶稣，我与你有什么相干？我指着　神恳求你，不要叫我受苦！」",
     Eng:"He shouted at the top of his voice, \"What do you want with me, Jesus, Son of the Most High God? Swear to God that you won't torture me!\"",
     Ind:"dan dengan keras ia berteriak: \"Apa urusan-Mu dengan aku, hai Yesus, Anak Allah Yang Mahatinggi? Demi Allah, jangan siksa aku!\""
   },
   {Bible:"Mark", Chapter:5, Verse:8, Page:1,
-    Kor:"그것은 예수께서 이미 그에게 \"b악한 귀신아, 그 사람에게서 나가라\" 하고 명하셨기 때문이다.",
+    Kor:"그것은 예수께서 이미 그에게 \"악한 귀신아, 그 사람에게서 나가거라\" 하고 명하셨기 때문이다.",
     Chn:"是因耶稣曾吩咐他说：「污鬼啊，从这人身上出来吧！」",
     Eng:"For Jesus had said to him, \"Come out of this man, you evil spirit!\"",
     Ind:"Karena sebelumnya Yesus mengatakan kepadanya: \"Hai engkau roh jahat! Keluar dari orang ini!\""
   },
   {Bible:"Mark", Chapter:5, Verse:9, Page:1,
-    Kor:"예수께서 그에게 물으셨다. \"네 이름이 무엇이냐?\" 그가 대답하였다. \"군대입니다. 우리의 수가 많기 때문에 붙여진 이름입니다.\"",
+    Kor:"예수께서 그에게 \"네 이름이 무엇이냐?\" 하고 물으시니, 그는 \"군대입니다. 우리의 수가 많기 때문에 붙은 이름입니다\" 하였다.",
     Chn:"耶稣问他说：「你名叫什么？」回答说：「我名叫『群』，因为我们多的缘故」；",
     Eng:"Then Jesus asked him, \"What is your name?\" \"My name is Legion,\" he replied, \"for we are many.\"",
     Ind:"Kemudian Ia bertanya kepada orang itu: \"Siapa namamu?\" Jawabnya: \"Namaku Legion, karena kami banyak.\""
   },
   {Bible:"Mark", Chapter:5, Verse:10, Page:1,
-    Kor:"그리고는, 자기들을 그 지역에서 내쫓지 말아 달라고 예수께 간청하였다.",
+    Kor:"그러고는, 자기들을 그 지역에서 쫓아내지 말아 달라고 예수께 간청하였다.",
     Chn:"就再三地求耶稣，不要叫他们离开那地方。",
     Eng:"And he begged Jesus again and again not to send them out of the area.",
     Ind:"Ia memohon dengan sangat supaya Yesus jangan mengusir roh-roh itu keluar dari daerah itu."
   },
   {Bible:"Mark", Chapter:5, Verse:11, Page:1,
-    Kor:"○마침 그 곳 산기슭에 놓아 기르는 큰 돼지 떼가 있었다.",
+    Kor:"마침 그 곳 산기슭에 놓아 기르는 큰 돼지 떼가 있었다.",
     Chn:"在那里山坡上，有一大群猪吃食；",
     Eng:"A large herd of pigs was feeding on the nearby hillside.",
     Ind:"Adalah di sana di lereng bukit sejumlah besar babi sedang mencari makan,"
   },
   {Bible:"Mark", Chapter:5, Verse:12, Page:1,
-    Kor:"귀신들이 예수께 간청하였다. \"우리를 돼지들에게로 보내셔서, 그것들 속으로 들어가게 해주십시오.\"",
+    Kor:"귀신들이 예수께 \"우리를 돼지들에게로 보내셔서, 그것들 속으로 들어가게 해주십시오\" 하고 간청하였다.",
     Chn:"鬼就央求耶稣说：「求你打发我们往猪群里，附着猪去。」",
     Eng:"The demons begged Jesus, \"Send us among the pigs; allow us to go into them.\"",
     Ind:"lalu roh-roh itu meminta kepada-Nya, katanya: \"Suruhlah kami pindah ke dalam babi-babi itu, biarkanlah kami memasukinya!\""
   },
   {Bible:"Mark", Chapter:5, Verse:13, Page:1,
-    Kor:"예수께서 허락하시니, b악한 귀신들이 나와서, 돼지들 속으로 들어갔다. 거의 이천 마리나 되는 돼지 떼가 바다 쪽으로 비탈을 내리달아, 바다에 빠져 죽었다.(b 그, '더러운')",
+    Kor:"예수께서 허락하시니, 악한 귀신들이 나와서, 돼지들 속으로 들어갔다. 거의 이천 마리나 되는 돼지 떼가 바다 쪽으로 비탈을 내리달아, 바다에 빠져 죽었다.",
     Chn:"耶稣准了他们，污鬼就出来，进入猪里去。于是那群猪闯下山崖，投在海里，淹死了。猪的数目约有二千。",
     Eng:"He gave them permission, and the evil spirits came out and went into the pigs. The herd, about two thousand in number, rushed down the steep bank into the lake and were drowned.",
     Ind:"Yesus mengabulkan permintaan mereka. Lalu keluarlah roh-roh jahat itu dan memasuki babi-babi itu. Kawanan babi yang kira-kira dua ribu jumlahnya itu terjun dari tepi jurang ke dalam danau dan mati lemas di dalamnya."
   },
   {Bible:"Mark", Chapter:5, Verse:14, Page:1,
-    Kor:"돼지를 치던 사람들이 달아나 읍내와 시골에 이 일을 알렸다. 사람들은 일어난 일이 무엇인지 보러 왔다.",
+    Kor:"○돼지를 치던 사람들이 달음질하여 읍내와 촌에 가서 이 사실을 알렸다. 사람들은 무슨 일이 일어났는가 보러 왔다.",
     Chn:"放猪的就逃跑了，去告诉城里和乡下的人。众人就来，要看是什么事。",
     Eng:"Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.",
     Ind:"Maka larilah penjaga-penjaga babi itu dan menceriterakan hal itu di kota dan di kampung-kampung sekitarnya. Lalu keluarlah orang untuk melihat apa yang terjadi."
   },
   {Bible:"Mark", Chapter:5, Verse:15, Page:1,
-    Kor:"그들은 예수에게 와서, 귀신 들린 사람 곧 c군대 귀신에 사로잡혔던 사람이 옷을 입고 제정신이 들어 앉아 있는 것을 보고, 두려워하였다.(c '레기온'. 로마 군대의 한 사단, 약 6,000명)",
+    Kor:"그들은 예수께로 와서, 귀신 들린 사람, 곧 군대 귀신에 사로잡혔던 사람이, 옷을 입고 제정신이 들어 앉아 있는 것을 보고 두려워하였다.",
     Chn:"他们来到耶稣那里，看见那被鬼附着的人，就是从前被群鬼所附的，坐着，穿上衣服，心里明白过来，他们就害怕。",
     Eng:"When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid.",
     Ind:"Mereka datang kepada Yesus dan melihat orang yang kerasukan itu duduk, sudah berpakaian dan sudah waras, orang yang tadinya kerasukan legion itu. Maka takutlah mereka."
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Pada waktu Yesus naik lagi ke dalam perahu, orang yang tadinya kerasukan setan itu meminta, supaya ia diperkenankan menyertai Dia."
   },
   {Bible:"Mark", Chapter:5, Verse:19, Page:1,
-    Kor:"그러나 예수께서는 허락하지 않으시고, 그에게 말씀하셨다. \"네 집으로 가서, 가족에게, 주님께서 너에게 큰 은혜를 베푸셔서 너를 불쌍히 여겨 주신 일을 이야기하여라.\"",
+    Kor:"그러나 예수께서는 허락하지 않으시고, 그에게 말씀하셨다. \"네 집으로 가서, 가족에게, 주께서 너에게 큰 은혜를 베푸셔서 너를 불쌍히 여기신 일을 이야기하여라.\"",
     Chn:"耶稣不许，却对他说：「你回家去，到你的亲属那里，将主为你所做的是何等大的事，是怎样怜悯你，都告诉他们。」",
     Eng:"Jesus did not let him, but said, \"Go home to your family and tell them how much the Lord has done for you, and how he has had mercy on you.\"",
     Ind:"Yesus tidak memperkenankannya, tetapi Ia berkata kepada orang itu: \"Pulanglah ke rumahmu, kepada orang-orang sekampungmu, dan beritahukanlah kepada mereka segala sesuatu yang telah diperbuat oleh Tuhan atasmu dan bagaimana Ia telah mengasihani engkau!\""
   },
   {Bible:"Mark", Chapter:5, Verse:20, Page:1,
-    Kor:"그는 떠나가서, 예수께서 자기에게 하신 일을 d데가볼리에 전파하였다. 그리하니 사람들이 다 놀랐다.(d '열 도시')",
+    Kor:"그는 떠나가서, 예수께서 자기에게 하신 일을 데가볼리에 전파하였다. 그러자 사람들이 다 놀랐다.",
     Chn:"那人就走了，在低加坡里传扬耶稣为他做了何等大的事，众人就都希奇。",
     Eng:"So the man went away and began to tell in the Decapolis how much Jesus had done for him. And all the people were amazed.",
     Ind:"Orang itupun pergilah dan mulai memberitakan di daerah Dekapolis segala apa yang telah diperbuat Yesus atas dirinya dan mereka semua menjadi heran."
   },
   {Bible:"Mark", Chapter:5, Verse:21, Page:1,
-    Kor:"<야이로의 딸과 혈루증 걸린 여자(마 9:18-26; 눅 8:40-56)> ○예수께서 배를 타고 맞은편으로 다시 건너가시니, 큰 무리가 예수께로 모여들었다. 예수께서 바닷가에 계시는데,",
+    Kor:"○예수께서 배를 타고 맞은편으로 다시 건너가시니, 큰 무리가 예수께로 모여들었다. 예수께서는 바닷가에 계셨는데,",
     Chn:"耶稣坐船又渡到那边去，就有许多人到他那里聚集；他正在海边上。",
     Eng:"When Jesus had again crossed over by boat to the other side of the lake, a large crowd gathered around him while he was by the lake.",
     Ind:"Sesudah Yesus menyeberang lagi dengan perahu, orang banyak berbondong-bondong datang lalu mengerumuni Dia. Sedang Ia berada di tepi danau,"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"datanglah seorang kepala rumah ibadat yang bernama Yairus. Ketika ia melihat Yesus, tersungkurlah ia di depan kaki-Nya"
   },
   {Bible:"Mark", Chapter:5, Verse:23, Page:1,
-    Kor:"간곡히 청하였다. \"내 어린 딸이 죽게 되었습니다. 오셔서, 그 아이에게 손을 얹어 고쳐 주시고, 살려 주십시오.\"",
+    Kor:"간곡히 청하였다. \"저의 어린 딸이 죽게 되었습니다. 오셔서, 그 아이에게 손을 얹어 고쳐 주시고, 살려 주십시오.\"",
     Chn:"再三地求他，说：「我的小女儿快要死了，求你去按手在她身上，使她痊愈，得以活了。」",
     Eng:"and pleaded earnestly with him, \"My little daughter is dying. Please come and put your hands on her so that she will be healed and live.\"",
     Ind:"dan memohon dengan sangat kepada-Nya: \"Anakku perempuan sedang sakit, hampir mati, datanglah kiranya dan letakkanlah tangan-Mu atasnya, supaya ia selamat dan tetap hidup.\""
   },
   {Bible:"Mark", Chapter:5, Verse:24, Page:1,
-    Kor:"그래서 예수께서 그와 함께 가셨다. ○큰 무리가 뒤따라오면서 예수를 밀어댔다.",
+    Kor:"그래서 예수께서 그와 함께 가셨다. ○큰 무리가 뒤따라 오면서 예수를 밀었다.",
     Chn:"耶稣就和他同去。 有许多人跟随拥挤他。",
     Eng:"So Jesus went with him. A large crowd followed and pressed around him.",
     Ind:"Lalu pergilah Yesus dengan orang itu. Orang banyak berbondong-bondong mengikuti Dia dan berdesak-desakan di dekat-Nya."
   },
   {Bible:"Mark", Chapter:5, Verse:25, Page:1,
-    Kor:"그런데 열두 해 동안 혈루증을 앓아 온 여자가 있었다.",
+    Kor:"그런데 열두 해 동안 혈루증으로 앓아 온 여자가 있었다.",
     Chn:"有一个女人，患了十二年的血漏，",
     Eng:"And a woman was there who had been subject to bleeding for twelve years.",
     Ind:"Adalah di situ seorang perempuan yang sudah dua belas tahun lamanya menderita pendarahan."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Ia telah berulang-ulang diobati oleh berbagai tabib, sehingga telah dihabiskannya semua yang ada padanya, namun sama sekali tidak ada faedahnya malah sebaliknya keadaannya makin memburuk."
   },
   {Bible:"Mark", Chapter:5, Verse:27, Page:1,
-    Kor:"이 여자가 예수의 소문을 듣고서, 뒤에서 무리 가운데로 끼여 들어와서는, 예수의 옷에 손을 대었다.",
+    Kor:"이 여자가 예수의 소문을 듣고서, 뒤에서 무리 가운데로 끼어 들어와서는, 예수의 옷에 손을 대었다.",
     Chn:"她听见耶稣的事，就从后头来，杂在众人中间，摸耶稣的衣裳，",
     Eng:"When she heard about Jesus, she came up behind him in the crowd and touched his cloak,",
     Ind:"Dia sudah mendengar berita-berita tentang Yesus, maka di tengah-tengah orang banyak itu ia mendekati Yesus dari belakang dan menjamah jubah-Nya."
   },
   {Bible:"Mark", Chapter:5, Verse:28, Page:1,
-    Kor:"(그 여자는 \"내가 그의 옷에 손을 대기만 하여도 나을 터인데!\" 하고 e생각하고 있었던 것이다.)(e 그, '말하고')",
+    Kor:"(그 여자는 \"내가 그의 옷에 손을 대기만 하여도 나을 터인데!\" 하고 생각 했던 것이다.)",
     Chn:"意思说：「我只摸他的衣裳，就必痊愈。」",
     Eng:"because she thought, \"If I just touch his clothes, I will be healed.\"",
     Ind:"Sebab katanya: \"Asal kujamah saja jubah-Nya, aku akan sembuh.\""
   },
   {Bible:"Mark", Chapter:5, Verse:29, Page:1,
-    Kor:"그래서 곧 출혈의 근원이 마르니, 그 여자는 몸이 나은 것을 느꼈다.",
+    Kor:"그런 다음에 곧 출혈의 근원이 마르니, 그 여자는 몸이 나은 것을 느꼈다.",
     Chn:"于是她血漏的源头立刻干了；她便觉得身上的灾病好了。",
     Eng:"Immediately her bleeding stopped and she felt in her body that she was freed from her suffering.",
     Ind:"Seketika itu juga berhentilah pendarahannya dan ia merasa, bahwa badannya sudah sembuh dari penyakitnya."
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Maka kata-Nya kepada perempuan itu: \"Hai anak-Ku, imanmu telah menyelamatkan engkau. Pergilah dengan selamat dan sembuhlah dari penyakitmu!\""
   },
   {Bible:"Mark", Chapter:5, Verse:35, Page:1,
-    Kor:"○예수께서 말씀을 계속하고 계시는데, 회당장의 집에서 사람들이 와서, 회당장에게 말하였다. \"따님이 죽었습니다. 이제 선생님을 더 괴롭혀서 무엇하겠습니까?\"",
+    Kor:"○예수께서 말씀을 계속하고 계시는데, 회당장의 집에서 사람들이 와서, 회당장에게 \"따님이 죽었습니다. 이제 선생님을 더 괴롭혀서 무엇하겠습니까?\" 하고 말하였다.",
     Chn:"还说话的时候，有人从管会堂的家里来，说：「你的女儿死了，何必还劳动先生呢？」",
     Eng:"While Jesus was still speaking, some men came from the house of Jairus, the synagogue ruler. \"Your daughter is dead,\" they said. \"Why bother the teacher any more?\"",
     Ind:"Ketika Yesus masih berbicara datanglah orang dari keluarga kepala rumah ibadat itu dan berkata: \"Anakmu sudah mati, apa perlunya lagi engkau menyusah-nyusahkan Guru?\""
   },
   {Bible:"Mark", Chapter:5, Verse:36, Page:1,
-    Kor:"예수께서 이 말을 곁에서 들으시고서, 회당장에게 말씀하셨다. \"두려워하지 말고 믿기만 하여라.\"",
+    Kor:"예수께서 이 말을 곁에서 들으시고서, 회당장에게 \"두려워하지 말고 믿기만 하여라\" 하고 말씀하셨다.",
     Chn:"耶稣听见所说的话，就对管会堂的说：「不要怕，只要信！」",
     Eng:"Ignoring what they said, Jesus told the synagogue ruler, \"Don't be afraid; just believe.\"",
     Ind:"Tetapi Yesus tidak menghiraukan perkataan mereka dan berkata kepada kepala rumah ibadat: \"Jangan takut, percaya saja!\""
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Mereka tiba di rumah kepala rumah ibadat, dan di sana dilihat-Nya orang-orang ribut, menangis dan meratap dengan suara nyaring."
   },
   {Bible:"Mark", Chapter:5, Verse:39, Page:1,
-    Kor:"들어가셔서, 그들에게 말씀하셨다. \"어찌하여 떠들며 울고 있느냐? 그 아이는 죽은 것이 아니라 자고 있다.\"",
+    Kor:"들어가셔서, 그들에게 말씀하시기를 \"어찌하여 떠들며 울고 있느냐? 그 아이는 죽은 것이 아니라 자고 있다\" 하셨다.",
     Chn:"进到里面，就对他们说：「为什么乱嚷哭泣呢？孩子不是死了，是睡着了。」",
     Eng:"He went in and said to them, \"Why all this commotion and wailing? The child is not dead but asleep.\"",
     Ind:"Sesudah Ia masuk Ia berkata kepada orang-orang itu: \"Mengapa kamu ribut dan menangis? Anak ini tidak mati, tetapi tidur!\""
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Tetapi mereka menertawakan Dia. Maka diusir-Nya semua orang itu, lalu dibawa-Nya ayah dan ibu anak itu dan mereka yang bersama-sama dengan Dia masuk ke kamar anak itu."
   },
   {Bible:"Mark", Chapter:5, Verse:41, Page:1,
-    Kor:"그리고 아이의 손을 잡으시고 말씀하셨다. \"달리다굼!\" (이는 번역하면 \"소녀야, 내가 네게 말한다. 일어나거라\" 하는 말이다.)",
+    Kor:"그리고 아이의 손을 잡으시고 \"달리다굼!\" 하고 말씀하셨다. (번역하면 \"소녀야, 내가 네게 말한다. 일어나거라\" 하는 말이다.)",
     Chn:"就拉着孩子的手，对她说：「大利大，古米！」（翻出来就是说：「闺女，我吩咐你起来！」）",
     Eng:"He took her by the hand and said to her, \"Talitha koum!\" (which means, \"Little girl, I say to you, get up!\").",
     Ind:"Lalu dipegang-Nya tangan anak itu, kata-Nya: \"Talita kum,\" yang berarti: \"Hai anak, Aku berkata kepadamu, bangunlah!\""

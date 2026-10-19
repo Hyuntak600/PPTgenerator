@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",39,18);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:39, Verse:1, Page:1,
-    Kor:"<예루살렘의 함락(왕하 25:1-12; 렘 52:4-16)> 유다 왕 시드기야 제 구년 열째 달에 바빌로니아 왕 느부갓네살이 그의 모든 군대를 거느리고 예루살렘을 치러 올라와서, 도성을 포위하였는데,",
+    Kor:"유다 왕 시드기야 제 구년 열째 달에 바빌로니아 왕 느부갓네살이 그의 모든 군대를 거느리고 예루살렘을 치러 올라와서, 도성을 포위하였는데,",
     Chn:"犹大王西底家第九年十月，巴比伦王尼布甲尼撒率领全军来围困耶路撒冷。",
     Eng:"In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army and laid siege to it.",
     Ind:"Ketika Yerusalem direbut--dalam tahun yang kesembilan pemerintahan Zedekia, raja Yehuda, dalam bulan yang kesepuluh, telah datang Nebukadnezar, raja Babel, beserta segenap tentaranya untuk mengepung Yerusalem;"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"dalam tahun yang kesebelas pemerintahan Zedekia, dalam bulan yang keempat, pada tanggal sembilan bulan itu, terbelahlah tembok kota itu--"
   },
   {Bible:"Jeremiah", Chapter:39, Verse:3, Page:1,
-    Kor:"○(바빌로니아 왕의 고관들이 모두 성 안으로 들어와서 '중앙 대문'에 앉았다. 네르갈사레셀과 삼갈르보와 살스김 곧 랍사리스와 다른 네르갈사레셀 곧 랍막과 바빌로니아 왕이 보낸 다른 고관들이, 모두 앉아 있었다.)",
+    Kor:"(바빌로니아 왕의 고관들이 모두 성 안으로 들어와서 '중앙 대문'에 앉았다. 네르갈사레셀과 삼갈르보와 살스김 곧 랍사리스와 다른 네르갈사레셀 곧 랍막과 바빌로니아 왕이 보낸 다른 고관들이, 모두 앉아 있었다.)",
     Chn:"耶路撒冷被攻取的时候，巴比伦王的首领尼甲·沙利薛、三甲·尼波、撒西金—拉撒力、尼甲·沙利薛—拉墨，并巴比伦王其余的一切首领都来坐在中门。",
     Eng:"Then all the officials of the king of Babylon came and took seats in the Middle Gate: Nergal-Sharezer of Samgar, Nebo-Sarsekim a chief officer, Nergal-Sharezer a high official and all the other officials of the king of Babylon.",
     Ind:"maka datanglah para perwira raja Babel itu, lalu mengambil tempat di pintu gerbang tengah, mereka itu ialah Nergal-Sarezer, pembesar dari Sin-Magir, panglima, dan Nebusyazban, kepala istana, dan para perwira lainnya dari raja Babel."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Melihat mereka semuanya maka Zedekia, raja Yehuda, dengan semua tentara melarikan diri, meninggalkan kota itu pada waktu malam dengan mengambil jalan taman raja, dengan melalui pintu gerbang antara kedua tembok; kemudian mereka berjalan menuju Araba-Yordan."
   },
   {Bible:"Jeremiah", Chapter:39, Verse:5, Page:1,
-    Kor:"그러나 바빌로니아 군대가 그들을 추격하여, 여리고 평원에서 시드기야를 사로잡아, 하맛 땅의 리블라로 끌고 가서, 바빌로니아 왕 느부갓네살 앞에 세워 놓았다. 바빌로니아 왕이 시드기야를 신문하였다.",
+    Kor:"그러나 바빌로니아 군대가 그들을 추격하여, 여리고 평원에서 시드기야를 사로잡아, 하맛 땅의 립나로 끌고 가서, 바빌로니아 왕 느부갓네살 앞에 세워 놓았다. 바빌로니아 왕이 시드기야를 신문하였다.",
     Chn:"迦勒底的军队追赶他们，在耶利哥的平原追上西底家，将他拿住，带到哈马地的利比拉、巴比伦王尼布甲尼撒那里；尼布甲尼撒就审判他。",
     Eng:"But the Babylonian army pursued them and overtook Zedekiah in the plains of Jericho. They captured him and took him to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him.",
     Ind:"Tetapi tentara Kasdim itu mengejar mereka dan menyusul Zedekia di dataran Yerikho; mereka menangkap dia dan membawa dia ke Ribla di tanah Hamat, kepada Nebukadnezar, raja Babel, yang menjatuhkan hukuman atas dia."
   },
   {Bible:"Jeremiah", Chapter:39, Verse:6, Page:1,
-    Kor:"바빌로니아 왕은 리블라에서 시드기야의 아들들을 시드기야가 보는 앞에서 처형하였다. 바빌로니아 왕은 유다의 귀족들도 모두 처형하였다.",
+    Kor:"바빌로니아 왕은 립나에서 시드기야의 아들들을 시드기야가 보는 앞에서 처형하였다. 바빌로니아 왕은 유다의 귀족들도 모두 처형하였다.",
     Chn:"巴比伦王在利比拉、西底家眼前杀了他的众子，又杀了犹大的一切贵胄，",
     Eng:"There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes and also killed all the nobles of Judah.",
     Ind:"Raja Babel menyuruh menyembelih anak-anak Zedekia di depan matanya di Ribla; juga semua pembesar Yehuda disembelih oleh raja Babel."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Tetapi sebagian dari rakyat, yakni orang-orang miskin yang tidak mempunyai apa-apa, ditinggalkan di tanah Yehuda oleh Nebuzaradan, kepala pasukan pengawal. Pada waktu itu juga diberikannyalah kebun-kebun anggur dan ladang-ladang kepada mereka."
   },
   {Bible:"Jeremiah", Chapter:39, Verse:11, Page:1,
-    Kor:"<예레미야의 석방> ○바빌로니아 왕 느부갓네살은 근위대장 느부사라단에게 예레미야의 처우를 두고, 이렇게 명령하였다.",
+    Kor:"○바빌로니아 왕 느부갓네살은 근위대장 느부사라단에게 예레미야의 처우를 두고, 다음과 같이 명령하였다.",
     Chn:"巴比伦王尼布甲尼撒提到耶利米，嘱咐护卫长尼布撒拉旦说：",
     Eng:"Now Nebuchadnezzar king of Babylon had given these orders about Jeremiah through Nebuzaradan commander of the imperial guard:",
     Ind:"Mengenai Yeremia, Nebukadnezar, raja Babel, telah memberi perintah dengan perantaraan Nebuzaradan, kepala pasukan pengawal, bunyinya:"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"mereka menyuruh mengambil Yeremia dari pelataran penjagaan, lalu menyerahkannya kepada Gedalya bin Ahikam bin Safan untuk membebaskannya, supaya pulang ke rumah. Demikianlah Yeremia tinggal di tengah-tengah rakyat."
   },
   {Bible:"Jeremiah", Chapter:39, Verse:15, Page:1,
-    Kor:"<주님께서 에벳멜렉에게 구원을 약속하시다> ○예레미야가 여전히 근위대 뜰 안에 갇혀 있을 때에, 주님께서 그에게 이렇게 말씀하셨다.",
+    Kor:"○예레미야가 여전히 근위대 뜰 안에 갇혀 있을 때에, 주께서 그에게 다음과 같이 말씀하셨다.",
     Chn:"耶利米还囚在护卫兵院中的时候，耶和华的话临到他说：",
     Eng:"While Jeremiah had been confined in the courtyard of the guard, the word of the LORD came to him:",
     Ind:"Selagi Yeremia masih terkurung di pelataran penjagaan, firman TUHAN datang kepadanya, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:39, Verse:16, Page:1,
-    Kor:"\"너는 저 에티오피아 사람 에벳멜렉에게 가서, 이와 같이 전하여라. '나 만군의 주, 이스라엘의 하나님이 말한다. 보아라, 내가 이 도성에 복이 아니라 재앙을 내리겠다고 선포하였는데, 이제 내가 한 그 말을 이루겠다. 이 일이 바로 그 날에, 네가 보는 앞에서 일어날 것이지만,",
+    Kor:"\"너는 저 에티오피아 사람 에벳멜렉에게 가서, 이와 같이 전하여라. '나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 보아라, 내가 이 도성에 복이 아니라 재앙을 내리겠다고 선포하였는데, 이제 내가 한 그 말을 이루겠다. 이 일이 바로 그 날에, 네가 보는 앞에서 일어날 것이지만,",
     Chn:"「你去告诉古实人以伯·米勒说，万军之耶和华—以色列的　神如此说：我说降祸不降福的话必临到这城，到那时必在你面前成就了。",
     Eng:"\"Go and tell Ebed-Melech the Cushite, 'This is what the LORD Almighty, the God of Israel, says: I am about to fulfill my words against this city through disaster, not prosperity. At that time they will be fulfilled before your eyes.",
     Ind:"\"Pergilah kepada Ebed-Melekh, orang Etiopia itu dan katakanlah kepadanya: Beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, firman-Ku terhadap kota ini akan Kulaksanakan untuk kemalangan dan bukan untuk kebaikannya, dan semuanya itu akan terjadi di depan matamu pada waktu itu juga."

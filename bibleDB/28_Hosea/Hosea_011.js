@@ -3,7 +3,7 @@
 BibleDB.ref("Hosea",11,12);
 BibleDB.add([
   {Bible:"Hosea", Chapter:11, Verse:1, Page:1,
-    Kor:"<하나님이 반역한 백성을 사랑하시다> \"이스라엘이 어린 아이일 때에, 내가 그를 사랑하여 내 아들을 이집트에서 불러냈다.",
+    Kor:"\"이스라엘이 어린 아이일 때에, 내가 그를 사랑하여 내 아들을 이집트에서 불러냈다.",
     Chn:"以色列年幼的时候，我爱他， 就从埃及召出我的儿子来。",
     Eng:"\"When Israel was a child, I loved him, and out of Egypt I called my son.",
     Ind:"Ketika Israel masih muda, Kukasihi dia, dan dari Mesir Kupanggil anak-Ku itu."
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Aku menarik mereka dengan tali kesetiaan, dengan ikatan kasih. Bagi mereka Aku seperti orang yang mengangkat kuk dari tulang rahang mereka; Aku membungkuk kepada mereka untuk memberi mereka makan."
   },
   {Bible:"Hosea", Chapter:11, Verse:5, Page:1,
-    Kor:"a이스라엘은 이집트 땅으로 되돌아가게 될 것이다. 이스라엘은 앗시리아의 지배를 받게 될 것이다. 그들이 나에게로 돌아오기를 거부하기 때문이다. (a 또는 '이스라엘이 내게로 돌아오기를 거부하였으니 그들이 이집트로 되돌아가지 않겠느냐? 앗시리아가 그들을 지배하지 않겠느냐?')",
+    Kor:"이스라엘은 이집트 땅으로 되돌아가게 될 것이다. 이스라엘은 앗시리아의 지배를 받게 될 것이다. 그들이 나에게로 돌아오기를 거부하기 때문이다.",
     Chn:"他们必不归回埃及地， 亚述人却要作他们的王， 因他们不肯归向我。",
     Eng:"\"Will they not return to Egypt and will not Assyria rule over them because they refuse to repent?",
     Ind:"Mereka harus kembali ke tanah Mesir, dan Asyur akan menjadi raja mereka, sebab mereka menolak untuk bertobat."
   },
   {Bible:"Hosea", Chapter:11, Verse:6, Page:1,
-    Kor:"전쟁이 이스라엘의 성읍을 휩쓸고 지나갈 때에, b성문 빗장이 부서질 것이다. 그들이 헛된 계획을 세웠으니 칼이 그들을 모조리 삼킬 것이다. (b 또는 '그들의 제사장들이 죽어 없어지고')",
+    Kor:"전쟁이 이스라엘의 성읍을 휩쓸고 지나갈 때에, 성문 빗장이 부서질 것이다. 그들이 헛된 계획을 세웠으니 칼이 그들을 모조리 삼킬 것이다.",
     Chn:"刀剑必临到他们的城邑， 毁坏门闩，把人吞灭， 都因他们随从自己的计谋。",
     Eng:"Swords will flash in their cities, will destroy the bars of their gates and put an end to their plans.",
     Ind:"Pedang akan mengamuk di kota-kota mereka, akan memusnahkan palang-palang pintu mereka, dan akan memakan mereka di benteng-benteng mereka."
   },
   {Bible:"Hosea", Chapter:11, Verse:7, Page:1,
-    Kor:"내 백성이 끝끝내 나를 배반하고, c바알을 불러 호소하지만, 그가 그들을 일으켜 세우지 못할 것이다. (c 또는 '가장 높은 자')",
+    Kor:"내 백성이 끝끝내 나를 배반하고, 바알을 불러 호소하지만, 그가 그들을 일으켜 세우지 못할 것이다.",
     Chn:"我的民偏要背道离开我； 众先知虽然招呼他们归向至上的主， 却无人尊崇主。",
     Eng:"My people are determined to turn from me. Even if they call to the Most High, he will by no means exalt them.",
     Ind:"Umat-Ku betah dalam membelakangi Aku; mereka memanggil kepada Baal dan berhenti meninggikan nama-Ku."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Aku tidak akan melaksanakan murka-Ku yang bernyala-nyala itu, tidak akan membinasakan Efraim kembali. Sebab Aku ini Allah dan bukan manusia, Yang Kudus di tengah-tengahmu, dan Aku tidak datang untuk menghanguskan."
   },
   {Bible:"Hosea", Chapter:11, Verse:10, Page:1,
-    Kor:"주님께서 사자처럼 부르짖으신다. 이스라엘 사람들이 주님의 뒤를 따라 진군한다. 주님께서 친히 소리 치실 때에, 그의 아들딸들이 서쪽에서 날개 치며 빨리 날아올 것이다.",
+    Kor:"주께서 사자처럼 부르짖으신다. 이스라엘 사람들이 주의 뒤를 따라 진군한다. 주께서 친히 소리 치실 때에, 그의 아들딸들이 서쪽에서 날개 치며 빨리 날아올 것이다.",
     Chn:"耶和华必如狮子吼叫， 子民必跟随他。 他一吼叫， 他们就从西方急速而来。",
     Eng:"They will follow the LORD; he will roar like a lion. When he roars, his children will come trembling from the west.",
     Ind:"Mereka akan mengikuti TUHAN, Ia akan mengaum seperti singa. Sungguh, Ia akan mengaum, maka anak-anak akan datang dengan gemetar dari barat,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"seperti burung dengan gemetar datang dari Mesir, dan seperti merpati dari tanah Asyur, lalu Aku akan menempatkan mereka lagi di rumah-rumah mereka, demikianlah firman TUHAN."
   },
   {Bible:"Hosea", Chapter:11, Verse:12, Page:1,
-    Kor:"<이스라엘과 유다가 규탄을 받다> 에브라임은 거짓말로 나를 에워싸며, 이스라엘 가문은 온갖 음모로 나를 옥죄고 있다. 유다 족속도 신실하고 거룩하신 하나님을 거역하고 있다.",
+    Kor:"에브라임은 거짓말로 나를 에워싸며, 이스라엘 가문은 온갖 음모로 나를 옥죄고 있다. 유다 족속도 신실하고 거룩하신 하나님을 거역하고 있다.",
     Chn:"以法莲用谎话， 以色列家用诡计围绕我； 犹大却靠　神掌权， 向圣者有忠心。",
     Eng:"Ephraim has surrounded me with lies, the house of Israel with deceit. And Judah is unruly against God, even against the faithful Holy One.",
     Ind:"(12-1) Dengan kebohongan Aku telah dikepung oleh Efraim, dengan tipu oleh kaum Israel; sedang Yehuda menghilang dari dekat Allah, dari dekat Yang Mahakudus yang setia."

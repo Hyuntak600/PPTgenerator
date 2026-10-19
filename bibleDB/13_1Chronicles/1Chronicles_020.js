@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",20,8);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:20, Verse:1, Page:1,
-    Kor:"<다윗의 랍바 점령(삼하 12:26-31)> 그 다음해 봄에, 왕들이 출전하는 때가 되자, 요압이 병력을 이끌고 나가서 암몬 사람의 땅을 무찌르고, 더 가서 랍바를 포위하였다. 그러나 다윗은 예루살렘에 머물러 있었다. 요압이 랍바를 쳐서 함락시켰다.",
+    Kor:"그 다음해 봄에, 왕들이 출전하는 때가 되자, 요압이 병력을 이끌고 나가서 암몬 사람의 땅을 무찌르고, 더 가서 랍바를 포위하였다. 그러나 다윗은 예루살렘에 머물러 있었다. 요압이 랍바를 쳐서 함락시켰다.",
     Chn:"过了一年，到列王出战的时候，约押率领军兵毁坏亚扪人的地，围攻拉巴；大卫仍住在耶路撒冷。约押攻打拉巴，将城倾覆。",
     Eng:"In the spring, at the time when kings go off to war, Joab led out the armed forces. He laid waste the land of the Ammonites and went to Rabbah and besieged it, but David remained in Jerusalem. Joab attacked Rabbah and left it in ruins.",
     Ind:"Pada pergantian tahun, pada waktu raja-raja biasanya maju berperang, maka Yoab membawa keluar bala tentaranya, lalu ia memusnahkan negeri bani Amon, kemudian ia maju dan mengepung kota Raba, sedang Daud sendiri tinggal di Yerusalem. Yoab memukul kalah Raba dan meruntuhkannya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Penduduk kota itu diangkutnya dan dipaksanya bekerja dengan gergaji, penggerek besi dan kapak. Demikianlah juga diperlakukan Daud segala kota bani Amon. Sesudah itu pulanglah Daud dengan seluruh tentara ke Yerusalem."
   },
   {Bible:"1Chronicles", Chapter:20, Verse:4, Page:1,
-    Kor:"<블레셋 거인과 싸우다(삼하 21:15-22)> ○그 뒤에 게셀에서 블레셋 사람과 전쟁이 벌어졌다. 그 때에 후사 사람 십브개가 거인족의 자손 십배를 쳐죽이자, 블레셋 사람이 항복하였다.",
+    Kor:"○그 뒤에 게셀에서 블레셋 사람과 전쟁이 벌어졌다. 그 때에 후사 사람 십브개가 거인족의 자손 십배를 쳐죽이자, 블레셋 사람이 항복하였다.",
     Chn:"后来，以色列人在基色与非利士人打仗。户沙人西比该杀了伟人的一个儿子细派，非利士人就被制伏了。",
     Eng:"In the course of time, war broke out with the Philistines, at Gezer. At that time Sibbecai the Hushathite killed Sippai, one of the descendants of the Rephaites, and the Philistines were subjugated.",
     Ind:"Sesudah itu timbullah pertempuran melawan orang Filistin di Gezer; pada waktu itu Sibkhai, orang Husa, memukul kalah Sipai, seorang dari keturunan raksasa, dan mereka ditundukkan."

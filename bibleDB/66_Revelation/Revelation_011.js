@@ -3,13 +3,13 @@
 BibleDB.ref("Revelation",11,19);
 BibleDB.add([
   {Bible:"Revelation", Chapter:11, Verse:1, Page:1,
-    Kor:"<두 증인> 나는 지팡이와 같은 측량자 하나를 받았는데, 그 때에 이런 말씀이 내게 들려 왔습니다. \"일어서서 하나님의 성전과 제단을 측량하고, 성전에서 예배하는 사람들을 세어라.",
+    Kor:"나는 지팡이와 같은 측량자 하나를 받았는데, 그 때에 이런 말씀이 내게 들려왔습니다. \"일어서서 하나님의 성전과 제단을 측량하고, 성전 안에서 예배하는 사람들을 세어라.",
     Chn:"有一根苇子赐给我，当作量度的杖；且有话说：「起来！将　神的殿和祭坛，并在殿中礼拜的人都量一量。",
     Eng:"I was given a reed like a measuring rod and was told, \"Go and measure the temple of God and the altar, and count the worshipers there.",
     Ind:"Kemudian diberikanlah kepadaku sebatang buluh, seperti tongkat pengukur rupanya, dengan kata-kata yang berikut: \"Bangunlah dan ukurlah Bait Suci Allah dan mezbah dan mereka yang beribadah di dalamnya."
   },
   {Bible:"Revelation", Chapter:11, Verse:2, Page:1,
-    Kor:"그러나 그 성전의 바깥 뜰은 측량하지 말고, 내버려 두어라. 그것은 이방 사람들에게 내주었기 때문이다. 그들이 그 거룩한 도성을 마흔두 달 동안 짓밟을 것이다.",
+    Kor:"그러나 그 성전의 바깥 뜰은 측량하지 말고, 내버려 두어라. 그것은 이방 사람들에게 내주었기 때문이다. 그들이 그 거룩한 도시를 마흔두 달 동안 짓밟을 것이다.",
     Chn:"只是殿外的院子要留下不用量，因为这是给了外邦人的；他们要践踏圣城四十二个月。",
     Eng:"But exclude the outer court; do not measure it, because it has been given to the Gentiles. They will trample on the holy city for 42 months.",
     Ind:"Tetapi kecualikan pelataran Bait Suci yang di sebelah luar, janganlah engkau mengukurnya, karena ia telah diberikan kepada bangsa-bangsa lain dan mereka akan menginjak-injak Kota Suci empat puluh dua bulan lamanya.\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memberi tugas kepada dua saksi-Ku, supaya mereka bernubuat sambil berkabung, seribu dua ratus enam puluh hari lamanya."
   },
   {Bible:"Revelation", Chapter:11, Verse:4, Page:1,
-    Kor:"그들은 이 세상을 다스리시는 주님 앞에 서 있는 올리브 나무 두 그루요, 촛대 두 개입니다.",
+    Kor:"○그들은 이 세상을 다스리시는 주님 앞에 서 있는 올리브 나무 두 그루요, 촛대 두 개입니다.",
     Chn:"他们就是那两棵橄榄树，两个灯台，立在世界之主面前的。",
     Eng:"These are the two olive trees and the two lampstands that stand before the Lord of the earth.",
     Ind:"Mereka adalah kedua pohon zaitun dan kedua kaki dian yang berdiri di hadapan Tuhan semesta alam."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Mereka mempunyai kuasa menutup langit, supaya jangan turun hujan selama mereka bernubuat; dan mereka mempunyai kuasa atas segala air untuk mengubahnya menjadi darah, dan untuk memukul bumi dengan segala jenis malapetaka, setiap kali mereka menghendakinya."
   },
   {Bible:"Revelation", Chapter:11, Verse:7, Page:1,
-    Kor:"그러나 그들이 증언을 마칠 때에, a아비소스에서 올라오는 짐승이 그들과 싸워서 이기고, 그들을 죽일 것입니다.(a '밑바닥이 없는 깊은 곳'을 일컫는 그리스어)",
+    Kor:"○그러나 그들이 증언을 마칠 때에, 아비소스로부터 올라오는 짐승이 그들과 싸워서 이기고, 그들을 죽일 것입니다.",
     Chn:"他们作完见证的时候，那从无底坑里上来的兽必与他们交战，并且得胜，把他们杀了。",
     Eng:"Now when they have finished their testimony, the beast that comes up from the Abyss will attack them, and overpower and kill them.",
     Ind:"Dan apabila mereka telah menyelesaikan kesaksian mereka, maka binatang yang muncul dari jurang maut, akan memerangi mereka dan mengalahkan serta membunuh mereka."
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Dan orang-orang dari segala bangsa dan suku dan bahasa dan kaum, melihat mayat mereka tiga setengah hari lamanya dan orang-orang itu tidak memperbolehkan mayat mereka dikuburkan."
   },
   {Bible:"Revelation", Chapter:11, Verse:10, Page:1,
-    Kor:"그리고 땅 위에 사는 사람들이 그 시체를 두고 기뻐하고 즐거워하고, 서로 선물을 보낼 것입니다. 그것은 이 두 예언자가 땅 위에 사는 사람들을 괴롭혔기 때문입니다.",
+    Kor:"그리고 땅 위에 사는 사람들이 그 시체를 놓고 기뻐하고 즐거워하고, 서로 선물을 보낼 것입니다. 그것은 이 두 예언자가 땅 위에 사는 사람들을 괴롭혔기 때문입니다.",
     Chn:"住在地上的人就为他们欢喜快乐，互相馈送礼物，因这两位先知曾叫住在地上的人受痛苦。",
     Eng:"The inhabitants of the earth will gloat over them and will celebrate by sending each other gifts, because these two prophets had tormented those who live on the earth.",
     Ind:"Dan mereka yang diam di atas bumi bergembira dan bersukacita atas mereka itu dan berpesta dan saling mengirim hadiah, karena kedua nabi itu telah merupakan siksaan bagi semua orang yang diam di atas bumi."
   },
   {Bible:"Revelation", Chapter:11, Verse:11, Page:1,
-    Kor:"그러나 사흘 반이 지난 뒤에, 하나님에게서 b생명의 기운이 나와서 그들 속으로 들어가니, 그들이 제 발로 일어섰습니다. 그것을 목격한 사람들은 큰 두려움에 사로잡혔습니다.(b 또는 '영이')",
+    Kor:"○그러나 사흘 반이 지난 뒤에, 생명의 기운이 하나님께로부터 나와서 그들 속으로 들어가니, 그들이 제 발로 일어섰습니다. 그것을 목격한 사람들은 큰 두려움에 사로잡혔습니다.",
     Chn:"过了这三天半，有生气从　神那里进入他们里面，他们就站起来；看见他们的人甚是害怕。",
     Eng:"But after the three and a half days a breath of life from God entered them, and they stood on their feet, and terror struck those who saw them.",
     Ind:"Tiga setengah hari kemudian masuklah roh kehidupan dari Allah ke dalam mereka, sehingga mereka bangkit dan semua orang yang melihat mereka menjadi sangat takut."
   },
   {Bible:"Revelation", Chapter:11, Verse:12, Page:1,
-    Kor:"그 두 예언자가, 하늘로부터 c자기들에게로 \"이리로 올라오너라\" 하는 큰 소리가 울려오는 것을 듣고, 구름을 타고 하늘로 올라가니, 그들의 원수들이 그것을 지켜 보았습니다.(c 다른 고대 사본들에는 '내게로')",
+    Kor:"그 두 예언자가 \"이리로 올라오너라\" 하는 큰소리가 하늘로부터 자기들에게로 울려오는 것을 듣고, 구름을 타고 하늘로 올라가니, 그들의 원수들이 그것을 지켜 보았습니다.",
     Chn:"两位先知听见有大声音从天上来，对他们说：「上到这里来。」他们就驾着云上了天，他们的仇敌也看见了。",
     Eng:"Then they heard a loud voice from heaven saying to them, \"Come up here.\" And they went up to heaven in a cloud, while their enemies looked on.",
     Ind:"Dan orang-orang itu mendengar suatu suara yang nyaring dari sorga berkata kepada mereka: \"Naiklah ke mari!\" Lalu naiklah mereka ke langit, diselubungi awan, disaksikan oleh musuh-musuh mereka."
   },
   {Bible:"Revelation", Chapter:11, Verse:13, Page:1,
-    Kor:"바로 그 때에 큰 지진이 일어나서, 그 도시의 십분의 일이 무너졌는데, 그 지진으로 사람이 칠천 명이나 죽었습니다. 그리고 살아 남은 사람은 두려움에 싸여서, 하늘에 계신 하나님께 영광을 돌렸습니다.",
+    Kor:"그 시각에 큰 지진이 일어나서, 그 도시의 십분의 일이 무너졌는데, 그 지진으로 사람이 칠천 명이나 죽었습니다. 그리고 살아 남은 사람은 두려움에 싸여서, 하늘에 계신 하나님께 영광을 돌렸습니다.",
     Chn:"正在那时候，地大震动，城就倒塌了十分之一，因地震而死的有七千人；其余的都恐惧，归荣耀给天上的　神。",
     Eng:"At that very hour there was a severe earthquake and a tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the survivors were terrified and gave glory to the God of heaven.",
     Ind:"Pada saat itu terjadilah gempa bumi yang dahsyat dan sepersepuluh bagian dari kota itu rubuh, dan tujuh ribu orang mati oleh gempa bumi itu dan orang-orang lain sangat ketakutan, lalu memuliakan Allah yang di sorga."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Celaka yang kedua sudah lewat: lihatlah, celaka yang ketiga segera menyusul."
   },
   {Bible:"Revelation", Chapter:11, Verse:15, Page:1,
-    Kor:"<일곱째 나팔> ○일곱째 천사가 나팔을 불었습니다. 그 때에 하늘에서 큰 소리가 났습니다.  \"세상 나라는 우리 주님의 것이 되고, d그리스도의 것이 되었다. 주님께서 영원히 다스리실 것이다.\" (d 또는 '메시아')",
+    Kor:"○일곱째 천사가 나팔을 불었습니다. 그 때에 하늘에서 큰소리가 났습니다. \"세상 나라는 우리 주님의 것이 되고, 그리스도의 것이 되었다. 주께서 영원히 다스리실 것이다.\"",
     Chn:"第七位天使吹号，天上就有大声音说： 世上的国成了我主和主基督的国； 他要作王，直到永永远远。",
     Eng:"The seventh angel sounded his trumpet, and there were loud voices in heaven, which said: \"The kingdom of the world has become the kingdom of our Lord and of his Christ, and he will reign for ever and ever.\"",
     Ind:"Lalu malaikat yang ketujuh meniup sangkakalanya, dan terdengarlah suara-suara nyaring di dalam sorga, katanya: \"Pemerintahan atas dunia dipegang oleh Tuhan kita dan Dia yang diurapi-Nya, dan Ia akan memerintah sebagai raja sampai selama-lamanya.\""
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Dan kedua puluh empat tua-tua, yang duduk di hadapan Allah di atas takhta mereka, tersungkur dan menyembah Allah,"
   },
   {Bible:"Revelation", Chapter:11, Verse:17, Page:1,
-    Kor:"말하였습니다.  \"지금도 계시고 전에도 계시던 전능하신 분, 주 하나님, 감사합니다. 주님께서는 그 크신 권능을 잡으셔서 다스리기 시작하셨습니다.",
+    Kor:"말하였습니다. \"지금도 계시고 전에도 계시던 전능하신 분, 주 하나님, 감사합니다. 하나님께서는 큰 권능을 떨치시며, 다스리고 계십니다.",
     Chn:"说： 昔在、今在的主　神— 全能者啊，我们感谢你！ 因你执掌大权作王了。",
     Eng:"saying: \"We give thanks to you, Lord God Almighty, the One who is and who was, because you have taken your great power and have begun to reign.",
     Ind:"sambil berkata: \"Kami mengucap syukur kepada-Mu, ya Tuhan, Allah, Yang Mahakuasa, yang ada dan yang sudah ada, karena Engkau telah memangku kuasa-Mu yang besar dan telah mulai memerintah sebagai raja"
   },
   {Bible:"Revelation", Chapter:11, Verse:18, Page:1,
-    Kor:"뭇 민족이 이것에 분개하였으나 오히려 그들이 주님의 진노를 샀습니다. 이제는 죽은 사람들이 심판을 받을 때가 왔습니다. 주님의 종 예언자들과 성도들과 작은 사람이든 큰 사람이든 주님 이름을 두려워하는 사람들에게 상을 주실 때가 왔습니다. 땅을 망하게 하는 자들을 멸망시킬 때가 왔습니다.\"",
+    Kor:"뭇 민족이 이것에 분개하였으나, 오히려 그들이 주님의 진노를 샀으며 죽은 사람들이 심판을 받고, 주님의 종 예언자들과 성도들과 작은 자든 큰 자든 주님의 이름을 두려워하는 사람들에게 상을 주시고, 땅을 망하게 하는 자들을 멸망시킬 때가 왔습니다.\"",
     Chn:"外邦发怒，你的忿怒也临到了； 审判死人的时候也到了。 你的仆人众先知和众圣徒， 凡敬畏你名的人， 连大带小得赏赐的时候也到了。 你败坏那些败坏世界之人的时候也就到了。",
     Eng:"The nations were angry; and your wrath has come. The time has come for judging the dead, and for rewarding your servants the prophets and your saints and those who reverence your name, both small and great--and for destroying those who destroy the earth.\"",
     Ind:"dan semua bangsa telah marah, tetapi amarah-Mu telah datang dan saat bagi orang-orang mati untuk dihakimi dan untuk memberi upah kepada hamba-hamba-Mu, nabi-nabi dan orang-orang kudus dan kepada mereka yang takut akan nama-Mu, kepada orang-orang kecil dan orang-orang besar dan untuk membinasakan barangsiapa yang membinasakan bumi.\""

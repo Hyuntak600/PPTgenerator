@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",4,44);
 BibleDB.add([
   {Bible:"2Kings", Chapter:4, Verse:1, Page:1,
-    Kor:"<과부의 기름 병> a예언자 수련생들의 아내 가운데서 남편을 잃은 어느 한 여인이, 엘리사에게 부르짖으며 호소하였다. \"예언자님의 종인 저의 남편이 죽었습니다. 예언자님께서도 아시다시피 그는 주님을 경외하는 사람이었습니다. 그런데 빚을 준 사람이 와서, 저의 두 아들을 자기의 노예로 삼으려고 데려가려 합니다.\"(a 히, '예언자들의 아들들')",
+    Kor:"예언자 수련생들의 아내 가운데서 남편을 잃은 어느 한 여인이, 엘리사에게 부르짖으며 호소하였다. \"선생님의 종인 저의 남편이 죽었습니다. 선생님께서도 아시다시피 그는 주를 경외하는 사람이었습니다. 그런데 빚을 준 사람이 와서, 저의 두 아들을 자기의 노예로 삼으려고 데려가려 합니다.\"",
     Chn:"有一个先知门徒的妻哀求以利沙说：「你仆人—我丈夫死了，他敬畏耶和华是你所知道的。现在有债主来，要取我两个儿子作奴仆。」",
     Eng:"The wife of a man from the company of the prophets cried out to Elisha, \"Your servant my husband is dead, and you know that he revered the LORD. But now his creditor is coming to take my two boys as his slaves.\"",
     Ind:"Salah seorang dari isteri-isteri para nabi mengadukan halnya kepada Elisa, sambil berseru: \"Hambamu, suamiku, sudah mati dan engkau ini tahu, bahwa hambamu itu takut akan TUHAN. Tetapi sekarang, penagih hutang sudah datang untuk mengambil kedua orang anakku menjadi budaknya.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Kemudian pergilah perempuan itu memberitahukannya kepada abdi Allah, dan orang ini berkata: \"Pergilah, juallah minyak itu, bayarlah hutangmu, dan hiduplah dari lebihnya, engkau serta anak-anakmu.\""
   },
   {Bible:"2Kings", Chapter:4, Verse:8, Page:1,
-    Kor:"<엘리사와 수넴 여인> ○하루는 엘리사가 수넴 마을을 지나가게 되었는데, 그 곳에 한 부유한 여인이 있었다. 그가 엘리사에게 음식을 대접하고 싶어하여, 엘리사는 그 곳을 지나칠 때마다 거기에 들러서 음식을 먹곤 하였다.",
+    Kor:"○하루는 엘리사가 수넴 마을을 지나가게 되었는데, 그 곳에 한 부유한 여인이 있었다. 그가 엘리사에게 음식을 대접하고 싶어하여, 엘리사는 그 곳을 지나칠 때마다 거기에 들러서 음식을 먹곤 하였다.",
     Chn:"一日，以利沙走到书念，在那里有一个大户的妇人强留他吃饭。此后，以利沙每从那里经过就进去吃饭。",
     Eng:"One day Elisha went to Shunem. And a well-to-do woman was there, who urged him to stay for a meal. So whenever he came by, he stopped there to eat.",
     Ind:"Pada suatu hari Elisa pergi ke Sunem. Di sana tinggal seorang perempuan kaya yang mengundang dia makan. Dan seberapa kali ia dalam perjalanan, singgahlah ia ke sana untuk makan."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Berkatalah perempuan itu kepada suaminya: \"Sesungguhnya aku sudah tahu bahwa orang yang selalu datang kepada kita itu adalah abdi Allah yang kudus."
   },
   {Bible:"2Kings", Chapter:4, Verse:10, Page:1,
-    Kor:"이제 옥상에 벽으로 둘러친 작은 다락방을 하나 만들어서, 거기에 침대와 탁자와 의자와 등잔을 갖추어 놓아 둡시다. 그래서 그가 우리 집에 들르실 때마다, 그 곳에 들어가서 쉬시도록 합시다.\"",
+    Kor:"이제 옥상에 벽으로 둘러친 작은 다락방을 하나 만들어서, 거기에 침대와 상과 의자와 등잔을 갖추어 놓아 둡시다. 그래서 그가 우리 집에 들르실때마다, 그 곳에 들어가서 쉬시도록 합시다.\"",
     Chn:"我们可以为他在墙上盖一间小楼，在其中安放床榻、桌子、椅子、灯台，他来到我们这里，就可以住在其间。」",
     Eng:"Let's make a small room on the roof and put in it a bed and a table, a chair and a lamp for him. Then he can stay there whenever he comes to us.\"",
     Ind:"Baiklah kita membuat sebuah kamar atas yang kecil yang berdinding batu, dan baiklah kita menaruh di sana baginya sebuah tempat tidur, sebuah meja, sebuah kursi dan sebuah kandil, maka apabila ia datang kepada kita, ia boleh masuk ke sana.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Elisa: \"Panggillah dia!\" Dan sesudah dipanggilnya, berdirilah perempuan itu di pintu."
   },
   {Bible:"2Kings", Chapter:4, Verse:16, Page:1,
-    Kor:"엘리사가 말하였다. \"내년 이맘때가 되면, 부인께서는 품에 한 아들을 안고 있을 것이오.\" 여인이 대답하였다. \"그런 말씀 마십시오. 예언자님! 하나님의 사람께서도 저 같은 사람에게 농담을 하시는 것입니까?\"",
+    Kor:"엘리사가 말하였다. \"내년 이맘때가 되면, 부인께서는 한 아들을 안을 것이오.\" 여인이 대답하였다. \"그런 말씀 마십시오. 선생님! 하나님의 사람께서도 저 같은 사람에게 농담을 하시는 것입니까?\"",
     Chn:"以利沙说：「明年到这时候，你必抱一个儿子。」她说：「神人，我主啊，不要那样欺哄婢女。」",
     Eng:"\"About this time next year,\" Elisha said, \"you will hold a son in your arms.\" \"No, my lord,\" she objected. \"Don't mislead your servant, O man of God!\"",
     Ind:"Berkatalah Elisa: \"Pada waktu seperti ini juga, tahun depan, engkau ini akan menggendong seorang anak laki-laki.\" Tetapi jawab perempuan itu: \"Janganlah tuanku, ya abdi Allah, janganlah berdusta kepada hambamu ini!\""
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Larilah menyongsongnya dan katakanlah kepadanya: Selamatkah engkau, selamatkah suamimu, selamatkah anak itu?\" Jawab perempuan itu: \"Selamat!\""
   },
   {Bible:"2Kings", Chapter:4, Verse:27, Page:1,
-    Kor:"그런 다음에 곧 그 여인은 산에 있는 하나님의 사람에게로 가서, 그의 발을 꼭 껴안았다. 게하시가 그 여인을 떼어 놓으려고 다가갔으나, 하나님의 사람이 말리면서 말하였다. \"그대로 두어라. 부인의 마음 속에 무엇인가 쓰라린 괴로움이 있는 것 같구나. 주님께서는, 그가 겪은 고통을 나에게는 감추시고, 알려 주지 않으셨다.\"",
+    Kor:"그런 다음에 곧 그 여인은 산에 있는 하나님의 사람에게로 가서, 그의 발을 꼭 껴안았다. 게하시가 그 여인을 떼어 놓으려고 다가갔으나, 하나님의 사람이 말리면서 말하였다. \"그대로 두어라. 부인의 마음 속에 무엇인가 쓰라린 괴로움이 있는 것 같구나. 주께서는, 그가 겪은 고통을 나에게는 감추시고, 알려 주지 않으셨다.\"",
     Chn:"妇人上了山，到神人那里，就抱住神人的脚。基哈西前来要推开她，神人说：「由她吧！因为她心里愁苦，耶和华向我隐瞒，没有指示我。」",
     Eng:"When she reached the man of God at the mountain, she took hold of his feet. Gehazi came over to push her away, but the man of God said, \"Leave her alone! She is in bitter distress, but the LORD has hidden it from me and has not told me why.\"",
     Ind:"Dan sesudah ia sampai ke gunung itu, dipegangnyalah kaki abdi Allah itu, tetapi Gehazi mendekat hendak mengusir dia. Lalu berkatalah abdi Allah: \"Biarkanlah dia, hatinya pedih! TUHAN menyembunyikan hal ini dari padaku, tidak memberitahukannya kepadaku.\""
   },
   {Bible:"2Kings", Chapter:4, Verse:28, Page:1,
-    Kor:"여인이 엘리사에게 말하였다. \"예언자님, 제가 언제 아들을 달라고 하였습니까? 저는 오히려 저 같은 사람에게 농담을 하지 마시라고 말씀드리지 않았습니까?\"",
+    Kor:"여인이 엘리사에게 말하였다. \"선생님, 제가 언제 아들을 달라고 하였습니까? 저는 오히려 저 같은 사람에게 농담을 하지 마시라고 말씀드리지 않았습니까?\"",
     Chn:"妇人说：「我何尝向我主求过儿子呢？我岂没有说过，不要欺哄我吗？」",
     Eng:"\"Did I ask you for a son, my lord?\" she said. \"Didn't I tell you, 'Don't raise my hopes'?\"",
     Ind:"Lalu berkatalah perempuan itu: \"Adakah kuminta seorang anak laki-laki dari pada tuanku? Bukankah telah kukatakan: Jangan aku diberi harapan kosong?\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Maka berkatalah Elisa kepada Gehazi: \"Ikatlah pinggangmu, bawalah tongkatku di tanganmu dan pergilah. Apabila engkau bertemu dengan seseorang, janganlah beri salam kepadanya dan apabila seseorang memberi salam kepadamu, janganlah balas dia, kemudian taruhlah tongkatku ini di atas anak itu.\""
   },
   {Bible:"2Kings", Chapter:4, Verse:30, Page:1,
-    Kor:"그러나 아이의 어머니는 말하였다. \"주님의 살아 계심과 예언자님의 목숨이 살아 계심을 두고 맹세합니다. 저는 어떤 일이 있어도 예언자님을 떠나지 않겠습니다.\" 엘리사는 하는 수 없이 일어나서, 그 부인을 따라 나섰다.",
+    Kor:"그러나 아이의 어머니는 말하였다. \"주의 살아 계심과 선생님의 목숨이 살아 계심을 두고 맹세합니다. 저는 어떤 일이 있어도 선생님을 떠나지 않겠습니다.\" 엘리사는 하는 수 없이 일어나서, 그 부인을 따라 나섰다.",
     Chn:"孩子的母亲说：「我指着永生的耶和华，又敢在你面前起誓，我必不离开你。」于是以利沙起身，随着她去了。",
     Eng:"But the child's mother said, \"As surely as the LORD lives and as you live, I will not leave you.\" So he got up and followed her.",
     Ind:"Tetapi berkatalah ibu anak itu: \"Demi TUHAN yang hidup dan demi hidupmu sendiri, sesungguhnya aku tidak akan meninggalkan engkau.\" Lalu bangunlah Elisa dan berjalan mengikuti perempuan itu."
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Adapun Gehazi telah berjalan mendahului mereka dan telah menaruh tongkat di atas anak itu, tetapi tidak ada suara, dan tidak ada tanda hidup. Lalu kembalilah ia menemui Elisa serta memberitahukan kepadanya, katanya: \"Anak itu tidak bangun!\""
   },
   {Bible:"2Kings", Chapter:4, Verse:32, Page:1,
-    Kor:"엘리사가 집 안에 들어가서 보니, 그 아이는 죽어 있었고, 그 죽은 아이는 엘리사가 눕던 침대 위에 뉘어 있었다.",
+    Kor:"엘리사가 집 안에 들어가서 보니, 그 아이는 죽어 있었고, 그 죽은 아이는 그가 눕던 침대 위에 뉘어 있었다.",
     Chn:"以利沙来到，进了屋子，看见孩子死了，放在自己的床上。",
     Eng:"When Elisha reached the house, there was the boy lying dead on his couch.",
     Ind:"Dan ketika Elisa masuk ke rumah, ternyata anak itu sudah mati dan terbaring di atas tempat tidurnya."
   },
   {Bible:"2Kings", Chapter:4, Verse:33, Page:1,
-    Kor:"엘리사는 방 안으로 들어가서 문을 닫았다. 방 안에는 엘리사와 그 죽은 아이 둘뿐이었다. 엘리사는 주님께 기도를 드린 다음에,",
+    Kor:"엘리사는 방 안으로 들어가서 문을 닫았다. 방 안에는 엘리사와 그 죽은 아이 둘뿐이었다. 엘리사는 주께 기도를 드린 다음에,",
     Chn:"他就关上门，只有自己和孩子在里面，他便祈祷耶和华，",
     Eng:"He went in, shut the door on the two of them and prayed to the LORD.",
     Ind:"Sesudah ia masuk, ditutupnyalah pintu, sehingga ia sendiri dengan anak itu di dalam kamar, kemudian berdoalah ia kepada TUHAN."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Masuklah perempuan itu, lalu tersungkur di depan kaki Elisa dan sujud menyembah dengan mukanya sampai ke tanah. Kemudian diangkatnyalah anaknya, lalu keluar."
   },
   {Bible:"2Kings", Chapter:4, Verse:38, Page:1,
-    Kor:"<두 가지 기적> ○엘리사가 길갈로 돌아왔다. 그 곳은 엘리사가 a예언자 수련생들을 데리고 사는 곳이었다. 마침 그 때에 그 땅에 흉년이 들었다. 엘리사가 한 종에게, 큰 솥을 걸어 놓고 예언자 수련생들이 먹을 국을 끓이라고 하였다.(a 히, '예언자들의 아들들')",
+    Kor:"○엘리사가 길갈로 돌아왔다. 그 곳은 엘리사가 예언자 수련생들을 데리고 사는 곳이었다. 마침 그 때에 그 땅에 흉년이 들었다. 엘리사가 한 종에게, 큰 솥을 걸어 놓고 예언자 수련생들이 먹을 국을 끓이라고 하였다.",
     Chn:"以利沙又来到吉甲，那地正有饥荒。先知门徒坐在他面前，他吩咐仆人说：「你将大锅放在火上，给先知门徒熬汤。」",
     Eng:"Elisha returned to Gilgal and there was a famine in that region. While the company of the prophets was meeting with him, he said to his servant, \"Put on the large pot and cook some stew for these men.\"",
     Ind:"Elisa kembali ke Gilgal pada waktu ada kelaparan di negeri itu. Dan ketika pada suatu kali rombongan nabi duduk di depannya, berkatalah ia kepada bujangnya: \"Taruhlah kuali yang paling besar di atas api dan masaklah sesuatu makanan bagi rombongan nabi itu.\""
@@ -237,31 +237,31 @@ BibleDB.add([
     Ind:"Lalu keluarlah seorang dari mereka ke ladang untuk mengumpulkan sayur-sayuran; ia menemui pohon sulur-suluran liar dan memetik dari padanya labu liar, serangkul penuh dalam jubahnya. Sesudah ia pulang, teruslah ia mengiris-irisnya ke dalam kuali masakan tadi, sebab mereka tidak mengenalnya."
   },
   {Bible:"2Kings", Chapter:4, Verse:40, Page:1,
-    Kor:"그들이 각자 국을 떠다 먹으려고 맛을 보다가, 깜짝 놀라 하나님의 사람을 부르며, 그 솥에 사람을 죽게 하는 독이 들어 있다고 외쳤다. 그래서 그들이 그 국을 먹지 못하고 있는데,",
+    Kor:"그들이 각자 국을 떠다 먹으려고 맛을 보다가, 깜짝 놀라 하나님의 사람을 부르며, 그 솥에 죽음을 부르는 독이 들어 있다고 외쳤다. 그래서 그들이 그 국을 먹지 못하고 있는데,",
     Chn:"倒出来给众人吃，吃的时候，都喊叫说：「神人哪，锅中有致死的毒物！」所以众人不能吃了。",
     Eng:"The stew was poured out for the men, but as they began to eat it, they cried out, \"O man of God, there is death in the pot!\" And they could not eat it.",
     Ind:"Kemudian dicedoklah dari masakan tadi bagi orang-orang itu untuk dimakan dan segera sesudah mereka memakannya, berteriaklah mereka serta berkata: \"Maut ada dalam kuali itu, hai abdi Allah!\" Dan tidak tahan mereka memakannya."
   },
   {Bible:"2Kings", Chapter:4, Verse:41, Page:1,
-    Kor:"엘리사가 밀가루를 가져 오라고 하여, 그 밀가루를 솥에 뿌린 뒤에, 이제는 먹어도 되니 사람들에게 떠다 주라고 하였다. 그러고 나니 정말로 솥 안에는 독이 전혀 없었다.",
+    Kor:"엘리사가 밀가루를 가져 오라고 하여, 그 밀가루를 솥에 뿌린 뒤에, 이제는 먹어도 되니, 사람들에게 떠다 주라고 하였다. 정말로 솥 안에는 독이 하나도 없었다.",
     Chn:"以利沙说：「拿点面来」，就把面撒在锅中，说：「倒出来，给众人吃吧！」锅中就没有毒了。",
     Eng:"Elisha said, \"Get some flour.\" He put it into the pot and said, \"Serve it to the people to eat.\" And there was nothing harmful in the pot.",
     Ind:"Tetapi berkatalah Elisa: \"Ambillah tepung!\" Dilemparkannyalah itu ke dalam kuali serta berkata: \"Cedoklah sekarang bagi orang-orang ini, supaya mereka makan!\" Maka tidak ada lagi sesuatu bahaya dalam kuali itu."
   },
   {Bible:"2Kings", Chapter:4, Verse:42, Page:1,
-    Kor:"○어떤 사람이 바알살리사에서 왔다. 그런데 맨 먼저 거둔 보리로 만든 보리빵 스무 덩이와, 자루에 가득 담은 햇곡식을, 하나님의 사람에게 가지고 왔다. 엘리사가 그것을 사람들에게 주어서 먹게 하라고 하였더니,",
+    Kor:"○어떤 사람이 바알살리사에서 왔다. 그런데 첫 열매로 만든 보리빵 스무 덩이와, 자루에 가득 담은 햇곡식을, 하나님의 사람에게 가지고 왔다. 엘리사가 그것을 사람들에게 주어서 먹게 하라고 하였더니,",
     Chn:"有一个人从巴力·沙利沙来，带着初熟大麦做的饼二十个，并新穗子，装在口袋里送给神人。神人说：「把这些给众人吃。」",
     Eng:"A man came from Baal Shalishah, bringing the man of God twenty loaves of barley bread baked from the first ripe grain, along with some heads of new grain. \"Give it to the people to eat,\" Elisha said.",
     Ind:"Datanglah seseorang dari Baal-Salisa dengan membawa bagi abdi Allah roti hulu hasil, yaitu dua puluh roti jelai serta gandum baru dalam sebuah kantong. Lalu berkatalah Elisa: \"Berilah itu kepada orang-orang ini, supaya mereka makan.\""
   },
   {Bible:"2Kings", Chapter:4, Verse:43, Page:1,
-    Kor:"그의 시종은 백여 명이나 되는 사람들 앞에 그것을 어떻게 내놓겠느냐고 하였다. 그러나 엘리사가 말하였다. \"사람들에게 주어서 먹게 하여라. 주님께서 말씀하시기를, 먹고도 남을 것이라고 하셨다.\"",
+    Kor:"그의 시종은, 백여 명이나 되는 사람들 앞에, 그것을 어떻게 내놓겠느냐고 하였다. 그러나 엘리사가 말하였다. \"사람들에게 주어서 먹게 하여라. 주께서 말씀하시기를, 먹고도 남을 것이라고 하셨다.\"",
     Chn:"仆人说：「这一点岂可摆给一百人吃呢？」以利沙说：「你只管给众人吃吧！因为耶和华如此说，众人必吃了，还剩下。」",
     Eng:"\"How can I set this before a hundred men?\" his servant asked. But Elisha answered, \"Give it to the people to eat. For this is what the LORD says: 'They will eat and have some left over.'\"",
     Ind:"Tetapi pelayannya itu berkata: \"Bagaimanakah aku dapat menghidangkan ini di depan seratus orang?\" Jawabnya: \"Berikanlah kepada orang-orang itu, supaya mereka makan, sebab beginilah firman TUHAN: Orang akan makan, bahkan akan ada sisanya.\""
   },
   {Bible:"2Kings", Chapter:4, Verse:44, Page:1,
-    Kor:"그리하여 그것을 백 명이나 되는 사람들 앞에 내놓으니, 주님의 말씀처럼 사람들이 배불리 먹고도 남았다.",
+    Kor:"그리하여 그것을 백 명이나 되는 사람들 앞에 내놓으니, 주의 말씀처럼 사람들이 배불리 먹고도 남았다.",
     Chn:"仆人就摆在众人面前，他们吃了，果然还剩下，正如耶和华所说的。",
     Eng:"Then he set it before them, and they ate and had some left over, according to the word of the LORD.",
     Ind:"Lalu dihidangkannyalah di depan mereka, maka makanlah mereka dan ada sisanya, sesuai dengan firman TUHAN."

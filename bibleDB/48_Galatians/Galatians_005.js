@@ -3,13 +3,13 @@
 BibleDB.ref("Galatians",5,26);
 BibleDB.add([
   {Bible:"Galatians", Chapter:5, Verse:1, Page:1,
-    Kor:"그리스도께서 우리를 해방시켜 주셔서, 자유를 누리게 하셨습니다. 그러므로 굳게 서서, 다시는 종살이의 멍에를 메지 마십시오.",
+    Kor:"그리스도께서 우리를 해방시켜 주셔서, 자유하게 하셨습니다. 그러므로 굳게 서서, 다시는 종의 멍에를 메지 마십시오.",
     Chn:"基督释放了我们，叫我们得以自由。所以要站立得稳，不要再被奴仆的轭挟制。",
     Eng:"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.",
     Ind:"Supaya kita sungguh-sungguh merdeka, Kristus telah memerdekakan kita. Karena itu berdirilah teguh dan jangan mau lagi dikenakan kuk perhambaan."
   },
   {Bible:"Galatians", Chapter:5, Verse:2, Page:1,
-    Kor:"<그리스도인의 자유> ○나 바울이 여러분에게 말합니다. 여러분이 할례를 받으면, 그리스도는 여러분에게 아무런 유익이 없습니다.",
+    Kor:"○나 바울이 여러분에게 말합니다. 여러분이 할례를 받는다면, 그리스도는 여러분에게 아무런 유익이 없습니다.",
     Chn:"我—保罗告诉你们，若受割礼，基督就与你们无益了。",
     Eng:"Mark my words! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.",
     Ind:"Sesungguhnya, aku, Paulus, berkata kepadamu: jikalau kamu menyunatkan dirimu, Kristus sama sekali tidak akan berguna bagimu."
@@ -21,25 +21,25 @@ BibleDB.add([
     Ind:"Sekali lagi aku katakan kepada setiap orang yang menyunatkan dirinya, bahwa ia wajib melakukan seluruh hukum Taurat."
   },
   {Bible:"Galatians", Chapter:5, Verse:4, Page:1,
-    Kor:"율법으로 의롭게 되려고 하는 사람은 그리스도에게서 끊어지고, 은혜에서 떨어져 나간 사람입니다.",
+    Kor:"율법으로 의롭게 되려고 하는 여러분은 그리스도에게서 끊어지고, 은혜에서 떨어져 나갔습니다.",
     Chn:"你们这要靠律法称义的，是与基督隔绝，从恩典中坠落了。",
     Eng:"You who are trying to be justified by law have been alienated from Christ; you have fallen away from grace.",
     Ind:"Kamu lepas dari Kristus, jikalau kamu mengharapkan kebenaran oleh hukum Taurat; kamu hidup di luar kasih karunia."
   },
   {Bible:"Galatians", Chapter:5, Verse:5, Page:1,
-    Kor:"그러나 우리는 성령을 힘입어서, 믿음으로 의롭다고 하심을 받을 소망을 간절히 기다리고 있습니다.",
+    Kor:"그러나 우리는 성령을 힘입어, 믿음으로 의롭게 하여 주심을 받을 소망을 간절히 기다리고 있습니다.",
     Chn:"我们靠着圣灵，凭着信心，等候所盼望的义。",
     Eng:"But by faith we eagerly await through the Spirit the righteousness for which we hope.",
     Ind:"Sebab oleh Roh, dan karena iman, kita menantikan kebenaran yang kita harapkan."
   },
   {Bible:"Galatians", Chapter:5, Verse:6, Page:1,
-    Kor:"그리스도 예수 안에서는, 할례를 받거나 안 받는 것이 문제가 되는 것이 아닙니다. 가장 중요한 것은, a믿음이 사랑을 통하여 일하는 것입니다.(a 또는 '사랑으로 역사하는 믿음입니다')",
+    Kor:"그리스도 예수 안에서는, 할례를 받거나 안 받는 것이 문제가 되는 것이 아닙니다. 가장 중요한 것은, 사랑으로 역사하는 믿음입니다.",
     Chn:"原来在基督耶稣里，受割礼不受割礼全无功效，惟独使人生发仁爱的信心才有功效。",
     Eng:"For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love.",
     Ind:"Sebab bagi orang-orang yang ada di dalam Kristus Yesus hal bersunat atau tidak bersunat tidak mempunyai sesuatu arti, hanya iman yang bekerja oleh kasih."
   },
   {Bible:"Galatians", Chapter:5, Verse:7, Page:1,
-    Kor:"○여러분은 지금까지 잘 달려왔습니다. 그런데 누가 여러분을 가로막아서, 진리를 따르지 못하게 하였습니까?",
+    Kor:"○여러분은 지금까지 잘 달려왔습니다. 그런데 누가 여러분을 가로 막아서, 진리를 따르지 못하게 하였습니까?",
     Chn:"你们向来跑得好，有谁拦阻你们，叫你们不顺从真理呢？",
     Eng:"You were running a good race. Who cut in on you and kept you from obeying the truth?",
     Ind:"Dahulu kamu berlomba dengan baik. Siapakah yang menghalang-halangi kamu, sehingga kamu tidak menuruti kebenaran lagi?"
@@ -63,79 +63,79 @@ BibleDB.add([
     Ind:"Dalam Tuhan aku yakin tentang kamu, bahwa kamu tidak mempunyai pendirian lain dari pada pendirian ini. Tetapi barangsiapa yang mengacaukan kamu, ia akan menanggung hukumannya, siapapun juga dia."
   },
   {Bible:"Galatians", Chapter:5, Verse:11, Page:1,
-    Kor:"b형제자매 여러분, 내가 아직도 할례를 전한다면, 어찌하여 아직도 박해를 받겠습니까? 그렇다면, 십자가의 거리낌은 없어졌을 것입니다.(b 그, '형제들')",
+    Kor:"형제자매 여러분, 내가 아직도 할례를 전한다면, 어찌하여 아직도 박해를 받겠습니까? 그렇다면, 십자가의 거리낌은 없어졌을 것입니다.",
     Chn:"弟兄们，我若仍旧传割礼，为什么还受逼迫呢？若是这样，那十字架讨厌的地方就没有了。",
     Eng:"Brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.",
     Ind:"Dan lagi aku ini, saudara-saudara, jikalau aku masih memberitakan sunat, mengapakah aku masih dianiaya juga? Sebab kalau demikian, salib bukan batu sandungan lagi."
   },
   {Bible:"Galatians", Chapter:5, Verse:12, Page:1,
-    Kor:"c할례를 가지고 여러분을 선동하는 사람들은, 차라리 자기의 그 지체를 잘라 버리는 것이 좋겠습니다.(c 그, '여러분을 선동하는 사람들은')",
+    Kor:"할례를 가지고 여러분을 선동하는 사람들은, 차라리 자기의 그 지체를 잘라 버리는 것이 좋겠습니다.",
     Chn:"恨不得那搅乱你们的人把自己割绝了。",
     Eng:"As for those agitators, I wish they would go the whole way and emasculate themselves!",
     Ind:"Baiklah mereka yang menghasut kamu itu mengebirikan saja dirinya!"
   },
   {Bible:"Galatians", Chapter:5, Verse:13, Page:1,
-    Kor:"○b형제자매 여러분, 하나님께서는 여러분을 부르셔서, 자유를 누리게 하셨습니다. 그러나 여러분은 그 자유를 육체의 욕망을 만족시키는 구실로 삼지 말고, 사랑으로 서로 섬기십시오.(b 그, '형제들')",
+    Kor:"○형제자매 여러분, 하나님께서는 여러분을 부르셔서, 자유하게 하셨습니다. 그러나 여러분은 그 자유를 육체의 욕망을 만족시키는 구실로 삼지 말고, 사랑으로 서로 섬기십시오.",
     Chn:"弟兄们，你们蒙召是要得自由，只是不可将你们的自由当作放纵情欲的机会，总要用爱心互相服事。",
     Eng:"You, my brothers, were called to be free. But do not use your freedom to indulge the sinful nature; rather, serve one another in love.",
     Ind:"Saudara-saudara, memang kamu telah dipanggil untuk merdeka. Tetapi janganlah kamu mempergunakan kemerdekaan itu sebagai kesempatan untuk kehidupan dalam dosa, melainkan layanilah seorang akan yang lain oleh kasih."
   },
   {Bible:"Galatians", Chapter:5, Verse:14, Page:1,
-    Kor:"모든 율법은 d\"네 이웃을 네 몸과 같이 사랑하여라\" 하신 한 마디 말씀 속에 다 들어 있습니다.(d 레 19:18)",
+    Kor:"모든 율법은 \"네 이웃을 네 몸과 같이 사랑하여라\" 하신 한 마디 말씀 속에 다 들어 있습니다.",
     Chn:"因为全律法都包在「爱人如己」这一句话之内了。",
     Eng:"The entire law is summed up in a single command: \"Love your neighbor as yourself.\"",
     Ind:"Sebab seluruh hukum Taurat tercakup dalam satu firman ini, yaitu: \"Kasihilah sesamamu manusia seperti dirimu sendiri!\""
   },
   {Bible:"Galatians", Chapter:5, Verse:15, Page:1,
-    Kor:"그런데 여러분이 서로 물어뜯고 잡아먹고 하면, 피차 멸망하고 말 터이니, 조심하십시오.",
+    Kor:"그런데 여러분이 서로 물고 먹으면, 양쪽 다 멸망하고 말 것이니, 조심하십시오.",
     Chn:"你们要谨慎，若相咬相吞，只怕要彼此消灭了。",
     Eng:"If you keep on biting and devouring each other, watch out or you will be destroyed by each other.",
     Ind:"Tetapi jikalau kamu saling menggigit dan saling menelan, awaslah, supaya jangan kamu saling membinasakan."
   },
   {Bible:"Galatians", Chapter:5, Verse:16, Page:1,
-    Kor:"<육체의 행실과 성령의 열매> ○내가 또 말합니다. 여러분은 성령께서 인도하여 주시는 대로 살아가십시오. 그러면 육체의 욕망을 채우려 하지 않을 것입니다.",
+    Kor:"○내가 또 말합니다. 여러분은 성령께서 인도하여 주시는 대로 살아가십시오. 그러면 육체의 욕망을 따라 살아가지 않게 될 것입니다.",
     Chn:"我说，你们当顺着圣灵而行，就不放纵肉体的情欲了。",
     Eng:"So I say, live by the Spirit, and you will not gratify the desires of the sinful nature.",
     Ind:"Maksudku ialah: hiduplah oleh Roh, maka kamu tidak akan menuruti keinginan daging."
   },
   {Bible:"Galatians", Chapter:5, Verse:17, Page:1,
-    Kor:"육체의 욕망은 성령을 거스르고, 성령이 바라시는 것은 육체를 거스릅니다. 이 둘이 서로 적대관계에 있으므로, 여러분은 자기가 원하는 일을 할 수 없게 됩니다.",
+    Kor:"육체의 욕망은 성령을 거스르고, 성령이 바라시는 것은 육체를 거스릅니다. 이 둘이 서로 적대 관계에 있으므로, 여러분은 자기가 원하는 일을 할 수 없게 됩니다.",
     Chn:"因为情欲和圣灵相争，圣灵和情欲相争，这两个是彼此相敌，使你们不能做所愿意做的。",
     Eng:"For the sinful nature desires what is contrary to the Spirit, and the Spirit what is contrary to the sinful nature. They are in conflict with each other, so that you do not do what you want.",
     Ind:"Sebab keinginan daging berlawanan dengan keinginan Roh dan keinginan Roh berlawanan dengan keinginan daging--karena keduanya bertentangan--sehingga kamu setiap kali tidak melakukan apa yang kamu kehendaki."
   },
   {Bible:"Galatians", Chapter:5, Verse:18, Page:1,
-    Kor:"그런데 여러분이, 성령의 인도하심을 따라 살아가면, 율법 아래에 있는 것이 아닙니다.",
+    Kor:"그런데 여러분이, 성령께서 인도해 주시는 것을 따르면, 율법 아래 있는 것이 아닙니다.",
     Chn:"但你们若被圣灵引导，就不在律法以下。",
     Eng:"But if you are led by the Spirit, you are not under law.",
     Ind:"Akan tetapi jikalau kamu memberi dirimu dipimpin oleh Roh, maka kamu tidak hidup di bawah hukum Taurat."
   },
   {Bible:"Galatians", Chapter:5, Verse:19, Page:1,
-    Kor:"육체의 행실은 환히 드러난 것들입니다. 곧 음행과 더러움과 방탕과",
+    Kor:"육체의 행실은 분명합니다. 곧 음행과 더러움과 방탕과",
     Chn:"情欲的事都是显而易见的，就如奸淫、污秽、邪荡、",
     Eng:"The acts of the sinful nature are obvious: sexual immorality, impurity and debauchery;",
     Ind:"Perbuatan daging telah nyata, yaitu: percabulan, kecemaran, hawa nafsu,"
   },
   {Bible:"Galatians", Chapter:5, Verse:20, Page:1,
-    Kor:"우상숭배와 마술과 원수맺음과 다툼과 시기와 분냄과 분쟁과 분열과 파당과",
+    Kor:"우상 숭배와 마술과 원수맺음과 다툼과 시기와 분노와 이기심과 분열과 분파와",
     Chn:"拜偶像、邪术、仇恨、争竞、忌恨、恼怒、结党、纷争、异端、",
     Eng:"idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions",
     Ind:"penyembahan berhala, sihir, perseteruan, perselisihan, iri hati, amarah, kepentingan diri sendiri, percideraan, roh pemecah,"
   },
   {Bible:"Galatians", Chapter:5, Verse:21, Page:1,
-    Kor:"e질투와 술취함과 흥청망청 먹고 마시는 놀음과, 그와 같은 것들입니다. 내가 전에도 여러분에게 경고하였지만, 이제 또다시 경고합니다. 이런 짓을 하는 사람들은 하나님의 나라를 상속받지 못할 것입니다.(e 다른 고대 사본들에는 '질투와'와 '술취함' 사이에 '살인'이 첨가되어 있음)",
+    Kor:"질투와 술취함과 흥청거리는 연회와, 또 이와 비슷한 것들입니다. 내가 전에도 여러분에게 경고하였지만, 이제 또다시 경고합니다. 이런 일을 하는 사람들은 하나님의 나라를 유업으로 받지 못할 것입니다.",
     Chn:"嫉妒、醉酒、荒宴等类。我从前告诉你们，现在又告诉你们，行这样事的人必不能承受　神的国。",
     Eng:"and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God.",
     Ind:"kedengkian, kemabukan, pesta pora dan sebagainya. Terhadap semuanya itu kuperingatkan kamu--seperti yang telah kubuat dahulu--bahwa barangsiapa melakukan hal-hal yang demikian, ia tidak akan mendapat bagian dalam Kerajaan Allah."
   },
   {Bible:"Galatians", Chapter:5, Verse:22, Page:1,
-    Kor:"○그러나 성령의 열매는 사랑과 기쁨과 화평과 인내와 친절과 선함과 신실과",
+    Kor:"○그러나 성령의 열매는 사랑과 기쁨과 평화와 인내와 친절과 선함과 신실과",
     Chn:"圣灵所结的果子，就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、",
     Eng:"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
     Ind:"Tetapi buah Roh ialah: kasih, sukacita, damai sejahtera, kesabaran, kemurahan, kebaikan, kesetiaan,"
   },
   {Bible:"Galatians", Chapter:5, Verse:23, Page:1,
-    Kor:"온유와 절제입니다. 이런 것들을 막을 법이 없습니다.",
+    Kor:"온유와 절제입니다. 이런 것들을 금할 법은 없습니다.",
     Chn:"温柔、节制。这样的事没有律法禁止。",
     Eng:"gentleness and self-control. Against such things there is no law.",
     Ind:"kelemahlembutan, penguasaan diri. Tidak ada hukum yang menentang hal-hal itu."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Jikalau kita hidup oleh Roh, baiklah hidup kita juga dipimpin oleh Roh,"
   },
   {Bible:"Galatians", Chapter:5, Verse:26, Page:1,
-    Kor:"우리는 잘난 체하거나 서로 노엽게 하거나 질투하거나 하지 않도록 합시다.",
+    Kor:"우리는 허영에 들뜨거나, 서로 노엽게 하거나, 질투하거나 하지 않도록 합시다.",
     Chn:"不要贪图虚名，彼此惹气，互相嫉妒。",
     Eng:"Let us not become conceited, provoking and envying each other.",
     Ind:"dan janganlah kita gila hormat, janganlah kita saling menantang dan saling mendengki."

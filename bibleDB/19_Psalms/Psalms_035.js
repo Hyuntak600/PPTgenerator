@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",35,28);
 BibleDB.add([
   {Bible:"Psalms", Chapter:35, Verse:1, Page:1,
-    Kor:"<다윗의 시> 주님, 나와 다투는 자와 다투시고, 나와 싸우는 자와 싸워 주십시오.",
+    Kor:"주님, 나와 다투는 자와 다투시고, 나와 싸우는 자와 싸워 주십시오.",
     Chn:"大卫的诗。 耶和华啊，与我相争的，求你与他们相争！ 与我相战的，求你与他们相战！",
     Eng:"Contend, O LORD, with those who contend with me; fight against those who fight against me.",
     Ind:"Dari Daud. Berbantahlah, TUHAN, melawan orang yang berbantah dengan aku, berperanglah melawan orang yang berperang melawan aku!"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Peganglah perisai dan utar-utar, bangunlah menolong aku,"
   },
   {Bible:"Psalms", Chapter:35, Verse:3, Page:1,
-    Kor:"창과 단창을 뽑으셔서 나를 추격하는 자들을 막아 주시고, 나에게는 \"내가 너를 구원하겠다\" 하고 말씀하여 주십시오.",
+    Kor:"큰 창과 작은 창을 뽑으셔서 나를 추격하는 자들을 막아 주시고, 나에게는 \"내가 너를 구원하겠다\" 하고 다짐하여 주십시오.",
     Chn:"抽出枪来，挡住那追赶我的； 求你对我的灵魂说：我是拯救你的。",
     Eng:"Brandish spear and javelin against those who pursue me. Say to my soul, \"I am your salvation.\"",
     Ind:"cabutlah tombak dan kapak menghadapi orang-orang yang mengejar aku; katakanlah kepada jiwaku: \"Akulah keselamatanmu!\""
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Biarlah mendapat malu dan kena noda, orang-orang yang ingin mencabut nyawaku; biarlah mundur dan tersipu-sipu orang-orang yang merancang kecelakaanku!"
   },
   {Bible:"Psalms", Chapter:35, Verse:5, Page:1,
-    Kor:"그들을 바람에 날리는 겨처럼 흩으시고, 주님의 천사에게서 쫓겨나게 하여 주십시오.",
+    Kor:"그들을 바람에 날리는 겨처럼 흩으시고, 주의 천사에게서 쫓겨나게 하여 주십시오.",
     Chn:"愿他们像风前的糠， 有耶和华的使者赶逐他们。",
     Eng:"May they be like chaff before the wind, with the angel of the LORD driving them away;",
     Ind:"Biarlah mereka seperti sekam dibawa angin, didorong Malaikat TUHAN;"
   },
   {Bible:"Psalms", Chapter:35, Verse:6, Page:1,
-    Kor:"그들이 가는 길을 어둡고 미끄럽게 하시어, 주님의 천사가 그들을 추격하게 해주십시오.",
+    Kor:"그들이 가는 길을 어둡고 미끄럽게 하시어, 주의 천사가 그들을 추격하게 해주십시오.",
     Chn:"愿他们的道路又暗又滑， 有耶和华的使者追赶他们。",
     Eng:"may their path be dark and slippery, with the angel of the LORD pursuing them.",
     Ind:"biarlah jalan mereka gelap dan licin, dan Malaikat TUHAN mengejar mereka!"
   },
   {Bible:"Psalms", Chapter:35, Verse:7, Page:1,
-    Kor:"몰래 그물을 치고 구덩이를 파며, 이유 없이 내 생명을 빼앗으려는 저 사람들,",
+    Kor:"까닭 없이 구덩이를 파고 그물을 쳐서, 이유 없이 내 생명을 묻으려는 저 사람들,",
     Chn:"因他们无故地为我暗设网罗， 无故地挖坑，要害我的性命。",
     Eng:"Since they hid their net for me without cause and without cause dug a pit for me,",
     Ind:"Karena tanpa alasan mereka memasang jaring terhadap aku, tanpa alasan mereka menggali pelubang untuk nyawaku."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Biarlah kebinasaan mendatangi dia dengan tidak disangka-sangka, jerat yang dipasangnya, biarlah menangkap dia sendiri, biarlah ia jatuh dan musnah!"
   },
   {Bible:"Psalms", Chapter:35, Verse:9, Page:1,
-    Kor:"그 때에 내 영혼이 주님을 기뻐하며, 주님의 구원을 크게 즐거워할 것이다.",
+    Kor:"그 때에 내 영혼이 주 안에서 기뻐하며, 주의 승리를 크게 즐거워할 것이다.",
     Chn:"我的心必靠耶和华快乐， 靠他的救恩高兴。",
     Eng:"Then my soul will rejoice in the LORD and delight in his salvation.",
     Ind:"Tetapi aku bersorak-sorak karena TUHAN, aku girang karena keselamatan dari pada-Nya;"
   },
   {Bible:"Psalms", Chapter:35, Verse:10, Page:1,
-    Kor:"\"주님, 주님과 같은 분이 누굽니까? 주님은 약한 사람을 강한 자에게서 건지시며, 가난한 사람과 억압을 받는 사람을 약탈하는 자들에게서 건지십니다. 이것은 나의 뼈 속에서 나오는 고백입니다.\"",
+    Kor:"내 모든 뼈들도 \"주님, 주님과 같은 분이 누굽니까? 주님은 약한 사람을 강한 자에게서 건지시며, 가난한 사람과 억압을 받는 사람을 약탈하는 자들에게서 건지십니다\" 하고 찬양할 것이다.",
     Chn:"我的骨头都要说： 耶和华啊，谁能像你 救护困苦人脱离那比他强壮的， 救护困苦穷乏人脱离那抢夺他的？",
     Eng:"My whole being will exclaim, \"Who is like you, O LORD? You rescue the poor from those too strong for them, the poor and needy from those who rob them.\"",
     Ind:"segala tulangku berkata: \"Ya, TUHAN, siapakah yang seperti Engkau, yang melepaskan orang sengsara dari tangan orang yang lebih kuat dari padanya, orang sengsara dan miskin dari tangan orang yang merampasi dia?\""
   },
   {Bible:"Psalms", Chapter:35, Verse:11, Page:1,
-    Kor:"거짓 증인들이 일어나서, 내가 알지도 못하는 일을 캐묻는구나.",
+    Kor:"불의한 증인들이 일어나서, 내가 알지도 못하는 일을 캐묻는구나.",
     Chn:"凶恶的见证人起来， 盘问我所不知道的事。",
     Eng:"Ruthless witnesses come forward; they question me on things I know nothing about.",
     Ind:"Saksi-saksi yang gemar kekerasan bangkit berdiri, apa yang tidak kuketahui, itulah yang mereka tuntut dari padaku."
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"Mereka membalas kebaikanku dengan kejahatan; perasaan bulus mencekam aku."
   },
   {Bible:"Psalms", Chapter:35, Verse:13, Page:1,
-    Kor:"그들이 병들었을 때에, 나는 굵은 베 옷을 걸치고, 나를 낮추어 금식하며 기도했건만! 오, 내 기도가 응답되지 않았더라면 더 좋았을 텐데!",
+    Kor:"그들이 병들었을 때에, 나는 굵은 베 옷을 걸치고, 금식하며 고행까지 했건만, 내 기도가 응답 없이 되돌아왔을 때에,",
     Chn:"至于我，当他们有病的时候， 我便穿麻衣，禁食，刻苦己心； 我所求的都归到自己的怀中。",
     Eng:"Yet when they were ill, I put on sackcloth and humbled myself with fasting. When my prayers returned to me unanswered,",
     Ind:"Tetapi aku, ketika mereka sakit, aku memakai pakaian kabung; aku menyiksa diriku dengan berpuasa, dan doaku kembali timbul dalam dadaku,"
   },
   {Bible:"Psalms", Chapter:35, Verse:14, Page:1,
-    Kor:"친구나 친척에게 하듯이 나는 그들의 아픔을 함께 아파하고, 모친상을 당한 사람처럼 상복을 입고 몸을 굽혀서 애도하였다.",
+    Kor:"친구나 친척에게 하듯이 나는 그들의 아픔을 함께 아파하고, 모친상을 당한 사람처럼 상복을 입고 몸을 굽혀서 애도했건만.",
     Chn:"我这样行，好像他是我的朋友，我的弟兄； 我屈身悲哀，如同人为母亲哀痛。",
     Eng:"I went about mourning as though for my friend or brother. I bowed my head in grief as though weeping for my mother.",
     Ind:"seolah-olah temanku atau saudarakulah yang sakit, demikianlah aku berlaku; seperti orang yang berkeluh kesah karena kematian ibu, demikianlah aku tunduk dengan pakaian kabung."
   },
   {Bible:"Psalms", Chapter:35, Verse:15, Page:1,
-    Kor:"그러나 정작 내가 환난을 당할 때에, 오히려 그들은 모여서 기뻐 떠들고, 폭력배들이 내 주위에 모여서는 순식간에 나를 치고, 쉴새 없이 나를 찢었다.",
+    Kor:"그러나 정작, 내가 환난을 당할 때에, 오히려 그들은 모여서 기뻐 떠들고, 내 주위에 모여서는 순식간에 나를 치고, 사정없이 나를 찢었다.",
     Chn:"我在患难中，他们却欢喜，大家聚集。 我所不认识的那些下流人聚集攻击我； 他们不住地把我撕裂。",
     Eng:"But when I stumbled, they gathered in glee; attackers gathered against me when I was unaware. They slandered me without ceasing.",
     Ind:"Tetapi ketika aku tersandung jatuh, bersukacitalah mereka dan berkerumun, berkerumun melawan aku; orang-orang asing yang tidak kukenal menista aku dengan tidak henti-hentinya;"
   },
   {Bible:"Psalms", Chapter:35, Verse:16, Page:1,
-    Kor:"a장애자를 조롱하는 망령된 자와 같이 그들은 나를 조롱하고 비웃으며, 나를 보고 이를 갈았다. (a 칠십인역을 따름. 히, '경건하지 못한 조롱자들의 무리와 같이')",
+    Kor:"그들은 망령되이 나를 조롱하고 비웃으며, 나를 보고 이를 갈았다.",
     Chn:"他们如同席上好嬉笑的狂妄人向我咬牙。",
     Eng:"Like the ungodly they maliciously mocked; they gnashed their teeth at me.",
     Ind:"dengan fasik mereka mengolok-olok terus, menggertakkan giginya terhadap aku."
@@ -105,43 +105,43 @@ BibleDB.add([
     Ind:"Sampai berapa lama, Tuhan, Engkau memandangi saja? Selamatkanlah jiwaku dari perusakan mereka, nyawaku dari singa-singa muda!"
   },
   {Bible:"Psalms", Chapter:35, Verse:18, Page:1,
-    Kor:"나는 큰 회중 가운데서 주님께 감사를 드리며, 나는 수많은 백성 가운데서 주님을 찬송하렵니다.",
+    Kor:"나는 큰 회중 가운데서 주님께 감사를 드리며, 나는 큰 무리 가운데서 주님을 찬송하렵니다.",
     Chn:"我在大会中要称谢你， 在众民中要赞美你。",
     Eng:"I will give you thanks in the great assembly; among throngs of people I will praise you.",
     Ind:"Aku mau menyanyikan syukur kepada-Mu dalam jemaah yang besar, di tengah-tengah rakyat yang banyak aku mau memuji-muji Engkau."
   },
   {Bible:"Psalms", Chapter:35, Verse:19, Page:1,
-    Kor:"거짓말쟁이 원수들이 나를 이겼다면서 기뻐하지 못하게 해주십시오. 까닭 없이 나를 미워하는 자들이 서로 눈짓을 주고받으며 즐거워하지 못하게 해주십시오.",
+    Kor:"내 원수들이 나를 이겼다고 거짓말을 하면서 기뻐하지 못하게 해주십시오. 까닭 없이 나를 미워하는 자들이 서로 눈짓을 주고받으며 즐거워하지 못하게 해주십시오.",
     Chn:"求你不容那无理与我为仇的向我夸耀！ 不容那无故恨我的向我挤眼！",
     Eng:"Let not those gloat over me who are my enemies without cause; let not those who hate me without reason maliciously wink the eye.",
     Ind:"Janganlah sekali-kali bersukacita atas aku orang-orang yang memusuhi aku tanpa sebab, atau mengedip-ngedipkan mata orang-orang yang membenci aku tanpa alasan."
   },
   {Bible:"Psalms", Chapter:35, Verse:20, Page:1,
-    Kor:"그들은 평화에 대해 말하는 법이 없습니다. 평화롭게 사는 백성을 거짓말로 모해합니다.",
+    Kor:"아, 평화조약을 지키지 않는 그들, 오히려, 평화를 사랑하는 백성을 거짓말로 모해하는 그들입니다.",
     Chn:"因为他们不说和平话， 倒想出诡诈的言语害地上的安静人。",
     Eng:"They do not speak peaceably, but devise false accusations against those who live quietly in the land.",
     Ind:"Karena mereka tidak membicarakan damai, dan terhadap orang-orang yang rukun di negeri mereka merancangkan penipuan,"
   },
   {Bible:"Psalms", Chapter:35, Verse:21, Page:1,
-    Kor:"그들은 입을 크게 벌려 \"하하!\" 하고 웃으면서 \"우리가 두 눈으로 그가 저지르는 잘못을 똑똑히 보았다\" 하고 위증합니다.",
+    Kor:"그들은 내 잘못을 목격했다고 떠들어댑니다. 입을 크게 벌려 \"하하\" 하고 웃으면서 \"우리가 두 눈으로 그가 저지르는 잘못을 똑똑히 보았다\" 하고 위증합니다.",
     Chn:"他们大大张口攻击我，说： 阿哈，阿哈，我们的眼已经看见了！",
     Eng:"They gape at me and say, \"Aha! Aha! With our own eyes we have seen it.\"",
     Ind:"mereka membuka mulutnya lebar-lebar terhadap aku dan berkata: \"Syukur, syukur, mata kami telah melihatnya!\""
   },
   {Bible:"Psalms", Chapter:35, Verse:22, Page:1,
-    Kor:"주님, 주님께서 친히 보셨으니, 가만히 계시지 마십시오. 주님, 나를 멀리하지 마십시오.",
+    Kor:"주님, 주께서 친히 보셨으니, 가만히 계시지 마십시오. 주님, 나를 멀리하지 마십시오.",
     Chn:"耶和华啊，你已经看见了，求你不要闭口！ 主啊，求你不要远离我！",
     Eng:"O LORD, you have seen this; be not silent. Do not be far from me, O Lord.",
     Ind:"Engkau telah melihatnya, TUHAN, janganlah berdiam diri, ya Tuhan, janganlah jauh dari padaku!"
   },
   {Bible:"Psalms", Chapter:35, Verse:23, Page:1,
-    Kor:"나의 하나님, 나의 주님, 분발하여 일어나셔서, 재판을 여시고 시비를 가려 주십시오.",
+    Kor:"나의 하나님, 나의 주님, 떨치고 일어나셔서, 나를 판결하여 주십시오. 나를 변호하여 주십시오.",
     Chn:"我的　神我的主啊，求你奋兴醒起， 判清我的事，伸明我的冤！",
     Eng:"Awake, and rise to my defense! Contend for me, my God and Lord.",
     Ind:"Terjagalah dan bangunlah membela hakku, membela perkaraku, ya Allahku dan Tuhanku!"
   },
   {Bible:"Psalms", Chapter:35, Verse:24, Page:1,
-    Kor:"주님, 나의 하나님, 주님의 공의로 나에게 공정한 판결을 내려 주십시오. 그들이 나를 이겼다고 하면서 기뻐하지 못하게 해주십시오.",
+    Kor:"주님, 나의 하나님, 주의 공의로 나를 판단하여 주십시오. 그들이 나를 이겼다고 하면서 기뻐하지 못하게 해주십시오.",
     Chn:"耶和华—我的　神啊，求你按你的公义判断我， 不容他们向我夸耀！",
     Eng:"Vindicate me in your righteousness, O LORD my God; do not let them gloat over me.",
     Ind:"Hakimilah aku sesuai dengan keadilan-Mu, ya TUHAN Allahku, supaya mereka jangan bersukacita atasku!"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Biarlah bersama-sama mendapat malu dan tersipu-sipu orang-orang yang bersukacita atas kemalanganku; biarlah berpakaian malu dan noda orang-orang yang membesarkan dirinya terhadap aku!"
   },
   {Bible:"Psalms", Chapter:35, Verse:27, Page:1,
-    Kor:"그러나 내가 받은 무죄 판결을 기뻐하는 자들은 즐거이 노래하면서 기뻐할 것이다. 그들은 쉬지 않고, \"주님은 위대하시다. 그를 섬기는 사람에게 기꺼이 평화를 주시는 분이시다\" 하고 말할 것이다.",
+    Kor:"그러나 내 무죄를 기뻐하는 자들은 즐거이 노래하면서 기뻐할 것이다. 그들은 쉬지 않고, \"주님은 위대하시다. 그분을 섬기는 사람에게 기꺼이 평화를 주시는 분이시다\" 하고 말할 것이다.",
     Chn:"愿那喜悦我冤屈得伸的欢呼快乐； 愿他们常说：当尊耶和华为大！ 耶和华喜悦他的仆人平安。",
     Eng:"May those who delight in my vindication shout for joy and gladness; may they always say, \"The LORD be exalted, who delights in the well-being of his servant.\"",
     Ind:"Biarlah bersorak-sorai dan bersukacita orang-orang yang ingin melihat aku dibenarkan! Biarlah mereka tetap berkata: \"TUHAN itu besar, Dia menginginkan keselamatan hamba-Nya!\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Judges",20,48);
 BibleDB.add([
   {Bible:"Judges", Chapter:20, Verse:1, Page:1,
-    Kor:"<이스라엘이 전쟁준비를 하다> 그리하여 북쪽의 단에서부터 남쪽의 브엘세바에 이르기까지, 또 동쪽의 길르앗 땅에서도, 모든 이스라엘 자손이 쏟아져 나와서, 온 회중이 한꺼번에 미스바에서 주님 앞에 모였다.",
+    Kor:"그리하여 북쪽의 단에서부터 남쪽의 브엘세바에 이르기까지, 또 동쪽의 길르앗 땅에서도, 모든 이스라엘 자손이 쏟아져 나와서, 온 회중이 한꺼번에 미스바에서 주 앞에 모였다.",
     Chn:"于是以色列从但到别是巴，以及住基列地的众人都出来，如同一人，聚集在米斯巴耶和华面前。",
     Eng:"Then all the Israelites from Dan to Beersheba and from the land of Gilead came out as one man and assembled before the LORD in Mizpah.",
     Ind:"Lalu majulah semua orang Israel; dari Dan sampai Bersyeba dan juga dari tanah Gilead berkumpullah umat itu secara serentak menghadap TUHAN di Mizpa."
   },
   {Bible:"Judges", Chapter:20, Verse:2, Page:1,
-    Kor:"이 때에 온 백성 곧 이스라엘 온 지파의 지도자들도 하나님의 백성의 총회에 참석하였다. 칼을 찬 보병도 사십만 명이나 모였다.",
+    Kor:"이 때에 온 백성, 곧 이스라엘 온 지파의 지도자들도 하나님의 백성의 총회에 참석하였다. 칼을 찬 보병도 사십만 명이나 모였다.",
     Chn:"以色列民的首领，就是各支派的军长，都站在　神百姓的会中；拿刀的步兵共有四十万。",
     Eng:"The leaders of all the people of the tribes of Israel took their places in the assembly of the people of God, four hundred thousand soldiers armed with swords.",
     Ind:"Maka berdirilah para pemuka dari seluruh bangsa itu, dari segala suku orang Israel, memimpin jemaah umat Allah yang jumlahnya empat ratus ribu orang berjalan kaki, yang bersenjatakan pedang."
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Inilah yang akan kita lakukan kepada Gibea; memeranginya, dengan membuang undi!"
   },
   {Bible:"Judges", Chapter:20, Verse:10, Page:1,
-    Kor:"이스라엘의 모든 지파에서 백 명마다 열 명을, 천 명마다 백 명을, 만 명마다 천 명을 뽑아서, 그들에게 군인들이 먹을 양식을 마련하게 하고, 군인들은 베냐민 땅에 있는 기브아로 가서, 기브아 사람이 이스라엘 안에서 저지른 이 모든 수치스러운 일을 벌하게 하자.\"",
+    Kor:"이스라엘의 모든 지파에서 백 명마다 열 명을, 천 명마다 백 명을, 만 명마다 천 명을 뽑아서 그들에게 군인들이 먹을 양식을 마련하게 하고, 군인들은 베냐민 땅에 있는 기브아로 가서, 기브아 사람이 이스라엘 안에서 저지른 이 모든 수치스러운 일을 벌하게 하자.\"",
     Chn:"我们要在以色列各支派中，一百人挑取十人，一千人挑取百人，一万人挑取千人，为民运粮，等大众到了便雅悯的基比亚，就照基比亚人在以色列中所行的丑事征伐他们。」",
     Eng:"We'll take ten men out of every hundred from all the tribes of Israel, and a hundred from a thousand, and a thousand from ten thousand, to get provisions for the army. Then, when the army arrives at Gibeah in Benjamin, it can give them what they deserve for all this vileness done in Israel.\"",
     Ind:"Kita akan memilih dari seluruh suku Israel sepuluh orang dari tiap-tiap seratus, seratus orang dari tiap-tiap seribu, seribu orang dari tiap-tiap sepuluh ribu, untuk mengambil bekal bagi laskar ini, supaya sesudah mereka datang, dilakukan kepada Gibea-Benyamin setimpal dengan segala perbuatan noda yang telah diperbuat mereka di antara orang Israel.\""
   },
   {Bible:"Judges", Chapter:20, Verse:11, Page:1,
-    Kor:"그리하여 모든 이스라엘 사람이 하나같이 뭉쳐서, 그 성읍을 치려고 모였다.",
+    Kor:"이리하여 모든 이스라엘 사람이 하나같이 뭉쳐서, 그 성읍을 치려고 모였다.",
     Chn:"于是以色列众人彼此连合如同一人，聚集攻击那城。",
     Eng:"So all the men of Israel got together and united as one man against the city.",
     Ind:"Demikianlah orang Israel berkumpul melawan kota itu, semuanya bersekutu dengan serentak."
   },
   {Bible:"Judges", Chapter:20, Verse:12, Page:1,
-    Kor:"○이스라엘의 지파들이 베냐민 온 지파에게 사람을 보내어, 이렇게 말을 전하였다. \"당신들 가운데서 이런 악한 일이 일어나다니, 어찌 된 일이오?",
+    Kor:"○이스라엘의 지파들이 베냐민 온 지파에게 사람을 보내어, 이렇게 말을 전하였다. \"너희 가운데서 이런 악한 일이 일어나다니, 어찌 된 일이냐?",
     Chn:"以色列众支派打发人去，问便雅悯支派的各家说：「你们中间怎么做了这样的恶事呢？",
     Eng:"The tribes of Israel sent men throughout the tribe of Benjamin, saying, \"What about this awful crime that was committed among you?",
     Ind:"Kemudian suku-suku Israel mengirim orang kepada seluruh suku Benyamin dengan pesan: \"Apa macam kejahatan yang terjadi di antara kamu itu!"
   },
   {Bible:"Judges", Chapter:20, Verse:13, Page:1,
-    Kor:"그러니 당신들은 이제 기브아에 있는 그 불량배들을 우리 손에 넘겨서, 우리가 그들을 죽여 이스라엘에서 이런 악한 일을 없애게 하시오.\" 그러나 베냐민 자손은 그들의 친족인 이스라엘 자손의 말을 들으려 하지 않았다.",
+    Kor:"그러니 너희는 이제 기브아에 있는 그 불량배들을 우리 손에 넘겨서, 우리가 그들을 죽여 이스라엘에서 이런 악한 일을 없애게 하여라.\" 그러나 베냐민 자손은 그들의 친족인 이스라엘 자손의 말을 들으려 하지 않았다.",
     Chn:"现在你们要将基比亚的那些匪徒交出来，我们好治死他们，从以色列中除掉这恶。」便雅悯人却不肯听从他们弟兄以色列人的话。",
     Eng:"Now surrender those wicked men of Gibeah so that we may put them to death and purge the evil from Israel.\" But the Benjamites would not listen to their fellow Israelites.",
     Ind:"Maka sekarang, serahkanlah orang-orang itu, yakni orang-orang dursila yang di Gibea itu, supaya kami menghukum mati mereka dan dengan demikian menghapuskan yang jahat itu dari antara orang Israel.\" Tetapi bani Benyamin tidak mau mendengarkan perkataan saudara-saudaranya, orang Israel itu."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Sebaliknya, bani Benyamin dari kota-kota lain berkumpul di Gibea untuk maju berperang melawan orang Israel."
   },
   {Bible:"Judges", Chapter:20, Verse:15, Page:1,
-    Kor:"그 날에 모여든 베냐민 자손은, 기브아의 주민들 가운데서 뽑은 칠백 명 외에도, 각 성읍에서 나온, 칼을 쓸 줄 아는 사람 이만 육천 명이 합세하였다.",
+    Kor:"그 날에 모여든 베냐민 자손은 기브아의 주민들 가운데서 뽑은 칠백 명 외에도 각 성읍에서 나온, 칼을 쓸 줄 아는 사람 이만 육천 명이 합세하였다.",
     Chn:"那时便雅悯人从各城里点出拿刀的，共有二万六千；另外还有基比亚人点出七百精兵。",
     Eng:"At once the Benjamites mobilized twenty-six thousand swordsmen from their towns, in addition to seven hundred chosen men from those living in Gibeah.",
     Ind:"Pada hari itu dihitunglah jumlah bani Benyamin dari kota-kota lain itu: dua puluh enam ribu orang yang bersenjatakan pedang, belum termasuk penduduk Gibea, yang terhitung tujuh ratus orang pilihan banyaknya."
   },
   {Bible:"Judges", Chapter:20, Verse:16, Page:1,
-    Kor:"이 모든 사람 가운데서 뽑힌 칠백 명 왼손잡이들은, 무릿매로 돌을 던져 머리카락도 빗나가지 않고 맞히는 사람들이었다.",
+    Kor:"이 모든 사람 가운데서 뽑힌 칠백 명 왼손잡이들은 무릿매로 돌을 던져, 머리카락도 빗나가지 않고 맞히는 사람들이었다.",
     Chn:"在众军之中有拣选的七百精兵，都是左手便利的，能用机弦甩石打人，毫发不差。",
     Eng:"Among all these soldiers there were seven hundred chosen men who were left-handed, each of whom could sling a stone at a hair and not miss.",
     Ind:"Dari segala laskar ini ada tujuh ratus orang pilihan yang kidal, dan setiap orang dari mereka dapat mengumban dengan tidak pernah meleset sampai sehelai rambutpun."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Juga orang-orang Israel dihitung jumlahnya; dengan tidak termasuk suku Benyamin ada empat ratus ribu orang yang bersenjatakan pedang; semuanya itu prajurit."
   },
   {Bible:"Judges", Chapter:20, Verse:18, Page:1,
-    Kor:"<베냐민 지파와의 전쟁> ○이스라엘 자손이 일어나 베델로 올라가서, 하나님께 여쭈었다. \"우리 가운데 어느 지파가 먼저 올라가서 베냐민 자손과 싸워야 합니까?\" 주님께서 말씀하셨다. \"유다 지파가 먼저 올라가거라.\"",
+    Kor:"○이스라엘 자손이 일어나 베델로 올라가서, 하나님께 여쭈었다. \"우리 가운데 어느 지파가 먼저 올라가서 베냐민 자손과 싸워야 합니까?\" 주께서 말씀하셨다. \"유다 지파가 먼저 올라가거라.\"",
     Chn:"以色列人就起来，到伯特利去求问　神说：「我们中间谁当首先上去与便雅悯人争战呢？」耶和华说：「犹大当先上去。」",
     Eng:"The Israelites went up to Bethel and inquired of God. They said, \"Who of us shall go first to fight against the Benjamites?\" The LORD replied, \"Judah shall go first.\"",
     Ind:"Lalu orang Israel berangkat dan maju ke Betel. Di sana mereka bertanya kepada Allah: \"Siapakah dari kami yang lebih dahulu maju berperang melawan bani Benyamin?\" Jawab TUHAN: \"Suku Yehudalah lebih dahulu.\""
@@ -129,44 +129,44 @@ BibleDB.add([
     Ind:"Juga bani Benyamin maju menyerang dari Gibea dan menggugurkan ke bumi dua puluh dua ribu orang dari antara orang Israel pada hari itu."
   },
   {Bible:"Judges", Chapter:20, Verse:22, Page:1,
-    Kor:"그래서 이스라엘 자손은 베델로 올라가서, 주님 앞에서 날이 저물도록 목놓아 울면서 여쭈었다. \"우리가 다시 가서, 우리의 동기 베냐민 자손과 싸워도 되겠습니까?\" 그 때에 주님께서 \"올라가서 싸워라!\" 하고 말씀하셨다. 이스라엘 사람들은 스스로 용기를 내어, 첫날 대열을 갖추었던 그 곳으로 가서, 다시 전투태세를 갖추었다.",
+    Kor:"그래서 이스라엘 자손은 베델로 올라가서, 주 앞에서 날이 저물도록 목놓아 울면서 여쭈었다. \"우리가 다시 가서, 우리의 동기 베냐민 자손과 싸워도 되겠습니까?\" 그 때에 주께서 \"올라가서 싸워라!\" 하고 말씀하셨다. 이스라엘 사람들은 스스로 용기를 내어, 첫날 대열을 갖추었던 그 곳으로 가서, 다시 전투태세를 갖추었다.",
     Chn:"以色列人彼此奋勇，仍在头一日摆阵的地方又摆阵。",
     Eng:"But the men of Israel encouraged one another and again took up their positions where they had stationed themselves the first day.",
     Ind:"Tetapi laskar orang Israel mengumpulkan segenap kekuatannya, lalu mengatur pula barisan perangnya di tempat mereka mengatur barisannya semula."
   },
   {Bible:"Judges", Chapter:20, Verse:23, Page:1,
-    Kor:"그래서 이스라엘 자손은 베델로 올라가서, 주님 앞에서 날이 저물도록 목놓아 울면서 여쭈었다. \"우리가 다시 가서, 우리의 동기 베냐민 자손과 싸워도 되겠습니까?\" 그 때에 주님께서 \"올라가서 싸워라!\" 하고 말씀하셨다. 이스라엘 사람들은 스스로 용기를 내어, 첫날 대열을 갖추었던 그 곳으로 가서, 다시 전투태세를 갖추었다.",
+    Kor:"(22절에 포함되어 있음)",
     Chn:"未摆阵之先，以色列人上去，在耶和华面前哭号，直到晚上，求问耶和华说：「我们再去与我们弟兄便雅悯人打仗可以不可以？」耶和华说：「可以上去攻击他们。」",
     Eng:"The Israelites went up and wept before the LORD until evening, and they inquired of the LORD. They said, \"Shall we go up again to battle against the Benjamites, our brothers?\" The LORD answered, \"Go up against them.\"",
     Ind:"Kemudian pergilah orang-orang Israel, lalu menangis di hadapan TUHAN sampai petang, sesudah itu mereka bertanya kepada TUHAN: \"Akan pergi pulakah kami berperang melawan bani Benyamin, saudara kami itu?\" Jawab TUHAN: \"Majulah melawan mereka.\""
   },
   {Bible:"Judges", Chapter:20, Verse:24, Page:1,
-    Kor:"○그 이튿날에 이스라엘 자손이 베냐민 자손을 치려고 가까이 나아갔다.",
+    Kor:"○그 이튿날에, 이스라엘 자손이 베냐민 자손을 치려고 가까이 나아갔다.",
     Chn:"第二日，以色列人就上前攻击便雅悯人。",
     Eng:"Then the Israelites drew near to Benjamin the second day.",
     Ind:"Tetapi ketika orang-orang Israel pada hari kedua sampai di dekat bani Benyamin,"
   },
   {Bible:"Judges", Chapter:20, Verse:25, Page:1,
-    Kor:"베냐민 자손은 이튿날에도 그들을 대항하려고 기브아에서 나와서, 이스라엘 자손 만 팔천 명을 땅에 쓰러뜨렸는데, 죽은 이들은 모두 칼을 쓸 줄 아는 사람들이었다.",
+    Kor:"베냐민 자손은, 이튿날에도 그들을 대항하려고 기브아에서 나와서, 이스라엘 자손 만 팔천 명을 땅에 쓰러뜨렸는데, 죽은 이들은 모두 칼을 쓸 줄 아는 사람들이었다.",
     Chn:"便雅悯人也在这日从基比亚出来，与以色列人接战，又杀死他们一万八千，都是拿刀的。",
     Eng:"This time, when the Benjamites came out from Gibeah to oppose them, they cut down another eighteen thousand Israelites, all of them armed with swords.",
     Ind:"maka pada hari kedua itu majulah suku Benyamin dari Gibea menyerbu mereka, dan digugurkannya pula ke bumi delapan belas ribu orang di antara orang-orang Israel; semuanya orang-orang yang bersenjatakan pedang."
   },
   {Bible:"Judges", Chapter:20, Verse:26, Page:1,
-    Kor:"그러자 온 이스라엘 자손은 베델로 올라가서, 주님 앞에서 목놓아 울었다. 그들은 거기에 앉아서 날이 저물도록 금식하고, 주님께 화목제와 번제를 드리고,",
+    Kor:"그러자 온 이스라엘 자손은 베델로 올라가서, 주 앞에서 목놓아 울었다. 그들은 거기에 앉아서 날이 저물도록 금식하고, 주께 화목제와 번제를 드리고,",
     Chn:"以色列众人就上到伯特利，坐在耶和华面前哭号，当日禁食直到晚上；又在耶和华面前献燔祭和平安祭。",
     Eng:"Then the Israelites, all the people, went up to Bethel, and there they sat weeping before the LORD. They fasted that day until evening and presented burnt offerings and fellowship offerings to the LORD.",
     Ind:"Kemudian pergilah semua orang Israel, yakni seluruh bangsa itu, lalu sampai di Betel; di sana mereka tinggal menangis di hadapan TUHAN, berpuasa sampai senja pada hari itu dan mempersembahkan korban bakaran dan korban keselamatan di hadapan TUHAN."
   },
   {Bible:"Judges", Chapter:20, Verse:27, Page:1,
-    Kor:"주님께 여쭈었다. (그 때는 하나님의 언약궤가 베델에 있었고,",
+    Kor:"주께 여쭈었다. (그 때는, 하나님의 언약궤가 베델에 있었고,",
     Chn:"那时，　神的约柜在那里；亚伦的孙子、以利亚撒的儿子非尼哈侍立在约柜前。以色列人问耶和华说：「我们当再出去与我们弟兄便雅悯人打仗呢？还是罢兵呢？」耶和华说：「你们当上去，因为明日我必将他们交在你们手中。」",
     Eng:"And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,",
     Ind:"Dan orang-orang Israel bertanya kepada TUHAN--pada waktu itu ada di sana tabut perjanjian Allah,",
     ChnVerseEnd:28
   },
   {Bible:"Judges", Chapter:20, Verse:28, Page:1,
-    Kor:"아론의 손자이며 엘르아살의 아들인 비느하스가 제사장으로 있는 때였다.) \"우리가 또다시 올라가서 우리의 동기 베냐민 자손과 싸워도 되겠습니까, 아니면 그만두어야 하겠습니까?\" 주님께서 말씀하셨다. \"올라가거라. 내일은 틀림없이 내가 그들을 너희 손에 넘겨 주겠다.\"",
+    Kor:"아론의 손자이며 엘르아살의 아들인 비느하스가 제사장으로 있는 때였다.) \"우리가 또다시 올라가서 우리의 동기 베냐민 자손과 싸워도 되겠습니까, 아니면 그만두어야 하겠습니까?\" 주께서 말씀하셨다. \"올라가거라. 내일은 틀림없이, 내가 그들을 너희 손에 넘겨 주겠다.\"",
     Chn:"",
     Eng:"with Phinehas son of Eleazar, the son of Aaron, ministering before it.) They asked, \"Shall we go up again to battle with Benjamin our brother, or not?\" The LORD responded, \"Go, for tomorrow I will give them into your hands.\"",
     Ind:"dan Pinehas bin Eleazar bin Harun menjadi imam Allah pada waktu itu--kata mereka: \"Haruskah kami maju sekali lagi untuk berperang melawan bani Benyamin, saudara kami itu, atau haruskah kami hentikan itu?\" Jawab TUHAN: \"Majulah, sebab besok Aku akan menyerahkan mereka ke dalam tanganmu.\""
@@ -190,13 +190,13 @@ BibleDB.add([
     Ind:"Maka majulah bani Benyamin menyerbu laskar itu; mereka terpancing dari kota, dan seperti yang sudah-sudah, mereka mulai menyerang laskar itu pada kedua jalan raya--yang satu menuju ke Betel, dan yang lain ke Gibea melalui padang--sehingga terbunuh beberapa orang, kira-kira tiga puluh orang di antara orang Israel."
   },
   {Bible:"Judges", Chapter:20, Verse:32, Page:1,
-    Kor:"그러자 베냐민 자손은 이스라엘 자손이 처음과 같이 자기들에게 지고 있다고 생각하였다. 그러나 이스라엘 자손은 \"우리가 도망치는 척하여 그들을 성읍에서 큰 길까지 꾀어 내자\" 하고 말하였다.",
+    Kor:"그러자 베냐민 자손은, 이스라엘 자손이 처음과 같이 자기들에게 지고 있다고 생각하였다. 그러나 이스라엘 자손은 \"우리가 도망치는 척하여 그들을 성읍에서 큰 길까지 꾀어 내자\" 하고 말하였다.",
     Chn:"便雅悯人说：「他们仍旧败在我们面前。」但以色列人说：「我们不如逃跑，引诱他们离开城到路上来。」",
     Eng:"While the Benjamites were saying, \"We are defeating them as before,\" the Israelites were saying, \"Let's retreat and draw them away from the city to the roads.\"",
     Ind:"Maka kata bani Benyamin: \"Orang-orang itu telah terpukul kalah oleh kita seperti semula.\" Tetapi orang-orang Israel telah bermupakat lebih dahulu: \"Marilah kita lari dan memancing mereka dari kota ke jalan-jalan raya.\""
   },
   {Bible:"Judges", Chapter:20, Verse:33, Page:1,
-    Kor:"그 때에 모든 이스라엘 주력부대는 자기들이 있던 자리에서 일어나 바알다말에서 대열을 갖추었으며, 이스라엘의 매복부대는 기브아 주변에 숨어 있다가 거기에서 쏟아져 나왔다.",
+    Kor:"그 때에 모든 이스라엘 주력부대는 자기들이 있던 자리에서 일어나, 바알다말에서 대열을 갖추었으며, 이스라엘의 매복부대는 기브아 주변에 숨어 있다가 거기에서 쏟아져 나왔다.",
     Chn:"以色列众人都起来，在巴力·他玛摆阵，以色列的伏兵从马利·迦巴埋伏的地方冲上前去。",
     Eng:"All the men of Israel moved from their places and took up positions at Baal Tamar, and the Israelite ambush charged out of its place on the west of Gibeah.",
     Ind:"Jadi orang Israel bangun dari tempatnya dan mengatur barisannya di Baal-Tamar, sedang orang Israel yang menghadang itu tiba-tiba keluar dari tempatnya, yakni tempat terbuka dekat Geba,"
@@ -208,13 +208,13 @@ BibleDB.add([
     Ind:"dan sampai di depan Gibea, sebanyak sepuluh ribu orang pilihan dari seluruh Israel. Pertempuran itu dahsyat, tetapi bani Benyamin tidak tahu bahwa malapetaka datang menimpa mereka."
   },
   {Bible:"Judges", Chapter:20, Verse:35, Page:1,
-    Kor:"주님께서 이스라엘 앞에서 베냐민을 치셨으므로, 그 날 이스라엘 자손이 칼을 쓸 줄 아는 베냐민 사람 이만 오천백 명을 모두 쳐죽였다.",
+    Kor:"주께서 이스라엘 앞에서 베냐민을 치셨으므로, 그 날 이스라엘 자손이 칼을 쓸 줄 아는 베냐민 사람 이만 오천백 명을 모두 쳐죽였다.",
     Chn:"耶和华使以色列人杀败便雅悯人。那日，以色列人杀死便雅悯人二万五千一百，都是拿刀的。",
     Eng:"The LORD defeated Benjamin before Israel, and on that day the Israelites struck down 25,100 Benjamites, all armed with swords.",
     Ind:"TUHAN membuat suku Benyamin terpukul kalah oleh orang Israel, dan pada hari itu orang-orang Israel memusnahkan dari antara suku Benyamin dua puluh lima ribu seratus orang, semuanya orang-orang yang bersenjatakan pedang."
   },
   {Bible:"Judges", Chapter:20, Verse:36, Page:1,
-    Kor:"그제서야 베냐민 자손은 자기들이 패한 것을 알았다. <이스라엘이 승리한 방법> ○이스라엘의 주력부대가 자기들이 있던 자리를 베냐민에게 내주고 물러선 것은, 기브아 둘레에 매복시켜 둔 병력을 믿었기 때문이다.",
+    Kor:"그제서야 베냐민 자손은, 자기들이 패한 것을 알았다. ○이스라엘의 주력부대가, 자기들이 있던 자리를 베냐민에게 내주고 물러선 것은, 기브아 둘레에 매복시켜 둔 병력을 믿었기 때문이다.",
     Chn:"于是便雅悯人知道自己败了。先是以色列人；因为靠着在基比亚前所设的伏兵，就在便雅悯人面前诈败。",
     Eng:"Then the Benjamites saw that they were beaten. Now the men of Israel had given way before Benjamin, because they relied on the ambush they had set near Gibeah.",
     Ind:"Bani Benyamin melihat, bahwa mereka telah terpukul kalah. Sementara orang-orang Israel agak mundur di depan suku Benyamin--sebab mereka mempercayai penghadang-penghadang yang ditempatkan mereka untuk menyerang Gibea--"
@@ -238,7 +238,7 @@ BibleDB.add([
     Ind:"Ketika orang-orang Israel mundur dalam pertempuran itu, maka suku Benyamin mulai menyerang orang Israel, sehingga terbunuh kira-kira tiga puluh orang, karena pikir mereka: \"Tentulah orang-orang itu terpukul kalah sama sekali oleh kita seperti dalam pertempuran yang dahulu.\""
   },
   {Bible:"Judges", Chapter:20, Verse:40, Page:1,
-    Kor:"그러나 성읍에서 연기가 구름기둥처럼 치솟아오를 때에 베냐민 사람들이 뒤돌아보니, 온 성읍이 불바다가 되어 불길이 하늘로 치솟는 것이 아닌가!",
+    Kor:"그러나 성읍에서 연기가 구름기둥처럼 치솟아오를 때에, 베냐민 사람들이 뒤돌아보니, 온 성읍이 불바다가 되어 불길이 하늘로 치솟는 것이 아닌가!",
     Chn:"当烟气如柱从城中上腾的时候，便雅悯人回头观看，见全城的烟气冲天。",
     Eng:"But when the column of smoke began to rise from the city, the Benjamites turned and saw the smoke of the whole city going up into the sky.",
     Ind:"Tetapi pada waktu itu mulailah gumpalan asap naik dari kota itu seperti tiang asap. Suku Benyamin menoleh ke belakang dan tampaklah kota itu seluruhnya terbakar, apinya naik ke langit."
@@ -250,7 +250,7 @@ BibleDB.add([
     Ind:"Lagipula orang-orang Israel maju lagi. Maka gemetarlah orang-orang Benyamin itu, sebab mereka melihat, bahwa malapetaka datang menimpa mereka."
   },
   {Bible:"Judges", Chapter:20, Verse:42, Page:1,
-    Kor:"그들은 이스라엘 사람들 앞에서 물러나 광야길로 방향을 돌렸으나, 퇴로가 막혔다. 그들은 이스라엘 주력부대와 성읍을 치고 나온 부대 사이에 끼여 협살당하고 말았다.",
+    Kor:"그들은 이스라엘 사람들 앞에서 물러나 광야길로 방향을 돌렸으나, 퇴로가 막혔다. 그들은 이스라엘 주력부대와 성읍을 치고 나온 부대 사이에 끼어 협살당하고 말았다.",
     Chn:"他们在以色列人面前转身往旷野逃跑；以色列人在后面追杀。那从各城里出来的，也都夹攻杀灭他们。",
     Eng:"So they fled before the Israelites in the direction of the desert, but they could not escape the battle. And the men of Israel who came out of the towns cut them down there.",
     Ind:"Jadi larilah mereka dari depan orang-orang Israel itu, ke arah padang gurun, tetapi pertempuran itu tidak dapat dihindari mereka, lalu orang-orang dari kota-kota menghabisi mereka di tengah-tengahnya."
@@ -268,7 +268,7 @@ BibleDB.add([
     Ind:"Dari bani Benyamin ada tewas delapan belas ribu orang, semuanya orang-orang gagah perkasa."
   },
   {Bible:"Judges", Chapter:20, Verse:45, Page:1,
-    Kor:"베냐민의 나머지 패잔병은 방향을 바꾸어 광야 쪽 림몬 바위 있는 데까지 도망쳤으나, 이스라엘 사람들이 큰 길에서 오천 명을 이삭 줍듯이 모조리 죽이고, 기돔에까지 쫓아가서 덮쳐 또 이천 명을 죽였다.",
+    Kor:"베냐민의 나머지 패잔병은 방향을 바꾸어 광야 쪽 림몬 바위 있는 데까지 도망쳤으나, 이스라엘 사람들이 큰 길에서 오천 명을, 이삭 줍듯이 모조리 죽이고, 기돔에까지 쫓아가서 덮쳐, 또 이천 명을 죽였다.",
     Chn:"其余的人转身向旷野逃跑，往临门磐去。以色列人在道路上杀了他们五千人，如拾取遗穗一样，追到基顿又杀了他们二千人。",
     Eng:"As they turned and fled toward the desert to the rock of Rimmon, the Israelites cut down five thousand men along the roads. They kept pressing after the Benjamites as far as Gidom and struck down two thousand more.",
     Ind:"Yang lain berpaling lari ke padang gurun, ke bukit batu Rimon. Tetapi di jalan-jalan raya masih diadakan penyabitan susulan di antara mereka: lima ribu orang; mereka diburu sampai ke Gideom dan dipukul mati dua ribu orang dari mereka."

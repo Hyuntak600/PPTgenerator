@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",120,7);
 BibleDB.add([
   {Bible:"Psalms", Chapter:120, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래> 내가 고난을 받을 때에 주님께 부르짖었더니, 주님께서 나에게 응답하여 주셨다.",
+    Kor:"내가 고난을 받을 때에 주님께 부르짖었더니, 주께서 나에게 응답하여 주셨다.",
     Chn:"上行（或作登阶，下同）之诗。 我在急难中求告耶和华， 他就应允我。",
     Eng:"I call on the LORD in my distress, and he answers me.",
     Ind:"Nyanyian ziarah. Dalam kesesakanku aku berseru kepada TUHAN dan Ia menjawab aku:"

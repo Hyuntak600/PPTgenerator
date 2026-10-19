@@ -3,37 +3,37 @@
 BibleDB.ref("Jeremiah",51,64);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:51, Verse:1, Page:1,
-    Kor:"<바빌로니아의 심판자이신 주님> \"나 주가 말한다. 내가 바빌로니아를 치고 a레브 카마이의 백성을 치기 위하여, 멸망시키는 원수를 일으키겠다. (a 레브 카마이는 갈대아 곧 바빌로니아를 가리키는 암호문자임. 칠십인역에는 '갈대아'라고 번역하였음. 역본에 따라 '마음으로 내게 대적하는'이라고 번역하기도 함)",
+    Kor:"\"나 주가 이렇게 말한다. 내가 바빌로니아를 치고 레브 카마이의 백성을 치려고, 멸망시키는 원수를 일으키겠다.",
     Chn:"耶和华如此说： 我必使毁灭的风刮起， 攻击巴比伦和住在立加米的人。",
     Eng:"This is what the LORD says: \"See, I will stir up the spirit of a destroyer against Babylon and the people of Leb Kamai.",
     Ind:"Beginilah firman TUHAN: \"Sesungguhnya, Aku menggerakkan terhadap Babel, terhadap penduduk negeri orang-orang Kasdim, suatu semangat pemusnah."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:2, Page:1,
-    Kor:"내가 바빌로니아로 키질하는 외국 군대를 보내어서, 그 땅을 키질하여 말끔히 쓸어내게 하겠다. 재앙의 날이 오면, 그들이 사방에서 몰려와서 그 땅을 칠 것이다.",
+    Kor:"내가 바빌로니아로 키질하는 외국 군대를 보내어서, 그 땅을 키질하여 말끔히 쓸어내도록 하겠다. 재앙의 날이 오면, 그들이 사방에서 몰려와서 그 땅을 칠 것이다.",
     Chn:"我要打发外邦人来到巴比伦， 簸扬她，使她的地空虚。 在她遭祸的日子， 他们要周围攻击她。",
     Eng:"I will send foreigners to Babylon to winnow her and to devastate her land; they will oppose her on every side in the day of her disaster.",
     Ind:"Aku akan mengirim ke Babel penampi-penampi yang akan menampinya dan yang akan menyapu bersih negerinya, sebab mereka mengepungnya dari segala pihak pada hari malapetaka."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:3, Page:1,
-    Kor:"바빌로니아의 군대가 활을 당기지 못하게 하고, 갑옷을 입지 못하게 하여라. 너희는 바빌로니아의 젊은이를 무자비하게 죽이고, 그 모든 군대를 b진멸시켜라. (b '진멸'로 번역되는 히브리어 헤렘은 물건이나 짐승이나 사람을 완전히 진멸하여 하나님께 바치는 제물로 삼는다는 것을 가리킴. 진멸하여 바칠 물건은 사람이 가질 수 없음)",
+    Kor:"바빌로니아의 군대가 활을 당기지 못하게 하고, 갑옷을 입지 못하게 하여라. 너희는 바빌로니아의 젊은이를 무자비하게 죽이고, 그 모든 군대를 진멸시켜라.",
     Chn:"拉弓的，要向拉弓的和贯甲挺身的射箭。 不要怜惜她的少年人； 要灭尽她的全军。",
     Eng:"Let not the archer string his bow, nor let him put on his armor. Do not spare her young men; completely destroy her army.",
     Ind:"Hendaklah si pemanah membidikkan panahnya kepada orang yang membidik dan kepada orang yang berbaju zirah! Janganlah merasa sayang akan teruna-terunanya, tumpaslah segala tentaranya!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:4, Page:1,
-    Kor:"c바빌로니아 사람들이 자기들의 땅에서 칼에 쓰러져 죽고, 자기들이 사는 거리에서 창에 찔려 죽을 것이다.\" (c 또는 '갈대아')",
+    Kor:"바빌로니아 사람들이 자기들의 땅에서 칼에 쓰러져 죽고, 자기들이 사는 거리에서 창에 찔려 죽을 것이다.\"",
     Chn:"他们必在迦勒底人之地被杀仆倒， 在巴比伦的街上被刺透。",
     Eng:"They will fall down slain in Babylon, fatally wounded in her streets.",
     Ind:"Orang-orang yang terbunuh akan rebah di negeri orang-orang Kasdim dan orang-orang yang luka parah di jalan-jalannya--"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:5, Page:1,
-    Kor:"비록 이스라엘과 유다가 이스라엘의 거룩하신 분을 거역해서, d그들의 땅에 죄가 가득 찼으나, 자기들의 하나님 만군의 주에게 버림을 받은 것이 아니다. (d 또는 '바빌로니아 사람의 땅에')",
+    Kor:"비록 이스라엘과 유다가 이스라엘의 거룩하신 분을 거역해서, 그들의 땅에 죄가 가득 찼으나, 자기들의 하나님 만군의 주께 버림을 받은 것이 아니다.",
     Chn:"以色列和犹大虽然境内充满违背以色列圣者的罪， 却没有被他的　神—万军之耶和华丢弃。",
     Eng:"For Israel and Judah have not been forsaken by their God, the LORD Almighty, though their land is full of guilt before the Holy One of Israel.",
     Ind:"sungguh, Israel dan Yehuda tidak ditinggalkan sebagai janda oleh Allahnya, oleh TUHAN semesta alam--sebab negeri orang Kasdim penuh dengan kesalahan terhadap Yang Mahakudus, Allah Israel."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:6, Page:1,
-    Kor:"너희는 바빌로니아에서 탈출하여, 각자 자기의 목숨을 건져라. 바빌로니아의 죄악 때문에 너희까지 함께 죽지 말아라. 이제 주님께서 바빌로니아를 그가 받아야 마땅한 대로 보복하실 때가 되었다.",
+    Kor:"너희는 바빌로니아에서 탈출하여, 각자 자기의 목숨을 건져라. 바빌로니아의 죄악 때문에, 너희까지 함께 죽지 말아라. 이제 주께서 바빌로니아를 그가 받아야 마땅한 대로 보복하실 때가 되었다.",
     Chn:"你们要从巴比伦中逃奔， 各救自己的性命！ 不要陷在她的罪孽中一同灭亡； 因为这是耶和华报仇的时候， 他必向巴比伦施行报应。",
     Eng:"\"Flee from Babylon! Run for your lives! Do not be destroyed because of her sins. It is time for the LORD'S vengeance; he will pay her what she deserves.",
     Ind:"Larilah dari tengah-tengah Babel, hendaklah setiap orang menyelamatkan nyawanya, supaya kamu jangan tertumpas karena kesalahannya! Sebab inilah waktu pembalasan bagi TUHAN; Ia membayar ganjaran kepadanya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Babel tadinya seperti piala emas di tangan TUHAN yang memabukkan seluruh bumi. Bangsa-bangsa minum dari anggurnya, itulah sebabnya bangsa-bangsa menjadi gila."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:8, Page:1,
-    Kor:"바빌로니아가 갑자기 쓰러져서 망하였다. 그를 애도하고 통곡하여라. 혹시 그가 낫지 않는지, 유향을 가져다가 그 상처에 발라 보아라.",
+    Kor:"바빌로니아가 갑자기 쓰러져서 망하였다. 그를 애도하고 통곡하여라. 유향을 가져다가 그 상처에 발라 보아라. 혹시 그가 낫지 않는지?",
     Chn:"巴比伦忽然倾覆毁坏； 要为她哀号； 为止她的疼痛， 拿乳香或者可以治好。",
     Eng:"Babylon will suddenly fall and be broken. Wail over her! Get balm for her pain; perhaps she can be healed.",
     Ind:"Tiba-tiba Babel jatuh dan pecah, ratapilah dia! Ambillah balsam untuk lukanya, mungkin ia menjadi sembuh!"
@@ -57,19 +57,19 @@ BibleDB.add([
     Ind:"Kami tadinya mau menyembuhkan Babel, tetapi ia tidak dapat disembuhkan; tinggalkanlah dia, marilah kita pulang masing-masing ke negerinya! Sungguh, penghukumannya sudah sampai ke langit, sudah menjangkau awan-awan!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:10, Page:1,
-    Kor:"주님께서 우리의 의로움을 밝혀 주셨으니, 어서 시온으로 가서 주 우리의 하나님께서 하신 일을 선포하자.",
+    Kor:"주께서 우리의 의로움을 밝혀 주셨으니, 어서 시온으로 가서 주 우리의 하나님께서 하신 일을 선포하자.",
     Chn:"耶和华已经彰显我们的公义。 来吧！我们可以在锡安 报告耶和华—我们　神的作为。",
     Eng:"\"'The LORD has vindicated us; come, let us tell in Zion what the LORD our God has done.'",
     Ind:"TUHAN telah membuat segala kebenaran kita menjadi nyata; marilah kita ceritakan di Sion perbuatan TUHAN, Allah kita!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:11, Page:1,
-    Kor:"너희는 화살촉을 갈고, 방패를 잡아라. 주님께서 메대 왕의 마음을 움직이셔서 바빌로니아를 멸하기로 뜻을 세우셨다. 이것은 주님께서 주님의 성전을 무너뜨린 자들에게 하시는 복수다.",
+    Kor:"너희는 화살촉을 갈고, 방패를 잡아라. 주께서 메대 왕의 마음을 움직이셔서 바빌로니아를 멸하기로 뜻을 세우셨다. 이것은 주께서 주의 성전을 무너뜨린 자들에게 하시는 복수다.",
     Chn:"你们要磨尖了箭头， 抓住盾牌。 耶和华定意攻击巴比伦，将她毁灭，所以激动了米底亚君王的心；因这是耶和华报仇，就是为自己的殿报仇。",
     Eng:"\"Sharpen the arrows, take up the shields! The LORD has stirred up the kings of the Medes, because his purpose is to destroy Babylon. The LORD will take vengeance, vengeance for his temple.",
     Ind:"Lancipkanlah anak-anak panah, siapkanlah perisai-perisai! TUHAN telah membangkitkan semangat raja-raja Media, sebab rencana-Nya terhadap Babel ialah untuk memusnahkannya: itulah pembalasan TUHAN, pembalasan karena bait suci-Nya!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:12, Page:1,
-    Kor:"너희는 바빌론 도성의 성벽을 마주 보며 공격 신호의 깃발을 올려라. 경계를 강화하여라. 보초를 세워라. 복병을 매복시켜라. 주님께서는 바빌로니아 백성에게 하기로 계획하신 것을 말씀하신 그대로 이루실 것이다.",
+    Kor:"너희는 바빌론 도성의 성벽을 마주 보며 공격 신호의 깃발을 올려라. 경계를 강화하여라. 보초를 세워라. 복병을 매복시켜라. 주께서는 바빌로니아 백성에게 하기로 계획하신 것을 말씀하신 그대로 이루실 것이다.",
     Chn:"你们要竖立大旗， 攻击巴比伦的城墙； 要坚固了望台， 派定守望的设下埋伏； 因为耶和华指着巴比伦居民所说的话、 所定的意，他已经作成。",
     Eng:"Lift up a banner against the walls of Babylon! Reinforce the guard, station the watchmen, prepare an ambush! The LORD will carry out his purpose, his decree against the people of Babylon.",
     Ind:"Angkatlah panji-panji terhadap tembok-tembok Babel, perkuatlah penjagaan! Tempatkanlah orang-orang jaga, persiapkanlah penghadangan! Sebab TUHAN telah merencanakan dan melaksanakan juga apa yang diancamkan-Nya terhadap penduduk Babel."
@@ -81,25 +81,25 @@ BibleDB.add([
     Ind:"Hai engkau yang tinggal di tepi sungai besar, yang mempunyai kekayaan besar, akhir hidupmu sudah datang, batas hidupmu sudah sampai!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:14, Page:1,
-    Kor:"만군의 주님께서 그의 삶을 두고 맹세하셨다. \"내가 메뚜기 떼처럼 많은 군대로 너를 공격하게 할 것이니, 그들이 너를 이겨 승리의 환호를 할 것이다.\"",
+    Kor:"만군의 주께서 그의 삶을 두고 맹세하셨다. \"내가 메뚜기 떼처럼 많은 군대로 너를 공격하게 할 것이니, 그들이 너를 이겨 승리의 환호를 외칠 것이다.\"",
     Chn:"万军之耶和华指着自己起誓说： 我必使敌人充满你，像蚂蚱一样； 他们必呐喊攻击你。",
     Eng:"The LORD Almighty has sworn by himself: I will surely fill you with men, as with a swarm of locusts, and they will shout in triumph over you.",
     Ind:"TUHAN semesta alam telah bersumpah demi diri-Nya sendiri: Sungguhpun engkau penuh dengan manusia-manusia seperti belalang, tetapi orang akan mengangkat pekik pertempuran terhadapmu."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:15, Page:1,
-    Kor:"<하나님 찬양(렘 10:12-16)> 권능으로 땅을 만드시고, 지혜로 땅덩어리를 고정시키시고, 명철로 하늘을 펼치신 분은 주님이시다.",
+    Kor:"권능으로 땅을 만드시고, 지혜로 땅덩어리를 고정시키시고, 명철로 하늘을 펼치신 분은 주님이시다.",
     Chn:"耶和华用能力创造大地， 用智慧建立世界， 用聪明铺张穹苍。",
     Eng:"\"He made the earth by his power; he founded the world by his wisdom and stretched out the heavens by his understanding.",
     Ind:"Tuhanlah yang menjadikan bumi dengan kekuatan-Nya, yang menegakkan dunia dengan kebijaksanaan-Nya, dan yang membentangkan langit dengan akal budi-Nya."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:16, Page:1,
-    Kor:"주님께서 호령을 하시면, 하늘에서 물이 출렁이고, 땅 끝에서 먹구름이 올라온다. 주님은 번개를 일으켜 비를 내리시며, 바람 창고에서 바람을 내보내신다.",
+    Kor:"주께서 호령을 하시면, 하늘에서 물이 출렁이고, 땅 끝에서 먹구름이 올라온다. 주님은 번개를 일으켜 비를 내리시며, 바람 창고에서 바람을 내보내신다.",
     Chn:"他一发声，空中便有多水激动； 他使云雾从地极上腾。 他造电随雨而闪， 从他府库中带出风来。",
     Eng:"When he thunders, the waters in the heavens roar; he makes clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from his storehouses.",
     Ind:"Apabila Ia memperdengarkan suara-Nya, menderulah bunyi air di langit, Ia menaikkan kabut awan dari ujung bumi, Ia membuat kilat serta dengan hujan, dan mengeluarkan angin dari perbendaharaan-Nya."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:17, Page:1,
-    Kor:"사람은 누구나 어리석고 무식하다. 금속을 부어서 만든 신상들은 거짓이요, 그것들 속에 생명이 없으니, 은장이들은 자기들이 만든 신상 때문에 모두 수치를 당하고야 만다. 금속을 부어서 만든 신상들은 속임수요, 그것들 속에는 생명이 없으니,",
+    Kor:"사람은 누구나 어리석고 무식하다. 금속을 부어서 만든 신상들은 거짓이요 그것들 속에 생명이 없으니, 은장이들은 자기들이 만든 신상 때문에 모두 수치를 당하고야 만다. 금속을 부어서 만든 신상들은 속임수요, 그것들 속에는 생명이 없으니,",
     Chn:"各人都成了畜类，毫无知识。 各银匠都因他的偶像羞愧； 他所铸的偶像本是虚假的， 其中并无气息，",
     Eng:"\"Every man is senseless and without knowledge; every goldsmith is shamed by his idols. His images are a fraud; they have no breath in them.",
     Ind:"Setiap manusia ternyata bodoh, tidak berpengetahuan, dan setiap pandai emas akan menjadi malu karena patung buatannya. Sebab patung tuangannya itu adalah tipu, tidak ada nyawa di dalamnya,"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"semuanya adalah kesia-siaan, pekerjaan yang menjadi buah ejekan, dan yang akan binasa pada waktu dihukum."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:19, Page:1,
-    Kor:"그러나 야곱의 분깃이신 주님은 그런 것들과는 전혀 다르시다. 그분은 만물의 조성자이시요, 이스라엘을 당신의 소유로 삼으신 분이시다. 그분의 이름은 '만군의 주'이시다.",
+    Kor:"그러나 야곱의 분깃이신 주님은 그런 것들과는 전혀 다르시다. 그분은 만물의 조성자이시요 이스라엘을 당신의 소유로 삼으신 분이시다. 그분의 이름은 '만군의 주'이시다.",
     Chn:"雅各的分不像这些， 因他是造作万有的主； 以色列也是他产业的支派。 万军之耶和华是他的名。",
     Eng:"He who is the Portion of Jacob is not like these, for he is the Maker of all things, including the tribe of his inheritance--the LORD Almighty is his name.",
     Ind:"Tidaklah begitu Dia yang menjadi bagian Yakub, sebab Dialah yang membentuk segala-galanya, dan Israel adalah suku milik-Nya; nama-Nya ialah TUHAN semesta alam!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:20, Page:1,
-    Kor:"<바빌로니아는 주님의 철퇴> \"너는 나의 철퇴요, 나의 무기다. 나는 너를 시켜서 뭇 민족을 산산이 부수고, 뭇 나라를 멸망시켰다.",
+    Kor:"\"너는 나의 철퇴요, 나의 무기다. 나는 너를 시켜서 뭇 민족을 산산이 부수고, 뭇 나라를 멸망시켰다.",
     Chn:"你是我争战的斧子和打仗的兵器； 我要用你打碎列国， 用你毁灭列邦；",
     Eng:"\"You are my war club, my weapon for battle--with you I shatter nations, with you I destroy kingdoms,",
     Ind:"Engkau tadinya adalah palu godam bagi-Ku, senjata perang: Dengan engkau Aku menghancurkan bangsa-bangsa, dengan engkau Aku memusnahkan kerajaan-kerajaan,"
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"dengan engkau Aku menghancurkan orang laki-laki dan perempuan, dengan engkau Aku menghancurkan orang tua dan muda, dengan engkau Aku menghancurkan teruna dan dara,"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:23, Page:1,
-    Kor:"나는 너를 시켜서 목자와 양 떼도 산산이 부수고, 농부와 소도 산산이 부수고, 총독과 지방장관들도  산산이 부수었다.\"",
+    Kor:"나는 너를 시켜서 목자와 양 떼도 산산이 부수고, 농부와 소도 산산이 부수고, 총독과 지방장관들도 산산이 부수었다.\"",
     Chn:"用你打碎牧人和他的群畜； 用你打碎农夫和他一对牛； 用你打碎省长和副省长。",
     Eng:"with you I shatter shepherd and flock, with you I shatter farmer and oxen, with you I shatter governors and officials.",
     Ind:"dengan engkau Aku menghancurkan gembala dan kawanan dombanya, dengan engkau Aku menghancurkan petani dan lembu pembajaknya, dengan engkau Aku menghancurkan bupati-bupati dan pembesar-pembesar!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:24, Page:1,
-    Kor:"<바빌로니아가 받는 형벌> \"그러나 이제는 내가 c바빌로니아 땅과 바빌로니아 백성에게 원수를 갚겠다. 그들이 시온에 와서 저지른 모든 죄악을, 너희들이 보는 앞에서, 내가 그들에게 갚아 주겠다. 나 주의 말이다. (c 또는 '갈대아')",
+    Kor:"\"그러나 이제는 내가 바빌로니아 땅과 바빌로니아 백성에게 원수를 갚겠다. 그들이 시온에 와서 저지른 모든 죄악을, 너희들이 보는 앞에서, 내가 그들에게 갚아 주겠다. 나 주의 말이다.",
     Chn:"耶和华说：「我必在你们眼前报复巴比伦人和迦勒底居民在锡安所行的诸恶。」",
     Eng:"\"Before your eyes I will repay Babylon and all who live in Babylonia for all the wrong they have done in Zion,\" declares the LORD.",
     Ind:"Namun Aku akan membalaskan kepada Babel dan kepada segenap penduduk negeri orang Kasdim segala kejahatan yang telah mereka lakukan terhadap Sion, di depan matamu sendiri, demikianlah firman TUHAN."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Orang tidak akan mengambil batu penjuru atau batu dasar dari padamu, tetapi engkau akan menjadi tempat tandus yang kekal, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:27, Page:1,
-    Kor:"\"너희는 온 땅에 공격 신호의 깃발을 올려라. 만방에 나팔을 불어서, 바빌로니아를 치는 싸움에 세상 만민을 동원하여라. 아라랏과 민니와 아스그나스와 같은 나라들을 불러다가, 바빌로니아를 쳐라. 너희는 바빌로니아를 칠 사령관을 세우고, 군마들을 메뚜기 떼처럼 몰고 오게 하여라.",
+    Kor:"너희는 온 땅에 공격 신호의 깃발을 올려라. 만방에 나팔을 불어서, 바빌로니아를 치는 싸움에 세상 만민을 동원하여라. 아라랏과 민니와 아스그나스와 같은 나라들을 불러다가, 바빌로니아를 쳐라. 너희는 바빌로니아를 칠 사령관을 세우고, 군마들을 메뚜기 떼처럼 몰고 오게 하여라.",
     Chn:"要在境内竖立大旗， 在各国中吹角， 使列国预备攻击巴比伦， 将亚拉腊、米尼、亚实基拿各国招来攻击她； 又派军长来攻击她， 使马匹上来如蚂蚱，",
     Eng:"\"Lift up a banner in the land! Blow the trumpet among the nations! Prepare the nations for battle against her; summon against her these kingdoms: Ararat, Minni and Ashkenaz. Appoint a commander against her; send up horses like a swarm of locusts.",
     Ind:"Angkatlah panji-panji di bumi, tiuplah sangkakala di antara bangsa-bangsa, persiapkanlah bangsa-bangsa berperang melawan Babel, kerahkanlah kerajaan-kerajaan melawannya--Ararat, Mini dan Askenas--angkatlah seorang panglima melawannya, tampilkanlah kuda seperti kawanan belalang!"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Persiapkanlah bangsa-bangsa berperang melawannya, raja-raja Media beserta bupati-bupati dan pembesar-pembesarnya, dan setiap negeri yang di bawah kuasanya!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:29, Page:1,
-    Kor:"바빌로니아 땅을 아무도 살지 못할 황무지로 만들려는 나의 계획이, 그대로 이루어지니, 땅이 진동하고 뒤틀린다.",
+    Kor:"바빌로니아 땅을 아무도 살지 못할 황무지로 만드시려는 주님의 계획이, 그대로 이루어지니, 땅이 진동하고 뒤틀린다.",
     Chn:"地必震动而瘠苦； 因耶和华向巴比伦所定的旨意成立了， 使巴比伦之地荒凉，无人居住。",
     Eng:"The land trembles and writhes, for the LORD'S purposes against Babylon stand--to lay waste the land of Babylon so that no one will live there.",
     Ind:"Bumi berguncang dan bergetar, sebab rancangan TUHAN terhadap Babel sedang terlaksana, yakni untuk membuat negeri Babel menjadi tempat tandus yang tidak berpenduduk."
@@ -195,31 +195,31 @@ BibleDB.add([
     Ind:"tempat-tempat penyeberangan telah diduduki, benteng-benteng pertahanan telah dihanguskan dengan api, prajurit-prajurit telah menjadi gempar."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:33, Page:1,
-    Kor:"나 만군의 주 이스라엘의 하나님이 말한다. 딸 바빌로니아는 타작 마당이다. 농부가 타작 마당의 곡식을 밟듯이, 군대가 들어가서 그들을 짓밟을 것이다. 이제 곧 그 마당에서 타작을 할 때가 온다.\"",
+    Kor:"\"나 만군의 주 이스라엘의 하나님이 이렇게 말한다. 딸 바빌로니아는 타작 마당이다. 농부가 타작 마당의 곡식을 밟듯이, 군대가 들어가서 그들을 짓밟을 것이다. 이제 곧 그 마당에서 타작을 할 때가 온다.\"",
     Chn:"万军之耶和华—以色列的　神如此说： 巴比伦城好像踹谷的禾场； 再过片时，收割她的时候就到了。",
     Eng:"This is what the LORD Almighty, the God of Israel, says: \"The Daughter of Babylon is like a threshing floor at the time it is trampled; the time to harvest her will soon come.\"",
     Ind:"Sebab beginilah firman TUHAN semesta alam, Allah Israel: Puteri Babel adalah seperti tempat pengirikan pada waktu orang menginjak-injaknya! Sedikit waktu lagi akan datang waktu panen baginya."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:34, Page:1,
-    Kor:"<바빌로니아에게 갚아 주십시오!> \"바빌로니아 왕 느부갓네살이 나를 먹었습니다. 그가 나를 멸망시켰습니다. 그가 나를 빈 그릇처럼 만들어 놓았습니다. 그는 바다의 괴물처럼 나를 삼켜 버렸습니다. 맛있는 음식처럼 나를 먹어 제 배를 채우고는 나를 버렸습니다.",
+    Kor:"'바빌로니아 왕 느부갓네살이 나를 먹었습니다. 그가 나를 멸망시켰습니다. 그가 나를 빈 그릇처럼 만들어 놓았습니다. 그는 바다의 괴물처럼 나를 삼켜 버렸습니다. 맛있는 음식처럼 나를 먹어 제 배를 채우고는 나를 버렸습니다.",
     Chn:"以色列人说： 巴比伦王尼布甲尼撒吞灭我，压碎我， 使我成为空虚的器皿。 他像大鱼将我吞下， 用我的美物充满他的肚腹， 又将我赶出去。",
     Eng:"\"Nebuchadnezzar king of Babylon has devoured us, he has thrown us into confusion, he has made us an empty jar. Like a serpent he has swallowed us and filled his stomach with our delicacies, and then has spewed us out.",
     Ind:"Aku dimakan habis, dihamburkan oleh Nebukadnezar, raja Babel, diletakkan seperti mangkuk yang kosong. Ia menelan aku seperti ular naga, ia memenuhi perutnya dengan pengananku yang enak-enak, ia membuangkan aku."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:35, Page:1,
-    Kor:"내가 당한 폭행을 그대로 c바빌로니아에게 갚아 주십시오.\" 시온의 백성이 이렇게 호소할 것이다. \"바빌로니아 백성이 나의 피를 흘렸으니 그들에게 그대로 갚아 주십시오.\" 예루살렘이 이렇게 호소할 것이다. (c 또는 '갈대아')",
+    Kor:"내가 당한 폭행을 그대로 바빌로니아에게 갚아 주십시오.' 시온의 백성이 이렇게 호소할 것이다. '바빌로니아 백성이 나의 피를 흘렸으니 그들에게 그대로 갚아 주십시오.' 예루살렘이 이렇게 호소할 것이다.",
     Chn:"锡安的居民要说： 巴比伦以强暴待我， 损害我的身体， 愿这罪归给她。 耶路撒冷人要说： 愿流我们血的罪归到迦勒底的居民。",
     Eng:"May the violence done to our flesh be upon Babylon,\" say the inhabitants of Zion. \"May our blood be on those who live in Babylonia,\" says Jerusalem.",
     Ind:"Biarlah penggagahan dan penghancuran atasku tertimpa kepada Babel, begitulah hendaknya berkata penduduk Sion, biarlah darahku tertimpa kepada penduduk negeri orang Kasdim, begitulah hendaknya berkata Yerusalem."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:36, Page:1,
-    Kor:"<주님께서 이스라엘을 도우시다> \"그러므로 나 주가 말한다. 보아라, 내가 너의 호소를 들어주며, 너의 원수를 갚아 주겠다. 내가 바빌로니아의 바다를 말리고, 그 땅의 샘들도 말려 버리겠다.",
+    Kor:"\"그러므로 나 주가 이렇게 말한다. 보아라, 내가 너의 호소를 들어주며, 너의 원수를 갚아 주겠다. 내가 바빌로니아의 바다를 말리고, 그 땅의 샘들도 말려 버리겠다.",
     Chn:"所以，耶和华如此说： 我必为你伸冤，为你报仇； 我必使巴比伦的海枯竭，使她的泉源干涸。",
     Eng:"Therefore, this is what the LORD says: \"See, I will defend your cause and avenge you; I will dry up her sea and make her springs dry.",
     Ind:"Sebab itu beginilah firman TUHAN: Sesungguhnya, Aku akan memperjuangkan perkaramu, dan akan melakukan pembalasan untukmu: Aku akan mengeringkan lautnya dan akan menggersangkan sumber airnya;"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:37, Page:1,
-    Kor:"그러면 바빌로니아가 폐허 더미로 변하고, 여우 떼의 굴혈이 되어, 아무도 살 수 없는 곳이 될 것이다. 그 참혹한 형상을 보고 사람들은 놀라서 빈정거릴 것이다.",
+    Kor:"그러면 바빌로니아가 폐허 더미로 변하고, 여우 떼의 굴혈이 되어, 아무도 살 수 없는 곳이 될 것이며, 놀라움과 조롱거리가 될 것이다.",
     Chn:"巴比伦必成为乱堆，为野狗的住处， 令人惊骇、嗤笑， 并且无人居住。",
     Eng:"Babylon will be a heap of ruins, a haunt of jackals, an object of horror and scorn, a place where no one lives.",
     Ind:"Babel akan menjadi timbunan puing, tempat persembunyian serigala-serigala tempat kengerian dan suitan, tanpa penduduk."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Bersama-sama mereka mengaum seperti singa-singa muda, menggeram seperti anak-anak singa;"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:39, Page:1,
-    Kor:"그래서, 그들이 목이 타고 배가 고플 때에, 나는 그들에게 잔치를 베풀어서, 그들이 모두 취하여 흥겨워하다가 마침내 모두 기절하고 쓰러져서, 영영 깨어날 수 없는 잠에 빠지게 하겠다. 나 주의 말이다.\"",
+    Kor:"그래서, 그들이 목이 타고 배가 고플 때에, 나는 그들에게 잔치를 베풀어 모두 취하여 흥겹도록 만들 터이니, 그들이 모두 기절하고 쓰러져서, 영영 깨어날 수 없는 잠에 빠지게 하겠다. 나 주의 말이다.\"",
     Chn:"他们火热的时候， 我必为他们设摆酒席， 使他们沉醉，好叫他们快乐， 睡了长觉，永不醒起。 这是耶和华说的。",
     Eng:"But while they are aroused, I will set out a feast for them and make them drunk, so that they shout with laughter--then sleep forever and not awake,\" declares the LORD.",
     Ind:"jika mereka merasa panas, Aku akan menyediakan perjamuan bagi mereka, akan membuat mereka mabuk, supaya mereka menjadi pusing dan jatuh tertidur untuk selama-lamanya, tidak akan bangun-bangun lagi, demikianlah firman TUHAN."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Aku akan merebahkan mereka untuk dibantai seperti anak-anak kambing, seperti domba-domba jantan dan kambing-kambing jantan."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:41, Page:1,
-    Kor:"<바빌론의 멸망을 풍자한 조가> \"어쩌다가 e세삭이 함락되었는가! 어쩌다가 온 세상의 자랑거리가 정복되었는가! 어쩌다가 바빌론이 세상 만민 앞에 참혹한 형상을 보이게 되었는가! (e 바빌론을 가리키는 암호. 칠십인역은 '바빌론'으로 번역함)",
+    Kor:"\"어쩌다가 세삭이 함락되었는가! 어쩌다가 온 세상의 자랑거리가 정복되었는가! 어쩌다가 바빌론이 세상 만민 앞에 놀라움의 대상이 되었는가!",
     Chn:"示沙克何竟被攻取？ 天下所称赞的何竟被占据？ 巴比伦在列国中何竟变为荒场？",
     Eng:"\"How Sheshach will be captured, the boast of the whole earth seized! What a horror Babylon will be among the nations!",
     Ind:"Betapa Sesakh direbut, dan negeri pujian seluruh bumi diduduki! Betapa Babel menjadi kengerian di antara bangsa-bangsa!"
@@ -279,7 +279,7 @@ BibleDB.add([
     Ind:"Biarlah hatimu jangan kecut dan takut karena kabar yang terdengar di negeri: apabila tahun ini datang kabar ini, dan tahun kemudian kabar itu, apabila kekerasan merajalela di negeri dan penguasa lalim melawan penguasa lalim."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:47, Page:1,
-    Kor:"그러므로 보아라, 내가 바빌론의 신상들에게 벌을 내릴 날이 다가왔다. 그 날에 온 나라가 수치를 당하고, 칼에 찔려 죽은 모든 사람이 그 한가운데 널려 있을 것이다.",
+    Kor:"그러므로 보아라, 내가 바빌론의 신상들에게 벌을 내릴 날이 다가왔다. 그 날에, 온 나라가 수치를 당하고, 칼에 찔려 죽은 모든 사람이 그 한가운데 널려 있을 것이다.",
     Chn:"日子将到，我必刑罚巴比伦雕刻的偶像。 她全地必然抱愧； 她被杀的人必在其中仆倒。",
     Eng:"For the time will surely come when I will punish the idols of Babylon; her whole land will be disgraced and her slain will all lie fallen within her.",
     Ind:"Sebab itu sesungguhnya, waktunya akan datang, bahwa Aku akan menghukum patung-patung Babel; seluruh negerinya akan menjadi malu dan semua orangnya yang terbunuh akan rebah di tengah-tengahnya."
@@ -297,19 +297,19 @@ BibleDB.add([
     Ind:"Babel akan jatuh oleh karena orang-orang yang mati terbunuh di antara Israel sama seperti jatuhnya orang-orang yang mati terbunuh di seluruh bumi oleh karena Babel."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:50, Page:1,
-    Kor:"<주님께서 바빌로니아에 복수하시다> \"칼을 모면한 이스라엘 사람들아, 서성거리지 말고 어서 떠나거라. 너희는 먼 곳에서라도 주님을 생각하고, 예루살렘을 마음 속에 두어라.\"",
+    Kor:"\"칼을 모면한 이스라엘 사람들아, 서성거리지 말고 어서 떠나거라. 너희는 먼 곳에서라도 주님을 생각하고, 예루살렘을 마음 속에 두어라.\"",
     Chn:"你们躲避刀剑的要快走， 不要站住！ 要在远方记念耶和华， 心中追想耶路撒冷。",
     Eng:"You who have escaped the sword, leave and do not linger! Remember the LORD in a distant land, and think on Jerusalem.\"",
     Ind:"Kamu, orang-orang yang terluput dari pedang, pergilah, janganlah berhenti! Ingatlah dari jauh kepada TUHAN dan biarlah Yerusalem timbul lagi dalam hatimu:"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:51, Page:1,
-    Kor:"나는 욕을 먹고 수치를 당하였다. 이방 사람들이 주님 성전의 거룩한 곳들을 짓밟았으므로, 나는 부끄러워 얼굴을 들 수가 없었다.",
+    Kor:"나는 욕을 먹고 수치를 당하였습니다. 이방 사람들이 주님 성전의 거룩한 곳들을 짓밟았으므로, 나는 부끄러워 얼굴을 들 수가 없었습니다.",
     Chn:"我们听见辱骂就蒙羞，满面惭愧， 因为外邦人进入耶和华殿的圣所。",
     Eng:"\"We are disgraced, for we have been insulted and shame covers our faces, because foreigners have entered the holy places of the LORD'S house.\"",
     Ind:"Kami malu, sebab kami telah mendengar tentang aib, noda meliputi muka kami, sebab orang-orang asing telah memasuki tempat-tempat kudus di rumah TUHAN."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:52, Page:1,
-    Kor:"\"그러므로 보아라, 그 날이 오고 있다. 나 주의 말이다. 그 날에 내가 바빌론의 신상들에게 벌을 내릴 것이며, 온 나라에서 칼에 찔린 자들이 신음할 것이다.",
+    Kor:"\"그러므로 보아라, 그 날이 오고 있다. 나 주의 말이다. 그 날에 내가 바빌론의 신상들에게 벌을 내릴 것이며, 그 온 나라에서 칼에 찔린 자들이 신음할 것이다.",
     Chn:"耶和华说： 日子将到，我必刑罚巴比伦雕刻的偶像， 通国受伤的人必唉哼。",
     Eng:"\"But days are coming,\" declares the LORD, \"when I will punish her idols, and throughout her land the wounded will groan.",
     Ind:"Sebab itu sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan menghukum patung-patungnya, dan di seluruh negerinya akan mengerang orang-orang yang luka tertikam."
@@ -321,13 +321,13 @@ BibleDB.add([
     Ind:"Sekalipun Babel naik ke langit dan sekalipun dibuatnya kubu tak terhampiri di tempat tingginya, atas perintah-Ku akan datang para perusak kepadanya, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:54, Page:1,
-    Kor:"<바빌론의 멸망> 바빌론에서 울부짖는 소리가 들려 온다. c바빌로니아 사람들의 땅에서 파멸을 탄식하는 통곡이 들려 온다. (c 또는 '갈대아')",
+    Kor:"바빌론에서 울부짖는 소리가 들려 온다. 바빌로니아 사람들의 땅에서 파멸을 탄식하는 통곡이 들려 온다.",
     Chn:"有哀号的声音从巴比伦出来； 有大毁灭的响声从迦勒底人之地发出。",
     Eng:"\"The sound of a cry comes from Babylon, the sound of great destruction from the land of the Babylonians.",
     Ind:"Dengar! Ratap dari Babel dan kehancuran besar dari negeri orang Kasdim!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:55, Page:1,
-    Kor:"참으로 주님께서 바빌론을 파괴하시고, 그들의 떠드는 소리를 사라지게 하신다. 그 대적이 거센 파도처럼 밀려와서 요란한 소리를 내면서 공격한다.",
+    Kor:"참으로 주께서 바빌론을 파괴하시고, 그들의 떠드는 소리를 사라지게 하신다. 그 대적이 거센 파도처럼 밀려와서 요란한 소리를 내면서 공격한다.",
     Chn:"因耶和华使巴比伦变为荒场， 使其中的大声灭绝。 仇敌仿佛众水， 波浪匉訇，响声已经发出。",
     Eng:"The LORD will destroy Babylon; he will silence her noisy din. Waves of enemies will rage like great waters; the roar of their voices will resound.",
     Ind:"Sebab TUHAN merusakkan Babel dan menghentikan suaranya yang besar. Biarpun gelombang-gelombangnya menderu seperti air besar dan suaranya bertambah ribut,"
@@ -351,37 +351,37 @@ BibleDB.add([
     Ind:"Beginilah firman TUHAN semesta alam: Tembok-tembok tebal Babel akan disamaratakan, dan pintu-pintu gerbangnya yang tinggi akan dibakar dengan api, sehingga bangsa-bangsa bersusah-susah untuk yang sia-sia dan suku-suku bangsa berlelah untuk api saja.\""
   },
   {Bible:"Jeremiah", Chapter:51, Verse:59, Page:1,
-    Kor:"<예레미야가 스라야에게 두루마리를 주다> ○이것은 마세야의 손자요 네리야의 아들인 스라야가 유다 왕 시드기야 제 사년에 왕과 함께 바빌로니아로 갈 때에, 예언자 예레미야가 스라야에게 명령한 말이다. 스라야는 왕의 수석 보좌관이었다.",
+    Kor:"○이것은 마세야의 손자요 네리야의 아들인 스라야가 유다 왕 시드기야 제 사년에 왕과 함께 바빌로니아로 갈 때에, 예언자 예레미야가 스라야에게 명령한 말이다. 스라야는 왕의 수석 보좌관이었다.",
     Chn:"犹大王西底家在位第四年，上巴比伦去的时候，玛西雅的孙子、尼利亚的儿子西莱雅与王同去（西莱雅是王宫的大臣），先知耶利米有话吩咐他。",
     Eng:"This is the message Jeremiah gave to the staff officer Seraiah son of Neriah, the son of Mahseiah, when he went to Babylon with Zedekiah king of Judah in the fourth year of his reign.",
     Ind:"Pesan yang diberikan nabi Yeremia kepada Seraya bin Neria bin Mahseya, ketika Seraya pergi bersama-sama Zedekia, raja Yehuda, ke Babel pada tahun yang keempat dari pemerintahannya--Seraya waktu itu adalah kepala perlengkapan."
   },
   {Bible:"Jeremiah", Chapter:51, Verse:60, Page:1,
-    Kor:"예레미야는, 바빌로니아에 내릴 모든 재앙 곧 바빌로니아를 두고 선포한 이 모든 말씀을, 한 권의 책으로 기록하였다.",
+    Kor:"예레미야는 바빌로니아에 내릴 모든 재앙, 곧 바빌로니아를 두고 선포한 이 모든 말씀을, 한 권의 책으로 기록하였다.",
     Chn:"耶利米将一切要临到巴比伦的灾祸，就是论到巴比伦的一切话，写在书上。",
     Eng:"Jeremiah had written on a scroll about all the disasters that would come upon Babylon--all that had been recorded concerning Babylon.",
     Ind:"Yeremia telah menuliskan dalam sebuah kitab segenap malapetaka yang akan menimpa Babel, yakni segala perkataan yang tertulis di sini mengenai Babel. --"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:61, Page:1,
-    Kor:"그리고 예레미야가 스라야에게 말하였다. \"수석 보좌관께서 바빌론 도성으로 가거든, 이 말씀을 반드시 다 읽고",
+    Kor:"그리고 예레미야가 스라야에게 말하였다. \"그대가 바빌론 도성으로 가거든, 이 말씀을 반드시 다 읽고",
     Chn:"耶利米对西莱雅说：「你到了巴比伦务要念这书上的话；",
     Eng:"He said to Seraiah, \"When you get to Babylon, see that you read all these words aloud.",
     Ind:"Kata Yeremia kepada Seraya: \"Jika engkau tiba di Babel, maka ikhtiarkanlah, supaya engkau dapat membacakan segala perkataan ini,"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:62, Page:1,
-    Kor:"'주님, 주님께서 친히 이 곳을 두고 말씀하시기를, 이 곳에는 아무것도 살 수 없도록 멸망시켜서, 사람도 짐승도 살 수 없는, 영원한 폐허로 만들겠다고 하셨습니다' 하고 기도하십시오.",
+    Kor:"'주님, 주께서 친히 이 곳을 두고 말씀하시기를, 이 곳에는 아무것도 살 수 없도록 멸망시켜서, 사람도 짐승도 살 수 없는, 영원한 폐허로 만들겠다고 하셨습니다' 하고 기도하십시오.",
     Chn:"又说：『耶和华啊，你曾论到这地方说：要剪除，甚至连人带牲畜没有在这里居住的，必永远荒凉。』",
     Eng:"Then say, 'O LORD, you have said you will destroy this place, so that neither man nor animal will live in it; it will be desolate forever.'",
     Ind:"dan katakanlah: TUHAN, Engkau telah berfirman tentang kota ini bahwa Engkau akan melenyapkannya, sehingga tidak ada lagi yang diam di dalamnya, baik manusia maupun hewan, dan sehingga kota ini akan menjadi tempat tandus untuk selama-lamanya!"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:63, Page:1,
-    Kor:"수석 보좌관께서 이 책을 다 읽은 다음에는, 책에 돌을 하나 매달아서, 유프라테스 강 물에 던지십시오.",
+    Kor:"그대가 이 책을 다 읽은 다음에는, 책에 돌을 하나 매달아서, 유프라테스 강 물에 던지십시오.",
     Chn:"你念完了这书，就把一块石头拴在书上，扔在幼发拉底河中，",
     Eng:"When you finish reading this scroll, tie a stone to it and throw it into the Euphrates.",
     Ind:"Apabila engkau selesai membacakan kitab ini, maka ikatkanlah sebuah batu kepadanya, lalu lemparkanlah ia ke tengah-tengah sungai Efrat"
   },
   {Bible:"Jeremiah", Chapter:51, Verse:64, Page:1,
-    Kor:"그런 다음에 '주님께서 이 곳에 내리는 재앙 때문에 바빌로니아도 이렇게 가라앉아, 다시는 떠오르지 못하고 쇠퇴할 것이다' 하고 말하십시오.\" ○여기까지가 예레미야의 말이다.",
+    Kor:"그런 다음에 '주께서 이 곳에 내리는 재앙 때문에 바빌로니아도 이렇게 가라앉아, 다시는 떠오르지 못하고 쇠퇴할 것이다' 하고 말하십시오.\" 여기까지가 예레미야의 말이다.",
     Chn:"说：『巴比伦因耶和华所要降与她的灾祸，必如此沉下去，不再兴起，人民也必困乏。』」 耶利米的话到此为止。",
     Eng:"Then say, 'So will Babylon sink to rise no more because of the disaster I will bring upon her. And her people will fall.'\" The words of Jeremiah end here.",
     Ind:"sambil berkata: Beginilah Babel akan tenggelam, dan tidak akan timbul-timbul lagi, oleh karena malapetaka yang Kudatangkan atasnya.\" Sampai di sinilah perkataan-perkataan Yeremia."

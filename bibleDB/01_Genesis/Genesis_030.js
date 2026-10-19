@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Maka bangkitlah amarah Yakub terhadap Rahel dan ia berkata: \"Akukah pengganti Allah, yang telah menghalangi engkau mengandung?\""
   },
   {Bible:"Genesis", Chapter:30, Verse:3, Page:1,
-    Kor:"라헬이 말하였다. \"나에게 몸종 빌하가 있어요. 빌하와 동침하셔요. 그가 아이를 낳아서 나에게 안겨 주면, 빌하의 몸을 빌려서 나도 당신의 집안을 이어나가겠어요.\"",
+    Kor:"라헬이 말하였다. \"나에게 몸종 빌하가 있습니다.빌하와 동침하셔요. 그가 아이를 낳아서, 나에게 안겨 주면, 빌하의 몸을 빌려서, 나도 당신의 집안을 이어나가겠어요.\"",
     Chn:"拉结说：「有我的使女辟拉在这里，你可以与她同房，使她生子在我膝下，我便因她也得孩子。」",
     Eng:"Then she said, \"Here is Bilhah, my maidservant. Sleep with her so that she can bear children  for me and that through her I too can build a family.\"",
     Ind:"Kata Rahel: \"Ini Bilha, budakku perempuan, hampirilah dia, supaya ia melahirkan anak di pangkuanku, dan supaya oleh dia akupun mempunyai keturunan.\""
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Maka diberikannyalah Bilha, budaknya itu, kepada Yakub menjadi isterinya dan Yakub menghampiri budak itu."
   },
   {Bible:"Genesis", Chapter:30, Verse:5, Page:1,
-    Kor:"마침내 빌하가 임신을 하여, 야곱과 빌하 사이에 아들이 태어났다.",
+    Kor:"마침내, 빌하가 임신을 하여, 야곱과 빌하 사이에 아들이 태어났다.",
     Chn:"辟拉就怀孕，给雅各生了一个儿子。",
     Eng:"and she became pregnant and bore him a son.",
     Ind:"Bilha mengandung, lalu melahirkan seorang anak laki-laki bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:6, Page:1,
-    Kor:"라헬은 \"하나님이 나의 호소를 들으시고, 나의 억울함을 풀어 주시려고, 나에게 아들을 주셨구나!\" 하면서, 그 아이 이름을 a단이라고 하였다.(a '그가 판단하였다')",
+    Kor:"라헬은 \"하나님이 나의 호소를 들으시고, 나의 억울함을 풀어 주시려고, 나에게 아들을 주셨구나!\" 하면서, 그 아이 이름을 단이라고 하였다.",
     Chn:"拉结说：「　神伸了我的冤，也听了我的声音，赐我一个儿子」，因此给他起名叫但。",
     Eng:"Then Rachel said, \"God has vindicated me; he has listened to my plea and given me a son.\"  Because of this she named him Dan.",
     Ind:"Berkatalah Rahel: \"Allah telah memberikan keadilan kepadaku, juga telah didengarkan-Nya permohonanku dan diberikan-Nya kepadaku seorang anak laki-laki.\" Itulah sebabnya ia menamai anak itu Dan."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Mengandung pulalah Bilha, budak perempuan Rahel, lalu melahirkan anak laki-laki yang kedua bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:8, Page:1,
-    Kor:"라헬은 \"내가 언니와 크게 b겨루어서, 마침내 이겼다\" 하면서, 그 아이 이름을 납달리라고 하였다.(b 히, '닙달')",
+    Kor:"라헬은 \"내가 언니와 크게 겨루어서, 마침내 이겼다\" 하면서, 그 아이 이름을 납달리라고 하였다.",
     Chn:"拉结说：「我与我姊姊大大相争，并且得胜」，于是给他起名叫拿弗他利。",
     Eng:"Then Rachel said, \"I have had a great struggle with my sister, and I have won.\" So she named  him Naphtali.",
     Ind:"Berkatalah Rahel: \"Aku telah sangat hebat bergulat dengan kakakku, dan akupun menang.\" Maka ia menamai anak itu Naftali."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Dan Zilpa, budak perempuan Lea, melahirkan seorang anak laki-laki bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:11, Page:1,
-    Kor:"레아는 \"내가 복을 받았구나\" 하면서, 그 아이 이름을 c갓이라고 하였다.(c '행운')",
+    Kor:"레아는 \"내가 복을 받았구나\" 하면서, 그 아이 이름을 갓이라고 하였다.",
     Chn:"利亚说：「万幸！」于是给他起名叫迦得。",
     Eng:"Then Leah said, \"What good fortune!\" So she named him Gad.",
     Ind:"Berkatalah Lea: \"Mujur telah datang.\" Maka ia menamai anak itu Gad."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Dan Zilpa, budak perempuan Lea, melahirkan anak laki-laki yang kedua bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:13, Page:1,
-    Kor:"레아는 \"행복하구나, 여인들이 나를 행복하다고 말하리라\" 하면서, 그 아이 이름을 d아셀이라고 하였다.(d '행복')",
+    Kor:"레아는 \"행복하구나, 여인들이 나를 행복하다고 말하리라\" 하면서, 그 아이 이름을 아셀이라고 하였다.",
     Chn:"利亚说：「我有福啊，众女子都要称我是有福的」，于是给他起名叫亚设。",
     Eng:"Then Leah said, \"How happy I am! The women will call me happy.\" So she named him Asher.",
     Ind:"Berkatalah Lea: \"Aku ini berbahagia! Tentulah perempuan-perempuan akan menyebutkan aku berbahagia.\" Maka ia menamai anak itu Asyer."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Jawab Lea kepadanya: \"Apakah belum cukup bagimu mengambil suamiku? Sekarang pula mau mengambil lagi buah dudaim anakku?\" Kata Rahel: \"Kalau begitu biarlah ia tidur dengan engkau pada malam ini sebagai ganti buah dudaim anakmu itu.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:16, Page:1,
-    Kor:"그 날 저녁에 야곱이 들에서 돌아올 때에, 레아가 그를 맞으러 나가서 말하였다. \"당신은 오늘 밤에는 나의 방으로 드셔야 해요. 나의 아들이 가져온 자귀나무를 라헬에게 주고, 그 대신에 당신이 나의 방으로 드시게 하기로 했어요.\" 그 날 밤에 야곱은 레아와 함께 잤다.",
+    Kor:"그 날 저녁에 야곱이 들에서 돌아올 때에, 레아가 그를 맞으러 나가서 말하였다. \"당신은 오늘 밤에는 나의 방으로 드셔야 합니다. 나의 아들이 가져온 자귀나무를 라헬에게 주고, 그 대신에 당신이 나의 방으로 드시게 하기로 하였습니다.\" 그 날 밤에 야곱은 레아와 함께 잤다.",
     Chn:"到了晚上，雅各从田里回来，利亚出来迎接他，说：「你要与我同寝，因为我实在用我儿子的风茄把你雇下了。」那一夜，雅各就与她同寝。",
     Eng:"So when Jacob came in from the fields that evening, Leah went out to meet him. \"You must  sleep with me,\" she said. \"I have hired you with my son's mandrakes.\" So he slept with her that  night.",
     Ind:"Ketika Yakub pada waktu petang datang dari padang, pergilah Lea mendapatkannya, sambil berkata: \"Engkau harus singgah kepadaku malam ini, sebab memang engkau telah kusewa dengan buah dudaim anakku.\" Sebab itu tidurlah Yakub dengan Lea pada malam itu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Lalu Allah mendengarkan permohonan Lea. Lea mengandung dan melahirkan anak laki-laki yang kelima bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:18, Page:1,
-    Kor:"레아는 \"내가 나의 몸종을 나의 남편에게 준 e값을 하나님이 갚아 주셨구나\" 하면서, 그 아이 이름을 잇사갈이라고 하였다.(e 히, '사갈')",
+    Kor:"레아는 \"내가 나의 몸종을 나의 남편에게 준 값을 하나님이 갚아 주셨구나\" 하면서, 그 아이 이름을 잇사갈이라고 하였다.",
     Chn:"利亚说：「　神给了我价值，因为我把使女给了我丈夫」，于是给他起名叫以萨迦。",
     Eng:"Then Leah said, \"God has rewarded me for giving my maidservant to my husband.\" So she named  him Issachar.",
     Ind:"Lalu kata Lea: \"Allah telah memberi upahku, karena aku telah memberi budakku perempuan kepada suamiku.\" Maka ia menamai anak itu Isakhar."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Kemudian Lea mengandung pula dan melahirkan anak laki-laki yang keenam bagi Yakub."
   },
   {Bible:"Genesis", Chapter:30, Verse:20, Page:1,
-    Kor:"레아는 \"하나님이 나에게 이렇게 좋은 선물을 주셨구나. 내가 아들을 여섯이나 낳았으니, 이제부터는 나의 남편이 나에게 f잘 해주겠지\" 하면서, 그 아이 이름을 스불론이라고 하였다.(f 히, '자발')",
+    Kor:"레아는 \"하나님이 나에게 이렇게 좋은 선물을 주셨구나. 내가 아들을 여섯이나 낳았으니, 이제부터는 나의 남편이 나에게 잘해 주겠지\" 하면서, 그 아이 이름을 스불론이라고 하였다.",
     Chn:"利亚说：「　神赐我厚赏；我丈夫必与我同住，因我给他生了六个儿子」，于是给他起名西布伦。",
     Eng:"Then Leah said, \"God has presented me with a precious gift. This time my husband will treat  me with honor, because I have borne him six sons.\" So she named him Zebulun.",
     Ind:"Berkatalah Lea: \"Allah telah memberikan hadiah yang indah kepadaku; sekali ini suamiku akan tinggal bersama-sama dengan aku, karena aku telah melahirkan enam orang anak laki-laki baginya.\" Maka ia menamai anak itu Zebulon."
@@ -135,31 +135,31 @@ BibleDB.add([
     Ind:"Lalu ingatlah Allah akan Rahel; Allah mendengarkan permohonannya serta membuka kandungannya."
   },
   {Bible:"Genesis", Chapter:30, Verse:23, Page:1,
-    Kor:"그가 임신을 하여서 아들을 낳으니, \"하나님이 나의 부끄러움을 벗겨 주셨구나\" 하고 생각하였다.",
+    Kor:"그가 임신을 하여서, 아들을 낳으니 \"하나님이 나의 부끄러움을 벗겨 주셨구나\" 하고 생각하였다.",
     Chn:"拉结怀孕生子，说：「　神除去了我的羞耻」，",
     Eng:"She became pregnant and gave birth to a son and said, \"God has taken away my disgrace.\"",
     Ind:"Maka mengandunglah Rahel dan melahirkan seorang anak laki-laki. Berkatalah ia: \"Allah telah menghapuskan aibku.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:24, Page:1,
-    Kor:"라헬은 그 아이의 이름을 지을 때에 \"주님께서 나에게 또 다른 아들 하나를 더 주시면 좋겠다\" 하는 뜻으로, 그 아이 이름을 g요셉이라고 하였다.(g '더하다')",
+    Kor:"라헬은 그 아이의 이름을 지을 때에 \"주께서 나에게 또 다른 아들 하나를 더 주시면 좋겠다\" 하는 뜻으로, 그 아이 이름을 요셉이라고 하였다.",
     Chn:"就给他起名叫约瑟，意思说：「愿耶和华再增添我一个儿子。」",
     Eng:"She named him Joseph, and said, \"May the LORD add to me another son.\"",
     Ind:"Maka ia menamai anak itu Yusuf, sambil berkata: \"Mudah-mudahan TUHAN menambah seorang anak laki-laki lagi bagiku.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:25, Page:1,
-    Kor:"<야곱이 라반과 흥정하다> ○라헬이 요셉을 낳은 뒤에, 야곱이 라반에게 말하였다. \"제가 고향 땅으로 돌아갈 수 있도록, 저를 보내 주십시오.",
+    Kor:"○라헬이 요셉을 낳은 뒤에, 야곱이 라반에게 말하였다. \"제가 고향 땅으로 돌아갈 수 있도록, 저를 보내 주십시오.",
     Chn:"拉结生约瑟之后，雅各对拉班说：「请打发我走，叫我回到我本乡本土去。",
     Eng:"After Rachel gave birth to Joseph, Jacob said to Laban, \"Send me on my way so I can go back  to my own homeland.",
     Ind:"Setelah Rahel melahirkan Yusuf, berkatalah Yakub kepada Laban: \"Izinkanlah aku pergi, supaya aku pulang ke tempat kelahiranku dan ke negeriku."
   },
   {Bible:"Genesis", Chapter:30, Verse:26, Page:1,
-    Kor:"장인 어른의 일을 해 드리고 얻은 저의 처들과 자식들도, 제가 데리고 가게 허락하여 주십시오. 제가 장인 어른의 일을 얼마나 많이 해 드렸는가 하는 것은, 장인 어른께서 잘 아십니다.\"",
+    Kor:"장인 어른의 일을 해 드리고 얻은 저의 처들과 자식들도, 제가 데리고 가게 허락하여 주십시오. 제가 장인 어른의 일을 얼마나 많이 해 드렸는가 하는 것은, 장인께서 잘 아십니다.\"",
     Chn:"请你把我服事你所得的妻子和儿女给我，让我走；我怎样服事你，你都知道。」",
     Eng:"Give me my wives and children, for whom I have served you, and I will be on my way. You  know how much work I've done for you.\"",
     Ind:"Berikanlah isteri-isteriku dan anak-anakku, yang menjadi upahku selama aku bekerja padamu, supaya aku pulang, sebab engkau tahu, betapa keras aku bekerja padamu.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:27, Page:1,
-    Kor:"라반이 그에게 말하였다. \"자네가 나를 좋아하면, 여기에 머물러 있기를 바라네. 주님께서 자네를 보시고 나에게 복을 주신 것을, 내가 점을 쳐 보고서 알았네.\"",
+    Kor:"라반이 그에게 말하였다. \"자네가 나를 좋아하면, 여기에 머물러 있기를 바라네. 주께서 자네를 보시고 나에게 복을 주신 것을, 내가 점을 쳐 보고서 알았네.\"",
     Chn:"拉班对他说：「我若在你眼前蒙恩，请你仍与我同住，因为我已算定，耶和华赐福与我是为你的缘故」；",
     Eng:"But Laban said to him, \"If I have found favor in your eyes, please stay. I have learned by  divination that the LORD has blessed me because of you.\"",
     Ind:"Tetapi Laban berkata kepadanya: \"Sekiranya aku mendapat kasihmu! Telah nyata kepadaku, bahwa TUHAN memberkati aku karena engkau.\""
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Lagi katanya: \"Tentukanlah upahmu yang harus kubayar, maka aku akan memberikannya.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:29, Page:1,
-    Kor:"야곱이 그에게 말하였다. \"제가 장인 어른의 일을 어떻게 해 드리고, 장인 어른의 가축 떼를 얼마나 잘 보살폈는지는, 장인 어른께서 잘 아십니다.",
+    Kor:"야곱이 그에게 말하였다. \"제가 장인 어른의 일을 어떻게 해 드리고, 장인 어른의 가축 떼를 얼마나 잘 보살폈는지는, 장인께서 잘 아십니다.",
     Chn:"雅各对他说：「我怎样服事你，你的牲畜在我手里怎样，是你知道的。",
     Eng:"Jacob said to him, \"You know how I have worked for you and how your livestock has fared  under my care.",
     Ind:"Sahut Yakub kepadanya: \"Engkau sendiri tahu, bagaimana aku bekerja padamu, dan bagaimana keadaan ternakmu dalam penjagaanku,"
   },
   {Bible:"Genesis", Chapter:30, Verse:30, Page:1,
-    Kor:"제가 여기에 오기 전에는 장인 어른의 소유가 얼마 되지 않았으나, 이제 떼가 크게 불어났습니다. 주님께서는, 제가 하는 수고를 보시고서, 장인 어른에게 복을 주셨습니다. 그러나 이제는, 제가 저의 살림을 챙겨야 할 때가 되었다고 봅니다.\"",
+    Kor:"제가 여기에 오기 전에는, 장인 어른의 소유가 얼마 되지 않았으나, 이제 떼가 크게 불어났습니다. 주께서는, 제가 하는 수고를 보시고서, 장인 어른에게 복을주셨습니다. 그러나 이제는, 제가 저의 살림을 챙겨야 할 때가 되었다고 봅니다.\"",
     Chn:"我未来之先，你所有的很少，现今却发大众多，耶和华随我的脚步赐福与你。如今，我什么时候才为自己兴家立业呢？」",
     Eng:"The little you had before I came has increased greatly, and the LORD has blessed you  wherever I have been. But now, when may I do something for my own household?\"",
     Ind:"sebab harta milikmu tidak begitu banyak sebelum aku datang, tetapi sekarang telah berkembang dengan sangat, dan TUHAN telah memberkati engkau sejak aku berada di sini; jadi, bilakah dapat aku bekerja untuk rumah tanggaku sendiri?\""
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Hari ini aku akan lewat dari tengah-tengah segala kambing dombamu dan akan mengasingkan dari situ setiap binatang yang berbintik-bintik dan berbelang-belang; segala domba yang hitam dan segala kambing yang berbelang-belang dan berbintik-bintik, itulah upahku."
   },
   {Bible:"Genesis", Chapter:30, Verse:33, Page:1,
-    Kor:"제가 정직하다는 것은, 훗날 장인 어른께서 저에게 삯으로 주신 가축 떼를 확인하여 보실 때에 증명될 것입니다. 제가 가진 것 가운데서, 얼룩지지 않은 양이나 점이 없는 양이 있든지, 검은 색이 아닌 새끼 양이 있으면, 그것들은 모두 제가 훔친 것이 될 것입니다.\"",
+    Kor:"제가 정직하다는 것은, 훗날 장인께서 저에게 삯으로 주신 가축 떼를 확인하여 보실 때에 증명될 것입니다. 제가 가진 것 가운데서, 얼룩지지 않은 양이나 점이 없는 양이 있든지, 검은 색이 아닌 새끼 양이 있으면, 그것들은 모두 제가 훔친 것이 될 것입니다.\"",
     Chn:"以后你来查看我的工价，凡在我手里的山羊不是有点有斑的，绵羊不是黑色的，那就算是我偷的；这样便可证出我的公义来。」",
     Eng:"And my honesty will testify for me in the future, whenever you check on the wages you have  paid me. Any goat in my possession that is not speckled or spotted, or any lamb that is not  dark-colored, will be considered stolen.\"",
     Ind:"Dan kejujuranku akan terbukti di kemudian hari, apabila engkau datang memeriksa upahku: Segala yang tidak berbintik-bintik atau berbelang-belang di antara kambing-kambing dan yang tidak hitam di antara domba-domba, anggaplah itu tercuri olehku.\""
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Kemudian kata Laban: \"Baik, jadilah seperti perkataanmu itu.\""
   },
   {Bible:"Genesis", Chapter:30, Verse:35, Page:1,
-    Kor:"그러나 라반은 이렇게 말해 놓고서도, 바로 그 날로 숫염소 가운데서 줄무늬가 있는 것과 점이 있는 것을 가려내고, 또 모든 암염소 가운데서도 흰 바탕에 얼룩이 진 것과 점이 있는 것과 모든 검은 새끼 양을 가려내어, 자기의 아들들에게 주었다.",
+    Kor:"그러나 라반은 이렇게 말해 놓고서도, 바로 그 날로, 숫염소 가운데서 줄무늬가 있는 것과 점이 있는 것을 가려내고, 또 모든 암염소 가운데서도 흰 바탕에 얼룩이 진 것과 점이 있는 것과 모든 검은 새끼 양을 가려내어, 자기의 아들들에게 주었다.",
     Chn:"当日，拉班把有纹的、有斑的公山羊，有点的、有斑的、有杂白纹的母山羊，并黑色的绵羊，都挑出来，交在他儿子们的手下，",
     Eng:"That same day he removed all the male goats that were streaked or spotted, and all the  speckled or spotted female goats (all that had white on them) and all the dark-colored lambs, and  he placed them in the care of his sons.",
     Ind:"Lalu diasingkannyalah pada hari itu kambing-kambing jantan yang bercoreng-coreng dan berbelang-belang dan segala kambing yang berbintik-bintik dan berbelang-belang, segala yang ada warna putih pada badannya, serta segala yang hitam di antara domba-domba, dan diserahkannyalah semuanya itu kepada anak-anaknya untuk dijaga."
@@ -225,13 +225,13 @@ BibleDB.add([
     Ind:"Lalu Yakub mengambil dahan hijau dari pohon hawar, pohon badam dan pohon berangan, dikupasnyalah dahan-dahan itu sehingga berbelang-belang, sampai yang putihnya kelihatan."
   },
   {Bible:"Genesis", Chapter:30, Verse:38, Page:1,
-    Kor:"야곱은, 껍질을 벗긴 그 흰 무늬 가지들을 물 먹이는 구유 안에 똑바로 세워 놓고, 양 떼가 와서 물을 먹을 때에, 바로 눈 앞에 세워 놓은 그 가지들을 볼 수 있게 하였다. 양들은 물을 먹으러 와서, 거기에서 교미를 하였다.",
+    Kor:"야곱은, 껍질을 벗긴 그 흰 무늬 가지들을 물 먹이는 구유 안에 똑바로 세워 놓고, 양 떼가 와서, 물을 먹을 때에, 바로 눈 앞에 세워 놓은 그 가지들을 볼 수 있게 하였다. 양들은 물을 먹으러 와서, 거기에서 교미를 하였다.",
     Chn:"将剥了皮的枝子，对着羊群，插在饮羊的水沟里和水槽里，羊来喝的时候，牝牡配合。",
     Eng:"Then he placed the peeled branches in all the watering troughs, so that they would be  directly in front of the flocks when they came to drink. When the flocks were in heat and came to  drink,",
     Ind:"Ia meletakkan dahan-dahan yang dikupasnya itu dalam palungan, dalam tempat minum, ke mana kambing domba itu datang minum, sehingga tepat di depan kambing domba itu. Adapun kambing domba itu suka berkelamin pada waktu datang minum."
   },
   {Bible:"Genesis", Chapter:30, Verse:39, Page:1,
-    Kor:"양들은, 껍질 벗긴 그 나뭇가지 앞에서 교미를 하고서, 줄무늬가 있거나 얼룩이 지거나 점이 있는 양을 낳았다.",
+    Kor:"양들은, 껍질 벗긴 그 나뭇가지 앞에서 교미를 하고서, 줄무늬가 있거나, 얼룩이 지거나, 점이 있는 양을 낳았다.",
     Chn:"羊对着枝子配合，就生下有纹的、有点的、有斑的来。",
     Eng:"they mated in front of the branches. And they bore young that were streaked or speckled or  spotted.",
     Ind:"Jika kambing domba itu berkelamin dekat dahan-dahan itu, maka anaknya bercoreng-coreng, berbintik-bintik dan berbelang-belang."

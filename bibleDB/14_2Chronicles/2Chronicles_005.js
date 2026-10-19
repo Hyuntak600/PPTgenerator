@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",5,14);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:5, Verse:1, Page:1,
-    Kor:"이렇게 해서, 솔로몬은 주님의 성전을 짓는 모든 일을 완성하였다. 솔로몬은 그의 아버지 다윗이 거룩하게 구별해서 바친 성물, 곧 은과 금과 모든 기구를 가져다가, 하나님의 성전 창고에 넣었다.",
+    Kor:"이렇게 해서, 솔로몬은 주의 성전을 짓는 모든 일을 완성하였다. 솔로몬은 그의 아버지 다윗이 거룩하게 구별해서 바친 성물, 곧 은과 금과 모든 기구를 가져다가, 하나님의 성전 창고에 넣었다.",
     Chn:"所罗门做完了耶和华殿的一切工，就把他父大卫分别为圣的金银和器皿都带来，放在　神殿的府库里。",
     Eng:"When all the work Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated--the silver and gold and all the furnishings--and he placed them in the treasuries of God's temple.",
     Ind:"Maka selesailah segala pekerjaan yang dilakukan Salomo untuk rumah TUHAN itu. Kemudian Salomo memasukkan barang-barang kudus Daud, ayahnya, dan menaruh perak, emas dan barang-barang itu dalam perbendaharaan rumah Allah."
   },
   {Bible:"2Chronicles", Chapter:5, Verse:2, Page:1,
-    Kor:"<언약궤를 성전으로 옮기다(왕상 8:1-9)> ○솔로몬은 주님의 언약궤를 시온, 곧 '다윗 성'에서 성전으로 옮기려고, 이스라엘 장로들과 이스라엘 자손의 각 가문의 대표인 온 지파의 지도자들을 예루살렘으로 불러모았다.",
+    Kor:"○솔로몬은 주의 언약궤를 시온, 곧 '다윗 성'에서 성전으로 옮기려고, 이스라엘 장로들과 이스라엘 자손의 각 가문의 대표인 온 지파의 지도자들을 예루살렘으로 불러모았다.",
     Chn:"那时，所罗门将以色列的长老、各支派的首领，并以色列的族长招聚到耶路撒冷，要把耶和华的约柜从大卫城—就是锡安—运上来。",
     Eng:"Then Solomon summoned to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD'S covenant from Zion, the City of David.",
     Ind:"Pada waktu itu Salomo menyuruh para tua-tua Israel dan semua kepala suku, para pemimpin puak orang Israel, berkumpul di Yerusalem, untuk mengangkut tabut perjanjian TUHAN dari kota Daud, yaitu Sion."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Tetapi raja Salomo dan segenap umat Israel yang sudah berkumpul di hadapannya, berdiri di depan tabut itu, dan mempersembahkan kambing domba dan lembu sapi yang tidak terhitung dan tidak terbilang banyaknya."
   },
   {Bible:"2Chronicles", Chapter:5, Verse:7, Page:1,
-    Kor:"○제사장들은 주님의 언약궤를 제자리, 곧 성전 내실 지성소 안, 그룹들의 날개 아래에 가져다가 놓았다.",
+    Kor:"○제사장들은 주의 언약궤를 제자리, 곧 성전 내실 지성소 안, 그룹들의 날개 아래에 가져다가 놓았다.",
     Chn:"祭司将耶和华的约柜抬进内殿，就是至圣所，放在两个基路伯的翅膀底下。",
     Eng:"The priests then brought the ark of the LORD'S covenant to its place in the inner sanctuary of the temple, the Most Holy Place, and put it beneath the wings of the cherubim.",
     Ind:"Kemudian imam-imam membawa tabut perjanjian TUHAN itu ke tempatnya, di ruang belakang rumah itu, di tempat maha kudus, tepat di bawah sayap kerub-kerub;"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Kayu-kayu pengusung itu demikian panjangnya, sehingga ujungnya kelihatan dari tempat kudus, yang di depan ruang belakang itu, tetapi tidak kelihatan dari luar; dan di situlah tempatnya sampai hari ini."
   },
   {Bible:"2Chronicles", Chapter:5, Verse:10, Page:1,
-    Kor:"궤 속에는 호렙에서 모세가 넣어 둔 두 판 말고는 아무것도 없었다. 이 두 판은, 이스라엘 자손이 이집트에서 나온 다음에 주님께서 호렙에서 그들과 언약을 세우실 때에, 모세가 거기에 넣은 것이다.",
+    Kor:"궤 속에는 호렙에서 모세가 넣어 둔 두 판 말고는 아무것도 없었다. 이 두 판은, 이스라엘 자손이 이집트에서 나온 다음에 주께서 호렙에서 그들과 언약을 세우실 때에, 모세가 거기에 넣은 것이다.",
     Chn:"约柜里惟有两块石版，就是以色列人出埃及后，耶和华与他们立约的时候，摩西在何烈山所放的。除此以外，并无别物。",
     Eng:"There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the LORD made a covenant with the Israelites after they came out of Egypt.",
     Ind:"Dalam tabut itu tidak ada apa-apa selain dari kedua loh yang ditaruh Musa ke dalamnya di gunung Horeb, ketika TUHAN mengikat perjanjian dengan orang Israel pada waktu perjalanan mereka keluar dari Mesir."
   },
   {Bible:"2Chronicles", Chapter:5, Verse:11, Page:1,
-    Kor:"<주님의 영광> ○제사장들이 성소에서 나올 때에, (제사장들은 갈래의 순번을 가리지 않고, 모두가 이미 정결 예식을 마치고 거기에 들어가 있었고,",
+    Kor:"○제사장들이 성소에서 나올 때에, (제사장들은 갈래의 순번을 가리지 않고, 모두가 이미 정결 예식을 마치고 거기에 들어가 있었고,",
     Chn:"当时，在那里所有的祭司都已自洁，并不分班供职。",
     Eng:"The priests then withdrew from the Holy Place. All the priests who were there had consecrated themselves, regardless of their divisions.",
     Ind:"Lalu para imam keluar dari tempat kudus. Para imam yang ada pada waktu itu semuanya telah menguduskan diri, lepas dari giliran rombongan masing-masing."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Demikian pula para penyanyi orang Lewi semuanya hadir, yakni Asaf, Heman, Yedutun, beserta anak-anak dan saudara-saudaranya. Mereka berdiri di sebelah timur mezbah, berpakaian lenan halus dan dengan ceracap, gambus dan kecapinya, bersama-sama seratus dua puluh imam peniup nafiri."
   },
   {Bible:"2Chronicles", Chapter:5, Verse:13, Page:1,
-    Kor:"나팔 부는 사람들과 노래하는 사람들이 일제히 한 목소리로 주님께 찬양과 감사를 드렸다. 나팔과 심벌즈와 그 밖의 악기가 한데 어우러지고,  \"주님은 선하시다. 그 인자하심이 영원하다\" 하고 소리를 높여 주님을 찬양할 때에, 그 집, 곧 주님의 성전에는 구름이 가득 찼다.",
+    Kor:"나팔 부는 사람들과 노래하는 사람들이 일제히 한 목소리로 주께 찬양과 감사를 드렸다. 나팔과 심벌즈와 그 밖의 악기가 한데 어우러지고, \"주님은 선하시다. 그 인자하심이 영원하다\" 하고 소리를 높여 주님을 찬양할 때에, 그 집, 곧 주의 성전에는 구름이 가득 찼다.",
     Chn:"吹号的、歌唱的都一齐发声，声合为一，赞美感谢耶和华。吹号、敲钹，用各种乐器，扬声赞美耶和华说： 耶和华本为善， 他的慈爱永远长存！ 那时，耶和华的殿有云充满，",
     Eng:"The trumpeters and singers joined in unison, as with one voice, to give praise and thanks to the LORD. Accompanied by trumpets, cymbals and other instruments, they raised their voices in praise to the LORD and sang: \"He is good; his love endures forever.\" Then the temple of the LORD was filled with a cloud,",
     Ind:"Lalu para peniup nafiri dan para penyanyi itu serentak memperdengarkan paduan suaranya untuk menyanyikan puji-pujian dan syukur kepada TUHAN. Mereka menyaringkan suara dengan nafiri, ceracap dan alat-alat musik sambil memuji TUHAN dengan ucapan: \"Sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya.\" Pada ketika itu rumah itu, yakni rumah TUHAN, dipenuhi awan,"
   },
   {Bible:"2Chronicles", Chapter:5, Verse:14, Page:1,
-    Kor:"주님의 영광이 하나님의 성전을 가득 채워서, 구름이 자욱하였으므로, 제사장들은 서서 일을 볼 수가 없었다.",
+    Kor:"주의 영광이 하나님의 성전을 가득 채워서, 구름이 자욱하였으므로, 제사장들은 서서 일을 볼 수가 없었다.",
     Chn:"甚至祭司不能站立供职，因为耶和华的荣光充满了　神的殿。",
     Eng:"and the priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God.",
     Ind:"sehingga imam-imam itu tidak tahan berdiri untuk menyelenggarakan kebaktian oleh karena awan itu, sebab kemuliaan TUHAN memenuhi rumah Allah."

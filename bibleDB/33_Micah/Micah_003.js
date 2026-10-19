@@ -3,7 +3,7 @@
 BibleDB.ref("Micah",3,12);
 BibleDB.add([
   {Bible:"Micah", Chapter:3, Verse:1, Page:1,
-    Kor:"<미가가 이스라엘 지도자들을 고발하다> 그 때에 a내가 말하였다. 야곱의 우두머리들아, 이스라엘 집의 지도자들아, 내가 하는 말을 들어라. 정의에 관심을 가져야 할 너희가, (a 미가)",
+    Kor:"그 때에 내가 말하였다. 야곱의 우두머리들아, 이스라엘 집의 지도자들아, 내가 하는 말을 들어라. 정의에 관심을 가져야 할 너희가,",
     Chn:"我说：雅各的首领， 以色列家的官长啊，你们要听！ 你们不当知道公平吗？",
     Eng:"Then I said, \"Listen, you leaders of Jacob, you rulers of the house of Israel. Should you not know justice,",
     Ind:"Kataku: Baiklah dengar, hai para kepala di Yakub, dan hai para pemimpin kaum Israel! Bukankah selayaknya kamu mengetahui keadilan,"
@@ -21,31 +21,31 @@ BibleDB.add([
     Ind:"mereka memakan daging bangsaku, dan mengupas kulit dari tubuhnya; mereka meremukkan tulang-tulangnya, dan mencincangnya seperti daging dalam kuali, seperti potongan-potongan daging di dalam belanga."
   },
   {Bible:"Micah", Chapter:3, Verse:4, Page:1,
-    Kor:"살려 달라고 주님께 부르짖을 날이 그들에게 온다. 그러나 주님께서 그들의 호소를 들은 체도 하지 않으실 것이다. 그들이 그렇듯 악을 저질렀으니, 주님께서 그들의 기도를 들어주지 않으실 것이다.",
+    Kor:"살려 달라고 주께 부르짖을 날이 그들에게 온다. 그러나 주께서 그들의 호소를 들은 체도 하지 않으실 것이다. 그들이 그렇듯 악을 저질렀으니, 주께서 그들의 기도를 들어주지 않으실 것이다.",
     Chn:"到了遭灾的时候， 这些人必哀求耶和华， 他却不应允他们。 那时他必照他们所行的恶事向他们掩面。",
     Eng:"Then they will cry out to the LORD, but he will not answer them. At that time he will hide his face from them because of the evil they have done.",
     Ind:"Mereka sendirilah nanti akan berseru-seru kepada TUHAN, tetapi Ia tidak akan menjawab mereka; Ia akan menyembunyikan wajah-Nya terhadap mereka pada waktu itu, sebab jahat perbuatan-perbuatan mereka."
   },
   {Bible:"Micah", Chapter:3, Verse:5, Page:1,
-    Kor:"b\"예언자라는 자들이 나의 백성을 속이고 있다. 입에 먹을 것을 물려 주면 평화를 외치고, 먹을 것을 주지 아니하면 전쟁이 다가온다고 협박한다. (b 주님의 말)",
+    Kor:"\"예언자라는 자들이 나의 백성을 속이고 있다. 입에 먹을 것을 물려 주면 '평화'를 외치고, 먹을 것을 주지 아니하면 전쟁을 벌일 준비를 한다.",
     Chn:"论到使我民走差路的先知— 他们牙齿有所嚼的， 他们就呼喊说：平安了！ 凡不供给他们吃的， 他们就预备攻击他— 耶和华如此说：",
     Eng:"This is what the LORD says: \"As for the prophets who lead my people astray, if one feeds them, they proclaim 'peace'; if he does not, they prepare to wage war against him.",
     Ind:"Beginilah firman TUHAN terhadap para nabi, yang menyesatkan bangsaku, yang apabila mereka mendapat sesuatu untuk dikunyah, maka mereka menyerukan damai, tetapi terhadap orang yang tidak memberi sesuatu ke dalam mulut mereka, maka mereka menyatakan perang."
   },
   {Bible:"Micah", Chapter:3, Verse:6, Page:1,
-    Kor:"예언자들아, 너희의 날이 끝났다. 이미 날이 저물었다. 내 백성을 곁길로 이끌었으니 너희가 다시는 환상을 못 볼 것이고 다시는 예언을 하지 못할 것이다.\"",
+    Kor:"'그러므로 너희가 밤을 만날 것이니, 너희가 환상을 볼 수 없을 것이요, 흑암을 만날 것이니, 점을 칠 수 없을 것이다.' 이러한 예언자들에게는 해가 져서 낮이 캄캄할 것이다.",
     Chn:"你们必遭遇黑夜，以致不见异象； 又必遭遇幽暗，以致不能占卜。 日头必向你们沉落， 白昼变为黑暗。",
     Eng:"Therefore night will come over you, without visions, and darkness, without divination. The sun will set for the prophets, and the day will go dark for them.",
     Ind:"Sebab itu hari akan menjadi malam bagimu tanpa penglihatan, dan menjadi gelap bagimu tanpa tenungan. Matahari akan terbenam bagi para nabi itu, dan hari menjadi hitam suram bagi mereka."
   },
   {Bible:"Micah", Chapter:3, Verse:7, Page:1,
-    Kor:"선견자들이 부끄러워하며, 술객들이 수치를 당할 것이다. 하나님께서 응답하지 않으시니, 그들이 얼굴을 들지 못할 것이다.",
+    Kor:"선견자들이 부끄러워하며, 술객들이 수치를 당할 것이다. 하나님께서 응답하지 않으시니, 그들이 얼굴을 들지 못할 것이다.\"",
     Chn:"先见必抱愧， 占卜的必蒙羞， 都必捂着嘴唇， 因为　神不应允他们。",
     Eng:"The seers will be ashamed and the diviners disgraced. They will all cover their faces because there is no answer from God.\"",
     Ind:"Para pelihat akan mendapat malu dan tukang-tukang tenung akan tersipu-sipu; mereka sekalian akan menutupi mukanya, sebab tidak ada jawab dari pada Allah."
   },
   {Bible:"Micah", Chapter:3, Verse:8, Page:1,
-    Kor:"c그러나 나에게는, 주님께서 주님의 영과 능력을 채워 주시고, 정의감과 함께, 야곱에게 그의 죄를 꾸짖고 이스라엘에게 그의 범죄를 꾸짖을 용기를 주셨다. (c 미가의 말)",
+    Kor:"그러나 나에게는, 주께서 주의 영과 능력을 채워 주시고, 정의감과 아울러, 야곱에게 그의 죄를 꾸짖고 이스라엘에게 그의 범죄를 꾸짖을 용기를 주셨다.",
     Chn:"至于我，我借耶和华的灵， 满有力量、公平、才能， 可以向雅各说明他的过犯， 向以色列指出他的罪恶。",
     Eng:"But as for me, I am filled with power, with the Spirit of the LORD, and with justice and might, to declare to Jacob his transgression, to Israel his sin.",
     Ind:"Tetapi aku ini penuh dengan kekuatan, dengan Roh TUHAN, dengan keadilan dan keperkasaan, untuk memberitakan kepada Yakub pelanggarannya dan kepada Israel dosanya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"hai kamu yang mendirikan Sion dengan darah dan Yerusalem dengan kelaliman!"
   },
   {Bible:"Micah", Chapter:3, Verse:11, Page:1,
-    Kor:"이 도성의 지도자들은 뇌물을 받고서야 다스리며, 제사장들은 삯을 받고서야 율법을 가르치며, 예언자들은 돈을 받고서야 계시를 밝힌다. 그러면서도, 이런 자들은 하나같이 주님께서 자기들과 함께 계신다고 큰소리를 친다. '주님께서 우리와 함께 계시니, 우리에게 재앙이 닥치지 않는다'고 말한다.",
+    Kor:"이 도성의 지도자들은 뇌물을 받고서야 다스리며, 제사장들은 삯을 받고서야 율법을 가르치며, 예언자들은 돈을 받고서야 계시를 밝힌다. 그러면서도, 이런 자들은 하나같이 주께서 자기들과 함께 계신다고 큰소리를 친다. '주께서 우리와 함께 계시니, 우리에게 재앙이 닥치지 않는다'고 말한다.",
     Chn:"首领为贿赂行审判； 祭司为雇价施训诲； 先知为银钱行占卜。 他们却倚赖耶和华，说： 耶和华不是在我们中间吗？ 灾祸必不临到我们。",
     Eng:"Her leaders judge for a bribe, her priests teach for a price, and her prophets tell fortunes for money. Yet they lean upon the LORD and say, \"Is not the LORD among us? No disaster will come upon us.\"",
     Ind:"Para kepalanya memutuskan hukum karena suap, dan para imamnya memberi pengajaran karena bayaran, para nabinya menenung karena uang, padahal mereka bersandar kepada TUHAN dengan berkata: \"Bukankah TUHAN ada di tengah-tengah kita! Tidak akan datang malapetaka menimpa kita!\""

@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",1,54);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:1, Verse:1, Page:1,
-    Kor:"<아담에서 아브라함까지(창 5:1-32; 10:1-32; 11:10-26)> 아담, 셋, 에노스,",
+    Kor:"아담, 셋, 에노스,",
     Chn:"亚当生塞特；塞特生以挪士；",
     Eng:"Adam, Seth, Enosh,",
     Ind:"Adam, Set, Enos,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Henokh, Metusalah, Lamekh,"
   },
   {Bible:"1Chronicles", Chapter:1, Verse:4, Page:1,
-    Kor:"a노아의 아들들은 셈과 함과 야벳이다.(a 칠십인역을 따름)",
+    Kor:"노아의 아들들은 셈과 함과 야벳이다.",
     Chn:"拉麦生挪亚；挪亚生闪、含、雅弗。",
     Eng:"The sons of Noah: Shem, Ham and Japheth.",
     Ind:"Nuh, Sem, Ham dan Yafet."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Keturunan Yafet ialah Gomer, Magog, Madai, Yawan, Tubal, Mesekh dan Tiras."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:6, Page:1,
-    Kor:"고멜의 자손은 아스그나스와 b디밧과 도갈마이고,(b 많은 히브리어 사본과 불가타에는 '리밧')",
+    Kor:"고멜의 자손은 아스그나스와 디밧과 도갈마이고,",
     Chn:"歌篾的儿子是亚实基拿、低法、陀迦玛。",
     Eng:"The sons of Gomer: Ashkenaz, Riphath and Togarmah.",
     Ind:"Keturunan Gomer ialah Askenas, Difat dan Togarma."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:7, Page:1,
-    Kor:"야완의 자손은 엘리사와 a스페인과 d키프로스와 e로도스이다.(c 히, '다시스' d 히, '깃딤' e 히, '도다님')",
+    Kor:"야완의 자손은 엘리사와 달시스와 깃딤과 도다님이다.",
     Chn:"雅完的儿子是以利沙、他施、基提、多单。",
     Eng:"The sons of Javan: Elishah, Tarshish, the Kittim and the Rodanim.",
     Ind:"Keturunan Yawan ialah Elisa, Tarsis, orang Kitim dan orang Rodanim."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Keturunan Ham ialah Kush, Misraim, Put dan Kanaan."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:9, Page:1,
-    Kor:"구스의 자손은 쓰바와 하윌라와 삽다와 라아마와 삽드가이고, 라아마의 자손은 쓰바와 드단이다.",
+    Kor:"구스의 자손은 스바와 하윌라와 삽다와 라아마와 삽드가이고, 라아마의 자손은 스바와 드단이다.",
     Chn:"古实的儿子是西巴、哈腓拉、撒弗他、拉玛、撒弗提迦。拉玛的儿子是示巴、底但。",
     Eng:"The sons of Cush: Seba, Havilah, Sabta, Raamah and Sabteca. The sons of Raamah: Sheba and Dedan.",
     Ind:"Keturunan Kush ialah Seba, Hawila, Sabta, Raema dan Sabtekha; keturunan Raema ialah Syeba dan Dedan."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Misraim memperanakkan orang Ludim, orang Anamim, orang Lehabim, orang Naftuhim,"
   },
   {Bible:"1Chronicles", Chapter:1, Verse:12, Page:1,
-    Kor:"바드룻 족과 가슬루 족과 크레테 족이 나왔다. (가슬루 족에서 블레셋 족이 나왔다.)",
+    Kor:"바드룻 족과 가슬루 족과 갑돌 족이 나왔다. (가슬루 족에서 블레셋 족이 나왔다.)",
     Chn:"帕斯鲁细人、迦斯路希人、迦斐托人；从迦斐托出来的有非利士人。",
     Eng:"Pathrusites, Casluhites (from whom the Philistines came) and Caphtorites.",
     Ind:"orang Patrusim, orang Kasluhim--dari mereka inilah berasal orang Filistin--dan orang Kaftorim."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"orang Arwadi, orang Semari dan orang Hamati."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:17, Page:1,
-    Kor:"○셈의 자손은 엘람과 앗수르와 아르박삿과 룻과 아람이다. f아람의 자손은 우스와 훌과 게델과 메섹이다.(f 한 히브리어 사본과 몇몇 칠십인역 사본을 따름(창 10:23에서도))",
+    Kor:"○셈의 자손은 엘람과 앗수르와 아르박삿과 룻과 아람이다. 아람의 자손은 우스와 훌과 게델과 메섹이다.",
     Chn:"闪的儿子是以拦、亚述、亚法 撒、路德、亚兰、乌斯、户勒、基帖、米设。",
     Eng:"The sons of Shem: Elam, Asshur, Arphaxad, Lud and Aram. The sons of Aram: Uz, Hul, Gether and Meshech.",
     Ind:"Keturunan Sem ialah Elam, Asyur, Arpakhsad, Lud, Aram, Us, Hul, Geter dan Mesekh."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Arpakhsad memperanakkan Selah, dan Selah memperanakkan Eber."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:19, Page:1,
-    Kor:"에벨은 두 아들을 낳았는데, 그 때에 세계 인종이 나뉘었다고 해서, 한 아들의 이름을 g벨렉이라고 하였다. 그 아우의 이름은 욕단이다.(g '나뉨')",
+    Kor:"에벨은 두 아들을 낳았는데, 그 때에 세계 인종이 나뉘었다고 해서, 한 아들의 이름을 벨렉이라고 하였다. 그 아우의 이름은 욕단이다.",
     Chn:"希伯生了两个儿子：一个名叫法勒，因为那时人就分地居住；法勒的兄弟名叫约坍。",
     Eng:"Two sons were born to Eber: One was named Peleg, because in his time the earth was divided; his brother was named Joktan.",
     Ind:"Bagi Eber lahir dua anak laki-laki; nama yang seorang ialah Peleg, sebab dalam zamannya penduduk bumi terbagi, dan nama adiknya ialah Yoktan."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Abram, itulah Abraham."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:28, Page:1,
-    Kor:"<이스마엘의 자손(창 25:12-16)> ○아브라함의 아들은 이삭과 이스마엘이다.",
+    Kor:"○아브라함의 아들은 이삭과 이스마엘이다.",
     Chn:"亚伯拉罕的儿子是以撒、以实玛利。",
     Eng:"The sons of Abraham: Isaac and Ishmael.",
     Ind:"Anak-anak Abraham ialah Ishak dan Ismael."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Misyma, Duma, Masa, Hadad, Tema,"
   },
   {Bible:"1Chronicles", Chapter:1, Verse:31, Page:1,
-    Kor:"여두르와 나비스와 게드마가 태어났다. 이들이 이스마엘의 아들들이다.",
+    Kor:"여둘과 나비스와 게드마가 태어났다. 이들이 이스마엘의 아들들이다.",
     Chn:"伊突、拿非施、基底玛。这都是以实玛利的儿子。",
     Eng:"Jetur, Naphish and Kedemah. These were the sons of Ishmael.",
     Ind:"Yetur, Nafish dan Kedma; mereka itulah anak-anak Ismael."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Anak-anak Midian ialah: Efa, Efer, Hanokh, Abida dan Eldaa. Itulah semuanya keturunan Ketura."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:34, Page:1,
-    Kor:"<에서의 자손(창 36:1-19)> ○아브라함이 이삭을 낳았다. 이삭의 아들은 에서와 이스라엘이다.",
+    Kor:"○아브라함이 이삭을 낳았다. 이삭의 아들은 에서와 이스라엘이다.",
     Chn:"亚伯拉罕生以撒；以撒的儿子是以扫和以色列。",
     Eng:"Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.",
     Ind:"Abraham memperanakkan Ishak. Anak-anak Ishak ialah Esau dan Israel."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Anak-anak Rehuel ialah Nahat, Zerah, Syama dan Miza."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:38, Page:1,
-    Kor:"<에돔의 원주민(창 36:20-30)> ○세일의 아들은 로단과 소발과 시브온과 아나와 디손과 에셀과 디산이다.",
+    Kor:"○세일의 아들은 로단과 소발과 시브온과 아나와 디손과 에셀과 디산이다.",
     Chn:"西珥的儿子是罗坍、朔巴、祭便、亚拿、底顺、以察、底珊。",
     Eng:"The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan.",
     Ind:"Anak-anak Seir ialah Lotan, Syobal, Zibeon, Ana, Disyon, Ezer dan Disyan."
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"Anak-anak Ezer ialah Bilhan, Zaawan dan Yaakan. Anak-anak Disyan ialah Us dan Aran."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:43, Page:1,
-    Kor:"<에돔의 왕들(창 36:31-43)> ○이스라엘 자손을 다스리는 왕이 있기 전에 에돔 땅을 다스린 왕은 다음과 같다. 브올의 아들 벨라가 딘하바에 도읍을 정하고 왕이 되었다.",
+    Kor:"○이스라엘 자손을 다스리는 왕이 있기 전에 에돔 땅을 다스린 왕은 다음과 같다. 브올의 아들 벨라가 딘하바에 도읍을 정하고 왕이 되었다.",
     Chn:"以色列人未有君王治理之先，在以东地作王的记在下面：有比珥的儿子比拉，他的京城名叫亭哈巴。",
     Eng:"These were the kings who reigned in Edom before any Israelite king reigned: Bela son of Beor, whose city was named Dinhabah.",
     Ind:"Inilah raja-raja yang memerintah di tanah Edom, sebelum seorang raja dari orang Israel memerintah: Bela bin Beor, dan kotanya bernama Dinhaba."
@@ -279,13 +279,13 @@ BibleDB.add([
     Ind:"Setelah Husyam mati, Hadad bin Bedad menjadi raja menggantikan dia; dialah yang memukul kalah orang Midian di daerah Moab, dan kotanya bernama Awit."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:47, Page:1,
-    Kor:"하닷이 죽으니, 마스레가 사람 삼라가 그의 뒤를 이어 왕이 되었고,",
+    Kor:"하닷이 죽으니, 마스레가 사람 사믈라가 그의 뒤를 이어 왕이 되었고,",
     Chn:"哈达死了，玛士利加人桑拉接续他作王。",
     Eng:"When Hadad died, Samlah from Masrekah succeeded him as king.",
     Ind:"Setelah Hadad mati, Samla, dari Masyreka menjadi raja menggantikan dia."
   },
   {Bible:"1Chronicles", Chapter:1, Verse:48, Page:1,
-    Kor:"삼라가 죽으니 유프라테스 강 가에 살던 르호봇 사람 사울이 그의 뒤를 이어 왕이 되었고,",
+    Kor:"사믈라가 죽으니 유프라테스 강 가에 살던 르호봇 사람 사울이 그의 뒤를 이어 왕이 되었고,",
     Chn:"桑拉死了，大河边的利河伯人扫罗接续他作王。",
     Eng:"When Samlah died, Shaul from Rehoboth on the river succeeded him as king.",
     Ind:"Setelah Samla mati, Saul, dari Rehobot-Sungai, menjadi raja menggantikan dia."

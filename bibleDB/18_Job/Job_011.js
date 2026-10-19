@@ -3,7 +3,7 @@
 BibleDB.ref("Job",11,20);
 BibleDB.add([
   {Bible:"Job", Chapter:11, Verse:1, Page:1,
-    Kor:"<소발의 첫 번째 발언> 나아마 사람 소발이 욥에게 대답하였다.",
+    Kor:"나아마 사람 소발이 욥에게 대답하였다.",
     Chn:"拿玛人琐法回答说：",
     Eng:"Then Zophar the Naamathite replied:",
     Ind:"Maka berbicaralah Zofar, orang Naama:"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi, mudah-mudahan Allah sendiri berfirman, dan membuka mulut-Nya terhadap engkau,"
   },
   {Bible:"Job", Chapter:11, Verse:6, Page:1,
-    Kor:"지혜의 비밀을 네게 드러내어 주시기를 바란다. 지혜란 우리가 이해하기에는 너무나도 어려운 것이다. 너는, 하나님이 네게 내리시는 벌이 네 죄보다 가볍다는 것을 알아야 한다.",
+    Kor:"지혜의 비밀을 네게 드러내어 주시기를 바란다. 지혜란 우리가 이해하기에는 너무나도 어려운 것이다. 너는, 하나님이 네게 내리시는 벌이, 네 죄보다 가볍다는 것을 알아야 한다.",
     Chn:"并将智慧的奥秘指示你； 他有诸般的智识。 所以当知道　神追讨你 比你罪孽该得的还少。",
     Eng:"and disclose to you the secrets of wisdom, for true wisdom has two sides. Know this: God has even forgotten some of your sin.",
     Ind:"dan memberitakan kepadamu rahasia hikmat, karena itu ajaib bagi pengertian. Maka engkau akan mengetahui, bahwa Allah tidak memperhitungkan bagimu sebagian dari pada kesalahanmu."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Dapatkah engkau memahami hakekat Allah, menyelami batas-batas kekuasaan Yang Mahakuasa?"
   },
   {Bible:"Job", Chapter:11, Verse:8, Page:1,
-    Kor:"하늘보다 높으니 네가 어찌 미칠 수 있으며, a스올보다 깊으니 네가 어찌 알 수 있겠느냐? (a 또는 '무덤' 또는 '죽음')",
+    Kor:"하늘보다 높으니 네가 어찌 미칠 수 있으며, 스올보다 깊으니 네가 어찌 알 수 있겠느냐?",
     Chn:"他的智慧高于天，你还能做什么？ 深于阴间，你还能知道什么？",
     Eng:"They are higher than the heavens--what can you do? They are deeper than the depths of the grave--what can you know?",
     Ind:"Tingginya seperti langit--apa yang dapat kaulakukan? Dalamnya melebihi dunia orang mati--apa yang dapat kauketahui?"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Karena Ia mengenal penipu dan melihat kejahatan tanpa mengamat-amatinya."
   },
   {Bible:"Job", Chapter:11, Verse:12, Page:1,
-    Kor:"b미련한 사람이 똑똑해지기를 바라느니 차라리 들나귀가 사람 낳기를 기다려라. (b 또는 '미련한 사람도 똑똑해질 때가 있고, 들나귀 새끼도 사람처럼 길이 들 때가 있다')",
+    Kor:"미련한 사람이 똑똑해지기를 바라느니 차라리 들나귀가 사람 낳기를 기다려라.",
     Chn:"空虚的人却毫无知识； 人生在世好像野驴的驹子。",
     Eng:"But a witless man can no more become wise than a wild donkey's colt can be born a man.",
     Ind:"Jikalau orang dungu dapat mengerti, maka anak keledai liarpun dapat lahir sebagai manusia."

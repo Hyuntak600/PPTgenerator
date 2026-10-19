@@ -3,13 +3,13 @@
 BibleDB.ref("Joshua",15,63);
 BibleDB.add([
   {Bible:"Joshua", Chapter:15, Verse:1, Page:1,
-    Kor:"<유다 지파의 땅> 유다 자손 지파에게 가문을 따라 제비를 뽑아서 나누어 준 땅은 다음과 같다. 유다 지파가 차지한 땅은 남쪽으로는 에돔의 경계선과 만나는 지역 곧 남쪽 맨 끝에 있는 신 광야에까지 이른다.",
+    Kor:"유다 자손 지파에게 가문을 따라 제비를 뽑아서 나누어 준 땅은 다음과 같다. 유다 지파가 차지한 땅은 남쪽으로는 에돔의 경계선과 만나는 지역, 곧 남쪽 맨 끝에 있는 신 광야에까지 이른다.",
     Chn:"犹大支派按着宗族拈阄所得之地是在尽南边，到以东的交界，向南直到寻的旷野。",
     Eng:"The allotment for the tribe of Judah, clan by clan, extended down to the territory of Edom, to the Desert of Zin in the extreme south.",
     Ind:"Bagian yang diundikan kepada suku bani Yehuda menurut kaum-kaum mereka adalah sampai ke batas tanah Edom, sampai ke padang gurun Zin ke selatan, di ujung selatan."
   },
   {Bible:"Joshua", Chapter:15, Verse:2, Page:1,
-    Kor:"남쪽의 가로 경계선은 사해의 남쪽 끝 곧 남쪽으로 난 하구에서부터",
+    Kor:"남쪽의 가로 경계선은 사해의 남쪽 끝, 곧 남쪽으로 난 하구에서부터",
     Chn:"他们的南界是从盐海的尽边，就是从朝南的海汊起，",
     Eng:"Their southern boundary started from the bay at the southern end of the Salt Sea,",
     Ind:"Batas selatan bagi mereka mulai dari ujung Laut Asin, dari teluk yang menghadap ke selatan;"
@@ -39,25 +39,25 @@ BibleDB.add([
     Ind:"batas itu naik ke Bet-Hogla, melalui sebelah utara Bet-Araba, kemudian batas itu naik ke batu Bohan bin Ruben;"
   },
   {Bible:"Joshua", Chapter:15, Verse:7, Page:1,
-    Kor:"그리고 그 경계선은 다시 아골 골짜기에서 드빌을 지나 북쪽으로 올라가, 강의 남쪽에 있는 아둠밈 비탈 맞은쪽의 길갈에 이르고, 거기에서 다시 a엔세메스 물을 지나서 엔 로겔에 이른다.(a '태양의 샘')",
+    Kor:"그리고 그 경계선은 다시 아골 골짜기에서 드빌을 지나 북쪽으로 올라가, 강의 남쪽에 있는 아둠밈 비탈 맞은쪽의 길갈에 이르고, 거기에서 다시 엔세메스 물을 지나서 엔로겔에 이른다.",
     Chn:"从亚割谷往北，上到底璧，直向河南亚都冥坡对面的吉甲；又接连到隐·示麦泉，直通到隐·罗结，",
     Eng:"The boundary then went up to Debir from the Valley of Achor and turned north to Gilgal, which faces the Pass of Adummim south of the gorge. It continued along to the waters of En Shemesh and came out at En Rogel.",
     Ind:"lalu dari lembah Akhor batas itu naik ke Debir, dan menuju ke utara ke Gilgal di seberang pendakian Adumim, yang di sebelah selatan sungai. Kemudian batas itu terus ke mata air En-Semes dan keluar ke En-Rogel."
   },
   {Bible:"Joshua", Chapter:15, Verse:8, Page:1,
-    Kor:"그 경계선은 다시 힌놈의 아들 골짜기로 올라가서, 여부스 곧 예루살렘의 남쪽 비탈에 이르고, 또 힌놈의 골짜기 앞 서쪽 산꼭대기에 이르는데, 이 곳은 르바임 골짜기의 북쪽 끝이다.",
+    Kor:"그 경계선은 다시 힌놈의 아들 골짜기로 올라가서, 여부스, 곧 예루살렘의 남쪽 비탈에 이르고, 또 힌놈의 골짜기 앞 서쪽 산꼭대기에 이르는데, 이 곳은 르바임 골짜기의 북쪽 끝이다.",
     Chn:"上到欣嫩子谷，贴近耶布斯的南界（耶布斯就是耶路撒冷）；又上到欣嫩谷西边的山顶，就是在利乏音谷极北的边界；",
     Eng:"Then it ran up the Valley of Ben Hinnom along the southern slope of the Jebusite city (that is, Jerusalem). From there it climbed to the top of the hill west of the Hinnom Valley at the northern end of the Valley of Rephaim.",
     Ind:"Kemudian batas itu naik ke lembah Ben-Hinom, di sebelah selatan sepanjang lereng gunung Yebus, itulah Yerusalem; kemudian batas itu naik ke puncak gunung yang di seberang lembah Hinom, di sebelah barat, di ujung utara lembah orang Refaim."
   },
   {Bible:"Joshua", Chapter:15, Verse:9, Page:1,
-    Kor:"그 경계선은 다시 산꼭대기로부터 넵도아 샘물까지 이르러 에브론 산 성읍들에 미치고, 또 바알라 곧 기럇여아림에 이른다.",
+    Kor:"그 경계선은 다시 산꼭대기로부터 넵도아 샘물까지 이르러 에브론 산 성읍들에 미치고, 또 바알라, 곧 기럇여아림에 이른다.",
     Chn:"又从山顶延到尼弗多亚的水源，通到以弗 山的城邑，又延到巴拉（巴拉就是基列·耶琳）；",
     Eng:"From the hilltop the boundary headed toward the spring of the waters of Nephtoah, came out at the towns of Mount Ephron and went down toward Baalah (that is, Kiriath Jearim).",
     Ind:"Kemudian batas itu melengkung dari puncak gunung itu ke mata air Me-Neftoah, lalu keluar ke kota-kota pegunungan Efron; selanjutnya batas itu melengkung ke Baala, itulah Kiryat-Yearim."
   },
   {Bible:"Joshua", Chapter:15, Verse:10, Page:1,
-    Kor:"그 경계선은 다시 바알라에서 서쪽으로 돌아서 세일 산에 이르고, 여아림 산 곧 그살론 북쪽 비탈에 미쳐, b벳세메스로 내려가서 딤나에 이르고,(b '태양의 집')",
+    Kor:"그 경계선은 다시 바알라에서 서쪽으로 돌아서 세일 산에 이르고, 여아림 산, 곧 그살론 북쪽 비탈에 미쳐, 벳세메스로 내려가서 딤나에 이르고,",
     Chn:"又从巴拉往西绕到西珥山，接连到耶琳山的北边（耶琳就是基撒 ）；又下到伯·示麦过亭纳，",
     Eng:"Then it curved westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim (that is, Kesalon), continued down to Beth Shemesh and crossed to Timnah.",
     Ind:"Kemudian batas itu membelok dari Baala ke barat ke pegunungan Seir, terus ke utara ke lereng gunung Yearim, itulah Kesalon, turun ke Bet-Semes dan terus ke Timna."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Batas barat ialah Laut Besar dan pantainya. Itulah, ke segala penjuru, batas-batas daerah bani Yehuda menurut kaum-kaum mereka."
   },
   {Bible:"Joshua", Chapter:15, Verse:13, Page:1,
-    Kor:"<갈렙이 헤브론과 드빌을 정복하다(삿 1:11-15)> ○주님께서 여호수아에게 명하신 대로, 여호수아가 여분네의 아들 갈렙에게 유다 자손의 분깃 가운데서, 아르바에 가지고 있던 성읍 헤브론을 주었는데, 아르바라는 사람은 아낙 사람의 조상이다.",
+    Kor:"○주께서 여호수아에게 명하신 대로, 여호수아가 여분네의 아들 갈렙에게 유다 자손의 분깃 가운데서, 아르바에 가지고 있던 성읍 헤브론을 주었는데, 아르바라는 사람은 아낙 사람의 조상이다.",
     Chn:"约书亚照耶和华所吩咐的，将犹大人中的一段地，就是基列·亚巴，分给耶孚尼的儿子迦勒。亚巴是亚衲族的始祖（基列·亚巴就是希伯 ）。",
     Eng:"In accordance with the LORD'S command to him, Joshua gave to Caleb son of Jephunneh a portion in Judah--Kiriath Arba, that is, Hebron. (Arba was the forefather of Anak.)",
     Ind:"Tetapi kepada Kaleb bin Yefune diberikan Yosua sebagian di tengah-tengah bani Yehuda itu, yakni Kiryat-Arba, seperti yang dititahkan TUHAN kepadanya; Arba ialah bapa Enak. Itulah Hebron."
   },
   {Bible:"Joshua", Chapter:15, Verse:14, Page:1,
-    Kor:"갈렙은 거기에서 아낙의 세 아들 곧 아낙이 낳은 세새와 아히만과 달매를 쫓아내었다.",
+    Kor:"갈렙은 거기에서 아낙의 세 아들, 곧 아낙이 낳은 세새와 아히만과 달매를 쫓아내었다.",
     Chn:"迦勒就从那里赶出亚衲族的三个族长，就是示筛、亚希幔、挞买；",
     Eng:"From Hebron Caleb drove out the three Anakites--Sheshai, Ahiman and Talmai--descendants of Anak.",
     Ind:"Dan Kaleb menghalau dari sana ketiga orang Enak, yakni Sesai, Ahiman dan Talmai, anak-anak Enak."
@@ -99,31 +99,31 @@ BibleDB.add([
     Ind:"Lalu berkatalah Kaleb: \"Siapa yang menggempur Kiryat-Sefer dan merebutnya, kepadanya akan kuberikan Akhsa, anakku, menjadi isterinya.\""
   },
   {Bible:"Joshua", Chapter:15, Verse:17, Page:1,
-    Kor:"갈렙의 형제 그나스의 아들인 옷니엘이 그 곳을 점령하였으므로, 갈렙은 그를 자기의 딸 악사와 결혼시켰다.",
+    Kor:"갈렙의 형제 그나스의 아들인 옷니엘이 그 곳을 점령하였으므로 갈렙은 그를 자기의 딸 악사와 결혼시켰다.",
     Chn:"迦勒兄弟基纳斯的儿子俄陀聂夺取了那城，迦勒就把女儿押撒给他为妻。",
     Eng:"Othniel son of Kenaz, Caleb's brother, took it; so Caleb gave his daughter Acsah to him in marriage.",
     Ind:"Dan Otniel, anak Kenas saudara Kaleb, merebut kota itu; lalu Kaleb memberikan kepadanya Akhsa, anaknya, menjadi isterinya."
   },
   {Bible:"Joshua", Chapter:15, Verse:18, Page:1,
-    Kor:"결혼을 하고 나서, c악사는 자기의 남편 옷니엘에게 아버지에게서 밭을 얻어내라고 재촉하였다. 악사가 나귀에서 내리자, 갈렙이 딸에게 물었다. \"뭐 더 필요한 것이 있느냐?\"(c 히브리어 본문과 칠십인역 사본 가운데 몇몇은 악사가 그의 남편 옷니엘을 시켜 갈렙에게서 밭을 얻어내라고 재촉한 것으로 되어 있으나, 칠십인역 사본 가운데 더러는 옷니엘이 그의 아내 악사를 06 15:시켜 장인 갈렙에게서 밭을 얻어내라고 재촉함)",
+    Kor:"결혼을 하고 나서, 악사는 자기의 남편 옷니엘에게, 아버지에게서 밭을 얻어내라고 재촉하였다. 악사가 나귀에서 내리자, 갈렙이 딸에게 물었다. \"뭐 더 필요한 것이 있느냐?\"",
     Chn:"押撒过门的时候，劝丈夫向她父亲求一块田，押撒一下驴，迦勒问她说：「你要什么？」",
     Eng:"One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\"",
     Ind:"Ketika perempuan itu tiba, dibujuknya suaminya untuk meminta ladang kepada ayahnya. Maka turunlah perempuan itu dari keledainya, lalu berkatalah Kaleb kepadanya: \"Ada apa?\""
   },
   {Bible:"Joshua", Chapter:15, Verse:19, Page:1,
-    Kor:"악사가 대답하였다. \"저의 부탁을 하나 들어주시기 바랍니다. 아버지께서 저에게 이 d메마른 땅을 주셨으니, 샘 몇 개만이라도 주시기 바랍니다.\" 그는 딸에게 윗샘과 아랫샘을 주었다.(d 히, '네겝 땅' 또는 '남방 땅')",
+    Kor:"악사가 대답하였다. \"저의 부탁을 하나 들어주시기 바랍니다. 아버지께서 저에게 이 메마른 땅을 주셨으니, 샘 몇 개만이라도 주시기 바랍니다.\" 그는 딸에게 윗샘과 아랫샘을 주었다.",
     Chn:"她说：「求你赐福给我，你既将我安置在南地，求你也给我水泉。」她父亲就把上泉下泉赐给她。",
     Eng:"She replied, \"Do me a special favor. Since you have given me land in the Negev, give me also springs of water.\" So Caleb gave her the upper and lower springs.",
     Ind:"Jawabnya: \"Berikanlah kepadaku hadiah; telah kauberikan kepadaku tanah yang gersang, berikanlah juga kepadaku mata air.\" Lalu diberikannyalah kepadanya mata air yang di hulu dan mata air yang di hilir."
   },
   {Bible:"Joshua", Chapter:15, Verse:20, Page:1,
-    Kor:"<유다의 성읍들> ○이 땅이 유다 자손의 지파에 속한 여러 가문이 나누어 받은 유산이다.",
+    Kor:"○이 땅이, 유다 자손의 지파에 속한 여러 가문이 나누어 받은 유산이다.",
     Chn:"以下是犹大支派按着宗族所得的产业。",
     Eng:"This is the inheritance of the tribe of Judah, clan by clan:",
     Ind:"Inilah milik pusaka suku bani Yehuda menurut kaum-kaum mereka."
   },
   {Bible:"Joshua", Chapter:15, Verse:21, Page:1,
-    Kor:"유다 자손 지파가 차지한 성읍들 가운데서 에돔 경계선 가까이 가장 남쪽에 있는 성읍들은, 갑스엘과 에델과 야굴과",
+    Kor:"유다 자손 지파가 차지한 성읍들 가운데서 에돔 경계선 가까이, 가장 남쪽에 있는 성읍들은, 갑스엘과 에델과 야굴과",
     Chn:"犹大支派尽南边的城邑，与以东交界相近的，就是甲薛、以得、雅姑珥、",
     Eng:"The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, Jagur,",
     Ind:"Kota-kota suku bani Yehuda yang paling ujung, dekat batas tanah Edom di Tanah Negeb, ialah Kabzeel, Eder, Yagur,"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Baala, Iyim, Ezem,"
   },
   {Bible:"Joshua", Chapter:15, Verse:30, Page:1,
-    Kor:"엘돌랏과 그실과 호르마와",
+    Kor:"엘돌랏과 그실과 홀마와",
     Chn:"伊勒多腊、基失、何珥玛、",
     Eng:"Eltolad, Kesil, Hormah,",
     Ind:"Eltolad, Kesil, Horma,"
@@ -291,7 +291,7 @@ BibleDB.add([
     Ind:"Lagi di Pegunungan: Samir, Yatir, Sokho,"
   },
   {Bible:"Joshua", Chapter:15, Verse:49, Page:1,
-    Kor:"단나와 기럇산나 곧 드빌과",
+    Kor:"단나와, 기럇산나 곧 드빌과,",
     Chn:"大拿、基列·萨拿（基列·萨拿就是底璧）、",
     Eng:"Dannah, Kiriath Sannah (that is, Debir),",
     Ind:"Dana, Kiryat-Sana, itulah Debir;"
@@ -321,7 +321,7 @@ BibleDB.add([
     Ind:"Yanum, Bet-Tapuah, Afeka,"
   },
   {Bible:"Joshua", Chapter:15, Verse:54, Page:1,
-    Kor:"훔다와 기럇아르바 곧 헤브론과 시올, 이렇게 아홉 성읍과 그 주변 마을들이 있었다.",
+    Kor:"훔다와, 기럇아르바 곧 헤브론과, 시올, 이렇게 아홉 성읍과 그 주변 마을들이 있었다.",
     Chn:"宏他、基列·亚巴（基列·亚巴就是希伯 ）、洗珥，共九座城，还有属城的村庄。",
     Eng:"Humtah, Kiriath Arba (that is, Hebron) and Zior--nine towns and their villages.",
     Ind:"Humta, Kiryat-Arba, itulah Hebron, dan Zior; sembilan kota dengan desa-desanya."
@@ -357,7 +357,7 @@ BibleDB.add([
     Ind:"Maarat, Bet-Anot dan Eltekon; enam kota dengan desa-desanya."
   },
   {Bible:"Joshua", Chapter:15, Verse:60, Page:1,
-    Kor:"기럇바알 곧 기럇여아림과 랍바, 이 두 성읍과 그 주변 마을들도 있었다.",
+    Kor:"기럇바알 곧 기럇여아림과 라빠, 이 두 성읍과 그 주변 마을들도 있었다.",
     Chn:"又有基列·巴力（基列·巴力就是基列·耶琳）、拉巴，共两座城，还有属城的村庄。",
     Eng:"Kiriath Baal (that is, Kiriath Jearim) and Rabbah--two towns and their villages.",
     Ind:"Kiryat-Baal, itulah Kiryat-Yearim, dan Raba; dua kota dengan desa-desanya."

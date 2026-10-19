@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",14,24);
 BibleDB.add([
   {Bible:"Genesis", Chapter:14, Verse:1, Page:1,
-    Kor:"<아브람이 롯을 구하다> 시날 왕 아므라벨과, 엘라살 왕 아리옥과, 엘람 왕 그돌라오멜과, 고임 왕 디달의 시대에,",
+    Kor:"시날 왕 아므라벨과, 엘라살 왕 아리옥과, 엘람 왕 그돌라오멜과, 고임 왕 디달의 시대에,",
     Chn:"当暗拉非作示拿王，亚略作以拉撒王，基大老玛作以拦王，提达作戈印王的时候，",
     Eng:"At this time Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam and  Tidal king of Goiim",
     Ind:"Pada zaman Amrafel, raja Sinear, Ariokh, raja Elasar, Kedorlaomer, raja Elam, dan Tideal, raja Goyim, terjadilah,"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"bahwa raja-raja ini berperang melawan Bera, raja Sodom, Birsya, raja Gomora, Syinab, raja Adma, Syemeber, raja Zeboim dan raja negeri Bela, yakni negeri Zoar."
   },
   {Bible:"Genesis", Chapter:14, Verse:3, Page:1,
-    Kor:"이 다섯 왕은 군대를 이끌고, 싯딤 벌판 곧 지금의 '소금 바다'에 모였다.",
+    Kor:"이 다섯 왕은 군대를 이끌고, 싯딤 벌판, 곧 지금의 '소금 바다'에 모였다.",
     Chn:"这五王都在西订谷会合；西订谷就是盐海。",
     Eng:"All these latter kings joined forces in the Valley of Siddim (the Salt Sea).",
     Ind:"Raja-raja yang disebut terakhir ini semuanya bersekutu dan datang ke lembah Sidim, yakni Laut Asin."
   },
   {Bible:"Genesis", Chapter:14, Verse:4, Page:1,
-    Kor:"지난날에 이 왕들은 십이 년 동안이나 그돌라오멜을 섬기다가, 십삼 년째 되는 해에 반란을 일으켰던 것이다.",
+    Kor:"지난날에, 이 왕들은 십이 년 동안이나 그돌라오멜을 섬기다가, 십삼 년째 되는 해에 반란을 일으켰던 것이다.",
     Chn:"他们已经事奉基大老玛十二年，到十三年就背叛了。",
     Eng:"For twelve years they had been subject to Kedorlaomer, but in the thirteenth year they  rebelled.",
     Ind:"Dua belas tahun lamanya mereka takluk kepada Kedorlaomer, tetapi dalam tahun yang ketiga belas mereka memberontak."
   },
   {Bible:"Genesis", Chapter:14, Verse:5, Page:1,
-    Kor:"십사 년째 되는 해에는, 그돌라오멜이 자기와 동맹을 맺은 왕들을 데리고 일어나서, 아스드롯가르나임에서는 르바 사람을 치고, 함에서는 수스 사람을 치고, 사웨기랴다임에서는 엠 사람을 치고,",
+    Kor:"십사 년째 되는 해에는, 그돌라오멜이 자기와 동맹을 맺은 왕들을 데리고 일어나서, 아스드롯가르나임에서는 르바 사람을 치고, 함에서는 수스 사람을 치고, 사웨 기랴다임에서는 엠 사람을 치고,",
     Chn:"十四年，基大老玛和同盟的王都来在亚特律·加宁，杀败了利乏音人，在哈麦杀败了苏西人，在沙微·基列亭杀败了以米人，",
     Eng:"In the fourteenth year, Kedorlaomer and the kings allied with him went out and defeated the  Rephaites in Ashteroth Karnaim, the Zuzites in Ham, the Emites in Shaveh Kiriathaim",
     Ind:"Dalam tahun yang keempat belas datanglah Kedorlaomer serta raja-raja yang bersama-sama dengan dia, lalu mereka mengalahkan orang Refaim di Asyterot-Karnaim, orang Zuzim di Ham, orang Emim di Syawe-Kiryataim"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Di lembah Sidim itu di mana-mana ada sumur aspal. Ketika raja Sodom dan raja Gomora melarikan diri, jatuhlah mereka ke dalamnya, dan orang-orang yang masih tinggal hidup melarikan diri ke pegunungan."
   },
   {Bible:"Genesis", Chapter:14, Verse:11, Page:1,
-    Kor:"그래서 쳐들어온 네 왕은 소돔과 고모라에 있는 모든 재물과 먹거리를 빼앗았다.",
+    Kor:"그래서 쳐들어온 네 왕은 소돔과 고모라에 있는 모든 재물과 먹을거리를 빼앗았다.",
     Chn:"四王就把所多玛和蛾摩拉所有的财物，并一切的粮食都掳掠去了；",
     Eng:"The four kings seized all the goods of Sodom and Gomorrah and all their food; then they  went away.",
     Ind:"Segala harta benda Sodom dan Gomora beserta segala bahan makanan dirampas musuh, lalu mereka pergi."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Dibawanyalah kembali segala harta benda itu; juga Lot, anak saudaranya itu, serta harta bendanya dibawanya kembali, demikian juga perempuan-perempuan dan orang-orangnya."
   },
   {Bible:"Genesis", Chapter:14, Verse:17, Page:1,
-    Kor:"<멜기세덱이 아브람을 축복하다> ○아브람이 그돌라오멜과 그와 동맹을 맺은 왕들을 쳐부수고 돌아온 뒤에, 소돔 왕이 아브람을 맞아서, 사웨 벌판 곧 왕의 벌판으로 나왔다.",
+    Kor:"○아브람이 그돌라오멜과 그와 동맹을 맺은 왕들을 쳐부수고 돌아온 뒤에, 소돔 왕이 아브람을 맞아서, 사웨 벌판 곧 왕의 벌판으로 나왔다.",
     Chn:"亚伯兰杀败基大老玛和与他同盟的王回来的时候，所多玛王出来，在沙微谷迎接他；沙微谷就是王谷。",
     Eng:"After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of  Sodom came out to meet him in the Valley of Shaveh (that is, the King's Valley).",
     Ind:"Setelah Abram kembali dari mengalahkan Kedorlaomer dan para raja yang bersama-sama dengan dia, maka keluarlah raja Sodom menyongsong dia ke lembah Syawe, yakni Lembah Raja."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Melkisedek, raja Salem, membawa roti dan anggur; ia seorang imam Allah Yang Mahatinggi."
   },
   {Bible:"Genesis", Chapter:14, Verse:19, Page:1,
-    Kor:"그는 아브람에게 복을 빌어 주었다. \"천지의 주재, a가장 높으신 하나님, 아브람에게 복을 내려 주십시오. (a 히, '엘엘리욘')",
+    Kor:"그는 아브람에게 복을 빌어 주었다. \"천지의 주재, 가장 높으신 하나님, 아브람에게 복을 내려 주십시오.",
     Chn:"他为亚伯兰祝福，说：「愿天地的主、至高的　神赐福与亚伯兰！",
     Eng:"and he blessed Abram, saying, \"Blessed be Abram by God Most High, Creator of heaven and  earth.",
     Ind:"Lalu ia memberkati Abram, katanya: \"Diberkatilah kiranya Abram oleh Allah Yang Mahatinggi, Pencipta langit dan bumi,"
   },
   {Bible:"Genesis", Chapter:14, Verse:20, Page:1,
-    Kor:"아브람은 들으시오. 그대는, 원수들을 그대의 손에 넘겨 주신 a가장 높으신 하나님을 찬양하시오.\" ○아브람은 가지고 있는 모든 것에서 열의 하나를 멜기세덱에게 주었다.(a 히, '엘엘리욘')",
+    Kor:"아브람은 들으시오. 그대는, 원수들을 그대의 손에 넘겨 주신 가장 높으신 하나님을 찬양하시오.\" ○아브람은 가지고 있는 모든 것에서 열의 하나를 멜기세덱에게 주었다.",
     Chn:"至高的　神把敌人交在你手里，是应当称颂的！」亚伯兰就把所得的拿出十分之一来，给麦基洗德。",
     Eng:"And blessed be God Most High, who delivered your enemies into your hand.\" Then Abram gave  him a tenth of everything.",
     Ind:"dan terpujilah Allah Yang Mahatinggi, yang telah menyerahkan musuhmu ke tanganmu.\" Lalu Abram memberikan kepadanya sepersepuluh dari semuanya."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Tetapi kata Abram kepada raja negeri Sodom itu: \"Aku bersumpah demi TUHAN, Allah Yang Mahatinggi, Pencipta langit dan bumi:"
   },
   {Bible:"Genesis", Chapter:14, Verse:23, Page:1,
-    Kor:"그대의 것은 실오라기 하나나 신발 끈 하나라도 가지지 않겠습니다. 그러므로 그대는, 그대 덕분에 아브람이 부자가 되었다고는 절대로 말할 수 없을 것입니다.",
+    Kor:"그대의 것은 실오라기 하나나, 신발 끈 하나라도 가지지 않겠습니다. 그러므로 그대는, 그대 덕분에 아브람이 부자가 되었다고는 절대로 말할 수 없을 것입니다.",
     Chn:"凡是你的东西，就是一根线、一根鞋带，我都不拿，免得你说：『我使亚伯兰富足！』",
     Eng:"that I will accept nothing belonging to you, not even a thread or the thong of a sandal, so  that you will never be able to say, 'I made Abram rich.'",
     Ind:"Aku tidak akan mengambil apa-apa dari kepunyaanmu itu, sepotong benang atau tali kasutpun tidak, supaya engkau jangan dapat berkata: Aku telah membuat Abram menjadi kaya."
   },
   {Bible:"Genesis", Chapter:14, Verse:24, Page:1,
-    Kor:"나는 아무것도 가지지 않겠습니다. 다만 젊은이들이 먹은 것과, 나와 함께 싸우러 나간 사람들 곧 아넬과 에스골과 마므레에게로 돌아갈 몫만은 따로 내놓아서, 그들이 저마다 제 몫을 가질 수 있게 하시기 바랍니다.\"",
+    Kor:"나는 아무것도 가지지 않겠습니다. 다만, 젊은이들이 먹은 것과, 나와 함께 싸우러 나간 사람들, 곧 아넬과 에스골과 마므레에게로 돌아갈 몫만은 따로 내놓아서, 그들이 저마다 제 몫을 가질 수 있게 하시기 바랍니다.\"",
     Chn:"只有仆人所吃的，并与我同行的亚乃、以实各、幔利所应得的分，可以任凭他们拿去。」",
     Eng:"I will accept nothing but what my men have eaten and the share that belongs to the men who  went with me--to Aner, Eshcol and Mamre. Let them have their share.\"",
     Ind:"Kalau aku, jangan sekali-kali! Hanya apa yang telah dimakan oleh bujang-bujang ini dan juga bagian orang-orang yang pergi bersama-sama dengan aku, yakni Aner, Eskol dan Mamre, biarlah mereka itu mengambil bagiannya masing-masing.\""

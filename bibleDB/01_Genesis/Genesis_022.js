@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",22,24);
 BibleDB.add([
   {Bible:"Genesis", Chapter:22, Verse:1, Page:1,
-    Kor:"<이삭을 바치라고 명하시다> 이런 일이 있은 지 얼마 뒤에, 하나님이 아브라함을 시험해 보시려고, 그를 부르셨다. \"아브라함아!\" 하고 부르시니, 아브라함은 \"예, 여기에 있습니다\" 하고 대답하였다.",
+    Kor:"이런 일이 있은 지 얼마 뒤에, 하나님이 아브라함을 시험해 보시려고, 그를 부르셨다. \"아브라함아!\" 하고 부르시니, 아브라함은 \"예, 여기에 있습니다\" 하고 대답하였다.",
     Chn:"这些事以后，　神要试验亚伯拉罕，就呼叫他说：「亚伯拉罕！」他说：「我在这里。」",
     Eng:"Some time later God tested Abraham. He said to him, \"Abraham!\" \"Here I am,\" he replied.",
     Ind:"Setelah semuanya itu Allah mencoba Abraham. Ia berfirman kepadanya: \"Abraham,\" lalu sahutnya: \"Ya, Tuhan.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Sahut Abraham: \"Allah yang akan menyediakan anak domba untuk korban bakaran bagi-Nya, anakku.\" Demikianlah keduanya berjalan bersama-sama."
   },
   {Bible:"Genesis", Chapter:22, Verse:9, Page:1,
-    Kor:"○그들이, 하나님이 말씀하신 그 곳에 이르러서, 아브라함은 거기에 제단을 쌓고, 제단 위에 장작을 벌려 놓았다. 그런 다음에 제 자식 이삭을 묶어서, 제단 장작 위에 올려놓았다.",
+    Kor:"○그들이 하나님이 말씀하신 그 곳에 이르러서, 아브라함은 거기에 제단을 쌓고, 제단 위에 장작을 벌려 놓았다. 그런 다음에 제 자식 이삭을 묶어서, 제단 장작 위에 올려놓았다.",
     Chn:"他们到了　神所指示的地方，亚伯拉罕在那里筑坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。",
     Eng:"When they reached the place God had told him about, Abraham built an altar there and  arranged the wood on it. He bound his son Isaac and laid him on the altar, on top of the wood.",
     Ind:"Sampailah mereka ke tempat yang dikatakan Allah kepadanya. Lalu Abraham mendirikan mezbah di situ, disusunnyalah kayu, diikatnya Ishak, anaknya itu, dan diletakkannya di mezbah itu, di atas kayu api."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sesudah itu Abraham mengulurkan tangannya, lalu mengambil pisau untuk menyembelih anaknya."
   },
   {Bible:"Genesis", Chapter:22, Verse:11, Page:1,
-    Kor:"그 때에 주님의 천사가 하늘에서 \"아브라함아, 아브라함아!\" 하고 그를 불렀다. 아브라함이 대답하였다. \"예, 여기 있습니다.\"",
+    Kor:"그 때에 주의 천사가 하늘에서 \"아브라함아, 아브라함아!\" 하고 그를 불렀다. 아브라함이 대답하였다. \"예, 여기 있습니다.\"",
     Chn:"耶和华的使者从天上呼叫他说：「亚伯拉罕！亚伯拉罕！」他说：「我在这里。」",
     Eng:"But the angel of the LORD called out to him from heaven, \"Abraham! Abraham!\" \"Here I am,\"  he replied.",
     Ind:"Tetapi berserulah Malaikat TUHAN dari langit kepadanya: \"Abraham, Abraham.\" Sahutnya: \"Ya, Tuhan.\""
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Lalu Abraham menoleh dan melihat seekor domba jantan di belakangnya, yang tanduknya tersangkut dalam belukar. Abraham mengambil domba itu, lalu mengorbankannya sebagai korban bakaran pengganti anaknya."
   },
   {Bible:"Genesis", Chapter:22, Verse:14, Page:1,
-    Kor:"이런 일이 있었으므로, 아브라함이 그 곳 이름을 a여호와이레라고 하였다. 오늘날까지도 사람들은 b '주님의 산에서 준비될 것이다'는 말을 한다.(a 히, '아도나이이레(주님께서 준비하심)' b 또는 '주님께서 산에서 친히 보이신다')",
+    Kor:"이런 일이 있었으므로, 아브라함이 그 곳 이름을 여호와이레라고 하였다. 오늘날까지도 사람들은 '주의 산에서 준비될 것이다'는 말을 한다.",
     Chn:"亚伯拉罕给那地方起名叫「耶和华以勒」，直到今日人还说：「在耶和华的山上必有预备。」",
     Eng:"So Abraham called that place The LORD Will Provide. And to this day it is said, \"On the  mountain of the LORD it will be provided.\"",
     Ind:"Dan Abraham menamai tempat itu: \"TUHAN menyediakan\"; sebab itu sampai sekarang dikatakan orang: \"Di atas gunung TUHAN, akan disediakan.\""
   },
   {Bible:"Genesis", Chapter:22, Verse:15, Page:1,
-    Kor:"○주님의 천사가 하늘에서 두 번째로 아브라함을 불러서,",
+    Kor:"○주의 천사가 하늘에서 두 번째로 아브라함을 불러서,",
     Chn:"耶和华的使者第二次从天上呼叫亚伯拉罕说：",
     Eng:"The angel of the LORD called to Abraham from heaven a second time",
     Ind:"Untuk kedua kalinya berserulah Malaikat TUHAN dari langit kepada Abraham,"
   },
   {Bible:"Genesis", Chapter:22, Verse:16, Page:1,
-    Kor:"말하였다. \"주님의 말씀이다. 내가 친히 맹세한다. 네가 이렇게 너의 아들까지, 너의 외아들까지 아끼지 않았으니,",
+    Kor:"말하였다. \"주의 말씀이다. 내가 친히 맹세한다. 네가 이렇게까지, 너의 아들, 너의 외아들까지 아끼지 않았으니,",
     Chn:"「耶和华说：『你既行了这事，不留下你的儿子，就是你独生的儿子，我便指着自己起誓说：",
     Eng:"and said, \"I swear by myself, declares the LORD, that because you have done this and have  not withheld your son, your only son,",
     Ind:"kata-Nya: \"Aku bersumpah demi diri-Ku sendiri--demikianlah firman TUHAN--:Karena engkau telah berbuat demikian, dan engkau tidak segan-segan untuk menyerahkan anakmu yang tunggal kepada-Ku,"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Kemudian kembalilah Abraham kepada kedua bujangnya, dan mereka bersama-sama berangkat ke Bersyeba; dan Abraham tinggal di Bersyeba."
   },
   {Bible:"Genesis", Chapter:22, Verse:20, Page:1,
-    Kor:"<나홀의 자손> ○이런 일이 있은 지 얼마 뒤에, 아브라함은 밀가가 자식들을 낳았다는 말을 들었다. 밀가와 아브라함의 동생 나홀 사이에서 아들들이 태어났는데,",
+    Kor:"○이런 일이 있은 지 얼마 뒤에, 아브라함은 밀가가 자식들을 낳았다는 말을 들었다. 밀가와 아브라함의 동생 나홀 사이에서 아들들이 태어났는데,",
     Chn:"这事以后，有人告诉亚伯拉罕说：「密迦给你兄弟拿鹤生了几个儿子，",
     Eng:"Some time later Abraham was told, \"Milcah is also a mother; she has borne sons to your  brother Nahor:",
     Ind:"Sesudah itu Abraham mendapat kabar: \"Juga Milka telah melahirkan anak-anak lelaki bagi Nahor, saudaramu:"

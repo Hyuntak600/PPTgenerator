@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",14,22);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:14, Verse:1, Page:1,
-    Kor:"<극심한 가뭄> 주님께서 계속되는 가뭄을 두고 예레미야에게 말씀하셨다.",
+    Kor:"주께서 계속되는 가뭄을 두고 예레미야에게 말씀하셨다.",
     Chn:"耶和华论到干旱之灾的话临到耶利米：",
     Eng:"This is the word of the LORD to Jeremiah concerning the drought:",
     Ind:"Firman TUHAN yang datang kepada Yeremia mengenai musim kering."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Keledai-keledai hutan berdiri di atas bukit gundul, mengap-mengap seperti serigala, matanya menjadi lesu, sebab tidak ada rumput."
   },
   {Bible:"Jeremiah", Chapter:14, Verse:7, Page:1,
-    Kor:"<백성의 기도> \"주님, 비록 우리의 죄악이 a우리를 고발하더라도, 주님의 이름을 생각하셔서 선처해 주십시오. 우리는 수없이 반역해서, 주님께 죄를 지었습니다. (a 히, '우리에게 (불리한) 증언을 하더라도')",
+    Kor:"\"주님, 비록 우리의 죄악이 우리를 고발하더라도, 주의 이름을 생각하셔서라도 선처해 주십시오. 우리는 수없이 반역해서, 주님께 죄를 지었습니다.",
     Chn:"耶和华啊，我们的罪孽虽然作见证告我们， 还求你为你名的缘故行事。 我们本是多次背道，得罪了你。",
     Eng:"Although our sins testify against us, O LORD, do something for the sake of your name. For our backsliding is great; we have sinned against you.",
     Ind:"\"Sekalipun kesalahan-kesalahan kami bersaksi melawan kami, bertindaklah membela kami, ya TUHAN, oleh karena nama-Mu! Sebab banyak kemurtadan kami, kami telah berdosa kepada-Mu."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Ya Pengharapan Israel, Penolongnya di waktu kesusahan! Mengapakah Engkau seperti orang asing di negeri ini, seperti orang perjalanan yang hanya singgah untuk bermalam?"
   },
   {Bible:"Jeremiah", Chapter:14, Verse:9, Page:1,
-    Kor:"어찌하여, 놀라서 어쩔 줄을 모르는 사람처럼 되시고, 구해 줄 힘을 잃은 용사처럼 되셨습니까? 주님, 그래도 주님은 우리들 한가운데에 계시고, 우리는 주님의 이름으로 불리는 백성이 아닙니까? 우리를 그냥 버려 두지 마십시오.\"",
+    Kor:"어찌하여, 놀라서 어쩔 줄을 모르는 사람처럼 되시고, 구해 줄 힘을 잃은 용사처럼 되셨습니까? 주님, 그래도 주님은 우리들 한가운데 계시고, 우리는 주님의 이름으로 불리는 백성이 아닙니까? 우리를 그냥 버려 두지 마십시오.\"",
     Chn:"你为何像受惊的人， 像不能救人的勇士呢？ 耶和华啊，你仍在我们中间； 我们也称为你名下的人， 求你不要离开我们。",
     Eng:"Why are you like a man taken by surprise, like a warrior powerless to save? You are among us, O LORD, and we bear your name; do not forsake us!",
     Ind:"Mengapakah Engkau seperti orang yang bingung, seperti pahlawan yang tidak sanggup menolong? Tetapi Engkau ada di antara kami, ya TUHAN, dan nama-Mu diserukan di atas kami; janganlah tinggalkan kami!\""
   },
   {Bible:"Jeremiah", Chapter:14, Verse:10, Page:1,
-    Kor:"<주님의 대답> ○주님께서 이 백성을 두고 이렇게 말씀하신다. \"그들은 이리저리 방황하기를 좋아하고, 어디 한 곳에 가만히 서 있지를 못한다. 그러므로 나 주가 그들을 좋아하지 않으니, 이제 그들의 죄를 기억하고, 그들의 죄악을 징벌하겠다.\"",
+    Kor:"○주께서 이 백성을 두고 이렇게 말씀하신다. \"그들은 이리저리 방황하기를 좋아하고, 어디 한 곳에 가만히 서 있지를 못한다. 그러므로 나 주가 그들을 좋아하지 않으니, 이제 그들의 죄를 기억하고, 그들의 죄악을 징벌하겠다.\"",
     Chn:"耶和华对这百姓如此说： 这百姓喜爱妄行， 不禁止脚步， 所以耶和华不悦纳他们。 现今要记念他们的罪孽， 追讨他们的罪恶。",
     Eng:"This is what the LORD says about this people: \"They greatly love to wander; they do not restrain their feet. So the LORD does not accept them; he will now remember their wickedness and punish them for their sins.\"",
     Ind:"Beginilah firman TUHAN tentang bangsa ini: \"Mereka sangat senang mengembara dan tidak menahan kakinya. Sebab itu TUHAN tidak berkenan kepada mereka; tetapi sekarang Ia mau mengingat kesalahan mereka dan mau menghukum dosa mereka.\""
   },
   {Bible:"Jeremiah", Chapter:14, Verse:11, Page:1,
-    Kor:"<거짓 예언자> ○주님께서 또 나에게 말씀하셨다. \"너는 이 백성에게 은총을 베풀어 달라고 나에게 기도하지 말아라.",
+    Kor:"○주께서 또 나에게 말씀하셨다. \"너는 이 백성에게 은총을 베풀어 달라고 나에게 기도하지 말아라.",
     Chn:"耶和华又对我说：「不要为这百姓祈祷求好处。",
     Eng:"Then the LORD said to me, \"Do not pray for the well-being of this people.",
     Ind:"TUHAN berfirman kepadaku: \"Janganlah engkau berdoa untuk kebaikan bangsa ini!"
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Sekalipun mereka berpuasa, Aku tidak akan mendengarkan seruan mereka; sekalipun mereka mempersembahkan korban bakaran dan korban sajian, Aku tidak akan berkenan kepada mereka, melainkan Aku akan menghabiskan mereka dengan perang, dengan kelaparan dan dengan penyakit sampar.\""
   },
   {Bible:"Jeremiah", Chapter:14, Verse:13, Page:1,
-    Kor:"○그래서 내가 아뢰었다. \"그렇지만 주 하나님, 저 예언자들이 이 백성에게 주님의 말씀이라고 하면서 '전쟁이 일어나지 않는다. 기근이 오지 않는다. 오히려 b주님께서 이 곳에서 너희에게 확실한 평화를 주신다' 합니다.\"(b 히, '내가')",
+    Kor:"○그래서 내가 이렇게 아뢰었다. \"그렇지만 주 하나님, 저 예언자들이 이 백성에게 주님의 말씀이라고 하면서 '전쟁이 일어나지 않는다. 기근이 오지 않는다. 오히려 주께서 이 곳에서 너희에게 확실한 평화를 주신다' 합니다.\"",
     Chn:"我就说：「唉！主耶和华啊，那些先知常对他们说：『你们必不看见刀剑，也不遭遇饥荒；耶和华要在这地方赐你们长久的平安。』」",
     Eng:"But I said, \"Ah, Sovereign LORD, the prophets keep telling them, 'You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.'\"",
     Ind:"Lalu aku berkata: \"Aduh, Tuhan ALLAH! Bukankah para nabi telah berkata kepada mereka: Kamu tidak akan mengalami perang, dan kelaparan tidak akan menimpa kamu, tetapi Aku akan memberikan kepada kamu damai sejahtera yang mantap di tempat ini!\""
   },
   {Bible:"Jeremiah", Chapter:14, Verse:14, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다. \"그 예언자들은 내 이름으로 거짓 예언을 하고 있다. 나는 그들을 예언자로 보내지도 않았고, 그들에게 명하지도 않았고, 그들에게 말하지도 않았다. 그들이 이 백성에게 예언하는 것은, 거짓된 환상과 c허황된 점괘와 그들의 마음에서 꾸며낸 거짓말이다.\"(c 또는 '우상 숭배와')",
+    Kor:"○주께서 나에게 말씀하셨다. \"그 예언자들은 내 이름으로 거짓 예언을 하고 있다. 나는 그들을 예언자로 보내지도 않았고, 그들에게 명하지도 않았고, 그들에게 말하지도 않았다. 그들이 이 백성에게 예언하는 것은, 거짓된 환상과 허황된 점괘와 그들의 마음에서 꾸며낸 거짓말이다.\"",
     Chn:"耶和华对我说：「那些先知托我的名说假预言，我并没有打发他们，没有吩咐他们，也没有对他们说话；他们向你们预言的，乃是虚假的异象和占卜，并虚无的事，以及本心的诡诈。",
     Eng:"Then the LORD said to me, \"The prophets are prophesying lies in my name. I have not sent them or appointed them or spoken to them. They are prophesying to you false visions, divinations, idolatries and the delusions of their own minds.",
     Ind:"Jawab TUHAN kepadaku: \"Para nabi itu bernubuat palsu demi nama-Ku! Aku tidak mengutus mereka, tidak memerintahkan mereka dan tidak berfirman kepada mereka. Mereka menubuatkan kepadamu penglihatan bohong, ramalan kosong dan tipu rekaan hatinya sendiri."
   },
   {Bible:"Jeremiah", Chapter:14, Verse:15, Page:1,
-    Kor:"○주님께서 그 예언자들을 두고 이렇게 말씀하신다. \"그들은 내가 보내지도 않았는데, 내 이름으로 거짓 예언을 하였다. '이 땅에는 전쟁과 기근이 없을 것이다' 하고 말한 예언자들은 전쟁과 기근으로 죽을 것이다.",
+    Kor:"주께서 그 예언자들을 두고 이렇게 말씀하신다. \"그들은 내가 보내지도 않았는데, 내 이름으로 거짓 예언을 하였다. '이 땅에는 전쟁과 기근이 없을 것이다' 하고 말한 예언자들은 전쟁과 기근으로 죽을 것이다.",
     Chn:"所以耶和华如此说：论到托我名说预言的那些先知，我并没有打发他们；他们还说这地不能有刀剑饥荒，其实那些先知必被刀剑饥荒灭绝。",
     Eng:"Therefore, this is what the LORD says about the prophets who are prophesying in my name: I did not send them, yet they are saying, 'No sword or famine will touch this land.' Those same prophets will perish by sword and famine.",
     Ind:"Sebab itu beginilah firman TUHAN mengenai para nabi yang bernubuat demi nama-Ku, padahal Aku tidak mengutus mereka, dan yang berkata: Perang dan kelaparan tidak akan menimpa negeri ini--:Para nabi itu sendiri akan habis mati oleh perang dan kelaparan!"
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"Apabila aku keluar ke padang, di sana ada orang-orang yang mati terbunuh oleh pedang! Apabila aku masuk ke dalam kota, di sana ada orang-orang sakit kelaparan! Bahkan, baik nabi maupun imam menjelajah negeri yang tidak dikenalnya.\""
   },
   {Bible:"Jeremiah", Chapter:14, Verse:19, Page:1,
-    Kor:"<예레미야의 기도> \"주님은 유다를 완전히 내버리셨습니까? 아니면 주님께서 진정으로 시온을 미워하십니까? 어찌하여 주님께서는, 우리가 낫지도 못하게 이렇게 심하게 치셨습니까? 우리가 기다린 것은 평화였습니다. 그런데 좋은 일이라고는 하나도 없습니다. 우리는 이 상처가 낫기만을 기다렸는데, 오히려 무서운 일만 당하고 있습니다.",
+    Kor:"\"주님은 유다를 완전히 내버리셨습니까? 아니면 주께서 진정으로 시온을 미워하십니까? 어찌하여 주께서는, 우리가 낫지도 못하게 이렇게 심하게 치셨습니까? 우리가 기다린 것은 평화였습니다. 그런데 좋은 일이라고는 하나도 없습니다. 우리는 이 상처가 낫기만을 기다렸는데, 오히려 무서운 일만 당하고 있습니다.",
     Chn:"你全然弃掉犹大吗？ 你心厌恶锡安吗？ 为何击打我们，以致无法医治呢？ 我们指望平安，却得不着好处； 指望痊愈，不料，受了惊惶。",
     Eng:"Have you rejected Judah completely? Do you despise Zion? Why have you afflicted us so that we cannot be healed? We hoped for peace but no good has come, for a time of healing but there is only terror.",
     Ind:"Telah Kautolakkah Yehuda sama sekali? Telah merasa muakkah Engkau terhadap Sion? Mengapakah kami Kaupukul sedemikian, hingga tidak ada kesembuhan lagi bagi kami? Kami mengharapkan damai sejahtera, tetapi tidak datang sesuatu yang baik; mengharapkan waktu kesembuhan, tetapi hanya ada kengerian!"
   },
   {Bible:"Jeremiah", Chapter:14, Verse:20, Page:1,
-    Kor:"주님, 우리는 우리의 사악함과 우리 조상의 죄악을 인정합니다. 우리는 주님께 죄를 지었습니다.",
+    Kor:"주님, 우리는 우리의 사악함과 우리 조상의 죄악을 인정합니다. 우리는 주께 죄를 지었습니다.",
     Chn:"耶和华啊，我们承认自己的罪恶， 和我们列祖的罪孽， 因我们得罪了你。",
     Eng:"O LORD, we acknowledge our wickedness and the guilt of our fathers; we have indeed sinned against you.",
     Ind:"Ya TUHAN, kami mengetahui kefasikan kami dan kesalahan nenek moyang kami; sungguh, kami telah berdosa kepada-Mu."
   },
   {Bible:"Jeremiah", Chapter:14, Verse:21, Page:1,
-    Kor:"그러나 주님의 이름을 생각하셔서라도 우리를 박대하지 마시고, 주님의 영광스러운 보좌가 욕되지 않게 하여 주십시오. 주님께서 우리와 맺은 언약을 기억하시고, 그 언약을 깨뜨리지 말아 주십시오.",
+    Kor:"그러나 주의 이름을 생각하셔서라도 우리를 박대하지 마시고, 주의 영광스러운 보좌가 욕되지 않게 하여 주십시오. 주께서 우리와 맺은 언약을 기억하시고, 그 언약을 깨뜨리지 말아 주십시오.",
     Chn:"求你为你名的缘故， 不厌恶我们， 不辱没你荣耀的宝座。 求你追念， 不要背了与我们所立的约。",
     Eng:"For the sake of your name do not despise us; do not dishonor your glorious throne. Remember your covenant with us and do not break it.",
     Ind:"Janganlah Engkau menampik kami, oleh karena nama-Mu, dan janganlah Engkau menghinakan takhta kemuliaan-Mu! Ingatlah perjanjian-Mu dengan kami, janganlah membatalkannya!"
   },
   {Bible:"Jeremiah", Chapter:14, Verse:22, Page:1,
-    Kor:"이방 사람이 섬기는 허황된 우상들 가운데 비를 내리는 신들이 있습니까? 하늘인들 스스로 소나기를 내려 줄 수가 있습니까? 주 우리의 하나님, 그런 분은 바로 주님이 아니십니까? 그러므로 우리는 오직 주님께만 희망을 걸고 있습니다. 주님께서 이 모든 것을 지으셨기 때문입니다.\"",
+    Kor:"이방 사람이 섬기는 허황된 우상들 가운데 비를 내리는 신들이 있습니까? 하늘인들 스스로 소나기를 내려 줄 수가 있습니까? 주 우리의 하나님, 그런 분은 바로 주님이 아니십니까? 그러므로 우리는 오직 주님께만 희망을 걸고 있습니다. 주께서 이 모든 것을 지으셨기 때문입니다.\"",
     Chn:"外邦人虚无的神中有能降雨的吗？ 天能自降甘霖吗？ 耶和华—我们的　神啊， 能如此的不是你吗？ 所以，我们仍要等候你， 因为这一切都是你所造的。",
     Eng:"Do any of the worthless idols of the nations bring rain? Do the skies themselves send down showers? No, it is you, O LORD our God. Therefore our hope is in you, for you are the one who does all this.",
     Ind:"Adakah yang dapat menurunkan hujan di antara dewa kesia-siaan bangsa-bangsa itu? Atau dapatkah langit sendiri memberi hujan lebat? Bukankah hanya Engkau saja, ya TUHAN Allah kami, Pengharapan kami, yang membuat semuanya itu?"

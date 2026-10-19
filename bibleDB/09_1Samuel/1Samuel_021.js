@@ -1,9 +1,9 @@
 // 사무엘상 21장 · 1Samuel 21
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("1Samuel",21,15);
+BibleDB.ref("1Samuel",21,16);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:21, Verse:1, Page:1,
-    Kor:"<다윗이 사울을 피하여 도망가다> 다윗은 놉으로 가서 제사장 아히멜렉에게 이르렀다. 아히멜렉이 떨면서 나와서, 다윗을 맞으며 물었다. \"동행자도 없이 어떻게 혼자 오셨습니까?\"",
+    Kor:"다윗은 놉으로 가서 제사장 아히멜렉에게 이르렀다. 아히멜렉이 떨면서 나와서, 다윗을 맞으며 물었다. \"동행자도 없이 어떻게 혼자 오셨습니까?\"",
     Chn:"大卫到了挪伯祭司亚希米勒那里，亚希米勒战战兢兢地出来迎接他，问他说：「你为什么独自来，没有人跟随呢？」",
     Eng:"David went to Nob, to Ahimelech the priest. Ahimelech trembled when he met him, and asked, \"Why are you alone? Why is no one with you?\"",
     Ind:"Sampailah Daud ke Nob kepada Ahimelekh, imam itu. Dengan gemetar Ahimelekh pergi menemui Daud dan berkata kepadanya: \"Mengapa engkau seorang diri dan tidak ada orang bersama-sama dengan engkau?\""
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Jawab Daud kepada imam Ahimelekh: \"Raja menugaskan sesuatu kepadaku, katanya kepadaku: Siapapun juga tidak boleh mengetahui sesuatu dari hal yang kusuruh kepadamu dan yang kutugaskan kepadamu ini. Sebab itu orang-orangku telah kusuruh pergi ke suatu tempat."
   },
   {Bible:"1Samuel", Chapter:21, Verse:3, Page:1,
-    Kor:"그런데 지금 제사장님이 혹시 무엇이든 가까이 가지신 것이 좀 없습니까? 빵 다섯 덩이가 있으면 저에게 주십시오. 그렇게 안 되면, 있는 대로라도 주십시오.\"",
+    Kor:"그런데 지금 제사장님이 혹시 무엇이든 손쉽게 얻을 것이 좀 없습니까? 빵 다섯 덩이가 있으면 저에게 주십시오. 그렇게 안 되면, 있는 대로라도 주십시오.\"",
     Chn:"现在你手下有什么？求你给我五个饼或是别样的食物。」",
     Eng:"Now then, what do you have on hand? Give me five loaves of bread, or whatever you can find.\"",
     Ind:"Maka sekarang, apa yang ada padamu? Berikanlah kepadaku lima roti atau apapun yang ada.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Daud menjawab imam itu, katanya kepadanya: \"Memang, kami tidak diperbolehkan bergaul dengan perempuan, seperti sediakala apabila aku maju berperang. Tubuh orang-orangku itu tahir, sekalipun pada perjalanan biasa, apalagi pada hari ini, masing-masing mereka tahir tubuhnya.\""
   },
   {Bible:"1Samuel", Chapter:21, Verse:6, Page:1,
-    Kor:"제사장은 그에게 거룩한 빵을 주었다. 주님 앞에 차려 놓은 빵 말고는, 다른 빵이 달리 더 없었기 때문이다. 그 빵은 새로 만든 뜨거운 빵을 차려 놓으면서, 주님 앞에서 물려 낸 것이었다.",
+    Kor:"제사장은 그에게 거룩한 빵을 주었다. 주 앞에 차려 놓은 빵 말고는, 다른 빵이 달리 더 없었기 때문이다. 그 빵은 새로 만든 뜨거운 빵을 차려 놓으면서, 주 앞에서 물려 낸 것이었다.",
     Chn:"祭司就拿圣饼给他；因为在那里没有别样饼，只有更换新饼，从耶和华面前撤下来的陈设饼。 （",
     Eng:"So the priest gave him the consecrated bread, since there was no bread there except the bread of the Presence that had been removed from before the LORD and replaced by hot bread on the day it was taken away.",
     Ind:"Lalu imam itu memberikan kepadanya roti kudus itu, karena tidak ada roti di sana kecuali roti sajian; roti itu biasa diangkat orang dari hadapan TUHAN, supaya pada hari roti itu diambil, ditaruh lagi roti baru."
   },
   {Bible:"1Samuel", Chapter:21, Verse:7, Page:1,
-    Kor:"○(그런데 바로 그 날 사울의 신하 가운데 한 사람이 그 곳에 있었는데, 그는 주님 앞에서 하여야 할 일이 있어서 거기에 머물러 있었다. 그의 이름은 도엑인데, 에돔 사람으로서 사울의 목자 가운데서 우두머리였다.)",
+    Kor:"(○그런데 바로 그 날 사울의 신하 가운데 한 사람이 그 곳에 있었는데, 그는 주 앞에서 하여야 할 일이 있어서 거기에 머물러 있었다. 그의 이름은 도엑인데, 에돔 사람으로서 사울의 목자 가운데서 우두머리였다.)",
     Chn:"当日有扫罗的一个臣子留在耶和华面前。他名叫多益，是以东人，作扫罗的司牧长。）",
     Eng:"Now one of Saul's servants was there that day, detained before the LORD; he was Doeg the Edomite, Saul's head shepherd.",
     Ind:"Maka pada hari itu juga ada di sana salah seorang pegawai Saul, yang dikhususkan melayani TUHAN; namanya Doeg, seorang Edom, pengawas atas gembala-gembala Saul."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Kemudian berkatalah imam itu: \"Pedang Goliat, orang Filistin, yang kaupukul kalah di Lembah Tarbantin, itulah yang ada di sini, terbungkus dalam kain di belakang efod itu. Jika engkau hendak mengambilnya, ambillah; yang lain tidak ada, hanya ini.\" Kata Daud: \"Tidak ada yang seperti itu; berikanlah itu kepadaku.\""
   },
   {Bible:"1Samuel", Chapter:21, Verse:10, Page:1,
-    Kor:"<블레셋 족속에게 망명한 다윗> ○다윗이 거기를 떠나, 그 날로 사울에게서 도망하여, 가드 왕 아기스에게로 갔다.",
+    Kor:"○다윗이 거기를 떠나, 그 날로 사울에게서 도망하여, 가드 왕 아기스에게로 갔다.",
     Chn:"那日大卫起来，躲避扫罗，逃到迦特王亚吉那里。",
     Eng:"That day David fled from Saul and went to Achish king of Gath.",
     Ind:"Kemudian bersiaplah Daud dan larilah ia pada hari itu juga dari Saul; sampailah ia kepada Akhis, raja kota Gat."
   },
   {Bible:"1Samuel", Chapter:21, Verse:11, Page:1,
-    Kor:"아기스의 신하들이 왕에게 보고하였다. \"이 사람은 분명히 저 나라의 왕 다윗입니다. 이 사람을 두고서, 저 나라의 백성이 춤을 추며, 이렇게 노래하였습니다.  '사울은 수천 명을 죽이고, 다윗은 수만 명을 죽였다.'\"",
+    Kor:"아기스의 신하들이 왕에게 보고하였다. \"이 사람은 분명히 저 나라의 왕 다윗입니다. 이 사람을 두고서, 저 나라의 백성이 춤을 추며, 이렇게 노래하였습니다. '사울은 수천 명을 죽이고, 다윗은 수만 명을 죽였다.'\"",
     Chn:"亚吉的臣仆对亚吉说：「这不是以色列国王大卫吗？那里的妇女跳舞唱和，不是指着他说『扫罗杀死千千，大卫杀死万万』吗？」",
     Eng:"But the servants of Achish said to him, \"Isn't this David, the king of the land? Isn't he the one they sing about in their dances: \"'Saul has slain his thousands, and David his tens of thousands'?\"",
     Ind:"Pegawai-pegawai Akhis berkata kepada tuannya: \"Bukankah ini Daud raja negeri itu? Bukankah tentang dia orang-orang menyanyi berbalas-balasan sambil menari-nari, demikian: Saul mengalahkan beribu-ribu musuh, tetapi Daud berlaksa-laksa?\""
@@ -91,5 +91,11 @@ BibleDB.add([
     Chn:"我岂缺少疯子，你们带这人来在我面前疯癫吗？这人岂可进我的家呢？」",
     Eng:"Am I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?\"",
     Ind:"Kekurangan orang gilakah aku, maka kamu bawa orang ini kepadaku supaya ia menunjukkan gilanya dekat aku? Patutkah orang yang demikian masuk ke rumahku?\""
+  },
+  {Bible:"1Samuel", Chapter:21, Verse:16, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

@@ -3,25 +3,25 @@
 BibleDB.ref("2Kings",18,37);
 BibleDB.add([
   {Bible:"2Kings", Chapter:18, Verse:1, Page:1,
-    Kor:"<유다 왕 히스기야(대하 29:1-2; 31:1)> 이스라엘의 엘라 왕의 아들 호세아 제 삼년에, 아하스의 아들 히스기야가 유다 왕이 되었다.",
+    Kor:"이스라엘의 엘라 왕의 아들 호세아 제 삼년에, 아하스의 아들 히스기야가 유다 왕이 되었다.",
     Chn:"以色列王以拉的儿子何细亚第三年，犹大王亚哈斯的儿子希西家登基。",
     Eng:"In the third year of Hoshea son of Elah king of Israel, Hezekiah son of Ahaz king of Judah began to reign.",
     Ind:"Maka dalam tahun ketiga zaman Hosea bin Ela, raja Israel, Hizkia, anak Ahas raja Yehuda menjadi raja."
   },
   {Bible:"2Kings", Chapter:18, Verse:2, Page:1,
-    Kor:"그가 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 스물아홉 해 동안 다스렸다. 그의 어머니 아비는 스가랴의 딸이다.",
+    Kor:"그가 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 스물아홉 해 동안 다스렸다. 그의 어머니 아비는 스가리야의 딸이다.",
     Chn:"他登基的时候年二十五岁，在耶路撒冷作王二十九年。他母亲名叫亚比，是撒迦利雅的女儿。",
     Eng:"He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother's name was Abijah daughter of Zechariah.",
     Ind:"Ia berumur dua puluh lima tahun pada waktu ia menjadi raja dan dua puluh sembilan tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Abi, anak Zakharia."
   },
   {Bible:"2Kings", Chapter:18, Verse:3, Page:1,
-    Kor:"그는 조상 다윗이 한 모든 것을 그대로 본받아, 주님께서 보시기에 올바른 일을 하였다.",
+    Kor:"그는 조상 다윗이 한 모든 것을 그대로 본받아, 주께서 보시기에 올바른 일을 하였다.",
     Chn:"希西家行耶和华眼中看为正的事，效法他祖大卫一切所行的。",
     Eng:"He did what was right in the eyes of the LORD, just as his father David had done.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, tepat seperti yang dilakukan Daud, bapa leluhurnya."
   },
   {Bible:"2Kings", Chapter:18, Verse:4, Page:1,
-    Kor:"그는 산당을 헐어 버렸고, 돌기둥들을 부수었으며, 아세라 목상을 찍어 버렸다. 그는 또한 모세가 만든 구리 뱀도 산산조각으로 깨뜨려 버렸다. 이스라엘 자손이 그 때까지도 a느후스단이라고 부르는 그 구리 뱀에게 분향하고 있었기 때문이다.(a '느후스단'은 히브리어 '구리(느호솃)'와 '뱀(나하쉬)'의 발음과 비슷함)",
+    Kor:"그는 산당을 헐어 버렸고, 돌기둥들을 부수었으며, 아세라 목상을 찍어 버렸다. 그는 또한 모세가 만든 구리 뱀도 산산조각으로 깨뜨려 버렸다. 이스라엘 자손이 그 때까지도 느후스단이라고 부르는 그 구리 뱀에게 분향하고 있었기 때문이다.",
     Chn:"他废去邱坛，毁坏柱像，砍下木偶，打碎摩西所造的铜蛇，因为到那时以色列人仍向铜蛇烧香。希西家叫铜蛇为铜块。",
     Eng:"He removed the high places, smashed the sacred stones and cut down the Asherah poles. He broke into pieces the bronze snake Moses had made, for up to that time the Israelites had been burning incense to it. (It was called Nehushtan.)",
     Ind:"Dialah yang menjauhkan bukit-bukit pengorbanan dan yang meremukkan tugu-tugu berhala dan yang menebang tiang-tiang berhala dan yang menghancurkan ular tembaga yang dibuat Musa, sebab sampai pada masa itu orang Israel memang masih membakar korban bagi ular itu yang namanya disebut Nehustan."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Ia percaya kepada TUHAN, Allah Israel, dan di antara semua raja-raja Yehuda, baik yang sesudah dia maupun yang sebelumnya, tidak ada lagi yang sama seperti dia."
   },
   {Bible:"2Kings", Chapter:18, Verse:6, Page:1,
-    Kor:"그는 주님에게만 매달려, 주님을 배반하는 일이 없이, 주님께서 모세에게 명하신 계명들을 준수하였다.",
+    Kor:"그는 주님에게만 매달려, 주님을 배반하는 일이 없이, 주께서 모세에게 명하신 계명들을 준수하였다.",
     Chn:"因为他专靠耶和华，总不离开，谨守耶和华所吩咐摩西的诫命。",
     Eng:"He held fast to the LORD and did not cease to follow him; he kept the commands the LORD had given Moses.",
     Ind:"Ia berpaut kepada TUHAN, tidak menyimpang dari pada mengikuti Dia dan ia berpegang pada perintah-perintah TUHAN yang telah diperintahkan-Nya kepada Musa."
   },
   {Bible:"2Kings", Chapter:18, Verse:7, Page:1,
-    Kor:"어디를 가든지, 주님께서 그와 같이 계시므로, 그는 늘 성공하였다. 그는 앗시리아 왕에게 반기를 들고, 그를 섬기지 않았다.",
+    Kor:"어디를 가든지, 주께서 그와 같이 계시므로, 그는 늘 성공하였다. 그는 앗시리아 왕에게 반기를 들고, 그를 섬기지 않았다.",
     Chn:"耶和华与他同在，他无论往何处去尽都亨通。他背叛、不肯事奉亚述王。",
     Eng:"And the LORD was with him; he was successful in whatever he undertook. He rebelled against the king of Assyria and did not serve him.",
     Ind:"Maka TUHAN menyertai dia; ke manapun juga ia pergi berperang, ia beruntung. Ia memberontak kepada raja Asyur dan tidak lagi takluk kepadanya."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Dialah yang mengalahkan orang Filistin sampai ke Gaza dan memusnahkan daerahnya, baik menara-menara penjagaan maupun kota-kota yang berkubu."
   },
   {Bible:"2Kings", Chapter:18, Verse:9, Page:1,
-    Kor:"○히스기야 왕 제 사년 곧 이스라엘의 엘라의 아들 호세아 왕 제 칠년에, 앗시리아의 살만에셀 왕이 사마리아를 포위하여,",
+    Kor:"○히스기야 왕 제 사년, 곧 이스라엘의 엘라의 아들 호세아 왕 제 칠년에, 앗시리아의 살만에셀 왕이 사마리아를 포위하여,",
     Chn:"希西家王第四年，就是以色列王以拉的儿子何细亚第七年，亚述王撒缦以色上来围困撒马利亚；",
     Eng:"In King Hezekiah's fourth year, which was the seventh year of Hoshea son of Elah king of Israel, Shalmaneser king of Assyria marched against Samaria and laid siege to it.",
     Ind:"Dalam tahun keempat zaman raja Hizkia--itulah tahun ketujuh zaman Hosea bin Ela, raja Israel--majulah Salmaneser, raja Asyur, menyerang Samaria dan mengepungnya."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Raja Asyur mengangkut orang Israel ke dalam pembuangan ke Asyur dan menempatkan mereka di Halah, pada sungai Habor, yakni sungai negeri Gozan, dan di kota-kota orang Madai,"
   },
   {Bible:"2Kings", Chapter:18, Verse:12, Page:1,
-    Kor:"○이렇게 된 것은, 그들이 자기들의 하나님이신 주님의 말씀을 듣지 않고, 그의 언약을 깨뜨렸으며, 주님의 종 모세가 명령한 모든 것을, 순종하지도 않고 실천하지도 않았기 때문이다.",
+    Kor:"○이렇게 된 것은, 그들이 자기들의 하나님이신 주의 말씀을 듣지 않고, 그의 언약을 깨뜨렸으며, 주의 종 모세가 명령한 모든 것을, 순종하지도 않고 실천하지도 않았기 때문이다.",
     Chn:"都因他们不听从耶和华—他们　神的话，违背他的约，就是耶和华仆人摩西吩咐他们所当守的。",
     Eng:"This happened because they had not obeyed the LORD their God, but had violated his covenant--all that Moses the servant of the LORD commanded. They neither listened to the commands nor carried them out.",
     Ind:"oleh karena mereka tidak mau mendengarkan suara TUHAN, Allah mereka, dan melanggar perjanjian-Nya, yakni segala yang diperintahkan oleh Musa, hamba TUHAN; mereka tidak mau mendengarkannya dan tidak mau melakukannya."
   },
   {Bible:"2Kings", Chapter:18, Verse:13, Page:1,
-    Kor:"<앗시리아 사람들이 예루살렘을 위협하다(대하 32:1-19; 사 36:1-22)> ○히스기야 왕 제 십사년에 앗시리아의 산헤립 왕이 올라와서, 요새화된 유다의 모든 성읍을 공격하여 점령하였다.",
+    Kor:"○히스기야 왕 제 십사년에 앗시리아의 산헤립 왕이 올라와서, 요새화된 유다의 모든 성읍을 공격하여 점령하였다.",
     Chn:"希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。",
     Eng:"In the fourteenth year of King Hezekiah's reign, Sennacherib king of Assyria attacked all the fortified cities of Judah and captured them.",
     Ind:"Dalam tahun keempat belas zaman raja Hizkia majulah Sanherib, raja Asyur, menyerang segala kota berkubu negeri Yehuda, lalu merebutnya."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Hizkia, raja Yehuda, mengutus orang kepada raja Asyur di Lakhis dengan pesan: \"Aku telah berbuat dosa; undurlah dari padaku; apapun yang kaubebankan kepadaku akan kupikul.\" Kemudian raja Asyur membebankan kepada Hizkia, raja Yehuda, tiga ratus talenta perak dan tiga puluh talenta emas."
   },
   {Bible:"2Kings", Chapter:18, Verse:15, Page:1,
-    Kor:"그리하여 히스기야는 주님의 성전과 왕궁의 보물 창고에 있는 은을 있는 대로 다 내주었다.",
+    Kor:"그리하여 히스기야는 주의 성전과 왕궁의 보물 창고에 있는 은을 있는 대로 다 내주었다.",
     Chn:"希西家就把耶和华殿里和王宫府库里所有的银子都给了他。",
     Eng:"So Hezekiah gave him all the silver that was found in the temple of the LORD and in the treasuries of the royal palace.",
     Ind:"Hizkia memberikan segala perak yang terdapat dalam rumah TUHAN dan dalam perbendaharaan istana raja."
   },
   {Bible:"2Kings", Chapter:18, Verse:16, Page:1,
-    Kor:"그 때에 유다의 히스기야 왕은, 주님의 성전 문과 기둥에 자신이 직접 입힌 금을 모두 벗겨서, 앗시리아 왕에게 주었다.",
+    Kor:"그 때에 유다의 히스기야 왕은, 주의 성전 문과 기둥에 자신이 직접 입힌 금을 모두 벗겨서, 앗시리아 왕에게 주었다.",
     Chn:"那时，犹大王希西家将耶和华殿门上的金子和他自己包在柱上的金子都刮下来，给了亚述王。",
     Eng:"At this time Hezekiah king of Judah stripped off the gold with which he had covered the doors and doorposts of the temple of the LORD, and gave it to the king of Assyria.",
     Ind:"Pada waktu itu Hizkia mengerat emas dari pintu-pintu dan dari jenang-jenang pintu bait TUHAN, yang telah dilapis oleh Hizkia, raja Yehuda; diberikannyalah semuanya kepada raja Asyur."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Bagaimanakah mungkin engkau memukul mundur satu orang perwira tuanku yang paling kecil? Padahal engkau berharap kepada Mesir dalam hal kereta dan orang-orang berkuda!"
   },
   {Bible:"2Kings", Chapter:18, Verse:25, Page:1,
-    Kor:"이제 생각하여 보아라. 내가 이 곳을 쳐서 멸망시키려고 오면서, 어찌 너희가 섬기는 주님의 허락도 받지 않고 왔겠느냐? 너희의 주님께서 내게 말씀하시기를, 그 땅을 치러 올라가서, 그 곳을 멸망시키라고, 나에게 친히 이르셨다.\"",
+    Kor:"이제 생각하여 보아라. 내가 이 곳을 쳐서 멸망시키려고 오면서, 어찌 너희가 섬기는 주의 허락도 받지 않고 왔겠느냐? 너희의 주께서 내게 말씀하시기를, 그 땅을 치러 올라가서, 그 곳을 멸망시키라고, 나에게 친히 이르셨다.\"",
     Chn:"现在我上来攻击毁灭这地，岂没有耶和华的意思吗？耶和华吩咐我说：你上去攻击毁灭这地吧！』」",
     Eng:"Furthermore, have I come to attack and destroy this place without word from the LORD? The LORD himself told me to march against this country and destroy it.'\"",
     Ind:"Sekarangpun, adakah di luar kehendak TUHAN aku maju melawan tempat ini untuk memusnahkannya? TUHAN telah berfirman kepadaku: Majulah menyerang negeri itu dan musnahkanlah itu!\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Beginilah kata raja: Janganlah Hizkia memperdayakan kamu, sebab ia tidak sanggup melepaskan kamu dari tanganku!"
   },
   {Bible:"2Kings", Chapter:18, Verse:30, Page:1,
-    Kor:"히스기야가 너희를 속여서, 너희의 주가 너희를 구원할 것이며, 이 도성을 앗시리아 왕의 손에 절대로 넘겨 주지 않으실 것이라고 말하면서, 너희로 주님을 의지하게 하려 하여도, 너희는 그 말을 믿지 말아라.",
+    Kor:"히스기야가 너희를 속여서, 너희의 주가 너희를 구원할 것이며, 이 도성을 앗시리아 왕의 손에 절대로 넘겨 주지 않으실 것이라고 말하면서, 너희로 주를 의지하게 하려 하여도, 너희는 그 말을 믿지 말아라.",
     Chn:"也不要听希西家使你们倚靠耶和华，说耶和华必要拯救我们，这城必不交在亚述王的手中。』",
     Eng:"Do not let Hezekiah persuade you to trust in the LORD when he says, 'The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.'",
     Ind:"Janganlah Hizkia mengajak kamu berharap kepada TUHAN dengan mengatakan: Tentulah TUHAN akan melepaskan kita; dan kota ini tidak akan diserahkan ke dalam tangan raja Asyur."

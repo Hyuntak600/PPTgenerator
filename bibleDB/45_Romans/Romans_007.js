@@ -3,43 +3,43 @@
 BibleDB.ref("Romans",7,25);
 BibleDB.add([
   {Bible:"Romans", Chapter:7, Verse:1, Page:1,
-    Kor:"<혼인 관계로 비유한 율법> a형제자매 여러분, 나는 율법을 아는 사람들에게 말을 합니다. 율법은, 사람이 살아 있는 동안에만 그 사람을 지배한다는 것을 알지 못합니까?(a 그, '형제들')",
+    Kor:"형제자매 여러분, 내가 율법을 아는 사람에게 말을 합니다. 율법은, 사람이 살아 있는 동안에만 그 사람을 지배한다는 것을 알지 못합니까?",
     Chn:"弟兄们，我现在对明白律法的人说，你们岂不晓得律法管人是在活着的时候吗？",
     Eng:"Do you not know, brothers--for I am speaking to men who know the law--that the law has authority over a man only as long as he lives?",
     Ind:"Apakah kamu tidak tahu, saudara-saudara, --sebab aku berbicara kepada mereka yang mengetahui hukum--bahwa hukum berkuasa atas seseorang selama orang itu hidup?"
   },
   {Bible:"Romans", Chapter:7, Verse:2, Page:1,
-    Kor:"결혼한 여자는, 그 남편이 살아 있는 동안에는 법으로 남편에게 매여 있으나, 남편이 죽으면 남편의 법에서 풀려납니다.",
+    Kor:"결혼한 여인은, 그 남편이 살아 있는 동안에는, 법을 따라 남편에게 매여 있으나, 남편이 죽으면, 남편에게 매여 있던 그 법에서 해방됩니다.",
     Chn:"就如女人有了丈夫，丈夫还活着，就被律法约束；丈夫若死了，就脱离了丈夫的律法。",
     Eng:"For example, by law a married woman is bound to her husband as long as he is alive, but if her husband dies, she is released from the law of marriage.",
     Ind:"Sebab seorang isteri terikat oleh hukum kepada suaminya selama suaminya itu hidup. Akan tetapi apabila suaminya itu mati, bebaslah ia dari hukum yang mengikatnya kepada suaminya itu."
   },
   {Bible:"Romans", Chapter:7, Verse:3, Page:1,
-    Kor:"그러므로 남편이 살아 있는 동안에 그 여자가 다른 남자에게로 가면, 그 여자는 간음한 여자라는 말을 듣게 됩니다. 그러나 남편이 죽으면 그 법에서 해방되는 것이므로, 다른 남자에게로 갈지라도 간음한 여자가 되지 않습니다.",
+    Kor:"그러므로 남편이 살아 있는 동안에, 그 여인이 다른 남자에게로 가면, 그 여인은 간음한 여자라는 말을 듣게 됩니다. 그러나 남편이 죽으면 그 법에서 해방되는 것이므로, 다른 남자에게로 갈지라도, 간음한 여자가 되지 않습니다.",
     Chn:"所以丈夫活着，她若归于别人，便叫淫妇；丈夫若死了，她就脱离了丈夫的律法，虽然归于别人，也不是淫妇。",
     Eng:"So then, if she marries another man while her husband is still alive, she is called an adulteress. But if her husband dies, she is released from that law and is not an adulteress, even though she marries another man.",
     Ind:"Jadi selama suaminya hidup ia dianggap berzinah, kalau ia menjadi isteri laki-laki lain; tetapi jika suaminya telah mati, ia bebas dari hukum, sehingga ia bukanlah berzinah, kalau ia menjadi isteri laki-laki lain."
   },
   {Bible:"Romans", Chapter:7, Verse:4, Page:1,
-    Kor:"나의 a형제자매 여러분, 그러므로 여러분도 그리스도의 몸으로 말미암아, 율법에 대해서는 죽임을 당했습니다. 그래서 여러분은 다른 분, 곧 죽은 사람들 가운데서 살아나신 그분에게 속하게 되었습니다. 그것은 우리가 하나님을 위하여 열매를 맺게 하기 위함입니다.(a 그, '형제들')",
+    Kor:"○나의 형제자매 여러분, 그러므로 여러분도 그리스도의 몸으로 말미암아, 율법에는 죽임을 당했습니다. 이제 여러분은 다른 분, 곧 죽은 사람들 가운데서 살아나신 그분에게 속하였습니다. 그것은 우리로 하여금 하나님을 위하여 열매를 맺게 하려는 것입니다.",
     Chn:"我的弟兄们，这样说来，你们借着基督的身体，在律法上也是死了，叫你们归于别人，就是归于那从死里复活的，叫我们结果子给　神。",
     Eng:"So, my brothers, you also died to the law through the body of Christ, that you might belong to another, to him who was raised from the dead, in order that we might bear fruit to God.",
     Ind:"Sebab itu, saudara-saudaraku, kamu juga telah mati bagi hukum Taurat oleh tubuh Kristus, supaya kamu menjadi milik orang lain, yaitu milik Dia, yang telah dibangkitkan dari antara orang mati, agar kita berbuah bagi Allah."
   },
   {Bible:"Romans", Chapter:7, Verse:5, Page:1,
-    Kor:"이전에 우리가 육신을 따라 살 때에는, 율법으로 말미암아 일어나는 죄의 욕정이 우리 몸의 지체 안에서 작용해서, 죽음에 이르는 열매를 맺었습니다.",
+    Kor:"이전에 우리가 육신을 따라 살 때에는, 율법에 따른 죄의 정욕이 우리 몸의 지체 안에서 작용해서, 죽음에 이르는 열매를 맺었습니다.",
     Chn:"因为我们属肉体的时候，那因律法而生的恶欲就在我们肢体中发动，以致结成死亡的果子。",
     Eng:"For when we were controlled by the sinful nature, the sinful passions aroused by the law were at work in our bodies, so that we bore fruit for death.",
     Ind:"Sebab waktu kita masih hidup di dalam daging, hawa nafsu dosa, yang dirangsang oleh hukum Taurat, bekerja dalam anggota-anggota tubuh kita, agar kita berbuah bagi maut."
   },
   {Bible:"Romans", Chapter:7, Verse:6, Page:1,
-    Kor:"그러나 지금은, 우리를 옭아맸던 것에 대하여 죽어서, 율법에서 풀려났습니다. 그래서 우리는 문자에 얽매인 낡은 정신으로 하나님을 섬기지 않고, 성령이 주시는 새 정신으로 하나님을 섬깁니다.",
+    Kor:"그러나 지금은, 우리가 우리를 얽어 매던 것에서 죽어서, 율법에서 벗어났습니다. 그래서 우리는 문자를 따르는 낡은 정신으로 하나님을 섬기지 않고, 성령이 주시는 새 정신으로 하나님을 섬깁니다.",
     Chn:"但我们既然在捆我们的律法上死了，现今就脱离了律法，叫我们服事主，要按着心灵的新样，不按着仪文的旧样。",
     Eng:"But now, by dying to what once bound us, we have been released from the law so that we serve in the new way of the Spirit, and not in the old way of the written code.",
     Ind:"Tetapi sekarang kita telah dibebaskan dari hukum Taurat, sebab kita telah mati bagi dia, yang mengurung kita, sehingga kita sekarang melayani dalam keadaan baru menurut Roh dan bukan dalam keadaan lama menurut huruf hukum Taurat."
   },
   {Bible:"Romans", Chapter:7, Verse:7, Page:1,
-    Kor:"<율법과 죄의 관계> ○그러면 우리가 무엇이라고 말을 하겠습니까? 율법이 죄입니까? 그럴 수 없습니다. 그러나 율법에 비추어 보지 않았다면, b나는 죄가 무엇인지 알지 못하였을 것입니다. 율법에 c\"탐 내지 말아라\" 하지 않았다면, b나는 탐심이 무엇인지를 알지 못하였을 것입니다.(b 여기서부터 7장 전체에 반복해서 나타나는 '나'는, 바울이 자기 자신을 지칭하는 대명사로 45 7:사용된 것이 아니라, 율법 아래 있는 인간 일반을 대표해서 지칭하는 수사학적 대명사로 사용된 것임 c 출 20:7; 신 5:21)",
+    Kor:"○그러면 우리가 무엇이라고 말을 할 것입니까? 율법이 죄입니까? 그럴 수 없습니다. 그러나 율법에 비추어 보지 않고서는, 나는 죄가 무엇인지 알지 못하였을 것입니다. 율법에 \"탐 내지 말아라\" 하지 않았으면, 나는 탐심이 무엇인지를 알지 못하였을 것입니다.",
     Chn:"这样，我们可说什么呢？律法是罪吗？断乎不是！只是非因律法，我就不知何为罪。非律法说「不可起贪心」，我就不知何为贪心。",
     Eng:"What shall we say, then? Is the law sin? Certainly not! Indeed I would not have known what sin was except through the law. For I would not have known what coveting really was if the law had not said, \"Do not covet.\"",
     Ind:"Jika demikian, apakah yang hendak kita katakan? Apakah hukum Taurat itu dosa? Sekali-kali tidak! Sebaliknya, justru oleh hukum Taurat aku telah mengenal dosa. Karena aku juga tidak tahu apa itu keinginan, kalau hukum Taurat tidak mengatakan: \"Jangan mengingini!\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dahulu aku hidup tanpa hukum Taurat. Akan tetapi sesudah datang perintah itu, dosa mulai hidup,"
   },
   {Bible:"Romans", Chapter:7, Verse:10, Page:1,
-    Kor:"나는 죽었습니다. 그래서 나를 생명으로 인도해야 할 그 계명이, 도리어 나를 죽음으로 인도한다는 것이 드러났습니다.",
+    Kor:"나는 죽었습니다. 그래서 나를 생명으로 인도해야 할 그 계명이, 도리어 나를 죽음으로 인도하는 것으로 드러났습니다.",
     Chn:"那本来叫人活的诫命，反倒叫我死；",
     Eng:"I found that the very commandment that was intended to bring life actually brought death.",
     Ind:"sebaliknya aku mati. Dan perintah yang seharusnya membawa kepada hidup, ternyata bagiku justru membawa kepada kematian."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Jadi hukum Taurat adalah kudus, dan perintah itu juga adalah kudus, benar dan baik."
   },
   {Bible:"Romans", Chapter:7, Verse:13, Page:1,
-    Kor:"○그러니 그 선한 것이 나에게 죽음을 안겨 주었다는 말입니까? 그럴 수 없습니다. 그러나 죄를 죄로 드러나게 하려고, 죄가 그 선한 것을 방편으로 하여 나에게 죽음을 일으켰습니다. 그것은 계명을 방편으로 하여 죄를 극도로 죄답게 되게 하려는 것이었습니다.",
+    Kor:"○그러니 선한 것이 나에게 죽음을 가져 왔습니까? 그렇지 않습니다. 그러나 죄가 죄로 드러나게 하려고, 죄가, 선한 것을 방편으로 하여 죽음을 나에게 가져 왔습니다. 그것은 죄가, 계명을 방편으로 하여 더욱더 죄 되게 하려고 한 것입니다.",
     Chn:"既然如此，那良善的是叫我死吗？断乎不是！叫我死的乃是罪。但罪借着那良善的叫我死，就显出真是罪，叫罪因着诫命更显出是恶极了。",
     Eng:"Did that which is good, then, become death to me? By no means! But in order that sin might be recognized as sin, it produced death in me through what was good, so that through the commandment sin might become utterly sinful.",
     Ind:"Jika demikian, adakah yang baik itu menjadi kematian bagiku? Sekali-kali tidak! Tetapi supaya nyata, bahwa ia adalah dosa, maka dosa mempergunakan yang baik untuk mendatangkan kematian bagiku, supaya oleh perintah itu dosa lebih nyata lagi keadaannya sebagai dosa."
   },
   {Bible:"Romans", Chapter:7, Verse:14, Page:1,
-    Kor:"우리는 율법이 신령한 것인 줄 압니다. 그러나 나는 육정에 매인 존재로서, 죄 아래에 팔린 몸입니다.",
+    Kor:"○우리는 율법이 신령한 것인 줄 압니다. 그러나 나는 육정에 매인 존재로서, 죄 아래에 팔린 몸입니다.",
     Chn:"我们原晓得律法是属乎灵的，但我是属乎肉体的，是已经卖给罪了。",
     Eng:"We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.",
     Ind:"Sebab kita tahu, bahwa hukum Taurat adalah rohani, tetapi aku bersifat daging, terjual di bawah kuasa dosa."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Sebab apa yang aku perbuat, aku tidak tahu. Karena bukan apa yang aku kehendaki yang aku perbuat, tetapi apa yang aku benci, itulah yang aku perbuat."
   },
   {Bible:"Romans", Chapter:7, Verse:16, Page:1,
-    Kor:"내가 그런 일을 하면서도 그것을 해서는 안 되겠다고 생각하는 것은, 곧 율법이 선하다는 사실에 동의하는 것입니다.",
+    Kor:"그런 일을 하면서도 그것을 해서는 안 되겠다고 생각하는 것은, 곧 율법이 선하다는 사실에 동의하는 것입니다.",
     Chn:"若我所做的，是我所不愿意的，我就应承律法是善的。",
     Eng:"And if I do what I do not want to do, I agree that the law is good.",
     Ind:"Jadi jika aku perbuat apa yang tidak aku kehendaki, aku menyetujui, bahwa hukum Taurat itu baik."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Kalau demikian bukan aku lagi yang memperbuatnya, tetapi dosa yang ada di dalam aku."
   },
   {Bible:"Romans", Chapter:7, Verse:18, Page:1,
-    Kor:"나는 내 속에 곧 내 육신 속에 선한 것이 깃들여 있지 않다는 것을 압니다. 나는 선을 행하려는 의지는 있으나, 그것을 실행하지는 않으니 말입니다.",
+    Kor:"나는 내 속에, 곧 내 육신 속에 선한 것이 깃들어 있지 않다는 것을 압니다. 선을 행하려는 의지는 나에게 있으나, 그것을 실행하지 않으니 말입니다.",
     Chn:"我也知道，在我里头，就是我肉体之中，没有良善。因为，立志为善由得我，只是行出来由不得我。",
     Eng:"I know that nothing good lives in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.",
     Ind:"Sebab aku tahu, bahwa di dalam aku, yaitu di dalam aku sebagai manusia, tidak ada sesuatu yang baik. Sebab kehendak memang ada di dalam aku, tetapi bukan hal berbuat apa yang baik."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Jadi jika aku berbuat apa yang tidak aku kehendaki, maka bukan lagi aku yang memperbuatnya, tetapi dosa yang diam di dalam aku."
   },
   {Bible:"Romans", Chapter:7, Verse:21, Page:1,
-    Kor:"여기에서 나는 법칙 하나를 발견하였습니다. 곧 나는 선을 행하려고 하는데, 그러한 나에게 악이 붙어 있다는 것입니다.",
+    Kor:"○여기에서 나는 법칙 하나를 발견하였습니다. 곧 나는 선을 행하려고 하는데, 그러한 나에게 악이 붙어 있다는 것입니다.",
     Chn:"我觉得有个律，就是我愿意为善的时候，便有恶与我同在。",
     Eng:"So I find this law at work: When I want to do good, evil is right there with me.",
     Ind:"Demikianlah aku dapati hukum ini: jika aku menghendaki berbuat apa yang baik, yang jahat itu ada padaku."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sebab di dalam batinku aku suka akan hukum Allah,"
   },
   {Bible:"Romans", Chapter:7, Verse:23, Page:1,
-    Kor:"내 지체에는 다른 법이 있어서 내 마음의 법과 맞서서 싸우며, 내 지체에 있는 죄의 법에 나를 포로로 만드는 것을 봅니다.",
+    Kor:"내 지체 속에는 다른 법이 있어서 내 마음의 법과 맞서서 싸우고, 내 지체 속에 있는 죄의 법에다 나를 사로잡는 것을 봅니다.",
     Chn:"但我觉得肢体中另有个律和我心中的律交战，把我掳去，叫我附从那肢体中犯罪的律。",
     Eng:"but I see another law at work in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin at work within my members.",
     Ind:"tetapi di dalam anggota-anggota tubuhku aku melihat hukum lain yang berjuang melawan hukum akal budiku dan membuat aku menjadi tawanan hukum dosa yang ada di dalam anggota-anggota tubuhku."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Aku, manusia celaka! Siapakah yang akan melepaskan aku dari tubuh maut ini?"
   },
   {Bible:"Romans", Chapter:7, Verse:25, Page:1,
-    Kor:"우리 주 예수 그리스도를 통하여 나를 건져 주신 하나님께 감사를 드립니다. 그러니 나 자신은, 마음으로는 하나님의 법을 섬기고, 육신으로는 죄의 법을 섬기고 있습니다.",
+    Kor:"우리 주 예수 그리스도를 통하여 나를 건져 주신 하나님께 감사를 드립니다. 그런데 내가 마음으로는 하나님의 법에 복종하고, 육신으로는 죄의 법에 복종하고 있습니다.",
     Chn:"感谢　神，靠着我们的主耶稣基督就能脱离了。这样看来，我以内心顺服　神的律，我肉体却顺服罪的律了。",
     Eng:"Thanks be to God--through Jesus Christ our Lord! So then, I myself in my mind am a slave to God's law, but in the sinful nature a slave to the law of sin.",
     Ind:"Syukur kepada Allah! oleh Yesus Kristus, Tuhan kita. (7-26) Jadi dengan akal budiku aku melayani hukum Allah, tetapi dengan tubuh insaniku aku melayani hukum dosa."

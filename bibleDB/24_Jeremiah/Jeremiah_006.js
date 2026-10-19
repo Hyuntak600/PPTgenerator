@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",6,30);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:6, Verse:1, Page:1,
-    Kor:"<예루살렘이 포위되다> \"너희 베냐민 자손아, 예루살렘에서 도망쳐 나와서 피하여라. 너희는 드고아에서 나팔을 불고, 벳학게렘에서는 봉화불을 올려라. 재앙과 파멸이 북쪽에서 밀려온다.",
+    Kor:"\"너희 베냐민 자손아, 예루살렘에서 도망쳐 나와서 피하여라. 너희는 드고아에서 나팔을 불고, 벳학게렘에서는 봉화불을 올려라. 재앙과 파멸이 북쪽에서 밀려온다.",
     Chn:"便雅悯人哪，你们要逃出耶路撒冷， 在提哥亚吹角， 在伯·哈基琳立号旗； 因为有灾祸与大毁灭从北方张望。",
     Eng:"\"Flee for safety, people of Benjamin! Flee from Jerusalem! Sound the trumpet in Tekoa! Raise the signal over Beth Hakkerem! For disaster looms out of the north, even terrible destruction.",
     Ind:"Larilah mengungsi, hai orang-orang Benyamin, dari tengah-tengah Yerusalem! Tiuplah sangkakala di Tekoa, dan naikkanlah asap sebagai tanda di atas Bet-Kerem! Sebab malapetaka telah mengintai dari utara, yakni suatu kehancuran besar."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sebab beginilah firman TUHAN semesta alam: \"Tebanglah pohon-pohonnya dan timbunlah tanah menjadi tembok terhadap Yerusalem! Itulah kota yang harus dihukum! Hanya penindasan saja di dalamnya!"
   },
   {Bible:"Jeremiah", Chapter:6, Verse:7, Page:1,
-    Kor:"샘이 물을 솟구쳐 내듯이 그 도성은 죄악을 솟구쳐 내고 있다. 그 도성에서 들리는 것은 폭행과 파괴의 소리뿐이다. 나의 눈 앞에 언제나 보이는 것은, 병들고 상처 입은 사람들뿐이다.'",
+    Kor:"샘이 물을 솟구쳐 내듯이 그 도성은 죄악을 솟구쳐 내고 있다. 그 도성에서 들리는 것은 폭행과 파괴의 소리뿐이다. 나의 눈 앞에 언제나 보이는 것은, 병들고 상처 입은 사람들뿐이다' 하였다.",
     Chn:"井怎样涌出水来， 这城也照样涌出恶来； 在其间常听见有强暴毁灭的事， 病患损伤也常在我面前。",
     Eng:"As a well pours out its water, so she pours out her wickedness. Violence and destruction resound in her; her sickness and wounds are ever before me.",
     Ind:"Seperti mata air meluapkan airnya, demikianlah kota itu meluapkan kejahatannya. Kekerasan dan aniaya terdengar di dalamnya, luka dan pukulan selalu ada Kulihat."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Terimalah penghajaran, hai Yerusalem, supaya Aku jangan menarik diri dari padamu, supaya Aku jangan membuat engkau sunyi sepi, menjadi negeri yang tidak berpenduduk!\""
   },
   {Bible:"Jeremiah", Chapter:6, Verse:9, Page:1,
-    Kor:"<반역하는 백성> \"나 만군의 주가 말한다. 농부가 포도나무에서 포도송이를 다 따내듯이, 적군이 이스라엘의 남은 자들을 샅샅이 뒤져서 끌어 갈 것이다. 그러니 예레미야야, 아직 시간이 있을 때에, 포도 따는 사람이 포도덩굴을 들추어보는 것처럼, 네가 구할 수 있는 사람들을 구해야 한다.\"",
+    Kor:"\"나 만군의 주가 말한다. 농부가 포도나무에서 포도송이를 다 따내듯이, 적군이 이스라엘의 남은 자들을 샅샅이 뒤져서 끌어 갈 것이다. 그러니 예레미야야, 아직 시간이 있을 때에, 포도 따는 사람이 포도덩굴을 들추어보는 것처럼, 네가 구할 수 있는 사람들을 구해야 한다.\"",
     Chn:"万军之耶和华曾如此说： 敌人必掳尽以色列剩下的民， 如同摘净葡萄一样。 你要像摘葡萄的人摘了又摘，回手放在筐子里。",
     Eng:"This is what the LORD Almighty says: \"Let them glean the remnant of Israel as thoroughly as a vine; pass your hand over the branches again, like one gathering grapes.\"",
     Ind:"Beginilah firman TUHAN semesta alam: \"Petiklah habis-habisan sisa-sisa orang Israel seperti pokok anggur dipetik habis-habisan. Kembalilah seperti pemetik buah anggur dengan tanganmu mencari-cari buah pada ranting-rantingnya.\""
   },
   {Bible:"Jeremiah", Chapter:6, Verse:10, Page:1,
-    Kor:"<예레미야의 분노> 제가 말하고 경고한들 누가 제 말을 듣겠습니까? 그들은 a귀가 막혀 주님의 말씀을 들을 수 없습니다. 주님께서 하신 말씀을 전하면 그들은 저를 비웃기만 합니다. 말씀 듣기를 좋아하지 않습니다. (a 히, '귀에 할례를 받지 못하여')",
+    Kor:"제가 말하고 경고한들 누가 제 말을 듣겠습니까? 그들은 귀가 막혀 주의 말씀을 들을 수 없습니다. 주께서 하신 말씀을 전하면 그들은 저를 비웃기만 합니다. 말씀 듣기를 좋아하지 않습니다.",
     Chn:"现在我可以向谁说话作见证，使他们听呢？ 他们的耳朵未受割礼，不能听见。 看哪，耶和华的话他们以为羞辱， 不以为喜悦。",
     Eng:"To whom can I speak and give warning? Who will listen to me? Their ears are closed so they cannot hear. The word of the LORD is offensive to them; they find no pleasure in it.",
     Ind:"Kepada siapakah aku harus berbicara dan bersaksi, supaya mereka mau memperhatikan? Sungguh, telinga mereka tidak bersunat, mereka tidak dapat mendengar! Sungguh, firman TUHAN menjadi cemoohan bagi mereka, mereka tidak menyukainya!"
   },
   {Bible:"Jeremiah", Chapter:6, Verse:11, Page:1,
-    Kor:"그들을 향하신 주님의 진노가 제 속에서도 부글부글 끓고 있어서, 제가 더 이상 주님의 진노를 품고 있을 수도 없습니다.  <주님의 분노>  \"그러면 나의 분노를 길거리의 아이들에게 쏟아라. 젊은이들이 모인 곳에다가 쏟아라. 결혼한 남자들과 결혼한 여자들이 잡혀 갈 것이다. 청년이 잡혀 가고, 죽을 날을 기다리는 노인도 잡혀 갈 것이다.",
+    Kor:"그들을 향하신 주님의 진노가 제 속에서도 부글부글 끓고 있어서, 제가 더 이상 주님의 진노를 품고 있을 수도 없습니다. \"그러면 나의 분노를 길거리의 아이들에게 쏟아라. 젊은이들이 모인 곳에다가 쏟아라. 결혼한 남자들과 결혼한 여자들이 잡혀 갈 것이다. 장년은 잡혀 가고, 죽을 날을 기다리는 노인도 잡혀 갈 것이다.",
     Chn:"因此我被耶和华的忿怒充满，难以含忍。 我要倾在街中的孩童和聚会的少年人身上， 连夫带妻， 并年老的与日子满足的都必被擒拿。",
     Eng:"But I am full of the wrath of the LORD, and I cannot hold it in. \"Pour it out on the children in the street and on the young men gathered together; both husband and wife will be caught in it, and the old, those weighed down with years.",
     Ind:"Tetapi aku penuh dengan kehangatan murka TUHAN, aku telah payah menahannya, harus menumpahkannya kepada bayi di jalan, dan kepada kumpulan teruna bersama-sama. Sesungguhnya, baik laki-laki maupun perempuan akan ditangkap, baik orang yang tua maupun orang yang sudah lanjut usianya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, dari yang kecil sampai yang besar di antara mereka, semuanya mengejar untung, baik nabi maupun imam semuanya melakukan tipu."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:14, Page:1,
-    Kor:"백성이 상처를 입어 앓고 있을 때에, '괜찮다! 괜찮다!' 하고 말하지만, 괜찮기는 어디가 괜찮으냐?",
+    Kor:"백성이 상처를 입어 앓고 있을 때에, 그들은 '괜찮다! 괜찮다!' 하고 말하지만, 괜찮기는 어디가 괜찮으냐?",
     Chn:"他们轻轻忽忽地医治我百姓的损伤， 说：平安了！平安了！ 其实没有平安。",
     Eng:"They dress the wound of my people as though it were not serious. 'Peace, peace,' they say, when there is no peace.",
     Ind:"Mereka mengobati luka umat-Ku dengan memandangnya ringan, katanya: Damai sejahtera! Damai sejahtera!, tetapi tidak ada damai sejahtera."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Seharusnya mereka merasa malu, sebab mereka melakukan kejijikan; tetapi mereka sama sekali tidak merasa malu dan tidak kenal noda mereka. Sebab itu mereka akan rebah di antara orang-orang yang rebah; mereka akan tersandung jatuh pada waktu Aku menghukum mereka, firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:6, Verse:16, Page:1,
-    Kor:"<유다 백성이 하나님의 길을 떠나다> \"나 주가 말한다. 나는 너희에게 일렀다. 가던 길을 멈추어서 살펴보고, 옛길이 어딘지, 가장 좋은 길이 어딘지 물어 보고, 그 길로 가라고 하였다. 그러면 너희의 영혼이 평안히 쉴 곳을 찾을 것이라고 하였다. 그런데도 너희는 여전히 그 길로는 가지 않겠다고 하였다.",
+    Kor:"\"나 주가 이렇게 말한다. 나는 너희에게 일렀다. 가던 길을 멈추어서 살펴보고, 옛길이 어딘지, 가장 좋은 길이 어딘지 물어 보고, 그 길로 가라고 하였다. 그러면 너희의 영혼이 평안히 쉴 곳을 찾을 것이라고 하였다. 그런데도 너희는 여전히 그 길로는 가지 않겠다고 하였다.",
     Chn:"耶和华如此说： 你们当站在路上察看， 访问古道， 哪是善道，便行在其间； 这样，你们心里必得安息。 他们却说：我们不行在其间。",
     Eng:"This is what the LORD says: \"Stand at the crossroads and look; ask for the ancient paths, ask where the good way is, and walk in it, and you will find rest for your souls. But you said, 'We will not walk in it.'",
     Ind:"Beginilah firman TUHAN: \"Ambillah tempatmu di jalan-jalan dan lihatlah, tanyakanlah jalan-jalan yang dahulu kala, di manakah jalan yang baik, tempuhlah itu, dengan demikian jiwamu mendapat ketenangan. Tetapi mereka berkata: Kami tidak mau menempuhnya!"
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"Sebab itu dengarlah, hai bangsa-bangsa, dan ketahuilah, hai jemaat, apa yang akan terjadi atas mereka!"
   },
   {Bible:"Jeremiah", Chapter:6, Verse:19, Page:1,
-    Kor:"땅아, 너도 들어라. 내가 지금 이 백성에게 재앙을 내린다. 그들이 이처럼 사악한 생각을 하였으니, 이것은 그들이 받아 마땅한 벌이다. 그들이 나의 말을 귀담아 듣지 않으며, 나의 율법도 무시하였기 때문이다.\"",
+    Kor:"땅아, 너도 들어라. 내가 지금 이 백성에게 재앙을 내린다. 그들이 이처럼 사악한 생각을 하였으니, 이것은 그들이 받아 마땅한 벌이다. 그들이 나의 말을 귀담아 듣지 않았으며, 나의 율법도 무시하였기 때문이다.\"",
     Chn:"地啊，当听！ 我必使灾祸临到这百姓， 就是他们意念所结的果子； 因为他们不听从我的言语， 至于我的训诲，他们也厌弃了。",
     Eng:"Hear, O earth: I am bringing disaster on this people, the fruit of their schemes, because they have not listened to my words and have rejected my law.",
     Ind:"Dengarlah, hai bumi! Sungguh, ke atas bangsa ini Aku akan mendatangkan malapetaka, akibat dari rancangan-rancangan mereka, sebab mereka tidak memperhatikan perkataan-perkataan-Ku dan menolak pengajaran-Ku."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:20, Page:1,
-    Kor:"\"스바에서 들여 오는 향과 먼 땅에서 가져 오는 향료가, 나에게 무슨 소용이 있느냐? 너희가 바치는 온갖 번제물도 싫고, 온갖 희생제물도 마음에 들지 않는다.\"",
+    Kor:"\"시바에서 들여 오는 향과 먼 땅에서 가져 오는 향료가, 나에게 무슨 소용이 있느냐? 너희가 바치는 온갖 번제물도 싫고, 온갖 희생제물도 마음에 들지 않는다.\"",
     Chn:"从示巴出的乳香， 从远方出的菖蒲 奉来给我有何益呢？ 你们的燔祭不蒙悦纳； 你们的平安祭，我也不喜悦。",
     Eng:"What do I care about incense from Sheba or sweet calamus from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please me.\"",
     Ind:"Apakah gunanya bagi-Ku kamu bawa kemenyan dari Syeba dan tebu yang baik dari negeri yang jauh? Aku tidak berkenan kepada korban-korban bakaranmu dan korban-korban sembelihanmu tidak menyenangkan hati-Ku."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:21, Page:1,
-    Kor:"\"그러므로 나 주가 말한다. 내가 이 백성 앞에 걸림돌들을 숨겨 놓아서, 모두 돌에 걸려 넘어지게 하겠다. 아버지와 아들이 다 함께 넘어지고, 이웃과 그 친구가 다 함께 멸망할 것이다.\"",
+    Kor:"\"그러므로 나 주가 이렇게 말한다. 내가 이 백성 앞에 걸림돌들을 숨겨 놓아서, 모두 돌에 걸려 넘어지게 하겠다. 아버지와 아들이 다 함께 넘어지고, 이웃과 그 친구가 다 함께 멸망할 것이다.\"",
     Chn:"所以耶和华如此说： 我要将绊脚石放在这百姓前面。 父亲和儿子要一同跌在其上； 邻舍与朋友也都灭亡。",
     Eng:"Therefore this is what the LORD says: \"I will put obstacles before this people. Fathers and sons alike will stumble over them; neighbors and friends will perish.\"",
     Ind:"Sebab itu beginilah firman TUHAN: Sungguh, Aku akan menaruh batu sandungan di depan bangsa ini, supaya mereka jatuh tersandung oleh karenanya; bapa-bapa serta dengan anak-anak, tetangga dan temannya, semuanya akan binasa.\""
   },
   {Bible:"Jeremiah", Chapter:6, Verse:22, Page:1,
-    Kor:"<북쪽에서 오는 침략자> \"나 주가 말한다. 한 백성이 북녘 땅에서 오고 있다. 큰 나라가 온다. 저 먼 땅에서 떨치고 일어났다.",
+    Kor:"\"나 주가 이렇게 말한다. 한 백성이 북녘 땅에서 오고 있다. 큰 나라가 온다. 저 먼 땅에서 떨치고 일어났다.",
     Chn:"耶和华如此说： 看哪，有一种民从北方而来， 并有一大国被激动，从地极来到。",
     Eng:"This is what the LORD says: \"Look, an army is coming from the land of the north; a great nation is being stirred up from the ends of the earth.",
     Ind:"Beginilah firman TUHAN: \"Sesungguhnya, suatu bangsa akan datang dari tanah utara, suatu suku bangsa yang besar akan bergerak maju dari ujung bumi."
@@ -159,25 +159,25 @@ BibleDB.add([
     Ind:"Hai puteri bangsaku, kenakanlah kain kabung, dan berguling-gulinglah dalam debu! Berkabunglah seperti menangisi seorang anak tunggal, merataplah dengan pahit pedih! Sebab sekonyong-konyong akan datang si pembinasa menyerangmu."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:27, Page:1,
-    Kor:"\"예레미야야, 내 백성을 시험해 보아라. 금속을 시험하듯 시험해서 도대체 그들의 정체가 무엇인지 밝혀 보아라.",
+    Kor:"\"예레미야야, 내가 너를, 내 백성을 연단하는 사람으로 세운다. 내가 너를, 살펴보는 망대로 세운다. 너는 백성의 행실을 살피고, 그들을 연단하여라.\"",
     Chn:"我使你在我民中为高台，为保障， 使你知道试验他们的行动。",
     Eng:"\"I have made you a tester of metals and my people the ore, that you may observe and test their ways.",
     Ind:"Aku telah mengangkat engkau di antara umat-Ku sebagai penguji, engkau harus tahu bagaimana menyelidikinya, dan harus menguji tingkah langkah mereka."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:28, Page:1,
-    Kor:"그들은 모두 반항하는 자들이다. 모함이나 하고 돌아다니며 마음이 완악하기가 놋쇠나 무쇠와 같다. 모두 속속들이 썩은 자들이다.",
+    Kor:"그들은 모두 반항하는 자들입니다. 모함이나 하고 돌아다니며 마음이 완악하기가 놋쇠나 무쇠와 같습니다. 모두 속속들이 썩은 자들입니다.",
     Chn:"他们都是极悖逆的， 往来谗谤人。 他们是铜是铁， 都行坏事。",
     Eng:"They are all hardened rebels, going about to slander. They are bronze and iron; they all act corruptly.",
     Ind:"Semua mereka adalah pendurhaka belaka, berjalan kian kemari sebagai pemfitnah; sekaliannya mereka berlaku busuk!"
   },
   {Bible:"Jeremiah", Chapter:6, Verse:29, Page:1,
-    Kor:"풀무질을 세게 하면, 불이 뜨거워져서 그 뜨거운 불 속에서 납이 녹으련만, 불순물도 없어지지 않으니, 금속을 단련하는 일이 헛수고가 되고 만다. 그들의 죄악이 도무지 제거되지 않는다.",
+    Kor:"풀무질을 세게 하면, 불이 뜨거워져서 그 뜨거운 불 속에서 납이 녹아 버리고, 불순물이 없어지지 않으니, 금속을 단련하는 일이 헛수고가 되고 맙니다. 그들의 죄악이 도무지 제거되지 않습니다.",
     Chn:"风箱吹火，铅被烧毁； 他们炼而又炼，终是徒然； 因为恶劣的还未除掉。",
     Eng:"The bellows blow fiercely to burn away the lead with fire, but the refining goes on in vain; the wicked are not purged out.",
     Ind:"Puputan sudah mengembus, tetapi yang keluar dari api hanya timah hitam, tembaga dan besi. Sia-sia orang melebur terus-menerus, tetapi orang-orang yang jahat tidak terpisahkan."
   },
   {Bible:"Jeremiah", Chapter:6, Verse:30, Page:1,
-    Kor:"이제 그들은, 불순물을 제거할 수 없는 '내버린 은'일 뿐이다. 나 주가 그들을 내버렸기 때문이다.\"",
+    Kor:"이제 그들은, 불순물을 제거할 수 없는 '내버린 은'일 뿐입니다. 주께서 그들을 내버리셨기 때문입니다.",
     Chn:"人必称他们为被弃的银渣， 因为耶和华已经弃掉他们。",
     Eng:"They are called rejected silver, because the LORD has rejected them.\"",
     Ind:"Sebutkanlah mereka perak yang ditolak, sebab TUHAN telah menolak mereka!"

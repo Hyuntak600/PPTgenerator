@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",82,8);
 BibleDB.add([
   {Bible:"Psalms", Chapter:82, Verse:1, Page:1,
-    Kor:"<아삽의 시> 하나님이 하나님의 법정에 나오셔서, 신들을 모아들이시고 재판을 하셨다. 하나님께서 신들에게 말씀하셨다.",
+    Kor:"하나님이 하나님의 법정에 나오셔서, 신들을 모아들이시고 재판을 하셨다. 하나님께서 신들에게 말씀하셨다.",
     Chn:"亚萨的诗。 　神站在有权力者的会中， 在诸神中行审判，",
     Eng:"God presides in the great assembly; he gives judgment among the \"gods\":",
     Ind:"Mazmur Asaf. Allah berdiri dalam sidang ilahi, di antara para allah Ia menghakimi:"

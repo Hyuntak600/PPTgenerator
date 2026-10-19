@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",22,41);
 BibleDB.add([
   {Bible:"Numbers", Chapter:22, Verse:1, Page:1,
-    Kor:"<모압의 왕이 발람을 불러오다> 이스라엘 자손이 길을 떠나 모압 평지에 진을 쳤다. 그 곳은 요단 강 건너, 곧 여리고 맞은편이다.",
+    Kor:"이스라엘 자손이 길을 떠나 모압 평지에 진을 쳤다. 그 곳은 요단 강 건너, 곧 여리고 맞은편이다.",
     Chn:"以色列人起行，在摩押平原、约旦河东，对着耶利哥安营。",
     Eng:"Then the Israelites traveled to the plains of Moab and camped along the Jordan across from Jericho.",
     Ind:"Kemudian berangkatlah orang Israel, dan berkemah di dataran Moab, di daerah seberang sungai Yordan dekat Yerikho."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah orang Moab kepada para tua-tua Midian: \"Tentu saja laskar besar itu akan membabat habis segala sesuatu yang di sekeliling kita, seperti lembu membabat habis tumbuh-tumbuhan hijau di padang.\" Adapun pada waktu itu Balak bin Zipor menjadi raja Moab."
   },
   {Bible:"Numbers", Chapter:22, Verse:5, Page:1,
-    Kor:"그는 브올의 아들 발람을 불러오려고 사신들을 브돌로 보내어 말을 전하게 하였다. 그 때에 발람은 큰 강 가, 자기 백성의 자손들이 사는 땅 브돌에 있었다. 발락이 한 말은 다음과 같다.  \"한 백성이 이집트에서 나와서, 온 땅을 덮고 있습니다. 드디어 바로 나의 맞은편에까지 와서 자리잡았습니다.",
+    Kor:"그는 브올의 아들 발람을 불러오려고 사신들을 브돌로 보내어 말을 전하게 하였다. 그 때에 발람은 큰 강 가, 자기 백성의 자손들이 사는 땅 브돌에 있었다. 발락이 한 말은 다음과 같다. ○한 백성이 이집트에서 나와서, 온 땅을 덮고 있습니다. 드디어 바로 나의 맞은편에까지 와서 자리잡았습니다.",
     Chn:"他差遣使者往大河边的毗夺去，到比珥的儿子巴兰本乡那里，召巴兰来，说：「有一宗民从埃及出来，遮满地面，与我对居。",
     Eng:"sent messengers to summon Balaam son of Beor, who was at Pethor, near the River, in his native land. Balak said: \"A people has come out of Egypt; they cover the face of the land and have settled next to me.",
     Ind:"Raja ini mengirim utusan kepada Bileam bin Beor, ke Petor yang di tepi sungai Efrat, ke negeri teman-teman sebangsanya, untuk memanggil dia, dengan pesan: \"Ketahuilah, ada suatu bangsa keluar dari Mesir; sungguh, sampai tertutup permukaan bumi olehnya, dan mereka sedang berkemah di depanku."
   },
   {Bible:"Numbers", Chapter:22, Verse:6, Page:1,
-    Kor:"이제 오셔서, 나를 보아서 이 백성을 저주하여 주시기 바랍니다. 그들은 너무 강해서, 나로서는 도저히 감당할 수 없습니다. 그렇게만 해주신다면, 나는 그들을 쳐부수어서 이 땅에서 쫓아낼 수 있을 것입니다. 그대가 복을 비는 이는 복을 받고, 그대가 저주하는 이는 저주를 받는다는 것을, 나는 04 22:알고 있습니다.\"",
+    Kor:"이제 오셔서, 나를 보아서 이 백성을 저주하여 주시기 바랍니다. 그들은 너무 강해서, 나로서는 도저히 감당할 수 없습니다. 그렇게만 해주신다면, 나는 그들을 쳐부수어서 이 땅에서 쫓아낼 수 있을 것입니다. 그대가 복을 비는 이는 복을 받고, 그대가 저주하는 이는 저주를 받는다는 것을, 나는 알고 있습니다.",
     Chn:"这民比我强盛，现在求你来为我咒诅他们，或者我能得胜，攻打他们，赶出此地。因为我知道，你为谁祝福，谁就得福；你咒诅谁，谁就受咒诅。」",
     Eng:"Now come and put a curse on these people, because they are too powerful for me. Perhaps then I will be able to defeat them and drive them out of the country. For I know that those you bless are blessed, and those you curse are cursed.\"",
     Ind:"Karena itu, datanglah dan kutuk bangsa itu bagiku, sebab mereka lebih kuat dari padaku; mungkin aku sanggup mengalahkannya dan menghalaunya dari negeri ini, sebab aku tahu: siapa yang kauberkati, dia beroleh berkat, dan siapa yang kaukutuk, dia kena kutuk.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Lalu berangkatlah para tua-tua Moab dan para tua-tua Midian dengan membawa di tangannya upah penenung; setelah mereka sampai kepada Bileam, disampaikanlah kepadanya pesan Balak."
   },
   {Bible:"Numbers", Chapter:22, Verse:8, Page:1,
-    Kor:"그러자 발람이 그들에게 말하였다. \"오늘 밤은 여기에서 지내십시오. 주님께서 나에게 하시는 그 말씀을 들어 본 다음에 알려 드리겠습니다.\" 그리하여 모압 고관들은 발람과 함께 머물렀다.",
+    Kor:"그러자 발람이 그들에게 말하였다. \"오늘 밤은 여기에서 지내십시오. 주께서 나에게 하시는 그 말씀을 들어 본 다음에 알려 드리겠습니다.\" 그리하여 모압 고관들은 발람과 함께 머물렀다.",
     Chn:"巴兰说：「你们今夜在这里住宿，我必照耶和华所晓谕我的回报你们。」摩押的使臣就在巴兰那里住下了。",
     Eng:"\"Spend the night here,\" Balaam said to them, \"and I will bring you back the answer the LORD gives me.\" So the Moabite princes stayed with him.",
     Ind:"Lalu berkatalah Bileam kepada mereka: \"Bermalamlah di sini pada malam ini, maka aku akan memberi jawab kepadamu, sesuai dengan apa yang akan difirmankan TUHAN kepadaku.\" Maka tinggallah pemuka-pemuka Moab itu pada Bileam."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Lalu berfirmanlah Allah kepada Bileam: \"Janganlah engkau pergi bersama-sama dengan mereka, janganlah engkau mengutuk bangsa itu, sebab mereka telah diberkati.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:13, Page:1,
-    Kor:"다음날 아침에 발람이 일어나, 발락이 보낸 고관들에게 말하였다. \"당신들의 나라로 돌아가시기 바랍니다. 주님께서는 내가 당신들과 함께 가는 것을 허락하지 않으십니다.\"",
+    Kor:"다음날 아침에 발람이 일어나, 발락이 보낸 고관들에게 말하였다. \"그대들의 나라로 돌아가시기 바랍니다. 주께서는 내가 그대들과 함께 가는 것을 허락하지 않으십니다.\"",
     Chn:"巴兰早晨起来，对巴勒的使臣说：「你们回本地去吧，因为耶和华不容我和你们同去。」",
     Eng:"The next morning Balaam got up and said to Balak's princes, \"Go back to your own country, for the LORD has refused to let me go with you.\"",
     Ind:"Bangunlah Bileam pada waktu pagi, lalu berkata kepada pemuka-pemuka Balak: \"Pulanglah ke negerimu, sebab TUHAN tidak mengizinkan aku pergi bersama-sama dengan kamu.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:14, Page:1,
-    Kor:"그리하여 모압 고관들은 일어나 발락에게로 돌아가서 보고하였다. \"발람이 우리와 함께 오기를 거절하였습니다.\"",
+    Kor:"그리하여 모압 고관들은 일어나 발락에게로 돌아가서 \"발람이 우리와 함께 오기를 거절하였습니다\" 하고 보고하였다.",
     Chn:"摩押的使臣就起来，回巴勒那里去，说：「巴兰不肯和我们同来。」",
     Eng:"So the Moabite princes returned to Balak and said, \"Balaam refused to come with us.\"",
     Ind:"Lalu berangkatlah pemuka-pemuka Moab itu dan setelah mereka sampai kepada Balak, berkatalah mereka: \"Bileam menolak datang bersama-sama dengan kami.\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Setelah mereka sampai kepada Bileam, berkatalah mereka kepadanya: \"Beginilah kata Balak bin Zipor: Janganlah biarkan dirimu terhalang-halang untuk datang kepadaku,"
   },
   {Bible:"Numbers", Chapter:22, Verse:17, Page:1,
-    Kor:"내가 그대에게 아주 후하게 보답하겠고, 또 그대가 나에게 말씀하시는 것이면 무엇이든지 하겠습니다. 꼭 오셔서, 나에게 좋도록, 저 백성에게 저주를 빌어 주시기 바랍니다.’\"",
+    Kor:"내가 그대에게 아주 후하게 보답하겠고, 또 그대가 나에게 말씀하시는 것이면 무엇이든지 하겠습니다. 꼭 오셔서, 나에게 좋도록, 저 백성에게 저주를 빌어 주시기 바랍니다.'\"",
     Chn:"因为我必使你得极大的尊荣。你向我要什么，我就给你什么；只求你来为我咒诅这民。』」",
     Eng:"because I will reward you handsomely and do whatever you say. Come and put a curse on these people for me.\"",
     Ind:"sebab aku akan memberi upahmu sangat banyak, dan apapun yang kauminta dari padaku, aku akan mengabulkannya. Datanglah, dan serapahlah bangsa itu bagiku.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi Bileam menjawab kepada pegawai-pegawai Balak: \"Sekalipun Balak memberikan kepadaku emas dan perak seistana penuh, aku tidak akan sanggup berbuat sesuatu, yang kecil atau yang besar, yang melanggar titah TUHAN, Allahku."
   },
   {Bible:"Numbers", Chapter:22, Verse:19, Page:1,
-    Kor:"그대들은 오늘 밤은 이 곳에서 묵으십시오. 주님께서 나에게 무엇을 더 말씀하실지 알아보겠습니다.\"",
+    Kor:"그대들은 오늘 밤은 이 곳에서 묵으십시오. 주께서 나에게 무엇을 더 말씀하실지 알아보겠습니다.\"",
     Chn:"现在我请你们今夜在这里住宿，等我得知耶和华还要对我说什么。」",
     Eng:"Now stay here tonight as the others did, and I will find out what else the LORD will tell me.\"",
     Ind:"Oleh sebab itu, baiklah kamupun tinggal di sini pada malam ini, supaya aku tahu, apakah pula yang akan difirmankan TUHAN kepadaku.\""
@@ -123,49 +123,49 @@ BibleDB.add([
     Ind:"Datanglah Allah kepada Bileam pada waktu malam serta berfirman kepadanya: \"Jikalau orang-orang itu memang sudah datang untuk memanggil engkau, bangunlah, pergilah bersama-sama dengan mereka, tetapi hanya apa yang akan Kufirmankan kepadamu harus kaulakukan.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:21, Page:1,
-    Kor:"<발람과 그의 나귀> ○발람은 아침에 일어나 자기 나귀에 안장을 얹고, 모압 고관들을 따라서 길을 나섰다.",
+    Kor:"○발람은 아침에 일어나 자기 나귀에 안장을 얹고, 모압 고관들을 따라서 길을 나섰다.",
     Chn:"巴兰早晨起来，备上驴，和摩押的使臣一同去了。",
     Eng:"Balaam got up in the morning, saddled his donkey and went with the princes of Moab.",
     Ind:"Lalu bangunlah Bileam pada waktu pagi, dipelanainyalah keledainya yang betina, dan pergi bersama-sama dengan pemuka-pemuka Moab."
   },
   {Bible:"Numbers", Chapter:22, Verse:22, Page:1,
-    Kor:"그러나 그가 길을 나서는 것 때문에 하나님이 크게 노하셨다. 주님의 천사가 그의 대적자가 되어서, 길에 서서 가로막았다. 발람은 자기 나귀를 탄 채로 있었고, 그의 두 종이 그와 함께 있었다.",
+    Kor:"그러나 그가 길을 나서는 것 때문에 하나님이 크게 노하셨다. 주의 천사가 그의 대적자가 되어서, 길에 서서 가로막았다. 발람은 자기 나귀를 탄 채로 있었고, 그의 두 종이 그와 함께 있었다.",
     Chn:"神因他去就发了怒；耶和华的使者站在路上敌挡他。他骑着驴，有两个仆人跟随他。",
     Eng:"But God was very angry when he went, and the angel of the LORD stood in the road to oppose him. Balaam was riding on his donkey, and his two servants were with him.",
     Ind:"Tetapi bangkitlah murka Allah ketika ia pergi, dan berdirilah Malaikat TUHAN di jalan sebagai lawannya. Bileam mengendarai keledainya yang betina dan dua orang bujangnya ada bersama-sama dengan dia."
   },
   {Bible:"Numbers", Chapter:22, Verse:23, Page:1,
-    Kor:"나귀는 주님의 천사가 칼을 빼어 손에 들고 길에 선 것을 보고, 길을 벗어나 밭으로 들어갔다. 발람은 나귀를 때려 다시 길로 들어서게 하였다.",
+    Kor:"나귀는 주의 천사가 칼을 빼어 손에 들고 길에 선 것을 보고, 길을 벗어나 밭으로 들어갔다. 발람은 나귀를 때려 다시 길로 들어서게 하였다.",
     Chn:"驴看见耶和华的使者站在路上，手里有拔出来的刀，就从路上跨进田间，巴兰便打驴，要叫它回转上路。",
     Eng:"When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the road into a field. Balaam beat her to get her back on the road.",
     Ind:"Ketika keledai itu melihat Malaikat TUHAN berdiri di jalan, dengan pedang terhunus di tangan-Nya, menyimpanglah keledai itu dari jalan dan masuk ke ladang. Maka Bileam memukul keledai itu untuk memalingkannya kembali ke jalan."
   },
   {Bible:"Numbers", Chapter:22, Verse:24, Page:1,
-    Kor:"그러자 주님의 천사가 이번에는 두 포도원 사이의 좁은 길을 막아섰다. 길 이쪽에도 담이 있고, 길 저쪽에도 담이 있었다.",
+    Kor:"그러자 주의 천사가 이번에는 두 포도원 사이의 좁은 길을 막아섰다. 길 이쪽에도 담이 있고, 길 저쪽에도 담이 있었다.",
     Chn:"耶和华的使者就站在葡萄园的窄路上；这边有墙，那边也有墙。",
     Eng:"Then the angel of the LORD stood in a narrow path between two vineyards, with walls on both sides.",
     Ind:"Kemudian pergilah Malaikat TUHAN berdiri pada jalan yang sempit di antara kebun-kebun anggur dengan tembok sebelah-menyebelah."
   },
   {Bible:"Numbers", Chapter:22, Verse:25, Page:1,
-    Kor:"나귀는 주님의 천사를 보자, 이쪽 벽으로 몸을 바짝 붙여, 발람의 발을 벽에 긁히게 하였다. 그러자 발람이 나귀를 한 대 더 때렸다.",
+    Kor:"나귀는 주의 천사를 보자, 이쪽 벽으로 몸을 바짝 붙여, 발람의 발을 벽에 긁히게 하였다. 그러자 발람이 나귀를 한 대 더 때렸다.",
     Chn:"驴看见耶和华的使者，就贴靠墙，将巴兰的脚挤伤了；巴兰又打驴。",
     Eng:"When the donkey saw the angel of the LORD, she pressed close to the wall, crushing Balaam's foot against it. So he beat her again.",
     Ind:"Ketika keledai itu melihat Malaikat TUHAN, ditekankannyalah dirinya kepada tembok, sehingga kaki Bileam terhimpit kepada tembok. Maka ia memukulnya pula."
   },
   {Bible:"Numbers", Chapter:22, Verse:26, Page:1,
-    Kor:"그 때에 주님의 천사가 앞으로 더 나아가, 오른쪽으로도 왼쪽으로도 피할 수 없는 좁은 곳에 섰다.",
+    Kor:"그 때에 주의 천사가 앞으로 더 나아가, 오른쪽으로도 왼쪽으로도 피할 수 없는 좁은 곳에 섰다.",
     Chn:"耶和华的使者又往前去，站在狭窄之处，左右都没有转折的地方。",
     Eng:"Then the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn, either to the right or to the left.",
     Ind:"Berjalanlah pula Malaikat TUHAN terus dan berdirilah Ia pada suatu tempat yang sempit, yang tidak ada jalan untuk menyimpang ke kanan atau ke kiri."
   },
   {Bible:"Numbers", Chapter:22, Verse:27, Page:1,
-    Kor:"나귀는 주님의 천사를 보고는, 발람을 태운 채로 주저앉았다. 발람은 화가 나서 지팡이로 나귀를 때렸다.",
+    Kor:"나귀는 주의 천사를 보고는, 발람을 태운 채로 주저앉았다. 발람은 화가 나서 지팡이로 나귀를 때렸다.",
     Chn:"驴看见耶和华的使者，就卧在巴兰底下，巴兰发怒，用杖打驴。",
     Eng:"When the donkey saw the angel of the LORD, she lay down under Balaam, and he was angry and beat her with his staff.",
     Ind:"Melihat Malaikat TUHAN meniaraplah keledai itu dengan Bileam masih di atasnya. Maka bangkitlah amarah Bileam, lalu dipukulnyalah keledai itu dengan tongkat."
   },
   {Bible:"Numbers", Chapter:22, Verse:28, Page:1,
-    Kor:"그 때에 주님께서 그 나귀의 입을 여시니, 그 나귀가 발람에게 말하였다. \"제가 주인 어른께 무슨 잘못을 하였기에, 저를 이렇게 세 번씩이나 때리십니까?\"",
+    Kor:"그 때에 주께서 그 나귀의 입을 여시니, 그 나귀가 발람에게 말하였다. \"제가 주인 어른께 무슨 잘못을 하였기에, 저를 이렇게 세 번씩이나 때리십니까?\"",
     Chn:"耶和华叫驴开口，对巴兰说：「我向你行了什么，你竟打我这三次呢？」",
     Eng:"Then the LORD opened the donkey's mouth, and she said to Balaam, \"What have I done to you to make you beat me these three times?\"",
     Ind:"Ketika itu TUHAN membuka mulut keledai itu, sehingga ia berkata kepada Bileam: \"Apakah yang kulakukan kepadamu, sampai engkau memukul aku tiga kali?\""
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Tetapi keledai itu berkata kepada Bileam: \"Bukankah aku ini keledaimu yang kautunggangi selama hidupmu sampai sekarang? Pernahkah aku berbuat demikian kepadamu?\" Jawabnya: \"Tidak.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:31, Page:1,
-    Kor:"○그 때에 주님께서 발람의 두 눈을 열어 주셨다. 그제야 그는, 주님의 천사가 칼을 빼어 손에 들고 길에 선 것을 보았다. 발람은 머리를 숙이고 엎드렸다.",
+    Kor:"○그 때에 주께서 발람의 두 눈을 열어 주셨다. 그제야 그는, 주의 천사가 칼을 빼어 손에 들고 길에 선 것을 보았다. 발람은 머리를 숙이고 엎드렸다.",
     Chn:"当时，耶和华使巴兰的眼目明亮，他就看见耶和华的使者站在路上，手里有拔出来的刀，巴兰便低头俯伏在地。",
     Eng:"Then the LORD opened Balaam's eyes, and he saw the angel of the LORD standing in the road with his sword drawn. So he bowed low and fell facedown.",
     Ind:"Kemudian TUHAN menyingkapkan mata Bileam; dilihatnyalah Malaikat TUHAN dengan pedang terhunus di tangan-Nya berdiri di jalan, lalu berlututlah ia dan sujud."
   },
   {Bible:"Numbers", Chapter:22, Verse:32, Page:1,
-    Kor:"주님의 천사가 그에게 물었다. \"너는 왜 너의 나귀를 이렇게 세 번씩이나 때리느냐? 네가 가서는 안 될 길이기에 너를 막으려고 이렇게 왔다.",
+    Kor:"주의 천사가 그에게 물었다. \"너는 왜 너의 나귀를 이렇게 세 번씩이나 때리느냐? 네가 가서는 안 될 길이기에 너를 막으려고 이렇게 왔다.",
     Chn:"耶和华的使者对他说：「你为何这三次打你的驴呢？我出来敌挡你，因你所行的，在我面前偏僻。",
     Eng:"The angel of the LORD asked him, \"Why have you beaten your donkey these three times? I have come here to oppose you because your path is a reckless one before me.",
     Ind:"Berfirmanlah Malaikat TUHAN kepadanya: \"Apakah sebabnya engkau memukul keledaimu sampai tiga kali? Lihat, Aku keluar sebagai lawanmu, sebab jalan ini pada pemandangan-Ku menuju kepada kebinasaan."
@@ -201,25 +201,25 @@ BibleDB.add([
     Ind:"Ketika keledai ini melihat Aku, telah tiga kali ia menyimpang dari hadapan-Ku; jika ia tidak menyimpang dari hadapan-Ku, tentulah engkau yang Kubunuh pada waktu itu juga dan dia Kubiarkan hidup.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:34, Page:1,
-    Kor:"발람이 주님의 천사에게 말하였다. \"제가 잘못하였습니다. 천사께서 저를 만나시려고 길에 서 계신 것을 몰랐습니다. 제가 가는 것이 잘못이면, 저는 되돌아가겠습니다.\"",
+    Kor:"발람이 주의 천사에게 말하였다. \"제가 잘못하였습니다. 천사께서 저를 만나시려고 길에 서 계신 것을 몰랐습니다. 제가 가는 것이 잘못이면, 저는 되돌아가겠습니다.\"",
     Chn:"巴兰对耶和华的使者说：「我有罪了。我不知道你站在路上阻挡我；你若不喜欢我去，我就转回。」",
     Eng:"Balaam said to the angel of the LORD, \"I have sinned. I did not realize you were standing in the road to oppose me. Now if you are displeased, I will go back.\"",
     Ind:"Lalu berkatalah Bileam kepada Malaikat TUHAN: \"Aku telah berdosa, karena aku tidak mengetahui, bahwa Engkau ini berdiri di jalan menentang aku. Maka sekarang, jika hal itu jahat di mata-Mu, aku mau pulang.\""
   },
   {Bible:"Numbers", Chapter:22, Verse:35, Page:1,
-    Kor:"주님의 천사가 발람에게 말하였다. \"저 사람들하고 같이 가거라. 그러나 너는 내가 말해 주는 것만 말하여라.\" 그리하여 발람은 발락이 보낸 고관들과 함께 갔다.",
+    Kor:"주의 천사가 발람에게 말하였다. \"저 사람들하고 같이 가거라. 그러나 너는 내가 말해 주는 것만 말하여라.\" 그리하여 발람은 발락이 보낸 고관들과 함께 갔다.",
     Chn:"耶和华的使者对巴兰说：「你同这些人去吧！你只要说我对你说的话。」于是巴兰同着巴勒的使臣去了。",
     Eng:"The angel of the LORD said to Balaam, \"Go with the men, but speak only what I tell you.\" So Balaam went with the princes of Balak.",
     Ind:"Tetapi Malaikat TUHAN berfirman kepada Bileam: \"Pergilah bersama-sama dengan orang-orang itu, tetapi hanyalah perkataan yang akan Kukatakan kepadamu harus kaukatakan.\" Sesudah itu pergilah Bileam bersama-sama dengan pemuka-pemuka Balak itu."
   },
   {Bible:"Numbers", Chapter:22, Verse:36, Page:1,
-    Kor:"<발락이 발람을 환영하다> ○발락은 발람이 오고 있다는 소식을 듣고, 그를 맞이하러, 그의 영토가 끝나는 아르논 강 경계에 있는 모압의 한 성읍까지 나아갔다.",
+    Kor:"○발락은 발람이 오고 있다는 소식을 듣고, 그를 맞이하러, 그의 영토가 끝나는 아르논 강 경계에 있는 모압의 한 성읍까지 나아갔다.",
     Chn:"巴勒听见巴兰来了，就往摩押京城去迎接他；这城是在边界上，在亚嫩河旁。",
     Eng:"When Balak heard that Balaam was coming, he went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.",
     Ind:"Ketika Balak mendengar, bahwa Bileam datang, keluarlah ia menyongsong dia sampai ke Kota Moab di perbatasan sungai Arnon, pada ujung perbatasan itu."
   },
   {Bible:"Numbers", Chapter:22, Verse:37, Page:1,
-    Kor:"발락은 발람에게 말하였다. \"내가 당신을 불러오려고 사신을 보내고 또 보내지 않았습니까? 어찌하여 곧바로 나에게 오지 않으셨습니까? 내가 당신을 존귀하게 대접할 능력이 없다고 생각하셨습니까?\"",
+    Kor:"발락은 발람에게 말하였다. \"내가 그대를 불러오려고 사신을 보내고 또 보내지 않았습니까? 어찌하여 곧바로 나에게 오지 않으셨습니까? 내가 그대를 존귀하게 대접할 능력이 없다고 생각하셨습니까?\"",
     Chn:"巴勒对巴兰说：「我不是急急地打发人到你那里去召你吗？你为何不到我这里来呢？我岂不能使你得尊荣吗？」",
     Eng:"Balak said to Balaam, \"Did I not send you an urgent summons? Why didn't you come to me? Am I really not able to reward you?\"",
     Ind:"Dan berkatalah Balak kepada Bileam: \"Bukankah aku sudah mengutus orang memanggil engkau? Mengapakah engkau tidak hendak datang kepadaku? Sungguhkah tidak sanggup aku memberi upahmu?\""
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Balak mengorbankan beberapa ekor lembu sapi dan kambing domba dan mengirimkan sebagian kepada Bileam dan kepada pemuka-pemuka yang bersama-sama dengan dia."
   },
   {Bible:"Numbers", Chapter:22, Verse:41, Page:1,
-    Kor:"<발람의 첫 번째 예언> ○다음날 아침이 되니, 발락은 발람을 데리고 바알 산당으로 올라갔다. 거기에서 발람은 이스라엘 백성이 친 진의 끝부분을 보았다.",
+    Kor:"○다음날 아침이 되니, 발락은 발람을 데리고 바알 산당으로 올라갔다. 거기에서 발람은 이스라엘 백성이 친 진의 끝부분을 보았다.",
     Chn:"到了早晨，巴勒领巴兰到巴力的高处；巴兰从那里观看以色列营的边界。",
     Eng:"The next morning Balak took Balaam up to Bamoth Baal, and from there he saw part of the people.",
     Ind:"Keesokan harinya Balak mengambil Bileam dan membawa dia mendaki bukit Baal. Dari situ dilihatnyalah bagian yang paling ujung dari bangsa Israel."

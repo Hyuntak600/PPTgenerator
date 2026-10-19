@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",4,23);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:4, Verse:1, Page:1,
-    Kor:"<방해를 물리치다> 우리가 성벽을 다시 쌓아 올리고 있다는 소식을 들은 산발랏은, 몹시 분개하며 화를 내었다. 그는 유다 사람을 비웃으며,",
+    Kor:"우리가 성벽을 다시 쌓아 올리고 있다는 소식을 들은 산발랏은, 몹시 분개하며 화를 내었다. 그는 유다 사람을 비웃으며,",
     Chn:"参巴拉听见我们修造城墙就发怒，大大恼恨，嗤笑犹大人，",
     Eng:"When Sanballat heard that we were rebuilding the wall, he became angry and was greatly incensed. He ridiculed the Jews,",
     Ind:"Ketika Sanbalat mendengar, bahwa kami sedang membangun kembali tembok, bangkitlah amarahnya dan ia sangat sakit hati. Ia mengolok-olokkan orang Yahudi"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Tetapi kami berdoa kepada Allah kami, dan mengadakan penjagaan terhadap mereka siang dan malam karena sikap mereka."
   },
   {Bible:"Nehemiah", Chapter:4, Verse:10, Page:1,
-    Kor:"그런데 유다 사람들 사이에서 이런 노래가 퍼지고 있었다.  흙더미는 아직도 산더미 같은데, 짊어지고 나르다 힘이 다 빠졌으니, 우리 힘으로는 이 성벽 다 쌓지 못하리.",
+    Kor:"그런데 유다 사람들 사이에서 이런 노래가 퍼지고 있었다. 흙더미는 아직도 산더미 같은데, 짊어지고 나를 힘이 다 빠졌으니, 우리 힘으로는, 이 성벽 다 쌓지 못하리.",
     Chn:"犹大人说：「灰土尚多，扛抬的人力气已经衰败，所以我们不能建造城墙。」",
     Eng:"Meanwhile, the people in Judah said, \"The strength of the laborers is giving out, and there is so much rubble that we cannot rebuild the wall.\"",
     Ind:"Berkatalah orang Yehuda: \"Kekuatan para pengangkat sudah merosot dan puing masih sangat banyak. Tak sanggup kami membangun kembali tembok ini.\""
   },
   {Bible:"Nehemiah", Chapter:4, Verse:11, Page:1,
-    Kor:"○한편 우리의 원수들은, 쥐도 새도 모르게 쳐들어와서 우리를 죽여서, 일을 못하게 하려고 계획하고 있었다.",
+    Kor:"○게다가 우리의 원수들은, 쥐도 새도 모르게 쳐들어와서 우리를 죽여서, 일을 못하게 하려고 계획하고 있었다.",
     Chn:"我们的敌人且说：「趁他们不知不见，我们进入他们中间，杀他们，使工作止住。」",
     Eng:"Also our enemies said, \"Before they know it or see us, we will be right there among them and will kill them and put an end to the work.\"",
     Ind:"Tetapi lawan-lawan kami berpikir: \"Mereka tidak akan tahu dan tidak akan melihat apa-apa, sampai kita ada di antara mereka, membunuh mereka dan menghentikan pekerjaan itu.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Ketika didengar musuh kami, bahwa rencana mereka sudah kami ketahui dan bahwa Allah telah menggagalkannya, maka dapatlah kami semua kembali ke tembok, masing-masing ke pekerjaannya."
   },
   {Bible:"Nehemiah", Chapter:4, Verse:16, Page:1,
-    Kor:"○그 날부터 내가 데리고 있는 젊은이 가운데서 반은 일을 하고, 나머지 반은 창과 방패와 활과 갑옷으로 무장을 하였다. 관리들은 성벽을 쌓고 있는 유다 백성 뒤에 진을 쳤다.",
+    Kor:"○그 날부터 내가 데리고 있는 젊은이 가운데서, 반은 일을 하고 나머지 반은 창과 방패와 활과 갑옷으로 무장을 하였다. 관리들은 성벽을 쌓고 있는 유다 백성 뒤에 진을 쳤다.",
     Chn:"从那日起，我的仆人一半做工，一半拿枪、拿盾牌、拿弓、穿铠甲，官长都站在犹大众人的后边。",
     Eng:"From that day on, half of my men did the work, while the other half were equipped with spears, shields, bows and armor. The officers posted themselves behind all the people of Judah",
     Ind:"Sejak hari itu sebagian dari pada anak buahku melakukan pekerjaan, dan sebagian yang lain memegang tombak, perisai dan panah dan mengenakan baju zirah, sedang para pemimpin berdiri di belakang segenap kaum Yehuda"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Setiap orang yang membangun bekerja dengan berikatkan pedang pada pinggangnya, dan di sampingku berdiri peniup sangkakala."
   },
   {Bible:"Nehemiah", Chapter:4, Verse:19, Page:1,
-    Kor:"나는 귀족들과 관리들과 그 밖의 백성에게 지시하였다. \"하여야 할 일이 많은데다, 일하는 지역이 넓으므로, 우리는 성벽을 따라서 서로 멀리 떨어져 있다.",
+    Kor:"나는 귀족들과 관리들과 그 밖의 백성에게 지시하였다. \"하여야 할 일이 많은 데다, 일하는 지역이 넓으므로, 우리는 성벽을 따라서 서로 멀리 떨어져 있다.",
     Chn:"我对贵胄、官长，和其余的人说：「这工程浩大，我们在城墙上相离甚远；",
     Eng:"Then I said to the nobles, the officials and the rest of the people, \"The work is extensive and spread out, and we are widely separated from each other along the wall.",
     Ind:"Berkatalah aku kepada para pemuka dan para penguasa dan kepada orang-orang yang lain: \"Pekerjaan ini besar dan luas, dan kita terpencar pada tembok, yang satu jauh dari pada yang lain."

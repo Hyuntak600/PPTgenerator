@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",108,13);
 BibleDB.add([
   {Bible:"Psalms", Chapter:108, Verse:1, Page:1,
-    Kor:"<다윗의 찬송시> 하나님, 나는 내 마음을 정했습니다. a진실로 나는 내 마음을 확실히 정했습니다. 내가 가락에 맞추어서 노래를 부르렵니다. b내 영혼아, 깨어나라. (a 히브리어 사본과 칠십인역과 시리아어역을 따름. 마소라 본문에는 이 구절이 없음 b 시 57:8 비교. 히, '내 영혼도 노래를 부르렵니다')",
+    Kor:"하나님, 내 마음은 확고합니다. 진실로 내 마음은 확고합니다. 내가 가락에 맞추어서 노래를 부르렵니다. 내 영혼아, 깨어나라.",
     Chn:"大卫的诗歌。 　神啊，我心坚定； 我口要唱诗歌颂！",
     Eng:"My heart is steadfast, O God; I will sing and make music with all my soul.",
     Ind:"Nyanyian. Mazmur Daud. (108-2) Hatiku siap, ya Allah, aku mau menyanyi, aku mau bermazmur. Bangunlah, hai jiwaku,"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"(108-4) Aku mau bersyukur kepada-Mu di antara bangsa-bangsa, ya TUHAN, dan aku mau bermazmur bagi-Mu di antara suku-suku bangsa;"
   },
   {Bible:"Psalms", Chapter:108, Verse:4, Page:1,
-    Kor:"주님의 한결같은 그 사랑, 하늘보다 더 높고, 주님의 진실하심, 구름에까지 닿습니다.",
+    Kor:"주님의 한결같은 그 사랑, 하늘보다 높고, 주님의 그 미쁘심, 구름에까지 닿습니다.",
     Chn:"因为，你的慈爱大过诸天； 你的诚实达到穹苍。",
     Eng:"For great is your love, higher than the heavens; your faithfulness reaches to the skies.",
     Ind:"(108-5) sebab kasih-Mu besar mengatasi langit, dan setia-Mu sampai ke awan-awan."
   },
   {Bible:"Psalms", Chapter:108, Verse:5, Page:1,
-    Kor:"하나님, 주님, 하늘보다 더 높이 높임을 받으시고, 주님의 영광 온 땅 위에 떨치십시오.",
+    Kor:"하나님, 하늘 높이 높임을 받으시고, 주님의 영광이 온 땅 위에서 높임을 받으시기 바랍니다.",
     Chn:"神啊，愿你崇高过于诸天！ 愿你的荣耀高过全地！",
     Eng:"Be exalted, O God, above the heavens, and let your glory be over all the earth.",
     Ind:"(108-6) Tinggikanlah diri-Mu mengatasi langit, ya Allah, dan biarlah kemuliaan-Mu mengatasi seluruh bumi."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"(108-7) Supaya terluput orang-orang yang Kaucintai, selamatkanlah dengan tangan kanan-Mu dan jawablah aku!"
   },
   {Bible:"Psalms", Chapter:108, Verse:7, Page:1,
-    Kor:"하나님께서 c그 성소에서 이렇게 말씀하셨습니다. \"내가 크게 기뻐하련다. 내가 세겜을 나누고, 숙곳 골짜기를 측량하련다. (c 또는 '그의 거룩하심으로')",
+    Kor:"하나님께서 그 성소에서 이렇게 말씀하셨습니다. \"내가 크게 기뻐하련다. 내가 세겜을 나누고, 숙곳 골짜기를 측량하련다.",
     Chn:"神已经指着他的圣洁说： 我要欢乐；我要分开示剑， 丈量疏割谷。",
     Eng:"God has spoken from his sanctuary: \"In triumph I will parcel out Shechem and measure off the Valley of Succoth.",
     Ind:"(108-8) Allah telah berfirman di tempat kudus-Nya: \"Aku hendak beria-ria, Aku hendak membagi-bagikan Sikhem, dan lembah Sukot hendak Kuukur."
   },
   {Bible:"Psalms", Chapter:108, Verse:8, Page:1,
-    Kor:"길르앗도 나의 것이요, 므낫세도 나의 것이다. 에브라임은 나의 머리에 쓰는 투구요, 유다는 나의 통치 지팡이이다.",
+    Kor:"길르앗도 나의 것이요, 므낫세도 나의 것이다. 에브라임은 나의 머리에 쓰는 투구요, 유다는 나의 홀이다.",
     Chn:"基列是我的； 玛拿西是我的； 以法莲是护卫我头的； 犹大是我的杖；",
     Eng:"Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah my scepter.",
     Ind:"(108-9) Gilead punya-Ku, Manasye punya-Ku, Efraim ialah pelindung kepala-Ku, Yehuda ialah tongkat kerajaan-Ku,"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"(108-13) Berikanlah kepada kami pertolongan terhadap lawan, sebab sia-sia penyelamatan dari manusia."
   },
   {Bible:"Psalms", Chapter:108, Verse:13, Page:1,
-    Kor:"하나님이 우리와 함께 하시면, 우리는 승리를 얻을 것이다. 그분이 우리의 원수들을 짓밟을 것이다.",
+    Kor:"하나님이 우리와 함께 하시면, 우리는 힘을 얻을 것이다. 그분이 우리의 원수들을 짓밟으실 것이다.",
     Chn:"我们倚靠　神才得施展大能， 因为践踏我们敌人的就是他。",
     Eng:"With God we will gain the victory, and he will trample down our enemies.",
     Ind:"(108-14) Dengan Allah akan kita lakukan perbuatan-perbuatan gagah perkasa, sebab Ia sendiri akan menginjak-injak para lawan kita."

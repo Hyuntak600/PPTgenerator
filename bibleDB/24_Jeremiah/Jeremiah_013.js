@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",13,27);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:13, Verse:1, Page:1,
-    Kor:"<허리띠> 주님께서 나에게 이렇게 말씀하셨다. \"너는 가서 베로 만든 띠를 사서 너의 허리에 띠고, 물에 적시는 일이 없도록 하여라.\"",
+    Kor:"주께서 나에게 이렇게 말씀하셨다. \"너는 가서 베로 만든 띠를 사서 너의 허리에 띠고, 물에 적시는 일이 없도록 하여라.\"",
     Chn:"耶和华对我如此说：「你去买一根麻布带子束腰，不可放在水中。」",
     Eng:"This is what the LORD said to me: \"Go and buy a linen belt and put it around your waist, but do not let it touch water.\"",
     Ind:"Beginilah firman TUHAN kepadaku: \"Pergilah membeli ikat pinggang lenan, ikatkanlah itu pada pinggangmu, tetapi jangan kaucelupkan ke dalam air!\""
   },
   {Bible:"Jeremiah", Chapter:13, Verse:2, Page:1,
-    Kor:"그래서 나는 주님의 말씀대로, 베 띠를 사서 허리에 띠었다.",
+    Kor:"그래서 나는 주의 말씀대로, 베 띠를 사서 허리에 띠었다.",
     Chn:"我就照着耶和华的话，买了一根带子束腰。",
     Eng:"So I bought a belt, as the LORD directed, and put it around my waist.",
     Ind:"Maka aku membeli ikat pinggang seperti yang difirmankan TUHAN, lalu mengikatkannya pada pinggangku."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:3, Page:1,
-    Kor:"○주님께서 다시 나에게 말씀하셨다.",
+    Kor:"주께서 다시 나에게 말씀하셨다.",
     Chn:"耶和华的话第二次临到我说：",
     Eng:"Then the word of the LORD came to me a second time:",
     Ind:"Sesudah itu datanglah firman TUHAN kepadaku untuk kedua kalinya, bunyinya:"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"\"Ambillah ikat pinggang yang telah kaubeli dan yang sekarang pada pinggangmu itu! Pergilah segera ke sungai Efrat untuk menyembunyikannya di sana di celah-celah bukit batu!\""
   },
   {Bible:"Jeremiah", Chapter:13, Verse:5, Page:1,
-    Kor:"그래서 나는 주님께서 명하신 대로, 가서 유프라테스 강 가에 그것을 숨겨 두었다.",
+    Kor:"그래서 나는 주께서 명하신 대로, 가서 유프라테스 강 가에 그것을 숨겨 두었다.",
     Chn:"我就去，照着耶和华所吩咐我的，将腰带藏在幼发拉底河边。",
     Eng:"So I went and hid it at Perath, as the LORD told me.",
     Ind:"Maka pergilah aku, lalu menyembunyikannya di pinggir sungai Efrat seperti yang diperintahkan TUHAN kepadaku."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:6, Page:1,
-    Kor:"○또 여러 날이 지난 다음에, 주님께서 나에게 말씀하셨다. \"너는 일어나서 유프라테스 강 가로 가서, 내가 그 곳에 숨겨 두라고 너에게 명한 그 띠를, 그 곳에서 가져 오너라.\"",
+    Kor:"또 여러 날이 지난 다음에, 주께서 나에게 말씀하셨다. \"너는 일어나서 유프라테스 강 가로 가서, 내가 그 곳에 숨겨 두라고 너에게 명한 그 띠를, 그 곳에서 가져 오너라.\"",
     Chn:"过了多日，耶和华对我说：「你起来往幼发拉底河去，将我吩咐你藏在那里的腰带取出来。」",
     Eng:"Many days later the LORD said to me, \"Go now to Perath and get the belt I told you to hide there.\"",
     Ind:"Sesudah beberapa waktu lamanya, berfirmanlah TUHAN kepadaku: \"Pergilah segera ke sungai Efrat mengambil dari sana ikat pinggang yang Kuperintahkan kausembunyikan di sana!\""
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Maka pergilah aku ke sungai Efrat, lalu aku menggali dan mengambil ikat pinggang itu dari tempat aku menyembunyikannya, tetapi ternyata ikat pinggang itu sudah lapuk, tidak berguna untuk apapun."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:8, Page:1,
-    Kor:"○그 때에 주님께서 나에게 말씀하셨다.",
+    Kor:"○그 때에 주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Jeremiah", Chapter:13, Verse:9, Page:1,
-    Kor:"\"나 주가 말한다. 내가 유다의 교만과 예루살렘의 큰 교만을 이렇게 썩게 하겠다.",
+    Kor:"\"나 주가 말한다. 내가 유다의 교만과 예루살렘의 큰 교만을 이와 같이 썩게 하겠다.",
     Chn:"「耶和华如此说：我必照样败坏犹大的骄傲和耶路撒冷的大骄傲。",
     Eng:"\"This is what the LORD says: 'In the same way I will ruin the pride of Judah and the great pride of Jerusalem.",
     Ind:"\"Beginilah firman TUHAN: Demikianlah Aku akan menghapuskan kecongkakbongakan Yehuda dan Yerusalem."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Sebab seperti ikat pinggang melekat pada pinggang seseorang, demikianlah tadinya segenap kaum Israel dan segenap kaum Yehuda Kulekatkan kepada-Ku, demikianlah firman TUHAN, supaya mereka itu menjadi umat, menjadi ternama, terpuji dan terhormat bagi-Ku. Tetapi mereka itu tidak mau mendengar.\""
   },
   {Bible:"Jeremiah", Chapter:13, Verse:12, Page:1,
-    Kor:"<포도주 항아리> ○\"그러므로 너는 그들에게 이 말을 전하여라. '나 주 이스라엘의 하나님이 말한다. 항아리마다 포도주로 가득 찰 것이다!' 하면 그들이 너에게 묻기를 '항아리에 포도주가 담긴다는 것을 우리가 어찌 모르겠느냐?' 할 것이다.",
+    Kor:"○\"그러므로 너는 그들에게 이 말을 전하여라. '나 주 이스라엘의 하나님이 말한다. 항아리마다 포도주로 가득 찰 것이다!' 하면 그들이 너에게 묻기를 '항아리에 포도주가 담긴다는 것을 우리가 어찌 모르겠느냐?' 할 것이다.",
     Chn:"「所以你要对他们说：『耶和华—以色列的　神如此说：各坛都要盛满了酒。』他们必对你说：『我们岂不确知各坛都要盛满了酒呢？』",
     Eng:"\"Say to them: 'This is what the LORD, the God of Israel, says: Every wineskin should be filled with wine.' And if they say to you, 'Don't we know that every wineskin should be filled with wine?'",
     Ind:"\"Katakanlah kepada mereka firman ini: Beginilah firman TUHAN, Allah Israel: Setiap buyung harus dipenuhi dengan anggur! Dan jika mereka berkata kepadamu: Masakan kami tidak tahu betul, bahwa setiap buyung harus dipenuhi dengan anggur?,"
   },
   {Bible:"Jeremiah", Chapter:13, Verse:13, Page:1,
-    Kor:"그러면 너는 그들에게 이렇게 대답하여라. '나 주가 말한다. 내가, 이 땅의 모든 주민과, 다윗의 왕위에 앉은 왕들과, 제사장들과, 예언자들과, 예루살렘의 모든 주민을, 술에 잔뜩 취하게 하여,",
+    Kor:"그러면 너는 그들에게 이와 같이 대답하여라. '나 주가 이렇게 말한다. 내가, 이 땅의 모든 주민과, 다윗의 왕위에 앉은 왕들과, 제사장들과, 예언자들과, 예루살렘의 모든 주민을, 술에 잔뜩 취하게 하여,",
     Chn:"你就要对他们说：『耶和华如此说：我必使这地的一切居民，就是坐大卫宝座的君王和祭司，与先知，并耶路撒冷的一切居民，都酩酊大醉。』」",
     Eng:"then tell them, 'This is what the LORD says: I am going to fill with drunkenness all who live in this land, including the kings who sit on David's throne, the priests, the prophets and all those living in Jerusalem.",
     Ind:"maka katakanlah kepada mereka: Beginilah firman TUHAN: Sesungguhnya, seluruh penduduk negeri ini akan Kupenuhi dengan kemabukan: para raja yang duduk di atas takhta Daud, para imam, para nabi dan seluruh penduduk Yerusalem."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Aku akan membantingkan seorang kepada yang lain sampai mereka hancur, bapa-bapa dengan anak-anaknya, demikianlah firman TUHAN. Aku akan membinasakan mereka tanpa belas kasihan, tanpa merasa sayang dan tanpa ampun.\""
   },
   {Bible:"Jeremiah", Chapter:13, Verse:15, Page:1,
-    Kor:"<교만에 대한 최후의 경고> 주님께서 말씀하셨으니, 너희는 들어라. 그리고 귀를 기울여라. 교만하지 말아라.",
+    Kor:"주께서 말씀하셨으니, 너희는 들어라. 그리고 귀를 기울여라. 교만하지 말아라.",
     Chn:"你们当听，当侧耳而听。 不要骄傲，因为耶和华已经说了。",
     Eng:"Hear and pay attention, do not be arrogant, for the LORD has spoken.",
     Ind:"Dengarlah, pasanglah telingamu, janganlah kamu tinggi hati, sebab TUHAN telah berfirman."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:16, Page:1,
-    Kor:"너희는 주님께서 날을 어두워지게 하시기 전에, 너희가 어두운 산 속에서 실족하기 전에, 주 너희 하나님께 영광을 돌려라. 그 때에는 너희가 빛을 고대해도, 주님은 빛을 어둠과 흑암으로 바꾸어 놓으실 것이다.",
+    Kor:"너희는 주께서 날을 어두워지게 하시기 전에, 너희가 어두운 산 속에서 실족하기 전에, 주 너희 하나님께 영광을 돌려라. 그 때에는 너희가 빛을 고대해도, 주님은 빛을 어둠과 흑암으로 바꾸어 놓으실 것이다.",
     Chn:"耶和华—你们的　神未使黑暗来到， 你们的脚未在昏暗山上绊跌之先， 当将荣耀归给他； 免得你们盼望光明， 他使光明变为死荫， 成为幽暗。",
     Eng:"Give glory to the LORD your God before he brings the darkness, before your feet stumble on the darkening hills. You hope for light, but he will turn it to thick darkness and change it to deep gloom.",
     Ind:"Permuliakanlah TUHAN, Allahmu, sebelum Ia membuat hari menjadi gelap, sebelum kakimu tersandung di atas bukit-bukit yang diliputi senja, sementara kamu menanti-nantikan terang, tetapi Ia menjadikan hari kelam pekat dan mengubahnya menjadi gelap gulita."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:17, Page:1,
-    Kor:"너희가 이 말을 듣지 않으면, 너희의 교만 때문에 내 심령은 숨어서 울고, 끝없이 눈물을 흘릴 것이다. 주님의 양 떼가 포로로 끌려갈 것이므로, 내 눈에서 하염없이 눈물이 흐를 것이다.",
+    Kor:"너희가 이 말을 듣지 않으면, 너희의 교만 때문에 내 심령은 숨어서 울고, 끝없이 눈물을 흘릴 것이다. 주의 양 떼가 포로로 끌려갈 것이므로, 내 눈에서 하염없이 눈물이 흐를 것이다.",
     Chn:"你们若不听这话， 我必因你们的骄傲在暗地哭泣； 我眼必痛哭流泪， 因为耶和华的群众被掳去了。",
     Eng:"But if you do not listen, I will weep in secret because of your pride; my eyes will weep bitterly, overflowing with tears, because the LORD'S flock will be taken captive.",
     Ind:"Jika kamu tidak mau mendengarkannya, aku akan menangis di tempat yang tersembunyi oleh karena kesombonganmu, air mataku akan berlinang-linang, bahkan akan bercucuran, oleh sebab kawanan domba TUHAN diangkut tertawan."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dan apabila engkau bertanya dalam hatimu: \"Mengapakah semuanya ini menimpa aku?\" Karena banyaknya kesalahanmulah maka disingkapkan ujung kainmu dan engkau diperkosa!"
   },
   {Bible:"Jeremiah", Chapter:13, Verse:23, Page:1,
-    Kor:"\"a에티오피아 사람이 자기의 피부 색깔을 바꿀 수 있느냐? 표범이 자기의 반점들을 다르게 바꿀 수 있느냐? 만약 그렇게 할 수만 있다면, 죄악에 익숙해진 너희도 선을 행할 수가 있을 것이다. (a 히, '구스 사람'. 나일 강 상류지역 사람)",
+    Kor:"\"에티오피아 사람이 자기의 피부 색깔을 바꿀 수 있느냐? 표범이 자기의 반점들을 다르게 바꿀 수 있느냐? 만약 그렇게 할 수만 있다면, 죄악에 익숙해진 너희도 선을 행할 수가 있을 것이다.",
     Chn:"古实人岂能改变皮肤呢？ 豹岂能改变斑点呢？ 若能，你们这习惯行恶的便能行善了。",
     Eng:"Can the Ethiopian change his skin or the leopard its spots? Neither can you do good who are accustomed to doing evil.",
     Ind:"Dapatkah orang Etiopia mengganti kulitnya atau macan tutul mengubah belangnya? Masakan kamu dapat berbuat baik, hai orang-orang yang membiasakan diri berbuat jahat?"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Itulah nasibmu, bagianmu yang telah Kuukur untukmu, demikianlah firman TUHAN, karena engkau melupakan Aku, dan mempercayai dusta."
   },
   {Bible:"Jeremiah", Chapter:13, Verse:26, Page:1,
-    Kor:"그래서 내가 너의 치마를 얼굴까지 들어 올려서, 너의 수치가 드러나게 하겠다.",
+    Kor:"그래서 내가 너의 치마를 얼굴까지 들어 올려서, 너의 수치가 드러나도록 하겠다.",
     Chn:"所以我要揭起你的衣襟， 蒙在你脸上， 显出你的丑陋。",
     Eng:"I will pull up your skirts over your face that your shame may be seen--",
     Ind:"Akupun juga akan mengangkat ujung kainmu sampai kepada mukamu, sehingga kelihatan auratmu."

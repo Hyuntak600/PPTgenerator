@@ -3,25 +3,25 @@
 BibleDB.ref("Isaiah",20,6);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:20, Verse:1, Page:1,
-    Kor:"<벌거벗은 예언자의 징조> 앗시리아 왕 사르곤이 보낸 다르단 장군이 아스돗으로 와서, 아스돗을 점령하였다.",
+    Kor:"앗시리아 왕 사르곤이 보낸 다르단 장군이 아스돗으로 와서, 아스돗을 점령하였다.",
     Chn:"亚述王撒珥根打发他珥探到亚实突的那年，他珥探就攻打亚实突，将城攻取。",
     Eng:"In the year that the supreme commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it--",
     Ind:"Pada tahun ketika panglima yang dikirim oleh Sargon, raja Asyur, tiba di Asdod lalu memerangi dan merebutnya,"
   },
   {Bible:"Isaiah", Chapter:20, Verse:2, Page:1,
-    Kor:"그 해에 주님께서 아모스의 아들 이사야를 시켜서 말씀하셨다. 주님께서 이사야에게 말씀하시기를, 허리에 두른 베 옷을 벗고, 발에서 신을 벗으라고 하셨다. 그래서 이사야는, 말씀대로, 옷을 벗고 맨발로 다녔다.",
+    Kor:"그 해에, 주께서 아모스의 아들 이사야를 시켜서 말씀하셨다. 주께서 이사야에게 말씀하시기를, 허리에 두른 베 옷을 벗고, 발에서 신을 벗으라고 하셨다. 그래서 이사야는, 말씀대로, 옷을 벗고 맨발로 다녔다.",
     Chn:"那时，耶和华晓谕亚摩斯的儿子以赛亚说：「你去解掉你腰间的麻布，脱下你脚上的鞋。」以赛亚就这样做，露身赤脚行走。",
     Eng:"at that time the LORD spoke through Isaiah son of Amoz. He said to him, \"Take off the sackcloth from your body and the sandals from your feet.\" And he did so, going around stripped and barefoot.",
     Ind:"pada waktu itu berfirmanlah TUHAN melalui Yesaya bin Amos. Firman-Nya: \"Pergilah dan bukalah kain kabung dari pinggangmu dan tanggalkanlah kasut dari kakimu,\" lalu iapun berbuat demikian, maka berjalanlah ia telanjang dan tidak berkasut."
   },
   {Bible:"Isaiah", Chapter:20, Verse:3, Page:1,
-    Kor:"○그 때에 주님께서 말씀하셨다. ○\"나의 종 이사야가 삼 년 동안 벗은 몸과 맨발로 다니면서, 이집트와 에티오피아에게 표징과 징조가 된 것처럼,",
+    Kor:"그 때에 주께서 말씀하셨다. \"나의 종 이사야가 삼 년 동안 벗은 몸과 맨발로 다니면서, 이집트와 에티오피아에게 표징과 징조가 된 것처럼,",
     Chn:"耶和华说：「我仆人以赛亚怎样露身赤脚行走三年，作为关乎埃及和古实的预兆奇迹。",
     Eng:"Then the LORD said, \"Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign and portent against Egypt and Cush,",
     Ind:"Berfirmanlah TUHAN: \"Seperti hamba-Ku Yesaya berjalan telanjang dan tidak berkasut tiga tahun lamanya sebagai tanda dan alamat terhadap Mesir dan terhadap Etiopia,"
   },
   {Bible:"Isaiah", Chapter:20, Verse:4, Page:1,
-    Kor:"앗시리아 왕이, 이집트에서 잡은 포로와 에티오피아에서 잡은 포로를, 젊은이나 늙은이 할 것 없이 모두 벗은 몸과 맨발로 끌고 갈 것이니, 이집트 사람이 수치스럽게도 그들의 엉덩이까지 드러낸 채로 끌려갈 것이다.\"",
+    Kor:"앗시리아 왕이, 이집트에서 잡은 포로와 에티오피아에서 잡은 포로를, 젊은이나 늙은이 할 것 없이, 모두 벗은 몸과 맨발로 끌고 갈 것이니, 이집트 사람이 수치스럽게도, 그들의 엉덩이까지 드러낸 채로 끌려갈 것이다.\"",
     Chn:"照样，亚述王也必掳去埃及人，掠去古实人，无论老少，都露身赤脚，现出下体，使埃及蒙羞。",
     Eng:"so the king of Assyria will lead away stripped and barefoot the Egyptian captives and Cushite exiles, young and old, with buttocks bared--to Egypt's shame.",
     Ind:"demikianlah raja Asyur akan menggiring orang Mesir sebagai tawanan dan orang Etiopia sebagai buangan, tua dan muda, telanjang dan tidak berkasut dengan pantatnya kelihatan, suatu penghinaan bagi Mesir."

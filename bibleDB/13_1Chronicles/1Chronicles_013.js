@@ -3,13 +3,13 @@
 BibleDB.ref("1Chronicles",13,14);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:13, Verse:1, Page:1,
-    Kor:"<언약궤를 옮기다(삼하 6:1-11)> 다윗이 천부장과 백부장과 그 밖의 모든 지도자와 의논하고,",
+    Kor:"다윗이 천부장과 백부장과 그 밖의 모든 지도자와 의논하고,",
     Chn:"大卫与千夫长、百夫长，就是一切首领商议。",
     Eng:"David conferred with each of his officers, the commanders of thousands and commanders of hundreds.",
     Ind:"Daud berunding dengan pemimpin-pemimpin pasukan seribu dan pasukan seratus dan dengan semua pemuka."
   },
   {Bible:"1Chronicles", Chapter:13, Verse:2, Page:1,
-    Kor:"이스라엘 온 회중에게 말하였다. \"여러분이 좋게 여기고 우리 주 하나님께서 기뻐하신다면, 우리가 이스라엘 온 땅에 남아 있는 우리 백성과 또 그들의 목초지에 있는 성읍들에서 그들과 함께 살고 있는 제사장과 레위 사람에게 전갈을 보내어, 그들을 우리에게로 모이게 합시다.",
+    Kor:"이스라엘 온 회중에게 말하였다. \"여러분이 좋게 여기고 우리 주 하나님께서 기뻐하신다면, 우리가 이스라엘 온 땅에 남아 있는 우리 형제와 또 그들의 목초지에 있는 성읍들에서 그들과 함께 살고 있는 제사장과 레위 사람에게 전갈을 보내어, 그들을 우리에게로 모이게 합시다.",
     Chn:"大卫对以色列全会众说：「你们若以为美，见这事是出于耶和华—我们的　神，我们就差遣人走遍以色列地，见我们未来的弟兄，又见住在有郊野之城的祭司利未人，使他们都到这里来聚集。",
     Eng:"He then said to the whole assembly of Israel, \"If it seems good to you and if it is the will of the LORD our God, let us send word far and wide to the rest of our brothers throughout the territories of Israel, and also to the priests and Levites who are with them in their towns and pasturelands, to come and join us.",
     Ind:"Berkatalah Daud kepada seluruh jemaah Israel: \"Jika kamu anggap baik dan jika diperkenankan TUHAN, Allah kita, baiklah kita menyuruh orang kepada saudara-saudara kita yang masih tinggal di daerah-daerah orang Israel, dan di samping itu kepada para imam dan orang-orang Lewi yang ada di kota-kota yang dikelilingi tanah penggembalaan mereka, supaya mereka berkumpul kepada kita."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu Daud mengumpulkan semua orang Israel dari sungai Sikhor di Mesir sampai ke jalan yang menuju Hamat, untuk menjemput tabut Allah dari Kiryat-Yearim."
   },
   {Bible:"1Chronicles", Chapter:13, Verse:6, Page:1,
-    Kor:"다윗과 온 이스라엘이 하나님의 궤를 옮겨 오려고, 바알라 곧 유다의 기럇여아림으로 올라갔다. 그 궤는, 그룹들 위에 앉아 계신 주님의 이름으로 불리는 궤이다.",
+    Kor:"다윗과 온 이스라엘이 하나님의 궤를 옮겨 오려고, 바알라 곧 유다의 기럇여아림으로 올라갔다. 그 궤는, 그룹들 위에 앉아 계신 주의 이름으로 불리는 궤이다.",
     Chn:"大卫率领以色列众人上到巴拉，就是属犹大的基列·耶琳，要从那里将约柜运来。这约柜就是坐在二基路伯上耶和华　神留名的约柜。",
     Eng:"David and all the Israelites with him went to Baalah of Judah (Kiriath Jearim) to bring up from there the ark of God the LORD, who is enthroned between the cherubim--the ark that is called by the Name.",
     Ind:"Lalu Daud dan segenap orang Israel berangkat ke Baala, ke Kiryat-Yearim, yang termasuk wilayah Yehuda, untuk mengangkut dari sana tabut Allah, yang disebut dengan nama TUHAN yang bertakhta di atas kerubim."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Ketika mereka sampai ke tempat pengirikan Kidon, maka Uza mengulurkan tangannya memegang tabut itu, karena lembu-lembu itu tergelincir."
   },
   {Bible:"1Chronicles", Chapter:13, Verse:10, Page:1,
-    Kor:"웃사가 궤를 붙들었으므로, 주님께서 웃사에게 진노하셔서 그를 치시니, 그가 거기 하나님 앞에서 죽었다.",
+    Kor:"웃사가 궤를 붙들었으므로, 주께서 웃사에게 진노하셔서 그를 치시니, 그가 거기 하나님 앞에서 죽었다.",
     Chn:"耶和华向他发怒，因他伸手扶住约柜击杀他，他就死在　神面前。",
     Eng:"The LORD'S anger burned against Uzzah, and he struck him down because he had put his hand on the ark. So he died there before God.",
     Ind:"Maka bangkitlah murka TUHAN terhadap Uza, lalu Ia membunuh dia oleh karena Uza telah mengulurkan tangannya kepada tabut itu; ia mati di sana di hadapan Allah."
   },
   {Bible:"1Chronicles", Chapter:13, Verse:11, Page:1,
-    Kor:"주님께서 그토록 급격하게 웃사를 벌하셨으므로, 다윗이 화를 냈다. 그래서 그 곳 이름을 오늘날까지 a베레스 웃사라고 한다.(a '웃사를 침')",
+    Kor:"주께서 그토록 급격하게 웃사를 벌하셨으므로, 다윗이 화를 냈다. 그래서 그 곳 이름을 오늘날까지 베레스 웃사라고 한다.",
     Chn:"大卫因耶和华击杀乌撒，心里愁烦，就称那地方为毗列斯·乌撒，直到今日。",
     Eng:"Then David was angry because the LORD'S wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah.",
     Ind:"Daud menjadi marah, karena TUHAN telah menyambar Uza demikian hebatnya; maka tempat itu disebut orang Peres-Uza sampai sekarang."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sebab itu Daud tidak mau memindahkan tabut itu ke tempatnya, ke kota Daud, tetapi Daud menyimpang dan membawanya ke rumah Obed-Edom, orang Gat itu."
   },
   {Bible:"1Chronicles", Chapter:13, Verse:14, Page:1,
-    Kor:"그래서 하나님의 궤가 오벳에돔의 집에서 그의 가족과 함께 석 달 동안 머물렀는데, 그 때에 주님께서 오벳에돔의 가족과 그에게 딸린 모든 것 위에 복을 내려 주셨다.",
+    Kor:"그래서 하나님의 궤가 오벳에돔의 집에서 그의 가족과 함께 석 달 동안 머물렀는데, 그 때에 주께서 오벳에돔의 가족과 그에게 딸린 모든 것 위에 복을 내려 주셨다.",
     Chn:"神的约柜在俄别·以东家中三个月，耶和华赐福给俄别·以东的家和他一切所有的。",
     Eng:"The ark of God remained with the family of Obed-Edom in his house for three months, and the LORD blessed his household and everything he had.",
     Ind:"Tiga bulan lamanya tabut Allah itu tinggal pada keluarga Obed-Edom di rumahnya dan TUHAN memberkati keluarga Obed-Edom dan segala yang dipunyainya."

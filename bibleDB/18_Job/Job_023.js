@@ -3,7 +3,7 @@
 BibleDB.ref("Job",23,17);
 BibleDB.add([
   {Bible:"Job", Chapter:23, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"di utara kucari Dia, Ia tidak tampak, aku berpaling ke selatan, aku tidak melihat Dia."
   },
   {Bible:"Job", Chapter:23, Verse:10, Page:1,
-    Kor:"하나님은 내가 발 한 번 옮기는 것을 다 알고 계실 터이니, 나를 시험해 보시면 내게 흠이 없다는 것을 아실 수 있으련만!",
+    Kor:"하나님은, 내가 발 한 번 옮기는 것을 다 알고 계실 터이니, 나를 시험해 보시면 내게 흠이 없다는 것을 아실 수 있으련만!",
     Chn:"然而他知道我所行的路； 他试炼我之后，我必如精金。",
     Eng:"But he knows the way that I take; when he has tested me, I will come forth as gold.",
     Ind:"Karena Ia tahu jalan hidupku; seandainya Ia menguji aku, aku akan timbul seperti emas."
   },
   {Bible:"Job", Chapter:23, Verse:11, Page:1,
-    Kor:"내 발은 오직 그분의 발자취를 따르며, 하나님이 정하신 길로만 성실하게 걸으며, 길을 벗어나서 방황하지 않았건만!",
+    Kor:"내 발은 오직 그분의 발자취를 따르며, 나는 하나님이 정하신 길로만 성실하게 걸으며, 길을 벗어나서 방황하지 않았건만!",
     Chn:"我脚追随他的步履； 我谨守他的道，并不偏离。",
     Eng:"My feet have closely followed his steps; I have kept to his way without turning aside.",
     Ind:"Kakiku tetap mengikuti jejak-Nya, aku menuruti jalan-Nya dan tidak menyimpang."

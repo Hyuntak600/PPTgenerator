@@ -3,31 +3,31 @@
 BibleDB.ref("Psalms",104,35);
 BibleDB.add([
   {Bible:"Psalms", Chapter:104, Verse:1, Page:1,
-    Kor:"<주님이 피조물을 돌보신다> 내 영혼아, 주님을 찬송하여라. 주, 나의 하나님, 주님은 더없이 위대하십니다. 권위와 위엄을 갖추셨습니다.",
+    Kor:"내 영혼아, 주님을 찬송하여라. 주, 나의 하나님, 주님은 더없이 위대하십니다. 존귀와 권위를 갖추셨습니다.",
     Chn:"我的心哪，你要称颂耶和华！ 耶和华—我的　神啊，你为至大！ 你以尊荣威严为衣服，",
     Eng:"Praise the LORD, O my soul. O LORD my God, you are very great; you are clothed with splendor and majesty.",
     Ind:"Pujilah TUHAN, hai jiwaku! TUHAN, Allahku, Engkau sangat besar! Engkau yang berpakaian keagungan dan semarak,"
   },
   {Bible:"Psalms", Chapter:104, Verse:2, Page:1,
-    Kor:"주님은 빛을 옷처럼 걸치시는 분, 하늘을 천막처럼 펼치신 분,",
+    Kor:"빛으로 휘감으셨습니다. 옷감을 펼치듯이 하늘을 펼치시고,",
     Chn:"披上亮光，如披外袍， 铺张穹苍，如铺幔子，",
     Eng:"He wraps himself in light as with a garment; he stretches out the heavens like a tent",
     Ind:"yang berselimutkan terang seperti kain, yang membentangkan langit seperti tenda,"
   },
   {Bible:"Psalms", Chapter:104, Verse:3, Page:1,
-    Kor:"물 위에 누각의 들보를 놓으신 분, 구름으로 병거를 삼으시며, 바람 날개를 타고 다니시는 분,",
+    Kor:"물 위에 누각의 들보를 놓으시고, 구름으로 병거를 삼으시며, 바람 날개를 타고 다니십니다.",
     Chn:"在水中立楼阁的栋梁， 用云彩为车辇， 借着风的翅膀而行，",
     Eng:"and lays the beams of his upper chambers on their waters. He makes the clouds his chariot and rides on the wings of the wind.",
     Ind:"yang mendirikan kamar-kamar loteng-Mu di air, yang menjadikan awan-awan sebagai kendaraan-Mu, yang bergerak di atas sayap angin,"
   },
   {Bible:"Psalms", Chapter:104, Verse:4, Page:1,
-    Kor:"바람을 a심부름꾼으로 삼으신 분, 번갯불을 시종으로 삼으신 분이십니다. (a 또는 '천사들')",
+    Kor:"바람을 심부름꾼으로 삼으시고, 번갯불을 시종으로 삼으셨습니다.",
     Chn:"以风为使者， 以火焰为仆役，",
     Eng:"He makes winds his messengers, flames of fire his servants.",
     Ind:"yang membuat angin sebagai suruhan-suruhan-Mu, dan api yang menyala sebagai pelayan-pelayan-Mu,"
   },
   {Bible:"Psalms", Chapter:104, Verse:5, Page:1,
-    Kor:"주님께서는 땅의 기초를 든든히 놓으셔서, 땅이 영원히 흔들리지 않게 하셨습니다.",
+    Kor:"땅의 기초를 든든히 놓으셔서, 땅이 영원히 흔들리지 않게 하셨습니다.",
     Chn:"将地立在根基上， 使地永不动摇。",
     Eng:"He set the earth on its foundations; it can never be moved.",
     Ind:"yang telah mendasarkan bumi di atas tumpuannya, sehingga takkan goyang untuk seterusnya dan selamanya."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Dengan samudera raya Engkau telah menyelubunginya; air telah naik melampaui gunung-gunung."
   },
   {Bible:"Psalms", Chapter:104, Verse:7, Page:1,
-    Kor:"그러나 주님께서 한 번 꾸짖으시니 물이 도망 치고, 주님의 천둥소리에 물이 서둘러서 물러갑니다.",
+    Kor:"그러나 주께서 한 번 꾸짖으시니 물이 도망 치고, 주의 천둥소리에 물이 서둘러서 물러갑니다.",
     Chn:"你的斥责一发，水便奔逃； 你的雷声一发，水便奔流。",
     Eng:"But at your rebuke the waters fled, at the sound of your thunder they took to flight;",
     Ind:"Terhadap hardik-Mu air itu melarikan diri, lari kebingungan terhadap suara guntur-Mu,"
   },
   {Bible:"Psalms", Chapter:104, Verse:8, Page:1,
-    Kor:"물은 산을 넘고, 골짜기를 타고 내려가서, 주님께서 정하여 주신 그 자리로 흘러갑니다.",
+    Kor:"물은 산을 넘고, 골짜기를 타고 내려가서, 주께서 정하여 주신 그 자리로 흘러갑니다.",
     Chn:"诸山升上，诸谷沉下， 归你为它所安定之地。",
     Eng:"they flowed over the mountains, they went down into the valleys, to the place you assigned for them.",
     Ind:"naik gunung, turun lembah ke tempat yang Kautetapkan bagi mereka."
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"di dekatnya diam burung-burung di udara, bersiul dari antara daun-daunan."
   },
   {Bible:"Psalms", Chapter:104, Verse:13, Page:1,
-    Kor:"누각 높은 곳에서 산에 물을 대주시니, 이 땅은 주님께서 내신 열매로 만족합니다.",
+    Kor:"누각 높은 곳에서 산에 물을 대주시니, 이 땅은 주께서 내신 열매로 만족합니다.",
     Chn:"他从楼阁中浇灌山岭； 因他作为的功效，地就丰足。",
     Eng:"He waters the mountains from his upper chambers; the earth is satisfied by the fruit of his work.",
     Ind:"Engkau yang memberi minum gunung-gunung dari kamar-kamar loteng-Mu, bumi kenyang dari buah pekerjaan-Mu."
   },
   {Bible:"Psalms", Chapter:104, Verse:14, Page:1,
-    Kor:"주님은, 들짐승들이 뜯을 풀이 자라게 하시고, 사람들이 밭갈이로 채소를 얻게 하시고, 땅에서 먹거리를 얻게 하셨습니다.",
+    Kor:"주님은, 들짐승들이 뜯을 풀이 자라게 하시고, 사람들이 밭갈이로 채소를 얻게 하시고, 땅에서 먹을거리를 얻게 하셨습니다.",
     Chn:"他使草生长，给六畜吃， 使菜蔬发长，供给人用， 使人从地里能得食物，",
     Eng:"He makes grass grow for the cattle, and plants for man to cultivate--bringing forth food from the earth:",
     Ind:"Engkau yang menumbuhkan rumput bagi hewan dan tumbuh-tumbuhan untuk diusahakan manusia, yang mengeluarkan makanan dari dalam tanah"
   },
   {Bible:"Psalms", Chapter:104, Verse:15, Page:1,
-    Kor:"사람의 마음을 즐겁게 하는 포도주를 주시고, 얼굴에 윤기가 나게 하는 기름을 주시고, 사람의 힘을 북돋아 주는 먹거리도 주셨습니다.",
+    Kor:"사람의 마음을 즐겁게 하는 포도주를 주시고, 얼굴에 윤기가 나게 하는 기름을 주시고, 사람의 생명을 든든하게 해주는 먹을거리도 주셨습니다.",
     Chn:"又得酒能悦人心， 得油能润人面， 得粮能养人心。",
     Eng:"wine that gladdens the heart of man, oil to make his face shine, and bread that sustains his heart.",
     Ind:"dan anggur yang menyukakan hati manusia, yang membuat muka berseri karena minyak, dan makanan yang menyegarkan hati manusia."
   },
   {Bible:"Psalms", Chapter:104, Verse:16, Page:1,
-    Kor:"주님께서 심으신 나무들과 레바논의 백향목들이 물을 양껏 마시니,",
+    Kor:"주께서 심으신 나무들과 레바논의 백향목들이 물을 양껏 마시니,",
     Chn:"佳美的树木，就是黎巴嫩的香柏树， 是耶和华所栽种的，都满了汁浆。",
     Eng:"The trees of the LORD are well watered, the cedars of Lebanon that he planted.",
     Ind:"Kenyang pohon-pohon TUHAN, pohon-pohon aras di Libanon yang ditanam-Nya,"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Engkau yang telah membuat bulan menjadi penentu waktu, matahari yang tahu akan saat terbenamnya."
   },
   {Bible:"Psalms", Chapter:104, Verse:20, Page:1,
-    Kor:"주님께서 어둠을 드리우시니, 밤이 됩니다. 숲 속의 모든 짐승은 이 때부터 움직입니다.",
+    Kor:"주께서 어둠을 드리우시니, 밤이 됩니다. 숲 속의 모든 짐승은 이 때부터 움직입니다.",
     Chn:"你造黑暗为夜， 林中的百兽就都爬出来。",
     Eng:"You bring darkness, it becomes night, and all the beasts of the forest prowl.",
     Ind:"Apabila Engkau mendatangkan gelap, maka haripun malamlah; ketika itulah bergerak segala binatang hutan."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"manusiapun keluarlah ke pekerjaannya, dan ke usahanya sampai petang."
   },
   {Bible:"Psalms", Chapter:104, Verse:24, Page:1,
-    Kor:"주님, 주님께서 손수 만드신 것이 어찌 이리도 많습니까? 이 모든 것을 주님께서 지혜로 만드셨으니, 땅에는 주님이 지으신 것으로 가득합니다.",
+    Kor:"주님, 주께서 손수 만드신 것이, 어찌 이리도 많습니까? 이 모든 것을 주께서 지혜로 만드셨으니, 땅에는 주님이 지으신 것으로 가득합니다.",
     Chn:"耶和华啊，你所造的何其多！ 都是你用智慧造成的； 遍地满了你的丰富。",
     Eng:"How many are your works, O LORD! In wisdom you made them all; the earth is full of your creatures.",
     Ind:"Betapa banyak perbuatan-Mu, ya TUHAN, sekaliannya Kaujadikan dengan kebijaksanaan, bumi penuh dengan ciptaan-Mu."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Lihatlah laut itu, besar dan luas wilayahnya, di situ bergerak, tidak terbilang banyaknya, binatang-binatang yang kecil dan besar."
   },
   {Bible:"Psalms", Chapter:104, Verse:26, Page:1,
-    Kor:"물 위로는 배들도 오가며, 주님이 지으신 b리워야단도 그 속에서 놉니다. (b 큰 바다 괴물)",
+    Kor:"물 위로는 배들도 오가며, 주님이 지으신 리워야단도 그 속에서 놉니다.",
     Chn:"那里有船行走， 有你所造的鳄鱼游泳在其中。",
     Eng:"There the ships go to and fro, and the leviathan, which you formed to frolic there.",
     Ind:"Di situ kapal-kapal berlayar dan Lewiatan yang telah Kaubentuk untuk bermain dengannya."
@@ -165,25 +165,25 @@ BibleDB.add([
     Ind:"Semuanya menantikan Engkau, supaya diberikan makanan pada waktunya."
   },
   {Bible:"Psalms", Chapter:104, Verse:28, Page:1,
-    Kor:"주님께서 그들에게 먹이를 주시면, 그들은 받아 먹고, 주님께서 손을 펴 먹을 것을 주시면 그들은 만족해 합니다.",
+    Kor:"주께서 그들에게 먹이를 주시면, 그들은 받아 먹고, 주께서 공급하여 주시면 그들은 좋은 것으로 배를 불립니다.",
     Chn:"你给它们，它们便拾起来； 你张手，它们饱得美食。",
     Eng:"When you give it to them, they gather it up; when you open your hand, they are satisfied with good things.",
     Ind:"Apabila Engkau memberikannya, mereka memungutnya; apabila Engkau membuka tangan-Mu, mereka kenyang oleh kebaikan."
   },
   {Bible:"Psalms", Chapter:104, Verse:29, Page:1,
-    Kor:"그러나 주님께서 얼굴을 숨기시면 그들은 떨면서 두려워하고, 주님께서 호흡을 거두어들이시면 그들은 죽어서 본래의 흙으로 돌아갑니다.",
+    Kor:"그러나 주께서 얼굴을 숨기시면 그들은 떨면서 두려워하고, 주께서 호흡을 거두어들이시면 그들은 죽어서 본래의 흙으로 돌아갑니다.",
     Chn:"你掩面，它们便惊惶； 你收回它们的气，它们就死亡，归于尘土。",
     Eng:"When you hide your face, they are terrified; when you take away their breath, they die and return to the dust.",
     Ind:"Apabila Engkau menyembunyikan wajah-Mu, mereka terkejut; apabila Engkau mengambil roh mereka, mereka mati binasa dan kembali menjadi debu."
   },
   {Bible:"Psalms", Chapter:104, Verse:30, Page:1,
-    Kor:"주님께서 c주님의 영을 불어넣으시면, 그들이 다시 창조됩니다. 주님께서는 땅의 모습을 다시 새롭게 하십니다. (c 또는 '주님의 숨')",
+    Kor:"주께서 주의 영을 불어넣으시면, 그들이 다시 창조됩니다. 주께서는 땅의 모습을 다시 새롭게 하십니다.",
     Chn:"你发出你的灵，它们便受造； 你使地面更换为新。",
     Eng:"When you send your Spirit, they are created, and you renew the face of the earth.",
     Ind:"Apabila Engkau mengirim roh-Mu, mereka tercipta, dan Engkau membaharui muka bumi."
   },
   {Bible:"Psalms", Chapter:104, Verse:31, Page:1,
-    Kor:"주님의 영광은 영원하여라. 주님은 친히 행하신 일로 기뻐하신다.",
+    Kor:"주의 영광은 영원하다. 주님은 친히 행하신 일로 기뻐하신다.",
     Chn:"愿耶和华的荣耀存到永远！ 愿耶和华喜悦自己所造的！",
     Eng:"May the glory of the LORD endure forever; may the LORD rejoice in his works--",
     Ind:"Biarlah kemuliaan TUHAN tetap untuk selama-lamanya, biarlah TUHAN bersukacita karena perbuatan-perbuatan-Nya!"
@@ -195,19 +195,19 @@ BibleDB.add([
     Ind:"Dia yang memandang bumi sehingga bergentar, yang menyentuh gunung-gunung sehingga berasap."
   },
   {Bible:"Psalms", Chapter:104, Verse:33, Page:1,
-    Kor:"내가 살아 있는 동안, 나는 주님을 노래할 것이다. 숨을 거두는 그 때까지 나의 하나님께 노래할 것이다.",
+    Kor:"내가 살아 있는 동안, 나는 주님을 노래할 것이다. 숨을 거두는 그 때까지 시를 읊어서, 하나님을 노래할 것이다.",
     Chn:"我要一生向耶和华唱诗！ 我还活的时候，要向我　神歌颂！",
     Eng:"I will sing to the LORD all my life; I will sing praise to my God as long as I live.",
     Ind:"Aku hendak menyanyi bagi TUHAN selama aku hidup, aku hendak bermazmur bagi Allahku selagi aku ada."
   },
   {Bible:"Psalms", Chapter:104, Verse:34, Page:1,
-    Kor:"내 묵상을 주님이 기꺼이 받아 주시면 좋으련만! 그러면 나는 주님의 품 안에서 즐겁기만 할 것이다.",
+    Kor:"내 기도를 주님이 기꺼이 받아 주시면 좋으련만! 그러면 나는 주의 품 안에서 즐겁기만 할 것이다.",
     Chn:"愿他以我的默念为甘甜！ 我要因耶和华欢喜！",
     Eng:"May my meditation be pleasing to him, as I rejoice in the LORD.",
     Ind:"Biarlah renunganku manis kedengaran kepada-Nya! Aku hendak bersukacita karena TUHAN."
   },
   {Bible:"Psalms", Chapter:104, Verse:35, Page:1,
-    Kor:"죄인들아, 이 땅에서 사라져라. 악인들아, 너희도 영원히 사라져라. 내 영혼아, 주님을 찬송하여라. d할렐루야. (d 또는 '주님을 찬송하여라'. 칠십인역은 여기에서부터 105편이 시작 됨)",
+    Kor:"죄인들아, 이 땅에서 사라져라. 악인들아, 너희도 영원히 사라져라. 내 영혼아, 주님을 찬송하여라. 할렐루야.",
     Chn:"愿罪人从世上消灭！ 愿恶人归于无有！ 我的心哪，要称颂耶和华！ 你们要赞美耶和华！",
     Eng:"But may sinners vanish from the earth and the wicked be no more. Praise the LORD, O my soul. Praise the LORD.",
     Ind:"Biarlah habis orang-orang berdosa dari bumi, dan biarlah orang-orang fasik tidak ada lagi! Pujilah TUHAN, hai jiwaku! Haleluya!"

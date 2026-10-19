@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",15,9);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:15, Verse:1, Page:1,
-    Kor:"<하나님께서 모압을 치실 것이다> 이것은 모압을 두고 내리신 엄한 경고의 말씀이다.  알이 망하는 그 밤에 모압이 망한다. 길이 망하는 그 밤에 모압이 망한다.",
+    Kor:"이것은 모압을 두고 내리신 엄한 경고의 말씀이다. 알이 망하는 그 밤에 모압이 망한다. 길이 망하는 그 밤에 모압이 망한다.",
     Chn:"论摩押的默示： 一夜之间，摩押的亚珥变为荒废， 归于无有； 一夜之间，摩押的基珥变为荒废， 归于无有。",
     Eng:"An oracle concerning Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is ruined, destroyed in a night!",
     Ind:"Ucapan ilahi tentang Moab. Sungguh, dalam suatu malam Ar-Moab sudah dirusakkan, dibinasakan; sungguh, dalam suatu malam Kir-Moab sudah dirusakkan, dibinasakan!"
   },
   {Bible:"Isaiah", Chapter:15, Verse:2, Page:1,
-    Kor:"바잇과 디본 사람들이 산당에 올라가 통곡하고, 모압 사람들이 느보와 메드바의 멸망을 보고 통곡한다. 모두 머리를 밀고, 수염을 깎는다.",
+    Kor:"바잇과 디본 사람들이 산당에 올라가 통곡하고 모압 사람들이 느보와 메드바의 멸망을 보고 통곡한다. 모두 머리를 밀고, 수염을 깎는다.",
     Chn:"他们上巴益，又往底本， 到高处去哭泣。 摩押人因尼波和米底巴哀号， 各人头上光秃， 胡须剃净。",
     Eng:"Dibon goes up to its temple, to its high places to weep; Moab wails over Nebo and Medeba. Every head is shaved and every beard cut off.",
     Ind:"Puteri Dibon naik ke bukit-bukit pengorbanan untuk menangis; Moab meratap karena Nebo dan karena Medeba. Di situ semua orang menggundul kepalanya dan memotong janggutnya sebagai tanda berkabung."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Sungguh, teriak itu akan kedengaran di seluruh daerah Moab, ratapnya terdengar sampai ke Eglaim, bahkan sampai ke Beer-Elim."
   },
   {Bible:"Isaiah", Chapter:15, Verse:9, Page:1,
-    Kor:"a디몬의 물이 피로 변하였다. \"내가 또 다른 재앙 하나를 더 내리겠다. 모압에서 도피한 자들과 그 땅의 남은 자들에게 사자를 보내어서, 그들을 찢게 하겠다.\" (a 마소라 본문을 따름. 사해 사본과 몇몇 칠십인역 사본과 불가타에는 '디본')",
+    Kor:"디몬의 물이 피로 변하였다. \"내가 또 다른 재앙 하나를 더 내리겠다. 모압에서 도피한 자들과 그 땅의 남은 자들에게 사자를 보내어서, 그들을 찢게 하겠다.\"",
     Chn:"底们的水充满了血； 我还要加增底们的灾难， 叫狮子来追上摩押逃脱的民 和那地上所余剩的人。",
     Eng:"Dimon's waters are full of blood, but I will bring still more upon Dimon--a lion upon the fugitives of Moab and upon those who remain in the land.",
     Ind:"Sungguh, air Dibon telah penuh dengan darah, tetapi yang menimpa Dibon akan Kutambah lagi, yaitu singa akan menerkam orang-orang yang terluput dari Moab dan yang tersisa di tanah itu."

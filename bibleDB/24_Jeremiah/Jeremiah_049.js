@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",49,39);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:49, Verse:1, Page:1,
-    Kor:"<암몬 심판의 예언> 이것은 암몬 백성을 두고 하신 주님의 말씀이다.  \"나 주가 말한다. 이스라엘은 자식도 두지 못하고, 상속자도 두지 못하였느냐? 어찌하여 a몰렉 신이 갓을 차지하고, 몰렉의 백성이 갓의 성읍들에서 자리잡고 사느냐? (a 또는 '그들의 왕이'. 히, '말감')",
+    Kor:"이것은 암몬 백성을 두고 하신 주님의 말씀이다. \"나 주가 이렇게 말한다. 이스라엘은 자식도 두지 못하고, 상속자도 두지 못하였느냐? 어찌하여 몰렉 신이 갓을 차지하고, 몰렉의 백성이 갓의 성읍들에서 자리잡고 사느냐?",
     Chn:"论亚扪人。耶和华如此说： 以色列没有儿子吗？ 没有后嗣吗？ 玛勒堪为何得迦得之地为业呢？ 属他的民为何住其中的城邑呢？",
     Eng:"Concerning the Ammonites: This is what the LORD says: \"Has Israel no sons? Has she no heirs? Why then has Molech taken possession of Gad? Why do his people live in its towns?",
     Ind:"Mengenai bani Amon. Beginilah firman TUHAN: \"Tidak adakah anak Israel, tidak adakah ahli warisnya? Mengapakah dewa Milkom memiliki Gad, dan bangsanya mendiami kota-kotanya?"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Sebab itu, sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan memperdengarkan tempik sorak peperangan terhadap Raba bani Amon. Kota itu akan menjadi anak bukit yang tandus, dan kota-kota jajahannya akan dibakar dengan api; maka Israel akan memiliki orang-orang yang dahulu memilikinya, firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:3, Page:1,
-    Kor:"\"아이 성이 멸망하였으니, 헤스본아, 통곡하여라. 랍바의 딸들아, 울부짖어라. 굵은 베 옷을 몸에 걸치고 애곡하여라. 이리 뛰고 저리 뛰며 몸부림 쳐라. 너희의 신 a몰렉이 포로로 끌려가고, 몰렉을 섬기던 제사장들과 고관들도 다 함께 포로로 끌려갈 것이다.\" (a 또는 '그들의 왕이'. 히, '말감')",
+    Kor:"\"아이 성이 멸망하였으니, 헤스본아, 통곡하여라. 랍바의 딸들아, 울부짖어라. 굵은 베 옷을 몸에 걸치고 애곡하여라. 이리 뛰고 저리 뛰며 몸부림 쳐라. 너희의 신 몰렉이 포로로 끌려가고, 몰렉을 섬기던 제사장들과 고관들도 다 함께 포로로 끌려갈 것이다.\"",
     Chn:"希实本哪，你要哀号， 因为爱地变为荒场。 拉巴的居民哪，要呼喊， 以麻布束腰； 要哭号，在篱笆中跑来跑去； 因玛勒堪和属他的祭司、 首领要一同被掳去。",
     Eng:"\"Wail, O Heshbon, for Ai is destroyed! Cry out, O inhabitants of Rabbah! Put on sackcloth and mourn; rush here and there inside the walls, for Molech will go into exile, together with his priests and officials.",
     Ind:"Merataplah, hai Hesybon, sebab pembinasa telah maju menyerbu, berteriaklah, hai puteri-puteri Raba, kenakanlah kain kabung, berkabunglah, berjalan kelilinglah dengan luka toreh-torehan, sebab Milkom akan pergi ke dalam pembuangan bersama-sama dengan para imam dan pemuka-pemukanya."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Sesungguhnya, Aku mendatangkan kekejutan atasmu demikianlah firman Tuhan ALLAH semesta alam, dari segala tempat di sekitarmu, sehingga kamu bersorak-sorak, masing-masing ke arahnya sendiri, dan tidak ada yang mengumpulkan orang-orang yang mengembara itu."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:6, Page:1,
-    Kor:"그러나 그렇게 한 뒤에는, 내가 사로잡혀 간 암몬의 포로를 돌아오게 하겠다. 나 주의 말이다.\"",
+    Kor:"○그러나 그렇게 한 뒤에는, 내가 사로잡혀 간 암몬의 포로를 돌아오게 하겠다. 나 주의 말이다.\"",
     Chn:"后来我还要使被掳的亚扪人归回。 这是耶和华说的。",
     Eng:"\"Yet afterward, I will restore the fortunes of the Ammonites,\" declares the LORD.",
     Ind:"Tetapi sesudah itu Aku akan memulihkan keadaan bani Amon itu, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:49, Verse:7, Page:1,
-    Kor:"<에돔 심판의 예언> ○ 이것은 에돔을 두고 하신 주님의 말씀이다. \"나 만군의 주가 말한다. 이제 데만에 더 이상 지혜가 없느냐? 명철한 사람들에게서 좋은 생각이 다 사라져 버렸느냐? 그들의 슬기가 끝이 났느냐?",
+    Kor:"이것은 에돔을 두고 하신 말씀이다. \"나 만군의 주가 이렇게 말한다. 이제 데만에 더 이상 지혜가 없느냐? 명철한 사람들에게서 좋은 생각이 다 사라져 버렸느냐? 그들의 슬기가 끝이 났느냐?",
     Chn:"论以东。万军之耶和华如此说： 提幔中再没有智慧吗？ 明哲人不再有谋略吗？ 他们的智慧尽归无有吗？",
     Eng:"Concerning Edom: This is what the LORD Almighty says: \"Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?",
     Ind:"Mengenai Edom. Beginilah firman TUHAN semesta alam: \"Tidak adakah lagi kebijaksanaan di Teman? Sudah hilangkah pertimbangan dari orang-orang yang berakal budi, sudah busukkah kebijaksanaan mereka?"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sebab Aku telah bersumpah demi diri-Ku, demikianlah firman TUHAN, bahwa Bozra akan menjadi ketandusan, cela, keruntuhan dan kutuk, dan segala kotanya akan menjadi reruntuhan yang kekal.\""
   },
   {Bible:"Jeremiah", Chapter:49, Verse:14, Page:1,
-    Kor:"주님께서 세계 만민에게 특사를 파견하시면서 하시는 말씀을 내가 들었다. '너희는 모여서 에돔으로 몰려가서 그를 쳐라. 너희는 일어나서 싸워라' 하셨다.",
+    Kor:"주께서 세계 만민에게 특사를 파견하시면서 하시는 말씀을 내가 들었다. '너희는 모여서 에돔으로 몰려가서 그를 쳐라. 너희는 일어나서 싸워라' 하셨다.",
     Chn:"我从耶和华那里听见信息， 并有使者被差往列国去，说： 你们聚集来攻击以东， 要起来争战。",
     Eng:"I have heard a message from the LORD: An envoy was sent to the nations to say, \"Assemble yourselves to attack it! Rise up for battle!\"",
     Ind:"Suatu kabar telah kudengar dari TUHAN, seorang utusan telah disuruh ke tengah-tengah bangsa-bangsa: \"Berkumpullah, pergilah menyerangnya, bersiaplah untuk bertempur!"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Sikapmu yang menggemetarkan orang memperdayakan engkau, dan keangkuhan hatimu, ya engkau yang tinggal di liang-liang batu, yang menduduki tempat tinggi bukit! Sekalipun engkau membuat sarangmu tinggi seperti burung rajawali, Aku akan menurunkan engkau dari sana, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:17, Page:1,
-    Kor:"\"에돔이 참혹하게 파괴되어, 그 곳을 지나는 사람마다 그 곳에 내린 모든 재앙을 보고 놀라며, 비웃을 것이다.",
+    Kor:"○\"에돔이 참혹하게 파괴되어, 그 곳을 지나는 사람마다 그 곳에 내린 모든 재앙을 보고 놀라며, 비웃을 것이다.",
     Chn:"「以东必令人惊骇；凡经过的人就受惊骇，又因她一切的灾祸嗤笑。",
     Eng:"\"Edom will become an object of horror; all who pass by will be appalled and will scoff because of all its wounds.",
     Ind:"Edom akan menjadi ketandusan; setiap orang yang melewatinya akan merasa ngeri dan bersuit karena segala pukulan yang dideritanya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Sebab itu dengarlah putusan yang telah diambil TUHAN terhadap Edom dan rancangan-rancangan yang telah dibuat-Nya terhadap penduduk Teman: Bahwa sesungguhnya, yang paling lemahpun di antara kawanan domba akan diseret. Bahwa sesungguhnya, padang rumput mereka sendiri akan merasa ngeri terhadap mereka."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:21, Page:1,
-    Kor:"에돔이 쓰러지는 소리가 땅을 흔들고, 그들의 울부짖는 소리가 b홍해에까지 들릴 것이다. (b 히, '얌 쑤프')",
+    Kor:"에돔이 쓰러지는 소리가 땅을 흔들고, 그들의 울부짖는 소리가 홍해에까지 들릴 것이다.",
     Chn:"因他们仆倒的声音，地就震动。人在红海那里必听见呼喊的声音。",
     Eng:"At the sound of their fall the earth will tremble; their cry will resound to the Red Sea.",
     Ind:"Bumi akan goncang karena bunyi jatuhnya mereka; teriakan mereka akan terdengar bunyinya di Laut Teberau."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, ia naik terbang seperti burung rajawali, melayang dan mengembangkan sayapnya ke atas Bozra. Hati para pahlawan Edom pada waktu itu akan seperti hati perempuan yang sakit beranak.\""
   },
   {Bible:"Jeremiah", Chapter:49, Verse:23, Page:1,
-    Kor:"<다마스쿠스 심판의 예언> 이것은 다마스쿠스를 두고 하신 주님의 말씀이다. \"하맛과 아르밧이 불길한 소식을 듣고, 어쩔 줄 몰라 한다. 그들이 낙담하였고, 걱정이 파도처럼 몰아치니, 평안을 잃었다.",
+    Kor:"이것은 다마스쿠스를 두고 하신 주님의 말씀이다. \"하맛과 아르밧이 불길한 소식을 듣고, 어쩔 줄 몰라 한다. 그들이 낙담하였고, 걱정이 파도처럼 몰아치니, 평안을 잃었다.",
     Chn:"论大马士革。 哈马和亚珥拔蒙羞， 因他们听见凶恶的信息就消化了。 海上有忧愁，不得平静。",
     Eng:"Concerning Damascus: \"Hamath and Arpad are dismayed, for they have heard bad news. They are disheartened, troubled like the restless sea.",
     Ind:"Mengenai Damsyik. \"Hamat dan Arpad telah menjadi malu, sebab mereka mendengar kabar buruk; hati mereka gemetar karena kecemasan, tidak dapat menjadi tenang."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Aku akan menyalakan api di tembok Damsyik, yang menghanguskan puri Benhadad.\""
   },
   {Bible:"Jeremiah", Chapter:49, Verse:28, Page:1,
-    Kor:"<게달과 하솔 심판의 예언> ○바빌로니아 왕 느부갓네살이 멸망시킨 게달과 하솔 왕국을 두고, 주님께서 하신 말씀이다.  \"나 주가 말한다. 너희는 일어나 게달로 쳐올라가서, 저 동방의 백성을 멸망시켜라.",
+    Kor:"○바빌로니아 왕 느부갓네살이 멸망시킨 게달과 하솔 왕국을 두고, 주께서 하신 말씀이다. \"나 주가 이렇게 말한다. 너희는 일어나 게달로 쳐올라가서, 저 동방의 백성을 멸망시켜라.",
     Chn:"论巴比伦王尼布甲尼撒所攻打的基达和夏琐的诸国。耶和华如此说： 迦勒底人哪，起来上基达去， 毁灭东方人。",
     Eng:"Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked: This is what the LORD says: \"Arise, and attack Kedar and destroy the people of the East.",
     Ind:"Mengenai Kedar dan mengenai kerajaan-kerajaan Hazor yang dipukul kalah oleh Nebukadnezar, raja Babel. Beginilah firman TUHAN: \"Bersiaplah, majulah melawan Kedar, binasakanlah orang-orang di sebelah timur!"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Bersiaplah, majulah melawan bangsa yang hidup sentosa, yang diam dengan aman tenteram, demikianlah firman TUHAN, dan yang tidak punya pintu gerbang atau palang, dan yang tinggal tersendiri!"
   },
   {Bible:"Jeremiah", Chapter:49, Verse:32, Page:1,
-    Kor:"\"그들의 낙타 떼가 노략을 당하고, 가축 떼가 전리품이 될 것이다. c관자놀이의 머리카락을 짧게 깎고 사는 이 백성을, 내가 사방으로 흩어 버리겠다. 나 주의 말이다.\" (c 또는 '먼 곳에서 사는')",
+    Kor:"\"그들의 낙타 떼가 노략을 당하고, 가축 떼가 전리품이 될 것이다. 관자놀이의 머리카락을 짧게 깎고 사는 이 백성을, 내가 사방으로 흩어 버리겠다. 나 주의 말이다.\"",
     Chn:"他们的骆驼必成为掠物； 他们众多的牲畜必成为掳物。 我必将剃周围头发的人分散四方， 使灾殃从四围临到他们。 这是耶和华说的。",
     Eng:"Their camels will become plunder, and their large herds will be booty. I will scatter to the winds those who are in distant places and will bring disaster on them from every side,\" declares the LORD.",
     Ind:"Unta-unta mereka akan menjadi jarahan, dan ternak mereka yang banyak itu menjadi rampasan! Aku akan menyerakkan ke segala mata angin mereka yang berpotong tepi rambutnya berkeliling, dan dari segala penjuru Aku akan mendatangkan bencana atas mereka, demikianlah firman TUHAN."
@@ -201,25 +201,25 @@ BibleDB.add([
     Ind:"Hazor akan menjadi tempat persembunyian bagi serigala, menjadi tempat tandus sampai selama-lamanya; seorangpun tidak akan diam lagi di sana dan seorang manusiapun tidak akan tinggal lagi di dalamnya.\""
   },
   {Bible:"Jeremiah", Chapter:49, Verse:34, Page:1,
-    Kor:"<엘람 심판의 예언> ○이것은 시드기야가 유다 왕이 되어 다스리기 시작할 무렵에, 엘람을 두고 주님께서 예언자 예레미야에게 하신 말씀이다.",
+    Kor:"○이것은 시드기야가 유다 왕이 되어 다스리기 시작할 무렵에, 엘람을 두고, 주께서 예언자 예레미야에게 하신 말씀이다.",
     Chn:"犹大王西底家登基的时候，耶和华论以拦的话临到先知耶利米说：",
     Eng:"This is the word of the LORD that came to Jeremiah the prophet concerning Elam, early in the reign of Zedekiah king of Judah:",
     Ind:"Firman TUHAN yang datang kepada nabi Yeremia mengenai Elam, pada permulaan pemerintahan Zedekia, raja Yehuda:"
   },
   {Bible:"Jeremiah", Chapter:49, Verse:35, Page:1,
-    Kor:"\"나 만군의 주가 말한다. 엘람의 주력 무기인 활을 꺾어 버리겠다.",
+    Kor:"○\"나 만군의 주가 말한다. 내가 엘람의 주력 무기인 활을 꺾어 버리겠다.",
     Chn:"「万军之耶和华如此说：我必折断以拦人的弓，就是他们为首的权力。",
     Eng:"This is what the LORD Almighty says: \"See, I will break the bow of Elam, the mainstay of their might.",
     Ind:"Beginilah firman TUHAN semesta alam: \"Sesungguhnya, Aku mematahkan busur Elam, yakni inti kekuatannya."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:36, Page:1,
-    Kor:"하늘의 네 끝에서 나온 사방의 바람을 엘람으로 몰아다가, 그들을 사방으로 흩어 버리겠다. 그러면 엘람에서 쫓겨난 사람들이 여러 나라로 유배되어 갈 것이다.",
+    Kor:"나는 하늘의 네 끝에서 나온 사방의 바람을 엘람으로 몰아다가, 그들을 사방으로 흩어 버리겠다. 그러면 엘람에서 쫓겨난 사람들이 여러 나라로 유배되어 갈 것이다.",
     Chn:"我要使四风从天的四方刮来，临到以拦人，将他们分散四方。这被赶散的人没有一国不到的。」",
     Eng:"I will bring against Elam the four winds from the four quarters of the heavens; I will scatter them to the four winds, and there will not be a nation where Elam's exiles do not go.",
     Ind:"Aku akan mendatangkan atas Elam keempat angin dari keempat penjuru langit dan akan menyerakkan mereka ke segala mata angin ini, sehingga tidak ada bangsa yang tidak kedatangan orang-orang yang berserakan dari Elam."
   },
   {Bible:"Jeremiah", Chapter:49, Verse:37, Page:1,
-    Kor:"나는 엘람 사람들을, 그들의 원수들, 곧 그들의 목숨을 노리는 자들 앞에서 두려워 떨게 하겠다. 내가 이렇게 타오르는 분노로 그들에게 재앙을 내리고, 군대를 보내어서 그들을 뒤쫓게 하겠다. 나 주의 말이다.",
+    Kor:"나는 엘람 사람들을, 그들의 원수들, 곧 그들의 목숨을 노리는 자들 앞에서 두려워 떨도록 하겠다. 내가 이렇게 타오르는 분노로 그들에게 재앙을 내리고, 군대를 보내어서 그들을 뒤쫓게 하겠다. 나 주의 말이다.",
     Chn:"耶和华说：「我必使以拦人在仇敌和寻索其命的人面前惊惶；我也必使灾祸，就是我的烈怒临到他们，又必使刀剑追杀他们，直到将他们灭尽。",
     Eng:"I will shatter Elam before their foes, before those who seek their lives; I will bring disaster upon them, even my fierce anger,\" declares the LORD. \"I will pursue them with the sword until I have made an end of them.",
     Ind:"Aku akan membuat Elam terkejut di depan para musuhnya dan di depan orang-orang yang berusaha mencabut nyawanya. Aku akan mendatangkan atasnya malapetaka, yakni murka-Ku yang menyala-nyala, demikianlah firman TUHAN. Aku akan menyuruh pedang mengejar mereka sampai mereka Kuhabiskan."

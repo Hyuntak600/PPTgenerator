@@ -3,25 +3,25 @@
 BibleDB.ref("Romans",11,36);
 BibleDB.add([
   {Bible:"Romans", Chapter:11, Verse:1, Page:1,
-    Kor:"<이스라엘의 남은 사람> 그러면 내가 묻습니다. 하나님께서 자기 백성을 버리신 것은 아닙니까? 그럴 수 없습니다. 나도 이스라엘 사람이요, 아브라함의 후손이요, 베냐민 지파에 속한 사람입니다.",
+    Kor:"그러면 내가 묻습니다. 하나님께서 자기 백성을 버리신 것은 아닙니까? 그럴 수 없습니다. 나도 이스라엘 사람이요, 아브라함의 자손이요, 베냐민 지파에 속한 사람입니다.",
     Chn:"我且说，　神弃绝了他的百姓吗？断乎没有！因为我也是以色列人，亚伯拉罕的后裔，属便雅悯支派的。",
     Eng:"I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.",
     Ind:"Maka aku bertanya: Adakah Allah mungkin telah menolak umat-Nya? Sekali-kali tidak! Karena aku sendiripun orang Israel, dari keturunan Abraham, dari suku Benyamin."
   },
   {Bible:"Romans", Chapter:11, Verse:2, Page:1,
-    Kor:"하나님께서는 미리 아신 자기 백성을 버리지 않으셨습니다. 여러분은 성경이 엘리야를 두고 하신 말씀을 알지 못합니까? 그가 이스라엘을 고발하여, 하나님께 이렇게 호소하였습니다.",
+    Kor:"하나님께서는 미리 아신 자기 백성을 버리지 않으셨습니다. 여러분은 성경이 엘리야를 두고 하신 말씀을 알지 못합니까? 그가 이스라엘을 걸어서, 하나님께 이렇게 호소하였습니다.",
     Chn:"神并没有弃绝他预先所知道的百姓。你们岂不晓得经上论到以利亚是怎么说的呢？他在　神面前怎样控告以色列人说：",
     Eng:"God did not reject his people, whom he foreknew. Don't you know what the Scripture says in the passage about Elijah--how he appealed to God against Israel:",
     Ind:"Allah tidak menolak umat-Nya yang dipilih-Nya. Ataukah kamu tidak tahu, apa yang dikatakan Kitab Suci tentang Elia, waktu ia mengadukan Israel kepada Allah:"
   },
   {Bible:"Romans", Chapter:11, Verse:3, Page:1,
-    Kor:"a\"주님, 그들은 주님의 예언자들을 죽이고, 주님의 제단들을 헐어 버렸습니다. 남은 것은 나 혼자밖에 없는데, 그들은 내 목숨마저 찾고 있습니다.\"(a 왕상 19:10, 14)",
+    Kor:"\"주님, 그들은 주님의 예언자들을 죽이고, 주님의 제단들을 헐어 버렸습니다. 이제는 나 혼자만이 남아 있는데, 그들은 내 목숨마저 찾고 있습니다.\"",
     Chn:"「主啊，他们杀了你的先知，拆了你的祭坛，只剩下我一个人；他们还要寻索我的命。」",
     Eng:"\"Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me\"?",
     Ind:"\"Tuhan, nabi-nabi-Mu telah mereka bunuh, mezbah-mezbah-Mu telah mereka runtuhkan; hanya aku seorang dirilah yang masih hidup dan mereka ingin mencabut nyawaku.\""
   },
   {Bible:"Romans", Chapter:11, Verse:4, Page:1,
-    Kor:"그런데 하나님께서는 그에게 어떻게 대답하셨습니까? b\"내가, 바알에게 무릎을 꿇지 않은 사람 칠천 명을 내 앞에 남겨 두었다\" 하셨습니다.(b 왕상 19:18)",
+    Kor:"그런데 하나님께서는 그에게 어떻게 대답하셨습니까? \"내가, 바알에게 무릎을 꿇지 않은 사람 칠천 명을 내 앞에 남겨 두었다\" 하셨습니다.",
     Chn:"神的回话是怎么说的呢？他说：「我为自己留下七千人，是未曾向巴力屈膝的。」",
     Eng:"And what was God's answer to him? \"I have reserved for myself seven thousand who have not bowed the knee to Baal.\"",
     Ind:"Tetapi bagaimanakah firman Allah kepadanya? \"Aku masih meninggalkan tujuh ribu orang bagi-Ku, yang tidak pernah sujud menyembah Baal.\""
@@ -33,37 +33,37 @@ BibleDB.add([
     Ind:"Demikian juga pada waktu ini ada tinggal suatu sisa, menurut pilihan kasih karunia."
   },
   {Bible:"Romans", Chapter:11, Verse:6, Page:1,
-    Kor:"은혜로 된 것이면, 행위에 근거한 것이 아닙니다. 그렇지 않으면, 그 은혜는 이미 은혜가 아닙니다.c(c 다른 고대 사본들에는 다음 내용이 더 첨가되어 있음. '그러나 행위로 된 것이면, 은혜에 근거한 것이 아닙니다. 그렇지 않으면, 그 행위는 이미 행위가 아닙니다')",
+    Kor:"은혜로 된 것이면, 행위에 근거한 것이 아닙니다. 그렇지 않으면, 그 은혜는 이미 은혜가 아닙니다.",
     Chn:"既是出于恩典，就不在乎行为；不然，恩典就不是恩典了。",
     Eng:"And if by grace, then it is no longer by works; if it were, grace would no longer be grace.",
     Ind:"Tetapi jika hal itu terjadi karena kasih karunia, maka bukan lagi karena perbuatan, sebab jika tidak demikian, maka kasih karunia itu bukan lagi kasih karunia."
   },
   {Bible:"Romans", Chapter:11, Verse:7, Page:1,
-    Kor:"그러면 무슨 결과가 생겼습니까? 이스라엘 백성은 찾던 것을 얻지 못하였지만, 택하심을 받은 사람들은 그것을 얻었습니다. 그리고 그 나머지 사람들은 완고해졌습니다.",
+    Kor:"○그러면 무슨 결과가 생겼습니까? 이스라엘 백성은, 그들이 찾던 것을 얻지 못하였지만, 택하심을 받은 사람들만은 얻었습니다. 그리고 그 나머지 사람들은 완고해졌습니다.",
     Chn:"这是怎么样呢？以色列人所求的，他们没有得着。惟有蒙拣选的人得着了；其余的就成了顽梗不化的。",
     Eng:"What then? What Israel sought so earnestly it did not obtain, but the elect did. The others were hardened,",
     Ind:"Jadi bagaimana? Israel tidak memperoleh apa yang dikejarnya, tetapi orang-orang yang terpilih telah memperolehnya. Dan orang-orang yang lain telah tegar hatinya,"
   },
   {Bible:"Romans", Chapter:11, Verse:8, Page:1,
-    Kor:"성경에 이렇게 기록한 바와 같습니다.  d\"하나님께서 그들에게는 혼미한 영을 주셨으니, 오늘까지 그들은, 눈이 있어도 보지 못하고 귀가 있어도 듣지 못한다.\" (d 신 29:4; 사 29:10)",
+    Kor:"성경에 이렇게 기록된 바와 같습니다. \"하나님께서 그들에게는 혼미한 영을 주셨으니, 오늘까지 그들은, 눈이 있어도 보지 못하고 귀가 있어도 듣지 못한다.\"",
     Chn:"如经上所记： 　神给他们昏迷的心， 眼睛不能看见， 耳朵不能听见， 直到今日。",
     Eng:"as it is written: \"God gave them a spirit of stupor, eyes so that they could not see and ears so that they could not hear, to this very day.\"",
     Ind:"seperti ada tertulis: \"Allah membuat mereka tidur nyenyak, memberikan mata untuk tidak melihat dan telinga untuk tidak mendengar, sampai kepada hari sekarang ini.\""
   },
   {Bible:"Romans", Chapter:11, Verse:9, Page:1,
-    Kor:"다윗도 다음과 같이 말하였습니다.  e\"그들의 밥상이 그들에게 올무가 되고 덫이 되게 하여 주십시오. 그들이 걸려 넘어지고, 보복을 받게 하여 주십시오. (e 시 69:22, 23(칠십인역))",
+    Kor:"다윗도 다음과 같이 말하였습니다. \"그들의 밥상은 그들에게, 올무가 되고 덫이 되어라. 그들은 걸려 넘어지고, 보복을 받아라.",
     Chn:"大卫也说： 愿他们的筵席变为网罗，变为机槛， 变为绊脚石，作他们的报应。",
     Eng:"And David says: \"May their table become a snare and a trap, a stumbling block and a retribution for them.",
     Ind:"Dan Daud berkata: \"Biarlah jamuan mereka menjadi jerat dan perangkap, penyesatan dan pembalasan bagi mereka."
   },
   {Bible:"Romans", Chapter:11, Verse:10, Page:1,
-    Kor:"그들의 눈이 어두워져서 보지 못하게 되도록 하여 주십시오. 그들의 등이 언제나 굽어 있게 하여 주십시오.\"",
+    Kor:"그들의 눈은 어두워져서 보지 못하게 되어라. 그들의 등은 언제나 굽어 있어라.\"",
     Chn:"愿他们的眼睛昏蒙，不得看见； 愿你时常弯下他们的腰。",
     Eng:"May their eyes be darkened so they cannot see, and their backs be bent forever.\"",
     Ind:"Dan biarlah mata mereka menjadi gelap, sehingga mereka tidak melihat, dan buatlah punggung mereka terus-menerus membungkuk.\""
   },
   {Bible:"Romans", Chapter:11, Verse:11, Page:1,
-    Kor:"<이방 사람의 구원> ○그러면 내가 묻습니다. 이스라엘이 걸려 넘어져서 완전히 쓰러져 망하게끔 되었습니까? 그럴 수 없습니다. 그들의 허물 때문에 구원이 이방 사람에게 이르렀는데, 이것은 이스라엘에게 질투하는 마음이 일어나게 하려는 것입니다.",
+    Kor:"○그러면 내가 묻습니다. 이스라엘이 걸려 넘어져서 완전히 쓰러져 망하게끔 되었습니까? 그럴 수 없습니다. 그들의 허물 때문에 구원이 이방 사람에게 이르렀는데, 이것은 이스라엘로 하여금 질투하는 마음을 불러일으키게 하려는 것입니다.",
     Chn:"我且说，他们失脚是要他们跌倒吗？断乎不是！反倒因他们的过失，救恩便临到外邦人，要激动他们发愤。",
     Eng:"Again I ask: Did they stumble so as to fall beyond recovery? Not at all! Rather, because of their transgression, salvation has come to the Gentiles to make Israel envious.",
     Ind:"Maka aku bertanya: Adakah mereka tersandung dan harus jatuh? Sekali-kali tidak! Tetapi oleh pelanggaran mereka, keselamatan telah sampai kepada bangsa-bangsa lain, supaya membuat mereka cemburu."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Aku berkata kepada kamu, hai bangsa-bangsa bukan Yahudi. Justru karena aku adalah rasul untuk bangsa-bangsa bukan Yahudi, aku menganggap hal itu kemuliaan pelayananku,"
   },
   {Bible:"Romans", Chapter:11, Verse:14, Page:1,
-    Kor:"나는 아무쪼록, f내 동족에게 질투심을 일으켜서, 그 가운데서 몇 사람만이라도 구원하고 싶습니다.(f 그, '내 혈육')",
+    Kor:"나는 아무쪼록, 내 동족에게 질투심을 일으켜서, 그 가운데서 몇 사람만이라도 구원하고 싶습니다.",
     Chn:"或者可以激动我骨肉之亲发愤，好救他们一些人。",
     Eng:"in the hope that I may somehow arouse my own people to envy and save some of them.",
     Ind:"yaitu kalau-kalau aku dapat membangkitkan cemburu di dalam hati kaum sebangsaku menurut daging dan dapat menyelamatkan beberapa orang dari mereka."
   },
   {Bible:"Romans", Chapter:11, Verse:15, Page:1,
-    Kor:"하나님께서 그들을 버리심이 세상과의 화해를 이루는 것이라면, 그들을 받아들이심은 죽은 사람들 가운데서 살아나는 삶을 주심이 아니고 무엇이겠습니까?",
+    Kor:"하나님께서 그들을 버리심이 세상과의 화해를 이루는 것이라면, 그들을 받아들이심은 죽은 사람들 가운데서 다시 살아나는 삶을 주심이 아니고 무엇이겠습니까?",
     Chn:"若他们被丢弃，天下就得与　神和好，他们被收纳，岂不是死而复生吗？",
     Eng:"For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?",
     Ind:"Sebab jika penolakan mereka berarti perdamaian bagi dunia, dapatkah penerimaan mereka mempunyai arti lain dari pada hidup dari antara orang mati?"
@@ -99,25 +99,25 @@ BibleDB.add([
     Ind:"Jikalau roti sulung adalah kudus, maka seluruh adonan juga kudus, dan jikalau akar adalah kudus, maka cabang-cabang juga kudus."
   },
   {Bible:"Romans", Chapter:11, Verse:17, Page:1,
-    Kor:"○그런데 참올리브 나무 가지들 가운데서 얼마를 잘라 내시고서, 그 자리에다 돌올리브 나무인 g그대를 접붙여 주셨기 때문에, g그대가 참올리브 나무의 뿌리에서 올라오는 양분을 함께 받게 된 것이면,(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"○그런데 참올리브 나무 가지들 가운데서 얼마를 잘라 내고서, 그 자리에다 돌올리브 나무를 접붙였다면, 그 접붙인 가지들은 참올리브 나무의 뿌리에서 올라오는 양분을 함께 받게 됩니다.",
     Chn:"若有几根枝子被折下来，你这野橄榄得接在其中，一同得着橄榄根的肥汁，",
     Eng:"If some of the branches have been broken off, and you, though a wild olive shoot, have been grafted in among the others and now share in the nourishing sap from the olive root,",
     Ind:"Karena itu apabila beberapa cabang telah dipatahkan dan kamu sebagai tunas liar telah dicangkokkan di antaranya dan turut mendapat bagian dalam akar pohon zaitun yang penuh getah,"
   },
   {Bible:"Romans", Chapter:11, Verse:18, Page:1,
-    Kor:"g그대는 본래의 가지들을 향하여 우쭐대지 말아야 합니다. 비록 g그대가 우쭐댈지라도, g그대가 뿌리를 지탱하는 것이 아니라, 뿌리가 g그대를 지탱한다는 것을 명심해야 합니다.(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"여러분 각자는 돌올리브 나무 가지들입니다. 그런 가지는 본래의 가지들을 내려다보면서 우쭐대지 말아야 합니다. 비록 그런 가지가 우쭐댈지라도, 그 가지가 뿌리를 지탱하는 것이 아니라, 뿌리가 그 가지를 지탱한다는 것을 명심해야 합니다.",
     Chn:"你就不可向旧枝子夸口；若是夸口，当知道不是你托着根，乃是根托着你。",
     Eng:"do not boast over those branches. If you do, consider this: You do not support the root, but the root supports you.",
     Ind:"janganlah kamu bermegah terhadap cabang-cabang itu! Jikalau kamu bermegah, ingatlah, bahwa bukan kamu yang menopang akar itu, melainkan akar itu yang menopang kamu."
   },
   {Bible:"Romans", Chapter:11, Verse:19, Page:1,
-    Kor:"그러므로 \"본래의 가지가 잘려 나간 것은, 그 자리에 내가 접붙임을 받게 하시려는 것이었다\" 하고 g그대는 말해야 할 것입니다.(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"여러분 각자는 \"가지가 잘려 나간 것은, 그 자리에 내가 접붙임을 받게 하시려는 것이었다\" 하고 말할 수도 있을 것입니다.",
     Chn:"你若说，那枝子被折下来是特为叫我接上。",
     Eng:"You will say then, \"Branches were broken off so that I could be grafted in.\"",
     Ind:"Mungkin kamu akan berkata: ada cabang-cabang yang dipatahkan, supaya aku dicangkokkan di antaranya sebagai tunas."
   },
   {Bible:"Romans", Chapter:11, Verse:20, Page:1,
-    Kor:"옳습니다. 그 가지들이 잘린 것은 믿지 않은 탓이고, g그대가 그 자리에 붙어 있는 것은 믿었기 때문입니다. 그러니 교만한 마음을 품지 말고, 도리어 두려워하십시오.(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"옳습니다. 그 가지들이 잘린 것은 그들이 믿지 않은 탓이고, 여러분 각자가 그 자리에 붙어 있는 것은 여러분이 믿었기 때문입니다. 그러니 교만한 마음을 품지 말고, 도리어 두려워하십시오.",
     Chn:"不错！他们因为不信，所以被折下来；你因为信，所以立得住；你不可自高，反要惧怕。",
     Eng:"Granted. But they were broken off because of unbelief, and you stand by faith. Do not be arrogant, but be afraid.",
     Ind:"Baiklah! Mereka dipatahkan karena ketidakpercayaan mereka, dan kamu tegak tercacak karena iman. Janganlah kamu sombong, tetapi takutlah!"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Sebab kalau Allah tidak menyayangkan cabang-cabang asli, Ia juga tidak akan menyayangkan kamu."
   },
   {Bible:"Romans", Chapter:11, Verse:22, Page:1,
-    Kor:"그러므로 하나님의 인자하심과 준엄하심을 생각해 보십시오. 하나님은 넘어진 사람들에게는 준엄하십니다. 그러나g그대가 하나님의 인자하심에 머물러 있으면, 하나님이 g그대에게 인자하게 대하실 것입니다. 그렇지 않으면, g그대도 잘릴 것입니다.(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"그러므로 하나님의 인자하심과 준엄하심을 생각해 보십시오. 넘어진 사람들에게는 준엄하시지만, 하나님의 인자하심에 머물러 있으면, 하나님의 인자하심이 그에게 머물러 있을 것입니다. 그렇지 않으면, 그런 사람도 잘릴 것입니다.",
     Chn:"可见，　神的恩慈和严厉向那跌倒的人是严厉的，向你是有恩慈的，只要你长久在他的恩慈里；不然，你也要被砍下来。",
     Eng:"Consider therefore the kindness and sternness of God: sternness to those who fell, but kindness to you, provided that you continue in his kindness. Otherwise, you also will be cut off.",
     Ind:"Sebab itu perhatikanlah kemurahan Allah dan juga kekerasan-Nya, yaitu kekerasan atas orang-orang yang telah jatuh, tetapi atas kamu kemurahan-Nya, yaitu jika kamu tetap dalam kemurahan-Nya; jika tidak, kamupun akan dipotong juga."
@@ -141,49 +141,49 @@ BibleDB.add([
     Ind:"Tetapi merekapun akan dicangkokkan kembali, jika mereka tidak tetap dalam ketidakpercayaan mereka, sebab Allah berkuasa untuk mencangkokkan mereka kembali."
   },
   {Bible:"Romans", Chapter:11, Verse:24, Page:1,
-    Kor:"g그대가 본래의 돌올리브 나무에서 잘려서, 그 본성을 거슬러 참올리브 나무에 접붙임을 받았다면, 본래 붙어 있던 이 가지들이 제 나무에 다시 접붙임을 받는 것이야 얼마나 더 쉬운 일이겠습니까?(g 실제 인물이 아니라 가상의 논쟁 상대를 가리키는 말)",
+    Kor:"여러분 각자가 본래의 돌올리브 나무에서 잘려서, 그 본성을 거슬러 참올리브 나무에 접붙임을 받았다면, 본래 붙어 있던 이 가지들이 제 나무에 다시 접붙임을 받는 것이야 얼마나 더 쉬운 일이겠습니까?",
     Chn:"你是从那天生的野橄榄上砍下来的，尚且逆着性得接在好橄榄上，何况这本树的枝子，要接在本树上呢！",
     Eng:"After all, if you were cut out of an olive tree that is wild by nature, and contrary to nature were grafted into a cultivated olive tree, how much more readily will these, the natural branches, be grafted into their own olive tree!",
     Ind:"Sebab jika kamu telah dipotong sebagai cabang dari pohon zaitun liar, dan bertentangan dengan keadaanmu itu kamu telah dicangkokkan pada pohon zaitun sejati, terlebih lagi mereka ini, yang menurut asal mereka akan dicangkokkan pada pohon zaitun mereka sendiri."
   },
   {Bible:"Romans", Chapter:11, Verse:25, Page:1,
-    Kor:"<이스라엘의 회복> ○h형제자매 여러분, 나는 여러분이 이 신비한 비밀을 알기를 바랍니다. 그것은 여러분이 스스로 현명하다고 생각하는 일이 없게 하려는 것입니다. 그 비밀은 이러합니다. 이방 사람의 수가 다 찰 때까지 이스라엘 사람들 가운데서 일부가 완고해진 대로 있으리라는 것과,(h 그, '형제들')",
+    Kor:"○형제자매 여러분, 나는 여러분이 이 신비한 비밀을 알기를 바랍니다. 그것은 여러분이 스스로 현명하다고 생각하는 일이 없게 하려는 것입니다. 그 비밀은 이러합니다. 이방 사람의 수가 다 찰 때까지, 이스라엘 사람들 가운데서 일부가 완고해진 대로 있으리라는 것과",
     Chn:"弟兄们，我不愿意你们不知道这奥秘（恐怕你们自以为聪明），就是以色列人有几分是硬心的，等到外邦人的数目添满了，",
     Eng:"I do not want you to be ignorant of this mystery, brothers, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in.",
     Ind:"Sebab, saudara-saudara, supaya kamu jangan menganggap dirimu pandai, aku mau agar kamu mengetahui rahasia ini: Sebagian dari Israel telah menjadi tegar sampai jumlah yang penuh dari bangsa-bangsa lain telah masuk."
   },
   {Bible:"Romans", Chapter:11, Verse:26, Page:1,
-    Kor:"온 이스라엘이 구원을 받게 되리라는 것입니다. 그것은 성경에 이렇게 기록되어 있는 바와 같습니다.  i\"구원하시는 분이 시온에서 오실 것이니, 야곱에게서 경건하지 못함을 제거하실 것이다. (i 사 59:20, 21; 27:9(칠십인역))",
+    Kor:"이렇게 하여 온 이스라엘이 구원을 받게 되리라는 것입니다. 그것은 성경에 이렇게 기록되어 있는 바와 같습니다. \"구원하시는 분이 시온에서 오실 것이니, 야곱에게서 경건하지 못함을 제거하실 것이다.",
     Chn:"于是以色列全家都要得救。如经上所记： 必有一位救主从锡安出来， 要消除雅各家的一切罪恶；",
     Eng:"And so all Israel will be saved, as it is written: \"The deliverer will come from Zion; he will turn godlessness away from Jacob.",
     Ind:"Dengan jalan demikian seluruh Israel akan diselamatkan, seperti ada tertulis: \"Dari Sion akan datang Penebus, Ia akan menyingkirkan segala kefasikan dari pada Yakub."
   },
   {Bible:"Romans", Chapter:11, Verse:27, Page:1,
-    Kor:"이것은 그들과 나 사이의 언약이니, 내가 그들의 죄를 없앨 때에 이루어질 것이다.\"",
+    Kor:"이것은 그들과 나 사이의 언약이니, 내가 그들의 죄를 없앨 때에 이룰 것이다.\"",
     Chn:"又说：我除去他们罪的时候， 这就是我与他们所立的约。",
     Eng:"And this is my covenant with them when I take away their sins.\"",
     Ind:"Dan inilah perjanjian-Ku dengan mereka, apabila Aku menghapuskan dosa mereka.\""
   },
   {Bible:"Romans", Chapter:11, Verse:28, Page:1,
-    Kor:"복음의 관점에서 판단하면, 이스라엘 사람들은 여러분이 잘 되라고 j하나님의 원수가 되었지만, 택하심을 받았다는 관점에서 판단하면, 그들은 조상 덕분에 하나님의 사랑을 받는 사람들입니다.(j 그, '원수가 되었지만')",
+    Kor:"복음을 따라 판단하면, 이스라엘 사람들은 여러분이 잘 되라고 하나님의 원수가 되었지만, 택하심을 받은 것을 따라 판단하면, 이스라엘 사람들은 조상 덕분에 하나님의 사랑을 받는 사람들입니다.",
     Chn:"就着福音说，他们为你们的缘故是仇敌；就着拣选说，他们为列祖的缘故是蒙爱的。",
     Eng:"As far as the gospel is concerned, they are enemies on your account; but as far as election is concerned, they are loved on account of the patriarchs,",
     Ind:"Mengenai Injil mereka adalah seteru Allah oleh karena kamu, tetapi mengenai pilihan mereka adalah kekasih Allah oleh karena nenek moyang."
   },
   {Bible:"Romans", Chapter:11, Verse:29, Page:1,
-    Kor:"하나님께서 주시는 고마운 선물과 부르심은 철회되지 않습니다.",
+    Kor:"하나님께서 주시는 은혜의 선물과 부르심은 철회되지 않습니다.",
     Chn:"因为　神的恩赐和选召是没有后悔的。",
     Eng:"for God's gifts and his call are irrevocable.",
     Ind:"Sebab Allah tidak menyesali kasih karunia dan panggilan-Nya."
   },
   {Bible:"Romans", Chapter:11, Verse:30, Page:1,
-    Kor:"전에 하나님께 순종하지 않던 여러분이, 이제 이스라엘 사람의 불순종 때문에 하나님의 자비를 입게 되었습니다.",
+    Kor:"전에 하나님께 순종하지 않았던 여러분이, 이제 이스라엘 사람의 불순종 때문에 하나님의 자비를 입게 되었습니다.",
     Chn:"你们从前不顺服　神，如今因他们的不顺服，你们倒蒙了怜恤。",
     Eng:"Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,",
     Ind:"Sebab sama seperti kamu dahulu tidak taat kepada Allah, tetapi sekarang beroleh kemurahan oleh ketidaktaatan mereka,"
   },
   {Bible:"Romans", Chapter:11, Verse:31, Page:1,
-    Kor:"이와 같이, 지금은 순종하지 않고 있는 이스라엘 사람들도, 여러분이 받은 그 자비를 보고 회개하여, 마침내는 자비하심을 입게 될 것입니다.",
+    Kor:"이와 같이, 지금은 순종하지 않고 있는 이스라엘 사람들도 여러분이 받은 그 자비를 보고 회개하여, 마침내는 자비하심을 입게 될 것입니다.",
     Chn:"这样，他们也是不顺服，叫他们因着施给你们的怜恤，现在也就蒙怜恤。",
     Eng:"so they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you.",
     Ind:"demikian juga mereka sekarang tidak taat, supaya oleh kemurahan yang telah kamu peroleh, mereka juga akan beroleh kemurahan."
@@ -201,19 +201,19 @@ BibleDB.add([
     Ind:"O, alangkah dalamnya kekayaan, hikmat dan pengetahuan Allah! Sungguh tak terselidiki keputusan-keputusan-Nya dan sungguh tak terselami jalan-jalan-Nya!"
   },
   {Bible:"Romans", Chapter:11, Verse:34, Page:1,
-    Kor:"k\"누가 주님의 마음을 알았으며, 누가 주님의 조언자가 되었습니까?\" (k 사 40:13(칠십인역))",
+    Kor:"\"누가 주의 마음을 알았으며, 누가 주의 조언자가 되었습니까?\"",
     Chn:"谁知道主的心？ 谁作过他的谋士呢？",
     Eng:"\"Who has known the mind of the Lord? Or who has been his counselor?\"",
     Ind:"Sebab, siapakah yang mengetahui pikiran Tuhan? Atau siapakah yang pernah menjadi penasihat-Nya?"
   },
   {Bible:"Romans", Chapter:11, Verse:35, Page:1,
-    Kor:"l\"누가 먼저 무엇을 드렸기에 주님의 답례를 바라겠습니까?\" (l 욥 41:11)",
+    Kor:"\"누가 먼저 무엇을 드렸기에 주의 답례를 바라겠습니까?\"",
     Chn:"谁是先给了他， 使他后来偿还呢？",
     Eng:"\"Who has ever given to God, that God should repay him?\"",
     Ind:"Atau siapakah yang pernah memberikan sesuatu kepada-Nya, sehingga Ia harus menggantikannya?"
   },
   {Bible:"Romans", Chapter:11, Verse:36, Page:1,
-    Kor:"만물이 그에게서 나고, 그로 말미암아 있고, 그를 위하여 있습니다. 그에게 영광이 세세에 있기를 빕니다. 아멘.",
+    Kor:"만물이 그에게서 나왔고, 그로 말미암아 있고, 그를 위하여 있습니다. 그에게 영광이 세세에 있기를 빕니다. 아멘.",
     Chn:"因为万有都是本于他， 倚靠他，归于他。 愿荣耀归给他，直到永远。阿们！",
     Eng:"For from him and through him and to him are all things. To him be the glory forever! Amen.",
     Ind:"Sebab segala sesuatu adalah dari Dia, dan oleh Dia, dan kepada Dia: Bagi Dialah kemuliaan sampai selama-lamanya!"

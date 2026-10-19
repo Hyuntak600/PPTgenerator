@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",7,28);
 BibleDB.add([
   {Bible:"Ezra", Chapter:7, Verse:1, Page:1,
-    Kor:"<에스라가 예루살렘에 도착하다> 이런 일들이 지나가고 난 다음이다. 페르시아의 아닥사스다 왕이 다스리던 때에, 에스라라는 사람이 있었다. 그의 아버지는 스라야이고, 할아버지는 아사랴이며, 그 윗대는 힐기야요,",
+    Kor:"이런 일들이 지나가고 난 다음이다. 페르시아의 아닥사스다 왕이 다스리던 때에, 에스라라는 사람이 있었다. 그의 아버지는 스라야이고, 할아버지는 아사랴이며, 그 윗대는 힐기야요,",
     Chn:"这事以后，波斯王亚达薛西年间，有个以斯拉，他是西莱雅的儿子，西莱雅是亚撒利雅的儿子，亚撒利雅是希勒家的儿子，",
     Eng:"After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,",
     Ind:"Kemudian dari pada semuanya itu, pada zaman pemerintahan Artahsasta, raja negeri Persia, maka berangkatlah Ezra bin Seraya bin Azarya bin Hilkia"
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Lalu tibalah ia di Yerusalem pada bulan kelima, yakni pada tahun ketujuh zaman raja itu."
   },
   {Bible:"Ezra", Chapter:7, Verse:9, Page:1,
-    Kor:"그가 바빌로니아를 떠난 것은 a첫째 달 초하루이다. 하나님이 그를 잘 보살펴 주셔서, b다섯째 달 초하루에 예루살렘에 닿을 수 있었다.(a '아빕월', 양력 삼월 중순 이후 b '아브월', 양력 칠월 중순 이후)",
+    Kor:"그가 바빌로니아를 떠난 것은 첫째 달 초하루이다. 하나님이 그를 잘 보살펴 주셔서, 다섯째 달 초하루에 예루살렘에 닿을 수 있었다.",
     Chn:"正月初一日，他从巴比伦起程；因他　神施恩的手帮助他，五月初一日就到了耶路撒冷。",
     Eng:"He had begun his journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, for the gracious hand of his God was on him.",
     Ind:"Tepat pada tanggal satu bulan pertama ia memulai perjalanannya pulang dari Babel dan tepat pada tanggal satu bulan kelima ia tiba di Yerusalem, oleh karena tangan murah Allahnya itu melindungi dia."
   },
   {Bible:"Ezra", Chapter:7, Verse:10, Page:1,
-    Kor:"에스라는 주님의 율법을 깊이 연구하고 지켰으며, 또한 이스라엘 사람들에게 율례와 규례를 가르치는 일에 헌신하였다.",
+    Kor:"에스라는 주의 율법을 깊이 연구하고 지켰으며, 또한 이스라엘 사람들에게 율례와 규례를 가르치는 일에 헌신하였다.",
     Chn:"以斯拉定志考究遵行耶和华的律法，又将律例典章教训以色列人。",
     Eng:"For Ezra had devoted himself to the study and observance of the Law of the LORD, and to teaching its decrees and laws in Israel.",
     Ind:"Sebab Ezra telah bertekad untuk meneliti Taurat TUHAN dan melakukannya serta mengajar ketetapan dan peraturan di antara orang Israel."
   },
   {Bible:"Ezra", Chapter:7, Verse:11, Page:1,
-    Kor:"<아닥사스다 왕이 칙령을 내리다> ○에스라는 제사장이면서 학자이며, 이스라엘이 받은 주님의 계명과 율례를 많이 배운 사람이었다. 다음은 아닥사스다 왕이 에스라에게 보낸 칙령을 옮겨 적은 것이다.",
+    Kor:"○에스라는 제사장이면서 학자이며, 이스라엘이 받은 주의 계명과 율례를 많이 배운 사람이었다. 다음은 아닥사스다 왕이 에스라에게 보낸 칙령을 옮겨 적은 것이다.",
     Chn:"祭司以斯拉是通达耶和华诫命和赐以色列之律例的文士。亚达薛西王赐给他们谕旨，上面写着说：",
     Eng:"This is a copy of the letter King Artaxerxes had given to Ezra the priest and teacher, a man learned in matters concerning the commands and decrees of the LORD for Israel:",
     Ind:"Inilah salinan surat, yang diberikan raja Artahsasta kepada Ezra, imam dan ahli kitab itu, yang ahli dalam perkataan segala perintah dan ketetapan TUHAN bagi orang Israel:"
   },
   {Bible:"Ezra", Chapter:7, Verse:12, Page:1,
-    Kor:"○\"c왕 중의 왕 아닥사스다는 하늘의 하나님의 율법에 통달한 학자 에스라 제사장에게 칙령을 내린다.(c 7:12-26은 아람어로 기록됨)",
+    Kor:"○\"왕 중의 왕 아닥사스다는 하늘의 하나님의 율법에 통달한 학자 에스라 제사장에게 칙령을 내린다.",
     Chn:"「诸王之王亚达薛西，达于祭司以斯拉通达天上　神律法大德的文士，云云。",
     Eng:"Artaxerxes, king of kings, To Ezra the priest, a teacher of the Law of the God of heaven: Greetings.",
     Ind:"\"Artahsasta, raja segala raja, kepada Ezra, imam dan ahli Taurat Allah semesta langit, dan selanjutnya. Maka sekarang,"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Setiap orang, yang tidak melakukan hukum Allahmu dan hukum raja, harus dihukum dengan seksama, baik dengan hukuman mati, maupun dengan pembuangan, dengan hukuman denda atau hukuman penjara.\""
   },
   {Bible:"Ezra", Chapter:7, Verse:27, Page:1,
-    Kor:"<에스라가 하나님을 찬양하다> ○주 우리 조상의 하나님을 찬양하여라. 하나님은 왕에게 예루살렘에 있는 주님의 성전을 영화롭게 하려는 마음을 주셨다.",
+    Kor:"○주 우리 조상의 하나님을 찬양하여라. 왕에게 예루살렘에 있는 주의 성전을 영화롭게 하려는 마음을 주신 분이시다.",
     Chn:"以斯拉说：「耶和华—我们列祖的　神是应当称颂的！因他使王起这心意修饰耶路撒冷耶和华的殿，",
     Eng:"Praise be to the LORD, the God of our fathers, who has put it into the king's heart to bring honor to the house of the LORD in Jerusalem in this way",
     Ind:"Terpujilah TUHAN, Allah nenek moyang kita, yang dengan demikian menggerakkan hati raja, sehingga ia menyemarakkan rumah TUHAN yang ada di Yerusalem,"

@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Jadi apabila ia bersalah dalam salah satu perkara itu, haruslah ia mengakui dosa yang telah diperbuatnya itu,"
   },
   {Bible:"Leviticus", Chapter:5, Verse:6, Page:1,
-    Kor:"자기가 저지른 죄에 대한 보상으로, 주에게 속건제물을 바쳐야 한다. 그는 양 떼 가운데서 암컷 한 마리나, 염소 떼 가운데서, 암컷 한 마리를 골라서, 속죄제물로 바쳐야 한다. 제사장이 속죄제물을 바쳐서 그의 죄를 속하여 주면, 그는 용서받는다.",
+    Kor:"자기가 저지른 죄에 대한 보상으로, 주께 속건제물을 바쳐야 한다. 그는 양 떼 가운데서 암컷 한 마리나, 염소 떼 가운데서, 암컷 한 마리를 골라서, 속죄제물로 바쳐야 한다. 제사장이 속죄제물을 바쳐서 그의 죄를 속하여 주면, 그는 용서받는다.",
     Chn:"并要因所犯的罪，把他的赎愆祭牲—就是羊群中的母羊，或是一只羊羔，或是一只山羊—牵到耶和华面前为赎罪祭。至于他的罪，祭司要为他赎了。",
     Eng:"and, as a penalty for the sin he has committed, he must bring to the LORD a female lamb or goat from the flock as a sin offering; and the priest shall make atonement for him for his sin.",
     Ind:"dan haruslah ia mempersembahkan kepada TUHAN sebagai tebusan salah karena dosa itu seekor betina dari domba atau kambing, menjadi korban penghapus dosa. Dengan demikian imam mengadakan pendamaian bagi orang itu karena dosanya."
   },
   {Bible:"Leviticus", Chapter:5, Verse:7, Page:1,
-    Kor:"○그러나 그가 양 한 마리도 바칠 형편이 못될 때에는, 자기가 저지른 죄에 대한 보상으로, 산비둘기 두 마리나 집비둘기 새끼 두 마리를 나 주에게 바치는 제물로 가져다가, 하나는 속죄제물로 바치고 다른 하나는 번제물로 바쳐야 한다.",
+    Kor:"○그러나 그가 양 한 마리도 바칠 형편이 못될 때에는, 제가 저지른 죄에 대한 보상으로, 산비둘기 두 마리나 집비둘기 새끼 두 마리를 주께 드리는 제물로 가져다가, 하나는 속죄제물로 드리고 다른 하나는 번제물로 드려야 한다.",
     Chn:"「他的力量若不够献一只羊羔，就要因所犯的罪，把两只斑鸠或是两只雏鸽带到耶和华面前为赎愆祭：一只作赎罪祭，一只作燔祭。",
     Eng:"\"'If he cannot afford a lamb, he is to bring two doves or two young pigeons to the LORD as a penalty for his sin--one for a sin offering and the other for a burnt offering.",
     Ind:"Tetapi jikalau ia tidak mampu untuk menyediakan kambing atau domba, maka sebagai tebusan salah karena dosa yang telah diperbuatnya itu, haruslah ia mempersembahkan kepada TUHAN dua ekor burung tekukur atau dua ekor anak burung merpati, yang seekor menjadi korban penghapus dosa dan yang seekor lagi menjadi korban bakaran."
@@ -63,31 +63,31 @@ BibleDB.add([
     Ind:"Yang kedua haruslah diolahnya menjadi korban bakaran, sesuai dengan peraturan. Dengan demikian imam mengadakan pendamaian bagi orang itu karena dosa yang telah diperbuatnya, sehingga ia menerima pengampunan."
   },
   {Bible:"Leviticus", Chapter:5, Verse:11, Page:1,
-    Kor:"○그러나 그가 산비둘기 두 마리나 집비둘기 새끼 두 마리조차 바칠 형편이 못될 때에는, 자기가 저지른 죄에 대한 보상으로서, 주에게 바치는 속죄제물로 고운 밀가루 십분의 일 에바를 가져 와서, 제물로 바쳐야 한다. 이것은 속죄제물인 만큼, 밀가루에 기름을 섞거나 향을 얹어서는 안 된다.",
+    Kor:"○그러나 그가 산비둘기 두 마리나 집비둘기 새끼 두 마리조차 바칠 형편이 못될 때에는, 자기가 저지른 죄에 대한 보상으로서, 주께 드리는 속죄제물로 고운 밀가루 십분의 일 에바를 가져 와서, 제물로 드려야 한다. 이것은 속죄제물인 만큼, 밀가루에 기름을 섞거나 향을 얹어서는 안 된다.",
     Chn:"「他的力量若不够献两只斑鸠或是两只雏鸽，就要因所犯的罪带供物来，就是细面伊法十分之一为赎罪祭；不可加上油，也不可加上乳香，因为是赎罪祭。",
     Eng:"\"'If, however, he cannot afford two doves or two young pigeons, he is to bring as an offering for his sin a tenth of an ephah of fine flour for a sin offering. He must not put oil or incense on it, because it is a sin offering.",
     Ind:"Tetapi jikalau ia tidak mampu menyediakan dua ekor burung tekukur atau dua ekor anak burung merpati, maka haruslah ia membawa sebagai persembahannya karena dosanya itu sepersepuluh efa tepung yang terbaik menjadi korban penghapus dosa. Tidak boleh ditaruhnya minyak dan dibubuhnya kemenyan di atasnya, karena itulah korban penghapus dosa."
   },
   {Bible:"Leviticus", Chapter:5, Verse:12, Page:1,
-    Kor:"그가 이렇게 준비해서, 제사장에게 가져 가면, 제사장은 그 제물에서 한 줌을 덜어 내어, 제물로 모두 바치는 정성의 표시로 제단 위, 주에게 살라 바치는 제물 위에 얹어 불살라야 한다. 이것이 속죄제사이다.",
+    Kor:"그가 이렇게 준비해서, 제사장에게 가져 가면, 제사장은 그 제물에서 한 줌을 덜어 내어, 제물로 모두 바치는 정성의 표시로 제단 위, 주께 살라 바치는 제물 위에 얹어 불살라야 한다. 이것이 속죄제사이다.",
     Chn:"他要把供物带到祭司那里，祭司要取出自己的一把来作为纪念，按献给耶和华火祭的条例烧在坛上；这是赎罪祭。",
     Eng:"He is to bring it to the priest, who shall take a handful of it as a memorial portion and burn it on the altar on top of the offerings made to the LORD by fire. It is a sin offering.",
     Ind:"Lalu haruslah itu dibawanya kepada imam dan imam itu haruslah mengambil dari padanya segenggam sebagai bagian ingat-ingatannya, lalu membakarnya di atas mezbah di atas segala korban."
   },
   {Bible:"Leviticus", Chapter:5, Verse:13, Page:1,
-    Kor:"해서는 안 되는 것 가운데서 어느 하나라도 어겨 잘못을 저질렀을 때에, 이렇게 하여 제사장이 그의 죄를 속하여 주면, 그는 용서를 받는다. 나머지 제물은 곡식제물에서처럼 제사장의 몫이 된다.\"",
+    Kor:"해서는 안 되는 것 가운데서 어느 하나라도 어겨 잘못을 저질렀을 때에, 이렇게 하여, 제사장이 그의 죄를 속하여 주면, 그는 용서를 받는다. 나머지 제물은 곡식제물에서처럼 제사장의 몫이 된다.\"",
     Chn:"至于他在这几件事中所犯的罪，祭司要为他赎了，他必蒙赦免。剩下的面都归与祭司，和素祭一样。」",
     Eng:"In this way the priest will make atonement for him for any of these sins he has committed, and he will be forgiven. The rest of the offering will belong to the priest, as in the case of the grain offering.'\"",
     Ind:"Dengan demikian imam mengadakan pendamaian bagi orang itu karena dosanya dalam salah satu perkara itu, sehingga ia menerima pengampunan. Selebihnya adalah bagian imam, sama seperti korban sajian.\""
   },
   {Bible:"Leviticus", Chapter:5, Verse:14, Page:1,
-    Kor:"<속건제에 관한 규례> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:5, Verse:15, Page:1,
-    Kor:"○\"누구든지 주에게 거룩한 제물을 바치는데, 어느 하나라도 성실하지 못하여, 실수로 죄를 저지르면, 그는, 주에게 바칠 속건제물로, 가축 떼에서 흠 없는 숫양 한 마리를 가져 와야 한다. 성소의 세겔 표준을 따르면, 속건제물의 값이 은 몇 세겔이 되는지는, 네가 정하여 주어라.",
+    Kor:"○\"누구든지 주께 거룩한 제물을 바치는데, 어느 하나라도 성실하지 못하여, 실수로 죄를 저지르면, 그는, 주께 바칠 속건제물로, 가축 떼에서 흠 없는 숫양 한 마리를 가져 와야 한다. 성소의 세겔 표준을 따르면, 속건제물의 값이 은 몇 세겔이 되는지는, 네가 정하여 주어라.",
     Chn:"「人若在耶和华的圣物上误犯了罪，有了过犯，就要照你所估的，按圣所的舍客勒拿银子，将赎愆祭牲—就是羊群中一只没有残疾的公绵羊—牵到耶和华面前为赎愆祭；",
     Eng:"\"When a person commits a violation and sins unintentionally in regard to any of the LORD'S holy things, he is to bring to the LORD as a penalty a ram from the flock, one without defect and of the proper value in silver, according to the sanctuary shekel. It is a guilt offering.",
     Ind:"\"Apabila seseorang berubah setia dan tidak sengaja berbuat dosa dalam sesuatu hal kudus yang dipersembahkan kepada TUHAN, maka haruslah ia mempersembahkan kepada TUHAN sebagai tebusan salahnya seekor domba jantan yang tidak bercela dari kambing domba, dinilai menurut syikal perak, yakni menurut syikal kudus, menjadi korban penebus salah."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Hal kudus yang menyebabkan orang itu berdosa, haruslah dibayar gantinya dengan menambah seperlima, lalu menyerahkannya kepada imam. Imam harus mengadakan pendamaian bagi orang itu dengan domba jantan korban penebus salah itu, sehingga ia menerima pengampunan."
   },
   {Bible:"Leviticus", Chapter:5, Verse:17, Page:1,
-    Kor:"○나 주가 하지 말라고 명한 것 가운데서 어떤 것을 하여 잘못을 저질렀으면, 비록 그가 그것이 금지된 것인 줄을 몰랐다고 하더라도, 그에게는 허물이 있다. 그는 자기가 저지른 악행의 결과에 책임을 져야 한다.",
+    Kor:"○주께서 하지 말라고 명한 것 가운데서 어떤 것을 하여 잘못을 저질렀으면, 비록 그가 그것이 금지된 것인 줄을 몰랐다고 하더라도, 그에게는 허물이 있다. 그는 자기가 저지른 악행의 결과에 책임을 져야 한다.",
     Chn:"「若有人犯罪，行了耶和华所吩咐不可行的什么事，他虽然不知道，还是有了罪，就要担当他的罪孽；",
     Eng:"\"If a person sins and does what is forbidden in any of the LORD'S commands, even though he does not know it, he is guilty and will be held responsible.",
     Ind:"Jikalau seseorang berbuat dosa dengan melakukan salah satu hal yang dilarang TUHAN tanpa mengetahuinya, maka ia bersalah dan harus menanggung kesalahannya sendiri."

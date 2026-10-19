@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",45,5);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:45, Verse:1, Page:1,
-    Kor:"<주님께서 바룩에게 구원을 약속하시다> 요시야의 아들 여호야김이 유다 왕이 되어 다스린 지 사 년째가 되던 해에, 예언자 예레미야는 네리야의 아들 바룩에게, 주님께서 하신 말씀을 불러 주어, 책에 받아쓰게 하였다. 그 때에 예언자 예레미야가 바룩에게 말하였다.",
+    Kor:"요시야의 아들 여호야김이 유다 왕이 되어 다스린 지 사년째가 되던 해에, 예언자 예레미야는 네리야의 아들 바룩에게, 주께서 하신 말씀을 불러 주어, 책에 받아쓰게 하였다. 그 때에 예언자 예레미야가 바룩에게 말하였다.",
     Chn:"犹大王约西亚的儿子约雅敬第四年，尼利亚的儿子巴录将先知耶利米口中所说的话写在书上。耶利米说：",
     Eng:"This is what Jeremiah the prophet told Baruch son of Neriah in the fourth year of Jehoiakim son of Josiah king of Judah, after Baruch had written on a scroll the words Jeremiah was then dictating:",
     Ind:"Firman yang disampaikan oleh nabi Yeremia kepada Barukh bin Neria, waktu Barukh dalam tahun keempat pemerintahan Yoyakim bin Yosia, raja Yehuda, menuliskan segala firman tersebut dalam sebuah kitab langsung dari mulut Yeremia:"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"\"Beginilah firman TUHAN, Allah Israel, tentang engkau, hai Barukh!"
   },
   {Bible:"Jeremiah", Chapter:45, Verse:3, Page:1,
-    Kor:"주님께서는 그대가 언젠가 '주님께서 나의 고통에 슬픔을 더하셨으니, 나는 이제 꼼짝없이 죽게 되었구나. 나는 탄식으로 기진하였고, 마음 평안할 일이 없다' 라고 말한 것을 기억하고 계시오.",
+    Kor:"주께서는 그대가 언젠가 '주께서 나의 고통에 슬픔을 더하셨으니, 나는 이제 꼼짝없이 죽게 되었구나. 나는 탄식으로 기진하였고, 마음 평안할 일이 없다' 하신 말씀을 기억하시고,",
     Chn:"巴录曾说：『哀哉！耶和华将忧愁加在我的痛苦上，我因唉哼而困乏，不得安歇。』",
     Eng:"You said, 'Woe to me! The LORD has added sorrow to my pain; I am worn out with groaning and find no rest.'\"",
     Ind:"Oleh karena engkau telah berkata: Celakalah aku, sebab TUHAN telah menambahkan kedukaan kepada penderitaanku! Aku lesu karena keluh kesahku dan aku tidak mendapat ketenangan,"
   },
   {Bible:"Jeremiah", Chapter:45, Verse:4, Page:1,
-    Kor:"주님께서는 나더러, 그대 바룩에게 전하라고 하시면서, 이렇게 말씀하셨소. '나 주가 말한다. 나는, 내가 세운 것을 헐기도 하고, 내가 심은 것을 뽑기도 한다. 온 세상을 내가 이렇게 다스리거늘,",
+    Kor:"주께서는 나더러, 그대 바룩에게 전하라고 하시면서, 이렇게 말씀하셨소. '나 주가 말한다. 나는, 내가 세운 것을 헐기도 하고, 내가 심은 것을 뽑기도 한다. 온 세상을 내가 이렇게 다스리거늘,",
     Chn:"你要这样告诉他，耶和华如此说：我所建立的，我必拆毁；我所栽植的，我必拔出；在全地我都如此行。",
     Eng:"The LORD said, \"Say this to him: 'This is what the LORD says: I will overthrow what I have built and uproot what I have planted, throughout the land.",
     Ind:"maka beginilah firman TUHAN: Sesungguhnya, apa yang Kubangun akan Kuruntuhkan, dan apa yang Kutanam akan Kucabut, bahkan sekalipun seluruh negeri!"

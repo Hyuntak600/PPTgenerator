@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",4,17);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:4, Verse:1, Page:1,
-    Kor:"<예루살렘이 포위될 것을 예고하시다> \"너 사람아, 너는 이제 흙벽돌을 한 장 가져다가 네 앞에 놓고, 한 성읍 곧 예루살렘을 그 위에 새겨라.",
+    Kor:"\"너 사람아, 너는 이제 흙벽돌을 한 장 가져다가 네 앞에 놓고, 한 성읍 곧 예루살렘을 그 위에 새겨라.",
     Chn:"「人子啊，你要拿一块砖，摆在你面前，将一座耶路撒冷城画在其上，",
     Eng:"\"Now, son of man, take a clay tablet, put it in front of you and draw the city of Jerusalem on it.",
     Ind:"\"Engkau, anak manusia, ambillah sebuah batu bata, letakkan di hadapanmu dan ukirlah di atasnya sebuah kota, yaitu Yerusalem."
   },
   {Bible:"Ezekiel", Chapter:4, Verse:2, Page:1,
-    Kor:"그 다음에 그 성읍에 포위망을 쳐라. 그 성읍을 공격하는 높은 사다리를 세우고, 흙 언덕을 쌓고, 진을 치고, 성벽을 부수는 무기를 성 둘레에 설치하여라.",
+    Kor:"그 다음에 그 성읍에 포위망을 쳐라. 그 성읍을 공격하는 높은 사다리를 세우고, 흙 언덕을 쌓고, 진을 치고, 성벽을 허무는 쇠망치를 성 둘레에 설치하여라.",
     Chn:"又围困这城，造台筑垒，安营攻击，在四围安设撞锤攻城，",
     Eng:"Then lay siege to it: Erect siege works against it, build a ramp up to it, set up camps against it and put battering rams around it.",
     Ind:"Ukirlah kota itu dalam keadaan terkepung: dirikan sebuah benteng pengepungan, timbun pula tanah menjadi tembok pengepungan, tempatkan perkemahan tentara dan susun alat-alat pendobrak sekeliling kota itu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu ambillah sebidang besi dan dirikanlah itu di antaramu dengan kota itu menjadi dinding besi, kemudian tujukanlah wajahmu ke arah kota itu, sehingga kota itu dalam keadaan terkepung, dan engkaulah yang mengepung dia. Inilah menjadi lambang bagi kaum Israel."
   },
   {Bible:"Ezekiel", Chapter:4, Verse:4, Page:1,
-    Kor:"○너는 또 왼쪽으로 누워서, 이스라엘 족속의 죄악을 a네 몸에 지고 있거라. 옆으로 누워 있는 날 수만큼, 너는 그들의 죄악을 떠맡아라.(a 또는 '네 옆에')",
+    Kor:"○너는 또 왼쪽으로 누워서, 이스라엘 족속의 죄악을 네 몸에 지고 있거라. 옆으로 누워 있는 날 수만큼, 너는 그들의 죄악을 떠맡아라.",
     Chn:"「你要向左侧卧，承当以色列家的罪孽；要按你向左侧卧的日数，担当他们的罪孽。",
     Eng:"\"Then lie on your left side and put the sin of the house of Israel upon yourself. You are to bear their sin for the number of days you lie on your side.",
     Ind:"Berbaringlah engkau pada sisi kirimu dan Aku akan menanggungkan hukuman kaum Israel atasmu. Berapa hari engkau berbaring demikian, selama itulah engkau menanggung hukuman mereka."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Makanlah roti itu seperti roti jelai yang bundar dan engkau harus membakarnya di atas kotoran manusia yang sudah kering di hadapan mereka.\""
   },
   {Bible:"Ezekiel", Chapter:4, Verse:13, Page:1,
-    Kor:"○주님께서 또 말씀하셨다. ○\"내가 이스라엘 자손을 다른 민족들 속으로 내쫓으면, 그들이 거기에서 이와 같이 더러운 빵을 먹을 것이다.\"",
+    Kor:"○주께서 또 말씀하셨다. \"내가 이스라엘 자손을 다른 민족들 속으로 내쫓으면, 그들이 거기에서 이와 같이 더러운 빵을 먹을 것이다.\"",
     Chn:"耶和华说：「以色列人在我所赶他们到的各国中，也必这样吃不洁净的食物。」",
     Eng:"The LORD said, \"In this way the people of Israel will eat defiled food among the nations where I will drive them.\"",
     Ind:"Selanjutnya TUHAN berfirman: \"Aku akan membuang orang Israel ke tengah-tengah bangsa-bangsa dan demikianlah mereka akan memakan rotinya najis di sana.\""
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Maka kujawab: \"Aduh, Tuhan ALLAH, sesungguhnya, aku tak pernah dinajiskan dan dari masa mudaku sampai sekarang tak pernah kumakan bangkai atau sisa mangsa binatang buas; lagipula tak pernah masuk ke mulutku ini daging yang sudah basi.\""
   },
   {Bible:"Ezekiel", Chapter:4, Verse:15, Page:1,
-    Kor:"○그러자 주님께서 나에게 말씀하셨다. ○\"좋다! 그렇다면, 인분 대신에 쇠똥을 쓰도록 허락해 준다. 너는 쇠똥으로 불을 피워 빵을 구워라.\"",
+    Kor:"○그러자 주께서 나에게 말씀하셨다. \"좋다! 그렇다면, 인분 대신에 쇠똥을 쓰도록 허락해 준다. 너는 쇠똥으로 불을 피워 빵을 구워라.\"",
     Chn:"于是他对我说：「看哪，我给你牛粪代替人粪，你要将你的饼烤在其上。」",
     Eng:"\"Very well,\" he said, \"I will let you bake your bread over cow manure instead of human excrement.\"",
     Ind:"Lalu firman-Nya kepadaku: \"Lihat, kalau begitu Aku mengizinkan engkau memakai kotoran lembu ganti kotoran manusia dan bakarlah rotimu di atasnya.\""
   },
   {Bible:"Ezekiel", Chapter:4, Verse:16, Page:1,
-    Kor:"○주님께서 또 나에게 말씀하셨다. ○\"사람아, 내가 예루살렘에서 사람들이 의지하는 빵을 끊어 버리겠다. 그들이 빵을 달아서 걱정에 싸인 채 먹고, 물을 되어서 벌벌 떨며 마실 것이다.",
+    Kor:"○주께서 또 나에게 말씀하셨다. \"사람아, 내가 예루살렘에서 사람들이 의지하는 빵을 끊어 버리겠다. 그들이 빵을 달아서 걱정에 싸인 채 먹고, 물을 되어서 벌벌 떨며 마실 것이다.",
     Chn:"他又对我说：「人子啊，我必在耶路撒冷折断他们的杖，就是断绝他们的粮。他们吃饼要按分两，忧虑而吃；喝水也要按制子，惊惶而喝；",
     Eng:"He then said to me: \"Son of man, I will cut off the supply of food in Jerusalem. The people will eat rationed food in anxiety and drink rationed water in despair,",
     Ind:"Sesudah itu Ia berfirman kepadaku: \"Hai, anak manusia, sesungguhnya, Aku akan memusnahkan persediaan makanan di Yerusalem--dan mereka akan memakan roti yang tertentu timbangannya dengan hati yang cemas; juga mereka akan meminum air dalam ukuran terbatas dengan hati yang gundah-gulana--"

@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",35,10);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:35, Verse:1, Page:1,
-    Kor:"<거룩한 길> 광야와 메마른 땅이 기뻐하며, 사막이 백합화처럼 피어 즐거워할 것이다.",
+    Kor:"광야와 메마른 땅이 기뻐하며, 사막이 백합화처럼 피어 즐거워할 것이다.",
     Chn:"旷野和干旱之地必然欢喜； 沙漠也必快乐； 又像玫瑰开花，",
     Eng:"The desert and the parched land will be glad; the wilderness will rejoice and blossom. Like the crocus,",
     Ind:"Padang gurun dan padang kering akan bergirang, padang belantara akan bersorak-sorak dan berbunga;"
   },
   {Bible:"Isaiah", Chapter:35, Verse:2, Page:1,
-    Kor:"사막은 꽃이 무성하게 피어, 크게 기뻐하며, 즐겁게 소리 칠 것이다. 레바논의 영광과 갈멜과 샤론의 영화가, 사막에서 꽃 피며, 사람들이 주님의 영광을 보며, 우리 하나님의 영화를 볼 것이다.",
+    Kor:"사막은 꽃이 무성하게 피어, 크게 기뻐하며, 즐겁게 소리 칠 것이다. 레바논의 영광과 갈멜과 샤론의 영화가, 사막에서 꽃 피며, 사람들이 주의 영광을 보며, 우리 하나님의 영화를 볼 것이다.",
     Chn:"必开花繁盛， 乐上加乐，而且欢呼。 黎巴嫩的荣耀， 并迦密与沙 的华美，必赐给它。 人必看见耶和华的荣耀， 我们　神的华美。",
     Eng:"it will burst into bloom; it will rejoice greatly and shout for joy. The glory of Lebanon will be given to it, the splendor of Carmel and Sharon; they will see the glory of the LORD, the splendor of our God.",
     Ind:"seperti bunga mawar ia akan berbunga lebat, akan bersorak-sorak, ya bersorak-sorak dan bersorak-sorai. Kemuliaan Libanon akan diberikan kepadanya, semarak Karmel dan Saron; mereka itu akan melihat kemuliaan TUHAN, semarak Allah kita."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Di situ tidak akan ada singa, binatang buas tidak akan menjalaninya dan tidak akan terdapat di sana; orang-orang yang diselamatkan akan berjalan di situ,"
   },
   {Bible:"Isaiah", Chapter:35, Verse:10, Page:1,
-    Kor:"주님께 속량받은 사람들이 예루살렘으로 돌아올 것이다. 그들이 기뻐 노래하며 시온에 이를 것이다. 기쁨이 그들에게 영원히 머물고, 즐거움과 기쁨이 넘칠 것이니, 슬픔과 탄식이 사라질 것이다.",
+    Kor:"주께 속량받은 사람들이 예루살렘으로 돌아올 것이다. 그들이 기뻐 노래하며 시온에 이를 것이다. 기쁨이 그들에게 영원히 머물고, 즐거움과 기쁨이 넘칠 것이니, 슬픔과 탄식이 사라질 것이다.",
     Chn:"并且耶和华救赎的民必归回， 歌唱来到锡安； 永乐必归到他们的头上； 他们必得着欢喜快乐， 忧愁叹息尽都逃避。",
     Eng:"and the ransomed of the LORD will return. They will enter Zion with singing; everlasting joy will crown their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.",
     Ind:"dan orang-orang yang dibebaskan TUHAN akan pulang dan masuk ke Sion dengan bersorak-sorai, sedang sukacita abadi meliputi mereka; kegirangan dan sukacita akan memenuhi mereka, kedukaan dan keluh kesah akan menjauh."

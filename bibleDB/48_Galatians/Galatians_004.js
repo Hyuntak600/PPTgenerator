@@ -9,49 +9,49 @@ BibleDB.add([
     Ind:"Yang dimaksud ialah: selama seorang ahli waris belum akil balig, sedikitpun ia tidak berbeda dengan seorang hamba, sungguhpun ia adalah tuan dari segala sesuatu;"
   },
   {Bible:"Galatians", Chapter:4, Verse:2, Page:1,
-    Kor:"아버지가 정해 놓은 그 때까지는 보호자와 관리인의 지배 아래에 있습니다.",
+    Kor:"아버지가 정해 놓은 그 때까지는 보호자나 관리인의 지배 아래 있습니다.",
     Chn:"乃在师傅和管家的手下，直等他父亲预定的时候来到。",
     Eng:"He is subject to guardians and trustees until the time set by his father.",
     Ind:"tetapi ia berada di bawah perwalian dan pengawasan sampai pada saat yang telah ditentukan oleh bapanya."
   },
   {Bible:"Galatians", Chapter:4, Verse:3, Page:1,
-    Kor:"이와 같이, 우리도 어릴 때에는, a세상의 유치한 교훈 아래에서 종노릇을 하였습니다.(a 세상의 원소들, 세상의 세력들, 세상의 자연력, 우주의 원소들의 힘, 기초적 원리들, 자연숭배, 원시종교 등등으로도 번역할 수 있음)",
+    Kor:"이와 같이, 우리도 어릴 때에는, 세상의 유치한 교훈 아래서 종노릇을 하였습니다.",
     Chn:"我们为孩童的时候，受管于世俗小学之下，也是如此。",
     Eng:"So also, when we were children, we were in slavery under the basic principles of the world.",
     Ind:"Demikian pula kita: selama kita belum akil balig, kita takluk juga kepada roh-roh dunia."
   },
   {Bible:"Galatians", Chapter:4, Verse:4, Page:1,
-    Kor:"그러나 기한이 찼을 때에, 하나님께서는 자기 아들을 보내셔서, 여자에게서 나게 하시고, 또한 율법 아래에 놓이게 하셨습니다.",
+    Kor:"그러나 기한이 찼을 때에, 하나님께서는 당신의 아들을 보내셔서, 여인에게서 나게 하시고, 또한 율법 아래 놓이게 하셨습니다.",
     Chn:"及至时候满足，　神就差遣他的儿子，为女子所生，且生在律法以下，",
     Eng:"But when the time had fully come, God sent his Son, born of a woman, born under law,",
     Ind:"Tetapi setelah genap waktunya, maka Allah mengutus Anak-Nya, yang lahir dari seorang perempuan dan takluk kepada hukum Taurat."
   },
   {Bible:"Galatians", Chapter:4, Verse:5, Page:1,
-    Kor:"그것은 율법 아래에 있는 사람들을 속량하시고, 우리로 하여금 자녀의 자격을 얻게 하시려는 것이었습니다.",
+    Kor:"그것은 율법 아래 있는 사람들을 속량하시고, 우리로 하여금 자녀의 자격을 얻게 하시려는 것이었습니다.",
     Chn:"要把律法以下的人赎出来，叫我们得着儿子的名分。",
     Eng:"to redeem those under law, that we might receive the full rights of sons.",
     Ind:"Ia diutus untuk menebus mereka, yang takluk kepada hukum Taurat, supaya kita diterima menjadi anak."
   },
   {Bible:"Galatians", Chapter:4, Verse:6, Page:1,
-    Kor:"그런데 여러분은 b자녀이므로, 하나님께서 그 아들의 영을 c우리의 마음에 보내 주셔서 우리가 하나님을 d\"아빠, 아버지\"라고 부를 수 있게 하셨습니다.(b 그, '아들들' c 다른 고대 사본들에는 '여러분의' d '아버지'를 뜻하는 아람어)",
+    Kor:"그리고 또 여러분은 자녀가 되었으므로, 하나님께서 그 아들의 영을 우리의 마음에 보내 주시고 우리가 하나님을 \"아바, 아버지\"라고 부를 수 있게 하셨습니다.",
     Chn:"你们既为儿子，　神就差他儿子的灵进入你们的心，呼叫：「阿爸！父！」",
     Eng:"Because you are sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, \"Abba, Father.\"",
     Ind:"Dan karena kamu adalah anak, maka Allah telah menyuruh Roh Anak-Nya ke dalam hati kita, yang berseru: \"ya Abba, ya Bapa!\""
   },
   {Bible:"Galatians", Chapter:4, Verse:7, Page:1,
-    Kor:"그러므로 여러분 각 사람은 이제 종이 아니라 자녀입니다. e자녀이면, 하나님께서 세워 주신 상속자이기도 합니다.(e 그, '아들')",
+    Kor:"그러므로 여러분 각자는 이제 종이 아니라 자녀입니다. 자녀이면, 하나님께서 세워 주신 상속자입니다.",
     Chn:"可见，从此以后，你不是奴仆，乃是儿子了；既是儿子，就靠着　神为后嗣。",
     Eng:"So you are no longer a slave, but a son; and since you are a son, God has made you also an heir.",
     Ind:"Jadi kamu bukan lagi hamba, melainkan anak; jikalau kamu anak, maka kamu juga adalah ahli-ahli waris, oleh Allah."
   },
   {Bible:"Galatians", Chapter:4, Verse:8, Page:1,
-    Kor:"<바울이 갈라디아 교회를 염려하다> ○그런데 전에는 여러분이 하나님을 알지 못해서, 본디 하나님이 아닌 것들에게 종노릇을 하였지만,",
+    Kor:"○그런데 전에는 여러분이 하나님을 알지 못해서, 본디 하나님이 아닌 것들에게 종노릇을 하였지만,",
     Chn:"但从前你们不认识　神的时候，是给那些本来不是神的作奴仆；",
     Eng:"Formerly, when you did not know God, you were slaves to those who by nature are not gods.",
     Ind:"Dahulu, ketika kamu tidak mengenal Allah, kamu memperhambakan diri kepada allah-allah yang pada hakekatnya bukan Allah."
   },
   {Bible:"Galatians", Chapter:4, Verse:9, Page:1,
-    Kor:"지금은, 여러분이 하나님을 알 뿐만 아니라, 하나님께서 여러분을 알아주셨습니다. 그런데 어찌하여 그 무력하고 천하고 유치한 a교훈으로 되돌아가서, 또다시 그것들에게 종노릇 하려고 합니까?(a 세상의 원소들, 세상의 세력들, 세상의 자연력, 우주의 원소들의 힘, 기초적 원리들, 자연숭배, 원시종교 등등으로도 번역할 수 있음)",
+    Kor:"지금은, 여러분이 하나님을 알 뿐만 아니라, 하나님께서 여러분을 알아 주셨습니다. 그런데 어찌하여 그 무력하고 천하고 유치한 교훈으로 되돌아가서, 또다시 그것들에게 종노릇 하려고 합니까?",
     Chn:"现在你们既然认识　神，更可说是被　神所认识的，怎么还要归回那懦弱无用的小学，情愿再给他作奴仆呢？",
     Eng:"But now that you know God--or rather are known by God--how is it that you are turning back to those weak and miserable principles? Do you wish to be enslaved by them all over again?",
     Ind:"Tetapi sekarang sesudah kamu mengenal Allah, atau lebih baik, sesudah kamu dikenal Allah, bagaimanakah kamu berbalik lagi kepada roh-roh dunia yang lemah dan miskin dan mau mulai memperhambakan diri lagi kepadanya?"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Aku kuatir kalau-kalau susah payahku untuk kamu telah sia-sia."
   },
   {Bible:"Galatians", Chapter:4, Verse:12, Page:1,
-    Kor:"○f형제자매 여러분, 내가 여러분과 같이 되었으니, 여러분도 나와 같이 되기를 바랍니다. 여러분이 내게 해를 입힌 일은 없습니다.(f 그, '형제들')",
+    Kor:"○형제자매 여러분, 내가 여러분과 같이 되었으니, 여러분도 나와 같이 되기를 바랍니다. 여러분이 내게 해를 입힌 일은 없습니다.",
     Chn:"弟兄们，我劝你们要像我一样，因为我也像你们一样。你们一点没有亏负我。",
     Eng:"I plead with you, brothers, become like me, for I became like you. You have done me no wrong.",
     Ind:"Aku minta kepadamu, saudara-saudara, jadilah sama seperti aku, sebab akupun telah menjadi sama seperti kamu. Belum pernah kualami sesuatu yang tidak baik dari padamu."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Sungguhpun demikian keadaan tubuhku itu, yang merupakan pencobaan bagi kamu, namun kamu tidak menganggapnya sebagai sesuatu yang hina dan yang menjijikkan, tetapi kamu telah menyambut aku, sama seperti menyambut seorang malaikat Allah, malahan sama seperti menyambut Kristus Yesus sendiri."
   },
   {Bible:"Galatians", Chapter:4, Verse:15, Page:1,
-    Kor:"그런데 여러분의 그 감격이 지금은 어디에 있습니까? 나는 여러분에게 증언합니다. 여러분은 할 수만 있었다면, 여러분의 눈이라도 빼어서 내게 주었을 것입니다.",
+    Kor:"그런데 여러분의 그 감격이 지금은 어디에 있습니까? 나는 여러분에게 증언합니다. 여러분은 할 수만 있었다면, 여러분의 눈이라도 빼어서, 내게 주었을 것입니다.",
     Chn:"你们当日所夸的福气在哪里呢？那时你们若能行，就是把自己的眼睛剜出来给我，也都情愿。这是我可以给你们作见证的。",
     Eng:"What has happened to all your joy? I can testify that, if you could have done so, you would have torn out your eyes and given them to me.",
     Ind:"Betapa bahagianya kamu pada waktu itu! Dan sekarang, di manakah bahagiamu itu? Karena aku dapat bersaksi tentang kamu, bahwa jika mungkin, kamu telah mencungkil matamu dan memberikannya kepadaku."
   },
   {Bible:"Galatians", Chapter:4, Verse:16, Page:1,
-    Kor:"그런데 내가 여러분에게 진실을 말하기 때문에 여러분의 원수가 되었습니까?",
+    Kor:"그런데 내가 여러분에게 진리를 전하였으므로, 여러분의 원수가 되었습니까?",
     Chn:"如今我将真理告诉你们，就成了你们的仇敌吗？",
     Eng:"Have I now become your enemy by telling you the truth?",
     Ind:"Apakah dengan mengatakan kebenaran kepadamu aku telah menjadi musuhmu?"
   },
   {Bible:"Galatians", Chapter:4, Verse:17, Page:1,
-    Kor:"g위에서 내가 말한 사람들이 여러분에게 열심을 내는 것은 좋은 뜻으로 하는 것이 아니라, 여러분을 내게서 떼어놓아서, 여러분으로 하여금 자기네들을 열심히 따르게 하려고 하는 것입니다.(g 그, '(그들이)')",
+    Kor:"위에서 내가 말한 자들이 여러분에게 열심을 내는 것은 좋은 뜻으로 하는 것이 아니라, 여러분을 내게서 떼어놓아서, 여러분으로 하여금 그들을 열심히 따르게 하려고 하는 것입니다.",
     Chn:"那些人热心待你们，却不是好意，是要离间你们，叫你们热心待他们。",
     Eng:"Those people are zealous to win you over, but for no good. What they want is to alienate you from us, so that you may be zealous for them.",
     Ind:"Mereka dengan giat berusaha untuk menarik kamu, tetapi tidak dengan tulus hati, karena mereka mau mengucilkan kamu, supaya kamu dengan giat mengikuti mereka."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Hai anak-anakku, karena kamu aku menderita sakit bersalin lagi, sampai rupa Kristus menjadi nyata di dalam kamu."
   },
   {Bible:"Galatians", Chapter:4, Verse:20, Page:1,
-    Kor:"이제라도 내가 여러분을 만나 어조를 부드럽게 바꾸어서 말할 수 있으면 좋겠습니다. 나는 여러분의 일을 어떻게 하면 좋을지 당황하고 있습니다.",
+    Kor:"이제라도 내가 여러분을 만나 어조를 바꾸어서 이야기를 나눌 수 있다면 좋겠습니다. 나는 여러분의 일을 어떻게 하면 좋을지 당황하고 있습니다.",
     Chn:"我巴不得现今在你们那里，改换口气，因我为你们心里作难。",
     Eng:"how I wish I could be with you now and change my tone, because I am perplexed about you!",
     Ind:"Betapa rinduku untuk berada di antara kamu pada saat ini dan dapat berbicara dengan suara yang lain, karena aku telah habis akal menghadapi kamu."
   },
   {Bible:"Galatians", Chapter:4, Verse:21, Page:1,
-    Kor:"<하갈과 사라> ○율법 아래에 있기를 바라는 사람들이여, 나에게 말해 보십시오. 여러분은 율법이 말하는 것을 듣지 못합니까?",
+    Kor:"○율법 아래 있기를 바라는 여러분, 내게 말해 보십시오. 여러분은, 율법이 말하는 것을 듣지 못합니까?",
     Chn:"你们这愿意在律法以下的人，请告诉我，你们岂没有听见律法吗？",
     Eng:"Tell me, you who want to be under the law, are you not aware of what the law says?",
     Ind:"Katakanlah kepadaku, hai kamu yang mau hidup di bawah hukum Taurat, tidakkah kamu mendengarkan hukum Taurat?"
   },
   {Bible:"Galatians", Chapter:4, Verse:22, Page:1,
-    Kor:"아브라함에게 두 아들이 있었는데, 한 사람은 여종에게서 태어나고 한 사람은 종이 아닌 본처에게서 태어났다고 기록되어 있습니다.",
+    Kor:"아브라함에게 두 아들이 있었는데, 하나는 여종에게서 태어나고 하나는 종이 아닌 본처에게서 태어났다고 기록되어 있습니다.",
     Chn:"因为律法上记着，亚伯拉罕有两个儿子，一个是使女生的，一个是自主之妇人生的。",
     Eng:"For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.",
     Ind:"Bukankah ada tertulis, bahwa Abraham mempunyai dua anak, seorang dari perempuan yang menjadi hambanya dan seorang dari perempuan yang merdeka?"
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Tetapi anak dari perempuan yang menjadi hambanya itu diperanakkan menurut daging dan anak dari perempuan yang merdeka itu oleh karena janji."
   },
   {Bible:"Galatians", Chapter:4, Verse:24, Page:1,
-    Kor:"이것은 비유로 표현한 것입니다. 그 두 여자는 두 가지 언약을 가리킵니다. 한 사람은 시내 산에서 나서 종이 될 사람을 낳은 h하갈입니다.(h 그리스어 발음으로는 '하가르')",
+    Kor:"이것은 비유로 표현한 것입니다. 그 두 여자는 두 가지 언약을 가리킵니다. 하나는 시내 산에서 나와서 종이 될 사람을 낳은 하갈입니다.",
     Chn:"这都是比方：那两个妇人就是两约。一约是出于西奈山，生子为奴，乃是夏甲。",
     Eng:"These things may be taken figuratively, for the women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar.",
     Ind:"Ini adalah suatu kiasan. Sebab kedua perempuan itu adalah dua ketentuan Allah: yang satu berasal dari gunung Sinai dan melahirkan anak-anak perhambaan, itulah Hagar--"
   },
   {Bible:"Galatians", Chapter:4, Verse:25, Page:1,
-    Kor:"i'하갈'이라 하는 것은 아라비아에 있는 시내 산을 뜻하는데, 지금의 예루살렘에 해당합니다. 지금의 예루살렘은 그 주민과 함께 종노릇을 하고 있습니다.(i 다른 고대 사본들, '시내는 아라비아에 있는 한 산인데')",
+    Kor:"하갈은 아라비아에 있는 시내 산을 뜻하는데, 지금의 예루살렘에 해당합니다. 지금의 예루살렘은 그 주민과 함께 종노릇을 하고 있습니다.",
     Chn:"这夏甲二字是指着阿拉伯的西奈山，与现在的耶路撒冷同类，因耶路撒冷和她的儿女都是为奴的。",
     Eng:"Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children.",
     Ind:"Hagar ialah gunung Sinai di tanah Arab--dan ia sama dengan Yerusalem yang sekarang, karena ia hidup dalam perhambaan dengan anak-anaknya."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Tetapi Yerusalem sorgawi adalah perempuan yang merdeka, dan ialah ibu kita."
   },
   {Bible:"Galatians", Chapter:4, Verse:27, Page:1,
-    Kor:"성경에 기록하기를,  i\"아이를 낳지 못하는 여자여, 즐거워하여라. 해산의 고통을 모르는 여자여, 소리를 높여서 외쳐라. 홀로 사는 여자의 자녀가 남편을 둔 여자의 자녀보다 더 많을 것이다\" 하였습니다.(j 사 54:1)",
+    Kor:"성경에 기록하기를 \"아이를 낳지 못하는 여자여, 즐거워하여라. 해산의 고통을 모르는 여자여, 소리를 높여서 외쳐라. 홀로 사는 여자의 자녀가 남편을 둔 여자의 자녀보다 더 많을 것이다\" 하였습니다.",
     Chn:"因为经上记着： 不怀孕、不生养的，你要欢乐； 未曾经过产难的，你要高声欢呼； 因为没有丈夫的，比有丈夫的儿女更多。",
     Eng:"For it is written: \"Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband.\"",
     Ind:"Karena ada tertulis: \"Bersukacitalah, hai si mandul yang tidak pernah melahirkan! Bergembira dan bersorak-sorailah, hai engkau yang tidak pernah menderita sakit bersalin! Sebab yang ditinggalkan suaminya akan mempunyai lebih banyak anak dari pada yang bersuami.\""
   },
   {Bible:"Galatians", Chapter:4, Verse:28, Page:1,
-    Kor:"f형제자매 여러분, k여러분은 이삭과 같이 약속의 자녀들입니다.(f 그, '형제들' k 다른 고대 사본들, '우리는')",
+    Kor:"형제자매 여러분, 여러분은 이삭과 같이 약속의 자녀들입니다.",
     Chn:"弟兄们，我们是凭着应许作儿女，如同以撒一样。",
     Eng:"Now you, brothers, like Isaac, are children of promise.",
     Ind:"Dan kamu, saudara-saudara, kamu sama seperti Ishak adalah anak-anak janji."
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Tetapi seperti dahulu, dia, yang diperanakkan menurut daging, menganiaya yang diperanakkan menurut Roh, demikian juga sekarang ini."
   },
   {Bible:"Galatians", Chapter:4, Verse:30, Page:1,
-    Kor:"그런데 성경은 무엇이라고 말합니까. l\"여종과 그 아들을 내쫓아라. 여종의 아들은 절대로, 종이 아닌 본처의 아들과 함께 유업을 받지 못할 것이다\" 하였습니다.(l 창 21:10)",
+    Kor:"그런데 성경은 무엇이라고 말합니까. \"여종과 그 아들을 내쫓아라. 여종의 아들은 절대로, 종이 아닌 본처의 아들과 함께 유업을 받지 못할 것이다\" 하였습니다.",
     Chn:"然而经上是怎么说的呢？是说：「把使女和她儿子赶出去！因为使女的儿子不可与自主妇人的儿子一同承受产业。」",
     Eng:"But what does the Scripture say? \"Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son.\"",
     Ind:"Tetapi apa kata nas Kitab Suci? \"Usirlah hamba perempuan itu beserta anaknya, sebab anak hamba perempuan itu tidak akan menjadi ahli waris bersama-sama dengan anak perempuan merdeka itu.\""
   },
   {Bible:"Galatians", Chapter:4, Verse:31, Page:1,
-    Kor:"그러므로 f형제자매 여러분, 우리는 여종의 자녀가 아니라, 자유를 가진 여자의 자녀입니다.(f 그, '형제들')",
+    Kor:"그러므로 형제자매 여러분, 우리는 여종의 자녀가 아니라, 자유한 여자의 자녀입니다.",
     Chn:"弟兄们，这样看来，我们不是使女的儿女，乃是自主妇人的儿女了。",
     Eng:"Therefore, brothers, we are not children of the slave woman, but of the free woman.",
     Ind:"Karena itu, saudara-saudara, kita bukanlah anak-anak hamba perempuan, melainkan anak-anak perempuan merdeka."

@@ -3,31 +3,31 @@
 BibleDB.ref("Judges",5,31);
 BibleDB.add([
   {Bible:"Judges", Chapter:5, Verse:1, Page:1,
-    Kor:"<드보라와 바락의 노래> 그 날 드보라와 아비노암의 아들 바락이 이런 노래를 불렀다.",
+    Kor:"그 날 드보라와 아비노암의 아들 바락이 이런 노래를 불렀다.",
     Chn:"那时，底波拉和亚比挪庵的儿子巴拉作歌，说：",
     Eng:"On that day Deborah and Barak son of Abinoam sang this song:",
     Ind:"Pada hari itu bernyanyilah Debora dan Barak bin Abinoam, demikian:"
   },
   {Bible:"Judges", Chapter:5, Verse:2, Page:1,
-    Kor:"이스라엘의 영도자들은 앞장서서 이끌고, 백성은 기꺼이 헌신하니, a주님을 찬양하여라. (a 또는 '백성 가운데서 기꺼이 헌신하는 너희는 주님을 찬양하여라')",
+    Kor:"이스라엘의 영도자들은 앞장서서 이끌고, 백성은 기꺼이 헌신하니, 주를 찬양하여라.",
     Chn:"因为以色列中有军长率领， 百姓也甘心牺牲自己， 你们应当颂赞耶和华！",
     Eng:"\"When the princes in Israel take the lead, when the people willingly offer themselves--praise the LORD!",
     Ind:"Karena pahlawan-pahlawan di Israel siap berperang, karena bangsa itu menawarkan dirinya dengan sukarela, pujilah TUHAN!"
   },
   {Bible:"Judges", Chapter:5, Verse:3, Page:1,
-    Kor:"너희 왕들아, 들어라. 너희 통치자들아, 귀를 기울여라. 나 곧 내가 주님을 노래하련다. 주 이스라엘의 하나님을 찬양하련다.",
+    Kor:"너희 왕들아, 들어라. 너희 통치자들아, 귀를 기울여라. 나 곧 내가 주를 노래하련다. 주 이스라엘의 하나님을 찬양하련다.",
     Chn:"君王啊，要听！ 王子啊，要侧耳而听！ 我要向耶和华歌唱； 我要歌颂耶和华—以色列的　神。",
     Eng:"\"Hear this, you kings! Listen, you rulers! I will sing to the LORD, I will sing; I will make music to the LORD, the God of Israel.",
     Ind:"Dengarlah, ya raja-raja! Pasanglah telingamu, ya pemuka-pemuka! Kalau aku, aku mau bernyanyi bagi TUHAN, bermazmur bagi TUHAN, Allah Israel."
   },
   {Bible:"Judges", Chapter:5, Verse:4, Page:1,
-    Kor:"주님, 주님께서 세일에서 나오실 때에, 주님께서 에돔 땅에서 출동하실 때에, 땅은 흔들리고, 하늘은 물을 쏟아내고, 구름은 비를 쏟았습니다.",
+    Kor:"주님, 주께서 세일에서 나오실 때에, 주께서 에돔 땅에서 출동하실 때에, 땅은 흔들리고, 하늘은 물을 쏟아내고, 구름은 비를 쏟았습니다.",
     Chn:"耶和华啊，你从西珥出来， 由以东地行走。 那时地震天漏， 云也落雨。",
     Eng:"\"O LORD, when you went out from Seir, when you marched from the land of Edom, the earth shook, the heavens poured, the clouds poured down water.",
     Ind:"TUHAN, ketika Engkau bergerak dari Seir, ketika Engkau melangkah maju dari daerah Edom, bergoncanglah bumi, tirislah juga langit, juga awan tiris airnya;"
   },
   {Bible:"Judges", Chapter:5, Verse:5, Page:1,
-    Kor:"산들이 주님 앞에서 진동하였고, 저 시내 산마저, 주 이스라엘의 하나님 앞에서 진동하였습니다.",
+    Kor:"산들이 주 앞에서 진동하였고, 저 시내 산마저, 주 이스라엘의 하나님 앞에서 진동하였습니다.",
     Chn:"山见耶和华的面就震动， 西奈山见耶和华—以色列　神的面也是如此。",
     Eng:"The mountains quaked before the LORD, the One of Sinai, before the LORD, the God of Israel.",
     Ind:"gunung-gunung--yakni Sinai--bergoyang di hadapan TUHAN, di hadapan TUHAN, Allah Israel."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Penduduk pedusunan diam-diam saja di Israel, ya mereka diam-diam, sampai engkau bangkit, Debora, bangkit sebagai ibu di Israel."
   },
   {Bible:"Judges", Chapter:5, Verse:8, Page:1,
-    Kor:"그들이 새 신들을 택하였을 때에, 성문에 전쟁이 들이닥쳤는데, 사만 명 이스라엘 군인 가운데 방패와 창을 가진 사람이 보였던가?",
+    Kor:"그들이 새 신들을 택하였을 때에, 성문에 전쟁이 들이닥쳤는데, 사만 명 이스라엘 군인 가운데, 방패와 창을 가진 사람이 보였던가?",
     Chn:"以色列人选择新神， 争战的事就临到城门。 那时，以色列四万人中 岂能见盾牌枪矛呢？",
     Eng:"When they chose new gods, war came to the city gates, and not a shield or spear was seen among forty thousand in Israel.",
     Ind:"Ketika orang memilih allah baru, maka terjadilah perang di pintu gerbang. Sesungguhnya, perisai ataupun tombak tidak terlihat di antara empat puluh ribu orang di Israel."
   },
   {Bible:"Judges", Chapter:5, Verse:9, Page:1,
-    Kor:"나의 마음이 이스라엘의 지휘관들에게 쏠렸다. 그들은 백성 가운데서 자원하여 나선 용사들이다. 너희는 주님을 찬양하여라.",
+    Kor:"나의 마음이 이스라엘의 지휘관들에게 쏠렸다. 그들은 백성 가운데서 자원하여 나선 용사들이다. 너희는 주를 찬양하여라.",
     Chn:"我心倾向以色列的首领， 他们在民中甘心牺牲自己。 你们应当颂赞耶和华！",
     Eng:"My heart is with Israel's princes, with the willing volunteers among the people. Praise the LORD!",
     Ind:"Hatiku tertuju kepada para panglima Israel, kepada mereka yang menawarkan dirinya dengan sukarela di antara bangsa itu. Pujilah TUHAN!"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Kamu, yang menunggang keledai betina putih, kamu, yang duduk di atas permadani, kamu, yang berjalan di jalan, ceriterakanlah hal itu!"
   },
   {Bible:"Judges", Chapter:5, Verse:11, Page:1,
-    Kor:"물 긷는 이들 사이에서 들리는 소리, 활 쏘는 사람들의 요란한 저 소리, 거기서도 주님의 의로운 업적을 들어 말하여라. 이스라엘 용사들의 의로운 업적을 들어 말하여라. 그 때에 주님의 백성이 성읍으로 들어가려고 성문께로 내려갔다.",
+    Kor:"물 긷는 이들 사이에서 들리는 소리, 활 쏘는 사람들의 요란한 저 소리, 거기서도 주의 의로운 업적을 들어 말하여라. 이스라엘 용사들의 의로운 업적을 들어 말하여라. 그 때에 주의 백성이 성읍으로 들어가려고 성문께로 내려갔다.",
     Chn:"在远离弓箭响声打水之处， 人必述说耶和华公义的作为， 就是他治理以色列公义的作为。 那时耶和华的民下到城门。",
     Eng:"the voice of the singers at the watering places. They recite the righteous acts of the LORD, the righteous acts of his warriors in Israel. \"Then the people of the LORD went down to the city gates.",
     Ind:"Di tempat-tempat penimbaan air, menurut suara orang-orang yang berdendang, di sanalah orang menyanyikan perbuatan TUHAN yang adil, perbuatan-Nya yang adil terhadap orang-orang-Nya di pedusunan di Israel. Pada waktu itu turunlah umat TUHAN ke pintu gerbang."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Bangunlah, bangunlah, Debora! Bangunlah, bangunlah, nyanyikanlah suatu nyanyian! Bangkitlah, Barak! dan giringlah tawananmu, hai anak Abinoam!"
   },
   {Bible:"Judges", Chapter:5, Verse:13, Page:1,
-    Kor:"그 때에 살아 남은 이들이 b백성의 지도자들과 더불어 내려왔고, 주님께서 나를 도우시려고 용사들 가운데 내려오셨다. (b 또는 '백성의 지도자들에게로 내려왔고, 주님의 백성이 용사들과 함께 나에게로 왔다')",
+    Kor:"그 때에 살아 남은 이들이 백성의 지도자들과 더불어 내려왔고, 주께서 나를 도우시려고 용사들 가운데 내려오셨다.",
     Chn:"那时有余剩的贵胄和百姓一同下来； 耶和华降临，为我攻击勇士。",
     Eng:"\"Then the men who were left came down to the nobles; the people of the LORD came to me with the mighty.",
     Ind:"Lalu turunlah para bangsawan yang terluput, umat TUHAN turun bagi-Nya sebagai pahlawan."
   },
   {Bible:"Judges", Chapter:5, Verse:14, Page:1,
-    Kor:"에브라임에게서는 c아말렉에 뿌리를 내린 사람들이 내려오고, 베냐민의 뒤를 이어서는 너의 백성이 내려오고, 마길에서는 지휘관들이 내려오고 스불론에서는 지휘봉 잡은 이들이 내려왔다. (c 칠십인역에는 '사람들이 계곡으로 내려왔고')",
+    Kor:"에브라임에게서는 아말렉에 뿌리를 내린 사람들이 내려오고, 베냐민의 뒤를 이어서는 너의 백성이 내려오고, 마길에서는 지휘관들이 내려오고 스불론에서는 지휘봉 잡은 이들이 내려왔다.",
     Chn:"有根本在亚玛力人的地， 从以法莲下来的； 便雅悯在民中跟随你。 有掌权的从玛吉下来； 有持杖检点民数的从西布伦下来；",
     Eng:"Some came from Ephraim, whose roots were in Amalek; Benjamin was with the people who followed you. From Makir captains came down, from Zebulun those who bear a commander's staff.",
     Ind:"Dari suku Efraim mereka datang ke lembah, mengikuti engkau, ya suku Benyamin, dengan laskarmu; dari suku Makhir turunlah para panglima dan dari suku Zebulon orang-orang pembawa tongkat pengerah."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Dari langit berperang bintang-bintang, dari peredarannya mereka memerangi Sisera."
   },
   {Bible:"Judges", Chapter:5, Verse:21, Page:1,
-    Kor:"기손 강물이 그들을 휩쓸어 갔고, 옛 강 기손의 물결이 그들을 휩쓸어 갔다. 나의 영혼아! 너는 힘차게 진군하여라.",
+    Kor:"기손 강물이 그들을 휩쓸어 갔고, 옛 강, 기손의 물결이 그들을 휩쓸어 갔다. 나의 영혼아! 너는 힘차게 진군하여라.",
     Chn:"基顺古河把敌人冲没； 我的灵啊，应当努力前行。",
     Eng:"The river Kishon swept them away, the age-old river, the river Kishon. March on, my soul; be strong!",
     Ind:"Sungai Kison menghanyutkan musuh, Kison, sungai yang terkenal dari dahulu kala itu. --Majulah sekuat tenaga, hai jiwaku! --"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Ketika itu menderaplah telapak kuda, karena berpacu lari kuda-kudanya."
   },
   {Bible:"Judges", Chapter:5, Verse:23, Page:1,
-    Kor:"\"메로스를 저주하여라.\" 주님의 천사가 말하였다. \"그 안에 사는 주민들을 저주하고 저주하여라! 그들은 주님을 도우러 나오지 않았다. 주님을 돕지 않았다. 적의 용사들과 싸우러 나오지 않았다.\"",
+    Kor:"\"메로스를 저주하여라.\" 주의 천사가 말하였다. \"그 안에 사는 주민들을 저주하고 저주하여라! 그들은 주를 도우러 나오지 않았다. 주를 돕지 않았다. 적의 용사들과 싸우러 나오지 않았다.\"",
     Chn:"耶和华的使者说： 应当咒诅米罗斯， 大大咒诅其中的居民； 因为他们不来帮助耶和华， 不来帮助耶和华攻击勇士。",
     Eng:"'Curse Meroz,' said the angel of the LORD. 'Curse its people bitterly, because they did not come to help the LORD, to help the LORD against the mighty.'",
     Ind:"\"Kutukilah kota Meros!\" firman Malaikat TUHAN, \"kutukilah habis-habisan penduduknya, karena mereka tidak datang membantu TUHAN, membantu TUHAN sebagai pahlawan.\""
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Dekat kakinya orang itu rebah, tewas tergeletak, dekat kakinya orang itu rebah dan tewas, di tempat ia rebah, di sanalah orang itu tewas, digagahi."
   },
   {Bible:"Judges", Chapter:5, Verse:28, Page:1,
-    Kor:"시스라의 어머니가 창문으로 내다보며, d창살 틈으로 내다보며 울부짖었다. \"그의 병거가 왜 이렇게 더디 오는가? 그의 병거가 왜 이처럼 늦게 오는가?\" (d 칠십인역과 타르굼에는 '창살 틈으로 내다 보았다'. 마소라 본문에는 '창살 틈으로 울부짖었다')",
+    Kor:"시스라의 어머니가 창문으로 내다보며, 창살 틈으로 내다보며 울부짖었다. \"그의 병거가 왜 이렇게 더디 오는가? 그의 병거가 왜 이처럼 늦게 오는가?\"",
     Chn:"西西拉的母亲从窗户里往外观看， 从窗棂中呼叫说： 他的战车为何耽延不来呢？ 他的车轮为何行得慢呢？",
     Eng:"\"Through the window peered Sisera's mother; behind the lattice she cried out, 'Why is his chariot so long in coming? Why is the clatter of his chariots delayed?'",
     Ind:"Dari jendela ibu Sisera menjenguk dan berseru dari tingkap: \"Mengapa keretanya tak kunjung datang? Mengapa kereta-keretanya belum kedengaran?\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"\"Bukankah mereka mendapat jarahan dan membagi-baginya, gadis seorang dua untuk setiap orang jarahan kain berwarna sehelai dua untuk Sisera, jarahan kain sulaman aneka warna sehelai dua untuk leherku?\""
   },
   {Bible:"Judges", Chapter:5, Verse:31, Page:1,
-    Kor:"주님, 주님의 원수들은 이처럼 모두 망하고, 주님을 사랑하는 사람들은 힘차게 떠오르는 해처럼 되게 하여 주십시오. 그 뒤로 그 땅에는 사십 년 동안 전쟁이 없이 평온하였다.",
+    Kor:"주님, 주의 원수들은 이처럼 모두 망하고, 주를 사랑하는 사람들은 힘차게 떠오르는 해처럼 되게 하여 주십시오. 그 뒤로 그 땅에는 사십 년 동안 전쟁이 없이 평온하였다.",
     Chn:"耶和华啊， 愿你的仇敌都这样灭亡！ 愿爱你的人如日头出现，光辉烈烈！ 这样，国中太平四十年。",
     Eng:"\"So may all your enemies perish, O LORD! But may they who love you be like the sun when it rises in its strength.\" Then the land had peace forty years.",
     Ind:"Demikianlah akan binasa segala musuh-Mu, ya TUHAN! Tetapi orang yang mengasihi-Nya bagaikan matahari terbit dalam kemegahannya. Lalu amanlah negeri itu empat puluh tahun lamanya."

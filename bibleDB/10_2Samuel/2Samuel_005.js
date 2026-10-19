@@ -3,13 +3,13 @@
 BibleDB.ref("2Samuel",5,25);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:5, Verse:1, Page:1,
-    Kor:"<다윗이 온 이스라엘의 왕이 되다(대상 11:1-3)> 이스라엘의 모든 지파가 헤브론으로 다윗을 찾아가서 말하였다. \"우리는 임금님과 한 골육입니다.",
+    Kor:"이스라엘의 모든 지파가 헤브론으로 다윗을 찾아가서 말하였다. \"우리는 임금님과 한 골육입니다.",
     Chn:"以色列众支派来到希伯 见大卫，说：「我们原是你的骨肉。",
     Eng:"All the tribes of Israel came to David at Hebron and said, \"We are your own flesh and blood.",
     Ind:"Lalu datanglah segala suku Israel kepada Daud di Hebron dan berkata: \"Ketahuilah, kami ini darah dagingmu."
   },
   {Bible:"2Samuel", Chapter:5, Verse:2, Page:1,
-    Kor:"전에 사울이 왕이 되어서 우리를 다스릴 때에, 이스라엘 군대를 거느리고 출전하였다가 다시 데리고 돌아오신 분이 바로 임금님이십니다. 그리고 주님께서 '네가 나의 백성 이스라엘의 목자가 될 것이며, 네가 이스라엘의 통치자가 될 것이다' 하고 말씀하실 때에도 바로 임금님을 가리켜 말씀하신 것입니다.\"",
+    Kor:"전에 사울이 왕이 되어서 우리를 다스릴 때에, 이스라엘 군대를 거느리고 출전하였다가 다시 데리고 돌아오신 분이 바로 임금님이십니다. 그리고 주께서 '네가 나의 백성 이스라엘의 목자가 될 것이며, 네가 이스라엘의 통치자가 될 것이다' 하고 말씀하실 때에도 바로 임금님을 가리켜 말씀하신 것입니다.\"",
     Chn:"从前扫罗作我们王的时候，率领以色列人出入的是你；耶和华也曾应许你说：『你必牧养我的民以色列，作以色列的君。』」",
     Eng:"In the past, while Saul was king over us, you were the one who led Israel on their military campaigns. And the LORD said to you, 'You will shepherd my people Israel, and you will become their ruler.'\"",
     Ind:"Telah lama, ketika Saul memerintah atas kami, engkaulah yang memimpin segala gerakan orang Israel. Dan TUHAN telah berfirman kepadamu: Engkaulah yang harus menggembalakan umat-Ku Israel, dan engkaulah yang menjadi raja atas Israel.\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Di Hebron ia memerintah atas Yehuda tujuh tahun enam bulan, dan di Yerusalem ia memerintah tiga puluh tiga tahun atas seluruh Israel dan Yehuda."
   },
   {Bible:"2Samuel", Chapter:5, Verse:6, Page:1,
-    Kor:"<다윗이 시온을 정복하여 수도로 삼다(대상 11:4-9; 14:1-b> ○다윗 왕이 부하들을 거느리고 예루살렘으로 가서, 그 땅에 사는 여부스 사람을 치려고 하니, 그들이 다윗에게 말하였다. \"너는 여기에 들어올 수 없다. 눈 먼 사람이나 다리 저는 사람도 너쯤은 물리칠 수 있다.\" 그들은, 다윗이 그 곳으로는 들어올 수 없을 것이라고 생각한 것이다.",
+    Kor:"○왕이 부하들을 거느리고 예루살렘으로 가서, 그 땅에 사는 여부스 사람을 치려고 하니, 그들이 다윗에게 말하였다. \"너는 여기에 들어올 수 없다. 눈 먼 사람이나 다리 저는 사람도 너쯤은 물리칠 수 있다.\" 그들은, 다윗이 그 곳으로는 들어올 수 없을 것이라고 생각한 것이다.",
     Chn:"大卫和跟随他的人到了耶路撒冷，要攻打住那地方的耶布斯人。耶布斯人对大卫说：「你若不赶出瞎子、瘸子，必不能进这地方」；心里想大卫决不能进去。",
     Eng:"The king and his men marched to Jerusalem to attack the Jebusites, who lived there. The Jebusites said to David, \"You will not get in here; even the blind and the lame can ward you off.\" They thought, \"David cannot get in here.\"",
     Ind:"Lalu raja dengan orang-orangnya pergi ke Yerusalem, menyerang orang Yebus, penduduk negeri itu. Mereka itu berkata kepada Daud: \"Engkau tidak sanggup masuk ke mari; orang-orang buta dan orang-orang timpang akan mengenyahkan engkau!\" Maksud mereka: Daud tidak sanggup masuk ke mari."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Tetapi Daud merebut kubu pertahanan Sion, yaitu kota Daud."
   },
   {Bible:"2Samuel", Chapter:5, Verse:8, Page:1,
-    Kor:"그 날, 다윗이 이렇게 명령을 내렸다. \"누구든지 여부스 사람을 치려거든, 물을 길어 올리는 바위벽을 타고 올라가서, 저 여부스 사람들 곧 다윗이 몹시 미워하는 저 '다리 저는 자들'과 '눈 먼 자들'을 쳐죽여라!\" (그래서 '눈 먼 사람과 다리 저는 사람은 왕궁에 들어갈 수 없다'는 속담이 생겼다.)",
+    Kor:"그 날, 다윗이 이렇게 명령을 내렸다. \"누구든지 여부스 사람을 치려거든, 물을 길어 올리는 바위벽을 타고 올라가서, 다윗이 몹시 미워하는 다리 저는 자와 눈 먼 자들을 쳐죽여라!\" (그래서 '눈 먼 사람과 다리 저는 사람은 왕궁에 들어갈 수 없다'는 속담이 생겼다.)",
     Chn:"当日，大卫说：「谁攻打耶布斯人，当上水沟攻打我心里所恨恶的瘸子、瞎子。」从此有俗语说：「在那里有瞎子、瘸子，他不能进屋去。」",
     Eng:"On that day, David said, \"Anyone who conquers the Jebusites will have to use the water shaft to reach those 'lame and blind' who are David's enemies.\" That is why they say, \"The 'blind and lame' will not enter the palace.\"",
     Ind:"Daud telah berkata pada waktu itu: \"Siapa yang hendak memukul kalah orang Yebus, haruslah ia masuk melalui saluran air itu; hati Daud benci kepada orang-orang timpang dan orang-orang buta.\" Sebab itu orang berkata: \"Orang-orang buta dan orang-orang timpang tidak boleh masuk bait.\""
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Hiram, raja negeri Tirus, mengirim utusan kepada Daud dan kayu alas, tukang-tukang kayu dan tukang-tukang batu; mereka mendirikan istana bagi Daud."
   },
   {Bible:"2Samuel", Chapter:5, Verse:12, Page:1,
-    Kor:"다윗은, 주님께서 자기를 이스라엘의 왕으로 굳건히 세워 주신 것과, 그의 백성 이스라엘을 번영하게 하시려고 자기의 나라를 높여 주신 것을, 깨달아 알았다.",
+    Kor:"다윗은, 주께서 자기를 이스라엘의 왕으로 굳건히 세워 주신 것과, 그분의 백성 이스라엘을 번영하게 하시려고 그의 나라를 높여 주신 것을, 깨달아 알았다.",
     Chn:"大卫就知道耶和华坚立他作以色列王，又为自己的民以色列使他的国兴旺。",
     Eng:"And David knew that the LORD had established him as king over Israel and had exalted his kingdom for the sake of his people Israel.",
     Ind:"Lalu tahulah Daud, bahwa TUHAN telah menegakkan dia sebagai raja atas Israel dan telah mengangkat martabat pemerintahannya oleh karena Israel, umat-Nya."
   },
   {Bible:"2Samuel", Chapter:5, Verse:13, Page:1,
-    Kor:"<다윗의 자녀들(대상 14:3-7)> ○다윗은, 헤브론에서 떠나온 뒤에, 예루살렘에 와서 더 많은 후궁과 아내들을 맞아들여서, 또 자녀를 낳았다.",
+    Kor:"○다윗은, 헤브론에서 떠나온 뒤에, 예루살렘에 와서 더 많은 후궁과 아내들을 맞아들여서, 또 자녀를 낳았다.",
     Chn:"大卫离开希伯 之后，在耶路撒冷又立后妃，又生儿女。",
     Eng:"After he left Hebron, David took more concubines and wives in Jerusalem, and more sons and daughters were born to him.",
     Ind:"Daud mengambil lagi beberapa gundik dan isteri dari Yerusalem, setelah ia datang dari Hebron dan bagi Daud masih lahir lagi anak-anak lelaki dan perempuan."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Yibhar, Elisua, Nefeg, Yafia,"
   },
   {Bible:"2Samuel", Chapter:5, Verse:16, Page:1,
-    Kor:"엘리사마와 엘리아다와 엘리벨렛이다.",
+    Kor:"엘리사마와 엘랴다와 엘리벨렛이다.",
     Chn:"以利沙玛、以利雅大、以利法列。",
     Eng:"Elishama, Eliada and Eliphelet.",
     Ind:"Elisama, Elyada dan Elifelet."
   },
   {Bible:"2Samuel", Chapter:5, Verse:17, Page:1,
-    Kor:"<다윗이 블레셋과 싸워서 이기다(대상 14:8-17)> ○다윗이 기름부음을 받아 이스라엘의 왕이 되었다는 소식을 블레셋 사람이 듣고, 온 블레셋 사람이 다윗을 잡으려고 올라왔다. 다윗이 이 말을 듣고서, 요새로 내려갔다.",
+    Kor:"○다윗이 기름부음을 받아 이스라엘의 왕이 되었다는 소식을 블레셋 사람이 듣고, 온 블레셋 사람이 다윗을 잡으려고 올라왔다. 다윗이 이 말을 듣고서, 요새로 내려갔다.",
     Chn:"非利士人听见人膏大卫作以色列王，非利士众人就上来寻索大卫；大卫听见，就下到保障。",
     Eng:"When the Philistines heard that David had been anointed king over Israel, they went up in full force to search for him, but David heard about it and went down to the stronghold.",
     Ind:"Ketika didengar orang Filistin, bahwa Daud telah diurapi menjadi raja atas Israel, maka majulah semua orang Filistin untuk menangkap Daud. Tetapi Daud mendengar hal itu, lalu ia pergi ke kubu pertahanan."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Ketika orang Filistin itu datang dan memencar di lembah Refaim,"
   },
   {Bible:"2Samuel", Chapter:5, Verse:19, Page:1,
-    Kor:"다윗이 주님께 아뢰었다. \"제가 저 블레셋 사람들을 치러 올라가도 되겠습니까? 주님께서 그들을 저의 손에 넘겨 주시겠습니까?\" 주님께서 다윗에게 대답하셨다. \"올라가거라. 내가 저 블레셋 사람들을 반드시 너의 손에 넘겨 주겠다.\"",
+    Kor:"다윗이 주께 아뢰었다. \"제가 저 블레셋 사람들을 치러 올라가도 되겠습니까? 주께서 그들을 저의 손에 넘겨 주시겠습니까?\" 주께서 다윗에게 대답하셨다. \"올라가거라. 내가 저 블레셋 사람들을 반드시 너의 손에 넘겨 주겠다.\"",
     Chn:"大卫求问耶和华说：「我可以上去攻打非利士人吗？你将他们交在我手里吗？」耶和华说：「你可以上去，我必将非利士人交在你手里。」",
     Eng:"so David inquired of the LORD, \"Shall I go and attack the Philistines? Will you hand them over to me?\" The LORD answered him, \"Go, for I will surely hand the Philistines over to you.\"",
     Ind:"bertanyalah Daud kepada TUHAN: \"Apakah aku harus maju melawan orang Filistin itu? Akan Kauserahkankah mereka ke dalam tanganku?\" TUHAN menjawab Daud: \"Majulah, sebab Aku pasti akan menyerahkan orang Filistin itu ke dalam tanganmu.\""
   },
   {Bible:"2Samuel", Chapter:5, Verse:20, Page:1,
-    Kor:"그래서 다윗이 바알브라심으로 쳐들어갔다. 다윗이 거기에서 블레셋 사람들을 쳐서 이기고 나서, 이렇게 말하였다. \"홍수가 모든 것을 휩쓸어 버리듯이, 주님께서 나의 원수들을 내 앞에서 그렇게 휩쓸어 버리셨다.\" 그래서 사람들이 그 곳 이름을 바알브라심이라고 한다.",
+    Kor:"그래서 다윗이 바알브라심으로 쳐들어갔다. 다윗이 거기에서 블레셋 사람들을 쳐서 이기고 나서, 이렇게 말하였다. \"홍수가 모든 것을 휩쓸어 버리듯이, 주께서 나의 원수들을 내 앞에서 그렇게 휩쓸어 버리셨다.\" 그래서 사람들이 그 곳 이름을 바알브라심이라고 한다.",
     Chn:"大卫来到巴力·毗拉心，在那里击杀非利士人，说：「耶和华在我面前冲破敌人，如同水冲去一般。」因此称那地方为巴力·毗拉心。",
     Eng:"So David went to Baal Perazim, and there he defeated them. He said, \"As waters break out, the LORD has broken out against my enemies before me.\" So that place was called Baal Perazim.",
     Ind:"Lalu datanglah Daud di Baal-Perasim dan memukul mereka kalah di sana. Berkatalah ia: \"TUHAN telah menerobos musuhku di depanku seperti air menerobos.\" Sebab itu orang menamakan tempat itu Baal-Perasim."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Ketika orang Filistin maju sekali lagi dan memencar di lembah Refaim,"
   },
   {Bible:"2Samuel", Chapter:5, Verse:23, Page:1,
-    Kor:"다윗이 주님께 또 아뢰니, 주님께서 대답하셨다. \"너는 정면으로 그들 쪽으로 올라가지 말고, 그들의 뒤로 돌아가서 숨어 있다가, 뽕나무 숲의 맞은쪽에서부터 그들을 기습하여 공격하여라.",
+    Kor:"다윗이 주께 또 아뢰니, 주께서 대답하셨다. \"너는 정면으로 그들 쪽으로 올라가지 말고, 그들의 뒤로 돌아가서 숨어 있다가, 뽕나무 숲의 맞은쪽에서부터 그들을 기습하여 공격하여라.",
     Chn:"大卫求问耶和华；耶和华说：「不要一直地上去，要转到他们后头，从桑林对面攻打他们。",
     Eng:"so David inquired of the LORD, and he answered, \"Do not go straight up, but circle around behind them and attack them in front of the balsam trees.",
     Ind:"maka bertanyalah Daud kepada TUHAN, dan Ia menjawab: \"Janganlah maju, tetapi buatlah gerakan lingkaran sampai ke belakang mereka, sehingga engkau dapat menyerang mereka dari jurusan pohon-pohon kertau."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Dan bila engkau mendengar bunyi derap langkah di puncak pohon-pohon kertau itu, maka haruslah engkau bertindak cepat, sebab pada waktu itu TUHAN telah keluar berperang di depanmu untuk memukul kalah tentara orang Filistin.\""
   },
   {Bible:"2Samuel", Chapter:5, Verse:25, Page:1,
-    Kor:"○다윗은 주님께서 명하신 대로, 게바에서 게셀에 이르기까지 쫓아가면서, 블레셋 군대를 무찔렀다.",
+    Kor:"○다윗은 주께서 명하신 대로, 게바에서 게셀에 이르기까지 쫓아가면서, 블레셋 군대를 무찔렀다.",
     Chn:"大卫就遵着耶和华所吩咐的去行，攻打非利士人，从迦巴直到基色。",
     Eng:"So David did as the LORD commanded him, and he struck down the Philistines all the way from Gibeon to Gezer.",
     Ind:"Dan Daud berbuat demikian, seperti yang diperintahkan TUHAN kepadanya, maka ia memukul kalah orang Filistin, mulai dari Geba sampai dekat Gezer."

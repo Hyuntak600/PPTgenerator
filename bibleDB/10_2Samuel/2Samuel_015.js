@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",15,37);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:15, Verse:1, Page:1,
-    Kor:"<압살롬이 반란을 일으키다> 그 뒤에 압살롬은 자기가 탈 수레와 말 여러 필을 마련하고, 호위병도 쉰 명이나 거느렸다.",
+    Kor:"그 뒤에 압살롬은, 자기가 탈 수레와 말 여러 필을 마련하고, 호위병도 쉰 명이나 거느렸다.",
     Chn:"此后，押沙龙为自己预备车马，又派五十人在他前头奔走。",
     Eng:"In the course of time, Absalom provided himself with a chariot and horses and with fifty men to run ahead of him.",
     Ind:"Sesudah itu Absalom menyediakan baginya sebuah kereta serta kuda dan lima puluh orang yang berlari di depannya."
@@ -21,31 +21,31 @@ BibleDB.add([
     Ind:"maka berkatalah Absalom kepadanya: \"Lihat, perkaramu itu baik dan benar, tetapi dari pihak raja tidak ada seorangpun yang mau mendengarkan engkau.\""
   },
   {Bible:"2Samuel", Chapter:15, Verse:4, Page:1,
-    Kor:"더욱이 압살롬은 이런 말도 하였다. \"누가 나를 이 나라의 재판관으로 세워 주기만 하면, 누구든지 소송 문제가 있을 때에 나를 찾아와서 판결을 받을 수가 있을 것이고, 나는 그에게 공정한 판결을 내려 줄 것이오.\"",
+    Kor:"더욱이 압살롬은 이런 말도 하였다. \"누가 나를 이 나라의 재판관으로 세워 주기만 하면, 누구든지 소송 문제가 있을 때에, 나를 찾아와서 판결을 받을 수가 있을 것이고, 나는 그에게 공정한 판결을 내려 줄 것이오.\"",
     Chn:"押沙龙又说：「恨不得我作国中的士师！凡有争讼求审判的到我这里来，我必秉公判断。」",
     Eng:"And Absalom would add, \"If only I were appointed judge in the land! Then everyone who has a complaint or case could come to me and I would see that he gets justice.\"",
     Ind:"Lagi kata Absalom: \"Sekiranya aku diangkat menjadi hakim di negeri ini! Maka setiap orang yang mempunyai perkara atau pertikaian hukum boleh datang kepadaku, dan aku akan menyelesaikan perkaranya dengan adil.\""
   },
   {Bible:"2Samuel", Chapter:15, Verse:5, Page:1,
-    Kor:"또 누가 가까이 와서 엎드려서 절을 하려고 하면, 그는 손을 내밀어서 그를 일으켜 세우고, 그의 뺨에 입을 맞추곤 하였다.",
+    Kor:"또 누가 가까이 와서, 엎드려서 절을 하려고 하면, 그는 손을 내밀어서, 그를 일으켜 세우고, 그의 뺨에 입을 맞추곤 하였다.",
     Chn:"若有人近前来要拜押沙龙，押沙龙就伸手拉住他，与他亲嘴。",
     Eng:"Also, whenever anyone approached him to bow down before him, Absalom would reach out his hand, take hold of him and kiss him.",
     Ind:"Apabila seseorang datang mendekat untuk sujud menyembah kepadanya, maka diulurkannyalah tangannya, dipegangnya orang itu dan diciumnya."
   },
   {Bible:"2Samuel", Chapter:15, Verse:6, Page:1,
-    Kor:"압살롬은, 왕에게 판결을 받으려고 오는 모든 이스라엘 사람에게 이런 식으로 하였다. 압살롬은 이렇게 하여 이스라엘 사람의 마음을 a사로잡았다.(a 히, '도적하였다')",
+    Kor:"압살롬은, 왕에게 판결을 받으려고 오는 모든 이스라엘 사람에게 이런 식으로 하였다. 압살롬은 이렇게 하여서, 이스라엘 사람의 마음을 사로잡았다.",
     Chn:"以色列人中，凡去见王求判断的，押沙龙都是如此待他们。这样，押沙龙暗中得了以色列人的心。",
     Eng:"Absalom behaved in this way toward all the Israelites who came to the king asking for justice, and so he stole the hearts of the men of Israel.",
     Ind:"Cara yang demikianlah diperbuat Absalom kepada semua orang Israel yang mau masuk menghadap untuk diadili perkaranya oleh raja, dan demikianlah Absalom mencuri hati orang-orang Israel."
   },
   {Bible:"2Samuel", Chapter:15, Verse:7, Page:1,
-    Kor:"○이렇게 b네 해가 지났을 때에 압살롬이 왕에게 아뢰었다. \"제가 주님께 서원한 것이 있으니, 헤브론으로 내려가서 저의 서원을 이루게 하여 주십시오.(b 칠십인역과 시리아어역을 따름. 히, '마흔 해')",
+    Kor:"○이렇게 네 해가 지났을 때에, 압살롬이 왕에게 아뢰었다. \"제가 주께 서원한 것이 있으니, 헤브론으로 내려가서 저의 서원을 이루게 하여 주십시오.",
     Chn:"满了四十年，押沙龙对王说：「求你准我往希伯 去，还我向耶和华所许的愿。",
     Eng:"At the end of four years, Absalom said to the king, \"Let me go to Hebron and fulfill a vow I made to the LORD.",
     Ind:"Sesudah lewat empat tahun bertanyalah Absalom kepada raja: \"Izinkanlah aku pergi, supaya di Hebron aku bayar nazarku, yang telah kuikrarkan kepada TUHAN."
   },
   {Bible:"2Samuel", Chapter:15, Verse:8, Page:1,
-    Kor:"이 종이 시리아의 그술에 머물 때에, 주님께서 저를 다시 예루살렘으로 돌려보내 주기만 하시면, 제가 헤브론으로 가서 주님께 예배를 드리겠다고 서원을 하였습니다.",
+    Kor:"이 종이 시리아의 그술에 머물 때에, 주께서 저를 다시 예루살렘으로 돌려보내 주기만 하시면, 제가 헤브론으로 가서 주께 예배를 드리겠다고 서원을 하였습니다.",
     Chn:"因为仆人住在亚兰的基述，曾许愿说：『耶和华若使我再回耶路撒冷，我必事奉他。』」",
     Eng:"While your servant was living at Geshur in Aram, I made this vow: 'If the LORD takes me back to Jerusalem, I will worship the LORD in Hebron.'\"",
     Ind:"Sebab hambamu ini, ketika masih tinggal di Gesur, di Aram, telah bernazar, demikian: Jika TUHAN sungguh-sungguh memulangkan aku ke Yerusalem, maka aku akan beribadah kepada TUHAN.\""
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Beserta Absalom turut pergi dua ratus orang dari Yerusalem, orang-orang undangan yang turut pergi tanpa curiga dan tanpa mengetahui apapun tentang perkara itu."
   },
   {Bible:"2Samuel", Chapter:15, Verse:12, Page:1,
-    Kor:"c압살롬은 또 사람을 보내어서, 다윗의 참모이던 길로 사람 아히도벨을 그의 성읍인 길로에서 올라오라고 초청하였다. 아히도벨은 길로에서 정규적인 제사 일을 맡아 보고 있었다. 이렇게 반란 세력이 점점 커지니, 압살롬을 따르는 백성도 점점 더 많아졌다.(c 또는 '제사를 드리는 동안, 압살롬은 사람을 보내어 다윗의 참모이던 길로 사람 아히도벨을 그의 성읍인 길로에서 10 15:올라오라고 초청하였다. 이렇게 반란 세력이……')",
+    Kor:"압살롬은 또 사람을 보내서, 다윗의 참모이던 길로 사람 아히도벨을 그의 성읍인 길로에서 올라오라고 초청하였다. 아히도벨은 길로에서 정규적인 제사 일을 맡아 보고 있었다. 이렇게 반란 세력이 점점 커지니, 압살롬을 따르는 백성도 점점 더 많아졌다.",
     Chn:"押沙龙献祭的时候，打发人去将大卫的谋士、基罗人亚希多弗从他本城请了来。于是叛逆的势派甚大；因为随从押沙龙的人民，日渐增多。",
     Eng:"While Absalom was offering sacrifices, he also sent for Ahithophel the Gilonite, David's counselor, to come from Giloh, his hometown. And so the conspiracy gained strength, and Absalom's following kept on increasing.",
     Ind:"Ketika Absalom hendak mempersembahkan korban, disuruhnya datang Ahitofel, orang Gilo itu, penasihat Daud, dari Gilo, kotanya. Demikianlah persepakatan gelap itu menjadi kuat, dan makin banyaklah rakyat yang memihak Absalom."
   },
   {Bible:"2Samuel", Chapter:15, Verse:13, Page:1,
-    Kor:"<다윗이 요단 강 쪽으로 도망하다> ○전령 한 사람이 다윗에게 와서 보고하였다. \"이스라엘 백성의 마음이 모두 압살롬에게로 기울어졌습니다.\"",
+    Kor:"○전령 한 사람이 다윗에게 와서 보고하였다. \"이스라엘 백성의 마음이 모두 압살롬에게로 기울어졌습니다.\"",
     Chn:"有人报告大卫说：「以色列人的心都归向押沙龙了！」",
     Eng:"A messenger came and told David, \"The hearts of the men of Israel are with Absalom.\"",
     Ind:"Lalu datanglah seseorang mengabarkan kepada Daud, katanya: \"Hati orang Israel telah condong kepada Absalom.\""
   },
   {Bible:"2Samuel", Chapter:15, Verse:14, Page:1,
-    Kor:"그러자 다윗은 예루살렘에 있는 모든 신하에게 말하였다. \"서둘러서 모두 여기에서 도망가자. 머뭇거리다가는 아무도 압살롬의 손에서 살아 남지 못할 것이다. 어서 이 곳을 떠나가자. 그가 곧 와서 우리를 따라잡으면, 우리에게도 재앙을 입히고, 이 도성도 칼로 칠 것이다.\"",
+    Kor:"그러자 다윗은 예루살렘에 있는 모든 신하에게 말하였다. \"서둘러서, 모두 여기에서 도망가자. 머뭇거리다가는 아무도 압살롬의 손에서 살아 남지 못할 것이다. 어서 이 곳을 떠나가자. 그가 곧 와서 우리를 따라잡으면, 우리에게도 재앙을 입히고, 이 도성도 칼로 칠 것이다.\"",
     Chn:"大卫就对耶路撒冷跟随他的臣仆说：「我们要起来逃走，不然都不能躲避押沙龙了；要速速地去，恐怕他忽然来到，加害于我们，用刀杀尽合城的人。」",
     Eng:"Then David said to all his officials who were with him in Jerusalem, \"Come! We must flee, or none of us will escape from Absalom. We must leave immediately, or he will move quickly to overtake us and bring ruin upon us and put the city to the sword.\"",
     Ind:"Kemudian berbicaralah Daud kepada semua pegawainya yang ada bersama-sama dengan dia di Yerusalem: \"Bersiaplah, marilah kita melarikan diri, sebab jangan-jangan kita tidak akan luput dari pada Absalom. Pergilah dengan segera, supaya ia jangan dapat lekas menyusul kita, dan mendatangkan celaka atas kita dan memukul kota ini dengan mata pedang!\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu keluarlah raja dan seisi rumahnya mengiringi dia; sepuluh orang gundik ditinggalkan raja untuk menunggui istana."
   },
   {Bible:"2Samuel", Chapter:15, Verse:17, Page:1,
-    Kor:"○왕이 먼저 나아가니, 모든 백성이 그의 뒤를 따라 나섰다. 그들은 d'먼 궁'에 이르자, 모두 멈추어 섰다.(d 히, '벳메르학')",
+    Kor:"○왕이 먼저 나아가니, 모든 백성이 그의 뒤를 따라 나섰다. 그들은 '먼 궁'에 이르자, 모두 멈추어 섰다.",
     Chn:"王出去，众民都跟随他，到伯·墨哈，就住下了。",
     Eng:"So the king set out, with all the people following him, and they halted at a place some distance away.",
     Ind:"Maka keluarlah raja dan seluruh orang-orangnya mengiringi dia. Dekat rumah yang terakhir mereka berhenti"
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"sedang semua pegawainya berjalan melewatinya, juga semua orang Kreti dan semua orang Pleti. Juga semua orang Gat, enam ratus orang banyaknya, yang mengiringi dia sejak dari Gat, berjalan melewati raja."
   },
   {Bible:"2Samuel", Chapter:15, Verse:19, Page:1,
-    Kor:"왕이 가드 사람 잇대에게 말하였다. \"어찌하여 장군은 우리와 함께 가려고 하오? 돌아가 있다가, 새 왕을 모시고 지내도록 하시오. 장군은 외국인이기도 하고, 장군의 본 고장을 두고 보더라도, 쫓겨난 사람이니, 그렇게 하시오.",
+    Kor:"왕이 가드 사람 잇대에게 말하였다. \"어찌하여 그대는 우리와 함께 가려고 하오? 돌아가 있다가, 새 왕을 모시고 지내도록 하시오. 그대는 외국인이기도 하고, 그대의 본 고장을 두고 보더라도, 쫓겨난 사람이니, 그렇게 하시오.",
     Chn:"王对迦特人以太说：「你是外邦逃来的人，为什么与我们同去呢？你可以回去与新王同住，或者回你本地去吧！",
     Eng:"The king said to Ittai the Gittite, \"Why should you come along with us? Go back and stay with King Absalom. You are a foreigner, an exile from your homeland.",
     Ind:"Lalu bertanyalah raja kepada Itai, orang Gat itu: \"Mengapa pula engkau berjalan beserta kami? Pulanglah dan tinggallah bersama-sama raja, sebab engkau orang asing, lagipula engkau orang buangan dari tempat asalmu."
   },
   {Bible:"2Samuel", Chapter:15, Verse:20, Page:1,
-    Kor:"장군이 온 것이 바로 엊그제와 같은데, 오늘 내가 그대를 우리와 함께 떠나게 하여서야 되겠소? 더구나 나는 지금 정처없이 떠나는 사람이 아니오? 어서 장군의 동족을 데리고 돌아가시오. 주님께서 은혜와 진실하심으로 장군과 함께 계셔 주시기를 바라오.\"",
+    Kor:"그대가 온 것이 바로 엊그제와 같은데, 오늘 내가 그대를 우리와 함께 떠나게 하여서야 되겠소? 더구나 나는 지금 정처없이 떠나는 사람이 아니오? 어서 그대의 동족을 데리고 돌아가시오. 주께서 은혜와 진실하심으로 그대와 함께 계셔 주시기를 바라오.\"",
     Chn:"你来的日子不多，我今日怎好叫你与我们一同飘流、没有一定的住处呢？你不如带你的弟兄回去吧！愿耶和华用慈爱诚实待你。」",
     Eng:"You came only yesterday. And today shall I make you wander about with us, when I do not know where I am going? Go back, and take your countrymen. May kindness and faithfulness be with you.\"",
     Ind:"Baru kemarin engkau datang, masakan pada hari ini aku akan membawa engkau mengembara bersama-sama kami, padahal aku harus pergi entah ke mana. Pulanglah dan bawalah juga saudara-saudaramu pulang; mudah-mudahan TUHAN menunjukkan kasih dan setia kepadamu!\""
   },
   {Bible:"2Samuel", Chapter:15, Verse:21, Page:1,
-    Kor:"그러나 잇대는 왕에게 대답하였다. \"주님께서 확실히 살아 계시고, 임금님께서도 확실히 살아 계심을 두고 맹세합니다만, 그럴 수는 없습니다. 임금님께서 가시는 곳이면, 살든지 죽든지, 이 종도 따라가겠습니다.\"",
+    Kor:"그러나 잇대는 왕에게 대답하였다. \"주께서 확실히 살아 계시고, 임금님께서도 확실히 살아 계심을 두고 맹세합니다만, 그럴 수는 없습니다. 임금님께서 가시는 곳이면, 살든지 죽든지, 이 종도 따라가겠습니다.\"",
     Chn:"以太对王说：「我指着永生的耶和华起誓，又敢在王面前起誓：无论生死，王在哪里，仆人也必在那里。」",
     Eng:"But Ittai replied to the king, \"As surely as the LORD lives, and as my lord the king lives, wherever my lord the king may be, whether it means life or death, there will your servant be.\"",
     Ind:"Tetapi Itai menjawab raja: \"Demi TUHAN yang hidup, dan demi hidup tuanku raja, di mana tuanku raja ada, baik hidup atau mati, di situ hambamu juga ada.\""
@@ -135,37 +135,37 @@ BibleDB.add([
     Ind:"Lalu berkatalah Daud kepada Itai: \"Jika demikian, berjalanlah lewat.\" Kemudian lewatlah Itai, orang Gat itu, bersama-sama dengan semua orangnya dan semua anak yang menyertai dia."
   },
   {Bible:"2Samuel", Chapter:15, Verse:23, Page:1,
-    Kor:"이렇게 해서 다윗의 부하들이 모두 그의 앞을 지나갈 때에, 온 땅이 울음 바다가 되었다. 왕이 기드론 시내를 건너 가니, 그의 부하도 모두 그의 앞을 지나서, 광야 쪽으로 행군하였다.",
+    Kor:"이렇게 해서, 다윗의 부하들이 모두 그의 앞을 지나갈 때에, 온 땅이 울음 바다가 되었다. 왕이 기드론 시내를 건너 가니, 그의 부하도 모두 그의 앞을 지나서, 광야 쪽으로 행군하였다.",
     Chn:"本地的人都放声大哭。众民尽都过去，王也过了汲沦溪；众民往旷野去了。",
     Eng:"The whole countryside wept aloud as all the people passed by. The king also crossed the Kidron Valley, and all the people moved on toward the desert.",
     Ind:"Seluruh negeri menangis dengan suara keras, ketika seluruh rakyat berjalan lewat. Raja menyeberangi sungai Kidron dan seluruh rakyat berjalan ke arah padang gurun."
   },
   {Bible:"2Samuel", Chapter:15, Verse:24, Page:1,
-    Kor:"○그런데 그 곳에는, 하나님의 언약궤를 메고 온 모든 레위 사람과 함께, 사독도 와 있었다. 그들은 거기에다가 하나님의 궤를 내려놓았다. 아비아달도 따라 올라와서, 다윗의 부하가 도성에서 나아와서, 왕의 앞을 모두 지나갈 때까지 거기에 있었다.",
+    Kor:"○그런데 그 곳에는, 하나님의 언약궤를 메고 온 모든 레위 사람과 함께, 사독도 와 있었다. 그들은, 거기에다가 하나님의 궤를 내려놓았다. 아비아달도 따라 올라와서, 다윗의 부하가 도성에서 나아와서, 왕의 앞을 모두 지나갈 때까지 거기에 있었다.",
     Chn:"撒督和抬　神约柜的利未人也一同来了，将　神的约柜放下。亚比亚他上来，等着众民从城里出来过去。",
     Eng:"Zadok was there, too, and all the Levites who were with him were carrying the ark of the covenant of God. They set down the ark of God, and Abiathar offered sacrifices until all the people had finished leaving the city.",
     Ind:"Dan lihat, juga Zadok ada di sana beserta semua orang Lewi pengangkat tabut perjanjian Allah. Mereka meletakkan tabut Allah itu--juga Abyatar ikut datang--sampai seluruh rakyat dari kota selesai menyeberang."
   },
   {Bible:"2Samuel", Chapter:15, Verse:25, Page:1,
-    Kor:"그런 뒤에 왕이 사독에게 말하였다. \"하나님의 궤를 다시 도성 안으로 옮기시오. 내가 주님께 은혜를 입으면, 주님께서 나를 다시 돌려보내 주셔서, 이 궤와 이 궤가 있는 곳을 다시 보게 하실 것이오.",
+    Kor:"그런 뒤에, 왕이 사독에게 말하였다. \"하나님의 궤를 다시 도성 안으로 옮기시오. 내가 주께 은혜를 입으면, 주께서 나를 다시 돌려보내 주셔서, 이 궤와, 이 궤가 있는 곳을, 다시 보게 하실 것이오.",
     Chn:"王对撒督说：「你将　神的约柜抬回城去。我若在耶和华眼前蒙恩，他必使我回来，再见约柜和他的居所。",
     Eng:"Then the king said to Zadok, \"Take the ark of God back into the city. If I find favor in the LORD'S eyes, he will bring me back and let me see it and his dwelling place again.",
     Ind:"Lalu berkatalah raja kepada Zadok: \"Bawalah tabut Allah itu kembali ke kota; jika aku mendapat kasih karunia di mata TUHAN, maka Ia akan mengizinkan aku kembali, sehingga aku akan melihatnya lagi, juga tempat kediamannya."
   },
   {Bible:"2Samuel", Chapter:15, Verse:26, Page:1,
-    Kor:"그러나 주님께서 나를 싫다고 하시면, 오직 주님께서 바라시는 대로 나에게서 이루시기를 빌 수밖에 없소.\"",
+    Kor:"그러나 주께서 나를 싫다고 하시면, 오직 주께서 바라시는 대로 나에게서 이루시기를 빌 수밖에 없소.\"",
     Chn:"倘若他说：『我不喜悦你』，看哪，我在这里，愿他凭自己的意旨待我！」",
     Eng:"But if he says, 'I am not pleased with you,' then I am ready; let him do to me whatever seems good to him.\"",
     Ind:"Tetapi jika Ia berfirman, begini: Aku tidak berkenan kepadamu, maka aku bersedia, biarlah dilakukan-Nya kepadaku apa yang baik di mata-Nya.\""
   },
   {Bible:"2Samuel", Chapter:15, Verse:27, Page:1,
-    Kor:"○왕이 또 제사장 사독에게 말하였다. \"사독 제사장님께서는 선견자가 아니십니까? 성 안으로 평안히 돌아가시기 바랍니다. 제사장께서는 아비아달 제사장과 함께 두 분의 아들 곧 제사장님의 아들 아히마아스와 아비아달 제사장의 아들 요나단을 데리고 가십시오.",
+    Kor:"○왕이 또 제사장 사독에게 말하였다. \"그대는 선견자가 아니오? 성 안으로 평안히 돌아가시오. 그대와 아비아달은 두 아들, 곧 그대의 아들 아히마아스와 아비아달의 아들 요나단을 데리고 가시오.",
     Chn:"王又对祭司撒督说：「你不是先见吗？你可以安然回城；你儿子亚希玛斯和亚比亚他的儿子约拿单都可以与你同去。",
     Eng:"The king also said to Zadok the priest, \"Aren't you a seer? Go back to the city in peace, with your son Ahimaaz and Jonathan son of Abiathar. You and Abiathar take your two sons with you.",
     Ind:"Lagi berkatalah raja kepada Zadok, imam itu: \"Jadi, engkau dan Abyatar, pulanglah ke kota dengan selamat beserta anakmu masing-masing, yakni Ahimaas anakmu dan Yonatan, anak Abyatar."
   },
   {Bible:"2Samuel", Chapter:15, Verse:28, Page:1,
-    Kor:"두 분께서 나에게 소식을 보내 올 때까지는, 내가 광야의 나루터에서 머물고 있을 터이니, 이 점을 명심하십시오.\"",
+    Kor:"그대들에게서 나에게 소식을 보내 올 때까지는, 내가 광야의 나루터에서 머물고 있을 터이니, 이 점을 명심하시오.",
     Chn:"我在旷野的渡口那里等你们报信给我。」",
     Eng:"I will wait at the fords in the desert until word comes from you to inform me.\"",
     Ind:"Ketahuilah, aku akan menanti di dekat tempat-tempat penyeberangan ke padang gurun, sampai ada kabar dari kamu untuk memberitahu aku.\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Daud mendaki bukit Zaitun sambil menangis, kepalanya berselubung dan ia berjalan dengan tidak berkasut. Juga seluruh rakyat yang bersama-sama dengan dia masing-masing berselubung kepalanya, dan mereka mendaki sambil menangis."
   },
   {Bible:"2Samuel", Chapter:15, Verse:31, Page:1,
-    Kor:"그 때에 누가 다윗에게, 압살롬과 함께 반역한 사람들 가운데는 아히도벨도 끼여 있다는 말을 전하자, 다윗이 기도하였다. \"주님, 부디, 아히도벨의 계획이 어리석은 것이 되게 하여 주십시오.\"",
+    Kor:"그 때에 누가 다윗에게, 압살롬과 함께 반역한 사람들 가운데는 아히도벨도 끼어 있다는 말을 전하자, 다윗이 기도하였다. \"주님, 부디, 아히도벨의 계획이 어리석은 것이 되게 하여 주십시오.\"",
     Chn:"有人告诉大卫说：「亚希多弗也在叛党之中，随从押沙龙。」大卫祷告说：「耶和华啊，求你使亚希多弗的计谋变为愚拙！」",
     Eng:"Now David had been told, \"Ahithophel is among the conspirators with Absalom.\" So David prayed, \"O LORD, turn Ahithophel's counsel into foolishness.\"",
     Ind:"Ketika kepada Daud dikabarkan, demikian: \"Ahitofel ada di antara orang-orang yang bersepakat dengan Absalom,\" maka berkatalah Daud: \"Gagalkanlah kiranya nasihat Ahitofel itu, ya TUHAN.\""
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"tetapi jika engkau kembali ke kota dan berkata kepada Absalom: Aku ini hambamu, ya raja, sejak dahulu aku hamba ayahmu, tetapi sekarang aku menjadi hambamu, --dengan demikian engkau dapat membatalkan nasihat Ahitofel demi aku."
   },
   {Bible:"2Samuel", Chapter:15, Verse:35, Page:1,
-    Kor:"그 곳에 가면, 두 제사장 사독과 아비아달이 그대와 합세할 것이오. 그러므로 그대가 왕궁에서 듣는 말은, 무엇이든지 두 제사장 사독과 아비아달에게 전하시오.",
+    Kor:"그 곳에 가면, 제사장 사독과 아비아달이 그대와 합세할 것이오. 그러므로 그대가 왕궁에서 듣는 말은, 무엇이든지 제사장 사독과 아비아달에게 전하시오.",
     Chn:"祭司撒督和亚比亚他岂不都在那里吗？你在王宫里听见什么，就要告诉祭司撒督和亚比亚他。",
     Eng:"Won't the priests Zadok and Abiathar be there with you? Tell them anything you hear in the king's palace.",
     Ind:"Bukankah Zadok dan Abyatar, imam-imam itu, ada bersama-sama engkau di sana? Jadi segala yang kaudengar dari dalam istana raja, haruslah kauberitahukan kepada Zadok dan Abyatar, imam-imam itu."

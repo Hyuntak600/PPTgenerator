@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",130,8);
 BibleDB.add([
   {Bible:"Psalms", Chapter:130, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래> 주님, 내가 깊은 물 속에서 주님을 불렀습니다.",
+    Kor:"주님, 내가 깊은 구렁 속에서 주님을 불렀습니다.",
     Chn:"上行之诗。 耶和华啊，我从深处向你求告！",
     Eng:"Out of the depths I cry to you, O LORD;",
     Ind:"Nyanyian ziarah. Dari jurang yang dalam aku berseru kepada-Mu, ya TUHAN!"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Tuhan, dengarkanlah suaraku! Biarlah telinga-Mu menaruh perhatian kepada suara permohonanku."
   },
   {Bible:"Psalms", Chapter:130, Verse:3, Page:1,
-    Kor:"주님, 주님께서 죄를 지켜 보고 계시면, 주님 앞에 누가 감히 맞설 수 있겠습니까?",
+    Kor:"주님, 주께서 죄를 지켜 보고 계시면, 주님 앞에 누가 감히 버티어 설 수 있겠습니까?",
     Chn:"主—耶和华啊，你若究察罪孽， 谁能站得住呢？",
     Eng:"If you, O LORD, kept a record of sins, O Lord, who could stand?",
     Ind:"Jika Engkau, ya TUHAN, mengingat-ingat kesalahan-kesalahan, Tuhan, siapakah yang dapat tahan?"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Tetapi pada-Mu ada pengampunan, supaya Engkau ditakuti orang."
   },
   {Bible:"Psalms", Chapter:130, Verse:5, Page:1,
-    Kor:"내가 주님을 기다린다. 내 영혼이 주님을 기다리며 내가 주님의 말씀만을 바란다.",
+    Kor:"내가 주님을 기다린다. 내 영혼이 주님을 기다리며 내가 주의 말씀만을 바란다.",
     Chn:"我等候耶和华，我的心等候； 我也仰望他的话。",
     Eng:"I wait for the LORD, my soul waits, and in his word I put my hope.",
     Ind:"Aku menanti-nantikan TUHAN, jiwaku menanti-nanti, dan aku mengharapkan firman-Nya."
   },
   {Bible:"Psalms", Chapter:130, Verse:6, Page:1,
-    Kor:"내 영혼이 주님을 기다림이 파수꾼이 아침을 기다림보다 더 간절하다. 진실로 파수꾼이 아침을 기다림보다 더 간절하다.",
+    Kor:"내 영혼이 주님을 기다림이 파수꾼이 아침을 기다림보다 더 간절하다. 파수꾼이 아침을 기다림보다 더 간절하다.",
     Chn:"我的心等候主， 胜于守夜的，等候天亮， 胜于守夜的，等候天亮。",
     Eng:"My soul waits for the Lord more than watchmen wait for the morning, more than watchmen wait for the morning.",
     Ind:"Jiwaku mengharapkan Tuhan lebih dari pada pengawal mengharapkan pagi, lebih dari pada pengawal mengharapkan pagi."

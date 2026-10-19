@@ -3,43 +3,43 @@
 BibleDB.ref("2Kings",2,25);
 BibleDB.add([
   {Bible:"2Kings", Chapter:2, Verse:1, Page:1,
-    Kor:"<엘리야가 승천하다> 주님께서 엘리야를 회오리바람에 실어 하늘로 데리고 올라가실 때가 되니, 엘리야가 엘리사를 데리고 길갈을 떠났다. 길을 가다가,",
+    Kor:"주께서 엘리야를 회오리바람에 실어 하늘로 데리고 올라가실 때가 되니, 엘리야가 엘리사를 데리고 길갈을 떠났다. 길을 가다가,",
     Chn:"耶和华要用旋风接以利亚升天的时候，以利亚与以利沙从吉甲前往。",
     Eng:"When the LORD was about to take Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal.",
     Ind:"Menjelang saatnya TUHAN hendak menaikkan Elia ke sorga dalam angin badai, Elia dan Elisa sedang berjalan dari Gilgal."
   },
   {Bible:"2Kings", Chapter:2, Verse:2, Page:1,
-    Kor:"엘리야가 엘리사에게 말하였다. \"나는 주님의 분부대로 베델로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주님께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 그들은 함께 베델까지 내려갔다.",
+    Kor:"엘리야가 엘리사에게 말하였다. \"나는 주의 분부대로 베델로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 그들은 함께 베델까지 내려갔다.",
     Chn:"以利亚对以利沙说：「耶和华差我往伯特利去，你可以在这里等候。」以利沙说：「我指着永生的耶和华，又敢在你面前起誓，我必不离开你。」于是二人下到伯特利。",
     Eng:"Elijah said to Elisha, \"Stay here; the LORD has sent me to Bethel.\" But Elisha said, \"As surely as the LORD lives and as you live, I will not leave you.\" So they went down to Bethel.",
     Ind:"Berkatalah Elia kepada Elisa: \"Baiklah tinggal di sini, sebab TUHAN menyuruh aku ke Betel.\" Tetapi Elisa menjawab: \"Demi TUHAN yang hidup dan demi hidupmu sendiri, sesungguhnya aku tidak akan meninggalkan engkau.\" Lalu pergilah mereka ke Betel."
   },
   {Bible:"2Kings", Chapter:2, Verse:3, Page:1,
-    Kor:"베델에 살고 있는 a예언자 수련생들이 엘리사에게 와서 물었다. \"선생님의 스승을 주님께서 오늘 하늘로 데려가려고 하시는데, 선생님께서는 알고 계십니까?\" 엘리사가 말하였다. \"나도 알고 있으니, 조용히 하시오.\"(a 히, '예언자들의 아들들')",
+    Kor:"베델에 살고 있는 예언자 수련생들이 엘리사에게 와서 물었다. \"선생님의 스승을 주께서 오늘 하늘로 데려가려고 하시는데, 선생님께서는 알고 계십니까?\" 엘리사가 말하였다. \"나도 알고 있으니, 조용히 하시오.\"",
     Chn:"住伯特利的先知门徒出来见以利沙，对他说：「耶和华今日要接你的师傅离开你，你知道不知道？」他说：「我知道，你们不要作声。」",
     Eng:"The company of the prophets at Bethel came out to Elisha and asked, \"Do you know that the LORD is going to take your master from you today?\" \"Yes, I know,\" Elisha replied, \"but do not speak of it.\"",
     Ind:"Pada waktu itu keluarlah rombongan nabi yang ada di Betel mendapatkan Elisa, lalu berkatalah mereka kepadanya: \"Sudahkah engkau tahu, bahwa pada hari ini tuanmu akan diambil dari padamu oleh TUHAN terangkat ke sorga?\" Jawabnya: \"Aku juga tahu, diamlah!\""
   },
   {Bible:"2Kings", Chapter:2, Verse:4, Page:1,
-    Kor:"○엘리야가 엘리사에게 말하였다. \"나는 주님의 분부대로 여리고로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주님께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 그들은 함께 여리고로 갔다.",
+    Kor:"○엘리야가 엘리사에게 말하였다. \"나는 주님의 분부대로 여리고로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 그들은 함께 여리고로 갔다.",
     Chn:"以利亚对以利沙说：「耶和华差遣我往耶利哥去，你可以在这里等候。」以利沙说：「我指着永生的耶和华，又敢在你面前起誓，我必不离开你。」于是二人到了耶利哥。",
     Eng:"Then Elijah said to him, \"Stay here, Elisha; the LORD has sent me to Jericho.\" And he replied, \"As surely as the LORD lives and as you live, I will not leave you.\" So they went to Jericho.",
     Ind:"Berkatalah Elia kepadanya: \"Hai Elisa, baiklah tinggal di sini, sebab TUHAN menyuruh aku ke Yerikho.\" Tetapi jawabnya: \"Demi TUHAN yang hidup dan demi hidupmu sendiri, sesungguhnya aku tidak akan meninggalkan engkau.\" Lalu sampailah mereka di Yerikho."
   },
   {Bible:"2Kings", Chapter:2, Verse:5, Page:1,
-    Kor:"여리고에 살고 있는 예언자 수련생들이 엘리사에게 와서 물었다. \"선생님의 스승을 주님께서 오늘 하늘로 데려가려고 하시는데, 선생님께서는 알고 계십니까?\" 엘리사가 말하였다. \"나도 알고 있으니, 조용히 하시오.\"",
+    Kor:"여리고에 살고 있는 예언자 수련생들이 엘리사에게 와서 물었다. \"선생님의 스승을 주께서 오늘 하늘로 데려가려고 하시는데, 선생님께서는 알고 계십니까?\" 엘리사가 말하였다. \"나도 알고 있으니, 조용히 하시오.\"",
     Chn:"住耶利哥的先知门徒就近以利沙，对他说：「耶和华今日要接你的师傅离开你，你知道不知道？」他说：「我知道，你们不要作声。」",
     Eng:"The company of the prophets at Jericho went up to Elisha and asked him, \"Do you know that the LORD is going to take your master from you today?\" \"Yes, I know,\" he replied, \"but do not speak of it.\"",
     Ind:"Pada waktu itu mendekatlah rombongan nabi yang ada di Yerikho kepada Elisa serta berkata kepadanya: \"Sudahkah engkau tahu, bahwa pada hari ini tuanmu akan diambil dari padamu oleh TUHAN terangkat ke sorga?\" Jawabnya: \"Aku juga tahu, diamlah!\""
   },
   {Bible:"2Kings", Chapter:2, Verse:6, Page:1,
-    Kor:"○엘리야가 엘리사에게 말하였다. \"나는 주님의 분부대로 요단 강으로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주님께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 두 사람은 함께 길을 떠났다.",
+    Kor:"○엘리야가 엘리사에게 말하였다. \"나는 주님의 분부대로 요단 강으로 가야 한다. 그러나 너는 여기에 남아 있거라.\" 그러나 엘리사는 \"주께서 살아 계심과 스승께서 살아 계심을 두고 맹세합니다. 나는 결코 스승님을 떠나지 않겠습니다\" 하고 말하였다. 그리하여 두 사람은 함께 길을 떠났다.",
     Chn:"以利亚对以利沙说：「耶和华差遣我往约旦河去，你可以在这里等候。」以利沙说：「我指着永生的耶和华，又敢在你面前起誓，我必不离开你。」于是二人一同前往。",
     Eng:"Then Elijah said to him, \"Stay here; the LORD has sent me to the Jordan.\" And he replied, \"As surely as the LORD lives and as you live, I will not leave you.\" So the two of them walked on.",
     Ind:"Berkatalah Elia kepadanya: \"Baiklah tinggal di sini, sebab TUHAN menyuruh aku ke sungai Yordan.\" Jawabnya: \"Demi TUHAN yang hidup dan demi hidupmu sendiri, sesungguhnya aku tidak akan meninggalkan engkau.\" Lalu berjalanlah keduanya."
   },
   {Bible:"2Kings", Chapter:2, Verse:7, Page:1,
-    Kor:"a예언자 수련생들 가운데서 쉰 명이 요단 강까지 그들을 따라갔다. 엘리야와 엘리사가 요단 강 가에 서니, 따르던 제자들도 멀찍이 멈추어 섰다.(a 히, '예언자들의 아들들')",
+    Kor:"예언자 수련생들 가운데서 쉰 명이 요단 강까지 그들을 따라갔다. 엘리야와 엘리사가 요단 강 가에 서니, 따르던 제자들도 멀찍이 멈추어 섰다.",
     Chn:"有先知门徒去了五十人，远远地站在他们对面；二人在约旦河边站住。",
     Eng:"Fifty men of the company of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped at the Jordan.",
     Ind:"Lima puluh orang dari rombongan nabi itu ikut berjalan, tetapi mereka berdiri memandang dari jauh, ketika keduanya berdiri di tepi sungai Yordan."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Lalu Elia mengambil jubahnya, digulungnya, dipukulkannya ke atas air itu, maka terbagilah air itu ke sebelah sini dan ke sebelah sana, sehingga menyeberanglah keduanya dengan berjalan di tanah yang kering."
   },
   {Bible:"2Kings", Chapter:2, Verse:9, Page:1,
-    Kor:"○요단 강 맞은쪽에 이르러, 엘리야가 엘리사에게 말하였다. \"주님께서 나를 데려가시기 전에 내가 네게 어떻게 해주기를 바라느냐?\" 엘리사는 엘리야에게 \"스승님이 가지고 계신 능력을 제가 갑절로 받기를 바랍니다\" 하고 대답하였다.",
+    Kor:"○요단 강 맞은쪽에 이르러, 엘리야가 엘리사에게 말하였다. \"주께서 나를 데려가시기 전에, 내가 네게 어떻게 해주기를 바라느냐?\" 엘리사는 엘리야에게 \"스승님이 가지고 계신 능력을 제가 갑절로 받기를 바랍니다\" 하고 대답하였다.",
     Chn:"过去之后，以利亚对以利沙说：「我未曾被接去离开你，你要我为你做什么，只管求我。」以利沙说：「愿感动你的灵加倍地感动我。」",
     Eng:"When they had crossed, Elijah said to Elisha, \"Tell me, what can I do for you before I am taken from you?\" \"Let me inherit a double portion of your spirit,\" Elisha replied.",
     Ind:"Dan sesudah mereka sampai di seberang, berkatalah Elia kepada Elisa: \"Mintalah apa yang hendak kulakukan kepadamu, sebelum aku terangkat dari padamu.\" Jawab Elisa: \"Biarlah kiranya aku mendapat dua bagian dari rohmu.\""
   },
   {Bible:"2Kings", Chapter:2, Verse:10, Page:1,
-    Kor:"엘리야가 말하였다. \"너는 참으로 어려운 것을 요구하는구나. 주님께서 나를 너에게서 데려가시는 것을 네가 보면, 네 소원이 이루어지겠지만, 그렇지 않으면 그것이 이루어지지 않을 것이다.\"",
+    Kor:"엘리야가 말하였다. \"너는 참으로 어려운 것을 요구하는구나. 주께서 나를 너에게서 데려가시는 것을 네가 보면, 네 소원이 이루어지겠지만, 그렇지 않으면 그것이 이루어지지 않을 것이다.\"",
     Chn:"以利亚说：「你所求的难得。虽然如此，我被接去离开你的时候，你若看见我，就必得着；不然，必得不着了。」",
     Eng:"\"You have asked a difficult thing,\" Elijah said, \"yet if you see me when I am taken from you, it will be yours--otherwise not.\"",
     Ind:"Berkatalah Elia: \"Yang kauminta itu adalah sukar. Tetapi jika engkau dapat melihat aku terangkat dari padamu, akan terjadilah kepadamu seperti yang demikian, dan jika tidak, tidak akan terjadi.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sesudah itu dipungutnya jubah Elia yang telah terjatuh, lalu ia berjalan hendak pulang dan berdiri di tepi sungai Yordan."
   },
   {Bible:"2Kings", Chapter:2, Verse:14, Page:1,
-    Kor:"엘리야가 떨어뜨리고 간 그 겉옷으로 강물을 치면서 \"엘리야의 주 하나님, 주님께서는 어디에 계십니까?\" 하고 외치고, 또 물을 치니, 강물이 좌우로 갈라졌다. 엘리사가 그리로 강을 건넜다.",
+    Kor:"엘리야가 떨어뜨리고 간 그 겉옷으로 강물을 치면서 \"엘리야의 주 하나님, 주께서는 어디에 계십니까?\" 하고 외치고, 또 물을 치니, 강물이 좌우로 갈라졌다. 엘리사가 그리로 강을 건넜다.",
     Chn:"他用以利亚身上掉下来的外衣打水，说：「耶和华—以利亚的　神在哪里呢？」打水之后，水也左右分开，以利沙就过来了。",
     Eng:"Then he took the cloak that had fallen from him and struck the water with it. \"Where now is the LORD, the God of Elijah?\" he asked. When he struck the water, it divided to the right and to the left, and he crossed over.",
     Ind:"Ia mengambil jubah Elia yang telah terjatuh itu, dipukulkannya ke atas air itu sambil berseru: \"Di manakah TUHAN, Allah Elia?\" Ia memukul air itu, lalu terbagi ke sebelah sini dan ke sebelah sana, maka menyeberanglah Elisa."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Ketika rombongan nabi yang dari Yerikho itu melihat dia dari jauh, mereka berkata: \"Roh Elia telah hinggap pada Elisa.\" Mereka datang menemui dia, lalu sujudlah mereka kepadanya sampai ke tanah."
   },
   {Bible:"2Kings", Chapter:2, Verse:16, Page:1,
-    Kor:"그리고 엘리사에게 말하였다. \"보십시오, 여기에 선생님의 제자들이 쉰 명이나 있습니다. 우리들은 모두 힘있는 사람입니다. 우리들을 보내셔서, 선생님의 스승을 찾아보도록 하십시오. 주님의 영이 그를 들어다가, 산 위에나 계곡에 내던졌을까 염려됩니다.\" 그러나 엘리사는, 보낼 필요가 없다고 말하였다.",
+    Kor:"그리고 엘리사에게 말하였다. \"보십시오, 여기에 선생님의 제자들이 쉰 명이나 있습니다. 우리들은 모두 힘있는 사람입니다. 우리들을 보내셔서, 선생님의 스승을 찾아보도록 하십시오. 주의 영이 그를 들어다가, 산 위에나 계곡에 내던졌을까 염려됩니다.\" 그러나 엘리사는, 보낼 필요가 없다고 말하였다.",
     Chn:"对他说：「仆人们这里有五十个壮士，求你容他们去寻找你师傅，或者耶和华的灵将他提起来，投在某山某谷。」以利沙说：「你们不必打发人去。」",
     Eng:"\"Look,\" they said, \"we your servants have fifty able men. Let them go and look for your master. Perhaps the Spirit of the LORD has picked him up and set him down on some mountain or in some valley.\" \"No,\" Elisha replied, \"do not send them.\"",
     Ind:"Mereka berkata: \"Coba lihat! Di antara hamba-hambamu ini ada lima puluh orang laki-laki, orang-orang tangkas. Biarlah mereka itu pergi mencari tuanmu, jangan-jangan ia diangkat oleh Roh TUHAN dan dilemparkan-Nya ke atas salah satu gunung atau ke dalam salah satu lembah.\" Elisa menjawab: \"Janganlah suruh pergi!\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Ketika mereka kembali kepada Elisa yang masih tinggal di kota Yerikho, berkatalah ia kepada mereka: \"Bukankah telah kukatakan kepadamu: Jangan pergi?\""
   },
   {Bible:"2Kings", Chapter:2, Verse:19, Page:1,
-    Kor:"<엘리사의 기적> ○그 성읍 사람들이 엘리사에게 말하였다. \"보십시오, 선생님께서도 보시는 바와 같이, 이 성읍이 차지하고 있는 자리는 좋지만, 물이 좋지 않아서, 이 땅에서는 사람들이 아이를 유산합니다.\"",
+    Kor:"○그 성읍 사람들이 엘리사에게 말하였다. \"보십시오, 선생님께서도 보시는 바와 같이, 이 성읍이 차지하고 있는 자리는 좋지만, 물이 좋지 않아서, 이 땅에서는 사람들이 아이를 유산합니다.\"",
     Chn:"耶利哥城的人对以利沙说：「这城的地势美好，我主看见了；只是水恶劣，土产不熟而落。」",
     Eng:"The men of the city said to Elisha, \"Look, our lord, this town is well situated, as you can see, but the water is bad and the land is unproductive.\"",
     Ind:"Berkatalah penduduk kota itu kepada Elisa: \"Cobalah lihat! Letaknya kota ini baik, seperti tuanku lihat, tetapi airnya tidak baik dan di negeri ini sering ada keguguran bayi.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Jawabnya: \"Ambillah sebuah pinggan baru bagiku dan taruhlah garam ke dalamnya.\" Maka mereka membawa pinggan itu kepadanya."
   },
   {Bible:"2Kings", Chapter:2, Verse:21, Page:1,
-    Kor:"엘리사는 물의 근원이 있는 곳으로 가서, 소금을 그 곳에 뿌리며 말하였다. \"주님께서 이렇게 말씀하신다. '내가 이 물을 맑게 고쳐 놓았으니, 다시는 이 곳에서 사람들이 물 때문에 죽거나 유산하는 일이 없을 것이다.'\"",
+    Kor:"엘리사는 물의 근원이 있는 곳으로 가서, 소금을 그 곳에 뿌리며 말하였다. \"주께서 이렇게 말씀하신다. '내가 이 물을 맑게 고쳐 놓았으니, 다시는 이 곳에서 사람들이 물 때문에 죽거나 유산하는 일이 없을 것이다.'\"",
     Chn:"他出到水源，将盐倒在水中，说：「耶和华如此说：『我治好了这水，从此必不再使人死，也不再使地土不生产。』」",
     Eng:"Then he went out to the spring and threw the salt into it, saying, \"This is what the LORD says: 'I have healed this water. Never again will it cause death or make the land unproductive.'\"",
     Ind:"Kemudian pergilah ia ke mata air mereka dan melemparkan garam itu ke dalamnya serta berkata: \"Beginilah firman TUHAN: Telah Kusehatkan air ini, maka tidak akan terjadi lagi olehnya kematian atau keguguran bayi.\""
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Elisa pergi dari sana ke Betel. Dan sedang ia mendaki, maka keluarlah anak-anak dari kota itu, lalu mencemoohkan dia serta berseru kepadanya: \"Naiklah botak, naiklah botak!\""
   },
   {Bible:"2Kings", Chapter:2, Verse:24, Page:1,
-    Kor:"엘리사는 돌아서서 그들을 보고, 주님의 이름으로 저주하였다. 그러자 곧 두 마리의 곰이 숲에서 나와서, 마흔두 명이나 되는 아이들을 찢어 죽였다.",
+    Kor:"엘리사는 돌아서서 그들을 보고, 주의 이름으로 저주하였다. 그러자 곧 두 마리의 곰이 숲에서 나와서, 마흔두 명이나 되는 아이들을 찢어 죽였다.",
     Chn:"他回头看见，就奉耶和华的名咒诅他们。于是有两只母熊从林中出来，撕裂他们中间四十二个童子。",
     Eng:"He turned around, looked at them and called down a curse on them in the name of the LORD. Then two bears came out of the woods and mauled forty-two of the youths.",
     Ind:"Lalu berpalinglah ia ke belakang, dan ketika ia melihat mereka, dikutuknyalah mereka demi nama TUHAN. Maka keluarlah dua ekor beruang dari hutan, lalu mencabik-cabik dari mereka empat puluh dua orang anak."

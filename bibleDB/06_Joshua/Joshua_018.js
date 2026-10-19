@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",18,28);
 BibleDB.add([
   {Bible:"Joshua", Chapter:18, Verse:1, Page:1,
-    Kor:"<나머지 땅 분할> 이스라엘 자손이 그 땅을 정복한 뒤의 일이다. 이스라엘 자손 온 회중이 실로에 모여서, 거기에 회막을 세웠다.",
+    Kor:"이스라엘 자손이 그 땅을 정복한 뒤의 일이다. 이스라엘 자손 온 회중이 실로에 모여서, 거기에 회막을 세웠다.",
     Chn:"以色列的全会众都聚集在示罗，把会幕设立在那里，那地已经被他们制伏了。",
     Eng:"The whole assembly of the Israelites gathered at Shiloh and set up the Tent of Meeting there. The country was brought under their control,",
     Ind:"Maka berkumpullah segenap umat Israel di Silo, lalu mereka menempatkan Kemah Pertemuan di sana, karena negeri itu telah takluk kepada mereka."
@@ -15,55 +15,55 @@ BibleDB.add([
     Ind:"Pada waktu itu masih tinggal tujuh suku di antara orang Israel, yang belum mendapat bagian milik pusaka."
   },
   {Bible:"Joshua", Chapter:18, Verse:3, Page:1,
-    Kor:"그래서 여호수아가 이스라엘 자손에게 이렇게 말하였다. \"당신들은 어느 때까지 주 당신들 조상의 하나님이 당신들에게 주신 땅을 차지하러 가기를 미루겠소?",
+    Kor:"그래서 여호수아가 이스라엘 자손에게 이렇게 말하였다. \"너희는 어느 때까지 주 너희 조상의 하나님이 너희에게 주신 땅을 차지하러 가기를 미루겠느냐?",
     Chn:"约书亚对以色列人说：「耶和华—你们列祖的　神所赐给你们的地，你们耽延不去得，要到几时呢？",
     Eng:"So Joshua said to the Israelites: \"How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?",
     Ind:"Sebab itu berkatalah Yosua kepada orang Israel: \"Berapa lama lagi kamu bermalas-malas, sehingga tidak pergi menduduki negeri yang telah diberikan kepadamu oleh TUHAN, Allah nenek moyangmu?"
   },
   {Bible:"Joshua", Chapter:18, Verse:4, Page:1,
-    Kor:"당신들은 각 지파에서 세 사람씩을 선출하시오. 내가 그들을 그리로 보내겠소. 그들이 가서 그 땅을 두루 다닌 뒤에, 자기 지파가 유산으로 받을 땅의 모양을 그려서 내게로 가져 오도록 하겠소.",
+    Kor:"너희는 각 지파에서 세 사람씩을 선출하여라. 내가 그들을 그리로 보내겠다. 그들이 가서 그 땅을 두루 다닌 뒤에, 자기 지파가 유산으로 받을 땅의 모양을 그려서, 내게로 가져 오도록 하겠다.",
     Chn:"你们每支派当选举三个人，我要打发他们去，他们就要起身走遍那地，按着各支派应得的地业写明，就回到我这里来。",
     Eng:"Appoint three men from each tribe. I will send them out to make a survey of the land and to write a description of it, according to the inheritance of each. Then they will return to me.",
     Ind:"Ajukanlah tiga orang dari tiap-tiap suku; maka aku akan menyuruh mereka, supaya mereka bersiap untuk menjelajahi negeri itu, mencatat keadaannya, sekadar milik pusaka masing-masing, kemudian kembali kepadaku."
   },
   {Bible:"Joshua", Chapter:18, Verse:5, Page:1,
-    Kor:"그 땅은 일곱 몫으로 나눌 것이오. 유다는 남쪽의 자기 영토에 머물고, 요셉 족속은 북쪽의 자기 영토에 머물도록 하시오.",
+    Kor:"그 땅은 일곱 몫으로 나눈다. 유다는 남쪽의 자기 영토에 머물고, 요셉 족속은 북쪽의 자기 영토에 머물도록 한다.",
     Chn:"他们要将地分做七分；犹大仍在南方，住在他的境内。约瑟家仍在北方，住在他的境内。",
     Eng:"You are to divide the land into seven parts. Judah is to remain in its territory on the south and the house of Joseph in its territory on the north.",
     Ind:"Sesudah itu mereka akan membaginya di antara mereka menjadi tujuh bagian. Suku Yehuda akan tetap tinggal dalam daerahnya di sebelah selatan dan keturunan Yusuf akan tetap tinggal dalam daerahnya di sebelah utara."
   },
   {Bible:"Joshua", Chapter:18, Verse:6, Page:1,
-    Kor:"당신들은 그 땅을 일곱 몫으로 나누어서 지도를 그리고, 그것을 여기 나에게로 가져 오시오. 그러면 내가 여기 주 우리 하나님 앞에서 제비를 뽑아서, 당신들의 몫을 결정하겠소.",
+    Kor:"너희는 그 땅을 일곱 몫으로 나누어서 지도를 그리고, 그것을 여기, 나에게로 가져 와라. 그러면 내가 여기, 주 우리 하나님 앞에서 제비를 뽑아서, 너희의 몫을 결정하겠다.",
     Chn:"你们要将地分做七分，写明了拿到我这里来。我要在耶和华—我们　神面前，为你们拈阄。",
     Eng:"After you have written descriptions of the seven parts of the land, bring them here to me and I will cast lots for you in the presence of the LORD our God.",
     Ind:"Kamu catat keadaan negeri itu dalam tujuh bagian dan kamu bawa ke mari kepadaku; lalu aku akan membuang undi di sini bagi kamu di hadapan TUHAN, Allah kita."
   },
   {Bible:"Joshua", Chapter:18, Verse:7, Page:1,
-    Kor:"그러나 당신들 가운데서 레위 사람은 받을 몫이 없소. 주님의 제사장이라는 직분이 곧 그들의 유산이기 때문이오. 또한 갓과 르우벤과 므낫세 반쪽 지파는, 주님의 종 모세가 요단 강 건너 동쪽에서 그들에게 준 유산을 이미 받았소.\"",
+    Kor:"그러나 너희 가운데서 레위 사람은 받을 몫이 없다. 주의 제사장이라는 직분이 곧 그들의 유산이기 때문이다. 또한 갓과 르우벤과 므낫세 반쪽 지파는, 주의 종 모세가 요단 강 건너 동쪽에서 그들에게 준 유산을 이미 받았다.\"",
     Chn:"利未人在你们中间没有分，因为供耶和华祭司的职任就是他们的产业。迦得支派、吕便支派，和玛拿西半支派已经在约旦河东得了地业，就是耶和华仆人摩西所给他们的。」",
     Eng:"The Levites, however, do not get a portion among you, because the priestly service of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have already received their inheritance on the east side of the Jordan. Moses the servant of the LORD gave it to them.\"",
     Ind:"Sebab orang Lewi tidak mendapat bagian di tengah-tengah kamu, karena jabatan sebagai imam TUHAN ialah milik pusaka mereka, sedang suku Gad, suku Ruben dan suku Manasye yang setengah itu telah menerima milik pusaka di sebelah timur sungai Yordan, yang diberikan kepada mereka oleh Musa, hamba TUHAN.\""
   },
   {Bible:"Joshua", Chapter:18, Verse:8, Page:1,
-    Kor:"○그 땅의 모양을 그리러 가는 사람들이 떠나려 할 때에, 여호수아가 그들에게 지시하였다. \"가서 그 땅을 두루 다녀 보고, 그 지도를 그려서 내게로 돌아오시오. 내가 여기 실로에서 주님 앞에서 제비를 뽑아서 당신들의 몫을 결정하겠소.\"",
+    Kor:"○그 땅의 모양을 그리러 가는 사람들이 떠나려 할 때에, 여호수아가 그들에게 지시하였다. \"가서 그 땅을 두루 다녀 보고, 그 지도를 그려서 내게로 돌아오너라. 내가 여기 실로에서, 주 앞에서 제비를 뽑아 너희의 몫을 결정하겠다.\"",
     Chn:"划地势的人起身去的时候，约书亚嘱咐他们说：「你们去走遍那地，划明地势，就回到我这里来。我要在示罗这里，耶和华面前，为你们拈阄。」",
     Eng:"As the men started on their way to map out the land, Joshua instructed them, \"Go and make a survey of the land and write a description of it. Then return to me, and I will cast lots for you here at Shiloh in the presence of the LORD.\"",
     Ind:"Kemudian bersiaplah orang-orang itu, lalu pergi, sedang Yosua memerintahkan kepada mereka, pada waktu mereka berangkat, supaya mereka mencatat keadaan negeri itu, katanya: \"Pergilah, jelajahilah negeri itu, catatkanlah keadaannya, kemudian kembalilah kepadaku; maka di sini, di Silo, aku akan membuang undi bagi kamu di hadapan TUHAN.\""
   },
   {Bible:"Joshua", Chapter:18, Verse:9, Page:1,
-    Kor:"그 사람들이 가서 그 땅을 두루 다니며 성읍의 명단을 작성하여, 책에 일곱 몫으로 그려서, 실로의 진에 있는 여호수아에게 돌아왔다.",
+    Kor:"그 사람들이 가서 그 땅을 두루 다니며, 성읍의 명단을 작성하여 책에 일곱 몫으로 그려서, 실로의 진에 있는 여호수아에게 돌아왔다.",
     Chn:"他们就去了，走遍那地，按着城邑分做七分，写在册子上，回到示罗营中见约书亚。",
     Eng:"So the men left and went through the land. They wrote its description on a scroll, town by town, in seven parts, and returned to Joshua in the camp at Shiloh.",
     Ind:"Orang-orang itu pergi dan berjalan melalui negeri itu; mereka mencatat keadaannya dalam suatu daftar, kota demi kota, dalam tujuh bagian, lalu kembali kepada Yosua ke tempat perkemahan di Silo."
   },
   {Bible:"Joshua", Chapter:18, Verse:10, Page:1,
-    Kor:"실로에서 여호수아는 주님 앞에서 제비를 뽑고, 거기에서 그는 이스라엘 자손의 각 지파에게 그 땅을 나누어 주었다.",
+    Kor:"실로에서 여호수아는 주 앞에서 제비를 뽑고, 거기에서 그는 이스라엘 자손의 각 지파에게 그 땅을 나누어 주었다.",
     Chn:"约书亚就在示罗，耶和华面前，为他们拈阄。约书亚在那里，按着以色列人的支派，将地分给他们。",
     Eng:"Joshua then cast lots for them in Shiloh in the presence of the LORD, and there he distributed the land to the Israelites according to their tribal divisions.",
     Ind:"Lalu Yosua membuang undi bagi mereka di Silo, di hadapan TUHAN, dan di sanalah Yosua membagikan negeri itu kepada orang Israel, sesuai dengan pembagian mereka."
   },
   {Bible:"Joshua", Chapter:18, Verse:11, Page:1,
-    Kor:"<베냐민 지파의 땅> ○첫 번째로 베냐민 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다. 제비로 뽑은 땅의 경계선은 유다 자손과 요셉 자손의 중간이었다.",
+    Kor:"○첫 번째로 베냐민 자손 지파의 각 가문의 몫을 결정할 제비를 뽑았다. 제비로 뽑은 땅의 경계선은 유다 자손과 요셉 자손의 중간이었다.",
     Chn:"便雅悯支派，按着宗族拈阄所得之地，是在犹大、约瑟子孙中间。",
     Eng:"The lot came up for the tribe of Benjamin, clan by clan. Their allotted territory lay between the tribes of Judah and Joseph:",
     Ind:"Maka keluarlah undian suku bani Benyamin menurut kaum-kaum mereka, dan daerah yang diundikan kepada mereka terdapat antara daerah bani Yehuda dan daerah bani Yusuf."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Dari sana batas itu terus ke Lus, ke selatan, ke arah lereng gunung dekat Lus, itulah Betel; kemudian batas itu turun ke Atarot-Adar di pegunungan yang di sebelah selatan Bet-Horon Hilir."
   },
   {Bible:"Joshua", Chapter:18, Verse:14, Page:1,
-    Kor:"그 경계선은 또 남쪽으로 벳호론 맞은쪽 산에서부터 서쪽을 따라 남쪽으로 돌아서, 유다 자손의 성읍인 기럇바알 곧 기럇여아림에 이르러 끝난다. 이것이 서쪽 경계선이다.",
+    Kor:"그 경계선은 또 남쪽으로 벳호론 맞은쪽 산에서부터 서쪽을 따라 남쪽으로 돌아서, 유다 자손의 성읍인 기럇바알, 곧 기럇여아림에 이르러 끝난다. 이것이 서쪽 경계선이다.",
     Chn:"从那里往西，又转向南，从伯·和 南对面的山，直达到犹大人的城基列·巴力（基列·巴力就是基列·耶琳）；这是西界。",
     Eng:"From the hill facing Beth Horon on the south the boundary turned south along the western side and came out at Kiriath Baal (that is, Kiriath Jearim), a town of the people of Judah. This was the western side.",
     Ind:"Kemudian batas itu melengkung, lalu membelok dari pegunungan yang di seberang Bet-Horon di sebelah selatan menuju ke sisi barat daya, dan berakhir di Kiryat-Baal, itulah Kiryat-Yearim, suatu kota bani Yehuda. Itulah sisi barat."
   },
   {Bible:"Joshua", Chapter:18, Verse:15, Page:1,
-    Kor:"남쪽 경계선은 기럇여아림 끝에서 서쪽으로 나아가서 넵도아 샘의 수원에 이르고,",
+    Kor:"남쪽 경계선은 기럇여아림 끝에서 서쪽으로 나아가서, 넵도아 샘의 수원에 이르고,",
     Chn:"南界是从基列·耶琳的尽边起，往西达到尼弗多亚的水源；",
     Eng:"The southern side began at the outskirts of Kiriath Jearim on the west, and the boundary came out at the spring of the waters of Nephtoah.",
     Ind:"Sisi selatan mulai dari ujung Kiryat-Yearim, kemudian batas itu menuju ke barat, dan menuju pula ke mata air Me-Neftoah."
   },
   {Bible:"Joshua", Chapter:18, Verse:16, Page:1,
-    Kor:"르바임 골짜기 북쪽에 있는 힌놈의 아들 골짜기 맞은쪽 산기슭으로 내려가고, 다시 힌놈 골짜기로 내려가서는, 여부스 남쪽 비탈을 지나서 엔로겔로 내려간다.",
+    Kor:"르바임 골짜기 북쪽에 있는 힌놈의 아들 골짜기 맞은쪽 산기슭으로 내려가고, 다시 힌놈 골짜기로 내려가서는, 여부스 남쪽 비탈을 지나, 엔로겔로 내려간다.",
     Chn:"又下到欣嫩子谷对面山的尽边，就是利乏音谷北边的山；又下到欣嫩谷，贴近耶布斯的南边；又下到隐·罗结；",
     Eng:"The boundary went down to the foot of the hill facing the Valley of Ben Hinnom, north of the Valley of Rephaim. It continued down the Hinnom Valley along the southern slope of the Jebusite city and so to En Rogel.",
     Ind:"Selanjutnya batas itu turun ke ujung pegunungan yang di tentangan lebak Ben-Hinom, di sebelah utara lembah orang Refaim; kemudian turun ke lebak Hinom, sepanjang lereng gunung Yebus, ke selatan, kemudian turun ke En-Rogel."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"terus ke lereng gunung di seberang Bet-Araba ke utara, dan turun ke Araba-Yordan."
   },
   {Bible:"Joshua", Chapter:18, Verse:19, Page:1,
-    Kor:"다시 북쪽으로 벳호글라 비탈을 지나, 요단 강 남쪽 끝 곧 요단 강 물을 끌어들이는 사해의 북쪽 어귀가 그 경계선의 끝이다. 이것이 남쪽 경계선이다.",
+    Kor:"다시 북쪽으로 벳호글라 비탈을 지나, 요단 강 남쪽 끝, 곧 요단 강 물을 끌어들이는 사해의 북쪽 어귀가 그 경계선의 끝이다. 이것이 남쪽 경계선이다.",
     Chn:"又接连到伯·曷拉的北边，直通到盐海的北汊，就是约旦河的南头；这是南界。",
     Eng:"It then went to the northern slope of Beth Hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan in the south. This was the southern boundary.",
     Ind:"Kemudian batas itu terus ke lereng gunung dekat Bet-Hogla ke utara dan batas itu berakhir ke teluk utara Laut Asin, ke muara sungai Yordan di sebelah selatan. Itulah batas selatan."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Rekem, Yirpeel, Tarala,"
   },
   {Bible:"Joshua", Chapter:18, Verse:28, Page:1,
-    Kor:"셀라와 엘렙과 여부스 곧 예루살렘과 기부앗과 기럇, 이렇게 열네 성읍과 그 주변 마을들이다. 이것이 베냐민 자손이 그 가문을 따라 얻은 유산이다.",
+    Kor:"셀라와 엘렙과 여부스, 곧 예루살렘과 기부앗과 기럇, 이렇게 열네 성읍과 그 주변 마을들이다. 이것이 베냐민 자손이 그 가문을 따라 얻은 유산이다.",
     Chn:"洗拉、以利弗、耶布斯（耶布斯就是耶路撒冷）、基比亚、基列，共十四座城，还有属城的村庄。这是便雅悯人按着宗族所得的地业。",
     Eng:"Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah and Kiriath--fourteen towns and their villages. This was the inheritance of Benjamin for its clans.",
     Ind:"Zela, Elef dan Yebus, ialah Yerusalem, Gibeat dan Kiryat; empat belas kota dengan desa-desanya. Itulah milik pusaka bani Benyamin menurut kaum-kaum mereka."

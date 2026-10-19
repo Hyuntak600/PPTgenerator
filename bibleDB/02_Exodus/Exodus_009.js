@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",9,35);
 BibleDB.add([
   {Bible:"Exodus", Chapter:9, Verse:1, Page:1,
-    Kor:"<다섯째 재앙:집짐승의 죽음> 주님께서 모세에게 말씀하셨다. \"너는 바로에게로 가서 '히브리 사람의 주 하나님이 이렇게 말씀하신다' 하고 '나의 백성을 보내어라. 그들이 나에게 예배드리게 하여라.",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 바로에게로 가서 '히브리 사람의 주 하나님이 이렇게 말씀하신다' 하고 '나의 백성을 보내어라. 그들이 나에게 예배드리게 하여라.",
     Chn:"耶和华吩咐摩西说：「你进去见法老，对他说：『耶和华—希伯来人的　神这样说：容我的百姓去，好事奉我。",
     Eng:"Then the LORD said to Moses, \"Go to Pharaoh and say to him, 'This is what the LORD, the God of the Hebrews, says: \"Let my people go, so that they may worship me.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pergilah menghadap Firaun dan berbicaralah kepadanya: Beginilah firman TUHAN, Allah orang Ibrani: Biarkanlah umat-Ku pergi, supaya mereka beribadah kepada-Ku."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Sebab jika engkau menolak membiarkan mereka pergi dan masih menahan mereka,"
   },
   {Bible:"Exodus", Chapter:9, Verse:3, Page:1,
-    Kor:"주의 손이, 들에 있는 너의 집짐승들 곧 말과 나귀와 낙타와 소와 양 떼를 쳐서, 심히 무서운 병이 들게 할 것이다.",
+    Kor:"주의 손이, 들에 있는 너의 집짐승들, 곧 말과 나귀와 낙타와 소와 양 떼를 쳐서, 심히 무서운 병이 들게 할 것이다.",
     Chn:"耶和华的手加在你田间的牲畜上，就是在马、驴、骆驼、牛群、羊群上，必有重重的瘟疫。",
     Eng:"the hand of the LORD will bring a terrible plague on your livestock in the field--on your horses and donkeys and camels and on your cattle and sheep and goats.",
     Ind:"maka ternakmu, yang ada di padang, kuda, keledai, unta, lembu sapi dan kambing domba, akan kena tulah TUHAN, yakni kena penyakit sampar yang dahsyat."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Dan TUHAN akan membuat perbedaan antara ternak orang Israel dan ternak orang Mesir, sehingga tidak ada yang akan mati seekorpun dari segala ternak orang Israel.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:5, Page:1,
-    Kor:"주님께서 때를 정하시고서 \"나 주가 내일 이 땅에서 이 일을 하겠다\" 하고 말씀하셨다.",
+    Kor:"주께서 때를 정하시고서 \"나 주가 내일 이 땅에서 이 일을 하겠다\" 하고 말씀하셨다.",
     Chn:"耶和华就定了时候，说：「明天耶和华必在此地行这事。」",
     Eng:"The LORD set a time and said, \"Tomorrow the LORD will do this in the land.\"",
     Ind:"Selanjutnya TUHAN menentukan waktunya, firman-Nya: \"Besoklah TUHAN akan melakukan hal itu di negeri ini.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:6, Page:1,
-    Kor:"이튿날 주님께서 이 일을 하시니, 이집트 사람의 집짐승은 모두 죽었는데, 이스라엘 자손의 집짐승은 한 마리도 죽지 않았다.",
+    Kor:"이튿날, 주께서 이 일을 하시니, 이집트 사람의 집짐승은 모두 죽었는데, 이스라엘 자손의 집짐승은 한 마리도 죽지 않았다.",
     Chn:"第二天，耶和华就行这事。埃及的牲畜几乎都死了，只是以色列人的牲畜，一个都没有死。",
     Eng:"And the next day the LORD did it: All the livestock of the Egyptians died, but not one animal belonging to the Israelites died.",
     Ind:"Dan TUHAN melakukan hal itu keesokan harinya; segala ternak orang Mesir itu mati, tetapi dari ternak orang Israel tidak ada seekorpun yang mati."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Lalu Firaun menyuruh orang ke sana dan sesungguhnyalah dari ternak orang Israel tidak ada seekorpun yang mati. Tetapi Firaun tetap berkeras hati dan tidak mau membiarkan bangsa itu pergi."
   },
   {Bible:"Exodus", Chapter:9, Verse:8, Page:1,
-    Kor:"<여섯째 재앙:피부병 전염> ○주님께서 모세와 아론에게 말씀하셨다. \"너희는 화덕에 있는 그을음을 두 손에 가득히 움켜 쥐어라. 그리고 모세가 그것을 바로 앞에서 공중에 뿌려라.",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다. \"너희는 가마솥 밑에 있는 그을음을 두 손에 가득히 움켜 쥐어라. 그리고 모세가 그것을 바로 앞에서 공중에 뿌려라.",
     Chn:"耶和华吩咐摩西、亚伦说：「你们取几捧炉灰，摩西要在法老面前向天扬起来。",
     Eng:"Then the LORD said to Moses and Aaron, \"Take handfuls of soot from a furnace and have Moses toss it into the air in the presence of Pharaoh.",
     Ind:"Berfirmanlah TUHAN kepada Musa dan Harun: \"Ambillah jelaga dari dapur peleburan serangkup penuh, dan Musa harus menghamburkannya ke udara di depan mata Firaun."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Maka jelaga itu akan menjadi debu meliputi seluruh tanah Mesir, dan akan menjadikan barah yang memecah sebagai gelembung, pada manusia dan binatang di seluruh tanah Mesir.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:10, Page:1,
-    Kor:"그래서 그들은 화덕의 그을음을 모아 가지고 가서, 바로 앞에 섰다. 모세가 그것을 공중에 뿌리니, 그것이 사람과 짐승에게 붙어서, 악성 종기를 일으켰다.",
+    Kor:"그래서 그들은 가마솥의 그을음을 모아 가지고 가서, 바로 앞에 섰다. 모세가 그것을 공중에 뿌리니, 그것이 사람과 짐승에게 붙어서, 악성 종기를 일으켰다.",
     Chn:"摩西、亚伦取了炉灰，站在法老面前。摩西向天扬起来，就在人身上和牲畜身上成了起泡的疮。",
     Eng:"So they took soot from a furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on men and animals.",
     Ind:"Lalu mereka mengambil jelaga dari dapur peleburan, dan berdiri di depan Firaun, kemudian Musa menghamburkannya ke udara, maka terjadilah barah, yang memecah sebagai gelembung pada manusia dan binatang,"
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"sehingga ahli-ahli itu tidak dapat tetap berdiri di depan Musa, karena barah-barah itu; sebab ahli-ahli itupun juga kena barah sama seperti semua orang Mesir."
   },
   {Bible:"Exodus", Chapter:9, Verse:12, Page:1,
-    Kor:"그러나 주님께서 바로가 여전히 고집을 부리게 하셨으므로, 주님께서 모세에게 말씀하신 대로, 바로가 그들의 말을 듣지 않았다.",
+    Kor:"그러나 주께서, 바로가 여전히 고집을 부리게 하셨으므로, 주께서 모세에게 말씀하신 대로, 바로가 그들의 말을 듣지 않았다.",
     Chn:"耶和华使法老的心刚硬，不听他们，正如耶和华对摩西所说的。",
     Eng:"But the LORD hardened Pharaoh's heart and he would not listen to Moses and Aaron, just as the LORD had said to Moses.",
     Ind:"Tetapi TUHAN mengeraskan hati Firaun, sehingga ia tidak mendengarkan mereka--seperti yang telah difirmankan TUHAN kepada Musa."
   },
   {Bible:"Exodus", Chapter:9, Verse:13, Page:1,
-    Kor:"<일곱째 재앙:우박> ○주님께서 모세에게 말씀하셨다. \"너는 아침에 일찍이 일어나서, 바로 앞에 나서서 이렇게 말하여라. '히브리 사람의 주 하나님이 이렇게 말씀하신다. 나의 백성을 보내어라. 그들이 나에게 예배드리게 하여라.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 아침에 일찍이 일어나서, 바로 앞에 나서서, 이렇게 말하여라. '히브리 사람의 주 하나님이 이렇게 말씀하신다. 나의 백성을 보내어라. 그들이 나에게 예배드리게 하여라.",
     Chn:"耶和华对摩西说：「你清早起来，站在法老面前，对他说：『耶和华—希伯来人的　神这样说：容我的百姓去，好事奉我。",
     Eng:"Then the LORD said to Moses, \"Get up early in the morning, confront Pharaoh and say to him, 'This is what the LORD, the God of the Hebrews, says: Let my people go, so that they may worship me,",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Bangunlah pagi-pagi dan berdirilah menantikan Firaun dan katakan kepadanya: Beginilah firman TUHAN, Allah orang Ibrani: Biarkanlah umat-Ku pergi, supaya mereka beribadah kepada-Ku."
   },
   {Bible:"Exodus", Chapter:9, Verse:14, Page:1,
-    Kor:"이번에는 내가 나의 온갖 재앙을 너와 너의 신하들과 백성에게 내려서, 온 세상에 나와 같은 신이 없다는 것을 너에게 알리겠다.",
+    Kor:"이번에는, 내가 나의 온갖 재앙을 너와 너의 신하들과 백성에게 내려서, 온 세상에 나와 같은 신이 없다는 것을, 너에게 알리겠다.",
     Chn:"因为这一次我要叫一切的灾殃临到你和你臣仆并你百姓的身上，叫你知道在普天下没有像我的。",
     Eng:"or this time I will send the full force of my plagues against you and against your officials and your people, so you may know that there is no one like me in all the earth.",
     Ind:"Sebab sekali ini Aku akan melepaskan segala tulah-Ku terhadap engkau sendiri, terhadap pegawai-pegawaimu dan terhadap rakyatmu, dengan maksud supaya engkau mengetahui, bahwa tidak ada yang seperti Aku di seluruh bumi."
   },
   {Bible:"Exodus", Chapter:9, Verse:15, Page:1,
-    Kor:"내가 팔을 뻗어서 무서운 질병으로 너와 너의 백성을 쳤다면, 너는 이미 세상에서 사라졌을 것이다.",
+    Kor:"내가 팔을 뻗어서, 무서운 질병으로 너와 너의 백성을 쳤다면, 너는 이미 세상에서 사라졌을 것이다.",
     Chn:"我若伸手用瘟疫攻击你和你的百姓，你早就从地上除灭了。",
     Eng:"For by now I could have stretched out my hand and struck you and your people with a plague that would have wiped you off the earth.",
     Ind:"Bukankah sudah lama Aku dapat mengacungkan tangan-Ku untuk membunuh engkau dan rakyatmu dengan penyakit sampar, sehingga engkau terhapus dari atas bumi;"
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"akan tetapi inilah sebabnya Aku membiarkan engkau hidup, yakni supaya memperlihatkan kepadamu kekuatan-Ku, dan supaya nama-Ku dimasyhurkan di seluruh bumi."
   },
   {Bible:"Exodus", Chapter:9, Verse:17, Page:1,
-    Kor:"그런데 너는 아직도 교만한 마음을 버리지 못하고, 나의 백성을 내보내지 않는다.",
+    Kor:"그런데 너는 아직도 교만한 마음을 버리지 못하고 나의 백성을 내보내지 않는다.",
     Chn:"你还向我的百姓自高，不容他们去吗？",
     Eng:"You still set yourself against my people and will not let them go.",
     Ind:"Engkau masih selalu mengalangi umat-Ku, sehingga engkau tidak membiarkan mereka pergi."
   },
   {Bible:"Exodus", Chapter:9, Verse:18, Page:1,
-    Kor:"그러므로 내일 이맘때에 내가 매우 큰 우박을 퍼부을 것이니, 그처럼 큰 우박은 이집트에 나라가 생긴 때로부터 이제까지 한 번도 내린 적이 없다.",
+    Kor:"그러므로 내일 이맘때에, 내가 매우 큰 우박을 퍼부을 것이니, 그처럼 큰 우박은, 이집트에 나라가 생긴 때로부터 이제까지, 한 번도 내린 적이 없다.",
     Chn:"到明天约在这时候，我必叫重大的冰雹降下，自从埃及开国以来，没有这样的冰雹。",
     Eng:"Therefore, at this time tomorrow I will send the worst hailstorm that has ever fallen on Egypt, from the day it was founded till now.",
     Ind:"Sesungguhnya besok kira-kira waktu ini Aku akan menurunkan hujan es yang sangat dahsyat, seperti yang belum pernah terjadi di Mesir sejak Mesir dijadikan sampai sekarang ini."
@@ -117,25 +117,25 @@ BibleDB.add([
     Ind:"Oleh sebab itu, ternakmu dan segala yang kaupunyai di padang, suruhlah dibawa ke tempat yang aman; semua orang dan segala hewan, yang ada di padang dan tidak pulang berkumpul ke rumah, akan ditimpa oleh hujan es itu, sehingga mati.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:20, Page:1,
-    Kor:"바로의 신하들 가운데서 주님의 말씀을 두려워한 사람들은 자기의 종들과 집짐승들을 집 안으로 피하게 하였다.",
+    Kor:"바로의 신하들 가운데서, 주의 말씀을 두려워한 사람은 자기의 종과 집짐승을 집 안으로 피하게 하였다.",
     Chn:"法老的臣仆中，惧怕耶和华这话的，便叫他的奴仆和牲畜跑进家来。",
     Eng:"Those officials of Pharaoh who feared the word of the LORD hurried to bring their slaves and their livestock inside.",
     Ind:"Maka siapa di antara para pegawai Firaun yang takut kepada firman TUHAN, menyuruh hamba-hambanya serta ternaknya lari ke rumah,"
   },
   {Bible:"Exodus", Chapter:9, Verse:21, Page:1,
-    Kor:"그러나 주님의 말씀을 마음에 두지 않는 사람은 자기의 종과 집짐승을 들에 그대로 내버려 두었다.",
+    Kor:"그러나 주의 말씀을 마음에 두지 않는 사람은, 자기의 종과 집짐승을 들에 그대로 내버려 두었다.",
     Chn:"但那不把耶和华这话放在心上的，就将他的奴仆和牲畜留在田里。",
     Eng:"But those who ignored the word of the LORD left their slaves and livestock in the field.",
     Ind:"tetapi siapa yang tidak mengindahkan firman TUHAN, meninggalkan hamba-hambanya serta ternaknya di padang."
   },
   {Bible:"Exodus", Chapter:9, Verse:22, Page:1,
-    Kor:"○그 때에 주님께서 모세에게 말씀하셨다. \"네가 하늘로 팔을 내밀면, 우박이 온 이집트 땅에, 그리고 이집트 땅에 있는 사람과 짐승과 들의 모든 풀 위에 쏟아질 것이다.\"",
+    Kor:"○그 때에 주께서 모세에게 말씀하셨다. \"네가 하늘로 팔을 내밀면, 우박이 온 이집트 땅에, 그리고 이집트 땅에 있는 사람과 짐승과 들의 모든 풀 위에 쏟아질 것이다.\"",
     Chn:"耶和华对摩西说：「你向天伸杖，使埃及遍地的人身上和牲畜身上，并田间各样菜蔬上，都有冰雹。」",
     Eng:"Then the LORD said to Moses, \"Stretch out your hand toward the sky so that hail will fall all over Egypt--on men and animals and on everything growing in the fields of Egypt.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Ulurkanlah tanganmu ke langit, supaya hujan es turun di seluruh tanah Mesir, menimpa manusia dan binatang dan menimpa tumbuh-tumbuhan di padang di tanah Mesir.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:23, Page:1,
-    Kor:"모세가 하늘로 그의 지팡이를 내미니, 주님께서 천둥소리를 나게 하시고 우박을 내리셨다. 벼락이 땅에 떨어졌다. 주님께서 이집트 땅 위에 우박을 퍼부으신 것이다.",
+    Kor:"모세가 하늘로 그의 지팡이를 내미니, 주께서 천둥소리를 나게 하시고 우박을 내리셨다. 벼락이 땅에 떨어졌다. 주께서 이집트 땅 위에 우박을 퍼부으신 것이다.",
     Chn:"摩西向天伸杖，耶和华就打雷下雹，有火闪到地上；耶和华下雹在埃及地上。",
     Eng:"When Moses stretched out his staff toward the sky, the LORD sent thunder and hail, and lightning flashed down to the ground. So the LORD rained hail on the land of Egypt;",
     Ind:"Lalu Musa mengulurkan tongkatnya ke langit, maka TUHAN mengadakan guruh dan hujan es, dan apipun menyambar ke bumi, dan TUHAN menurunkan hujan es meliputi tanah Mesir."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Hujan es itu menimpa binasa segala sesuatu yang ada di padang, di seluruh tanah Mesir, dari manusia sampai binatang; juga segala tumbuh-tumbuhan di padang ditimpa binasa oleh hujan itu dan segala pohon di padang ditumbangkannya."
   },
   {Bible:"Exodus", Chapter:9, Verse:26, Page:1,
-    Kor:"그러나 이스라엘 자손이 사는 고센 땅에는 우박이 내리지 않았다.",
+    Kor:"그러나 이스라엘 자손이 사는 고센 땅에는, 우박이 내리지 않았다.",
     Chn:"惟独以色列人所住的歌珊地没有冰雹。",
     Eng:"The only place it did not hail was the land of Goshen, where the Israelites were.",
     Ind:"Hanya di tanah Gosyen, tempat kediaman orang Israel, tidak ada turun hujan es."
   },
   {Bible:"Exodus", Chapter:9, Verse:27, Page:1,
-    Kor:"○바로가 사람을 보내서, 모세와 아론을 불러들였다. 그리고 그들에게 말하였다. \"이번에는 내가 죄를 지었다. 주께서 옳으셨고, 나와 나의 백성이 옳지 못하였다.",
+    Kor:"○바로는 사람을 보내서, 모세와 아론을 불러들였다. 그리고 그들에게 말하였다. \"이번에는 내가 죄를 지었다. 주께서 옳으셨고, 나와 나의 백성이 옳지 못하였다.",
     Chn:"法老打发人召摩西、亚伦来，对他们说：「这一次我犯了罪了。耶和华是公义的；我和我的百姓是邪恶的。",
     Eng:"Then Pharaoh summoned Moses and Aaron. \"This time I have sinned,\" he said to them. \"The LORD is in the right, and I and my people are in the wrong.",
     Ind:"Lalu Firaun menyuruh memanggil Musa dan Harun serta berkata kepada mereka: \"Aku telah berdosa sekali ini, TUHAN itu yang benar, tetapi aku dan rakyatkulah yang bersalah."
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Berdoalah kepada TUHAN; guruh yang sangat dahsyat dan hujan es itu sudah cukup. Maka aku akan membiarkan kamu pergi, tidak usah kamu tinggal lebih lama lagi.\""
   },
   {Bible:"Exodus", Chapter:9, Verse:29, Page:1,
-    Kor:"모세가 그에게 말하였다. \"내가 이 성을 나가는 대로, 나의 손을 들어서 주님께 빌겠습니다. 그러면 천둥소리가 그치고, 우박이 더 이상 내리지 않을 것입니다. 이것은 온 세상이 우리 주님의 것임을 임금님께 가르치려는 것입니다.",
+    Kor:"모세가 그에게 말하였다. \"내가 이 성을 나가는 대로, 나의 손을 들어서 주께 빌겠습니다. 그러면 천둥소리가 그치고, 우박이 더 이상 내리지 않을 것입니다. 이것은, 온 세상이 우리 주님의 것임을 임금님께 가르치려는 것입니다.",
     Chn:"摩西对他说：「我一出城，就要向耶和华举手祷告；雷必止住，也不再有冰雹，叫你知道全地都是属耶和华的。",
     Eng:"Moses replied, \"When I have gone out of the city, I will spread out my hands in prayer to the LORD. The thunder will stop and there will be no more hail, so you may know that the earth is the LORD'S.",
     Ind:"Dan berkatalah Musa kepadanya: \"Sekeluar aku dari kota ini, aku akan mengembangkan tanganku kepada TUHAN; guruh akan berhenti dan hujan es tidak akan turun lagi, supaya engkau mengetahui, bahwa bumi adalah milik TUHAN."
   },
   {Bible:"Exodus", Chapter:9, Verse:30, Page:1,
-    Kor:"그래도 임금님과 임금님의 신하들이 주 하나님을 두려워하지 않으리라는 것을 나는 알고 있습니다.\"",
+    Kor:"그래도 임금님과 임금님의 신하들이 주 하나님을 두려워하지 않으리라는 것을, 나는 알고 있습니다.\"",
     Chn:"至于你和你的臣仆，我知道你们还是不惧怕耶和华　神。」（",
     Eng:"But I know that you and your officials still do not fear the LORD God.\"",
     Ind:"Tetapi tentang engkau dan para pegawaimu, aku tahu, bahwa kamu belum takut kepada TUHAN Allah.\""
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Tetapi gandum dan sekoi tidak tertimpa binasa, sebab belum lagi musimnya. --"
   },
   {Bible:"Exodus", Chapter:9, Verse:33, Page:1,
-    Kor:"모세는 바로 앞을 떠나서, 성 바깥으로 나갔다. 그가 주님께 손을 들어 기도하니, 천둥소리와 우박이 그치고, 땅에는 비가 더 내리지는 않았다.",
+    Kor:"모세는 바로 앞을 떠나서, 성 바깥으로 나갔다. 그가 주께 손을 들어 기도하니, 천둥소리와 우박이 그치고, 땅에는 비가 더 이상 내리지 않았다.",
     Chn:"摩西离了法老出城，向耶和华举手祷告；雷和雹就止住，雨也不再浇在地上了。",
     Eng:"Then Moses left Pharaoh and went out of the city. He spread out his hands toward the LORD; the thunder and hail stopped, and the rain no longer poured down on the land.",
     Ind:"Lalu keluarlah Musa dari kota itu meninggalkan Firaun, dikembangkannyalah tangannya kepada TUHAN, maka berhentilah guruh dan hujan es dan hujan tidak tercurah lagi ke bumi."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Tetapi ketika Firaun melihat, bahwa hujan, hujan es dan guruh telah berhenti, maka teruslah ia berbuat dosa; ia tetap berkeras hati, baik ia maupun para pegawainya."
   },
   {Bible:"Exodus", Chapter:9, Verse:35, Page:1,
-    Kor:"주님께서 모세를 시켜 말씀하신 대로, 바로는 고집을 부리며 이스라엘 자손을 내보내지 않았다.",
+    Kor:"주께서 모세를 시켜 말씀하신 대로, 바로는 고집을 부리고, 이스라엘 자손을 내보내지 않았다.",
     Chn:"法老的心刚硬，不容以色列人去，正如耶和华借着摩西所说的。",
     Eng:"So Pharaoh's heart was hard and he would not let the Israelites go, just as the LORD had said through Moses.",
     Ind:"Berkeraslah hati Firaun, sehingga ia tidak membiarkan orang Israel pergi--seperti yang telah difirmankan TUHAN dengan perantaraan Musa."

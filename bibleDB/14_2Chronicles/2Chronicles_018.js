@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",18,34);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:18, Verse:1, Page:1,
-    Kor:"<예언자 미가야가 아합 왕에게 경고하다(왕상 22:1-28)> 여호사밧은 재물을 많이 모으고, 큰 영예를 얻었다. 그는 아합 가문과 혼인의 유대를 맺었다.",
+    Kor:"여호사밧은 재물을 많이 모으고, 큰 영예를 얻었다. 그는 아합 가문과 혼인의 유대를 맺었다.",
     Chn:"约沙法大有尊荣资财，就与亚哈结亲。",
     Eng:"Now Jehoshaphat had great wealth and honor, and he allied himself with Ahab by marriage.",
     Ind:"Ketika Yosafat kaya dan sangat terhormat, ia menjadi besan Ahab."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Berkatalah Ahab, raja Israel, kepada Yosafat, raja Yehuda: \"Maukah engkau pergi ke Ramot-Gilead bersama-sama aku?\" Jawabnya kepadanya: \"Kita sama-sama, aku dan engkau, rakyatmu dan rakyatku, aku akan bersama-sama engkau di dalam perang.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:4, Page:1,
-    Kor:"그러면서도 여호사밧은 이스라엘 왕에게 말하였다. \"그러나 먼저 주님의 뜻을 알아봄이 좋을 듯합니다.\"",
+    Kor:"그러면서도 여호사밧은 이스라엘 왕에게 말하였다. \"그러나 먼저 주의 뜻을 알아봄이 좋을 듯합니다.\"",
     Chn:"约沙法对以色列王说：「请你先求问耶和华。」",
     Eng:"But Jehoshaphat also said to the king of Israel, \"First seek the counsel of the LORD.\"",
     Ind:"Tetapi Yosafat berkata kepada raja Israel: \"Baiklah tanyakan dahulu firman TUHAN.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Lalu raja Israel mengumpulkan para nabi, empat ratus orang banyaknya, kemudian bertanyalah ia kepada mereka: \"Apakah kami boleh pergi berperang melawan Ramot-Gilead atau aku membatalkannya?\" Jawab mereka: \"Majulah! Allah akan menyerahkannya ke dalam tangan raja.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:6, Page:1,
-    Kor:"○여호사밧이 물었다. \"우리가 물어 볼 만한 주님의 예언자가 여기에 또 없습니까?\"",
+    Kor:"○여호사밧이 물었다. \"우리가 물어 볼 만한 주의 예언자가 여기에 또 없습니까?\"",
     Chn:"约沙法说：「这里不是还有耶和华的先知，我们可以求问他吗？」",
     Eng:"But Jehoshaphat asked, \"Is there not a prophet of the LORD here whom we can inquire of?\"",
     Ind:"Tetapi Yosafat bertanya: \"Tidak adakah lagi di sini seorang nabi TUHAN, supaya dengan perantaraannya kita dapat meminta petunjuk?\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:7, Page:1,
-    Kor:"이스라엘 왕이 여호사밧에게 대답하였다. \"주님의 뜻을 물어 볼 만한 사람으로서 이믈라의 아들 미가야라고 하는 예언자가 있기는 합니다만, 나는 그를 싫어합니다. 그는 한 번도 나에게 무엇인가 길한 것을 예언한 적이 없고, 언제나 흉한 것만을 예언하곤 합니다.\" 여호사밧이 다시 제안하였다. \"임금께서 예언자를 두고 그렇게 말씀하시면 안 됩니다.\"",
+    Kor:"이스라엘 왕이 여호사밧에게 대답하였다. \"주의 뜻을 물어 볼 만한 사람으로서 이믈라의 아들 미가야라고 하는 예언자가 있기는 합니다만, 나는 그를 싫어합니다. 그는 한 번도 나에게 무엇인가 길한 것을 예언한 적이 없고, 언제나 흉한 것만을 예언하곤 합니다.\" 여호사밧이 다시 제안하였다. \"임금께서 예언자를 두고 그렇게 말씀하시면 안 됩니다.\"",
     Chn:"以色列王对约沙法说：「还有一个人，是音拉的儿子米该雅。我们可以托他求问耶和华，只是我恨他；因为他指着我所说的预言，不说吉语，常说凶言。」约沙法说：「王不必这样说。」",
     Eng:"The king of Israel answered Jehoshaphat, \"There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good about me, but always bad. He is Micaiah son of Imlah.\" \"The king should not say that,\" Jehoshaphat replied.",
     Ind:"Jawab raja Israel kepada Yosafat: \"Masih ada seorang lagi yang dengan perantaraannya dapat diminta petunjuk TUHAN. Tetapi aku membenci dia, sebab tidak pernah ia menubuatkan yang baik tentang aku, melainkan selalu malapetaka. Orang itu ialah Mikha bin Yimla.\" Kata Yosafat: \"Janganlah raja berkata demikian.\""
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Sementara raja Israel dan Yosafat, raja Yehuda, duduk masing-masing di atas takhtanya dengan pakaian kebesaran, di suatu tempat pengirikan di depan pintu gerbang Samaria, sedang semua nabi itu bernubuat di depan mereka,"
   },
   {Bible:"2Chronicles", Chapter:18, Verse:10, Page:1,
-    Kor:"그 예언자들 가운데서 그나아나의 아들 시드기야는 자신이 만든 철뿔들을 가지고 나와서 말하였다. \"주님께서 이렇게 말씀하십니다. '너 아합은 철로 만든 이 뿔을 가지고 시리아 사람들을 찌르되, 그들이 모두 파멸될 때까지 그렇게 할 것이다' 하십니다.\"",
+    Kor:"그 예언자들 가운데서 그나아나의 아들 시드기야는 자신이 만든 철뿔들을 가지고 나와서 말하였다. \"주께서 이렇게 말씀하십니다. '너 아합은 철로 만든 이 뿔을 가지고 시리아 사람들을 찌르되, 그들이 모두 파멸될 때까지 그렇게 할 것이다' 하십니다.\"",
     Chn:"基拿拿的儿子西底家造了两个铁角，说：「耶和华如此说：『你要用这角抵触亚兰人，直到将他们灭尽。』」",
     Eng:"Now Zedekiah son of Kenaanah had made iron horns, and he declared, \"This is what the LORD says: 'With these you will gore the Arameans until they are destroyed.'\"",
     Ind:"maka Zedekia bin Kenaana membuat tanduk-tanduk besi, lalu berkata: \"Beginilah firman TUHAN: Dengan ini engkau akan menanduk Aram sampai engkau menghabiskan mereka.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:11, Page:1,
-    Kor:"그러자 다른 예언자들도 모두 그와 같은 예언을 하며 말하였다. \"길르앗의 라못으로 진군하십시오. 승리는 임금님의 것입니다. 주님께서 이미 그 성을 임금님의 손에 넘기셨습니다.\"",
+    Kor:"그러자 다른 예언자들도 모두 그와 같은 예언을 하며 말하였다. \"길르앗의 라못으로 진군하십시오. 승리는 임금님의 것입니다. 주께서 이미 그 성을 임금님의 손에 넘기셨습니다.\"",
     Chn:"所有的先知也都这样预言说：「可以上基列的拉末去，必然得胜，因为耶和华必将那城交在王的手中。」",
     Eng:"All the other prophets were prophesying the same thing. \"Attack Ramoth Gilead and be victorious,\" they said, \"for the LORD will give it into the king's hand.\"",
     Ind:"Juga semua nabi itu bernubuat demikian, katanya: \"Majulah ke Ramot-Gilead, dan engkau akan beruntung; TUHAN akan menyerahkannya ke dalam tangan raja.\""
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Suruhan yang pergi memanggil Mikha itu berkata kepadanya: \"Ketahuilah, nabi-nabi itu sudah sepakat meramalkan yang baik bagi raja, hendaklah engkau juga berbicara seperti salah seorang dari pada mereka dan meramalkan yang baik.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:13, Page:1,
-    Kor:"미가야가 대답하였다. \"주님께서 살아 계심을 두고 맹세하지만, 나는 다만 내 하나님께서 말씀하신 것만을 말하겠습니다.\"",
+    Kor:"미가야가 대답하였다. \"주께서 살아 계심을 두고 맹세하지만, 나는 다만 내 하나님께서 말씀하신 것만을 말하겠습니다.\"",
     Chn:"米该雅说：「我指着永生的耶和华起誓，我的　神说什么，我就说什么。」",
     Eng:"But Micaiah said, \"As surely as the LORD lives, I can tell him only what my God says.\"",
     Ind:"Tetapi Mikha menjawab: \"Demi TUHAN yang hidup, sesungguhnya, apa yang akan difirmankan Allahku, itulah yang akan kukatakan.\""
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Setelah ia sampai kepada raja, bertanyalah raja kepadanya: \"Mikha, apakah kami boleh pergi berperang melawan Ramot-Gilead atau aku membatalkannya?\" Jawabnya: \"Majulah dan kamu akan beruntung, sebab mereka akan diserahkan ke dalam tanganmu!\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:15, Page:1,
-    Kor:"그러나 왕이 그에게 다시 말하였다. \"그대가 주님의 이름으로 나에게 말을 할 때에는 진실을 말해야 한다고 누차 일렀는데, 내가 얼마나 더 똑같은 말을 되풀이 해야 하겠소?\"",
+    Kor:"그러나 왕이 그에게 다시 말하였다. \"그대가 주의 이름으로 나에게 말을 할 때에는 진실을 말해야 한다고 누차 일렀는데, 내가 얼마나 더 똑같은 말을 되풀이 해야 하겠소?\"",
     Chn:"王对他说：「我当嘱咐你几次，你才奉耶和华的名向我说实话呢？」",
     Eng:"The king said to him, \"How many times must I make you swear to tell me nothing but the truth in the name of the LORD?\"",
     Ind:"Tetapi raja berkata kepadanya: \"Sampai berapa kali aku menyuruh engkau bersumpah, supaya engkau mengatakan kepadaku tidak lain dari kebenaran?\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:16, Page:1,
-    Kor:"○미가야가 대답하였다. \"내가 보니, 온 이스라엘이 이산 저산에 흩어져 있습니다. 마치 목자 없는 양 떼 같습니다. 주님께서 말씀하시기를 '이들에게는 인도자가 없다. 제각기 집으로 평안히 돌아가게 하여라' 하십니다.\"",
+    Kor:"○미가야가 대답하였다. \"내가 보니, 온 이스라엘이 이산 저산에 흩어져 있습니다. 마치 목자 없는 양 떼 같습니다. 주께서 말씀하시기를 '이들에게는 인도자가 없다. 제각기 집으로 평안히 돌아가게 하여라' 하십니다.\"",
     Chn:"米该雅说：「我看见以色列众民散在山上，如同没有牧人的羊群一般。耶和华说：『这民没有主人，他们可以平平安安地各归各家去。』」",
     Eng:"Then Micaiah answered, \"I saw all Israel scattered on the hills like sheep without a shepherd, and the LORD said, 'These people have no master. Let each one go home in peace.'\"",
     Ind:"Lalu jawabnya: \"Telah kulihat seluruh Israel bercerai-berai di gunung-gunung seperti kambing domba yang tidak mempunyai gembala, sebab itu TUHAN berfirman: Mereka ini tidak punya tuan; baiklah masing-masing pulang ke rumahnya dengan selamat.\""
@@ -105,37 +105,37 @@ BibleDB.add([
     Ind:"Kemudian raja Israel berkata kepada Yosafat: \"Bukankah telah kukatakan kepadamu: Tidak pernah ia menubuatkan yang baik tentang aku, melainkan hanya malapetaka?\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:18, Page:1,
-    Kor:"미가야가 말을 계속하였다. \"그러므로 이제 주님의 말씀을 들으십시오. 내가 보니, 주님께서 보좌에 앉으시고, 그 좌우에는 하늘의 모든 군대가 둘러 서 있는데,",
+    Kor:"미가야가 말을 계속하였다. \"그러므로 이제 주의 말씀을 들으십시오. 내가 보니, 주께서 보좌에 앉으시고, 그 좌우에는 하늘의 모든 군대가 둘러 서 있는데,",
     Chn:"米该雅说：「你们要听耶和华的话。我看见耶和华坐在宝座上，天上的万军侍立在他左右。",
     Eng:"Micaiah continued, \"Therefore hear the word of the LORD: I saw the LORD sitting on his throne with all the host of heaven standing on his right and on his left.",
     Ind:"Kata Mikha: \"Sebab itu dengarkanlah firman TUHAN. Aku telah melihat TUHAN sedang duduk di atas takhta-Nya dan segenap tentara sorga berdiri di sebelah kanan-Nya dan di sebelah kiri-Nya."
   },
   {Bible:"2Chronicles", Chapter:18, Verse:19, Page:1,
-    Kor:"주님께서 물으십니다. '누가 이스라엘의 아합 왕을 꾀어내어, 그로 하여금 길르앗의 라못으로 올라가게 하여 거기에서 죽게 하겠느냐?' 그러자 그들은 이렇게 하자, 또는 저렇게 하자, 저마다 자기들의 의견을 말하는데,",
+    Kor:"주께서 물으십니다. '누가 이스라엘의 아합 왕을 꾀어내어, 그로 하여금 길르앗의 라못으로 올라가게 하여 거기에서 죽게 하겠느냐?' 그러자 그들은 이렇게 하자, 또는 저렇게 하자, 저마다 자기들의 의견을 말하는데,",
     Chn:"耶和华说：『谁去引诱以色列王亚哈上基列的拉末去阵亡呢？』这个就这样说，那个就那样说。",
     Eng:"And the LORD said, 'Who will entice Ahab king of Israel into attacking Ramoth Gilead and going to his death there?' \"One suggested this, and another that.",
     Ind:"Dan TUHAN berfirman: Siapakah yang akan membujuk Ahab, raja Israel, untuk maju berperang, supaya ia tewas di Ramot-Gilead? Maka yang seorang berkata begini, yang lain berkata begitu."
   },
   {Bible:"2Chronicles", Chapter:18, Verse:20, Page:1,
-    Kor:"한 영이 주님 앞에 나서서 말합니다. '내가 가서 그를 꾀어내겠습니다.' 그러자 주님께서 그에게 물으십니다. '어떻게 그를 꾀어내겠느냐?'",
+    Kor:"한 영이 주 앞에 나서서 말합니다. '내가 가서 그를 꾀어내겠습니다.' 그러자 주께서 그에게 물으십니다. '어떻게 그를 꾀어내겠느냐?'",
     Chn:"随后，有一个神灵出来，站在耶和华面前说：『我去引诱他。』耶和华问他说：『你用何法呢？』",
     Eng:"Finally, a spirit came forward, stood before the LORD and said, 'I will entice him.' \"'By what means?' the LORD asked.",
     Ind:"Kemudian tampillah suatu roh, lalu berdiri di hadapan TUHAN. Ia berkata: Aku ini akan membujuknya. TUHAN bertanya kepadanya: Dengan apa?"
   },
   {Bible:"2Chronicles", Chapter:18, Verse:21, Page:1,
-    Kor:"그러자 그가 대답합니다. '내가 가서 아합의 모든 예언자들이 모두 거짓말을 하도록 시키겠습니다.' 그러자 주님께서 말씀하십니다. '그를 꾀어라. 틀림없이 성공할 것이다. 가서 곧 그렇게 하여라'",
+    Kor:"그러자 그가 대답합니다. '내가 가서 아합의 모든 예언자들이 모두 거짓말을 하도록 시키겠습니다.' 그러자 주께서 말씀하십니다. '그를 꾀어라. 틀림없이 성공할 것이다. 가서 곧 그렇게 하여라'",
     Chn:"他说：『我去，要在他众先知口中作谎言的灵。』耶和华说：『这样，你必能引诱他，你去如此行吧！』",
     Eng:"\"'I will go and be a lying spirit in the mouths of all his prophets,' he said. \"'You will succeed in enticing him,' said the LORD. 'Go and do it.'",
     Ind:"Jawabnya: Aku akan keluar dan menjadi roh dusta dalam mulut semua nabinya. Ia berfirman: Biarlah engkau membujuknya, dan engkau akan berhasil pula. Keluarlah dan perbuatlah demikian!"
   },
   {Bible:"2Chronicles", Chapter:18, Verse:22, Page:1,
-    Kor:"그러므로 이제 보십시오, 이미 주님께서 거짓말하는 영을, 여기에 있는 임금님의 예언자들의 입에 들어가게 하셨으니, 주님께서는 임금님께 재앙을 선언하신 것입니다.\"",
+    Kor:"그러므로 이제 보십시오, 이미 주께서 거짓말하는 영을, 여기에 있는 임금님의 예언자들의 입에 들어가게 하셨으니, 주께서는 임금님께 재앙을 선언하신 것입니다.\"",
     Chn:"现在耶和华使谎言的灵入了你这些先知的口，并且耶和华已经命定降祸与你。」",
     Eng:"\"So now the LORD has put a lying spirit in the mouths of these prophets of yours. The LORD has decreed disaster for you.\"",
     Ind:"Karena itu, sesungguhnya TUHAN telah menaruh roh dusta ke dalam mulut nabi-nabimu ini, sebab TUHAN telah menetapkan untuk menimpakan malapetaka kepadamu.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:23, Page:1,
-    Kor:"○그러자 그나아나의 아들 시드기야가 다가와서, 미가야의 뺨을 때리며 말하였다. \"주님의 영이 언제 나를 떠나서, 어느 길로 너에게 건너가서 말씀하시더냐?\"",
+    Kor:"○그러자 그나아나의 아들 시드기야가 다가와서, 미가야의 뺨을 때리며 말하였다. \"주의 영이 언제 나를 떠나서, 어느 길로 너에게 건너가서 말씀하시더냐?\"",
     Chn:"基拿拿的儿子西底家前来打米该雅的脸，说：「耶和华的灵从哪里离开我与你说话呢？」",
     Eng:"Then Zedekiah son of Kenaanah went up and slapped Micaiah in the face. \"Which way did the spirit from the LORD go when he went from me to speak to you?\" he asked.",
     Ind:"Sesudah itu tampillah Zedekia bin Kenaana; ditamparnyalah pipi Mikha serta berkata: \"Bagaimana mungkin Roh TUHAN pindah dari padaku untuk berbicara kepadamu?\""
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Tetapi Mikha menjawab: \"Sesungguhnya engkau akan melihatnya pada hari engkau lari dari satu kamar ke kamar yang lain untuk menyembunyikan diri.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:25, Page:1,
-    Kor:"○이스라엘 왕이 명령하였다. \"미가야를 잡아서, 아몬 성주와 요아스 왕자에게로 끌고 가도록 하여라.",
+    Kor:"○이스라엘 왕이 명령하였다. \"미가야를 잡아서, 아몬 성주와 요아스 왕자에게로 끌고 가거라.",
     Chn:"以色列王说：「将米该雅带回，交给邑宰亚们和王的儿子约阿施，说：",
     Eng:"The king of Israel then ordered, \"Take Micaiah and send him back to Amon the ruler of the city and to Joash the king's son,",
     Ind:"Berkatalah raja Israel: \"Tangkaplah Mikha, bawa dia kembali kepada Amon, penguasa kota, dan kepada Yoas, anak raja,"
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"dan katakan: Beginilah titah raja: Masukkan orang ini dalam penjara dan beri dia makan roti dan minum air serba sedikit sampai aku pulang dengan selamat.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:27, Page:1,
-    Kor:"○미가야가 말하였다. \"임금님께서 정말로 평안히 돌아오실 수 있다면, 주님께서 나를 시켜서 이런 말씀을 하지 않으셨을 것입니다.\" 미가야는 한 마디 덧붙였다. \"여기에 있는 모든 백성은, 내 말을 잘 기억하여 두시오!\"",
+    Kor:"○미가야가 말하였다. \"임금님께서 정말로 평안히 돌아오실 수 있다면, 주께서 나를 시켜서 이런 말씀을 하지 않으셨을 것입니다.\" 미가야는 한 마디 덧붙였다. \"여기에 있는 모든 백성은, 내 말을 잘 기억하여 두시오!\"",
     Chn:"米该雅说：「你若能平安回来，那就是耶和华没有借我说这话了」；又说：「众民哪，你们都要听！」",
     Eng:"Micaiah declared, \"If you ever return safely, the LORD has not spoken through me.\" Then he added, \"Mark my words, all you people!\"",
     Ind:"Tetapi jawab Mikha: \"Jika benar-benar engkau pulang dengan selamat, tentulah TUHAN tidak berfirman dengan perantaraanku!\" Lalu disambungnya: \"Dengarlah, hai bangsa-bangsa sekalian!\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:28, Page:1,
-    Kor:"<아합의 죽음(왕상 22:29-35)> ○이스라엘의 아합 왕과 유다의 여호사밧 왕은 시리아와 싸우려고 길르앗의 라못으로 올라갔다.",
+    Kor:"○이스라엘의 아합 왕과 유다의 여호사밧 왕은 시리아와 싸우려고 길르앗의 라못으로 올라갔다.",
     Chn:"以色列王和犹大王约沙法上基列的拉末去了。",
     Eng:"So the king of Israel and Jehoshaphat king of Judah went up to Ramoth Gilead.",
     Ind:"Sesudah itu majulah raja Israel dengan Yosafat, raja Yehuda, ke Ramot-Gilead."
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Raja Israel berkata kepada Yosafat: \"Aku akan menyamar dan masuk pertempuran, tetapi engkau, pakailah pakaian kebesaranmu.\" Lalu menyamarlah raja Israel, kemudian mereka masuk ke pertempuran."
   },
   {Bible:"2Chronicles", Chapter:18, Verse:30, Page:1,
-    Kor:"○시리아 왕은 자기와 함께 있는 병거대 지휘관들에게 말하였다. \"귀관들은 작은 자나 큰 자를 상대하여 싸우지 말고, 오직 이스라엘 왕만 공격하시오.\"",
+    Kor:"○시리아 왕은 자기와 함께 있는 병거대 지휘관들에게 말하였다. \"너희는 작은 자나 큰 자를 상대하여 싸우지 말고, 오직 이스라엘 왕만 공격하여라.\"",
     Chn:"先是亚兰王吩咐车兵长说：「他们的兵将，无论大小，你们都不可与他们争战，只要与以色列王争战。」",
     Eng:"Now the king of Aram had ordered his chariot commanders, \"Do not fight with anyone, small or great, except the king of Israel.\"",
     Ind:"Adapun raja negeri Aram telah memberi perintah kepada para panglima pasukan keretanya demikian: \"Janganlah kamu berperang melawan sembarang orang, melainkan melawan raja Israel saja.\""
   },
   {Bible:"2Chronicles", Chapter:18, Verse:31, Page:1,
-    Kor:"병거대 지휘관들이 여호사밧을 보고 \"저 자가 이스라엘 왕이다\" 하며, 그와 싸우려고 달려들었다. 여호사밧이 기겁을 하여 소리를 쳤다. 주님께서 그를 도우셨다. 하나님께서 그들을 그에게서 떠나가게 하신 것이다.",
+    Kor:"병거대 지휘관들이 여호사밧을 보고 \"저 자가 이스라엘 왕이다\" 하며, 그와 싸우려고 달려들었다. 여호사밧이 기겁을 하여 소리를 쳤다. 주께서 그를 도우셨다. 하나님께서 그들을 그에게서 떠나가게 하신 것이다.",
     Chn:"车兵长看见约沙法便说，这必是以色列王，就转过去与他争战。约沙法一呼喊，耶和华就帮助他，　神又感动他们离开他。",
     Eng:"When the chariot commanders saw Jehoshaphat, they thought, \"This is the king of Israel.\" So they turned to attack him, but Jehoshaphat cried out, and the LORD helped him. God drew them away from him,",
     Ind:"Segera sesudah para panglima pasukan kereta itu melihat Yosafat, mereka berkata: \"Itu raja Israel!\" Lalu mereka mengepung dia, untuk menyerang dia, tetapi Yosafat berteriak dan TUHAN menolongnya. Allah membujuk mereka pergi dari padanya."

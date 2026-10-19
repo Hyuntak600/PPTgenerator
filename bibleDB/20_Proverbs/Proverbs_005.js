@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",5,23);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:5, Verse:1, Page:1,
-    Kor:"<아내에게 성실히 하여라> 내 아들아, 너는 내 지혜에 주의를 기울이고 내 명철에 너의 귀를 기울여서,",
+    Kor:"아이들아, 너는 내 지혜에 주의를 기울이고 내 명철에 너의 귀를 기울여서,",
     Chn:"我儿，要留心我智慧的话语， 侧耳听我聪明的言词，",
     Eng:"My son, pay attention to my wisdom, listen well to my words of insight,",
     Ind:"Hai anakku, perhatikanlah hikmatku, arahkanlah telingamu kepada kepandaian yang kuajarkan,"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"tetapi kemudian ia pahit seperti empedu, dan tajam seperti pedang bermata dua."
   },
   {Bible:"Proverbs", Chapter:5, Verse:5, Page:1,
-    Kor:"그 여자의 발은 죽을 곳으로 내려가고, 그 여자의 걸음은 a스올로 치닫는다. (a 또는 '무덤' 또는 '죽음')",
+    Kor:"그 여자의 발은 죽을 곳으로 내려가고, 그 여자의 걸음은 스올을 보고 치닫는다.",
     Chn:"她的脚下入死地； 她脚步踏住阴间，",
     Eng:"Her feet go down to death; her steps lead straight to the grave.",
     Ind:"Kakinya turun menuju maut, langkahnya menuju dunia orang mati."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Ia tidak menempuh jalan kehidupan, jalannya sesat, tanpa diketahuinya."
   },
   {Bible:"Proverbs", Chapter:5, Verse:7, Page:1,
-    Kor:"내 아들아, 이제 너희는 내 말을 잘 들어라. 내가 하는 말에서 벗어나지 말아라.",
+    Kor:"아이들아, 이제 너희는 내 말을 잘 들어라. 내가 하는 말에서 벗어나지 말아라.",
     Chn:"众子啊，现在要听从我； 不可离弃我口中的话。",
     Eng:"Now then, my sons, listen to me; do not turn aside from what I say.",
     Ind:"Sebab itu, hai anak-anak, dengarkanlah aku, janganlah kamu menyimpang dari pada perkataan mulutku."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"mengapa aku tidak mendengarkan suara guru-guruku, dan tidak mengarahkan telingaku kepada pengajar-pengajarku?"
   },
   {Bible:"Proverbs", Chapter:5, Verse:14, Page:1,
-    Kor:"온 회중이 보는 앞에서 이런 처절한 재난을 당하는구나!\" 할 것이다.",
+    Kor:"온 회중이 보는 앞에서 이런 처절한 재난을 당하는구나!\"할 것이다.",
     Chn:"我在圣会里， 几乎落在诸般恶中。",
     Eng:"I have come to the brink of utter ruin in the midst of the whole assembly.\"",
     Ind:"Aku nyaris terjerumus ke dalam tiap malapetaka di tengah-tengah jemaah dan perkumpulan.\""
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"rusa yang manis, kijang yang jelita; biarlah buah dadanya selalu memuaskan engkau, dan engkau senantiasa berahi karena cintanya."
   },
   {Bible:"Proverbs", Chapter:5, Verse:20, Page:1,
-    Kor:"내 아들아, 어찌하여 음행하는 여자를 사모하며, 부정한 여자의 가슴을 껴안겠느냐?",
+    Kor:"내 아들아, 어찌하여 음행하는 여자를 사모하며, 외간 여자의 가슴을 껴안겠느냐?",
     Chn:"我儿，你为何恋慕淫妇？ 为何抱外女的胸怀？",
     Eng:"Why be captivated, my son, by an adulteress? Why embrace the bosom of another man's wife?",
     Ind:"Hai anakku, mengapa engkau berahi akan perempuan jalang, dan mendekap dada perempuan asing?"

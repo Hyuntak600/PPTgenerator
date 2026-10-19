@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",10,12);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:10, Verse:1, Page:1,
-    Kor:"<주님께서 구원을 약속하시다> 너희는 봄철에 비를 내려 달라고 주님께 빌어라. 비구름을 일게 하시는 분은 주님이시다. 주님께서 사람들에게 소나기를 주시며, 각 사람에게 밭의 채소를 주신다.",
+    Kor:"너희는 봄철에 비를 내려 달라고 주께 빌어라. 비구름을 일게 하시는 분은 주님이시다. 주께서 사람들에게 소나기를 주시며, 각 사람에게 밭의 채소를 주신다.",
     Chn:"当春雨的时候， 你们要向发闪电的耶和华求雨。 他必为众人降下甘霖， 使田园生长菜蔬。",
     Eng:"Ask the LORD for rain in the springtime; it is the LORD who makes the storm clouds. He gives showers of rain to men, and plants of the field to everyone.",
     Ind:"Mintalah hujan dari pada TUHAN pada akhir musim semi! Tuhanlah yang membuat awan-awan pembawa hujan deras, dan hujan lebat akan Diberikannya kepada mereka dan tumbuh-tumbuhan di padang kepada setiap orang."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Sebab apa yang dikatakan oleh terafim adalah jahat, dan yang dilihat oleh juru-juru tenung adalah dusta, dan mimpi-mimpi yang disebutkan mereka adalah hampa, serta hiburan yang diberikan mereka adalah kesia-siaan. Oleh sebab itu bangsa itu berkeliaran seperti kawanan domba dan menderita sengsara sebab tidak ada gembala."
   },
   {Bible:"Zechariah", Chapter:10, Verse:3, Page:1,
-    Kor:"\"나의 분노가 목자들에게 불처럼 타오른다. 내가 지도자들을 벌하겠다.\" 만군의 주님께서 그의 양 무리인 유다 백성을 돌보시고, 전쟁터를 달리는 날랜 말같이 만드실 것이다.",
+    Kor:"\"나의 분노가 목자들에게 불처럼 타오른다. 내가 지도자들을 벌하겠다.\" 만군의 주께서 그의 양 무리인 유다 백성을 돌보시고, 전쟁터를 달리는 날랜 말같이 만드실 것이다.",
     Chn:"我的怒气向牧人发作； 我必惩罚公山羊； 因我—万军之耶和华 眷顾自己的羊群，就是犹大家， 必使他们如骏马在阵上。",
     Eng:"\"My anger burns against the shepherds, and I will punish the leaders; for the LORD Almighty will care for his flock, the house of Judah, and make them like a proud horse in battle.",
     Ind:"\"Terhadap para gembala akan bangkit murka-Ku dan terhadap kepala-kepala kawanan kambing Aku akan mengadakan pembalasan, sebab TUHAN semesta alam memperhatikan kawanan ternak-Nya, yakni kaum Yehuda, dan membuat mereka sebagai kuda keagungan-Nya dalam pertempuran."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Dari pada mereka akan muncul batu penjuru, dari pada mereka akan muncul patok kemah, dari pada mereka akan muncul busur perang, dari pada mereka akan keluar semua penguasa bersama-sama."
   },
   {Bible:"Zechariah", Chapter:10, Verse:5, Page:1,
-    Kor:"그들은 모두 용사와 같이, 전쟁할 때에 진흙탕 길에서 원수를 밟으면서 나아가는 사람들이다. 주님께서 그들과 함께 계시니, 원수의 기마대를 부끄럽게 할 것이다.",
+    Kor:"그들은 모두 용사와 같이, 전쟁할 때에 진흙탕 길에서 원수를 밟으면서 나아가는 사람들이다. 주께서 그들과 함께 계시니, 원수의 기마대를 부끄럽게 할 것이다.",
     Chn:"他们必如勇士在阵上 将仇敌践踏在街上的泥土中。 他们必争战，因为耶和华与他们同在； 骑马的也必羞愧。",
     Eng:"Together they will be like mighty men trampling the muddy streets in battle. Because the LORD is with them, they will fight and overthrow the horsemen.",
     Ind:"Maka mereka akan seperti pahlawan yang menginjak-injak musuh seakan-akan itu lumpur di jalan; mereka akan berperang, sebab TUHAN menyertai mereka, dan mereka akan membuat malu orang-orang yang mengendarai kuda."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Aku akan membawa mereka kembali dari tanah Mesir, dan dari Asyur Aku akan mengumpulkan mereka; Aku akan membawa mereka masuk ke tanah Gilead dan ke Libanon, sehingga tidak ada tempat lagi bagi mereka."
   },
   {Bible:"Zechariah", Chapter:10, Verse:11, Page:1,
-    Kor:"그들이 고난의 바다를 지나올 때에 나 주가 바다 물결의 기세를 꺾을 것이니, 나일 강이 그 바닥까지 다 마를 것이다. 앗시리아의 교만이 꺾일 것이며, 이집트의 왕권도 사라질 것이다.",
+    Kor:"그들이 고난의 바다를 지나올 때에 나 주가 바다 물결의 기세를 꺾을 것이니, 나일 강이 그 바닥까지 다 마를 것이다. 앗시리아의 교만이 꺾일 것이며, 이집트의 홀도 사라질 것이다.",
     Chn:"耶和华必经过苦海，击打海浪， 使尼罗河的深处都枯干。 亚述的骄傲必致卑微； 埃及的权柄必然灭没。",
     Eng:"They will pass through the sea of trouble; the surging sea will be subdued and all the depths of the Nile will dry up. Assyria's pride will be brought down and Egypt's scepter will pass away.",
     Ind:"Mereka akan menyeberangi laut Mesir dan Ia akan memukul gelombang di laut, sehingga segala tempat yang dalam di sungai Nil menjadi kering. Kebanggaan Asyur akan diturunkan dan tongkat kerajaan Mesir akan lewat."

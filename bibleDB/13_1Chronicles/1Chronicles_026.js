@@ -3,13 +3,13 @@
 BibleDB.ref("1Chronicles",26,32);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:26, Verse:1, Page:1,
-    Kor:"<성전 문지기> 문지기의 갈래는 다음과 같다. 고라 가문에서는, 아삽의 자손인 고레의 아들 므셀레먀와,",
+    Kor:"문지기의 갈래는 다음과 같다. 고라 가문에서는, 아삽의 자손인 고레의 아들 므셀레먀와,",
     Chn:"守门的班次记在下面：可拉族亚萨的子孙中，有可利的儿子米施利米雅。",
     Eng:"The divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.",
     Ind:"Tentang rombongan para penunggu pintu: dari orang Korah ialah Meselemya bin Kore dari keturunan Ebyasaf."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:2, Page:1,
-    Kor:"므셀레먀의 아들인 맏아들 스가랴와, 둘째 여디아엘과, 셋째 스바댜와, 넷째 야드니엘과,",
+    Kor:"므셀레먀의 아들인 맏아들 스가랴와, 둘째 여디야엘과, 셋째 스바댜와, 넷째 야드니엘과,",
     Chn:"米施利米雅的长子是撒迦利亚，次子是耶叠，三子是西巴第雅，四子是耶提聂，",
     Eng:"Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,",
     Ind:"Meselemya mempunyai anak-anak, yakni Zakharia, anak sulung, Yediael, anak yang kedua, Zebaja, anak yang ketiga, Yatniel, anak yang keempat,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Hilkia, anak yang kedua, Tebalya, anak yang ketiga dan Zakharia, anak yang keempat. Semua anak dan saudara Hosa itu ada tiga belas orang."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:12, Page:1,
-    Kor:"○이 문지기 갈래의 우두머리들과 형제들 모두에게 주님의 성전을 섬기는 임무를 맡겼다.",
+    Kor:"○이 문지기 갈래의 우두머리들과 형제들 모두에게 주의 성전을 섬기는 임무를 맡겼다.",
     Chn:"这些人都是守门的班长，与他们的弟兄一同在耶和华殿里按班供职。",
     Eng:"These divisions of the gatekeepers, through their chief men, had duties for ministering in the temple of the Lord , just as their relatives had.",
     Ind:"Rombongan-rombongan para penunggu pintu itu, yang dibagi menurut kepala kaum, mempunyai tugas melayani di rumah TUHAN, sama seperti saudara-saudara sesuku mereka."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Itulah rombongan-rombongan para penunggu pintu dari bani Korah dan dari bani Merari."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:20, Page:1,
-    Kor:"<성전 관리인> ○레위 사람 가운데 다른 사람들은 하나님의 성전 곳간과 성물 곳간을 맡았다.",
+    Kor:"○레위 사람 가운데 다른 사람들은 하나님의 성전 곳간과 성물 곳간을 맡았다.",
     Chn:"利未子孙中有亚希雅掌管　神殿的府库和圣物的府库。",
     Eng:"Their fellow Levites were in charge of the treasuries of the house of God and the treasuries for the dedicated things.",
     Ind:"Orang-orang Lewi, saudara-saudara sesuku mereka, yang mengawasi perbendaharaan rumah Allah dan yang mengawasi perbendaharaan barang-barang kudus;"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"bani Ladan, yakni keturunan Gerson melalui Ladan, mempunyai orang-orang Yehiel sebagai kepala puak."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:22, Page:1,
-    Kor:"여히엘리의 아들은 세담과 그 아우 요엘이며, 이들은 주님의 성전 곳간을 맡았다.",
+    Kor:"여히엘리의 아들은 세담과 그 아우 요엘이며, 이들은 주의 성전 곳간을 맡았다.",
     Chn:"耶希伊利的儿子西坦和他兄弟约珥掌管耶和华殿里的府库。",
     Eng:"the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries of the temple of the Lord .",
     Ind:"Keturunan Yehiel, yakni Zetam dan Yoel, saudaranya, mengawasi perbendaharaan rumah TUHAN."
@@ -153,37 +153,37 @@ BibleDB.add([
     Ind:"Sanak saudara Sebuel melalui Eliezer ialah Rehabya, anak Eliezer, dan Yesaya, anak Rehabya, dan Yoram, anak Yesaya, dan Zikhri, anak Yoram, dan Selomit, anak Zikhri."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:26, Page:1,
-    Kor:"이 슬로못이 그의 가족들과 함께 성물을 보관한 모든 곳간을 관리하였다. 이 성물은 다윗 왕과 족장들과 천부장과 백부장과 군대 지휘관들이 구별하여 바친 물건들이다.",
+    Kor:"이 슬로못이 그의 형제들과 함께 성물을 보관한 모든 곳간을 관리하였다. 이 성물은 다윗 왕과 족장들과 천부장과 백부장과 군대 지휘관들이 구별하여 바친 물건들이다.",
     Chn:"这示罗密和他的弟兄掌管府库的圣物，就是大卫王和众族长、千夫长、百夫长，并军长所分别为圣的物。",
     Eng:"Shelomith and his relatives were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders.",
     Ind:"Selomit ini beserta sanak saudaranya mengawasi perbendaharaan barang-barang kudus yang telah dikuduskan oleh raja Daud dan oleh para kepala puak dan para pemimpin pasukan seribu dan pasukan seratus dan para panglima."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:27, Page:1,
-    Kor:"그들은 전쟁에서 빼앗은 물건들을 주님의 성전 건축과 수리를 위하여 구별하여 바쳤다.",
+    Kor:"그들은 전쟁에서 빼앗은 물건들을 주의 성전 건축과 수리를 위하여 구별하여 바쳤다.",
     Chn:"他们将争战时所夺的财物分别为圣，以备修造耶和华的殿。",
     Eng:"Some of the plunder taken in battle they dedicated for the repair of the temple of the Lord .",
     Ind:"Mereka telah menguduskannya dari rampasan perang untuk menyemarakkan rumah TUHAN."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:28, Page:1,
-    Kor:"선견자 사무엘, 기스의 아들 사울, 넬의 아들 아브넬, 스루야의 아들 요압이 구별하여 바친 모든 성물도 슬로못과 그의 가족들이 관리하였다.",
+    Kor:"선견자 사무엘, 기스의 아들 사울, 넬의 아들 아브넬, 스루야의 아들 요압이 구별하여 바친 모든 성물도 슬로못과 그의 형제들이 관리하였다.",
     Chn:"先见撒母耳、基士的儿子扫罗、尼珥的儿子押尼珥、洗鲁雅的儿子约押所分别为圣的物都归示罗密和他的弟兄掌管。",
     Eng:"And everything dedicated by Samuel the seer and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.",
     Ind:"Juga segala yang dikuduskan oleh Samuel, pelihat itu, oleh Saul bin Kish, oleh Abner bin Ner dan oleh Yoab, anak Zeruya, ya segala barang yang dikuduskan ada di bawah pengawasan Selomit beserta sanak saudaranya."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:29, Page:1,
-    Kor:"<다른 레위 사람들의 직무> ○이스할 사람 그나냐와 그의 아들들은 서기관과 재판관으로서, 이스라엘의 일반 행정을 담당하였다.",
+    Kor:"○이스할 사람 그나냐와 그의 아들들은 서기관과 재판관으로서, 이스라엘의 일반 행정을 담당하였다.",
     Chn:"以斯哈族有基拿尼雅和他众子作官长和士师，管理以色列的外事。",
     Eng:"From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges over Israel.",
     Ind:"Dari orang Yizhar adalah Kenanya beserta anak-anaknya yang diserahi tugas luar di Israel, yaitu menjadi pengatur dan hakim."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:30, Page:1,
-    Kor:"○헤브론 사람 하사뱌와 그의 형제 가운데서 유능한 사람 천칠백 명이 요단 강 서쪽의 이스라엘을 관리하며, 주님의 모든 일과 왕을 섬기는 일을 담당하였다.",
+    Kor:"○헤브론 사람 하사뱌와 그의 형제 가운데서 유능한 사람 천칠백 명이 요단 강 서쪽의 이스라엘을 관리하며, 주의 모든 일과 왕을 섬기는 일을 담당하였다.",
     Chn:"希伯伦族有哈沙比雅和他弟兄一千七百人，都是壮士，在约旦河西、以色列地办理耶和华与王的事。",
     Eng:"From the Hebronites: Hashabiah and his relatives-seventeen hundred able men-were responsible in Israel west of the Jordan for all the work of the Lord and for the king's service.",
     Ind:"Dari orang Hebron adalah Hasabya beserta sanak saudaranya, orang-orang gagah perkasa, seribu tujuh ratus orang jumlahnya, yang diserahi urusan pemerintahan Israel di sebelah barat sungai Yordan dalam segala urusan untuk TUHAN dan segala pekerjaan untuk raja."
   },
   {Bible:"1Chronicles", Chapter:26, Verse:31, Page:1,
-    Kor:"헤브론 사람의 족장은 여리야이다. 다윗이 통치한 지 사십 년이 되던 해에, 헤브론의 족보와 가문을 따라, 길르앗의 야스엘에서 사람들을 조사하여 용사를 찾아냈다.",
+    Kor:"헤브론 사람의 족장은 여리야이다. 다윗이 통치한 지 사십 년이 되던 해에, 헤브론의 족보와 가문을 따라, 길르앗의 야셀에서 사람들을 조사하여 용사를 찾아냈다.",
     Chn:"希伯伦族中有耶利雅作族长。大卫作王第四十年，在基列的雅谢，从这族中寻得大能的勇士。",
     Eng:"As for the Hebronites, Jeriah was their chief according to the genealogical records of their families. In the fortieth year of David's reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead.",
     Ind:"Dari orang Hebron adalah Yeria yang menjadi kepala. Tentang orang Hebron, mengenai keturunannya dan puaknya, dalam tahun keempat puluh zaman pemerintahan Daud diadakan penyelidikan tentang mereka dan ternyata, bahwa di antara mereka ada pahlawan-pahlawan yang gagah perkasa di Yaezer-Gilead."

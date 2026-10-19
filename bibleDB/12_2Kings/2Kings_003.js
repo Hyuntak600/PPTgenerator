@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",3,27);
 BibleDB.add([
   {Bible:"2Kings", Chapter:3, Verse:1, Page:1,
-    Kor:"<이스라엘과 모압의 전쟁> 유다의 여호사밧 왕 제 십팔년에 아합의 아들 a요람이 사마리아에서 이스라엘을 열두 해 동안 다스렸다.(a 히, '여호람'. 히브리 이름 '요람'과 '여호람'은 서로 바꾸어 쓸 수 있음)",
+    Kor:"유다의 여호사밧 왕 제 십팔년에 아합의 아들 요람이 사마리아에서 이스라엘을 열두 해 동안 다스렸다.",
     Chn:"犹大王约沙法十八年，亚哈的儿子约兰在撒马利亚登基作了以色列王十二年。",
     Eng:"Joram son of Ahab became king of Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years.",
     Ind:"Yoram, anak Ahab, menjadi raja di Samaria atas Israel dalam tahun kedelapan belas zaman Yosafat, raja Yehuda, dan ia memerintah dua belas tahun lamanya."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi segera sesudah Ahab mati, memberontaklah raja Moab terhadap raja Israel."
   },
   {Bible:"2Kings", Chapter:3, Verse:6, Page:1,
-    Kor:"그 때에 a요람 왕은 그 날로 사마리아로부터 행군하여 나와서, 이스라엘 군대 전체를 점검한 다음에,(a 히, '여호람'. 히브리 이름 '요람'과 '여호람'은 서로 바꾸어 쓸 수 있음)",
+    Kor:"그 때에 요람 왕은 그 날로 사마리아로부터 행군하여 나와서, 이스라엘 군대 전체를 점검한 다음에,",
     Chn:"那时约兰王出撒马利亚，数点以色列众人。",
     Eng:"So at that time King Joram set out from Samaria and mobilized all Israel.",
     Ind:"Keluarlah raja Yoram pada waktu itu dari Samaria, lalu ia memeriksa barisan seluruh orang Israel."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Selanjutnya ia menyuruh orang kepada Yosafat, raja Yehuda, dengan pesan: \"Raja Moab telah memberontak terhadap aku! Maukah engkau bersama-sama aku berperang melawan Moab?\" Jawabnya: \"Aku akan maju. Kita sama-sama, aku dan engkau, rakyatku dan rakyatmu, kudaku dan kudamu.\""
   },
   {Bible:"2Kings", Chapter:3, Verse:8, Page:1,
-    Kor:"이에 a요람이 \"그러면 우리가 어느 길로 올라가는 것이 좋겠습니까?\" 하고 물으니, 여호사밧은 에돔의 광야 길로 가는 것이 좋겠다고 말하였다.(a 히, '여호람'. 히브리 이름 '요람'과 '여호람'은 서로 바꾸어 쓸 수 있음)",
+    Kor:"이에 요람이 \"그러면 우리가 어느 길로 올라가는 것이 좋겠습니까?\" 하고 물으니, 여호사밧은 에돔의 광야 길로 가는 것이 좋겠다고 말하였다.",
     Chn:"约兰说：「我们从哪条路上去呢？」回答说：「从以东旷野的路上去。」",
     Eng:"\"By what route shall we attack?\" he asked. \"Through the Desert of Edom,\" he answered.",
     Ind:"Lagi ia bertanya: \"Melalui jalan manakah kita akan maju?\" Jawabnya: \"Melalui padang gurun Edom!\""
@@ -57,67 +57,67 @@ BibleDB.add([
     Ind:"Maka berjalanlah raja Israel dan raja Yehuda dan raja Edom. Tetapi sesudah mereka berkeliling tujuh hari perjalanan jauhnya, maka tidak terdapat air untuk tentara dan untuk hewan yang mengikuti mereka."
   },
   {Bible:"2Kings", Chapter:3, Verse:10, Page:1,
-    Kor:"이스라엘 왕이 탄식하였다. \"아, 큰일났구나! 주님께서 우리 세 왕을 모압의 손에 넘겨 주시려고 불러내신 것이 아닌가!\"",
+    Kor:"이스라엘 왕이 탄식하였다. \"아, 큰일났구나! 주께서 우리 세 왕을 모압의 손에 넘겨 주시려고 불러내신 것이 아닌가!\"",
     Chn:"以色列王说：「哀哉！耶和华招聚我们这三王，乃要交在摩押人的手里。」",
     Eng:"\"What!\" exclaimed the king of Israel. \"Has the LORD called us three kings together only to hand us over to Moab?\"",
     Ind:"Lalu berkatalah raja Israel: \"Wahai, TUHAN telah memanggil ketiga raja ini untuk menyerahkan mereka ke dalam tangan Moab!\""
   },
   {Bible:"2Kings", Chapter:3, Verse:11, Page:1,
-    Kor:"그러나 여호사밧은 \"여기에는 주님의 예언자가 없습니까? 이 일을 주님께 물을 예언자가 없습니까?\" 하고 물었다. 그 때에 이스라엘 왕의 신하 가운데 하나가 대답하였다. \"사밧의 아들 엘리사라는 사람이 여기에 있습니다. 그는 엘리야의 시중을 들던 사람입니다.\"",
+    Kor:"그러나 여호사밧은 \"여기에는 주의 예언자가 없습니까? 이 일을 주께 물을 예언자가 없습니까?\" 하고 물었다. 그 때에 이스라엘 왕의 신하 가운데 하나가 대답하였다. \"사밧의 아들 엘리사라는 사람이 여기에 있습니다. 그는 엘리야의 시중을 들던 사람입니다.\"",
     Chn:"约沙法说：「这里不是有耶和华的先知吗？我们可以托他求问耶和华。」以色列王的一个臣子回答说：「这里有沙法的儿子以利沙，就是从前服事以利亚的。」",
     Eng:"But Jehoshaphat asked, \"Is there no prophet of the LORD here, that we may inquire of the LORD through him?\" An officer of the king of Israel answered, \"Elisha son of Shaphat is here. He used to pour water on the hands of Elijah.\"",
     Ind:"Tetapi bertanyalah Yosafat: \"Tidak adakah di sini seorang nabi TUHAN, supaya dengan perantaraannya kita meminta petunjuk TUHAN?\" Lalu salah seorang pegawai raja Israel menjawab, katanya: \"Di sini ada Elisa bin Safat, yang dahulu melayani Elia.\""
   },
   {Bible:"2Kings", Chapter:3, Verse:12, Page:1,
-    Kor:"그러자 여호사밧이 말하였다. \"그에게서 주님의 말씀을 들을 수 있을 것 같습니다.\" 그래서 이스라엘의 왕과 여호사밧과 에돔 왕이 그에게로 내려갔다.",
+    Kor:"그러자 여호사밧이 말하였다. \"그에게서 주의 말씀을 들을 수 있을 것 같습니다.\" 그래서 이스라엘의 왕과 여호사밧과 에돔 왕이 그에게로 내려갔다.",
     Chn:"约沙法说：「他必有耶和华的话。」于是以色列王和约沙法，并以东王都下去见他。",
     Eng:"Jehoshaphat said, \"The word of the LORD is with him.\" So the king of Israel and Jehoshaphat and the king of Edom went down to him.",
     Ind:"Berkatalah Yosafat: \"Memang padanya ada firman TUHAN.\" Sesudah itu pergilah raja Israel dan Yosafat dan raja Edom kepada Elisa."
   },
   {Bible:"2Kings", Chapter:3, Verse:13, Page:1,
-    Kor:"그러나 엘리사는 이스라엘 왕에게 말하였다. \"무슨 일로 나에게 오셨습니까? 임금님의 아버지와 어머니의 예언자들에게나 가 보십시오\" 하고 말하였다. 이스라엘 왕이 그에게 말하였다. \"그런 말씀은 마십시오. 주님께서 우리들 세 왕을 불러내셔서, 모압의 손에 넘겨 주시려고 하십니다.\"",
+    Kor:"그러나 엘리사는 이스라엘 왕에게 말하였다. \"무슨 일로 나에게 오셨습니까? 임금님의 아버지와 어머니의 예언자들에게나 가 보십시오\" 하고 말하였다. 이스라엘 왕이 그에게 말하였다. \"그런 말씀은 마십시오. 주께서 우리들 세 왕을 불러내셔서, 모압의 손에 넘겨 주시려고 하십니다.\"",
     Chn:"以利沙对以色列王说：「我与你何干？去问你父亲的先知和你母亲的先知吧！」以色列王对他说：「不要这样说，耶和华招聚我们这三王，乃要交在摩押人的手里。」",
     Eng:"Elisha said to the king of Israel, \"What do we have to do with each other? Go to the prophets of your father and the prophets of your mother.\" \"No,\" the king of Israel answered, \"because it was the LORD who called us three kings together to hand us over to Moab.\"",
     Ind:"Tetapi berkatalah Elisa kepada raja Israel: \"Apakah urusanku dengan engkau? Pergilah kepada para nabi ayahmu dan kepada para nabi ibumu.\" Jawab raja Israel kepadanya: \"Jangan begitu, sebab TUHAN memanggil ketiga raja ini untuk menyerahkan mereka ke dalam tangan orang Moab!\""
   },
   {Bible:"2Kings", Chapter:3, Verse:14, Page:1,
-    Kor:"그제야 엘리사는 말하였다. \"내가 섬기는 만군의 주님께서 살아 계심을 두고 맹세합니다. 내가 유다 왕 여호사밧의 체면을 생각하지 않았더라면, 요람 임금님을 염두에 두지도 않았을 뿐만 아니라, 임금님을 쳐다보지도 않았을 것입니다.",
+    Kor:"그제야 엘리사는 말하였다. \"내가 섬기는 만군의 주께서 살아 계심을 두고 맹세합니다. 내가 유다 왕 여호사밧의 체면을 생각하지 않았더라면, 요람 임금님을 염두에 두지도 않았을 뿐만 아니라, 임금님을 쳐다보지도 않았을 것입니다.",
     Chn:"以利沙说：「我指着所事奉永生的万军耶和华起誓，我若不看犹大王约沙法的情面，必不理你，不顾你。",
     Eng:"Elisha said, \"As surely as the LORD Almighty lives, whom I serve, if I did not have respect for the presence of Jehoshaphat king of Judah, I would not look at you or even notice you.",
     Ind:"Berkatalah Elisa: \"Demi TUHAN semesta alam yang hidup, yang di hadapan-Nya aku menjadi pelayan: jika tidak karena Yosafat, raja Yehuda, maka sesungguhnya aku ini tidak akan memandang dan melihat kepadamu."
   },
   {Bible:"2Kings", Chapter:3, Verse:15, Page:1,
-    Kor:"이제 나에게 거문고를 타는 사람을 데려 오십시오.\" 그리하여 거문고 타는 사람이 와서 거문고를 타니, 주님의 권능이 엘리사에게 내렸고,",
+    Kor:"이제 나에게 거문고를 타는 사람을 데려 오십시오.\" 그리하여 거문고 타는 사람이 와서 거문고를 타니, 주의 권능이 엘리사에게 내렸고,",
     Chn:"现在你们给我找一个弹琴的来。」弹琴的时候，耶和华的灵就降在以利沙身上。",
     Eng:"But now bring me a harpist.\" While the harpist was playing, the hand of the LORD came upon Elisha",
     Ind:"Maka sekarang, jemputlah bagiku seorang pemetik kecapi.\" Pada waktu pemetik kecapi itu bermain kecapi, maka kekuasaan TUHAN meliputi dia."
   },
   {Bible:"2Kings", Chapter:3, Verse:16, Page:1,
-    Kor:"엘리사는 예언을 하기 시작하였다. \"주님께서 이렇게 말씀하십니다. '이 계곡에 도랑을 많이 파라.'",
+    Kor:"엘리사는 예언을 하기 시작하였다. \"주께서 이렇게 말씀하십니다. '이 계곡에 도랑을 많이 파라.'",
     Chn:"他便说：「耶和华如此说：『你们要在这谷中满处挖沟；",
     Eng:"and he said, \"This is what the LORD says: Make this valley full of ditches.",
     Ind:"Kemudian berkatalah ia: \"Beginilah firman TUHAN: Biarlah di lembah ini dibuat parit-parit,"
   },
   {Bible:"2Kings", Chapter:3, Verse:17, Page:1,
-    Kor:"주님께서 또 이렇게 말씀하십니다. '너는 바람이 부는 것도 보지 못하고, 비가 내리는 것도 보지 못하겠지만, 이 계곡은 물로 가득 찰 것이며, 너희와 너희의 가축과 짐승이 마시게 될 것이다.'",
+    Kor:"주께서 또 이렇게 말씀하십니다. '너는 바람이 부는 것도 보지 못하고, 비가 내리는 것도 보지 못하겠지만, 이 계곡은 물로 가득 찰 것이며, 너희와 너희의 가축과 짐승이 마시게 될 것이다.'",
     Chn:"因为耶和华如此说：你们虽不见风，不见雨，这谷必满了水，使你们和牲畜有水喝。』",
     Eng:"For this is what the LORD says: You will see neither wind nor rain, yet this valley will be filled with water, and you, your cattle and your other animals will drink.",
     Ind:"sebab beginilah firman TUHAN: Kamu tidak akan mendapat angin dan hujan, namun lembah ini akan penuh dengan air, sehingga kamu serta ternak sembelihan dan hewan pengangkut dapat minum."
   },
   {Bible:"2Kings", Chapter:3, Verse:18, Page:1,
-    Kor:"그렇습니다. 이런 일쯤은 주님께서 보시기에는 너무나 가벼운 일입니다. 그러므로 주님께서는 모압을 임금님들의 손에 넘겨 주셨습니다.",
+    Kor:"그렇습니다. 이런 일쯤은 주님께서 보시기에는 너무나 가벼운 일입니다. 그러므로 주께서는 모압을 임금님들의 손에 넘겨 주셨습니다.",
     Chn:"在耶和华眼中这还算为小事，他也必将摩押人交在你们手中。",
     Eng:"This is an easy thing in the eyes of the LORD; he will also hand Moab over to you.",
     Ind:"Dan itupun adalah perkara ringan di mata TUHAN; juga orang Moab akan diserahkan-Nya ke dalam tanganmu."
   },
   {Bible:"2Kings", Chapter:3, Verse:19, Page:1,
-    Kor:"그러므로 임금님들께서는 요새화된 모든 성읍과 모든 아름다운 성읍을 치실 것이고, 모든 좋은 나무를 쓰러뜨리며, 물이 솟는 모든 샘을 막을 것이며, 모든 옥토를 돌짝밭으로 만드실 것입니다.\"",
+    Kor:"그러므로 임금님들께서는 요새화된 모든 성읍과 모든 아름다운 성읍을 치실 것이고, 모든 좋은 나무를 쓰러뜨리며, 물이 솟는 모든 샘을 막을 것이며, 모든 기름진 밭을 돌짝밭으로 만드실 것입니다.\"",
     Chn:"你们必攻破一切坚城美邑，砍伐各种佳树，塞住一切水泉，用石头糟踏一切美田。」",
     Eng:"You will overthrow every fortified city and every major town. You will cut down every good tree, stop up all the springs, and ruin every good field with stones.\"",
     Ind:"Kamu akan memusnahkan segala kota yang berkubu dan segala kota pilihan; kamu akan menumbangkan segala pohon yang baik; kamu akan menutup segala mata air dan kamu akan merusakkan segala ladang yang baik dengan batu-batu.\""
   },
   {Bible:"2Kings", Chapter:3, Verse:20, Page:1,
-    Kor:"그 다음날 아침에 제물을 드릴 때에, 물이 에돔 쪽을 따라 흘러내려서, 그 땅을 물로 가득 채웠다.",
+    Kor:"그 다음날 아침에, 제물을 드릴 때에, 물이 에돔 쪽을 따라 흘러내려서, 그 땅을 물로 가득 채웠다.",
     Chn:"次日早晨，约在献祭的时候，有水从以东而来，遍地就满了水。",
     Eng:"The next morning, about the time for offering the sacrifice, there it was--water flowing from the direction of Edom! And the land was filled with water.",
     Ind:"Keesokan harinya ketika orang mempersembahkan korban, datanglah dengan tiba-tiba air dari arah Edom, lalu penuhlah negeri itu dengan air."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Tetapi ketika mereka sampai ke perkemahan orang Israel, maka bangkitlah orang Israel itu, lalu memukul orang-orang Moab, sehingga mereka lari dari situ. Dan makin jauhlah mereka menerobos ke dalam Moab sambil menewaskan orang-orang Moab itu."
   },
   {Bible:"2Kings", Chapter:3, Verse:25, Page:1,
-    Kor:"그들은 또 성읍들을 파괴하고, 옥토에는 모두 돌을 던져서, 돌로 가득 채웠다. 물이 나는 샘을 모두 메우고, 좋은 나무를 모두 쓰러뜨려서 길하레셋의 돌담만 남겼는데, 그 곳도 무릿매꾼들이 포위하고 공격하였다.",
+    Kor:"그들은 또 성읍들을 파괴하고, 기름진 밭에는 모두 돌을 던져서, 돌로 가득 채웠다. 물이 나는 샘을 모두 메우고, 좋은 나무를 모두 쓰러뜨려서 길하레셋의 돌담만 남겼는데, 그 곳도 무릿매꾼들이 포위하고 공격하였다.",
     Chn:"拆毁摩押的城邑，各人抛石填满一切美田，塞住一切水泉，砍伐各种佳树，只剩下吉珥·哈列设的石墙；甩石的兵在四围攻打那城。",
     Eng:"They destroyed the towns, and each man threw a stone on every good field until it was covered. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well.",
     Ind:"Mereka meruntuhkan kota-kota dan menutupi setiap ladang yang baik dengan batu, karena setiap orang melemparkan batu ke atasnya. Mereka menutup segala mata air dan menumbangkan segala pohon yang baik, sampai hanya Kir-Hareset saja yang ditinggalkan, tetapi kota ini ditembaki oleh orang-orang pengumban dari segala penjuru."

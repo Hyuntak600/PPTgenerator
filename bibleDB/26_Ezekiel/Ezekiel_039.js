@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",39,29);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:39, Verse:1, Page:1,
-    Kor:"<침략자 곡의 멸망> \"너 사람아, 곡을 규탄하여 예언하여라. ○'나 주 하나님이 말한다. 너 로스와 메섹과 두발의 왕 곡아, 내가 너를 대적한다.",
+    Kor:"\"너 사람아, 곡을 규탄하여 예언하여라. '나 주 하나님이 말한다. 너 로스와 메섹과 두발의 왕 곡아, 내가 너를 대적한다.",
     Chn:"「人子啊，你要向歌革发预言攻击他，说主耶和华如此说：罗施、米设、土巴的王歌革啊，我与你为敌。",
     Eng:"\"Son of man, prophesy against Gog and say: 'This is what the Sovereign LORD says: I am against you, O Gog, chief prince of Meshech and Tubal.",
     Ind:"Dan engkau, anak manusia, bernubuatlah melawan Gog dan katakanlah: Beginilah firman Tuhan ALLAH: Lihat, Aku akan menjadi lawanmu, hai Gog raja agung negeri Mesekh dan Tubal"
   },
   {Bible:"Ezekiel", Chapter:39, Verse:2, Page:1,
-    Kor:"내가 너를 돌려 세우고 이끌어 내겠다. 너를 북쪽 끝에서 이끌어 내서 이스라엘의 산지를 침략하게 하겠다.",
+    Kor:"내가 너를 돌려 세우고 이끌어 내겠다. 너를 북쪽 끝에서 이끌어 내서 이스라엘의 산야를 침략하게 하겠다.",
     Chn:"我必调转你，领你前往，使你从北方的极处上来，带你到以色列的山上。",
     Eng:"I will turn you around and drag you along. I will bring you from the far north and send you against the mountains of Israel.",
     Ind:"dan Aku akan menarik dan menuntun engkau dan Aku akan mendatangkan engkau dari utara sekali dan membawa engkau ke gunung-gunung Israel."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Aku akan memukul tangan kirimu sehingga busurmu jatuh dan membuat panah-panahmu berjatuhan dari tangan kananmu."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:4, Page:1,
-    Kor:"너는 네 모든 군대와, 너와 함께 한 연합군과 함께 이스라엘의 산지 위에서 쓰러져 죽을 것이다. 나는 날개 돋친 온갖 종류의 사나운 새들과 들짐승들에게 너를 넘겨 주어서, 뜯어 먹게 하겠다.",
+    Kor:"너는 네 전군과, 너와 함께 한 연합군과 함께 이스라엘의 산야 위에서 쓰러져 죽을 것이다. 나는 날개 돋친 온갖 종류의 사나운 새들과 들짐승들에게 너를 넘겨 주어서, 뜯어 먹게 하겠다.",
     Chn:"你和你的军队，并同着你的列国人，都必倒在以色列的山上。我必将你给各类的鸷鸟和田野的走兽作食物。",
     Eng:"On the mountains of Israel you will fall, you and all your troops and the nations with you. I will give you as food to all kinds of carrion birds and to the wild animals.",
     Ind:"Di atas gunung-gunung Israel engkau akan rebah dengan seluruh bala tentaramu beserta bangsa-bangsa yang menyertai engkau; dan engkau akan Kuberikan kepada burung-burung buas dari segala jenis dan kepada binatang-binatang buas menjadi makanannya."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Aku mendatangkan api ke atas Magog dan ke atas orang-orang yang diam di daerah pesisir dengan aman tenteram, dan mereka akan mengetahui bahwa Akulah TUHAN."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:7, Page:1,
-    Kor:"내가 내 백성 이스라엘 가운데 내 거룩한 이름을 알려 주어서, 내 거룩한 이름이 다시는 더럽혀지지 않게 하겠다. 그 때에야 비로소 뭇 민족이, 내가 주인 줄, 곧 이스라엘의 거룩한 하나님인 줄 알 것이다.",
+    Kor:"내가 내 백성 이스라엘 가운데 내 거룩한 이름을 알려 주어서, 내 거룩한 이름이 다시는 더럽혀지지 않게 하겠다. 그 때에야 비로소 뭇 민족이, 내가 주인 줄, 곧 이스라엘에서 거룩한 하나님인 줄 알 것이다.",
     Chn:"「我要在我民以色列中显出我的圣名，也不容我的圣名再被亵渎，列国人就知道我是耶和华—以色列中的圣者。",
     Eng:"\"'I will make known my holy name among my people Israel. I will no longer let my holy name be profaned, and the nations will know that I the LORD am the Holy One in Israel.",
     Ind:"Dan Aku akan menyatakan nama-Ku yang kudus di tengah-tengah umat-Ku Israel dan Aku tidak lagi membiarkan nama-Ku yang kudus dinajiskan, sehingga bangsa-bangsa akan mengetahui bahwa Akulah TUHAN, Yang Mahakudus di Israel."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Mereka tidak akan mengambil kayu dari hutan belukar atau membelah kayu api di hutan-hutan, sebab mereka akan menyalakan api itu dengan perlengkapan senjata itu. Mereka akan merampas orang-orang yang merampas mereka dan menjarah orang-orang yang menjarah mereka, demikianlah firman Tuhan ALLAH."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:11, Page:1,
-    Kor:"<곡의 무덤> ○\"그 날에는 내가 이스라엘 땅, a사해의 동쪽, 'b아바림 골짜기'에 곡의 무덤을 만들어 주겠다. 이스라엘 사람들이 곡과 그의 모든 군대를 거기에 묻으면, 여행자들이 그리로는 못 다니게 될 것이고, 그 곳 이름은 'c하몬곡 골짜기'라고 불릴 것이다.(a 히, '바다의' b '나그네' c '곡의 무리, 군대')",
+    Kor:"○\"그 날에는 내가 이스라엘 땅, 사해의 동쪽, '아바림 골짜기'에 곡의 무덤을 만들어 주겠다. 이스라엘 사람들이 곡과 그의 모든 군대를 거기에 묻으면, 여행자들이 그리로는 못 다니게 될 것이고, 그 곳 이름은 '하몬곡 골짜기'라고 불릴 것이다.",
     Chn:"「当那日，我必将以色列地的谷，就是海东人所经过的谷，赐给歌革为坟地，使经过的人到此停步。在那里人必葬埋歌革和他的群众，就称那地为哈们·歌革谷。",
     Eng:"\"'On that day I will give Gog a burial place in Israel, in the valley of those who travel east toward the Sea. It will block the way of travelers, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon Gog.",
     Ind:"Maka pada hari itu Aku akan memberikan kepada Gog suatu tempat, di mana ia akan dikubur di Israel, yaitu Lembah Penyeberangan di sebelah timur dari laut dan kuburan itu akan menghalangi orang-orang yang menyeberang. Di sana Gog akan dikubur dengan semua khalayak ramai yang mengikutinya dan tempat itu akan disebut Lembah Khalayak Ramai Gog."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kalau mereka menjelajahinya dan seorang menjumpai sepotong tulang manusia, maka ia harus meletakkan batu di sampingnya sebagai tanda sampai tukang-tukang kubur menguburkannya di Lembah khalayak Ramai Gog."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:16, Page:1,
-    Kor:"그 부근에는 'c하몬곡 골짜기'라는 이름을 딴 d하모나라는 성읍이 생길 것이다. 그들이 이렇게 그 땅을 깨끗하게 할 것이다.\"(c '곡의 무리, 군대' d '무리')",
+    Kor:"그 부근에는 '하몬곡 골짜기'라는 이름을 딴 하모나라는 성읍이 생길 것이다. 그들이 이렇게 그 땅을 깨끗하게 할 것이다.\"",
     Chn:"他们必这样洁净那地，并有一城名叫哈摩那。",
     Eng:"(Also a town called Hamonah will be there.) And so they will cleanse the land.'",
     Ind:"--Dan ada juga nama kota Hamona--.Dengan demikian mereka mentahirkan tanah itu."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Kamu akan menjadi kenyang pada perjamuan-Ku dengan makanan: kuda dan penunggangnya, pahlawan dan semua orang perang, demikianlah firman Tuhan ALLAH."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:21, Page:1,
-    Kor:"<이스라엘의 회복> ○\"내가 이와 같이 여러 민족 가운데 내 영광을 드러낼 것이니, 내가 어떻게 심판을 집행하며, 내가 어떻게 그들에게 내 권능을 나타내는지, 여러 민족이 직접 볼 것이다.",
+    Kor:"○\"내가 이와 같이 여러 민족 가운데 내 영광을 드러낼 것이니, 내가 어떻게 심판을 집행하며, 내가 어떻게 그들에게 내 권능을 나타내는지, 여러 민족이 직접 볼 것이다.",
     Chn:"「我必显我的荣耀在列国中；万民就必看见我所行的审判与我在他们身上所加的手。",
     Eng:"\"I will display my glory among the nations, and all the nations will see the punishment I inflict and the hand I lay upon them.",
     Ind:"Aku akan membuat kuasa kemuliaan-Ku berlaku atas bangsa-bangsa dan mereka semua melihat hukuman yang akan Kujatuhkan dan melihat tangan-Ku yang akan memukul mereka."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:22, Page:1,
-    Kor:"그 때에야 비로소 이스라엘 족속이, 나 주가 그들의 하나님임을 그 날로부터 영원히 알게 될 것이다.",
+    Kor:"그 때에야 비로소 이스라엘 족속이, 나 주가 그들의 하나님임을 그 날로부터 영영 알게 될 것이다.",
     Chn:"这样，从那日以后，以色列家必知道我是耶和华—他们的　神。",
     Eng:"From that day forward the house of Israel will know that I am the LORD their God.",
     Ind:"Dan kaum Israel akan mengetahui bahwa Akulah TUHAN, Allah mereka, mulai hari itu dan seterusnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Selaras dengan kenajisan dan durhaka mereka Kuperlakukan mereka dan Kusembunyikan wajah-Ku terhadap mereka."
   },
   {Bible:"Ezekiel", Chapter:39, Verse:25, Page:1,
-    Kor:"○\"그러므로 나 주 하나님이 말한다. 이제는 내가 e포로된 야곱의 자손을 돌아오게 하고, 이스라엘 온 족속을 불쌍히 여기며, 내 거룩한 이름을 열심을 내어 지키겠다.(e 또는 '야곱의 운명을 회복시키고')",
+    Kor:"○\"그러므로 나 주 하나님이 말한다. 이제는 내가 포로된 야곱의 자손을 돌아오게 하고, 이스라엘 온 족속을 불쌍히 여기며, 내 거룩한 이름을 열심을 내어 지키겠다.",
     Chn:"主耶和华如此说：「我要使雅各被掳的人归回，要怜悯以色列全家，又为我的圣名发热心。",
     Eng:"\"Therefore this is what the Sovereign LORD says: I will now bring Jacob back from captivity and will have compassion on all the people of Israel, and I will be zealous for my holy name.",
     Ind:"Oleh sebab itu beginilah firman Tuhan ALLAH: Sekarang, Aku akan memulihkan keadaan Yakub dan akan menyayangi seluruh kaum Israel dan cemburu-Ku timbul untuk mempertahankan nama-Ku yang kudus."

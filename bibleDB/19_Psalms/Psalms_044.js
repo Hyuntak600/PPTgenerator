@@ -3,37 +3,37 @@
 BibleDB.ref("Psalms",44,26);
 BibleDB.add([
   {Bible:"Psalms", Chapter:44, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 부르는 고라 자손의 노래, a마스길> 하나님, 우리는 두 귀로 들었습니다. 그 옛날 우리 조상이 살던 그 때에, 하나님께서 하신 그 일들을, 우리의 조상이 우리에게 낱낱이 일러주었습니다. (a 문학 또는 음악 용어)",
+    Kor:"하나님, 우리는 두 귀로 들었습니다. 그 옛날 우리 조상이 살던 그 때에, 하나님께서 해주신 그 일들을, 우리의 조상이 우리에게 낱낱이 일러주었습니다.",
     Chn:"可拉后裔的训诲诗，交与伶长。 　神啊，你在古时， 我们列祖的日子所行的事， 我们亲耳听见了； 我们的列祖也给我们述说过。",
     Eng:"We have heard with our ears, O God; our fathers have told us what you did in their days, in days long ago.",
     Ind:"Untuk pemimpin biduan. Dari bani Korah. Nyanyian pengajaran. (44-2) Ya Allah, dengan telinga kami sendiri telah kami dengar, nenek moyang kami telah menceritakan kepada kami perbuatan yang telah Kaulakukan pada zaman mereka, pada zaman purbakala."
   },
   {Bible:"Psalms", Chapter:44, Verse:2, Page:1,
-    Kor:"하나님께서 뭇 나라들을 손수 몰아내시고, 우리 조상을 이 땅에 뿌리 박게 하셨습니다. 뭇 민족을 재앙으로 치시고, 우리 조상을 번창하게 하셨습니다.",
+    Kor:"하나님께서 뭇 민족을 손수 몰아내시고, 우리 조상을 이 땅에 뿌리 박게 하셨습니다. 여러 부족을 재앙으로 치시고, 우리 조상을 번창하게 하셨습니다.",
     Chn:"你曾用手赶出外邦人， 却栽培了我们列祖； 你苦待列邦， 却叫我们列祖发达。",
     Eng:"With your hand you drove out the nations and planted our fathers; you crushed the peoples and made our fathers flourish.",
     Ind:"(44-3) Engkau sendiri, dengan tangan-Mu, telah menghalau bangsa-bangsa, tetapi mereka ini Kaubiarkan bertumbuh; suku-suku bangsa telah Kaucelakakan, tetapi mereka ini Kaubiarkan berkembang."
   },
   {Bible:"Psalms", Chapter:44, Verse:3, Page:1,
-    Kor:"우리 조상이 이 땅을 차지한 것은 그들의 칼로 차지한 것이 아니었습니다. 조상이 얻은 승리도 그들의 힘으로 얻은 것이 아니었습니다. 오직, 하나님의 오른손과 오른팔과 하나님의 빛나는 얼굴이 이루어 주셨으니, 참으로 이것은 하나님께서 그들을 사랑하셨기 때문입니다.",
+    Kor:"우리 조상이 이 땅을 차지한 것은 그들의 칼로 차지한 것이 아니었습니다. 조상이 얻은 승리도 그들의 힘으로 얻은 것이 아니었습니다. 오직, 하나님의 오른손과 오른팔과 하나님의 얼굴빛이 이루어 주셨으니, 참으로 이것은 하나님께서 그들을 사랑하셨기 때문입니다.",
     Chn:"因为他们不是靠自己的刀剑得地土， 也不是靠自己的膀臂得胜， 乃是靠你的右手、你的膀臂， 和你脸上的亮光， 因为你喜悦他们。",
     Eng:"It was not by their sword that they won the land, nor did their arm bring them victory; it was your right hand, your arm, and the light of your face, for you loved them.",
     Ind:"(44-4) Sebab bukan dengan pedang mereka menduduki negeri, bukan lengan mereka yang memberikan mereka kemenangan, melainkan tangan kanan-Mu dan lengan-Mu dan cahaya wajah-Mu, sebab Engkau berkenan kepada mereka."
   },
   {Bible:"Psalms", Chapter:44, Verse:4, Page:1,
-    Kor:"b주님이야말로 나의 왕, 나의 하나님. 야곱에게 승리를 주시는 분이십니다. (b 칠십인역과 시리아어역을 따름. 히, '하나님, 주님은 나의 왕이십니다. 야곱의 구원을 명하십시오')",
+    Kor:"주님이야말로 나의 왕, 나의 하나님이십니다. 야곱에게 승리를 안겨 주신 그 주님이십니다.",
     Chn:"神啊，你是我的王； 求你出令使雅各得胜。",
     Eng:"You are my King and my God, who decrees victories for Jacob.",
     Ind:"(44-5) Engkaulah Rajaku dan Allahku yang memerintahkan kemenangan bagi Yakub."
   },
   {Bible:"Psalms", Chapter:44, Verse:5, Page:1,
-    Kor:"주님의 능력으로 우리는 우리의 적을 쳐부수었으며, 우리를 공격하여 오는 자들을 주님의 이름으로 짓밟았습니다.",
+    Kor:"주님을 의지하였기에 우리는 우리의 적을 쳐부술 수 있었으며, 우리를 공격하여 오는 자들을 주의 이름으로 짓밟을 수 있었습니다.",
     Chn:"我们靠你要推倒我们的敌人， 靠你的名要践踏那起来攻击我们的人。",
     Eng:"Through you we push back our enemies; through your name we trample our foes.",
     Ind:"(44-6) Dengan Engkaulah kami menanduk para lawan kami, dengan nama-Mulah kami menginjak-injak orang-orang yang bangkit menyerang kami."
   },
   {Bible:"Psalms", Chapter:44, Verse:6, Page:1,
-    Kor:"내가 의지한 것은 내 활이 아닙니다. 나에게 승리를 안겨 준 것은 내 칼이 아닙니다.",
+    Kor:"내가 의지한 것은 활이 아닙니다. 나에게 승리를 안겨 준 것은 칼이 아닙니다.",
     Chn:"因为，我必不靠我的弓； 我的刀也不能使我得胜。",
     Eng:"I do not trust in my bow, my sword does not bring me victory;",
     Ind:"(44-7) Sebab bukan kepada panahku aku percaya, dan pedangkupun tidak memberi aku kemenangan,"
@@ -45,43 +45,43 @@ BibleDB.add([
     Ind:"(44-8) tetapi Engkaulah yang memberi kami kemenangan terhadap para lawan kami, dan orang-orang yang membenci kami Kauberi malu."
   },
   {Bible:"Psalms", Chapter:44, Verse:8, Page:1,
-    Kor:"우리는 언제나 우리 하나님만 자랑합니다. 주님의 이름만 끊임없이 찬양하렵니다. (셀라)",
+    Kor:"우리는 언제나 우리 하나님만 자랑합니다. 주의 이름만 끊임없이 찬양합니다. (셀라)",
     Chn:"我们终日因　神夸耀， 还要永远称谢你的名。 （细拉）",
     Eng:"In God we make our boast all day long, and we will praise your name forever. Selah",
     Ind:"(44-9) Karena Allah kami nyanyikan puji-pujian sepanjang hari, dan bagi nama-Mu kami mengucapkan syukur selama-lamanya. Sela"
   },
   {Bible:"Psalms", Chapter:44, Verse:9, Page:1,
-    Kor:"그러나 이제는 주님께서 우리를 버려, 치욕을 당하게 하시며, 우리 군대와 함께 출전하지 않으셨습니다.",
+    Kor:"그러나 이제는 주께서 우리를 버리시고, 우리를 싫어하셔서, 우리 군대와 함께 출전하지 않으셨습니다.",
     Chn:"但如今你丢弃了我们，使我们受辱， 不和我们的军兵同去。",
     Eng:"But now you have rejected and humbled us; you no longer go out with our armies.",
     Ind:"(44-10) Namun Engkau telah membuang kami dan membiarkan kami kena umpat, Engkau tidak maju bersama-sama dengan bala tentara kami."
   },
   {Bible:"Psalms", Chapter:44, Verse:10, Page:1,
-    Kor:"주님께서 우리를 적에게서 밀려나게 하시니, 우리를 미워하는 자들이 마음껏 우리를 약탈하였습니다.",
+    Kor:"주께서 우리를 적에게서 밀려나게 하시니, 우리를 미워하는 자들이 마음껏 우리를 약탈하였습니다.",
     Chn:"你使我们向敌人转身退后； 那恨我们的人任意抢夺。",
     Eng:"You made us retreat before the enemy, and our adversaries have plundered us.",
     Ind:"(44-11) Engkau membuat kami mundur dari pada lawan kami, dan orang-orang yang membenci kami mengadakan perampokan."
   },
   {Bible:"Psalms", Chapter:44, Verse:11, Page:1,
-    Kor:"주님께서 우리를 잡아먹힐 양처럼 그들에게 넘겨 주시고, 여러 나라에 흩으셨습니다.",
+    Kor:"주께서 우리를 잡아먹힐 양처럼 그들에게 넘겨 주시고, 여러 민족 사이에 흩으셨습니다.",
     Chn:"你使我们当作快要被吃的羊， 把我们分散在列邦中。",
     Eng:"You gave us up to be devoured like sheep and have scattered us among the nations.",
     Ind:"(44-12) Engkau menyerahkan kami sebagai domba sembelihan dan menyerakkan kami di antara bangsa-bangsa."
   },
   {Bible:"Psalms", Chapter:44, Verse:12, Page:1,
-    Kor:"주님께서 주님의 백성을 헐값으로 파시니, 그들을 팔아 이익을 얻은 것이 아무것도 없습니다.",
+    Kor:"주께서 주의 백성을 헐값으로 파시니, 주의 군대가 얻을 이득이 아무것도 없습니다.",
     Chn:"你卖了你的子民也不赚利， 所得的价值并不加添你的资财。",
     Eng:"You sold your people for a pittance, gaining nothing from their sale.",
     Ind:"(44-13) Engkau menjual umat-Mu dengan cuma-cuma dan tidak mengambil keuntungan apa-apa dari penjualan itu."
   },
   {Bible:"Psalms", Chapter:44, Verse:13, Page:1,
-    Kor:"주님께서 우리를 이웃의 조롱거리로 만드시고, 주위 사람들의 조롱거리와 웃음거리로 만드십니다.",
+    Kor:"주께서 우리를 이웃의 조롱거리로 만드시고, 주위의 조롱과 웃음거리로 만드십니다.",
     Chn:"你使我们受邻国的羞辱， 被四围的人嗤笑讥刺。",
     Eng:"You have made us a reproach to our neighbors, the scorn and derision of those around us.",
     Ind:"(44-14) Engkau membuat kami menjadi cela bagi tetangga-tetangga kami, menjadi olok-olok dan cemooh bagi orang-orang sekeliling kami."
   },
   {Bible:"Psalms", Chapter:44, Verse:14, Page:1,
-    Kor:"주님께서 우리를 여러 나라의 이야기거리가 되게 하시고, 여러 민족의 조소거리가 되게 하십니다.",
+    Kor:"주께서 우리를 뭇 민족의 이야기거리가 되게 하시고, 여러 부족의 조소거리가 되게 하십니다.",
     Chn:"你使我们在列邦中作了笑谈， 使众民向我们摇头。",
     Eng:"You have made us a byword among the nations; the peoples shake their heads at us.",
     Ind:"(44-15) Engkau membuat kami menjadi sindiran di antara bangsa-bangsa, menyebabkan suku-suku bangsa menggeleng-geleng kepala."
@@ -93,37 +93,37 @@ BibleDB.add([
     Ind:"(44-16) Sepanjang hari aku dihadapkan dengan nodaku, dan malu menyelimuti mukaku,"
   },
   {Bible:"Psalms", Chapter:44, Verse:16, Page:1,
-    Kor:"이것은 나를 조롱하는 자와 모독하는 자의 독한 욕설과 나의 원수와 복수자의 무서운 눈길 때문입니다.",
+    Kor:"이 모든 것은 조롱하는 무리와 욕하는 자의 소리 때문입니다. 원수와 보복하는 자 때문입니다.",
     Chn:"都因那辱骂毁谤人的声音， 又因仇敌和报仇人的缘故。",
     Eng:"at the taunts of those who reproach and revile me, because of the enemy, who is bent on revenge.",
     Ind:"(44-17) karena kata-kata orang yang mencela dan menista, di hadapan musuh dan pendendam."
   },
   {Bible:"Psalms", Chapter:44, Verse:17, Page:1,
-    Kor:"우리는 주님을 잊지 않았고, 주님의 언약을 깨뜨리지 않았습니다. 그러나 이 모든 일이 우리에게 닥쳤습니다.",
+    Kor:"이 모든 일이 우리에게 닥쳤으나, 우리는 주님을 잊지 않고, 주의 언약을 깨뜨리지 않았습니다.",
     Chn:"这都临到我们身上， 我们却没有忘记你， 也没有违背你的约。",
     Eng:"All this happened to us, though we had not forgotten you or been false to your covenant.",
     Ind:"(44-18) Semuanya ini telah menimpa kami, tetapi kami tidak melupakan Engkau, dan tidak mengkhianati perjanjian-Mu."
   },
   {Bible:"Psalms", Chapter:44, Verse:18, Page:1,
-    Kor:"우리가 마음으로 주님을 배반한 적이 없고, 우리의 발이 주님의 길에서 벗어난 적도 없습니다.",
+    Kor:"우리의 마음이 다른 곳으로 등을 돌린 적도 없고, 우리의 발이 주의 길에서 벗어난 적도 없습니다.",
     Chn:"我们的心没有退后； 我们的脚也没有偏离你的路。",
     Eng:"Our hearts had not turned back; our feet had not strayed from your path.",
     Ind:"(44-19) Hati kami tidak membangkang dan langkah kami tidak menyimpang dari jalan-Mu,"
   },
   {Bible:"Psalms", Chapter:44, Verse:19, Page:1,
-    Kor:"그러나 주님께서는 우리를 승냥이의 소굴에다 밀어 넣으시고, 깊고 깊은 어둠으로 덮으셨습니다.",
+    Kor:"그러나 주께서는 우리를 승냥이의 소굴에다 밀어 넣으시고, 죽음 같은 어둠으로 덮으셨습니다.",
     Chn:"你在野狗之处压伤我们， 用死荫遮蔽我们。",
     Eng:"But you crushed us and made us a haunt for jackals and covered us over with deep darkness.",
     Ind:"(44-20) walaupun Engkau telah meremukkan kami di tempat serigala, dan menyelimuti kami dengan kekelaman."
   },
   {Bible:"Psalms", Chapter:44, Verse:20, Page:1,
-    Kor:"우리가 우리 하나님의 이름을 잊었거나, 우리의 두 손을 다른 신을 향하여 펴 들고서 기도를 드렸다면,",
+    Kor:"우리가 우리 하나님의 이름을 잊었거나, 우리의 두 손을 다른 신 앞에 펴 들고서 기도를 드렸다면,",
     Chn:"倘若我们忘了　神的名， 或向别神举手，",
     Eng:"If we had forgotten the name of our God or spread out our hands to a foreign god,",
     Ind:"(44-21) Seandainya kami melupakan nama Allah kami, dan menadahkan tangan kami kepada allah lain,"
   },
   {Bible:"Psalms", Chapter:44, Verse:21, Page:1,
-    Kor:"마음의 비밀을 다 아시는 하나님께서 어찌 이런 일을 찾아내지 못하셨겠습니까?",
+    Kor:"마음의 비밀을 다 아시는 하나님께서 어찌 이런 일을 알아내지 못하셨겠습니까?",
     Chn:"神岂不鉴察这事吗？ 因为他晓得人心里的隐秘。",
     Eng:"would not God have discovered it, since he knows the secrets of the heart?",
     Ind:"(44-22) masakan Allah tidak akan menyelidikinya? Karena Ia mengetahui rahasia hati!"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"(44-23) Oleh karena Engkau kami ada dalam bahaya maut sepanjang hari, kami dianggap sebagai domba-domba sembelihan."
   },
   {Bible:"Psalms", Chapter:44, Verse:23, Page:1,
-    Kor:"주님, 깨어나십시오. 어찌하여 주무시고 계십니까? 깨어나셔서, 영원히 나를 버리지 말아 주십시오.",
+    Kor:"나의 주님, 깨어나십시오. 어찌하여 주무시고 계십니까? 깨어나셔서, 영원히 나를 버리지 말아 주십시오.",
     Chn:"主啊，求你睡醒，为何尽睡呢？ 求你兴起，不要永远丢弃我们！",
     Eng:"Awake, O Lord! Why do you sleep? Rouse yourself! Do not reject us forever.",
     Ind:"(44-24) Terjagalah! Mengapa Engkau tidur, ya Tuhan? Bangunlah! Janganlah membuang kami terus-menerus!"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"(44-25) Mengapa Engkau menyembunyikan wajah-Mu dan melupakan penindasan dan impitan terhadap kami?"
   },
   {Bible:"Psalms", Chapter:44, Verse:25, Page:1,
-    Kor:"아, 우리는 흙 속에 파묻혀 있고, 우리의 몸은 내동댕이쳐졌습니다.",
+    Kor:"아, 우리는 먼지 속에 파묻혀 있고, 우리의 몸은 땅바닥에 붙어 있습니다.",
     Chn:"我们的性命伏于尘土； 我们的肚腹紧贴地面。",
     Eng:"We are brought down to the dust; our bodies cling to the ground.",
     Ind:"(44-26) Sebab jiwa kami tertanam dalam debu, tubuh kami terhampar di tanah."
   },
   {Bible:"Psalms", Chapter:44, Verse:26, Page:1,
-    Kor:"일어나십시오. 우리를 어서 도와주십시오. 주님의 한결같은 사랑으로, 우리를 구하여 주십시오.",
+    Kor:"일어나십시오. 우리를 어서 도와주십시오. 주님의 신실하심으로, 우리를 구하여 주십시오.",
     Chn:"求你起来帮助我们！ 凭你的慈爱救赎我们！",
     Eng:"Rise up and help us; redeem us because of your unfailing love.",
     Ind:"(44-27) Bersiaplah menolong kami, bebaskanlah kami karena kasih setia-Mu!"

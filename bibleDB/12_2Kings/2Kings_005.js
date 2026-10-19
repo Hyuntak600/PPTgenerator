@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",5,27);
 BibleDB.add([
   {Bible:"2Kings", Chapter:5, Verse:1, Page:1,
-    Kor:"<나아만이 고침을 받다> 시리아 왕의 군사령관 나아만 장군은, 왕이 아끼는 큰 인물이고, 존경받는 사람이었다. 주님께서 그를 시켜 시리아에 구원을 베풀어 주신 일이 있었다. 나아만은 강한 용사였는데, 그만 a나병에 걸리고 말았다.(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"시리아 왕의 군사령관 나아만 장군은, 왕이 아끼는 큰 인물이고, 존경받는 사람이었다. 주께서 그를 시켜 시리아에 구원을 베풀어 주신 일이 있었다. 나아만은 강한 용사였는데, 그만 나병에 걸리고 말았다.",
     Chn:"亚兰王的元帅乃缦在他主人面前为尊为大，因耶和华曾借他使亚兰人得胜；他又是大能的勇士，只是长了大麻风。",
     Eng:"Now Naaman was commander of the army of the king of Aram. He was a great man in the sight of his master and highly regarded, because through him the LORD had given victory to Aram. He was a valiant soldier, but he had leprosy.",
     Ind:"Naaman, panglima raja Aram, adalah seorang terpandang di hadapan tuannya dan sangat disayangi, sebab oleh dia TUHAN telah memberikan kemenangan kepada orang Aram. Tetapi orang itu, seorang pahlawan tentara, sakit kusta."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Orang Aram pernah keluar bergerombolan dan membawa tertawan seorang anak perempuan dari negeri Israel. Ia menjadi pelayan pada isteri Naaman."
   },
   {Bible:"2Kings", Chapter:5, Verse:3, Page:1,
-    Kor:"그 소녀가 여주인에게 말하였다. \"주인 어른께서 사마리아에 있는 한 예언자를 만나 보시면 좋겠습니다. 그분이라면 어른의 a나병을 고치실 수가 있을 것입니다.\"(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"그 소녀가 여주인에게 말하였다. \"주인 어른께서 사마리아에 있는 한 예언자를 만나 보시면 좋겠습니다. 그분이라면 어른의 나병을 고치실 수가 있을 것입니다.\"",
     Chn:"她对主母说：「巴不得我主人去见撒马利亚的先知，必能治好他的大麻风。」",
     Eng:"She said to her mistress, \"If only my master would see the prophet who is in Samaria! He would cure him of his leprosy.\"",
     Ind:"Berkatalah gadis itu kepada nyonyanya: \"Sekiranya tuanku menghadap nabi yang di Samaria itu, maka tentulah nabi itu akan menyembuhkan dia dari penyakitnya.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Maka jawab raja Aram: \"Baik, pergilah dan aku akan mengirim surat kepada raja Israel.\" Lalu pergilah Naaman dan membawa sebagai persembahan sepuluh talenta perak dan enam ribu syikal emas dan sepuluh potong pakaian."
   },
   {Bible:"2Kings", Chapter:5, Verse:6, Page:1,
-    Kor:"왕의 편지를 이스라엘 왕에게 전하였다. 그 편지에는 이렇게 씌어 있었다. \"내가 이 편지와 함께 나의 신하 나아만을 귀하에게 보냅니다. 부디 그의 a나병을 고쳐 주시기 바랍니다.\"(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"왕의 편지를 이스라엘 왕에게 전하였다. 그 편지에는 이렇게 씌어 있었다. \"내가 이 편지와 함께 나의 신하 나아만을 귀하에게 보냅니다. 부디 그의 나병을 고쳐 주시기 바랍니다.\"",
     Chn:"且带信给以色列王，信上说：「我打发臣仆乃缦去见你，你接到这信，就要治好他的大麻风。」",
     Eng:"The letter that he took to the king of Israel read: \"With this letter I am sending my servant Naaman to you so that you may cure him of his leprosy.\"",
     Ind:"Ia menyampaikan surat itu kepada raja Israel, yang berbunyi: \"Sesampainya surat ini kepadamu, maklumlah kiranya, bahwa aku menyuruh kepadamu Naaman, pegawaiku, supaya engkau menyembuhkan dia dari penyakit kustanya.\""
   },
   {Bible:"2Kings", Chapter:5, Verse:7, Page:1,
-    Kor:"이스라엘 왕은 그 편지를 읽고 낙담하여, 자기의 옷을 찢으며, 주위를 둘러보고 말하였다. \"내가 사람을 죽이고 살리는 신이라도 된다는 말인가? 이렇게 사람을 보내어 a나병을 고쳐 달라고 하니 될 말인가? 이것은 분명, 공연히 트집을 잡아 싸울 기회를 찾으려는 것이니, 자세히들 알아보도록 하시오.\"(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 12 5:말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"이스라엘 왕은 그 편지를 읽고 낙담하여, 자기의 옷을 찢으며, 주위를 둘러보고 말하였다. \"내가 사람을 죽이고 살리는 신이라도 된다는 말인가? 이렇게 사람을 보내어 나병을 고쳐 달라고 하니 될 말인가? 이것은 분명, 공연히 트집을 잡아 싸울 기회를 찾으려는 것이니, 자세히들 알아보도록 하시오.\"",
     Chn:"以色列王看了信就撕裂衣服，说：「我岂是　神，能使人死使人活呢？这人竟打发人来，叫我治好他的大麻风。你们看一看，这人何以寻隙攻击我呢？」",
     Eng:"As soon as the king of Israel read the letter, he tore his robes and said, \"Am I God? Can I kill and bring back to life? Why does this fellow send someone to me to be cured of his leprosy? See how he is trying to pick a quarrel with me!\"",
     Ind:"Segera sesudah raja Israel membaca surat itu, dikoyakkannyalah pakaiannya serta berkata: \"Allahkah aku ini yang dapat mematikan dan menghidupkan, sehingga orang ini mengirim pesan kepadaku, supaya kusembuhkan seorang dari penyakit kustanya? Tetapi sesungguhnya, perhatikanlah dan lihatlah, ia mencari gara-gara terhadap aku.\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Elisa menyuruh seorang suruhan kepadanya mengatakan: \"Pergilah mandi tujuh kali dalam sungai Yordan, maka tubuhmu akan pulih kembali, sehingga engkau menjadi tahir.\""
   },
   {Bible:"2Kings", Chapter:5, Verse:11, Page:1,
-    Kor:"○나아만은 이 말을 듣고 화가 나서 발길을 돌렸다. \"적어도, 엘리사가 직접 나와서 정중히 나를 맞이하고, 주 그의 하나님의 이름을 부르며 상처 위에 직접 안수하여, a나병을 고쳐 주어야 도리가 아닌가?(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"○나아만은 이 말을 듣고 화가 나서 발길을 돌렸다. \"적어도, 엘리사가 직접 나와서 정중히 나를 맞이하고, 주 그의 하나님의 이름을 부르며 상처 위에 직접 안수하여, 나병을 고쳐 주어야 도리가 아닌가?",
     Chn:"乃缦却发怒走了，说：「我想他必定出来见我，站着求告耶和华—他　神的名，在患处以上摇手，治好这大麻风。",
     Eng:"But Naaman went away angry and said, \"I thought that he would surely come out to me and stand and call on the name of the LORD his God, wave his hand over the spot and cure me of my leprosy.",
     Ind:"Tetapi pergilah Naaman dengan gusar sambil berkata: \"Aku sangka bahwa setidak-tidaknya ia datang ke luar dan berdiri memanggil nama TUHAN, Allahnya, lalu menggerak-gerakkan tangannya di atas tempat penyakit itu dan dengan demikian menyembuhkan penyakit kustaku!"
@@ -87,43 +87,43 @@ BibleDB.add([
     Ind:"Maka turunlah ia membenamkan dirinya tujuh kali dalam sungai Yordan, sesuai dengan perkataan abdi Allah itu. Lalu pulihlah tubuhnya kembali seperti tubuh seorang anak dan ia menjadi tahir."
   },
   {Bible:"2Kings", Chapter:5, Verse:15, Page:1,
-    Kor:"○나아만과 그의 모든 수행원이 하나님의 사람에게로 되돌아와, 엘리사 앞에 서서 말하였다. \"이제야 나는 온 세계에서 이스라엘 밖에는 하나님이 계시지 않다는 것을 알게 되었습니다. 부디, 예언자님의 종인 제가 드리는 이 선물을 받아 주십시오.\"",
+    Kor:"○나아만과 그의 모든 수행원이 하나님의 사람에게로 되돌아와, 엘리사 앞에 서서 말하였다. \"이제야 나는 온 세계에서 이스라엘 밖에는 하나님이 계시지 않다는 것을 알게 되었습니다. 부디, 어른의 종인 제가 드리는 이 선물을 받아 주십시오.\"",
     Chn:"乃缦带着一切跟随他的人，回到神人那里，站在他面前，说：「如今我知道，除了以色列之外，普天下没有　神。现在求你收点仆人的礼物。」",
     Eng:"Then Naaman and all his attendants went back to the man of God. He stood before him and said, \"Now I know that there is no God in all the world except in Israel. Please accept now a gift from your servant.\"",
     Ind:"Kemudian kembalilah ia dengan seluruh pasukannya kepada abdi Allah itu. Setelah sampai, tampillah ia ke depan Elisa dan berkata: \"Sekarang aku tahu, bahwa di seluruh bumi tidak ada Allah kecuali di Israel. Karena itu terimalah kiranya suatu pemberian dari hambamu ini!\""
   },
   {Bible:"2Kings", Chapter:5, Verse:16, Page:1,
-    Kor:"그러나 엘리사는 \"내가 섬기는 주님께서 살아 계심을 두고 맹세하지만, 나는 그것을 받을 수가 없소\" 하고 사양하였다. 나아만이 받아 달라고 다시 권하였지만, 엘리사는 끝내 거절하였다.",
+    Kor:"그러나 엘리사는 \"내가 섬기는 주께서 살아 계심을 두고 맹세하지만, 나는 그것을 받을 수가 없소\" 하고 사양하였다. 나아만이 받아 달라고 다시 권하였지만, 엘리사는 끝내 거절하였다.",
     Chn:"以利沙说：「我指着所事奉永生的耶和华起誓，我必不受。」乃缦再三地求他，他却不受。",
     Eng:"The prophet answered, \"As surely as the LORD lives, whom I serve, I will not accept a thing.\" And even though Naaman urged him, he refused.",
     Ind:"Tetapi Elisa menjawab: \"Demi TUHAN yang hidup, yang di hadapan-Nya aku menjadi pelayan, sesungguhnya aku tidak akan menerima apa-apa.\" Dan walaupun Naaman mendesaknya supaya menerima sesuatu, ia tetap menolak."
   },
   {Bible:"2Kings", Chapter:5, Verse:17, Page:1,
-    Kor:"나아만이 말하였다. \"정 그러시다면, 나귀 두어 마리에 실을 만큼의 흙을 예언자님의 종인 저에게 주시기 바랍니다. 예언자님의 종인 저는, 이제부터 주님 이외에 다른 신들에게는 번제나 희생제를 드리지 않겠습니다.",
+    Kor:"나아만이 말하였다. \"정 그러시다면, 나귀 두어 마리에 실을 만큼의 흙을 어른의 종인 저에게 주시기 바랍니다. 어른의 종인 저는, 이제부터 주님 이외에 다른 신들에게는 번제나 희생제를 드리지 않겠습니다.",
     Chn:"乃缦说：「你若不肯受，请将两骡子驮的土赐给仆人。从今以后，仆人必不再将燔祭或平安祭献与别神，只献给耶和华。",
     Eng:"\"If you will not,\" said Naaman, \"please let me, your servant, be given as much earth as a pair of mules can carry, for your servant will never again make burnt offerings and sacrifices to any other god but the LORD.",
     Ind:"Akhirnya berkatalah Naaman: \"Jikalau demikian, biarlah diberikan kepada hambamu ini tanah sebanyak muatan sepasang bagal, sebab hambamu ini tidak lagi akan mempersembahkan korban bakaran atau korban sembelihan kepada allah lain kecuali kepada TUHAN."
   },
   {Bible:"2Kings", Chapter:5, Verse:18, Page:1,
-    Kor:"그러나 한 가지만은 예언자님의 종인 저를 주님께서 용서하여 주시기를 바랍니다. 제가 모시는 왕께서 림몬의 성전에 예배드리려고 그 곳으로 들어갈 때에, 그는 언제나 저의 부축을 받아야 하므로, 저도 허리를 굽히고 림몬의 성전에 들어가야 합니다. 그러므로 제가 림몬의 성전에서 허리를 굽힐 때에, 주님께서 이 일 때문에 예언자님의 종인 저를 벌하지 마시고, 용서해 12 5:주시기를 바랍니다.\"",
+    Kor:"그러나 한 가지만은 어른의 종인 저를 주께서 용서하여 주시기를 바랍니다. 내가 모시는 왕께서 림몬의 성전에 예배드리려고 그 곳으로 들어갈 때에, 그는 언제나 나의 부축을 받아야 하므로, 나도 허리를 굽히고 림몬의 성전에 들어가야 합니다. 그러므로 내가 림몬의 성전에서 허리를 굽힐 때에, 주께서 이 일 때문에 어른의 종인 저를 벌하지 마시고, 용서해 주시기를 바랍니다.\"",
     Chn:"惟有一件事，愿耶和华饶恕你仆人：我主人进临门庙叩拜的时候，我用手搀他在临门庙，我也屈身。我在临门庙屈身的这事，愿耶和华饶恕我。」",
     Eng:"But may the LORD forgive your servant for this one thing: When my master enters the temple of Rimmon to bow down and he is leaning on my arm and I bow there also--when I bow down in the temple of Rimmon, may the LORD forgive your servant for this.\"",
     Ind:"Dan kiranya TUHAN mengampuni hambamu ini dalam perkara yang berikut: Apabila tuanku masuk ke kuil Rimon untuk sujud menyembah di sana, dan aku menjadi pengapitnya, sehingga aku harus ikut sujud menyembah dalam kuil Rimon itu, kiranya TUHAN mengampuni hambamu ini dalam hal itu.\""
   },
   {Bible:"2Kings", Chapter:5, Verse:19, Page:1,
-    Kor:"그러자 엘리사가 나아만에게 말하였다. \"좋소, 안심하고 돌아가시오.\" ○이렇게 하여 나아만은 엘리사를 떠나 얼마쯤 길을 갔다.",
+    Kor:"그러자 엘리사가 나아만에게 말하였다. \"좋소, 안심하고 가시오.\" ○이렇게 하여 나아만은 엘리사를 떠나 얼마쯤 길을 갔다.",
     Chn:"以利沙对他说：「你可以平平安安地回去！」 乃缦就离开他去了；走了不远，",
     Eng:"\"Go in peace,\" Elisha said. After Naaman had traveled some distance,",
     Ind:"Maka berkatalah Elisa kepadanya: \"Pergilah dengan selamat!\" Setelah Naaman berjalan tidak berapa jauh dari padanya,"
   },
   {Bible:"2Kings", Chapter:5, Verse:20, Page:1,
-    Kor:"그 때에 하나님의 사람 엘리사의 시종인 게하시가 이런 생각을 하였다. '나의 주인께서는 이 시리아 사람 나아만이 가져와 손수 바친 것을 받지 않으셨구나. 주님께서 살아 계심을 두고 맹세하지만, 내가 그를 뒤쫓아가서 무엇이든 좀 얻어 와야 하겠다.'",
+    Kor:"그 때에 하나님의 사람 엘리사의 시종인 게하시가 이런 생각을 하였다. '나의 주인께서는 이 시리아 사람 나아만이 가져와 손수 바친 것을 받지 않으셨구나. 주께서 살아 계심을 두고 맹세하지만, 내가 그를 뒤쫓아가서 무엇이든 좀 얻어 와야 하겠다.'",
     Chn:"神人以利沙的仆人基哈西心里说：「我主人不愿从这亚兰人乃缦手里受他带来的礼物，我指着永生的耶和华起誓，我必跑去追上他，向他要些。」",
     Eng:"Gehazi, the servant of Elisha the man of God, said to himself, \"My master was too easy on Naaman, this Aramean, by not accepting from him what he brought. As surely as the LORD lives, I will run after him and get something from him.\"",
     Ind:"berpikirlah Gehazi, bujang Elisa, abdi Allah: \"Sesungguhnya tuanku terlalu menyegani Naaman, orang Aram ini, dengan tidak menerima persembahan yang dibawanya. Demi TUHAN yang hidup, sesungguhnya aku akan berlari mengejar dia dan akan menerima sesuatu dari padanya.\""
   },
   {Bible:"2Kings", Chapter:5, Verse:21, Page:1,
-    Kor:"그래서 게하시는 곧 나아만을 뒤쫓아 달려갔다. 나아만은 자기를 뒤쫓아 달려오는 사람을 보고, 그를 맞이하려고 수레에서 내려 \"별일 없지요?\" 하고 물었다.",
+    Kor:"그래서 게하시는, 곧 나아만을 뒤쫓아 달려갔다. 나아만은 자기를 뒤쫓아 달려오는 사람을 보고, 그를 맞이하려고 수레에서 내려 \"별일 없지요?\" 하고 물었다.",
     Chn:"于是基哈西追赶乃缦。乃缦看见有人追赶，就急忙下车迎着他，说：「都平安吗？」",
     Eng:"So Gehazi hurried after Naaman. When Naaman saw him running toward him, he got down from the chariot to meet him. \"Is everything all right?\" he asked.",
     Ind:"Lalu Gehazi mengejar Naaman dari belakang. Ketika Naaman melihat ada orang berlari-lari mengejarnya, turunlah ia dengan segera dari atas kereta untuk mendapatkan dia dan berkata: \"Selamat!\""
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Setelah mereka sampai ke bukit, disambutnyalah dari tangan mereka, disimpannya di rumah, dan disuruhnya kedua orang itu pergi, maka pergilah mereka."
   },
   {Bible:"2Kings", Chapter:5, Verse:25, Page:1,
-    Kor:"○그리고 그가 들어가서 주인 앞에 서자, 엘리사가 그에게 물었다. \"게하시야, 어디를 갔다 오는 길이냐?\" 그러자 그는 \"예언자님의 종인 저는 아무데도 가지 않았습니다\" 하고 말하였다.",
+    Kor:"○그리고 그가 들어가서 주인 앞에 서자, 엘리사가 그에게 물었다. \"게하시야, 어디를 갔다 오는 길이냐?\" 그러자 그는 \"어른의 종인 저는 아무데도 가지 않았습니다\" 하고 말하였다.",
     Chn:"基哈西进去，站在他主人面前。以利沙问他说：「基哈西你从哪里来？」回答说：「仆人没有往哪里去。」",
     Eng:"Then he went in and stood before his master Elisha. \"Where have you been, Gehazi?\" Elisha asked. \"Your servant didn't go anywhere,\" Gehazi answered.",
     Ind:"Baru saja Gehazi masuk dan tampil ke depan tuannya, berkatalah Elisa kepadanya: \"Dari mana, Gehazi?\" Jawabnya: \"Hambamu ini tidak pergi ke mana-mana!\""
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tetapi kata Elisa kepadanya: \"Bukankah hatiku ikut pergi, ketika orang itu turun dari atas keretanya mendapatkan engkau? Maka sekarang, engkau telah menerima perak dan dengan itu dapat memperoleh kebun-kebun, kebun zaitun, kebun anggur, kambing domba, lembu sapi, budak laki-laki dan budak perempuan,"
   },
   {Bible:"2Kings", Chapter:5, Verse:27, Page:1,
-    Kor:"그러므로 나아만의 a나병이 네게로 옮아갈 것이고, 네 자손도 영원히 그 병을 앓을 것이다.\" 게하시가 엘리사에게서 물러나오니, a나병에 걸려, 피부가 눈처럼 하얗게 되었다.(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"그러므로 나아만의 나병이 네게로 옮아갈 것이고, 네 자손도 영원히 그 병을 앓을 것이다.\" 게하시가 엘리사에게서 물러나오니, 나병에 걸려, 피부가 눈처럼 하얗게 되었다.",
     Chn:"因此，乃缦的大麻风必沾染你和你的后裔，直到永远。」基哈西从以利沙面前退出去，就长了大麻风，像雪那样白。",
     Eng:"Naaman's leprosy will cling to you and to your descendants forever.\" Then Gehazi went from Elisha's presence and he was leprous, as white as snow.",
     Ind:"tetapi penyakit kusta Naaman akan melekat kepadamu dan kepada anak cucumu untuk selama-lamanya.\" Maka keluarlah Gehazi dari depannya dengan kena kusta, putih seperti salju."

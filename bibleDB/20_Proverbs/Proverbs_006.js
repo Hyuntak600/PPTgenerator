@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",6,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:6, Verse:1, Page:1,
-    Kor:"<어리석은 사람이 되지 말아라> a아이들아, 네가 이웃을 도우려고 담보를 서거나, 남의 딱한 사정을 듣고 보증을 선다면, (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 네가 이웃을 도우려고 담보를 서거나, 남의 딱한 사정을 듣고 보증을 선다면,",
     Chn:"我儿，你若为朋友作保， 替外人击掌，",
     Eng:"My son, if you have put up security for your neighbor, if you have struck hands in pledge for another,",
     Ind:"Hai anakku, jikalau engkau menjadi penanggung sesamamu, dan membuat persetujuan dengan orang lain;"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"jikalau engkau terjerat dalam perkataan mulutmu, tertangkap dalam perkataan mulutmu,"
   },
   {Bible:"Proverbs", Chapter:6, Verse:3, Page:1,
-    Kor:"a아이들아, 네가 너의 이웃의 손에 잡힌 것이니, 어서 그에게 가서 풀어 달라고 겸손히 간청하여라. 너는 이렇게 하여 자신을 구하여라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 네가 너의 이웃의 손에 잡힌 것이니, 어서 그에게 가서 풀어 달라고 겸손히 간청하여라. 너는 이렇게 하여 자신을 구하여라.",
     Chn:"我儿，你既落在朋友手中， 就当这样行才可救自己： 你要自卑，去恳求你的朋友。",
     Eng:"then do this, my son, to free yourself, since you have fallen into your neighbor's hands: Go and humble yourself; press your plea with your neighbor!",
     Ind:"buatlah begini, hai anakku, dan lepaskanlah dirimu, karena engkau telah jatuh ke dalam genggaman sesamamu: pergilah, berlututlah, dan desaklah sesamamu itu;"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"\"Tidur sebentar lagi, mengantuk sebentar lagi, melipat tangan sebentar lagi untuk tinggal berbaring\" --"
   },
   {Bible:"Proverbs", Chapter:6, Verse:11, Page:1,
-    Kor:"네게 가난이 강도처럼 들이닥치고, 빈곤이 b방패로 무장한 용사처럼 달려들 것이다. (b 또는 '거지처럼')",
+    Kor:"네게 가난이 강도처럼 들이닥치고, 빈곤이 방패로 무장한 용사처럼 달려들 것이다.",
     Chn:"你的贫穷就必如强盗速来， 你的缺乏仿佛拿兵器的人来到。",
     Eng:"and poverty will come on you like a bandit and scarcity like an armed man.",
     Ind:"maka datanglah kemiskinan kepadamu seperti seorang penyerbu, dan kekurangan seperti orang yang bersenjata."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Itulah sebabnya ia ditimpa kebinasaan dengan tiba-tiba, sesaat saja ia diremukkan tanpa dapat dipulihkan lagi."
   },
   {Bible:"Proverbs", Chapter:6, Verse:16, Page:1,
-    Kor:"주님께서 미워하시는 것, 주님께서 싫어하시는 것이 예닐곱 가지이다.",
+    Kor:"주께서 미워하시는 것, 주께서 싫어하시는 것이 예닐곱 가지이다.",
     Chn:"耶和华所恨恶的有六样， 连他心所憎恶的共有七样：",
     Eng:"There are six things the LORD hates, seven that are detestable to him:",
     Ind:"Enam perkara ini yang dibenci TUHAN, bahkan, tujuh perkara yang menjadi kekejian bagi hati-Nya:"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"hati yang membuat rencana-rencana yang jahat, kaki yang segera lari menuju kejahatan,"
   },
   {Bible:"Proverbs", Chapter:6, Verse:19, Page:1,
-    Kor:"거짓으로 증거하는 사람과, 친구 사이를 이간하는 사람이다.",
+    Kor:"거짓으로 증거하는 사람과, 형제 사이를 이간하는 사람이다.",
     Chn:"吐谎言的假见证， 并弟兄中布散纷争的人。",
     Eng:"a false witness who pours out lies and a man who stirs up dissension among brothers.",
     Ind:"seorang saksi dusta yang menyembur-nyemburkan kebohongan dan yang menimbulkan pertengkaran saudara."
   },
   {Bible:"Proverbs", Chapter:6, Verse:20, Page:1,
-    Kor:"<부도덕에 대한 경고> a아이들아, 아버지의 명령을 지키고, 어머니의 가르침을 저버리지 말아라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 아버지의 명령을 지키고, 어머니의 가르침을 저버리지 말아라.",
     Chn:"我儿，要谨守你父亲的诫命； 不可离弃你母亲的法则，",
     Eng:"My son, keep your father's commands and do not forsake your mother's teaching.",
     Ind:"Hai anakku, peliharalah perintah ayahmu, dan janganlah menyia-nyiakan ajaran ibumu."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Tambatkanlah senantiasa semuanya itu pada hatimu, kalungkanlah pada lehermu."
   },
   {Bible:"Proverbs", Chapter:6, Verse:22, Page:1,
-    Kor:"네가 길을 갈 때 그것이 너를 인도하여 주며, 네가 잠잘 때에 너를 지켜 주고, 네가 깨면 너의 말벗이 되어 줄 것이다.",
+    Kor:"그것은 네가 길을 다닐 때에 너를 인도하여 주며, 네가 잠잘 때에 너를 지켜 주고, 네가 깨면 너의 말벗이 되어 줄 것이다.",
     Chn:"你行走，它必引导你； 你躺卧，它必保守你； 你睡醒，它必与你谈论。",
     Eng:"When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you.",
     Ind:"Jikalau engkau berjalan, engkau akan dipimpinnya, jikalau engkau berbaring, engkau akan dijaganya, jikalau engkau bangun, engkau akan disapanya."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Karena perintah itu pelita, dan ajaran itu cahaya, dan teguran yang mendidik itu jalan kehidupan,"
   },
   {Bible:"Proverbs", Chapter:6, Verse:24, Page:1,
-    Kor:"이것이 너를 악한 여자에게서 지켜 주고, 음행하는 여자의 호리는 말에 네가 빠지지 않게 지켜 준다.",
+    Kor:"이것이 너를 악한 여자에게서 지켜 주고, 음행하는 여자가 호리는 말에 빠지지 않게 지켜 준다.",
     Chn:"能保你远离恶妇， 远离外女谄媚的舌头。",
     Eng:"keeping you from the immoral woman, from the smooth tongue of the wayward wife.",
     Ind:"yang melindungi engkau terhadap perempuan jahat, terhadap kelicikan lidah perempuan asing."
   },
   {Bible:"Proverbs", Chapter:6, Verse:25, Page:1,
-    Kor:"네 마음에 그런 여자의 아름다움을 탐내지 말고, 그 눈짓에 홀리지 말아라.",
+    Kor:"네 마음에 그런 여자의 아름다움을 탐내지 말고, 그 눈짓에 홀리지도 말아라.",
     Chn:"你心中不要恋慕她的美色， 也不要被她眼皮勾引。",
     Eng:"Do not lust in your heart after her beauty or let her captivate you with her eyes,",
     Ind:"Janganlah menginginkan kecantikannya dalam hatimu, janganlah terpikat oleh bulu matanya."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Karena bagi seorang sundal sepotong rotilah yang penting, tetapi isteri orang lain memburu nyawa yang berharga."
   },
   {Bible:"Proverbs", Chapter:6, Verse:27, Page:1,
-    Kor:"불을 가슴에 안고 다니는데 옷이 타지 않을 수 있겠느냐?",
+    Kor:"불을 가슴에 안고 다니면서도 옷을 태우지 않을 수 있겠느냐?",
     Chn:"人若怀里搋火， 衣服岂能不烧呢？",
     Eng:"Can a man scoop fire into his lap without his clothes being burned?",
     Ind:"Dapatkah orang membawa api dalam gelumbung baju dengan tidak terbakar pakaiannya?"
   },
   {Bible:"Proverbs", Chapter:6, Verse:28, Page:1,
-    Kor:"숯불 위를 걸어 다니는데 발이 성할 수 있겠느냐?",
+    Kor:"숯불 위를 걸어 다니면서도 발을 데지 않을 수 있겠느냐?",
     Chn:"人若在火炭上走， 脚岂能不烫呢？",
     Eng:"Can a man walk on hot coals without his feet being scorched?",
     Ind:"Atau dapatkah orang berjalan di atas bara, dengan tidak hangus kakinya?"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Demikian juga orang yang menghampiri isteri sesamanya; tiada seorangpun, yang menjamahnya, luput dari hukuman."
   },
   {Bible:"Proverbs", Chapter:6, Verse:30, Page:1,
-    Kor:"도둑이 다만 허기진 배를 채우려고 훔쳤다면, 사람들은 그 도둑을 멸시하지 않을 것이다.",
+    Kor:"도둑이 다만 허기진 배를 채우려고 훔쳤다면, 사람들이 그 도둑을 멸시하지는 않을 것이다.",
     Chn:"贼因饥饿偷窃充饥， 人不藐视他，",
     Eng:"Men do not despise a thief if he steals to satisfy his hunger when he is starving.",
     Ind:"Apakah seorang pencuri tidak akan dihina, apabila ia mencuri untuk memuaskan nafsunya karena lapar?"

@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",25,18);
 BibleDB.add([
   {Bible:"Numbers", Chapter:25, Verse:1, Page:1,
-    Kor:"<브올에서 생긴 일> 이스라엘이 싯딤에 머무는 동안에, 백성들이 모압 사람의 딸들과 음행을 하기 시작하였다.",
+    Kor:"이스라엘이 싯딤에 머무는 동안에, 백성들이 모압 사람의 딸들과 음행을 하기 시작하였다.",
     Chn:"以色列人住在什亭，百姓与摩押女子行起淫乱。",
     Eng:"While Israel was staying in Shittim, the men began to indulge in sexual immorality with Moabite women,",
     Ind:"Sementara Israel tinggal di Sitim, mulailah bangsa itu berzinah dengan perempuan-perempuan Moab."
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"Perempuan-perempuan ini mengajak bangsa itu ke korban sembelihan bagi allah mereka, lalu bangsa itu turut makan dari korban itu dan menyembah allah orang-orang itu."
   },
   {Bible:"Numbers", Chapter:25, Verse:3, Page:1,
-    Kor:"그래서 이스라엘은 바알브올과 결합하였다. 주님께서는 이스라엘에게 크게 진노하셨다.",
+    Kor:"그래서 이스라엘은 바알브올과 결합하였다. 주께서는 이스라엘에게 크게 진노하셨다.",
     Chn:"以色列人与巴力·毗珥连合，耶和华的怒气就向以色列人发作。",
     Eng:"So Israel joined in worshiping the Baal of Peor. And the LORD'S anger burned against them.",
     Ind:"Ketika Israel berpasangan dengan Baal-Peor, bangkitlah murka TUHAN terhadap Israel;"
   },
   {Bible:"Numbers", Chapter:25, Verse:4, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너는 백성의 우두머리들을 모두 잡아다가, a해가 환히 비치는 대낮에, 주 앞에서 그것들의 목을 매달아라. 그래야만 나 주의 진노가 이스라엘에서 떠날 것이다.\"(a 또는 '여러 사람 앞에')",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 백성의 우두머리들을 모두 잡아다가, 해가 환히 비치는 대낮에, 주 앞에서 그것들의 목을 매달아라. 그래야만 나 주의 진노가 이스라엘에서 떠날 것이다.\"",
     Chn:"耶和华吩咐摩西说：「将百姓中所有的族长在我面前对着日头悬挂，使我向以色列人所发的怒气可以消了。」",
     Eng:"The LORD said to Moses, \"Take all the leaders of these people, kill them and expose them in broad daylight before the LORD, so that the LORD'S fierce anger may turn away from Israel.\"",
     Ind:"lalu berfirmanlah TUHAN kepada Musa: \"Tangkaplah semua orang yang mengepalai bangsa itu dan gantunglah mereka di hadapan TUHAN di tempat terang, supaya murka TUHAN yang bernyala-nyala itu surut dari pada Israel.\""
   },
   {Bible:"Numbers", Chapter:25, Verse:5, Page:1,
-    Kor:"모세는 이스라엘 재판관들에게 말하였다. \"당신들은 제각기 당신들의 남자들 가운데서 바알브올과 결합한 자들을 죽이시오!\"",
+    Kor:"모세는 이스라엘 재판관들에게 말하였다. \"너희는 제각기 너희 남자들 가운데서 바알브올과 결합한 자들을 죽여라.\"",
     Chn:"于是摩西吩咐以色列的审判官说：「凡属你们的人，有与巴力·毗珥连合的，你们各人要把他们杀了。」",
     Eng:"So Moses said to Israel's judges, \"Each of you must put to death those of your men who have joined in worshiping the Baal of Peor.\"",
     Ind:"Lalu berkatalah Musa kepada hakim-hakim Israel: \"Baiklah masing-masing kamu membunuh orang-orangnya yang telah berpasangan dengan Baal-Peor.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Orang yang mati karena tulah itu ada dua puluh empat ribu orang banyaknya."
   },
   {Bible:"Numbers", Chapter:25, Verse:10, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"dan nama perempuan Midian yang mati terbunuh itu ialah Kozbi binti Zur; Zur itu adalah seorang kepala kaum--yaitu puak--di Midian."
   },
   {Bible:"Numbers", Chapter:25, Verse:16, Page:1,
-    Kor:"○주님께서 모세에게 다음과 같이 말씀하셨다.",
+    Kor:"○주께서 모세에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"Kemudian berfirmanlah TUHAN kepada Musa:"

@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",9,29);
 BibleDB.add([
   {Bible:"Genesis", Chapter:9, Verse:1, Page:1,
-    Kor:"<하나님이 노아와 언약을 맺으시다> 하나님이 노아와 그의 아들들에게 복을 주시며 말씀하셨다. \"생육하고 번성하여 땅에 충만하여라.",
+    Kor:"하나님이 노아와 그의 아들들에게 복을 주시며 말씀하셨다. \"생육하고 번성하여 땅에 충만하여라.",
     Chn:"神赐福给挪亚和他的儿子，对他们说：「你们要生养众多，遍满了地。",
     Eng:"Then God blessed Noah and his sons, saying to them, \"Be fruitful and increase in number and  fill the earth.",
     Ind:"Lalu Allah memberkati Nuh dan anak-anaknya serta berfirman kepada mereka: \"Beranakcuculah dan bertambah banyaklah serta penuhilah bumi."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Akan takut dan akan gentar kepadamu segala binatang di bumi dan segala burung di udara, segala yang bergerak di muka bumi dan segala ikan di laut; ke dalam tanganmulah semuanya itu diserahkan."
   },
   {Bible:"Genesis", Chapter:9, Verse:3, Page:1,
-    Kor:"살아 움직이는 모든 것이 너희의 먹거리가 될 것이다. 내가 전에 푸른 채소를 너희에게 먹거리로 준 것 같이, 내가 이것들도 다 너희에게 준다.",
+    Kor:"살아 움직이는 모든 것이 너희의 먹을거리가 될 것이다. 내가 전에 푸른 채소를 너희에게 먹을거리로 준 것 같이, 내가 이것들도 다 너희에게 준다.",
     Chn:"凡活着的动物都可以作你们的食物。这一切我都赐给你们，如同菜蔬一样。",
     Eng:"Everything that lives and moves will be food for you. Just as I gave you the green plants, I  now give you everything.",
     Ind:"Segala yang bergerak, yang hidup, akan menjadi makananmu. Aku telah memberikan semuanya itu kepadamu seperti juga tumbuh-tumbuhan hijau."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Berfirmanlah Allah kepada Nuh dan kepada anak-anaknya yang bersama-sama dengan dia:"
   },
   {Bible:"Genesis", Chapter:9, Verse:9, Page:1,
-    Kor:"\"이제 내가 너희와 너희 뒤에 오는 자손에게 직접 언약을 세운다.",
+    Kor:"\"이제 내가, 너희와 너희 뒤에 오는 자손에게 직접 언약을 세운다.",
     Chn:"「我与你们和你们的后裔立约，",
     Eng:"\"I now establish my covenant with you and with your descendants after you",
     Ind:"\"Sesungguhnya Aku mengadakan perjanjian-Ku dengan kamu dan dengan keturunanmu,"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"dan dengan segala makhluk hidup yang bersama-sama dengan kamu: burung-burung, ternak dan binatang-binatang liar di bumi yang bersama-sama dengan kamu, segala yang keluar dari bahtera itu, segala binatang di bumi."
   },
   {Bible:"Genesis", Chapter:9, Verse:11, Page:1,
-    Kor:"내가 너희와 언약을 세울 것이니, 다시는 홍수를 일으켜서 살과 피가 있는 모든 것들을 없애는 일이 없을 것이다. 땅을 파멸시키는 홍수가 다시는 일어나지 않을 것이다.\"",
+    Kor:"내가 너희와 언약을 세울 것이니, 다시는, 홍수를 일으켜서 살과 피가 있는 모든 것들을 없애는 일이 없을 것이다. 땅을 파멸시키는 홍수가 다시는 일어나지 않을 것이다.\"",
     Chn:"我与你们立约，凡有血肉的，不再被洪水灭绝，也不再有洪水毁坏地了。」",
     Eng:"I establish my covenant with you: Never again will all life be cut off by the waters of a  flood; never again will there be a flood to destroy the earth.\"",
     Ind:"Maka Kuadakan perjanjian-Ku dengan kamu, bahwa sejak ini tidak ada yang hidup yang akan dilenyapkan oleh air bah lagi, dan tidak akan ada lagi air bah untuk memusnahkan bumi.\""
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Apabila kemudian Kudatangkan awan di atas bumi dan busur itu tampak di awan,"
   },
   {Bible:"Genesis", Chapter:9, Verse:15, Page:1,
-    Kor:"나는, 너희와 숨쉬는 모든 짐승 곧 살과 피가 있는 모든 것과 더불어 세운 그 언약을 기억하고, 다시는 홍수를 일으켜서 살과 피가 있는 모든 것을 물로 멸하지 않겠다.",
+    Kor:"나는, 너희와 숨쉬는 모든 짐승, 곧 살과 피가 있는 모든 것과 더불어 세운 그 언약을 기억하고, 다시는, 홍수를 일으켜서 살과 피가 있는 모든 것을 물로 멸하지 않겠다.",
     Chn:"我便记念我与你们和各样有血肉的活物所立的约，水就再不泛滥、毁坏一切有血肉的物了。",
     Eng:"I will remember my covenant between me and you and all living creatures of every kind. Never  again will the waters become a flood to destroy all life.",
     Ind:"maka Aku akan mengingat perjanjian-Ku yang telah ada antara Aku dan kamu serta segala makhluk yang hidup, segala yang bernyawa, sehingga segenap air tidak lagi menjadi air bah untuk memusnahkan segala yang hidup."
   },
   {Bible:"Genesis", Chapter:9, Verse:16, Page:1,
-    Kor:"무지개가 구름 사이에서 나타날 때마다, 내가 그것을 보고, 나 하나님이, 살아 숨쉬는 모든 것들 곧 땅 위에 있는 살과 피를 지닌 모든 것과 세운 영원한 언약을 기억하겠다.\"",
+    Kor:"무지개가 구름 사이에서 나타날 때마다, 내가 그것을 보고, 나 하나님이, 살아 숨쉬는 모든 것들, 곧 땅 위에 있는 살과 피를 지닌 모든 것과 세운 영원한 언약을 기억하겠다.\"",
     Chn:"虹必现在云彩中，我看见，就要记念我与地上各样有血肉的活物所立的永约。」",
     Eng:"Whenever the rainbow appears in the clouds, I will see it and remember the everlasting  covenant between God and all living creatures of every kind on the earth.\"",
     Ind:"Jika busur itu ada di awan, maka Aku akan melihatnya, sehingga Aku mengingat perjanjian-Ku yang kekal antara Allah dan segala makhluk yang hidup, segala makhluk yang ada di bumi.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Berfirmanlah Allah kepada Nuh: \"Inilah tanda perjanjian yang Kuadakan antara Aku dan segala makhluk yang ada di bumi.\""
   },
   {Bible:"Genesis", Chapter:9, Verse:18, Page:1,
-    Kor:"<노아와 그의 아들들> ○방주에서 나온 노아의 아들은 셈과 함과 야벳이다. 함은 가나안의 조상이 되었다.",
+    Kor:"○방주에서 나온 노아의 아들은 셈과 함과 야벳이다. 함은 가나안의 조상이 되었다.",
     Chn:"出方舟挪亚的儿子就是闪、含、雅弗。含是迦南的父亲。",
     Eng:"The sons of Noah who came out of the ark were Shem, Ham and Japheth. (Ham was the father of  Canaan.)",
     Ind:"Anak-anak Nuh yang keluar dari bahtera ialah Sem, Ham dan Yafet; Ham adalah bapa Kanaan."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Nuh menjadi petani; dialah yang mula-mula membuat kebun anggur."
   },
   {Bible:"Genesis", Chapter:9, Verse:21, Page:1,
-    Kor:"한 번은 노아가 포도주를 마시고 취하여, 자기 장막 안에서 아무것도 덮지 않고, 벌거벗은 채로 누워 있었다.",
+    Kor:"한 번은, 노아가 포도주를 마시고 취하여, 자기 장막 안에서 아무것도 덮지 않고, 벌거벗은 채로 누워 있었다.",
     Chn:"他喝了园中的酒便醉了，在帐棚里赤着身子。",
     Eng:"When he drank some of its wine, he became drunk and lay uncovered inside his tent.",
     Ind:"Setelah ia minum anggur, mabuklah ia dan ia telanjang dalam kemahnya."
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Setelah Nuh sadar dari mabuknya dan mendengar apa yang dilakukan anak bungsunya kepadanya,"
   },
   {Bible:"Genesis", Chapter:9, Verse:25, Page:1,
-    Kor:"이렇게 말하였다.  \"가나안은 저주를 받을 것이다. 가장 천한 종이 되어서, 저의 형제들을 섬길 것이다.\"",
+    Kor:"이렇게 말하였다. \"가나안은 저주를 받을 것이다. 가장 천한 종이 되어서, 저의 형제들을 섬길 것이다.\"",
     Chn:"就说： 迦南当受咒诅， 必给他弟兄作奴仆的奴仆；",
     Eng:"he said, \"Cursed be Canaan! The lowest of slaves will he be to his brothers.\"",
     Ind:"berkatalah ia: \"Terkutuklah Kanaan, hendaklah ia menjadi hamba yang paling hina bagi saudara-saudaranya.\""
   },
   {Bible:"Genesis", Chapter:9, Verse:26, Page:1,
-    Kor:"○그는 또 말하였다.  \"셈의 주 하나님은 찬양받으실 분이시다. 셈은 가나안을 종으로 부릴 것이다.",
+    Kor:"○그는 또 말하였다. \"셈의 주 하나님은 찬양받으실 분이시다. 셈은 가나안을 종으로 부릴 것이다.",
     Chn:"又说： 耶和华—闪的　神是应当称颂的！ 愿迦南作闪的奴仆。",
     Eng:"He also said, \"Blessed be the LORD, the God of Shem! May Canaan be the slave of Shem.",
     Ind:"Lagi katanya: \"Terpujilah TUHAN, Allah Sem, tetapi hendaklah Kanaan menjadi hamba baginya."
   },
   {Bible:"Genesis", Chapter:9, Verse:27, Page:1,
-    Kor:"하나님이 a야벳을 크게 일으키셔서, 셈의 장막에서 살게 하시고, 가나안은 종으로 삼아서, 셈을 섬기게 하실 것이다.\" (a '증가하다' 또는 '흥하게 하다')",
+    Kor:"하나님이 야벳을 크게 일으키셔서, 셈의 장막에서 살게 하시고, 가나안은 종으로 삼아서, 셈을 섬기게 하실 것이다.\"",
     Chn:"愿　神使雅弗扩张， 使他住在闪的帐棚里； 又愿迦南作他的奴仆。",
     Eng:"May God extend the territory of Japheth; may Japheth live in the tents of Shem, and may  Canaan be his slave.\"",
     Ind:"Allah meluaskan kiranya tempat kediaman Yafet, dan hendaklah ia tinggal dalam kemah-kemah Sem, tetapi hendaklah Kanaan menjadi hamba baginya.\""

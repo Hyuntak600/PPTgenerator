@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",30,38);
 BibleDB.add([
   {Bible:"Exodus", Chapter:30, Verse:1, Page:1,
-    Kor:"<분향단(출 37:25-28)> \"너는 분향단을 만들되, 아카시아 나무로 만들어라.",
+    Kor:"너는 분향단을 만들되, 아카시아 나무로 만들어라.",
     Chn:"「你要用皂荚木做一座烧香的坛。",
     Eng:"\"Make an altar of acacia wood for burning incense.",
     Ind:"\"Haruslah kaubuat mezbah, tempat pembakaran ukupan; haruslah kaubuat itu dari kayu penaga;"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"sehasta panjangnya dan sehasta lebarnya, sehingga menjadi empat persegi, tetapi haruslah dua hasta tingginya; tanduk-tanduknya haruslah seiras dengan mezbah itu."
   },
   {Bible:"Exodus", Chapter:30, Verse:3, Page:1,
-    Kor:"그리고 너는 그 단의 윗면과 네 옆면과 뿔을 순금으로 입히고, 그 가장자리에 금테를 둘러라.",
+    Kor:"그리고 너는, 그 단의 윗면과 네 옆면과 뿔을 순금으로 입히고, 그 가장자리에 금테를 둘러라.",
     Chn:"要用精金把坛的上面与坛的四围，并坛的四角，包裹；又要在坛的四围镶上金牙边。",
     Eng:"Overlay the top and all the sides and the horns with pure gold, and make a gold molding around it.",
     Ind:"Haruslah kausalut itu dengan emas murni, bidang atasnya dan bidang-bidang sisinya sekelilingnya, serta tanduk-tanduknya. Haruslah kaubuat bingkai emas sekelilingnya."
@@ -57,37 +57,37 @@ BibleDB.add([
     Ind:"Di atas mezbah itu janganlah kamu persembahkan ukupan yang lain ataupun korban bakaran ataupun korban sajian, juga korban curahan janganlah kamu curahkan di atasnya."
   },
   {Bible:"Exodus", Chapter:30, Verse:10, Page:1,
-    Kor:"아론은 분향단 뿔에 한 해에 한 번씩 속죄예식을 하여야 하고, 한 해에 한 번씩 속죄의 피를 발라서 분향단을 속죄하여야 한다. 너희는 대대로 이와 같이 하여라. 이것은 주에게 가장 거룩한 것이다.\"",
+    Kor:"아론은 분향단 뿔에 한 해에 한 번씩 속죄예식을 하여야 하고, 한 해에 한 번씩 속죄의 피를 발라서 분향단을 속죄하여야 한다. 너희는 대대로 이와 같이 하여라. 이것은 주님께 가장 거룩한 것이다.\"",
     Chn:"亚伦一年一次要在坛的角上行赎罪之礼。他一年一次要用赎罪祭牲的血在坛上行赎罪之礼，作为世世代代的定例。这坛在耶和华面前为至圣。」",
     Eng:"Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the LORD.\"",
     Ind:"Sekali setahun haruslah Harun mengadakan pendamaian di atas tanduk-tanduknya; dengan darah korban penghapus dosa pembawa pendamaian haruslah ia sekali setahun mengadakan pendamaian bagi mezbah itu di antara kamu turun-temurun; itulah barang maha kudus bagi TUHAN.\""
   },
   {Bible:"Exodus", Chapter:30, Verse:11, Page:1,
-    Kor:"<회막 세금> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Exodus", Chapter:30, Verse:12, Page:1,
-    Kor:"\"네가 이스라엘 자손의 수를 세어 인구를 조사할 때에, 그들은 각자 자기 목숨 값으로 속전을 주에게 바쳐야 한다. 그래야만 인구를 조사할 때에, 그들에게 재앙이 미치지 않을 것이다.",
+    Kor:"\"네가 이스라엘 자손의 수를 세어 인구를 조사할 때에, 그들은 각자 자기 목숨 값으로 속전을 주께 바쳐야 한다. 그래야만 인구를 조사할 때에, 그들에게 재앙이 미치지 않을 것이다.",
     Chn:"「你要按以色列人被数的，计算总数，你数的时候，他们各人要为自己的生命把赎价奉给耶和华，免得数的时候在他们中间有灾殃。",
     Eng:"\"When you take a census of the Israelites to count them, each one must pay the LORD a ransom for his life at the time he is counted. Then no plague will come on them when you number them.",
     Ind:"\"Apabila engkau menghitung jumlah orang Israel pada waktu mereka didaftarkan, maka haruslah mereka masing-masing mempersembahkan kepada TUHAN uang pendamaian karena nyawanya, pada waktu orang mendaftarkan mereka, supaya jangan ada tulah di antara mereka pada waktu pendaftarannya itu."
   },
   {Bible:"Exodus", Chapter:30, Verse:13, Page:1,
-    Kor:"인구 조사를 받는 사람은 누구나 성소의 세겔로 반 세겔을 내야 한다. 한 세겔은 이십 게라이다. 이 반 세겔은 주에게 올리는 예물이다.",
+    Kor:"인구 조사를 받는 사람은, 누구나 성소의 세겔로 반 세겔을 내야 한다. 한 세겔은 이십 게라이다. 이 반 세겔은 주께 올리는 예물이다.",
     Chn:"凡过去归那些被数之人的，每人要按圣所的平，拿银子半舍客勒；这半舍客勒是奉给耶和华的礼物（一舍客勒是二十季拉）。",
     Eng:"Each one who crosses over to those already counted is to give a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.",
     Ind:"Inilah yang harus dipersembahkan tiap-tiap orang yang akan termasuk orang-orang yang terdaftar itu: setengah syikal, ditimbang menurut syikal kudus--syikal ini dua puluh gera beratnya--;setengah syikal itulah persembahan khusus kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:30, Verse:14, Page:1,
-    Kor:"스무 살이 넘은 남자, 곧 인구 조사를 받는 사람은 누구나 다 주에게 이 예물을 바쳐야 한다.",
+    Kor:"스무 살이 넘은 남자, 곧 인구 조사를 받는 사람은 누구나 다 주께 이 예물을 바쳐야 한다.",
     Chn:"凡过去归那些被数的人，从二十岁以外的，要将这礼物奉给耶和华。",
     Eng:"All who cross over, those twenty years old or more, are to give an offering to the LORD.",
     Ind:"Setiap orang yang akan termasuk orang-orang yang terdaftar itu, yang berumur dua puluh tahun ke atas, haruslah mempersembahkan persembahan khusus itu kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:30, Verse:15, Page:1,
-    Kor:"너희가 목숨 값으로 속전을 주에게 올리는 예물은 반 세겔이다. 부자라고 해서 이보다 더 많이 내거나, 가난한 사람이라고 해서 이보다 덜 내는 일이 없도록 하여라.",
+    Kor:"너희가 목숨 값으로 속전을 주께 올리는 예물은 반 세겔이다. 부자라고 해서 이보다 더 많이 내거나, 가난한 사람이라고 해서 이보다 덜 내는 일이 없도록 하여라.",
     Chn:"他们为赎生命将礼物奉给耶和华，富足的不可多出，贫穷的也不可少出，各人要出半舍客勒。",
     Eng:"The rich are not to give more than a half shekel and the poor are not to give less when you make the offering to the LORD to atone for your lives.",
     Ind:"Orang kaya janganlah mempersembahkan lebih dan orang miskin janganlah mempersembahkan kurang dari setengah syikal itu pada waktu dipersembahkan persembahan khusus itu kepada TUHAN untuk mengadakan pendamaian bagi nyawa kamu sekalian."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Dan haruslah engkau memungut uang pendamaian itu dari orang Israel dan menggunakannya untuk ibadah dalam Kemah Pertemuan; supaya itu menjadi peringatan di hadapan TUHAN untuk mengingat kepada orang Israel dan untuk mengadakan pendamaian bagi nyawa kamu sekalian.\""
   },
   {Bible:"Exodus", Chapter:30, Verse:17, Page:1,
-    Kor:"<놋 물두멍> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"Berfirmanlah TUHAN kepada Musa:"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Apabila mereka masuk ke dalam Kemah Pertemuan, haruslah mereka membasuh tangan dan kaki dengan air, supaya mereka jangan mati. Demikian juga apabila mereka datang ke mezbah itu untuk menyelenggarakan kebaktian dan untuk membakar korban api-apian bagi TUHAN,"
   },
   {Bible:"Exodus", Chapter:30, Verse:21, Page:1,
-    Kor:"이와 같이 그들은 그들의 손과 발을 씻어야 죽지 않는다. 이것은 그와 그의 자손이 대대로 지켜야 할 영원한 규례이다.\"",
+    Kor:"이와 같이, 그들은 그들의 손과 발을 씻어야 죽지 않는다. 이것은, 그와 그의 자손이 대대로 지켜야 할 영원한 규례이다.\"",
     Chn:"他们洗手洗脚就免得死亡。这要作亚伦和他后裔世世代代永远的定例。」",
     Eng:"they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come.\"",
     Ind:"haruslah mereka membasuh tangan dan kaki mereka, supaya mereka jangan mati. Itulah yang harus menjadi ketetapan bagi mereka untuk selama-lamanya, bagi dia dan bagi keturunannya turun-temurun.\""
   },
   {Bible:"Exodus", Chapter:30, Verse:22, Page:1,
-    Kor:"<성별하는 향유> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"Berfirmanlah TUHAN kepada Musa:"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"dan kayu teja lima ratus syikal, ditimbang menurut syikal kudus, dan minyak zaitun satu hin."
   },
   {Bible:"Exodus", Chapter:30, Verse:25, Page:1,
-    Kor:"너는 향을 제조하는 법을 따라 이 모든 것을 잘 섞어서, 성별하는 기름을 만들어라. 이것이 성별하는 기름이 될 것이다.",
+    Kor:"너는, 향을 제조하는 법을 따라서, 이 모든 것을 잘 섞어서, 성별하는 기름을 만들어라. 이것이 성별하는 기름이 될 것이다.",
     Chn:"按做香之法调和做成圣膏油。",
     Eng:"Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be the sacred anointing oil.",
     Ind:"Haruslah kaubuat semuanya itu menjadi minyak urapan yang kudus, suatu campuran rempah-rempah yang dicampur dengan cermat seperti buatan seorang tukang campur rempah-rempah; itulah yang harus menjadi minyak urapan yang kudus."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Orang yang mencampur rempah-rempah menjadi minyak yang semacam itu atau yang membubuhnya pada badan orang awam, haruslah dilenyapkan dari antara bangsanya.\""
   },
   {Bible:"Exodus", Chapter:30, Verse:34, Page:1,
-    Kor:"<가루향> ○주님께서 모세에게 말씀하셨다. \"너는 향품들 곧 소합향과 나감향과 풍자향을 구하여 그 향품들을 순수한 유향과 섞되, 저마다 같은 분량으로 하여라.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 향품들, 곧 소합향과 나감향과 풍자향을 구하여, 그 향품들을 순수한 유향과 섞되 저마다 같은 분량으로 하여라.",
     Chn:"耶和华吩咐摩西说：「你要取馨香的香料，就是拿他弗、施喜列、喜利比拿；这馨香的香料和净乳香各样要一般大的分量。",
     Eng:"Then the LORD said to Moses, \"Take fragrant spices--gum resin, onycha and galbanum--and pure frankincense, all in equal amounts,",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Ambillah wangi-wangian, yakni getah damar, kulit lokan dan getah rasamala, wangi-wangian itu serta kemenyan yang tulen, masing-masing sama banyaknya."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Dan tentang ukupan yang harus kaubuat menurut campuran yang seperti itu juga janganlah kamu buat bagi kamu sendiri; itulah bagian untuk TUHAN, yang kudus bagimu."
   },
   {Bible:"Exodus", Chapter:30, Verse:38, Page:1,
-    Kor:"그 냄새를 즐기려고 이와 같은 것을 만드는 사람은 누구든지 그 백성에게서 끊어질 것이다.\"",
+    Kor:"그 냄새를 즐기려고 이와 같은 것을 만드는 사람은, 누구든지 그 백성에게서 끊어질 것이다.\"",
     Chn:"凡做香和这香一样，为要闻香味的，这人要从民中剪除。」",
     Eng:"Whoever makes any like it to enjoy its fragrance must be cut off from his people.\"",
     Ind:"Orang yang akan membuat minyak yang semacam itu dengan maksud untuk menghirup baunya, haruslah dilenyapkan dari antara bangsanya.\""

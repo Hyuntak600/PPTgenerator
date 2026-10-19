@@ -3,13 +3,13 @@
 BibleDB.ref("Esther",6,14);
 BibleDB.add([
   {Bible:"Esther", Chapter:6, Verse:1, Page:1,
-    Kor:"<왕이 모르드개를 높이다> 그 날 밤, 왕은 잠이 오지 않아서 자기의 통치를 기록한 궁중실록을 가지고 오라고 하고, 자기 앞에서 소리를 내어 읽게 하였다.",
+    Kor:"그 날 밤, 왕은 잠이 오지 않아서 자기의 통치를 기록한 궁중실록을 가지고 오라고 하고, 자기 앞에서 소리를 내어 읽게 하였다.",
     Chn:"那夜王睡不着觉，就吩咐人取历史来，念给他听。",
     Eng:"That night the king could not sleep; so he ordered the book of the chronicles, the record of his reign, to be brought in and read to him.",
     Ind:"Pada malam itu juga raja tidak dapat tidur. Maka bertitahlah baginda membawa kitab pencatatan sejarah, lalu dibacakan di hadapan raja."
   },
   {Bible:"Esther", Chapter:6, Verse:2, Page:1,
-    Kor:"실록에는, 대궐 문을 지키던 왕의 두 내시 빅다나와 데레스가 아하수에로 a왕을 죽이려고 한 음모를, 모르드개가 알고서 고발하였다는 내용이 기록되어 있었다.(a 히, '그들의 손을 왕에게 놓으려고 한 음모를')",
+    Kor:"실록에는, 대궐 문을 지키던 왕의 두 내시 빅다나와 데레스가 아하수에로 왕을 죽이려고 한 음모를, 모르드개가 알고서 고발하였다는 내용이 기록되어 있었다.",
     Chn:"正遇见书上写着说：王的太监中有两个守门的，辟探和提列，想要下手害亚哈随鲁王，末底改将这事告诉王后。",
     Eng:"It was found recorded there that Mordecai had exposed Bigthana and Teresh, two of the king's officers who guarded the doorway, who had conspired to assassinate King Xerxes.",
     Ind:"Dan di situ didapati suatu catatan tentang Mordekhai, yang pernah memberitahukan bahwa Bigtan dan Teresh, dua orang sida-sida raja yang termasuk golongan penjaga pintu, telah berikhtiar membunuh raja Ahasyweros."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan Haman menceritakan kepada Zeresh, isterinya, dan kepada semua sahabatnya apa yang dialaminya. Maka kata para orang arif bijaksana dan Zeresh, isterinya, kepadanya: \"Jikalau Mordekhai, yang di depannya engkau sudah mulai jatuh, adalah keturunan Yahudi, maka engkau tidak akan sanggup melawan dia, malahan engkau akan jatuh benar-benar di depannya.\""
   },
   {Bible:"Esther", Chapter:6, Verse:14, Page:1,
-    Kor:"<하만의 몰락> ○말이 채 끝나기도 전에, 내시들이 와서, 에스더가 차린 잔치에 하만을 급히 데리고 갔다.",
+    Kor:"○말이 채 끝나기도 전에, 내시들이 와서, 에스더가 차린 잔치에 하만을 급히 데리고 갔다.",
     Chn:"他们还与哈曼说话的时候，王的太监来催哈曼快去赴以斯帖所预备的筵席。",
     Eng:"While they were still talking with him, the king's eunuchs arrived and hurried Haman away to the banquet Esther had prepared.",
     Ind:"Selagi mereka itu bercakap-cakap dengan dia, datanglah sida-sida raja, lalu mengantarkan Haman dengan segera ke perjamuan yang diadakan oleh Ester."

@@ -3,19 +3,19 @@
 BibleDB.ref("Isaiah",40,31);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:40, Verse:1, Page:1,
-    Kor:"<희망의 말씀> \"너희는 위로하여라! 나의 백성을 위로하여라!\" 너희의 하나님께서 말씀하신다.",
+    Kor:"\"너희는 위로하여라! 나의 백성을 위로하여라!\" 너희의 하나님께서 말씀하신다.",
     Chn:"你们的　神说： 你们要安慰，安慰我的百姓。",
     Eng:"Comfort, comfort my people, says your God.",
     Ind:"Hiburkanlah, hiburkanlah umat-Ku, demikian firman Allahmu,"
   },
   {Bible:"Isaiah", Chapter:40, Verse:2, Page:1,
-    Kor:"\"예루살렘 주민을 격려하고, 그들에게 일러주어라. 이제 복역 기간이 끝나고, 죄에 대한 형벌도 다 받고, 지은 죄에 비하여 갑절의 벌을 주님에게서 받았다고 외쳐라.\"",
+    Kor:"\"예루살렘 주민을 격려하고, 그들에게 일러주어라. 이제 복역 기간이 끝나고, 죄에 대한 형벌도 다 받고, 지은 죄에 비하여 갑절의 벌을 받았다고 외쳐라.\"",
     Chn:"要对耶路撒冷说安慰的话， 又向她宣告说， 她争战的日子已满了； 她的罪孽赦免了； 她为自己的一切罪， 从耶和华手中加倍受罚。",
     Eng:"Speak tenderly to Jerusalem, and proclaim to her that her hard service has been completed, that her sin has been paid for, that she has received from the LORD'S hand double for all her sins.",
     Ind:"tenangkanlah hati Yerusalem dan serukanlah kepadanya, bahwa perhambaannya sudah berakhir, bahwa kesalahannya telah diampuni, sebab ia telah menerima hukuman dari tangan TUHAN dua kali lipat karena segala dosanya."
   },
   {Bible:"Isaiah", Chapter:40, Verse:3, Page:1,
-    Kor:"a한 소리가 외친다. \"광야에 주님께서 오실 길을 닦아라. 사막에 우리의 하나님께서 오실 큰길을 곧게 내어라. (a 또는 \"광야에서 한 소리가 외친다. '주님께서 오실 길을 닦아라'\")",
+    Kor:"한 소리가 외친다. \"광야에 주께서 오실 길을 닦아라. 사막에 우리의 하나님께서 오실 큰길을 곧게 내어라.",
     Chn:"有人声喊着说： 在旷野预备耶和华的路， 在沙漠地修平我们　神的道。",
     Eng:"A voice of one calling: \"In the desert prepare the way for the LORD; make straight in the wilderness a highway for our God.",
     Ind:"Ada suara yang berseru-seru: \"Persiapkanlah di padang gurun jalan untuk TUHAN, luruskanlah di padang belantara jalan raya bagi Allah kita!"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Setiap lembah harus ditutup, dan setiap gunung dan bukit diratakan; tanah yang berbukit-bukit harus menjadi tanah yang rata, dan tanah yang berlekuk-lekuk menjadi dataran;"
   },
   {Bible:"Isaiah", Chapter:40, Verse:5, Page:1,
-    Kor:"주님의 영광이 나타날 것이니, 모든 사람이 그것을 함께 볼 것이다. 이것은 주님께서 친히 약속하신 것이다.\"",
+    Kor:"주의 영광이 나타날 것이니, 모든 사람이 그것을 함께 볼 것이다. 이것은 주께서 친히 약속하신 것이다.\"",
     Chn:"耶和华的荣耀必然显现； 凡有血气的必一同看见； 因为这是耶和华亲口说的。",
     Eng:"And the glory of the LORD will be revealed, and all mankind together will see it. For the mouth of the LORD has spoken.\"",
     Ind:"maka kemuliaan TUHAN akan dinyatakan dan seluruh umat manusia akan melihatnya bersama-sama; sungguh, TUHAN sendiri telah mengatakannya.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Ada suara yang berkata: \"Berserulah!\" Jawabku: \"Apakah yang harus kuserukan?\" \"Seluruh umat manusia adalah seperti rumput dan semua semaraknya seperti bunga di padang."
   },
   {Bible:"Isaiah", Chapter:40, Verse:7, Page:1,
-    Kor:"주님께서 그 위에 입김을 부시면, 풀은 마르고 꽃은 시든다. 그렇다. 이 백성은 풀에 지나지 않는다.",
+    Kor:"주께서 그 위에 입김을 부시면, 풀은 마르고 꽃은 시든다. 그렇다. 이 백성은 풀에 지나지 않는다.",
     Chn:"草必枯干，花必凋残， 因为耶和华的气吹在其上； 百姓诚然是草。",
     Eng:"The grass withers and the flowers fall, because the breath of the LORD blows on them. Surely the people are grass.",
     Ind:"Rumput menjadi kering, bunga menjadi layu, apabila TUHAN menghembusnya dengan nafas-Nya. Sesungguhnyalah bangsa itu seperti rumput."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Rumput menjadi kering, bunga menjadi layu, tetapi firman Allah kita tetap untuk selama-lamanya.\""
   },
   {Bible:"Isaiah", Chapter:40, Verse:9, Page:1,
-    Kor:"b좋은 소식을 전하는 시온아, 어서 높은 산으로 올라가거라. c아름다운 소식을 전하는 예루살렘아, 너의 목소리를 힘껏 높여라. 두려워하지 말고 소리를 높여라. 유다의 성읍들에게 \"여기에 너희의 하나님이 계신다\" 하고 말하여라. (b 또는 '시온에 좋은 소식을 전하는 사람아' c 또는 '예루살렘에 아름다운 소식을 전하는 사람아')",
+    Kor:"좋은 소식을 전하는 시온아, 어서 높은 산으로 올라가거라. 아름다운 소식을 전하는 예루살렘아, 너의 목소리를 힘껏 높여라. 두려워하지 말고 소리를 높여라. 유다의 성읍들에게 \"여기에 너희의 하나님이 계신다\" 하고 말하여라.",
     Chn:"报好信息给锡安的啊， 你要登高山； 报好信息给耶路撒冷的啊， 你要极力扬声。 扬声不要惧怕， 对犹大的城邑说： 看哪，你们的　神！",
     Eng:"You who bring good tidings to Zion, go up on a high mountain. You who bring good tidings to Jerusalem, lift up your voice with a shout, lift it up, do not be afraid; say to the towns of Judah, \"Here is your God!\"",
     Ind:"Hai Sion, pembawa kabar baik, naiklah ke atas gunung yang tinggi! Hai Yerusalem, pembawa kabar baik, nyaringkanlah suaramu kuat-kuat, nyaringkanlah suaramu, jangan takut! Katakanlah kepada kota-kota Yehuda: \"Lihat, itu Allahmu!\""
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Lihat, itu Tuhan ALLAH, Ia datang dengan kekuatan dan dengan tangan-Nya Ia berkuasa. Lihat, mereka yang menjadi upah jerih payah-Nya ada bersama-sama Dia, dan mereka yang diperoleh-Nya berjalan di hadapan-Nya."
   },
   {Bible:"Isaiah", Chapter:40, Verse:11, Page:1,
-    Kor:"그는 목자와 같이 그의 양 떼를 먹이시며, 어린 양들을 팔로 모으시고, 품에 안으시며, 젖을 먹이는 어미 양들을 조심스럽게 이끄신다.",
+    Kor:"그는 목자와 같이 그의 양 떼를 먹이시며, 어린 양들을 팔로 모으시고 품에 안으시며, 젖을 먹이는 어미 양들을 조심스럽게 이끄신다.",
     Chn:"他必像牧人牧养自己的羊群， 用膀臂聚集羊羔抱在怀中， 慢慢引导那乳养小羊的。",
     Eng:"He tends his flock like a shepherd: He gathers the lambs in his arms and carries them close to his heart; he gently leads those that have young.",
     Ind:"Seperti seorang gembala Ia menggembalakan kawanan ternak-Nya dan menghimpunkannya dengan tangan-Nya; anak-anak domba dipangku-Nya, induk-induk domba dituntun-Nya dengan hati-hati."
   },
   {Bible:"Isaiah", Chapter:40, Verse:12, Page:1,
-    Kor:"<비교할 수 없는 하나님> 누가 바닷물을 손바닥으로 떠서 헤아려 보았으며, 뼘으로 하늘을 재어 보았느냐? 누가 온 땅의 티끌을 되로 되어 보고, 산들을 어깨 저울로 달아 보고, 언덕들을 손저울로 달아 보았느냐?",
+    Kor:"누가 바닷물을 손바닥으로 떠서 헤아려 보았으며, 뼘으로 하늘을 재어 보았느냐? 누가 온 땅의 티끌을 되로 되어 보고, 산들을 어깨 저울로 달아 보고, 언덕들을 손저울로 달아 보았느냐?",
     Chn:"谁曾用手心量诸水， 用手虎口量苍天， 用升斗盛大地的尘土， 用秤称山岭， 用天平平冈陵呢？",
     Eng:"Who has measured the waters in the hollow of his hand, or with the breadth of his hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?",
     Ind:"Siapa yang menakar air laut dengan lekuk tangannya dan mengukur langit dengan jengkal, menyukat debu tanah dengan takaran, menimbang gunung-gunung dengan dacing, atau bukit-bukit dengan neraca?"
   },
   {Bible:"Isaiah", Chapter:40, Verse:13, Page:1,
-    Kor:"누가 주님의 영을 헤아릴 수 있겠으며, 주님의 조언자가 되어 그를 가르칠 수 있겠느냐?",
+    Kor:"누가 주의 영을 헤아릴 수 있겠으며, 주의 조언자가 되어 그를 가르칠 수 있겠느냐?",
     Chn:"谁曾测度耶和华的心， 或作他的谋士指教他呢？",
     Eng:"Who has understood the mind of the LORD, or instructed him as his counselor?",
     Ind:"Siapa yang dapat mengatur Roh TUHAN atau memberi petunjuk kepada-Nya sebagai penasihat?"
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Dengan siapa hendak kamu samakan Aku, seakan-akan Aku seperti dia? firman Yang Mahakudus."
   },
   {Bible:"Isaiah", Chapter:40, Verse:26, Page:1,
-    Kor:"너희는 고개를 들어서, 저 위를 바라보아라. 누가 이 모든 별을 창조하였느냐? 바로 그분께서 천체를 수효를 세어 불러내신다. 그는 능력이 많으시고 힘이 세셔서, 하나하나, 이름을 불러 나오게 하시니, 하나도 빠지는 일이 없다.",
+    Kor:"너희는 고개를 들어서, 저 위를 바라보아라. 누가 이 모든 별을 창조하였느냐? 바로 그분께서 천체를 군대처럼 불러내신다. 그는 능력이 많으시고 힘이 세셔서, 하나하나, 이름을 불러 나오게 하시니, 하나도 빠지는 일이 없다.",
     Chn:"你们向上举目， 看谁创造这万象， 按数目领出， 他一一称其名； 因他的权能， 又因他的大能大力， 连一个都不缺。",
     Eng:"Lift your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one, and calls them each by name. Because of his great power and mighty strength, not one of them is missing.",
     Ind:"Arahkanlah matamu ke langit dan lihatlah: siapa yang menciptakan semua bintang itu dan menyuruh segenap tentara mereka keluar, sambil memanggil nama mereka sekaliannya? Satupun tiada yang tak hadir, oleh sebab Ia maha kuasa dan maha kuat."
   },
   {Bible:"Isaiah", Chapter:40, Verse:27, Page:1,
-    Kor:"야곱아, 네가 어찌하여 불평하며, 이스라엘아, 네가 어찌하여 불만을 토로하느냐? 어찌하여 \"주님께서는 나의 사정을 모르시고, 하나님께서는 나의 정당한 권리를 지켜 주시지 않는다\" 하느냐?",
+    Kor:"야곱아, 네가 어찌하여 불평하며, 이스라엘아, 네가 어찌하여 불만을 토로하느냐? 어찌하여 \"주께서는 나의 사정을 모르시고, 하나님께서는 나의 정당한 권리를 지켜 주시지 않는다\" 하느냐?",
     Chn:"雅各啊，你为何说， 我的道路向耶和华隐藏？ 以色列啊，你为何言， 我的冤屈　神并不查问？",
     Eng:"Why do you say, O Jacob, and complain, O Israel, \"My way is hidden from the LORD; my cause is disregarded by my God\"?",
     Ind:"Mengapakah engkau berkata demikian, hai Yakub, dan berkata begini, hai Israel: \"Hidupku tersembunyi dari TUHAN, dan hakku tidak diperhatikan Allahku?\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Orang-orang muda menjadi lelah dan lesu dan teruna-teruna jatuh tersandung,"
   },
   {Bible:"Isaiah", Chapter:40, Verse:31, Page:1,
-    Kor:"오직 주님을 소망으로 삼는 사람은 새 힘을 얻으리니, 독수리가 날개를 치며 솟아오르듯 올라갈 것이요, 뛰어도 지치지 않으며, 걸어도 피곤하지 않을 것이다.",
+    Kor:"오직 주를 소망으로 삼는 사람은 새 힘을 얻으리니, 독수리가 날개를 치며 솟아오르듯 올라갈 것이요, 뛰어도 지치지 않으며, 걸어도 피곤하지 않을 것이다.",
     Chn:"但那等候耶和华的必从新得力。 他们必如鹰展翅上腾； 他们奔跑却不困倦， 行走却不疲乏。",
     Eng:"but those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. ISA",
     Ind:"tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah."

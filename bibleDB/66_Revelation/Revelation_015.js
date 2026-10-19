@@ -3,7 +3,7 @@
 BibleDB.ref("Revelation",15,8);
 BibleDB.add([
   {Bible:"Revelation", Chapter:15, Verse:1, Page:1,
-    Kor:"<마지막 재난을 가지고 온 천사> 그리고 나는 하늘에서 크고도 놀라운 또 다른 표징을 하나 보았습니다. 일곱 천사가 일곱 재난을 가지고 있었는데, 그것은 마지막 재난이었습니다. 하나님의 진노가 그것으로 끝날 것이었기 때문입니다.",
+    Kor:"그리고 나는 하늘에서 크고도 놀라운 또 다른 표징을 하나 보았습니다. 일곱 천사가 일곱 재난을 가지고 있었는데, 그것은 마지막 재난이었습니다. 하나님의 진노가 그것으로 끝났기 때문입니다.",
     Chn:"我又看见在天上有异象，大而且奇，就是七位天使掌管末了的七灾，因为　神的大怒在这七灾中发尽了。",
     Eng:"I saw in heaven another great and marvelous sign: seven angels with the seven last plagues--last, because with them God's wrath is completed.",
     Ind:"Dan aku melihat suatu tanda lain di langit, besar dan ajaib: tujuh malaikat dengan tujuh malapetaka terakhir, karena dengan itu berakhirlah murka Allah."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Dan aku melihat sesuatu bagaikan lautan kaca bercampur api, dan di tepi lautan kaca itu berdiri orang-orang yang telah mengalahkan binatang itu dan patungnya dan bilangan namanya. Pada mereka ada kecapi Allah."
   },
   {Bible:"Revelation", Chapter:15, Verse:3, Page:1,
-    Kor:"그들은 하나님의 종 모세의 노래와 어린 양의 노래를 부르고 있었습니다.  \"주 하나님, 전능하신 분, 주님께서 하시는 일은 크고도 놀랍습니다. a만민의 왕이신 주님, 주님의 길은 의롭고도 참되십니다. (a 다른 고대 사본들에는 '만세의')",
+    Kor:"그들은 하나님의 종 모세의 노래와 어린 양의 노래를 부르고 있었습니다. \"주 하나님, 전능하신 분, 주님께서 하시는 일은 크고도 놀랍습니다. 만민의 왕이신 주님, 주님의 길은 의롭고도 참되십니다.",
     Chn:"唱　神仆人摩西的歌和羔羊的歌，说： 主　神—全能者啊， 你的作为大哉！奇哉！ 万世之王啊， 你的道途义哉！诚哉！",
     Eng:"and sang the song of Moses the servant of God and the song of the Lamb: \"Great and marvelous are your deeds, Lord God Almighty. Just and true are your ways, King of the ages.",
     Ind:"Dan mereka menyanyikan nyanyian Musa, hamba Allah, dan nyanyian Anak Domba, bunyinya: \"Besar dan ajaib segala pekerjaan-Mu, ya Tuhan, Allah, Yang Mahakuasa! Adil dan benar segala jalan-Mu, ya Raja segala bangsa!"
   },
   {Bible:"Revelation", Chapter:15, Verse:4, Page:1,
-    Kor:"b주님, 누가 주님을 두려워하지 않겠습니까? 누가 주님의 이름을 찬양하지 않겠습니까? 주님만이 홀로 거룩하십니다. 모든 민족이 주님 앞으로 와서 경배할 것입니다. 주님의 정의로운 행동이 나타났기 때문입니다.\" (b 렘 10:7)",
+    Kor:"주님, 누가 주님을 두려워하지 않겠습니까? 누가 주님의 이름을 찬양하지 않겠습니까? 주님만이 홀로 거룩하십니다. 모든 민족이 주님 앞으로 와서 경배할 것입니다. 주님의 의로운 행위가 나타났기 때문입니다.\"",
     Chn:"主啊，谁敢不敬畏你， 不将荣耀归与你的名呢？ 因为独有你是圣的。 万民都要来在你面前敬拜， 因你公义的作为已经显出来了。",
     Eng:"Who will not fear you, O Lord, and bring glory to your name? For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed.\"",
     Ind:"Siapakah yang tidak takut, ya Tuhan, dan yang tidak memuliakan nama-Mu? Sebab Engkau saja yang kudus; karena semua bangsa akan datang dan sujud menyembah Engkau, sebab telah nyata kebenaran segala penghakiman-Mu.\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Kemudian dari pada itu aku melihat orang membuka Bait Suci--kemah kesaksian--di sorga."
   },
   {Bible:"Revelation", Chapter:15, Verse:6, Page:1,
-    Kor:"그 성전으로부터 일곱 천사가 일곱 재난을 들고 나왔습니다. 그들은 깨끗하고 빛나는 c모시 옷을 입고, 가슴에는 금띠를 띠고 있었습니다.(c 다른 고대 사본들에는 '돌')",
+    Kor:"그 성전으로부터 일곱 재난을 들고, 일곱 천사가 나왔습니다. 그들은 깨끗하고 빛나는 모시 옷을 입고, 가슴에는 금띠를 띠고 있었습니다.",
     Chn:"那掌管七灾的七位天使从殿中出来，穿着洁白光明的细麻衣，胸间束着金带。",
     Eng:"Out of the temple came the seven angels with the seven plagues. They were dressed in clean, shining linen and wore golden sashes around their chests.",
     Ind:"Dan ketujuh malaikat dengan ketujuh malapetaka itu, keluar dari Bait Suci, berpakaian lenan yang putih bersih dan berkilau-kilauan dan dadanya berlilitkan ikat pinggang dari emas."

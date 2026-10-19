@@ -3,7 +3,7 @@
 BibleDB.ref("Ruth",4,22);
 BibleDB.add([
   {Bible:"Ruth", Chapter:4, Verse:1, Page:1,
-    Kor:"<룻이 보아스와 결혼하다> 보아스가 성문 위 회관으로 올라가서 앉아 있는데, 그가 말하던, 집안간으로서의 책임을 져야 할 바로 그 사람이 마침 지나가고 있었다. 보아스가 그에게 \"여보시오, 이리로 좀 올라와서 앉으시오\" 하고 말하였다. 그러자 그가 올라와서 앉았다.",
+    Kor:"보아스가 성문 위 회관으로 올라가서 앉아 있는데, 그가 말하던, 집안간으로서의 책임을 져야 할 바로 그 사람이 마침 지나가고 있었다. 보아스가 그에게 \"여보시오, 이리로 좀 올라와서 앉으시오\" 하고 말하였다. 그러자 그가 올라와서 앉았다.",
     Chn:"波阿斯到了城门，坐在那里，恰巧波阿斯所说的那至近的亲属经过。波阿斯说：「某人哪，你来坐在这里。」他就来坐下。",
     Eng:"Meanwhile Boaz went up to the town gate and sat there. When the kinsman-redeemer he had mentioned came along, Boaz said, \"Come over here, my friend, and sit down.\" So he went over and sat down.",
     Ind:"Boas telah pergi ke pintu gerbang dan duduk di sana. Kebetulan lewatlah penebus yang disebutkan Boas itu. Lalu berkatalah Boas: \"Hai saudara, datanglah dahulu ke mari, duduklah di sini.\" Maka datanglah ia, lalu duduk."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Jadi pikirku: baik juga hal itu kusampaikan kepadamu sebagai berikut: Belilah tanah itu di depan orang-orang yang duduk di sini dan di depan para tua-tua bangsa kita. Jika engkau mau menebusnya, tebuslah; tetapi jika engkau tidak mau menebusnya, beritahukanlah kepadaku, supaya aku tahu, sebab tidak ada orang yang dapat menebusnya kecuali engkau, dan sesudah engkau: aku.\" Lalu berkatalah ia: \"Aku akan menebusnya.\""
   },
   {Bible:"Ruth", Chapter:4, Verse:5, Page:1,
-    Kor:"보아스가 다시 말하였다. \"그렇다면, a나오미의 손에서 그 밭을 사는 날로, 고인의 아내인 모압 여인 룻도 아내로 맞아들여야 하오. 그렇게 하여야만, 그가 물려받은 그 유산이 고인의 이름으로 남게 될 것이오.\"(a 고대 라틴어역과 불가타와 시리아어역을 따름. 히, '나오미와 고인의 아내인 모압 여인 룻의 손에서 그 밭을 사는 날에, 고인의 이름으로 그 유산이 이어지도록 하시오')",
+    Kor:"보아스가 다시 말하였다. \"그렇다면, 나오미의 손에서 그 밭을 사는 날로, 고인의 아내인 모압 여인 룻도 아내로 맞아들여야 하오. 그렇게 하여야만, 그가 물려받은 그 유산이 고인의 이름으로 남게 될 것이오.\"",
     Chn:"波阿斯说：「你从拿俄米手中买这地的时候，也当娶死人的妻摩押女子路得，使死人在产业上存留他的名。」",
     Eng:"Then Boaz said, \"On the day you buy the land from Naomi and from Ruth the Moabitess, you acquire the dead man's widow, in order to maintain the name of the dead with his property.\"",
     Ind:"Tetapi kata Boas: \"Pada waktu engkau membeli tanah itu dari tangan Naomi, engkau memperoleh Rut juga, perempuan Moab, isteri orang yang telah mati itu, untuk menegakkan nama orang itu di atas milik pusakanya.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah penebus itu: \"Jika demikian, aku ini tidak dapat menebusnya, sebab aku akan merusakkan milik pusakaku sendiri. Aku mengharap engkau menebus apa yang seharusnya aku tebus, sebab aku tidak dapat menebusnya.\""
   },
   {Bible:"Ruth", Chapter:4, Verse:7, Page:1,
-    Kor:"○옛적에 이스라엘에는, 유산매매나 물물교환과 같은 일을 법적으로 분명히 할 때에는, 한쪽 사람이 다른 한쪽 사람에게 자기의 신을 벗어서 주는 관습이 있었다. 이스라엘에서는 이렇게 함으로써 일이 확정된다는 증거를 삼았다.",
+    Kor:"○옛적에 이스라엘에는, 유산매매나 물물교환과 같은 일을 법적으로 분명히 할 때에는, 한쪽 사람이 다른 한쪽 사람에게 자기의 신을 벗어서 주는 관습이 있었다. 이스라엘에서는, 이렇게 함으로써 일이 확정된다는 증거를 삼았다.",
     Chn:"从前，在以色列中要定夺什么事，或赎回，或交易，这人就脱鞋给那人。以色列人都以此为证据。",
     Eng:"(Now in earlier times in Israel, for the redemption and transfer of property to become final, one party took off his sandal and gave it to the other. This was the method of legalizing transactions in Israel.)",
     Ind:"Beginilah kebiasaan dahulu di Israel dalam hal menebus dan menukar: setiap kali orang hendak menguatkan sesuatu perkara, maka yang seorang menanggalkan kasutnya sebelah dan memberikannya kepada yang lain. Demikianlah caranya orang mensahkan perkara di Israel."
@@ -57,31 +57,31 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Boas kepada para tua-tua dan kepada semua orang di situ: \"Kamulah pada hari ini menjadi saksi, bahwa segala milik Elimelekh dan segala milik Kilyon dan Mahlon, aku beli dari tangan Naomi;"
   },
   {Bible:"Ruth", Chapter:4, Verse:10, Page:1,
-    Kor:"나는 말론의 아내인 모압 여인 룻도 아내로 맞아들여서, 그 유산이 고인의 이름으로 남아 있도록 하겠습니다. 그렇게 하여, 고인의 이름이 그의 고향 마을에서도 끊어지지 않고, 친족들 사이에서도 끊어지지 않도록 하겠습니다. 여러분은 오늘 이 일의 증인입니다.\"",
+    Kor:"나는 말론의 아내인 모압 여인 룻도 아내로 맞아들여서, 그 유산이 고인의 이름으로 남아 있도록 하겠습니다. 그렇게 하여 고인의 이름이 그의 고향 마을에서도 끊어지지 않고, 친족들 사이에서도 끊어지지 않도록 하겠습니다. 여러분은 오늘 이 일의 증인입니다.\"",
     Chn:"又娶了玛伦的妻摩押女子路得为妻，好在死人的产业上存留他的名，免得他的名在本族本乡灭没。你们今日可以作见证。」",
     Eng:"I have also acquired Ruth the Moabitess, Mahlon's widow, as my wife, in order to maintain the name of the dead with his property, so that his name will not disappear from among his family or from the town records. Today you are witnesses!\"",
     Ind:"juga Rut, perempuan Moab itu, isteri Mahlon, aku peroleh menjadi isteriku untuk menegakkan nama orang yang telah mati itu di atas milik pusakanya. Demikianlah nama orang itu tidak akan lenyap dari antara saudara-saudaranya dan dari antara warga kota. Kamulah pada hari ini menjadi saksi.\""
   },
   {Bible:"Ruth", Chapter:4, Verse:11, Page:1,
-    Kor:"그러자 성문 위 회관에 모인 온 마을 사람들과 원로들이 대답하였다. \"우리가 증인입니다. 주님께서, 그대의 집안으로 들어가는 그 여인을, 이스라엘 집안을 일으킨 두 여인 곧 라헬과 레아처럼 되게 해주시기를 빕니다. 에브랏 가문에서 그대가 번성하고, 또한 베들레헴에서 이름을 떨치기를 빕니다.",
+    Kor:"그러자 성문 위 회관에 모인 온 마을 사람들과 원로들이 대답하였다. \"우리가 증인입니다. 주께서 그대의 집안으로 들어가는 그 여인을, 이스라엘 집안을 일으킨 두 여인, 곧 라헬과 레아처럼 되게 해주시기를 빕니다. 에브랏 가문에서 그대가 번성하고, 또한 베들레헴에서 이름을 떨치기를 빕니다.",
     Chn:"在城门坐着的众民和长老都说：「我们作见证。愿耶和华使进你家的这女子，像建立以色列家的拉结、利亚二人一样。又愿你在以法他得亨通，在伯利恒得名声。",
     Eng:"Then the elders and all those at the gate said, \"We are witnesses. May the LORD make the woman who is coming into your home like Rachel and Leah, who together built up the house of Israel. May you have standing in Ephrathah and be famous in Bethlehem.",
     Ind:"Dan seluruh orang banyak yang hadir di pintu gerbang, dan para tua-tua berkata: \"Kamilah menjadi saksi. TUHAN kiranya membuat perempuan yang akan masuk ke rumahmu itu sama seperti Rahel dan Lea, yang keduanya telah membangunkan umat Israel. Biarlah engkau menjadi makmur di Efrata dan biarlah namamu termasyhur di Betlehem,"
   },
   {Bible:"Ruth", Chapter:4, Verse:12, Page:1,
-    Kor:"주님께서 그 젊은 부인을 통하여 그대에게 자손을 주셔서, 그대의 집안이 다말과 유다 사이에서 태어난 아들 베레스의 집안처럼 되게 하시기를 빕니다.\"",
+    Kor:"주께서 그 젊은 부인을 통하여 그대에게 자손을 주셔서, 그대의 집안이 다말과 유다 사이에서 태어난 아들 베레스의 집안처럼 되게 하시기를 빕니다.\"",
     Chn:"愿耶和华从这少年女子赐你后裔，使你的家像她玛从犹大所生法勒斯的家一般。」",
     Eng:"Through the offspring the LORD gives you by this young woman, may your family be like that of Perez, whom Tamar bore to Judah.\"",
     Ind:"keturunanmu kiranya menjadi seperti keturunan Peres yang dilahirkan Tamar bagi Yehuda oleh karena anak-anak yang akan diberikan TUHAN kepadamu dari perempuan muda ini!\""
   },
   {Bible:"Ruth", Chapter:4, Verse:13, Page:1,
-    Kor:"○보아스는 룻을 아내로 맞이하였다. 그 여인이 자기 아내가 되자, 그는 그 여인과 동침하였다. 주님께서 그 여인을 보살피시니, 그가 임신하여 아들을 낳았다.",
+    Kor:"○보아스는 룻을 아내로 맞이하였다. 그 여인이 자기 아내가 되자, 그는 그 여인과 동침하였다. 주께서 그 여인을 보살피시니, 그가 임신하여 아들을 낳았다.",
     Chn:"于是，波阿斯娶了路得为妻，与她同房。耶和华使她怀孕生了一个儿子。",
     Eng:"So Boaz took Ruth and she became his wife. Then he went to her, and the LORD enabled her to conceive, and she gave birth to a son.",
     Ind:"Lalu Boas mengambil Rut dan perempuan itu menjadi isterinya dan dihampirinyalah dia. Maka atas karunia TUHAN perempuan itu mengandung, lalu melahirkan seorang anak laki-laki."
   },
   {Bible:"Ruth", Chapter:4, Verse:14, Page:1,
-    Kor:"그러자 이웃 여인들이 나오미에게 말하였다. \"주님께 찬양을 드립니다. 주님께서는 오늘 이 집에 자손을 주셔서, 대가 끊어지지 않게 하셨습니다. 그의 이름이 이스라엘에서 늘 기리어지기를 바랍니다.",
+    Kor:"그러자 이웃 여인들이 나오미에게 말하였다. \"주께 찬양을 드립니다. 주께서는 오늘 이 집에 자손을 주셔서, 대가 끊어지지 않게 하셨습니다. 그의 이름이 이스라엘에서 늘 기리어지기를 바랍니다.",
     Chn:"妇人们对拿俄米说：「耶和华是应当称颂的！因为今日没有撇下你，使你无至近的亲属。愿这孩子在以色列中得名声。",
     Eng:"The women said to Naomi: \"Praise be to the LORD, who this day has not left you without a kinsman-redeemer. May he become famous throughout Israel!",
     Ind:"Sebab itu perempuan-perempuan berkata kepada Naomi: \"Terpujilah TUHAN, yang telah rela menolong engkau pada hari ini dengan seorang penebus. Termasyhurlah kiranya nama anak itu di Israel."

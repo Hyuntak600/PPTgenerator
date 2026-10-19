@@ -3,13 +3,13 @@
 BibleDB.ref("Daniel",7,28);
 BibleDB.add([
   {Bible:"Daniel", Chapter:7, Verse:1, Page:1,
-    Kor:"<네 마리 짐승 환상> 벨사살이 바빌론 왕이 된 첫 해에, 다니엘은 잠자리에서 꿈을 꾸면서, 머리 속으로 환상을 보고, 그 꿈을 적었다. 그가 적은 내용의 줄거리는 다음과 같다.",
+    Kor:"벨사살이 바빌론 왕이 된 첫 해에, 다니엘은 잠자리에서 꿈을 꾸면서, 머리 속으로 환상을 보고, 그 꿈을 적었다. 그가 적은 내용의 줄거리는 다음과 같다.",
     Chn:"巴比伦王伯沙撒元年，但以理在床上做梦，见了脑中的异象，就记录这梦，述说其中的大意。",
     Eng:"In the first year of Belshazzar king of Babylon, Daniel had a dream, and visions passed through his mind as he was lying on his bed. He wrote down the substance of his dream.",
     Ind:"Pada tahun pertama pemerintahan Belsyazar, raja Babel, bermimpilah Daniel dan mendapat penglihatan-penglihatan di tempat tidurnya. Lalu dituliskannya mimpi itu, dan inilah garis besarnya:"
   },
   {Bible:"Daniel", Chapter:7, Verse:2, Page:1,
-    Kor:"다음은 다니엘이 한 말이다. ○내가 밤에 환상을 보았는데, 동서남북 사방에서, 하늘로부터 바람이 큰 바다에 불어 닥쳤다.",
+    Kor:"이것은 다니엘이 한 말이다. \"내가 밤에 환상을 보았는데, 동서남북 사방에서, 하늘로부터 바람이 큰 바다에 불어 닥쳤다.",
     Chn:"但以理说： 我夜里见异象，看见天的四风陡起，刮在大海之上。",
     Eng:"Daniel said: \"In my vision at night I looked, and there before me were the four winds of heaven churning up the great sea.",
     Ind:"Berkatalah Daniel, demikian: \"Pada malam hari aku mendapat penglihatan, tampak keempat angin dari langit mengguncangkan laut besar,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Sementara aku memperhatikan tanduk-tanduk itu, tampak tumbuh di antaranya suatu tanduk lain yang kecil, sehingga tiga dari tanduk-tanduk yang dahulu itu tercabut; dan pada tanduk itu tampak ada mata seperti mata manusia dan mulut yang menyombong."
   },
   {Bible:"Daniel", Chapter:7, Verse:9, Page:1,
-    Kor:"<영원하신 분> 내가 바라보니, 옥좌들이 놓이고, 한 옥좌에 옛적부터 계신 분이 앉으셨는데, 옷은 눈과 같이 희고, 머리카락은 양 털과 같이 깨끗하였다. 옥좌에서는 불꽃이 일고, 옥좌의 바퀴에서는 불길이 치솟았으며,",
+    Kor:"○내가 바라보니, 옥좌들이 놓이고, 한 옥좌에 옛적부터 계신 분이 앉으셨는데, 옷은 눈과 같이 희고, 머리카락은 양 털과 같이 깨끗하였다. 옥좌에서는 불꽃이 일고, 옥좌의 바퀴에서는 불길이 치솟았으며,",
     Chn:"我观看， 见有宝座设立， 上头坐着亘古常在者。 他的衣服洁白如雪， 头发如纯净的羊毛。 宝座乃火焰， 其轮乃烈火。",
     Eng:"\"As I looked, \"thrones were set in place, and the Ancient of Days took his seat. His clothing was as white as snow; the hair of his head was white like wool. His throne was flaming with fire, and its wheels were all ablaze.",
     Ind:"Sementara aku terus melihat, takhta-takhta diletakkan, lalu duduklah Yang Lanjut Usianya; pakaian-Nya putih seperti salju dan rambut-Nya bersih seperti bulu domba; kursi-Nya dari nyala api dengan roda-rodanya dari api yang berkobar-kobar;"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Aku terus melihat dalam penglihatan malam itu, tampak datang dengan awan-awan dari langit seorang seperti anak manusia; datanglah ia kepada Yang Lanjut Usianya itu, dan ia dibawa ke hadapan-Nya."
   },
   {Bible:"Daniel", Chapter:7, Verse:14, Page:1,
-    Kor:"옛부터 계신 분이 그에게 권세와 영광과 나라를 주셔서, 민족과 언어가 다른 뭇 백성이 그를 경배하게 하셨다. 그 권세는 영원한 권세여서, 옮겨 가지 않을 것이며, 그 나라가 멸망하지 않을 것이다.",
+    Kor:"옛부터 계신 분이 그에게 권세와 영광과 나라를 주셔서, 민족과 언어가 다른 뭇 백성이 그를 경배하게 하셨다. 그 권세는 영원한 권세여서, 옮겨 가지 않을 것이며, 그 나라가 멸망하지 않을 것이다.\"",
     Chn:"得了权柄、荣耀、国度， 使各方、各国、各族的人都事奉他。 他的权柄是永远的，不能废去； 他的国必不败坏。",
     Eng:"He was given authority, glory and sovereign power; all peoples, nations and men of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.",
     Ind:"Lalu diberikan kepadanya kekuasaan dan kemuliaan dan kekuasaan sebagai raja, maka orang-orang dari segala bangsa, suku bangsa dan bahasa mengabdi kepadanya. Kekuasaannya ialah kekuasaan yang kekal, yang tidak akan lenyap, dan kerajaannya ialah kerajaan yang tidak akan musnah."
   },
   {Bible:"Daniel", Chapter:7, Verse:15, Page:1,
-    Kor:"<환상 해석> ○\"나 다니엘은 마음 속이 괴롭고, 머리의 환상들이 나를 번민하게 해서,",
+    Kor:"○\"나 다니엘은 마음 속이 괴롭고, 머리의 환상들이 나를 번민하게 해서,",
     Chn:"至于我—但以理，我的灵在我里面愁烦，我脑中的异象使我惊惶。",
     Eng:"\"I, Daniel, was troubled in spirit, and the visions that passed through my mind disturbed me.",
     Ind:"Maka aku, Daniel, terharu karena hal itu, dan penglihatan-penglihatan yang kulihat itu menggelisahkan aku."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Kesepuluh tanduk itu ialah kesepuluh raja yang muncul dari kerajaan itu. Sesudah mereka, akan muncul seorang raja; dia berbeda dengan raja-raja yang dahulu dan akan merendahkan tiga raja."
   },
   {Bible:"Daniel", Chapter:7, Verse:25, Page:1,
-    Kor:"그가 가장 높으신 분께 대항하여 말하며, 가장 높으신 분의 성도들을 괴롭히며, 정해진 때와 법을 바꾸려고 할 것이다. 성도들은 a한 때와 두 때와 반 때까지 그의 권세 아래에 놓일 것이다. (a 또는 '일 년과 이 년과 반 년')",
+    Kor:"그가 가장 높으신 분께 대항하여 말하며, 가장 높으신 분의 성도들을 괴롭히며, 정해진 때와 법을 바꾸려고 할 것이다. 성도들은 한 때와 두 때와 반 때까지 그의 권세 아래에 놓일 것이다.",
     Chn:"他必向至高者说夸大的话， 必折磨至高者的圣民， 必想改变节期和律法。 圣民必交付他手一载、二载、半载。",
     Eng:"He will speak against the Most High and oppress his saints and try to change the set times and the laws. The saints will be handed over to him for a time, times and half a time.",
     Ind:"Ia akan mengucapkan perkataan yang menentang Yang Mahatinggi, dan akan menganiaya orang-orang kudus milik Yang Mahatinggi; ia berusaha untuk mengubah waktu dan hukum, dan mereka akan diserahkan ke dalam tangannya selama satu masa dan dua masa dan setengah masa."

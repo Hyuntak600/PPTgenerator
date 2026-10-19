@@ -3,7 +3,7 @@
 BibleDB.ref("Job",22,30);
 BibleDB.add([
   {Bible:"Job", Chapter:22, Verse:1, Page:1,
-    Kor:"<엘리바스의 세 번째 발언> 데만 사람 엘리바스가 대답하였다.",
+    Kor:"데만 사람 엘리바스가 대답하였다.",
     Chn:"提幔人以利法回答说：",
     Eng:"Then Eliphaz the Temanite replied:",
     Ind:"Maka Elifas, orang Teman, menjawab:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Apakah karena takutmu akan Allah, maka engkau dihukum-Nya, dan dibawa-Nya ke pengadilan?"
   },
   {Bible:"Job", Chapter:22, Verse:5, Page:1,
-    Kor:"오히려 네 죄가 많고, 네 죄악이 끝이 없으니, 그러한 것이 아니냐?",
+    Kor:"오히려, 네 죄가 많고, 네 죄악이 끝이 없으니, 그러한 것이 아니냐?",
     Chn:"你的罪恶岂不是大吗？ 你的罪孽也没有穷尽；",
     Eng:"Is not your wickedness great? Are not your sins endless?",
     Ind:"Bukankah kejahatanmu besar dan kesalahanmu tidak berkesudahan?"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tetapi pikirmu: Tahu apa Allah? Dapatkah Ia mengadili dari balik awan-awan yang gelap?"
   },
   {Bible:"Job", Chapter:22, Verse:14, Page:1,
-    Kor:"짙은 구름에 그가 둘러싸여 어떻게 보실 수 있겠느냐? 다만 하늘에서만 왔다갔다 하실 뿐이겠지!\" 하는구나.",
+    Kor:"짙은 구름에 그가 둘러싸여 어떻게 보실 수 있겠느냐? 다만 하늘에서만, 왔다갔다 하실 뿐이겠지!\" 하는구나.",
     Chn:"密云将他遮盖，使他不能看见； 他周游穹苍。",
     Eng:"Thick clouds veil him, so he does not see us as he goes about in the vaulted heavens.'",
     Ind:"Awan meliputi Dia, sehingga Ia tidak dapat melihat; Ia berjalan-jalan sepanjang lingkaran langit!"

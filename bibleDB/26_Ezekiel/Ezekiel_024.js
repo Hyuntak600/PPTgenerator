@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",24,27);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:24, Verse:1, Page:1,
-    Kor:"<씻어도 소용없는 솥 예루살렘> 제 구년 열째 달 십일에, 주님께서 내게 말씀하셨다.",
+    Kor:"제 구년 열째 달 십일에, 주께서 내게 말씀하셨다.",
     Chn:"第九年十月初十日，耶和华的话又临到我说：",
     Eng:"In the ninth year, in the tenth month on the tenth day, the word of the LORD came to me:",
     Ind:"Pada tahun kesembilan, dalam bulan yang kesepuluh, pada tanggal sepuluh bulan itu, datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:24, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 오늘 날짜, 바로 오늘 날짜를 기록하여 두어라. 바빌로니아 왕이 바로 오늘 예루살렘을 치기 시작하였다.",
+    Kor:"\"사람아, 너는 오늘 날짜, 바로 오늘 날짜를 기록하여 두어라. 바빌로니아 왕이 바로 오늘 예루살렘을 치기 시작하였다.",
     Chn:"「人子啊，今日正是巴比伦王就近耶路撒冷的日子，你要将这日记下，",
     Eng:"\"Son of man, record this date, this very date, because the king of Babylon has laid siege to Jerusalem this very day.",
     Ind:"\"Hai anak manusia, tuliskanlah tanggal hari ini, ya, tanggal hari ini. Pada hari ini juga raja Babel mulai menyerang Yerusalem."
   },
   {Bible:"Ezekiel", Chapter:24, Verse:3, Page:1,
-    Kor:"너는 저 반역하는 족속에게 한 가지 비유를 들어 그들에게 말하여라.  '나 주 하나님이 말한다. 가마솥을 마련하여 걸고, 물을 부어라.",
+    Kor:"너는 저 반역하는 족속에게 한 가지 비유를 들어 그들에게 말하여라. '나 주 하나님이 말한다. 가마솥을 마련하여 걸고, 물을 부어 놓아라.",
     Chn:"要向这悖逆之家设比喻说，主耶和华如此说： 将锅放在火上， 放好了，就倒水在其中；",
     Eng:"Tell this rebellious house a parable and say to them: 'This is what the Sovereign LORD says: \"'Put on the cooking pot; put it on and pour water into it.",
     Ind:"Ucapkanlah suatu perumpamaan kepada kaum pemberontak dan katakanlah kepada mereka: Beginilah firman Tuhan ALLAH: Taruhlah kuali di atas api, taruhlah, dan tuanglah juga air ke dalamnya;"
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Susunlah banyak kayu, nyalakan api, biarlah dagingnya masak betul, buanglah kuahnya dan biarlah tulang-tulangnya hangus."
   },
   {Bible:"Ezekiel", Chapter:24, Verse:11, Page:1,
-    Kor:"그 빈 가마솥을 숯불 위에 올려 놓아, 가마솥을 뜨거워지게 하며, 가마솥의 놋쇠를 달궈서, 가마솥 안의 더러운 것을 녹이며, 가마솥의 녹을 태워 없애라.",
+    Kor:"그 빈 가마솥을 숯불 위에 올려 놓아, 가마솥을 뜨거워지게 하며, 가마솥의 놋쇠를 달궈서, 가마솥 안의 더러운 것을 녹이며, 가마솥의 녹을 태워서 없어지게 하여라.",
     Chn:"把锅倒空坐在炭火上，使锅烧热，使铜烧红，熔化其中的污秽，除净其上的锈。",
     Eng:"Then set the empty pot on the coals till it becomes hot and its copper glows so its impurities may be melted and its deposit burned away.",
     Ind:"Letakkanlah periuk itu kosong di atas bara api, supaya itu dibakar dan tembaganya menjadi merah, sehingga kotorannya hancur di dalamnya dan karatnya hilang."
   },
   {Bible:"Ezekiel", Chapter:24, Verse:12, Page:1,
-    Kor:"a이 성읍이 온갖 고생으로 지쳤으나, 그 많은 녹이 가마솥에서 없어지지 않으며, 불로 아무리 달구어도 녹이 없어지지 않는다. (a 12절의 히브리어 본문의 뜻이 불확실함)",
+    Kor:"이 성읍이 온갖 고생으로 지쳤으나, 그 많은 녹이 가마솥에서 없어지지 않으며, 불로 아무리 달구어도 녹이 없어지지 않는다.",
     Chn:"这锅劳碌疲乏，所长的大锈仍未除掉；这锈就是用火也不能除掉。",
     Eng:"It has frustrated all efforts; its heavy deposit has not been removed, not even by fire.",
     Ind:"Aku bersusah payah dengan sia-sia, sebab karatnya yang tebal tidak mau hilang dari padanya, biar dalam api."
   },
   {Bible:"Ezekiel", Chapter:24, Verse:13, Page:1,
-    Kor:"너의 더러운 죄 가운데는 음행이 있다. 음행으로 더러워진 너의 몸을 내가 깨끗하게 하려 하였으나, 네가 너 자신의 더러움에서 깨끗하게 되려고 하지 않았으니, 내가 너에게 분노를 다 쏟을 때까지는, 네가 다시 깨끗하게 되지 못할 것이다.",
+    Kor:"너의 더러운 죄 가운데는 음행이 있다. 음행으로 더러워진 너의 몸을 내가 깨끗하게 하려 하였으나, 네가 너 자신의 더러움에서 깨끗하게 되려고 하지 않았으니, 내가 너에게 분노를 다 풀 때까지는, 네가 다시 깨끗하게 되지 못할 것이다.",
     Chn:"在你污秽中有淫行，我洁净你，你却不洁净。你的污秽再不能洁净，直等我向你发的忿怒止息。",
     Eng:"\"'Now your impurity is lewdness. Because I tried to cleanse you but you would not be cleansed from your impurity, you will not be clean again until my wrath against you has subsided.",
     Ind:"Oleh karena engkau menajiskan dirimu dengan kemesumanmu, dan Aku ingin mentahirkan engkau, tetapi engkau tidak menjadi tahir dari kenajisanmu, maka engkau tidak akan ditahirkan lagi, sampai Aku melampiaskan amarah-Ku atasmu."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku, TUHAN, yang mengatakannya. Hal itu akan datang, dan Aku yang akan membuatnya. Aku tidak melalaikannya dan tidak merasa sayang, juga tidak menyesal. Aku akan menghakimi engkau menurut perbuatanmu, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:24, Verse:15, Page:1,
-    Kor:"<에스겔의 아내가 죽다> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:24, Verse:16, Page:1,
-    Kor:"○\"사람아, 나는 너의 눈에 들어 좋아하는 사람을 단번에 쳐죽여, 너에게서 빼앗아 가겠다. 그래도 너는 슬퍼하거나 울거나 눈물을 흘리지 말아라.",
+    Kor:"\"사람아, 나는 너의 눈에 들어 좋아하는 사람을 단번에 쳐죽여, 너에게서 빼앗아 가겠다. 그래도 너는 슬퍼하거나 울거나 눈물을 흘리지 말아라.",
     Chn:"「人子啊，我要将你眼目所喜爱的忽然取去，你却不可悲哀哭泣，也不可流泪，",
     Eng:"\"Son of man, with one blow I am about to take away from you the delight of your eyes. Yet do not lament or weep or shed any tears.",
     Ind:"\"Hai anak manusia, lihat, Aku hendak mengambil dari padamu dia yang sangat kaucintai seperti yang kena tulah, tetapi janganlah meratap ataupun menangis dan janganlah mengeluarkan air mata."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Maka bangsa itu berkata kepadaku: \"Tidakkah engkau bersedia memberitahukan kepada kami, apa artinya ini bagi kami, bahwa engkau melakukan demikian?\""
   },
   {Bible:"Ezekiel", Chapter:24, Verse:20, Page:1,
-    Kor:"○그래서 나는 '주님께서 나에게 이렇게 말씀하셨다'고 하면서 그들에게 대답하였다.",
+    Kor:"○그래서 나는 '주께서 나에게 이렇게 말씀하셨다'고 하면서 그들에게 대답하였다.",
     Chn:"我回答他们：「耶和华的话临到我说：",
     Eng:"So I said to them, \"The word of the LORD came to me:",
     Ind:"Lalu kujawab mereka: \"Firman TUHAN sudah datang kepadaku:"

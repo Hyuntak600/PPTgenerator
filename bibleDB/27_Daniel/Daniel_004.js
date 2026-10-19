@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",4,37);
 BibleDB.add([
   {Bible:"Daniel", Chapter:4, Verse:1, Page:1,
-    Kor:"<느부갓네살 왕의 두 번째 꿈> 느부갓네살 왕이 전국에 사는, 민족과 언어가 다른 뭇 백성에게 다음과 같은 조서를 내렸다. ○\"백성에게 평강이 넘치기를 바란다.",
+    Kor:"느부갓네살 왕이 전국에 사는, 민족과 언어가 다른 뭇 백성에게 다음과 같은 조서를 내렸다. 백성에게 평강이 넘치기를 바란다.",
     Chn:"尼布甲尼撒王晓谕住在全地各方、各国、各族的人说：「愿你们大享平安！",
     Eng:"King Nebuchadnezzar, To the peoples, nations and men of every language, who live in all the world: May you prosper greatly!",
     Ind:"Dari raja Nebukadnezar kepada orang-orang dari segala bangsa, suku bangsa dan bahasa, yang diam di seluruh bumi: \"Bertambah-tambahlah kiranya kesejahteraanmu!"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Maka aku mengeluarkan titah, bahwa semua orang bijaksana di Babel harus dibawa menghadap aku, supaya mereka memberitahukan kepadaku makna mimpi itu."
   },
   {Bible:"Daniel", Chapter:4, Verse:7, Page:1,
-    Kor:"마술사들과 주술가들과 a점성가들과 점쟁이들이 나에게로 왔을 때에, 내가 그들에게 꿈 이야기를 하였으나, 그들은 나에게 그 꿈을 해몽해 주지 못하였다.(a 또는 '갈대아 사람들')",
+    Kor:"마술사들과 주술가들과 점성가들과 점쟁이들이 나에게로 왔을 때에, 내가 그들에게 꿈 이야기를 하였으나, 그들은 나에게 그 꿈을 해몽해 주지 못하였다.",
     Chn:"于是那些术士、用法术的、迦勒底人、观兆的都进来，我将那梦告诉了他们，他们却不能把梦的讲解告诉我。",
     Eng:"When the magicians, enchanters, astrologers and diviners came, I told them the dream, but they could not interpret it for me.",
     Ind:"Kemudian orang-orang berilmu, ahli jampi, para Kasdim dan ahli nujum datang menghadap dan aku menceritakan kepada mereka mimpi itu, tetapi mereka tidak dapat memberitahukan maknanya kepadaku."
   },
   {Bible:"Daniel", Chapter:4, Verse:8, Page:1,
-    Kor:"마침내 다니엘이 내 앞에 나타났는데, 그는 내 신의 이름을 따라서 이름을 벨드사살이라고 고친 사람이다. 그는 거룩한 b신들의 영을 지닌 사람이어서, 내가 꾼 꿈을 그에게 말해 주었다.(b 또는 '하나님')",
+    Kor:"마침내 다니엘이 내 앞에 나타났는데, 그는 내 신의 이름을 따라서 이름을 벨드사살이라고 고친 사람이다. 그는 거룩한 신들의 영을 지닌 사람이어서, 내가 꾼 꿈을 그에게 말해 주었다.",
     Chn:"末后那照我神的名，称为伯提沙撒的但以理来到我面前，他里头有圣神的灵，我将梦告诉他说：",
     Eng:"Finally, Daniel came into my presence and I told him the dream. (He is called Belteshazzar, after the name of my god, and the spirit of the holy gods is in him.)",
     Ind:"Pada akhirnya Daniel datang menghadap aku, yakni Daniel yang dinamai Beltsazar menurut nama dewaku, dan yang penuh dengan roh para dewa yang kudus. Lalu kuceritakan kepadanya mimpi itu:"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Kemudian dalam penglihatan yang kudapat di tempat tidurku itu tampak seorang penjaga, seorang kudus, turun dari langit;"
   },
   {Bible:"Daniel", Chapter:4, Verse:14, Page:1,
-    Kor:"큰소리로 외치며 이렇게 명령하였다.  '이 나무를 베고서 가지를 꺾고, 잎사귀를 떨고서 열매를 헤쳐라. 나무 밑에 있는 짐승들을 쫓아 버리고, 가지에 깃든 새들을 쫓아내어라.",
+    Kor:"큰소리로 외치며 이렇게 명령하였다. '이 나무를 베고서 가지를 꺾고, 잎사귀를 떨고서 열매를 헤쳐라. 나무 밑에 있는 짐승들을 쫓아 버리고, 가지에 깃든 새들을 쫓아내어라.",
     Chn:"大声呼叫说：『伐倒这树！砍下枝子！摇掉叶子！抛散果子！使走兽离开树下，飞鸟躲开树枝。",
     Eng:"He called in a loud voice: 'Cut down the tree and trim off its branches; strip off its leaves and scatter its fruit. Let the animals flee from under it and the birds from its branches.",
     Ind:"ia berseru dengan nyaring, demikian katanya: Tebanglah pohon itu dan potonglah dahan-dahannya, gugurkanlah daun-daunnya dan hamburkanlah buah-buahnya! Biarlah binatang-binatang lari dari bawahnya dan burung-burung dari dahan-dahannya!"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi biarkanlah tunggulnya tinggal di dalam tanah, terikat dengan rantai dari besi dan tembaga, di rumput muda di padang; biarlah ia dibasahi dengan embun dari langit dan bersama-sama dengan binatang-binatang mendapat bagiannya dari rumput di bumi!"
   },
   {Bible:"Daniel", Chapter:4, Verse:16, Page:1,
-    Kor:"또 그의 마음은 변하여서 사람의 마음과 같지 않고, 짐승의 마음을 가지고서 c일곱 때를 지낼 것이다. (c 또는 '일곱 해')",
+    Kor:"또 그의 마음은 변하여서 사람의 마음과 같지 않고, 짐승의 마음을 가지고서 일곱 때를 지낼 것이다.",
     Chn:"使他的心改变，不如人心，给他一个兽心，使他经过七期。",
     Eng:"Let his mind be changed from that of a man and let him be given the mind of an animal, till seven times pass by for him.",
     Ind:"Biarlah hati manusianya berubah dan diberikan kepadanya hati binatang. Demikianlah berlaku atasnya sampai tujuh masa berlalu."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Titah ini adalah menurut putusan para penjaga dan hal ini menurut perkataan orang-orang kudus, supaya orang-orang yang hidup tahu, bahwa Yang Mahatinggi berkuasa atas kerajaan manusia dan memberikannya kepada siapa yang dikehendaki-Nya, bahkan orang yang paling kecil sekalipun dapat diangkat-Nya untuk kedudukan itu."
   },
   {Bible:"Daniel", Chapter:4, Verse:18, Page:1,
-    Kor:"○나 느부갓네살 왕이 이런 꿈을 꾸었으니, 너 벨드사살은 이 꿈을 해몽하여라. 내 나라의 모든 지혜자가 그 꿈을 해몽하여 나에게 알려 주지 못하였으나, 너는 네 안에 거룩한 b신들의 영이 있으니, 할 수 있을 것이다.\"(b 또는 '하나님')",
+    Kor:"○나 느부갓네살 왕이 이런 꿈을 꾸었으니, 너 벨드사살은 이 꿈을 해몽하여라. 내 나라의 모든 지혜자가 그 꿈을 해몽하여 나에게 알려 주지 못하였으나, 너는 네 안에 거룩한 신들의 영이 있으니, 할 수 있을 것이다.\"",
     Chn:"「这是我—尼布甲尼撒王所做的梦。伯提沙撒啊，你要说明这梦的讲解；因为我国中的一切哲士都不能将梦的讲解告诉我，惟独你能，因你里头有圣神的灵。」",
     Eng:"\"This is the dream that I, King Nebuchadnezzar, had. Now, Belteshazzar, tell me what it means, for none of the wise men in my kingdom can interpret it for me. But you can, because the spirit of the holy gods is in you.\"",
     Ind:"Itulah mimpi yang telah kudapat, aku, raja Nebukadnezar; sekarang engkau, Beltsazar, katakanlah kepadaku maknanya, sebab semua orang bijaksana dari kerajaanku tidak dapat memberitahukan maknanya kepadaku; tetapi engkaulah yang sanggup, karena engkau penuh dengan roh para dewa yang kudus!\""
   },
   {Bible:"Daniel", Chapter:4, Verse:19, Page:1,
-    Kor:"<다니엘의 꿈 해몽> ○왕의 말이 끝났을 때에, 일명 벨드사살이라고 하는 다니엘은 한동안 놀라서 몹시 당황하였다. 왕이 그에게 말하였다. \"벨드사살아, 이 꿈과 그 해몽이 어떠하든지 번민하지 말아라.\" ○벨드사살이 아뢰었다. \"임금님, 이 꿈은 임금님의 원수들이 꾸었더라면 좋았을 뻔 했습니다. 해몽도 임금님의 원수들에게나 해줄 수 있으면 좋겠습니다.",
+    Kor:"○왕의 말이 끝났을 때에, 일명 벨드사살이라고 하는 다니엘은 한동안 놀라서 몹시 당황하였다. 왕이 그에게 말하였다. \"벨드사살아, 이 꿈과 그 해몽이 어떠하든지 번민하지 말아라.\" ○벨드사살이 아뢰었다. \"임금님, 이 꿈은 임금님의 원수들이 꾸었더라면 좋았을 뻔 했습니다. 해몽도 임금님의 원수들에게나 해줄 수 있으면 좋겠습니다.",
     Chn:"于是称为伯提沙撒的但以理惊讶片时，心意惊惶。王说：「伯提沙撒啊，不要因梦和梦的讲解惊惶。」伯提沙撒回答说：「我主啊，愿这梦归与恨恶你的人，讲解归与你的敌人。",
     Eng:"Then Daniel (also called Belteshazzar) was greatly perplexed for a time, and his thoughts terrified him. So the king said, \"Belteshazzar, do not let the dream or its meaning alarm you.\" Belteshazzar answered, \"My lord, if only the dream appliad to your enemies and its meaning to your adversaries!",
     Ind:"Lalu berdirilah Daniel yang namanya Beltsazar, tercengang beberapa saat, pikiran-pikirannya menggelisahkan dia. Berkatalah raja: \"Beltsazar, janganlah mimpi dan maknanya itu menggelisahkan engkau!\" Beltsazar menjawab: \"Tuanku, biarlah mimpi itu tertimpa atas musuh tuanku dan maknanya atas seteru tuanku!"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Pohon yang tuanku lihat itu, yang bertambah besar dan kuat, yang tingginya sampai ke langit dan yang terlihat sampai ke seluruh bumi,"
   },
   {Bible:"Daniel", Chapter:4, Verse:21, Page:1,
-    Kor:"그 잎이 무성하여 아름답고, 그 열매가 아주 많아서, 온 세상 피조물의 먹거리가 되었고, 그 나무 아래에서 들짐승이 쉬었으며, 그 가지에는 하늘의 새들이 깃들었다고 하셨습니다.",
+    Kor:"그 잎이 무성하여 아름답고, 그 열매가 아주 많아서, 온 세상 피조물의 먹을거리가 되었고, 그 나무 아래에서 들짐승이 쉬었으며, 그 가지에는 하늘의 새들이 깃들었다고 하셨습니다.",
     Chn:"叶子华美，果子甚多，可作众生的食物；田野的走兽住在其下；天空的飞鸟宿在枝上。",
     Eng:"with beautiful leaves and abundant fruit, providing food for all, giving shelter to the beasts of the field, and having nesting places in its branches for the birds of the air--",
     Ind:"yang daun-daunnya indah dan buahnya berlimpah-limpah dan padanya ada makanan bagi semua yang hidup, yang di bawahnya ada binatang-binatang di padang dan di dahan-dahannya bersarang burung-burung di udara--"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"tuankulah itu, ya raja, tuanku yang telah bertambah besar dan kuat, yang kebesarannya bertambah sampai ke langit, dan yang kekuasaannya sampai ke ujung bumi!"
   },
   {Bible:"Daniel", Chapter:4, Verse:23, Page:1,
-    Kor:"임금님이 보시니, 거룩한 감시자가 하늘로부터 내려와서, 이렇게 말하였습니다. '이 나무를 베어 없애되, 다만 뿌리의 그루터기는 땅에 남겨 두고, 쇠줄과 놋줄로 동여서 들풀 속에 버려 두고, 하늘에서 내리는 이슬에 젖게 하고, 들짐승과 함께 어울리게 하여라. 이렇게 c일곱 때를 지내도록 하여라.'(c 또는 '일곱 해')",
+    Kor:"임금님이 보시니, 거룩한 감시자가 하늘로부터 내려와서, 이렇게 말하였습니다. '이 나무를 베어 없애되, 다만 뿌리의 그루터기는 땅에 남겨 두고, 쇠줄과 놋줄로 동여서 들풀 속에 버려 두고, 하늘에서 내리는 이슬에 젖게 하고, 들짐승과 함께 어울리게 하여라. 이렇게 일곱 때를 지내도록 하여라.'",
     Chn:"王既看见一位守望的圣者从天而降，说：『将这树砍伐毁坏，树丕却要留在地内，用铁圈和铜圈箍住；在田野的青草中，让天露滴湿，使他与地上的兽一同吃草，直到经过七期。』",
     Eng:"\"You, O king, saw a messenger, a holy one, coming down from heaven and saying, 'Cut down the tree and destroy it, but leave the stump, bound with iron and bronze, in the grass of the field, while its roots remain in the ground. Let him be drenched with the dew of heaven; let him live like the wild animals, until seven times pass by for him.'",
     Ind:"Tentang yang tuanku raja lihat, yakni seorang penjaga, seorang kudus, yang turun dari langit, sambil berkata: Tebanglah pohon ini dan binasakanlah dia, tetapi biarkanlah tunggulnya ada di dalam tanah, terikat dengan rantai dari besi dan tembaga, di rumput muda di padang, dan biarlah ia dibasahi dengan embun dari langit dan mendapat bagiannya bersama-sama dengan binatang-binatang di padang, hingga sudah berlaku yang demikian atasnya sampai tujuh masa berlalu--"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"inilah maknanya, ya raja, dan inilah putusan Yang Mahatinggi mengenai tuanku raja:"
   },
   {Bible:"Daniel", Chapter:4, Verse:25, Page:1,
-    Kor:"임금님은 사람에게서 쫓겨나셔서, 들짐승과 함께 사시며, 소처럼 풀을 뜯고, 하늘에서 내리는 이슬에 젖으실 것입니다. 이렇게 c일곱 때가 지나간 뒤에, 임금님은 비로소, 가장 높으신 분이 인간의 나라를 다스리신다는 것과, 누구든지 그의 뜻에 맞는 사람에게 나라를 주신다는 것을 깨달으실 것입니다.(c 또는 '일곱 해')",
+    Kor:"임금님은 사람에게서 쫓겨나셔서, 들짐승과 함께 사시며, 소처럼 풀을 뜯고, 하늘에서 내리는 이슬에 젖으실 것입니다. 이렇게 일곱 때가 지나간 뒤에, 임금님은 비로소, 가장 높으신 분이 인간의 나라를 다스리신다는 것과, 누구든지 그의 뜻에 맞는 사람에게 나라를 주신다는 것을 깨달으실 것입니다.",
     Chn:"你必被赶出离开世人，与野地的兽同居，吃草如牛，被天露滴湿，且要经过七期。等你知道至高者在人的国中掌权，要将国赐与谁就赐与谁。",
     Eng:"You will be driven away from people and will live with the wild animals; you will eat grass like cattle and be drenched with the dew of heaven. Seven times will pass by for you until you acknowledge that the Most High is sovereign over the kingdoms of men and gives them to anyone he wishes.",
     Ind:"tuanku akan dihalau dari antara manusia dan tempat tinggal tuanku akan ada di antara binatang-binatang di padang; kepada tuanku akan diberikan makanan rumput, seperti kepada lembu, dan tuanku akan dibasahi dengan embun dari langit; dan demikianlah akan berlaku atas tuanku sampai tujuh masa berlalu, hingga tuanku mengakui, bahwa Yang Mahatinggi berkuasa atas kerajaan manusia dan memberikannya kepada siapa yang dikehendaki-Nya."
   },
   {Bible:"Daniel", Chapter:4, Verse:26, Page:1,
-    Kor:"또 나무 뿌리의 그루터기를 남겨 두라고 명령하신 것은, d하나님이 세상을 다스리신다는 것을 임금님이 깨달으신 다음에야, 임금님의 나라가 굳게 선다는 뜻입니다.(d 아람어 본문, '하늘이')",
+    Kor:"또 나무 뿌리의 그루터기를 남겨 두라고 명령하신 것은, 하나님이 세상을 다스리신다는 것을 임금님이 깨달으신 다음에야, 임금님의 나라가 굳게 선다는 뜻입니다.",
     Chn:"守望者既吩咐存留树丕，等你知道诸天掌权，以后你的国必定归你。",
     Eng:"The command to leave the stump of the tree with its roots means that your kingdom will be restored to you when you acknowledge that Heaven rules.",
     Ind:"Yang dikatakan tentang membiarkan tunggul pohon itu, berarti: kerajaan tuanku akan kembali tuanku pegang segera sesudah tuanku mengakui, bahwa Sorgalah yang mempunyai kekuasaan."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Raja belum habis bicara, ketika suatu suara terdengar dari langit: \"Kepadamu dinyatakan, ya raja Nebukadnezar, bahwa kerajaan telah beralih dari padamu;"
   },
   {Bible:"Daniel", Chapter:4, Verse:32, Page:1,
-    Kor:"너는 사람 사는 세상에서 쫓겨나서 들짐승과 함께 살면서 소처럼 풀을 뜯어먹을 것이다. 이와 같이 c일곱 때를 지낸 다음에야, 너는 가장 높으신 분이 인간의 나라를 다스리신다는 것과, 그의 뜻에 맞는 사람에게 나라를 주신다는 것을 알게 될 것이다.\"(c 또는 '일곱 해')",
+    Kor:"너는 사람 사는 세상에서 쫓겨나서 들짐승과 함께 살면서 소처럼 풀을 뜯어먹을 것이다. 이와 같이 일곱 때를 지낸 다음에야, 너는 가장 높으신 분이 인간의 나라를 다스리신다는 것과, 그의 뜻에 맞는 사람에게 나라를 주신다는 것을 알게 될 것이다.\"",
     Chn:"你必被赶出离开世人，与野地的兽同居，吃草如牛，且要经过七期。等你知道至高者在人的国中掌权，要将国赐与谁就赐与谁。」",
     Eng:"You will be driven away from people and will live with the wild animals; you will eat grass like cattle. Seven times will pass by for you until you acknowledge that the Most High is sovereign over the kingdoms of men and gives them to anyone he wishes.\"",
     Ind:"engkau akan dihalau dari antara manusia dan tempat tinggalmu akan ada di antara binatang-binatang di padang; kepadamu akan diberikan makanan rumput seperti kepada lembu; dan demikianlah akan berlaku atasmu sampai tujuh masa berlalu, hingga engkau mengakui, bahwa Yang Mahatinggi berkuasa atas kerajaan manusia dan memberikannya kepada siapa yang dikehendaki-Nya!\""
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Pada saat itu juga terlaksanalah perkataan itu atas Nebukadnezar, dan ia dihalau dari antara manusia dan makan rumput seperti lembu, dan tubuhnya basah oleh embun dari langit, sampai rambutnya menjadi panjang seperti bulu burung rajawali dan kukunya seperti kuku burung."
   },
   {Bible:"Daniel", Chapter:4, Verse:34, Page:1,
-    Kor:"<느부갓네살 왕의 하나님 찬양> ○\"정해진 기간이 다 되어, 나 느부갓네살은 하늘을 우러러보고서 정신을 되찾았고, 그리고 가장 높으신 분을 찬송하고, 영원하신 분을 찬양하며, 그에게 영광을 돌렸다.  그의 통치 영원하고 그의 나라 대대로 이어진다.",
+    Kor:"○\"정해진 기간이 다 되어, 나 느부갓네살은 하늘을 우러러보고서 정신을 되찾았고, 그리고 가장 높으신 분을 찬송하고, 영원하신 분을 찬양하며, 그에게 영광을 돌렸다. 그의 통치 영원하고 그의 나라 대대로 이어진다.",
     Chn:"日子满足，我—尼布甲尼撒举目望天，我的聪明复归于我，我便称颂至高者，赞美尊敬活到永远的　神。 他的权柄是永有的； 他的国存到万代。",
     Eng:"At the end of that time, I, Nebuchadnezzar, raised my eyes toward heaven, and my sanity was restored. Then I praised the Most High; I honored and glorified him who lives forever. His dominion is an eternal dominion; his kingdom endures from generation to generation.",
     Ind:"Tetapi setelah lewat waktu yang ditentukan, aku, Nebukadnezar, menengadah ke langit, dan akal budiku kembali lagi kepadaku. Lalu aku memuji Yang Mahatinggi dan membesarkan dan memuliakan Yang Hidup kekal itu, karena kekuasaan-Nya ialah kekuasaan yang kekal dan kerajaan-Nya turun-temurun."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Pada waktu akal budiku kembali kepadaku, kembalilah juga kepadaku kebesaran dan kemuliaanku untuk kemasyhuran kerajaanku. Para menteriku dan para pembesarku menjemput aku lagi; aku dikembalikan kepada kerajaanku, bahkan kemuliaan yang lebih besar dari dahulu diberikan kepadaku."
   },
   {Bible:"Daniel", Chapter:4, Verse:37, Page:1,
-    Kor:"이제 나 느부갓네살은 하늘의 왕을 찬양하고 높이며, 그분에게 영광을 돌리는 바이다.  과연 그가 하시는 일은 모두 참되며, 그의 모든 길은 공의로우니, 그는 교만한 이를 낮추신다.\"",
+    Kor:"이제 나 느부갓네살은 하늘의 왕을 찬양하고 높이며, 그분에게 영광을 돌리는 바이다. 과연 그가 하시는 일은 모두 참되며, 그의 모든 길은 공의로우니, 그는 교만한 이를 낮추신다.\"",
     Chn:"现在我—尼布甲尼撒赞美、尊崇、恭敬天上的王；因为他所做的全都诚实，他所行的也都公平。那行动骄傲的，他能降为卑。",
     Eng:"Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because everything he does is right and all his ways are just. And those who walk in pride he is able to humble.",
     Ind:"Jadi sekarang aku, Nebukadnezar, memuji, meninggikan dan memuliakan Raja Sorga, yang segala perbuatan-Nya adalah benar dan jalan-jalan-Nya adalah adil, dan yang sanggup merendahkan mereka yang berlaku congkak."

@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",14,33);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:14, Verse:1, Page:1,
-    Kor:"<압살롬을 예루살렘으로 돌아오게 하다> 왕의 마음이 압살롬에게로 쏠리는 것을, 스루야의 아들 요압이 알았다.",
+    Kor:"왕의 마음이 압살롬에게로 쏠리는 것을, 스루야의 아들 요압이 알았다.",
     Chn:"洗鲁雅的儿子约押，知道王心里想念押沙龙，",
     Eng:"Joab son of Zeruiah knew that the king's heart longed for Absalom.",
     Ind:"Ketika Yoab, anak Zeruya, mengetahui, bahwa hati raja merindukan Absalom,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lalu berbicaralah raja kepada perempuan itu: \"Pulanglah ke rumahmu, mengenai engkau akan kuberi perintah.\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:9, Page:1,
-    Kor:"그러나 드고아 여인은 왕에게 아뢰었다. \"우리의 높으신 임금님께서 무엇을 하시든지, 이 일에 있어서 허물은 저와 제 아버지의 집안에 있습니다. 임금님과 왕실에는 아무런 허물이 없습니다.\"",
+    Kor:"그러나 드고아 여인은 왕에게 아뢰었다. \"우리의 높으신 임금님께서 무엇을 하시든지, 이 일에 있어서 허물은 저와 제 아버지의 집안에 있습니다. 임금님과 왕실에는, 아무런 허물이 없습니다.\"",
     Chn:"提哥亚妇人又对王说：「我主我王，愿这罪归我和我父家，与王和王的位无干。」",
     Eng:"But the woman from Tekoa said to him, \"My lord the king, let the blame rest on me and on my father's family, and let the king and his throne be without guilt.\"",
     Ind:"Perempuan Tekoa itu berkata kepada raja: \"Aku dan keluargaku akan menanggung kesalahan itu, ya tuanku raja, tetapi raja dan takhtanya tak bersalah.\""
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah raja: \"Jika ada orang yang mengatakan apa-apa lagi terhadap engkau, bawalah orang itu menghadap aku, maka ia tidak akan mengusik engkau lagi.\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:11, Page:1,
-    Kor:"여인은 또 간청하였다. \"그러면 임금님, 임금님께서 섬기시는 주 하나님께 간구하셔서, 저의 죽은 아들의 원수를 갚으려고 하는 집안 사람들이 살아 있는 저의 아들까지 죽이는 크나큰 범죄를 저지르지 못하게 막아 주시기를 바랍니다.\" 왕이 대답하였다. \"주님께서 확실히 살아 계심을 두고 맹세하지만, 네 아들의 머리카락 하나도 땅에 떨어지지 않게 하겠다.\"",
+    Kor:"여인은 또 간청하였다. \"그러면 임금님, 임금님께서 섬기시는 주 하나님께 간구하셔서, 저의 죽은 아들의 원수를 갚으려고 하는 집안 사람들이, 살아 있는 저의 아들까지 죽이는 크나큰 범죄를 저지르지 못하게 막아 주시기를 바랍니다.\" 왕이 대답하였다. \"주께서 확실히 살아 계심을 두고 맹세하지만, 네 아들의 머리카락 하나도 땅에 떨어지지 않게 하겠다.\"",
     Chn:"妇人说：「愿王记念耶和华—你的　神，不许报血仇的人施行灭绝，恐怕他们灭绝我的儿子。」王说：「我指着永生的耶和华起誓：你的儿子连一根头发也不致落在地上。」",
     Eng:"She said, \"Then let the king invoke the LORD his God to prevent the avenger of blood from adding to the destruction, so that my son will not be destroyed.\" \"As surely as the LORD lives,\" he said, \"not one hair of your son's head will fall to the ground.\"",
     Ind:"Kata perempuan itu: \"Kiranya raja ingat kepada TUHAN, Allahmu, supaya si penuntut tebusan darah jangan terlalu banyak menimbulkan kemusnahan dan supaya mereka jangan memunahkan anakku itu.\" Lalu berkatalah raja: \"Demi TUHAN yang hidup--sehelai rambutpun dari kepala anakmu itu takkan jatuh ke bumi!\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:12, Page:1,
-    Kor:"○그 여인이 또 간청하였다. \"이 종이 높으신 임금님께 한 말씀만 더 드리도록 허락하여 주시기 바랍니다.\" 왕이 그렇게 하라고 하니,",
+    Kor:"○그 여인이 또 간청하였다. \"이 종이 높으신 임금님께, 한 말씀만 더 드리도록 허락하여 주시기 바랍니다.\" 왕이 그렇게 하라고 하니,",
     Chn:"妇人说：「求我主我王容婢女再说一句话。」王说：「你说吧！」",
     Eng:"Then the woman said, \"Let your servant speak a word to my lord the king.\" \"Speak,\" he replied.",
     Ind:"Kemudian berkatalah perempuan itu: \"Izinkanlah hambamu ini berkata sepatah kata lagi kepada tuanku raja.\" Jawabnya: \"Katakanlah.\""
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Juga hambamu ini berpikir: perkataan tuanku raja tentulah akan menenangkan hati, sebab seperti malaikat Allah, demikianlah tuanku raja, yang dapat membeda-bedakan apa yang baik dan jahat. Dan TUHAN, Allahmu, kiranya menyertai tuanku.\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:18, Page:1,
-    Kor:"○마침내 왕이 그 여인에게 물었다. \"너는 내가 묻는 말을, 내 앞에서 조금도 숨기지 말고 대답하여라.\" 그 여인이 대답하였다. \"높으신 임금님의 분부대로 하겠습니다.\"",
+    Kor:"○마침내, 왕이 그 여인에게 물었다. \"너는 내가 묻는 말을, 내 앞에서 조금도 숨기지 말고 대답하여라.\" 그 여인이 대답하였다. \"높으신 임금님의 분부대로 하겠습니다.\"",
     Chn:"王对妇人说：「我要问你一句话，你一点不要瞒我。」妇人说：「愿我主我王说。」",
     Eng:"Then the king said to the woman, \"Do not keep from me the answer to what I am going to ask you.\" \"Let my lord the king speak,\" the woman said.",
     Ind:"Lalu raja menjawab, katanya kepada perempuan itu: \"Baiklah jangan sembunyikan kepadaku apa yang hendak kutanyakan kepadamu.\" Kata perempuan itu: \"Berkatalah kiranya tuanku raja!\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:19, Page:1,
-    Kor:"왕이 물었다. \"너에게 이 모든 일을 시킨 사람은 바로 요압이렷다?\" 여인이 대답하였다. \"높으신 임금님, 임금님께서 확실히 살아 계심을 두고 맹세하지만, 높으신 임금님께서 무슨 말씀을 하시면, 오른쪽으로든 왼쪽으로든, 피할 길이 없습니다. 저에게 이런 일을 시킨 사람은 임금님의 신하 요압입니다. 그가 이 모든 말을 이 종의 입에 담아 주었습니다.",
+    Kor:"왕이 물었다. \"너에게 이 모든 일을 시킨 사람은 바로 요압이렷다?\" 여인이 대답하였다. \"높으신 임금님, 임금님께서 확실히 살아 계심을 두고 맹세하지만, 높으신 임금님께서 무슨 말씀을 하시면, 오른쪽으로나 왼쪽으로나, 피할 길이 없습니다. 저에게 이런 일을 시킨 사람은 임금님의 신하 요압입니다. 그가 이 모든 말을 이 종의 입에 담아 주었습니다.",
     Chn:"王说：「你这些话莫非是约押的主意吗？」妇人说：「我敢在我主我王面前起誓：王的话正对，不偏左右，是王的仆人约押吩咐我的，这些话是他教导我的。",
     Eng:"The king asked, \"Isn't the hand of Joab with you in all this?\" The woman answered, \"As surely as you live, my lord the king, no one can turn to the right or to the left from anything my lord the king says. Yes, it was your servant Joab who instructed me to do this and who put all these words into the mouth of your servant.",
     Ind:"Kemudian bertanyalah raja: \"Adakah Yoab campur tangan dengan engkau dalam semuanya ini?\" Perempuan itu menjawab: \"Demi hidupmu, tuanku raja, tidaklah mungkin untuk menyimpang ke kanan atau ke kiri dari segala yang tuanku raja katakan. Sesungguhnya hambamu Yoab yang memerintahkan daku; dialah yang menaruh ke dalam mulut hambamu segala perkataan ini."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Dengan maksud untuk mengubah rupa perkara itu maka hambamu Yoab melakukan perkara ini. Tetapi tuanku bijaksana sama seperti malaikat Allah, sehingga mengetahui semua yang terjadi di bumi.\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:21, Page:1,
-    Kor:"○그러자 왕이 직접 요압에게 명령을 내렸다. \"보시오, 내가 장군의 뜻대로 하기로 결심하였으니, 가서, 그 어린 아이 압살롬을 데려오시오.\"",
+    Kor:"○그러자 왕이 직접 요압에게 명령을 내렸다. \"보시오, 내가 그대의 뜻대로 하기로 결심하였으니, 가서, 그 어린 아이 압살롬을 데려오시오.\"",
     Chn:"王对约押说：「我应允你这事。你可以去，把那少年人押沙龙带回来。」",
     Eng:"The king said to Joab, \"Very well, I will do it. Go, bring back the young man Absalom.\"",
     Ind:"Sesudah itu berkatalah raja kepada Yoab: \"Baik, kukabulkan permohonan ini. Pergilah, bawalah kembali orang muda Absalom itu.\""
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Lalu bangunlah Yoab, ia pergi ke Gesur dan membawa Absalom ke Yerusalem."
   },
   {Bible:"2Samuel", Chapter:14, Verse:24, Page:1,
-    Kor:"○그러나 왕의 지시는 단호하였다. \"그를 집으로 돌아가게 하여라. 그러나 내 얼굴은 볼 수 없다.\" 그리하여 압살롬은 아버지에게 인사도 하지 못하고, 자기 집으로 돌아갔다.",
+    Kor:"○그러나 왕의 지시는 단호하였다. \"그를 집으로 돌아가게 하여라. 그러나 내 얼굴은 볼 수 없다.\" 그리하여 압살롬은, 아버지에게 인사도 하지 못하고, 자기 집으로 돌아갔다.",
     Chn:"王说：「使他回自己家里去，不要见我的面。」押沙龙就回自己家里去，没有见王的面。",
     Eng:"But the king said, \"He must go to his own house; he must not see my face.\" So Absalom went to his own house and did not see the face of the king.",
     Ind:"Tetapi berkatalah raja: \"Ia harus pergi ke rumahnya sendiri, jangan ia datang ke hadapanku.\" Jadi pergilah Absalom ke rumahnya sendiri dan tidak datang ke hadapan raja."
   },
   {Bible:"2Samuel", Chapter:14, Verse:25, Page:1,
-    Kor:"<다윗과 압살롬이 화해하다> ○온 이스라엘에, 압살롬처럼, 머리끝에서 발끝까지 흠 잡을 데가 하나도 없는 미남은 없다고, 칭찬이 자자하였다.",
+    Kor:"○온 이스라엘에, 압살롬처럼, 머리끝에서 발끝까지 흠 잡을 데가 하나도 없는 미남은 없다고, 칭찬이 자자하였다.",
     Chn:"以色列全地之中，无人像押沙龙那样俊美，得人的称赞，从脚底到头顶毫无瑕疵。",
     Eng:"In all Israel there was not a man so highly praised for his handsome appearance as Absalom. From the top of his head to the sole of his foot there was no blemish in him.",
     Ind:"Di seluruh Israel tidak ada yang begitu banyak dipuji kecantikannya seperti Absalom. Dari telapak kakinya sampai ujung kepalanya tidak ada cacat padanya."
   },
   {Bible:"2Samuel", Chapter:14, Verse:26, Page:1,
-    Kor:"그는 머리 숱이 많아 무거워지면, 해마다 연말에 한 번씩 머리를 깎았는데, 머리를 깎고 나서 그 머리카락을 달아 보면, 왕궁 저울로 이백 세겔이나 되었다.",
+    Kor:"그는 머리 숱이 많아 무거워지면, 해마다 연말에 한 번씩 머리를 깎았는데, 머리를 깎고 나서, 그 머리카락을 달아 보면, 왕궁 저울로 이백 세겔이나 되었다.",
     Chn:"他的头发甚重，每到年底剪发一次；所剪下来的，按王的平称一称，重二百舍客勒。",
     Eng:"Whenever he cut the hair of his head--he used to cut his hair from time to time when it became too heavy for him--he would weigh it, and its weight was two hundred shekels by the royal standard.",
     Ind:"Apabila ia mencukur rambutnya--pada akhir tiap-tiap tahun ia mencukurnya karena menjadi terlalu berat baginya--maka ditimbangnya rambutnya itu, dua ratus syikal beratnya, menurut batu timbangan raja."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Lalu Yoab pergi mendapatkan Absalom ke rumahnya, dan bertanya kepadanya: \"Mengapa hamba-hambamu membakar ladang kepunyaanku itu?\""
   },
   {Bible:"2Samuel", Chapter:14, Verse:32, Page:1,
-    Kor:"압살롬이 요압에게 대답하였다. \"이것 보시오. 나는 이미 장군에게 사람을 보내어서, 좀 와 달라고 부탁을 하였소. 장군을 임금님께 보내어서, 나를 왜 그술에서 돌아오게 하였는지, 여쭈어 보고 싶었소. 여기에서 이렇게 살 바에야, 차라리 그 곳에 그대로 있는 것이 더욱 좋을 뻔 하였소. 이제 나는 임금님의 얼굴을 뵙고 싶소. 나에게 아직도 무슨 죄가 남아 있으면, 차라리 10 14:죽여 달라고 하더라고 말씀을 드려 주시오.\"",
+    Kor:"압살롬이 요압에게 대답하였다. \"이것 보시오. 나는 이미 장군에게 사람을 보내어서, 좀 와 달라고 부탁을 하였소. 장군을 임금님께 보내어서, 나를 왜 그술에서 돌아오게 하였는지, 여쭈어 보고 싶었소. 여기에서 이렇게 살 바에야, 차라리 그 곳에 그대로 있는 것이 더욱 좋을 뻔 하였소. 이제 나는 임금님의 얼굴을 뵙고 싶소. 나에게 아직도 무슨 죄가 남아 있으면, 차라리 죽여 달라고 하더라고 말씀을 드려 주시오.\"",
     Chn:"押沙龙回答约押说：「我打发人去请你来，好托你去见王，替我说：『我为何从基述回来呢？不如仍在那里。』现在要许我见王的面；我若有罪，任凭王杀我就是了。」",
     Eng:"Absalom said to Joab, \"Look, I sent word to you and said, 'Come here so I can send you to the king to ask, \"Why have I come from Geshur? It would be better for me if I were still there!\" 'Now then, I want to see the king's face, and if I am guilty of anything, let him put me to death.\"",
     Ind:"Jawab Absalom kepada Yoab: \"Ya, aku telah menyuruh orang kepadamu mengatakan: datanglah ke mari, supaya aku mengutus engkau kepada raja untuk mengatakan: apa gunanya aku datang dari Gesur? Lebih baik aku masih tinggal di sana. Maka sekarang, aku mau datang ke hadapan raja. Jika aku bersalah, biarlah ia menghukum aku mati.\""

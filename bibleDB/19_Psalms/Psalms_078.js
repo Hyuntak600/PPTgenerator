@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",78,72);
 BibleDB.add([
   {Bible:"Psalms", Chapter:78, Verse:1, Page:1,
-    Kor:"<아삽의 a마스길> 내 백성아, 내 교훈을 들으며, 내 말에 귀를 기울여라. (a 문학 또는 음악 용어)",
+    Kor:"내 백성아, 내 교훈을 들으며, 내 말에 귀를 기울여라.",
     Chn:"亚萨的训诲诗。 我的民哪，你们要留心听我的训诲， 侧耳听我口中的话。",
     Eng:"O my people, hear my teaching; listen to the words of my mouth.",
     Ind:"Nyanyian pengajaran Asaf. Pasanglah telinga untuk pengajaranku, hai bangsaku, sendengkanlah telingamu kepada ucapan mulutku."
@@ -21,61 +21,61 @@ BibleDB.add([
     Ind:"Yang telah kami dengar dan kami ketahui, dan yang diceritakan kepada kami oleh nenek moyang kami,"
   },
   {Bible:"Psalms", Chapter:78, Verse:4, Page:1,
-    Kor:"우리가 이것을 숨기지 않고 우리 자손에게 전하여 줄 것이니, 곧 주님의 영광스러운 행적과 능력과 그가 이루신 놀라운 일들을 미래의 세대에게 전하여 줄 것이다.",
+    Kor:"우리가 이것을 숨기지 않고 자손에게 전하여 줄 것이니, 곧 주의 영예와 능력과 이루신 그 놀라운 일들이다.",
     Chn:"我们不将这些事向他们的子孙隐瞒， 要将耶和华的美德和他的能力， 并他奇妙的作为，述说给后代听。",
     Eng:"We will not hide them from their children; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done.",
     Ind:"kami tidak hendak sembunyikan kepada anak-anak mereka, tetapi kami akan ceritakan kepada angkatan yang kemudian puji-pujian kepada TUHAN dan kekuatan-Nya dan perbuatan-perbuatan ajaib yang telah dilakukan-Nya."
   },
   {Bible:"Psalms", Chapter:78, Verse:5, Page:1,
-    Kor:"주님께서 야곱에게 언약의 규례를 세우시고 이스라엘에게 법을 세우실 때에, 자손에게 잘 가르치라고, 우리 조상에게 명하신 것이다.",
+    Kor:"주께서 야곱에게 경고를 내리시고, 이스라엘에게 법을 세우실 때에, 자손에게 잘 가르치라고, 우리 조상에게 이르신 것이다.",
     Chn:"因为，他在雅各中立法度， 在以色列中设律法； 是他吩咐我们祖宗要传给子孙的，",
     Eng:"He decreed statutes for Jacob and established the law in Israel, which he commanded our forefathers to teach their children,",
     Ind:"Telah ditetapkan-Nya peringatan di Yakub dan hukum Taurat diberi-Nya di Israel; nenek moyang kita diperintahkan-Nya untuk memperkenalkannya kepada anak-anak mereka,"
   },
   {Bible:"Psalms", Chapter:78, Verse:6, Page:1,
-    Kor:"미래에 태어날 자손에게도 대대로 일러주어, 그들도 그들의 자손에게 대대손손 전하게 하셨다.",
+    Kor:"뒤에 태어날 자손에게도 대대로 일러주어, 그들도 그들의 자손에게 대대손손 전하게 하셨다.",
     Chn:"使将要生的后代子孙可以晓得； 他们也要起来告诉他们的子孙，",
     Eng:"so the next generation would know them, even the children yet to be born, and they in turn would tell their children.",
     Ind:"supaya dikenal oleh angkatan yang kemudian, supaya anak-anak, yang akan lahir kelak, bangun dan menceritakannya kepada anak-anak mereka,"
   },
   {Bible:"Psalms", Chapter:78, Verse:7, Page:1,
-    Kor:"그들이 희망을 하나님에게 두어서, 하나님이 하신 일들을 잊지 않고, 그 계명을 지키게 하셨다.",
+    Kor:"그들이 하나님을 믿어서, 하나님이 하신 일들을 잊지 않고, 그 계명을 지키게 하셨다.",
     Chn:"好叫他们仰望　神， 不忘记　神的作为， 惟要守他的命令。",
     Eng:"Then they would put their trust in God and would not forget his deeds but would keep his commands.",
     Ind:"supaya mereka menaruh kepercayaan kepada Allah dan tidak melupakan perbuatan-perbuatan Allah, tetapi memegang perintah-perintah-Nya;"
   },
   {Bible:"Psalms", Chapter:78, Verse:8, Page:1,
-    Kor:"조상처럼, 반역하며 고집만 부리는 세대가 되지 말며, 마음이 견고하지 못한 세대, 하나님을 믿지 아니하는 세대가 되지 말라고 하셨다.",
+    Kor:"조상처럼, 반역하며 고집만 부리는 세대가 되지 말며, 올바른 마음을 가지지 못하는 세대, 하나님을 믿지 아니하는 세대가 되지 말라고 하셨다.",
     Chn:"不要像他们的祖宗， 是顽梗悖逆、居心不正之辈， 向着　神，心不诚实。",
     Eng:"They would not be like their forefathers--a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.",
     Ind:"dan jangan seperti nenek moyang mereka, angkatan pendurhaka dan pemberontak, angkatan yang tidak tetap hatinya dan tidak setia jiwanya kepada Allah."
   },
   {Bible:"Psalms", Chapter:78, Verse:9, Page:1,
-    Kor:"에브라임의 자손은 무장을 하고, 활을 들고 나섰지만, 정작 전쟁이 일어났을 때에 물러가고 말았다.",
+    Kor:"에브라임의 자손은 무장을 하고, 활을 들고 있었지만, 정작 전쟁이 일어났을 때에 물러가고 말았다.",
     Chn:"以法莲的子孙带着兵器，拿着弓， 临阵之日转身退后。",
     Eng:"The men of Ephraim, though armed with bows, turned back on the day of battle;",
     Ind:"Bani Efraim, pemanah-pemanah yang bersenjata lengkap, berbalik pada hari pertempuran;"
   },
   {Bible:"Psalms", Chapter:78, Verse:10, Page:1,
-    Kor:"그들은 하나님과 맺은 언약을 지키지 않으며, 그 교훈 따르기를 거절하였다.",
+    Kor:"하나님과 맺은 언약을 지키지 않으며, 그 교훈 따르기를 거절하였다.",
     Chn:"他们不遵守　神的约， 不肯照他的律法行；",
     Eng:"they did not keep God's covenant and refused to live by his law.",
     Ind:"mereka tidak berpegang pada perjanjian Allah dan enggan hidup menurut Taurat-Nya."
   },
   {Bible:"Psalms", Chapter:78, Verse:11, Page:1,
-    Kor:"그들은 그가 이루신 일들과 그가 보이신 기적들을 잊어버렸다.",
+    Kor:"그가 이루신 일들과 그가 보이신 기적들을 잊어버렸다.",
     Chn:"又忘记他所行的 和他显给他们奇妙的作为。",
     Eng:"They forgot what he had done, the wonders he had shown them.",
     Ind:"Mereka melupakan pekerjaan-pekerjaan-Nya dan perbuatan-perbuatan-Nya yang ajaib, yang telah diperlihatkan-Nya kepada mereka."
   },
   {Bible:"Psalms", Chapter:78, Verse:12, Page:1,
-    Kor:"이집트 땅, 소안 평야에서, 하나님께서는 조상의 눈앞에서 기적을 일으키셨다.",
+    Kor:"이집트 땅, 소안 들에서, 하나님께서는, 조상의 눈앞에서 기적을 일으키셨다.",
     Chn:"他在埃及地，在琐安田， 在他们祖宗的眼前施行奇事。",
     Eng:"He did miracles in the sight of their fathers in the land of Egypt, in the region of Zoan.",
     Ind:"Di hadapan nenek moyang mereka dilakukan-Nya keajaiban-keajaiban, di tanah Mesir, di padang Zoan;"
   },
   {Bible:"Psalms", Chapter:78, Verse:13, Page:1,
-    Kor:"바다를 갈라서 물을 강둑처럼 서게 하시고, 그들을 그리로 걸어가게 하셨다.",
+    Kor:"바다를 갈라서, 물을 강둑처럼 서게 하시고, 그들을 그리로 걸어가게 하셨다.",
     Chn:"他将海分裂，使他们过去， 又叫水立起如垒。",
     Eng:"He divided the sea and led them through; he made the water stand firm like a wall.",
     Ind:"dibelah-Nya laut, diseberangkan-Nya mereka; didirikan-Nya air sebagai bendungan,"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"dituntun-Nya mereka dengan awan pada waktu siang, dan semalam suntuk dengan terang api;"
   },
   {Bible:"Psalms", Chapter:78, Verse:15, Page:1,
-    Kor:"광야에서 바위를 쪼개셔서, 깊은 샘에서 솟아오르는 것같이 물을 흡족하게 마시게 하셨다.",
+    Kor:"광야에서 바위를 쪼개셔서, 깊은 샘에서 솟아오르는 것같이, 물을 흡족하게 마시게 하셨다.",
     Chn:"他在旷野分裂磐石， 多多地给他们水喝，如从深渊而出。",
     Eng:"He split the rocks in the desert and gave them water as abundant as the seas;",
     Ind:"dibelah-Nya gunung batu di padang gurun, diberi-Nya mereka minum banyak air seperti dari samudera raya;"
@@ -99,31 +99,31 @@ BibleDB.add([
     Ind:"dibuat-Nya aliran air keluar dari bukit batu, dan dibuat-Nya air turun seperti sungai."
   },
   {Bible:"Psalms", Chapter:78, Verse:17, Page:1,
-    Kor:"그러나 그들은 계속하여 하나님께 죄를 짓고, 가장 높으신 분을 광야에서 거역하며,",
+    Kor:"그러나 그들은 계속하여 하나님께 죄를 짓고, 가장 높으신 분을 사막에서 거역하며,",
     Chn:"他们却仍旧得罪他， 在干燥之地悖逆至高者。",
     Eng:"But they continued to sin against him, rebelling in the desert against the Most High.",
     Ind:"Tetapi mereka terus berbuat dosa terhadap Dia, dengan memberontak terhadap Yang Mahatinggi di padang kering."
   },
   {Bible:"Psalms", Chapter:78, Verse:18, Page:1,
-    Kor:"마음 속으로 하나님을 시험하면서, 입맛대로 먹을 것을 요구하였다.",
+    Kor:"마음 속으로 하나님을 시험하면서, 욕심대로 먹을 것을 요구하였다.",
     Chn:"他们心中试探　神， 随自己所欲的求食物，",
     Eng:"They willfully put God to the test by demanding the food they craved.",
     Ind:"Mereka mencobai Allah dalam hati mereka dengan meminta makanan menuruti nafsu mereka."
   },
   {Bible:"Psalms", Chapter:78, Verse:19, Page:1,
-    Kor:"그들은 하나님을 거스르면서 \"하나님이 무슨 능력으로 이 광야에서 먹거리를 공급할 수 있으랴?",
+    Kor:"그들은 하나님을 거스르면서 \"하나님이 무슨 능력으로 이 광야에서, 잔칫상을 차려 낼 수 있으랴?",
     Chn:"并且妄论　神说： 　神在旷野岂能摆设筵席吗？",
     Eng:"They spoke against God, saying, \"Can God spread a table in the desert?",
     Ind:"Mereka berkata terhadap Allah: \"Sanggupkah Allah menyajikan hidangan di padang gurun?"
   },
   {Bible:"Psalms", Chapter:78, Verse:20, Page:1,
-    Kor:"그가 바위를 쳐서 물이 솟아나오게 하고, 그 물이 강물이 되게 하여 세차게 흐르게는 하였지만, 그가 어찌 자기 백성에게 밥을 줄 수 있으며, 고기를 먹일 수 있으랴?\" 하고 말하였다.",
+    Kor:"그가 바위를 쳐서, 물이 솟아나오게 하고, 그 물이 강물이 되게 하여, 세차게 흐르게는 하였지만, 그가 어찌 자기 백성에게 밥을 줄 수 있으며, 고기를 먹일 수 있으랴?\" 하고 말하였다.",
     Chn:"他曾击打磐石，使水涌出，成了江河； 他还能赐粮食吗？ 还能为他的百姓预备肉吗？",
     Eng:"When he struck the rock, water gushed out, and streams flowed abundantly. But can he also give us food? Can he supply meat for his people?\"",
     Ind:"Memang, Ia memukul gunung batu, sehingga terpancar air dan membanjir sungai-sungai; tetapi sanggupkah Ia memberikan roti juga, atau menyediakan daging bagi umat-Nya?\""
   },
   {Bible:"Psalms", Chapter:78, Verse:21, Page:1,
-    Kor:"주님께서 듣고 노하셔서, 야곱을 불길로 태우셨고, 이스라엘에게 진노하셨다.",
+    Kor:"주께서 듣고 노하셔서, 야곱을 불길로 태우셨고, 이스라엘에게 진노하셨다.",
     Chn:"所以，耶和华听见就发怒； 有烈火向雅各烧起； 有怒气向以色列上腾；",
     Eng:"When the LORD heard them, he was very angry; his fire broke out against Jacob, and his wrath rose against Israel,",
     Ind:"Sebab itu, ketika mendengar hal itu, TUHAN gemas, api menyala menimpa Yakub, bahkan murka bergejolak menimpa Israel,"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"setiap orang telah makan roti malaikat, Ia mengirimkan perbekalan kepada mereka berlimpah-limpah."
   },
   {Bible:"Psalms", Chapter:78, Verse:26, Page:1,
-    Kor:"그는 하늘에서 동풍을 일으키시고, 능력으로 남풍을 모으셔서,",
+    Kor:"하늘에서 동풍을 일으키시고, 능력으로 남풍을 불러오셔서,",
     Chn:"他领东风起在天空， 又用能力引了南风来。",
     Eng:"He let loose the east wind from the heavens and led forth the south wind by his power.",
     Ind:"Ia telah menghembuskan angin timur di langit dan menggiring angin selatan dengan kekuatan-Nya;"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Ia menjatuhkannya ke tengah perkemahan mereka, sekeliling tempat kediaman itu."
   },
   {Bible:"Psalms", Chapter:78, Verse:29, Page:1,
-    Kor:"그들이 마음껏 먹고 배불렀다. 하나님은 그들이 원하는 대로 넉넉히 주셨다.",
+    Kor:"그들이 먹고 배불렀다. 하나님은, 그들이 원하는 대로, 넉넉히 주셨다.",
     Chn:"他们吃了，而且饱足； 这样就随了他们所欲的。",
     Eng:"They ate till they had more than enough, for he had given them what they craved.",
     Ind:"Mereka makan dan menjadi sangat kenyang; Ia memberikan kepada mereka apa yang mereka inginkan."
@@ -213,13 +213,13 @@ BibleDB.add([
     Ind:"mereka teringat bahwa Allah adalah gunung batu mereka, dan bahwa Allah Yang Mahatinggi adalah Penebus mereka."
   },
   {Bible:"Psalms", Chapter:78, Verse:36, Page:1,
-    Kor:"그러나 그들은 입으로만 하나님께 아첨하고, 혀로는 하나님을 속일 뿐이었다.",
+    Kor:"그러나 그들은 입으로만 하나님께 아첨하고, 혀로는 하나님을 속일 뿐이었기에,",
     Chn:"他们却用口谄媚他， 用舌向他说谎。",
     Eng:"But then they would flatter him with their mouths, lying to him with their tongues;",
     Ind:"Tetapi mereka memperdaya Dia dengan mulut mereka, dan dengan lidahnya mereka membohongi Dia."
   },
   {Bible:"Psalms", Chapter:78, Verse:37, Page:1,
-    Kor:"그들의 마음은 분명히 그를 떠났으며, 그가 세우신 언약을 믿지도 않았다.",
+    Kor:"마음은 분명히 그를 떠났으며, 그가 세우신 언약을 믿지도 않았다.",
     Chn:"因他们的心向他不正， 在他的约上也不忠心。",
     Eng:"their hearts were not loyal to him, they were not faithful to his covenant.",
     Ind:"Hati mereka tidak tetap pada Dia, dan mereka tidak setia pada perjanjian-Nya."
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Ia ingat bahwa mereka itu daging, angin yang berlalu, yang tidak akan kembali."
   },
   {Bible:"Psalms", Chapter:78, Verse:40, Page:1,
-    Kor:"그들이 광야에서 하나님께 얼마나 자주 반역하였던가? 황무지에서 그를 얼마나 자주 괴롭혔던가?",
+    Kor:"그들이 광야에서 하나님께 얼마나 자주 반역하였던가? 황무지에서 그를 얼마나 또 괴롭혔던가?",
     Chn:"他们在旷野悖逆他， 在荒地叫他担忧，何其多呢！",
     Eng:"How often they rebelled against him in the desert and grieved him in the wasteland!",
     Ind:"Berapa kali mereka memberontak terhadap Dia di padang gurun, dan menyusahkan hati-Nya di padang belantara!"
@@ -249,19 +249,19 @@ BibleDB.add([
     Ind:"Berulang kali mereka mencobai Allah, menyakiti hati Yang Kudus dari Israel."
   },
   {Bible:"Psalms", Chapter:78, Verse:42, Page:1,
-    Kor:"그들이 하나님의 권능을 기억하지 아니하며, 대적에게서 건져주신 그 날도 잊어버렸다.",
+    Kor:"그들이 하나님의 손의 권능을 기억하지 아니하며, 대적에게서 속량하여 주신 그 날도 잊어버렸다.",
     Chn:"他们不追念他的能力 和赎他们脱离敌人的日子；",
     Eng:"They did not remember his power--the day he redeemed them from the oppressor,",
     Ind:"Mereka tidak ingat kepada kekuasaan-Nya, kepada hari Ia membebaskan mereka dari pada lawan,"
   },
   {Bible:"Psalms", Chapter:78, Verse:43, Page:1,
-    Kor:"하나님이 이집트에서는 여러 가지 징조를 보이시고, 소안 평야에서는 여러 가지 기적을 보이셨다.",
+    Kor:"하나님이 이집트에서는 여러 가지 징조를 보이시고, 소안 들에서는 여러 가지 기적을 보이셨다.",
     Chn:"他怎样在埃及地显神迹， 在琐安田显奇事，",
     Eng:"the day he displayed his miraculous signs in Egypt, his wonders in the region of Zoan.",
     Ind:"ketika Ia mengadakan tanda-tanda di Mesir dan mujizat-mujizat di padang Zoan."
   },
   {Bible:"Psalms", Chapter:78, Verse:44, Page:1,
-    Kor:"강물을 피로 변하게 하셔서, 시냇물을 마실 수 없게 하셨다.",
+    Kor:"강물을 피로 변하게 하셔서, 물을 마실 수 없게 하셨다.",
     Chn:"把他们的江河并河汊的水都变为血， 使他们不能喝。",
     Eng:"He turned their rivers to blood; they could not drink from their streams.",
     Ind:"Ia mengubah menjadi darah sungai-sungai mereka dan aliran-aliran air mereka, sehingga tidak terminum;"
@@ -279,7 +279,7 @@ BibleDB.add([
     Ind:"Ia memberikan hasil tanah mereka kepada ulat, dan hasil jerih payah mereka kepada belalang;"
   },
   {Bible:"Psalms", Chapter:78, Verse:47, Page:1,
-    Kor:"포도나무를 우박으로 때리시고, 무화과나무를 된서리로 얼어 죽게 하셨으며,",
+    Kor:"포도나무를 우박으로 때리시고, 무화과나무를 무서리로 얼어 죽게 하셨으며,",
     Chn:"他降冰雹打坏他们的葡萄树， 下严霜打坏他们的桑树，",
     Eng:"He destroyed their vines with hail and their sycamore-figs with sleet.",
     Ind:"Ia mematikan pohon anggur mereka dengan hujan batu, dan pohon-pohon ara mereka dengan embun beku;"
@@ -291,7 +291,7 @@ BibleDB.add([
     Ind:"Ia membiarkan kawanan binatang mereka ditimpa hujan es, dan ternak mereka disambar halilintar;"
   },
   {Bible:"Psalms", Chapter:78, Verse:49, Page:1,
-    Kor:"그들에게 진노의 불을 쏟으시며, 분노와 의분과 재앙을 내리시며, 곧 재앙의 사자를 내려 보내셨다.",
+    Kor:"그들에게 진노의 불을 쏟으시며, 분노와 의분과 재앙을 내리시며, 재앙의 사자를 내려 보내셨다.",
     Chn:"他使猛烈的怒气和忿怒、恼恨、苦难 成了一群降灾的使者，临到他们。",
     Eng:"He unleashed against them his hot anger, his wrath, indignation and hostility--a band of destroying angels.",
     Ind:"Ia melepaskan kepada mereka murka-Nya yang menyala-nyala, kegemasan, kegeraman dan kesesakan, suatu pasukan malaikat yang membawa malapetaka;"
@@ -309,43 +309,43 @@ BibleDB.add([
     Ind:"dibunuh-Nya semua anak sulung di Mesir, kegagahan mereka yang pertama-tama di kemah-kemah Ham;"
   },
   {Bible:"Psalms", Chapter:78, Verse:52, Page:1,
-    Kor:"그는 백성을 양 떼처럼 인도하시고, 가축 떼처럼 광야로 이끄셨다.",
+    Kor:"그는 백성을 양 떼처럼 인도하시고, 가축 떼처럼 광야에서 이끄셨다.",
     Chn:"他却领出自己的民如羊， 在旷野引他们如羊群。",
     Eng:"But he brought his people out like a flock; he led them like sheep through the desert.",
     Ind:"disuruh-Nya umat-Nya berangkat seperti domba-domba, dipimpin-Nya mereka seperti kawanan hewan di padang gurun;"
   },
   {Bible:"Psalms", Chapter:78, Verse:53, Page:1,
-    Kor:"그들을 안전하게 이끄시니, 그들은 두려워하지 않았고, 그들의 원수들은 바다가 덮어 버렸다.",
+    Kor:"그들을 안전하게 이끄시기에, 그들은 두려워하지 않았다. 그들의 원수들은 바다가 덮어 버렸다.",
     Chn:"他领他们稳稳妥妥地，使他们不致害怕； 海却淹没他们的仇敌。",
     Eng:"He guided them safely, so they were unafraid; but the sea engulfed their enemies.",
     Ind:"dituntun-Nya mereka dengan tenteram, sehingga tidak gemetar, sedang musuh mereka dilingkupi laut;"
   },
   {Bible:"Psalms", Chapter:78, Verse:54, Page:1,
-    Kor:"그들을 거룩한 산으로 이끌어 들이시고, 그 오른손으로 취하신 이 산으로 이끄셨다.",
+    Kor:"그들을 거룩한 땅으로 이끌어 들이시고, 그 오른손으로 만드신 이 산으로 이끄셨다.",
     Chn:"他带他们到自己圣地的边界， 到他右手所得的这山地。",
     Eng:"Thus he brought them to the border of his holy land, to the hill country his right hand had taken.",
     Ind:"dibawa-Nya mereka ke tanah-Nya yang kudus, yakni pegunungan ini, yang diperoleh tangan kanan-Nya;"
   },
   {Bible:"Psalms", Chapter:78, Verse:55, Page:1,
-    Kor:"여러 민족을 그들 앞에서 몰아내시고, 줄로 재어서 땅을 나누어 주시고, 이스라엘 지파들을 자기들의 천막에서 살게 하셨다.",
+    Kor:"여러 민족을 그들이 보는 앞에서 몰아내시고, 줄로 재어서 땅을 나누어 주시고, 이스라엘 지파를 자기들의 천막에서 살게 하셨다.",
     Chn:"他在他们面前赶出外邦人， 用绳子将外邦的地量给他们为业， 叫以色列支派的人住在他们的帐棚里。",
     Eng:"He drove out nations before them and allotted their lands to them as an inheritance; he settled the tribes of Israel in their homes.",
     Ind:"dihalau-Nya bangsa-bangsa dari depan mereka, dibagi-bagikan-Nya kepada mereka tanah pusaka dengan tali pengukur, dan disuruh-Nya suku-suku Israel mendiami kemah-kemah mereka itu."
   },
   {Bible:"Psalms", Chapter:78, Verse:56, Page:1,
-    Kor:"그럼에도 그들은 가장 높으신 하나님을 시험하고 거역하면서, 그의 법도를 지키지 않고,",
+    Kor:"그럼에도 그들은 가장 높으신 하나님을 시험하고 거역하면서, 그의 계명을 지키지 않고,",
     Chn:"他们仍旧试探、悖逆至高的　神， 不守他的法度，",
     Eng:"But they put God to the test and rebelled against the Most High; they did not keep his statutes.",
     Ind:"Tetapi mereka mencobai dan memberontak terhadap Allah, Yang Mahatinggi, dan tidak berpegang pada peringatan-peringatan-Nya;"
   },
   {Bible:"Psalms", Chapter:78, Verse:57, Page:1,
-    Kor:"그들은 그들의 조상들처럼 빗나가고 배신하여, 느슨한 활처럼 엇나갔다.",
+    Kor:"조상처럼 계명을 어기고 하나님께 반역하며, 빗나가는 활처럼 변절하였다.",
     Chn:"反倒退后，行诡诈，像他们的祖宗一样； 他们改变，如同翻背的弓。",
     Eng:"Like their fathers they were disloyal and faithless, as unreliable as a faulty bow.",
     Ind:"mereka murtad dan berkhianat seperti nenek moyang mereka, berubah seperti busur yang memperdaya;"
   },
   {Bible:"Psalms", Chapter:78, Verse:58, Page:1,
-    Kor:"그들은 산당에 모여 그의 노를 격동하며, 조각한 우상을 섬기다가 그를 진노하게 하였다.",
+    Kor:"그들은 산당에 모이다가 그의 노를 격동하며, 조각한 우상을 섬기다가 그를 진노하게 하였다.",
     Chn:"因他们的邱坛惹了他的怒气； 因他们雕刻的偶像触动他的愤恨。",
     Eng:"They angered him with their high places; they aroused his jealousy with their idols.",
     Ind:"mereka menyakiti hati-Nya dengan bukit-bukit pengorbanan mereka, membuat Dia cemburu dengan patung-patung mereka."
@@ -363,13 +363,13 @@ BibleDB.add([
     Ind:"Ia membuang kediaman-Nya di Silo kemah yang didiami-Nya di antara manusia;"
   },
   {Bible:"Psalms", Chapter:78, Verse:61, Page:1,
-    Kor:"주님의 능력을 나타내는 궤를 포로와 함께 내주시고, 주님의 영광을 나타내는 궤를 원수의 손에 내주셨다.",
+    Kor:"주의 능력을 나타내는 궤를 포로와 함께 내주시고, 주의 영광을 나타내는 궤를 원수의 손에 내주셨다.",
     Chn:"又将他的约柜交与人掳去， 将他的荣耀交在敌人手中；",
     Eng:"He sent the ark of his might into captivity, his splendor into the hands of the enemy.",
     Ind:"Ia membiarkan kekuatan-Nya tertawan, membiarkan kehormatan-Nya jatuh ke tangan lawan;"
   },
   {Bible:"Psalms", Chapter:78, Verse:62, Page:1,
-    Kor:"주님의 백성을 칼에 내주시고, 주님의 소유에 분노를 쏟으셨다.",
+    Kor:"주의 백성을 칼에 내주시고, 주의 소유에 분노를 쏟으셨다.",
     Chn:"并将他的百姓交与刀剑， 向他的产业发怒。",
     Eng:"He gave his people over to the sword; he was very angry with his inheritance.",
     Ind:"Ia membiarkan umat-Nya dimakan pedang, dan gemaslah Ia atas milik-Nya sendiri."
@@ -381,7 +381,7 @@ BibleDB.add([
     Ind:"Anak-anak teruna mereka dimakan api, dan anak-anak dara mereka tidak lagi dipuja dengan nyanyian perkawinan;"
   },
   {Bible:"Psalms", Chapter:78, Verse:64, Page:1,
-    Kor:"제사장들은 칼에 맞아 넘어지고, 과부가 된 그들의 아내들은 마음 놓고 곡 한 번 못 하였다.",
+    Kor:"제사장들은 칼에 맞아 넘어지고, 제사장의 아내들은 마음 놓고 곡 한 번 못 하였다.",
     Chn:"祭司倒在刀下， 寡妇却不哀哭。",
     Eng:"their priests were put to the sword, and their widows could not weep.",
     Ind:"imam-imam mereka gugur oleh pedang, dan janda-janda mereka tidak dapat menangis."
@@ -399,19 +399,19 @@ BibleDB.add([
     Ind:"Ia memukul mundur para lawan-Nya, Ia menyebabkan mereka mendapat cela untuk selama-lamanya."
   },
   {Bible:"Psalms", Chapter:78, Verse:67, Page:1,
-    Kor:"그리고 주님은 요셉의 장막을 버리시고, 에브라임 지파도 선택하지 아니하셨다.",
+    Kor:"주님은 요셉의 장막도 거절하시고, 에브라임 지파도 선택하지 아니하시고,",
     Chn:"并且他弃掉约瑟的帐棚， 不拣选以法莲支派，",
     Eng:"Then he rejected the tents of Joseph, he did not choose the tribe of Ephraim;",
     Ind:"Ia menolak kemah Yusuf, dan suku Efraim tidak dipilih-Nya,"
   },
   {Bible:"Psalms", Chapter:78, Verse:68, Page:1,
-    Kor:"오히려, 유다 지파만을 선택하셨으며, 그가 사랑하신 시온 산을 뽑으셨다.",
+    Kor:"다만, 유다 지파만을 선택하셨으니, 그가 사랑하신 시온 산을 선택하셨다.",
     Chn:"却拣选犹大支派—他所喜爱的锡安山；",
     Eng:"but he chose the tribe of Judah, Mount Zion, which he loved.",
     Ind:"tetapi Ia memilih suku Yehuda, gunung Sion yang dikasihi-Nya;"
   },
   {Bible:"Psalms", Chapter:78, Verse:69, Page:1,
-    Kor:"그곳에서 주님은 주님의 성소를 높은 하늘처럼 세우셨다. 영원히 흔들리지 않는 터전 위에 세우셨다.",
+    Kor:"주님은 성소를 높은 하늘처럼 세우셨다. 기초가 영원히 흔들리지 않는 땅처럼 세우셨다.",
     Chn:"盖造他的圣所，好像高峰， 又像他建立永存之地；",
     Eng:"He built his sanctuary like the heights, like the earth that he established forever.",
     Ind:"Ia membangun tempat kudus-Nya setinggi langit, laksana bumi yang didasarkan-Nya untuk selama-lamanya;"
@@ -423,13 +423,13 @@ BibleDB.add([
     Ind:"dipilih-Nya Daud, hamba-Nya, diambil-Nya dia dari antara kandang-kandang kambing domba;"
   },
   {Bible:"Psalms", Chapter:78, Verse:71, Page:1,
-    Kor:"암양을 돌보는 그를 데려다가, 주님의 백성 야곱과 주님의 유산 이스라엘의 목자가 되게 하셨다.",
+    Kor:"암양을 돌보는 그를 데려다가, 그의 백성 야곱과 그의 유산 이스라엘의 목자가 되게 하셨다.",
     Chn:"叫他不再跟从那些带奶的母羊， 为要牧养自己的百姓雅各 和自己的产业以色列。",
     Eng:"from tending the sheep he brought him to be the shepherd of his people Jacob, of Israel his inheritance.",
     Ind:"dari tempat domba-domba yang menyusui didatangkan-Nya dia, untuk menggembalakan Yakub, umat-Nya, dan Israel, milik-Nya sendiri."
   },
   {Bible:"Psalms", Chapter:78, Verse:72, Page:1,
-    Kor:"그는 한결같은 마음으로 그들을 기르고, 슬기로운 손길로 그들을 인도하였다.",
+    Kor:"그래서 그는 한결같은 마음으로 그들을 기르고, 슬기로운 손으로 그들을 인도하였다.",
     Chn:"于是，他按心中的纯正牧养他们， 用手中的巧妙引导他们。",
     Eng:"And David shepherded them with integrity of heart; with skillful hands he led them.",
     Ind:"Ia menggembalakan mereka dengan ketulusan hatinya, dan menuntun mereka dengan kecakapan tangannya."

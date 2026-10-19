@@ -3,13 +3,13 @@
 BibleDB.ref("1Chronicles",14,17);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:14, Verse:1, Page:1,
-    Kor:"<예루살렘에서 다윗이 활동하다(삼하 5:11-16)> 두로 왕 히람이 다윗에게, 사절단과 함께 백향목과 석수와 목수를 보내어서, 궁궐을 지어 주게 하였다.",
+    Kor:"두로 왕 히람이 다윗에게, 사절단과 함께 백향목과 석수와 목수를 보내어서, 궁궐을 지어 주게 하였다.",
     Chn:"泰尔王希兰将香柏木运到大卫那里，又差遣使者和石匠、木匠给大卫建造宫殿。",
     Eng:"Now Hiram king of Tyre sent messengers to David, along with cedar logs, stonemasons and carpenters to build a palace for him.",
     Ind:"Hiram, raja negeri Tirus, mengirim utusan kepada Daud dan kayu aras, tukang-tukang batu dan tukang-tukang kayu untuk mendirikan sebuah istana baginya."
   },
   {Bible:"1Chronicles", Chapter:14, Verse:2, Page:1,
-    Kor:"다윗은, 주님께서 자기를 이스라엘의 왕으로 굳건히 세워 주신 것과, 그분의 백성 이스라엘을 번영하게 하시려고 그의 나라를 크게 높이신 것을 깨달아 알았다.",
+    Kor:"다윗은, 주께서 자기를 이스라엘의 왕으로 굳건히 세워 주신 것과, 그분의 백성 이스라엘을 번영하게 하시려고 그의 나라를 크게 높이신 것을 깨달아 알았다.",
     Chn:"大卫就知道耶和华坚立他作以色列王，又为自己的民以色列，使他的国兴旺。",
     Eng:"And David knew that the LORD had established him as king over Israel and that his kingdom had been highly exalted for the sake of his people Israel.",
     Ind:"Lalu tahulah Daud, bahwa TUHAN telah menegakkan dia sebagai raja atas Israel, sebab martabat pemerintahannya terangkat tinggi oleh karena Israel umat-Nya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Elisama, Beelyada dan Elifelet."
   },
   {Bible:"1Chronicles", Chapter:14, Verse:8, Page:1,
-    Kor:"<다윗이 블레셋을 이기다(삼하 5:17-25)> ○다윗이 기름 부음을 받아 온 이스라엘의 왕이 되었다는 소식을 블레셋 사람이 듣고, 온 블레셋 사람이 다윗을 잡으려고 올라왔다. 다윗이 이 말을 듣고 그들을 맞아 공격하려고 나갔다.",
+    Kor:"○다윗이 기름 부음을 받아 온 이스라엘의 왕이 되었다는 소식을 블레셋 사람이 듣고, 온 블레셋 사람이 다윗을 잡으려고 올라왔다. 다윗이 이 말을 듣고 그들을 맞아 공격하려고 나갔다.",
     Chn:"非利士人听见大卫受膏作以色列众人的王，非利士众人就上来寻索大卫。大卫听见，就出去迎敌。",
     Eng:"When the Philistines heard that David had been anointed king over all Israel, they went up in full force to search for him, but David heard about it and went out to meet them.",
     Ind:"Ketika didengar orang Filistin, bahwa Daud telah diurapi menjadi raja atas seluruh Israel, maka majulah semua orang Filistin untuk menangkap Daud. Tetapi Daud mendengar hal itu, lalu majulah ia menghadapi mereka."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Ketika orang Filistin itu datang dan mengadakan penyerbuan di lembah Refaim,"
   },
   {Bible:"1Chronicles", Chapter:14, Verse:10, Page:1,
-    Kor:"다윗이 하나님께 아뢰었다. \"제가 저 블레셋 사람들을 치러 올라가도 되겠습니까? 주님께서 그들을 저의 손에 넘겨 주시겠습니까?\" 주님께서 그에게 대답하셨다. \"올라가거라. 내가 그들을 너의 손에 넘겨 주겠다.\"",
+    Kor:"다윗이 하나님께 아뢰었다. \"제가 저 블레셋 사람들을 치러 올라가도 되겠습니까? 주께서 그들을 저의 손에 넘겨 주시겠습니까?\" 주께서 그에게 대답하셨다. \"올라가거라. 내가 그들을 너의 손에 넘겨 주겠다.\"",
     Chn:"大卫求问　神，说：「我可以上去攻打非利士人吗？你将他们交在我手里吗？」耶和华说：「你可以上去，我必将他们交在你手里。」",
     Eng:"so David inquired of God: \"Shall I go and attack the Philistines? Will you hand them over to me?\" The LORD answered him, \"Go, I will hand them over to you.\"",
     Ind:"bertanyalah Daud kepada Allah: \"Apakah aku harus maju melawan orang Filistin itu dan akan Kauserahkankah mereka ke dalam tanganku?\" TUHAN menjawab: \"Majulah, Aku akan menyerahkan mereka ke dalam tanganmu.\""
   },
   {Bible:"1Chronicles", Chapter:14, Verse:11, Page:1,
-    Kor:"○그래서 그가 a바알브라심으로 쳐들어갔다. 다윗은 거기에서 블레셋 사람들을 쳐서 이기고 나서, 이렇게 말하였다. \"홍수가 모든 것을 휩쓸어 버리듯이, 하나님께서 나의 손으로 나의 원수들을 그렇게 휩쓸어 버리셨다.\" 그래서 사람들이 그 곳 이름을 바알브라심이라고 부른다.(a '휩쓸어 버리는 주')",
+    Kor:"○그래서 그가 바알브라심으로 쳐들어갔다. 다윗은 거기에서 블레셋 사람들을 쳐서 이기고 나서, 이렇게 말하였다. \"홍수가 모든 것을 휩쓸어 버리듯이, 하나님께서 나의 손으로 나의 원수들을 그렇게 휩쓸어 버리셨다.\" 그래서 사람들이 그 곳 이름을 바알브라심이라고 부른다.",
     Chn:"非利士人来到巴力·毗拉心，大卫在那里杀败他们。大卫说：「　神借我的手冲破敌人，如同水冲去一般」；因此称那地方为巴力·毗拉心。",
     Eng:"So David and his men went up to Baal Perazim, and there he defeated them. He said, \"As waters break out, God has broken out against my enemies by my hand.\" So that place was called Baal Perazim.",
     Ind:"Lalu majulah ia ke Baal-Perasim, dan Daud memukul mereka kalah di sana. Berkatalah Daud: \"Allah telah menerobos musuhku dengan perantaraanku seperti air menerobos.\" Sebab itu orang menamakan tempat itu Baal-Perasim."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Dan Daud berbuat seperti yang diperintahkan Allah kepadanya, maka mereka memukul kalah tentara orang Filistin, mulai dari Gibeon sampai Gezer."
   },
   {Bible:"1Chronicles", Chapter:14, Verse:17, Page:1,
-    Kor:"다윗의 명성이 온 세상에 널리 퍼졌고, 주님께서는, 모든 나라들이 다윗을 두려워하게 하셨다.",
+    Kor:"다윗의 명성이 온 세상에 널리 퍼졌고, 주께서는, 모든 나라들이 다윗을 두려워하게 하셨다.",
     Chn:"于是大卫的名传扬到列国，耶和华使列国都惧怕他。",
     Eng:"So David's fame spread throughout every land, and the LORD made all the nations fear him.",
     Ind:"Lalu termasyhurlah nama Daud di segala negeri, dan TUHAN mendatangkan rasa takut kepadanya atas segala bangsa."

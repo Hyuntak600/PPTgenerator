@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",24,25);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:24, Verse:1, Page:1,
-    Kor:"<인구조사(대상 21:1-27)> 주님께서 다시 이스라엘에게 진노하셔서, 백성을 치시려고, 다윗을 부추기셨다. \"너는 이스라엘과 유다의 인구를 조사하여라.\"",
+    Kor:"주께서 다시 이스라엘에게 진노하셔서, 백성을 치시려고, 다윗을 부추기셨다. \"너는 이스라엘과 유다의 인구를 조사하여라.\"",
     Chn:"耶和华又向以色列人发怒，就激动大卫，使他吩咐人去数点以色列人和犹大人。",
     Eng:"Again the anger of the LORD burned against Israel, and he incited David against them, saying, \"Go and take a census of Israel and Judah.\"",
     Ind:"Bangkitlah pula murka TUHAN terhadap orang Israel; Ia menghasut Daud melawan mereka, firman-Nya: \"Pergilah, hitunglah orang Israel dan orang Yehuda.\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Namun titah raja itu terpaksa diikuti oleh Yoab dan oleh para panglima tentara. Maka pergilah Yoab dan panglima-panglima tentara itu atas perintah raja untuk mengadakan pendaftaran di antara bangsa Israel."
   },
   {Bible:"2Samuel", Chapter:24, Verse:5, Page:1,
-    Kor:"○그들은 요단 강을 건너서, 갓 골짜기의 한가운데 있는 성읍인 아로엘 남쪽에서부터 인구를 조사하였다. 다음에는 야스엘 성읍쪽으로 갔고,",
+    Kor:"○그들은 요단 강을 건너서, 갓 골짜기의 한가운데 있는 성읍인 아로엘 남쪽에서부터 인구를 조사하였다. 다음에는 야셀 성읍쪽으로 갔고,",
     Chn:"他们过了约旦河，在迦得谷中、城的右边亚罗珥安营，与雅谢相对，",
     Eng:"After crossing the Jordan, they camped near Aroer, south of the town in the gorge, and then went through Gad and on to Jazer.",
     Ind:"Mereka menyeberangi sungai Yordan, lalu mulai dari Aroer dan dari kota yang terletak di tengah-tengah lembah ke arah Gad dan Yaezer."
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Lalu Yoab memberitahukan kepada raja hasil pendaftaran rakyat. Orang Israel ada delapan ratus ribu orang perangnya yang dapat memegang pedang; dan orang Yehuda ada lima ratus ribu."
   },
   {Bible:"2Samuel", Chapter:24, Verse:10, Page:1,
-    Kor:"○다윗은 이렇게 인구를 조사하고 난 다음에 스스로 양심의 가책을 받았다. 그래서 다윗이 주님께 자백하였다. \"내가 이러한 일을 해서, 큰 죄를 지었습니다. 그러나 주님, 이제 이 종의 죄를 용서해 주시기를 빕니다. 참으로 내가 너무나도 어리석은 일을 하였습니다.\"",
+    Kor:"○다윗은 이렇게 인구를 조사하고 난 다음에, 스스로 양심의 가책을 받았다. 그래서 다윗이 주께 자백하였다. \"내가 이러한 일을 해서, 큰 죄를 지었습니다. 그러나 주님, 이제 이 종의 죄를 용서해 주시기를 빕니다. 참으로 내가 너무나도 어리석은 일을 하였습니다.\"",
     Chn:"大卫数点百姓以后，就心中自责，祷告耶和华说：「我行这事大有罪了。耶和华啊，求你除掉仆人的罪孽，因我所行的甚是愚昧。」",
     Eng:"David was conscience-stricken after he had counted the fighting men, and he said to the LORD, \"I have sinned greatly in what I have done. Now, O LORD, I beg you, take away the guilt of your servant. I have done a very foolish thing.\"",
     Ind:"Tetapi berdebar-debarlah hati Daud, setelah ia menghitung rakyat, lalu berkatalah Daud kepada TUHAN: \"Aku telah sangat berdosa karena melakukan hal ini; maka sekarang, TUHAN, jauhkanlah kiranya kesalahan hamba-Mu, sebab perbuatanku itu sangat bodoh.\""
   },
   {Bible:"2Samuel", Chapter:24, Verse:11, Page:1,
-    Kor:"다윗이 다음날 아침에 일어났을 때에, 다윗의 선견자로 있는 예언자 갓이 주님의 말씀을 받았다.",
+    Kor:"다윗이 다음날 아침에 일어났을 때에, 다윗의 선견자로 있는 예언자 갓이 주의 말씀을 받았다.",
     Chn:"大卫早晨起来，耶和华的话临到先知迦得，就是大卫的先见，说：",
     Eng:"Before David got up the next morning, the word of the LORD had come to Gad the prophet, David's seer:",
     Ind:"Setelah Daud bangun dari pada waktu pagi, datanglah firman TUHAN kepada nabi Gad, pelihat Daud, demikian:"
   },
   {Bible:"2Samuel", Chapter:24, Verse:12, Page:1,
-    Kor:"\"너는 다윗에게 가서 전하여라. '나 주가 말한다. 내가 너에게 세 가지를 내놓겠으니, 너는 그 가운데서 하나를 택하여라. 그러면 내가 너에게 그대로 처리하겠다.'\"",
+    Kor:"\"너는 다윗에게 가서, 전하여라. '나 주가 말한다. 내가 너에게 세 가지를 내놓겠으니, 너는 그 가운데서 하나를 택하여라. 그러면 내가 너에게 그대로 처리하겠다.'\"",
     Chn:"「你去告诉大卫，说耶和华如此说：『我有三样灾，随你选择一样，我好降与你。』」",
     Eng:"\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\"",
     Ind:"\"Pergilah, katakanlah kepada Daud: Beginilah firman TUHAN: tiga perkara Kuhadapkan kepadamu; pilihlah salah satu dari padanya, maka Aku akan melakukannya kepadamu.\""
   },
   {Bible:"2Samuel", Chapter:24, Verse:13, Page:1,
-    Kor:"갓이 다윗에게 가서, 그에게 말하여 알렸다. \"임금님의 나라에 일곱 해 동안 흉년이 들게 하는 것이 좋겠습니까? 아니면, 임금님께서 왕의 목숨을 노리고 쫓아다니는 원수들을 피하여 석 달 동안 도망을 다니시는 것이 좋겠습니까? 아니면, 임금님의 나라에 사흘 동안 전염병이 퍼지는 것이 좋겠습니까? 이제 임금님께서는, 저를 임금님께 보내신 분에게 제가 무엇이라고 10 24:보고하면 좋을지, 잘 생각하여 보시고, 결정하여 주시기 바랍니다.\"",
+    Kor:"갓이 다윗에게 가서, 그에게 말하여 알렸다. \"임금님의 나라에 일곱 해 동안 흉년이 들게 하는 것이 좋겠습니까? 아니면, 임금님께서 왕의 목숨을 노리고 쫓아다니는 원수들을 피하여 석 달 동안 도망을 다니시는 것이 좋겠습니까? 아니면, 임금님의 나라에 사흘 동안 전염병이 퍼지는 것이 좋겠습니까? 이제 임금님께서는, 저를 임금님께 보내신 분에게, 제가 무엇이라고 보고하면 좋을지, 잘 생각하여 보시고, 결정하여 주시기 바랍니다.\"",
     Chn:"于是迦得来见大卫，对他说：「你愿意国中有七年的饥荒呢？是在你敌人面前逃跑，被追赶三个月呢？是在你国中有三日的瘟疫呢？现在你要揣摩思想，我好回复那差我来的。」",
     Eng:"So Gad went to David and said to him, \"Shall there come upon you three years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.\"",
     Ind:"Kemudian datanglah Gad kepada Daud, memberitahukan kepadanya dengan berkata kepadanya: \"Akan datangkah menimpa engkau tiga tahun kelaparan di negerimu? Atau maukah engkau melarikan diri tiga bulan lamanya dari hadapan lawanmu, sedang mereka itu mengejar engkau? Atau, akan adakah tiga hari penyakit sampar di negerimu? Maka sekarang, pikirkanlah dan timbanglah, jawab apa yang harus kusampaikan kepada Yang mengutus aku.\""
@@ -87,31 +87,31 @@ BibleDB.add([
     Ind:"Lalu berkatalah Daud kepada Gad: \"Sangat susah hatiku, biarlah kiranya kita jatuh ke dalam tangan TUHAN, sebab besar kasih sayang-Nya; tetapi janganlah aku jatuh ke dalam tangan manusia.\""
   },
   {Bible:"2Samuel", Chapter:24, Verse:15, Page:1,
-    Kor:"○그리하여 그 날 아침부터 정하여진 때까지, 주님께서 이스라엘에 전염병을 내리시니, 단에서부터 브엘세바에 이르기까지, 백성 가운데서 죽은 사람이 칠만 명이나 되었다.",
+    Kor:"○그리하여 그 날 아침부터 정하여진 때까지, 주께서 이스라엘에 전염병을 내리시니, 단에서부터 브엘세바에 이르기까지, 백성 가운데서 죽은 사람이 칠만 명이나 되었다.",
     Chn:"于是，耶和华降瘟疫与以色列人，自早晨到所定的时候；从但直到别是巴，民间死了七万人。",
     Eng:"So the LORD sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died.",
     Ind:"Jadi TUHAN mendatangkan penyakit sampar kepada orang Israel dari pagi hari sampai waktu yang ditetapkan, maka matilah dari antara bangsa itu, dari Dan sampai Bersyeba, tujuh puluh ribu orang."
   },
   {Bible:"2Samuel", Chapter:24, Verse:16, Page:1,
-    Kor:"천사가 예루살렘 쪽으로 손을 뻗쳐서 그 도성을 치는 순간에, 주님께서는 재앙을 내리신 것을 뉘우치시고, 백성을 사정없이 죽이는 천사에게 \"그만하면 됐다. 이제 너의 손을 거두어라\" 하고 명하셨다. 그 때에 주님의 천사는 여부스 사람 아라우나의 타작 마당 곁에 있었다.",
+    Kor:"천사가 예루살렘 쪽으로 손을 뻗쳐서 그 도성을 치는 순간에, 주께서는 재앙을 내리신 것을 뉘우치시고, 백성을 사정없이 죽이는 천사에게 \"그만하면 됐다. 이제 너의 손을 거두어라\" 하고 명하셨다. 그 때에, 주의 천사는 여부스 사람 아라우나의 타작 마당 곁에 있었다.",
     Chn:"天使向耶路撒冷伸手要灭城的时候，耶和华后悔，就不降这灾了，吩咐灭民的天使说：「够了！住手吧！」那时耶和华的使者在耶布斯人亚劳拿的禾场那里。",
     Eng:"When the angel stretched out his hand to destroy Jerusalem, the LORD was grieved because of the calamity and said to the angel who was afflicting the people, \"Enough! Withdraw your hand.\" The angel of the LORD was then at the threshing floor of Araunah the Jebusite.",
     Ind:"Ketika malaikat mengacungkan tangannya ke Yerusalem untuk memusnahkannya, maka menyesallah TUHAN karena malapetaka itu, lalu Ia berfirman kepada malaikat yang mendatangkan kemusnahan kepada bangsa itu: \"Cukup! Turunkanlah sekarang tanganmu itu.\" Pada waktu itu malaikat TUHAN itu ada dekat tempat pengirikan Arauna, orang Yebus."
   },
   {Bible:"2Samuel", Chapter:24, Verse:17, Page:1,
-    Kor:"○그 때에 다윗이 백성을 쳐죽이는 천사를 보고, 주님께 아뢰었다. \"바로 내가 죄를 지은 사람입니다. 바로 내가 이런 악을 저지른 사람입니다. 백성은 양 떼일 뿐입니다. 그들에게는 아무런 잘못도 없습니다. 나와 내 아버지의 집안을 쳐 주십시오.\"",
+    Kor:"○그 때에 다윗이 백성을 쳐죽이는 천사를 보고, 주께 아뢰었다. \"바로 내가 죄를 지은 사람입니다. 바로 내가 이런 악을 저지른 사람입니다. 백성은 양 떼일 뿐입니다. 그들에게는 아무런 잘못도 없습니다. 나와 내 아버지의 집안을 쳐 주십시오.\"",
     Chn:"大卫看见灭民的天使，就祷告耶和华说：「我犯了罪，行了恶；但这群羊做了什么呢？愿你的手攻击我和我的父家。」",
     Eng:"When David saw the angel who was striking down the people, he said to the LORD, \"I am the one who has sinned and done wrong. These are but sheep. What have they done? Let your hand fall upon me and my family.\"",
     Ind:"Dan berkatalah Daud kepada TUHAN, ketika dilihatnya malaikat yang tengah memusnahkan bangsa itu, demikian: \"Sesungguhnya, aku telah berdosa, dan aku telah membuat kesalahan, tetapi domba-domba ini, apakah yang dilakukan mereka? Biarlah kiranya tangan-Mu menimpa aku dan kaum keluargaku.\""
   },
   {Bible:"2Samuel", Chapter:24, Verse:18, Page:1,
-    Kor:"○그 날 갓이 다윗에게 와서 말하였다. \"여부스 사람 아라우나의 타작 마당으로 올라가셔서, 거기에서 주님께 제단을 쌓으십시오.\"",
+    Kor:"○그 날, 갓이 다윗에게 와서 말하였다. \"여부스 사람 아라우나의 타작 마당으로 올라가셔서, 거기에서 주께 제단을 쌓으십시오.\"",
     Chn:"当日，迦得来见大卫，对他说：「你上去，在耶布斯人亚劳拿的禾场上为耶和华筑一座坛。」",
     Eng:"On that day Gad went to David and said to him, \"Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.\"",
     Ind:"Pada hari itu datanglah Gad kepada Daud dan berkata kepadanya: \"Pergilah, dirikanlah mezbah bagi TUHAN di tempat pengirikan Arauna, orang Yebus itu.\""
   },
   {Bible:"2Samuel", Chapter:24, Verse:19, Page:1,
-    Kor:"다윗은 갓이 전하여 준 주님의 명령에 따라서, 그 곳으로 올라갔다.",
+    Kor:"다윗은 갓이 전하여 준 주의 명령에 따라서, 그 곳으로 올라갔다.",
     Chn:"大卫就照着迦得奉耶和华名所说的话上去了。",
     Eng:"So David went up, as the LORD had commanded through Gad.",
     Ind:"Lalu pergilah Daud, sesuai dengan perkataan Gad, seperti yang diperintahkan TUHAN."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Ketika Arauna menjenguk dan melihat raja dengan pegawai-pegawainya mendapatkannya, pergilah Arauna ke luar, lalu sujud kepada raja dengan mukanya ke tanah."
   },
   {Bible:"2Samuel", Chapter:24, Verse:21, Page:1,
-    Kor:"그런 다음에 물었다. \"어찌하여 높으신 임금님께서 이 종에게 오십니까?\" 다윗이 대답하였다. \"그대에게서 이 타작 마당을 사서, 주님께 제단을 쌓아서, 백성에게 내리는 재앙을 그치게 하려고 하오.\"",
+    Kor:"그런 다음에, 물었다. \"어찌하여 높으신 임금님께서 이 종에게 오십니까?\" 다윗이 대답하였다. \"그대에게서 이 타작 마당을 사서, 주께 제단을 쌓아서, 백성에게 내리는 재앙을 그치게 하려고 하오.\"",
     Chn:"说：「我主我王为何来到仆人这里呢？」大卫说：「我要买你这禾场，为耶和华筑一座坛，使民间的瘟疫止住。」",
     Eng:"Araunah said, \"Why has my lord the king come to his servant?\" \"To buy your threshing floor,\" David answered, \"so I can build an altar to the LORD, that the plague on the people may be stopped.\"",
     Ind:"Bertanyalah Arauna: \"Mengapa tuanku raja datang kepada hambanya ini?\" Jawab Daud: \"Untuk membeli tempat pengirikan ini dari padamu dengan maksud mendirikan mezbah bagi TUHAN, supaya tulah ini berhenti menimpa rakyat.\""
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Tetapi berkatalah raja kepada Arauna: \"Bukan begitu, melainkan aku mau membelinya dari padamu dengan membayar harganya, sebab aku tidak mau mempersembahkan kepada TUHAN, Allahku, korban bakaran dengan tidak membayar apa-apa.\" Sesudah itu Daud membeli tempat pengirikan dan lembu-lembu itu dengan harga lima puluh syikal perak."
   },
   {Bible:"2Samuel", Chapter:24, Verse:25, Page:1,
-    Kor:"거기에서 다윗은 주님께 제단을 쌓아, 번제와 화목제를 드렸다. 다윗이 땅을 돌보아 달라고 주님께 비니, 주님께서 그의 기도를 들어 주셔서, 이스라엘에 내리던 재앙이 그쳤다.",
+    Kor:"거기에서 다윗은 주께 제단을 쌓아, 번제와 화목제를 드렸다. 다윗이 땅을 돌보아 달라고 주께 비니, 주께서 그의 기도를 들어 주셔서, 이스라엘에 내리던 재앙이 그쳤다.",
     Chn:"大卫在那里为耶和华筑了一座坛，献燔祭和平安祭。如此，耶和华垂听国民所求的，瘟疫在以色列人中就止住了。",
     Eng:"David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. Then the Lord answered prayer in behalf of the land, and the plague on Israel was stopped.",
     Ind:"Lalu Daud mendirikan di sana mezbah bagi TUHAN dan mempersembahkan korban bakaran dan korban keselamatan. Maka TUHAN mengabulkan doa untuk negeri itu, dan tulah itu berhenti menimpa orang Israel."

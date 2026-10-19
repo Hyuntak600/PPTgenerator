@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",12,31);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:12, Verse:1, Page:1,
-    Kor:"<나단의 책망과 다윗의 회개> 주님께서 예언자 나단을 다윗에게 보내셨다. 나단은 다윗을 찾아와서, 이런 이야기를 하였다. ○\"어떤 성읍에 두 사람이 살았습니다. 한 사람은 부유하였고, 한 사람은 가난하였습니다.",
+    Kor:"주께서 예언자 나단을 다윗에게 보내셨다. 나단은 다윗을 찾아와서, 이런 이야기를 하였다. ○\"어떤 성읍에 두 사람이 살았습니다. 한 사람은 부유하였고, 한 사람은 가난하였습니다.",
     Chn:"耶和华差遣拿单去见大卫。拿单到了大卫那里，对他说：「在一座城里有两个人：一个是富户，一个是穷人。",
     Eng:"The LORD sent Nathan to David. When he came to him, he said, \"There were two men in a certain town, one rich and the other poor.",
     Ind:"TUHAN mengutus Natan kepada Daud. Ia datang kepada Daud dan berkata kepadanya: \"Ada dua orang dalam suatu kota: yang seorang kaya, yang lain miskin."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Pada suatu waktu orang kaya itu mendapat tamu; dan ia merasa sayang mengambil seekor dari kambing dombanya atau lembunya untuk memasaknya bagi pengembara yang datang kepadanya itu. Jadi ia mengambil anak domba betina kepunyaan si miskin itu, dan memasaknya bagi orang yang datang kepadanya itu.\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:5, Page:1,
-    Kor:"○다윗은 그 부자가 못마땅하여, 몹시 분개하면서, 나단에게 말하였다. \"주님께서 확실히 살아 계심을 두고서 맹세하지만, 그런 일을 한 사람은 죽어야 마땅합니다.",
+    Kor:"○다윗은 그 부자가 못마땅하여, 몹시 분개하면서, 나단에게 말하였다. \"주께서 확실히 살아 계심을 두고서 맹세하지만, 그런 일을 한 사람은 죽어야 마땅하다.",
     Chn:"大卫就甚恼怒那人，对拿单说：「我指着永生的耶和华起誓，行这事的人该死！",
     Eng:"David burned with anger against the man and said to Nathan, \"As surely as the LORD lives, the man who did this deserves to die!",
     Ind:"Lalu Daud menjadi sangat marah karena orang itu dan ia berkata kepada Natan: \"Demi TUHAN yang hidup: orang yang melakukan itu harus dihukum mati."
   },
   {Bible:"2Samuel", Chapter:12, Verse:6, Page:1,
-    Kor:"또 그가 그런 일을 하면서도 불쌍히 여기는 마음이 전혀 없었으니, 그는 마땅히 그 어린 암양을 네 배로 갚아 주어야 합니다.\"",
+    Kor:"또 그가 그런 일을 하면서도 불쌍히 여기는 마음이 전혀 없었으니, 그는 마땅히 그 어린 암양을 네 배로 갚아 주어야 한다.\"",
     Chn:"他必偿还羊羔四倍；因为他行这事，没有怜恤的心。」",
     Eng:"He must pay for that lamb four times over, because he did such a thing and had no pity.\"",
     Ind:"Dan anak domba betina itu harus dibayar gantinya empat kali lipat, karena ia telah melakukan hal itu dan oleh karena ia tidak kenal belas kasihan.\""
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Telah Kuberikan isi rumah tuanmu kepadamu, dan isteri-isteri tuanmu ke dalam pangkuanmu. Aku telah memberikan kepadamu kaum Israel dan Yehuda; dan seandainya itu belum cukup, tentu Kutambah lagi ini dan itu kepadamu."
   },
   {Bible:"2Samuel", Chapter:12, Verse:9, Page:1,
-    Kor:"그런데도 너는, 어찌하여 나 주의 말을 가볍게 여기고, 내가 악하게 여기는 일을 하였느냐? 너는 헷 사람 우리야를 전쟁터에서 죽이고 그의 아내를 빼앗아 네 아내로 삼았다. 너는 그를 암몬 사람의 칼에 맞아서 죽게 하였다.",
+    Kor:"그런데도 너는, 어찌하여 나 주의 말을 가볍게 여기고, 내가 악하게 여기는 일을 하였느냐? 너는 헷 사람 우리아를 전쟁터에서 죽이고 그의 아내를 빼앗아 네 아내로 삼았다. 너는 그를 암몬 사람의 칼에 맞아서 죽게 하였다.",
     Chn:"你为什么藐视耶和华的命令，行他眼中看为恶的事呢？你借亚扪人的刀杀害赫人乌利亚，又娶了他的妻为妻。",
     Eng:"Why did you despise the word of the LORD by doing what is evil in his eyes? You struck down Uriah the Hittite with the sword and took his wife to be your own. You killed him with the sword of the Ammonites.",
     Ind:"Mengapa engkau menghina TUHAN dengan melakukan apa yang jahat di mata-Nya? Uria, orang Het itu, kaubiarkan ditewaskan dengan pedang; isterinya kauambil menjadi isterimu, dan dia sendiri telah kaubiarkan dibunuh oleh pedang bani Amon."
   },
   {Bible:"2Samuel", Chapter:12, Verse:10, Page:1,
-    Kor:"너는 이렇게 나를 무시하여 헷 사람 우리야의 아내를 빼앗아다가 네 아내로 삼았으므로, 이제부터는 영영 네 집안에서 칼부림이 떠나지 않을 것이다.'",
+    Kor:"너는 이렇게 나를 무시하여 헷 사람 우리아의 아내를 빼앗아다가 네 아내로 삼았으므로, 이제부터는 영영 네 집안에서 칼부림이 떠나지 않을 것이다.'",
     Chn:"你既藐视我，娶了赫人乌利亚的妻为妻，所以刀剑必永不离开你的家。』",
     Eng:"Now, therefore, the sword will never depart from your house, because you despised me and took the wife of Uriah the Hittite to be your own.'",
     Ind:"Oleh sebab itu, pedang tidak akan menyingkir dari keturunanmu sampai selamanya, karena engkau telah menghina Aku dan mengambil isteri Uria, orang Het itu, untuk menjadi isterimu."
   },
   {Bible:"2Samuel", Chapter:12, Verse:11, Page:1,
-    Kor:"○주님께서 또 이렇게 말씀하십니다. '내가 너의 집안에 재앙을 일으키고, 네가 보는 앞에서 내가 너의 아내들도 빼앗아 너와 가까운 사람에게 주어서, 그가 대낮에 너의 아내들을 욕보이게 하겠다.",
+    Kor:"○주께서 또 이렇게 말씀하십니다. '내가 너의 집안에 재앙을 일으키고, 네가 보는 앞에서, 내가 너의 아내들도 빼앗아, 너와 가까운 사람에게 주어서, 그가 대낮에 너의 아내들을 욕보이게 하겠다.",
     Chn:"耶和华如此说：『我必从你家中兴起祸患攻击你；我必在你眼前把你的妃嫔赐给别人，他在日光之下就与她们同寝。",
     Eng:"\"This is what the LORD says: 'Out of your own household I am going to bring calamity upon you. Before your very eyes I will take your wives and give them to one who is close to you, and he will lie with your wives in broad daylight.",
     Ind:"Beginilah firman TUHAN: Bahwasanya malapetaka akan Kutimpakan ke atasmu yang datang dari kaum keluargamu sendiri. Aku akan mengambil isteri-isterimu di depan matamu dan memberikannya kepada orang lain; orang itu akan tidur dengan isteri-isterimu di siang hari."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Sebab engkau telah melakukannya secara tersembunyi, tetapi Aku akan melakukan hal itu di depan seluruh Israel secara terang-terangan.\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:13, Page:1,
-    Kor:"○그 때에 다윗이 나단에게 자백하였다. \"내가 주님께 죄를 지었습니다.\" 나단이 다윗에게 말하였다. \"주님께서 임금님의 죄를 용서해 주실 것입니다. 그러므로 임금님은 죽지는 않으실 것입니다.",
+    Kor:"○그 때에 다윗이 나단에게 자백하였다. \"내가 주께 죄를 지었습니다.\" 나단이 다윗에게 말하였다. \"주께서 임금님의 죄를 용서해 주실 것입니다. 그러므로 임금님은 죽지는 않으실 것입니다.",
     Chn:"大卫对拿单说：「我得罪耶和华了！」拿单说：「耶和华已经除掉你的罪，你必不至于死。",
     Eng:"Then David said to Nathan, \"I have sinned against the LORD.\" Nathan replied, \"The LORD has taken away your sin. You are not going to die.",
     Ind:"Lalu berkatalah Daud kepada Natan: \"Aku sudah berdosa kepada TUHAN.\" Dan Natan berkata kepada Daud: \"TUHAN telah menjauhkan dosamu itu: engkau tidak akan mati."
   },
   {Bible:"2Samuel", Chapter:12, Verse:14, Page:1,
-    Kor:"그러나 임금님은 이번 일로 주님의 원수들에게 우리를 비방할 빌미를 주셨으므로, 밧세바와 임금님 사이에서 태어난 아들은 죽을 것입니다.\"",
+    Kor:"그러나 임금님은 이번 일로, 주의 원수들에게 우리를 비방할 빌미를 주셨으므로, 밧세바와 임금님 사이에서 태어난 아들은 죽을 것입니다.\"",
     Chn:"只是你行这事，叫耶和华的仇敌大得亵渎的机会，故此，你所得的孩子必定要死。」",
     Eng:"But because by doing this you have made the enemies of the LORD show utter contempt, the son born to you will die.\"",
     Ind:"Walaupun demikian, karena engkau dengan perbuatan ini telah sangat menista TUHAN, pastilah anak yang lahir bagimu itu akan mati.\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:15, Page:1,
-    Kor:"나단은 자기 집으로 돌아갔다. <다윗의 아들이 죽다> ○주님께서, 우리야의 아내와 다윗 사이에서 태어난 아이를 치시니, 그 아이가 몹시 앓았다.",
+    Kor:"나단은 자기 집으로 돌아갔다. ○주께서, 우리아의 아내와 다윗 사이에서 태어난 아이를 치시니, 그 아이가 몹시 앓았다.",
     Chn:"拿单就回家去了。 耶和华击打乌利亚妻给大卫所生的孩子，使他得重病。",
     Eng:"After Nathan had gone home, the LORD struck the child that Uriah's wife had borne to David, and he became ill.",
     Ind:"Kemudian pergilah Natan ke rumahnya. Dan TUHAN menulahi anak yang dilahirkan bekas isteri Uria bagi Daud, sehingga sakit."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Maka datanglah kepadanya para tua-tua yang di rumahnya untuk meminta ia bangun dari lantai, tetapi ia tidak mau; juga ia tidak makan bersama-sama dengan mereka."
   },
   {Bible:"2Samuel", Chapter:12, Verse:18, Page:1,
-    Kor:"그러다가, 이레째 되는 날에 그 아이가 죽었다. 그러나 다윗의 신하들은, 아이가 죽었다는 것을 다윗에게 알리기를 두려워하였다. \"어린 왕자가 살아 계실 때에도 우리가 드리는 말씀을 듣지 않으셨는데, 왕자께서 돌아가셨다는 소식을, 우리가 어떻게 전하여 드릴 수 있겠소? 그런 소식은 임금님의 몸에 해로울지도 모르오.\"",
+    Kor:"그러다가, 이레째 되는 날에, 그 아이가 죽었다. 그러나 다윗의 신하들은, 아이가 죽었다는 것을 다윗에게 알리기를 두려워하였다. \"어린 왕자가 살아 계실 때에도, 우리가 드리는 말씀을 듣지 않으셨는데, 왕자께서 죽으셨다는 소식을, 우리가 어떻게 전하여 드릴 수 있겠소? 그런 소식은 임금님의 몸에 해로울지도 모르오.\"",
     Chn:"到第七日，孩子死了。大卫的臣仆不敢告诉他孩子死了，因他们说：「孩子还活着的时候，我们劝他，他尚且不肯听我们的话，若告诉他孩子死了，岂不更加忧伤吗？」",
     Eng:"On the seventh day the child died. David's servants were afraid to tell him that the child was dead, for they thought, \"While the child was still living, we spoke to David but he would not listen to us. How can we tell him the child is dead? He may do something desperate.\"",
     Ind:"Pada hari yang ketujuh matilah anak itu. Dan pegawai-pegawai Daud takut memberitahukan kepadanya, bahwa anak itu sudah mati. Sebab mereka berkata: \"Ketika anak itu masih hidup, kita telah berbicara kepadanya, tetapi ia tidak menghiraukan perkataan kita. Bagaimana kita dapat mengatakan kepadanya: anak itu sudah mati? Jangan-jangan ia mencelakakan diri!\""
@@ -117,43 +117,43 @@ BibleDB.add([
     Ind:"Ketika Daud melihat, bahwa pegawai-pegawainya berbisik-bisik, mengertilah ia, bahwa anak itu sudah mati. Lalu Daud bertanya kepada pegawai-pegawainya: \"Sudah matikah anak itu?\" Jawab mereka: \"Sudah.\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:20, Page:1,
-    Kor:"그러자 다윗은 땅바닥에서 일어나서, 목욕을 하고, 몸에 기름을 바르고, 옷을 갈아 입은 뒤에, 성전으로 들어가서 주님께 경배하였다. 그는 왕궁으로 돌아오자, 음식을 차려오게 하여서 먹었다.",
+    Kor:"그러자 다윗은 땅바닥에서 일어나서, 목욕을 하고, 몸에 기름을 바르고, 옷을 갈아 입은 뒤에, 성전으로 들어가서 주께 경배하였다. 그는 왕궁으로 돌아오자, 음식을 차려오게 하여서 먹었다.",
     Chn:"大卫就从地上起来，沐浴，抹膏，换了衣裳，进耶和华的殿敬拜；然后回宫，吩咐人摆饭，他便吃了。",
     Eng:"Then David got up from the ground. After he had washed, put on lotions and changed his clothes, he went into the house of the LORD and worshiped. Then he went to his own house, and at his request they served him food, and he ate.",
     Ind:"Lalu Daud bangun dari lantai, ia mandi dan berurap dan bertukar pakaian; ia masuk ke dalam rumah TUHAN dan sujud menyembah. Sesudah itu pulanglah ia ke rumahnya, dan atas permintaannya dihidangkan kepadanya roti, lalu ia makan."
   },
   {Bible:"2Samuel", Chapter:12, Verse:21, Page:1,
-    Kor:"신하들이 다윗에게 물었다. \"왕자가 살아 계실 때에는 임금님께서 식음을 전폐하고 슬퍼하시더니, 이제 왕자가 돌아가시자 임금님께서 일어나셔서 음식을 드시니, 이것이 어떻게 된 일이십니까?\"",
+    Kor:"신하들이 다윗에게 물었다. \"왕자가 살아 계실 때에는, 임금님께서 식음을 전폐하고 슬퍼하시더니, 이제 왕자가 돌아가시자 임금님께서 일어나셔서 음식을 드시니, 이것이 어떻게 된 일이십니까?\"",
     Chn:"臣仆问他说：「你所行的是什么意思？孩子活着的时候，你禁食哭泣；孩子死了，你倒起来吃饭。」",
     Eng:"His servants asked him, \"Why are you acting this way? While the child was alive, you fasted and wept, but now that the child is dead, you get up and eat!\"",
     Ind:"Berkatalah pegawai-pegawainya kepadanya: \"Apakah artinya hal yang kauperbuat ini? Oleh karena anak yang masih hidup itu, engkau berpuasa dan menangis, tetapi sesudah anak itu mati, engkau bangun dan makan!\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:22, Page:1,
-    Kor:"다윗이 대답하였다. \"아이가 살아 있을 때에 내가 금식하면서 운 것은, 혹시 주님께서 나를 불쌍히 여겨 주셔서, 그 아이를 살려 주실지도 모른다고 생각하였기 때문이오.",
+    Kor:"다윗이 대답하였다. \"아이가 살아 있을 때에, 내가 금식하면서 운 것은, 혹시 주께서 나를 불쌍히 여겨 주셔서, 그 아이를 살려 주실지도 모른다고 생각하였기 때문이오.",
     Chn:"大卫说：「孩子还活着，我禁食哭泣；因为我想，或者耶和华怜恤我，使孩子不死也未可知。",
     Eng:"He answered, \"While the child was still alive, I fasted and wept. I thought, 'Who knows? The LORD may be gracious to me and let the child live.'",
     Ind:"Jawabnya: \"Selagi anak itu hidup, aku berpuasa dan menangis, karena pikirku: siapa tahu TUHAN mengasihani aku, sehingga anak itu tetap hidup."
   },
   {Bible:"2Samuel", Chapter:12, Verse:23, Page:1,
-    Kor:"그러나 이제는 그 아이가 죽었는데, 무엇 때문에 내가 계속 금식하겠소? 내가 그를 다시 돌아오게 할 수가 있겠소? 나는 그에게로 갈 수 있지만, 그는 나에게로 올 수가 없소.\"",
+    Kor:"그러나 이제는, 그 아이가 죽었는데, 무엇 때문에 내가 계속 금식하겠소? 내가 그를 다시 돌아오게 할 수가 있겠소? 나는 그에게로 갈 수 있지만, 그는 나에게로 올 수가 없소.\"",
     Chn:"孩子死了，我何必禁食，我岂能使他返回呢？我必往他那里去，他却不能回我这里来。」",
     Eng:"But now that he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.\"",
     Ind:"Tetapi sekarang ia sudah mati, mengapa aku harus berpuasa? Dapatkah aku mengembalikannya lagi? Aku yang akan pergi kepadanya, tetapi ia tidak akan kembali kepadaku.\""
   },
   {Bible:"2Samuel", Chapter:12, Verse:24, Page:1,
-    Kor:"<솔로몬이 태어나다> ○그 뒤에 다윗이 자기의 아내 밧세바를 위로하고, 동침하니, 그 여인이 아들을 낳았다. 다윗이 그의 이름을 솔로몬이라고 하였다. 주님께서도 그 아이를 사랑해 주셔서,",
+    Kor:"○그 뒤에 다윗이 자기의 아내 밧세바를 위로하고, 동침하니, 그 여인이 아들을 낳았다. 다윗이 그의 이름을 솔로몬이라고 하였다. 주께서도 그 아이를 사랑해 주셔서,",
     Chn:"大卫安慰他的妻拔示巴，与她同寝，她就生了儿子，给他起名叫所罗门。耶和华也喜爱他，",
     Eng:"Then David comforted his wife Bathsheba, and he went to her and lay with her. She gave birth to a son, and they named him Solomon. The LORD loved him;",
     Ind:"Kemudian Daud menghibur hati Batsyeba, isterinya; ia menghampiri perempuan itu dan tidur dengan dia, dan perempuan itu melahirkan seorang anak laki-laki, lalu Daud memberi nama Salomo kepada anak itu. TUHAN mengasihi anak ini"
   },
   {Bible:"2Samuel", Chapter:12, Verse:25, Page:1,
-    Kor:"예언자 나단을 보내셔서, 주님께서 사랑하신다는 뜻으로, 그의 이름을 여디디야라고 부르게 하셨다.",
+    Kor:"예언자 나단을 보내셔서, 주께서 사랑하신다는 뜻으로, 그의 이름을 여디디야라고 부르게 하셨다.",
     Chn:"就借先知拿单赐他一个名字，叫耶底底亚，因为耶和华爱他。",
     Eng:"and because the LORD loved him, he sent word through Nathan the prophet to name him Jedidiah.",
     Ind:"dan dengan perantaraan nabi Natan Ia menyuruh menamakan anak itu Yedija, oleh karena TUHAN."
   },
   {Bible:"2Samuel", Chapter:12, Verse:26, Page:1,
-    Kor:"<다윗이 랍바를 점령하다(대상 20:1-3)> ○요압이 암몬 사람의 도성 랍바를 쳐서, 그 왕의 도성을 점령하고서,",
+    Kor:"○요압이 암몬 사람의 도성 랍바를 쳐서, 그 왕의 도성을 점령하고서,",
     Chn:"约押攻取亚扪人的京城拉巴。",
     Eng:"Meanwhile Joab fought against Rabbah of the Ammonites and captured the royal citadel.",
     Ind:"Yoab berperang melawan Raba, kota bani Amon dan ia merebut kota kerajaan."

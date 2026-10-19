@@ -3,7 +3,7 @@
 BibleDB.ref("Judges",9,57);
 BibleDB.add([
   {Bible:"Judges", Chapter:9, Verse:1, Page:1,
-    Kor:"<아비멜렉> 여룹바알의 아들 아비멜렉이 세겜에 있는 외가의 친척을 찾아가서 그들과 외조부의 온 가족에게 말하였다.",
+    Kor:"여룹바알의 아들 아비멜렉이 세겜에 있는 외가의 친척을 찾아가서 그들과 외조부의 온 가족에게 말하였다.",
     Chn:"耶路·巴力的儿子亚比米勒到了示剑见他的众母舅，对他们和他外祖全家的人说：",
     Eng:"Abimelech son of Jerub-Baal went to his mother's brothers in Shechem and said to them and to all his mother's clan,",
     Ind:"Adapun Abimelekh bin Yerubaal pergi ke Sikhem kepada saudara-saudara ibunya dan berkata kepada mereka dan kepada seluruh kaum dari pihak keluarga ibunya:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"\"Tolong katakan kepada seluruh warga kota Sikhem: Manakah yang lebih baik bagimu: tujuh puluh orang memerintah kamu, yaitu semua anak Yerubaal, atau satu orang? Dan ingat juga, bahwa aku darah dagingmu.\""
   },
   {Bible:"Judges", Chapter:9, Verse:3, Page:1,
-    Kor:"그의 외가 친척이 그의 부탁대로 세겜 성읍의 모든 사람에게 그가 한 말을 모두 전하니, 그들의 마음이 아비멜렉에게 기울어져서 모두 \"그는 우리의 혈육이다\" 하고 말하게 되었다.",
+    Kor:"그의 외가 친척이 그의 부탁대로, 세겜 성읍의 모든 사람에게 그가 한 말을 모두 전하니, 그들의 마음이 아비멜렉에게 기울어져서 모두 \"그는 우리의 혈육이다\" 하고 말하게 되었다.",
     Chn:"他的众母舅便将这一切话为他说给示剑人听，示剑人的心就归向亚比米勒。他们说：「他原是我们的弟兄」；",
     Eng:"When the brothers repeated all this to the citizens of Shechem, they were inclined to follow Abimelech, for they said, \"He is our brother.\"",
     Ind:"Lalu saudara-saudara ibunya mengatakan hal ihwalnya kepada seluruh warga kota Sikhem, maka condonglah hati orang-orang itu untuk mengikuti Abimelekh, sebab kata mereka: \"Memang ia saudara kita.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Kemudian berkumpullah seluruh warga kota Sikhem dan seluruh Bet-Milo; mereka pergi menobatkan Abimelekh menjadi raja dekat pohon tarbantin di tugu peringatan yang di Sikhem."
   },
   {Bible:"Judges", Chapter:9, Verse:7, Page:1,
-    Kor:"○사람들이 이 소식을 요담에게 전하니, 그가 그리심 산 꼭대기에 올라가 서서, 큰소리로 그들에게 외쳤다. \"세겜 성읍 사람들은 내 말을 들으십시오. 그래야 하나님이 여러분의 청을 들어주실 것입니다.",
+    Kor:"○사람들이 이 소식을 요담에게 전하니, 그가 그리심 산 꼭대기에 올라가 서서, 큰소리로 그들에게 외쳤다. \"세겜 성읍 사람들은 내 말을 들으십시오. 그래야, 하나님이 여러분의 청을 들어주실 것입니다.",
     Chn:"有人将这事告诉约坦，他就去站在基利心山顶上，向众人大声喊叫说：「示剑人哪，你们要听我的话，　神也就听你们的话。",
     Eng:"When Jotham was told about this, he climbed up on the top of Mount Gerizim and shouted to them, \"Listen to me, citizens of Shechem, so that God may listen to you.",
     Ind:"Setelah hal itu dikabarkan kepada Yotam, pergilah ia ke gunung Gerizim dan berdiri di atasnya, lalu berserulah ia dengan suara nyaring kepada mereka: \"Dengarkanlah aku, kamu warga kota Sikhem, maka Allah akan mendengarkan kamu juga."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"padahal kamu sekarang memberontak terhadap keturunan ayahku dan membunuh anak-anaknya, tujuh puluh orang banyaknya, di atas satu batu, serta membuat Abimelekh anak seorang budaknya perempuan menjadi raja atas warga kota Sikhem, karena ia saudaramu--"
   },
   {Bible:"Judges", Chapter:9, Verse:19, Page:1,
-    Kor:"여러분이 오늘 여룹바알과 그 집안에게 한 일이 옳고 마땅하다면, 여러분은 아비멜렉과 더불어 기쁨을 누리고, 그도 여러분과 더불어 기쁨을 누리게 하십시오.",
+    Kor:"여러분이, 오늘, 여룹바알과 그 집안에게 한 일이 옳고 마땅하다면, 여러분은 아비멜렉과 더불어 기쁨을 누리고, 그도 여러분과 더불어 기쁨을 누리게 하십시오.",
     Chn:"你们如今若按诚实正直待耶路·巴力和他的家，就可因亚比米勒得欢乐，他也可因你们得欢乐；",
     Eng:"if then you have acted honorably and in good faith toward Jerub-Baal and his family today, may Abimelech be your joy, and may you be his, too!",
     Ind:"jadi jika kamu pada hari ini berlaku setia dan tulus ikhlas kepada Yerubaal dan keturunannya, maka silakanlah kamu bersukacita atas Abimelekh dan silakanlah ia bersukacita atas kamu."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Tetapi jika tidak demikian, maka biarlah api keluar dari pada Abimelekh dan memakan habis warga kota Sikhem dan juga Bet-Milo, dan biarlah api keluar dari pada warga kota Sikhem dan juga dari Bet-Milo dan memakan habis Abimelekh.\""
   },
   {Bible:"Judges", Chapter:9, Verse:21, Page:1,
-    Kor:"○요담은 도망하여 브엘로 가서 피하였다. 그는 자기의 형 아비멜렉이 두려워서, 거기에 머물러 살았다.",
+    Kor:"○요담은 도망하여, 브엘로 가서 피하였다. 그는 자기의 형 아비멜렉이 두려워서, 거기에 머물러 살았다.",
     Chn:"约坦因怕他弟兄亚比米勒，就逃跑，来到比珥，住在那里。",
     Eng:"Then Jotham fled, escaping to Beer, and he lived there because he was afraid of his brother Abimelech.",
     Ind:"Kemudian larilah Yotam; ia melarikan diri ke Beer, dan tinggal di sana karena takut kepada Abimelekh, saudaranya itu."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"supaya kekerasan terhadap ketujuh puluh anak Yerubaal dibalaskan dan darah mereka ditimpakan kepada Abimelekh, saudara mereka yang telah membunuh mereka dan kepada warga kota Sikhem yang membantu dia membunuh saudara-saudaranya itu."
   },
   {Bible:"Judges", Chapter:9, Verse:25, Page:1,
-    Kor:"세겜 성읍 사람들이 아비멜렉을 괴롭히려고 산꼭대기마다 사람을 매복시키고, 그 곳을 지나가는 모든 사람을 강탈하게 하자, 이 소식이 아비멜렉에게 들렸다.",
+    Kor:"세겜 성읍 사람들이 아비멜렉을 괴롭히려고, 산꼭대기마다 사람을 매복시키고, 그 곳을 지나가는 모든 사람을 강탈하게 하자, 이 소식이 아비멜렉에게 들렸다.",
     Chn:"示剑人在山顶上设埋伏，等候亚比米勒。凡从他们那里经过的人，他们就抢夺。有人将这事告诉亚比米勒。",
     Eng:"In opposition to him these citizens of Shechem set men on the hilltops to ambush and rob everyone who passed by, and this was reported to Abimelech.",
     Ind:"Sebab warga kota Sikhem itu menempatkan orang untuk menghadang dia di puncak gunung dan merampas setiap orang yang melewati mereka melalui jalan itu. Hal itu dikabarkan kepada Abimelekh."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Sementara itu Gaal bin Ebed beserta saudara-saudaranya telah datang dan pindah ke kota Sikhem. Warga kota Sikhem percaya kepadanya,"
   },
   {Bible:"Judges", Chapter:9, Verse:27, Page:1,
-    Kor:"마침 추수 때가 되어, 세겜 성읍 사람들은 들로 나가 그들의 포도원에서 포도를 따다가, 포도주를 만들고 잔치를 베풀었다. 그들은 신전에 들어가 먹고 마시면서, 아비멜렉을 저주하였다.",
+    Kor:"마침 추수 때가 되어 세겜 성읍 사람들은 들로 나가, 그들의 포도원에서 포도를 따다가 포도주를 만들고 잔치를 베풀었다. 그들은 신전에 들어가 먹고 마시면서, 아비멜렉을 저주하였다.",
     Chn:"示剑人出城到田间去，摘下葡萄，踹酒，设摆筵宴，进他们神的庙中吃喝，咒诅亚比米勒。",
     Eng:"After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While they were eating and drinking, they cursed Abimelech.",
     Ind:"jadi pergilah mereka ke ladang; mereka mengumpulkan hasil kebun anggur mereka, dan mengirik memerasnya, lalu mengadakan perayaan. Mereka masuk ke kuil allah mereka dan makan minum sambil mengutuki Abimelekh."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Berkatalah Gaal bin Ebed: \"Siapa itu Abimelekh dan siapa kita orang Sikhem, maka kita menjadi hambanya? Bukankah anak Yerubaal dan Zebul, wakilnya, menjadi hamba orang-orang Hemor, ayah Sikhem, jadi mengapakah kita menjadi hambanya?"
   },
   {Bible:"Judges", Chapter:9, Verse:29, Page:1,
-    Kor:"나에게 이 백성을 통솔할 권한을 준다면, 아비멜렉을 몰아내겠습니다. a그리고 아비멜렉에게 군대를 동원하여 나오라고 해서 싸움을 걸겠습니다.\"(a 칠십인역에는 \"그리고 나서 그는 아비멜렉에게 말하였다. '네 군대를 모두 동원하여 나오너라!'\")",
+    Kor:"나에게 이 백성을 통솔할 권한을 준다면, 아비멜렉을 몰아내겠습니다. 그리고 아비멜렉에게 군대를 동원하여 나오라고 해서 싸움을 걸겠습니다.\"",
     Chn:"惟愿这民归我的手下，我就除掉亚比米勒。」迦勒又对亚比米勒说：「增添你的军兵出来吧。」",
     Eng:"If only this people were under my command! Then I would get rid of him. I would say to Abimelech, 'Call out your whole army!'\"",
     Ind:"Sekiranya orang-orang kota ini ada di dalam tanganku, maka tentulah aku mengenyahkan Abimelekh.\" Lalu berkatalah ia ke arah Abimelekh: \"Perkuatlah tentaramu dan majulah!\""
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Ketika Gaal bin Ebed pergi ke luar dan berdiri di depan pintu gerbang kota itu, Abimelekh kebetulan bangun dari tempat penghadangannya beserta rakyat yang bersama-sama dengan dia."
   },
   {Bible:"Judges", Chapter:9, Verse:36, Page:1,
-    Kor:"가알이 그 군대를 보고 스불에게 말하였다. \"보시오! 사람들이 산꼭대기에서 아래로 내려오고 있소!\" 그러자 스불이 그에게 대꾸하였다. \"산 그림자가 사람들처럼 보이는 것이겠지요.\"",
+    Kor:"가알이 그 군대를 보고, 스불에게 말하였다. \"보시오! 사람들이 산꼭대기에서 아래로 내려오고 있소!\" 그러자 스불이 그에게 대꾸하였다. \"산 그림자가 사람들처럼 보이는 것이겠지요.\"",
     Chn:"迦勒看见那些人，就对西布勒说：「看哪，有人从山顶上下来了。」西布勒说：「你看见山的影子，以为是人。」",
     Eng:"When Gaal saw them, he said to Zebul, \"Look, people are coming down from the tops of the mountains!\" Zebul replied, \"You mistake the shadows of the mountains for men.\"",
     Ind:"Ketika Gaal melihat rakyat itu, berkatalah ia kepada Zebul: \"Lihat, ada orang banyak turun dari puncak gunung.\" Jawab Zebul kepadanya: \"Itu bayang-bayang gunung, yang kausangka manusia.\""
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Jawab Zebul kepadanya: \"Di manakah mulutmu itu yang mengatakan: Siapa itu Abimelekh, maka kita menjadi hambanya? Bukankah ini orang-orang yang telah kauhina itu? Majulah sekarang untuk memerangi mereka.\""
   },
   {Bible:"Judges", Chapter:9, Verse:39, Page:1,
-    Kor:"b가알은 세겜 성읍 사람들을 거느리고 앞장서 나가 아비멜렉과 싸웠다.(b 또는 '가알은 세겜 성읍 사람들이 보는 앞에서 앞장서 나가')",
+    Kor:"가알은 세겜 성읍 사람들을 거느리고 앞장서 나가 아비멜렉과 싸웠다.",
     Chn:"于是迦勒率领示剑人出去，与亚比米勒交战。",
     Eng:"So Gaal led out the citizens of Shechem and fought Abimelech.",
     Ind:"Maka majulah Gaal dengan dipandangi oleh warga kota Sikhem, lalu berperang melawan Abimelekh."
@@ -249,13 +249,13 @@ BibleDB.add([
     Ind:"Adapun Abimelekh tinggal di Aruma, tetapi Zebul mengusir Gaal dan saudara-saudaranya, sehingga mereka ini tidak dapat tinggal di Sikhem."
   },
   {Bible:"Judges", Chapter:9, Verse:42, Page:1,
-    Kor:"○그 다음날 아비멜렉은 세겜 사람들이 들로 나갔다는 소식을 들었다.",
+    Kor:"○그 다음날, 아비멜렉은 세겜 사람들이 들로 나갔다는 소식을 들었다.",
     Chn:"次日，民出到田间，有人告诉亚比米勒；",
     Eng:"The next day the people of Shechem went out to the fields, and this was reported to Abimelech.",
     Ind:"Keesokan harinya orang-orang kota itu pergi ke ladang. Setelah hal ini dikabarkan kepada Abimelekh,"
   },
   {Bible:"Judges", Chapter:9, Verse:43, Page:1,
-    Kor:"그는 자기 군대를 이끌고 나가서, 세 떼로 나누어 들에 매복하고 있다가, 그들이 성읍을 나서는 것을 보고 일제히 일어나 그들에게 달려들어 그들을 쳐죽였다.",
+    Kor:"그는 자기 군대를 이끌고 나가서, 세 떼로 나누어 들에 매복하고 있다가, 그들이 성읍을 나서는 것을 보고 일제히 일어나 그들에게 달려들어 쳐죽였다.",
     Chn:"他就把他的人分作三队，埋伏在田间，看见示剑人从城里出来，就起来击杀他们。",
     Eng:"So he took his men, divided them into three companies and set an ambush in the fields. When he saw the people coming out of the city, he rose to attack them.",
     Ind:"dibawanyalah rakyatnya, dibaginya dalam tiga pasukan, lalu mereka mengadakan penghadangan di padang. Ketika dilihatnya, bahwa orang-orang kota itu keluar dari dalam kota, bangunlah ia menyerang mereka serta menewaskan mereka."
@@ -303,7 +303,7 @@ BibleDB.add([
     Ind:"Selanjutnya Abimelekh pergi ke Tebes; ia mengepung Tebes, lalu merebutnya."
   },
   {Bible:"Judges", Chapter:9, Verse:51, Page:1,
-    Kor:"그러나 그 성읍 안에는 견고한 망대가 하나 있어서, 남녀 할 것 없이 온 성읍 사람들이 그 곳으로 도망하여, 성문을 걸어 잠그고 망대 꼭대기로 올라갔다.",
+    Kor:"그러나 그 성읍 안에는 견고한 망대가 하나 있어서, 남녀 할 것 없이, 온 성읍 사람들이 그 곳으로 도망하여, 성문을 걸어 잠그고 망대 꼭대기로 올라갔다.",
     Chn:"城中有一座坚固的楼；城里的众人，无论男女，都逃进楼去，关上门，上了楼顶。",
     Eng:"Inside the city, however, was a strong tower, to which all the men and women--all the people of the city--fled. They locked themselves in and climbed up on the tower roof.",
     Ind:"Tetapi ada sebuah menara yang kuat di tengah-tengah kota, dan semua laki-laki dan perempuan, seluruh warga kota itu, melarikan diri ke situ; mereka menutup pintu di belakangnya dan naik ke atas sotoh menara itu."

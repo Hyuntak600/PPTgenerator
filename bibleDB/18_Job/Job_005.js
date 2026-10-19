@@ -3,7 +3,7 @@
 BibleDB.ref("Job",5,27);
 BibleDB.add([
   {Bible:"Job", Chapter:5, Verse:1, Page:1,
-    Kor:"어서 부르짖어 보아라. 네게 응답하는 이가 있겠느냐? 하늘에 있는 거룩한 이들 가운데서, 그 누구에게 하소연을 할 수 있겠느냐?",
+    Kor:"어서, 부르짖어 보아라. 네게 응답하는 이가 있겠느냐? 하늘에 있는 거룩한 이들 가운데서, 그 누구에게 하소연을 할 수 있겠느냐?",
     Chn:"你且呼求，有谁答应你？ 诸圣者之中，你转向哪一位呢？",
     Eng:"\"Call if you will, but who will answer you? To which of the holy ones will you turn?",
     Ind:"Berserulah--adakah orang yang menjawab engkau? Dan kepada siapa di antara orang-orang yang kudus engkau akan berpaling?"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Demikianlah ada harapan bagi orang kecil, dan kecurangan tutup mulut."
   },
   {Bible:"Job", Chapter:5, Verse:17, Page:1,
-    Kor:"하나님께 징계를 받는 사람은, 그래도 복된 사람이다. 그러니 a전능하신 분의 훈계를 거절하지 말아라. (a 히, '샤다이')",
+    Kor:"하나님께 징계를 받는 사람은, 그래도 복된 사람이다. 그러니 전능하신 분의 훈계를 거절하지 말아라.",
     Chn:"神所惩治的人是有福的！ 所以你不可轻看全能者的管教。",
     Eng:"\"Blessed is the man whom God corrects; so do not despise the discipline of the Almighty.",
     Ind:"Sesungguhnya, berbahagialah manusia yang ditegur Allah; sebab itu janganlah engkau menolak didikan Yang Mahakuasa."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Karena antara engkau dan batu-batu di padang akan ada perjanjian, dan binatang liar akan berdamai dengan engkau."
   },
   {Bible:"Job", Chapter:5, Verse:24, Page:1,
-    Kor:"그래서 너는 집안이 두루 평안한 것을 볼 것이며, 가축 우리를 두루 살필 때마다 잃은 것이 없는 것을 볼 것이다.",
+    Kor:"그래서 너는, 집안이 두루 평안한 것을 볼 것이며, 가축 우리를 두루 살필 때마다 잃은 것이 없는 것을 볼 것이다.",
     Chn:"你必知道你帐棚平安， 要查看你的羊圈，一无所失；",
     Eng:"You will know that your tent is secure; you will take stock of your property and find nothing missing.",
     Ind:"Engkau akan mengalami, bahwa kemahmu aman dan apabila engkau memeriksa tempat kediamanmu, engkau tidak akan kehilangan apa-apa."

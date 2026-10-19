@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",26,37);
 BibleDB.add([
   {Bible:"Exodus", Chapter:26, Verse:1, Page:1,
-    Kor:"<성막(출 36:8-38)> \"열 폭으로 성막을 만들어라. 그 천은, 가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로, 그룹을 정교하게 수놓아 짠 것이라야 한다.",
+    Kor:"열 폭으로 성막을 만들어라. 그 천은, 가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로, 그룹을 정교하게 수놓아 짠 것이라야 한다.",
     Chn:"「你要用十幅幔子做帐幕。这些幔子要用捻的细麻和蓝色、紫色、朱红色线制造，并用巧匠的手工绣上基路伯。",
     Eng:"\"Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.",
     Ind:"\"Kemah Suci itu haruslah kaubuat dari sepuluh tenda dari lenan halus yang dipintal benangnya dan dari kain ungu tua, kain ungu muda dan kain kirmizi; dengan ada kerubnya, buatan ahli tenun, haruslah kaubuat semuanya itu."
   },
   {Bible:"Exodus", Chapter:26, Verse:2, Page:1,
-    Kor:"각 폭의 길이는 스물여덟 자로 하고, 너비는 넉 자로 하되, 폭마다 그 치수를 모두 같게 하여야 한다.",
+    Kor:"각 폭의 길이는 스물여덟 자요, 너비는 넉 자로 하되, 폭마다 그 치수를 모두 같게 하여야 한다.",
     Chn:"每幅幔子要长二十八肘，宽四肘，幔子都要一样的尺寸。",
     Eng:"All the curtains are to be the same size--twenty-eight cubits long and four cubits wide.",
     Ind:"Panjang tiap-tiap tenda haruslah dua puluh delapan hasta dan lebar tiap-tiap tenda empat hasta: segala tenda itu harus sama ukurannya."
   },
   {Bible:"Exodus", Chapter:26, Verse:3, Page:1,
-    Kor:"먼저 다섯 폭을 옆으로 나란히 이어 한 벌을 만들고, 또 다른 다섯 폭도 옆으로 나란히 이어 한 벌을 만들어야 한다.",
+    Kor:"먼저, 다섯 폭을 옆으로 나란히 이어 한 벌을 만들고, 또 다른 다섯 폭도 옆으로 나란히 이어 한 벌을 만들어야 한다.",
     Chn:"这五幅幔子要幅幅相连；那五幅幔子也要幅幅相连。",
     Eng:"Join five of the curtains together, and do the same with the other five.",
     Ind:"Lima dari tenda itu haruslah dirangkap menjadi satu, dan yang lima lagi juga harus dirangkap menjadi satu."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Dan haruslah engkau membuat lima puluh kaitan emas dan menyambung tenda-tenda Kemah Suci yang satu dengan yang lain dengan memakai kaitan itu, sehingga menjadi satu."
   },
   {Bible:"Exodus", Chapter:26, Verse:7, Page:1,
-    Kor:"○성막 위에 덮을 천막은 염소 털로 짠 열한 폭 천으로 만들어야 한다.",
+    Kor:"○성막 위에 덮을 천막은, 염소 털로 짠 열한 폭 천으로 만들어야 한다.",
     Chn:"「你要用山羊毛织十一幅幔子，作为帐幕以上的罩棚。",
     Eng:"\"Make curtains of goat hair for the tent over the tabernacle--eleven altogether.",
     Ind:"Juga haruslah engkau membuat tenda-tenda dari bulu kambing menjadi atap kemah yang menudungi Kemah Suci, sebelas tenda harus kaubuat."
   },
   {Bible:"Exodus", Chapter:26, Verse:8, Page:1,
-    Kor:"각 폭의 길이는 서른 자로 하고, 너비는 넉 자로 하되, 열한 폭의 치수를 모두 같게 하여야 한다.",
+    Kor:"각 폭의 길이는 서른 자요, 너비는 넉 자로 하는데, 열한 폭의 치수를 모두 같게 하여야 한다.",
     Chn:"每幅幔子要长三十肘，宽四肘；十一幅幔子都要一样的尺寸。",
     Eng:"All eleven curtains are to be the same size--thirty cubits long and four cubits wide.",
     Ind:"Panjang tiap-tiap tenda harus tiga puluh hasta dan lebar tiap-tiap tenda empat hasta: yang sebelas tenda itu harus sama ukurannya."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Haruslah engkau menggantungkannya pada empat tiang dari kayu penaga, yang disalut dengan emas, dengan ada kaitannya dari emas, berdasarkan empat alas perak."
   },
   {Bible:"Exodus", Chapter:26, Verse:33, Page:1,
-    Kor:"너는 그 휘장을 갈고리에 걸어서 늘어뜨리고, 그 휘장 뒤에 a증거궤를 들여 놓아라. 그 휘장이 너희에게 성소와 지성소를 구별할 수 있게 할 것이다.",
+    Kor:"너는 그 휘장을 갈고리에 걸어서 늘어뜨리고, 그 휘장 뒤에 증거궤를 들여 놓아라. 그 휘장이 너희에게 성소와 지성소를 구별할 수 있게 할 것이다.",
     Chn:"要使幔子垂在钩子下，把法柜抬进幔子内；这幔子要将圣所和至圣所隔开。",
     Eng:"Hang the curtain from the clasps and place the ark of the Testimony behind the curtain. The curtain will separate the Holy Place from the Most Holy Place.",
     Ind:"Haruslah tabir itu kaugantungkan pada kaitan penyambung tenda itu dan haruslah kaubawa tabut hukum ke sana, ke belakang tabir itu, sehingga tabir itu menjadi pemisah bagimu antara tempat kudus dan tempat maha kudus."
   },
   {Bible:"Exodus", Chapter:26, Verse:34, Page:1,
-    Kor:"지성소에 있는 a증거궤는 b속죄판으로 덮어라.(a 또는 '법궤' b 또는 '속죄소' 또는 '시은좌')",
+    Kor:"지성소에 있는 증거궤는 속죄판으로 덮어라.",
     Chn:"又要把施恩座安在至圣所内的法柜上，",
     Eng:"Put the atonement cover on the ark of the Testimony in the Most Holy Place.",
     Ind:"Tutup pendamaian itu haruslah kauletakkan di atas tabut hukum di dalam tempat maha kudus."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Juga haruslah kaubuat tirai untuk pintu kemah itu dari kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus yang dipintal benangnya: tenunan yang berwarna-warna."
   },
   {Bible:"Exodus", Chapter:26, Verse:37, Page:1,
-    Kor:"아카시아 나무 기둥 다섯을 만들어서, 거기에 금을 입히고, 금 갈고리를 만들어 붙여서, 이 막을 치는 데 쓰도록 하여라. 그리고 밑받침 다섯은 놋쇠를 부어 만들어라.\"",
+    Kor:"아카시아 나무 기둥 다섯을 만들어서, 거기에 금을 입히고, 금 갈고리를 만들어 붙여서, 이 막을 치는 데 쓰도록 하여라. 그리고 밑받침 다섯은 놋쇠를 부어 만들어라.",
     Chn:"要用皂荚木为帘子做五根柱子，用金子包裹。柱子上当有金钩；又要为柱子用铜铸造五个带卯的座。」",
     Eng:"Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.",
     Ind:"Haruslah kaubuat lima tiang dari kayu penaga untuk tirai itu dan kausalutlah itu dengan emas, dengan ada kaitannya dari emas, dan untuk itu haruslah kautuang lima alas dari tembaga.\""

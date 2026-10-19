@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",48,35);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:48, Verse:1, Page:1,
-    Kor:"<지파의 토지 분배> \"지파들의 이름은 다음과 같다. 가장 북쪽에서부터 시작하여, 헤들론 길을 따라, 르보하맛을 지나서 다마스쿠스와 하맛에 접경한 경계선을 타고 하살에논에까지, 곧 북쪽으로 하맛 경계선에 이르는 땅의 동쪽에서 서쪽까지의 땅은 단 지파의 몫이다.",
+    Kor:"\"지파들의 이름은 다음과 같다. 가장 북쪽에서부터 시작하여, 헤들론 길을 따라, 르보하맛을 지나서 다마스쿠스와 하맛에 접경한 경계선을 타고 하살에논에까지, 곧 북쪽으로 하맛 경계선에 이르는 땅의 동쪽에서 서쪽까지의 땅은 단 지파의 몫이다.",
     Chn:"众支派按名所得之地记在下面：从北头，由希特伦往哈马口，到大马士革地界上的哈萨·以难。北边靠着哈马地（各支派的地都有东西的边界），是但的一分。",
     Eng:"\"These are the tribes, listed by name: At the northern frontier, Dan will have one portion; it will follow the Hethlon road to Lebo Hamath; Hazar Enan and the northern border of Damascus next to Hamath will be part of its border from the east side to the west side.",
     Ind:"Inilah nama suku-suku itu: Yang paling utara: dari laut terus ke Hetlon, ke jalan masuk ke Hamat, Hazar-Enon, sehingga daerah kota Damsyik, yang berdekatan dengan Hamat, terletak di sebelah utaranya, dari perbatasan sebelah timur sampai perbatasan sebelah barat terdapat bagian Dan."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Berbatasan dengan wilayah Ruben, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Yehuda."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:8, Page:1,
-    Kor:"<거룩하게 바친 땅> ○\"유다 지파의 경계선 다음으로 동쪽에서 서쪽까지는, 너희가 거룩하게 바쳐야 할 땅이다. 그 너비는 a이만 오천 자이고, 그 길이는 다른 지파들의 몫과 같이 동쪽에서 서쪽까지이고, 그 한가운데 성소를 세워야 한다.(a 약 12킬로미터)",
+    Kor:"○\"유다 지파의 경계선 다음으로 동쪽에서 서쪽까지는, 너희가 거룩하게 바쳐야 할 땅이다. 그 너비는 이만 오천 자이고, 그 길이는 다른 지파들의 몫과 같이 동쪽에서 서쪽까지이고, 그 한가운데 성소를 세워야 한다.",
     Chn:"挨着犹大的地界，从东到西，必有你们所当献的供地，宽二万五千肘。从东界到西界，长短与各分之地相同，圣地当在其中。",
     Eng:"\"Bordering the territory of Judah from east to west will be the portion you are to present as a special gift. It will be 25,000 cubits wide, and its length from east to west will equal one of the tribal portions; the sanctuary will be in the center of it.",
     Ind:"Berbatasan dengan wilayah Yehuda, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat persembahan khusus yang harus kamu khususkan, yaitu dua puluh lima ribu hasta lebarnya, dan panjangnya sama dengan panjang satu bagian, yaitu dari perbatasan sebelah timur sampai perbatasan sebelah barat, dan di tengah-tengahnya terdapat tempat kudus."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:9, Page:1,
-    Kor:"○너희가 주께 거룩하게 바쳐야 할 땅은, 길이가 이만 오천 자요, 너비가 b만 자이다.(b 약 5킬로미터)",
+    Kor:"○너희가 주께 거룩하게 바쳐야 할 땅은, 길이가 이만 오천 자요, 너비가 만 자이다.",
     Chn:"你们献与耶和华的供地要长二万五千肘，宽一万肘。",
     Eng:"\"The special portion you are to offer to the LORD will be 25,000 cubits long and 10,000 cubits wide.",
     Ind:"Bagian persembahan khusus yang harus kamu khususkan bagi TUHAN, panjangnya dua puluh lima ribu hasta dan lebarnya dua puluh ribu hasta."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Dan bagi orang-orang inilah persembahan khusus yang kudus itu: Bagian imam-imam ialah panjangnya di utara dan selatan dua puluh lima ribu hasta, dan lebarnya di timur dan di barat sepuluh ribu hasta. Dan di tengah-tengahnyalah terletak tempat kudus TUHAN."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:11, Page:1,
-    Kor:"이 땅은 거룩히 구별된 제사장들 곧 사독의 자손에게 주어야 한다. 그들은 이스라엘 자손이 잘못된 길로 갔을 때에, 레위 지파의 자손이 잘못된 길로 간 것처럼 하지 않고, 내가 맡겨 준 직책을 지킨 사람들이다.",
+    Kor:"이 땅은 거룩히 구별된 제사장들, 곧 사독의 자손에게 주어야 한다. 그들은 이스라엘 자손이 잘못된 길로 갔을 때에, 레위 지파의 자손이 잘못된 길로 간 것처럼 하지 않고, 내가 맡겨 준 직책을 지킨 사람들이다.",
     Chn:"这地要归与撒督的子孙中成为圣的祭司，就是那守我所吩咐的。当以色列人走迷的时候，他们不像那些利未人走迷了。",
     Eng:"This will be for the consecrated priests, the Zadokites, who were faithful in serving me and did not go astray as the Levites did when the Israelites went astray.",
     Ind:"Inilah bagian imam-imam, yang sudah dikuduskan, yaitu bani Zadok, yang memelihara kewajibannya terhadap Aku dan yang tidak turut sesat dalam kesesatan orang Israel, seperti orang-orang Lewi."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Mereka tidak boleh menjual sedikitpun dari situ atau menukarnya, dan mereka tidak boleh mewariskan yang terbaik dari negeri itu kepada orang lain, sebab itu kudus bagi TUHAN."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:15, Page:1,
-    Kor:"○너비가 오천 자요 길이가 이만 오천 자인 나머지 땅은, 성읍을 세울 속된 땅이다. 그 한가운데 있는 땅은 성읍을 세워서 거주지로 사용하고, 그 나머지는 빈 터로 사용하여라.",
+    Kor:"○너비가 오천 자요, 길이가 이만 오천 자인 나머지 땅은 성읍을 세울 속된 땅이다. 그 한가운데 있는 땅은 성읍을 세워서 거주지로 사용하고, 그 나머지는 빈 터로 사용하여라.",
     Chn:"这二万五千肘前面所剩下五千肘宽之地要作俗用，作为造城盖房郊野之地。城要在当中。",
     Eng:"\"The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for the common use of the city, for houses and for pastureland. The city will be in the center of it",
     Ind:"Yang tertinggal dari lebarnya, yaitu lima ribu hasta lagi, yang berbatasan dengan yang dua puluh lima ribu hasta itu adalah tidak kudus, tetapi itu untuk keperluan kota sebagai tempat tinggal dan tanah perladangan."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Sekeliling kota itu ada tanah lapang, di sebelah utara dan selatan dua ratus lima puluh hasta, serta di sebelah timur dan barat dua ratus lima puluh hasta juga."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:18, Page:1,
-    Kor:"거룩하게 바친 땅과 인접한 나머지 땅의 길이는 동쪽으로 만 자이고, 서쪽으로도 만 자이다. 그 땅은 거룩하게 바친 땅과 인접하여야 하며, 그 농산물은 성읍에서 일하는 사람들의 먹거리가 되어야 한다.",
+    Kor:"거룩하게 바친 땅과 인접한 나머지 땅의 길이는 동쪽으로 만 자가 되고, 서쪽으로도 만 자이다. 그 땅은 거룩하게 바친 땅과 인접하여야 하며, 그 농산물은 성읍에서 일하는 사람들의 먹을거리가 되어야 한다.",
     Chn:"靠着圣供地的余地，东长一万肘，西长一万肘，要与圣供地相等；其中的土产要作城内工人的食物。",
     Eng:"What remains of the area, bordering on the sacred portion and running the length of it, will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.",
     Ind:"Yang tertinggal dari panjangnya, yang sejajar dengan persembahan khusus yang kudus itu, adalah sepuluh ribu hasta di sebelah timur dan sepuluh ribu hasta di sebelah barat dan hasilnya ialah menjadi makanan untuk pekerja-pekerja di kota itu."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Selebihnya adalah milik raja, yaitu di sebelah timur dan barat dari persembahan khusus yang kudus dan milik kota itu, dan berbatasan dengan yang dua puluh lima ribu hasta itu, ke timur sampai di perbatasan timur dan ke barat sampai di perbatasan barat dan sejajar dengan bagian suku-suku lain, adalah untuk raja. Di tengah-tengah bagian itu adalah persembahan khusus yang kudus dan Bait Suci."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:22, Page:1,
-    Kor:"그래서 레위 지파의 유산과 성읍에 딸린 소유지는 왕의 소유지의 한가운데 있게 된다. 왕의 소유지는 유다 지파의 경계선과 베냐민 지파의 경계선 사이에 있다.\"",
+    Kor:"그래서 레위 지파의 유산과 성읍에 딸린 소유지는 왕의 소유지의 가운데 있게 된다. 왕의 소유지는 유다 지파의 경계선과 베냐민 지파의 경계선 사이에 있다.\"",
     Chn:"并且利未人之地，与归城之地的东西两边延长之地（这两地在王地中间），就是在犹大和便雅悯两界中间，要归与王。",
     Eng:"So the property of the Levites and the property of the city will lie in the center of the area that belongs to the prince. The area belonging to the prince will lie between the border of Judah and the border of Benjamin.",
     Ind:"Terkecuali milik orang-orang Lewi dan milik kota itu--yang terletak di tengah-tengah kepunyaan raja itu--maka yang diapit oleh wilayah Yehuda dan Benyamin adalah bagi raja."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:23, Page:1,
-    Kor:"<나머지 지파들의 토지 분배> ○\"나머지 지파들이 차지할 땅은 다음과 같다. 동쪽에서 서쪽까지는 베나민 지파의 몫이다.",
+    Kor:"○\"나머지 지파들이 차지할 땅은 다음과 같다. 동쪽에서 서쪽까지는 베나민 지파의 몫이다.",
     Chn:"论到其余的支派，从东到西，是便雅悯的一分。",
     Eng:"\"As for the rest of the tribes: Benjamin will have one portion; it will extend from the east side to the west side.",
     Ind:"Mengenai suku-suku yang lain: dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Benyamin."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Berbatasan dengan wilayah Zebulon, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Gad."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:28, Page:1,
-    Kor:"○갓 지파의 경계선은, 남쪽의 국경선이 다말에서부터 시작하여 므리바가데스 샘에 이르고, 거기서 이집트 시내를 따라 c지중해에 이른다.(c 히, '큰 바다')",
+    Kor:"○갓 지파의 경계선은, 남쪽의 국경선이 다말에서부터 시작하여 므리바가데스 샘에 이르고, 거기서 이집트 시내를 따라 지중해에 이른다.",
     Chn:"迦得地的南界是从他玛到米利巴·加低斯的水，延到埃及小河，直到大海。",
     Eng:"\"The southern boundary of Gad will run south from Tamar to the waters of Meribah Kadesh, then along the Wadi of Egypt to the Great Sea.",
     Ind:"Perbatasan wilayah Gad di sebelah selatan ialah dari Tamar sampai mata air Meriba dekat Kadesh, terus ke sungai Mesir, terus ke laut besar."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Inilah negeri yang harus kamu bagi-bagi menjadi milik pusakamu di antara suku-suku Israel, dan itulah bagian-bagian mereka, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:48, Verse:30, Page:1,
-    Kor:"<예루살렘의 성문들> ○\"그 성읍의 문들은 다음과 같다. 북쪽 성벽은 너비가 사천오백 자이다.",
+    Kor:"○\"그 성읍의 문들은 다음과 같다. 북쪽 성벽은 너비가 사천오백 자이다.",
     Chn:"城的北面四千五百肘。出城之处如下；",
     Eng:"\"These will be the exits of the city: Beginning on the north side, which is 4,500 cubits long,",
     Ind:"\"Inilah pintu-pintu keluar kota itu: di sisi sebelah utara, yang ukurannya adalah empat ribu lima ratus hasta,"
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Di sisi sebelah barat, yang ukurannya empat ribu lima ratus hasta, terdapat tiga pintu gerbang juga, yaitu pintu gerbang Gad, pintu gerbang Asyer dan pintu gerbang Naftali."
   },
   {Bible:"Ezekiel", Chapter:48, Verse:35, Page:1,
-    Kor:"○이렇게 그 둘레가 만 팔천 자이다. 이 성읍의 이름이 이제부터는 d'여호와샤마'라고 불릴 것이다.\"(d 히, '아도나이 샤마(주님께서 거기에 계심)')",
+    Kor:"○이렇게 그 둘레가 만 팔천 자이다. 이 성읍의 이름이 이제부터는 '여호와샤마'라고 불릴 것이다.\"",
     Chn:"城四围共一万八千肘。从此以后，这城的名字必称为「耶和华的所在」。",
     Eng:"\"The distance all around will be 18,000 cubits. \"And the name of the city from that time on will be: The LORD is There .\"",
     Ind:"Jadi keliling kota itu adalah delapan belas ribu hasta. Sejak hari itu nama kota itu ialah: TUHAN HADIR DI SITU.\""

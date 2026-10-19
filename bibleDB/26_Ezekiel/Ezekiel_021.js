@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",21,32);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:21, Verse:1, Page:1,
-    Kor:"<주님의 칼> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:21, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 얼굴을 예루살렘 쪽으로 돌리고, 그 곳의 성전을 규탄하여 외치고, 이스라엘 땅을 규탄하여 예언하여라.",
+    Kor:"\"사람아, 너는 얼굴을 예루살렘 쪽으로 돌리고, 그 곳의 성전을 규탄하여 외치고, 이스라엘 땅을 규탄하여 예언하여라.",
     Chn:"「人子啊，你要面向耶路撒冷和圣所滴下预言，攻击以色列地。",
     Eng:"\"Son of man, set your face against Jerusalem and preach against the sanctuary. Prophesy against the land of Israel",
     Ind:"\"Hai anak manusia, tujukanlah mukamu ke Yerusalem dan ucapkanlah banyak tegoran terhadap tempat kudusnya dan bernubuatlah melawan tanah Israel."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Dan kalau mereka bertanya kepadamu: Mengapa engkau mengeluh? jawablah: Karena suatu berita! Kalau berita itu sudah tersiar, setiap hati akan menjadi tawar dan semua tangan menjadi lemah lesu, segala semangat menghilang dan semua orang terkencing ketakutan. Sungguh, pasti datang dan terjadi! demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:21, Verse:8, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:21, Verse:9, Page:1,
-    Kor:"○\"사람아, 예언을 전하여라. '나 주가 말한다.  칼이다! 칼에 날이 섰다. 칼이 번쩍거린다.",
+    Kor:"\"사람아, 예언을 전하여라. '나 주가 말한다. 칼이다! 칼에 날을 세웠다. 칼이 번쩍거린다.",
     Chn:"「人子啊，你要预言。耶和华吩咐我如此说： 有刀、有刀， 是磨快擦亮的；",
     Eng:"\"Son of man, prophesy and say, 'This is what the Lord says: \"'A sword, a sword, sharpened and polished--",
     Ind:"\"Hai anak manusia, bernubuatlah dan katakan: Beginilah firman TUHAN: Pedang! Pedang! Yang sudah diasah dan juga digosok!"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Dan engkau anak manusia, bernubuatlah dan tepuklah tanganmu, biarlah pedang itu menjadi dua kali lipat, tiga kali lipat. Itu pedang pembunuh, pedang untuk pembunuhan besar-besaran, yang berkeliling menghabiskan mereka."
   },
   {Bible:"Ezekiel", Chapter:21, Verse:15, Page:1,
-    Kor:"사람들의 간담이 녹고, 많은 사람이 쓰러져 죽을 것이다. 내가 성문마다 a살육하는 칼을 세워 놓았다. 번개처럼 번쩍이는 칼, 사람을 죽이려고 날카롭게 간 칼이다. (a 칠십인역을 따름. 히브리어 본문의 뜻이 불확실함)",
+    Kor:"사람들의 간담이 녹고, 많은 사람이 쓰러져 죽을 것이다. 내가 성문마다 살육하는 칼을 세워 놓았다. 번개처럼 번쩍이는 칼, 사람을 죽이려고 날카롭게 간 칼이다.",
     Chn:"我设立这恐吓人的刀，攻击他们的一切城门，使他们的心消化，加增他们跌倒的事。哎！这刀造得像闪电，磨得尖利，要行杀戮。",
     Eng:"So that hearts may melt and the fallen be many, I have stationed the sword for slaughter at all their gates. Oh! It is made to flash like lightning, it is grasped for slaughter.",
     Ind:"Supaya hati mereka hancur dan yang jatuh berebahan bertambah-tambah di tiap pintu gerbang mereka, Aku memerintahkan penumpahan darah dengan pedang itu. Aduh, pedang itu dibuat menyamai petir dan digosok untuk menumpahkan darah."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Dan Aku juga akan bertepuk tangan dan hati-Ku yang panas menjadi tenang kembali. Aku, TUHAN, yang mengatakannya.\""
   },
   {Bible:"Ezekiel", Chapter:21, Verse:18, Page:1,
-    Kor:"<바빌로니아 왕의 칼> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:21, Verse:19, Page:1,
-    Kor:"○\"너 사람아, 바빌로니아 왕이 칼을 가지고 올 수 있는 두 길을 그려라. 그 두 길은 같은 나라에서 시작되도록 그려라. 길이 나뉘는 곳에는 안내판을 세워라.",
+    Kor:"\"너 사람아, 바빌로니아 왕이 칼을 가지고 올 수 있는 두 길을 그려라. 그 두 길은 같은 나라에서 시작되도록 그려라. 길이 나뉘는 곳에는 안내판을 세워라.",
     Chn:"「人子啊，你要定出两条路，好使巴比伦王的刀来。这两条路必从一地分出来，又要在通城的路口上画出一只手来。",
     Eng:"\"Son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same country. Make a signpost where the road branches off to the city.",
     Ind:"\"Hai engkau anak manusia, gambarlah dua jalan yang akan dilalui oleh pedang raja Babel; keduanya mulai dari satu negeri. Buatlah sebuah papan penunjuk jalan pada awal jalan yang menuju ke masing-masing kota."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Tetapi bagi mereka, itu adalah tenungan yang menipu, walaupun mereka mengangkat sumpah yang muluk-muluk; tetapi ia mengingat kesalahan mereka, sehingga mereka ditangkap."
   },
   {Bible:"Ezekiel", Chapter:21, Verse:24, Page:1,
-    Kor:"그러므로 나 주 하나님이 말한다. ○너희의 죄가 폭로되었다. 너희가 얼마나 범죄하였는지, 이제 모두 알고 있다. 너희의 행실에서 너희의 온갖 죄가 드러났으니, 너는 벌을 면할 수 없다. 나는 너를 너의 적의 손에 넘겨 주겠다.",
+    Kor:"그러므로 나 주 하나님이 말한다. 너희의 죄가 폭로되었다. 너희가 얼마나 범죄하였는지, 이제 모두 알고 있다. 너희의 행실에서 너희의 온갖 죄가 드러났으니, 너는 벌을 면할 수 없다. 나는 너를 너의 적의 손에 넘겨 주겠다.",
     Chn:"主耶和华如此说：「因你们的过犯显露，使你们的罪孽被记念，以致你们的罪恶在行为上都彰显出来；又因你们被记念，就被捉住。",
     Eng:"\"Therefore this is what the Sovereign LORD says: 'Because you people have brought to mind your guilt by your open rebellion, revealing your sins in all that you do--because you have done this, you will be taken captive.",
     Ind:"Oleh sebab itu, beginilah firman Tuhan ALLAH: Oleh karena kamu membuat kesalahanmu itu teringat kembali dengan tersingkapnya pelanggaranmu, sehingga kentara dosa-dosamu dalam segala perbuatanmu, oleh karena kamu menjadi teringat kembali, kamu akan ditangkap dengan kekerasan."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"beginilah firman Tuhan ALLAH: Jauhkanlah serbanmu dan buangkanlah mahkotamu! Tiada yang tetap seperti keadaannya sekarang. Yang rendah harus ditinggikan, yang tinggi harus direndahkan."
   },
   {Bible:"Ezekiel", Chapter:21, Verse:27, Page:1,
-    Kor:"내가 무너뜨리고, 무너뜨리고, 또 무너뜨릴 것이다. 그러나 이런 일도 다시는 있지 않을 것이다. 다스릴 권리가 있는 그 사람이 오면, 나는 그것을 그에게 넘겨 주겠다.\"",
+    Kor:"내가 엎드러뜨리고, 엎드러뜨리고, 또 엎드러뜨릴 것이다. 그러나 이런 일도 다시는 있지 않을 것이다. 다스릴 권리가 있는 그 사람이 오면, 나는 그것을 그에게 넘겨 주겠다.\"",
     Chn:"我要将这国倾覆，倾覆，而又倾覆；这国也必不再有，直等到那应得的人来到，我就赐给他。」",
     Eng:"A ruin! A ruin! I will make it a ruin! It will not be restored until he comes to whom it rightfully belongs; to him I will give it.'",
     Ind:"Puing, puing, puing akan Kujadikan dia! Inipun tidak akan tetap. Sampai ia datang yang berhak atasnya, dan kepadanya akan Kuberikan itu.\""
   },
   {Bible:"Ezekiel", Chapter:21, Verse:28, Page:1,
-    Kor:"<암몬을 치는 칼> ○\"너 사람아, 나 주 하나님이 암몬 자손과 그들이 받을 질책을 말하니, 너는 이 예언을 전하여라. 이것을 너는 암몬 자손에게 전하여라.  '칼이다. 칼이 뽑혔다. 무찔러 죽이려고 뽑혔다. 다 없애 버리고, 번개처럼 휘두르려고 광을 냈다.",
+    Kor:"○\"너 사람아, 나 주 하나님이 암몬 자손과 그들이 받을 질책을 말하니, 너는 이 예언을 전하여라. 이것을 너는 암몬 자손에게 전하여라. '칼이다. 칼이 뽑혔다. 무찔러 죽이려고 뽑혔다. 다 없애 버리고, 번개처럼 휘두르려고 광을 냈다.",
     Chn:"「人子啊，要发预言说：主耶和华论到亚扪人和他们的凌辱，吩咐我如此说：有刀，有拔出来的刀，已经擦亮，为行杀戮，使他像闪电以行吞灭。",
     Eng:"\"And you, son of man, prophesy and say, 'This is what the Sovereign LORD says about the Ammonites and their insults: \"'A sword, a sword, drawn for the slaughter, polished to consume and to flash like lightning!",
     Ind:"\"Dan engkau anak manusia, bernubuatlah dan katakan: Beginilah firman Tuhan ALLAH mengenai bani Amon dan cercaan mereka; katakanlah: Pedang, pedang sudah tercabut untuk menumpahkan darah, digosok untuk memusnahkan, dan supaya mengkilap seperti petir--"

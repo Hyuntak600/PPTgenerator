@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",10,27);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:10, Verse:1, Page:1,
-    Kor:"사무엘이 기름병을 가져다가 사울의 머리에 붓고, 그에게 입을 맞춘 다음에, 이렇게 말하였다. \"주님께서 그대에게 기름을 부으시어, 주님의 소유이신 이 백성을 다스릴 영도자로 세우셨습니다.a(a 칠십인역과 불가타에는 1절 끝에 '이제 그대는 주님의 백성을 다스리고, 모든 적에게서 이 백성을 보호하십시오. 이제, 주님께서 그대를 택하셔서 당신의 백성을 다스릴 통치자로 09 10:삼으신 증거를 보여 드리겠습니다'의 내용이 더 있음)",
+    Kor:"사무엘이 기름병을 가져다가 사울의 머리에 붓고, 그에게 입을 맞춘 다음에, 이렇게 말하였다. \"주께서 그대에게 기름을 부으시어, 주의 소유이신 이 백성을 다스릴 영도자로 세우셨습니다.",
     Chn:"撒母耳拿瓶膏油倒在扫罗的头上，与他亲嘴，说：「这不是耶和华膏你作他产业的君吗？",
     Eng:"Then Samuel took a flask of oil and poured it on Saul's head and kissed him, saying, \"Has not the LORD anointed you leader over his inheritance?",
     Ind:"Lalu Samuel mengambil buli-buli berisi minyak, dituangnyalah ke atas kepala Saul, diciumnyalah dia sambil berkata: \"Bukankah TUHAN telah mengurapi engkau menjadi raja atas umat-Nya Israel? Engkau akan memegang tampuk pemerintahan atas umat TUHAN, dan engkau akan menyelamatkannya dari tangan musuh-musuh di sekitarnya. Inilah tandanya bagimu, bahwa TUHAN telah mengurapi engkau menjadi raja atas milik-Nya sendiri:"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sesudah itu engkau akan sampai ke Gibea Allah, tempat kedudukan pasukan orang Filistin. Dan apabila engkau masuk kota, engkau akan berjumpa di sana dengan serombongan nabi, yang turun dari bukit pengorbanan dengan gambus, rebana, suling dan kecapi di depan mereka; mereka sendiri akan kepenuhan seperti nabi."
   },
   {Bible:"1Samuel", Chapter:10, Verse:6, Page:1,
-    Kor:"그러면 그대에게도 주님의 영이 강하게 내리어, 그들과 함께 춤을 추고 소리를 지르면서 예언을 할 것이며, 그대는 전혀 딴 사람으로 변할 것입니다.",
+    Kor:"그러면 그대에게도 주의 영이 강하게 내리어, 그들과 함께, 춤을 추고 소리를 지르면서 예언을 할 것이며, 그대는 전혀 딴 사람으로 변할 것입니다.",
     Chn:"耶和华的灵必大大感动你，你就与他们一同受感说话；你要变为新人。",
     Eng:"The Spirit of the LORD will come upon you in power, and you will prophesy with them; and you will be changed into a different person.",
     Ind:"Maka Roh TUHAN akan berkuasa atasmu; engkau akan kepenuhan bersama-sama dengan mereka dan berubah menjadi manusia lain."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Kata Saul kepada pamannya itu: \"Terus saja diberitahukannya kepada kami, bahwa keledai-keledai itu telah diketemukan.\" Tetapi perihal menjadi raja yang telah dikatakan Samuel kepadanya, tidak diceritakan kepadanya."
   },
   {Bible:"1Samuel", Chapter:10, Verse:17, Page:1,
-    Kor:"<사울이 왕으로 뽑히다> ○사무엘이 백성을 미스바로 불러 주님 앞에 모아 놓고,",
+    Kor:"○사무엘이 백성을 미스바로 불러 주 앞에 모아 놓고,",
     Chn:"撒母耳将百姓招聚到米斯巴耶和华那里，",
     Eng:"Samuel summoned the people of Israel to the LORD at Mizpah",
     Ind:"Kemudian Samuel mengerahkan bangsa itu ke hadapan TUHAN di Mizpa"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"dan ia berkata kepada orang Israel itu: \"Beginilah firman TUHAN, Allah Israel: Aku telah menuntun orang Israel keluar dari Mesir dan telah melepaskan kamu dari tangan orang Mesir dan dari tangan segala kerajaan yang menindas kamu."
   },
   {Bible:"1Samuel", Chapter:10, Verse:19, Page:1,
-    Kor:"그러나 오늘날 너희는, 너희를 모든 환난과 고난 속에서 건져 낸 너희 하나님을 버리고, 너희에게 왕을 세워 달라고 나에게 요구하였다. 좋다, 이제 너희는 지파와 집안별로, 나 주 앞에 나와 서거라!\"",
+    Kor:"그러나 오늘날 너희는, 너희를 모든 환난과 고난 속에서 건져 낸 너희 하나님을 버리고 너희에게 왕을 세워 달라고 나에게 요구하였다. 좋다, 이제 너희는 지파와 집안별로, 나 주 앞에 나와 서거라!\"",
     Chn:"你们今日却厌弃了救你们脱离一切灾难的　神，说：『求你立一个王治理我们。』现在你们应当按着支派、宗族都站在耶和华面前。」",
     Eng:"But you have now rejected your God, who saves you out of all your calamities and distresses. And you have said, 'No, set a king over us.' So now present yourselves before the LORD by your tribes and clans.\"",
     Ind:"Tetapi sekarang kamu menolak Allahmu yang menyelamatkan kamu dari segala malapetaka dan kesusahanmu, dengan berkata: Tidak, angkatlah seorang raja atas kami. Maka sebab itu, berdirilah kamu di hadapan TUHAN, menurut sukumu dan menurut kaummu.\""
   },
   {Bible:"1Samuel", Chapter:10, Verse:20, Page:1,
-    Kor:"○사무엘이 이스라엘의 모든 지파를 앞으로 나오게 하니, 주님께서 베냐민 지파를 뽑으셨다.",
+    Kor:"○사무엘이 이스라엘의 모든 지파를 앞으로 나오게 하니, 주께서 베냐민 지파를 뽑으셨다.",
     Chn:"于是，撒母耳使以色列众支派近前来掣签，就掣出便雅悯支派来；",
     Eng:"When Samuel brought all the tribes of Israel near, the tribe of Benjamin was chosen.",
     Ind:"Lalu Samuel menyuruh segala suku Israel tampil ke muka, maka didapati suku Benyamin."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Sesudah itu disuruhnyalah suku Benyamin tampil ke muka menurut kaum keluarganya, maka didapati kaum keluarga Matri. Akhirnya disuruhnyalah kaum keluarga Matri tampil ke muka seorang demi seorang, maka didapati Saul bin Kish. Tetapi ketika ia dicari, ia tidak diketemukan."
   },
   {Bible:"1Samuel", Chapter:10, Verse:22, Page:1,
-    Kor:"그래서 사람들이 다시 주님께 여쭈어 보았다. \"그 사람이 여기에 와 있습니까?\" 주님께서 말씀하셨다. \"그는 짐짝 사이에 숨어 있다.\"",
+    Kor:"그래서 사람들이 다시 주께 여쭈어 보았다. \"그 사람이 여기에 와 있습니까?\" 주께서 말씀하셨다. \"그는 짐짝 사이에 숨어 있다.\"",
     Chn:"就问耶和华说：「那人到这里来了没有？」耶和华说：「他藏在器具中了。」",
     Eng:"So they inquired further of the LORD, \"Has the man come here yet?\" And the LORD said, \"Yes, he has hidden himself among the baggage.\"",
     Ind:"Sebab itu ditanyakan pulalah kepada TUHAN: \"Apa orang itu juga datang ke mari?\" TUHAN menjawab: \"Sesungguhnya ia bersembunyi di antara barang-barang.\""
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Berlarilah orang ke sana dan mengambilnya dari sana, dan ketika ia berdiri di tengah-tengah orang-orang sebangsanya, ternyata ia dari bahu ke atas lebih tinggi dari pada setiap orang sebangsanya."
   },
   {Bible:"1Samuel", Chapter:10, Verse:24, Page:1,
-    Kor:"사무엘이 온 백성에게 말하였다. \"주님께서 뽑으신 이 사람을 보아라. 온 백성 가운데 이만한 인물이 없다.\" 그러자 온 백성이 환호성을 지르며 \"임금님 만세!\" 하고 외쳤다.",
+    Kor:"사무엘이 온 백성에게 말하였다. \"주께서 뽑으신 이 사람을 보아라. 온 백성 가운데 이만한 인물이 없다.\" 그러자 온 백성이 환호성을 지르며 \"임금님 만세!\" 하고 외쳤다.",
     Chn:"撒母耳对众民说：「你们看耶和华所拣选的人，众民中有可比他的吗？」众民就大声欢呼说：「愿王万岁！」",
     Eng:"Samuel said to all the people, \"Do you see the man the LORD has chosen? There is no one like him among all the people.\" Then the people shouted, \"Long live the king!\"",
     Ind:"Dan Samuel berkata kepada seluruh bangsa itu: \"Kamu lihatkah orang yang dipilih TUHAN itu? Sebab tidak ada seorangpun yang sama seperti dia di antara seluruh bangsa itu.\" Lalu bersoraklah seluruh bangsa itu, demikian: \"Hidup raja!\""
   },
   {Bible:"1Samuel", Chapter:10, Verse:25, Page:1,
-    Kor:"○사무엘이 왕의 제도를 백성에게 알려 준 다음, 그것을 책에 써서 주님 앞에 보관하여 두고, 온 백성을 각자의 집으로 돌아가게 하였다.",
+    Kor:"○사무엘이 왕의 제도를 백성에게 알려 준 다음, 그것을 책에 써서 주 앞에 보관하여 두고, 온 백성을 각자의 집으로 돌아가게 하였다.",
     Chn:"撒母耳将国法对百姓说明，又记在书上，放在耶和华面前，然后遣散众民，各回各家去了。",
     Eng:"Samuel explained to the people the regulations of the kingship. He wrote them down on a scroll and deposited it before the LORD. Then Samuel dismissed the people, each to his own home.",
     Ind:"Kemudian Samuel menguraikan kepada bangsa itu tentang hak-hak kerajaan, menuliskannya pada suatu piagam dan meletakkannya di hadapan TUHAN; sesudah itu Samuel menyuruh seluruh bangsa itu pulang, masing-masing ke rumahnya."

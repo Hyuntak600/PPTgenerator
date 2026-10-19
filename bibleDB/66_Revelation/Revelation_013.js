@@ -3,7 +3,7 @@
 BibleDB.ref("Revelation",13,18);
 BibleDB.add([
   {Bible:"Revelation", Chapter:13, Verse:1, Page:1,
-    Kor:"<짐승 두 마리> 나는 바다에서 짐승 하나가 올라오는 것을 보았습니다. 그 짐승은 뿔 열과 머리 일곱이 달려 있었는데, 그 뿔 하나하나에 왕관을 쓰고 있고, 그 머리 하나하나에는 하나님을 모독하는 이름이 붙어 있었습니다.",
+    Kor:"나는 바다에서 짐승 하나가 올라오는 것을 보았습니다. 그 짐승은 뿔 열과 머리 일곱을 가졌는데, 그 뿔 하나하나에 왕관을 쓰고 있고, 그 머리 하나하나에는 하나님을 모독하는 이름이 붙어 있었습니다.",
     Chn:"我又看见一个兽从海中上来，有十角七头，在十角上戴着十个冠冕，七头上有亵渎的名号。",
     Eng:"And the dragon stood on the shore of the sea. And I saw a beast coming out of the sea. He had ten horns and seven heads, with ten crowns on his horns, and on each head a blasphemous name.",
     Ind:"(12-18) Dan ia tinggal berdiri di pantai laut. (13-1) Lalu aku melihat seekor binatang keluar dari dalam laut, bertanduk sepuluh dan berkepala tujuh; di atas tanduk-tanduknya terdapat sepuluh mahkota dan pada kepalanya tertulis nama-nama hujat."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Binatang yang kulihat itu serupa dengan macan tutul, dan kakinya seperti kaki beruang dan mulutnya seperti mulut singa. Dan naga itu memberikan kepadanya kekuatannya, dan takhtanya dan kekuasaannya yang besar."
   },
   {Bible:"Revelation", Chapter:13, Verse:3, Page:1,
-    Kor:"그 머리들 가운데 하나는 치명상을 입은 듯하였습니다. 그러나 그 a치명적인 상처가 나으니, 온 세상은 놀라서 그 짐승을 따라갔습니다.(a 그, '죽음의 재앙이')",
+    Kor:"그 머리 가운데서 하나는 치명상을 입은 듯하였습니다. 그러나 그 치명적인 상처가 나으니, 온 세상은 놀라서 그 짐승을 따라갔습니다.",
     Chn:"我看见兽的七头中，有一个似乎受了死伤，那死伤却医好了。全地的人都希奇跟从那兽，",
     Eng:"One of the heads of the beast seemed to have had a fatal wound, but the fatal wound had been healed. The whole world was astonished and followed the beast.",
     Ind:"Maka tampaklah kepadaku satu dari kepala-kepalanya seperti kena luka yang membahayakan hidupnya, tetapi luka yang membahayakan hidupnya itu sembuh. Seluruh dunia heran, lalu mengikut binatang itu."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Lalu ia membuka mulutnya untuk menghujat Allah, menghujat nama-Nya dan kemah kediaman-Nya dan semua mereka yang diam di sorga."
   },
   {Bible:"Revelation", Chapter:13, Verse:7, Page:1,
-    Kor:"b그 짐승은 성도들과 싸워서 이길 것을 허락받고, 또 모든 종족과 백성과 언어와 민족을 다스리는 권세를 받았습니다.(b) 다른 고대 사본들에는 7절 상반절이 없음)",
+    Kor:"그 짐승은 성도들과 싸워서 이길 것을 허락받고, 또 모든 종족과 백성과 언어와 민족을 다스리는 권세를 받았습니다.",
     Chn:"又任凭它与圣徒争战，并且得胜；也把权柄赐给它，制伏各族、各民、各方、各国。",
     Eng:"He was given power to make war against the saints and to conquer them. And he was given authority over every tribe, people, language and nation.",
     Ind:"Dan ia diperkenankan untuk berperang melawan orang-orang kudus dan untuk mengalahkan mereka; dan kepadanya diberikan kuasa atas setiap suku dan umat dan bahasa dan bangsa."
   },
   {Bible:"Revelation", Chapter:13, Verse:8, Page:1,
-    Kor:"그러므로 땅 위에 사는 사람 가운데서, c죽임을 당한 어린 양의 생명책에 창세 때부터 이름이 기록되어 있지 않은 사람은, 모두 그에게 경배할 것입니다.(c 또는 '창세 때부터 죽임을 당한 그 어린 양의 생명책에 기록되어 있지 않은 사람은')",
+    Kor:"그러므로 땅 위에 사는 사람 가운데서, 죽임을 당한 어린 양의 생명책에 창세 때부터 이름이 기록되어 있지 않은 사람은, 모두 그에게 경배할 것입니다.",
     Chn:"凡住在地上、名字从创世以来没有记在被杀之羔羊生命册上的人，都要拜它。",
     Eng:"All inhabitants of the earth will worship the beast--all whose names have not been written in the book of life belonging to the Lamb that was slain from the creation of the world.",
     Ind:"Dan semua orang yang diam di atas bumi akan menyembahnya, yaitu setiap orang yang namanya tidak tertulis sejak dunia dijadikan di dalam kitab kehidupan dari Anak Domba, yang telah disembelih."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Barangsiapa bertelinga, hendaklah ia mendengar!"
   },
   {Bible:"Revelation", Chapter:13, Verse:10, Page:1,
-    Kor:"d\"사로잡혀 가기로 되어 있는 사람이면, 사로잡혀 갈 것이요, 칼에 맞아서 죽임을 당하기로 되어 있는 사람이면, 칼에 맞아서 죽임을 당할 것이다.\" 여기에 성도들의 인내와 믿음이 필요합니다.(d 렘 15:2; 43:11)",
+    Kor:"\"사로잡혀 가기로 되어 있는 사람이면, 사로잡혀 갈 것이요, 칼에 맞아서 죽임을 당하기로 되어 있는 사람이면, 칼에 맞아서 죽임을 당할 것이다.\" 여기에 성도들의 인내와 믿음이 필요합니다.",
     Chn:"掳掠人的，必被掳掠； 用刀杀人的，必被刀杀。 圣徒的忍耐和信心就是在此。",
     Eng:"If anyone is to go into captivity, into captivity he will go. If anyone is to be killed with the sword, with the sword he will be killed. This calls for patient endurance and faithfulness on the part of the saints.",
     Ind:"Barangsiapa ditentukan untuk ditawan, ia akan ditawan; barangsiapa ditentukan untuk dibunuh dengan pedang, ia harus dibunuh dengan pedang. Yang penting di sini ialah ketabahan dan iman orang-orang kudus."
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Dan aku melihat seekor binatang lain keluar dari dalam bumi dan bertanduk dua sama seperti anak domba dan ia berbicara seperti seekor naga."
   },
   {Bible:"Revelation", Chapter:13, Verse:12, Page:1,
-    Kor:"이 짐승은 첫째 짐승이 가진 모든 권세를 그 첫째 짐승을 대신하여 행사하였습니다. 이 짐승은, 땅과 땅 위에 사는 모든 사람들로 하여금 e치명상에서 나음을 받은 그 첫째 짐승에게 절하게 하였습니다.(e 그, '죽음의 재앙')",
+    Kor:"이 짐승은 첫째 짐승이 가진 모든 권세를 그 첫째 짐승을 대신하여 행사하였습니다. 이 짐승은, 땅과 땅 위에 사는 모든 사람들로 하여금 치명상에서 나음을 받은 그 첫째 짐승에게 절하게 하였습니다.",
     Chn:"它在头一个兽面前，施行头一个兽所有的权柄，并且叫地和住在地上的人拜那死伤医好的头一个兽。",
     Eng:"He exercised all the authority of the first beast on his behalf, and made the earth and its inhabitants worship the first beast, whose fatal wound had been healed.",
     Ind:"Dan seluruh kuasa binatang yang pertama itu dijalankannya di depan matanya. Ia menyebabkan seluruh bumi dan semua penghuninya menyembah binatang pertama, yang luka parahnya telah sembuh."
   },
   {Bible:"Revelation", Chapter:13, Verse:13, Page:1,
-    Kor:"또 그 짐승은 큰 기적들을 행하였는데, 사람들이 보는 앞에서 하늘에서 불이 땅에 내려오게도 하였습니다.",
+    Kor:"또 그 짐승은 큰 기적들을 행하였는데, 사람들이 보는 앞에서 불이 하늘로부터 땅에 내려오게도 하였습니다.",
     Chn:"又行大奇事，甚至在人面前，叫火从天降在地上。",
     Eng:"And he performed great and miraculous signs, even causing fire to come down from heaven to earth in full view of men.",
     Ind:"Dan ia mengadakan tanda-tanda yang dahsyat, bahkan ia menurunkan api dari langit ke bumi di depan mata semua orang."
   },
   {Bible:"Revelation", Chapter:13, Verse:14, Page:1,
-    Kor:"그리고 그 첫째 짐승을 대신해서 행하도록 허락받은 그 기적들을 미끼로 해서 땅 위에 사는 사람들을 미혹하였습니다. 땅 위에 사는 사람들에게, 칼에 f맞아서 상처를 입고서도 살아난 그 짐승을 위하여 우상을 만들라고 말하였습니다.(f 또는 '칼의 재앙을 받았다가도')",
+    Kor:"그리고 그 첫째 짐승을 대신해서 행하도록 허락받은 그 기적들을 미끼로 해서 땅 위에 사는 사람들을 미혹하였습니다. 땅 위에 사는 사람들에게 칼에 맞아서 상처를 입고서도 살아난 그 짐승을 위하여 우상을 만들라고 말하였습니다.",
     Chn:"它因赐给它权柄在兽面前能行奇事，就迷惑住在地上的人，说：「要给那受刀伤还活着的兽作个像。」",
     Eng:"Because of the signs he was given power to do on behalf of the first beast, he deceived the inhabitants of the earth. He ordered them to set up an image in honor of the beast who was wounded by the sword and yet lived.",
     Ind:"Ia menyesatkan mereka yang diam di bumi dengan tanda-tanda, yang telah diberikan kepadanya untuk dilakukannya di depan mata binatang itu. Dan ia menyuruh mereka yang diam di bumi, supaya mereka mendirikan patung untuk menghormati binatang yang luka oleh pedang, namun yang tetap hidup itu."
   },
   {Bible:"Revelation", Chapter:13, Verse:15, Page:1,
-    Kor:"그리고 둘째 짐승이 능력을 받아서 첫째 짐승의 우상에게 g생기를 넣어 주고, 그 짐승의 우상으로 하여금 말을 하게도 하고, 또 우상에게 경배하지 않는 사람은 모두 죽임을 당하게도 하였습니다.(g 또는 '영')",
+    Kor:"그리고 둘째 짐승이 능력을 받아서 첫째 짐승의 우상에게 생기를 넣어 주고, 그 짐승의 우상으로 하여금 말을 하게도 하고, 또 우상에게 경배하지 않는 사람은 모두 죽임을 당하게도 하였습니다.",
     Chn:"又有权柄赐给它，叫兽像有生气，并且能说话，又叫所有不拜兽像的人都被杀害。",
     Eng:"He was given power to give breath to the image of the first beast, so that it could speak and cause all who refused to worship the image to be killed.",
     Ind:"Dan kepadanya diberikan kuasa untuk memberikan nyawa kepada patung binatang itu, sehingga patung binatang itu berbicara juga, dan bertindak begitu rupa, sehingga semua orang, yang tidak menyembah patung binatang itu, dibunuh."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"dan tidak seorangpun yang dapat membeli atau menjual selain dari pada mereka yang memakai tanda itu, yaitu nama binatang itu atau bilangan namanya."
   },
   {Bible:"Revelation", Chapter:13, Verse:18, Page:1,
-    Kor:"여기에 지혜가 필요합니다. 지각이 있는 사람은 그 짐승을 상징하는 숫자를 세어 보십시오. 그 수는 어떤 사람을 가리키는데, 그 수는 h육백육십육입니다.(h 다른 고대 사본들에는 '육백십육')",
+    Kor:"여기에 지혜가 필요합니다. 지각이 있는 사람은 그 짐승을 상징하는 숫자를 세어 보십시오. 그 수는 어떤 사람을 가리키는데, 그 수는 육백육십육입니다.",
     Chn:"在这里有智慧：凡有聪明的，可以算计兽的数目；因为这是人的数目，它的数目是六百六十六。",
     Eng:"This calls for wisdom. If anyone has insight, let him calculate the number of the beast, for it is man's number. His number is 666.",
     Ind:"Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam."

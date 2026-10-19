@@ -3,7 +3,7 @@
 BibleDB.ref("Job",13,28);
 BibleDB.add([
   {Bible:"Job", Chapter:13, Verse:1, Page:1,
-    Kor:"<계속되는 욥의 대답> 내가 이 모든 것을 내 눈으로 똑똑히 보고, 내 귀로 다 들어서 안다.",
+    Kor:"내가 이 모든 것을 내 눈으로 똑똑히 보고, 내 귀로 다 들어서 안다.",
     Chn:"这一切，我眼都见过； 我耳都听过，而且明白。",
     Eng:"\"My eyes have seen all this, my ears have heard and understood it.",
     Ind:"\"Sesungguhnya, semuanya itu telah dilihat mataku, didengar dan dipahami telingaku."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sekiranya kamu menutup mulut, itu akan dianggap kebijaksanaan dari padamu."
   },
   {Bible:"Job", Chapter:13, Verse:6, Page:1,
-    Kor:"너희는 내 항변도 좀 들어 보아라. 내가 내 사정을 호소하는 동안 귀를 좀 기울여 주어라.",
+    Kor:"너희는 내 항변도 좀 들어 보아라. 내가 내 사정을 호소하는 동안, 귀를 좀 기울여 주어라.",
     Chn:"请你们听我的辩论， 留心听我口中的分诉。",
     Eng:"Hear now my argument; listen to the plea of my lips.",
     Ind:"Dengarkanlah pembelaanku, dan perhatikanlah bantahan bibirku."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Siapa mau bersengketa dengan aku? Pada saat itu juga aku mau berdiam diri dan binasa."
   },
   {Bible:"Job", Chapter:13, Verse:20, Page:1,
-    Kor:"<욥의 기도>  내가 하나님께 바라는 것은 두 가지밖에 없습니다. 그것을 들어주시면, 내가 주님을 피하지 않겠습니다.",
+    Kor:"내가 하나님께 바라는 것은 두 가지밖에 없습니다. 그것을 들어주시면, 내가 주님을 피하지 않겠습니다.",
     Chn:"惟有两件不要向我施行， 我就不躲开你的面：",
     Eng:"\"Only grant me these two things, O God, and then I will not hide from you:",
     Ind:"Hanya janganlah Kaulakukan terhadap aku dua hal ini, maka aku tidak akan bersembunyi terhadap Engkau:"
   },
   {Bible:"Job", Chapter:13, Verse:21, Page:1,
-    Kor:"나를 치시는 그 손을 거두어 주시고, 제발 내가 이렇게 두려워 떨지 않게 해주십시오.",
+    Kor:"나를 치시는 그 손을 거두어 주시고, 제발, 내가 이렇게 두려워 떨지 않게 해주십시오.",
     Chn:"就是把你的手缩回，远离我身； 又不使你的惊惶威吓我。",
     Eng:"Withdraw your hand far from me, and stop frightening me with your terrors.",
     Ind:"jauhkanlah kiranya tangan-Mu dari padaku, dan kegentaran terhadap Engkau janganlah menimpa aku!"
   },
   {Bible:"Job", Chapter:13, Verse:22, Page:1,
-    Kor:"하나님, 하나님께서 먼저 말씀하시면, 내가 대답하겠습니다. 그렇지 않으시면 내가 먼저 말씀드리게 해주시고, 주님께서 내게 대답해 주십시오.",
+    Kor:"하나님, 하나님께서 먼저 말씀하시면, 내가 대답하겠습니다. 그렇지 않으시면 내가 먼저 말씀드리게 해주시고, 주께서 내게 대답해 주십시오.",
     Chn:"这样，你呼叫，我就回答； 或是让我说话，你回答我。",
     Eng:"Then summon me and I will answer, or let me speak, and you reply.",
     Ind:"Panggillah, maka aku akan menjawab; atau aku berbicara, dan Engkau menjawab."
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Berapa besar kesalahan dan dosaku? Beritahukanlah kepadaku pelanggaran dan dosaku itu."
   },
   {Bible:"Job", Chapter:13, Verse:24, Page:1,
-    Kor:"어찌하여 주님께서 나를 피하십니까? 어찌하여 주님께서 나를 원수로 여기십니까?",
+    Kor:"어찌하여 주께서 나를 피하십니까? 어찌하여 주께서 나를 원수로 여기십니까?",
     Chn:"你为何掩面、 拿我当仇敌呢？",
     Eng:"Why do you hide your face and consider me your enemy?",
     Ind:"Mengapa Engkau menyembunyikan wajah-Mu, dan menganggap aku sebagai musuh-Mu?"
   },
   {Bible:"Job", Chapter:13, Verse:25, Page:1,
-    Kor:"주님께서는 줄곧 나를 위협하시렵니까? 나는 바람에 날리는 나뭇잎 같을 뿐입니다. 주님께서는 지금 마른 지푸라기 같은 나를 공격하고 계십니다.",
+    Kor:"주께서는 줄곧 나를 위협하시렵니까? 나는 바람에 날리는 나뭇잎 같을 뿐입니다. 주께서는 지금 마른 지푸라기 같은 나를 공격하고 계십니다.",
     Chn:"你要惊动被风吹的叶子吗？ 要追赶枯干的碎秸吗？",
     Eng:"Will you torment a windblown leaf? Will you chase after dry chaff?",
     Ind:"Apakah Engkau hendak menggentarkan daun yang ditiupkan angin, dan mengejar jerami yang kering?"
   },
   {Bible:"Job", Chapter:13, Verse:26, Page:1,
-    Kor:"주님께서는 지금, a내가 어릴 때에 한 일까지도 다 들추어 내시면서, 나를 고발하십니다. (a 또는 '나를 고발하시는 글을 쓰시고 내가 어릴 때 지은 죄를 상속 받게 하십니다')",
+    Kor:"주께서는 지금, 내가 어릴 때에 한 일까지도 다 들추어 내시면서, 나를 고발하십니다.",
     Chn:"你按罪状刑罚我， 又使我担当幼年的罪孽；",
     Eng:"For you write down bitter things against me and make me inherit the sins of my youth.",
     Ind:"Sebab Engkau menulis hal-hal yang pahit terhadap aku dan menghukum aku karena kesalahan pada masa mudaku;"

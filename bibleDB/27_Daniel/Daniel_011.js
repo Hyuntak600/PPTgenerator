@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"seperti dahulu aku juga mendampinginya untuk menguatkan dan menyokongnya, yakni pada tahun pertama pemerintahan Darius, orang Media itu.\""
   },
   {Bible:"Daniel", Chapter:11, Verse:2, Page:1,
-    Kor:"<이집트와 시리아> ○\"이제 내가 진실을 너에게 말하겠다. 보아라, 페르시아에 또 세 왕이 일어날 것이며, 그 뒤에 넷째는 다른 누구보다 큰 재물을 모을 것이다. 그가 재물을 모으고 권세를 쥐게 되면, 모든 사람을 격동시켜서 그리스를 칠 것이다.",
+    Kor:"○\"이제 내가 진실을 너에게 말하겠다. 보아라, 페르시아에 또 세 왕이 일어날 것이며, 그 뒤에 넷째는 다른 누구보다 큰 재물을 모을 것이다. 그가 재물을 모으고 권세를 쥐게 되면, 모든 사람을 격동시켜서 그리스를 칠 것이다.",
     Chn:"现在我将真事指示你： 「波斯还有三王兴起，第四王必富足远胜诸王。他因富足成为强盛，就必激动大众攻击希腊国。",
     Eng:"\"Now then, I tell you the truth: Three more kings will appear in Persia, and then a fourth, who will be far richer than all the others. When he has gained power by his wealth, he will stir up everyone against the kingdom of Greece.",
     Ind:"\"Oleh sebab itu, aku akan memberitahukan kepadamu hal yang benar. Sesungguhnya, tiga raja lagi akan muncul di negeri Persia, dan yang keempat akan mendapat kekayaan yang lebih besar dari mereka semua, dan apabila ia telah menjadi kuat karena kekayaannya, ia akan berusaha sekuat-kuatnya untuk melawan kerajaan Yunani."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Tetapi baru saja ia muncul, maka kerajaannya akan pecah dan terbagi-bagi menurut keempat mata angin dari langit, jatuh bukan kepada keturunannya, dan tanpa kekuasaan seperti yang dipunyainya; sebab kerajaannya akan runtuh dan menjadi milik orang-orang yang lain dari pada orang-orang ini."
   },
   {Bible:"Daniel", Chapter:11, Verse:5, Page:1,
-    Kor:"○남쪽 a왕이 강해질 것이나, 그의 장군 가운데 하나가 그보다 더 강해져서, 더 큰 나라를 다스릴 것이며, 그의 권세는 매우 클 것이다.(a 이집트의 왕)",
+    Kor:"○남쪽 왕이 강해질 것이나, 그의 장군 가운데 하나가 그보다 더 강해져서, 더 큰 나라를 다스릴 것이며, 그의 권세는 매우 클 것이다.",
     Chn:"「南方的王必强盛，他将帅中必有一个比他更强盛，执掌权柄，他的权柄甚大。",
     Eng:"\"The king of the South will become strong, but one of his commanders wihl become even stronger than he and will rule his own kingdom with great power.",
     Ind:"Maka raja negeri Selatan akan menjadi kuat; tetapi salah seorang dari panglima-panglimanya akan menjadi lebih kuat dari padanya dan orang ini memerintah, lalu kekuasaannya akan menjadi kekuasaan yang besar."
   },
   {Bible:"Daniel", Chapter:11, Verse:6, Page:1,
-    Kor:"몇 년 뒤에 b그들은 동맹을 맺을 것이며, c남쪽 왕은 자기 딸을 d북쪽 왕과 결혼시켜서, 서로 화친할 것이다. 그러나 그 여인은 아무런 권세도 쥐지 못하고, e왕자를 낳아도 세자가 되지 못할 것이다. 그 여인과, 그 여인을 호위하여 온 이들과, f그 여인을 낳은 이와, 그 여인을 편들어 돕던 모든 사람이, 다 버림을 받을 것이다.(b 이집트 왕과 시리아 왕 c 이집트 d 시리아 e 또는 '그와 그의 권세가 계속되지 못할 것이다' f 또는 '그 여인이 낳은 아들'(불가타와 시리아어역))",
+    Kor:"몇 년 뒤에 그들은 동맹을 맺을 것이며, 남쪽 왕은 자기 딸을 북쪽 왕과 결혼시켜서, 서로 화친할 것이다. 그러나 그 여인은 아무런 권세도 쥐지 못하고, 왕자를 낳아도 세자가 되지 못할 것이다. 그 여인과, 그 여인을 호위하여 온 이들과, 그 여인을 낳은 이와, 그 여인을 편들어 돕던 모든 사람이, 다 버림을 받을 것이다.",
     Chn:"过些年后，他们必互相连合，南方王的女儿必就了北方王来立约；但这女子帮助之力存立不住，王和他所倚靠之力也不能存立。这女子和引导她来的，并生她的，以及当时扶助她的，都必交与死地。",
     Eng:"After some years, they will become allies. The daughter of the king of the South will go to the king of the North to make an alliance, but she will not retain her power, and he and his power will not last. In those days she will be handed over, together with her royal escort and her father and the one who supported her.",
     Ind:"Beberapa tahun kemudian keduanya akan bersekutu: puteri raja negeri Selatan akan datang kepada raja negeri Utara untuk mengadakan persetujuan. Tetapi puteri itu tidak berhasil, juga keturunannya tidak dapat bertahan: puteri itu akan diserahkan, demikian pula orang-orang yang mengantarnya, anak yang dilahirkannya dan orang yang mengawininya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Menggantikan dia akan muncul seorang yang menyuruh seorang pemungut pajak menjalani bagian yang terindah dari kerajaan itu, tetapi beberapa hari kemudian ia akan dibinasakan, bukan oleh kemarahan atau oleh peperangan."
   },
   {Bible:"Daniel", Chapter:11, Verse:21, Page:1,
-    Kor:"<시리아의 악한 왕> ○\"뒤를 이어 어떤 비열한 사람이 왕이 될 것이다. 그는 왕이 될 권리도 없는 악한 사람인데도, 왕위를 차지할 것이다. 그는 은밀하게 술책을 써서, 왕권을 잡을 것이다.",
+    Kor:"○\"뒤를 이어 어떤 비열한 사람이 왕이 될 것이다. 그는 왕이 될 권리도 없는 악한 사람인데도, 왕위를 차지할 것이다. 그는 은밀하게 술책을 써서, 왕권을 잡을 것이다.",
     Chn:"「必有一个卑鄙的人兴起接续为王，人未曾将国的尊荣给他，他却趁人坦然无备的时候，用谄媚的话得国。",
     Eng:"\"He will be succeeded by a contemptible person who has not been given the honor of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue.",
     Ind:"Menggantikan dia akan muncul seorang yang hina, yang tidak memperoleh martabat raja; tetapi dengan tak disangka-sangka ia akan datang merebut kedudukan raja dengan perbuatan-perbuatan licin."

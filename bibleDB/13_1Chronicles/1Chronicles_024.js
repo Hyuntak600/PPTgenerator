@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",24,31);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:24, Verse:1, Page:1,
-    Kor:"<제사장이 맡은 일> 아론 자손의 갈래는 다음과 같다. 아론의 아들은 나답과 아비후와 엘르아살과 이다말이다.",
+    Kor:"아론 자손의 갈래는 다음과 같다. 아론의 아들은 나답과 아비후와 엘르아살과 이다말이다.",
     Chn:"亚伦子孙的班次记在下面：亚伦的儿子是拿答、亚比户、以利亚撒、以他玛。",
     Eng:"These were the divisions of the sons of Aaron: The sons of Aaron were Nadab, Abihu, Eleazar and Ithamar.",
     Ind:"Inilah rombongan-rombongan anak-anak Harun. Anak-anak Harun ialah Nadab, Abihu, Eleazar dan Itamar."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"yang kesembilan pada Yesua; yang kesepuluh pada Sekhanya;"
   },
   {Bible:"1Chronicles", Chapter:24, Verse:13, Page:1,
-    Kor:"열셋째는 훕바이고, 열넷째는 예세브압이고,",
+    Kor:"열셋째는 컂바이고, 열넷째는 예세브압이고,",
     Chn:"第十三是胡巴，第十四是耶是比押，",
     Eng:"the thirteenth to Huppah, the fourteenth to Jeshebeab,",
     Ind:"yang ketiga belas pada Hupa; yang keempat belas pada Yesebeab;"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"yang kedua puluh tiga pada Delaya; yang kedua puluh empat pada Maazya."
   },
   {Bible:"1Chronicles", Chapter:24, Verse:19, Page:1,
-    Kor:"○그들은 하는 일에 따라 주님의 성전에 들어가서, 주 이스라엘의 하나님께서 그들의 조상 아론을 시켜서 지시하신 규례대로, 직무를 수행하였다.",
+    Kor:"○그들은 하는 일에 따라 주의 성전에 들어가서, 주 이스라엘의 하나님께서 그들의 조상 아론을 시켜서 지시하신 규례대로, 직무를 수행하였다.",
     Chn:"这就是他们的班次，要照耶和华—以色列的　神借他们祖宗亚伦所吩咐的条例进入耶和华的殿办理事务。",
     Eng:"This was their appointed order of ministering when they entered the temple of the Lord , according to the regulations prescribed for them by their forefather Aaron, as the Lord , the God of Israel, had commanded him.",
     Ind:"Itulah jabatan mereka dalam menyelenggarakan ibadah setelah mereka masuk rumah TUHAN, sesuai dengan peraturan yang diberikan kepada mereka dengan perantaraan Harun, bapa leluhur mereka, seperti yang diperintahkan kepadanya oleh TUHAN, Allah Israel."
   },
   {Bible:"1Chronicles", Chapter:24, Verse:20, Page:1,
-    Kor:"<레위 사람 명단> ○나머지 레위 자손은, 아므람의 자손인 수바엘과 수바엘의 자손인 예드야와,",
+    Kor:"○나머지 레위 자손은, 아므람의 자손인 수바엘과 수바엘의 자손인 예드야와,",
     Chn:"利未其余的子孙如下：暗兰的子孙里有书巴业；书巴业的子孙里有耶希底亚。",
     Eng:"As for the rest of the descendants of Levi: from the sons of Amram: Shubael; from the sons of Shubael: Jehdeiah.",
     Ind:"Golongan yang masih tinggal dari bani Lewi, dari anak-anak Amram ialah Subael, dari anak-anak Subael ialah Yehdeya;"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Anak-anak Musi ialah Mahli, Eder dan Yerimot. Itulah bani Lewi menurut puak mereka."
   },
   {Bible:"1Chronicles", Chapter:24, Verse:31, Page:1,
-    Kor:"○이들도 그들의 친족인 아론 자손과 마찬가지로, 다윗 왕과 사독과 아히멜렉과 제사장과 레위 사람 가문의 족장 앞에서 제비를 뽑았다. 가문의 종가이든 가장 작은 집이든, 공평하게 제비를 뽑았다.",
+    Kor:"○이들도 그들의 형제인 아론 자손과 마찬가지로, 다윗 왕과 사독과 아히멜렉과 제사장과 레위 사람 가문의 족장 앞에서 제비를 뽑았다. 가문의 종가이든 가장 작은 집이든, 공평하게 제비를 뽑았다.",
     Chn:"他们在大卫王和撒督，并亚希米勒与祭司利未人的族长面前掣签，正如他们弟兄亚伦的子孙一般。各族的长者与兄弟没有分别。",
     Eng:"They also cast lots, just as their brothers the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelech, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.",
     Ind:"Mereka inipun, sama seperti saudara-saudara sesuku mereka, anak-anak Harun, membuang undi di depan raja Daud, di depan Zadok, Ahimelekh dan para kepala puak, para imam dan orang Lewi. Dalam hal ini seorang kepala puak sama dengan saudaranya yang terkecil."

@@ -3,19 +3,19 @@
 BibleDB.ref("Mark",3,35);
 BibleDB.add([
   {Bible:"Mark", Chapter:3, Verse:1, Page:1,
-    Kor:"<안식일에 손이 오그라든 사람을 고치시다(마 12:9-14; 눅 6:6-11)> 예수께서 다시 회당에 들어가셨다. 그런데 거기에 한쪽 손이 오그라든 사람이 있었다.",
+    Kor:"예수께서 다시 회당에 들어가셨다. 그런데 거기에 한쪽 손이 오그라든 사람이 있었다.",
     Chn:"耶稣又进了会堂，在那里有一个人枯干了一只手。",
     Eng:"Another time he went into the synagogue, and a man with a shriveled hand was there.",
     Ind:"Kemudian Yesus masuk lagi ke rumah ibadat. Di situ ada seorang yang mati sebelah tangannya."
   },
   {Bible:"Mark", Chapter:3, Verse:2, Page:1,
-    Kor:"사람들은 예수를 고발하려고, 예수가 안식일에 그 사람을 고쳐 주시는지를 보려고, 예수를 지켜보고 있었다.",
+    Kor:"사람들은 예수를 고발하려고, 예수께서 안식일에 그 사람을 고쳐 주시는지를 보려고, 예수를 지켜 보고 있었다.",
     Chn:"众人窥探耶稣，在安息日医治不医治，意思是要控告耶稣。",
     Eng:"Some of them were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal him on the Sabbath.",
     Ind:"Mereka mengamat-amati Yesus, kalau-kalau Ia menyembuhkan orang itu pada hari Sabat, supaya mereka dapat mempersalahkan Dia."
   },
   {Bible:"Mark", Chapter:3, Verse:3, Page:1,
-    Kor:"예수께서 손이 오그라든 사람에게 말씀하셨다. \"일어나서 가운데로 나오너라.\"",
+    Kor:"예수께서 손이 오그라든 사람에게 \"일어나서 가운데로 나오너라\" 하고 말씀하셨다.",
     Chn:"耶稣对那枯干一只手的人说：「起来，站在当中。」",
     Eng:"Jesus said to the man with the shriveled hand, \"Stand up in front of everyone.\"",
     Ind:"Kata Yesus kepada orang yang mati sebelah tangannya itu: \"Mari, berdirilah di tengah!\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Kemudian kata-Nya kepada mereka: \"Manakah yang diperbolehkan pada hari Sabat, berbuat baik atau berbuat jahat, menyelamatkan nyawa orang atau membunuh orang?\" Tetapi mereka itu diam saja."
   },
   {Bible:"Mark", Chapter:3, Verse:5, Page:1,
-    Kor:"예수께서 노하셔서, 그들을 둘러보시고, 그들의 마음이 굳어진 것을 탄식하시면서, 손이 오그라든 사람에게 말씀하셨다. \"손을 내밀어라.\" 그 사람이 손을 내미니, 그의 손이 회복되었다.",
+    Kor:"예수께서 노하셔서, 그들을 둘러보시고, 그들의 마음이 굳어진 것을 탄식하시면서, 손이 오그라든 사람에게 \"손을 내밀어라\" 하고 말씀하셨다. 그 사람이 손을 내미니, 그의 손이 회복되었다.",
     Chn:"耶稣怒目周围看他们，忧愁他们的心刚硬，就对那人说：「伸出手来！」他把手一伸，手就复了原。",
     Eng:"He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, \"Stretch out your hand.\" He stretched it out, and his hand was completely restored.",
     Ind:"Ia berdukacita karena kedegilan mereka dan dengan marah Ia memandang sekeliling-Nya kepada mereka lalu Ia berkata kepada orang itu: \"Ulurkanlah tanganmu!\" Dan ia mengulurkannya, maka sembuhlah tangannya itu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu keluarlah orang-orang Farisi dan segera bersekongkol dengan orang-orang Herodian untuk membunuh Dia."
   },
   {Bible:"Mark", Chapter:3, Verse:7, Page:1,
-    Kor:"<많은 사람이 모여들다> ○예수께서 제자들과 함께 바닷가로 물러가시니, 갈릴리에서 많은 사람이 따라왔다. 또한 유대와",
+    Kor:"○예수께서 제자들과 함께 바닷가로 물러가시니, 갈릴리에서 많은 사람이 따라왔다. 또한 유대와",
     Chn:"耶稣和门徒退到海边去，有许多人从加利利跟随他。",
     Eng:"Jesus withdrew with his disciples to the lake, and a large crowd from Galilee followed.",
     Ind:"Kemudian Yesus dengan murid-murid-Nya menyingkir ke danau, dan banyak orang dari Galilea mengikuti-Nya. Juga dari Yudea,"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Ia menyuruh murid-murid-Nya menyediakan sebuah perahu bagi-Nya karena orang banyak itu, supaya mereka jangan sampai menghimpit-Nya."
   },
   {Bible:"Mark", Chapter:3, Verse:10, Page:1,
-    Kor:"그가 많은 사람을 고쳐 주셨으므로, 온갖 병으로 고통받는 사람들이, 누구나 그에게 손을 대려고 밀려들었기 때문이다.",
+    Kor:"그가 많은 사람을 고쳐 주셨으므로, 온갖 병으로 고통받는 사람들은, 누구나 그에게 손을 대려고 밀려들었기 때문이다.",
     Chn:"他治好了许多人，所以凡有灾病的，都挤进来要摸他。",
     Eng:"For he had healed many, so that those with diseases were pushing forward to touch him.",
     Ind:"Sebab Ia menyembuhkan banyak orang, sehingga semua penderita penyakit berdesak-desakan kepada-Nya hendak menjamah-Nya."
   },
   {Bible:"Mark", Chapter:3, Verse:11, Page:1,
-    Kor:"또 a악한 귀신들은 예수를 보기만 하면, 그 앞에 엎드려서 외쳤다. \"당신은 하나님의 아들입니다.\"(a 그, '더러운')",
+    Kor:"또 악한 귀신들은 예수를 보기만 하면, 그 앞에 엎드려서 \"당신은 하나님의 아들입니다\" 하고 외쳤다.",
     Chn:"污鬼无论何时看见他，就俯伏在他面前，喊着说：「你是　神的儿子。」",
     Eng:"Whenever the evil spirits saw him, they fell down before him and cried out, \"You are the Son of God.\"",
     Ind:"Bilamana roh-roh jahat melihat Dia, mereka jatuh tersungkur di hadapan-Nya dan berteriak: \"Engkaulah Anak Allah.\""
@@ -75,67 +75,67 @@ BibleDB.add([
     Ind:"Tetapi Ia dengan keras melarang mereka memberitahukan siapa Dia."
   },
   {Bible:"Mark", Chapter:3, Verse:13, Page:1,
-    Kor:"<열두 제자를 뽑으시다(마 10:1-4; 눅 6:12-16)> ○예수께서 산에 올라가셔서, 원하시는 사람들을 부르시니, 그들이 예수께로 나아왔다.",
+    Kor:"○예수께서 산에 올라가셔서, 원하시는 사람들을 부르시니, 그들이 예수께로 나아갔다.",
     Chn:"耶稣上了山，随自己的意思叫人来；他们便来到他那里。",
     Eng:"Jesus went up on a mountainside and called to him those he wanted, and they came to him.",
     Ind:"Kemudian naiklah Yesus ke atas bukit. Ia memanggil orang-orang yang dikehendaki-Nya dan merekapun datang kepada-Nya."
   },
   {Bible:"Mark", Chapter:3, Verse:14, Page:1,
-    Kor:"예수께서 열둘을 세우시고 <그들을 또한 사도라고 이름하셨다.> 이것은, 예수께서 그들을 자기와 함께 있게 하시고, 또 그들을 내보내어서 말씀을 전파하게 하시며,",
+    Kor:"예수께서 열둘을 세우시고 그들을 사도라고 이름하셨다. 이것은, 예수께서 그들을 자기와 함께 있게 하시고, 또 그들을 내보내어서 말씀을 전파하게 하시며,",
     Chn:"他就设立十二个人，要他们常和自己同在，也要差他们去传道，",
     Eng:"He appointed twelve--designating them apostles--that they might be with him and that he might send them out to preach",
     Ind:"Ia menetapkan dua belas orang untuk menyertai Dia dan untuk diutus-Nya memberitakan Injil"
   },
   {Bible:"Mark", Chapter:3, Verse:15, Page:1,
-    Kor:"귀신을 쫓아내는 권능을 가지게 하시려는 것이었다.",
+    Kor:"귀신을 내쫓는 권능을 가지게 하시려는 것이었다.",
     Chn:"并给他们权柄赶鬼。",
     Eng:"and to have authority to drive out demons.",
     Ind:"dan diberi-Nya kuasa untuk mengusir setan."
   },
   {Bible:"Mark", Chapter:3, Verse:16, Page:1,
-    Kor:"<예수께서 열둘을 임명하셨는데,> 그들은, 베드로라는 이름을 덧붙여 주신 시몬과,",
+    Kor:"예수께서 열둘을 임명하셨는데, 그들은, 베드로라고 이름을 지어 주신 시몬과,",
     Chn:"这十二个人有西门（耶稣又给他起名叫彼得），",
     Eng:"These are the twelve he appointed: Simon (to whom he gave the name Peter);",
     Ind:"Kedua belas orang yang ditetapkan-Nya itu ialah: Simon, yang diberi-Nya nama Petrus,"
   },
   {Bible:"Mark", Chapter:3, Verse:17, Page:1,
-    Kor:"'천둥의 아들'을 뜻하는 보아너게라는 이름을 덧붙여 주신 세베대의 아들들인 야고보와, 그의 동생 요한과,",
+    Kor:"'천둥의 아들'을 뜻하는 보아너게라는 이름을 지어 주신 세베대의 아들 야고보와 그의 동생 요한과,",
     Chn:"还有西庇太的儿子雅各和雅各的兄弟约翰（又给这两个人起名叫半尼其，就是雷子的意思），",
     Eng:"James son of Zebedee and his brother John (to them he gave the name Boanerges, which means Sons of Thunder);",
     Ind:"Yakobus anak Zebedeus, dan Yohanes saudara Yakobus, yang keduanya diberi-Nya nama Boanerges, yang berarti anak-anak guruh,"
   },
   {Bible:"Mark", Chapter:3, Verse:18, Page:1,
-    Kor:"안드레와 빌립과 바돌로매와 마태와 도마와 알패오의 아들 야고보와 다대오와 b열혈당원 시몬과,(b 또는 '가나안 사람')",
+    Kor:"안드레와 빌립과 바돌로매와 마태와 도마와 알패오의 아들 야고보와 다대오와 가나안 사람 시몬과,",
     Chn:"又有安得烈、腓力、巴多罗买、马太、多马、亚勒腓的儿子雅各，和达太，并奋锐党的西门，",
     Eng:"Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot",
     Ind:"selanjutnya Andreas, Filipus, Bartolomeus, Matius, Tomas, Yakobus anak Alfeus, Tadeus, Simon orang Zelot,"
   },
   {Bible:"Mark", Chapter:3, Verse:19, Page:1,
-    Kor:"예수를 넘겨준 가룟 유다이다.",
+    Kor:"예수를 넘겨 준 가룟 유다이다. ○예수께서 집에 들어가시니,",
     Chn:"还有卖耶稣的加略人犹大。",
     Eng:"and Judas Iscariot, who betrayed him.",
     Ind:"dan Yudas Iskariot, yang mengkhianati Dia."
   },
   {Bible:"Mark", Chapter:3, Verse:20, Page:1,
-    Kor:"<예수와 바알세불(마 12:22-32; 눅 11:14-23; 12:10)> ○예수께서 집에 들어가시니, 무리가 다시 모여들어서, 예수의 일행은 음식을 먹을 겨를도 없었다.",
+    Kor:"무리가 다시 모여들어서, 예수의 일행은 음식을 먹을 겨를도 없었다.",
     Chn:"耶稣进了一个屋子，众人又聚集，甚至他连饭也顾不得吃。",
     Eng:"Then Jesus entered a house, and again a crowd gathered, so that he and his disciples were not even able to eat.",
     Ind:"Kemudian Yesus masuk ke sebuah rumah. Maka datanglah orang banyak berkerumun pula, sehingga makanpun mereka tidak dapat."
   },
   {Bible:"Mark", Chapter:3, Verse:21, Page:1,
-    Kor:"예수의 가족들이, 예수가 미쳤다는 소문을 듣고서, 그를 붙잡으러 나섰다.",
+    Kor:"예수의 친척들이, 예수가 미쳤다는 소문을 듣고서 그를 붙잡으러 나섰다.",
     Chn:"耶稣的亲属听见，就出来要拉住他，因为他们说他癫狂了。",
     Eng:"When his family heard about this, they went to take charge of him, for they said, \"He is out of his mind.\"",
     Ind:"Waktu kaum keluarga-Nya mendengar hal itu, mereka datang hendak mengambil Dia, sebab kata mereka Ia tidak waras lagi."
   },
   {Bible:"Mark", Chapter:3, Verse:22, Page:1,
-    Kor:"예루살렘에서 내려온 율법학자들은, 예수가 바알세불이 들렸다고 하고, 또 그가 귀신의 두목의 힘을 빌어서 귀신을 쫓아낸다고도 하였다.",
+    Kor:"예루살렘에서 내려온 율법학자들은, 예수가 바알세불이 들렸다고 하고, 또 그가 귀신의 두목의 힘을 빌어서 귀신을 내쫓는다고도 하였다.",
     Chn:"从耶路撒冷下来的文士说：「他是被别西卜附着」；又说：「他是靠着鬼王赶鬼。」",
     Eng:"And the teachers of the law who came down from Jerusalem said, \"He is possessed by Beelzebub! By the prince of demons he is driving out demons.\"",
     Ind:"Dan ahli-ahli Taurat yang datang dari Yerusalem berkata: \"Ia kerasukan Beelzebul,\" dan: \"Dengan penghulu setan Ia mengusir setan.\""
   },
   {Bible:"Mark", Chapter:3, Verse:23, Page:1,
-    Kor:"그래서 예수께서 그들을 불러 놓고, 비유로 그들에게 말씀하셨다. \"사탄이 어떻게 사탄을 쫓아낼 수 있느냐?",
+    Kor:"그래서 예수께서 그들을 불러서, 비유로 말씀하셨다. \"사탄이 어떻게 사탄을 내쫓을 수 있느냐?",
     Chn:"耶稣叫他们来，用比喻对他们说：「撒但怎能赶出撒但呢？",
     Eng:"So Jesus called them and spoke to them in parables: \"How can Satan drive out Satan?",
     Ind:"Yesus memanggil mereka, lalu berkata kepada mereka dalam perumpamaan: \"Bagaimana Iblis dapat mengusir Iblis?"
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Tetapi apabila seorang menghujat Roh Kudus, ia tidak mendapat ampun selama-lamanya, melainkan bersalah karena berbuat dosa kekal.\""
   },
   {Bible:"Mark", Chapter:3, Verse:30, Page:1,
-    Kor:"예수께서 이 말씀을 하신 것은, 사람들이 \"그는 a악한 귀신이 들렸다\" 하고 말하였기 때문이다.(a 그, '더러운')",
+    Kor:"이 말씀을 하신 것은, 사람들이 \"그는 악한 귀신이 들렸다\" 하고 말하였기 때문이다.",
     Chn:"这话是因为他们说：「他是被污鬼附着的。」",
     Eng:"He said this because they were saying, \"He has an evil spirit.\"",
     Ind:"Ia berkata demikian karena mereka katakan bahwa Ia kerasukan roh jahat."
   },
   {Bible:"Mark", Chapter:3, Verse:31, Page:1,
-    Kor:"<예수의 어머니와 형제 자매들(마 12:46-50; 눅 8:19-21)> ○그 때에 예수의 어머니와 동생들이 찾아와, 바깥에 서서, 사람을 들여보내어 예수를 불렀다.",
+    Kor:"○그 때에 예수의 어머니와 형제들이 찾아와, 바깥에 서서, 사람을 들여보내어 예수를 불렀다.",
     Chn:"当下，耶稣的母亲和弟兄来，站在外边，打发人去叫他。",
     Eng:"Then Jesus' mother and brothers arrived. Standing outside, they sent someone in to call him.",
     Ind:"Lalu datanglah ibu dan saudara-saudara Yesus. Sementara mereka berdiri di luar, mereka menyuruh orang memanggil Dia."
   },
   {Bible:"Mark", Chapter:3, Verse:32, Page:1,
-    Kor:"무리가 예수의 주위에 둘러앉아 있다가, 그에게 말하였다. \"보십시오, 선생님의 어머니와 동생들과 c누이들이 바깥에서 선생님을 찾고 있습니다.\"(c 다른 고대 사본들에는 '누이들'이 없음)",
+    Kor:"무리가 예수의 주위에 둘러앉아 있다가, 그에게 말하였다. \"보십시오, 선생님의 어머니와 형제들과 누이들이 바깥에서 선생님을 찾고 있습니다.\"",
     Chn:"有许多人在耶稣周围坐着，他们就告诉他说：「看哪，你母亲和你弟兄在外边找你。」",
     Eng:"A crowd was sitting around him, and they told him, \"Your mother and brothers are outside looking for you.\"",
     Ind:"Ada orang banyak duduk mengelilingi Dia, mereka berkata kepada-Nya: \"Lihat, ibu dan saudara-saudara-Mu ada di luar, dan berusaha menemui Engkau.\""
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Jawab Yesus kepada mereka: \"Siapa ibu-Ku dan siapa saudara-saudara-Ku?\""
   },
   {Bible:"Mark", Chapter:3, Verse:34, Page:1,
-    Kor:"그리고 주위에 둘러앉은 사람들을 둘러보시고 말씀하셨다. \"보아라, 내 어머니와 내 d형제자매들이다.(d 그, '형제들')",
+    Kor:"그리고 주위에 둘러앉은 사람들을 둘러보시며 말씀하셨다. \"보아라, 내 어머니와 내 형제들이다.",
     Chn:"就四面观看那周围坐着的人，说：「看哪，我的母亲，我的弟兄。",
     Eng:"Then he looked at those seated in a circle around him and said, \"Here are my mother and my brothers!",
     Ind:"Ia melihat kepada orang-orang yang duduk di sekeliling-Nya itu dan berkata: \"Ini ibu-Ku dan saudara-saudara-Ku!"

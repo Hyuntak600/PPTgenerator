@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",13,22);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:13, Verse:1, Page:1,
-    Kor:"<하나님께서 바빌론을 벌하실 것이다> 다음은 아모스의 아들 이사야가 바빌론을 두고 받은 엄한 경고의 예언이다.",
+    Kor:"다음은 아모스의 아들 이사야가 바빌론을 두고 받은 엄한 경고의 예언이다.",
     Chn:"亚摩斯的儿子以赛亚得默示，论巴比伦。",
     Eng:"An oracle concerning Babylon that Isaiah son of Amoz saw:",
     Ind:"Ucapan ilahi terhadap Babel yang dinyatakan kepada Yesaya bin Amos."
@@ -15,25 +15,25 @@ BibleDB.add([
     Ind:"Naikkanlah panji-panji di atas gunung yang gundul, berserulah terhadap mereka dengan suara nyaring; lambaikanlah tangan supaya mereka masuk ke pintu-pintu gerbang para bangsawan!"
   },
   {Bible:"Isaiah", Chapter:13, Verse:3, Page:1,
-    Kor:"나는 이미 내가 거룩히 구별한 사람들에게 명령을 내렸고, 나의 분노를 원수들에게 쏟아 놓으려고, 사기가 충천한 나의 용사들을 불렀다.\"",
+    Kor:"나는 이미 내가 거룩히 구별한 사람들에게 명을 내렸고, 나의 분노를 원수들에게 쏟아 놓으려고, 사기가 충천한 나의 용사들을 불렀다.\"",
     Chn:"我吩咐我所挑出来的人； 我招呼我的勇士— 就是那矜夸高傲之辈， 为要成就我怒中所定的。",
     Eng:"I have commanded my holy ones; I have summoned my warriors to carry out my wrath--those who rejoice in my triumph.",
     Ind:"Aku ini telah memerintahkan orang-orang yang Kukuduskan, telah memanggil orang-orang perkasa-Ku untuk melaksanakan hukuman murka-Ku, orang-orang-Ku yang beria-ria dan bangga."
   },
   {Bible:"Isaiah", Chapter:13, Verse:4, Page:1,
-    Kor:"저 소리를 들어 보아라. 산 위에서 웅성거리는 소리다. 저 소리를 들어 보아라. 무리가 떠드는 소리다. 저 소리를 들어 보아라. 나라들이 소리 치고 나라들이 모여서 떠드는 소리다. 만군의 주님께서, 공격을 앞두고, 군대를 검열하실 것이다.",
+    Kor:"저 소리를 들어 보아라. 산 위에서 웅성거리는 소리다. 저 소리를 들어 보아라. 무리가 떠드는 소리다. 저 소리를 들어 보아라. 나라들이 소리 치고 나라들이 모여서 떠드는 소리다. 만군의 주께서, 공격을 앞두고, 군대를 검열하실 것이다.",
     Chn:"山间有多人的声音， 好像是大国人民。 有许多国的民聚集哄嚷的声音； 这是万军之耶和华点齐军队，预备打仗。",
     Eng:"Listen, a noise on the mountains, like that of a great multitude! Listen, an uproar among the kingdoms, like nations massing together! The LORD Almighty is mustering an army for war.",
     Ind:"Ada suara keramaian di atas gunung-gunung, seperti suara kumpulan orang yang besar jumlahnya! Suara kegaduhan dari kerajaan-kerajaan, dari bangsa-bangsa yang berkumpul! TUHAN semesta alam sedang memeriksa pasukan perang."
   },
   {Bible:"Isaiah", Chapter:13, Verse:5, Page:1,
-    Kor:"주님의 군대가 먼 나라에서 온다. 하늘 끝 저 너머에서 온다. 그들이 주님과 함께 그 진노의 무기로 온 땅을 멸하려 온다.",
+    Kor:"주의 군대가 먼 나라에서 온다. 하늘 끝 저 너머에서 온다. 그들이 주와 함께 그 진노의 무기로 온 땅을 멸하려 온다.",
     Chn:"他们从远方来， 从天边来， 就是耶和华并他恼恨的兵器 要毁灭这全地。",
     Eng:"They come from faraway lands, from the ends of the heavens--the LORD and the weapons of his wrath--to destroy the whole country.",
     Ind:"Mereka datang dari negeri yang jauh, ya dari ujung langit, yaitu TUHAN serta yang melaksanakan amarah-Nya untuk merusakkan seluruh bumi."
   },
   {Bible:"Isaiah", Chapter:13, Verse:6, Page:1,
-    Kor:"슬피 울어라! 주님께서 오실 날이 가깝다. a전능하신 분께서 오시는 날, 파멸의 날이 곧 이른다. (a 히, '샤다이')",
+    Kor:"슬피 울어라! 주께서 오실 날이 가깝다. 전능하신 분께서 오시는 날, 파멸의 날이 곧 이른다.",
     Chn:"你们要哀号， 因为耶和华的日子临近了！ 这日来到， 好像毁灭从全能者来到。",
     Eng:"Wail, for the day of the LORD is near; it will come like destruction from the Almighty.",
     Ind:"Merataplah, sebab hari TUHAN sudah dekat, datangnya sebagai pemusnahan dari Yang Mahakuasa."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"dan mereka akan terkejut. Sakit mulas dan sakit beranak akan menyerang mereka, mereka akan menggeliat kesakitan seperti perempuan yang melahirkan. Mereka akan berpandang-pandangan dengan tercengang-cengang, muka mereka seperti orang yang demam."
   },
   {Bible:"Isaiah", Chapter:13, Verse:9, Page:1,
-    Kor:"주님의 날이 온다. 무자비한 날, 진노와 맹렬한 분노의 날, 땅을 황폐하게 하고 그 땅에서 죄인들을 멸절시키는, 주님의 날이 온다.",
+    Kor:"주의 날이 온다. 무자비한 날, 진노와 맹렬한 분노의 날, 땅을 황폐하게 하고 그 땅에서 죄인들을 멸절시키는, 주의 날이 온다.",
     Chn:"耶和华的日子临到， 必有残忍、忿恨、烈怒， 使这地荒凉， 从其中除灭罪人。",
     Eng:"See, the day of the LORD is coming--a cruel day, with wrath and fierce anger--to make the land desolate and destroy the sinners within it.",
     Ind:"Sungguh, hari TUHAN datang dengan kebengisan, dengan gemas dan dengan murka yang menyala-nyala, untuk membuat bumi menjadi sunyi sepi dan untuk memunahkan dari padanya orang-orang yang berdosa."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Aku akan membuat orang lebih jarang dari pada emas tua, dan manusia lebih jarang dari pada emas Ofir."
   },
   {Bible:"Isaiah", Chapter:13, Verse:13, Page:1,
-    Kor:"하늘이 진동하고 땅이 흔들리게 하겠다.\" 만군의 주님께서 진노하시는 날에 그 분노가 맹렬히 불타는 날에 이 일이 이루어질 것이다.",
+    Kor:"하늘이 진동하고 땅이 흔들리게 하겠다.\" 만군의 주께서 진노하시는 날에 그 분노가 맹렬히 불타는 날에 이 일이 이루어질 것이다.",
     Chn:"我—万军之耶和华在忿恨中发烈怒的日子， 必使天震动， 使地摇撼，离其本位。",
     Eng:"Therefore I will make the heavens tremble; and the earth will shake from its place at the wrath of the LORD Almighty, in the day of his burning anger.",
     Ind:"Sebab itu Aku akan membuat langit gemetar, dan bumipun akan bergoncang dari tempatnya, pada waktu amarah TUHAN semesta alam, dan pada hari murka-Nya yang menyala-nyala."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Panah-panah mereka akan menembus orang-orang muda; mereka tidak akan sayang kepada buah kandungan, dan mereka tidak menaruh kasihan kepada anak-anak."
   },
   {Bible:"Isaiah", Chapter:13, Verse:19, Page:1,
-    Kor:"나라들 가운데서 가장 찬란한 바빌론, b바빌로니아 사람의 영예요 자랑거리인 바빌론은, 하나님께서 멸망시키실 때에, 마치 소돔과 고모라처럼 될 것이다. (b 또는 '갈대아')",
+    Kor:"나라들 가운데서 가장 찬란한 바빌론, 바빌로니아 사람의 영예요 자랑거리인 바빌론은, 하나님께서 멸망시키실 때에, 마치 소돔과 고모라처럼 될 것이다.",
     Chn:"巴比伦素来为列国的荣耀， 为迦勒底人所矜夸的华美， 必像　神所倾覆的所多玛、蛾摩拉一样。",
     Eng:"Babylon, the jewel of kingdoms, the glory of the Babylonians' pride, will be overthrown by God like Sodom and Gomorrah.",
     Ind:"Dan Babel, yang permai di antara kerajaan-kerajaan, perhiasan orang Kasdim yang megah, akan sama seperti Sodom dan Gomora pada waktu Allah menunggangbalikkannya:"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"tetapi yang akan berbaring di sana ialah binatang gurun, dan rumah-rumah mereka akan penuh dengan burung hantu; burung-burung unta akan diam di sana, dan jin-jin akan melompat-lompat;"
   },
   {Bible:"Isaiah", Chapter:13, Verse:22, Page:1,
-    Kor:"화려하던 궁전에서는 승냥이가 울부짖고, 화려하던 신전에서는 늑대가 울 것이다. <포로에서 돌아오다> 그 때가 다가오고 있다. 그 날은 절대로 연기되지 않는다.",
+    Kor:"화려하던 궁전에서는 승냥이가 울부짖고, 화려하던 신전에서는 늑대가 울 것이다. 그 때가 다가오고 있다. 그 날은 절대로 연기되지 않는다.",
     Chn:"豺狼必在它宫中呼号； 野狗必在它华美殿内吼叫。 巴比伦受罚的时候临近； 它的日子必不长久。",
     Eng:"Hyenas will howl in her strongholds, jackals in her luxurious palaces. Her time is at hand, and her days will not be prolonged.",
     Ind:"anjing-anjing hutan akan menyalak di dalam puri-purinya, dan serigala-serigala di dalam istana-istana kesenangan. Waktunya akan datang segera, dan usianya tidak akan diperpanjang."

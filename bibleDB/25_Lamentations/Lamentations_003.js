@@ -3,13 +3,13 @@
 BibleDB.ref("Lamentations",3,66);
 BibleDB.add([
   {Bible:"Lamentations", Chapter:3, Verse:1, Page:1,
-    Kor:"a나는 하나님의 진노의 몽둥이에 얻어맞고, 고난당하는 자다. (a 각 연의 첫 글자가 같은 히브리어 알파벳으로 시작되는 시 119편과 같은 종류의 알파벳 시)",
+    Kor:"나는 하나님의 진노의 몽둥이에 얻어맞고, 고난당하는 자다.",
     Chn:"我是因耶和华忿怒的杖， 遭遇困苦的人。",
     Eng:"I am the man who has seen affliction by the rod of his wrath.",
     Ind:"Akulah orang yang melihat sengsara disebabkan cambuk murka-Nya."
   },
   {Bible:"Lamentations", Chapter:3, Verse:2, Page:1,
-    Kor:"주님께서 나를 이끄시어, 빛도 없는 캄캄한 곳에서 헤매게 하시고,",
+    Kor:"주께서 나를 이끄시어, 빛도 없는 캄캄한 곳에서 헤매게 하시고,",
     Chn:"他引导我，使我行在黑暗中， 不行在光明里。",
     Eng:"He has driven me away and made me walk in darkness rather than light;",
     Ind:"Ia menghalau dan membawa aku ke dalam kegelapan yang tidak ada terangnya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, aku dipukul-Nya berulang-ulang dengan tangan-Nya sepanjang hari."
   },
   {Bible:"Lamentations", Chapter:3, Verse:4, Page:1,
-    Kor:"주님께서 내 살갗을 약하게 하시며, 내 뼈를 꺾으시며,",
+    Kor:"주께서 내 살갗을 약하게 하시며, 내 뼈를 꺾으시며,",
     Chn:"他使我的皮肉枯干； 他折断我的骨头。",
     Eng:"He has made my skin and my flesh grow old and has broken my bones.",
     Ind:"Ia menyusutkan dagingku dan kulitku, tulang-tulangku dipatahkan-Nya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Ia merintangi jalan-jalanku dengan batu pahat, dan menjadikannya tidak terlalui."
   },
   {Bible:"Lamentations", Chapter:3, Verse:10, Page:1,
-    Kor:"주님께서는, 엎드려서 나를 노리는 곰과 같고, 몰래 숨어서 나를 노리는 사자와 같으시다.",
+    Kor:"주께서는, 엎드려서 나를 노리는 곰과 같고, 몰래 숨어서 나를 노리는 사자와 같으시다.",
     Chn:"他向我如熊埋伏， 如狮子在隐密处。",
     Eng:"Like a bear lying in wait, like a lion in hiding,",
     Ind:"Laksana beruang Ia menghadang aku, laksana singa dalam tempat persembunyian."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Ia membelokkan jalan-jalanku, merobek-robek aku dan membuat aku tertegun."
   },
   {Bible:"Lamentations", Chapter:3, Verse:12, Page:1,
-    Kor:"주님께서 나를 과녁으로 삼아서, 활을 당기신다.",
+    Kor:"주께서 나를 과녁으로 삼아서, 활을 당기신다.",
     Chn:"他张弓将我当作箭靶子。",
     Eng:"He drew his bow and made me the target for his arrows.",
     Ind:"Ia membidikkan panah-Nya, menjadikan aku sasaran anak panah."
   },
   {Bible:"Lamentations", Chapter:3, Verse:13, Page:1,
-    Kor:"주님께서 화살통에서 뽑은 화살로 내 심장을 뚫으시니,",
+    Kor:"주께서 화살통에서 뽑은 화살로 내 심장을 뚫으시니,",
     Chn:"他把箭袋中的箭射入我的肺腑。",
     Eng:"He pierced my heart with arrows from his quiver.",
     Ind:"Ia menyusupkan ke dalam hatiku segala anak panah dari tabung-Nya."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Engkau menceraikan nyawaku dari kesejahteraan, aku lupa akan kebahagiaan."
   },
   {Bible:"Lamentations", Chapter:3, Verse:18, Page:1,
-    Kor:"나오느니 탄식뿐이다. 이제 내게서는 찬란함도 사라지고, 주님께 두었던 마지막 희망마저 사라졌다.",
+    Kor:"나오느니 탄식뿐이다. 이제 내게서는 찬란함도 사라지고, 주께 두었던 마지막 희망마저 사라졌다.",
     Chn:"我就说：我的力量衰败； 我在耶和华那里毫无指望！",
     Eng:"So I say, \"My splendor is gone and all that I had hoped from the LORD.\"",
     Ind:"Sangkaku: hilang lenyaplah kemasyhuranku dan harapanku kepada TUHAN."
@@ -129,31 +129,31 @@ BibleDB.add([
     Ind:"Tetapi hal-hal inilah yang kuperhatikan, oleh sebab itu aku akan berharap:"
   },
   {Bible:"Lamentations", Chapter:3, Verse:22, Page:1,
-    Kor:"b주님의 한결같은 사랑이 다함이 없고 그 긍휼이 끝이 없기 때문이다. (b 시리아어역과 타르굼을 따름. 히, '우리는 끊어지지 않았고')",
+    Kor:"주의 한결같은 사랑이 다함이 없고 그 긍휼이 끝이 없기 때문이다.",
     Chn:"我们不致消灭， 是出于耶和华诸般的慈爱； 是因他的怜悯不致断绝。",
     Eng:"Because of the LORD'S great love we are not consumed, for his compassions never fail.",
     Ind:"Tak berkesudahan kasih setia TUHAN, tak habis-habisnya rahmat-Nya,"
   },
   {Bible:"Lamentations", Chapter:3, Verse:23, Page:1,
-    Kor:"\"주님의 사랑과 긍휼이 아침마다 새롭고, 주님의 신실이 큽니다.\"",
+    Kor:"\"주의 사랑과 긍휼이 아침마다 새롭고, 주의 신실이 큽니다.\"",
     Chn:"每早晨，这都是新的； 你的诚实极其广大！",
     Eng:"They are new every morning; great is your faithfulness.",
     Ind:"selalu baru tiap pagi; besar kesetiaan-Mu!"
   },
   {Bible:"Lamentations", Chapter:3, Verse:24, Page:1,
-    Kor:"나는 늘 말하였다. \"주님은 내가 가진 모든 것, 주님은 나의 희망!\"",
+    Kor:"나는 늘 말하였다. \"주는 내가 가진 모든 것, 그러하기에 주께 내 희망을 건다.\"",
     Chn:"我心里说：耶和华是我的分， 因此，我要仰望他。",
     Eng:"I say to myself, \"The LORD is my portion; therefore I will wait for him.\"",
     Ind:"\"TUHAN adalah bagianku,\" kata jiwaku, oleh sebab itu aku berharap kepada-Nya."
   },
   {Bible:"Lamentations", Chapter:3, Verse:25, Page:1,
-    Kor:"주님께서는, 주님을 기다리는 사람이나 주님을 찾는 사람에게 복을 주신다.",
+    Kor:"주께서는, 주를 기다리는 사람이나 주를 찾는 사람에게 복을 주신다.",
     Chn:"凡等候耶和华，心里寻求他的， 耶和华必施恩给他。",
     Eng:"The LORD is good to those whose hope is in him, to the one who seeks him;",
     Ind:"TUHAN adalah baik bagi orang yang berharap kepada-Nya, bagi jiwa yang mencari Dia."
   },
   {Bible:"Lamentations", Chapter:3, Verse:26, Page:1,
-    Kor:"주님께서 구원하여 주시기를 참고 기다리는 것이 좋다.",
+    Kor:"주께서 구원하여 주시기를 참고 기다리는 것이 좋다.",
     Chn:"人仰望耶和华， 静默等候他的救恩， 这原是好的。",
     Eng:"it is good to wait quietly for the salvation of the LORD.",
     Ind:"Adalah baik menanti dengan diam pertolongan TUHAN."
@@ -171,25 +171,25 @@ BibleDB.add([
     Ind:"Biarlah ia duduk sendirian dan berdiam diri kalau TUHAN membebankannya."
   },
   {Bible:"Lamentations", Chapter:3, Verse:29, Page:1,
-    Kor:"어쩌면 희망이 있을지도 모르니 c겸손하게 사는 것이 좋다. (c 히, '먼지에 입을 대는 것이')",
+    Kor:"어쩌면 희망이 있을지도 모르니 겸손하게 사는 것이 좋다.",
     Chn:"他当口贴尘埃， 或者有指望。",
     Eng:"Let him bury his face in the dust--there may yet be hope.",
     Ind:"Biarlah ia merebahkan diri dengan mukanya dalam debu, mungkin ada harapan."
   },
   {Bible:"Lamentations", Chapter:3, Verse:30, Page:1,
-    Kor:"때리려는 사람에게 뺨을 대주고, d욕을 하거든 기꺼이 들어라. (d 히, '굴욕으로 배를 채워라')",
+    Kor:"때리려는 사람에게 뺨을 대주고, 욕을 하거든 기꺼이 들어라.",
     Chn:"他当由人打他的腮颊， 要满受凌辱。",
     Eng:"Let him offer his cheek to one who would strike him, and let him be filled with disgrace.",
     Ind:"Biarlah ia memberikan pipi kepada yang menamparnya, biarlah ia kenyang dengan cercaan."
   },
   {Bible:"Lamentations", Chapter:3, Verse:31, Page:1,
-    Kor:"주님께서는 우리를 언제까지나 버려 두지는 않으신다.",
+    Kor:"주께서는 우리를 언제까지나 버려 두지는 않으신다.",
     Chn:"因为主必不永远丢弃人。",
     Eng:"For men are not cast off by the Lord forever.",
     Ind:"Karena tidak untuk selama-lamanya Tuhan mengucilkan."
   },
   {Bible:"Lamentations", Chapter:3, Verse:32, Page:1,
-    Kor:"주님께서 우리를 근심하게 하셔도, 그 크신 사랑으로 우리를 불쌍히 여기신다.",
+    Kor:"주께서 우리를 근심하게 하셔도, 그 크신 사랑으로 우리를 불쌍히 여기신다.",
     Chn:"主虽使人忧愁， 还要照他诸般的慈爱发怜悯。",
     Eng:"Though he brings grief, he will show compassion, so great is his unfailing love.",
     Ind:"Karena walau Ia mendatangkan susah, Ia juga menyayangi menurut kebesaran kasih setia-Nya."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"kalau hak orang dibelokkan di hadapan Yang Mahatinggi,"
   },
   {Bible:"Lamentations", Chapter:3, Verse:36, Page:1,
-    Kor:"재판에서 사람이 억울한 판결을 받는 일, 이러한 모든 일을 주님께서 못 보실 줄 아느냐?",
+    Kor:"재판에서 사람이 억울한 판결을 받는 일, 이러한 모든 일을 주께서 못 보실 줄 아느냐?",
     Chn:"或在人的讼事上颠倒是非， 这都是主看不上的。",
     Eng:"to deprive a man of justice--would not the Lord see such things?",
     Ind:"atau orang diperlakukan tidak adil dalam perkaranya, masakan Tuhan tidak melihatnya?"
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Siapa berfirman, maka semuanya jadi? Bukankah Tuhan yang memerintahkannya?"
   },
   {Bible:"Lamentations", Chapter:3, Verse:38, Page:1,
-    Kor:"궂은 일도 좋은 일도, 가장 높으신 주님께서 말씀하셔서 일어나는 것이 아니냐?",
+    Kor:"궂은 일도 좋은 일도, 가장 높으신 주께서 말씀하셔서 일어나는 것이 아니냐?",
     Chn:"祸福不都出于至高者的口吗？",
     Eng:"Is it not from the mouth of the Most High that both calamities and good things come?",
     Ind:"Bukankah dari mulut Yang Mahatinggi keluar apa yang buruk dan apa yang baik?"
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Mengapa orang hidup mengeluh? Biarlah setiap orang mengeluh tentang dosanya!"
   },
   {Bible:"Lamentations", Chapter:3, Verse:40, Page:1,
-    Kor:"지나온 길을 돌이켜 살펴보고, 우리 모두 주님께로 돌아가자.",
+    Kor:"지나온 길을 돌이켜 살펴보고, 우리 모두 주께로 돌아가자.",
     Chn:"我们当深深考察自己的行为， 再归向耶和华。",
     Eng:"Let us examine our ways and test them, and let us return to the LORD.",
     Ind:"Marilah kita menyelidiki dan memeriksa hidup kita, dan berpaling kepada TUHAN."
@@ -249,25 +249,25 @@ BibleDB.add([
     Ind:"Marilah kita mengangkat hati dan tangan kita kepada Allah di sorga:"
   },
   {Bible:"Lamentations", Chapter:3, Verse:42, Page:1,
-    Kor:"\"우리가 주님을 거슬러 죄를 지었고, 주님께서는 우리를 용서하지 않으셨습니다.",
+    Kor:"우리가 주님을 거슬러 죄를 지었고, 주께서는 우리를 용서하지 않으셨습니다.",
     Chn:"我们犯罪背逆， 你并不赦免。",
     Eng:"\"We have sinned and rebelled and you have not forgiven.",
     Ind:"Kami telah mendurhaka dan memberontak, Engkau tidak mengampuni."
   },
   {Bible:"Lamentations", Chapter:3, Verse:43, Page:1,
-    Kor:"주님께서 몹시 노하셔서, 우리를 쫓으시고, 사정없이 죽이셨습니다.",
+    Kor:"주께서 몹시 노하셔서, 우리를 쫓으시고, 사정없이 죽이셨습니다.",
     Chn:"你自被怒气遮蔽，追赶我们； 你施行杀戮，并不顾惜。",
     Eng:"\"You have covered yourself with anger and pursued us; you have slain without pity.",
     Ind:"Engkau menyelubungi diri-Mu dengan murka, mengejar kami dan membunuh kami tanpa belas kasihan."
   },
   {Bible:"Lamentations", Chapter:3, Verse:44, Page:1,
-    Kor:"주님께서 구름을 두르셔서, 우리의 기도가 주님께 이르지 못하게 하셨습니다.",
+    Kor:"주께서 구름을 두르셔서, 우리의 기도가 주님께 이르지 못하게 하셨습니다.",
     Chn:"你以黑云遮蔽自己， 以致祷告不得透入。",
     Eng:"You have covered yourself with a cloud so that no prayer can get through.",
     Ind:"Engkau menyelubungi diri-Mu dengan awan, sehingga doa tak dapat menembus."
   },
   {Bible:"Lamentations", Chapter:3, Verse:45, Page:1,
-    Kor:"주님께서 우리를 뭇 민족 가운데서 쓰레기와 오물 더미로 만드셨으므로,",
+    Kor:"주께서 우리를 뭇 민족 가운데서 쓰레기와 오물 더미로 만드셨으므로,",
     Chn:"你使我们在万民中成为污秽和渣滓。",
     Eng:"You have made us scum and refuse among the nations.",
     Ind:"Kami Kaujadikan kotor dan keji di antara bangsa-bangsa."
@@ -297,7 +297,7 @@ BibleDB.add([
     Ind:"Air mataku terus-menerus bercucuran, dengan tak henti-hentinya,"
   },
   {Bible:"Lamentations", Chapter:3, Verse:50, Page:1,
-    Kor:"주님께서 하늘에서 살피시고, 돌아보시기를 기다립니다.",
+    Kor:"주께서 하늘에서 살피시고, 돌아보시기를 기다립니다.",
     Chn:"直等耶和华垂顾， 从天观看。",
     Eng:"until the LORD looks down from heaven and sees.",
     Ind:"sampai TUHAN memandang dari atas dan melihat dari sorga."
@@ -333,37 +333,37 @@ BibleDB.add([
     Ind:"\"Ya TUHAN, aku memanggil nama-Mu dari dasar lobang yang dalam."
   },
   {Bible:"Lamentations", Chapter:3, Verse:56, Page:1,
-    Kor:"'살려 주십시오. 못들은 체 하지 마시고, 건져 주십시오' 하고 울부짖을 때에, 주님께서 내 간구를 들어 주셨습니다.",
+    Kor:"\"살려 주십시오. 못들은 체 하지 마시고, 건져 주십시오\" 하고 울부짖을 때에, 주께서 내 간구를 들어 주셨습니다.",
     Chn:"你曾听见我的声音； 我求你解救， 你不要掩耳不听。",
     Eng:"You heard my plea: \"Do not close your ears to my cry for relief.\"",
     Ind:"Engkau mendengar suaraku! Janganlah Kaututupi telinga-Mu terhadap kesahku dan teriak tolongku!"
   },
   {Bible:"Lamentations", Chapter:3, Verse:57, Page:1,
-    Kor:"내가 주님께 부르짖을 때에, 주님께서 내게 가까이 오셔서 두려워하지 말라고 격려하셨습니다.",
+    Kor:"내가 주께 부르짖을 때에, 주께서 내게 가까이 오셔서 두려워하지 말라고 격려하셨습니다.",
     Chn:"我求告你的日子，你临近我， 说：不要惧怕！",
     Eng:"You came near when I called you, and you said, \"Do not fear.\"",
     Ind:"Engkau dekat tatkala aku memanggil-Mu, Engkau berfirman: Jangan takut!\""
   },
   {Bible:"Lamentations", Chapter:3, Verse:58, Page:1,
-    Kor:"주님, 주님께서 내 원한을 풀어 주시고, 내 목숨을 건져 주셨습니다.",
+    Kor:"주님, 주께서 내 원한을 풀어 주시고, 내 목숨을 건져 주셨습니다.",
     Chn:"主啊，你伸明了我的冤； 你救赎了我的命。",
     Eng:"O Lord, you took up my case; you redeemed my life.",
     Ind:"\"Ya Tuhan, Engkau telah memperjuangkan perkaraku, Engkau telah menyelamatkan hidupku."
   },
   {Bible:"Lamentations", Chapter:3, Verse:59, Page:1,
-    Kor:"주님, 주님께서 내가 당한 억울한 일을 보셨으니, 내게 바른 판결을 내려 주십시오.",
+    Kor:"주님, 주께서 내가 당한 억울한 일을 보셨으니, 내게 바른 판결을 내려 주십시오.",
     Chn:"耶和华啊，你见了我受的委屈； 求你为我伸冤。",
     Eng:"You have seen, O LORD, the wrong done to me. Uphold my cause!",
     Ind:"Engkau telah melihat ketidakadilan terhadap aku, ya TUHAN; berikanlah keadilan!"
   },
   {Bible:"Lamentations", Chapter:3, Verse:60, Page:1,
-    Kor:"주님께서는 나를 치려는 그들의 적개심과 음모를 아십니다.",
+    Kor:"주께서는 나를 치려는 그들의 적개심과 음모를 아십니다.",
     Chn:"他们仇恨我，谋害我， 你都看见了。",
     Eng:"You have seen the depth of their vengeance, all their plots against me.",
     Ind:"Engkau telah melihat segala dendam mereka, segala rancangan mereka terhadap aku.\""
   },
   {Bible:"Lamentations", Chapter:3, Verse:61, Page:1,
-    Kor:"주님, 주님께서는, 그들이 나를 두고 하는 모든 야유와 음모를 들으셨습니다.",
+    Kor:"주님, 주께서는, 그들이 나를 두고 하는 모든 야유와 음모를 들으셨습니다.",
     Chn:"耶和华啊，你听见他们辱骂我的话， 知道他们向我所设的计，",
     Eng:"O LORD, you have heard their insults, all their plots against me--",
     Ind:"\"Engkau telah mendengar cercaan mereka, ya TUHAN, segala rancangan mereka terhadap aku,"
@@ -393,7 +393,7 @@ BibleDB.add([
     Ind:"Engkau akan mengeraskan hati mereka; kiranya kutuk-Mu menimpa mereka!"
   },
   {Bible:"Lamentations", Chapter:3, Verse:66, Page:1,
-    Kor:"진노로 그들을 뒤쫓아, 주님의 하늘 아래에서 살 수 없게 하여 주십시오.\"",
+    Kor:"진노로 그들을 뒤쫓아, 주의 하늘 아래에서 살 수 없게 하여 주십시오.",
     Chn:"你要发怒追赶他们， 从耶和华的天下除灭他们。",
     Eng:"Pursue them in anger and destroy them from under the heavens of the LORD.",
     Ind:"Engkau akan mengejar mereka dengan murka dan memunahkan mereka dari bawah langit, ya TUHAN!\""

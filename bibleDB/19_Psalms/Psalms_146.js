@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",146,10);
 BibleDB.add([
   {Bible:"Psalms", Chapter:146, Verse:1, Page:1,
-    Kor:"<주님을 찬양하여라> a할렐루야. 내 영혼아, 주님을 찬양하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 내 영혼아, 주님을 찬양하여라.",
     Chn:"你们要赞美耶和华！ 我的心哪，你要赞美耶和华！",
     Eng:"Praise the LORD. Praise the LORD, O my soul.",
     Ind:"Haleluya! Pujilah TUHAN, hai jiwaku!"
   },
   {Bible:"Psalms", Chapter:146, Verse:2, Page:1,
-    Kor:"내가 평생토록 주님을 찬양하며 내가 살아 있는 한, 내 하나님을 찬양하겠다.",
+    Kor:"내가 평생토록 주님을 찬양하며 내가 살아 있는 한, 수금을 타면서 내 하나님을 찬양하겠다.",
     Chn:"我一生要赞美耶和华！ 我还活的时候要歌颂我的　神！",
     Eng:"I will praise the LORD all my life; I will sing praise to my God as long as I live.",
     Ind:"Aku hendak memuliakan TUHAN selama aku hidup, dan bermazmur bagi Allahku selagi aku ada."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"TUHAN menjaga orang-orang asing, anak yatim dan janda ditegakkan-Nya kembali, tetapi jalan orang fasik dibengkokkan-Nya."
   },
   {Bible:"Psalms", Chapter:146, Verse:10, Page:1,
-    Kor:"시온아, 주님께서 영원히 다스리신다! 나의 하나님께서 대대로 다스리신다! a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"시온아, 주께서 영원히 다스리신다! 나의 하나님께서 대대로 다스리신다! 할렐루야.",
     Chn:"耶和华要作王，直到永远！ 锡安哪，你的　神要作王，直到万代！ 你们要赞美耶和华！",
     Eng:"The LORD reigns forever, your God, O Zion, for all generations. Praise the LORD.",
     Ind:"TUHAN itu Raja untuk selama-lamanya, Allahmu, ya Sion, turun-temurun! Haleluya!"

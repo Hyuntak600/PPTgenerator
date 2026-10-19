@@ -3,19 +3,19 @@
 BibleDB.ref("2Samuel",22,51);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:22, Verse:1, Page:1,
-    Kor:"<다윗의 승전가(시 18)> 주님께서 다윗을 그의 모든 원수의 손과 사울의 손에서 건져 주셨을 때에, 다윗이 이 노래로 주님께 아뢰었다.",
+    Kor:"주께서 다윗을, 그의 모든 원수의 손과 사울의 손에서 건져 주셨을 때에, 다윗이 이 노래로 주께 아뢰었다.",
     Chn:"当耶和华救大卫脱离一切仇敌和扫罗之手的日子，他向耶和华念这诗，",
     Eng:"David sang to the LORD the words of this song when the LORD delivered him from the hand of all his enemies and from the hand of Saul.",
     Ind:"Daud mengatakan perkataan nyanyian ini kepada TUHAN pada waktu TUHAN telah melepaskan dia dari cengkeraman semua musuhnya dan dari cengkeraman Saul."
   },
   {Bible:"2Samuel", Chapter:22, Verse:2, Page:1,
-    Kor:"그는 이렇게 노래하였다.  주님은 나의 반석, 나의 요새, 나를 건지시는 분,",
+    Kor:"그는 이렇게 노래하였다. 주님은 나의 반석, 나의 요새, 나를 건지시는 분,",
     Chn:"说： 耶和华是我的岩石， 我的山寨，我的救主，",
     Eng:"He said: \"The LORD is my rock, my fortress and my deliverer;",
     Ind:"Ia berkata: \"Ya, TUHAN, bukit batuku, kubu pertahananku dan penyelamatku,"
   },
   {Bible:"2Samuel", Chapter:22, Verse:3, Page:1,
-    Kor:"나의 하나님은 나의 반석, 내가 피할 바위, 나의 방패, a나의 구원의 뿔, 나의 산성, 나의 피난처, 나의 구원자이십니다. 주님께서는 언제나 나를 포악한 자에게서 구해 주십니다. (a 힘을 상징함. '나의 보호자')",
+    Kor:"나의 하나님은 나의 반석, 내가 피할 바위, 나의 방패, 나의 구원의 뿔, 나의 산성, 나의 피난처, 나의 구원자이십니다. 주께서는 언제나 나를 포악한 자에게서 구해 주십니다.",
     Chn:"我的　神，我的磐石，我所投靠的。 他是我的盾牌，是拯救我的角， 是我的高台，是我的避难所。 我的救主啊，你是救我脱离强暴的。",
     Eng:"my God is my rock, in whom I take refuge, my shield and the horn of my salvation. He is my stronghold, my refuge and my savior--from violent men you save me.",
     Ind:"Allahku, gunung batuku, tempat aku berlindung, perisaiku, tanduk keselamatanku, kota bentengku, tempat pelarianku, juruselamatku; Engkau menyelamatkan aku dari kekerasan."
@@ -39,31 +39,31 @@ BibleDB.add([
     Ind:"tali-tali dunia orang mati telah membelit aku, perangkap-perangkap maut terpasang di depanku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:7, Page:1,
-    Kor:"내가 고통 가운데서 주님께 부르짖고, 나의 하나님을 바라보면서 부르짖었더니, 주님께서 그의 성전에서 나의 간구를 들으셨다. 주님께 부르짖은 나의 부르짖음이 주님의 귀에 다다랐다.",
+    Kor:"내가 고통 가운데서 주께 부르짖고, 나의 하나님을 바라보면서 부르짖었더니, 주께서 그의 성전에서 나의 간구를 들으셨다. 주께 부르짖은 나의 부르짖음이 주의 귀에 다다랐다.",
     Chn:"我在急难中求告耶和华， 向我的　神呼求。 他从殿中听了我的声音； 我的呼求入了他的耳中。",
     Eng:"In my distress I called to the LORD; I called out to my God. From his temple he heard my voice; my cry came to his ears.",
     Ind:"Ketika aku dalam kesesakan, aku berseru kepada TUHAN, kepada Allahku aku berseru. Dan Ia mendengar suaraku dari bait-Nya, teriakku minta tolong masuk ke telinga-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:8, Page:1,
-    Kor:"주님께서 크게 노하시니, 땅이 꿈틀거리고, 흔들리며, 하늘을 받친 산의 뿌리가 떨면서 뒤틀렸다.",
+    Kor:"주께서 크게 노하시니, 땅이 꿈틀거리고, 흔들리며, 하늘을 받친 산의 뿌리가 떨면서 뒤틀렸다.",
     Chn:"那时因他发怒，地就摇撼战抖； 天的根基也震动摇撼。",
     Eng:"\"The earth trembled and quaked, the foundations of the heavens shook; they trembled because he was angry.",
     Ind:"Lalu bergoyang dan bergoncanglah bumi, dasar-dasar langit gemetar dan bergoyang, oleh karena bernyala-nyala murka-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:9, Page:1,
-    Kor:"그의 코에서 연기가 솟아오르고, 그의 입에서 모든 것을 삼키는 불을 뿜어 내시니, 그에게서 숯덩이들이 불꽃을 튕기면서 달아올랐다.",
+    Kor:"그의 코에서 연기가 솟아오르고, 그의 입에서 모든 것을 삼키는 불을 뿜어 내시니, 그에게서 숯 덩이들이 불꽃을 튕기면서 달아올랐다.",
     Chn:"从他鼻孔冒烟上腾； 从他口中发火焚烧，连炭也着了。",
     Eng:"Smoke rose from his nostrils; consuming fire came from his mouth, burning coals blazed out of it.",
     Ind:"Asap membubung dari hidung-Nya, api menjilat keluar dari mulut-Nya, bara menyala keluar dari pada-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:10, Page:1,
-    Kor:"주님께서 하늘을 가르고 내려오실 때에, 그 발 아래에는 짙은 구름이 깔려 있었다.",
+    Kor:"주께서 하늘을 가르고 내려오실 때에, 그 발 아래에는 짙은 구름이 깔려 있었다.",
     Chn:"他又使天下垂，亲自降临； 有黑云在他脚下。",
     Eng:"He parted the heavens and came down; dark clouds were under his feet.",
     Ind:"Ia menekukkan langit, lalu turun, kekelaman ada di bawah kaki-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:11, Page:1,
-    Kor:"주님께서 그룹을 타고 날아오셨다. 바람 날개를 타고 오셨다.",
+    Kor:"주께서 그룹을 타고 날아오셨다. 바람 날개를 타고 오셨다.",
     Chn:"他坐着基路伯飞行， 在风的翅膀上显现。",
     Eng:"He mounted the cherubim and flew; he soared on the wings of the wind.",
     Ind:"Ia mengendarai kerub, lalu terbang, dan tampak di atas sayap angin."
@@ -75,43 +75,43 @@ BibleDB.add([
     Ind:"Dan Ia membuat kegelapan di sekeliling-Nya menjadi pondok-Nya: air hujan yang gelap, awan yang tebal."
   },
   {Bible:"2Samuel", Chapter:22, Verse:13, Page:1,
-    Kor:"주님 앞에서는 광채가 빛나고, 그 빛난 광채 속에서 이글거리는 숯덩이들이 쏟아졌다.",
+    Kor:"주 앞에서는 광채가 빛나고, 그 빛난 광채 속에서 이글거리는 숯 덩이들이 쏟아졌다.",
     Chn:"因他面前的光辉炭都着了。",
     Eng:"Out of the brightness of his presence bolts of lightning blazed forth.",
     Ind:"Karena sinar kilat di hadapan-Nya bara api menjadi menyala."
   },
   {Bible:"2Samuel", Chapter:22, Verse:14, Page:1,
-    Kor:"주님께서 하늘로부터 천둥소리를 내시며, 가장 높으신 분께서 그 목소리를 높이셨다.",
+    Kor:"주께서 하늘로부터 천둥소리를 내시며, 가장 높으신 분께서 그 목소리를 높이셨다.",
     Chn:"耶和华从天上打雷； 至高者发出声音。",
     Eng:"The LORD thundered from heaven; the voice of the Most High resounded.",
     Ind:"TUHAN mengguntur dari langit, Yang Mahatinggi memperdengarkan suara-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:15, Page:1,
-    Kor:"주님께서 화살을 쏘아서 원수들을 흩으시고, 번개를 번쩍이셔서 그들을 혼란에 빠뜨리셨다.",
+    Kor:"주께서 화살을 쏘아서 원수들을 흩으시고, 번개를 번쩍이셔서 그들을 혼란에 빠뜨리셨다.",
     Chn:"他射出箭来，使仇敌四散， 发出闪电，使他们扰乱。",
     Eng:"He shot arrows and scattered the enemies, bolts of lightning and routed them.",
     Ind:"Dilepaskan-Nya panah-panah, sehingga diserakkan-Nya mereka, yakni kilat-kilat, sehingga dikacaukan-Nya mereka."
   },
   {Bible:"2Samuel", Chapter:22, Verse:16, Page:1,
-    Kor:"주님께서 꾸짖으실 때에, 바다의 밑바닥이 모조리 드러나고, 주님께서 진노하셔서 콧김을 내뿜으실 때에, 땅의 기초도 모두 드러났다.",
+    Kor:"주께서 꾸짖으실 때에, 바다의 밑바닥이 모조리 드러나고, 주께서 진노하셔서 콧김을 내뿜으실 때에, 땅의 기초도 모두 드러났다.",
     Chn:"耶和华的斥责一发，鼻孔的气一出， 海底就出现，大地的根基也显露。",
     Eng:"The valleys of the sea were exposed and the foundations of the earth laid bare at the rebuke of the LORD, at the blast of breath from his nostrils.",
     Ind:"Lalu kelihatanlah dasar-dasar laut, alas-alas dunia tersingkap karena hardikan TUHAN karena hembusan nafas dari hidung-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:17, Page:1,
-    Kor:"주님께서 높은 곳에서 손을 내밀어, 나를 움켜 잡아 주시고, 깊은 물에서 나를 건져 주셨다.",
+    Kor:"주께서 높은 곳에서 손을 내밀어, 나를 움켜 잡아 주시고, 깊은 물에서 나를 건져 주셨다.",
     Chn:"他从高天伸手抓住我， 把我从大水中拉上来。",
     Eng:"\"He reached down from on high and took hold of me; he drew me out of deep waters.",
     Ind:"Ia menjangkau dari tempat tinggi, mengambil aku, menarik aku dari banjir."
   },
   {Bible:"2Samuel", Chapter:22, Verse:18, Page:1,
-    Kor:"주님께서 원수들에게서, 나보다 더 강한 원수들에게서, 나를 살려 주시고, 나를 미워하는 자들에게서, 나를 살려 주셨다.",
+    Kor:"주께서 원수들에게서, 나보다 더 강한 원수들에게서, 나를 살려 주시고, 나를 미워하는 자들에게서, 나를 살려 주셨다.",
     Chn:"他救我脱离我的劲敌和那些恨我的人， 因为他们比我强盛。",
     Eng:"He rescued me from my powerful enemy, from my foes, who were too strong for me.",
     Ind:"Ia melepaskan aku dari musuhku yang gagah, dari pada orang-orang yang membenci aku, karena mereka terlalu kuat bagiku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:19, Page:1,
-    Kor:"내가 재난을 당할 때에 원수들이 나에게 덤벼들었으나, 주님께서는 오히려 내가 의지할 분이 되어 주셨다.",
+    Kor:"내가 재난을 당할 때에, 원수들이 나에게 덤벼들었으나, 주께서는 오히려 내가 의지할 분이 되어 주셨다.",
     Chn:"我遭遇灾难的日子，他们来攻击我； 但耶和华是我的倚靠。",
     Eng:"They confronted me in the day of my disaster, but the LORD was my support.",
     Ind:"Mereka menghadang aku pada hari sialku, tetapi TUHAN adalah sandaran bagiku;"
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Ia membawa aku keluar ke tempat lapang, Ia menyelamatkan aku, karena Ia berkenan kepadaku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:21, Page:1,
-    Kor:"내가 의롭게 산다고 하여, 주님께서 나에게 상을 내려 주시고, 나의 손이 깨끗하다고 하여, 주님께서 나에게 보상해 주셨다.",
+    Kor:"내가 의롭게 산다고 하여, 주께서 나에게 상을 내려 주시고, 나의 손이 깨끗하다고 하여, 주께서 나에게 보상해 주셨다.",
     Chn:"耶和华按着我的公义报答我， 按着我手中的清洁赏赐我。",
     Eng:"\"The LORD has dealt with me according to my righteousness; according to the cleanness of my hands he has rewarded me.",
     Ind:"TUHAN memperlakukan aku sesuai dengan kebenaranku; Ia membalas kepadaku sesuai dengan kesucian tanganku,"
   },
   {Bible:"2Samuel", Chapter:22, Verse:22, Page:1,
-    Kor:"진실로 나는, 주님께서 가라고 하시는 그 길에서 벗어나지 아니하고, 무슨 악한 일을 하여서, 나의 하나님으로부터 떠나지도 아니하였다.",
+    Kor:"진실로 나는, 주께서 가라고 하시는 그 길에서 벗어나지 아니하고, 무슨 악한 일을 하여서, 나의 하나님으로부터 떠나지도 아니하였다.",
     Chn:"因为我遵守了耶和华的道， 未曾作恶离开我的　神。",
     Eng:"For I have kept the ways of the LORD; I have not done evil by turning from my God.",
     Ind:"sebab aku tetap mengikuti jalan TUHAN dan tidak menjauhkan diri dari Allahku sebagai orang fasik."
   },
   {Bible:"2Samuel", Chapter:22, Verse:23, Page:1,
-    Kor:"주님의 모든 법도를 내 앞에 두고 지켰으며, 주님의 모든 법규를 내가 버리지 아니하였다.",
+    Kor:"주의 모든 법도를 내 앞에 두고 지켰으며, 주의 모든 법규를 내가 버리지 아니하였다.",
     Chn:"他的一切典章常在我面前； 他的律例，我也未曾离弃。",
     Eng:"All his laws are before me; I have not turned away from his decrees.",
     Ind:"Sebab segala hukum-Nya kuperhatikan, dan dari ketetapan-Nya aku tidak menyimpang;"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"aku berlaku tidak bercela kepada-Nya dan menjaga diri terhadap kesalahan."
   },
   {Bible:"2Samuel", Chapter:22, Verse:25, Page:1,
-    Kor:"그러므로 주님께서는 내가 의롭게 산다고 하여, 나에게 상을 주시며, 주님의 눈 앞에서 깨끗하게 보인다고 하여, 나에게 상을 주셨다.",
+    Kor:"그러므로 주께서는 내가 의롭게 산다고 하여, 나에게 상을 주시며, 주의 눈 앞에서 깨끗하게 보인다고 하여, 나에게 상을 주셨다.",
     Chn:"所以耶和华按我的公义， 按我在他眼前的清洁赏赐我。",
     Eng:"The LORD has rewarded me according to my righteousness, according to my cleanness in his sight.",
     Ind:"Karena itu TUHAN membalas kepadaku sesuai dengan kebenaranku, sesuai dengan kesucianku di depan mata-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:26, Page:1,
-    Kor:"주님, 주님께서는, 신실한 사람에게는 주님의 신실하심으로 대하시고, 흠 없는 사람에게는 주님의 흠 없으심을 보이시며,",
+    Kor:"주님, 주께서는, 신실한 사람에게는 주님의 신실하심으로 대하시고, 흠 없는 사람에게는 주님의 흠 없으심을 보이시며,",
     Chn:"慈爱的人，你以慈爱待他； 完全的人，你以完全待他；",
     Eng:"\"To the faithful you show yourself faithful, to the blameless you show yourself blameless,",
     Ind:"Terhadap orang yang setia Engkau berlaku setia, terhadap orang yang tidak bercela Engkau berlaku tidak bercela,"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"terhadap orang yang suci Engkau berlaku suci, tetapi terhadap orang yang bengkok Engkau berlaku belat-belit."
   },
   {Bible:"2Samuel", Chapter:22, Verse:28, Page:1,
-    Kor:"주님께서는 불쌍한 백성은 구하여 주시고, 교만한 사람은 낮추십니다.",
+    Kor:"주께서는 불쌍한 백성은 구하여 주시고, 교만한 사람은 낮추십니다.",
     Chn:"困苦的百姓，你必拯救； 但你的眼目察看高傲的人，使他降卑。",
     Eng:"You save the humble, but your eyes are on the haughty to bring them low.",
     Ind:"Bangsa yang tertindas Engkau selamatkan, tetapi mata-Mu melawan orang-orang yang tinggi hati, supaya mereka Kaurendahkan."
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Karena Engkaulah pelitaku, ya TUHAN, dan TUHAN menyinari kegelapanku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:30, Page:1,
-    Kor:"참으로 주님께서 나와 함께 계셔서 도와주시면, 나는 날쌔게 내달려서, 적군도 뒤쫓을 수 있으며, 높은 성벽이라도 뛰어넘을 수 있습니다.",
+    Kor:"참으로, 주께서 나와 함께 계셔서 도와주시면, 나는 날쌔게 내달려서, 적군도 뒤쫓을 수 있으며, 높은 성벽이라도 뛰어넘을 수 있습니다.",
     Chn:"我借着你冲入敌军， 借着我的　神跳过墙垣。",
     Eng:"With your help I can advance against a troop; with my God I can scale a wall.",
     Ind:"Karena dengan Engkau aku berani menghadapi gerombolan, dengan Allahku aku berani melompati tembok."
   },
   {Bible:"2Samuel", Chapter:22, Verse:31, Page:1,
-    Kor:"하나님께서 하시는 일은 완전하며, 주님께서 하시는 말씀은 신실하다. 주님께로 피하여 오는 사람에게 방패가 되어 주신다.",
+    Kor:"하나님께서 하시는 일은 완전하며, 주께서 하시는 말씀은 신실하다. 주께로 피하여 오는 사람에게 방패가 되어 주신다.",
     Chn:"至于　神，他的道是完全的； 耶和华的话是炼净的。 凡投靠他的，他便作他们的盾牌。",
     Eng:"\"As for God, his way is perfect; the word of the LORD is flawless. He is a shield for all who take refuge in him.",
     Ind:"Adapun Allah, jalan-Nya sempurna; sabda TUHAN itu murni; Dia menjadi perisai bagi semua orang yang berlindung pada-Nya."
   },
   {Bible:"2Samuel", Chapter:22, Verse:32, Page:1,
-    Kor:"주님 밖에 그 어느 누가 하나님이며, 우리의 하나님 밖에 그 어느 누가 구원의 반석인가?",
+    Kor:"주님 밖에 그 어느 누가 하나님이며, 우리의 하나님 밖에, 그 어느 누가 구원의 반석인가?",
     Chn:"除了耶和华，谁是　神呢？ 除了我们的　神，谁是磐石呢？",
     Eng:"For who is God besides the LORD? And who is the Rock except our God?",
     Ind:"Sebab siapakah Allah selain dari TUHAN, dan siapakah gunung batu selain dari Allah kita?"
@@ -213,13 +213,13 @@ BibleDB.add([
     Ind:"yang mengajar tanganku berperang, sehingga lenganku dapat melengkungkan busur tembaga."
   },
   {Bible:"2Samuel", Chapter:22, Verse:36, Page:1,
-    Kor:"주님, 주님께서 구원의 방패로 나를 막아 주시며, 주님께서 안전하게 지켜 주셔서, 나의 담력을 키워 주셨습니다.",
+    Kor:"주님, 주께서 구원의 방패로 나를 막아 주시며, 주께서 안전하게 지켜 주셔서, 나의 담력을 키워 주셨습니다.",
     Chn:"你把你的救恩给我作盾牌； 你的温和使我为大。",
     Eng:"You give me your shield of victory; you stoop down to make me great.",
     Ind:"Juga Kauberikan kepadaku perisai keselamatan-Mu, dan kebaikan-Mu telah membuat aku besar."
   },
   {Bible:"2Samuel", Chapter:22, Verse:37, Page:1,
-    Kor:"내가 발걸음을 당당하게 내딛도록 주님께서 힘을 주시고, 발목이 떨려서 잘못 디디는 일이 없게 하셨습니다.",
+    Kor:"내가 발걸음을 당당하게 내딛도록 주께서 힘을 주시고, 발목이 떨려서 잘못 디디는 일이 없게 하셨습니다.",
     Chn:"你使我脚下的地步宽阔； 我的脚未曾滑跌。",
     Eng:"You broaden the path beneath me, so that my ankles do not turn.",
     Ind:"Kauberikan tempat lapang untuk langkahku, dan mata kakiku tidak goyah."
@@ -237,13 +237,13 @@ BibleDB.add([
     Ind:"aku menghabiskan dan meremukkan mereka, sehingga mereka tidak bangkit lagi, dan mereka rebah di bawah kakiku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:40, Page:1,
-    Kor:"주님께서 나에게 싸우러 나갈 용기를 북돋우어 주시고, 나를 치려고 일어선 자들을 나의 발 아래에서 무릎 꿇게 하셨습니다.",
+    Kor:"주께서 나에게 싸우러 나갈 용기를 북돋우어 주시고, 나를 치려고 일어선 자들을 나의 발 아래에서 무릎 꿇게 하셨습니다.",
     Chn:"因为你曾以力量束我的腰，使我能争战； 你也使那起来攻击我的都服在我以下。",
     Eng:"You armed me with strength for battle; you made my adversaries bow at my feet.",
     Ind:"Engkau telah mengikat pinggangku dengan keperkasaan untuk berperang, Engkau tundukkan ke bawah kuasaku orang yang bangkit melawan aku."
   },
   {Bible:"2Samuel", Chapter:22, Verse:41, Page:1,
-    Kor:"주님께서는 나의 원수들을 내 앞에서 도망가게 하시고, 나를 미워하는 자들을 내가 진멸하게 하셨습니다.",
+    Kor:"주께서는 나의 원수들을 내 앞에서 도망가게 하시고, 나를 미워하는 자들을 내가 진멸하게 하셨습니다.",
     Chn:"你又使我的仇敌在我面前转背逃跑， 叫我能以剪除那恨我的人。",
     Eng:"You made my enemies turn their backs in flight, and I destroyed my foes.",
     Ind:"Kaubuat musuhku lari dari padaku, orang-orang yang membenci aku, mereka kubinasakan."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Aku menggiling mereka halus-halus seperti debu tanah, aku menumbuk mereka dan menginjak-injak mereka seperti lumpur di jalan."
   },
   {Bible:"2Samuel", Chapter:22, Verse:44, Page:1,
-    Kor:"주님께서는 반역하는 백성에게서 나를 구하여 주시고, 나를 지켜 주셔서 뭇 민족을 다스리게 하시니, 내가 모르는 백성들까지 나를 섬깁니다.",
+    Kor:"주께서는 반역하는 백성에게서 나를 구하여 주시고, 나를 지켜 주셔서 뭇 민족을 다스리게 하시니, 내가 모르는 백성들까지 나를 섬깁니다.",
     Chn:"你救我脱离我百姓的争竞， 保护我作列国的元首； 我素不认识的民必事奉我。",
     Eng:"\"You have delivered me from the attacks of my people; you have preserved me as the head of nations. People I did not know are subject to me,",
     Ind:"Dan Engkau meluputkan aku dari perbantahan bangsaku; Engkau memelihara aku sebagai kepala atas bangsa-bangsa; bangsa yang tidak kukenal menjadi hambaku;"
@@ -297,7 +297,7 @@ BibleDB.add([
     Ind:"dan yang telah membebaskan aku dari pada musuhku. Dan Engkau telah meninggikan aku mengatasi mereka yang bangkit melawan aku; Engkau telah melepaskan aku dari para penindas."
   },
   {Bible:"2Samuel", Chapter:22, Verse:50, Page:1,
-    Kor:"그러므로 주님, 뭇 백성이 보는 앞에서 내가 주님께 감사를 드리며, 주님의 이름을 찬양합니다.",
+    Kor:"그러므로 주님, 뭇 백성이 보는 앞에서 내가 주께 감사를 드리며, 주의 이름을 찬양합니다.",
     Chn:"耶和华啊，因此我要在外邦中称谢你， 歌颂你的名。",
     Eng:"Therefore I will praise you, O LORD, among the nations; I will sing praises to your name.",
     Ind:"Sebab itu aku mau menyanyikan syukur bagi-Mu, ya TUHAN, di antara bangsa-bangsa, dan aku mau menyanyikan mazmur bagi nama-Mu."

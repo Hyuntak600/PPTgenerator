@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",20,9);
 BibleDB.add([
   {Bible:"Joshua", Chapter:20, Verse:1, Page:1,
-    Kor:"<도피성 제도> 주님께서 여호수아에게 말씀하셨다.",
+    Kor:"주께서 여호수아에게 말씀하셨다.",
     Chn:"耶和华晓谕约书亚说：",
     Eng:"Then the LORD said to Joshua:",
     Ind:"Berfirmanlah TUHAN kepada Yosua, demikian:"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Apabila penuntut tebusan darah itu mengejar dia, pembunuh itu tidak akan diserahkan mereka ke dalam tangannya, sebab ia telah membunuh sesamanya manusia dengan tidak ada niat lebih dahulu, dan dengan tidak menaruh benci kepadanya lebih dahulu."
   },
   {Bible:"Joshua", Chapter:20, Verse:6, Page:1,
-    Kor:"그 살인자는 그 성읍에 머물러 살다가, 회중 앞에 서서 재판을 받은 다음, 그 당시의 대제사장이 죽은 뒤에야 자기의 성읍 곧 자기가 도망 나왔던 성읍에 있는 자기의 집으로 돌아갈 수 있다.'\"",
+    Kor:"그 살인자는 그 성읍에 머물러 살다가, 회중 앞에 서서 재판을 받은 다음, 그 당시의 대제사장이 죽은 뒤에야 자기의 성읍, 곧 자기가 도망 나왔던 성읍에 있는 자기의 집으로 돌아갈 수 있다.",
     Chn:"他要住在那城里，站在会众面前听审判，等到那时的大祭司死了，杀人的才可以回到本城本家，就是他所逃出来的那城。」",
     Eng:"He is to stay in that city until he has stood trial before the assembly and until the death of the high priest who is serving at that time. Then he may go back to his own home in the town from which he fled.\"",
     Ind:"Ia harus tetap diam di kota itu sampai ia dihadapkan kepada rapat jemaah untuk diadili, sampai imam besar yang ada pada waktu itu mati. Maka barulah pembunuh itu boleh pulang ke kotanya dan ke rumahnya, ke kota dari mana ia melarikan diri.\""
   },
   {Bible:"Joshua", Chapter:20, Verse:7, Page:1,
-    Kor:"○그래서 그들은 요단 강 서쪽 지역에서는 납달리 산간지방에 있는 갈릴리의 게데스와 에브라임 산간지방의 세겜과 유다 산간지방의 기럇아르바 곧 헤브론을 도피성으로 구별하여 지정하였다.",
+    Kor:"○그래서 그들은 요단 강 서쪽 지역에서는 납달리 산간지방에 있는 갈릴리의 게데스와 에브라임 산간지방의 세겜과 유다 산간지방의 기럇아르바, 곧 헤브론을 도피성으로 구별하여 지정하였다.",
     Chn:"于是，以色列人在拿弗他利山地分定加利利的基低斯；在以法莲山地分定示剑；在犹大山地分定基列·亚巴（基列·亚巴就是希伯 ）；",
     Eng:"So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah.",
     Ind:"Lalu orang Israel mengkhususkan sebagai kota perlindungan: Kedesh di Galilea, di pegunungan Naftali dan Sikhem, di pegunungan Efraim, dan Kiryat-Arba, itulah Hebron, di pegunungan Yehuda."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Dan di seberang sungai Yordan, di sebelah timur Yerikho, mereka menentukan Bezer, di padang gurun, di dataran tinggi, dari suku Ruben; dan Ramot di Gilead dari suku Gad, dan Golan di Basan dari suku Manasye."
   },
   {Bible:"Joshua", Chapter:20, Verse:9, Page:1,
-    Kor:"이 성읍들이, 이스라엘의 모든 자손이나 그들 가운데 살고 있는 외국인 가운데서 누구든지 실수로 사람을 죽였을 때에, 그 곳으로 피하여 회중 앞에 설 때까지, 죽은 사람에 대한 복수를 하려는 사람의 손에 죽지 않도록 하려고, 구별하여 지정한 도피성이다.",
+    Kor:"이 성읍들이, 이스라엘의 모든 자손이나 그들 가운데 살고 있는 외국인 가운데서, 누구든지 실수로 사람을 죽였을 때에, 그 곳으로 피하여 회중 앞에 설 때까지, 죽은 사람에 대한 복수를 하려는 사람의 손에 죽지 않도록 하려고, 구별하여 지정한 도피성이다.",
     Chn:"这都是为以色列众人和在他们中间寄居的外人所分定的城邑，使误杀人的都可以逃到那里，不死在报血仇人的手中，等他站在会众面前听审判。",
     Eng:"Any of the Israelites or any alien living among them who killed someone accidentally could flee to these designated cities and not be killed by the avenger of blood prior to standing trial before the assembly. JOS",
     Ind:"Itulah kota-kota yang ditetapkan bagi semua orang Israel dan bagi pendatang-pendatang yang ada di tengah-tengah mereka, supaya setiap orang yang membunuh seseorang dengan tidak sengaja dapat melarikan diri ke sana dan jangan mati dibunuh oleh tangan penuntut tebusan darah, sebelum ia dihadapkan kepada rapat jemaah."

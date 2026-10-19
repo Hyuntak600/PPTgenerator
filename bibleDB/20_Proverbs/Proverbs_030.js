@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",30,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:30, Verse:1, Page:1,
-    Kor:"<아굴의 잠언> a이것은 야게의 아들 아굴이 말한 잠언이다. b이 사람이 이디엘에게 말하고, 또 이디엘과 우갈에게 말하였다.(a 또는 '이것은 마싸 사람 야게의 아들 아론이 한 말이다'. 마싸를 '잠언', '경고'로 이해하지 않고 지명으로 이해한 것임 b 또는 \"그가 말하였다. '하나님, 저는 피곤합니다. 하나님, 저는 피곤합니다. 제가 어떻게 다시 힘을 되찾을 수 있습니까?'\" 히브리어 20 30:자음 본문을 어떻게 끊어 읽느냐에 따라 번역이 이렇게 달라질 수 있음)",
+    Kor:"이것은 야게의 아들 아굴이 말한 잠언이다. 이 사람이 이디엘에게 말하고, 또 이디엘과 우갈에게 말하였다.",
     Chn:"雅基的儿子亚古珥的言语就是真言。 这人对以铁和乌甲说：",
     Eng:"The sayings of Agur son of Jakeh--an oracle: This man declared to Ithiel, to Ithiel and to Ucal:",
     Ind:"Perkataan Agur bin Yake dari Masa. Tutur kata orang itu: Aku berlelah-lelah, ya Allah, aku berlelah-lelah, sampai habis tenagaku."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Jangan menambahi firman-Nya, supaya engkau tidak ditegur-Nya dan dianggap pendusta."
   },
   {Bible:"Proverbs", Chapter:30, Verse:7, Page:1,
-    Kor:"<헌신의 잠언> 주님께 두 가지 간청을 드리니, 제가 죽기 전에 그것을 이루어 주십시오.",
+    Kor:"주님께 두 가지 간청을 드리니, 제가 죽기 전에 그것을 이루어 주십시오.",
     Chn:"我求你两件事， 在我未死之先，不要不赐给我：",
     Eng:"\"Two things I ask of you, O LORD; do not refuse me before I die:",
     Ind:"Dua hal aku mohon kepada-Mu, jangan itu Kautolak sebelum aku mati, yakni:"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ada keturunan yang giginya adalah pedang, yang gigi geliginya adalah pisau, untuk memakan habis dari bumi orang-orang yang tertindas, orang-orang yang miskin di antara manusia."
   },
   {Bible:"Proverbs", Chapter:30, Verse:15, Page:1,
-    Kor:"거머리에게는 '달라, 달라' 하며 보채는 딸이 둘이 있다. 전혀 배부른 줄 모르는 것이 셋, 만족할 줄 모르는 것 넷이 있으니,",
+    Kor:"거머리에게는 '달라, 달라' 하며 보채는 딸이 둘이 있다. 전혀 배부른 줄 모르는 것이 셋, 만족할 줄 모르는 것이 넷이 있으니,",
     Chn:"蚂蟥有两个女儿， 常说：给呀，给呀！ 有三样不知足的， 连不说「够的」共有四样：",
     Eng:"\"The leech has two daughters. 'Give! Give!' they cry. \"There are three things that are never satisfied, four that never say, 'Enough!':",
     Ind:"Si lintah mempunyai dua anak perempuan: \"Untukku!\" dan \"Untukku!\" Ada tiga hal yang tak akan kenyang, ada empat hal yang tak pernah berkata: \"Cukup!\""
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"cicak yang dapat kautangkap dengan tangan, tetapi yang juga ada di istana-istana raja."
   },
   {Bible:"Proverbs", Chapter:30, Verse:29, Page:1,
-    Kor:"늠름하게 걸어 다니는 것이 셋, 위풍당당하게 걸어 다니는 것 넷이 있으니,",
+    Kor:"늠름하게 걸어 다니는 것이 셋, 위풍당당하게 걸어 다니는 것이 넷 있으니,",
     Chn:"步行威武的有三样， 连行走威武的共有四样：",
     Eng:"\"There are three things that are stately in their stride, four that move with stately bearing:",
     Ind:"Ada tiga binatang yang gagah langkahnya, bahkan, empat hal yang gagah jalannya, yakni:"

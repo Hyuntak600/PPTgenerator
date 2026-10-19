@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",4,43);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:4, Verse:1, Page:1,
-    Kor:"<유다의 자손> 유다의 아들은 베레스와 헤스론과 갈미와 훌과 소발이다.",
+    Kor:"유다의 아들은 베레스와 헤스론과 갈미와 훌과 소발이다.",
     Chn:"犹大的儿子是法勒斯、希斯 、迦米、户珥、朔巴。",
     Eng:"The descendants of Judah: Perez, Hezron, Carmi, Hur and Shobal.",
     Ind:"Anak-anak Yehuda ialah Peres, Hezron, Karmi, Hur dan Syobal."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Reaya, anak Syobal, memperanakkan Yahat, dan Yahat memperanakkan Ahumai dan Lahad. Itulah kaum-kaum orang Zora."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:3, Page:1,
-    Kor:"○에담의 아들은 a이스르엘과 이스마와 잇바스이며, 그들의 누이는 하술렐보니이다.(a 칠십인역과 불가타를 따름. 히, '조상은')",
+    Kor:"○에담의 아들은 이스르엘과 이스마와 잇바스이며, 그들의 누이는 하술렐보니이다.",
     Chn:"以坦之祖的儿子是耶斯列、伊施玛、伊得巴；他们的妹子名叫哈悉勒玻尼。",
     Eng:"These were the sons of Etam: Jezreel, Ishma and Idbash. Their sister was named Hazzelelponi.",
     Ind:"Inilah anak-anak Etam: Yizreel, Isma dan Idbas; nama saudara perempuan mereka ialah Hazelelponi;"
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Kos memperanakkan Anub, Hazobeba dan kaum-kaum Aharhel bin Harum."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:9, Page:1,
-    Kor:"○야베스는 그의 가족들 중에서 가장 존경을 받았는데, 그의 어머니는 고통을 겪으면서 낳은 아들이라고 하여 그의 이름을 b야베스라고 불렀다.(b '고통')",
+    Kor:"○야베스는 그의 형제들보다 존경을 받았는데, 그의 어머니는 고통을 겪으면서 낳은 아들이라고 하여 그의 이름을 야베스라고 불렀다.",
     Chn:"雅比斯比他众弟兄更尊贵，他母亲给他起名叫雅比斯，意思说：我生他甚是痛苦。",
     Eng:"Jabez was more honorable than his brothers. His mother had named him Jabez, saying, \"I gave birth to him in pain.\"",
     Ind:"Yabes lebih dimuliakan dari pada saudara-saudaranya; nama Yabes itu diberi ibunya kepadanya sebab katanya: \"Aku telah melahirkan dia dengan kesakitan.\""
   },
   {Bible:"1Chronicles", Chapter:4, Verse:10, Page:1,
-    Kor:"야베스가 이스라엘 하나님께 \"나에게 복에 복을 더해 주시고, 내 영토를 넓혀 주시고, 주님의 손으로 나를 도우시어 불행을 막아 주시고, 고통을 받지 않게 하여 주십시오\" 하고 간구하였더니, 하나님께서 그가 구한 것을 이루어 주셨다.",
+    Kor:"야베스가 이스라엘 하나님께 \"나에게 복에 복을 더하여 주시고, 나의 영토를 넓혀 주시고, 주의 손으로 나를 도우시어 불행을 막아 주시고, 고통을 받지 않게 하여 주십시오\" 하고 간구하였더니, 하나님께서 그가 구한 것을 이루어 주셨다.",
     Chn:"雅比斯求告以色列的　神说：「甚愿你赐福与我，扩张我的境界，常与我同在，保佑我不遭患难，不受艰苦。」　神就应允他所求的。",
     Eng:"Jabez cried out to the God of Israel, \"Oh, that you would bless me and enlarge my territory! Let your hand be with me, and keep me from harm so that I will be free from pain.\" And God granted his request.",
     Ind:"Yabes berseru kepada Allah Israel, katanya: \"Kiranya Engkau memberkati aku berlimpah-limpah dan memperluas daerahku, dan kiranya tangan-Mu menyertai aku, dan melindungi aku dari pada malapetaka, sehingga kesakitan tidak menimpa aku!\" Dan Allah mengabulkan permintaannya itu."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:11, Page:1,
-    Kor:"<다른 족보> ○수하의 형제 글룹이 므힐을 낳았는데, 그가 에스돈의 아버지이다.",
+    Kor:"○수하의 형제 글룹이 므힐을 낳았는데, 그가 에스돈의 아버지이다.",
     Chn:"书哈的弟兄基绿生米黑，米黑是伊施屯之祖。",
     Eng:"Kelub, Shuhah's brother, was the father of Mehir, who was the father of Eshton.",
     Ind:"Kelub, saudara Suha, memperanakkan Mehir, dialah ayah Eston;"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"dan Eston memperanakkan Bet-Rafa, Paseah dan Tehina, bapa Ir-Nahas. Itulah orang-orang Rekha."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:13, Page:1,
-    Kor:"○그나스의 아들은 옷니엘과 스라야이며, 옷니엘의 아들은 하닷과 c므오노대이다.(c 칠십인역과 불가타를 따름)",
+    Kor:"○그나스의 아들은 옷니엘과 스라야이며, 옷니엘의 아들은 하닷과 므오노대이다.",
     Chn:"基纳斯的儿子是俄陀聂、西莱雅。俄陀聂的儿子是哈塔。",
     Eng:"The sons of Kenaz: Othniel and Seraiah. The sons of Othniel: Hathath and Meonothai.",
     Ind:"Anak-anak Kenas ialah Otniel dan Seraya; dan anak-anak Otniel ialah Hatat dan Meonotai;"
@@ -124,7 +124,7 @@ BibleDB.add([
     Ind:"Anak-anak Simon ialah Amnon, Rina, Benhanan dan Tilon. Anak-anak Yisei ialah Zohet dan Ben-Zohet."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:21, Page:1,
-    Kor:"<셀라의 자손> ○유다의 아들 셀라의 자손은 레가의 아버지 에르와, 마레사의 아버지 라아다와, 벳아스베야에서 고운 베를 짜는 가문과,",
+    Kor:"○유다의 아들 셀라의 자손은 레가의 아버지 에르와, 마레사의 아버지 라아다와, 벳아스베야에서 고운 베를 짜는 가문과,",
     Chn:"犹大的儿子是示拉；示拉的儿子是利迦之祖珥，玛利沙之祖拉大，和属亚实比族织细麻布的各家。",
     Eng:"The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Mareshah and the clans of the linen workers at Beth Ashbea,",
     Ind:"Keturunan Sela, anak Yehuda, ialah Er, bapa Lekha, dan Lada, bapa Maresa, dan kaum-kaum para pengusaha kain lenan halus di Bet-Asybea,"
@@ -142,7 +142,7 @@ BibleDB.add([
     Ind:"Mereka ini adalah tukang-tukang periuk yang diam di Netaim dan Gedera; mereka diam di sana dan bekerja untuk raja."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:24, Page:1,
-    Kor:"<시므온의 자손> ○시므온의 아들은 느무엘과 야민과 야립과 세라와 사울이다.",
+    Kor:"○시므온의 아들은 느무엘과 야민과 야립과 세라와 사울이다.",
     Chn:"西缅的儿子是尼母利、雅悯、雅立、谢拉、扫罗。",
     Eng:"The descendants of Simeon: Nemuel, Jamin, Jarib, Zerah and Shaul;",
     Ind:"Anak-anak Simeon ialah Nemuel, Yamin, Yarib, Zerah dan Saul;"
@@ -196,13 +196,13 @@ BibleDB.add([
     Ind:"Dan desa-desanya ialah Etam, Ain, Rimon, Tokhen dan Asan, lima perkampungan;"
   },
   {Bible:"1Chronicles", Chapter:4, Verse:33, Page:1,
-    Kor:"d바알까지 이르는 여러 성읍의 주위에 마을들이 있었다. 이것이 그들의 거주지로서 모두 족보에 기록되었다.(d 칠십인역에는 '바알랏')",
+    Kor:"바알까지 이르는 여러 성읍의 주위에 마을들이 있었다. 이것이 그들의 거주지로서 모두 족보에 기록되었다.",
     Chn:"还有属城的乡村，直到巴力。这是他们的住处，他们都有家谱。",
     Eng:"and all the villages around these towns as far as Baalath. These were their settlements. And they kept a genealogical record.",
     Ind:"juga segala desanya yang di sekitar perkampungan-perkampungan itu sampai ke Baal. Itulah tempat-tempat kediaman mereka dan mereka mempunyai silsilahnya sendiri."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:34, Page:1,
-    Kor:"○또 메소밥과 야믈렉과 아마쟈의 아들 요사와",
+    Kor:"○또 메소밥과 야믈렉과 아마시야의 아들 요사와",
     Chn:"还有米所巴、雅米勒、亚玛谢的儿子约沙、",
     Eng:"Meshobab, Jamlech, Joshah son of Amaziah,",
     Ind:"Dan Mesobab, Yamlekh, Yosa bin Amazia,"
@@ -244,7 +244,7 @@ BibleDB.add([
     Ind:"Mereka menemui padang rumput yang gemuk dan baik; negeri itu luas, aman dan sentosa; orang-orang yang diam di sana sebelum mereka berasal dari Ham."
   },
   {Bible:"1Chronicles", Chapter:4, Verse:41, Page:1,
-    Kor:"○이 명단에 기록된 사람들이 유다 왕 히스기야 시대에 이리로 와서, 함 족의 천막들과, 거기에 있는 므우님 족을 쳐부수어 그들을 e전멸시키고, 그들 대신 오늘까지 거기에 살고 있는데, 거기에 양을 칠 목장이 있기 때문이다.(e 완전히 파멸시켜 주님께 바쳐야 하는 물건이나 생명. 가지면 안되는 것, 손을 대었다가는 멸망을 받게끔 저주받은 것. 동사는 '전멸시키다' 또는 '전멸시켜 바치다')",
+    Kor:"○이 명단에 기록된 사람들이 유다 왕 히스기야 시대에 이리로 와서, 함 족의 천막들과, 거기에 있는 모우님 족을 쳐부수어 그들을 전멸시키고, 그들 대신 오늘까지 거기에 살고 있는데, 거기에 양을 칠 목장이 있기 때문이다.",
     Chn:"以上录名的人，在犹大王希西家年间，来攻击含族人的帐棚和那里所有的米乌尼人，将他们灭尽，就住在他们的地方，直到今日，因为那里有草场可以牧放羊群。",
     Eng:"The men whose names were listed came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings and also the Meunites who were there and completely destroyed them, as is evident to this day. Then they settled in their place, because there was pasture for their flocks.",
     Ind:"Orang-orang yang namanya tertulis ini datang dalam zaman Hizkia, raja Yehuda, dan memusnahkan kemah-kemah orang Ham dan orang Meunim yang terdapat di sana dan menumpas mereka; demikianlah sampai hari ini. Kemudian mereka menduduki tempat orang-orang itu, sebab di sana ada padang rumput bagi kambing domba mereka."

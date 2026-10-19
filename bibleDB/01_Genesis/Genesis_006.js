@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",6,22);
 BibleDB.add([
   {Bible:"Genesis", Chapter:6, Verse:1, Page:1,
-    Kor:"<인류의 악행> 사람들이 땅 위에 늘어나기 시작하더니, 그들에게서 딸들이 태어났다.",
+    Kor:"사람들이 땅 위에 늘어나기 시작하더니, 그들에게서 딸들이 태어났다.",
     Chn:"当人在世上多起来、又生女儿的时候，",
     Eng:"When men began to increase in number on the earth and daughters were born to them,",
     Ind:"Ketika manusia itu mulai bertambah banyak jumlahnya di muka bumi, dan bagi mereka lahir anak-anak perempuan,"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"maka anak-anak Allah melihat, bahwa anak-anak perempuan manusia itu cantik-cantik, lalu mereka mengambil isteri dari antara perempuan-perempuan itu, siapa saja yang disukai mereka."
   },
   {Bible:"Genesis", Chapter:6, Verse:3, Page:1,
-    Kor:"주님께서 말씀하셨다. \"생명을 주는 나의 영이 사람 속에 영원히 머물지는 않을 것이다. 사람은 살과 피를 지닌 육체요, 그들의 날은 백이십 년이다.\"",
+    Kor:"주께서 말씀하셨다. \"생명을 주는 나의 영이 사람 속에 영원히 머물지는 않을 것이다. 사람은 살과 피를 지닌 육체요, 그들의 날은 백이십 년이다.\"",
     Chn:"耶和华说：「人既属乎血气，我的灵就不永远住在他里面；然而他的日子还可到一百二十年。」",
     Eng:"Then the LORD said, \"My Spirit will not contend with man forever, for he is mortal; his days  will be a hundred and twenty years.\"",
     Ind:"Berfirmanlah TUHAN: \"Roh-Ku tidak akan selama-lamanya tinggal di dalam manusia, karena manusia itu adalah daging, tetapi umurnya akan seratus dua puluh tahun saja.\""
   },
   {Bible:"Genesis", Chapter:6, Verse:4, Page:1,
-    Kor:"그 무렵에, 그 후에도 얼마 동안, 땅 위에는 네피림이라고 하는 거인족이 있었다. 그들은 하나님의 아들들과 사람의 딸들 사이에서 태어난 자식들이었다. 그들은 옛날에 있던 용사들로서 유명한 사람들이었다.",
+    Kor:"그 무렵에 땅 위에는 네피림이라고 하는 사람들이 있었고, 하나님의 아들들이 사람의 딸들에게로 와서 자식들을 낳으니, 그들은 옛날에 있던 용사들로서 유명한 사람들이다.",
     Chn:"那时候有伟人在地上，后来　神的儿子们和人的女子们交合生子；那就是上古英武有名的人。",
     Eng:"The Nephilim were on the earth in those days--and also afterward--when the sons of God went  to the daughters of men and had children by them. They were the heroes of old, men of renown.",
     Ind:"Pada waktu itu orang-orang raksasa ada di bumi, dan juga pada waktu sesudahnya, ketika anak-anak Allah menghampiri anak-anak perempuan manusia, dan perempuan-perempuan itu melahirkan anak bagi mereka; inilah orang-orang yang gagah perkasa di zaman purbakala, orang-orang yang kenamaan."
   },
   {Bible:"Genesis", Chapter:6, Verse:5, Page:1,
-    Kor:"○주님께서는, 사람의 죄악이 세상에 가득 차고, 마음에 생각하는 모든 계획이 언제나 악한 것뿐임을 보시고서,",
+    Kor:"○주께서는, 사람의 죄악이 세상에 가득 차고, 마음에 생각하는 모든 계획이 언제나 악한 것뿐임을 보시고서,",
     Chn:"耶和华见人在地上罪恶很大，终日所思想的尽都是恶，",
     Eng:"The LORD saw how great man's wickedness on the earth had become, and that every inclination  of the thoughts of his heart was only evil all the time.",
     Ind:"Ketika dilihat TUHAN, bahwa kejahatan manusia besar di bumi dan bahwa segala kecenderungan hatinya selalu membuahkan kejahatan semata-mata,"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"maka menyesallah TUHAN, bahwa Ia telah menjadikan manusia di bumi, dan hal itu memilukan hati-Nya."
   },
   {Bible:"Genesis", Chapter:6, Verse:7, Page:1,
-    Kor:"주님께서는 탄식하셨다. \"내가 창조한 것이지만, 사람을 이 땅 위에서 쓸어 버리겠다. 사람뿐 아니라, 짐승과 땅 위를 기어다니는 것과 공중의 새까지 그렇게 하겠다. 그것들을 만든 것이 후회되는구나.\"",
+    Kor:"주께서는 \"내가 창조한 것이지만, 사람을 이 땅 위에서 쓸어 버리겠다. 사람뿐 아니라, 짐승과 땅 위를 기어다니는 것과 공중의 새까지 그렇게 하겠다. 그것들을 만든 것이 후회되는구나\" 하고 탄식하셨다.",
     Chn:"耶和华说：「我要将所造的人和走兽，并昆虫，以及空中的飞鸟，都从地上除灭，因为我造他们后悔了。」",
     Eng:"So the LORD said, \"I will wipe mankind, whom I have created, from the face of the earth--men  and animals, and creatures that move along the ground, and birds of the air--for I am grieved  that I have made them.\"",
     Ind:"Berfirmanlah TUHAN: \"Aku akan menghapuskan manusia yang telah Kuciptakan itu dari muka bumi, baik manusia maupun hewan dan binatang-binatang melata dan burung-burung di udara, sebab Aku menyesal, bahwa Aku telah menjadikan mereka.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tetapi Nuh mendapat kasih karunia di mata TUHAN."
   },
   {Bible:"Genesis", Chapter:6, Verse:9, Page:1,
-    Kor:"<노아> ○노아의 역사는 이러하다. 노아는 그 당대에 의롭고 흠이 없는 사람이었다. 노아는 하나님과 동행하는 사람이었다.",
+    Kor:"○노아의 역사는 이러하다. 노아는 그 당대에 의롭고 흠이 없는 사람이었다. 노아는 하나님과 동행하는 사람이었다.",
     Chn:"挪亚的后代记在下面。挪亚是个义人，在当时的世代是个完全人。挪亚与　神同行。",
     Eng:"This is the account of Noah. Noah was a righteous man, blameless among the people of his  time, and he walked with God.",
     Ind:"Inilah riwayat Nuh: Nuh adalah seorang yang benar dan tidak bercela di antara orang-orang sezamannya; dan Nuh itu hidup bergaul dengan Allah."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Allah menilik bumi itu dan sungguhlah rusak benar, sebab semua manusia menjalankan hidup yang rusak di bumi."
   },
   {Bible:"Genesis", Chapter:6, Verse:13, Page:1,
-    Kor:"하나님이 노아에게 말씀하셨다. \"땅은 사람들 때문에 무법천지가 되었고, 그 끝날이 이르렀으니, 내가 반드시 사람과 땅을 함께 멸하겠다.",
+    Kor:"하나님이 노아에게 말씀하셨다. \"땅은 사람들 때문에 무법천지가 되었고, 그 끝날이 이르렀으니, 내가 반드시, 사람과 땅을 함께 멸하겠다.",
     Chn:"神就对挪亚说：「凡有血气的人，他的尽头已经来到我面前；因为地上满了他们的强暴，我要把他们和地一并毁灭。",
     Eng:"So God said to Noah, \"I am going to put an end to all people, for the earth is filled with  violence because of them. I am surely going to destroy both them and the earth.",
     Ind:"Berfirmanlah Allah kepada Nuh: \"Aku telah memutuskan untuk mengakhiri hidup segala makhluk, sebab bumi telah penuh dengan kekerasan oleh mereka, jadi Aku akan memusnahkan mereka bersama-sama dengan bumi."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Beginilah engkau harus membuat bahtera itu: tiga ratus hasta panjangnya, lima puluh hasta lebarnya dan tiga puluh hasta tingginya."
   },
   {Bible:"Genesis", Chapter:6, Verse:16, Page:1,
-    Kor:"그 방주에는 a지붕을 만들되, 한 자 치켜올려서 덮고, 방주의 옆쪽에는 출입문을 내고, 위층과 가운데층과 아래층으로 나누어서 세 층으로 만들어라.(a 또는 '창')",
+    Kor:"그 방주에는 지붕을 만들되, 한 자 치켜올려서 덮고, 방주의 옆쪽에는 출입문을 내고, 위층과 가운데층과 아래층으로 나누어서 세 층으로 만들어라.",
     Chn:"方舟上边要留透光处，高一肘。方舟的门要开在旁边。方舟要分上、中、下三层。",
     Eng:"Make a roof for it and finish the ark to within 18 inches of the top. Put a door in the side  of the ark and make lower, middle and upper decks.",
     Ind:"Buatlah atap pada bahtera itu dan selesaikanlah bahtera itu sampai sehasta dari atas, dan pasanglah pintunya pada lambungnya; buatlah bahtera itu bertingkat bawah, tengah dan atas."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Dari segala jenis burung dan dari segala jenis hewan, dari segala jenis binatang melata di muka bumi, dari semuanya itu harus datang satu pasang kepadamu, supaya terpelihara hidupnya."
   },
   {Bible:"Genesis", Chapter:6, Verse:21, Page:1,
-    Kor:"그리고 너는 먹을 수 있는 모든 먹거리를 가져다가 쌓아 두어라. 이것은, 너와 함께 있는 사람들과 짐승들의 먹거리가 될 것이다.\"",
+    Kor:"그리고 너는 먹을 수 있는 모든 먹을거리를 가져다가 쌓아 두어라. 이것은, 너와 함께 있는 사람들과 짐승들의 먹을거리가 될 것이다.\"",
     Chn:"你要拿各样食物积蓄起来，好作你和它们的食物。」",
     Eng:"You are to take every kind of food that is to be eaten and store it away as food for you and  for them.\"",
     Ind:"Dan engkau, bawalah bagimu segala apa yang dapat dimakan; kumpulkanlah itu padamu untuk menjadi makanan bagimu dan bagi mereka.\""

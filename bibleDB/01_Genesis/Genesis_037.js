@@ -3,31 +3,31 @@
 BibleDB.ref("Genesis",37,36);
 BibleDB.add([
   {Bible:"Genesis", Chapter:37, Verse:1, Page:1,
-    Kor:"<요셉과 형제들> 야곱은 자기 아버지가 몸붙여 살던 땅 곧 가나안 땅에서 살았다.",
+    Kor:"야곱은 자기 아버지가 몸붙여 살던 땅 곧 가나안 땅에서 살았다.",
     Chn:"雅各住在迦南地，就是他父亲寄居的地。",
     Eng:"Jacob lived in the land where his father had stayed, the land of Canaan.",
     Ind:"Adapun Yakub, ia diam di negeri penumpangan ayahnya, yakni di tanah Kanaan."
   },
   {Bible:"Genesis", Chapter:37, Verse:2, Page:1,
-    Kor:"야곱의 역사는 이러하다. ○열일곱 살 된 소년 요셉이 아버지의 첩들인 빌하와 실바가 낳은 형들과 함께 양을 치는데, 요셉은 형들의 허물을 아버지에게 일러바치곤 하였다.",
+    Kor:"야곱의 역사는 이러하다. ○열일곱 살 된 소년 요셉이, 아버지의 첩들인 빌하와 실바가 낳은 형들과 함께 양을 치는데, 요셉은 형들의 허물을 아버지에게 일러바치곤 하였다.",
     Chn:"雅各的记略如下。 约瑟十七岁与他哥哥们一同牧羊。他是个童子，与他父亲的妾辟拉、悉帕的儿子们常在一处。约瑟将他哥哥们的恶行报给他们的父亲。",
     Eng:"This is the account of Jacob. Joseph, a young man of seventeen, was tending the flocks with  his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, and he brought their  father a bad report about them.",
     Ind:"Inilah riwayat keturunan Yakub. Yusuf, tatkala berumur tujuh belas tahun--jadi masih muda--biasa menggembalakan kambing domba, bersama-sama dengan saudara-saudaranya, anak-anak Bilha dan Zilpa, kedua isteri ayahnya. Dan Yusuf menyampaikan kepada ayahnya kabar tentang kejahatan saudara-saudaranya."
   },
   {Bible:"Genesis", Chapter:37, Verse:3, Page:1,
-    Kor:"이스라엘은 늘그막에 요셉을 얻었으므로, 다른 아들들보다 요셉을 더 사랑하여서, 그에게 a화려한 옷을 지어서 입혔다.(a 또는 '채색 옷')",
+    Kor:"이스라엘은 늘그막에 요셉을 얻었으므로, 다른 아들들보다 요셉을 더 사랑하여서, 그에게 화려한 옷을 지어서 입혔다.",
     Chn:"以色列原来爱约瑟过于爱他的众子，因为约瑟是他年老生的；他给约瑟做了一件彩衣。",
     Eng:"Now Israel loved Joseph more than any of his other sons, because he had been born to him in  his old age; and he made a richly ornamented robe for him.",
     Ind:"Israel lebih mengasihi Yusuf dari semua anaknya yang lain, sebab Yusuf itulah anaknya yang lahir pada masa tuanya; dan ia menyuruh membuat jubah yang maha indah bagi dia."
   },
   {Bible:"Genesis", Chapter:37, Verse:4, Page:1,
-    Kor:"형들은 아버지가 그를 자기들보다 더 사랑하는 것을 보고서 요셉을 미워하며, 그에게 말 한 마디도 다정스럽게 하는 법이 없었다.",
+    Kor:"형들은, 아버지가 그를 자기들보다 더 사랑하는 것을 보고서 요셉을 미워하며, 그에게 말 한 마디도 다정스럽게 하는 법이 없었다.",
     Chn:"约瑟的哥哥们见父亲爱约瑟过于爱他们，就恨约瑟，不与他说和睦的话。",
     Eng:"When his brothers saw that their father loved him more than any of them, they hated him and  could not speak a kind word to him.",
     Ind:"Setelah dilihat oleh saudara-saudaranya, bahwa ayahnya lebih mengasihi Yusuf dari semua saudaranya, maka bencilah mereka itu kepadanya dan tidak mau menyapanya dengan ramah."
   },
   {Bible:"Genesis", Chapter:37, Verse:5, Page:1,
-    Kor:"○한 번은 요셉이 꿈을 꾸고서 그것을 형들에게 말한 일이 있는데, 그 일이 있은 뒤로부터 형들은 그를 더욱더 미워하였다.",
+    Kor:"○한 번은, 요셉이 꿈을 꾸고서, 그것을 형들에게 말한 일이 있는데, 그 일이 있은 뒤로부터, 형들은 그를 더욱더 미워하였다.",
     Chn:"约瑟做了一梦，告诉他哥哥们，他们就越发恨他。",
     Eng:"Joseph had a dream, and when he told it to his brothers, they hated him all the more.",
     Ind:"Pada suatu kali bermimpilah Yusuf, lalu mimpinya itu diceritakannya kepada saudara-saudaranya; sebab itulah mereka lebih benci lagi kepadanya."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Karena katanya kepada mereka: \"Coba dengarkan mimpi yang kumimpikan ini:"
   },
   {Bible:"Genesis", Chapter:37, Verse:7, Page:1,
-    Kor:"우리가 밭에서 곡식단을 묶고 있었어요. 그런데 갑자기 내가 묶은 단이 우뚝 일어서고, 형들의 단이 나의 단을 둘러서서 절을 하였어요.\"",
+    Kor:"우리가 밭에서, 곡식단을 묶고 있었어요. 그런데 갑자기 내가 묶은 단이 우뚝 일어서고, 형들의 단이 나의 단을 둘러서서 절을 하였어요.\"",
     Chn:"我们在田里捆禾稼，我的捆起来站着，你们的捆来围着我的捆下拜。」",
     Eng:"We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood  upright, while your sheaves gathered around mine and bowed down to it.\"",
     Ind:"Tampak kita sedang di ladang mengikat berkas-berkas gandum, lalu bangkitlah berkasku dan tegak berdiri; kemudian datanglah berkas-berkas kamu sekalian mengelilingi dan sujud menyembah kepada berkasku itu.\""
   },
   {Bible:"Genesis", Chapter:37, Verse:8, Page:1,
-    Kor:"형들이 그에게 말하였다. \"네가 우리의 왕이라도 될 성싶으냐? 정말로 네가 우리를 다스릴 참이냐?\" 형들은 그의 꿈과 그가 한 말 때문에 그를 더욱더 미워하였다.",
+    Kor:"형들이 그에게 말하였다. \"네가 우리의왕이라도 될 성싶으냐? 정말로, 네가 우리를 다스릴 참이냐?\" 형들은, 그의 꿈과 그가 한 말 때문에, 그를 더욱더 미워하였다.",
     Chn:"他的哥哥们回答说：「难道你真要作我们的王吗？难道你真要管辖我们吗？」他们就因为他的梦和他的话越发恨他。",
     Eng:"His brothers said to him, \"Do you intend to reign over us? Will you actually rule us?\" And  they hated him all the more because of his dream and what he had said.",
     Ind:"Lalu saudara-saudaranya berkata kepadanya: \"Apakah engkau ingin menjadi raja atas kami? Apakah engkau ingin berkuasa atas kami?\" Jadi makin bencilah mereka kepadanya karena mimpinya dan karena perkataannya itu."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Maka iri hatilah saudara-saudaranya kepadanya, tetapi ayahnya menyimpan hal itu dalam hatinya."
   },
   {Bible:"Genesis", Chapter:37, Verse:12, Page:1,
-    Kor:"<요셉이 이집트로 팔려 가다> ○그의 형들은 아버지의 양 떼를 치려고, 세겜 근처로 갔다.",
+    Kor:"○그의 형들은 아버지의 양 떼를 치려고, 세겜 근처로 갔다.",
     Chn:"约瑟的哥哥们往示剑去放他们父亲的羊。",
     Eng:"Now his brothers had gone to graze their father's flocks near Shechem,",
     Ind:"Pada suatu kali pergilah saudara-saudaranya menggembalakan kambing domba ayahnya dekat Sikhem."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Ketika Ruben mendengar hal ini, ia ingin melepaskan Yusuf dari tangan mereka, sebab itu katanya: \"Janganlah kita bunuh dia!\""
   },
   {Bible:"Genesis", Chapter:37, Verse:22, Page:1,
-    Kor:"피는 흘리지 말자. 여기 들판에 있는 구덩이에 그 아이를 던져 넣기만 하고, 그 아이에게 손을 대지는 말자.\" 르우벤은 요셉을 그들에게서 건져 내서 아버지에게 되돌려 보낼 생각으로 이렇게 말한 것이다.",
+    Kor:"피는 흘리지 말자. 여기 들판에 있는 구덩이에 그 아이를 던져 넣기만 하고, 그 아이에게 손을 대지는 말자.\" 르우벤은 요셉을 그들에게서 건져 내서, 아버지에게 되돌려 보낼 생각으로 이렇게 말한 것이다.",
     Chn:"又说：「不可流他的血，可以把他丢在这野地的坑里，不可下手害他。」吕便的意思是要救他脱离他们的手，把他归还他的父亲。",
     Eng:"\"Don't shed any blood. Throw him into this cistern here in the desert, but don't lay a hand  on him.\" Reuben said this to rescue him from them and take him back to his father.",
     Ind:"Lagi kata Ruben kepada mereka: \"Janganlah tumpahkan darah, lemparkanlah dia ke dalam sumur yang ada di padang gurun ini, tetapi janganlah apa-apakan dia\" --maksudnya hendak melepaskan Yusuf dari tangan mereka dan membawanya kembali kepada ayahnya."
   },
   {Bible:"Genesis", Chapter:37, Verse:23, Page:1,
-    Kor:"요셉이 형들에게로 오자, 그들은 그의 옷 곧 그가 입은 화려한 옷을 벗기고,",
+    Kor:"요셉이 형들에게로 오자, 그들은 그의 옷, 곧 그가 입은 화려한 옷을 벗기고,",
     Chn:"约瑟到了他哥哥们那里，他们就剥了他的外衣，就是他穿的那件彩衣，",
     Eng:"So when Joseph came to his brothers, they stripped him of his robe--the richly ornamented  robe he was wearing--",
     Ind:"Baru saja Yusuf sampai kepada saudara-saudaranya, merekapun menanggalkan jubah Yusuf, jubah maha indah yang dipakainya itu."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Lalu kata Yehuda kepada saudara-saudaranya itu: \"Apakah untungnya kalau kita membunuh adik kita itu dan menyembunyikan darahnya?"
   },
   {Bible:"Genesis", Chapter:37, Verse:27, Page:1,
-    Kor:"자, 우리는 그 아이에게 손을 대지는 말고, 차라리 그 아이를 이스마엘 사람들에게 팔아 넘기자. 아무래도 그 아이는 우리의 형제요, 우리의 피붙이이다.\" 형제들은 유다의 말을 따르기로 하였다.",
+    Kor:"자, 우리는 그 아이에게 손을 대지는 말고, 차라리 그 아이를 이스마엘 사람들에게 팔아 넘기자. 아무래도 그 아이는 우리의 형제요, 우리의 피붙이이다.\"형제들은 유다의 말을 따르기로 하였다.",
     Chn:"我们不如将他卖给以实玛利人，不可下手害他；因为他是我们的兄弟，我们的骨肉。」众弟兄就听从了他。",
     Eng:"Come, let's sell him to the Ishmaelites and not lay our hands on him; after all, he is our  brother, our own flesh and blood.\" His brothers agreed.",
     Ind:"Marilah kita jual dia kepada orang Ismael ini, tetapi janganlah kita apa-apakan dia, karena ia saudara kita, darah daging kita.\" Dan saudara-saudaranya mendengarkan perkataannya itu."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Ketika ada saudagar-saudagar Midian lewat, Yusuf diangkat ke atas dari dalam sumur itu, kemudian dijual kepada orang Ismael itu dengan harga dua puluh syikal perak. Lalu Yusuf dibawa mereka ke Mesir."
   },
   {Bible:"Genesis", Chapter:37, Verse:29, Page:1,
-    Kor:"르우벤이 구덩이로 돌아와 보니, 요셉이 거기에 없었다. 그는 슬픈 나머지 옷을 찢고서,",
+    Kor:"르우벤이 구덩이로 돌아와 보니, 요셉이 거기에 없었다. 그는 슬픈 나머지, 옷을 찢고서,",
     Chn:"吕便回到坑边，见约瑟不在坑里，就撕裂衣服，",
     Eng:"When Reuben returned to the cistern and saw that Joseph was not there, he tore his clothes.",
     Ind:"Ketika Ruben kembali ke sumur itu, ternyata Yusuf tidak ada lagi di dalamnya. Lalu dikoyakkannyalah bajunya,"
@@ -201,19 +201,19 @@ BibleDB.add([
     Ind:"Ketika Yakub memeriksa jubah itu, ia berkata: \"Ini jubah anakku; binatang buas telah memakannya; tentulah Yusuf telah diterkam.\""
   },
   {Bible:"Genesis", Chapter:37, Verse:34, Page:1,
-    Kor:"야곱은 슬픈 나머지 옷을 찢고, 베옷을 걸치고, 아들을 생각하면서, 여러 날을 울었다.",
+    Kor:"야곱은 슬픈 나머지, 옷을 찢고, 베옷을 걸치고, 아들을 생각하면서, 여러 날을 울었다.",
     Chn:"雅各便撕裂衣服，腰间围上麻布，为他儿子悲哀了多日。",
     Eng:"Then Jacob tore his clothes, put on sackcloth and mourned for his son many days.",
     Ind:"Dan Yakub mengoyakkan jubahnya, lalu mengenakan kain kabung pada pinggangnya dan berkabunglah ia berhari-hari lamanya karena anaknya itu."
   },
   {Bible:"Genesis", Chapter:37, Verse:35, Page:1,
-    Kor:"그의 아들딸들이 모두 나서서 그를 위로하였지만, 그는 위로받기를 마다하면서 탄식하였다. \"아니다. 내가 울면서, 나의 아들이 있는 b스올로 내려가겠다.\" 아버지는 잃은 자식을 생각하면서 울었다.(b 또는 '무덤' 또는 '죽음')",
+    Kor:"그의 아들딸들이 모두 나서서 그를 위로하였지만, 그는 위로받기를 마다하면서 탄식하였다. \"아니다. 내가 울면서, 나의 아들이 있는 스올로 내려가겠다.\" 아버지는 잃은 자식을 생각하면서 울었다.",
     Chn:"他的儿女都起来安慰他，他却不肯受安慰，说：「我必悲哀着下阴间，到我儿子那里。」约瑟的父亲就为他哀哭。",
     Eng:"All his sons and daughters came to comfort him, but he refused to be comforted. \"No,\" he  said, \"in mourning will I go down to the grave to my son.\" So his father wept for him.",
     Ind:"Sekalian anaknya laki-laki dan perempuan berusaha menghiburkan dia, tetapi ia menolak dihiburkan, serta katanya: \"Tidak! Aku akan berkabung, sampai aku turun mendapatkan anakku, ke dalam dunia orang mati!\" Demikianlah Yusuf ditangisi oleh ayahnya."
   },
   {Bible:"Genesis", Chapter:37, Verse:36, Page:1,
-    Kor:"그리고 c미디안 사람들은 이집트에서 요셉을 보디발이라는 사람에게 팔았다. 그는 바로의 신하로서, 경호대장으로 있는 사람이었다.(c 사마리아 오경과 칠십인역과 불가타와 시리아어역을 따름. 히, '메단 사람들')",
+    Kor:"그리고 미디안 사람들은 이집트에서 요셉을 보디발이라는 사람에게 팔았다. 그는 바로의 신하로서, 경호대장으로 있는 사람이었다.",
     Chn:"米甸人带约瑟到埃及，把他卖给法老的内臣—护卫长波提乏。",
     Eng:"Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh's officials, the  captain of the guard.",
     Ind:"Adapun Yusuf, ia dijual oleh orang Midian itu ke Mesir, kepada Potifar, seorang pegawai istana Firaun, kepala pengawal raja."

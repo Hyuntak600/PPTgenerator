@@ -3,31 +3,31 @@
 BibleDB.ref("Psalms",105,45);
 BibleDB.add([
   {Bible:"Psalms", Chapter:105, Verse:1, Page:1,
-    Kor:"<주님을 신뢰하여라(대상 16:8-22)> 너희는 주님께 감사하면서, 그의 이름을 불러라. 그가 하신 일을 만민에게 알려라.",
+    Kor:"너희는 주님께 감사하면서, 그의 이름을 불러라. 그가 하신 일을 만민에게 알려라.",
     Chn:"你们要称谢耶和华，求告他的名， 在万民中传扬他的作为！",
     Eng:"Give thanks to the LORD, call on his name; make known among the nations what he has done.",
     Ind:"Bersyukurlah kepada TUHAN, serukanlah nama-Nya, perkenalkanlah perbuatan-Nya di antara bangsa-bangsa!"
   },
   {Bible:"Psalms", Chapter:105, Verse:2, Page:1,
-    Kor:"그에게 노래하면서, 그를 찬양하면서, 그가 이루신 놀라운 일들을 전하여라.",
+    Kor:"그를 노래하면서, 그를 찬양하면서, 그가 이루신 놀라운 일들을 말하여라.",
     Chn:"要向他唱诗歌颂， 谈论他一切奇妙的作为！",
     Eng:"Sing to him, sing praise to him; tell of all his wonderful acts.",
     Ind:"Bernyanyilah bagi-Nya, bermazmurlah bagi-Nya, percakapkanlah segala perbuatan-Nya yang ajaib!"
   },
   {Bible:"Psalms", Chapter:105, Verse:3, Page:1,
-    Kor:"그의 거룩하신 이름을 찬양하여라. 주님을 찾는 이들은 기뻐하여라.",
+    Kor:"그의 거룩하신 이름을 찬양하여라. 주님을 찾는 마음에 기쁨이 있다.",
     Chn:"要以他的圣名夸耀！ 寻求耶和华的人，心中应当欢喜！",
     Eng:"Glory in his holy name; let the hearts of those who seek the LORD rejoice.",
     Ind:"Bermegahlah di dalam nama-Nya yang kudus, biarlah bersukahati orang-orang yang mencari TUHAN!"
   },
   {Bible:"Psalms", Chapter:105, Verse:4, Page:1,
-    Kor:"주님을 찾고, 그의 능력을 힘써 사모하고, 언제나 그의 얼굴을 찾아 예배하여라.",
+    Kor:"주님을 찾고, 그의 능력을 힘써 사모하고, 언제나 그의 얼굴을 찾아 경배하여라.",
     Chn:"要寻求耶和华与他的能力， 时常寻求他的面。",
     Eng:"Look to the LORD and his strength; seek his face always.",
     Ind:"Carilah TUHAN dan kekuatan-Nya, carilah wajah-Nya selalu!"
   },
   {Bible:"Psalms", Chapter:105, Verse:5, Page:1,
-    Kor:"주님께서 이루신 놀라운 일을 기억하여라. 그 이적을 기억하고, 내리신 판단을 생각하여라.",
+    Kor:"그가 이루신 놀라운 일을 기억하여라. 그 이적을 기억하고, 내리신 판단을 기억하여라,",
     Chn:"他仆人亚伯拉罕的后裔， 他所拣选雅各的子孙哪， 你们要记念他奇妙的作为和他的奇事， 并他口中的判语。",
     Eng:"Remember the wonders he has done, his miracles, and the judgments he pronounced,",
     Ind:"Ingatlah perbuatan-perbuatan ajaib yang dilakukan-Nya, mujizat-mujizat-Ny dan penghukuman-penghukuman yang diucapkan-Nya,",
@@ -40,13 +40,13 @@ BibleDB.add([
     Ind:"hai anak cucu Abraham, hamba-Nya, hai anak-anak Yakub, orang-orang pilihan-Nya!"
   },
   {Bible:"Psalms", Chapter:105, Verse:7, Page:1,
-    Kor:"그가 바로 주 우리의 하나님이시다. 그가 온 세상을 다스리신다.",
+    Kor:"그가 바로 주 우리의 하나님이시다. 그의 공의로운 판결이 온 세상에 미친다.",
     Chn:"他是耶和华—我们的　神； 全地都有他的判断。",
     Eng:"He is the LORD our God; his judgments are in all the earth.",
     Ind:"Dialah TUHAN, Allah kita, di seluruh bumi berlaku penghukuman-Nya."
   },
   {Bible:"Psalms", Chapter:105, Verse:8, Page:1,
-    Kor:"그는, 맺으신 언약을 영원히 기억하신다. 그가 허락하신 약속이 자손 수천 대에 이루어지도록 기억하신다.",
+    Kor:"그는, 맺으신 언약을 영원히 기억하신다. 자손 수천 대를 두고 명하신 말씀을 기억하신다.",
     Chn:"他记念他的约，直到永远； 他所吩咐的话，直到千代—",
     Eng:"He remembers his covenant forever, the word he commanded, for a thousand generations,",
     Ind:"Ia ingat untuk selama-lamanya akan perjanjian-Nya, firman yang diperintahkan-Nya kepada seribu angkatan,"
@@ -58,31 +58,31 @@ BibleDB.add([
     Ind:"yang diikat-Nya dengan Abraham, dan akan sumpah-Nya kepada Ishak;"
   },
   {Bible:"Psalms", Chapter:105, Verse:10, Page:1,
-    Kor:"야곱에게 세워 주신 율례요, 이스라엘에게 지켜 주실 영원한 언약이다.",
+    Kor:"야곱에게 세워 주신 율례로서, 이스라엘이 지킬 영원한 언약이다.",
     Chn:"他又将这约向雅各定为律例， 向以色列定为永远的约，",
     Eng:"He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:",
     Ind:"diadakan-Nya hal itu menjadi ketetapan bagi Yakub, menjadi perjanjian kekal bagi Israel,"
   },
   {Bible:"Psalms", Chapter:105, Verse:11, Page:1,
-    Kor:"\"내가 이 가나안 땅을 너희에게 줄 것이다. 이것은 너희가 대대로 물려줄 기업이다.\" 하고 말씀하셨다.",
+    Kor:"그는 \"이 가나안 땅을 내가 너희에게 유산으로 준다\" 하고 말씀하셨다.",
     Chn:"说：我必将迦南地赐给你， 作你产业的分。",
     Eng:"\"To you I will give the land of Canaan as the portion you will inherit.\"",
     Ind:"firman-Nya: \"Kepadamu akan Kuberikan tanah Kanaan, sebagai milik pusaka yang ditentukan bagimu.\""
   },
   {Bible:"Psalms", Chapter:105, Verse:12, Page:1,
-    Kor:"그 때에 a너희의 수효가 극히 적었고, 그 땅에서 나그네로 있었으며,",
+    Kor:"그 때에 너희의 수효가 극히 적었고, 그 땅에서 나그네로 있었으며,",
     Chn:"当时，他们人丁有限，数目稀少， 并且在那地为寄居的。",
     Eng:"When they were but few in number, few indeed, and strangers in it,",
     Ind:"Ketika jumlah mereka tidak seberapa, sedikit saja, dan mereka orang-orang asing di sana,"
   },
   {Bible:"Psalms", Chapter:105, Verse:13, Page:1,
-    Kor:"이 민족에게서 저 민족에게로, 이 나라에서 다른 나라 백성에게로, 떠돌아다녔다.",
+    Kor:"그 때에 너희가 이 민족에게서 저 민족에게로, 이 나라에서 다른 나라 백성에게로, 떠돌아다녔다.",
     Chn:"他们从这邦游到那邦， 从这国行到那国。",
     Eng:"they wandered from nation to nation, from one kingdom to another.",
     Ind:"dan mengembara dari bangsa yang satu ke bangsa yang lain, dari kerajaan yang satu ke suku bangsa yang lain,"
   },
   {Bible:"Psalms", Chapter:105, Verse:14, Page:1,
-    Kor:"그러나 주님께서는, 아무도 a너희를 억누르지 못하게 하셨고, a너희를 두고 왕들에게 경고하시기를, (a 히브리어 사본 가운데 대다수와 시리아어역과 타르굼을 따름.(대상 16:19를 볼 것) 히, '그들')",
+    Kor:"그러나 그 때에 그는, 아무도 너희를 억압하지 못하게 하셨고, 너희를 두고 왕들에게 경고하시기를",
     Chn:"他不容什么人欺负他们， 为他们的缘故责备君王，",
     Eng:"He allowed no one to oppress them; for their sake he rebuked kings:",
     Ind:"Ia tidak membiarkan seorangpun memeras mereka, raja-raja dihukum-Nya oleh karena mereka:"
@@ -94,7 +94,7 @@ BibleDB.add([
     Ind:"\"Jangan mengusik orang-orang yang Kuurapi, dan jangan berbuat jahat kepada nabi-nabi-Ku!\""
   },
   {Bible:"Psalms", Chapter:105, Verse:16, Page:1,
-    Kor:"그 뒤에 주님께서 그 땅에 기근을 불러들이시고, 온갖 먹거리를 끊어 버리셨다.",
+    Kor:"그 뒤에 주께서 그 땅에 기근을 불러들이시고, 온갖 먹을거리를 없애 버리셨다.",
     Chn:"他命饥荒降在那地上， 将所倚靠的粮食全行断绝，",
     Eng:"He called down famine on the land and destroyed all their supplies of food;",
     Ind:"Ketika Ia mendatangkan kelaparan ke atas negeri itu, dan menghancurkan seluruh persediaan makanan,"
@@ -106,25 +106,25 @@ BibleDB.add([
     Ind:"diutus-Nyalah seorang mendahului mereka: Yusuf, yang dijual menjadi budak."
   },
   {Bible:"Psalms", Chapter:105, Verse:18, Page:1,
-    Kor:"사람들은 그 발에 차꼬를 채우고, 그 목에는 쇠칼을 씌웠다.",
+    Kor:"요셉은 그 발에 차꼬를 차고, 그 목에는 쇠칼을 쓰고,",
     Chn:"人用脚镣伤他的脚； 他被铁链捆拘。",
     Eng:"They bruised his feet with shackles, his neck was put in irons,",
     Ind:"Mereka mengimpit kakinya dengan belenggu, lehernya masuk ke dalam besi,"
   },
   {Bible:"Psalms", Chapter:105, Verse:19, Page:1,
-    Kor:"마침내 그의 예언은 이루어졌다. 주님의 말씀은 그의 진실을 증명해 주었다.",
+    Kor:"마침내 그의 예언을 이루었다. 주의 말씀이 그를 단련시켰다.",
     Chn:"耶和华的话试炼他， 直等到他所说的应验了。",
     Eng:"till what he foretold came to pass, till the word of the LORD proved him true.",
     Ind:"sampai saat firman-Nya sudah genap, dan janji TUHAN membenarkannya."
   },
   {Bible:"Psalms", Chapter:105, Verse:20, Page:1,
-    Kor:"왕은 사람을 보내어 그를 석방하였다. 뭇 백성의 통치자가 그를 자유의 몸이 되게 하였고,",
+    Kor:"왕은 사람을 보내서 그를 석방하였다. 뭇 백성의 통치자가 그를 자유의 몸이 되게 하였고,",
     Chn:"王打发人把他解开， 就是治理众民的，把他释放，",
     Eng:"The king sent and released him, the ruler of peoples set him free.",
     Ind:"Raja menyuruh melepaskannya, penguasa bangsa-bangsa membebaskannya."
   },
   {Bible:"Psalms", Chapter:105, Verse:21, Page:1,
-    Kor:"그를 세워서 나라의 살림을 보살피는 재상으로 삼아서, 자기의 모든 소유를 주관하게 하며,",
+    Kor:"그를 세워서, 나라의 살림을 보살피는 재상으로 삼아서, 자기의 모든 소유를 주관하게 하며,",
     Chn:"立他作王家之主， 掌管他一切所有的，",
     Eng:"He made him master of his household, ruler over all he possessed,",
     Ind:"Dijadikannya dia tuan atas istananya, dan kuasa atas segala harta kepunyaannya,"
@@ -142,19 +142,19 @@ BibleDB.add([
     Ind:"Demikianlah Israel datang ke Mesir, dan Yakub tinggal sebagai orang asing di tanah Ham."
   },
   {Bible:"Psalms", Chapter:105, Verse:24, Page:1,
-    Kor:"주님께서 자기의 백성을 크게 불어나게 하셔서 그 대적들보다 강하게 하셨으며,",
+    Kor:"그가 자기의 백성을 크게 불어나게 하셔서 그 대적들보다 강하게 하셨으며,",
     Chn:"耶和华使他的百姓生养众多， 使他们比敌人强盛，",
     Eng:"The LORD made his people very fruitful; he made them too numerous for their foes,",
     Ind:"TUHAN membuat umat-Nya sangat subur, dan menjadikannya lebih kuat dari pada para lawannya;"
   },
   {Bible:"Psalms", Chapter:105, Verse:25, Page:1,
-    Kor:"그들의 마음을 변하게 하셔서 자기의 백성을 미워하게 하시며, 자기의 종들을 교묘하게 속이게 하셨다.",
+    Kor:"그 대적들의 마음을 변하게 하셔서 자기의 백성을 미워하게 하시며, 그 종들을 교묘하게 속이게 하셨다.",
     Chn:"使敌人的心转去恨他的百姓， 并用诡计待他的仆人。",
     Eng:"whose hearts he turned to hate his people, to conspire against his servants.",
     Ind:"diubah-Nya hati mereka untuk membenci umat-Nya, untuk memperdayakan hamba-hamba-Nya."
   },
   {Bible:"Psalms", Chapter:105, Verse:26, Page:1,
-    Kor:"그러므로 그가 종 모세와 택하신 아론을 보내셔서,",
+    Kor:"그러므로 그가 종 모세와 택하신 아론을 보내시니,",
     Chn:"他打发他的仆人摩西 和他所拣选的亚伦，",
     Eng:"He sent Moses his servant, and Aaron, whom he had chosen.",
     Ind:"Diutus-Nya Musa, hamba-Nya, dan Harun yang telah dipilih-Nya;"
@@ -184,7 +184,7 @@ BibleDB.add([
     Ind:"Katak-katak berkeriapan di negeri mereka, bahkan di kamar-kamar raja mereka;"
   },
   {Bible:"Psalms", Chapter:105, Verse:31, Page:1,
-    Kor:"그가 말씀하시니, 파리 떼와 b이가 몰려와서, 그들이 사는 온 땅을 덮쳤다. (b 또는 '모기')",
+    Kor:"그가 말씀하시니, 파리 떼와 이가 몰려와서, 그들이 사는 온 땅을 덮쳤다.",
     Chn:"他说一声，苍蝇就成群而来， 并有虱子进入他们四境。",
     Eng:"He spoke, and there came swarms of flies, and gnats throughout their country.",
     Ind:"Ia berfirman, maka datanglah lalat pikat, dan nyamuk-nyamuk di seluruh daerah mereka;"
@@ -220,13 +220,13 @@ BibleDB.add([
     Ind:"dibunuh-Nya semua anak sulung di negeri mereka, mula segala kegagahan mereka:"
   },
   {Bible:"Psalms", Chapter:105, Verse:37, Page:1,
-    Kor:"그들로 은과 금을 가지고 나오게 하시니, 그 지파 가운데서 비틀거리는 이가 한 사람도 없었다.",
+    Kor:"그들에게서 은과 금을 가지고 나오게 하시니, 그 지파 가운데서 비틀거리는 이가 한 사람도 없었다.",
     Chn:"他领自己的百姓带银子金子出来； 他支派中没有一个软弱的。",
     Eng:"He brought out Israel, laden with silver and gold, and from among their tribes no one faltered.",
     Ind:"Dituntun-Nya mereka keluar membawa perak dan emas, dan di antara suku-suku mereka tidak ada yang tergelincir."
   },
   {Bible:"Psalms", Chapter:105, Verse:38, Page:1,
-    Kor:"이집트 사람은 두려움에 떨고 있었으므로, 그들이 떠날 때 기뻐하였다.",
+    Kor:"이집트 사람은 두려움에 떨고 있었으므로, 그들을 기꺼이 내보냈다.",
     Chn:"他们出来的时候，埃及人便欢喜； 原来埃及人惧怕他们。",
     Eng:"Egypt was glad when they left, because dread of Israel had fallen on them.",
     Ind:"Orang Mesir bersukacita, ketika mereka keluar, sebab orang-orang Mesir itu ditimpa ketakutan terhadap mereka."
@@ -238,7 +238,7 @@ BibleDB.add([
     Ind:"Dibentangkan-Nya awan menjadi tudung, dan api untuk menerangi malam."
   },
   {Bible:"Psalms", Chapter:105, Verse:40, Page:1,
-    Kor:"그들이 먹거리를 찾을 때에, 그가 메추라기를 몰아다 주시며, 하늘 양식으로 배부르게 해주셨다.",
+    Kor:"그들이 먹을거리를 찾을 때에, 그가 메추라기를 몰아다 주시며, 하늘 양식으로 배부르게 해주셨다.",
     Chn:"他们一求，他就使鹌鹑飞来， 并用天上的粮食叫他们饱足。",
     Eng:"They asked, and he brought them quail and satisfied them with the bread of heaven.",
     Ind:"Mereka meminta, maka didatangkan-Nya burung puyuh, dan dengan roti dari langit dikenyangkan-Nya mereka."
@@ -250,13 +250,13 @@ BibleDB.add([
     Ind:"Dibuka-Nya gunung batu, maka terpancarlah air, lalu mengalir di padang-padang kering seperti sungai;"
   },
   {Bible:"Psalms", Chapter:105, Verse:42, Page:1,
-    Kor:"이것은 그가 그의 종 아브라함에게 하신 그 거룩하신 말씀을 기억하셨기 때문이다.",
+    Kor:"그는 그의 종 아브라함에게 하신 그 거룩하신 말씀을 기억하셨다.",
     Chn:"这都因他记念他的圣言 和他的仆人亚伯拉罕。",
     Eng:"For he remembered his holy promise given to his servant Abraham.",
     Ind:"sebab Ia ingat akan firman-Nya yang kudus, akan Abraham, hamba-Nya."
   },
   {Bible:"Psalms", Chapter:105, Verse:43, Page:1,
-    Kor:"그는 그의 백성을 흥겹게 나오게 하시며 그가 뽑으신 백성이 기쁜 노래를 부르며 나오게 하셨다.",
+    Kor:"그의 백성으로 흥겹게 하여 주시며, 그가 뽑으신 백성으로 기쁜 노래를 부르며 나오게 하셨다.",
     Chn:"他带领百姓欢乐而出， 带领选民欢呼前往。",
     Eng:"He brought out his people with rejoicing, his chosen ones with shouts of joy;",
     Ind:"Dituntun-Nya umat-Nya keluar dengan kegirangan dan orang-orang pilihan-Nya dengan sorak-sorai."
@@ -268,7 +268,7 @@ BibleDB.add([
     Ind:"Diberikan-Nya kepada mereka negeri-negeri bangsa-bangsa, sehingga mereka memiliki hasil jerih payah suku-suku bangsa,"
   },
   {Bible:"Psalms", Chapter:105, Verse:45, Page:1,
-    Kor:"이것은 그들에게 그의 율례를 지키고 그의 법을 따르게 하기 위함이었다. c할렐루야. (c 또는 '주님을 찬송하여라')",
+    Kor:"이 모든 은혜는, 그들로 그의 율례를 지키며 그의 법을 실천하게 하려고 베푸셨다. 할렐루야.",
     Chn:"好使他们遵他的律例， 守他的律法。 你们要赞美耶和华！",
     Eng:"that they might keep his precepts and observe his laws. Praise the LORD.",
     Ind:"agar supaya mereka tetap mengikuti ketetapan-Nya, dan memegang segala pengajaran-Nya. Haleluya!"

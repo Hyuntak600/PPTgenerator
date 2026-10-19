@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"juga orang menjadi takut tinggi, dan ketakutan ada di jalan, pohon badam berbunga, belalang menyeret dirinya dengan susah payah dan nafsu makan tak dapat dibangkitkan lagi--karena manusia pergi ke rumahnya yang kekal dan peratap-peratap berkeliaran di jalan,"
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:6, Page:1,
-    Kor:"은사슬이 a끊어지고, 금그릇이 부서지고, 샘에서 물 뜨는 물동이가 깨지고, 우물에서 도르래가 부숴지기 전에, 네 창조주를 기억하여라. (a 시리아어역과 불가타를 따름. 히, '풀리고')",
+    Kor:"은사슬이 끊어지고, 금그릇이 부서지고, 샘에서 물 뜨는 물동이가 깨지고, 우물에서 도르래가 부숴지기 전에, 네 창조주를 기억하여라.",
     Chn:"银链折断，金罐破裂，瓶子在泉旁损坏，水轮在井口破烂，",
     Eng:"Remember him--before the silver cord is severed, or the golden bowl is broken; before the pitcher is shattered at the spring, or the wheel broken at the well,",
     Ind:"sebelum rantai perak diputuskan dan pelita emas dipecahkan, sebelum tempayan dihancurkan dekat mata air dan roda timba dirusakkan di atas sumur,"
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"dan debu kembali menjadi tanah seperti semula dan roh kembali kepada Allah yang mengaruniakannya."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:8, Page:1,
-    Kor:"b전도자가 말한다. 헛되고 헛되다. 모든 것이 헛되다. (b 히, '코헬렛'. '설교자' 또는 '교사' 또는 '총회의 인도자')",
+    Kor:"전도자가 말한다. 헛되고 헛되다. 모든 것이 헛되다.",
     Chn:"传道者说：「虚空的虚空，凡事都是虚空。」",
     Eng:"\"Meaningless! Meaningless!\" says the Teacher. \"Everything is meaningless!\"",
     Ind:"Kesia-siaan atas kesia-siaan, kata Pengkhotbah, segala sesuatu adalah sia-sia."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:9, Page:1,
-    Kor:"<결론> ○전도자는 지혜로운 사람이기에, 백성에게 자기가 아는 지식을 가르쳤다. 그는 많은 잠언을 찾아내서, 연구하고 정리하였다.",
+    Kor:"○전도자는 지혜로운 사람이기에, 백성에게 자기가 아는 지식을 가르쳤다. 그는 많은 잠언을 찾아내서, 연구하고 정리하였다.",
     Chn:"再者，传道者因有智慧，仍将知识教训众人；又默想，又考查，又陈说许多箴言。",
     Eng:"Not only was the Teacher wise, but also he imparted knowledge to the people. He pondered and searched out and set in order many proverbs.",
     Ind:"Selain Pengkhotbah berhikmat, ia mengajarkan juga kepada umat itu pengetahuan. Ia menimbang, menguji dan menyusun banyak amsal."
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Pengkhotbah berusaha mendapat kata-kata yang menyenangkan dan menulis kata-kata kebenaran secara jujur."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:11, Page:1,
-    Kor:"○지혜로운 사람의 말은 찌르는 채찍 같고, 수집된 잠언은 잘 박힌 못과 같다. 이 모든 것은 모두 한 목자가 준 것이다.",
+    Kor:"지혜로운 사람의 말은 찌르는 채찍 같고, 수집된 잠언은 잘 박힌 못과 같다. 이 모든 것은 모두 한 목자가 준 것이다.",
     Chn:"智慧人的言语好像刺棍；会中之师的言语又像钉稳的钉子，都是一个牧者所赐的。",
     Eng:"The words of the wise are like goads, their collected sayings like firmly embedded nails--given by one Shepherd.",
     Ind:"Kata-kata orang berhikmat seperti kusa dan kumpulan-kumpulannya seperti paku-paku yang tertancap, diberikan oleh satu gembala."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:12, Page:1,
-    Kor:"○한 마디만 더 하마. 나의 아이들아, 조심하여라.  책은 아무리 읽어도 끝이 없고, 공부만 하는 것은 몸을 피곤하게 한다.",
+    Kor:"한 마디만 더 하마. 나의 자녀들아, 조심하여라. 책은 아무리 읽어도 끝이 없고, 공부만 하는 것은 몸을 피곤하게 한다.",
     Chn:"我儿，还有一层，你当受劝戒：著书多，没有穷尽；读书多，身体疲倦。",
     Eng:"Be warned, my son, of anything in addition to them. Of making many books there is no end, and much study wearies the body.",
     Ind:"Lagipula, anakku, waspadalah! Membuat banyak buku tak akan ada akhirnya, dan banyak belajar melelahkan badan."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:13, Page:1,
-    Kor:"○할 말은 다 하였다. 결론은 이것이다.  \"하나님을 두려워하여라. 그분이 주신 계명을 지켜라. 이것이 바로 사람이 해야 할 의무다.",
+    Kor:"할 말은 다 하였다. 결론은 이것이다. \"하나님을 두려워하여라. 그분이 주신 계명을 지켜라. 이것이 바로 사람이 해야 할 의무다.\"",
     Chn:"这些事都已听见了，总意就是：敬畏　神，谨守他的诫命，这是人所当尽的本分。",
     Eng:"Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of man.",
     Ind:"Akhir kata dari segala yang didengar ialah: takutlah akan Allah dan berpeganglah pada perintah-perintah-Nya, karena ini adalah kewajiban setiap orang."
   },
   {Bible:"Ecclesiastes", Chapter:12, Verse:14, Page:1,
-    Kor:"하나님은 모든 행위를 심판하신다. 선한 것이든 악한 것이든 모든 은밀한 일을 다 심판하신다.\"",
+    Kor:"하나님은 모든 행위를 심판하신다. 선한 것이든 악한 것이든 모든 은밀한 일을 다 심판하신다.",
     Chn:"因为人所做的事，连一切隐藏的事，无论是善是恶，　神都必审问。",
     Eng:"For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.",
     Ind:"Karena Allah akan membawa setiap perbuatan ke pengadilan yang berlaku atas segala sesuatu yang tersembunyi, entah itu baik, entah itu jahat."

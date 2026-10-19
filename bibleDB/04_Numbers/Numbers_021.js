@@ -3,49 +3,49 @@
 BibleDB.ref("Numbers",21,35);
 BibleDB.add([
   {Bible:"Numbers", Chapter:21, Verse:1, Page:1,
-    Kor:"<호르마를 점령하다> 네겝 지방에 살고 있던 가나안 사람 아랏 왕은, 이스라엘이 a아다림 길로 오고 있다는 소식을 듣고 나와서, 이스라엘과 맞서 싸워, 그들 가운데서 얼마를 포로로 사로잡았다.(a '정탐')",
+    Kor:"네겝 지방에 살고 있던 가나안 사람 아랏 왕은, 이스라엘이 아다림 길로 오고 있다는 소식을 듣고 나와서, 이스라엘과 맞서 싸워, 그들 가운데서 얼마를 포로로 사로잡았다.",
     Chn:"住南地的迦南人亚拉得王，听说以色列人从亚他林路来，就和以色列人争战，掳了他们几个人。",
     Eng:"When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them.",
     Ind:"Raja negeri Arad, orang Kanaan yang tinggal di Tanah Negeb, mendengar, bahwa Israel datang dari jalan Atarim, lalu ia berperang melawan Israel, dan diangkutnya beberapa orang tawanan dari pada mereka."
   },
   {Bible:"Numbers", Chapter:21, Verse:2, Page:1,
-    Kor:"그 때에 이스라엘이 주님께 다음과 같은 말로 서약하였다. \"주님께서 이 백성을 우리 손에 붙이시면, 우리는 그들의 성읍들을 전멸시키겠습니다.\"",
+    Kor:"그 때에 이스라엘이 주께 다음과 같은 말로 서약하였다. \"주께서 이 백성을 우리 손에 붙이시면, 우리는 그들의 성읍들을 전멸시키겠습니다.\"",
     Chn:"以色列人向耶和华发愿说：「你若将这民交付我手，我就把他们的城邑尽行毁灭。」",
     Eng:"Then Israel made this vow to the LORD: \"If you will deliver these people into our hands, we will totally destroy their cities.\"",
     Ind:"Maka bernazarlah orang Israel kepada TUHAN, katanya: \"Jika Engkau serahkan bangsa ini sama sekali ke dalam tangan kami, kami akan menumpas kota-kota mereka sampai binasa.\""
   },
   {Bible:"Numbers", Chapter:21, Verse:3, Page:1,
-    Kor:"주님께서 이스라엘의 간구를 들으시고, 그 가나안 사람을 그들의 손에 붙이시니, 이스라엘이 그들과 그들의 성읍들을 전멸시켰다. 그리하여 사람들은 그 곳 이름을 b호르마라고 부르게 되었다.(b '완전히 멸함')",
+    Kor:"주께서 이스라엘의 간구를 들으시고, 그 가나안 사람을 그들의 손에 붙이시니, 이스라엘이 그들과 그들의 성읍들을 전멸시켰다. 그리하여 사람들은 그 곳 이름을 호르마라고 부르게 되었다.",
     Chn:"耶和华应允了以色列人，把迦南人交付他们，他们就把迦南人和迦南人的城邑尽行毁灭。那地方的名便叫何珥玛。",
     Eng:"The LORD listened to Israel's plea and gave the Canaanites over to them. They completely destroyed them and their towns; so the place was named Hormah.",
     Ind:"TUHAN mendengarkan permintaan orang Israel, lalu menyerahkan orang Kanaan itu; kemudian orang-orang itu dan kota-kotanya ditumpas sampai binasa. Itulah sebabnya tempat itu dinamai Horma."
   },
   {Bible:"Numbers", Chapter:21, Verse:4, Page:1,
-    Kor:"<구리 뱀으로 백성을 구하다> ○그들은 에돔 땅을 돌아서 가려고, 호르 산에서부터 홍해 길을 따라 나아갔다. 길을 걷는 동안에 백성들은 마음이 몹시 조급하였다.",
+    Kor:"○그들은 에돔 땅을 돌아서 가려고, 호르 산에서부터 홍해 길을 따라 나아갔다. 길을 걷는 동안에 백성들은 마음이 몹시 조급하였다.",
     Chn:"他们从何珥山起行，往红海那条路走，要绕过以东地。百姓因这路难行，心中甚是烦躁，",
     Eng:"They traveled from Mount Hor along the route to the Red Sea, to go around Edom. But the people grew impatient on the way;",
     Ind:"Setelah mereka berangkat dari gunung Hor, berjalan ke arah Laut Teberau untuk mengelilingi tanah Edom, maka bangsa itu tidak dapat lagi menahan hati di tengah jalan."
   },
   {Bible:"Numbers", Chapter:21, Verse:5, Page:1,
-    Kor:"그래서 백성들은 하나님과 모세를 원망하였다. \"어찌하여 우리를 이집트에서 데리고 나왔습니까? 이 광야에서 우리를 죽이려고 합니까? 먹을 것도 없습니다. 마실 것도 없습니다. 이 보잘것없는 음식은 이제 진저리가 납니다.\"",
+    Kor:"그래서 백성들은 하나님과 모세를 원망하였다. \"어찌하여 우리를 이집트에서 데리고 나왔느냐? 이 광야에서 우리를 죽이려고 하느냐? 먹을 것도 없다. 마실 것도 없다. 이 보잘것없는 음식은 이제 진저리가 난다.\"",
     Chn:"就怨 　神和摩西说：「你们为什么把我们从埃及领出来、使我们死在旷野呢？这里没有粮，没有水，我们的心厌恶这淡薄的食物。」",
     Eng:"they spoke against God and against Moses, and said, \"Why have you brought us up out of Egypt to die in the desert? There is no bread! There is no water! And we detest this miserable food!\"",
     Ind:"Lalu mereka berkata-kata melawan Allah dan Musa: \"Mengapa kamu memimpin kami keluar dari Mesir? Supaya kami mati di padang gurun ini? Sebab di sini tidak ada roti dan tidak ada air, dan akan makanan hambar ini kami telah muak.\""
   },
   {Bible:"Numbers", Chapter:21, Verse:6, Page:1,
-    Kor:"○그러자 주님께서 백성들에게 불뱀을 보내셨다. 그것들이 사람을 무니, 이스라엘 백성이 많이 죽었다.",
+    Kor:"○그러자 주께서 백성들에게 불뱀을 보내셨다. 그것들이 사람을 무니, 이스라엘 백성이 많이 죽었다.",
     Chn:"于是耶和华使火蛇进入百姓中间，蛇就咬他们。以色列人中死了许多。",
     Eng:"Then the LORD sent venomous snakes among them; they bit the people and many Israelites died.",
     Ind:"Lalu TUHAN menyuruh ular-ular tedung ke antara bangsa itu, yang memagut mereka, sehingga banyak dari orang Israel yang mati."
   },
   {Bible:"Numbers", Chapter:21, Verse:7, Page:1,
-    Kor:"백성이 모세에게 와서 간구하였다. \"주님과 어른을 원망함으로써 우리가 죄를 지었습니다. 이 뱀이 우리에게서 물러가게 해 달라고 주님께 기도하여 주시기 바랍니다.\" 그리하여 모세가 백성들을 살려 달라고 기도하였다.",
+    Kor:"백성이 모세에게 와서 간구하였다. \"주님과 어른을 원망함으로써 우리가 죄를 지었습니다. 이 뱀이 우리에게서 물러가게 해 달라고 주께 기도하여 주시기 바랍니다.\" 그리하여 모세가 백성들을 살려 달라고 기도하였다.",
     Chn:"百姓到摩西那里，说：「我们怨 耶和华和你，有罪了。求你祷告耶和华，叫这些蛇离开我们。」于是摩西为百姓祷告。",
     Eng:"The people came to Moses and said, \"We sinned when we spoke against the LORD and against you. Pray that the LORD will take the snakes away from us.\" So Moses prayed for the people.",
     Ind:"Kemudian datanglah bangsa itu mendapatkan Musa dan berkata: \"Kami telah berdosa, sebab kami berkata-kata melawan TUHAN dan engkau; berdoalah kepada TUHAN, supaya dijauhkan-Nya ular-ular ini dari pada kami.\" Lalu Musa berdoa untuk bangsa itu."
   },
   {Bible:"Numbers", Chapter:21, Verse:8, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너는 불뱀을 만들어 기둥 위에 달아 놓아라. 물린 사람은 누구든지 그것을 보면 살 것이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 불뱀을 만들어 기둥 위에 달아 놓아라. 물린 사람은 누구든지 그것을 보면 살 것이다.\"",
     Chn:"耶和华对摩西说：「你制造一条火蛇，挂在杆子上；凡被咬的，一望这蛇，就必得活。」",
     Eng:"The LORD said to Moses, \"Make a snake and put it up on a pole; anyone who is bitten can look at it and live.\"",
     Ind:"Maka berfirmanlah TUHAN kepada Musa: \"Buatlah ular tedung dan taruhlah itu pada sebuah tiang; maka setiap orang yang terpagut, jika ia melihatnya, akan tetap hidup.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Lalu Musa membuat ular tembaga dan menaruhnya pada sebuah tiang; maka jika seseorang dipagut ular, dan ia memandang kepada ular tembaga itu, tetaplah ia hidup."
   },
   {Bible:"Numbers", Chapter:21, Verse:10, Page:1,
-    Kor:"<호르 산에서 모압 골짜기까지> ○이스라엘 자손은 그 곳을 떠나서는 오봇에 이르러 진을 쳤다.",
+    Kor:"○이스라엘 자손은 그 곳을 떠나서는 오봇에 이르러 진을 쳤다.",
     Chn:"以色列人起行，安营在阿伯。",
     Eng:"The Israelites moved on and camped at Oboth.",
     Ind:"Kemudian berangkatlah orang Israel, lalu berkemah di Obot."
@@ -81,31 +81,31 @@ BibleDB.add([
     Ind:"Dari situ berangkatlah mereka, lalu berkemah di seberang sungai Arnon yang di padang gurun dan yang keluar dari daerah orang Amori, sebab sungai Arnon ialah batas Moab, di antara orang Moab dan orang Amori."
   },
   {Bible:"Numbers", Chapter:21, Verse:14, Page:1,
-    Kor:"그래서 c '주님의 전쟁기’에도 다음과 같은 말이 있다.  \"……수바 지역의 와헙 마을과 아르논 골짜기와 (c 고대의 전쟁시를 모은 책. 지금은 분실되고 없음)",
+    Kor:"그래서 '주의 전쟁기'에도 다음과 같은 말이 있다. ……수바 지역의 와헙 마을과 아르논 골짜기와",
     Chn:"所以耶和华的战记上说：「苏法的哇哈伯与亚嫩河的谷，",
     Eng:"That is why the Book of the Wars of the LORD says: \"...Waheb in Suphah and the ravines, the Arnon",
     Ind:"Itulah sebabnya dikatakan dalam kitab peperangan TUHAN: \"Waheb di Sufa dan lembah-lembah ke sungai Arnon,"
   },
   {Bible:"Numbers", Chapter:21, Verse:15, Page:1,
-    Kor:"모든 골짜기의 비탈은 아르 고을로 뻗어 있고 모압의 경계에 닿아 있다.\"",
+    Kor:"모든 골짜기의 비탈은 아르 고을로 뻗어 있고 모압의 경계에 닿아 있다.",
     Chn:"并向亚珥城众谷的下坡，是靠近摩押的境界。」",
     Eng:"and the slopes of the ravines that lead to the site of Ar and lie along the border of Moab.\"",
     Ind:"dan lereng lembah-lembah; lereng itu terbentang ke tempat di mana terletak kota Ar, dan bersandar pada batas daerah Moab.\""
   },
   {Bible:"Numbers", Chapter:21, Verse:16, Page:1,
-    Kor:"○그들은 그 곳을 떠나서 d브엘에 이르렀다. 브엘은 주님께서 모세에게 \"백성을 모아라. 내가 그들에게 물을 주마\" 하고 말씀하신, 바로 그 샘이 있는 곳이다.(d '우물')",
+    Kor:"그들은 그 곳을 떠나서 브엘에 이르렀다. 브엘은 주께서 모세에게 \"백성을 모아라. 내가 그들에게 물을 주마\" 하고 말씀하신, 바로 그 샘이 있는 곳이다.",
     Chn:"以色列人从那里起行，到了比珥。从前耶和华吩咐摩西说：「招聚百姓，我好给他们水喝」，说的就是这井。",
     Eng:"From there they continued on to Beer, the well where the LORD said to Moses, \"Gather the people together and I will give them water.\"",
     Ind:"Dari sana mereka ke Beer. Inilah sumur di mana TUHAN berfirman kepada Musa: \"Kumpulkanlah bangsa itu, maka Aku akan memberikan air kepada mereka.\""
   },
   {Bible:"Numbers", Chapter:21, Verse:17, Page:1,
-    Kor:"○그 때에 이스라엘은 이런 노래를 불렀다.  \"샘물아, 솟아나라. 모두들 샘물을 노래하여라.",
+    Kor:"○그 때에 이스라엘은 이런 노래를 불렀다. 샘물아, 솟아나라. 모두들 샘물을 노래하여라.",
     Chn:"当时，以色列人唱歌说： 井啊，涌上水来！ 你们要向这井歌唱。",
     Eng:"Then Israel sang this song: \"Spring up, O well! Sing about it,",
     Ind:"Pada waktu itu orang Israel menyanyikan nyanyian ini: \"Berbual-buallah, hai sumur! Mari kita bernyanyi-nyanyi berbalas-balasan karena sumur yang digali oleh raja-raja,"
   },
   {Bible:"Numbers", Chapter:21, Verse:18, Page:1,
-    Kor:"지도자들이 파고, 백성의 원로들이 왕의 통치 지팡이들로 터뜨린 샘물이다.\" ○그들은 그 광야를 떠나 맛다나에 이르렀다.",
+    Kor:"지도자들이 파고, 백성의 어른들이 홀과 지팡이로 터뜨린 샘물이다. ○그들은 그 광야를 떠나 맛다나에 이르렀다.",
     Chn:"这井是首领和民中的尊贵人 用圭用杖所挖所掘的。 以色列人从旷野往玛他拿去，",
     Eng:"about the well that the princes dug, that the nobles of the people sank--the nobles with scepters and staffs.\" Then they went from the desert to Mattanah,",
     Ind:"yang dikorek oleh kaum bangsawan di antara bangsa itu dengan tongkat-tongkat kerajaan, dengan tongkat-tongkat mereka.\" Dan dari padang gurun mereka ke Matana;"
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"dari Matana ke Nahaliel; dari Nahaliel ke Bamot;"
   },
   {Bible:"Numbers", Chapter:21, Verse:20, Page:1,
-    Kor:"바못을 떠나서는 비스가 산 꼭대기 부근, e광야가 내려다보이는 모압 고원지대의 한 골짜기에 이르렀다.(e 히, '여시몬이')",
+    Kor:"바못을 떠나서는 비스가 산 꼭대기 부근, 광야가 내려다보이는 모압 고원지대의 한 골짜기에 이르렀다.",
     Chn:"从巴末到摩押地的谷，又到那下望旷野之毗斯迦的山顶。",
     Eng:"and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland.",
     Ind:"dari Bamot ke lembah yang di daerah Moab, dekat puncak gunung Pisga yang menghadap Padang Belantara."
   },
   {Bible:"Numbers", Chapter:21, Verse:21, Page:1,
-    Kor:"<요단 동쪽을 점령하다(신 2:26-3:11)> ○거기에서 이스라엘은 아모리 왕 시혼에게 사신들을 보내어 요청하였다.",
+    Kor:"○거기에서 이스라엘은 아모리 왕 시혼에게 사신들을 보내어 요청하였다.",
     Chn:"以色列人差遣使者去见亚摩利人的王西宏，说：",
     Eng:"Israel sent messengers to say to Sihon king of the Amorites:",
     Ind:"Kemudian orang Israel mengirim utusan kepada Sihon, raja orang Amori, dengan pesan:"
   },
   {Bible:"Numbers", Chapter:21, Verse:22, Page:1,
-    Kor:"\"우리가 임금님의 땅을 지나가도록 허락하여 주십시오. 밭이나 포도원에는 들어가지 않겠습니다. 샘물도 마시지 않겠습니다. 임금님의 영토 경계를 다 지나갈 때까지 우리는 '왕의 길’만 따라가겠습니다.\"",
+    Kor:"\"우리가 임금님의 땅을 지나가도록 허락하여 주십시오. 밭이나 포도원에는 들어가지 않겠습니다. 샘물도 마시지 않겠습니다. 임금님의 영토 경계를 다 지나갈 때까지 우리는 '왕의 길'만 따라가겠습니다.\"",
     Chn:"「求你容我们从你的地经过；我们不偏入田间和葡萄园，也不喝井里的水，只走大道，直到过了你的境界。」",
     Eng:"\"Let us pass through your country. We will not turn aside into any field or vineyard, or drink water from any well. We will travel along the king's highway until we have passed through your territory.\"",
     Ind:"\"Izinkanlah kami melalui negerimu; kami tidak akan menyimpang masuk ke ladang-ladang dan kebun-kebun anggurmu, kami tidak akan minum air sumurmu, di jalan besar saja kami akan berjalan, sampai kami melalui batas daerahmu.\""
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Sebab Hesybon ialah kota kediaman Sihon, raja orang Amori; raja ini tadinya berperang melawan raja Moab yang lalu, dan merebut dari tangannya seluruh negerinya sampai ke sungai Arnon."
   },
   {Bible:"Numbers", Chapter:21, Verse:27, Page:1,
-    Kor:"○그래서 시인들은 이렇게 읊었다.  \"헤스본으로 오너라. 시혼의 도성을 재건하여라. 그것을 굳게 세워라.",
+    Kor:"○그래서 시인들은 이렇게 읊었다. 헤스본으로 오너라. 시혼의 도성을 재건하여라. 그것을 굳게 세워라.",
     Chn:"所以那些作诗歌的说： 你们来到希实本； 愿西宏的城被修造，被建立。",
     Eng:"That is why the poets say: \"Come to Heshbon and let it be rebuilt; let Sihon's city be restored.",
     Ind:"Itulah sebabnya penyair-penyair berkata: \"Datanglah ke Hesybon, baiklah dibangun dan baiklah diperkuat kota kediaman Sihon itu!"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Celakalah engkau, ya Moab; binasa engkau, ya bangsa Kamos! Ia membuat anak-anaknya lelaki menjadi orang-orang pelarian, dan anak-anaknya perempuan menjadi tawanan kepada Sihon, raja orang Amori."
   },
   {Bible:"Numbers", Chapter:21, Verse:30, Page:1,
-    Kor:"그러나 우리는 그들을 넘어뜨렸다. 헤스본에서 디본에 이르기까지, 메드바에서 가까운 노바에 이르기까지, 우리는 그들을 쳐부수었다.\"",
+    Kor:"그러나 우리는 그들을 넘어뜨렸다. 헤스본에서 디본에 이르기까지, 메드바에서 가까운 노바에 이르기까지, 우리는 그들을 쳐부수었다.",
     Chn:"我们射了他们； 希实本直到底本尽皆毁灭。 我们使地变成荒场，直到挪法； 这挪法直延到米底巴。",
     Eng:"\"But we have overthrown them; Heshbon is destroyed all the way to Dibon. We have demolished them as far as Nophah, which extends to Medeba.\"",
     Ind:"Kita telah menembaki mereka, Hesybon binasa sampai ke Dibon, dan kita menanduskannya sampai ke Nofah, yang terbentang sampai ke Medeba.\""
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Demikianlah orang Israel diam di negeri orang Amori."
   },
   {Bible:"Numbers", Chapter:21, Verse:32, Page:1,
-    Kor:"모세는 야스엘로 사람을 보내어 탐지하게 한 다음, 그 주변 촌락들을 점령하고 거기에 있던 아모리 사람들을 내쫓았다.",
+    Kor:"모세는 야셀로 사람을 보내어 탐지하게 한 다음, 그 주변 촌락들을 점령하고 거기에 있던 아모리 사람들을 내쫓았다.",
     Chn:"摩西打发人去窥探雅谢，以色列人就占了雅谢的镇市，赶出那里的亚摩利人。",
     Eng:"After Moses had sent spies to Jazer, the Israelites captured its surrounding settlements and drove out the Amorites who were there.",
     Ind:"Setelah Musa menyuruh orang mengintai kota Yaezer, mereka merebut segala anak kota Yaezer dan menghalau orang-orang Amori yang ada di situ."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Kemudian berpalinglah mereka dan maju ke arah Basan. Lalu Og, raja Basan, beserta segala rakyatnya maju ke Edrei menjumpai mereka untuk berperang."
   },
   {Bible:"Numbers", Chapter:21, Verse:34, Page:1,
-    Kor:"그 때에 주님께서 모세에게 말씀하셨다. \"그를 두려워하지 말아라. 내가 그와 그의 온 군대와 그의 땅을 너의 손에 넘겼으니, 전에 헤스본에 사는 아모리 왕 시혼을 무찌른 것처럼 그를 무찔러라.\"",
+    Kor:"그 때에 주께서 모세에게 말씀하셨다. \"그를 두려워하지 말아라. 내가 그와 그의 온 군대와 그의 땅을 너의 손에 넘겼으니, 전에 헤스본에 사는 아모리 왕 시혼을 무찌른 것처럼 그를 무찔러라.\"",
     Chn:"耶和华对摩西说：「不要怕他！因我已将他和他的众民，并他的地，都交在你手中；你要待他像从前待住希实本的亚摩利王西宏一般。」",
     Eng:"The LORD said to Moses, \"Do not be afraid of him, for I have handed him over to you, with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon.\"",
     Ind:"Tetapi TUHAN berfirman kepada Musa: \"Janganlah takut kepadanya, sebab Aku menyerahkan dia dengan seluruh rakyatnya dan negerinya ke dalam tanganmu, dan haruslah kaulakukan kepadanya seperti yang kaulakukan kepada Sihon, raja orang Amori, yang diam di Hesybon.\""

@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",20,42);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:20, Verse:1, Page:1,
-    Kor:"<요나단이 다윗의 탈출을 도와 주다> 다윗이 라마의 나욧에서 빠져 나와 집으로 돌아온 다음에, 요나단에게 따져 물었다. \"내가 무슨 못할 일을 하였느냐? 내가 무슨 몹쓸 일이라도 하였느냐? 내가 자네의 아버님께 무슨 잘못을 저질렀기에, 아버님이 이토록 나의 목숨을 노리시느냐?\"",
+    Kor:"다윗이 라마의 나욧에서 빠져 나와 집으로 돌아온 다음에, 요나단에게 따져 물었다. \"내가 무슨 못할 일을 하였느냐? 내가 무슨 몹쓸 일이라도 하였느냐? 내가 자네의 아버님께 무슨 잘못을 저질렀기에, 아버님이 이토록 나의 목숨을 노리시느냐?\"",
     Chn:"大卫从拉玛的拿约逃跑，来到约拿单那里，对他说：「我做了什么？有什么罪孽呢？在你父亲面前犯了什么罪，他竟寻索我的性命呢？」",
     Eng:"Then David fled from Naioth at Ramah and went to Jonathan and asked, \"What have I done? What is my crime? How have I wronged your father, that he is trying to take my life?\"",
     Ind:"Maka larilah Daud dari Nayot, dekat Rama; sampailah ia kepada Yonatan, lalu berkata: \"Apakah yang telah kuperbuat? Apakah kesalahanku dan apakah dosaku terhadap ayahmu, sehingga ia ingin mencabut nyawaku?\""
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Tetapi Yonatan berkata kepadanya: \"Jauhlah yang demikian itu! engkau tidak akan mati dibunuh. Ingatlah, ayahku tidak berbuat sesuatu, baik perkara besar maupun perkara kecil, dengan tidak menyatakannya kepadaku. Mengapa ayahku harus menyembunyikan perkara ini kepadaku? Tidak mungkin!\""
   },
   {Bible:"1Samuel", Chapter:20, Verse:3, Page:1,
-    Kor:"그러나 다윗은 맹세까지 하면서 말하였다. \"자네가 나를 지극히 아낀다는 것은, 자네의 아버님도 잘 알고 계시지 않은가? 그렇기 때문에 이 일만은 자네에게 알려서는 안 된다고 생각하셨을 걸세. 자네가 알면 매우 슬퍼할 테니까 말일세. 주님께서 살아 계시니, 내가 자네에게 분명히 말하겠네. 나와 죽음 사이는 한 발짝밖에 되지 않네.\"",
+    Kor:"그러나 다윗은 맹세까지 하면서 말하였다. \"자네가 나를 지극히 아낀다는 것은, 자네의 아버님도 잘 알고 계시지 않은가? 그렇기 때문에 이 일만은 자네에게 알려서는 안 된다고 생각하셨을 걸세. 자네가 알면 매우 슬퍼할 테니까 말일세. 주께서 살아 계시니, 내가 자네에게 분명히 말하겠네. 나와 죽음 사이는 한 발짝밖에 되지 않네.\"",
     Chn:"大卫又起誓说：「你父亲准知我在你眼前蒙恩。他心里说，不如不叫约拿单知道，恐怕他愁烦。我指着永生的耶和华，又敢在你面前起誓，我离死不过一步。」",
     Eng:"But David took an oath and said, \"Your father knows very well that I have found favor in your eyes, and he has said to himself, 'Jonathan must not know this or he will be grieved.' Yet as surely as the LORD lives and as you live, there is only a step between me and death.\"",
     Ind:"Tetapi Daud menjawab, katanya: \"Ayahmu tahu benar, bahwa engkau suka kepadaku. Sebab itu pikirnya: Tidak boleh Yonatan mengetahui hal ini, nanti ia bersusah hati. Namun, demi TUHAN yang hidup dan demi hidupmu, hanya satu langkah jaraknya antara aku dan maut.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Jika begini dikatakannya: Baiklah! maka hambamu ini selamat. Tetapi jika amarahnya bangkit dengan segera, ketahuilah, bahwa ia telah mengambil keputusan untuk mendatangkan celaka."
   },
   {Bible:"1Samuel", Chapter:20, Verse:8, Page:1,
-    Kor:"자네는 이미 주님 앞에서 나와 가까운 친구로 지내기로 a굳게 약속하였으니, 나에게 친구의 의리를 꼭 지켜 주게. 그러나 나에게 무슨 허물이 있다면, 자네가 직접 나를 죽이게. 나를 자네의 아버님께로 데려갈 까닭이 없지 않은가?\"(a 또는 '거룩한 언약을 맺었으니')",
+    Kor:"자네는 이미 주 앞에서 나와 가까운 친구로 지내기로 굳게 약속하였으니, 나에게 친구의 의리를 꼭 지켜 주게. 그러나 나에게 무슨 허물이 있다면, 자네가 직접 나를 죽이게. 나를 자네의 아버님께로 데려갈 까닭이 없지 않은가?\"",
     Chn:"求你施恩与仆人，因你在耶和华面前曾与仆人结盟。我若有罪，不如你自己杀我，何必将我交给你父亲呢？」",
     Eng:"As for you, show kindness to your servant, for you have brought him into a covenant with you before the LORD. If I am guilty, then kill me yourself! Why hand me over to your father?\"",
     Ind:"Jika demikian, tunjukkanlah kesetiaanmu kepada hambamu ini, sebab engkau telah mengikat perjanjian di hadapan TUHAN dengan hambamu ini. Tetapi jika ada kesalahan padaku, engkau sendirilah membunuh aku. Mengapa engkau harus menyerahkan aku kepada ayahmu?\""
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"Lalu berkatalah Yonatan kepada Daud: \"Demi TUHAN, Allah Israel, besok atau lusa kira-kira waktu ini aku akan memeriksa perasaan ayahku. Apabila baik keadaannya bagi Daud, masakan aku tidak akan menyuruh orang kepadamu dan memberitahukannya kepadamu?"
   },
   {Bible:"1Samuel", Chapter:20, Verse:13, Page:1,
-    Kor:"아버지가 자네를 해치려 한다는 것을 내가 알고도, 그것을 자네에게 알리지 않아서, 자네가 안전하게 피신하지 못하게 된다면, 주님께서 이 요나단에게 무슨 벌을 내리셔도 달게 받겠네. 주님께서 나의 아버지와 함께 계셨던 것처럼, 자네와도 함께 계시기를 바라네.",
+    Kor:"아버지가 자네를 해치려 한다는 것을 내가 알고도, 그것을 자네에게 알리지 않아서, 자네가 안전하게 피신하지 못하게 된다면, 주께서 이 요나단에게 무슨 벌을 내리셔도 달게 받겠네. 주께서 나의 아버지와 함께 계셨던 것처럼, 자네와도 함께 계시기를 바라네.",
     Chn:"我父亲若有意害你，我不告诉你使你平平安安地走，愿耶和华重重地降罚与我。愿耶和华与你同在，如同从前与我父亲同在一样。",
     Eng:"But if my father is inclined to harm you, may the LORD deal with me, be it ever so severely, if I do not let you know and send you away safely. May the LORD be with you as he has been with my father.",
     Ind:"Tetapi apabila ayahku memandang baik untuk mendatangkan celaka kepadamu, beginilah kiranya TUHAN menghukum Yonatan, bahkan lebih lagi dari pada itu, sekiranya aku tidak menyatakannya kepadamu dan membiarkan engkau pergi, sehingga engkau dapat berjalan dengan selamat. TUHAN kiranya menyertai engkau, seperti Ia menyertai ayahku dahulu."
   },
   {Bible:"1Samuel", Chapter:20, Verse:14, Page:1,
-    Kor:"그 대신 내가 살아 있는 동안은, 내가 주님의 인자하심을 누리며 살 수 있게 해주게. 내가 죽은 다음에라도,",
+    Kor:"그 대신 내가 살아 있는 동안은, 내가 주의 인자하심을 누리며 살 수 있게 해주게. 내가 죽은 다음에라도,",
     Chn:"你要照耶和华的慈爱恩待我，不但我活着的时候免我死亡，",
     Eng:"But show me unfailing kindness like that of the LORD as long as I live, so that I may not be killed,",
     Ind:"Jika aku masih hidup, bukankah engkau akan menunjukkan kepadaku kasih setia TUHAN? Tetapi jika aku sudah mati,"
   },
   {Bible:"1Samuel", Chapter:20, Verse:15, Page:1,
-    Kor:"주님께서 자네 다윗의 원수들을 이 세상에서 다 없애 버리시는 날에라도, 나의 집안과 의리를 끊지 말고 지켜 주게.\"",
+    Kor:"주께서 자네 다윗의 원수들을 이 세상에서 다 없애 버리시는 날에라도, 나의 집안과 의리를 끊지 말고 지켜 주게.\"",
     Chn:"就是我死后，耶和华从地上剪除你仇敌的时候，你也永不可向我家绝了恩惠。」",
     Eng:"and do not ever cut off your kindness from my family--not even when the LORD has cut off every one of David's enemies from the face of the earth.\"",
     Ind:"janganlah engkau memutuskan kasih setiamu terhadap keturunanku sampai selamanya. Dan apabila TUHAN melenyapkan setiap orang dari musuh Daud dari muka bumi,"
   },
   {Bible:"1Samuel", Chapter:20, Verse:16, Page:1,
-    Kor:"그런 다음에 요나단은 다윗의 집안과 언약을 맺고 말하였다. \"주님께서 다윗의 원수들에게 보복하여 주시기를 바라네.\"",
+    Kor:"그런 다음에 요나단은 다윗의 집안과 언약을 맺고 말하였다. \"주께서 다윗의 원수들에게 보복하여 주시기를 바라네.\"",
     Chn:"于是约拿单与大卫家结盟，说：「愿耶和华借大卫的仇敌追讨背约的罪。」",
     Eng:"So Jonathan made a covenant with the house of David, saying, \"May the LORD call David's enemies to account.\"",
     Ind:"janganlah nama Yonatan terhapus dari keturunan Daud, melainkan kiranya TUHAN menuntut balas dari pada musuh-musuh Daud.\""
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Maka aku akan memanahkan tiga anak panah ke samping batu itu, seolah-olah aku membidik suatu sasaran."
   },
   {Bible:"1Samuel", Chapter:20, Verse:21, Page:1,
-    Kor:"그런 다음에, 내가 데리고 있는 종을 보내어, 그 화살을 다 찾아오라고 말하겠네. 그 때에 내가 그 종에게 큰소리로 '너무 멀리 갔다. 이쪽으로 오면서 다 주워 오너라' 하고 말하면, 주님께서 살아 계심을 걸고 맹세하겠네, 자네에게는 아무 일도 없을 것이니, 안심하고 나오게.",
+    Kor:"그런 다음에, 내가 데리고 있는 종을 보내어, 그 화살을 다 찾아오라고 말하겠네. 그 때에 내가 그 종에게 큰소리로 '너무 멀리 갔다. 이쪽으로 오면서 다 주워 오너라' 하고 말하면, 주께서 살아 계심을 걸고 맹세하겠네, 자네에게는 아무 일도 없을 것이니, 안심하고 나오게.",
     Chn:"我要打发童子，说：『去把箭找来。』我若对童子说：『箭在后头，把箭拿来』，你就可以回来；我指着永生的耶和华起誓，你必平安无事。",
     Eng:"Then I will send a boy and say, 'Go, find the arrows.' If I say to him, 'Look, the arrows are on this side of you; bring them here,' then come, because, as surely as the LORD lives, you are safe; there is no danger.",
     Ind:"Dan ketahuilah, aku akan menyuruh bujangku: Pergilah mencari anak-anak panah itu. Jika tegas kukatakan kepada bujang itu: Lihat anak-anak panah itu lebih ke mari, ambillah! --maka datanglah, sebab, demi TUHAN yang hidup, engkau selamat dan tidak ada bahaya apa-apa."
   },
   {Bible:"1Samuel", Chapter:20, Verse:22, Page:1,
-    Kor:"그러나 내가 그 종에게 '아직 더 가야 된다. 화살은 더 먼 곳에 있다' 하고 말하면, 주님께서 자네를 멀리 보내시는 것이니, 떠나가게.",
+    Kor:"그러나 내가 그 종에게 '아직 더 가야 된다. 화살은 더 먼 곳에 있다' 하고 말하면, 주께서 자네를 멀리 보내시는 것이니, 떠나가게.",
     Chn:"我若对童子说：『箭在前头』，你就要去，因为是耶和华打发你去的。",
     Eng:"But if I say to the boy, 'Look, the arrows are beyond you,' then you must go, because the LORD has sent you away.",
     Ind:"Tetapi jika begini kukatakan kepada orang muda itu: Lihat anak-anak panah itu lebih ke sana! --maka pergilah, sebab TUHAN menyuruh engkau pergi."
   },
   {Bible:"1Samuel", Chapter:20, Verse:23, Page:1,
-    Kor:"오직 우리가 함께 약속한 말에 대해서는, 주님께서 길이길이 자네와 나 사이에 b증인이 되실 걸세.\"(b 칠십인역에는 '증인이'가 있음)",
+    Kor:"오직 우리가 함께 약속한 말에 대해서는, 주께서 길이길이 자네와 나 사이에 증인이 되실 걸세.\"",
     Chn:"至于你我今日所说的话，有耶和华在你我中间为证，直到永远。」",
     Eng:"And about the matter you and I discussed--remember, the LORD is witness between you and me forever.\"",
     Ind:"Tentang hal yang kita janjikan itu, antara aku dan engkau, sesungguhnya, TUHAN ada di antara aku dan engkau sampai selamanya.\""
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Sesudah itu bersembunyilah Daud di padang. Ketika bulan baru tiba, duduklah raja pada meja untuk makan."
   },
   {Bible:"1Samuel", Chapter:20, Verse:25, Page:1,
-    Kor:"왕이 언제나 하듯이 벽을 등진 자리에 앉자, c요나단이 왕의 맞은쪽에 앉았고, 아브넬은 사울 곁에 앉았다. 다윗의 자리는 비어 있었다.(c 칠십인역을 따름. 히, '요나단은 섰고')",
+    Kor:"왕이 언제나 하듯이, 벽을 등진 자리에 앉자, 요나단이 왕의 맞은쪽에 앉았고, 아브넬은 사울 곁에 앉았다. 다윗의 자리는 비어 있었다.",
     Chn:"王照常坐在靠墙的位上，约拿单侍立，押尼珥坐在扫罗旁边，大卫的座位空设。",
     Eng:"He sat in his customary place by the wall, opposite Jonathan, and Abner sat next to Saul, but David's place was empty.",
     Ind:"Raja duduk di tempatnya seperti biasa, dekat dinding. Yonatan berhadapan dengan dia, Abner duduk di sisi Saul, tetapi tempat Daud tinggal kosong."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Dan Saul tidak berkata apa-apa pada hari itu, sebab pikirnya: \"Barangkali ada sesuatu yang terjadi kepadanya; mungkin ia tidak tahir; ya, tentu ia tidak tahir.\""
   },
   {Bible:"1Samuel", Chapter:20, Verse:27, Page:1,
-    Kor:"그런데 초하루가 지난 다음날 곧 그 이튿날에도 다윗의 자리가 여전히 비어 있는 것을 보고, 사울이 자기 아들 요나단에게 물었다. \"어째서 이새의 아들이 어제도 오늘도 식사하러 나오지 않느냐?\"",
+    Kor:"그런데 초하루가 지난 다음날, 곧 그 이튿날에도 다윗의 자리가 여전히 비어 있는 것을 보고, 사울이 자기 아들 요나단에게 물었다. \"어째서 이새의 아들이 어제도 오늘도 식사하러 나오지 않느냐?\"",
     Chn:"初二日大卫的座位还空设。扫罗问他儿子约拿单说：「耶西的儿子为何昨日、今日没有来吃饭呢？」",
     Eng:"But the next day, the second day of the month, David's place was empty again. Then Saul said to his son Jonathan, \"Why hasn't the son of Jesse come to the meal, either yesterday or today?\"",
     Ind:"Tetapi pada hari sesudah bulan baru itu, pada hari yang kedua, ketika tempat Daud masih tinggal kosong, bertanyalah Saul kepada Yonatan, anaknya: \"Mengapa anak Isai tidak datang makan, baik kemarin maupun hari ini?\""
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"katanya: Biarkanlah aku pergi, sebab ada upacara pengorbanan bagi kaum kami di kota, dan saudara-saudaraku sendirilah yang memanggil aku. Oleh sebab itu, jika engkau mengasihi aku, berilah izin kepadaku untuk menengok saudara-saudaraku. Itulah sebabnya ia tidak datang ke perjamuan raja.\""
   },
   {Bible:"1Samuel", Chapter:20, Verse:30, Page:1,
-    Kor:"○사울이 요나단에게 화를 내면서 소리쳤다. \"이 패역무도한 계집의 자식아, 네가 이새의 아들과 단짝이 된 것을 내가 모를 줄 알았더냐? 그런 녀석과 단짝이 되다니, 너에게도 부끄러운 일이고 너를 낳은 네 어미를 발가벗기는 망신이 될 뿐이다.",
+    Kor:"○사울이 요나단에게 화를 내면서 소리쳤다. \"이 사생아 같은 자식아, 네가 이새의 아들과 단짝이 된 것을 내가 모를 줄 알았더냐? 그런 아이와 단짝이 되다니, 너에게나 너를 낳은 네 어머니에게 욕이 될 뿐이다.",
     Chn:"扫罗向约拿单发怒，对他说：「你这顽梗背逆之妇人所生的，我岂不知道你喜悦耶西的儿子，自取羞辱，以致你母亲露体蒙羞吗？",
     Eng:"Saul's anger flared up at Jonathan and he said to him, \"You son of a perverse and rebellious woman! Don't I know that you have sided with the son of Jesse to your own shame and to the shame of the mother who bore you?",
     Ind:"Lalu bangkitlah amarah Saul kepada Yonatan, katanya kepadanya: \"Anak sundal yang kurang ajar! Bukankah aku tahu, bahwa engkau telah memilih pihak anak Isai dan itu noda bagi kau sendiri dan bagi perut ibumu?"
   },
   {Bible:"1Samuel", Chapter:20, Verse:31, Page:1,
-    Kor:"이새의 아들이 이 세상에 살아 있는 한은, 너도 안전하지 못하고, 너의 나라도 안전하지 못할 줄 알아라. 빨리 가서 그 녀석을 당장에 끌어 오너라. 그 녀석은 죽어야 마땅하다.\"",
+    Kor:"이새의 아들이 이 세상에 살아 있는 한은, 너도 안전하지 못하고, 너의 나라도 안전하지 못할 줄 알아라. 빨리 가서 그를 당장에 끌어 오너라. 그는 죽어야 마땅하다.\"",
     Chn:"耶西的儿子若在世间活着，你和你的国位必站立不住。现在你要打发人去，将他捉拿交给我；他是该死的。」",
     Eng:"As long as the son of Jesse lives on this earth, neither you nor your kingdom will be established. Now send and bring him to me, for he must die!\"",
     Ind:"Sebab sesungguhnya selama anak Isai itu hidup di muka bumi, engkau dan kerajaanmu tidak akan kokoh. Dan sekarang suruhlah orang memanggil dan membawa dia kepadaku, sebab ia harus mati.\""
@@ -237,19 +237,19 @@ BibleDB.add([
     Ind:"Tetapi budak itu tidak tahu apa-apa, hanya Yonatan dan Daudlah yang mengetahui hal itu."
   },
   {Bible:"1Samuel", Chapter:20, Verse:40, Page:1,
-    Kor:"그런 다음에 요나단은 데리고 왔던 그 어린 종에게 자기의 무기를 주면서, 그것을 들고 성읍 안으로 들어가라고 말하였다.",
+    Kor:"그런 다음에, 요나단은 데리고 왔던 그 어린 종에게 자기의 무기를 주면서, 그것을 들고 성읍 안으로 들어가라고 말하였다.",
     Chn:"约拿单将弓箭交给童子，吩咐说：「你拿到城里去。」",
     Eng:"Then Jonathan gave his weapons to the boy and said, \"Go, carry them back to town.\"",
     Ind:"Sesudah itu Yonatan memberikan senjatanya kepada budak yang menyertai dia, dan berkata kepadanya: \"Pergilah, bawalah ke kota.\""
   },
   {Bible:"1Samuel", Chapter:20, Verse:41, Page:1,
-    Kor:"그 어린 종이 성읍 안으로 들어가니, 다윗이 그 숨어 있던 바위 d곁에서 일어나, 얼굴을 땅에 대면서 세 번 큰 절을 하였다. 그리고 그들은 서로 끌어안고 함께 울었는데, 다윗이 더 서럽게 울었다.(d 칠십인역을 따름. 히, '남쪽에서')",
+    Kor:"그 어린 종이 성읍 안으로 들어가니, 다윗이 그 숨어 있던 바위 곁에서 일어나, 얼굴을 땅에 대면서 세 번 큰 절을 하였다. 그리고 그들은 서로 끌어안고 함께 울었는데, 다윗이 더 서럽게 울었다.",
     Chn:"童子一去，大卫就从磐石的南边出来，俯伏在地，拜了三拜；二人亲嘴，彼此哭泣，大卫哭得更恸。",
     Eng:"After the boy had gone, David got up from the south side of the stone and bowed down before Jonathan three times, with his face to the ground. Then they kissed each other and wept together--but David wept the most.",
     Ind:"Maka pulanglah budak itu, lalu tampillah Daud dari sebelah bukit batu; ia sujud dengan mukanya ke tanah dan menyembah tiga kali. Mereka bercium-ciuman dan bertangis-tangisan. Akhirnya Daud dapat menahan diri."
   },
   {Bible:"1Samuel", Chapter:20, Verse:42, Page:1,
-    Kor:"○그러자 요나단이 다윗에게 말하였다. \"잘 가게. 우리가 서로 주님의 이름을 걸고 맹세한 것은 잊지 않도록 하세. 주님께서 나와 자네 사이에서뿐만 아니라, 나의 자손과 자네의 자손 사이에서도, 길이길이 그 증인이 되실 걸세.\" 다윗은 일어나 길을 떠났고, 요나단은 성 안으로 들어갔다.",
+    Kor:"○그러자 요나단이 다윗에게 말하였다. \"잘 가게. 우리가 서로 주의 이름을 걸고 맹세한 것은 잊지 않도록 하세. 주께서 나와 자네 사이에서뿐만 아니라, 나의 자손과 자네의 자손 사이에서도, 길이길이 그 증인이 되실 걸세.\" 다윗은 일어나 길을 떠났고, 요나단은 성 안으로 들어갔다.",
     Chn:"约拿单对大卫说：「我们二人曾指着耶和华的名起誓说：『愿耶和华在你我中间，并你我后裔中间为证，直到永远。』如今你平平安安地去吧！」大卫就起身走了；约拿单也回城里去了。",
     Eng:"Jonathan said to David, \"Go in peace, for we have sworn friendship with each other in the name of the LORD, saying, 'The LORD is witness between you and me, and between your descendants and my descendants forever.'\" Then David left, and Jonathan went back to the town.",
     Ind:"Kemudian berkatalah Yonatan kepada Daud: \"Pergilah dengan selamat; bukankah kita berdua telah bersumpah demi nama TUHAN, demikian: TUHAN akan ada di antara aku dan engkau serta di antara keturunanku dan keturunanmu sampai selamanya.\" (20-43) Setelah itu bangunlah Daud dan pergi; dan Yonatanpun pulang ke kota."

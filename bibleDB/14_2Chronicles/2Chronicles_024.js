@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",24,27);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:24, Verse:1, Page:1,
-    Kor:"<유다 왕 요아스(왕하 12:1-16)> 요아스가 왕이 되었을 때에, 그는 일곱 살이었다. 그는 예루살렘에서 마흔 해 동안 다스렸다. 그의 어머니 시비아는 브엘세바 사람이다.",
+    Kor:"요아스가 왕이 되었을 때에, 그는 일곱 살이었다. 그는 예루살렘에서 마흔 해 동안 다스렸다. 그의 어머니 시비아는 브엘세바 사람이다.",
     Chn:"约阿施登基的时候年七岁，在耶路撒冷作王四十年。他母亲名叫西比亚，是别是巴人。",
     Eng:"Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother's name was Zibiah; she was from Beersheba.",
     Ind:"Yoas berumur tujuh tahun pada waktu ia menjadi raja, dan empat puluh tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Zibya, dari Bersyeba."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Yoyada mengambil dua orang isteri bagi dia; dari mereka ia mendapat anak laki-laki dan anak perempuan."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:4, Page:1,
-    Kor:"○얼마 뒤에 요아스는 주님의 성전을 새롭게 단장할 마음이 생겨서,",
+    Kor:"○얼마 뒤에 요아스는 주의 성전을 새롭게 단장할 마음이 생겨서,",
     Chn:"此后，约阿施有意重修耶和华的殿，",
     Eng:"Some time later Joash decided to restore the temple of the LORD.",
     Ind:"Kemudian Yoas bermaksud untuk membaharui rumah TUHAN."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:5, Page:1,
-    Kor:"제사장들과 레위 사람들을 불러 다음과 같이 지시하였다. \"유다의 여러 성읍으로 두루 다니면서, 모든 이스라엘 사람들에게서 해마다 돈을 거두어, 하나님의 성전을 보수하도록 하시오. 지체하지 말고, 곧 실시하시오.\" 그러나 레위 사람들이 곧바로 움직이지 아니하자,",
+    Kor:"제사장들과 레위 사람들을 불러 다음과 같이 지시하였다. \"유다의 여러 성읍으로 두루 다니면서, 모든 이스라엘 사람들에게서 해마다 돈을 거두어, 하나님의 성전을 보수하도록 하라. 지체하지 말고, 곧 실시하라.\" 그러나 레위 사람들이 곧바로 움직이지 아니하자,",
     Chn:"便召聚众祭司和利未人，吩咐他们说：「你们要往犹大各城去，使以色列众人捐纳银子，每年可以修理你们　神的殿；你们要急速办理这事。」只是利未人不急速办理。",
     Eng:"He called together the priests and Levites and said to them, \"Go to the towns of Judah and collect the money due annually from all Israel, to repair the temple of your God. Do it now.\" But the Levites did not act at once.",
     Ind:"Ia mengumpulkan para imam dan orang Lewi dan berkata kepada mereka: \"Pergilah kamu ke kota-kota Yehuda dan kumpulkanlah uang dari seluruh orang Israel untuk memperbaiki rumah Allahmu setiap tahun. Lakukanlah hal itu dengan segera!\" Tetapi orang Lewi itu tidak melakukannya dengan segera."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:6, Page:1,
-    Kor:"왕이 여호야다 대제사장을 불러 추궁하였다. \"대제사장은 왜 레위 사람들에게 유다와 예루살렘에서 세금을 거두어들이라고 요구하지 않았소? 그 세금은 주님의 종 모세와 이스라엘 회중이 증거의 장막을 위하여 백성에게 부과한 것이 아니오?\"",
+    Kor:"왕이 여호야다 대제사장을 불러 추궁하였다. \"대제사장은 왜 레위 사람들에게 유다와 예루살렘에서 세금을 거두어들이라고 요구하지 않았소? 그 세금은 주의 종 모세와 이스라엘 회중이 증거의 장막을 위하여 백성에게 부과한 것이 아니오?\"",
     Chn:"王召了大祭司耶何耶大来，对他说：「从前耶和华的仆人摩西，为法柜的帐幕与以色列会众所定的捐项，你为何不叫利未人照这例从犹大和耶路撒冷带来作殿的费用呢？」（",
     Eng:"Therefore the king summoned Jehoiada the chief priest and said to him, \"Why haven't you required the Levites to bring in from Judah and Jerusalem the tax imposed by Moses the servant of the LORD and by the assembly of Israel for the Tent of the Testimony?\"",
     Ind:"Lalu raja memanggil imam kepala Yoyada dan bertanya kepadanya: \"Mengapa engkau tidak menuntut kepada orang-orang Lewi untuk membawa dari Yehuda dan dari Yerusalem pajak yang dikenakan Musa, hamba Allah itu, kepada jemaah Israel untuk Kemah tempat hukum Allah?"
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sebab anak-anak Atalya, perempuan fasik itu, telah membongkar rumah Allah, bahkan memakai barang-barang kudus rumah TUHAN untuk para Baal.\""
   },
   {Bible:"2Chronicles", Chapter:24, Verse:8, Page:1,
-    Kor:"○왕은 명령을 내려서, 궤 하나를 만들어 주님의 성전 문 밖에 놓게 하고,",
+    Kor:"○왕은 명령을 내려서, 궤 하나를 만들어 주의 성전 문 밖에 놓게 하고,",
     Chn:"于是王下令，众人做了一柜，放在耶和华殿的门外，",
     Eng:"At the king's command, a chest was made and placed outside, at the gate of the temple of the LORD.",
     Ind:"Sesudah itu raja memerintahkan supaya dibuat sebuah peti dan ditempatkan di depan pintu gerbang rumah TUHAN,"
   },
   {Bible:"2Chronicles", Chapter:24, Verse:9, Page:1,
-    Kor:"유다와 예루살렘에 선포하여, 하나님의 종 모세가 광야에서 이스라엘이 바치도록 정한 세금을 주님께 드리도록 하였다.",
+    Kor:"유다와 예루살렘에 선포하여, 하나님의 종 모세가 광야에서 이스라엘이 바치도록 정한 세금을 주께 드리도록 하였다.",
     Chn:"又通告犹大和耶路撒冷的百姓，要将　神仆人摩西在旷野所吩咐以色列人的捐项给耶和华送来。",
     Eng:"A proclamation was then issued in Judah and Jerusalem that they should bring to the LORD the tax that Moses the servant of God had required of Israel in the desert.",
     Ind:"lalu menyuruh mengumumkan di Yehuda dan di Yerusalem, bahwa orang harus membawa bagi TUHAN pajak yang dikenakan Musa, hamba Allah itu, kepada orang Israel di padang gurun."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Setiap kali peti itu dibawa masuk untuk diperiksa oleh orang-orang Lewi atas nama raja, dan apabila mereka melihat bahwa sudah banyak uang di dalamnya, maka datanglah panitera raja dan kuasa usaha imam kepala mengeluarkan isi peti itu; kemudian mereka mengangkat peti itu, lalu menaruhnya pula di tempatnya. Demikianlah mereka lakukan setiap kali, dan banyaklah uang yang dikumpulkan."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:12, Page:1,
-    Kor:"○왕과 여호야다가 그 돈을 주님의 성전 공사 감독관들에게 넘겨 주면, 그들은 주님의 성전을 새롭게 단장할 석수와 목수를 고용하고, 주님의 성전을 보수할 기능공들, 곧 쇠나 놋쇠를 다룰 기술자들도 고용하였다.",
+    Kor:"○왕과 여호야다가 그 돈을 주의 성전 공사 감독관들에게 넘겨 주면, 그들은 주의 성전을 새롭게 단장할 석수와 목수를 고용하고, 주의 성전을 보수할 기능공들, 곧 쇠나 놋쇠를 다룰 기술자들도 고용하였다.",
     Chn:"王与耶何耶大将银子交给耶和华殿里办事的人，他们就雇了石匠、木匠重修耶和华的殿，又雇了铁匠、铜匠修理耶和华的殿。",
     Eng:"The king and Jehoiada gave it to the men who carried out the work required for the temple of the LORD. They hired masons and carpenters to restore the LORD'S temple, and also workers in iron and bronze to repair the temple.",
     Ind:"Raja dan Yoyada menyerahkan uang itu kepada mereka yang memanduri pekerjaan pada rumah TUHAN. Mereka ini mengupah tukang-tukang pahat dan tukang-tukang kayu untuk membaharui rumah TUHAN; juga tukang-tukang besi dan tembaga untuk memperbaiki rumah TUHAN."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:13, Page:1,
-    Kor:"○일을 맡은 사람들이 부지런히 일을 하는데다가, 그들이 하는 일마저도 잘 진전이 되어서, 주님의 성전은 본래의 설계대로 견고하게 세워졌다.",
+    Kor:"○일을 맡은 사람들이 부지런히 일을 하는 데다가, 그들이 하는 일마저도 잘 진전이 되어서, 주의 성전은 본래의 설계대로 견고하게 세워졌다.",
     Chn:"工人操作，渐渐修成，将　神殿修造得与从前一样，而且甚是坚固。",
     Eng:"The men in charge of the work were diligent, and the repairs progressed under them. They rebuilt the temple of God according to its original design and reinforced it.",
     Ind:"Setelah itu mulailah tukang-tukang itu bekerja; pekerjaan perbaikan maju di bawah tangan mereka. Mereka membangun kembali rumah Allah menurut keadaannya semula dan mengokohkannya."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:14, Page:1,
-    Kor:"공사를 맡은 사람들이 공사를 마친 뒤에, 남은 돈을 왕과 여호야다에게 가져 오니, 왕이 그것으로 주님의 성전에서 쓸 기구, 곧 예배 때에 쓸 기구와, 번제를 드릴 때에 쓸 기구와, 숟가락과 금그릇이나 은그릇을 마련하게 하였다. <여호야다의 정책이 뒤집히다> ○여호야다가 살아 있는 동안에는 주님의 성전에서 번제를 드리는 일이 끊이지 않았다.",
+    Kor:"공사를 맡은 사람들이 공사를 마친 뒤에, 남은 돈을 왕과 여호야다에게 가져 오니, 왕이 그것으로 주의 성전에서 쓸 기구, 곧 예배 때에 쓸 기구와, 번제를 드릴 때에 쓸 기구와, 숟가락과 금그릇이나 은그릇을 마련하게 하였다. ○여호야다가 살아 있는 동안에는 주의 성전에서 번제를 드리는 일이 끊이지 않았다.",
     Chn:"工程完了，他们就把其余的银子拿到王与耶何耶大面前，用以制造耶和华殿供奉所用的器皿和调羹，并金银的器皿。 耶何耶大在世的时候，众人常在耶和华殿里献燔祭。",
     Eng:"When they had finished, they brought the rest of the money to the king and Jehoiada, and with it were made articles for the LORD'S temple: articles for the service and for the burnt offerings, and also dishes and other objects of gold and silver. As long as Jehoiada lived, burnt offerings were presented continually in the temple of the LORD.",
     Ind:"Setelah mereka selesai, mereka membawa uang yang kelebihan kepada raja dan Yoyada. Uang itu dipakai untuk membuat perkakas-perkakas rumah TUHAN, yakni: perkakas-perkakas untuk penyelenggaraan kebaktian, perkakas-perkakas untuk korban bakaran, juga cawan-cawan dan perkakas-perkakas emas dan perak. Sepanjang umur Yoyada korban bakaran tetap dipersembahkan dalam rumah TUHAN."
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Mereka meninggalkan rumah TUHAN, Allah nenek moyang mereka, lalu beribadah kepada tiang-tiang berhala dan patung-patung berhala. Oleh karena kesalahan itu Yehuda dan Yerusalem tertimpa murka."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:19, Page:1,
-    Kor:"주님께서는 백성을 주님께로 돌이키도록 경고하시려고 예언자들을 보내셨지만, 백성은 예언자의 말 듣기를 거절하였다.",
+    Kor:"주께서는 백성을 주께로 돌이키도록 경고하시려고 예언자들을 보내셨지만, 백성은 예언자의 말 듣기를 거절하였다.",
     Chn:"但　神仍遣先知到他们那里，引导他们归向耶和华。这先知警戒他们，他们却不肯听。",
     Eng:"Although the LORD sent prophets to the people to bring them back to him, and though they testified against them, they would not listen.",
     Ind:"Namun TUHAN mengutus nabi-nabi kepada mereka, supaya mereka berbalik kepada-Nya. Nabi-nabi itu sungguh-sungguh memperingatkan mereka, tetapi mereka tidak mau mendengarkannya."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:20, Page:1,
-    Kor:"여호야다 제사장의 아들 스가랴가 하나님의 영에 감동이 되어, 백성 앞에 나서서 말하였다. \"나 하나님이 말한다. 어찌하여 너희가 주님의 명을 거역하느냐? 너희가 형통하지 못할 것이다. 너희가 주님을 버렸으니, 주님께서도 너희를 버리셨다.\"",
+    Kor:"여호야다 제사장의 아들 스가랴가 하나님의 영에 감동이 되어, 백성 앞에 나서서 말하였다. \"나 하나님이 말한다. 어찌하여 너희가 주의 명을 거역하느냐? 너희가 형통하지 못할 것이다. 너희가 주를 버렸으니, 주께서도 너희를 버리셨다.\"",
     Chn:"那时，　神的灵感动祭司耶何耶大的儿子撒迦利亚，他就站在上面对民说：「　神如此说：你们为何干犯耶和华的诫命，以致不得亨通呢？因为你们离弃耶和华，所以他也离弃你们。」",
     Eng:"Then the Spirit of God came upon Zechariah son of Jehoiada the priest. He stood before the people and said, \"This is what God says: 'Why do you disobey the LORD'S commands? You will not prosper. Because you have forsaken the LORD, he has forsaken you.'\"",
     Ind:"Lalu Roh Allah menguasai Zakharia, anak imam Yoyada. Ia tampil di depan rakyat, dan berkata kepada mereka: \"Beginilah firman Allah: Mengapa kamu melanggar perintah-perintah TUHAN, sehingga kamu tidak beruntung? Oleh karena kamu meninggalkan TUHAN, Iapun meninggalkan kamu!\""
   },
   {Bible:"2Chronicles", Chapter:24, Verse:21, Page:1,
-    Kor:"그러나 사람들은 그를 없앨 음모를 꾸몄고, 드디어 왕의 명령에 따라, 주님의 성전 뜰에서 그를 돌로 쳐죽였다.",
+    Kor:"그러나 사람들은 그를 없앨 음모를 꾸몄고, 드디어 왕의 명령에 따라, 주의 성전 뜰에서 그를 돌로 쳐죽였다.",
     Chn:"众民同心谋害撒迦利亚，就照王的吩咐，在耶和华殿的院内用石头打死他。",
     Eng:"But they plotted against him, and by order of the king they stoned him to death in the courtyard of the LORD'S temple.",
     Ind:"Tetapi mereka mengadakan persepakatan terhadap dia, dan atas perintah raja mereka melontari dia dengan batu di pelataran rumah TUHAN."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:22, Page:1,
-    Kor:"이렇듯 요아스 왕은, 스가랴의 아버지 여호야다가 자기에게 보인 그 충성을 생각하지 않고, 그의 아들을 죽였다. 스가랴는 죽으면서 \"주님께서 이 일을 굽어 보시고, 갚아 주십시오\" 하고 외쳤다.",
+    Kor:"이렇듯 요아스 왕은, 스가랴의 아버지 여호야다가 자기에게 보인 그 충성을 생각하지 않고, 그의 아들을 죽였다. 스가랴는 죽으면서 \"주께서 이 일을 굽어 보시고, 갚아 주십시오\" 하고 외쳤다.",
     Chn:"这样，约阿施王不想念撒迦利亚的父亲耶何耶大向自己所施的恩，杀了他的儿子。撒迦利亚临死的时候说：「愿耶和华鉴察伸冤！」",
     Eng:"King Joash did not remember the kindness Zechariah's father Jehoiada had shown him but killed his son, who said as he lay dying, \"May the LORD see this and call you to account.\"",
     Ind:"Raja Yoas tidak mengingat kesetiaan yang ditunjukkan Yoyada, ayah Zakharia itu, terhadap dirinya. Ia membunuh anak Yoyada itu, yang pada saat kematiannya berseru: \"Semoga TUHAN melihatnya dan menuntut balas!\""
   },
   {Bible:"2Chronicles", Chapter:24, Verse:23, Page:1,
-    Kor:"<요아스의 통치가 끝남> ○a해가 바뀔 무렵에, 시리아 군대가 요아스를 치러 진군하였다. 그들은 유다와 예루살렘을 점령하고, 백성의 지도자들을 죽이고, 노략한 물건은 다마스쿠스에 있는 자기들의 왕에게로 보냈다.(a 아마도 봄)",
+    Kor:"○해가 바뀔 무렵에, 시리아 군대가 요아스를 치러 진군하였다. 그들은 유다와 예루살렘을 점령하고, 백성의 지도자들을 죽이고, 노략한 물건은 다마스쿠스에 있는 자기들의 왕에게로 보냈다.",
     Chn:"满了一年，亚兰的军兵上来攻击约阿施，来到犹大和耶路撒冷，杀了民中的众首领，将所掠的财货送到大马士革王那里。",
     Eng:"At the turn of the year, the army of Aram marched against Joash; it invaded Judah and Jerusalem and killed all the leaders of the people. They sent all the plunder to their king in Damascus.",
     Ind:"Pada pergantian tahun tentara Aram maju menyerang Yoas dan masuk ke Yehuda dan Yerusalem. Dari bangsa itu semua pemimpin habis dibunuh mereka dan segala jarahan dikirim mereka kepada raja negeri Damsyik."
   },
   {Bible:"2Chronicles", Chapter:24, Verse:24, Page:1,
-    Kor:"시리아 군대는 수가 얼마 되지 않았다. 그러나 주님께서는 유다 백성이 주 조상의 하나님을 버린 것을 못마땅하게 여기셔서, 그 적은 수의 시리아 군대가 유다의 대군과 싸워 이기게 하셨다. 이렇게 요아스에게 심판이 내렸던 것이다.",
+    Kor:"시리아 군대는 수가 얼마 되지 않았다. 그러나 주께서는 유다 백성이 주 조상의 하나님을 버린 것을 못마땅하게 여기셔서, 그 적은 수의 시리아 군대가 유다의 대군과 싸워 이기게 하셨다. 이렇게 요아스에게 심판이 내렸던 것이다.",
     Chn:"亚兰的军兵虽来了一小队，耶和华却将大队的军兵交在他们手里，是因犹大人离弃耶和华—他们列祖的　神，所以借亚兰人惩罚约阿施。",
     Eng:"Although the Aramean army had come with only a few men, the LORD delivered into their hands a much larger army. Because Judah had forsaken the LORD, the God of their fathers, judgment was executed on Joash.",
     Ind:"Walaupun tentara Aram itu datang dengan sedikit orang, namun TUHAN menyerahkan tentara yang sangat besar kepada mereka, karena orang Yehuda telah meninggalkan TUHAN, Allah nenek moyang mereka. Demikianlah orang Aram melakukan penghukuman kepada Yoas."

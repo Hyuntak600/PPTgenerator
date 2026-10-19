@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",1,31);
 BibleDB.add([
   {Bible:"Genesis", Chapter:1, Verse:1, Page:1,
-    Kor:"<천지창조> a태초에 하나님이 천지를 창조하셨다.(a 또는 '태초에 하나님이 천지를 창조하실 때에' 또는 '하나님이 천지를 창조하기 시작하셨을 때에')",
+    Kor:"태초에 하나님이 천지를 창조하셨다.",
     Chn:"起初，　神创造天地。",
     Eng:"In the beginning God created the heavens and the earth.",
     Ind:"Pada mulanya Allah menciptakan langit dan bumi."
   },
   {Bible:"Genesis", Chapter:1, Verse:2, Page:1,
-    Kor:"땅이 혼돈하고 공허하며, 어둠이 깊음 위에 있고, b하나님의 영은 물 위에 움직이고 계셨다.(b 또는 '하나님의 바람' 또는 '강한 바람')",
+    Kor:"땅이 혼돈하고 공허하며, 어둠이 깊음 위에 있고, 하나님의 영은 물 위에 움직이고 계셨다.",
     Chn:"地是空虚混沌，渊面黑暗；　神的灵运行在水面上。",
     Eng:"Now the earth was formless and empty, darkness was over the surface of the deep, and the  Spirit of God was hovering over the waters.",
     Ind:"Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Allah menjadikan segala jenis binatang liar dan segala jenis ternak dan segala jenis binatang melata di muka bumi. Allah melihat bahwa semuanya itu baik."
   },
   {Bible:"Genesis", Chapter:1, Verse:26, Page:1,
-    Kor:"○하나님이 말씀하시기를 \"우리가 우리의 형상을 따라서, 우리의 모양대로 c사람을 만들자. 그리고 그가, 바다의 고기와 공중의 새와 땅 위에 사는 온갖 들짐승과 땅 위를 기어다니는 모든 길짐승을 다스리게 하자\" 하시고,(c 히, '아담')",
+    Kor:"○하나님이 말씀하시기를 \"우리가 우리의 형상을 따라서, 우리의 모양대로 사람을 만들자. 그리고 그가, 바다의 고기와 공중의 새와 땅 위에 사는 온갖 들짐승과 땅 위를 기어다니는 모든 길짐승을 다스리게 하자\" 하시고,",
     Chn:"神说：「我们要照着我们的形象、按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜，和全地，并地上所爬的一切昆虫。」",
     Eng:"Then God said, \"Let us make man in our image, in our likeness, and let them rule over the  fish of the sea and the birds of the air, over the livestock, over all the earth, and over all  the creatures that move along the ground.\"",
     Ind:"Berfirmanlah Allah: \"Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.\""
   },
   {Bible:"Genesis", Chapter:1, Verse:27, Page:1,
-    Kor:"하나님이 당신의 형상대로 c사람을 창조하셨으니, 곧 하나님의 형상대로 사람을 창조하셨다. 하나님이 그들을 남자와 여자로 창조하셨다.",
+    Kor:"하나님이 당신의 형상대로 사람을 창조하셨으니, 곧 하나님의 형상대로 사람을 창조하셨다. 하나님이 그들을 남자와 여자로 창조하셨다.",
     Chn:"神就照着自己的形象造人，乃是照着他的形象造男造女。",
     Eng:"So God created man in his own image, in the image of God he created him; male and female he  created them.",
     Ind:"Maka Allah menciptakan manusia itu menurut gambar-Nya, menurut gambar Allah diciptakan-Nya dia; laki-laki dan perempuan diciptakan-Nya mereka."
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Allah memberkati mereka, lalu Allah berfirman kepada mereka: \"Beranakcuculah dan bertambah banyak; penuhilah bumi dan taklukkanlah itu, berkuasalah atas ikan-ikan di laut dan burung-burung di udara dan atas segala binatang yang merayap di bumi.\""
   },
   {Bible:"Genesis", Chapter:1, Verse:29, Page:1,
-    Kor:"하나님이 말씀하시기를 \"내가 온 땅 위에 있는 씨 맺는 모든 채소와 씨 있는 열매를 맺는 모든 나무를 너희에게 준다. 이것들이 너희의 먹거리가 될 것이다.",
+    Kor:"하나님이 말씀하시기를 \"내가 온 땅 위에 있는 씨 맺는 모든 채소와 씨 있는 열매를 맺는 모든 나무를 너희에게 준다. 이것들이 너희의 먹을거리가 될 것이다.",
     Chn:"神说：「看哪，我将遍地上一切结种子的菜蔬和一切树上所结有核的果子全赐给你们作食物。",
     Eng:"Then God said, \"I give you every seed-bearing plant on the face of the whole earth and every  tree that has fruit with seed in it. They will be yours for food.",
     Ind:"Berfirmanlah Allah: \"Lihatlah, Aku memberikan kepadamu segala tumbuh-tumbuhan yang berbiji di seluruh bumi dan segala pohon-pohonan yang buahnya berbiji; itulah akan menjadi makananmu."
   },
   {Bible:"Genesis", Chapter:1, Verse:30, Page:1,
-    Kor:"또 땅의 모든 짐승과 공중의 모든 새와 땅 위에 사는 모든 것, 곧 생명을 지닌 모든 것에게도 모든 푸른 풀을 먹거리로 준다\" 하시니, 그대로 되었다.",
+    Kor:"또 땅의 모든 짐승과 공중의 모든 새와 땅 위에 사는 모든 것, 곧 생명을 지닌 모든 것에게도 모든 푸른 풀을 먹을거리로 준다\" 하시니, 그대로 되었다.",
     Chn:"至于地上的走兽和空中的飞鸟，并各样爬在地上有生命的物，我将青草赐给它们作食物。」事就这样成了。",
     Eng:"And to all the beasts of the earth and all the birds of the air and all the creatures that  move on the ground--everything that has the breath of life in it--I give every green plant for  food.\" And it was so.",
     Ind:"Tetapi kepada segala binatang di bumi dan segala burung di udara dan segala yang merayap di bumi, yang bernyawa, Kuberikan segala tumbuh-tumbuhan hijau menjadi makanannya.\" Dan jadilah demikian."

@@ -3,31 +3,31 @@
 BibleDB.ref("Jeremiah",12,17);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:12, Verse:1, Page:1,
-    Kor:"<예레미야의 질문> 주님, 제가 주님과 변론할 때마다, 언제나 주님이 옳으셨습니다. 그러므로 주님께 공정성 문제 한 가지를 여쭙겠습니다. 어찌하여 악인들이 형통하며, 배신자들이 모두 잘 되기만 합니까?",
+    Kor:"주님, 내가 주님과 변론할 때마다, 언제나 주님이 옳으셨습니다. 그러므로 주께 공정성 문제 한 가지를 여쭙겠습니다. 어찌하여 악인들이 형통하며, 배신자들이 모두 잘 되기만 합니까?",
     Chn:"耶和华啊，我与你争辩的时候， 你显为义； 但有一件，我还要与你理论： 恶人的道路为何亨通呢？ 大行诡诈的为何得安逸呢？",
     Eng:"You are always righteous, O LORD, when I bring a case before you. Yet I would speak with you about your justice: Why does the way of the wicked prosper? Why do all the faithless live at ease?",
     Ind:"Engkau memang benar, ya TUHAN, bilamana aku berbantah dengan Engkau! Tetapi aku mau berbicara dengan Engkau tentang keadilan: Mengapakah mujur hidup orang-orang fasik, sentosa semua orang yang berlaku tidak setia?"
   },
   {Bible:"Jeremiah", Chapter:12, Verse:2, Page:1,
-    Kor:"주님께서 그들을, 나무를 심듯이 심으셨으므로, 뿌리를 내리고 자라며, 열매도 맺으나, 말로만 주님과 가까울 뿐, 속으로는 주님과 멀리 떨어져 있습니다.",
+    Kor:"주께서 그들을, 나무를 심듯이 심으셨으므로, 뿌리를 내리고 자라며, 열매도 맺으나, 말로만 주님과 가까울 뿐, 속으로는 주님과 멀리 떨어져 있습니다.",
     Chn:"你栽培了他们， 他们也扎了根， 长大，而且结果。 他们的口是与你相近， 心却与你远离。",
     Eng:"You have planted them, and they have taken root; they grow and bear fruit. You are always on their lips but far from their hearts.",
     Ind:"Engkau membuat mereka tumbuh, dan merekapun juga berakar, mereka tumbuh subur dan menghasilkan buah juga. Memang selalu Engkau di mulut mereka, tetapi jauh dari hati mereka."
   },
   {Bible:"Jeremiah", Chapter:12, Verse:3, Page:1,
-    Kor:"그러나 주님, 주님께서는 저를 아십니다. 주님은 저의 속을 들여다보시고, 저의 마음이 주님과 함께 있음을 감찰하여 알고 계십니다. 그러므로 그들을 도살할 양처럼 끌어내시고, 죽일 날을 정하셔서 따로 갈라내 두십시오.",
+    Kor:"그러나 주님, 주께서는 나를 아십니다. 주님은 나의 속을 들여다보시고, 나의 마음이 주님과 함께 있음을 감찰하여 알고 계십니다. 그러므로 그들을 도살할 양처럼 끌어내시고, 죽일 날을 정하셔서 따로 갈라내 두십시오.",
     Chn:"耶和华啊，你晓得我，看见我， 察验我向你是怎样的心。 求你将他们拉出来， 好像将宰的羊， 叫他们等候杀戮的日子。",
     Eng:"Yet you know me, O LORD; you see me and test my thoughts about you. Drag them off like sheep to be butchered! Set them apart for the day of slaughter!",
     Ind:"Ya TUHAN, Engkau mengenal aku, Engkau melihat aku, dan Engkau menguji bagaimana hatiku terhadap Engkau. Tariklah mereka ke luar seperti domba-domba sembelihan, dan khususkanlah mereka untuk hari penyembelihan. --"
   },
   {Bible:"Jeremiah", Chapter:12, Verse:4, Page:1,
-    Kor:"이 땅이 언제까지 a슬퍼하며, 들녘의 모든 풀이 말라 죽어야 합니까? 이 땅에 사는 사람의 죄악 때문에, 짐승과 새도 씨가 마르게 되었습니다. 사람들은 자기들이 무슨 일을 하든지, 하나님께서 내려다보시지 않는다고 말하고 있습니다. (a 또는 '마르며')",
+    Kor:"이 땅이 언제까지 슬퍼하며, 들녘의 모든 풀이 말라 죽어야 합니까? 이 땅에 사는 사람의 죄악 때문에, 짐승과 새도 씨가 마르게 되었습니다. 사람들은 자기들이 무슨 일을 하든지, 하나님께서 내려다보시지 않는다고 말하고 있습니다.",
     Chn:"这地悲哀， 通国的青草枯干，要到几时呢？ 因其上居民的恶行， 牲畜和飞鸟都灭绝了。 他们曾说：他看不见我们的结局。",
     Eng:"How long will the land lie parched and the grass in every field be withered? Because those who live in it are wicked, the animals and birds have perished. Moreover, the people are saying, \"He will not see what happens to us.\"",
     Ind:"Berapa lama lagi negeri ini menjadi kering, dan rumput di segenap padang menjadi layu? Karena kejahatan penduduknya binatang-binatang dan burung-burung habis lenyap, sebab mereka telah mengira: \"Ia tidak akan melihat tingkah langkah kita!\""
   },
   {Bible:"Jeremiah", Chapter:12, Verse:5, Page:1,
-    Kor:"<주님의 대답> \"네가 사람과 달리기를 해도 피곤하면, 어떻게 말과 달리기를 하겠느냐? b네가 조용한 땅에서만 안전하게 살 수 있다면, 요단 강의 창일한 물 속에서는 어찌하겠느냐? (b 또는 '네가 안전한 땅에서도 비틀거린다면')",
+    Kor:"\"네가 사람과 달리기를 해도 피곤하면, 어떻게 말과 달리기를 하겠느냐? 네가 조용한 땅에서만 안전하게 살 수 있다면, 요단 강의 창일한 물 속에서는 어찌하겠느냐?",
     Chn:"耶和华说：你若与步行的人同跑， 尚且觉累， 怎能与马赛跑呢？ 你在平安之地，虽然安稳， 在约旦河边的丛林要怎样行呢？",
     Eng:"\"If you have raced with men on foot and they have worn you out, how can you compete with horses? If you stumble in safe country, how will you manage in the thickets by the Jordan?",
     Ind:"\"Jika engkau telah berlari dengan orang berjalan kaki, dan engkau telah dilelahkan, bagaimanakah engkau hendak berpacu melawan kuda? Dan jika di negeri yang damai engkau tidak merasa tenteram, apakah yang akan engkau perbuat di hutan belukar sungai Yordan?"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sebab saudara-saudaramu dan kaum keluargamu, mereka sendiri juga berbuat khianat terhadap engkau; mereka juga bersama-sama di belakangmu. Janganlah percaya kepada mereka, sekalipun mereka berkata manis kepadamu!"
   },
   {Bible:"Jeremiah", Chapter:12, Verse:7, Page:1,
-    Kor:"<주님의 슬픔> \"나는 내 집을 버렸다. 내 소유로 택한 내 백성을 포기하였다. 내가 진정으로 사랑한 백성을 바로 그들의 원수에게 넘겨 주었다.",
+    Kor:"\"나는 내 집을 버렸다. 내 소유로 택한 내 백성을 포기하였다. 내가 진정으로 사랑한 백성을 바로 그들의 원수에게 넘겨 주었다.",
     Chn:"我离了我的殿宇， 撇弃我的产业， 将我心里所亲爱的交在她仇敌的手中。",
     Eng:"\"I will forsake my house, abandon my inheritance; I will give the one I love into the hands of her enemies.",
     Ind:"Aku telah meninggalkan kediaman-Ku, telah membuangkan negeri milik-Ku; Aku telah menyerahkan buah hati-Ku ke dalam tangan musuhnya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Mereka telah menabur gandum, tetapi yang dituai adalah semak duri; mereka telah bersusah payah, tetapi usaha mereka tidak berguna; mereka malu karena hasil yang diperoleh mereka, akibat dari murka TUHAN yang menyala-nyala.\""
   },
   {Bible:"Jeremiah", Chapter:12, Verse:14, Page:1,
-    Kor:"<주님께서 유다의 이웃 백성에게 하신 약속> ○\"나 주가 말한다. 내가 내 백성 이스라엘에게 유산으로 준 땅을 침범한, 모든 악한 이웃 백성을 두고 말한다. 내가 그 악한 백성들을 그들의 고향 땅에서 쫓아내고, 유다 백성을 그들 가운데서 구하여 내겠다.",
+    Kor:"○\"나 주가 이렇게 말한다. 내가 내 백성 이스라엘에게 유산으로 준 땅을 침범한, 모든 악한 이웃 백성을 두고 말한다. 내가 그 악한 백성들을 그들의 고향 땅에서 쫓아내고, 유다 백성을 그들 가운데서 구하여 내겠다.",
     Chn:"耶和华如此说：「一切恶邻，就是占据我使百姓以色列所承受产业的，我要将他们拔出本地，又要将犹大家从他们中间拔出来。",
     Eng:"This is what the LORD says: \"As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the house of Judah from among them.",
     Ind:"Beginilah firman TUHAN: \"Mengenai sekalian tetangga-Ku yang jahat yang telah mengusik negeri yang telah Kuberikan sebagai milik pusaka kepada umat-Ku Israel, bahwasanya Aku akan mencabut mereka dari tanah mereka dan Aku mencabut kaum Yehuda dari tengah-tengah mereka."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi setelah Aku mencabut mereka, maka Aku akan menyayangi mereka kembali. Aku akan mengembalikan mereka masing-masing ke milik pusakanya dan masing-masing ke negerinya."
   },
   {Bible:"Jeremiah", Chapter:12, Verse:16, Page:1,
-    Kor:"비록 그들이 내 백성에게, 바알의 이름을 부르며 맹세하도록 가르쳤지만, 그들이 내 백성의 도를 확실하게 배우고, 내 이름을 부르며 '주님의 살아 계심을 두고' 맹세하면, 그들도 내 백성 가운데 들게 될 것이다.",
+    Kor:"비록 그들이 내 백성에게, 바알의 이름을 부르며 맹세하도록 가르쳤지만, 그들이 내 백성의 도를 확실하게 배우고, 내 이름을 부르며 '주의 살아 계심을 두고' 맹세하면, 그들도 내 백성 가운데 들게 될 것이다.",
     Chn:"他们若殷勤学习我百姓的道，指着我的名起誓说：『我指着永生的耶和华起誓』，正如他们从前教我百姓指着巴力起誓，他们就必建立在我百姓中间。",
     Eng:"And if they learn well the ways of my people and swear by my name, saying, 'As surely as the LORD lives'--even as they once taught my people to swear by Baal--then they will be established among my people.",
     Ind:"Dan jika mereka sungguh-sungguh belajar cara hidup umat-Ku sehingga bersumpah demi nama-Ku: Demi TUHAN yang hidup, seperti tadinya mereka mengajar umat-Ku untuk bersumpah demi Baal, maka mereka akan dibangun di tengah-tengah umat-Ku."

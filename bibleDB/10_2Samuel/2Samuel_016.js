@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",16,23);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:16, Verse:1, Page:1,
-    Kor:"<다윗과 시바> 다윗이 산꼭대기에서 떠난 지 얼마 안 되어서, 므비보셋의 하인 시바가 와서 그를 맞이하였다. 시바는 나귀 두 마리에 안장을 얹고, 그 위에다가는 빵 이백 개와 건포도 뭉치 백 덩이와 여름 과일 백 개와 포도주 한 가죽부대를 싣고 왔다.",
+    Kor:"다윗이 산꼭대기에서 떠난 지 얼마 안 되어서, 므비보셋의 하인 시바가 와서 그를 맞이하였다. 시바는 나귀 두 마리에 안장을 얹고, 그 위에다가는 빵 이백 개와 건포도 뭉치 백 덩이와 여름 과일 백 개와 포도주 한 가죽부대를 싣고 왔다.",
     Chn:"大卫刚过山顶，见米非波设的仆人洗巴拉着备好了的两匹驴，驴上驮着二百面饼，一百葡萄饼，一百个夏天的果饼，一皮袋酒来迎接他。",
     Eng:"When David had gone a short distance beyond the summit, there was Ziba, the steward of Mephibosheth, waiting to meet him. He had a string of donkeys saddled and loaded with two hundred loaves of bread, a hundred cakes of raisins, a hundred cakes of figs and a skin of wine.",
     Ind:"Ketika Daud baru saja melewati puncak, datanglah Ziba, hamba Mefiboset, mendapatkan dia membawa sepasang keledai yang berpelana, dengan muatan dua ratus ketul roti, seratus buah kue kismis, seratus buah-buahan musim panas dan sebuyung anggur."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah raja kepada Ziba: \"Kalau begitu, kepunyaanmulah segala kepunyaan Mefiboset.\" Kata Ziba: \"Aku tunduk! Biarlah kiranya aku tetap mendapat kasih di matamu, ya tuanku raja.\""
   },
   {Bible:"2Samuel", Chapter:16, Verse:5, Page:1,
-    Kor:"<다윗과 시므이> ○다윗 왕이 바후림 마을에 가까이 이르렀을 때에, 갑자기 어떤 사람이 그 마을에서 나왔는데, 그는 사울 집안의 친척인 게라의 아들로서, 이름은 시므이였다. 그는 거기에서 나오면서, 줄곧 저주를 퍼부었다.",
+    Kor:"○다윗 왕이 바후림 마을에 가까이 이르렀을 때에, 갑자기 어떤 사람이 그 마을에서 나왔는데, 그는 사울 집안의 친척인 게라의 아들로서, 이름은 시므이였다. 그는 거기에서 나오면서, 줄곧 저주를 퍼부었다.",
     Chn:"大卫王到了巴户琳，见有一个人出来，是扫罗族基拉的儿子，名叫示每。他一面走一面咒骂，",
     Eng:"As King David approached Bahurim, a man from the same clan as Saul's family came out from there. His name was Shimei son of Gera, and he cursed as he came out.",
     Ind:"Ketika raja Daud telah sampai ke Bahurim, keluarlah dari sana seorang dari kaum keluarga Saul; ia bernama Simei bin Gera. Sambil mendekati raja, ia terus-menerus mengutuk."
@@ -45,31 +45,31 @@ BibleDB.add([
     Ind:"Beginilah perkataan Simei pada waktu ia mengutuk: \"Enyahlah, enyahlah, engkau penumpah darah, orang dursila!"
   },
   {Bible:"2Samuel", Chapter:16, Verse:8, Page:1,
-    Kor:"네가 사울의 집안사람을 다 죽이고, 그의 나라를 차지하였으나, 이제는 주님께서 그 피 값을 모두 너에게 갚으신다. 이제는 주님께서 이 나라를 너의 아들 압살롬의 손에 넘겨 주셨다. 이런 형벌은 너와 같은 살인자가 마땅히 받아야 할 재앙이다.\"",
+    Kor:"네가 사울의 집안사람을 다 죽이고, 그의 나라를 차지하였으나, 이제는 주께서 그 피 값을 모두 너에게 갚으신다. 이제는 주께서 이 나라를 너의 아들 압살롬의 손에 넘겨 주셨다. 이런 형벌은 너와 같은 살인자가 마땅히 받아야 할 재앙이다.\"",
     Chn:"你流扫罗全家的血，接续他作王；耶和华把这罪归在你身上，将这国交给你儿子押沙龙。现在你自取其祸，因为你是流人血的人。」",
     Eng:"The LORD has repaid you for all the blood you shed in the household of Saul, in whose place you have reigned. The LORD has handed the kingdom over to your son Absalom. You have come to ruin because you are a man of blood!\"",
     Ind:"TUHAN telah membalas kepadamu segala darah keluarga Saul, yang engkau gantikan menjadi raja, TUHAN telah menyerahkan kedudukan raja kepada anakmu Absalom. Sesungguhnya, engkau sekarang dirundung malang, karena engkau seorang penumpah darah.\""
   },
   {Bible:"2Samuel", Chapter:16, Verse:9, Page:1,
-    Kor:"○그러자 스루야의 아들 아비새가 왕에게 아뢰었다. \"죽은 개가 높으신 임금님을 저주하는데, 어찌하여 그냥 보고만 계십니까? 제가 당장 건너가서 그의 머리를 잘라 버리겠습니다.\"",
+    Kor:"그러자 스루야의 아들 아비새가 왕에게 아뢰었다. \"죽은 개가 높으신 임금님을 저주하는데, 어찌하여 그냥 보고만 계십니까? 제가 당장 건너가서 그의 머리를 잘라 버리겠습니다.\"",
     Chn:"洗鲁雅的儿子亚比筛对王说：「这死狗岂可咒骂我主我王呢？求你容我过去，割下他的头来。」",
     Eng:"Then Abishai son of Zeruiah said to the king, \"Why should this dead dog curse my lord the king? Let me go over and cut off his head.\"",
     Ind:"Lalu berkatalah Abisai, anak Zeruya, kepada raja: \"Mengapa anjing mati ini mengutuki tuanku raja? Izinkanlah aku menyeberang dan memenggal kepalanya.\""
   },
   {Bible:"2Samuel", Chapter:16, Verse:10, Page:1,
-    Kor:"○왕은 대답하였다. \"스루야의 아들아, 나의 일에 너희가 왜 나서느냐? 주님께서 그에게, 다윗을 저주하라고 분부하셔서 그가 저주하는 것이라면, 그가 나를 저주한다고, 누가 그를 나무랄 수 있겠느냐?\"",
+    Kor:"○왕은 대답하였다. \"스루야의 아들아, 나의 일에 너희가 왜 나서느냐? 주께서 그에게, 다윗을 저주하라고 분부하셔서 그가 저주하는 것이라면, 그가 나를 저주한다고, 누가 그를 나무랄 수 있겠느냐?\"",
     Chn:"王说：「洗鲁雅的儿子，我与你们有何关涉呢？他咒骂是因耶和华吩咐他说：『你要咒骂大卫。』如此，谁敢说你为什么这样行呢？」",
     Eng:"But the king said, \"What do you and I have in common, you sons of Zeruiah? If he is cursing because the LORD said to him, 'Curse David,' who can ask, 'Why do you do this?'\"",
     Ind:"Tetapi kata raja: \"Apakah urusanku dengan kamu, hai anak-anak Zeruya? Biarlah ia mengutuk! Sebab apabila TUHAN berfirman kepadanya: Kutukilah Daud, siapakah yang akan bertanya: mengapa engkau berbuat demikian?\""
   },
   {Bible:"2Samuel", Chapter:16, Verse:11, Page:1,
-    Kor:"○그런 다음에 다윗이 아비새와 자기의 모든 신하에게 말하였다. \"생각하여 보시오. 나의 몸에서 태어난 자식도 나의 목숨을 노리고 있는데, 이러한 때에, 하물며 저 베냐민 사람이야 더 말해 무엇하겠소. 주님께서 그에게 그렇게 하라고 시키신 것이니, 그가 저주하게 내버려 두시오.",
+    Kor:"○그런 다음에, 다윗이 아비새와 자기의 모든 신하에게 말하였다. \"생각하여 보시오. 나의 몸에서 태어난 자식도 나의 목숨을 노리고 있는데, 이러한 때에, 하물며 저 베냐민 사람이야 더 말해 무엇하겠소. 주께서 그에게 그렇게 하라고 시키신 것이니, 그가 저주하게 내버려 두시오.",
     Chn:"大卫又对亚比筛和众臣仆说：「我亲生的儿子尚且寻索我的性命，何况这便雅悯人呢？由他咒骂吧！因为这是耶和华吩咐他的。",
     Eng:"David then said to Abishai and all his officials, \"My son, who is of my own flesh, is trying to take my life. How much more, then, this Benjamite! Leave him alone; let him curse, for the LORD has told him to.",
     Ind:"Pula kata Daud kepada Abisai dan kepada semua pegawainya: \"Sedangkan anak kandungku ingin mencabut nyawaku, terlebih lagi sekarang orang Benyamin ini! Biarkanlah dia dan biarlah ia mengutuk, sebab TUHAN yang telah berfirman kepadanya demikian."
   },
   {Bible:"2Samuel", Chapter:16, Verse:12, Page:1,
-    Kor:"혹시 주님께서 나의 이 비참한 모습을 보시고, 오늘 시므이가 한 저주 대신에 오히려 나에게 좋은 것으로 갚아 주실지, 누가 알겠소?\"",
+    Kor:"혹시 주께서 나의 이 비참한 모습을 보시고, 오늘 시므이가 한 저주 대신에, 오히려 나에게 좋은 것으로 갚아 주실지, 누가 알겠소?\"",
     Chn:"或者耶和华见我遭难，为我今日被这人咒骂，就施恩与我。」",
     Eng:"It may be that the LORD will see my distress and repay me with good for the cursing I am receiving today.\"",
     Ind:"Mungkin TUHAN akan memperhatikan kesengsaraanku ini dan TUHAN membalas yang baik kepadaku sebagai ganti kutuk orang itu pada hari ini.\""
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Demikianlah Daud melanjutkan perjalanannya dengan orang-orangnya, sedang Simei berjalan terus di lereng gunung bertentangan dengan dia dan sambil berjalan ia mengutuk, melemparinya dengan batu dan menimbulkan debu."
   },
   {Bible:"2Samuel", Chapter:16, Verse:14, Page:1,
-    Kor:"○왕과 그를 따르는 온 백성이 요단 강에 이르렀을 때에, 그들은 a매우 지쳤으므로, 거기에서 쉬면서, 기운을 되찾았다.(a 또는 '아예빔에 이르러')",
+    Kor:"○왕과 그를 따르는 온 백성이 요단 강에 이르렀을 때에, 그들은 매우 지쳤으므로, 거기에서 쉬면서, 기운을 되찾았다.",
     Chn:"王和跟随他的众人疲疲乏乏地到了一个地方，就在那里歇息歇息。",
     Eng:"The king and all the people with him arrived at their destination exhausted. And there he refreshed himself.",
     Ind:"Dengan lelah sampailah raja dan seluruh rakyat yang ada bersama-sama dengan dia ke Yordan, lalu mereka beristirahat di sana."
   },
   {Bible:"2Samuel", Chapter:16, Verse:15, Page:1,
-    Kor:"<압살롬의 입성과 후새의 위장 전향> ○압살롬은 그를 따르는 이스라엘 백성의 큰 무리를 거느리고 예루살렘으로 입성하였으며, 아히도벨도 그와 함께 들어왔다.",
+    Kor:"○압살롬은 그를 따르는 이스라엘 백성의 큰 무리를 거느리고 예루살렘으로 입성하였으며, 아히도벨도 그와 함께 들어왔다.",
     Chn:"押沙龙和以色列众人来到耶路撒冷；亚希多弗也与他同来。",
     Eng:"Meanwhile, Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him.",
     Ind:"Maka Absalom dan seluruh rakyat, orang-orang Israel, sampailah ke Yerusalem, dan Ahitofel ada bersama-sama dengan dia."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Berkatalah Absalom kepada Husai: \"Inikah kesetiaanmu kepada sahabatmu? Mengapa engkau tidak pergi menyertai sahabatmu itu?\""
   },
   {Bible:"2Samuel", Chapter:16, Verse:18, Page:1,
-    Kor:"후새가 압살롬에게 대답하였다. \"그렇지 않습니다. 오히려 저는, 주님께서 뽑으시고 이 백성과 온 이스라엘 사람이 뽑아 세운 분의 편이 되어서, 그분과 함께 지낼 작정입니다.",
+    Kor:"후새가 압살롬에게 대답하였다. \"그렇지 않습니다. 오히려 저는, 주께서 뽑으시고 이 백성과 온 이스라엘 사람이 뽑아 세운 분의 편이 되어서, 그분과 함께 지낼 작정입니다.",
     Chn:"户筛对押沙龙说：「不然，耶和华和这民，并以色列众人所拣选的，我必归顺他，与他同住。",
     Eng:"Hushai said to Absalom, \"No, the one chosen by the LORD, by these people, and by all the men of Israel--his I will be, and I will remain with him.",
     Ind:"Lalu berkatalah Husai kepada Absalom: \"Tidak, tetapi dia yang dipilih oleh TUHAN dan oleh rakyat ini dan oleh setiap orang Israel, dialah yang memiliki aku dan bersama-sama dengan dialah aku akan tinggal."

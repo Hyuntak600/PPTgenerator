@@ -1,15 +1,15 @@
 // 열왕기상 9장 · 1Kings 9
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("1Kings",9,28);
+BibleDB.ref("1Kings",9,30);
 BibleDB.add([
   {Bible:"1Kings", Chapter:9, Verse:1, Page:1,
-    Kor:"<하나님께서 솔로몬에게 다시 나타나시다> 솔로몬이 주님의 성전과 왕궁 짓는 일과, 자기가 이루고 싶어 한 모든 것을 끝마치니,",
+    Kor:"솔로몬이 주의 성전과 왕궁 짓는 일과, 자기가 이루고 싶어 한 모든 것을 끝마치니,",
     Chn:"所罗门建造耶和华殿和王宫，并一切所愿意建造的都完毕了，",
     Eng:"When Solomon had finished building the temple of the LORD and the royal palace, and had achieved all he had desired to do,",
     Ind:"Ketika Salomo selesai mendirikan rumah TUHAN dan istana raja dan membuat segala yang diinginkannya,"
   },
   {Bible:"1Kings", Chapter:9, Verse:2, Page:1,
-    Kor:"주님께서는, 기브온에서 나타나신 것과 같이, 두 번째로 솔로몬에게 나타나셔서,",
+    Kor:"주께서는, 기브온에서 나타나신 것과 같이, 두 번째로 솔로몬에게 나타나셔서,",
     Chn:"耶和华就二次向所罗门显现，如先前在基遍向他显现一样，",
     Eng:"the LORD appeared to him a second time, as he had appeared to him at Gibeon.",
     Ind:"maka TUHAN menampakkan diri kepada Salomo untuk kedua kalinya seperti Ia sudah menampakkan diri kepadanya di Gibeon."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"maka Aku akan meneguhkan takhta kerajaanmu atas Israel untuk selama-lamanya seperti yang telah Kujanjikan kepada Daud, ayahmu, dengan berkata: Keturunanmu takkan terputus dari takhta kerajaan Israel."
   },
   {Bible:"1Kings", Chapter:9, Verse:6, Page:1,
-    Kor:"그러나 a너와 네 자손이 나를 따르지 아니하고 등을 돌리거나, 내가 네게 일러준 내 계명과 율례를 지키지 아니하고, 곁길로 나아가서, 다른 신들을 섬겨 그들을 숭배하면,(a 히, '너희')",
+    Kor:"그러나 너와 네 자손이 나를 따르지 아니하고 등을 돌리거나, 내가 네게 일러준 내 계명과 율례를 지키지 아니하고, 곁길로 나아가서, 다른 신들을 섬겨 그들을 숭배하면,",
     Chn:"倘若你们和你们的子孙转去不跟从我，不守我指示你们的诫命律例，去事奉敬拜别神，",
     Eng:"\"But if you or your sons turn away from me and do not observe the commands and decrees I have given you and go off to serve other gods and worship them,",
     Ind:"Tetapi jika kamu ini dan anak-anakmu berbalik dari pada-Ku dan tidak berpegang pada segala perintah dan ketetapan-Ku yang telah Kuberikan kepadamu, dan pergi beribadah kepada allah lain dan sujud menyembah kepadanya,"
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"maka Aku akan melenyapkan orang Israel dari atas tanah yang telah Kuberikan kepada mereka, dan rumah yang telah Kukuduskan bagi nama-Ku itu, akan Kubuang dari hadapan-Ku, maka Israel akan menjadi kiasan dan sindiran di antara segala bangsa."
   },
   {Bible:"1Kings", Chapter:9, Verse:8, Page:1,
-    Kor:"이 성전이 한때 아무리 존귀하게 여김을 받았다고 하더라도, 이 곳을 지나가는 사람마다 놀랄 것이고 '어찌하여 주님께서 이 땅과 이 성전을 이렇게 되게 하셨을까?' 하고 탄식할 것이다.",
+    Kor:"이 성전이 한때 아무리 존귀하게 여김을 받았다고 하더라도, 이 곳을 지나가는 사람마다 놀랄 것이고 '어찌하여 주께서 이 땅과 이 성전을 이렇게 되게 하셨을까?' 하고 탄식할 것이다.",
     Chn:"这殿虽然甚高，将来经过的人必惊讶、嗤笑，说：『耶和华为何向这地和这殿如此行呢？』",
     Eng:"And though this temple is now imposing, all who pass by will be appalled and will scoff and say, 'Why has the LORD done such a thing to this land and to this temple?'",
     Ind:"Dan rumah ini akan menjadi reruntuhan, sehingga setiap orang yang lewat akan tertegun, bersuit, dan berkata: Apakah sebabnya TUHAN berbuat yang demikian kepada negeri ini dan kepada rumah ini?"
   },
   {Bible:"1Kings", Chapter:9, Verse:9, Page:1,
-    Kor:"그러면서 그들은 '이스라엘 백성이 자기들의 조상을 이집트 땅으로부터 이끌어 내신 주 그들의 하나님을 버리고, 다른 신들에게 미혹되어, 그 신들에게 절하여 그 신들을 섬겼으므로, 주님께서 이 온갖 재앙을 그들에게 내리셨다' 하고 말할 것이다.\"",
+    Kor:"그러면서 그들은 '이스라엘 백성이 자기들의 조상을 이집트 땅으로부터 이끌어 내신 주 그들의 하나님을 버리고, 다른 신들에게 미혹되어, 그 신들에게 절하여 그 신들을 섬겼으므로, 주께서 이 온갖 재앙을 그들에게 내리셨다' 하고 말할 것이다.\"",
     Chn:"人必回答说：『是因此地的人离弃领他们列祖出埃及地之耶和华—他们的　神，去亲近别神，事奉敬拜他，所以耶和华使这一切灾祸临到他们。』」",
     Eng:"People will answer, 'Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, worshiping and serving them--that is why the LORD brought all this disaster on them.'\"",
     Ind:"Maka orang akan berkata: Sebab mereka meninggalkan TUHAN, Allah mereka, yang membawa nenek moyang mereka keluar dari tanah Mesir dan sebab mereka berpegang pada allah lain dan sujud menyembah kepadanya dan beribadah kepadanya. Itulah sebabnya TUHAN mendatangkan segala malapetaka ini ke atas mereka.\""
   },
   {Bible:"1Kings", Chapter:9, Verse:10, Page:1,
-    Kor:"<솔로몬과 히람의 거래(대하 8:1-2)> ○솔로몬은, 주님의 성전과 왕궁, 이 두 건물을 다 짓는 데 스무 해가 걸렸다.",
+    Kor:"○솔로몬은, 주의 성전과 왕궁, 이 두 건물을 다 짓는 데 스무 해가 걸렸다.",
     Chn:"所罗门建造耶和华殿和王宫，这两所二十年才完毕了。",
     Eng:"At the end of twenty years, during which Solomon built these two buildings--the temple of the LORD and the royal palace--",
     Ind:"Setelah lewat dua puluh tahun selesailah Salomo mendirikan kedua rumah itu, yakni rumah TUHAN dan istana raja."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Tetapi ketika Hiram datang dari Tirus untuk melihat-lihat kota-kota yang diberikan Salomo kepadanya itu, maka semuanya kurang menyenangkan hatinya."
   },
   {Bible:"1Kings", Chapter:9, Verse:13, Page:1,
-    Kor:"\"나의 형제여, 그대가 나에게 준 성읍들이 겨우 이런 것들이오?\" 하고 말하였다. 그래서 오늘날까지 그 곳을 b가불의 땅이라고 한다.(b '쓸모 없는')",
+    Kor:"\"나의 형제여, 그대가 나에게 준 성읍들이 겨우 이런 것들이오?\" 하고 말하였다. 그래서 오늘날까지 그 곳을 가불의 땅이라고 한다.",
     Chn:"说：「我兄啊，你给我的是什么城邑呢？」他就给这城邑之地起名叫迦步勒，直到今日。",
     Eng:"\"What kind of towns are these you have given me, my brother?\" he asked. And he called them the Land of Cabul, a name they have to this day.",
     Ind:"Sebab itu ia berkata: \"Macam apakah kota-kota yang telah kauberikan kepadaku ini, hai saudaraku?\" Maka orang menyebutkannya tanah Kabul sampai hari ini."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Adapun Hiram telah mengirim kepada raja seratus dua puluh talenta emas."
   },
   {Bible:"1Kings", Chapter:9, Verse:15, Page:1,
-    Kor:"<솔로몬의 나머지 업적(대하 8:3-18)> ○솔로몬 왕이 강제 노역꾼을 동원할 수밖에 없었던 까닭은, 주님의 성전과 자기의 궁전과 밀로 궁과 예루살렘 성벽을 쌓고, 하솔과 므깃도와 게셀의 성을 재건하는 데, 필요하였기 때문이다.",
+    Kor:"○솔로몬 왕이 강제 노역꾼을 동원할 수밖에 없었던 까닭은, 주의 성전과 자기의 궁전과 밀로 궁과 예루살렘 성벽을 쌓고, 하솔과 므깃도와 게셀의 성을 재건하는 데, 필요하였기 때문이다.",
     Chn:"所罗门王挑取服苦的人，是为建造耶和华的殿、自己的宫、米罗、耶路撒冷的城墙、夏琐、米吉多，并基 色。",
     Eng:"Here is the account of the forced labor King Solomon conscripted to build the LORD'S temple, his own palace, the supporting terraces, the wall of Jerusalem, and Hazor, Megiddo and Gezer.",
     Ind:"Beginilah hal orang-orang rodi yang telah dikerahkan oleh raja Salomo. Mereka dikerahkan untuk mendirikan rumah TUHAN, dan istana raja, dan Milo, dan tembok Yerusalem, dan juga untuk memperkuat Hazor, Megido dan Gezer."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Segera sesudah anak Firaun pindah dari kota Daud ke rumah yang telah didirikan Salomo baginya, Salomopun mendirikan Milo."
   },
   {Bible:"1Kings", Chapter:9, Verse:25, Page:1,
-    Kor:"○솔로몬은, 한 해에 세 번씩 주님의 제단에서 번제물과 화목제물을 드리고, 또 주님 앞에서 분향하였다. 이렇게 그는 성전 짓는 일을 완수하였다.",
+    Kor:"○솔로몬은, 한 해에 세 번씩 주의 제단에서 번제물과 화목제물을 드리고, 또 주 앞에서 분향하였다. 이렇게 그는 성전 짓는 일을 완수하였다.",
     Chn:"所罗门每年三次在他为耶和华所筑的坛上献燔祭和平安祭，又在耶和华面前的坛上烧香。这样，他建造殿的工程完毕了。",
     Eng:"Three times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the LORD, burning incense before the LORD along with them, and so fulfilled the temple obligations.",
     Ind:"Tiga kali setahun Salomo mempersembahkan korban-korban bakaran dan korban-korban keselamatan di atas mezbah yang didirikannya bagi TUHAN, dan ia membakar korban api-apiannya di hadapan TUHAN. Demikianlah ia menyelesaikan rumah itu."
   },
   {Bible:"1Kings", Chapter:9, Verse:26, Page:1,
-    Kor:"○솔로몬 왕은 또 에돔 땅 c홍해변 엘롯 근방에 있는 에시온게벨에서 배를 만들었다.(c 히, '얌 쑤프')",
+    Kor:"○솔로몬 왕은 또 에돔 땅 홍해변 엘롯 근방에 있는 에시온 게벨에서 배를 만들었다.",
     Chn:"所罗门王在以东地红海边，靠近以禄的以旬·迦别制造船只。",
     Eng:"King Solomon also built ships at Ezion Geber, which is near Elath in Edom, on the shore of the Red Sea.",
     Ind:"Raja Salomo membuat juga kapal-kapal di Ezion-Geber yang ada di dekat Elot, di tepi Laut Teberau, di tanah Edom."
@@ -169,5 +169,17 @@ BibleDB.add([
     Chn:"他们到了俄斐，从那里得了四百二十他连得金子，运到所罗门王那里。",
     Eng:"They sailed to Ophir and brought back 420 talents of gold, which they delivered to King Solomon.",
     Ind:"Mereka sampai ke Ofir dan dari sana mereka mengambil empat ratus dua puluh talenta emas, yang mereka bawa kepada raja Salomo."
+  },
+  {Bible:"1Kings", Chapter:9, Verse:29, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
+  },
+  {Bible:"1Kings", Chapter:9, Verse:30, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

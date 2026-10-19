@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",11,47);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:11, Verse:1, Page:1,
-    Kor:"<정한 동물과 부정한 동물> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华对摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"Lalu TUHAN berfirman kepada Musa dan Harun, kata-Nya kepada mereka:"

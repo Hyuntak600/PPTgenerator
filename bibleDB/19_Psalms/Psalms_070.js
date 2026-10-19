@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",70,5);
 BibleDB.add([
   {Bible:"Psalms", Chapter:70, Verse:1, Page:1,
-    Kor:"<기념식에서 지휘자를 따라 부르는 노래, 다윗의 시> 주님, 너그럽게 보시고 나를 건져 주십시오. 주님, 빨리 나를 도와주십시오.",
+    Kor:"하나님, 나를 건져 주십시오. 주님, 빨리 나를 도와주십시오.",
     Chn:"大卫的纪念诗，交与伶长。 　神啊，求你快快搭救我！ 耶和华啊，求你速速帮助我！",
     Eng:"Hasten, O God, to save me; O LORD, come quickly to help me.",
     Ind:"Untuk pemimpin biduan. Dari Daud, pada waktu mempersembahkan korban peringatan. (70-2) Ya Allah, bersegeralah melepaskan aku, menolong aku, ya TUHAN!"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"(70-3) Biarlah mendapat malu dan tersipu-sipu mereka yang ingin mencabut nyawaku; biarlah mundur dan kena noda mereka yang mengingini kecelakaanku;"
   },
   {Bible:"Psalms", Chapter:70, Verse:3, Page:1,
-    Kor:"깔깔대며 나를 조소하는 자들이 창피를 당하고 물러가게 해주십시오.",
+    Kor:"\"아하, 아하!\" 하면서 나를 조소하는 자들이 창피를 당하고, 물러가게 해주십시오.",
     Chn:"愿那些对我说阿哈、阿哈的， 因羞愧退后。",
     Eng:"May those who say to me, \"Aha! Aha!\" turn back because of their shame.",
     Ind:"(70-4) biarlah berbalik karena malu mereka yang mengatakan: \"Syukur, syukur!\""
   },
   {Bible:"Psalms", Chapter:70, Verse:4, Page:1,
-    Kor:"그러나 주님을 찾는 사람은 누구나 주님 때문에 기뻐하고 즐거워하게 해주십시오. 주님의 승리를 즐거워하는 모든 사람이 \"하나님은 위대하시다\" 하고 늘 찬양하게 해주십시오.",
+    Kor:"그러나 주님을 찾는 이면 누구나 주님 때문에 기뻐하고 즐거워하게 해주십시오. 주의 구원을 감사하는 모든 사람이 \"하나님은 위대하시다\" 하고 늘 찬양하게 해주십시오.",
     Chn:"愿一切寻求你的，因你高兴欢喜； 愿那些喜爱你救恩的，常说：当尊　神为大！",
     Eng:"But may all who seek you rejoice and be glad in you; may those who love your salvation always say, \"Let God be exalted!\"",
     Ind:"(70-5) Biarlah bergirang dan bersukacita karena Engkau semua orang yang mencari Engkau; biarlah mereka yang mencintai keselamatan dari pada-Mu selalu berkata: \"Allah itu besar!\""

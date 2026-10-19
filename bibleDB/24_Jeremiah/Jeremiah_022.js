@@ -3,25 +3,25 @@
 BibleDB.ref("Jeremiah",22,30);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:22, Verse:1, Page:1,
-    Kor:"<유다 왕실에> \"나 주가 말한다. 너는 유다 왕궁으로 내려가서, 그 곳에서 이 말을 선포하여라.",
+    Kor:"\"나 주가 말한다. 너는 유다 왕궁으로 내려가서, 그 곳에서 이 말을 선포하여라.",
     Chn:"耶和华如此说：「你下到犹大王的宫中，在那里说这话，",
     Eng:"This is what the LORD says: \"Go down to the palace of the king of Judah and proclaim this message there:",
     Ind:"Beginilah firman TUHAN: \"Pergilah ke istana raja Yehuda dan sampaikanlah di sana firman ini!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:2, Page:1,
-    Kor:"너는 이렇게 말하여라. '다윗의 보좌에 앉은 유다의 왕아, 너는 네 신하와 이 모든 성문으로 들어오는 네 백성과 함께 주가 하는 말을 들어라.",
+    Kor:"너는 이와 같이 말하여라. '다윗의 보좌에 앉은 유다의 왕아, 너는 네 신하와 이 모든 성문으로 들어오는 네 백성과 함께 주의 말씀을 들어라.",
     Chn:"说：『坐大卫宝座的犹大王啊，你和你的臣仆，并进入城门的百姓，都当听耶和华的话。",
     Eng:"'Hear the word of the LORD, O king of Judah, you who sit on David's throne--you, your officials and your people who come through these gates.",
     Ind:"Katakanlah: Dengarlah firman TUHAN, hai raja Yehuda yang duduk di atas takhta Daud, engkau, pegawai-pegawaimu dan rakyatmu yang masuk melalui pintu-pintu gerbang ini!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:3, Page:1,
-    Kor:"나 주가 말한다. 너희는 공평과 정의를 실천하고, 억압하는 자들의 손에서 고통받는 사람들을 구하여 주고, 외국인과 고아와 과부를 괴롭히거나 학대하지 말며, 이 곳에서 무죄한 사람의 피를 흘리게 하지 말아라.",
+    Kor:"나 주가 이렇게 말한다. 너희는 공평과 정의를 실천하고, 억압하는 자들의 손에서 고통받는 사람들을 구하여 주고, 외국인과 고아와 과부를 괴롭히거나 학대하지 말며, 이 곳에서 무죄한 사람의 피를 흘리게 하지 말아라.",
     Chn:"耶和华如此说：你们要施行公平和公义，拯救被抢夺的脱离欺压人的手，不可亏负寄居的和孤儿寡妇，不可以强暴待他们，在这地方也不可流无辜人的血。",
     Eng:"This is what the LORD says: Do what is just and right. Rescue from the hand of his oppressor the one who has been robbed. Do no wrong or violence to the alien, the fatherless or the widow, and do not shed innocent blood in this place.",
     Ind:"Beginilah firman TUHAN: Lakukanlah keadilan dan kebenaran, lepaskanlah dari tangan pemerasnya orang yang dirampas haknya, janganlah engkau menindas dan janganlah engkau memperlakukan orang asing, yatim dan janda dengan keras, dan janganlah engkau menumpahkan darah orang yang tak bersalah di tempat ini!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:4, Page:1,
-    Kor:"○너희가 이 명령을 철저히 실천하면, 다윗의 보좌에 앉는 왕들이 병거와 군마를 타고, 신하와 백성을 거느리고, 이 왕궁의 대문 안으로 들어올 것이다.",
+    Kor:"너희가 이 명령을 철저히 실천하면, 다윗의 보좌에 앉는 왕들이 병거와 군마를 타고, 신하와 백성을 거느리고, 이 왕궁의 대문 안으로 들어올 것이다.",
     Chn:"你们若认真行这事，就必有坐大卫宝座的君王和他的臣仆百姓，或坐车或骑马，从这城的各门进入。",
     Eng:"For if you are careful to carry out these commands, then kings who sit on David's throne will come through the gates of this palace, riding in chariots and on horses, accompanied by their officials and their people.",
     Ind:"Sebab jika kamu sungguh-sungguh melakukan semuanya itu, maka melalui pintu-pintu gerbang istana ini akan berarak masuk raja-raja yang akan duduk di atas takhta Daud dengan mengendarai kereta dan kuda: mereka itu, pegawai-pegawainya dan rakyatnya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Aku akan menetapkan pemusnah-pemusnah terhadap engkau, masing-masing dengan senjatanya; mereka akan menebang pohon aras pilihanmu dan mencampakkannya ke dalam api."
   },
   {Bible:"Jeremiah", Chapter:22, Verse:8, Page:1,
-    Kor:"○그러면 많은 민족이 이 도성을 지나갈 때에, 서로 묻기를 '주님께서 무엇 때문에 이 큰 도성을 이렇게 폐허로 만들어 놓으셨는가?' 하면,",
+    Kor:"○그러면 많은 민족이 이 도성을 지나갈 때에, 서로 묻기를 '주께서 무엇 때문에 이 큰 도성을 이렇게 폐허로 만들어 놓으셨는가?' 하면,",
     Chn:"「许多国的民要经过这城，各人对邻舍说：『耶和华为何向这大城如此行呢？』",
     Eng:"\"People from many nations will pass by this city and will ask one another, 'Why has the LORD done such a thing to this great city?'",
     Ind:"Dan apabila banyak bangsa melewati kota ini, maka mereka akan berkata seorang kepada yang lain: Mengapakah TUHAN melakukan seperti itu kepada kota yang besar ini?"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Orang akan menjawab: Oleh karena mereka telah melupakan perjanjian TUHAN, Allah mereka, dan telah sujud menyembah kepada allah lain dan beribadah kepadanya.\""
   },
   {Bible:"Jeremiah", Chapter:22, Verse:10, Page:1,
-    Kor:"<살룸 왕에 대한 예언> 너희는 죽은 왕 때문에 울지 말며, 그의 죽음을 슬퍼하지 말아라. 오히려, 너희는 잡혀 간 왕을 생각하고 슬피 울어라. 그는 절대로 다시 돌아오지 못한다. 다시는 고향 땅을 보지 못한다.",
+    Kor:"너희는 죽은 왕 때문에 울지 말며, 그의 죽음을 슬퍼하지 말아라. 오히려, 너희는 잡혀 간 왕을 생각하고 슬피 울어라. 그는 절대로 다시 돌아오지 못한다. 다시는 고향 땅을 보지 못한다.",
     Chn:"不要为死人哭号； 不要为他悲伤， 却要为离家出外的人大大哭号； 因为他不得再回来， 也不得再见他的本国。",
     Eng:"Do not weep for the dead king or mourn his loss; rather, weep bitterly for him who is exiled, because he will never return nor see his native land again.",
     Ind:"Janganlah kamu menangisi orang mati dan janganlah turut berdukacita karena dia. Lebih baiklah kamu menangisi dia yang sudah pergi, sebab ia tidak akan kembali lagi, ia tidak lagi akan melihat tanah kelahirannya."
   },
   {Bible:"Jeremiah", Chapter:22, Verse:11, Page:1,
-    Kor:"○부왕 요시야의 대를 이어서, 유다 왕이 되어 다스리다가, 이 곳에서 포로가 되어 잡혀 간, 유다 왕 요시야의 아들 a살룸을 두고 주님께서 말씀하신다. \"그는 영영 이 곳으로 돌아오지 못할 것이다.(a 일명 '여호아하스'(왕하 23:30; 대상 3:15에서도))",
+    Kor:"○부왕 요시야의 대를 이어서, 유다 왕이 되어 다스리다가, 이 곳에서 포로가 되어 잡혀 간, 유다 왕 요시야의 아들 살룸을 두고 주께서 말씀하신다. \"그는 영영 이 곳으로 돌아오지 못할 것이다.",
     Chn:"因为耶和华论到从这地方出去的犹大王约西亚的儿子沙龙，就是接续他父亲约西亚作王的，这样说：「他必不得再回到这里来，",
     Eng:"For this is what the LORD says about Shallum son of Josiah, who succeeded his father as king of Judah but has gone from this place: \"He will never return.",
     Ind:"Sebab beginilah firman TUHAN mengenai Salum bin Yosia, raja Yehuda, yang telah menjadi raja menggantikan Yosia, ayahnya, dan yang telah meninggalkan tempat ini: \"Ia tidak lagi akan kembali ke sini,"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"tetapi ia akan mati di tempat pembuangannya, dan tidak lagi akan melihat negeri ini.\""
   },
   {Bible:"Jeremiah", Chapter:22, Verse:13, Page:1,
-    Kor:"<여호야김 왕에 대한 예언> \"불의로 궁전을 짓고, 불법으로 누각을 쌓으며, 동족을 고용하고도, 품삯을 주지 않는 너에게 화가 미칠 것이다.",
+    Kor:"\"불의로 궁전을 짓고, 불법으로 누각을 쌓으며, 동족을 고용하고도, 품삯을 주지 않는 너에게 화가 미칠 것이다.",
     Chn:"那行不义盖房、行不公造楼、 白白使用人的手工不给工价的有祸了！",
     Eng:"\"Woe to him who builds his palace by unrighteousness, his upper rooms by injustice, making his countrymen work for nothing, not paying them for their labor.",
     Ind:"Celakalah dia yang membangun istananya berdasarkan ketidakadilan dan anjungnya berdasarkan kelaliman, yang mempekerjakan sesamanya dengan cuma-cuma dan tidak memberikan upahnya kepadanya;"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"yang berkata: \"Aku mau mendirikan istana yang besar lebar dan anjung yang lapang luas!\", lalu menetas dinding istana membuat jendela, memapani istana itu dengan kayu aras dan mencatnya merah."
   },
   {Bible:"Jeremiah", Chapter:22, Verse:15, Page:1,
-    Kor:"네가 남보다 백향목을 더 많이 써서, 집 짓기를 경쟁한다고 해서, 네가 더 좋은 왕이 될 수 있겠느냐? 네 아버지가 먹고 마시지 않았느냐? 법과 정의를 실천하지 않았느냐? 그 때에 그가 형통하였다.",
+    Kor:"네가 남보다 백향목을 더 많이 써서, 집 짓기를 경쟁하므로, 네가 더 좋은 왕이 될 수 있겠느냐? 네 아버지가 먹고 마시지 않았느냐? 법과 정의를 실천하지 않았느냐? 그 때에 그가 형통하였다.",
     Chn:"难道你作王是在乎造香柏木楼房争胜吗？ 你的父亲岂不是也吃也喝、 也施行公平和公义吗？ 那时他得了福乐。",
     Eng:"\"Does it make you a king to have more and more cedar? Did not your father have food and drink? He did what was right and just, so all went well with him.",
     Ind:"Sangkamu rajakah engkau, jika engkau bertanding dalam hal pemakaian kayu aras? Tidakkah ayahmu makan minum juga dan beroleh kenikmatan? Tetapi ia melakukan keadilan dan kebenaran,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Tetapi matamu dan hatimu hanya tertuju kepada pengejaran untung, kepada penumpahan darah orang yang tak bersalah, kepada pemerasan dan kepada penganiayaan!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:18, Page:1,
-    Kor:"○그러므로 주님께서 유다 왕 요시야의 아들 여호야김을 두고 이렇게 말씀하신다.  \"아무도 여호야김의 죽음을 애도하지 않을 것이다. 남자들도 '슬프다!' 하지 않고 여자들도 '애석하다!' 하지 않을 것이다. '슬픕니다, 임금님! 슬픕니다, 폐하!' 하며 애곡할 사람도 없을 것이다.",
+    Kor:"○그러므로 주께서 유다 왕 요시야의 아들 여호야김을 두고, 이와 같이 말씀하신다. \"아무도 여호야김의 죽음을 애도하지 않을 것이다. 남자들도 '슬프다!' 하지 않고 여자들도 '애석하다!' 하지 않을 것이다. '슬픕니다, 임금님! 슬픕니다, 폐하!' 하며 애곡할 사람도 없을 것이다.",
     Chn:"所以，耶和华论到犹大王约西亚的儿子约雅敬如此说： 人必不为他举哀说： 哀哉！我的哥哥； 或说：哀哉！我的姐姐； 也不为他举哀说： 哀哉！我的主； 或说：哀哉！我主的荣华。",
     Eng:"Therefore this is what the LORD says about Jehoiakim son of Josiah king of Judah: \"They will not mourn for him: 'Alas, my brother! Alas, my sister!' They will not mourn for him: 'Alas, my master! Alas, his splendor!'",
     Ind:"Sebab itu beginilah firman TUHAN mengenai Yoyakim bin Yosia, raja Yehuda: \"Orang tidak akan meratapi dia: Aduhai abangku! Aduhai kakakku! Orang tidak akan menangisi dia: Aduhai tuan! Aduhai Seri Paduka!"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Ia akan dikubur secara penguburan keledai, diseret dan dilemparkan ke luar pintu-pintu gerbang Yerusalem.\""
   },
   {Bible:"Jeremiah", Chapter:22, Verse:20, Page:1,
-    Kor:"<예루살렘에 대한 탄식> \"예루살렘아, 너는 레바논 산에 올라가서 통곡하여라. 바산 평야에서 소리를 지르고, 아바림 산등성에서 통곡하여라. 너의 모든 동맹국이 멸망하였다.",
+    Kor:"\"예루살렘아, 너는 레바논 산에 올라가서 통곡하여라. 바산 평야에서 소리를 지르고, 아바림 산등성에서 통곡하여라. 너의 모든 동맹국이 멸망하였다.",
     Chn:"你要上黎巴嫩哀号， 在巴珊扬声， 从亚巴琳哀号， 因为你所亲爱的都毁灭了。",
     Eng:"\"Go up to Lebanon and cry out, let your voice be heard in Bashan, cry out from Abarim, for all your allies are crushed.",
     Ind:"Naiklah ke gunung Libanon dan berteriaklah! Perdengarkanlah suaramu di pegunungan Basan! Berteriaklah dari pegunungan Abarim, sebab semua kekasihmu sudah hancur!"
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Semua orang yang menggembalakan kamu akan dihalau angin ribut, dan para kekasihmu akan diangkut tertawan. Pada waktu itu engkau akan menjadi malu dan bernoda dari sebab segala kejahatanmu."
   },
   {Bible:"Jeremiah", Chapter:22, Verse:23, Page:1,
-    Kor:"네가 지금은 b레바논 산 위에 터를 잡고 사는 듯하고, 백향목 나무 위의 보금자리에 깃들이고 있는 것 같지만, 해산하는 여인의 진통 같은 아픔이 너에게 덮쳐 오면, 너의 신음이 땅을 뒤흔들 것이다.\" (b 레바논에서 가져 온 나무로 예루살렘에다 지은 궁전을 말함(왕상 7:2))",
+    Kor:"네가 지금은 레바논 산 위에 터를 잡고 사는 듯하고, 백향목 나무 위의 보금자리에 깃들이고 있는 것 같지만, 해산하는 여인의 진통 같은 아픔이 너에게 덮쳐 오면, 너의 신음이 땅을 뒤흔들 것이다.\"",
     Chn:"你这住黎巴嫩、在香柏树上搭窝的， 有痛苦临到你， 好像疼痛临到产难的妇人， 那时你何等可怜！",
     Eng:"You who live in 'Lebanon,' who are nestled in cedar buildings, how you will groan when pangs come upon you, pain like that of a woman in labor!",
     Ind:"Hai engkau yang diam di gunung Libanon, dan yang bersarang di pohon-pohon aras! Betapa engkau akan mengeluh ketika kesakitan menimpa engkau, kesakitan seperti yang ditanggung perempuan yang melahirkan!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:24, Page:1,
-    Kor:"<하나님께서 여호야긴 왕을 심판하시다> ○\"나 주의 말이다. 내가 내 삶을 두고 맹세한다. 여호야김의 아들 유다 왕 c고니야야, 네가 내 오른손에 낀 옥새 가락지라고 하더라도, 내가 너를 거기에서 빼버리겠다.(c 일명 '여호야긴'(왕하 24:6,8에서도) 또는 '여고냐'(대상 3:16; 렘 24:1에서도))",
+    Kor:"○\"나 주의 말이다. 내가 내 삶을 두고 맹세한다. 여호야김의 아들 유다 왕 고니야야, 네가 내 오른손에 낀 옥새 가락지라고 하더라도, 내가 너를 거기에서 빼버리겠다.",
     Chn:"耶和华说：「犹大王约雅敬的儿子哥尼雅，虽是我右手上带印的戒指，我凭我的永生起誓，也必将你从其上摘下来，",
     Eng:"\"As surely as I live,\" declares the LORD, \"even if you, Jehoiachin son of Jehoiakim king of Judah, were a signet ring on my right hand, I would still pull you off.",
     Ind:"\"Demi Aku yang hidup, demikianlah firman TUHAN, bahkan sekalipun Konya bin Yoyakim, raja Yehuda, adalah sebagai cincin meterai pada tangan kanan-Ku, namun Aku akan mencabut engkau!"
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"Tetapi ke negeri yang mereka rindukan untuk kembali ke situ, mereka tidak akan kembali!\""
   },
   {Bible:"Jeremiah", Chapter:22, Verse:28, Page:1,
-    Kor:"이 사람 c고니야는 깨져서 버려진 항아리인가? 아무도 거들떠보려고 하지 않는 질그릇인가? 어찌하여 그는 자신도 모르는 낯선 땅으로 가족과 함께 쫓겨나서, 멀리 끌려가게 되었는가? (c 일명 '여호야긴'(왕하 24:6,8에서도) 또는 '여고냐'(대상 3:16; 렘 24:1에서도))",
+    Kor:"이 사람 고니야는 깨져서 버려진 항아리인가? 아무도 거들떠보려고 하지 않는 질그릇인가? 어찌하여 그는 자신도 모르는 낯선 땅으로 가족과 함께 쫓겨나서, 멀리 끌려가게 되었는가?",
     Chn:"哥尼雅这人是被轻看、破坏的器皿吗？ 是无人喜爱的器皿吗？ 他和他的后裔为何被赶到不认识之地呢？",
     Eng:"Is this man Jehoiachin a despised, broken pot, an object no one wants? Why will he and his children be hurled out, cast into a land they do not know?",
     Ind:"Adakah Konya ini suatu benda yang hina, yang akan dipecahkan orang, atau suatu periuk yang tidak disukai orang? Mengapakah ia dicampakkan dan dilemparkan ke negeri yang tidak dikenalnya?"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:29, Page:1,
-    Kor:"땅이여, 땅이여, 땅이여, 주님의 말씀을 들어라.",
+    Kor:"땅이여, 땅이여, 땅이여, 주의 말씀을 들어라.",
     Chn:"地啊，地啊，地啊，当听耶和华的话！",
     Eng:"O land, land, land, hear the word of the LORD!",
     Ind:"Hai negeri, negeri, negeri! Dengarlah firman TUHAN!"
   },
   {Bible:"Jeremiah", Chapter:22, Verse:30, Page:1,
-    Kor:"\"나 주가 말한다. 너희는 이 사람을 두고 '그는 자녀도 없고, 한평생 낙을 누리지도 못할 사람'이라고 기록하여라. 다윗의 왕위에 앉아서 유다를 다스릴 자손이, 그에게서는 나지 않을 것이다.\"",
+    Kor:"\"나 주가 이렇게 말한다. 너희는 이 사람을 두고 '그는 자녀도 없고, 한평생 낙을 누리지도 못할 사람'이라고 기록하여라. 다윗의 왕위에 앉아서 유다를 다스릴 자손이, 그에게서는 나지 않을 것이다.\"",
     Chn:"耶和华如此说： 要写明这人算为无子， 是平生不得亨通的； 因为他后裔中再无一人得亨通， 能坐在大卫的宝座上治理犹大。",
     Eng:"This is what the LORD says: \"Record this man as if childless, a man who will not prosper in his lifetime, for none of his offspring will prosper, none will sit on the throne of David or rule anymore in Judah.\"",
     Ind:"Beginilah firman TUHAN: \"Catatlah orang ini sebagai orang yang tak punya anak, sebagai laki-laki yang tidak pernah berhasil dalam hidupnya; sebab seorangpun dari keturunannya tidak akan berhasil duduk di atas takhta Daud dan memerintah kembali di Yehuda.\""

@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Maka pada waktu itu, demikianlah firman TUHAN semesta alam, Aku akan melenyapkan nama-nama berhala dari negeri itu, sehingga orang tidak menyebutnya lagi. Juga para nabi dan roh najis akan Kusingkirkan dari negeri itu."
   },
   {Bible:"Zechariah", Chapter:13, Verse:3, Page:1,
-    Kor:"그런데도 누가 예언을 하겠다고 고집하면, 그를 낳은 아버지와 어머니가 그 자식에게 말하기를 '네가 주님의 이름을 팔아서 거짓말을 하였으니, 너는 살지 못한다' 한 다음에, 그를 낳은 아버지와 어머니는, 아들이 예언하는 그 자리에서 그 아들을 찔러 죽일 것이다.",
+    Kor:"그런데도 누가 예언을 하겠다고 고집하면, 그를 낳은 아버지와 어머니가 그 자식에게 말하기를 '네가 주의 이름을 팔아서 거짓말을 하였으니, 너는 살지 못한다' 한 다음에, 그를 낳은 아버지와 어머니는, 아들이 예언하는 그 자리에서 그 아들을 찔러 죽일 것이다.",
     Chn:"若再有人说预言，生他的父母必对他说：『你不得存活，因为你托耶和华的名说假预言。』生他的父母在他说预言的时候，要将他刺透。",
     Eng:"And if anyone still prophesies, his father and mother, to whom he was born, will say to him, 'You must die, because you have told lies in the LORD'S name.' When he prophesies, his own parents will stab him.",
     Ind:"Dan apabila seseorang masih tampil sebagai nabi, maka ayahnya dan ibunya, yang telah memperanakkan dia, akan berkata kepadanya: Janganlah engkau hidup lagi, sebab yang kaukatakan demi nama TUHAN itu adalah dusta! Lalu ayahnya dan ibunya, yang telah memperanakkan dia, akan menikam dia pada waktu ia bernubuat."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Dan apabila ada orang bertanya kepadanya: Bekas luka apakah yang ada pada badanmu ini?, lalu ia akan menjawab: Itulah luka yang kudapat di rumah sahabat-sahabatku!\""
   },
   {Bible:"Zechariah", Chapter:13, Verse:7, Page:1,
-    Kor:"<하나님의 목자를 죽이라는 명령> \"칼아, 깨어 일어나서, 내 목자를 쳐라. 나와 사이가 가까운 그 사람을 쳐라. 나 만군의 주가 하는 말이다. 목자를 쳐라. 그러면 양 떼가 흩어질 것이다. 나 또한 그 어린 것들을 칠 것이다.",
+    Kor:"\"칼아, 깨어 일어나서, 내 목자를 쳐라. 나와 사이가 가까운 그 사람을 쳐라. 나 만군의 주가 하는 말이다. 목자를 쳐라. 그러면 양 떼가 흩어질 것이다. 나 또한 그 어린 것들을 칠 것이다.",
     Chn:"万军之耶和华说： 刀剑哪，应当兴起， 攻击我的牧人和我的同伴。 击打牧人，羊就分散； 我必反手加在微小者的身上。",
     Eng:"\"Awake, O sword, against my shepherd, against the man who is close to me!\" declares the LORD Almighty. \"Strike the shepherd, and the sheep will be scattered, and I will turn my hand against the little ones.",
     Ind:"\"Hai pedang, bangkitlah terhadap gembala-Ku, terhadap orang yang paling karib kepada-Ku!\", demikianlah firman TUHAN semesta alam. \"Bunuhlah gembala, sehingga domba-domba tercerai-berai! Aku akan mengenakan tangan-Ku terhadap yang lemah."

@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",25,31);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:25, Verse:1, Page:1,
-    Kor:"<성전 찬양대> 다윗과 군대 지도자들은, 아삽과 헤만과 여두둔의 자손들을 뽑아 세워, 수금과 거문고와 심벌즈로 신령한 노래를 부르는 직무를 맡겼다. 이 직무를 맡은 사람의 수는 다음과 같다.",
+    Kor:"다윗과 군대 지도자들은, 아삽과 헤만과 여두둔의 자손들을 뽑아 세워, 수금과 거문고와 심벌즈로 신령한 노래를 부르는 직무를 맡겼다. 이 직무를 맡은 사람의 수는 다음과 같다.",
     Chn:"大卫和众首领分派亚萨、希幔，并耶杜顿的子孙弹琴、鼓瑟、敲钹、唱歌。他们供职的人数记在下面：",
     Eng:"David, together with the commanders of the army, set apart some of the sons of Asaph, Heman and Jeduthun for the ministry of prophesying, accompanied by harps, lyres and cymbals. Here is the list of the men who performed this service:",
     Ind:"Selanjutnya untuk ibadah Daud dan para panglima menunjuk anak-anak Asaf, anak-anak Heman dan anak-anak Yedutun. Mereka bernubuat dengan diiringi kecapi, gambus dan ceracap. Daftar orang-orang yang bekerja dalam ibadah ini ialah yang berikut:"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"dari anak-anak Asaf ialah Zakur, Yusuf, Netanya dan Asarela, anak-anak Asaf di bawah pimpinan Asaf, yang bernubuat dengan petunjuk raja."
   },
   {Bible:"1Chronicles", Chapter:25, Verse:3, Page:1,
-    Kor:"○여두둔의 가문에는, 여두둔의 아들인 그달리야와 스리와 여사야와 하사뱌와 맛디디야, 이렇게 여섯이 있다. 그들은 수금을 타면서 주님께 감사하며 찬양하며 예언하는 그들의 아버지 여두둔의 지도를 받았다.",
+    Kor:"○여두둔의 가문에는, 여두둔의 아들인 그달리야와 스리와 여사야와 하사뱌와 맛디디야, 이렇게 여섯이 있다. 그들은 수금을 타면서 주께 감사하며 찬양하며 예언하는 그들의 아버지 여두둔의 지도를 받았다.",
     Chn:"耶杜顿的儿子基大利、西利、耶筛亚、哈沙比雅、玛他提雅、示每共六人，都归他们父亲耶杜顿指教，弹琴，唱歌，称谢，颂赞耶和华。",
     Eng:"As for Jeduthun, from his sons: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the Lord .",
     Ind:"Dari Yedutun ialah anak-anak Yedutun: Gedalya, Zeri, Yesaya, Simei, Hasabya dan Matica, enam orang, di bawah pimpinan ayah mereka, Yedutun, yang bernubuat dengan diiringi kecapi pada waktu menyanyikan syukur dan puji-pujian bagi TUHAN."
   },
   {Bible:"1Chronicles", Chapter:25, Verse:4, Page:1,
-    Kor:"○헤만 가문에는 헤만의 아들인 북기야와 맛다니야와 웃시엘과 스브엘과 여리못과 하나냐와 하나니와 엘리아다와 깃달디와 로암디에셀과 요스브가사와 말로디와 호딜과 마하시옷이 있다.",
+    Kor:"○헤만 가문에는 헤만의 아들인 북기야와 맛다냐와 웃시엘과 스브엘과 여리못과 하나냐와 하나니와 엘리아다와 깃달디와 로암디에셀과 요스브가사와 말로디와 호딜과 마하시옷이 있다.",
     Chn:"希幔的儿子布基雅、玛探雅、乌薛、细布业、耶利摩、哈拿尼雅、哈拿尼、以利亚他、基大利提、罗幔提·以谢、约施比加沙、玛罗提、何提、玛哈秀；",
     Eng:"As for Heman, from his sons: Bukkiah, Mattaniah, Uzziel, Shubael and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti and Romamti-Ezer; Joshbekashah, Mallothi, Hothir and Mahazioth.",
     Ind:"Dari Heman ialah anak-anak Heman: Bukia, Matanya, Uziel, Sebuel, Yerimot, Hananya, Hanani, Eliata, Gidalti, Romamti-Ezer, Yosbekasa, Maloti, Hotir dan Mahaziot."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Mereka ini sekalian adalah anak-anak Heman, pelihat raja, menurut janji Allah untuk meninggikan tanduk kekuatannya; sebab Allah telah memberikan kepada Heman empat belas orang anak laki-laki dan tiga orang anak perempuan."
   },
   {Bible:"1Chronicles", Chapter:25, Verse:6, Page:1,
-    Kor:"이들은 모두 그들의 아버지의 지도를 받으며 심벌즈와 거문고와 수금을 타면서, 주님의 성전에서 노래를 불렀다. 이들은 하나님의 성전에서 맡은 일을 할 때에, 왕과 아삽과 여두둔과 헤만의 지도를 받았다.",
+    Kor:"이들은 모두 그들의 아버지의 지도를 받으며 심벌즈와 거문고와 수금을 타면서, 주의 성전에서 노래를 불렀다. 이들은 하나님의 성전에서 맡은 일을 할 때에, 왕과 아삽과 여두둔과 헤만의 지도를 받았다.",
     Chn:"都归他们父亲指教，在耶和华的殿唱歌、敲钹、弹琴、鼓瑟，办　神殿的事务。亚萨、耶杜顿、希幔都是王所命定的。",
     Eng:"All these men were under the supervision of their fathers for the music of the temple of the Lord , with cymbals, lyres and harps, for the ministry at the house of God. Asaph, Jeduthun and Heman were under the supervision of the king.",
     Ind:"Mereka ini sekalian berada di bawah pimpinan ayah mereka pada waktu menyanyikan nyanyian di rumah TUHAN dengan diiringi ceracap, gambus dan kecapi untuk ibadah di rumah Allah dengan petunjuk raja. Demikianlah keadaan bani Asaf, Yedutun dan Heman."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tua dan muda, guru dan murid, membuang undi mengenai tugasnya."
   },
   {Bible:"1Chronicles", Chapter:25, Verse:9, Page:1,
-    Kor:"○첫째로 제비 뽑힌 사람은 아삽 가문의 요셉과 a(그 아들과 형제 b열두 명,) 둘째는 그달리야와 그 형제와 아들 열두 명,(a 칠십인역을 따름 b 7절을 볼 것)",
+    Kor:"○첫째로 제비 뽑힌 사람은 아삽 가문의 요셉과 (그 아들과 형제 열두 명,) 둘째는 그달리야와 그 형제와 아들 열두 명,",
     Chn:"掣签的时候，第一掣出来的是亚萨的儿子约瑟。第二是基大利；他和他弟兄并儿子共十二人。",
     Eng:"The first lot, which was for Asaph, fell to Joseph, his sons and relatives, 12 the second to Gedaliah, he and his relatives and sons, 12",
     Ind:"Lalu jatuhlah undian yang pertama pada Yusuf, orang Asaf; undian yang kedua pada Gedalya dengan saudara-saudaranya dan anak-anaknya, dua belas orang;"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"undian yang kedelapan pada Yesaya, anak-anaknya dan saudara-saudaranya, dua belas orang;"
   },
   {Bible:"1Chronicles", Chapter:25, Verse:16, Page:1,
-    Kor:"아홉째는 맛다니야와 그 아들과 형제 열두 명,",
+    Kor:"아홉째는 맛다냐와 그 아들과 형제 열두 명,",
     Chn:"第九是玛探雅；他和他儿子并弟兄共十二人。",
     Eng:"the ninth to Mattaniah, his sons and relatives, 12",
     Ind:"undian yang kesembilan pada Matanya, anak-anaknya dan saudara-saudaranya, dua belas orang;"

@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",20,26);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:20, Verse:1, Page:1,
-    Kor:"<세바의 반란> 그 즈음에 불량배 한 사람이 그 곳에 있었는데, 그의 이름은 세바였다. 그는 비그리의 아들로서, 베냐민 사람이었다. 그는 나팔을 불면서, 이렇게 외쳤다.  \"우리가 다윗에게서 얻을 몫은 아무것도 없다. 우리가 이새의 아들에게서 물려받을 유산은 아무것도 없다. 그러니 이스라엘 사람들아, 모두들 자기의 집으로 돌아가자!\"",
+    Kor:"그 즈음에 불량배 한 사람이 그 곳에 있었는데, 그의 이름은 세바였다. 그는 비그리의 아들로서, 베냐민 사람이었다. 그는 나팔을 불면서, 이렇게 외쳤다. \"우리가 다윗에게서 얻을 몫은 아무것도 없다. 우리가 이새의 아들에게서 물려받을 유산은 아무것도 없다. 그러니 이스라엘 사람들아, 모두들 자기의 집으로 돌아가자!\"",
     Chn:"在那里恰巧有一个匪徒，名叫示巴，是便雅悯人比基利的儿子。他吹角，说：「我们与大卫无分，与耶西的儿子无涉。以色列人哪，你们各回各家去吧！」",
     Eng:"Now a troublemaker named Sheba son of Bicri, a Benjamite, happened to be there. He sounded the trumpet and shouted, \"We have no share in David, no part in Jesse's son! Every man to his tent, O Israel!\"",
     Ind:"Kebetulan ada di sana seorang dursila, bernama Seba bin Bikri, orang Benyamin. Ia meniup sangkakala serta berkata: \"Kita tidak memperoleh bagian dari pada Daud. Kita tidak memperoleh warisan dari anak Isai itu. Masing-masing ke kemahnya, hai orang Israel!\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sampailah Daud ke istananya di Yerusalem, lalu raja mengambil kesepuluh gundik yang ditinggalkannya untuk menunggui istana, kemudian dimasukkannya mereka dalam sebuah rumah di bawah penjagaan. Ia memelihara mereka, tetapi tidak dihampirinya. Mereka tetap terasing seperti janda sampai hari mati mereka."
   },
   {Bible:"2Samuel", Chapter:20, Verse:4, Page:1,
-    Kor:"○왕이 아마사에게 명령하였다. \"장군은 유다 사람을 사흘 안에 모아 나에게 데려 오고, 그대도 함께 오시오.\"",
+    Kor:"○왕이 아마사에게 명령하였다. \"그대는 유다 사람을 사흘 안에 모아 나에게 데려 오고, 그대도 함께 오시오.\"",
     Chn:"王对亚玛撒说：「你要在三日之内将犹大人招聚了来，你也回到这里来。」",
     Eng:"Then the king said to Amasa, \"Summon the men of Judah to come to me within three days, and be here yourself.\"",
     Ind:"Berkatalah raja kepada Amasa: \"Kerahkanlah bagiku orang-orang Yehuda dalam tiga hari, kemudian menghadaplah lagi ke mari!\""
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Berkatalah Yoab kepada Amasa: \"Engkau baik-baik, saudaraku?\" Sementara itu tangan kanan Yoab memegang janggut Amasa untuk mencium dia."
   },
   {Bible:"2Samuel", Chapter:20, Verse:10, Page:1,
-    Kor:"요압이 다른 손으로 칼을 빼어 잡았는데, 아마사는 그것을 눈치채지 못하였다. 요압이 그 칼로 아마사의 배를 찔러서, 그의 창자가 땅바닥에 쏟아지게 하니, 다시 찌를 필요도 없이 아마사가 죽었다. ○그런 다음에 요압은 자기 동생 아비새와 함께 비그리의 아들 세바를 뒤쫓아 갔다.",
+    Kor:"요압이 다른 손으로 칼을 빼어 잡았는데, 아마사는 그것을 눈치채지 못하였다. 요압이 그 칼로 아마사의 배를 찔러서, 그의 창자가 땅바닥에 쏟아지게 하니, 다시 찌를 필요도 없이 아마사가 죽었다. 그런 다음에, 요압은 자기 동생 아비새와 함께 비그리의 아들 세바를 뒤쫓아 갔다.",
     Chn:"亚玛撒没有防备约押手里所拿的刀；约押用刀刺入他的肚腹，他的肠子流在地上，没有再刺他，就死了。 约押和他兄弟亚比筛往前追赶比基利的儿子示巴。",
     Eng:"Amasa was not on his guard against the dagger in Joab's hand, and Joab plunged it into his belly, and his intestines spilled out on the ground. Without being stabbed again, Amasa died. Then Joab and his brother Abishai pursued Sheba son of Bicri.",
     Ind:"Amasa tidak awas terhadap pedang yang ada di tangan Yoab itu; Yoab menikam pedang itu ke perutnya, sehingga isi perutnya tertumpah ke tanah. Tidak usah dia ditikamnya dua kali, sebab ia sudah mati. Lalu Yoab dan Abisai, adiknya, terus mengejar Seba bin Bikri."
   },
   {Bible:"2Samuel", Chapter:20, Verse:11, Page:1,
-    Kor:"그 때에 요압의 부하 한 사람이 아마사의 주검 곁에 서서 외쳤다. \"요압을 지지하는 사람과 다윗 쪽에 선 사람은 요압 장군을 따르시오.\"",
+    Kor:"그 때에, 요압의 부하 한 사람이 아마사의 주검 곁에 서서 외쳤다. \"요압을 지지하는 사람과 다윗 쪽에 선 사람은 요압 장군을 따르시오.\"",
     Chn:"有约押的一个少年人站在亚玛撒尸身旁边，对众人说：「谁喜悦约押，谁归顺大卫，就当跟随约押去。」",
     Eng:"One of Joab's men stood beside Amasa and said, \"Whoever favors Joab, and whoever is for David, let him follow Joab!\"",
     Ind:"Dan seorang dari orang-orang Yoab tinggal berdiri di dekat mayat itu, sambil berkata: \"Siapa yang suka kepada Yoab dan siapa yang memihak kepada Daud, baiklah mengikuti Yoab!\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Kemudian berkatalah perempuan itu: \"Dahulu biasa orang berkata begini: Baiklah orang minta petunjuk di Abel dan di Dan, apakah sudah dihapuskan"
   },
   {Bible:"2Samuel", Chapter:20, Verse:19, Page:1,
-    Kor:"저는 이스라엘에서 평화롭고 충실하게 사는 사람들 가운데 하나입니다. 그런데 장군께서는 지금 이스라엘에서 어머니와 같은 성읍을 하나 멸망시키려고 애쓰십니다. 왜 주님께서 주신 유산을 삼키려고 하십니까?\"",
+    Kor:"저는 이스라엘에서 평화롭고 충실하게 사는 사람들 가운데 하나입니다. 그런데 장군께서는 지금 이스라엘에서 어머니와 같은 성읍을 하나 멸망시키려고 애쓰십니다. 왜 주께서 주신 유산을 삼키려고 하십니까?\"",
     Chn:"我们这城的人在以色列人中是和平、忠厚的。你为何要毁坏以色列中的大城，吞灭耶和华的产业呢？」",
     Eng:"We are the peaceful and faithful in Israel. You are trying to destroy a city that is a mother in Israel. Why do you want to swallow up the LORD'S inheritance?\"",
     Ind:"apa yang telah ditetapkan oleh orang-orang yang setia di Israel! Tetapi engkau ini berikhtiar membinasakan suatu kota, apalagi suatu kota induk di Israel. Mengapa engkau hendak menelan habis milik pusaka TUHAN?\""
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Bukanlah begitu halnya. Tetapi seorang dari pegunungan Efraim, yang bernama Seba bin Bikri, telah menggerakkan tangannya melawan raja Daud; serahkanlah dia seorang diri, maka aku akan undur dari kota ini.\" Lalu berkatalah perempuan itu kepada Yoab: \"Baik, kepalanya akan dilemparkan kepadamu dari belakang tembok ini.\""
   },
   {Bible:"2Samuel", Chapter:20, Verse:22, Page:1,
-    Kor:"그런 다음에, 그 여인이 온 주민에게 돌아가서 슬기로운 말로 설득시키니, 그들이 비그리의 아들 세바의 머리를 잘라서, 요압에게 던져 주었다. 요압이 나팔을 부니, 모든 군인이 그 성읍에서 떠나, 저마다 자기 집으로 흩어져서 돌아갔다. 요압은 왕이 있는 예루살렘으로 돌아왔다.",
+    Kor:"그런 다음에, 그 여인이 온 주민에게 돌아가서, 슬기로운 말로 설득시키니, 그들이 비그리의 아들 세바의 머리를 잘라서, 요압에게 던져 주었다. 요압이 나팔을 부니, 모든 군인이 그 성읍에서 떠나, 저마다 자기 집으로 흩어져서 돌아갔다. 요압은 왕이 있는 예루살렘으로 돌아왔다.",
     Chn:"妇人就凭她的智慧去劝众人。他们便割下比基利的儿子示巴的首级，丢给约押。约押吹角，众人就离城而散，各归各家去了。约押回耶路撒冷，到王那里。",
     Eng:"Then the woman went to all the people with her wise advice, and they cut off the head of Sheba son of Bicri and threw it to Joab. So he sounded the trumpet, and his men dispersed from the city, each returning to his home. And Joab went back to the king in Jerusalem.",
     Ind:"Kemudian masuklah pula perempuan itu dan berbicara kepada seluruh rakyat dengan bijaksana; sesudah itu mereka memenggal kepala Seba bin Bikri dan melemparkannya kepada Yoab. Yoab meniup sangkakala, lalu berserak-seraklah mereka meninggalkan kota itu, masing-masing ke tempatnya. Maka pulanglah Yoab ke Yerusalem kepada raja."
   },
   {Bible:"2Samuel", Chapter:20, Verse:23, Page:1,
-    Kor:"<다윗의 관리들> ○요압은 온 이스라엘의 군대 사령관이 되고, 여호야다의 아들 브나야는 그렛 사람과 블렛 사람으로 이루어진 경호원들의 지휘를 맡고,",
+    Kor:"○요압은 온 이스라엘의 군대 사령관이 되고, 여호야다의 아들 브나야는 그렛 사람과 블렛 사람으로 이루어진 경호원들의 지휘를 맡고,",
     Chn:"约押作以色列全军的元帅；耶何耶大的儿子比拿雅统辖基利提人和比利提人；",
     Eng:"Joab was over Israel's entire army; Benaiah son of Jehoiada was over the Kerethites and Pelethites;",
     Ind:"Yoab menjadi kepala atas segenap tentara Israel, dan Benaya bin Yoyada menjadi kepala atas orang Kreti dan orang Pleti."

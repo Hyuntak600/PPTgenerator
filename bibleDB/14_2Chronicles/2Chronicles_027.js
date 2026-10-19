@@ -3,19 +3,19 @@
 BibleDB.ref("2Chronicles",27,9);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:27, Verse:1, Page:1,
-    Kor:"<유다 왕 요담(왕하 15:32-38)> 요담이 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 열여섯 해 동안 다스렸다. 그의 어머니 여루사는 사독의 딸이다.",
+    Kor:"요담이 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 열여섯 해 동안 다스렸다. 그의 어머니 여루사는 사독의 딸이다.",
     Chn:"约坦登基的时候年二十五岁，在耶路撒冷作王十六年，他母亲名叫耶路沙，是撒督的女儿。",
     Eng:"Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother's name was Jerusha daughter of Zadok.",
     Ind:"Yotam berumur dua puluh lima tahun pada waktu ia menjadi raja dan enam belas tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Yerusa, anak Zadok."
   },
   {Bible:"2Chronicles", Chapter:27, Verse:2, Page:1,
-    Kor:"그는 아버지 웃시야가 한 것을 그대로 본받아서, 주님께서 보시기에 올바른 일을 하였으나, 그의 아버지와는 달리, 주님의 성전에는 들어가지 않았다. 그러나 백성은 계속하여 악한 일을 저질렀다.",
+    Kor:"그는 아버지 웃시야가 한 것을 그대로 본받아서, 주께서 보시기에 올바른 일을 하였으나, 그의 아버지와는 달리, 주의 성전에는 들어가지 않았다. 그러나 백성은 계속하여 악한 일을 저질렀다.",
     Chn:"约坦行耶和华眼中看为正的事，效法他父乌西雅一切所行的，只是不入耶和华的殿。百姓还行邪僻的事。",
     Eng:"He did what was right in the eyes of the LORD, just as his father Uzziah had done, but unlike him he did not enter the temple of the LORD. The people, however, continued their corrupt practices.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, tepat seperti yang dilakukan Uzia, ayahnya, hanya ia tidak memasuki Bait TUHAN. Tetapi rakyat masih saja melakukan hal yang merusak."
   },
   {Bible:"2Chronicles", Chapter:27, Verse:3, Page:1,
-    Kor:"○그는 주님의 성전의 '북쪽 문'을 만들어 세웠고, 오벨 성벽도 더 연장하여 쌓았다.",
+    Kor:"○그는 주의 성전의 '북쪽 문'을 만들어 세웠고, 오벨 성벽도 더 연장하여 쌓았다.",
     Chn:"约坦建立耶和华殿的上门，在俄斐勒城上多有建造，",
     Eng:"Jotham rebuilt the Upper Gate of the temple of the LORD and did extensive work on the wall at the hill of Ophel.",
     Ind:"Ia mendirikan Pintu Gerbang Tinggi di rumah TUHAN dan mengadakan banyak pembangunan pada tembok Ofel."

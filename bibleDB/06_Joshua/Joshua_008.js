@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",8,35);
 BibleDB.add([
   {Bible:"Joshua", Chapter:8, Verse:1, Page:1,
-    Kor:"<아이 성의 붕괴> 주님께서 여호수아에게 말씀하셨다. \"두려워하지 말아라! 겁내지 말아라! 군인들을 다 동원하여 아이 성으로 쳐올라가거라. 보아라, 내가 아이의 왕과 백성과 성읍과 땅을 다 네 손에 넘겨 주었다.",
+    Kor:"주께서 여호수아에게 말씀하셨다. \"두려워하지 말아라! 겁내지 말아라! 군인들을 다 동원하여 아이 성으로 쳐올라가거라. 보아라, 내가 아이의 왕과 백성과 성읍과 땅을 다 네 손에 넘겨 주었다.",
     Chn:"耶和华对约书亚说：「不要惧怕，也不要惊惶。你起来，率领一切兵丁上艾城去，我已经把艾城的王和他的民、他的城，并他的地，都交在你手里。",
     Eng:"Then the LORD said to Joshua, \"Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.",
     Ind:"Kemudian berfirmanlah TUHAN kepada Yosua: \"Janganlah takut dan janganlah tawar hati; bawalah seluruh tentara dan bersiaplah, majulah ke Ai. Ketahuilah, Aku serahkan kepadamu raja negeri Ai, rakyatnya, kotanya dan negerinya,"
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"maka kamu harus bangun dari tempat persembunyianmu itu untuk menduduki kota itu, dan TUHAN, Allahmu, akan menyerahkannya ke dalam tanganmu."
   },
   {Bible:"Joshua", Chapter:8, Verse:8, Page:1,
-    Kor:"성을 점령하거든, 주님께서 하신 말씀을 따라서 그 성을 불태워라. 내가 너희에게 내린 명령이니, 명심하여라.\"",
+    Kor:"성을 점령하거든, 주께서 하신 말씀을 따라서 그 성을 불태워라. 내가 너희에게 내린 명령이니, 명심하여라.\"",
     Chn:"你们夺了城以后，就放火烧城，要照耶和华的话行。这是我吩咐你们的。」",
     Eng:"When you have taken the city, set it on fire. Do what the LORD has commanded. See to it; you have my orders.\"",
     Ind:"Segera setelah kamu merebut kota itu, haruslah kamu membakarnya; sesuai dengan firman TUHAN kamu harus melakukan semuanya itu; ingatlah, itulah perintahku kepadamu.\""
   },
   {Bible:"Joshua", Chapter:8, Verse:9, Page:1,
-    Kor:"여호수아가 그들을 보내니, 그들이 매복할 곳으로 가서, 아이 성 서쪽, 베델과 아이 성 사이에 자리를 잡았다. 여호수아는 그 날 밤에 군인들과 함께 잤다.",
+    Kor:"여호수아가 그들을 보내니, 그들이 매복할 곳으로 가서, 아이 성 서쪽, 베델과 아이 성 사이에 자리를 잡았다. 여호수아는 그 날 밤을 군인들과 함께 잤다.",
     Chn:"约书亚打发他们前往，他们就上埋伏的地方去，住在伯特利和艾城的中间，就是在艾城的西边。这夜约书亚却在民中住宿。",
     Eng:"Then Joshua sent them off, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai--but Joshua spent that night with the people.",
     Ind:"Demikianlah Yosua menyuruh mereka pergi, lalu berjalanlah mereka ke tempat persembunyian dan tinggal di antara Betel dan Ai, di sebelah barat Ai. Tetapi Yosua bermalam di tengah-tengah rakyat pada malam itu."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Sebab itu semua orang yang ada di kota dikerahkan untuk mengejar orang Israel. Maka mereka mengejar Yosua, sehingga makin jauhlah mereka terpancing dari kota."
   },
   {Bible:"Joshua", Chapter:8, Verse:17, Page:1,
-    Kor:"아이 성과 a베델에는, 이스라엘 군대를 추격하지 않고 남아 있는 사람이 하나도 없었다. 그들은 성문을 열어 둔 채 이스라엘 군대를 추격하였다.(a 칠십인역에는 '베델'이 없음)",
+    Kor:"아이 성과 베델에는, 이스라엘 군대를 추격하지 않고 남아 있는 사람이 하나도 없었다. 그들은 성문을 열어 둔 채 이스라엘 군대를 추격하였다.",
     Chn:"艾城和伯特利城没有一人不出来追赶以色列人的，撇了敞开的城门，去追赶以色列人。",
     Eng:"Not a man remained in Ai or Bethel who did not go after Israel. They left the city open and went in pursuit of Israel.",
     Ind:"Seorangpun tidak tertinggal lagi di Ai dan Betel yang tidak keluar memburu orang Israel. Mereka meninggalkan kota itu terbuka, karena mereka mengejar orang Israel."
   },
   {Bible:"Joshua", Chapter:8, Verse:18, Page:1,
-    Kor:"○주님께서 여호수아에게 말씀하셨다. \"네가 쥐고 있는 단창을 들어 아이 성 쪽을 가리켜라. 내가 그 성을 네 손에 넘겨 준다.\" 여호수아는 들고 있던 단창을 들어, 아이 성 쪽을 가리켰다.",
+    Kor:"○주께서 여호수아에게 말씀하셨다. \"네가 쥐고 있는 단창을 들어 아이 성 쪽을 가리켜라. 내가 그 성을 네 손에 넘겨 준다.\" 여호수아는 들고 있던 단창을 들어, 아이 성 쪽을 가리켰다.",
     Chn:"耶和华吩咐约书亚说：「你向艾城伸出手里的短枪，因为我要将城交在你手里。」约书亚就向城伸出手里的短枪。",
     Eng:"Then the LORD said to Joshua, \"Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city.\" So Joshua held out his javelin toward Ai.",
     Ind:"Lalu berfirmanlah TUHAN kepada Yosua: \"Acungkanlah lembing yang ada di tanganmu ke arah Ai, sebab Aku menyerahkan kota itu ke dalam tanganmu.\" Maka Yosua mengacungkan lembing yang di tangannya ke arah kota itu."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Ketika diacungkannya tangannya, maka segeralah bangun orang-orang yang bersembunyi itu dari tempatnya, mereka berlari memasuki kota, merebutnya, lalu segera membakar kota itu."
   },
   {Bible:"Joshua", Chapter:8, Verse:20, Page:1,
-    Kor:"아이 성 사람들이 뒤를 돌아보니, 연기가 그 성에서 하늘로 치솟고 있었다. 그들은 어느 곳으로도 도망할 수 없게 되었다. 광야로 도망하는 척하던 이스라엘 군대는 뒤쫓던 사람들에게로 돌아섰다.",
+    Kor:"아이 성 사람들이 뒤를 돌아보니 연기가 그 성에서 하늘로 치솟고 있었다. 그들은 어느 곳으로도 도망할 수 없게 되었다. 광야로 도망하는 척하던 이스라엘 군대는 뒤쫓던 사람들에게로 돌아섰다.",
     Chn:"艾城的人回头一看，不料，城中烟气冲天，他们就无力向左向右逃跑。那往旷野逃跑的百姓便转身攻击追赶他们的人。",
     Eng:"The men of Ai looked back and saw the smoke of the city rising against the sky, but they had no chance to escape in any direction, for the Israelites who had been fleeing toward the desert had turned back against their pursuers.",
     Ind:"Ketika orang Ai berpaling menoleh ke belakang, tampaklah asap kota itu naik membubung ke langit; mereka tidak sempat melarikan diri ke manapun juga, sebab rakyat yang tadinya lari ke padang gurun, berbalik melawan pengejar-pengejarnya."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sementara itu juga keluar orang-orang Israel yang lain dari dalam kota menyerbu orang-orang Ai, sehingga terjepit di tengah-tengah orang Israel itu, yang ini dari sini dan yang itu dari sana; orang-orang Ai ditewaskan, sehingga seorangpun dari mereka tidak ada yang dibiarkan terlepas atau luput."
   },
   {Bible:"Joshua", Chapter:8, Verse:23, Page:1,
-    Kor:"그러나 이스라엘 사람들은 아이 성의 왕만은 사로잡아 여호수아에게로 끌고 왔다.",
+    Kor:"그러나 이스라엘 사람들은, 아이 성의 왕만은 사로잡아 여호수아에게로 끌고 왔다.",
     Chn:"生擒了艾城的王，将他解到约书亚那里。",
     Eng:"But they took the king of Ai alive and brought him to Joshua.",
     Ind:"Tetapi raja Ai ditangkap mereka hidup-hidup dan dihadapkan kepada Yosua."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Jumlah semua orang yang tewas pada hari itu, baik laki-laki maupun perempuan, ada dua belas ribu orang, semuanya orang Ai."
   },
   {Bible:"Joshua", Chapter:8, Verse:26, Page:1,
-    Kor:"여호수아는, 아이 성의 모든 주민을 b전멸시켜서 희생제물로 바칠 때까지, 단창을 치켜든 그의 손을 내리지 않았다.(b 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"여호수아는, 아이 성의 모든 주민을 전멸시켜서 희생제물로 바칠 때까지, 단창을 치켜든 그의 손을 내리지 않았다.",
     Chn:"约书亚没有收回手里所伸出来的短枪，直到把艾城的一切居民尽行杀灭。",
     Eng:"For Joshua did not draw back the hand that held out his javelin until he had destroyed all who lived in Ai.",
     Ind:"Dan Yosua tidak menarik tangannya yang mengacungkan lembing itu, sebelum seluruh penduduk kota Ai ditumpasnya."
   },
   {Bible:"Joshua", Chapter:8, Verse:27, Page:1,
-    Kor:"오직 가축과 그 성의 전리품은, 주님께서 여호수아에게 명하신 말씀대로 이스라엘이 차지하였다.",
+    Kor:"오직 가축과 그 성의 전리품은, 주께서 여호수아에게 명하신 말씀대로 이스라엘이 차지하였다.",
     Chn:"惟独城中的牲畜和财物，以色列人都取为自己的掠物，是照耶和华所吩咐约书亚的话。",
     Eng:"But Israel did carry off for themselves the livestock and plunder of this city, as the LORD had instructed Joshua.",
     Ind:"Hanya ternak dan barang-barang kota itu dijarah oleh orang Israel, sesuai dengan firman TUHAN, yang diperintahkan-Nya kepada Yosua."
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"Yosua membakar Ai dan membuatnya menjadi timbunan puing untuk selama-lamanya, menjadi tempat yang tandus sampai sekarang."
   },
   {Bible:"Joshua", Chapter:8, Verse:29, Page:1,
-    Kor:"여호수아는 아이 성의 왕을 저녁때까지 나무에 매달아 두었다가, 해가 질 때에 사람들에게 명령을 내려, 나무에서 그의 주검을 끌어내려 성문 어귀에 내버리게 하였다. 사람들이 주검 위에 큰 돌무더기를 쌓았는데, 그것이 오늘날까지 남아 있다.",
+    Kor:"여호수아는, 아이 성의 왕을 저녁때까지 나무에 매달아 두었다가 해가 질 때에 사람들에게 명령을 내려, 나무에서 그의 주검을 끌어내려 성문 어귀에 내버리게 하였다. 사람들이 주검 위에 큰 돌무더기를 쌓았는데, 그것이 오늘날까지 남아 있다.",
     Chn:"又将艾城王挂在树上，直到晚上。日落的时候，约书亚吩咐人把尸首从树上取下来，丢在城门口，在尸首上堆成一大堆石头，直存到今日。",
     Eng:"He hung the king of Ai on a tree and left him there until evening. At sunset, Joshua ordered them to take his body from the tree and throw it down at the entrance of the city gate. And they raised a large pile of rocks over it, which remains to this day.",
     Ind:"Dan raja Ai digantungnya pada sebuah tiang sampai petang. Ketika matahari terbenam, Yosua memerintahkan orang menurunkan mayat itu dari tiang, lalu dilemparkan di depan pintu gerbang kota, kemudian didirikan oranglah di atasnya suatu timbunan batu yang besar, yang masih ada sampai sekarang."
   },
   {Bible:"Joshua", Chapter:8, Verse:30, Page:1,
-    Kor:"<에발 산에서 율법을 낭독하다> ○그 뒤에 여호수아는 에발 산 위에 주 이스라엘의 하나님을 섬기려고 제단을 쌓았다.",
+    Kor:"○그 뒤에, 여호수아는 에발 산 위에 주 이스라엘의 하나님을 섬기려고 제단을 쌓았다.",
     Chn:"那时，约书亚在以巴路山上为耶和华—以色列的　神筑一座坛，",
     Eng:"Then Joshua built on Mount Ebal an altar to the LORD, the God of Israel,",
     Ind:"Pada waktu itulah Yosua mendirikan mezbah di gunung Ebal bagi TUHAN, Allah Israel,"
   },
   {Bible:"Joshua", Chapter:8, Verse:31, Page:1,
-    Kor:"그것은 주님의 종 모세가 이스라엘 자손에게 명령한 대로, 또 모세의 율법책에 기록된 대로, 쇠 연장으로 다듬지 아니한 자연석으로 쌓은 제단이다. 그들은 그 위에서 번제와 화목제를 주님께 드렸다.",
+    Kor:"그것은 주의 종 모세가 이스라엘 자손에게 명령한 대로, 또 모세의 율법책에 기록된 대로, 쇠 연장으로 다듬지 아니한 자연석으로 쌓은 제단이었다. 그들은 그 위에서 번제와 화목제를 주께 드렸다.",
     Chn:"是用没有动过铁器的整石头筑的，照着耶和华仆人摩西所吩咐以色列人的话，正如摩西律法书上所写的。众人在这坛上给耶和华奉献燔祭和平安祭。",
     Eng:"as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses--an altar of uncut stones, on which no iron tool had been used. On it they offered to the LORD burnt offerings and sacrificed fellowship offerings.",
     Ind:"seperti yang diperintahkan Musa, hamba TUHAN, kepada orang Israel, menurut apa yang tertulis dalam kitab hukum Musa: suatu mezbah dari batu-batu yang tidak dipahat, yang tidak diolah dengan perkakas besi apapun. Di atasnyalah mereka mempersembahkan korban bakaran kepada TUHAN dan mengorbankan korban keselamatan."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Dan di sanalah di atas batu-batu itu, dituliskan Yosua salinan hukum Musa, yang dituliskannya di depan orang Israel."
   },
   {Bible:"Joshua", Chapter:8, Verse:33, Page:1,
-    Kor:"온 이스라엘 백성은 장로들과 지도자들과 재판장들과 이방 사람과 본토 사람과 함께 궤의 양쪽에 서서, 주님의 언약궤를 멘 레위 사람 제사장을 바라보고 서 있었다. 백성의 절반은 그리심 산을 등지고 서고, 절반은 에발 산을 등지고 섰는데, 이것은 전에 주님의 종 모세가 이스라엘 백성을 축복하려고 할 때에 명령한 것과 같았다.",
+    Kor:"온 이스라엘 백성은 장로들과 지도자들과 재판장들과 이방 사람과 본토 사람과 함께 궤의 양쪽에 서서, 주의 언약궤를 멘 레위 사람 제사장을 바라보고 서 있었다. 백성의 절반은 그리심 산을 등지고 서고, 절반은 에발 산을 등지고 섰는데, 이것은 전에 주의 종 모세가 이스라엘 백성을 축복하려고 할 때에 명령한 것과 같았다.",
     Chn:"以色列众人，无论是本地人、是寄居的，和长老、官长，并审判官，都站在约柜两旁，在抬耶和华约柜的祭司利未人面前，一半对着基利心山，一半对着以巴路山，为以色列民祝福，正如耶和华仆人摩西先前所吩咐的。",
     Eng:"All Israel, aliens and citizens alike, with their elders, officials and judges, were standing on both sides of the ark of the covenant of the LORD, facing those who carried it--the priests, who were Levites. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had formerly commanded when he gave instructions to bless the people of Israel.",
     Ind:"Seluruh orang Israel, para tua-tuanya, para pengatur pasukannya dan para hakimnya berdiri sebelah-menyebelah tabut, berhadapan dengan para imam yang memang suku Lewi, para pengangkat tabut perjanjian TUHAN itu, baik pendatang maupun anak negeri, setengahnya menghadap ke gunung Gerizim dan setengahnya lagi menghadap ke gunung Ebal, seperti yang dahulu diperintahkan oleh Musa, hamba TUHAN, apabila orang memberkati bangsa Israel."
   },
   {Bible:"Joshua", Chapter:8, Verse:34, Page:1,
-    Kor:"그 뒤에 여호수아는 율법책에 기록된 축복과 저주의 말을 일일이 그대로 낭독하였다.",
+    Kor:"그 뒤에 여호수아는 율법책에 기록된 축복과 저주의 말을, 일일이 그대로 낭독하였다.",
     Chn:"随后，约书亚将律法上祝福、咒诅的话，照着律法书上一切所写的，都宣读了一遍。",
     Eng:"Afterward, Joshua read all the words of the law--the blessings and the curses--just as it is written in the Book of the Law.",
     Ind:"Sesudah itu dibacakannyalah segala perkataan hukum Taurat, berkatnya dan kutuknya, sesuai dengan segala apa yang tertulis dalam kitab hukum."

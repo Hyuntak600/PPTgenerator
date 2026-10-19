@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",34,35);
 BibleDB.add([
   {Bible:"Exodus", Chapter:34, Verse:1, Page:1,
-    Kor:"<두 번째 돌판(신 10:1-5)> 주님께서 모세에게 말씀하셨다. \"너는 돌판 두 개를 처음 것과 같이 깎아라. 그러면, 네가 깨뜨려 버린 처음 돌판 위에 쓴 그 말을, 내가 새 돌판에 다시 새겨 주겠다.",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 돌판 두 개를 처음 것과 같이 깎아라. 그러면, 네가 깨뜨려 버린 처음 돌판 위에 쓴 그 말을, 내가 새 돌판에 다시 새겨 주겠다.",
     Chn:"耶和华吩咐摩西说：「你要凿出两块石版，和先前你摔碎的那版一样；其上的字我要写在这版上。",
     Eng:"The LORD said to Moses, \"Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pahatlah dua loh batu sama dengan yang mula-mula, maka Aku akan menulis pada loh itu segala firman yang ada pada loh yang mula-mula, yang telah kaupecahkan."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Tetapi janganlah ada seorangpun yang naik bersama-sama dengan engkau dan juga seorangpun tidak boleh kelihatan di seluruh gunung itu, bahkan kambing domba dan lembu sapipun tidak boleh makan rumput di sekitar gunung itu.\""
   },
   {Bible:"Exodus", Chapter:34, Verse:4, Page:1,
-    Kor:"모세는 주님께서 그에게 명하신 대로, 돌판 두 개를 처음 것과 같이 깎았다. 이튿날 아침에 일찍 일어나서, 그는 두 돌판을 손에 들고 시내 산으로 올라갔다.",
+    Kor:"모세는, 주께서 그에게 명하신 대로, 돌판 두 개를 처음 것과 같이 깎았다. 이튿날 아침에 일찍 일어나서, 그는 두 돌판을 손에 들고 시내 산으로 올라갔다.",
     Chn:"摩西就凿出两块石版，和先前的一样。清晨起来，照耶和华所吩咐的上西奈山去，手里拿着两块石版。",
     Eng:"So Moses chiseled out two stone tablets like the first ones and went up Mount Sinai early in the morning, as the LORD had commanded him; and he carried the two stone tablets in his hands.",
     Ind:"Lalu Musa memahat dua loh batu sama dengan yang mula-mula; bangunlah ia pagi-pagi dan naiklah ia ke atas gunung Sinai, seperti yang diperintahkan TUHAN kepadanya, dan membawa kedua loh batu itu di tangannya."
   },
   {Bible:"Exodus", Chapter:34, Verse:5, Page:1,
-    Kor:"그 때에 주님께서 구름에 싸여 내려오셔서, 그와 함께 거기에 서서, 거룩한 이름 '주'를 선포하셨다.",
+    Kor:"그 때에 주께서 구름에 싸여 내려오셔서, 그와 함께 거기에 서서, 거룩한 이름 '주'를 선포하셨다.",
     Chn:"耶和华在云中降临，和摩西一同站在那里，宣告耶和华的名。",
     Eng:"Then the LORD came down in the cloud and stood there with him and proclaimed his name, the LORD.",
     Ind:"Turunlah TUHAN dalam awan, lalu berdiri di sana dekat Musa serta menyerukan nama TUHAN."
   },
   {Bible:"Exodus", Chapter:34, Verse:6, Page:1,
-    Kor:"주님께서 모세의 앞으로 지나가시면서 선포하셨다. \"주, 나 주는 자비롭고 은혜로우며, 노하기를 더디하고, 한결같은 사랑과 진실이 풍성한 하나님이다.",
+    Kor:"주께서 모세의 앞으로 지나가시면서 선포하셨다. \"주, 나 주는 자비롭고 은혜로우며, 노하기를 더디하고, 한결같은 사랑과 진실이 풍성한 하나님이다.",
     Chn:"耶和华在他面前宣告说：「耶和华，耶和华，是有怜悯有恩典的　神，不轻易发怒，并有丰盛的慈爱和诚实，",
     Eng:"And he passed in front of Moses, proclaiming, \"The LORD, the LORD, the compassionate and gracious God, slow to anger, abounding in love and faithfulness,",
     Ind:"Berjalanlah TUHAN lewat dari depannya dan berseru: \"TUHAN, TUHAN, Allah penyayang dan pengasih, panjang sabar, berlimpah kasih-Nya dan setia-Nya,"
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Segeralah Musa berlutut ke tanah, lalu sujud menyembah"
   },
   {Bible:"Exodus", Chapter:34, Verse:9, Page:1,
-    Kor:"아뢰었다. \"주님, 주님께서 저에게 은총을 베푸시는 것이 사실이면, 주님께서는 우리와 함께 가 주시기 바랍니다. 이 백성이 고집이 센 백성인 것은 사실이나, 주님께서 우리의 악과 우리의 죄를 용서해 주시고, 우리를 주님의 소유로 삼아 주시기를 바랍니다.\"",
+    Kor:"아뢰었다. \"주님, 주께서 저에게 은총을 베푸시는 것이 사실이면, 주께서는 우리와 함께 가 주시기 바랍니다. 이 백성이 고집이 센 백성인 것은 사실이나, 주께서 우리의 악과 우리의 죄를 용서해 주시고, 우리를 주의 소유로 삼아 주시기를 바랍니다.\"",
     Chn:"说：「主啊，我若在你眼前蒙恩，求你在我们中间同行，因为这是硬着颈项的百姓。又求你赦免我们的罪孽和罪恶，以我们为你的产业。」",
     Eng:"\"O Lord, if I have found favor in your eyes,\" he said, \"then let the Lord go with us. Although this is a stiff-necked people, forgive our wickedness and our sin, and take us as your inheritance.\"",
     Ind:"serta berkata: \"Jika aku telah mendapat kasih karunia di hadapan-Mu, ya Tuhan, berjalanlah kiranya Tuhan di tengah-tengah kami; sekalipun bangsa ini suatu bangsa yang tegar tengkuk, tetapi ampunilah kesalahan dan dosa kami; ambillah kami menjadi milik-Mu.\""
   },
   {Bible:"Exodus", Chapter:34, Verse:10, Page:1,
-    Kor:"<다시 언약을 맺으시다(출 23:14-19; 신 7:1-5; 16:1-7)> ○주님께서 말씀하셨다. \"내가 이제 너희와 언약을 세운다. 내가 너희 모든 백성 앞에서, 이 세상 어느 민족들 가운데서도 이루어진 적이 없는 놀라운 일을 하여 보일 것이다. 너희 주변에 사는 모든 백성이, 나 주가 너희에게 하여 02 34:주는 그 일이 얼마나 두려운 일인지를 보게 될 것이다.",
+    Kor:"○주께서 말씀하셨다. \"내가 이제 너희와 언약을 세운다. 내가 너희 모든 백성 앞에서, 이 세상어느 민족들 가운데서도 이루어진 적이 없는 놀라운 일을 하여 보일 것이다. 너희 주변에 사는 모든 백성이, 나 주가 너희에게 하여 주는 그 일이 얼마나 두려운 일인지를 보게 될 것이다.",
     Chn:"耶和华说：「我要立约，要在百姓面前行奇妙的事，是在遍地万国中所未曾行的。在你四围的外邦人就要看见耶和华的作为，因我向你所行的是可畏惧的事。",
     Eng:"Then the LORD said: \"I am making a covenant with you. Before all your people I will do wonders never before done in any nation in all the world. The people you live among will see how awesome is the work that I, the LORD, will do for you.",
     Ind:"Firman-Nya: \"Sungguh, Aku mengadakan suatu perjanjian. Di depan seluruh bangsamu ini akan Kulakukan perbuatan-perbuatan yang ajaib, seperti yang belum pernah dijadikan di seluruh bumi di antara segala bangsa; seluruh bangsa, yang di tengah-tengahnya engkau diam, akan melihat perbuatan TUHAN, sebab apa yang akan Kulakukan dengan engkau, sungguh-sungguh dahsyat."
   },
   {Bible:"Exodus", Chapter:34, Verse:11, Page:1,
-    Kor:"너희는 내가 오늘 너희에게 명하는 것을 삼가 지키도록 하여라. 내가 이제 너희 앞에서 아모리 사람과 가나안 사람과 헷 사람과 브리스 사람과 히위 사람과 여부스 사람을 쫓아내겠다.",
+    Kor:"너희는, 내가 오늘 너희에게 명하는 것을 삼가 지키도록 하여라. 내가 이제 너희 앞에서 아모리 사람과 가나안 사람과 헷 사람과 브리스 사람과 히위 사람과 여부스 사람을 쫓아내겠다.",
     Chn:"「我今天所吩咐你的，你要谨守。我要从你面前撵出亚摩利人、迦南人、赫人、比利洗人、希未人、耶布斯人。",
     Eng:"Obey what I command you today. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites.",
     Ind:"Tetapi engkau, berpeganglah pada yang Kuperintahkan kepadamu pada hari ini. Lihat, Aku akan menghalau dari depanmu orang Amori, orang Kanaan, orang Het, orang Feris, orang Hewi dan orang Yebus."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Janganlah kaubuat bagimu allah tuangan."
   },
   {Bible:"Exodus", Chapter:34, Verse:18, Page:1,
-    Kor:"○너희는 무교절을 지켜야 한다. 내가 너희에게 명한 대로, 아빕월의 정해진 때에, 이레 동안 누룩을 넣지 않은 빵을 먹어라. 이것은 너희가 아빕월에 이집트에서 나왔기 때문이다.",
+    Kor:"○너희는 무교절을 지켜야 한다. 내가 너희에게 명한 대로, 아빕월의 정한 때에, 이레 동안 누룩을 넣지 않은 빵을 먹어라. 이것은, 너희가 아빕월에 이집트에서 나왔기 때문이다.",
     Chn:"「你要守除酵节，照我所吩咐你的，在亚笔月内所定的日期吃无酵饼七天，因为你是这亚笔月内出了埃及。",
     Eng:"\"Celebrate the Feast of Unleavened Bread. For seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Abib, for in that month you came out of Egypt.",
     Ind:"Hari raya Roti Tidak Beragi haruslah kaupelihara; tujuh hari lamanya engkau harus makan roti yang tidak beragi, seperti yang Kuperintahkan kepadamu, pada waktu yang ditetapkan dalam bulan Abib, sebab dalam bulan Abib itulah engkau keluar dari Mesir."
@@ -123,31 +123,31 @@ BibleDB.add([
     Ind:"Tetapi anak yang lahir terdahulu dari keledai haruslah kautebus dengan seekor domba; jika tidak kautebus, haruslah kaupatahkan batang lehernya. Setiap yang sulung dari antara anak-anakmu haruslah kautebus, dan janganlah orang menghadap ke hadirat-Ku dengan tangan hampa."
   },
   {Bible:"Exodus", Chapter:34, Verse:21, Page:1,
-    Kor:"○너희는 엿새 동안 일을 하고, 이렛날에는 쉬어야 한다. 밭갈이 하는 철이나 거두어들이는 철에도 쉬어야 한다.",
+    Kor:"○너희는 엿새 동안 일을 하고, 이렛날에는 쉬어야 한다. 밭갈이하는 철이나 거두어들이는 철에도 쉬어야 한다.",
     Chn:"「你六日要做工，第七日要安息，虽在耕种收割的时候也要安息。",
     Eng:"\"Six days you shall labor, but on the seventh day you shall rest; even during the plowing season and harvest you must rest.",
     Ind:"Enam harilah lamanya engkau bekerja, tetapi pada hari yang ketujuh haruslah engkau berhenti, dan dalam musim membajak dan musim menuai haruslah engkau memelihara hari perhentian juga."
   },
   {Bible:"Exodus", Chapter:34, Verse:22, Page:1,
-    Kor:"○너희는 밀을 처음 거두어들일 때에는 칠칠절을 지키고, a한 해가 끝날 때에는 수장절을 지켜야 한다.(a 또는 '가을에는')",
+    Kor:"○너희는 밀을 처음 거두어들일 때에는 칠칠절을 지키고, 한 해가 끝날 때에는 수장절을 지켜야 한다.",
     Chn:"在收割初熟麦子的时候要守七七节；又在年底要守收藏节。",
     Eng:"\"Celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the turn of the year.",
     Ind:"Hari raya Tujuh Minggu, yakni hari raya buah bungaran dari penuaian gandum, haruslah kaurayakan, juga hari raya pengumpulan hasil pada pergantian tahun."
   },
   {Bible:"Exodus", Chapter:34, Verse:23, Page:1,
-    Kor:"○너희 가운데 남자들은 모두 한 해에 세 번 이스라엘의 하나님 나 주 앞에 나와야 한다.",
+    Kor:"○너희 가운데 남자들은 모두 한 해에 세 번 이스라엘의 하나님, 나 주 앞에 나와야 한다.",
     Chn:"你们一切男丁要一年三次朝见主耶和华—以色列的　神。",
     Eng:"Three times a year all your men are to appear before the Sovereign LORD, the God of Israel.",
     Ind:"Tiga kali setahun segala orangmu yang laki-laki harus menghadap ke hadirat Tuhanmu TUHAN, Allah Israel,"
   },
   {Bible:"Exodus", Chapter:34, Verse:24, Page:1,
-    Kor:"내가 뭇 민족을 너희 앞에서 쫓아내고, 너희의 영토를 넓혀 주겠다. 너희가 한 해에 세 번 주 너희의 하나님을 뵈려고 올라올 때에, 아무도 너희의 땅을 점령하려 하지 않을 것이다.",
+    Kor:"내가 뭇 민족을 너희 앞에서 쫓아내고, 너희의 영토를 넓혀 주겠다. 너희가 한 해에 세 번, 주 너희의 하나님을 뵈려고 올라올 때에, 아무도 너희의 땅을 점령하려 하지 않을 것이다.",
     Chn:"我要从你面前赶出外邦人，扩张你的境界。你一年三次上去朝见耶和华—你　神的时候，必没有人贪慕你的地土。",
     Eng:"I will drive out nations before you and enlarge your territory, and no one will covet your land when you go up three times each year to appear before the LORD your God.",
     Ind:"sebab Aku akan menghalau bangsa-bangsa dari depanmu dan meluaskan daerahmu; dan tiada seorangpun yang akan mengingini negerimu, apabila engkau pergi untuk menghadap ke hadirat TUHAN, Allahmu, tiga kali setahun."
   },
   {Bible:"Exodus", Chapter:34, Verse:25, Page:1,
-    Kor:"○너희는 나에게 바치는 희생제물의 피를 누룩 넣은 빵과 함께 바치지 말아라. 유월절 제물은 이튿날 아침까지 남겨 두어서는 안 된다.",
+    Kor:"○너희는 나에게 바치는 희생제물의 피를, 누룩을 넣은 빵과 함께 바치지 말아라. 유월절 제물은 이튿날 아침까지 남겨 두어서는 안 된다.",
     Chn:"「你不可将我祭物的血和有酵的饼一同献上。逾越节的祭物也不可留到早晨。",
     Eng:"\"Do not offer the blood of a sacrifice to me along with anything containing yeast, and do not let any of the sacrifice from the Passover Feast remain until morning.",
     Ind:"Janganlah darah korban sembelihan yang kepada-Ku kaupersembahkan beserta sesuatu yang beragi, dan janganlah ada dari korban sembelihan pada hari raya Paskah bermalam sampai pagi."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Yang terbaik dari buah bungaran hasil tanahmu haruslah kaubawa ke dalam rumah TUHAN, Allahmu. Janganlah engkau masak anak kambing dalam susu induknya.\""
   },
   {Bible:"Exodus", Chapter:34, Verse:27, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너는 이 말을 기록하여라. 내가 이 말을 기초로 해서, 너와 이스라엘과 언약을 세웠기 때문이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 이 말을 기록하여라. 내가 이 말을 기초로 해서, 너와 이스라엘과 언약을 세웠기 때문이다.\"",
     Chn:"耶和华吩咐摩西说：「你要将这些话写上，因为我是按这话与你和以色列人立约。」",
     Eng:"Then the LORD said to Moses, \"Write down these words, for in accordance with these words I have made a covenant with you and with Israel.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Tuliskanlah segala firman ini, sebab berdasarkan firman ini telah Kuadakan perjanjian dengan engkau dan dengan Israel.\""
   },
   {Bible:"Exodus", Chapter:34, Verse:28, Page:1,
-    Kor:"모세는 거기서 주님과 함께 밤낮 사십 일을 지내면서, 빵도 먹지 않고, 물도 마시지 않고, 언약의 말씀 곧 십계명을 판에 기록하였다.",
+    Kor:"모세는 거기서 주와 함께 밤낮 사십 일을 지내면서, 빵도 먹지 않고, 물도 마시지 않고, 언약의 말씀, 곧 십계명을 판에 기록하였다.",
     Chn:"摩西在耶和华那里四十昼夜，也不吃饭也不喝水。耶和华将这约的话，就是十条诫，写在两块版上。",
     Eng:"Moses was there with the LORD forty days and forty nights without eating bread or drinking water. And he wrote on the tablets the words of the covenant--the Ten Commandments.",
     Ind:"Dan Musa ada di sana bersama-sama dengan TUHAN empat puluh hari empat puluh malam lamanya, tidak makan roti dan tidak minum air, dan ia menuliskan pada loh itu segala perkataan perjanjian, yakni Kesepuluh Firman."
   },
   {Bible:"Exodus", Chapter:34, Verse:29, Page:1,
-    Kor:"<모세가 시내 산에서 내려오다> ○모세가 두 증거판을 손에 들고 시내 산에서 내려왔다. 그가 산에서 내려올 때에, 그의 얼굴에서는 빛이 났다. 주님과 함께 말씀을 나누었으므로 얼굴에서 그렇게 빛이 났으나, 모세 자신은 전혀 알지 못하였다.",
+    Kor:"○모세가 두 증거판을 손에 들고 시내 산에서 내려왔다. 그가 산에서 내려올 때에, 그의 얼굴에서는 빛이 났다. 주와 함께 말씀을 나누었으므로 얼굴에서 그렇게 빛이 났으나, 모세 자신은 전혀 알지 못하였다.",
     Chn:"摩西手里拿着两块法版下西奈山的时候，不知道自己的面皮因耶和华和他说话就发了光。",
     Eng:"When Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was not aware that his face was radiant because he had spoken with the LORD.",
     Ind:"Ketika Musa turun dari gunung Sinai--kedua loh hukum Allah ada di tangan Musa ketika ia turun dari gunung itu--tidaklah ia tahu, bahwa kulit mukanya bercahaya oleh karena ia telah berbicara dengan TUHAN."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Tetapi Musa memanggil mereka, maka Harun dan segala pemimpin jemaah itu berbalik kepadanya dan Musa berbicara kepada mereka."
   },
   {Bible:"Exodus", Chapter:34, Verse:32, Page:1,
-    Kor:"그 때에야 모든 이스라엘 자손이 그에게로 가까이 갔다. 모세는, 주님께서 시내 산에서 자기에게 말씀하신 모든 것을 그들에게 명하였다.",
+    Kor:"그 때에야 모든 이스라엘 자손이 그에게로 가까이 갔다. 모세는, 주께서 시내 산에서 자기에게 말씀하신 모든 것을 그들에게 명하였다.",
     Chn:"随后以色列众人都近前来，他就把耶和华在西奈山与他所说的一切话都吩咐他们。",
     Eng:"Afterward all the Israelites came near him, and he gave them all the commands the LORD had given him on Mount Sinai.",
     Ind:"Sesudah itu mendekatlah segala orang Israel, lalu disampaikannyalah kepada mereka segala perintah yang diucapkan TUHAN kepadanya di atas gunung Sinai."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Setelah Musa selesai berbicara dengan mereka, diselubunginyalah mukanya."
   },
   {Bible:"Exodus", Chapter:34, Verse:34, Page:1,
-    Kor:"그러나 모세는, 주님 앞으로 들어가서 주님과 함께 말할 때에는 수건을 벗고, 나올 때까지는 쓰지 않았다. 나와서 주님께서 명하신 것을 이스라엘 자손에게 전할 때에는,",
+    Kor:"그러나 모세는, 주 앞으로 들어가서 주와 함께 말할 때에는 수건을 벗고, 나올 때까지는 쓰지 않았다. 나와서, 주께서 명하신 것을 이스라엘 자손에게 전할 때에는,",
     Chn:"但摩西进到耶和华面前与他说话就揭去帕子，及至出来的时候便将耶和华所吩咐的告诉以色列人。",
     Eng:"But whenever he entered the LORD'S presence to speak with him, he removed the veil until he came out. And when he came out and told the Israelites what he had been commanded,",
     Ind:"Tetapi apabila Musa masuk menghadap TUHAN untuk berbicara dengan Dia, ditanggalkannyalah selubung itu sampai ia keluar; dan apabila ia keluar dikatakannyalah kepada orang Israel apa yang diperintahkan kepadanya."
   },
   {Bible:"Exodus", Chapter:34, Verse:35, Page:1,
-    Kor:"이스라엘 자손이 자기의 얼굴에서 빛이 나는 것을 보게 되므로, 모세는 주님과 함께 이야기하러 들어갈 때까지는 다시 자기의 얼굴을 수건으로 가렸다.",
+    Kor:"이스라엘 자손이 자기의 얼굴에서 빛이 나는 것을 보게 되므로, 모세는, 주와 함께 이야기하러 들어갈 때까지는, 다시 자기의 얼굴을 수건으로 가렸다.",
     Chn:"以色列人看见摩西的面皮发光。摩西又用帕子蒙上脸，等到他进去与耶和华说话就揭去帕子。",
     Eng:"they saw that his face was radiant. Then Moses would put the veil back over his face until he went in to speak with the LORD.",
     Ind:"Apabila orang Israel melihat muka Musa, bahwa kulit muka Musa bercahaya, maka Musa menyelubungi mukanya kembali sampai ia masuk menghadap untuk berbicara dengan TUHAN."

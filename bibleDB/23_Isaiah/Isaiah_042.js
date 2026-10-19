@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",42,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:42, Verse:1, Page:1,
-    Kor:"<주님의 종> \"나의 종을 보아라. 그는 내가 붙들어 주는 사람이다. 내가 택한 사람, 내가 마음으로 기뻐하는 사람이다. 내가 그에게 나의 영을 주었으니, 그가 뭇 민족에게 공의를 베풀 것이다.",
+    Kor:"\"나의 종을 보아라. 그는 내가 붙들어 주는 사람이다. 내가 택한 사람, 내가 마음으로 기뻐하는 사람이다. 내가 그에게 나의 영을 주었으니, 그가 뭇 민족에게 공의를 베풀 것이다.",
     Chn:"看哪，我的仆人— 我所扶持所拣选、心里所喜悦的！ 我已将我的灵赐给他； 他必将公理传给外邦。",
     Eng:"\"Here is my servant, whom I uphold, my chosen one in whom I delight; I will put my Spirit on him and he will bring justice to the nations.",
     Ind:"Lihat, itu hamba-Ku yang Kupegang, orang pilihan-Ku, yang kepadanya Aku berkenan. Aku telah menaruh Roh-Ku ke atasnya, supaya ia menyatakan hukum kepada bangsa-bangsa."
   },
   {Bible:"Isaiah", Chapter:42, Verse:2, Page:1,
-    Kor:"그는 소리 치거나 목소리를 높이지 않으며, 거리에서는 그 소리가 들리지 않게 할 것이다.",
+    Kor:"그는 소리 치거나 목소리를 높이지 않으며, 거리에서는 그 소리가 들리지 않게 하실 것이다.",
     Chn:"他不喧嚷，不扬声， 也不使街上听见他的声音。",
     Eng:"He will not shout or cry out, or raise his voice in the streets.",
     Ind:"Ia tidak akan berteriak atau menyaringkan suara atau memperdengarkan suaranya di jalan."
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"untuk membuka mata yang buta, untuk mengeluarkan orang hukuman dari tempat tahanan dan mengeluarkan orang-orang yang duduk dalam gelap dari rumah penjara."
   },
   {Bible:"Isaiah", Chapter:42, Verse:8, Page:1,
-    Kor:"나는 주다. 이것이 나의 이름이다. 나는, 내가 받을 영광을 다른 사람에게 넘겨 주지 않고, 내가 받을 찬양을 우상들에게 양보하지 않는다.",
+    Kor:"나는 주다. 이것이 나의 이름이다. 나는, 내가 받을 영광을 절대로 다른 사람에게 넘겨 주지 않고, 내가 받을 찬양을 절대로 우상들에게 양보하지 않겠다.",
     Chn:"我是耶和华，这是我的名； 我必不将我的荣耀归给假神， 也不将我的称赞归给雕刻的偶像。",
     Eng:"\"I am the LORD; that is my name! I will not give my glory to another or my praise to idols.",
     Ind:"Aku ini TUHAN, itulah nama-Ku; Aku tidak akan memberikan kemuliaan-Ku kepada yang lain atau kemasyhuran-Ku kepada patung."
   },
   {Bible:"Isaiah", Chapter:42, Verse:9, Page:1,
-    Kor:"전에 예고한 일들이 다 이루어졌다. 이제 내가 새로 일어날 일들을 예고한다. 그 일들이 일어나기 전에, 내가 너희에게 일러준다.\"",
+    Kor:"보아라, 전에 예언한 일들이 다 이루어졌다. 이제 내가 새로 일어날 일들을 예언한다. 그 일들이 일어나기 전에, 내가 너희에게 일러준다.\"",
     Chn:"看哪，先前的事已经成就， 现在我将新事说明， 这事未发以先，我就说给你们听。",
     Eng:"See, the former things have taken place, and new things I declare; before they spring into being I announce them to you.\"",
     Ind:"Nubuat-nubuat yang dahulu sekarang sudah menjadi kenyataan, hal-hal yang baru hendak Kuberitahukan. Sebelum hal-hal itu muncul, Aku mengabarkannya kepadamu.\""
   },
   {Bible:"Isaiah", Chapter:42, Verse:10, Page:1,
-    Kor:"<찬양의 노래> 새 노래로 주님을 찬송하여라. 땅 끝에서부터 그를 찬송하여라. 항해하는 사람들아, 바다 속에 사는 피조물들아, 섬들아, 거기에 사는 주민들아,",
+    Kor:"새 노래로 주를 찬송하여라. 땅 끝에서부터 그를 찬송하여라. 항해하는 자들아, 바다 속에 사는 피조물들아, 섬들아, 거기에 사는 주민들아,",
     Chn:"航海的和海中所有的， 海岛和其上的居民， 都当向耶和华唱新歌， 从地极赞美他。",
     Eng:"Sing to the LORD a new song, his praise from the ends of the earth, you who go down to the sea, and all that is in it, you islands, and all who live in them.",
     Ind:"Nyanyikanlah nyanyian baru bagi TUHAN dan pujilah Dia dari ujung bumi! Baiklah laut bergemuruh serta segala isinya dan pulau-pulau dengan segala penduduknya."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Baiklah padang gurun menyaringkan suara dengan kota-kotanya dan dengan desa-desa yang didiami Kedar! Baiklah bersorak-sorai penduduk Bukit Batu, baiklah mereka berseru-seru dari puncak gunung-gunung!"
   },
   {Bible:"Isaiah", Chapter:42, Verse:12, Page:1,
-    Kor:"주님께 영광을 돌려라. 주님을 찬양하는 소리가 섬에까지 울려 퍼지게 하여라.",
+    Kor:"주께 영광을 돌려라. 주를 찬양하는 소리가 섬에까지 울려 퍼지게 하여라.",
     Chn:"他们当将荣耀归给耶和华， 在海岛中传扬他的颂赞。",
     Eng:"Let them give glory to the LORD and proclaim his praise in the islands.",
     Ind:"Baiklah mereka memberi penghormatan kepada TUHAN, dan memberitakan pujian yang kepada-Nya di pulau-pulau."
   },
   {Bible:"Isaiah", Chapter:42, Verse:13, Page:1,
-    Kor:"주님께서 용사처럼 나서시고, 전사처럼 용맹을 떨치신다. 전쟁의 함성을 드높이 올리시며, 대적들을 물리치신다.",
+    Kor:"주께서 용사처럼 나서시고, 전사처럼 용맹을 떨치신다. 전쟁의 함성을 드높이 올리시며, 대적들을 물리치신다.",
     Chn:"耶和华必像勇士出去， 必像战士激动热心， 要喊叫，大声呐喊， 要用大力攻击仇敌。",
     Eng:"The LORD will march out like a mighty man, like a warrior he will stir up his zeal; with a shout he will raise the battle cry and will triumph over his enemies.",
     Ind:"TUHAN keluar berperang seperti pahlawan, seperti orang perang Ia membangkitkan semangat-Nya untuk bertempur; Ia bertempik sorak, ya, Ia memekik, terhadap musuh-musuh-Nya Ia membuktikan kepahlawanan-Nya."
   },
   {Bible:"Isaiah", Chapter:42, Verse:14, Page:1,
-    Kor:"<구원의 약속> \"내가 오랫동안 조용히 침묵을 지키며 참았으나, 이제는 내가 숨이 차서 헐떡이는, 해산하는 여인과 같이 부르짖겠다.",
+    Kor:"\"내가 오랫동안 조용히 침묵을 지키며 참았으나, 이제는 내가 숨이 차서 헐떡이는, 해산하는 여인과 같이 부르짖겠다.",
     Chn:"我许久闭口不言，静默不语； 现在我要喊叫，像产难的妇人； 我要急气而喘哮。",
     Eng:"\"For a long time I have kept silent, I have been quiet and held myself back. But now, like a woman in childbirth, I cry out, I gasp and pant.",
     Ind:"Aku membisu dari sejak dahulu kala, Aku berdiam diri, Aku menahan hati-Ku; sekarang Aku mau mengerang seperti perempuan yang melahirkan, Aku mau mengah-mengah dan megap-megap."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Aku mau membuat tandus gunung-gunung dan bukit-bukit, dan mau membuat layu segala tumbuh-tumbuhannya; Aku mau membuat sungai-sungai menjadi tanah kering dan mau membuat kering telaga-telaga."
   },
   {Bible:"Isaiah", Chapter:42, Verse:16, Page:1,
-    Kor:"눈 먼 나의 백성을 내가 인도할 것인데, 그들이 한 번도 다니지 못한 길로 인도하겠다. 내가 그들 앞에 서서, 암흑을 광명으로 바꾸고, 거친 곳을 평탄하게 만들겠다. 이것은 내가 하는 약속이다. 반드시 지키겠다.\"",
+    Kor:"무지몽매한 나의 백성을 내가 인도할 것인데, 그들이 한 번도 다니지 못한 길로 인도하겠다. 내가 그들 앞에 서서, 암흑을 광명으로 바꾸고, 거친 곳을 평탄하게 만들겠다. 이것은 내가 하는 약속이다. 반드시 지키겠다.\"",
     Chn:"我要引瞎子行不认识的道， 领他们走不知道的路； 在他们面前使黑暗变为光明， 使弯曲变为平直。 这些事我都要行， 并不离弃他们。",
     Eng:"I will lead the blind by ways they have not known, along unfamiliar paths I will guide them; I will turn the darkness into light before them and make the rough places smooth. These are the things I will do; I will not forsake them.",
     Ind:"Aku mau memimpin orang-orang buta di jalan yang tidak mereka kenal, dan mau membawa mereka berjalan di jalan-jalan yang tidak mereka kenal. Aku mau membuat kegelapan yang di depan mereka menjadi terang dan tanah yang berkeluk-keluk menjadi tanah yang rata. Itulah hal-hal yang hendak Kulakukan kepada mereka, yang pasti akan Kulaksanakan."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Orang-orang yang percaya kepada patung pahatan akan berpaling ke belakang dan mendapat malu, yaitu orang-orang yang berkata kepada patung tuangan: \"Kamulah allah kami!\""
   },
   {Bible:"Isaiah", Chapter:42, Verse:18, Page:1,
-    Kor:"<이스라엘이 깨닫지 못하다> \"너희 귀가 먹은 자들아, 들어라. 너희 눈이 먼 자들아, 환하게 보아라.",
+    Kor:"\"너희 귀가 먹은 자들아, 들어라. 너희 눈이 먼 자들아, 환하게 보아라.",
     Chn:"你们这耳聋的，听吧！ 你们这眼瞎的，看吧！ 使你们能看见。",
     Eng:"\"Hear, you deaf; look, you blind, and see!",
     Ind:"Dengarkanlah, hai orang-orang tuli pandanglah dan lihatlah, hai orang-orang buta!"
   },
   {Bible:"Isaiah", Chapter:42, Verse:19, Page:1,
-    Kor:"누가 눈이 먼 자냐? 나의 종이 아니냐! 누가 귀가 먹은 자냐? 내가 보낸 나의 사자가 아니냐!\" 누가 눈이 먼 자냐? 주님과 언약을 맺은 자가 아니냐! 누가 눈이 먼 자냐? 주님의 종이 아니냐!",
+    Kor:"누가 눈이 먼 자냐? 나의 종이 아니냐! 누가 귀가 먹은 자냐? 내가 보낸 나의 사자가 아니냐!\" 누가 눈이 먼 자냐? 주님과 언약을 맺은 자가 아니냐! 누가 눈이 먼 자냐? 주의 종이 아니냐!",
     Chn:"谁比我的仆人眼瞎呢？ 谁比我差遣的使者耳聋呢？ 谁瞎眼像那与我和好的？ 谁瞎眼像耶和华的仆人呢？",
     Eng:"Who is blind but my servant, and deaf like the messenger I send? Who is blind like the one committed to me, blind like the servant of the LORD?",
     Ind:"Siapakah yang buta selain dari hamba-Ku, dan yang tuli seperti utusan yang Kusuruh? Siapakah yang buta seperti suruhan-Ku dan yang tuli seperti hamba TUHAN?"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Engkau melihat banyak, tetapi tidak memperhatikan, engkau memasang telinga, tetapi tidak mendengar."
   },
   {Bible:"Isaiah", Chapter:42, Verse:21, Page:1,
-    Kor:"주님은 백성을 구원하셔서, 의를 이루려고 힘쓰시는 하나님이시다. 그리하여 주님께서는 율법과 교훈을 높이셨고, 백성이 율법과 교훈을 존중하기를 바라셨다.",
+    Kor:"주님은 백성을 구원하셔서, 의를 이루려고 힘쓰시는 하나님이시다. 그리하여 주께서는 율법과 교훈을 높이셨고, 백성이 율법과 교훈을 존중하기를 바라셨다.",
     Chn:"耶和华因自己公义的缘故， 喜欢使律法为大，为尊。",
     Eng:"It pleased the LORD for the sake of his righteousness to make his law great and glorious.",
     Ind:"TUHAN telah berkenan demi penyelamatan-Nya untuk memberi pengajaran-Nya yang besar dan mulia;"
   },
   {Bible:"Isaiah", Chapter:42, Verse:22, Page:1,
-    Kor:"그러나 지금 그의 백성은 약탈과 노략을 당하였으며, 그들은 모두 구덩이 속에 갇혀 있고, 감옥에 갇혀 있다. 그들이 약탈을 당하였으나, 구하여 주는 자가 없고, 노략을 당하였으나, 노략자들에게 '돌려주어라' 하고 말해 주는 자가 없다.",
+    Kor:"그러나 지금, 그의 백성은 약탈과 노략을 당하였으며, 그들은 모두 구덩이 속에 갇혀 있고, 감옥에 갇혀 있다. 그들이 약탈을 당하였으나, 구하여 주는 자가 없고, 노략을 당하였으나, 노략자들에게 '돌려주어라' 하고 말해 주는 자가 없다.",
     Chn:"但这百姓是被抢被夺的， 都牢笼在坑中，隐藏在狱里； 他们作掠物，无人拯救， 作掳物，无人说交还。",
     Eng:"But this is a people plundered and looted, all of them trapped in pits or hidden away in prisons. They have become plunder, with no one to rescue them; they have been made loot, with no one to say, \"Send them back.\"",
     Ind:"namun mereka suatu bangsa yang dijarah dan dirampok, mereka semua terjebak dalam geronggang-geronggang dan disembunyikan dalam rumah-rumah penjara; mereka telah menjadi jarahan dan tidak ada yang melepaskan, menjadi rampasan dan tidak ada yang berkata: \"Kembalikanlah!\""
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Siapakah di antara kamu yang mau memasang telinga kepada hal ini, yang mau memperhatikan dan mendengarkannya untuk masa yang kemudian?"
   },
   {Bible:"Isaiah", Chapter:42, Verse:24, Page:1,
-    Kor:"야곱이 노략을 당하게 버려 둔 이가 누구였으며, 이스라엘을 약탈자에게 넘겨 준 이가 누구였느냐? 바로 주님이 아니시냐? 우리가 주님께 죄를 지었다. 백성이 주님의 길로 걸으려 하지 않았으며, 그의 법을 순종하려 하지 않았으므로,",
+    Kor:"야곱이 노략을 당하게 버려 둔 이가 누구였으며, 이스라엘을 약탈자에게 넘겨 준 이가 누구였느냐? 바로 주님이 아니시냐? 우리가 주님께 죄를 지었다. 백성이 주의 길로 걸으려 하지 않았으며, 그의 법을 순종하려 하지 않았으므로,",
     Chn:"谁将雅各交出当作掳物， 将以色列交给抢夺的呢？ 岂不是耶和华吗？ 就是我们所得罪的那位。 他们不肯遵行他的道， 也不听从他的训诲。",
     Eng:"Who handed Jacob over to become loot, and Israel to the plunderers? Was it not the LORD, against whom we have sinned? For they would not follow his ways; they did not obey his law.",
     Ind:"Siapakah yang menyerahkan Yakub untuk dirampas, dan Israel kepada penjarah? Bukankah itu TUHAN? Sebab kepada-Nya kita telah berdosa, dan orang tidak mau mengikuti jalan yang telah ditunjuk-Nya, dan kepada pengajaran-Nya orang tidak mau mendengar."
   },
   {Bible:"Isaiah", Chapter:42, Verse:25, Page:1,
-    Kor:"주님께서, 불타는 진노와 참혹한 전화를, 이스라엘 위에 쏟으셨다. 사방에서 불이 야곱을 덮었으나, 이것이 무슨 일인지 알지 못하였고, 불이 그를 태웠으나, 아무것도 깨닫지 못하였다.",
+    Kor:"주께서, 불타는 진노와 참혹한 전화를, 이스라엘 위에 쏟으셨다. 사방에서 불이 야곱을 덮었으나, 이것이 무슨 일인지 알지 못하였고, 불이 그를 태웠으나, 아무것도 깨닫지 못하였다.",
     Chn:"所以，他将猛烈的怒气和争战的勇力 倾倒在以色列的身上。 在他四围如火着起，他还不知道， 烧着他，他也不介意。",
     Eng:"So he poured out on them his burning anger, the violence of war. It enveloped them in flames, yet they did not understand; it consumed them, but they did not take it to heart.",
     Ind:"Maka Ia telah menumpahkan kepadanya kepanasan amarah-Nya dan peperangan yang hebat, yang menghanguskan dia dari sekeliling, tetapi ia tidak menginsafinya, dan yang membakar dia, tetapi ia tidak memperhatikannya."

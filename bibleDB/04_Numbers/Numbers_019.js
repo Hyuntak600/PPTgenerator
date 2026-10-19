@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",19,22);
 BibleDB.add([
   {Bible:"Numbers", Chapter:19, Verse:1, Page:1,
-    Kor:"<붉은 암송아지의 재> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron:",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -57,19 +57,19 @@ BibleDB.add([
     Ind:"Maka seorang yang tahir haruslah mengumpulkan abu lembu itu dan menaruhnya pada suatu tempat yang tahir di luar tempat perkemahan, supaya semuanya itu tinggal tersimpan bagi umat Israel untuk membuat air pentahiran; itulah penghapus dosa."
   },
   {Bible:"Numbers", Chapter:19, Verse:10, Page:1,
-    Kor:"암송아지 재를 거둔 사람도 자기의 옷을 빨아야 한다. 그의 부정한 상태는 저녁때까지 계속될 것이다. ○이것은 이스라엘 자손 및 그들과 함께 사는 외국인들이 언제까지나 지켜야 할 율례이다.\"",
+    Kor:"암송아지 재를 거둔 사람도 자기의 옷을 빨아야 한다. 그의 부정한 상태는 저녁때까지 계속될 것이다. ○이것은 이스라엘 자손 및 그들과 함께 사는 외국인들이 언제까지나 지켜야 할 율례이다.",
     Chn:"收起母牛灰的人必不洁净到晚上，要洗衣服。这要给以色列人和寄居在他们中间的外人作为永远的定例。」",
     Eng:"The man who gathers up the ashes of the heifer must also wash his clothes, and he too will be unclean till evening. This will be a lasting ordinance both for the Israelites and for the aliens living among them.",
     Ind:"Dan orang yang mengumpulkan abu lembu itu haruslah mencuci pakaiannya, dan ia najis sampai matahari terbenam. Itulah suatu ketetapan untuk selama-lamanya bagi orang Israel dan bagi orang asing yang tinggal di tengah-tengahmu."
   },
   {Bible:"Numbers", Chapter:19, Verse:11, Page:1,
-    Kor:"<주검에 닿은 경우> ○\"어느 누구의 주검이든, 사람의 주검에 몸이 닿은 사람은 이레 동안 부정하다.",
+    Kor:"○어느 누구의 주검이든, 사람의 주검에 몸이 닿은 사람은 이레 동안 부정하다.",
     Chn:"「摸了人死尸的，就必七天不洁净。",
     Eng:"\"Whoever touches the dead body of anyone will be unclean for seven days.",
     Ind:"Orang yang kena kepada mayat, ia najis tujuh hari lamanya."
   },
   {Bible:"Numbers", Chapter:19, Verse:12, Page:1,
-    Kor:"a그는 사흘째 되는 날과 이레째 되는 날, 붉은 암송아지를 불사른 재를 탄 물로 스스로 정결하게 하여야 한다. 그러면 정하게 될 것이다. 그러나 그가 사흘째 되는 날과 이레째 되는 날에 자기의 몸을 정결하게 하지 않으면, 그냥 부정하다.(a 히, '그가 사흘째 되는 날 스스로를 정결하게 하면, 이레째 되는 날 그는 정하게 될 것이다. 그러나 그가 사흘째 되는 날 스스로를 정결하게 하지 않으면, 이레째 되는 날 그는 정하게 되지 못할 것이다')",
+    Kor:"그는 사흘째 되는 날과 이레째 되는 날, 붉은 암송아지를 불사른 재를 탄 물로 스스로 정결하게 하여야 한다. 그러면 정하게 될 것이다. 그러나 그가 사흘째 되는 날과 이레째 되는 날에 자기의 몸을 정결하게 하지 않으면, 그냥 부정하다.",
     Chn:"那人到第三天要用这除污秽的水洁净自己，第七天就洁净了。他若在第三天不洁净自己，第七天就不洁净了。",
     Eng:"He must purify himself with the water on the third day and on the seventh day; then he will be clean. But if he does not purify himself on the third and seventh days, he will not be clean.",
     Ind:"Ia harus menghapus dosa dari dirinya dengan air itu pada hari yang ketiga, dan pada hari yang ketujuh ia tahir. Tetapi jika pada hari yang ketiga ia tidak menghapus dosa dari dirinya, maka tidaklah ia tahir pada hari yang ketujuh."

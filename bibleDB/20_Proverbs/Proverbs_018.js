@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",18,24);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:18, Verse:1, Page:1,
-    Kor:"<죄를 옹호하는 것은 잘못이다> 다른 사람과 어울리지 못하는 사람은 자기 욕심만 채우려 하고, 건전한 판단력을 가진 사람을 적대시한다.",
+    Kor:"다른 사람과 어울리지 못하는 사람은 자기 욕심만 채우려 하고, 건전한 판단력을 가진 사람을 적대시한다.",
     Chn:"与众寡合的，独自寻求心愿， 并恼恨一切真智慧。",
     Eng:"An unfriendly man pursues selfish ends; he defies all sound judgment.",
     Ind:"Orang yang menyendiri, mencari keinginannya, amarahnya meledak terhadap setiap pertimbangan."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Perkataan pemfitnah seperti sedap-sedapan, yang masuk ke lubuk hati."
   },
   {Bible:"Proverbs", Chapter:18, Verse:9, Page:1,
-    Kor:"자기 일을 게을리하는 자는, 일을 망치는 자와 형제간이다.",
+    Kor:"자기 일을 게을리하는 자는, 일을 망치는 자와 형제이다.",
     Chn:"做工懈怠的， 与浪费人为弟兄。",
     Eng:"One who is slack in his work is brother to one who destroys.",
     Ind:"Orang yang bermalas-malas dalam pekerjaannya sudah menjadi saudara dari si perusak."
   },
   {Bible:"Proverbs", Chapter:18, Verse:10, Page:1,
-    Kor:"주님의 이름은 견고한 성루이므로, 의인이 그 곳으로 달려가면, 아무도 뒤쫓지 못한다.",
+    Kor:"주의 이름은 견고한 성루이므로, 의인이 그 곳으로 달려가면, 아무도 뒤쫓지 못한다.",
     Chn:"耶和华的名是坚固台； 义人奔入便得安稳。",
     Eng:"The name of the LORD is a strong tower; the righteous run to it and are safe.",
     Ind:"Nama TUHAN adalah menara yang kuat, ke sanalah orang benar berlari dan ia menjadi selamat."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Hadiah memberi keluasan kepada orang, membawa dia menghadap orang-orang besar."
   },
   {Bible:"Proverbs", Chapter:18, Verse:17, Page:1,
-    Kor:"송사에서는 먼저 말하는 사람이 옳은 것 같으나, 상대방이 와 보아야  사실이 밝혀진다.",
+    Kor:"송사에서는 먼저 말하는 사람이 옳은 것 같으나, 상대방이 와 보아야 사실이 밝혀진다.",
     Chn:"先诉情由的，似乎有理； 但邻舍来到，就察出实情。",
     Eng:"The first to present his case seems right, till another comes forward and questions him.",
     Ind:"Pembicara pertama dalam suatu pertikaian nampaknya benar, lalu datanglah orang lain dan menyelidiki perkaranya."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Orang miskin berbicara dengan memohon-mohon, tetapi orang kaya menjawab dengan kasar."
   },
   {Bible:"Proverbs", Chapter:18, Verse:24, Page:1,
-    Kor:"친구를 많이 둔 사람은 해를 입기도 하지만 동기간보다 더 가까운 친구도 있다.",
+    Kor:"친구를 많이 둔 사람은 해를 입기도 하지만 형제보다 더 가까운 친구도 있다.",
     Chn:"滥交朋友的，自取败坏； 但有一朋友比弟兄更亲密。",
     Eng:"A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.",
     Ind:"Ada teman yang mendatangkan kecelakaan, tetapi ada juga sahabat yang lebih karib dari pada seorang saudara."

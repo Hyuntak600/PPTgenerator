@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",10,22);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:10, Verse:1, Page:1,
-    Kor:"<주님께서 성전을 떠나시다> 내가 보니, 그룹들의 머리 위에 있는 창공 모양의 덮개 위에 청옥과 같은 것이 있는데, 그 모양은 보좌의 형상과 비슷하였다.",
+    Kor:"내가 보니, 그룹들의 머리 위에 있는 창공 모양의 덮개 위에 청옥과 같은 것이 있는데, 그 모양은 보좌의 형상과 비슷하였다.",
     Chn:"我观看，见基路伯头上的穹苍之中，显出蓝宝石的形状，仿佛宝座的形象。",
     Eng:"I looked, and I saw the likeness of a throne of sapphire above the expanse that was over the heads of the cherubim.",
     Ind:"Lalu aku melihat, sungguh, di atas cakrawala yang di atas kepala kerub tampak di atas mereka sesuatu yang menyerupai takhta, yang seperti permata lazurit kelihatannya."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:2, Page:1,
-    Kor:"그 때에 주님께서 모시 옷을 입은 사람에게 이렇게 말씀하셨다. \"너는 그룹들 밑에 있는 저 바퀴들 사이로 들어가서, 숯불을 두 손 가득히 움켜 쥐어서, 이 성읍 위에 뿌려라.\" 그러자 그 사람은, 내가 보는 앞에서 그 곳으로 들어갔다.",
+    Kor:"그 때에 주께서 모시 옷을 입은 사람에게 이렇게 말씀하셨다. \"너는 그룹들 밑에 있는 저 바퀴들 사이로 들어가서, 숯불을 두 손 가득히 움켜 쥐어서, 이 성읍 위에 뿌려라.\" 그러자 그 사람은, 내가 보는 앞에서 그 곳으로 들어갔다.",
     Chn:"主对那穿细麻衣的人说：「你进去，在旋转的轮内基路伯以下，从基路伯中间将火炭取满两手，撒在城上。」 我就见他进去。",
     Eng:"The LORD said to the man clothed in linen, \"Go in among the wheels beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.\" And as I watched, he went in.",
     Ind:"Maka Ia berkata kepada orang yang berpakaian lenan itu: \"Masuklah ke bawah kerub dari antara roda-rodanya dan penuhilah rangkup tanganmu dengan bara api dari tengah-tengah kerub itu dan hamburkan ke atas kota itu.\" Lalu aku melihat dia masuk."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Kerub-kerub itu berdiri di sebelah selatan Bait Suci, waktu orang itu masuk ke tengah-tengah roda-rodanya; dan segumpal awan memenuhi pelataran dalam."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:4, Page:1,
-    Kor:"그 때에 주님의 영광이 그룹들에게서 떠올라 성전 문지방으로 옮겨갔고, 성전에는 구름이 가득 차고, 안뜰은 주님의 영광에서 나오는 광채로 가득 찼다.",
+    Kor:"그 때에 주의 영광이 그룹들에게서 떠올라 성전 문지방으로 옮겨갔고, 성전에는 구름이 가득 차고, 안뜰은 주의 영광에서 나오는 광채로 가득 찼다.",
     Chn:"耶和华的荣耀从基路伯那里上升，停在门槛以上；殿内满了云彩，院宇也被耶和华荣耀的光辉充满。",
     Eng:"Then the glory of the LORD rose from above the cherubim and moved to the threshold of the temple. The cloud filled the temple, and the court was full of the radiance of the glory of the LORD.",
     Ind:"Dalam pada itu kemuliaan TUHAN naik dari atas kerub dan pergi ke atas ambang pintu Bait Suci, dan Bait Suci ini dipenuhi oleh awan itu dan pelatarannya penuh dengan sinar kemuliaan TUHAN."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:5, Page:1,
-    Kor:"그리고 그룹들이 날개치는 소리가 바깥 뜰에까지 들리는데, 그 소리는 a전능하신 하나님께서 말씀하시는 음성과 같았다.(a 히, '엘 샤다이')",
+    Kor:"그리고 그룹들이 날개치는 소리가 바깥 뜰에까지 들리는데, 그 소리는 전능하신 하나님께서 말씀하시는 음성과 같았다.",
     Chn:"基路伯翅膀的响声听到外院，好像全能　神说话的声音。",
     Eng:"The sound of the wings of the cherubim could be heard as far away as the outer court, like the voice of God Almighty when he speaks.",
     Ind:"Suara sayap kerub itu terdengar sampai pelataran luar seperti suara ALLAH Yang Mahakuasa, kalau Ia berfirman."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:6, Page:1,
-    Kor:"○주님께서 모시 옷을 입은 사람에게 명하셨다. \"저 바퀴들 사이 곧 그룹들 사이에서 불을 가져 가거라.\" 그는 안으로 들어가서 바퀴 옆에 섰다.",
+    Kor:"○주께서 모시 옷을 입은 사람에게 명하셨다. \"저 바퀴들 사이, 곧 그룹들 사이에서 불을 가져 가거라.\" 그는 안으로 들어가서 바퀴 옆에 섰다.",
     Chn:"他吩咐那穿细麻衣的人说：「要从旋转的轮内基路伯中间取火。」那人就进去站在一个轮子旁边。",
     Eng:"When the LORD commanded the man in linen, \"Take fire from among the wheels, from among the cherubim,\" the man went in and stood beside a wheel.",
     Ind:"Ia memerintahkan kepada orang yang berpakaian lenan itu: \"Ambillah api dari tengah-tengah roda-rodanya, dari tengah-tengah kerub itu!\" Maka yang berpakaian lenan ini pergi berdiri di samping salah satu dari roda-roda itu."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Kalau kerub-kerub itu berhenti, roda-roda itu berhenti, kalau kerub-kerub itu naik ke atas, roda-roda itu sama-sama naik dengan mereka; sebab roh makhluk-makhluk hidup itu ialah di dalam roda-roda itu."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:18, Page:1,
-    Kor:"○주님의 영광이 성전 문지방을 떠나, 그룹들 위로 가서 머물렀다.",
+    Kor:"○주의 영광이 성전 문지방을 떠나, 그룹들 위로 가서 머물렀다.",
     Chn:"耶和华的荣耀从殿的门槛那里出去，停在基路伯以上。",
     Eng:"Then the glory of the LORD departed from over the threshold of the temple and stopped above the cherubim.",
     Ind:"Lalu kemuliaan TUHAN pergi dari ambang pintu Bait Suci dan hinggap di atas kerub-kerub."
   },
   {Bible:"Ezekiel", Chapter:10, Verse:19, Page:1,
-    Kor:"그룹들이 내가 보는 데서 날개를 펴고 땅에서 떠올라 가는데, 그들이 떠날 때에, 바퀴들도 그들과 함께 떠났다. 그룹들은 주님의 성전으로 들어가는 동문에 머무르고, 이스라엘 하나님의 영광이 그들 위에 머물렀다.",
+    Kor:"그룹들이 내가 보는 데서 날개를 펴고 땅에서 떠올라 가는데, 그들이 떠날 때에, 바퀴들도 그들과 함께 떠났다. 그룹들은 주의 성전으로 들어가는 동문에 머무르고, 이스라엘 하나님의 영광이 그들 위에 머물렀다.",
     Chn:"基路伯出去的时候，就展开翅膀，在我眼前离地上升。轮也在他们的旁边，都停在耶和华殿的东门口。在他们以上有以色列　神的荣耀。",
     Eng:"While I watched, the cherubim spread their wings and rose from the ground, and as they went, the wheels went with them. They stopped at the entrance to the east gate of the LORD'S house, and the glory of the God of Israel was above them.",
     Ind:"Dan kerub-kerub itu mengangkat sayap mereka, dan waktu mereka pergi, aku lihat, mereka naik dari tanah dan roda-rodanya bersama-sama dengan mereka. Lalu mereka berhenti dekat pintu gerbang rumah TUHAN yang di sebelah timur, sedang kemuliaan Allah Israel berada di atas mereka."

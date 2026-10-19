@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",20,18);
 BibleDB.add([
   {Bible:"Genesis", Chapter:20, Verse:1, Page:1,
-    Kor:"<아브라함과 아비멜렉> 아브라함은 마므레에서 네겝 지역으로 옮겨 가서, 가데스와 수르 사이에서 살았다. 아브라함은 그랄에 잠시 머문 적이 있는데,",
+    Kor:"아브라함은 마므레에서 네겝 지역으로 옮겨 가서, 가데스와 술 사이에서 살았다. 아브라함은 그랄에 잠시 머문 적이 있는데,",
     Chn:"亚伯拉罕从那里向南地迁去，寄居在加低斯和书珥中间的基拉耳。",
     Eng:"Now Abraham moved on from there into the region of the Negev and lived between Kadesh and  Shur. For a while he stayed in Gerar,",
     Ind:"Lalu Abraham berangkat dari situ ke Tanah Negeb dan ia menetap antara Kadesh dan Syur. Ia tinggal di Gerar sebagai orang asing."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Tetapi pada waktu malam Allah datang kepada Abimelekh dalam suatu mimpi serta berfirman kepadanya: \"Engkau harus mati oleh karena perempuan yang telah kauambil itu; sebab ia sudah bersuami.\""
   },
   {Bible:"Genesis", Chapter:20, Verse:4, Page:1,
-    Kor:"아비멜렉은, 아직 그 여인에게 가까이하지 않았으므로, 주님께 이렇게 아뢰었다. \"주님, 주님께서 의로운 한 민족을 멸하시렵니까?",
+    Kor:"아비멜렉은, 아직 그 여인에게 가까이하지 않았으므로, 주께 이렇게 아뢰었다. \"주님, 주께서 의로운 한 민족을 멸하시렵니까?",
     Chn:"亚比米勒却还没有亲近撒拉；他说：「主啊，连有义的国，你也要毁灭吗？",
     Eng:"Now Abimelech had not gone near her, so he said, \"Lord, will you destroy an innocent nation?",
     Ind:"Adapun Abimelekh belum menghampiri Sara. Berkatalah ia: \"Tuhan! Apakah Engkau membunuh bangsa yang tak bersalah?"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu berfirmanlah Allah kepadanya dalam mimpi: \"Aku tahu juga, bahwa engkau telah melakukan hal itu dengan hati yang tulus, maka Akupun telah mencegah engkau untuk berbuat dosa terhadap Aku; sebab itu Aku tidak membiarkan engkau menjamah dia."
   },
   {Bible:"Genesis", Chapter:20, Verse:7, Page:1,
-    Kor:"이제 그 여인을 남편에게로 돌려보내어라. 그의 남편은 예언자이므로, 너에게 탈이 나지 않게 하여 달라고 기도할 것이고, 너는 살 것이다. 그러나 그 여인을 돌려보내지 않으면, 너와 너에게 속한 사람들이 틀림없이 다 죽을 줄 알아라.\"",
+    Kor:"이제 그 여인을 남편에게로 돌려보내어라. 그의 남편은 예언자이므로, 너에게 탈이 나지 않게 하여 주시기를 기도할 것이고, 너는 살 것이다. 그러나 그 여인을 돌려보내지 않으면, 너와 너에게 속한 사람이 틀림없이 다 죽을 줄 알아라.\"",
     Chn:"现在你把这人的妻子归还他；因为他是先知，他要为你祷告，使你存活。你若不归还他，你当知道，你和你所有的人都必要死。」",
     Eng:"Now return the man's wife, for he is a prophet, and he will pray for you and you will live.  But if you do not return her, you may be sure that you and all yours will die.\"",
     Ind:"Jadi sekarang, kembalikanlah isteri orang itu, sebab dia seorang nabi; ia akan berdoa untuk engkau, maka engkau tetap hidup; tetapi jika engkau tidak mengembalikan dia, ketahuilah, engkau pasti mati, engkau dan semua orang yang bersama-sama dengan engkau.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Lalu Abraham berkata: \"Aku berpikir: Takut akan Allah tidak ada di tempat ini; tentulah aku akan dibunuh karena isteriku."
   },
   {Bible:"Genesis", Chapter:20, Verse:12, Page:1,
-    Kor:"그러나 사실을 말씀드리면, 나의 아내가 나의 누이라는 것이 틀린 말은 아닙니다. 아내는 나와는 어머니는 다르지만 아버지는 같은 이복 누이이기 때문입니다.",
+    Kor:"그러나 사실을 말씀드리면, 나의 아내가 나의 누이라는 것이 틀린 말은 아닙니다. 아내는 나와는 어머니는 다르지만, 아버지는 같은 이복 누이이기 때문입니다.",
     Chn:"况且她也实在是我的妹子；她与我是同父异母，后来作了我的妻子。",
     Eng:"Besides, she really is my sister, the daughter of my father though not of my mother; and  she became my wife.",
     Ind:"Lagipula ia benar-benar saudaraku, anak ayahku, hanya bukan anak ibuku, tetapi kemudian ia menjadi isteriku."
@@ -87,25 +87,25 @@ BibleDB.add([
     Ind:"Kemudian Abimelekh mengambil kambing domba dan lembu sapi, hamba laki-laki dan perempuan, lalu memberikan semuanya itu kepada Abraham; Sara, isteri Abraham, juga dikembalikannya kepadanya."
   },
   {Bible:"Genesis", Chapter:20, Verse:15, Page:1,
-    Kor:"아비멜렉이 아브라함에게 말하였다. \"나의 땅이 당신 앞에 있으니, 원하는 곳이 어디이든지, 가서, 거기에서 자리를 잡으시오.\"",
+    Kor:"아비멜렉이 아브라함에게 말하였다. \"나의 땅이 그대 앞에 있으니, 그대가 원하는 곳이 어디이든지, 가서, 거기에서 자리를 잡으시오.\"",
     Chn:"亚比米勒又说：「看哪，我的地都在你面前，你可以随意居住」；",
     Eng:"And Abimelech said, \"My land is before you; live wherever you like.\"",
     Ind:"Dan Abimelekh berkata: \"Negeriku ini terbuka untuk engkau; menetaplah, di mana engkau suka.\""
   },
   {Bible:"Genesis", Chapter:20, Verse:16, Page:1,
-    Kor:"그리고 사라에게는 이렇게 말하였다. \"나는 그대의 오라버니에게 은 천 세겔을 주었소. 이것은, 그대와 함께 있는 여러 사람에게서 그대가 받은 부끄러움을 조금이나마 덜어보려는 나의 성의의 표시요. 그대가 결백하다는 것을, 모두가 알게 될 것이오.\"",
+    Kor:"그리고 사라에게는 이렇게 말하였다. \"나는 그대의 오라버니에게 은 천 세겔을 주었소. 이것은, 그대와 함께 있는 여러 사람에게서 그대가 받은 부끄러움을, 조금이나마 덜어보려는 나의 성의의 표시요. 그대가 결백하다는 것을, 모두가 알게 될 것이오.\"",
     Chn:"又对撒拉说：「我给你哥哥一千银子，作为你在合家人面前遮羞的，你就在众人面前没有不是了。」",
     Eng:"To Sarah he said, \"I am giving your brother a thousand shekels of silver. This is to cover  the offense against you before all who are with you; you are completely vindicated.\"",
     Ind:"Lalu katanya kepada Sara: \"Telah kuberikan kepada saudaramu seribu syikal perak, itulah bukti kesucianmu bagi semua orang yang bersama-sama dengan engkau. Maka dalam segala hal engkau dibenarkan.\""
   },
   {Bible:"Genesis", Chapter:20, Verse:17, Page:1,
-    Kor:"아브라함이 하나님께 기도하니, 하나님이, 아비멜렉과 그의 아내와 그의 여종들이 다시 아이를 가질 수 있도록 태를 열어 주셨다.",
+    Kor:"아브라함이 하나님께 기도하니, 하나님이, 아비멜렉과 그의 아내와 그의 여종들이 다시 아이를 가질 수 있게 태를 열어 주셨다.",
     Chn:"亚伯拉罕祷告　神，　神就医好了亚比米勒和他的妻子，并他的众女仆，她们便能生育。",
     Eng:"Then Abraham prayed to God, and God healed Abimelech, his wife and his slave girls so they  could have children again,",
     Ind:"Lalu Abraham berdoa kepada Allah, dan Allah menyembuhkan Abimelekh dan isterinya dan budak-budaknya perempuan, sehingga mereka melahirkan anak."
   },
   {Bible:"Genesis", Chapter:20, Verse:18, Page:1,
-    Kor:"아비멜렉이 아브라함의 아내 사라를 데려간 일로, 주님께서는 전에 아비멜렉 집안의 모든 여자의 태를 닫으셨었다.",
+    Kor:"아비멜렉이 아브라함의 아내 사라를 데려간 일로, 주께서는 전에 아비멜렉 집안의 모든 여자의 태를 닫으셨었다.",
     Chn:"因耶和华为亚伯拉罕的妻子撒拉的缘故，已经使亚比米勒家中的妇人不能生育。",
     Eng:"for the LORD had closed up every womb in Abimelech's household because of Abraham's wife  Sarah.",
     Ind:"Sebab tadinya TUHAN telah menutup kandungan setiap perempuan di istana Abimelekh karena Sara, isteri Abraham itu."

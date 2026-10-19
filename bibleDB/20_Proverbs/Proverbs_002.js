@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",2,22);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:2, Verse:1, Page:1,
-    Kor:"<지혜가 주는 유익> a아이들아, 내 말을 받아들이고, 내 명령을 마음 속 깊이 간직하여라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 내 말을 받아들이고, 내 명령을 마음 속 깊이 간직하여라.",
     Chn:"我儿，你若领受我的言语， 存记我的命令，",
     Eng:"My son, if you accept my words and store up my commands within you,",
     Ind:"Hai anakku, jikalau engkau menerima perkataanku dan menyimpan perintahku di dalam hatimu,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"maka engkau akan memperoleh pengertian tentang takut akan TUHAN dan mendapat pengenalan akan Allah."
   },
   {Bible:"Proverbs", Chapter:2, Verse:6, Page:1,
-    Kor:"주님께서 지혜를 주시고, 주님께서 친히 지식과 명철을 주시기 때문이다.",
+    Kor:"주께서 지혜를 주시고, 주께서 친히 지식과 명철을 주시기 때문이다.",
     Chn:"因为，耶和华赐人智慧； 知识和聪明都由他口而出。",
     Eng:"For the LORD gives wisdom, and from his mouth come knowledge and understanding.",
     Ind:"Karena Tuhanlah yang memberikan hikmat, dari mulut-Nya datang pengetahuan dan kepandaian."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Ia menyediakan pertolongan bagi orang yang jujur, menjadi perisai bagi orang yang tidak bercela lakunya,"
   },
   {Bible:"Proverbs", Chapter:2, Verse:8, Page:1,
-    Kor:"공평하게 사는 사람의 길을 보살펴 주시고, 주님께 충성하는 사람의 길을 지켜 주신다.",
+    Kor:"공평하게 사는 사람의 길을 보살펴 주시고, 주께 충성하는 사람의 길을 지켜 주신다.",
     Chn:"为要保守公平人的路， 护庇虔敬人的道。",
     Eng:"for he guards the course of the just and protects the way of his faithful ones.",
     Ind:"sambil menjaga jalan keadilan, dan memelihara jalan orang-orang-Nya yang setia."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"yang berliku-liku jalannya dan yang sesat perilakunya;"
   },
   {Bible:"Proverbs", Chapter:2, Verse:16, Page:1,
-    Kor:"<지혜와 순결> 지혜가 너를 음란한 여자에게서 건져 주고, 너를 꾀는 부정한 여자에게서 건져 줄 것이다.",
+    Kor:"지혜가 너를 음란한 여자에게서 건져 주고, 너를 꾀는 외간 여자에게서 건져 줄 것이다.",
     Chn:"智慧要救你脱离淫妇， 就是那油嘴滑舌的外女。",
     Eng:"It will save you also from the adulteress, from the wayward wife with her seductive words,",
     Ind:"supaya engkau terlepas dari perempuan jalang, dari perempuan yang asing, yang licin perkataannya,"
   },
   {Bible:"Proverbs", Chapter:2, Verse:17, Page:1,
-    Kor:"그 여자는 젊은 시절의 짝을 버리고, b하나님과 맺은 언약을 잊은 여자이다. (b 또는 '하나님 앞에서 맺은 언약')",
+    Kor:"그 여자는 젊은 시절의 짝을 버리고, 하나님과 맺은 언약을 잊은 여자이다.",
     Chn:"她离弃幼年的配偶， 忘了　神的盟约。",
     Eng:"who has left the partner of her youth and ignored the covenant she made before God.",
     Ind:"yang meninggalkan teman hidup masa mudanya dan melupakan perjanjian Allahnya;"

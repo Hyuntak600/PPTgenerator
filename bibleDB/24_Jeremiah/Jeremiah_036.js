@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",36,32);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:36, Verse:1, Page:1,
-    Kor:"<바룩이 성전에서 두루마리를 읽다> 요시야의 아들 여호야김이 유다 왕이 된 지 사 년째 되는 해에, 주님께서 예레미야에게 말씀하셨다.",
+    Kor:"요시야의 아들 여호야김이 유다 왕이 된 지 사년째 되는 해에, 주께서 예레미야에게 말씀하셨다.",
     Chn:"犹大王约西亚的儿子约雅敬第四年，耶和华的话临到耶利米说：",
     Eng:"In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the LORD:",
     Ind:"Dalam tahun yang keempat pemerintahan Yoyakim bin Yosia, raja Yehuda, datanglah firman ini dari TUHAN kepada Yeremia, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:36, Verse:2, Page:1,
-    Kor:"○\"너는 두루마리를 구해다가, 내가 너에게 말한 날로부터 곧 요시야의 시대부터 이 날까지 내가 이스라엘과 유다와 세계 만민을 두고 너에게 말한 모든 말을, 그 두루마리에 기록하여라.",
+    Kor:"○\"너는 두루마리를 구해다가, 내가 너에게 말한 날로부터, 곧 요시야의 시대부터 이 날까지, 내가 이스라엘과 유다와 세계 만민을 두고 너에게 말한 모든 말을, 그 두루마리에 기록하여라.",
     Chn:"「你取一书卷，将我对你说攻击以色列和犹大，并各国的一切话，从我对你说话的那日，就是从约西亚的日子起直到今日，都写在其上。",
     Eng:"\"Take a scroll and write on it all the words I have spoken to you concerning Israel, Judah and all the other nations from the time I began speaking to you in the reign of Josiah till now.",
     Ind:"\"Ambillah kitab gulungan dan tulislah di dalamnya segala perkataan yang telah Kufirmankan kepadamu mengenai Israel, Yehuda dan segala bangsa, dari sejak Aku berbicara kepadamu, yakni dari sejak zaman Yosia, sampai waktu ini."
@@ -21,49 +21,49 @@ BibleDB.add([
     Ind:"Mungkin apabila kaum Yehuda mendengar tentang segala malapetaka yang Aku rancangkan hendak mendatangkannya kepada mereka, maka mereka masing-masing akan bertobat dari tingkah langkahnya yang jahat itu, sehingga Aku mengampuni kesalahan dan dosa mereka.\""
   },
   {Bible:"Jeremiah", Chapter:36, Verse:4, Page:1,
-    Kor:"○그래서 예레미야가 네리야의 아들 바룩을 불렀다. 바룩은 예레미야가 불러 주는 대로, 주님께서 그에게 하신 모든 말씀을 두루마리에 기록하였다.",
+    Kor:"그래서 예레미야가 네리야의 아들 바룩을 불렀다. 바룩은 예레미야가 불러 주는 대로, 주께서 그에게 하신 모든 말씀을 두루마리에 기록하였다.",
     Chn:"所以，耶利米召了尼利亚的儿子巴录来；巴录就从耶利米口中，将耶和华对耶利米所说的一切话写在书卷上。",
     Eng:"So Jeremiah called Baruch son of Neriah, and while Jeremiah dictated all the words the LORD had spoken to him, Baruch wrote them on the scroll.",
     Ind:"Jadi Yeremia memanggil Barukh bin Neria, lalu Barukh menuliskan dalam kitab gulungan itu langsung dari mulut Yeremia segala perkataan yang telah difirmankan TUHAN kepadanya."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:5, Page:1,
-    Kor:"○그런 다음에, 예레미야가 바룩에게 이렇게 지시하였다. \"나는 감금되어 주님의 성전에 들어갈 수 없는 몸이 되었으니,",
+    Kor:"○그런 다음에, 예레미야가 바룩에게 다음과 같이 지시하였다. \"나는 감금되어 주의 성전에 들어갈 수 없는 몸이 되었으니,",
     Chn:"耶利米吩咐巴录说：「我被拘管，不能进耶和华的殿。",
     Eng:"Then Jeremiah told Baruch, \"I am restricted; I cannot go to the LORD'S temple.",
     Ind:"Pada suatu kali Yeremia memberi perintah kepada Barukh: \"Aku ini berhalangan, tidak dapat pergi ke rumah TUHAN."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:6, Page:1,
-    Kor:"그대가 금식일에 주님의 성전으로 들어가서, 내가 불러 준 대로 기록한 두루마리에서, 주님의 말씀을 백성에게 낭독하여 들려주시오. 유다의 여러 성읍에서 온 모든 사람에게 그 말씀을 낭독하여 들려주시오.",
+    Kor:"그대가 금식일에 주의 성전으로 들어가서, 내가 불러 준 대로 기록한 두루마리에서, 주의 말씀을 백성에게 낭독하여 들려주시오. 유다의 여러 성읍에서 온 모든 사람에게 그 말씀을 낭독하여 들려주시오.",
     Chn:"所以你要去趁禁食的日子，在耶和华殿中将耶和华的话，就是你从我口中所写在书卷上的话，念给百姓和一切从犹大城邑出来的人听。",
     Eng:"So you go to the house of the LORD on a day of fasting and read to the people from the scroll the words of the LORD that you wrote as I dictated. Read them to all the people of Judah who come in from their towns.",
     Ind:"Jadi pada hari puasa engkaulah yang pergi membacakan perkataan-perkataan TUHAN kepada orang banyak di rumah TUHAN dari gulungan yang kautuliskan langsung dari mulutku itu; kepada segenap orang Yehuda yang datang dari kota-kotanya haruslah kaubacakannya juga."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:7, Page:1,
-    Kor:"그러면, 그들이 주님 앞에 엎드려 기도드리면서, 저마다 악한 길에서 돌아올는지도 모르오. 주님께서 이 백성에게 쏟으시겠다고 말씀하신 진노와 노여움이 너무 크기 때문이오.\"",
+    Kor:"그러면, 그들이 주 앞에 엎드려 기도드리면서, 저마다 악한 길에서 돌아올는지도 모르오. 주께서 이 백성에게 쏟으시겠다고 말씀하신 진노와 노여움이 너무 크기 때문이오.\"",
     Chn:"或者他们在耶和华面前恳求各人回头，离开恶道，因为耶和华向这百姓所说要发的怒气和忿怒是大的。」",
     Eng:"Perhaps they will bring their petition before the LORD, and each will turn from his wicked ways, for the anger and wrath pronounced against this people by the LORD are great.\"",
     Ind:"Mungkin permohonan mereka sampai di hadapan TUHAN dan mereka masing-masing bertobat dari tingkah langkahnya yang jahat itu, sebab besar murka dan kehangatan amarah yang diancamkan TUHAN kepada bangsa ini.\""
   },
   {Bible:"Jeremiah", Chapter:36, Verse:8, Page:1,
-    Kor:"○네리야의 아들 바룩은, 예언자 예레미야가 자기에게 부탁한 대로, 주님의 성전으로 가서 두루마리에 있는 주님의 말씀을 읽었다.",
+    Kor:"○네리야의 아들 바룩은, 예언자 예레미야가 자기에게 부탁한 대로, 주의 성전으로 가서 두루마리에 있는 주의 말씀을 읽었다.",
     Chn:"尼利亚的儿子巴录就照先知耶利米一切所吩咐的去行，在耶和华的殿中从书上念耶和华的话。",
     Eng:"Baruch son of Neriah did everything Jeremiah the prophet told him to do; at the LORD'S temple he read the words of the LORD from the scroll.",
     Ind:"Lalu Barukh bin Neria melakukan tepat seperti yang diperintahkan kepadanya oleh nabi Yeremia untuk membacakan perkataan-perkataan TUHAN dari kitab itu di rumah TUHAN. --"
   },
   {Bible:"Jeremiah", Chapter:36, Verse:9, Page:1,
-    Kor:"요시야의 아들 여호야김이 유다 왕이 된 지 오년째 되는 해 아홉째 달에, 예루살렘의 모든 주민과 유다의 여러 성읍에서 예루살렘으로 들어온 모든 백성에게, 주님 앞에서 금식하라는 선포가 내렸다.",
+    Kor:"요시야의 아들 여호야김이 유다 왕이 된 지 오년째 되는 해 아홉째 달에, 예루살렘의 모든 주민과 유다의 여러 성읍에서 예루살렘으로 들어온 모든 백성에게, 주 앞에서 금식하라는 선포가 내렸다.",
     Chn:"犹大王约西亚的儿子约雅敬第五年九月，耶路撒冷的众民和那从犹大城邑来到耶路撒冷的众民，在耶和华面前宣告禁食的日子，",
     Eng:"In the ninth month of the fifth year of Jehoiakim son of Josiah king of Judah, a time of fasting before the LORD was proclaimed for all the people in Jerusalem and those who had come from the towns of Judah.",
     Ind:"Adapun dalam tahun yang kelima pemerintahan Yoyakim bin Yosia, raja Yehuda, dalam bulan yang kesembilan, orang telah memaklumkan puasa di hadapan TUHAN bagi segenap rakyat di Yerusalem dan bagi segenap rakyat yang telah datang dari kota-kota Yehuda ke Yerusalem. --"
   },
   {Bible:"Jeremiah", Chapter:36, Verse:10, Page:1,
-    Kor:"바룩은 주님의 성전으로 들어가서, 모든 백성에게 예레미야가 한 주님의 말씀을 기록한 두루마리를 낭독하였다. 그가 낭독한 곳은 서기관 사반의 아들 그마랴의 방이었고, 그 방은 주님의 성전 '새 대문' 어귀의 위 뜰에 있었다.",
+    Kor:"바룩은 주의 성전으로 들어가서, 모든 백성에게 예레미야가 한 주의 말씀을 기록한 두루마리를 낭독하였다. 그가 낭독한 곳은 서기관 사반의 아들 그마랴의 방이었고, 그 방은 주의 성전 '새 대문' 어귀의 위 뜰에 있었다.",
     Chn:"巴录就在耶和华殿的上院，耶和华殿的新门口，沙番的儿子文士基玛利雅的屋内，念书上耶利米的话给众民听。",
     Eng:"From the room of Gemariah son of Shaphan the secretary, which was in the upper courtyard at the entrance of the New Gate of the temple, Baruch read to all the people at the LORD'S temple the words of Jeremiah from the scroll.",
     Ind:"Maka Barukh membacakan kepada segenap rakyat perkataan Yeremia dari kitab itu, di rumah TUHAN, di kamar Gemarya anak panitera Safan, di pelataran atas di muka pintu gerbang baru dari rumah TUHAN."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:11, Page:1,
-    Kor:"<바룩이 고관들 앞에서 두루마리를 읽다> ○그 때에 사반의 손자요 그마랴의 아들인 미가야가 두루마리에 있는 하나님의 말씀을 다 듣고,",
+    Kor:"○그 때에 사반의 손자요 그마랴의 아들인 미가야가 두루마리에 있는 하나님의 말씀을 다 듣고,",
     Chn:"沙番的孙子、基玛利雅的儿子米该亚听见书上耶和华的一切话，",
     Eng:"When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the LORD from the scroll,",
     Ind:"Ketika Mikhaya bin Gemarya bin Safan mendengar segala firman TUHAN dari kitab itu,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Berkatalah mereka kepadanya: \"Silakan duduk dan bacakan itu kepada kami!\" Lalu Barukh membacakannya kepada mereka."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:16, Page:1,
-    Kor:"그들은 그 말씀을 다 듣고 나서, 놀라 서로 쳐다보며, 바룩에게 말하였다. \"우리가 이 말씀을 모두 임금님께 꼭 아뢰어야 하겠소.\"",
+    Kor:"그들은 그 말씀을 다 듣고 나서, 놀라 서로 쳐다보며, 바룩에게 이르기를 \"우리가 이 말씀을 모두 임금님께 꼭 아뢰어야 하겠소\" 하였다.",
     Chn:"他们听见这一切话就害怕，面面相观，对巴录说：「我们必须将这一切话告诉王。」",
     Eng:"When they heard all these words, they looked at each other in fear and said to Baruch, \"We must report all these words to the king.\"",
     Ind:"Setelah mereka mendengar segala perkataan itu, maka terkejutlah mereka dan berkata seorang kepada yang lain: \"Kita harus dengan segera memberitahukan segala perkataan ini kepada raja!\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kemudian pergilah mereka menghadap raja di pelataran, sesudah mereka menyimpan gulungan itu di kamar panitera Elisama. Mereka memberitahukan segala perkataan ini kepada raja."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:21, Page:1,
-    Kor:"<왕이 두루마리를 태우다> ○전하는 말을 들은 왕은 여후디를 보내어 그 두루마리를 가져 오게 하였다. 여후디가 서기관 엘리사마의 방에서 그 두루마리를 가져다가, 왕과 왕의 곁에 서 있는 모든 고관들 앞에서 낭독하여 들려주었다.",
+    Kor:"○전하는 말을 들은 왕은 여후디를 보내어 그 두루마리를 가져 오게 하였다. 여후디가 서기관 엘리사마의 방에서 그 두루마리를 가져다가, 왕과 왕의 곁에 서 있는 모든 고관들 앞에서 낭독하여 들려주었다.",
     Chn:"王就打发犹底去拿这书卷来，他便从文士以利沙玛的屋内取来，念给王和王左右侍立的众首领听。",
     Eng:"The king sent Jehudi to get the scroll, and Jehudi brought it from the room of Elishama the secretary and read it to the king and all the officials standing beside him.",
     Ind:"Raja menyuruh Yehudi mengambil gulungan itu, lalu ia mengambilnya dari kamar panitera Elisama itu. Yehudi membacakannya kepada raja dan semua pemuka yang berdiri dekat raja."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Elnatan, Delaya dan Gemarya memang mendesak kepada raja, supaya jangan membakar gulungan itu, tetapi raja tidak mendengarkan mereka."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:26, Page:1,
-    Kor:"○왕은 오히려, 왕자 여라므엘을 비롯하여 아스리엘의 아들 스라야와 압디엘의 아들 셀레먀에게 명령하여, 서기관 바룩과 예언자 예레미야를 체포하라고 하였다. 그러나 주님께서 그들을 숨기셨다.",
+    Kor:"○왕은 오히려, 왕자 여라므엘을 비롯하여 아스리엘의 아들 스라야와 압디엘의 아들 셀레먀에게 명령하여, 서기관 바룩과 예언자 예레미야를 체포하라고 하였다. 그러나 주께서 그들을 숨기셨다.",
     Chn:"王就吩咐哈米勒的儿子耶拉篾和亚斯列的儿子西莱雅，并亚伯叠的儿子示利米雅，去捉拿文士巴录和先知耶利米。耶和华却将他们隐藏。",
     Eng:"Instead, the king commanded Jerahmeel, a son of the king, Seraiah son of Azriel and Shelemiah son of Abdeel to arrest Baruch the scribe and Jeremiah the prophet. But the LORD had hidden them.",
     Ind:"Bahkan raja memerintahkan pangeran Yerahmeel, Seraya bin Azriel dan Selemya bin Abdeel untuk menangkap juru tulis Barukh dan nabi Yeremia, tetapi TUHAN menyembunyikan mereka."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:27, Page:1,
-    Kor:"<예레미야가 예언을 다시 쓰다> ○예레미야가 불러 주고 바룩이 받아 쓴 그 두루마리를 왕이 태운 뒤에, 주님께서 예레미야에게",
+    Kor:"○예레미야가 불러 주고 바룩이 받아 쓴 그 두루마리를 왕이 태운 뒤에, 주께서 예레미야에게",
     Chn:"王烧了书卷（其上有巴录从耶利米口中所写的话）以后，耶和华的话临到耶利米说：",
     Eng:"After the king burned the scroll containing the words that Baruch had written at Jeremiah's dictation, the word of the LORD came to Jeremiah:",
     Ind:"Sesudah raja membakar gulungan berisi perkataan-perkataan yang dituliskan oleh Barukh langsung dari mulut Yeremia itu, maka datanglah firman TUHAN kepada Yeremia, bunyinya:"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"\"Ambil pulalah gulungan lain, tuliskanlah di dalamnya segala perkataan yang semula ada di dalam gulungan yang pertama yang dibakar oleh Yoyakim, raja Yehuda."
   },
   {Bible:"Jeremiah", Chapter:36, Verse:29, Page:1,
-    Kor:"유다 왕 여호야김에게 주님의 말을 전하라고 하셨다. \"나 주가 말한다. 너는 예레미야에게 '왜 두루마리에다가, 바빌로니아 왕이 틀림없이 와서 이 땅을 멸망시키고 사람과 짐승을 이 땅에서 멸절시킬 것이라고 기록하였느냐' 하고 묻고는, 그 두루마리를 태워 버렸다.",
+    Kor:"유다 왕 여호야김에게 주의 말을 전하라고 하셨다. \"나 주가 말한다. 너는 예레미야에게 '왜 두루마리에다가, 바빌로니아 왕이 틀림없이 와서 이 땅을 멸망시키고 사람과 짐승을 이 땅에서 멸절시킬 것이라고 기록하였느냐' 하고 묻고는, 이 두루마리를 태워 버렸다.",
     Chn:"论到犹大王约雅敬你要说，耶和华如此说：你烧了书卷，说：『你为什么在其上写着，说巴比伦王必要来毁灭这地，使这地上绝了人民牲畜呢？』",
     Eng:"Also tell Jehoiakim king of Judah, 'This is what the LORD says: You burned that scroll and said, \"Why did you write on it that the king of Babylon would certainly come and destroy this land and cut off both men and animals from it?\"",
     Ind:"Mengenai Yoyakim, raja Yehuda, haruslah kaukatakan: Beginilah firman TUHAN: Engkau telah membakar gulungan ini dengan berkata: Mengapakah engkau menulis di dalamnya, bahwa raja Babel pasti akan datang untuk memusnahkan negeri ini dan untuk melenyapkan dari dalamnya manusia dan hewan?"

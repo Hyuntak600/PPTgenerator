@@ -3,37 +3,37 @@
 BibleDB.ref("Exodus",18,27);
 BibleDB.add([
   {Bible:"Exodus", Chapter:18, Verse:1, Page:1,
-    Kor:"<이드로가 모세를 방문하다> 미디안의 제사장이며 a모세의 장인인 이드로는, 하나님이 모세와 그의 백성 이스라엘에게 하신 일, 곧 주님께서 어떻게 이스라엘을 이집트에서 인도하여 내셨는가 하는 것을 들었다.(a 모세의 장인은 민 10:29 및 삿 1:16과 4:11에서는 호밥이고, 출 2:21에서는 르우엘이고, 02 18:출 18장에서는 이드로이다)",
+    Kor:"미디안의 제사장이며 모세의 장인인 이드로는, 하나님이 모세와 그의 백성 이스라엘에게 하신 일, 곧 주께서 어떻게 이스라엘을 이집트에서 인도하여 내셨는가 하는 것을 들었다.",
     Chn:"摩西的岳父，米甸祭司叶忒罗，听见　神为摩西和　神的百姓以色列所行的一切事，就是耶和华将以色列从埃及领出来的事，",
     Eng:"Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the LORD had brought Israel out of Egypt.",
     Ind:"Kedengaranlah kepada Yitro, imam di Midian, mertua Musa, segala yang dilakukan Allah kepada Musa dan kepada Israel, umat-Nya, yakni bahwa TUHAN telah membawa orang Israel keluar dari Mesir."
   },
   {Bible:"Exodus", Chapter:18, Verse:2, Page:1,
-    Kor:"모세의 장인 이드로는 친정에 돌아와 있는 모세의 아내 십보라와",
+    Kor:"모세의 장인 이드로는, 친정에 돌아와 있는 모세의 아내 십보라와",
     Chn:"便带着摩西的妻子西坡拉，就是摩西从前打发回去的，",
     Eng:"After Moses had sent away his wife Zipporah, his father-in-law Jethro received her",
     Ind:"Lalu Yitro, mertua Musa, membawa serta Zipora, isteri Musa--yang dahulu disuruh Musa pulang--"
   },
   {Bible:"Exodus", Chapter:18, Verse:3, Page:1,
-    Kor:"십보라의 두 아들을 데리고 나섰다. 한 아들의 이름은 게르솜인데, 이 이름은 \"내가 타국 땅에서 b나그네가 되었구나\" 하면서 모세가 지은 것이고,(b 히, '게르')",
+    Kor:"십보라의 두 아들을 데리고 나섰다. 한 아들의 이름은 게르솜인데, 이 이름은 \"내가 타국 땅에서 나그네가 되었구나\" 하면서 모세가 지은 것이고,",
     Chn:"又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：「我在外邦作了寄居的」；",
     Eng:"and her two sons. One son was named Gershom, for Moses said, \"I have become an alien in a foreign land\";",
     Ind:"dan kedua anak laki-laki Zipora; yang seorang bernama Gersom, sebab kata Musa: \"Aku telah menjadi seorang pendatang di negeri asing,\""
   },
   {Bible:"Exodus", Chapter:18, Verse:4, Page:1,
-    Kor:"또 한 아들의 이름은 c엘리에셀인데, 이 이름은 그가 \"내 아버지의 하나님이 나를 도우셔서, 바로의 칼에서 나를 건져 주셨다\"고 하면서 지은 이름이다.(c '나의 하나님은 돕는 분이시다')",
+    Kor:"또 한 아들의 이름은 엘리에셀인데, 이 이름은 그가 \"내 아버지의 하나님이 나를 도우셔서, 바로의 칼에서 나를 건져 주셨다\"고 하면서 지은 이름이다.",
     Chn:"一个名叫以利以谢，因为他说：「我父亲的　神帮助了我，救我脱离法老的刀。」",
     Eng:"and the other was named Eliezer, for he said, \"My father's God was my helper; he saved me from the sword of Pharaoh.\"",
     Ind:"dan yang seorang lagi bernama Eliezer, sebab katanya: \"Allah bapaku adalah penolongku dan telah menyelamatkan aku dari pedang Firaun.\""
   },
   {Bible:"Exodus", Chapter:18, Verse:5, Page:1,
-    Kor:"○모세의 장인 이드로는 모세의 두 아들과 아내를 데리고 모세가 진을 치고 있는 광야로 갔는데, 그 곳은 바로 하나님의 산이 있는 곳이다.",
+    Kor:"○모세의 장인 이드로는, 모세의 두 아들과 아내를 데리고 모세가 진을 치고 있는 광야로 갔는데, 그 곳은 바로 하나님의 산이 있는 곳이다.",
     Chn:"摩西的岳父叶忒罗带着摩西的妻子和两个儿子来到　神的山，就是摩西在旷野安营的地方。",
     Eng:"Jethro, Moses' father-in-law, together with Moses' sons and wife, came to him in the desert, where he was camped near the mountain of God.",
     Ind:"Ketika Yitro, mertua Musa, beserta anak-anak dan isteri Musa sampai kepadanya di padang gurun, tempat ia berkemah dekat gunung Allah,"
   },
   {Bible:"Exodus", Chapter:18, Verse:6, Page:1,
-    Kor:"그는 거기에서 모세에게 전갈을 보냈다. \"자네의 장인인 나 이드로가 자네의 처와 두 아들을 데리고 왔네.\"",
+    Kor:"그는 거기에서 모세에게 전갈을 보냈다. \"자네의 장인인 나 이드로가, 자네의 처와 두 아들을 데리고 왔네.\"",
     Chn:"他对摩西说：「我是你岳父叶忒罗，带着你的妻子和两个儿子来到你这里。」",
     Eng:"Jethro had sent word to him, \"I, your father-in-law Jethro, am coming to you with your wife and her two sons.\"",
     Ind:"disuruhnyalah mengatakan kepada Musa: \"Aku, mertuamu Yitro, datang kepadamu membawa isterimu beserta kedua anaknya.\""
@@ -45,25 +45,25 @@ BibleDB.add([
     Ind:"Lalu keluarlah Musa menyongsong mertuanya itu, sujudlah ia kepadanya dan menciumnya; mereka menanyakan keselamatan masing-masing, lalu masuk ke dalam kemah."
   },
   {Bible:"Exodus", Chapter:18, Verse:8, Page:1,
-    Kor:"○모세는 장인에게, 주님께서 이스라엘을 도우신 일, 곧 바로와 이집트 사람에게 하신 모든 일과, 그들이 오는 도중에 겪은 모든 고난과, 주님께서 어떻게 그들을 건져 주셨는가 하는 것을 자세히 말하였다.",
+    Kor:"○모세는 장인에게, 주께서 이스라엘을 도우신 일, 곧 바로와 이집트 사람에게 하신 모든 일과, 그들이 오는 도중에 겪은 모든 고난과, 주께서 어떻게 그들을 건져 주셨는가 하는 것을 자세히 말하였다.",
     Chn:"摩西将耶和华为以色列的缘故向法老和埃及人所行的一切事，以及路上所遭遇的一切艰难，并耶和华怎样搭救他们，都述说与他岳父听。",
     Eng:"Moses told his father-in-law about everything the LORD had done to Pharaoh and the Egyptians for Israel's sake and about all the hardships they had met along the way and how the LORD had saved them.",
     Ind:"Sesudah itu Musa menceritakan kepada mertuanya segala yang dilakukan TUHAN kepada Firaun dan kepada orang Mesir karena Israel dan segala kesusahan yang mereka alami di jalan dan bagaimana TUHAN menyelamatkan mereka."
   },
   {Bible:"Exodus", Chapter:18, Verse:9, Page:1,
-    Kor:"그러자 이드로는, 주님께서 이스라엘을 이집트 사람의 손아귀에서 건져 주시려고 베푸신 온갖 고마운 일을 전하여 듣고서, 기뻐하였다.",
+    Kor:"그러자 이드로는, 주께서 이스라엘을 이집트 사람의 손아귀에서 건져 주시려고 베푸신 온갖 고마운 일을 전하여 듣고서, 기뻐하였다.",
     Chn:"叶忒罗因耶和华待以色列的一切好处，就是拯救他们脱离埃及人的手，便甚欢喜。",
     Eng:"Jethro was delighted to hear about all the good things the LORD had done for Israel in rescuing them from the hand of the Egyptians.",
     Ind:"Bersukacitalah Yitro tentang segala kebaikan, yang dilakukan TUHAN kepada orang Israel, bahwa Ia telah menyelamatkan mereka dari tangan orang Mesir."
   },
   {Bible:"Exodus", Chapter:18, Verse:10, Page:1,
-    Kor:"○이드로가 말하였다. \"주님께서 이집트 사람의 손아귀와 바로의 손아귀에서 자네와 자네의 백성을 건져 주시고, 이 백성을 이집트 사람의 억압으로부터 건져 주셨으니, 주님은 마땅히 찬양을 받으실 분일세.",
+    Kor:"○이드로가 말하였다. \"주께서 이집트 사람의 손아귀와 바로의 손아귀에서 자네와 자네의 백성을 건져 주시고, 이 백성을 이집트 사람의 억압으로부터 건져 주셨으니, 주님은 마땅히 찬양을 받으실 분일세.",
     Chn:"叶忒罗说：「耶和华是应当称颂的；他救了你们脱离埃及人和法老的手，将这百姓从埃及人的手下救出来。",
     Eng:"He said, \"Praise be to the LORD, who rescued you from the hand of the Egyptians and of Pharaoh, and who rescued the people from the hand of the Egyptians.",
     Ind:"Lalu kata Yitro: \"Terpujilah TUHAN, yang telah menyelamatkan kamu dari tangan orang Mesir dan dari tangan Firaun."
   },
   {Bible:"Exodus", Chapter:18, Verse:11, Page:1,
-    Kor:"이스라엘에게 그토록 교만히 행한 그들에게 벌을 내리시고 치신 것을 보니, 주님이 그 어떤 신보다도 위대하시다는 것을 이제 나는 똑똑히 알겠네.\"",
+    Kor:"이스라엘에게 그토록 교만히 행한 그들에게 벌을 내리시고 치신 것을 보니, 주께서 그 어떤 신보다도 위대하시다는 것을 이제 나는 똑똑히 알겠네.\"",
     Chn:"我现今在埃及人向这百姓发狂傲的事上得知，耶和华比万神都大。」",
     Eng:"Now I know that the LORD is greater than all other gods, for he did this to those who had treated Israel arrogantly.\"",
     Ind:"Sekarang aku tahu, bahwa TUHAN lebih besar dari segala allah; sebab Ia telah menyelamatkan bangsa ini dari tangan orang Mesir, karena memang orang-orang ini telah bertindak angkuh terhadap mereka.\""
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Dan Yitro, mertua Musa, mempersembahkan korban bakaran dan beberapa korban sembelihan bagi Allah; lalu Harun dan semua tua-tua Israel datang untuk makan bersama-sama dengan mertua Musa di hadapan Allah."
   },
   {Bible:"Exodus", Chapter:18, Verse:13, Page:1,
-    Kor:"<재판관 임명(신 1:9-18)> ○그 이튿날, 모세는 백성의 송사를 다루려고 자리에 앉고, 백성은 아침부터 저녁까지 모세 곁에 서 있었다.",
+    Kor:"○그 이튿날, 모세는 백성의 송사를 다루려고 자리에 앉고, 백성은 아침부터 저녁까지 모세 곁에 서 있었다.",
     Chn:"第二天，摩西坐着审判百姓，百姓从早到晚都站在摩西的左右。",
     Eng:"The next day Moses took his seat to serve as judge for the people, and they stood around him from morning till evening.",
     Ind:"Keesokan harinya duduklah Musa mengadili di antara bangsa itu; dan bangsa itu berdiri di depan Musa, dari pagi sampai petang."
   },
   {Bible:"Exodus", Chapter:18, Verse:14, Page:1,
-    Kor:"모세의 장인은 모세가 백성을 다스리는 이 일을 모두 보고, 이렇게 말하였다. \"자네는 백성의 일을 어찌하여 이렇게 처리하는가? 어찌하여 아침부터 저녁까지 백성을 모두 자네 곁에 세워 두고, 자네 혼자만 앉아서 일을 처리하는가?\"",
+    Kor:"모세의 장인은, 모세가 백성을 다스리는 이 일을 모두 보고, 이렇게 말하였다. \"자네는 백성의 일을 어찌하여 이렇게 처리하는가? 어찌하여, 아침부터 저녁까지, 백성을 모두 자네 곁에 세워 두고, 자네 혼자만 앉아서 일을 처리하는가?\"",
     Chn:"摩西的岳父看见他向百姓所做的一切事，就说：「你向百姓做的是什么事呢？你为什么独自坐着，众百姓从早到晚都站在你的左右呢？」",
     Eng:"When his father-in-law saw all that Moses was doing for the people, he said, \"What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?\"",
     Ind:"Ketika mertua Musa melihat segala yang dilakukannya kepada bangsa itu, berkatalah ia: \"Apakah ini yang kaulakukan kepada bangsa itu? Mengapakah engkau seorang diri saja yang duduk, sedang seluruh bangsa itu berdiri di depanmu dari pagi sampai petang?\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kata Musa kepada mertuanya itu: \"Sebab bangsa ini datang kepadaku untuk menanyakan petunjuk Allah."
   },
   {Bible:"Exodus", Chapter:18, Verse:16, Page:1,
-    Kor:"그들은 무슨 일이든지 생기면 저에게로 옵니다. 그러면 저는 이웃간의 문제를 재판하여 주고, 하나님의 규례와 율법을 알려 주어야 합니다.\"",
+    Kor:"그들은 무슨 일이든지 생기면, 저에게로 옵니다. 그러면 저는 이웃간의 문제를 재판하여 주고, 하나님의 규례와 율법을 알려 주어야 합니다.\"",
     Chn:"他们有事的时候就到我这里来，我便在两造之间施行审判；我又叫他们知道　神的律例和法度。」",
     Eng:"Whenever they have a dispute, it is brought to me, and I decide between the parties and inform them of God's decrees and laws.\"",
     Ind:"Apabila ada perkara di antara mereka, maka mereka datang kepadaku dan aku mengadili antara yang seorang dan yang lain; lagipula aku memberitahukan kepada mereka ketetapan-ketetapan dan keputusan-keputusan Allah.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kemudian haruslah engkau mengajarkan kepada mereka ketetapan-ketetapan dan keputusan-keputusan, dan memberitahukan kepada mereka jalan yang harus dijalani, dan pekerjaan yang harus dilakukan."
   },
   {Bible:"Exodus", Chapter:18, Verse:21, Page:1,
-    Kor:"또 자네는 백성 가운데서 능력과 덕을 함께 갖춘 사람, 곧 하나님을 두려워하며 참되어서 거짓이 없으며 부정직한 소득을 싫어하는 사람을 뽑아서, 백성 위에 세우게. 그리고 그들을 천부장과 백부장과 오십부장과 십부장으로 세워서,",
+    Kor:"또 자네는 백성 가운데서 능력과 덕을 함께 갖춘 사람, 곧 하나님을 두려워하며, 참되어서 거짓이 없으며, 부정직한 소득을 싫어하는 사람을 뽑아서 백성 위에 세우게. 그리고 그들을 천부장과 백부장과 오십부장과 십부장으로 세워서,",
     Chn:"并要从百姓中拣选有才能的人，就是敬畏　神、诚实无妄、恨不义之财的人，派他们作千夫长、百夫长、五十夫长、十夫长，管理百姓，",
     Eng:"But select capable men from all the people--men who fear God, trustworthy men who hate dishonest gain--and appoint them as officials over thousands, hundreds, fifties and tens.",
     Ind:"Di samping itu kaucarilah dari seluruh bangsa itu orang-orang yang cakap dan takut akan Allah, orang-orang yang dapat dipercaya, dan yang benci kepada pengejaran suap; tempatkanlah mereka di antara bangsa itu menjadi pemimpin seribu orang, pemimpin seratus orang, pemimpin lima puluh orang dan pemimpin sepuluh orang."

@@ -3,13 +3,13 @@
 BibleDB.ref("2Samuel",4,12);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:4, Verse:1, Page:1,
-    Kor:"<이스보셋이 살해됨> 사울의 아들 이스보셋은, 아브넬이 헤브론에서 죽었다는 소식을 듣고서, 그만 맥이 풀리고 말았다. 이스라엘 온 백성도 두려움에 사로잡혔다.",
+    Kor:"사울의 아들 이스보셋은, 아브넬이 헤브론에서 죽었다는 소식을 듣고서, 그만 맥이 풀리고 말았다. 이스라엘 온 백성도 두려움에 사로잡혔다.",
     Chn:"扫罗的儿子伊施波设听见押尼珥死在希伯 ，手就发软；以色列众人也都惊惶。",
     Eng:"When Ish-Bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel became alarmed.",
     Ind:"Ketika didengar anak Saul, bahwa Abner sudah mati di Hebron, maka hilanglah keberaniannya, dan terkejutlah seluruh orang Israel."
   },
   {Bible:"2Samuel", Chapter:4, Verse:2, Page:1,
-    Kor:"이 때에 사울의 아들 이스보셋에게는 군지휘관이 두 사람 있었는데, 한 사람의 이름은 바아나요, 또 한 사람의 이름은 레갑이었다. 그들은 브에롯 사람 림몬의 아들로서, 베냐민 사람이다. (브에롯 사람도 베냐민 족속으로 여김을 받았는데,",
+    Kor:"이 때에, 사울의 아들 이스보셋에게는 군지휘관이 두 사람 있었는데, 한 사람의 이름은 바아나요, 또 한 사람의 이름은 레갑이었다. 그들은 브에롯 사람 림몬의 아들로서, 베냐민 사람이다. (브에롯 사람도 베냐민 족속으로 여김을 받았는데,",
     Chn:"扫罗的儿子伊施波设有两个军长，一名巴拿，一名利甲，是便雅悯支派、比录人临门的儿子。比录也属便雅悯。",
     Eng:"Now Saul's son had two men who were leaders of raiding bands. One was named Baanah and the other Recab; they were sons of Rimmon the Beerothite from the tribe of Benjamin--Beeroth is considered part of Benjamin,",
     Ind:"Anak Saul mempunyai dua orang sebagai kepala gerombolan, yang satu bernama Baana dan yang kedua bernama Rekhab, keduanya anak Rimon, orang Benyamin dari Beerot. --Sebab Beerotpun terhitung daerah Benyamin."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Anak-anak Rimon, orang Beerot itu, yakni Rekhab dan Baana, pergi, lalu sampai pada waktu hari panas terik ke rumah Isyboset, ketika ia sedang berbaring siang hari."
   },
   {Bible:"2Samuel", Chapter:4, Verse:6, Page:1,
-    Kor:"그들은 밀을 가지러 온 사람처럼 꾸미고, 대궐 안으로 들어가서, 그의 배를 찔러서 죽였다. 그런 다음에 레갑과 그의 동생 바아나는 도망하였는데,",
+    Kor:"그들은 밀을 가지러 온 사람처럼 꾸미고, 대궐 안으로 들어가서, 그의 배를 찔러서 죽였다. 그런 다음에, 레갑과 그의 동생 바아나는 도망하였는데,",
     Chn:"他们进了房子，假作要取麦子，就刺透伊施波设的肚腹，逃跑了。",
     Eng:"They went into the inner part of the house as if to get some wheat, and they stabbed him in the stomach. Then Recab and his brother Baanah slipped away.",
     Ind:"Kebetulan penjaga pintu rumah itu mengantuk dan tertidur, ketika sedang membersihkan gandum. Demikianlah Rekhab dan Baana menyusup ke dalam."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Mereka masuk ke dalam rumah itu, ketika Isyboset sedang berbaring di atas tempat tidurnya di dalam kamar tidurnya, membunuh dia lalu memenggal kepalanya. Mereka membawa kepalanya itu, lalu berjalan semalam-malaman melalui jalan dari Araba-Yordan."
   },
   {Bible:"2Samuel", Chapter:4, Verse:8, Page:1,
-    Kor:"헤브론으로 갔다. 거기에서 그들은 이스보셋의 머리를 다윗에게로 들고 가서 말하였다. \"임금님의 생명을 노리던 원수 사울의 아들 이스보셋의 머리를 여기에 가져 왔습니다. 주님께서 높으신 임금님을 도우시려고, 오늘에야 사울과 그의 자손에게 벌을 내려서 원수를 갚아 주셨습니다.\"",
+    Kor:"헤브론으로 갔다. 거기에서 그들은 이스보셋의 머리를 다윗에게로 들고 가서 말하였다. \"임금님의 생명을 노리던 원수 사울의 아들 이스보셋의 머리를 여기에 가져 왔습니다. 주께서 높으신 임금님을 도우시려고, 오늘에야 사울과 그의 자손에게 벌을 내려서 원수를 갚아 주셨습니다.\"",
     Chn:"将伊施波设的首级拿到希伯 见大卫王，说：「王的仇敌扫罗曾寻索王的性命。看哪，这是他儿子伊施波设的首级；耶和华今日为我主我王在扫罗和他后裔的身上报了仇。」",
     Eng:"They brought the head of Ish-Bosheth to David at Hebron and said to the king, \"Here is the head of Ish-Bosheth son of Saul, your enemy, who tried to take your life. This day the LORD has avenged my lord the king against Saul and his offspring.\"",
     Ind:"Kepala Isyboset itu dibawa mereka kepada Daud di Hebron dan mereka berkata kepada raja: \"Inilah kepala Isyboset, anak Saul, musuhmu itu, yang ingin mencabut nyawamu; TUHAN pada hari ini telah membiarkan tuanku raja mengadakan pembalasan atas Saul dan atas keturunannya.\""
   },
   {Bible:"2Samuel", Chapter:4, Verse:9, Page:1,
-    Kor:"○그러나 다윗은 브에롯 사람 림몬의 아들 레갑과 그의 동생 바아나에게 이와 같이 대답하였다. \"온갖 죽을 고비에서 나의 생명을 건져 주신 확실히 살아 계신 주님을 두고 맹세한다.",
+    Kor:"○그러나 다윗은 브에롯 사람 림몬의 아들 레갑과 그의 동생 바아나에게 이와 같이 대답하였다. \"온갖 죽을 고비에서 나의 생명을 건져 주신 확실히 살아 계신 주를 두고 맹세한다.",
     Chn:"大卫对比录人临门的儿子利甲和他兄弟巴拿说：「我指着救我性命脱离一切苦难、永生的耶和华起誓：",
     Eng:"David answered Recab and his brother Baanah, the sons of Rimmon the Beerothite, \"As surely as the LORD lives, who has delivered me out of all trouble,",
     Ind:"Tetapi Daud menjawab Rekhab dan Baana, saudaranya, anak-anak Rimon, orang Beerot itu, katanya kepada mereka: \"Demi TUHAN yang hidup, yang telah membebaskan nyawaku dari segala kesesakan!"

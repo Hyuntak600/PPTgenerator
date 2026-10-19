@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",31,55);
 BibleDB.add([
   {Bible:"Genesis", Chapter:31, Verse:1, Page:1,
-    Kor:"<야곱이 라반을 떠나다> 라반의 아들들이 하는 말이 야곱에게 들렸다. \"야곱은 우리 아버지의 재산을 다 빼앗고, 우리 아버지의 재산으로 저처럼 큰 부자가 되었다.\"",
+    Kor:"라반의 아들들이 하는 말이 야곱에게 들렸다. \"야곱은 우리 아버지의 재산을 다 빼앗고, 우리 아버지의 재산으로 저처럼 큰 부자가 되었다.\"",
     Chn:"雅各听见拉班的儿子们有话说：「雅各把我们父亲所有的都夺了去，并借着我们父亲的，得了这一切的荣耀。」",
     Eng:"Jacob heard that Laban's sons were saying, \"Jacob has taken everything our father owned and  has gained all this wealth from what belonged to our father.\"",
     Ind:"Kedengaranlah kepada Yakub anak-anak Laban berkata demikian: \"Yakub telah mengambil segala harta milik ayah kita dan dari harta itulah ia membangun segala kekayaannya.\""
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Lagi kelihatan kepada Yakub dari muka Laban, bahwa Laban tidak lagi seperti yang sudah-sudah kepadanya."
   },
   {Bible:"Genesis", Chapter:31, Verse:3, Page:1,
-    Kor:"주님께서 야곱에게 말씀하셨다. \"너는 네 조상의 땅, 너의 친족에게로 돌아가거라. 내가 너와 함께 있겠다.\"",
+    Kor:"주께서 야곱에게 말씀하셨다. \"너는 너의 조상의 땅, 너의 친족에게로 돌아가거라. 내가 너와 함께 있겠다.\"",
     Chn:"耶和华对雅各说：「你要回你祖、你父之地，到你亲族那里去，我必与你同在。」",
     Eng:"Then the LORD said to Jacob, \"Go back to the land of your fathers and to your relatives, and  I will be with you.\"",
     Ind:"Lalu berfirmanlah TUHAN kepada Yakub: \"Pulanglah ke negeri nenek moyangmu dan kepada kaummu, dan Aku akan menyertai engkau.\""
@@ -27,31 +27,31 @@ BibleDB.add([
     Ind:"Sesudah itu Yakub menyuruh memanggil Rahel dan Lea untuk datang ke padang, ke tempat kambing dombanya,"
   },
   {Bible:"Genesis", Chapter:31, Verse:5, Page:1,
-    Kor:"일렀다. \"장인 어른께서 나를 대하시는 것이 전과 같지 않소. 그러나 내 조상의 하나님이 이제껏 나와 함께 계셨소.",
+    Kor:"일렀다. \"장인께서 나를 대하시는 것이 전과 같지 않소. 그러나 나의 조상의 하나님이 이제껏 나와 함께 계셨소.",
     Chn:"对她们说：「我看你们父亲的气色向我不如从前了；但我父亲的　神向来与我同在。",
     Eng:"He said to them, \"I see that your father's attitude toward me is not what it was before, but  the God of my father has been with me.",
     Ind:"lalu ia berkata kepada mereka: \"Telah kulihat dari muka ayahmu, bahwa ia tidak lagi seperti yang sudah-sudah kepadaku, tetapi Allah ayahku menyertai aku."
   },
   {Bible:"Genesis", Chapter:31, Verse:6, Page:1,
-    Kor:"당신들도 알다시피, 나는 있는 힘을 다해서, 장인 어른의 일을 해 드렸소.",
+    Kor:"당신들도 알다시피, 나는 있는 힘을 다해서, 장인의 일을 해 드렸소.",
     Chn:"你们也知道，我尽了我的力量服事你们的父亲。",
     Eng:"You know that I've worked for your father with all my strength,",
     Ind:"Juga kamu sendiri tahu, bahwa aku telah bekerja sekuat-kuatku pada ayahmu."
   },
   {Bible:"Genesis", Chapter:31, Verse:7, Page:1,
-    Kor:"그러나 장인 어른께서는 나에게 주실 품삯을 열 번이나 바꿔치시면서, 지금까지 나를 속이셨소. 그런데 하나님은, 장인 어른이 나를 해치지는 못하게 하셨소.",
+    Kor:"그러나 장인께서는 나에게 주실 품삯을 열 번이나 바꿔치시면서, 지금까지 나를 속이셨소. 그런데 하나님은, 장인 어른이 나를 해치지는 못하게 하셨소.",
     Chn:"你们的父亲欺哄我，十次改了我的工价；然而　神不容他害我。",
     Eng:"yet your father has cheated me by changing my wages ten times. However, God has not allowed  him to harm me.",
     Ind:"Tetapi ayahmu telah berlaku curang kepadaku dan telah sepuluh kali mengubah upahku, tetapi Allah tidak membiarkan dia berbuat jahat kepadaku."
   },
   {Bible:"Genesis", Chapter:31, Verse:8, Page:1,
-    Kor:"장인 어른께서 나더러 '점 있는 것들이 자네 품삯이 될 걸세' 하면, 가축 떼가 모두 점 있는 새끼를 낳았고, '줄무늬 있는 것이 자네의 품삯이 될 걸세' 하면, 가축 떼가 모두 줄무늬 있는 새끼를 낳았소.",
+    Kor:"장인께서 나더러 '점 있는 것들이 자네 품삯이 될 걸세' 하면, 가축 떼가 모두 점 있는 새끼를 낳고 '줄무늬 있는 것이 자네의 품삯이 될 걸세' 하면, 가축 떼가 모두 줄무늬 있는 새끼를 낳았소.",
     Chn:"他若说：『有点的归你作工价』，羊群所生的都有点；他若说：『有纹的归你作工价』，羊群所生的都有纹。",
     Eng:"If he said, 'The speckled ones will be your wages,' then all the flocks gave birth to  speckled young; and if he said, 'The streaked ones will be your wages,' then all the flocks bore  streaked young.",
     Ind:"Apabila ia berkata: yang berbintik-bintiklah akan menjadi upahmu, maka segala kambing domba itu beroleh anak yang berbintik-bintik; dan apabila ia berkata: yang bercoreng-corenglah akan menjadi upahmu, maka segala kambing domba itu beroleh anak yang bercoreng-coreng."
   },
   {Bible:"Genesis", Chapter:31, Verse:9, Page:1,
-    Kor:"하나님은 이렇게 장인 어른의 가축 떼를 빼앗아서, 나에게 주셨소.",
+    Kor:"하나님은 이렇게 장인의 가축 떼를 빼앗아서, 나에게 주셨소.",
     Chn:"这样，　神把你们父亲的牲畜夺来赐给我了。",
     Eng:"So God has taken away your father's livestock and has given them to me.",
     Ind:"Demikianlah Allah mengambil ternak ayahmu dan memberikannya kepadaku."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Dan Malaikat Allah berfirman kepadaku dalam mimpi itu: Yakub! Jawabku: Ya Tuhan!"
   },
   {Bible:"Genesis", Chapter:31, Verse:12, Page:1,
-    Kor:"그 천사의 말이, '암염소와 교미하는 숫염소가 모두 줄무늬 있는 것들이거나 점이 있는 것들이거나 얼룩진 것들이니, 고개를 들고 똑바로 보아라. 라반이 이제까지 너에게 어떻게 하였는지, 내가 다 보았다.",
+    Kor:"그 천사의 말이 '가축 떼와 교미하는 숫염소가, 모두, 줄무늬 있는 것들이거나, 점이 있는 것이거나, 얼룩진 것들이니, 고개를 들고 똑바로 보아라. 라반이 이제까지 너에게 어떻게 하였는지, 내가 다 보았다.",
     Chn:"他说：『你举目观看，跳母羊的公羊都是有纹的、有点的、有花斑的；凡拉班向你所做的，我都看见了。",
     Eng:"And he said, 'Look up and see that all the male goats mating with the flock are streaked,  speckled or spotted, for I have seen all that Laban has been doing to you.",
     Ind:"Lalu Ia berfirman: Angkatlah mukamu dan lihatlah, bahwa segala jantan yang menjantani kambing domba itu bercoreng-coreng, berbintik-bintik dan berbelang-belang, sebab telah Kulihat semua yang dilakukan oleh Laban itu kepadamu."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Tetapi segala kekayaan, yang telah diambil Allah dari ayah kami, adalah milik kami dan anak-anak kami; maka sekarang, perbuatlah segala yang difirmankan Allah kepadamu.\""
   },
   {Bible:"Genesis", Chapter:31, Verse:17, Page:1,
-    Kor:"○야곱이 서둘러서 자식들과 아내들을 낙타에 나누어 태우고,",
+    Kor:"○야곱이 서둘러서, 자식들과 아내들을 낙타에 나누어 태우고,",
     Chn:"雅各起来，使他的儿子和妻子都骑上骆驼，",
     Eng:"Then Jacob put his children and his wives on camels,",
     Ind:"Lalu bersiaplah Yakub, dinaikkannya anak-anaknya dan isteri-isterinya ke atas unta,"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Dan Yakub mengakali Laban, orang Aram itu, dengan tidak memberitahukan kepadanya, bahwa ia mau lari."
   },
   {Bible:"Genesis", Chapter:31, Verse:21, Page:1,
-    Kor:"모든 재산을 거두어 가지고 도망하였다. 그는 a강을 건너서, 길르앗 산간지방 쪽으로 갔다.(a 유프라테스 강)",
+    Kor:"모든 재산을 거두어 가지고 도망하였다. 그는 강을 건너서, 길르앗 산간지방 쪽으로 갔다.",
     Chn:"就带着所有的逃跑。他起身过大河，面向基列山行去。",
     Eng:"So he fled with all he had, and crossing the River, he headed for the hill country of  Gilead.",
     Ind:"Demikianlah ia lari dengan segala harta miliknya. Ia berangkat, menyeberangi sungai Efrat dan berjalan menuju pegunungan Gilead."
   },
   {Bible:"Genesis", Chapter:31, Verse:22, Page:1,
-    Kor:"<라반이 야곱을 따라잡다> ○라반은, 야곱이 도망한 지 사흘 만에야 그 소식을 전해 들었다.",
+    Kor:"○라반은, 야곱이 도망한 지 사흘 만에야 그 소식을 전해 들었다.",
     Chn:"到第三日，有人告诉拉班，雅各逃跑了。",
     Eng:"On the third day Laban was told that Jacob had fled.",
     Ind:"Ketika pada hari ketiga dikabarkan kepada Laban, bahwa Yakub telah lari,"
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Maka sekarang, kalau memang engkau harus pergi, semata-mata karena sangat rindu ke rumah ayahmu, mengapa engkau mencuri dewa-dewaku?\""
   },
   {Bible:"Genesis", Chapter:31, Verse:31, Page:1,
-    Kor:"야곱이 라반에게 대답하였다. \"장인 어른께서 저의 처들을 강제로 빼앗으실까 보아 두려웠습니다.",
+    Kor:"야곱이 라반에게 대답하였다. \"장인께서 저의 처들을 강제로 빼앗으실까 보아 두려웠습니다.",
     Chn:"雅各回答拉班说：「恐怕你把你的女儿从我夺去，所以我逃跑。",
     Eng:"Jacob answered Laban, \"I was afraid, because I thought you would take your daughters away  from me by force.",
     Ind:"Lalu Yakub menjawab Laban: \"Aku takut, karena pikirku, jangan-jangan engkau merampas anak-anakmu itu dari padaku."
   },
   {Bible:"Genesis", Chapter:31, Verse:32, Page:1,
-    Kor:"그러나 장인 어른 댁 수호신상들을 훔친 사람이 있으면, 그를 죽이셔도 좋습니다. 장인 어른의 물건 가운데서 무엇이든 하나라도 저에게 있는지, 우리의 친족들이 보는 앞에서 찾아보시고, 있거든 가져 가십시오.\" 야곱은, 라헬이 b그 수호신상들을 훔쳤으리라고는, 전혀 생각하지 못하였다.(b 히, 01 31:'그것들을')",
+    Kor:"그러나 장인 댁 수호신상들을 훔친 사람이 있으면, 그를 죽이셔도 좋습니다. 장인의 물건 가운데서, 무엇이든 하나라도 저에게 있는지, 우리의 친족들이 보는 앞에서 찾아보시고, 있거든 가져 가십시오.\" 야곱은, 라헬이 그 수호신상들을 훔쳤으리라고는, 전혀 생각하지 못하였다.",
     Chn:"至于你的神像，你在谁那里搜出来，就不容谁存活。当着我们的众弟兄，你认一认，在我这里有什么东西是你的，就拿去。」原来雅各不知道拉结偷了那些神像。",
     Eng:"But if you find anyone who has your gods, he shall not live. In the presence of our  relatives, see for yourself whether there is anything of yours here with me; and if so, take it.\"  Now Jacob did not know that Rachel had stolen the gods.",
     Ind:"Tetapi pada siapa engkau menemui dewa-dewamu itu, janganlah ia hidup lagi. Periksalah di depan saudara-saudara kita segala barang yang ada padaku dan ambillah barangmu.\" Sebab Yakub tidak tahu, bahwa Rahel yang mencuri terafim itu."
@@ -213,13 +213,13 @@ BibleDB.add([
     Ind:"Lalu kata Rahel kepada ayahnya: \"Janganlah bapa marah, karena aku tidak dapat bangun berdiri di depanmu, sebab aku sedang haid.\" Dan Laban mencari dengan teliti, tetapi ia tidak menemui terafim itu."
   },
   {Bible:"Genesis", Chapter:31, Verse:36, Page:1,
-    Kor:"○야곱은 화를 내며 라반에게 따졌다. 야곱이 라반에게 물었다. \"저의 허물이 무엇입니까? 제가 무슨 죄를 지었다고, 불길처럼 달려들어서, 저를 따라오신 것입니까?",
+    Kor:"○야곱은 화를 내며, 라반에게 따졌다. 야곱이 라반에게 물었다. \"나의 허물이 무엇입니까? 제가 무슨 죄를 지었다고, 불길처럼 달려들어서, 저를 따라오신 것입니까?",
     Chn:"雅各就发怒斥责拉班说：「我有什么过犯，有什么罪恶，你竟这样火速地追我？",
     Eng:"Jacob was angry and took Laban to task. \"What is my crime?\" he asked Laban. \"What sin have  I committed that you hunt me down?",
     Ind:"Lalu hati Yakub panas dan ia bertengkar dengan Laban. Ia berkata kepada Laban: \"Apakah kesalahanku, apakah dosaku, maka engkau memburu aku sehebat itu?"
   },
   {Bible:"Genesis", Chapter:31, Verse:37, Page:1,
-    Kor:"장인 어른께서 저의 물건을 다 뒤져 보셨는데, 장인 어른의 물건을 하나라도 찾으셨습니까? 장인 어른의 친족과 저의 친족이 보는 앞에서, 그것을 내놓아 보십시오. 그리고 장인 어른과 저 사이에 누구에게 잘못이 있는지, 이 사람들이 판단할 수 있게 해주십시오.",
+    Kor:"장인께서 저의 물건을 다 뒤져 보셨는데, 장인의 물건을 하나라도 찾으셨습니까? 장인의 친족과 저의 친족이 보는 앞에서, 그것을 내놓아 보십시오. 그리고 장인 어른과 저 사이에 누구에게 잘못이 있는지, 이 사람들이 판단할 수 있게 해주십시오.",
     Chn:"你摸遍了我一切的家具，你搜出什么来呢？可以放在你我弟兄面前，叫他们在你我中间辨别辨别。",
     Eng:"Now that you have searched through all my goods, what have you found that belongs to your  household? Put it here in front of your relatives and mine, and let them judge between the two of  us.",
     Ind:"Engkau telah menggeledah segala barangku, sekarang apakah yang kautemui dari segala barang rumahmu? Letakkanlah di sini di depan saudara-saudaraku dan saudara-saudaramu, supaya mereka mengadili antara kita berdua."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Selama dua puluh tahun ini aku bersama-sama dengan engkau; domba dan kambing betinamu tidak pernah keguguran dan jantan dari kambing dombamu tidak pernah kumakan."
   },
   {Bible:"Genesis", Chapter:31, Verse:39, Page:1,
-    Kor:"들짐승에게 찢긴 놈은, 제가 장인 어른께 가져가지 않고, 제것으로 그것을 보충하여 드렸습니다. 낮에 도적을 맞든지 밤에 도적을 맞든지 하면, 장인 어른께서는 저더러 그것을 물어내라고 하셨습니다.",
+    Kor:"들짐승에게 찢긴 놈은, 제가 장인께 가져가지 않고, 제것으로 그것을 보충하여 드렸습니다. 낮에 도적을 맞든지 밤에 도적을 맞든지 하면, 장인께서는 저더러 그것을 물어내라고 하셨습니다.",
     Chn:"被野兽撕裂的，我没有带来给你，是我自己赔上。无论是白日，是黑夜，被偷去的，你都向我索要。",
     Eng:"I did not bring you animals torn by wild beasts; I bore the loss myself. And you demanded  payment from me for whatever was stolen by day or night.",
     Ind:"Yang diterkam oleh binatang buas tidak pernah kubawa kepadamu, aku sendiri yang menggantinya; yang dicuri orang, baik waktu siang, baik waktu malam, selalu engkau tuntut dari padaku."
@@ -243,19 +243,19 @@ BibleDB.add([
     Ind:"Aku dimakan panas hari waktu siang dan kedinginan waktu malam, dan mataku jauh dari pada tertidur."
   },
   {Bible:"Genesis", Chapter:31, Verse:41, Page:1,
-    Kor:"저는 장인 어른의 집에서 스무 해를 한결같이 이렇게 살았습니다. 두 따님을 저의 처로 삼느라고, 십 년 하고도 사 년을 장인 어른의 일을 해 드렸고, 지난 여섯 해 동안은 장인 어른의 양 떼를 돌보았습니다. 그러나 장인 어른께서는 저에게 주셔야 할 품삯을 열 번이나 바꿔치셨습니다.",
+    Kor:"저는 장인 어른의 집에서 스무 해를 한결같이 이렇게 살았습니다. 두 따님을 저의 처로 삼느라고, 십 년 하고도 사 년을 장인 어른의 일을 해 드렸고, 지난 여섯 해 동안은 장인 어른의 양 떼를 돌보았습니다. 그러나 장인께서는 저에게 주셔야 할 품삯을 열 번이나 바꿔치셨습니다.",
     Chn:"我这二十年在你家里，为你的两个女儿服事你十四年，为你的羊群服事你六年，你又十次改了我的工价。",
     Eng:"It was like this for the twenty years I was in your household. I worked for you fourteen  years for your two daughters and six years for your flocks, and you changed my wages ten times.",
     Ind:"Selama dua puluh tahun ini aku di rumahmu; aku telah bekerja padamu empat belas tahun lamanya untuk mendapat kedua anakmu dan enam tahun untuk mendapat ternakmu, dan engkau telah sepuluh kali mengubah upahku."
   },
   {Bible:"Genesis", Chapter:31, Verse:42, Page:1,
-    Kor:"내 조상의 하나님, 곧 아브라함을 보살펴 주신 하나님이시며, 이삭을 지켜 주신 '두려운 분'께서 저와 함께 계시지 않으셨으면, 장인 어른께서는 저를 틀림없이 빈 손으로 돌려보내셨을 것입니다. 그러나 하나님은, 제가 겪은 고난과 제가 한 수고를 몸소 살피시고, 어젯밤에 장인 어른을 꾸짖으셨습니다.\"",
+    Kor:"나의 조상의 하나님, 곧 아브라함을 보살펴 주신 하나님이시며, 이삭을 지켜 주신 '두려운 분'께서 저와 함께 계시지 않으셨으면, 장인께서는 저를 틀림없이 빈 손으로 돌려보내셨을 것입니다. 그러나 하나님은, 제가 겪은 고난과 제가 한 수고를 몸소 살피시고, 어젯밤에 장인 어른을 꾸짖으셨습니다.\"",
     Chn:"若不是我父亲以撒所敬畏的　神，就是亚伯拉罕的　神与我同在，你如今必定打发我空手而去。　神看见我的苦情和我的劳碌，就在昨夜责备你。」",
     Eng:"If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me,  you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my  hands, and last night he rebuked you.\"",
     Ind:"Seandainya Allah ayahku, Allah Abraham dan Yang Disegani oleh Ishak tidak menyertai aku, tentulah engkau sekarang membiarkan aku pergi dengan tangan hampa; tetapi kesengsaraanku dan jerih payahku telah diperhatikan Allah dan Ia telah menjatuhkan putusan tadi malam.\""
   },
   {Bible:"Genesis", Chapter:31, Verse:43, Page:1,
-    Kor:"<야곱과 라반의 협정> ○라반이 야곱에게 대답하였다. \"이 여자들은 나의 딸이요, 이 아이들은 다 나의 손자 손녀요, 이 가축 떼도 다 내 것일세. 자네의 눈 앞에 있는 것이 모두 내 것이 아닌가? 그러나 여기 있는 나의 딸들과 그들이 낳은 나의 손자 손녀를, 이제 내가 어떻게 하겠는가?",
+    Kor:"○라반이 야곱에게 대답하였다. \"이 여자들은 나의 딸이요, 이 아이들은 다 나의 손자 손녀요, 이 가축 떼도 다 내 것일세. 자네의 눈 앞에 있는 것이 모두 내 것이 아닌가? 그러나 여기 있는 나의 딸들과 그들이 낳은 나의 손자 손녀를, 이제 내가 어떻게 하겠는가?",
     Chn:"拉班回答雅各说：「这女儿是我的女儿，这些孩子是我的孩子，这些羊群也是我的羊群；凡在你眼前的都是我的。我的女儿并她们所生的孩子，我今日能向他们做什么呢？",
     Eng:"Laban answered Jacob, \"The women are my daughters, the children are my children, and the  flocks are my flocks. All you see is mine. Yet what can I do today about these daughters of mine,  or about the children they have borne?",
     Ind:"Lalu Laban menjawab Yakub: \"Perempuan-perempuan ini anakku dan anak-anak lelaki ini cucuku dan ternak ini ternakku, bahkan segala yang kaulihat di sini adalah milikku; jadi apakah yang dapat kuperbuat sekarang kepada anak-anakku ini atau kepada anak-anak yang dilahirkan mereka?"
@@ -279,25 +279,25 @@ BibleDB.add([
     Ind:"Selanjutnya berkatalah Yakub kepada sanak saudaranya: \"Kumpulkanlah batu.\" Maka mereka mengambil batu dan membuat timbunan, lalu makanlah mereka di sana di dekat timbunan itu."
   },
   {Bible:"Genesis", Chapter:31, Verse:47, Page:1,
-    Kor:"라반은 그 돌무더기를 c여갈사하두다라고 하고, 야곱은 그것을 갈르엣이라 하였다.",
+    Kor:"라반은 그 돌무더기를 여갈사하두다라고 하고, 야곱은 그것을 갈르엣이라 하였다.",
     Chn:"拉班称那石堆为伊迦尔·撒哈杜他，雅各却称那石堆为迦累得。",
     Eng:"Laban called it Jegar Sahadutha, and Jacob called it Galeed.",
     Ind:"Laban menamai timbunan batu itu Yegar-Sahaduta, tetapi Yakub menamainya Galed."
   },
   {Bible:"Genesis", Chapter:31, Verse:48, Page:1,
-    Kor:"라반이 말하였다. \"이 돌무더기가 오늘 자네와 나 사이에 맺은 언약의 증거일세.\" c갈르엣이란 이름은 바로 여기에서 유래한 것이다.(c '증거의 무더기'를 아람어로는 여갈사하두다라고 하고, 히브리어로는 갈르엣이라 함)",
+    Kor:"라반이 말하였다. \"이 돌무더기가 오늘 자네와 나 사이에 맺은 언약의 증거일세.\" 갈르엣이란 이름은 바로 여기에서 유래한 것이다.",
     Chn:"拉班说：「今日这石堆作你我中间的证据。」因此这地方名叫迦累得，",
     Eng:"Laban said, \"This heap is a witness between you and me today.\" That is why it was called  Galeed.",
     Ind:"Lalu kata Laban: \"Timbunan batu inilah pada hari ini menjadi kesaksian antara aku dan engkau.\" Itulah sebabnya timbunan itu dinamainya Galed,"
   },
   {Bible:"Genesis", Chapter:31, Verse:49, Page:1,
-    Kor:"이 돌무더기를 달리 d미스바라고도 하는데, 그것은 라반이 \"우리가 서로 떨어져 있는 동안에, 주님께서 자네와 나를 감시하시기 바라네\" 하고 말하였기 때문이다.(d '망루')",
+    Kor:"이 돌무더기를 달리 미스바라고도 하는데, 그것은 라반이 \"우리가 서로 떨어져 있는 동안에, 주께서 자네와 나를 감시하시기 바라네\" 하고 말하였기 때문이다.",
     Chn:"又叫米斯巴，意思说：「我们彼此离别以后，愿耶和华在你我中间鉴察。",
     Eng:"It was also called Mizpah, because he said, \"May the LORD keep watch between you and me  when we are away from each other.",
     Ind:"dan juga Mizpa, sebab katanya: \"TUHAN kiranya berjaga-jaga antara aku dan engkau, apabila kita berjauhan."
   },
   {Bible:"Genesis", Chapter:31, Verse:50, Page:1,
-    Kor:"\"자네가 나의 딸들을 박대하거나, 나의 딸들을 두고서 달리 아내들을 얻으면, 자네와 나 사이에는 아무도 없다고 하더라도, 하나님이 자네와 나 사이에 증인으로 계시다는 것을 명심하게.\"",
+    Kor:"\"자네가 나의 딸들을 박대하거나, 나의 딸들을 두고서, 달리 아내들을 얻으면, 자네와 나 사이에는 아무도 없다고 하더라도, 하나님이 자네와 나 사이에 증인으로 계시다는 것을 명심하게.\"",
     Chn:"你若苦待我的女儿，又在我的女儿以外另娶妻，虽没有人知道，却有　神在你我中间作见证。」",
     Eng:"If you mistreat my daughters or if you take any wives besides my daughters, even though no  one is with us, remember that God is a witness between you and me.\"",
     Ind:"Jika engkau mengaibkan anak-anakku, dan jika engkau mengambil isteri lain di samping anak-anakku itu, ingatlah, walaupun tidak ada orang dekat kita, Allah juga yang menjadi saksi antara aku dan engkau.\""

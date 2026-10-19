@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",17,27);
 BibleDB.add([
   {Bible:"Genesis", Chapter:17, Verse:1, Page:1,
-    Kor:"<할례:언약의 표> 아브람의 나이 아흔아홉이 되었을 때에, 주님께서 그에게 나타나셔서 말씀하셨다. \"나는 전능한 하나님이다. 나에게 순종하며, 흠 없이 살아라.",
+    Kor:"아브람의 나이 아흔아홉이 되었을 때에, 주께서 그에게 나타나셔서 말씀하셨다. \"나는 전능한 하나님이다. 나에게 순종하며, 흠 없이 살아라.",
     Chn:"亚伯兰年九十九岁的时候，耶和华向他显现，对他说：「我是全能的　神。你当在我面前作完全人，",
     Eng:"When Abram was ninety-nine years old, the LORD appeared to him and said, \"I am God Almighty;  walk before me and be blameless.",
     Ind:"Ketika Abram berumur sembilan puluh sembilan tahun, maka TUHAN menampakkan diri kepada Abram dan berfirman kepadanya: \"Akulah Allah Yang Mahakuasa, hiduplah di hadapan-Ku dengan tidak bercela."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"\"Dari pihak-Ku, inilah perjanjian-Ku dengan engkau: Engkau akan menjadi bapa sejumlah besar bangsa."
   },
   {Bible:"Genesis", Chapter:17, Verse:5, Page:1,
-    Kor:"내가 너를 여러 민족의 아버지로 만들었으니, 이제부터는 너의 이름이 a아브람이 아니라 b아브라함이다.(a '존귀한 아버지' b '많은 사람의 아버지')",
+    Kor:"내가 너를 여러 민족의 아버지로 만들었으니, 이제부터는 너의 이름이, 아브람이 아니라, 아브라함이다.",
     Chn:"从此以后，你的名不再叫亚伯兰，要叫亚伯拉罕，因为我已立你作多国的父。",
     Eng:"No longer will you be called Abram; your name will be Abraham, for I have made you a father  of many nations.",
     Ind:"Karena itu namamu bukan lagi Abram, melainkan Abraham, karena engkau telah Kutetapkan menjadi bapa sejumlah besar bangsa."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Kepadamu dan kepada keturunanmu akan Kuberikan negeri ini yang kaudiami sebagai orang asing, yakni seluruh tanah Kanaan akan Kuberikan menjadi milikmu untuk selama-lamanya; dan Aku akan menjadi Allah mereka.\""
   },
   {Bible:"Genesis", Chapter:17, Verse:9, Page:1,
-    Kor:"○하나님이 또 아브라함에게 말씀하셨다. \"너는 나와 세운 언약을 잘 지켜야 하고, 네 뒤에 오는 너의 자손도 대대로 이 언약을 잘 지켜야 한다.",
+    Kor:"○하나님이 또 아브라함에게 말씀하셨다. \"너는 나와 세운 언약을 잘 지켜야 하고, 네 뒤에 오는 네 자손도 대대로 이 언약을 잘 지켜야 한다.",
     Chn:"神又对亚伯拉罕说：「你和你的后裔必世世代代遵守我的约。",
     Eng:"Then God said to Abraham, \"As for you, you must keep my covenant, you and your descendants  after you for the generations to come.",
     Ind:"Lagi firman Allah kepada Abraham: \"Dari pihakmu, engkau harus memegang perjanjian-Ku, engkau dan keturunanmu turun-temurun."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Inilah perjanjian-Ku, yang harus kamu pegang, perjanjian antara Aku dan kamu serta keturunanmu, yaitu setiap laki-laki di antara kamu harus disunat;"
   },
   {Bible:"Genesis", Chapter:17, Verse:11, Page:1,
-    Kor:"너희는 포피를 베어서, 할례를 받게 하여라. 이것이 나와 너희 사이에 세우는 언약의 표이다.",
+    Kor:"너희는 양피를 베어서, 할례를 받게 하여라. 이것이 나와 너희 사이에 세우는 언약의 표이다.",
     Chn:"你们都要受割礼；这是我与你们立约的证据。",
     Eng:"You are to undergo circumcision, and it will be the sign of the covenant between me and  you.",
     Ind:"haruslah dikerat kulit khatanmu dan itulah akan menjadi tanda perjanjian antara Aku dan kamu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Orang yang lahir di rumahmu dan orang yang engkau beli dengan uang harus disunat; maka dalam dagingmulah perjanjian-Ku itu menjadi perjanjian yang kekal."
   },
   {Bible:"Genesis", Chapter:17, Verse:14, Page:1,
-    Kor:"할례를 받지 않은 남자 곧 포피를 베지 않은 남자는 나의 언약을 깨뜨린 자이니, 그는 나의 백성에게서 끊어진다.\"",
+    Kor:"할례를 받지 않은 남자, 곧 양피를 베지 않은 남자는 나의 언약을 깨뜨린 자이니, 그는 나의 백성에게서 끊어진다.\"",
     Chn:"但不受割礼的男子必从民中剪除，因他背了我的约。」",
     Eng:"Any uncircumcised male, who has not been circumcised in the flesh, will be cut off from his  people; he has broken my covenant.\"",
     Ind:"Dan orang yang tidak disunat, yakni laki-laki yang tidak dikerat kulit khatannya, maka orang itu harus dilenyapkan dari antara orang-orang sebangsanya: ia telah mengingkari perjanjian-Ku.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Dan Abraham berkata kepada Allah: \"Ah, sekiranya Ismael diperkenankan hidup di hadapan-Mu!\""
   },
   {Bible:"Genesis", Chapter:17, Verse:19, Page:1,
-    Kor:"하나님이 말씀하셨다. \"아니다. 너의 아내 사라가 너에게 아들을 낳아 줄 것이다. 아이를 낳거든, 이름을 c이삭이라고 하여라. 내가 그와 언약을 세울 것이니, 그 언약은, 그의 뒤에 오는 자손에게도, 영원한 언약이 될 것이다.(c '그가 웃다')",
+    Kor:"하나님이 말씀하셨다. \"아니다. 너의 아내 사라가 너에게 아들을 낳아 줄 것이다. 아이를 낳거든, 이름을 이삭이라고 하여라. 내가 그와 언약을 세울 것이니, 그 언약은, 그의 뒤에 오는 자손에게도, 영원한 언약이 될 것이다.",
     Chn:"神说：「不然，你妻子撒拉要给你生一个儿子，你要给他起名叫以撒。我要与他坚定所立的约，作他后裔永远的约。",
     Eng:"Then God said, \"Yes, but your wife Sarah will bear you a son, and you will call him Isaac.  I will establish my covenant with him as an everlasting covenant for his descendants after him.",
     Ind:"Tetapi Allah berfirman: \"Tidak, melainkan isterimu Saralah yang akan melahirkan anak laki-laki bagimu, dan engkau akan menamai dia Ishak, dan Aku akan mengadakan perjanjian-Ku dengan dia menjadi perjanjian yang kekal untuk keturunannya."
@@ -135,25 +135,25 @@ BibleDB.add([
     Ind:"Setelah selesai berfirman kepada Abraham, naiklah Allah meninggalkan Abraham."
   },
   {Bible:"Genesis", Chapter:17, Verse:23, Page:1,
-    Kor:"○바로 그 날에 아브라함은, 자기 아들 이스마엘과, 집에서 태어난 모든 종과, 돈을 주고 사온 모든 종 곧 자기 집안의 모든 남자와 함께, 하나님이 말씀하신 대로, 포피를 베어서 할례를 받았다.",
+    Kor:"○바로 그 날에 아브라함은, 자기 아들 이스마엘과, 집에서 태어난 모든 종과, 돈을 주고 사온 모든 종, 곧 자기 집안의 모든 남자와 함께, 하나님이 말씀하신 대로, 양피를 베어서 할례를 받았다.",
     Chn:"正当那日，亚伯拉罕遵着　神的命，给他的儿子以实玛利和家里的一切男子，无论是在家里生的，是用银子买的，都行了割礼。",
     Eng:"On that very day Abraham took his son Ishmael and all those born in his household or bought  with his money, every male in his household, and circumcised them, as God told him.",
     Ind:"Setelah itu Abraham memanggil Ismael, anaknya, dan semua orang yang lahir di rumahnya, juga semua orang yang dibelinya dengan uang, yakni setiap laki-laki dari isi rumahnya, lalu ia mengerat kulit khatan mereka pada hari itu juga, seperti yang telah difirmankan Allah kepadanya."
   },
   {Bible:"Genesis", Chapter:17, Verse:24, Page:1,
-    Kor:"아브라함이 포피를 베어서 할례를 받은 것은, 그의 나이 아흔아홉 살 때이고,",
+    Kor:"아브라함이 양피를 베어서 할례를 받은 것은, 그의 나이 아흔아홉 살 때이고,",
     Chn:"亚伯拉罕受割礼的时候年九十九岁。",
     Eng:"Abraham was ninety-nine years old when he was circumcised,",
     Ind:"Abraham berumur sembilan puluh sembilan tahun ketika dikerat kulit khatannya."
   },
   {Bible:"Genesis", Chapter:17, Verse:25, Page:1,
-    Kor:"그의 아들 이스마엘이 포피를 베어서 할례를 받은 것은, 이스마엘의 나이 열세 살 때이다.",
+    Kor:"그의 아들 이스마엘이 양피를 베어서 할례를 받은 것은, 이스마엘의 나이 열세 살 때이다.",
     Chn:"他儿子以实玛利受割礼的时候年十三岁。",
     Eng:"and his son Ishmael was thirteen;",
     Ind:"Dan Ismael, anaknya, berumur tiga belas tahun ketika dikerat kulit khatannya."
   },
   {Bible:"Genesis", Chapter:17, Verse:26, Page:1,
-    Kor:"아브라함과 그의 아들 이스마엘은 같은 날에 할례를 받았다.",
+    Kor:"아브라함과 그의 아들 이스마엘은 같은 날, 할례를 받았다.",
     Chn:"正当那日，亚伯拉罕和他儿子以实玛利一同受了割礼。",
     Eng:"Abraham and his son Ishmael were both circumcised on that same day.",
     Ind:"Pada hari itu juga Abraham dan Ismael, anaknya, disunat."

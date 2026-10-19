@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",46,11);
 BibleDB.add([
   {Bible:"Psalms", Chapter:46, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 a알라못에 맞추어 부르는 노래, 고라 자손의 시> 하나님은 우리의 피난처이시며, 우리의 힘이시며, 어려운 고비마다 우리 곁에 계시는 구원자이시니, (a 음악 용어)",
+    Kor:"하나님은 우리의 피난처이시며, 우리의 힘이시며, 재난이 있을 때에는 우리 곁에 계시는 구원자이시니,",
     Chn:"可拉后裔的诗歌，交与伶长。调用女音。 　神是我们的避难所，是我们的力量， 是我们在患难中随时的帮助。",
     Eng:"God is our refuge and strength, an ever-present help in trouble.",
     Ind:"Untuk pemimpin biduan. Dari bani Korah. Dengan lagu: Alamot. Nyanyian. (46-2) Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"(46-4) sekalipun ribut dan berbuih airnya, sekalipun gunung-gunung goyang oleh geloranya. Sela"
   },
   {Bible:"Psalms", Chapter:46, Verse:4, Page:1,
-    Kor:"오, 강이여! 그대의 줄기들이 하나님의 성을 즐겁게 하며, 가장 높으신 분의 거룩한 처소를 즐겁게 하는구나.",
+    Kor:"강 하나가, 그 강의 줄기들이, 하나님의 성을 즐겁게 하며, 가장 높으신 분의 거룩한 처소를 즐겁게 하는구나.",
     Chn:"有一道河，这河的分汊使　神的城欢喜； 这城就是至高者居住的圣所。",
     Eng:"There is a river whose streams make glad the city of God, the holy place where the Most High dwells.",
     Ind:"(46-5) Kota Allah, kediaman Yang Mahatinggi, disukakan oleh aliran-aliran sebuah sungai."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"(46-8) TUHAN semesta alam menyertai kita, kota benteng kita ialah Allah Yakub. Sela"
   },
   {Bible:"Psalms", Chapter:46, Verse:8, Page:1,
-    Kor:"땅을 황무지로 만드신 주님의 놀라운 능력을 와서 보아라.",
+    Kor:"땅을 황무지로 만드신 주의 업적을 와서 보아라.",
     Chn:"你们来看耶和华的作为， 看他使地怎样荒凉。",
     Eng:"Come and see the works of the LORD, the desolations he has brought on the earth.",
     Ind:"(46-9) Pergilah, pandanglah pekerjaan TUHAN, yang mengadakan pemusnahan di bumi,"
   },
   {Bible:"Psalms", Chapter:46, Verse:9, Page:1,
-    Kor:"땅 끝까지 전쟁을 그치게 하시고, 활을 부러뜨리고 창을 꺾고 b방패를 불사르신다. (b 또는 '병거를')",
+    Kor:"땅 끝까지 전쟁을 그치게 하시고, 창을 꺾고 활을 부러뜨리고 방패를 불사르신다.",
     Chn:"他止息刀兵，直到地极； 他折弓、断枪，把战车焚烧在火中。",
     Eng:"He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear, he burns the shields with fire.",
     Ind:"(46-10) yang menghentikan peperangan sampai ke ujung bumi, yang mematahkan busur panah, menumpulkan tombak, membakar kereta-kereta perang dengan api!"

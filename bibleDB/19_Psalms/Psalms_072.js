@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",72,20);
 BibleDB.add([
   {Bible:"Psalms", Chapter:72, Verse:1, Page:1,
-    Kor:"<솔로몬의 시> 하나님, 왕에게 주님의 판단력을 주시고 왕의 아들에게 주님의 의를 내려 주셔서,",
+    Kor:"하나님, 왕에게 주의 판단력을 주시고 왕의 아들에게 주의 의를 내려 주셔서,",
     Chn:"所罗门的诗。 　神啊，求你将判断的权柄赐给王， 将公义赐给王的儿子。",
     Eng:"Endow the king with your justice, O God, the royal son with your righteousness.",
     Ind:"Dari Salomo. Ya Allah, berikanlah hukum-Mu kepada raja dan keadilan-Mu kepada putera raja!"
   },
   {Bible:"Psalms", Chapter:72, Verse:2, Page:1,
-    Kor:"왕이 주님의 백성을 정의로 판결할 수 있게 하시고, 주님의 불쌍한 백성을 공의로 판결할 수 있게 해주십시오.",
+    Kor:"왕이 주의 백성을 의로 판결할 수 있게 하시고, 불쌍한 백성을 공의로 판결할 수 있게 해주십시오.",
     Chn:"他要按公义审判你的民， 按公平审判你的困苦人。",
     Eng:"He will judge your people in righteousness, your afflicted ones with justice.",
     Ind:"Kiranya ia mengadili umat-Mu dengan keadilan dan orang-orang-Mu yang tertindas dengan hukum!"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Kiranya gunung-gunung membawa damai sejahtera bagi bangsa, dan bukit-bukit membawa kebenaran!"
   },
   {Bible:"Psalms", Chapter:72, Verse:4, Page:1,
-    Kor:"왕이 불쌍한 백성을 공정하게 판결하도록 해주시며, 가난한 백성을 구하게 해주시며 억압하는 자들을 꺾게 해주십시오.",
+    Kor:"왕이 불쌍한 백성을 공정하게 판결하도록 해주시며, 가난한 백성의 자녀를 구원하게 해주시며 억압하는 자들을 꺾게 해주십시오.",
     Chn:"他必为民中的困苦人伸冤， 拯救穷乏之辈， 压碎那欺压人的。",
     Eng:"He will defend the afflicted among the people and save the children of the needy; he will crush the oppressor.",
     Ind:"Kiranya ia memberi keadilan kepada orang-orang yang tertindas dari bangsa itu, menolong orang-orang miskin, tetapi meremukkan pemeras-pemeras!"
   },
   {Bible:"Psalms", Chapter:72, Verse:5, Page:1,
-    Kor:"해가 닳도록, 달이 닳도록, 영원무궁 하도록, a그들이 왕을 두려워하게 해주십시오. (a 칠십인역에는 '왕이 천수를 누리게 해주십시오')",
+    Kor:"해가 닳도록, 달이 닳도록, 영원무궁 하도록, 왕이 주님을 경외하게 해주십시오.",
     Chn:"太阳还存，月亮还在， 人要敬畏你，直到万代！",
     Eng:"He will endure as long as the sun, as long as the moon, through all generations.",
     Ind:"Kiranya lanjut umurnya selama ada matahari, dan selama ada bulan, turun-temurun!"
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Kiranya keadilan berkembang dalam zamannya dan damai sejahtera berlimpah, sampai tidak ada lagi bulan!"
   },
   {Bible:"Psalms", Chapter:72, Verse:8, Page:1,
-    Kor:"왕이 이 바다에서 저 바다에 이르기까지, 이 b강에서 저 땅 맨 끝에 이르기까지, 모두 다스리게 해주십시오. (b 유프라테스)",
+    Kor:"왕이 이 바다에서 저 바다에 이르기까지, 이 강에서 저 땅 맨 끝에 이르기까지, 다 다스리게 해주십시오.",
     Chn:"他要执掌权柄，从这海直到那海， 从大河直到地极。",
     Eng:"He will rule from sea to sea and from the River to the ends of the earth.",
     Ind:"Kiranya ia memerintah dari laut ke laut, dari sungai Efrat sampai ke ujung bumi!"
   },
   {Bible:"Psalms", Chapter:72, Verse:9, Page:1,
-    Kor:"광야의 원주민도 그 앞에 무릎을 꿇게 해주시고, 그의 원수들도 땅바닥의 먼지를 핥게 해주십시오.",
+    Kor:"광야의 원주민도 그 앞에 무릎을 꿇게 해주시고, 원수들도 땅바닥의 먼지를 핥게 해주십시오.",
     Chn:"住在旷野的，必在他面前下拜； 他的仇敌必要舔土。",
     Eng:"The desert tribes will bow before him and his enemies will lick the dust.",
     Ind:"Kiranya penghuni padang belantara berlutut di depannya, dan musuh-musuhnya menjilat debu;"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"kiranya raja-raja dari Tarsis dan pulau-pulau membawa persembahan-persemb kiranya raja-raja dari Syeba dan Seba menyampaikan upeti!"
   },
   {Bible:"Psalms", Chapter:72, Verse:11, Page:1,
-    Kor:"모든 왕이 그 앞에 엎드리게 하시고, 모든 백성이 그를 섬기게 해주십시오.",
+    Kor:"모든 왕이 다 그의 앞에 엎드리게 하시고, 모든 백성이 그를 섬기게 해주십시오.",
     Chn:"诸王都要叩拜他； 万国都要事奉他。",
     Eng:"All kings will bow down to him and all nations will serve him.",
     Ind:"Kiranya semua raja sujud menyembah kepadanya, dan segala bangsa menjadi hambanya!"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Biarlah tanaman gandum berlimpah-limpah di negeri, bergelombang di puncak pegunungan; biarlah buahnya mekar bagaikan Libanon, bulir-bulirnya berkembang bagaikan rumput di bumi."
   },
   {Bible:"Psalms", Chapter:72, Verse:17, Page:1,
-    Kor:"그의 이름 영원히 잊혀지지 않을 것이다. 태양이 그 빛을 잃기까지 그의 명성이 사라지지 않을 것이다. 뭇 민족이 그를 통해 복을 받고, 모든 민족이 그를 일컬어서, 복 받은 사람이라 칭송할 것이다.",
+    Kor:"그의 이름 영원히 잊혀지지 않을 것이다. 태양이 그 빛을 잃기까지 그의 명성이 흔들리지 않을 것이다. 뭇 민족이 그를 통해 복을 받고, 모든 민족이 그를 일컬어서, 복 받은 사람이라 칭송할 것이다.",
     Chn:"他的名要存到永远， 要留传如日之久。 人要因他蒙福； 万国要称他有福。",
     Eng:"May his name endure forever; may it continue as long as the sun. All nations will be blessed through him, and they will call him blessed.",
     Ind:"Biarlah namanya tetap selama-lamanya, kiranya namanya semakin dikenal selama ada matahari. Kiranya segala bangsa saling memberkati dengan namanya, dan menyebut dia berbahagia."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Terpujilah TUHAN, Allah Israel, yang melakukan perbuatan yang ajaib seorang diri!"
   },
   {Bible:"Psalms", Chapter:72, Verse:19, Page:1,
-    Kor:"영광스러운 그 이름을 영원토록 찬송합니다. 그 영광을 온 땅에 가득 채워 주십시오. 아멘, 아멘. ○이새의 아들 다윗의 기도가 여기에서 끝난다.",
+    Kor:"영광스러운 그 이름을 영원토록 찬송합니다. 그 영광을 온 땅에 가득 채워 주십시오. 아멘, 아멘. 이새의 아들 다윗의 기도가 여기에서 끝난다.",
     Chn:"他荣耀的名也当称颂，直到永远。 愿他的荣耀充满全地！ 阿们！阿们！",
     Eng:"Praise be to his glorious name forever; may the whole earth be filled with his glory. Amen and Amen.",
     Ind:"Dan terpujilah kiranya nama-Nya yang mulia selama-lamanya, dan kiranya kemuliaan-Nya memenuhi seluruh bumi. Amin, ya amin."
   },
   {Bible:"Psalms", Chapter:72, Verse:20, Page:1,
-    Kor:"",
+    Kor:"(없음)",
     Chn:"耶西的儿子—大卫的祈祷完毕。",
     Eng:"This concludes the prayers of David son of Jesse.",
     Ind:"Sekianlah doa-doa Daud bin Isai."

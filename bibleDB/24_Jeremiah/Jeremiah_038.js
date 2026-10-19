@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",38,28);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:38, Verse:1, Page:1,
-    Kor:"<예레미야가 물 없는 웅덩이에 갇히다> 맛단의 아들 스바댜와 바스훌의 아들 그달리야와 셀레먀의 아들 a유갈과 말기야의 아들 바스훌이, 예레미야가 온 백성에게 이렇게 전하는 말씀을 들었다.(a 또는 '예후갈')",
+    Kor:"맛단의 아들 스바댜와 바스훌의 아들 그달리야와 셀레먀의 아들 유갈과 말기야의 아들 바스훌이, 예레미야가 온 백성에게 다음과 같이 전하는 말씀을 들었다.",
     Chn:"玛坦的儿子示法提雅、巴施户珥的儿子基大利、示利米雅的儿子犹甲、玛基雅的儿子巴施户珥听见耶利米对众人所说的话，说：",
     Eng:"Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehucal son of Shelemiah, and Pashhur son of Malkijah heard what Jeremiah was telling all the people when he said,",
     Ind:"Tetapi Sefaca bin Matan, Gedalya bin Pasyhur, Yukhal bin Selemya dan Pasyhur bin Malkia mendengar perkataan yang tidak henti-henti diucapkan oleh Yeremia kepada segenap orang banyak itu:"
   },
   {Bible:"Jeremiah", Chapter:38, Verse:2, Page:1,
-    Kor:"\"나 주가 말한다. 이 도성 안에 머물러 있는 사람은 전쟁이나 기근이나 염병으로 죽을 것이다. 그러나 b바빌로니아 군인들에게 나아가서 항복하는 사람은 죽지 않을 것이다. 적어도 자기의 목숨만은 건질 것이며, 계속 살아 남게 될 것이다.(b 또는 '갈대아')",
+    Kor:"\"나 주가 이렇게 말한다. 이 도성 안에 머물러 있는 사람은 전쟁이나 기근이나 염병으로 죽을 것이다. 그러나 바빌로니아 군인들에게 나아가서 항복하는 사람은 죽지 않을 것이다. 적어도 자기의 목숨만은 건질 것이며, 계속 살아 남게 될 것이다.",
     Chn:"「耶和华如此说：住在这城里的必遭刀剑、饥荒、瘟疫而死；但出去归降迦勒底人的必得存活，就是以自己命为掠物的，必得存活。",
     Eng:"\"This is what the LORD says: 'Whoever stays in this city will die by the sword, famine or plague, but whoever goes over to the Babylonians will live. He will escape with his life; he will live.'",
     Ind:"\"Beginilah firman TUHAN: Siapa yang tinggal di kota ini akan mati karena pedang, karena kelaparan dan karena penyakit sampar; tetapi siapa yang keluar dari sini mendapatkan orang Kasdim, ia akan tetap hidup; nyawanya akan menjadi jarahan baginya dan ia tetap hidup."
@@ -39,25 +39,25 @@ BibleDB.add([
     Ind:"Maka mereka mengambil Yeremia dan memasukkannya ke dalam perigi milik pangeran Malkia yang ada di pelataran penjagaan itu; mereka menurunkan Yeremia dengan tali. Di perigi itu tidak ada air, hanya lumpur, lalu terperosoklah Yeremia ke dalam lumpur itu."
   },
   {Bible:"Jeremiah", Chapter:38, Verse:7, Page:1,
-    Kor:"○왕궁에 c에티오피아 사람으로 에벳멜렉이라고 하는 한 환관이 있었는데, 그는, 사람들이 예레미야를 물웅덩이에 집어 넣었다는 소식을 들었다. 그 때에 왕은 '베냐민 문' 안에 머물러 있었다.(c 히, '구스'. 나일 강 상류지역)",
+    Kor:"○왕궁에 에티오피아 사람으로 에벳멜렉이라고 하는 한 환관이 있었는데, 그는, 사람들이 예레미야를 물웅덩이에 집어 넣었다는 소식을 들었다. 그 때에 왕은 '베냐민 문' 안에 머물러 있었다.",
     Chn:"在王宫的太监古实人以伯·米勒，听见他们将耶利米下了牢狱（那时王坐在便雅悯门口），",
     Eng:"But Ebed-Melech, a Cushite, an official in the royal palace, heard that they had put Jeremiah into the cistern. While the king was sitting in the Benjamin Gate,",
     Ind:"Tetapi ketika didengar Ebed-Melekh, orang Etiopia itu--ia seorang sida-sida yang tinggal di istana raja--bahwa Yeremia telah dimasukkan ke dalam perigi--pada waktu itu raja sedang duduk di pintu gerbang Benyamin--"
   },
   {Bible:"Jeremiah", Chapter:38, Verse:8, Page:1,
-    Kor:"에벳멜렉은 왕궁에서 바깥으로 나와 왕에게 가서, 이렇게 아뢰었다.",
+    Kor:"에벳멜렉은 왕궁에서 바깥으로 나와 왕에게 가서, 다음과 같이 아뢰었다.",
     Chn:"以伯·米勒就从王宫里出来，对王说：",
     Eng:"Ebed-Melech went out of the palace and said to him,",
     Ind:"maka keluarlah Ebed-Melekh dari istana raja itu, lalu berkata kepada raja:"
   },
   {Bible:"Jeremiah", Chapter:38, Verse:9, Page:1,
-    Kor:"\"높으신 임금님, 저 사람들이 예언자 예레미야에게 한 일들은 모두 악한 것뿐입니다. 그들이 예레미야를 물웅덩이 속에 집어 넣었으니, 그가 그 속에서 굶어 죽을 것입니다. 이래서야 되겠습니까? 성 안에는 더 이상 먹을 것이 없습니다.\"",
+    Kor:"\"높으신 임금님, 저 사람들이 예언자 예레미야에게 한 일들은 모두 악한 것뿐입니다. 그들은 예레미야를 물웅덩이 속에 집어 넣었으니, 그가 그 속에서 굶어 죽을 것입니다. 이래서야 되겠습니까? 성 안에는 더 이상 먹을 것이 없습니다.\"",
     Chn:"「主—我的王啊，这些人向先知耶利米一味地行恶，将他下在牢狱中；他在那里必因饥饿而死，因为城中再没有粮食。」",
     Eng:"\"My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will starve to death when there is no longer any bread in the city.\"",
     Ind:"\"Ya tuanku raja, perbuatan orang-orang ini jahat dalam segala apa yang mereka lakukan terhadap nabi Yeremia, yakni memasukkan dia ke dalam perigi; ia akan mati kelaparan di tempat itu! Sebab tidak ada lagi roti di kota.\""
   },
   {Bible:"Jeremiah", Chapter:38, Verse:10, Page:1,
-    Kor:"○그 때에 왕은 에티오피아 사람 에벳멜렉에게 이렇게 명령하였다. \"너는 여기 있는 군인들 가운데서 d삼십 명을 데리고 가서, 예언자 예레미야가 죽기 전에, 어서 그를 그 물웅덩이 속에서 끌어올려라.\"(d 다른 히브리어 사본에는 '세 명')",
+    Kor:"○그 때에 왕은 에티오피아 사람 에벳멜렉에게 다음과 같이 명령하였다. \"너는 여기 있는 군인들 가운데서 삼십 명을 데리고 가서, 예언자 예레미야가 죽기 전에, 어서 그를 그 물웅덩이 속에서 끌어올려라.\"",
     Chn:"王就吩咐古实人以伯·米勒说：「你从这里带领三十人，趁着先知耶利米未死以前，将他从牢狱中提上来。」",
     Eng:"Then the king commanded Ebed-Melech the Cushite, \"Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.\"",
     Ind:"Lalu raja memberi perintah kepada Ebed-Melekh, orang Etiopia itu, katanya: \"Bawalah tiga orang dari sini dan angkatlah nabi Yeremia dari perigi itu sebelum ia mati!\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Kemudian mereka menarik dan mengangkat Yeremia dengan tali dari perigi itu. Demikianlah Yeremia tinggal di pelataran penjagaan itu."
   },
   {Bible:"Jeremiah", Chapter:38, Verse:14, Page:1,
-    Kor:"<시드기야가 예레미야에게 충고를 구하다> ○시드기야 왕은 사람을 보내어서, 예언자 예레미야를 주님의 성전 셋째 문 어귀로 데려왔다. 그리고 왕은 예레미야에게 말하였다. \"내가 그대에게 한 가지를 묻겠으니, 아무것도 나에게 숨기지 마시오.\"",
+    Kor:"○시드기야 왕은 사람을 보내어서, 예언자 예레미야를 주의 성전 셋째 문 어귀로 데려왔다. 그리고 왕은 예레미야에게 말하였다. \"내가 그대에게 한 가지를 묻겠으니, 아무것도 나에게 숨기지 마시오.\"",
     Chn:"西底家王打发人带领先知耶利米，进耶和华殿中第三门里见王。王就对耶利米说：「我要问你一件事，你丝毫不可向我隐瞒。」",
     Eng:"Then King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance to the temple of the LORD. \"I am going to ask you something,\" the king said to Jeremiah. \"Do not hide anything from me.\"",
     Ind:"Raja Zedekia menyuruh orang membawa nabi Yeremia kepadanya di pintu yang ketiga pada rumah TUHAN. Berkatalah raja kepada Yeremia: \"Aku mau menanyakan sesuatu kepadamu; janganlah sembunyikan apa-apa kepadaku!\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Jawab Yeremia kepada Zedekia: \"Apabila aku memberitahukannya kepadamu, tentulah engkau akan membunuh aku, bukan? Dan apabila aku memberi nasihat kepadamu, engkau tidak juga akan mendengarkan aku!\""
   },
   {Bible:"Jeremiah", Chapter:38, Verse:16, Page:1,
-    Kor:"○시드기야 왕은 예레미야에게 이렇게 은밀히 맹세하였다. \"우리에게 목숨을 주신 주님의 살아 계심을 두고 맹세하오. 나는 그대를 죽이지도 않고, 그대의 목숨을 노리는 저 사람들의 손에 넘겨 주지도 않겠소.\"",
+    Kor:"○시드기야 왕은 예레미야에게 이렇게 은밀히 맹세하였다. \"우리에게 목숨을 주신 주의 살아 계심을 두고 맹세하오. 나는 그대를 죽이지도 않고, 그대의 목숨을 노리는 저 사람들의 손에 넘겨 주지도 않겠소.\"",
     Chn:"西底家王就私下向耶利米说：「我指着那造我们生命之永生的耶和华起誓：我必不杀你，也不将你交在寻索你命的人手中。」",
     Eng:"But King Zedekiah swore this oath secretly to Jeremiah: \"As surely as the LORD lives, who has given us breath, I will neither kill you nor hand you over to those who are seeking your life.\"",
     Ind:"Lalu bersumpahlah raja Zedekia dengan diam-diam kepada Yeremia, katanya: \"Demi TUHAN yang hidup yang telah memberi nyawa ini kepada kita, aku tidak akan membunuh engkau dan tidak akan menyerahkan engkau ke dalam tangan orang-orang yang berusaha mencabut nyawamu itu!\""
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Sesudah itu berkatalah Yeremia kepada Zedekia: \"Beginilah firman TUHAN, Allah semesta alam, Allah Israel: Jika engkau keluar menyerahkan diri kepada para perwira raja Babel, maka nyawamu akan terpelihara, dan kota ini tidak akan dihanguskan dengan api; engkau dengan keluargamu akan hidup."
   },
   {Bible:"Jeremiah", Chapter:38, Verse:18, Page:1,
-    Kor:"그러나 네가 b바빌로니아 왕의 고관들에게 항복하지 않으면, 이 도성이 b바빌로니아 군대의 손아귀에 들어가고, 그들은 이 도성에 불을 지를 것이고, 너는 그들의 손에서 벗어날 수가 없을 것이다.'\"(b 또는 '갈대아')",
+    Kor:"그러나 네가 바빌로니아 왕의 고관들에게 항복하지 않으면, 이 도성이 바빌로니아 군대의 손아귀에 들어가고, 그들은 이 도성에 불을 지를 것이고, 너는 그들의 손에서 벗어날 수가 없을 것이다.'\"",
     Chn:"你若不出去归降巴比伦王的首领，这城必交在迦勒底人手中。他们必用火焚烧，你也不得脱离他们的手。」",
     Eng:"But if you will not surrender to the officers of the king of Babylon, this city will be handed over to the Babylonians and they will burn it `own; you yourself will not escape from their hands.'\"",
     Ind:"Tetapi jika engkau tidak menyerahkan diri kepada para perwira raja Babel, maka kota ini akan diserahkan ke dalam tangan orang-orang Kasdim yang akan menghanguskannya dengan api; dan engkau sendiri tidak akan luput dari tangan mereka.\""
   },
   {Bible:"Jeremiah", Chapter:38, Verse:19, Page:1,
-    Kor:"○그런데도 시드기야 왕은 예레미야에게 이렇게 대답하였다. \"나는 b바빌로니아 군대에게 투항한 유다 사람들이 두렵소. b바빌로니아 군대가 나를 그들의 손에 넘겨 주면, 그들이 나를 학대할지도 모르지 않소?\"(b 또는 '갈대아')",
+    Kor:"○그런데도 시드기야 왕은 예레미야에게 이와 같이 대답하였다. \"나는 바빌로니아 군대에게 투항한 유다 사람들이 두렵소. 바빌로니아 군대가 나를 그들의 손에 넘겨 주면, 그들이 나를 학대할지도 모르지 않소?\"",
     Chn:"西底家王对耶利米说：「我怕那些投降迦勒底人的犹大人，恐怕迦勒底人将我交在他们手中，他们戏弄我。」",
     Eng:"King Zedekiah said to Jeremiah, \"I am afraid of the Jews who have gone over to the Babylonians, for the Babylonians may hand me over to them and they will mistreat me.\"",
     Ind:"Kemudian berkatalah raja Zedekia kepada Yeremia: \"Aku takut kepada orang-orang Yehuda yang menyeberang kepada orang Kasdim itu; nanti aku diserahkan ke dalam tangan mereka, sehingga mereka mempermainkan aku.\""
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Yeremia menjawab: \"Hal itu tidak akan terjadi! Dengarkanlah suara TUHAN dalam hal apa yang kukatakan kepadamu, maka keadaanmu akan baik dan nyawamu akan terpelihara."
   },
   {Bible:"Jeremiah", Chapter:38, Verse:21, Page:1,
-    Kor:"그러나 임금님께서 항복하기를 거부하시면, 주님께서 저에게 보여 주신 일들이 그대로 일어날 것입니다.",
+    Kor:"그러나 임금님께서 항복하기를 거부하시면, 주께서 저에게 보여 주신 일들이 그대로 일어날 것입니다.",
     Chn:"你若不肯出去，耶和华指示我的话乃是这样：",
     Eng:"But if you refuse to surrender, this is what the LORD has revealed to me:",
     Ind:"Tetapi jika engkau enggan menyerahkan diri, maka inilah firman yang dinyatakan TUHAN kepadaku:"
   },
   {Bible:"Jeremiah", Chapter:38, Verse:22, Page:1,
-    Kor:"보십시오, 유다의 왕궁에 남아 있는 여인들이 모두 바빌로니아 왕의 고관들에게로 끌려가면서 이렇게 탄식할 것입니다.  '믿던 도끼에 발 찍혔다. 친구들이 너를 속이고 멋대로 하다가, 네가 진창에 빠지니, 너를 버리고 떠났다.'",
+    Kor:"보십시오, 유다의 왕궁에 남아 있는 여인들이 모두 바빌로니아 왕의 고관들에게로 끌려가면서 이렇게 탄식할 것입니다. '믿던 도끼에 발 찍혔다. 친구들이 너를 속이고 멋대로 하다가, 네가 진창에 빠지니, 너를 버리고 떠났다.'",
     Chn:"犹大王宫里所剩的妇女必都带到巴比伦王的首领那里。这些妇女必说： 你知己的朋友催逼你， 胜过你； 见你的脚陷入淤泥中， 就转身退后了。",
     Eng:"All the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you: \"'They misled you and overcame you--those trusted friends of yours. Your feet are sunk in the mud; your friends have deserted you.'",
     Ind:"Sungguh, semua perempuan yang masih tinggal di istana raja Yehuda digiring ke luar ke hadapan para perwira raja Babel sambil berseru: Engkau diperdayakan, dikalahkan oleh sahabat-sahabatmu. Tetapi baru saja kakimu terperosok ke dalam lumpur, mereka sudah berpaling pulang."
   },
   {Bible:"Jeremiah", Chapter:38, Verse:23, Page:1,
-    Kor:"임금님의 모든 아내와 자녀들도 b바빌로니아 군대에 끌려갈 것이고, 임금님께서도 그들의 손에서 벗어나지 못하고, b바빌로니아 왕의 손에 붙잡히실 것입니다. 그리고 이 도성도 불에 타버릴 것입니다.\"(b 또는 '갈대아')",
+    Kor:"임금님의 모든 아내와 자녀들도 바빌로니아 군대에 끌려갈 것이고, 임금님께서도 그들의 손에서 벗어나지 못하고, 바빌로니아 왕의 손에 붙잡히실 것입니다. 그리고 이 도성도 불에 타버릴 것입니다.\"",
     Chn:"「人必将你的后妃和你的儿女带到迦勒底人那里；你也不得脱离他们的手，必被巴比伦王的手捉住；你也必使这城被火焚烧。」",
     Eng:"\"All your wives and children will be brought out to the Babylonians. You yourself will not escape from their hands but will be captured by the king of Babylon; and this city will be burned down.\"",
     Ind:"Semua isterimu dan anak-anakmu akan digiring ke luar ke hadapan orang-orang Kasdim itu. Dan engkau sendiri tidak akan terluput dari tangan mereka, tetapi engkau akan tertangkap oleh raja Babel. Dan kota ini akan dihanguskan dengan api.\""

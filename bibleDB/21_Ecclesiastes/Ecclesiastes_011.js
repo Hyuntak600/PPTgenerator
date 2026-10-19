@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",11,10);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:11, Verse:1, Page:1,
-    Kor:"<슬기로운 삶> 돈이 있으면, 무역에 투자하여라. 여러 날 뒤에 너는 이윤을 남길 것이다.",
+    Kor:"돈이 있으면, 무역에 투자하여라. 여러 날 뒤에 너는 이윤을 남길 것이다.",
     Chn:"当将你的粮食撒在水面， 因为日久必能得着。",
     Eng:"Cast your bread upon the waters, for after many days you will find it again.",
     Ind:"Lemparkanlah rotimu ke air, maka engkau akan mendapatnya kembali lama setelah itu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Taburkanlah benihmu pagi-pagi hari, dan janganlah memberi istirahat kepada tanganmu pada petang hari, karena engkau tidak mengetahui apakah ini atau itu yang akan berhasil, atau kedua-duanya sama baik."
   },
   {Bible:"Ecclesiastes", Chapter:11, Verse:7, Page:1,
-    Kor:"<젊은이에게 주는 충고> 빛을 보고 산다는 것은 즐거운 일이다. 해를 보고 산다는 것은 기쁜 일이다.",
+    Kor:"빛을 보고 산다는 것은 즐거운 일이다. 해를 보고 산다는 것은 기쁜 일이다.",
     Chn:"光本是佳美的，眼见日光也是可悦的。",
     Eng:"Light is sweet, and it pleases the eyes to see the sun.",
     Ind:"Terang itu menyenangkan dan melihat matahari itu baik bagi mata;"

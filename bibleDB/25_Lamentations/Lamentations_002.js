@@ -3,19 +3,19 @@
 BibleDB.ref("Lamentations",2,22);
 BibleDB.add([
   {Bible:"Lamentations", Chapter:2, Verse:1, Page:1,
-    Kor:"a아, 슬프다. 주님께서 어찌 이렇게 b진노하셔서 도성 시온의 앞길을 캄캄하게 하셨는가? 어찌하여 이스라엘의 영광을 하늘에서 땅으로 던지셨는가? 진노하신 날에, 주님께서 성전조차도 기억하지 않으시다니! (a 각 절 첫 글자가 히브리어의 알파벳 순서로 되어 있는 알파벳 시 b 또는 '진노의 구름으로 도성 시온을 덮으셨는가?')",
+    Kor:"아, 슬프다. 주께서 어찌 이렇게 진노하셔서 도성 시온의 앞길을 캄캄하게 하셨는가? 어찌하여 이스라엘의 영광을 하늘에서 땅으로 던지셨는가? 진노하신 날에, 주께서 성전조차도 기억하지 않으시다니!",
     Chn:"主何竟发怒，使黑云遮蔽锡安城！ 他将以色列的华美从天扔在地上； 在他发怒的日子并不记念自己的脚凳。",
     Eng:"How the Lord has covered the Daughter of Zion with the cloud of his anger! He has hurled down the splendor of Israel from heaven to earth; he has not remembered his footstool in the day of his anger.",
     Ind:"Ah, betapa Tuhan menyelubungi puteri Sion dengan awan dalam murka-Nya! Keagungan Israel dilemparkan-Nya dari langit ke bumi. Tak diingat-Nya akan tumpuan kaki-Nya tatkala Ia murka."
   },
   {Bible:"Lamentations", Chapter:2, Verse:2, Page:1,
-    Kor:"주님께서 노하셔서, 야곱의 모든 보금자리를 사정없이 불사르시고, 유다의 도성 성채들을 무너뜨려 땅에 엎으시고, 나라와 통치자들을 욕보이셨다.",
+    Kor:"주께서 노하셔서, 야곱의 모든 보금자리를 사정없이 불사르시고, 유다의 도성 성채들을 무너뜨려 땅에 엎으시고, 나라와 통치자들을 욕보이셨다.",
     Chn:"主吞灭雅各一切的住处，并不顾惜。 他发怒倾覆犹大民的保障， 使这保障坍倒在地； 他辱没这国和其中的首领。",
     Eng:"Without pity the Lord has swallowed up all the dwellings of Jacob; in his wrath he has torn down the strongholds of the Daughter of Judah. He has brought her kingdom and its princes down to the ground in dishonor.",
     Ind:"Tanpa belas kasihan Tuhan memusnahkan segala ladang Yakub. Ia menghancurkan dalam amarah-Nya benteng-benteng puteri Yehuda. Ia mencampakkan ke bumi dan mencemarkan kerajaan dan pemimpin-pemimpinnya."
   },
   {Bible:"Lamentations", Chapter:2, Verse:3, Page:1,
-    Kor:"주님께서 타오르는 진노로 이스라엘의 c힘을 모두 꺾으시더니, 원수 앞에서 이스라엘을 지키시는 오른손을 거두시고, 주위의 모든 것을 삼키는 불꽃처럼 야곱을 불사르셨다. (c 또는 '뿔을' 또는 '왕을')",
+    Kor:"주께서 타오르는 진노로 이스라엘의 힘을 모두 꺾으시더니, 원수 앞에서 이스라엘을 지키시는 오른손을 거두시고, 주위의 모든 것을 삼키는 불꽃처럼 야곱을 불사르셨다.",
     Chn:"他发烈怒，把以色列的角全然砍断， 在仇敌面前收回右手。 他像火焰四围吞灭，将雅各烧毁。",
     Eng:"In fierce anger he has cut off every horn of Israel. He has withdrawn his right hand at the approach of the enemy. He has burned in Jacob like a flaming fire that consumes everything around it.",
     Ind:"Dalam murka yang menyala-nyala Ia mematahkan segala tanduk Israel, menarik kembali tangan kanan-Nya pada waktu si seteru mendekat, membakar Yakub laksana api yang menyala-nyala, yang menjilat ke sekeliling."
@@ -27,31 +27,31 @@ BibleDB.add([
     Ind:"Ia membidikkan panah-Nya seperti seorang seteru dengan mengacungkan tangan kanan-Nya seperti seorang lawan; membunuh segala yang menyenangkan mata dalam kemah puteri Sion, memuntahkan geram-Nya seperti api."
   },
   {Bible:"Lamentations", Chapter:2, Verse:5, Page:1,
-    Kor:"주님께서 이스라엘의 원수라도 되신 것처럼, 그를 삼키시고, 모든 궁을 삼키시고 성채를 부수시어, 유다의 도성에 신음과 애통을 더하셨다.",
+    Kor:"주께서 이스라엘의 원수라도 되신 것처럼, 그를 삼키시고, 모든 궁을 삼키시고 성채를 부수시어, 유다의 도성에 신음과 애통을 더하셨다.",
     Chn:"主如仇敌吞灭以色列和锡安的一切宫殿， 拆毁百姓的保障； 在犹大民中加增悲伤哭号。",
     Eng:"The Lord is like an enemy; he has swallowed up Israel. He has swallowed up all her palaces and destroyed her strongholds. He has multiplied mourning and lamentation for the Daughter of Judah.",
     Ind:"Tuhan menjadi seperti seorang seteru; Ia menghancurkan Israel, meremukkan segala purinya, mempuingkan benteng-bentengnya, memperbanyak susah dan kesah pada puteri Yehuda."
   },
   {Bible:"Lamentations", Chapter:2, Verse:6, Page:1,
-    Kor:"주님께서는 성막을 들에 있는 원두막처럼 부수시고, 회막도 그렇게 허무셨다. 주님께서 시온에서 명절과 안식일을 없애셨다. 진노하셔서 왕과 제사장을 멸시하셨다.",
+    Kor:"주께서는 성막을 들에 있는 원두막처럼 부수시고, 회막도 그렇게 허무셨다. 주께서 시온에서 명절과 안식일을 없애셨다. 진노하셔서 왕과 제사장을 멸시하셨다.",
     Chn:"他强取自己的帐幕，好像是园中的窝棚， 毁坏他的聚会之处。 耶和华使圣节和安息日在锡安都被忘记， 又在怒气的愤恨中藐视君王和祭司。",
     Eng:"He has laid waste his dwelling like a garden; he has destroyed his place of meeting. The LORD has made Zion forget her appointed feasts and her Sabbaths; in his fierce anger he has spurned both king and priest.",
     Ind:"Ia melanda kemah-Nya seperti kebun, menghancurkan tempat pertemuan-Nya. Di Sion TUHAN menjadikan orang lupa akan perayaan dan sabat, dan menolak dalam kegeraman murka-Nya raja dan imam."
   },
   {Bible:"Lamentations", Chapter:2, Verse:7, Page:1,
-    Kor:"주님께서 당신의 제단도 버리시고, 당신의 성소도 역겨워하셨다. 궁전 성벽을 원수들의 손에 넘기시니, 그들이 주님의 성전에서 마치 잔칫날처럼 함성을 지른다.",
+    Kor:"주께서 당신의 제단도 버리시고, 당신의 성소도 역겨워하셨다. 궁전 성벽을 원수들의 손에 넘기시니, 그들이 주의 성전에서 마치 잔칫날처럼 함성을 지른다.",
     Chn:"耶和华丢弃自己的祭坛， 憎恶自己的圣所， 将宫殿的墙垣交付仇敌。 他们在耶和华的殿中喧嚷， 像在圣会之日一样。",
     Eng:"The Lord has rejected his altar and abandoned his sanctuary. He has handed over to the enemy the walls of her palaces; they have raised a shout in the house of the LORD as on the day of an appointed feast.",
     Ind:"Tuhan membuang mezbah-Nya, meninggalkan tempat kudus-Nya, menyerahkan ke dalam tangan seteru tembok puri-purinya. Teriakan ramai mereka dalam Bait Allah seperti keramaian pada hari perayaan jemaah."
   },
   {Bible:"Lamentations", Chapter:2, Verse:8, Page:1,
-    Kor:"주님께서 도성 시온의 성벽을 헐기로 작정하시고, 다림줄을 대시고, 성벽이 무너질 때까지 손을 떼지 않으셨다. 주님께서 망대와 성벽들을 통곡하게 하시며 한꺼번에 허무시니,",
+    Kor:"주께서 도성 시온의 성벽을 헐기로 작정하시고, 다림줄을 대시고, 성벽이 무너질 때까지 손을 떼지 않으셨다. 주께서 망대와 성벽들을 통곡하게 하시며 한꺼번에 허무시니,",
     Chn:"耶和华定意拆毁锡安的城墙； 他拉了准绳， 不将手收回，定要毁灭。 他使外郭和城墙都悲哀， 一同衰败。",
     Eng:"The LORD determined to tear down the wall around the Daughter of Zion. He stretched out a measuring line and did not withhold his hand from destroying. He made ramparts and walls lament; together they wasted away.",
     Ind:"TUHAN telah memutuskan untuk mempuingkan tembok puteri Sion. Ia mengukur semuanya dengan tali pengukur, Ia tak menahan tangan-Nya untuk menghancurkannya. Ia menjadikan berkabung tembok luar dan tembok dalam, mereka merana semua."
   },
   {Bible:"Lamentations", Chapter:2, Verse:9, Page:1,
-    Kor:"성문들이 땅바닥으로 무너져 내렸다. 주님께서 빗장들을 꺾으셨다. 왕과 지도자들은 뭇 민족 가운데로 흩어지고, 율법이 없어지고, 예언자들도 주님께 계시를 받지 못한다.",
+    Kor:"성문들이 땅바닥으로 무너져 내렸다. 주께서 빗장들을 꺾으셨다. 왕과 지도자들은 뭇 민족 가운데로 흩어지고, 율법이 없어지고, 예언자들도 주께 계시를 받지 못한다.",
     Chn:"锡安的门都陷入地内； 主将她的门闩毁坏，折断。 她的君王和首领落在没有律法的列国中； 她的先知不得见耶和华的异象。",
     Eng:"Her gates have sunk into the ground; their bars he has broken and destroyed. Her king and her princes are exiled among the nations, the law is no more, and her prophets no longer find visions from the LORD.",
     Ind:"Terbenam gapura-gapuranya di dalam tanah; TUHAN menghancurkan dan meluluhkan palang-palang pintunya. Rajanya dan pemimpin-pemimpinnya berada di antara bangsa-bangsa asing. Tak ada petunjuk dari TUHAN, bahkan nabi-nabi tidak menerima lagi wahyu dari pada-Nya."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Terhadap engkau semua seterumu mengangakan mulutnya. Mereka bersuit-suit dan menggertakkan gigi: \"Kami telah memusnahkannya!\", kata mereka, \"Nah, inilah harinya yang kami nanti-nantikan, kami mengalaminya, kami melihatnya!\""
   },
   {Bible:"Lamentations", Chapter:2, Verse:17, Page:1,
-    Kor:"주님께서는 뜻하신 것을 이루셨다. 주님께서는 오래 전에 선포하신 심판의 말씀을 다 이루셨다. 주님께서 너를 사정없이 부수시고, 네 원수가 너를 이기고 즐거워하게 하시며, d네 대적이 한껏 뽐내게 하셨다. (d 또는 '네 대적의 뿔을 높이셨다')",
+    Kor:"주께서는 뜻하신 것을 이루셨다. 주께서는 오래 전에 선포하신 심판의 말씀을 다 이루셨다. 주께서 너를 사정없이 부수시고, 네 원수가 너를 이기고 즐거워하게 하시며, 네 대적이 한껏 뽐내게 하셨다.",
     Chn:"耶和华成就了他所定的， 应验了他古时所命定的。 他倾覆了，并不顾惜， 使你的仇敌向你夸耀； 使你敌人的角也被高举。",
     Eng:"The LORD has done what he planned; he has fulfilled his word, which he decreed long ago. He has overthrown you without pity, he has let the enemy gloat over you, he has exalted the horn of your foes.",
     Ind:"TUHAN telah menjalankan yang dirancangkan-Nya, Ia melaksanakan yang difirmankan-Nya, yang diperintahkan-Nya dahulu kala; Ia merusak tanpa belas kasihan, Ia menjadikan si seteru senang atas kamu, Ia meninggikan tanduk lawan-lawanmu."
   },
   {Bible:"Lamentations", Chapter:2, Verse:18, Page:1,
-    Kor:"도성 시온의 성벽아, e큰소리로 주님께 부르짖어라. 밤낮으로 눈물을 강물처럼 흘려라. 쉬지 말고 울부짖어라. 네 눈에서 눈물이 그치게 하지 말아라. (e 히, '그들의 마음이 주님께 부르짖었다')",
+    Kor:"도성 시온의 성벽아, 큰소리로 주께 부르짖어라. 밤낮으로 눈물을 강물처럼 흘려라. 쉬지 말고 울부짖어라. 네 눈에서 눈물이 그치게 하지 말아라.",
     Chn:"锡安民的心哀求主。 锡安的城墙啊，愿你流泪如河， 昼夜不息； 愿你眼中的瞳人泪流不止。",
     Eng:"The hearts of the people cry out to the Lord. O wall of the Daughter of Zion, let your tears flow like a river day and night; give yourself no relief, your eyes no rest.",
     Ind:"Berteriaklah kepada Tuhan dengan nyaring, hai, puteri Sion, cucurkanlah air mata bagaikan sungai siang dan malam; janganlah kauberikan dirimu istirahat, janganlah matamu tenang!"
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Bangunlah, mengeranglah pada malam hari, pada permulaan giliran jaga malam; curahkanlah isi hatimu bagaikan air di hadapan Tuhan, angkatlah tanganmu kepada-Nya demi hidup anak-anakmu, yang jatuh pingsan karena lapar di ujung-ujung jalan!"
   },
   {Bible:"Lamentations", Chapter:2, Verse:20, Page:1,
-    Kor:"\"주님, 살펴 주십시오. 주님께서 예전에 사람을 이렇게 다루신 적이 있으십니까? 어떤 여자가  사랑스럽게 기른 자식을 잡아먹는단 말입니까? 어찌 주님의 성전에서, 제사장과 예언자가 맞아 죽을 수 있습니까?",
+    Kor:"주님 살펴 주십시오. 주께서 예전에 사람을 이렇게 다루신 적이 있으십니까? 어떤 여자가 사랑스럽게 기른 자식을 잡아먹는단 말입니까? 어찌 주의 성전에서, 제사장과 예언자가 맞아 죽을 수 있습니까?",
     Chn:"耶和华啊，求你观看！ 见你向谁这样行？ 妇人岂可吃自己所生育手里所摇弄的婴孩吗？ 祭司和先知岂可在主的圣所中被杀戮吗？",
     Eng:"\"Look, O LORD, and consider: Whom have you ever treated like this? Should women eat their offspring, the children they have cared for? Should priest and prophet be killed in the sanctuary of the Lord?",
     Ind:"Lihatlah, TUHAN, dan tiliklah, kepada siapakah Engkau telah berbuat ini? Apakah perempuan harus makan anak kandungnya, anak-anak yang masih dibuai? Apakah dalam tempat kudus Tuhan harus dibunuh imam dan nabi?"
   },
   {Bible:"Lamentations", Chapter:2, Verse:21, Page:1,
-    Kor:"젊은이와 늙은이가 길바닥에 쓰러지고, 처녀와 총각이 칼에 맞아 넘어집니다. 주님께서 분노하신 날에, 그들을  사정없이 베어 죽이셨습니다.",
+    Kor:"젊은이와 늙은이가 길바닥에 쓰러지고, 처녀와 총각이 칼에 맞아 넘어집니다. 주께서 분노하신 날에, 그들을 사정없이 베어 죽이셨습니다.",
     Chn:"少年人和老年人都在街上躺卧； 我的处女和壮丁都倒在刀下； 你发怒的日子杀死他们。 你杀了，并不顾惜。",
     Eng:"\"Young and old lie together in the dust of the streets; my young men and maidens have fallen by the sword. You have slain them in the day of your anger; you have slaughtered them without pity.",
     Ind:"Terbaring di debu jalan pemuda dan orang tua; dara-daraku dan teruna-terunaku gugur oleh pedang; Engkau membunuh mereka tatkala Engkau murka, tanpa belas kasihan Engkau menyembelih mereka!"
   },
   {Bible:"Lamentations", Chapter:2, Verse:22, Page:1,
-    Kor:"주님께서는 내가 두려워하는 것을, 마치 명절에 사람을 초대하듯, 사방에서 불러들이셨습니다. 그래서 주님께서 분노하신 날에, 피하거나 살아 남은 사람이 아무도 없습니다. 내가 사랑으로 고이 기른 것들을 내 원수들이 모두 죽였습니다.\"",
+    Kor:"주께서는 내가 두려워하는 것을, 마치 명절에 사람을 초대하듯, 사방에서 불러들이셨습니다. 그래서 주께서 분노하신 날에, 피하거나 살아 남은 사람이 아무도 없습니다. 내가 사랑으로 고이 기른 것들을 내 원수들이 모두 죽였습니다.",
     Chn:"你招聚四围惊吓我的， 像在大会的日子招聚人一样。 耶和华发怒的日子， 无人逃脱，无人存留。 我所摇弄所养育的婴孩， 仇敌都杀净了。",
     Eng:"\"As you summon to a feast day, so you summoned against me terrors on every side. In the day of the LORD'S anger no one escaped or survived; those I cared for and reared, my enemy has destroyed.\"",
     Ind:"Seolah-olah pada hari perayaan Engkau mengundang semua yang kutakuti dari sekeliling. Tatkala TUHAN murka tak ada seorang yang luput atau selamat. Mereka yang kubuai dan kubesarkan dibinasakan seteruku."

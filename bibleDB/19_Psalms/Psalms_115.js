@@ -3,19 +3,19 @@
 BibleDB.ref("Psalms",115,18);
 BibleDB.add([
   {Bible:"Psalms", Chapter:115, Verse:1, Page:1,
-    Kor:"<주님은 마땅히 찬양받으실 분이시다> 주님, 영광을 우리에게 돌리지 마십시오. 우리에게 돌리지 마시고, 오직 주님의 이름에만 영광을 돌리십시오. 그 영광은 다만 주님의 인자하심과 진실하심에 돌려주십시오.",
+    Kor:"주님, 영광을 우리에게 돌리지 마십시오. 우리에게 돌리지 마시고, 오직 주님의 이름에만 영광을 돌리십시오. 그 영광은 다만 주님의 인자하심과 진실하심에 돌리십시오.",
     Chn:"耶和华啊，荣耀不要归与我们， 不要归与我们； 要因你的慈爱和诚实归在你的名下！",
     Eng:"Not to us, O LORD, not to us but to your name be the glory, because of your love and faithfulness.",
     Ind:"Bukan kepada kami, ya TUHAN, bukan kepada kami, tetapi kepada nama-Mulah beri kemuliaan, oleh karena kasih-Mu, oleh karena setia-Mu!"
   },
   {Bible:"Psalms", Chapter:115, Verse:2, Page:1,
-    Kor:"어찌하여 이방 나라들이 \"그들의 하나님이 어디에 있느냐?\" 하고 말하게 하겠습니까?",
+    Kor:"어찌하여 뭇 나라가 \"그들의 하나님이 어디에 있느냐?\" 하고 말하게 하겠습니까?",
     Chn:"为何容外邦人说： 他们的　神在哪里呢？",
     Eng:"Why do the nations say, \"Where is their God?\"",
     Ind:"Mengapa bangsa-bangsa akan berkata: \"Di mana Allah mereka?\""
   },
   {Bible:"Psalms", Chapter:115, Verse:3, Page:1,
-    Kor:"우리 하나님은 하늘에 계셔서, 하고자 하시면 어떤 일이든 이루신다.",
+    Kor:"우리 하나님은 하늘에 계셔서, 하시고자 하시면 어떤 일이든지 하실 수 있으시다.",
     Chn:"然而，我们的　神在天上， 都随自己的意旨行事。",
     Eng:"Our God is in heaven; he does whatever pleases him.",
     Ind:"Allah kita di sorga; Ia melakukan apa yang dikehendaki-Nya!"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"mempunyai mulut, tetapi tidak dapat berkata-kata, mempunyai mata, tetapi tidak dapat melihat,"
   },
   {Bible:"Psalms", Chapter:115, Verse:6, Page:1,
-    Kor:"귀가 있어도 듣지 못하고, 코가 있어도 냄새를 맡지 못하고,",
+    Kor:"귀가 있어도 듣지 못하고, 코가 있어도 냄새 맡지 못하고,",
     Chn:"有耳却不能听， 有鼻却不能闻，",
     Eng:"they have ears, but cannot hear, noses, but they cannot smell;",
     Ind:"mempunyai telinga, tetapi tidak dapat mendengar, mempunyai hidung, tetapi tidak dapat mencium,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Hai orang-orang yang takut akan TUHAN, percayalah kepada TUHAN! --Dialah pertolongan mereka dan perisai mereka."
   },
   {Bible:"Psalms", Chapter:115, Verse:12, Page:1,
-    Kor:"주님께서 우리를 기억하여 주셔서 복을 주시고, 이스라엘 집에도 복을 주시며, 아론의 집에도 복을 주신다.",
+    Kor:"주께서 우리를 기억하여 주셔서 복을 주시고, 이스라엘 집에도 복을 주시며, 아론의 집에도 복을 주신다.",
     Chn:"耶和华向来眷念我们； 他还要赐福给我们： 要赐福给以色列的家， 赐福给亚伦的家。",
     Eng:"The LORD remembers us and will bless us: He will bless the house of Israel, he will bless the house of Aaron,",
     Ind:"TUHAN telah mengingat kita; Ia akan memberkati, memberkati kaum Israel, memberkati kaum Harun,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"memberkati orang-orang yang takut akan TUHAN, baik yang kecil maupun yang besar."
   },
   {Bible:"Psalms", Chapter:115, Verse:14, Page:1,
-    Kor:"주님께서 너희를 번창하게 하여 주시고, 너희의 자손을 번창하게 하여 주시기를 바란다.",
+    Kor:"주께서 너희를 번창하게 하여 주시고, 너희의 자손을 번창하게 하여 주시기를 바란다.",
     Chn:"愿耶和华叫你们 和你们的子孙日见加增。",
     Eng:"May the LORD make you increase, both you and your children.",
     Ind:"Kiranya TUHAN memberi pertambahan kepada kamu, kepada kamu dan kepada anak-anakmu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Diberkatilah kamu oleh TUHAN, yang menjadikan langit dan bumi."
   },
   {Bible:"Psalms", Chapter:115, Verse:16, Page:1,
-    Kor:"하늘은 주님의 하늘이라도, 땅은 사람에게 주셨다.",
+    Kor:"하늘은 주의 하늘이라도, 땅은 사람에게 주셨다.",
     Chn:"天，是耶和华的天； 地，他却给了世人。",
     Eng:"The highest heavens belong to the LORD, but the earth he has given to man.",
     Ind:"Langit itu langit kepunyaan TUHAN, dan bumi itu telah diberikan-Nya kepada anak-anak manusia."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Bukan orang-orang mati akan memuji-muji TUHAN, dan bukan semua orang yang turun ke tempat sunyi,"
   },
   {Bible:"Psalms", Chapter:115, Verse:18, Page:1,
-    Kor:"그러나 우리는 이제부터 영원까지 주님을 찬양할 것이다. a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"그러나 우리는 이제부터 영원까지 주님을 찬양할 것이다. 할렐루야.",
     Chn:"但我们要称颂耶和华， 从今时直到永远。 你们要赞美耶和华！",
     Eng:"it is we who extol the LORD, both now and forevermore. Praise the LORD.",
     Ind:"tetapi kita, kita akan memuji TUHAN, sekarang ini dan sampai selama-lamanya. Haleluya!"

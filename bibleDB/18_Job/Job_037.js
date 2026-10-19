@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Yang Mahakuasa, yang tidak dapat kita pahami, besar kekuasaan dan keadilan-Nya; walaupun kaya akan kebenaran Ia tidak menindasnya."
   },
   {Bible:"Job", Chapter:37, Verse:24, Page:1,
-    Kor:"그러므로 사람이 하나님을 경외해야 하는 것은 당연합니다. 하나님은 스스로 지혜롭다고 하는 사람을 무시하십니다.",
+    Kor:"그러므로 사람이 하나님을 경외해야 하는 것은 당연합니다. 하나님은, 스스로 지혜롭다고 하는 사람을 무시하십니다.",
     Chn:"所以，人敬畏他； 凡自以为心中有智慧的人，他都不顾念。",
     Eng:"Therefore, men revere him, for does he not have regard for all the wise in heart?\"",
     Ind:"Itulah sebabnya Ia ditakuti orang; setiap orang yang menganggap dirinya mempunyai hikmat, tidak dihiraukan-Nya.\""

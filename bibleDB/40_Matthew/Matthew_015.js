@@ -3,49 +3,49 @@
 BibleDB.ref("Matthew",15,39);
 BibleDB.add([
   {Bible:"Matthew", Chapter:15, Verse:1, Page:1,
-    Kor:"<장로들의 전통(막 7:1-23)> 그 때에 예루살렘에서 바리새파 사람들과 율법학자들이 예수께 와서 말하였다.",
+    Kor:"그 때에 예루살렘에서 바리새파 사람들과 율법학자들이 예수께 와서 말하였다.",
     Chn:"那时，有法利赛人和文士从耶路撒冷来见耶稣，说：",
     Eng:"Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked,",
     Ind:"Kemudian datanglah beberapa orang Farisi dan ahli Taurat dari Yerusalem kepada Yesus dan berkata:"
   },
   {Bible:"Matthew", Chapter:15, Verse:2, Page:1,
-    Kor:"\"당신의 제자들은 어찌하여 장로들의 전통을 어기는 것입니까? 그들은 빵을 먹을 때에 손을 씻지 않습니다.\"",
+    Kor:"\"당신의 제자들은 어찌하여 장로들이 전하여 준 관습을 어깁니까? 그들은 빵을 먹을 때에, 손을 씻지 않습니다.\"",
     Chn:"「你的门徒为什么犯古人的遗传呢？因为吃饭的时候，他们不洗手。」",
     Eng:"\"Why do your disciples break the tradition of the elders? They don't wash their hands before they eat!\"",
     Ind:"\"Mengapa murid-murid-Mu melanggar adat istiadat nenek moyang kita? Mereka tidak membasuh tangan sebelum makan.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:3, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"그러면 너희는 어찌하여 너희의 전통 때문에 하나님의 계명을 어기느냐?",
+    Kor:"예수께서 그들에게 말씀하셨다. \"그러면 너희는 어찌하여 너희의 관습 때문에 하나님의 계명을 어기느냐?",
     Chn:"耶稣回答说：「你们为什么因着你们的遗传犯　神的诫命呢？",
     Eng:"Jesus replied, \"And why do you break the command of God for the sake of your tradition?",
     Ind:"Tetapi jawab Yesus kepada mereka: \"Mengapa kamupun melanggar perintah Allah demi adat istiadat nenek moyangmu?"
   },
   {Bible:"Matthew", Chapter:15, Verse:4, Page:1,
-    Kor:"하나님께서 a말씀하시기를 b'아버지와 어머니를 공경하여라' 하시고, 또 c'아버지나 어머니를 욕하는 자는 반드시 죽을 것이다' 하셨다.(a 다른 고대 사본들에는 '명하여 말씀하시기를' b 출 20:12; 신 5:16 c 출 21:17; 레 20:9)",
+    Kor:"하나님께서 말씀하시기를 '아버지와 어머니를 공경하여라' 하시고, 또 '아버지나 어머니를 욕하는 자는 반드시 죽을 것이다' 하셨다.",
     Chn:"神说：『当孝敬父母』；又说：『咒骂父母的，必治死他。』",
     Eng:"For God said, 'Honor your father and mother' and 'Anyone who curses his father or mother must be put to death.'",
     Ind:"Sebab Allah berfirman: Hormatilah ayahmu dan ibumu; dan lagi: Siapa yang mengutuki ayahnya atau ibunya pasti dihukum mati."
   },
   {Bible:"Matthew", Chapter:15, Verse:5, Page:1,
-    Kor:"그러나 너희는 말하기를, 누구든지 아버지나 어머니에게 '내게서 받으실 것이 하나님께 드리는 예물이 되었습니다' 하고 말만 하면,",
+    Kor:"그러나 너희는 말한다. 누구든지 아버지나 어머니에게 '내게서 받으실 것이 하나님께 드리는 예물이 되었습니다' 하고 말만 하면",
     Chn:"你们倒说：『无论何人对父母说：我所当奉给你的已经作了供献，",
     Eng:"But you say that if a man says to his father or mother, 'Whatever help you might otherwise have received from me is a gift devoted to God,'",
     Ind:"Tetapi kamu berkata: Barangsiapa berkata kepada bapanya atau kepada ibunya: Apa yang ada padaku yang dapat digunakan untuk pemeliharaanmu, sudah digunakan untuk persembahan kepada Allah,"
   },
   {Bible:"Matthew", Chapter:15, Verse:6, Page:1,
-    Kor:"그 사람은 제 d부모를 공경하지 않아도 된다고 한다. 이렇게 너희는 너희의 전통 때문에 하나님의 e말씀을 폐한다.(d 그, '아버지를' e 다른 고대 사본들에는 '법을')",
+    Kor:"제 부모를 공경하지 않아도 괜찮다고 가르친다. 이렇게 너희는 관습을 빌미로 하여 하나님의 말씀을 헛되게 한다.",
     Chn:"他就可以不孝敬父母。』这就是你们借着遗传，废了　神的诫命。",
     Eng:"he is not to 'honor his father' with it. Thus you nullify the word of God for the sake of your tradition.",
     Ind:"orang itu tidak wajib lagi menghormati bapanya atau ibunya. Dengan demikian firman Allah kamu nyatakan tidak berlaku demi adat istiadatmu sendiri."
   },
   {Bible:"Matthew", Chapter:15, Verse:7, Page:1,
-    Kor:"위선자들아! 이사야가 너희를 두고 적절히 예언하였다.",
+    Kor:"위선자들아! 이사야가 너희를 두고 적절히 예언하였다. 그가 말하였다.",
     Chn:"假冒为善的人哪，以赛亚指着你们说的预言是不错的。他说：",
     Eng:"You hypocrites! Isaiah was right when he prophesied about you:",
     Ind:"Hai orang-orang munafik! Benarlah nubuat Yesaya tentang kamu:"
   },
   {Bible:"Matthew", Chapter:15, Verse:8, Page:1,
-    Kor:"f'이 백성이 입술로는 나를 공경해도, 마음은 나에게서 멀리 떠나 있다. (f 사 29:13(칠십인역))",
+    Kor:"'이 백성은 입술로는 나를 공경해도, 마음은 나에게서 멀리 떠나 있다.",
     Chn:"这百姓用嘴唇尊敬我， 心却远离我；",
     Eng:"\"'These people honor me with their lips, but their hearts are far from me.",
     Ind:"Bangsa ini memuliakan Aku dengan bibirnya, padahal hatinya jauh dari pada-Ku."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Percuma mereka beribadah kepada-Ku, sedangkan ajaran yang mereka ajarkan ialah perintah manusia.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:10, Page:1,
-    Kor:"○예수께서 무리를 가까이 부르시고서 그들에게 말씀하셨다. \"너희는 내 말을 듣고 깨달아라.",
+    Kor:"○예수께서 무리를 가까이 부르시고서 그들에게 말씀하셨다. \"너희는 듣고 깨달아라.",
     Chn:"耶稣就叫了众人来，对他们说：「你们要听，也要明白。",
     Eng:"Jesus called the crowd to him and said, \"Listen and understand.",
     Ind:"Lalu Yesus memanggil orang banyak dan berkata kepada mereka:"
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"\"Dengar dan camkanlah: bukan yang masuk ke dalam mulut yang menajiskan orang, melainkan yang keluar dari mulut, itulah yang menajiskan orang.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:12, Page:1,
-    Kor:"그 때에 제자들이 다가와서 예수께 말하였다. \"바리새파 사람들이 이 말씀을 듣고 분개하고 있다는 것을 아십니까?\"",
+    Kor:"그 때에 제자들이 다가와서 예수께 말하기를 \"바리새파 사람들이 이 말씀을 듣고 분개하고 있다는 것을 아십니까?\" 하였다.",
     Chn:"当时，门徒进前来对他说：「法利赛人听见这话，不服，你知道吗？」",
     Eng:"Then the disciples came to him and asked, \"Do you know that the Pharisees were offended when they heard this?\"",
     Ind:"Maka datanglah murid-murid-Nya dan bertanya kepada-Nya: \"Engkau tahu bahwa perkataan-Mu itu telah menjadi batu sandungan bagi orang-orang Farisi?\""
   },
   {Bible:"Matthew", Chapter:15, Verse:13, Page:1,
-    Kor:"예수께서 대답하셨다. \"나의 하늘 아버지께서는 자기가 심지 않으신 식물은 모두 뽑아 버리실 것이다.",
+    Kor:"예수께서 대답하여 말씀하셨다. \"나의 하늘 아버지께서는 심지 않으신 식물은 모두 뽑아 버리실 것이다.",
     Chn:"耶稣回答说：「凡栽种的物，若不是我天父栽种的，必要拔出来。",
     Eng:"He replied, \"Every plant that my heavenly Father has not planted will be pulled up by the roots.",
     Ind:"Jawab Yesus: \"Setiap tanaman yang tidak ditanam oleh Bapa-Ku yang di sorga akan dicabut dengan akar-akarnya."
   },
   {Bible:"Matthew", Chapter:15, Verse:14, Page:1,
-    Kor:"그들을 내버려 두어라. 그들은 눈 먼 사람이면서 눈 먼 사람을 인도하는 길잡이들이다. 눈 먼 사람이 눈 먼 사람을 인도하면, 둘 다 구덩이에 빠질 것이다.\"",
+    Kor:"그들을 내버려 두어라. 그들은 눈먼 사람이면서 눈먼 사람을 인도하는 길잡이들이다. 눈먼 사람이 눈먼 사람을 인도하면, 둘 다 구덩이에 빠질 것이다.\"",
     Chn:"任凭他们吧！他们是瞎眼领路的；若是瞎子领瞎子，两个人都要掉在坑里。」",
     Eng:"Leave them; they are blind guides. If a blind man leads a blind man, both will fall into a pit.\"",
     Ind:"Biarkanlah mereka itu. Mereka orang buta yang menuntun orang buta. Jika orang buta menuntun orang buta, pasti keduanya jatuh ke dalam lobang.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:15, Page:1,
-    Kor:"베드로가 예수께 \"그 비유를 우리에게 설명해 주십시오\" 하고 청하니,",
+    Kor:"베드로가 예수께 \"그 비유를 우리에게 설명해 주십시오\" 하고 청하였다.",
     Chn:"彼得对耶稣说：「请将这比喻讲给我们听。」",
     Eng:"Peter said, \"Explain the parable to us.\"",
     Ind:"Lalu Petrus berkata kepada-Nya: \"Jelaskanlah perumpamaan itu kepada kami.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi apa yang keluar dari mulut berasal dari hati dan itulah yang menajiskan orang."
   },
   {Bible:"Matthew", Chapter:15, Verse:19, Page:1,
-    Kor:"마음에서 악한 생각들이 나온다. 곧 살인과 간음과 음행과 도둑질과 거짓 증언과 비방이다.",
+    Kor:"마음에서 악한 생각들이 나오는데, 곧 살인과 간음과 음행과 도둑질과 거짓 증언과 비방이다.",
     Chn:"因为从心里发出来的，有恶念、凶杀、奸淫、苟合、偷盗、妄证、谤 。",
     Eng:"For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, slander.",
     Ind:"Karena dari hati timbul segala pikiran jahat, pembunuhan, perzinahan, percabulan, pencurian, sumpah palsu dan hujat."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Itulah yang menajiskan orang. Tetapi makan dengan tangan yang tidak dibasuh tidak menajiskan orang.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:21, Page:1,
-    Kor:"<가나안 여자의 믿음(막 7:24-30)> ○예수께서 거기에서 떠나서, 두로와 시돈 지방으로 가셨다.",
+    Kor:"○예수께서 거기에서 떠나서, 두로와 시돈 지방으로 가셨다.",
     Chn:"耶稣离开那里，退到泰尔、西顿的境内去。",
     Eng:"Leaving that place, Jesus withdrew to the region of Tyre and Sidon.",
     Ind:"Lalu Yesus pergi dari situ dan menyingkir ke daerah Tirus dan Sidon."
@@ -135,25 +135,25 @@ BibleDB.add([
     Ind:"Maka datanglah seorang perempuan Kanaan dari daerah itu dan berseru: \"Kasihanilah aku, ya Tuhan, Anak Daud, karena anakku perempuan kerasukan setan dan sangat menderita.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:23, Page:1,
-    Kor:"그러나 예수께서는 한 마디도 대답하지 않으셨다. 그 때에 제자들이 다가와서, 예수께 간청하였다. \"저 여자가 우리 뒤에서 외치고 있으니, 그를 안심시켜서 떠나보내 주십시오.\"",
+    Kor:"그러나 예수께서는 한 마디도 대답하지 않으셨다. 그 때에 제자들이 다가와서 \"저 여자가 우리 뒤에서 외치고 있으니, 그를 돌려보내 주십시오\" 하고 청하였다.",
     Chn:"耶稣却一言不答。门徒进前来，求他说：「这妇人在我们后头喊叫，请打发她走吧。」",
     Eng:"Jesus did not answer a word. So his disciples came to him and urged him, \"Send her away, for she keeps crying out after us.\"",
     Ind:"Tetapi Yesus sama sekali tidak menjawabnya. Lalu murid-murid-Nya datang dan meminta kepada-Nya: \"Suruhlah ia pergi, ia mengikuti kita dengan berteriak-teriak.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:24, Page:1,
-    Kor:"예수께서 대답하셨다. \"나는 오직 이스라엘 집의 길을 잃은 양들에게 보내심을 받았을 따름이다.\"",
+    Kor:"그러나 예수께서 대답하여 말씀하시기를 \"나는 오직 이스라엘 집의 길을 잃은 양들에게 보내심을 받았을 따름이다\" 하셨다.",
     Chn:"耶稣说：「我奉差遣不过是到以色列家迷失的羊那里去。」",
     Eng:"He answered, \"I was sent only to the lost sheep of Israel.\"",
     Ind:"Jawab Yesus: \"Aku diutus hanya kepada domba-domba yang hilang dari umat Israel.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:25, Page:1,
-    Kor:"그러나 그 여자는 나아와서, 예수께 무릎을 꿇고 간청하였다. \"주님, 나를 도와주십시오.\"",
+    Kor:"그러나 그 여자는 와서, 예수께 무릎을 꿇고 \"주님, 나를 도와주십시오\" 하고 간청하였다.",
     Chn:"那妇人来拜他，说：「主啊，帮助我！」",
     Eng:"The woman came and knelt before him. \"Lord, help me!\" she said.",
     Ind:"Tetapi perempuan itu mendekat dan menyembah Dia sambil berkata: \"Tuhan, tolonglah aku.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:26, Page:1,
-    Kor:"예수께서 대답하셨다. \"자녀들의 빵을 집어서, 개들에게 던져 주는 것은 옳지 않다.\"",
+    Kor:"예수께서 대답하시기를 \"아이들이 먹을 빵을 집어서, 개들에게 던져 주는 것은 옳지 않다\" 하시니,",
     Chn:"他回答说：「不好拿儿女的饼丢给狗吃。」",
     Eng:"He replied, \"It is not right to take the children's bread and toss it to their dogs.\"",
     Ind:"Tetapi Yesus menjawab: \"Tidak patut mengambil roti yang disediakan bagi anak-anak dan melemparkannya kepada anjing.\""
@@ -165,31 +165,31 @@ BibleDB.add([
     Ind:"Kata perempuan itu: \"Benar Tuhan, namun anjing itu makan remah-remah yang jatuh dari meja tuannya.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:28, Page:1,
-    Kor:"그제서야 예수께서 그 여자에게 말씀하셨다. \"여자여, 참으로 네 믿음이 크다. 네 소원대로 되어라.\" 바로 그 시각에 그 여자의 딸이 나았다.",
+    Kor:"그제서야 예수께서 그 여자에게 말씀하셨다. \"여자야, 참으로 네 믿음이 크다. 네 소원대로 될 것이다.\" 바로 그 때에 그 여자의 딸이 나았다.",
     Chn:"耶稣说：「妇人，你的信心是大的！照你所要的，给你成全了吧。」从那时候，她女儿就好了。",
     Eng:"Then Jesus answered, \"Woman, you have great faith! Your request is granted.\" And her daughter was healed from that very hour.",
     Ind:"Maka Yesus menjawab dan berkata kepadanya: \"Hai ibu, besar imanmu, maka jadilah kepadamu seperti yang kaukehendaki.\" Dan seketika itu juga anaknya sembuh."
   },
   {Bible:"Matthew", Chapter:15, Verse:29, Page:1,
-    Kor:"<많은 병자를 고치신 예수> ○예수께서 거기에서 떠나서, 갈릴리 바닷가에 가셨다. 그리고 산에 올라가서, 거기에 앉으셨다.",
+    Kor:"○예수께서 거기에서 떠나서, 갈릴리 바닷가에 가셨다. 그리고 산에 올라가서, 거기에 앉으셨다.",
     Chn:"耶稣离开那地方，来到靠近加利利的海边，就上山坐下。",
     Eng:"Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down.",
     Ind:"Setelah meninggalkan daerah itu, Yesus menyusur pantai danau Galilea dan naik ke atas bukit lalu duduk di situ."
   },
   {Bible:"Matthew", Chapter:15, Verse:30, Page:1,
-    Kor:"많은 무리가, 걷지 못하는 사람과 지체를 잃은 사람과 눈 먼 사람과 말 못하는 사람과 그 밖에 아픈 사람을 많이 데리고 예수께로 다가와서, 그 발 앞에 놓았다. 그러자 예수께서는 그들을 고쳐 주셨다.",
+    Kor:"많은 무리가, 일어서지 못하는 이와 맹인과 지체 장애자와 말 못하는 이와 그 밖에 아픈 사람들을 많이 데리고 예수께로 와서, 그 발 앞에 놓았다. 예수께서는 그들을 고쳐 주셨다.",
     Chn:"有许多人到他那里，带着瘸子、瞎子、哑巴、有残疾的，和好些别的病人，都放在他脚前；他就治好了他们。",
     Eng:"Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them.",
     Ind:"Kemudian orang banyak berbondong-bondong datang kepada-Nya membawa orang lumpuh, orang timpang, orang buta, orang bisu dan banyak lagi yang lain, lalu meletakkan mereka pada kaki Yesus dan Ia menyembuhkan mereka semuanya."
   },
   {Bible:"Matthew", Chapter:15, Verse:31, Page:1,
-    Kor:"그래서 무리는, 말 못하는 사람이 말을 하고, 지체 장애인이 성한 몸이 되고, 걷지 못하는 사람이 걸어다니고, 눈 먼 사람이 보게 된 것을 보고 놀랐고, 이스라엘의 하나님께 영광을 돌렸다.",
+    Kor:"그래서 무리는, 말 못하는 이가 말을 하고, 지체 장애자가 성한 몸이 되고, 일어서지 못하는 이가 걸어다니고, 맹인이 보는 것을 보면서 놀랐고, 이스라엘의 하나님께 영광을 돌렸다.",
     Chn:"甚至众人都希奇；因为看见哑巴说话，残疾的痊愈，瘸子行走，瞎子看见，他们就归荣耀给以色列的　神。",
     Eng:"The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they praised the God of Israel.",
     Ind:"Maka takjublah orang banyak itu melihat orang bisu berkata-kata, orang timpang sembuh, orang lumpuh berjalan, orang buta melihat, dan mereka memuliakan Allah Israel."
   },
   {Bible:"Matthew", Chapter:15, Verse:32, Page:1,
-    Kor:"<사천 명을 먹이시다(막 8:1-10)> ○그 때에 예수께서 제자들을 가까이 불러 놓고 말씀하셨다. \"저 무리가 나와 함께 있은 지가 벌써 사흘이나 되었는데, 먹을 것이 없으니, 가엾다. 그들을 굶주린 채로 돌려보내고 싶지 않다. 가다가 길에서 쓰러질지도 모른다.\"",
+    Kor:"○그 때에 예수께서 제자들을 가까이 불러 놓고 말씀하셨다. \"저 무리가 나와 함께 있은 지가 벌써 사흘이나 되었는데, 먹을 것이 없으니, 가엾다. 그들을 굶은 채로 돌려보내고 싶지 않다. 가다가 길에서 쓰러질지도 모른다.\"",
     Chn:"耶稣叫门徒来，说：「我怜悯这众人；因为他们同我在这里已经三天，也没有吃的了。我不愿意叫他们饿着回去，恐怕在路上困乏。」",
     Eng:"Jesus called his disciples to him and said, \"I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way.\"",
     Ind:"Lalu Yesus memanggil murid-murid-Nya dan berkata: \"Hati-Ku tergerak oleh belas kasihan kepada orang banyak itu. Sudah tiga hari mereka mengikuti Aku dan mereka tidak mempunyai makanan. Aku tidak mau menyuruh mereka pulang dengan lapar, nanti mereka pingsan di jalan.\""
@@ -201,37 +201,37 @@ BibleDB.add([
     Ind:"Kata murid-murid-Nya kepada-Nya: \"Bagaimana di tempat sunyi ini kita mendapat roti untuk mengenyangkan orang banyak yang begitu besar jumlahnya?\""
   },
   {Bible:"Matthew", Chapter:15, Verse:34, Page:1,
-    Kor:"예수께서 그들에게 물으셨다. \"너희에게 빵이 몇 개나 있느냐?\" 그들이 대답하였다. \"일곱 개가 있습니다. 그리고 작은 물고기가 몇 마리 있습니다.\"",
+    Kor:"예수께서 그들에게 물으시기를 \"너희에게 빵이 몇 개나 있느냐?\" 하시니, 그들은 대답하기를 \"일곱 개가 있습니다. 그리고 작은 물고기가 몇 마리 있습니다\" 하였다.",
     Chn:"耶稣说：「你们有多少饼？」他们说：「有七个，还有几条小鱼。」",
     Eng:"\"How many loaves do you have?\" Jesus asked. \"Seven,\" they replied, \"and a few small fish.\"",
     Ind:"Kata Yesus kepada mereka: \"Berapa roti ada padamu?\" \"Tujuh,\" jawab mereka, \"dan ada lagi beberapa ikan kecil.\""
   },
   {Bible:"Matthew", Chapter:15, Verse:35, Page:1,
-    Kor:"예수께서 무리에게 명하여 땅에 앉게 하시고 나서,",
+    Kor:"예수께서 무리에게 명하여 땅에 앉게 하시고서,",
     Chn:"他就吩咐众人坐在地上，",
     Eng:"He told the crowd to sit down on the ground.",
     Ind:"Lalu Yesus menyuruh orang banyak itu duduk di tanah."
   },
   {Bible:"Matthew", Chapter:15, Verse:36, Page:1,
-    Kor:"빵 일곱 개와 물고기를 들어서 감사 기도를 드리신 다음에, 떼어서 제자들에게 주시니, 제자들이 무리에게 나누어주었다.",
+    Kor:"빵 일곱 개와 물고기를 손에 드시고, 감사를 드리신 뒤에, 떼어서 제자들에게 주시니, 제자들이 무리에게 나누어 주었다.",
     Chn:"拿着这七个饼和几条鱼，祝谢了，擘开，递给门徒；门徒又递给众人。",
     Eng:"Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.",
     Ind:"Sesudah itu Ia mengambil ketujuh roti dan ikan-ikan itu, mengucap syukur, memecah-mecahkannya dan memberikannya kepada murid-murid-Nya, lalu murid-murid-Nya memberikannya pula kepada orang banyak."
   },
   {Bible:"Matthew", Chapter:15, Verse:37, Page:1,
-    Kor:"사람들이 모두 배불리 먹었다. 그리고 나서 남은 부스러기를 주워 모으니, 일곱 광주리에 가득 찼다.",
+    Kor:"사람들이 모두 배불리 먹었다. 그런 다음에 남은 부스러기를 주워 모으니, 일곱 광주리에 가득 찼다.",
     Chn:"众人都吃，并且吃饱了，收拾剩下的零碎，装满了七个筐子。",
     Eng:"They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.",
     Ind:"Dan mereka semuanya makan sampai kenyang. Kemudian orang mengumpulkan potongan-potongan roti yang sisa, tujuh bakul penuh."
   },
   {Bible:"Matthew", Chapter:15, Verse:38, Page:1,
-    Kor:"먹은 사람은 여자들과 아이들 외에도, 남자만 사천 명이었다.",
+    Kor:"먹은 사람은 여자들과 아이들 밖에도, 남자만 사천 명이었다.",
     Chn:"吃的人，除了妇女孩子，共有四千。",
     Eng:"The number of those who ate was four thousand, besides women and children.",
     Ind:"Yang ikut makan ialah empat ribu laki-laki, tidak termasuk perempuan dan anak-anak."
   },
   {Bible:"Matthew", Chapter:15, Verse:39, Page:1,
-    Kor:"예수께서 무리를 헤쳐 보내신 뒤에, 배에 올라 g마가단 지역으로 가셨다.(g 다른 고대 사본에는 '막달라' 또는 '막달란')",
+    Kor:"예수께서 무리를 헤쳐 보내신 뒤에, 배에 올라 마가단 지역으로 가셨다.",
     Chn:"耶稣叫众人散去，就上船，来到马加丹的境界。",
     Eng:"After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.",
     Ind:"Lalu Yesus menyuruh orang banyak itu pulang. Ia naik perahu dan bertolak ke daerah Magadan."

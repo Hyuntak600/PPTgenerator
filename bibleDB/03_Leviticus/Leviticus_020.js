@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",20,27);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:20, Verse:1, Page:1,
-    Kor:"<사형에 해당되는 죄> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:20, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 다음과 같이 일러라. ○이스라엘 자손 가운데서 어떤 사람이든지, 또는 이스라엘에서 나그네로 사는 외국 사람 가운데서 어떤 사람이든지, 제 자식을 몰렉에게 제물로 준다면, 그를 반드시 사형에 처해야 한다. 그 지방 사람이 그를 돌로 쳐죽여야 한다.",
+    Kor:"\"너는 이스라엘 자손에게 다음과 같이 일러라. ○이스라엘 자손 가운데서 어떤 사람이든지, 또는 이스라엘에서 나그네로 사는 외국 사람 가운데서 어떤 사람이든지, 제 자식을 몰렉에게 제물로 준다면, 그를 사형에 처해야 한다. 그 지방 사람이 그를 돌로 쳐죽여야 한다.",
     Chn:"「你还要晓谕以色列人说：凡以色列人，或是在以色列中寄居的外人，把自己的儿女献给摩洛的，总要治死他；本地人要用石头把他打死。",
     Eng:"\"Say to the Israelites: 'Any Israelite or any alien living in Israel who gives any of his children to Molech must be put to death. The people of the community are to stone him.",
     Ind:"\"Engkau harus berkata kepada orang Israel: Setiap orang, baik dari antara orang Israel maupun dari antara orang asing yang tinggal di tengah-tengah orang Israel, yang menyerahkan seorang dari anak-anaknya kepada Molokh, pastilah ia dihukum mati, yakni rakyat negeri harus melontari dia dengan batu."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Apabila ada seseorang yang mengutuki ayahnya atau ibunya, pastilah ia dihukum mati; ia telah mengutuki ayahnya atau ibunya, maka darahnya tertimpa kepadanya sendiri."
   },
   {Bible:"Leviticus", Chapter:20, Verse:10, Page:1,
-    Kor:"○남자가 다른 남자의 아내 곧 자기의 이웃집 아내와 간통하면, 간음한 두 남녀는 함께 반드시 사형에 처해야 한다.",
+    Kor:"○남자가 다른 남자의 아내, 곧 자기의 이웃집 아내와 간통하면, 간음한 두 남녀는 함께 사형에 처해야 한다.",
     Chn:"「与邻舍之妻行淫的，奸夫淫妇都必治死。",
     Eng:"\"'If a man commits adultery with another man's wife--with the wife of his neighbor--both the adulterer and the adulteress must be put to death.",
     Ind:"Bila seorang laki-laki berzinah dengan isteri orang lain, yakni berzinah dengan isteri sesamanya manusia, pastilah keduanya dihukum mati, baik laki-laki maupun perempuan yang berzinah itu."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Kuduslah kamu bagi-Ku, sebab Aku ini, TUHAN, kudus dan Aku telah memisahkan kamu dari bangsa-bangsa lain, supaya kamu menjadi milik-Ku."
   },
   {Bible:"Leviticus", Chapter:20, Verse:27, Page:1,
-    Kor:"○혼백을 불러내는 사람이나 마법을 쓰는 사람은, 남자이든지 여자이든지, 모두 돌로 쳐서 반드시 사형시켜야 한다. 그들은 자기 죄값으로 죽는 것이다.\"",
+    Kor:"○혼백을 불러내는 사람이나 마법을 쓰는 사람은, 남자이든지 여자이든지, 모두 돌로 쳐서 사형시켜야 한다. 그들은 자기 죄값으로 죽는 것이다.\"",
     Chn:"「无论男女，是交鬼的或行巫术的，总要治死他们。人必用石头把他们打死，罪要归到他们身上。」",
     Eng:"\"'A man or woman who is a medium or spiritist among you must be put to death. You are to stone them; their blood will be on their own heads.'\"",
     Ind:"Apabila seorang laki-laki atau perempuan dirasuk arwah atau roh peramal, pastilah mereka dihukum mati, yakni mereka harus dilontari dengan batu dan darah mereka tertimpa kepada mereka sendiri.\""

@@ -3,25 +3,25 @@
 BibleDB.ref("Ezekiel",25,17);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:25, Verse:1, Page:1,
-    Kor:"<암몬에 대한 심판 예언> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:25, Verse:2, Page:1,
-    Kor:"○\"사람아, 암몬 자손이 있는 쪽으로 얼굴을 돌리고, 그들을 규탄하는 예언을 하여라.",
+    Kor:"\"사람아, 암몬 자손이 있는 쪽으로 얼굴을 돌리고, 그들을 규탄하는 예언을 하여라.",
     Chn:"「人子啊，你要面向亚扪人说预言，攻击他们，",
     Eng:"\"Son of man, set your face against the Ammonites and prophesy against them.",
     Ind:"\"Hai anak manusia, tujukanlah mukamu kepada bani Amon dan bernubuatlah melawan mereka!"
   },
   {Bible:"Ezekiel", Chapter:25, Verse:3, Page:1,
-    Kor:"너는 암몬 자손에게 전하여라. '그들에게 나 주 하나님의 말을 들으라고 하여라. 나 주 하나님이 말한다. ○내 성전이 더럽혀졌을 때에, 너는 그것을 보고 잘 되었다고 하였고, 이스라엘 땅이 황폐하게 되었을 때에, 너희는 그것을 보고도 잘 되었다고 하였고, 유다 백성이 포로로 잡혀 끌려갔을 때에도, 그들을 보고 잘 되었다고 소리쳤다.",
+    Kor:"너는 암몬 자손에게 전하여라. '그들에게 나 주 하나님의 말을 들으라고 하여라. 나 주 하나님이 말한다. 내 성전이 더럽혀졌을 때에, 너는 그것을 보고 잘 되었다고 하였고, 이스라엘 땅이 황폐하게 되었을 때에, 너희는 그것을 보고도 잘 되었다고 하였고, 유다 백성이 포로로 잡혀 끌려갔을 때에도, 그들을 보고 잘 되었다고 소리쳤다.",
     Chn:"说：你们当听主耶和华的话。主耶和华如此说：我的圣所被亵渎，以色列地变荒凉，犹大家被掳掠；那时，你便因这些事说：『阿哈！』",
     Eng:"Say to them, 'Hear the word of the Sovereign LORD. This is what the Sovereign LORD says: Because you said \"Aha!\" over my sanctuary when it was desecrated and over the land of Israel when it was laid waste and over the people of Judah when they went into exile,",
     Ind:"Katakanlah kepada bani Amon: Dengarlah firman Tuhan ALLAH: Beginilah firman Tuhan ALLAH: Oleh karena engkau menyerukan: Syukur! mengenai tempat kudus-Ku, waktu kekudusannya dilanggar, dan mengenai tanah Israel, waktu itu dijadikan sunyi sepi, dan mengenai kaum Yehuda, waktu mereka harus pergi ke dalam pembuangan,"
   },
   {Bible:"Ezekiel", Chapter:25, Verse:4, Page:1,
-    Kor:"그러므로 내가 너를 동방 사람들의 소유로 넘겨 주겠다. 그들이 네 땅에 들어와서 진을 치고, 네 땅 가운데 자기들이 살 장막을 칠 것이다. 그들이 네 땅에서 나는 열매를 먹고, 네 땅에서 나는 젖을 마실 것이다.",
+    Kor:"그러므로 내가 너를 동방 사람들의 소유로 넘겨 주겠다. 그들이 네 땅에 들어와서 진을 치고, 네 땅 가운데 자기들이 살 장막을 칠 것이다. 그들이 네 땅에서 나는 열매를 먹고, 네 땅에서 나는 우유를 마실 것이다.",
     Chn:"所以我必将你的地交给东方人为业；他们必在你的地上安营居住，吃你的果子，喝你的奶。",
     Eng:"therefore I am going to give you to the people of the East as a possession. They will set up their camps and pitch their tents among you; they will eat your fruit and drink your milk.",
     Ind:"oleh sebab itu, sungguh, Aku menyerahkan engkau kepada orang dari sebelah timur menjadi miliknya; mereka akan mendirikan perkemahannya padamu dan membangun tempat kediamannya; mereka akan memakan buah-buahanmu dan meminum susu ternakmu."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"oleh sebab itu, sungguh, Aku akan mengacungkan tangan-Ku melawan engkau dan menyerahkan engkau menjadi jarahan bagi suku-suku bangsa dan melenyapkan engkau dari tengah bangsa-bangsa dan membinasakan engkau dari negeri-negeri; Aku akan memusnahkan engkau. Dengan demikian engkau akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:25, Verse:8, Page:1,
-    Kor:"<모압에 대한 심판 예언> ○\"나 주 하나님이 말한다. a모압이 말하기를, 유다 족속도 모든 이방 백성이나 다름이 없다고 한다.(a 칠십인역과 고대 라틴어역을 따름. 히, '모압과 세일')",
+    Kor:"○\"나 주 하나님이 말한다. 모압이 말하기를, 유다 족속도 모든 이방 백성이나 다름이 없다고 한다.",
     Chn:"主耶和华如此说：「因摩押和西珥人说：『看哪，犹大家与列国无异』，",
     Eng:"\"This is what the Sovereign LORD says: 'Because Moab and Seir said, \"Look, the house of Judah has become like all the other nations,\"",
     Ind:"Beginilah firman Tuhan ALLAH: \"Oleh karena Moab berkata: Sungguh, kaum Yehuda adalah sama dengan semua bangsa lain,"
   },
   {Bible:"Ezekiel", Chapter:25, Verse:9, Page:1,
-    Kor:"그러므로 내가 모압의 국경지역에 있는 성읍들 곧 그 나라의 자랑인 벳여시못과 바알므온과 기랴다임이 적의 공격을 받도록 허용하겠다.",
+    Kor:"그러므로 내가 모압의 국경지역에 있는 성읍들, 곧 그 나라의 자랑인 벳여시못과 바알므온과 기랴다임이 적의 공격을 받도록, 내가 허용하겠다.",
     Chn:"所以我要破开摩押边界上的城邑，就是摩押人看为本国之荣耀的伯·耶西末、巴力·免、基列亭，",
     Eng:"therefore I will expose the flank of Moab, beginning at its frontier towns--Beth Jeshimoth, Baal Meon and Kiriathaim--the glory of that land.",
     Ind:"oleh sebab itu, sungguh, Aku akan membiarkan dataran tinggi Moab terbuka dengan runtuhnya kota-kotanya, ya, kota-kotanya tanpa terkecuali, yaitu kepermaian negeri itu: Bet-Yesimot, Baal-Meon dan Kiryataim."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Aku akan menjatuhkan hukuman kepada Moab dan mereka akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:25, Verse:12, Page:1,
-    Kor:"<에돔에 대한 심판> ○\"나 주 하나님이 말한다. 에돔이 지나친 복수심을 품고 유다 족속을 괴롭히며, 그들에게 지나치게 보복함으로써 큰 죄를 지었다.",
+    Kor:"○\"나 주 하나님이 말한다. 에돔이 지나친 복수심을 품고 유다 족속을 괴롭히며, 그들에게 지나치게 보복함으로써 큰 죄를 지었다.",
     Chn:"主耶和华如此说：「因为以东报仇雪恨，攻击犹大家，向他们报仇，大大有罪，",
     Eng:"\"This is what the Sovereign LORD says: 'Because Edom took revenge on the house of Judah and became very guilty by doing so,",
     Ind:"Beginilah firman Tuhan ALLAH: \"Oleh karena Edom membalaskan dendam kesumat terhadap kaum Yehuda dan membuat kesalahan besar dengan melakukan pembalasan terhadap mereka,"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Aku akan melakukan pembalasan-Ku terhadap Edom dengan tangan umat-Ku Israel. Dan mereka akan memperlakukan Edom selaras dengan murka-Ku dan amarah-Ku, dan mereka akan mengetahui, bahwa Akulah yang membalas, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:25, Verse:15, Page:1,
-    Kor:"<블레셋에 대한 심판 예언> ○\"나 주 하나님이 말한다. 블레셋 사람이 옛날부터 품어 온 원한으로 이스라엘을 멸망시키려고, 복수심에 불타서, 마음 속에 앙심을 품고, 지나치게 보복하였다.",
+    Kor:"○\"나 주 하나님이 말한다. 블레셋 사람이 옛날부터 품어 온 원한으로 이스라엘을 멸망시키려고, 복수심에 불타서, 마음 속에 앙심을 품고, 지나치게 보복하였다.",
     Chn:"主耶和华如此说：「因非利士人向犹大人报仇，就是以恨恶的心报仇雪恨，永怀仇恨，要毁灭他们，",
     Eng:"\"This is what the Sovereign LORD says: 'Because the Philistines acted in vengeance and took revenge with malice in their hearts, and with ancient hostility sought to destroy Judah,",
     Ind:"Beginilah firman Tuhan ALLAH: \"Oleh karena orang Filistin membalaskan dendam kesumat dan di dalam kegembiraannya atas kecelakaan Israel melakukan pembalasan dengan melakukan pembinasaan karena rasa permusuhan yang turun-temurun,"

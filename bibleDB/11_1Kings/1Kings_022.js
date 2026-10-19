@@ -1,9 +1,9 @@
 // 열왕기상 22장 · 1Kings 22
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("1Kings",22,53);
+BibleDB.ref("1Kings",22,54);
 BibleDB.add([
   {Bible:"1Kings", Chapter:22, Verse:1, Page:1,
-    Kor:"<예언자 미가야가 아합에게 경고하다(대하 18:2-27)> 시리아와 이스라엘 사이에는 세 해 동안이나 전쟁이 없었다.",
+    Kor:"시리아와 이스라엘 사이에는 세 해 동안이나 전쟁이 없었다.",
     Chn:"亚兰国和以色列国三年没有争战。",
     Eng:"For three years there was no war between Aram and Israel.",
     Ind:"Tiga tahun lamanya orang tinggal aman dengan tidak ada perang antara Aram dan Israel."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Pada tahun yang ketiga pergilah Yosafat, raja Yehuda, kepada raja Israel."
   },
   {Bible:"1Kings", Chapter:22, Verse:3, Page:1,
-    Kor:"이스라엘 왕은 자기의 신하들에게 말하였다. \"길르앗에 있는 라못은 우리 땅인데도, 우리가 그 땅을 시리아 왕의 손에서 다시 찾아올 생각조차 하지 않고 있소. 경들은 이것을 알고 있었소?\"",
+    Kor:"이스라엘 왕은 자기의 신하들에게 말하였다. \"길르앗에 있는 라못은 우리 땅인데도, 우리가 그 땅을 시리아 왕의 손에서 다시 찾아올 생각조차 하지 않고 있다. 너희는 이것을 알고 있었느냐?\"",
     Chn:"以色列王对臣仆说：「你们不知道基列的拉末是属我们的吗？我们岂可静坐不动，不从亚兰王手里夺回来吗？」",
     Eng:"The king of Israel had said to his officials, \"Don't you know that Ramoth Gilead belongs to us and yet we are doing nothing to retake it from the king of Aram?\"",
     Ind:"Berkatalah raja Israel kepada pegawai-pegawainya: \"Tahukah kamu, bahwa Ramot-Gilead sebenarnya milik kita? Tetapi kita tinggal diam saja dan tidak merebutnya dari tangan raja negeri Aram.\""
@@ -27,25 +27,25 @@ BibleDB.add([
     Ind:"Lalu katanya kepada Yosafat: \"Maukah engkau pergi bersama-sama aku untuk memerangi Ramot-Gilead?\" Jawab Yosafat kepada raja Israel: \"Kita sama-sama, aku dan engkau, rakyatku dan rakyatmu, kudaku dan kudamu.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:5, Page:1,
-    Kor:"그러면서도 여호사밧은 이스라엘 왕에게 말하였다. \"그러나 먼저 주님의 뜻을 알아 봄이 좋을 것 같습니다.\"",
+    Kor:"그러면서도 여호사밧은 이스라엘 왕에게 말하였다. \"그러나 먼저 주의 뜻을 알아 봄이 좋을 것 같습니다.\"",
     Chn:"约沙法对以色列王说：「请你先求问耶和华。」",
     Eng:"But Jehoshaphat also said to the king of Israel, \"First seek the counsel of the LORD.\"",
     Ind:"Tetapi Yosafat berkata kepada raja Israel: \"Baiklah tanyakan dahulu firman TUHAN.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:6, Page:1,
-    Kor:"○그러자 이스라엘 왕은 예언자 사백 명 가량을 모아 놓고서, 그들에게 물었다. \"내가 길르앗의 라못을 치러 올라가는 것이 좋겠소, 아니면 그만두는 것이 좋겠소?\" 그러자 예언자들은 대답하였다. \"올라가십시오. 주님께서 그 성을 임금님의 손에 넘겨 주실 것입니다.\"",
+    Kor:"○그러자 이스라엘 왕은 예언자 사백 명 가량을 모아 놓고서, 그들에게 물었다. \"내가 길르앗의 라못을 치러 올라가는 것이 좋겠소, 아니면 그만두는 것이 좋겠소?\" 그러자 예언자들은 대답하였다. \"올라가십시오. 주께서 그 성을 임금님의 손에 넘겨 주실 것입니다.\"",
     Chn:"于是以色列王招聚先知，约有四百人，问他们说：「我上去攻取基列的拉末可以不可以？」他们说：「可以上去，因为主必将那城交在王的手里。」",
     Eng:"So the king of Israel brought together the prophets--about four hundred men--and asked them, \"Shall I go to war against Ramoth Gilead, or shall I refrain?\" \"Go,\" they answered, \"for the Lord will give it into the king's hand.\"",
     Ind:"Lalu raja Israel mengumpulkan para nabi, kira-kira empat ratus orang banyaknya, kemudian bertanyalah ia kepada mereka: \"Apakah aku boleh pergi berperang melawan Ramot-Gilead atau aku membatalkannya?\" Jawab mereka: \"Majulah! Tuhan akan menyerahkannya ke dalam tangan raja.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:7, Page:1,
-    Kor:"여호사밧이 물었다. \"이 밖에 우리가 물어 볼 만한 주님의 예언자가 또 없습니까?\"",
+    Kor:"여호사밧이 물었다. \"이 밖에 우리가 물어 볼 만한 주의 예언자가 또 없습니까?\"",
     Chn:"约沙法说：「这里不是还有耶和华的先知，我们可以求问他吗？」",
     Eng:"But Jehoshaphat asked, \"Is there not a prophet of the LORD here whom we can inquire of?\"",
     Ind:"Tetapi Yosafat bertanya: \"Tidak adakah lagi di sini seorang nabi TUHAN, supaya dengan perantaraannya kita dapat meminta petunjuk?\""
   },
   {Bible:"1Kings", Chapter:22, Verse:8, Page:1,
-    Kor:"이스라엘 왕은 여호사밧에게 대답하였다. \"주님의 뜻을 물어 볼 사람으로서, 이믈라의 아들 미가야라고 하는 예언자가 있기는 합니다만, 나는 그를 싫어합니다. 그는 한 번도 나에게 무엇인가 길한 것을 예언한 적이 없고, 언제나 흉한 것만 예언하곤 합니다.\" 여호사밧이 다시 제안하였다. \"임금님께서 예언자를 두고 그렇게 말씀하시면 안 됩니다.\"",
+    Kor:"이스라엘 왕은 여호사밧에게 대답하였다. \"주의 뜻을 물어 볼 사람으로서, 이믈라의 아들 미가야라고 하는 예언자가 있기는 합니다만, 나는 그를 싫어합니다. 그는 한 번도 나에게 무엇인가 길한 것을 예언한 적이 없고, 언제나 흉한 것만 예언하곤 합니다.\" 여호사밧이 다시 제안하였다. \"임금님께서 예언자를 두고 그렇게 말씀하시면 안 됩니다.\"",
     Chn:"以色列王对约沙法说：「还有一个人，是音拉的儿子米该雅，我们可以托他求问耶和华。只是我恨他；因为他指着我所说的预言，不说吉语，单说凶言。」约沙法说：「王不必这样说。」",
     Eng:"The king of Israel answered Jehoshaphat, \"There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good about me, but always bad. He is Micaiah son of Imlah.\" \"The king should not say that,\" Jehoshaphat replied.",
     Ind:"Jawab raja Israel kepada Yosafat: \"Masih ada seorang lagi yang dengan perantaraannya dapat diminta petunjuk TUHAN. Tetapi aku membenci dia, sebab tidak pernah ia menubuatkan yang baik tentang aku, melainkan malapetaka. Orang itu ialah Mikha bin Yimla.\" Kata Yosafat: \"Janganlah raja berkata demikian.\""
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Sementara raja Israel dan Yosafat, raja Yehuda, duduk masing-masing di atas takhtanya dengan pakaian kebesaran, di suatu tempat pengirikan di depan pintu gerbang Samaria, sedang semua nabi itu bernubuat di depan mereka,"
   },
   {Bible:"1Kings", Chapter:22, Verse:11, Page:1,
-    Kor:"그 예언자들 가운데서, 그나아나의 아들 시드기야는 자기가 만든 철뿔들을 가지고 나와서 말하였다. \"주님께서 이렇게 말씀하십니다. '철로 만든 이 뿔을 가지고, 너 아합은 사람들을 찌르되, 그들이 모두 파멸될 때까지 그렇게 할 것이다' 하십니다.\"",
+    Kor:"그 예언자들 가운데서, 그나아나의 아들 시드기야는 자기가 만든 철뿔들을 가지고 나와서 말하였다. \"주께서 이렇게 말씀하십니다. '철로 만든 이 뿔을 가지고, 너 아합은 사람들을 찌르되, 그들이 모두 파멸될 때까지 그렇게 할 것이다' 하십니다.\"",
     Chn:"基拿拿的儿子西底家造了两个铁角，说：「耶和华如此说：『你要用这角抵触亚兰人，直到将他们灭尽。』」",
     Eng:"Now Zedekiah son of Kenaanah had made iron horns and he declared, \"This is what the LORD says: 'With these you will gore the Arameans until they are destroyed.'\"",
     Ind:"maka Zedekia bin Kenaana membuat tanduk-tanduk besi, lalu berkata: \"Beginilah firman TUHAN: Dengan ini engkau akan menanduk Aram sampai engkau menghabiskan mereka.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:12, Page:1,
-    Kor:"다른 예언자들도 모두 그와 같은 예언을 하면서 말하였다. \"길르앗의 라못으로 진군하십시오. 승리는 임금님의 것입니다. 주님께서 이미 그 성을 임금님의 손에 넘기셨습니다.\"",
+    Kor:"다른 예언자들도 모두 그와 같은 예언을 하면서 말하였다. \"길르앗의 라못으로 진군하십시오. 승리는 임금님의 것입니다. 주께서 이미 그 성을 임금님의 손에 넘기셨습니다.\"",
     Chn:"所有的先知也都这样预言说：「可以上基列的拉末去，必然得胜，因为耶和华必将那城交在王的手中。」",
     Eng:"All the other prophets were prophesying the same thing. \"Attack Ramoth Gilead and be victorious,\" they said, \"for the LORD will give it into the king's hand.\"",
     Ind:"Juga semua nabi itu bernubuat demikian, katanya: \"Majulah ke Ramot-Gilead, dan engkau akan beruntung; TUHAN akan menyerahkannya ke dalam tangan raja.\""
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Suruhan yang pergi memanggil Mikha itu, berkata kepadanya: \"Ketahuilah, nabi-nabi itu sudah sepakat meramalkan yang baik bagi raja, hendaklah engkau juga berbicara seperti salah seorang dari pada mereka dan meramalkan yang baik.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:14, Page:1,
-    Kor:"미가야가 대답하였다. \"주님께서 살아 계심을 두고 맹세하지만, 나는 다만 주님께서 말씀하신 것만을 말하겠습니다.\"",
+    Kor:"미가야가 대답하였다. \"주께서 살아 계심을 두고 맹세하지만, 나는 다만 주께서 말씀하신 것만을 말하겠습니다.\"",
     Chn:"米该雅说：「我指着永生的耶和华起誓，耶和华对我说什么，我就说什么。」",
     Eng:"But Micaiah said, \"As surely as the LORD lives, I can tell him only what the LORD tells me.\"",
     Ind:"Tetapi Mikha menjawab: \"Demi TUHAN yang hidup, sesungguhnya, apa yang akan difirmankan TUHAN kepadaku, itulah yang akan kukatakan.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:15, Page:1,
-    Kor:"그가 왕 앞에 나아가니, 왕이 그에게 물었다. \"미가야는 대답하시오. 우리가 길르앗의 라못을 치러 올라가는 것이 좋겠소, 아니면 그만 두는 것이 좋겠소?\" 미가야가 대답하였다. \"올라가십시오. 승리는 임금님의 것입니다. 주님께서 그 곳을 왕의 손에 넘겨 주실 것입니다.\"",
+    Kor:"그가 왕 앞에 나아가니, 왕이 그에게 물었다. \"미가야는 대답하시오. 우리가 길르앗의 라못을 치러 올라가는 것이 좋겠소, 아니면 그만 두는 것이 좋겠소?\" 미가야가 대답하였다. \"올라가십시오. 승리는 임금님의 것입니다. 주께서 그 곳을 왕의 손에 넘겨 주실 것입니다.\"",
     Chn:"米该雅到王面前，王问他说：「米该雅啊，我们上去攻取基列的拉末可以不可以？」他回答说：「可以上去，必然得胜，耶和华必将那城交在王的手中。」",
     Eng:"When he arrived, the king asked him, \"Micaiah, shall we go to war against Ramoth Gilead, or shall I refrain?\" \"Attack and be victorious,\" he answered, \"for the LORD will give it into the king's hand.\"",
     Ind:"Setelah ia sampai kepada raja, bertanyalah raja kepadanya: \"Mikha, apakah kami boleh pergi berperang melawan Ramot-Gilead atau kami membatalkannya?\" Jawabnya kepadanya: \"Majulah dan engkau akan beruntung, sebab TUHAN akan menyerahkannya ke dalam tangan raja.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:16, Page:1,
-    Kor:"그러자 왕은 그에게 다시 말하였다. \"그대가 주님의 이름으로 나에게 말을 할 때에는, 진실을 말해야 한다고 누차 일렀거늘, 내가 얼마나 더 똑같은 말을 되풀이해야 하겠소?\"",
+    Kor:"그러자 왕은 그에게 다시 말하였다. \"그대가 주의 이름으로 나에게 말을 할 때에는, 진실을 말해야 한다고 누차 일렀거늘, 내가 얼마나 더 똑같은 말을 되풀이해야 하겠소?\"",
     Chn:"王对他说：「我当嘱咐你几次，你才奉耶和华的名向我说实话呢？」",
     Eng:"The king said to him, \"How many times must I make you swear to tell me nothing but the truth in the name of the LORD?\"",
     Ind:"Tetapi raja berkata kepadanya: \"Sampai berapa kali aku menyuruh engkau bersumpah, supaya engkau mengatakan kepadaku tidak lain dari kebenaran demi nama TUHAN?\""
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Kemudian raja Israel berkata kepada Yosafat: \"Bukankah telah kukatakan kepadamu: Tidak pernah ia menubuatkan yang baik tentang aku, melainkan hanya malapetaka?\""
   },
   {Bible:"1Kings", Chapter:22, Verse:19, Page:1,
-    Kor:"미가야가 말을 계속하였다. \"그러므로 이제는 주님의 말씀을 들으십시오. 내가 보니, 주님께서 보좌에 앉으시고, 그 좌우 옆에는, 하늘의 모든 군대가 둘러 서 있는데,",
+    Kor:"미가야가 말을 계속하였다. \"그러므로 이제는 주의 말씀을 들으십시오. 내가 보니, 주께서 보좌에 앉으시고, 그 좌우 옆에는, 하늘의 모든 군대가 둘러 서 있는데,",
     Chn:"米该雅说：「你要听耶和华的话！我看见耶和华坐在宝座上，天上的万军侍立在他左右。",
     Eng:"Micaiah continued, \"Therefore hear the word of the LORD: I saw the LORD sitting on his throne with all the host of heaven standing around him on his right and on his left.",
     Ind:"Kata Mikha: \"Sebab itu dengarkanlah firman TUHAN. Aku telah melihat TUHAN sedang duduk di atas takhta-Nya dan segenap tentara sorga berdiri di dekat-Nya, di sebelah kanan-Nya dan di sebelah kiri-Nya."
   },
   {Bible:"1Kings", Chapter:22, Verse:20, Page:1,
-    Kor:"주님께서 물으십니다. '누가 아합을 꾀어 내어서, 그로 길르앗의 라못으로 올라가서 죽게 하겠느냐?' 그러자 그들은 '이렇게 하자' 또는 '저렇게 하자' 하며, 저마다 자기의 의견을 말하는데,",
+    Kor:"주께서 물으십니다. '누가 아합을 꾀어 내어서, 그로 길르앗의 라못으로 올라가서 죽게 하겠느냐?' 그러자 그들은 '이렇게 하자' 또는 '저렇게 하자' 하며, 저마다 자기의 의견을 말하는데,",
     Chn:"耶和华说：『谁去引诱亚哈上基列的拉末去阵亡呢？』这个就这样说，那个就那样说。",
     Eng:"And the LORD said, 'Who will entice Ahab into attacking Ramoth Gilead and going to his death there?' \"One suggested this, and another that.",
     Ind:"Dan TUHAN berfirman: Siapakah yang akan membujuk Ahab untuk maju berperang, supaya ia tewas di Ramot-Gilead? Maka yang seorang berkata begini, yang lain berkata begitu."
   },
   {Bible:"1Kings", Chapter:22, Verse:21, Page:1,
-    Kor:"한 영이 주님 앞에 나서서 말합니다. '제가 가서, 그를 꾀어 내겠습니다.' 그러자 주님께서는 그에게 물으십니다. '그를 어떻게 꾀어 내겠느냐?'",
+    Kor:"한 영이 주 앞에 나서서, 말합니다. '제가 가서, 그를 꾀어 내겠습니다.' 그러자 주께서는 그에게 물으십니다. '그를 어떻게 꾀어 내겠느냐?'",
     Chn:"随后有一个神灵出来，站在耶和华面前，说：『我去引诱他。』",
     Eng:"Finally, a spirit came forward, stood before the LORD and said, 'I will entice him.'",
     Ind:"Kemudian tampillah suatu roh, lalu berdiri di hadapan TUHAN. Ia berkata: Aku ini akan membujuknya. TUHAN bertanya kepadanya: Dengan apa?"
   },
   {Bible:"1Kings", Chapter:22, Verse:22, Page:1,
-    Kor:"그러자 그는 대답합니다. '제가 거짓말하는 영이 되어, 아합의 모든 예언자들의 입에 들어가서, 그들이 모두 거짓말을 하도록 시키겠습니다.' 그러자 주님께서 말씀하십니다. '네가 그를 꾀어라. 틀림없이 성공할 것이다. 가서, 곧 그렇게 하여라.'",
+    Kor:"그러자 그는 대답합니다. '제가 거짓말하는 영이 되어, 아합의 모든 예언자들의 입에 들어가서, 그들이 모두 거짓말을 하도록 시키겠습니다.' 그러자 주께서 말씀하십니다. '네가 그를 꾀어라. 틀림없이 성공할 것이다. 가서, 곧 그렇게 하여라.'",
     Chn:"耶和华问他说：『你用何法呢？』他说：『我去，要在他众先知口中作谎言的灵。』耶和华说：『这样，你必能引诱他，你去如此行吧！』",
     Eng:"\"'By what means?' the LORD asked. \"'I will go out and be a lying spirit in the mouths of all his prophets,' he said. \"'You will succeed in enticing him,' said the LORD. 'Go and do it.'",
     Ind:"Jawabnya: Aku akan keluar dan menjadi roh dusta dalam mulut semua nabinya. Ia berfirman: Biarlah engkau membujuknya, dan engkau akan berhasil pula. Keluarlah dan perbuatlah demikian!"
   },
   {Bible:"1Kings", Chapter:22, Verse:23, Page:1,
-    Kor:"그러므로 이제 보십시오. 주님께서 거짓말하는 영을 여기에 있는 임금님의 예언자들의 입에 들어가게 하셨으니, 주님께서는 임금님께 이미 재앙을 선언하신 것입니다.\"",
+    Kor:"그러므로 이제 보십시오. 주께서 거짓말하는 영을 여기에 있는 임금님의 예언자들의 입에 들어가게 하셨으니, 주께서는 임금님께 이미 재앙을 선언하신 것입니다.\"",
     Chn:"现在耶和华使谎言的灵入了你这些先知的口，并且耶和华已经命定降祸与你。」",
     Eng:"\"So now the LORD has put a lying spirit in the mouths of all these prophets of yours. The LORD has decreed disaster for you.\"",
     Ind:"Karena itu, sesungguhnya TUHAN telah menaruh roh dusta ke dalam mulut semua nabimu ini, sebab TUHAN telah menetapkan untuk menimpakan malapetaka kepadamu.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:24, Page:1,
-    Kor:"○그러자 그나아나의 아들 시드기야가 다가와서, 미가야의 뺨을 치면서 말하였다. \"주님의 영이 어떻게 나를 떠나 네게로 건너가서 말씀하시더냐?\"",
+    Kor:"○그러자 그나아나의 아들 시드기야가 다가와서, 미가야의 뺨을 치면서 말하였다. \"주의 영이 어떻게 나를 떠나 네게로 건너가서 말씀하시더냐?\"",
     Chn:"基拿拿的儿子西底家前来，打米该雅的脸，说：「耶和华的灵从哪里离开我与你说话呢？」",
     Eng:"Then Zedekiah son of Kenaanah went up and slapped Micaiah in the face. \"Which way did the spirit from the LORD go when he went from me to speak to you?\" he asked.",
     Ind:"Sesudah itu tampillah Zedekia bin Kenaana, ditamparnyalah pipi Mikha serta berkata: \"Mana boleh Roh TUHAN pindah dari padaku untuk berbicara kepadamu?\""
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"dan katakan: Beginilah titah raja: Masukkan orang ini dalam penjara dan beri dia makan roti dan minum air serba sedikit sampai aku pulang dengan selamat.\""
   },
   {Bible:"1Kings", Chapter:22, Verse:28, Page:1,
-    Kor:"미가야가 말하였다. \"임금님께서 정말로 평안히 돌아오실 수 있으면, 주님께서 나를 시켜서 이런 말씀을 하시지도 않으셨을 것입니다.\" 미가야는 한 마디 더 붙였다. \"여기에 있는 모든 백성은 나의 말을 잘 기억하여 두시오!\"",
+    Kor:"미가야가 말하였다. \"임금님께서 정말로 평안히 돌아오실 수 있으면, 주께서 나를 시켜서 이런 말씀을 하시지도 않으셨을 것입니다.\" 미가야는 한 마디 더 붙였다. \"여기에 있는 모든 백성은 나의 말을 잘 기억하여 두시오!\"",
     Chn:"米该雅说：「你若能平平安安地回来，那就是耶和华没有借我说这话了」；又说：「众民哪，你们都要听！」",
     Eng:"Micaiah declared, \"If you ever return safely, the LORD has not spoken through me.\" Then he added, \"Mark my words, all you people!\"",
     Ind:"Tetapi jawab Mikha: \"Jika benar-benar engkau pulang dengan selamat, tentulah TUHAN tidak berfirman dengan perantaraanku!\" Lalu disambungnya: \"Dengarlah, hai bangsa-bangsa sekalian!\""
   },
   {Bible:"1Kings", Chapter:22, Verse:29, Page:1,
-    Kor:"<아합의 죽음(대하 18:28-34)> ○이스라엘 왕 아합과 유다의 여호사밧 왕은 시리아와 싸우려고 길르앗의 라못으로 올라갔다.",
+    Kor:"○이스라엘 왕 아합과 유다의 여호사밧 왕은 시리아와 싸우려고 길르앗의 라못으로 올라갔다.",
     Chn:"以色列王和犹大王约沙法上基列的拉末去了。",
     Eng:"So the king of Israel and Jehoshaphat king of Judah went up to Ramoth Gilead.",
     Ind:"Sesudah itu majulah raja Israel dengan Yosafat, raja Yehuda, ke Ramot-Gilead."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Raja sudah mati!\" Maka pulanglah mereka ke Samaria, lalu mereka menguburkan raja di Samaria."
   },
   {Bible:"1Kings", Chapter:22, Verse:38, Page:1,
-    Kor:"그리고 사마리아의 연못에서 왕의 병거와 갑옷을 씻을 때에 개들이 그 피를 핥았고, 창녀들이 그 곳에서 목욕을 하였다. 이렇게 해서 모든 것은 주님께서 말씀하신 대로 되었다.",
+    Kor:"그리고 사마리아의 연못에서 왕의 병거와 갑옷을 씻을 때에, 개들이 그 피를 핥았고, 창녀들이 그 곳에서 목욕을 하였다. 이렇게 해서 모든 것은 주께서 말씀하신 대로 되었다.",
     Chn:"又有人把他的车洗在撒马利亚的池旁（妓女在那里洗澡），狗来舔他的血，正如耶和华所说的话。",
     Eng:"They washed the chariot at a pool in Samaria (where the prostitutes bathed), and the dogs licked up his blood, as the word of the LORD had declared.",
     Ind:"Ketika kereta itu dicuci di tepi telaga Samaria, maka darah raja dijilat anjing, sedang perempuan-perempuan sundal mandi di tempat itu, sesuai dengan firman TUHAN yang telah diucapkan-Nya."
@@ -237,25 +237,25 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Ahab dan segala yang dilakukannya serta istana gading dan segala kota yang didirikannya, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Israel?"
   },
   {Bible:"1Kings", Chapter:22, Verse:40, Page:1,
-    Kor:"아합이 조상들과 함께 묻히니, 그의 뒤를 이어서 그의 아들 아하시야가 왕이 되었다.",
+    Kor:"아합이 조상들과 함께 묻히니, 그의 뒤를 이어서, 그의 아들 아하시야가 왕이 되었다.",
     Chn:"亚哈与他列祖同睡。他儿子亚哈谢接续他作王。",
     Eng:"Ahab rested with his fathers. And Ahaziah his son succeeded him as king.",
     Ind:"Demikianlah Ahab mendapat perhentian bersama-sama dengan nenek moyangnya. Maka Ahazia, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:22, Verse:41, Page:1,
-    Kor:"<유다 왕 여호사밧(대하 20:31-21:1)> ○이스라엘의 아합 왕 제 사년에 아사의 아들 여호사밧이 유다의 왕이 되었다.",
+    Kor:"○이스라엘의 아합 왕 제 사년에, 아사의 아들 여호사밧이 유다의 왕이 되었다.",
     Chn:"以色列王亚哈第四年，亚撒的儿子约沙法登基作了犹大王。",
     Eng:"Jehoshaphat son of Asa became king of Judah in the fourth year of Ahab king of Israel.",
     Ind:"Yosafat, anak Asa, menjadi raja atas Yehuda dalam tahun keempat zaman Ahab, raja Israel."
   },
   {Bible:"1Kings", Chapter:22, Verse:42, Page:1,
-    Kor:"여호사밧은 왕이 될 때에 서른다섯 살이었고, 예루살렘에서 스물다섯 해 동안 다스렸다. 그의 어머니 아수바는 실히의 딸이다.",
+    Kor:"여호사밧은, 왕이 될 때에 서른다섯 살이었고, 예루살렘에서 스물다섯 해 동안 다스렸다. 그의 어머니 아수바는 실히의 딸이다.",
     Chn:"约沙法登基的时候年三十五岁，在耶路撒冷作王二十五年。他母亲名叫阿苏巴，乃示利希的女儿。",
     Eng:"Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother's name was Azubah daughter of Shilhi.",
     Ind:"Yosafat berumur tiga puluh lima tahun pada waktu ia menjadi raja dan dua puluh lima tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Azuba, anak Silhi."
   },
   {Bible:"1Kings", Chapter:22, Verse:43, Page:1,
-    Kor:"여호사밧은 자기의 아버지 아사가 걸어간 길에서 벗어나지 아니하고, 그 길을 그대로 걸어서, 주님께서 보시기에 정직하게 행하였으나, 그가 산당만은 헐어 버리지 않아서, 백성은 여전히 산당에서 제사를 드리며 분향하였다.",
+    Kor:"여호사밧은 자기의 아버지 아사가 걸어간 길에서 벗어나지 아니하고, 그 길을 그대로 걸어서, 주께서 보시기에 정직하게 행하였으나 그가 산당만은 헐어 버리지 않아서, 백성은 여전히 산당에서 제사를 드리며 분향하였다.",
     Chn:"约沙法行他父亲亚撒所行的道，不偏离左右，行耶和华眼中看为正的事；只是邱坛还没有废去，百姓仍在那里献祭烧香。",
     Eng:"In everything he walked in the ways of his father Asa and did not stray from them; he did what was right in the eyes of the LORD. The high places, however, were not removed, and the people continued to offer sacrifices and burn incense there.",
     Ind:"Ia hidup mengikuti jejak Asa, ayahnya; ia tidak menyimpang dari padanya dan melakukan apa yang benar di mata TUHAN. (22-44) Hanya bukit-bukit pengorbanan tidak dijauhkan. Orang masih mempersembahkan dan membakar korban di bukit-bukit itu."
@@ -303,13 +303,13 @@ BibleDB.add([
     Ind:"(22-51) Kemudian Yosafat mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud, bapa leluhurnya. Maka Yoram, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:22, Verse:51, Page:1,
-    Kor:"<이스라엘 왕 아하시야> ○유다의 여호사밧 왕 제 십칠년에, 아합의 아들 아하시야가 사마리아에서 이스라엘의 왕이 되었다. 그는 두 해 동안 이스라엘을 다스렸다.",
+    Kor:"○유다의 여호사밧 왕 제 십칠년에, 아합의 아들 아하시야가 사마리아에서 이스라엘의 왕이 되었다. 그는 두 해 동안 이스라엘을 다스렸다.",
     Chn:"犹大王约沙法十七年，亚哈的儿子亚哈谢在撒马利亚登基，作以色列王共二年。",
     Eng:"Ahaziah son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.",
     Ind:"(22-52) Ahazia, anak Ahab, menjadi raja atas Israel di Samaria dalam tahun ketujuh belas zaman Yosafat, raja Yehuda, dan ia memerintah atas Israel dua tahun lamanya."
   },
   {Bible:"1Kings", Chapter:22, Verse:52, Page:1,
-    Kor:"그는 주님께서 보시기에 이스라엘을 죄에 빠뜨리게 한 그의 아버지와 어머니가 걸은 길과 느밧의 아들 여로보암이 걸은 길을 그대로 따라갔다.",
+    Kor:"그는 주께서 보시기에 이스라엘을 죄에 빠뜨리게 한 그의 아버지와 어머니가 걸은 길과 느밧의 아들 여로보암이 걸은 길을 그대로 따라갔다.",
     Chn:"他行耶和华眼中看为恶的事，效法他的父母，又行尼八的儿子耶罗波安使以色列人陷在罪里的 事。",
     Eng:"He did evil in the eyes of the LORD, because he walked in the ways of his father and mother and in the ways of Jeroboam son of Nebat, who caused Israel to sin.",
     Ind:"(22-53) Ia melakukan apa yang jahat di mata TUHAN dan hidup menurut kelakuan ayahnya dan ibunya dan Yerobeam bin Nebat, yang telah mengakibatkan orang Israel berdosa."
@@ -319,5 +319,11 @@ BibleDB.add([
     Chn:"他照他父亲一切所行的，事奉敬拜巴力，惹耶和华—以色列　神的怒气。",
     Eng:"He served and worshiped Baal and provoked the Lord , the God of Israel, to anger, just as his father had done.",
     Ind:"(22-54) Ia beribadah kepada Baal dan sujud menyembah kepadanya dan dengan demikian ia menimbulkan sakit hati TUHAN, Allah Israel, tepat seperti yang dilakukan ayahnya."
+  },
+  {Bible:"1Kings", Chapter:22, Verse:54, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",25,38);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:25, Verse:1, Page:1,
-    Kor:"<북쪽의 적> 요시야의 아들 유다 왕 여호야김 제 사년 곧 바빌로니아 왕 느부갓네살 원년에, 예레미야는 온 유다 백성에게 일러줄 말씀을 받았다.",
+    Kor:"요시야의 아들 유다 왕 여호야김 제 사년 곧 바빌로니아 왕 느부갓네살 원년에, 예레미야는 온 유다 백성에게 일러줄 말씀을 받았다.",
     Chn:"犹大王约西亚的儿子约雅敬第四年，就是巴比伦王尼布甲尼撒的元年，耶和华论犹大众民的话临到耶利米。",
     Eng:"The word came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon.",
     Ind:"Firman yang datang kepada Yeremia tentang segenap kaum Yehuda dalam tahun keempat pemerintahan Yoyakim bin Yosia, raja Yehuda, yaitu dalam tahun pertama pemerintahan Nebukadnezar, raja Babel."
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"Firman itu telah disampaikan oleh nabi Yeremia kepada segenap kaum Yehuda dan kepada segenap penduduk Yerusalem, katanya:"
   },
   {Bible:"Jeremiah", Chapter:25, Verse:3, Page:1,
-    Kor:"○\"아몬의 아들 요시야가 유다 왕이 되어, 십삼 년이 되던 해부터 오늘에 이르기까지, 이십삼 년 동안, 주님께서 나에게 계속하여 말씀하셨고, 나는 그것을 여러분에게 열심히 전하였으나, 여러분은 그 말을 전혀 듣지 않았습니다.",
+    Kor:"○\"아몬의 아들 요시야가 유다 왕이 되어, 십삼 년이 되던 해부터 오늘에 이르기까지, 이십삼 년 동안, 주께서 나에게 계속하여 말씀하셨고, 나는 그것을 여러분에게 열심히 전하였으나, 여러분은 그 말을 전혀 듣지 않았습니다.",
     Chn:"「从犹大王亚们的儿子约西亚十三年直到今日，这二十三年之内，常有耶和华的话临到我；我也对你们传说，就是从早起来传说，只是你们没有听从。",
     Eng:"For twenty-three years--from the thirteenth year of Josiah son of Amon king of Judah until this very day--the word of the LORD has come to me and I have spoken to you again and again, but you have not listened.",
     Ind:"\"Sejak dari tahun yang ketiga belas pemerintahan Yosia bin Amon, raja Yehuda, sampai hari ini, jadi sudah dua puluh tiga tahun lamanya, firman TUHAN datang kepadaku dan terus-menerus aku mengucapkannya kepadamu, tetapi kamu tidak mau mendengarkannya."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:4, Page:1,
-    Kor:"○주님께서는 여러분에게 주님의 종 예언자들을 보내시되 꾸준히 보내셨으나, 여러분은 예언자의 말도 듣지 않았습니다. 여러분들은 들으려 하지도 않았고, 귀를 기울이지도 않았습니다.",
+    Kor:"주님께서는 여러분에게 주님의 종 예언자들을 보내시되 꾸준히 보내셨으나, 여러분은 예언자의 말도 듣지 않았습니다. 여러분들은 들으려 하지도 않았고, 귀를 기울이지도 않았습니다.",
     Chn:"耶和华也从早起来，差遣他的仆人众先知到你们这里来（只是你们没有听从，也没有侧耳而听），",
     Eng:"And though the LORD has sent all his servants the prophets to you again and again, you have not listened or paid any attention.",
     Ind:"Juga TUHAN terus-menerus mengutus kepadamu semua hamba-Nya, yakni nabi-nabi, tetapi kamu tidak mau mendengarkan dan memperhatikannya."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:5, Page:1,
-    Kor:"주님께서는 예언자들을 시켜 여러분에게 이렇게 말씀하셨습니다. ○'너희는 각기 자신의 악한 삶과 온갖 악행을 그치고 어서 돌아오너라. 그러면, 나 주가 너희와 너희 조상에게 준 땅에서 너희가 길이길이 살 것이다.",
+    Kor:"주께서는 예언자들을 시켜 여러분에게 이렇게 말씀하셨습니다. '너희는 각기 자신의 악한 삶과 온갖 악행을 그치고 어서 돌아오너라. 그러면, 나 주가 너희와 너희 조상에게 준 땅에서 너희가 길이길이 살 것이다.",
     Chn:"说：『你们各人当回头，离开恶道和所作的恶，便可居住耶和华古时所赐给你们和你们列祖之地，直到永远。",
     Eng:"They said, \"Turn now, each of you, from your evil ways and your evil practices, and you can stay in the land the LORD gave to you and your fathers for ever and ever.",
     Ind:"Kata mereka: Bertobatlah masing-masing kamu dari tingkah langkahmu yang jahat dan dari perbuatan-perbuatanmu yang jahat; maka kamu akan tetap diam di tanah yang diberikan TUHAN kepadamu dan kepada nenek moyangmu, dari selama-lamanya sampai selama-lamanya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Tetapi kamu tidak mendengarkan Aku, demikianlah firman TUHAN, sehingga kamu menimbulkan sakit hati-Ku dengan buatan tanganmu untuk kemalanganmu sendiri."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:8, Page:1,
-    Kor:"○그래도 듣지 않으니, 이제 만군의 주님께서 이렇게 말씀하십니다. '너희가 나의 말을 듣지 않았기 때문에,",
+    Kor:"그래도 듣지 않으니, 이제 만군의 주께서 이렇게 말씀하십니다. '너희가 나의 말을 듣지 않았기 때문에,",
     Chn:"所以万军之耶和华如此说：「因为你们没有听从我的话，",
     Eng:"Therefore the LORD Almighty says this: \"Because you have not listened to my words,",
     Ind:"Sebab itu beginilah firman TUHAN semesta alam: Oleh karena kamu tidak mendengarkan perkataan-perkataan-Ku,"
   },
   {Bible:"Jeremiah", Chapter:25, Verse:9, Page:1,
-    Kor:"내가 나의 종 바빌로니아 왕 느부갓네살을 시켜서 북녘의 모든 민족을 데려오겠다. 나 주의 말이다. 내가 이렇게 그들을 데려다가, 이 땅과 그 주민을 함께 치게 하며, 그 주위의 모든 민족을 치게 하겠다. 내가 그들을 완전히 a진멸시켜, 영원히 놀라움과 빈정거림과 조롱거리가 되게 하고, 이 땅을 영원한 폐허 더미로 만들겠다.(a '진멸'로 번역되는 히브리어 헤렘은 물건이나 24 25:짐승이나 사람을 완전히 진멸하여 하나님께 바치는 제물로 삼는다는 것을 가리킴. 진멸하여 바칠 물건은 사람이 가질 수 없음)",
+    Kor:"내가 나의 종 바빌로니아 왕 느부갓네살을 시켜서 북녘의 모든 민족을 데려오겠다. 나 주의 말이다. 내가 이렇게 그들을 데려다가, 이 땅과 그 주민을 함께 치도록 하며, 그 주위의 모든 민족을 치도록 하겠다. 내가 그들을 완전히 진멸시켜, 영원히 놀라움과 빈정거림과 조롱거리가 되게 하고, 이 땅을 영원한 폐허 더미로 만들겠다.",
     Chn:"我必召北方的众族和我仆人巴比伦王尼布甲尼撒来攻击这地和这地的居民，并四围一切的国民。我要将他们尽行灭绝，以致他们令人惊骇、嗤笑，并且永久荒凉。这是耶和华说的。",
     Eng:"I will summon all the peoples of the north and my servant Nebuchadnezzar king of Babylon,\" declares the LORD, \"and I will bring them against this land and its inhabitants and against all the surrounding nations. I will completely destroy them and make them an object of horror and scorn, and an everlasting ruin.",
     Ind:"sesungguhnya, Aku akan mengerahkan semua kaum dari utara--demikianlah firman TUHAN--menyuruh memanggil Nebukadnezar, raja Babel, hamba-Ku itu; Aku akan mendatangkan mereka melawan negeri ini, melawan penduduknya dan melawan bangsa-bangsa sekeliling ini, yang akan Kutumpas dan Kubuat menjadi kengerian, menjadi sasaran suitan dan menjadi ketandusan untuk selama-lamanya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Maka seluruh negeri ini akan menjadi reruntuhan dan ketandusan, dan bangsa-bangsa ini akan menjadi hamba kepada raja Babel tujuh puluh tahun lamanya."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:12, Page:1,
-    Kor:"○이렇게 칠십 년이란 기한이 다 차면, 내가 바빌로니아 왕과 그 민족과 바빌로니아 땅의 죄를 벌하며, 그 곳을 영원한 황무지로 만들어 버리겠다. 나 주의 말이다.",
+    Kor:"이렇게 칠십 년이란 기한이 다 차면, 내가 바빌로니아 왕과 그 민족과 바빌로니아 땅의 죄를 벌하며, 그 곳을 영원한 황무지로 만들어 버리겠다. 나 주의 말이다.",
     Chn:"七十年满了以后，我必刑罚巴比伦王和那国民，并迦勒底人之地，因他们的罪孽使那地永远荒凉。这是耶和华说的。",
     Eng:"\"But when the seventy years are fulfilled, I will punish the king of Babylon and his nation, the land of the Babylonians, for their guilt,\" declares the LORD, \"and will make it desolate forever.",
     Ind:"Kemudian sesudah genap ketujuh puluh tahun itu, demikianlah firman TUHAN, maka Aku akan melakukan pembalasan kepada raja Babel dan kepada bangsa itu oleh karena kesalahan mereka, juga kepada negeri orang-orang Kasdim, dengan membuatnya menjadi tempat-tempat yang tandus untuk selama-lamanya."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Aku akan menimpakan kepada negeri ini segala apa yang Kufirmankan tentang dia, yaitu segala apa yang tertulis dalam kitab ini seperti yang telah dinubuatkan Yeremia tentang segala bangsa itu."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:14, Page:1,
-    Kor:"참으로 이번에는 바빌로니아 사람들이 많은 강대국들과 대왕들을 섬길 것이다. 이와 같이 나는 바빌로니아 사람들이 직접 행하고 저지른 일을 그대로 갚아 주겠다.' 이렇게 주님께서 말씀하셨습니다.\"",
+    Kor:"참으로 이번에는 바빌로니아 사람들이 많은 강대국들과 대왕들을 섬길 것이다. 이와 같이 나는 바빌로니아 사람들이 직접 행하고 저지른 일을 그대로 갚아 주겠다.' 이렇게 주께서 말씀하셨습니다.\"",
     Chn:"因为有多国和大君王必使迦勒底人作奴仆；我也必照他们的行为，按他们手所做的报应他们。」",
     Eng:"They themselves will be enslaved by many nations and great kings; I will repay them according to their deeds and the work of their hands.\"",
     Ind:"Sebab merekapun juga akan menjadi hamba kepada banyak bangsa-bangsa dan raja-raja yang besar, dan Aku akan mengganjar mereka setimpal dengan pekerjaan mereka dan setimpal dengan perbuatan tangan mereka.\""
   },
   {Bible:"Jeremiah", Chapter:25, Verse:15, Page:1,
-    Kor:"<세계 만민에게 내리는 진노의 잔> ○주 이스라엘의 하나님께서 나에게 이렇게 말씀하신다. \"너는 내 손에서 이 진노의 포도주 잔을 받아라. 내가 너를 뭇 민족에게 보낼 터이니, 그들 모두에게 그 잔을 마시게 하여라.",
+    Kor:"○주 이스라엘의 하나님께서 나에게 이렇게 말씀하신다. \"너는 내 손에서 이 진노의 포도주 잔을 받아라. 내가 너를 뭇 민족에게 보낼 터이니, 그들 모두에게 그 잔을 마시게 하여라.",
     Chn:"耶和华—以色列的　神对我如此说：「你从我手中接这杯忿怒的酒，使我所差遣你去的各国的民喝。",
     Eng:"This is what the LORD, the God of Israel, said to me: \"Take from my hand this cup filled with the wine of my wrath and make all the nations to whom I send you drink it.",
     Ind:"Beginilah firman TUHAN, Allah Israel, kepadaku: \"Ambillah dari tangan-Ku piala berisi anggur kehangatan amarah ini dan minumkanlah isinya kepada segala bangsa yang kepadanya Aku mengutus engkau,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"supaya mereka minum, menjadi terhuyung-huyung dan bingung karena pedang yang hendak Kukirimkan ke antaranya."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:17, Page:1,
-    Kor:"○그래서 내가 주님의 손에서 그 잔을 받아 가지고, 주님께서 나를 보내신 모든 민족에게 마시게 하였다.",
+    Kor:"○그래서 내가 주의 손에서 그 잔을 받아 가지고, 주께서 나를 보내신 모든 민족에게 마시게 하였다.",
     Chn:"我就从耶和华的手中接了这杯，给耶和华所差遣我去的各国的民喝，",
     Eng:"So I took the cup from the LORD'S hand and made all the nations to whom he sent me drink it:",
     Ind:"Maka aku mengambil piala itu dari tangan TUHAN, lalu meminumkan isinya kepada segala bangsa yang kepadanya TUHAN mengutus aku,"
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"kepada semua raja Zimri, kepada semua raja Elam dan kepada semua raja Madai;"
   },
   {Bible:"Jeremiah", Chapter:25, Verse:26, Page:1,
-    Kor:"북녘에 있는 원근 각처의 모든 왕에게 주어서, 차례로 마시게 하였다. 이렇게 내가 세상에 있는 모든 나라에 마시게 하였다. 마지막에는 b세삭 왕이 마시게 될 것이다.(b 바빌론을 가리키는 암호. 칠십인역은 '바빌론'으로 번역함)",
+    Kor:"북녘에 있는 원근 각처의 모든 왕에게 주어서, 차례로 마시게 하였다. 이렇게 내가 세상에 있는 모든 나라에게 마시게 하였다. 마지막에는 세삭 왕이 마시게 될 것이다.",
     Chn:"北方远近的诸王，以及天下地上的万国喝了，以后示沙克王也要喝。",
     Eng:"and all the kings of the north, near and far, one after the other--all the kingdoms on the face of the earth. And after all of them, the king of Sheshach will drink it too.",
     Ind:"kepada semua raja dari utara, yang dekat dan yang jauh, satu demi satu, dan kepada semua kerajaan dunia yang ada di atas muka bumi; juga raja Sesakh akan meminumnya sesudah mereka."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:27, Page:1,
-    Kor:"○\"너는 이스라엘의 하나님 만군의 주가 하는 말이라고 하면서 이들 민족들에게 전하여라. '내가 너희 사이에 전쟁을 일으킬 것이니, 너희는 마시고, 취하고, 토하고, 쓰러져서 죽어라.'",
+    Kor:"○\"너는 이스라엘의 하나님 만군의 주가 하는 말이라고 하면서 이들 민족들에게 전하여라. '내가 너희 사이에 전쟁을 일으킬 것이니, 너희는 마시고 취하고 토하고, 쓰러져서 죽어라.'",
     Chn:"「你要对他们说：『万军之耶和华—以色列的　神如此说：你们要喝，且要喝醉，要呕吐，且要跌倒，不得再起来，都因我使刀剑临到你们中间。』",
     Eng:"\"Then tell them, 'This is what the LORD Almighty, the God of Israel, says: Drink, get drunk and vomit, and fall to rise no more because of the sword I will send among you.'",
     Ind:"Kemudian haruslah kaukatakan kepada mereka: Beginilah firman TUHAN semesta alam, Allah Israel: Minumlah sampai mabuk dan muntah-muntah! Rebahlah dan jangan bangun lagi, oleh karena pedang yang hendak Kukirimkan ke antara kamu!"
   },
   {Bible:"Jeremiah", Chapter:25, Verse:28, Page:1,
-    Kor:"○그러나 그들이 네 손에서 그 잔을 받아 마시기를 거절하면, 너는 그들에게 이렇게 전하여라. '나 만군의 주가 말한다. 너희는 그 잔을 마시지 않을 수가 없을 것이다.",
+    Kor:"그러나 그들이 네 손에서 그 잔을 받아 마시기를 거절하면, 너는 그들에게 이와 같이 전하여라. '나 만군의 주가 이렇게 말한다. 너희는 그 잔을 마시지 않을 수가 없을 것이다.",
     Chn:"「他们若不肯从你手接这杯喝，你就要对他们说：『万军之耶和华如此说：你们一定要喝！",
     Eng:"But if they refuse to take the cup from your hand and drink, tell them, 'This is what the LORD Almighty says: You must drink it!",
     Ind:"Tetapi apabila mereka enggan menerima piala itu dari tanganmu untuk meminum isinya, maka haruslah kaukatakan kepada mereka: Beginilah firman TUHAN semesta alam: Kamu wajib meminumnya!"
@@ -177,25 +177,25 @@ BibleDB.add([
     Ind:"Sebab sesungguhnya di kota yang nama-Ku telah diserukan di atasnya Aku akan mulai mendatangkan malapetaka; masakan kamu ini akan bebas dari hukuman? kamu tidak akan bebas dari hukuman, sebab Aku ini mengerahkan pedang ke atas segenap penduduk bumi, demikianlah firman TUHAN semesta alam."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:30, Page:1,
-    Kor:"그러므로 너는 이 모든 말로 그들을 규탄하여 예언하여라. 너는 그들에게 이렇게 말하여라. '주님께서 저 높은 곳에서 고함 치신다. 그의 거룩한 처소 하늘 꼭대기에서 벽력 같은 목소리를 내신다. 그의 목장에다 대고 무섭게 고함 치신다. 포도를 밟는 자들처럼 이 땅의 모든 주민을 규탄하여 큰소리를 내신다.",
+    Kor:"그러므로 너는 이 모든 말로 그들을 규탄하여 예언하여라. 너는 그들에게 이렇게 말하여라. '주께서 저 높은 곳에서 고함 치신다. 그분의 거룩한 처소 하늘 꼭대기에서 벽력 같은 목소리를 내신다. 그분의 목장에다 대고 무섭게 고함 치신다. 포도를 밟는 자들처럼 이 땅의 모든 주민을 규탄하여 큰소리를 내신다.",
     Chn:"「所以你要向他们预言这一切的话，攻击他们，说： 耶和华必从高天吼叫， 从圣所发声， 向自己的羊群大声吼叫； 他要向地上一切的居民呐喊， 像踹葡萄的一样。",
     Eng:"\"Now prophesy all these words against them and say to them: \"'The LORD will roar from on high; he will thunder from his holy dwelling and roar mightily against his land. He will shout like those who tread the grapes, shout against all who live on the earth.",
     Ind:"Dan engkau ini, nubuatkanlah segala firman ini kepada mereka. Katakanlah kepada mereka: TUHAN akan menengking dari tempat tinggi dan memperdengarkan suara-Nya dari tempat pernaungan-Nya yang kudus; Ia akan mengaum hebat terhadap tempat penggembalaan-Nya, suatu pekik, seperti yang dipekikkan pengirik-pengirik buah anggur, terhadap segenap penduduk bumi."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:31, Page:1,
-    Kor:"주님께서 만민을 신문하실 것이니, 그 우렁찬 소리가 땅 끝에까지 퍼질 것이다. 모든 사람을 심판하실 것이니, 악인들을 칼로 쳐서 죽게 하실 것이다. 나 주의 말이다.'\"",
+    Kor:"주께서 만민을 신문하실 것이니, 그 우렁찬 소리가 땅 끝에까지 퍼질 것이다. 모든 사람을 심판하실 것이니, 악인들을 칼로 쳐서 죽게 하실 것이다. 나 주의 말이다.'\"",
     Chn:"必有响声达到地极， 因为耶和华与列国相争； 凡有血气的，他必审问； 至于恶人，他必交给刀剑。 这是耶和华说的。",
     Eng:"The tumult will resound to the ends of the earth, for the LORD will bring charges against the nations; he will bring judgment on all mankind and put the wicked to the sword,'\" declares the LORD.",
     Ind:"Deru perang akan sampai ke ujung bumi, sebab TUHAN mempunyai pengaduan terhadap bangsa-bangsa; Ia akan berperkara dengan segala makhluk: Orang-orang fasik akan diserahkan-Nya kepada pedang, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:32, Page:1,
-    Kor:"<재앙이 닥쳐온다> \"나 만군의 주가 말한다. 보아라, 재앙이 이 민족에서 저 민족에게로 퍼져 나가고, 땅의 사방 끝에서 큰 폭풍이 일 것이다.",
+    Kor:"\"나 만군의 주가 말한다. 보아라, 재앙이 이 민족에서 저 민족에게로 퍼져 나가고, 땅의 사방 끝에서 큰 폭풍이 일 것이다.",
     Chn:"万军之耶和华如此说： 看哪，必有灾祸从这国发到那国， 并有大暴风从地极刮起。",
     Eng:"This is what the LORD Almighty says: \"Look! Disaster is spreading from nation to nation; a mighty storm is rising from the ends of the earth.\"",
     Ind:"Beginilah firman TUHAN semesta alam: Sesungguhnya, malapetaka akan menjalar dari bangsa ke bangsa, suatu badai besar akan berkecamuk dari ujung-ujung bumi."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:33, Page:1,
-    Kor:"○그 날에는 땅 이 끝에서 저 끝에 이르기까지 나 주에게 죽임을 당한 시체들이 널려 있을 것이며, 그들이 죽었다고 하여 울어 줄 사람도 없고, 그들을 모아다가 묻어 줄 사람도 없어서, 마치 땅 위에 뒹구는 거름덩이처럼 될 것이다.\"",
+    Kor:"○그 날에는 땅 이 끝에서 저 끝에 이르기까지 주께 죽임을 당한 시체들이 널려 있을 것이며, 그들이 죽었다고 하여 울어 줄 사람도 없고, 그들을 모아다가 묻어 줄 사람도 없어서, 마치 땅 위에 뒹구는 거름덩이처럼 될 것이다.\"",
     Chn:"「到那日，从地这边直到地那边都有耶和华所杀戮的。必无人哀哭，不得收殓，不得葬埋，必在地上成为粪土。",
     Eng:"At that time those slain by the LORD will be everywhere--from one end of the earth to the other. They will not be mourned or gathered up or buried, but will be like refuse lying on the ground.",
     Ind:"Maka pada hari itu akan bergelimpangan orang-orang yang mati terbunuh oleh TUHAN dari ujung bumi sampai ke ujung bumi. Mereka tidak akan diratapi, tidak akan dikumpulkan dan tidak akan dikuburkan; mereka akan menjadi pupuk di ladang."
@@ -213,19 +213,19 @@ BibleDB.add([
     Ind:"Maka bagi para gembala tidak akan ada lagi kelepasan, dan bagi para pemimpin kawanan kambing domba tidak akan ada lagi keluputan."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:36, Page:1,
-    Kor:"목자들이 울부짖는 소리와 양 떼의 인도자들이 통곡하는 소리를 들어 보아라. 주님께서 그들의 목장을 파괴하셨기 때문이다.",
+    Kor:"목자들이 울부짖는 소리와 양 떼의 인도자들이 통곡하는 소리를 들어 보아라. 주께서 그들의 목장을 파괴하셨기 때문이다.",
     Chn:"听啊，有牧人呼喊， 有群众头目哀号的声音， 因为耶和华使他们的草场变为荒场。",
     Eng:"Hear the cry of the shepherds, the wailing of the leaders of the flock, for the LORD is destroying their pasture.",
     Ind:"Dengar! para gembala berteriak, para pemimpin kawanan kambing domba mengeluh! Sebab TUHAN telah merusakkan padang gembalaan mereka,"
   },
   {Bible:"Jeremiah", Chapter:25, Verse:37, Page:1,
-    Kor:"주님께서 맹렬히 진노하시니, 평화롭던 초장들이 황무지가 되었다.",
+    Kor:"주께서 맹렬히 진노하시니, 평화롭던 초장들이 황무지가 되었다.",
     Chn:"耶和华发出猛烈的怒气， 平安的羊圈就都寂静无声。",
     Eng:"The peaceful meadows will be laid waste because of the fierce anger of the LORD.",
     Ind:"dan sunyi sepilah padang rumput yang sentosa, oleh karena murka TUHAN yang menyala-nyala itu."
   },
   {Bible:"Jeremiah", Chapter:25, Verse:38, Page:1,
-    Kor:"사자가 굴을 버리고 떠나가듯이, 주님께서 떠나가셨다. 압박하는 자의 c칼과 주님의 분노 때문에 그 땅이 폐허가 되었다. (c 몇몇 히브리어 사본과 칠십인역(렘 46:16; 50:16에서도)을 따름. 대다수의 히브리어 사본에는 '분노')",
+    Kor:"사자가 굴을 버리고 떠나가듯이, 주께서 떠나가셨다. 압박하는 자의 칼과 주의 분노 때문에 그 땅이 폐허가 되었다.",
     Chn:"他离了隐密处像狮子一样， 他们的地，因刀剑凶猛的欺压， 又因他猛烈的怒气都成为可惊骇的。」",
     Eng:"Like a lion he will leave his lair, and their land will become desolate because of the sword of the oppressor and because of the LORD'S fierce anger.",
     Ind:"Seperti singa Ia meninggalkan semak belukar persembunyian-Nya, sebab negeri mereka sudah menjadi ketandusan, oleh karena pedang yang dahsyat, oleh karena murka-Nya yang menyala-nyala.\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",34,29);
 BibleDB.add([
   {Bible:"Numbers", Chapter:34, Verse:1, Page:1,
-    Kor:"<가나안 땅의 경계> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:34, Verse:2, Page:1,
-    Kor:"\"이스라엘 자손에게 명하여라. 그들에게 다음과 같이 말하여라. ○너희는 이제 곧 가나안 땅에 들어가게 된다. 이 땅은 너희가 유산으로 받을 땅인데, 다음과 같이 사방 경계를 정한 가나안 땅 전체를 일컫는다.",
+    Kor:"\"이스라엘 자손에게 명하여라. 그들에게 다음과 같이 말하여라. '너희는 이제 곧 가나안 땅에 들어가게 된다. 이 땅은 너희가 유산으로 받을 땅인데, 다음과 같이 사방 경계를 정한 가나안 땅 전체를 일컫는다.",
     Chn:"「你吩咐以色列人说：你们到了迦南地，就是归你们为业的迦南四境之地，",
     Eng:"\"Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance will have these boundaries:",
     Ind:"\"Perintahkanlah kepada orang Israel dan katakanlah kepada mereka: Apabila kamu masuk ke negeri Kanaan, maka inilah negeri yang akan jatuh kepadamu sebagai milik pusaka, yakni tanah Kanaan menurut batas-batasnya."
@@ -69,31 +69,31 @@ BibleDB.add([
     Ind:"Dari Sefam batas itu turun ke Ribla, di sebelah timur Ain; kemudian batas itu turun lagi dan mencapai tebing danau Kineret di sebelah timur."
   },
   {Bible:"Numbers", Chapter:34, Verse:12, Page:1,
-    Kor:"거기에서 다시 경계는 요단으로 내려가, 사해 끝에서 멈춘다. 이것이 너희 땅의 사방 경계이다.\"",
+    Kor:"거기에서 다시 경계는 요단으로 내려가, 사해 끝에서 멈춘다. ○이것이 너희 땅의 사방 경계이다.'\"",
     Chn:"这界要下到约旦河，通到盐海为止。这四围的边界以内，要作你们的地。」",
     Eng:"Then the boundary will go down along the Jordan and end at the Salt Sea. \"'This will be your land, with its boundaries on every side.'\"",
     Ind:"Lalu batas itu turun ke sungai Yordan dan berakhir di Laut Asin. Itulah negerimu menurut batas-batasnya sekeliling.\""
   },
   {Bible:"Numbers", Chapter:34, Verse:13, Page:1,
-    Kor:"○모세는 이스라엘 자손에게 명령하였다. \"이 땅은 당신들이 제비를 뽑아 받을 유산입니다. 주님께서는 아홉 지파와 반쪽 지파에게 주도록 명하셨습니다.",
+    Kor:"○모세는 이스라엘 자손에게 명령하였다. \"이 땅은 너희가 제비를 뽑아 받을 유산이다. 주께서는 아홉 지파와 반쪽 지파에게 주도록 명하셨다.",
     Chn:"摩西吩咐以色列人说：「这地就是耶和华吩咐拈阄给九个半支派承受为业的；",
     Eng:"Moses commanded the Israelites: \"Assign this land by lot as an inheritance. The LORD has ordered that it be given to the nine and a half tribes,",
     Ind:"Musa memerintahkan kepada orang Israel: \"Itulah negeri yang akan kamu bagi sebagai milik pusaka dengan membuang undi, yang diperintahkan TUHAN untuk diberikan kepada suku yang sembilan setengah itu."
   },
   {Bible:"Numbers", Chapter:34, Verse:14, Page:1,
-    Kor:"르우벤 자손의 지파가 조상 집안을 따라, 그리고 갓 자손 지파가 조상 집안을 따라 그들의 유산을 받도록 하고, 므낫세의 반쪽 지파도 유산을 받도록 하십시오.",
+    Kor:"르우벤 자손의 지파가 조상 집안을 따라, 그리고 갓 자손 지파가 조상 집안을 따라 그들의 유산을 받도록 하고, 므낫세의 반쪽 지파도 유산을 받도록 하여라.",
     Chn:"因为吕便支派和迦得支派按着宗族受了产业，玛拿西半个支派也受了产业。",
     Eng:"because the families of the tribe of Reuben, the tribe of Gad and the half-tribe of Manasseh have received their inheritance.",
     Ind:"Sebab suku bani Ruben menurut puak-puak mereka dan suku bani Gad menurut puak-puak mereka telah menerima milik pusakanya; juga suku Manasye yang setengah itu telah menerimanya."
   },
   {Bible:"Numbers", Chapter:34, Verse:15, Page:1,
-    Kor:"나머지 두 지파와 반쪽 지파는 그들의 유산을 해 뜨는 쪽, 요단 강 동쪽에 있는 여리고에서 이미 차지하였습니다.\"",
+    Kor:"나머지 두 지파와 반쪽 지파는 그들의 유산을 해 뜨는 쪽, 요단 강 동쪽에 있는 여리고에서 이미 차지하였다.\"",
     Chn:"这两个半支派已经在耶利哥对面、约旦河东、向日出之地受了产业。」",
     Eng:"These two and a half tribes have received their inheritance on the east side of the Jordan of Jericho, toward the sunrise.\"",
     Ind:"Dua setengah suku itu telah menerima milik pusaka mereka di seberang sungai Yordan di dekat Yerikho, ke sebelah timur.\""
   },
   {Bible:"Numbers", Chapter:34, Verse:16, Page:1,
-    Kor:"<각 지파의 유산 분할 책임자> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"dari suku bani Naftali seorang pemimpin: Pedael bin Amihud."
   },
   {Bible:"Numbers", Chapter:34, Verse:29, Page:1,
-    Kor:"○이들은 가나안 땅에서 이스라엘 자손에게 유산을 나누어 주도록 주님께 명령을 받은 이들이다.",
+    Kor:"○이들은 가나안 땅에서 이스라엘 자손에게 유산을 나누어 주도록 주께 명령을 받은 이들이다.",
     Chn:"这些人就是耶和华所吩咐、在迦南地把产业分给以色列人的。",
     Eng:"These are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan.",
     Ind:"Itulah orang-orang yang diperintahkan TUHAN untuk membagikan milik pusaka kepada orang Israel di tanah Kanaan.\""

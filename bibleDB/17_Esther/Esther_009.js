@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",9,32);
 BibleDB.add([
   {Bible:"Esther", Chapter:9, Verse:1, Page:1,
-    Kor:"<유다 사람이 원수들을 죽이다> 열두째 달인 아달월 십삼일, 드디어 왕이 내린 명령과 조서대로 시행하는 날이 되었다. 이 날은, 본래 유다 사람의 원수들이 유다 사람을 없애려고 한 날인데, 오히려 유다 사람이 자기들을 미워하는 자들을 없애는 날로 바뀌었다.",
+    Kor:"열두째 달인 아달월 십삼일, 드디어 왕이 내린 명령과 조서대로 시행하는 날이 되었다. 이 날은, 본래 유다 사람의 원수들이 유다 사람을 없애려고 한 날인데, 오히려 유다 사람이 자기들을 미워하는 자들을 없애는 날로 바뀌었다.",
     Chn:"十二月，乃亚达月十三日，王的谕旨将要举行，就是犹大人的仇敌盼望辖制他们的日子，犹大人反倒辖制恨他们的人。",
     Eng:"On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.",
     Ind:"Dalam bulan yang kedua belas--yakni bulan Adar--,pada hari yang ketiga belas, ketika titah serta undang-undang raja akan dilaksanakan, pada hari musuh-musuh orang Yahudi berharap mengalahkan orang Yahudi, terjadilah yang sebaliknya: orang Yahudi mengalahkan pembenci-pembenci mereka."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Sebab Mordekhai besar kekuasaannya di dalam istana raja dan tersiarlah berita tentang dia ke segenap daerah, karena Mordekhai itu bertambah-tambah besar kekuasaannya."
   },
   {Bible:"Esther", Chapter:9, Verse:5, Page:1,
-    Kor:"○유다 사람들은 그들의 원수를 다 칼로 쳐 죽여 없앴으며, 자기들을 미워하는 자들에게, 하고 싶은 대로 다 하였다.",
+    Kor:"○유다 사람들은, 그들의 원수를 다 칼로 쳐 죽여 없앴으며, 자기들을 미워하는 자들에게, 하고 싶은 대로 다 하였다.",
     Chn:"犹大人用刀击杀一切仇敌，任意杀灭恨他们的人。",
     Eng:"The Jews struck down all their enemies with the sword, killing and destroying them, and they did what they pleased to those who hated them.",
     Ind:"Maka orang Yahudi mengalahkan semua musuhnya: mereka memukulnya dengan pedang, membunuh dan membinasakannya; mereka berbuat sekehendak hatinya terhadap pembenci-pembenci mereka."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Hal itu terjadi pada hari yang ketiga belas dalam bulan Adar. Pada hari yang keempat belas berhentilah mereka dan hari itu dijadikan mereka hari perjamuan dan sukacita."
   },
   {Bible:"Esther", Chapter:9, Verse:18, Page:1,
-    Kor:"그러나 수산에 사는 유다 사람들은, 십삼일과 십사일에 모여 일을 벌였으므로, 십오일에는 쉬면서, 그 날을 잔치를 하면서 기뻐하는 날로 삼았다.",
+    Kor:"그러나 수산에 사는 유다 사람들은, 십삼일과 십사일에 모여 일을 벌였으므로, 십오일에는 쉬면서, 그 날을, 잔치를 하면서 기뻐하는 날로 삼았다.",
     Chn:"但书珊的犹大人，这十三日、十四日聚集杀戮仇敌；十五日安息，以这日为设筵欢乐的日子。",
     Eng:"The Jews in Susa, however, had assembled on the thirteenth and fourteenth, and then on the fifteenth they rested and made it a day of feasting and joy.",
     Ind:"Akan tetapi orang Yahudi yang di Susan berkumpul, baik pada hari yang ketiga belas, baik pada hari yang keempat belas dalam bulan itu. Lalu berhentilah mereka pada hari yang kelima belas dan hari itu dijadikan mereka hari perjamuan dan sukacita."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu orang Yahudi yang di pedusunan, yakni yang diam di perkampungan merayakan hari yang keempat belas bulan Adar itu sebagai hari sukacita dan hari perjamuan, dan sebagai hari gembira untuk antar-mengantar makanan."
   },
   {Bible:"Esther", Chapter:9, Verse:20, Page:1,
-    Kor:"<부림절> ○모르드개는 이 모든 사건을 다 기록하여 두었다. 그는 또, 멀든지 가깝든지, 아하수에로 왕이 다스리는 모든 지방에 사는 유다 사람들에게 글을 보내서,",
+    Kor:"○모르드개는 이 모든 사건을 다 기록하여 두었다. 그는 또, 멀든지 가깝든지, 아하수에로 왕이 다스리는 모든 지방에 사는 유다 사람들에게 글을 보내서,",
     Chn:"末底改记录这事，写信与亚哈随鲁王各省远近所有的犹大人，",
     Eng:"Mordecai recorded these events, and he sent letters to all the Jews throughout the provinces of King Xerxes, near and far,",
     Ind:"Maka Mordekhai menuliskan peristiwa itu, lalu mengirimkan surat-surat kepada semua orang Yahudi di seluruh daerah raja Ahasyweros, baik yang dekat baik yang jauh,"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Sesungguhnya Haman bin Hamedata, orang Agag, seteru semua orang Yahudi itu, telah merancangkan hendak membinasakan orang Yahudi dan diapun telah membuang pur--yakni undi--untuk menghancurkan dan membinasakan mereka,"
   },
   {Bible:"Esther", Chapter:9, Verse:25, Page:1,
-    Kor:"에스더가 그 음모를 왕 앞에 말하니, 왕은 하만이 유다 사람을 해치려고 꾸민 악한 흉계가 하만 자신에게 돌아가도록 하고, 하만뿐만 아니라 그의 모든 아들까지도 장대에 매달도록, 글로 써서 조서를 내렸다.",
+    Kor:"에스더가 그 음모를 왕 앞에 말하니, 왕은, 하만이 유다 사람을 해치려고 꾸민 악한 흉계가 하만 자신에게 돌아가도록 하고, 하만뿐만 아니라 그의 모든 아들까지도 장대에 매달도록, 글로 써서 조서를 내렸다.",
     Chn:"这事报告于王，王便降旨使哈曼谋害犹大人的恶事归到他自己的头上，并吩咐把他和他的众子都挂在木架上。",
     Eng:"But when the plot came to the king's attention, he issued written orders that the evil scheme Haman had devised against the Jews should come back onto his own head, and that he and his sons should be hanged on the gallows.",
     Ind:"akan tetapi ketika hal itu disampaikan ke hadapan raja, maka dititahkannyalah dengan surat, supaya rancangan jahat yang dibuat Haman terhadap orang Yahudi itu dibalikkan ke atas kepalanya. Maka Haman beserta anak-anaknya disulakan pada tiang."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu dikirimkanlah surat-surat kepada semua orang Yahudi di dalam keseratus dua puluh tujuh daerah kerajaan Ahasyweros, dengan kata-kata salam dan setia,"
   },
   {Bible:"Esther", Chapter:9, Verse:31, Page:1,
-    Kor:"이 편지는 이틀 동안 계속되는 부림절을 확정짓는 것이다. 이것은 유다 사람 모르드개와 에스더 왕후가 지시한 것일 뿐만 아니라, 유다 사람들 스스로도 기꺼이 부림절을 명절로 확정하고, 그 자손들도 그 때가 되면, 금식하며, 슬피 울면서 지키도록 하였다.",
+    Kor:"이 편지는, 이틀 동안 계속되는 부림절을 확정짓는 것이다. 이것은, 유다 사람 모르드개와 에스더 왕후가 지시한 것일 뿐만 아니라, 유다 사람들 스스로도 기꺼이 부림절을 명절로 확정하고, 그 자손들도 그 때가 되면, 금식하며, 슬피 울면서 지키도록 하였다.",
     Chn:"劝他们按时守这「普珥日」，禁食呼求，是照犹大人末底改和王后以斯帖所嘱咐的，也照犹大人为自己与后裔所应承的。",
     Eng:"to establish these days of Purim at their designated times, as Mordecai the Jew and Queen Esther had decreed for them, and as they had established for themselves and their descendants in regard to their times of fasting and lamentation.",
     Ind:"supaya hari-hari Purim itu dirayakan pada waktu yang ditentukan, seperti yang diwajibkan kepada mereka oleh Mordekhai, orang Yahudi itu, dan oleh Ester, sang ratu, dan seperti yang diwajibkan mereka kepada dirinya sendiri serta keturunan mereka, mengenai hal berpuasa dan meratap-ratap."

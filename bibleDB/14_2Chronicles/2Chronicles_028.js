@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",28,27);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:28, Verse:1, Page:1,
-    Kor:"<유다 왕 아하스(왕하 16:1-4)> 아하스가 왕이 되었을 때에, 그는 스무 살이었다. 그는 예루살렘에서 열여섯 해 동안 다스렸다. 그러나 그는 주님께서 보시기에 올바른 일을 하지 않았다. 그는 그의 조상 다윗이 한 대로 하지 않았다.",
+    Kor:"아하스가 왕이 되었을 때에, 그는 스무 살이었다. 그는 예루살렘에서 열여섯 해 동안 다스렸다. 그러나 그는 주께서 보시기에 올바른 일을 하지 않았다. 그는 그의 조상 다윗이 한 대로 하지 않았다.",
     Chn:"亚哈斯登基的时候年二十岁，在耶路撒冷作王十六年；不像他祖大卫行耶和华眼中看为正的事，",
     Eng:"Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. Unlike David his father, he did not do what was right in the eyes of the LORD.",
     Ind:"Ahas berumur dua puluh tahun pada waktu ia menjadi raja dan enam belas tahun lamanya ia memerintah di Yerusalem. Ia tidak melakukan apa yang benar di mata TUHAN seperti Daud, bapa leluhurnya,"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"tetapi ia hidup menurut kelakuan raja-raja Israel, bahkan ia membuat patung-patung tuangan untuk para Baal."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:3, Page:1,
-    Kor:"'힌놈의 아들 골짜기'에서 분향을 하고, 자기 아들을 불에 태워 제물로 바쳤다. 이것은 주님께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 민족들의 역겨운 풍속을 본받는 행위였다.",
+    Kor:"'힌놈의 아들 골짜기'에서 분향을 하고, 자기 아들을 불에 태워 제물로 바쳤다. 이것은 주께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 민족들의 역겨운 풍속을 본받는 행위였다.",
     Chn:"并且在欣嫩子谷烧香，用火焚烧他的儿女，行耶和华在以色列人面前所驱逐的外邦人那可憎的事；",
     Eng:"He burned sacrifices in the Valley of Ben Hinnom and sacrificed his sons in the fire, following the detestable ways of the nations the LORD had driven out before the Israelites.",
     Ind:"Ia membakar juga korban di Lebak Ben-Hinom dan membakar anak-anaknya sebagai korban dalam api, sesuai dengan perbuatan keji bangsa-bangsa yang telah dihalaukan TUHAN dari depan orang Israel."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Ia mempersembahkan dan membakar korban di bukit-bukit pengorbanan dan di atas tempat-tempat yang tinggi dan di bawah setiap pohon yang rimbun."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:5, Page:1,
-    Kor:"<시리아와 이스라엘의 전쟁(왕하 16:5)> ○그리하여 주 그의 하나님께서 그를 시리아 왕의 손에 넘기시니, 시리아 왕이 그를 치고, 그의 군대를 많이 사로잡아 다마스쿠스로 이끌고 갔다. 또 주님께서 그를 이스라엘 왕의 손에 넘기시니, 이스라엘 왕이 그를 크게 쳐서, 수많은 사람들을 죽였다.",
+    Kor:"○그리하여 주 그의 하나님께서 그를 시리아 왕의 손에 넘기시니, 시리아 왕이 그를 치고, 그의 군대를 많이 사로잡아 다마스쿠스로 이끌고 갔다. 또 주께서 그를 이스라엘 왕의 손에 넘기시니, 이스라엘 왕이 그를 크게 쳐서, 수많은 사람들을 죽였다.",
     Chn:"所以，耶和华—他的　神将他交在亚兰王手里。亚兰王打败他，掳了他许多的民，带到大马士革去。　神又将他交在以色列王手里，以色列王向他大行杀戮。",
     Eng:"Therefore the LORD his God handed him over to the king of Aram. The Arameans defeated him and took many of his people as prisoners and brought them to Damascus. He was also given into the hands of the king of Israel, who inflicted heavy casualties on him.",
     Ind:"Sebab itu TUHAN, Allahnya, menyerahkannya ke dalam tangan raja orang Aram. Mereka mengalahkan dia dan menawan banyak orang dari padanya, yang diangkut ke Damsyik. Kemudian ia diserahkan pula ke dalam tangan raja Israel dan mengalami kekalahan yang besar."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:6, Page:1,
-    Kor:"이스라엘의 르말리야의 아들 베가 왕이 유다에서 하루 동안에 용사들을 십이만 명이나 죽였다. 유다 사람들이 조상의 주 하나님을 버렸기 때문이다.",
+    Kor:"이스라엘의 르말랴의 아들 베가 왕이 유다에서 하루 동안에 용사들을 십이만 명이나 죽였다. 유다 사람들이 조상의 주 하나님을 버렸기 때문이다.",
     Chn:"利玛利的儿子比加一日杀了犹大人十二万，都是勇士，因为他们离弃了耶和华—他们列祖的　神。",
     Eng:"In one day Pekah son of Remaliah killed a hundred and twenty thousand soldiers in Judah--because Judah had forsaken the LORD, the God of their fathers.",
     Ind:"Sebab dalam sehari Pekah bin Remalya menewaskan di Yehuda seratus dua puluh ribu orang, semuanya orang-orang yang tangkas, oleh karena mereka telah meninggalkan TUHAN, Allah nenek moyang mereka."
@@ -51,31 +51,31 @@ BibleDB.add([
     Ind:"Orang Israel menawan dari saudara-saudaranya dua ratus ribu orang, yakni perempuan-perempuan serta anak-anak lelaki dan anak-anak perempuan. Mereka merampas juga banyak harta milik dari pada orang-orang itu, dan membawa rampasan itu ke Samaria."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:9, Page:1,
-    Kor:"<예언자 오뎃> ○사마리아에 오뎃이라고 하는 주님의 예언자가 있었는데, 그가, 사마리아로 개선하는 군대를 마중하러 나가서, 그들을 보고 말하였다. \"주 당신들의 조상의 하나님께서 유다 백성에게 진노하셔서, 그들을 당신들의 손에 붙이신 것은 사실이오. 하지만 당신들이 살기가 등등하여 그들을 살육하고,",
+    Kor:"○사마리아에 오뎃이라고 하는 주의 예언자가 있었는데, 그가, 사마리아로 개선하는 군대를 마중하러 나가서, 그들을 보고 말하였다. \"주 그대들의 조상의 하나님께서 유다 백성에게 진노하셔서, 그들을 그대들의 손에 붙이신 것은 사실이오. 하지만 그대들이 살기가 등등하여 그들을 살육하고,",
     Chn:"但那里有耶和华的一个先知，名叫俄德，出来迎接往撒马利亚去的军兵，对他们说：「因为耶和华—你们列祖的　神恼怒犹大人，所以将他们交在你们手里，你们竟怒气冲天，大行杀戮。",
     Eng:"But a prophet of the LORD named Oded was there, and he went out to meet the army when it returned to Samaria. He said to them, \"Because the LORD, the God of your fathers, was angry with Judah, he gave them into your hand. But you have slaughtered them in a rage that reaches to heaven.",
     Ind:"Tetapi di sana ada seorang nabi TUHAN yang bernama Oded. Ia pergi menemui tentara yang pulang ke Samaria dan berkata kepada mereka: \"Lihatlah, karena kehangatan murka-Nya kepada Yehuda, TUHAN, Allah nenek moyangmu, menyerahkan mereka ke dalam tanganmu, dan kamu telah mengadakan pembunuhan di antara mereka dengan kegeraman yang sampai ke langit."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:10, Page:1,
-    Kor:"그것으로 성이 차지 않아서, 유다와 예루살렘의 남녀들까지 노예로 삼을 작정을 하고 있소. 당신들도 주 하나님을 거역하는 죄를 지었다는 것을 알아야 하오.",
+    Kor:"그것으로 성이 차지 않아서, 유다와 예루살렘의 남녀들까지 노예로 삼을 작정을 하고 있소. 그대들도 주 하나님을 거역하는 죄를 지었다는 것을 알아야 하오.",
     Chn:"如今你们又有意强逼犹大人和耶路撒冷人作你们的奴婢，你们岂不也有得罪耶和华—你们　神的事吗？",
     Eng:"And now you intend to make the men and women of Judah and Jerusalem your slaves. But aren't you also guilty of sins against the LORD your God?",
     Ind:"Dan sekarang kamu bermaksud menaklukkan orang Yehuda dan Yerusalem menjadi hambamu laki-laki dan perempuan. Tidak adakah pada kamu sendiri kesalahan yang besar terhadap TUHAN, Allahmu?"
   },
   {Bible:"2Chronicles", Chapter:28, Verse:11, Page:1,
-    Kor:"당신들은 이제 내가 하는 말을 들으시오. 당신들이 잡아 온 이 포로들은 바로 당신들의 형제자매이니, 곧 풀어 주어 돌아가게 하시오. 그렇게 하지 않으면, 주님께서 진노하셔서 당장 당신들을 벌하실 것이오.\"",
+    Kor:"그대들은 이제 내가 하는 말을 들으시오. 그대들이 잡아 온 이 포로들은 바로 그대들의 형제자매이니, 곧 풀어 주어 돌아가게 하시오. 그렇게 하지 않으면, 주께서 진노하셔서 당장 그대들을 벌하실 것이오.\"",
     Chn:"现在你们当听我说，要将掳来的弟兄释放回去，因为耶和华向你们已经大发烈怒。」",
     Eng:"Now listen to me! Send back your fellow countrymen you have taken as prisoners, for the LORD'S fierce anger rests on you.\"",
     Ind:"Maka sekarang, dengarkanlah kataku ini: kembalikanlah orang-orang yang kamu tawan dari saudara-saudaramu itu, karena murka Allah menyala-nyala terhadap kamu.\""
   },
   {Bible:"2Chronicles", Chapter:28, Verse:12, Page:1,
-    Kor:"○에브라임 자손의 지도자 네 사람, 곧 요하난의 아들 아사랴와 므실레못의 아들 베레갸와 살룸의 아들 여히스기야와 하들래의 아들 아마사가 역시 싸우고 개선하는 군대를 막아서서",
+    Kor:"○에브라임 자손의 지도자 네 사람, 곧 요하난의 아들 아사랴와 무실레못의 아들 베레갸와 살룸의 아들 여히스기야와 하들래의 아들 아마사가 역시 싸우고 개선하는 군대를 막아서서",
     Chn:"于是，以法莲人的几个族长—就是约哈难的儿子亚撒利雅、米实利末的儿子比利家、沙龙的儿子耶希西家、哈得莱的儿子亚玛撒—起来拦挡出兵回来的人，",
     Eng:"Then some of the leaders in Ephraim--Azariah son of Jehohanan, Berekiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai--confronted those who were arriving from the war.",
     Ind:"Lalu bangkitlah beberapa pemimpin bani Efraim, yakni: Azarya bin Yohanan, Berekhya bin Mesilemot, Yehizkia bin Salum dan Amasa bin Hadlai menghadapi orang-orang yang pulang dari perang,"
   },
   {Bible:"2Chronicles", Chapter:28, Verse:13, Page:1,
-    Kor:"그들에게 말하였다. \"이 포로들을 이리로 끌어들이지 마시오. 이런 일을 저질렀기 때문에, 우리가 모두 주님 앞에서 죄인이 되었소. 당신들은 우리의 죄와 허물을 더욱 많게 하였소. 우리의 허물이 이렇게 많아져서, 우리 이스라엘이 주님의 진노를 피할 수 없게 되었소.\"",
+    Kor:"그들에게 말하였다. \"이 포로들을 이리로 끌어들이지 마시오. 이런 일을 저질렀기 때문에, 우리가 모두 주 앞에서 죄인이 되었소. 그대들은 우리의 죄와 허물을 더욱 많게 하였소. 우리의 허물이 이렇게 많아져서, 우리 이스라엘이 주의 진노를 피할 수 없게 되었소.\"",
     Chn:"对他们说：「你们不可带进这被掳的人来！你们想要使我们得罪耶和华，加增我们的罪恶过犯？因为我们的罪过甚大，已经有烈怒临到以色列人了。」",
     Eng:"\"You must not bring those prisoners here,\" they said, \"or we will be guilty before the LORD. Do you intend to add to our sin and guilt? For our guilt is already great, and his fierce anger rests on Israel.\"",
     Ind:"dan berkata kepada mereka: \"Jangan bawa tawanan-tawanan itu ke mari, sebab maksudmu itu menjadikan kita bersalah terhadap TUHAN dan menambah dosa dan kesalahan kita! Sudah cukup besar kesalahan kita, dan murka yang menyala-nyala telah menimpa Israel.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Dan orang-orang yang ditunjuk dengan disebut namanya bangkit, lalu menjemput para tawanan itu. Semua orang yang telanjang mereka berikan pakaian dari rampasan itu. Orang-orang itu diberi pakaian, kasut, makanan dan minuman. Mereka diurapi dengan minyak dan semua yang terlalu payah untuk berjalan diangkut dengan keledai, dan dibawa ke Yerikho, ke kota pohon korma, dekat saudara-saudara mereka. Sesudah itu orang Israel itu pulang ke Samaria."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:16, Page:1,
-    Kor:"<아하스가 앗시리아에 구원을 요청함(왕하 16:7-9)> ○한번은 유다 왕 아하스가 앗시리아의 a왕에게 사신을 보내어 도움을 청한 일이 있다.(a 한 히브리어 사본과 칠십인역과 불가타를 따름(왕하 16:17) 대다수의 히브리어 사본에는 '왕들')",
+    Kor:"○한번은 유다 왕 아하스가 앗시리아의 왕에게 사신을 보내어 도움을 청한 일이 있다.",
     Chn:"那时，亚哈斯王差遣人去见亚述诸王，求他们帮助；",
     Eng:"At that time King Ahaz sent to the king of Assyria for help.",
     Ind:"Pada waktu itu raja Ahas menyuruh utusan kepada raja negeri Asyur untuk memohon bantuan."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Orang-orang Filistin juga telah menyerbu kota-kota di Daerah Bukit dan di Tanah Negeb Yehuda. Merekapun merebut Bet-Semes, Ayalon, Gederot, Sokho dengan segala anak kotanya, Timna dengan segala anak kotanya dan Gomzo dengan segala anak kotanya, dan menetap di kota-kota itu."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:19, Page:1,
-    Kor:"b이스라엘의 아하스 왕이 백성을 부추기어 주님께 크게 범죄하였으므로, 주님께서 유다를 낮추셨던 것이다.(b 남왕국 유다를 가리킴. 대하에서는 자주 남왕국 유다를 이스라엘이라고 함)",
+    Kor:"이스라엘의 아하스 왕이 백성을 부추기어 주께 크게 범죄하였으므로, 주께서 유다를 낮추셨던 것이다.",
     Chn:"因为以色列王亚哈斯在犹大放肆，大大干犯耶和华，所以耶和华使犹大卑微。",
     Eng:"The LORD had humbled Judah because of Ahaz king of Israel, for he had promoted wickedness in Judah and had been most unfaithful to the LORD.",
     Ind:"Demikianlah TUHAN merendahkan Yehuda oleh karena Ahas, raja Israel itu, membiarkan kebiadaban berlaku di Yehuda dan berubah setia kepada TUHAN."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Maka datanglah Tilgat-Pilneser, raja negeri Asyur, kepadanya, hanya bukan membantu dia, melainkan menyesakkannya."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:21, Page:1,
-    Kor:"아하스가 주님의 성전과 자기의 왕궁과 대신들의 집에서 보물을 꺼내어 앗시리아의 왕에게 바쳤으나, 별 효과가 없었다.",
+    Kor:"아하스가 주의 성전과 자기의 왕궁과 대신들의 집에서 보물을 꺼내어 앗시리아의 왕에게 바쳤으나, 별 효과가 없었다.",
     Chn:"亚哈斯从耶和华殿里和王宫中，并首领家内所取的财宝给了亚述王，这也无济于事。",
     Eng:"Ahaz took some of the things from the temple of the LORD and from the royal palace and from the princes and presented them to the king of Assyria, but that did not help him.",
     Ind:"Walaupun Ahas merampas barang-barang dari rumah TUHAN, dari rumah raja dan dari rumah-rumah para pemimpin dan menyerahkan semua itu kepada raja negeri Asyur, namun perbuatannya itu tidak menguntungkan dia."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:22, Page:1,
-    Kor:"<아하스의 죄> ○사태가 이렇게 악화되었는데도, 아하스 왕은 주님께 더욱 범죄하여,",
+    Kor:"○사태가 이렇게 악화되었는데도, 아하스 왕은 주께 더욱 범죄하여,",
     Chn:"这亚哈斯王在急难的时候，越发得罪耶和华。",
     Eng:"In his time of trouble King Ahaz became even more unfaithful to the LORD.",
     Ind:"Dalam keadaan terdesak itu raja Ahas ini, malah semakin berubah setia terhadap TUHAN."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Ia mempersembahkan korban kepada para allah orang Damsyik yang telah mengalahkan dia. Pikirnya: \"Yang membantu raja-raja orang Aram adalah para allah mereka; kepada merekalah aku akan mempersembahkan korban, supaya mereka membantu aku juga.\" Tetapi allah-allah itulah yang menjadi sebab keruntuhan bagi dia dan bersama-sama dengan dia bagi seluruh Israel."
   },
   {Bible:"2Chronicles", Chapter:28, Verse:24, Page:1,
-    Kor:"그뿐만 아니라, 아하스는 하나님의 성전 안에 있는 기구를 거두어다가 부수고, 또 주님의 성전으로 드나드는 문들을 닫아 걸고, 예루살렘 이곳 저곳에 제단을 쌓고,",
+    Kor:"그뿐만 아니라, 아하스는 하나님의 성전 안에 있는 기구를 거두어다가 부수고, 또 주의 성전으로 드나드는 문들을 닫아 걸고, 예루살렘 이곳 저곳에 제단을 쌓고,",
     Chn:"亚哈斯将　神殿里的器皿都聚了来，毁坏了，且封锁耶和华殿的门；在耶路撒冷各处的拐角建筑祭坛，",
     Eng:"Ahaz gathered together the furnishings from the temple of God and took them away. He shut the doors of the LORD'S temple and set up altars at every street corner in Jerusalem.",
     Ind:"Ahas mengumpulkan perkakas-perkakas rumah Allah dan menghancurkannya. Ia menutup pintu rumah TUHAN, lalu membuat mezbah-mezbah bagi dirinya di segenap penjuru Yerusalem."

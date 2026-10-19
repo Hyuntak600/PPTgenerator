@@ -3,13 +3,13 @@
 BibleDB.ref("Exodus",21,36);
 BibleDB.add([
   {Bible:"Exodus", Chapter:21, Verse:1, Page:1,
-    Kor:"<종에 관한 법(신 15:12-18)> \"네가 백성 앞에서 공포하여야 할 법규는 다음과 같다.",
+    Kor:"\"네가 백성 앞에서 공포하여야 할 법규는 다음과 같다.",
     Chn:"「你在百姓面前所要立的典章是这样：",
     Eng:"\"These are the laws you are to set before them:",
     Ind:"\"Inilah peraturan-peraturan yang harus kaubawa ke depan mereka."
   },
   {Bible:"Exodus", Chapter:21, Verse:2, Page:1,
-    Kor:"○너희가 히브리 종을 사면, 그는 여섯 해 동안 종살이를 해야 하고, 일곱 해가 되면, 아무런 몸값을 내지 않고서도 자유의 몸이 된다.",
+    Kor:"○너희가 히브리 종을 사면, 그는 여섯 해 동안 종살이를 해야 하고, 일곱 해가 지나면, 아무런 몸값을 내지 않고서도 자유의 몸이 된다.",
     Chn:"你若买希伯来人作奴仆，他必服事你六年；第七年他可以自由，白白地出去。",
     Eng:"\"If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything.",
     Ind:"Apabila engkau membeli seorang budak Ibrani, maka haruslah ia bekerja padamu enam tahun lamanya, tetapi pada tahun yang ketujuh ia diizinkan keluar sebagai orang merdeka, dengan tidak membayar tebusan apa-apa."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi jika budak itu dengan sungguh-sungguh berkata: Aku cinta kepada tuanku, kepada isteriku dan kepada anak-anakku, aku tidak mau keluar sebagai orang merdeka,"
   },
   {Bible:"Exodus", Chapter:21, Verse:6, Page:1,
-    Kor:"주인은 그를 a하나님 앞으로 데리고 가서, 그의 귀를 문이나 문설주에 대고 송곳으로 뚫는다. 그러면 그는 영원히 주인의 종이 된다.(a 또는 '재판장')",
+    Kor:"주인은 그를 하나님 앞으로 데리고 가서, 그의 귀를 문이나 문설주에 대고 송곳으로 뚫는다. 그러면 그는 영원히 주인의 종이 된다.",
     Chn:"他的主人就要带他到审判官那里，又要带他到门前，靠近门框，用锥子穿他的耳朵，他就永远服事主人。",
     Eng:"then his master must take him before the judges. He shall take him to the door or the doorpost and pierce his ear with an awl. Then he will be his servant for life.",
     Ind:"maka haruslah tuannya itu membawanya menghadap Allah, lalu membawanya ke pintu atau ke tiang pintu, dan tuannya itu menusuk telinganya dengan penusuk, dan budak itu bekerja pada tuannya untuk seumur hidup."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Jika tuannya itu tidak melakukan ketiga hal itu kepadanya, maka perempuan itu harus diizinkan keluar, dengan tidak membayar uang tebusan apa-apa.\""
   },
   {Bible:"Exodus", Chapter:21, Verse:12, Page:1,
-    Kor:"<폭력에 관한 법> ○\"사람을 때려서 죽인 자는 반드시 사형에 처하여야 한다.",
+    Kor:"○\"사람을 때려서 죽인 자는 반드시 사형에 처하여야 한다.",
     Chn:"「打人以致打死的，必要把他治死。",
     Eng:"\"Anyone who strikes a man and kills him shall surely be put to death.",
     Ind:"\"Siapa yang memukul seseorang, sehingga mati, pastilah ia dihukum mati."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Dan jika ia menumbuk sampai tanggal gigi budaknya laki-laki atau gigi budaknya perempuan, maka ia harus melepaskan budak itu sebagai orang merdeka pengganti kehilangan giginya itu."
   },
   {Bible:"Exodus", Chapter:21, Verse:28, Page:1,
-    Kor:"<소유자의 책임> ○\"소가 어떤 남자나 여자를 받아서 죽이면, 그 소는 반드시 돌로 쳐서 죽여야 한다. 처형된 소는 먹어서는 안 된다. 이 경우에 소의 임자는 형벌을 받지 않는다.",
+    Kor:"○\"소가 어떤 남자나 여자를 받아서 죽이면, 그 소는 반드시 돌로 쳐서 죽여야 한다. 처형된 소는 먹어서는 안 된다. 이 경우에 소의 임자는 형벌을 받지 않는다.",
     Chn:"「牛若触死男人或是女人，总要用石头打死那牛，却不可吃它的肉；牛的主人可算无罪。",
     Eng:"\"If a bull gores a man or a woman to death, the bull must be stoned to death, and its meat must not be eaten. But the owner of the bull will not be held responsible.",
     Ind:"Apabila seekor lembu menanduk seorang laki-laki atau perempuan, sehingga mati, maka pastilah lembu itu dilempari mati dengan batu dan dagingnya tidak boleh dimakan, tetapi pemilik lembu itu bebas dari hukuman."
   },
   {Bible:"Exodus", Chapter:21, Verse:29, Page:1,
-    Kor:"그러나 그 소에게 받는 버릇이 있는데, 그 임자가 남에게 경고를 받고도 단속하지 않아서 어떤 남자나 여자를 죽게 하였으면, 그 소만 돌로 쳐서 죽일 것이 아니라, 그 임자도 함께 죽여야 한다.",
+    Kor:"그러나 그 소에게 받는 버릇이 있는데, 그 임자가 남에게 경고를 받고도 단속하지 않아서, 어떤 남자나 여자를 죽게 하였으면, 그 소만 돌로 쳐서 죽일 것이 아니라, 그 임자도 함께 죽여야 한다.",
     Chn:"倘若那牛素来是触人的，有人报告了牛主，他竟不把牛拴着，以致把男人或是女人触死，就要用石头打死那牛，牛主也必治死。",
     Eng:"If, however, the bull has had the habit of goring and the owner has been warned but has not kept it penned up and it kills a man or woman, the bull must be stoned and the owner also must be put to death.",
     Ind:"Tetapi jika lembu itu sejak dahulu telah sering menanduk dan pemiliknya telah diperingatkan, tetapi tidak mau menjaganya, kemudian lembu itu menanduk mati seorang laki-laki atau perempuan, maka lembu itu harus dilempari mati dengan batu, tetapi pemiliknyapun harus dihukum mati."

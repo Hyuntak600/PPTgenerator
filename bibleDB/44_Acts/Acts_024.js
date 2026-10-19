@@ -3,31 +3,31 @@
 BibleDB.ref("Acts",24,27);
 BibleDB.add([
   {Bible:"Acts", Chapter:24, Verse:1, Page:1,
-    Kor:"<바울을 고소하다> 닷새 뒤에, 대제사장 아나니아가 몇몇 장로와 더둘로라는 변호사와 함께 내려와서, 총독에게 바울을 고소하였다.",
+    Kor:"닷새 뒤에, 대제사장 아나니아가 몇몇 장로와 더둘로라는 변호사와 함께 내려와서, 총독에게 바울을 고소하였다.",
     Chn:"过了五天，大祭司亚拿尼亚同几个长老，和一个辩士帖土罗下来，向巡抚控告保罗。",
     Eng:"Five days later the high priest Ananias went down to Caesarea with some of the elders and a lawyer named Tertullus, and they brought their charges against Paul before the governor.",
     Ind:"Lima hari kemudian datanglah Imam Besar Ananias bersama-sama dengan beberapa orang tua-tua dan seorang pengacara bernama Tertulus. Mereka menghadap wali negeri dan menyampaikan dakwaan mereka terhadap Paulus."
   },
   {Bible:"Acts", Chapter:24, Verse:2, Page:1,
-    Kor:"바울을 불러내니, 더둘로가 고발하여 말하였다. \"a벨릭스 총독님, 우리는 총독님의 덕분으로 크게 평안을 누리고 있습니다. 그리고 각하의 선견지명의 덕택으로, 이 나라에서는 개혁을 많이 이룰 수 있었습니다.(a 그리스어 본문에는 '벨릭스 총독님'이 없음)",
+    Kor:"바울을 불러내니, 더둘로가 고발하기 시작하였다. \"벨릭스 각하, 우리는 각하의 덕분으로 크게 평안을 누리고 있습니다. 그리고 각하의 선견지명의 덕택으로, 이 나라에서는 개혁을 많이 이룰 수 있었습니다.",
     Chn:"保罗被提了来，帖土罗就告他说：",
     Eng:"When Paul was called in, Tertullus presented his case before Felix: \"We have enjoyed a long period of peace under you, and your foresight has brought about reforms in this nation.",
     Ind:"Paulus dipanggil menghadap dan Tertulus mulai mendakwa dia, katanya: \"Feliks yang mulia, oleh usahamu kami terus-menerus menikmati kesejahteraan, dan oleh kebijaksanaanmu banyak sekali perbaikan yang telah terlaksana untuk bangsa kami."
   },
   {Bible:"Acts", Chapter:24, Verse:3, Page:1,
-    Kor:"우리는 어떤 면으로나, 또 어디에서나, 이것을 인정하며, 감사하여 마지않습니다.",
+    Kor:"우리는 어떤 면으로나, 또 어디에서나, 이것을 인정하며, 감사하여 마지 않습니다.",
     Chn:"「腓力斯大人，我们因你得以大享太平，并且这一国的弊病，因着你的先见得以更正了；我们随时随地满心感谢不尽。",
     Eng:"Everywhere and in every way, most excellent Felix, we acknowledge this with profound gratitude.",
     Ind:"Semuanya itu senantiasa dan di mana-mana kami sambut dengan sangat berterima kasih."
   },
   {Bible:"Acts", Chapter:24, Verse:4, Page:1,
-    Kor:"나는 총독님을 오래 방해하지 않겠으니, 너그러우신 마음으로 우리의 고발을 잠깐 들어주시기 바랍니다.",
+    Kor:"저는 각하를 오래 방해하지 않겠으니, 너그러우신 마음으로 우리의 고소를 잠깐 들어 주시기 바랍니다.",
     Chn:"惟恐多说，你嫌烦絮，只求你宽容听我们说几句话。",
     Eng:"But in order not to weary you further, I would request that you be kind enough to hear us briefly.",
     Ind:"Akan tetapi supaya jangan terlalu banyak menghabiskan waktumu, aku minta, supaya engkau mendengarkan kami sebentar dengan kemurahan hatimu yang terkenal itu."
   },
   {Bible:"Acts", Chapter:24, Verse:5, Page:1,
-    Kor:"우리가 본 바로는, 이 자는 염병 같은 자요, 온 세계에 있는 모든 유대 사람에게 소란을 일으키는 자요, 나사렛 도당의 우두머리입니다.",
+    Kor:"우리가 본 바로는, 이 자는 염병 같은 자요, 온 세계에 있는 모든 유대 사람에게 소란을 일으키는 자요, 나사렛 도당의 괴수입니다.",
     Chn:"我们看这个人，如同瘟疫一般，是鼓动普天下众犹太人生乱的，又是拿撒勒教党里的一个头目，",
     Eng:"\"We have found this man to be a troublemaker, stirring up riots among the Jews all over the world. He is a ringleader of the Nazarene sect",
     Ind:"Telah nyata kepada kami, bahwa orang ini adalah penyakit sampar, seorang yang menimbulkan kekacauan di antara semua orang Yahudi di seluruh dunia yang beradab, dan bahwa ia adalah seorang tokoh dari sekte orang Nasrani."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Malahan ia mencoba melanggar kekudusan Bait Allah. Oleh karena itu kami menangkap dia dan hendak menghakiminya menurut hukum Taurat kami."
   },
   {Bible:"Acts", Chapter:24, Verse:7, Page:1,
-    Kor:"b(6절 하반부터 8절 상반까지 없음)(b 어떤 사본에는 6절 하반절과 7절과 8절 상반절의 내용이 첨가되어 있음. '그래서 우리의 율법대로 재판하려고 했지만, 7. 천부장 루시아가 와서 그를 우리 손에서 강제로 빼앗아 갔습니다. 8. 그리고는 그를 고발하는 사람들에게 총독님께 가라고 명령하였습니다')",
+    Kor:"(없음)",
     Chn:"你自己究问他，就可以知道我们告他的一切事了。」",
     Eng:"",
     Ind:"Tetapi kepala pasukan Lisias datang mencegahnya dan merebut dia dengan kekerasan dari tangan kami,"
   },
   {Bible:"Acts", Chapter:24, Verse:8, Page:1,
-    Kor:"총독님께서 친히 그를 신문하여 보시면, 우리가 그를 고발하는 이유를 다 아시게 될 것입니다.\"",
+    Kor:"각하께서 친히 그를 신문하여 보시면, 우리가 그를 고소하는 이유를 다 아시게 될 것입니다.\"",
     Chn:"众犹太人也随着告他说：「事情诚然是这样。」",
     Eng:"By examining him yourself you will be able to learn the truth about all these charges we are bringing against him.\"",
     Ind:"lalu menyuruh para pendakwa datang menghadap engkau. Jika engkau sendiri memeriksa dia, dapatlah engkau mengetahui segala sesuatu yang kami tuduhkan kepadanya.\""
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Dan juga orang-orang Yahudi menyokong dakwaan itu dengan mengatakan, bahwa perkara itu sungguh demikian."
   },
   {Bible:"Acts", Chapter:24, Verse:10, Page:1,
-    Kor:"<바울이 변명하다> ○그 때에 총독이 바울에게 말하라고 머리를 끄덕이니, 바울이 대답하였다. \"총독님께서 여러 해 동안 이 나라의 재판장으로 계신 것을, 내가 알고 있습니다. 그러므로 나는 기쁜 마음으로 내가 한 일을 변호하겠습니다.",
+    Kor:"○그 때에 총독이 바울에게 말하라고 몸짓을 하니, 바울이 대답하였다. \"각하께서 여러 해 동안 이 나라의 재판장으로 계신 것을, 내가 알고 있습니다. 그러므로 나는 기쁜 마음으로, 내가 한 일을 변명하겠습니다.",
     Chn:"你查问就可以知道，从我上耶路撒冷礼拜到今日不过有十二天。",
     Eng:"When the governor motioned for him to speak, Paul replied: \"I know that for a number of years you have been a judge over this nation; so I gladly make my defense.",
     Ind:"Lalu wali negeri itu memberi isyarat kepada Paulus, bahwa ia boleh berbicara. Maka berkatalah Paulus: \"Aku tahu, bahwa sudah bertahun-tahun lamanya engkau menjadi hakim atas bangsa ini. Karena itu tanpa ragu-ragu aku membela perkaraku ini di hadapanmu:"
   },
   {Bible:"Acts", Chapter:24, Verse:11, Page:1,
-    Kor:"내가 예루살렘에 예배하러 올라간 지 열이틀밖에 되지 않았다는 것은, 총독님께서도 곧 아실 수 있습니다.",
+    Kor:"내가 예루살렘에 예배하러 올라간 지 열이틀밖에 되지 못했다는 것은, 각하께서도 곧 아실 수 있습니다.",
     Chn:"他们并没有看见我在殿里，或是在会堂里，或是在城里，和人辩论，耸动众人。",
     Eng:"You can easily verify that no more than twelve days ago I went up to Jerusalem to worship.",
     Ind:"Engkau dapat memastikan, bahwa tidak lebih dari dua belas hari yang lalu aku datang ke Yerusalem untuk beribadah."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Dan tidak pernah orang mendapati aku sedang bertengkar dengan seseorang atau mengadakan huru-hara, baik di dalam Bait Allah, maupun di dalam rumah ibadat, atau di tempat lain di kota."
   },
   {Bible:"Acts", Chapter:24, Verse:13, Page:1,
-    Kor:"지금 그들은 내가 한 일을 들어서 고발하고 있지만, 총독님께 아무 증거도 제시할 수 없습니다.",
+    Kor:"지금 그들은 내가 한 일을 들어서 고발하고 있지만, 각하께 아무 증거도 제시할 수 없습니다.",
     Chn:"但有一件事，我向你承认，就是他们所称为异端的道，我正按着那道事奉我祖宗的　神，又信合乎律法的和先知书上一切所记载的，",
     Eng:"And they cannot prove to you the charges they are now making against me.",
     Ind:"Dan mereka tidak dapat membuktikan kepadamu apa yang sekarang dituduhkan mereka kepada diriku."
   },
   {Bible:"Acts", Chapter:24, Verse:14, Page:1,
-    Kor:"그러나 나는 총독님께 이 사실을 고백합니다. 그것은 내가, 그들이 이단이라고 하는 그 '도'를 따라 우리 조상의 하나님을 섬기고, 율법과 예언서에 기록되어 있는 모든 것을 믿는다는 사실입니다.",
+    Kor:"그러나 나는 각하께 이 사실을 고백합니다. 그것은 내가, 그들이 이단이라고 하는 그 '도'를 따라 우리 조상의 하나님을 섬기고, 율법과 예언서에 기록되어 있는 모든 것을 믿는다는 사실입니다.",
     Chn:"并且靠着　神，盼望死人，无论善恶，都要复活，就是他们自己也有这个盼望。",
     Eng:"However, I admit that I worship the God of our fathers as a follower of the Way, which they call a sect. I believe everything that agrees with the Law and that is written in the Prophets,",
     Ind:"Tetapi aku mengakui kepadamu, bahwa aku berbakti kepada Allah nenek moyang kami dengan menganut Jalan Tuhan, yaitu Jalan yang mereka sebut sekte. Aku percaya kepada segala sesuatu yang ada tertulis dalam hukum Taurat dan dalam kitab nabi-nabi."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Aku menaruh pengharapan kepada Allah, sama seperti mereka juga, bahwa akan ada kebangkitan semua orang mati, baik orang-orang yang benar maupun orang-orang yang tidak benar."
   },
   {Bible:"Acts", Chapter:24, Verse:16, Page:1,
-    Kor:"그러므로 나도 언제나 하나님과 사람들 앞에서 거리낌없는 양심을 가지려고 힘쓰고 있습니다.",
+    Kor:"그러므로 나도 언제나 하나님과 사람들 앞에서 거리낌 없는 양심을 가지려고 힘쓰고 있습니다.",
     Chn:"过了几年，我带着周济本国的捐项和供献的物上去。",
     Eng:"So I strive always to keep my conscience clear before God and man.",
     Ind:"Sebab itu aku senantiasa berusaha untuk hidup dengan hati nurani yang murni di hadapan Allah dan manusia."
   },
   {Bible:"Acts", Chapter:24, Verse:17, Page:1,
-    Kor:"나는, 내 겨레에게 구제금을 전달하고, 하나님께 제물을 바치려고, 여러 해 만에 고국에 돌아왔습니다.",
+    Kor:"나는, 내 민족에게 구제금을 전달하고, 하나님께 제물을 바치려고, 여러 해 만에 고국으로 돌아왔습니다.",
     Chn:"正献的时候，他们看见我在殿里已经洁净了，并没有聚众，也没有吵嚷，惟有几个从亚细亚来的犹太人。",
     Eng:"\"After an absence of several years, I came to Jerusalem to bring my people gifts for the poor and to present offerings.",
     Ind:"Dan setelah beberapa tahun lamanya aku datang kembali ke Yerusalem untuk membawa pemberian bagi bangsaku dan untuk mempersembahkan persembahan-persembahan."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Sementara aku melakukan semuanya itu, beberapa orang Yahudi dari Asia mendapati aku di dalam Bait Allah, sesudah aku selesai mentahirkan diriku, tanpa orang banyak dan tanpa keributan."
   },
   {Bible:"Acts", Chapter:24, Verse:19, Page:1,
-    Kor:"그 자리에는 c아시아에서 온 몇몇 유대 사람이 있었는데, 내가 한 일을 들어 고발할 것이 있으면, 그 사람들이 총독님 앞에 나타나서 고발했어야 마땅할 것입니다.(c 오늘날의 소아시아의 서남부에 위치한 로마의 행정 구역인 아시아 주를 가리킴)",
+    Kor:"그 자리에는 아시아에서 온 몇몇 유대 사람이 있었는데, 내가 한 일을 들어서 고발할 것이 있으면, 그 사람들이 각하 앞에 나타나서 고발했어야 마땅할 것입니다.",
     Chn:"即或不然，这些人若看出我站在公会前，有妄为的地方，他们自己也可以说明。",
     Eng:"But there are some Jews from the province of Asia, who ought to be here before you and bring charges if they have anything against me.",
     Ind:"Merekalah yang sebenarnya harus menghadap engkau di sini dan mengajukan dakwaan mereka, jika mereka mempunyai sesuatu terhadap aku."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Namun biarlah orang-orang yang hadir di sini sekarang menyatakan kejahatan apakah yang mereka dapati, ketika aku dihadapkan di Mahkamah Agama."
   },
   {Bible:"Acts", Chapter:24, Verse:21, Page:1,
-    Kor:"다만 나는 그들 가운데 서서 말하기를 '오늘 내가 여러분에게 재판을 받고 있는 것은, 죽은 사람들의 부활과 관련된 문제 때문입니다' 하는 이 한 마디 말을 부르짖었을 뿐입니다.\"",
+    Kor:"다만 나는 그들 가운데 서서 '오늘 내가 여러분에게 재판을 받고 있는 것은, 죽은 사람들의 부활과 관련된 문제 때문입니다' 하는 한 마디를 부르짖었을 뿐입니다.\"",
     Chn:"腓力斯本是详细晓得这道，就支吾他们说：「且等千夫长吕西亚下来，我要审断你们的事。」",
     Eng:"unless it was this one thing I shouted as I stood in their presence: 'It is concerning the resurrection of the dead that I am on trial before you today.'\"",
     Ind:"Atau mungkinkah karena satu-satunya perkataan yang aku serukan, ketika aku berdiri di tengah-tengah mereka, yakni: Karena hal kebangkitan orang-orang mati, aku hari ini dihadapkan kepada kamu.\""
   },
   {Bible:"Acts", Chapter:24, Verse:22, Page:1,
-    Kor:"○벨릭스는 그 '도'와 관련된 일을 자세히 알고 있었으므로, \"천부장 루시아가 내려오거든, 당신들의 소송을 처리하겠소\" 하고 말하고서, 신문을 연기하였다.",
+    Kor:"○벨릭스는 그 '도'와 관련된 일을 자세히 알고 있었으므로 \"천부장 루시아가 내려오거든, 당신들의 소송을 처결하겠소\" 하고 말하고서, 신문을 연기하였다.",
     Chn:"于是吩咐百夫长看守保罗，并且宽待他，也不拦阻他的亲友来供给他。",
     Eng:"Then Felix, who was well acquainted with the Way, adjourned the proceedings. \"When Lysias the commander comes,\" he said, \"I will decide your case.\"",
     Ind:"Tetapi Feliks yang tahu benar-benar akan Jalan Tuhan, menangguhkan perkara mereka, katanya: \"Setibanya kepala pasukan Lisias di sini, aku akan mengambil keputusan dalam perkaramu.\""
@@ -141,25 +141,25 @@ BibleDB.add([
     Ind:"Lalu ia menyuruh perwira itu tetap menahan Paulus, tetapi dengan tahanan ringan, dan tidak boleh mencegah sahabat-sahabatnya melayani dia."
   },
   {Bible:"Acts", Chapter:24, Verse:24, Page:1,
-    Kor:"<바울이 감옥에 갇혀 지내다> ○며칠 뒤에 벨릭스가 유대 여자인 자기 아내 드루실라와 함께 와서, 바울을 불러내어, 그리스도 예수를 믿는 믿음에 관하여 바울이 설명하는 것을 들었다.",
+    Kor:"○며칠 뒤에 벨릭스가 유대 여자인 자기 아내 드루실라와 함께 와서, 바울을 불러내어, 그리스도 예수를 믿는 믿음을 설명하는 강론을 들었다.",
     Chn:"保罗讲论公义、节制，和将来的审判。腓力斯甚觉恐惧，说：「你暂且去吧，等我得便再叫你来。」",
     Eng:"Several days later Felix came with his wife Drusilla, who was a Jewess. He sent for Paul and listened to him as he spoke about faith in Christ Jesus.",
     Ind:"Dan setelah beberapa hari datanglah Feliks bersama-sama dengan isterinya Drusila, seorang Yahudi; ia menyuruh memanggil Paulus, lalu mendengar dari padanya tentang kepercayaan kepada Yesus Kristus."
   },
   {Bible:"Acts", Chapter:24, Verse:25, Page:1,
-    Kor:"바울이 정의와 절제와 장차 올 심판에 관해서 말할 때에, 벨릭스는 두려워서 \"이제 그만하면 되었으니, 가시오. 기회가 있으면, 다시 당신을 부르겠소\" 하고 말하였다.",
+    Kor:"바울이 정의와 절제와 장차 올 심판을 두고 말할 때에, 벨릭스는 두려워서 \"이제 그만하면 되었으니, 가시오. 기회가 있으면, 다시 당신을 부르겠소\" 하고 말하였다.",
     Chn:"腓力斯又指望保罗送他银钱，所以屡次叫他来，和他谈论。",
     Eng:"As Paul discoursed on righteousness, self-control and the judgment to come, Felix was afraid and said, \"That's enough for now! You may leave. When I find it convenient, I will send for you.\"",
     Ind:"Tetapi ketika Paulus berbicara tentang kebenaran, penguasaan diri dan penghakiman yang akan datang, Feliks menjadi takut dan berkata: \"Cukuplah dahulu dan pergilah sekarang; apabila ada kesempatan baik, aku akan menyuruh memanggil engkau.\""
   },
   {Bible:"Acts", Chapter:24, Verse:26, Page:1,
-    Kor:"동시에 그는 바울에게서 돈을 받을까 하고 은근히 바랐다. 그래서 그는 바울을 자주 불러내어 이야기를 나누었다.",
+    Kor:"동시에 그는 바울에게서 돈을 받을까 하고 은근히 바라서, 바울을 자주 불러내어 이야기를 나누었다.",
     Chn:"过了两年，波求·非斯都接了腓力斯的任；腓力斯要讨犹太人的喜欢，就留保罗在监里。",
     Eng:"At the same time he was hoping that Paul would offer him a bribe, so he sent for him frequently and talked with him.",
     Ind:"Sementara itu ia berharap, bahwa Paulus akan memberikan uang kepadanya. Karena itu ia sering memanggilnya untuk bercakap-cakap dengan dia."
   },
   {Bible:"Acts", Chapter:24, Verse:27, Page:1,
-    Kor:"○두 해가 지난 뒤에, 보르기오 베스도가 벨릭스의 후임으로 직책을 맡게 되었다. 그런데 벨릭스는 유대 사람의 환심을 사고자 하여, 바울을 가두어 둔 채로 내버려 두었다.",
+    Kor:"○두 해가 지난 뒤에, 보르기오 베스도가 벨릭스의 후임으로 직책을 맡게 되었다. 그런데 벨릭스는 유대 사람의 환심을 사고자 하여, 바울을 가둔 채로 내버려 두었다.",
     Chn:"",
     Eng:"When two years had passed, Felix was succeeded by Porcius Festus, but because Felix wanted to grant a favor to the Jews, he left Paul in prison.",
     Ind:"Tetapi sesudah genap dua tahun, Feliks digantikan oleh Perkius Festus, dan untuk mengambil hati orang Yahudi, ia membiarkan Paulus tetap dalam penjara."

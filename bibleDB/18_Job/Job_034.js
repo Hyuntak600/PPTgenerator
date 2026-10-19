@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Malah Ia mengganjar manusia sesuai perbuatannya, dan membuat setiap orang mengalami sesuai kelakuannya."
   },
   {Bible:"Job", Chapter:34, Verse:12, Page:1,
-    Kor:"전능하신 하나님은 악한 일이나, 정의를 그르치는 일은, 하지 않으십니다.",
+    Kor:"전능하신 하나님은 악한 일을 하시거나, 정의를 그르치시는 일을 하시거나, 하지 않으십니다.",
     Chn:"神必不作恶； 全能者也不偏离公平。",
     Eng:"It is unthinkable that God would do wrong, that the Almighty would pervert justice.",
     Ind:"Sungguh, Allah tidak berlaku curang, Yang Mahakuasa tidak membengkokkan keadilan."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Ah, kiranya Ayub diuji terus-menerus, karena ia menjawab seperti orang-orang jahat!"
   },
   {Bible:"Job", Chapter:34, Verse:37, Page:1,
-    Kor:"욥 어른은 자신이 지은 죄에다가 반역까지 더하였으며, 우리가 보는 앞에서도 하나님을 모독하였습니다.",
+    Kor:"욥은 자신이 지은 죄에다가 반역까지 더하였으며, 우리가 보는 앞에서도 하나님을 모독하였습니다.",
     Chn:"他在罪上又加悖逆； 在我们中间拍手， 用许多言语轻慢　神。",
     Eng:"To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.\"",
     Ind:"Karena ia menambahkan dosanya dengan pelanggaran, ia mengepalkan tangan di antara kami dan banyak bicara terhadap Allah.\""

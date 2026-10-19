@@ -3,13 +3,13 @@
 BibleDB.ref("Mark",15,47);
 BibleDB.add([
   {Bible:"Mark", Chapter:15, Verse:1, Page:1,
-    Kor:"<빌라도에게 신문을 받으시다(마 27:1-2, 11-14; 눅 23:1-5; 요 18:28-38)> 새벽에 곧 대제사장들이 장로들과 율법학자들과 더불어 회의를 열었는데 그것은 전체 의회였다. 그들은 예수를 결박하고 끌고 가서, 빌라도에게 넘겨주었다.",
+    Kor:"새벽에 곧 대제사장들이 장로들과 율법학자들과 더불어 회의를 열었는데 그것은 전체 의회였다. 그들은 예수를 결박하고 끌고 가서, 빌라도에게 넘겨 주었다.",
     Chn:"一到早晨，祭司长和长老、文士、全公会的人大家商议，就把耶稣捆绑，解去交给彼拉多。",
     Eng:"Very early in the morning, the chief priests, with the elders, the teachers of the law and the whole Sanhedrin, reached a decision. They bound Jesus, led him away and handed him over to Pilate.",
     Ind:"Pagi-pagi benar imam-imam kepala bersama tua-tua dan ahli-ahli Taurat dan seluruh Mahkamah Agama sudah bulat mupakatnya. Mereka membelenggu Yesus lalu membawa-Nya dan menyerahkan-Nya kepada Pilatus."
   },
   {Bible:"Mark", Chapter:15, Verse:2, Page:1,
-    Kor:"그래서 빌라도가 예수께 물었다. \"당신이 유대인의 왕이오?\" 그러자 예수께서 빌라도에게 대답하셨다. \"당신이 그렇게 말하였소.\"",
+    Kor:"그래서 빌라도는 예수께 물었다. \"당신이 유대인의 왕이오?\" 그러자 예수께서는 빌라도에게 \"당신이 그렇게 말하였소\" 하고 말씀하셨다.",
     Chn:"彼拉多问他说：「你是犹太人的王吗？」耶稣回答说：「你说的是。」",
     Eng:"\"Are you the king of the Jews?\" asked Pilate. \"Yes, it is as you say,\" Jesus replied.",
     Ind:"Pilatus bertanya kepada-Nya: \"Engkaukah raja orang Yahudi?\" Jawab Yesus: \"Engkau sendiri mengatakannya.\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu imam-imam kepala mengajukan banyak tuduhan terhadap Dia."
   },
   {Bible:"Mark", Chapter:15, Verse:4, Page:1,
-    Kor:"빌라도는 다시 예수께 물었다. \"당신은 아무 답변도 하지 않소? 사람들이 얼마나 여러 가지로 당신을 고발하는지 보시오.\"",
+    Kor:"빌라도는 다시 예수께 물어 말하였다. \"당신은 아무 답변도 하지 않소? 사람들이 얼마나 여러 가지로 당신을 고발하는지 보시오.\"",
     Chn:"彼拉多又问他说：「你看，他们告你这么多的事，你什么都不回答吗？」",
     Eng:"So again Pilate asked him, \"Aren't you going to answer? See how many things they are accusing you of.\"",
     Ind:"Pilatus bertanya pula kepada-Nya, katanya: \"Tidakkah Engkau memberi jawab? Lihatlah betapa banyaknya tuduhan mereka terhadap Engkau!\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi Yesus sama sekali tidak menjawab lagi, sehingga Pilatus merasa heran."
   },
   {Bible:"Mark", Chapter:15, Verse:6, Page:1,
-    Kor:"<사형 선고를 받으시다(마 27:15-26; 눅 23:13-25; 요 18:39-19:16)> ○그런데 빌라도는 명절 때마다 사람들이 요구하는 죄수 하나를 놓아 주곤 하였다.",
+    Kor:"○그런데 빌라도는 명절 때마다 사람들이 요구하는 죄수 하나를 놓아 주곤 하였다.",
     Chn:"每逢这节期，巡抚照众人所求的，释放一个囚犯给他们。",
     Eng:"Now it was the custom at the Feast to release a prisoner whom the people requested.",
     Ind:"Telah menjadi kebiasaan untuk membebaskan satu orang hukuman pada tiap-tiap hari raya itu menurut permintaan orang banyak."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Maka datanglah orang banyak dan meminta supaya sekarang kebiasaan itu diikuti juga."
   },
   {Bible:"Mark", Chapter:15, Verse:9, Page:1,
-    Kor:"빌라도가 말하였다. \"여러분은 내가 그 유대인의 왕을 여러분에게 놓아주기를 바라는 거요?\"",
+    Kor:"빌라도가 말하기를 \"여러분은 내가 그 유대인의 왕을 여러분에게 놓아 주기를 바라는 거요?\" 하였다.",
     Chn:"彼拉多说：「你们要我释放犹太人的王给你们吗？」",
     Eng:"\"Do you want me to release to you the king of the Jews?\" asked Pilate,",
     Ind:"Pilatus menjawab mereka dan bertanya: \"Apakah kamu menghendaki supaya kubebaskan raja orang Yahudi ini?\""
   },
   {Bible:"Mark", Chapter:15, Verse:10, Page:1,
-    Kor:"그는 대제사장들이 예수를 시기하여 넘겨주었음을 알았던 것이다.",
+    Kor:"그는 대제사장들이 예수를 시기하여 넘겨 주었음을 알았던 것이다.",
     Chn:"他原晓得，祭司长是因为嫉妒才把耶稣解了来。",
     Eng:"knowing it was out of envy that the chief priests had handed Jesus over to him.",
     Ind:"Ia memang mengetahui, bahwa imam-imam kepala telah menyerahkan Yesus karena dengki."
@@ -69,37 +69,37 @@ BibleDB.add([
     Ind:"Tetapi imam-imam kepala menghasut orang banyak untuk meminta supaya Barabaslah yang dibebaskannya bagi mereka."
   },
   {Bible:"Mark", Chapter:15, Verse:12, Page:1,
-    Kor:"빌라도는 다시 그들에게 말하였다. \"그러면, 당신들은 유대인의 왕이라고 하는 그 사람을 a나더러 어떻게 하라는 거요?\"(a 다른 고대 사본들에는 '내가 어떻게 해 주기를 원하오?')",
+    Kor:"빌라도는 다시 그들에게 말하였다. \"그러면, 당신들이 유대인의 왕이라고 하는 그 사람을 나더러 어떻게 하라는 거요?\"",
     Chn:"彼拉多又说：「那么样，你们所称为犹太人的王，我怎么办他呢？」",
     Eng:"\"What shall I do, then, with the one you call the king of the Jews?\" Pilate asked them.",
     Ind:"Pilatus sekali lagi menjawab dan bertanya kepada mereka: \"Jika begitu, apakah yang harus kuperbuat dengan orang yang kamu sebut raja orang Yahudi ini?\""
   },
   {Bible:"Mark", Chapter:15, Verse:13, Page:1,
-    Kor:"그들이 다시 소리를 질렀다. \"십자가에 못박으시오!\"",
+    Kor:"그들은 다시 \"십자가에 못박으시오\" 하고 소리를 질렀다.",
     Chn:"他们又喊着说：「把他钉十字架！」",
     Eng:"\"Crucify him!\" they shouted.",
     Ind:"Maka mereka berteriak lagi, katanya: \"Salibkanlah Dia!\""
   },
   {Bible:"Mark", Chapter:15, Verse:14, Page:1,
-    Kor:"빌라도가 그들에게 말하였다. \"정말 이 사람이 무슨 나쁜 일을 하였소?\" 그들은 더욱 크게 소리를 질렀다. \"십자가에 못박으시오!\"",
+    Kor:"빌라도가 그들에게 말하였다. \"정말 이 사람이 무슨 나쁜 일을 하였소?\" 그들은 더욱 크게 \"십자가에 못박으시오\" 하고 소리를 질렀다.",
     Chn:"彼拉多说：「为什么呢？他做了什么恶事呢？」他们便极力地喊着说：「把他钉十字架！」",
     Eng:"\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\"",
     Ind:"Lalu Pilatus berkata kepada mereka: \"Tetapi kejahatan apakah yang telah dilakukan-Nya?\" Namun mereka makin keras berteriak: \"Salibkanlah Dia!\""
   },
   {Bible:"Mark", Chapter:15, Verse:15, Page:1,
-    Kor:"그리하여 빌라도는 무리를 만족시켜 주려고, 바라바는 놓아주고, 예수는 채찍질한 다음에 십자가에 처형당하게 넘겨주었다.",
+    Kor:"그리하여 빌라도는 무리를 만족시켜 주려고, 바라바는 놓아 주고, 예수는 채찍질을 한 뒤에 십자가에 처형당하게 넘겨 주었다.",
     Chn:"彼拉多要叫众人喜悦，就释放巴拉巴给他们，将耶稣鞭打了，交给人钉十字架。",
     Eng:"Wanting to satisfy the crowd, Pilate released Barabbas to them. He had Jesus flogged, and handed him over to be crucified.",
     Ind:"Dan oleh karena Pilatus ingin memuaskan hati orang banyak itu, ia membebaskan Barabas bagi mereka. Tetapi Yesus disesahnya lalu diserahkannya untuk disalibkan."
   },
   {Bible:"Mark", Chapter:15, Verse:16, Page:1,
-    Kor:"<병사들이 예수를 조롱하다(마 27:27-31; 요 19:2-3)> ○병사들이 예수를 뜰 안으로 끌고 갔다. 그 곳은 총독 공관이었다. 그들은 온 부대를 집합시켰다.",
+    Kor:"○군인들이 예수를 뜰 안으로 끌고 갔다. 그 곳은 총독 공관이었다. 그들은 온 부대를 집합시켰다.",
     Chn:"兵丁把耶稣带进衙门院里，叫齐了全营的兵。",
     Eng:"The soldiers led Jesus away into the palace (that is, the Praetorium) and called together the whole company of soldiers.",
     Ind:"Kemudian serdadu-serdadu membawa Yesus ke dalam istana, yaitu gedung pengadilan, dan memanggil seluruh pasukan berkumpul."
   },
   {Bible:"Mark", Chapter:15, Verse:17, Page:1,
-    Kor:"그런 다음에 그들은 예수께 자색 옷을 입히고, 가시관을 엮어서 머리에 씌운 뒤에,",
+    Kor:"그런 다음에 그들은 예수께 자색 옷을 입히고, 가시관을 엮어서 머리에 씌운 뒤에",
     Chn:"他们给他穿上紫袍，又用荆棘编做冠冕给他戴上，",
     Eng:"They put a purple robe on him, then twisted together a crown of thorns and set it on him.",
     Ind:"Mereka mengenakan jubah ungu kepada-Nya, menganyam sebuah mahkota duri dan menaruhnya di atas kepala-Nya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Sesudah mengolok-olokkan Dia mereka menanggalkan jubah ungu itu dari pada-Nya dan mengenakan pula pakaian-Nya kepada-Nya. (15-20b) Kemudian Yesus dibawa ke luar untuk disalibkan."
   },
   {Bible:"Mark", Chapter:15, Verse:21, Page:1,
-    Kor:"<예수께서 십자가에 못박히시다(마 27:32-44; 눅 23:26-43; 요 19:17-27)> ○그런데 어떤 사람이 시골에서 오는 길에, 그 곳을 지나가고 있었다. 그는 알렉산더와 루포의 아버지로서, 구레네 사람 시몬이었다. 그들은 그에게 강제로 예수의 십자가를 지고 가게 하였다.",
+    Kor:"○그런데 어떤 사람이 시골에서 오는 길에, 그 곳을 지나가고 있었다. 그는 알렉산더와 루포의 아버지로서, 구레네 사람 시몬이었다. 그들은 그에게 강제로 예수의 십자가를 지고 가게 하였다.",
     Chn:"有一个古利奈人西门，就是亚历山大和鲁孚的父亲，从乡下来，经过那地方，他们就勉强他同去，好背着耶稣的十字架。",
     Eng:"A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by on his way in from the country, and they forced him to carry the cross.",
     Ind:"Pada waktu itu lewat seorang yang bernama Simon, orang Kirene, ayah Aleksander dan Rufus, yang baru datang dari luar kota, dan orang itu mereka paksa untuk memikul salib Yesus."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Kemudian mereka menyalibkan Dia, lalu mereka membagi pakaian-Nya dengan membuang undi atasnya untuk menentukan bagian masing-masing."
   },
   {Bible:"Mark", Chapter:15, Verse:25, Page:1,
-    Kor:"예수를 십자가에 못박은 때는, b아침 아홉 시였다.(b 그, '제 삼시')",
+    Kor:"○예수를 십자가에 못박은 때는, 아침 아홉 시였다.",
     Chn:"钉他在十字架上是巳初的时候。",
     Eng:"It was the third hour when they crucified him.",
     Ind:"Hari jam sembilan ketika Ia disalibkan."
@@ -159,67 +159,67 @@ BibleDB.add([
     Ind:"Dan alasan mengapa Ia dihukum disebut pada tulisan yang terpasang di situ: \"Raja orang Yahudi\"."
   },
   {Bible:"Mark", Chapter:15, Verse:27, Page:1,
-    Kor:"그들은 예수와 함께 강도 두 사람을 십자가에 못박았는데, 하나는 그의 오른쪽에, 하나는 그의 왼쪽에 달았다.",
+    Kor:"그들은 예수와 함께 강도 두 사람을 십자가에 못박았는데, 하나는 그의 오른쪽에, 하나는 그의 왼쪽에 달았다. (28절 없음)",
     Chn:"他们又把两个强盗和他同钉十字架，一个在右边，一个在左边。",
     Eng:"They crucified two robbers with him, one on his right and one on his left.",
     Ind:"Bersama dengan Dia disalibkan dua orang penyamun, seorang di sebelah kanan-Nya dan seorang di sebelah kiri-Nya."
   },
   {Bible:"Mark", Chapter:15, Verse:28, Page:1,
-    Kor:"c(28절 없음)(c 다른 고대 사본들에는 \"28. 그리하여 '그는 범법자들 가운데 한 사람으로 여김을 받았다'고 한 성경 말씀이 이루어졌다\")",
+    Kor:"(없음)",
     Chn:"从那里经过的人辱骂他，摇着头说：「咳！你这拆毁圣殿、三日又建造起来的，",
     Eng:"",
     Ind:"(Demikian genaplah nas Alkitab yang berbunyi: \"Ia akan terhitung di antara orang-orang durhaka.\")"
   },
   {Bible:"Mark", Chapter:15, Verse:29, Page:1,
-    Kor:"지나가는 사람들이 머리를 흔들면서, 예수를 모욕하며 말하였다. \"아하! 성전을 허물고 사흘만에 짓겠다던 사람아,",
+    Kor:"지나가는 사람들이 머리를 흔들면서, 예수를 모욕하며 말하기를 \"아하! 성전을 허물고 사흘 만에 짓겠다던 사람아,",
     Chn:"可以救自己，从十字架上下来吧！」",
     Eng:"Those who passed by hurled insults at him, shaking their heads and saying, \"So! You who are going to destroy the temple and build it in three days,",
     Ind:"Orang-orang yang lewat di sana menghujat Dia, dan sambil menggelengkan kepala mereka berkata: \"Hai Engkau yang mau merubuhkan Bait Suci dan mau membangunnya kembali dalam tiga hari,"
   },
   {Bible:"Mark", Chapter:15, Verse:30, Page:1,
-    Kor:"자기나 구원하여 십자가에서 내려오려무나!\"",
+    Kor:"자기나 구원하여 십자가에서 내려오너라!\" 하였다.",
     Chn:"祭司长和文士也是这样戏弄他，彼此说：「他救了别人，不能救自己。",
     Eng:"come down from the cross and save yourself!\"",
     Ind:"turunlah dari salib itu dan selamatkan diri-Mu!\""
   },
   {Bible:"Mark", Chapter:15, Verse:31, Page:1,
-    Kor:"대제사장들도 율법학자들과 함께 그렇게 조롱하면서 말하였다. \"그가, 남은 구원하였으나, 자기는 구원하지 못하는구나!",
+    Kor:"대제사장들도 율법학자들과 함께 그렇게 조롱하면서 말하기를 \"그가, 남은 구원하였으나, 자기는 구원하지 못하는구나!",
     Chn:"以色列的王基督，现在可以从十字架上下来，叫我们看见，就信了。」那和他同钉的人也是讥诮他。",
     Eng:"In the same way the chief priests and the teachers of the law mocked him among themselves. \"He saved others,\" they said, \"but he can't save himself!",
     Ind:"Demikian juga imam-imam kepala bersama-sama ahli Taurat mengolok-olokkan Dia di antara mereka sendiri dan mereka berkata: \"Orang lain Ia selamatkan, tetapi diri-Nya sendiri tidak dapat Ia selamatkan!"
   },
   {Bible:"Mark", Chapter:15, Verse:32, Page:1,
-    Kor:"이스라엘의 왕 d그리스도는 지금 십자가에서 내려와 봐라. 그래서 우리로 하여금 보고 믿게 하여라!\" 예수와 함께 십자가에 달린 두 사람도 그를 욕하였다.(d 또는 '메시아'. 그리스도는 그리스어이고, 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함)",
+    Kor:"이스라엘의 왕 그리스도는 지금 십자가에서 내려와 봐라. 그래서 우리로 하여금 보고 믿게 하여라!\" 하였다. 예수와 함께 십자가에 달린 두 사람도 그를 욕하였다.",
     Chn:"从午正到申初，遍地都黑暗了。",
     Eng:"Let this Christ, this King of Israel, come down now from the cross, that we may see and believe.\" Those crucified with him also heaped insults on him.",
     Ind:"Baiklah Mesias, Raja Israel itu, turun dari salib itu, supaya kita lihat dan percaya.\" Bahkan kedua orang yang disalibkan bersama-sama dengan Dia mencela Dia juga."
   },
   {Bible:"Mark", Chapter:15, Verse:33, Page:1,
-    Kor:"<예수께서 숨을 거두시다(마 27:45-56; 눅 23:44-49; 요 19:28-30)> ○낮 열두 시가 되었을 때에, 어둠이 온 땅을 덮어서, 오후 세 시까지 계속되었다.",
+    Kor:"○낮 열두 시가 되었을 때에, 어둠이 온 땅을 덮어서, 오후 세 시까지 계속되었다.",
     Chn:"申初的时候，耶稣大声喊着说：「以罗伊！以罗伊！拉马撒巴各大尼？」（翻出来就是：我的　神！我的　神！为什么离弃我？）",
     Eng:"At the sixth hour darkness came over the whole land until the ninth hour.",
     Ind:"Pada jam dua belas, kegelapan meliputi seluruh daerah itu dan berlangsung sampai jam tiga."
   },
   {Bible:"Mark", Chapter:15, Verse:34, Page:1,
-    Kor:"세 시에 예수께서 큰소리로 부르짖으셨다. e\"엘로이 엘로이 레마 사박다니?\" 그것은 번역하면 \"나의 하나님, 나의 하나님, f어찌하여 g나를 버리셨습니까?\" 하는 뜻이다.(e 시 22:1 f 또는 '무엇 하시려고' g 다른 고대 사본들에는 '나를 꾸짖으십니까?')",
+    Kor:"세 시에 예수께서 큰소리로 \"엘로이 엘로이 레마 사박다니?\" 하고 부르짖으셨다. 그것은 번역하면 \"나의 하나님, 나의 하나님, 어찌하여 나를 버리셨습니까?\" 하는 뜻이다.",
     Chn:"旁边站着的人，有的听见就说：「看哪，他叫以利亚呢！」",
     Eng:"And at the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\"",
     Ind:"Dan pada jam tiga berserulah Yesus dengan suara nyaring: \"Eloi, Eloi, lama sabakhtani?\", yang berarti: Allahku, Allahku, mengapa Engkau meninggalkan Aku?"
   },
   {Bible:"Mark", Chapter:15, Verse:35, Page:1,
-    Kor:"거기에 서 있는 사람들 가운데서 몇이, 이 말을 듣고서 말하였다. \"보시오, 그가 엘리야를 부르고 있소.\"",
+    Kor:"거기에 서 있는 사람들 가운데서 몇이, 이 말을 듣고서 말하기를 \"보시오, 그가 엘리야를 부르고 있소\" 하였다.",
     Chn:"有一个人跑去，把海绒蘸满了醋，绑在苇子上，送给他喝，说：「且等着，看以利亚来不来把他取下。」",
     Eng:"When some of those standing near heard this, they said, \"Listen, he's calling Elijah.\"",
     Ind:"Mendengar itu, beberapa orang yang berdiri di situ berkata: \"Lihat, Ia memanggil Elia.\""
   },
   {Bible:"Mark", Chapter:15, Verse:36, Page:1,
-    Kor:"어떤 사람이 달려가서, 해면을 신 포도주에 푹 적셔서 갈대에 꿰어, 그에게 마시게 하며 말하였다. \"어디 엘리야가 와서, 그를 내려 주나 두고 봅시다.\"",
+    Kor:"어떤 사람이 달려가서, 해면을 신 포도주에 푹 적셔서 갈대에 꿰어, 그에게 마시게 하며 말하기를 \"어디 엘리야가 와서, 그를 내려 주나 두고 봅시다\" 하였다.",
     Chn:"耶稣大声喊叫，气就断了。",
     Eng:"One man ran, filled a sponge with wine vinegar, put it on a stick, and offered it to Jesus to drink. \"Now leave him alone. Let's see if Elijah comes to take him down,\" he said.",
     Ind:"Maka datanglah seorang dengan bunga karang, mencelupkannya ke dalam anggur asam lalu mencucukkannya pada sebatang buluh dan memberi Yesus minum serta berkata: \"Baiklah kita tunggu dan melihat apakah Elia datang untuk menurunkan Dia.\""
   },
   {Bible:"Mark", Chapter:15, Verse:37, Page:1,
-    Kor:"예수께서는 큰 소리를 지르시고서 숨지셨다.",
+    Kor:"예수께서는 큰소리를 지르시고서 숨지셨다.",
     Chn:"殿里的幔子从上到下裂为两半。",
     Eng:"With a loud cry, Jesus breathed his last.",
     Ind:"Lalu berserulah Yesus dengan suara nyaring dan menyerahkan nyawa-Nya."
@@ -231,25 +231,25 @@ BibleDB.add([
     Ind:"Ketika itu tabir Bait Suci terbelah dua dari atas sampai ke bawah."
   },
   {Bible:"Mark", Chapter:15, Verse:39, Page:1,
-    Kor:"예수를 마주 보고 서 있는 백부장이, 예수께서 이와 같이 h숨을 거두시는 것을 보고서 말하였다. \"참으로 이분은 하나님의 아들이셨다.\"(h 다른 고대 사본들에는 '큰소리를 지르시고서 숨을 거두시는 것을 보고서')",
+    Kor:"예수를 마주 보고 서 있는 백부장이, 예수께서 이와 같이 숨을 거두시는 것을 보고서 \"참으로 이분은 하나님의 아들이셨다\" 하고 말하였다.",
     Chn:"还有些妇女远远地观看；内中有抹大拉的马利亚，又有小雅各和约西的母亲马利亚，并有撒罗米，",
     Eng:"And when the centurion, who stood there in front of Jesus, heard his cry and saw how he died, he said, \"Surely this man was the Son of God!\"",
     Ind:"Waktu kepala pasukan yang berdiri berhadapan dengan Dia melihat mati-Nya demikian, berkatalah ia: \"Sungguh, orang ini adalah Anak Allah!\""
   },
   {Bible:"Mark", Chapter:15, Verse:40, Page:1,
-    Kor:"여자들도 멀찍이서 지켜 보고 있었는데, 그들 가운데는 막달라 출신 마리아도 있고 작은 야고보와 요세의 어머니 마리아도 있고 살로메도 있었다.",
+    Kor:"○여자들도 멀찍이서 지켜 보고 있었는데, 그들 가운데는 막달라 출신 마리아도 있고 작은 야고보와 요세의 어머니 마리아도 있고 살로메도 있었다.",
     Chn:"就是耶稣在 加利利的时候，跟随他、服事他的那些人，还有同耶稣上耶路撒冷的好些妇女 在那里观看。",
     Eng:"Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.",
     Ind:"Ada juga beberapa perempuan yang melihat dari jauh, di antaranya Maria Magdalena, Maria ibu Yakobus Muda dan Yoses, serta Salome."
   },
   {Bible:"Mark", Chapter:15, Verse:41, Page:1,
-    Kor:"이들은 예수가 갈릴리에 계실 때에, 예수를 따라다니며 섬기던 여자들이었다. 그 밖에도 예수와 함께 예루살렘에 올라온 여자들이 많이 있었다.",
+    Kor:"이들은 예수께서 갈릴리에 계실 때에, 예수를 따라다니며 섬기던 여자들이었다. 그 밖에도 예수와 함께 예루살렘에 올라온 여자들이 많이 있었다.",
     Chn:"到了晚上，因为这是预备日，就是安息日的前一日，",
     Eng:"In Galilee these women had followed him and cared for his needs. Many other women who had come up with him to Jerusalem were also there.",
     Ind:"Mereka semuanya telah mengikut Yesus dan melayani-Nya waktu Ia di Galilea. Dan ada juga di situ banyak perempuan lain yang telah datang ke Yerusalem bersama-sama dengan Yesus."
   },
   {Bible:"Mark", Chapter:15, Verse:42, Page:1,
-    Kor:"<예수께서 무덤에 묻히시다(마 27:57-61; 눅 23:50-56; 요 19:38-42)> ○이미 날이 저물었는데, 그 날은 준비일, 곧 안식일 전날이었다. 아리마대 사람인 요셉이 왔다.",
+    Kor:"○이미 날이 저물었는데, 그 날은 준비일, 곧 안식일 전날이었다. 아리마대 사람인 요셉이 왔다.",
     Chn:"有亚利马太的约瑟前来，他是尊贵的议士，也是等候　神国的。他放胆进去见彼拉多，求耶稣的身体；",
     Eng:"It was Preparation Day (that is, the day before the Sabbath). So as evening approached,",
     Ind:"Sementara itu hari mulai malam, dan hari itu adalah hari persiapan, yaitu hari menjelang Sabat."
@@ -267,19 +267,19 @@ BibleDB.add([
     Ind:"Pilatus heran waktu mendengar bahwa Yesus sudah mati. Maka ia memanggil kepala pasukan dan bertanya kepadanya apakah Yesus sudah mati."
   },
   {Bible:"Mark", Chapter:15, Verse:45, Page:1,
-    Kor:"빌라도는 백부장에게 알아보고 나서, 시신을 요셉에게 내어주었다.",
+    Kor:"빌라도는 백부장에게 알아보고 나서, 시체를 요셉에게 내어주었다.",
     Chn:"约瑟买了细麻布，把耶稣取下来，用细麻布裹好，安放在磐石中凿出来的坟墓里，又滚过一块石头来挡住墓门。",
     Eng:"When he learned from the centurion that it was so, he gave the body to Joseph.",
     Ind:"Sesudah didengarnya keterangan kepala pasukan, ia berkenan memberikan mayat itu kepada Yusuf."
   },
   {Bible:"Mark", Chapter:15, Verse:46, Page:1,
-    Kor:"요셉은 삼베를 사 가지고 와서, 예수의 시신을 내려다가 그 삼베로 싸서, 바위를 깎아서 만든 무덤에 그를 모시고, 무덤 어귀에 돌을 굴려 막아 놓았다.",
+    Kor:"요셉은 고운 베를 사 가지고 와서, 예수의 시신을 내려다가 그 고운 베로 싸서, 바위를 깎아서 만든 무덤에 그를 모시고, 무덤 입구에 돌을 굴려 막아 놓았다.",
     Chn:"抹大拉的马利亚和约西的母亲马利亚都看见安放他的地方。",
     Eng:"So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb.",
     Ind:"Yusufpun membeli kain lenan, kemudian ia menurunkan mayat Yesus dari salib dan mengapaninya dengan kain lenan itu. Lalu ia membaringkan Dia di dalam kubur yang digali di dalam bukit batu. Kemudian digulingkannya sebuah batu ke pintu kubur itu."
   },
   {Bible:"Mark", Chapter:15, Verse:47, Page:1,
-    Kor:"막달라 마리아와 요세의 어머니 마리아는, 어디에 예수의 시신이 안장되는지를 지켜 보고 있었다.",
+    Kor:"막달라 마리아와 요세의 어머니 마리아는, 어디에 그가 안장되는지를 지켜 보고 있었다.",
     Chn:"",
     Eng:"Mary Magdalene and Mary the mother of Joses saw where he was laid.",
     Ind:"Maria Magdalena dan Maria ibu Yoses melihat di mana Yesus dibaringkan."

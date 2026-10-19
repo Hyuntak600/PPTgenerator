@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",31,13);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:31, Verse:1, Page:1,
-    Kor:"<사울과 요나단의 최후(대상 10:1-14)> 블레셋 사람이 이스라엘에 싸움을 걸어 왔다. 이스라엘 사람들은 블레셋 사람 앞에서 도망하다가 길보아 산에서 죽임을 당하여 쓰러졌다.",
+    Kor:"블레셋 사람이 이스라엘에 싸움을 걸어 왔다. 이스라엘 사람들은 블레셋 사람 앞에서 도망하다가 길보아 산에서 죽임을 당하여 쓰러졌다.",
     Chn:"非利士人与以色列人争战。以色列人在非利士人面前逃跑，在基利波有被杀仆倒的。",
     Eng:"Now the Philistines fought against Israel; the Israelites fled before them, and many fell slain on Mount Gilboa.",
     Ind:"Sementara itu orang Filistin berperang melawan orang Israel. Orang-orang Israel melarikan diri dari hadapan orang Filistin dan banyak yang mati terbunuh di pegunungan Gilboa."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Kemudian makin beratlah pertempuran itu bagi Saul; para pemanah menjumpainya, dan melukainya dengan parah."
   },
   {Bible:"1Samuel", Chapter:31, Verse:4, Page:1,
-    Kor:"사울이 자기의 무기 담당 병사에게 명령하였다. \"네 칼을 뽑아서 나를 찔러라. 저 할례받지 못한 이방인들이 와서 나를 찌르고 능욕하지 못하도록 하여라.\" 그러나 그 무기 담당 병사는 너무 겁이 나서, 찌르려고 하지 않았다. 그러자 사울은 자기의 칼을 뽑아서, 그 위에 엎어졌다.",
+    Kor:"사울이 자기의 무기 당번 병사에게 명령하였다. \"네 칼을 뽑아서 나를 찔러라. 저 할례받지 못한 이방인들이 와서 나를 찌르고 능욕하지 못하도록 하여라.\" 그러나 그 무기 당번 병사는 너무 겁이 나서, 찌르려고 하지 않았다. 그러자 사울은 자기의 칼을 뽑아서, 그 위에 엎어졌다.",
     Chn:"就吩咐拿他兵器的人说：「你拔出刀来，将我刺死，免得那些未受割礼的人来刺我，凌辱我。」但拿兵器的人甚惧怕，不肯刺他；扫罗就自己伏在刀上死了。",
     Eng:"Saul said to his armor-bearer, \"Draw your sword and run me through, or these uncircumcised fellows will come and run me through and abuse me.\" But his armor-bearer was terrified and would not do it; so Saul took his own sword and fell on it.",
     Ind:"Lalu berkatalah Saul kepada pembawa senjatanya: \"Hunuslah pedangmu dan tikamlah aku, supaya jangan datang orang-orang yang tidak bersunat ini menikam aku dan memperlakukan aku sebagai permainan.\" Tetapi pembawa senjatanya tidak mau, karena ia sangat segan. Kemudian Saul mengambil pedang itu dan menjatuhkan dirinya ke atasnya."
   },
   {Bible:"1Samuel", Chapter:31, Verse:5, Page:1,
-    Kor:"그 무기 담당 병사는 사울이 죽는 것을 보고, 자기도 자기의 칼을 뽑아 그 위에 엎어져서, 사울과 함께 죽었다.",
+    Kor:"그 무기 당번 병사는 사울이 죽는 것을 보고, 자기도 자기의 칼을 뽑아 그 위에 엎어져서, 사울과 함께 죽었다.",
     Chn:"拿兵器的人见扫罗已死，也伏在刀上死了。",
     Eng:"When the armor-bearer saw that Saul was dead, he too fell on his sword and died with him.",
     Ind:"Ketika pembawa senjatanya melihat, bahwa Saul telah mati, iapun menjatuhkan dirinya ke atas pedangnya, lalu mati bersama-sama dengan Saul."
   },
   {Bible:"1Samuel", Chapter:31, Verse:6, Page:1,
-    Kor:"○사울과 그의 세 아들과 사울의 무기 담당 병사가 이렇게 죽었다. 사울의 부하도 그 날 다 함께 죽었다.",
+    Kor:"사울과 그의 세 아들과 사울의 무기 당번 병사가 이렇게 죽었다. 사울의 부하도 그 날 다 함께 죽었다.",
     Chn:"这样，扫罗和他三个儿子，与拿他兵器的人，以及跟随他的人，都一同死亡。",
     Eng:"So Saul and his three sons and his armor-bearer and all his men died together that same day.",
     Ind:"Jadi Saul, ketiga anaknya dan pembawa senjatanya, dan seluruh tentaranya sama-sama mati pada hari itu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Ketika keesokan harinya orang Filistin datang merampasi orang-orang yang mati terbunuh itu, didapati mereka Saul dan ketiga anaknya tergelimpang di pegunungan Gilboa."
   },
   {Bible:"1Samuel", Chapter:31, Verse:9, Page:1,
-    Kor:"그들은 사울의 목을 자르고, 그의 갑옷을 벗긴 다음에, 블레셋 땅 사방으로 전령들을 보내어, 자기들이 섬기는 우상들의 신전과 백성에게 승리의 소식을 전하였다.",
+    Kor:"그들은 사울의 목을 자르고, 그의 갑옷을 벗긴 다음에, 블레셋 땅 사방으로 전령들을 보내어, 자기들이 섬기는 우상들의 집과 백성에게 승리의 소식을 전하였다.",
     Chn:"就割下他的首级，剥了他的军装，打发人到非利士地的四境，报信与他们庙里的偶像和众民；",
     Eng:"They cut off his head and stripped off his armor, and they sent messengers throughout the land of the Philistines to proclaim the news in the temple of their idols and among their people.",
     Ind:"Mereka memancung kepala Saul, merampas senjata-senjatanya dan menyuruh orang berkeliling di negeri orang Filistin untuk menyampaikan kabar itu di kuil berhalanya dan kepada rakyat."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Kemudian mereka menaruh senjata-senjata Saul di kuil Asytoret, dan mayatnya dipakukan mereka di tembok kota Bet-Sean."
   },
   {Bible:"1Samuel", Chapter:31, Verse:11, Page:1,
-    Kor:"○길르앗 야베스의 주민들은 블레셋 사람들이 사울에게 한 일을 전해들었다.",
+    Kor:"길르앗 야베스의 주민들은 블레셋 사람들이 사울에게 한 일을 전해들었다.",
     Chn:"基列·雅比的居民听见非利士人向扫罗所行的事，",
     Eng:"When the people of Jabesh Gilead heard of what the Philistines had done to Saul,",
     Ind:"Ketika penduduk Yabesh-Gilead mendengar tentang apa yang telah dilakukan orang Filistin kepada Saul,"

@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",8,23);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:8, Verse:1, Page:1,
-    Kor:"<예루살렘 회복에 대한 약속> 만군의 주님께서 나에게 말씀하셨다.",
+    Kor:"만군의 주께서 나에게 말씀하셨다.",
     Chn:"万军之耶和华的话临到我说：",
     Eng:"Again the word of the LORD Almighty came to me.",
     Ind:"Datanglah firman TUHAN semesta alam, bunyinya:"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan kalau dahulu kamu telah menjadi kutuk di antara bangsa-bangsa, hai kaum Yehuda dan kaum Israel, maka sekarang Aku akan menyelamatkan kamu, sehingga kamu menjadi berkat. Janganlah takut, kuatkanlah hatimu!\""
   },
   {Bible:"Zechariah", Chapter:8, Verse:14, Page:1,
-    Kor:"○나 만군의 주가 말한다. ○너희 조상들이 나를 노하게 하였을 때에, 나는 너희에게 재앙을 내리기로 작정하고, 또 그 뜻을 돌이키지도 않았다. 나 만군의 주가 말한다.",
+    Kor:"나 만군의 주가 말한다. ○너희 조상들이 나를 노하게 하였을 때에, 나는 너희에게 재앙을 내리기로 작정하고, 또 그 뜻을 돌이키지도 않았다. 나 만군의 주가 말한다.",
     Chn:"万军之耶和华如此说：「你们列祖惹我发怒的时候，我怎样定意降祸，并不后悔。",
     Eng:"This is what the LORD Almighty says: \"Just as I had determined to bring disaster upon you and showed no pity when your fathers angered me,\" says the LORD Almighty,",
     Ind:"Sebab beginilah firman TUHAN semesta alam: \"Kalau dahulu Aku telah bermaksud mendatangkan malapetaka kepada kamu, ketika nenek moyangmu membuat Aku murka, dan Aku tidak menyesal, firman TUHAN semesta alam,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"maka pada waktu ini Aku kembali bermaksud berbuat baik kepada Yerusalem dan kepada kaum Yehuda. Janganlah takut!"
   },
   {Bible:"Zechariah", Chapter:8, Verse:16, Page:1,
-    Kor:"너희가 해야 할 일은 이러하다.  서로 진실을 말하여라. 너희의 성문 법정에서는 참되고 공의롭게 재판하여, 평화를 이루어라.",
+    Kor:"너희가 해야 할 일은 이러하다. 서로 진실을 말하여라. 너희의 성문 법정에서는 참되고 공의롭게 재판하여, 평화를 이루어라.",
     Chn:"你们所当行的是这样：各人与邻舍说话诚实，在城门口按至理判断，使人和睦。",
     Eng:"These are the things you are to do: Speak the truth to each other, and render true and sound judgment in your courts;",
     Ind:"Inilah hal-hal yang harus kamu lakukan: Berkatalah benar seorang kepada yang lain dan laksanakanlah hukum yang benar, yang mendatangkan damai di pintu-pintu gerbangmu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Janganlah merancang kejahatan dalam hatimu seorang terhadap yang lain dan janganlah mencintai sumpah palsu. Sebab semuanya itu Kubenci, demikianlah firman TUHAN.\""
   },
   {Bible:"Zechariah", Chapter:8, Verse:18, Page:1,
-    Kor:"<금식에 관한 질문에 답하다> ○만군의 주님께서 나에게 말씀하셨다.",
+    Kor:"○만군의 주께서 나에게 말씀하셨다.",
     Chn:"万军之耶和华的话临到我说：",
     Eng:"Again the word of the LORD Almighty came to me.",
     Ind:"Datanglah firman TUHAN semesta alam kepadaku, bunyinya:"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Beginilah firman TUHAN semesta alam: \"Masih akan datang lagi bangsa-bangsa dan penduduk banyak kota."
   },
   {Bible:"Zechariah", Chapter:8, Verse:21, Page:1,
-    Kor:"한 성읍의 주민이 다른 성읍의 주민에게 가서 '어서 가서 만군의 주님께 기도하고, 주님의 은혜를 구하자' 하면, 다른 성읍의 주민들도 저마다 '나도 가겠다' 할 것이다.",
+    Kor:"한 성읍의 주민이 다른 성읍의 주민에게 가서 '어서 가서 만군의 주께 기도하고, 주의 은혜를 구하자' 하면, 다른 성읍의 주민들도 저마다 '나도 가겠다' 할 것이다.",
     Chn:"这城的居民必到那城，说：『我们要快去恳求耶和华的恩，寻求万军之耶和华；我也要去。』",
     Eng:"and the inhabitants of one city will go to another and say, 'Let us go at once to entreat the LORD and seek the LORD Almighty. I myself am going.'",
     Ind:"Dan penduduk kota yang satu akan pergi kepada penduduk kota yang lain, mengatakan: Marilah kita pergi untuk melunakkan hati TUHAN dan mencari TUHAN semesta alam! Kamipun akan pergi!"

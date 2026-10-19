@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",31,31);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:31, Verse:1, Page:1,
-    Kor:"<왕에게 주는 충고> 르무엘 왕의 잠언, 곧 그의 어머니가 그에게 교훈한 말씀이다.",
+    Kor:"르무엘 왕의 잠언, 곧 그의 어머니가 그에게 교훈한 말씀이다.",
     Chn:"利慕伊勒王的言语，是他母亲教训他的真言。",
     Eng:"The sayings of King Lemuel--an oracle his mother taught him:",
     Ind:"Inilah perkataan Lemuel, raja Masa, yang diajarkan ibunya kepadanya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Bukalah mulutmu, ambillah keputusan secara adil dan berikanlah kepada yang tertindas dan yang miskin hak mereka."
   },
   {Bible:"Proverbs", Chapter:31, Verse:10, Page:1,
-    Kor:"<유능한 아내> 누가 유능한 아내를 맞겠느냐? 그 값은 진주보다 더 뛰어나다.",
+    Kor:"누가 유능한 아내를 맞겠느냐? 그 값은 진주보다 더 뛰어나다.",
     Chn:"才德的妇人谁能得着呢？ 她的价值远胜过珍珠。",
     Eng:"A wife of noble character who can find? She is worth far more than rubies.",
     Ind:"Isteri yang cakap siapakah akan mendapatkannya? Ia lebih berharga dari pada permata."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ia mencari bulu domba dan rami, dan senang bekerja dengan tangannya."
   },
   {Bible:"Proverbs", Chapter:31, Verse:14, Page:1,
-    Kor:"또한 상인의 배와 같이, 먼 곳에서 먹거리를 구하여 오기도 한다.",
+    Kor:"또한 상인의 배와 같이, 먼 곳에서 먹을거리를 구하여 오기도 한다.",
     Chn:"她好像商船从远方运粮来，",
     Eng:"She is like the merchant ships, bringing her food from afar.",
     Ind:"Ia serupa kapal-kapal saudagar, dari jauh ia mendatangkan makanannya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Ia membuat pakaian dari lenan, dan menjualnya, ia menyerahkan ikat pinggang kepada pedagang."
   },
   {Bible:"Proverbs", Chapter:31, Verse:25, Page:1,
-    Kor:"자신감과 위엄이 몸에 배어 있고, a미래에 대한 두려움이 없다. (a 또는 '다가올 날을')",
+    Kor:"자신감과 위엄이 몸에 배어 있고, 미래에 대한 두려움이 없다.",
     Chn:"能力和威仪是她的衣服； 她想到日后的景况就喜笑。",
     Eng:"She is clothed with strength and dignity; she can laugh at the days to come.",
     Ind:"Pakaiannya adalah kekuatan dan kemuliaan, ia tertawa tentang hari depan."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Ia mengawasi segala perbuatan rumah tangganya, makanan kemalasan tidak dimakannya."
   },
   {Bible:"Proverbs", Chapter:31, Verse:28, Page:1,
-    Kor:"자식들도 모두 일어나서, b어머니 업적을 찬양하고 남편도 c아내를 칭찬하여 이르기를 (b 히, '그 여자의' c 히, '그 여자를')",
+    Kor:"자식들도 모두 일어나서, 어머니 업적을 찬양하고 남편도 아내를 칭찬하여 이르기를",
     Chn:"她的儿女起来称她有福； 她的丈夫也称赞她，",
     Eng:"Her children arise and call her blessed; her husband also, and he praises her:",
     Ind:"Anak-anaknya bangun, dan menyebutnya berbahagia, pula suaminya memuji dia:"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemolekan adalah bohong dan kecantikan adalah sia-sia, tetapi isteri yang takut akan TUHAN dipuji-puji."
   },
   {Bible:"Proverbs", Chapter:31, Verse:31, Page:1,
-    Kor:"d아내가 손수 거둔 결실은 e아내에게 돌려라. d아내가 이룬 공로가 성문 어귀 광장에서 인정받게 하여라. (d 히, '그 여자가' e 히, '그 여자에게')",
+    Kor:"아내가 손수 거둔 결실은 아내에게 돌려라. 아내가 이룬 공로가 성문 어귀 광장에서 인정받게 하여라.",
     Chn:"愿她享受操作所得的； 愿她的工作在城门口荣耀她。",
     Eng:"Give her the reward she has earned, and let her works bring her praise at the city gate.",
     Ind:"Berilah kepadanya bagian dari hasil tangannya, biarlah perbuatannya memuji dia di pintu-pintu gerbang!"

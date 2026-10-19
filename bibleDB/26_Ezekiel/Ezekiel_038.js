@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",38,23);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:38, Verse:1, Page:1,
-    Kor:"<하나님의 도구 곡> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:38, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 마곡 땅 쪽으로 얼굴을 돌리고, 로스와 메섹과 두발의 왕 곡을 규탄하여 예언하여라.",
+    Kor:"\"사람아, 너는 마곡 땅 쪽으로 얼굴을 돌리고, 로스와 메섹과 두발의 왕 곡을 규탄하여 예언하여라.",
     Chn:"「人子啊，你要面向玛各地的歌革，就是罗施、米设、土巴的王发预言攻击他，",
     Eng:"\"Son of man, set your face against Gog, of the land of Magog, the chief prince of Meshech and Tubal; prophesy against him",
     Ind:"\"Hai anak manusia, tujukanlah mukamu kepada Gog di tanah Magog, yaitu raja agung negeri Mesekh dan Tubal dan bernubuatlah melawan dia"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Orang Persia, Etiopia, dan Put menyertai mereka dan semuanya dengan perisai dan ketopong;"
   },
   {Bible:"Ezekiel", Chapter:38, Verse:6, Page:1,
-    Kor:"고멜과 그의 모든 군대와, 북쪽 끝에 있는 도갈마 족속과 그의 모든 군대와, 수많은 백성을 너와 함께 끌어내겠다.",
+    Kor:"고멜과 그의 전군과, 북쪽 끝에 있는 도갈마 족속과 그의 전군과, 수많은 백성을 너와 함께 끌어내겠다.",
     Chn:"歌篾人和他的军队，北方极处的陀迦玛族和他的军队，这许多国的民都同着你。",
     Eng:"also Gomer with all its troops, and Beth Togarmah from the far north with all its troops--the many nations with you.",
     Ind:"orang Gomer dengan seluruh bala tentaranya, Bet-Togarma dari utara sekali dengan seluruh bala tentaranya, banyak bangsa menyertai engkau."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Bersedialah dan bersiaplah engkau dengan semua kumpulan orang yang menggabungkan diri dengan engkau dan jadilah pelindung bagi mereka."
   },
   {Bible:"Ezekiel", Chapter:38, Verse:8, Page:1,
-    Kor:"네가 공격 명령을 받기까지는 오랫동안 기다리고 있어야 한다. 여러 해가 지난 다음에 때가 되면, 너는, 오래 걸려 전쟁의 상처를 다 씻은 한 나라를 침략하게 될 것이다. 그 나라는, 여러 민족 가운데 흩어져 살다가 돌아온 사람들이, 오랫동안 폐허로 남아 있던 이스라엘의 산지에 다시 세운 나라다. 그 나라 백성은 타국 백성들 사이에서 살다가 돌아온 26 38:뒤에, 그 때쯤에는 아주 안전하게 살고 있을 것이다.",
+    Kor:"네가 공격 명령을 받기까지는 오랫동안 기다리고 있어야 한다. 여러 해가 지난 다음에 때가 되면, 너는, 오래 걸려 전쟁의 상처를 다 씻은 한 나라를 침략하게 될 것이다. 그 나라는, 여러 민족 가운데 흩어져 살다가 돌아온 사람들이, 오랫동안 폐허로 남아 있던 이스라엘의 산야에 다시 세운 나라다. 그 나라 백성은 타국 백성들 사이에서 살다가 돌아온 뒤에, 그 때쯤에는 아주 안전하게 살고 있을 것이다.",
     Chn:"过了多日，你必被差派。到末后之年，你必来到脱离刀剑从列国收回之地，到以色列常久荒凉的山上；但那从列国中招聚出来的必在其上安然居住。",
     Eng:"After many days you will be called to arms. In future years you will invade a land that has recovered from war, whose people were gathered from many nations to the mountains of Israel, which had long been desolate. They had been brought out from the nations, and now all of them live in safety.",
     Ind:"Sesudah waktu yang lama sekali engkau akan mendapat perintah; pada hari yang terkemudian engkau akan datang di sebuah negeri yang dibangun kembali sesudah musnah karena perang, dan engkau menuju suatu bangsa yang dikumpul dari tengah-tengah banyak bangsa di atas gunung-gunung Israel yang telah lama menjadi reruntuhan. Bangsa ini telah dibawa ke luar dari tengah bangsa-bangsa dan mereka semuanya diam dengan aman tenteram."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Engkau berkata: Aku akan bangkit bergerak menyerang tanah yang kota-kotanya tanpa tembok dan akan mendatangi orang-orang yang hidup tenang-tenang dan diam dengan aman tenteram; mereka semuanya diam tanpa tembok atau palang atau pintu gerbang."
   },
   {Bible:"Ezekiel", Chapter:38, Verse:12, Page:1,
-    Kor:"물건을 약탈하며 노략하겠다고 하는, 악한 생각을 품게 될 것이다. 그러나 네가, 여러 나라에 흩어져서 살다가 돌아와서 오랫동안 폐허로 남아 있던 땅에 다시 정착하여 가축과 재산을 늘려 가며 살고 있는 백성을, 손을 들어 칠 때에,",
+    Kor:"물건을 약탈하며 노략하겠다고 하는 악한 생각을 품게 될 것이다. 그러나 네가, 여러 나라에 흩어져서 살다가 돌아와서 오랫동안 폐허로 남아 있던 땅에 다시 정착하여 가축과 재산을 늘려 가며 살고 있는 백성을, 손을 들어 칠 때에,",
     Chn:"我去要抢财为掳物，夺货为掠物，反手攻击那从前荒凉、现在有人居住之地，又攻击那住世界中间、从列国招聚、得了牲畜财货的民。』",
     Eng:"I will plunder and loot and turn my hand against the resettled ruins and the people gathered from the nations, rich in livestock and goods, living at the center of the land.\"",
     Ind:"Engkau bermaksud untuk merampas dan menjarah dan mengacungkan tanganmu terhadap reruntuhan-reruntuhan yang sudah didiami kembali dan menyerang umat-Ku yang dikumpulkan dari tengah bangsa-bangsa. Mereka sudah mempunyai ternak dan harta benda dan mereka diam di pusat bumi."
   },
   {Bible:"Ezekiel", Chapter:38, Verse:13, Page:1,
-    Kor:"스바와 드단과 a스페인의 상인들과 b젊은 용사들이 너를 비난할 것이다. 네가 노략질이나 하려고 가는 것이냐고, 네가 강탈이나 하려고 군대를 동원하였느냐고, 은과 금을 탈취해 가려고, 가축과 재산을 빼앗아 가려고, 엄청난 전리품을 약탈해 가려고 원정길에 나섰느냐고 비난할 것이다.'(a 히, '다시스 b 히, '젊은 사자들이')",
+    Kor:"스바와 드단과 다시스의 상인들과 젊은 용사들이 너를 비난할 것이다. 네가 노략질이나 하려고 가는 것이냐고, 네가 강탈이나 하려고 군대를 동원하였느냐고, 은과 금을 탈취해 가려고, 가축과 재산을 빼앗아 가려고, 엄청난 전리품을 약탈해 가려고 원정길에 나섰느냐고 비난할 것이다.'",
     Chn:"示巴人、底但人、他施的客商，和其间的少壮狮子都必问你说：『你来要抢财为掳物吗？你聚集军队要夺货为掠物吗？要夺取金银，掳去牲畜、财货吗？要抢夺许多财宝为掳物吗？』",
     Eng:"Sheba and Dedan and the merchants of Tarshish and all her villages will say to you, \"Have you come to plunder? Have you gathered your hordes to loot, to carry off silver and gold, to take away livestock and goods and to seize much plunder?\"'",
     Ind:"Negeri Syeba dan Dedan beserta pembeli-pembeli barangnya, negeri Tarsis beserta pedagang-pedagangnya akan berkata kepadamu: Apakah engkau datang untuk merampas dan mengumpulkan sekutumu untuk menjarah, untuk mengangkut perak dan emas, untuk melarikan ternak dan harta benda dan untuk melakukan perampasan yang hebat sekali?"
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Beginilah firman Tuhan ALLAH: Engkaulah itu tentang siapa Aku sudah berfirman pada hari-hari dahulu kala dengan perantaraan hamba-hamba-Ku, yaitu nabi-nabi Israel, yang bertahun-tahun bernubuat pada waktu itu, bahwa Aku akan membawa engkau melawan umat-Ku."
   },
   {Bible:"Ezekiel", Chapter:38, Verse:18, Page:1,
-    Kor:"<곡의 심판> ○\"곡이 이스라엘 땅을 쳐들어오는 그 날에는, 내가 분노를 참지 못할 것이다.",
+    Kor:"○\"곡이 이스라엘 땅을 쳐들어오는 그 날에는, 내가 분노와 격분과 울화를 참지 못할 것이다.",
     Chn:"主耶和华说：「歌革上来攻击以色列地的时候，我的怒气要从鼻孔里发出。",
     Eng:"This is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign LORD.",
     Ind:"Pada waktu itu, pada saat Gog datang melawan tanah Israel, demikianlah firman Tuhan ALLAH, amarah-Ku akan timbul. Dalam murka-Ku,"
   },
   {Bible:"Ezekiel", Chapter:38, Verse:19, Page:1,
-    Kor:"그 때에 내가 질투하고 격노하면서 심판을 선언하여 이스라엘 땅에 큰 지진이 일어나게 할 것이다.",
+    Kor:"불 같이 격노하면서, 그 때에 내가 선언하여 이스라엘 땅에 큰 지진이 일어나게 할 것이다.",
     Chn:"我发愤恨和烈怒如火说：那日在以色列地必有大震动，",
     Eng:"In my zeal and fiery wrath I declare that at that time there shall be a great earthquake in the land of Israel.",
     Ind:"dalam cemburu-Ku dan dalam api kemurkaan-Ku Aku akan berfirman: Pada hari itu pasti terjadi gempa bumi yang dahsyat di tanah Israel."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memanggil segala macam kekejutan terhadap Gog, demikianlah firman Tuhan ALLAH, sehingga pedang seorang akan memakan yang lain."
   },
   {Bible:"Ezekiel", Chapter:38, Verse:22, Page:1,
-    Kor:"내가 전염병과 피 비린내 나는 일로 그를 심판하겠다. 또 내가, 억수 같은 소나기와 돌덩이 같은 우박과 불과 유황을, 곡과 그의 모든 군대와 그와 함께 한 많은 연합군 위에 퍼붓겠다.",
+    Kor:"내가 전염병과 피 비린내 나는 일로 그를 심판하겠다. 또 내가, 억수 같은 소나기와 돌덩이 같은 우박과 불과 유황을, 곡과 그의 전군과 그와 함께 한 많은 연합군 위에 퍼붓겠다.",
     Chn:"我必用瘟疫和流血的事刑罚他。我也必将暴雨、大雹与火，并硫磺降与他和他的军队，并他所率领的众民。",
     Eng:"I will execute judgment upon him with plague and bloodshed; I will pour down torrents of rain, hailstones and burning sulfur on him and on his troops and on the many nations with him.",
     Ind:"Aku akan menghukum dia dengan sampar dan tumpahan darah; Aku akan menurunkan hujan lebat, rambun, api dan hujan belerang ke atasnya dan ke atas tentaranya dan ke atas banyak bangsa yang menyertai dia."

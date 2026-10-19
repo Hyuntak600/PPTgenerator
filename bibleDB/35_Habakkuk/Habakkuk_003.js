@@ -3,13 +3,13 @@
 BibleDB.ref("Habakkuk",3,19);
 BibleDB.add([
   {Bible:"Habakkuk", Chapter:3, Verse:1, Page:1,
-    Kor:"<하박국의 기도> 이것은 시기오놋에 맞춘 예언자 하박국의 기도이다.",
+    Kor:"이것은 시기오놋에 맞춘 예언자 하박국의 기도이다.",
     Chn:"先知哈巴谷的祷告，调用流离歌。",
     Eng:"A prayer of Habakkuk the prophet. On shigionoth.",
     Ind:"Doa nabi Habakuk. Menurut nada ratapan."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:2, Page:1,
-    Kor:"주님, 내가 주님의 명성을 듣습니다. 주님, 주님께서 하신 일을 보고 놀랍니다. 주님의 일을 우리 시대에도 새롭게 하여 주십시오. 우리 시대에도 알려 주십시오. 진노하시더라도, 잊지 마시고 자비를 베풀어 주십시오.",
+    Kor:"주님, 내가 주의 명성을 듣습니다. 주님, 주께서 하신 일을 보고 놀랍니다. 주의 일을 우리 시대에도 새롭게 하여 주십시오. 우리 시대에도 알려 주십시오. 진노하시더라도, 잊지 마시고 자비를 베풀어 주십시오.",
     Chn:"耶和华啊，我听见你的名声就惧怕。 耶和华啊，求你在这些年间复兴你的作为， 在这些年间显明出来； 在发怒的时候以怜悯为念。",
     Eng:"LORD, I have heard of your fame; I stand in awe of your deeds, O LORD. Renew them in our day, in our time make them known; in wrath remember mercy.",
     Ind:"TUHAN, telah kudengar kabar tentang Engkau, dan pekerjaan-Mu, ya TUHAN, kutakuti! Hidupkanlah itu dalam lintasan tahun, nyatakanlah itu dalam lintasan tahun; dalam murka ingatlah akan kasih sayang!"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Terhadap sungai-sungaikah, ya TUHAN, terhadap sungai-sungaikah murka-Mu bangkit? Atau terhadap lautkah amarah-Mu sehingga Engkau mengendarai kuda dan kereta kemenangan-Mu?"
   },
   {Bible:"Habakkuk", Chapter:3, Verse:9, Page:1,
-    Kor:"주님께서 활을 꺼내시고, 살을 메우시며, 힘껏 잡아당기십니다. (셀라) 주님께서 강줄기로 땅을 조각조각 쪼개십니다.",
+    Kor:"주께서 활을 꺼내시고, 살을 메우시며, 힘껏 잡아당기십니다. (셀라) 주께서 강줄기로 땅을 조각조각 쪼개십니다.",
     Chn:"你的弓全然显露， 向众支派所起的誓都是可信的。 （细拉） 你以江河分开大地。",
     Eng:"You uncovered your bow, you called for many arrows. Selah You split the earth with rivers;",
     Ind:"Busur-Mu telah Kaubuka, telah Kauisi dengan anak panah. Sela. Engkau membelah bumi menjadi sungai-sungai;"
@@ -63,31 +63,31 @@ BibleDB.add([
     Ind:"melihat Engkau, gunung-gunung gemetar, air bah menderu lalu, samudera raya memperdengarkan suaranya dan mengangkat tangannya."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:11, Page:1,
-    Kor:"주님께서 번쩍이는 화살을 당기고, 주님께서 날카로운 창을 내던지시니, 그 빛 때문에 해와 달이 하늘에서 멈추어 섭니다.",
+    Kor:"주께서 번쩍이는 화살을 당기고, 주께서 날카로운 창을 내던지시니, 그 빛 때문에 해와 달이 하늘에서 멈추어 섭니다.",
     Chn:"因你的箭射出发光， 你的枪闪出光耀， 日月都在本宫停住。",
     Eng:"Sun and moon stood still in the heavens at the glint of your flying arrows, at the lightning of your flashing spear.",
     Ind:"Matahari, bulan berhenti di tempat kediamannya, karena cahaya anak-anak panah-Mu yang melayang laju, karena kilauan tombak-Mu yang berkilat."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:12, Page:1,
-    Kor:"주님께서 크게 노하셔서 땅을 주름 잡으시며, 진노하시면서 나라들을 짓밟으십니다.",
+    Kor:"주께서 크게 노하셔서 땅을 주름 잡으시며, 진노하시면서 나라들을 짓밟으십니다.",
     Chn:"你发忿恨通行大地， 发怒气责打列国，如同打粮。",
     Eng:"In wrath you strode through the earth and in anger you threshed the nations.",
     Ind:"Dalam kegeraman Engkau melangkah melintasi bumi, dalam murka Engkau menggasak bangsa-bangsa."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:13, Page:1,
-    Kor:"주님께서 주님의 백성을 구원하시려고 오십니다. 친히 기름 부으신 사람을 구원하시려고 오십니다. 악한 족속의 우두머리를 치십니다. 그를 따르는 자들을 뿌리째 뽑아 버리십니다. (셀라)",
+    Kor:"주께서 주의 백성을 구원하시려고 오십니다. 친히 기름 부으신 사람을 구원하시려고 오십니다. 악한 족속의 우두머리를 치십니다. 그를 따르는 자들을 뿌리째 뽑아 버리십니다. (셀라)",
     Chn:"你出来要拯救你的百姓， 拯救你的受膏者， 打破恶人家长的头， 露出他的脚，直到颈项。 （细拉）",
     Eng:"You came out to deliver your people, to save your anointed one. You crushed the leader of the land of wickedness, you stripped him from head to foot. Selah",
     Ind:"Engkau berjalan maju untuk menyelamatkan umat-Mu, untuk menyelamatkan orang yang Kauurapi. Engkau meremukkan bagian atas rumah orang-orang fasik dan Kaubuka dasarnya sampai batu yang penghabisan. Sela."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:14, Page:1,
-    Kor:"그들이 우리를 흩으려고 폭풍처럼 밀려올 때에, 숨어 있는 가엾은 사람을 잡아먹으려고 그들이 입을 벌릴 때에, 주님의 화살이 그 군대의 지휘관을 꿰뚫습니다.",
+    Kor:"그들이 우리를 흩으려고 폭풍처럼 밀려올 때에, 숨어 있는 가엾은 사람을 잡아먹으려고 그들이 입을 벌릴 때에, 주의 화살이 그 군대의 지휘관을 꿰뚫습니다.",
     Chn:"你用敌人的戈矛刺透他战士的头； 他们来如旋风，要将我们分散。 他们所喜爱的是暗中吞吃贫民。",
     Eng:"With his own spear you pierced his head when his warriors stormed out to scatter us, gloating as though about to devour the wretched who were in hiding.",
     Ind:"Engkau menusuk dengan anak panahnya sendiri kepala lasykarnya, yang mengamuk untuk menyerakkan aku dengan sorak-sorai, seolah-olah mereka menelan orang tertindas secara tersembunyi."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:15, Page:1,
-    Kor:"주님께서는 말을 타고 바다를 밟으시고 큰 물결을 휘저으십니다.",
+    Kor:"주께서는 말을 타고 바다를 밟으시고 큰 물결을 휘저으십니다.",
     Chn:"你乘马践踏红海， 就是践踏汹涌的大水。",
     Eng:"You trampled the sea with your horses, churning the great waters.",
     Ind:"Dengan kuda-Mu, Engkau menginjak laut, timbunan air yang membuih."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Sekalipun pohon ara tidak berbunga, pohon anggur tidak berbuah, hasil pohon zaitun mengecewakan, sekalipun ladang-ladang tidak menghasilkan bahan makanan, kambing domba terhalau dari kurungan, dan tidak ada lembu sapi dalam kandang,"
   },
   {Bible:"Habakkuk", Chapter:3, Verse:18, Page:1,
-    Kor:"나는 주님 안에서 즐거워하련다. 나를 구원하신 하나님 안에서 기뻐하련다.",
+    Kor:"나는 주 안에서 즐거워하련다. 나를 구원하신 하나님 안에서 기뻐하련다.",
     Chn:"然而，我要因耶和华欢欣， 因救我的　神喜乐。",
     Eng:"yet I will rejoice in the LORD, I will be joyful in God my Savior.",
     Ind:"namun aku akan bersorak-sorak di dalam TUHAN, beria-ria di dalam Allah yang menyelamatkan aku."
   },
   {Bible:"Habakkuk", Chapter:3, Verse:19, Page:1,
-    Kor:"주 하나님은 나의 힘이시다. 나의 발을 사슴의 발과 같게 하셔서, 산등성이를 마구 치닫게 하신다. ○이 노래는 음악 지휘자를 따라서, 수금에 맞추어 부른다.",
+    Kor:"주 하나님은 나의 힘이시다. 나의 발을 사슴의 발과 같게 하셔서, 산등성이를 마구 치닫게 하신다. 이 노래는 음악 지휘자를 따라서, 수금에 맞추어 부른다.",
     Chn:"主耶和华是我的力量； 他使我的脚快如母鹿的蹄， 又使我稳行在高处。 这歌交与伶长，用丝弦的乐器。",
     Eng:"The Sovereign Lord is my strength; he makes my feet like the feet of a deer, he enables me to go on the heights. For the director of music. On my stringed instruments.",
     Ind:"ALLAH Tuhanku itu kekuatanku: Ia membuat kakiku seperti kaki rusa, Ia membiarkan aku berjejak di bukit-bukitku. (Untuk pemimpin biduan. Dengan permainan kecapi)."

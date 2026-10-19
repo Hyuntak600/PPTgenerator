@@ -3,19 +3,19 @@
 BibleDB.ref("Judges",18,31);
 BibleDB.add([
   {Bible:"Judges", Chapter:18, Verse:1, Page:1,
-    Kor:"<미가와 단 지파> 그 때에 이스라엘에 왕이 없었고, 단 지파는 이스라엘의 지파들 가운데서 아직 그들이 유산으로 받을 땅을 얻지 못하였으므로, 그들이 자리잡고 살 땅을 찾고 있었다.",
+    Kor:"그 때에 이스라엘에 왕이 없었고, 단 지파는 이스라엘의 지파들 가운데서, 아직 그들이 유산으로 받을 땅을 얻지 못하였으므로, 그들이 자리잡고 살 땅을 찾고 있었다.",
     Chn:"那时，以色列中没有王。但支派的人仍是寻地居住；因为到那日子，他们还没有在以色列支派中得地为业。",
     Eng:"In those days Israel had no king. And in those days the tribe of the Danites was seeking a place of their own where they might settle, because they had not yet come into an inheritance among the tribes of Israel.",
     Ind:"Pada zaman itu tidak ada raja di antara orang Israel dan pada zaman itu suku Dan sedang mencari milik pusaka untuk menetap, sebab sampai hari itu mereka belum juga mendapat bagian milik pusaka di tengah-tengah suku-suku Israel."
   },
   {Bible:"Judges", Chapter:18, Verse:2, Page:1,
-    Kor:"그래서 단 지파 자손은 소라와 에스다올에 살고 있는 지파의 온 가문에서 용감한 사람 다섯 명을 뽑아서 땅 정찰 임무를 맡기고, 땅을 탐지하고 살피도록 보냈다. 그들은 에브라임 산간지방으로 들어섰다가, 미가의 집에 이르러 거기서 하룻밤을 묵었다.",
+    Kor:"그래서 단 지파 자손은 소라와 에스다올에 살고 있는 지파의 온 가문에서 용감한 사람 다섯 명을 뽑아서, 땅 정찰 임무를 맡기고, 땅을 탐지하고 살피도록 보냈다. 그들은 에브라임 산간지방으로 들어섰다가 미가의 집에 이르러, 거기서 하룻밤을 묵었다.",
     Chn:"但人从琐拉和以实陶打发本族中的五个勇士，去仔细窥探那地，吩咐他们说：「你们去窥探那地。」他们来到以法莲山地，进了米迦的住宅，就在那里住宿。",
     Eng:"So the Danites sent five warriors from Zorah and Eshtaol to spy out the land and explore it. These men represented all their clans. They told them, \"Go, explore the land.\"The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.",
     Ind:"Sebab itu bani Dan menyuruh dari kaumnya lima orang dari seluruh jumlah mereka, semuanya orang-orang yang gagah perkasa, yang berasal dari Zora dan Esytaol, untuk mengintai negeri itu dan menyelidikinya, serta berkata kepada mereka: \"Pergilah menyelidiki negeri itu.\" Ketika orang-orang itu sampai ke pegunungan Efraim di rumah Mikha, bermalamlah mereka di sana."
   },
   {Bible:"Judges", Chapter:18, Verse:3, Page:1,
-    Kor:"미가의 집에 머무는 동안 그들은 그 젊은 레위 사람의 억양과 말씨를 알아 듣고, 그에게 다가가서 물었다. \"누가 당신을 이리로 데려왔습니까? 당신은 여기에서 무슨 일을 하십니까? 무엇 때문에 여기에 있습니까?\"",
+    Kor:"미가의 집에 머무는 동안, 그들은 그 젊은 레위 사람의 억양과 말씨를 알아 듣고, 그에게 다가가서 물었다. \"누가 그대를 이리로 데려왔습니까? 그대는 여기에서 무슨 일을 하십니까? 무엇 때문에 여기에 있습니까?\"",
     Chn:"他们临近米迦的住宅，听出那少年利未人的口音来，就进去问他说：「谁领你到这里来？你在这里做什么？你在这里得什么？」",
     Eng:"When they were near Micah's house, they recognized the voice of the young Levite; so they turned in there and asked him, \"Who brought you here? What are you doing in this place? Why are you here?\"",
     Ind:"Ketika mereka ada dekat rumah Mikha itu, dikenal merekalah logat orang muda suku Lewi itu, lalu singgahlah mereka ke sana dan berkata kepadanya: \"Siapakah yang membawa engkau ke mari? Apakah pekerjaanmu dan urusanmu di sini?\""
@@ -27,25 +27,25 @@ BibleDB.add([
     Ind:"Katanya kepada mereka: \"Begini begitulah dilakukan Mikha kepadaku; ia menggaji aku dan aku menjadi imamnya.\""
   },
   {Bible:"Judges", Chapter:18, Verse:5, Page:1,
-    Kor:"그들이 그에게 말하였다. \"하나님께 물어 보아서, 우리가 가고 있는 이 길이 성공할 것인지, 우리에게 알려 주십시오.\"",
+    Kor:"그들이 그에게 말하였다. \"하나님께 물어 보아서 우리가 가고 있는 이 길이 성공할 것인지 우리에게 알려 주십시오.\"",
     Chn:"他们对他说：「请你求问　神，使我们知道所行的道路通达不通达。」",
     Eng:"Then they said to him, \"Please inquire of God to learn whether our journey will be successful.\"",
     Ind:"Kata mereka kepadanya: \"Tanyakanlah kiranya kepada Allah, supaya kami ketahui apakah perjalanan yang kami tempuh ini akan berhasil.\""
   },
   {Bible:"Judges", Chapter:18, Verse:6, Page:1,
-    Kor:"그 제사장이 그들에게 \"평안히 가십시오. 주님께서 여러분이 가는 그 길을 인도하실 것입니다\" 하고 일러주었다.",
+    Kor:"그 제사장이 그들에게 \"평안히 가십시오. 주께서 여러분이 가는 그 길을 인도하실 것입니다\" 하고 일러주었다.",
     Chn:"祭司对他们说：「你们可以平平安安地去，你们所行的道路是在耶和华面前的。」",
     Eng:"The priest answered them, \"Go in peace. Your journey has the LORD'S approval.\"",
     Ind:"Kata imam itu kepada mereka: \"Pergilah dengan selamat! Perjalanan yang kamu tempuh itu dipandang baik oleh TUHAN.\""
   },
   {Bible:"Judges", Chapter:18, Verse:7, Page:1,
-    Kor:"○그래서 그 다섯 사람은 길을 떠나 라이스로 갔다. 그들은 그 곳 사람들이, 한가하고 평화롭게 사는 시돈 사람들처럼, 안전하게 살고 있는 것을 보았다. 그리고 그 땅에는 어느 누구도 권력을 쥐고 그들을 해치는 자가 없었다. 그들은 시돈 사람들과도 멀리 떨어져 있어서, 어느 누구와도 접촉이 없었다.",
+    Kor:"○그래서 그 다섯 사람은 길을 떠나 라이스로 갔다. 그들은, 그 곳 사람들이, 한가하고 평화롭게 사는 시돈 사람들처럼, 안전하게 살고 있는 것을 보았다. 그리고 그 땅에는 어느 누구도 권력을 쥐고 그들을 해치는 자가 없었다. 그들은 시돈 사람들과도 멀리 떨어져 있어서 어느 누구와도 접촉이 없었다.",
     Chn:"五人就走了，来到拉亿，见那里的民安居无虑，如同西顿人安居一样。在那地没有人掌权扰乱他们；他们离西顿人也远，与别人没有来往。",
     Eng:"So the five men left and came to Laish, where they saw that the people were living in safety, like the Sidonians, unsuspecting and secure. And since their land lacked nothing, they were prosperous. Also, they lived a long way from the Sidonians and had no relationship with anyone else.",
     Ind:"Sesudah itu pergilah kelima orang itu, lalu sampailah mereka ke Lais. Dilihat merekalah, bahwa rakyat yang diam di sana hidup dengan tenteram, menurut adat orang Sidon, aman dan tenteram. Orang-orang itu tidak kekurangan apapun yang ada di muka bumi, malah kaya harta. Mereka tinggal jauh dari orang Sidon dan tidak bergaul dengan siapapun juga."
   },
   {Bible:"Judges", Chapter:18, Verse:8, Page:1,
-    Kor:"○다섯 사람이 소라와 에스다올로 돌아와 그들의 백성에게 이르렀다. 그들이 그 다섯 사람에게 정찰한 내용을 물으니,",
+    Kor:"○다섯 사람이 소라와 에스다올로 돌아와 그들의 친족에게 이르렀다. 그들이 그 다섯 사람에게 정찰한 내용을 물으니,",
     Chn:"五人回到琐拉和以实陶，见他们的弟兄；弟兄问他们说：「你们有什么话？」",
     Eng:"When they returned to Zorah and Eshtaol, their brothers asked them, \"How did you find things?\"",
     Ind:"Setelah mereka kembali kepada saudara-saudara sesukunya di Zora dan Esytaol, berkatalah saudara-saudara sesukunya kepada mereka: \"Apakah yang kamu dapati di sana?\""
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Dari sana mereka bergerak terus ke pegunungan Efraim dan sampai di rumah Mikha."
   },
   {Bible:"Judges", Chapter:18, Verse:14, Page:1,
-    Kor:"○전에 라이스 땅을 탐지하러 갔던 그 다섯 사람이 같이 간 사람들에게 말하였다. \"여기 여러 채의 집이 있는데, 이 가운데 어느 한 집에 은을 입힌 목상이 보관되어 있다는 것을, 당신들은 알고 있을 것이오. 목상뿐만 아니라 드라빔과 에봇도 있소. 우리가 해야 할 일이 무엇이겠소?\"",
+    Kor:"○전에 라이스 땅을 탐지하러 갔던 그 다섯 사람이, 같이 간 사람들에게 말하였다. \"여기 여러 채의 집이 있는데, 이 가운데 어느 한 집에 은을 입힌 목상이 보관되어 있다는 것을, 너희는 알고 있을 것이다. 목상뿐만 아니라 드라빔과 에봇도 있다. 우리가 해야 할 일이 무엇이겠느냐?\"",
     Chn:"从前窥探拉亿地的五个人对他们的弟兄说：「这宅子里有以弗得和家中的神像，并雕刻的像与铸成的像，你们知道吗？现在你们要想一想当怎样行。」",
     Eng:"Then the five men who had spied out the land of Laish said to their brothers, \"Do you know that one of these houses has an ephod, other household gods, a carved image and a cast idol? Now you know what to do.\"",
     Ind:"Lalu berbicaralah kelima orang yang telah pergi mengintai daerah Lais itu, katanya kepada saudara-saudara sesukunya: \"Tahukah kamu, bahwa dalam rumah-rumah ini ada efod, terafim, patung pahatan dan patung tuangan? Oleh sebab itu, insafilah apa yang akan kamu perbuat!\""
   },
   {Bible:"Judges", Chapter:18, Verse:15, Page:1,
-    Kor:"그런 다음에 그 다섯 사람은 젊은 레위 사람이 사는 집 곧 미가의 집으로 들어가서, 그에게 안부를 물었다.",
+    Kor:"그런 다음에, 그 다섯 사람은 젊은 레위 사람이 사는 집, 곧 미가의 집으로 들어가서, 그에게 안부를 물었다.",
     Chn:"五人就进入米迦的住宅，到了那少年利未人的房内问他好。",
     Eng:"So they turned in there and went to the house of the young Levite at Micah's place and greeted him.",
     Ind:"Kemudian mereka menuju ke tempat itu, lalu sampai di rumah orang muda suku Lewi itu, di rumah Mikha, dan menanyakan apakah ia selamat."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Sementara keenam ratus orang dari bani Dan yang diperlengkapi dengan senjata itu tinggal berdiri di pintu gerbang,"
   },
   {Bible:"Judges", Chapter:18, Verse:17, Page:1,
-    Kor:"그 땅을 탐지하러 갔던 다섯 사람이 그리로 들어가서 은을 입힌 목상과 에봇과 드라빔과 부어 만든 우상을 챙기는 동안, 제사장은 무기를 지닌 육백 명과 함께 문 어귀에 서 있었다.",
+    Kor:"그 땅을 탐지하러 갔던 다섯 사람이 그리로 들어가, 은을 입힌 목상과 에봇과 드라빔과 부어 만든 우상을 챙기는 동안, 제사장은 무기를 지닌 육백 명과 함께 문 어귀에 서 있었다.",
     Chn:"窥探地的五个人走进去，将雕刻的像、以弗得、家中的神像，并铸成的像，都拿了去。祭司和带兵器的六百人，一同站在门口。",
     Eng:"The five men who had spied out the land went inside and took the carved image, the ephod, the other household gods and the cast idol while the priest and the six hundred armed men stood at the entrance to the gate.",
     Ind:"maka kelima orang yang telah pergi mengintai negeri itu berjalan terus, masuk ke dalam lalu mengambil patung pahatan, efod, terafim dan patung tuangan itu. Adapun imam itu berdiri di pintu gerbang bersama-sama dengan keenam ratus orang yang diperlengkapi dengan senjata itu."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi, setelah yang lain-lain itu masuk ke dalam rumah Mikha dan mengambil patung pahatan, efod, terafim dan patung tuangan itu, berkatalah imam itu kepada mereka: \"Berbuat apakah kamu ini?\""
   },
   {Bible:"Judges", Chapter:18, Verse:19, Page:1,
-    Kor:"그들이 그에게 대답하였다. \"조용히 하십시오. 아무 말 말고 우리를 따라 나서십시오. 우리의 어른과 제사장이 되어 주십시오. 이 집에서 한 가정의 제사장이 되는 것보다야 이스라엘의 한 지파와 한 가문의 제사장이 되는 것이 더 낫지 않겠습니까?\"",
+    Kor:"그들이 그에게 대답하였다. \"조용히 하시오. 아무 말 말고 우리를 따라 나서시오. 우리의 어른과 제사장이 되어 주시오. 이 집에서 한 가정의 제사장이 되는 것보다야 이스라엘의 한 지파와 한 가문의 제사장이 되는 것이 더 낫지 않겠소?\"",
     Chn:"他们回答说：「不要作声，用手捂口，跟我们去吧！我们必以你为父、为祭司。你作一家的祭司好呢？还是作以色列一族一支派的祭司好呢？」",
     Eng:"They answered him, \"Be quiet! Don't say a word. Come with us, and be our father and priest. Isn't it better that you serve a tribe and clan in Israel as priest rather than just one man's household?\"",
     Ind:"Tetapi jawab mereka kepadanya: \"Diamlah, tutup mulut, ikutlah kami dan jadilah bapak dan imam kami. Apakah yang lebih baik bagimu: menjadi imam untuk seisi rumah satu orang atau menjadi imam untuk suatu suku dan kaum di antara orang Israel?\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Mereka menamai kota itu Dan, menurut nama bapa leluhur mereka, yakni Dan, yang lahir bagi Israel, tetapi nama kota itu dahulu adalah Lais."
   },
   {Bible:"Judges", Chapter:18, Verse:30, Page:1,
-    Kor:"단 지파 자손은 자기들이 섬길 신상을 세웠다. 그리고 모세의 손자이며 게르손의 아들인 요나단과 그의 자손이 단 지파의 제사장이 되어, 그 땅 사람들이 포로로 잡혀갈 때까지 그 일을 맡았다.",
+    Kor:"단 지파 자손은 자기들이 섬길 신상을 세웠다. 그리고 모세의 손자이며 게르손의 아들인 요나단과 그의 자손이, 단 지파의 제사장이 되어, 그 땅 사람들이 포로로 잡혀갈 때까지 그 일을 맡았다.",
     Chn:"但人就为自己设立那雕刻的像。摩西的孙子、革舜的儿子约拿单，和他的子孙作但支派的祭司，直到那地遭掳掠的日子。",
     Eng:"There the Danites set up for themselves the idols, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the time of the captivity of the land.",
     Ind:"Bani Dan menegakkan bagi mereka sendiri patung pahatan itu, lalu Yonatan bin Gersom bin Musa bersama-sama dengan anak-anaknya menjadi imam bagi suku Dan, sampai penduduk negeri itu diangkut sebagai orang buangan."

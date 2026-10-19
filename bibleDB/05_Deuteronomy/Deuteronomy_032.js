@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Mudah-mudahan pengajaranku menitik laksana hujan, perkataanku menetes laksana embun, laksana hujan renai ke atas tunas muda, dan laksana dirus hujan ke atas tumbuh-tumbuhan."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:3, Page:1,
-    Kor:"내가 주님의 이름을 선포할 때에, 너희는 '우리의 하나님 위대하시다' 하고 응답하여라.",
+    Kor:"내가 주의 이름을 선포할 때에, 너희는 '우리의 하나님 위대하시다' 하고 응답하여라.",
     Chn:"我要宣告耶和华的名； 你们要将大德归与我们的　神。",
     Eng:"I will proclaim the name of the LORD. Oh, praise the greatness of our God!",
     Ind:"Sebab nama TUHAN akan kuserukan: Berilah hormat kepada Allah kita,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Berlaku busuk terhadap Dia, mereka yang bukan lagi anak-anak-Nya, yang merupakan noda, suatu angkatan yang bengkok dan belat-belit."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:6, Page:1,
-    Kor:"어리석은 백성아, 이 미련한 민족아, 너희는 어찌하여 주님께 이처럼 갚느냐? 그는 너희를 지으신 아버지가 아니시냐? 너희를 만드시고 일으키신 분이 아니시냐?",
+    Kor:"어리석은 백성아, 이 미련한 민족아, 너희는 어찌하여 주께 이처럼 갚느냐? 그는 너희를 지으신 아버지가 아니시냐? 너희를 만드시고 일으키신 분이 아니시냐?",
     Chn:"愚昧无知的民哪，你们这样报答耶和华吗？ 他岂不是你的父、将你买来的吗？ 他是制造你、建立你的。",
     Eng:"Is this the way you repay the LORD, O foolish and unwise people? Is he not your Father, your Creator, who made you and formed you?",
     Ind:"Demikianlah engkau mengadakan pembalasan terhadap TUHAN, hai bangsa yang bebal dan tidak bijaksana? Bukankah Ia Bapamu yang mencipta engkau, yang menjadikan dan menegakkan engkau?"
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"Ingatlah kepada zaman dahulu kala, perhatikanlah tahun-tahun keturunan yang lalu, tanyakanlah kepada ayahmu, maka ia memberitahukannya kepadamu, kepada para tua-tuamu, maka mereka mengatakannya kepadamu."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:8, Page:1,
-    Kor:"가장 높으신 분께서 여러 나라에 땅을 나누어 주시고, 인류를 갈라놓으실 때에 a이스라엘 자손의 수효대로 민족들의 경계를 갈라놓으셨다. (a 사해 사본과 칠십인역에는 '하나님의 아들들의 수효대로')",
+    Kor:"가장 높으신 분께서 여러 나라에 땅을 나누어 주시고, 인류를 갈라놓으실 때에 이스라엘 자손의 수효대로 민족들의 경계를 갈라놓으셨다.",
     Chn:"至高者将地业赐给列邦，将世人分开， 就照以色列人的数目立定万民的疆界。",
     Eng:"When the Most High gave the nations their inheritance, when he divided all mankind, he set up boundaries for the peoples according to the number of the sons of Israel.",
     Ind:"Ketika Sang Mahatinggi membagi-bagikan milik pusaka kepada bangsa-bangsa, ketika Ia memisah-misah anak-anak manusia, maka Ia menetapkan wilayah bangsa-bangsa menurut bilangan anak-anak Israel."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:9, Page:1,
-    Kor:"그러나 주님의 몫은 그의 백성이니, 야곱은 그가 차지하신 유산이다.",
+    Kor:"그러나 주의 몫은 그의 백성이니, 야곱은 그가 차지하신 유산이다.",
     Chn:"耶和华的分本是他的百姓； 他的产业本是雅各。",
     Eng:"For the LORD'S portion is his people, Jacob his allotted inheritance.",
     Ind:"Tetapi bagian TUHAN ialah umat-Nya, Yakub ialah milik yang ditetapkan bagi-Nya."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:10, Page:1,
-    Kor:"주님께서 광야에서 야곱을 찾으셨고, 짐승의 울음소리만 들려 오는 황야에서 그를 만나, 감싸 주고, 보호하고, 당신의 눈동자처럼 지켜 주셨다.",
+    Kor:"주께서 광야에서 야곱을 찾으셨고, 짐승의 울음소리만 들려 오는 황야에서 그를 만나, 감싸 주고, 보호하고, 당신의 눈동자처럼 지켜 주셨다.",
     Chn:"耶和华遇见他在旷野— 荒凉野兽吼叫之地， 就环绕他，看顾他， 保护他，如同保护眼中的瞳人。",
     Eng:"In a desert land he found him, in a barren and howling waste. He shielded him and cared for him; he guarded him as the apple of his eye,",
     Ind:"Didapati-Nya dia di suatu negeri, di padang gurun, di tengah-tengah ketandusan dan auman padang belantara. Dikelilingi-Nya dia dan diawasi-Nya, dijaga-Nya sebagai biji mata-Nya."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Laksana rajawali menggoyangbangkitkan isi sarangnya, melayang-layang di atas anak-anaknya, mengembangkan sayapnya, menampung seekor, dan mendukungnya di atas kepaknya,"
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:12, Page:1,
-    Kor:"주님께서만 홀로 그 백성을 인도하셨다. 다른 신은 옆에 있지도 않았다.",
+    Kor:"주께서만 홀로 그 백성을 인도하셨다. 다른 신은 옆에 있지도 않았다.",
     Chn:"这样，耶和华独自引导他， 并无外邦神与他同在。",
     Eng:"The LORD alone led him; no foreign god was with him.",
     Ind:"demikianlah TUHAN sendiri menuntun dia, dan tidak ada allah asing menyertai dia."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:13, Page:1,
-    Kor:"주님께서 그 백성에게 고원지대를 차지하게 하시며, 밭에서 나온 열매를 먹게 하시며, 바위에서 흘러내리는 꿀을 먹게 하시며, 단단한 바위에서 흘러내리는 기름을 먹게 하셨다.",
+    Kor:"주께서 그 백성에게, 고원지대를 차지하게 하시며, 밭에서 나온 열매를 먹게 하시며, 바위에서 흘러내리는 꿀을 먹게 하시며, 단단한 바위에서 흘러내리는 기름을 먹게 하셨다.",
     Chn:"耶和华使他乘驾地的高处， 得吃田间的土产； 又使他从磐石中咂蜜， 从坚石中吸油；",
     Eng:"He made him ride on the heights of the land and fed him with the fruit of the fields. He nourished him with honey from the rock, and with oil from the flinty crag,",
     Ind:"Dibuat-Nya dia berkendaraan mengatasi bukit-bukit di bumi, dan memakan hasil dari ladang; dibuat-Nya dia mengisap madu dari bukit batu, dan minyak dari gunung batu yang keras,"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"dadih dari lembu sapi dan susu kambing domba, dengan lemak anak-anak domba; dan domba-domba jantan dari Basan dan kambing-kambing jantan, dengan gandum yang terbaik; juga darah buah anggur yang berbuih engkau minum."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:15, Page:1,
-    Kor:"b이스라엘은 부자가 되더니, 반역자가 되었다. 먹거리가 넉넉해지고, 실컷 먹고 나더니, 자기들을 지으신 하나님을 저버리고, 자기들의 반석이신 구원자를 업신여겼다. (b 히, '여수룬(의인 또는 정직한 사람)')",
+    Kor:"이스라엘은 부자가 되더니, 반역자가 되었다. 먹을거리가 넉넉해지고, 실컷 먹고 나더니, 자기들을 지으신 하나님을 저버리고, 자기들의 반석이신 구원자를 업신여겼다.",
     Chn:"但耶书 渐渐肥胖，粗壮， 光润，踢跳，奔跑， 便离弃造他的　神， 轻看救他的磐石；",
     Eng:"Jeshurun grew fat and kicked; filled with food, he became heavy and sleek. He abandoned the God who made him and rejected the Rock his Savior.",
     Ind:"Lalu menjadi gemuklah Yesyurun, dan menendang ke belakang, --bertambah gemuk engkau, gendut dan tambun--dan ia meninggalkan Allah yang telah menjadikan dia, ia memandang rendah gunung batu keselamatannya."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:16, Page:1,
-    Kor:"그들은 이방 신을 섬겨서 주님께서 질투하시게 하였으며, 역겨운 짓을 하여 주님께서 진노하시게 하였다.",
+    Kor:"그들은 이방 신을 섬겨서 주께서 질투하시게 하였으며, 역겨운 짓을 하여 주께서 진노하시게 하였다.",
     Chn:"敬拜别神，触动　神的愤恨， 行可憎恶的事，惹了他的怒气。",
     Eng:"They made him jealous with their foreign gods and angered him with their detestable idols.",
     Ind:"Mereka membangkitkan cemburu-Nya dengan allah asing, mereka menimbulkan sakit hati-Nya dengan dewa kekejian,"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Gunung batu yang memperanakkan engkau, telah kaulalaikan, dan telah kaulupakan Allah yang melahirkan engkau."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:19, Page:1,
-    Kor:"주님께서는 이것을 보시고 격분하셔서, 당신의 자녀들과 인연을 끊으시고서,",
+    Kor:"주께서는 이것을 보시고 격분하셔서, 당신의 자녀들과 인연을 끊으시고서,",
     Chn:"耶和华看见他的儿女惹动他， 就厌恶他们，说：",
     Eng:"The LORD saw this and rejected them because he was angered by his sons and daughters.",
     Ind:"Ketika TUHAN melihat hal itu, maka Ia menolak mereka, karena Ia sakit hati oleh anak-anaknya lelaki dan perempuan."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Sekiranya mereka bijaksana, tentulah mereka mengerti hal ini, dan memperhatikan kesudahan mereka."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:30, Page:1,
-    Kor:"주님께서 자기의 백성을 포기하지 않으셨다면, 그들의 반석께서 당신의 백성을 원수에게 팔아 넘기지 않으셨다면, 어떻게 원수 한 사람이 이스라엘 사람 천 명을 물리치고, 둘이서 만 명을 도망치게 할 수 있었겠는가?",
+    Kor:"주께서 당신의 백성을 포기하지 않으셨다면, 그들의 반석께서 당신의 백성을 원수에게 팔아 넘기지 않으셨다면, 어떻게 원수 하나가 이스라엘 사람 천 명을 물리치고, 둘이서 만 명을 도망치게 할 수 있었겠는가?",
     Chn:"若不是他们的磐石卖了他们， 若不是耶和华交出他们， 一人焉能追赶他们千人？ 二人焉能使万人逃跑呢？",
     Eng:"How could one man chase a thousand, or two put ten thousand to flight, unless their Rock had sold them, unless the LORD had given them up?",
     Ind:"Bagaimana mungkin satu orang dapat mengejar seribu orang, dan dua orang dapat membuat lari sepuluh ribu orang, kalau tidak gunung batu mereka telah menjual mereka, dan TUHAN telah menyerahkan mereka!"
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Hak-Kulah dendam dan pembalasan, pada waktu kaki mereka goyang, sebab hari bencana bagi mereka telah dekat, akan segera datang apa yang telah disediakan bagi mereka."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:36, Page:1,
-    Kor:"그들이 기진맥진 하고, 갇힌 사람도 놓인 사람도 하나도 남지 않았을 때에, 주님께서는 당신의 백성을 심판하시고, 당신의 종들을 불쌍히 여기실 것이다.",
+    Kor:"그들이 기진맥진 하고, 갇힌 사람도 놓인 사람도 하나도 남지 않았을 때에, 주께서는 당신의 백성을 심판하시고, 당신의 종들을 불쌍히 여기실 것이다.",
     Chn:"耶和华见他百姓毫无能力， 无论困住的、自由的都没有剩下， 就必为他们伸冤， 为他的仆人后悔。",
     Eng:"The LORD will judge his people and have compassion on his servants when he sees their strength is gone and no one is left, slave or free.",
     Ind:"Sebab TUHAN akan memberi keadilan kepada umat-Nya, dan akan merasa sayang kepada hamba-hamba-Nya; apabila dilihat-Nya, bahwa kekuatan mereka sudah lenyap, dan baik hamba maupun orang merdeka sudah tiada."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"yang memakan lemak dari korban sembelihan mereka, meminum anggur dari korban curahan mereka? Biarlah mereka bangkit untuk menolong kamu, sehingga kamu mendapat perlindungan."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:39, Page:1,
-    Kor:"그러나 이제는 알아라. 나, 오직 나만이 하나님이다. 나 밖에는 다른 신이 없다. 나는 죽게도 하고 살게도 한다. 나는 상하게도 하고 낫게도 한다. 아무도 내가 하는 일을 막지 못한다.",
+    Kor:"그러나 이제는 알아라. 나, 오직 나만이 하나님이다. 나 밖에는 다른 신이 없다. 나는 죽이기도 하고 살리기도 한다. 나는 상하게도 하고 낫게도 한다. 아무도 내가 하는 일을 막지 못한다.",
     Chn:"你们如今要知道： 我，惟有我是　神； 在我以外并无别神。 我使人死，我使人活； 我损伤，我也医治， 并无人能从我手中救出来。",
     Eng:"\"See now that I myself am He! There is no god besides me. I put to death and I bring to life, I have wounded and I will heal, and no one can deliver out of my hand.",
     Ind:"Lihatlah sekarang, bahwa Aku, Akulah Dia. Tidak ada Allah kecuali Aku. Akulah yang mematikan dan yang menghidupkan, Aku telah meremukkan, tetapi Akulah yang menyembuhkan, dan seorangpun tidak ada yang dapat melepaskan dari tangan-Ku."
@@ -255,13 +255,13 @@ BibleDB.add([
     Ind:"Aku akan memabukkan anak panah-Ku dengan darah, dan pedang-Ku akan memakan daging: darah orang-orang yang mati tertikam dan orang-orang yang tertawan, dari kepala-kepala musuh yang berambut panjang."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:43, Page:1,
-    Kor:"c모든 나라들아, 주님의 백성과 함께 즐거워하여라. 주님께서 그 종들의 피를 흘린 자에게 원수를 갚으시고 당신의 대적들에게 복수하신다. 당신의 땅과 백성이 지은 죄를 속하여 주신다. (c 사해 사본과 칠십인역에는 '하늘아, 주님의 백성을 찬양하여라. 모든 신들아, 주님을 섬겨라! 주님께서 그 자녀의 피를 흘린 자에게 원수를 갚으시고, 당신의 대적들에게 복수하신다. 주님께서는 주님을 미워하는 자들에게 보복하시고, 그의 백성의 땅을 정결하게 하신다')",
+    Kor:"모든 나라들아, 주의 백성과 함께 즐거워하여라. 주께서 그 종들의 피를 흘린 자에게 원수를 갚으시고 당신의 대적들에게 복수하신다. 당신의 땅과 백성이 지은 죄를 속하여 주신다.",
     Chn:"你们外邦人当与主的百姓一同欢呼； 因他要伸他仆人流血的冤， 报应他的敌人， 洁净他的地，救赎他的百姓。",
     Eng:"Rejoice, O nations, with his people, for he will avenge the blood of his servants; he will take vengeance on his enemies and make atonement for his land and people.",
     Ind:"Bersorak-sorailah, hai bangsa-bangsa karena umat-Nya, sebab Ia membalaskan darah hamba-hamba-Nya, Ia membalas dendam kepada lawan-Nya, dan mengadakan pendamaian bagi tanah umat-Nya.\""
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:44, Page:1,
-    Kor:"<모세의 마지막 말> ○모세는 눈의 아들 여호수아와 함께 가서, 백성에게 이 노래를 모두 다 들려주었다.",
+    Kor:"○모세는 눈의 아들 여호수아와 함께 가서, 백성에게 이 노래를 모두 다 들려주었다.",
     Chn:"摩西和嫩的儿子约书亚去将这歌的一切话说给百姓听。",
     Eng:"Moses came with Joshua son of Nun and spoke all the words of this song in the hearing of the people.",
     Ind:"Lalu datanglah Musa bersama-sama dengan Yosua bin Nun dan menyampaikan ke telinga bangsa itu segala perkataan nyanyian tadi."
@@ -273,19 +273,19 @@ BibleDB.add([
     Ind:"Setelah Musa selesai menyampaikan segala perkataan itu kepada seluruh orang Israel,"
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:46, Page:1,
-    Kor:"그들에게 말하였다. \"오늘 내가 당신들에게 증언한 모든 말을, 당신들은 마음에 간직해 두고, 자녀에게 가르쳐, 이 율법의 모든 말씀을 지키게 하십시오.",
+    Kor:"그들에게 말하였다. \"오늘 내가 너희에게 증언한 모든 말을, 너희는 마음에 간직해 두고, 자녀에게 가르쳐, 이 율법의 모든 말씀을 지키게 하여라.",
     Chn:"又说：「我今日所警教你们的，你们都要放在心上；要吩咐你们的子孙谨守遵行这律法上的话。",
     Eng:"he said to them, \"Take to heart all the words I have solemnly declared to you this day, so that you may command your children to obey carefully all the words of this law.",
     Ind:"berkatalah ia kepada mereka: \"Perhatikanlah segala perkataan yang kuperingatkan kepadamu pada hari ini, supaya kamu memerintahkannya kepada anak-anakmu untuk melakukan dengan setia segala perkataan hukum Taurat ini."
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:47, Page:1,
-    Kor:"율법은 단지 빈 말이 아니라, 바로 당신들의 생명입니다. 이 말씀을 순종하십시오. 그래야만 당신들이 요단 강을 건너가 차지하는 땅에서 오래오래 살 것입니다.\"",
+    Kor:"율법은 단지 빈 말이 아니라, 바로 너희의 생명이다. 이 말씀을 순종하여라. 그래야만 너희가 요단 강을 건너가 차지하는 땅에서 오래오래 살 것이다.\"",
     Chn:"因为这不是虚空、与你们无关的事，乃是你们的生命；在你们过约旦河要得为业的地上必因这事日子得以长久。」",
     Eng:"They are not just idle words for you--they are your life. By them you will live long in the land you are crossing the Jordan to possess.\"",
     Ind:"Sebab perkataan ini bukanlah perkataan hampa bagimu, tetapi itulah hidupmu, dan dengan perkataan ini akan lanjut umurmu di tanah, ke mana kamu pergi, menyeberangi sungai Yordan untuk mendudukinya.\""
   },
   {Bible:"Deuteronomy", Chapter:32, Verse:48, Page:1,
-    Kor:"○바로 같은 날, 주님께서 모세에게 말씀하셨다.",
+    Kor:"○바로 같은 날, 주께서 모세에게 말씀하셨다.",
     Chn:"当日，耶和华吩咐摩西说：",
     Eng:"On that same day the LORD told Moses,",
     Ind:"Pada hari itulah juga TUHAN berfirman kepada Musa:"

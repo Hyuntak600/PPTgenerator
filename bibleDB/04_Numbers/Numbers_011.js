@@ -3,25 +3,25 @@
 BibleDB.ref("Numbers",11,35);
 BibleDB.add([
   {Bible:"Numbers", Chapter:11, Verse:1, Page:1,
-    Kor:"<다베라> 주님께서 들으시는 앞에서 백성들이 심하게 불평을 하였다. 주님께서 듣고 진노하시어, 그들 가운데 불을 놓아 진 언저리를 살라 버리셨다.",
+    Kor:"주께서 들으시는 앞에서 백성들이 심하게 불평을 하였다. 주께서 듣고 진노하시어, 그들 가운데 불을 놓아 진 언저리를 살라 버리셨다.",
     Chn:"众百姓发怨言，他们的恶语达到耶和华的耳中。耶和华听见了就怒气发作，使火在他们中间焚烧，直烧到营的边界。",
     Eng:"Now the people complained about their hardships in the hearing of the LORD, and when he heard them his anger was aroused. Then fire from the LORD burned among them and consumed some of the outskirts of the camp.",
     Ind:"Pada suatu kali bangsa itu bersungut-sungut di hadapan TUHAN tentang nasib buruk mereka, dan ketika TUHAN mendengarnya bangkitlah murka-Nya, kemudian menyalalah api TUHAN di antara mereka dan merajalela di tepi tempat perkemahan."
   },
   {Bible:"Numbers", Chapter:11, Verse:2, Page:1,
-    Kor:"백성이 모세에게 부르짖었다. 모세가 주님께 기도드리니 불이 꺼졌다.",
+    Kor:"백성이 모세에게 부르짖었다. 모세가 주께 기도드리니 불이 꺼졌다.",
     Chn:"百姓向摩西哀求，摩西祈求耶和华，火就熄了。",
     Eng:"When the people cried out to Moses, he prayed to the LORD and the fire died down.",
     Ind:"Lalu berteriaklah bangsa itu kepada Musa, dan Musa berdoa kepada TUHAN; maka padamlah api itu."
   },
   {Bible:"Numbers", Chapter:11, Verse:3, Page:1,
-    Kor:"그래서 사람들은 그 곳 이름을 a다베라라고 불렀다. 주님의 불이 그들 가운데서 타올랐기 때문이다.(a '불사름')",
+    Kor:"그래서 사람들은 그 곳 이름을 다베라라고 불렀다. 주의 불이 그들 가운데서 타올랐기 때문이다.",
     Chn:"那地方便叫做他备拉，因为耶和华的火烧在他们中间。",
     Eng:"So that place was called Taberah, because fire from the LORD had burned among them.",
     Ind:"Sebab itu orang menamai tempat itu Tabera, karena telah menyala api TUHAN di antara mereka."
   },
   {Bible:"Numbers", Chapter:11, Verse:4, Page:1,
-    Kor:"<모세가 장로 일흔 명을 뽑다> ○이스라엘 자손 가운데 섞여 살던 무리들이 먹을 것 때문에 탐욕을 품으니, 이스라엘 자손들도 또다시 울며 불평하였다. \"누가 우리에게 고기를 먹여 줄까?",
+    Kor:"○이스라엘 자손 가운데 섞여 살던 무리들이 먹을 것 때문에 탐욕을 품으니, 이스라엘 자손들도 또다시 울며 불평하였다. \"누가 우리에게 고기를 먹여 줄까?",
     Chn:"他们中间的闲杂人大起贪欲的心；以色列人又哭号说：「谁给我们肉吃呢？",
     Eng:"The rabble with them began to crave other food, and again the Israelites started wailing and said, \"If only we had meat to eat!",
     Ind:"Orang-orang bajingan yang ada di antara mereka kemasukan nafsu rakus; dan orang Israelpun menangislah pula serta berkata: \"Siapakah yang akan memberi kita makan daging?"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Tetapi sekarang kita kurus kering, tidak ada sesuatu apapun, kecuali manna ini saja yang kita lihat.\""
   },
   {Bible:"Numbers", Chapter:11, Verse:7, Page:1,
-    Kor:"○만나의 모양은 b깟 씨와 같고, 그 빛깔은 브돌라와 같았다.(b 식물의 일종)",
+    Kor:"○만나의 모양은 깟 씨와 같고, 그 빛깔은 브돌라와 같았다.",
     Chn:"这吗哪仿佛芫荽子，又好像珍珠。",
     Eng:"The manna was like coriander seed and looked like resin.",
     Ind:"Adapun manna itu seperti ketumbar dan kelihatannya seperti damar bedolah."
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Dan apabila embun turun di tempat perkemahan pada waktu malam, maka turunlah juga manna di situ."
   },
   {Bible:"Numbers", Chapter:11, Verse:10, Page:1,
-    Kor:"○모세는, 백성이 각 가족별로, 제각기 자기 장막 어귀에서 우는 소리를 들었다. 주님께서 이 일로 대단히 노하셨고, 모세는 그 앞에서 걱정이 태산 같았다.",
+    Kor:"○모세는, 백성이 각 가족별로, 제각기 자기 장막 어귀에서 우는 소리를 들었다. 주께서 이 일로 대단히 노하셨고, 모세는 그 앞에서 걱정이 태산 같았다.",
     Chn:"摩西听见百姓各在各家的帐棚门口哭号。耶和华的怒气便大发作，摩西就不喜悦。",
     Eng:"Moses heard the people of every family wailing, each at the entrance to his tent. The LORD became exceedingly angry, and Moses was troubled.",
     Ind:"Ketika Musa mendengar bangsa itu, yaitu orang-orang dari setiap kaum, menangis di depan pintu kemahnya, bangkitlah murka TUHAN dengan sangat, dan hal itu dipandang jahat oleh Musa."
   },
   {Bible:"Numbers", Chapter:11, Verse:11, Page:1,
-    Kor:"모세가 주님께 여쭈었다. \"어찌하여 주님께서는 주님의 종을 이렇게도 괴롭게 하십니까? 어찌하여 저를 주님의 눈 밖에 벗어나게 하시어, 이 모든 백성을 저에게 짊어지우십니까?",
+    Kor:"모세가 주께 여쭈었다. \"어찌하여 주께서는 주의 종을 이렇게도 괴롭게 하십니까? 어찌하여 저를 주님의 눈 밖에 벗어나게 하시어, 이 모든 백성을 저에게 짊어지우십니까?",
     Chn:"摩西对耶和华说：「你为何苦待仆人？我为何不在你眼前蒙恩，竟把这管理百姓的重任加在我身上呢？",
     Eng:"He asked the LORD, \"Why have you brought this trouble on your servant? What have I done to displease you that you put the burden of all these people on me?",
     Ind:"Lalu berkatalah Musa kepada TUHAN: \"Mengapa Kauperlakukan hamba-Mu ini dengan buruk dan mengapa aku tidak mendapat kasih karunia di mata-Mu, sehingga Engkau membebankan kepadaku tanggung jawab atas seluruh bangsa ini?"
   },
   {Bible:"Numbers", Chapter:11, Verse:12, Page:1,
-    Kor:"이 모든 백성을 제가 배기라도 했습니까? 제가 그들을 낳기라도 했습니까? 어찌하여 저더러, 주님께서 그들의 조상에게 맹세하신 땅으로, 마치 유모가 젖먹이를 품듯이, 그들을 품에 품고 가라고 하십니까?",
+    Kor:"이 모든 백성을 제가 잉태하기라도 했습니까? 제가 그들을 낳기라도 했습니까? 어찌하여 저더러, 주께서 그들의 조상에게 맹세하신 땅으로, 마치 유모가 젖먹이를 품듯이, 그들을 품에 품고 가라고 하십니까?",
     Chn:"这百姓岂是我怀的胎，岂是我生下来的呢？你竟对我说：『把他们抱在怀里，如养育之父抱吃奶的孩子，直抱到你起誓应许给他们祖宗的地去。』",
     Eng:"Did I conceive all these people? Did I give them birth? Why do you tell me to carry them in my arms, as a nurse carries an infant, to the land you promised on oath to their forefathers?",
     Ind:"Akukah yang mengandung seluruh bangsa ini atau akukah yang melahirkannya, sehingga Engkau berkata kepadaku: Pangkulah dia seperti pak pengasuh memangku anak yang menyusu, berjalan ke tanah yang Kaujanjikan dengan bersumpah kepada nenek moyangnya?"
   },
   {Bible:"Numbers", Chapter:11, Verse:13, Page:1,
-    Kor:"백성은 저를 보고 울면서 '우리가 먹을 수 있는 고기를 달라!’ 하고 외치는데, 이 모든 백성에게 줄 고기를, 제가 어디서 구할 수 있습니까?",
+    Kor:"백성은 저를 보고 울면서 '우리가 먹을 수 있는 고기를 달라!' 하고 외치는데, 이 모든 백성에게 줄 고기를, 제가 어디서 구할 수 있습니까?",
     Chn:"我从哪里得肉给这百姓吃呢？他们都向我哭号说：『你给我们肉吃吧！』",
     Eng:"Where can I get meat for all these people? They keep wailing to me, 'Give us meat to eat!'",
     Ind:"Dari manakah aku mengambil daging untuk diberikan kepada seluruh bangsa ini? Sebab mereka menangis kepadaku dengan berkata: Berilah kami daging untuk dimakan."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku seorang diri tidak dapat memikul tanggung jawab atas seluruh bangsa ini, sebab terlalu berat bagiku."
   },
   {Bible:"Numbers", Chapter:11, Verse:15, Page:1,
-    Kor:"주님께서 저에게 정말로 이렇게 하셔야 하겠다면, 그리고 제가 주님의 눈 밖에 나지 않았다면, 제발 저를 죽이셔서, 제가 이 곤경을 당하지 않게 해주십시오.\"",
+    Kor:"주께서 저에게 정말로 이렇게 하셔야 하겠다면, 그리고 제가 주님의 눈 밖에 나지 않았다면, 제발 저를 죽이셔서, 제가 이 곤경을 당하지 않게 해주십시오.\"",
     Chn:"你这样待我，我若在你眼前蒙恩，求你立时将我杀了，不叫我见自己的苦情。」",
     Eng:"If this is how you are going to treat me, put me to death right now--if I have found favor in your eyes--and do not let me face my own ruin.\"",
     Ind:"Jika Engkau berlaku demikian kepadaku, sebaiknya Engkau membunuh aku saja, jika aku mendapat kasih karunia di mata-Mu, supaya aku tidak harus melihat celakaku.\""
   },
   {Bible:"Numbers", Chapter:11, Verse:16, Page:1,
-    Kor:"○주님께서 모세에게 대답하셨다. \"이스라엘 장로들 가운데서, 네가 백성의 장로들 또는 그 지도자라고 알고 있는 사람들 일흔 명을 나에게로 불러 오너라. 너는 그들을 데리고 회막으로 와서 그들과 함께 서라.",
+    Kor:"○주께서 모세에게 대답하셨다. \"이스라엘 장로들 가운데서, 네가 백성의 장로들 또는 그 지도자라고 알고 있는 사람들 일흔 명을 나에게로 불러 오너라. 너는 그들을 데리고 회막으로 와서 그들과 함께 서라.",
     Chn:"耶和华对摩西说：「你从以色列的长老中招聚七十个人，就是你所知道作百姓的长老和官长的，到我这里来，领他们到会幕前，使他们和你一同站立。",
     Eng:"The LORD said to Moses: \"Bring me seventy of Israel's elders who are known to you as leaders and officials among the people. Have them come to the Tent of Meeting, that they may stand there with you.",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa: \"Kumpulkanlah di hadapan-Ku dari antara para tua-tua Israel tujuh puluh orang, yang kauketahui menjadi tua-tua bangsa dan pengatur pasukannya, kemudian bawalah mereka ke Kemah Pertemuan, supaya mereka berdiri di sana bersama-sama dengan engkau."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Maka Aku akan turun dan berbicara dengan engkau di sana, lalu sebagian dari Roh yang hinggap padamu itu akan Kuambil dan Kutaruh atas mereka, maka mereka bersama-sama dengan engkau akan memikul tanggung jawab atas bangsa itu, jadi tidak usah lagi engkau seorang diri memikulnya."
   },
   {Bible:"Numbers", Chapter:11, Verse:18, Page:1,
-    Kor:"○너는 또 백성에게 이렇게 말하여라. ○내일을 맞이하여야 하니, 너희는 스스로를 거룩하게 하여라. 너희가 고기를 먹게 될 것이다. '누가 우리에게 고기를 먹이려나? 이집트에서는 우리가 참 좋았었는데’ 하고 울며 한 말이 나 주에게 들렸다. 이제 나 주가 너희에게 고기를 줄 터이니, 너희가 먹게 될 것이다.",
+    Kor:"○너는 또 백성에게 이렇게 말하여라. 내일을 맞이하여야 하니, 너희는 스스로를 거룩하게 하여라. 너희가 고기를 먹게 될 것이다. '누가 우리에게 고기를 먹이려나? 이집트에서는 우리가 참 좋았었는데' 하고 울며 한 말이 주께 들렸다. 이제 주께서 너희에게 고기를 주실 터이니, 너희가 먹게 될 것이다.",
     Chn:"又要对百姓说：『你们应当自洁，预备明天吃肉，因为你们哭号说：谁给我们肉吃！我们在埃及很好。这声音达到了耶和华的耳中，所以他必给你们肉吃。",
     Eng:"\"Tell the people: 'Consecrate yourselves in preparation for tomorrow, when you will eat meat. The LORD heard you when you wailed, \"If only we had meat to eat! We were better off in Egypt!\" Now the LORD will give you meat, and you will eat it.",
     Ind:"Tetapi kepada bangsa itu haruslah kaukatakan: Kuduskanlah dirimu untuk besok, maka kamu akan makan daging; sebab kamu telah menangis di hadapan TUHAN dengan berkata: Siapakah yang akan memberi kami makan daging? Begitu baik keadaan kita di Mesir, bukan? --TUHAN akan memberi kamu daging untuk dimakan."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Bukan hanya satu hari kamu akan memakannya, bukan dua hari, bukan lima hari, bukan sepuluh hari, bukan dua puluh hari,"
   },
   {Bible:"Numbers", Chapter:11, Verse:20, Page:1,
-    Kor:"한 달 내내, 냄새만 맡아도 먹기 싫을 때까지, 줄곧 그것을 먹게 될 것이다. 너희가 너희 가운데 있는 나 주를 거절하고, 내 앞에서 울면서 '우리가 왜 이집트를 떠났던가?’ 하고 후회하였기 때문이다.\"",
+    Kor:"한 달 내내, 냄새만 맡아도 먹기 싫을 때까지, 줄곧 그것을 먹게 될 것이다. 너희가 너희 가운데 계신 주를 거절하고, 그분 앞에서 울면서 '우리가 왜 이집트를 떠났던가?' 하고 후회하였기 때문이다.\"",
     Chn:"要吃一个整月，甚至肉从你们鼻孔里喷出来，使你们厌恶了，因为你们厌弃住在你们中间的耶和华，在他面前哭号说：我们为何出了埃及呢！』」",
     Eng:"but for a whole month--until it comes out of your nostrils and you loathe it--because you have rejected the LORD, who is among you, and have wailed before him, saying, \"Why did we ever leave Egypt?\"'\"",
     Ind:"tetapi genap sebulan lamanya, sampai keluar dari dalam hidungmu dan sampai kamu muak--karena kamu telah menolak TUHAN yang ada di tengah-tengah kamu dan menangis di hadapan-Nya dengan berkata: Untuk apakah kita keluar dari Mesir?\""
   },
   {Bible:"Numbers", Chapter:11, Verse:21, Page:1,
-    Kor:"○모세가 되물었다. \"저를 둘러싸고 있는 백성의 보행자가 육십만 명입니다. 그런데 주님께서는 '그들에게 내가 고기를 주어, 한 달 내내 먹게 하겠다’ 하고 말씀하시나,",
+    Kor:"○모세가 되물었다. \"저를 둘러싸고 있는 백성의 보행자가 육십만 명입니다. 그런데 주께서는 '그들에게 내가 고기를 주어, 한 달 내내 먹게 하겠다' 하고 말씀하시나,",
     Chn:"摩西对耶和华说：「这与我同住的百姓、步行的男人有六十万，你还说：『我要把肉给他们，使他们可以吃一个整月。』",
     Eng:"But Moses said, \"Here I am among six hundred thousand men on foot, and you say, 'I will give them meat to eat for a whole month!'",
     Ind:"Tetapi kata Musa: \"Bangsa yang ada bersama aku ini berjumlah enam ratus ribu orang berjalan kaki, namun Engkau berfirman: Daging akan Kuberikan kepada mereka, dan genap sebulan lamanya mereka akan memakannya!"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Dapatkah sekian banyak kambing domba dan lembu sapi disembelih bagi mereka, sehingga mereka mendapat cukup? Atau dapatkah ditangkap segala ikan di laut bagi mereka, sehingga mereka mendapat cukup?\""
   },
   {Bible:"Numbers", Chapter:11, Verse:23, Page:1,
-    Kor:"○주님께서 모세에게 대답하셨다. \"나의 손이 짧아지기라도 하였느냐? 이제 너는 내가 말한 것이 너에게 사실로 이루어지는지 그렇지 아니한지를 볼 것이다.\"",
+    Kor:"○주께서 모세에게 대답하셨다. \"나의 손이 짧아지기라도 하였느냐? 이제 너는 내가 말한 것이 너에게 사실로 이루어지는지 그렇지 아니한지를 볼 것이다.\"",
     Chn:"耶和华对摩西说：「耶和华的膀臂岂是缩短了吗？现在要看我的话向你应验不应验。」",
     Eng:"The LORD answered Moses, \"Is the LORD'S arm too short? You will now see whether or not what I say will come true for you.\"",
     Ind:"Tetapi TUHAN menjawab Musa: \"Masakan kuasa TUHAN akan kurang untuk melakukan itu? Sekarang engkau akan melihat apakah firman-Ku terjadi kepadamu atau tidak!\""
   },
   {Bible:"Numbers", Chapter:11, Verse:24, Page:1,
-    Kor:"○모세가 나가서 주님께서 하신 말씀을 백성에게 전달하였다. 그는 백성의 장로들 가운데서 일흔 명을 불러모아, 그들을 장막에 둘러세웠다.",
+    Kor:"○모세가 나가서 주께서 하신 말씀을 백성에게 전달하였다. 그는 백성의 장로들 가운데서 일흔 명을 불러모아, 그들을 장막에 둘러세웠다.",
     Chn:"摩西出去，将耶和华的话告诉百姓，又招聚百姓的长老中七十个人来，使他们站在会幕的四围。",
     Eng:"So Moses went out and told the people what the LORD had said. He brought together seventy of their elders and had them stand around the Tent.",
     Ind:"Setelah Musa datang ke luar, disampaikannya firman TUHAN itu kepada bangsa itu. Ia mengumpulkan tujuh puluh orang dari para tua-tua bangsa itu dan menyuruh mereka berdiri di sekeliling kemah."
   },
   {Bible:"Numbers", Chapter:11, Verse:25, Page:1,
-    Kor:"그 때에 주님께서 구름에 휩싸여 내려오셔서 모세와 더불어 말씀하시고, 모세에게 내린 영을 장로들 일흔 명에게 내리셨다. 그 영이 그들 위에 내려와 머물자, 그들이 예언하였다. 이것은 처음이자 마지막이다. 그들은 다시는 예언하지 않았다.",
+    Kor:"그 때에 주께서 구름에 휩싸여 내려오셔서 모세와 더불어 말씀하시고, 모세에게 내린 영을 장로들 일흔 명에게 내리셨다. 그 영이 그들 위에 내려와 머물자, 그들이 예언하였다. 이것은 처음이자 마지막이다. 그들은 다시는 예언하지 않았다.",
     Chn:"耶和华在云中降临，对摩西说话，把降与他身上的灵分赐那七十个长老。灵停在他们身上的时候，他们就受感说话，以后却没有再说。",
     Eng:"Then the LORD came down in the cloud and spoke with him, and he took of the Spirit that was on him and put the Spirit on the seventy elders. When the Spirit rested on them, they prophesied, but they did not do so again.",
     Ind:"Lalu turunlah TUHAN dalam awan dan berbicara kepada Musa, kemudian diambil-Nya sebagian dari Roh yang hinggap padanya, dan ditaruh-Nya atas ketujuh puluh tua-tua itu; ketika Roh itu hinggap pada mereka, kepenuhanlah mereka seperti nabi, tetapi sesudah itu tidak lagi."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Maka menjawablah Yosua bin Nun, yang sejak mudanya menjadi abdi Musa: \"Tuanku Musa, cegahlah mereka!\""
   },
   {Bible:"Numbers", Chapter:11, Verse:29, Page:1,
-    Kor:"○그러자 모세가 그에게 말하였다. \"네가 나를 두고 질투하느냐? 나는 오히려 주님께서 주님의 백성 모두에게 그의 영을 주셔서, 그들 모두가 예언자가 되었으면 좋겠다.\"",
+    Kor:"○그러자 모세가 그에게 말하였다. \"네가 나를 두고 질투하느냐? 나는 오히려 주께서 주의 백성 모두에게 그의 영을 주셔서, 그들 모두가 예언자가 되었으면 좋겠다.\"",
     Chn:"摩西对他说：「你为我的缘故嫉妒人吗？惟愿耶和华的百姓都受感说话！愿耶和华把他的灵降在他们身上！」",
     Eng:"But Moses replied, \"Are you jealous for my sake? I wish that all the LORD'S people were prophets and that the LORD would put his Spirit on them!\"",
     Ind:"Tetapi Musa berkata kepadanya: \"Apakah engkau begitu giat mendukung diriku? Ah, kalau seluruh umat TUHAN menjadi nabi, oleh karena TUHAN memberi Roh-Nya hinggap kepada mereka!\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemudian kembalilah Musa ke tempat perkemahan, dia dan para tua-tua Israel."
   },
   {Bible:"Numbers", Chapter:11, Verse:31, Page:1,
-    Kor:"<주님께서 메추라기를 보내시다> ○주님께서 바람을 일으키셨다. 주님께서 c바다 쪽에서 메추라기를 몰아, 진을 빙 둘러 이쪽으로 하룻길 될 만한 지역에 떨어뜨리시어, 땅 위로 두 자쯤 쌓이게 하셨다.(c 아카바 만 쪽이라고 추측됨)",
+    Kor:"○주께서 바람을 일으키셨다. 주께서 바다 쪽에서 메추라기를 몰아, 진을 빙 둘러 이쪽으로 하룻길 될 만한 지역에 떨어뜨리시어, 땅 위로 두 자쯤 쌓이게 하셨다.",
     Chn:"有风从耶和华那里刮起，把鹌鹑由海面刮来，飞散在营边和营的四围；这边约有一天的路程，那边约有一天的路程，离地面约有二肘。",
     Eng:"Now a wind went out from the LORD and drove quail in from the sea. It brought them down all around the camp to about three feet above the ground, as far as a day's walk in any direction.",
     Ind:"Lalu bertiuplah angin yang dari TUHAN asalnya; dibawanyalah burung-burung puyuh dari sebelah laut, dan dihamburkannya ke atas tempat perkemahan dan di sekelilingnya, kira-kira sehari perjalanan jauhnya ke segala penjuru, dan kira-kira dua hasta tingginya dari atas muka bumi."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Lalu sepanjang hari dan sepanjang malam itu dan sepanjang hari esoknya bangkitlah bangsa itu mengumpulkan burung-burung puyuh itu--setiap orang sedikit-dikitnya mengumpulkan sepuluh homer--,kemudian mereka menyebarkannya lebar-lebar sekeliling tempat perkemahan."
   },
   {Bible:"Numbers", Chapter:11, Verse:33, Page:1,
-    Kor:"고기가 아직 그들의 이 사이에서 씹히기도 전에, 주님께서 백성에게 크게 진노하셨다. 주님께서는 백성을 극심한 재앙으로 치셨다.",
+    Kor:"고기가 아직 그들의 이 사이에서 씹히기도 전에, 주께서 백성에게 크게 진노하셨다. 주께서는 백성을 극심한 재앙으로 치셨다.",
     Chn:"肉在他们牙齿之间尚未嚼烂，耶和华的怒气就向他们发作，用最重的灾殃击杀了他们。",
     Eng:"But while the meat was still between their teeth and before it could be consumed, the anger of the LORD burned against the people, and he struck them with a severe plague.",
     Ind:"Selagi daging itu ada di mulut mereka, sebelum dikunyah, maka bangkitlah murka TUHAN terhadap bangsa itu dan TUHAN memukul bangsa itu dengan suatu tulah yang sangat besar."
   },
   {Bible:"Numbers", Chapter:11, Verse:34, Page:1,
-    Kor:"바로 그 곳을, 사람들은 d기브롯 핫다아와라 불렀다. 탐욕에 사로잡힌 백성을 거기에 묻었기 때문이다.(d '탐욕의 무덤')",
+    Kor:"바로 그 곳을, 사람들은 기브롯 핫다아와라 불렀다. 탐욕에 사로잡힌 백성을 거기에 묻었기 때문이다.",
     Chn:"那地方便叫做基博罗·哈他瓦，因为他们在那里葬埋那起贪欲之心的人。",
     Eng:"Therefore the place was named Kibroth Hattaavah, because there they buried the people who had craved other food.",
     Ind:"Sebab itu dinamailah tempat itu Kibrot-Taawa, karena di sanalah dikuburkan orang-orang yang bernafsu rakus."

@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",13,25);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:13, Verse:1, Page:1,
-    Kor:"<지혜 있는 친구를 사귀어라> 지혜로운 아들딸들은 아버지의 가르침을 듣지만, 거만한 사람은 꾸지람을 듣지 않는다.",
+    Kor:"지혜로운 아들은 아버지의 가르침을 듣지만, 거만한 사람은 꾸지람을 듣지 않는다.",
     Chn:"智慧子听父亲的教训； 亵慢人不听责备。",
     Eng:"A wise son heeds his father's instruction, but a mocker does not listen to rebuke.",
     Ind:"Anak yang bijak mendengarkan didikan ayahnya, tetapi seorang pencemooh tidak mendengarkan hardikan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ajaran orang bijak adalah sumber kehidupan, sehingga orang terhindar dari jerat-jerat maut."
   },
   {Bible:"Proverbs", Chapter:13, Verse:15, Page:1,
-    Kor:"선한 지혜는 은혜를 베푸나, 배신자의 길은 a스스로 멸망하는 길이다. (a 또는 '험하다')",
+    Kor:"선한 지혜는 은혜를 베푸나, 배신자의 길은 스스로 멸망하는 길이다.",
     Chn:"美好的聪明使人蒙恩； 奸诈人的道路崎岖难行。",
     Eng:"Good understanding wins favor, but the way of the unfaithful is hard.",
     Ind:"Akal budi yang baik mendatangkan karunia, tetapi jalan pengkhianat-pengkh mencelakakan mereka."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Kemiskinan dan cemooh menimpa orang yang mengabaikan didikan, tetapi siapa mengindahkan teguran, ia dihormati."
   },
   {Bible:"Proverbs", Chapter:13, Verse:19, Page:1,
-    Kor:"소원이 이루어지면 마음이 즐겁지만, b미련한 사람은 악에서 떠나기를 싫어한다. (b '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"소원이 이루어지면 마음이 즐겁지만, 미련한 사람은 악에서 떠나기를 싫어한다.",
     Chn:"所欲的成就，心觉甘甜； 远离恶事，为愚昧人所憎恶。",
     Eng:"A longing fulfilled is sweet to the soul, but fools detest turning from evil.",
     Ind:"Keinginan yang terlaksana menyenangkan hati, menghindari kejahatan adalah kekejian bagi orang bebal."
   },
   {Bible:"Proverbs", Chapter:13, Verse:20, Page:1,
-    Kor:"지혜로운 사람과 함께 다니면 지혜를 얻지만, b미련한 사람과 사귀면 해를 입는다. (b '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"지혜로운 사람과 함께 다니면 지혜를 얻지만, 미련한 사람과 사귀면 해를 입는다.",
     Chn:"与智慧人同行的，必得智慧； 和愚昧人作伴的，必受亏损。",
     Eng:"He who walks with the wise grows wise, but a companion of fools suffers harm.",
     Ind:"Siapa bergaul dengan orang bijak menjadi bijak, tetapi siapa berteman dengan orang bebal menjadi malang."

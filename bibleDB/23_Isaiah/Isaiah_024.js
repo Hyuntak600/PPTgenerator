@@ -3,19 +3,19 @@
 BibleDB.ref("Isaiah",24,23);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:24, Verse:1, Page:1,
-    Kor:"<주님께서 땅을 벌하실 것이다> 주님께서 땅을 텅 비게 하시며, 황폐하게 하시며, 땅의 표면을 뒤엎으시며, 그 주민을 흩으실 것이니,",
+    Kor:"주께서 땅을 텅 비게 하시며, 황폐하게 하시며, 땅의 표면을 뒤엎으시며, 그 주민을 흩으실 것이니,",
     Chn:"看哪，耶和华使地空虚，变为荒凉； 又翻转大地，将居民分散。",
     Eng:"See, the LORD is going to lay waste the earth and devastate it; he will ruin its face and scatter its inhabitants--",
     Ind:"Sesungguhnya, TUHAN akan menanduskan bumi dan akan menghancurkannya, akan membalikkan permukaannya, dan akan menyerakkan penduduknya."
   },
   {Bible:"Isaiah", Chapter:24, Verse:2, Page:1,
-    Kor:"이 일이 백성과 제사장에게 똑같이 미칠 것이며, 종과 그 주인에게, 하녀와 그 안주인에게, 사는 자와 파는 자에게, 빌려 주는 자와 빌리는 자에게, 이자를 받는 자와 이자를 내는 자에게, 똑같이 미칠 것이다.",
+    Kor:"이 일이 백성과 제사장에게 똑같이 미칠 것이며, 종과 그 주인에게 하녀와 그 안주인에게 사는 자와 파는 자에게 빌려 주는 자와 빌리는 자에게 이자를 받는 자와 이자를 내는 자에게 똑같이 미칠 것이다.",
     Chn:"那时百姓怎样，祭司也怎样； 仆人怎样，主人也怎样； 婢女怎样，主母也怎样； 买物的怎样，卖物的也怎样； 放债的怎样，借债的也怎样； 取利的怎样，出利的也怎样。",
     Eng:"it will be the same for priest as for people, for master as for servant, for mistress as for maid, for seller as for buyer, for borrower as for lender, for debtor as for creditor.",
     Ind:"Maka seperti nasib rakyat demikianlah nasib imam, seperti nasib hamba laki-laki demikianlah nasib tuannya, seperti nasib hamba perempuan demikianlah nasib nyonyanya, seperti nasib pembeli demikianlah nasib penjual, seperti nasib peminjam demikianlah nasib yang meminjamkan, seperti nasib orang yang berhutang demikianlah nasib orang yang berpiutang."
   },
   {Bible:"Isaiah", Chapter:24, Verse:3, Page:1,
-    Kor:"땅이 완전히 텅 비며, 완전히 황무하게 될 것이다. 주님께서 그렇게 된다고 선언하셨기 때문이다.",
+    Kor:"땅이 완전히 텅 비며, 완전히 황무하게 될 것이다. 주께서 그렇게 된다고 선언하셨기 때문이다.",
     Chn:"地必全然空虚，尽都荒凉； 因为这话是耶和华说的。",
     Eng:"The earth will be completely laid waste and totally plundered. The LORD has spoken this word.",
     Ind:"Bumi akan ditanduskan setandus-tandusnya, dan akan dijarah sehabis-habisnya, sebab Tuhanlah yang mengucapkan firman ini."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Kegirangan suara rebana sudah berhenti, keramaian orang-orang yang beria-ria sudah diam, dan kegirangan suara kecapi sudah berhenti."
   },
   {Bible:"Isaiah", Chapter:24, Verse:9, Page:1,
-    Kor:"그들이 다시는 노래하며 포도주를 마시지 못할 것이고, 독한 술은 그 마시는 자에게 쓰디쓸 것이다.",
+    Kor:"그들이 다시는 노래하며 포도주를 마시지 못할 것이며, 독한 술은 그 마시는 자에게 쓰디쓸 것이다.",
     Chn:"人必不得饮酒唱歌； 喝浓酒的，必以为苦。",
     Eng:"No longer do they drink wine with a song; the beer is bitter to its drinkers.",
     Ind:"Tiada lagi orang minum anggur dengan bernyanyi, arak menjadi pahit bagi orang yang meminumnya."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Sebab beginilah akan terjadi di atas bumi, di tengah-tengah bangsa-bangsa, yaitu seperti pada waktu orang menjolok buah zaitun, seperti pada waktu pemetikan susulan, apabila panen buah anggur sudah berakhir."
   },
   {Bible:"Isaiah", Chapter:24, Verse:14, Page:1,
-    Kor:"살아 남은 사람들은 소리를 높이고, 기뻐서 외칠 것이다. 서쪽에서는 사람들이 주님의 크신 위엄을 말하고,",
+    Kor:"살아 남은 사람들은 소리를 높이고, 기뻐서 외칠 것이다. 서쪽에서는 사람들이 주의 크신 위엄을 말하고,",
     Chn:"这些人要高声欢呼； 他们为耶和华的威严，从海那里扬起声来。",
     Eng:"They raise their voices, they shout for joy; from the west they acclaim the LORD'S majesty.",
     Ind:"Dengan suara nyaring mereka bersorak-sorai, demi kemegahan TUHAN, mereka memekik dari sebelah barat:"
   },
   {Bible:"Isaiah", Chapter:24, Verse:15, Page:1,
-    Kor:"동쪽에서는 사람들이 주님께 영광을 돌릴 것이다. 바다의 모든 섬에서는 사람들이 주 이스라엘의 하나님의 이름을 찬양할 것이다.",
+    Kor:"동쪽에서는 사람들이 주께 영광을 돌릴 것이다. 바다의 모든 섬에서는 사람들이 주 이스라엘의 하나님의 이름을 찬양할 것이다.",
     Chn:"因此，你们要在东方荣耀耶和华， 在众海岛荣耀耶和华—以色列　神的名。",
     Eng:"Therefore in the east give glory to the LORD; exalt the name of the LORD, the God of Israel, in the islands of the sea.",
     Ind:"\"Sebab itu permuliakanlah TUHAN di negeri-negeri timur, nama TUHAN, Allah Israel, di tanah-tanah pesisir laut!\""
   },
   {Bible:"Isaiah", Chapter:24, Verse:16, Page:1,
-    Kor:"땅 끝에서부터 노래하는 소리 \"의로우신 분께 영광을 돌리세!\" 하는 찬양을 우리가 들을 것이다. 그러나 갑자기 나는 절망에 사로잡혔다. 이런 변이 있나! 이런 변이 또 어디에 있단 말인가! 나에게 재앙이 닥쳤구나! 약탈자들이 약탈한다. 약탈자들이 마구 약탈한다.",
+    Kor:"땅 끝에서부터 노래하는 소리 \"의로우신 분께 영광을 돌리세\" 하는 찬양을 우리가 들을 것이다. 그러나 갑자기 나는 절망에 사로잡혔다. 이런 변이 있나! 이런 변이 또 어디에 있단 말인가! 나에게 재앙이 닥쳤구나! 약탈자들이 약탈한다. 약탈자들이 마구 약탈한다.",
     Chn:"我们听见从地极有人歌唱，说： 荣耀归于义人。 我却说：我消灭了！ 我消灭了，我有祸了！ 诡诈的行诡诈； 诡诈的大行诡诈。",
     Eng:"From the ends of the earth we hear singing: \"Glory to the Righteous One.\" But I said, \"I waste away, I waste away! Woe to me! The treacherous betray! With treachery the treacherous betray!\"",
     Ind:"Dari ujung bumi kami dengar nyanyian pujian: \"Hormat bagi Yang Mahaadil!\" Tetapi aku berkata: \"Kurus merana aku, kurus merana aku. Celakalah aku! Sebab para penggarong menggarong, ya, terus-menerus mereka melakukan penggarongannya!\""
@@ -117,25 +117,25 @@ BibleDB.add([
     Ind:"Bumi remuk redam, bumi hancur luluh bumi goncang-gancing."
   },
   {Bible:"Isaiah", Chapter:24, Verse:20, Page:1,
-    Kor:"땅이 술 취한 자처럼 몹시 비틀거린다. 폭풍 속의 오두막처럼 흔들린다. 세상은 자기가 지은 죄의 무게에 짓눌릴 것이니, 쓰러져서 다시는 일어나지 못할 것이다.",
+    Kor:"땅이 술 취한 자처럼 몹시 비틀거린다. 폭풍 속의 오두막처럼 흔들린다. 세상은 자기가 지은 죄의 무게에 짓눌릴 것이니, 쓰러져서, 다시는 일어나지 못할 것이다.",
     Chn:"地要东倒西歪，好像醉酒的人； 又摇来摇去，好像吊床。 罪过在其上沉重， 必然塌陷，不能复起。",
     Eng:"The earth reels like a drunkard, it sways like a hut in the wind; so heavy upon it is the guilt of its rebellion that it falls--never to rise again.",
     Ind:"Bumi terhuyung-huyung sama sekali seperti orang mabuk dan goyang seperti gubuk yang ditiup angin; dosa pemberontakannya menimpa dia dengan sangat, ia rebah dan tidak akan bangkit-bangkit lagi."
   },
   {Bible:"Isaiah", Chapter:24, Verse:21, Page:1,
-    Kor:"그 날이 오면, 주님께서, 위로는 하늘의 군대를 벌하시고, 아래로는 땅에 있는 세상의 군왕들을 벌하실 것이다.",
+    Kor:"그 날이 오면, 주께서, 위로는 하늘의 군대를 벌하시고, 아래로는 땅에 있는 세상의 군왕들을 벌하실 것이다.",
     Chn:"到那日，耶和华在高处必惩罚高处的众军， 在地上必惩罚地上的列王。",
     Eng:"In that day the LORD will punish the powers in the heavens above and the kings on the earth below.",
     Ind:"Maka pada hari itu TUHAN akan menghukum tentara langit di langit dan raja-raja bumi di atas bumi."
   },
   {Bible:"Isaiah", Chapter:24, Verse:22, Page:1,
-    Kor:"주님께서 군왕들을 죄수처럼 토굴 속에 모으시고, 오랫동안 감옥에 가두어 두셨다가 처형하실 것이다.",
+    Kor:"주께서 군왕들을 죄수처럼 토굴 속에 모으시고, 오랫동안 감옥에 가두어 두셨다가 처형하실 것이다.",
     Chn:"他们必被聚集，像囚犯被聚在牢狱中， 并要囚在监牢里， 多日之后便被讨罪。",
     Eng:"They will be herded together like prisoners bound in a dungeon; they will be shut up in prison and be punished after many days.",
     Ind:"Mereka akan dikumpulkan bersama-sama, seperti tahanan dimasukkan dalam liang; mereka akan dimasukkan dalam penjara dan akan dihukum sesudah waktu yang lama."
   },
   {Bible:"Isaiah", Chapter:24, Verse:23, Page:1,
-    Kor:"만군의 주님께서 왕이 되실 터이니, 달은 볼 낯이 없어 하고, 해는 부끄러워할 것이다. 주님께서 시온 산에 앉으셔서 예루살렘을 다스릴 것이며, 장로들은 그 영광을 볼 것이다.",
+    Kor:"만군의 주께서 왕이 되실 터이니, 달은 볼 낯이 없어 하고, 해는 부끄러워할 것이다. 주께서 시온 산에 앉으셔서 예루살렘을 다스릴 것이며, 장로들은 그 영광을 볼 것이다.",
     Chn:"那时，月亮要蒙羞，日头要惭愧； 因为万军之耶和华必在锡安山， 在耶路撒冷作王； 在敬畏他的长老面前，必有荣耀。",
     Eng:"The moon will be abashed, the sun ashamed; for the LORD Almighty will reign on Mount Zion and in Jerusalem, and before its elders, gloriously.",
     Ind:"Bulan purnama akan tersipu-sipu, dan matahari terik akan mendapat malu, sebab TUHAN semesta alam akan memerintah di gunung Sion dan di Yerusalem, dan Ia akan menunjukkan kemuliaan-Nya di depan tua-tua umat-Nya."

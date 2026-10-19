@@ -3,7 +3,7 @@
 BibleDB.ref("Revelation",10,11);
 BibleDB.add([
   {Bible:"Revelation", Chapter:10, Verse:1, Page:1,
-    Kor:"<천사와 작은 두루마리> 또 나는 힘센 다른 천사 하나가 구름에 싸여서 하늘에서 내려오는 것을 보았습니다. 그의 머리 위에는 무지개가 둘려 있고, 그 얼굴은 해와 같고, 발은 불기둥과 같았습니다.",
+    Kor:"또 나는 힘센 다른 천사 하나가 구름에 싸여서 하늘에서 내려오는 것을 보았습니다. 그의 머리 위에는 무지개가 둘려 있고, 그 얼굴은 해와 같고, 발은 불기둥과 같았습니다.",
     Chn:"我又看见另有一位大力的天使从天降下，披着云彩，头上有虹，脸面像日头，两脚像火柱。",
     Eng:"Then I saw another mighty angel coming down from heaven. He was robed in a cloud, with a rainbow above his head; his face was like the sun, and his legs were like fiery pillars.",
     Ind:"Dan aku melihat seorang malaikat lain yang kuat turun dari sorga, berselubungkan awan, dan pelangi ada di atas kepalanya dan mukanya sama seperti matahari, dan kakinya bagaikan tiang api."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Dalam tangannya ia memegang sebuah gulungan kitab kecil yang terbuka. Ia menginjakkan kaki kanannya di atas laut dan kaki kirinya di atas bumi,"
   },
   {Bible:"Revelation", Chapter:10, Verse:3, Page:1,
-    Kor:"마치 사자가 울부짖듯이 큰 소리로 부르짖었습니다. 그가 부르짖으니, 일곱 천둥이 각각 제 소리를 내면서 말하였습니다.",
+    Kor:"마치 사자가 울부짖듯이 큰소리로 부르짖었습니다. 그가 부르짖으니, 일곱 천둥이 각각 제 소리를 내면서 말하였습니다.",
     Chn:"大声呼喊，好像狮子吼叫。呼喊完了，就有七雷发声。",
     Eng:"and he gave a loud shout like the roar of a lion. When he shouted, the voices of the seven thunders spoke.",
     Ind:"dan ia berseru dengan suara nyaring sama seperti singa yang mengaum. Dan sesudah ia berseru, ketujuh guruh itu memperdengarkan suaranya."
   },
   {Bible:"Revelation", Chapter:10, Verse:4, Page:1,
-    Kor:"그 일곱 천둥이 말을 다 하였을 때에, 나는 그것을 기록하려고 하였습니다. 그 때에 나는 하늘로부터 나오는 음성을 들었는데, \"그 일곱 천둥이 말한 것을 인봉하여라. 그것을 기록하지 말아라\" 하였습니다.",
+    Kor:"그 일곱 천둥이 말을 다 하였을 때에, 나는 그것을 기록하려고 하였습니다. 그 때에 나는 하늘로부터 음성을 들었는데 \"그 일곱 천둥이 말한 것을 인봉하여라. 그것을 기록하지 말아라\" 하였습니다.",
     Chn:"七雷发声之后，我正要写出来，就听见从天上有声音说：「七雷所说的，你要封上，不可写出来。」",
     Eng:"And when the seven thunders spoke, I was about to write; but I heard a voice from heaven say, \"Seal up what the seven thunders have said and do not write it down.\"",
     Ind:"Dan sesudah ketujuh guruh itu selesai berbicara, aku mau menuliskannya, tetapi aku mendengar suatu suara dari sorga berkata: \"Meteraikanlah apa yang dikatakan oleh ketujuh guruh itu dan janganlah engkau menuliskannya!\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Dan suara yang telah kudengar dari langit itu, berkata pula kepadaku, katanya: \"Pergilah, ambillah gulungan kitab yang terbuka di tangan malaikat, yang berdiri di atas laut dan di atas bumi itu.\""
   },
   {Bible:"Revelation", Chapter:10, Verse:9, Page:1,
-    Kor:"그래서 내가 그 천사에게로 가서, 그 작은 두루마리를 달라고 하니, 그는 나에게 말하기를 \"이것을 받아먹어라. 이것은 너의 배에는 쓰겠지만, 너의 입에는 꿀같이 달 것이다\" 하였습니다.",
+    Kor:"그래서 내가 그 천사에게로 가서, 그 작은 두루마리를 달라고 하니, 그는 나에게 \"이것을 받아 먹어라. 이것은 너의 배에는 쓰겠지만, 너의 입에는 꿀같이 달 것이다\" 하였습니다.",
     Chn:"我就走到天使那里，对他说：「请你把小书卷给我。」他对我说：「你拿着吃尽了，便叫你肚子发苦，然而在你口中要甜如蜜。」",
     Eng:"So I went to the angel and asked him to give me the little scroll. He said to me, \"Take it and eat it. It will turn your stomach sour, but in your mouth it will be as sweet as honey.\"",
     Ind:"Lalu aku pergi kepada malaikat itu dan meminta kepadanya, supaya ia memberikan gulungan kitab itu kepadaku. Katanya kepadaku: \"Ambillah dan makanlah dia; ia akan membuat perutmu terasa pahit, tetapi di dalam mulutmu ia akan terasa manis seperti madu.\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lalu aku mengambil kitab itu dari tangan malaikat itu, dan memakannya: di dalam mulutku ia terasa manis seperti madu, tetapi sesudah aku memakannya, perutku menjadi pahit rasanya."
   },
   {Bible:"Revelation", Chapter:10, Verse:11, Page:1,
-    Kor:"그 때에 \"너는 여러 백성과 민족과 언어와 왕들에 관해서 다시 예언을 하여야 한다\" 하는 음성이 내게 들려 왔습니다.",
+    Kor:"○그 때에 \"너는 여러 백성과 민족과 언어와 왕들에 관해서 다시 예언을 하여야 한다\" 하는 음성이 내게 들려 왔습니다.",
     Chn:"天使对我说：「你必指着多民、多国、多方、多王再说预言。」",
     Eng:"Then I was told, \"You must prophesy again about many peoples, nations, languages and kings.\" REV",
     Ind:"Maka ia berkata kepadaku: \"Engkau harus bernubuat lagi kepada banyak bangsa dan kaum dan bahasa dan raja.\""

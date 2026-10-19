@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",8,27);
 BibleDB.add([
   {Bible:"Daniel", Chapter:8, Verse:1, Page:1,
-    Kor:"<숫양과 숫염소의 환상> a벨사살이 왕위에 오른 지 삼 년이 되는 해에, 나 다니엘은 처음 본 것에 이어 두 번째로 환상을 보았다.(a 여기에서부터 다시 히브리어로 기록됨)",
+    Kor:"벨사살이 왕위에 오른 지 삼 년이 되는 해에, 나 다니엘은 처음 본 것에 이어 두 번째로 환상을 보았다.",
     Chn:"伯沙撒王在位第三年，有异象现与我—但以理，是在先前所见的异象之后。",
     Eng:"In the third year of King Belshazzar's reign, I, Daniel, had a vision, after the one that had already appeared to me.",
     Ind:"Pada tahun yang ketiga pemerintahan raja Belsyazar, nampaklah kepadaku, Daniel, suatu penglihatan sesudah yang tampak kepadaku dahulu itu."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Aku melihatnya mendekati domba jantan itu; ia menggeram, lalu ditanduknya domba jantan itu, dipatahkannya kedua tanduknya, dan domba jantan itu tidak berdaya untuk tahan menghadapi dia; dihempaskannya dia ke bumi, diinjak-injaknya, dan tidak ada yang melepaskan domba jantan itu dari kuasanya."
   },
   {Bible:"Daniel", Chapter:8, Verse:8, Page:1,
-    Kor:"○숫염소가 매우 강해지고 힘이 세어졌을 때에, 그 큰 뿔이 부러지고, 그 자리에 뚜렷하게 보이는 뿔 넷이 b하늘 사방으로 뻗으면서 돋아났다.(b 또는 '하늘의 네 바람')",
+    Kor:"○숫염소가 매우 강해지고 힘이 세어졌을 때에, 그 큰 뿔이 부러지고, 그 자리에 뚜렷하게 보이는 뿔 넷이 하늘 사방으로 뻗으면서 돋아났다.",
     Chn:"这山羊极其自高自大，正强盛的时候，那大角折断了，又在角根上向天的四方长出四个非常的角来。",
     Eng:"The goat became very great, but at the height of his power his large horn was broken off, and in its place four prominent horns grew up toward the four winds of heaven.",
     Ind:"Kambing jantan itu sangat membesarkan dirinya, tetapi ketika ia sampai pada puncak kuasanya, patahlah tanduk yang besar itu, lalu pada tempatnya tumbuh empat tanduk yang aneh, sejajar dengan keempat mata angin yang dari langit."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Kemudian kudengar seorang kudus berbicara, dan seorang kudus lain berkata kepada yang berbicara itu: \"Sampai berapa lama berlaku penglihatan ini, yakni korban sehari-hari dan kefasikan yang membinasakan, tempat kudus yang diserahkan dan bala tentara yang diinjak-injak?\""
   },
   {Bible:"Daniel", Chapter:8, Verse:14, Page:1,
-    Kor:"다른 천사가 c나에게 말하였다. \"밤낮 이천삼백 일이 지나야 성소가 깨끗하게 될 것이다.\"(c 칠십인역과 테오도션역과 시리아어역과 불가타에는 '그에게')",
+    Kor:"다른 천사가 나에게 말하였다. \"밤낮 이천삼백 일이 지나야 성소가 깨끗하게 될 것이다.\"",
     Chn:"他对我说：「到二千三百日，圣所就必洁净。」",
     Eng:"He said to me, \"It will take 2,300 evenings and mornings; then the sanctuary will be reconsecrated.\"",
     Ind:"Maka ia menjawab: \"Sampai lewat dua ribu tiga ratus petang dan pagi, lalu tempat kudus itu akan dipulihkan dalam keadaan yang wajar.\""
   },
   {Bible:"Daniel", Chapter:8, Verse:15, Page:1,
-    Kor:"<가브리엘 천사가 환상을 풀이하다> ○나 다니엘이 그 환상을 보고 그 뜻을 이해하려고 하는데, 내 앞에 사람 모습을 한 것 같은 이가 서 있었다.",
+    Kor:"○나 다니엘이 그 환상을 보고 그 뜻을 이해하려고 하는데, 내 앞에 사람 모습을 한 것 같은 이가 서 있었다.",
     Chn:"我—但以理见了这异象，愿意明白其中的意思。忽有一位形状像人的站在我面前。",
     Eng:"While I, Daniel, was watching the vision and trying to understand it, there before me stood one who looked like a man.",
     Ind:"Sedang aku, Daniel, melihat penglihatan itu dan berusaha memahaminya, maka tampaklah seorang berdiri di depanku, yang rupanya seperti seorang laki-laki;"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Domba jantan yang kaulihat itu, dengan kedua tanduknya, ialah raja-raja orang Media dan Persia."
   },
   {Bible:"Daniel", Chapter:8, Verse:21, Page:1,
-    Kor:"그 숫염소는 그리스 왕이고, 눈 사이에 있던 큰 뿔은 그 첫째 왕이다.",
+    Kor:"그 숫염소는 헬라 왕이고, 눈 사이에 있던 큰 뿔은 그 첫째 왕이다.",
     Chn:"那公山羊就是希腊王；两眼当中的大角就是头一王。",
     Eng:"The shaggy goat is the king of Greece, and the large horn between his eyes is the first king.",
     Ind:"Dan kambing jantan yang berbulu kesat itu ialah raja negeri Yunani, dan tanduk besar yang di antara kedua matanya itu ialah raja yang pertama."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Dan oleh karena akalnya, penipuan yang dilakukannya akan berhasil; ia akan membesarkan dirinya dalam hatinya, dan dengan tak disangka-sangka banyak orang akan dibinasakannya; juga ia akan bangkit melawan Raja segala raja. Tetapi tanpa perbuatan tangan manusia, ia akan dihancurkan."
   },
   {Bible:"Daniel", Chapter:8, Verse:26, Page:1,
-    Kor:"내가 너에게 설명한 아침과 저녁 제사 환상은, 반드시 이루어진다. 그러나 아직 멀었으니, 너는 환상의 비밀을 잘 간직해 두어라.",
+    Kor:"내가 너에게 설명한 아침과 저녁 제사 환상은, 반드시 이루어진다. 그러나 아직 멀었으니, 너는 환상의 비밀을 잘 간직해 두어라.\"",
     Chn:"所说二千三百日的异象是真的，但你要将这异象封住，因为关乎后来许多的日子。」",
     Eng:"\"The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.\"",
     Ind:"Adapun penglihatan tentang petang dan pagi itu, apa yang dikatakan tentang itu adalah benar. Tetapi engkau, sembunyikanlah penglihatan itu, sebab hal itu mengenai masa depan yang masih jauh.\""

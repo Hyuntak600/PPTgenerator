@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",17,29);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:17, Verse:1, Page:1,
-    Kor:"<후새가 아히도벨의 제안을 따르지 않다> 아히도벨은 압살롬에게 또 이와 같이 말하였다. \"부디 내가 만 이천 명을 뽑아서 출동하여, 오늘 밤으로 당장 다윗을 뒤쫓도록 허락하여 주십시오.",
+    Kor:"아히도벨은 압살롬에게 또 이와 같이 말하였다. \"부디 내가 만 이천 명을 뽑아서 출동하여, 오늘 밤으로 당장 다윗을 뒤쫓도록 허락하여 주십시오.",
     Chn:"亚希多弗又对押沙龙说：「求你准我挑选一万二千人，今夜我就起身追赶大卫，",
     Eng:"Ahithophel said to Absalom, \"I would choose twelve thousand men and set out tonight in pursuit of David.",
     Ind:"Berkatalah Ahitofel kepada Absalom: \"Izinkanlah aku memilih dua belas ribu orang, maka aku akan bersiap dan mengejar Daud pada malam ini juga."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Aku akan mendatangi dia, selagi ia lesu dan lemah semangatnya, dan mengejutkan dia; seluruh rakyat yang ada bersama-sama dengan dia akan melarikan diri, maka aku dapat menewaskan raja sendiri."
   },
   {Bible:"2Samuel", Chapter:17, Verse:3, Page:1,
-    Kor:"그렇게만 되면, 내가 온 백성을 다시 임금님께로 돌아오게 할 수 있습니다. a아내가 남편에게 돌아오듯이, 백성이 그렇게 임금님께로 돌아올 것입니다. 임금님께서 노리시는 목숨도 오직 한 사람의 목숨입니다. 나머지 백성은 안전할 것입니다.\"(a 칠십인역을 따름. 히, '백성 전체가 임금님께 돌아오고 안오고 하는 문제는 임금님께서 노리시는 그 사람에게 달려 있습니다' 10 17:또는 '임금님께서 찾으시는 그 사람만 죽이면 백성은 모두 임금님께로 돌아옵니다')",
+    Kor:"그렇게만 되면, 내가 온 백성을 다시 임금님께로 돌아오게 할 수 있습니다. 아내가 남편에게 돌아오듯이, 백성이 그렇게 임금님께로 돌아올 것입니다. 임금님께서 노리시는 목숨도 오직 한 사람의 목숨입니다. 나머지 백성은 안전할 것입니다.\"",
     Chn:"使众民都归顺你。你所寻找的人既然死了，众民就如已经归顺你；这样，也都平安无事了。」",
     Eng:"and bring all the people back to you. The death of the man you seek will mean the return of all; all the people will be unharmed.\"",
     Ind:"Demikianlah aku akan membawa pulang seluruh rakyat itu kepadamu seperti seorang mempelai perempuan kembali kepada suaminya. Jadi, engkau mencari nyawa satu orang saja, sedang seluruh rakyat tetap selamat.\""
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah Husai kepada Absalom: \"Nasihat yang diberikan Ahitofel kali ini tidak baik.\""
   },
   {Bible:"2Samuel", Chapter:17, Verse:8, Page:1,
-    Kor:"그 까닭을 설명하였다. \"임금님의 부친과 그 신하들은, 임금님께서 잘 아시는 바와 같이, 용사들인데다가, 지금은 새끼를 빼앗긴 들녘의 곰처럼 무섭게 화가 나 있습니다. 더구나 임금님의 부친은 노련한 군인이어서, 밤에는 백성들과 함께 잠도 자지 않습니다.",
+    Kor:"그 까닭을 설명하였다. \"임금님의 부친과 그 신하들은, 임금님께서 잘 아시는 바와 같이, 용사들인데다가, 지금은 새끼를 빼앗긴 들녘의 곰처럼, 무섭게 화가 나 있습니다. 더구나 임금님의 부친은 노련한 군인이어서, 밤에는 백성들과 함께 잠도 자지 않습니다.",
     Chn:"户筛又说：「你知道，你父亲和跟随他的人都是勇士，现在他们心里恼怒，如同田野丢崽子的母熊一般，而且你父亲是个战士，必不和民一同住宿。",
     Eng:"You know your father and his men; they are fighters, and as fierce as a wild bear robbed of her cubs. Besides, your father is an experienced fighter; he will not spend the night with the troops.",
     Ind:"Kata Husai pula: \"Engkau tahu, bahwa ayahmu dan orang-orangnya adalah pahlawan, dan bahwa mereka sakit hati seperti beruang yang kehilangan anak di padang. Lagipula ayahmu adalah seorang prajurit sejati; ia tidak akan membiarkan rakyat tidur."
   },
   {Bible:"2Samuel", Chapter:17, Verse:9, Page:1,
-    Kor:"틀림없이 그가 지금쯤은 벌써 어떤 굴 속이나 다른 어떤 곳에 숨어 있을 것입니다. 우리의 군인 가운데서 몇 사람이라도, 처음부터 그에게 죽기라도 하면, 압살롬을 따르는 군인들이 지고 말았다는 소문이 삽시간에 퍼질 것입니다.",
+    Kor:"틀림없이 그가 지금쯤은 벌써, 어떤 굴 속이나 다른 어떤 곳에 숨어 있을 것입니다. 우리의 군인 가운데서 몇 사람이라도, 처음부터 그에게 죽기라도 하면, 압살롬을 따르는 군인들이 지고 말았다는 소문이 삽시간에 퍼질 것입니다.",
     Chn:"他现今或藏在坑中或在别处，若有人首先被杀，凡听见的必说：『跟随押沙龙的民被杀了。』",
     Eng:"Even now, he is hidden in a cave or some other place. If he should attack your troops first, whoever hears about it will say, 'There has been a slaughter among the troops who follow Absalom.'",
     Ind:"Tentulah ia sekarang bersembunyi dalam salah satu lobang atau di salah satu tempat. Apabila pada penyerangan pertama beberapa orang tewas dan ada orang mendengar hal itu, maka orang akan berkata: Rakyat yang telah mengikut Absalom sudah menderita kekalahan."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Sebab itu kunasihatkan: Suruhlah seluruh Israel dari Dan sampai Bersyeba berkumpul kepadamu, seperti pasir di tepi laut banyaknya dan engkau sendiri juga harus turut bertempur."
   },
   {Bible:"2Samuel", Chapter:17, Verse:12, Page:1,
-    Kor:"그래서 우리는, 다윗이 있는 곳이면 어느 곳이든지 들이닥쳐서, 마치 온 땅에 내리는 이슬처럼 그를 덮쳐 버리는 것입니다. 그러면 그는 물론이려니와, 그와 함께 있는 모든 사람 가운데서, 한 사람도 살아 남지 못할 것입니다.",
+    Kor:"그래서 우리는, 다윗이 있는 곳이면 어느 곳이든지 들이닥쳐서, 마치 온 땅에 내리는 이슬처럼, 그를 덮쳐 버리는 것입니다. 그러면 그는 물론이려니와, 그와 함께 있는 모든 사람 가운데서, 한 사람도 살아 남지 못할 것입니다.",
     Chn:"这样，我们在何处遇见他，就下到他那里，如同露水下在地上一般，连他带跟随他的人，一个也不留下。",
     Eng:"Then we will attack him wherever he may be found, and we will fall on him as dew settles on the ground. Neither he nor any of his men will be left alive.",
     Ind:"Apabila kita mendatangi dia di salah satu tempat, di mana ia terdapat, maka kita akan menyergapnya, seperti embun jatuh ke bumi, sehingga tidak ada yang lolos, baik dia maupun orang-orang yang menyertainya."
@@ -81,25 +81,25 @@ BibleDB.add([
     Ind:"Dan jika ia mengundurkan diri ke suatu kota, maka seluruh Israel akan mengikat kota itu dengan tali, dan kita akan menyeretnya sampai ke sungai, hingga batu kecilpun tidak terdapat lagi di sana.\""
   },
   {Bible:"2Samuel", Chapter:17, Verse:14, Page:1,
-    Kor:"○그러자 압살롬과 온 이스라엘 사람이, 아렉 사람 후새의 모략이 아히도벨의 모략보다 더 좋다고 찬성하였다. 주님께서 이미 압살롬이 재앙을 당하게 하시려고, 아히도벨의 좋은 모략을 좌절시키셨기 때문이다.",
+    Kor:"○그러자 압살롬과 온 이스라엘 사람이, 아렉 사람 후새의 모략이 아히도벨의 모략보다 더 좋다고 찬성하였다. 주께서 이미 압살롬이 재앙을 당하게 하시려고, 아히도벨의 좋은 모략을 좌절시키셨기 때문이다.",
     Chn:"押沙龙和以色列众人说：「亚基人户筛的计谋比亚希多弗的计谋更好！」这是因耶和华定意破坏亚希多弗的良谋，为要降祸与押沙龙。",
     Eng:"Absalom and all the men of Israel said, \"The advice of Hushai the Arkite is better than that of Ahithophel.\" For the LORD had determined to frustrate the good advice of Ahithophel in order to bring disaster on Absalom.",
     Ind:"Lalu berkatalah Absalom dan setiap orang Israel: \"Nasihat Husai, orang Arki itu, lebih baik dari pada nasihat Ahitofel.\" Sebab TUHAN telah memutuskan, bahwa nasihat Ahitofel yang baik itu digagalkan, dengan maksud supaya TUHAN mendatangkan celaka kepada Absalom."
   },
   {Bible:"2Samuel", Chapter:17, Verse:15, Page:1,
-    Kor:"<후새의 작전과 아히도벨의 자살> ○후새는 곧 사독 제사장과 아비아달 제사장에게, 아히도벨이 압살롬과 이스라엘의 장로들에게 어떤 모략을 베풀었는지, 그리고 자기가 또 어떤 모략을 베풀었는지를 알리고서,",
+    Kor:"○후새는 곧 제사장 사독과 아비아달에게, 아히도벨이 압살롬과 이스라엘의 장로들에게 어떤 모략을 베풀었는지, 그리고 자기가 또 어떤 모략을 베풀었는지를 알리고서,",
     Chn:"户筛对祭司撒督和亚比亚他说： 「亚希多弗为押沙龙和以色列的长老所定的计谋是如此如此，我所定的计谋是如此如此。",
     Eng:"Hushai told Zadok and Abiathar, the priests, \"Ahithophel has advised Absalom and the elders of Israel to do such and such, but I have advised them to do so and so.",
     Ind:"Sesudah itu berkatalah Husai kepada Zadok dan kepada Abyatar, imam-imam itu: \"Ini dan itu dinasihatkan Ahitofel kepada Absalom dan kepada para tua-tua Israel, tetapi ini dan itu kunasihatkan."
   },
   {Bible:"2Samuel", Chapter:17, Verse:16, Page:1,
-    Kor:"다음과 같이 말하였다. \"이제 빨리 다윗 왕께 사람을 보내서, 오늘 밤을 광야의 나루터에서 묵지 마시고, 빨리 강을 건너가시라고 전하십시오. 그렇지 않으면, 임금님만이 아니라, 임금님과 함께 있는 백성까지 모두 전멸을 당할 것입니다.\"",
+    Kor:"다음과 같이 말하였다. \"이제 빨리 다윗에게 사람을 보내서, 오늘 밤을 광야의 나루터에서 묵지 마시고, 빨리 강을 건너가시라고 전하시오. 그렇지 않으면, 임금님만이 아니라, 임금님과 함께 있는 백성까지 모두 전멸을 당할 것이오.\"",
     Chn:"现在你们要急速打发人去，告诉大卫说：『今夜不可住在旷野的渡口，务要过河，免得王和跟随他的人都被吞灭。』」",
     Eng:"Now send a message immediately and tell David, 'Do not spend the night at the fords in the desert; cross over without fail, or the king and all the people with him will be swallowed up.'\"",
     Ind:"Oleh sebab itu, suruhlah dengan segera memberitahukan kepada Daud, demikian: Pada malam ini janganlah bermalam di tempat-tempat penyeberangan ke padang gurun, tetapi menyeberanglah dengan segera, supaya jangan raja dan seluruh rakyat yang bersama-sama dengan dia itu ditelan habis.\""
   },
   {Bible:"2Samuel", Chapter:17, Verse:17, Page:1,
-    Kor:"○한편, 아비아달의 아들 요나단과 사독의 아들 아히마아스는, 예루살렘 바깥의 b엔 로겔 샘터에서 대기하고 있었다. 그들은 사람들의 눈에 뜨이지 않으려고 성 안으로 드나드는 것을 삼갔다. 거기에 있다가, 여종이 그들에게 가서 소식을 전하여 주면, 그들이 그 소식을 받아서 직접 다윗 왕에게 전하곤 하였다.(b '로겔 샘')",
+    Kor:"○한편, 아비아달의 아들 요나단과 사독의 아들 아히마아스는, 예루살렘 바깥의 에느로겔 샘터에서 대기하고 있었다. 그들은 사람들의 눈에 뜨이지 않으려고 성 안으로 드나드는 것을 삼갔다. 거기에 있다가, 여종이 그들에게 가서 소식을 전하여 주면, 그들이 그 소식을 받아서 직접 다윗 왕에게 전하곤 하였다.",
     Chn:"那时，约拿单和亚希玛斯在隐·罗结那里等候，不敢进城，恐怕被人看见。有一个使女出来，将这话告诉他们，他们就去报信给大卫王。",
     Eng:"Jonathan and Ahimaaz were staying at En Rogel. A servant girl was to go and inform them, and they were to go and tell King David, for they could not risk being seen entering the city.",
     Ind:"Yonatan dan Ahimaas menunggu di En-Rogel, dan setiap kali ada seorang budak perempuan yang datang membawa kabar kepada mereka; dan merekapun langsung memberitahu raja Daud, sebab mereka tidak boleh dilihat memasuki kota."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Lalu bersiaplah Daud dan seluruh rakyat yang bersama-sama dengan dia, dan mereka menyeberangi sungai Yordan. Pada waktu fajar tidak ada seorangpun yang ketinggalan, yang tidak menyeberangi sungai Yordan."
   },
   {Bible:"2Samuel", Chapter:17, Verse:23, Page:1,
-    Kor:"○아히도벨은 자기의 모략대로 이루어지지 않는 것을 보자, 나귀에 안장을 지워서 타고 거기에서 떠나, 자기의 고향 집으로 돌아갔다. 거기에서 그는 집안 일을 정리한 뒤에, 목을 매어서 죽었다. 그는 이렇게 죽어서, 자기 아버지의 무덤에 묻혔다.",
+    Kor:"○아히도벨은 자기의 모략대로 이루어지지 않는 것을 보자, 나귀에 안장을 지워서 타고, 거기에서 떠나, 자기의 고향 집으로 돌아갔다. 거기에서 그는 집안 일을 정리한 뒤에, 목을 매어서 죽었다. 그는 이렇게 죽어서, 자기 아버지의 무덤에 묻혔다.",
     Chn:"亚希多弗见不依从他的计谋，就备上驴，归回本城；到了家，留下遗言，便吊死了，葬在他父亲的坟墓里。",
     Eng:"When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He put his house in order and then hanged himself. So he died and was buried in his father's tomb.",
     Ind:"Ketika dilihat Ahitofel, bahwa nasihatnya tidak dipedulikan, dipasangnyalah pelana keledainya, lalu berangkatlah ia ke rumahnya, ke kotanya; ia mengatur urusan rumah tangganya, kemudian menggantung diri. Demikianlah ia mati, lalu ia dikuburkan dalam kuburan ayahnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Maka sampailah Daud ke Mahanaim, ketika Absalom menyeberangi sungai Yordan dengan seluruh orang Israel yang menyertainya."
   },
   {Bible:"2Samuel", Chapter:17, Verse:25, Page:1,
-    Kor:"압살롬은 요압 대신에 아마사를 군지휘관으로 세웠는데, 아마사는 이드라라는 c이스마엘 사람의 아들이다. 이드라는 나하스의 딸 아비갈과 결혼하여 아마사를 낳았는데, 아비갈은 요압의 어머니 스루야의 여동생이다.(c 히, '이스라엘' 또는 '이스르엘'(대상 2:17 참조))",
+    Kor:"압살롬은 요압 대신에 아마사를 군지휘관으로 세웠는데, 아마사는 이드라라는 이스마엘 사람의 아들이다. 이드라는 나하스의 딸 아비갈과 결혼하여 아마사를 낳았는데, 아비갈은 요압의 어머니 스루야의 여동생이다.",
     Chn:"押沙龙立亚玛撒作元帅，代替约押。亚玛撒是以实玛利人以特拉的儿子。以特拉曾与拿辖的女儿亚比该亲近；这亚比该与约押的母亲洗鲁雅是姊妹。",
     Eng:"Absalom had appointed Amasa over the army in place of Joab. Amasa was the son of a man named Jether, an Israelite who had married Abigail, the daughter of Nahash and sister of Zeruiah the mother of Joab.",
     Ind:"Absalom telah mengangkat Amasa menggantikan Yoab untuk mengepalai tentara. Amasa adalah anak seorang yang bernama Yitra, seorang Ismael yang telah memperisteri Abigal binti Nahas, saudara perempuan Zeruya ibu Yoab."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"tempat tidur, pasu, periuk belanga, juga gandum, jelai, tepung, bertih gandum, kacang babi, kacang merah besar, kacang merah kecil,"
   },
   {Bible:"2Samuel", Chapter:17, Verse:29, Page:1,
-    Kor:"그들은, 그 많은 사람이 광야에서 굶주리고 지치고 목말랐을 것이라고 생각하고서, 꿀과 버터와 양고기와 치즈도 가져다가 다윗과 그를 따르는 사람들에게 주었다.",
+    Kor:"그들은, 그 많은 사람이 광야에서 굶주리고 지치고 목말랐을 것이라고 생각하고서, 꿀과 버터와 양고기와 치즈도 가져다가, 다윗과 그를 따르는 사람들에게 주었다.",
     Chn:"蜂蜜、奶油、绵羊、奶饼，供给大卫和跟随他的人吃；他们说：「民在旷野，必饥渴困乏了。」",
     Eng:"honey and curds, sheep, and cheese from cows' milk for David and his people to eat. For they said, \"The people have become hungry and tired and thirsty in the desert.\"",
     Ind:"madu, dadih, kambing domba dan keju lembu bagi Daud dan bagi rakyat yang bersama-sama dengan dia, untuk dimakan, sebab kata mereka: \"Rakyat ini tentu telah menjadi lapar, lelah dan haus di padang gurun.\""

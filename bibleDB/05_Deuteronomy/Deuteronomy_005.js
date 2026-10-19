@@ -3,37 +3,37 @@
 BibleDB.ref("Deuteronomy",5,33);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:5, Verse:1, Page:1,
-    Kor:"<십계명(출 20:1-17)> 모세가 온 이스라엘을 불러모으고 그들에게 말하였다. \"이스라엘 자손 여러분, 내가 오늘 당신들에게 말하는 규례와 법도를 귀담아 듣고, 그것을 익히고 지키십시오.",
+    Kor:"모세가 온 이스라엘을 불러모으고 그들에게 말하였다. \"이스라엘아, 내가 오늘 너희에게 말하는 규례와 법도를 귀담아 듣고, 그것을 익히고 지켜라.",
     Chn:"摩西将以色列众人召了来，对他们说：「以色列人哪，我今日晓谕你们的律例典章，你们要听，可以学习，谨守遵行。",
     Eng:"Moses summoned all Israel and said: Hear, O Israel, the decrees and laws I declare in your hearing today. Learn them and be sure to follow them.",
     Ind:"Musa memanggil seluruh orang Israel berkumpul dan berkata kepada mereka: \"Dengarlah, hai orang Israel, ketetapan dan peraturan, yang pada hari ini kuperdengarkan kepadamu, supaya kamu mempelajarinya dan melakukannya dengan setia."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:2, Page:1,
-    Kor:"주 우리의 하나님은 호렙 산에서 우리와 언약을 세우셨습니다.",
+    Kor:"주 우리의 하나님은 호렙 산에서 우리와 언약을 세우셨다.",
     Chn:"耶和华—我们的　神在何烈山与我们立约。",
     Eng:"The LORD our God made a covenant with us at Horeb.",
     Ind:"TUHAN, Allah kita, telah mengikat perjanjian dengan kita di Horeb."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:3, Page:1,
-    Kor:"주님께서 이 언약을 우리 조상과 세우신 것이 아니라, 오늘 여기 살아 있는 우리 모두와 세우신 것입니다.",
+    Kor:"주께서 이 언약을 우리 조상과 세우신 것이 아니라, 오늘 여기 살아 있는 우리 모두와 세우신 것이다.",
     Chn:"这约不是与我们列祖立的，乃是与我们今日在这里存活之人立的。",
     Eng:"It was not with our fathers that the LORD made this covenant, but with us, with all of us who are alive here today.",
     Ind:"Bukan dengan nenek moyang kita TUHAN mengikat perjanjian itu, tetapi dengan kita, kita yang ada di sini pada hari ini, kita semuanya yang masih hidup."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:4, Page:1,
-    Kor:"주님께서는 그 산 불 가운데서, 당신들과 함께 서로 얼굴을 마주 보고 말씀하셨습니다.",
+    Kor:"주께서는 그 산 불 가운데서, 너희와 함께 서로 얼굴을 마주 보고 말씀하셨다.",
     Chn:"耶和华在山上，从火中，面对面与你们说话—",
     Eng:"The LORD spoke to you face to face out of the fire on the mountain.",
     Ind:"TUHAN telah bicara dengan berhadapan muka dengan kamu di gunung dan di tengah-tengah api--"
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:5, Page:1,
-    Kor:"그 때에 당신들이 그 불을 무서워하여 산에 올라가지 못하였으므로, 내가 주님과 당신들의 사이에 서서, 주님의 a말씀을 당신들에게 전하여 주었습니다. 주님께서 말씀하셨습니다.(a 마소라 본문에는 단수, 사해 사본과 사마리아 오경과 칠십인역과 시리아어역과 불가타와 타르굼에는 복수)",
+    Kor:"그 때에 너희가 그 불을 무서워하여 산에 올라가지 못하였으므로, 내가 주님과 너희의 사이에 서서, 주의 말씀을 너희에게 전하여 주었다. 주께서 말씀하셨다.",
     Chn:"那时我站在耶和华和你们中间，要将耶和华的话传给你们；因为你们惧怕那火，没有上山—说：",
     Eng:"(At that time I stood between the LORD and you to declare to you the word of the LORD, because you were afraid of the fire and did not go up the mountain.) And he said:",
     Ind:"aku pada waktu itu berdiri antara TUHAN dan kamu untuk memberitahukan firman TUHAN kepadamu, sebab kamu takut kepada api dan kamu tidak naik ke gunung--dan Ia berfirman:"
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:6, Page:1,
-    Kor:"○'나는 너희를 이집트 땅, 종살이하던 집에서 이끌어 낸 주 너희의 하나님이다.",
+    Kor:"○나는 너희를 이집트 땅, 종살이하던 집에서 이끌어 낸 주 너희의 하나님이다.",
     Chn:"「『我是耶和华—你的　神，曾将你从埃及地为奴之家领出来。",
     Eng:"\"I am the LORD your God, who brought you out of Egypt, out of the land of slavery.",
     Ind:"Akulah TUHAN, Allahmu, yang membawa engkau keluar dari tanah Mesir, dari tempat perbudakan."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Jangan sujud menyembah kepadanya atau beribadah kepadanya, sebab Aku, TUHAN Allahmu, adalah Allah yang cemburu, yang membalaskan kesalahan bapa kepada anak-anaknya dan kepada keturunan yang ketiga dan keempat dari orang-orang yang membenci Aku,"
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:10, Page:1,
-    Kor:"그러나 나를 사랑하고 나의 계명을 지키는 사람에게는 수천 대 자손에 이르기까지 한결같은 사랑을 베푼다.",
+    Kor:"그러나 나를 사랑하고 나의 계명을 지키는 사람에게는, 수천 대 자손에 이르기까지 한결같은 사랑을 베푼다.",
     Chn:"爱我、守我诫命的，我必向他们发慈爱，直到千代。",
     Eng:"but showing love to a thousand generations of those who love me and keep my commandments.",
     Ind:"tetapi Aku menunjukkan kasih setia kepada beribu-ribu orang, yaitu mereka yang mengasihi Aku dan yang berpegang pada perintah-perintah-Ku."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:11, Page:1,
-    Kor:"○너희는 주 너의 하나님의 이름을 b함부로 부르지 못한다. 주는 자기 이름을 함부로 일컫는 사람을 죄 없다고 하지 않는다.(b 또는 '잘못 사용하지 말아라')",
+    Kor:"○너희는 주 너의 하나님의 이름을 함부로 부르지 못한다. 주는 자기 이름을 함부로 일컫는 사람을 죄 없다고 하지 않는다.",
     Chn:"「『不可妄称耶和华—你　神的名；因为妄称耶和华名的，耶和华必不以他为无罪。",
     Eng:"\"You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name.",
     Ind:"Jangan menyebut nama TUHAN, Allahmu, dengan sembarangan, sebab TUHAN akan memandang bersalah orang yang menyebut nama-Nya dengan sembarangan."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Enam hari lamanya engkau akan bekerja dan melakukan segala pekerjaanmu,"
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:14, Page:1,
-    Kor:"그러나 이렛날은 주 너희 하나님의 안식일이니, 너희는 어떤 일도 해서는 안 된다. 너나, 너의 아들이나 딸이나, 너희의 남종이나 여종뿐만 아니라, 너희의 소나 나귀나, 그 밖에 모든 집짐승이나, 너희의 집안에 머무르는 식객이라도, 일을 해서는 안 된다. 너희의 남종이나 여종도 너와 똑같이 쉬게 05 5:하여야 한다.",
+    Kor:"그러나 이렛날은 주 너희 하나님의 안식일이니, 너희는 어떤 일도 해서는 안 된다. 너나, 너의 아들이나 딸이나, 너희의 남종이나 여종뿐만 아니라, 너희의 소나 나귀나, 그 밖에 모든 집짐승이나, 너희의 집안에 머무르는 식객이라도, 일을 해서는 안 된다. 너희의 남종이나 여종도 너와 똑같이 쉬게 하여야 한다.",
     Chn:"但第七日是向耶和华—你　神当守的安息日。这一日，你和你的儿女、仆婢、牛、驴、牲畜，并在你城里寄居的客旅，无论何工都不可做，使你的仆婢可以和你一样安息。",
     Eng:"but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox, your donkey or any of your animals, nor the alien within your gates, so that your manservant and maidservant may rest, as you do.",
     Ind:"tetapi hari ketujuh adalah hari Sabat TUHAN, Allahmu; maka jangan melakukan sesuatu pekerjaan, engkau atau anakmu laki-laki, atau anakmu perempuan, atau hambamu laki-laki, atau hambamu perempuan, atau lembumu, atau keledaimu, atau hewanmu yang manapun, atau orang asing yang di tempat kediamanmu, supaya hambamu laki-laki dan hambamu perempuan berhenti seperti engkau juga."
@@ -123,25 +123,25 @@ BibleDB.add([
     Ind:"Jangan mengucapkan saksi dusta tentang sesamamu."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:21, Page:1,
-    Kor:"○이웃의 아내를 탐내지 못한다. 이웃의 집이나 밭이나, 남종이나 여종이나 소나 나귀나 할 것 없이, 너희 이웃의 소유는 어떤 것도 탐내지 못한다.'",
+    Kor:"○이웃의 아내를 탐내지 못한다. 이웃의 집이나 밭이나, 남종이나 여종이나 소나 나귀나 할 것 없이, 너희 이웃의 소유는 어떤 것도 탐내지 못한다.",
     Chn:"「『不可贪恋人的妻子；也不可贪图人的房屋、田地、仆婢、牛、驴，并他一切所有的。』",
     Eng:"\"You shall not covet your neighbor's wife. You shall not set your desire on your neighbor's house or land, his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.\"",
     Ind:"Jangan mengingini isteri sesamamu, dan jangan menghasratkan rumahnya, atau ladangnya, atau hambanya laki-laki, atau hambanya perempuan, atau lembunya, atau keledainya, atau apapun yang dipunyai sesamamu."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:22, Page:1,
-    Kor:"○주님께서는 이 말씀을 구름이 덮인 캄캄한 산 위 불 가운데서, 큰 목소리로 당신들 온 총회에 선포하시고, 이 말씀에 조금도 보탬이 없이, 그대로 두 돌판에 새겨서 나에게 주셨습니다.\"",
+    Kor:"○주께서는 이 말씀을 구름이 덮인 캄캄한 산 위 불 가운데서, 큰 목소리로 너희 온 총회에 선포하시고, 이 말씀에 조금도 보탬이 없이, 그대로 두 돌판에 새겨서 나에게 주셨다.\"",
     Chn:"「这些话是耶和华在山上，从火中、云中、幽暗中，大声晓谕你们全会众的；此外并没有添别的话。他就把这话写在两块石版上，交给我了。」",
     Eng:"These are the commandments the LORD proclaimed in a loud voice to your whole assembly there on the mountain from out of the fire, the cloud and the deep darkness; and he added nothing more. Then he wrote them on two stone tablets and gave them to me.",
     Ind:"Firman itulah yang diucapkan TUHAN kepada seluruh jemaahmu dengan suara nyaring di gunung, dari tengah-tengah api, awan dan kegelapan, dan tidak ditambahkan-Nya apa-apa lagi. Ditulis-Nya semuanya pada dua loh batu, lalu diberikan-Nya kepadaku.\""
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:23, Page:1,
-    Kor:"<백성이 두려워하다(출 20:18-21)> ○\"산이 불에 탈 때에, 캄캄한 어둠 속에서 들려 오는 음성을 당신들이 듣고, 당신들 지파의 모든 두령과 장로들이 나에게 다가와서,",
+    Kor:"○\"산이 불에 탈 때에, 캄캄한 어둠 속에서 들려 오는 음성을 너희가 듣고, 너희 지파의 모든 두령과 장로들이 나에게 다가와서,",
     Chn:"「那时，火焰烧山，你们听见从黑暗中出来的声音；你们支派中所有的首领和长老都来就近我，",
     Eng:"When you heard the voice out of the darkness, while the mountain was ablaze with fire, all the leading men of your tribes and your elders came to me.",
     Ind:"\"Ketika kamu mendengar suara itu dari tengah-tengah gelap gulita, sementara gunung itu menyala, maka kamu, yakni semua kepala sukumu dan para tua-tuamu, mendekati aku,"
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:24, Page:1,
-    Kor:"이렇게 말하였습니다. '보십시오, 주 우리의 하나님은 그의 영광과 위엄을 우리에게 보여 주시고, 우리는 불 가운데서 들려 오는 하나님의 음성을 들었습니다. 그리고 하나님이 사람과 말씀하셨는데도 그 사람이 여전히 살아 있음을, 오늘 우리는 보았습니다.",
+    Kor:"이렇게 말하였다. '보십시오, 주 우리의 하나님은 그의 영광과 위엄을 우리에게 보여 주시고, 우리는 불 가운데서 들려 오는 하나님의 음성을 들었습니다. 그리고 하나님이 사람과 말씀하셨는데도 그 사람이 여전히 살아 있음을, 오늘 우리는 보았습니다.",
     Chn:"说：『看哪，耶和华—我们　神将他的荣光和他的大能显给我们看，我们又听见他的声音从火中出来。今日我们得见　神与人说话，人还存活。",
     Eng:"And you said, \"The LORD our God has shown us his glory and his majesty, and we have heard his voice from the fire. Today we have seen that a man can live even if God speaks with him.",
     Ind:"dan berkata: Sesungguhnya, TUHAN, Allah kita, telah memperlihatkan kepada kita kemuliaan dan kebesaran-Nya, dan suara-Nya telah kita dengar dari tengah-tengah api. Pada hari ini telah kami lihat, bahwa Allah berbicara dengan manusia dan manusia itu tetap hidup."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Mendekatlah engkau dan dengarkanlah segala yang difirmankan TUHAN, Allah kita, dan engkaulah yang mengatakan kepada kami segala yang difirmankan kepadamu oleh TUHAN, Allah kita, maka kami akan mendengar dan melakukannya."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:28, Page:1,
-    Kor:"○당신들이 나에게 한 이 말을 주님께서 모두 들으셨습니다. 주님께서 나에게 이렇게 말씀하셨습니다. '이 백성이 너에게 말하는 것을 내가 들으니, 그들의 말이 모두 옳다.",
+    Kor:"○너희가 나에게 한 이 말을 주께서 모두 들으셨다. 주께서 나에게 이렇게 말씀하셨다. '이 백성이 너에게 말하는 것을 내가 들으니, 그들의 말이 모두 옳다.",
     Chn:"「你们对我说的话，耶和华都听见了。耶和华对我说：『这百姓的话，我听见了；他们所说的都是。",
     Eng:"The LORD heard you when you spoke to me and the LORD said to me, \"I have heard what this people said to you. Everything they said was good.",
     Ind:"Ketika TUHAN mendengar perkataanmu itu, sedang kamu mengatakannya kepadaku, maka berfirmanlah TUHAN kepadaku: Telah Kudengar perkataan bangsa ini yang dikatakan mereka kepadamu. Segala yang dikatakan mereka itu baik."
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Tetapi engkau, berdirilah di sini bersama-sama dengan Aku, maka Aku hendak mengatakan kepadamu segenap perintah, yakni ketetapan dan peraturan, yang harus kauajarkan kepada mereka, supaya mereka melakukannya di negeri yang Kuberikan kepada mereka untuk dimiliki."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:32, Page:1,
-    Kor:"○그러므로 당신들은 주 당신들의 하나님이 당신들에게 명하신 모든 것을 성심껏 지켜야 하며, 오른쪽으로나 왼쪽으로나 벗어나지 말아야 합니다.",
+    Kor:"○그러므로 너희는, 주 너희의 하나님이 너희에게 명하신 모든 것을 성심껏 지켜야 하며, 오른쪽으로나 왼쪽으로나 벗어나지 말아야 한다.",
     Chn:"所以，你们要照耶和华—你们　神所吩咐的谨守遵行，不可偏离左右。",
     Eng:"So be careful to do what the LORD your God has commanded you; do not turn aside to the right or to the left.",
     Ind:"Maka lakukanlah semuanya itu dengan setia, seperti yang diperintahkan kepadamu oleh TUHAN, Allahmu. Janganlah menyimpang ke kanan atau ke kiri."
   },
   {Bible:"Deuteronomy", Chapter:5, Verse:33, Page:1,
-    Kor:"당신들은 주 당신들의 하나님이 명하신 그 모든 길만을 따라가야 합니다. 그러면 당신들이 차지할 땅에서 풍성한 복을 얻고, 오래오래 잘 살 것입니다.\"",
+    Kor:"너희는 주 너희의 하나님이 명하신 그 모든 길만을 따라가야 한다. 그러면 너희가 차지할 땅에서 풍성한 복을 얻고, 오래오래 잘 살 것이다.\"",
     Chn:"耶和华—你们　神所吩咐你们行的，你们都要去行，使你们可以存活得福，并使你们的日子在所要承受的地上得以长久。」",
     Eng:"Walk in all the way that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.",
     Ind:"Segenap jalan, yang diperintahkan kepadamu oleh TUHAN, Allahmu, haruslah kamu jalani, supaya kamu hidup, dan baik keadaanmu serta lanjut umurmu di negeri yang akan kamu duduki.\""

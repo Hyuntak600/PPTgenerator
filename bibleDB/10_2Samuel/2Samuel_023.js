@@ -3,13 +3,13 @@
 BibleDB.ref("2Samuel",23,39);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:23, Verse:1, Page:1,
-    Kor:"<다윗의 마지막 말> 이것은 다윗이 마지막으로 남긴 말이다.  이새의 아들 다윗이 말한다. 높이 일으켜 세움을 받은 용사, 야곱의 하나님이 기름 부어 세우신 왕, 이스라엘에서 아름다운 시를 읊는 사람이 말한다.",
+    Kor:"이것은 다윗이 마지막으로 남긴 말이다. 이새의 아들 다윗이 말한다. 높이 일으켜 세움을 받은 용사, 야곱의 하나님이 기름 부어 세우신 왕, 이스라엘에서 아름다운 시를 읊는 사람이 말한다.",
     Chn:"以下是大卫末了的话。耶西的儿子大卫得居高位，是雅各　神所膏的，作以色列的美歌者，说：",
     Eng:"These are the last words of David: \"The oracle of David son of Jesse, the oracle of the man exalted by the Most High, the man anointed by the God of Jacob, Israel's singer of songs:",
     Ind:"Inilah perkataan Daud yang terakhir: \"Tutur kata Daud bin Isai dan tutur kata orang yang diangkat tinggi, orang yang diurapi Allah Yakub, pemazmur yang disenangi di Israel:"
   },
   {Bible:"2Samuel", Chapter:23, Verse:2, Page:1,
-    Kor:"주님의 영이 나를 통하여 말씀하시니, 그의 말씀이 나의 혀에 담겼다.",
+    Kor:"주의 영이 나를 통하여 말씀하시니, 그의 말씀이 나의 혀에 담겼다.",
     Chn:"耶和华的灵借着我说： 他的话在我口中。",
     Eng:"\"The Spirit of the LORD spoke through me; his word was on my tongue.",
     Ind:"Roh TUHAN berbicara dengan perantaraanku, firman-Nya ada di lidahku;"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"tidak ada orang yang dapat mengusik mereka, kecuali dengan sebatang besi atau gagang tombak, dan dengan api mereka dibakar habis!\""
   },
   {Bible:"2Samuel", Chapter:23, Verse:8, Page:1,
-    Kor:"○<다윗의 용사들(대상 11:10-47)> 다윗이 거느린 용사들의 이름은 이러하다. 첫째는 다그몬 사람 요셉밧세벳인데, 그는 세 용사의 우두머리이다. 그는 팔백 명과 싸워서, 그들을 한꺼번에 쳐죽인 사람이다.",
+    Kor:"○다윗이 거느린 용사들의 이름은 이러하다. 첫째는 다그몬 사람 요셉밧세벳인데, 그는 세 용사의 우두머리이다. 그는 팔백 명과 싸워서, 그들을 한꺼번에 쳐죽인 사람이다.",
     Chn:"大卫勇士的名字记在下面：他革扪人约设·巴设，又称伊斯尼人亚底挪，他是军长的统领，一时击杀了八百人。",
     Eng:"These are the names of David's mighty men: Josheb-Basshebeth, a Tahkemonite, was chief of the Three; he raised his spear against eight hundred men, whom he killed in one encounter.",
     Ind:"Inilah nama para pahlawan yang mengiringi Daud: Isybaal, orang Hakhmoni, kepala triwira; ia mengayunkan tombaknya melawan delapan ratus orang yang tertikam mati dalam satu pertempuran."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan sesudah dia, Eleazar anak Dodo, anak seorang Ahohi; ia termasuk ketiga pahlawan itu. Ia ada bersama-sama Daud, ketika mereka mengolok-olok orang Filistin, yang telah berkumpul di sana untuk berperang, padahal orang-orang Israel telah mengundurkan diri."
   },
   {Bible:"2Samuel", Chapter:23, Verse:10, Page:1,
-    Kor:"그 때에 엘르아살이 혼자 블레셋 군과 맞붙어서 블레셋 군인을 쳐죽였다. 나중에는 손이 굳어져서, 칼자루를 건성으로 잡고 있을 뿐이었다. 주님께서 그 날 엘르아살에게 큰 승리를 안겨 주셨으므로, 이스라엘 군인이 다시 돌아와서, 엘르아살의 뒤를 따라가면서 약탈하였다.",
+    Kor:"그 때에, 엘르아살이 혼자 블레셋 군과 맞붙어서, 블레셋 군인을 쳐죽였다. 나중에는 손이 굳어져서, 칼자루를 건성으로 잡고 있을 뿐이었다. 주께서 그 날 그에게 큰 승리를 안겨 주셨으므로, 이스라엘 군인이 다시 돌아와서, 그의 뒤를 쫓아가면서 약탈하였다.",
     Chn:"他起来击杀非利士人，直到手臂疲乏，手黏住刀把。那日耶和华使以色列人大获全胜；众民在以利亚撒后头专夺财物。",
     Eng:"but he stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The LORD brought about a great victory that day. The troops returned to Eleazar, but only to strip the dead.",
     Ind:"Tetapi ia bangkit dan membunuh demikian banyak orang Filistin sampai tangannya lesu dan tinggal melekat pada pedangnya. TUHAN memberikan pada hari itu kemenangan yang besar. Rakyat datang kembali mengikuti dia, hanya untuk merampas."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Sesudah dia, Sama, anak Age, orang Harari. Ketika orang Filistin berkumpul di Lehi--di sana ada sebidang tanah ladang penuh kacang merah--dan tentara telah melarikan diri dari hadapan orang Filistin,"
   },
   {Bible:"2Samuel", Chapter:23, Verse:12, Page:1,
-    Kor:"삼마는 밭의 한가운데 버티고 서서, 그 밭을 지키면서, 블레셋 군인을 쳐죽였다. 주님께서 그에게 큰 승리를 안겨 주셨다.",
+    Kor:"삼마는 밭의 한가운데 버티고 서서, 그 밭을 지키면서, 블레셋 군인을 쳐죽였다. 주께서 그에게 큰 승리를 안겨 주셨다.",
     Chn:"沙玛却站在那田间击杀非利士人，救护了那田。耶和华使以色列人大获全胜。",
     Eng:"But Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the LORD brought about a great victory.",
     Ind:"maka berdirilah ia di tengah-tengah ladang itu, ia dapat mempertahankannya dan memukul kalah orang Filistin. Demikianlah diberikan TUHAN kemenangan yang besar."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sekali datanglah tiga orang dari ketiga puluh kepala mendapatkan Daud, menjelang musim menuai, dekat gua Adulam, sedang sepasukan orang Filistin berkemah di lembah Refaim."
   },
   {Bible:"2Samuel", Chapter:23, Verse:14, Page:1,
-    Kor:"그 때에 다윗은 산성 요새에 있었고, 블레셋 군대의 진은 베들레헴에 있었다.",
+    Kor:"그 때에, 다윗은 산성 요새에 있었고, 블레셋 군대의 진은 베들레헴에 있었다.",
     Chn:"那时大卫在山寨，非利士人的防营在伯利恒。",
     Eng:"At that time David was in the stronghold, and the Philistine garrison was at Bethlehem.",
     Ind:"Pada waktu itu Daud ada di dalam kubu gunung dan pasukan pendudukan orang Filistin pada waktu itu ada di Betlehem."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu timbullah keinginan pada Daud, dan ia berkata: \"Sekiranya ada orang yang memberi aku minum air dari perigi Betlehem yang ada dekat pintu gerbang!\""
   },
   {Bible:"2Samuel", Chapter:23, Verse:16, Page:1,
-    Kor:"그러자 그 세 용사가 블레셋 진을 뚫고 나가, 베들레헴의 성문 곁에 있는 우물물을 길어 가지고 와서 다윗에게 바쳤다. 그러나 다윗은 그 물을 마시지 않고, 길어 온 물을 주님께 부어 드리고 나서,",
+    Kor:"그러자 그 세 용사가 블레셋 진을 뚫고 나가, 베들레헴의 성문 곁에 있는 우물물을 길어 가지고 와서 다윗에게 바쳤다. 그러나 다윗은 그 물을 마시지 않고, 길어 온 물을 주께 부어 드리고 나서,",
     Chn:"这三个勇士就闯过非利士人的营盘，从伯利恒城门旁的井里打水，拿来奉给大卫。他却不肯喝，将水奠在耶和华面前，",
     Eng:"So the three mighty men broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the LORD.",
     Ind:"Lalu ketiga pahlawan itu menerobos perkemahan orang Filistin, mereka menimba air dari perigi Betlehem yang ada dekat pintu gerbang, mengangkatnya dan membawanya kepada Daud. Tetapi Daud tidak mau meminumnya, melainkan mempersembahkannya sebagai korban curahan kepada TUHAN,"
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"katanya: \"Jauhlah dari padaku, ya TUHAN, untuk berbuat demikian! Bukankah ini darah orang-orang yang telah pergi dengan mempertaruhkan nyawanya?\" Dan tidak mau ia meminumnya. Itulah yang dilakukan ketiga pahlawan itu."
   },
   {Bible:"2Samuel", Chapter:23, Verse:18, Page:1,
-    Kor:"○스루야의 아들이며 요압의 아우인 아비새는, a삼십인 특별부대의 우두머리였다. 바로 그가 창을 휘둘러서, 삼백 명을 쳐죽인 용사이다. 그는 세 용사와 함께 유명해졌다.(a 두 히브리어 사본과 시리아어역을 따름. 마소라 본문에는 '삼인의 우두머리')",
+    Kor:"○스루야의 아들이며 요압의 아우인 아비새는, 삼십인 특별부대의 우두머리였다. 바로 그가 창을 휘둘러서, 삼백 명을 쳐죽인 용사이다. 그는 세 용사와 함께 유명해졌다.",
     Chn:"洗鲁雅的儿子、约押的兄弟亚比筛是这三个勇士的首领；他举枪杀了三百人，就在三个勇士里得了名。",
     Eng:"Abishai the brother of Joab son of Zeruiah was chief of the Three. He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three.",
     Ind:"Abisai, adik Yoab, anak Zeruya, dialah kepala ketiga puluh orang itu. Dan dialah yang mengayunkan tombaknya melawan tiga ratus orang yang mati ditikamnya; ia mendapat nama di antara ketiga puluh orang itu."
   },
   {Bible:"2Samuel", Chapter:23, Verse:19, Page:1,
-    Kor:"그는 b삼십인 특별부대 안에서 가장 뛰어난 용사였다. 그는 삼십인 특별부대의 우두머리가 되기는 하였으나, 세 용사에 견줄 만하지는 못하였다.(b 시리아어역을 따름(대상 11:25 참조). 히, '삼인 안에서 제일 뛰어난')",
+    Kor:"그는 삼십인 특별부대 안에서 가장 뛰어난 용사였다. 그는 삼십인 특별부대의 우두머리가 되기는 하였으나, 세 용사에 견줄 만하지는 못하였다.",
     Chn:"他在这三个勇士里是最尊贵的，所以作他们的首领，只是不及前三个勇士。",
     Eng:"Was he not held in greater honor than the Three? He became their commander, even though he was not included among them.",
     Ind:"Bukankah ia yang paling dihormati di antara ketiga puluh orang itu? Memang ia menjadi pemimpin mereka, tetapi ia tidak dapat menyamai triwira itu."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Ira, orang Yetri; Gareb, orang Yetri;"
   },
   {Bible:"2Samuel", Chapter:23, Verse:39, Page:1,
-    Kor:"헷 사람 우리야까지, 모두 합하여 서른일곱 명이다.",
+    Kor:"헷 사람 우리아까지, 모두 합하여 서른일곱 명이다.",
     Chn:"赫人乌利亚，共有三十七人。",
     Eng:"and Uriah the Hittite. There were thirty-seven in all.",
     Ind:"Uria, orang Het, semuanya tiga puluh tujuh orang."

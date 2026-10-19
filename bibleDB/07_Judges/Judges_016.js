@@ -3,43 +3,43 @@
 BibleDB.ref("Judges",16,31);
 BibleDB.add([
   {Bible:"Judges", Chapter:16, Verse:1, Page:1,
-    Kor:"<삼손이 가사에 가다> 삼손이 가사에 가서, 창녀를 하나 만나 그의 집으로 들어갔다.",
+    Kor:"삼손이 가사에 가서, 창녀를 하나 만나 그의 집으로 들어갔다.",
     Chn:"参孙到了迦萨，在那里看见一个妓女，就与她亲近。",
     Eng:"One day Samson went to Gaza, where he saw a prostitute. He went in to spend the night with her.",
     Ind:"Pada suatu kali, ketika Simson pergi ke Gaza, dilihatnya di sana seorang perempuan sundal, lalu menghampiri dia."
   },
   {Bible:"Judges", Chapter:16, Verse:2, Page:1,
-    Kor:"삼손이 거기에 왔다는 말을 들은 가사 사람들은, 그 곳을 에워싸고 밤새도록 성문에 숨어 그를 기다렸다. 동이 틀 때를 기다렸다가 그를 죽이려고 생각한 그들은 밤새 가만히 있었다.",
+    Kor:"삼손이 거기에 왔다는 말을 들은 가사 사람들은 그 곳을 에워싸고, 밤새도록 성문에 숨어 그를 기다렸다. 동이 틀 때를 기다렸다가 그를 죽이려고 생각한 그들은 밤새 가만히 있었다.",
     Chn:"有人告诉迦萨人说：「参孙到这里来了！」他们就把他团团围住，终夜在城门悄悄埋伏，说：「等到天亮我们便杀他。」",
     Eng:"The people of Gaza were told, \"Samson is here!\" So they surrounded the place and lay in wait for him all night at the city gate. They made no move during the night, saying, \"At dawn we'll kill him.\"",
     Ind:"Ketika diberitahukan kepada orang-orang Gaza: \"Simson telah datang ke sini,\" maka mereka mengepung tempat itu dan siap menghadang dia semalam-malaman itu di pintu gerbang kota, tetapi semalam-malaman itu mereka tidak berbuat apa-apa, karena pikirnya: \"Nanti pada waktu fajar kita akan membunuh dia.\""
   },
   {Bible:"Judges", Chapter:16, Verse:3, Page:1,
-    Kor:"그러나 삼손은 밤늦도록 누워 있다가, 밤중에 일어나서 성 문짝을 양쪽 기둥과 빗장째 뽑았다. 그는 그것을 어깨에 메고 헤브론 맞은편 산꼭대기에 올라가, 거기에다 버렸다.",
+    Kor:"그러나 삼손은 밤늦도록 누워 있다가, 밤중에 일어나, 성 문짝을 양쪽 기둥과 빗장째 뽑았다. 그는 그것을 어깨에 메고, 헤브론 맞은편 산꼭대기에 올라가, 거기에다 버렸다.",
     Chn:"参孙睡到半夜，起来，将城门的门扇、门框、门闩，一齐拆下来，扛在肩上，扛到希伯 前的山顶上。",
     Eng:"But Samson lay there only until the middle of the night. Then he got up and took hold of the doors of the city gate, together with the two posts, and tore them loose, bar and all. He lifted them to his shoulders and carried them to the top of the hill that faces Hebron.",
     Ind:"Tetapi Simson tidur di situ sampai tengah malam. Pada waktu tengah malam bangunlah ia, dipegangnya kedua daun pintu gerbang kota itu dan kedua tiang pintu, dicabutnyalah semuanya beserta palangnya, diletakkannya di atas kedua bahunya, lalu semuanya itu diangkatnya ke puncak gunung yang berhadapan dengan Hebron."
   },
   {Bible:"Judges", Chapter:16, Verse:4, Page:1,
-    Kor:"<삼손과 들릴라> ○그 뒤에 삼손은 소렉 골짜기에 사는 어떤 여자를 사랑하게 되었는데, 그의 이름은 들릴라였다.",
+    Kor:"○그 뒤에 삼손은 소렉 골짜기에 사는 어떤 여자를 사랑하게 되었는데, 그의 이름은 들릴라였다.",
     Chn:"后来，参孙在梭烈谷喜爱一个妇人，名叫大利拉。",
     Eng:"Some time later, he fell in love with a woman in the Valley of Sorek whose name was Delilah.",
     Ind:"Sesudah itu Simson jatuh cinta kepada seorang perempuan dari lembah Sorek yang namanya Delila."
   },
   {Bible:"Judges", Chapter:16, Verse:5, Page:1,
-    Kor:"블레셋 사람의 통치자들이 그 여자를 찾아와서 말하였다. \"당신은 그를 꾀어 그의 엄청난 힘이 어디에서 나오는지, 그리고 우리가 어떻게 하면 그를 잡아 묶어서 꼼짝 못 하게 할 수 있는지 알아내시오. 그러면 우리가 각각 당신에게 은 천백 세겔씩 주겠소.\"",
+    Kor:"블레셋 사람의 통치자들이 그 여자를 찾아와서 말하였다. \"너는 그를 꾀어 그의 엄청난 힘이 어디에서 나오는지, 그리고 우리가 어떻게 하면 그를 잡아 묶어서 꼼짝 못 하게 할 수 있는지 알아내어라. 그러면 우리가 각각 너에게 은 천백 세겔씩 주겠다.\"",
     Chn:"非利士人的首领上去见那妇人，对她说：「求你诓哄参孙，探探他因何有这么大的力气，我们用何法能胜他，捆绑克制他。我们就每人给你一千一百舍客勒银子。」",
     Eng:"The rulers of the Philistines went to her and said, \"See if you can lure him into showing you the secret of his great strength and how we can overpower him so we may tie him up and subdue him. Each one of us will give you eleven hundred shekels of silver.\"",
     Ind:"Lalu datanglah raja-raja kota orang Filistin kepada perempuan itu sambil berkata: \"Cobalah bujuk dia untuk mengetahui karena apakah kekuatannya demikian besar, dan dengan apakah kami dapat mengalahkan dia dan mengikat dia untuk menundukkannya. Maka kami masing-masing akan memberikan seribu seratus uang perak kepadamu.\""
   },
   {Bible:"Judges", Chapter:16, Verse:6, Page:1,
-    Kor:"○그래서 들릴라가 삼손에게 물었다. \"당신의 그 엄청난 힘은 어디서 나오지요? 어떻게 하면 당신을 묶어 꼼짝 못 하게 할 수 있는지 말해 주세요.\"",
+    Kor:"○그래서 들릴라가 삼손에게 물었다. \"당신의 그 엄청난 힘은 어디서 나오죠? 어떻게 하면 당신을 묶어 꼼짝 못 하게 할 수 있는지 말해 주세요.\"",
     Chn:"大利拉对参孙说：「求你告诉我，你因何有这么大的力气，当用何法捆绑克制你。」",
     Eng:"So Delilah said to Samson, \"Tell me the secret of your great strength and how you can be tied up and subdued.\"",
     Ind:"Lalu berkatalah Delila kepada Simson: \"Ceritakanlah kiranya kepadaku, karena apakah kekuatanmu demikian besar, dan dengan apakah engkau harus diikat untuk ditundukkan?\""
   },
   {Bible:"Judges", Chapter:16, Verse:7, Page:1,
-    Kor:"삼손이 그에게 말해 주었다. \"마르지 않은 푸른 칡 일곱 매끼로 나를 묶으면, 내가 힘이 빠져서 여느 사람처럼 되지.\"",
+    Kor:"삼손이 그에게 말해 주었다. \"마르지 않은 푸른 칡 일곱 매끼로 나를 묶으면, 내가 힘이 빠져서, 여느 사람처럼 되지.\"",
     Chn:"参孙回答说：「人若用七条未干的青绳子捆绑我，我就软弱像别人一样。」",
     Eng:"Samson answered her, \"If anyone ties me with seven fresh thongs that have not been dried, I'll become as weak as any other man.\"",
     Ind:"Jawab Simson kepadanya: \"Jika aku diikat dengan tujuh tali busur yang baru, yang belum kering, maka aku akan menjadi lemah dan menjadi seperti orang lain manapun juga.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lalu raja-raja kota orang Filistin membawa tujuh tali busur yang baru yang belum kering kepada perempuan itu dan ia mengikat Simson dengan tali-tali itu,"
   },
   {Bible:"Judges", Chapter:16, Verse:9, Page:1,
-    Kor:"미리 옆 방에 사람들을 숨겨 놓고 있다가, 그에게 \"삼손, 블레셋 사람들이 당신에게 들이닥쳤어요!\" 하고 소리쳤다. 그러나 삼손은 그 밧줄을 불에 탄 삼 오라기를 끊듯이 끊어 버렸다. 그의 힘의 비밀은 여전히 알려지지 않았다. 그러자",
+    Kor:"미리 옆 방에 사람들을 숨겨 놓고 있다가, 그에게 \"삼손, 블레셋 사람들이 당신에게 들이닥쳤어요!\" 하고 소리쳤다. 그러나 삼손은 그 밧줄을, 불에 탄 삼 오라기를 끊듯이 끊어 버렸다. 그의 힘의 비밀은 여전히 알려지지 않았다. 그러자",
     Chn:"有人预先埋伏在妇人的内室里。妇人说：「参孙哪，非利士人拿你来了！」参孙就挣断绳子，如挣断经火的麻线一般。这样，他力气的根由人还是不知道。",
     Eng:"With men hidden in the room, she called to him, \"Samson, the Philistines are upon you!\" But he snapped the thongs as easily as a piece of string snaps when it comes close to a flame. So the secret of his strength was not discovered.",
     Ind:"sedang di kamarnya ada orang bersiap-siap. Kemudian berserulah perempuan itu kepadanya: \"Orang-orang Filistin menyergap engkau, Simson!\" Tetapi ia memutuskan tali-tali busur itu seperti tali rami yang terbakar putus, apabila kena api. Dan tidaklah ketahuan di mana duduk kekuatannya itu."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Delila kepada Simson: \"Sesungguhnya engkau telah mempermain-mainkan dan membohongi aku. Sekarang ceritakanlah kiranya kepadaku dengan apa engkau dapat diikat.\""
   },
   {Bible:"Judges", Chapter:16, Verse:11, Page:1,
-    Kor:"삼손이 그에게 말하였다. \"한 번도 쓰지 않은 새 밧줄로 나를 꽁꽁 묶으면, 내가 힘이 빠져서 여느 사람처럼 되지.\"",
+    Kor:"삼손이 그에게 말하였다. \"한 번도 쓰지 않은 새 밧줄로 나를 꽁꽁 묶으면, 내가 힘이 빠져서, 여느 사람처럼 되지.\"",
     Chn:"参孙回答说：「人若用没有使过的新绳捆绑我，我就软弱像别人一样。」",
     Eng:"He said, \"If anyone ties me securely with new ropes that have never been used, I'll become as weak as any other man.\"",
     Ind:"Jawabnya kepadanya: \"Jika aku diikat erat-erat dengan tali baru, yang belum terpakai untuk pekerjaan apapun, maka aku akan menjadi lemah dan menjadi seperti orang lain manapun juga.\""
   },
   {Bible:"Judges", Chapter:16, Verse:12, Page:1,
-    Kor:"들릴라는 새 밧줄을 가져다가 그것으로 그를 묶었다. 미리 옆 방에 사람들을 숨겨 놓고 있다가, 그에게 \"삼손, 블레셋 사람들이 당신에게 들이닥쳤어요!\" 하고 소리쳤다. 그러나 삼손은 자기 팔을 묶은 새 밧줄을 실오라기 끊듯이 끊어 버렸다.",
+    Kor:"들릴라는 새 밧줄을 가져다가 그것으로 그를 묶었다. 미리 옆 방에 사람들을 숨겨 놓고 있다가, 그에게 \"삼손, 블레셋 사람들이 당신에게 들이닥쳤어요!\" 하고 소리쳤다. 그러나 삼손은 자기 팔을 묶은 새 밧줄을, 실오라기를 끊듯이 끊어 버렸다.",
     Chn:"大利拉就用新绳捆绑他，对他说：「参孙哪，非利士人拿你来了！」有人预先埋伏在内室里。参孙将臂上的绳挣断了，如挣断一条线一样。",
     Eng:"So Delilah took new ropes and tied him with them. Then, with men hidden in the room, she called to him, \"Samson, the Philistines are upon you!\" But he snapped the ropes off his arms as if they were threads.",
     Ind:"Kemudian Delila mengambil tali baru, diikatnyalah dia dengan tali-tali itu dan berseru kepadanya: \"Orang-orang Filistin menyergap engkau, Simson!\" --di kamar ada orang bersiap-siap--tetapi tali-tali itu diputuskannya tanggal dari tangannya seperti benang saja."
   },
   {Bible:"Judges", Chapter:16, Verse:13, Page:1,
-    Kor:"그러자 들릴라가 삼손에게 말하였다. \"당신은 여전히 나를 놀리고 있어요. 여태까지 당신은 나에게 거짓말만 했어요! 무엇으로 당신을 묶어야 꼼짝 못 하는지 말해 주세요.\" 삼손이 그에게 말하였다. a\"내 머리칼 일곱 가닥을 베틀 날실에 섞어서 짜면 되지.\"(a 칠십인역에는 \"'내 머리칼 일곱 가닥을 베틀 날실에 섞어 짜서 그것을 베틀 말뚝에 꽉 잡아매면 나는 힘이 빠져서 여느 사람처럼 되지' 그래서 그가 자고 있는 동안에 들릴라가 그의 머리칼 일곱 가닥을 베틀 날실에 섞어 짜고, 14. 그것을 베틀 말뚝에 꽉 잡아매었다. 그리고 삼손에게 '삼손, ……'하고 소리쳤다. 그러자 삼손이 잠에서 깨어나 베틀 말뚝과 베틀과 머리칼이 섞여 짜여진 천을 함께 끌어 올렸다\")",
+    Kor:"그러자 들릴라가 삼손에게 말하였다. \"당신은 여전히 나를 놀리고 있어요. 여태까지 당신은 나에게 거짓말만 했어요! 무엇으로 당신을 묶어야 꼼짝 못 하는지 말해 주세요.\" 삼손이 그에게 말하였다. \"내 머리칼 일곱 가닥을 베틀 날실에 섞어서 짜면 되지.\"",
     Chn:"大利拉对参孙说：「你到如今还是欺哄我，向我说谎言。求你告诉我，当用何法捆绑你。」参孙回答说：「你若将我头上的七条发绺，与纬线同织就可以了。」",
     Eng:"Delilah then said to Samson, \"Until now, you have been making a fool of me and lying to me. Tell me how you can be tied.\" He replied, \"If you weave the seven braids of my head into the fabric on the loom and tighten it with the pin, I'll become as weak as any other man.\" So while he was sleeping, Delilah took the seven braids of his head, wove them into the fabric",
     Ind:"Berkatalah Delila kepada Simson: \"Sampai sekarang engkau telah mempermain-mainkan dan membohongi aku. Ceritakanlah kepadaku dengan apakah engkau dapat diikat.\" Jawabnya kepadanya: \"Kalau engkau menenun ketujuh rambut jalinku bersama-sama dengan lungsin lalu mengokohkannya dengan patok, maka aku akan menjadi lemah dan menjadi seperti orang lain manapun juga.\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu setelah perempuan itu berhari-hari merengek-rengek kepadanya dan terus mendesak-desak dia, ia tidak dapat lagi menahan hati, sehingga ia mau mati rasanya."
   },
   {Bible:"Judges", Chapter:16, Verse:17, Page:1,
-    Kor:"하는 수 없이 삼손은 그에게 속마음을 다 털어 놓으면서 말하였다. \"나의 머리는 b면도칼을 대어 본 적이 없는데, 이것은 내가 모태에서부터 하나님께 바쳐진 나실 사람이기 때문이오. 내 머리털을 깎으면, 나는 힘을 잃고 약해져서, 여느 사람처럼 될 것이오.\"(b 삭도를)",
+    Kor:"하는 수 없이 삼손은 그에게 속마음을 다 털어 놓으면서 말하였다. \"나의 머리는 면도칼을 대어 본 적이 없는데, 이것은 내가 모태에서부터 하나님께 바쳐진 나실 사람이기 때문이오. 내 머리털을 깎으면, 나는 힘을 잃고 약해져서, 여느 사람처럼 될 것이오.\"",
     Chn:"参孙就把心中所藏的都告诉了她，对她说：「向来人没有用剃头刀剃我的头，因为我自出母胎就归　神作拿细耳人；若剃了我的头发，我的力气就离开我，我便软弱像别人一样。」",
     Eng:"So he told her everything. \"No razor has ever been used on my head,\" he said, \"because I have been a Nazirite set apart to God since birth. If my head were shaved, my strength would leave me, and I would become as weak as any other man.\"",
     Ind:"Maka diceritakannyalah kepadanya segala isi hatinya, katanya: \"Kepalaku tidak pernah kena pisau cukur, sebab sejak dari kandungan ibuku aku ini seorang nazir Allah. Jika kepalaku dicukur, maka kekuatanku akan lenyap dari padaku, dan aku menjadi lemah dan sama seperti orang-orang lain.\""
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Ketika dilihat Delila, bahwa segala isi hatinya telah diceritakannya kepadanya, disuruhnyalah memanggil raja-raja kota orang Filistin, katanya: \"Sekali ini lagi datanglah ke mari, sebab ia telah menceritakan segala isi hatinya kepadaku.\" Lalu datanglah raja-raja kota orang Filistin itu kepadanya sambil membawa uang itu."
   },
   {Bible:"Judges", Chapter:16, Verse:19, Page:1,
-    Kor:"들릴라는 삼손을 자기 무릎에서 잠들게 한 뒤에, 사람을 불러 일곱 가닥으로 땋은 그의 머리털을 깎게 하였다. 그런 다음에 그를 괴롭혀 보았으나, 그의 엄청난 힘은 이미 그에게서 사라졌다.",
+    Kor:"들릴라는 삼손을 자기 무릎에서 잠들게 한 뒤에, 사람을 불러 일곱 가닥으로 땋은 그의 머리털을 깎게 하였다. 그런 다음에, 그를 괴롭혀 보았으나, 그의 엄청난 힘은 이미 그에게서 사라졌다.",
     Chn:"大利拉使参孙枕着她的膝睡觉，叫了一个人来剃除他头上的七条发绺。于是大利拉克制他，他的力气就离开他了。",
     Eng:"Having put him to sleep on her lap, she called a man to shave off the seven braids of his hair, and so began to subdue him. And his strength left him.",
     Ind:"Sesudah itu dibujuknya Simson tidur di pangkuannya, lalu dipanggilnya seorang dan disuruhnya mencukur ketujuh rambut jalinnya, sehingga mulailah Simson ditundukkan oleh perempuan itu, sebab kekuatannya telah lenyap dari padanya."
   },
   {Bible:"Judges", Chapter:16, Verse:20, Page:1,
-    Kor:"그 때에 들릴라가 \"삼손! 블레셋 사람들이 들이닥쳤어요!\" 하고 소리쳤다. 삼손은 잠에서 깨어나 \"내가 이번에도 지난 번처럼 뛰쳐 나가서 힘을 떨쳐야지!\" 하고 생각하였으나, 주님께서 이미 자기를 떠나신 것을 미처 깨닫지 못하였다.",
+    Kor:"그 때에 들릴라가 \"삼손! 블레셋 사람들이 들이닥쳤어요!\" 하고 소리쳤다. 삼손은 잠에서 깨어나 \"내가 이번에도 지난 번처럼 뛰쳐 나가서 힘을 떨쳐야지!\" 하고 생각하였으나, 주께서 이미 자기를 떠나신 것을 미처 깨닫지 못하였다.",
     Chn:"大利拉说：「参孙哪，非利士人拿你来了！」参孙从睡中醒来，心里说：「我要像前几次出去活动身体」；他却不知道耶和华已经离开他了。",
     Eng:"Then she called, \"Samson, the Philistines are upon you!\" He awoke from his sleep and thought, \"I'll go out as before and shake myself free.\" But he did not know that the LORD had left him.",
     Ind:"Lalu berserulah perempuan itu: \"Orang Filistin menyergap engkau, Simson!\" Maka terjagalah ia dari tidurnya serta katanya: \"Seperti yang sudah-sudah, aku akan bebas dan akan meronta lepas.\" Tetapi tidaklah diketahuinya, bahwa TUHAN telah meninggalkan dia."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Tetapi rambutnya mulai tumbuh pula sesudah dicukur."
   },
   {Bible:"Judges", Chapter:16, Verse:23, Page:1,
-    Kor:"<삼손이 죽다> ○블레셋 사람의 통치자들이 그들의 신 다곤에게 큰 제사를 바치려고 함께 모여 즐거워하며 떠들었다.  \"우리의 원수 삼손을 우리의 신이 우리의 손에 넘겨 주셨다!\"",
+    Kor:"○블레셋 사람의 통치자들이 그들의 신 다곤에게 큰 제사를 바치려고, 함께 모여 즐거워하며 떠들었다. \"우리의 원수 삼손을, 우리의 신이 우리의 손에 넘겨 주셨다!\"",
     Chn:"非利士人的首领聚集，要给他们的神大衮献大祭，并且欢乐，因为他们说：「我们的神将我们的仇敌参孙交在我们手中了。」",
     Eng:"Now the rulers of the Philistines assembled to offer a great sacrifice to Dagon their god and to celebrate, saying, \"Our god has delivered Samson, our enemy, into our hands.\"",
     Ind:"Sesudah itu berkumpullah raja-raja kota orang Filistin untuk mengadakan perayaan korban sembelihan yang besar kepada Dagon, allah mereka, dan untuk bersukaria; kata mereka: \"Telah diserahkan oleh allah kita ke dalam tangan kita Simson, musuh kita.\""
   },
   {Bible:"Judges", Chapter:16, Verse:24, Page:1,
-    Kor:"백성도 그를 보고 그들의 신을 찬양하며 소리쳤다.  \"우리 땅을 망쳐 놓은 원수, 우리 백성을 많이 죽인 원수를 우리의 신이 우리 손에 넘겨 주셨다.\"",
+    Kor:"백성도 그를 보고 그들의 신을 찬양하며 소리쳤다. \"우리 땅을 망쳐 놓은 원수, 우리 백성을 많이 죽인 원수를 우리의 신이 우리 손에 넘겨 주셨다.\"",
     Chn:"众人看见参孙，就赞美他们的神说：「我们的神将毁坏我们地、杀害我们许多人的仇敌交在我们手中了。」",
     Eng:"When the people saw him, they praised their god, saying, \"Our god has delivered our enemy into our hands, the one who laid waste our land and multiplied our slain.\"",
     Ind:"Dan ketika orang banyak melihat Simson, mereka memuji allah mereka, sambil berseru: \"Telah diserahkan oleh allah kita ke dalam tangan kita musuh kita, perusak tanah kita, dan yang membunuh banyak teman kita.\""
   },
   {Bible:"Judges", Chapter:16, Verse:25, Page:1,
-    Kor:"그들은 마음이 흐뭇하여, 삼손을 그 곳으로 불러다가 자기들 앞에서 재주를 부리게 하라고 외쳤다. 사람들이 삼손을 감옥에서 끌어내었고, 삼손은 그들이 보는 앞에서 재주를 부리게 되었다. 그들은 삼손을 기둥 사이에 세워 두었다.",
+    Kor:"그들은 마음이 흐뭇하여, 삼손을 그 곳으로 불러다가 자기들 앞에서 재주를 부리게 하라고 외쳤다. 사람들이 삼손을 감옥에서 끌어내었고, 삼손은, 그들이 보는 앞에서 재주를 부리게 되었다. 그들은 삼손을 기둥 사이에 세워 두었다.",
     Chn:"他们正宴乐的时候，就说：「叫参孙来，在我们面前戏耍戏耍。」于是将参孙从监里提出来，他就在众人面前戏耍。他们使他站在两柱中间。",
     Eng:"While they were in high spirits, they shouted, \"Bring out Samson to entertain us.\" So they called Samson out of the prison, and he performed for them. When they stood him among the pillars,",
     Ind:"Ketika hati mereka riang gembira, berkatalah mereka: \"Panggillah Simson untuk melawak bagi kita.\" Simson dipanggil dari penjara, lalu ia melawak di depan mereka, kemudian mereka menyuruh dia berdiri di antara tiang-tiang."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Adapun gedung itu penuh dengan laki-laki dan perempuan; segala raja kota orang Filistin ada di sana, dan di atas sotoh ada kira-kira tiga ribu orang laki-laki dan perempuan, yang menonton lawak Simson itu."
   },
   {Bible:"Judges", Chapter:16, Verse:28, Page:1,
-    Kor:"○그 때에 삼손이 주님께 부르짖으며 간구하였다. \"주 하나님, 나를 기억하여 주시기를 간절히 바랍니다. 하나님, 이번 한 번만 힘을 주시기를 간절히 바랍니다. 나의 두 눈을 뽑은 블레셋 사람들에게 단번에 원수를 갚게 하여 주십시오.\"",
+    Kor:"○그 때에 삼손이 주께 부르짖으며 간구하였다. \"주 하나님, 나를 기억하여 주시기를 간절히 바랍니다. 하나님, 이번 한 번만 힘을 주시기를 간절히 바랍니다. 나의 두 눈을 뽑은 블레셋 사람들에게 단번에 원수를 갚게 하여 주십시오.\"",
     Chn:"参孙求告耶和华说：「主耶和华啊，求你眷念我。　神啊，求你赐我这一次的力量，使我在非利士人身上报那剜我双眼的仇。」",
     Eng:"Then Samson prayed to the LORD, \"O Sovereign LORD, remember me. O God, please strengthen me just once more, and let me with one blow get revenge on the Philistines for my two eyes.\"",
     Ind:"Berserulah Simson kepada TUHAN, katanya: \"Ya Tuhan ALLAH, ingatlah kiranya kepadaku dan buatlah aku kuat, sekali ini saja, ya Allah, supaya dengan satu pembalasan juga kubalaskan kedua mataku itu kepada orang Filistin.\""
   },
   {Bible:"Judges", Chapter:16, Verse:29, Page:1,
-    Kor:"그런 다음에 삼손은 그 신전을 버티고 있는 가운데의 두 기둥을, 하나는 왼손으로 또 하나는 오른손으로 붙잡았다.",
+    Kor:"그런 다음에, 삼손은 그 신전을 버티고 있는 가운데의 두 기둥을, 하나는 왼손으로, 또 하나는 오른손으로 붙잡았다.",
     Chn:"参孙就抱住托房的那两根柱子：左手抱一根，右手抱一根，",
     Eng:"Then Samson reached toward the two central pillars on which the temple stood. Bracing himself against them, his right hand on the one and his left hand on the other,",
     Ind:"Kemudian Simson merangkul kedua tiang yang paling tengah, penyangga rumah itu, lalu bertopang kepada tiang yang satu dengan tangan kanannya dan kepada tiang yang lain dengan tangan kirinya."

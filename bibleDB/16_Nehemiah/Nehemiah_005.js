@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",5,19);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:5, Verse:1, Page:1,
-    Kor:"<가난한 이들이 외치다> 백성 사이에서 유다인 동포를 원망하는 소리가 크게 일고 있다. 부인들이 더 아우성이다.",
+    Kor:"백성 사이에서 유다인 동포를 원망하는 소리가 크게 일고 있다. 부인들이 더 아우성이다.",
     Chn:"百姓和他们的妻大大呼号，埋怨他们的弟兄犹大人。",
     Eng:"Now the men and their wives raised a great outcry against their Jewish brothers.",
     Ind:"Maka terdengarlah keluhan yang keras dari rakyat dan juga dari pihak para isteri terhadap sesama orang Yahudi."
@@ -39,31 +39,31 @@ BibleDB.add([
     Ind:"Maka sangat marahlah aku, ketika kudengar keluhan mereka dan berita-berita itu."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:7, Page:1,
-    Kor:"나는 그들이 울부짖는 내용을 신중하게 살핀 다음에, 귀족들과 관리들에게, 어찌하여 같은 겨레끼리 돈놀이를 하느냐고 호되게 나무랐다. 이 문제를 다루어야 하겠기에, 나는 대회를 열고서,",
+    Kor:"나는 그들이 울부짖는 내용을 신중하게 살핀 다음에, 귀족들과 관리들에게, 어찌하여, 같은 겨레끼리 돈놀이를 하느냐고 호되게 나무랐다. 이 문제를 다루어야 하겠기에, 나는 대회를 열고서,",
     Chn:"我心里筹划，就斥责贵胄和官长说：「你们各人向弟兄取利！」于是我招聚大会攻击他们。",
     Eng:"I pondered them in my mind and then accused the nobles and officials. I told them, \"You are exacting usury from your own countrymen!\" So I called together a large meeting to deal with them",
     Ind:"Setelah berpikir masak-masak, aku menggugat para pemuka dan para penguasa. Kataku kepada mereka: \"Masing-masing kamu telah makan riba dari saudara-saudaramu!\" Lalu kuadakan terhadap mereka suatu sidang jemaah yang besar."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:8, Page:1,
-    Kor:"귀족들과 관리들에게 말하였다. \"우리는, 이방 사람들에게 팔려서 종이 된 유다인 동포를, 애써 몸값을 치르고 데려왔소. 그런데 지금 당신들은 동포를 또 팔고 있소. 이제 우리더러 그들을 다시 사오라는 말이오?\" 이렇게 말하였으나, 그들 가운데 대답하는 사람이 아무도 없다. 그들에게도 할 말이 없을 것이다.",
+    Kor:"귀족들과 관리들에게 말하였다. \"우리는, 이방 사람들에게 팔려서 종이 된 유다인 동포를, 애써 몸값을 치르고 데려왔소. 그런데 지금 당신들은 동포를 또 팔고 있소. 이제, 우리더러 그들을 다시 사오라는 말이오?\" 이렇게 말하였으나, 그들 가운데 대답하는 사람이 아무도 없다. 그들에게도 할 말이 없을 것이다.",
     Chn:"我对他们说：「我们尽力赎回我们弟兄，就是卖与外邦的犹大人；你们还要卖弟兄，使我们赎回来吗？」他们就静默不语，无话可答。",
     Eng:"and said: \"As far as possible, we have bought back our Jewish brothers who were sold to the Gentiles. Now you are selling your brothers, only for them to be sold back to us!\" They kept quiet, because they could find nothing to say.",
     Ind:"Berkatalah aku kepada mereka: \"Kami selalu berusaha sedapat-dapatnya untuk menebus sesama orang Yahudi yang dijual kepada bangsa-bangsa lain. Tetapi kamu ini justru menjual saudara-saudaramu, supaya mereka dibeli lagi oleh kami!\" Mereka berdiam diri karena tidak dapat membantah."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:9, Page:1,
-    Kor:"내가 말을 계속하였다. \"당신들이 한 처사는 옳지 않습니다. 이방인 원수들에게 웃음거리가 되지 않으려거든, 하나님을 두려워하면서 살아야 합니다.",
+    Kor:"내가 말을 계속하였다. \"당신들이 한 처사는 옳지 않소. 이방인 원수들에게 웃음거리가 되지 않으려거든, 하나님을 두려워하면서 살아야 합니다.",
     Chn:"我又说：「你们所行的不善！你们行事不当敬畏我们的　神吗？不然，难免我们的仇敌外邦人毁谤我们。",
     Eng:"So I continued, \"What you are doing is not right. Shouldn't you walk in the fear of our God to avoid the reproach of our Gentile enemies?",
     Ind:"Kataku: \"Tidaklah patut apa yang kamu lakukan itu! Bukankah kamu harus berlaku dengan takut akan Allah kita untuk menghindarkan diri dari cercaan bangsa-bangsa lain, musuh-musuh kita?"
   },
   {Bible:"Nehemiah", Chapter:5, Verse:10, Page:1,
-    Kor:"나도, 나의 친족도, 그리고 내 아랫사람들도, 백성에게 돈과 곡식을 꾸어 주고 있습니다. 제발, 이제부터는 백성에게서 이자 받는 것을 그만둡시다.",
+    Kor:"나도, 나의 친족도, 그리고 내 아랫사람들도, 백성에게 돈과 곡식을 꾸어 주고 있소. 제발, 이제부터는 백성에게서 이자 받는 것을 그만둡시다.",
     Chn:"我和我的弟兄与仆人也将银钱粮食借给百姓；我们大家都当免去利息。",
     Eng:"I and my brothers and my men are also lending the people money and grain. But let the exacting of usury stop!",
     Ind:"Juga aku dan saudara-saudaraku dan anak buahku telah membungakan uang dan gandum pada mereka. Biarlah kita hapuskan hutang mereka itu!"
   },
   {Bible:"Nehemiah", Chapter:5, Verse:11, Page:1,
-    Kor:"그러니 당신들도 밭과 포도원과 올리브 밭과 집을 오늘 당장 다 돌려주십시오. 돈과 곡식과 새 포도주와 올리브 기름을 꾸어 주고서 받는 비싼 이자도, 당장 돌려주십시오.\"",
+    Kor:"그러니 당신들도 밭과 포도원과 올리브 밭과 집을 오늘 당장 다 돌려주시오. 돈과 곡식과 새 포도주와 올리브 기름을 꾸어 주고서 받는 비싼 이자도, 당장 돌려주시오.\"",
     Chn:"如今我劝你们将他们的田地、葡萄园、橄榄园、房屋，并向他们所取的银钱、粮食、新酒，和油，百分之一的利息都归还他们。」",
     Eng:"Give back to them immediately their fields, vineyards, olive groves and houses, and also the usury you are charging them--the hundredth part of the money, grain, new wine and oil.\"",
     Ind:"Biarlah kamu kembalikan kepada mereka hari ini juga ladang mereka, kebun anggur, kebun zaitun dan rumah mereka, pula hapuskanlah hutang mereka, yakni uang serta gandum, anggur dan minyak yang kamu tagih dari pada mereka!\""
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Berkatalah mereka: \"Itu akan kami kembalikan! Dan kami tidak akan menuntut apa-apa dari mereka. Kami akan lakukan tepat seperti yang engkau perintahkan!\" Lalu aku memanggil para imam dan menyuruh mereka bersumpah, bahwa mereka akan menepati janji mereka."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:13, Page:1,
-    Kor:"나는 또 나의 주머니를 털어 보이면서 말하였다. \"이 서약을 지키지 않는 사람은, 하나님이 그 집과 재산을 이렇게 다 털어 버리실 것입니다. 그런 자는 털리고 털려서, 마침내 빈털터리가 되고 말 것입니다.\" 내가 이렇게 말하자, 거기에 모인 모든 사람이 \"아멘!\" 하며 주님을 찬양하였다. 백성은 약속을 지켰다.",
+    Kor:"나는 또 나의 주머니를 털어 보이면서 말하였다. \"이 서약을 지키지 않는 사람은, 하나님이 그 집과 재산을 이렇게 다 털어 버리실 것이오. 그런 자는 털리고 털려서, 마침내 빈털터리가 되고 말 것이오.\" 내가 이렇게 말하자, 거기에 모인 모든 사람이 \"아멘!\" 하며 주를 찬양하였다. 백성은 약속을 지켰다.",
     Chn:"我也抖着胸前的衣襟，说：「凡不成就这应许的，愿　神照样抖他离开家产和他劳碌得来的，直到抖空了。」会众都说：「阿们！」又赞美耶和华。百姓就照着所应许的去行。",
     Eng:"I also shook out the folds of my robe and said, \"In this way may God shake out of his house and possessions every man who does not keep this promise. So may such a man be shaken out and emptied!\" At this the whole assembly said, \"Amen,\" and praised the LORD. And the people did as they had promised.",
     Ind:"Juga kukebas lipatan bajuku sambil berkata: \"Demikianlah setiap orang yang tidak menepati janji ini akan dikebas Allah dari rumahnya dan hasil jerih payahnya. Demikianlah ia dikebas dan menjadi hampa!\" Dan seluruh jemaah berkata: \"Amin,\" lalu memuji-muji TUHAN. Maka rakyat berbuat sesuai dengan janji itu."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:14, Page:1,
-    Kor:"<느헤미야가 녹을 받지 않다> ○나는 아닥사스다 왕 이십년에 유다 땅 총독으로 임명을 받아서, 아닥사스다 왕 삼십이년까지 십이 년 동안 총독으로 있었지만, 나와 나의 친척들은 내가 총독으로서 받아야 할 녹의 혜택을 받지 않았다.",
+    Kor:"○나는 아닥사스다 왕 이십년에 유다 땅 총독으로 임명받아서, 아닥사스다 왕 삼십이년까지 십이 년 동안 총독으로 있었지만, 나와 나의 동기들은 총독으로서 받아야 할 녹을 받지 않았다.",
     Chn:"自从我奉派作犹大地的省长，就是从亚达薛西王二十年直到三十二年，共十二年之久，我与我弟兄都没有吃省长的俸禄。",
     Eng:"Moreover, from the twentieth year of King Artaxerxes, when I was appointed to be their governor in the land of Judah, until his thirty-second year--twelve years--neither I nor my brothers ate the food allotted to the governor.",
     Ind:"Pula sejak aku diangkat sebagai bupati di tanah Yehuda, yakni dari tahun kedua puluh sampai tahun ketiga puluh dua pemerintahan Artahsasta jadi dua belas tahun lamanya, aku dan saudara-saudaraku tidak pernah mengambil pembagian yang menjadi hak bupati."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi para bupati yang sebelumnya, yang mendahului aku, sangat memberatkan beban rakyat. Bupati-bupati itu mengambil dari mereka empat puluh syikal perak sehari untuk bahan makanan dan anggur. Bahkan anak buah mereka merajalela atas rakyat. Tetapi aku tidak berbuat demikian karena takut akan Allah."
   },
   {Bible:"Nehemiah", Chapter:5, Verse:16, Page:1,
-    Kor:"나는 성벽 쌓는 일에만 힘을 기울였다. 내 아랫사람들도 뜻을 모아서, 성벽 쌓는 일에만 마음을 썼다. 그렇다고 a우리가 밭뙈기를 모은 것도 아니다.(a 히브리어 사본 가운데 일부와 칠십인역과 불가타와 시리아어역에는 '내가')",
+    Kor:"나는 성벽 쌓는 일에만 힘을 기울였다. 내 아랫사람들도 뜻을 모아서, 성벽 쌓는 일에만 마음을 썼다. 그렇다고 우리가 밭뙈기를 모은 것도 아니다.",
     Chn:"并且我恒心修造城墙，并没有置买田地；我的仆人也都聚集在那里做工。",
     Eng:"Instead, I devoted myself to the work on this wall. All my men were assembled there for the work; we did not acquire any land.",
     Ind:"Akupun memulai pekerjaan tembok itu, walaupun aku tidak memperoleh ladang. Dan semua anak buahku dikumpulkan di sana khusus untuk pekerjaan itu."

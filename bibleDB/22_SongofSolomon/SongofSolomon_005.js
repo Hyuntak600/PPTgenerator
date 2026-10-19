@@ -3,13 +3,13 @@
 BibleDB.ref("SongofSolomon",5,16);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:5, Verse:1, Page:1,
-    Kor:"<(남자)> 나의 누이, 나의 신부야! 나의 동산으로 내가 찾아왔다. 몰약과 향료를 거두고, 꿀과 꿀송이를 따먹고, 포도주와 젖도 마셨다. (친구들) 먹어라, 마셔라, 친구들아! 사랑에 흠뻑 취하여라.",
+    Kor:"(남자) 나의 누이, 나의 신부야! 나의 동산으로 내가 찾아왔다. 몰약과 향료를 거두고, 꿀과 꿀송이를 따먹고, 포도주와 젖도 마셨다. (친구들) 먹어라, 마셔라, 친구들아! 사랑에 흠뻑 취하여라.",
     Chn:"我妹子，我新妇， 我进了我的园中， 采了我的没药和香料， 吃了我的蜜房和蜂蜜， 喝了我的酒和奶。 〔耶路撒冷的众女子〕 我的朋友们，请吃！ 我所亲爱的，请喝，且多多地喝！",
     Eng:"I have come into my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb and my honey; I have drunk my wine and my milk. Eat, O friends, and drink; drink your fill, O lovers.",
     Ind:"--Aku datang ke kebunku, dinda, pengantinku, kukumpulkan mur dan rempah-rempahku, kumakan sambangku dan maduku, kuminum anggurku dan susuku. Makanlah, teman-teman, minumlah, minumlah sampai mabuk cinta!"
   },
   {Bible:"SongofSolomon", Chapter:5, Verse:2, Page:1,
-    Kor:"<꿈 (여자)> 나는 자고 있었지만, 나의 마음은 깨어 있었다. 저 소리, 나의 사랑하는 이가 문을 두드리는 소리. \"문 열어요! 나의 누이, 나의 사랑, 티없이 맑은 나의 비둘기! 머리가 온통 이슬에 젖고, 머리채가 밤이슬에 흠뻑 젖었소.\"",
+    Kor:"(여자) 나는 자고 있었지만, 나의 마음은 깨어 있었다. 저 소리, 나의 사랑하는 이가 문을 두드리는 소리. \"문 열어요! 나의 누이, 나의 사랑, 티없이 맑은 나의 비둘기! 머리가 온통 이슬에 젖고, 머리채가 밤이슬에 흠뻑 젖었소.\"",
     Chn:"我身睡卧，我心却醒。 这是我良人的声音； 他敲门说： 〔新郎〕 我的妹子，我的佳偶， 我的鸽子，我的完全人， 求你给我开门； 因我的头满了露水， 我的头发被夜露滴湿。",
     Eng:"I slept but my heart was awake. Listen! My lover is knocking: \"Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.\"",
     Ind:"Aku tidur, tetapi hatiku bangun. Dengarlah, kekasihku mengetuk. \"Bukalah pintu, dinda, manisku, merpatiku, idam-idamanku, karena kepalaku penuh embun, dan rambutku penuh tetesan embun malam!\""

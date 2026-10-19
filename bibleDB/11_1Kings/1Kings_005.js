@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",5,18);
 BibleDB.add([
   {Bible:"1Kings", Chapter:5, Verse:1, Page:1,
-    Kor:"<솔로몬이 성전 건축을 준비하다(대하 2:1-18)> 두로의 히람 왕은 평소에 늘 다윗을 좋아하였는데, 솔로몬이 그의 아버지 다윗의 뒤를 이어 왕으로 기름 부음을 받았다는 소식을 듣고, 솔로몬에게 자기의 신하들을 보냈다.",
+    Kor:"두로의 히람 왕은 평소에 늘 다윗을 좋아하였는데, 솔로몬이 그의 아버지 다윗의 뒤를 이어 왕으로 기름 부음을 받았다는 소식을 듣고, 솔로몬에게 자기의 신하들을 보냈다.",
     Chn:"泰尔王希兰，平素爱大卫；他听见以色列人膏所罗门，接续他父亲作王，就差遣臣仆来见他。",
     Eng:"When Hiram king of Tyre heard that Solomon had been anointed king to succeed his father David, he sent his envoys to Solomon, because he had always been on friendly terms with David.",
     Ind:"Hiram, raja Tirus, mengutus pegawai-pegawainya kepada Salomo, karena didengarnya, bahwa Salomo telah diurapi menjadi raja menggantikan ayahnya, sebab Hiram senantiasa bersahabat dengan Daud."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Lalu Salomo mengutus orang kepada Hiram dengan pesan:"
   },
   {Bible:"1Kings", Chapter:5, Verse:3, Page:1,
-    Kor:"\"임금님께서 아시다시피, 나의 아버지 다윗 임금은 주 하나님을 섬기면서도, 주님께서 원수들을 a그의 발바닥으로 짓밟을 수 있게 하여 주실 때까지 전쟁을 해야 했으므로, 자기의 하나님이신 주님의 이름을 찬양할 성전을 짓지 못하였습니다.(a 칠십인역과 타르굼과 불가타에는 '그(다윗)의', 마소라본문에는 '그의' 또는 '나의')",
+    Kor:"\"임금님께서 아시다시피, 나의 아버지 다윗 임금은 주 하나님을 섬기면서도, 주께서 원수들을 그의 발바닥으로 짓밟을 수 있게 하여 주실 때까지 전쟁을 해야 했으므로, 주의 이름을 찬양할 성전을 짓지 못하였습니다.",
     Chn:"「你知道我父亲大卫因四围的争战，不能为耶和华—他　神的名建殿，直等到耶和华使仇敌都服在他脚下。",
     Eng:"\"You know that because of the wars waged against my father David from all sides, he could not build a temple for the Name of the LORD his God until the LORD put his enemies under his feet.",
     Ind:"\"Engkau tahu bahwa Daud, ayahku, tidak dapat mendirikan sebuah rumah bagi nama TUHAN, Allahnya, oleh karena musuh-musuhnya memerangi dia dari segala jurusan, sampai TUHAN menyerahkan mereka ke bawah telapak kakinya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Tetapi sekarang, TUHAN, Allahku, telah mengaruniakan keamanan kepadaku di mana-mana, tidak ada lagi lawan dan tidak ada lagi malapetaka menimpa."
   },
   {Bible:"1Kings", Chapter:5, Verse:5, Page:1,
-    Kor:"이제 나는 주님께서 나의 아버지 다윗 임금에게 '내가 네 왕위에 너를 대신하여 오르게 할 네 아들이, 내 이름을 기릴 성전을 지을 것이다' 하고 말씀하신 대로, 주 나의 하나님의 이름을 기릴 성전을 지으려고 합니다.",
+    Kor:"이제 나는 주께서 나의 아버지 다윗 임금에게 '내가 네 왕위에 너를 대신하여 오르게 할 네 아들이, 내 이름을 기릴 성전을 지을 것이다' 하고 말씀하신 대로, 주 나의 하나님의 이름을 기릴 성전을 지으려고 합니다.",
     Chn:"我定意要为耶和华—我　神的名建殿，是照耶和华应许我父亲大卫的话说：『我必使你儿子接续你坐你的位，他必为我的名建殿。』",
     Eng:"I intend, therefore, to build a temple for the Name of the LORD my God, as the LORD told my father David, when he said, 'Your son whom I will put on the throne in your place will build the temple for my Name.'",
     Ind:"Dan ketahuilah, aku berpikir-pikir hendak mendirikan sebuah rumah bagi nama TUHAN, Allahku, seperti yang dijanjikan TUHAN kepada Daud, ayahku, demikian: Anakmu yang hendak Kududukkan nanti di atas takhtamu menggantikan engkau, dialah yang akan mendirikan rumah itu bagi nama-Ku."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu, perintahkanlah orang menebang bagiku pohon-pohon aras dari gunung Libanon, dan biarlah hamba-hambaku membantu hamba-hambamu, dan upah hamba-hambamu akan kubayar kepadamu seberapa juga kauminta, sebab engkau tahu, bahwa di antara kami tidak ada seorangpun yang pandai menebang pohon sama seperti orang Sidon.\""
   },
   {Bible:"1Kings", Chapter:5, Verse:7, Page:1,
-    Kor:"○히람이 솔로몬의 말을 전하여 듣고, 크게 기뻐하면서, 이렇게 말하였다. \"오늘 다윗에게 이 큰 백성을 다스릴 지혜로운 아들을 주신 주님께 찬양을 드리자.\"",
+    Kor:"○히람이 솔로몬의 말을 전하여 듣고, 크게 기뻐하면서, 이렇게 말하였다. \"오늘 다윗에게 이 큰 백성을 다스릴 지혜로운 아들을 주신 주께 찬양을 드리자.\"",
     Chn:"希兰听见所罗门的话，就甚喜悦，说：「今日应当称颂耶和华；因他赐给大卫一个有智慧的儿子，治理这众多的民。」",
     Eng:"When Hiram heard Solomon's message, he was greatly pleased and said, \"Praise be to the LORD today, for he has given David a wise son to rule over this great nation.\"",
     Ind:"Maka segera sesudah Hiram mendengar pesan dari Salomo itu, ia sangat bersukacita serta berkata: \"Terpujilah TUHAN pada hari ini, karena Ia telah memberikan kepada Daud seorang anak yang bijaksana untuk mengepalai bangsa yang besar ini.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lalu Hiram mengutus orang kepada Salomo mengatakan: \"Aku telah mendengar pesan yang kausuruh sampaikan kepadaku. Tentang kayu aras dan kayu sanobar aku akan melakukan segala yang kaukehendaki."
   },
   {Bible:"1Kings", Chapter:5, Verse:9, Page:1,
-    Kor:"나의 종들이 레바논에서부터 바다에까지 나무를 운반하고, 바다에 뗏목으로 띄워서, 임금님께서 나에게 말씀하신 곳까지 보내고, 그 곳에서 그 나무를 풀어 놓을 것입니다. 그러면 임금님께서는 끌어올리기만 하시면 됩니다. 그리고 그 값으로 내가 바라는 것은, 나의 왕실에서 쓸 먹거리를 제공하여 주시는 것입니다.\"",
+    Kor:"나의 종들이 레바논에서부터 바다에까지 나무를 운반하고, 바다에 뗏목으로 띄워서, 임금님께서 나에게 말씀하신 곳까지 보내고, 그 곳에서 그 나무를 풀어 놓을 것입니다. 그러면 임금님께서는 끌어올리기만 하시면 됩니다. 그리고 그 값으로 내가 바라는 것은, 나의 왕실에서 쓸 먹을거리를 제공하여 주시는 것입니다.\"",
     Chn:"我的仆人必将这木料从黎巴嫩运到海里，扎成筏子，浮海运到你所指定我的地方，在那里拆开，你就可以收取；你也要成全我的心愿，将食物给我的家。」",
     Eng:"My men will haul them down from Lebanon to the sea, and I will float them in rafts by sea to the place you specify. There I will separate them and you can take them away. And you are to grant my wish by providing food for my royal household.\"",
     Ind:"Hamba-hambaku akan membawanya turun dari gunung Libanon ke laut dan aku akan mengikatnya menjadi rakit-rakit di laut untuk dibawa sampai ke tempat yang akan kautunjukkan kepadaku; kemudian akan kusuruh bongkar semuanya di sana, sehingga engkau dapat mengangkutnya. Sementara itu engkau hendaknya menyediakan makanan bagi seisi istanaku seberapa yang kukehendaki.\""
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Demikianlah Hiram memberikan kayu aras dan kayu sanobar kepada Salomo seberapa yang dikehendakinya."
   },
   {Bible:"1Kings", Chapter:5, Verse:11, Page:1,
-    Kor:"솔로몬은 히람에게, 왕실에서 쓸 먹거리로, 밀 이만 섬과 짜낸 기름 b스무 섬을 보내 주었다. 솔로몬은 해마다 히람에게 이렇게 하였다.(b 칠십인역에는 '이만'(대하 2:10에서도))",
+    Kor:"솔로몬은 히람에게, 왕실에서 쓸 먹을거리로, 밀 이만 섬과 짜낸 기름 스무 섬을 보내 주었다. 솔로몬은 해마다 히람에게 이렇게 하였다.",
     Chn:"所罗门给希兰麦子二万歌珥，清油二十歌珥，作他家的食物。所罗门每年都是这样给希兰。",
     Eng:"and Solomon gave Hiram twenty thousand cors of wheat as food for his household, in addition to twenty thousand baths of pressed olive oil. Solomon continued to do this for Hiram year after year.",
     Ind:"Lalu Salomo memberikan kepada Hiram dua puluh ribu kor gandum, bahan makanan bagi seisi istananya dan dua puluh kor minyak tumbuk; demikianlah diberikan Salomo kepada Hiram tahun demi tahun."
   },
   {Bible:"1Kings", Chapter:5, Verse:12, Page:1,
-    Kor:"주님께서는, 약속하신 그 말씀대로, 솔로몬에게 지혜를 주셔서, 히람과 솔로몬 사이에는 평화가 있었다. 그리고 그 둘은 조약도 맺었다.",
+    Kor:"주께서는, 약속하신 그 말씀대로, 솔로몬에게 지혜를 주셔서, 히람과 솔로몬 사이에는 평화가 있었다. 그리고 그 둘은 조약도 맺었다.",
     Chn:"耶和华照着所应许的赐智慧给所罗门。希兰与所罗门和好，彼此立约。",
     Eng:"The LORD gave Solomon wisdom, just as he had promised him. There were peaceful relations between Hiram and Solomon, and the two of them made a treaty.",
     Ind:"Dan TUHAN memberikan hikmat kepada Salomo seperti yang dijanjikan-Nya kepadanya; maka damaipun ada antara Hiram dan Salomo, lalu mereka berdua mengadakan perjanjian."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lagipula Salomo mempunyai tujuh puluh ribu kuli dan delapan puluh ribu tukang pahat di pegunungan,"
   },
   {Bible:"1Kings", Chapter:5, Verse:16, Page:1,
-    Kor:"그 밖에 작업을 감독하는 솔로몬의 관리 가운데는 책임자만 해도 c삼천삼백 명이 있었다. 그들은 공사장에서 노동하는 사람을 통솔하였다.(c 칠십인역에는 '삼천육백'(대하 2:2, 18에서도))",
+    Kor:"그 밖에 작업을 감독하는 솔로몬의 관리 가운데는 책임자만 해도 삼천삼백 명이 있었다. 그들은 공사장에서 노동하는 사람을 통솔하였다.",
     Chn:"此外，所罗门用三千三百督工的，监管工人。",
     Eng:"as well as thirty-three hundred foremen who supervised the project and directed the workmen.",
     Ind:"belum terhitung para mandur kepala Salomo yang mengepalai pekerjaan itu, yakni tiga ribu tiga ratus orang banyaknya, yang mengawasi rakyat yang mengerjakan pekerjaan itu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Dan raja memerintahkan supaya mereka melinggis batu yang besar, batu yang mahal-mahal untuk membuat dasar rumah itu dari batu pahat."
   },
   {Bible:"1Kings", Chapter:5, Verse:18, Page:1,
-    Kor:"그리하여 솔로몬의 건축자들과 히람의 건축자들과 d그발 사람들은 돌을 다듬었고, 성전을 건축하는 데 쓸 목재와 석재를 준비하였다.(d 곧 비블로스)",
+    Kor:"그리하여 솔로몬의 건축자들과 히람의 건축자들과 그발 사람들은 돌을 다듬었고, 성전을 건축하는 데 쓸 목재와 석재를 준비하였다.",
     Chn:"所罗门的匠人和希兰的匠人，并迦巴勒人，都将石头凿好，预备木料和石头建殿。",
     Eng:"The craftsmen of Solomon and Hiram and the men of Gebal cut and prepared the timber and stone for the building of the temple.",
     Ind:"Maka tukang-tukang Salomo dan tukang-tukang Hiram serta orang-orang Gebal memahat dan menyediakan kayu dan batu untuk mendirikan rumah itu."

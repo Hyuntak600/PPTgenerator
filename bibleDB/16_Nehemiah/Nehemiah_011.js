@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",11,36);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:11, Verse:1, Page:1,
-    Kor:"<예루살렘에 자리를 잡은 백성들> 백성의 지도자들은 예루살렘에 자리잡았다. 나머지 백성은 주사위를 던져서, 십분의 일은 거룩한 성 예루살렘에서 살게 하고, 십분의 구는 저마다 자기의 성읍에서 살게 하였다.",
+    Kor:"백성의 지도자들은 예루살렘에 자리잡았다. 나머지 백성은 주사위를 던져서, 십분의 일은 거룩한 성 예루살렘에서 살게 하고, 십분의 구는 저마다 자기의 성읍에서 살게 하였다.",
     Chn:"百姓的首领住在耶路撒冷。其余的百姓掣签，每十人中使一人来住在圣城耶路撒冷，那九人住在别的城邑。",
     Eng:"Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of every ten to live in Jerusalem, the holy city, while the remaining nine were to stay in their own towns.",
     Ind:"Para pemimpin bangsa menetap di Yerusalem, sedang orang-orang lain membuang undi untuk menentukan satu dari sepuluh orang yang harus menetap di Yerusalem, kota yang kudus itu, sedang yang sembilan orang lagi tinggal di kota-kota yang lain."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Orang-orang memuji setiap orang yang rela menetap di Yerusalem."
   },
   {Bible:"Nehemiah", Chapter:11, Verse:3, Page:1,
-    Kor:"○예루살렘에 자리를 잡은 지방 지도자들은 다음과 같다. 다른 이스라엘 사람들 곧 제사장과 레위 사람과 성전 막일꾼과 솔로몬을 섬기던 종의 자손은, 각자가 물려받은 땅인 유다 여러 성읍에서 살고,",
+    Kor:"○예루살렘에 자리를 잡은 지방 지도자들은 다음과 같다. 다른 이스라엘 사람들, 곧 제사장과 레위 사람과 성전 막일꾼과 솔로몬을 섬기던 종의 자손은 각자가 물려받은 땅인 유다 여러 성읍에서 살고,",
     Chn:"以色列人、祭司、利未人、尼提宁，和所罗门仆人的后裔都住在犹大城邑，各在自己的地业中。本省的首领住在耶路撒冷的记在下面：",
     Eng:"These are the provincial leaders who settled in Jerusalem (now some Israelites, priests, Levites, temple servants and descendants of Solomon's servants lived in the towns of Judah, each on his own property in the various towns,",
     Ind:"Inilah kepala-kepala propinsi Yehuda yang menetap di Yerusalem, sedang di kota-kota di Yehuda setiap orang, yakni orang-orang Israel awam, para imam, orang-orang Lewi, para budak di bait Allah dan keturunan para hamba Salomo, tinggal di tanah miliknya, di kotanya sendiri."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"dan saudara-saudaranya, kepala-kepala kaum keluarga: dua ratus empat puluh dua orang. Dan Amasai bin Asareel bin Ahzai bin Mesilemot bin Imer,"
   },
   {Bible:"Nehemiah", Chapter:11, Verse:14, Page:1,
-    Kor:"큰 용사들인 a그들의 친족은 모두 백이십팔 명이다. 그들의 우두머리는 하그돌림의 아들 삽디엘이다.(a 칠십인역에는 '그의')",
+    Kor:"큰 용사들인 그들의 친족은 모두 백이십팔 명이다. 그들의 우두머리는 하그돌림의 아들 삽디엘이다.",
     Chn:"还有他们弟兄、大能的勇士共一百二十八名。哈基多琳的儿子撒巴第业是他们的长官。",
     Eng:"and his associates, who were able men--128. Their chief officer was Zabdiel son of Haggedolim.",
     Ind:"dan saudara-saudara mereka, pahlawan-pahlawan yang gagah perkasa, seratus dua puluh delapan orang dengan Zabdiel bin Gedolim sebagai pengawas mereka."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Pula Sabetai dan Yozabad, kepala-kepala orang-orang Lewi, yang mengawasi pekerjaan di luar rumah Allah."
   },
   {Bible:"Nehemiah", Chapter:11, Verse:17, Page:1,
-    Kor:"또 맛다니야가 있다. 그의 아버지는 미가요, 그 윗대는 삽디요, 그 윗대는 아삽이다. 그는 감사의 찬송과 기도를 인도하는 지휘자이다. 그의 형제들 가운데서 박부갸가 버금가는 지휘자가 되었다. 또 압다가 있다. 그의 아버지는 삼무아요, 그 윗대는 갈랄이요, 그 윗대는 여두둔이다.",
+    Kor:"또 맛다냐가 있다. 그의 아버지는 미가요, 그 윗대는 삽디요, 그 윗대는 아삽이다. 그는 감사의 찬송과 기도를 인도하는 지휘자이다. 그의 형제들 가운데서 박부갸가 버금가는 지휘자가 되었다. 또 압다가 있다. 그의 아버지는 삼무아요, 그 윗대는 갈랄이요, 그 윗대는 여두둔이다.",
     Chn:"祈祷的时候，为称谢领首的是米迦的儿子玛他尼。米迦是撒底的儿子；撒底是亚萨的儿子；又有玛他尼弟兄中的八布迦为副。还有沙母亚的儿子押大。沙母亚是加拉的儿子；加拉是耶杜顿的儿子。",
     Eng:"Mattaniah son of Mica, the son of Zabdi, the son of Asaph, the director who led in thanksgiving and prayer; Bakbukiah, second among his associates; and Abda son of Shammua, the son of Galal, the son of Jeduthun.",
     Ind:"Lalu Matanya bin Mikha bin Zabdi bin Asaf, pemimpin yang mengangkat nyanyian syukur dalam doa, dan Bakbukya, orang kedua di antara saudara-saudaranya, dan Abda bin Samua bin Galal bin Yedutun."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Tetapi para budak di bait Allah tinggal di Ofel. Ziha dan Gispa adalah pemimpin para budak di bait Allah itu."
   },
   {Bible:"Nehemiah", Chapter:11, Verse:22, Page:1,
-    Kor:"○예루살렘에 자리를 잡은 레위 사람들의 우두머리는 웃시이다. 그의 아버지는 바니요, 그 윗대는 하사뱌요, 그 윗대는 맛다니야요, 그 윗대는 미가이다. 웃시는 하나님의 성전에서 예배드릴 때에 노래를 맡은 아삽의 자손 가운데 한 사람이다.",
+    Kor:"○예루살렘에 자리를 잡은 레위 사람들의 우두머리는 웃시이다. 그의 아버지는 바니요, 그 윗대는 하사뱌요, 그 윗대는 맛다냐요, 그 윗대는 미가이다. 웃시는 하나님의 성전에서 예배드릴 때에 노래를 맡은 아삽의 자손 가운데 한 사람이다.",
     Chn:"在耶路撒冷、利未人的长官，管理　神殿事务的是歌唱者亚萨的子孙、巴尼的儿子乌西。巴尼是哈沙比雅的儿子；哈沙比雅是玛他尼的儿子；玛他尼是米迦的儿子。",
     Eng:"The chief officer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. Uzzi was one of Asaph's descendants, who were the singers responsible for the service of the house of God.",
     Ind:"Pengawas orang-orang Lewi di Yerusalem adalah Uzi bin Bani bin Hasabya bin Matanya bin Mikha dari bani Asaf, yakni para penyanyi yang menyanyi sementara berlangsung kebaktian di rumah Allah."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Petahya bin Mesezabeel dari bani Zerah bin Yehuda diperbantukan kepada raja untuk segala urusan mengenai bangsa itu."
   },
   {Bible:"Nehemiah", Chapter:11, Verse:25, Page:1,
-    Kor:"<마을과 성읍에 자리를 잡은 백성들> ○마을과 거기에 딸린 들판은 이러하다. 유다 자손 가운데서 더러는 기럇아르바와 거기에 딸린 촌락들과, 디본과 거기에 딸린 촌락들과, 여갑스엘과 거기에 딸린 마을들에 자리를 잡고,",
+    Kor:"○마을과 거기에 딸린 들판은 이러하다. 유다 자손 가운데서 더러는 기럇아바와 거기에 딸린 촌락들과, 디본과 거기에 딸린 촌락들과, 여갑스엘과 거기에 딸린 마을들에 자리를 잡고,",
     Chn:"至于村庄和属村庄的田地，有犹大人住在基列·亚巴和属基列·亚巴的乡村；底本和属底本的乡村；叶甲薛和属叶甲薛的村庄；",
     Eng:"As for the villages with their fields, some of the people of Judah lived in Kiriath Arba and its surrounding settlements, in Dibon and its settlements, in Jekabzeel and its villages,",
     Ind:"Tentang tempat-tempat kediaman di daerah perladangan, sebagian dari bani Yehuda tinggal di Kiryat-Arba dan segala anak kotanya, di Dibon dan segala anak kotanya dan di Yekabzeel dan desa-desanya;"

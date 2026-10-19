@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",1,27);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:1, Verse:1, Page:1,
-    Kor:"<사울이 죽었다는 소식을 다윗이 듣다> 사울이 죽은 뒤에, 다윗이 아말렉을 치고, 시글락으로 돌아와서 이틀을 지냈다.",
+    Kor:"사울이 죽은 뒤에, 다윗이 아말렉을 치고, 시글락으로 돌아와서, 이틀을 지냈다.",
     Chn:"扫罗死后，大卫击杀亚玛力人回来，在洗革拉住了两天。",
     Eng:"After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.",
     Ind:"Setelah Saul mati, dan ketika Daud kembali sesudah memukul kalah orang Amalek dan tinggal dua hari di Ziklag,"
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Aku datang ke dekatnya dan membunuh dia, sebab aku tahu, ia tidak dapat hidup terus setelah jatuh. Aku mengambil jejamang yang ada di kepalanya, dan gelang yang ada pada lengannya, dan inilah dia kubawa kepada tuanku.\""
   },
   {Bible:"2Samuel", Chapter:1, Verse:11, Page:1,
-    Kor:"○그러자 다윗이 슬픔을 억누르지 못하여, 자기의 옷을 잡아 찢었고, 그와 같이 있던 사람들도 모두 그렇게 하였다.",
+    Kor:"그러자 다윗이 슬픔을 억누르지 못하여, 자기의 옷을 잡아 찢었고, 그와 같이 있던 사람들도 모두 그렇게 하였다.",
     Chn:"大卫就撕裂衣服，跟随他的人也是如此，",
     Eng:"Then David and all the men with him took hold of their clothes and tore them.",
     Ind:"Lalu Daud memegang pakaiannya dan mengoyakkannya; dan semua orang yang bersama-sama dengan dia berbuat demikian juga."
   },
   {Bible:"2Samuel", Chapter:1, Verse:12, Page:1,
-    Kor:"그리고 그들은, 사울과 그의 아들 요나단과 주님의 백성 이스라엘 가문이 칼에 맞아 쓰러진 것을 슬퍼하면서, 해가 질 때까지 울며 금식하였다.",
+    Kor:"그리고 그들은, 사울과 그의 아들 요나단과 주의 백성 이스라엘 가문이 칼에 맞아 쓰러진 것을 슬퍼하면서, 해가 질 때까지 울며 금식하였다.",
     Chn:"而且悲哀哭号，禁食到晚上，是因扫罗和他儿子约拿单，并耶和华的民以色列家的人，倒在刀下。",
     Eng:"They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the LORD and the house of Israel, because they had fallen by the sword.",
     Ind:"Dan mereka meratap, menangis dan berpuasa sampai matahari terbenam karena Saul, karena Yonatan, anaknya, karena umat TUHAN dan karena kaum Israel, sebab mereka telah gugur oleh pedang."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Kemudian bertanyalah Daud kepada orang muda yang membawa kabar itu kepadanya: \"Asalmu dari mana?\" Jawabnya: \"Aku ini anak perantau, orang Amalek.\""
   },
   {Bible:"2Samuel", Chapter:1, Verse:14, Page:1,
-    Kor:"다윗이 그에게 호통을 쳤다. \"네가 어떻게 감히 겁도 없이 손을 들어서, 주님께서 기름을 부어서 세우신 분을 살해하였느냐?\"",
+    Kor:"다윗이 그에게 호통을 쳤다. \"네가 어떻게 감히 겁도 없이 손을 들어서, 주께서 기름을 부어서 세우신 분을 살해하였느냐?\"",
     Chn:"大卫说：「你伸手杀害耶和华的受膏者，怎么不畏惧呢？」",
     Eng:"David asked him, \"Why were you not afraid to lift your hand to destroy the LORD'S anointed?\"",
     Ind:"Kemudian berkatalah Daud kepadanya: \"Bagaimana? Tidakkah engkau segan mengangkat tanganmu memusnahkan orang yang diurapi TUHAN?\""
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Lalu Daud memanggil salah seorang dari anak buahnya dan berkata: \"Ke mari, paranglah dia.\" Orang itu memarangnya, sehingga mati."
   },
   {Bible:"2Samuel", Chapter:1, Verse:16, Page:1,
-    Kor:"그 때에 다윗이 죽어 가는 그를 두고, 이렇게 말하였다. \"네가 죽는 것은 너의 탓이다. 네가 너의 입으로 '주님께서 기름을 부어서 세우신 분을 제가 죽였습니다' 하고 너의 죄를 시인하였다.\"",
+    Kor:"그 때에 다윗이 죽어 가는 그를 두고, 이렇게 말하였다. \"네가 죽는 것은 너의 탓이다. 네가 너의 입으로 '주께서 기름을 부어서 세우신 분을 제가 죽였습니다' 하고 너의 죄를 시인하였다.\"",
     Chn:"大卫对他说：「你流人血的罪归到自己的头上，因为你亲口作见证说：『我杀了耶和华的受膏者。』」少年人就把他杀了。",
     Eng:"For David had said to him, \"Your blood be on your own head. Your own mouth testified against you when you said, 'I killed the LORD'S anointed.'\"",
     Ind:"Dan Daud berkata kepadanya: \"Kautanggung sendiri darahmu, sebab mulutmulah yang menjadi saksi menentang engkau, karena berkata: Aku telah membunuh orang yang diurapi TUHAN.\""
   },
   {Bible:"2Samuel", Chapter:1, Verse:17, Page:1,
-    Kor:"<다윗이 사울과 요나단을 두고 지은 조가> ○다윗이 사울과 그의 아들 요나단의 죽음을 슬퍼하여, 조가를 지어서 부르고,",
+    Kor:"○다윗이 사울과 그의 아들 요나단의 죽음을 슬퍼하여, 조가를 지어서 부르고,",
     Chn:"大卫作哀歌，吊扫罗和他儿子约拿单，",
     Eng:"David took up this lament concerning Saul and his son Jonathan,",
     Ind:"Daud menyanyikan nyanyian ratapan ini karena Saul dan Yonatan, anaknya,"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"dan ia memberi perintah untuk mengajarkan nyanyian ini kepada bani Yehuda; itu ada tertulis dalam Kitab Orang Jujur."
   },
   {Bible:"2Samuel", Chapter:1, Verse:19, Page:1,
-    Kor:"이스라엘아, a우리의 지도자들이 산 위에서 죽었다. 가장 용감한 우리의 군인들이 언덕에서 쓰러졌다. (a 히, '너의 영광이 산 위에 누워 있다')",
+    Kor:"이스라엘아, 우리의 지도자들이 산 위에서 죽었다. 가장 용감한 우리의 군인들이 언덕에서 쓰러졌다.",
     Chn:"歌中说：以色列啊， 你尊荣者在山上被杀！ 大英雄何竟死亡！",
     Eng:"\"Your glory, O Israel, lies slain on your heights. How the mighty have fallen!",
     Ind:"Kepermaianmu, hai Israel, mati terbunuh di bukit-bukitmu! Betapa gugur para pahlawan!"

@@ -3,7 +3,7 @@
 BibleDB.ref("SongofSolomon",3,11);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:3, Verse:1, Page:1,
-    Kor:"<아름다운 꿈(여자)> 나는 잠자리에서 밤새도록 사랑하는 나의 임을 찾았지만, 아무리 찾아도 그를 만나지 못하였다.",
+    Kor:"(여자) 나는 잠자리에서 밤새도록 사랑하는 나의 임을 찾았지만, 아무리 찾아도 그를 만나지 못하였다.",
     Chn:"我夜间躺卧在床上， 寻找我心所爱的； 我寻找他，却寻不见。",
     Eng:"All night long on my bed I looked for the one my heart loves; I looked for him but did not find him.",
     Ind:"Di atas ranjangku pada malam hari kucari jantung hatiku. Kucari, tetapi tak kutemui dia."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Kusumpahi kamu, puteri-puteri Yerusalem, demi kijang-kijang atau demi rusa-rusa betina di padang: jangan kamu membangkitkan dan menggerakkan cinta sebelum diingininya!"
   },
   {Bible:"SongofSolomon", Chapter:3, Verse:6, Page:1,
-    Kor:"<신랑이 오네> 거친 들을 헤치며, 연기 치솟듯 올라오는 저 사람은 누구인가? 몰약과 유향 냄새 풍기며, 장사꾼들이 가지고 있는 온갖 향수 냄새 풍기며 오는구나.",
+    Kor:"거친 들을 헤치며, 연기 치솟듯 올라오는 저 사람은 누구인가? 몰약과 유향 냄새 풍기며, 장사꾼들이 가지고 있는 온갖 향수 냄새 풍기며 오는구나.",
     Chn:"那从旷野上来、形状如烟柱、 以没药和乳香并商人各样香粉薰的是谁呢？",
     Eng:"Who is this coming up from the desert like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?",
     Ind:"Apakah itu yang membubung dari padang gurun seperti gumpalan-gumpalan asap tersaput dengan harum mur dan kemenyan dan bau segala macam serbuk wangi dari pedagang?"

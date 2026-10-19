@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",43,13);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:43, Verse:1, Page:1,
-    Kor:"<예레미야가 이집트로 가다> 하나님께서 그의 백성에게 지시하신 모든 말씀, 곧 그들의 하나님이신 주님께서 예레미야를 보내셔서 그들에게 이르게 하신 이 모든 말씀을, 예레미야가 온 백성에게 다 일러주었을 때에,",
+    Kor:"주 하나님께서 그의 백성에게 지시하신 모든 말씀, 곧 그들의 하나님이신 주께서 예레미야를 보내셔서 그들에게 이르게 하신 이 모든 말씀을, 예레미야가 온 백성에게 다 일러주었을 때에,",
     Chn:"耶利米向众百姓说完了耶和华—他们　神的一切话，就是耶和华—他们　神差遣他去所说的一切话。",
     Eng:"When Jeremiah finished telling the people all the words of the LORD their God--everything the LORD had sent him to tell them--",
     Ind:"Ketika Yeremia selesai mengatakan kepada seluruh rakyat segala firman TUHAN, Allah mereka, yang disuruh TUHAN, Allah mereka, disampaikannya kepada mereka, yaitu segala firman yang tersebut di atas,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"tetapi Barukh bin Neria menghasut engkau terhadap kami dengan maksud untuk menyerahkan kami ke dalam tangan orang-orang Kasdim, supaya mereka membunuh kami dan mengangkut kami ke dalam pembuangan ke Babel.\""
   },
   {Bible:"Jeremiah", Chapter:43, Verse:4, Page:1,
-    Kor:"○가레아의 아들 요하난과 모든 군지휘관과 온 백성은, 유다 땅에 머물러 살라는 주님의 말씀을 듣지 않았다.",
+    Kor:"○가레아의 아들 요하난과 모든 군지휘관과 온 백성은, 유다 땅에 머물러 살라는 주의 말씀을 듣지 않았다.",
     Chn:"于是加利亚的儿子约哈难和一切军长，并众百姓，不听从耶和华的话住在犹大地。",
     Eng:"So Johanan son of Kareah and all the army officers and all the people disobeyed the LORD'S command to stay in the land of Judah.",
     Ind:"Demikianlah Yohanan bin Kareah dan semua perwira tentara serta seluruh rakyat tidak mau mendengarkan suara TUHAN untuk tinggal di tanah Yehuda."
@@ -40,13 +40,13 @@ BibleDB.add([
     Ind:"laki-laki, perempuan, anak-anak, puteri-puteri raja dan setiap orang yang telah dibiarkan Nebuzaradan, kepala pasukan pengawal, pada Gedalya bin Ahikam bin Safan; juga nabi Yeremia dan Barukh bin Neria."
   },
   {Bible:"Jeremiah", Chapter:43, Verse:7, Page:1,
-    Kor:"이집트 땅으로 들어갔다. 이처럼 그들은 주님께 순종하지 않았다. ○그들이 다바네스에 이르렀을 때에,",
+    Kor:"이집트 땅으로 들어갔다. 이처럼 그들은 주께 순종하지 않았다. ○그들이 다바네스에 이르렀을 때에,",
     Chn:"都带入埃及地，到了答比匿。这是因他们不听从耶和华的话。",
     Eng:"So they entered Egypt in disobedience to the LORD and went as far as Tahpanhes.",
     Ind:"Lalu mereka pergi ke tanah Mesir, sebab mereka tidak mau mendengarkan suara TUHAN. Maka sampailah mereka di Tahpanhes."
   },
   {Bible:"Jeremiah", Chapter:43, Verse:8, Page:1,
-    Kor:"주님께서 예레미야에게 말씀하셨다.",
+    Kor:"주께서 예레미야에게 말씀하셨다.",
     Chn:"在答比匿，耶和华的话临到耶利米说：",
     Eng:"In Tahpanhes the word of the LORD came to Jeremiah:",
     Ind:"Kemudian datanglah firman TUHAN kepada Yeremia di Tahpanhes, bunyinya:"
@@ -58,7 +58,7 @@ BibleDB.add([
     Ind:"\"Ambillah di tanganmu batu-batu besar dan sembunyikanlah itu di tanah liat dekat pintu masuk istana Firaun di Tahpanhes di hadapan mata orang-orang Yehuda itu,"
   },
   {Bible:"Jeremiah", Chapter:43, Verse:10, Page:1,
-    Kor:"그런 다음에 너는 유다 사람들에게 이렇게 전하여라. '나 만군의 주, 이스라엘의 하나님이 말한다. 내가 사람을 보내어, 나의 종 바빌로니아 왕 느부갓네살을 데려오겠다. 그러면 그는 내가 묻어 놓은 이 돌들 위에 자기의 보좌를 차려 놓고, 그 위에 차일을 칠 것이다.",
+    Kor:"그런 다음에 너는 유다 사람들에게 이와 같이 전하여라. '나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 내가 사람을 보내어, 나의 종 바빌로니아 왕 느부갓네살을 데려오겠다. 그러면 그는 내가 묻어 놓은 이 돌들 위에 자기의 보좌를 차려 놓고, 그 위에 차일을 칠 것이다.",
     Chn:"对他们说：『万军之耶和华—以色列的　神如此说：我必召我的仆人巴比伦王尼布甲尼撒来。在所藏的石头上我要安置他的宝座；他必将光华的宝帐支搭在其上。",
     Eng:"Then say to them, 'This is what the LORD Almighty, the God of Israel, says: I will send for my servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones I have buried here; he will spread his royal canopy above them.",
     Ind:"lalu katakanlah kepada mereka: Beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, Aku mengutus orang untuk menjemput Nebukadnezar, raja Babel, hamba-Ku itu, supaya ia mendirikan takhtanya di atas batu-batu yang telah Kusuruh sembunyikan ini, dan membentangkan permadani kebesarannya di atasnya."
@@ -70,13 +70,13 @@ BibleDB.add([
     Ind:"Dan apabila ia datang, ia akan memukul tanah Mesir: Yang ke maut, ke mautlah! Yang ke tawanan, ke tawananlah! Yang ke pedang, ke pedanglah!"
   },
   {Bible:"Jeremiah", Chapter:43, Verse:12, Page:1,
-    Kor:"○그리고 a그는 이집트의 신전들에 불을 놓아서 신상들을 태우거나 전리품으로 가져 갈 것이다. 그는 마치, 목동이 자기 옷에서 벌레를 잡아내듯이 이집트 땅을 말끔히 털고, 아무런 저항도 받지 않고, 그 곳에서 평안히 떠나갈 것이다.(a 칠십인역과 시리아어역과 불가타를 따름. 히, '나는')",
+    Kor:"○그리고 그는 이집트의 신전들에 불을 놓아서 신상들을 태우거나 전리품으로 가져 갈 것이다. 그는 마치, 목동이 자기 옷에서 벌레를 잡아내듯이 이집트 땅을 말끔히 털고, 아무런 저항도 받지 않고, 그 곳에서 평안히 떠나갈 것이다.",
     Chn:"我要在埃及神的庙中使火着起，巴比伦王要将庙宇焚烧，神像掳去；他要得埃及地，好像牧人披上外衣，从那里安然而去。",
     Eng:"He will set fire to the temples of the gods of Egypt; he will burn their temples and take their gods captive. As a shepherd wraps his garment around him, so will he wrap Egypt around himself and depart from there unscathed.",
     Ind:"Ia akan menyalakan api di kuil-kuil para allah Mesir dan akan membakar atau mengangkutnya sebagai tawanan. Dan ia akan membersihkan tanah Mesir dari kutu-kutu seperti seorang gembala membersihkan pakaiannya dari kutu-kutu, kemudian ia akan pergi dari sana tanpa gangguan."
   },
   {Bible:"Jeremiah", Chapter:43, Verse:13, Page:1,
-    Kor:"그는 이집트 땅에 있는 b태양 신전의 돌기둥들을 부수고, 이집트의 신전들을 불살라 버릴 것이다.'\"(b 또는 '헬리오폴리스에 있는 돌기둥들을')",
+    Kor:"그는 이집트 땅에 있는 태양 신전의 돌기둥들을 부수고, 이집트의 신전들을 불살라 버릴 것이다.'\"",
     Chn:"他必打碎埃及地伯·示麦的柱像，用火焚烧埃及神的庙宇。』」",
     Eng:"There in the temple of the sun in Egypt he will demolish the sacred pillars and will burn down the temples of the gods of Egypt.'\"",
     Ind:"Ia akan memecahkan tugu-tugu berhala Bet-Syemes yang ada di Mesir dan akan menghanguskan kuil para allah Mesir itu dengan api.\""

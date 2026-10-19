@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",5,30);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:5, Verse:1, Page:1,
-    Kor:"<포도원 노래> 내가 사랑하는 이에게 노래를 해 주겠네. 그가 가꾸는 포도원을 노래하겠네. 내가 사랑하는 사람은 기름진 언덕에서 포도원을 가꾸고 있네.",
+    Kor:"내가 사랑하는 이에게 노래를 해 주겠네. 그가 가꾸는 포도원을 노래하겠네. 내가 사랑하는 사람은 기름진 언덕에서 포도원을 가꾸고 있네.",
     Chn:"我要为我所亲爱的唱歌， 是我所爱者的歌，论他葡萄园的事： 我所亲爱的有葡萄园在肥美的山冈上。",
     Eng:"I will sing for the one I love a song about his vineyard: My loved one had a vineyard on a fertile hillside.",
     Ind:"Aku hendak menyanyikan nyanyian tentang kekasihku, nyanyian kekasihku tentang kebun anggurnya: Kekasihku itu mempunyai kebun anggur di lereng bukit yang subur."
@@ -39,25 +39,25 @@ BibleDB.add([
     Ind:"Aku akan membuatnya ditumbuhi semak-semak, tidak dirantingi dan tidak disiangi, sehingga tumbuh puteri malu dan rumput; Aku akan memerintahkan awan-awan, supaya jangan diturunkannya hujan ke atasnya."
   },
   {Bible:"Isaiah", Chapter:5, Verse:7, Page:1,
-    Kor:"이스라엘은 만군의 주님의 포도원이고, 유다 백성은 주님께서 심으신 포도나무다. 주님께서는 그들이 선한 일 하기를 기대하셨는데, 보이는 것은 살육뿐이다. 주님께서는 그들이 옳은 일 하기를 기대하셨는데, 들리는 것은 그들에게 희생된 사람들의 울부짖음뿐이다.",
+    Kor:"이스라엘은 만군의 주의 포도원이고, 유다 백성은 주께서 심으신 포도나무다. 주께서는 그들이 선한 일 하기를 기대하셨는데, 보이는 것은 살육뿐이다. 주께서는 그들이 옳은일 하기를 기대하셨는데, 들리는 것은 그들에게 희생된 사람들의 울부짖음뿐이다.",
     Chn:"万军之耶和华的葡萄园就是以色列家； 他所喜爱的树就是犹大人。 他指望的是公平， 谁知倒有暴虐； 指望的是公义， 谁知倒有冤声。",
     Eng:"The vineyard of the LORD Almighty is the house of Israel, and the men of Judah are the garden of his delight. And he looked for justice, but saw bloodshed; for righteousness, but heard cries of distress.",
     Ind:"Sebab kebun anggur TUHAN semesta alam ialah kaum Israel, dan orang Yehuda ialah tanam-tanaman kegemaran-Nya; dinanti-Nya keadilan, tetapi hanya ada kelaliman, dinanti-Nya kebenaran tetapi hanya ada keonaran."
   },
   {Bible:"Isaiah", Chapter:5, Verse:8, Page:1,
-    Kor:"너<사람이 저지르는 악한 일> 희가, 더 차지할 곳이 없을 때까지, 집에 집을 더하고, 밭에 밭을 늘려 나가, 땅 한가운데서 홀로 살려고 하였으니, 너희에게 재앙이 닥친다!",
+    Kor:"너희가, 더 차지할 곳이 없을 때까지, 집에 집을 더하고, 밭에 밭을 늘려 나가, 땅 한가운데서 홀로 살려고 하였으니, 너희에게 재앙이 닥친다!",
     Chn:"祸哉！那些以房接房， 以地连地， 以致不留余地的， 只顾自己独居境内。",
     Eng:"Woe to you who add house to house and join field to field till no space is left and you live alone in the land.",
     Ind:"Celakalah mereka yang menyerobot rumah demi rumah dan mencekau ladang demi ladang, sehingga tidak ada lagi tempat bagi orang lain dan hanya kamu sendiri yang tinggal di dalam negeri!"
   },
   {Bible:"Isaiah", Chapter:5, Verse:9, Page:1,
-    Kor:"만군의 주님께서 나의 귀에다 말씀하셨다. \"많은 집들이 반드시 황폐해지고, 아무리 크고 좋은 집들이라도 텅 빈 흉가가 되어서, 사람 하나 거기에 살지 않을 것이다.",
+    Kor:"만군의 주께서 나의 귀에다 말씀하셨다. \"많은 집들이 반드시 황폐해지고, 아무리 크고 좋은 집들이라도 텅 빈 흉가가 되어서, 사람 하나 거기에 살지 않을 것이다.",
     Chn:"我耳闻万军之耶和华说： 必有许多又大又美的房屋 成为荒凉，无人居住。",
     Eng:"The LORD Almighty has declared in my hearing: \"Surely the great houses will become desolate, the fine mansions left without occupants.",
     Ind:"Di telingaku terdengar firman TUHAN semesta alam: \"Sesungguhnya banyak rumah akan menjadi sunyi sepi; rumah-rumah yang besar dan yang baik tidak akan ada penghuninya."
   },
   {Bible:"Isaiah", Chapter:5, Verse:10, Page:1,
-    Kor:"또한 열흘 갈이 포도원이 포도주 a한 바트밖에 내지 못하며, b한 호멜의 씨가 겨우 c한 에바밖에 내지 못할 것이다.\" (a 약 6갈론(약 22리터) b 약 12말 c 약 1말 2되)",
+    Kor:"또한 열흘 갈이 포도원이 포도주 한 바트밖에 내지 못하며, 한 호멜의 씨가 겨우 한 에바밖에 내지 못할 것이다.\"",
     Chn:"三十亩葡萄园只出一罢特酒； 一贺梅珥谷种只结一伊法粮食。",
     Eng:"A ten-acre vineyard will produce only a bath of wine, a homer of seed only an ephah of grain.\"",
     Ind:"Sebab kebun anggur yang luasnya sepuluh hari membajak akan menghasilkan hanya satu bat anggur; dan satu homer benih akan menghasilkan hanya satu efa gandum.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Celakalah mereka yang bangun pagi-pagi dan terus mencari minuman keras, dan duduk-duduk sampai malam hari, sedang badannya dihangatkan anggur!"
   },
   {Bible:"Isaiah", Chapter:5, Verse:12, Page:1,
-    Kor:"그들이, 연회에는 수금과 거문고와 소구와 피리와 포도주를 갖추었어도, 주님께서 하시는 일에는 관심이 없고, 주님께서 손수 이루시는 일도 거들떠보지를 않는다.",
+    Kor:"그들은, 연회에는 수금과 거문고와 소구와 피리와 포도주를 갖추었어도, 주께서 하시는 일에는 관심이 없고, 주께서 손수 이루시는 일도 거들떠보지를 않는다.",
     Chn:"他们在筵席上 弹琴，鼓瑟，击鼓，吹笛，饮酒， 却不顾念耶和华的作为， 也不留心他手所做的。",
     Eng:"They have harps and lyres at their banquets, tambourines and flutes and wine, but they have no regard for the deeds of the LORD, no respect for the work of his hands.",
     Ind:"Kecapi dan gambus, rebana dan suling, serta anggur terdapat dalam perjamuan-perjamuan mereka, tetapi perbuatan TUHAN tidak dipandangnya dan pekerjaan TUHAN tidak dilihatnya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sebab itu umat-Ku harus pergi ke dalam pembuangan, oleh sebab mereka tidak mengerti apa-apa; orang-orang yang mulia akan mati kelaparan, dan khalayak ramai akan menderita kehausan."
   },
   {Bible:"Isaiah", Chapter:5, Verse:14, Page:1,
-    Kor:"그러므로 d스올이 입맛을 크게 다시면서, 그 입을 한없이 벌리니, 그들의 영화와 법석거림과 떠드는 소리와 즐거워하는 소리가, 다 그 곳으로 빠져 들어갈 것이다. (d 또는 '무덤' 또는 '죽음')",
+    Kor:"그러므로 스올이 입맛을 크게 다시면서, 그 입을 한없이 벌리니, 그들의 영화와 법석거림과 떠드는 소리와 즐거워하는 소리가, 다 그 곳으로 빠져 들어갈 것이다.",
     Chn:"故此，阴间扩张其欲， 开了无限量的口； 他们的荣耀、群众、繁华， 并快乐的人都落在其中。",
     Eng:"Therefore the grave enlarges its appetite and opens its mouth without limit; into it will descend their nobles and masses with all their brawlers and revelers.",
     Ind:"Sebab itu dunia orang mati akan membuka kerongkongannya lapang-lapang dan akan mengangakan mulutnya lebar-lebar dengan tiada terhingga, sehingga lenyap ke dalamnya segala kesemarakan dan keramaian Yerusalem, segala kegaduhannya dan orang-orang yang bersukaria di kota itu."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Maka manusia akan ditundukkan, dan orang akan direndahkan, ya, orang-orang sombong akan direndahkan."
   },
   {Bible:"Isaiah", Chapter:5, Verse:16, Page:1,
-    Kor:"그러나 만군의 주님께서는 공평하셔서 높임을 받으시고, 거룩하신 하나님은 의로우셔서 거룩하신 분으로 기림을 받으실 것이다.",
+    Kor:"그러나 만군의 주께서는 공평하셔서 높임을 받으시고, 거룩하신 하나님은 의로우셔서 거룩하신 분으로 기림을 받으실 것이다.",
     Chn:"惟有万军之耶和华因公平而崇高； 圣者　神因公义显为圣。",
     Eng:"But the LORD Almighty will be exalted by his justice, and the holy God will show himself holy by his righteousness.",
     Ind:"Tetapi TUHAN semesta alam akan ternyata maha tinggi dalam keadilan-Nya, dan Allah yang maha kudus akan menyatakan kekudusan-Nya dalam kebenaran-Nya."
   },
   {Bible:"Isaiah", Chapter:5, Verse:17, Page:1,
-    Kor:"그 때에 어린 양들이 그 폐허에서 마치 초장에서처럼 풀을 뜯을 것이며, e낯선 사람들이, 망한 부자들의 밭에서 그 산물을 먹을 것이다. (e 칠십인역에는 '어린 양 떼가')",
+    Kor:"그 때에 어린 양들이 그 폐허에서 마치 초장에서처럼 풀을 뜯을 것이며, 낯선 사람들이, 망한 부자들의 밭에서 그 산물을 먹을 것이다.",
     Chn:"那时，羊羔必来吃草，如同在自己的草场； 丰肥人的荒场被游行的人吃尽。",
     Eng:"Then sheep will graze as in their own pasture; lambs will feed among the ruins of the rich.",
     Ind:"Maka domba-domba akan makan rumput di situ seperti di padangnya sendiri dan kambing-kambing akan mencari makan dalam reruntuhan gedung-gedung orang kaya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Celakalah mereka yang memancing kesalahan dengan tali kedustaan dan dosa seperti dengan tali gerobak,"
   },
   {Bible:"Isaiah", Chapter:5, Verse:19, Page:1,
-    Kor:"기껏 한다는 말이 \"하나님더러 서두르시라고 하여라. 그분이 하고자 하시는 일을 빨리 하시라고 하여라. 그래야 우리가 볼 게 아니냐. 계획을 빨리 이루시라고 하여라. 이스라엘의 거룩하신 분께서 세우신 계획이 빨리 이루어져야 우리가 그것을 알 게 아니냐!\" 하는구나.",
+    Kor:"기껏 한다는 말이 \"하나님더러 서두르시라고 하여라. 그분이 하고자 하시는 일을 빨리 하시라고 하여라. 그래야 우리가 볼 게 아니냐 계획을 빨리 이루시라고 하여라. 이스라엘의 거룩하신 분께서 세우신 계획이 빨리 이루어져야 우리가 그것을 알 게 아니냐\" 하는구나.",
     Chn:"说：任他急速行，赶快成就他的作为， 使我们看看； 任以色列圣者所谋划的临近成就， 使我们知道。",
     Eng:"to those who say, \"Let God hurry, let him hasten his work so we may see it. Let it approach, let the plan of the Holy One of Israel come, so we may know it.\"",
     Ind:"yang berkata: \"Baiklah Allah lekas-lekas dan cepat-cepat melakukan tindakan-Nya, supaya kita lihat; dan baiklah keputusan Yang Mahakudus, Allah Israel, datang mendekat, supaya kita tahu.\""
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"yang membenarkan orang fasik karena suap dan yang memungkiri hak orang benar."
   },
   {Bible:"Isaiah", Chapter:5, Verse:24, Page:1,
-    Kor:"그러므로 지푸라기가 불길에 휩싸이듯, 마른 풀이 불꽃에 타들어 가듯, 그들의 뿌리가 썩고, 꽃잎이 말라서, 티끌처럼 없어질 것이다. 그들은 만군의 주님의 율법을 버리고, 이스라엘의 거룩하신 분의 말씀을 멸시하였다.",
+    Kor:"그러므로 지푸라기가 불길에 휩싸이듯, 마른 풀이 불꽃에 타들어 가듯, 그들의 뿌리가 썩고, 꽃잎이 말라서, 티끌처럼 없어질 것이다. 그들은 만군의 주의 율법을 버리고, 이스라엘의 거룩하신 분의 말씀을 멸시하였다.",
     Chn:"火苗怎样吞灭碎秸， 干草怎样落在火焰之中， 照样，他们的根必像朽物， 他们的花必像灰尘飞腾； 因为他们厌弃万军之耶和华的训诲， 藐视以色列圣者的言语。",
     Eng:"Therefore, as tongues of fire lick up straw and as dry grass sinks down in the flames, so their roots will decay and their flowers blow away like dust; for they have rejected the law of the LORD Almighty and spurned the word of the Holy One of Israel.",
     Ind:"Sebab itu seperti lidah api memakan jerami, dan seperti rumput kering habis lenyap dalam nyala api, demikian akar-akar mereka akan menjadi busuk, dan kuntumnya akan beterbangan seperti abu, oleh karena mereka telah menolak pengajaran TUHAN semesta alam dan menista firman Yang Mahakudus, Allah Israel."
   },
   {Bible:"Isaiah", Chapter:5, Verse:25, Page:1,
-    Kor:"그러므로 주님께서 백성에게 진노하셔서 손을 들어 그들을 치시니, 산들이 진동하고, 사람의 시체가 거리 한가운데 버려진 쓰레기와 같다. 그래도 주님께서는 진노를 풀지 않으시고, 심판을 계속하시려고 여전히 손을 들고 계신다.",
+    Kor:"그러므로 주께서 백성에게 진노하셔서 손을 들어 그들을 치시니, 산들이 진동하고, 사람의 시체가 거리 한가운데 버려진 쓰레기와 같다. 그래도 주께서는 진노를 풀지 않으시고, 심판을 계속하시려고 여전히 손을 들고 계신다.",
     Chn:"所以，耶和华的怒气向他的百姓发作。 他的手伸出攻击他们，山岭就震动； 他们的尸首在街市上好像粪土。 虽然如此，他的怒气还未转消； 他的手仍伸不缩。",
     Eng:"Therefore the LORD'S anger burns against his people; his hand is raised and he strikes them down. The mountains shake, and the dead bodies are like refuse in the streets. Yet for all this, his anger is not turned away, his hand is still upraised.",
     Ind:"Sebab itu bangkitlah murka TUHAN terhadap umat-Nya, diacungkan-Nya tangan-Nya terhadap mereka dan dipukul-Nya mereka; gunung-gunung akan gemetar, dan mayat-mayat mereka akan seperti kotoran di tengah jalan. Sekalipun semuanya ini terjadi, murka-Nya belum surut, dan tangan-Nya masih teracung."
   },
   {Bible:"Isaiah", Chapter:5, Verse:26, Page:1,
-    Kor:"주님께서 깃발을 올리셔서 먼 곳의 민족들을 부르시고, 휘파람으로 그들을 땅 끝에서부터 부르신다. 그들이 빠르게 달려오고 있다.",
+    Kor:"주께서 깃발을 올리셔서 먼 곳의 민족들을 부르시고, 휘파람으로 그들을 땅 끝에서부터 부르신다. 그들이 달려오고 있다.",
     Chn:"他必竖立大旗，招远方的国民， 发嘶声叫他们从地极而来； 看哪，他们必急速奔来。",
     Eng:"He lifts up a banner for the distant nations, he whistles for those at the ends of the earth. Here they come, swiftly and speedily!",
     Ind:"Ia akan melambaikan panji-panji kepada bangsa yang dari jauh, dan akan bersuit memanggil mereka dari ujung bumi; sesungguhnya mereka akan datang dengan segera, dengan cepat!"

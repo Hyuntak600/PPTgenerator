@@ -3,19 +3,19 @@
 BibleDB.ref("Psalms",102,28);
 BibleDB.add([
   {Bible:"Psalms", Chapter:102, Verse:1, Page:1,
-    Kor:"<가련한 사람이 고난을 받을 때에, 자신의 고민을 주님께 토로하는 기도> 주님, 내 기도를 들어 주시고, 내 부르짖음이 주님께 이르게 해주십시오.",
+    Kor:"주님, 내 기도를 들어 주시고, 내 부르짖음이 주님께 이르게 해주십시오.",
     Chn:"困苦人发昏的时候，在耶和华面前吐露苦情的祷告。 耶和华啊，求你听我的祷告， 容我的呼求达到你面前！",
     Eng:"Hear my prayer, O LORD; let my cry for help come to you.",
     Ind:"Doa seorang sengsara, pada waktu ia lemah lesu dan mencurahkan pengaduhannya ke hadapan TUHAN. (102-2) TUHAN, dengarkanlah doaku, dan biarlah teriakku minta tolong sampai kepada-Mu."
   },
   {Bible:"Psalms", Chapter:102, Verse:2, Page:1,
-    Kor:"내가 고난을 받을 때에, 주님의 얼굴을 숨기지 마십시오. 내게 주님의 귀를 기울여 주십시오. 내가 부르짖을 때에, 속히 응답하여 주십시오.",
+    Kor:"내가 고난을 받을 때에, 주님의 얼굴을 숨기지 마십시오. 내게 귀를 기울여 주십시오. 내가 부르짖을 때에, 속히 응답하여 주십시오.",
     Chn:"我在急难的日子，求你向我侧耳； 不要向我掩面！ 我呼求的日子，求你快快应允我！",
     Eng:"Do not hide your face from me when I am in distress. Turn your ear to me; when I call, answer me quickly.",
     Ind:"(102-3) Janganlah sembunyikan wajah-Mu terhadap aku pada hari aku tersesak. Sendengkanlah telinga-Mu kepadaku; pada hari aku berseru, segeralah menjawab aku!"
   },
   {Bible:"Psalms", Chapter:102, Verse:3, Page:1,
-    Kor:"아, 내 날은 연기처럼 사라지고, 내 뼈는 화로처럼 달아올랐습니다.",
+    Kor:"아, 내 날은 연기처럼 사라지고, 내 뼈는 화석처럼 새까맣게 타 버렸습니다.",
     Chn:"因为，我的年日如烟云消灭； 我的骨头如火把烧着。",
     Eng:"For my days vanish like smoke; my bones burn like glowing embers.",
     Ind:"(102-4) Sebab hari-hariku habis seperti asap, tulang-tulangku membara seperti perapian."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"(102-5) Hatiku terpukul dan layu seperti rumput, sehingga aku lupa makan rotiku."
   },
   {Bible:"Psalms", Chapter:102, Verse:5, Page:1,
-    Kor:"신음하다 지쳐서, 나는 뼈와 살이 달라붙었습니다.",
+    Kor:"신음에 지쳐서, 나는 뼈와 살이 달라붙었습니다.",
     Chn:"因我唉哼的声音， 我的肉紧贴骨头。",
     Eng:"Because of my loud groaning I am reduced to skin and bones.",
     Ind:"(102-6) Oleh sebab keluhanku yang nyaring, aku tinggal tulang-belulang."
   },
   {Bible:"Psalms", Chapter:102, Verse:6, Page:1,
-    Kor:"나는 광야의 올빼미와도 같고, 폐허 더미에 사는 부엉이와도 같이 되었습니다.",
+    Kor:"나는 광야의 올빼미와도 같고, 메마른 땅의 부엉이와도 같이 되었습니다.",
     Chn:"我如同旷野的鹈鹕； 我好像荒场的鸮鸟。",
     Eng:"I am like a desert owl, like an owl among the ruins.",
     Ind:"(102-7) Aku sudah menyerupai burung undan di padang gurun, sudah menjadi seperti burung ponggok pada reruntuhan."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"(102-8) Aku tak bisa tidur dan sudah menjadi seperti burung terpencil di atas sotoh."
   },
   {Bible:"Psalms", Chapter:102, Verse:8, Page:1,
-    Kor:"원수들이 종일 나를 모욕하고, 나를 비웃는 자들이 내 이름을 불러 저주합니다.",
+    Kor:"원수들이 종일 나를 모욕하고, 나를 비웃는 자들이 나에게 저주의 맹세를 합니다.",
     Chn:"我的仇敌终日辱骂我； 向我猖狂的人指着我赌咒。",
     Eng:"All day long my enemies taunt me; those who rail against me use my name as a curse.",
     Ind:"(102-9) Sepanjang hari aku dicela oleh musuh-musuhku, orang-orang yang mempermainkan aku menyumpah dengan menyebut namaku."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"(102-10) Sebab aku makan abu seperti roti, dan mencampur minumanku dengan tangisan,"
   },
   {Bible:"Psalms", Chapter:102, Verse:10, Page:1,
-    Kor:"주님께서 저주와 진노로 나를 들어서 던지시니,",
+    Kor:"주께서 저주와 진노로 나를 들어서 던지시니,",
     Chn:"这都因你的恼恨和忿怒； 你把我拾起来，又把我摔下去。",
     Eng:"because of your great wrath, for you have taken me up and thrown me aside.",
     Ind:"(102-11) oleh karena marah-Mu dan geram-Mu, sebab Engkau telah mengangkat aku dan melemparkan aku."
@@ -69,49 +69,49 @@ BibleDB.add([
     Ind:"(102-12) Hari-hariku seperti bayang-bayang memanjang, dan aku sendiri layu seperti rumput."
   },
   {Bible:"Psalms", Chapter:102, Verse:12, Page:1,
-    Kor:"그러나 주님, 주님은 영원히 보좌에서 다스리시며, 주님의 이름은 대대로 찬양을 받을 것입니다.",
+    Kor:"그러나 주님, 주님은 영원토록 왕위에 계시며, 주의 이름은 대대로 찬양을 받을 것입니다.",
     Chn:"惟你—耶和华必存到永远； 你可记念的名也存到万代。",
     Eng:"But you, O LORD, sit enthroned forever; your renown endures through all generations.",
     Ind:"(102-13) Tetapi Engkau, ya TUHAN, bersemayam untuk selama-lamanya, dan nama-Mu tetap turun-temurun."
   },
   {Bible:"Psalms", Chapter:102, Verse:13, Page:1,
-    Kor:"주님, 일어나셔서 시온을 긍휼히 여겨 주십시오. 때가 왔습니다. 시온에 은혜를 베푸실 때가 왔습니다.",
+    Kor:"주께서 일어나셔서 시온을 긍휼히 여겨 주십시오. 때가 왔습니다. 시온에 은혜를 베푸실 때가 왔습니다.",
     Chn:"你必起来怜恤锡安， 因现在是可怜她的时候， 日期已经到了。",
     Eng:"You will arise and have compassion on Zion, for it is time to show favor to her; the appointed time has come.",
     Ind:"(102-14) Engkau sendiri akan bangun, akan menyayangi Sion, sebab sudah waktunya untuk mengasihaninya, sudah tiba saatnya."
   },
   {Bible:"Psalms", Chapter:102, Verse:14, Page:1,
-    Kor:"주님의 종들은 시온의 돌들만 보아도 즐겁습니다. 그 티끌에도 정을 느낍니다.",
+    Kor:"주의 종들은 시온의 돌들만 보아도 즐겁습니다. 그 티끌에도 정을 느낍니다.",
     Chn:"你的仆人原来喜悦她的石头， 可怜她的尘土。",
     Eng:"For her stones are dear to your servants; her very dust moves them to pity.",
     Ind:"(102-15) Sebab hamba-hamba-Mu sayang kepada batu-batunya, dan merasa kasihan akan debunya."
   },
   {Bible:"Psalms", Chapter:102, Verse:15, Page:1,
-    Kor:"뭇 나라가 주님의 이름을 두려워하고, 이 땅의 왕들이 주님의 영광을 두려워할 것입니다.",
+    Kor:"뭇 나라가 주의 이름을 두려워하고, 이 땅의 왕들이 주의 영광을 두려워할 것입니다.",
     Chn:"列国要敬畏耶和华的名； 世上诸王都敬畏你的荣耀。",
     Eng:"The nations will fear the name of the LORD, all the kings of the earth will revere your glory.",
     Ind:"(102-16) Maka bangsa-bangsa menjadi takut akan nama TUHAN, dan semua raja bumi akan kemuliaan-Mu,"
   },
   {Bible:"Psalms", Chapter:102, Verse:16, Page:1,
-    Kor:"주님께서 시온을 다시 세우시고, 그 영광 가운데 나타나실 것이기 때문입니다.",
+    Kor:"주께서 시온을 다시 세우시고, 그 영광 가운데 나타나실 것입니다.",
     Chn:"因为耶和华建造了锡安， 在他荣耀里显现。",
     Eng:"For the LORD will rebuild Zion and appear in his glory.",
     Ind:"(102-17) bila TUHAN sudah membangun Sion, sudah menampakkan diri dalam kemuliaan-Nya,"
   },
   {Bible:"Psalms", Chapter:102, Verse:17, Page:1,
-    Kor:"헐벗은 사람의 기도를 들으시며, 그들의 기도를 업신여기지 않을 것입니다.",
+    Kor:"버림받았던 사람의 기도를 들으시며, 그들의 기도에 귀를 기울이실 것입니다.",
     Chn:"他垂听穷人的祷告， 并不藐视他们的祈求。",
     Eng:"He will respond to the prayer of the destitute; he will not despise their plea.",
     Ind:"(102-18) sudah berpaling mendengarkan doa orang-orang yang bulus, dan tidak memandang hina doa mereka."
   },
   {Bible:"Psalms", Chapter:102, Verse:18, Page:1,
-    Kor:"다음 세대가 읽도록 주님께서 하신 일을 기록하여라. 아직 창조되지 않은 백성이, 그것을 읽고 주님을 찬양하도록 하여라.",
+    Kor:"다음 세대가 읽도록 주께서 하신 일을 기록하여라. 아직 창조되지 않은 백성이, 그것을 읽고 주를 찬양하도록 하여라.",
     Chn:"这必为后代的人记下， 将来受造的民要赞美耶和华。",
     Eng:"Let this be written for a future generation, that a people not yet created may praise the LORD:",
     Ind:"(102-19) Biarlah hal ini dituliskan bagi angkatan yang kemudian, dan bangsa yang diciptakan nanti akan memuji-muji TUHAN,"
   },
   {Bible:"Psalms", Chapter:102, Verse:19, Page:1,
-    Kor:"주님께서 성소 높은 곳에서 굽어보시고, 하늘에서 땅을 살펴보셨다.",
+    Kor:"주께서 성소 높은 곳에서 굽어보시고, 하늘에서 땅을 살펴보셨다.",
     Chn:"因为，他从至高的圣所垂看； 耶和华从天向地观察，",
     Eng:"\"The LORD looked down from his sanctuary on high, from heaven he viewed the earth,",
     Ind:"(102-20) sebab Ia telah memandang dari ketinggian-Nya yang kudus, TUHAN memandang dari sorga ke bumi,"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"(102-21) untuk mendengar keluhan orang tahanan, untuk membebaskan orang-orang yang ditentukan mati dibunuh,"
   },
   {Bible:"Psalms", Chapter:102, Verse:21, Page:1,
-    Kor:"시온에서 주님의 이름이 널리 퍼지고, 예루살렘에서 주님께 드리는 찬양이 울려 퍼질 때에,",
+    Kor:"시온에서 주의 이름이 널리 퍼지고, 예루살렘에서 주님께 드리는 찬양이 울려 퍼질 때에,",
     Chn:"使人在锡安传扬耶和华的名， 在耶路撒冷传扬赞美他的话，",
     Eng:"So the name of the LORD will be declared in Zion and his praise in Jerusalem",
     Ind:"(102-22) supaya nama TUHAN diceritakan di Sion, dan Dia dipuji-puji di Yerusalem,"
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"(102-23) apabila berkumpul bersama-sama bangsa-bangsa dan kerajaan-kerajaan untuk beribadah kepada TUHAN."
   },
   {Bible:"Psalms", Chapter:102, Verse:23, Page:1,
-    Kor:"a나는 아직 한창 때인데 기력이 쇠하여지다니, 주님께서 나의 목숨 거두시려나? (a 또는 '그의 능력으로 내 기력을 쇠하여지게 하시니')",
+    Kor:"나는 아직 한창 때인데 기력이 쇠하여지다니, 주께서 나의 목숨 거두시려나?",
     Chn:"他使我的力量中道衰弱， 使我的年日短少。",
     Eng:"In the course of my life he broke my strength; he cut short my days.",
     Ind:"(102-24) Ia telah mematahkan kekuatanku di jalan, dan memperpendek umurku."
   },
   {Bible:"Psalms", Chapter:102, Verse:24, Page:1,
-    Kor:"나는 아뢰었다. \"나의 하나님, 중년에 나를 데려가지 마십시오. 주님의 햇수는 대대로 무궁합니다.\"",
+    Kor:"나는 아뢰었다. \"나의 하나님, 중년에 나를 데려가지 마십시오. 주의 햇수는 대대로 무궁합니다.\"",
     Chn:"我说：我的　神啊， 不要使我中年去世。 你的年数世世无穷！",
     Eng:"So I said: \"Do not take me away, O my God, in the midst of my days; your years go on through all generations.",
     Ind:"(102-25) Aku berkata: \"Ya Allahku, janganlah mengambil aku pada pertengahan umurku! Tahun-tahun-Mu tetap turun-temurun!\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"(102-26) Dahulu sudah Kauletakkan dasar bumi, dan langit adalah buatan tangan-Mu."
   },
   {Bible:"Psalms", Chapter:102, Verse:26, Page:1,
-    Kor:"하늘과 땅은 모두 사라지더라도, 주님만은 그대로 계십니다. 그것들은 모두 옷처럼 낡겠지만, 주님은 옷을 갈아입듯이 그것들을 바꾸실 것이니, 그것들은 다만, 지나가 버리는 것일 뿐입니다.",
+    Kor:"이것이 모두 사라지더라도, 주님만은 그대로 계십니다. 그것은 모두 옷처럼 낡겠지만, 주님은 옷을 갈아입듯이 그것을 바꾸실 것이니, 그것은 다만, 지나가 버리는 것일 뿐입니다.",
     Chn:"天地都要灭没，你却要长存； 天地都要如外衣渐渐旧了。 你要将天地如里衣更换， 天地就都改变了。",
     Eng:"They will perish, but you remain; they will all wear out like a garment. Like clothing you will change them and they will be discarded.",
     Ind:"(102-27) Semuanya itu akan binasa, tetapi Engkau tetap ada, dan semuanya itu akan menjadi usang seperti pakaian, seperti jubah Engkau akan mengubah mereka, dan mereka berubah;"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"(102-28) tetapi Engkau tetap sama, dan tahun-tahun-Mu tidak berkesudahan."
   },
   {Bible:"Psalms", Chapter:102, Verse:28, Page:1,
-    Kor:"주님의 종들의 자녀는 평안하게 살 것이며, 그 자손도 주님 앞에 굳건하게 서 있을 것입니다.",
+    Kor:"주의 종들의 자녀는 평안하게 살 것이며, 그 자손도 주님 앞에 굳건하게 서 있을 것입니다.",
     Chn:"你仆人的子孙要长存； 他们的后裔要坚立在你面前。",
     Eng:"The children of your servants will live in your presence; their descendants will be established before you.\"",
     Ind:"(102-29) Anak hamba-hamba-Mu akan diam dengan tenteram, dan anak cucu mereka akan tetap ada di hadapan-Mu."

@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",3,17);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:3, Verse:1, Page:1,
-    Kor:"솔로몬은 예루살렘 모리아 산에 주님의 성전을 짓기 시작하였다. 그 곳은 주님께서 그의 아버지 다윗에게 나타나셨던 곳이다. 본래는 여부스 사람 오르난의 타작 마당으로 쓰던 곳인데 다윗이 그 곳을 성전 터로 잡아놓았다.",
+    Kor:"솔로몬은 예루살렘 모리아 산에 주의 성전을 짓기 시작하였다. 그 곳은 주께서 그의 아버지 다윗에게 나타나셨던 곳이다. 본래는 여부스 사람 오르난의 타작 마당으로 쓰던 곳인데 다윗이 그 곳을 성전 터로 잡아놓았다.",
     Chn:"所罗门就在耶路撒冷、耶和华向他父大卫显现的摩利亚山上，就是耶布斯人阿珥楠的禾场上、大卫所指定的地方预备好了，开工建造耶和华的殿。",
     Eng:"Then Solomon began to build the temple of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. It was on the threshing floor of Araunah the Jebusite, the place provided by David.",
     Ind:"Salomo mulai mendirikan rumah TUHAN di Yerusalem di gunung Moria, di mana TUHAN menampakkan diri kepada Daud, ayahnya, di tempat yang ditetapkan Daud, yakni di tempat pengirikan Ornan, orang Yebus itu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Inilah ukuran dasar yang dipakai Salomo untuk mendirikan rumah Allah: panjangnya enam puluh hasta, menurut ukuran hasta yang lama dan lebarnya dua puluh hasta."
   },
   {Bible:"2Chronicles", Chapter:3, Verse:4, Page:1,
-    Kor:"성전 앞 현관은 길이가 성전의 너비와 같이 스무 자이고, 높이는 a백스무 자인데, 현관 안벽은 순금으로 입혔다.(a 시리아어역과 몇몇 칠십인역에는 '스무 자')",
+    Kor:"성전 앞 현관은 길이가 성전의 너비와 같이 스무 자이고, 높이는 백스무 자인데, 현관 안벽은 순금으로 입혔다.",
     Chn:"殿前的廊子长二十肘，与殿的宽窄一样，高一百二十肘；里面贴上精金。",
     Eng:"The portico at the front of the temple was twenty cubits long across the width of the building and twenty cubits high. He overlaid the inside with pure gold.",
     Ind:"Balai di sebelah depan ruang besar rumah itu, panjangnya dua puluh hasta, menurut lebar rumah itu, dan tingginya seratus dua puluh hasta. Balai itu dilapisinya dari dalam dengan emas murni."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Kemudian ia membuat tabirnya dari kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus, dan menggambarkan kerubim padanya."
   },
   {Bible:"2Chronicles", Chapter:3, Verse:15, Page:1,
-    Kor:"<두 놋쇠 기둥(왕상 7:15-22)> ○성전 앞에는 높이 서른다섯 자짜리 기둥들을 세우고, 그것들의 꼭대기에는 다섯 자 높이의 기둥 머리를 얹었다.",
+    Kor:"○성전 앞에는 높이 서른다섯 자짜리 기둥들을 세우고, 그것들의 꼭대기에는 다섯 자 높이의 기둥 머리를 얹었다.",
     Chn:"在殿前造了两根柱子，高三十五肘；每柱顶高五肘。",
     Eng:"In the front of the temple he made two pillars, which together were thirty-five cubits long, each with a capital on top measuring five cubits.",
     Ind:"Di depan rumah itu dibuatnya dua tiang, yang tingginya tiga puluh lima hasta, dengan ganja di kepalanya masing-masing setinggi lima hasta."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu dibuatnya untaian rantai yang dipasangnya sebagai kalung di atas kepala tiang-tiang itu, dan dibuatnya seratus buah delima yang dipasangnya pada untaian rantai itu."
   },
   {Bible:"2Chronicles", Chapter:3, Verse:17, Page:1,
-    Kor:"이렇게 그는 성전 본관 앞에 두 기둥을 세웠는데, 하나는 오른쪽에, 다른 하나는 왼쪽에 세웠다. 오른쪽에 세운 것은 b야긴이라고 부르고, 왼쪽에 세운 것은 c보아스라고 불렀다.(b '그(하나님)가 세우다' c '그(하나님)의 힘으로')",
+    Kor:"이렇게 그는 성전 본관 앞에 두 기둥을 세웠는데, 하나는 오른쪽에, 다른 하나는 왼쪽에 세웠다. 오른쪽에 세운 것은 야긴이라고 부르고, 왼쪽에 세운 것은 보아스라고 불렀다.",
     Chn:"将两根柱子立在殿前，一根在右边，一根在左边；右边的起名叫雅斤，左边的起名叫波阿斯。",
     Eng:"He erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin and the one to the north Boaz.",
     Ind:"Tiang-tiang itu didirikannya di depan Bait Suci, yang satu di sebelah kanan dan yang lain di sebelah kiri; tiang kanan dinamainya Yakhin, dan tiang kiri Boas."

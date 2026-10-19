@@ -3,13 +3,13 @@
 BibleDB.ref("Malachi",4,6);
 BibleDB.add([
   {Bible:"Malachi", Chapter:4, Verse:1, Page:1,
-    Kor:"<주의 날이 온다> \"나 만군의 주가 말한다. 용광로의 불길같이, 모든 것을 살라 버릴 날이 온다. 모든 교만한 자와 악한 일을 하는 자가 지푸라기같이 타 버릴 것이다. 그 날이 오면, 불이 그들을 살라서, 그 뿌리와 가지를 남김없이 태울 것이다.",
+    Kor:"\"나 만군의 주가 말한다. 용광로의 불길같이, 모든 것을 살라 버릴 날이 온다. 모든 교만한 자와 악한 일을 하는 자가 지푸라기같이 타 버릴 것이다. 그 날이 오면, 불이 그들을 살라서, 그 뿌리와 가지를 남김없이 태울 것이다.",
     Chn:"万军之耶和华说：「那日临近，势如烧着的火炉，凡狂傲的和行恶的必如碎秸，在那日必被烧尽，根本枝条一无存留。",
     Eng:"\"Surely the day is coming; it will burn like a furnace. All the arrogant and every evildoer will be stubble, and that day that is coming will set them on fire,\" says the LORD Almighty. \"Not a root or a branch will be left to them.",
     Ind:"Bahwa sesungguhnya hari itu datang, menyala seperti perapian, maka semua orang gegabah dan setiap orang yang berbuat fasik menjadi seperti jerami dan akan terbakar oleh hari yang datang itu, firman TUHAN semesta alam, sampai tidak ditinggalkannya akar dan cabang mereka."
   },
   {Bible:"Malachi", Chapter:4, Verse:2, Page:1,
-    Kor:"그러나 내 이름을 경외하는 너희에게는, a의로운 해가 떠올라서 치료하는 광선을 발할 것이니 너희는 외양간에서 풀려 난 송아지처럼 뛰어다닐 것이다. (a 또는 '의로운 해가 떠올라서 그 날개로 치료할 것이니')",
+    Kor:"그러나 내 이름을 경외하는 너희에게는, 의로운 해가 떠올라서 치료하는 광선을 발할 것이니 너희는 외양간에서 풀려 난 송아지처럼 뛰어다닐 것이다.",
     Chn:"但向你们敬畏我名的人必有公义的日头出现，其光线有医治之能。你们必出来跳跃如圈里的肥犊。",
     Eng:"But for you who revere my name, the sun of righteousness will rise with healing in its wings. And you will go out and leap like calves released from the stall.",
     Ind:"Tetapi kamu yang takut akan nama-Ku, bagimu akan terbit surya kebenaran dengan kesembuhan pada sayapnya. Kamu akan keluar dan berjingkrak-jingkrak seperti anak lembu lepas kandang."

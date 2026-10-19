@@ -3,7 +3,7 @@
 BibleDB.ref("Job",16,22);
 BibleDB.add([
   {Bible:"Job", Chapter:16, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Tetapi bila aku berbicara, penderitaanku tidak menjadi ringan, dan bila aku berdiam diri, apakah yang hilang dari padaku?"
   },
   {Bible:"Job", Chapter:16, Verse:7, Page:1,
-    Kor:"주님께서 나를 기진맥진하게 하시고, 내가 거느리고 있던 자식들을 죽이셨습니다.",
+    Kor:"주께서 나를 기진맥진하게 하시고, 내가 거느리고 있던 자식들을 죽이셨습니다.",
     Chn:"但现在　神使我困倦， 使亲友远离我，",
     Eng:"Surely, O God, you have worn me out; you have devastated my entire household.",
     Ind:"Tetapi sekarang, Ia telah membuat aku lelah dan mencerai-beraikan segenap rumah tanggaku,"
   },
   {Bible:"Job", Chapter:16, Verse:8, Page:1,
-    Kor:"주님께서 나를 체포하시고, 주님께서 내 적이 되셨습니다. 내게 있는 것이라고는, 피골이 상접한 앙상한 모습뿐입니다. 이것이 바로 주님께서 나를 치신 증거입니다. 사람들은 피골이 상접한 내 모습을 보고, 내가 지은 죄로 내가 벌을 받았다고 합니다.",
+    Kor:"주께서 나를 체포하시고, 주께서 내 적이 되셨습니다. 내게 있는 것이라고는, 피골이 상접한 앙상한 모습뿐입니다. 이것이 바로 주께서 나를 치신 증거입니다. 사람들은 피골이 상접한 내 모습을 보고, 내가 지은 죄로 내가 벌을 받았다고 합니다.",
     Chn:"又抓住我，作见证攻击我； 我身体的枯瘦也当面见证我的不是。",
     Eng:"You have bound me--and it has become a witness; my gauntness rises up and testifies against me.",
     Ind:"sudah menangkap aku; inilah yang menjadi saksi; kekurusanku telah bangkit menuduh aku."
   },
   {Bible:"Job", Chapter:16, Verse:9, Page:1,
-    Kor:"주님께서 내게 분노하시고, 나를 미워하시며, 내게 이를 가시며, 내 원수가 되셔서, 살기 찬 눈초리로 나를 노려보시니,",
+    Kor:"주께서 내게 분노하시고, 나를 미워하시며, 내게 이를 가시며, 내 원수가 되셔서, 살기 찬 눈초리로 나를 노려보시니,",
     Chn:"主发怒撕裂我，逼迫我， 向我切齿； 我的敌人怒目看我。",
     Eng:"God assails me and tears me in his anger and gnashes his teeth at me; my opponent fastens on me his piercing eyes.",
     Ind:"Murka-Nya menerkam dan memusuhi aku, Ia menggertakkan giginya terhadap aku; lawanku memandang aku dengan mata yang berapi-api."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Ketahuilah, sekarangpun juga, Saksiku ada di sorga, Yang memberi kesaksian bagiku ada di tempat yang tinggi."
   },
   {Bible:"Job", Chapter:16, Verse:20, Page:1,
-    Kor:"a내 중재자는 내 친구다. 나는 하나님께 눈물로 호소한다. (a 또는 '내 친구는 나를 조롱한다')",
+    Kor:"내 중재자는 내 친구다. 나는 하나님께 눈물로 호소한다.",
     Chn:"我的朋友讥诮我， 我却向　神眼泪汪汪。",
     Eng:"My intercessor is my friend as my eyes pour out tears to God;",
     Ind:"Sekalipun aku dicemoohkan oleh sahabat-sahabatku, namun ke arah Allah mataku menengadah sambil menangis,"

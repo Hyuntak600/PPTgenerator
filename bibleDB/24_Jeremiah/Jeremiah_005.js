@@ -3,43 +3,43 @@
 BibleDB.ref("Jeremiah",5,31);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:5, Verse:1, Page:1,
-    Kor:"<예루살렘의 죄> \"예루살렘에 사는 사람들아, 예루살렘의 모든 거리를 두루 돌아다니며, 둘러보고 찾아보아라. 예루살렘의 모든 광장을 샅샅이 뒤져 보아라. 너희가 그 곳에서, 바르게 일하고 진실하게 살려고 하는 사람을 하나라도 찾는다면, 내가 이 도성을 용서하겠다.\"",
+    Kor:"\"예루살렘에 사는 사람들아, 예루살렘의 모든 거리를 두루 돌아다니며, 둘러보고 찾아보아라. 예루살렘의 모든 광장을 샅샅이 뒤져 보아라. 너희가 그 곳에서, 바르게 일하고 진실하게 살려고 하는 사람을 하나라도 찾는다면, 내가 이 도성을 용서하겠다.\"",
     Chn:"你们当在耶路撒冷的街上跑来跑去， 在宽阔处寻找， 看看有一人行公义求诚实没有？ 若有，我就赦免这城。",
     Eng:"\"Go up and down the streets of Jerusalem, look around and consider, search through her squares. If you can find but one person who deals honestly and seeks the truth, I will forgive this city.",
     Ind:"Lintasilah jalan-jalan Yerusalem, lihatlah baik-baik dan camkanlah! Periksalah di tanah-tanah lapangnya, apakah kamu dapat menemui seseorang, apakah ada yang melakukan keadilan dan yang mencari kebenaran, maka Aku mau mengampuni kota itu."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:2, Page:1,
-    Kor:"그들이 주님께서 살아 계심을 두고 맹세하고, 주님을 섬긴다고 말하지만, 말하는 것과 사는 것이 다르다.",
+    Kor:"그들이 주께서 살아 계심을 두고 맹세하고, 주님을 섬긴다고 말하지만, 말하는 것과 사는 것이 다르다.",
     Chn:"其中的人虽然指着永生的耶和华起誓， 所起的誓实在是假的。",
     Eng:"Although they say, 'As surely as the LORD lives,' still they are swearing falsely.\"",
     Ind:"Sekalipun mereka berkata: \"Demi TUHAN yang hidup,\" namun mereka bersumpah palsu."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:3, Page:1,
-    Kor:"주님, 주님께서는 몸소 진실을 찾고 계셨습니다. 주님께서 그들을 때리셨어도 그들은 정신을 차리지 않으며, 주님께서 그들을 멸망시키신 것인데도 그들은 교훈받기를 거절합니다. 그들은 얼굴을 바윗돌보다도 더 굳게 하고, 주님께로 돌아오기를 거절합니다.",
+    Kor:"주님, 주님께서는 몸소 진실을 찾고 계십니다. 주께서 그들을 때리셨어도 그들은 정신을 차리지 않으며, 주께서 그들을 멸망시키신 것인데도 그들은 교훈받기를 거절합니다. 그들은 얼굴을 바윗돌보다도 더 굳게 하고, 주께로 돌아오기를 거절합니다.",
     Chn:"耶和华啊，你的眼目不是看顾诚实吗？ 你击打他们，他们却不伤恸； 你毁灭他们，他们仍不受惩治。 他们使脸刚硬过于磐石， 不肯回头。",
     Eng:"O LORD, do not your eyes look for truth? You struck them, but they felt no pain; you crushed them, but they refused correction. They made their faces harder than stone and refused to repent.",
     Ind:"Ya TUHAN, tidakkah mata-Mu terarah kepada kebenaran? Engkau memukul mereka, tetapi mereka tidak kesakitan; Engkau meremukkan mereka, tetapi mereka tidak mau menerima hajaran. Mereka mengeraskan kepalanya lebih dari pada batu, dan mereka tidak mau bertobat."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:4, Page:1,
-    Kor:"나는 이러한 생각도 해보았다. '가난하고 무식한 사람들은 주님의 길도 모르고 하나님께서 주신 법도 모르니, 그처럼 어리석게 행동할 수밖에 없겠지.",
+    Kor:"저는 이러한 생각을 해보았습니다. '가난하고 무식한 사람들은 주의 길도 모르고 하나님께서 주신 법도 모르니, 그처럼 어리석게 행동할 수밖에 없겠지.",
     Chn:"我说：这些人实在是贫穷的，是愚昧的， 因为不晓得耶和华的作为 和他们　神的法则。",
     Eng:"I thought, \"These are only the poor; they are foolish, for they do not know the way of the LORD, the requirements of their God.",
     Ind:"Lalu aku berpikir: \"Itu hanya orang-orang kecil; mereka adalah orang-orang bodoh, sebab mereka tidak mengetahui jalan TUHAN, hukum Allah mereka."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:5, Page:1,
-    Kor:"이제 부유하고 유식한 사람들에게 가서, 그들에게 이야기를 해보자. 그들이야말로 주님의 길과 하나님께서 주신 법을 알고 있을 것이다.' 그러나 그들도 한결같이 고삐 풀린 망아지들이다. 멍에를 부러뜨리고, 결박한 끈을 끊어 버린 자들이다.",
+    Kor:"이제 부유하고 유식한 사람들에게 가서, 그들에게 이야기를 해보자. 그들이야말로 주의 길과 하나님께서 주신 법을 알고 있을 것이다.' 그러나 그들도 한결같이 고삐 풀린 망아지들이었습니다. 멍에를 부러뜨리고, 결박한 끈을 끊어 버린 자들이었습니다.",
     Chn:"我要去见尊大的人，对他们说话， 因为他们晓得耶和华的作为 和他们　神的法则。 哪知，这些人齐心将轭折断， 挣开绳索。",
     Eng:"So I will go to the leaders and speak to them; surely they know the way of the LORD, the requirements of their God.\" But with one accord they too had broken off the yoke and torn off the bonds.",
     Ind:"Baiklah aku pergi kepada orang-orang besar, dan berbicara kepada mereka, sebab merekalah yang mengetahui jalan TUHAN, hukum Allah mereka.\" Tetapi merekapun semuanya telah mematahkan kuk, telah memutuskan tali-tali pengikat."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:6, Page:1,
-    Kor:"그러므로 사자가 숲 속에서 뛰쳐 나와서, 그들을 물어 뜯을 것이다. 사막의 늑대가 그들을 찢어 죽일 것이다. 표범이 성읍마다 엿보고 있으니, 성 바깥으로 나오는 자마다 모두 찢겨 죽을 것이다. 그들의 죄가 아주 크고 하나님을 배반한 행위가 매우 크구나.",
+    Kor:"그러므로 사자가 숲 속에서 뛰쳐 나와서, 그들을 물어 뜯었습니다. 사막의 늑대가 그들을 찢어 죽였습니다. 표범이 성읍마다 엿보고 있으니, 성 바깥으로 나오는 자마다 모두 찢겨 죽을 것입니다. 그들의 죄가 아주 크고 하나님을 배반한 행위가 매우 큽니다.",
     Chn:"因此，林中的狮子必害死他们； 晚上的豺狼必灭绝他们； 豹子要在城外窥伺他们。 凡出城的必被撕碎； 因为他们的罪过极多， 背道的事也加增了。",
     Eng:"Therefore a lion from the forest will attack them, a wolf from the desert will ravage them, a leopard will lie in wait near their towns to tear to pieces any who venture out, for their rebellion is great and their backslidings many.",
     Ind:"Sebab itu singa dari hutan akan memukul mati mereka, dan serigala dari padang yang kersang akan merusakkan mereka. Macan tutul akan mengintai di pinggir kota-kota mereka, setiap orang yang ke luar akan diterkam. Sebab pelanggaran mereka amat banyak, dan kesesatannya besar sekali."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:7, Page:1,
-    Kor:"\"예루살렘아, 내가 너를 어떻게 용서하여 줄 수가 있겠느냐? 너의 자식들이 나를 버리고 떠나서, 신도 아닌 것들을 두고 맹세하여 섬겼다. 내가 그들을 배불리 먹여 놓았더니, 그들은 창녀의 집으로 몰려가서, 모두가 음행을 하였다.",
+    Kor:"\"예루살렘아, 내가 너를 어떻게 용서하여 줄 수가 있겠느냐? 너의 자녀들이 나를 버리고 떠나서, 신도 아닌 것들을 두고 맹세하여 섬겼다. 내가 그들을 배불리 먹여 놓았더니, 그들은 창녀의 집으로 몰려가서, 모두가 음행을 하였다.",
     Chn:"我怎能赦免你呢？ 你的儿女离弃我， 又指着那不是神的起誓。 我使他们饱足， 他们就行奸淫， 成群地聚集在娼妓家里。",
     Eng:"\"Why should I forgive you? Your children have forsaken me and sworn by gods that are not gods. I supplied all their needs, yet they committed adultery and thronged to the houses of prostitutes.",
     Ind:"Bagaimana, kalau begitu, dapatkah Aku mengampuni engkau? Anak-anakmu telah meninggalkan Aku, dan bersumpah demi yang bukan allah. Setelah Aku mengenyangkan mereka, mereka berzinah dan bertemu ke rumah persundalan."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Masakan Aku tidak menghukum mereka karena semuanya ini?, demikianlah firman TUHAN. Masakan Aku tidak membalas dendam-Ku kepada bangsa yang seperti ini?"
   },
   {Bible:"Jeremiah", Chapter:5, Verse:10, Page:1,
-    Kor:"\"이스라엘의 대적들아, 너희는 저 언덕으로 올라가서 내 포도원을 망쳐 놓아라. 전멸시키지는 말고, 그 가지만 모두 잘라 버려라. 그것들은 이미 나 주의 것이 아니다.",
+    Kor:"\"너희는 저 언덕으로 올라가서 포도원을 망쳐 놓아라. 전멸시키지는 말고, 그 가지만 모두 잘라 버려라. 그것들은 이미 나 주의 것이 아니다.",
     Chn:"你们要上她葡萄园的墙施行毁坏， 但不可毁坏净尽， 只可除掉她的枝子， 因为不属耶和华。",
     Eng:"\"Go through her vineyards and ravage them, but do not destroy them completely. Strip off her branches, for these people do not belong to the LORD.",
     Ind:"Naiklah ke kebun anggurnya yang bertangga-tangga, rusakkanlah, tetapi jangan membuatnya habis lenyap. Buanglah carang-carang pokok anggurnya, sebab semuanya itu bukan kepunyaan TUHAN!"
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Sebab kaum Israel dan kaum Yehuda telah sungguh-sungguh berlaku tidak setia terhadap Aku, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:12, Page:1,
-    Kor:"<주님께서 백성을 버리시다> 이 백성이 주님을 부인하며 말한다. \"그는 아무것도 아니다. 어떤 재앙도 우리를 덮치지 않을 것이다. 우리는 전란이나 기근을 당하지 않을 것이다.\"",
+    Kor:"이 백성이 주님을 부인하며 이르기를 \"그는 아무것도 아니다. 어떤 재앙도 우리를 덮치지 않을 것이다. 우리는 전란이나 기근을 당하지 않을 것이다\" 하였습니다.",
     Chn:"他们不认耶和华，说： 这并不是他， 灾祸必不临到我们； 刀剑和饥荒，我们也看不见。",
     Eng:"They have lied about the LORD; they said, \"He will do nothing! No harm will come to us; we will never see sword or famine.",
     Ind:"Mereka memungkiri TUHAN dan berkata: \"Dia tidak berbuat apa-apa! Malapetaka tidak akan menimpa kita, perang dan kelaparan tidak akan kita alami."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:13, Page:1,
-    Kor:"\"그러나 예레미야야, 이러한 예언자들에게는, 내가 아무런 예언도 준 일이 없다. 그들의 말은 허풍일 뿐이다.\"",
+    Kor:"\"그러나 예레미야야, 그러한 예언자들에게는, 내가 아무런 예언도 준 일이 없다. 그들의 말은 허풍일 뿐이다.\"",
     Chn:"先知的话必成为风； 道也不在他们里面。 这灾必临到他们身上。",
     Eng:"The prophets are but wind and the word is not in them; so let what they say be done to them.\"",
     Ind:"Para nabi akan menjadi angin, firman TUHAN tidak ada pada mereka.\""
   },
   {Bible:"Jeremiah", Chapter:5, Verse:14, Page:1,
-    Kor:"\"그들이 그런 말을 하였으니, 보아라, 내가 너의 입에 있는 나의 말을 불이 되게 하고, 이 백성은 장작이 되게 하겠다. 불이 장작을 모두 태울 것이다.\" \"그러므로 나 만군의 주 하나님이 말한다.",
+    Kor:"\"그들이 그런 말을 하였으니, 보아라, 내가 너의 입에 있는 나의 말을 불이 되게 하고, 이 백성은 장작이 되게 하겠다. 불이 장작을 모두 태울 것이다.\" \"그러므로 나 만군의 주 하나님이 이렇게 말한다.",
     Chn:"所以耶和华—万军之　神如此说： 因为百姓说这话， 我必使我的话在你口中为火，使他们为柴； 这火便将他们烧灭。",
     Eng:"Therefore this is what the LORD God Almighty says: \"Because the people have spoken these words, I will make my words in your mouth a fire and these people the wood it consumes.",
     Ind:"Sebab itu beginilah firman TUHAN, Allah semesta alam: \"Oleh karena mereka berkata seperti itu, maka beginilah akan terjadi kepada mereka: Sesungguhnya Aku akan membuat perkataan-perkataan-Ku menjadi api di dalam mulutmu, dan bangsa ini menjadi kayu bakar, maka api akan memakan habis mereka."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:15, Page:1,
-    Kor:"이스라엘 백성아, 내가 먼 곳에서 한 민족을 데려다가, 너희를 치게 하겠다. 나 주의 말이다. 그 민족은 강하며, 옛적부터 내려온 민족이다. 그 민족의 언어를 네가 알지 못하며, 그들이 말을 하여도 너는 알아듣지 못한다.",
+    Kor:"이스라엘 백성아, 내가 먼 곳에서 한 민족을 데려다가, 너희를 치도록 하겠다. 나 주의 말이다. 그 민족은 강하며, 옛적부터 내려온 민족이다. 그 민족의 언어를 네가 알지 못하며, 그들이 말을 하여도 너는 알아듣지 못한다.",
     Chn:"耶和华说：以色列家啊， 我必使一国的民从远方来攻击你， 是强盛的国， 是从古而有的国。 他们的言语你不晓得， 他们的话你不明白。",
     Eng:"O house of Israel,\" declares the LORD, \"I am bringing a distant nation against you--an ancient and enduring nation, a people whose language you do not know, whose speech you do not understand.",
     Ind:"Sesungguhnya, Aku akan mendatangkan suatu bangsa dari jauh menyerang kamu, hai kaum Israel, demikianlah firman TUHAN, suatu bangsa yang kokoh kuat, suatu bangsa dari dahulu kala, suatu bangsa yang tidak engkau kenal bahasanya, dan yang tidak engkau mengerti apa yang dikatakannya."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Mereka akan memakan habis hasil tuaianmu dan makananmu, akan memakan habis anak-anakmu lelaki dan perempuan, akan memakan habis kambing dombamu dan lembu sapimu, akan memakan habis pohon anggurmu dan pohon aramu, akan menghancurkan dengan pedang kota-kotamu yang berkubu, yang kauandalkan.\""
   },
   {Bible:"Jeremiah", Chapter:5, Verse:18, Page:1,
-    Kor:"<하나님께서 백성에게 경고하시다> ○\"그러나 그럴 때에도, 내가 너희를 완전히 멸망시키지는 않겠다. 나 주의 말이다.",
+    Kor:"○\"그러나 그럴 때에도, 내가 너희를 완전히 멸망시키지는 않겠다. 나 주의 말이다.",
     Chn:"耶和华说：「就是到那时，我也不将你们毁灭净尽。",
     Eng:"\"Yet even in those days,\" declares the LORD, \"I will not destroy you completely.",
     Ind:"\"Tetapi pada waktu itupun juga, demikianlah firman TUHAN, Aku tidak akan membuat kamu habis lenyap."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:19, Page:1,
-    Kor:"예레미야야, 그들이 '무엇 때문에 주 우리의 하나님께서 우리에게 이런 모든 일을 하셨는가?' 하고 너에게 물으면, 너는 그들에게 말하여 주어라.  '너희가 너희 땅에서 나를 버리고 다른 신들을 섬겼으니, 이제는 너희가 남의 나라 땅에서 다른 나라 사람을 섬겨야 할 것이기 때문이다.'\"",
+    Kor:"예레미야야, 그들이 '무엇 때문에, 주 우리의 하나님께서 우리에게 이런 모든 일을 하셨는가?' 하고 너에게 물으면, 너는 그들에게 이르기를 '너희가 너희 땅에서 나를 버리고 다른 신들을 섬겼으니, 이제는 너희가 남의 나라 땅에서 다른 나라 사람을 섬겨야 할 것이기 때문이다' 하고 말하여 주어라.\"",
     Chn:"百姓若说：『耶和华—我们的　神为什么向我们行这一切事呢？』你就对他们说：『你们怎样离弃耶和华，在你们的地上事奉外邦神，也必照样在不属你们的地上事奉外邦人。』」",
     Eng:"And when the people ask, 'Why has the LORD our God done all this to us?' you will tell them, 'As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.'",
     Ind:"Dan apabila kamu nanti bertanya-tanya: Untuk apakah TUHAN, Allah kita, melakukan segala hal ini atas kita?, maka engkau akan menjawab mereka: Seperti kamu meninggalkan Aku dan memperhambakan diri kepada allah asing di negerimu, demikianlah kamu akan memperhambakan diri kepada orang-orang asing di suatu negeri yang bukan negerimu.\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"\"Dengarkanlah ini, hai bangsa yang tolol dan yang tidak mempunyai pikiran, yang mempunyai mata, tetapi tidak melihat, yang mempunyai telinga, tetapi tidak mendengar!"
   },
   {Bible:"Jeremiah", Chapter:5, Verse:22, Page:1,
-    Kor:"너희는 내가 두렵지도 않으냐? 나 주의 말이다. 너희는 내 앞에서 떨리지도 않느냐? 나는 모래로 바다의 경계선을 만들어 놓고, 바다가 넘어설 수 없는 영원한 경계선을 그어 놓았다. 비록 바닷물이 출렁거려도 그 경계선을 없애지 못하고, 아무리 큰 파도가 몰아쳐도 그 경계선을 넘어설 수가 없다.",
+    Kor:"너희는 내가 두렵지도 않느냐? 나 주의 말이다. 너희는 내 앞에서 떨리지도 않느냐? 나는 모래로 바다의 경계선을 만들어 놓고, 바다가 넘어설 수 없는 영원한 경계선을 그어 놓았다. 비록 바닷물이 출렁거려도 그 경계선을 없애지 못하고, 아무리 큰 파도가 몰아쳐도 그 경계선을 넘어설 수가 없다.",
     Chn:"耶和华说：你们怎么不惧怕我呢？ 我以永远的定例， 用沙为海的界限， 水不得越过。 因此，你们在我面前还不战兢吗？ 波浪虽然翻腾，却不能逾越； 虽然匉訇，却不能过去。",
     Eng:"Should you not fear me?\" declares the LORD. \"Should you not tremble in my presence? I made the sand a boundary for the sea, an everlasting barrier it cannot cross. The waves may roll, but they cannot prevail; they may roar, but they cannot cross it.",
     Ind:"Masakan kamu tidak takut kepada-Ku, demikianlah firman TUHAN, kamu tidak gemetar terhadap Aku? Bukankah Aku yang membuat pantai pasir sebagai perbatasan bagi laut, sebagai perhinggaan tetap yang tidak dapat dilampauinya? Biarpun ia bergelora, ia tidak sanggup, biarpun gelombang-gelombangnya ribut, mereka tidak dapat melampauinya!"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Tetapi bangsa ini mempunyai hati yang selalu melawan dan memberontak; mereka telah menyimpang dan menghilang."
   },
   {Bible:"Jeremiah", Chapter:5, Verse:24, Page:1,
-    Kor:"너희는 마음 속으로라도 '주 우리의 하나님은 두려운 분이다. 그분은 제때에 비를 주고, 이른 비와 늦은 비를 철따라 내리며, 곡식을 거두는 일정한 시기를 정하여 주었다' 하고 말한 적이 없다.",
+    Kor:"너희는 마음 속으로라도 '주 우리의 하나님은 두려운 분이시다. 그분은 제때에 비를 주시고, 이른 비와 늦은 비를 철따라 내리시며, 곡식을 거두는 일정한 시기를 정하여 주신 분이시다' 하고 말한 적이 없다.",
     Chn:"心内也不说： 我们应当敬畏耶和华—我们的　神； 他按时赐雨，就是秋雨春雨， 又为我们定收割的节令，永存不废。",
     Eng:"They do not say to themselves, 'Let us fear the LORD our God, who gives autumn and spring rains in season, who assures us of the regular weeks of harvest.'",
     Ind:"Mereka tidak berkata dalam hatinya: Baiklah kita takut akan TUHAN, Allah kita, yang memberi hujan pada waktunya, hujan pada awal musim maupun hujan pada akhir musim, dan yang menjamin bagi kita minggu-minggu yang tetap untuk panen."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kedahsyatan dan kengerian terjadi di negeri ini:"
   },
   {Bible:"Jeremiah", Chapter:5, Verse:31, Page:1,
-    Kor:"예언자들은 거짓으로 예언을 하며, 제사장들은 거짓 예언자들이 시키는 대로 다스리며, 나의 백성은 이것을 좋아하니, 마지막 때에 너희가 어떻게 하려느냐?\"",
+    Kor:"예언자들은 거짓으로 예언을 하며, 제사장들은 거짓 예언자들이 시키는 대로 다스리며, 나의 백성은 이것을 좋아하니 마지막 때에, 너희가 어떻게 하려느냐?\"",
     Chn:"就是先知说假预言， 祭司借他们把持权柄； 我的百姓也喜爱这些事， 到了结局你们怎样行呢？",
     Eng:"The prophets prophesy lies, the priests rule by their own authority, and my people love it this way. But what will you do in the end?",
     Ind:"Para nabi bernubuat palsu dan para imam mengajar dengan sewenang-wenang, dan umat-Ku menyukai yang demikian! Tetapi apakah yang akan kamu perbuat, apabila datang kesudahannya?"

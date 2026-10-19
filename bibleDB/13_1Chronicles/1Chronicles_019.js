@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",19,19);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:19, Verse:1, Page:1,
-    Kor:"<다윗이 암몬 및 시리아를 치다(삼하 10:1-19)> 그 뒤에 암몬 사람의 왕 나하스가 죽고, 그 아들이 뒤를 이어 왕이 되었다.",
+    Kor:"그 뒤에 암몬 사람의 왕 나하스가 죽고, 그 아들이 뒤를 이어 왕이 되었다.",
     Chn:"此后，亚扪人的王拿辖死了，他儿子接续他作王。",
     Eng:"In the course of time, Nahash king of the Ammonites died, and his son succeeded him as king.",
     Ind:"Sesudah itu matilah Nahas, raja bani Amon, lalu anaknya menjadi raja menggantikan dia."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Yoab: \"Jika orang Aram itu lebih kuat dari padaku, maka haruslah engkau menolong aku, tetapi jika bani Amon itu lebih kuat dari padamu, maka aku akan menolong engkau."
   },
   {Bible:"1Chronicles", Chapter:19, Verse:13, Page:1,
-    Kor:"용기를 내어라. 용감하게 싸워서 우리가 우리 민족을 지키고, 우리 하나님의 성읍을 지키자. 주님께서 좋게 여기시는 대로 이루어 주실 것이다.\"",
+    Kor:"용기를 내어라. 용감하게 싸워서 우리가 우리 민족을 지키고, 우리 하나님의 성읍을 지키자. 주께서 좋게 여기시는 대로 이루어 주실 것이다.\"",
     Chn:"我们都当刚强，为本国的民和　神的城邑作大丈夫，愿耶和华凭他的意旨而行。」",
     Eng:"Be strong and let us fight bravely for our people and the cities of our God. The LORD will do what is good in his sight.\"",
     Ind:"Kuatkanlah hatimu dan marilah kita menguatkan hati untuk bangsa kita dan untuk kota-kota Allah kita. TUHAN kiranya melakukan yang baik di mata-Nya.\""

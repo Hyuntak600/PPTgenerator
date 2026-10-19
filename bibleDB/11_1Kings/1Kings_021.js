@@ -3,19 +3,19 @@
 BibleDB.ref("1Kings",21,29);
 BibleDB.add([
   {Bible:"1Kings", Chapter:21, Verse:1, Page:1,
-    Kor:"<나봇의 포도원> 그 뒤에 이런 일이 있었다. 이스르엘 사람 나봇이 이스르엘 땅에 포도원을 하나 가지고 있었는데, 그 포도원은 사마리아의 왕 아합의 궁 근처에 있었다.",
+    Kor:"그 뒤에 이런 일이 있었다. 이스르엘 사람 나봇이 이스르엘 땅에 포도원을 하나 가지고 있었는데, 그 포도원은 사마리아의 왕 아합의 궁 근처에 있었다.",
     Chn:"这事以后，又有一事。耶斯列人拿伯在耶斯列有一个葡萄园，靠近撒马利亚王亚哈的宫。",
     Eng:"Some time later there was an incident involving a vineyard belonging to Naboth the Jezreelite. The vineyard was in Jezreel, close to the palace of Ahab king of Samaria.",
     Ind:"Sesudah itu terjadilah hal yang berikut. Nabot, orang Yizreel, mempunyai kebun anggur di Yizreel, di samping istana Ahab, raja Samaria."
   },
   {Bible:"1Kings", Chapter:21, Verse:2, Page:1,
-    Kor:"아합이 나봇에게 말하였다. \"그대의 포도원이 나의 궁 가까이에 있으니, 나에게 넘기도록 하시오. 나는 그것을 정원으로 만들려고 하오. 내가 그것 대신에 더 좋은 포도원을 하나 주겠소. 그대가 원하면, 그 값을 돈으로 계산하여 줄 수도 있소.\"",
+    Kor:"아합이 나봇에게 말하였다. \"그대의 포도원이 나의 궁 가까이에 있으니, 나에게 넘기도록 하여라. 나는 그것을 정원으로 만들려고 한다. 내가 그것 대신에 더 좋은 포도원을 하나 주겠다. 그대가 원하면, 그 값을 돈으로 계산하여 줄 수도 있다.\"",
     Chn:"亚哈对拿伯说：「你将你的葡萄园给我作菜园，因为是靠近我的宫；我就把更好的葡萄园换给你，或是你要银子，我就按着价值给你。」",
     Eng:"Ahab said to Naboth, \"Let me have your vineyard to use for a vegetable garden, since it is close to my palace. In exchange I will give you a better vineyard or, if you prefer, I will pay you whatever it is worth.\"",
     Ind:"Berkatalah Ahab kepada Nabot: \"Berikanlah kepadaku kebun anggurmu itu, supaya kujadikan kebun sayur, sebab letaknya dekat rumahku. Aku akan memberikan kepadamu kebun anggur yang lebih baik dari pada itu sebagai gantinya, atau jikalau engkau lebih suka, aku akan membayar harganya kepadamu dengan uang.\""
   },
   {Bible:"1Kings", Chapter:21, Verse:3, Page:1,
-    Kor:"나봇이 아합에게 말하였다. \"제가 조상의 유산을 임금님께 드리는 일은, 주님께서 금하시는 불경한 일입니다.\"",
+    Kor:"나봇이 아합에게 말하였다. \"제가 조상의 유산을 임금님께 드리는 일은, 주께서 금하시는 불경한 일입니다.\"",
     Chn:"拿伯对亚哈说：「我敬畏耶和华，万不敢将我先人留下的产业给你。」",
     Eng:"But Naboth replied, \"The LORD forbid that I should give you the inheritance of my fathers.\"",
     Ind:"Jawab Nabot kepada Ahab: \"Kiranya TUHAN menghindarkan aku dari pada memberikan milik pusaka nenek moyangku kepadamu!\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Setelah itu mereka menyuruh orang kepada Izebel mengatakan: \"Nabot sudah dilempari sampai mati.\""
   },
   {Bible:"1Kings", Chapter:21, Verse:15, Page:1,
-    Kor:"○이세벨은 나봇이 돌에 맞아 죽었다는 소식을 듣고, 곧 아합에게 말하였다. \"일어나십시오. 돈을 주어도 당신에게 넘기지 않겠다고 하던 이스르엘 사람 나봇의 포도원을 차지하십시오. 나봇은 살아 있지 않습니다. 죽었습니다.\"",
+    Kor:"○이세벨은, 나봇이 돌에 맞아 죽었다는 소식을 듣고, 곧 아합에게 말하였다. \"일어나십시오. 돈을 주어도 당신에게 넘기지 않겠다고 하던 이스르엘 사람 나봇의 포도원을 차지하십시오. 나봇은 살아 있지 않습니다. 죽었습니다.\"",
     Chn:"耶洗别听见拿伯被石头打死，就对亚哈说：「你起来得耶斯列人拿伯不肯为价银给你的葡萄园吧！现在他已经死了。」",
     Eng:"As soon as Jezebel heard that Naboth had been stoned to death, she said to Ahab, \"Get up and take possession of the vineyard of Naboth the Jezreelite that he refused to sell you. He is no longer alive, but dead.\"",
     Ind:"Segera sesudah Izebel mendengar, bahwa Nabot sudah dilempari sampai mati, berkatalah Izebel kepada Ahab: \"Bangunlah, ambillah kebun anggur Nabot, orang Yizreel itu, menjadi milikmu, karena Nabot yang menolak memberikannya kepadamu dengan bayaran uang, sudah tidak hidup lagi; ia sudah mati.\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Segera sesudah Ahab mendengar, bahwa Nabot sudah mati, ia bangun dan pergi ke kebun anggur Nabot, orang Yizreel itu, untuk mengambil kebun itu menjadi miliknya."
   },
   {Bible:"1Kings", Chapter:21, Verse:17, Page:1,
-    Kor:"○주님께서 디셉 사람 엘리야에게 말씀하셨다.",
+    Kor:"○주께서 디셉 사람 엘리야에게 말씀하셨다.",
     Chn:"耶和华的话临到提斯比人以利亚说：",
     Eng:"Then the word of the LORD came to Elijah the Tishbite:",
     Ind:"Tetapi datanglah firman TUHAN kepada Elia, orang Tisbe itu, bunyinya:"
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"\"Bangunlah, pergilah menemui Ahab, raja Israel yang di Samaria. Ia telah pergi ke kebun anggur Nabot untuk mengambil kebun itu menjadi miliknya."
   },
   {Bible:"1Kings", Chapter:21, Verse:19, Page:1,
-    Kor:"너는 그에게 다음과 같이 전하여라. '나 주가 말한다. 네가 살인을 하고, 또 재산을 빼앗기까지 하였느냐? 나 주가 말한다. 개들이 나봇의 피를 핥은 바로 그 곳에서, 그 개들이 네 피도 핥을 것이다.'\"",
+    Kor:"너는 그에게 다음과 같이 전하여라. '나 주가 말한다. 네가 살인을 하고, 또 빼앗기까지 하였느냐? 또 나 주가 말한다. 개들이 나봇의 피를 핥은 바로 그 곳에서, 그 개들이 네 피도 핥을 것이다.'\"",
     Chn:"你要对他说：『耶和华如此说：你杀了人，又得他的产业吗？』又要对他说：『耶和华如此说：狗在何处舔拿伯的血，也必在何处舔你的血。』」",
     Eng:"Say to him, 'This is what the LORD says: Have you not murdered a man and seized his property?' Then say to him, 'This is what the LORD says: In the place where dogs licked up Naboth's blood, dogs will lick up your blood--yes, yours!'\"",
     Ind:"Katakanlah kepadanya, demikian: Beginilah firman TUHAN: Engkau telah membunuh serta merampas juga! Katakan pula kepadanya: Beginilah firman TUHAN: Di tempat anjing telah menjilat darah Nabot, di situ jugalah anjing akan menjilat darahmu.\""
   },
   {Bible:"1Kings", Chapter:21, Verse:20, Page:1,
-    Kor:"아합은 엘리야를 보자, 이렇게 말하였다. \"내 원수야, 네가 또 나를 찾아왔느냐?\" 그러자 엘리야가 대답하였다. \"그렇습니다. 이렇게 또 찾아왔습니다. 임금님께서는 목숨을 팔아 가면서까지, 주님께서 보시기에 악한 일만 하십니다.",
+    Kor:"아합은 엘리야를 보자, 이렇게 말하였다. \"내 원수야, 네가 또 나를 찾아왔느냐?\" 그러자 엘리야가 대답하였다. \"그렇습니다. 이렇게 또 찾아왔습니다. 임금님께서는 목숨을 팔아 가면서까지, 주께서 보시기에 악한 일만 하십니다.",
     Chn:"亚哈对以利亚说：「我仇敌啊，你找到我吗？」他回答说：「我找到你了；因为你卖了自己，行耶和华眼中看为恶的事。",
     Eng:"Ahab said to Elijah, \"So you have found me, my enemy!\" \"I have found you,\" he answered, \"because you have sold yourself to do evil in the eyes of the LORD.",
     Ind:"Kata Ahab kepada Elia: \"Sekarang engkau mendapat aku, hai musuhku?\" Jawabnya: \"Memang sekarang aku mendapat engkau, karena engkau sudah memperbudak diri dengan melakukan apa yang jahat di mata TUHAN."
   },
   {Bible:"1Kings", Chapter:21, Verse:21, Page:1,
-    Kor:"a'내가 너에게 재앙을 내려 너를 쓸어 버리되, 너 아합 가문에 속한 남자는 종이든지 자유인이든지, 씨도 남기지 않고, 이스라엘 가운데서 없애 버리겠다.(a 주님의 말)",
+    Kor:"'내가 너에게 재앙을 내려 너를 쓸어 버리되, 너 아합 가문에 속한 남자는 종이든지 자유인이든지, 씨도 남기지 않고, 이스라엘 가운데서 없애 버리겠다.",
     Chn:"耶和华说：『我必使灾祸临到你，将你除尽。凡属你的男丁，无论困住的、自由的，都从以色列中剪除。",
     Eng:"'I am going to bring disaster on you. I will consume your descendants and cut off from Ahab every last male in Israel--slave or free.",
     Ind:"Sesungguhnya, Aku akan mendatangkan malapetaka kepadamu, Aku akan menyapu engkau dan melenyapkan setiap orang laki-laki dari keluarga Ahab, baik yang tinggi maupun yang rendah kedudukannya di Israel."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memperlakukan keluargamu sama seperti keluarga Yerobeam bin Nebat dan seperti keluarga Baesa bin Ahia, oleh karena engkau menimbulkan sakit hati-Ku, dan oleh karena engkau mengakibatkan orang Israel berbuat dosa."
   },
   {Bible:"1Kings", Chapter:21, Verse:23, Page:1,
-    Kor:"주님께서는 또 이세벨을 두고서도 '개들이 이스르엘 성 밖에서 이세벨의 주검을 찢어 먹을 것이다' 하고 말씀하셨습니다.",
+    Kor:"주께서는 또 이세벨을 두고서도 '개들이 이스르엘 성 밖에서 이세벨의 주검을 찢어 먹을 것이다' 하고 말씀하셨습니다.",
     Chn:"论到耶洗别，耶和华也说：『狗在耶斯列的外郭必吃耶洗别的肉。",
     Eng:"\"And also concerning Jezebel the LORD says: 'Dogs will devour Jezebel by the wall of Jezreel.'",
     Ind:"Juga mengenai Izebel TUHAN telah berfirman: Anjing akan memakan Izebel di tembok luar Yizreel."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Siapa dari keluarga Ahab yang mati di kota akan dimakan anjing dan yang mati di padang akan dimakan burung di udara.\""
   },
   {Bible:"1Kings", Chapter:21, Verse:25, Page:1,
-    Kor:"○(자기 아내 이세벨의 충동에 말려든 아합처럼, 주님께서 보시기에 이렇게 악한 일을 하여 자기 목숨을 팔아 버린 사람은, 일찍이 없었다.",
+    Kor:"(○자기 아내 이세벨의 충동에 말려든 아합처럼, 주께서 보시기에 이렇게 악한 일을 하여 자기 목숨을 팔아 버린 사람은, 일찍이 없었다.",
     Chn:"从来没有像亚哈的，因他自卖，行耶和华眼中看为恶的事，受了王后耶洗别的耸动；",
     Eng:"(There was never a man like Ahab, who sold himself to do evil in the eyes of the LORD, urged on by Jezebel his wife.",
     Ind:"Sesungguhnya tidak pernah ada orang seperti Ahab yang memperbudak diri dengan melakukan apa yang jahat di mata TUHAN, karena ia telah dibujuk oleh Izebel, isterinya."
   },
   {Bible:"1Kings", Chapter:21, Verse:26, Page:1,
-    Kor:"아합은, 주님께서 이스라엘 자손의 눈 앞에서 쫓아내신 그 아모리 사람이 한 것을 본받아서, 우상을 숭배하는 매우 혐오스러운 일을 하였다.)",
+    Kor:"아합은, 주께서 이스라엘 자손의 눈 앞에서 쫓아내신 그 아모리 사람이 한 것을 본받아서, 우상을 숭배하는 매우 혐오스러운 일을 하였다.)",
     Chn:"就照耶和华在以色列人面前所赶出的亚摩利人，行了最可憎恶的事，信从偶像。）",
     Eng:"He behaved in the vilest manner by going after idols, like the Amorites the LORD drove out before Israel.)",
     Ind:"Bahkan ia telah berlaku sangat keji dengan mengikuti berhala-berhala, tepat seperti yang dilakukan oleh orang Amori yang telah dihalau TUHAN dari depan orang Israel."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Segera sesudah Ahab mendengar perkataan itu, ia mengoyakkan pakaiannya, mengenakan kain kabung pada tubuhnya dan berpuasa. Bahkan ia tidur dengan memakai kain kabung, dan berjalan dengan langkah lamban."
   },
   {Bible:"1Kings", Chapter:21, Verse:28, Page:1,
-    Kor:"그 때에 주님께서 디셉 사람 엘리야에게 말씀하셨다.",
+    Kor:"그 때에 주께서 디셉 사람 엘리야에게 말씀하셨다.",
     Chn:"耶和华的话临到提斯比人以利亚说：",
     Eng:"Then the word of the LORD came to Elijah the Tishbite:",
     Ind:"Lalu datanglah firman TUHAN kepada Elia, orang Tisbe itu:"
   },
   {Bible:"1Kings", Chapter:21, Verse:29, Page:1,
-    Kor:"\"너는, 아합이 내 앞에서 겸손해진 것을 보았느냐? 그가 내 앞에서 겸손해졌기 때문에, 나는, 그가 살아 있는 동안에는 그에게 재앙을 내리지 않고, 그의 아들 대에 가서 그 가문에 재앙을 내리겠다.\"",
+    Kor:"\"너는, 아합이 내 앞에서 겸손해진 것을 보았느냐? 그가 내 앞에서 겸손해졌기 때문에, 나는, 그가 살아 있는 동안에는 그에게 재앙을 내리지 않고, 그의 아들 대에 가서, 그 가문에 재앙을 내리겠다.\"",
     Chn:"「亚哈在我面前这样自卑，你看见了吗？因他在我面前自卑，他还在世的时候，我不降这祸；到他儿子的时候，我必降这祸与他的家。」",
     Eng:"\"Have you noticed how Ahab has humbled himself before me? Because he has humbled himself, I will not bring this disaster in his day, but I will bring it on his house in the days of his son.\"",
     Ind:"\"Sudahkah kaulihat, bahwa Ahab merendahkan diri di hadapan-Ku? Oleh karena ia telah merendahkan diri di hadapan-Ku, maka Aku tidak akan mendatangkan malapetaka dalam zamannya; barulah dalam zaman anaknya Aku akan mendatangkan malapetaka atas keluarganya.\""

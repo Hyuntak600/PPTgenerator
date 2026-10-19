@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",11,43);
 BibleDB.add([
   {Bible:"1Kings", Chapter:11, Verse:1, Page:1,
-    Kor:"<솔로몬이 하나님에게서 돌아서다> 솔로몬 왕은 외국 여자들을 좋아하였다. 이집트의 바로의 딸 말고도, 모압 사람과 암몬 사람과 에돔 사람과 시돈 사람과 헷 사람에게서, 많은 외국 여자를 후궁으로 맞아들였다.",
+    Kor:"솔로몬 왕은 외국 여자들을 좋아하였다. 이집트의 바로의 딸 말고도, 모압 사람과 암몬 사람과 에돔 사람과 시돈 사람과 헷 사람에게서, 많은 외국 여자를 후궁으로 맞아들였다.",
     Chn:"所罗门王在法老的女儿之外，又宠爱许多外邦女子，就是摩押女子、亚扪女子、以东女子、西顿女子、赫人女子。",
     Eng:"King Solomon, however, loved many foreign women besides Pharaoh's daughter--Moabites, Ammonites, Edomites, Sidonians and Hittites.",
     Ind:"Adapun raja Salomo mencintai banyak perempuan asing. Di samping anak Firaun ia mencintai perempuan-perempuan Moab, Amon, Edom, Sidon dan Het,"
   },
   {Bible:"1Kings", Chapter:11, Verse:2, Page:1,
-    Kor:"주님께서 일찍이 이 여러 민족을 두고, 이스라엘 자손에게 경고하신 일이 있다. \"너희는 그들과 결혼을 하고자 해서도 안 되고, 그들이 청혼하여 오더라도 받아들여서는 안 된다. 분명히 그들은 너희의 마음을, 그들이 믿는 신에게로 기울어지게 할 것이다\" 하고 말씀하셨다. 그런데도 솔로몬은 외국 여자들을 좋아하였으므로, 마음을 돌리지 못하였다.",
+    Kor:"주께서 일찍이 이 여러 민족을 두고, 이스라엘 자손에게 경고하신 일이 있다. \"너희는 그들과 결혼을 하고자 해서도 안 되고, 그들이 청혼하여 오더라도 받아들여서는 안 된다. 분명히 그들은 너희의 마음을, 그들이 믿는 신에게로 기울어지게 할 것이다\" 하고 말씀하셨다. 그런데도 솔로몬은 외국 여자들을 좋아하였으므로, 마음을 돌리지 못하였다.",
     Chn:"论到这些国的人，耶和华曾晓谕以色列人说：「你们不可与她们往来相通，因为她们必诱惑你们的心去随从她们的神。」所罗门却恋爱这些女子。",
     Eng:"They were from nations about which the LORD had told the Israelites, \"You must not intermarry with them, because they will surely turn your hearts after their gods.\" Nevertheless, Solomon held fast to them in love.",
     Ind:"padahal tentang bangsa-bangsa itu TUHAN telah berfirman kepada orang Israel: \"Janganlah kamu bergaul dengan mereka dan merekapun janganlah bergaul dengan kamu, sebab sesungguhnya mereka akan mencondongkan hatimu kepada allah-allah mereka.\" Hati Salomo telah terpaut kepada mereka dengan cinta."
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Sebab pada waktu Salomo sudah tua, isteri-isterinya itu mencondongkan hatinya kepada allah-allah lain, sehingga ia tidak dengan sepenuh hati berpaut kepada TUHAN, Allahnya, seperti Daud, ayahnya."
   },
   {Bible:"1Kings", Chapter:11, Verse:5, Page:1,
-    Kor:"솔로몬이 시돈 사람의 여신 아스다롯과 암몬 사람의 우상 a밀곰을 따라가서,(a 또는 '몰렉')",
+    Kor:"솔로몬이 시돈 사람의 여신 아스다롯과 암몬 사람의 우상 밀곰을 따라가서,",
     Chn:"因为所罗门随从西顿人的女神亚斯她录和亚扪人可憎的神米勒公。",
     Eng:"He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites.",
     Ind:"Demikianlah Salomo mengikuti Asytoret, dewi orang Sidon, dan mengikuti Milkom, dewa kejijikan sembahan orang Amon,"
   },
   {Bible:"1Kings", Chapter:11, Verse:6, Page:1,
-    Kor:"주님 앞에서 악행을 하였다. 그의 아버지 다윗은 주님께 충성을 다하였으나, 솔로몬은 그러하지 못하였다.",
+    Kor:"주 앞에서 악행을 하였다. 그의 아버지 다윗은 주께 충성을 다하였으나, 솔로몬은 그러하지 못하였다.",
     Chn:"所罗门行耶和华眼中看为恶的事，不效法他父亲大卫专心顺从耶和华。",
     Eng:"So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.",
     Ind:"dan Salomo melakukan apa yang jahat di mata TUHAN, dan ia tidak dengan sepenuh hati mengikuti TUHAN, seperti Daud, ayahnya."
   },
   {Bible:"1Kings", Chapter:11, Verse:7, Page:1,
-    Kor:"솔로몬은 예루살렘 동쪽 산에 모압의 혐오스러운 우상 그모스를 섬기는 산당을 짓고, 암몬 자손의 혐오스러운 우상 몰렉을 섬기는 산당도 지었는데,",
+    Kor:"솔로몬은 예루살렘 동쪽 산에 모압의 혐오스러운 우상 그모스를 섬기는 산당을 짓고, 암몬 자손의 혐오스러운 우상 몰록을 섬기는 산당도 지었는데,",
     Chn:"所罗门为摩押可憎的神基抹和亚扪人可憎的神摩洛，在耶路撒冷对面的山上建筑邱坛。",
     Eng:"On a hill east of Jerusalem, Solomon built a high place for Chemosh the detestable god of Moab, and for Molech the detestable god of the Ammonites.",
     Ind:"Pada waktu itu Salomo mendirikan bukit pengorbanan bagi Kamos, dewa kejijikan sembahan orang Moab, di gunung di sebelah timur Yerusalem dan bagi Molokh, dewa kejijikan sembahan bani Amon."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Demikian juga dilakukannya bagi semua isterinya, orang-orang asing itu, yang mempersembahkan korban ukupan dan korban sembelihan kepada allah-allah mereka."
   },
   {Bible:"1Kings", Chapter:11, Verse:9, Page:1,
-    Kor:"○이와 같이, 솔로몬의 마음이 주 이스라엘의 하나님을 떠났으므로, 주님께서 솔로몬에게 진노하셨다. 주님께서는 두 번씩이나 솔로몬에게 나타나셔서,",
+    Kor:"○이와 같이, 솔로몬의 마음이 주 이스라엘의 하나님을 떠났으므로, 주께서 솔로몬에게 진노하셨다. 주께서는 두 번씩이나 솔로몬에게 나타나셔서,",
     Chn:"耶和华向所罗门发怒，因为他的心偏离向他两次显现的耶和华—以色列的　神。",
     Eng:"The LORD became angry with Solomon because his heart had turned away from the LORD, the God of Israel, who had appeared to him twice.",
     Ind:"Sebab itu TUHAN menunjukkan murka-Nya kepada Salomo, sebab hatinya telah menyimpang dari pada TUHAN, Allah Israel, yang telah dua kali menampakkan diri kepadanya,"
   },
   {Bible:"1Kings", Chapter:11, Verse:10, Page:1,
-    Kor:"다른 신들을 따라가지 말라고 당부하셨지만, 솔로몬은 주님께서 하신 말씀에 순종하지 않았다.",
+    Kor:"다른 신들을 따라가지 말라고 당부하셨지만, 솔로몬은 주께서 하신 말씀에 순종하지 않았다.",
     Chn:"耶和华曾吩咐他不可随从别神，他却没有遵守耶和华所吩咐的。",
     Eng:"Although he had forbidden Solomon to follow other gods, Solomon did not keep the LORD'S command.",
     Ind:"dan yang telah memerintahkan kepadanya dalam hal ini supaya jangan mengikuti allah-allah lain, akan tetapi ia tidak berpegang pada yang diperintahkan TUHAN."
   },
   {Bible:"1Kings", Chapter:11, Verse:11, Page:1,
-    Kor:"그러므로 주님께서 솔로몬에게 이렇게 말씀하셨다. \"네가 이러한 일을 하였고, 내 언약과 내가 너에게 명령한 내 법규를 지키지 아니하였으니, 내가 반드시 네게서 왕국을 떼어서, 네 신하에게 주겠다.",
+    Kor:"그러므로 주께서 솔로몬에게 이렇게 말씀하셨다. \"네가 이러한 일을 하였고, 내 언약과 내가 너에게 명령한 내 법규를 지키지 아니하였으니, 내가 반드시 네게서 왕국을 떼어서, 네 신하에게 주겠다.",
     Chn:"所以耶和华对他说：「你既行了这事，不遵守我所吩咐你守的约和律例，我必将你的国夺回，赐给你的臣子。",
     Eng:"So the LORD said to Solomon, \"Since this is your attitude and you have not kept my covenant and my decrees, which I commanded you, I will most certainly tear the kingdom away from you and give it to one of your subordinates.",
     Ind:"Lalu berfirmanlah TUHAN kepada Salomo: \"Oleh karena begitu kelakuanmu, yakni engkau tidak berpegang pada perjanjian dan segala ketetapan-Ku yang telah Kuperintahkan kepadamu, maka sesungguhnya Aku akan mengoyakkan kerajaan itu dari padamu dan akan memberikannya kepada hambamu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Namun demikian, kerajaan itu tidak seluruhnya akan Kukoyakkan dari padanya, satu suku akan Kuberikan kepada anakmu oleh karena hamba-Ku Daud dan oleh karena Yerusalem yang telah Kupilih.\""
   },
   {Bible:"1Kings", Chapter:11, Verse:14, Page:1,
-    Kor:"<솔로몬의 적> ○이렇게 해서, 주님께서는, 에돔 출신으로 에돔에 살고 있는 왕손 하닷을 일으키셔서, 솔로몬의 대적이 되게 하셨다.",
+    Kor:"○이렇게 해서, 주께서는, 에돔 출신으로 에돔에 살고 있는 왕손 하닷을 일으키셔서, 솔로몬의 대적이 되게 하셨다.",
     Chn:"耶和华使以东人哈达兴起，作所罗门的敌人；他是以东王的后裔。",
     Eng:"Then the LORD raised up against Solomon an adversary, Hadad the Edomite, from the royal line of Edom.",
     Ind:"Kemudian TUHAN membangkitkan seorang lawan Salomo, yakni Hadad, orang Edom; ia dari keturunan raja Edom."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Ketika didengar Hadad di Mesir, bahwa Daud telah mendapat perhentian bersama-sama dengan nenek moyangnya dan bahwa panglima Yoab sudah mati juga, maka berkatalah Hadad kepada Firaun: \"Biarkanlah aku pergi ke negeriku.\""
   },
   {Bible:"1Kings", Chapter:11, Verse:22, Page:1,
-    Kor:"그러자 바로는 그에게 \"나와 함께 있는 것이 무엇이 부족해서, 그렇게도 고국으로 가려고만 하오?\" 하면서 말렸다. 그러나 하닷은, 부족한 것은 아무것도 없지만, 보내 달라고 간청하였다.",
+    Kor:"그러자 바로는 그에게 \"나와 함께 있는 것이 무엇이 부족해서, 그렇게도 고국으로 가려고만 하느냐?\" 하면서 말렸다. 그러나 하닷은, 부족한 것은 아무것도 없지만, 보내 달라고 간청하였다.",
     Chn:"法老对他说：「你在我这里有什么缺乏，你竟要回你本国去呢？」他回答说：「我没有缺乏什么，只是求王容我回去。」",
     Eng:"\"What have you lacked here that you want to go back to your own country?\" Pharaoh asked. \"Nothing,\" Hadad replied, \"but do let me go!\"",
     Ind:"Lalu bertanyalah Firaun kepadanya: \"Tetapi kekurangan apakah engkau padaku ini, maka engkau tiba-tiba berniat pergi ke negerimu?\" Jawabnya: \"Aku tidak kekurangan apapun, namun demikian, biarkanlah juga aku pergi.\""
   },
   {Bible:"1Kings", Chapter:11, Verse:23, Page:1,
-    Kor:"○하나님께서는 솔로몬의 또 다른 대적자로서, 엘리아다의 아들 르손을 일으키셨다. 그는 자기가 섬기던 소바 왕 하닷에셀에게서 도망한 사람이다.",
+    Kor:"○하나님께서는 솔로몬의 또 다른 대적자로서, 엘리아다의 아들 르손을 일으키셨다. 그는 자기의 왕인 소바 왕 하닷에셀에게서 도망한 사람이다.",
     Chn:"神又使以利亚大的儿子利逊兴起，作所罗门的敌人。他先前逃避主人琐巴王哈大底谢。",
     Eng:"And God raised up against Solomon another adversary, Rezon son of Eliada, who had fled from his master, Hadadezer king of Zobah.",
     Ind:"Allah membangkitkan pula seorang lawan Salomo, yakni Rezon bin Elyada, yang telah melarikan diri dari tuannya, yakni Hadadezer, raja Zoba."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Ia mengumpulkan orang-orang, lalu menjadi kepala gerombolan. Ketika Daud hendak membunuh mereka, maka pergilah mereka ke Damsyik; mereka diam di sana dan di situlah mereka mengangkat Rezon menjadi raja."
   },
   {Bible:"1Kings", Chapter:11, Verse:25, Page:1,
-    Kor:"르손은 솔로몬의 일생 동안에 이스라엘의 대적자가 되었다. 그렇지 않아도, 솔로몬은 하닷에게 시달리고 있었는데, 엎친 데 덮친 격으로, 르손에게도 시달렸다. 르손은 시리아를 다스리는 왕이 되어서, 계속하여 이스라엘을 괴롭혔다.",
+    Kor:"르손은 솔로몬의 일생 동안에, 이스라엘의 대적자가 되었다. 그렇지 않아도, 솔로몬은 하닷에게 시달리고 있었는데, 엎친 데 덮친 격으로, 르손에게도 시달렸다. 르손은 시리아를 다스리는 왕이 되어서, 계속하여 이스라엘을 괴롭혔다.",
     Chn:"所罗门活着的时候，哈达为患之外，利逊也作以色列的敌人。他恨恶以色列人，且作了亚兰人的王。",
     Eng:"Rezon was Israel's adversary as long as Solomon lived, adding to the trouble caused by Hadad. So Rezon ruled in Aram and was hostile toward Israel.",
     Ind:"Dialah yang menjadi lawan Israel sepanjang umur Salomo; ia mendatangkan malapetaka sama seperti Hadad. Ia muak akan orang Israel dan menjadi raja atas Aram."
   },
   {Bible:"1Kings", Chapter:11, Verse:26, Page:1,
-    Kor:"<여로보암에게 하신 하나님의 약속> ○느밧의 아들 여로보암은 에브라임 족의 스레다 사람으로서, 한동안은 솔로몬의 신하였다. 이 사람까지도 솔로몬 왕에게 반기를 들어서 대적하였다. 그의 어머니는 과부 스루아이다.",
+    Kor:"○느밧의 아들 여로보암은 에브라임 족의 스레다 사람으로서, 한동안은 솔로몬의 신하였다. 이 사람까지도 솔로몬 왕에게 반기를 들어서 대적하였다. 그의 어머니는 과부 스루아이다.",
     Chn:"所罗门的臣仆、尼八的儿子耶罗波安也举手攻击王。他是以法莲支派的洗利达人，他母亲是寡妇，名叫洗鲁阿。",
     Eng:"Also, Jeroboam son of Nebat rebelled against the king. He was one of Solomon's officials, an Ephraimite from Zeredah, and his mother was a widow named Zeruah.",
     Ind:"Juga Yerobeam bin Nebat, seorang Efraim dari Zereda, seorang pegawai Salomo, nama ibunya Zerua, seorang janda, memberontak terhadap raja."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Ahia memegang kain baru yang di badannya, lalu dikoyakkannya menjadi dua belas koyakan;"
   },
   {Bible:"1Kings", Chapter:11, Verse:31, Page:1,
-    Kor:"여로보암에게 말하였다. ○\"열 조각은 그대가 가지십시오. 주 이스라엘의 하나님께서 그대에게 이렇게 말씀하셨습니다. '자, 내가 솔로몬의 왕국을 찢어서, 열 지파를 너에게 준다.",
+    Kor:"여로보암에게 말하였다. ○\"열 조각은 그대가 가지시오. 주 이스라엘의 하나님께서 그대에게 이렇게 말씀하셨소. '자, 내가 솔로몬의 왕국을 찢어서, 열 지파를 너에게 준다.",
     Chn:"对耶罗波安说：「你可以拿十片。耶和华—以色列的　神如此说：『我必将国从所罗门手里夺回，将十个支派赐给你。（",
     Eng:"Then he said to Jeroboam, \"Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: 'See, I am going to tear the kingdom out of Solomon's hand and give you ten tribes.",
     Ind:"dan ia berkata kepada Yerobeam: \"Ambillah bagimu sepuluh koyakan, sebab beginilah firman TUHAN, Allah Israel: Sesungguhnya Aku akan mengoyakkan kerajaan itu dari tangan Salomo dan akan memberikan kepadamu sepuluh suku."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Tetapi satu suku akan tetap padanya oleh karena hamba-Ku Daud dan oleh karena Yerusalem, kota yang Kupilih itu dari segala suku Israel."
   },
   {Bible:"1Kings", Chapter:11, Verse:33, Page:1,
-    Kor:"b솔로몬은 나를 버리고, 시돈 사람의 여신인 아스다롯과 모압의 신 그모스와 암몬 자손의 신 밀곰에게 절하며, 그의 아버지 다윗과는 달리, 내 앞에서 바르게 살지도 않고, 법도와 율례를 지키지도 않았지만,(b 칠십인역과 불가타와 시리아어역을 따름. 히, '그들이 나를 버리고……')",
+    Kor:"솔로몬은 나를 버리고, 시돈 사람의 여신인 아스다롯과 모압의 신 그모스와 암몬 자손의 신 밀곰에게 절하며, 그의 아버지 다윗과는 달리, 내 앞에서 바르게 살지도 않고, 법도와 율례를 지키지도 않았지만,",
     Chn:"因为他离弃我，敬拜西顿人的女神亚斯她录、摩押的神基抹，和亚扪人的神米勒公，没有遵从我的道，行我眼中看为正的事，守我的律例典章，像他父亲大卫一样。",
     Eng:"I will do this because they have forsaken me and worshiped Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Molech the god of the Ammonites, and have not walked in my ways, nor done what is right in my eyes, nor kept my statutes and laws as David, Solomon's father, did.",
     Ind:"Sebabnya ialah karena ia telah meninggalkan Aku dan sujud menyembah kepada Asytoret, dewi orang Sidon, kepada Kamos, allah orang Moab dan kepada Milkom, allah bani Amon, dan ia tidak hidup menurut jalan yang Kutunjukkan dengan melakukan apa yang benar di mata-Ku dan dengan tetap mengikuti segala ketetapan dan peraturan-Ku, seperti Daud, ayahnya."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Dan jika engkau mendengarkan segala yang Kuperintahkan kepadamu dan hidup menurut jalan yang Kutunjukkan dan melakukan apa yang benar di mata-Ku dengan tetap mengikuti segala ketetapan dan perintah-Ku seperti yang telah dilakukan oleh hamba-Ku Daud, maka Aku akan menyertai engkau dan Aku akan membangunkan bagimu suatu keluarga yang teguh seperti yang Kubangunkan bagi Daud, dan Aku akan memberikan orang Israel kepadamu."
   },
   {Bible:"1Kings", Chapter:11, Verse:39, Page:1,
-    Kor:"솔로몬이 지은 죄 때문에 내가 다윗 자손에게 이러한 형벌을 줄 것이지만, 항상 그러하지는 않을 것이다.'\"",
+    Kor:"솔로몬이 지은 죄 때문에, 내가 다윗 자손에게 이러한 형벌을 줄 것이지만, 항상 그러하지는 않을 것이다.'\"",
     Chn:"我必因所罗门所行的使大卫后裔受患难，但不至于永远。』」",
     Eng:"I will humble David's descendants because of this, but not forever.'\"",
     Ind:"Dan untuk itu Aku akan merendahkan keturunan Daud, tetapi bukan untuk selamanya.\""
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Lalu Salomo berikhtiar membunuh Yerobeam, tetapi Yerobeam bangkit dan melarikan diri ke Mesir, kepada Sisak, raja Mesir, dan di Mesirlah ia tinggal sampai Salomo mati."
   },
   {Bible:"1Kings", Chapter:11, Verse:41, Page:1,
-    Kor:"<솔로몬이 죽다(대하 9:29-31)> ○솔로몬의 나머지 행적과 그가 한 모든 일과 그의 지혜는 모두 '솔로몬 왕의 실록'에 기록되어 있다.",
+    Kor:"○솔로몬의 나머지 행적과 그가 한 모든 일과 그의 지혜는 모두 '솔로몬 왕의 실록'에 기록되어 있다.",
     Chn:"所罗门其余的事，凡他所行的和他的智慧都写在所罗门记上。",
     Eng:"As for the other events of Solomon's reign--all he did and the wisdom he displayed--are they not written in the book of the annals of Solomon?",
     Ind:"Selebihnya dari riwayat Salomo dan segala yang dilakukannya dan hikmatnya, bukankah semuanya itu tertulis dalam kitab riwayat Salomo?"

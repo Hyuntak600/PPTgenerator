@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",6,30);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:6, Verse:1, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:6, Verse:2, Page:1,
-    Kor:"○\"누구든지 나 주에게 성실하지 못하여 죄를 지으면, 곧 이웃이 맡긴 물건이나 담보물을 속이거나, 도둑질을 하거나, 이웃의 것을 강제로 빼앗거나,",
+    Kor:"○\"누구든지 주께 성실하지 못하여 죄를 지으면, 곧 이웃이 맡긴 물건이나 담보물을 속이거나, 도둑질을 하거나, 이웃의 것을 강제로 빼앗거나,",
     Chn:"「若有人犯罪，干犯耶和华，在邻舍交付他的物上，或是在交易上行了诡诈，或是抢夺人的财物，或是欺压邻舍，",
     Eng:"\"If anyone sins and is unfaithful to the LORD by deceiving his neighbor about something entrusted to him or left in his care or stolen, or if he cheats him,",
     Ind:"\"Apabila seseorang berbuat dosa dan berubah setia terhadap TUHAN, dan memungkiri terhadap sesamanya barang yang dipercayakan kepadanya, atau barang yang diserahkan kepadanya atau barang yang dirampasnya, atau apabila ia telah melakukan pemerasan atas sesamanya,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"atau segala sesuatu yang dimungkirinya dengan bersumpah dusta. Haruslah ia membayar gantinya sepenuhnya dengan menambah seperlima; haruslah ia menyerahkannya kepada pemiliknya pada hari ia mempersembahkan korban penebus salahnya."
   },
   {Bible:"Leviticus", Chapter:6, Verse:6, Page:1,
-    Kor:"그는 주에게 바치는 속건제물을 제사장에게 가져 가야 한다. 그것은 양 떼 가운데서 고른 흠 없는 숫양 한 마리로서, 그 속건제물의 값은 네가 정하여 주어라.",
+    Kor:"그는 주께 바치는 속건제물을 제사장에게 가져 가야 한다. 그것은 양 떼 가운데서 고른 흠 없는 숫양 한 마리로서, 그 속건제물의 값은 네가 정하여 주어라.",
     Chn:"也要照你所估定的价，把赎愆祭牲—就是羊群中一只没有残疾的公绵羊—牵到耶和华面前，给祭司为赎愆祭。",
     Eng:"And as a penalty he must bring to the priest, that is, to the LORD, his guilt offering, a ram from the flock, one without defect and of the proper value.",
     Ind:"Sebagai korban penebus salahnya haruslah ia mempersembahkan kepada TUHAN seekor domba jantan yang tidak bercela dari kambing domba, yang sudah dinilai, menjadi korban penebus salah, dengan menyerahkannya kepada imam."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Imam harus mengadakan pendamaian bagi orang itu di hadapan TUHAN, sehingga ia menerima pengampunan atas perkara apapun yang diperbuatnya sehingga ia bersalah.\""
   },
   {Bible:"Leviticus", Chapter:6, Verse:8, Page:1,
-    Kor:"<번제를 드릴 때의 규례> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:6, Verse:9, Page:1,
-    Kor:"\"너는 아론과 그의 아들들에게 다음과 같이 일러라. ○번제를 드리는 규례는 다음과 같다. 번제물은 밤이 새도록 곧 아침이 될 때까지 제단의 석쇠 위에 있어야 하고, 제단 위의 불은 계속 타고 있어야 한다.",
+    Kor:"\"너는 아론과 그의 아들들에게 다음과 같이 일러라. ○번제를 드리는 규례는 다음과 같다. 번제물은 밤이 새도록, 곧 아침이 될 때까지 제단의 석쇠 위에 있어야 하고, 제단 위의 불은 계속 타고 있어야 한다.",
     Chn:"「你要吩咐亚伦和他的子孙说，燔祭的条例乃是这样：燔祭要放在坛的柴上，从晚上到天亮，坛上的火要常常烧着。",
     Eng:"\"Give Aaron and his sons this command: 'These are the regulations for the burnt offering: The burnt offering is to remain on the altar hearth throughout the night, till morning, and the fire must be kept burning on the altar.",
     Ind:"\"Perintahkanlah kepada Harun dan anak-anaknya: Inilah hukum tentang korban bakaran. Korban bakaran itu haruslah tinggal di atas perapian di atas mezbah semalam-malaman sampai pagi, dan api mezbah haruslah dipelihara menyala di atasnya."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Api yang di atas mezbah itu harus dijaga supaya terus menyala, jangan dibiarkan padam. Tiap-tiap pagi imam harus menaruh kayu di atas mezbah, mengatur korban bakaran di atasnya dan membakar segala lemak korban keselamatan di sana."
   },
   {Bible:"Leviticus", Chapter:6, Verse:13, Page:1,
-    Kor:"제단 위의 불은 계속 타고 있어야 하며 꺼뜨려서는 안 된다.\"",
+    Kor:"제단 위의 불은 계속 타고 있어야 하며 꺼뜨려서는 안 된다.",
     Chn:"在坛上必有常常烧着的火，不可熄灭。」",
     Eng:"The fire must be kept burning on the altar continuously; it must not go out.",
     Ind:"Harus dijaga supaya api tetap menyala di atas mezbah, janganlah dibiarkan padam.\""
   },
   {Bible:"Leviticus", Chapter:6, Verse:14, Page:1,
-    Kor:"<곡식제물을 바칠 때의 규례> ○\"곡식제물을 바치는 규례는 다음과 같다. 그 제물은 아론의 아들들이 주 앞 곧 제단 앞에 바쳐야 한다.",
+    Kor:"○곡식제물을 드리는 규례는 다음과 같다. 그 제물은 아론의 아들들이 주 앞, 곧 제단 앞에 바쳐야 한다.",
     Chn:"「素祭的条例乃是这样：亚伦的子孙要在坛前把这祭献在耶和华面前。",
     Eng:"\"'These are the regulations for the grain offering: Aaron's sons are to bring it before the LORD, in front of the altar.",
     Ind:"\"Inilah hukum tentang korban sajian. Anak-anak Harun haruslah membawanya ke hadapan TUHAN ke depan mezbah."
@@ -105,49 +105,49 @@ BibleDB.add([
     Ind:"Janganlah itu dibakar beragi. Telah Kuberikan itu sebagai bagian mereka dari pada segala korban api-apian-Ku; itulah bagian maha kudus, sama seperti korban penghapus dosa dan korban penghapus salah."
   },
   {Bible:"Leviticus", Chapter:6, Verse:18, Page:1,
-    Kor:"아론의 자손들 가운데서 남자는 모두 주에게 살라 바치는 이 제물에서 남은 것을 먹을 수 있다. 이것은 너희가 대대로 영원히 지켜야 할 규례이다. 이 제물을 만지는 사람은 누구든지 거룩하게 될 것이다.\"",
+    Kor:"아론의 자손들 가운데서 남자는 모두 주께 살라 바치는 이 제물에서 남은 것을 먹을 수 있다. 이것은 너희가 대대로 영원히 지켜야 할 규례이다. 이 제물을 만지는 사람은 누구든지 거룩하게 될 것이다.\"",
     Chn:"凡献给耶和华的火祭，亚伦子孙中的男丁都要吃这一分，直到万代，作他们永得的分。摸这些祭物的，都要成为圣。」",
     Eng:"Any male descendant of Aaron may eat it. It is his regular share of the offerings made to the LORD by fire for the generations to come. Whatever touches them will become holy.'\"",
     Ind:"Setiap laki-laki di antara anak-anak Harun haruslah memakannya; itulah suatu ketetapan untuk selamanya bagi kamu turun-temurun; itulah bagianmu dari segala korban api-apian TUHAN. Setiap orang yang kena kepada korban-korban itu menjadi kudus.\""
   },
   {Bible:"Leviticus", Chapter:6, Verse:19, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD also said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:6, Verse:20, Page:1,
-    Kor:"○\"아론과 그의 아들들을 기름부어 세우는 날에, 제각기 주에게 바쳐야 할 제물은 다음과 같다. 늘 바치는 곡식제물에서와 같이, 고운 밀가루 십분의 일 에바를 가지고, 반은 아침에, 그리고 반은 저녁에 바친다.",
+    Kor:"○\"아론과 그의 아들들을 기름부어 세우는 날에, 제각기 주께 바쳐야 할 제물은 다음과 같다. 늘 드리는 곡식제물에서와 같이, 고운 밀가루 십분의 일 에바를 가지고, 반은 아침에, 그리고 반은 저녁에 바친다.",
     Chn:"「当亚伦受膏的日子，他和他子孙所要献给耶和华的供物，就是细面伊法十分之一，为常献的素祭：早晨一半，晚上一半。",
     Eng:"\"This is the offering Aaron and his sons are to bring to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.",
     Ind:"\"Inilah persembahan Harun dan anak-anaknya, yang harus dipersembahkan oleh mereka kepada TUHAN pada hari ia diurapi: sepersepuluh efa tepung yang terbaik sebagai korban sajian yang tetap, setengahnya pada waktu pagi dan setengahnya pada waktu petang."
   },
   {Bible:"Leviticus", Chapter:6, Verse:21, Page:1,
-    Kor:"그 제물은 기름에 반죽하여 빵 굽는 판에다 구워야 한다. 너희는 그것을 기름으로 잘 반죽하여 가져 와야 하고, 너는 그것을 곡식제물을 바칠 때와 같이 여러 조각으로 잘라, 그 향기로 주를 기쁘게 하는 제물로 바쳐야 한다.",
+    Kor:"그 제물은 기름에 반죽하여 빵 굽는 판에다 구워야 한다. 너희는 그것을 기름으로 잘 반죽하여 가져 와야 하고, 너는 그것을 곡식제물을 드릴 때와 같이 여러 조각으로 잘라, 그 향기로 주를 기쁘게 하는 제물로 바쳐야 한다.",
     Chn:"要在铁鏊上用油调和做成，调匀了，你就拿进来；烤好了分成块子，献给耶和华为馨香的素祭。",
     Eng:"Prepare it with oil on a griddle; bring it well-mixed and present the grain offering broken in pieces as an aroma pleasing to the LORD.",
     Ind:"Haruslah itu diolah di atas panggangan bersama-sama minyak, setelah teraduk haruslah engkau membawanya dan mempersembahkannya sebagai korban sajian, sesudah dibakar dan berpotong-potong sebagai bau yang menyenangkan bagi TUHAN."
   },
   {Bible:"Leviticus", Chapter:6, Verse:22, Page:1,
-    Kor:"아론의 아들들 가운데서 아론의 뒤를 이어 기름부어 세움을 받은 제사장은, 영원히 이 규례를 따라 이렇게 주에게 제사를 드려야 한다. 주에게 바친 제물은 모두 불태워야 한다.",
+    Kor:"아론의 아들들 가운데서 아론의 뒤를 이어 기름부어 세움을 받은 제사장은, 영원히 이 규례를 따라 이렇게 주께 제사를 드려야 한다. 주께 바친 제물은 모두 불태워야 한다.",
     Chn:"亚伦的子孙中，接续他为受膏的祭司，要把这素祭献上，要全烧给耶和华。这是永远的定例。",
     Eng:"The son who is to succeed him as anointed priest shall prepare it. It is the LORD'S regular share and is to be burned completely.",
     Ind:"Dan imam dari antara anak-anaknya yang diurapi sebagai penggantinya, haruslah mengolahnya; itulah suatu ketetapan untuk selamanya. Seluruhnya haruslah dibakar bagi TUHAN."
   },
   {Bible:"Leviticus", Chapter:6, Verse:23, Page:1,
-    Kor:"제사장이 바치는 곡식제물은 모두 불태워야 한다. 아무도 그것을 먹어서는 안 된다.\"",
+    Kor:"제사장이 드리는 곡식제물은 모두 불태워야 한다. 아무도 그것을 먹어서는 안 된다.\"",
     Chn:"祭司的素祭都要烧了，却不可吃。」",
     Eng:"Every grain offering of a priest shall be burned completely; it must not be eaten.\"",
     Ind:"Tiap-tiap korban sajian dari seorang imam itu haruslah menjadi korban yang terbakar seluruhnya, janganlah dimakan.\""
   },
   {Bible:"Leviticus", Chapter:6, Verse:24, Page:1,
-    Kor:"<속죄제물을 바칠 때의 규례> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa, demikian:"
   },
   {Bible:"Leviticus", Chapter:6, Verse:25, Page:1,
-    Kor:"\"너는 아론과 그의 아들들에게 다음과 같이 일러라. ○속죄제사를 드리는 규례는 다음과 같다. 속죄제사에 바치는 제물은 번제물을 잡는 자리 곧 주 앞에서 잡아서 바쳐야 한다. 그것은 가장 거룩한 제물이다.",
+    Kor:"\"너는 아론과 그의 아들들에게 다음과 같이 일러라. ○속죄제사를 드리는 규례는 다음과 같다. 속죄제사에 바치는 제물은 번제물을 잡는 자리, 곧 주 앞에서 잡아서 바쳐야 한다. 그것은 가장 거룩한 제물이다.",
     Chn:"「你对亚伦和他的子孙说，赎罪祭的条例乃是这样：要在耶和华面前、宰燔祭牲的地方宰赎罪祭牲；这是至圣的。",
     Eng:"\"Say to Aaron and his sons: 'These are the regulations for the sin offering: The sin offering is to be slaughtered before the LORD in the place the burnt offering is slaughtered; it is most holy.",
     Ind:"\"Katakanlah kepada Harun dan anak-anaknya: Inilah hukum tentang korban penghapus dosa. Di tempat korban bakaran disembelih, di situlah harus disembelih korban penghapus dosa di hadapan TUHAN. Itulah persembahan maha kudus."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Imam yang mempersembahkan korban penghapus dosa itulah yang harus memakannya; haruslah itu dimakan di suatu tempat yang kudus, di pelataran Kemah Pertemuan."
   },
   {Bible:"Leviticus", Chapter:6, Verse:27, Page:1,
-    Kor:"그 고기에 닿는 것은 a무엇이든지 거룩하게 된다. 그 제물의 피가 튀어 옷에 묻었을 때에는, 거기 거룩한 곳에서 그 옷을 빨아야 한다.(a 또는 '누구든지')",
+    Kor:"그 고기에 닿는 것은 무엇이든지 거룩하게 된다. 그 제물의 피가 튀어 옷에 묻었을 때에는, 거기 거룩한 곳에서 그 옷을 빨아야 한다.",
     Chn:"凡摸这祭肉的要成为圣；这祭牲的血若弹在什么衣服上，所弹的那一件要在圣处洗净。",
     Eng:"Whatever touches any of the flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place.",
     Ind:"Setiap orang yang kena kepada daging korban itu menjadi kudus, dan bila darahnya ada yang tepercik kepada sesuatu pakaian, haruslah engkau mencuci pakaian itu di suatu tempat yang kudus."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Setiap laki-laki di antara para imam haruslah memakannya; itulah persembahan maha kudus."
   },
   {Bible:"Leviticus", Chapter:6, Verse:30, Page:1,
-    Kor:"그러나 성소에서 사람을 속죄해 주려고 제물의 피를 회막 안으로 가져 왔을 때에는, 어떤 속죄제물도 먹어서는 안 된다. 그 제물은 불에 태워야 한다.\"",
+    Kor:"그러나 성소에서 사람을 속죄해 주려고 제물의 피를 회막 안으로 가져 왔을 때에는, 어떤 속죄제물도 먹어서는 안 된다. 그 제물은 불에 태워야 한다.",
     Chn:"凡赎罪祭，若将血带进会幕在圣所赎罪，那肉都不可吃，必用火焚烧。」",
     Eng:"But any sin offering whose blood is brought into the Tent of Meeting to make atonement in the Holy Place must not be eaten; it must be burned.",
     Ind:"Tetapi setiap korban penghapus dosa, yang dari darahnya dibawa sebagian ke dalam Kemah Pertemuan untuk mengadakan pendamaian di dalam tempat kudus, janganlah dimakan, melainkan dibakar habis dengan api.\""

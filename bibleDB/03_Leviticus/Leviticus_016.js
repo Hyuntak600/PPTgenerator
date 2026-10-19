@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",16,34);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:16, Verse:1, Page:1,
-    Kor:"<속죄일> 아론의 두 아들이 주님 앞에 가까이 갔다가 죽은 일이 있다. 그들이 그렇게 죽은 뒤에, 주님께서 모세에게 말씀하셨다.",
+    Kor:"아론의 두 아들이 주 앞에 가까이 갔다가 죽은 일이 있다. 그들이 그렇게 죽은 뒤에, 주께서 모세에게 말씀하셨다.",
     Chn:"亚伦的两个儿子近到耶和华面前死了。死了之后，耶和华晓谕摩西说：",
     Eng:"The LORD spoke to Moses after the death of the two sons of Aaron who died when they approached the LORD.",
     Ind:"Sesudah kedua anak Harun mati, yang terjadi pada waktu mereka mendekat ke hadapan TUHAN, berfirmanlah TUHAN kepada Musa."
   },
   {Bible:"Leviticus", Chapter:16, Verse:2, Page:1,
-    Kor:"다음은 그 때에 주님께서 모세에게 하신 말씀이다. ○\"너는 너의 형 아론에게 '죽지 않으려거든, 보통 때에는 휘장 안쪽 a거룩한 곳 곧 법궤를 덮은 덮개 앞으로 나아가지 말라'고 일러라. 내가 구름에 휩싸여 있다가 그 덮개 위에서 나타나기 때문이다.(a 지성소를 가리킴(출 26:31-35))",
+    Kor:"다음은 그 때에 주께서 모세에게 하신 말씀이다. ○\"너는 너의 형 아론에게 '죽지 않으려거든, 보통 때에는 휘장 안쪽 거룩한 곳 곧 법궤를 덮은 덮개 앞으로 나아가지 말라'고 일러라. 내가 구름에 휩싸여 있다가 그 덮개 위에서 나타나기 때문이다.",
     Chn:"「要告诉你哥哥亚伦，不可随时进圣所的幔子内、到柜上的施恩座前，免得他死亡，因为我要从云中显现在施恩座上。",
     Eng:"The LORD said to Moses: \"Tell your brother Aaron not to come whenever he chooses into the Most Holy Place behind the curtain in front of the atonement cover on the ark, or else he will die, because I appear in the cloud over the atonement cover.",
     Ind:"Firman TUHAN kepadanya: \"Katakanlah kepada Harun, kakakmu, supaya ia jangan sembarang waktu masuk ke dalam tempat kudus di belakang tabir, ke depan tutup pendamaian yang di atas tabut supaya jangan ia mati; karena Aku menampakkan diri dalam awan di atas tutup pendamaian."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Ia harus mengambil kedua ekor kambing jantan itu dan menempatkannya di hadapan TUHAN di depan pintu Kemah Pertemuan,"
   },
   {Bible:"Leviticus", Chapter:16, Verse:8, Page:1,
-    Kor:"그 숫염소 두 마리를 놓고서 제비를 뽑아서, 주에게 바칠 염소와 b아사셀에게 바칠 염소를 결정하여야 한다.",
+    Kor:"그 숫염소 두 마리를 놓고서 제비를 뽑아서, 주께 바칠 염소와 아사셀에게 바칠 염소를 결정하여야 한다.",
     Chn:"为那两只羊拈阄，一阄归与耶和华，一阄归与阿撒泻勒。",
     Eng:"He is to cast lots for the two goats--one lot for the LORD and the other for the scapegoat.",
     Ind:"dan harus membuang undi atas kedua kambing jantan itu, sebuah undi bagi TUHAN dan sebuah bagi Azazel."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Lalu Harun harus mempersembahkan kambing jantan yang kena undi bagi TUHAN itu dan mengolahnya sebagai korban penghapus dosa."
   },
   {Bible:"Leviticus", Chapter:16, Verse:10, Page:1,
-    Kor:"b아사셀의 몫으로 뽑힌 숫염소는 산 채로 주 앞에 세워 두었다가, 속죄제물을 삼아, 빈 들에 있는 아사셀에게 보내야 한다.(b 또는 '속죄의 염소를'. 아사셀은 들 귀신의 이름(26절에서도))",
+    Kor:"아사셀의 몫으로 뽑힌 숫염소는 산 채로 주 앞에 세워 두었다가, 속죄제물을 삼아, 빈 들에 있는 아사셀에게 보내야 한다.",
     Chn:"但那拈阄归与阿撒泻勒的羊要活着安置在耶和华面前，用以赎罪，打发人送到旷野去，归与阿撒泻勒。",
     Eng:"But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to be used for making atonement by sending it into the desert as a scapegoat.",
     Ind:"Tetapi kambing jantan yang kena undi bagi Azazel haruslah ditempatkan hidup-hidup di hadapan TUHAN untuk mengadakan pendamaian, lalu dilepaskan bagi Azazel ke padang gurun."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Dan ia harus mengambil perbaraan berisi penuh bara api dari atas mezbah yang di hadapan TUHAN, serta serangkup penuh ukupan dari wangi-wangian yang digiling sampai halus, lalu membawanya masuk ke belakang tabir."
   },
   {Bible:"Leviticus", Chapter:16, Verse:13, Page:1,
-    Kor:"주 앞에서 향가루를 숯불에 태우고, 그 향 타는 연기가 c증거궤 위의 d덮개를 가리우게 하여야 한다. 그래야만 그가 죽지 않는다.(c 또는 '법궤' d 또는 '속죄소' 또는 '시은좌'(14-15절에서도))",
+    Kor:"주 앞에서 향가루를 숯불에 태우고, 그 향 타는 연기가 증거궤 위의 덮개를 가리우게 하여야 한다. 그래야만 그가 죽지 않는다.",
     Chn:"在耶和华面前，把香放在火上，使香的烟云遮掩法柜上的施恩座，免得他死亡；",
     Eng:"He is to put the incense on the fire before the LORD, and the smoke of the incense will conceal the atonement cover above the Testimony, so that he will not die.",
     Ind:"Kemudian ia harus meletakkan ukupan itu di atas api yang di hadapan TUHAN, sehingga asap ukupan itu menutupi tutup pendamaian yang di atas hukum Allah, supaya ia jangan mati."
   },
   {Bible:"Leviticus", Chapter:16, Verse:14, Page:1,
-    Kor:"그런 다음에, 그는 수소의 피를 얼마 받아다가 손가락으로 찍어서, 덮개 너머 곧 덮개 동쪽 부분에 한 번 뿌리고, 손가락으로 피를 찍어서 덮개 앞에 일곱 번 뿌려야 한다.",
+    Kor:"그런 다음에, 그는 수소의 피를 얼마 받아다가 손가락으로 찍어서, 덮개 너머, 곧 덮개 동쪽 부분에 한 번 뿌리고, 손가락으로 피를 찍어서 덮개 앞에 일곱 번 뿌려야 한다.",
     Chn:"也要取些公牛的血，用指头弹在施恩座的东面，又在施恩座的前面弹血七次。",
     Eng:"He is to take some of the bull's blood and with his finger sprinkle it on the front of the atonement cover; then he shall sprinkle some of it with his finger seven times before the atonement cover.",
     Ind:"Lalu ia harus mengambil sedikit dari darah lembu jantan itu dan memercikkannya dengan jarinya ke atas tutup pendamaian di bagian muka, dan ke depan tutup pendamaian itu ia harus memercikkan sedikit dari darah itu dengan jarinya tujuh kali."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Kemudian ia harus membakar lemak korban penghapus dosa di atas mezbah."
   },
   {Bible:"Leviticus", Chapter:16, Verse:26, Page:1,
-    Kor:"○e염소를 아사셀에게로 보낸 그 사람도, 자기 옷을 빨고 물로 목욕을 하여야 한다. 그는 그렇게 한 다음에야, 진 안으로 들어올 수 있다.(e 또는 '염소를 속죄 염소로 보낸 그 사람도')",
+    Kor:"○염소를 아사셀에게로 보낸 그 사람도, 자기 옷을 빨고 물로 목욕을 하여야 한다. 그는 그렇게 한 다음에야, 진 안으로 들어올 수 있다.",
     Chn:"那放羊归与阿撒泻勒的人要洗衣服，用水洗身，然后进营。",
     Eng:"\"The man who releases the goat as a scapegoat must wash his clothes and bathe himself with water; afterward he may come into the camp.",
     Ind:"Maka orang yang melepaskan kambing jantan bagi Azazel itu harus mencuci pakaiannya, membasuh tubuhnya dengan air dan sesudah itu barulah boleh masuk ke perkemahan."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Siapa yang membakar semuanya itu, harus mencuci pakaiannya, membasuh tubuhnya dengan air dan sesudah itu barulah boleh masuk ke perkemahan."
   },
   {Bible:"Leviticus", Chapter:16, Verse:29, Page:1,
-    Kor:"○다음은 너희가 길이 지켜야 할 규례이다. f일곱째 달, 그 달 십일은 너희가 스스로 고행을 하는 날이니, 아무 일도 하여서는 안 된다. 이것은, 이스라엘 사람이거나 너희와 함께 사는 외국 사람이거나, 다 지켜야 한다.(f 히, '티스리'월, 양력 구월 중순 이후)",
+    Kor:"○다음은 너희가 길이 지켜야 할 규례이다. 일곱째 달, 그 달 십일은 너희가 스스로 고행을 하는 날이니, 아무 일도 하여서는 안 된다. 이것은, 이스라엘 사람이거나 너희와 함께 사는 외국 사람이거나, 다 지켜야 한다.",
     Chn:"「每逢七月初十日，你们要刻苦己心，无论是本地人，是寄居在你们中间的外人，什么工都不可做；这要作你们永远的定例。",
     Eng:"\"This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves and not do any work--whether native-born or an alien living among you--",
     Ind:"Inilah yang harus menjadi ketetapan untuk selama-lamanya bagi kamu, yakni pada bulan yang ketujuh, pada tanggal sepuluh bulan itu kamu harus merendahkan diri dengan berpuasa dan janganlah kamu melakukan sesuatu pekerjaan, baik orang Israel asli maupun orang asing yang tinggal di tengah-tengahmu."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Ia harus mengadakan pendamaian bagi tempat maha kudus, bagi Kemah Pertemuan dan bagi mezbah, juga bagi para imam dan bagi seluruh bangsa itu, yakni jemaah itu."
   },
   {Bible:"Leviticus", Chapter:16, Verse:34, Page:1,
-    Kor:"위에서 말한 것은 너희가 이스라엘 자손의 모든 죄를 속하려 할 때에, 한 해에 한 번씩 길이 지켜야 할 규례다.\" 이렇게 모세는 주님께서 분부하신 대로 아론에게 일러주었다.",
+    Kor:"위에서 말한 것은 너희가 이스라엘 자손의 모든 죄를 속하려 할 때에, 한 해에 한 번씩 길이 지켜야 할 규례다.\" 이렇게 모세는 주께서 분부하신 대로 아론에게 일러주었다.",
     Chn:"这要作你们永远的定例—就是因以色列人一切的罪，要一年一次为他们赎罪。」 于是，亚伦照耶和华所吩咐摩西的行了。",
     Eng:"\"This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.\" And it was done, as the LORD commanded Moses.",
     Ind:"Itulah yang harus menjadi ketetapan untuk selama-lamanya bagimu, supaya sekali setahun diadakan pendamaian bagi orang Israel karena segala dosa mereka.\" Maka Harun melakukan seperti yang diperintahkan TUHAN kepada Musa."

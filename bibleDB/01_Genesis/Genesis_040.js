@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",40,23);
 BibleDB.add([
   {Bible:"Genesis", Chapter:40, Verse:1, Page:1,
-    Kor:"<요셉이 시종장의 꿈을 해몽하다> 이런 일들이 있은 지 얼마 뒤에, 이집트 왕에게 술잔을 올리는 시종장과 빵을 구워 올리는 시종장이, 그들의 상전인 이집트 왕에게 잘못을 저지른 일이 있었다.",
+    Kor:"이런 일들이 있은 지 얼마 뒤에, 이집트 왕에게 술잔을 올리는 시종장과 빵을 구워 올리는 시종장이, 그들의 상전인 이집트 왕에게 잘못을 저지른 일이 있었다.",
     Chn:"这事以后，埃及王的酒政和膳长得罪了他们的主—埃及王，",
     Eng:"Some time later, the cupbearer and the baker of the king of Egypt offended their master, the  king of Egypt.",
     Ind:"Sesudah semuanya itu terjadilah, bahwa juru minuman raja Mesir dan juru rotinya membuat kesalahan terhadap tuannya, raja Mesir itu,"
   },
   {Bible:"Genesis", Chapter:40, Verse:2, Page:1,
-    Kor:"바로가 그 두 시종장 곧 술잔을 올리는 시종장과 빵을 구워 올리는 시종장에게 노하여서,",
+    Kor:"바로가 그 두 시종장, 곧 술잔을 올리는 시종장과 빵을 구워 올리는 시종장에게 노하여서,",
     Chn:"法老就恼怒酒政和膳长这二臣，",
     Eng:"Pharaoh was angry with his two officials, the chief cupbearer and the chief baker,",
     Ind:"maka murkalah Firaun kepada kedua pegawai istananya, kepala juru minuman dan kepala juru roti itu."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Ia menahan mereka dalam rumah kepala pengawal raja, dalam penjara tempat Yusuf dikurung."
   },
   {Bible:"Genesis", Chapter:40, Verse:4, Page:1,
-    Kor:"경호대장이 요셉을 시켜서 그 시종장들의 시중을 들게 하였으므로, 요셉이 그들을 받들었다. 그들이 갇힌 지 얼마 뒤에,",
+    Kor:"경호대장이 요셉을 시켜서, 그 시종장들의 시중을 들게 하였으므로, 요셉이 그들을 받들었다. 그들이 갇힌 지 얼마 뒤에,",
     Chn:"护卫长把他们交给约瑟，约瑟便伺候他们；他们有些日子在监里。",
     Eng:"The captain of the guard assigned them to Joseph, and he attended them. After they had been  in custody for some time,",
     Ind:"Kepala pengawal raja menempatkan Yusuf bersama-sama dengan mereka untuk melayani mereka. Demikianlah mereka ditahan beberapa waktu lamanya."
   },
   {Bible:"Genesis", Chapter:40, Verse:5, Page:1,
-    Kor:"감옥에 갇힌 두 사람 곧 이집트 왕에게 술잔을 올리는 시종장과 빵을 구워 올리는 시종장이, 같은 날 밤에 꿈을 꾸었는데, 꿈의 내용이 저마다 달랐다.",
+    Kor:"감옥에 갇힌 두 사람, 곧 이집트 왕에게 술잔을 올리는 시종장과 빵을 구워 올리는 시종장이, 같은 날 밤에 꿈을 꾸었는데, 꿈의 내용이 저마다 달랐다.",
     Chn:"被囚在监之埃及王的酒政和膳长二人同夜各做一梦，各梦都有讲解。",
     Eng:"each of the two men--the cupbearer and the baker of the king of Egypt, who were being held  in prison--had a dream the same night, and each dream had a meaning of its own.",
     Ind:"Pada suatu kali bermimpilah mereka keduanya--baik juru minuman maupun juru roti raja Mesir, yang ditahan dalam penjara itu--masing-masing ada mimpinya, pada satu malam juga, dan mimpi masing-masing itu ada artinya sendiri."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Kemudian juru minuman itu menceritakan mimpinya kepada Yusuf, katanya: \"Dalam mimpiku itu tampak ada pohon anggur di depanku."
   },
   {Bible:"Genesis", Chapter:40, Verse:10, Page:1,
-    Kor:"그 나무에는 가지가 셋이 있는데, 거기에서 싹이 나더니, 곧 꽃이 피고, 포도송이가 익었네.",
+    Kor:"그 나무에는 가지가 셋이 있는데, 거기에서 싹이 나더니, 곧 꽃이 피고, 포도송이가 익었다.",
     Chn:"树上有三根枝子，好像发了芽，开了花，上头的葡萄都成熟了。",
     Eng:"and on the vine were three branches. As soon as it budded, it blossomed, and its clusters  ripened into grapes.",
     Ind:"Pohon anggur itu ada tiga carangnya dan baru saja pohon itu bertunas, bunganya sudah keluar dan tandan-tandannya penuh buah anggur yang ranum."
@@ -81,25 +81,25 @@ BibleDB.add([
     Ind:"dalam tiga hari ini Firaun akan meninggikan engkau dan mengembalikan engkau ke dalam pangkatmu yang dahulu dan engkau akan menyampaikan piala ke tangan Firaun seperti dahulu kala, ketika engkau jadi juru minumannya."
   },
   {Bible:"Genesis", Chapter:40, Verse:14, Page:1,
-    Kor:"시종장께서 잘 되시는 날에, 나를 기억하여 주시고, 나를 따로 생각해 주시기 바랍니다. 그리고 바로에게 나의 사정을 말씀드려서, 나도 이 감옥에서 풀려나게 해주시기 바랍니다.",
+    Kor:"시종장께서 잘 되시는 날에, 저를 기억하여 주시고, 저를 따로 생각해 주시기 바랍니다. 그리고 바로에게 나의 사정을 말씀드려서, 나도 이 감옥에서 풀려나게 해주시기 바랍니다.",
     Chn:"但你得好处的时候，求你记念我，施恩与我，在法老面前提说我，救我出这监牢。",
     Eng:"But when all goes well with you, remember me and show me kindness; mention me to Pharaoh  and get me out of this prison.",
     Ind:"Tetapi, ingatlah kepadaku, apabila keadaanmu telah baik nanti, tunjukkanlah terima kasihmu kepadaku dengan menceritakan hal ihwalku kepada Firaun dan tolonglah keluarkan aku dari rumah ini."
   },
   {Bible:"Genesis", Chapter:40, Verse:15, Page:1,
-    Kor:"나는 히브리 사람이 사는 땅에서 강제로 끌려온 사람입니다. 그리고 여기에서도 내가 이런 구덩이 감옥에 들어올 만한 일은 하지 않았습니다.\"",
+    Kor:"나는 히브리 사람이 사는 땅에서 강제로 끌려온 사람입니다. 그리고 여기에서도, 내가 이런 구덩이 감옥에 들어올 만한 일은 하지 않았습니다.\"",
     Chn:"我实在是从希伯来人之地被拐来的；我在这里也没有做过什么，叫他们把我下在监里。」",
     Eng:"For I was forcibly carried off from the land of the Hebrews, and even here I have done  nothing to deserve being put in a dungeon.\"",
     Ind:"Sebab aku dicuri diculik begitu saja dari negeri orang Ibrani dan di sinipun aku tidak pernah melakukan apa-apa yang menyebabkan aku layak dimasukkan ke dalam liang tutupan ini.\""
   },
   {Bible:"Genesis", Chapter:40, Verse:16, Page:1,
-    Kor:"○빵을 구워 올리는 시종장도 그 해몽을 듣고 보니 좋아서, 요셉에게 말하였다. \"나도 한 꿈을 꾸었는데, 나는 빵이 담긴 바구니 세 개를 머리에 이고 있었네.",
+    Kor:"○빵을 구워 올리는 시종장도 그 해몽을 듣고 보니 좋아서, 요셉에게 말하였다. \"나도 한 꿈을 꾸었는데, 나는 빵이 담긴 바구니 세 개를 머리에 이고 있었어.",
     Chn:"膳长见梦解得好，就对约瑟说：「我在梦中见我头上顶着三筐白饼；",
     Eng:"When the chief baker saw that Joseph had given a favorable interpretation, he said to  Joseph, \"I too had a dream: On my head were three baskets of bread.",
     Ind:"Setelah dilihat oleh kepala juru roti, betapa baik arti mimpi itu, berkatalah ia kepadanya: \"Akupun bermimpi juga. Tampak aku menjunjung tiga bakul berisi penganan."
   },
   {Bible:"Genesis", Chapter:40, Verse:17, Page:1,
-    Kor:"제일 위에 있는 바구니에는, 바로에게 드릴 온갖 구운 빵이 있었는데, 새들이, 내가 이고 있는 바구니 안에서 그것들을 먹었네.\"",
+    Kor:"제일 위에 있는 바구니에는, 바로에게 드릴 온갖 구운 빵이 있었는데, 새들이, 내가 이고 있는 바구니 안에서 그것들을 먹었어.\"",
     Chn:"极上的筐子里有为法老烤的各样食物，有飞鸟来吃我头上筐子里的食物。」",
     Eng:"In the top basket were all kinds of baked goods for Pharaoh, but the birds were eating them  out of the basket on my head.\"",
     Ind:"Dalam bakul atas ada berbagai-bagai makanan untuk Firaun, buatan juru roti, tetapi burung-burung memakannya dari dalam bakul yang di atas kepalaku.\""

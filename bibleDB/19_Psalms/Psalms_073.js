@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",73,28);
 BibleDB.add([
   {Bible:"Psalms", Chapter:73, Verse:1, Page:1,
-    Kor:"<제3권(시편 73-89)> <아삽의 노래> 하나님은, a마음이 정직한 사람과 마음이 정결한 사람에게 선을 베푸시는 분이건만, (a 히, '이스라엘에게')",
+    Kor:"하나님은, 마음이 정직한 사람과 마음이 정결한 사람에게 선을 베푸시는 분이건만,",
     Chn:"亚萨的诗。 　神实在恩待以色列那些清心的人！",
     Eng:"Surely God is good to Israel, to those who are pure in heart.",
     Ind:"Mazmur Asaf. Sesungguhnya Allah itu baik bagi mereka yang tulus hatinya, bagi mereka yang bersih hatinya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sebab aku cemburu kepada pembual-pembual, kalau aku melihat kemujuran orang-orang fasik."
   },
   {Bible:"Psalms", Chapter:73, Verse:4, Page:1,
-    Kor:"b그들은 죽을 때에도 고통이 없으며, 몸은 멀쩡하고 윤기까지 흐른다. (b 같은 자음 본문을 달리 끊어 읽으면 '그들은 평생 갈등도 없이 살며')",
+    Kor:"그들은 죽을 때에도 고통이 없으며, 몸은 멀쩡하고 윤기까지 흐른다.",
     Chn:"他们死的时候没有疼痛； 他们的力气却也壮实。",
     Eng:"They have no struggles; their bodies are healthy and strong.",
     Ind:"Sebab kesakitan tidak ada pada mereka, sehat dan gemuk tubuh mereka;"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"mereka tidak mengalami kesusahan manusia, dan mereka tidak kena tulah seperti orang lain."
   },
   {Bible:"Psalms", Chapter:73, Verse:6, Page:1,
-    Kor:"오만은 그들의 목걸이요, 폭력은 그들의 나들이옷이다.",
+    Kor:"그들에게는 오만이 목걸이요, 폭력이 그들의 나들이옷이다.",
     Chn:"所以，骄傲如链子戴在他们的项上； 强暴像衣裳遮住他们的身体。",
     Eng:"Therefore pride is their necklace; they clothe themselves with violence.",
     Ind:"Sebab itu mereka berkalungkan kecongkakan dan berpakaian kekerasan."
   },
   {Bible:"Psalms", Chapter:73, Verse:7, Page:1,
-    Kor:"c그들은 피둥피둥 살이 쪄서, 거만하게 눈을 치켜 뜨고 다니며, 마음에는 헛된 상상이 가득하며, (c 시리아어역(칠십인역도)에는 '그들의 무정한 마음에서는 악이 나오고')",
+    Kor:"그들은 피둥피둥 살이 쪄서, 거만하게 눈을 치켜 뜨고 다니며, 마음에 기대한 것보다 더 얻으며,",
     Chn:"他们的眼睛因体胖而凸出； 他们所得的，过于心里所想的。",
     Eng:"From their callous hearts comes iniquity; the evil conceits of their minds know no limits.",
     Ind:"Karena kegemukan, kesalahan mereka menyolok, hati mereka meluap-luap dengan sangkaan."
@@ -69,43 +69,43 @@ BibleDB.add([
     Ind:"Dan mereka berkata: \"Bagaimana Allah tahu hal itu, adakah pengetahuan pada Yang Mahatinggi?\""
   },
   {Bible:"Psalms", Chapter:73, Verse:12, Page:1,
-    Kor:"그런데 놀랍게도, 그들은 모두가 악인인데도 신세가 언제나 편하고, 재산은 늘어만 가는구나.",
+    Kor:"그런데 놀랍게도, 그들은 모두가 악인인데도, 신세가 언제나 편하고, 재산은 늘어만 가는구나.",
     Chn:"看哪，这就是恶人； 他们既是常享安逸，财宝便加增。",
     Eng:"This is what the wicked are like--always carefree, they increase in wealth.",
     Ind:"Sesungguhnya, itulah orang-orang fasik: mereka menambah harta benda dan senang selamanya!"
   },
   {Bible:"Psalms", Chapter:73, Verse:13, Page:1,
-    Kor:"이렇다면, 내가 깨끗한 마음으로 살아온 것과 내 손으로 죄를 짓지 않고 깨끗하게 살아온 것이 허사라는 말인가?",
+    Kor:"이렇다면, 내가 깨끗한 마음으로 살아온 것과 죄를 짓지 않고 깨끗하게 살아온 것이 허사라는 말인가?",
     Chn:"我实在徒然洁净了我的心， 徒然洗手表明无辜。",
     Eng:"Surely in vain have I kept my heart pure; in vain have I washed my hands in innocence.",
     Ind:"Sia-sia sama sekali aku mempertahankan hati yang bersih, dan membasuh tanganku, tanda tak bersalah."
   },
   {Bible:"Psalms", Chapter:73, Verse:14, Page:1,
-    Kor:"하나님, 주님께서는 온종일 나를 괴롭히셨으며, 아침마다 나를 벌하셨습니다.",
+    Kor:"하나님, 주께서는 온종일 나를 괴롭히셨으며, 아침마다 나를 벌하셨습니다.",
     Chn:"因为，我终日遭灾难； 每早晨受惩治。",
     Eng:"All day long I have been plagued; I have been punished every morning.",
     Ind:"Namun sepanjang hari aku kena tulah, dan kena hukum setiap pagi."
   },
   {Bible:"Psalms", Chapter:73, Verse:15, Page:1,
-    Kor:"\"나도 그들처럼 살아야지\" 하고 말했다면, 나는 주님의 자녀들을 배신하는 일을 하였을 것입니다.",
+    Kor:"\"나도 그들처럼 말하면서 살아야지\" 하고 말했다면, 나도 주의 백성 가운데 한 사람처럼 살지는 못했을 것입니다.",
     Chn:"我若说，我要这样讲， 这就是以奸诈待你的众子。",
     Eng:"If I had said, \"I will speak thus,\" I would have betrayed your children.",
     Ind:"Seandainya aku berkata: \"Aku mau berkata-kata seperti itu,\" maka sesungguhnya aku telah berkhianat kepada angkatan anak-anakmu."
   },
   {Bible:"Psalms", Chapter:73, Verse:16, Page:1,
-    Kor:"내가 이 얽힌 문제를 풀어 보려고 깊이 생각해 보았으나, 그것은 내가 풀기에는 너무나 어려운 문제였습니다.",
+    Kor:"내가 이 얽힌 문제를 풀어 보려고, 깊이 생각해 보았으나, 그것은 내가 풀기에는 너무나 어려운 문제였습니다.",
     Chn:"我思索怎能明白这事， 眼看实系为难，",
     Eng:"When I tried to understand all this, it was oppressive to me",
     Ind:"Tetapi ketika aku bermaksud untuk mengetahuinya, hal itu menjadi kesulitan di mataku,"
   },
   {Bible:"Psalms", Chapter:73, Verse:17, Page:1,
-    Kor:"그러나 마침내 하나님의 성소에 들어가서야, 악한 자들의 종말이 어떻게 되리라는 것을 깨닫게 되었습니다.",
+    Kor:"그러나 마침내, 하나님의 성소에 들어가서야, 악한 자들의 종말이 어떻게 되리라는 것을 깨닫게 되었습니다.",
     Chn:"等我进了　神的圣所， 思想他们的结局。",
     Eng:"till I entered the sanctuary of God; then I understood their final destiny.",
     Ind:"sampai aku masuk ke dalam tempat kudus Allah, dan memperhatikan kesudahan mereka."
   },
   {Bible:"Psalms", Chapter:73, Verse:18, Page:1,
-    Kor:"주님께서 그들을 미끄러운 곳에 세우시며, 거기에서 넘어져서 멸망에 이르게 하십니다.",
+    Kor:"주께서 그들을 미끄러운 곳에 세우시며, 거기에서 넘어져서 멸망에 이르게 하십니다.",
     Chn:"你实在把他们安在滑地， 使他们掉在沉沦之中。",
     Eng:"Surely you place them on slippery ground; you cast them down to ruin.",
     Ind:"Sesungguhnya di tempat-tempat licin Kautaruh mereka, Kaujatuhkan mereka sehingga hancur."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Betapa binasa mereka dalam sekejap mata, lenyap, habis oleh karena kedahsyatan!"
   },
   {Bible:"Psalms", Chapter:73, Verse:20, Page:1,
-    Kor:"아침이 되어서 일어나면 악몽이 다 사라져 없어지듯이, 주님, 주님께서 깨어나실 때에, 그들은 한낱 꿈처럼, 자취도 없이 사라집니다.",
+    Kor:"아침이 되어서 일어나면 악몽이 다 사라져 없어지듯이, 주님, 주께서 깨어나실 때에, 그들은 한낱 꿈처럼, 자취도 없이 사라집니다.",
     Chn:"人睡醒了，怎样看梦； 主啊，你醒了也必照样轻看他们的影像。",
     Eng:"As a dream when one awakes, so when you arise, O Lord, you will despise them as fantasies.",
     Ind:"Seperti mimpi pada waktu terbangun, ya Tuhan, pada waktu terjaga, rupa mereka Kaupandang hina."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"aku dungu dan tidak mengerti, seperti hewan aku di dekat-Mu."
   },
   {Bible:"Psalms", Chapter:73, Verse:23, Page:1,
-    Kor:"그러나 나는 늘 주님과 함께 있으므로, 주님께서 내 오른손을 붙잡아 주십니다.",
+    Kor:"그러나 나는 늘 주님과 함께 있으므로, 주께서 내 오른손을 붙잡아 주십니다.",
     Chn:"然而，我常与你同在； 你搀着我的右手。",
     Eng:"Yet I am always with you; you hold me by my right hand.",
     Ind:"Tetapi aku tetap di dekat-Mu; Engkau memegang tangan kananku."
   },
   {Bible:"Psalms", Chapter:73, Verse:24, Page:1,
-    Kor:"주님의 교훈으로 나를 인도해 주시고, 마침내 나를 주님의 영광에 참여시켜 주실 줄 믿습니다.",
+    Kor:"주의 교훈으로 나를 인도해 주시고, 마침내 나를 주의 영광에 참여시켜 주실 줄 믿습니다.",
     Chn:"你要以你的训言引导我， 以后必接我到荣耀里。",
     Eng:"You guide me with your counsel, and afterward you will take me into glory.",
     Ind:"Dengan nasihat-Mu Engkau menuntun aku, dan kemudian Engkau mengangkat aku ke dalam kemuliaan."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Siapa gerangan ada padaku di sorga selain Engkau? Selain Engkau tidak ada yang kuingini di bumi."
   },
   {Bible:"Psalms", Chapter:73, Verse:26, Page:1,
-    Kor:"내 몸과 마음이 다 시들어가도, 하나님은 언제나 내 마음에 든든한 반석이시요, 내가 받을 몫의 전부이십니다.",
+    Kor:"내 몸과 마음이 다 사그라져도, 하나님은 언제나 내 마음에 든든한 반석이시요, 내가 받을 몫의 전부이십니다.",
     Chn:"我的肉体和我的心肠衰残； 但　神是我心里的力量， 又是我的福分，直到永远。",
     Eng:"My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
     Ind:"Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku tetaplah Allah selama-lamanya."
   },
   {Bible:"Psalms", Chapter:73, Verse:27, Page:1,
-    Kor:"주님을 멀리하는 사람은 망할 것입니다. 주님 앞에서 정절을 버리는 사람은, 주님께서 멸하실 것입니다.",
+    Kor:"주님을 멀리하는 사람은 망할 것입니다. 주님 앞에서 정절을 버리는 사람은, 주께서 멸하실 것입니다.",
     Chn:"远离你的，必要死亡； 凡离弃你行邪淫的，你都灭绝了。",
     Eng:"Those who are far from you will perish; you destroy all who are unfaithful to you.",
     Ind:"Sebab sesungguhnya, siapa yang jauh dari pada-Mu akan binasa; Kaubinasakan semua orang, yang berzinah dengan meninggalkan Engkau."
   },
   {Bible:"Psalms", Chapter:73, Verse:28, Page:1,
-    Kor:"하나님께 가까이 있는 것이 나에게 복이니, 내가 주 하나님을 나의 피난처로 삼고, 주님께서 이루신 모든 일들을 전파하렵니다.",
+    Kor:"하나님께 가까이 있는 것이 나에게 복이니, 내가 주 하나님을 나의 피난처로 삼고, 주께서 이루신 일들을 전파하렵니다.",
     Chn:"但我亲近　神是与我有益； 我以主耶和华为我的避难所， 好叫我述说你一切的作为。",
     Eng:"But as for me, it is good to be near God. I have made the Sovereign LORD my refuge; I will tell of all your deeds.",
     Ind:"Tetapi aku, aku suka dekat pada Allah; aku menaruh tempat perlindunganku pada Tuhan ALLAH, supaya dapat menceritakan segala pekerjaan-Nya."

@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",11,25);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:11, Verse:1, Page:1,
-    Kor:"<예루살렘이 심판받다> 그 때에 주님의 영이 나를 들어 올리셔서, 주님의 성전 동쪽으로 난 동문으로 데리고 가셨다. 그 문의 어귀에는 사람 스물다섯 명이 있었다. 나는 그들 가운데 백성의 지도자들인 앗술의 아들 야아사냐와 브나야의 아들 블라댜가 있는 것을 보았다.",
+    Kor:"그 때에 주의 영이 나를 들어 올리셔서, 주의 성전 동쪽으로 난 동문으로 데리고 가셨다. 그 문의 어귀에는 사람 스물다섯 명이 있었다. 나는 그들 가운데 백성의 지도자들인 앗술의 아들 야아사냐와 브나야의 아들 블라댜가 있는 것을 보았다.",
     Chn:"灵将我举起，带到耶和华殿向东的东门。谁知，在门口有二十五个人，我见其中有民间的首领押朔的儿子雅撒尼亚和比拿雅的儿子毗拉提。",
     Eng:"Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. There at the entrance to the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.",
     Ind:"Lalu Roh itu mengangkat aku dan membawa aku ke pintu gerbang Timur dari rumah TUHAN, pintu yang menghadap ke sebelah timur. Lihat, di dalam pintu gerbang itu ada dua puluh lima orang dan di antara mereka kulihat Yaazanya bin Azur dan Pelaca bin Benaya, yaitu pemimpin-pemimpin bangsa."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:2, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다. \"사람아, 이 사람들은 이 성읍에서 포악한 일을 꾸며 내며 악독한 일을 꾀하는 자들이다.",
+    Kor:"○주께서 나에게 말씀하셨다. \"사람아, 이 사람들은 이 성읍에서 포악한 일을 꾸며 내며 악독한 일을 꾀하는 자들이다.",
     Chn:"耶和华对我说：「人子啊，这就是图谋罪孽的人，在这城中给人设恶谋。",
     Eng:"The LORD said to me, \"Son of man, these are the men who are plotting evil and giving wicked advice in this city.",
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, inilah orang-orang yang merancang kedurjanaan dan menaburkan nasihat jahat di kota ini,"
   },
   {Bible:"Ezekiel", Chapter:11, Verse:3, Page:1,
-    Kor:"그들은 모두 'a집을 지을 때가 가까이 오지 않았다. 이 성읍은 가마솥이고, 우리는 그 안에 담긴 고기다' 하고 말한다.(a 또는 '집을 지을 때가 곧 오지 않겠느냐?')",
+    Kor:"그들은 모두 '집을 지을 때가 가까이 오지 않았다. 이 성읍은 가마솥이고, 우리는 그 안에 담긴 고기다' 하고 말한다.",
     Chn:"他们说：『盖房屋的时候尚未临近；这城是锅，我们是肉。』",
     Eng:"They say, 'Will it not soon be time to build houses? This city is a cooking pot, and we are the meat.'",
     Ind:"yang mengatakan: Bukankah belum lama berselang rumah-rumah kita dibangun kembali? Kota inilah periuk dan kita dagingnya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu bernubuatlah melawan mereka, bernubuatlah, hai anak manusia!\""
   },
   {Bible:"Ezekiel", Chapter:11, Verse:5, Page:1,
-    Kor:"○그 때에 주님의 영이 내 위에 내리셔서, 내게 말씀하셨다. ○\"너는 이스라엘 족속에게 일러라. '나 주가 이렇게 말한다. 이스라엘 족속아, 너희가 하는 말과 너희 마음 속에 품은 생각을 나는 잘 안다.",
+    Kor:"○그 때에 주의 영이 내 위에 내리셔서, 내게 말씀하셨다. \"너는 이스라엘 족속에게 일러라. '나 주가 이렇게 말한다. 이스라엘 족속아, 너희가 하는 말과 너희 마음 속에 품은 생각을 나는 잘 안다.",
     Chn:"耶和华的灵降在我身上，对我说：「你当说，耶和华如此说：以色列家啊，你们口中所说的，心里所想的，我都知道。",
     Eng:"Then the Spirit of the LORD came upon me, and he told me to say: \"This is what the LORD says: That is what you are saying, O house of Israel, but I know what is going through your mind.",
     Ind:"Maka Roh TUHAN meliputi aku dan TUHAN berfirman kepadaku: \"Katakanlah: Beginilah firman TUHAN: Kamu berkata-kata begini, hai kaum Israel, dan Aku tahu apa yang timbul dalam hatimu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Orang-orang yang kamu bunuh di kota ini bertambah banyak dan kamu penuhi jalan-jalannya dengan mereka."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:7, Page:1,
-    Kor:"○그러므로 나 주 하나님이 할 말은 바로 이것이다. 너희가 이 성읍 가운데서 죽인 시체들은 고기요, 이 성읍은 가마솥이다. 그러나 나는 너희를 이 성읍에서 내쫓겠다.",
+    Kor:"○그러므로 나 주 하나님이 할 말은 바로 이것이다. 너희가 이 성읍 가운데서 죽인 시체들은 고기요, 이 성읍은 가마솥이다. 그러나 나는 너희를, 이 성읍에서 내쫓겠다.",
     Chn:"所以主耶和华如此说：你们杀在城中的人就是肉，这城就是锅；你们却要从其中被带出去。",
     Eng:"\"Therefore this is what the Sovereign LORD says: The bodies you have thrown there are the meat and this city is the pot, but I will drive you out of it.",
     Ind:"Oleh sebab itu beginilah firman Tuhan ALLAH: Orang-orang yang kamu bunuh di kota ini, merekalah dagingnya dan kota inilah periuk, tetapi kamu akan Kugiring keluar dari dalamnya."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Maka sedang aku bernubuat, matilah Pelaca bin Benaya. Lalu aku sujud dan berseru dengan suara nyaring, kataku: \"Aduh, Tuhan ALLAH, apakah Engkau menghabiskan sisa Israel?\""
   },
   {Bible:"Ezekiel", Chapter:11, Verse:14, Page:1,
-    Kor:"<이스라엘의 회복을 약속하시다> ○그 때에 주님께서 나에게 말씀하셨다.",
+    Kor:"○그 때에 주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:11, Verse:15, Page:1,
-    Kor:"○\"사람아, 예루살렘의 주민이 네 모든 친척, b네 혈육, 이스라엘 족속 전체를 두고 하는 말이 '그들은 주님에게서 멀리 떠나 있다. 이 땅은 이제 우리의 소유가 되었다' 한다.(b 칠십인역과 시리아어역에는 '포로가 된 네 동포')",
+    Kor:"\"사람아, 예루살렘의 주민이 네 모든 친척, 네 혈육, 이스라엘 족속 전체를 두고 하는 말이 '그들은 주님에게서 멀리 떠나 있다. 이 땅은 이제 우리의 소유가 되었다' 한다.",
     Chn:"「人子啊，耶路撒冷的居民对你的弟兄、你的本族、你的亲属、以色列全家，就是对大众说：『你们远离耶和华吧！这地是赐给我们为业的。』",
     Eng:"\"Son of man, your brothers--your brothers who are your blood relatives and the whole house of Israel--are those of whom the people of Jerusalem have said, 'They are far away from the LORD; this land was given to us as our possession.'",
     Ind:"\"Hai anak manusia, penduduk-penduduk Yerusalem berkata tentang semua saudara-saudaramu, tentang kaum kerabatmu dan segenap kaum Israel dalam keseluruhannya: Mereka telah jauh dari TUHAN, kepada kami tanah ini diberikan menjadi milik."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:16, Page:1,
-    Kor:"○그러므로 너는 그들에게 일러라. ○'나 주 하나님이 이렇게 말한다. 비록 내가 그들을 멀리 이방 사람들 가운데로 쫓아 버렸고, 여러 나라에 흩어 놓았어도, 그들이 가 있는 여러 나라에서 내가 잠시 그들의 성소가 되어 주겠다' 하여라.",
+    Kor:"○그러므로 너는 그들에게 일러라. '나 주 하나님이 이렇게 말한다. 비록 내가 그들을 멀리 이방 사람들 가운데로 쫓아 버렸고, 여러 나라에 흩어 놓았어도, 그들이 가 있는 여러 나라에서 내가 잠시 그들의 성소가 되어 주겠다' 하여라.",
     Chn:"所以你当说：『耶和华如此说：我虽将以色列全家远远迁移到列国中，将他们分散在列邦内，我还要在他们所到的列邦，暂作他们的圣所。』",
     Eng:"\"Therefore say: 'This is what the Sovereign LORD says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries where they have gone.'",
     Ind:"Oleh sebab itu katakanlah: Beginilah firman Tuhan ALLAH: Walaupun Aku membawa mereka jauh-jauh di antara bangsa-bangsa dan menyerakkan mereka di negeri-negeri itu dan Aku menjadi tempat kudus yang sedikit artinya bagi mereka di negeri-negeri di mana mereka datang,"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Maka sesudah mereka datang di sana, mereka akan menjauhkan segala dewa-dewanya yang menjijikkan dan segala perbuatan-perbuatan yang keji dari tanah itu."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:19, Page:1,
-    Kor:"그 때에 내가 그들에게 c일치된 마음을 주고, 새로운 영을 그들 속에 넣어 주겠다. 내가 그들의 몸에서 돌같이 굳은 마음을 없애고, 살같이 부드러운 마음을 주겠다.(c 또는 '새 마음')",
+    Kor:"그 때에 내가 그들에게 일치된 마음을 주고, 새로운 영을 그들 속에 넣어 주겠다. 내가 그들의 몸에서 돌같이 굳은 마음을 없애고, 살같이 부드러운 마음을 주겠다.",
     Chn:"我要使他们有合一的心，也要将新灵放在他们里面，又从他们肉体中除掉石心，赐给他们肉心，",
     Eng:"I will give them an undivided heart and put a new spirit in them; I will remove from them their heart of stone and give them a heart of flesh.",
     Ind:"Aku akan memberikan mereka hati yang lain dan roh yang baru di dalam batin mereka; juga Aku akan menjauhkan dari tubuh mereka hati yang keras dan memberikan mereka hati yang taat,"
@@ -129,25 +129,25 @@ BibleDB.add([
     Ind:"Mengenai mereka, yang hatinya berpaut pada dewa-dewanya yang menjijikkan dan pada perbuatan-perbuatannya yang keji, Aku akan menimpakan kelakuan mereka atas kepalanya sendiri, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:11, Verse:22, Page:1,
-    Kor:"<주님께서 예루살렘을 떠나시다> ○그 때에 그룹들이 날개를 펼치고, 바퀴들은 그들 곁에 있었는데, 이스라엘 하나님의 영광이 그들 위에 머물렀다.",
+    Kor:"○그 때에 그룹들이 날개를 펼치고, 바퀴들은 그들 곁에 있었는데, 이스라엘 하나님의 영광이 그들 위에 머물렀다.",
     Chn:"于是，基路伯展开翅膀，轮子都在他们旁边；在他们以上有以色列　神的荣耀。",
     Eng:"Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.",
     Ind:"Maka kerub-kerub itu mengangkat sayap mereka, dan roda-rodanya bergerak bersama-sama dengan mereka, sedang kemuliaan Allah Israel berada di atas mereka."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:23, Page:1,
-    Kor:"그리고 주님의 영광이 그 성읍 가운데서 떠올라, 성읍 동쪽에 있는 산꼭대기에 머물렀다.",
+    Kor:"그리고 주의 영광이 그 성읍 가운데서 떠올라, 성읍 동쪽에 있는 산꼭대기에 머물렀다.",
     Chn:"耶和华的荣耀从城中上升，停在城东的那座山上。",
     Eng:"The glory of the LORD went up from within the city and stopped above the mountain east of it.",
     Ind:"Lalu kemuliaan TUHAN naik ke atas dari tengah-tengah kota dan hinggap di atas gunung yang di sebelah timur kota."
   },
   {Bible:"Ezekiel", Chapter:11, Verse:24, Page:1,
-    Kor:"주님의 영이 나를 높이 들어 올려, 하나님의 영으로 환상 가운데 나를, d바빌로니아에 포로로 끌려올 사람들에게로 데리고 오셨다. 그런 다음에, 내가 본 환상이 내게서 떠나갔다.(d 또는 '갈대아')",
+    Kor:"주의 영이 나를 높이 들어 올려, 하나님의 영으로 환상 가운데 나를, 바빌로니아에 포로로 끌려올 사람들에게로 데리고 오셨다. 그런 다음에, 내가 본 환상이 내게서 떠나갔다.",
     Chn:"灵将我举起，在异象中借着　神的灵将我带进迦勒底地，到被掳的人那里；我所见的异象就离我上升去了。",
     Eng:"The Spirit lifted me up and brought me to the exiles in Babylonia in the vision given by the Spirit of God. Then the vision I had seen went up from me,",
     Ind:"Dan Roh itu mengangkat aku dan membawa aku kembali di dalam penglihatan yang dari Roh Allah ke negeri Kasdim kepada para buangan. Lalu menghilanglah penglihatan yang kulihat itu dari padaku"
   },
   {Bible:"Ezekiel", Chapter:11, Verse:25, Page:1,
-    Kor:"그래서 나는, 주님께서 내게 보여 주신 모든 일을, 포로로 끌려온 사람들에게 이야기하였다.",
+    Kor:"그래서 나는, 주께서 내게 보여 주신 모든 일을, 포로로 끌려온 사람들에게 이야기하였다.",
     Chn:"我便将耶和华所指示我的一切事都说给被掳的人听。",
     Eng:"and I told the exiles everything the LORD had shown me.",
     Ind:"dan aku sampaikan kepada para buangan itu segala sesuatu yang diperlihatkan TUHAN kepadaku."

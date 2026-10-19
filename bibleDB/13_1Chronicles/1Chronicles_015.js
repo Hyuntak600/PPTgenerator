@@ -3,19 +3,19 @@
 BibleDB.ref("1Chronicles",15,29);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:15, Verse:1, Page:1,
-    Kor:"<언약궤를 옮길 준비> 다윗이 '다윗 성'에 자기가 살 궁궐을 지었다. 또 하나님의 궤를 둘 한 장소를 마련하고 궤를 안치할 장소에 장막을 치고,",
+    Kor:"다윗이 '다윗 성'에 자기가 살 궁궐을 지었다. 또 하나님의 궤를 둘 한 장소를 마련하고 궤를 안치할 장소에 장막을 치고,",
     Chn:"大卫在大卫城为自己建造宫殿，又为　神的约柜预备地方，支搭帐幕。",
     Eng:"After David had constructed buildings for himself in the City of David, he prepared a place for the ark of God and pitched a tent for it.",
     Ind:"Daud membuat bagi dirinya gedung-gedung di kota Daud, lalu ia menyiapkan tempat bagi tabut Allah dan membentangkan kemah untuk itu."
   },
   {Bible:"1Chronicles", Chapter:15, Verse:2, Page:1,
-    Kor:"이렇게 말하였다. \"레위 사람 말고는 아무도 하나님의 궤를 메어서는 안 된다. 주님께서 그들을 선택하여, 그들이 하나님의 궤를 메고 영원히 하나님을 섬기게 하셨기 때문이다.\"",
+    Kor:"이렇게 말하였다. \"레위 사람 말고는 아무도 하나님의 궤를 메어서는 안 된다. 주께서 그들을 선택하여, 그들이 하나님의 궤를 메고 영원히 하나님을 섬기게 하셨기 때문이다.\"",
     Chn:"那时大卫说：「除了利未人之外，无人可抬　神的约柜；因为耶和华拣选他们抬　神的约柜，且永远事奉他。」",
     Eng:"Then David said, \"No one but the Levites may carry the ark of God, because the LORD chose them to carry the ark of the LORD and to minister before him forever.\"",
     Ind:"Ketika itu berkatalah Daud: \"Janganlah ada yang mengangkat tabut Allah selain dari orang Lewi, sebab merekalah yang dipilih TUHAN untuk mengangkat tabut TUHAN dan untuk menyelenggarakannya sampai selama-lamanya.\""
   },
   {Bible:"1Chronicles", Chapter:15, Verse:3, Page:1,
-    Kor:"다윗은 그가 마련한 장소에 주님의 궤를 옮겨 오려고, 온 이스라엘을 예루살렘으로 불러모았다.",
+    Kor:"다윗은 그가 마련한 장소에 주의 궤를 옮겨 오려고, 온 이스라엘을 예루살렘으로 불러모았다.",
     Chn:"大卫招聚以色列众人到耶路撒冷，要将耶和华的约柜抬到他所预备的地方。",
     Eng:"David assembled all Israel in Jerusalem to bring up the ark of the LORD to the place he had prepared for it.",
     Ind:"Kemudian Daud mengumpulkan segenap Israel ke Yerusalem untuk mengangkut tabut TUHAN ke tempat yang telah disiapkannya untuk itu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"dari bani Merari: Asaya, seorang pemimpin, dan saudara-saudara sepuaknya: dua ratus dua puluh orang;"
   },
   {Bible:"1Chronicles", Chapter:15, Verse:7, Page:1,
-    Kor:"a게르손 자손 가운데서 족장 요엘과 그의 친족 백삼십 명,(a 히, '게르솜', 게르손의 변형)",
+    Kor:"게르손 자손 가운데서 족장 요엘과 그의 친족 백삼십 명,",
     Chn:"革顺子孙中有族长约珥和他的弟兄一百三十人。",
     Eng:"from the descendants of Gershon, Joel the leader and 130 relatives;",
     Ind:"dari bani Gerson: Yoel, seorang pemimpin, dan saudara-saudara sepuaknya: seratus tiga puluh orang;"
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Berekhya dan Elkana adalah penunggu pintu pada tabut;"
   },
   {Bible:"1Chronicles", Chapter:15, Verse:24, Page:1,
-    Kor:"제사장인, 스바냐와 요사밧과 느다넬과 아마새와 스가랴와 브나야와 엘리에셀은, 하나님의 궤 앞에서 나팔을 불었다. 오벳에돔과 여히야는 궤를 지키는 문지기이다.",
+    Kor:"제사장인, 스바냐와 요사밧과 느다넬과 아미새와 스가랴와 브나야와 엘리에셀은, 하나님의 궤 앞에서 나팔을 불었다. 오벳에돔과 여히야는 궤를 지키는 문지기이다.",
     Chn:"祭司示巴尼、约沙法、拿坦业、亚玛赛、撒迦利雅、比拿亚、以利以谢在　神的约柜前吹号。俄别·以东和耶希亚也是约柜前守门的。",
     Eng:"Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer the priests were to blow trumpets before the ark of God. Obed-Edom and Jehiah were also to be doorkeepers for the ark.",
     Ind:"dan Sebanya, Yosafat, Netaneel, Amasai, Zakharia, Benaya dan Eliezer, yakni imam-imam itu, meniup nafiri di hadapan tabut Allah, sedang Obed-Edom dan Yehia adalah penunggu pintu pada tabut itu."
   },
   {Bible:"1Chronicles", Chapter:15, Verse:25, Page:1,
-    Kor:"<언약궤를 예루살렘으로 옮기다(삼하 6:12-22)> ○다윗과 이스라엘 장로들과 천부장들이 오벳에돔의 집에서 주님의 언약궤를 옮겨 오려고 기쁜 마음으로 그리로 갔다.",
+    Kor:"○다윗과 이스라엘 장로들과 천부장들이 오벳에돔의 집에서 주의 언약궤를 옮겨 오려고 기쁜 마음으로 그리로 갔다.",
     Chn:"于是，大卫和以色列的长老，并千夫长都去从俄别·以东的家欢欢喜喜地将耶和华的约柜抬上来。",
     Eng:"So David and the elders of Israel and the commanders of units of a thousand went to bring up the ark of the covenant of the LORD from the house of Obed-Edom, with rejoicing.",
     Ind:"Maka Daud dan para tua-tua Israel dan para pemimpin pasukan seribu pergi untuk mengangkut tabut perjanjian TUHAN itu dari rumah Obed-Edom dengan sukacita."
   },
   {Bible:"1Chronicles", Chapter:15, Verse:26, Page:1,
-    Kor:"하나님께서 주님의 언약궤를 운반하는 레위 사람들을 도우셨으므로, 그들이 수송아지 일곱 마리와 숫양 일곱 마리를 제물로 잡아서 바쳤다.",
+    Kor:"하나님께서 주의 언약궤를 운반하는 레위 사람들을 도우셨으므로, 그들이 수송아지 일곱 마리와 숫양 일곱 마리를 제물로 잡아서 바쳤다.",
     Chn:"神赐恩与抬耶和华约柜的利未人，他们就献上七只公牛，七只公羊。",
     Eng:"Because God had helped the Levites who were carrying the ark of the covenant of the LORD, seven bulls and seven rams were sacrificed.",
     Ind:"Dan oleh karena Allah menolong orang Lewi yang mengangkat tabut perjanjian TUHAN itu, maka dipersembahkanlah tujuh ekor lembu jantan dan tujuh ekor domba jantan."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Daud memakai jubah dari kain lenan halus, juga segala orang Lewi yang mengangkat tabut itu dan para penyanyi, dan Kenanya yang mengepalai pengangkutan dan para penyanyi. Daud juga memakai baju efod dari kain lenan."
   },
   {Bible:"1Chronicles", Chapter:15, Verse:28, Page:1,
-    Kor:"온 이스라엘은 환호성을 올리며, 뿔나팔과 나팔을 불고, 심벌즈를 우렁차게 치고, 거문고와 수금을 타면서, 주님의 언약궤를 메고 올라왔다.",
+    Kor:"온 이스라엘은 환호성을 올리며, 뿔나팔과 나팔을 불고, 심벌즈를 우렁차게 치고, 거문고와 수금을 타면서, 주의 언약궤를 메고 올라왔다.",
     Chn:"这样，以色列众人欢呼吹角、吹号、敲钹、鼓瑟、弹琴，大发响声，将耶和华的约柜抬上来。",
     Eng:"So all Israel brought up the ark of the covenant of the LORD with shouts, with the sounding of rams' horns and trumpets, and of cymbals, and the playing of lyres and harps.",
     Ind:"Seluruh orang Israel mengangkut tabut perjanjian TUHAN itu dengan diiringi sorak dan bunyi sangkakala, nafiri dan ceracap, sambil memperdengarkan permainan gambus dan kecapi."
   },
   {Bible:"1Chronicles", Chapter:15, Verse:29, Page:1,
-    Kor:"○주님의 언약궤가 '다윗 성'으로 들어올 때에, 사울의 딸 미갈이 창 밖을 내다보다가, 다윗 왕이 춤추며 기뻐하는 것을 보고, 마음 속으로 그를 업신여겼다.",
+    Kor:"○주의 언약궤가 '다윗 성'으로 들어올 때에, 사울의 딸 미갈이 창 밖을 내다보다가, 다윗 왕이 춤추며 기뻐하는 것을 보고, 마음 속으로 그를 업신여겼다.",
     Chn:"耶和华的约柜进了大卫城的时候，扫罗的女儿米甲从窗户里观看，见大卫王踊跃跳舞，心里就轻视他。",
     Eng:"As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul watched from a window. And when she saw King David dancing and celebrating, she despised him in her heart.",
     Ind:"Ketika tabut perjanjian TUHAN itu sampai ke kota Daud, maka Mikhal, anak perempuan Saul, menjenguk dari jendela, lalu melihat raja Daud melompat-lompat dan menari-nari. Sebab itu ia memandang rendah Daud dalam hatinya."

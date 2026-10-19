@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",12,47);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:12, Verse:1, Page:1,
-    Kor:"<제사장과 레위 사람들> 스알디엘의 아들 스룹바벨과 예수아를 따라서 함께 돌아온 제사장과 레위 사람들은 다음과 같다. ○제사장은 스라야와 예레미야와 에스라와",
+    Kor:"스알디엘의 아들 스룹바벨과 예수아를 따라서 함께 돌아온 제사장과 레위 사람들은 다음과 같다. ○제사장은 스라야와 예레미야와 에스라와",
     Chn:"同着撒拉铁的儿子所罗巴伯和耶书亚回来的祭司与利未人记在下面：祭司是西莱雅、耶利米、以斯拉、",
     Eng:"These were the priests and Levites who returned with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra,",
     Ind:"Inilah para imam dan orang-orang Lewi yang berangkat pulang bersama-sama Zerubabel bin Sealtiel dan Yesua: Seraya, Yeremia, Ezra,"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Salu, Amok, Hilkia dan Yedaya. Itulah kepala-kepala imam dan saudara-saudara mereka pada zaman Yesua."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:8, Page:1,
-    Kor:"○레위 사람은 예수아와 빈누이와 갓미엘과 세레뱌와 유다와 맛다니야이고 그 가운데서 맛다니야는 그의 동료들과 함께 찬양대를 맡았다.",
+    Kor:"○레위 사람은 예수아와 빈누이와 갓미엘과 세레뱌와 유다와 맛다냐이고 그 가운데서 맛다냐는 그의 동료들과 함께 찬양대를 맡았다.",
     Chn:"利未人是耶书亚、宾内、甲篾、示利比、犹大、玛他尼。这玛他尼和他的弟兄管理称谢的事。",
     Eng:"The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and also Mattaniah, who, together with his associates, was in charge of the songs of thanksgiving.",
     Ind:"Dari orang-orang Lewi: Yesua, Binui, Kadmiel, Serebya, Yehuda dan Matanya. Matanya ini dan saudara-saudaranya memimpin nyanyian syukur,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"sementara Bakbukya dan Uni dan saudara-saudara mereka berdiri di hadapan mereka itu menurut kelompok-kelompok tugas."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:10, Page:1,
-    Kor:"<대제사장 예수아의 자손들> ○예수아는 요야김을 낳고, 요야김은 엘리아십을 낳고, 엘리아십은 요야다를 낳고,",
+    Kor:"○예수아는 요야김을 낳고, 요야김은 엘리아십을 낳고, 엘리아십은 요야다를 낳고,",
     Chn:"耶书亚生约雅金；约雅金生以利亚实；以利亚实生耶何耶大；",
     Eng:"Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,",
     Ind:"Yesua memperanakkan Yoyakim, dan Yoyakim memperanakkan Elyasib, dan Elyasib memperanakkan Yoyada,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"dan Yoyada memperanakkan Yonatan, dan Yonatan memperanakkan Yadua."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:12, Page:1,
-    Kor:"<제사장 가문의 우두머리들> ○요야김 때의 제사장 가문의 우두머리들은 다음과 같다. 스라야 가문에서는 므라야요, 예레미야 가문에서는 하나냐요,",
+    Kor:"○요아김 때의 제사장 가문의 우두머리들은 다음과 같다. 스라야 가문에서는 므라야요, 예레미야 가문에서는 하나냐요,",
     Chn:"在约雅金的时候，祭司作族长的西莱雅族有米拉雅；耶利米族有哈拿尼雅；",
     Eng:"In the days of Joiakim, these were the heads of the priestly families: of Seraiah's family, Meraiah; of Jeremiah's, Hananiah;",
     Ind:"Pada zaman Yoyakim yang menjadi imam adalah kepala-kepala kaum keluarga ini: Meraya, dari kaum keluarga Seraya, Hananya dari kaum keluarga Yeremia,"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Hasabya dari kaum keluarga Hilkia dan Netaneel dari kaum keluarga Yedaya."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:22, Page:1,
-    Kor:"<제사장과 레위 사람들에 관한 기록> ○엘리아십과 요야다와 요하난과 얏두아 때의 레위 사람 가운데서, 가문별 우두머리들의 이름과 제사장들의 이름은, 다리우스가 페르시아를 다스릴 때의 왕실 일지에 기록되어 있다.",
+    Kor:"○엘리아십과 요야다와 요하난과 얏두아 때의 레위 사람 가운데서, 가문별 우두머리들의 이름과 제사장들의 이름은, 다리우스가 페르시아를 다스릴 때의 왕실 일지에 기록되어 있다.",
     Chn:"至于利未人，当以利亚实、耶何耶大、约哈难、押杜亚的时候，他们的族长记在册上。波斯王大流士在位的时候，作族长的祭司也记在册上。",
     Eng:"The family heads of the Levites in the days of Eliashib, Joiada, Johanan and Jaddua, as well as those of the priests, were recorded in the reign of Darius the Persian.",
     Ind:"Tentang orang-orang Lewi, para kepala kaum keluarga mereka tercatat pada zaman Elyasib, Yoyada, Yohanan dan Yadua, sedang para imam tercatat sampai pemerintahan Darius, orang Persia itu."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Kepala-kepala kaum keluarga anak-anak Lewi tercatat dalam kitab sejarah sampai zaman Yohanan bin Elyasib."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:24, Page:1,
-    Kor:"<성전에서 맡은 임무> ○레위 사람의 우두머리는 하사뱌와 세레뱌와 갓미엘의 아들 예수아이다. 예배를 드릴 때에, 그들은, 하나님의 사람 다윗 왕이 지시한 대로, 동료 레위 사람들과 함께 둘로 나뉘어 서로 마주 보고 서서 화답하면서, 하나님께 찬양과 감사를 드렸다.",
+    Kor:"○레위 사람의 우두머리는 하사뱌와 세레뱌와 갓미엘의 아들 예수아이다. 예배를 드릴 때에, 그들은, 하나님의 사람 다윗 왕이 지시한 대로, 동료 레위 사람들과 함께 둘로 나뉘어 서로 마주 보고 서서 화답하면서, 하나님께 찬양과 감사를 드렸다.",
     Chn:"利未人的族长是哈沙比雅、示利比、甲篾的儿子耶书亚，与他们弟兄的班次相对，照着神人大卫的命令一班一班地赞美称谢。",
     Eng:"And the leaders of the Levites were Hashabiah, Sherebiah, Jeshua son of Kadmiel, and their associates, who stood opposite them to give praise and thanksgiving, one section responding to the other, as prescribed by David the man of God.",
     Ind:"Inilah para kepala orang-orang Lewi: Hasabya, Serebya, Yesua bin Kadmiel, dan saudara-saudara mereka yang berdiri di hadapan mereka untuk menyanyikan puji-pujian dan syukur sesuai dengan perintah Daud, abdi Allah itu, kelompok di samping kelompok."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:25, Page:1,
-    Kor:"○맛다니야와 박부갸와 오바댜와 므술람과 달몬과 악굽은 성전 문지기이다. 이들은 성전으로 들어가는 각 문들에 딸린 창고를 지켰다.",
+    Kor:"○맛다냐와 박부갸와 오바댜와 므술람과 달몬과 악굽은 성전 문지기이다. 이들은 성전으로 들어가는 각 문들에 딸린 창고를 지켰다.",
     Chn:"玛他尼、八布迦、俄巴底亚、米书兰、达们、亚谷是守门的，就是在库房那里守门。",
     Eng:"Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub were gatekeepers who guarded the storerooms at the gates.",
     Ind:"Matanya, Bakbukya, Obaja, Mesulam, Talmon dan Akub adalah penunggu-penunggu pintu gerbang yang mengadakan penjagaan di gudang-gudang perlengkapan pada pintu-pintu gerbang."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Mereka itu hidup pada zaman Yoyakim bin Yesua bin Yozadak dan pada zaman bupati Nehemia dan imam Ezra, ahli kitab itu."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:27, Page:1,
-    Kor:"<느헤미야가 성벽을 봉헌하다> ○예루살렘 성벽이 완성되어서, 봉헌식을 하게 되었다. 사람들은 곳곳에서 레위 사람을 찾아내어, 예루살렘으로 데려왔다. 감사의 찬송을 부르며, 심벌즈를 치며, 거문고와 수금을 타며, 즐겁게 봉헌식을 하려는 것이었다.",
+    Kor:"○예루살렘 성벽이 완성되어서, 봉헌식을 하게 되었다. 사람들은 곳곳에서 레위 사람을 찾아내어, 예루살렘으로 데려왔다. 감사의 찬송을 부르며, 심벌즈를 치며, 거문고와 수금을 타며, 즐겁게 봉헌식을 하려는 것이었다.",
     Chn:"耶路撒冷城墙告成的时候，众民就把各处的利未人招到耶路撒冷，要称谢、歌唱、敲钹、鼓瑟、弹琴，欢欢喜喜地行告成之礼。",
     Eng:"At the dedication of the wall of Jerusalem, the Levites were sought out from where they lived and were brought to Jerusalem to celebrate joyfully the dedication with songs of thanksgiving and with the music of cymbals, harps and lyres.",
     Ind:"Pada pentahbisan tembok Yerusalem orang-orang Lewi dipanggil dari segala tempat mereka dan dibawa ke Yerusalem untuk mengadakan pentahbisan yang meriah dengan ucapan syukur dan kidung, dengan ceracap, gambus dan kecapi."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:28, Page:1,
-    Kor:"이에 노래하는 사람들이 예루살렘 주변 여러 마을 곧 느도바 사람들이 사는 마을과",
+    Kor:"이에 노래하는 사람들이 예루살렘 주변 여러 마을, 곧 느도바 사람들이 사는 마을과",
     Chn:"歌唱的人从耶路撒冷的周围和尼陀法的村庄与伯·吉甲，又从迦巴和押玛弗的田地聚集，因为歌唱的人在耶路撒冷四围为自己立了村庄。",
     Eng:"The singers also were brought together from the region around Jerusalem--from the villages of the Netophathites,",
     Ind:"Maka berkumpullah kaum penyanyi dari daerah sekitar Yerusalem, dari desa-desa orang Netofa,",
@@ -208,7 +208,7 @@ BibleDB.add([
     Ind:"Yehuda, Benyamin, Semaya dan Yeremia,"
   },
   {Bible:"Nehemiah", Chapter:12, Verse:35, Page:1,
-    Kor:"그 뒤로 일부 제사장들이 나팔을 들고 따르고, 그 다음에 스가랴가 따랐다. 그의 아버지는 요나단이요, 그 윗대는 스마야요, 그 윗대는 맛다니야요, 그 윗대는 미가야요, 그 윗대는 삭굴이요, 그 윗대는 아삽이다.",
+    Kor:"그 뒤로 일부 제사장들이 나팔을 들고 따르고, 그 다음에 스가랴가 따랐다. 그의 아버지는 요나단이요, 그 윗대는 스마야요, 그 윗대는 맛다냐요, 그 윗대는 미가야요, 그 윗대는 삭굴이요, 그 윗대는 아삽이다.",
     Chn:"还有些吹号之祭司的子孙，约拿单的儿子撒迦利亚。约拿单是示玛雅的儿子；示玛雅是玛他尼的儿子；玛他尼是米该亚的儿子；米该亚是撒刻的儿子；撒刻是亚萨的儿子；",
     Eng:"as well as some priests with trumpets, and also Zechariah son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph,",
     Ind:"dan dari kaum imam yang memegang nafiri: Zakharia bin Yonatan bin Semaya bin Matanya bin Mikha bin Zakur bin Asaf,"
@@ -244,7 +244,7 @@ BibleDB.add([
     Ind:"Kemudian kedua paduan suara itu berdiri di rumah Allah. Demikian juga aku bersama-sama sebagian dari para penguasa,"
   },
   {Bible:"Nehemiah", Chapter:12, Verse:41, Page:1,
-    Kor:"제사장 엘리야김과 마아세야와 미냐민과 미가야와 엘료에내와 스가랴와 하나냐는 다 나팔을 들고 있고,",
+    Kor:"제사장 엘리아김과 마아세야와 미냐민과 미가야와 엘료에내와 스가랴와 하나냐는 다 나팔을 들고 있고,",
     Chn:"还有祭司以利亚金、玛西雅、米拿民、米该雅、以利约乃、撒迦利亚、哈楠尼亚吹号；",
     Eng:"as well as the priests--Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah and Hananiah with their trumpets--",
     Ind:"dan para imam, yakni: Elyakim, Maaseya, Minyamin, Mikha, Elyoenai, Zakharia, Hananya dengan memegang nafiri,"
@@ -262,7 +262,7 @@ BibleDB.add([
     Ind:"Pada hari itu mereka mempersembahkan korban yang besar. Mereka bersukaria karena Allah memberi mereka kesukaan yang besar. Juga segala perempuan dan anak-anak bersukaria, sehingga kesukaan Yerusalem terdengar sampai jauh."
   },
   {Bible:"Nehemiah", Chapter:12, Verse:44, Page:1,
-    Kor:"<백성들이 제사장과 레위 사람에게 준 몫> ○그 날, 사람들은 헌납물과 처음 거둔 소산과 십일조 등을 보관하는 창고를 맡을 관리인을 세웠다. 유다 사람들은, 직무를 수행하는 제사장들과 레위 사람들이 고마워서, 관리인들을 세우고, 율법에 정한 대로, 제사장과 레위 사람에게 돌아갈 몫을 성읍에 딸린 밭에서 거두어들여서, 각 창고에 보관하는 일을 맡겼다.",
+    Kor:"○그 날, 사람들은 헌납물과 처음 거둔 소산과 십일조 등을 보관하는 창고를 맡을 관리인을 세웠다. 유다 사람들은, 직무를 수행하는 제사장들과 레위 사람들이 고마워서, 관리인들을 세우고, 율법에 정한 대로, 제사장과 레위 사람에게 돌아갈 몫을 성읍에 딸린 밭에서 거두어들여서, 각 창고에 보관하는 일을 맡겼다.",
     Chn:"当日，派人管理库房，将举祭、初熟之物和所取的十分之一，就是按各城田地，照律法所定归给祭司和利未人的分，都收在里头。犹大人因祭司和利未人供职，就欢乐了。",
     Eng:"At that time men were appointed to be in charge of the storerooms for the contributions, firstfruits and tithes. From the fields around the towns they were to bring into the storerooms the portions required by the Law for the priests and the Levites, for Judah was pleased with the ministering priests and Levites.",
     Ind:"Pada masa itu beberapa orang diangkat untuk mengawasi bilik-bilik perbendaharaan, bilik-bilik untuk persembahan khusus, untuk hasil pertama dan untuk persembahan persepuluhan, supaya sumbangan yang menurut hukum menjadi bagian para imam dan orang-orang Lewi dikumpulkan di bilik-bilik itu sesuai dengan ladang setiap kota. Sebab Yehuda bersukacita karena para imam dan orang-orang Lewi yang bertugas."

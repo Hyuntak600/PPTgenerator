@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",32,44);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:32, Verse:1, Page:1,
-    Kor:"<회복의 상징으로 아나돗의 밭을 사다> 유다 왕 시드기야 제 십년에 주님께서 예레미야에게 말씀하셨다. 그 해는 느부갓네살 제 십팔년이었다.",
+    Kor:"유다 왕 시드기야 제 십년에 주께서 예레미야에게 말씀하셨다. 그 해는 느부갓네살 제 십팔년이었다.",
     Chn:"犹大王西底家第十年，就是尼布甲尼撒十八年，耶和华的话临到耶利米。",
     Eng:"This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.",
     Ind:"Firman yang datang dari TUHAN kepada Yeremia dalam tahun yang kesepuluh pemerintahan Zedekia, raja Yehuda; itulah tahun yang kedelapan belas pemerintahan Nebukadnezar."
@@ -15,37 +15,37 @@ BibleDB.add([
     Ind:"Pada waktu itu tentara raja Babel mengepung Yerusalem, dan nabi Yeremia ditahan di pelataran penjagaan yang ada di istana raja Yehuda."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:3, Page:1,
-    Kor:"유다 왕 시드기야는 예레미야를 그 곳에 가두면서 그에게 이렇게 책망하였다. ○\"그대가 어찌하여 이런 예언을 하였소? '주님께서 이렇게 말씀하신다. 보아라, 내가 이 도성을 바빌로니아 왕의 손에 넘겨 주어서, 그가 이 도성을 점령하게 하겠다.",
+    Kor:"유다 왕 시드기야가 예레미야를 그 곳에 가둘 때에, 이와 같이 책망하였다. \"그대가 어찌하여 이런 예언을 하였소? '주께서 이렇게 말씀하신다. 보아라, 내가 이 도성을 바빌로니아 왕의 손에 넘겨 주어서, 그가 이 도성을 점령하게 하겠다.",
     Chn:"因为犹大王西底家已将他囚禁，说：「你为什么预言说，耶和华如此说：『我必将这城交在巴比伦王的手中，他必攻取这城。",
     Eng:"Now Zedekiah king of Judah had imprisoned him there, saying, \"Why do you prophesy as you do? You say, 'This is what the LORD says: I am about to hand this city over to the king of Babylon, and he will capture it.",
     Ind:"Sebab Zedekia, raja Yehuda, telah menahan dia di sana dengan tuduhan: \"Mengapa engkau bernubuat: Beginilah firman TUHAN: Sesungguhnya, Aku menyerahkan kota ini ke dalam tangan raja Babel, supaya ia mendudukinya;"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:4, Page:1,
-    Kor:"유다 왕 시드기야도 a바빌로니아 군대의 손에서 벗어나지 못하고, 꼼짝없이 바빌로니아 왕의 손에 넘겨져서, 그 앞에 끌려 나가, 그가 보는 앞에서 직접 항복할 것이다.(a 또는 '갈대아')",
+    Kor:"유다 왕 시드기야도 바빌로니아 군대의 손에서 벗어나지 못하고, 꼼짝없이 바빌로니아 왕의 손에 넘겨져서, 그 앞에 끌려 나가, 그가 보는 앞에서 직접 항복할 것이다.",
     Chn:"犹大王西底家必不能逃脱迦勒底人的手，定要交在巴比伦王的手中，要口对口彼此说话，眼对眼彼此相看。",
     Eng:"Zedekiah king of Judah will not escape out of the hands of the Babylonians but will certainly be handed over to the king of Babylon, and will speak with him face to face and see him with his own eyes.",
     Ind:"Zedekia, raja Yehuda, tidak akan luput dari tangan orang Kasdim, melainkan pasti akan diserahkan ke dalam tangan raja Babel, sehingga ia berbicara dengan dia mulut sama mulut dan melihat dia mata sama mata;"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:5, Page:1,
-    Kor:"그러면 그가 시드기야를 a바빌로니아로 끌고 갈 것이며, 시드기야는 내가 그를 찾아올 때까지 그 곳에 머물러 있을 것이다. 너희는 a바빌로니아 군대와 싸워도 절대로 이기지 못할 것이다. 주님께서 하시는 말씀이다.' 이렇게 예언하였다면서요?\"(a 또는 '갈대아')",
+    Kor:"그러면 그가 시드기야를 바빌로니아로 끌고 갈 것이며, 시드기야는 내가 그를 찾아올 때까지 그 곳에 머물러 있을 것이다. 너희는 바빌로니아 군대와 싸워도 절대로 이기지 못할 것이다. 주께서 하시는 말씀이다.' 이렇게 예언하였다면서요?\"",
     Chn:"巴比伦王必将西底家带到巴比伦；西底家必住在那里，直到我眷顾他的时候。你们虽与迦勒底人争战，却不顺利。这是耶和华说的。』」",
     Eng:"He will take Zedekiah to Babylon, where he will remain until I deal with him, declares the LORD. If you fight against the Babylonians, you will not succeed.'\"",
     Ind:"Zedekia akan dibawanya ke Babel dan di sanalah ia akan tinggal, sampai Aku memperhatikannya, demikianlah firman TUHAN. Apabila kamu berperang melawan orang Kasdim itu, kamu tidak akan beruntung!\""
   },
   {Bible:"Jeremiah", Chapter:32, Verse:6, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶利米说：「耶和华的话临到我说：",
     Eng:"Jeremiah said, \"The word of the LORD came to me:",
     Ind:"Berkatalah Yeremia: \"Firman TUHAN datang kepadaku, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:7, Page:1,
-    Kor:"○\"너의 숙부 살룸의 아들 하나멜이 너에게 와서, 아나돗에 있는 그의 밭을 너더러 사라고 하면서, 그 밭을 유산으로 살 우선권이 너에게 있기 때문에, 네가 그것을 사야 한다고 말할 것이다.\"",
+    Kor:"\"너의 숙부 살룸의 아들 하나멜이 너에게 와서, 아나돗에 있는 그의 밭을 너더러 사라고 하면서, 그 밭을 유산으로 살 우선권이 너에게 있기 때문에, 네가 그것을 사야 한다고 말할 것이다.\"",
     Chn:"『你叔叔沙龙的儿子哈拿篾必来见你，说：我在亚拿突的那块地，求你买来；因你买这地是合乎赎回之理。』」",
     Eng:"Hanamel son of Shallum your uncle is going to come to you and say, 'Buy my field at Anathoth, because as nearest relative it is your right and duty to buy it.'",
     Ind:"Sesungguhnya, Hanameel, anak Salum, pamanmu, akan datang kepadamu dengan usul: Belilah ladangku yang di Anatot itu, sebab engkaulah yang mempunyai hak tebus untuk membelinya."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:8, Page:1,
-    Kor:"○과연 주님의 말씀대로, 숙부의 아들 하나멜이 근위대 뜰 안으로 나를 찾아와서, 내게 부탁하였다. 베냐민 지방의 아나돗에 있는 그의 밭을 나더러 사라고 하였다. 그 밭을 소유할 권리도 나에게 있고, 그 밭을 유산으로 사들일 권리도 나에게 있으니, 그 밭을 사서 내 밭으로 삼으라고 하였다. 그 때에 나는 이것이 바로 주님의 명령임을 깨달았다.",
+    Kor:"과연 주의 말씀대로, 숙부의 아들 하나멜이 근위대 뜰 안으로 나를 찾아와서, 내게 부탁하였다. 베냐민 지방의 아나돗에 있는 그의 밭을 나더러 사라고 하였다. 그 밭을 소유할 권리도 나에게 있고, 그 밭을 유산으로 사들일 권리도 나에게 있으니, 그 밭을 사서 내 밭으로 삼으라고 하였다. 그 때에 나는 이것이 바로 주님의 명임을 깨달았다.",
     Chn:"我叔叔的儿子哈拿篾果然照耶和华的话来到护卫兵的院内，对我说：「我在便雅悯境内、亚拿突的那块地，求你买来；因你买来是合乎承受之理，是你当赎的。你为自己买来吧！」我—耶利米就知道这是耶和华的话。",
     Eng:"\"Then, just as the LORD had said, my cousin Hanamel came to me in the courtyard of the guard and said, 'Buy my field at Anathoth in the territory of Benjamin. Since it is your right to redeem it and possess it, buy it for yourself.' \"I knew that this was the word of the LORD;",
     Ind:"Kemudian, sesuai dengan firman TUHAN, datanglah Hanameel, anak pamanku, kepadaku di pelataran penjagaan, dan mengusulkan kepadaku: Belilah ladangku yang di Anatot di daerah Benyamin itu, sebab engkaulah yang mempunyai hak milik dan hak tebus; belilah itu! Maka tahulah aku, bahwa itu adalah firman TUHAN."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Di depan mereka aku memerintahkan kepada Barukh, kataku:"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:14, Page:1,
-    Kor:"\"나 만군의 주, 이스라엘의 하나님이 말한다. 이 증서들 곧 봉인된 매매계약서와 봉인되지 않은 계약서를 받아서, 옹기그릇에 담아 여러 날 동안 보관하여라.",
+    Kor:"\"나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 이 증서들, 곧 봉인된 매매계약서와 봉인되지 않은 계약서를 받아서, 옹기그릇에 담아 여러 날 동안 보관하여라.",
     Chn:"「万军之耶和华—以色列的　神如此说：要将这封缄的和敞着的两张契放在瓦器里，可以存留多日。",
     Eng:"'This is what the LORD Almighty, the God of Israel, says: Take these documents, both the sealed and unsealed copies of the deed of purchase, and put them in a clay jar so they will last a long time.",
     Ind:"Beginilah firman TUHAN semesta alam, Allah Israel: Ambillah surat-surat ini, baik surat pembelian yang dimeteraikan itu maupun salinan yang terbuka ini, taruhlah semuanya itu dalam bejana tanah, supaya dapat tahan lama."
@@ -93,67 +93,67 @@ BibleDB.add([
     Ind:"Sebab beginilah firman TUHAN semesta alam, Allah Israel: Rumah, ladang dan kebun anggur akan dibeli pula di negeri ini!"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:16, Page:1,
-    Kor:"<예레미야의 질문> ○나는 네리야의 아들 바룩에게 그 매매계약서를 넘겨 주고 나서, 주님께 이렇게 기도드렸다.",
+    Kor:"○나는 네리야의 아들 바룩에게 그 매매계약서를 넘겨 주고 나서, 주께 이와 같이 기도드렸다.",
     Chn:"我将买契交给尼利亚的儿子巴录以后，便祷告耶和华说：",
     Eng:"\"After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD:",
     Ind:"Sesudah kuberikan surat pembelian itu kepada Barukh bin Neria, berdoalah aku kepada TUHAN, kataku:"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:17, Page:1,
-    Kor:"\"아, 주 하나님, 보십시오, 크신 권능과 펴신 팔로 하늘과 땅을 지으신 분이 바로 주님이시니, 주님께서는 무슨 일이든지 못하시는 일이 없으십니다.",
+    Kor:"\"아, 주 하나님, 보십시오, 크신 권능과 펴신 팔로 하늘과 땅을 지으신 분이 바로 주님이시니, 주께서는 무슨 일이든지 못하시는 일이 없으십니다.",
     Chn:"「主耶和华啊，你曾用大能和伸出来的膀臂创造天地，在你没有难成的事。",
     Eng:"\"Ah, Sovereign LORD, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you.",
     Ind:"Ah, Tuhan ALLAH! Sesungguhnya, Engkaulah yang telah menjadikan langit dan bumi dengan kekuatan-Mu yang besar dan dengan lengan-Mu yang terentang. Tiada suatu apapun yang mustahil untuk-Mu!"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:18, Page:1,
-    Kor:"주님께서는, 은혜는 수천 대에 이르기까지 베풀어 주시지만, 조상의 죄는 반드시 자손이 치르게 하시는 분이시며, 위대하시고 전능하신 하나님이시요, 만군의 주님으로 이름을 떨치시는 분이십니다.",
+    Kor:"주께서는, 은혜는 수천 대에 이르기까지 베풀어 주시지만, 조상의 죄는 반드시 자손이 치루게 하시는 분이시며, 위대하시고 전능하신 하나님이시요, 만군의 주로 이름을 떨치시는 분이십니다.",
     Chn:"你施慈爱与千万人，又将父亲的罪孽报应在他后世子孙的怀中，是至大全能的　神，万军之耶和华是你的名。",
     Eng:"You show love to thousands but bring the punishment for the fathers' sins into the laps of their children after them. O great and powerful God, whose name is the LORD Almighty,",
     Ind:"Engkaulah yang menunjukkan kasih setia-Mu kepada beribu-ribu orang dan yang membalaskan kesalahan bapa kepada anak-anaknya yang datang kemudian. Ya Allah yang besar dan perkasa, nama-Mu adalah TUHAN semesta alam,"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:19, Page:1,
-    Kor:"주님께서는 계획하는 일도 크시고, 실천하는 힘도 강하시며, 사람들의 모든 삶을 감찰하시고, 각자의 행동과 행실의 결실에 따라서 갚아 주십니다.",
+    Kor:"주께서는 계획하는 일도 크시고, 실천하는 힘도 강하시며, 사람들의 모든 삶을 감찰하시고, 각자의 행동과 행실의 결실에 따라서 갚아 주십니다.",
     Chn:"谋事有大略，行事有大能，注目观看世人一切的举动，为要照各人所行的和他做事的结果报应他。",
     Eng:"great are your purposes and mighty are your deeds. Your eyes are open to all the ways of men; you reward everyone according to his conduct and as his deeds deserve.",
     Ind:"besar dalam rancangan-Mu dan agung dalam perbuatan-Mu; mata-Mu terbuka terhadap segala tingkah langkah anak-anak manusia dengan mengganjar setiap orang sesuai dengan tingkah langkahnya dan sesuai dengan buah perbuatannya;"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:20, Page:1,
-    Kor:"○주님께서는 이집트 땅에서 많은 징조와 기적들을 나타내 보이셨고, 오늘날까지 이스라엘 안에서뿐만 아니라 모든 사람에게 그와 같이 하셔서, 주님의 이름을 오늘날과 같이 드높게 하셨습니다.",
+    Kor:"주께서는 이집트 땅에서 많은 징조와 기적들을 나타내 보이셨고, 오늘날까지 이스라엘 안에서뿐만이 아니라 모든 사람에게 그와 같이 하셔서, 주님의 이름을 오늘날과 같이 드높게 하셨습니다.",
     Chn:"在埃及地显神迹奇事，直到今日在以色列和别人中间也是如此，使自己得了名声，正如今日一样。",
     Eng:"You performed miraculous signs and wonders in Egypt and have continued them to this day, both in Israel and among all mankind, and have gained the renown that is still yours.",
     Ind:"Engkau yang memperlihatkan tanda-tanda dan mujizat-mujizat di tanah Mesir, sampai kepada waktu ini kepada Israel dan kepada umat manusia, sehingga Engkau membuat nama bagi-Mu, seperti yang ternyata pada waktu ini."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:21, Page:1,
-    Kor:"주님께서는 강한 손과 편 팔로, 적들이 무서워 떨게 하는 많은 징조와 기적들을 나타내시면서, 주님의 백성 이스라엘을 이집트 땅에서 이끌어 내셨습니다.",
+    Kor:"주께서는 강한 손과 편 팔로, 적들이 무서워 떨게 하는 많은 징조와 기적들을 나타내시면서, 주의 백성 이스라엘을 이집트 땅에서 이끌어 내셨습니다.",
     Chn:"用神迹奇事和大能的手，并伸出来的膀臂与大可畏的事，领你的百姓以色列出了埃及。",
     Eng:"You brought your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror.",
     Ind:"Engkau telah membawa umat-Mu Israel keluar dari tanah Mesir dengan tanda-tanda dan mujizat-mujizat, dengan tangan yang kuat dan lengan yang teracung dan dengan kedahsyatan yang besar."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:22, Page:1,
-    Kor:"주님께서는, 그들에게 주겠다고 그들의 조상에게 맹세하신 이 땅, 곧 젖과 꿀이 흐르는 이 땅을 그들에게 주셨습니다.",
+    Kor:"주께서는, 그들에게 주겠다고 그들의 조상에게 맹세하신 이 땅, 곧 젖과 꿀이 흐르는 이 땅을 그들에게 주셨습니다.",
     Chn:"将这地赐给他们，就是你向他们列祖起誓应许赐给他们流奶与蜜之地。",
     Eng:"You gave them this land you had sworn to give their forefathers, a land flowing with milk and honey.",
     Ind:"Dan Engkau telah memberikan kepada mereka negeri ini, seperti yang telah Kaujanjikan dengan sumpah kepada nenek moyang mereka untuk memberikannya kepada mereka, suatu negeri yang berlimpah-limpah susu dan madunya."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:23, Page:1,
-    Kor:"○그래서 그들이 들어와 이 땅을 차지하였습니다. 그러나 그들은 주님께 순종하지도 않고, 주님의 율법에 따라서 살지도 않고, 주님께서 그들에게 실천하라고 분부하신 모든 것을 실천하지 않았습니다. 그래서 주님께서는 그들에게 이 모든 재앙을 당하게 하셨습니다.",
+    Kor:"그래서 그들이 들어와 이 땅을 차지하였습니다. 그러나 그들은 주께 순종하지도 않고, 주의 율법에 따라서 살지도 않고, 주께서 그들에게 실천하라고 분부하신 모든 것을 실천하지 않았습니다. 그래서 주께서는 그들에게 이 모든 재앙을 당하게 하셨습니다.",
     Chn:"他们进入这地得了为业，却不听从你的话，也不遵行你的律法；你一切所吩咐他们行的，他们一无所行，因此你使这一切的灾祸临到他们。",
     Eng:"They came in and took possession of it, but they did not obey you or follow your law; they did not do what you commanded them to do. So you brought all this disaster upon them.",
     Ind:"Kemudian mereka memasuki dan mendudukinya, tetapi mereka tidak mendengarkan suara-Mu dan tidak berkelakuan menurut Taurat-Mu; mereka tidak melakukan segala apa yang Kauperintahkan kepada mereka untuk dilakukan. Sebab itu Engkau melimpahkan kepada mereka segala malapetaka ini."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:24, Page:1,
-    Kor:"이 도성을 점령하려고 쌓은 토둔들을 보십시오. 이 도성은 전쟁과 기근과 염병을 보았습니다. a바빌로니아 군대가 이 도성으로 쳐들어와서 이 도성을 점령하였습니다. 주님께서 말씀하신 일이 그대로 들이닥쳤으며, 주님께서는 이루어진 이 일을 친히 보고 계십니다.(a 또는 '갈대아')",
+    Kor:"○이 도성을 점령하려고 쌓은 토둔들을 보십시오. 이 도성은 전쟁과 기근과 염병을 보았습니다. 바빌로니아 군대가 이 도성으로 쳐들어와서 이 도성을 점령하였습니다. 주께서 말씀하신 일이 그대로 들이닥쳤으며, 주께서는 이루어진 이 일을 친히 보고 계십니다.",
     Chn:"看哪，敌人已经来到，筑垒要攻取这城；城也因刀剑、饥荒、瘟疫交在攻城的迦勒底人手中。你所说的话都成就了，你也看见了。",
     Eng:"\"See how the siege ramps are built up to take the city. Because of the sword, famine and plague, the city will be handed over to the Babylonians who are attacking it. What you said has happened, as you now see.",
     Ind:"Sesungguhnya, tembok-tembok pengepungan yang dipakai untuk merebut kota telah sampai mendekatinya; oleh karena pedang, kelaparan dan penyakit sampar maka kota itu telah diserahkan kepada orang-orang Kasdim yang memeranginya. Maka apa yang Kaufirmankan itu telah terjadi; sungguh, Engkau sendiri melihatnya."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:25, Page:1,
-    Kor:"○주 하나님, 어찌하여 주님께서는 이 도성이 이미 a바빌로니아 군대의 손에 들어가게 되었는데, 저더러 돈을 주고 밭을 사며, 증인들을 세우라고 말씀하셨습니까?\"(a 또는 '갈대아')",
+    Kor:"주 하나님, 어찌하여 주께서는 이 도성이 이미 바빌로니아 군대의 손에 들어가게 되었는데, 저더러 돈을 주고 밭을 사며, 증인들을 세우라고 말씀하셨습니까?\"",
     Chn:"主耶和华啊，你对我说：要用银子为自己买那块地，又请见证人。其实这城已交在迦勒底人的手中了。」",
     Eng:"And though the city will be handed over to the Babylonians, you, O Sovereign LORD, say to me, 'Buy the field with silver and have the transaction witnessed.'\"",
     Ind:"Namun Engkau, ya Tuhan ALLAH, telah berfirman kepadaku: Belilah ladang itu dengan perak dan panggillah saksi-saksi! --padahal kota itu telah diserahkan ke dalam tangan orang-orang Kasdim.\""
   },
   {Bible:"Jeremiah", Chapter:32, Verse:26, Page:1,
-    Kor:"<주님의 대답> ○주님께서 예레미야에게 말씀하셨다.",
+    Kor:"○주께서 예레미야에게 말씀하셨다.",
     Chn:"耶和华的话临到耶利米说：",
     Eng:"Then the word of the LORD came to Jeremiah:",
     Ind:"Firman TUHAN datang kepada Yeremia, bunyinya:"
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"\"Sesungguhnya, Akulah TUHAN, Allah segala makhluk; adakah sesuatu apapun yang mustahil untuk-Ku?"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:28, Page:1,
-    Kor:"나 주가 말한다. 그러므로 보아라, 내가 이 도성을 a바빌로니아 사람의 손에 넘겨 준다. a바빌로니아 왕 느부갓네살의 손에 넘겨 줄 터이니, 그가 이 도성을 점령할 것이다.(a 또는 '갈대아')",
+    Kor:"나 주가 말한다. 그러므로 보아라, 내가 이 도성을 바빌로니아 사람의 손에 넘겨 준다. 바빌로니아 왕 느부갓네살의 손에 넘겨 줄 터이니, 그가 이 도성을 점령할 것이다.",
     Chn:"耶和华如此说：我必将这城交付迦勒底人的手和巴比伦王尼布甲尼撒的手，他必攻取这城。",
     Eng:"Therefore, this is what the LORD says: I am about to hand this city over to the Babylonians and to Nebuchadnezzar king of Babylon, who will capture it.",
     Ind:"Sebab itu beginilah firman TUHAN: Sesungguhnya, Aku berikan kota ini ke dalam tangan orang-orang Kasdim dan ke dalam tangan Nebukadnezar, raja Babel, dan ia akan merebutnya."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:29, Page:1,
-    Kor:"그러므로 지금 이 도성을 치고 있는 저 a바빌로니아 군대가 들어와서, 이 도성을 불태워 버릴 것이다. 이 도성 사람들이 지붕으로 올라가서, 바알에게 제물을 살라 바치고, 다른 신들에게 술 제물을 바쳐서, 나를 노하게 하였으니, 내가 그 집들을 태워 버리겠다.(a 또는 '갈대아')",
+    Kor:"그러므로 지금 이 도성을 치고 있는 저 바빌로니아 군대가 들어와서, 이 도성을 불태워 버릴 것이다. 이 도성 사람들이 지붕으로 올라가서, 바알에게 제물을 살라 바치고, 다른 신들에게 술 제물을 바쳐서, 나를 노하게 하였으니, 내가 그 집들을 태워 버리겠다.",
     Chn:"攻城的迦勒底人必来放火焚烧这城和其中的房屋。在这房屋上，人曾向巴力烧香，向别神浇奠，惹我发怒。",
     Eng:"The Babylonians who are attacking this city will come in and set it on fire; they will burn it down, along with the houses where the people provoked me to anger by burning incense on the roofs to Baal and by pouring out drink offerings to other gods.",
     Ind:"Orang-orang Kasdim yang memerangi kota ini akan datang membakarnya dan menghanguskannya serta dengan rumah-rumah yang di atas sotohnya orang membakar korban kepada Baal dan mempersembahkan korban curahan kepada allah lain untuk menimbulkan sakit hati-Ku."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:30, Page:1,
-    Kor:"○이스라엘 백성과 유다 백성은 젊은 시절부터 내가 보기에 악한 일만을 하였다. 참으로 이스라엘 백성은 자기들의 손으로 만든 우상으로 나를 화나게만 하였다. 나 주의 말이다.",
+    Kor:"이스라엘 백성과 유다 백성은 젊은 시절부터 내가 보기에 악한 일만을 하였다. 참으로 이스라엘 백성은 자기들의 손으로 만든 우상으로 나를 화나게만 하였다. 나 주의 말이다.",
     Chn:"以色列人和犹大人自从幼年以来，专行我眼中看为恶的事；以色列人尽以手所做的惹我发怒。这是耶和华说的。",
     Eng:"\"The people of Israel and Judah have done nothing but evil in my sight from their youth; indeed, the people of Israel have done nothing but provoke me with what their hands have made, declares the LORD.",
     Ind:"Sebab orang Israel dan orang Yehuda hanyalah melakukan yang jahat di mata-Ku sejak masa mudanya; sungguh, orang Israel hanya menimbulkan sakit hati-Ku dengan perbuatan tangan mereka, demikianlah firman TUHAN."
@@ -201,25 +201,25 @@ BibleDB.add([
     Ind:"Mereka membelakangi Aku dan tidak menghadap kepada-Ku, dan sekalipun Aku mengajar mereka, terus-menerus, tiada mereka mau mendengarkan atau menerima penghajaran."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:34, Page:1,
-    Kor:"오히려 그들은, 내 이름을 찬양하려고 세운 성전 안에 자기들이 섬기는 역겨운 것들을 세워 놓아서, 성전을 더럽혔다.",
+    Kor:"오히려 그들은, 내 이름을 찬양하려고 세운 성전 안에, 자기들이 섬기는 역겨운 것들을 세워 놓아서 성전을 더럽혔다.",
     Chn:"竟把可憎之物设立在称为我名下的殿中，污秽了这殿。",
     Eng:"They set up their abominable idols in the house that bears my Name and defiled it.",
     Ind:"Mereka menempatkan dewa-dewa mereka yang menjijikkan di rumah yang di atasnya nama-Ku diserukan, untuk menajiskannya."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:35, Page:1,
-    Kor:"또 그들은 자기들의 아들딸들을 b불태워 몰렉에게 제물로 바치려고 '힌놈의 아들 골짜기'에 바알의 산당을 쌓아 놓았는데, 나는 절대로 유다 백성을 죄악에 빠뜨리는 이 역겨운 일은 명하지도 않았고, 상상조차도 해본 적이 없다.\"(b 또는 '불 속으로 지나가게 하려고')",
+    Kor:"또 그들은 자기들의 아들딸들을 불태워 몰렉에게 제물로 바치려고 '힌놈의 아들 골짜기'에 바알의 산당을 쌓아 놓았는데, 나는 절대로 유다 백성을 죄악에 빠뜨리는 이 역겨운 일은 명하지도 않았고, 상상조차도 해본 적이 없다.\"",
     Chn:"他们在欣嫩子谷建筑巴力的邱坛，好使自己的儿女经火归摩洛；他们行这可憎的事，使犹大陷在罪里，这并不是我所吩咐的，也不是我心所起的意。」",
     Eng:"They built high places for Baal in the Valley of Ben Hinnom to sacrifice their sons and daughters to Molech, though I never commanded, nor did it enter my mind, that they should do such a detestable thing and so make Judah sin.",
     Ind:"Mereka mendirikan bukit-bukit pengorbanan untuk Baal di Lembah Ben-Hinom, untuk mempersembahkan anak-anak lelaki dan anak-anak perempuan mereka kepada Molokh sebagai korban dalam api, sekalipun Aku tidak pernah memerintahkannya kepada mereka dan sekalipun hal itu tidak pernah timbul dalam hati-Ku, yakni hal melakukan kejijikan ini, sehingga Yehuda tergelincir ke dalam dosa."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:36, Page:1,
-    Kor:"<희망의 약속> ○\"이제 나 주 이스라엘의 하나님이 말한다. 너희는 이 도성을 두고, 전쟁과 기근과 염병을 만나서 바빌로니아 왕의 손에 들어간 도성이라고 말하지만,",
+    Kor:"○\"이제 나 주 이스라엘의 하나님이 말한다. 너희는 이 도성을 두고, 전쟁과 기근과 염병을 만나서 바빌로니아 왕의 손에 들어간 도성이라고 말하지만,",
     Chn:"现在论到这城，就是你们所说、已经因刀剑、饥荒、瘟疫交在巴比伦王手中的，耶和华—以色列的　神如此说：",
     Eng:"\"You are saying about this city, 'By the sword, famine and plague it will be handed over to the king of Babylon'; but this is what the LORD, the God of Israel, says:",
     Ind:"Oleh sebab itu, beginilah firman TUHAN, Allah Israel, mengenai kota ini, yang engkau katakan telah diserahkan ke dalam tangan raja Babel karena pedang, kelaparan dan penyakit sampar:"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:37, Page:1,
-    Kor:"○똑똑히 들어라. 내가 분노와 노여움과 울화 때문에 그들을 여러 나라로 내쫓아 버렸다. 그러나 이제 내가 그들을 이 모든 나라에서 모아다가, 이 곳으로 데려와서 안전하게 살게 하겠다.",
+    Kor:"똑똑히 들어라. 내가 분노와 노여움과 울화 때문에 그들을 여러 나라로 내쫓아 버렸다. 그러나 이제 내가 그들을 이 모든 나라에서 모아다가, 이 곳으로 데려와서 안전하게 살게 하겠다.",
     Chn:"「我在怒气、忿怒，和大恼恨中，将以色列人赶到各国。日后我必从那里将他们招聚出来，领他们回到此地，使他们安然居住。",
     Eng:"I will surely gather them from all the lands where I banish them in my furious anger and great wrath; I will bring them back to this place and let them live in safety.",
     Ind:"Sesungguhnya, Aku mengumpulkan mereka dari segala negeri, ke mana Aku menceraiberaikan mereka karena murka-Ku, kehangatan amarah-Ku dan gusar-Ku yang besar, dan Aku akan mengembalikan mereka ke tempat ini dan akan membuat mereka diam dengan tenteram."
@@ -255,13 +255,13 @@ BibleDB.add([
     Ind:"Sebab beginilah firman TUHAN: Seperti Aku mendatangkan kepada bangsa ini segenap malapetaka yang hebat ini, demikianlah Aku mendatangkan ke atas mereka keberuntungan yang Kujanjikan kepada mereka."
   },
   {Bible:"Jeremiah", Chapter:32, Verse:43, Page:1,
-    Kor:"너희는 지금 이 땅을 두고 '사람도 없고 짐승도 없는 황무지이며, a바빌로니아 군대의 손에 들어간 땅'이라고 말하지만, 바로 이 땅에서 사람들이 밭을 살 것이다.(a 또는 '갈대아')",
+    Kor:"너희는 지금 이 땅을 두고 '사람도 없고 짐승도 없는 황무지이며, 바빌로니아 군대의 손에 들어간 땅'이라고 말하지만, 바로 이 땅에서 사람들이 밭을 살 것이다.",
     Chn:"你们说，这地是荒凉、无人民、无牲畜，是交付迦勒底人手之地。日后在这境内，必有人置买田地。",
     Eng:"Once more fields will be bought in this land of which you say, 'It is a desolate waste, without men or animals, for it has been handed over to the Babylonians.'",
     Ind:"Orang akan membeli ladang lagi di negeri ini yang kamu katakan: Itu adalah tempat tandus tanpa manusia dan hewan; itu telah diserahkan ke dalam tangan orang-orang Kasdim!"
   },
   {Bible:"Jeremiah", Chapter:32, Verse:44, Page:1,
-    Kor:"앞으로는 베냐민 땅에서만 아니라, 예루살렘의 사방과 유다의 성읍들과 산간지역의 성읍들과 c평지의 성읍들과 남쪽의 성읍들에서도, 사람들이 돈을 주고 밭을 사서 매매계약서를 쓰고, 봉인하고, 증인들을 세울 것이다. d포로로 잡혀 간 사람들을, 내가 돌아오게 할 것이기 때문이다. 나 주의 말이다.\"(c 히, '스펠라'. 산과 해변 사이의 경사진 평지 d 또는 '내가 그들의 24 32:운명을 회복시켜 줄 것이기 때문이다')",
+    Kor:"앞으로는 베냐민 땅에서만 아니라, 예루살렘의 사방과 유다의 성읍들과 산간지역의 성읍들과 평지의 성읍들과 남쪽의 성읍들에서도, 사람들이 돈을 주고 밭을 사서 매매계약서를 쓰고, 봉인하고, 증인들을 세울 것이다. 포로로 잡혀 간 사람들을, 내가 돌아오게 할 것이기 때문이다. 나 주의 말이다.\"",
     Chn:"在便雅悯地、耶路撒冷四围的各处、犹大的城邑、山地的城邑、高原的城邑，并南地的城邑，人必用银子买田地，在契上画押，将契封缄，请出见证人，因为我必使被掳的人归回。这是耶和华说的。」",
     Eng:"Fields will be bought for silver, and deeds will be signed, sealed and witnessed in the territory of Benjamin, in the villages around Jerusalem, in the towns of Judah and in the towns of the hill country, of the western foothills and of the Negev, because I will restore their fortunes, declares the LORD.\"",
     Ind:"Orang akan membeli ladang-ladang dengan perak, menulis surat pembelian, memeteraikannya dan memanggil saksi-saksi di daerah Benyamin, di sekitar Yerusalem, di kota-kota Yehuda, di kota-kota Pegunungan, di kota-kota Daerah Bukit dan di kota-kota Tanah Negeb. Sebab Aku akan memulihkan keadaan mereka, demikianlah firman TUHAN.\""

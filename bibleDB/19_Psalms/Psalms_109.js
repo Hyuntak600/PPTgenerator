@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",109,31);
 BibleDB.add([
   {Bible:"Psalms", Chapter:109, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 부르는 다윗의 노래> a하나님, 내가 주님을 찬양합니다. 잠잠히 계시지 마십시오. (a 히브리어 사본 가운데 일부와 칠십인역과 타르굼을 따름. 히, '내가 찬양하는 하나님')",
+    Kor:"하나님, 내가 주님을 찬양합니다. 잠잠히 계시지 마십시오.",
     Chn:"大卫的诗，交与伶长。 我所赞美的　神啊， 求你不要闭口不言。",
     Eng:"O God, whom I praise, do not remain silent,",
     Ind:"Untuk pemimpin biduan. Mazmur Daud. Ya Allah pujianku, janganlah berdiam diri!"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Sebab mulut orang fasik dan mulut penipu ternganga terhadap aku, mereka berbicara terhadap aku dengan lidah dusta;"
   },
   {Bible:"Psalms", Chapter:109, Verse:3, Page:1,
-    Kor:"미움으로 가득 찬 말을 나에게 퍼붓고, 이유도 없이 나를 맹렬하게 공격합니다.",
+    Kor:"미움으로 가득 찬 말을 나에게 퍼붓고, 이유도 없이 나에게 싸움을 걸어 옵니다.",
     Chn:"他们围绕我，说怨恨的话， 又无故地攻打我。",
     Eng:"With words of hatred they surround me; they attack me without cause.",
     Ind:"dengan kata-kata kebencian mereka menyerang aku dan memerangi aku tanpa alasan."
   },
   {Bible:"Psalms", Chapter:109, Verse:4, Page:1,
-    Kor:"나는 그들을 사랑하여 그들을 위하여 기도를 올리건만, 그들은 나를 고발합니다.",
+    Kor:"나는 그들을 사랑하여 그들을 위하여 기도를 올리건만, 그들은 나를 미워합니다.",
     Chn:"他们与我为敌以报我爱， 但我专心祈祷。",
     Eng:"In return for my friendship they accuse me, but I am a man of prayer.",
     Ind:"Sebagai balasan terhadap kasihku mereka menuduh aku, sedang aku mendoakan mereka."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Mereka membalas kejahatan kepadaku ganti kebaikan dan kebencian ganti kasihku."
   },
   {Bible:"Psalms", Chapter:109, Verse:6, Page:1,
-    Kor:"\"그러므로 b악인을 시켜, 그와 맞서게 하십시오. 고소인이 그의 오른쪽에 서서, 그를 고발하게 하십시오. (b 또는 '악마')",
+    Kor:"\"악인을 시켜, 그와 맞서게 하십시오. 사탄이 그의 오른쪽에 서서, 그를 고발하게 하십시오.",
     Chn:"愿你派一个恶人辖制他， 派一个对头站在他右边！",
     Eng:"Appoint an evil man to oppose him; let an accuser stand at his right hand.",
     Ind:"\"Angkatlah seorang fasik atas dia, dan biarlah seorang pendakwa berdiri di sebelah kanannya;"
   },
   {Bible:"Psalms", Chapter:109, Verse:7, Page:1,
-    Kor:"그가 재판을 받을 때에, 유죄 판결을 받게 하십시오. 그가 하는 기도는 죄가 되게 하십시오.",
+    Kor:"재판을 받을 때에, 유죄 판결을 받게 하십시오. 그가 하는 기도는 죄가 되게 하십시오.",
     Chn:"他受审判的时候， 愿他出来担当罪名！ 愿他的祈祷反成为罪！",
     Eng:"When he is tried, let him be found guilty, and may his prayers condemn him.",
     Ind:"apabila dihakimi, biarlah ia keluar sebagai orang bersalah, dan biarlah doanya menjadi dosa."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Biarlah anak-anaknya menjadi yatim, dan isterinya menjadi janda."
   },
   {Bible:"Psalms", Chapter:109, Verse:10, Page:1,
-    Kor:"그 자식들은 떠돌아다니면서 구걸하는 신세가 되고, c폐허가 된 집에서마저 쫓겨나서 밥을 빌어먹게 하십시오. (c 칠십인역을 따름. 히, '폐허를 찾고')",
+    Kor:"그 자식들은 떠돌아다니면서 구걸하는 신세가 되고, 폐허가 된 집에서마저 쫓겨나서 밥을 빌어먹게 하십시오.",
     Chn:"愿他的儿女漂流讨饭， 从他们荒凉之处出来求食！",
     Eng:"May his children be wandering beggars; may they be driven from their ruined homes.",
     Ind:"Biarlah anak-anaknya mengembara tidak keruan dan mengemis, dan dihalau dari reruntuhan rumahnya."
@@ -81,25 +81,25 @@ BibleDB.add([
     Ind:"Biarlah dilenyapkan keturunannya, dan dihapuskan namanya dalam angkatan yang kemudian."
   },
   {Bible:"Psalms", Chapter:109, Verse:14, Page:1,
-    Kor:"그의 d아버지가 지은 죄를 주님이 기억하시고, 그의 어머니가 지은 죄도 지워지지 않게 하십시오. (d 히, '아버지들' 또는 '조상')",
+    Kor:"그의 아버지가 지은 죄 주님이 기억하시게 하시고, 그 어머니가 지은 죄도 지워지지 않게 하십시오.",
     Chn:"愿他祖宗的罪孽被耶和华记念！ 愿他母亲的罪过不被涂抹！",
     Eng:"May the iniquity of his fathers be remembered before the LORD; may the sin of his mother never be blotted out.",
     Ind:"Biarlah kesalahan nenek moyangnya diingat-ingat di hadapan TUHAN, dan janganlah dihapuskan dosa ibunya."
   },
   {Bible:"Psalms", Chapter:109, Verse:15, Page:1,
-    Kor:"그들의 죄가 늘 주님에게 거슬리게 하시고, 세상 사람들이 그를 완전히 잊게 하여 주십시오.",
+    Kor:"주의 감시가 잠시도 그를 떠나지 않게 하시고, 세상 사람들이 그를 기억하지 못하게 하십시오.",
     Chn:"愿这些罪常在耶和华面前， 使他的名号断绝于世！",
     Eng:"May their sins always remain before the LORD, that he may cut off the memory of them from the earth.",
     Ind:"Biarlah itu selalu diperhatikan TUHAN, supaya ingatan kepada mereka dilenyapkan dari bumi."
   },
   {Bible:"Psalms", Chapter:109, Verse:16, Page:1,
-    Kor:"이것은 그가 남에게 사랑을 베풀 생각은 않고, 도리어 가난하고 빈곤한 자를 괴롭히며, 마음이 상한 자를 못살게 하였기 때문입니다.",
+    Kor:"남에게 베풀 생각은 않고, 도리어 가난하고 빈곤한 자를 괴롭히며, 마음이 상한 자를 못살게 하였습니다.",
     Chn:"因为他不想施恩， 却逼迫困苦穷乏的和伤心的人， 要把他们治死。",
     Eng:"For he never thought of doing a kindness, but hounded to death the poor and the needy and the brokenhearted.",
     Ind:"Oleh karena ia tidak ingat menunjukkan kasih, tetapi mengejar orang sengsara dan miskin dan orang yang hancur hati sampai mereka mati."
   },
   {Bible:"Psalms", Chapter:109, Verse:17, Page:1,
-    Kor:"그가 저주하기를 좋아하였으니, 그 저주가 그에게 내리게 하십시오. 축복하기를 싫어하였으니, 복이 그에게서 멀어지게 하십시오.",
+    Kor:"저주하기를 좋아하였으니, 그 저주가 그에게 내리게 하십시오. 축복하기를 싫어하였으니, 복이 그에게서 멀어지게 하십시오.",
     Chn:"他爱咒骂，咒骂就临到他； 他不喜爱福乐，福乐就与他远离！",
     Eng:"He loved to pronounce a curse--may it come on him; he found no pleasure in blessing--may it be far from him.",
     Ind:"Ia cinta kepada kutuk--biarlah itu datang kepadanya; ia tidak suka kepada berkat--biarlah itu menjauh dari padanya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Biarlah semuanya itu dari pihak TUHAN menjadi upah orang yang mendakwa aku, dan upah orang-orang yang berkata-kata jahat terhadap aku.\""
   },
   {Bible:"Psalms", Chapter:109, Verse:21, Page:1,
-    Kor:"주님은 나의 하나님이시니, 주님의 명성에 어울리게 나를 도와주십시오. 주님의 사랑은 그지없으시니, 나를 건져 주십시오.",
+    Kor:"주님은 나의 하나님이시니, 주의 명성에 알맞게 나를 도와주십시오. 주의 사랑은 그지없으시니, 나를 건져 주십시오.",
     Chn:"主—耶和华啊，求你为你的名恩待我； 因你的慈爱美好，求你搭救我！",
     Eng:"But you, O Sovereign LORD, deal well with me for your name's sake; out of the goodness of your love, deliver me.",
     Ind:"Tetapi Engkau, ya ALLAH, Tuhanku, bertindaklah kepadaku oleh karena nama-Mu, lepaskanlah aku oleh sebab kasih setia-Mu yang baik!"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sebab sengsara dan miskin aku, dan hatiku terluka dalam diriku;"
   },
   {Bible:"Psalms", Chapter:109, Verse:23, Page:1,
-    Kor:"나는 석양에 기우는 그림자처럼 사라져가고, 놀란 메뚜기 떼처럼 날려 갑니다.",
+    Kor:"나는 석양에 기우는 그림자처럼 사라져가고, 놀란 메뚜기 떼처럼 밀려 갑니다.",
     Chn:"我如日影渐渐偏斜而去； 我如蝗虫被抖出来。",
     Eng:"I fade away like an evening shadow; I am shaken off like a locust.",
     Ind:"aku menghilang seperti bayang-bayang pada waktu memanjang, aku dikebutkan seperti belalang."
@@ -153,25 +153,25 @@ BibleDB.add([
     Ind:"Aku telah menjadi cela bagi mereka; melihat aku, mereka menggelengkan kepalanya."
   },
   {Bible:"Psalms", Chapter:109, Verse:26, Page:1,
-    Kor:"주, 나의 하나님, 나를 도와주십시오. 주님의 한결같으신 사랑을 따라, 나를 구원하여 주십시오.",
+    Kor:"주, 나의 하나님, 나를 도와주십시오. 주님은 신실하시니, 나를 구원하여 주십시오.",
     Chn:"耶和华—我的　神啊，求你帮助我， 照你的慈爱拯救我，",
     Eng:"Help me, O LORD my God; save me in accordance with your love.",
     Ind:"Tolonglah aku, ya TUHAN, Allahku, selamatkanlah aku sesuai dengan kasih setia-Mu,"
   },
   {Bible:"Psalms", Chapter:109, Verse:27, Page:1,
-    Kor:"주님, 이것은 주님께서 손수 하신 일이며, 바로 주님이 이 일을 이루셨음을 그들이 알게 해주십시오.",
+    Kor:"주님, 이것이 주께서 손수 하신 일임을, 이 일을 하신 분이 바로 주님이심을, 그들이 알게 해주십시오.",
     Chn:"使他们知道这是你的手， 是你—耶和华所行的事。",
     Eng:"Let them know that it is your hand, that you, O LORD, have done it.",
     Ind:"supaya mereka tahu, bahwa tangan-Mulah ini, bahwa Engkaulah, ya TUHAN, yang telah melakukannya."
   },
   {Bible:"Psalms", Chapter:109, Verse:28, Page:1,
-    Kor:"그들이 나에게 저주를 퍼부어도, 주님은 나에게 복을 주십니다. 그들은 치려고 일어났다가 부끄러움을 당하여도, 주님의 종은 언제나 즐거워하게 해주십시오.",
+    Kor:"그들이 나에게 저주를 퍼부어도, 주님은 나에게 복을 주십니다. 그들은 치려고 일어났다가 부끄러움을 당하여도, 주의 종은 언제나 즐거워하게 해주십시오.",
     Chn:"任凭他们咒骂，惟愿你赐福； 他们几时起来就必蒙羞， 你的仆人却要欢喜。",
     Eng:"They may curse, but you will bless; when they attack they will be put to shame, but your servant will rejoice.",
     Ind:"Biar mereka mengutuk, Engkau akan memberkati; biarlah lawan-lawanku mendapat malu, tetapi hamba-Mu ini kiranya bersukacita."
   },
   {Bible:"Psalms", Chapter:109, Verse:29, Page:1,
-    Kor:"나를 고발하는 사람들은 수치를 뒤집어쓰게 해주시고, 그들이 받을 수모를 겉옷처럼 걸치고 다니게 해주십시오.",
+    Kor:"나를 고발하는 사람은 수치를 뒤집어쓰게 해주시고, 그들이 받을 수모를 겉옷 걸치듯이 걸치고 다니게 해주십시오.",
     Chn:"愿我的对头披戴羞辱！ 愿他们以自己的羞愧为外袍遮身！",
     Eng:"My accusers will be clothed with disgrace and wrapped in shame as in a cloak.",
     Ind:"Biarlah orang-orang yang mendakwa aku berpakaikan noda, dan berselimutkan malunya sebagai jubah."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Aku hendak bersyukur sangat kepada TUHAN dengan mulutku, dan aku hendak memuji-muji Dia di tengah-tengah orang banyak."
   },
   {Bible:"Psalms", Chapter:109, Verse:31, Page:1,
-    Kor:"나를 고발하는 자들에게서 나를 구원해 주시려고, 주님께서는 이 가난한 사람의 오른쪽에 서 계시기 때문이다.",
+    Kor:"나를 정죄하는 자들에게서 나를 구원해 주시려고, 주께서는 이 가난한 사람의 오른쪽에 서 계시기 때문이다.",
     Chn:"因为他必站在穷乏人的右边， 要救他脱离审判他灵魂的人。",
     Eng:"For he stands at the right hand of the needy one, to save his life from those who condemn him.",
     Ind:"Sebab Ia berdiri di sebelah kanan orang miskin untuk menyelamatkannya dari orang-orang yang menghukumnya."

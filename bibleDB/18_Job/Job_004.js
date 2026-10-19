@@ -3,7 +3,7 @@
 BibleDB.ref("Job",4,21);
 BibleDB.add([
   {Bible:"Job", Chapter:4, Verse:1, Page:1,
-    Kor:"<엘리바스의 첫 번째 발언> 데만 사람 엘리바스가 대답하였다.",
+    Kor:"데만 사람 엘리바스가 대답하였다.",
     Chn:"提幔人以利法回答说：",
     Eng:"Then Eliphaz the Temanite replied:",
     Ind:"Maka berbicaralah Elifas, orang Teman:"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"lebih-lebih lagi mereka yang diam dalam pondok tanah liat, yang dasarnya dalam debu, yang mati terpijat seperti gegat."
   },
   {Bible:"Job", Chapter:4, Verse:20, Page:1,
-    Kor:"사람은, 아침에는 살아 있다가도, 저녁이 오기 전에 예고도 없이 죽는 것, 별수 없이 모두들 영원히 망하고 만다.",
+    Kor:"사람은, 아침에는 살아 있다가도, 저녁이 오기 전에 예고도 없이 죽는 것, 별수없이 모두들 영원히 망하고 만다.",
     Chn:"早晚之间，就被毁灭， 永归无有，无人理会。",
     Eng:"Between dawn and dusk they are broken to pieces; unnoticed, they perish forever.",
     Ind:"Di antara pagi dan petang mereka dihancurkan, dan tanpa dihiraukan mereka binasa untuk selama-lamanya."

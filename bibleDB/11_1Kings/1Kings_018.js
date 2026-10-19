@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",18,46);
 BibleDB.add([
   {Bible:"1Kings", Chapter:18, Verse:1, Page:1,
-    Kor:"<엘리야와 바알 예언자들> 많은 날이 흘러서, 삼 년이 되던 해에, 주님께서 엘리야에게 말씀하셨다. \"가서, 아합을 만나거라. 내가 땅 위에 비를 내리겠다.\"",
+    Kor:"많은 날이 흘러서, 삼 년이 되던 해에, 주께서 엘리야에게 말씀하셨다. \"가서, 아합을 만나거라. 내가 땅 위에 비를 내리겠다.\"",
     Chn:"过了许久，到第三年，耶和华的话临到以利亚说：「你去，使亚哈得见你；我要降雨在地上。」",
     Eng:"After a long time, in the third year, the word of the LORD came to Elijah: \"Go and present yourself to Ahab, and I will send rain on the land.\"",
     Ind:"Dan sesudah beberapa lama, datanglah firman TUHAN kepada Elia dalam tahun yang ketiga: \"Pergilah, perlihatkanlah dirimu kepada Ahab, sebab Aku hendak memberi hujan ke atas muka bumi.\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sebab itu Ahab telah memanggil Obaja yang menjadi kepala istana. Obaja itu seorang yang sungguh-sungguh takut akan TUHAN."
   },
   {Bible:"1Kings", Chapter:18, Verse:4, Page:1,
-    Kor:"이세벨이 주님의 예언자들을 학살할 때에, 예언자 백 명을 쉰 명씩 동굴에 숨기고서, 먹을 것과 물을 대준 사람이다.",
+    Kor:"이세벨이 주의 예언자들을 학살할 때에, 예언자 백 명을 쉰 명씩 동굴에 숨기고서, 먹을 것과 물을 대준 사람이다.",
     Chn:"耶洗别杀耶和华众先知的时候，俄巴底将一百个先知藏了，每五十人藏在一个洞里，拿饼和水供养他们。）",
     Eng:"While Jezebel was killing off the LORD'S prophets, Obadiah had taken a hundred prophets and hidden them in two caves, fifty in each, and had supplied them with food and water.)",
     Ind:"Karena pada waktu Izebel melenyapkan nabi-nabi TUHAN, Obaja mengambil seratus orang nabi, lalu menyembunyikan mereka lima puluh lima puluh sekelompok dalam gua dan mengurus makanan dan minuman mereka."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Tetapi jawab Obaja: \"Apakah dosa yang telah kuperbuat, maka engkau hendak menyerahkan hambamu ini kepada Ahab, supaya aku dibunuhnya?"
   },
   {Bible:"1Kings", Chapter:18, Verse:10, Page:1,
-    Kor:"예언자께서 섬기시는 주 하나님께서 살아 계심을 두고 맹세합니다. 제 상전은 어른을 찾으려고, 모든 나라, 모든 왕국에 사람들을 풀어 놓았습니다. 그러나 그들이 돌아와서, 엘리야가 없다고 보고하면, 제 상전은, 그 나라와 왕국에게 어른을 정말 찾지 못하였다고, 맹세하게 하였습니다.",
+    Kor:"예언자께서 섬기시는 주 하나님께서 살아 계심을 두고 맹세합니다. 제 상전은 어른을 찾으려고, 모든 나라, 모든 왕국에 사람들을 풀어 놓았습니다. 그러나 그들이 돌아와서, 엘리야가 없다고 보고하면, 제 주인은, 그 나라와 왕국에게 어른을 정말 찾지 못하였다고, 맹세하게 하였습니다.",
     Chn:"我指着永生耶和华—你的　神起誓，无论哪一邦哪一国，我主都打发人去找你。若说你没有在那里，就必使那邦那国的人起誓说，实在是找不着你。",
     Eng:"As surely as the LORD your God lives, there is not a nation or kingdom where my master has not sent someone to look for you. And whenever a nation or kingdom claimed you were not there, he made them swear they could not find you.",
     Ind:"Demi TUHAN, Allahmu, yang hidup, sesungguhnya tidak ada bangsa atau kerajaan, yang tidak didatangi suruhan tuanku Ahab untuk mencari engkau. Dan apabila orang berkata: Ia tidak ada, maka ia menyuruh kerajaan atau bangsa itu bersumpah, bahwa engkau tidak ditemukan di sana."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Dan sekarang engkau berkata: Pergilah, katakan kepada tuanmu: Elia ada."
   },
   {Bible:"1Kings", Chapter:18, Verse:12, Page:1,
-    Kor:"제가 어른을 떠나가면, 주님의 영이 곧 어른을 제가 알지 못하는 곳으로 데려 가실 것입니다. 제가 가서, 아합에게 말하였다가, 그가 와서 어른을 찾지 못하면, 반드시 저를 죽일 것입니다. 어른의 종인 저는 어릴 때부터 주님을 경외하여 왔습니다.",
+    Kor:"제가 어른을 떠나가면, 주의 영이 곧 어른을 제가 알지 못하는 곳으로 데려 가실 것입니다. 제가 가서, 아합에게 말하였다가, 그가 와서 어른을 찾지 못하면, 반드시 저를 죽일 것입니다. 어른의 종인 저는 어릴 때부터 주를 경외하여 왔습니다.",
     Chn:"恐怕我一离开你，耶和华的灵就提你到我所不知道的地方去。这样，我去告诉亚哈，他若找不着你，就必杀我；仆人却是自幼敬畏耶和华的。",
     Eng:"I don't know where the Spirit of the LORD may carry you when I leave you. If I go and tell Ahab and he doesn't find you, he will kill me. Yet I your servant have worshiped the LORD since my youth.",
     Ind:"Mungkin terjadi, apabila aku sudah pergi dari padamu, Roh TUHAN mengangkat engkau ke tempat yang tidak kuketahui. Kalau aku sampai kepada Ahab untuk memberitahukannya dan engkau tidak didapatinya, tentulah ia akan membunuh aku, padahal hambamu ini dari sejak kecil takut akan TUHAN."
   },
   {Bible:"1Kings", Chapter:18, Verse:13, Page:1,
-    Kor:"이세벨이 주님의 예언자들을 학살할 때에 제가 한 일과, 제가 주님의 예언자 백 명을 쉰 명씩 동굴에 감추고 그들에게 먹을 것과 마실 것을 대준 일을, 어른께서는 듣지도 못하셨습니까?",
+    Kor:"이세벨이 주의 예언자들을 학살할 때에 제가 한 일과, 제가 주의 예언자 백 명을 쉰 명씩 동굴에 감추고 그들에게 먹을 것과 마실 것을 대준 일을, 어른께서는 듣지도 못하셨습니까?",
     Chn:"耶洗别杀耶和华众先知的时候，我将耶和华的一百个先知藏了，每五十人藏在一个洞里，拿饼和水供养他们，岂没有人将这事告诉我主吗？",
     Eng:"Haven't you heard, my lord, what I did while Jezebel was killing the prophets of the LORD? I hid a hundred of the LORD'S prophets in two caves, fifty in each, and supplied them with food and water.",
     Ind:"Tidakkah diberitahukan kepada tuanku apa yang telah kulakukan pada waktu Izebel membunuh nabi-nabi TUHAN, bagaimana aku menyembunyikan seratus orang nabi-nabi TUHAN dalam gua, lima puluh lima puluh sekelompok dan mengurus makanan dan minuman mereka?"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Dan sekarang, mengapa engkau ini berkata: Pergilah, katakan kepada tuanmu: Elia ada! Ia pasti akan membunuh aku.\""
   },
   {Bible:"1Kings", Chapter:18, Verse:15, Page:1,
-    Kor:"그러자 엘리야가 말하였다. \"내가 섬기는 만군의 주님께서 살아 계심을 두고 맹세하오. 나는 오늘 꼭 아합을 만날 것이오.\"",
+    Kor:"그러자 엘리야가 말하였다. \"내가 섬기는 만군의 주께서 살아 계심을 두고 맹세하오. 나는 오늘 꼭 아합을 만날 것이오.\"",
     Chn:"以利亚说：「我指着所事奉永生的万军之耶和华起誓，我今日必使亚哈得见我。」",
     Eng:"Elijah said, \"As the LORD Almighty lives, whom I serve, I will surely present myself to Ahab today.\"",
     Ind:"Jawab Elia: \"Demi TUHAN semesta alam yang hidup, yang kulayani, sesungguhnya hari ini juga aku akan memperlihatkan diri kepadanya.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Segera sesudah Ahab melihat Elia, ia berkata kepadanya: \"Engkaukah itu, yang mencelakakan Israel?\""
   },
   {Bible:"1Kings", Chapter:18, Verse:18, Page:1,
-    Kor:"엘리야가 대답하였다. \"내가 이스라엘을 괴롭히는 것이 아니라, 임금님과 임금님 아버지의 가문이 괴롭히는 것입니다. 임금님께서는 주님의 계명을 내버리고, 바알을 섬기십니다.",
+    Kor:"엘리야가 대답하였다. \"내가 이스라엘을 괴롭히는 것이 아니라, 임금님과 임금님 아버지의 가문이 괴롭히는 것입니다. 임금님께서는 주의 계명을 내버리고, 바알을 섬기십니다.",
     Chn:"以利亚说：「使以色列遭灾的不是我，乃是你和你父家；因为你们离弃耶和华的诫命，去随从巴力。",
     Eng:"\"I have not made trouble for Israel,\" Elijah replied. \"But you and your father's family have. You have abandoned the LORD'S commands and have followed the Baals.",
     Ind:"Jawab Elia kepadanya: \"Bukan aku yang mencelakakan Israel, melainkan engkau ini dan kaum keluargamu, sebab kamu telah meninggalkan perintah-perintah TUHAN dan engkau ini telah mengikuti para Baal."
@@ -129,19 +129,19 @@ BibleDB.add([
     Ind:"Lalu Elia mendekati seluruh rakyat itu dan berkata: \"Berapa lama lagi kamu berlaku timpang dan bercabang hati? Kalau TUHAN itu Allah, ikutilah Dia, dan kalau Baal, ikutilah dia.\" Tetapi rakyat itu tidak menjawabnya sepatah katapun."
   },
   {Bible:"1Kings", Chapter:18, Verse:22, Page:1,
-    Kor:"그래서 엘리야는 백성들에게 다시 이렇게 말하였다. \"주님의 예언자라고는 나만 홀로 남았습니다. 그런데 바알의 예언자는 사백쉰 명이나 됩니다.",
+    Kor:"그래서 엘리야는 백성들에게 다시 이렇게 말하였다. \"주의 예언자라고는 나만 홀로 남았습니다. 그런데 바알의 예언자는 사백쉰 명이나 됩니다.",
     Chn:"以利亚对众民说：「作耶和华先知的只剩下我一个人；巴力的先知却有四百五十个人。",
     Eng:"Then Elijah said to them, \"I am the only one of the LORD'S prophets left, but Baal has four hundred and fifty prophets.",
     Ind:"Lalu Elia berkata kepada rakyat itu: \"Hanya aku seorang diri yang tinggal sebagai nabi TUHAN, padahal nabi-nabi Baal itu ada empat ratus lima puluh orang banyaknya."
   },
   {Bible:"1Kings", Chapter:18, Verse:23, Page:1,
-    Kor:"이제, 소 두 마리를 우리에게 가져다 주십시오. 바알 예언자들이 소 한 마리를 선택하여 각을 떠서, 나뭇단 위에 올려 놓되, 불을 지피지는 않게 하십시오. 나도 나머지 한 마리의 소를 잡아서, 나뭇단 위에 올려 놓고, 불은 지피지 않겠습니다.",
+    Kor:"이제, 소 두 마리를 우리에게 가져다 주시오. 바알 예언자들이 소 한 마리를 선택하여 각을 떠서, 나뭇단 위에 올려 놓되, 불을 지피지는 않게 하십시오. 나도 나머지 한 마리의 소를 잡아서, 나뭇단 위에 올려 놓고, 불은 지피지 않겠습니다.",
     Chn:"当给我们两只牛犊，巴力的先知可以挑选一只，切成块子，放在柴上，不要点火；我也预备一只牛犊放在柴上，也不点火。",
     Eng:"Get two bulls for us. Let them choose one for themselves, and let them cut it into pieces and put it on the wood but not set fire to it. I will prepare the other bull and put it on the wood but not set fire to it.",
     Ind:"Namun, baiklah diberikan kepada kami dua ekor lembu jantan; biarlah mereka memilih seekor lembu, memotong-motongnya, menaruhnya ke atas kayu api, tetapi mereka tidak boleh menaruh api. Akupun akan mengolah lembu yang seekor lagi, meletakkannya ke atas kayu api dan juga tidak akan menaruh api."
   },
   {Bible:"1Kings", Chapter:18, Verse:24, Page:1,
-    Kor:"그런 다음에, 바알의 예언자들은 바알 신의 이름을 부르십시오. 나는 주님의 이름을 부르겠습니다. 그 때에, 불을 보내셔서 응답하는 신이 있으면, 바로 그분이 하나님이십니다.\" 그러자 모든 백성들은, 그렇게 하는 것이 좋겠다고 대답하였다.",
+    Kor:"그런 다음에, 바알의 예언자들은 바알 신의 이름을 부르십시오. 나는 주의 이름을 부르겠습니다. 그 때에, 불을 보내셔서 응답하는 신이 있으면, 바로 그분이 하나님이십니다.\" 그러자 모든 백성들은, 그렇게 하는 것이 좋겠다고 대답하였다.",
     Chn:"你们求告你们神的名，我也求告耶和华的名。那降火显应的神，就是　神。」众民回答说：「这话甚好。」",
     Eng:"Then you call on the name of your god, and I will call on the name of the LORD. The god who answers by fire--he is God.\" Then all the people said, \"What you say is good.\"",
     Ind:"Kemudian biarlah kamu memanggil nama allahmu dan akupun akan memanggil nama TUHAN. Maka allah yang menjawab dengan api, dialah Allah!\" Seluruh rakyat menyahut, katanya: \"Baiklah demikian!\""
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Mereka mengambil lembu yang diberikan kepada mereka, mengolahnya dan memanggil nama Baal dari pagi sampai tengah hari, katanya: \"Ya Baal, jawablah kami!\" Tetapi tidak ada suara, tidak ada yang menjawab. Sementara itu mereka berjingkat-jingkat di sekeliling mezbah yang dibuat mereka itu."
   },
   {Bible:"1Kings", Chapter:18, Verse:27, Page:1,
-    Kor:"한낮이 되니, 엘리야가 그들을 조롱하면서 말하였다. \"더 큰소리로 불러보시오. 바알은 신이니까, 다른 볼일을 보고 있을지, 아니면 용변을 보고 있을지, 아니면 멀리 여행을 떠났을지, 그것도 아니면 자고 있으므로 깨워야 할지, 모르지 않소!\"",
+    Kor:"한낮이 되니, 엘리야가 그들을 조롱하면서 말하였다. \"더 큰소리로 불러라. 바알은 신이니까, 다른 볼일을 보고 있을지, 아니면 용변을 보고 있을지, 아니면 멀리 여행을 떠났을지, 그것도 아니면 자고 있으므로 깨워야 할지, 모르지 않느냐!\"",
     Chn:"到了正午，以利亚嬉笑他们，说：「大声求告吧！因为他是神，他或默想，或走到一边，或行路，或睡觉，你们当叫醒他。」",
     Eng:"At noon Elijah began to taunt them. \"Shout louder!\" he said. \"Surely he is a god! Perhaps he is deep in thought, or busy, or traveling. Maybe he is sleeping and must be awakened.\"",
     Ind:"Pada waktu tengah hari Elia mulai mengejek mereka, katanya: \"Panggillah lebih keras, bukankah dia allah? Mungkin ia merenung, mungkin ada urusannya, mungkin ia bepergian; barangkali ia tidur, dan belum terjaga.\""
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Sesudah lewat tengah hari, mereka kerasukan sampai waktu mempersembahkan korban petang, tetapi tidak ada suara, tidak ada yang menjawab, tidak ada tanda perhatian."
   },
   {Bible:"1Kings", Chapter:18, Verse:30, Page:1,
-    Kor:"○이 때에 엘리야가 온 백성들에게 가까이 오라고 하였다. 백성들이 가까이 오니, 그는 무너진 주님의 제단을 고쳐 쌓았다.",
+    Kor:"○이 때에 엘리야가 온 백성들에게 가까이 오라고 하였다. 백성들이 가까이 오니, 그는 무너진 주의 제단을 고쳐 쌓았다.",
     Chn:"以利亚对众民说：「你们到我这里来。」众民就到他那里。他便重修已经毁坏耶和华的坛。",
     Eng:"Then Elijah said to all the people, \"Come here to me.\" They came to him, and he repaired the altar of the LORD, which was in ruins.",
     Ind:"Kata Elia kepada seluruh rakyat itu: \"Datanglah dekat kepadaku!\" Maka mendekatlah seluruh rakyat itu kepadanya. Lalu ia memperbaiki mezbah TUHAN yang telah diruntuhkan itu."
   },
   {Bible:"1Kings", Chapter:18, Verse:31, Page:1,
-    Kor:"그리고 엘리야는, 일찍이 주님께서 이스라엘이라고 이름을 고쳐 주신 야곱의 아들들의 지파 수대로, 열두 개의 돌을 모았다.",
+    Kor:"그리고 엘리야는, 일찍이 주께서 이스라엘이라고 이름을 고쳐 주신 야곱의 아들들의 지파 수대로, 열두 개의 돌을 모았다.",
     Chn:"以利亚照雅各子孙支派的数目，取了十二块石头（耶和华的话曾临到雅各说：「你的名要叫以色列」），",
     Eng:"Elijah took twelve stones, one for each of the tribes descended from Jacob, to whom the word of the LORD had come, saying, \"Your name shall be Israel.\"",
     Ind:"Kemudian Elia mengambil dua belas batu, menurut jumlah suku keturunan Yakub. --Kepada Yakub ini telah datang firman TUHAN: \"Engkau akan bernama Israel.\" --"
   },
   {Bible:"1Kings", Chapter:18, Verse:32, Page:1,
-    Kor:"이 돌을 가지고 엘리야는 주님께 예배할 제단을 다시 쌓고, 제단 둘레에는 두 세아 정도의 곡식이 들어갈 수 있는 넓이의 도랑을 팠다.",
+    Kor:"이 돌을 가지고 엘리야는, 주의 이름을 따라서 제단을 쌓고, 제단 둘레에는 두 세아 정도의 곡식이 들어갈 수 있는 넓이의 도랑을 팠다.",
     Chn:"用这些石头为耶和华的名筑一座坛，在坛的四围挖沟，可容谷种二细亚，",
     Eng:"With the stones he built an altar in the name of the LORD, and he dug a trench around it large enough to hold two seahs of seed.",
     Ind:"Ia mendirikan batu-batu itu menjadi mezbah demi nama TUHAN dan membuat suatu parit sekeliling mezbah itu yang dapat memuat dua sukat benih."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"sehingga air mengalir sekeliling mezbah itu; bahkan parit itupun penuh dengan air."
   },
   {Bible:"1Kings", Chapter:18, Verse:36, Page:1,
-    Kor:"○제사를 드릴 때가 되니, 엘리야 예언자가 앞으로 나서서, 이렇게 기도하였다. \"아브라함과 이삭과 이스라엘을 돌보신 주 하나님, 주님께서 이스라엘의 하나님이시고, 나는 주님의 종이며, 내가 오직 주님의 말씀대로만 이 모든 일을 하고 있다는 것을, 오늘 저들이 알게 하여 주십시오.",
+    Kor:"○제사를 드릴 때가 되니, 엘리야 예언자가 앞으로 나서서, 이렇게 기도하였다. \"아브라함과 이삭과 이스라엘을 돌보신 주 하나님, 주님이 이스라엘의 하나님이시고, 나는 주의 종이며, 내가 오직 주의 말씀대로만 이 모든 일을 하고 있다는 것을, 오늘 저들이 알게 하여 주십시오.",
     Chn:"到了献晚祭的时候，先知以利亚近前来，说：「亚伯拉罕、以撒、以色列的　神，耶和华啊，求你今日使人知道你是以色列的　神，也知道我是你的仆人，又是奉你的命行这一切事。",
     Eng:"At the time of sacrifice, the prophet Elijah stepped forward and prayed: \"O LORD, God of Abraham, Isaac and Israel, let it be known today that you are God in Israel and that I am your servant and have done all these things at your command.",
     Ind:"Kemudian pada waktu mempersembahkan korban petang, tampillah nabi Elia dan berkata: \"Ya TUHAN, Allah Abraham, Ishak dan Israel, pada hari ini biarlah diketahui orang, bahwa Engkaulah Allah di tengah-tengah Israel dan bahwa aku ini hamba-Mu dan bahwa atas firman-Mulah aku melakukan segala perkara ini."
@@ -225,13 +225,13 @@ BibleDB.add([
     Ind:"Jawablah aku, ya TUHAN, jawablah aku, supaya bangsa ini mengetahui, bahwa Engkaulah Allah, ya TUHAN, dan Engkaulah yang membuat hati mereka tobat kembali.\""
   },
   {Bible:"1Kings", Chapter:18, Verse:38, Page:1,
-    Kor:"○그러자 주님의 불이 떨어져서, 제물과 나뭇단과 돌들과 흙을 태웠고, 도랑 안에 있는 물을 모두 말려 버렸다.",
+    Kor:"○그러자 주의 불이 떨어져서, 제물과 나뭇단과 돌들과 흙을 태웠고, 도랑 안에 있는 물을 모두 말려 버렸다.",
     Chn:"于是，耶和华降下火来，烧尽燔祭、木柴、石头、尘土，又烧干沟里的水。",
     Eng:"Then the fire of the LORD fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench.",
     Ind:"Lalu turunlah api TUHAN menyambar habis korban bakaran, kayu api, batu dan tanah itu, bahkan air yang dalam parit itu habis dijilatnya."
   },
   {Bible:"1Kings", Chapter:18, Verse:39, Page:1,
-    Kor:"온 백성이 이것을 보고, 땅에 엎드려서 말하였다. \"그가 주 하나님이시다! 그가 주 하나님이시다!\"",
+    Kor:"온 백성이 이것을 보고, 땅에 엎드려서 말하였다. \"그분이 주 하나님이시다! 그분이 주 하나님이시다!\"",
     Chn:"众民看见了，就俯伏在地，说：「耶和华是　神！耶和华是　神！」",
     Eng:"When all the people saw this, they fell prostrate and cried, \"The LORD--he is God! The LORD--he is God!\"",
     Ind:"Ketika seluruh rakyat melihat kejadian itu, sujudlah mereka serta berkata: \"TUHAN, Dialah Allah! TUHAN, Dialah Allah!\""
@@ -243,13 +243,13 @@ BibleDB.add([
     Ind:"Kata Elia kepada mereka: \"Tangkaplah nabi-nabi Baal itu, seorangpun dari mereka tidak boleh luput.\" Setelah ditangkap, Elia membawa mereka ke sungai Kison dan menyembelih mereka di sana."
   },
   {Bible:"1Kings", Chapter:18, Verse:41, Page:1,
-    Kor:"<가뭄이 그침> ○엘리야가 아합에게 말하였다. \"빗소리가 크게 들리니, 이제는 올라가셔서, 음식을 드십시오.\"",
+    Kor:"○엘리야가 아합에게 말하였다. \"빗소리가 크게 들리니, 이제는 돌아가셔서, 음식을 드십시오.\"",
     Chn:"以利亚对亚哈说：「你现在可以上去吃喝，因为有多雨的响声了。」",
     Eng:"And Elijah said to Ahab, \"Go, eat and drink, for there is the sound of a heavy rain.\"",
     Ind:"Kemudian berkatalah Elia kepada Ahab: \"Pergilah, makanlah dan minumlah, sebab bunyi derau hujan sudah kedengaran.\""
   },
   {Bible:"1Kings", Chapter:18, Verse:42, Page:1,
-    Kor:"아합이 올라가서, 음식을 먹었다. 엘리야는 갈멜 산 꼭대기로 올라가서, 땅을 바라보며 몸을 굽히고, 그의 얼굴을 무릎 사이에 넣었다.",
+    Kor:"아합이 돌아가서, 음식을 들었다. 엘리야는 갈멜 산 꼭대기로 올라가서, 땅을 바라보며 몸을 굽히고, 그의 얼굴을 무릎 사이에 넣었다.",
     Chn:"亚哈就上去吃喝。以利亚上了迦密山顶，屈身在地，将脸伏在两膝之中；",
     Eng:"So Ahab went off to eat and drink, but Elijah climbed to the top of Carmel, bent down to the ground and put his face between his knees.",
     Ind:"Lalu Ahab pergi untuk makan dan minum. Tetapi Elia naik ke puncak gunung Karmel, lalu ia membungkuk ke tanah, dengan mukanya di antara kedua lututnya."
@@ -267,13 +267,13 @@ BibleDB.add([
     Ind:"Pada ketujuh kalinya berkatalah bujang itu: \"Wah, awan kecil sebesar telapak tangan timbul dari laut.\" Lalu kata Elia: \"Pergilah, katakan kepada Ahab: Pasang keretamu dan turunlah, jangan sampai engkau terhalang oleh hujan.\""
   },
   {Bible:"1Kings", Chapter:18, Verse:45, Page:1,
-    Kor:"○그러는 동안에 이미 하늘은 짙은 구름으로 캄캄해지고, 바람이 일더니, 곧 큰 비가 퍼붓기 시작하였다. 아합은 곧 병거를 타고 이스르엘로 내려갔다.",
+    Kor:"○그러는 동안에, 이미 하늘은 짙은 구름으로 캄캄해지고, 바람이 일더니, 곧 큰 비가 퍼붓기 시작하였다. 아합은 곧 병거를 타고, 이스르엘로 내려갔다.",
     Chn:"霎时间，天因风云黑暗，降下大雨。亚哈就坐车往耶斯列去了。",
     Eng:"Meanwhile, the sky grew black with clouds, the wind rose, a heavy rain came on and Ahab rode off to Jezreel.",
     Ind:"Maka dalam sekejap mata langit menjadi kelam oleh awan badai, lalu turunlah hujan yang lebat. Ahab naik kereta lalu pergi ke Yizreel."
   },
   {Bible:"1Kings", Chapter:18, Verse:46, Page:1,
-    Kor:"주님의 능력이 엘리야와 함께 하였기 때문에, 엘리야는 허리를 동여 매고, 아합을 앞질러서, 이스르엘 어귀에까지 달려갔다.",
+    Kor:"주의 능력이 엘리야와 함께 하였기 때문에, 엘리야는 허리를 동여 매고, 아합을 앞질러서, 이스르엘 어귀에까지 달려갔다.",
     Chn:"耶和华的灵降在以利亚身上，他就束上腰，奔在亚哈前头，直到耶斯列的城门。",
     Eng:"The power of the LORD came upon Elijah and, tucking his cloak into his belt, he ran ahead of Ahab all the way to Jezreel.",
     Ind:"Tetapi kuasa TUHAN berlaku atas Elia. Ia mengikat pinggangnya dan berlari mendahului Ahab sampai ke jalan yang menuju Yizreel."

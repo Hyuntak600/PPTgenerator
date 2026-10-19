@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",15,34);
 BibleDB.add([
   {Bible:"1Kings", Chapter:15, Verse:1, Page:1,
-    Kor:"<유다 왕 아비야(대하 13:1-14:1)> 느밧의 아들 여로보암 왕 제 십팔년에, a아비야가 유다 왕이 되었다.(a 칠십인역과 몇몇 히브리어 사본을 따름. 히, '아비얌')",
+    Kor:"느밧의 아들 여로보암 왕 제 십팔년에, 아비야가 유다 왕이 되었다.",
     Chn:"尼八的儿子耶罗波安王十八年，亚比央登基作犹大王，",
     Eng:"In the eighteenth year of the reign of Jeroboam son of Nebat, Abijah became king of Judah,",
     Ind:"Dalam tahun kedelapan belas zaman raja Yerobeam bin Nebat menjadi rajalah Abiam atas Yehuda."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Tiga tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Maakha, anak Abisalom."
   },
   {Bible:"1Kings", Chapter:15, Verse:3, Page:1,
-    Kor:"a아비야는 그의 아버지가 지은 죄를 모두 그대로 따라 갔으며, 그의 조상 다윗의 마음과는 달라서, 주 하나님 앞에서 온전하지 못하였다.(a 칠십인역과 몇몇 히브리어 사본을 따름. 히, '아비얌')",
+    Kor:"아비야는 그의 아버지가 지은 죄를 모두 그대로 따라 갔으며, 그의 조상 다윗의 마음과는 달라서, 주 하나님 앞에서 온전하지 못하였다.",
     Chn:"亚比央行他父亲在他以前所行的一切恶，他的心不像他祖大卫的心，诚诚实实地顺服耶和华—他的　神。",
     Eng:"He committed all the sins his father had done before him; his heart was not fully devoted to the LORD his God, as the heart of David his forefather had been.",
     Ind:"Abiam hidup dalam segala dosa yang telah dilakukan ayahnya sebelumnya, dan ia tidak dengan sepenuh hati berpaut kepada TUHAN, Allahnya, seperti Daud, moyangnya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Tetapi oleh karena Daud maka TUHAN, Allahnya, memberikan keturunan kepadanya di Yerusalem dengan mengangkat anaknya menggantikan dia dan dengan membiarkan Yerusalem berdiri,"
   },
   {Bible:"1Kings", Chapter:15, Verse:5, Page:1,
-    Kor:"다윗은 주님께서 보시기에 올바르게 살았고, 헷 사람 우리야의 사건 말고는, 그 생애 동안에 주님의 명령을 어긴 일이 없었다.",
+    Kor:"다윗은 주께서 보시기에 올바르게 살았고, 헷 사람 우리아의 사건 말고는, 그 생애 동안에 주의 명령을 어긴 일이 없었다.",
     Chn:"因为大卫除 了赫人乌利亚那件事，都是行耶和 华眼中看为正的事，一生没有违背 耶和华一切所吩咐的。",
     Eng:"For David had done what was right in the eyes of the LORD and had not failed to keep any of the LORD'S commands all the days of his life--except in the case of Uriah the Hittite.",
     Ind:"karena Daud telah melakukan apa yang benar di mata TUHAN dan tidak menyimpang dari segala yang diperintahkan-Nya kepadanya seumur hidupnya, kecuali dalam perkara Uria, orang Het itu."
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Dan ada perang antara Rehabeam dan Yerobeam, seumur hidupnya."
   },
   {Bible:"1Kings", Chapter:15, Verse:7, Page:1,
-    Kor:"a아비야와 여로보암 사이에도 전쟁이 있었다. a아비야의 나머지 행적과 그가 한 모든 일이, '유다 왕 역대지략'에 모두 기록되어 있다.",
+    Kor:"아비야와 여로보암 사이에도 전쟁이 있었다. 아비야의 나머지 행적과 그가 한 모든 일이, '유다 왕 역대지략'에 모두 기록되어 있다.",
     Chn:"亚 比央其余的事，凡他所行的，都写在犹大列王记上。亚比央常与耶罗波安争战。",
     Eng:"As for the other events of Abijah's reign, and all he did, are they not written in the book of the annals of the kings of Judah? There was war between Abijah and Jeroboam.",
     Ind:"Selebihnya dari riwayat Abiam dan segala yang dilakukannya, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Yehuda? Dan ada perang antara Abiam dan Yerobeam."
   },
   {Bible:"1Kings", Chapter:15, Verse:8, Page:1,
-    Kor:"○a아비야가 죽어서, 그의 조상들과 함께 잠드니, '다윗 성'에 장사지냈고, 그의 아들 아사가 그의 뒤를 이어서 왕이 되었다.(a 칠십인역과 몇몇 히브리어 사본을 따름. 히, '아비얌')",
+    Kor:"○아비야가 죽어서, 그의 조상들과 함께 잠드니, '다윗 성'에 장사지냈고, 그의 아들 아사가 그의 뒤를 이어서 왕이 되었다.",
     Chn:"亚比央与他列祖同睡， 葬在大卫的城里。他儿子亚撒接续他作王。",
     Eng:"And Abijah rested with his fathers and was buried in the City of David. And Asa his son succeeded him as king.",
     Ind:"Kemudian Abiam mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di kota Daud. Maka Asa, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:15, Verse:9, Page:1,
-    Kor:"<유다 왕 아사(대하 15:16-16:6)> ○이스라엘의 여로보암 왕 제 이십년에, 아사가 유다 왕이 되어서,",
+    Kor:"○이스라엘의 여로보암 왕 제 이십년에, 아사가 유다 왕이 되어서,",
     Chn:"以色列王耶罗波安二十年，亚撒登基作犹大王，",
     Eng:"In the twentieth year of Jeroboam king of Israel, Asa became king of Judah,",
     Ind:"Dalam tahun kedua puluh zaman Yerobeam, raja Israel, Asa menjadi raja atas Yehuda."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Empat puluh satu tahun lamanya ia memerintah di Yerusalem. Nama neneknya yang perempuan ialah Maakha, anak Abisalom."
   },
   {Bible:"1Kings", Chapter:15, Verse:11, Page:1,
-    Kor:"아사는 그의 조상 다윗과 같이 주님께서 보시기에 정직하게 행하였다.",
+    Kor:"아사는 그의 조상 다윗과 같이, 주께서 보시기에 정직하게 행하였다.",
     Chn:"亚撒效法他祖大卫行耶和华眼中看为正的事，",
     Eng:"Asa did what was right in the eyes of the LORD, as his father David had done.",
     Ind:"Asa melakukan apa yang benar di mata TUHAN seperti Daud, bapa leluhurnya."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Bahkan ia memecat Maakha, neneknya, dari pangkat ibu suri, karena neneknya itu membuat patung Asyera yang keji. Asa merobohkan patung yang keji itu dan membakarnya di lembah Kidron."
   },
   {Bible:"1Kings", Chapter:15, Verse:14, Page:1,
-    Kor:"그렇다고 해서 산당이 모두 제거된 것은 아니지만, 주님을 사모하는 아사의 마음은 평생 한결같았다.",
+    Kor:"그렇다고 해서 산당이 모두 제거된 것은 아니지만, 주를 사모하는 아사의 마음은 평생 한결같았다.",
     Chn:"只是邱坛还没有废去。亚撒一生却向耶和华存诚实的心。",
     Eng:"Although he did not remove the high places, Asa's heart was fully committed to the LORD all his life.",
     Ind:"Sekalipun bukit-bukit pengorbanan tidak dijauhkan, namun Asa berpaut kepada TUHAN dengan segenap hatinya sepanjang umurnya."
   },
   {Bible:"1Kings", Chapter:15, Verse:15, Page:1,
-    Kor:"그는 자기의 아버지와 자기가 거룩하게 구별해서 바친 은과 금과 그릇들을, 주님의 성전에 들여놓았다.",
+    Kor:"그는 자기의 아버지와 자기가 거룩하게 구별해서 바친 은과 금과 그릇들을, 주의 성전에 들여놓았다.",
     Chn:"亚撒将他父亲所分别为圣与自己所分别为圣的金银和器皿都奉到耶和华的殿里。",
     Eng:"He brought into the temple of the LORD the silver and gold and the articles that he and his father had dedicated.",
     Ind:"Ia membawa persembahan-persembahan kudus ayahnya dan persembahan-persemba kudusnya sendiri ke rumah TUHAN, yakni emas dan perak serta barang-barang lain."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Baesa, raja Israel, maju berperang melawan Yehuda, dan ia memperkuat Rama, dengan maksud mencegah lalu lintas kepada Asa, raja Yehuda."
   },
   {Bible:"1Kings", Chapter:15, Verse:18, Page:1,
-    Kor:"그러자 아사는, 주님의 성전 창고와 왕실 창고에 남아 있는 모든 은과 금을 모아, 그의 신하들의 손에 들려서, 다마스쿠스에 있는 시리아의 헤시온 왕의 아들인 다브림몬의 아들 벤하닷에게 보내면서 말하였다.",
+    Kor:"그러자 아사는, 주의 성전 창고와 왕실 창고에 남아 있는 모든 은과 금을 모아, 그의 신하들의 손에 들려서, 다마스쿠스에 있는 시리아의 헤시온 왕의 아들인 다브림몬의 아들 벤하닷에게 보내면서 말하였다.",
     Chn:"于是亚撒将耶和华殿和王宫府库里所剩下的金银都交在他臣仆手中，打发他们往住大马士革的亚兰王—希旬的孙子、他伯利们的儿子便·哈达那里去，",
     Eng:"Asa then took all the silver and gold that was left in the treasuries of the LORD'S temple and of his own palace. He entrusted it to his officials and sent them to Ben-Hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus.",
     Ind:"Tetapi Asa mengambil segala emas dan perak yang masih tinggal dalam perbendaharaan rumah TUHAN dan dalam perbendaharaan rumah raja dan menyerahkannya kepada pegawainya. Kemudian raja Asa mengutus mereka kepada Benhadad bin Tabrimon bin Hezion, raja Aram yang diam di Damsyik, dengan membawa pesan:"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Kemudian Asa mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud, bapa leluhurnya. Maka Yosafat, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:15, Verse:25, Page:1,
-    Kor:"<이스라엘 왕 나답> ○유다의 아사 왕 제 이년에 여로보암의 아들 나답이 이스라엘 왕이 되어서, 두 해 동안 이스라엘을 다스렸다.",
+    Kor:"○유다의 아사 왕 제 이년에, 여로보암의 아들 나답이 이스라엘 왕이 되어서, 두 해 동안 이스라엘을 다스렸다.",
     Chn:"犹大王亚撒第二年，耶罗波安的儿子拿答登基作以色列王共二年，",
     Eng:"Nadab son of Jeroboam became king of Israel in the second year of Asa king of Judah, and he reigned over Israel two years.",
     Ind:"Nadab, anak Yerobeam, menjadi raja atas Israel dalam tahun kedua zaman Asa, raja Yehuda. Ia memerintah atas Israel dua tahun lamanya."
   },
   {Bible:"1Kings", Chapter:15, Verse:26, Page:1,
-    Kor:"그러나 그는 주님께서 보시기에 악한 일을 하였다. 그도 그의 부친이 걷던 그 악한 길을 그대로 걸었으며, 또 이스라엘에게 죄를 짓게 하는 그 잘못을 그대로 따랐다.",
+    Kor:"그러나 그는 주께서 보시기에 악한 일을 하였다. 그도 그의 부친이 걷던 그 악한 길을 그대로 걸었으며, 또 이스라엘에게 죄를 짓게 하는 그 잘못을 그대로 따랐다.",
     Chn:"拿答行耶和华眼中看为恶的事，行他父亲所行的，犯他父亲使以色列人陷在罪里的那罪。",
     Eng:"He did evil in the eyes of the LORD, walking in the ways of his father and in his sin, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN, serta hidup menurut tingkah laku ayahnya dan menurut dosa ayahnya, yang mengakibatkan orang Israel berdosa pula."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Baesa membunuh dia dalam tahun ketiga zaman Asa, raja Yehuda, dan menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:15, Verse:29, Page:1,
-    Kor:"바아사는 왕이 되자, 여로보암 가문을 쳤는데, 숨 쉬는 사람은 누구든지, 하나도 남기지 않고 모두 전멸시켰다. 주님께서 실로 사람인, 주님의 종 아히야에게 말씀하신 대로 이루어진 것이다.",
+    Kor:"바아사는 왕이 되자, 여로보암 가문을 쳤는데, 숨 쉬는 사람은 누구든지, 하나도 남기지 않고 모두 전멸시켰다. 주께서 실로 사람인, 주의 종 아히야에게 말씀하신 대로 이루어진 것이다.",
     Chn:"巴沙一作王就杀了耶罗波安的全家，凡有气息的没有留下一个，都灭尽了，正应验耶和华借他仆人示罗人亚希雅所说的话。",
     Eng:"As soon as he began to reign, he killed Jeroboam's whole family. He did not leave Jeroboam anyone that breathed, but destroyed them all, according to the word of the LORD given through his servant Ahijah the Shilonite--",
     Ind:"Segera sesudah ia menjadi raja, ia membunuh seluruh keluarga Yerobeam; tidak ada yang bernafas yang ditinggalkannya hidup dari pada Yerobeam, sampai dipunahkannya semuanya, sesuai dengan firman TUHAN yang diucapkan-Nya dengan perantaraan hamba-Nya Ahia, orang Silo itu,"
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Dan ada perang antara Asa dan Baesa, raja Israel, sepanjang umur mereka."
   },
   {Bible:"1Kings", Chapter:15, Verse:33, Page:1,
-    Kor:"<이스라엘 왕 바아사> ○유다의 아사 왕 제 삼년에 아히야의 아들 바아사가 이스라엘의 왕이 되어서, 디르사에서 스물네 해 동안 다스렸다.",
+    Kor:"○유다의 아사 왕 제 삼년에 아히야의 아들 바아사가 이스라엘의 왕이 되어서, 디르사에서 스물네 해 동안 다스렸다.",
     Chn:"犹大王亚撒第三年，亚希雅的儿子巴沙在得撒登基作以色列众人的王共二十四年。",
     Eng:"In the third year of Asa king of Judah, Baasha son of Ahijah became king of all Israel in Tirzah, and he reigned twenty-four years.",
     Ind:"Dalam tahun ketiga zaman Asa, raja Yehuda, Baesa bin Ahia menjadi raja atas seluruh Israel di Tirza. Ia memerintah dua puluh empat tahun lamanya."
   },
   {Bible:"1Kings", Chapter:15, Verse:34, Page:1,
-    Kor:"그는 주님께서 보시기에 악한 일을 하였고, 여로보암이 걸은 길을 그대로 걸었으며, 이스라엘에게 죄를 짓게 하는 그 죄도 그대로 따라 지었다.",
+    Kor:"그는 주께서 보시기에 악한 일을 하였고, 여로보암이 걸은 길을 그대로 걸었으며, 이스라엘에게 죄를 짓게 하는 그 죄도 그대로 따라 지었다.",
     Chn:"他行耶和华眼中看为恶的事，行耶罗波安所行的道，犯他使以色列人陷在罪里的那罪。",
     Eng:"He did evil in the eyes of the LORD, walking in the ways of Jeroboam and in his sin, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN serta hidup menurut tingkah laku Yerobeam dan menurut dosanya yang mengakibatkan orang Israel berdosa pula."

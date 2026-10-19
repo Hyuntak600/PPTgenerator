@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",29,24);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:29, Verse:1, Page:1,
-    Kor:"<예루살렘의 운명> 너에게 재앙이 닥칠 것이다. a아리엘아, 아리엘아, 다윗이 진을 쳤던 성읍아, \"해마다 절기들은 돌아오련만,",
+    Kor:"너에게 재앙이 닥칠 것이다. 아리엘아, 아리엘아, 다윗이 진을 쳤던 성읍아, \"해마다 절기들은 돌아오련만,",
     Chn:"唉！亚利伊勒，亚利伊勒， 大卫安营的城， 任凭你年上加年， 节期照常周流。",
     Eng:"Woe to you, Ariel, Ariel, the city where David settled! Add year to year and let your cycle of festivals go on.",
     Ind:"Celakalah Ariel, Ariel, kota tempat Daud berkemah! Biarlah tahun demi tahun perayaan-perayaan silih berganti!"
   },
   {Bible:"Isaiah", Chapter:29, Verse:2, Page:1,
-    Kor:"내가 너 a아리엘을 포위하고 치겠다. b'나의 번제단'이라고 불리던 너를 칠 터이니, 네가 슬퍼하고 통곡할 것이다. (a '하나님의 암사자', 예루살렘을 가리킴 b 히, '아리엘(번제단)'. '하나님의 암사자'와 '번제단'이 히브리어로 발음이 같음)",
+    Kor:"내가 너 아리엘을 포위하고 치겠다. '나의 번제단'이라고 불리던 너를 칠 터이니, 네가 슬퍼하고 통곡할 것이다.",
     Chn:"我终必使亚利伊勒困难； 她必悲伤哀号， 我却仍以她为亚利伊勒。",
     Eng:"Yet I will besiege Ariel; she will mourn and lament, she will be to me like an altar hearth.",
     Ind:"Aku akan menyesakkan Ariel, sehingga orang mengerang dan mengaduh, dan kota itu akan seperti perapian bagi-Ku."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Akan tetapi segala pasukan lawanmu akan hilang lenyap seperti abu halus, dan semua orang yang gagah sombong akan menjadi seperti sekam yang melintas terbang. Sebab dengan tiba-tiba, dalam sekejap mata,"
   },
   {Bible:"Isaiah", Chapter:29, Verse:6, Page:1,
-    Kor:"만군의 주님께서 너를 찾아오시되, 우레와 지진과 큰 소리를 일으키시며, 회오리바람과 폭풍과 태워 버리는 불길로 찾아오실 것이다.",
+    Kor:"만군의 주께서 너를 찾아오시되, 천둥과 지진과 큰소리를 내시며, 회오리바람과 폭풍과 태워 버리는 불길로 찾아오실 것이다.",
     Chn:"万军之耶和华必用雷轰、地震、大声、旋风、暴风， 并吞灭的火焰，向她讨罪。",
     Eng:"the LORD Almighty will come with thunder and earthquake and great noise, with windstorm and tempest and flames of a devouring fire.",
     Ind:"engkau akan melihat kedatangan TUHAN semesta alam dalam guntur, gempa dan suara hebat, dalam puting beliung dan badai dan dalam nyala api yang memakan habis."
   },
   {Bible:"Isaiah", Chapter:29, Verse:7, Page:1,
-    Kor:"a아리엘을 치는 모든 나라의 무리와 그의 요새들을 공격하여 그를 괴롭히는 자들 모두가, 마치 꿈을 꾸는 것처럼, 밤의 환상을 보는 것처럼, 헛수고를 할 것이다. (a '하나님의 암사자', 예루살렘을 가리킴)",
+    Kor:"아리엘을 치는 모든 나라의 무리와 그의 요새들을 공격하여 그를 괴롭히는 자들 모두가, 마치 꿈을 꾸는 것처럼, 밤의 환상을 보는 것처럼, 헛수고를 할 것이다.",
     Chn:"那时，攻击亚利伊勒列国的群众， 就是一切攻击亚利伊勒和她的保障， 并使她困难的， 必如梦景，如夜间的异象；",
     Eng:"Then the hordes of all the nations that fight against Ariel, that attack her and her fortress and besiege her, will be as it is with a dream, with a vision in the night--",
     Ind:"Maka segala pasukan bangsa-bangsa yang berperang melawan Ariel, dan semua orang yang memerangi dia dan kubu pertahanannya dan orang-orang yang menyesakkan dia akan seperti mimpi dan seperti penglihatan malam-malam:"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"seumpama seorang yang lapar bermimpi ia sedang makan, pada waktu terjaga, perutnya masih kosong, atau seumpama seorang yang haus bermimpi ia sedang minum, pada waktu terjaga, sesungguhnya ia masih lelah, kerongkongannya masih dahaga, demikianlah halnya dengan segala pasukan bangsa-bangsa yang berperang melawan gunung Sion."
   },
   {Bible:"Isaiah", Chapter:29, Verse:9, Page:1,
-    Kor:"<무시된 경고> 너희는 놀라서, 기절할 것이다. 너희는 눈이 멀어서, 앞을 못 보는 사람이 될 것이다. 포도주 한 모금도 마시지 않았는데, 취할 것이다. 독한 술 한 방울도 마시지 않았는데, 비틀거릴 것이다.",
+    Kor:"너희는 놀라서, 기절할 것이다. 너희는 눈이 멀어서, 앞을 못 보는 사람이 될 것이다. 포도주 한 모금도 마시지 않았는데, 취할 것이다. 독한 술 한 방울도 마시지 않았는데, 비틀거릴 것이다.",
     Chn:"你们等候惊奇吧！ 你们宴乐昏迷吧！ 他们醉了，却非因酒； 他们东倒西歪，却非因浓酒。",
     Eng:"Be stunned and amazed, blind yourselves and be sightless; be drunk, but not from wine, stagger, but not from beer.",
     Ind:"Tercengang-cenganglah, penuh keheranan, biarlah matamu tertutup, buta semata-mata! Jadilah mabuk, tetapi bukan karena anggur, jadilah pusing, tetapi bukan karena arak!"
   },
   {Bible:"Isaiah", Chapter:29, Verse:10, Page:1,
-    Kor:"주님께서는 너희에게 잠드는 영을 보내셔서, 너희를 깊은 잠에 빠지게 하셨다. 너희의 예언자로 너희의 눈 구실을 못하게 하셨으니, 너희의 눈을 멀게 하신 것이요, 너희의 선견자로 앞을 내다보지 못하게 하셨으니, 너희의 얼굴을 가려서 눈을 못 보게 하신 것이다.",
+    Kor:"주께서는 너희에게 잠드는 영을 보내셔서, 너희를 깊은 잠에 빠지게 하셨다. 너희의 예언자로 너희의 눈 구실을 못하게 하셨으니, 너희의 눈을 멀게 하신 것이요, 너희의 선견자로 앞을 내다보지 못하게 하셨으니, 너희의 얼굴을 가려서 눈을 못 보게 하신 것이다.",
     Chn:"因为耶和华将沉睡的灵浇灌你们， 封闭你们的眼， 蒙盖你们的头。 你们的眼就是先知； 你们的头就是先见。",
     Eng:"The LORD has brought over you a deep sleep: He has sealed your eyes (the prophets); he has covered your heads (the seers).",
     Ind:"Sebab TUHAN telah membuat kamu tidur nyenyak; matamu--yakni para nabi--telah dipejamkan-Nya dan mukamu--yaitu para pelihat--telah ditudungi-Nya."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"dan apabila kitab itu diberikan kepada seorang yang tidak dapat membaca dengan mengatakan: \"Baiklah baca ini,\" maka ia akan menjawab: \"Aku tidak dapat membaca.\""
   },
   {Bible:"Isaiah", Chapter:29, Verse:13, Page:1,
-    Kor:"주님께서 말씀하신다. \"이 백성이 입으로는 나를 가까이하고, 입술로는 나를 영화롭게 하지만, 그 마음으로는 나를 멀리하고 있다. 그들이 나를 경외한다는 말은, 다만, 들은 말을 흉내내는 것일 뿐이다.",
+    Kor:"주께서 말씀하신다. \"이 백성이 입으로는 나를 가까이하고, 입술로는 나를 영화롭게 하지만, 그 마음으로는 나를 멀리하고 있다. 그들이 나를 경외한다는 말은, 다만, 들은 말을 흉내내는 것일 뿐이다.",
     Chn:"主说：因为这百姓亲近我， 用嘴唇尊敬我， 心却远离我； 他们敬畏我， 不过是领受人的吩咐。",
     Eng:"The Lord says: \"These people come near to me with their mouth and honor me with their lips, but their hearts are far from me. Their worship of me is made up only of rules taught by men.",
     Ind:"Dan Tuhan telah berfirman: \"Oleh karena bangsa ini datang mendekat dengan mulutnya dan memuliakan Aku dengan bibirnya, padahal hatinya menjauh dari pada-Ku, dan ibadahnya kepada-Ku hanyalah perintah manusia yang dihafalkan,"
   },
   {Bible:"Isaiah", Chapter:29, Verse:14, Page:1,
-    Kor:"그러므로 내가 다시 한 번 놀랍고 기이한 일로 이 백성을 놀라게 할 것이다.\" 지혜로운 사람들에게서 지혜가 없어지고, 총명한 사람들에게서 총명이 사라질 것이다.",
+    Kor:"그러므로, 내가 다시 한 번 놀랍고 기이한 일로 이 백성을 놀라게 할 것이다.\" 지혜로운 사람들에게서 지혜가 없어지고, 그 총명한 사람들에게서 총명이 사라질 것이다.",
     Chn:"所以，我在这百姓中要行奇妙的事， 就是奇妙又奇妙的事。 他们智慧人的智慧必然消灭， 聪明人的聪明必然隐藏。",
     Eng:"Therefore once more I will astound these people with wonder upon wonder; the wisdom of the wise will perish, the intelligence of the intelligent will vanish.\"",
     Ind:"maka sebab itu, sesungguhnya, Aku akan melakukan pula hal-hal yang ajaib kepada bangsa ini, keajaiban yang menakjubkan; hikmat orang-orangnya yang berhikmat akan hilang, dan kearifan orang-orangnya yang arif akan bersembunyi.\""
   },
   {Bible:"Isaiah", Chapter:29, Verse:15, Page:1,
-    Kor:"<장래에 대한 희망> 주님 몰래 음모를 깊이 숨기려는 자들에게 재앙이 닥칠 것이다. 그들은 어두운 곳에서 남 몰래 음모를 꾸미는 자들이다. \"누가 우리를 보랴! 누가 우리를 알랴!\" 한다.",
+    Kor:"주님 몰래 음모를 깊이 숨기려는 자들에게 재앙이 닥칠 것이다. 그들은 어두운 곳에서 남 몰래 음모를 꾸미는 자들이다. \"누가 우리를 보랴! 누가 우리를 알랴!\" 한다.",
     Chn:"祸哉！那些向耶和华深藏谋略的， 又在暗中行事，说： 谁看见我们呢？ 谁知道我们呢？",
     Eng:"Woe to those who go to great depths to hide their plans from the LORD, who do their work in darkness and think, \"Who sees us? Who will know?\"",
     Ind:"Celakalah orang yang menyembunyikan dalam-dalam rancangannya terhadap TUHAN, yang pekerjaan-pekerjaannya terjadi dalam gelap sambil berkata: \"Siapakah yang melihat kita dan siapakah yang mengenal kita?\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Pada waktu itu orang-orang tuli akan mendengar perkataan-perkataan sebuah kitab, dan lepas dari kekelaman dan kegelapan mata orang-orang buta akan melihat."
   },
   {Bible:"Isaiah", Chapter:29, Verse:19, Page:1,
-    Kor:"천한 사람들이 주님 안에서 더없이 기뻐하며 사람들 가운데 가난한 사람들이 이스라엘의 거룩하신 분 안에서 즐거워할 것이다.",
+    Kor:"천한 사람들이 주 안에서 더없이 기뻐하며 사람들 가운데 가난한 사람들이 이스라엘의 거룩하신 분 안에서 즐거워할 것이다.",
     Chn:"谦卑人必因耶和华增添欢喜； 人间贫穷的必因以色列的圣者快乐。",
     Eng:"Once more the humble will rejoice in the LORD; the needy will rejoice in the Holy One of Israel.",
     Ind:"Orang-orang yang sengsara akan tambah bersukaria di dalam TUHAN, dan orang-orang miskin di antara manusia akan bersorak-sorak di dalam Yang Mahakudus, Allah Israel!"
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"yaitu mereka yang begitu saja menyatakan seseorang berdosa di dalam suatu perkara, dan yang memasang jerat terhadap orang yang menegor mereka di pintu gerbang, dan yang mendesak orang benar dengan alasan yang tidak-tidak."
   },
   {Bible:"Isaiah", Chapter:29, Verse:22, Page:1,
-    Kor:"그러므로 아브라함을 구속하신 주님께서, 곧 야곱 족속의 주 하나님께서 이렇게 말씀하신다. \"이제 야곱이 다시는 부끄러움을 당하지 않을 것이고, 이제 그의 얼굴이 다시는 수모 때문에 창백해지지는 않을 것이다.",
+    Kor:"그러므로 아브라함을 구속하신 주, 곧 야곱 족속의 주 하나님께서 이렇게 말씀하신다. \"이제 야곱은 더 이상 부끄러움을 당하지 않을 것이고, 이제 그의 얼굴은 더 이상 수모 때문에 창백해지지는 않을 것이다.",
     Chn:"所以，救赎亚伯拉罕的耶和华 论雅各家如此说： 雅各必不再羞愧， 面容也不致变色。",
     Eng:"Therefore this is what the LORD, who redeemed Abraham, says to the house of Jacob: \"No longer will Jacob be ashamed; no longer will their faces grow pale.",
     Ind:"Sebab itu beginilah firman TUHAN, Allah kaum keturunan Yakub, Dia yang telah membebaskan Abraham: \"Mulai sekarang Yakub tidak lagi mendapat malu, dan mukanya tidak lagi pucat."
   },
   {Bible:"Isaiah", Chapter:29, Verse:23, Page:1,
-    Kor:"야곱이 자기의 자손 곧 그들 가운데서 내가 친히 만들어 준 그 자손을 볼 때, 그들은 내 이름을 거룩하게 할 것이다.\" '야곱의 거룩한 분'을 거룩하게 받들며, 이스라엘의 하나님을 경외할 것이다.",
+    Kor:"참으로 그들이 그의 자손, 곧 그들 가운데서 내가 한 일을 보고, 나의 이름을 거룩하게 여길 것이다.\" 야곱의 거룩한 분을 거룩하게 받들며, 이스라엘의 하나님을 경외하여 섬길 것이다.",
     Chn:"但他看见他的众子， 就是我手的工作在他那里， 他们必尊我的名为圣， 必尊雅各的圣者为圣， 必敬畏以色列的　神。",
     Eng:"When they see among them their children, the work of my hands, they will keep my name holy; they will acknowledge the holiness of the Holy One of Jacob, and will stand in awe of the God of Israel.",
     Ind:"Sebab pada waktu mereka, keturunan Yakub itu, melihat apa yang dibuat tangan-Ku di tengah-tengahnya, mereka akan menguduskan nama-Ku; mereka akan menguduskan Yang Kudus, Allah Yakub, dan mereka akan gentar kepada Allah Israel;"

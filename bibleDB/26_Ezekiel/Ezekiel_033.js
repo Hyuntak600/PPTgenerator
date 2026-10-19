@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",33,33);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:33, Verse:1, Page:1,
-    Kor:"<하나님이 에스겔을 파수꾼으로 세우시다(겔 3:16-21)> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:33, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 네 민족의 자손 모두에게 전하여라. 너는 그들에게 말하여라. 만일 내가 어떤 나라에 전쟁이 이르게 할 때에, 그 나라 백성이 자기들 가운데서 한 사람을 뽑아서, 파수꾼으로 세웠다고 하자.",
+    Kor:"\"사람아, 너는 네 민족의 자손 모두에게 전하여라. 너는 그들에게 말하여라. 만일 내가 어떤 나라에 전쟁이 이르게 할 때에, 그 나라 백성이 자기들 가운데서 한 사람을 뽑아서, 파수꾼으로 세웠다고 하자.",
     Chn:"「人子啊，你要告诉本国的子民说：我使刀剑临到哪一国，那一国的民从他们中间选立一人为守望的。",
     Eng:"\"Son of man, speak to your countrymen and say to them: 'When I bring the sword against a land, and the people of the land choose one of their men and make him their watchman,",
     Ind:"\"Hai anak manusia, berbicaralah kepada teman-temanmu sebangsa dan katakanlah kepada mereka: Kalau Aku mendatangkan pedang atas sesuatu negeri dan bangsa negeri itu mengambil seorang dari antara mereka dan menetapkan dia menjadi penjaganya"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Tetapi jikalau engkau memperingatkan orang jahat itu supaya ia bertobat dari hidupnya, tetapi ia tidak mau bertobat, ia akan mati dalam kesalahannya, tetapi engkau telah menyelamatkan nyawamu."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:10, Page:1,
-    Kor:"<개인의 책임> ○\"그러므로 너 사람아, 너는 이스라엘 족속에게 전하여라. 그들이 말하기를 '우리의 온갖 허물과 우리의 모든 죄악이 우리를 짓눌러서, 우리가 그 속에서 기진하여 죽어 가고 있는데, 어떻게 우리가 살 수 있겠는가?' 하였다.",
+    Kor:"○\"그러므로 너 사람아, 너는 이스라엘 족속에게 전하여라. 그들이 말하기를 '우리의 온갖 허물과 우리의 모든 죄악이 우리를 짓눌러서, 우리가 그 속에서 기진하여 죽어 가고 있는데, 어떻게 우리가 살 수 있겠는가?' 하였다.",
     Chn:"「人子啊，你要对以色列家说：『你们常说：我们的过犯罪恶在我们身上，我们必因此消灭，怎能存活呢？』",
     Eng:"\"Son of man, say to the house of Israel, 'This is what you are saying: \"Our offenses ane sins weigh us down, and we are wasting away because of them. How then can we live?\"'",
     Ind:"Dan engkau anak manusia, katakanlah kepada kaum Israel: Kamu berkata begini: Pelanggaran kami dan dosa kami sudah tertanggung atas kami dan karena itu kami hancur; bagaimanakah kami dapat tetap hidup?"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Semua dosa yang diperbuatnya tidak akan diingat-ingat lagi; ia sudah melakukan keadilan dan kebenaran, maka ia pasti hidup."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:17, Page:1,
-    Kor:"○그런데도 네 민족 모두가 '주님께서는 하시는 일이 공평하지 못하다!' 하고 말한다. 그러나 공평하지 못한 것은 오히려 너희가 하는 일이다.",
+    Kor:"○그런데도 네 민족 모두가 '주께서는 하시는 일이 공평하지 못하다!' 하고 말한다. 그러나 공평하지 못한 것은 오히려 너희가 하는 일이다.",
     Chn:"「你本国的子民还说：『主的道不公平。』其实他们的道不公平。",
     Eng:"\"Yet your countrymen say, 'The way of the Lord is not just.' But it is their way that is not just.",
     Ind:"Tetapi teman-temanmu sebangsa berkata: Tindakan Tuhan tidak tepat! Padahal tindakan mereka yang tidak tepat."
@@ -117,37 +117,37 @@ BibleDB.add([
     Ind:"Sebaliknya, kalau orang fasik bertobat dari kefasikannya dan ia melakukan keadilan dan kebenaran, ia pasti hidup karena itu."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:20, Page:1,
-    Kor:"그런데도 너희는 '주님께서 하시는 일이 공평하지 못하다' 하고 말한다. 이스라엘 족속아, 나는 너희 각 사람이 한 일에 따라서 너희를 심판하겠다.\"",
+    Kor:"그런데도 너희는 '주께서 하시는 일이 공평하지 못하다' 하고 말한다. 이스라엘 족속아, 나는 너희 각 사람이 한 일에 따라서 너희를 심판하겠다.\"",
     Chn:"你们还说：『主的道不公平。』以色列家啊，我必按你们各人所行的审判你们。」",
     Eng:"Yet, O house of Israel, you say, 'The way of the Lord is not just.' But I will judge each of you according to his own ways.\"",
     Ind:"Tetapi kamu berkata: Tindakan Tuhan tidak tepat! Aku akan menghakimi kamu, masing-masing menurut kelakuannya, hai kaum Israel.\""
   },
   {Bible:"Ezekiel", Chapter:33, Verse:21, Page:1,
-    Kor:"<예루살렘의 함락 소식> ○우리가 포로로 잡혀 온 지 십이년째가 되는 해의 열째 달 오일에, 예루살렘에서 도망하여 온 사람이 내게로 와서, 그 성읍이 함락되었다고 말하였다.",
+    Kor:"○우리가 포로로 잡혀 온 지 십이년째가 되는 해의 열째 달 오일에, 예루살렘에서 도망하여 온 사람이 내게로 와서, 그 성읍이 함락되었다고 말하였다.",
     Chn:"我们被掳之后十二年十月初五日，有人从耶路撒冷逃到我这里，说：「城已攻破。」",
     Eng:"In the twelfth year of our exile, in the tenth month on the fifth day, a man who had escaped from Jerusalem came to me and said, \"The city has fallen!\"",
     Ind:"Pada tahun kesebelas sesudah pembuangan kami, dalam bulan yang kesepuluh, pada tanggal lima bulan itu, datanglah kepadaku seorang yang terluput dari Yerusalem dan berkata: \"Kota itu sudah ditaklukkan!\""
   },
   {Bible:"Ezekiel", Chapter:33, Verse:22, Page:1,
-    Kor:"도망하여 온 그 사람이 오기 전날 저녁에, 주님의 권능이 나를 사로잡아서, 나의 입을 열어 주셨다. 그 사람이 아침에 나에게로 올 즈음에는 내 입이 열려 있었으므로, 나는 이제 말을 못하는 사람이 아니다.",
+    Kor:"도망하여 온 그 사람이 오기 전날 저녁에, 주의 권능이 나를 사로잡아서, 나의 입을 열어 주셨다. 그 사람이 아침에 나에게로 올 즈음에는 내 입이 열려 있었으므로, 나는 더 이상 말을 못하는 사람이 아니었다.",
     Chn:"逃来的人未到前一日的晚上，耶和华的灵降在我身上，开我的口。到第二日早晨，那人来到我这里，我口就开了，不再缄默。",
     Eng:"Now the evening before the man arrived, the hand of the LORD was upon me, and he opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.",
     Ind:"Maka kekuasaan TUHAN meliputi aku pada malam sebelum kedatangan orang yang terluput itu dan TUHAN membuka mulutku pada saat menjelang kedatangan orang yang terluput itu pada pagi hari. Mulutku sudah terbuka dan aku tidak bisu lagi."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:23, Page:1,
-    Kor:"<백성의 죄> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:33, Verse:24, Page:1,
-    Kor:"○\"사람아, 이스라엘 땅의 저 폐허 더미에 사는 사람들이 이런 말을 하고 있다. '아브라함은 한 개인인데도 이 땅을 차지하였는데, 하물며 수가 많은 우리들이야 더 말해 무엇하겠느냐?' 한다. 또 하나님께서 이 땅을 자기들의 소유로 주었다고 말한다.",
+    Kor:"\"사람아, 이스라엘 땅의 저 폐허 더미에 사는 사람들이 이런 말을 하고 있다. '아브라함은 한 개인인데도 이 땅을 차지하였는데, 하물며 수가 많은 우리들이야 더 말해 무엇하겠느냐?' 한다. 또 하나님께서 이 땅을 자기들의 소유로 주었다고 말한다.",
     Chn:"「人子啊，住在以色列荒废之地的人说：『亚伯拉罕独自一人能得这地为业，我们人数众多，这地更是给我们为业的。』",
     Eng:"\"Son of man, the people living in those ruins in the land of Israel are saying, 'Abraham was only one man, yet he possessed the land. But we are many; surely the land has been given to us as our possession.'",
     Ind:"\"Hai anak manusia, orang-orang yang tinggal pada reruntuhan-reruntuhan ini, yaitu yang di tanah Israel, berkata begini: Abraham adalah seorang diri, tatkala ia mendapat tanah ini menjadi miliknya, tetapi kita banyak, tentu tanah ini diberikan kepada kita menjadi milik."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:25, Page:1,
-    Kor:"○그러므로 너는 그들에게 전하여라. ○'나 주 하나님이 말한다. 너희는 피를 빼지 않은 고기를 먹고, 온갖 우상에게 눈을 팔고, 사람들이 피를 흘리게 하였다. 그러면서도 너희가 그 땅을 차지하려고 하느냐?",
+    Kor:"○그러므로 너는 그들에게 전하여라. '나 주 하나님이 말한다. 너희는 피를 빼지 않은 고기를 먹고, 온갖 우상에게 눈을 팔고, 사람들이 피를 흘리게 하였다. 그러면서도 너희가 그 땅을 차지하려고 하느냐?",
     Chn:"所以你要对他们说，主耶和华如此说：你们吃带血的物，仰望偶像，并且杀人流血，你们还能得这地为业吗？",
     Eng:"Therefore say to them, 'This is what the Sovereign LORD says: Since you eat meat with the blood still in it and look to your idols and shed blood, should you then possess the land?",
     Ind:"Oleh karena itu katakanlah kepada mereka: Beginilah firman Tuhan ALLAH: Kamu makan daging dengan darahnya, kamu melihat juga kepada berhala-berhalamu dan kamu menumpahkan darah--apakah kamu akan tetap memiliki tanah ini?"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Kamu bersandar pada pedangmu, kamu melakukan kekejian dan masing-masing mencemari isteri sesamanya--apakah kamu akan tetap memiliki tanah ini?"
   },
   {Bible:"Ezekiel", Chapter:33, Verse:27, Page:1,
-    Kor:"○너는 그들에게 또 전하여라. ○'나 주 하나님이 말한다. 내가 나의 삶을 두고 맹세한다. 폐허 더미 속에 있는 사람들은 칼에 쓰러질 것이요, 들판에 있는 사람들은, 내가 들짐승들에게 잡혀 먹도록 하겠으며, 산성과 동굴에 있는 사람들은 전염병에 걸려서 죽게 하겠다.",
+    Kor:"○너는 그들에게 또 전하여라. '나 주 하나님이 말한다. 내가 나의 삶을 두고 맹세한다. 폐허 더미 속에 있는 사람들은 칼에 쓰러질 것이요, 들판에 있는 사람들은, 내가 들짐승들에게 잡혀 먹도록 하겠으며, 산성과 동굴에 있는 사람들은 전염병에 걸려서 죽게 하겠다.",
     Chn:"你要对他们这样说，主耶和华如此说：我指着我的永生起誓，在荒场中的，必倒在刀下；在田野间的，必交给野兽吞吃；在保障和洞里的，必遭瘟疫而死。",
     Eng:"\"Say this to them: 'This is what the Sovereign LORD says: As surely as I live, those who are left in the ruins will fall by the sword, those out in the country I will give to the wild animals to be devoured, and those in strongholds and caves will die of a plague.",
     Ind:"Katakanlah begini kepada mereka: Beginilah firman Tuhan ALLAH. Demi Aku yang hidup, orang-orang yang tinggal pada reruntuhan-reruntuhan akan mati rebah oleh pedang, dan orang-orang yang di padang akan Kuberikan kepada binatang liar menjadi makanannya dan orang-orang yang di dalam kubu dan gua akan mati kena sampar."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Dan mereka akan mengetahui bahwa Akulah TUHAN, pada saat Aku membuat tanah ini musnah dan sunyi sepi, oleh karena semua perbuatan-perbuatan mereka yang keji, yang mereka lakukan."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:30, Page:1,
-    Kor:"<예언자의 말> ○\"너 사람아, 네 민족의 자손 모두가 담 밑이나 집 문간에서 네 이야기를 하며, 자기들끼리 서로 말하기를 '어서 가서, 주님께서 그에게 무슨 말씀을 하셨는지 들어나 보자' 하면서,",
+    Kor:"○\"너 사람아, 네 민족의 자손 모두가 담 밑이나 집 문간에서 네 이야기를 하며, 자기들끼리 서로 말하기를 '어서 가서, 주께서 그에게 무슨 말씀을 하셨는지 들어나 보자' 하면서,",
     Chn:"「人子啊，你本国的子民在墙垣旁边、在房屋门口谈论你。弟兄对弟兄彼此说：『来吧！听听有什么话从耶和华而出。』",
     Eng:"\"As for you, son of man, your countrymen are talking together about you by the walls and at the doors of the houses, saying to each other, 'Come and hear the message that has come from the LORD.'",
     Ind:"Dan engkau anak manusia, teman-temanmu sebangsa bercakap-cakap mengenai engkau dekat tembok-tembok dan di pintu rumah-rumah dan berkata satu sama lain, masing-masing kepada temannya. Silakan datang dan dengar, apa yang difirmankan oleh TUHAN!"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Dan mereka datang kepadamu seperti rakyat berkerumun dan duduk di hadapanmu sebagai umat-Ku, mereka mendengar apa yang kauucapkan, tetapi mereka tidak melakukannya; mulutnya penuh dengan kata-kata cinta kasih, tetapi hati mereka mengejar keuntungan yang haram."
   },
   {Bible:"Ezekiel", Chapter:33, Verse:32, Page:1,
-    Kor:"그들은 너를, 악기를 잘 다루고 듣기 좋은 목소리로 a사랑의 노래나 부르는 가수쯤으로 생각한다. 그래서 그들은, 네가 하는 말을 듣기만 할 뿐, 그 말에 복종하지는 않는다.(a 히, '사랑의 노래쯤으로')",
+    Kor:"그들은 너를, 악기를 잘 다루고 듣기 좋은 목소리로 사랑의 노래나 부르는 가수쯤으로 생각한다. 그래서 그들은, 네가 하는 말을 듣기만 할 뿐, 그 말에 복종하지는 않는다.",
     Chn:"他们看你如善于奏乐、声音幽雅之人所唱的雅歌，他们听你的话却不去行。",
     Eng:"Indeed, to them you are nothing more than one who sings love songs with a beautiful voice and plays an instrument well, for they hear your words but do not put them into practice.",
     Ind:"Sungguh, engkau bagi mereka seperti seorang yang melagukan syair cinta kasih dengan suara yang merdu, dan yang pandai main kecapi; mereka mendengar apa yang kauucapkan, tetapi mereka sama sekali tidak melakukannya."

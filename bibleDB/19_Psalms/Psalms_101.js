@@ -3,31 +3,31 @@
 BibleDB.ref("Psalms",101,8);
 BibleDB.add([
   {Bible:"Psalms", Chapter:101, Verse:1, Page:1,
-    Kor:"<다윗의 노래> 주님, 주님의 사랑과 정의를 노래하렵니다. 주님께 노래로 찬양드리렵니다.",
+    Kor:"주님, 사랑과 정의를 노래하렵니다. 주님께 노래로 찬양드리렵니다.",
     Chn:"大卫的诗。 我要歌唱慈爱和公平； 耶和华啊，我要向你歌颂！",
     Eng:"I will sing of your love and justice; to you, O LORD, I will sing praise.",
     Ind:"Mazmur Daud. Aku hendak menyanyikan kasih setia dan hukum, aku hendak bermazmur bagi-Mu, ya TUHAN."
   },
   {Bible:"Psalms", Chapter:101, Verse:2, Page:1,
-    Kor:"흠 없는 길을 배워 깨달으렵니다. 언제 나에게로 오시렵니까? 나는 내 집에서 흠이 없는 마음으로 살렵니다.",
+    Kor:"흠 없는 길을 배워 깨달으렵니다. 언제 나에게로 오시렵니까? 나는 궁전에서 흠이 없는 마음으로 살렵니다.",
     Chn:"我要用智慧行完全的道。 你几时到我这里来呢？ 我要存完全的心行在我家中。",
     Eng:"I will be careful to lead a blameless life--when will you come to me? I will walk in my house with blameless heart.",
     Ind:"Aku hendak memperhatikan hidup yang tidak bercela: Bilakah Engkau datang kepadaku? Aku hendak hidup dalam ketulusan hatiku di dalam rumahku."
   },
   {Bible:"Psalms", Chapter:101, Verse:3, Page:1,
-    Kor:"불의한 일은 눈 앞에 얼씬도 못하게 하렵니다. 거스르는 행위를 미워하고, 그런 일에는 집착하지 않겠습니다.",
+    Kor:"악한 것은 눈 앞에 얼씬도 못하게 하렵니다. 거스르는 행위를 미워하고, 그런 자와는 손도 잡지 않고,",
     Chn:"邪僻的事，我都不摆在我眼前； 悖逆人所做的事，我甚恨恶， 不容沾在我身上。",
     Eng:"I will set before my eyes no vile thing. The deeds of faithless men I hate; they will not cling to me.",
     Ind:"Tiada kutaruh di depan mataku perkara dursila; perbuatan murtad aku benci, itu takkan melekat padaku."
   },
   {Bible:"Psalms", Chapter:101, Verse:4, Page:1,
-    Kor:"구부러진 생각을 멀리하고, 악한 일에는 함께 하지 않겠습니다.",
+    Kor:"구부러진 생각을 멀리하고, 악한 일은 용납하지 않겠습니다.",
     Chn:"弯曲的心思，我必远离； 一切的恶人，我不认识。",
     Eng:"Men of perverse heart shall be far from me; I will have nothing to do with evil.",
     Ind:"Hati yang bengkok akan menjauh dari padaku, kejahatan aku tidak mau tahu."
   },
   {Bible:"Psalms", Chapter:101, Verse:5, Page:1,
-    Kor:"숨어서 이웃을 헐뜯는 자는, a침묵하게 만들고, 눈이 높고 마음이 오만한 자는, 그대로 두지 않으렵니다. (a 또는 '내가 멸하여 버리고' 또는 '내가 없애 버리고')",
+    Kor:"숨어서 이웃을 헐뜯는 자는, 더 이상 말하지 못하게 하고, 눈이 높고 마음이 오만한 자는, 그대로 두지 않으렵니다.",
     Chn:"在暗中谗谤他邻居的，我必将他灭绝； 眼目高傲、心里骄纵的，我必不容他。",
     Eng:"Whoever slanders his neighbor in secret, him will I put to silence; whoever has haughty eyes and a proud heart, him will I not endure.",
     Ind:"Orang yang sembunyi-sembunyi mengumpat temannya, dia akan kubinasakan. Orang yang sombong dan tinggi hati, aku tidak suka."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Mataku tertuju kepada orang-orang yang setiawan di negeri, supaya mereka diam bersama-sama dengan aku. Orang yang hidup dengan cara yang tak bercela, akan melayani aku."
   },
   {Bible:"Psalms", Chapter:101, Verse:7, Page:1,
-    Kor:"속이는 자는 나의 집에서 살지 못하게 하며, 거짓말하는 자는 내 앞에 서지 못하게 하렵니다.",
+    Kor:"속이는 자는 나의 궁전에서 살지 못하게 하며, 거짓말하는 자는 내 앞에 서지 못하게 하렵니다.",
     Chn:"行诡诈的，必不得住在我家里； 说谎话的，必不得立在我眼前。",
     Eng:"No one who practices deceit will dwell in my house; no one who speaks falsely will stand in my presence.",
     Ind:"Orang yang melakukan tipu daya tidak akan diam di dalam rumahku, orang yang berbicara dusta tidak akan tegak di depan mataku."
   },
   {Bible:"Psalms", Chapter:101, Verse:8, Page:1,
-    Kor:"이 땅의 모든 악인들에게 아침마다 b입을 다물게 하고, 사악한 자들을 모두 주님의 성에서 끊어버리겠습니다. (b 또는 '멸하여 버리고' 또는 '없애 버리고')",
+    Kor:"이 땅의 모든 악인들에게 아침마다 입을 다물게 하고, 악을 일삼는 자들을 주의 성에서 끌어내렵니다.",
     Chn:"我每日早晨要灭绝国中所有的恶人， 好把一切作孽的从耶和华的城里剪除。",
     Eng:"Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD.",
     Ind:"Setiap pagi akan kubinasakan semua orang fasik di negeri; akan kulenyapkan dari kota TUHAN, semua orang yang melakukan kejahatan."

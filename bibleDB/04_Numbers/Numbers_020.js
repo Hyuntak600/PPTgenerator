@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",20,29);
 BibleDB.add([
   {Bible:"Numbers", Chapter:20, Verse:1, Page:1,
-    Kor:"<가데스에서 생긴 일(출 17:1-7)> 첫째 달에, 이스라엘 자손 온 회중이 신 광야에 이르렀다. 백성은 가데스에 머물렀다. 미리암이 거기서 죽어 그 곳에 묻혔다.",
+    Kor:"첫째 달에, 이스라엘 자손 온 회중이 신 광야에 이르렀다. 백성은 가데스에 머물렀다. 미리암이 거기서 죽어 그 곳에 묻혔다.",
     Chn:"正月间，以色列全会众到了寻的旷野，就住在加低斯。米利暗死在那里，就葬在那里。",
     Eng:"In the first month the whole Israelite community arrived at the Desert of Zin, and they stayed at Kadesh. There Miriam died and was buried.",
     Ind:"Kemudian sampailah orang Israel, yakni segenap umat itu, ke padang gurun Zin, dalam bulan pertama, lalu tinggallah bangsa itu di Kadesh. Matilah Miryam di situ dan dikuburkan di situ."
@@ -15,49 +15,49 @@ BibleDB.add([
     Ind:"Pada suatu kali, ketika tidak ada air bagi umat itu, berkumpullah mereka mengerumuni Musa dan Harun,"
   },
   {Bible:"Numbers", Chapter:20, Verse:3, Page:1,
-    Kor:"백성은 모세와 다투면서 이렇게 말하였다. \"우리의 동족이 주님 앞에서 죽어 넘어졌을 때에, 우리도 죽었더라면 좋을 뻔하였소.",
+    Kor:"백성은 모세와 다투면서 이렇게 말하였다. \"우리의 친척이 주 앞에서 죽어 넘어졌을 때에, 우리도 죽었더라면 좋을 뻔하였다.",
     Chn:"百姓向摩西争闹说：「我们的弟兄曾死在耶和华面前，我们恨不得与他们同死。",
     Eng:"They quarreled with Moses and said, \"If only we had died when our brothers fell dead before the LORD!",
     Ind:"dan bertengkarlah bangsa itu dengan Musa, katanya: \"Sekiranya kami mati binasa pada waktu saudara-saudara kami mati binasa di hadapan TUHAN!"
   },
   {Bible:"Numbers", Chapter:20, Verse:4, Page:1,
-    Kor:"어쩌자고 당신들은 주님의 총회를 이 광야로 끌고 와서, 우리와 우리의 가축을 여기에서 죽게 하는 거요?",
+    Kor:"어쩌자고 너희들은 주의 총회를 이 광야로 끌고 와서, 우리와 우리의 가축을 여기에서 죽게 하는 거냐?",
     Chn:"你们为何把耶和华的会众领到这旷野、使我们和牲畜都死在这里呢？",
     Eng:"Why did you bring the LORD'S community into this desert, that we and our livestock should die here?",
     Ind:"Mengapa kamu membawa jemaah TUHAN ke padang gurun ini, supaya kami dan ternak kami mati di situ?"
   },
   {Bible:"Numbers", Chapter:20, Verse:5, Page:1,
-    Kor:"어찌하여 당신들은 우리를 이집트에서 끌어내어, 이 고약한 곳으로 데리고 왔소? 여기는 씨를 뿌릴 곳도 못 되오. 무화과도 포도도 석류도 없고, 마실 물도 없소.\"",
+    Kor:"어찌하여 너희들은 우리를 이집트에서 끌어내어, 이 고약한 곳으로 데리고 왔느냐? 여기는 씨를 뿌릴 곳도 못 된다. 무화과도 포도도 석류도 없고, 마실 물도 없다.\"",
     Chn:"你们为何逼着我们出埃及、领我们到这坏地方呢？这地方不好撒种，也没有无花果树、葡萄树、石榴树，又没有水喝。」",
     Eng:"Why did you bring us up out of Egypt to this terrible place? It has no grain or figs, grapevines or pomegranates. And there is no water to drink!\"",
     Ind:"Mengapa kamu memimpin kami keluar dari Mesir, untuk membawa kami ke tempat celaka ini, yang bukan tempat menabur, tanpa pohon ara, anggur dan delima, bahkan air minumpun tidak ada?\""
   },
   {Bible:"Numbers", Chapter:20, Verse:6, Page:1,
-    Kor:"○모세와 아론이 총회 앞을 떠나 회막 어귀로 가서, 얼굴을 땅에 대고 엎드렸다. 주님의 영광이 그들 위에 나타났다.",
+    Kor:"○모세와 아론이 총회 앞을 떠나 회막 어귀로 가서, 얼굴을 땅에 대고 엎드렸다. 주의 영광이 그들 위에 나타났다.",
     Chn:"摩西、亚伦离开会众，到会幕门口，俯伏在地；耶和华的荣光向他们显现。",
     Eng:"Moses and Aaron went from the assembly to the entrance to the Tent of Meeting and fell facedown, and the glory of the LORD appeared to them.",
     Ind:"Maka pergilah Musa dan Harun dari umat itu ke pintu Kemah Pertemuan, lalu sujud. Kemudian tampaklah kemuliaan TUHAN kepada mereka."
   },
   {Bible:"Numbers", Chapter:20, Verse:7, Page:1,
-    Kor:"그 때에 주님께서 모세에게 말씀하셨다.",
+    Kor:"그 때에 주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:20, Verse:8, Page:1,
-    Kor:"\"너는 지팡이를 잡아라. 너와 너의 형 아론은 회중을 불러모아라. 그들이 보는 앞에서 저 바위에게 명령하여라. 그러면 그 바위가 그 속에 있는 물을 밖으로 흘릴 것이다. 너는 바위에서 물을 내어, 회중과 그들의 가축 떼가 마시게 하여라.\"",
+    Kor:"\"너는 지팡이를 잡아라. 너와 너의 형 아론은 회중을 불러모아라. 그들이 보는 앞에서 저 바위에게 명령하여라. 그러면 그 바위가 그 속에 있는 물을 밖으로 흘릴 것이다. 너는 바위에서 물을 내어, 회중과 그들의 가축떼가 마시게 하여라.\"",
     Chn:"「你拿着杖去，和你的哥哥亚伦招聚会众，在他们眼前吩咐磐石发出水来，水就从磐石流出，给会众和他们的牲畜喝。」",
     Eng:"\"Take the staff, and you and your brother Aaron gather the assembly together. Speak to that rock before their eyes and it will pour out its water. You will bring water out of the rock for the community so they and their livestock can drink.\"",
     Ind:"\"Ambillah tongkatmu itu dan engkau dan Harun, kakakmu, harus menyuruh umat itu berkumpul; katakanlah di depan mata mereka kepada bukit batu itu supaya diberi airnya; demikianlah engkau mengeluarkan air dari bukit batu itu bagi mereka dan memberi minum umat itu serta ternaknya.\""
   },
   {Bible:"Numbers", Chapter:20, Verse:9, Page:1,
-    Kor:"○모세는, 주님께서 그에게 명하신 대로, 주님 앞에서 지팡이를 잡았다.",
+    Kor:"○모세는, 주께서 그에게 명하신 대로, 주 앞에서 지팡이를 잡았다.",
     Chn:"于是摩西照耶和华所吩咐的，从耶和华面前取了杖去。",
     Eng:"So Moses took the staff from the LORD'S presence, just as he commanded him.",
     Ind:"Lalu Musa mengambil tongkat itu dari hadapan TUHAN, seperti yang diperintahkan-Nya kepadanya."
   },
   {Bible:"Numbers", Chapter:20, Verse:10, Page:1,
-    Kor:"모세와 아론은 총회를 바위 앞에 불러모았다. 모세가 그들에게 말하였다. \"반역자들은 들으시오. 우리가 이 바위에서, 당신들이 마실 물을 나오게 하리오?\"",
+    Kor:"모세와 아론은 총회를 바위 앞에 불러모았다. 모세가 그들에게 말하였다. \"너희 반역자들은 들어라. 우리가 이 바위에서, 너희가 마실 물을 나오게 하랴?\"",
     Chn:"摩西、亚伦就招聚会众到磐石前。摩西说：「你们这些背叛的人听我说：我为你们使水从这磐石中流出来吗？」",
     Eng:"He and Aaron gathered the assembly together in front of the rock and Moses said to them, \"Listen, you rebels, must we bring you water out of this rock?\"",
     Ind:"Ketika Musa dan Harun telah mengumpulkan jemaah itu di depan bukit batu itu, berkatalah ia kepada mereka: \"Dengarlah kepadaku, hai orang-orang durhaka, apakah kami harus mengeluarkan air bagimu dari bukit batu ini?\""
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Sesudah itu Musa mengangkat tangannya, lalu memukul bukit batu itu dengan tongkatnya dua kali, maka keluarlah banyak air, sehingga umat itu dan ternak mereka dapat minum."
   },
   {Bible:"Numbers", Chapter:20, Verse:12, Page:1,
-    Kor:"○주님께서 모세와 아론에게 말씀하셨다. \"너희는 이스라엘 자손이 보는 앞에서 나의 거룩함을 나타낼 만큼 나를 신뢰하지 않았다. 그러므로 너희는, 내가 이 총회에게 주기로 한 그 땅으로 그들을 데리고 가지 못할 것이다.\"",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다. \"너희는 이스라엘 자손이 보는 앞에서 나의 거룩함을 나타낼 만큼 나를 신뢰하지 않았다. 그러므로 너희는, 내가 이 총회에게 주기로 한 그 땅으로 그들을 데리고 가지 못할 것이다.\"",
     Chn:"耶和华对摩西、亚伦说：「因为你们不信我，不在以色列人眼前尊我为圣，所以你们必不得领这会众进我所赐给他们的地去。」",
     Eng:"But the LORD said to Moses and Aaron, \"Because you did not trust in me enough to honor me as holy in the sight of the Israelites, you will not bring this community into the land I give them.\"",
     Ind:"Tetapi TUHAN berfirman kepada Musa dan Harun: \"Karena kamu tidak percaya kepada-Ku dan tidak menghormati kekudusan-Ku di depan mata orang Israel, itulah sebabnya kamu tidak akan membawa jemaah ini masuk ke negeri yang akan Kuberikan kepada mereka.\""
   },
   {Bible:"Numbers", Chapter:20, Verse:13, Page:1,
-    Kor:"○여기에서 이스라엘 자손이 주님과 다투었으므로, 이것이 바로 a므리바 샘이다. 주님께서 그들 가운데서 거룩함을 나타내 보이셨다.(a '다툼')",
+    Kor:"○여기에서 이스라엘 자손이 주와 다투었으므로, 이것이 바로 므리바 샘이다. 주께서 그들 가운데서 거룩함을 나타내 보이셨다.",
     Chn:"这水名叫米利巴水，是因以色列人向耶和华争闹，耶和华就在他们面前显为圣。",
     Eng:"These were the waters of Meribah, where the Israelites quarreled with the LORD and where he showed himself holy among them.",
     Ind:"Itulah mata air Meriba, tempat orang Israel bertengkar dengan TUHAN dan Ia menunjukkan kekudusan-Nya di antara mereka."
   },
   {Bible:"Numbers", Chapter:20, Verse:14, Page:1,
-    Kor:"<에돔이 이스라엘의 통과를 거절하다> ○모세는 가데스에서 에돔 왕에게 사신들을 보냈다. \"임금님의 형제 이스라엘은 다음과 같이 요청하는 바입니다. 임금님께서는 우리가 겪은 온갖 고난에 대하여 알고 계실 줄 압니다.",
+    Kor:"○모세는 가데스에서 에돔 왕에게 사신들을 보냈다. \"임금님의 형제 이스라엘은 다음과 같이 요청하는 바입니다. 임금님께서는 우리가 겪은 온갖 고난에 대하여 알고 계실 줄 압니다.",
     Chn:"摩西从加低斯差遣使者去见以东王，说：「你的弟兄以色列人这样说：『我们所遭遇的一切艰难，",
     Eng:"Moses sent messengers from Kadesh to the king of Edom, saying: \"This is what your brother Israel says: You know about all the hardships that have come upon us.",
     Ind:"Kemudian Musa mengirim utusan dari Kadesh kepada raja Edom dengan pesan: \"Beginilah perkataan saudaramu Israel: Engkau tahu segala kesusahan yang telah menimpa kami,"
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"bahwa nenek moyang kami pergi ke Mesir, dan kami lama diam di Mesir dan kami dan nenek moyang kami diperlakukan dengan jahat oleh orang Mesir;"
   },
   {Bible:"Numbers", Chapter:20, Verse:16, Page:1,
-    Kor:"그래서 우리가 주님께 부르짖었더니, 주님께서는 우리의 부르짖음을 들으시고, 천사를 보내셔서 우리를 이집트에서 이끌어 내셨습니다. 이제 우리는 임금님의 영토 경계에 있는 성읍, 가데스에 와 있습니다.",
+    Kor:"그래서 우리가 주께 부르짖었더니, 주께서는 우리의 부르짖음을 들으시고, 천사를 보내셔서 우리를 이집트에서 이끌어 내셨습니다. 이제 우리는 임금님의 영토 경계에 있는 성읍, 가데스에 와 있습니다.",
     Chn:"我们哀求耶和华的时候，他听了我们的声音，差遣使者把我们从埃及领出来。这事你都知道。如今，我们在你边界上的城加低斯。",
     Eng:"but when we cried out to the LORD, he heard our cry and sent an angel and brought us out of Egypt. \"Now we are here at Kadesh, a town on the edge of your territory.",
     Ind:"bahwa kami berteriak kepada TUHAN, dan Ia mendengarkan suara kami, mengutus seorang malaikat dan menuntun kami keluar dari Mesir. Sekarang ini kami ada di Kadesh, sebuah kota di tepi perbatasanmu."
   },
   {Bible:"Numbers", Chapter:20, Verse:17, Page:1,
-    Kor:"바라옵기는, 우리가 임금님의 땅을 지나가도록 허락하여 주십시오. 밭이나 포도원에는 들어가지 않겠습니다. 샘물도 마시지 않겠습니다. 우리는 다만 b '왕의 길’만 따라가겠습니다. 임금님의 영토 경계를 다 지나갈 때까지, 오른쪽으로나 왼쪽으로 벗어나지 않겠습니다.\"(b '주요 도로'. 사해 동남쪽으로 나 있음. 아카바 만의 북단 엘랏으로부터 시리아에 이르기까지 북쪽으로 난 큰 길)",
+    Kor:"바라옵기는, 우리가 임금님의 땅을 지나가도록 허락하여 주십시오. 밭이나 포도원에는 들어가지 않겠습니다. 샘물도 마시지 않겠습니다. 우리는 다만 '왕의 길'만 따라가겠습니다. 임금님의 영토 경계를 다 지나갈 때까지, 오른쪽으로나 왼쪽으로 벗어나지 않겠습니다.\"",
     Chn:"求你容我们从你的地经过。我们不走田间和葡萄园，也不喝井里的水，只走大道，不偏左右，直到过了你的境界。』」",
     Eng:"Please let us pass through your country. We will not go through any field or vineyard, or drink water from any well. We will travel along the king's highway and not turn to the right or to the left until we have passed through your territory.\"",
     Ind:"Izinkanlah kiranya kami melalui negerimu; kami tidak akan berjalan melalui ladang-ladang dan kebun-kebun anggurmu dan kami tidak akan minum air sumurmu; jalan besar saja akan kami jalani dengan tidak menyimpang ke kanan atau ke kiri, sampai kami melalui batas daerahmu.\""
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Ketika orang Edom tidak mau mengizinkan orang Israel lalu dari daerahnya, maka orang Israel menyimpang meninggalkannya."
   },
   {Bible:"Numbers", Chapter:20, Verse:22, Page:1,
-    Kor:"<아론의 죽음> ○이스라엘 온 회중이 가데스를 출발하여 호르 산에 이르렀다.",
+    Kor:"○이스라엘 온 회중이 가데스를 출발하여 호르 산에 이르렀다.",
     Chn:"以色列全会众从加低斯起行，到了何珥山。",
     Eng:"The whole Israelite community set out from Kadesh and came to Mount Hor.",
     Ind:"Setelah mereka berangkat dari Kadesh, sampailah segenap umat Israel ke gunung Hor."
   },
   {Bible:"Numbers", Chapter:20, Verse:23, Page:1,
-    Kor:"에돔 땅 경계 부근의 호르 산에서, 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"에돔 땅 경계 부근의 호르 산에서, 주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华在附近以东边界的何珥山上晓谕摩西、亚伦说：",
     Eng:"At Mount Hor, near the border of Edom, the LORD said to Moses and Aaron,",
     Ind:"Lalu berkatalah TUHAN kepada Musa dan Harun dekat gunung Hor, di perbatasan tanah Edom:"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"tanggalkanlah pakaian Harun dan kenakanlah itu kepada Eleazar, anaknya, kemudian Harun akan dikumpulkan kepada kaum leluhurnya dan mati di sana.\""
   },
   {Bible:"Numbers", Chapter:20, Verse:27, Page:1,
-    Kor:"○그리하여 모세는 주님께서 명하신 대로 하였다. 그들은 온 회중이 보는 앞에서 호르 산으로 올라갔다.",
+    Kor:"○그리하여 모세는 주께서 명하신 대로 하였다. 그들은 온 회중이 보는 앞에서 호르 산으로 올라갔다.",
     Chn:"摩西就照耶和华所吩咐的行。三人当着会众的眼前上了何珥山。",
     Eng:"Moses did as the LORD commanded: They went up Mount Hor in the sight of the whole community.",
     Ind:"Lalu Musa melakukan seperti yang diperintahkan TUHAN. Mereka naik ke gunung Hor sedang segenap umat itu memandangnya."

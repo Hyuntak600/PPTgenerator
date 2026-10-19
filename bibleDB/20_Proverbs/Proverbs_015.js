@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",15,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:15, Verse:1, Page:1,
-    Kor:"<주님께서 보고 계신다> 부드러운 대답은 분노를 가라앉히지만, 거친 말은 화를 돋운다.",
+    Kor:"부드러운 대답은 분노를 가라앉히지만, 거친 말은 화를 돋운다.",
     Chn:"回答柔和，使怒消退； 言语暴戾，触动怒气。",
     Eng:"A gentle answer turns away wrath, but a harsh word stirs up anger.",
     Ind:"Jawaban yang lemah lembut meredakan kegeraman, tetapi perkataan yang pedas membangkitkan marah."
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Di rumah orang benar ada banyak harta benda, tetapi penghasilan orang fasik membawa kerusakan."
   },
   {Bible:"Proverbs", Chapter:15, Verse:7, Page:1,
-    Kor:"지혜로운 사람의 입술은 지식을 전파하지만, a미련한 사람의 마음에는 그러한 생각이 없다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"지혜로운 사람의 입술은 지식을 전파하지만, 미련한 사람의 마음에는 그러한 생각이 없다.",
     Chn:"智慧人的嘴播扬知识； 愚昧人的心并不如此。",
     Eng:"The lips of the wise spread knowledge; not so the hearts of fools.",
     Ind:"Bibir orang bijak menaburkan pengetahuan, tetapi hati orang bebal tidak jujur."
   },
   {Bible:"Proverbs", Chapter:15, Verse:8, Page:1,
-    Kor:"악한 사람의 제사는 주님께서 역겨워하시지만, 정직한 사람의 기도는 주님께서 기뻐하신다.",
+    Kor:"악한 사람의 제사는 주께서 역겨워하시지만, 정직한 사람의 기도는 주께서 기뻐하신다.",
     Chn:"恶人献祭，为耶和华所憎恶； 正直人祈祷，为他所喜悦。",
     Eng:"The LORD detests the sacrifice of the wicked, but the prayer of the upright pleases him.",
     Ind:"Korban orang fasik adalah kekejian bagi TUHAN, tetapi doa orang jujur dikenan-Nya."
   },
   {Bible:"Proverbs", Chapter:15, Verse:9, Page:1,
-    Kor:"악한 사람의 길은 주님께서 싫어하시지만, 정의를 따르는 사람은 주님께서 사랑하신다.",
+    Kor:"악한 사람의 길은 주께서 싫어하시지만, 정의를 따르는 사람은 주께서 사랑하신다.",
     Chn:"恶人的道路，为耶和华所憎恶； 追求公义的，为他所喜爱。",
     Eng:"The LORD detests the way of the wicked but he loves those who pursue righteousness.",
     Ind:"Jalan orang fasik adalah kekejian bagi TUHAN, tetapi siapa mengejar kebenaran, dikasihi-Nya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Didikan yang keras adalah bagi orang yang meninggalkan jalan yang benar, dan siapa benci kepada teguran akan mati."
   },
   {Bible:"Proverbs", Chapter:15, Verse:11, Page:1,
-    Kor:"b'죽음'과 '파멸'도 주님 앞에서 드러나거늘, 사람의 마음이야 더욱 그러하지 않겠는가! (b 히, '스올과 아바돈')",
+    Kor:"'죽음'과 '파멸'도 주님 앞에서 드러나거늘, 사람의 마음이야 더욱 그러하지 않겠는가!",
     Chn:"阴间和灭亡尚在耶和华眼前， 何况世人的心呢？",
     Eng:"Death and Destruction lie open before the LORD--how much more the hearts of men!",
     Ind:"Dunia orang mati dan kebinasaan terbuka di hadapan TUHAN, lebih-lebih hati anak manusia!"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Si pencemooh tidak suka ditegur orang; ia tidak mau pergi kepada orang bijak."
   },
   {Bible:"Proverbs", Chapter:15, Verse:13, Page:1,
-    Kor:"즐거운 마음은 얼굴을 밝게 하지만, 근심하는 마음은 너를 상하게 한다.",
+    Kor:"즐거운 마음은 얼굴을 밝게 하지만, 근심하는 마음은 심령을 상하게 한다.",
     Chn:"心中喜乐，面带笑容； 心里忧愁，灵被损伤。",
     Eng:"A happy heart makes the face cheerful, but heartache crushes the spirit.",
     Ind:"Hati yang gembira membuat muka berseri-seri, tetapi kepedihan hati mematahkan semangat."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Siapa mengabaikan didikan membuang dirinya sendiri, tetapi siapa mendengarkan teguran, memperoleh akal budi."
   },
   {Bible:"Proverbs", Chapter:15, Verse:33, Page:1,
-    Kor:"c주님을 경외하라는 것은 지혜가 주는 훈계이다. 겸손하면 영광이 따른다. (c 또는 '지혜는 주님을 경외하라고 가르친다' 또는 '주님을 경외하면 지혜를 배운다')",
+    Kor:"주님을 경외하라는 것은 지혜가 주는 훈계이다. 겸손하면 영광이 따른다.",
     Chn:"敬畏耶和华是智慧的训诲； 尊荣以前，必有谦卑。",
     Eng:"The fear of the LORD teaches a man wisdom, and humility comes before honor.",
     Ind:"Takut akan TUHAN adalah didikan yang mendatangkan hikmat, dan kerendahan hati mendahului kehormatan."

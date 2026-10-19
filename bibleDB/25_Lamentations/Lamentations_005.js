@@ -3,13 +3,13 @@
 BibleDB.ref("Lamentations",5,22);
 BibleDB.add([
   {Bible:"Lamentations", Chapter:5, Verse:1, Page:1,
-    Kor:"\"주님, 우리가 겪은 일을 기억해 주십시오. 우리가 받은 치욕을 살펴 주십시오.",
+    Kor:"주님, 우리가 겪은 일을 기억해 주십시오. 우리가 받은 치욕을 살펴 주십시오.",
     Chn:"耶和华啊，求你记念我们所遭遇的事， 观看我们所受的凌辱。",
     Eng:"Remember, O LORD, what has happened to us; look, and see our disgrace.",
     Ind:"Ingatlah, ya TUHAN, apa yang terjadi atas kami, pandanglah dan lihatlah akan kehinaan kami."
   },
   {Bible:"Lamentations", Chapter:5, Verse:2, Page:1,
-    Kor:"유산으로 받은 우리 땅이 남에게 넘어가고, 우리 집이  이방인들에게 넘어갔습니다.",
+    Kor:"유산으로 받은 우리 땅이 남에게 넘어가고, 우리 집이 이방인들에게 넘어갔습니다.",
     Chn:"我们的产业归与外邦人； 我们的房屋归与外路人。",
     Eng:"Our inheritance has been turned over to aliens, our homes to foreigners.",
     Ind:"Milik pusaka kami beralih kepada orang lain, rumah-rumah kami kepada orang asing."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Air kami kami minum dengan membayar, kami mendapat kayu dengan bayaran."
   },
   {Bible:"Lamentations", Chapter:5, Verse:5, Page:1,
-    Kor:"우리의 목에 a멍에가 메여 있어서, 지쳤으나 쉬지도 못합니다. (a 심마쿠스역을 따름. 히브리어 본문에는 '멍에'가 없음)",
+    Kor:"우리의 목에 멍에가 메어 있어서, 지쳤으나 쉬지도 못합니다.",
     Chn:"追赶我们的，到了我们的颈项上； 我们疲乏不得歇息。",
     Eng:"Those who pursue us are at our heels; we are weary and find no rest.",
     Ind:"Kami dikejar dekat-dekat, kami lelah, bagi kami tak ada istirahat."
   },
   {Bible:"Lamentations", Chapter:5, Verse:6, Page:1,
-    Kor:"먹거리를 얻어서 배불리려고, 이집트와도 손을 잡고 앗시리아와도 손을 잡았습니다.",
+    Kor:"먹을거리를 얻어서 배불리려고, 이집트와도 손을 잡고 앗시리아와도 손을 잡았습니다.",
     Chn:"我们投降埃及人和亚述人， 为要得粮吃饱。",
     Eng:"We submitted to Egypt and Assyria to get enough bread.",
     Ind:"Kami mengulurkan tangan kepada Mesir, dan kepada Asyur untuk menjadi kenyang dengan roti."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Pelayan-pelayan memerintah atas kami; yang melepaskan kami dari tangan mereka tak ada."
   },
   {Bible:"Lamentations", Chapter:5, Verse:9, Page:1,
-    Kor:"먹거리를 얻으려고, 쫓는 자의 칼날에 목숨을 내겁니다.",
+    Kor:"먹을거리를 얻으려고, 쫓는 자의 칼날에 목숨을 내겁니다.",
     Chn:"因为旷野的刀剑， 我们冒着险才得粮食。",
     Eng:"We get our bread at the risk of our lives because of the sword in the desert.",
     Ind:"Dengan bahaya maut karena serangan pedang di padang gurun, kami harus mengambil makanan kami."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Pemuda-pemuda harus memikul batu kilangan, anak-anak terjatuh karena beratnya pikulan kayu."
   },
   {Bible:"Lamentations", Chapter:5, Verse:14, Page:1,
-    Kor:"노인들은 b마을 회관을 떠나고, 젊은이들은 노래를 부르지 않습니다. (b 히, '성문')",
+    Kor:"노인들은 마을 회관을 떠나고, 젊은이들은 노래를 부르지 않습니다.",
     Chn:"老年人在城门口断绝； 少年人不再作乐。",
     Eng:"The elders are gone from the city gate; the young men have stopped their music.",
     Ind:"Para tua-tua tidak berkumpul lagi di pintu gerbang, para teruna berhenti main kecapi."
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"karena bukit Sion yang tandus, di mana anjing-anjing hutan berkeliaran."
   },
   {Bible:"Lamentations", Chapter:5, Verse:19, Page:1,
-    Kor:"주 하나님, 영원히 다스려 주십시오. 주님의 보좌는 세세토록 있습니다.",
+    Kor:"주 하나님, 영원히 다스려 주십시오. 주의 보좌는 세세토록 있습니다.",
     Chn:"耶和华啊，你存到永远； 你的宝座存到万代。",
     Eng:"You, O LORD, reign forever; your throne endures from generation to generation.",
     Ind:"Engkau, ya TUHAN, bertakhta selama-lamanya, takhta-Mu tetap dari masa ke masa!"
   },
   {Bible:"Lamentations", Chapter:5, Verse:20, Page:1,
-    Kor:"어찌하여 주님께서는 우리를 전혀 생각하지 않으시며, 어찌하여 우리를 이렇게 오래 버려 두십니까?",
+    Kor:"어찌하여 주께서는 우리를 전혀 생각하지 않으시며, 어찌하여 우리를 이렇게 오래 버려 두십니까?",
     Chn:"你为何永远忘记我们？ 为何许久离弃我们？",
     Eng:"Why do you always forget us? Why do you forsake us so long?",
     Ind:"Mengapa Engkau melupakan kami selama-lamanya, meninggalkan kami demikian lama?"
   },
   {Bible:"Lamentations", Chapter:5, Verse:21, Page:1,
-    Kor:"주님, 우리를 주님께로 돌이켜 주십시오. 우리가 주님께로 돌아가겠습니다. 우리의 날을 다시 새롭게 하셔서, 옛날과 같게 하여 주십시오.",
+    Kor:"주님, 우리를 주께로 돌이켜 주십시오. 우리가 주께로 돌아가겠습니다. 우리의 날을 다시 새롭게 하셔서, 옛날과 같게 하여 주십시오.",
     Chn:"耶和华啊，求你使我们向你回转， 我们便得回转。 求你复新我们的日子，像古时一样。",
     Eng:"Restore us to yourself, O LORD, that we may return; renew our days as of old",
     Ind:"Bawalah kami kembali kepada-Mu, ya TUHAN, maka kami akan kembali, baharuilah hari-hari kami seperti dahulu kala!"
   },
   {Bible:"Lamentations", Chapter:5, Verse:22, Page:1,
-    Kor:"c주님께서 우리를 아주 버리셨습니까? 우리에게서 진노를 풀지 않으시렵니까?\" (c 또는 '주님께서 우리를 아주 버리시고 우리에게서 진노를 풀지 않으십니다')",
+    Kor:"주께서 우리를 아주 버리셨습니까? 우리에게서 진노를 풀지 않으시렵니까?",
     Chn:"你竟全然弃绝我们， 向我们大发烈怒？",
     Eng:"unless you have utterly rejected us and are angry with us beyond measure.",
     Ind:"Atau, apa Engkau sudah membuang kami sama sekali? Sangat murkakah Engkau terhadap kami?"

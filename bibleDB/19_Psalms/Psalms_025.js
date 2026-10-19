@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",25,22);
 BibleDB.add([
   {Bible:"Psalms", Chapter:25, Verse:1, Page:1,
-    Kor:"<a다윗의 시> 주님, 내 영혼이 주님을 기다립니다. (a 각 절의 첫 글자가 히브리어 자음 문자 순서로 되어 있는 시)",
+    Kor:"주님, 내 영혼이 주님을 기다립니다.",
     Chn:"大卫的诗。 耶和华啊，我的心仰望你。",
     Eng:"To you, O LORD, I lift up my soul;",
     Ind:"Dari Daud. Kepada-Mu, ya TUHAN, kuangkat jiwaku;"
   },
   {Bible:"Psalms", Chapter:25, Verse:2, Page:1,
-    Kor:"나의 하나님, 내가 주님께 의지하였으니, 내가 부끄러움을 당하지 않게 하시고 내 원수가 나를 이기어 승전가를 부르지 못하게 해주십시오.",
+    Kor:"나의 하나님, 내가 주께 의지하였으니, 내가 부끄러움을 당하지 않게 하시고 내 원수가 나를 이기어 승전가를 부르지 못하게 해주십시오.",
     Chn:"我的　神啊，我素来倚靠你； 求你不要叫我羞愧， 不要叫我的仇敌向我夸胜。",
     Eng:"in you I trust, O my God. Do not let me be put to shame, nor let my enemies triumph over me.",
     Ind:"Allahku, kepada-Mu aku percaya; janganlah kiranya aku mendapat malu; janganlah musuh-musuhku beria-ria atas aku."
@@ -21,25 +21,25 @@ BibleDB.add([
     Ind:"Ya, semua orang yang menantikan Engkau takkan mendapat malu; yang mendapat malu ialah mereka yang berbuat khianat dengan tidak ada alasannya."
   },
   {Bible:"Psalms", Chapter:25, Verse:4, Page:1,
-    Kor:"주님, 주님의 길을 나에게 보여 주시고, 내가 마땅히 가야 할 그 길을 가르쳐 주십시오.",
+    Kor:"주님, 주의 길을 나에게 보여 주시고, 주께서 가시는 그 길을 내게 가르쳐 주십시오.",
     Chn:"耶和华啊，求你将你的道指示我， 将你的路教训我！",
     Eng:"Show me your ways, O LORD, teach me your paths;",
     Ind:"Beritahukanlah jalan-jalan-Mu kepadaku, ya TUHAN, tunjukkanlah itu kepadaku."
   },
   {Bible:"Psalms", Chapter:25, Verse:5, Page:1,
-    Kor:"주님은 내 구원의 하나님이시니, 주님의 진리로 나를 지도하시고 가르쳐 주십시오. 나는 종일 주님만을 기다립니다.",
+    Kor:"주님은 내 구원의 하나님이시니, 주의 진리로 나를 지도하시고 가르쳐 주십시오. 나는 종일 주님만을 기다립니다.",
     Chn:"求你以你的真理引导我，教训我， 因为你是救我的　神。 我终日等候你。",
     Eng:"guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long.",
     Ind:"Bawalah aku berjalan dalam kebenaran-Mu dan ajarlah aku, sebab Engkaulah Allah yang menyelamatkan aku, Engkau kunanti-nantikan sepanjang hari."
   },
   {Bible:"Psalms", Chapter:25, Verse:6, Page:1,
-    Kor:"주님, 먼 옛날부터 변함 없이 베푸셨던, 주님의 긍휼하심과 한결 같은 사랑을 기억하여 주십시오.",
+    Kor:"주님, 영원 전에서부터 변함이 없으신, 주의 그 긍휼하심과 자비로우심을 기억하여 주십시오.",
     Chn:"耶和华啊，求你记念你的怜悯和慈爱， 因为这是亘古以来所常有的。",
     Eng:"Remember, O LORD, your great mercy and love, for they are from of old.",
     Ind:"Ingatlah segala rahmat-Mu dan kasih setia-Mu, ya TUHAN, sebab semuanya itu sudah ada sejak purbakala."
   },
   {Bible:"Psalms", Chapter:25, Verse:7, Page:1,
-    Kor:"내가 젊은 시절에 지은 죄와 반역을 기억하지 마시고, 주님의 자비로우심과 선하심으로 나를 기억하여 주십시오.",
+    Kor:"내가 젊은 시절에 지은 죄와 실수를 기억하지 마시고, 주의 자비로우심과 그 선하심으로 나를 기억하여 주십시오.",
     Chn:"求你不要记念我幼年的罪愆和我的过犯； 耶和华啊，求你因你的恩惠，按你的慈爱记念我。",
     Eng:"Remember not the sins of my youth and my rebellious ways; according to your love remember me, for you are good, O LORD.",
     Ind:"Dosa-dosaku pada waktu muda dan pelanggaran-pelanggaranku janganlah Kauingat, tetapi ingatlah kepadaku sesuai dengan kasih setia-Mu, oleh karena kebaikan-Mu, ya TUHAN."
@@ -57,31 +57,31 @@ BibleDB.add([
     Ind:"Ia membimbing orang-orang yang rendah hati menurut hukum, dan Ia mengajarkan jalan-Nya kepada orang-orang yang rendah hati."
   },
   {Bible:"Psalms", Chapter:25, Verse:10, Page:1,
-    Kor:"주님의 언약과 계명을 지키는 사람을 진실한 사랑으로 인도하신다.",
+    Kor:"주의 언약과 계명을 지키는 사람을 신실과 사랑으로 인도하신다.",
     Chn:"凡遵守他的约和他法度的人， 耶和华都以慈爱诚实待他。",
     Eng:"All the ways of the LORD are loving and faithful for those who keep the demands of his covenant.",
     Ind:"Segala jalan TUHAN adalah kasih setia dan kebenaran bagi orang yang berpegang pada perjanjian-Nya dan peringatan-peringatan-Nya."
   },
   {Bible:"Psalms", Chapter:25, Verse:11, Page:1,
-    Kor:"주님, 주님의 이름을 생각하셔서라도, 내가 저지른 큰 죄악을 용서하여 주십시오.",
+    Kor:"주님, 주의 이름을 생각하셔서라도, 내가 저지른 큰 죄악을 용서하여 주십시오.",
     Chn:"耶和华啊，求你因你的名赦免我的罪， 因为我的罪重大。",
     Eng:"For the sake of your name, O LORD, forgive my iniquity, though it is great.",
     Ind:"Oleh karena nama-Mu, ya TUHAN, ampunilah kesalahanku, sebab besar kesalahan itu."
   },
   {Bible:"Psalms", Chapter:25, Verse:12, Page:1,
-    Kor:"주님을 경외하는 사람이 누굽니까? 그가 선택해야 할 길을 주님께서 그에게 가르쳐 주실 것입니다.",
+    Kor:"주님을 경외하는 사람이 누굽니까? 그가 선택해야 할 길을 주께서 그에게 가르쳐 주실 것입니다.",
     Chn:"谁敬畏耶和华， 耶和华必指示他当选择的道路。",
     Eng:"Who, then, is the man that fears the LORD? He will instruct him in the way chosen for him.",
     Ind:"Siapakah orang yang takut akan TUHAN? Kepadanya TUHAN menunjukkan jalan yang harus dipilihnya."
   },
   {Bible:"Psalms", Chapter:25, Verse:13, Page:1,
-    Kor:"그가 한 생애를 편안히 살 것이니, 그 자손이 땅을 유업으로 받을 것이다.",
+    Kor:"주께서 그의 한 생애를 평안하게 하시니, 그 자손이 땅을 유업으로 받을 것이다.",
     Chn:"他必安然居住； 他的后裔必承受地土。",
     Eng:"He will spend his days in prosperity, and his descendants will inherit the land.",
     Ind:"Orang itu sendiri akan menetap dalam kebahagiaan dan anak cucunya akan mewarisi bumi."
   },
   {Bible:"Psalms", Chapter:25, Verse:14, Page:1,
-    Kor:"주님께서는, 주님을 경외하는 사람과 의논하시며, 그들에게서 주님의 언약이 진실함을 확인해 주신다.",
+    Kor:"주께서는, 주님을 경외하는 사람과 의논하시며, 그들에게서 주의 언약을 확인하신다.",
     Chn:"耶和华与敬畏他的人亲密； 他必将自己的约指示他们。",
     Eng:"The LORD confides in those who fear him; he makes his covenant known to them.",
     Ind:"TUHAN bergaul karib dengan orang yang takut akan Dia, dan perjanjian-Nya diberitahukan-Nya kepada mereka."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Mataku tetap terarah kepada TUHAN, sebab Ia mengeluarkan kakiku dari jaring."
   },
   {Bible:"Psalms", Chapter:25, Verse:16, Page:1,
-    Kor:"주님, 나를 돌보아 주시고, 나에게 은혜를 베풀어 주십시오. 나는 외롭고 괴롭습니다.",
+    Kor:"주님, 나를 돌아다보시고, 나에게 은혜를 베풀어 주십시오. 나는 외롭고 괴롭습니다.",
     Chn:"求你转向我，怜恤我， 因为我是孤独困苦。",
     Eng:"Turn to me and be gracious to me, for I am lonely and afflicted.",
     Ind:"Berpalinglah kepadaku dan kasihanilah aku, sebab aku sebatang kara dan tertindas."
   },
   {Bible:"Psalms", Chapter:25, Verse:17, Page:1,
-    Kor:"내 마음의 고통에서 벗어나게 해 주시고, 나를 이 아픔에서 건져 주십시오.",
+    Kor:"원수가 내 마음에 고통을 더하니, 나를 이 아픔에서 건져 주십시오.",
     Chn:"我心里的愁苦甚多， 求你救我脱离我的祸患。",
     Eng:"The troubles of my heart have multiplied; free me from my anguish.",
     Ind:"Lapangkanlah hatiku yang sesak dan keluarkanlah aku dari kesulitanku!"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Lihatlah, betapa banyaknya musuhku, dan bagaimana mereka membenci aku dengan sangat mendalam."
   },
   {Bible:"Psalms", Chapter:25, Verse:20, Page:1,
-    Kor:"내 생명을 지켜 주십시오. 나를 건져 주십시오. 내가 수치를 당하지 않게 하여 주십시오. 나의 피난처는 오직 주님뿐입니다.",
+    Kor:"내 생명을 지켜 주십시오. 나를 건져 주십시오. 내가 수치를 당하지 않게 하여 주십시오. 내가 피신할 곳은 오직 주님뿐입니다.",
     Chn:"求你保护我的性命，搭救我， 使我不致羞愧，因为我投靠你。",
     Eng:"Guard my life and rescue me; let me not be put to shame, for I take refuge in you.",
     Ind:"Jagalah kiranya jiwaku dan lepaskanlah aku; janganlah aku mendapat malu, sebab aku berlindung pada-Mu."

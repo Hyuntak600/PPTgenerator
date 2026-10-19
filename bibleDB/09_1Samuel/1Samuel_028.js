@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Jawab Daud kepada Akhis: \"Baik, engkau akan tahu, apa yang dapat diperbuat hambamu ini.\" Lalu Akhis berkata kepada Daud: \"Sebab itu aku mengangkat engkau menjadi pengawalku sendiri sampai selamanya.\""
   },
   {Bible:"1Samuel", Chapter:28, Verse:3, Page:1,
-    Kor:"<사울이 무당을 찾아가다> ○사무엘이 이미 죽어서 온 이스라엘 백성이 그의 죽음을 슬퍼하며, 그를 그의 고향 라마에 장사지낸 뒤였다. 그리고 사울이 나라 안에서 무당과 박수를 모조리 쫓아낸 때였다.",
+    Kor:"○사무엘이 이미 죽어서 온 이스라엘 백성이 그의 죽음을 슬퍼하며, 그를 그의 고향 라마에 장사지낸 뒤였다. 그리고 사울이 나라 안에서 무당과 박수를 모조리 쫓아낸 때였다.",
     Chn:"那时撒母耳已经死了，以色列众人为他哀哭，葬他在拉玛，就是在他本城里。扫罗曾在国内不容有交鬼的和行巫术的人。",
     Eng:"Now Samuel was dead, and all Israel had mourned for him and buried him in his own town of Ramah. Saul had expelled the mediums and spiritists from the land.",
     Ind:"Adapun Samuel sudah mati. Seluruh orang Israel sudah meratapi dia dan mereka telah menguburkan dia di Rama, di kotanya. Dan Saul telah menyingkirkan dari dalam negeri para pemanggil arwah dan roh peramal."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Ketika Saul melihat tentara Filistin itu, maka takutlah ia dan hatinya sangat gemetar."
   },
   {Bible:"1Samuel", Chapter:28, Verse:6, Page:1,
-    Kor:"사울이 주님께 물었으나, 주님께서는 그에게 꿈으로도, 우림으로도, 예언자로도, 대답하여 주지 않으셨다.",
+    Kor:"사울이 주께 물었으나, 주께서는 그에게 꿈으로도, 우림으로도, 예언자로도, 대답하여 주지 않으셨다.",
     Chn:"扫罗求问耶和华，耶和华却不借梦，或乌陵，或先知回答他。",
     Eng:"He inquired of the LORD, but the LORD did not answer him by dreams or Urim or prophets.",
     Ind:"Dan Saul bertanya kepada TUHAN, tetapi TUHAN tidak menjawab dia, baik dengan mimpi, baik dengan Urim, baik dengan perantaraan para nabi."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Tetapi perempuan itu menjawabnya: \"Tentu engkau mengetahui apa yang diperbuat Saul, bahwa ia telah melenyapkan dari dalam negeri para pemanggil arwah dan roh peramal. Mengapa engkau memasang jerat terhadap nyawaku untuk membunuh aku?\""
   },
   {Bible:"1Samuel", Chapter:28, Verse:10, Page:1,
-    Kor:"사울이 주님의 이름을 걸고 그 여인에게 맹세하였다. \"주님께서 확실히 살아 계심을 걸고 맹세하지만, 당신이 이 일로는 아무런 벌도 받지 않을 것이오.\"",
+    Kor:"사울이 주의 이름을 걸고 그 여인에게 맹세하였다. \"주께서 확실히 살아 계심을 걸고 맹세하지만, 당신이 이 일로는 아무런 벌도 받지 않을 것이오.\"",
     Chn:"扫罗向妇人指着耶和华起誓说：「我指着永生的耶和华起誓，你必不因这事受刑。」",
     Eng:"Saul swore to her by the LORD, \"As surely as the LORD lives, you will not be punished for this.\"",
     Ind:"Lalu bersumpahlah Saul kepadanya demi TUHAN, katanya: \"Demi TUHAN yang hidup, tidak akan ada kesalahan tertimpa kepadamu karena perkara ini.\""
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Ketika perempuan itu melihat Samuel, berteriaklah ia dengan suara nyaring. Lalu perempuan itu berkata kepada Saul, demikian: \"Mengapa engkau menipu aku? Engkau sendirilah Saul!\""
   },
   {Bible:"1Samuel", Chapter:28, Verse:13, Page:1,
-    Kor:"왕이 그 여인에게 말하였다. \"무서워하지 말아라. 네가 무엇을 보고 있느냐?\" 여인이 사울에게 대답하였다. \"땅 속에서 a영이 올라온 것을 보고 있습니다.\"(a 또는 '신' 또는 '신들')",
+    Kor:"왕이 그 여인에게 말하였다. \"무서워하지 말아라. 네가 무엇을 보고 있느냐?\" 여인이 사울에게 대답하였다. \"땅 속에서 영이 올라온 것을 보고 있습니다.\"",
     Chn:"王对妇人说：「不要惧怕，你看见了什么呢？」妇人对扫罗说：「我看见有神从地里上来。」",
     Eng:"The king said to her, \"Don't be afraid. What do you see?\" The woman said, \"I see a spirit coming up out of the ground.\"",
     Ind:"Maka berbicaralah raja kepadanya: \"Janganlah takut; tetapi apakah yang kaulihat?\" Perempuan itu menjawab Saul: \"Aku melihat sesuatu yang ilahi muncul dari dalam bumi.\""
@@ -87,31 +87,31 @@ BibleDB.add([
     Ind:"Kemudian bertanyalah ia kepada perempuan itu: \"Bagaimana rupanya?\" Jawabnya: \"Ada seorang tua muncul, berselubungkan jubah.\" Maka tahulah Saul, bahwa itulah Samuel, lalu berlututlah ia dengan mukanya sampai ke tanah dan sujud menyembah."
   },
   {Bible:"1Samuel", Chapter:28, Verse:15, Page:1,
-    Kor:"○사무엘이 사울에게 물었다. \"당신이 왜 나를 불러올려 귀찮게 하시오?\" 사울이 대답하였다. \"제가 매우 궁지에 몰려 있습니다. 블레셋 사람이 지금 저를 치고 있는데, 하나님이 이미 저에게서 떠나셨고, 예언자로도, 꿈으로도, 더 이상 저에게 응답을 하지 않으십니다. 그래서 제가 무엇을 어떻게 해야 하는지 알고 싶어서, 이처럼 어른을 뵙도록 해 달라고 부탁하였습니다.\"",
+    Kor:"○사무엘이 사울에게 물었다. \"네가 왜 나를 불러올려 귀찮게 하느냐?\" 사울이 대답하였다. \"제가 매우 궁지에 몰려 있습니다. 블레셋 사람이 지금 나를 치고 있는데, 하나님이 이미 저에게서 떠나셨고, 예언자로도, 꿈으로도, 더 이상 나에게 응답을 하지 않으십니다. 그래서 내가 무엇을 어떻게 해야 하는지 알고 싶어서, 이처럼 어른을 뵙도록 해 달라고 부탁하였습니다.\"",
     Chn:"撒母耳对扫罗说：「你为什么搅扰我，招我上来呢？」扫罗回答说：「我甚窘急；因为非利士人攻击我，　神也离开我，不再借先知或梦回答我。因此请你上来，好指示我应当怎样行。」",
     Eng:"Samuel said to Saul, \"Why have you disturbed me by bringing me up?\" \"I am in great distress,\" Saul said. \"The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do.\"",
     Ind:"Sesudah itu berbicaralah Samuel kepada Saul: \"Mengapa engkau mengganggu aku dengan memanggil aku muncul?\" Kata Saul: \"Aku sangat dalam keadaan terjepit: orang Filistin berperang melawan aku, dan Allah telah undur dari padaku. Ia tidak menjawab aku lagi, baik dengan perantaraan nabi maupun dengan mimpi. Sebab itu aku memanggil engkau, supaya engkau memberitahukan kepadaku, apa yang harus kuperbuat.\""
   },
   {Bible:"1Samuel", Chapter:28, Verse:16, Page:1,
-    Kor:"사무엘이 책망하였다. \"주님께서는 이미 당신에게서 떠나 당신의 원수가 되셨는데, 나에게 더 묻는 이유가 무엇이오?",
+    Kor:"사무엘이 책망하였다. \"주께서는 이미 너에게서 떠나 너의 원수가 되셨는데, 나에게 더 묻는 이유가 무엇이냐?",
     Chn:"撒母耳说：「耶和华已经离开你，且与你为敌，你何必问我呢？",
     Eng:"Samuel said, \"Why do you consult me, now that the LORD has turned away from you and become your enemy?",
     Ind:"Lalu berbicaralah Samuel: \"Mengapa engkau bertanya kepadaku, padahal TUHAN telah undur dari padamu dan telah menjadi musuhmu?"
   },
   {Bible:"1Samuel", Chapter:28, Verse:17, Page:1,
-    Kor:"주님께서는, 나를 시켜 전하신 말씀 그대로 당신에게 하셔서, 이미 이 나라의 왕위를 당신의 손에서 빼앗아 당신의 가까이에 있는 다윗에게 주셨소.",
+    Kor:"주께서는, 나를 시켜 전하신 말씀 그대로 너에게 하셔서, 이미 이 나라의 왕위를 너의 손에서 빼앗아 너의 가까이에 있는 다윗에게 주셨다.",
     Chn:"耶和华照他借我说的话，已经从你手里夺去国权，赐与别人，就是大卫。",
     Eng:"The LORD has done what he predicted through me. The LORD has torn the kingdom out of your hands and given it to one of your neighbors--to David.",
     Ind:"TUHAN telah melakukan kepadamu seperti yang difirmankan-Nya dengan perantaraanku, yakni TUHAN telah mengoyakkan kerajaan dari tanganmu dan telah memberikannya kepada orang lain, kepada Daud."
   },
   {Bible:"1Samuel", Chapter:28, Verse:18, Page:1,
-    Kor:"당신은 주님께 순종하지 아니하고, 주님의 분노를 아말렉에게 쏟지 아니하였소. 그렇기 때문에 주님께서 오늘 당신에게 이렇게 하셨소.",
+    Kor:"너는 주께 순종하지 아니하고, 주의 분노를 아말렉에게 쏟지 아니하였다. 그렇기 때문에 주께서 오늘 너에게 이렇게 하셨다.",
     Chn:"因你没有听从耶和华的命令；他恼怒亚玛力人，你没有灭绝他们，所以今日耶和华向你这样行，",
     Eng:"Because you did not obey the LORD or carry out his fierce wrath against the Amalekites, the LORD has done this to you today.",
     Ind:"Karena engkau tidak mendengarkan suara TUHAN dan tidak melaksanakan murka-Nya yang bernyala-nyala itu atas Amalek, itulah sebabnya TUHAN melakukan hal itu kepadamu pada hari ini."
   },
   {Bible:"1Samuel", Chapter:28, Verse:19, Page:1,
-    Kor:"주님께서는 이제 당신과 함께 이스라엘도 블레셋 사람의 손에 넘겨 주실 터인데, 당신은 내일 당신 자식들과 함께 내가 있는 이 곳으로 오게 될 것이오. 주님께서는 이스라엘 군대도 블레셋 사람의 손에 넘겨 주실 것이오.\"",
+    Kor:"주께서는 이제 너와 함께 이스라엘도 블레셋 사람의 손에 넘겨 주실 터인데, 너는 내일 네 자식들과 함께 내가 있는 이 곳으로 오게 될 것이다. 주께서는 이스라엘 군대도 블레셋 사람의 손에 넘겨 주실 것이다.\"",
     Chn:"并且耶和华必将你和以色列人交在非利士人的手里。明日你和你众子必与我在一处了；耶和华必将以色列的军兵交在非利士人手里。」",
     Eng:"The LORD will hand over both Israel and you to the Philistines, and tomorrow you and your sons will be with me. The LORD will also hand over the army of Israel to the Philistines.\"",
     Ind:"Juga orang Israel bersama-sama dengan engkau akan diserahkan TUHAN ke dalam tangan orang Filistin, dan besok engkau serta anak-anakmu sudah ada bersama-sama dengan daku. Juga tentara Israel akan diserahkan TUHAN ke dalam tangan orang Filistin.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu, kiranya engkaupun mendengarkan permintaan budakmu ini. Izinkanlah aku menyajikan kepadamu sepotong roti; makanlah, supaya ada kekuatanmu, apabila engkau berjalan pula.\""
   },
   {Bible:"1Samuel", Chapter:28, Verse:23, Page:1,
-    Kor:"그러나 사울은 \"아무것도 먹고 싶지 않다!\" 하고 말하면서, 그 여인의 청을 거절하였다. 그러나 사울의 신하들까지 그 여인과 함께 사울에게 권하니, 사울이 그들의 말을 듣고, 땅바닥에서 일어나 평상에 앉았다.",
+    Kor:"그러나 사울은 \"아무것도 먹고 싶지 않다!\" 하고 말하면서, 그 여인의 청을 거절하였다. 그러나 사울의 신하들까지 그 여인과 함께 사울에게 권하니, 사울이 그들의 말을 듣고, 땅바닥에서 일어나 침대에 앉았다.",
     Chn:"扫罗不肯，说：「我不吃。」但他的仆人和妇人再三劝他，他才听了他们的话，从地上起来，坐在床上。",
     Eng:"He refused and said, \"I will not eat.\" But his men joined the woman in urging him, and he listened to them. He got up from the ground and sat on the couch.",
     Ind:"Tetapi Saul menolak dan berkata: \"Aku tidak mau makan.\" Tetapi ketika para pegawainya serta perempuan itu juga mendesak, maka didengarkannyalah permintaan mereka, lalu bangkitlah ia dari tanah dan duduk di balai-balai."

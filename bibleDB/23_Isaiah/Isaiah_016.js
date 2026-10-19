@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",16,14);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:16, Verse:1, Page:1,
-    Kor:"<모압의 절망 상태> 모압 백성아, 예루살렘의 통치자에게 어린 양들을 조공으로 보내라. 셀라에서 광야를 거쳐, 나의 딸 시온 산으로 조공을 보내라.",
+    Kor:"모압 백성아, 예루살렘의 통치자에게 어린 양들을 조공으로 보내라. 셀라에서 광야를 거쳐, 나의 딸 시온 산으로 조공을 보내라.",
     Chn:"你们当将羊羔奉给那地掌权的， 从西拉往旷野，送到锡安城的山。",
     Eng:"Send lambs as tribute to the ruler of the land, from Sela, across the desert, to the mount of the Daughter of Zion.",
     Ind:"Mereka mengirim anak domba kepada pemerintah negeri, dari Sela melalui padang gurun ke gunung puteri Sion."
   },
   {Bible:"Isaiah", Chapter:16, Verse:2, Page:1,
-    Kor:"있을 곳이 없어 날아다니는 새들처럼, 털린 둥지에서 흩어진 새끼 새들처럼, 모압의 a여인들이 아르논의 나루터에서 헤맨다. (a 여러 성읍의 주민을 뜻함)",
+    Kor:"있을 곳이 없어 날아다니는 새들처럼, 털린 둥지에서 흩어진 새끼 새들처럼, 모압의 여인들이 아르논의 나루터에서 헤맨다.",
     Chn:"摩押的居民在亚嫩渡口， 必像游飞的鸟，如拆窝的雏。",
     Eng:"Like fluttering birds pushed from the nest, so are the women of Moab at the fords of the Arnon.",
     Ind:"Seperti burung yang lari terbang, dan isi sarang yang diusir, demikianlah anak-anak perempuan Moab di tempat-tempat penyeberangan sungai Arnon."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Biarkanlah orang-orang yang terbuang dari Moab menumpang padamu, jadilah tempat persembunyian baginya terhadap si pembinasa! Apabila penggagahan sudah berakhir, pembinasaan sudah lewat dan orang lalim sudah habis lenyap dari negeri,"
   },
   {Bible:"Isaiah", Chapter:16, Verse:5, Page:1,
-    Kor:"다윗의 b가문에서 왕이 나와 신실과 사랑으로 그 백성을 다스릴 것이다. 옳은 일이면 지체하지 않고 하고, 정의가 이루어지는 것을 보여 줄 것이다.) (b 히, '장막')",
+    Kor:"다윗의 가문에서 왕이 나와 신실과 사랑으로 그 백성을 다스릴 것이다. 옳은일이면 지체하지 않고 하고, 정의가 이루어지는 것을 보여 줄 것이다.)",
     Chn:"必有宝座因慈爱坚立； 必有一位诚诚实实坐在其上， 在大卫帐幕中施行审判， 寻求公平，速行公义。",
     Eng:"In love a throne will be established; in faithfulness a man will sit on it--one from the house of David--one who in judging seeks justice and speeds the cause of righteousness.",
     Ind:"maka suatu takhta akan ditegakkan dalam kasih setia dan di atasnya, dalam kemah Daud, akan duduk senantiasa seorang hakim yang menegakkan keadilan, dan yang segera melakukan kebenaran.\""
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sebab itu biarlah orang Moab meratap, seorang karena yang lain, biarlah sekaliannya meratap. Mengingat kue kismis Kir-Hareset biarlah mereka mengaduh dan hancur luluh sama sekali!"
   },
   {Bible:"Isaiah", Chapter:16, Verse:8, Page:1,
-    Kor:"헤스본의 밭과 십마의 포도원이 황무지가 되다니! 여러 나라의 군주들이 즐겨 마시던 포도주의 산지가 아니던가! 한때는 포도나무 가지가 저 멀리 야스엘에까지 뻗어 나가고, 동쪽으로는 광야에까지 퍼져 나가고, 서쪽으로는 그 싹이 자라서 사해 너머로까지 뻗어 가더니!",
+    Kor:"헤스본의 밭과 십마의 포도원이 황무지가 되다니! 여러 나라의 군주들이 즐겨 마시던 포도주의 산지가 아니던가! 한때는 포도나무 가지가 저 멀리 야셀에까지 뻗어 나가고, 동쪽으로는 광야에까지 퍼져 나가고, 서쪽으로는 그 싹이 자라서 사해 너머로까지 뻗어 가더니!",
     Chn:"因为希实本的田地 和西比玛的葡萄树都衰残了。 列国的君主折断其上美好的枝子； 这枝子长到雅谢延到旷野， 嫩枝向外探出，直探过盐海。",
     Eng:"The fields of Heshbon wither, the vines of Sibmah also. The rulers of the nations have trampled down the choicest vines, which once reached Jazer and spread toward the desert. Their shoots spread out and went as far as the sea.",
     Ind:"Sebab kebun-kebun Hesybon dan pohon anggur Sibma telah merana; para penguasa bangsa-bangsa telah memotong pohon-pohon anggurnya yang terbaik, yang dahulu meluas sampai ke Yaezer dan merambat ke padang gurun; ranting-rantingnya berserak sampai ke seberang laut."
   },
   {Bible:"Isaiah", Chapter:16, Verse:9, Page:1,
-    Kor:"야스엘이 울듯이, 내가 통곡한다. 말라 비틀어진 십마의 포도나무를 두고 통곡한다. 헤스본아, 엘르알레야, 나의 눈물이 너를 적신다. 여름 과일과 농작물을 거두는 너의 흥겨운 소리가 너에게서 그쳤구나.",
+    Kor:"야셀이 울듯이, 내가 통곡한다. 말라 비틀어진 십마의 포도나무를 두고 통곡한다. 헤스본아, 엘르알레야, 나의 눈물이 너를 적신다. 여름 과일과 농작물을 거두는 너의 흥겨운 소리가 너에게서 그쳤구나.",
     Chn:"因此，我要为西比玛的葡萄树哀哭， 与雅谢人哀哭一样。 希实本、以利亚利啊， 我要以眼泪浇灌你； 因为有交战呐喊的声音 临到你夏天的果子， 并你收割的庄稼。",
     Eng:"So I weep, as Jazer weeps, for the vines of Sibmah. O Heshbon, O Elealeh, I drench you with tears! The shouts of joy over your ripened fruit and over your harvests have been stilled.",
     Ind:"Sebab itu aku turut menangis dengan Yaezer karena pohon anggur Sibma; aku mau membasahi engkau dengan air mataku, hai Hesybon dan Eleale, sebab pada musim kemarau tepat waktu panen musuhmu menyerbu dengan pekik pertempuran."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Maka sekalipun Moab pergi beribadah dan bersusah payah di atas bukit pengorbanan dan masuk ke tempat kudusnya untuk berdoa, ia tidak akan mencapai apa-apa."
   },
   {Bible:"Isaiah", Chapter:16, Verse:13, Page:1,
-    Kor:"○이것이 전에 주님께서 모압을 두고 하신 말씀이다.",
+    Kor:"○이것이 전에 주께서 모압을 두고 하신 말씀이다.",
     Chn:"这是耶和华从前论摩押的话。",
     Eng:"This is the word the LORD has already spoken concerning Moab.",
     Ind:"Itulah firman yang diucapkan TUHAN tentang Moab pada waktu yang lalu."
   },
   {Bible:"Isaiah", Chapter:16, Verse:14, Page:1,
-    Kor:"그러나 이제 주님께서 다시 이렇게 말씀하신다. \"삼 년 기한으로 머슴살이를 하게 된 머슴이 그 햇수를 세듯이, 이제 내가 삼 년을 센다. 삼 년 안에 모압의 영화가 그 큰 무리와 함께 모두 능욕을 당할 것이며, 남은 사람이라야 얼마 되지 않아, 보잘 것이 없을 것이다.\"",
+    Kor:"그러나 이제 주께서 다시 이렇게 말씀하신다. \"삼 년 기한으로 머슴살이를 하게 된 머슴이 그 햇수를 세듯이, 이제 내가 삼 년을 센다. 삼 년 안에 모압의 영화가 그 큰 무리와 함께 모두 능욕을 당할 것이며, 남은 사람이라야 얼마 되지 않아, 보잘 것이 없을 것이다.\"",
     Chn:"但现在耶和华说：「三年之内，照雇工的年数，摩押的荣耀与他的群众必被藐视，余剩的人甚少无几。」",
     Eng:"But now the LORD says: \"Within three years, as a servant bound by contract would count them, Moab's splendor and all her many people will be despised, and her survivors will be very few and feeble.\"",
     Ind:"Maka sekarang TUHAN berfirman: \"Dalam tiga tahun, menurut masa kerja prajurit upahan, maka kemuliaan Moab, serta dengan keramaiannya yang besar, akan menjadi kehinaan, dan orang yang tertinggal akan sangat sedikit dan tiada berkuasa.\""

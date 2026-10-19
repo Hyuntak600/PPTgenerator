@@ -3,13 +3,13 @@
 BibleDB.ref("Exodus",32,35);
 BibleDB.add([
   {Bible:"Exodus", Chapter:32, Verse:1, Page:1,
-    Kor:"<금송아지(신 9:6-29)> 백성은, 모세가 산에서 오랫동안 내려오지 않으니, 아론에게로 몰려가서 말하였다. \"일어나서, 우리를 인도할 신을 만들어 주십시오. 우리를 이집트 땅에서 올라오게 한 모세라는 사람은 어떻게 되었는지 모르겠습니다.\"",
+    Kor:"백성은, 모세가 산에서 오랫동안 내려오지 않으니, 아론에게로 몰려가서 말하였다. \"일어나서, 우리를 인도할 신을 만들어 주십시오. 우리를 이집트 땅에서 올라오게 한 모세라는 사람은, 어떻게 되었는지 모르겠습니다.\"",
     Chn:"百姓见摩西迟延不下山，就大家聚集到亚伦那里，对他说：「起来！为我们做神像，可以在我们前面引路；因为领我们出埃及地的那个摩西，我们不知道他遭了什么事。」",
     Eng:"When the people saw that Moses was so long in coming down from the mountain, they gathered around Aaron and said, \"Come, make us gods who will go before us. As for this fellow Moses who brought us up out of Egypt, we don't know what has happened to him.\"",
     Ind:"Ketika bangsa itu melihat, bahwa Musa mengundur-undurkan turun dari gunung itu, maka berkumpullah mereka mengerumuni Harun dan berkata kepadanya: \"Mari, buatlah untuk kami allah, yang akan berjalan di depan kami sebab Musa ini, orang yang telah memimpin kami keluar dari tanah Mesir--kami tidak tahu apa yang telah terjadi dengan dia.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:2, Page:1,
-    Kor:"아론이 그들에게 말하였다. \"여러분의 아내와 아들 딸들이 귀에 달고 있는 금고리들을 빼서, 나에게 가져 오시오.\"",
+    Kor:"아론이 그들에게 말하였다. \"여러분의 아내와 아들, 딸들이 귀에 달고 있는 금고리들을 빼서, 나에게 가져 오시오.\"",
     Chn:"亚伦对他们说：「你们去摘下你们妻子、儿女耳上的金环，拿来给我。」",
     Eng:"Aaron answered them, \"Take off the gold earrings that your wives, your sons and your daughters are wearing, and bring them to me.\"",
     Ind:"Lalu berkatalah Harun kepada mereka: \"Tanggalkanlah anting-anting emas yang ada pada telinga isterimu, anakmu laki-laki dan perempuan, dan bawalah semuanya kepadaku.\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Diterimanyalah itu dari tangan mereka, dibentuknya dengan pahat, dan dibuatnyalah dari padanya anak lembu tuangan. Kemudian berkatalah mereka: \"Hai Israel, inilah Allahmu, yang telah menuntun engkau keluar dari tanah Mesir!\""
   },
   {Bible:"Exodus", Chapter:32, Verse:5, Page:1,
-    Kor:"아론은 이것을 보고서 그 신상 앞에 제단을 쌓고 \"내일 주님의 절기를 지킵시다\" 하고 선포하였다.",
+    Kor:"아론은 이것을 보고서 그 신상 앞에 제단을 쌓고 \"내일 주의 절기를 지키자\" 하고 선포하였다.",
     Chn:"亚伦看见，就在牛犊面前筑坛，且宣告说：「明日要向耶和华守节。」",
     Eng:"When Aaron saw this, he built an altar in front of the calf and announced, \"Tomorrow there will be a festival to the LORD.\"",
     Ind:"Ketika Harun melihat itu, didirikannyalah mezbah di depan anak lembu itu. Berserulah Harun, katanya: \"Besok hari raya bagi TUHAN!\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Dan keesokan harinya pagi-pagi maka mereka mempersembahkan korban bakaran dan korban keselamatan, sesudah itu duduklah bangsa itu untuk makan dan minum; kemudian bangunlah mereka dan bersukaria."
   },
   {Bible:"Exodus", Chapter:32, Verse:7, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"어서 내려가 보아라. 네가 이집트 땅에서 이끌어 낸 너의 백성이 타락하였다.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"어서 내려가 보아라. 네가 이집트 땅에서 이끌어 낸 너의 백성이 타락하였다.",
     Chn:"耶和华吩咐摩西说：「下去吧，因为你的百姓，就是你从埃及地领出来的，已经败坏了。",
     Eng:"Then the LORD said to Moses, \"Go down, because your people, whom you brought up out of Egypt, have become corrupt.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pergilah, turunlah, sebab bangsamu yang kaupimpin keluar dari tanah Mesir telah rusak lakunya."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Segera juga mereka menyimpang dari jalan yang Kuperintahkan kepada mereka; mereka telah membuat anak lembu tuangan, dan kepadanya mereka sujud menyembah dan mempersembahkan korban, sambil berkata: Hai Israel, inilah Allahmu yang telah menuntun engkau keluar dari tanah Mesir.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:9, Page:1,
-    Kor:"주님께서 다시 말씀하셨다. \"나는 이 백성을 살펴 보았다. 이 얼마나 고집이 센 백성이냐?",
+    Kor:"주께서 다시 말씀하셨다. \"나는 이 백성을 살펴 보았다. 이 얼마나 고집이 센 백성이냐?",
     Chn:"耶和华对摩西说：「我看这百姓真是硬着颈项的百姓。",
     Eng:"\"I have seen these people,\" the LORD said to Moses, \"and they are a stiff-necked people.",
     Ind:"Lagi firman TUHAN kepada Musa: \"Telah Kulihat bangsa ini dan sesungguhnya mereka adalah suatu bangsa yang tegar tengkuk."
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Oleh sebab itu biarkanlah Aku, supaya murka-Ku bangkit terhadap mereka dan Aku akan membinasakan mereka, tetapi engkau akan Kubuat menjadi bangsa yang besar.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:11, Page:1,
-    Kor:"○모세는 주 하나님께 애원하였다. \"주님, 어찌하여 주님께서 큰 권능과 강한 손으로 이집트 땅에서 이끌어 내주신 주님의 백성에게 이와 같이 노하십니까?",
+    Kor:"○모세는 주 하나님께 애원하였다. \"주님, 어찌하여 주께서 큰 권능과 강한 손으로 이집트 땅에서 이끌어 내주신 주의 백성에게 이와 같이 노하십니까?",
     Chn:"摩西便恳求耶和华—他的　神说：「耶和华啊，你为什么向你的百姓发烈怒呢？这百姓是你用大力和大能的手从埃及地领出来的。",
     Eng:"But Moses sought the favor of the LORD his God. \"O LORD,\" he said, \"why should your anger burn against your people, whom you brought out of Egypt with great power and a mighty hand?",
     Ind:"Lalu Musa mencoba melunakkan hati TUHAN, Allahnya, dengan berkata: \"Mengapakah, TUHAN, murka-Mu bangkit terhadap umat-Mu, yang telah Kaubawa keluar dari tanah Mesir dengan kekuatan yang besar dan dengan tangan yang kuat?"
   },
   {Bible:"Exodus", Chapter:32, Verse:12, Page:1,
-    Kor:"어찌하여 이집트 사람이 '그들의 주가 자기 백성에게 재앙을 내리려고, 그들을 이끌어 내어, 산에서 죽게 하고, 땅 위에서 완전히 없애 버렸구나' 하고 말하게 하려 하십니까? 제발, 진노를 거두시고, 뜻을 돌이키시어, 주님의 백성에게서 이 재앙을 거두어 주십시오.",
+    Kor:"어찌하여 이집트 사람이 '주가 자기 백성에게 재앙을 내리려고, 그들을 이끌어 내어, 산에서 죽게 하고, 땅 위에서 완전히 없애 버렸구나' 하고 말하게 하려 하십니까? 제발, 진노를 거두시고, 뜻을 돌이키시어, 주의 백성에게서 이 재앙을 거두어 주십시오.",
     Chn:"为什么使埃及人议论说『他领他们出去，是要降祸与他们，把他们杀在山中，将他们从地上除灭』？求你转意，不发你的烈怒，后悔，不降祸与你的百姓。",
     Eng:"Why should the Egyptians say, 'It was with evil intent that he brought them out, to kill them in the mountains and to wipe them off the face of the earth'? Turn from your fierce anger; relent and do not bring disaster on your people.",
     Ind:"Mengapakah orang Mesir akan berkata: Dia membawa mereka keluar dengan maksud menimpakan malapetaka kepada mereka dan membunuh mereka di gunung dan membinasakannya dari muka bumi? Berbaliklah dari murka-Mu yang bernyala-nyala itu dan menyesallah karena malapetaka yang hendak Kaudatangkan kepada umat-Mu."
   },
   {Bible:"Exodus", Chapter:32, Verse:13, Page:1,
-    Kor:"주님의 종 아브라함과 이삭과 이스라엘을 기억하여 주십시오. 주님께서 그들에게 맹세하시며 이르시기를 '내가 너희의 자손을 하늘의 별처럼 많게 하고, 내가 약속한 이 모든 땅을 너희 자손에게 주어서, 영원한 유산으로 삼게 하겠다'고 하셨습니다.\"",
+    Kor:"주의 종 아브라함과 이삭과 이스라엘을 기억하여 주십시오. 주께서 그들에게 맹세하시며 이르시기를 '내가 너희의 자손을 하늘의 별처럼 많게 하고, 내가 약속한 이 모든 땅을 너희 자손에게 주어서, 영원한 유산으로 삼게 하겠다'고 하셨습니다.\"",
     Chn:"求你记念你的仆人亚伯拉罕、以撒、以色列。你曾指着自己起誓说：『我必使你们的后裔像天上的星那样多，并且我所应许的这全地，必给你们的后裔，他们要永远承受为业。』」",
     Eng:"Remember your servants Abraham, Isaac and Israel, to whom you swore by your own self: 'I will make your descendants as numerous as the stars in the sky and I will give your descendants all this land I promised them, and it will be their inheritance forever.'\"",
     Ind:"Ingatlah kepada Abraham, Ishak dan Israel, hamba-hamba-Mu itu, sebab kepada mereka Engkau telah bersumpah demi diri-Mu sendiri dengan berfirman kepada mereka: Aku akan membuat keturunanmu sebanyak bintang di langit, dan seluruh negeri yang telah Kujanjikan ini akan Kuberikan kepada keturunanmu, supaya dimilikinya untuk selama-lamanya.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:14, Page:1,
-    Kor:"모세가 이렇게 간구하니, 주님께서는 뜻을 돌이키시고, 주님의 백성에게 내리시겠다던 재앙을 거두셨다.",
+    Kor:"모세가 이렇게 간구하니, 주께서는 뜻을 돌이키시고, 주의 백성에게 내리시겠다던 재앙을 거두셨다.",
     Chn:"于是耶和华后悔，不把所说的祸降与他的百姓。",
     Eng:"Then the LORD relented and did not bring on his people the disaster he had threatened.",
     Ind:"Dan menyesallah TUHAN karena malapetaka yang dirancangkan-Nya atas umat-Nya."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Kedua loh itu ialah pekerjaan Allah dan tulisan itu ialah tulisan Allah, ditukik pada loh-loh itu."
   },
   {Bible:"Exodus", Chapter:32, Verse:17, Page:1,
-    Kor:"여호수아가 백성이 떠드는 소리를 듣고서, 모세에게 말하였다. \"진에서 싸우는 소리가 들립니다.\"",
+    Kor:"여호수아가 백성이 떠드는 소리를 듣고서, 모세에게 \"진에서 싸우는 소리가 들립니다\" 하고 말하였다.",
     Chn:"约书亚一听见百姓呼喊的声音，就对摩西说：「在营里有争战的声音。」",
     Eng:"When Joshua heard the noise of the people shouting, he said to Moses, \"There is the sound of war in the camp.\"",
     Ind:"Ketika Yosua mendengar suara bangsa itu bersorak, berkatalah ia kepada Musa: \"Ada bunyi sorak peperangan kedengaran di perkemahan.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Sesudah itu diambilnyalah anak lembu yang dibuat mereka itu, dibakarnya dengan api dan digilingnya sampai halus, kemudian ditaburkannya ke atas air dan disuruhnya diminum oleh orang Israel."
   },
   {Bible:"Exodus", Chapter:32, Verse:21, Page:1,
-    Kor:"○모세가 아론에게 말하였다. \"이 백성이 형님에게 어떻게 하였기에, 형님은 그들이 이렇게 큰 죄를 짓도록 그냥 놓아 두셨습니까?\"",
+    Kor:"○모세가 아론에게 말하였다. \"이 백성이 형님에게 어떻게 하였기에, 형님은, 그들이 이렇게 큰 죄를 짓도록 그냥 놓아 두셨습니까?\"",
     Chn:"摩西对亚伦说：「这百姓向你做了什么？你竟使他们陷在大罪里！」",
     Eng:"He said to Aaron, \"What did these people do to you, that you led them into such great sin?\"",
     Ind:"Lalu berkatalah Musa kepada Harun: \"Apakah yang dilakukan bangsa ini kepadamu, sehingga engkau mendatangkan dosa yang sebesar itu kepada mereka?\""
@@ -141,25 +141,25 @@ BibleDB.add([
     Ind:"Mereka berkata kepadaku: Buatlah untuk kami allah, yang akan berjalan di depan kami sebab Musa ini, orang yang telah memimpin kami keluar dari tanah Mesir--kami tidak tahu apa yang telah terjadi dengan dia."
   },
   {Bible:"Exodus", Chapter:32, Verse:24, Page:1,
-    Kor:"내가 그들에게, 금붙이를 가지고 있는 사람은 누구든지 그 금을 빼서 나에게 가져 오라고 하였습니다. 그들이 금붙이를 가져 왔기에, 내가 그것을 불에 넣었더니, 이 수송아지가 생겨난 것입니다.\"",
+    Kor:"내가 그들에게, 금붙이를 가지고 있는 사람은, 누구든지 그 금을 빼서 나에게 가져 오라고 하였습니다. 그들이 금붙이를 가져 왔기에, 내가 그것을 불에 넣었더니, 이 수송아지가 생겨난 것입니다.\"",
     Chn:"我对他们说：『凡有金环的可以摘下来』，他们就给了我。我把金环扔在火中，这牛犊便出来了。」",
     Eng:"So I told them, 'Whoever has any gold jewelry, take it off.' Then they gave me the gold, and I threw it into the fire, and out came this calf!\"",
     Ind:"Lalu aku berkata kepada mereka: Siapa yang empunya emas haruslah menanggalkannya. Mereka memberikannya kepadaku dan aku melemparkannya ke dalam api, dan keluarlah anak lembu ini.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:25, Page:1,
-    Kor:"○모세는 백성이 제멋대로 날뛰는 것을 보았다. 아론이 그들을 제멋대로 날뛰게 하여, 적들의 조롱거리가 되게 한 것이다.",
+    Kor:"○모세는, 백성이 제멋대로 날뛰는 것을 보았다. 아론이 그들을 제멋대로 날뛰게 하여, 적들의 조롱거리가 되게 한 것이다.",
     Chn:"摩西见百姓放肆（亚伦纵容他们，使他们在仇敌中间被讥刺），",
     Eng:"Moses saw that the people were running wild and that Aaron had let them get out of control and so become a laughingstock to their enemies.",
     Ind:"Ketika Musa melihat, bahwa bangsa itu seperti kuda terlepas dari kandang--sebab Harun telah melepaskannya, sampai menjadi buah cemooh bagi lawan mereka--"
   },
   {Bible:"Exodus", Chapter:32, Verse:26, Page:1,
-    Kor:"모세는 진 어귀에 서서 외쳤다. \"누구든지 주님의 편에 설 사람은 나에게로 나아오십시오.\" 그러자 레위의 자손이 모두 그에게로 모였다.",
+    Kor:"모세는 진 어귀에 서서 \"누구든지 주의 편에 설 사람은 나에게로 나아오너라\" 하고 외쳤다. 그러자 레위의 자손이 모두 그에게로 모였다.",
     Chn:"就站在营门中，说：「凡属耶和华的，都要到我这里来！」于是利未的子孙都到他那里聚集。",
     Eng:"So he stood at the entrance to the camp and said, \"Whoever is for the LORD, come to me.\" And all the Levites rallied to him.",
     Ind:"maka berdirilah Musa di pintu gerbang perkemahan itu serta berkata: \"Siapa yang memihak kepada TUHAN datanglah kepadaku!\" Lalu berkumpullah kepadanya seluruh bani Lewi."
   },
   {Bible:"Exodus", Chapter:32, Verse:27, Page:1,
-    Kor:"그가 또 그들에게 말하였다. \"이스라엘의 주 하나님이 이르시기를 '너희는 각기 허리에 칼을 차고, 진의 이 문에서 저 문을 오가며, 저마다 자기의 친족과 친구와 이웃을 닥치는 대로 찔러 죽여라' 하십니다.\"",
+    Kor:"그가 또 그들에게 말하였다. \"이스라엘의 주 하나님이 이르시기를 '너희는 각기 허리에 칼을 차고, 진의 이 문에서 저 문을 오가며, 저마다 자기의 친척과 친구와 이웃을 닥치는 대로 찔러 죽여라' 하신다.\"",
     Chn:"他对他们说：「耶和华—以色列的　神这样说：『你们各人把刀跨在腰间，在营中往来，从这门到那门，各人杀他的弟兄与同伴并邻舍。』」",
     Eng:"Then he said to them, \"This is what the LORD, the God of Israel, says: 'Each man strap a sword to his side. Go back and forth through the camp from one end to the other, each killing his brother and friend and neighbor.'\"",
     Ind:"Berkatalah ia kepada mereka: \"Beginilah firman TUHAN, Allah Israel: Baiklah kamu masing-masing mengikatkan pedangnya pada pinggangnya dan berjalanlah kian ke mari melalui perkemahan itu dari pintu gerbang ke pintu gerbang, dan biarlah masing-masing membunuh saudaranya dan temannya dan tetangganya.\""
@@ -171,31 +171,31 @@ BibleDB.add([
     Ind:"Bani Lewi melakukan seperti yang dikatakan Musa dan pada hari itu tewaslah kira-kira tiga ribu orang dari bangsa itu."
   },
   {Bible:"Exodus", Chapter:32, Verse:29, Page:1,
-    Kor:"모세가 말하였다. \"오늘 당신들이 저마다 자녀와 형제자매를 희생시켜 당신들 자신을 주님께 드렸으니, 주님께서 당신들에게 복을 내리실 것입니다.\"",
+    Kor:"모세가 말하였다. \"오늘 너희가 저마다 자녀와 형제자매를 희생시켜 너희 자신을 주께 드렸으니, 주께서 너희에게 복을 내리실 것이다.\"",
     Chn:"摩西说：「今天你们要自洁，归耶和华为圣，各人攻击他的儿子和弟兄，使耶和华赐福与你们。」",
     Eng:"Then Moses said, \"You have been set apart to the LORD today, for you were against your own sons and brothers, and he has blessed you this day.\"",
     Ind:"Kemudian berkatalah Musa: \"Baktikanlah dirimu mulai hari ini kepada TUHAN, masing-masing dengan membayarkan jiwa anaknya laki-laki dan saudaranya--yakni supaya kamu diberi berkat pada hari ini.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:30, Page:1,
-    Kor:"○이튿날 모세는 백성에게 말하였다. \"당신들은 크나큰 죄를 지었습니다. 그러나 이제 내가 주님께 올라가서, 당신들을 용서하여 달라고 빌겠습니다.\"",
+    Kor:"○이튿날 모세는 백성에게 말하였다. \"너희는 크나큰 죄를 지었다. 그러나 이제 내가 주께 올라가서, 너희를 용서하여 달라고 빌겠다.\"",
     Chn:"到了第二天，摩西对百姓说：「你们犯了大罪。我如今要上耶和华那里去，或者可以为你们赎罪。」",
     Eng:"The next day Moses said to the people, \"You have committed a great sin. But now I will go up to the LORD; perhaps I can make atonement for your sin.\"",
     Ind:"Keesokan harinya berkatalah Musa kepada bangsa itu: \"Kamu ini telah berbuat dosa besar, tetapi sekarang aku akan naik menghadap TUHAN, mungkin aku akan dapat mengadakan pendamaian karena dosamu itu.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:31, Page:1,
-    Kor:"모세가 주님께로 돌아가서 아뢰었다. \"슬픕니다. 이 백성이 금으로 신상을 만듦으로써 큰 죄를 지었습니다.",
+    Kor:"모세가 주께로 돌아가서 아뢰었다. \"슬픕니다. 이 백성이 금으로 신상을 만듦으로써 큰 죄를 지었습니다.",
     Chn:"摩西回到耶和华那里，说：「唉！这百姓犯了大罪，为自己做了金像。",
     Eng:"So Moses went back to the LORD and said, \"Oh, what a great sin these people have committed! They have made themselves gods of gold.",
     Ind:"Lalu kembalilah Musa menghadap TUHAN dan berkata: \"Ah, bangsa ini telah berbuat dosa besar, sebab mereka telah membuat allah emas bagi mereka."
   },
   {Bible:"Exodus", Chapter:32, Verse:32, Page:1,
-    Kor:"그러나 이제 주님께서 그들의 죄를 용서하여 주십시오. 그렇게 하지 않으시려면, 주님께서 기록하신 책에서 저의 이름을 지워 주십시오.\"",
+    Kor:"그러나 이제 주께서 그들의 죄를 용서하여 주십시오. 그렇게 하지 않으시려면, 주께서 기록하신 책에서 저의 이름을 지워 주십시오.\"",
     Chn:"倘或你肯赦免他们的罪......不然，求你从你所写的册上涂抹我的名。」",
     Eng:"But now, please forgive their sin--but if not, then blot me out of the book you have written.\"",
     Ind:"Tetapi sekarang, kiranya Engkau mengampuni dosa mereka itu--dan jika tidak, hapuskanlah kiranya namaku dari dalam kitab yang telah Kautulis.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:33, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다. \"누구든지 나에게 죄를 지으면, 나는 오직 그 사람만을 나의 책에서 지운다.",
+    Kor:"주께서 모세에게 말씀하셨다. \"누구든지 나에게 죄를 지으면, 나는 오직 그 사람만을 나의 책에서 지운다.",
     Chn:"耶和华对摩西说：「谁得罪我，我就从我的册上涂抹谁的名。",
     Eng:"The LORD replied to Moses, \"Whoever has sinned against me I will blot out of my book.",
     Ind:"Tetapi TUHAN berfirman kepada Musa: \"Siapa yang berdosa kepada-Ku, nama orang itulah yang akan Kuhapuskan dari dalam kitab-Ku."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Tetapi pergilah sekarang, tuntunlah bangsa itu ke tempat yang telah Kusebutkan kepadamu; akan berjalan malaikat-Ku di depanmu, tetapi pada hari pembalasan-Ku itu Aku akan membalaskan dosa mereka kepada mereka.\""
   },
   {Bible:"Exodus", Chapter:32, Verse:35, Page:1,
-    Kor:"○그 뒤에 주님께서는 아론이 수송아지를 만든 일로 이 백성에게 재앙을 내리셨다.",
+    Kor:"○그 뒤에 주께서는, 아론이 수송아지를 만든 일로, 이 백성에게 재앙을 내리셨다.",
     Chn:"耶和华杀百姓的缘故是因他们同亚伦做了牛犊。",
     Eng:"And the LORD struck the people with a plague because of what they did with the calf Aaron had made.",
     Ind:"Demikianlah TUHAN menulahi bangsa itu, karena mereka telah menyuruh membuat anak lembu buatan Harun itu."

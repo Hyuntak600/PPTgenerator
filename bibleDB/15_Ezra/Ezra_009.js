@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",9,15);
 BibleDB.add([
   {Bible:"Ezra", Chapter:9, Verse:1, Page:1,
-    Kor:"<에스라의 회개 기도> 이러한 일들을 마친 다음에, 지도자들이 나에게 와서 말하였다. \"이스라엘 백성은, 제사장이나 레위 사람들마저도, 이방 백성과 관계를 끊지 않고, 가나안 사람과 헷 사람과 브리스 사람과 여부스 사람과 암몬 사람과 모압 사람과 이집트 사람과 아모리 사람이 하는 역겨운 일을 따라서 합니다.",
+    Kor:"이러한 일들을 마친 다음에, 지도자들이 나에게 와서 말하였다. \"이스라엘 백성은, 제사장이나 레위 사람들마저도, 이방 백성과 관계를 끊지 않고, 가나안 사람과 헷 사람과 브리스 사람과 여부스 사람과 암몬 사람과 모압 사람과 이집트 사람과 아모리 사람이 하는 역겨운 일을 따라서 합니다.",
     Chn:"这事做完了，众首领来见我，说：「以色列民和祭司并利未人，没有离绝迦南人、赫人、比利洗人、耶布斯人、亚扪人、摩押人、埃及人、亚摩利人，仍效法这些国的民，行可憎的事。",
     Eng:"After these things had been done, the leaders came to me and said, \"The people of Israel, including the priests and the Levites, have not kept themselves separate from the neighboring peoples with their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians and Amorites.",
     Ind:"Sesudah semuanya itu terlaksana datanglah para pemuka mendekati aku dan berkata: \"Orang-orang Israel awam, para imam dan orang-orang Lewi tidak memisahkan diri dari penduduk negeri dengan segala kekejiannya, yakni dari orang Kanaan, orang Het, orang Feris, orang Yebus, orang Amon, orang Moab, orang Mesir dan orang Amori."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Karena mereka telah mengambil isteri dari antara anak perempuan orang-orang itu untuk diri sendiri dan untuk anak-anak mereka, sehingga bercampurlah benih yang kudus dengan penduduk negeri, bahkan para pemuka dan penguasalah yang lebih dahulu melakukan perbuatan tidak setia itu.\""
   },
   {Bible:"Ezra", Chapter:9, Verse:3, Page:1,
-    Kor:"○이 말을 들은 나는, 너무나 기가 막혀서, 겉옷과 속옷을 찢고, 머리카락과 수염을 뜯으면서 주저앉았다.",
+    Kor:"이 말을 들은 나는, 너무나 기가 막혀서, 겉옷과 속옷을 찢고, 머리카락과 수염을 뜯으면서 주저앉았다.",
     Chn:"我一听见这事，就撕裂衣服和外袍，拔了头发和胡须，惊惧忧闷而坐。",
     Eng:"When I heard this, I tore my tunic and cloak, pulled hair from my head and beard and sat down appalled.",
     Ind:"Ketika aku mendengar perkataan itu, maka aku mengoyakkan pakaianku dan jubahku dan aku mencabut rambut kepalaku dan janggutku dan duduklah aku tertegun."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Dari zaman nenek moyang kami sampai hari ini kesalahan kami besar, dan oleh karena dosa kami maka kami sekalian dengan raja-raja dan imam-imam kami diserahkan ke dalam tangan raja-raja negeri, ke dalam kuasa pedang, ke dalam penawanan dan penjarahan, dan penghinaan di depan umum, seperti yang terjadi sekarang ini."
   },
   {Bible:"Ezra", Chapter:9, Verse:8, Page:1,
-    Kor:"그러나 주 우리 하나님께서는, 비록 잠깐이기는 하지만, 우리에게 자비를 베푸시어, 우리 가운데서 얼마쯤을 살아 남게 하셨습니다. 또한 주님께서 거룩하게 여기시는 곳에, 우리가 살아갈 든든한 터전을 마련하여 주셨습니다. 하나님께서는, 우리 눈에서 생기가 돌게 하시고, 잠시나마 종살이에서 벗어나게 하여 주셨습니다.",
+    Kor:"그러나 주 우리 하나님께서는, 비록 잠깐이기는 하지만, 우리에게 자비를 베푸시어, 우리 가운데서 얼마쯤을 살아 남게 하셨습니다. 또한 주께서 거룩하게 여기시는 곳에, 우리가 살아갈 든든한 터전을 마련하여 주셨습니다. 하나님께서는, 우리 눈에서 생기가 돌게 하시고, 잠시나마 종살이에서 벗어나게 하여 주셨습니다.",
     Chn:"现在耶和华—我们的　神暂且施恩与我们，给我们留些逃脱的人，使我们安稳如钉子钉在他的圣所，我们的　神好光照我们的眼目，使我们在受辖制之中稍微复兴。",
     Eng:"\"But now, for a brief moment, the LORD our God has been gracious in leaving us a remnant and giving us a firm place in his sanctuary, and so our God gives light to our eyes and a little relief in our bondage.",
     Ind:"Dan sekarang, baru saja kami alami kasih karunia dari pada TUHAN, Allah kami yang meninggalkan pada kami orang-orang yang terluput, dan memberi kami tempat menetap di tempat-Nya yang kudus, sehingga Allah kami membuat mata kami bercahaya dan memberi kami sedikit kelegaan di dalam perbudakan kami."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Karena sungguhpun kami menjadi budak, tetapi di dalam perbudakan itu kami tidak ditinggalkan Allah kami. Ia membuat kami disayangi oleh raja-raja negeri Persia, sehingga kami mendapat kelegaan untuk membangun rumah Allah kami dan menegakkan kembali reruntuhannya, dan diberi tembok pelindung di Yehuda dan di Yerusalem."
   },
   {Bible:"Ezra", Chapter:9, Verse:10, Page:1,
-    Kor:"우리의 하나님, 주님께서 이렇게까지 하여 주시는데, 주님의 계명을 저버렸으니, 이제 우리가 무슨 말씀을 드릴 수 있겠습니까?",
+    Kor:"우리의 하나님, 주께서 이렇게까지 하여 주시는데, 주의 계명을 저버렸으니, 이제 우리가 무슨 말씀을 드릴 수 있겠습니까?",
     Chn:"「我们的　神啊，既是如此，我们还有什么话可说呢？因为我们已经离弃你的命令，",
     Eng:"\"But now, O our God, what can we say after this? For we have disregarded the commands",
     Ind:"Tetapi sekarang, ya Allah kami, apa yang akan kami katakan sesudah semuanya itu? Karena kami telah meninggalkan perintah-Mu,"
   },
   {Bible:"Ezra", Chapter:9, Verse:11, Page:1,
-    Kor:"주님께서는 일찍이, 주님의 종 예언자들을 시키셔서, 우리가 들어가서 차지할 땅은, 이방 백성이 살면서 더럽힌 땅이라고 말씀하셨습니다. 거기에서 사는 자들이 역겨운 일을 하여서, 땅의 구석구석까지 더러워지지 않은 곳이 없다고 하셨습니다.",
+    Kor:"주께서는 일찍이, 주의 종 예언자들을 시키셔서, 우리가 들어가서 차지할 땅은, 이방 백성이 살면서 더럽힌 땅이라고 말씀하셨습니다. 거기에서 사는 자들이 역겨운 일을 하여서, 땅의 구석구석까지 더러워지지 않은 곳이 없다고 하셨습니다.",
     Chn:"就是你借你仆人众先知所吩咐的说：『你们要去得为业之地是污秽之地；因列国之民的污秽和可憎的事，叫全地从这边直到那边满了污秽。",
     Eng:"you gave through your servants the prophets when you said: 'The land you are entering to possess is a land polluted by the corruption of its peoples. By their detestable practices they have filled it with their impurity from one end to the other.",
     Ind:"yang Kauperintahkan dengan perantaraan hamba-hamba-Mu, para nabi itu, dengan berfirman: Negeri yang kamu masuki untuk diduduki adalah negeri yang cemar oleh karena kecemaran penduduk negeri, yakni oleh karena kekejian yang mereka lakukan dengan segala kenajisan mereka di segenap negeri itu dari ujung ke ujung."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Sesudah semua yang kami alami oleh sebab perbuatan kami yang jahat, dan oleh sebab kesalahan kami yang besar, sedangkan Engkau, ya Allah kami, tidak menghukum setimpal dengan dosa kami, dan masih mengaruniakan kepada kami orang-orang yang terluput sebanyak ini,"
   },
   {Bible:"Ezra", Chapter:9, Verse:14, Page:1,
-    Kor:"그러므로 다시는 주님의 계명을 어기지 않아야 하였습니다. 역겨운 일을 저지르는 이방 백성들과 결혼도 하지 않아야 하였습니다. 이제 주님께서 분노하셔서, 한 명도 남기지 않고 없애 버리신다고 해도, 드릴 말씀이 없습니다.",
+    Kor:"그러므로 다시는 주의 계명을 어기지 않아야 하였습니다. 역겨운 일을 저지르는 이방 백성들과 결혼도 하지 않아야 하였습니다. 이제 주께서 분노하셔서, 한 명도 남기지 않고 없애 버리신다고 해도, 드릴 말씀이 없습니다.",
     Chn:"我们岂可再违背你的命令，与这行可憎之事的民结亲呢？若这样行，你岂不向我们发怒，将我们灭绝，以致没有一个剩下逃脱的人吗？",
     Eng:"Shall we again break your commands and intermarry with the peoples who commit such detestable practices? Would you not be angry enough with us to destroy us, leaving us no remnant or survivor?",
     Ind:"masakan kami kembali melanggar perintah-Mu dan kawin-mengawin dengan bangsa-bangsa yang keji ini? Tidakkah Engkau akan murka kepada kami sampai kami habis binasa, sehingga tidak ada yang tinggal hidup atau terluput?"
   },
   {Bible:"Ezra", Chapter:9, Verse:15, Page:1,
-    Kor:"그렇지만, 주 이스라엘의 하나님, 주님은 너그러우셔서 우리를 이렇게 살아 남게 하셨습니다. 진정, 우리는 우리의 허물을 주님께 자백합니다. 우리 가운데서, 어느 누구도 감히 주님 앞에 나설 수 없습니다.\"",
+    Kor:"그렇지만, 주 이스라엘의 하나님, 주님은 너그러우셔서 우리를 이렇게 살아 남게 하셨습니다. 진정, 우리는 우리의 허물을 주께 자백합니다. 우리 가운데서, 어느 누구도 감히 주님 앞에 나설 수 없습니다.\"",
     Chn:"耶和华—以色列的　神啊，因你是公义的，我们这剩下的人才得逃脱，正如今日的光景。看哪，我们在你面前有罪恶，因此无人在你面前站立得住。」",
     Eng:"O LORD, God of Israel, you are righteous! We are left this day as a remnant. Here we are before you in our guilt, though because of it not one of us can stand in your presence.\"",
     Ind:"Ya TUHAN, Allah Israel, Engkau maha benar, sebab kami masih dibiarkan tinggal sebagai orang-orang yang terluput, seperti yang terjadi sekarang ini. Lihatlah, kami menghadap hadirat-Mu dengan kesalahan kami. Bahwasanya, dalam keadaan demikian tidak mungkin orang tahan berdiri di hadapan-Mu.\""

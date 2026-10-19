@@ -3,19 +3,19 @@
 BibleDB.ref("Micah",1,16);
 BibleDB.add([
   {Bible:"Micah", Chapter:1, Verse:1, Page:1,
-    Kor:"이것은 주님께서, 사마리아와 예루살렘이 어찌 될 것인지를, 모레셋 사람 미가에게 보여 주시면서 하신 말씀이다. 때는 유다의 왕 요담과 아하스와 히스기야가 대를 이어 가면서 유다를 다스리던 기간이다.",
+    Kor:"이것은 주께서, 사마리아와 예루살렘이 어찌 될 것인지를, 모레셋 사람 미가에게 보여 주시면서 하신 말씀이다. 때는 유다의 왕 요담과 아하스와 히스기야가 대를 이어 가면서 유다를 다스리던 기간이다.",
     Chn:"当犹大王约坦、亚哈斯、希西家在位的时候，摩利沙人弥迦得耶和华的默示，论撒马利亚和耶路撒冷。",
     Eng:"The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah--the vision he saw concerning Samaria and Jerusalem.",
     Ind:"Firman TUHAN yang datang kepada Mikha, orang Moresyet, pada zaman Yotam, Ahas dan Hizkia, raja-raja Yehuda, yakni berkenaan dengan yang dilihatnya tentang Samaria dan Yerusalem."
   },
   {Bible:"Micah", Chapter:1, Verse:2, Page:1,
-    Kor:"<사마리아와 예루살렘을 애도하다> 뭇 민족아, 너희는 모두 들어라. 땅과 거기에 있는 만물들아, 귀를 기울여라. 주 하나님이 너희의 죄를 밝히신다. 주님께서 하늘의 성전에서 말씀하신다.",
+    Kor:"뭇 민족아, 너희는 모두 들어라. 땅과 거기에 있는 만물들아, 귀를 기울여라. 주 하나님이 너희의 죄를 밝히신다. 주께서 하늘의 성전에서 말씀하신다.",
     Chn:"万民哪，你们都要听！ 地和其上所有的，也都要侧耳而听！ 主耶和华从他的圣殿 要见证你们的不是。",
     Eng:"Hear, O peoples, all of you, listen, O earth and all who are in it, that the Sovereign LORD may witness against you, the Lord from his holy temple.",
     Ind:"Dengarlah, hai bangsa-bangsa sekalian! Perhatikanlah, hai bumi serta isinya! Biarlah Tuhan ALLAH menjadi saksi terhadap kamu, yakni Tuhan dari bait-Nya yang kudus."
   },
   {Bible:"Micah", Chapter:1, Verse:3, Page:1,
-    Kor:"주님께서 그 거처에서 나오시어 땅의 높은 곳을 짓밟으시니,",
+    Kor:"주께서 그 거처에서 나오시어 땅의 높은 곳을 짓밟으시니,",
     Chn:"看哪，耶和华出了他的居所， 降临步行地的高处。",
     Eng:"Look! The LORD is coming from his dwelling place; he comes down and treads the high places of the earth.",
     Ind:"Sebab sesungguhnya, TUHAN keluar dari tempat-Nya dan turun berjejak di atas bukit-bukit bumi."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Semuanya ini terjadi karena pelanggaran Yakub, dan karena dosa kaum Israel. Pelanggaran Yakub itu apa? Bukankah itu Samaria? Dosa kaum Yehuda itu apa? Bukankah itu Yerusalem?"
   },
   {Bible:"Micah", Chapter:1, Verse:6, Page:1,
-    Kor:"a\"내가 사마리아를 빈 들의 폐허로, 포도나 가꿀 밭으로 만들겠다. 그 성의 돌들은 골짜기에 쏟아 붓고, 성의 기초가 드러나게 하겠다. (a 주님의 말)",
+    Kor:"\"내가 사마리아를 빈 들의 폐허로, 포도나 가꿀 밭으로 만들겠다. 그 성의 돌들은 골짜기에 쏟아 붓고, 성의 기초가 드러나게 하겠다.",
     Chn:"所以我必使撒马利亚变为田野的乱堆， 又作为种葡萄之处； 也必将她的石头倒在谷中， 露出根基来。",
     Eng:"\"Therefore I will make Samaria a heap of rubble, a place for planting vineyards. I will pour her stones into the valley and lay bare her foundations.",
     Ind:"Sebab itu Aku akan membuat Samaria menjadi timbunan puing di padang, menjadi tempat penanaman pohon anggur. Aku akan menggulingkan batu-batunya ke dalam lembah dan akan menyingkapkan dasar-dasarnya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Segala patungnya akan diremukkan, segala upah sundalnya akan dibakar, dan segala berhalanya akan Kuhancurkan; sebab dari upah sundal dikumpulkan semuanya itu, dan akan kembali menjadi upah sundal."
   },
   {Bible:"Micah", Chapter:1, Verse:8, Page:1,
-    Kor:"b그러므로 내가 슬퍼하며 통곡하고, 맨발로 벌거벗고 다니며, 여우처럼 구슬피 울며, 타조처럼 목놓아 울 것이니, (b 미가의 말)",
+    Kor:"그러므로 내가 슬퍼하며 통곡하고, 맨발로 벌거벗고 다니며, 여우처럼 구슬피 울며, 타조처럼 목놓아 울 것이니,",
     Chn:"先知说：因此我必大声哀号， 赤脚露体而行； 又要呼号如野狗， 哀鸣如鸵鸟。",
     Eng:"Because of this I will weep and wail; I will go about barefoot and naked. I will howl like a jackal and moan like an owl.",
     Ind:"Karena inilah aku hendak berkeluh kesah dan meratap, hendak berjalan dengan tidak berkasut dan telanjang, hendak melolong seperti serigala dan meraung seperti burung unta:"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"sebab lukanya tidak dapat sembuh, sudah menjalar ke Yehuda, sudah sampai ke pintu gerbang bangsaku, ke Yerusalem!"
   },
   {Bible:"Micah", Chapter:1, Verse:10, Page:1,
-    Kor:"<예루살렘의 멸망> \"가드에 알리지 말며, 울지 말아라. 베들레아브라에서는 티끌에 묻어라.",
+    Kor:"\"가드에 알리지 말며, 울지 말아라. 베들레아브라에서는 티끌에 묻어라.",
     Chn:"不要在迦特报告这事， 总不要哭泣； 我在伯·亚弗拉滚于灰尘之中。",
     Eng:"Tell it not in Gath; weep not at all. In Beth Ophrah roll in the dust.",
     Ind:"Di Gat janganlah sampaikan berita, janganlah sekali-kali menangis! Baiklah gulingkan dirimu dalam debu di Bet-Le-Afra!"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Pasanglah kuda teji pada kereta, hai penduduk Lakhis! Inilah permulaan dosa bagi puteri Sion, sebab padamulah terdapat pelanggaran Israel."
   },
   {Bible:"Micah", Chapter:1, Verse:14, Page:1,
-    Kor:"그러므로 c너는 모레셋 가드 백성에게는 작별의 선물을 주어라. 악십의 집들이 이스라엘 왕들을 속일 것이다. (c 유다 백성을 두고 말함)",
+    Kor:"그러므로 너는 모레셋 가드 백성에게는 작별의 선물을 주어라. 악십의 집들이 이스라엘 왕들을 속일 것이다.",
     Chn:"犹大啊，你要将礼物送给摩利设·迦特。 亚革悉的众族必用诡诈待以色列诸王。",
     Eng:"Therefore you will give parting gifts to Moresheth Gath. The town of Aczib will prove deceptive to the kings of Israel.",
     Ind:"Sebab itu baiklah diberi hadiah perpisahan kepada Moresyet-Gat. Rumah-rumah Akhzib akan menjadi tipu daya bagi raja-raja Israel."
   },
   {Bible:"Micah", Chapter:1, Verse:15, Page:1,
-    Kor:"마레사에 사는 사람들아, 내가 너희 대적을 너희에게 데려올 것이니, d이스라엘의 영광인 그가 아둘람으로 피할 것이다. (d 또는 '이스라엘의 영광이 아둘람에 숨을 것이다')",
+    Kor:"마레사에 사는 사람들아, 내가 너희 대적을 너희에게 데려올 것이니, 이스라엘의 영광인 그가 아둘람으로 피할 것이다.",
     Chn:"玛利沙的居民哪， 我必使那夺取你的来到你这里； 以色列的尊贵人必到亚杜兰。",
     Eng:"I will bring a conqueror against you who live in Mareshah. He who is the glory of Israel will come to Adullam.",
     Ind:"Penakluk masih akan Kudatangkan kepadamu, hai penduduk Maresya! Kemuliaan Israel akan sampai di Adulam."

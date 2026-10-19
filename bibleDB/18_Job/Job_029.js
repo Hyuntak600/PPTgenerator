@@ -3,7 +3,7 @@
 BibleDB.ref("Job",29,25);
 BibleDB.add([
   {Bible:"Job", Chapter:29, Verse:1, Page:1,
-    Kor:"<욥의 마지막 발언> 욥이 다시 비유를 써서 말을 하였다.",
+    Kor:"욥이 다시 비유를 써서 말을 하였다.",
     Chn:"约伯又接着说：",
     Eng:"Job continued his discourse:",
     Ind:"Maka Ayub melanjutkan uraiannya:"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"ketika langkah-langkahku bermandikan dadih, dan gunung batu mengalirkan sungai minyak di dekatku."
   },
   {Bible:"Job", Chapter:29, Verse:7, Page:1,
-    Kor:"그 때에는 내가 성문 회관에 나가거나 광장에 자리를 잡고 앉으면,",
+    Kor:"그 때에는 내가 성문 회관에 나가거나, 광장에 자리를 잡고 앉으면,",
     Chn:"我出到城门， 在街上设立座位；",
     Eng:"\"When I went to the gate of the city and took my seat in the public square,",
     Ind:"Apabila aku keluar ke pintu gerbang kota, dan menyediakan tempat dudukku di tengah-tengah lapangan,"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"maka ketika aku kelihatan, mundurlah orang-orang muda dan bangkitlah orang-orang yang sudah lanjut umurnya, lalu tinggal berdiri;"
   },
   {Bible:"Job", Chapter:29, Verse:9, Page:1,
-    Kor:"원로들도 하던 말을 멈추고 손으로 입을 가렸으며,",
+    Kor:"원로들도 하던 말을 멈추고, 손으로 입을 가렸으며,",
     Chn:"王子都停止说话， 用手捂口；",
     Eng:"the chief men refrained from speaking and covered their mouths with their hands;",
     Ind:"para pembesar berhenti bicara, dan menutup mulut mereka dengan tangan;"
   },
   {Bible:"Job", Chapter:29, Verse:10, Page:1,
-    Kor:"귀족들도 혀가 입천장에 달라붙기나 한 것처럼 말소리를 죽였건만.",
+    Kor:"귀족들도, 혀가 입천장에 달라붙기나 한 것처럼 말소리를 죽였건만.",
     Chn:"首领静默无声， 舌头贴住上膛。",
     Eng:"the voices of the nobles were hushed, and their tongues stuck to the roof of their mouths.",
     Ind:"suara para pemuka membisu, dan lidah mereka melekat pada langit-langitnya;"

@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",26,23);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:26, Verse:1, Page:1,
-    Kor:"<유다 왕 웃시야(왕하 14:21-22; 15:1-7)> 유다의 온 백성은 웃시야를 왕으로 삼아, 그의 아버지 아마샤의 뒤를 잇게 하였다. 그가 왕이 되었을 때에, 그는 열여섯 살이었다.",
+    Kor:"유다의 온 백성은 웃시야를 왕으로 삼아, 그의 아버지 아마샤의 뒤를 잇게 하였다. 그가 왕이 되었을 때에, 그는 열여섯 살이었다.",
     Chn:"犹大众民立亚玛谢的儿子乌西雅接续他父作王，那时他年十六岁。（",
     Eng:"Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in place of his father Amaziah.",
     Ind:"Segenap bangsa Yehuda mengambil Uzia, yang masih berumur enam belas tahun dan menobatkan dia menjadi raja menggantikan ayahnya, Amazia."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Uzia berumur enam belas tahun pada waktu ia menjadi raja dan lima puluh dua tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Yekholya, dari Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:4, Page:1,
-    Kor:"그는 자기의 아버지 아마샤가 한 모든 일을 본받아서, 주님께서 보시기에 올바른 일을 하였다.",
+    Kor:"그는 자기의 아버지 아마샤가 한 모든 일을 본받아서, 주께서 보시기에 올바른 일을 하였다.",
     Chn:"乌西雅行耶和华眼中看为正的事，效法他父亚玛谢一切所行的；",
     Eng:"He did what was right in the eyes of the LORD, just as his father Amaziah had done.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, tepat seperti yang dilakukan Amazia, ayahnya."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:5, Page:1,
-    Kor:"그의 곁에는 하나님을 경외하도록 가르쳐 주는 스가랴가 있었는데, 스가랴가 살아 있는 동안, 웃시야는 하나님의 뜻을 찾았다. 그가 주님의 뜻을 찾는 동안은, 하나님께서 그가 하는 일마다 잘 되게 하여 주셨다.",
+    Kor:"그의 곁에는 하나님을 경외하도록 가르쳐 주는 스가랴가 있었는데, 스가랴가 살아 있는 동안, 웃시야는 하나님의 뜻을 찾았다. 그가 주의 뜻을 찾는 동안은, 하나님께서 그가 하는 일마다 잘 되게 하여 주셨다.",
     Chn:"通晓　神默示，撒迦利亚在世的时候，乌西雅定意寻求　神；他寻求耶和华，　神就使他亨通。",
     Eng:"He sought God during the days of Zechariah, who instructed him in the fear of God. As long as he sought the LORD, God gave him success.",
     Ind:"Ia mencari Allah selama hidup Zakharia, yang mengajarnya supaya takut akan Allah. Dan selama ia mencari TUHAN, Allah membuat segala usahanya berhasil."
@@ -93,37 +93,37 @@ BibleDB.add([
     Ind:"Ia membuat juga di Yerusalem alat-alat perang, ciptaan seorang ahli, yang dapat menembakkan anak panah dan batu besar, untuk ditempatkan di atas menara-menara dan penjuru-penjuru. Nama raja itu termasyhur sampai ke negeri-negeri yang jauh, karena ia ditolong dengan ajaib sehingga menjadi kuat."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:16, Page:1,
-    Kor:"<웃시야가 벌을 받다> ○웃시야 왕은 힘이 세어지면서 교만하게 되더니, 드디어 악한 일을 저지르고 말았다. 주님의 성전 안에 있는 분향단에다가 분향을 하려고 그리로 들어간 것이다. 이것은 주 하나님께 죄를 짓는 일이었다.",
+    Kor:"○웃시야 왕은 힘이 세어지면서 교만하게 되더니, 드디어 악한 일을 저지르고 말았다. 주의 성전 안에 있는 분향단에다가 분향을 하려고 그리로 들어간 것이다. 이것은 주 하나님께 죄를 짓는 일이었다.",
     Chn:"他既强盛，就心高气傲，以致行事邪僻，干犯耶和华—他的　神，进耶和华的殿，要在香坛上烧香。",
     Eng:"But after Uzziah became powerful, his pride led to his downfall. He was unfaithful to the LORD his God, and entered the temple of the LORD to burn incense on the altar of incense.",
     Ind:"Setelah ia menjadi kuat, ia menjadi tinggi hati sehingga ia melakukan hal yang merusak. Ia berubah setia kepada TUHAN, Allahnya, dan memasuki bait TUHAN untuk membakar ukupan di atas mezbah pembakaran ukupan."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:17, Page:1,
-    Kor:"아사랴 제사장이, 용감하고 힘이 센 주님의 제사장 팔십 명을 데리고 왕의 뒤를 따라 들어가면서,",
+    Kor:"아사랴 제사장이, 용감하고 힘이 센 주의 제사장 팔십 명을 데리고 왕의 뒤를 따라 들어가면서,",
     Chn:"祭司亚撒利雅率领耶和华勇敢的祭司八十人，跟随他进去。",
     Eng:"Azariah the priest with eighty other courageous priests of the LORD followed him in.",
     Ind:"Tetapi imam Azarya mengikutinya dari belakang bersama-sama delapan puluh imam TUHAN, orang-orang yang tegas;"
   },
   {Bible:"2Chronicles", Chapter:26, Verse:18, Page:1,
-    Kor:"웃시야 왕을 말렸다. 제사장들이 외쳤다. \"웃시야 임금님께서는 들으십시오. 주님께 분향하는 일은 왕이 할 일이 아닙니다. 분향하는 일은, 이 직무를 수행하도록 거룩하게 구별된 제사장들, 곧 아론의 혈통을 이어받은 제사장들만이 할 수 있는 일입니다. 이 거룩한 곳에서 어서 물러나시기 바랍니다. 왕이 범죄하였으니 주 하나님께 높임을 받지 못할 것입니다.\"",
+    Kor:"웃시야 왕을 말렸다. 제사장들이 외쳤다. \"웃시야는 들으시오. 주님께 분향하는 일은 왕이 할 일이 아니오. 분향하는 일은, 이 직무를 수행하도록 거룩하게 구별된 제사장들, 곧 아론의 혈통을 이어받은 제사장들만이 할 수 있는 일이오. 이 거룩한 곳에서 어서 물러나시오. 왕이 범죄하였으니 주 하나님께 높임을 받지 못할 것이오.\"",
     Chn:"他们就阻挡乌西雅王，对他说：「乌西雅啊，给耶和华烧香不是你的事，乃是亚伦子孙承接圣职祭司的事。你出圣殿吧！因为你犯了罪。你行这事，耶和华　神必不使你得荣耀。」",
     Eng:"They confronted him and said, \"It is not right for you, Uzziah, to burn incense to the LORD. That is for the priests, the descendants of Aaron, who have been consecrated to burn incense. Leave the sanctuary, for you have been unfaithful; and you will not be honored by the LORD God.\"",
     Ind:"mereka berdiri di depan raja Uzia dan berkata kepadanya: \"Hai, Uzia, engkau tidak berhak membakar ukupan kepada TUHAN, hanyalah imam-imam keturunan Harun yang telah dikuduskan yang berhak membakar ukupan! Keluarlah dari tempat kudus ini, karena engkau telah berubah setia! Engkau tidak akan memperoleh kehormatan dari TUHAN Allah karena hal ini.\""
   },
   {Bible:"2Chronicles", Chapter:26, Verse:19, Page:1,
-    Kor:"○웃시야는 성전 안 분향단 옆에 서서 향로를 들고 막 분향하려다가 이 말을 듣고 화를 냈다. 그가 제사장들에게 화를 낼 때에 그의 이마에 a나병이 생겼다.(a 히브리어에서는 여러가지 악성 피부병을 일컫는 말임)",
+    Kor:"○웃시야는 성전 안 분향단 옆에 서서 향로를 들고 막 분향하려다가 이 말을 듣고 화를 냈다. 그가 제사장들에게 화를 낼 때에 그의 이마에 나병이 생겼다.",
     Chn:"乌西雅就发怒，手拿香炉要烧香。他向祭司发怒的时候，在耶和华殿中香坛旁众祭司面前，额上忽然发出大麻风。",
     Eng:"Uzziah, who had a censer in his hand ready to burn incense, became angry. While he was raging at the priests in their presence before the incense altar in the LORD'S temple, leprosy broke out on his forehead.",
     Ind:"Tetapi Uzia, dengan bokor ukupan di tangannya untuk dibakar menjadi marah. Sementara amarahnya meluap terhadap para imam, timbullah penyakit kusta pada dahinya di hadapan para imam di rumah TUHAN, dekat mezbah pembakaran ukupan."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:20, Page:1,
-    Kor:"아사랴 대제사장과 다른 제사장들이 그를 살펴보고 그의 이마에 나병이 생긴 것을 확인하고, 그를 곧 그 곳에서 쫓아냈다. 주님께서 웃시야를 재앙으로 치셨으므로 그는 급히 나갔다.",
+    Kor:"아사랴 대제사장과 다른 제사장들이 그를 살펴보고 그의 이마에 나병이 생긴 것을 확인하고, 그를 곧 그 곳에서 쫓아냈다. 주께서 웃시야를 재앙으로 치셨으므로 그는 급히 나갔다.",
     Chn:"大祭司亚撒利雅和众祭司观看，见他额上发出大麻风，就催他出殿；他自己也急速出去，因为耶和华降灾与他。",
     Eng:"When Azariah the chief priest and all the other priests looked at him, they saw that he had leprosy on his forehead, so they hurried him out. Indeed, he himself was eager to leave, because the LORD had afflicted him.",
     Ind:"Imam kepala Azarya dan semua imam lainnya memandang kepadanya, dan sesungguhnya, ia sakit kusta pada dahinya. Cepat-cepat mereka mengusirnya dari sana, dan ia sendiri tergesa-gesa keluar, karena TUHAN telah menimpakan tulah kepadanya."
   },
   {Bible:"2Chronicles", Chapter:26, Verse:21, Page:1,
-    Kor:"○그는 죽는 날까지 나병을 앓았다. 주님의 성전을 출입하는 것도 허용되지 않았으므로, 나병환자인 그는 별궁에 격리되어 여생을 보냈다. 왕자 요담이 왕실을 관리하며 나라의 백성을 다스렸다.",
+    Kor:"○그는 죽는 날까지 나병을 앓았다. 주의 성전을 출입하는 것도 허용되지 않았으므로, 나병환자인 그는 별궁에 격리되어 여생을 보냈다. 왕자 요담이 왕실을 관리하며 나라의 백성을 다스렸다.",
     Chn:"乌西雅王长大麻风直到死日，因此住在别的宫里，与耶和华的殿隔绝。他儿子约坦管理家事，治理国民。",
     Eng:"King Uzziah had leprosy until the day he died. He lived in a separate house--leprous, and excluded from the temple of the LORD. Jotham his son had charge of the palace and governed the people of the land.",
     Ind:"Raja Uzia sakit kusta sampai kepada hari matinya, dan sebagai orang yang sakit kusta ia tinggal dalam sebuah rumah pengasingan, karena ia dikucilkan dari rumah TUHAN. Dan Yotam, anaknya, mengepalai istana raja dan menjalankan pemerintahan atas rakyat negeri itu."

@@ -3,19 +3,19 @@
 BibleDB.ref("Job",32,22);
 BibleDB.add([
   {Bible:"Job", Chapter:32, Verse:1, Page:1,
-    Kor:"<엘리후의 발언(32:1-37:24)> 욥이 끝내 자기가 옳다고 주장하므로, 이 세 사람은 욥을 설득하려고 하던 노력을 그만두었다.",
+    Kor:"욥이 끝내 자기가 옳다고 주장하므로, 이 세 사람은 욥을 설득하려고 하던 노력을 그만두었다.",
     Chn:"于是这三个人，因约伯自以为义就不再回答他。",
     Eng:"So these three men stopped answering Job, because he was righteous in his own eyes.",
     Ind:"Maka ketiga orang itu menghentikan sanggahan mereka terhadap Ayub, karena ia menganggap dirinya benar."
   },
   {Bible:"Job", Chapter:32, Verse:2, Page:1,
-    Kor:"욥이 이렇게 자기가 옳다고 주장하면서 모든 잘못을 하나님께 돌리므로, 옆에 서서 듣기만 하던 엘리후라는 사람은, 듣다 못하여 분을 더 이상 참지 못하고 화를 냈다. 엘리후는 람 족속에 속하는 부스 사람 바라겔의 아들이다.",
+    Kor:"욥이 이렇게, 자기가 옳다고 주장하면서 모든 잘못을 하나님께 돌리므로, 옆에 서서 듣기만 하던 엘리후라는 사람은, 듣다 못하여, 분을 더 이상 참지 못하고 화를 냈다. 엘리후는 람 족속에 속하는 부스 사람 바라겔의 아들이다.",
     Chn:"那时有布西人兰族巴拉迦的儿子以利户向约伯发怒；因约伯自以为义，不以　神为义。",
     Eng:"But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God.",
     Ind:"Lalu marahlah Elihu bin Barakheel, orang Bus, dari kaum Ram; ia marah terhadap Ayub, karena ia menganggap dirinya lebih benar dari pada Allah,"
   },
   {Bible:"Job", Chapter:32, Verse:3, Page:1,
-    Kor:"엘리후는 또 욥의 세 친구에게도 화를 냈다. a그 세 친구는 욥을 정죄하려고만 했지, 욥이 하는 말에 변변한 대답을 하지 못하였기 때문이다.(a 고대 히브리 서기관의 전통에는 '그 세 친구가 욥이 하는 말에 제대로 대답을 하지 못하였으므로, 결국 하나님께 잘못이 있는 것처럼 되었기 때문이다')",
+    Kor:"엘리후는 또 욥의 세 친구에게도 화를 냈다. 그 세 친구는 욥을 정죄하려고만 했지, 욥이 하는 말에 변변한 대답을 하지 못하였기 때문이다.",
     Chn:"他又向约伯的三个朋友发怒；因为他们想不出回答的话来，仍以约伯为有罪。",
     Eng:"He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him.",
     Ind:"dan ia juga marah terhadap ketiga orang sahabat itu, karena mereka mempersalahkan Ayub, meskipun tidak dapat memberikan sanggahan."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi setelah dilihatnya, bahwa mulut ketiga orang itu tidak lagi memberi sanggahan, maka marahlah ia."
   },
   {Bible:"Job", Chapter:32, Verse:6, Page:1,
-    Kor:"○부스 사람 바라겔의 아들 엘리후가 말하였다. 나<엘리후의 말> 는 어리고, b세 분께서는 이미 연로하십니다. 그래서 나는 어른들께 선뜻 나서서 내 견해를 밝히기를 망설였습니다. (b 히, 2인칭 복수. 이하 엘리후의 말 속에서도)",
+    Kor:"○부스 사람 바라겔의 아들 엘리후가 말하였다. 나는 어리고, 세 분께서는 이미 연로하십니다. 그래서 나는 어른들께 선뜻 나서서 내 견해를 밝히기를 망설였습니다.",
     Chn:"布西人巴拉迦的儿子以利户回答说： 我年轻，你们老迈； 因此我退让，不敢向你们陈说我的意见。",
     Eng:"So Elihu son of Barakel the Buzite said: \"I am young in years, and you are old; that is why I was fearful, not daring to tell you what I know.",
     Ind:"Lalu berbicaralah Elihu bin Barakheel, orang Bus itu: \"Aku masih muda dan kamu sudah berumur tinggi; oleh sebab itu aku malu dan takut mengemukakan pendapatku kepadamu."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Pikirku: Biarlah yang sudah lanjut usianya berbicara, dan yang sudah banyak jumlah tahunnya memaparkan hikmat."
   },
   {Bible:"Job", Chapter:32, Verse:8, Page:1,
-    Kor:"그러나 깨닫고 보니, 사람에게 슬기를 주는 것은 사람 안에 있는 영 곧 c전능하신 분의 입김이라는 것을 알았습니다. (c 히, '샤다이')",
+    Kor:"그러나 깨닫고 보니, 사람에게 슬기를 주는 것은 사람 안에 있는 영, 곧 전능하신 분의 입김이라는 것을 알았습니다.",
     Chn:"但在人里面有灵； 全能者的气使人有聪明。",
     Eng:"But it is the spirit in a man, the breath of the Almighty, that gives him understanding.",
     Ind:"Tetapi roh yang di dalam manusia, dan nafas Yang Mahakuasa, itulah yang memberi kepadanya pengertian."
   },
   {Bible:"Job", Chapter:32, Verse:9, Page:1,
-    Kor:"사람은 나이가 많아진다고 지혜로워지는 것이 아니며, 나이를 많이 먹는다고 시비를 더 잘 가리는 것도 아니라는 것을 알았습니다.",
+    Kor:"사람은, 나이가 많아진다고 지혜로워지는 것이 아니며, 나이를 많이 먹는다고 시비를 더 잘 가리는 것도 아니라는 것을 알았습니다.",
     Chn:"尊贵的不都有智慧； 寿高的不都能明白公平。",
     Eng:"It is not only the old who are wise, not only the aged who understand what is right.",
     Ind:"Bukan orang yang lanjut umurnya yang mempunyai hikmat, bukan orang yang sudah tua yang mengerti keadilan."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Ketahuilah, aku telah menantikan kata-katamu, aku telah memperhatikan pemikiranmu, hingga kamu menemukan kata-kata yang tepat."
   },
   {Bible:"Job", Chapter:32, Verse:12, Page:1,
-    Kor:"나는 세 분이 하시는 말씀을 주의 깊게 들었습니다. 그런데 세 분께서는 어느 한 분도, 욥 어른의 말을 반증하거나 어른의 말에 제대로 답변하지 못하셨습니다.",
+    Kor:"나는 세 분이 하시는 말씀을 주의 깊게 들었습니다. 그런데 세 분께서는 어느 한 분도, 욥의 말을 반증하거나 그의 말에 제대로 답변하지 못하셨습니다.",
     Chn:"留心听你们； 谁知你们中间无一人折服约伯， 驳倒他的话。",
     Eng:"I gave you my full attention. But not one of you has proved Job wrong; none of you has answered his arguments.",
     Ind:"Kepadamulah kupusatkan perhatianku, tetapi sesungguhnya, tiada seorangpun yang mengecam Ayub, tiada seorangpun di antara kamu menyanggah perkataannya."
   },
   {Bible:"Job", Chapter:32, Verse:13, Page:1,
-    Kor:"그러고서도 어떻게 지혜를 발견했다고 주장하실 수 있으십니까? 세 분께서 이 일에 실패하셨으니, 내가 이제 욥 어른으로 하여금 하나님의 대답을 들으시도록 하겠습니다.",
+    Kor:"그러고서도 어떻게 지혜를 발견했다고 주장하실 수 있으십니까? 세 분께서 이 일에 실패하셨으니, 내가 이제 욥 어른이 하나님의 대답을 듣도록 하겠습니다.",
     Chn:"你们切不可说：我们寻得智慧； 　神能胜他，人却不能。",
     Eng:"Do not say, 'We have found wisdom; let God refute him, not man.'",
     Ind:"Jangan berkata sekarang: Kami sudah mendapatkan hikmat; hanya Allah yang dapat mengalahkan dia, bukan manusia."

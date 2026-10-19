@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",4,34);
 BibleDB.add([
   {Bible:"1Kings", Chapter:4, Verse:1, Page:1,
-    Kor:"<솔로몬이 거느린 관리들> 솔로몬 왕이 온 이스라엘을 다스리는 왕이 되었을 때에,",
+    Kor:"솔로몬 왕이 온 이스라엘을 다스리는 왕이 되었을 때에,",
     Chn:"所罗门作以色列众人的王。",
     Eng:"So King Solomon ruled over all Israel.",
     Ind:"Maka Salomo menjadi raja atas seluruh Israel."
   },
   {Bible:"1Kings", Chapter:4, Verse:2, Page:1,
-    Kor:"그가 거느린 고급 관리들은 다음과 같다. ○사독의 아들 아사랴는 제사장이고,",
+    Kor:"그가 거느린 고급 관리들은 다음과 같다. ○사독의 아들 아사리아는 제사장이고,",
     Chn:"他的臣子记在下面：撒督的儿子亚撒利雅作祭司，",
     Eng:"And these were his chief officials: Azariah son of Zadok--the priest;",
     Ind:"Inilah para pembesarnya: Azarya bin Zadok menjadi imam;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Benaya bin Yoyada menjadi panglima; Zadok dan Abyatar menjadi imam."
   },
   {Bible:"1Kings", Chapter:4, Verse:5, Page:1,
-    Kor:"나단의 아들 아사랴는 관리를 지휘하는 장관이고, 나단의 아들 사붓은 제사장 겸 왕의 개인 자문관이고,",
+    Kor:"나단의 아들 아사리아는 관리를 지휘하는 장관이고, 나단의 아들 사붓은 제사장 겸 왕의 개인 자문관이고,",
     Chn:"拿单的儿子亚撒利雅作众吏长，王的朋友拿单的儿子撒布得作领袖，",
     Eng:"Azariah son of Nathan--in charge of the district officers; Zabud son of Nathan--a priest and personal adviser to the king;",
     Ind:"Azarya bin Natan mengawasi para kepala daerah; Zabut bin Natan, seorang imam, menjadi sahabat raja;"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Ahisar menjadi kepala istana; Adoniram bin Abda menjadi kepala rodi."
   },
   {Bible:"1Kings", Chapter:4, Verse:7, Page:1,
-    Kor:"○솔로몬은 온 이스라엘 지역에다가, 관리를 지휘하는 장관 열둘을 두었는데, 그들은 각각 한 사람이 한 해에 한 달씩, 왕과 왕실에서 쓸 먹거리를 대는 책임을 졌다.",
+    Kor:"○솔로몬은 온 이스라엘 지역에다가, 관리를 지휘하는 장관 열둘을 두었는데, 그들은 각각 한 사람이 한 해에 한 달씩, 왕과 왕실에서 쓸 먹을거리를 대는 책임을 졌다.",
     Chn:"所罗门在以色列全地立了十二个官吏，使他们供给王和王家的食物，每年各人供给一月。",
     Eng:"Solomon also had twelve district governors over all Israel, who supplied provisions for the king and the royal household. Each one had to provide supplies for one month in the year.",
     Ind:"Salomo mempunyai dua belas orang kepala daerah atas seluruh Israel yang harus menjamin makanan raja dan seisi istananya: adalah tanggungan tiap-tiap kepala daerah untuk menjamin makanan selama sebulan dalam setahun."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Ben-Hesed di Arubot; wilayahnya ialah Sokho dan seluruh tanah Hefer;"
   },
   {Bible:"1Kings", Chapter:4, Verse:11, Page:1,
-    Kor:"a돌의 고지대 전 지역은 벤아비나답이 맡았는데, 그는 솔로몬의 딸 다밧의 남편이다.(a 또는 '나봇 돌')",
+    Kor:"돌의 고지대 전 지역은 벤아비나답이 맡았는데, 그는 솔로몬의 딸 다밧의 남편이다.",
     Chn:"在多珥山冈有便·亚比拿达，他娶了所罗门的女儿她法为妻；",
     Eng:"Ben-Abinadab--in Naphoth Dor (he was married to Taphath daughter of Solomon);",
     Ind:"Ben-Abinadab memegang seluruh tanah bukit Dor, dan Tafat binti Salomo menjadi isterinya;"
   },
   {Bible:"1Kings", Chapter:4, Verse:12, Page:1,
-    Kor:"다아낙과 므깃도와 이스르엘 아래 사르단 옆에 있는 벳산 전 지역과 저 멀리 아벨므홀라와 욕느암에 이르는 지역은 아힐룻의 아들 바아나가 맡았다.",
+    Kor:"다아낙과 므깃도와 이스르엘 아래 사르단 옆에 있는 벳스안 전 지역과 저 멀리 아벨므홀라와 욕느암에 이르는 지역은 아힐룻의 아들 바아나가 맡았다.",
     Chn:"在他纳和米吉多，并靠近撒拉他拿、耶斯列下边的伯·善全地，从伯·善到亚伯·米何拉直到约念之外，有亚希律的儿子巴拿；",
     Eng:"Baana son of Ahilud--in Taanach and Megiddo, and in all of Beth Shan next to Zarethan below Jezreel, from Beth Shan to Abel Meholah across to Jokmeam;",
     Ind:"Baana bin Ahilud memegang Taanakh, Megido dan seluruh Bet-Sean yang di sebelah Sartan di sebelah hilir Yizreel, dari Bet-Sean sampai Abel-Mehola sampai ke seberang Yokmeam."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Geber bin Uri di tanah Gilead memegang tanah Sihon, raja orang Amori, dan tanah Og, raja Basan; dan dialah satu-satunya kepala daerah yang ada di tanah itu."
   },
   {Bible:"1Kings", Chapter:4, Verse:20, Page:1,
-    Kor:"<솔로몬의 영화> ○유다와 이스라엘에는 인구가 늘어나서, 마치 바닷가의 모래알처럼 사람이 많아졌지만, 먹고 마시는 것에 모자람이 없었으므로, 백성들이 잘 지냈다.",
+    Kor:"○유다와 이스라엘에는 인구가 늘어나서, 마치 바닷가의 모래알처럼 사람이 많아졌지만, 먹고 마시는 것에 모자람이 없었으므로, 백성들이 잘 지냈다.",
     Chn:"犹大人和以色列人如同海边的沙那样多，都吃喝快乐。",
     Eng:"The people of Judah and Israel were as numerous as the sand on the seashore; they ate, they drank and they were happy.",
     Ind:"Orang Yehuda dan orang Israel jumlahnya seperti pasir di tepi laut. Mereka makan dan minum serta bersukaria."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Maka Salomo berkuasa atas segala kerajaan mulai dari sungai Efrat sampai negeri orang Filistin dan sampai ke tapal batas Mesir. Mereka menyampaikan upeti dan tetap takluk kepada Salomo seumur hidupnya."
   },
   {Bible:"1Kings", Chapter:4, Verse:22, Page:1,
-    Kor:"○솔로몬이 쓰는 하루 먹거리는 잘 빻은 밀가루 서른 섬과 거친 밀가루 예순 섬과",
+    Kor:"○솔로몬이 쓰는 하루 먹을거리는 잘 빻은 밀가루 서른 섬과 거친 밀가루 예순 섬과",
     Chn:"所罗门每日所用的食物：细面三十歌珥，粗面六十歌珥，",
     Eng:"Solomon's daily provisions were thirty cors of fine flour and sixty cors of meal,",
     Ind:"Adapun persediaan makanan yang diperlukan Salomo untuk sehari ialah tiga puluh kor tepung yang terbaik dan enam puluh kor tepung biasa,"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"sepuluh ekor lembu gemukan dan dua puluh lembu gembalaan dan seratus ekor domba, belum terhitung rusa, kijang, rusa dandi dan gangsa piaraan,"
   },
   {Bible:"1Kings", Chapter:4, Verse:24, Page:1,
-    Kor:"○솔로몬은 유프라테스 강 이쪽에 있는 모든 지역 곧 딥사에서부터 가사에 이르기까지, 유프라테스 강 서쪽의 모든 왕을 다스리며, 주위의 모든 민족과 평화를 유지하였다.",
+    Kor:"○솔로몬은 유프라테스 강 이쪽에 있는 모든 지역, 곧 딥사에서부터 가사에 이르기까지, 유프라테스 강 서쪽의 모든 왕을 다스리며, 주위의 모든 민족과 평화를 유지하였다.",
     Chn:"所罗门管理大河西边的诸王，以及从提弗萨直到迦萨的全地，四境尽都平安。",
     Eng:"For he ruled over all the kingdoms west of the River, from Tiphsah to Gaza, and had peace on all sides.",
     Ind:"sebab ia berkuasa atas seluruh tanah di sebelah sini sungai Efrat, mulai dari Tifsah sampai ke Gaza, dan atas semua raja di sebelah sini sungai Efrat; ia dikaruniai damai di seluruh negerinya,"
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"sehingga orang Yehuda dan orang Israel diam dengan tenteram, masing-masing di bawah pohon anggur dan pohon aranya, dari Dan sampai Bersyeba seumur hidup Salomo."
   },
   {Bible:"1Kings", Chapter:4, Verse:26, Page:1,
-    Kor:"○솔로몬은 전차를 끄는 말을 두는 마구간 b사만 칸과 군마 만 이천 필을 가지고 있었다.(b 몇몇 칠십인역 사본에는 '사천')",
+    Kor:"○솔로몬은 전차를 끄는 말을 두는 마구간 사만 칸과 군마 만 이천 필을 가지고 있었다.",
     Chn:"所罗门有套车的马四万，还有马兵一万二千。",
     Eng:"Solomon had four thousand stalls for chariot horses, and twelve thousand horses.",
     Ind:"Lagipula Salomo mempunyai kuda empat puluh ribu kandang untuk kereta-keretanya dan dua belas ribu orang berkuda."
   },
   {Bible:"1Kings", Chapter:4, Verse:27, Page:1,
-    Kor:"그리고 솔로몬의 관리들은 각자 자기가 책임진 달에, 솔로몬 왕과 솔로몬 왕의 식탁에 참석하는 모든 사람이 먹을 수 있도록, 부족하지 않게 먹거리를 조달하였다.",
+    Kor:"그리고 솔로몬의 관리들은 각자 자기가 책임진 달에, 솔로몬 왕과 솔로몬 왕의 식탁에 참석하는 모든 사람이 먹을 수 있도록, 부족하지 않게 먹을거리를 조달하였다.",
     Chn:"那十二个官吏各按各月供给所罗门王，并一切与他同席之人的食物，一无所缺。",
     Eng:"The district officers, each in his month, supplied provisions for King Solomon and all who came to the king's table. They saw to it that nothing was lacking.",
     Ind:"Dan para kepala daerah itu menjamin makanan raja Salomo serta semua orang yang ikut makan dari meja raja Salomo. Mereka membawanya masing-masing dalam bulan gilirannya dengan tidak mengurangi sesuatu apapun."
   },
   {Bible:"1Kings", Chapter:4, Verse:28, Page:1,
-    Kor:"또한 군마와 역마에게 먹일 보리와 보리짚도 각각 자기의 분담량에 따라서, 말이 있는 곳으로 가져 왔다.",
+    Kor:"또한 군마와 역마에게 먹일 보리와 볏짚도 각각 자기의 분담량에 따라서, 말이 있는 곳으로 가져 왔다.",
     Chn:"众人各按各分，将养马与快马的大麦和干草送到官吏那里。",
     Eng:"They also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses.",
     Ind:"Jelai dan jerami untuk kuda-kuda biasa dan kuda-kuda teji dibawa mereka ke tempat yang semestinya, masing-masing menurut tanggungannya."

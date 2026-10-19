@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",34,31);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:34, Verse:1, Page:1,
-    Kor:"<이스라엘의 목자들> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:34, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 이스라엘의 목자들을 쳐서 예언하여라. 너는 그 목자들을 쳐서 예언하여라. ○'나 주 하나님이 이렇게 말한다. 자기 자신만을 돌보는 이스라엘의 목자들에게 화가 있을 것이다! 목자들이란 양 떼를 먹이는 사람들이 아니냐?",
+    Kor:"\"사람아, 너는 이스라엘의 목자들을 규탄하여 예언하여라. 너는 그 목자들을 규탄하여 예언을 전하여라. '나 주 하나님이 이렇게 말한다. 자기 자신만을 돌보는 이스라엘의 목자들에게 화가 있을 것이다! 목자들이란 양 떼를 먹이는 사람들이 아니냐?",
     Chn:"「人子啊，你要向以色列的牧人发预言，攻击他们，说，主耶和华如此说：祸哉！以色列的牧人只知牧养自己。牧人岂不当牧养群羊吗？",
     Eng:"\"Son of man, prophesy against the shepherds of Israel; prophesy and say to them: 'This is what the Sovereign LORD says: Woe to the shepherds of Israel who only take care of themselves! Should not shepherds take care of the flock?",
     Ind:"\"Hai anak manusia, bernubuatlah melawan gembala-gembala Israel, bernubuatlah dan katakanlah kepada mereka, kepada gembala-gembala itu: Beginilah firman Tuhan ALLAH: Celakalah gembala-gembala Israel, yang menggembalakan dirinya sendiri! Bukankah domba-domba yang seharusnya digembalakan oleh gembala-gembala itu?"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu, hai gembala-gembala, dengarlah firman TUHAN:"
   },
   {Bible:"Ezekiel", Chapter:34, Verse:8, Page:1,
-    Kor:"나 주 하나님의 말이다. 내가 나의 삶을 두고 맹세한다. 내 양 떼가 약탈을 당하고, 참으로 내 양 떼가 온갖 들짐승에게 공격을 당하고 살육당하여 그것들의 먹이가 된 것은, 목자가 없기 때문이다. 내 목자들이라고 하는 자들은 내 양 떼를 찾으려고 나서지 않았다. 그 목자들은 양 떼를 잡아서 자기들의 배만 채우고, 내 양 떼는 굶겼다.",
+    Kor:"나 주 하나님의 말이다. 내가 나의 삶을 두고 맹세한다. 내 양 떼가 약탈을 당하고, 참으로 내 양 떼가 온갖 들짐승에게 공격을 당하고 살육당하여 그것들의 먹이가 된 것은, 목자가 없기 때문이다. 내 목자들이라고 하는 자들은 내 양 떼를 찾으려고 나서지 않았다. 그 목자들은 양 떼를 잡아서 자기들의 배만 채우고, 내 양 떼는굶겼다.",
     Chn:"主耶和华说：我指着我的永生起誓，我的羊因无牧人就成为掠物，也作了一切野兽的食物。我的牧人不寻找我的羊；这些牧人只知牧养自己，并不牧养我的羊。",
     Eng:"As surely as I live, declares the Sovereign LORD, because my flock lacks a shepherd and so has been plundered and has become food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,",
     Ind:"Demi Aku yang hidup, demikianlah firman Tuhan ALLAH, sesungguhnya oleh karena domba-domba-Ku menjadi mangsa dan menjadi makanan bagi segala binatang di hutan, lantaran yang menggembalakannya tidak ada, oleh sebab gembala-gembala-Ku tidak memperhatikan domba-domba-Ku, melainkan mereka itu menggembalakan dirinya sendiri, tetapi domba-domba-Ku tidak digembalakannya--"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Beginilah firman Tuhan ALLAH: Aku sendiri akan menjadi lawan gembala-gembala itu dan Aku akan menuntut kembali domba-domba-Ku dari mereka dan akan memberhentikan mereka menggembalakan domba-domba-Ku. Gembala-gembala itu tidak akan terus lagi menggembalakan dirinya sendiri; Aku akan melepaskan domba-domba-Ku dari mulut mereka, sehingga tidak terus lagi menjadi makanannya."
   },
   {Bible:"Ezekiel", Chapter:34, Verse:11, Page:1,
-    Kor:"<하나님은 선한 목자> ○\"참으로 나 주 하나님이 말한다. 내가 나의 양 떼를 찾아서 돌보아 주겠다.",
+    Kor:"○\"참으로 나 주 하나님이 말한다. 내가 나의 양 떼를 찾아서 돌보아 주겠다.",
     Chn:"「主耶和华如此说：看哪，我必亲自寻找我的羊，将它们寻见。",
     Eng:"\"'For this is what the Sovereign LORD says: I myself will search for my sheep and look after them.",
     Ind:"Sebab beginilah firman Tuhan ALLAH: Dengan sesungguhnya Aku sendiri akan memperhatikan domba-domba-Ku dan akan mencarinya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Aku akan membawa mereka keluar dari tengah bangsa-bangsa dan mengumpulkan mereka dari negeri-negeri dan membawa mereka ke tanahnya; Aku akan menggembalakan mereka di atas gunung-gunung Israel, di alur-alur sungainya dan di semua tempat kediaman orang di tanah itu."
   },
   {Bible:"Ezekiel", Chapter:34, Verse:14, Page:1,
-    Kor:"기름진 초원에서 내가 그들을 먹이고, 이스라엘의 높은 산 위에 그들의 목장을 만들어 주겠다. 그들이 거기 좋은 목장에서 누우며, 이스라엘의 산 위에서 좋은 풀을 뜯어 먹을 것이다.",
+    Kor:"좋은 초원에서 내가 그들을 먹이고, 이스라엘의 높은 산 위에 그들의 목장을 만들어 주겠다. 그들이 거기 좋은 목장에서 누우며, 이스라엘의 산 위에서 좋은 풀을 뜯어 먹을 것이다.",
     Chn:"我必在美好的草场牧养它们。它们的圈必在以色列高处的山上，它们必在佳美之圈中躺卧，也在以色列山肥美的草场吃草。",
     Eng:"I will tend them in a good pasture, and the mountain heights of Israel will be their grazing land. There they will lie down in good grazing land, and there they will feed in a rich pasture on the mountains of Israel.",
     Ind:"Di padang rumput yang baik akan Kugembalakan mereka dan di atas gunung-gunung Israel yang tinggi di situlah tempat penggembalaannya; di sana di tempat penggembalaan yang baik mereka akan berbaring dan rumput yang subur menjadi makanannya di atas gunung-gunung Israel."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Pohon-pohon di ladang akan memberi buahnya dan tanah itu akan memberi hasilnya. Mereka akan hidup aman tenteram di tanahnya. Mereka akan mengetahui, bahwa Akulah TUHAN, pada saat Aku mematahkan kayu kuk mereka dan melepaskan mereka dari tangan orang yang memperbudak mereka."
   },
   {Bible:"Ezekiel", Chapter:34, Verse:28, Page:1,
-    Kor:"그들이 다시는 다른 나라에게 약탈을 당하지 않으며, 그 땅의 짐승들에게 잡혀 먹히지도 않을 것이다. 그들이 평안히 살고, 놀랄 일이 전혀 없을 것이다.",
+    Kor:"그들이 다시는 다른 나라에게 약탈을 당하지 않으며, 그 땅의 짐승들에게 잡아 먹히지도 않을 것이다. 그들이 평안히 살고, 놀랄 일이 전혀 없을 것이다.",
     Chn:"他们必不再作外邦人的掠物，地上的野兽也不再吞吃他们；却要安然居住，无人惊吓。",
     Eng:"They will no longer be plundered by the nations, nor will wild animals devour them. They will live in safety, and no one will make them afraid.",
     Ind:"Mereka tidak lagi menjadi jarahan bagi bangsa-bangsa dan binatang liar tidak akan menerkam mereka, sehingga mereka akan diam dengan aman tenteram dengan tidak dikejutkan oleh apapun."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Dan mereka akan mengetahui bahwa Aku, TUHAN, Allah mereka, menyertai mereka dan mereka, kaum Israel, adalah umat-Ku, demikianlah firman Tuhan ALLAH."
   },
   {Bible:"Ezekiel", Chapter:34, Verse:31, Page:1,
-    Kor:"○너희는 내 양 떼요, 내 목장의 양 떼다. a너희는 사람이요, 나는 너희의 하나님이다. 나 주 하나님의 말이다.\"(a 칠십인역과 고대 라틴어역에는 '너희는 사람이요'가 없음)",
+    Kor:"○너희는 내 양 떼요, 내 목장의 양 떼다. 너희는 사람이요, 나는 너희의 하나님이다. 나 주 하나님의 말이다.\"",
     Chn:"你们作我的羊，我草场上的羊，乃是以色列人，我也是你们的　神。这是主耶和华说的。」",
     Eng:"You my sheep, the sheep of my pasture, are people, and I am your God, declares the Sovereign LORD.'\"",
     Ind:"Kamu adalah domba-domba-Ku, domba gembalaan-Ku, dan Aku adalah Allahmu, demikianlah firman Tuhan ALLAH.\""

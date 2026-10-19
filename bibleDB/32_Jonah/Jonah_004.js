@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Tetapi hal itu sangat mengesalkan hati Yunus, lalu marahlah ia."
   },
   {Bible:"Jonah", Chapter:4, Verse:2, Page:1,
-    Kor:"그는 주님께 기도하며 아뢰었다. \"주님, 내가 고국에 있을 때에 이렇게 될 것이라고 이미 말씀드리지 않았습니까? 내가 서둘러 a스페인으로 달아났던 것도 바로 이것 때문입니다. 하나님은 은혜로우시며 자비로우시며 좀처럼 노하지 않으시며 사랑이 한없는 분이셔서, 내리시려던 재앙마저 거두실 것임을 내가 알고 있었기 때문입니다.(a 히, '다시스')",
+    Kor:"그는 주께 기도하며 아뢰었다. \"주님, 내가 고국에 있을 때에 이렇게 될 것이라고 이미 말씀드리지 않았습니까? 내가 서둘러 다시스로 달아났던 것도 바로 이것 때문입니다. 하나님은 은혜로우시며 자비로우시며 좀처럼 노하지 않으시며 사랑이 한없는 분이셔서, 내리시려던 재앙마저 거두실 것임을 내가 알고 있었기 때문입니다.",
     Chn:"就祷告耶和华说：「耶和华啊，我在本国的时候岂不是这样说吗？我知道你是有恩典、有怜悯的　神，不轻易发怒，有丰盛的慈爱，并且后悔不降所说的灾，所以我急速逃往他施去。",
     Eng:"He prayed to the LORD, \"O LORD, is this not what I said when I was still at home? That is why I was so quick to flee to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity.",
     Ind:"Dan berdoalah ia kepada TUHAN, katanya: \"Ya TUHAN, bukankah telah kukatakan itu, ketika aku masih di negeriku? Itulah sebabnya, maka aku dahulu melarikan diri ke Tarsis, sebab aku tahu, bahwa Engkaulah Allah yang pengasih dan penyayang, yang panjang sabar dan berlimpah kasih setia serta yang menyesal karena malapetaka yang hendak didatangkan-Nya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Jadi sekarang, ya TUHAN, cabutlah kiranya nyawaku, karena lebih baik aku mati dari pada hidup.\""
   },
   {Bible:"Jonah", Chapter:4, Verse:4, Page:1,
-    Kor:"○주님께서는 \"네가 화를 내는 것이 옳으냐?\" 하고 책망하셨다.",
+    Kor:"○주께서는 \"네가 화를 내는 것이 옳으냐?\" 하고 책망하셨다.",
     Chn:"耶和华说：「你这样发怒合乎理吗？」",
     Eng:"But the LORD replied, \"Have you any right to be angry?\"",
     Ind:"Tetapi firman TUHAN: \"Layakkah engkau marah?\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Yunus telah keluar meninggalkan kota itu dan tinggal di sebelah timurnya. Ia mendirikan di situ sebuah pondok dan ia duduk di bawah naungannya menantikan apa yang akan terjadi atas kota itu."
   },
   {Bible:"Jonah", Chapter:4, Verse:6, Page:1,
-    Kor:"주 하나님이 b박 넝쿨을 마련하셨다. 주님께서는, 그것이 자라올라 요나의 머리 위에 그늘이 지게 하여, 그를 편안하게 해주셨다. 박 넝쿨 때문에 요나는 기분이 무척 좋았다.(b 히, '키카욘'. 덩굴 종류의 식물. '아주까리'로 알려지기도 함)",
+    Kor:"주 하나님이 박 넝쿨을 마련하셨다. 주께서는, 그것이 자라올라 요나의 머리 위에 그늘이 지게 하여, 그를 편안하게 해주셨다. 박 넝쿨 때문에 요나는 기분이 무척 좋았다.",
     Chn:"耶和华　神安排一棵蓖麻，使其发生高过约拿，影儿遮盖他的头，救他脱离苦楚；约拿因这棵蓖麻大大喜乐。",
     Eng:"Then the LORD God provided a vine and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the vine.",
     Ind:"Lalu atas penentuan TUHAN Allah tumbuhlah sebatang pohon jarak melampaui kepala Yunus untuk menaunginya, agar ia terhibur dari pada kekesalan hatinya. Yunus sangat bersukacita karena pohon jarak itu."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Tetapi berfirmanlah Allah kepada Yunus: \"Layakkah engkau marah karena pohon jarak itu?\" Jawabnya: \"Selayaknyalah aku marah sampai mati.\""
   },
   {Bible:"Jonah", Chapter:4, Verse:10, Page:1,
-    Kor:"주님께서 말씀하셨다. \"네가 수고하지도 않았고, 네가 키운 것도 아니며, 그저 하룻밤 사이에 자라났다가 하룻밤 사이에 죽어 버린 이 식물을 네가 그처럼 아까워하는데,",
+    Kor:"주께서 말씀하셨다. \"네가 수고하지도 않았고, 네가 키운 것도 아니며, 그저 하룻밤 사이에 자라났다가 하룻밤 사이에 죽어 버린 이 식물을 네가 그처럼 아까워하는데,",
     Chn:"耶和华说：「这蓖麻不是你栽种的，也不是你培养的；一夜发生，一夜干死，你尚且爱惜；",
     Eng:"But the LORD said, \"You have been concerned about this vine, though you did not tend it or make it grow. It sprang up overnight and died overnight.",
     Ind:"Lalu Allah berfirman: \"Engkau sayang kepada pohon jarak itu, yang untuknya sedikitpun engkau tidak berjerih payah dan yang tidak engkau tumbuhkan, yang tumbuh dalam satu malam dan binasa dalam satu malam pula."

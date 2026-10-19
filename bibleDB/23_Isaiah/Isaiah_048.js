@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",48,22);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:48, Verse:1, Page:1,
-    Kor:"<하나님께서 새 일을 약속하시다> 야곱의 집안아, 이스라엘이라 일컬음을 받는 유다의 자손아, 주님의 이름을 두고 맹세를 하고 이스라엘의 하나님을 섬긴다고는 하지만, 진실이나 공의라고는 전혀 없는 자들아, 이 말을 들어라.",
+    Kor:"야곱의 집안아, 이스라엘이라 일컬음을 받는 유다의 자손아, 주의 이름을 두고 맹세를 하고 이스라엘의 하나님을 섬긴다고는 하지만, 진실이나 공의라고는 전혀 없는 자들아, 이 말을 들어라.",
     Chn:"雅各家，称为以色列名下， 从犹大水源出来的，当听我言！ 你们指着耶和华的名起誓， 提说以色列的　神， 却不凭诚实，不凭公义。",
     Eng:"\"Listen to this, O house of Jacob, you who are called by the name of Israel and come from the line of Judah, you who take oaths in the name of the LORD and invoke the God of Israel--but not in truth or righteousness--",
     Ind:"Dengarlah firman ini, hai kaum keturunan Yakub, yang menyebutkan dirinya dengan nama Israel dan yang adalah keturunan Yehuda, yang bersumpah demi nama TUHAN dan mengakui Allah Israel--tetapi bukan dengan sungguh-sungguh dan dengan tulus hati--"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"maka Aku memberitahukannya kepadamu dari sejak dahulu; sebelum hal itu menjadi kenyataan, Aku mengabarkannya kepadamu, supaya jangan engkau berkata: Berhalaku yang melakukannya, patung pahatanku dan patung tuanganku yang memerintahkannya."
   },
   {Bible:"Isaiah", Chapter:48, Verse:6, Page:1,
-    Kor:"네가 이미 들었으니, 이 모든 것을 똑똑히 보아라. 네가 인정하지 않겠느냐? 이제 내가 곧 일어날 새 일을 네게 알려 줄 터이니, 이것은 내가 네게 알려 주지 않은 은밀한 일이다.",
+    Kor:"네가 이미 들었으니, 이 모든 것을 똑똑히 보아라. 네가 인정하지 않겠느냐? 이제 내가 곧 일어날 일을 네게 알려 줄 터이니, 이것은 내가 네게 알려 주지 않은 은밀한 일이다.",
     Chn:"你已经听见，现在要看见这一切； 你不说明吗？ 从今以后，我将新事， 就是你所不知道的隐密事指示你。",
     Eng:"You have heard these things; look at them all. Will you not admit them? \"From now on I will tell you of new things, of hidden things unknown to you.",
     Ind:"Engkau telah mendengar semuanya itu dan sekarang engkau harus melihatnya; tidakkah kamu sendiri mau mengakuinya? Aku mengabarkan kepadamu hal-hal yang baru dari sejak sekarang, dan hal-hal yang tersimpan yang belum kauketahui."
   },
   {Bible:"Isaiah", Chapter:48, Verse:7, Page:1,
-    Kor:"이것은 이제 내가 창조한 일이다. 옛적에 일어난 것과는 다르다. 지금까지 네가 들어 본 일이 없는 일이다. 네가 전에 이것을 들었더라면 '아, 바로 그 일, 내가 이미 알고 있었다!' 하고 말할 수 있겠지만, 이번 일만은 그렇지 않다.",
+    Kor:"이것은 이제 비로소 내가 일으킬 일이다. 옛적에 일어난 것과는 다르다. 지금까지 네가 들어 본 일이 없는 일이다. 네가 전에 들었더라면 '아, 바로 그 일, 내가 이미 알고 있는 일!' 하고 말할 수 있었겠지만, 이번 일만은 그렇지 않다.",
     Chn:"这事是现今造的，并非从古就有； 在今日以先，你也未曾听见， 免得你说：这事我早已知道了。",
     Eng:"They are created now, and not long ago; you have not heard of them before today. So you cannot say, 'Yes, I knew of them.'",
     Ind:"Baru sekarang hal-hal itu diciptakan dan bukan dari sejak dahulu, dan sebelumnya engkau tidak mendengarnya, supaya jangan engkau berkata: Memang aku telah mengetahuinya!"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Oleh karena nama-Ku Aku menahan amarah-Ku dan oleh karena kemasyhuran-Ku Aku mengasihani engkau, sehingga Aku tidak melenyapkan engkau."
   },
   {Bible:"Isaiah", Chapter:48, Verse:10, Page:1,
-    Kor:"보아라, 내가 너를 단련시켰으나, 은처럼 정련하지 않고, 오히려 a고난의 풀무질로 달구어 너를 시험하였다. (a 또는 '고난의 화덕에 넣어서')",
+    Kor:"보아라, 내가 너를 단련시켰으나, 은처럼 정련하지 않고, 오히려 고난의 풀무질로 달구어 너를 시험하였다.",
     Chn:"我熬炼你，却不像熬炼银子； 你在苦难的炉中，我拣选你。",
     Eng:"See, I have refined you, though not as silver; I have tested you in the furnace of affliction.",
     Ind:"Sesungguhnya, Aku telah memurnikan engkau, namun bukan seperti perak, tetapi Aku telah menguji engkau dalam dapur kesengsaraan."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Aku akan melakukannya oleh karena Aku, ya oleh karena Aku sendiri, sebab masakan nama-Ku akan dinajiskan? Aku tidak akan memberikan kemuliaan-Ku kepada yang lain!\""
   },
   {Bible:"Isaiah", Chapter:48, Verse:12, Page:1,
-    Kor:"야곱아, 내가 불러낸 이스라엘아, 내가 하는 말을 들어라. 내가 바로 그다. b내가 곧 시작이요 마감이다. (b 또는 '시작하는 것도 나요, 마감하는 것도 나다')",
+    Kor:"야곱아, 내가 불러낸 이스라엘아, 내가 하는 말을 들어라. 내가 바로 그다. 내가 곧 시작이요 마감이다.",
     Chn:"雅各—我所选召的以色列啊， 当听我言： 我是耶和华， 我是首先的，也是末后的。",
     Eng:"\"Listen to me, O Jacob, Israel, whom I have called: I am he; I am the first and I am the last.",
     Ind:"\"Dengarkanlah Aku, hai Yakub, dan engkau Israel yang Kupanggil! Akulah yang tetap sama, Akulah yang terdahulu, Akulah juga yang terkemudian!"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Tangan-Ku juga meletakkan dasar bumi, dan tangan kanan-Ku membentangkan langit. Ketika Aku menyebut namanya, semuanya bermunculan."
   },
   {Bible:"Isaiah", Chapter:48, Verse:14, Page:1,
-    Kor:"<주님께서 고레스를 선택하시다> 너희는 모두 함께 모여서 들어 보아라. 우상들 가운데서 누가 이런 일들을 알려 준 일이 있었느냐? 주님께서 그를 사랑하시니, 그가 바빌론을 공격하여 주님의 뜻을 이루어 드리고, 그의 능력을 c바빌로니아 사람 앞에서 드러낼 것이다.",
+    Kor:"너희는 모두 함께 모여서 들어 보아라. 우상들 가운데서 누가 이런 일들을 알려 준 일이 있었느냐? 주께서 그를 사랑하시니, 그가 바빌론을 공격하여 주의 뜻을 이루어 드리고, 그의 능력을 바빌로니아 사람 앞에서 드러낼 것이다.",
     Chn:"你们都当聚集而听， 他们内中谁说过这些事？ 耶和华所爱的人必向巴比伦行他所喜悦的事； 他的膀臂也要加在迦勒底人身上。",
     Eng:"\"Come together, all of you, and listen: Which of the idols has foretold these things? The LORD'S chosen ally will carry out his purpose against Babylon; his arm will be against the Babylonians.",
     Ind:"Berhimpunlah kamu sekalian dan dengarlah! Siapakah di antara mereka memberitahukan semuanya ini? Dia yang dikasihi TUHAN akan melaksanakan kehendak TUHAN terhadap Babel dan menunjukkan kekuatan tangan TUHAN kepada orang Kasdim."
   },
   {Bible:"Isaiah", Chapter:48, Verse:15, Page:1,
-    Kor:"\"내가 말하였고, 내가 그를 불러냈다. 내가 그를 오게 하였으니, 내가 그 길을 형통하게 하겠다.",
+    Kor:"\"나, 곧 내가 말하였고, 내가 그를 불러냈다. 내가 그를 오게 하였으니, 내가 그 길을 형통하게 하겠다.",
     Chn:"惟有我曾说过，我又选召他， 领他来，他的道路就必亨通。",
     Eng:"I, even I, have spoken; yes, I have called him. I will bring him, and he will succeed in his mission.",
     Ind:"Aku, Akulah yang mengatakannya dan yang memanggil dia juga, Akulah yang mendatangkan dia, dan segala usahanya akan berhasil."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Mendekatlah kepada-Ku, dengarlah ini: Dari dahulu tidak pernah Aku berkata dengan sembunyi dan pada waktu hal itu terjadi Aku ada di situ.\" Dan sekarang, Tuhan ALLAH mengutus aku dengan Roh-Nya."
   },
   {Bible:"Isaiah", Chapter:48, Verse:17, Page:1,
-    Kor:"<백성을 보살피시는 하나님의 계획> 주, 너의 속량자, '이스라엘의 거룩하신 분'께서 이르시기를 '나는 주, 네 하나님이다. 네게 유익하도록 너를 가르치며, 네가 마땅히 걸어야 할 길로 너를 인도하는 하나님이다' 하셨다.",
+    Kor:"주, 너의 속량자, 이스라엘의 거룩하신 분께서 이르시기를 '나는 주, 네 하나님이다. 네게 유익하도록 너를 가르치며, 네가 마땅히 걸어야 할 길로 너를 인도하는 하나님이다' 하셨다.",
     Chn:"耶和华—你的救赎主， 以色列的圣者如此说： 我是耶和华—你的　神， 教训你，使你得益处， 引导你所当行的路。",
     Eng:"This is what the LORD says--your Redeemer, the Holy One of Israel: \"I am the LORD your God, who teaches you what is best for you, who directs you in the way you should go.",
     Ind:"Beginilah firman TUHAN, Penebusmu, Yang Mahakudus, Allah Israel: \"Akulah TUHAN, Allahmu, yang mengajar engkau tentang apa yang memberi faedah, yang menuntun engkau di jalan yang harus kautempuh."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"maka keturunanmu akan seperti pasir dan anak cucumu seperti kersik banyaknya; nama mereka tidak akan dilenyapkan atau ditiadakan dari hadapan-Ku.\""
   },
   {Bible:"Isaiah", Chapter:48, Verse:20, Page:1,
-    Kor:"너희는 바빌론에서 나오너라. c바빌로니아 사람들에게서 도망하여라. 그리고 '주님께서 그의 종 야곱을 속량하셨다' 하고, 즐겁게 소리를 높여서 알려라. 이 소식이 땅 끝까지 미치도록 들려주어라. (c 또는 '갈대아')",
+    Kor:"너희는 바빌론에서 나오너라. 바빌로니아 사람들에게서 도망하여라. 그리고 '주께서 그의 종 야곱을 속량하셨다' 하고, 즐겁게 소리를 높여서 알려라. 이 소식이 땅 끝까지 미치도록 들려주어라.",
     Chn:"你们要从巴比伦出来， 从迦勒底人中逃脱， 以欢呼的声音传扬说： 耶和华救赎了他的仆人雅各！ 你们要将这事宣扬到地极。",
     Eng:"Leave Babylon, flee from the Babylonians! Announce this with shouts of joy and proclaim it. Send it out to the ends of the earth; say, \"The LORD has redeemed his servant Jacob.\"",
     Ind:"Keluarlah dari Babel, larilah dari Kasdim! Beritahukanlah dengan suara sorak-sorai dan kabarkanlah hal ini! Siarkanlah itu sampai ke ujung bumi! Katakanlah: \"TUHAN telah menebus Yakub, hamba-Nya!\""
   },
   {Bible:"Isaiah", Chapter:48, Verse:21, Page:1,
-    Kor:"주님께서 그들을 사막으로 인도하셨으나, 그들이 전혀 목마르지 않았다. 주님께서는 바위에서 물을 내셔서 그들로 마시게 하셨고, 바위를 쪼개셔서 물이 솟아나게 하셨다.",
+    Kor:"주께서 그들을 사막으로 인도하셨으나, 그들이 전혀 목마르지 않았다. 주께서는 바위에서 물을 내셔서 그들로 마시게 하셨고, 바위를 쪼개셔서 물이 솟아나게 하셨다.",
     Chn:"耶和华引导他们经过沙漠。 他们并不干渴； 他为他们使水从磐石而流， 分裂磐石，水就涌出。",
     Eng:"They did not thirst when he led them through the deserts; he made water flow for them from the rock; he split the rock and water gushed out.",
     Ind:"Mereka tidak menderita haus, ketika Ia memimpin mereka melalui tempat-tempat yang tandus; Ia mengeluarkan air dari gunung batu bagi mereka; Ia membelah gunung batu, maka memancarlah air."
   },
   {Bible:"Isaiah", Chapter:48, Verse:22, Page:1,
-    Kor:"주님께서 말씀하신다. \"악인들에게는 평화가 없다.\"",
+    Kor:"주께서 말씀하신다. \"악인들에게는 평화가 없다.\"",
     Chn:"耶和华说： 恶人必不得平安！",
     Eng:"\"There is no peace,\" says the LORD, \"for the wicked.\"",
     Ind:"\"Tidak ada damai sejahtera bagi orang-orang fasik!\" firman TUHAN."

@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",8,26);
 BibleDB.add([
   {Bible:"Numbers", Chapter:8, Verse:1, Page:1,
-    Kor:"<등잔을 차려 놓는 방식> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"\"Berbicaralah kepada Harun dan katakanlah kepadanya: Apabila engkau memasang lampu-lampu itu, haruslah ketujuh lampu itu menerangi yang di sebelah depan kandil.\""
   },
   {Bible:"Numbers", Chapter:8, Verse:3, Page:1,
-    Kor:"아론은 그대로 하여 주님께서 모세에게 명하신 대로, 등잔이 등잔대 앞 맞은쪽을 비추게 차려 놓았다.",
+    Kor:"아론은 그대로 하여 주께서 모세에게 명하신 대로, 등잔이 등잔대 앞 맞은쪽을 비추게 차려 놓았다.",
     Chn:"亚伦便这样行。他点灯台上的灯，使灯向前发光，是照耶和华所吩咐摩西的。",
     Eng:"Aaron did so; he set up the lamps so that they faced forward on the lampstand, just as the LORD commanded Moses.",
     Ind:"Demikianlah diperbuat Harun. Di sebelah depan kandil dipasangnyalah lampu-lampunya, seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Numbers", Chapter:8, Verse:4, Page:1,
-    Kor:"○등잔대는 금을 두드려서 만들었다. 줄기뿐만 아니라 꽃잎 모양 받침도, 모두 망치로 두드려서 만들었다. 주님께서 모세에게 보여 주신 견본대로 등잔대를 만들었다.",
+    Kor:"○등잔대는 금을 두드려서 만들었다. 줄기뿐만 아니라 꽃잎 모양 받침도, 모두 망치로 두드려서 만들었다. 주께서 모세에게 보여 주신 견본대로 등잔대를 만들었다.",
     Chn:"这灯台的做法是用金子锤出来的，连座带花都是锤出来的。摩西制造灯台，是照耶和华所指示的样式。",
     Eng:"This is how the lampstand was made: It was made of hammered gold--from its base to its blossoms. The lampstand was made exactly like the pattern the LORD had shown Moses.",
     Ind:"Dan beginilah kandil itu dibuat: dari emas tempaan; kandil itu tempaan, baik kakinya maupun kembangnya; sesuai dengan apa yang telah diperlihatkan TUHAN kepada Musa, demikianlah kandil itu dibuatnya."
   },
   {Bible:"Numbers", Chapter:8, Verse:5, Page:1,
-    Kor:"<레위 사람 봉헌식> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"dan Harun harus mengunjukkan orang Lewi itu sebagai persembahan unjukan dari antara orang Israel di hadapan TUHAN, dan demikianlah mereka diuntukkan melakukan pekerjaan jabatannya bagi TUHAN."
   },
   {Bible:"Numbers", Chapter:8, Verse:12, Page:1,
-    Kor:"너는, 레위 사람이 수송아지 머리 위에 손을 얹은 다음에, 한 마리는 속죄제물로, 한 마리는 번제물로 나 주에게 바쳐서, 레위 사람의 죄를 속하도록 하여라.",
+    Kor:"너는, 레위 사람이 수송아지 머리 위에 손을 얹은 다음에, 한 마리는 속죄제물로, 한 마리는 번제물로 주께 바쳐서, 레위 사람의 죄를 속하도록 하여라.",
     Chn:"利未人要按手在那两只牛的头上；你要将一只作赎罪祭，一只作燔祭，献给耶和华，为利未人赎罪。",
     Eng:"\"After the Levites lay their hands on the heads of the bulls, use the one for a sin offering to the LORD and the other for a burnt offering, to make atonement for the Levites.",
     Ind:"Setelah orang Lewi meletakkan tangannya atas kepala lembu-lembu jantan muda itu, maka haruslah yang seekor diolah sebagai korban penghapus dosa dan yang lain sebagai korban bakaran bagi TUHAN untuk mengadakan pendamaian bagi orang Lewi."
   },
   {Bible:"Numbers", Chapter:8, Verse:13, Page:1,
-    Kor:"너는 또 레위 사람을 아론과 그의 아들들 앞에 세우고, 나 주에게 흔들어 바치는 제물로 그들을 바쳐라.",
+    Kor:"너는 또 레위 사람을 아론과 그의 아들들 앞에 세우고, 주께 흔들어 바치는 제물로 그들을 바쳐라.",
     Chn:"你也要使利未人站在亚伦和他儿子面前，将他们当作摇祭奉给耶和华。",
     Eng:"Have the Levites stand in front of Aaron and his sons and then present them as a wave offering to the LORD.",
     Ind:"Maka haruslah engkau menghadapkan orang Lewi kepada Harun dengan anak-anaknya dan mengunjukkan mereka sebagai persembahan unjukan bagi TUHAN."
@@ -117,25 +117,25 @@ BibleDB.add([
     Ind:"dan Aku menyerahkan orang Lewi dari tengah-tengah orang Israel sebagai pemberian kepada Harun dan anak-anaknya untuk melakukan segala pekerjaan jabatan bagi orang Israel di Kemah Pertemuan, dan untuk mengadakan pendamaian bagi orang Israel, supaya orang Israel jangan kena tulah apabila mereka mendekat ke tempat kudus.\""
   },
   {Bible:"Numbers", Chapter:8, Verse:20, Page:1,
-    Kor:"○모세와 아론과 이스라엘 자손 온 회중은, 주님께서 모세를 시켜 레위 사람에게 해주라고 지시하신 대로, 레위 사람에게 다 해주었다. 이스라엘 자손이 그들에게 그대로 해주었다.",
+    Kor:"○모세와 아론과 이스라엘 자손 온 회중은, 주께서 모세를 시켜 레위 사람에게 해주라고 지시하신 대로, 레위 사람에게 다 해주었다. 이스라엘 자손이 그들에게 그대로 해주었다.",
     Chn:"摩西、亚伦，并以色列全会众便向利未人如此行。凡耶和华指着利未人所吩咐摩西的，以色列人就向他们这样行。",
     Eng:"Moses, Aaron and the whole Israelite community did with the Levites just as the LORD commanded Moses.",
     Ind:"Lalu Musa, Harun dan segenap umat Israel melakukan yang demikian kepada orang Lewi; tepat seperti yang diperintahkan TUHAN kepada Musa mengenai orang Lewi, demikianlah dilakukan orang Israel kepada mereka."
   },
   {Bible:"Numbers", Chapter:8, Verse:21, Page:1,
-    Kor:"레위 사람은 죄를 벗어 자신들을 정결하게 하고, 옷을 빨아 입었다. 아론은 그들을 주님 앞에 흔들어 바치는 제물로 바쳤고, 그들의 죄를 속하여 그들을 정결하게 하였다.",
+    Kor:"레위 사람은 죄를 벗어 자신들을 정결하게 하고, 옷을 빨아 입었다. 아론은 그들을 주 앞에 흔들어 바치는 제물로 바쳤고, 그들의 죄를 속하여 그들을 정결하게 하였다.",
     Chn:"于是利未人洁净自己，除了罪，洗了衣服；亚伦将他们当作摇祭奉到耶和华面前，又为他们赎罪，洁净他们。",
     Eng:"The Levites purified themselves and washed their clothes. Then Aaron presented them as a wave offering before the LORD and made atonement for them to purify them.",
     Ind:"Orang Lewi itu menghapus dosa dari dirinya dan mencuci pakaian mereka, kemudian Harun mengunjukkan mereka sebagai persembahan unjukan di hadapan TUHAN, dan mengadakan pendamaian bagi mereka sambil mentahirkan mereka."
   },
   {Bible:"Numbers", Chapter:8, Verse:22, Page:1,
-    Kor:"그렇게 하고 나서, 비로소 레위 사람은, 아론과 그의 아들들이 보는 데에 나서서, 그들이 맡은 회막 일을 할 수 있었다. 주님께서 모세를 시켜, 레위 사람에게 해주라고 지시하신 그대로, 그들에게 다 해주었다.",
+    Kor:"그렇게 하고 나서, 비로소 레위 사람은, 아론과 그의 아들들이 보는 데에 나서서, 그들이 맡은 회막 일을 할 수 있었다. 주께서 모세를 시켜, 레위 사람에게 해주라고 지시하신 그대로, 그들에게 다 해주었다.",
     Chn:"然后利未人进去，在亚伦和他儿子面前，在会幕中办事。耶和华指着利未人怎样吩咐摩西，以色列人就怎样向他们行了。",
     Eng:"After that, the Levites came to do their work at the Tent of Meeting under the supervision of Aaron and his sons. They did with the Levites just as the LORD commanded Moses.",
     Ind:"Sesudah itu masuklah orang Lewi untuk melakukan pekerjaan jabatan mereka di Kemah Pertemuan, di bawah pengawasan Harun dan anak-anaknya. Seperti yang diperintahkan TUHAN kepada Musa mengenai orang Lewi, demikianlah dilakukan kepada mereka."
   },
   {Bible:"Numbers", Chapter:8, Verse:23, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"

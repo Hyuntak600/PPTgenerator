@@ -142,8 +142,37 @@ bible_chinese_source_codes = dict(zip(
 ))
 
 
+def load_chinese_book_names_from_single_file():
+  import sys
+  path = None
+  for i, arg in enumerate(sys.argv):
+    if arg == "--chinese-source" and i + 1 < len(sys.argv):
+      path = sys.argv[i + 1]
+    elif arg.startswith("--chinese-source="):
+      path = arg.split("=", 1)[1]
+  if not path:
+    return {}  # 중국어를 갱신하지 않는 실행이면 필요 없음
+  if not os.path.isabs(path):
+    path = os.path.join(BASE_DIR, path)
+  if not os.path.isfile(path):
+    return {}
+  with open(path, "r", encoding="utf-8-sig") as source_file:
+    lines = [line.strip() for line in source_file if line.strip()]
+  titles = []
+  for line in lines:
+    if line.endswith(".") and not re.fullmatch(r"\d+\.", line) and len(line) <= 12 and " " not in line:
+      title = line[:-1].strip()
+      if not titles or titles[-1] != title:
+        titles.append(title)
+  if len(titles) != len(bible_book_order) or len(set(titles)) != len(titles):
+    raise ValueError(f"중국어 파일에서 책 이름 {len(bible_book_order)}개를 순서대로 찾지 못했습니다(찾은 수: {len(titles)}): {path}")
+  return dict(zip(bible_book_order, titles))
+
+
 def load_chinese_book_names():
   source_dir = os.path.join(BASE_DIR, "chinese_bible")
+  if not os.path.isdir(source_dir):  # chinese_bible 폴더가 없으면 --chinese-source 파일(BibleData_Chn.txt)에서 책 이름을 읽음
+    return load_chinese_book_names_from_single_file()
   file_pattern = re.compile(r"cmn-cu89s_\d+_([A-Z0-9]+)_(\d+)_read\.txt")
   names = {}
   chapters_by_book = {book: set() for book in bible_book_order}

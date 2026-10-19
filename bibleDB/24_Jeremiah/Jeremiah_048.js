@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",48,47);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:48, Verse:1, Page:1,
-    Kor:"<모압의 멸망> 이것은 모압을 두고 하신 주님의 말씀이다.  \"나 만군의 주 이스라엘의 하나님이 말한다. 불쌍하다, 느보야. 그 성읍이 파멸되었구나. 기랴다임도 수치를 당하고 점령되었다. 그 a요새가 수치를 당하고 붕괴되었다. (a 또는 '에스갑')",
+    Kor:"이것은 모압을 두고 하신 주님의 말씀이다. \"나 만군의 주 이스라엘의 하나님이 이렇게 말한다. 불쌍하다, 느보야. 그 성읍이 파멸되었구나. 기랴다임도 수치를 당하고 점령되었다. 그 요새가 수치를 당하고 붕괴되었다.",
     Chn:"论摩押。万军之耶和华—以色列的　神如此说： 尼波有祸了！因变为荒场。 基列亭蒙羞被攻取； 米斯迦蒙羞被毁坏；",
     Eng:"Concerning Moab: This is what the LORD Almighty, the God of Israel, says: \"Woe to Nebo, for it will be ruined. Kiriathaim will be disgraced and captured; the stronghold will be disgraced and shattered.",
     Ind:"Mengenai Moab. Beginilah firman TUHAN semesta alam, Allah Israel: \"Celakalah Nebo, sebab kota itu sudah dibinasakan! Kiryataim telah menjadi malu dan direbut! Kota benteng itu menjadi malu dan terkejut:"
   },
   {Bible:"Jeremiah", Chapter:48, Verse:2, Page:1,
-    Kor:"이제 모압의 영화는 사라졌다. 헤스본에서 그들은 모압을 멸망시킬 b작전을 세웠다. '자, 우리가 모압을 멸망시켜서, 나라를 아주 없애 버리자' 한다. 맛멘아, 너도 c적막하게 될 것이다. 칼이 너를 뒤쫓아갈 것이다. (b 히브리어에서 '작전을 세웠다(하슈부)'의 발음과 '헤스본'의 발음이 비슷함 c 히브리어에서 '적막하게 되다(티도미)'의 발음과 '맛멘'의 발음이 비슷함)",
+    Kor:"이제 모압의 영화는 사라졌다. 헤스본에서 그들은 모압을 멸망시킬 작전을 세웠다. '자, 우리가 모압을 멸망시켜서, 나라를 아주 없애 버리자' 한다. 맛멘아, 너도 적막하게 될 것이다. 칼이 너를 뒤쫓아갈 것이다.",
     Chn:"摩押不再被称赞。 有人在希实本设计谋害她，说： 来吧！我们将她剪除，不再成国。 玛得缅哪，你也必默默无声； 刀剑必追赶你。",
     Eng:"Moab will be praised no more; in Heshbon men will plot her downfall: 'Come, let us put an end to that nation.' You too, O Madmen, will be silenced; the sword will pursue you.",
     Ind:"lenyaplah sudah kemegahan Moab! Di Hesybon orang merencanakan malapetaka terhadapnya: Marilah kita melenyapkannya sebagai bangsa! Juga engkau, hai Madmen, akan dibungkamkan, engkau akan dikejar-kejar pedang."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sungguh, orang mendaki pendakian Luhit sambil menangis. Sungguh, di jalan turun ke Horonaim orang mendengar teriak karena ditimpa bencana."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:6, Page:1,
-    Kor:"너희는 도망하여 목숨이나 건져라. 사막의 d떨기나무와 같은 신세나 되어라. (d 또는 '아로엘')",
+    Kor:"너희는 도망하여 목숨이나 건져라. 사막의 떨기나무와 같은 신세나 되어라.",
     Chn:"你们要奔逃，自救性命， 独自居住，好像旷野的杜松。",
     Eng:"Flee! Run for your lives; become like a bush in the desert.",
     Ind:"Larilah, selamatkanlah nyawamu: jadilah seperti keledai liar di padang gurun!"
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Pembinasa akan datang ke setiap kota, tidak ada kota yang terluput! Lembah akan binasa, tanah datar habis musnah, seperti yang difirmankan TUHAN."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:9, Page:1,
-    Kor:"\"e너희는 모압에게 날개를 달아 주어 마음껏 도망치게 하여라. 모압의 성읍들은 이제 아무도 살 수 없는 황무지가 되고 말 것이다.\" (e 또는 '모압에 소금을 뿌려 황폐하게 하여라')",
+    Kor:"\"너희는 모압에게 날개를 달아 주어 마음껏 도망치게 하여라. 모압의 성읍들은 이제 아무도 살 수 없는 황무지가 되고 말 것이다.\"",
     Chn:"要将翅膀给摩押， 使她可以飞去。 她的城邑必致荒凉， 无人居住。 （",
     Eng:"Put salt on Moab, for she will be laid waste; her towns will become desolate, with no one to live in them.",
     Ind:"Berikanlah sayap kepada Moab, supaya ia lari terbang; kota-kotanya akan menjadi sunyi sepi, tidak ada lagi penduduk di dalamnya."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:10, Page:1,
-    Kor:"○(주님의 일을 정성을 다하여 하지 않는 사람은 저주를 받을 것이다. 칼을 휘둘러 모압 사람을 죽이지 않는 사람은 저주를 받을 것이다.)",
+    Kor:"(○주의 일을 정성을 다하여 하지 않는 사람은 저주를 받을 것이다. 칼을 휘둘러 모압 사람을 죽이지 않는 사람은 저주를 받을 것이다.)",
     Chn:"懒惰为耶和华行事的，必受咒诅；禁止刀剑不经血的，必受咒诅。）",
     Eng:"\"A curse on him who is lax in doing the LORD'S work! A curse on him who keeps his sword from bloodshed!",
     Ind:"Terkutuklah orang yang melaksanakan pekerjaan TUHAN dengan lalai, dan terkutuklah orang yang menghambat pedang-Nya dari penumpahan darah!"
   },
   {Bible:"Jeremiah", Chapter:48, Verse:11, Page:1,
-    Kor:"<모압의 성읍들이 멸망되다> \"모압은 일찍부터 안전하게 살았으며, 포로가 되어 끌려가 본 적이 없었다. 이 그릇 저 그릇에 옮겨 담지 않아서 찌끼가 곱게 가라앉은, 맑은 포도주와 같았다. 맛이 그대로 남아 있고 향기가 변하지 않은 포도주와 같았다.\"",
+    Kor:"\"모압은 일찍부터 안전하게 살았으며, 포로가 되어 끌려가 본 적이 없었다. 이 그릇 저 그릇에 옮겨 담지 않아서 찌끼가 곱게 가라앉은, 맑은 포도주와 같았다. 맛이 그대로 남아 있고 향기가 변하지 않은 포도주와 같았다.\"",
     Chn:"摩押自幼年以来常享安逸， 如酒在渣滓上澄清， 没有从这器皿倒在那器皿里， 也未曾被掳去。 因此，它的原味尚存， 香气未变。",
     Eng:"\"Moab has been at rest from youth, like wine left on its dregs, not poured from one jar to another--she has not gone into exile. So she tastes as she did, and her aroma is unchanged.",
     Ind:"Moab hidup aman dari sejak masa mudanya, dia hidup tenang seperti anggur di atas endapannya, tidak dituangkan dari tempayan yang satu ke tempayan yang lain, tidak pernah masuk ke dalam pembuangan; sebab itu rasanya tetap padanya, dan baunya tidak berubah."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:12, Page:1,
-    Kor:"\"나 주의 말이다. 내가 이제 술 거르는 사람들을 보낼 터이니, 포도주를 쏟아 버릴 날이 온다. 그들은 포도주를 모두 쏟아 버리고, 그릇들을 비우고, 병들을 깨뜨려 버릴 것이다.",
+    Kor:"○\"나 주의 말이다. 내가 이제 술 거르는 사람들을 보낼 터이니, 포도주를 쏟아 버릴 날이 온다. 그들은 포도주를 모두 쏟아 버리고, 그릇들을 비우고, 병들을 깨뜨려 버릴 것이다.",
     Chn:"耶和华说：「日子将到，我必打发倒酒的往她那里去，将她倒出来，倒空她的器皿，打碎她的坛子。",
     Eng:"But days are coming,\" declares the LORD, \"when I will send men who pour from jars, and they will pour her out; they will empty her jars and smash her jugs.",
     Ind:"Sebab itu, sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan mengirim kepadanya tukang-tukang yang akan menuangkannya, mencurahkan tempayan-tempayannya dan memecahkan buyung-buyungnya."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Bencana Moab sudah hampir datang, malapetakanya sangat segera sampai."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:17, Page:1,
-    Kor:"모압의 모든 이웃 민족아, 모압의 명성을 아는 모든 사람아, 너희는 모압의 멸망을 슬퍼하며, 이렇게 부르짖어라. '그 막강하던 규, 그 화려하던 지휘봉이, 어찌하여 이렇듯 꺾이고 말았는가!'\"",
+    Kor:"모압의 모든 이웃 민족아, 모압의 명성을 아는 모든 사람아, 너희는 모압의 멸망을 슬퍼하며, 이렇게 부르짖어라. '그 막강하던 홀과 그 화려하던 지휘봉이, 어찌하여 이렇듯 꺾이고 말았는가!'\"",
     Chn:"凡在她四围的和认识她名的， 你们都要为她悲伤，说： 那结实的杖和那美好的棍， 何竟折断了呢？",
     Eng:"Mourn for her, all who live around her, all who know her fame; say, 'How broken is the mighty scepter, how broken the glorious staff!'",
     Ind:"Ratapilah dia, hai semua yang ada di sekitarnya, hai semua yang mengenal namanya! Katakanlah: Sungguh, sudah patah tampuk kekuasaan, tongkat keagungan itu!"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Moab sudah malu, karena ia terkejut! Merataplah dan berteriaklah, beritahukanlah di sungai Arnon: Sungguh, Moab sudah binasa!"
   },
   {Bible:"Jeremiah", Chapter:48, Verse:21, Page:1,
-    Kor:"재앙이 밀어닥친 곳은, 모압의 고원지대와 홀론과 야사와 메바앗과",
+    Kor:"○재앙이 밀어닥친 곳은, 모압의 고원지대와 홀론과 야사와 메바앗과",
     Chn:"「刑罚临到平原之地的何伦、雅杂、米法押、",
     Eng:"Judgment has come to the plateau--to Holon, Jahzah and Mephaath,",
     Ind:"Penghukuman telah berlaku atas daerah dataran tinggi, atas kota-kota Holon, Yahas, Mefaat,"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Keriot, Bozra dan atas segala kota negeri Moab yang jauh dan yang dekat."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:25, Page:1,
-    Kor:"이렇게 모압의 f뿔이 잘리고, 모압의 팔이 부러졌다! 나 주의 말이다.\" (f '뿔'은 힘의 상징임)",
+    Kor:"이렇게 모압의 뿔이 잘리고, 모압의 팔이 부러졌다! 나 주의 말이다.\"",
     Chn:"摩押的角砍断了，摩押的膀臂折断了。这是耶和华说的。」",
     Eng:"Moab's horn is cut off; her arm is broken,\" declares the LORD.",
     Ind:"Telah patah tanduk kekuatan Moab, dan lengan kekuasaannya telah pecah! demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:26, Page:1,
-    Kor:"<모압이 비천해질 것이다> \"모압이 나 주를 거슬러 자만하였으니, 모압에게 취하도록 술을 먹여, 마침내 그가 토하고 그 토한 것 위에 뒹굴어, 스스로 조롱거리가 되게 하여라.",
+    Kor:"\"모압이 나 주를 거슬러 자만하였으니, 모압에게 취하도록 술을 먹여, 마침내 그가 토하고 그 토한 것 위에 뒹굴어, 스스로 조롱거리가 되게 하여라.",
     Chn:"「你们要使摩押沉醉，因她向耶和华夸大。她要在自己所吐之中打滚，又要被人嗤笑。",
     Eng:"\"Make her drunk, for she has defied the LORD. Let Moab wallow in her vomit; let her be an object of ridicule.",
     Ind:"Buatlah dia mabuk, sebab dia membesarkan diri terhadap TUHAN! Moab akan berguling-guling dalam muntahnya, dan ia sendiripun akan menjadi tertawaan orang."
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Sebab itu aku akan meratap karena Moab, akan berteriak karena Moab seluruhnya, dan akan mengaduh karena orang-orang Kir-Heres!"
   },
   {Bible:"Jeremiah", Chapter:48, Verse:32, Page:1,
-    Kor:"십마의 포도나무야, 나는 야스엘을 생각하여 우는 것보다 너를 생각하여 더 많이 울고 있다. 너의 덩굴은 사해를 건너 야스엘에까지 뻗어 나갔다. 그런데 파멸시키는 자가 너의 여름 과일과 포도송이에 밀어닥쳤다.",
+    Kor:"십마의 포도나무야, 나는 야셀을 생각하여 우는 것보다 너를 생각하여 더 많이 울고 있다. 너의 덩굴은 사해를 건너 야셀에까지 뻗어 나갔다. 그런데 파멸시키는 자가 너의 여름 과일과 포도송이에 밀어닥쳤다.",
     Chn:"西比玛的葡萄树啊，我为你哀哭， 甚于雅谢人哀哭。 你的枝子蔓延过海， 直长到雅谢海。 那行毁灭的已经临到你夏天的果子 和你所摘的葡萄。",
     Eng:"I weep for you, as Jazer weeps, O vines of Sibmah. Your branches spread as far as the sea; they reached as far as the sea of Jazer. The destroyer has fallen on your ripened fruit and grapes.",
     Ind:"Aku akan menangis karena engkau, lebih dari pada menangis karena Yaezer, hai pohon anggur Sibma! Ranting-rantingmu merambak sampai ke laut, meluas sampai ke Yaezer. Si pembinasa telah jatuh menimpa hasil musim kemaraumu dan panen buah anggurmu."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:33, Page:1,
-    Kor:"모압의 과수원과 옥토에는 이제, 기쁨도 사라지고 즐거움도 사라졌다. 술틀에서 포도주가 사라졌다. 환호성을 지르며 포도를 밟던 사람도 없고, 그들의 외침은 더 이상 즐거운 환호가 아니다.",
+    Kor:"과수원 모압 땅에는 이제, 기쁨도 사라지고 즐거움도 사라졌다. 술틀에서 포도주가 사라졌다. 환호성을 지르며 포도를 밟던 사람도 없고, 그들의 외침은 더 이상 즐거운 환호가 아니다.",
     Chn:"肥田和摩押地的欢喜快乐都被夺去； 我使酒榨的酒绝流， 无人踹酒欢呼； 那欢呼却变为仇敌的呐喊。",
     Eng:"Joy and gladness are gone from the orchards and fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy. Although there are shouts, they are not shouts of joy.",
     Ind:"Sukaria dan sorak-sorak telah lenyap dari kebun buah-buahan dan dari negeri Moab. Aku telah menjauhkan anggur dari tempat pemerasan; pengirik tidak ada lagi pengiriknya, pekik kegirangan tidak kedengaran lagi."
@@ -237,13 +237,13 @@ BibleDB.add([
     Ind:"Betapa terkejutnya dia! Betapa Moab menyembunyikan mukanya karena malu! Maka Moab telah menjadi tertawaan dan kekejutan bagi semua yang di sekitarnya."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:40, Page:1,
-    Kor:"<심판을 피할 수 없는 모압> \"나 주가 말한다. 보아라, 적이 독수리처럼 날아와서, 모압 위에 두 날개를 펼칠 것이니,",
+    Kor:"\"나 주가 이렇게 말한다. 보아라, 적이 독수리처럼 날아와서, 모압 위에 두 날개를 펼칠 것이니,",
     Chn:"耶和华如此说： 仇敌必如大鹰飞起， 展开翅膀，攻击摩押。",
     Eng:"This is what the LORD says: \"Look! An eagle is swooping down, spreading its wings over Moab.",
     Ind:"Sebab beginilah firman TUHAN: Sesungguhnya, ia datang melayang seperti burung rajawali dan mengembangkan sayapnya ke atas Moab."
   },
   {Bible:"Jeremiah", Chapter:48, Verse:41, Page:1,
-    Kor:"g성읍들이 점령당하고, 산성들이 함락당할 것이다. 그 날에는, 모압 용사들의 마음이 해산하는 여인의 마음과 같이 공포에 사로잡힐 것이다. (g 또는 '그리욧이')",
+    Kor:"성읍들이 점령당하고, 산성들이 함락당할 것이다. 그 날에는, 모압 용사들의 마음이 해산하는 여인의 마음과 같이 공포에 사로잡힐 것이다.",
     Chn:"加略被攻取，保障也被占据。 到那日，摩押的勇士心中疼痛如临产的妇人。",
     Eng:"Kerioth will be captured and the strongholds taken. In that day the hearts of Moab's warriors will be like the heart of a woman in labor.",
     Ind:"Kota-kota direbut, kubu-kubu pertahanan dirampas. Hati para pahlawan Moab pada waktu itu akan seperti hati perempuan yang sakit beranak."

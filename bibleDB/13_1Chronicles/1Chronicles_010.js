@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",10,14);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:10, Verse:1, Page:1,
-    Kor:"<사울 왕의 죽음(삼상 31:1-13)> 블레셋 사람이 이스라엘에 싸움을 걸어왔다. 이스라엘 사람들은 블레셋 사람 앞에서 도망하다가, 길보아 산에서 죽임을 당하여 쓰러졌다.",
+    Kor:"블레셋 사람이 이스라엘에 싸움을 걸어왔다. 이스라엘 사람들은 블레셋 사람 앞에서 도망하다가, 길보아 산에서 죽임을 당하여 쓰러졌다.",
     Chn:"非利士人与以色列人争战，以色列人在非利士人面前逃跑，在基利波山有被杀仆倒的。",
     Eng:"Now the Philistines fought against Israel; the Israelites fled before them, and many fell slain on Mount Gilboa.",
     Ind:"Orang Filistin berperang melawan orang Israel. Orang-orang Israel melarikan diri dari hadapan orang Filistin dan banyak yang mati terbunuh di pegunungan Gilboa."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"maka bersiaplah segenap orang gagah perkasa, lalu pergi mengambil mayat Saul dan mayat anak-anaknya. Mereka membawanya ke Yabesh dan menguburkan tulang-tulang mereka di bawah pohon besar, di Yabesh. Sesudah itu berpuasalah mereka tujuh hari lamanya."
   },
   {Bible:"1Chronicles", Chapter:10, Verse:13, Page:1,
-    Kor:"○사울이 주님을 배신하였기 때문에, 이렇게 죽었다. 그는 주님의 말씀을 지키지 않았고, 오히려 점쟁이와 상의하며 점쟁이의 지도를 받았다.",
+    Kor:"○사울이 주님을 배신하였기 때문에, 이렇게 죽었다. 그는 주의 말씀을 지키지 않았고, 오히려 점쟁이와 상의하며 점쟁이의 지도를 받았다.",
     Chn:"这样，扫罗死了。因为他干犯耶和华，没有遵守耶和华的命；又因他求问交鬼的妇人，",
     Eng:"Saul died because he was unfaithful to the LORD; he did not keep the word of the LORD and even consulted a medium for guidance,",
     Ind:"Demikianlah Saul mati karena perbuatannya yang tidak setia terhadap TUHAN, oleh karena ia tidak berpegang pada firman TUHAN, dan juga karena ia telah meminta petunjuk dari arwah,"
   },
   {Bible:"1Chronicles", Chapter:10, Verse:14, Page:1,
-    Kor:"그는 주님께 지도를 받으려 하지 않았다. 그래서 주님께서 그를 죽이시고, 그의 나라를 이새의 아들 다윗에게 맡기셨다.",
+    Kor:"그는 주께 지도를 받으려 하지 않았다. 그래서 주께서 그를 죽이시고, 그의 나라를 이새의 아들 다윗에게 맡기셨다.",
     Chn:"没有求问耶和华，所以耶和华使他被杀，把国归于耶西的儿子大卫。",
     Eng:"and did not inquire of the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse. 1CH",
     Ind:"dan tidak meminta petunjuk TUHAN. Sebab itu TUHAN membunuh dia dan menyerahkan jabatan raja itu kepada Daud bin Isai."

@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",28,43);
 BibleDB.add([
   {Bible:"Exodus", Chapter:28, Verse:1, Page:1,
-    Kor:"<제사장의 예복(출 39:1-7)> \"너는 이스라엘 자손 가운데서 너의 형 아론과 그의 아들, 나답과 아비후와 엘르아살과 이다말을 불러내서, 나를 섬기는 제사장 일을 맡겨라.",
+    Kor:"너는 이스라엘 자손 가운데서 너의 형 아론과 그의 아들, 나답과 아비후와 엘르아살과 이다말을 불러내서, 나를 섬기는 제사장 일을 맡겨라.",
     Chn:"「你要从以色列人中，使你的哥哥亚伦和他的儿子拿答、亚比户、以利亚撒、以他玛一同就近你，给我供祭司的职分。",
     Eng:"\"Have Aaron your brother brought to you from among the Israelites, along with his sons Nadab and Abihu, Eleazar and Ithamar, so they may serve me as priests.",
     Ind:"\"Engkau harus menyuruh abangmu Harun bersama-sama dengan anak-anaknya datang kepadamu, dari tengah-tengah orang Israel, untuk memegang jabatan imam bagi-Ku--Harun dan anak-anak Harun, yakni Nadab, Abihu, Eleazar dan Itamar."
   },
   {Bible:"Exodus", Chapter:28, Verse:2, Page:1,
-    Kor:"너는 너의 형 아론이 입을, 영화롭고 아름답게 보이는 거룩한 예복을 만들어라.",
+    Kor:"너는 너의 형 아론이 입을 영화롭고 아름답게 보이는 거룩한 예복을 만들어라.",
     Chn:"你要给你哥哥亚伦做圣衣为荣耀，为华美。",
     Eng:"Make sacred garments for your brother Aaron, to give him dignity and honor.",
     Ind:"Haruslah engkau membuat pakaian kudus bagi Harun, abangmu, sebagai perhiasan kemuliaan."
   },
   {Bible:"Exodus", Chapter:28, Verse:3, Page:1,
-    Kor:"내가 슬기로운 생각으로 가득 채워 준 모든 재주 있는 사람을 불러다가, 나를 섬길 아론이 제사장이 되어서 입을 예복을 만들라고 하여라.",
+    Kor:"내가 슬기로운 생각으로 가득 채워 준 모든 재주있는 사람을 불러다가, 나를 섬길 아론이 제사장이 되어서 입을 예복을 만들라고 하여라.",
     Chn:"又要吩咐一切心中有智慧的，就是我用智慧的灵所充满的，给亚伦做衣服，使他分别为圣，可以给我供祭司的职分。",
     Eng:"Tell all the skilled men to whom I have given wisdom in such matters that they are to make garments for Aaron, for his consecration, so he may serve me as priest.",
     Ind:"Haruslah engkau mengatakan kepada semua orang yang ahli, yang telah Kupenuhi dengan roh keahlian, membuat pakaian Harun, untuk menguduskan dia, supaya dipegangnya jabatan imam bagi-Ku."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Inilah pakaian yang harus dibuat mereka: tutup dada, baju efod, gamis, kemeja yang ada raginya, serban dan ikat pinggang. Demikianlah mereka harus membuat pakaian kudus bagi Harun, abangmu, dan bagi anak-anaknya, supaya ia memegang jabatan imam bagi-Ku."
   },
   {Bible:"Exodus", Chapter:28, Verse:5, Page:1,
-    Kor:"에봇을 만드는 이들은 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실을 써서 에봇을 만들어야 한다.",
+    Kor:"에봇을 만드는 이들은, 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실을 써서 에봇을 만들어야 한다.",
     Chn:"要用金线和蓝色、紫色、朱红色线，并细麻去做。",
     Eng:"Have them use gold, and blue, purple and scarlet yarn, and fine linen.",
     Ind:"Untuk itu haruslah mereka mengambil emas, kain ungu tua dan kain ungu muda, kain kirmizi dan lenan halus."
   },
   {Bible:"Exodus", Chapter:28, Verse:6, Page:1,
-    Kor:"○그들은 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 정교하게 감을 짜서 에봇을 만들어야 한다.",
+    Kor:"○그들은, 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 정교하게 감을 짜서 에봇을 만들어야 한다.",
     Chn:"「他们要拿金线和蓝色、紫色、朱红色线，并捻的细麻，用巧匠的手工做以弗得。",
     Eng:"\"Make the ephod of gold, and of blue, purple and scarlet yarn, and of finely twisted linen--the work of a skilled craftsman.",
     Ind:"Baju efod itu harus dibuat mereka dari emas, kain ungu tua dan kain ungu muda, kain kirmizi dan lenan halus yang dipintal benangnya: buatan seorang ahli."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Haruslah kauambil dua permata krisopras dan mengukirkan nama para anak Israel pada permata itu,"
   },
   {Bible:"Exodus", Chapter:28, Verse:10, Page:1,
-    Kor:"태어난 순서를 따라서 한 보석에 여섯 명의 이름을 새기고, 또 다른 보석에 나머지 여섯 명의 이름을 새겨라.",
+    Kor:"태어난 순서를 따라서, 한 보석에 여섯 명의 이름을 새기고, 또 다른 보석에 나머지 여섯 명의 이름을 새겨라.",
     Chn:"六个名字在这块宝石上，六个名字在那块宝石上，都照他们生来的次序。",
     Eng:"in the order of their birth--six names on one stone and the remaining six on the other.",
     Ind:"enam dari nama mereka itu pada permata yang pertama dan keenam nama lagi pada permata yang kedua, menurut urutan kelahirannya."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Haruslah kaubuat ikat emas"
   },
   {Bible:"Exodus", Chapter:28, Verse:14, Page:1,
-    Kor:"노끈처럼 꼰 두 사슬도 순금으로 만들고, 그 꼰 사슬을 금고리에 달아라.\"",
+    Kor:"노끈처럼 꼰 두 사슬도 순금으로 만들고, 그 꼰 사슬을 금고리에 달아라.",
     Chn:"又拿精金，用拧工仿佛拧绳子，做两条链子，把这拧成的链子搭在二槽上。」",
     Eng:"and two braided chains of pure gold, like a rope, and attach the chains to the settings.",
     Ind:"dan dua untai dari emas murni; sebagai utas haruslah kaubuat itu, yang buatannya sebagai tali berjalin dan haruslah kaupasang untai berjalin itu pada ikat itu."
   },
   {Bible:"Exodus", Chapter:28, Verse:15, Page:1,
-    Kor:"<가슴받이(출 39:8-21)> ○\"너는 에봇을 짤 때와 같은 방법으로 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 정교하게 짜서 판결 가슴받이를 만들어야 한다.",
+    Kor:"○너는 에봇을 짤 때와 같은 방법으로 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 정교하게 짜서 판결 가슴받이를 만들어야 한다.",
     Chn:"「你要用巧匠的手工做一个决断的胸牌。要和以弗得一样的做法：用金线和蓝色、紫色、朱红色线，并捻的细麻做成。",
     Eng:"\"Fashion a breastpiece for making decisions--the work of a skilled craftsman. Make it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen.",
     Ind:"Haruslah engkau membuat tutup dada pernyataan keputusan: buatan seorang ahli. Buatannya sama dengan baju efod, demikianlah harus engkau membuatnya, yakni dari emas, kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus yang dipintal benangnya haruslah engkau membuatnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Haruslah kedua untai emas yang berjalin itu kaupasang pada kedua gelang itu, pada ujung tutup dada."
   },
   {Bible:"Exodus", Chapter:28, Verse:25, Page:1,
-    Kor:"그리고 꼰 사슬의 다른 두 끝을 에봇 앞쪽의 멜빵에 달린 두 금테에 매달아라.",
+    Kor:"그리고 꼰 사슬의 다른 두 끝을, 에봇 앞쪽의 멜빵에 달린 두 금테에 매달아라.",
     Chn:"又要把链子的那两头接在两槽上，安在以弗得前面肩带上。",
     Eng:"and the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front.",
     Ind:"Kedua ujung lain dari kedua untai berjalin itu haruslah kaupasang pada kedua ikat emas itu, demikianlah kaupasang pada tutup bahu baju efod, di sebelah depannya."
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Demikianlah di atas jantungnya harus dibawa Harun nama para anak Israel pada tutup dada pernyataan keputusan itu, apabila ia masuk ke dalam tempat kudus, supaya menjadi tanda peringatan yang tetap di hadapan TUHAN."
   },
   {Bible:"Exodus", Chapter:28, Verse:30, Page:1,
-    Kor:"판결 가슴받이 안에 a우림과 b둠밈을 넣어서, 아론이 주 앞으로 들어올 때에, 그것을 가슴에 지니고 들어오게 하여라. 아론은 주 앞에서 이스라엘 자손의 시비를 가릴 때에, 언제나 그것을 가슴에 지녀야 한다.\"(a '빛' b '완전함')",
+    Kor:"판결 가슴받이 안에 우림과 둠밈을 넣어서, 아론이 주 앞으로 들어올 때에, 그것을 가슴에 지니고 들어오게 하여라. 아론은 주 앞에서 이스라엘 자손의 시비를 가릴 때에, 언제나 그것을 가슴에 지녀야 한다.",
     Chn:"又要将乌陵和土明放在决断的胸牌里；亚伦进到耶和华面前的时候，要带在胸前，在耶和华面前常将以色列人的决断牌带在胸前。」",
     Eng:"Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron's heart whenever he enters the presence of the LORD. Thus Aaron will always bear the means of making decisions for the Israelites over his heart before the LORD.",
     Ind:"Dan di dalam tutup dada pernyataan keputusan itu haruslah kautaruh Urim dan Tumim; haruslah itu di atas jantung Harun, apabila ia masuk menghadap TUHAN, dan Harun harus tetap membawa keputusan bagi orang Israel di atas jantungnya, di hadapan TUHAN."
   },
   {Bible:"Exodus", Chapter:28, Verse:31, Page:1,
-    Kor:"<제사장의 또다른 예복(출 39:22-31)> ○\"에봇에 딸린 겉옷을 만들되, 청색으로 만들어라.",
+    Kor:"○에봇에 딸린 겉옷을 만들되, 청색으로 만들어라.",
     Chn:"「你要做以弗得的外袍，颜色全是蓝的。",
     Eng:"\"Make the robe of the ephod entirely of blue cloth,",
     Ind:"Haruslah kaubuat gamis baju efod dari kain ungu tua seluruhnya."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Haruslah gamis itu dipakai Harun, apabila ia menyelenggarakan kebaktian, dan bunyinya harus kedengaran, apabila ia masuk ke dalam tempat kudus di hadapan TUHAN dan apabila ia keluar pula, supaya ia jangan mati."
   },
   {Bible:"Exodus", Chapter:28, Verse:36, Page:1,
-    Kor:"○너는 순금으로 패를 만들어서, 그 위에, 인장 반지를 새기듯이 c '주님의 성직자'라고 새겨라.(c 또는 '주님께 거룩')",
+    Kor:"○너는 순금으로 패를 만들어서, 그 위에, 인장 반지를 새기듯이 '주의 성직자'라고 새겨라.",
     Chn:"「你要用精金做一面牌，在上面按刻图书之法刻着『归耶和华为圣』。",
     Eng:"\"Make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD.",
     Ind:"Juga haruslah engkau membuat patam dari emas murni dan pada patam itu kauukirkanlah, diukirkan seperti meterai: Kudus bagi TUHAN."
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"Buatlah celana-celana lenan bagi mereka untuk menutupi daging auratnya: celana itu haruslah dari pinggang sampai paha panjangnya."
   },
   {Bible:"Exodus", Chapter:28, Verse:43, Page:1,
-    Kor:"아론과 그의 아들들은 회막에 들어갈 때에나 성소에서 제사를 드리려고 제단으로 나아갈 때에, 그것을 입어서 몸 아래를 가려야 한다. 몸 아래를 노출하는 죄를 지으면 죽는다. 이것은 그와 그의 자손이 지켜야 할 영원한 규례이다.\"",
+    Kor:"아론과 그의 아들들은 회막에 들어갈 때에나 성소에서 제사를 드리려고 제단으로 나아갈 때에, 그것을 입어서 몸 아래를 가려야 한다. 몸 아래를 노출하는 죄를 지으면 죽는다. 이것은 그와 그의 자손이 지켜야 할 영원한 규례이다.",
     Chn:"亚伦和他儿子进入会幕，或就近坛，在圣所供职的时候必穿上，免得担罪而死。这要为亚伦和他的后裔作永远的定例。」",
     Eng:"Aaron and his sons must wear them whenever they enter the Tent of Meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. \"This is to be a lasting ordinance for Aaron and his descendants.",
     Ind:"Harun dan anak-anaknya haruslah memakainya, apabila mereka masuk ke dalam Kemah Pertemuan atau apabila mereka datang ke mezbah untuk menyelenggarakan kebaktian di tempat kudus, supaya mereka jangan membawa kesalahan kepada dirinya, lalu mati. Itulah suatu ketetapan untuk selama-lamanya baginya dan bagi keturunannya.\""

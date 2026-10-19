@@ -3,7 +3,7 @@
 BibleDB.ref("Job",41,34);
 BibleDB.add([
   {Bible:"Job", Chapter:41, Verse:1, Page:1,
-    Kor:"네가 낚시로 a리워야단을 낚을 수 있으며, 끈으로 그 혀를 맬 수 있느냐? (a 악어처럼 생긴 바다 괴물)",
+    Kor:"네가 낚시로 리워야단을 낚을 수 있으며, 끈으로 그 혀를 맬 수 있느냐?",
     Chn:"你能用鱼钩钓上鳄鱼吗？ 能用绳子压下它的舌头吗？",
     Eng:"\"Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?",
     Ind:"(40-20) \"Dapatkah engkau menarik buaya dengan kail, atau mengimpit lidahnya dengan tali?"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"(40-25) Mungkinkah kawan-kawan nelayan memperdagangkan dia, atau membagi-bagikan dia di antara pedagang-pedagang?"
   },
   {Bible:"Job", Chapter:41, Verse:7, Page:1,
-    Kor:"네가 창으로  그것의 가죽을 꿰뚫을 수 있으며, 작살로 그 머리를 찌를 수 있겠느냐?",
+    Kor:"네가 창으로 그것의 가죽을 꿰뚫을 수 있으며, 작살로 그 머리를 찌를 수 있겠느냐?",
     Chn:"你能用倒钩枪扎满它的皮， 能用鱼叉叉满它的头吗？",
     Eng:"Can you fill his hide with harpoons or his head with fishing spears?",
     Ind:"(40-26) Dapatkah engkau menusuki kulitnya dengan serampang, dan kepalanya dengan tempuling?"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"(40-27) Letakkan tanganmu ke atasnya! Ingatlah pertarungannya! --Engkau takkan melakukannya lagi!"
   },
   {Bible:"Job", Chapter:41, Verse:9, Page:1,
-    Kor:"a리워야단을 보는 사람은, 쳐다보기만 해도 기가 꺾이고, 땅에 고꾸라진다. (a 악어처럼 생긴 바다 괴물)",
+    Kor:"리워야단을 보는 사람은, 쳐다보기만 해도 기가 꺾이고, 땅에 고꾸라진다.",
     Chn:"人指望捉拿它是徒然的； 一见它，岂不丧胆吗？",
     Eng:"Any hope of subduing him is false; the mere sight of him is overpowering.",
     Ind:"(40-28) Sesungguhnya, harapanmu hampa! Baru saja melihat dia, orang sudah terbanting."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"(41-2) Siapakah yang menghadapi Aku, yang Kubiarkan tetap selamat? Apa yang ada di seluruh kolong langit, adalah kepunyaan-Ku."
   },
   {Bible:"Job", Chapter:41, Verse:12, Page:1,
-    Kor:"a리워야단의 다리 이야기를 어찌 빼놓을 수 있겠느냐? 그 용맹을 어찌 말하지 않을 수 있겠느냐? 그 늠름한 체구를 어찌 말하지 않고 지나겠느냐? (a 악어처럼 생긴 바다 괴물)",
+    Kor:"리워야단의 다리 이야기를 어찌 빼놓을 수 있겠느냐? 그 용맹을 어찌 말하지 않을 수 있겠느냐? 그 늠름한 체구를 어찌 말하지 않고 지나겠느냐?",
     Chn:"论到鳄鱼的肢体和其大力，并美好的骨骼， 我不能缄默不言。",
     Eng:"\"I will not fail to speak of his limbs, his strength and his graceful form.",
     Ind:"(41-3) Aku tidak akan berdiam diri tentang anggota-anggota badannya, tentang keperkasaannya dan perawakannya yang tampan."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"(41-15) Hatinya keras seperti batu, keras seperti batu kilangan bawah."
   },
   {Bible:"Job", Chapter:41, Verse:25, Page:1,
-    Kor:"일어나기만 하면 아무리 힘센 자도 벌벌 떨며, 그 몸부림 치는 소리에 기가 꺾인다.",
+    Kor:"일어나기만 하면 아무리 힘센 자도 벌벌 떨며 그 몸부림 치는 소리에 기가 꺾인다.",
     Chn:"它一起来，勇士都惊恐， 心里慌乱，便都昏迷。",
     Eng:"When he rises up, the mighty are terrified; they retreat before his thrashing.",
     Ind:"(41-16) Bila ia bangkit, maka semua yang berkuasa menjadi gentar, menjadi bingung karena ketakutan."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"(41-22) Lubuk dibuatnya berbual-bual seperti periuk, laut dijadikannya tempat memasak campuran rempah-rempah."
   },
   {Bible:"Job", Chapter:41, Verse:32, Page:1,
-    Kor:"한 번 지나가면 그 자취가 번쩍번쩍 빛을 내니, 깊은 바다가 백발을 휘날리는 것처럼 보인다.",
+    Kor:"한 번 지나가면, 그 자취가 번쩍번쩍 빛을 내니, 깊은 바다가 백발을 휘날리는 것처럼 보인다.",
     Chn:"它行的路随后发光， 令人想深渊如同白发。",
     Eng:"Behind him he leaves a glistening wake; one would think the deep had white hair.",
     Ind:"(41-23) Ia meninggalkan jejak yang bercahaya, sehingga samudera raya disangka orang rambut putih."

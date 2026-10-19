@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",33,26);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:33, Verse:1, Page:1,
-    Kor:"<예루살렘과 유다의 회복에 대한 약속> 예레미야가 여전히 근위대 뜰 안에 갇혀 있을 때에, 주님께서 그에게 두 번째로 말씀하셨다.",
+    Kor:"예레미야가 여전히 근위대 뜰 안에 갇혀 있을 때에, 주께서 그에게 두 번째로 말씀하셨다.",
     Chn:"耶利米还囚在护卫兵的院内，耶和华的话第二次临到他说：",
     Eng:"While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:",
     Ind:"Datanglah firman TUHAN untuk kedua kalinya kepada Yeremia, ketika ia masih terkurung di pelataran penjagaan itu, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:2, Page:1,
-    Kor:"땅을 지으신 주님, 그것을 빚어서 제자리에 세우신 분께서 나에게 말씀하셨다. 그 이름이 '주'이신 분께서 말씀하셨다.",
+    Kor:"땅을 지으신 주, 그것을 빚어서 제자리에 세우신 분께서 나에게 말씀하셨다. 그 이름이 '주'이신 분께서 말씀하셨다.",
     Chn:"「成就的是耶和华，造作、为要建立的也是耶和华；耶和华是他的名。他如此说：",
     Eng:"\"This is what the LORD says, he who made the earth, the LORD who formed it and established it--the LORD is his name:",
     Ind:"\"Beginilah firman TUHAN, yang telah menjadikan bumi dengan membentuknya dan menegakkannya--TUHAN ialah nama-Nya--:"
@@ -21,25 +21,25 @@ BibleDB.add([
     Ind:"Berserulah kepada-Ku, maka Aku akan menjawab engkau dan akan memberitahukan kepadamu hal-hal yang besar dan yang tidak terpahami, yakni hal-hal yang tidak kauketahui."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:4, Page:1,
-    Kor:"○\"바빌로니아 사람들이 흙 언덕을 쌓고 쳐들어와 무너뜨린 이 도성과 도성 안의 건물들과 유다 왕궁들을 두고, 나 주 이스라엘의 하나님이 말한다.",
+    Kor:"○\"바빌로니아 사람들이 흙 언덕을 쌓아 무너뜨린 이 도성과 도성 안의 건물들과 유다 왕궁들을 두고, 주 이스라엘의 하나님께서 이렇게 말씀하셨다.",
     Chn:"论到这城中的房屋和犹大王的宫室，就是拆毁为挡敌人高垒和刀剑的，耶和华—以色列的　神如此说：",
     Eng:"For this is what the LORD, the God of Israel, says about the houses in this city and the royal palaces of Judah that have been torn down to be used against the siege ramps and the sword",
     Ind:"Sebab beginilah firman TUHAN, Allah Israel, mengenai rumah-rumah di kota ini dan mengenai gedung-gedung istana raja Yehuda yang dirobohkan untuk dipakai terhadap tembok-tembok pengepungan dan pedang:"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:5, Page:1,
-    Kor:"유다가 뭉쳐서 a바빌로니아 사람들과 대항하여 전쟁을 감행하였지만, 마침내, 나는 이 도성을 나의 분노와 노여움으로 죽은 사람들의 시체로 가득히 채웠다. 나는 그들의 모든 죄악 때문에 이 도성을 외면하였다.(a 또는 '갈대아')",
+    Kor:"유다가 뭉쳐서 바빌로니아 사람들과 대항하여 전쟁을 감행하였지만, 마침내, 나는 이 도성을 나의 분노와 노여움으로 죽은 사람들의 시체로 가득히 채웠다. 나는 그들의 모든 죄악 때문에 이 도성을 외면하였다.",
     Chn:"人要与迦勒底人争战，正是拿死尸充满这房屋，就是我在怒气和忿怒中所杀的人，因他们的一切恶，我就掩面不顾这城。",
     Eng:"in the fight with the Babylonians: 'They will be filled with the dead bodies of the men I will slay in my anger and wrath. I will hide my face from this city because of all its wickedness.",
     Ind:"Orang akan masuk pertempuran melawan orang-orang Kasdim dan kota ini akan penuh dengan bangkai-bangkai manusia yang telah Kupukul mati karena murka-Ku dan kehangatan amarah-Ku, sebab Aku telah menyembunyikan wajah-Ku dari kota ini oleh karena segala kejahatan mereka."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:6, Page:1,
-    Kor:"○그러나 보아라, 내가 이 도성을 치료하여 낫게 하겠고, 그 주민을 고쳐 주고, 그들이 평화와 참된 안전을 마음껏 누리게 하여 주겠다.",
+    Kor:"그러나 보아라, 내가 이 도성을 치료하여 낫게 하겠고, 그 주민을 고쳐 주고, 그들이 평화와 참된 안전을 마음껏 누리게 하여 주겠다.",
     Chn:"看哪，我要使这城得以痊愈安舒，使城中的人得医治，又将丰盛的平安和诚实显明与他们。",
     Eng:"\"'Nevertheless, I will bring health and healing to it; I will heal my people and will let them enjoy abundant peace and security.",
     Ind:"Sesungguhnya, Aku akan mendatangkan kepada mereka kesehatan dan kesembuhan, dan Aku akan menyembuhkan mereka dan akan menyingkapkan kepada mereka kesejahteraan dan keamanan yang berlimpah-limpah."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:7, Page:1,
-    Kor:"b내가 유다의 포로와 이스라엘의 포로를 돌아오게 하여, 그들을 옛날과 같이 다시 회복시켜 놓겠다.(b 또는 '내가 유다와 이스라엘의 운명을 회복시켜 놓겠다')",
+    Kor:"내가 유다의 포로와 이스라엘의 포로를 돌아오게 하여, 그들을 옛날과 같이 다시 회복시켜 놓겠다.",
     Chn:"我也要使犹大被掳的和以色列被掳的归回，并建立他们和起初一样。",
     Eng:"I will bring Judah and Israel back from captivity and will rebuild them as they were before.",
     Ind:"Aku akan memulihkan keadaan Yehuda dan Israel dan akan membangun mereka seperti dahulu:"
@@ -57,31 +57,31 @@ BibleDB.add([
     Ind:"Dan kota ini akan menjadi pokok kegirangan: ternama, terpuji dan terhormat bagi-Ku di depan segala bangsa di bumi yang telah mendengar tentang segala kebajikan yang Kulakukan kepadanya; mereka akan terkejut dan gemetar karena segala kebajikan dan segala kesejahteraan yang Kulakukan kepadanya."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:10, Page:1,
-    Kor:"○나 주가 말한다. 너희들은 '이 곳이 황폐하여 사람도 없고 짐승도 없다'고 말하지만, 지금 황무지로 변하여, 사람도 없고 주민도 없고 짐승도 없는 유다의 성읍들과 예루살렘의 거리에 또다시,",
+    Kor:"○나 주가 이렇게 말한다. 너희들은 '이 곳이 황폐하여 사람도 없고 짐승도 없다'고 말하지만, 지금 황무지로 변하여, 사람도 없고 주민도 없고 짐승도 없는 유다의 성읍들과 예루살렘의 거리에, 또다시,",
     Chn:"耶和华如此说：「你们论这地方，说是荒废无人民无牲畜之地，但在这荒凉无人民无牲畜的犹大城邑和耶路撒冷的街上，",
     Eng:"\"This is what the LORD says: 'You say about this place, \"It is a desolate waste, without men or animals.\" Yet in the towns of Judah and the streets of Jerusalem that are deserted, inhabited by neither men nor animals, there will be heard once more",
     Ind:"Beginilah firman TUHAN: Di tempat ini, yang kamu katakan telah menjadi reruntuhan tanpa manusia dan tanpa hewan, di kota-kota Yehuda dan di jalan-jalan Yerusalem yang sunyi sepi itu tanpa manusia, tanpa penduduk dan tanpa hewan,"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:11, Page:1,
-    Kor:"환호하며 기뻐하는 소리와 신랑 신부가 즐거워하는 소리와 감사의 찬양 소리가 들릴 것이다. 주의 성전에서 감사의 제물을 바치는 사람들이 이렇게 찬양할 것이다.  '너희는 만군의 주님께 감사하여라! 진실로 주님은 선하시며, 진실로 그의 인자하심 영원히 변함이 없다.' ○내가 이 땅의 포로들을 돌아오게 하여 다시 옛날과 같이 회복시켜 놓겠다. 나 주의 말이다.",
+    Kor:"환호하며 기뻐하는 소리와 신랑 신부가 즐거워하는 소리와 감사의 찬양 소리가 들릴 것이다. '너희는 만군의 주께 감사하여라! 진실로 주는 선하시며, 진실로 그분의 인자하심은 영원히 변함이 없으시다' 하는 소리가 들릴 것이다. 주의 성전에서 감사의 제물을 바치는 사람들이 이렇게 찬양할 것이다. 내가 이 땅의 포로들을 돌아오게 하여 다시 옛날과 같이 회복시켜 놓겠다. 나 주의 말이다.",
     Chn:"必再听见有欢喜和快乐的声音、新郎和新妇的声音，并听见有人说： 要称谢万军之耶和华， 因耶和华本为善； 他的慈爱永远长存！ 又有奉感谢祭到耶和华殿中之人的声音；因为我必使这地被掳的人归回，和起初一样。这是耶和华说的。」",
     Eng:"the sounds of joy and gladness, the voices of bride and bridegroom, and the voices of those who bring thank offerings to the house of the LORD, saying, \"Give thanks to the LORD Almighty, for the LORD is good; his love endures forever.\" For I will restore the fortunes of the land as they were before,' says the LORD.",
     Ind:"akan terdengar lagi suara kegirangan dan suara sukacita, suara pengantin laki-laki dan suara pengantin perempuan, suara orang-orang yang mengatakan: Bersyukurlah kepada TUHAN semesta alam, sebab TUHAN itu baik, bahwasanya untuk selama-lamanya kasih setia-Nya!, sambil mempersembahkan korban syukur di rumah TUHAN. Sebab Aku akan memulihkan keadaan negeri ini seperti dahulu, firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:12, Page:1,
-    Kor:"나 만군의 주가 말한다. 지금은 황폐하여 사람도 없고 짐승까지 없는 이 곳과 이 땅의 모든 성읍에, 다시 양 떼를 뉘어 쉬게 할 목자들의 초장이 생겨날 것이다.",
+    Kor:"○나 만군의 주가 이렇게 말한다. 지금은 황폐하여 사람도 없고 짐승까지 없는 이 곳과 이 땅의 모든 성읍에, 다시 양 떼를 뉘어 쉬게 할 목자들의 초장이 생겨날 것이다.",
     Chn:"万军之耶和华如此说：「在这荒废无人民无牲畜之地，并其中所有的城邑，必再有牧人的住处；他们要使羊群躺卧在那里。",
     Eng:"\"This is what the LORD Almighty says: 'In this place, desolate and without men or animals--in all its towns there will again be pastures for shepherds to rest their flocks.",
     Ind:"Beginilah firman TUHAN semesta alam: Di daerah ini, yang sudah menjadi reruntuhan, tanpa manusia dan tanpa hewan, dan di segala kotanya akan ada lagi padang rumput bagi gembala-gembala yang membaringkan kambing domba di situ."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:13, Page:1,
-    Kor:"산간지역의 성읍들과 c평지의 성읍들과 남쪽의 성읍들과 베냐민 땅과 예루살렘의 사방과, 유다의 성읍들에서, 목자들이 그들이 치는 양을 셀 것이다. 나 주의 말이다.\"(c 히, '스펠라'. 산과 해변 사이의 경사진 평지)",
+    Kor:"산간지역의 성읍들과 평지의 성읍들과 남쪽의 성읍들과 베냐민 땅과 예루살렘의 사방과, 유다의 성읍들에서, 목자들이 그들이 치는 양을 셀 것이다. 나 주의 말이다.\"",
     Chn:"在山地的城邑、高原的城邑、南地的城邑、便雅悯地、耶路撒冷四围的各处，和犹大的城邑必再有羊群从数点的人手下经过。这是耶和华说的。」",
     Eng:"In the towns of the hill country, of the western foothills and of the Negev, in the territory of Benjamin, in the villages around Jerusalem and in the towns of Judah, flocks will again pass under the hand of the one who counts them,' says the LORD.",
     Ind:"Di kota-kota Pegunungan, di kota-kota Daerah Bukit, di kota-kota Tanah Negeb, di daerah Benyamin, di sekitar Yerusalem dan di kota-kota Yehuda, kambing domba akan lewat lagi dari bawah tangan orang yang menghitungnya, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:33, Verse:14, Page:1,
-    Kor:"<주님의 약속> ○\"나 주의 말이다. 보아라, 내가 이스라엘 가문과 유다 가문에 약속한 그 복된 약속을 이루어 줄 그 날이 오고 있다.",
+    Kor:"○\"나 주의 말이다. 보아라, 내가 이스라엘 가문과 유다 가문에게 약속한 그 복된 약속을 이루어 줄 그 날이 오고 있다.",
     Chn:"耶和华说：「日子将到，我应许以色列家和犹大家的恩言必然成就。",
     Eng:"\"'The days are coming,' declares the LORD, 'when I will fulfill the gracious promise I made to the house of Israel and to the house of Judah.",
     Ind:"\"Sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan menepati janji yang telah Kukatakan kepada kaum Israel dan kaum Yehuda."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Pada waktu itu Yehuda akan dibebaskan, dan Yerusalem akan hidup dengan tenteram. Dan dengan nama inilah mereka akan dipanggil: TUHAN keadilan kita!"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:17, Page:1,
-    Kor:"○나 주가 말한다. 이스라엘 민족의 왕좌에 앉을 사람이 다윗에게서 끊어지지 않을 것이다.",
+    Kor:"나 주가 이렇게 말한다. 이스라엘 민족의 왕좌에 앉을 사람이 다윗에게서 끊어지지 않을 것이다.",
     Chn:"「因为耶和华如此说：大卫必永不断人坐在以色列家的宝座上；",
     Eng:"For this is what the LORD says: 'David will never fail to have a man to sit on the throne of the house of Israel,",
     Ind:"Sebab beginilah firman TUHAN: Keturunan Daud tidak akan terputus duduk di atas takhta kerajaan kaum Israel!"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Dan keturunan imam-imam orang Lewi tidak akan terputus mempersembahkan korban bakaran di hadapan-Ku dan membakar korban sajian dan mengorbankan korban sembelihan sepanjang masa.\""
   },
   {Bible:"Jeremiah", Chapter:33, Verse:19, Page:1,
-    Kor:"○주님께서 예레미야에게 이렇게 말씀하셨다.",
+    Kor:"○주께서 예레미야에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华的话临到耶利米说：",
     Eng:"The word of the LORD came to Jeremiah:",
     Ind:"Firman TUHAN datang kepada Yeremia, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:20, Page:1,
-    Kor:"\"나 주가 말한다. 낮에 대한 나의 약정과 밤에 대한 나의 약정을 너희가 깨뜨려서, 낮과 밤이 제시간에 오지 못하게 할 수 있겠느냐?",
+    Kor:"\"나 주가 이렇게 말한다. 낮에 대한 나의 약정과 밤에 대한 나의 약정을 너희가 깨뜨려서, 낮과 밤이 제시간에 오지 못하게 할 수 있겠느냐?",
     Chn:"「耶和华如此说：你们若能废弃我所立白日黑夜的约，使白日黑夜不按时轮转，",
     Eng:"\"This is what the LORD says: 'If you can break my covenant with the day and my covenant with the night, so that day and night no longer come at their appointed time,",
     Ind:"\"Beginilah firman TUHAN: Jika kamu dapat mengingkari perjanjian-Ku dengan siang dan perjanjian-Ku dengan malam, sehingga siang dan malam tidak datang lagi pada waktunya,"
@@ -135,25 +135,25 @@ BibleDB.add([
     Ind:"Seperti tentara langit tidak terbilang dan seperti pasir laut tidak tertakar, demikianlah Aku akan membuat banyak keturunan hamba-Ku Daud dan orang-orang Lewi yang melayani Aku.\""
   },
   {Bible:"Jeremiah", Chapter:33, Verse:23, Page:1,
-    Kor:"○주님께서 예레미야에게 이렇게 말씀하셨다.",
+    Kor:"○주께서 예레미야에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华的话临到耶利米说：",
     Eng:"The word of the LORD came to Jeremiah:",
     Ind:"Firman TUHAN datang kepada Yeremia, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:24, Page:1,
-    Kor:"\"너는 이 백성이 '주님께서는 자신이 택하신 두 족속을 버리셨다'고 말하는 것을 듣지 못하였느냐? 그래서 사람들이 내 백성을 멸시하고, 다시는 나라를 이루지 못할 것으로 여기고 있다.",
+    Kor:"\"너는 이 백성이 '주께서는 자신이 택하신 두 족속을 버리셨다'고 말하는 것을 듣지 못하였느냐? 그래서 사람들이 내 백성을 멸시하고, 다시는 나라를 이루지 못할 것으로 여기고 있다.",
     Chn:"「你没有揣摩这百姓的话吗？他们说：『耶和华所拣选的二族，他已经弃绝了。』他们这样藐视我的百姓，以为不再成国。",
     Eng:"\"Have you not noticed that these people are saying, 'The LORD has rejected the two kingdoms he chose'? So they despise my people and no longer regard them as a nation.",
     Ind:"\"Tidakkah kauperhatikan apa yang dikatakan orang-orang ini: Kedua kaum keluarga yang dipilih TUHAN itu telah ditolak-Nya? Dengan demikian mereka menghina umat-Ku, dianggapnya bukan suatu bangsa lagi."
   },
   {Bible:"Jeremiah", Chapter:33, Verse:25, Page:1,
-    Kor:"○나 주가 말한다. 나의 주야의 약정이 흔들릴 수 없고, 하늘과 땅의 법칙들이 무너질 수 없는 것과 마찬가지로,",
+    Kor:"나 주가 말한다. 나의 주야의 약정이 흔들릴 수 없고, 하늘과 땅의 법칙들이 무너질 수 없는 것과 마찬가지로,",
     Chn:"耶和华如此说：若是我立白日黑夜的约不能存住，若是我未曾安排天地的定例，",
     Eng:"This is what the LORD says: 'If I have not established my covenant with day and night and the fixed laws of heaven and earth,",
     Ind:"Beginilah firman TUHAN: Jika Aku tidak menetapkan perjanjian-Ku dengan siang dan malam dan aturan langit dan bumi,"
   },
   {Bible:"Jeremiah", Chapter:33, Verse:26, Page:1,
-    Kor:"야곱의 자손과 나의 종 다윗의 자손도, 내가 절대로 버리지 않을 것이며, 아브라함과 이삭과 야곱의 자손을 다스릴 통치자들을 다윗의 자손들 가운데서 세우는 나의 일도, 그치지 않을 것이다. 이제는 참으로 내가 이 백성을 불쌍히 여겨서, 그들 가운데서 d포로가 된 사람들을 돌아오게 하겠다.\"(d 또는 '내가 그들의 운명을 회복시켜 주겠다')",
+    Kor:"야곱의 자손과 나의 종 다윗의 자손도, 내가 절대로 버리지 않을 것이며, 아브라함과 이삭과 야곱의 자손을 다스릴 통치자들을 다윗의 자손들 가운데서 세우는 나의 일도, 그치지 않을 것이다. 이제는 참으로 내가 이 백성을 불쌍히 여겨서, 그들 가운데서 포로가 된 사람들을 돌아오게 하겠다.\"",
     Chn:"我就弃绝雅各的后裔和我仆人大卫的后裔，不使大卫的后裔治理亚伯拉罕、以撒、雅各的后裔；因为我必使他们被掳的人归回，也必怜悯他们。」",
     Eng:"then I will reject the descendants of Jacob and David my servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac and Jacob. For I will restore their fortunes and have compassion on them.'\"",
     Ind:"maka juga Aku pasti akan menolak keturunan Yakub dan hamba-Ku Daud, sehingga berhenti mengangkat dari keturunannya orang-orang yang memerintah atas keturunan Abraham, Ishak dan Yakub. Sebab Aku akan memulihkan keadaan mereka dan menyayangi mereka.\""

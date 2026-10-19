@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",10,25);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:10, Verse:1, Page:1,
-    Kor:"<우상 숭배와 참 예배> 이스라엘 백성아, 주님께서 너희에게 하시는 말씀을 들어라.",
+    Kor:"이스라엘 백성아, 주께서 너희에게 하시는 말씀을 들어라.",
     Chn:"以色列家啊，要听耶和华对你们所说的话。",
     Eng:"Hear what the LORD says to you, O house of Israel.",
     Ind:"Dengarlah firman yang disampaikan TUHAN kepadamu, hai kaum Israel!"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Berhala itu sama seperti orang-orangan di kebun mentimun, tidak dapat berbicara; orang harus mengangkatnya, sebab tidak dapat melangkah. Janganlah takut kepadanya, sebab berhala itu tidak dapat berbuat jahat, dan berbuat baikpun tidak dapat.\""
   },
   {Bible:"Jeremiah", Chapter:10, Verse:6, Page:1,
-    Kor:"<예레미야가 주님을 찬양함> 주님, 주님과 같으신 분은 아무도 없습니다. 주님은 위대하시며, 주님의 이름은 크시고, 권능을 지니셨습니다.",
+    Kor:"주님, 주와 같으신 분은 아무도 없습니다. 주님은 위대하시며, 주님의 이름은 크시고, 권능을 지니셨습니다.",
     Chn:"耶和华啊，没有能比你的！ 你本为大，有大能大力的名。",
     Eng:"No one is like you, O LORD; you are great, and your name is mighty in power.",
     Ind:"Tidak ada yang sama seperti Engkau, ya TUHAN! Engkau besar dan nama-Mu besar oleh keperkasaan."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:7, Page:1,
-    Kor:"세계 만민의 임금님, 누가 주님을 두려워하지 않을 수가 있겠습니까? 주님은 공경받아 마땅한 분이십니다. 세계 만민의 모든 지혜 있는 자들 가운데에도, 모든 나라의 왕들 가운데에도, 주님과 같으신 분은 아무도 없기 때문입니다.",
+    Kor:"세계 만민의 임금님, 누가 주님을 두려워하지 않을 수가 있겠습니까? 주님은 공경받아 마땅한 분이십니다. 세계 만민의 모든 지혜 있는 자들 가운데도, 모든 나라의 왕들 가운데도, 주님과 같으신 분은 아무도 없기 때문입니다.",
     Chn:"万国的王啊，谁不敬畏你？ 敬畏你本是合宜的； 因为在列国的智慧人中， 虽有政权的尊荣， 也不能比你。",
     Eng:"Who should not revere you, O King of the nations? This is your due. Among all the wise men of the nations and in all their kingdoms, there is no one like you.",
     Ind:"Siapakah yang tidak takut kepada-Mu, ya Raja bangsa-bangsa? Sungguh, kepada-Mulah seharusnya sikap yang demikian; sebab di antara semua orang bijaksana dari bangsa-bangsa dan di antara raja-raja mereka tidak ada yang sama seperti Engkau!"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Berhala itu semuanya bodoh dan dungu; petunjuk dewa itu sia-sia, karena ia hanya kayu belaka. --"
   },
   {Bible:"Jeremiah", Chapter:10, Verse:9, Page:1,
-    Kor:"그 우상에게 얇게 펴서 입힌 그 은은 a스페인에서 들여온 것이며, 그 금도 우바스에서 들여온 것입니다. 우상들은 조각가가 새긴 것, 은장이가 만든 공예품입니다. 그것에다가 청색 옷과 자주색 옷을 걸쳐 놓은 것이니, 모두가 솜씨 좋은 사람들이 만들어 놓은 것입니다. (a 히, '다시스')",
+    Kor:"그 우상에게 얇게 펴서 입힌 그 은은 다시스에서 들여온 것이며, 그 금도 우바스에서 들여온 것입니다. 우상들은 조각가가 새긴 것, 은장이가 만든 공예품입니다. 그것에다가 청색 옷과 자주색 옷을 걸쳐 놓은 것이니, 모두가 솜씨 좋은 사람들이 만들어 놓은 것입니다.",
     Chn:"有银子打成片，是从他施带来的， 并有从乌法来的金子， 都是匠人和银匠的手工， 又有蓝色紫色料的衣服， 都是巧匠的工作。",
     Eng:"Hammered silver is brought from Tarshish and gold from Uphaz. What the craftsman and goldsmith have made is then dressed in blue and purple--all made by skilled workers.",
     Ind:"Perak kepingan dibawa dari Tarsis, dan emas dari Ufas; berhala itu buatan tukang dan buatan tangan pandai emas. Pakaiannya dari kain ungu tua dan kain ungu muda, semuanya buatan orang-orang ahli. --"
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Tetapi TUHAN adalah Allah yang benar, Dialah Allah yang hidup dan Raja yang kekal. Bumi goncang karena murka-Nya, dan bangsa-bangsa tidak tahan akan geram-Nya."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:11, Page:1,
-    Kor:"○b너희는 우상들에 대하여 이렇게 선언하여라. 하늘과 땅을 만들지 않은 신들은 이 땅에서 사라지고, 저 하늘 아래에서도 없어질 것이라고 선언하여라.(b 11절은 아람어로 기록되어 있음)",
+    Kor:"○너희는 우상들에 대하여 이렇게 선언하여라. 하늘과 땅을 만들지 않은 신들은 이 땅에서 사라지고, 저 하늘 아래에서도 없어질 것이라고 선언하여라.",
     Chn:"你们要对他们如此说：不是那创造天地的神，必从地上从天下被除灭！）",
     Eng:"\"Tell them this: 'These gods, who did not make the heavens and the earth, will perish from the earth and from under the heavens.'\"",
     Ind:"Beginilah harus kamu katakan kepada mereka: \"Para allah yang tidak menjadikan langit dan bumi akan lenyap dari bumi dan dari kolong langit ini.\""
   },
   {Bible:"Jeremiah", Chapter:10, Verse:12, Page:1,
-    Kor:"<하나님 찬양> 권능으로 땅을 만드시고, 지혜로 땅덩어리를 고정시키시고, 명철로 하늘을 펼치신 분은 주님이시다.",
+    Kor:"권능으로 땅을 만드시고, 지혜로 땅덩어리를 고정시키시고, 명철로 하늘을 펼치신 분은 주님이시다.",
     Chn:"耶和华用能力创造大地， 用智慧建立世界， 用聪明铺张穹苍。",
     Eng:"But God made the earth by his power; he founded the world by his wisdom and stretched out the heavens by his understanding.",
     Ind:"Tuhanlah yang menjadikan bumi dengan kekuatan-Nya, yang menegakkan dunia dengan kebijaksanaan-Nya, dan yang membentangkan langit dengan akal budi-Nya."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:13, Page:1,
-    Kor:"주님께서 호령을 하시면, 하늘에서 물이 출렁이고, 땅 끝에서 먹구름이 올라온다. 주님은 번개를 일으켜 비를 내리시며, 바람 창고에서 바람을 내보내신다.",
+    Kor:"주께서 호령을 하시면, 하늘에서 물이 출렁이고, 땅 끝에서 먹구름이 올라온다. 주님은 비가 내리도록 번개를 일으키시며, 바람 창고에서 바람을 내보내신다.",
     Chn:"他一发声，空中便有多水激动； 他使云雾从地极上腾； 他造电随雨而闪， 从他府库中带出风来。",
     Eng:"When he thunders, the waters in the heavens roar; he makes clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from his storehouses.",
     Ind:"Apabila Ia memperdengarkan suara-Nya, menderulah bunyi air di langit, Ia menaikkan kabut awan dari ujung bumi, Ia membuat kilat serta dengan hujan, dan mengeluarkan angin dari perbendaharaan-Nya."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:14, Page:1,
-    Kor:"사람은 누구나 어리석고 지식이 모자란다. 은장이는 자기들이 만든 신상 때문에 모두 수치를 당한다. 그들이 금속을 부어서 만든 신상들은 속임수요, 그것들 속에는 생명이 없기 때문이다.",
+    Kor:"사람은 누구나 어리석고 지식이 모자란다. 은장이는 자기들이 만든 신상 때문에, 모두 수치를 당한다. 그들이 금속을 부어서 만든 신상들은 속임수요, 그것들 속에는 생명이 없기 때문이다.",
     Chn:"各人都成了畜类，毫无知识； 各银匠都因他雕刻的偶像羞愧。 他所铸的偶像本是虚假的， 其中并无气息，",
     Eng:"Everyone is senseless and without knowledge; every goldsmith is shamed by his idols. His images are a fraud; they have no breath in them.",
     Ind:"Setiap manusia ternyata bodoh, tidak berpengetahuan, dan setiap pandai emas menjadi malu karena patung buatannya. Sebab patung tuangannya itu adalah tipu, tidak ada nyawa di dalamnya,"
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Tidaklah begitu Dia yang menjadi bagian Yakub, sebab Dialah yang membentuk segala-galanya, dan Israel adalah suku milik-Nya; nama-Nya ialah TUHAN semesta alam!"
   },
   {Bible:"Jeremiah", Chapter:10, Verse:17, Page:1,
-    Kor:"<백성의 탄식> 포위된 성읍에 사는 자들아, 이제 이 땅을 떠날 터이니 짐을 꾸려라.",
+    Kor:"포위된 성읍에 사는 자들아, 이제 이 땅을 떠날 터이니 짐을 꾸려라.",
     Chn:"受围困的人哪，当收拾你的财物， 从国中带出去。",
     Eng:"Gather up your belongings to leave the land, you who live under siege.",
     Ind:"Angkutlah barang-barangmu dari negeri ini, hai orang-orang yang berada dalam pengepungan!"
   },
   {Bible:"Jeremiah", Chapter:10, Verse:18, Page:1,
-    Kor:"○주님께서 말씀하시기를 \"내가 이번에는 이 땅에 사는 백성을 먼 곳으로 내던지고, 그들이 자신의 죄를 깨달아 알도록, 내가 직접 그들에게 고통을 주겠다\" 하셨기 때문이다.",
+    Kor:"○주께서 말씀하시기를 \"내가 이번에는 이 땅에 사는 백성을 먼 곳으로 내던지고, 그들이 자신의 죄를 깨달아 알도록, 내가 직접 그들에게 고통을 주겠다\" 하셨기 때문이다.",
     Chn:"因为耶和华如此说： 这时候，我必将此地的居民， 好像用机弦甩出去， 又必加害在他们身上， 使他们觉悟。",
     Eng:"For this is what the LORD says: \"At this time I will hurl out those who live in this land; I will bring distress on them so that they may be captured.\"",
     Ind:"Sebab beginilah firman TUHAN: \"Sesungguhnya, sekali ini Aku akan melemparkan penduduk negeri ini, dan Aku akan menyesakkan mereka, supaya mereka merasakannya.\" --"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Terdengarlah suatu berita, bunyinya: Kegemparan besar akan datang dari tanah sebelah utara, untuk membuat kota-kota Yehuda menjadi sunyi sepi, menjadi tempat persembunyian serigala-serigala."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:23, Page:1,
-    Kor:"<예레미야의 기도> \"주님, 사람이 자기 운명의 주인이 아니라는 것을, 제가 이제 깨달았습니다. 아무도 자기 생명을 조종하지 못한다는 것도, 제가 이제 알았습니다.",
+    Kor:"\"주님, 사람이 자기 운명의 주인이 아니라는 것을, 제가 이제 깨달았습니다. 아무도 자기 생명을 조종하지 못한다는 것도, 제가 이제 알았습니다.",
     Chn:"耶和华啊，我晓得人的道路不由自己， 行路的人也不能定自己的脚步。",
     Eng:"I know, O LORD, that a man's life is not his own; it is not for man to direct his steps.",
     Ind:"Aku tahu, ya TUHAN, bahwa manusia tidak berkuasa untuk menentukan jalannya, dan orang yang berjalan tidak berkuasa untuk menetapkan langkahnya."
   },
   {Bible:"Jeremiah", Chapter:10, Verse:24, Page:1,
-    Kor:"주님, 형벌로 주님의 백성을 채찍질하여 주시되, 주님의 진노대로 하지 마시고, 너그럽게 다스려 주십시오. 우리가 죽을까 두렵습니다.",
+    Kor:"주님, 형벌로 주의 백성을 채찍질하여 주시되, 주의 진노대로 하지 마시고, 너그럽게 다스려 주십시오. 우리가 죽을까 두렵습니다.",
     Chn:"耶和华啊，求你从宽惩治我， 不要在你的怒中惩治我， 恐怕使我归于无有。",
     Eng:"Correct me, LORD, but only with justice--not in your anger, lest you reduce me to nothing.",
     Ind:"Hajarlah aku, ya TUHAN, tetapi dengan selayaknya, jangan dengan murka-Mu, supaya aku jangan Kaubinasakan!"
   },
   {Bible:"Jeremiah", Chapter:10, Verse:25, Page:1,
-    Kor:"주님의 진노는 주님을 알지 못하는 이방 백성에게 쏟으십시오. 주님의 이름을 부르지 않는 사람들에게 쏟으십시오. 그들이 야곱 자손을 삼켜 버렸습니다. 삼켜서 아주 없애고, 그 거처까지도 황무지로 만들었기 때문입니다.\"",
+    Kor:"주의 진노는 주님을 알지 못하는 이방 백성에게 쏟으십시오. 주의 이름을 부르지 않는 사람들에게 쏟으십시오. 그들이 야곱 자손을 삼켜 버렸습니다. 삼켜서 아주 없애고, 그 거처까지도 황무지로 만들었기 때문입니다.\"",
     Chn:"愿你将忿怒倾在不认识你的列国中， 和不求告你名的各族上； 因为他们吞了雅各，不但吞了，而且灭绝， 把他的住处变为荒场。",
     Eng:"Pour out your wrath on the nations that do not acknowledge you, on the peoples who do not call on your name. For they have devoured Jacob; they have devoured him completely and destroyed his homeland. JER",
     Ind:"Tumpahkanlah kepanasan amarah-Mu ke atas bangsa-bangsa yang tidak mengenal Engkau, ke atas kaum-kaum keluarga yang tidak menyerukan nama-Mu; sebab mereka telah memakan Yakub dan menghabisinya, dan membuat tempat kediamannya menjadi puing."

@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",13,25);
 BibleDB.add([
   {Bible:"2Kings", Chapter:13, Verse:1, Page:1,
-    Kor:"<이스라엘 왕 여호아하스> 유다 왕 아하시야의 아들 요아스 왕 제 이십삼년에 예후의 아들 여호아하스가 이스라엘을 다스리는 왕이 되어, 사마리아에서 열일곱 해 동안 다스렸다.",
+    Kor:"유다 왕 아하시야의 아들 요아스 왕 제 이십삼년에 예후의 아들 여호아하스가 이스라엘을 다스리는 왕이 되어, 사마리아에서 열일곱 해 동안 다스렸다.",
     Chn:"犹大王亚哈谢的儿子约阿施二十三年，耶户的儿子约哈斯在撒马利亚登基作以色列王十七年。",
     Eng:"In the twenty-third year of Joash son of Ahaziah king of Judah, Jehoahaz son of Jehu became king of Israel in Samaria, and he reigned seventeen years.",
     Ind:"Dalam tahun kedua puluh tiga zaman Yoas bin Ahazia, raja Yehuda, Yoahas, anak Yehu, menjadi raja atas Israel di Samaria; ia memerintah tujuh belas tahun lamanya."
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"Ia melakukan apa yang jahat di mata TUHAN, dan ia hidup menuruti dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula. Ia tidak menjauhinya."
   },
   {Bible:"2Kings", Chapter:13, Verse:3, Page:1,
-    Kor:"그리하여 주님께서는 이스라엘에게 진노하셔서, 시리아의 하사엘 왕의 손에 그들을 넘기시고, 계속해서 하사엘의 아들 벤하닷의 손에 넘기셨다.",
+    Kor:"그리하여 주께서는 이스라엘에게 진노하셔서, 시리아의 하사엘 왕의 손에 그들을 넘기시고, 계속해서 하사엘의 아들 벤하닷의 손에 넘기셨다.",
     Chn:"于是，耶和华的怒气向以色列人发作，将他们屡次交在亚兰王哈薛和他儿子便哈达的手里。",
     Eng:"So the LORD'S anger burned against Israel, and for a long time he kept them under the power of Hazael king of Aram and Ben-Hadad his son.",
     Ind:"Sebab itu bangkitlah murka TUHAN terhadap Israel, lalu diserahkan-Nyalah mereka ke dalam tangan Hazael, raja Aram, dan ke dalam tangan Benhadad, anak Hazael, selama zaman itu."
   },
   {Bible:"2Kings", Chapter:13, Verse:4, Page:1,
-    Kor:"그러나 여호아하스가 주님께 간절히 용서를 구하니, 주님께서 그의 간구를 들어주셨다. 이스라엘이 시리아 왕의 억압으로 고난을 받고 있음을 보셨기 때문이다.",
+    Kor:"그러나 여호아하스가 주께 간절히 용서를 구하니, 주께서 그의 간구를 들어주셨다. 이스라엘이 시리아 왕의 억압으로 고난을 받고 있음을 보셨기 때문이다.",
     Chn:"约哈斯恳求耶和华，耶和华就应允他，因为见以色列人所受亚兰王的欺压。",
     Eng:"Then Jehoahaz sought the LORD'S favor, and the LORD listened to him, for he saw how severely the king of Aram was oppressing Israel.",
     Ind:"Tetapi kemudian Yoahas memohon belas kasihan TUHAN, dan TUHAN mendengarkan dia, sebab Ia telah melihat, bagaimana beratnya orang Israel ditindas oleh raja Aram."
   },
   {Bible:"2Kings", Chapter:13, Verse:5, Page:1,
-    Kor:"그래서 주님께서는 이스라엘에 구원자를 보내어, 시리아의 손에서부터 벗어나게 하셨고, 이스라엘 자손은 예전처럼 그들의 장막에서 편안하게 살았다.",
+    Kor:"그래서 주께서는 이스라엘에 구원자를 보내어, 시리아의 손에서부터 벗어나게 하셨고, 이스라엘 자손은 예전처럼 그들의 장막에서 편안하게 살았다.",
     Chn:"耶和华赐给以色列人一位拯救者，使他们脱离亚兰人的手；于是以色列人仍旧安居在家里。",
     Eng:"The LORD provided a deliverer for Israel, and they escaped from the power of Aram. So the Israelites lived in their own homes as they had before.",
     Ind:"--TUHAN memberikan kepada orang Israel seorang penolong, sehingga mereka lepas dari tangan Aram dan dapat duduk di kemah-kemah mereka seperti yang sudah-sudah."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Kemudian Yoahas mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di Samaria. Maka Yoas, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:13, Verse:10, Page:1,
-    Kor:"<이스라엘 왕 여호아스> ○유다의 요아스 왕 제 삼십칠년에 여호아하스의 아들 여호아스가 이스라엘의 왕이 되어, 사마리아에서 열여섯 해 동안 다스렸다.",
+    Kor:"○유다의 요아스 왕 제 삼십칠년에 여호아하스의 아들 여호아스가 이스라엘의 왕이 되어, 사마리아에서 열여섯 해 동안 다스렸다.",
     Chn:"犹大王约阿施三十七年，约哈斯的儿子约阿施在撒马利亚登基作以色列王十六年。",
     Eng:"In the thirty-seventh year of Joash king of Judah, Jehoash son of Jehoahaz became king of Israel in Samaria, and he reigned sixteen years.",
     Ind:"Dalam tahun ketiga puluh tujuh zaman Yoas, raja Yehuda, Yoas anak Yoahas, menjadi raja atas Israel di Samaria. Ia memerintah enam belas tahun lamanya."
   },
   {Bible:"2Kings", Chapter:13, Verse:11, Page:1,
-    Kor:"그는, 주님께서 보시기에 악을 행하였고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 모든 죄로부터 돌아서지 않고, 그 길을 그대로 걸었다.",
+    Kor:"그는, 주께서 보시기에 악을 행하였고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 모든 죄로부터 돌아서지 않고, 그 길을 그대로 걸었다.",
     Chn:"他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的一切罪，仍然去行。",
     Eng:"He did evil in the eyes of the LORD and did not turn away from any of the sins of Jeroboam son of Nebat, which he had caused Israel to commit; he continued in them.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN. Ia tidak menjauh dari segala dosa yang disuruh Yerobeam bin Nebat dilakukan orang Israel, tetapi terus hidup dalam dosa itu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Setelah Yoas mendapat perhentian bersama-sama dengan nenek moyangnya, maka duduklah Yerobeam di atas takhta ayahnya. Dan Yoas dikuburkan di Samaria di samping raja Israel."
   },
   {Bible:"2Kings", Chapter:13, Verse:14, Page:1,
-    Kor:"<엘리사가 죽다> ○엘리사가 죽을 병이 들자, 이스라엘 왕 여호아스가 그에게로 내려왔다. 그리고 그 앞에서 눈물을 흘리며 말하였다. \"나의 아버지, 나의 아버지, 이스라엘의 병거와 마병이시여!\"",
+    Kor:"○엘리사가 죽을 병이 들자, 이스라엘 왕 여호아스가 그에게로 내려왔다. 그리고 그 앞에서 눈물을 흘리며 말하였다. \"나의 아버지, 나의 아버지, 이스라엘의 병거와 마병이시여!\"",
     Chn:"以利沙得了必死的病，以色列王约阿施下来看他，伏在他脸上哭泣，说：「我父啊！我父啊！以色列的战车马兵啊！」",
     Eng:"Now Elisha was suffering from the illness from which he died. Jehoash king of Israel went down to see him and wept over him. \"My father! My father!\" he cried. \"The chariots and horsemen of Israel!\"",
     Ind:"Ketika Elisa menderita sakit yang menyebabkan kematiannya, datanglah Yoas, raja Israel, kepadanya dan menangis oleh karena dia, katanya: \"Bapaku, bapaku! Kereta Israel dan orang-orangnya yang berkuda!\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Berkatalah ia kepada raja Israel: \"Tariklah busurmu!\" Lalu ia menarik busurnya, tetapi Elisa menaruh tangannya di atas tangan raja,"
   },
   {Bible:"2Kings", Chapter:13, Verse:17, Page:1,
-    Kor:"엘리사가 말하였다. \"동쪽 창문을 여십시오.\" 왕이 창문을 열자, 엘리사가 말하였다. \"쏘십시오.\" 그가 활을 쏘자, 엘리사가 말하였다. \"주님의 승리의 화살입니다. 시리아를 이길 승리의 화살입니다. 임금님께서는 아벡에서 시리아를 쳐서, 완전히 진멸하실 것입니다.\"",
+    Kor:"엘리사가 말하였다. \"동쪽 창문을 여십시오.\" 왕이 창문을 열자, 엘리사가 말하였다. \"쏘십시오.\" 그가 활을 쏘자, 엘리사가 말하였다. \"주의 승리의 화살입니다. 시리아를 이길 승리의 화살입니다. 임금님께서는 아벡에서 시리아를 쳐서, 완전히 진멸하실 것입니다.\"",
     Chn:"说：「你开朝东的窗户。」他就开了。以利沙说：「射箭吧！」他就射箭。以利沙说：「这是耶和华的得胜箭，就是战胜亚兰人的箭；因为你必在亚弗攻打亚兰人，直到灭尽他们。」",
     Eng:"\"Open the east window,\" he said, and he opened it. \"Shoot!\" Elisha said, and he shot. \"The LORD'S arrow of victory, the arrow of victory over Aram!\" Elisha declared. \"You will completely destroy the Arameans at Aphek.\"",
     Ind:"serta berkata: \"Bukalah jendela yang di sebelah timur!\" Dan ketika dibukanya, berkatalah Elisa: \"Panahlah!\" Lalu dipanahnya. Kemudian berkatalah Elisa: \"Itulah anak panah kemenangan dari pada TUHAN, anak panah kemenangan terhadap Aram. Engkau akan mengalahkan Aram di Afek sampai habis lenyap.\""
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Sesudah itu matilah Elisa, lalu ia dikuburkan. Adapun gerombolan Moab sering memasuki negeri itu pada pergantian tahun."
   },
   {Bible:"2Kings", Chapter:13, Verse:21, Page:1,
-    Kor:"한 번은 장사지내는 사람들이 어떤 사람의 주검을 묻고 있다가, 이 도적 떼를 보게 되었다. 그러자 그들은 놀라서 그 주검을 엘리사의 무덤에 내던지고 달아났는데, 그 때에 그 사람의 뼈가 엘리사의 뼈에 닿자, 그 사람이 살아나서 제 발로 일어섰다.",
+    Kor:"한 번은 장사지내는 사람들이 어떤 사람의 주검을 묻고 있다가, 이 도적 떼를 보게 되었다. 그러자 그들은 놀라 그 주검을 엘리사의 무덤에 내던지고 달아났는데, 그 때에 그 사람의 뼈가 엘리사의 뼈에 닿자, 그 사람이 살아나서 제 발로 일어섰다.",
     Chn:"有人正葬死人，忽然看见一群人，就把死人抛在以利沙的坟墓里，一碰着以利沙的骸骨，死人就复活，站起来了。",
     Eng:"Once while some Israelites were burying a man, suddenly they saw a band of raiders; so they threw the man's body into Elisha's tomb. When the body touched Elisha's bones, the man came to life and stood up on his feet.",
     Ind:"Pada suatu kali orang sedang menguburkan mayat. Ketika mereka melihat gerombolan datang, dicampakkan merekalah mayat itu ke dalam kubur Elisa, lalu pergi. Dan demi mayat itu kena kepada tulang-tulang Elisa, maka hiduplah ia kembali dan bangun berdiri."
   },
   {Bible:"2Kings", Chapter:13, Verse:22, Page:1,
-    Kor:"<이스라엘과 시리아의 전쟁> ○시리아의 하사엘 왕은 여호아하스가 다스리는 동안에 줄곧 이스라엘을 억압하였다.",
+    Kor:"○시리아의 하사엘 왕은 여호아하스가 다스리는 동안에, 줄곧 이스라엘을 억압하였다.",
     Chn:"约哈斯年间，亚兰王哈薛屡次欺压以色列人。",
     Eng:"Hazael king of Aram oppressed Israel throughout the reign of Jehoahaz.",
     Ind:"Hazael, raja Aram, menindas orang Israel sepanjang umur Yoahas."
   },
   {Bible:"2Kings", Chapter:13, Verse:23, Page:1,
-    Kor:"그러나 주님께서 이스라엘에게 은혜를 베푸셔서, 그들을 불쌍히 여기시고, 그들을 굽어살피셨다. 이는 아브라함과 이삭과 야곱과 맺으신 언약 때문이었다. 그래서 그들을 멸망시키지 않으시고, 이제까지 주님 앞에서 쫓아내지 않으셨다.",
+    Kor:"그러나 주께서 이스라엘에게 은혜를 베푸셔서, 그들을 불쌍히 여기시고, 그들을 굽어살피셨다. 이는 아브라함과 이삭과 야곱과 맺으신 언약 때문이었다. 그래서 그들을 멸망시키지 않으시고, 이제까지 주 앞에서 쫓아내지 않으셨다.",
     Chn:"耶和华却因与亚伯拉罕、以撒、雅各所立的约，仍施恩给以色列人，怜恤他们，眷顾他们，不肯灭尽他们，尚未赶逐他们离开自己面前。",
     Eng:"But the LORD was gracious to them and had compassion and showed concern for them because of his covenant with Abraham, Isaac and Jacob. To this day he has been unwilling to destroy them or banish them from his presence.",
     Ind:"Tetapi TUHAN mengasihani serta menyayangi mereka, dan Ia berpaling kepada mereka oleh karena perjanjian-Nya dengan Abraham, Ishak dan Yakub, jadi Ia tidak mau memusnahkan mereka dan belum membuang mereka pada waktu itu dari hadapan-Nya."

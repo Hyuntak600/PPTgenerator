@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",50,11);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:50, Verse:1, Page:1,
-    Kor:"주님께서 이렇게 말씀하신다. \"내가 너희 어머니를 쫓아내기라도 하였느냐? 내가 너희 어머니에게 써 준 이혼증서가 어디에 있느냐? 내가 너희를 채권자에게 팔아 넘기기라도 하였느냐? 이것 보아라, 너희가 팔려 간 것은 너희의 죄 때문이다. 너희 어머니가 쫓겨난 것은 너희의 죄 때문이다.",
+    Kor:"주께서 말씀하신다. \"내가 너희 어머니를 쫓아내기라도 하였느냐? 내가 너희 어머니에게 써 준 이혼증서가 어디에 있느냐? 내가 너희를 채권자에게 팔아 넘기기라도 하였느냐? 이것 보아라, 너희가 팔려 간 것은 너희의 죄 때문이다. 너희 어머니가 쫓겨난 것은 너희의 죄 때문이다.",
     Chn:"耶和华如此说： 我休你们的母亲， 休书在哪里呢？ 我将你们卖给我哪一个债主呢？ 你们被卖，是因你们的罪孽； 你们的母亲被休，是因你们的过犯。",
     Eng:"This is what the LORD says: \"Where is your mother's certificate of divorce with which I sent her away? Or to which of my creditors did I sell you? Because of your sins you were sold; because of your transgressions your mother was sent away.",
     Ind:"Beginilah firman TUHAN: \"Di manakah gerangan surat cerai ibumu tanda Aku telah mengusir dia? Atau kepada siapakah di antara penagih hutang-Ku Aku pernah menjual engkau? Sesungguhnya, oleh karena kesalahanmu sendiri kamu terjual dan oleh karena pelanggaranmu sendiri ibumu diusir."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Aku mengenakan pakaian kelam kepada langit dan menyelimutinya dengan kain kabung.\""
   },
   {Bible:"Isaiah", Chapter:50, Verse:4, Page:1,
-    Kor:"<주님의 종의 순종> 주 하나님께서 나를 학자처럼 말할 수 있게 하셔서, 지친 사람을 말로 격려할 수 있게 하신다. 아침마다 나를 깨우쳐 주신다. 내 귀를 깨우치시어 학자처럼 알아듣게 하신다.",
+    Kor:"주 하나님께서 나를 학자처럼 말할 수 있게 하셔서, 지친 사람을 말로 격려할 수 있게 하신다. 아침마다 나를 깨우쳐 주신다. 내 귀를 깨우치시어 학자처럼 알아듣게 하신다.",
     Chn:"主耶和华赐我受教者的舌头， 使我知道怎样用言语扶助疲乏的人。 主每早晨提醒， 提醒我的耳朵， 使我能听，像受教者一样。",
     Eng:"The Sovereign LORD has given me an instructed tongue, to know the word that sustains the weary. He wakens me morning by morning, wakens my ear to listen like one being taught.",
     Ind:"Tuhan ALLAH telah memberikan kepadaku lidah seorang murid, supaya dengan perkataan aku dapat memberi semangat baru kepada orang yang letih lesu. Setiap pagi Ia mempertajam pendengaranku untuk mendengar seperti seorang murid."
   },
   {Bible:"Isaiah", Chapter:50, Verse:5, Page:1,
-    Kor:"주 하나님께서 내 귀를 열어 주셨으므로, 나는 주님께 거역하지도 않았고, 등을 돌리지도 않았다.",
+    Kor:"주 하나님께서 내 귀를 열어 주셨으므로, 나는 주께 거역하지도 않았고, 등을 돌리지도 않았다.",
     Chn:"主耶和华开通我的耳朵； 我并没有违背，也没有退后。",
     Eng:"The Sovereign LORD has opened my ears, and I have not been rebellious; I have not drawn back.",
     Ind:"Tuhan ALLAH telah membuka telingaku, dan aku tidak memberontak, tidak berpaling ke belakang."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, Tuhan ALLAH menolong aku; siapakah yang berani menyatakan aku bersalah? Sesungguhnya, mereka semua akan memburuk seperti pakaian yang sudah usang; ngengat akan memakan mereka."
   },
   {Bible:"Isaiah", Chapter:50, Verse:10, Page:1,
-    Kor:"너희 가운데 누가 주님을 경외하며, 누가 그의 종에게 순종하느냐? 어둠 속을 걷는, 빛을 모르는 사람이라도, 주님의 이름을 신뢰하며, 하나님께 의지하여라.",
+    Kor:"너희 가운데 누가 주님을 경외하며, 누가 그의 종에게 순종하느냐? 어둠 속을 걷는, 빛을 모르는 사람이라도, 주의 이름을 신뢰하며, 하나님께 의지하여라.",
     Chn:"你们中间谁是敬畏耶和华、 听从他仆人之话的？ 这人行在暗中，没有亮光。 当倚靠耶和华的名， 仗赖自己的　神。",
     Eng:"Who among you fears the LORD and obeys the word of his servant? Let him who walks in the dark, who has no light, trust in the name of the LORD and rely on his God.",
     Ind:"Siapa di antaramu yang takut akan TUHAN dan mendengarkan suara hamba-Nya? Jika ia hidup dalam kegelapan dan tidak ada cahaya bersinar baginya, baiklah ia percaya kepada nama TUHAN dan bersandar kepada Allahnya!"

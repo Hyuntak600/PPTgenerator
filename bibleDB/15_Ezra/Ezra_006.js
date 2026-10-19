@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",6,22);
 BibleDB.add([
   {Bible:"Ezra", Chapter:6, Verse:1, Page:1,
-    Kor:"<고레스의 칙령이 발견되다> 이에 다리우스 왕이 명령을 내려, 바빌론에서 옛 귀중본들을 두는 서고들을 조사하도록 하였다.",
+    Kor:"이에 다리우스 왕이 명령을 내려, 바빌론에서 옛 귀중본들을 두는 서고들을 조사하도록 하였다.",
     Chn:"于是大流士王降旨，要寻察典籍库内，就是在巴比伦藏宝物之处；",
     Eng:"King Darius then issued an order, and they searched in the archives stored in the treasury at Babylon.",
     Ind:"Sesudah itu atas perintah raja Darius diadakanlah penyelidikan di perbendaharaan di Babel, di tempat naskah-naskah disimpan."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Kemudian di Ahmeta, benteng yang di propinsi Media, didapati sebuah gulungan, yang isinya sebagai berikut: \"Piagam:"
   },
   {Bible:"Ezra", Chapter:6, Verse:3, Page:1,
-    Kor:"○\"고레스 왕 일년에, 왕께서 예루살렘에 있는 성전에 관하여 칙령을 내리시다. ○희생제사를 드리던 바로 그 곳에 성전을 다시 세워라. 기초를 튼튼히 다지고, 성전의 높이와 너비는 각각 육십 자가 되게 하고,",
+    Kor:"○\"고레스 왕 일년에, 왕께서 예루살렘에 있는 성전에 관하여 칙령을 내리시다. ○희생제사를 드리던 바로 그 곳에 성전을 다시 세워라. 기초를 튼튼히 다지고, 성전의 높이와 나비는 각각 육십 자가 되게 하고,",
     Chn:"「塞鲁士王元年，他降旨论到耶路撒冷　神的殿，要建造这殿为献祭之处，坚立殿的根基。殿高六十肘，宽六十肘，",
     Eng:"In the first year of King Cyrus, the king issued a decree concerning the temple of God in Jerusalem: Let the temple be rebuilt as a place to present sacrifices, and let its foundations be laid. It is to be ninety feet high and ninety feet wide,",
     Ind:"Pada tahun pertama zaman raja Koresh dikeluarkanlah perintah oleh raja Koresh: Mengenai rumah Allah di Yerusalem. Rumah itu haruslah dibangun kembali sebagai tempat orang mempersembahkan korban sembelihan dan korban api-apian; haruslah tingginya enam puluh hasta dan lebarnya enam puluh hasta."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Dan juga perlengkapan emas dan perak rumah Allah yang diambil oleh Nebukadnezar dari bait suci yang di Yerusalem dan dibawa ke Babel itu haruslah dikembalikan, supaya kembali pula ke dalam bait suci yang di Yerusalem, ke tempatnya yang semula; dan engkau haruslah menaruhnya di dalam rumah Allah.\""
   },
   {Bible:"Ezra", Chapter:6, Verse:6, Page:1,
-    Kor:"<다리우스 왕의 명령> ○이제 유프라테스 강 서쪽 지방의 닷드내 총독과 스달보스내와 경의 동료 관리들과 유프라테스 강 서쪽 지방에 있는 관리들은, 건축 공사 지역에 접근하지 않도록 하여라.",
+    Kor:"○이제 유프라테스 강 서쪽 지방의 닷드내 총독과 스달보스내와 경의 동료 관리들과 유프라테스 강 서쪽 지방에 있는 관리들은, 건축 공사 지역에 접근하지 않도록 하여라.",
     Chn:"「现在河西的总督达乃和示他·波斯乃，并你们的同党，就是住河西的亚法萨迦人，你们当远离他们。",
     Eng:"Now then, Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and you, their fellow officials of that province, stay away from there.",
     Ind:"\"Oleh sebab itu, hai Tatnai, bupati daerah seberang sungai Efrat, dan Syetar-Boznai serta rekan-rekanmu, para punggawa daerah seberang sungai Efrat, hendaklah kamu menjauhkan diri dari sana."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Maka Allah, yang sudah membuat nama-Nya diam di sana, biarlah Ia merobohkan setiap raja dan setiap bangsa, yang mengacungkan tangan untuk melanggar keputusan ini dan membinasakan rumah Allah yang di Yerusalem itu. Aku, Darius, yang mengeluarkan perintah ini. Hendaklah itu dilakukan dengan seksama.\""
   },
   {Bible:"Ezra", Chapter:6, Verse:13, Page:1,
-    Kor:"<성전 봉헌> ○그래서 유프라테스 서쪽 지방의 닷드내 총독과 스달보스내와 동료 관리들은, 다리우스 왕이 내린 조서에 지시된 대로, 신속하게 처리하였다.",
+    Kor:"○그래서 유프라테스 서쪽 지방의 닷드내 총독과 스달보스내와 동료 관리들은, 다리우스 왕이 내린 조서에 지시된 대로, 신속하게 처리하였다.",
     Chn:"于是，河西总督达乃和示他·波斯乃，并他们的同党，因大流士王所发的命令，就急速遵行。",
     Eng:"Then, because of the decree King Darius had sent, Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates carried it out with diligence.",
     Ind:"Kemudian Tatnai, bupati daerah sebelah barat sungai Efrat, Syetar-Boznai dan rekan-rekan mereka berbuat dengan seksama menurut apa yang diperintahkan raja Darius."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Para tua-tua orang Yahudi melanjutkan pembangunan itu dengan lancar digerakkan oleh nubuat nabi Hagai dan nabi Zakharia bin Ido. Mereka menyelesaikan pembangunan menurut perintah Allah Israel dan menurut perintah Koresh, Darius dan Artahsasta, raja-raja negeri Persia."
   },
   {Bible:"Ezra", Chapter:6, Verse:15, Page:1,
-    Kor:"성전 건축이 끝난 것은 다리우스 왕 육년 a아달월 삼일이다.(a 양력 이월 중순 이후)",
+    Kor:"성전 건축이 끝난 것은 다리우스 왕 육년 아달월 삼일이다.",
     Chn:"大流士王第六年，亚达月初三日，这殿修成了。",
     Eng:"The temple was completed on the third day of the month Adar, in the sixth year of the reign of King Darius.",
     Ind:"Maka selesailah rumah itu pada hari yang ketiga bulan Adar, yakni pada tahun yang keenam zaman pemerintahan raja Darius."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Mereka juga menempatkan para imam pada golongan-golongannya dan orang-orang Lewi pada rombongan-rombongannya untuk melakukan ibadah kepada Allah yang diam di Yerusalem, sesuai dengan yang ada tertulis dalam kitab Musa."
   },
   {Bible:"Ezra", Chapter:6, Verse:19, Page:1,
-    Kor:"<유월절> ○사로잡혀 갔다가 돌아온 이들은 첫째 달 십사일에 유월절을 지켰다.",
+    Kor:"○사로잡혀 갔다가 돌아온 이들은 첫째 달 십사일에 유월절을 지켰다.",
     Chn:"正月十四日，被掳归回的人守逾越节。",
     Eng:"On the fourteenth day of the first month, the exiles celebrated the Passover.",
     Ind:"Dan pada tanggal empat belas bulan pertama mereka yang pulang dari pembuangan merayakan Paskah."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Orang-orang Israel yang pulang dari pembuangan memakannya dan demikian juga setiap orang yang memisahkan diri dari kenajisan bangsa-bangsa negeri itu lalu menggabungkan diri kepada mereka, untuk berbakti kepada TUHAN, Allah Israel."
   },
   {Bible:"Ezra", Chapter:6, Verse:22, Page:1,
-    Kor:"그들은 이레 동안 무교절을 즐겁게 지켰다. 주님께서 앗시리아 왕의 마음을 돌이켜서, 그들에게 호의를 베풀도록 하셨으므로, 그들은 힘을 얻었다. 그들은, 주 이스라엘의 하나님이신 하나님의 성전을 다시 지을 수 있었으므로, 한없이 기뻤다.",
+    Kor:"그들은 이레 동안 무교절을 즐겁게 지켰다. 주께서 앗시리아 왕의 마음을 돌이켜서, 그들에게 호의를 베풀도록 하셨으므로, 그들은 힘을 얻었다. 그들은, 주 이스라엘의 하나님의 성전을 다시 지을 수 있었으므로, 한없이 기뻤다.",
     Chn:"欢欢喜喜地守除酵节七日；因为耶和华使他们欢喜，又使亚述王的心转向他们，坚固他们的手，作以色列　神殿的工程。",
     Eng:"For seven days they celebrated with joy the Feast of Unleavened Bread, because the LORD had filled them with joy by changing the attitude of the king of Assyria, so that he assisted them in the work on the house of God, the God of Israel.",
     Ind:"Lagipula mereka merayakan hari raya Roti Tidak Beragi dengan sukacita, tujuh hari lamanya, karena TUHAN telah membuat mereka bersukacita; Ia telah memalingkan hati raja negeri Asyur kepada mereka, sehingga raja membantu mereka dalam pekerjaan membangun rumah Allah, yakni Allah Israel."

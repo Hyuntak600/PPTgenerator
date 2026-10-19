@@ -3,37 +3,37 @@
 BibleDB.ref("Matthew",10,42);
 BibleDB.add([
   {Bible:"Matthew", Chapter:10, Verse:1, Page:1,
-    Kor:"<예수의 열두 제자(막 3:13-19; 눅 6:12-16)> a예수께서 열두 제자를 부르셔서, b더러운 귀신을 제어하는 권능을 주시고, 그들이 b더러운 귀신을 쫓아내고 온갖 질병과 온갖 허약함을 고치게 하셨다.(a 그, '그가' b 또는 '악한 귀신')",
+    Kor:"예수께서 열두 제자를 가까이 부르셔서, 그들에게 악한 귀신을 제어하는 권능을 주시고, 악한 귀신을 내쫓고 온갖 질병과 모든 허약함을 고쳐 주게 하셨다.",
     Chn:"耶稣叫了十二个门徒来，给他们权柄，能赶逐污鬼，并医治各样的病症。",
     Eng:"He called his twelve disciples to him and gave them authority to drive out evil spirits and to heal every disease and sickness.",
     Ind:"Yesus memanggil kedua belas murid-Nya dan memberi kuasa kepada mereka untuk mengusir roh-roh jahat dan untuk melenyapkan segala penyakit dan segala kelemahan."
   },
   {Bible:"Matthew", Chapter:10, Verse:2, Page:1,
-    Kor:"열두 사도의 이름은 이러하다. 첫째로 베드로라고 부르는 시몬과, 그의 c동생 안드레와 세베대의 아들 야고보와 그의 c동생 요한과(c 그, '형제')",
+    Kor:"열두 사도의 이름은 이러하다. 베드로라고 부르는 시몬을 비롯하여, 그의 동생 안드레와 세베대의 아들 야고보와 그의 동생 요한과",
     Chn:"这十二使徒的名：头一个叫西门（又称彼得），还有他兄弟安得烈，西庇太的儿子雅各和雅各的兄弟约翰，",
     Eng:"These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John;",
     Ind:"Inilah nama kedua belas rasul itu: Pertama Simon yang disebut Petrus dan Andreas saudaranya, dan Yakobus anak Zebedeus dan Yohanes saudaranya,"
   },
   {Bible:"Matthew", Chapter:10, Verse:3, Page:1,
-    Kor:"빌립과 바돌로매와 도마와 세리 마태와 알패오의 아들 야고보와 d다대오와(d 다른 고대 사본들에는 '레배오' 또는 '다대오라고 부르는 레배오')",
+    Kor:"빌립과 바돌로매와 도마와 세리 마태와 알패오의 아들 야고보와 다대오와",
     Chn:"腓力和巴多罗买，多马和税吏马太，亚勒腓的儿子雅各，和达太，",
     Eng:"Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;",
     Ind:"Filipus dan Bartolomeus, Tomas dan Matius pemungut cukai, Yakobus anak Alfeus, dan Tadeus,"
   },
   {Bible:"Matthew", Chapter:10, Verse:4, Page:1,
-    Kor:"e열혈당원 시몬과 예수를 넘겨준 가룟 사람 유다이다.(e 또는 '가나안 사람', 그, 카나나이오스')",
+    Kor:"가나안 사람 시몬과, 예수를 넘겨 준 가룟 사람 유다이다.",
     Chn:"奋锐党的西门，还有卖耶稣的加略人犹大。",
     Eng:"Simon the Zealot and Judas Iscariot, who betrayed him.",
     Ind:"Simon orang Zelot dan Yudas Iskariot yang mengkhianati Dia."
   },
   {Bible:"Matthew", Chapter:10, Verse:5, Page:1,
-    Kor:"<열두 제자의 전도(막 6:7-13; 눅 9:1-6)> ○예수께서 이들 열둘을 내보내실 때에, 그들에게 이렇게 명하셨다. \"이방 사람의 길로도 가지 말고, 또 사마리아 사람의 고을에도 들어가지 말아라.",
+    Kor:"○예수께서 이들 열둘을 내보내실 때에, 그들에게 이렇게 명하셨다. \"이방 사람의 길로도 가지 말고, 또 사마리아 사람의 도시에도 들어가지 말고",
     Chn:"耶稣差这十二个人去，吩咐他们说：「外邦人的路，你们不要走；撒马利亚人的城，你们不要进；",
     Eng:"These twelve Jesus sent out with the following instructions: \"Do not go among the Gentiles or enter any town of the Samaritans.",
     Ind:"Kedua belas murid itu diutus oleh Yesus dan Ia berpesan kepada mereka: \"Janganlah kamu menyimpang ke jalan bangsa lain atau masuk ke dalam kota orang Samaria,"
   },
   {Bible:"Matthew", Chapter:10, Verse:6, Page:1,
-    Kor:"오히려 f길 잃은 양 떼인 이스라엘 백성에게로 가거라.(f 그, '이스라엘 집의 길 잃은 양 떼에게로')",
+    Kor:"이스라엘 집의 잃은 양 떼에게로 가거라.",
     Chn:"宁可往以色列家迷失的羊那里去。",
     Eng:"Go rather to the lost sheep of Israel.",
     Ind:"melainkan pergilah kepada domba-domba yang hilang dari umat Israel."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Pergilah dan beritakanlah: Kerajaan Sorga sudah dekat."
   },
   {Bible:"Matthew", Chapter:10, Verse:8, Page:1,
-    Kor:"앓는 사람을 고쳐 주며, 죽은 사람을 살리며, g나병 환자를 깨끗하게 하며, 귀신을 쫓아내어라. 거저 받았으니, 거저 주어라.(g 나병을 포함한 여러 가지 악성 피부병을 말함)",
+    Kor:"앓는 사람을 고쳐 주며, 죽은 사람을 살리며, 나병 환자를 깨끗하게 하며, 귀신을 내쫓아라. 너희가 거저 받았으니, 거저 주어라.",
     Chn:"医治病人，叫死人复活，叫长大麻风的洁净，把鬼赶出去。你们白白地得来，也要白白地舍去。",
     Eng:"Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.",
     Ind:"Sembuhkanlah orang sakit; bangkitkanlah orang mati; tahirkanlah orang kusta; usirlah setan-setan. Kamu telah memperolehnya dengan cuma-cuma, karena itu berikanlah pula dengan cuma-cuma."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Janganlah kamu membawa emas atau perak atau tembaga dalam ikat pinggangmu."
   },
   {Bible:"Matthew", Chapter:10, Verse:10, Page:1,
-    Kor:"여행용 자루도, 속옷 두 벌도, 신도, 지팡이도, 지니지 말아라. 일꾼이 자기 먹을 것을 얻는 것은 마땅하다.",
+    Kor:"여행용 자루도, 속옷 두 벌도, 신도, 지팡이도, 지니지 말아라. 일꾼이 자기 먹을 것을 받는 것은 마땅하다.",
     Chn:"行路不要带口袋；不要带两件褂子，也不要带鞋和拐杖。因为工人得饮食是应当的。",
     Eng:"take no bag for the journey, or extra tunic, or sandals or a staff; for the worker is worth his keep.",
     Ind:"Janganlah kamu membawa bekal dalam perjalanan, janganlah kamu membawa baju dua helai, kasut atau tongkat, sebab seorang pekerja patut mendapat upahnya."
   },
   {Bible:"Matthew", Chapter:10, Verse:11, Page:1,
-    Kor:"아무 고을이나 아무 마을에 들어가든지, 거기서 마땅한 사람을 찾아내서, 그 곳을 떠날 때까지 거기에 머물러 있어라.",
+    Kor:"아무 성이나 아무 마을에 들어가든지, 거기에서 마땅한 사람을 찾아내서, 그 곳을 떠날 때까지 거기에 머물러 있어라.",
     Chn:"你们无论进哪一城，哪一村，要打听那里谁是好人，就住在他家，直住到走的时候。",
     Eng:"\"Whatever town or village you enter, search for some worthy person there and stay at his house until you leave.",
     Ind:"Apabila kamu masuk kota atau desa, carilah di situ seorang yang layak dan tinggallah padanya sampai kamu berangkat."
@@ -81,37 +81,37 @@ BibleDB.add([
     Ind:"Jika mereka layak menerimanya, salammu itu turun ke atasnya, jika tidak, salammu itu kembali kepadamu."
   },
   {Bible:"Matthew", Chapter:10, Verse:14, Page:1,
-    Kor:"누구든지 너희를 영접하지 않거나 너희의 말을 듣지 않거든, 그 집이나 그 고을을 떠날 때에, 너희 발에 묻은 먼지를 떨어 버려라.",
+    Kor:"누구든지 너희를 영접하지 않거나 너희의 말을 듣지 않거든, 그 집이나 그 성읍을 떠날 때에, 너희 발에 묻은 먼지를 떨어 버려라.",
     Chn:"凡不接待你们、不听你们话的人，你们离开那家，或是那城的时候，就把脚上的尘土跺下去。",
     Eng:"If anyone will not welcome you or listen to your words, shake the dust off your feet when you leave that home or town.",
     Ind:"Dan apabila seorang tidak menerima kamu dan tidak mendengar perkataanmu, keluarlah dan tinggalkanlah rumah atau kota itu dan kebaskanlah debunya dari kakimu."
   },
   {Bible:"Matthew", Chapter:10, Verse:15, Page:1,
-    Kor:"내가 진정으로 너희에게 말한다. 심판 날에는 소돔과 고모라 땅이 그 고을보다는 견디기가 쉬울 것이다.\"",
+    Kor:"내가 진정으로 너희에게 말한다. 심판 날에는 소돔과 고모라 땅이 그 성읍보다는 견디기가 쉬울 것이다.\"",
     Chn:"我实在告诉你们，当审判的日子，所多玛和蛾摩拉所受的，比那城还容易受呢！」",
     Eng:"I tell you the truth, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.",
     Ind:"Aku berkata kepadamu: Sesungguhnya pada hari penghakiman tanah Sodom dan Gomora akan lebih ringan tanggungannya dari pada kota itu.\""
   },
   {Bible:"Matthew", Chapter:10, Verse:16, Page:1,
-    Kor:"<박해를 받을 것이다(막 13:9-13; 눅 21:12-17)> ○\"보아라, 내가 너희를 내보내는 것이, 마치 양을 이리 떼 가운데로 보내는 것과 같다. 그러므로 너희는 뱀과 같이 슬기롭고, 비둘기와 같이 순진해져라.",
+    Kor:"○\"보아라, 내가 너희를 내보내는 것이 마치 양을 이리 떼 가운데로 보내는 것과 같다. 그러므로 너희는 뱀과 같이 슬기롭고, 비둘기와 같이 순진하게 되어라.",
     Chn:"「我差你们去，如同羊进入狼群；所以你们要灵巧像蛇，驯良像鸽子。",
     Eng:"I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.",
     Ind:"\"Lihat, Aku mengutus kamu seperti domba ke tengah-tengah serigala, sebab itu hendaklah kamu cerdik seperti ular dan tulus seperti merpati."
   },
   {Bible:"Matthew", Chapter:10, Verse:17, Page:1,
-    Kor:"사람들을 조심하여라. 그들이 너희를 법정에 넘겨주고, 그들의 회당에서 매질을 할 것이다.",
+    Kor:"사람들을 조심하여라. 그들이 너희를 법정에 넘겨 주고, 그들의 회당에서 매질을 할 것이다.",
     Chn:"你们要防备人；因为他们要把你们交给公会，也要在会堂里鞭打你们，",
     Eng:"\"Be on your guard against men; they will hand you over to the local councils and flog you in their synagogues.",
     Ind:"Tetapi waspadalah terhadap semua orang; karena ada yang akan menyerahkan kamu kepada majelis agama dan mereka akan menyesah kamu di rumah ibadatnya."
   },
   {Bible:"Matthew", Chapter:10, Verse:18, Page:1,
-    Kor:"또 너희는 나 때문에, 총독들과 임금들 앞에 끌려나가서, 그들과 이방 사람 앞에서 증언할 것이다.",
+    Kor:"또 너희는 나 때문에, 총독들과 임금들 앞에 끌려 나가서, 그들과 이방 사람 앞에서 증언할 것이다.",
     Chn:"并且你们要为我的缘故被送到诸侯君王面前，对他们和外邦人作见证。",
     Eng:"On my account you will be brought before governors and kings as witnesses to them and to the Gentiles.",
     Ind:"Dan karena Aku, kamu akan digiring ke muka penguasa-penguasa dan raja-raja sebagai suatu kesaksian bagi mereka dan bagi orang-orang yang tidak mengenal Allah."
   },
   {Bible:"Matthew", Chapter:10, Verse:19, Page:1,
-    Kor:"사람들이 너희를 관가에 넘겨줄 때에, 어떻게 말할까, 또는 무엇을 말할까, 하고 걱정하지 말아라. 너희가 무슨 말을 해야 할지, 그 때에 지시를 받을 것이다.",
+    Kor:"사람들이 너희를 관가에 넘겨 줄 때에, 어떻게 또는 무엇을 말할까 하고 걱정하지 말아라. 너희가 무슨 말을 해야 할지, 그 때에 지시를 받을 것이다.",
     Chn:"你们被交的时候，不要思虑怎样说话，或说什么话。到那时候，必赐给你们当说的话；",
     Eng:"But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,",
     Ind:"Apabila mereka menyerahkan kamu, janganlah kamu kuatir akan bagaimana dan akan apa yang harus kamu katakan, karena semuanya itu akan dikaruniakan kepadamu pada saat itu juga."
@@ -123,37 +123,37 @@ BibleDB.add([
     Ind:"Karena bukan kamu yang berkata-kata, melainkan Roh Bapamu; Dia yang akan berkata-kata di dalam kamu."
   },
   {Bible:"Matthew", Chapter:10, Verse:21, Page:1,
-    Kor:"형제가 형제를 죽음에 넘겨주고, 아버지가 자식을 또한 그렇게 하고, 자식이 부모를 거슬러 일어나서 부모를 죽일 것이다.",
+    Kor:"형제가 형제를 죽음에 넘겨 주고, 아버지가 자식을 또한 그렇게 하고, 자식이 부모를 거슬러 일어나서 부모를 죽일 것이다.",
     Chn:"弟兄要把弟兄，父亲要把儿子，送到死地；儿女要与父母为敌，害死他们；",
     Eng:"\"Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death.",
     Ind:"Orang akan menyerahkan saudaranya untuk dibunuh, demikian juga seorang ayah akan anaknya. Dan anak-anak akan memberontak terhadap orang tuanya dan akan membunuh mereka."
   },
   {Bible:"Matthew", Chapter:10, Verse:22, Page:1,
-    Kor:"너희는 내 이름 때문에 모든 사람에게서 미움을 받을 것이다. 그러나 끝까지 견디는 사람은 구원을 얻을 것이다.",
+    Kor:"너희는 내 이름 때문에 모든 사람에게 미움을 받을 것이다. 그러나 끝까지 견디는 사람은 구원을 얻을 것이다.",
     Chn:"并且你们要为我的名被众人恨恶。惟有忍耐到底的必然得救。",
     Eng:"All men will hate you because of me, but he who stands firm to the end will be saved.",
     Ind:"Dan kamu akan dibenci semua orang oleh karena nama-Ku; tetapi orang yang bertahan sampai pada kesudahannya akan selamat."
   },
   {Bible:"Matthew", Chapter:10, Verse:23, Page:1,
-    Kor:"이 고을에서 너희를 박해하거든, 저 고을로 피하여라. 내가 진정으로 너희에게 말한다. 너희가 이스라엘의 고을들을 다 돌기 전에 인자가 올 것이다.",
+    Kor:"이 동네에서 너희를 박해하거든, 저 동네로 피하여라. 내가 진정으로 너희에게 말한다. 너희가 이스라엘의 동네들을 다 다니지 못해서 인자가 올 것이다.",
     Chn:"有人在这城里逼迫你们，就逃到那城里去。我实在告诉你们，以色列的城邑，你们还没有走遍，人子就到了。",
     Eng:"When you are persecuted in one place, flee to another. I tell you the truth, you will not finish going through the cities of Israel before the Son of Man comes.",
     Ind:"Apabila mereka menganiaya kamu dalam kota yang satu, larilah ke kota yang lain; karena Aku berkata kepadamu: Sesungguhnya sebelum kamu selesai mengunjungi kota-kota Israel, Anak Manusia sudah datang."
   },
   {Bible:"Matthew", Chapter:10, Verse:24, Page:1,
-    Kor:"○제자가 스승보다 높지 않고, 종이 주인보다 높지 않다.",
+    Kor:"○제자는 스승보다 높지 않고, 종은 주인보다 높지 않다.",
     Chn:"学生不能高过先生；仆人不能高过主人。",
     Eng:"\"A student is not above his teacher, nor a servant above his master.",
     Ind:"Seorang murid tidak lebih dari pada gurunya, atau seorang hamba dari pada tuannya."
   },
   {Bible:"Matthew", Chapter:10, Verse:25, Page:1,
-    Kor:"제자가 제 스승만큼 되고, 종이 제 주인만큼 되면, 충분하다. 그들이 집주인을 바알세불이라고 불렀거든, 하물며 그 집 사람들에게야 얼마나 더 심하겠느냐!\"",
+    Kor:"제자가 제 스승만큼 되고, 종이 제 주인만큼 되면, 만족스럽다. 그들이 집주인을 바알세불이라고 불렀거든, 하물며 그 집 사람들에게야 얼마나 더 심했겠느냐!\"",
     Chn:"学生和先生一样，仆人和主人一样，也就罢了。人既骂家主是别西卜，何况他的家人呢？」",
     Eng:"It is enough for the student to be like his teacher, and the servant like his master. If the head of the house has been called Beelzebub, how much more the members of his household!",
     Ind:"Cukuplah bagi seorang murid jika ia menjadi sama seperti gurunya dan bagi seorang hamba jika ia menjadi sama seperti tuannya. Jika tuan rumah disebut Beelzebul, apalagi seisi rumahnya."
   },
   {Bible:"Matthew", Chapter:10, Verse:26, Page:1,
-    Kor:"<마땅히 두려워하여야 할 분을 두려워하여라(눅 12:2-7)> ○\"그러므로 너희는 그들을 두려워하지 말아라. 덮어 둔 것이라고 해도 벗겨지지 않을 것이 없고, 숨긴 것이라 해도 알려지지 않을 것이 없다.",
+    Kor:"○\"그러므로 너희는 그들을 두려워하지 말아라. 덮어둔 것이라 해도 벗겨지지 않을 것이 없고, 숨긴 것이라 해도 알려지지 않을 것이 없다.",
     Chn:"「所以，不要怕他们；因为掩盖的事没有不露出来的，隐藏的事没有不被人知道的。",
     Eng:"\"So do not be afraid of them. There is nothing concealed that will not be disclosed, or hidden that will not be made known.",
     Ind:"Jadi janganlah kamu takut terhadap mereka, karena tidak ada sesuatupun yang tertutup yang tidak akan dibuka dan tidak ada sesuatupun yang tersembunyi yang tidak akan diketahui."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Apa yang Kukatakan kepadamu dalam gelap, katakanlah itu dalam terang; dan apa yang dibisikkan ke telingamu, beritakanlah itu dari atas atap rumah."
   },
   {Bible:"Matthew", Chapter:10, Verse:28, Page:1,
-    Kor:"그리고 몸은 죽일지라도 영혼은 죽이지 못하는 이를 두려워하지 말고, 영혼도 몸도 둘 다 h지옥에 던져서 멸망시킬 수 있는 분을 두려워하여라.(h 그, '게헨나')",
+    Kor:"그리고 몸은 죽일지라도 영혼은 죽이지 못하는 자를 두려워하지 말고, 영혼도 몸도 둘 다 지옥에 던져서 멸망시킬 수 있는 분을 두려워하여라.",
     Chn:"那杀身体、不能杀灵魂的，不要怕他们；惟有能把身体和灵魂都灭在地狱里的，正要怕他。",
     Eng:"Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.",
     Ind:"Dan janganlah kamu takut kepada mereka yang dapat membunuh tubuh, tetapi yang tidak berkuasa membunuh jiwa; takutlah terutama kepada Dia yang berkuasa membinasakan baik jiwa maupun tubuh di dalam neraka."
   },
   {Bible:"Matthew", Chapter:10, Verse:29, Page:1,
-    Kor:"참새 두 마리가 한 i냥에 팔리지 않느냐? 그러나 그 가운데서 하나라도 너희 아버지께서 허락하지 않으시면, 땅에 떨어지지 않을 것이다.(i 그, '앗시리온')",
+    Kor:"참새 두 마리가 한 냥에 팔리지 않느냐? 그러나 그 가운데 하나라도 너희 아버지께서 허락하지 않으시면, 땅에 떨어지지 않을 것이다.",
     Chn:"两个麻雀不是卖一分银子吗？若是你们的父不许，一个也不能掉在地上；",
     Eng:"Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father.",
     Ind:"Bukankah burung pipit dijual dua ekor seduit? Namun seekorpun dari padanya tidak akan jatuh ke bumi di luar kehendak Bapamu."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Sebab itu janganlah kamu takut, karena kamu lebih berharga dari pada banyak burung pipit."
   },
   {Bible:"Matthew", Chapter:10, Verse:32, Page:1,
-    Kor:"<사람 앞에서 그리스도를 안다고 하면(눅 12:8-9)> ○\"누구든지 사람들 앞에서 나를 시인하면, 나도 하늘에 계신 내 아버지 앞에서 그 사람을 시인할 것이다.",
+    Kor:"○\"누구든지 사람들 앞에서 나를 시인하면, 나도 하늘에 계신 내 아버지 앞에서 그 사람을 시인할 것이다.",
     Chn:"「凡在人面前认我的，我在我天上的父面前也必认他；",
     Eng:"\"Whoever acknowledges me before men, I will also acknowledge him before my Father in heaven.",
     Ind:"Setiap orang yang mengakui Aku di depan manusia, Aku juga akan mengakuinya di depan Bapa-Ku yang di sorga."
@@ -201,19 +201,19 @@ BibleDB.add([
     Ind:"Tetapi barangsiapa menyangkal Aku di depan manusia, Aku juga akan menyangkalnya di depan Bapa-Ku yang di sorga.\""
   },
   {Bible:"Matthew", Chapter:10, Verse:34, Page:1,
-    Kor:"<칼을 주려고 왔다(눅 12:51-53; 14:26-27)> ○\"너희는 내가 세상에 평화를 주려고 온 줄로 생각하지 말아라. 평화가 아니라 칼을 주려고 왔다.",
+    Kor:"○\"너희는 내가 땅 위에 평화를 주러 온 줄로 생각하지 말아라. 평화가 아니라 칼을 주러 왔다.",
     Chn:"「你们不要想我来是叫地上太平；我来并不是叫地上太平，乃是叫地上动刀兵。",
     Eng:"\"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.",
     Ind:"\"Jangan kamu menyangka, bahwa Aku datang untuk membawa damai di atas bumi; Aku datang bukan untuk membawa damai, melainkan pedang."
   },
   {Bible:"Matthew", Chapter:10, Verse:35, Page:1,
-    Kor:"나는, j사람이 자기 아버지와 맞서게 하고, 딸이 자기 어머니와 맞서게 하고, 며느리가 자기 시어머니와 맞서게 하려고 왔다.(j 미 7:6)",
+    Kor:"나는 '아들이 제 아버지를, 딸이 제 어머니를, 며느리가 제 시어머니를 거슬러서 갈라서게' 하러 왔다.",
     Chn:"因为我来是叫 人与父亲生疏， 女儿与母亲生疏， 媳妇与婆婆生疏。",
     Eng:"For I have come to turn \"'a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law--",
     Ind:"Sebab Aku datang untuk memisahkan orang dari ayahnya, anak perempuan dari ibunya, menantu perempuan dari ibu mertuanya,"
   },
   {Bible:"Matthew", Chapter:10, Verse:36, Page:1,
-    Kor:"j사람의 원수가 자기 집안 식구일 것이다.(j 미 7:6)",
+    Kor:"'사람의 원수가 제 집안 식구'일 것이다.",
     Chn:"人的仇敌就是自己家里的人。",
     Eng:"a man's enemies will be the members of his own household.'",
     Ind:"dan musuh orang ialah orang-orang seisi rumahnya."
@@ -231,13 +231,13 @@ BibleDB.add([
     Ind:"Barangsiapa tidak memikul salibnya dan mengikut Aku, ia tidak layak bagi-Ku."
   },
   {Bible:"Matthew", Chapter:10, Verse:39, Page:1,
-    Kor:"자기 목숨을 얻으려는 사람은 목숨을 잃을 것이요, 나를 위하여 자기 목숨을 잃는 사람은 목숨을 얻을 것이다.\"",
+    Kor:"제 목숨을 얻으려는 사람은 목숨을 잃을 것이요, 나를 위하여 제 목숨을 잃는 사람은 목숨을 얻을 것이다.\"",
     Chn:"得着生命的，将要失丧生命；为我失丧生命的，将要得着生命。」",
     Eng:"Whoever finds his life will lose it, and whoever loses his life for my sake will find it.",
     Ind:"Barangsiapa mempertahankan nyawanya, ia akan kehilangan nyawanya, dan barangsiapa kehilangan nyawanya karena Aku, ia akan memperolehnya."
   },
   {Bible:"Matthew", Chapter:10, Verse:40, Page:1,
-    Kor:"<보상에 대한 말씀(막 9:41)> ○\"너희를 맞아들이는 사람은 나를 맞아들이는 것이요, 나를 맞아들이는 사람은 나를 보내신 분을 맞아들이는 것이다.",
+    Kor:"○\"너희를 맞아들이는 사람은 나를 맞아들이는 것이요, 나를 맞아들이는 사람은 나를 보내신 분을 맞아들이는 것이다.",
     Chn:"「人接待你们就是接待我；接待我就是接待那差我来的。",
     Eng:"\"He who receives you receives me, and he who receives me receives the one who sent me.",
     Ind:"Barangsiapa menyambut kamu, ia menyambut Aku, dan barangsiapa menyambut Aku, ia menyambut Dia yang mengutus Aku."
@@ -249,7 +249,7 @@ BibleDB.add([
     Ind:"Barangsiapa menyambut seorang nabi sebagai nabi, ia akan menerima upah nabi, dan barangsiapa menyambut seorang benar sebagai orang benar, ia akan menerima upah orang benar."
   },
   {Bible:"Matthew", Chapter:10, Verse:42, Page:1,
-    Kor:"내가 진정으로 너희에게 말한다. 이 작은 사람들 가운데 하나에게, 내 제자라고 해서 냉수 한 그릇이라도 주는 사람은, 절대로 자기가 받을 상을 잃지 않을 것이다.\"",
+    Kor:"내가 진정으로 너희에게 말한다. 이 작은 사람 가운데 하나에게, 내 제자라고 해서 냉수 한 그릇이라도 주는 사람은, 절대로 자기가 받을 상을 잃지 않을 것이다.\"",
     Chn:"无论何人，因为门徒的名，只把一杯凉水给这小子里的一个喝，我实在告诉你们，这人不能不得赏赐。」",
     Eng:"And if anyone gives even a cup of cold water to one of these little ones because he is my disciple, I tell you the truth, he will certainly not lose his reward.\" MAT",
     Ind:"Dan barangsiapa memberi air sejuk secangkir sajapun kepada salah seorang yang kecil ini, karena ia murid-Ku, Aku berkata kepadamu: Sesungguhnya ia tidak akan kehilangan upahnya dari padanya.\""

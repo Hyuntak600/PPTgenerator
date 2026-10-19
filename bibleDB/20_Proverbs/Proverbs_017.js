@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",17,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:17, Verse:1, Page:1,
-    Kor:"<주님께서 우리의 생각을 살피신다> 마른 빵 한 조각을 먹으며 화목하게 지내는 것이, a진수성찬을 가득히 차린 집에서 다투며 사는 것보다 낫다. (a 또는 '제사음식을')",
+    Kor:"마른 빵 한 조각을 먹으며 화목하게 지내는 것이, 진수성찬을 가득히 차린 집에서 다투며 사는 것보다 낫다.",
     Chn:"设筵满屋，大家相争， 不如有块干饼，大家相安。",
     Eng:"Better a dry crust with peace and quiet than a house full of feasting, with strife.",
     Ind:"Lebih baik sekerat roti yang kering disertai dengan ketenteraman, dari pada makanan daging serumah disertai dengan perbantahan."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Budak yang berakal budi akan berkuasa atas anak yang membuat malu, dan akan mendapat bagian warisan bersama-sama dengan saudara-saudara anak itu."
   },
   {Bible:"Proverbs", Chapter:17, Verse:3, Page:1,
-    Kor:"도가니는 은을, 화덕은 금을 단련하지만, 주님께서는 사람의 마음을 단련하신다.",
+    Kor:"도가니는 은을, 화덕은 금을 단련하지만, 주께서는 사람의 마음을 단련하신다.",
     Chn:"鼎为炼银，炉为炼金； 惟有耶和华熬炼人心。",
     Eng:"The crucible for silver and the furnace for gold, but the LORD tests the heart.",
     Ind:"Kui adalah untuk melebur perak dan perapian untuk melebur emas, tetapi Tuhanlah yang menguji hati."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Mahkota orang-orang tua adalah anak cucu dan kehormatan anak-anak ialah nenek moyang mereka."
   },
   {Bible:"Proverbs", Chapter:17, Verse:7, Page:1,
-    Kor:"b거만한 말이 미련한 사람에게는 안 어울린다. 하물며 거짓말이 통치자에게 어울리겠느냐? (b 또는 '유창한 말이')",
+    Kor:"거만한 말이 미련한 사람에게는 안 어울린다. 하물며 거짓말이 통치자에게 어울리겠느냐?",
     Chn:"愚顽人说美言本不相宜， 何况君王说谎话呢？",
     Eng:"Arrogant lips are unsuited to a fool--how much worse lying lips to a ruler!",
     Ind:"Orang bebal tidak layak mengucapkan kata-kata yang bagus, apalagi orang mulia mengucapkan kata-kata dusta."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Orang durhaka hanya mencari kejahatan, tetapi terhadap dia akan disuruh utusan yang kejam."
   },
   {Bible:"Proverbs", Chapter:17, Verse:12, Page:1,
-    Kor:"어리석은 일을 하는 미련한 사람을 만나느니, 차라리 새끼 빼앗긴 암곰을 만나라.",
+    Kor:"어리석은 일을 하는 미련한 사람을 만나느니, 차라리 새끼 빼앗긴 암콤을 만나라.",
     Chn:"宁可遇见丢崽子的母熊， 不可遇见正行愚妄的愚昧人。",
     Eng:"Better to meet a bear robbed of her cubs than a fool in his folly.",
     Ind:"Lebih baik berjumpa dengan beruang betina yang kehilangan anak, dari pada dengan orang bebal dengan kebodohannya."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Memulai pertengkaran adalah seperti membuka jalan air; jadi undurlah sebelum perbantahan mulai."
   },
   {Bible:"Proverbs", Chapter:17, Verse:15, Page:1,
-    Kor:"악인을 의롭다고 하거나, 의인을 악하다고 하는 것은, 둘 다 주님께서 싫어하신다.",
+    Kor:"악인을 의롭다고 하거나, 의인을 악하다고 하는 것은, 둘 다 주께서 싫어하신다.",
     Chn:"定恶人为义的，定义人为恶的， 这都为耶和华所憎恶。",
     Eng:"Acquitting the guilty and condemning the innocent--the LORD detests them both.",
     Ind:"Membenarkan orang fasik dan mempersalahkan orang benar, kedua-duanya adalah kekejian bagi TUHAN."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Seorang sahabat menaruh kasih setiap waktu, dan menjadi seorang saudara dalam kesukaran."
   },
   {Bible:"Proverbs", Chapter:17, Verse:18, Page:1,
-    Kor:"지각 없는 사람 서약 함부로 하고, 남의 빚 보증 잘 선다.",
+    Kor:"지각이 없는 사람은 이웃의 손을 잡고, 그 이웃 앞에서 빚 보증을 선다.",
     Chn:"在邻舍面前击掌作保 乃是无知的人。",
     Eng:"A man lacking in judgment strikes hands in pledge and puts up security for his neighbor.",
     Ind:"Orang yang tidak berakal budi ialah dia yang membuat persetujuan, yang menjadi penanggung bagi sesamanya."

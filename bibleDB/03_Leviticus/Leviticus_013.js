@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",13,59);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:13, Verse:1, Page:1,
-    Kor:"<사람에게 생기는 악성 피부병> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Tetapi jikalau yang ada pada kulitnya itu hanya panau putih dan tidak kelihatan lebih dalam dari kulit, dan bulunya tidak berubah menjadi putih, imam harus mengurung orang itu tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:5, Page:1,
-    Kor:"이레가 되는 날에 제사장은 그 환부를 살펴보고, 자기가 보기에 환부가 변하지 않고, 그 병이 그의 살갗에 더 퍼지지 않았으면, 제사장은 그를 다시 이레 동안 더 격리시킨다.",
+    Kor:"이레가 되는 날에, 제사장은 그 환부를 살펴보고, 자기가 보기에 환부가 변하지 않고, 그 병이 그의 살갗에 더 퍼지지 않았으면, 제사장은 그를 다시 이레 동안 더 격리시킨다.",
     Chn:"第七天，祭司要察看他，若看灾病止住了，没有在皮上发散，祭司还要将他关锁七天。",
     Eng:"On the seventh day the priest is to examine him, and if he sees that the sore is unchanged and has not spread in the skin, he is to keep him in isolation another seven days.",
     Ind:"Pada hari yang ketujuh haruslah imam memeriksa dia; bila menurut penglihatannya penyakit itu masih tetap dan tidak meluas pada kulit, imam harus mengurung dia tujuh hari lagi untuk kedua kalinya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:6, Page:1,
-    Kor:"이레째 되는 날에 제사장은 그를 다시 살펴보고, 그 병이 사라지고 그의 살갗에 더 퍼지지 않았으면, 제사장은 그에게 '정하다'고 선언하여야 한다. 그것은 단순한 뾰루지일 뿐이므로, 옷을 빨아 입으면, 그는 깨끗하여질 것이다.",
+    Kor:"이레째 되는 날에, 제사장은 그를 다시 살펴보고, 그 병이 사라지고 그의 살갗에 더 퍼지지 않았으면, 제사장은 그에게 '정하다'고 선언하여야 한다. 그것은 단순한 뾰루지일 뿐이므로, 옷을 빨아 입으면, 그는 깨끗하여질 것이다.",
     Chn:"第七天，祭司要再察看他，若灾病发暗，而且没有在皮上发散，祭司要定他为洁净，原来是癣；那人就要洗衣服，得为洁净。",
     Eng:"On the seventh day the priest is to examine him again, and if the sore has faded and has not spread in the skin, the priest shall pronounce him clean; it is only a rash. The man must wash his clothes, and he will be clean.",
     Ind:"Kemudian pada hari yang ketujuh haruslah imam memeriksa dia untuk kedua kalinya; bila penyakit itu menjadi pudar dan tidak meluas pada kulit, imam harus menyatakan dia tahir; itu hanya bintil-bintil. Orang itu harus mencuci pakaiannya dan ia menjadi tahir."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tetapi jikalau menurut pemeriksaannya tidak ada pada panau itu bulu yang putih dan panau itu tidak lebih dalam dari pada kulit, malahan pudar, imam harus mengurung orang itu tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:27, Page:1,
-    Kor:"이레째 되는 날에 제사장이 그를 살펴서, 얼룩이 살갗에 퍼졌으면, 그에게 '부정하다'고 선언하여야 한다. 그것은 악성 피부병에 감염된 것이다.",
+    Kor:"이레째 되는 날에, 제사장이 그를 살펴서, 얼룩이 살갗에 퍼졌으면, 그에게 '부정하다'고 선언하여야 한다. 그것은 악성 피부병에 감염된 것이다.",
     Chn:"到第七天，祭司要察看他，火斑若在皮上发散开了，就要定他为不洁净，是大麻风的灾病。",
     Eng:"On the seventh day the priest is to examine him, and if it is spreading in the skin, the priest shall pronounce him unclean; it is an infectious skin disease.",
     Ind:"Pada hari yang ketujuh imam harus memeriksa lagi dia; jikalau panau itu memang meluas pada kulit, maka haruslah imam menyatakan dia najis, itu penyakit kusta."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Dan apabila menurut pemeriksaannya penyakit kudis itu tidak kelihatan lebih dalam dari kulit dan tidak ada padanya rambut yang hitam, maka imam harus mengurung orang yang kena penyakit kudis itu tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:32, Page:1,
-    Kor:"그러다가 이레째 되는 날에 제사장이 그 병을 살펴보아, 백선이 퍼지지 않고, 그 자리에 누런 털도 생기지 않았으며, 백선이 난 자리가 살갗보다 더 우묵하게 들어가지도 않았으면,",
+    Kor:"그러다가 이레째 되는 날에, 제사장이 그 병을 살펴보아, 백선이 퍼지지 않고, 그 자리에 누런 털도 생기지 않았으며, 백선이 난 자리가 살갗보다 더 우묵하게 들어가지도 않았으면,",
     Chn:"第七天，祭司要察看灾病，若头疥没有发散，其间也没有黄毛，头疥的现象不深于皮，",
     Eng:"On the seventh day the priest is to examine the sore, and if the itch has not spread and there is no yellow hair in it and it does not appear to be more than skin deep,",
     Ind:"Pada hari yang ketujuh imam harus memeriksa penyakit itu; bila ternyata kudis itu tidak meluas dan tidak ada rambut yang kuning padanya, dan kudis itu tidak kelihatan lebih dalam dari kulit,"
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"maka orang itu harus bercukur, hanya tempat kudis itu tidak boleh dicukurnya. Lalu imam harus mengurung orang yang kena kudis itu untuk kedua kalinya tujuh hari lagi."
   },
   {Bible:"Leviticus", Chapter:13, Verse:34, Page:1,
-    Kor:"이레째 되는 날에 제사장은 그 백선이 난 자리를 살펴보아, 백선이 살갗에 더 퍼지지 않고, 살갗보다 더 우묵하게 들어가지 않았으면, 제사장은 그에게 '정하다'고 선언하여야 한다. 그리고 환자는 입었던 옷을 빨아 입으면, 정하여진다.",
+    Kor:"이레째 되는 날에, 제사장은 그 백선이 난 자리를 살펴보아, 백선이 살갗에 더 퍼지지 않고, 살갗보다 더 우묵하게 들어가지 않았으면, 제사장은 그에게 '정하다'고 선언하여야 한다. 그리고 환자는 입었던 옷을 빨아 입으면, 정하여진다.",
     Chn:"第七天，祭司要察看头疥，头疥若没有在皮上发散，现象也不深于皮，就要定他为洁净，他要洗衣服，便成为洁净。",
     Eng:"On the seventh day the priest is to examine the itch, and if it has not spread in the skin and appears to be no more than skin deep, the priest shall pronounce him clean. He must wash his clothes, and he will be clean.",
     Ind:"Kemudian pada hari yang ketujuh imam harus memeriksa lagi kudis itu; bila ternyata, kudis itu tidak meluas pada kulit, dan tidak kelihatan lebih dalam dari kulit, maka imam harus menyatakan orang itu tahir, dan ia harus mencuci pakaiannya dan ia menjadi tahir."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Apabila pada kulit seorang laki-laki atau perempuan ada panau-panau, yakni panau-panau yang putih,"
   },
   {Bible:"Leviticus", Chapter:13, Verse:39, Page:1,
-    Kor:"제사장은 그것을 살펴보아야 한다. 살갗에 생긴 얼룩 색깔이 희끄무레하면, 그것은 살갗에 생긴 발진일 뿐이므로 그는 정하다.",
+    Kor:"제사장은 살펴보아야 한다. 살갗에 생긴 얼룩 색깔이 희끄무레하면, 그것은 살갗에 생긴 발진일 뿐이므로 그는 정하다.",
     Chn:"祭司就要察看，他们肉皮上的火斑若白中带黑，这是皮上发出的白癣，那人是洁净了。",
     Eng:"the priest is to examine them, and if the spots are dull white, it is a harmless rash that has broken out on the skin; that person is clean.",
     Ind:"imam harus melakukan pemeriksaan; bila ternyata pada kulitnya ada panau-panau pudar dan putih, maka hanya kuraplah yang timbul pada kulitnya dan orang itu tahir."
@@ -273,13 +273,13 @@ BibleDB.add([
     Ind:"Orang yang sakit kusta harus berpakaian yang cabik-cabik, rambutnya terurai dan lagi ia harus menutupi mukanya sambil berseru-seru: Najis! Najis!"
   },
   {Bible:"Leviticus", Chapter:13, Verse:46, Page:1,
-    Kor:"병에 걸려 있는 한, 부정한 상태에 머물러 있게 되므로, 그는 부정하다. 그는 진 바깥에서 혼자 따로 살아야 한다.\"",
+    Kor:"병에 걸려 있는 한, 부정한 상태에 머물러 있게 되므로, 그는 부정하다. 그는 진 바깥에서 혼자 따로 살아야 한다.",
     Chn:"灾病在他身上的日子，他便是不洁净；他既是不洁净，就要独居营外。」",
     Eng:"As long as he has the infection he remains unclean. He must live alone; he must live outside the camp.",
     Ind:"Selama ia kena penyakit itu, ia tetap najis; memang ia najis; ia harus tinggal terasing, di luar perkemahan itulah tempat kediamannya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:47, Page:1,
-    Kor:"<천이나 가죽 제품에 생기는 곰팡이> ○\"곰팡이가 옷 곧 털옷이나 베옷에 묻었을 때에,",
+    Kor:"○곰팡이가 옷, 곧 털옷이나 베옷에 묻었을 때에,",
     Chn:"「染了大麻风灾病的衣服，无论是羊毛衣服、是麻布衣服，",
     Eng:"\"If any clothing is contaminated with mildew--any woolen or linen clothing,",
     Ind:"Apabila pada pakaian ada tanda kusta, pada pakaian bulu domba atau pakaian lenan,"
@@ -303,7 +303,7 @@ BibleDB.add([
     Ind:"Kalau tanda itu telah diperiksa oleh imam, ia harus mengasingkan yang mempunyai tanda itu tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:13, Verse:51, Page:1,
-    Kor:"이레째 되는 날에 그 자국을 살펴보아야 한다. 그 자국이 옷에나, 천의 날에나 씨에, 또는 어떤 용도로 쓰이는 가죽 제품이든지 그 가죽에 퍼졌으면, 그것은 악성 곰팡이이다. 그것이 묻은 옷이나 천은 부정하다.",
+    Kor:"이레째 되는 날에, 그 자국을 살펴보아야 한다. 그 자국이 옷에나, 천의 날에나 씨에, 또는 어떤 용도로 쓰이는 가죽 제품이든지 그 가죽에 퍼졌으면, 그것은 악성 곰팡이이다. 그것이 묻은 옷이나 천은 부정하다.",
     Chn:"第七天，他要察看那灾病，灾病或在衣服上，经上、纬上，皮子上，若发散，这皮子无论当作何用，这灾病是蚕食的大麻风，都是不洁净了。",
     Eng:"On the seventh day he is to examine it, and if the mildew has spread in the clothing, or the woven or knitted material, or the leather, whatever its use, it is a destructive mildew; the article is unclean.",
     Ind:"Pada hari yang ketujuh ia harus memeriksa tanda itu lagi; apabila tanda itu meluas pada pakaian atau benang lungsin atau benang pakan atau pada kulit, entah untuk barang apapun kulit itu dipakai, maka itu adalah kusta yang jahat sekali, dan barang itu najis."

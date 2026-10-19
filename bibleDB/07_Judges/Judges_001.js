@@ -3,25 +3,25 @@
 BibleDB.ref("Judges",1,36);
 BibleDB.add([
   {Bible:"Judges", Chapter:1, Verse:1, Page:1,
-    Kor:"<유다와 시므온 지파가 아도니베섹을 잡다> 여호수아가 죽은 뒤에, 이스라엘 자손이 주님께 여쭈었다. \"우리 가운데 어느 지파가 먼저 올라가서 가나안 사람과 싸워야 합니까?\"",
+    Kor:"여호수아가 죽은 뒤에, 이스라엘 자손이 주께 여쭈었다. \"우리 가운데 어느 지파가 먼저 올라가서 가나안 사람과 싸워야 합니까?\"",
     Chn:"约书亚死后，以色列人求问耶和华说：「我们中间谁当首先上去攻击迦南人，与他们争战？」",
     Eng:"After the death of Joshua, the Israelites asked the LORD, \"Who will be the first to go up and fight for us against the Canaanites?\"",
     Ind:"Sesudah Yosua mati, orang Israel bertanya kepada TUHAN: \"Siapakah dari pada kami yang harus lebih dahulu maju menghadapi orang Kanaan untuk berperang melawan mereka?\""
   },
   {Bible:"Judges", Chapter:1, Verse:2, Page:1,
-    Kor:"주님께서 대답하셨다. \"유다 지파가 먼저 올라가거라. 내가 그 땅을 유다 지파의 손에 넘겨 주었다.\"",
+    Kor:"주께서 대답하셨다. \"유다 지파가 먼저 올라가거라. 내가 그 땅을 유다 지파의 손에 넘겨 주었다.\"",
     Chn:"耶和华说：「犹大当先上去，我已将那地交在他手中。」",
     Eng:"The LORD answered, \"Judah is to go; I have given the land into their hands.\"",
     Ind:"Firman TUHAN: \"Suku Yehudalah yang harus maju; sesungguhnya telah Kuserahkan negeri itu ke dalam tangannya.\""
   },
   {Bible:"Judges", Chapter:1, Verse:3, Page:1,
-    Kor:"그 때에 유다 지파 사람들이 자기들의 동기인 시므온 지파 사람들에게 제안하였다. \"우리와 함께 우리 몫으로 정해진 땅으로 올라가서, 가나안 사람을 치자. 그러면 우리도 너희 몫으로 정해진 땅으로 함께 싸우러 올라가겠다.\" 그리하여 시므온 지파가 유다 지파와 함께 진군하였다.",
+    Kor:"그 때에 유다 지파 사람들이 자기들의 동기인 시므온 지파 사람들에게 제안하였다. \"우리와 함께 우리 몫으로 정해진 땅으로 올라가서, 가나안 사람을 치자. 그러면 우리도, 너희 몫으로 정해진 땅으로 함께 싸우러 올라가겠다.\" 그리하여 시므온 지파가 유다 지파와 함께 진군하였다.",
     Chn:"犹大对他哥哥西缅说：「请你同我到拈阄所得之地去，好与迦南人争战；以后我也同你到你拈阄所得之地去。」于是西缅与他同去。",
     Eng:"Then the men of Judah said to the Simeonites their brothers, \"Come up with us into the territory allotted to us, to fight against the Canaanites. We in turn will go with you into yours.\" So the Simeonites went with them.",
     Ind:"Lalu berkatalah Yehuda kepada Simeon, saudaranya itu: \"Majulah bersama-sama dengan aku ke bagian yang telah diundikan kepadaku dan baiklah kita berperang melawan orang Kanaan, maka akupun akan maju bersama-sama dengan engkau ke bagian yang telah diundikan kepadamu.\" Lalu Simeon maju bersama-sama dengan dia."
   },
   {Bible:"Judges", Chapter:1, Verse:4, Page:1,
-    Kor:"유다 지파가 싸우러 올라갔을 때에, 주님께서 가나안 사람과 브리스 사람을 그들의 손에 넘겨 주셨으므로, 그들은 베섹에서 만 명이나 무찔렀다.",
+    Kor:"유다 지파가 싸우러 올라갔을 때에, 주께서 가나안 사람과 브리스 사람을 그들의 손에 넘겨 주셨으므로, 그들은 베섹에서 만 명이나 무찔렀다.",
     Chn:"犹大就上去；耶和华将迦南人和比利洗人交在他们手中。他们在比色击杀了一万人，",
     Eng:"When Judah attacked, the LORD gave the Canaanites and Perizzites into their hands and they struck down ten thousand men at Bezek.",
     Ind:"Maka majulah suku Yehuda, lalu TUHAN menyerahkan orang Kanaan dan orang Feris ke dalam tangan mereka, dan mereka memukul kalah orang-orang itu dekat Bezek, sepuluh ribu orang banyaknya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Kata Adoni-Bezek: \"Ada tujuh puluh raja dengan terpotong ibu jari tangan dan kakinya memungut sisa-sisa makanan di bawah mejaku; sesuai dengan yang kulakukan itu, demikianlah dibalaskan Allah kepadaku.\" Kemudian ia dibawa ke Yerusalem dan mati di sana."
   },
   {Bible:"Judges", Chapter:1, Verse:8, Page:1,
-    Kor:"<유다 지파가 예루살렘과 헤브론을 치다> ○유다 자손이 예루살렘을 치고 점령하여, 그 곳 주민을 칼로 죽이고, 그 성을 불태웠다.",
+    Kor:"○유다 자손이 예루살렘을 치고 점령하여, 그 곳 주민을 칼로 죽이고, 그 성을 불태웠다.",
     Chn:"犹大人攻打耶路撒冷，将城攻取，用刀杀了城内的人，并且放火烧城。",
     Eng:"The men of Judah attacked Jerusalem also and took it. They put the city to the sword and set it on fire.",
     Ind:"Sesudah itu bani Yehuda berperang melawan Yerusalem, merebutnya lalu memukulnya dengan mata pedang dan memusnahkan kota itu dengan api."
   },
   {Bible:"Judges", Chapter:1, Verse:9, Page:1,
-    Kor:"그 다음에 유다 자손은 산간지방과 네겝 지방과 낮은 지대로 내려가서, 거기에 사는 가나안 사람과 싸웠다.",
+    Kor:"그 다음에 유다 자손은, 산간지방과 네겝 지방과 낮은 지대로 내려가서, 거기에 사는 가나안 사람과 싸웠다.",
     Chn:"后来犹大人下去，与住山地、南地，和高原的迦南人争战。",
     Eng:"After that, the men of Judah went down to fight against the Canaanites living in the hill country, the Negev and the western foothills.",
     Ind:"Kemudian bani Yehuda maju berperang melawan orang Kanaan, yang diam di pegunungan, di Tanah Negeb dan di Daerah Bukit."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lalu suku Yehuda bergerak menyerang orang Kanaan yang diam di Hebron--nama Hebron dahulu adalah Kiryat-Arba--dan memukul kalah Sesai, Ahiman dan Talmai."
   },
   {Bible:"Judges", Chapter:1, Verse:11, Page:1,
-    Kor:"<옷니엘이 드빌을 정복하다(수 15:13-19)> ○거기에서 그들은 드빌 주민을 치러 갔다. 드빌은 일찍이 기럇세벨이라고 불리던 곳이다.",
+    Kor:"○거기에서 그들은 드빌 주민을 치러 갔다. 드빌은 일찍이 기럇세벨이라고 불리던 곳이다.",
     Chn:"他们从那里去攻击底壁的居民；底壁从前名叫基列·西弗。",
     Eng:"From there they advanced against the people living in Debir (formerly called Kiriath Sepher).",
     Ind:"Dari sana mereka bergerak menyerang penduduk Debir. Nama Debir dahulu adalah Kiryat-Sefer."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan Otniel, anak Kenas adik Kaleb, merebut kota itu; lalu Kaleb memberikan Akhsa, anaknya, kepadanya menjadi isterinya."
   },
   {Bible:"Judges", Chapter:1, Verse:14, Page:1,
-    Kor:"결혼을 하고 나서, a악사는 자기의 남편 옷니엘에게 아버지에게서 밭을 얻으라고 재촉하였다. 악사가 나귀에서 내리자 갈렙이 딸에게 물었다. \"뭐, 더 필요한 것이 있느냐?\"(a 칠십인역 사본 가운데 더러는 옷니엘이 그의 아내 악사를 시켜 장인 갈렙에게서 밭을 얻어내라고 재촉함. 수 15:18 본문과 주를 볼 것)",
+    Kor:"결혼을 하고 나서, 악사는 자기의 남편 옷니엘에게, 아버지에게서 밭을 얻으라고 재촉하였다. 악사가 나귀에서 내리자 갈렙이 딸에게 물었다. \"뭐, 더 필요한 것이 있느냐?\"",
     Chn:"押撒过门的时候，劝丈夫向她父亲求一块田。押撒一下驴，迦勒问她说：「你要什么？」",
     Eng:"One day when she came to Othniel, she urged him to ask her father for a field. When she got off her donkey, Caleb asked her, \"What can I do for you?\"",
     Ind:"Ketika perempuan itu tiba, dibujuknya suaminya untuk meminta sebidang ladang kepada ayahnya. Maka turunlah perempuan itu dari keledainya, lalu berkatalah Kaleb kepadanya: \"Ada apa?\""
@@ -93,25 +93,25 @@ BibleDB.add([
     Ind:"Jawabnya kepadanya: \"Berikanlah kepadaku suatu hadiah; telah kauberikan kepadaku tanah yang gersang, berikanlah juga kepadaku mata air.\" Lalu Kaleb memberikan kepadanya mata air yang di hulu dan mata air yang di hilir."
   },
   {Bible:"Judges", Chapter:1, Verse:16, Page:1,
-    Kor:"<유다와 베냐민 지파의 승리> ○b모세의 장인은 겐 자손인데, 그의 자손이 유다 자손과 함께 종려나무 성읍인 여리고로부터 아랏 c남쪽에 있는 유다 광야로 옮겨와서, 유다 광야 d백성 가운데 자리잡고 살았다.(b 칠십인역에는 '장인 호밥은'. 모세의 장인은 민 10:29 및 삿 4:11에서는 호밥이고, 출 2:21에서는 르우엘이고, 출 18장에서는 이드로이다 c 히, '네겝' d 칠십인역 사본 가운데 몇몇과 고대 라틴어역에는 '아말렉 백성 가운데'임. 삼상 15:6을 볼 것)",
+    Kor:"○모세의 장인은 겐 자손인데, 그의 자손이 유다 자손과 함께, 종려나무 성읍인 여리고로부터 아랏 남쪽에 있는 유다 광야로 옮겨와서, 유다 광야 백성 가운데 자리잡고 살았다.",
     Chn:"摩西的内兄是基尼人，他的子孙与犹大人一同离了棕树城，往亚拉得以南的犹大旷野去，就住在民中。",
     Eng:"The descendants of Moses' father-in-law, the Kenite, went up from the City of Palms with the men of Judah to live among the people of the Desert of Judah in the Negev near Arad.",
     Ind:"Keturunan Hobab, ipar Musa, orang Keni itu, maju bersama-sama dengan bani Yehuda dari kota pohon korma ke padang gurun Yehuda di Tanah Negeb dekat Arad; lalu mereka menetap di antara penduduk di sana."
   },
   {Bible:"Judges", Chapter:1, Verse:17, Page:1,
-    Kor:"유다 지파 사람들이 그들의 동기인 시므온 지파 사람들과 함께, 스밧에 사는 가나안 족속에게 쳐들어가서, 그들을 무찌르고, 그 곳을 전멸시켰다. 그래서 그 성읍의 이름을 e호르마라고 부른다.(e '전멸', '멸망')",
+    Kor:"유다 지파 사람들이 그들의 동기인 시므온 지파 사람들과 함께, 스밧에 사는 가나안 족속에게 쳐들어가서, 그들을 무찌르고, 그 곳을 전멸시켰다. 그래서 그 성읍의 이름을 호르마라고 부른다.",
     Chn:"犹大和他哥哥西缅同去，击杀了住洗法的迦南人，将城尽行毁灭，那城的名便叫何珥玛。",
     Eng:"Then the men of Judah went with the Simeonites their brothers and attacked the Canaanites living in Zephath, and they totally destroyed the city. Therefore it was called Hormah.",
     Ind:"Yehuda maju bersama-sama dengan Simeon, saudaranya itu, lalu mereka memukul kalah orang Kanaan, penduduk Zefat; mereka menumpas kota itu. Sebab itu kota itu dinamai Horma."
   },
   {Bible:"Judges", Chapter:1, Verse:18, Page:1,
-    Kor:"또 유다 지파 사람들은, 가사와 그 지역 일대와, 아스글론과 그 지역 일대와, 에그론과 그 지역 일대를 f점령하였다.(f 칠십인역에는 '점령하지 못하였다')",
+    Kor:"또 유다 지파 사람들은, 가사와 그 지역 일대와, 아스글론과 그 지역 일대와, 에그론과 그 지역 일대를 점령하였다.",
     Chn:"犹大又取了迦萨和迦萨的四境，亚实基伦和亚实基伦的四境，以革伦和以革伦的四境。",
     Eng:"The men of Judah also took Gaza, Ashkelon and Ekron--each city with its territory.",
     Ind:"Selanjutnya suku Yehuda merebut Gaza dengan daerahnya, Askelon dengan daerahnya dan Ekron dengan daerahnya."
   },
   {Bible:"Judges", Chapter:1, Verse:19, Page:1,
-    Kor:"주님께서 유다 지파 사람들과 함께 계셨으므로, 그들은 산간지방을 차지할 수 있었다. 그러나 낮은 지대에 살고 있는 거민들은, 철 병거로 방비하고 있었기 때문에 쫓아내지 못하였다.",
+    Kor:"주께서 유다 지파 사람들과 함께 계셨으므로, 그들은 산간지방을 차지할 수 있었다. 그러나 낮은 지대에 살고 있는 거민들은, 철 병거로 방비하고 있었기 때문에, 쫓아내지 못하였다.",
     Chn:"耶和华与犹大同在，犹大就赶出山地的居民，只是不能赶出平原的居民，因为他们有铁车。",
     Eng:"The LORD was with the men of Judah. They took possession of the hill country, but they were unable to drive the people from the plains, because they had iron chariots.",
     Ind:"Dan TUHAN menyertai suku Yehuda, sehingga mereka menduduki pegunungan itu; tetapi mereka tidak dapat menghalau penduduk yang di lembah, sebab orang-orang ini mempunyai kereta-kereta besi."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Tetapi orang Yebus, penduduk kota Yerusalem, tidak dihalau oleh bani Benyamin, jadi orang Yebus itu masih diam bersama-sama dengan bani Benyamin di Yerusalem sampai sekarang."
   },
   {Bible:"Judges", Chapter:1, Verse:22, Page:1,
-    Kor:"<에브라임과 므낫세 지파가 베델을 치다> ○요셉의 집안 역시 베델을 치러 올라갔다. 주님께서 그들과 함께 계셨다.",
+    Kor:"○요셉의 집안 역시 베델을 치러 올라갔다. 주께서 그들과 함께 계셨다.",
     Chn:"约瑟家也上去攻打伯特利；耶和华与他们同在。",
     Eng:"Now the house of Joseph attacked Bethel, and the LORD was with them.",
     Ind:"Keturunan Yusuf juga maju menyerang Betel, dan TUHAN menyertai mereka."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Orang itu pergi ke negeri orang Het dan mendirikan di sana sebuah kota yang dinamainya Lus. Demikianlah nama kota itu sampai sekarang."
   },
   {Bible:"Judges", Chapter:1, Verse:27, Page:1,
-    Kor:"<쫓아내지 않은 가나안 사람들> ○므낫세 지파가 벳산과 그 주변 마을들과, 다아낙과 그 주변 마을들과, 돌과 그 주변 마을들과, 이블르암과 그 주변 마을들과, 므깃도와 그 주변 마을들에 사는 주민을 몰아내지 못하였으므로, 가나안 사람들은 그 땅에서 살기로 마음을 굳혔다.",
+    Kor:"○므낫세 지파가 벳스안과 그 주변 마을들과, 다아낙과 그 주변 마을들과, 돌과 그 주변 마을들과, 이블르암과 그 주변 마을들과, 므깃도와 그 주변 마을들에 사는 주민을 몰아내지 못하였으므로, 가나안 사람들은 그 땅에서 살기로 마음을 굳혔다.",
     Chn:"玛拿西没有赶出伯·善和属伯·善乡村的居民，他纳和属他纳乡村的居民，多珥和属多珥乡村的居民，以伯莲和属以伯莲乡村的居民，米吉多和属米吉多乡村的居民；迦南人却执意住在那些地方。",
     Eng:"But Manasseh did not drive out the people of Beth Shan or Taanach or Dor or Ibleam or Megiddo and their surrounding settlements, for the Canaanites were determined to live in that land.",
     Ind:"Suku Manasye tidak menghalau penduduk Bet-Sean dan penduduk segala anak kotanya, penduduk Taanakh dengan segala anak kotanya, penduduk Dor dengan segala anak kotanya, penduduk Yibleam dengan segala anak kotanya, dan penduduk Megido dengan segala anak kotanya, sebab orang Kanaan itu berkeras untuk tetap diam di negeri itu."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Suku Zebulon tidak menghalau penduduk Kitron dan penduduk Nahalol, sehingga orang Kanaan itu tetap diam di tengah-tengah mereka, walaupun sebagai orang rodi."
   },
   {Bible:"Judges", Chapter:1, Verse:31, Page:1,
-    Kor:"○아셀 지파는 악고의 주민과 시돈의 주민과 알랍과 악십과 헬바와 g아벡과 르홉의 주민을 몰아내지 못하였다.(g 히, '아빅')",
+    Kor:"○아셀 지파는 악고의 주민과 시돈의 주민과 알랍과 악십과 헬바와 아빅과 르홉의 주민을 몰아내지 못하였다.",
     Chn:"亚设没有赶出亚柯和西顿的居民，亚黑拉和亚革悉的居民，黑巴、亚弗革与利合的居民。",
     Eng:"Nor did Asher drive out those living in Acco or Sidon or Ahlab or Aczib or Helbah or Aphek or Rehob,",
     Ind:"Suku Asyer tidak menghalau penduduk Ako, penduduk Sidon serta Ahlab, Akhzib, Helba, Afek dan Rehob,"
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"dan orang Amori itu berkeras untuk tetap diam di Har-Heres, di Ayalon dan di Saalbim, walaupun mereka mendapat tekanan berat dari keturunan Yusuf, sebab mereka menjadi orang rodi."
   },
   {Bible:"Judges", Chapter:1, Verse:36, Page:1,
-    Kor:"○h아모리 사람의 경계선은 아그랍빔 비탈에 있는 바위에서부터 그 위쪽이다.(h 칠십인역과 고대 라틴어역과 아랍어역과 시리아어역과 헥사플라에는 '에돔 사람')",
+    Kor:"○아모리 사람의 경계선은 아그랍빔 비탈에 있는 바위에서부터 그 위쪽이다.",
     Chn:"亚摩利人的境界，是从亚克拉滨坡，从西拉而上。",
     Eng:"The boundary of the Amorites was from Scorpion Pass to Sela and beyond.",
     Ind:"Daerah orang Amori itu mulai dari pendakian Akrabim, dari Sela, terus ke atas."

@@ -3,13 +3,13 @@
 BibleDB.ref("Acts",27,44);
 BibleDB.add([
   {Bible:"Acts", Chapter:27, Verse:1, Page:1,
-    Kor:"<바울이 로마로 압송되다> 우리가 배로 이탈리아에 가야 하는 것이 결정되었을 때에, 그들은 바울과 몇몇 다른 죄수를 황제 부대의 백부장 율리오라는 사람에게 넘겨주었다.",
+    Kor:"우리가 배로 이탈리아에 가야 하는 것이 결정되었을 때에, 그들은 바울과 몇몇 다른 죄수를 황제 부대의 백부장 율리오라는 사람에게 넘겨 주었다.",
     Chn:"非斯都既然定规了，叫我们坐船往意大利去，便将保罗和别的囚犯交给御营里的一个百夫长，名叫犹流。",
     Eng:"When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment.",
     Ind:"Setelah diputuskan, bahwa kami akan berlayar ke Italia, maka Paulus dan beberapa orang tahanan lain diserahkan kepada seorang perwira yang bernama Yulius dari pasukan Kaisar."
   },
   {Bible:"Acts", Chapter:27, Verse:2, Page:1,
-    Kor:"우리는 아드라뭇데노 호를 타고 출항하였다. 이 배는 a아시아 연안의 여러 곳으로 항해하는 배였다. 데살로니가 출신인 마케도니아 사람 아리스다고도 우리와 함께 하였다.(a 오늘날의 소아시아의 서남부에 위치한 로마의 행정 구역인 아시아 주를 가리킴)",
+    Kor:"우리는 아드라뭇데노 호를 타고 행선하였다. 이 배는 아시아 연안의 여러 곳으로 항해하는 배였다. 데살로니가 출신인 마케도니아 사람 아리스다고도 우리와 함께 있었다.",
     Chn:"有一只亚大米田的船，要沿着亚细亚一带地方的海边走，我们就上了那船开行；有马其顿的帖撒罗尼迦人亚里达古和我们同去。",
     Eng:"We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us.",
     Ind:"Kami naik ke sebuah kapal dari Adramitium yang akan berangkat ke pelabuhan-pelabuhan di sepanjang pantai Asia, lalu kami bertolak. Aristarkhus, seorang Makedonia dari Tesalonika, menyertai kami."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Pada keesokan harinya kami singgah di Sidon. Yulius memperlakukan Paulus dengan ramah dan memperbolehkannya mengunjungi sahabat-sahabatnya, supaya mereka melengkapkan keperluannya."
   },
   {Bible:"Acts", Chapter:27, Verse:4, Page:1,
-    Kor:"우리는 시돈을 떠나 뱃길을 갈 때에, 맞바람 때문에 키프로스 섬을 바람막이로 삼아서 항해하였다.",
+    Kor:"시돈을 떠나 행선할 때에, 우리는 맞바람 때문에 키프로스 섬을 바람막이로 삼아서 항해하였다.",
     Chn:"从那里又开船，因为风不顺，就贴着塞浦路斯背风岸行去。",
     Eng:"From there we put out to sea again and passed to the lee of Cyprus because the winds were against us.",
     Ind:"Oleh karena angin sakal kami berlayar dari situ menyusur pantai Siprus."
@@ -33,25 +33,25 @@ BibleDB.add([
     Ind:"Dan setelah mengarungi laut di depan Kilikia dan Pamfilia, sampailah kami di Mira, di daerah Likia."
   },
   {Bible:"Acts", Chapter:27, Verse:6, Page:1,
-    Kor:"거기서 백부장은 이탈리아로 가는 알렉산드리아 배를 만나서, 우리를 그 배에 태웠다.",
+    Kor:"거기에서 백부장은 이탈리아로 가는 알렉산드리아 배를 만나서, 우리를 그 배에 태웠다.",
     Chn:"在那里，百夫长遇见一只亚历山大的船，要往意大利去，便叫我们上了那船。",
     Eng:"There the centurion found an Alexandrian ship sailing for Italy and put us on board.",
     Ind:"Di situ perwira kami menemukan sebuah kapal dari Aleksandria yang hendak berlayar ke Italia. Ia memindahkan kami ke kapal itu."
   },
   {Bible:"Acts", Chapter:27, Verse:7, Page:1,
-    Kor:"우리는 여러 날 동안 천천히 항해하여, 겨우 니도 앞바다에 이르렀다. 그런데 우리는 맞바람 때문에 더 이상 나아갈 수 없어서, 크레타 섬을 바람막이로 삼아 살모네 앞바다를 항해하여 지나갔다.",
+    Kor:"우리는 여러 날 동안 천천히 항해하여, 겨우 니도 앞 바다에 이르렀다. 그런데 우리는 맞바람 때문에 더 이상 나아갈 수 없어서, 크레타 섬을 바람막이로 삼아 살모네 앞 바다를 항해하여 지나갔다.",
     Chn:"一连多日，船行得慢，仅仅来到革尼土的对面。因为被风拦阻，就贴着克里特背风岸，从撒摩尼对面行过。",
     Eng:"We made slow headway for many days and had difficulty arriving off Cnidus. When the wind did not allow us to hold our course, we sailed to the lee of Crete, opposite Salmone.",
     Ind:"Selama beberapa hari berlayar, kami hampir-hampir tidak maju dan dengan susah payah kami mendekati Knidus. Karena angin tetap tidak baik, kami menyusur pantai Kreta melewati tanjung Salmone."
   },
   {Bible:"Acts", Chapter:27, Verse:8, Page:1,
-    Kor:"그리고 우리는 크레타 남쪽 해안을 따라 겨우겨우 항해하여, 라새아 성에서 가까운 도시인 '아름다운 항구'라는 곳에 닿았다.",
+    Kor:"그리고 우리는 크레타 남쪽 해안을 따라 겨우 항해하여, '아름다운 항구'라는 곳에 닿았다. 이 도시는 라새아 성에서 가까운 곳이다.",
     Chn:"我们沿岸行走，仅仅来到一个地方，名叫佳澳；离那里不远，有拉西亚城。",
     Eng:"We moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea.",
     Ind:"Sesudah kami dengan susah payah melewati tanjung itu, sampailah kami di sebuah tempat bernama Pelabuhan Indah, dekat kota Lasea."
   },
   {Bible:"Acts", Chapter:27, Verse:9, Page:1,
-    Kor:"○많은 시일이 흘러서, 금식 기간이 이미 지났으므로, 벌써 항해하기에 위태로운 때가 되었다. 그래서 바울은 그들에게 이렇게 충고하였다.",
+    Kor:"○많은 시일이 지나서, 금식 기간이 이미 지났으므로, 때가 벌써 항해하기에 위태로웠다. 그래서 바울은 그들에게 이렇게 충고하였다.",
     Chn:"走的日子多了，已经过了禁食的节期，行船又危险，保罗就劝众人说：",
     Eng:"Much time had been lost, and sailing had already become dangerous because by now it was after the Fast. So Paul warned them,",
     Ind:"Sementara itu sudah banyak waktu yang hilang. Waktu puasa sudah lampau dan sudah berbahaya untuk melanjutkan pelayaran. Sebab itu Paulus memperingatkan mereka, katanya:"
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"\"Saudara-saudara, aku lihat, bahwa pelayaran kita akan mendatangkan kesukaran-kesukaran dan kerugian besar, bukan saja bagi muatan dan kapal, tetapi juga bagi nyawa kita.\""
   },
   {Bible:"Acts", Chapter:27, Verse:11, Page:1,
-    Kor:"그러나 백부장은 바울의 말보다는 선장과 선주의 말을 더 믿었다.",
+    Kor:"그러나 백부장은 바울의 말보다는, 선장과 선주의 말을 더 믿었다.",
     Chn:"但百夫长信从掌船的和船主，不信从保罗所说的。",
     Eng:"But the centurion, instead of listening to what Paul said, followed the advice of the pilot and of the owner of the ship.",
     Ind:"Tetapi perwira itu lebih percaya kepada jurumudi dan nakhoda dari pada kepada perkataan Paulus."
   },
   {Bible:"Acts", Chapter:27, Verse:12, Page:1,
-    Kor:"그리고 그 항구는 겨울을 나기에 적합하지 못한 곳이므로, 거의 모두는, 거기에서 출항하여, 할 수 있으면 뵈닉스로 가서 겨울을 나기로 뜻을 정하였다. 뵈닉스는 크레타 섬의 항구로, 서남쪽과 서북쪽을 바라보는 곳이다.",
+    Kor:"그리고 그 항구는 겨울을 나기에 적합하지 못한 곳이므로, 대다수의 사람은 거기에서 행선하여, 할 수 있으면, 뵈닉스로 가서 겨울을 나자고 하였다. 뵈닉스는 크레타 섬의 항구로, 서남쪽과 서북쪽을 바라보는 곳이다.",
     Chn:"且因在这海口过冬不便，船上的人就多半说，不如开船离开这地方，或者能到菲尼基过冬。菲尼基是克里特的一个海口，一面朝东北，一面朝东南。",
     Eng:"Since the harbor was unsuitable to winter in, the majority decided that we should sail on, hoping to reach Phoenix and winter there. This was a harbor in Crete, facing both southwest and northwest.",
     Ind:"Karena pelabuhan itu tidak baik untuk tinggal di situ selama musim dingin, maka kebanyakan dari mereka lebih setuju untuk berlayar terus dan mencoba mencapai kota Feniks untuk tinggal di situ selama musim dingin. Kota Feniks adalah sebuah pelabuhan pulau Kreta, yang terbuka ke arah barat daya dan ke arah barat laut."
   },
   {Bible:"Acts", Chapter:27, Verse:13, Page:1,
-    Kor:"<바울이 바다에서 폭풍을 만나다> ○때마침 남풍이 순하게 불어오므로, 그들은 뜻을 이룬 것이나 다름없다고 생각하고, 닻을 올리고서, 크레타 해안에 바싹 붙어서 항해하였다.",
+    Kor:"○때마침 남풍이 순하게 불어왔으므로, 그들은 뜻을 이룬 것이나 다름없다고 생각하고, 닻을 올리고서, 크레타 해안에 바싹 붙어서 항해하였다.",
     Chn:"这时，微微起了南风，他们以为得意，就起了锚，贴近克里特行去。",
     Eng:"When a gentle south wind began to blow, they thought they had obtained what they wanted; so they weighed anchor and sailed along the shore of Crete.",
     Ind:"Pada waktu itu angin sepoi-sepoi bertiup dari selatan. Mereka menyangka, bahwa maksud mereka sudah tentu akan tercapai. Mereka membongkar sauh, lalu berlayar dekat sekali menyusur pantai Kreta."
   },
   {Bible:"Acts", Chapter:27, Verse:14, Page:1,
-    Kor:"그런데 얼마 안 되어서, 유라굴로라는 폭풍이 섬쪽에서 몰아쳤다.",
+    Kor:"그런데 얼마 안 되어서, 유라굴로라는 폭풍이 섬에서 몰아쳤다.",
     Chn:"不多几时，狂风从岛上扑下来；那风名叫「友拉革罗」。",
     Eng:"Before very long, a wind of hurricane force, called the \"northeaster,\" swept down from the island.",
     Ind:"Tetapi tidak berapa lama kemudian turunlah dari arah pulau itu angin badai, yang disebut angin \"Timur Laut\"."
@@ -93,25 +93,25 @@ BibleDB.add([
     Ind:"Kapal itu dilandanya dan tidak tahan menghadapi angin haluan. Karena itu kami menyerah saja dan membiarkan kapal kami terombang-ambing."
   },
   {Bible:"Acts", Chapter:27, Verse:16, Page:1,
-    Kor:"그런데 우리가 b가우다라는 작은 섬 아래쪽을 따라 밀려 갈 때에, 그 섬이 어느 정도 바람막이가 되어 주었으므로, 우리는 간신히 거룻배를 휘어잡을 수 있었다.(b 다른 고대 사본들에는 '클라우다')",
+    Kor:"그런데 우리가 가우다라는 작은 섬 아래쪽을 따라 밀려 갈 때에, 그 섬이 어느 정도 바람막이가 되어 주었으므로, 우리는 간신히 거룻배를 안전하게 쓸 수 있게 손볼 수 있었다.",
     Chn:"贴着一个小岛的背风岸奔行，那岛名叫高大，在那里仅仅收住了小船。",
     Eng:"As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure.",
     Ind:"Kemudian kami hanyut sampai ke pantai sebuah pulau kecil bernama Kauda, dan di situ dengan susah payah kami dapat menguasai sekoci kapal itu."
   },
   {Bible:"Acts", Chapter:27, Verse:17, Page:1,
-    Kor:"선원들은 거룻배를 갑판 위에다가 끌어올리고 밧줄을 이용하여 선체를 동여매었다. 그리고 그들은 리비아 근해의 모래톱으로 밀려들까 두려워서, 바다에 닻을 내리고, 그냥 떠밀려 가고 있었다.",
+    Kor:"선원들은 거룻배를 갑판 위에다가 끌어올리고 밧줄로 선체를 동여매었다. 그리고 그들은 리비아 근해의 모래톱으로 밀려들까 두려워서, 돛을 내리고, 그냥 떠밀려 가고 있었다.",
     Chn:"既然把小船拉上来，就用缆索捆绑船底，又恐怕在赛耳底沙滩上搁了浅，就落下篷来，任船飘去。",
     Eng:"When the men had hoisted it aboard, they passed ropes under the ship itself to hold it together. Fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along.",
     Ind:"Dan setelah sekoci itu dinaikkan ke atas kapal, mereka memasang alat-alat penolong dengan meliliti kapal itu dengan tali. Dan karena takut terdampar di beting Sirtis, mereka menurunkan layar dan membiarkan kapal itu terapung-apung saja."
   },
   {Bible:"Acts", Chapter:27, Verse:18, Page:1,
-    Kor:"우리는 폭풍에 몹시 시달리고 있었는데, 다음날 선원들은 짐을 바다에 내던졌고,",
+    Kor:"우리는 폭풍에 몹시 시달리고 있었는데, 다음날 선원들이 짐을 바다에 내던지고,",
     Chn:"我们被风浪逼得甚急，第二天众人就把货物抛在海里。",
     Eng:"We took such a violent battering from the storm that the next day they began to throw the cargo overboard.",
     Ind:"Karena kami sangat hebat diombang-ambingkan angin badai, maka pada keesokan harinya mereka mulai membuang muatan kapal ke laut."
   },
   {Bible:"Acts", Chapter:27, Verse:19, Page:1,
-    Kor:"사흘째 날에는 자기네들 손으로 배의 장비마저 내버렸다.",
+    Kor:"셋째 날에는 자기네들 스스로 배의 장비마저 내던져 버렸다.",
     Chn:"到第三天，他们又亲手把船上的器具抛弃了。",
     Eng:"On the third day, they threw the ship's tackle overboard with their own hands.",
     Ind:"Dan pada hari yang ketiga mereka membuang alat-alat kapal dengan tangan mereka sendiri."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Setelah beberapa hari lamanya baik matahari maupun bintang-bintang tidak kelihatan, dan angin badai yang dahsyat terus-menerus mengancam kami, akhirnya putuslah segala harapan kami untuk dapat menyelamatkan diri kami."
   },
   {Bible:"Acts", Chapter:27, Verse:21, Page:1,
-    Kor:"○사람들은 오랫동안 아무것도 먹지 못하고 있었다. 그 때에 바울이 이렇게 말하였다. \"여러분, 여러분은 내 말을 듣고, 크레타에서 출항하지 않았어야 했습니다. 그랬으면, 이런 재난과 손실은 당하지 않았을 것입니다.",
+    Kor:"○그 때 바울이, 오랫동안 아무것도 먹지 못한 사람들 가운데 서서, 이렇게 말하였다. \"여러분, 여러분은 내 말을 듣고, 크레타에서 출항하지 않았어야 했습니다. 그랬으면, 이런 재난과 손실은 당하지 않았을 것입니다.",
     Chn:"众人多日没有吃什么，保罗就出来站在他们中间，说：「众位，你们本该听我的话，不离开克里特，免得遭这样的伤损破坏。",
     Eng:"After the men had gone a long time without food, Paul stood up before them and said: \"Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss.",
     Ind:"Dan karena mereka beberapa lamanya tidak makan, berdirilah Paulus di tengah-tengah mereka dan berkata: \"Saudara-saudara, jika sekiranya nasihatku dituruti, supaya kita jangan berlayar dari Kreta, kita pasti terpelihara dari kesukaran dan kerugian ini!"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tetapi sekarang, juga dalam kesukaran ini, aku menasihatkan kamu, supaya kamu tetap bertabah hati, sebab tidak seorangpun di antara kamu yang akan binasa, kecuali kapal ini."
   },
   {Bible:"Acts", Chapter:27, Verse:23, Page:1,
-    Kor:"바로 지난밤에, 나의 주님이시요 내가 섬기는 분이신 하나님의 천사가, 내 곁에 서서",
+    Kor:"바로 지난밤에, 나의 주님이시요 내가 섬기는 하나님의 천사가, 내 곁에 서서",
     Chn:"因我所属所事奉的　神，他的使者昨夜站在我旁边，说：",
     Eng:"Last night an angel of the God whose I am and whom I serve stood beside me",
     Ind:"Karena tadi malam seorang malaikat dari Allah, yaitu dari Allah yang aku sembah sebagai milik-Nya, berdiri di sisiku,"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Namun kita harus mendamparkan kapal ini di salah satu pulau.\""
   },
   {Bible:"Acts", Chapter:27, Verse:27, Page:1,
-    Kor:"○열나흘째 밤이 되었을 때에, 우리는 아드리아 바다에 떠밀려 다녔다. 한밤중에 선원들은 어떤 육지에 가까이 이르고 있다고 짐작하였다.",
+    Kor:"○열나흘째 밤이 되었을 때에, 우리는 아드리아 바다에서 떠밀려 다녔다. 한밤중에, 선원들은 어떤 육지에 가까이 이르고 있다고 짐작하였다.",
     Chn:"到了第十四天夜间，船在亚得里亚海飘来飘去。约到半夜，水手以为渐近旱地，",
     Eng:"On the fourteenth night we were still being driven across the Adriatic Sea, when about midnight the sailors sensed they were approaching land.",
     Ind:"Malam yang keempat belas sudah tiba dan kami masih tetap terombang-ambing di laut Adria. Tetapi kira-kira tengah malam anak-anak kapal merasa, bahwa mereka telah dekat daratan."
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Dan karena takut, bahwa kami akan terkandas di salah satu batu karang, mereka membuang empat sauh di buritan, dan kami sangat berharap mudah-mudahan hari lekas siang."
   },
   {Bible:"Acts", Chapter:27, Verse:30, Page:1,
-    Kor:"그런데 선원들이 배를 버리고 달아나려고, 이물에서 닻을 내리는 척하면서 바다에 거룻배를 풀어 내렸다.",
+    Kor:"그런데 선원들이 배를 버리고 달아나려고, 이물에서 닻을 주는 척하면서 바다에 거루를 풀어 내렸다.",
     Chn:"水手想要逃出船去，把小船放在海里，假作要从船头抛锚的样子。",
     Eng:"In an attempt to escape from the ship, the sailors let the lifeboat down into the sea, pretending they were going to lower some anchors from the bow.",
     Ind:"Akan tetapi anak-anak kapal berusaha untuk melarikan diri dari kapal. Mereka menurunkan sekoci, dan berbuat seolah-olah mereka hendak melabuhkan beberapa sauh di haluan."
   },
   {Bible:"Acts", Chapter:27, Verse:31, Page:1,
-    Kor:"바울은 백부장과 병사들에게 말하였다. \"만일 이 사람들이 배에 그대로 남아 있지 않으면, 당신들은 무사할 수 없습니다.\"",
+    Kor:"바울은 백부장과 병사들에게 \"만일 이 사람들이 배에 그대로 남아 있지 않으면, 당신들은 무사할 수 없습니다\" 하고 말하였다.",
     Chn:"保罗对百夫长和兵丁说：「这些人若不等在船上，你们必不能得救。」",
     Eng:"Then Paul said to the centurion and the soldiers, \"Unless these men stay with the ship, you cannot be saved.\"",
     Ind:"Karena itu Paulus berkata kepada perwira dan prajurit-prajuritnya: \"Jika mereka tidak tinggal di kapal, kamu tidak mungkin selamat.\""
   },
   {Bible:"Acts", Chapter:27, Verse:32, Page:1,
-    Kor:"그러자 병사들이 거룻배의 밧줄을 끊어서 거룻배를 떨어뜨렸다.",
+    Kor:"그러자 병사들이 거루의 밧줄을 끊어서 거루를 떨어뜨렸다.",
     Chn:"于是兵丁砍断小船的绳子，由它飘去。",
     Eng:"So the soldiers cut the ropes that held the lifeboat and let it fall away.",
     Ind:"Lalu prajurit-prajurit itu memotong tali sekoci dan membiarkannya hanyut."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Ketika hari menjelang siang, Paulus mengajak semua orang untuk makan, katanya: \"Sudah empat belas hari lamanya kamu menanti-nanti saja, menahan lapar dan tidak makan apa-apa."
   },
   {Bible:"Acts", Chapter:27, Verse:34, Page:1,
-    Kor:"그래서 나는 여러분들에게 음식을 먹으라고 권합니다. 그래야 여러분은 목숨을 유지할 힘을 얻을 것입니다. 여러분 가운데서 아무도 머리카락 하나라도 잃지 않을 것입니다.\"",
+    Kor:"그래서 나는 여러분들에게 음식을 먹으라고 권합니다. 그래야 여러분은 목숨을 유지할 힘을 얻을 것입니다. 여러분 가운데서 누구도 머리카락 하나라도 잃지 않을 것입니다.\"",
     Chn:"所以我劝你们吃饭，这是关乎你们救命的事；因为你们各人连一根头发也不至于损坏。」",
     Eng:"Now I urge you to take some food. You need it to survive. Not one of you will lose a single hair from his head.\"",
     Ind:"Karena itu aku menasihati kamu, supaya kamu makan dahulu. Hal itu perlu untuk keselamatanmu. Tidak seorangpun di antara kamu akan kehilangan sehelaipun dari rambut kepalanya.\""
   },
   {Bible:"Acts", Chapter:27, Verse:35, Page:1,
-    Kor:"바울은 이렇게 말하고 나서, 빵을 들어, 모든 사람 앞에서 하나님께 감사를 드리고, 떼어서 먹기 시작하였다.",
+    Kor:"바울이 이렇게 말하고 나서, 모든 사람 앞에서 빵을 들어서, 하나님께 감사를 드리고, 떼어서 먹기 시작하였다.",
     Chn:"保罗说了这话，就拿着饼，在众人面前祝谢了　神，擘开吃。",
     Eng:"After he said this, he took some bread and gave thanks to God in front of them all. Then he broke it and began to eat.",
     Ind:"Sesudah berkata demikian, ia mengambil roti, mengucap syukur kepada Allah di hadapan semua mereka, memecah-mecahkannya, lalu mulai makan."
@@ -219,37 +219,37 @@ BibleDB.add([
     Ind:"Maka kuatlah hati semua orang itu, dan merekapun makan juga."
   },
   {Bible:"Acts", Chapter:27, Verse:37, Page:1,
-    Kor:"배에 탄 우리의 수는 모두 c이백일흔여섯 명이었다.(c 다른 고대 사본들에는 '일흔여섯' 또는 '대략 일흔여섯')",
+    Kor:"배에 탄 우리의 수는 모두 이백일흔여섯 명이었다.",
     Chn:"我们在船上的共有二百七十六个人。",
     Eng:"Altogether there were 276 of us on board.",
     Ind:"Jumlah kami semua yang di kapal itu dua ratus tujuh puluh enam jiwa."
   },
   {Bible:"Acts", Chapter:27, Verse:38, Page:1,
-    Kor:"사람들이 음식을 배부르게 먹은 뒤에, 남은 식량을 바다에 버려서 배를 가볍게 하였다.",
+    Kor:"사람들이 음식을 배부르게 먹은 뒤에, 남은 식량을 바다에 던져 버려서, 배를 가볍게 하였다.",
     Chn:"他们吃饱了，就把船上的麦子抛在海里，为要叫船轻一点。",
     Eng:"When they had eaten as much as they wanted, they lightened the ship by throwing the grain into the sea.",
     Ind:"Setelah makan kenyang, mereka membuang muatan gandum ke laut untuk meringankan kapal itu."
   },
   {Bible:"Acts", Chapter:27, Verse:39, Page:1,
-    Kor:"<배가 부서지다> ○날이 새니, 어느 땅인지는 알 수 없지만, 모래밭이 있는 항만이 보였다. 그래서 그들은 어떻게 해서든지, 배를 거기로 몰아 해변에 대기로 작정하였다.",
+    Kor:"○날이 새니, 어느 땅인지는 알 수 없었으나, 모래밭이 있는 항만이 보였다. 그래서 그들은 어떻게 해서든지, 배를 그 안으로 들여다가 해변에 대기로 작정하였다.",
     Chn:"到了天亮，他们不认识那地方，但见一个海湾，有岸可登，就商议能把船拢进去不能。",
     Eng:"When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could.",
     Ind:"Dan ketika hari mulai siang, mereka melihat suatu teluk yang rata pantainya. Walaupun mereka tidak mengenal daratan itu, mereka memutuskan untuk sedapat mungkin mendamparkan kapal itu ke situ."
   },
   {Bible:"Acts", Chapter:27, Verse:40, Page:1,
-    Kor:"닻을 모두 끊어서 바다에 버리고, 동시에 키를 묶은 밧줄을 늦추었다. 그리고 앞 돛을 올려서, 바람을 타고 해안 쪽으로 들어갔다.",
+    Kor:"닻을 끊어서 바다에 버리고, 키를 묶은 밧줄을 늦추었다. 그리고 앞 돛을 올려서, 바람을 타고 해안 쪽으로 들어갔다.",
     Chn:"于是砍断缆索，弃锚在海里；同时也松开舵绳，拉起头篷，顺着风向岸行去。",
     Eng:"Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach.",
     Ind:"Mereka melepaskan tali-tali sauh, lalu meninggalkan sauh-sauh itu di dasar laut. Sementara itu mereka mengulurkan tali-tali kemudi, memasang layar topang, supaya angin meniup kapal itu menuju pantai."
   },
   {Bible:"Acts", Chapter:27, Verse:41, Page:1,
-    Kor:"그런데 두 물살이 합치는 곳에 끼여들어서, 배가 모래톱에 걸렸다. 이물은 박혀서 움직이지 않고, 고물은 심한 물결에 깨졌다.",
+    Kor:"그런데 두 물살이 합치는 곳에 끼어 들어서, 배가 모래톱에 걸렸다. 이물은 박혀서 움직이지 않고, 고물은 심한 물결에 깨졌다.",
     Chn:"但遇着两水夹流的地方，就把船搁了浅；船头胶住不动，船尾被浪的猛力冲坏。",
     Eng:"But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf.",
     Ind:"Tetapi mereka melanggar busung pasir, dan terkandaslah kapal itu. Haluannya terpancang dan tidak dapat bergerak dan buritannya hancur dipukul oleh gelombang yang hebat."
   },
   {Bible:"Acts", Chapter:27, Verse:42, Page:1,
-    Kor:"병사들은 죄수들이 혹시 헤엄 쳐 도망할까봐, 그들을 죽여 버리려고 계획하였다.",
+    Kor:"병사들은, 죄수들이 혹시 헤엄 쳐 도망할까봐, 그들을 죽여 버리려고 계획하였다.",
     Chn:"兵丁的意思要把囚犯杀了，恐怕有洑水脱逃的。",
     Eng:"The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping.",
     Ind:"Pada waktu itu prajurit-prajurit bermaksud untuk membunuh tahanan-tahanan, supaya jangan ada seorangpun yang melarikan diri dengan berenang."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Tetapi perwira itu ingin menyelamatkan Paulus. Karena itu ia menggagalkan maksud mereka, dan memerintahkan, supaya orang-orang yang pandai berenang lebih dahulu terjun ke laut dan naik ke darat,"
   },
   {Bible:"Acts", Chapter:27, Verse:44, Page:1,
-    Kor:"그리고 그 밖의 사람들은 널빤지나, 부서진 배 조각을 타고 뭍으로 나가라고 명령하였다. 이렇게 해서, 모두 뭍으로 올라와 구원을 받게 되었다.",
+    Kor:"그리고 그 밖의 사람들은 널빤지나, 부서진 배 조각을 타고 뭍으로 나가라고 명령하였다. 이렇게 해서, 모두 뭍으로 무사히 나오게 되었다.",
     Chn:"其余的人可以用板子或船上的零碎东西上岸。这样，众人都得了救，上了岸。",
     Eng:"The rest were to get there on planks or on pieces of the ship. In this way everyone reached land in safety.",
     Ind:"dan supaya orang-orang lain menyusul dengan mempergunakan papan atau pecahan-pecahan kapal. Demikianlah mereka semua selamat naik ke darat."

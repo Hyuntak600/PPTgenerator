@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",44,30);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:44, Verse:1, Page:1,
-    Kor:"<이집트의 이스라엘 사람에게 하신 말씀> 이 말씀은 주님께서, 이집트 땅에 사는 모든 유다 사람들, 곧 믹돌과 다바네스와 a멤피스와 b상 이집트에 사는 유다 사람들에게 전하라고 예레미야에게 하신 말씀이다.(a 히, '놉' b 히, '바드로스에')",
+    Kor:"이 말씀은 주께서, 이집트 땅에 사는 모든 유다 사람들, 곧 믹돌과 다바네스와 멤피스와 상 이집트에 사는 유다 사람들에게 전하라고 예레미야에게 하신 말씀이다.",
     Chn:"有临到耶利米的话，论及一切住在埃及地的犹大人，就是住在密夺、答比匿、挪弗、巴忒罗境内的犹大人，说：",
     Eng:"This word came to Jeremiah concerning all the Jews living in Lower Egypt--in Migdol, Tahpanhes and Memphis--and in Upper Egypt:",
     Ind:"Firman yang datang kepada Yeremia untuk semua orang Yehuda yang diam di tanah Mesir, di Migdol, di Tahpanhes, di Memfis dan di tanah Patros:"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:2, Page:1,
-    Kor:"○\"나 만군의 주, 이스라엘의 하나님이 말한다. 내가 예루살렘과 유다의 모든 성읍에 내린 모든 재앙을 너희가 분명히 보았다. 보아라, 그 성읍들은 오늘날 아무도 살지 않는 폐허가 되었다.",
+    Kor:"○\"나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 내가 예루살렘과 유다의 모든 성읍에 내린 모든 재앙을 너희가 분명히 보았다. 보아라, 그 성읍들은 오늘날 아무도 살지 않는 폐허가 되었다.",
     Chn:"「万军之耶和华—以色列的　神如此说：我所降与耶路撒冷和犹大各城的一切灾祸你们都看见了。那些城邑今日荒凉，无人居住；",
     Eng:"\"This is what the LORD Almighty, the God of Israel, says: You saw the great disaster I brought on Jerusalem and on all the towns of Judah. Today they lie deserted and in ruins",
     Ind:"\"Beginilah firman TUHAN semesta alam, Allah Israel: Kamu telah mengalami segenap malapetaka yang telah Kudatangkan atas Yerusalem dan atas segala kota Yehuda; sungguh, semuanya itu kini sudah menjadi reruntuhan dan tidak ada seorangpun diam di sana."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Mereka tidak remuk hati sampai kepada hari ini, mereka tidak takut dan tidak mengikuti Taurat-Ku dan ketetapan-Ku yang telah Kuberikan kepadamu dan kepada nenek moyangmu."
   },
   {Bible:"Jeremiah", Chapter:44, Verse:11, Page:1,
-    Kor:"○그러므로 나 만군의 주, 이스라엘의 하나님이 말한다. 내가 너희에게 재앙을 내리기로 작정하였다. 내가 유다 백성을 모두 멸종시키겠다.",
+    Kor:"○그러므로 나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 내가 너희에게 재앙을 내리기로 작정하였다. 내가 유다 백성을 모두 멸종시키겠다.",
     Chn:"「所以万军之耶和华—以色列的　神如此说：我必向你们变脸降灾，以致剪除犹大众人。",
     Eng:"\"Therefore, this is what the LORD Almighty, the God of Israel, says: I am determined to bring disaster on you and to destroy all Judah.",
     Ind:"Sebab itu beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, Aku mau menujukan wajah-Ku terhadap kamu untuk kecelakaanmu, yakni Aku mau melenyapkan segenap orang Yehuda."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"sehingga dari sisa Yehuda, yang telah pergi ke tanah Mesir untuk tinggal sebagai orang asing di sana, tidak ada seorangpun yang terluput atau terlepas untuk kembali ke tanah Yehuda, ke mana hati mereka sangat rindu untuk diam di sana lagi; sungguh, mereka tidak akan kembali, kecuali beberapa orang pengungsi.\""
   },
   {Bible:"Jeremiah", Chapter:44, Verse:15, Page:1,
-    Kor:"○자기 아내들이 다른 신들에게 제물을 살라 바친다는 것을 아는 모든 남편들과 그 곳에 서 있던 모든 여인들, 곧 c하 이집트와 상 이집트에 사는 온 백성의 큰 무리가 예레미야에게 항의하였다.(c 히, '이집트와 바드로스에')",
+    Kor:"○자기 아내들이 다른 신들에게 제물을 살라 바친다는 것을 아는 모든 남편들과 그 곳에 서 있던 모든 여인들, 곧 하 이집트와 상 이집트에 사는 온 백성의 큰 무리가 예레미야에게 항의하였다.",
     Chn:"那些住在埃及地巴忒罗知道自己妻子向别神烧香的，与旁边站立的众妇女，聚集成群，回答耶利米说：",
     Eng:"Then all the men who knew that their wives were burning incense to other gods, along with all the women who were present--a large assembly--and all the people living in Lower and Upper Egypt, said to Jeremiah,",
     Ind:"Lalu menjawablah kepada Yeremia semua orang laki-laki yang tahu bahwa isteri mereka membakar korban kepada allah lain, dan semua perempuan yang hadir di sana, suatu kumpulan yang besar, yakni segala rakyat yang diam di tanah Mesir dan di Patros, katanya:"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:16, Page:1,
-    Kor:"○\"당신이 주님의 이름으로 우리에게 무슨 말을 하든지 간에, 우리는 당신의 말을 듣지 않겠소.",
+    Kor:"\"당신이 주의 이름으로 우리에게 무슨 말을 하든지 간에, 우리는 당신의 말을 듣지 않겠소.",
     Chn:"「论到你奉耶和华的名向我们所说的话，我们必不听从。",
     Eng:"\"We will not listen to the message you have spoken to us in the name of the LORD!",
     Ind:"\"Mengenai apa yang kaukatakan demi nama Allah kepada kami itu, kami tidak akan mendengarkan engkau,"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:17, Page:1,
-    Kor:"우리는 우리의 입으로 맹세한 대로 할 것이오. 우리와 우리 조상과 우리 왕들과 우리 고관들이 유다 성읍들과 예루살렘 거리에서 하던 대로, 우리도 하늘 d여신에게 제물을 살라 바치고, 그에게 술 제물을 바치겠소. 하늘 여신을 섬길 때에는 우리에게 먹을 양식이 풍족하였고, 우리가 잘 살았으며, 재앙을 만나지도 않았는데,(d 또는 '황후')",
+    Kor:"우리는 우리의 입으로 맹세한 대로 할 것이오. 우리와 우리 조상과 우리 왕들과 우리 고관들이 유다 성읍들과 예루살렘 거리에서 하던 대로, 우리도 하늘 여신에게 제물을 살라 바치고, 그에게 술 제물을 바치겠소. 하늘 여신을 섬길 때에는 우리에게 먹을 양식이 풍족하였고, 우리가 잘 살았으며, 재앙을 만나지도 않았는데,",
     Chn:"我们定要成就我们口中所出的一切话，向天后烧香、浇奠祭，按着我们与我们列祖、君王、首领在犹大的城邑中和耶路撒冷的街市上素常所行的一样；因为那时我们吃饱饭、享福乐，并不见灾祸。",
     Eng:"We will certainly do everything we said we would: We will burn incense to the Queen of Heaven and will pour out drink offerings to her just as we and our fathers, our kings and our officials did in the towns of Judah and in the streets of Jerusalem. At that time we had plenty of food and were well off and suffered no harm.",
     Ind:"tetapi kami akan terus melakukan segala apa yang kami ucapkan, yakni membakar korban kepada ratu sorga dan mempersembahkan korban curahan kepadanya seperti telah kami lakukan, kami sendiri dan nenek moyang kami dan raja-raja kami dan pemuka-pemuka kami di kota-kota Yehuda dan di jalan-jalan Yerusalem. Pada waktu itu kami mempunyai cukup makanan; kami merasa bahagia dan tidak mengalami penderitaan."
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Tetapi sejak kami berhenti membakar korban dan mempersembahkan korban curahan kepada ratu sorga, maka kami kekurangan segala-galanya dan kami dihabiskan oleh pedang dan kelaparan.\""
   },
   {Bible:"Jeremiah", Chapter:44, Verse:19, Page:1,
-    Kor:"여인들도 이렇게 말하였다. \"우리가 하늘 d여신에게 제물을 살라 바치고 그에게 술 제물을 바칠 때에, 우리가 남편들도 모르게 그것을 했겠습니까? 그리고 e그 여신의 모습대로 빵을 만들어 바치며 술 제물을 바칠 때에, 우리가 남편들도 모르게 그것을 했겠습니까?\"(d 또는 '황후' e 또는 '그 여신을 예배하는 빵을')",
+    Kor:"여인들도 이렇게 말하였다. \"우리가 하늘 여신에게 제물을 살라 바치고 그에게 술 제물을 바칠 때에, 우리가 남편들도 모르게 그것을 했겠습니까? 그리고 그 여신의 모습대로 빵을 만들어 바치며 술 제물을 바칠 때에, 우리가 남편들도 모르게 그것을 했겠습니까?\"",
     Chn:"妇女说：「我们向天后烧香、浇奠祭，做天后像的饼供奉她，向她浇奠祭，是外乎我们的丈夫吗？」",
     Eng:"The women added, \"When we burned incense to the Queen of Heaven and poured out drink offerings to her, did not our husbands know that we were making cakes like her image and pouring out drink offerings to her?\"",
     Ind:"Lalu perempuan-perempuan itu menambahkan: \"Apabila kami membakar korban dan mempersembahkan korban curahan kepada ratu sorga, adakah di luar pengetahuan suami kami bahwa kami membuat penganan persembahan serupa dengan patungnya dan mempersembahkan korban curahan kepadanya?\""
   },
   {Bible:"Jeremiah", Chapter:44, Verse:20, Page:1,
-    Kor:"○예레미야가 온 백성 곧 자기에게 그렇게 말한 남자와 여자와 온 백성에게 말하였다.",
+    Kor:"○예레미야가 온 백성, 곧 자기에게 그렇게 말한 남자와 여자와 온 백성에게 말하였다.",
     Chn:"耶利米对一切那样回答他的男人妇女说：",
     Eng:"Then Jeremiah said to all the people, both men and women, who were answering him,",
     Ind:"Sesudah itu berkatalah Yeremia kepada segenap rakyat itu, kepada laki-laki dan perempuan dan kepada semua orang yang telah memberi jawab kepadanya itu, katanya:"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:21, Page:1,
-    Kor:"\"여러분과 여러분의 조상, 여러분의 왕들과 여러분의 고관들, 그리고 일반 백성 모두가 유다의 성읍들과 예루살렘 모든 거리에서 제물을 불살라 바친 그 분향을, 주님께서 기억하지 않으셨겠습니까? 바로 그런 일이 주님의 마음 속에 떠오르지 않으셨겠습니까?",
+    Kor:"\"여러분과 여러분의 조상, 여러분의 왕들과 여러분의 고관들, 그리고 일반 백성 모두가 유다의 성읍들과 예루살렘 모든 거리에서 제물을 불살라 바친 그 분향을, 주께서 기억하지 않으셨겠습니까? 바로 그런 일이 주의 마음 속에 떠오르지 않으셨겠습니까?",
     Chn:"「你们与你们列祖、君王、首领，并国内的百姓，在犹大城邑中和耶路撒冷街市上所烧的香，耶和华岂不记念，心中岂不思想吗？",
     Eng:"\"Did not the LORD remember and think about the incense burned in the towns of Judah and the streets of Jerusalem by you and your fathers, your kings and your officials and the people of the land?",
     Ind:"\"Justru korban yang dibakar di kota-kota Yehuda dan di jalan-jalan Yerusalem oleh kamu sendiri, oleh nenek moyangmu, oleh raja-rajamu, oleh pemuka-pemukamu dan oleh rakyat negeri, tidakkah itu yang diingat TUHAN dan yang diperhatikan-Nya?"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:22, Page:1,
-    Kor:"주님께서는 여러분의 악한 소행을 보시다가 더 이상 참을 수가 없으셨고, 여러분이 한 역겨운 일을 보시다가 더 이상 견딜 수가 없으셨습니다. 그래서 여러분의 나라가 오늘날과 같이 주민이 없는 폐허로 바뀌고, 놀라움과 저주의 대상이 되고 말았습니다.",
+    Kor:"주께서는 여러분의 악한 소행을 보시다가 더 이상 참을 수가 없으셨고, 여러분이 한 역겨운 일을 보시다가 더 이상 견딜 수가 없으셨습니다. 그래서 여러분의 나라가 오늘날과 같이 주민이 없는 폐허로 바뀌고, 놀라움과 저주의 대상이 되고 말았습니다.",
     Chn:"耶和华因你们所作的恶、所行可憎的事，不能再容忍，所以你们的地荒凉，令人惊骇咒诅，无人居住，正如今日一样。",
     Eng:"When the LORD could no longer endure your wicked actions and the detestable things you did, your land became an object of cursing and a desolate waste without inhabitants, as it is today.",
     Ind:"TUHAN tidak tahan lagi melihat perbuatan-perbuatanmu yang jahat dan kejijikan yang kamu lakukan; oleh karena itu negerimupun telah menjadi reruntuhan, kengerian dan kutuk tanpa penduduk, seperti yang ternyata sekarang ini."
   },
   {Bible:"Jeremiah", Chapter:44, Verse:23, Page:1,
-    Kor:"여러분이 다른 신들에게 제물을 살라 바쳐서, 주님께 죄를 짓고, 주님께 순종하지 않고, 주님의 율법과 율례와 규정대로 살지 않았기 때문에, 오늘날과 같이 여러분에게 이런 재앙이 닥쳐 온 것입니다.\"",
+    Kor:"여러분이 다른 신들에게 제물을 살라 바쳐서, 주께 죄를 짓고, 주께 순종하지 않고, 주의 율법과 율례와 규정대로 살지 않았기 때문에, 오늘날과 같이 여러분에게 이런 재앙이 닥쳐 온 것입니다.\"",
     Chn:"你们烧香，得罪耶和华，没有听从他的话，没有遵行他的律法、条例、法度，所以你们遭遇这灾祸，正如今日一样。」",
     Eng:"Because you have burned incense and have sinned against the LORD and have not obeyed him or followed his law or his decrees or his stipulations, this disaster has come upon you, as you now see.\"",
     Ind:"Kamu telah membakar korban dan kamu telah berdosa kepada TUHAN, tidak mendengarkan suara TUHAN dan tidak mengikuti Taurat-Nya, ketetapan-Nya dan peraturan-Nya, itulah sebabnya malapetaka ini menimpa kamu, seperti yang ternyata sekarang ini.\""
   },
   {Bible:"Jeremiah", Chapter:44, Verse:24, Page:1,
-    Kor:"○예레미야가 온 백성에게 특히 모든 여인에게 말하였다. \"이집트 땅에 있는 온 유다 백성 여러분, 주님의 말씀을 들으십시오.",
+    Kor:"○예레미야가 온 백성에게 특히 모든 여인에게 말하였다. \"이집트 땅에 있는 온 유다 백성이여, 주의 말씀을 들으시오.",
     Chn:"耶利米又对众民和众妇女说：「你们在埃及地的一切犹大人当听耶和华的话。",
     Eng:"Then Jeremiah said to all the people, including the women, \"Hear the word of the LORD, all you people of Judah in Egypt.",
     Ind:"Kemudian berkatalah Yeremia kepada segenap rakyat dan kepada semua perempuan itu: \"Dengarlah firman TUHAN, hai semua orang Yehuda yang ada di tanah Mesir."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Beginilah firman TUHAN semesta alam, Allah Israel: Kamu, laki-laki dan isteri-isterimu! Kamu telah memenuhi apa yang telah kamu ucapkan, yaitu: Kami akan menepati dengan baik nazar yang kami ucapkan untuk membakar korban dan mempersembahkan korban curahan kepada ratu sorga. Baiklah! Wujudkanlah dan tepatilah nazarmu dengan baik!"
   },
   {Bible:"Jeremiah", Chapter:44, Verse:26, Page:1,
-    Kor:"○그러나 이집트 땅에 사는 유다 사람들아, 너희는 모두 나 주의 말을 들어라. 나 주가 말한다. 내가 나의 큰 이름을 걸고 맹세한다. 이집트 온 땅에 있는 어떤 유다 사람이든지, 이제는, 주님의 살아 계심을 두고 맹세한다 하면서 나의 이름을 부르지 못하게 하겠다.",
+    Kor:"○그러나 이집트 땅에 사는 유다 사람들아, 너희는 모두 나 주의 말을 들어라. 나 주가 말한다. 내가 나의 큰 이름을 걸고 맹세한다. 이집트 온 땅에 있는 어떤 유다 사람이든지, 이제는 '주의 살아 계심을 두고 맹세한다' 하면서 나의 이름을 부르지 못하게 하겠다.",
     Chn:"所以你们住在埃及地的一切犹大人当听耶和华的话。耶和华说：我指着我的大名起誓，在埃及全地，我的名不再被犹大一个人的口称呼说：『我指着主—永生的耶和华起誓。』",
     Eng:"But hear the word of the LORD, all Jews living in Egypt: 'I swear by my great name,' says the LORD, 'that no one from Judah living anywhere in Egypt will ever again invoke my name or swear, \"As surely as the Sovereign LORD lives.\"",
     Ind:"Maka dengarkanlah firman TUHAN, hai semua orang Yehuda yang diam di tanah Mesir: Sesungguhnya, Aku telah bersumpah demi nama-Ku yang besar--firman TUHAN--bahwa nama-Ku tidak akan diserukan lagi oleh seseorang Yehuda di segenap tanah Mesir, dengan berkata: Demi Tuhan ALLAH yang hidup!"

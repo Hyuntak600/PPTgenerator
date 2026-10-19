@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",66,20);
 BibleDB.add([
   {Bible:"Psalms", Chapter:66, Verse:1, Page:1,
-    Kor:"<시, 지휘자를 따라 부르는 노래> 온 땅아, 하나님께 환호하여라.",
+    Kor:"온 땅아, 하나님께 환호하여라.",
     Chn:"一篇诗歌，交与伶长。 全地都当向　神欢呼！",
     Eng:"Shout with joy to God, all the earth!",
     Ind:"Untuk pemimpin biduan. Nyanyian Mazmur. Bersorak-sorailah bagi Allah, hai seluruh bumi,"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"mazmurkanlah kemuliaan nama-Nya, muliakanlah Dia dengan puji-pujian!"
   },
   {Bible:"Psalms", Chapter:66, Verse:3, Page:1,
-    Kor:"하나님께 말씀드려라. \"주님께서 하신 일이 얼마나 놀라운지요? 주님의 크신 능력을 보고, 원수들도 주님께 복종합니다.",
+    Kor:"하나님께 말씀드려라. \"주께서 하신 일이 얼마나 놀라운지요? 주의 그 크신 능력을 보고, 원수들도 주께 복종합니다.",
     Chn:"当对　神说：你的作为何等可畏！ 因你的大能，仇敌要投降你。",
     Eng:"Say to God, \"How awesome are your deeds! So great is your power that your enemies cringe before you.",
     Ind:"Katakanlah kepada Allah: \"Betapa dahsyatnya segala pekerjaan-Mu; oleh sebab kekuatan-Mu yang besar musuh-Mu tunduk menjilat kepada-Mu."
   },
   {Bible:"Psalms", Chapter:66, Verse:4, Page:1,
-    Kor:"온 땅이 주님께 경배하며, 주님을 찬양하며, 주님의 이름을 찬양합니다\" 하여라. (셀라)",
+    Kor:"온 땅이 주께 경배하며, 주님을 찬양하며, 주의 이름을 찬양합니다\" 하여라. (셀라)",
     Chn:"全地要敬拜你，歌颂你， 要歌颂你的名。 （细拉）",
     Eng:"All the earth bows down to you; they sing praise to you, they sing praise to your name.\" Selah",
     Ind:"Seluruh bumi sujud menyembah kepada-Mu, dan bermazmur bagi-Mu, memazmurkan nama-Mu.\" Sela"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Pergilah dan lihatlah pekerjaan-pekerjaan Allah; Ia dahsyat dalam perbuatan-Nya terhadap manusia:"
   },
   {Bible:"Psalms", Chapter:66, Verse:6, Page:1,
-    Kor:"하나님이 바다를 육지로 바꾸셨으므로, 사람들은 걸어서 바다를 건넜다. 거기에서 우리는 주님께서 하신 일을 보고 기뻐하였다.",
+    Kor:"하나님이 바다를 육지로 바꾸셨으므로, 사람들은 걸어서 바다를 건넜다. 거기에서 우리는 주께서 하신 일을 보고 기뻐하였다.",
     Chn:"他将海变成干地，众民步行过河； 我们在那里因他欢喜。",
     Eng:"He turned the sea into dry land, they passed through the waters on foot--come, let us rejoice in him.",
     Ind:"Ia mengubah laut menjadi tanah kering, dan orang-orang itu berjalan kaki menyeberangi sungai. Oleh sebab itu kita bersukacita karena Dia,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Ia mempertahankan jiwa kami di dalam hidup dan tidak membiarkan kaki kami goyah."
   },
   {Bible:"Psalms", Chapter:66, Verse:10, Page:1,
-    Kor:"하나님, 주님께서 우리를 시험하셔서, 은을 달구어 정련하듯 우리를 연단하셨습니다.",
+    Kor:"하나님, 주께서 우리를 시험하셔서, 은을 달구어 정련하듯 우리를 연단하셨습니다.",
     Chn:"神啊，你曾试验我们， 熬炼我们，如熬炼银子一样。",
     Eng:"For you, O God, tested us; you refined us like silver.",
     Ind:"Sebab Engkau telah menguji kami, ya Allah, telah memurnikan kami, seperti orang memurnikan perak."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Engkau telah membawa kami ke dalam jaring, mengenakan beban pada pinggang kami;"
   },
   {Bible:"Psalms", Chapter:66, Verse:12, Page:1,
-    Kor:"사람들을 시켜서 우리의 머리를 짓밟게 하시니, 우리가 불 속으로, 우리가 물 속으로 뛰어들었습니다. 그러나 주님께서 우리를 마침내 건지셔서, 모든 것이 풍족한 곳으로 이끌어 주셨습니다.",
+    Kor:"사람들을 시켜서 우리의 머리를 짓밟게 하시니, 우리가 불 속으로, 우리가 물 속으로 뛰어들었습니다. 그러나 주께서 우리를 마침내 건지셔서, 모든 것이 풍족한 곳으로 이끌어 주셨습니다.",
     Chn:"你使人坐车轧我们的头； 我们经过水火， 你却使我们到丰富之地。",
     Eng:"You let men ride over our heads; we went through fire and water, but you brought us to a place of abundance.",
     Ind:"Engkau telah membiarkan orang-orang melintasi kepala kami, kami telah menempuh api dan air; tetapi Engkau telah mengeluarkan kami sehingga bebas."
   },
   {Bible:"Psalms", Chapter:66, Verse:13, Page:1,
-    Kor:"내가 번제를 드리러 주님의 집으로 왔습니다. 이제 내가 주님께 서원제를 드립니다.",
+    Kor:"내가 번제를 드리러 주의 집으로 왔습니다. 이제 내가 주님께 서원제를 드립니다.",
     Chn:"我要用燔祭进你的殿， 向你还我的愿，",
     Eng:"I will come to your temple with burnt offerings and fulfill my vows to you--",
     Ind:"Aku akan masuk ke dalam rumah-Mu dengan membawa korban-korban bakaran, aku akan membayar kepada-Mu nazarku,"
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Marilah, dengarlah, hai kamu sekalian yang takut akan Allah, aku hendak menceritakan apa yang dilakukan-Nya terhadap diriku."
   },
   {Bible:"Psalms", Chapter:66, Verse:17, Page:1,
-    Kor:"나는 주님께 도와 달라고 내 입으로 부르짖었다. 내 혀로 주님을 찬양하였다.",
+    Kor:"나는 주님께 도와 달라고 부르짖었다. 나는 노래를 불러 주님을 찬양하였다.",
     Chn:"我曾用口求告他； 我的舌头也称他为高。",
     Eng:"I cried out to him with my mouth; his praise was on my tongue.",
     Ind:"Kepada-Nya aku telah berseru dengan mulutku, kini dengan lidahku aku menyanyikan pujian."
   },
   {Bible:"Psalms", Chapter:66, Verse:18, Page:1,
-    Kor:"내가 마음 속으로 악한 생각을 품었더라면, 주님께서 나에게 응답하지 않으셨을 것이다.",
+    Kor:"내가 마음 속으로 악한 생각을 품었더라면, 주께서 나에게 응답하지 않으셨을 것이다.",
     Chn:"我若心里注重罪孽， 主必不听。",
     Eng:"If I had cherished sin in my heart, the Lord would not have listened;",
     Ind:"Seandainya ada niat jahat dalam hatiku, tentulah Tuhan tidak mau mendengar."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, Allah telah mendengar, Ia telah memperhatikan doa yang kuucapkan."
   },
   {Bible:"Psalms", Chapter:66, Verse:20, Page:1,
-    Kor:"내 기도를 물리치지 않으시고, 한결같은 사랑을 나에게서 거두지 않으신 하나님, 찬양받으십시오.",
+    Kor:"내 기도를 물리치지 않으시고, 한결같은 사랑을 나에게서 거두지 않으셨으니, 내가 하나님을 찬양하겠다.",
     Chn:"神是应当称颂的！ 他并没有推却我的祷告， 也没有叫他的慈爱离开我。",
     Eng:"Praise be to God, who has not rejected my prayer or withheld his love from me!",
     Ind:"Terpujilah Allah, yang tidak menolak doaku dan tidak menjauhkan kasih setia-Nya dari padaku."

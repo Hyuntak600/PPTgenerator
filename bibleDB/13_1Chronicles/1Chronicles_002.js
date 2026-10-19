@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Dan, Yusuf, Benyamin, Naftali, Gad dan Asyer."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:3, Page:1,
-    Kor:"<유다의 자손> ○유다의 아들은 에르와 오난과 셀라이며, 이 셋은 가나안 사람 수아의 딸과 유다 사이에서 태어난 아들이다. 유다의 맏아들 에르는 주님께서 보시기에 악하였으므로, 주님께서 그를 죽이셨다.",
+    Kor:"○유다의 아들은 에르와 오난과 셀라이며, 이 셋은 가나안 사람 수아의 딸과 유다 사이에서 태어난 아들이다. 유다의 맏아들 에르는 주께서 보시기에 악하였으므로, 주께서 그를 죽이셨다.",
     Chn:"犹大的儿子是珥、俄南、示拉，这三人是迦南人书亚女儿所生的。犹大的长子珥在耶和华眼中看为恶，耶和华就使他死了。",
     Eng:"The sons of Judah: Er, Onan and Shelah. These three were born to him by a Canaanite woman, the daughter of Shua. Er, Judah's firstborn, was wicked in the LORD'S sight; so the LORD put him to death.",
     Ind:"Anak-anak Yehuda ialah Er, Onan dan Syela, tiga orang, yang lahir bagi dia dari anak perempuan Syua perempuan Kanaan itu. Tetapi Er, anak sulung Yehuda itu, adalah jahat di mata TUHAN, maka Ia membunuhnya."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Anak-anak Zerah ialah Zimri, Etan, Heman, Kalkol dan Dara. Semuanya lima orang."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:7, Page:1,
-    Kor:"가르미의 아들은 a아갈인데, 그는 하나님께 b전멸시켜 바쳐야 하는 물건 때문에 범죄하여 이스라엘을 고통에 빠뜨린 자다.(a '고통', 여호수아기에서는 '아간' b 완전히 파멸시켜 주님께 바쳐야 하는 물건이나 생명. 가지면 안되는 것, 손을 대었다가는 멸망을 받게끔 저주받은 것. 동사는 '전멸시키다' 또는 '전멸시켜 바치다')",
+    Kor:"가르미의 아들은 아갈인데, 그는 하나님께 전멸시켜 바쳐야 하는 물건 때문에 범죄하여 이스라엘을 고통에 빠뜨린 자다.",
     Chn:"迦米的儿子是亚干，这亚干在当灭的物上犯了罪，连累了以色列人。",
     Eng:"The son of Carmi: Achar, who brought trouble on Israel by violating the ban on taking devoted things.",
     Ind:"Keturunan Karmi ialah Ahar, yang mencelakakan orang Israel karena ia tidak taat dalam hal barang-barang yang dikhususkan itu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Keturunan Etan ialah Azarya."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:9, Page:1,
-    Kor:"<다윗의 가계> ○헤스론에게서 태어난 아들은 여라므엘과 람과 글루배이다.",
+    Kor:"○헤스론에게서 태어난 아들은 여라므엘과 람과 글루배이다.",
     Chn:"希斯 所生的儿子是耶拉篾、兰、基路拜。",
     Eng:"The sons born to Hezron were: Jerahmeel, Ram and Caleb.",
     Ind:"Anak-anak yang lahir bagi Hezron ialah Yerahmeel, Ram dan Khelubai."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Abigail melahirkan Amasa dan ayah Amasa ialah Yeter, orang Ismael itu."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:18, Page:1,
-    Kor:"<헤스론의 자손> ○헤스론의 아들 갈렙은 그의 아내 아수바와 여리옷에게서 아들을 낳았다. 아수바가 낳은 아들은 예셀과 소밥과 아르돈이다.",
+    Kor:"○헤스론의 아들 갈렙은 그의 아내 아수바와 여리옷에게서 아들을 낳았다. 아수바가 낳은 아들은 예셀과 소밥과 아르돈이다.",
     Chn:"希斯 的儿子迦勒娶阿苏巴和耶略为妻，阿苏巴的儿子是耶设、朔罢、押墩。",
     Eng:"Caleb son of Hezron had children by his wife Azubah (and by Jerioth). These were her sons: Jesher, Shobab and Ardon.",
     Ind:"Kaleb bin Hezron memperanakkan Yeriot dari Azuba, isterinya; dan inilah anak-anak perempuan itu: Yesyer, Sobab dan Ardon."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Tetapi Gesur dan Aram merebut Hawot-Yair dari pada mereka, juga Kenat dan tempat-tempat jajahannya, enam puluh perkampungan. Itulah semuanya keturunan Makhir, bapa Gilead."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:24, Page:1,
-    Kor:"헤스론이 갈렙 에브라다에서 죽은 뒤에, 그의 아내 아비야는 그의 아들, 드고아의 c아버지 아스훌을 낳았다.(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"헤스론이 갈렙 에브라다에서 죽은 뒤에, 그의 아내 아비야는 그의 아들, 드고아의 아버지 아스훌을 낳았다.",
     Chn:"希斯 在迦勒·以法他死后，他的妻亚比雅给他生了亚施户；亚施户是提哥亚的父亲。",
     Eng:"After Hezron died in Caleb Ephrathah, Abijah the wife of Hezron bore him Ashhur the father of Tekoa.",
     Ind:"Sesudah Hezron mati, Kaleb menghampiri Efrata--dia adalah isteri Hezron, ayahnya--maka perempuan itu melahirkan baginya Asyhur, bapa Tekoa."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:25, Page:1,
-    Kor:"<여라므엘의 자손> ○헤스론의 맏아들 여라므엘의 아들은 맏아들 람과, 그 아래로 브나와 오렌과 오셈과 아히야이다.",
+    Kor:"○헤스론의 맏아들 여라므엘의 아들은 맏아들 람과, 그 아래로 브나와 오렌과 오셈과 아히야이다.",
     Chn:"希斯 的长子耶拉篾生长子兰，又生布拿、阿连、阿鲜、亚希雅。",
     Eng:"The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem and Ahijah.",
     Ind:"Anak-anak Yerahmeel, anak sulung Hezron, ialah Ram, anak sulung, Buna, Oren, Ozem dan Ahia."
@@ -249,7 +249,7 @@ BibleDB.add([
     Ind:"Salum memperanakkan Yekamya, dan Yekamya memperanakkan Elisama."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:42, Page:1,
-    Kor:"<갈렙의 다른 자손> ○여라므엘의 아우 갈렙의 맏아들은 메사이며, 그는 십의 c아버지이고, 그의 아들은 마레사이며, 헤브론의 아버지이다.(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"○여라므엘의 아우 갈렙의 맏아들은 메사이며, 그는 십의 아버지이고, 그의 아들은 마레사이며, 헤브론의 아버지이다.",
     Chn:"耶拉篾兄弟迦勒的长子米沙，是西弗之祖玛利沙的儿子，是希伯 之祖。",
     Eng:"The sons of Caleb the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph, and his son Mareshah, who was the father of Hebron.",
     Ind:"Keturunan Kaleb, adik Yerahmeel, ialah Mesa, anak sulungnya, bapa Zif, dan anak-anak Maresa, bapa Hebron."
@@ -267,7 +267,7 @@ BibleDB.add([
     Ind:"Sema memperanakkan Raham, bapa Yorkeam, dan Rekem memperanakkan Samai."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:45, Page:1,
-    Kor:"삼매의 아들은 마온이며, 마온은 벳술의 c아버지이다.(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"삼매의 아들은 마온이며, 마온은 벳술의 아버지이다.",
     Chn:"沙买的儿子是玛云；玛云是伯·夙之祖。",
     Eng:"The son of Shammai was Maon, and Maon was the father of Beth Zur.",
     Ind:"Anak Samai ialah Maon, dan Maon ialah bapa Bet-Zur."
@@ -291,25 +291,25 @@ BibleDB.add([
     Ind:"Gundik Kaleb, yakni Maakha, melahirkan Seber dan Tirhana."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:49, Page:1,
-    Kor:"또 맛만나의 c아버지 사압을 낳고, 또 막베나와 기브아의 c아버지 스와를 낳았다. 갈렙에게는 악사라는 딸도 있었다.(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"또 맛만나의 아버지 사압을 낳고, 또 막베나와 기브아의 아버지 스와를 낳았다. 갈렙에게는 악사라는 딸도 있었다.",
     Chn:"又生麦玛拿之祖沙亚弗、抹比拿和基比亚之祖示法。迦勒的女儿是押撒。",
     Eng:"She also gave birth to Shaaph the father of Madmannah and to Sheva the father of Macbenah and Gibea. Caleb's daughter was Acsah.",
     Ind:"Perempuan itu melahirkan juga Saaf, bapa Madmana, dan Sewa, bapa Makhbena dan bapa Gibea; anak perempuan Kaleb ialah Akhsa."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:50, Page:1,
-    Kor:"○갈렙의 자손은, 곧 에브라다의 맏아들 훌의 아들인 기럇여아림의 c아버지 소발과,(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"○갈렙의 자손은, 곧 에브라다의 맏아들 훌의 아들은 기럇여아림의 아버지 소발과,",
     Chn:"迦勒的子孙就是以法她的长子、户珥的儿子，记在下面：基列·耶琳之祖朔巴，",
     Eng:"These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,",
     Ind:"Itulah keturunan Kaleb. Anak-anak Hur, anak sulung Efrata, ialah Sobal, bapa Kiryat-Yearim,"
   },
   {Bible:"1Chronicles", Chapter:2, Verse:51, Page:1,
-    Kor:"베들레헴의 c아버지 살마와, 벳가델의 c아버지 하렙이다.(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"베들레헴의 아버지 살마와, 벳가델의 아버지 하렙이다.",
     Chn:"伯利恒之祖萨玛，伯迦得之祖哈勒。",
     Eng:"Salma the father of Bethlehem, and Hareph the father of Beth Gader.",
     Ind:"Salma, bapa Betlehem dan Haref, bapa Bet-Gader."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:52, Page:1,
-    Kor:"○기럇여아림의 c아버지 소발의 자손은 하로에와 므누홋 족의 절반이니,(c 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함)",
+    Kor:"○기럇여아림의 아버지 소발의 자손은 하로에와 므누홋 족의 절반이니,",
     Chn:"基列·耶琳之祖朔巴的子孙是哈罗以和一半米努·哈人。",
     Eng:"The descendants of Shobal the father of Kiriath Jearim were: Haroeh, half the Manahathites,",
     Ind:"Sobal, bapa Kiryat-Yearim, mempunyai keturunan, yakni Haroe dan setengah orang Menuhot."
@@ -327,7 +327,7 @@ BibleDB.add([
     Ind:"Keturunan Salma ialah Betlehem, orang Netofa, Atarot-Bet-Yoab dan setengah orang Manahti, yakni orang Zori."
   },
   {Bible:"1Chronicles", Chapter:2, Verse:55, Page:1,
-    Kor:"○(야베스에 사는 서기관 족은 디랏 족과 시므앗 족과 수갓 족이며, 이들이 레갑 가문의 조상 함맛에게서 나온 겐 족이다.)",
+    Kor:"(○야베스에 사는 서기관 족은 디랏 족과 시므앗 족과 수갓 족이며, 이들이 레갑 가문의 조상 함맛에게서 나온 겐 족이다.)",
     Chn:"和住雅比斯众文士家的特拉人、示米押人、苏甲人。这都是基尼人利甲家之祖哈末所生的。",
     Eng:"and the clans of scribes who lived at Jabez: the Tirathites, Shimeathites and Sucathites. These are the Kenites who came from Hammath, the father of the house of Recab.",
     Ind:"Dan kaum-kaum para ahli surat, yang diam di Yabes, ialah orang Tirati, orang Simati, dan orang Sukhati. Mereka itulah orang Keni keturunan Hamat bapa keluarga Rekhab."

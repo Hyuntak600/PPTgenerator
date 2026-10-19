@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",32,20);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:32, Verse:1, Page:1,
-    Kor:"<공의로 다스릴 왕> \"장차 한 왕이 나와서 공의로 통치하고, 통치자들이 공평으로 다스릴 것이다.\"",
+    Kor:"장차 한 왕이 나와서 공의로 통치하고, 통치자들이 공평으로 다스릴 것이다.",
     Chn:"看哪，必有一王凭公义行政； 必有首领借公平掌权。",
     Eng:"See, a king will reign in righteousness and rulers will rule with justice.",
     Ind:"Sesungguhnya, seorang raja akan memerintah menurut kebenaran, dan pemimpin-pemimpin akan memimpin menurut keadilan,"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"dan mereka masing-masing akan seperti tempat perteduhan terhadap angin dan tempat perlindungan terhadap angin ribut, seperti aliran-aliran air di tempat kering, seperti naungan batu yang besar, di tanah yang tandus."
   },
   {Bible:"Isaiah", Chapter:32, Verse:3, Page:1,
-    Kor:"\"백성을 돌보는 통치자의 눈이 멀지 않을 것이며, 백성의 요구를 듣는 통치자의 귀가 막히지 않을 것이다.",
+    Kor:"백성을 돌보는 통치자의 눈이 멀지 않을 것이며, 백성의 요구를 듣는 통치자의 귀가 막히지 않을 것이다.",
     Chn:"那能看的人，眼不再昏迷； 能听的人，耳必得听闻。",
     Eng:"Then the eyes of those who see will no longer be closed, and the ears of those who hear will listen.",
     Ind:"Mata orang-orang yang melihat tidak lagi akan tertutup, dan telinga orang-orang yang mendengar akan memperhatikan."
   },
   {Bible:"Isaiah", Chapter:32, Verse:4, Page:1,
-    Kor:"그들은 경솔하지 않을 것이며, 사려 깊게 행동할 것이며, 그들이 의도한 것을 분명하게 말할 것이다.\"",
+    Kor:"그들은 경솔하지 않을 것이며, 사려깊게 행동할 것이며, 그들이 의도한 것을 분명하게 말할 것이다.",
     Chn:"冒失人的心必明白知识； 结巴人的舌必说话通快。",
     Eng:"The mind of the rash will know and understand, and the stammering tongue will be fluent and clear.",
     Ind:"Hati orang-orang yang terburu nafsu akan tahu menimbang-nimbang, dan lidah orang-orang yang gagap akan dapat berbicara jelas."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Orang bebal tidak akan disebutkan lagi orang yang berbudi luhur, dan orang penipu tidak akan dikatakan terhormat."
   },
   {Bible:"Isaiah", Chapter:32, Verse:6, Page:1,
-    Kor:"어리석은 사람은 어리석은 말을 하며, 그 마음으로 악을 좋아하여 불경건한 일을 하며, 주님께 함부로 말을 하고, 굶주린 사람에게 먹거리를 주지 않고, 목마른 사람에게 마실 물을 주지 않습니다.",
+    Kor:"어리석은 사람은 어리석은 말을 하며, 그 마음으로 악을 좋아하여 불경건한 일을 하며, 주께 함부로 말을 하고, 굶주린 사람에게 먹을거리를 주지 않고, 목마른 사람에게 마실 물을 주지 않습니다.",
     Chn:"因为愚顽人必说愚顽话， 心里想作罪孽， 惯行亵渎的事， 说错谬的话攻击耶和华， 使饥饿的人无食可吃， 使口渴的人无水可喝。",
     Eng:"For the fool speaks folly, his mind is busy with evil: He practices ungodliness and spreads error concerning the LORD; the hungry he leaves empty and from the thirsty he withholds water.",
     Ind:"Sebab orang bebal mengatakan kebebalan, dan hatinya merencanakan yang jahat, yaitu bermaksud murtad dan mengatakan yang menyesatkan tentang TUHAN, membiarkan kosong perut orang lapar dan orang haus kekurangan minuman."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tetapi orang yang berbudi luhur merancang hal-hal yang luhur, dan ia selalu bertindak demikian."
   },
   {Bible:"Isaiah", Chapter:32, Verse:9, Page:1,
-    Kor:"<심판과 회복> 안일하게 사는 여인들아, 일어나서 나의 목소리를 들어라. 걱정거리가 없이 사는 딸들아, 내가 하는 말에 귀를 기울여라.",
+    Kor:"안일하게 사는 여인들아, 일어나서 나의 목소리를 들어라. 걱정거리가 없이 사는 딸들아, 내가 하는 말에 귀를 기울여라.",
     Chn:"安逸的妇女啊，起来听我的声音！ 无虑的女子啊，侧耳听我的言语！",
     Eng:"You women who are so complacent, rise up and listen to me; you daughters who feel secure, hear what I have to say!",
     Ind:"Hai perempuan-perempuan yang hidup aman, bangunlah, dengarkanlah suaraku, hai anak-anak perempuan yang hidup tenteram, perhatikanlah perkataanku!"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Sebab purimu sudah ditinggalkan dan keramaian kotamu sudah berubah menjadi kesepian. Bukit dan Menara sudah menjadi tanah rata untuk selama-lamanya, menjadi tempat kegirangan bagi keledai hutan dan tempat makan rumput bagi kawanan binatang."
   },
   {Bible:"Isaiah", Chapter:32, Verse:15, Page:1,
-    Kor:"그러나 주님께서 저 높은 곳에서부터 다시 우리에게 영을 보내 주시면, 황무지는 기름진 땅이 되고, 광야는 온갖 곡식을 풍성하게 내는 곡창지대가 될 것이다.",
+    Kor:"그러나 주께서 저 높은 곳에서부터 다시 우리에게 영을 보내 주시면, 황무지는 기름진 땅이 되고, 광야는 온갖 곡식을 풍성하게 내는 곡창지대가 될 것이다.",
     Chn:"等到圣灵从上浇灌我们， 旷野就变为肥田， 肥田看如树林。",
     Eng:"till the Spirit is poured upon us from on high, and the desert becomes a fertile field, and the fertile field seems like a forest.",
     Ind:"Sampai dicurahkan kepada kita Roh dari atas: Maka padang gurun akan menjadi kebun buah-buahan, dan kebun buah-buahan itu akan dianggap hutan."

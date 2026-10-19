@@ -3,31 +3,31 @@
 BibleDB.ref("Exodus",6,30);
 BibleDB.add([
   {Bible:"Exodus", Chapter:6, Verse:1, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다. \"이제 너는, 내가 바로에게 하는 일을 보게 될 것이다. 틀림없이 그는 강한 손에 밀려서, 그들을 내보내게 될 것이다. 강한 손에 밀려서야, 그들을 이 땅에서 내쫓다시피 할 것이다.\"",
+    Kor:"주께서 모세에게 말씀하셨다. \"이제 너는, 내가 바로에게 하는 일을 보게 될 것이다. 틀림없이 그는 강한 손에 밀려서, 그들을 내보내게 될 것이다. 강한 손에 밀려서야, 그들을 이 땅에서 내쫓다시피 할 것이다.\"",
     Chn:"耶和华对摩西说：「现在你必看见我向法老所行的事，使他因我大能的手容以色列人去，且把他们赶出他的地。」",
     Eng:"Then the LORD said to Moses, \"Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.\"",
     Ind:"(5-24) Tetapi TUHAN berfirman kepada Musa: \"Sekarang engkau akan melihat, apa yang akan Kulakukan kepada Firaun; sebab dipaksa oleh tangan yang kuat ia akan membiarkan mereka pergi, ya dipaksa oleh tangan yang kuat ia akan mengusir mereka dari negerinya.\""
   },
   {Bible:"Exodus", Chapter:6, Verse:2, Page:1,
-    Kor:"<하나님이 모세를 부르시다> ○하나님이 모세에게 이렇게 말씀하셨다. \"나는 '주'다.",
+    Kor:"○하나님이 모세에게 이렇게 말씀하셨다. \"나는 '주'다.",
     Chn:"神晓谕摩西说：「我是耶和华。",
     Eng:"God also said to Moses, \"I am the LORD.",
     Ind:"(6-1) Selanjutnya berfirmanlah Allah kepada Musa: \"Akulah TUHAN."
   },
   {Bible:"Exodus", Chapter:6, Verse:3, Page:1,
-    Kor:"나는 아브라함과 이삭과 야곱에게 a '전능한 하나님'으로는 나타났으나, 그들에게 나의 이름을 b '여호와'로는 알리지 않았다.(a 히, '엘 샤다이' b 하나님의 이름을 표기한 히브리어 네 자음 글자를 유대교에서는 '아도나이(주)' 또는 '엘로힘(하나님)'으로 읽고, 같은 이름을 칠십인역과 신약에서는 '퀴리오스(주)'로 부르고 있음. 16세기 이래 이 이름을 여호와로 부르기 시작하였으나 지금은 대다수의 번역이 오랜 전통을 따라 '주'로 부르고 있음)",
+    Kor:"나는 아브라함과 이삭과 야곱에게 '전능한 하나님'으로는 나타났으나, 그들에게 나의 이름을 '여호와'로는 알리지 않았다.",
     Chn:"我从前向亚伯拉罕、以撒、雅各显现为全能的　神；至于我名耶和华，他们未曾知道。",
     Eng:"I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name the LORD I did not make myself known to them.",
     Ind:"(6-2) Aku telah menampakkan diri kepada Abraham, Ishak dan Yakub sebagai Allah Yang Mahakuasa, tetapi dengan nama-Ku TUHAN Aku belum menyatakan diri."
   },
   {Bible:"Exodus", Chapter:6, Verse:4, Page:1,
-    Kor:"나는 또한, 그들이 한동안 나그네로 몸붙여 살던 가나안 땅을 그들에게 주기로 그들과 언약을 세웠는데,",
+    Kor:"나는 또한, 그들이 한동안 나그네로 몸붙여 살던 가나안 땅을 그들에게 주기로, 그들과 언약을 세웠는데,",
     Chn:"我与他们坚定所立的约，要把他们寄居的迦南地赐给他们。",
     Eng:"I also established my covenant with them to give them the land of Canaan, where they lived as aliens.",
     Ind:"(6-3) Bukan saja Aku telah mengadakan perjanjian-Ku dengan mereka untuk memberikan kepada mereka tanah Kanaan, tempat mereka tinggal sebagai orang asing,"
   },
   {Bible:"Exodus", Chapter:6, Verse:5, Page:1,
-    Kor:"이제 나는 이집트 사람이 종으로 부리는 이스라엘 자손의 신음소리를 듣고, 내가 세운 언약을 생각한다.",
+    Kor:"이제 나는, 이집트 사람이 종으로 부리는 이스라엘 자손의 신음소리를 듣고, 내가 세운 언약을 생각한다.",
     Chn:"我也听见以色列人被埃及人苦待的哀声，我也记念我的约。",
     Eng:"Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.",
     Ind:"(6-4) tetapi Aku sudah mendengar juga erang orang Israel yang telah diperbudak oleh orang Mesir, dan Aku ingat kepada perjanjian-Ku."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"(6-8) Lalu Musa mengatakan demikian kepada orang Israel, tetapi mereka tidak mendengarkan Musa karena mereka putus asa dan karena perbudakan yang berat itu."
   },
   {Bible:"Exodus", Chapter:6, Verse:10, Page:1,
-    Kor:"○주님께서 모세에게 이르셨다.",
+    Kor:"○주께서 모세에게 이르셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"(6-9) Kemudian TUHAN berfirman kepada Musa:"
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"(6-10) \"Pergilah menghadap, katakanlah kepada Firaun, raja Mesir, bahwa ia harus membiarkan orang Israel pergi dari negerinya.\""
   },
   {Bible:"Exodus", Chapter:6, Verse:12, Page:1,
-    Kor:"이에 모세가 주님께 아뢰었다. \"이스라엘 자손도 저의 말을 듣지 않는데, 어찌 바로가 저의 말을 듣겠습니까? 저는 입이 둔하여 말을 할 줄 모릅니다.\"",
+    Kor:"이에 모세가 주께 아뢰었다. \"이스라엘 자손도 저의 말을 듣지 않는데, 어찌 바로가 저의 말을 듣겠습니까? 저는 입이 둔하여 말을 할 줄 모릅니다.\"",
     Chn:"摩西在耶和华面前说：「以色列人尚且不听我的话，法老怎肯听我这拙口笨舌的人呢？」",
     Eng:"But Moses said to the LORD, \"If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?\"",
     Ind:"(6-11) Tetapi Musa berkata di hadapan TUHAN: \"Orang Israel sendiri tidak mendengarkan aku, bagaimanakah mungkin Firaun akan mendengarkan aku, aku seorang yang tidak petah lidahnya!\""
   },
   {Bible:"Exodus", Chapter:6, Verse:13, Page:1,
-    Kor:"○주님께서는 모세와 아론에게 이스라엘 자손을 이집트 땅에서 인도하여 내라고 명하셨는데, 이 사실을 이스라엘 자손에게도 알리고 이집트 왕 바로에게도 알리라고 모세와 아론에게 명하셨다.",
+    Kor:"○주께서는, 모세와 아론에게 이스라엘 자손을 이집트 땅에서 인도하여 내라고 명하셨는데, 이 사실을 이스라엘 자손에게도 알리고 이집트 왕 바로에게도 알리라고, 모세와 아론에게 명하셨다.",
     Chn:"耶和华吩咐摩西、亚伦往以色列人和埃及王法老那里去，把以色列人从埃及地领出来。",
     Eng:"Now the LORD spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.",
     Ind:"(6-12) Demikianlah TUHAN telah berfirman kepada Musa dan Harun, serta mengutus mereka kepada orang Israel dan kepada Firaun, raja Mesir, dengan membawa perintah supaya orang Israel dibawa keluar dari Mesir."
   },
   {Bible:"Exodus", Chapter:6, Verse:14, Page:1,
-    Kor:"<모세와 아론의 족보> ○모세와 아론의 조상은 이러하다. ○이스라엘의 맏아들 르우벤의 아들들은 하녹과 발루와 헤스론과 갈미인데, 이들이 르우벤 가문이다.",
+    Kor:"○모세와 아론의 조상은 이러하다. ○이스라엘의 맏아들 르우벤의 아들들은 하녹과 발루와 헤스론과 갈미인데, 이들이 르우벤 가문이다.",
     Chn:"以色列人家长的名字记在下面。以色列长子吕便的儿子是哈诺、法路、希斯伦、迦米；这是吕便的各家。",
     Eng:"These were the heads of their families: The sons of Reuben the firstborn son of Israel were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.",
     Ind:"(6-13) Inilah para kepala kaum keluarga mereka: Anak-anak Ruben anak sulung Israel: Henokh, Palu, Hezron dan Karmi; itulah kaum-kaum Ruben."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"(6-15) Inilah nama anak-anak Lewi menurut urutan kelahirannya: Gerson, Kehat dan Merari. Umur Lewi seratus tiga puluh tujuh tahun."
   },
   {Bible:"Exodus", Chapter:6, Verse:17, Page:1,
-    Kor:"○게르손의 아들들은 가문별로는 립니와 시므이이다.",
+    Kor:"○게르손의 아들들은, 가문별로는 립니와 시므이이다.",
     Chn:"革顺的儿子按着家室是立尼、示每。",
     Eng:"The sons of Gershon, by clans, were Libni and Shimei.",
     Ind:"(6-16) Anak-anak Gerson: Libni dan Simei, menurut kaum mereka."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"(6-24) Eleazar, anak Harun, mengambil salah seorang anak perempuan Putiel menjadi isterinya dan perempuan ini melahirkan Pinehas baginya. Itulah para kepala kaum keluarga orang Lewi menurut kaum mereka."
   },
   {Bible:"Exodus", Chapter:6, Verse:26, Page:1,
-    Kor:"○이스라엘 자손을 부대별로 편성하여 이집트 땅에서 인도하여 내라는 주님의 분부를 받은 이들이, 바로 이들 아론과 모세이고,",
+    Kor:"○이스라엘 자손을 부대별로 편성하여 이집트 땅에서 인도하여 내라는 주의 분부를 받은 이들이, 바로 이들 아론과 모세이고,",
     Chn:"耶和华说：「将以色列人按着他们的军队从埃及地领出来。」这是对那亚伦、摩西说的。",
     Eng:"It was this same Aaron and Moses to whom the LORD said, \"Bring the Israelites out of Egypt by their divisions.\"",
     Ind:"(6-25) Itulah Harun dan Musa, yang diperintahkan TUHAN: \"Bawalah orang Israel keluar dari tanah Mesir menurut pasukan mereka.\""
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"(6-26) Merekalah yang berbicara kepada Firaun, raja Mesir, supaya mereka membawa orang Israel keluar dari Mesir. Itulah Musa dan Harun."
   },
   {Bible:"Exodus", Chapter:6, Verse:28, Page:1,
-    Kor:"<모세와 아론에게 내린 주님의 명령> ○주님께서 이집트 땅에서 모세에게 말씀하실 때이다.",
+    Kor:"○주께서 이집트 땅에서 모세에게 말씀하실 때이다.",
     Chn:"当耶和华在埃及地对摩西说话的日子，",
     Eng:"Now when the LORD spoke to Moses in Egypt,",
     Ind:"(6-27) Pada waktu TUHAN berfirman kepada Musa di tanah Mesir,"
   },
   {Bible:"Exodus", Chapter:6, Verse:29, Page:1,
-    Kor:"주님께서 모세에게 이르시기를 \"나는 주다. 너는 내가 너에게 하는 말을 모두 이집트의 임금 바로에게 전하여라\" 하셨다.",
+    Kor:"주께서 모세에게 이르시기를 \"나는 주다. 너는 내가 너에게 하는 말을 모두 이집트의 임금 바로에게 전하여라\" 하셨다.",
     Chn:"他向摩西说：「我是耶和华；我对你说的一切话，你都要告诉埃及王法老。」",
     Eng:"he said to him, \"I am the LORD. Tell Pharaoh king of Egypt everything I tell you.\"",
     Ind:"(6-28) TUHAN berfirman kepadanya: \"Akulah TUHAN; katakanlah kepada Firaun, raja Mesir, segala yang Kufirmankan kepadamu.\""
   },
   {Bible:"Exodus", Chapter:6, Verse:30, Page:1,
-    Kor:"그러나 모세는 주님께 이렇게 대답하였다. \"보십시오, 저는 입이 둔하여 말을 할 줄 모릅니다. 바로가 어찌 저의 말을 듣겠습니까?\"",
+    Kor:"그러나 모세는 주께 이렇게 대답하였다. \"보십시오, 저는 입이 둔하여 말을 할 줄 모릅니다. 바로가 어찌 저의 말을 듣겠습니까?\"",
     Chn:"摩西在耶和华面前说：「看哪，我是拙口笨舌的人，法老怎肯听我呢？」",
     Eng:"But Moses said to the LORD, \"Since I speak with faltering lips, why would Pharaoh listen to me?\"",
     Ind:"(6-29) Tetapi Musa berkata di hadapan TUHAN: \"Bukankah aku ini seorang yang tidak petah lidahnya, bagaimanakah mungkin Firaun akan mendengarkan aku?\""

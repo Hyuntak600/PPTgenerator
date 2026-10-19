@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",36,38);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:36, Verse:1, Page:1,
-    Kor:"<이스라엘이 받는 복> \"너 사람아, 너는 이스라엘의 산들에게 이렇게 예언하여 일러라. '이스라엘의 산들아, 너희는 나 주의 말을 들어라.",
+    Kor:"\"너 사람아, 너는 이스라엘의 산들에게 이렇게 예언하여 일러라. '이스라엘의 산들아, 너희는 나 주의 말을 들어라.",
     Chn:"「人子啊，你要对以色列山发预言说：以色列山哪，要听耶和华的话。",
     Eng:"\"Son of man, prophesy to the mountains of Israel and say, 'O mountains of Israel, hear the word of the LORD.",
     Ind:"\"Hai engkau, anak manusia, bernubuatlah mengenai gunung-gunung Israel dan katakanlah: Hai gunung-gunung Israel, dengarlah firman TUHAN!"
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Oleh karena itu bernubuatlah dan katakan: Beginilah firman Tuhan ALLAH: Oleh karena, ya sungguh karena musuh dari sekitarmu menjadikan kamu sunyi sepi dan mengingini kamu, supaya kamu menjadi milik sisa bangsa-bangsa, dan oleh karena kamu menjadi buah mulut orang dan banyak dipergunjingkan,"
   },
   {Bible:"Ezekiel", Chapter:36, Verse:4, Page:1,
-    Kor:"그러므로 너희 이스라엘의 산들아, 너희는 나 주 하나님의 말을 들어라. 나 주 하나님이 말한다. 산과 언덕에게, 시냇물과 골짜기에게, 황폐해진 황무지에게, 그리고 사방에 남아 있는 성읍들, 곧 다른 민족들이 약탈하여 조롱거리가 된 버림받은 성읍들에게 말한다.",
+    Kor:"그러므로 너희 이스라엘의 산들아, 너희는 나 주 하나님의 말을 들어라. 나 주 하나님이 말한다. 산과 언덕에게, 시냇물과 골짜기에게, 황폐해진 황무지에게, 그리고 사방에 남아 있는 성읍들, 곧 다른 민족들이 약탈을 하여 조롱거리가 된 버림받은 성읍들에게 말한다.",
     Chn:"故此，以色列山要听主耶和华的话。大山小冈、水沟山谷、荒废之地、被弃之城，为四围其余的外邦人所占据、所讥刺的，",
     Eng:"therefore, O mountains of Israel, hear the word of the Sovereign LORD: This is what the Sovereign LORD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and the deserted towns that have been plundered and ridiculed by the rest of the nations around you--",
     Ind:"oleh karena itu, hai gunung-gunung Israel, dengarlah firman Tuhan ALLAH kepada gunung-gunung dan bukit-bukit, kepada alur-alur sungai dan lembah-lembah, kepada reruntuhan-reruntuhan yang sunyi sepi dan kepada kota-kota yang sudah ditinggalkan, yang sudah menjadi jarahan dan olok-olokan bagi sisa bangsa-bangsa yang di sekitarnya;"
   },
   {Bible:"Ezekiel", Chapter:36, Verse:5, Page:1,
-    Kor:"○나 주 하나님이 이렇게 말한다. 진실로 내가 나의 맹렬한 질투를 그대로 쏟아서, 남아 있는 이방 민족들과 에돔 온 땅을 쳐서 말한다. 그들은 내 땅을 자기들의 소유로 만들면서 기뻐하였고, 내 땅의 주민을 멸시하면서 내쫓고, 내 땅의 목초지를 약탈하고 차지하였다.'",
+    Kor:"○나 주 하나님이 이렇게 말한다. 진실로 내가 나의 맹렬한 투기를 그대로 쏟아서, 남아 있는 이방 민족들과 에돔 온 땅을 쳐서 말한다. 그들은 내 땅을 자기들의 소유로 만들면서 기뻐하였고, 내 땅의 주민을 멸시하면서 내쫓고, 내 땅의 목초지를 약탈하고 차지하였다.'",
     Chn:"主耶和华对你们如此说：我真发愤恨如火，责备那其余的外邦人和以东的众人。他们快乐满怀，心存恨恶，将我的地归自己为业，又看为被弃的掠物。",
     Eng:"this is what the Sovereign LORD says: In my burning zeal I have spoken against the rest of the nations, and against all Edom, for with glee and with malice in their hearts they made my land their own possession so that they might plunder its pastureland.'",
     Ind:"oleh karena itu beginilah firman Tuhan ALLAH: Aku pasti berfirman dalam api cemburuan-Ku melawan sisa bangsa-bangsa dan melawan seluruh Edom, yang menentukan tanah-Ku menjadi miliknya dengan segala rasa sukacita dan rasa penghinaan, sehingga tanah-Ku itu dimilikinya dan dapat habis dijarah."
   },
   {Bible:"Ezekiel", Chapter:36, Verse:6, Page:1,
-    Kor:"그러므로 너는 이스라엘 땅을 두고 예언하고, 산과 언덕에게, 시냇물과 골짜기에게 전하여라. '나 주 하나님이 이렇게 말한다. 너희가 뭇 민족에게 수치를 당하였기 때문에, 내가 질투와 분노를 그대로 쏟으면서 말한다.",
+    Kor:"그러므로 너는 이스라엘 땅을 두고 예언하고, 산과 언덕에게, 시냇물과 골짜기에게 전하여라. '나 주 하나님이 이렇게 말한다. 너희가 뭇 민족에게 수치를 당하였기 때문에, 내가 투기와 분노를 그대로 쏟으면서 말한다.",
     Chn:"所以，你要指着以色列地说预言，对大山小冈、水沟山谷说，主耶和华如此说：我发愤恨和忿怒说，因你们曾受外邦人的羞辱，",
     Eng:"Therefore prophesy concerning the land of Israel and say to the mountains and hills, to the ravines and valleys: 'This is what the Sovereign LORD says: I speak in my jealous wrath because you have suffered the scorn of the nations.",
     Ind:"Oleh karena itu bernubuatlah mengenai tanah Israel dan katakanlah kepada gunung-gunung dan bukit-bukit, kepada alur-alur sungai dan lembah-lembah: Beginilah firman Tuhan ALLAH: Sungguh, Aku berfirman dalam amarah cemburuan-Ku, oleh karena kamu sudah menanggung noda yang ditimbulkan bangsa-bangsa."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Aku akan membuat manusia dan binatang banyak di atasmu, dan mereka akan bertambah banyak dan beranak cucu dan Aku akan membuat kamu didiami kembali seperti keadaan semula dan akan berbuat baik kepadamu lebih dari pada keadaan dahulu. Dan kamu akan mengetahui bahwa Akulah TUHAN."
   },
   {Bible:"Ezekiel", Chapter:36, Verse:12, Page:1,
-    Kor:"내가 너희 산들 위에 사람들이, 곧 내 백성 이스라엘이 다시 다니게 하겠다. 그들이 너희를 차지하고, 너희는 그들의 소유가 될 것이다. 너희는 내 백성 이스라엘이 또 다시 자식을 빼앗기지 않게 할 것이다.",
+    Kor:"내가 너희 산들 위에 사람들, 곧 내 백성 이스라엘이 다시 다니게 하겠다. 그들이 너희를 차지하고, 너희는 그들의 소유가 될 것이다. 너희가 다시는, 그들이 자식을 빼앗기지 않게 할 것이다.",
     Chn:"我必使人，就是我的民以色列，行在你上面。他们必得你为业；你也不再使他们丧子。",
     Eng:"I will cause people, my people Israel, to walk upon you. They will possess you, and you will be their inheritance; you will never again deprive them of their children.",
     Ind:"Aku akan membuat manusia lalu-lalang di atasmu yaitu umat-Ku Israel; mereka akan menduduki engkau dan engkau akan menjadi milik pusaka mereka dan engkau tidak lagi terus memunahkan mereka."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Aku tidak lagi membiarkan orang membicarakan noda yang ditimbulkan bangsa-bangsa terhadap engkau dan engkau tidak lagi menanggung pencelaan bangsa-bangsa dan tidak lagi memunahkan bangsamu, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:36, Verse:16, Page:1,
-    Kor:"<이스라엘을 정결하게 하시다> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"Again the word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:36, Verse:17, Page:1,
-    Kor:"○\"사람아, 이스라엘 족속이 자기들의 땅에 살 때에 그 행위로 그 땅을 더럽혔다. 내가 보기에 그 소행이 월경 중에 있는 여자의 부정함과 같았다.",
+    Kor:"\"사람아, 이스라엘 족속이 자기들의 땅에 살 때에 그 행위로 그 땅을 더럽혔다. 내가 보기에 그 소행이 월경 중에 있는 여자의 부정함과 같았다.",
     Chn:"「人子啊，以色列家住在本地的时候，在行动作为上玷污那地。他们的行为在我面前，好像正在经期的妇人那样污秽。",
     Eng:"\"Son of man, when the people of Israel were living in their own land, they defiled it by their conduct and their actions. Their conduct was like a woman's monthly uncleanness in my sight.",
     Ind:"\"Hai anak manusia, waktu kaum Israel tinggal di tanah mereka, mereka menajiskannya dengan tingkah laku mereka; kelakuan mereka sama seperti cemar kain di hadapan-Ku."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Dan kamu akan diam di dalam negeri yang telah Kuberikan kepada nenek moyangmu dan kamu akan menjadi umat-Ku dan Aku akan menjadi Allahmu."
   },
   {Bible:"Ezekiel", Chapter:36, Verse:29, Page:1,
-    Kor:"○내가 너희를 그 모든 더러운 곳에서 구원하여 낸 다음에는, 곡식의 소출을 풍성하게 하여, 다시는 너희에게 흉년이 들지 않게 하며,",
+    Kor:"○내가 너희를 그 모든 더러운 곳에서 구원하여 낸 다음에는, 곡식의 산출을 풍성하게 하여, 다시는 너희에게 흉년이 들지 않게 하며,",
     Chn:"我必救你们脱离一切的污秽，也必命五谷丰登，不使你们遭遇饥荒。",
     Eng:"I will save you from all your uncleanness. I will call for the grain and make it plentiful and will not bring famine upon you.",
     Ind:"Aku akan melepaskan kamu dari segala dosa kenajisanmu dan Aku akan menumbuhkan gandum serta memperbanyaknya, dan Aku tidak lagi mendatangkan kelaparan atasmu."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Dan bangsa-bangsa yang tertinggal, yang ada di sekitarmu akan mengetahui, bahwa Akulah TUHAN, yang membangun kembali yang sudah musnah dan menanami kembali yang sudah tandus. Aku, TUHAN, yang mengatakannya dan akan membuatnya."
   },
   {Bible:"Ezekiel", Chapter:36, Verse:37, Page:1,
-    Kor:"○나 주 하나님이 말한다. 이제 나는 다시 한 번 이스라엘 족속을 시켜서 내게 도움을 간청하게 하겠고, 그들의 인구를 양 떼처럼 불어나게 하겠다.",
+    Kor:"○나 주 하나님이 말한다. 이제 나는 다시 한 번 이스라엘 족속을 시켜서 내게 도움을 간청하게 하겠고, 그들의 인구 수를 양 떼처럼 불어나게 하겠다.",
     Chn:"「主耶和华如此说：我要加增以色列家的人数，多如羊群。他们必为这事向我求问，我要给他们成就。",
     Eng:"\"This is what the Sovereign LORD says: Once again I will yield to the plea of the house of Israel and do this for them: I will make their people as numerous as sheep,",
     Ind:"Beginilah firman Tuhan ALLAH: Dalam hal ini juga Aku menginginkan, supaya kaum Israel meminta dari pada-Ku apa yang hendak Kulakukan bagi mereka, yaitu membuat mereka banyak seperti lautan manusia."

@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",22,23);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:22, Verse:1, Page:1,
-    Kor:"<사울이 놉의 제사장들을 학살하다> 다윗은 거기에서 떠나, 아둘람 굴 속으로 몸을 피하였다. 그러자 형들과 온 집안이 그 소식을 듣고, 그 곳으로 내려가, 그에게 이르렀다.",
+    Kor:"다윗은 거기에서 떠나, 아둘람 굴 속으로 몸을 피하였다. 그러자 형들과 온 집안이 그 소식을 듣고, 그 곳으로 내려가, 그에게 이르렀다.",
     Chn:"大卫就离开那里，逃到亚杜兰洞。他的弟兄和他父亲的全家听见了，就都下到他那里。",
     Eng:"David left Gath and escaped to the cave of Adullam. When his brothers and his father's household heard about it, they went down to him there.",
     Ind:"Lalu Daud pergi dari sana dan melarikan diri ke gua Adulam. Ketika saudara-saudaranya dan seluruh keluarganya mendengar hal itu, pergilah mereka ke sana mendapatkan dia."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"sehingga kamu sekalian mengadakan persepakatan melawan aku dan tidak ada seorangpun yang menyatakan kepadaku, bahwa anakku mengikat diri dengan anak Isai itu? Tidak ada seorangpun dari kamu yang cemas karena aku, atau yang menyatakan kepadaku, bahwa anakku telah menghasut pegawaiku melawan aku menjadi penghadang seperti sekarang ini.\""
   },
   {Bible:"1Samuel", Chapter:22, Verse:9, Page:1,
-    Kor:"○바로 그 때에 사울의 신하들 가운데 끼여 있던 에돔 사람 도엑이 나서서 보고하였다. \"제가 이새의 아들을 보았습니다. 그가 놉으로 와서 아히둡의 아들 아히멜렉과 만날 때였습니다.",
+    Kor:"○바로 그 때에 사울의 신하들 가운데 끼어 있던 에돔 사람 도엑이 나서서 보고하였다. \"제가 이새의 아들을 보았습니다. 그가 놉으로 와서 아히둡의 아들 아히멜렉과 만날 때였습니다.",
     Chn:"那时以东人多益站在扫罗的臣仆中，对他说：「我曾看见耶西的儿子到了挪伯，亚希突的儿子亚希米勒那里。",
     Eng:"But Doeg the Edomite, who was standing with Saul's officials, said, \"I saw the son of Jesse come to Ahimelech son of Ahitub at Nob.",
     Ind:"Lalu menjawablah Doeg, orang Edom itu, yang berdiri dekat para pegawai Saul, katanya: \"Telah kulihat, bahwa anak Isai itu datang ke Nob, kepada Ahimelekh bin Ahitub."
   },
   {Bible:"1Samuel", Chapter:22, Verse:10, Page:1,
-    Kor:"그 때에 아히멜렉이, 다윗이 해야 할 일을 주님께 여쭈어 보고 나서, 그에게 먹을 것도 주고, 블레셋 사람 골리앗의 칼도 주었습니다.\"",
+    Kor:"그 때에 아히멜렉이, 다윗이 해야 할 일을 주께 여쭈어 보고 나서, 그에게 먹을 것도 주고, 블레셋 사람 골리앗의 칼도 주었습니다.\"",
     Chn:"亚希米勒为他求问耶和华，又给他食物，并给他杀非利士人歌利亚的刀。」",
     Eng:"Ahimelech inquired of the LORD for him; he also gave him provisions and the sword of Goliath the Philistine.\"",
     Ind:"Ia menanyakan TUHAN bagi Daud dan memberikan bekal kepadanya; juga pedang Goliat, orang Filistin itu, diberikannya kepadanya.\""
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Tetapi raja berkata: \"Engkau mesti dibunuh, Ahimelekh, engkau dan seluruh keluargamu.\""
   },
   {Bible:"1Samuel", Chapter:22, Verse:17, Page:1,
-    Kor:"그리고 왕은 자기 곁에 둘러 서 있던 호위병들에게 명령하였다. \"너희는 당장 달려들어 주님의 제사장들을 죽여라. 그들은 다윗과 손을 잡고 공모하였으며, 다윗이 도망하는 줄 알았으면서도 나에게 귀띔해 주지 않았기 때문이다.\" 그러나 왕의 신하들은 손을 들어 주님의 제사장들을 살해하기를 꺼렸다.",
+    Kor:"그리고 왕은 자기 곁에 둘러 서 있던 호위병들에게 명령하였다. \"너희는 당장 달려들어 주의 제사장들을 죽여라. 그들은 다윗과 손을 잡고 공모하였으며, 다윗이 도망하는 줄 알았으면서도 나에게 귀띔해 주지 않았기 때문이다.\" 그러나 왕의 신하들은 손을 들어 주의 제사장들을 살해하기를 꺼렸다.",
     Chn:"王就吩咐左右的侍卫说：「你们去杀耶和华的祭司；因为他们帮助大卫，又知道大卫逃跑，竟没有告诉我。」扫罗的臣子却不肯伸手杀耶和华的祭司。",
     Eng:"Then the king ordered the guards at his side: \"Turn and kill the priests of the LORD, because they too have sided with David. They knew he was fleeing, yet they did not tell me.\" But the king's officials were not willing to raise a hand to strike the priests of the LORD.",
     Ind:"Lalu raja memerintahkan kepada bentara yang berdiri di dekatnya: \"Majulah dan bunuhlah para imam TUHAN itu sebab mereka membantu Daud; sebab walaupun mereka tahu, bahwa ia melarikan diri, mereka tidak memberitahukan hal itu kepadaku.\" Tetapi para pegawai raja tidak mau mengangkat tangannya untuk memarang imam-imam TUHAN itu."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Tetapi seorang anak Ahimelekh bin Ahitub, namanya Abyatar luput; ia melarikan diri menjadi pengikut Daud."
   },
   {Bible:"1Samuel", Chapter:22, Verse:21, Page:1,
-    Kor:"아비아달은 다윗에게, 사울이 주님의 제사장들을 몰살시켰다는 소식을 전하였다.",
+    Kor:"아비아달은 다윗에게, 사울이 주의 제사장들을 몰살시켰다는 소식을 전하였다.",
     Chn:"亚比亚他将扫罗杀耶和华祭司的事告诉大卫。",
     Eng:"He told David that Saul had killed the priests of the LORD.",
     Ind:"Ketika Abyatar memberitahukan kepada Daud, bahwa Saul telah membunuh para imam TUHAN,"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"berkatalah Daud kepada Abyatar: \"Memang pada hari itu juga ketika Doeg, orang Edom itu, ada di sana, aku telah tahu, bahwa pasti ia akan memberitahukannya kepada Saul. Akulah sebab utama dari pada kematian seluruh keluargamu."
   },
   {Bible:"1Samuel", Chapter:22, Verse:23, Page:1,
-    Kor:"이제 두려워하지 말고, 나와 함께 지냅시다. 이제 나의 목숨을 노리는 사람이 바로 당신의 목숨을 노리는 사람이기도 하니, 나와 함께 있으면 안전할 것이오.\"",
+    Kor:"이제 두려워하지 말고, 나와 함께 지냅시다. 이제 나의 목숨을 노리는 사람이 바로 당신의 목숨을 노리는 사람이기도 하기 때문에, 나와 함께 있으면 안전할 것이오.\"",
     Chn:"你可以住在我这里，不要惧怕。因为寻索你命的就是寻索我的命；你在我这里可得保全。」",
     Eng:"Stay with me; don't be afraid; the man who is seeking your life is seeking mine also. You will be safe with me.\"",
     Ind:"Tinggallah padaku, janganlah takut; sebab siapa yang ingin mencabut nyawamu, ia juga ingin mencabut nyawaku; di dekatku engkau aman.\""

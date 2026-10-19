@@ -3,19 +3,19 @@
 BibleDB.ref("2Kings",9,37);
 BibleDB.add([
   {Bible:"2Kings", Chapter:9, Verse:1, Page:1,
-    Kor:"<예후가 이스라엘의 왕이 되다> 예언자 엘리사가 a예언자 수련생들 가운데서 한 사람을 불러 말하였다. \"너는 허리를 단단히 묶고, 손에 이 기름병을 들고, 길르앗의 라못으로 가거라.(a 히, '예언자들의 아들들')",
+    Kor:"예언자 엘리사가 예언자 수련생들 가운데서 한 사람을 불러 말하였다. \"너는 허리를 단단히 묶고, 손에 이 기름병을 들고, 길르앗의 라못으로 가거라.",
     Chn:"先知以利沙叫了一个先知门徒来，吩咐他说：「你束上腰，手拿这瓶膏油往基列的拉末去。",
     Eng:"The prophet Elisha summoned a man from the company of the prophets and said to him, \"Tuck your cloak into your belt, take this flask of oil with you and go to Ramoth Gilead.",
     Ind:"Kemudian nabi Elisa memanggil salah seorang dari rombongan nabi dan berkata kepadanya: \"Ikatlah pinggangmu, bawalah buli-buli berisi minyak ini dan pergilah ke Ramot-Gilead."
   },
   {Bible:"2Kings", Chapter:9, Verse:2, Page:1,
-    Kor:"거기에 가면, 그 곳에서 님시의 손자이며 여호사밧의 아들인 예후를 만나게 될 것이다. 그러면 안에 들어가, 그의 동료들 사이에서 그를 불러내어 밀실로 데리고 들어가거라.",
+    Kor:"거기에 가면, 그 곳에서 님시의 손자이며 여호사밧의 아들인 예후를 만나게 될 것이다. 그러면 안에 들어가, 그의 형제들 사이에서 그를 불러내어 밀실로 데리고 들어가거라.",
     Chn:"到了那里，要寻找宁示的孙子、约沙法的儿子耶户，使他从同僚中起来，带他进严密的屋子，",
     Eng:"When you get there, look for Jehu son of Jehoshaphat, the son of Nimshi. Go to him, get him away from his companions and take him into an inner room.",
     Ind:"Apabila engkau sampai ke sana, carilah Yehu bin Yosafat bin Nimsi; masuklah, ajak dia bangkit dari tengah-tengah temannya dan bawalah dia ke ruang dalam."
   },
   {Bible:"2Kings", Chapter:9, Verse:3, Page:1,
-    Kor:"그리고 기름병을 기울여 그의 머리에 부으며 '나 주가 말한다. 내가 너를 이스라엘의 왕으로 세웠다' 하고 말하여라. 그렇게 말한 다음에 너는 문을 열고 속히 도망하여라. 지체해서는 안 된다.\"",
+    Kor:"그리고 기름병을 기울여 그의 머리에 부으며 '나 주가 말한다. 내가 너를 이스라엘의 왕으로 세웠다' 하고 말하여라. 그렇게 말한 다음에, 너는 문을 열고 속히 도망하여라. 지체해서는 안 된다.\"",
     Chn:"将瓶里的膏油倒在他头上，说：『耶和华如此说：我膏你作以色列王。』说完了，就开门逃跑，不要迟延。」",
     Eng:"Then take the flask and pour the oil on his head and declare, 'This is what the LORD says: I anoint you king over Israel.' Then open the door and run; don't delay!\"",
     Ind:"Kemudian ambillah buli-buli berisi minyak itu, lalu tuangkan isinya ke atas kepalanya dan katakan: Beginilah firman TUHAN: Telah Kuurapi engkau menjadi raja atas Israel! Sesudah itu bukalah pintu, larilah dan jangan berlambat-lambat.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Setelah ia sampai, maka tampaklah panglima-panglima tentara sedang duduk berkumpul. Lalu ia berkata: \"Ada pesan kubawa untukmu, ya panglima!\" Yehu bertanya: \"Untuk siapa dari kami sekalian?\" Jawabnya: \"Untukmu, ya panglima!\""
   },
   {Bible:"2Kings", Chapter:9, Verse:6, Page:1,
-    Kor:"예후가 일어나서 집 안으로 들어가자, 예언자의 시종인 그 젊은이는 그의 머리에 기름을 부으며 말하였다. \"나 주 이스라엘의 하나님이 말한다. 내가 너에게 기름을 부어, 주님의 백성 이스라엘의 왕으로 세웠다.",
+    Kor:"예후가 일어나서 집 안으로 들어가자, 예언자의 시종인 그 젊은이는 그의 머리에 기름을 부으며 말하였다. \"나 주 이스라엘의 하나님이 말한다. 내가 너에게 기름을 부어, 주의 백성 이스라엘의 왕으로 세웠다.",
     Chn:"耶户就起来，进了屋子，少年人将膏油倒在他头上，对他说：「耶和华—以色列的　神如此说：『我膏你作耶和华民以色列的王。",
     Eng:"Jehu got up and went into the house. Then the prophet poured the oil on Jehu's head and declared, \"This is what the LORD, the God of Israel, says: 'I anoint you king over the LORD'S people Israel.",
     Ind:"Lalu bangkitlah Yehu dan masuk ke dalam rumah. Nabi muda itu menuang minyak ke atas kepala Yehu serta berkata kepadanya: \"Beginilah firman TUHAN, Allah Israel: Telah Kuurapi engkau menjadi raja atas umat TUHAN, yaitu orang Israel."
   },
   {Bible:"2Kings", Chapter:9, Verse:7, Page:1,
-    Kor:"너는 네가 섬기는 상전 아합의 가문을 쳐라. 나는 내 종들인 예언자들의 피와 또 주님의 다른 종들의 모든 피를 이세벨에게 갚으려고 한다.",
+    Kor:"너는 네가 섬기는 상전 아합의 가문을 쳐라. 나는 내 종들인 예언자들의 피와 또 주의 다른 종들의 모든 피를 이세벨에게 갚으려고 한다.",
     Chn:"你要击杀你主人亚哈的全家，我好在耶洗别身上伸我仆人众先知和耶和华一切仆人流血的冤。",
     Eng:"You are to destroy the house of Ahab your master, and I will avenge the blood of my servants the prophets and the blood of all the LORD'S servants shed by Jezebel.",
     Ind:"Maka engkau akan membunuh keluarga tuanmu Ahab dan dengan demikian Aku membalaskan kepada Izebel darah hamba-hamba-Ku, nabi-nabi itu, bahkan darah semua hamba TUHAN."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memperlakukan keluarga Ahab sama seperti keluarga Yerobeam bin Nebat dan sama seperti keluarga Baesa bin Ahia."
   },
   {Bible:"2Kings", Chapter:9, Verse:10, Page:1,
-    Kor:"그리고 개들이 이스르엘 땅 안에서 이세벨을 뜯어 먹을 것이다. 그를 매장할 사람조차 없을 것이다.\" 그리고 난 뒤에 예언자의 시종인 그 젊은이는 문을 열고 도망하였다.",
+    Kor:"그리고 개들이 이스르엘 땅 안에서 이세벨을 뜯어 먹을 것이다. 그를 매장할 사람조차 없을 것이다.\" 그리고 난 뒤에, 예언자의 시종인 그 젊은이는 문을 열고 도망하였다.",
     Chn:"耶洗别必在耶斯列田里被狗所吃，无人葬埋。』」说完了，少年人就开门逃跑了。",
     Eng:"As for Jezebel, dogs will devour her on the plot of ground at Jezreel, and no one will bury her.'\" Then he opened the door and ran.",
     Ind:"Izebel akan dimakan anjing di kebun di luar Yizreel dengan tidak ada orang yang menguburkannya.\" Kemudian nabi itu membuka pintu, lalu lari."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Apabila Yehu keluar mendapatkan pegawai-pegawai tuannya, berkatalah seorang kepadanya: \"Apa kabar? Mengapa orang gila itu datang kepadamu?\" Jawabnya kepada mereka: \"Kamu sendiri mengenal orang itu dengan omongannya!\""
   },
   {Bible:"2Kings", Chapter:9, Verse:12, Page:1,
-    Kor:"그러나 그들이 말하였다. \"슬쩍 넘어가지 마시오. 우리에게 사실을 말해 주시오.\" 예후가 대답하였다. \"그의 말이, 주님께서 나를 이스라엘의 왕으로 기름 부어 세웠다고 말씀하시었다고 하였소.\"",
+    Kor:"그러나 그들이 말하였다. \"슬쩍 넘어가지 마시오. 우리에게 사실을 말해 주시오.\" 예후가 대답하였다. \"그의 말이, 주께서 나를 이스라엘의 왕으로 기름 부어 세웠다고 말씀하시었다고 하였소.\"",
     Chn:"他们说：「这是假话，你据实地告诉我们。」回答说：「他如此如此对我说。他说：『耶和华如此说：我膏你作以色列王。』」",
     Eng:"\"That's not true!\" they said. \"Tell us.\" Jehu said, \"Here is what he told me: 'This is what the LORD says: I anoint you king over Israel.'\"",
     Ind:"Tetapi mereka berkata: \"Dusta! Cobalah beritahukan kepada kami!\" Lalu katanya: \"Begini-beginilah dikatakannya kepadaku: Demikianlah firman TUHAN: Telah Kuurapi engkau menjadi raja atas Israel.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Segeralah mereka masing-masing mengambil pakaiannya dan membentangkannya di hadapan kakinya begitu saja di atas tangga, kemudian mereka meniup sangkakala serta berseru: \"Yehu raja!\""
   },
   {Bible:"2Kings", Chapter:9, Verse:14, Page:1,
-    Kor:"<이스라엘 왕 요람이 살해되다> ○그리하여 님시의 손자이며 여호사밧의 아들인 예후는, 요람을 칠 모의를 하게 되었다. 그 때에 요람은 이스라엘 전군을 이끌고, 시리아 왕 하사엘과 맞서서 길르앗의 라못을 지키고 있었다.",
+    Kor:"○그리하여 님시의 손자이며 여호사밧의 아들인 예후는, 요람을 칠 모의를 하게 되었다. 그 때에 요람은 이스라엘 전군을 이끌고, 시리아 왕 하사엘과 맞서서 길르앗의 라못을 지키고 있었다.",
     Chn:"这样，宁示的孙子、约沙法的儿子耶户背叛约兰。先是约兰和以色列众人因为亚兰王哈薛的缘故，把守基列的拉末；",
     Eng:"So Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now Joram and all Israel had been defending Ramoth Gilead against Hazael king of Aram,",
     Ind:"Demikianlah Yehu bin Yosafat bin Nimsi mengadakan persepakatan melawan Yoram. --Adapun Yoram sedang berjaga-jaga di Ramot-Gilead, bersama-sama dengan segenap orang Israel menghadapi Hazael, raja Aram."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi raja Yoram sendiri telah pulang ke Yizreel, supaya luka-lukanya diobati, yang ditimbulkan orang Aram pada waktu ia berperang melawan Hazael, raja Aram. --Yehu berkata: \"Jika kamu sudah setuju, janganlah biarkan siapapun meloloskan diri dari kota untuk memberitahukan hal itu ke Yizreel.\""
   },
   {Bible:"2Kings", Chapter:9, Verse:16, Page:1,
-    Kor:"그런 다음에 예후는, 병거를 타고 이스르엘로 갔다. 요람이 그 곳에서 병으로 누워 있었다. 유다의 아하시야 왕은 요람을 문병하려고 벌써 거기에 와 있었다.",
+    Kor:"그런 다음에 예후는, 병거를 타고 이스르엘로 갔다. 요람이 그 곳에 병으로 누워 있었다. 유다의 아하시야 왕은 요람을 문병하려고 벌써 거기에 와 있었다.",
     Chn:"于是耶户坐车往耶斯列去，因为约兰病卧在那里。犹大王亚哈谢已经下去看望他。",
     Eng:"Then he got into his chariot and rode to Jezreel, because Joram was resting there and Ahaziah king of Judah had gone down to see him.",
     Ind:"Kemudian Yehu naik kereta dan pergi ke Yizreel, sebab Yoram berbaring sakit di sana. Juga Ahazia, raja Yehuda, datang menjenguk Yoram."
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Tetapi Yehu menarik busurnya dengan sepenuh kekuatannya, lalu memanah Yoram di antara kedua bahunya, sehingga anak panah itu menembus jantungnya, maka rebahlah ia di dalam keretanya."
   },
   {Bible:"2Kings", Chapter:9, Verse:25, Page:1,
-    Kor:"예후가 요람의 빗갈 시종무관에게 말하였다. \"그 주검을 들고 가서, 이스르엘 사람 나봇의 밭에 던지시오. 당신은, 나와 당신이 그의 아버지 아합의 뒤에서 나란히 병거를 타고 다닐 때에, 주님께서 그를 두고 선포하신 말씀을 그대로 기억할 것이오.",
+    Kor:"예후가 요람의 빗갈 시종무관에게 말하였다. \"그 주검을 들고 가서, 이스르엘 사람 나봇의 밭에 던지시오. 그대는, 나와 그대가 그의 아버지 아합의 뒤에서 나란히 병거를 타고 다닐 때에, 주께서 그를 두고 선포하신 말씀을 그대로 기억할 것이오.",
     Chn:"耶户对他的军长毕甲说：「你把他抛在耶斯列人拿伯的田间。你当追想，你我一同坐车跟随他父亚哈的时候，耶和华对亚哈所说的预言，",
     Eng:"Jehu said to Bidkar, his chariot officer, \"Pick him up and throw him on the field that belonged to Naboth the Jezreelite. Remember how you and I were riding together in chariots behind Ahab his father when the LORD made this prophecy about him:",
     Ind:"Kemudian berkatalah Yehu kepada Bidkar, perwiranya: \"Angkat dan lemparkanlah mayatnya ke kebun Nabot, orang Yizreel itu, sebab ketahuilah, bahwa pada waktu aku dan engkau berdampingan menunggang kuda mengikuti Ahab, ayahnya, maka TUHAN telah mengucapkan terhadap dia hukuman ini:"
   },
   {Bible:"2Kings", Chapter:9, Verse:26, Page:1,
-    Kor:"주님께서 아합에게 '내가 어제, 나봇과 그의 아들들이 함께 흘린 피를 분명히 보았다. 바로 이 밭에서 내가 너에게 그대로 갚겠다. 이것은 나 주의 말이다' 하고 말씀하셨소. 이제 당신은 그 주검을 들고 가서, 주님의 말씀대로 그 밭에 던지시오.\"",
+    Kor:"주께서 아합에게 '내가 어제, 나봇과 그의 아들들이 함께 흘린 피를 분명히 보았다. 바로 이 밭에서 내가 너에게 그대로 갚겠다. 이것은 나 주의 말이다' 하고 말씀하셨소. 이제 그대는 그 주검을 들고 가서, 주의 말씀대로 그 밭에 던지시오.\"",
     Chn:"说：『我昨日看见拿伯的血和他众子的血，我必在这块田上报应你。』这是耶和华说的，现在你要照着耶和华的话，把他抛在这田间。」",
     Eng:"'Yesterday I saw the blood of Naboth and the blood of his sons, declares the LORD, and I will surely make you pay for it on this plot of ground, declares the LORD.' Now then, pick him up and throw him on that plot, in accordance with the word of the LORD.\"",
     Ind:"Sesungguhnya, Aku telah melihat darah Nabot dan darah anak-anaknya tadi malam, demikianlah firman TUHAN, maka Aku akan membalaskannya kepadamu di kebun ini, demikianlah firman TUHAN. Oleh sebab itu angkat dan lemparkanlah mayatnya ke kebun ini, sesuai dengan firman TUHAN.\""
   },
   {Bible:"2Kings", Chapter:9, Verse:27, Page:1,
-    Kor:"<유다 왕 아하시야가 살해되다> ○유다의 아하시야 왕은 이것을 보고 b벳하간으로 가는 길로 도망하였으나, 예후가 그의 뒤를 추적하며 \"저 자도 죽여라\" 하고 외치니, 이블르암 부근 구르 오르막길에서 예후의 부하들이, 병거에 타고 있는 아하시야를 찔러 상처를 입혔다. 그는 므깃도까지 도망하여, 그 곳에서 죽었다.(b '정원의 집')",
+    Kor:"○유다의 아하시야 왕은 이것을 보고 벳하간으로 가는 길로 도망하였으나, 예후가 그의 뒤를 추적하며 \"저 자도 죽여라\" 하고 외치니, 이블르암 부근 구르 오르막길에서 예후의 부하들이, 병거에 타고 있는 아하시야를 찔러 상처를 입혔다. 그는 므깃도까지 도망하여, 그 곳에서 죽었다.",
     Chn:"犹大王亚哈谢见这光景，就从园亭之路逃跑。耶户追赶他，说：「把这人也杀在车上。」到了靠近以伯莲姑珥的坡上击伤了他。他逃到米吉多，就死在那里。",
     Eng:"When Ahaziah king of Judah saw what had happened, he fled up the road to Beth Haggan. Jehu chased him, shouting, \"Kill him too!\" They wounded him in his chariot on the way up to Gur near Ibleam, but he escaped to Megiddo and died there.",
     Ind:"Ketika Ahazia, raja Yehuda, melihat itu, maka iapun melarikan diri ke arah Bet-Hagan, tetapi Yehu mengejarnya sambil berkata: \"Panahlah dia juga!\" Maka mereka memanah dia di atas keretanya di pendakian ke Gur dekat Yibleam. Ia lari ke Megido dan mati di sana."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Adapun Ahazia menjadi raja atas Yehuda dalam tahun kesebelas zaman Yoram bin Ahab."
   },
   {Bible:"2Kings", Chapter:9, Verse:30, Page:1,
-    Kor:"<이세벨 왕후가 살해되다> ○예후가 이스르엘에 이르렀을 때에, 이세벨이 이 소식을 듣고, 눈 화장을 하고 머리를 아름답게 꾸미고는, 창문으로 내려다보았다.",
+    Kor:"○예후가 이스르엘에 이르렀을 때에, 이세벨이 이 소식을 듣고, 눈 화장을 하고 머리를 아름답게 꾸미고는, 창문으로 내려다보았다.",
     Chn:"耶户到了耶斯列；耶洗别听见就擦粉、梳头，从窗户里往外观看。",
     Eng:"Then Jehu went to Jezreel. When Jezebel heard about it, she painted her eyes, arranged her hair and looked out of a window.",
     Ind:"Sampailah Yehu ke Yizreel. Ketika Izebel mendengar itu, ia mencalak matanya, dihiasinyalah kepalanya, lalu ia menjenguk dari jendela."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Mereka pergi untuk menguburkannya, tetapi mereka tidak menjumpai mayatnya, hanya kepala dan kedua kaki dan kedua telapak tangannya."
   },
   {Bible:"2Kings", Chapter:9, Verse:36, Page:1,
-    Kor:"그들이 돌아와서 그에게 그렇게 보고하니, 그가 말하였다. \"주님께서, 주님의 종 디셉 사람 엘리야를 시켜서 말씀하신 대로, 이루어졌다. 주님께서 말씀하시기를 '이스르엘의 밭에서 개들이 이세벨의 주검을 뜯어 먹을 것이며,",
+    Kor:"그들이 돌아와서 그에게 그렇게 보고하니, 그가 말하였다. \"주께서, 주의 종 디셉 사람 엘리야를 시켜서 말씀하신 대로, 이루어졌다. 주께서 말씀하시기를 '이스르엘의 밭에서 개들이 이세벨의 주검을 뜯어 먹을 것이며,",
     Chn:"他们回去告诉耶户，耶户说：「这正应验耶和华借他仆人提斯比人以利亚所说的话，说：『在耶斯列田间，狗必吃耶洗别的肉；",
     Eng:"They went back and told Jehu, who said, \"This is the word of the LORD that he spoke through his servant Elijah the Tishbite: On the plot of ground at Jezreel dogs will devour Jezebel's flesh.",
     Ind:"Mereka kembali memberitahukannya kepada Yehu, lalu ia berkata: \"Memang begitulah firman TUHAN yang diucapkan-Nya dengan perantaraan hamba-Nya, Elia, orang Tisbe itu: Di kebun di luar Yizreel akan dimakan anjing daging Izebel;"

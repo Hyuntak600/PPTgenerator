@@ -3,13 +3,13 @@
 BibleDB.ref("2Kings",17,41);
 BibleDB.add([
   {Bible:"2Kings", Chapter:17, Verse:1, Page:1,
-    Kor:"<이스라엘 왕 호세아> 유다의 아하스 왕 제 십이년에 엘라의 아들 호세아가 사마리아에서 왕이 되어, 이스라엘을 아홉 해 동안 다스렸다.",
+    Kor:"유다의 아하스 왕 제 십이년에 엘라의 아들 호세아가 사마리아에서 왕이 되어, 이스라엘을 아홉 해 동안 다스렸다.",
     Chn:"犹大王亚哈斯十二年，以拉的儿子何细亚在撒马利亚登基作以色列王九年。",
     Eng:"In the twelfth year of Ahaz king of Judah, Hoshea son of Elah became king of Israel in Samaria, and he reigned nine years.",
     Ind:"Dalam tahun kedua belas zaman Ahas, raja Yehuda, Hosea bin Ela menjadi raja di Samaria atas Israel. Ia memerintah sembilan tahun lamanya."
   },
   {Bible:"2Kings", Chapter:17, Verse:2, Page:1,
-    Kor:"그는 주님께서 보시기에 악을 행하였으나, 그 이전의 이스라엘 왕들만큼 악하지는 않았다.",
+    Kor:"그는 주께서 보시기에 악을 행하였으나, 그 이전의 이스라엘 왕들만큼 악하지는 않았다.",
     Chn:"他行耶和华眼中看为恶的事，只是不像在他以前的以色列诸王。",
     Eng:"He did evil in the eyes of the LORD, but not like the kings of Israel who preceded him.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN, tetapi bukan seperti raja-raja Israel yang mendahului dia."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Tetapi kedapatanlah oleh raja Asyur, bahwa di pihak Hosea ada persepakatan, karena Hosea telah mengirimkan utusan-utusan kepada So, raja Mesir, dan tidak mempersembahkan lagi upeti kepada raja Asyur, seperti biasanya tahun demi tahun; sebab itu raja Asyur menangkap dia dan membelenggu dia dalam penjara."
   },
   {Bible:"2Kings", Chapter:17, Verse:5, Page:1,
-    Kor:"<앗시리아 왕이 사마리아를 점령하다> ○그리고 난 뒤에 앗시리아의 왕이 이스라엘 전역으로 밀고 들어와서, 사마리아로 올라와 세 해 동안이나 도성을 포위하였다.",
+    Kor:"○그리고 난 뒤에 앗시리아의 왕이 이스라엘 전역으로 밀고 들어와서, 사마리아로 올라와 세 해 동안이나 도성을 포위하였다.",
     Chn:"亚述王上来攻击以色列遍地，上到撒马利亚，围困三年。",
     Eng:"The king of Assyria invaded the entire land, marched against Samaria and laid siege to it for three years.",
     Ind:"Kemudian majulah raja Asyur menjelajah seluruh negeri itu, ia menyerang Samaria dan mengepungnya tiga tahun lamanya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Hal itu terjadi, karena orang Israel telah berdosa kepada TUHAN, Allah mereka, yang telah menuntun mereka dari tanah Mesir dari kekuasaan Firaun, raja Mesir, dan karena mereka telah menyembah allah lain,"
   },
   {Bible:"2Kings", Chapter:17, Verse:8, Page:1,
-    Kor:"또 주님께서 이스라엘 자손의 면전에서 내쫓으신 이방 나라들의 관습과, 이스라엘의 역대 왕들이 잘못한 것을, 그들이 그대로 따랐기 때문이다.",
+    Kor:"또 주께서 이스라엘 자손의 면전에서 내쫓으신 이방 나라들의 관습과, 이스라엘의 역대 왕들이 잘못한 것을, 그들이 그대로 따랐기 때문이다.",
     Chn:"随从耶和华在他们面前所赶出外邦人的风俗和以色列诸王所立的条规。",
     Eng:"and followed the practices of the nations the LORD had driven out before them, as well as the practices that the kings of Israel had introduced.",
     Ind:"dan telah hidup menurut adat istiadat bangsa-bangsa yang telah dihalau TUHAN dari depan orang Israel, dan menurut ketetapan yang telah dibuat raja-raja Israel."
@@ -63,31 +63,31 @@ BibleDB.add([
     Ind:"mereka mendirikan tugu-tugu berhala dan tiang-tiang berhala di atas setiap bukit yang tinggi dan di bawah setiap pohon yang rimbun;"
   },
   {Bible:"2Kings", Chapter:17, Verse:11, Page:1,
-    Kor:"주님께서 그들의 면전에서 내쫓으신 이방 나라들처럼, 모든 산당에서 분향을 하여 주님의 진노를 일으키는 악한 일을 하였으며,",
+    Kor:"주께서 그들의 면전에서 내쫓으신 이방 나라들처럼, 모든 산당에서 분향을 하여 주의 진노를 일으키는 악한 일을 하였으며,",
     Chn:"在邱坛上烧香，效法耶和华在他们面前赶出的外邦人所行的，又行恶事惹动耶和华的怒气；",
     Eng:"At every high place they burned incense, as the nations whom the LORD had driven out before them had done. They did wicked things that provoked the LORD to anger.",
     Ind:"di sana di atas segala bukit itu mereka membakar korban seperti bangsa-bangsa yang telah diangkut TUHAN tertawan dari depan mereka; mereka melakukan hal-hal yang jahat sehingga mereka menimbulkan sakit hati TUHAN;"
   },
   {Bible:"2Kings", Chapter:17, Verse:12, Page:1,
-    Kor:"또한 주님께서 그들에게 하지 말라고 하신 우상숭배를 하였다.",
+    Kor:"또한 주께서 그들에게 하지 말라고 하신 우상숭배를 하였다.",
     Chn:"且事奉偶像，就是耶和华警戒他们不可行的。",
     Eng:"They worshiped idols, though the LORD had said, \"You shall not do this.\"",
     Ind:"mereka beribadah kepada berhala-berhala, walaupun TUHAN telah berfirman kepada mereka: \"Janganlah kamu berbuat seperti itu!\""
   },
   {Bible:"2Kings", Chapter:17, Verse:13, Page:1,
-    Kor:"○그런데도 주님께서는 이스라엘과 유다에 여러 예언자와 선견자를 보내어서 충고하셨다. \"너희는 너희의 그 악한 길에서부터 돌아서서, 내가 너희 조상에게 명하고, 또 나의 종 예언자들을 시켜 내가 너희에게 준 그 모든 율법에 따라, 나의 명령과 나의 율례를 지켜라.\"",
+    Kor:"○그런데도 주께서는 이스라엘과 유다에 여러 예언자와 선견자를 보내어서 충고하셨다. \"너희는 너희의 그 악한 길에서부터 돌아서서, 내가 너희 조상에게 명하고, 또 나의 종 예언자들을 시켜 내가 너희에게 준 그 모든 율법에 따라, 나의 명령과 나의 율례를 지켜라.\"",
     Chn:"但耶和华借众先知、先见劝戒以色列人和犹大人说：「当离开你们的恶行，谨守我的诫命律例，遵行我吩咐你们列祖，并借我仆人众先知所传给你们的律法。」",
     Eng:"The LORD warned Israel and Judah through all his prophets and seers: \"Turn from your evil ways. Observe my commands and decrees, in accordance with the entire Law that I commanded your fathers to obey and that I delivered to you through my servants the prophets.\"",
     Ind:"TUHAN telah memperingatkan kepada orang Israel dan kepada orang Yehuda dengan perantaraan semua nabi dan semua tukang tilik: \"Berbaliklah kamu dari pada jalan-jalanmu yang jahat itu dan tetaplah ikuti segala perintah dan ketetapan-Ku, sesuai dengan segala undang-undang yang telah Kuperintahkan kepada nenek moyangmu dan yang telah Kusampaikan kepada mereka dengan perantaraan hamba-hamba-Ku, para nabi.\""
   },
   {Bible:"2Kings", Chapter:17, Verse:14, Page:1,
-    Kor:"그러나 그들은 끝내 듣지 아니하였고, 주님이신 그들의 하나님께 신실하지 못하였던 그들의 조상들처럼, 완고하였다.",
+    Kor:"그러나 그들은 끝내 듣지 아니하고, 주님이신 그들의 하나님께 신실하지 못하였던 그들의 조상들처럼, 그들은 완고하였다.",
     Chn:"他们却不听从，竟硬着颈项，效法他们列祖，不信服耶和华—他们的　神，",
     Eng:"But they would not listen and were as stiff-necked as their fathers, who did not trust in the LORD their God.",
     Ind:"Tetapi mereka tidak mau mendengarkan, melainkan mereka menegarkan tengkuknya seperti nenek moyangnya yang tidak percaya kepada TUHAN, Allah mereka."
   },
   {Bible:"2Kings", Chapter:17, Verse:15, Page:1,
-    Kor:"그리고 주님의 율례와, 주님께서 그들의 조상과 세우신 언약과, 그들에게 주신 경고의 말씀을 거절하고, 헛된 것을 따라가며 그 헛된 것에 미혹되었으며, 주님께서 본받지 말라고 명하신 이웃 나라들을 본받았다.",
+    Kor:"그리고 주의 율례와, 주께서 그들의 조상과 세우신 언약과, 그들에게 주신 경고의 말씀을 거절하고, 헛된 것을 따라가며 그 헛된 것에 미혹되었으며, 주께서 본받지 말라고 명하신 이웃 나라들을 본받았다.",
     Chn:"厌弃他的律例和他与他们列祖所立的约，并劝戒他们的话，随从虚无的神，自己成为虚妄，效法周围的外邦人，就是耶和华嘱咐他们不可效法的；",
     Eng:"They rejected his decrees and the covenant he had made with their fathers and the warnings he had given them. They followed worthless idols and themselves became worthless. They imitated the nations around them although the LORD had ordered them, \"Do not do as they do,\" and they did the things the LORD had forbidden them to do.",
     Ind:"Mereka menolak ketetapan-Nya dan perjanjian-Nya, yang telah diadakan dengan nenek moyang mereka, juga peraturan-peraturan-Nya yang telah diperingatkan-Nya kepada mereka; mereka mengikuti dewa kesia-siaan, sehingga mereka mengikuti bangsa-bangsa yang di sekeliling mereka, walaupun TUHAN telah memerintahkan kepada mereka: janganlah berbuat seperti mereka itu."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Mereka telah meninggalkan segala perintah TUHAN, Allah mereka, dan telah membuat dua anak lembu tuangan; juga mereka membuat patung Asyera, sujud menyembah kepada segenap tentara langit dan beribadah kepada Baal."
   },
   {Bible:"2Kings", Chapter:17, Verse:17, Page:1,
-    Kor:"그들은 또한 자기들의 자녀들을 a불살라 제물로 바치는 일도 하였다. 그리고 복술도 하고, 주문도 외우며, 주님께서 보시기에 악한 일을 함으로써 주님께서 진노하시게 하였다.(a 또는 '불로 지나가게 하였다')",
+    Kor:"그들은 또한 자기들의 자녀들을 불살라 제물로 바치는 일도 하였다. 그리고 복술도 하고, 주문도 외우며, 주께서 보시기에 악한 일을 함으로써 주께서 진노하시게 하였다.",
     Chn:"又使他们的儿女经火，用占卜，行法术卖了自己，行耶和华眼中看为恶的事，惹动他的怒气。",
     Eng:"They sacrificed their sons and daughters in the fire. They practiced divination and sorcery and sold themselves to do evil in the eyes of the LORD, provoking him to anger.",
     Ind:"Tambahan pula mereka mempersembahkan anak-anaknya sebagai korban dalam api dan melakukan tenung dan telaah dan memperbudak diri dengan melakukan yang jahat di mata TUHAN, sehingga mereka menimbulkan sakit hati-Nya."
   },
   {Bible:"2Kings", Chapter:17, Verse:18, Page:1,
-    Kor:"그러므로 주님께서는 이스라엘에게 크게 진노하셨고, 그들을 그 면전에서 내쫓으시니 남은 것은 유다 지파뿐이었다.",
+    Kor:"그러므로 주께서는 이스라엘에게 크게 진노하셨고, 그들을 그 면전에서 내쫓으시니 남은 것은 유다 지파뿐이었다.",
     Chn:"所以耶和华向以色列人大大发怒，从自己面前赶出他们，只剩下犹大一个支派。",
     Eng:"So the LORD was very angry with Israel and removed them from his presence. Only the tribe of Judah was left,",
     Ind:"Sebab itu TUHAN sangat murka kepada Israel, dan menjauhkan mereka dari hadapan-Nya; tidak ada yang tinggal kecuali suku Yehuda saja. --"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Juga Yehuda tidak berpegang pada perintah TUHAN, Allah mereka, tetapi mereka hidup menurut ketetapan yang telah dibuat Israel,"
   },
   {Bible:"2Kings", Chapter:17, Verse:20, Page:1,
-    Kor:"그리하여 주님께서는 이스라엘의 모든 자손을 내쫓으시고, 그들을 징계하여 침략자들의 손에 넘겨 주셔서, 마침내는 주님의 면전에서 내쫓기까지 하셨다.",
+    Kor:"그리하여 주께서는 이스라엘의 모든 자손을 내쫓으시고, 그들을 징계하여 침략자들의 손에 넘겨 주셔서, 마침내는 주의 면전에서 내쫓기까지 하셨다.",
     Chn:"耶和华就厌弃以色列全族，使他们受苦，把他们交在抢夺他们的人手中，以致赶出他们离开自己面前，",
     Eng:"Therefore the LORD rejectee all the people of Israel; he afflicted them and gave them into the hands of plunderers, until he thrust them from his presence.",
     Ind:"jadi TUHAN menolak segenap keturunan Israel: Ia menindas mereka dan menyerahkan mereka ke dalam tangan perampok-perampok, sampai habis mereka dibuang-Nya dari hadapan-Nya. --"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Demikianlah orang Israel hidup menurut segala dosa yang telah dilakukan Yerobeam; mereka tidak menjauhinya,"
   },
   {Bible:"2Kings", Chapter:17, Verse:23, Page:1,
-    Kor:"마침내 주님께서는, 그 종 예언자들을 보내어 경고하신 대로, 이스라엘을 그 면전에서 내쫓으셨다. 그래서 이 날까지 이스라엘은 자기들의 땅에서 앗시리아로 사로잡혀 가 있게 된 것이다.",
+    Kor:"마침내 주께서는, 그 종 예언자들을 보내어 경고하신 대로, 이스라엘을 그 면전에서 내쫓으셨다. 그래서 이 날까지 이스라엘은 자기들의 땅에서 앗시리아로 사로잡혀 가 있게 된 것이다.",
     Chn:"以致耶和华从自己面前赶出他们，正如借他仆人众先知所说的。这样，以色列人从本地被掳到亚述，直到今日。",
     Eng:"until the LORD removed them from his presence, as he had warned through all his servants the prophets. So the people of Israel were taken from their homeland into exile in Assyria, and they are still there.",
     Ind:"sampai TUHAN menjauhkan orang Israel dari hadapan-Nya seperti yang telah difirmankan-Nya dengan perantaraan semua hamba-Nya, para nabi. Orang Israel diangkut dari tanahnya ke Asyur ke dalam pembuangan. Demikianlah sampai hari ini."
   },
   {Bible:"2Kings", Chapter:17, Verse:24, Page:1,
-    Kor:"<앗시리아 사람들이 이스라엘에 정착하다> ○이스라엘 자손을 사마리아에서 쫓아낸 앗시리아 왕은 바빌론과 구다와 아와와 하맛과 스발와임으로부터 사람들을 데려와서, 이스라엘 자손을 대신하여 사마리아 성읍에 살게 하였다. 그러자 그들은 사마리아를 자기들의 소유로 삼았으며, 이스라엘 성읍들 안에 정착하여 살았다.",
+    Kor:"○이스라엘 자손을 사마리아에서 쫓아낸 앗시리아 왕은 바빌론과 구다와 아와와 하맛과 스발와임으로부터 사람들을 데려와서, 이스라엘 자손을 대신하여 사마리아 성읍에 살게 하였다. 그러자 그들은 사마리아를 자기들의 소유로 삼았으며, 이스라엘 성읍들 안에 정착하여 살았다.",
     Chn:"亚述王从巴比伦、古他、亚瓦、哈马，和西法瓦音迁移人来，安置在撒马利亚的城邑，代替以色列人；他们就得了撒马利亚，住在其中。",
     Eng:"The king of Assyria brought people from Babylon, Cuthah, Avva, Hamath and Sepharvaim and settled them in the towns of Samaria to replace the Israelites. They took over Samaria and lived in its towns.",
     Ind:"Raja Asyur mengangkut orang dari Babel, dari Kuta, dari Awa, dari Hamat dan Sefarwaim, lalu menyuruh mereka diam di kota-kota Samaria menggantikan orang Israel; maka orang-orang itupun menduduki Samaria dan diam di kota-kotanya."
   },
   {Bible:"2Kings", Chapter:17, Verse:25, Page:1,
-    Kor:"그들은 그 곳에 정착하면서, 처음에는 주님을 경외하지 않았다. 그래서 주님께서는 사나운 사자들을 그들 가운데 풀어 놓으셔서, 그들을 물어 죽이게 하셨다.",
+    Kor:"그들은 그 곳에 정착하면서, 처음에는 주를 경외하지 않았다. 그래서 주께서는 사나운 사자들을 그들 가운데 풀어 놓으셔서, 그들을 물어 죽이게 하셨다.",
     Chn:"他们才住那里的时候，不敬畏耶和华，所以耶和华叫狮子进入他们中间，咬死了些人。",
     Eng:"When they first lived there, they did not worship the LORD; so he sent lions among them and they killed some of the people.",
     Ind:"Pada mulanya waktu mereka diam di sana tidaklah mereka takut kepada TUHAN, sebab itu TUHAN melepaskan singa-singa ke antara mereka yang membunuh beberapa orang di antara mereka."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah orang kepada raja Asyur: \"Bangsa-bangsa yang tuanku angkut tertawan dan yang tuanku suruh diam di kota-kota Samaria tidaklah mengenal hukum beribadah kepada Allah negeri itu, sebab itu dilepaskan-Nyalah singa-singa ke antara mereka yang sesungguhnya membunuh mereka, oleh karena mereka tidak mengenal hukum beribadah kepada Allah negeri itu.\""
   },
   {Bible:"2Kings", Chapter:17, Verse:27, Page:1,
-    Kor:"그래서 앗시리아 왕은 부하들에게 다음과 같은 지시를 하였다. \"그 곳에서 사로잡아 온 제사장 한 명을 그 곳으로 돌려보내어라. 그가 그 곳에 살면서, 그 지역의 신에 대한 관습을 새 이주민에게 가르치게 하여라.\"",
+    Kor:"그래서 앗시리아 왕은 부하들에게 다음과 같은 지시를 하였다. \"그 곳에서 사로잡아 온 제사장 한 명을 그 곳으로 돌려보내라. 그가 그 곳에 살면서, 그 지역의 신에 대한 관습을 새 이주민에게 가르치게 하여라.\"",
     Chn:"亚述王就吩咐说：「叫所掳来的祭司回去一个，使他住在那里，将那地之神的规矩指教那些民。」",
     Eng:"Then the king of Assyria gave this order: \"Have one of the priests you took captive from Samaria go back to live there and teach the people what the god of the land requires.\"",
     Ind:"Lalu raja Asyur memberi perintah: \"Suruhlah pergi ke sana salah seorang imam yang telah kamu angkut dari sana ke dalam pembuangan. Biarlah ia pergi dan diam di sana dan mengajarkan kepada mereka hukum beribadah kepada Allah negeri itu!\""
   },
   {Bible:"2Kings", Chapter:17, Verse:28, Page:1,
-    Kor:"그리하여 사마리아로부터 사로잡혀 온 제사장 가운데 한 사람이, 그리로 돌아가 베델에 살면서, 주님을 경외하는 방법을 그들에게 가르쳤다.",
+    Kor:"그리하여 사마리아로부터 사로잡혀 온 제사장 가운데 한 사람이, 그리로 돌아가 베델에 살면서, 주를 경외하는 방법을 그들에게 가르쳤다.",
     Chn:"于是有一个从撒马利亚掳去的祭司回来，住在伯特利，指教他们怎样敬畏耶和华。",
     Eng:"So one of the priests who had been exiled from Samaria came to live in Bethel and taught them how to worship the LORD.",
     Ind:"Salah seorang imam yang telah mereka angkut dari Samaria ke dalam pembuangan pergi dan diam di Betel. Ia mengajarkan kepada mereka bagaimana seharusnya berbakti kepada TUHAN."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Mereka berbakti kepada TUHAN, tetapi dalam pada itu mereka beribadah kepada allah mereka sesuai dengan adat bangsa-bangsa yang dari antaranya mereka diangkut tertawan."
   },
   {Bible:"2Kings", Chapter:17, Verse:34, Page:1,
-    Kor:"○그들은 오늘날까지도 그들의 옛 관습을 따르고 있어서, 주님을 바르게 경외하는 사람이 없다. 그들은 주님께서 이스라엘이라고 이름을 지어 주신 야곱의 자손에게 명하신, 그 율례와 법도와 율법과 계명을 지키지 않는다.",
+    Kor:"○그들은 오늘날까지도 그들의 옛 관습을 따르고 있어서, 주님을 바르게 경외하는 사람이 없다. 그들은 주께서 이스라엘이라고 이름을 지어 주신 야곱의 자손에게 명하신, 그 율례와 법도와 율법과 계명을 지키지 않는다.",
     Chn:"他们直到如今仍照先前的风俗去行，不专心敬畏耶和华，不全守自己的规矩、典章，也不遵守耶和华吩咐雅各后裔的律法、诫命。（雅各，就是从前耶和华起名叫以色列的。）",
     Eng:"To this day they persist in their former practices. They neither worship the LORD nor adhere to the decrees and ordinances, the laws and commands that the LORD gave the descendants of Jacob, whom he named Israel.",
     Ind:"Sampai hari ini mereka berbuat sesuai dengan adat yang dahulu. Mereka tidak berbakti kepada TUHAN dan tidak berbuat sesuai dengan ketetapan, hukum, undang-undang dan perintah yang diperintahkan TUHAN kepada anak-anak Yakub yang telah dinamai-Nya Israel."
   },
   {Bible:"2Kings", Chapter:17, Verse:35, Page:1,
-    Kor:"옛날에 주님께서 야곱의 자손과 언약을 세우시고 명하셨다. \"너희는 다른 신들을 경외하지 못한다. 그들에게 절하지 못하며, 그들을 섬기지 못하며, 그들에게 제사드리지 못한다.",
+    Kor:"옛날에, 주께서 야곱의 자손과 언약을 세우시고 명하셨다. \"너희는 다른 신들을 경외하지 못한다. 그들에게 절하지 못하며, 그들을 섬기지 못하며, 그들에게 제사드리지 못한다.",
     Chn:"耶和华曾与他们立约，嘱咐他们说：「不可敬畏别神，不可跪拜事奉他，也不可向他献祭。",
     Eng:"When the LORD made a covenant with the Israelites, he commanded them: \"Do not worship any other gods or bow down to them, serve them or sacrifice to them.",
     Ind:"TUHAN telah mengadakan perjanjian dengan mereka dan memberi perintah kepada mereka: \"Janganlah berbakti kepada allah lain, janganlah sujud menyembah kepadanya, janganlah beribadah kepadanya dan janganlah mempersembahkan korban kepadanya."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Tetapi TUHAN yang menuntun kamu dari tanah Mesir dengan kekuatan yang besar dan dengan tangan yang teracung, kepada-Nyalah kamu harus berbakti, kepada-Nyalah kamu harus sujud menyembah dan mempersembahkan korban."
   },
   {Bible:"2Kings", Chapter:17, Verse:37, Page:1,
-    Kor:"주님께서 몸소 기록하셔서 너희에게 주신 율례와 법도와 율법과 계명을 항상 지키고, 다른 신을 경외하지 않아야 한다.",
+    Kor:"주께서 몸소 기록하셔서 너희에게 주신 율례와 법도와 율법과 계명을 항상 지키고, 다른 신을 경외하지 않아야 한다.",
     Chn:"他给你们写的律例、典章、律法、诫命，你们应当永远谨守遵行，不可敬畏别神。",
     Eng:"You must always be careful to keep the decrees and ordinances, the laws and commands he wrote for you. Do not worship other gods.",
     Ind:"Tetapi kamu harus berpegang kepada ketetapan-ketetapan, peraturan-peratur hukum dan perintah yang telah ditulis-Nya bagimu dengan melakukannya senantiasa dengan setia, dan janganlah kamu berbakti kepada allah-allah lain."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Tetapi mereka tidak mau mendengarkan, melainkan mereka berbuat sesuai dengan adat mereka yang dahulu."
   },
   {Bible:"2Kings", Chapter:17, Verse:41, Page:1,
-    Kor:"○그리하여 이주해 온 민족들은 한편으로는 주님을 경외하면서도, 다른 한편으로는 그들이 부어 만든 우상들을 또한 섬겼다. 그들의 자녀와 자손도 그들의 조상이 한 것을 오늘날까지도 그대로 따라 하고 있다.",
+    Kor:"○그리하여 이주해 온 민족들은 한편으로는 주를 경외하면서도, 다른 한편으로는 그들이 부어 만든 우상들을 또한 섬겼다. 그들의 자녀와 자손도 그들의 조상이 한 것을 오늘날까지도 그대로 따라 하고 있다.",
     Chn:"如此这些民又惧怕耶和华，又事奉他们的偶像。他们子子孙孙也都照样行，效法他们的祖宗，直到今日。",
     Eng:"Even while these people were worshiping the LORD, they were serving their idols. To this day their children and grandchildren continue to do as their fathers did.",
     Ind:"Demikianlah bangsa-bangsa ini berbakti kepada TUHAN, tetapi dalam pada itu mereka beribadah juga kepada patung-patung mereka; baik anak-anak mereka maupun cucu cicit mereka melakukan seperti yang telah dilakukan nenek moyang mereka, sampai hari ini."

@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",11,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:11, Verse:1, Page:1,
-    Kor:"<바벨 탑> 처음에 세상에는 언어가 하나뿐이어서, 모두가 같은 말을 썼다.",
+    Kor:"처음에 세상에는 언어가 하나뿐이어서, 모두가 같은 말을 썼다.",
     Chn:"那时，天下人的口音、言语都是一样。",
     Eng:"Now the whole world had one language and a common speech.",
     Ind:"Adapun seluruh bumi, satu bahasanya dan satu logatnya."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Juga kata mereka: \"Marilah kita dirikan bagi kita sebuah kota dengan sebuah menara yang puncaknya sampai ke langit, dan marilah kita cari nama, supaya kita jangan terserak ke seluruh bumi.\""
   },
   {Bible:"Genesis", Chapter:11, Verse:5, Page:1,
-    Kor:"주님께서 사람들이 짓고 있는 도시와 탑을 보려고 내려오셨다.",
+    Kor:"주께서는, 사람들이 짓고 있는 도시와 탑을 보려고 내려오셨다.",
     Chn:"耶和华降临，要看看世人所建造的城和塔。",
     Eng:"But the LORD came down to see the city and the tower that the men were building.",
     Ind:"Lalu turunlah TUHAN untuk melihat kota dan menara yang didirikan oleh anak-anak manusia itu,"
   },
   {Bible:"Genesis", Chapter:11, Verse:6, Page:1,
-    Kor:"주님께서 말씀하셨다. \"보아라, 만일 사람들이 같은 말을 쓰는 한 백성으로서, 이렇게 이런 일을 하기 시작하였으니, 이제 그들은, 하고자 하는 것은 무엇이든지, 하지 못할 일이 없을 것이다.",
+    Kor:"주께서 말씀하셨다. \"보아라, 만일 사람들이 같은 말을 쓰는 한 백성으로서, 이렇게 이런 일을 하기 시작하였으니, 이제 그들은, 하고자 하는 것은 무엇이든지, 하지 못할 일이 없을 것이다.",
     Chn:"耶和华说：「看哪，他们成为一样的人民，都是一样的言语，如今既做起这事来，以后他们所要做的事就没有不成就的了。",
     Eng:"The LORD said, \"If as one people speaking the same language they have begun to do this, then  nothing they plan to do will be impossible for them.",
     Ind:"dan Ia berfirman: \"Mereka ini satu bangsa dengan satu bahasa untuk semuanya. Ini barulah permulaan usaha mereka; mulai dari sekarang apapun juga yang mereka rencanakan, tidak ada yang tidak akan dapat terlaksana."
@@ -45,37 +45,37 @@ BibleDB.add([
     Ind:"Baiklah Kita turun dan mengacaubalaukan di sana bahasa mereka, sehingga mereka tidak mengerti lagi bahasa masing-masing.\""
   },
   {Bible:"Genesis", Chapter:11, Verse:8, Page:1,
-    Kor:"주님께서 거기에서 그들을 온 땅으로 흩으셨다. 그래서 그들은 도시 세우는 일을 그만두었다.",
+    Kor:"주께서 거기에서 그들을 온 땅으로 흩으셨다. 그래서 그들은 도시 세우는 일을 그만두었다.",
     Chn:"于是耶和华使他们从那里分散在全地上；他们就停工，不造那城了。",
     Eng:"So the LORD scattered them from there over all the earth, and they stopped building the  city.",
     Ind:"Demikianlah mereka diserakkan TUHAN dari situ ke seluruh bumi, dan mereka berhenti mendirikan kota itu."
   },
   {Bible:"Genesis", Chapter:11, Verse:9, Page:1,
-    Kor:"주님께서 거기에서 온 세상의 말을 a뒤섞으셨다고 하여, 사람들은 그 곳의 이름을 b바벨이라고 한다. 주님께서 거기에서 사람들을 온 땅에 흩으셨다.(a 히, '발랄(뒤섞다)' b '바빌론'을 가리킴. '뒤섞다'라는 뜻을 지닌 발랄과 바빌론을 뜻하는 바벨의 발음이 비슷함)",
+    Kor:"주께서 거기에서 온 세상의 말을 뒤섞으셨다고 하여, 사람들은 그 곳의 이름을 바벨이라고 한다. 주께서 거기에서 사람들을 온 땅에 흩으셨다.",
     Chn:"因为耶和华在那里变乱天下人的言语，使众人分散在全地上，所以那城名叫巴别。",
     Eng:"That is why it was called Babel--because there the LORD confused the language of the whole  world. From there the LORD scattered them over the face of the whole earth.",
     Ind:"Itulah sebabnya sampai sekarang nama kota itu disebut Babel, karena di situlah dikacaubalaukan TUHAN bahasa seluruh bumi dan dari situlah mereka diserakkan TUHAN ke seluruh bumi."
   },
   {Bible:"Genesis", Chapter:11, Verse:10, Page:1,
-    Kor:"<셈의 자손(대상 1:24-27)> ○셈의 족보는 이러하다. 셈은, 홍수가 끝난 지 이 년 뒤, 백 살이 되었을 때에 아르박삿을 낳았다.",
+    Kor:"○셈의 족보는 이러하다. 셈은, 홍수가 끝난 지 이 년 뒤, 백 살이 되었을 때에 아르박삿을 낳았다.",
     Chn:"闪的后代记在下面。洪水以后二年，闪一百岁生了亚法撒。",
     Eng:"This is the account of Shem. Two years after the flood, when Shem was 100 years old, he  became the father of Arphaxad.",
     Ind:"Inilah keturunan Sem. Setelah Sem berumur seratus tahun, ia memperanakkan Arpakhsad, dua tahun setelah air bah itu."
   },
   {Bible:"Genesis", Chapter:11, Verse:11, Page:1,
-    Kor:"셈은 아르박삿을 낳은 뒤에, 오백 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"셈은 아르박삿을 낳은 뒤에, 오백 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"闪生亚法撒之后又活了五百年，并且生儿养女。",
     Eng:"And after he became the father of Arphaxad, Shem lived 500 years and had other sons and  daughters.",
     Ind:"Sem masih hidup lima ratus tahun, setelah ia memperanakkan Arpakhsad, dan ia memperanakkan anak-anak lelaki dan perempuan."
   },
   {Bible:"Genesis", Chapter:11, Verse:12, Page:1,
-    Kor:"○c아르박삿은 서른다섯 살에 셀라를 낳았다.(c 12-13절이 칠십인역에는 '아르박삿은 서른다섯 살에 가이난을 낳고, 13. 가이난을 낳은 뒤에 아르박삿은 사백삼십 년을 더 살면서 아들딸을 낳고 죽었다. 가이난은 백서른 살에 셀라를 낳았다. 셀라를 낳은 뒤에 가이난은 삼백삼십 년을 더 살면서, 아들딸을 낳았다.' (눅 3:35, 36을 볼 것))",
+    Kor:"○아르박삿은 서른다섯 살에 셀라를 낳았다.",
     Chn:"亚法撒活到三十五岁，生了沙拉。",
     Eng:"When Arphaxad had lived 35 years, he became the father of Shelah.",
     Ind:"Setelah Arpakhsad hidup tiga puluh lima tahun, ia memperanakkan Selah."
   },
   {Bible:"Genesis", Chapter:11, Verse:13, Page:1,
-    Kor:"아르박삿은 셀라를 낳은 뒤에, 사백삼 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"아르박삿은 셀라를 낳은 뒤에, 사백삼 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"亚法撒生沙拉之后又活了四百零三年，并且生儿养女。",
     Eng:"And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and  daughters.",
     Ind:"Arpakhsad masih hidup empat ratus tiga tahun, setelah ia memperanakkan Selah, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Setelah Selah hidup tiga puluh tahun, ia memperanakkan Eber."
   },
   {Bible:"Genesis", Chapter:11, Verse:15, Page:1,
-    Kor:"셀라는 에벨을 낳은 뒤에, 사백삼 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"셀라는 에벨을 낳은 뒤에, 사백삼 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"沙拉生希伯之后又活了四百零三年，并且生儿养女。",
     Eng:"And after he became the father of Eber, Shelah lived 403 years and had other sons and  daughters.",
     Ind:"Selah masih hidup empat ratus tiga tahun, setelah ia memperanakkan Eber, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Setelah Eber hidup tiga puluh empat tahun, ia memperanakkan Peleg."
   },
   {Bible:"Genesis", Chapter:11, Verse:17, Page:1,
-    Kor:"에벨은 벨렉을 낳은 뒤에, 사백삼십 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"에벨은 벨렉을 낳은 뒤에, 사백삼십 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"希伯生法勒之后又活了四百三十年，并且生儿养女。",
     Eng:"And after he became the father of Peleg, Eber lived 430 years and had other sons and  daughters.",
     Ind:"Eber masih hidup empat ratus tiga puluh tahun, setelah ia memperanakkan Peleg, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Setelah Peleg hidup tiga puluh tahun, ia memperanakkan Rehu."
   },
   {Bible:"Genesis", Chapter:11, Verse:19, Page:1,
-    Kor:"벨렉은 르우를 낳은 뒤에, 이백구 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"벨렉은 르우를 낳은 뒤에, 이백구 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"法勒生拉吴之后又活了二百零九年，并且生儿养女。",
     Eng:"And after he became the father of Reu, Peleg lived 209 years and had other sons and  daughters.",
     Ind:"Peleg masih hidup dua ratus sembilan tahun, setelah ia memperanakkan Rehu, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Setelah Rehu hidup tiga puluh dua tahun, ia memperanakkan Serug."
   },
   {Bible:"Genesis", Chapter:11, Verse:21, Page:1,
-    Kor:"르우는 스룩을 낳은 뒤에, 이백칠 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"르우는 스룩을 낳은 뒤에, 이백칠 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"拉吴生西鹿之后又活了二百零七年，并且生儿养女。",
     Eng:"And after he became the father of Serug, Reu lived 207 years and had other sons and  daughters.",
     Ind:"Rehu masih hidup dua ratus tujuh tahun, setelah ia memperanakkan Serug, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Setelah Serug hidup tiga puluh tahun, ia memperanakkan Nahor."
   },
   {Bible:"Genesis", Chapter:11, Verse:23, Page:1,
-    Kor:"스룩은 나홀을 낳은 뒤에, 이백 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"스룩은 나홀을 낳은 뒤에, 이백 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"西鹿生拿鹤之后又活了二百年，并且生儿养女。",
     Eng:"And after he became the father of Nahor, Serug lived 200 years and had other sons and  daughters.",
     Ind:"Serug masih hidup dua ratus tahun, setelah ia memperanakkan Nahor, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Setelah Nahor hidup dua puluh sembilan tahun, ia memperanakkan Terah."
   },
   {Bible:"Genesis", Chapter:11, Verse:25, Page:1,
-    Kor:"나홀은 데라를 낳은 뒤에, 백십구 년을 더 살면서 아들딸을 낳았다.",
+    Kor:"나홀은 데라를 낳은 뒤에, 백십구 년을 더 살면서, 아들딸을 낳았다.",
     Chn:"拿鹤生他拉之后又活了一百一十九年，并且生儿养女。",
     Eng:"And after he became the father of Terah, Nahor lived 119 years and had other sons and  daughters.",
     Ind:"Nahor masih hidup seratus sembilan belas tahun, setelah ia memperanakkan Terah, dan ia memperanakkan anak-anak lelaki dan perempuan."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Setelah Terah hidup tujuh puluh tahun, ia memperanakkan Abram, Nahor dan Haran."
   },
   {Bible:"Genesis", Chapter:11, Verse:27, Page:1,
-    Kor:"<데라의 자손> ○데라의 족보는 이러하다. 데라는 아브람과 나홀과 하란을 낳았다. 하란은 롯을 낳았다.",
+    Kor:"○데라의 족보는 이러하다. 데라는 아브람과 나홀과 하란을 낳았다. 하란은 롯을 낳았다.",
     Chn:"他拉的后代记在下面。他拉生亚伯兰、拿鹤、哈兰；哈兰生罗得。",
     Eng:"This is the account of Terah. Terah became the father of Abram, Nahor and Haran. And Haran  became the father of Lot.",
     Ind:"Inilah keturunan Terah. Terah memperanakkan Abram, Nahor dan Haran, dan Haran memperanakkan Lot."
   },
   {Bible:"Genesis", Chapter:11, Verse:28, Page:1,
-    Kor:"그러나 하란은 그가 태어난 땅 바빌로니아의 우르에서 아버지보다 먼저 죽었다.",
+    Kor:"그러나 하란은, 그가 태어난 땅, 바빌로니아의 우르에서 아버지보다 먼저 죽었다.",
     Chn:"哈兰死在他的本地迦勒底的吾珥，在他父亲他拉之先。",
     Eng:"While his father Terah was still alive, Haran died in Ur of the Chaldeans, in the land of  his birth.",
     Ind:"Ketika Terah, ayahnya, masih hidup, matilah Haran di negeri kelahirannya, di Ur-Kasdim."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Lalu Terah membawa Abram, anaknya, serta cucunya, Lot, yaitu anak Haran, dan Sarai, menantunya, isteri Abram, anaknya; ia berangkat bersama-sama dengan mereka dari Ur-Kasdim untuk pergi ke tanah Kanaan, lalu sampailah mereka ke Haran, dan menetap di sana."
   },
   {Bible:"Genesis", Chapter:11, Verse:32, Page:1,
-    Kor:"데라는 이백오 년을 살다가 하란에서 죽었다.",
+    Kor:"데라는 이백오 년을 살다가, 하란에서 죽었다.",
     Chn:"他拉共活了二百零五岁，就死在哈兰。",
     Eng:"Terah lived 205 years, and he died in Haran.",
     Ind:"Umur Terah ada dua ratus lima tahun; lalu ia mati di Haran."

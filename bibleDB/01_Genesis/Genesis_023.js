@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",23,20);
 BibleDB.add([
   {Bible:"Genesis", Chapter:23, Verse:1, Page:1,
-    Kor:"<아브라함이 사라의 장지를 사다> 사라는 백 년 하고도 스물일곱 해를 더 살았다. 이것이 그가 누린 햇수이다.",
+    Kor:"사라는 백 년 하고도 스물일곱 해를 더 살았다. 이것이 그가 누린 햇수이다.",
     Chn:"撒拉享寿一百二十七岁，这是撒拉一生的岁数。",
     Eng:"Sarah lived to be a hundred and twenty-seven years old.",
     Ind:"Sara hidup seratus dua puluh tujuh tahun lamanya; itulah umur Sara."
   },
   {Bible:"Genesis", Chapter:23, Verse:2, Page:1,
-    Kor:"그는 가나안 땅 기럇아르바 곧 헤브론에서 눈을 감았다. 아브라함이 가서, 사라를 생각하면서, 곡을 하며 울었다.",
+    Kor:"그는 가나안 땅 기럇아르바 곧 헤브론에서 눈을 감았다. 아브라함은 빈소에 들어가서, 사라를 생각하면서, 곡을 하며 울었다.",
     Chn:"撒拉死在迦南地的基列·亚巴，就是希伯 。亚伯拉罕为她哀恸哭号。",
     Eng:"She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn  for Sarah and to weep over her.",
     Ind:"Kemudian matilah Sara di Kiryat-Arba, yaitu Hebron, di tanah Kanaan, lalu Abraham datang meratapi dan menangisinya."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"serta berkata kepada mereka: \"Jika kamu setuju, bahwa aku mengantarkan dan menguburkan isteriku yang mati itu, maka dengarkanlah aku dan tolonglah mintakan dengan sangat kepada Efron bin Zohar,"
   },
   {Bible:"Genesis", Chapter:23, Verse:9, Page:1,
-    Kor:"그가 자기의 밭머리에 가지고 있는 막벨라 굴을 나에게 팔도록 주선하여 주시기 바랍니다. 값은 넉넉하게 쳐서 드릴 터이니, 내가 그 굴을 사서, 여러분 앞에서 그것을 우리 묘지로 삼도록 해주시기 바랍니다.\"",
+    Kor:"그가 자기의 밭머리에 가지고 있는 막벨라 굴을 나에게 팔도록, 주선하여 주시기 바랍니다. 값은 넉넉하게 쳐서 드릴 터이니, 내가 그 굴을 사서, 여러분 앞에서 그것을 우리 묘지로 삼도록 해주시기 바랍니다.\"",
     Chn:"把田头上那麦比拉洞给我；他可以按着足价卖给我，作我在你们中间的坟地。」",
     Eng:"so he will sell me the cave of Machpelah, which belongs to him and is at the end of his  field. Ask him to sell it to me for the full price as a burial site among you.\"",
     Ind:"supaya ia memberikan kepadaku gua Makhpela miliknya itu, yang terletak di ujung ladangnya; baiklah itu diberikannya kepadaku dengan harga penuh untuk menjadi kuburan milikku di tengah-tengah kamu.\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Pada waktu itu Efron hadir di tengah-tengah bani Het. Maka jawab Efron, orang Het itu, kepada Abraham dengan didengar oleh bani Het, oleh semua orang yang datang di pintu gerbang kota:"
   },
   {Bible:"Genesis", Chapter:23, Verse:11, Page:1,
-    Kor:"\"그러실 필요가 없습니다. 제가 드리는 말씀을 들어 보시기 바랍니다. 제가 그 밭을 드리겠습니다. 거기에 있는 굴도 드리겠습니다. 나의 백성이 보는 앞에서, 제가 그것을 드리겠습니다. 거기에다가 돌아가신 부인을 안장하시기 바랍니다.\"",
+    Kor:"\"그러실 필요가 없습니다. 제가 드리는 말씀을 들어 보시기 바랍니다. 제가 그 밭을 드리겠습니다. 거기에 있는 굴도 드리겠습니다. 나의 백성이 보는 앞에서, 제가 그것을 드리겠습니다. 거기에다가 고인을 안장하시기 바랍니다.\"",
     Chn:"「不然，我主请听。我送给你这块田，连田间的洞也送给你，在我同族的人面前都给你，可以埋葬你的死人。」",
     Eng:"\"No, my lord,\" he said. \"Listen to me; I give you the field, and I give you the cave that  is in it. I give it to you in the presence of my people. Bury your dead.\"",
     Ind:"\"Tidak, tuanku, dengarkanlah aku; ladang itu kuberikan kepadamu dan gua yang di sanapun kuberikan kepadamu; di depan mata orang-orang sebangsaku kuberikan itu kepadamu; kuburkanlah isterimu yang mati itu.\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Jawab Efron kepada Abraham:"
   },
   {Bible:"Genesis", Chapter:23, Verse:15, Page:1,
-    Kor:"\"저의 말을 들어 보시기 바랍니다. 그 땅값을 친다면, 은 사백 세겔은 됩니다. 그러나 어른과 저 사이에 무슨 거래를 하겠습니까? 거기에다가 그냥 돌아가신 부인을 안장하시기 바랍니다.\"",
+    Kor:"\"저의 말을 들어 보시기 바랍니다. 그 땅값을 친다면, 은 사백 세겔은 됩니다. 그러나 어른과 저 사이에 무슨 거래를 하겠습니까? 거기에다가 그냥 고인을 안장하시기 바랍니다.\"",
     Chn:"「我主请听。值四百舍客勒银子的一块田，在你我中间还算什么呢？只管埋葬你的死人吧！」",
     Eng:"\"Listen to me, my lord; the land is worth four hundred shekels of silver, but what is that  between me and you? Bury your dead.\"",
     Ind:"\"Tuanku, dengarkanlah aku: sebidang tanah dengan harga empat ratus syikal perak, apa artinya itu bagi kita? Kuburkan sajalah isterimu yang mati itu.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"diserahkan kepada Abraham menjadi tanah belian, di depan mata bani Het itu, di depan semua orang yang datang di pintu gerbang kota."
   },
   {Bible:"Genesis", Chapter:23, Verse:19, Page:1,
-    Kor:"그렇게 하고 나서, 비로소 아브라함은 자기 아내 사라를 가나안 땅 마므레 근처 곧 헤브론에 있는 막벨라 밭 굴에 안장하였다.",
+    Kor:"그렇게 하고 나서, 비로소, 아브라함은 자기 아내 사라를 가나안 땅 마므레 근처, 곧 헤브론에 있는 막벨라 밭 굴에 안장하였다.",
     Chn:"此后，亚伯拉罕把他妻子撒拉埋葬在迦南地幔利前的麦比拉田间的洞里。（幔利就是希伯 ）。",
     Eng:"Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre  (which is at Hebron) in the land of Canaan.",
     Ind:"Sesudah itu Abraham menguburkan Sara, isterinya, di dalam gua ladang Makhpela itu, di sebelah timur Mamre, yaitu Hebron di tanah Kanaan."

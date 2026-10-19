@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",7,27);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:7, Verse:1, Page:1,
-    Kor:"<불신실한 자의 어리석음> a아이들아, 내 말을 지키고, 내 명령을 너의 마음 속 깊이 간직하여라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 내 말을 지키고, 내 명령을 너의 마음 속 깊이 간직하여라.",
     Chn:"我儿，你要遵守我的言语， 将我的命令存记在心。",
     Eng:"My son, keep my words and store up my commands within you.",
     Ind:"Hai anakku, berpeganglah pada perkataanku, dan simpanlah perintahku dalam hatimu."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"supaya engkau dilindunginya terhadap perempuan jalang, terhadap perempuan asing, yang licin perkataannya."
   },
   {Bible:"Proverbs", Chapter:7, Verse:6, Page:1,
-    Kor:"<부도덕한 여인> 나는, 나의 집 창가에서 창살문으로 내다보다가,",
+    Kor:"나는, 나의 집 창가에서 창살문으로 내다보다가,",
     Chn:"我曾在我房屋的窗户内， 从我窗棂之间往外观看：",
     Eng:"At the window of my house I looked out through the lattice.",
     Ind:"Karena ketika suatu waktu aku melihat-lihat, dari kisi-kisiku, dari jendela rumahku,"
   },
   {Bible:"Proverbs", Chapter:7, Verse:7, Page:1,
-    Kor:"b어수룩한 젊은이들 가운데, 지혜 없는 젊은이가 있는 것을 보았다. (b '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"어수룩한 젊은이들 가운데, 지혜 없는 젊은이가 있는 것을 보았다.",
     Chn:"见愚蒙人内，少年人中， 分明有一个无知的少年人，",
     Eng:"I saw among the simple, I noticed among the young men, a youth who lacked judgment.",
     Ind:"kulihat di antara yang tak berpengalaman, kudapati di antara anak-anak muda seorang teruna yang tidak berakal budi,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Lalu dipegangnyalah orang teruna itu dan diciumnya, dengan muka tanpa malu berkatalah ia kepadanya:"
   },
   {Bible:"Proverbs", Chapter:7, Verse:14, Page:1,
-    Kor:"\"오늘 나는 c화목제를 드려서, 서원한 것을 실행하였습니다. (c 또는 '친교제')",
+    Kor:"\"오늘 나는 화목제를 드려서, 서원한 것을 실행하였습니다.",
     Chn:"平安祭在我这里， 今日才还了我所许的愿。",
     Eng:"\"I have fellowship offerings at home; today I fulfilled my vows.",
     Ind:"\"Aku harus mempersembahkan korban keselamatan, dan pada hari ini telah kubayar nazarku itu."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Ia merayu orang muda itu dengan berbagai-bagai bujukan, dengan kelicinan bibir ia menggodanya."
   },
   {Bible:"Proverbs", Chapter:7, Verse:22, Page:1,
-    Kor:"그는 선뜻 이 여자의 뒤를 따라 나섰다. 마치 도살장으로 끌려가는 소와도 같고, 올가미에 채이러 가는 d어리석은 사람과도 같다. (d 칠십인역과 시리아어역에는 '사슴')",
+    Kor:"그는 선뜻 이 여자의 뒤를 따라 나섰다. 마치 도살장으로 끌려가는 소와도 같고, 올가미에 채이러 가는 어리석은 사람과도 같다.",
     Chn:"少年人立刻跟随她，好像牛往宰杀之地； 又像愚昧人带锁链去受刑罚，",
     Eng:"All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose",
     Ind:"Maka tiba-tiba orang muda itu mengikuti dia seperti lembu yang dibawa ke pejagalan, dan seperti orang bodoh yang terbelenggu untuk dihukum,"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"sampai anak panah menembus hatinya; seperti burung dengan cepat menuju perangkap, dengan tidak sadar, bahwa hidupnya terancam."
   },
   {Bible:"Proverbs", Chapter:7, Verse:24, Page:1,
-    Kor:"e아이들아, 이제 너희는 나의 말을 잘 들어라. 내가 하는 말을 명심하여라. (e 히, '아들들아' 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 이제 너희는 나의 말을 잘 들어라. 내가 하는 말을 명심하여라.",
     Chn:"众子啊，现在要听从我， 留心听我口中的话。",
     Eng:"Now then, my sons, listen to me; pay attention to what I say.",
     Ind:"Oleh sebab itu, hai anak-anak, dengarkanlah aku, perhatikanlah perkataan mulutku."

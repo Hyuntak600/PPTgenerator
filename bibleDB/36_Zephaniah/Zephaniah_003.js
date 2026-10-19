@@ -3,13 +3,13 @@
 BibleDB.ref("Zephaniah",3,20);
 BibleDB.add([
   {Bible:"Zephaniah", Chapter:3, Verse:1, Page:1,
-    Kor:"<예루살렘의 죄와 구원> 망하고야 말 도성아, 반역하는 도성, 더러운 도성, 억압이나 일삼는 도성아,",
+    Kor:"망하고야 말 도성아, 반역하는 도성, 더러운 도성, 억압이나 일삼는 도성아,",
     Chn:"这悖逆、污秽、欺压的城有祸了！",
     Eng:"Woe to the city of oppressors, rebellious and defiled!",
     Ind:"Celakalah si pemberontak dan si cemar, hai kota yang penuh penindasan!"
   },
   {Bible:"Zephaniah", Chapter:3, Verse:2, Page:1,
-    Kor:"주님께 순종하지도 않고, 주님의 충고도 듣지 않고, 주님을 의지하지도 않고, 하나님께 가까이 가지도 않는구나.",
+    Kor:"주께 순종하지도 않고, 주의 충고도 듣지 않고, 주를 의지하지도 않고, 하나님께 가까이 가지도 않는구나.",
     Chn:"她不听从命令，不领受训诲， 不倚靠耶和华， 不亲近她的　神。",
     Eng:"She obeys no one, she accepts no correction. She does not trust in the LORD, she does not draw near to her God.",
     Ind:"Ia tidak mau mendengarkan teguran siapapun dan tidak mempedulikan kecaman; kepada TUHAN ia tidak percaya dan kepada Allahnya ia tidak menghadap."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Para nabinya adalah orang-orang ceroboh dan pengkhianat; para imamnya menajiskan apa yang kudus, memperkosa hukum Taurat."
   },
   {Bible:"Zephaniah", Chapter:3, Verse:5, Page:1,
-    Kor:"그러나 그 안에 계신 주님께서는 공평하시어, 부당한 일을 하지 않으신다. 아침마다 바른 판결을 내려 주신다. 아침마다 어김없이 공의를 나타내신다. 그래도 악한 자는 부끄러운 줄을 모르는구나!",
+    Kor:"그러나 그 안에 계신 주께서는 공평하시어, 부당한 일 하지 않으신다. 아침마다 바른 판결을 내려 주신다. 아침마다 어김없이 공의를 나타내신다. 그래도 악한 자는 부끄러운 줄을 모르는구나!",
     Chn:"耶和华在她中间是公义的， 断不做非义的事， 每早晨显明他的公义，无日不然； 只是不义的人不知羞耻。",
     Eng:"The LORD within her is righteous; he does no wrong. Morning by morning he dispenses his justice, and every new day he does not fail, yet the unrighteous know no shame.",
     Ind:"Tetapi TUHAN adil di tengah-tengahnya, tidak berbuat kelaliman. Pagi demi pagi Ia memberi hukum-Nya; itu tidak pernah ketinggalan pada waktu fajar. Tetapi orang lalim tidak kenal malu!"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Aku sangka: Tentulah ia sekarang akan takut kepada-Ku, akan mempedulikan kecaman dan segala yang Kutugaskan kepadanya tidak akan lenyap dari penglihatannya. Tetapi sesungguhnya mereka makin giat menjadikan busuk perbuatan mereka."
   },
   {Bible:"Zephaniah", Chapter:3, Verse:8, Page:1,
-    Kor:"그러므로 나를 기다려라. 나 주의 말이다. a내가 증인으로 나설 날까지 기다려라. 내가 민족들을 불러모으고, 나라들을 모아서, 불같이 타오르는 나의 이 분노를 그들에게 쏟아 놓기로 결정하였다. 온 땅이 내 질투의 불에 타 없어질 것이다. (a. 70인역과 시리아어역을 따름. 히, 내가 일어나서 약탈할 때까지)",
+    Kor:"그러므로 나를 기다려라. 나 주의 말이다. 내가 증인으로 나설 날까지 기다려라. 내가 민족들을 불러모으고, 나라들을 모아서, 불같이 타오르는 나의 이 분노를 그들에게 쏟아 놓기로 결정하였다. 온 땅이 내 질투의 불에 타 없어질 것이다.",
     Chn:"耶和华说：你们要等候我， 直到我兴起掳掠的日子； 因为我已定意招聚列国，聚集列邦， 将我的恼怒—就是我的烈怒都倾在她们身上。 我的忿怒如火，必烧灭全地。",
     Eng:"Therefore wait for me,\" declares the LORD, \"for the day I will stand up to testify. I have decided to assemble the nations, to gather the kingdoms and to pour out my wrath on them--all my fierce anger. The whole world will be consumed by the fire of my jealous anger.",
     Ind:"Oleh karena itu tunggulah Aku--demikianlah firman TUHAN--pada hari Aku bangkit sebagai saksi. Sebab keputusan-Ku ialah mengumpulkan bangsa-bangsa dan menghimpunkan kerajaan-kerajaan untuk menumpahkan ke atas mereka geram-Ku, yakni segenap murka-Ku yang bernyala-nyala, sebab seluruh bumi akan dimakan habis oleh api cemburu-Ku.\""
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"yakni sisa Israel itu. Mereka tidak akan melakukan kelaliman atau berbicara bohong; dalam mulut mereka tidak akan terdapat lidah penipu; ya, mereka akan seperti domba yang makan rumput dan berbaring dengan tidak ada yang mengganggunya.\""
   },
   {Bible:"Zephaniah", Chapter:3, Verse:14, Page:1,
-    Kor:"<기뻐서 부르는 노래> 도성 시온아, 노래하여라. 이스라엘아, 즐거이 외쳐라. 도성 예루살렘아, 마음껏 기뻐하며 즐거워하여라.",
+    Kor:"도성 시온아, 노래하여라. 이스라엘아, 즐거이 외쳐라. 도성 예루살렘아, 마음껏 기뻐하며 즐거워하여라.",
     Chn:"锡安的民哪，应当歌唱！ 以色列啊，应当欢呼！ 耶路撒冷的民哪，应当满心欢喜快乐！",
     Eng:"Sing, O Daughter of Zion; shout aloud, O Israel! Be glad and rejoice with all your heart, O Daughter of Jerusalem!",
     Ind:"Bersorak-sorailah, hai puteri Sion, bertempik-soraklah, hai Israel! Bersukacitalah dan beria-rialah dengan segenap hati, hai puteri Yerusalem!"
   },
   {Bible:"Zephaniah", Chapter:3, Verse:15, Page:1,
-    Kor:"주님께서 징벌을 그치셨다. 너의 원수를 쫓아내셨다. 이스라엘의 왕 주님께서 너와 함께 계시니, 네가 다시는 화를 당할까 두려워하지 않을 것이다.",
+    Kor:"주께서 징벌을 그치셨다. 너의 원수를 쫓아내셨다. 이스라엘의 왕 주께서 너와 함께 계시니, 네가 다시는 화를 당할까 두려워하지 않을 것이다.",
     Chn:"耶和华已经除去你的刑罚， 赶出你的仇敌。 以色列的王—耶和华在你中间； 你必不再惧怕灾祸。",
     Eng:"The LORD has taken away your punishment, he has turned back your enemy. The LORD, the King of Israel, is with you; never again will you fear any harm.",
     Ind:"TUHAN telah menyingkirkan hukuman yang jatuh atasmu, telah menebas binasa musuhmu. Raja Israel, yakni TUHAN, ada di antaramu; engkau tidak akan takut kepada malapetaka lagi."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Pada hari itu akan dikatakan kepada Yerusalem: \"Janganlah takut, hai Sion! Janganlah tanganmu menjadi lemah lesu."
   },
   {Bible:"Zephaniah", Chapter:3, Verse:17, Page:1,
-    Kor:"주 너의 하나님이 너와 함께 계신다. 구원을 베푸실 전능하신 하나님이시다. 너를 보고서 기뻐하고 반기시고, 너를 사랑으로 b새롭게 해주시고 너를 보고서 노래하며 기뻐하실 것이다. (b. 70인역과 시리아어역을 따름. 히, 그는 잠잠할 것이다)",
+    Kor:"주 너의 하나님이 너와 함께 계신다. 구원을 베푸실 전능하신 하나님이시다. 너를 보고서 기뻐하고 반기시고, 너를 사랑으로 새롭게 해주시고 너를 보고서 노래하며 기뻐하실 것이다.",
     Chn:"耶和华—你的　神是施行拯救、 大有能力的主。 他在你中间必因你欢欣喜乐， 默然爱你，且因你喜乐而欢呼。",
     Eng:"The LORD your God is with you, he is mighty to save. He will take great delight in you, he will quiet you with his love, he will rejoice over you with singing.\"",
     Ind:"TUHAN Allahmu ada di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membaharui engkau dalam kasih-Nya, Ia bersorak-sorak karena engkau dengan sorak-sorai,"

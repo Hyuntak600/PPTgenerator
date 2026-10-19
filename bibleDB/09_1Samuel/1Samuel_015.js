@@ -3,13 +3,13 @@
 BibleDB.ref("1Samuel",15,35);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:15, Verse:1, Page:1,
-    Kor:"<아말렉과의 전쟁> 사무엘이 사울에게 말하였다. \"주님께서 나를 보내셔서, 임금님에게 기름을 부어, 주님의 백성 이스라엘을 다스릴 왕으로 세우게 하셨습니다. 이제 주님께서 하시는 말씀을 들으시기 바랍니다.",
+    Kor:"사무엘이 사울에게 말하였다. \"주께서 나를 보내셔서, 임금님에게 기름을 부어, 주의 백성 이스라엘을 다스릴 왕으로 세우게 하셨습니다. 이제 주께서 하시는 말씀을 들으시기 바랍니다.",
     Chn:"撒母耳对扫罗说：「耶和华差遣我膏你为王，治理他的百姓以色列；所以你当听从耶和华的话。",
     Eng:"Samuel said to Saul, \"I am the one the LORD sent to anoint you king over his people Israel; so listen now to the message from the LORD.",
     Ind:"Berkatalah Samuel kepada Saul: \"Aku telah diutus oleh TUHAN untuk mengurapi engkau menjadi raja atas Israel, umat-Nya; oleh sebab itu, dengarkanlah bunyi firman TUHAN."
   },
   {Bible:"1Samuel", Chapter:15, Verse:2, Page:1,
-    Kor:"○'만군의 주가 말한다. 이스라엘이 이집트에서 나올 때에, 아말렉이 이스라엘에게 한 일 곧 길을 막고 대적한 일 때문에 아말렉을 벌하겠다.",
+    Kor:"○'만군의 주가 말한다. 이스라엘이 이집트에서 나올 때에, 아말렉이 이스라엘에게 한 일, 곧 길을 막고 대적한 일 때문에 아말렉을 벌하겠다.",
     Chn:"万军之耶和华如此说：『以色列人出埃及的时候，在路上亚玛力人怎样待他们，怎样抵挡他们，我都没忘。",
     Eng:"This is what the LORD Almighty says: 'I will punish the Amalekites for what they did to Israel when they waylaid them as they came up from Egypt.",
     Ind:"Beginilah firman TUHAN semesta alam: Aku akan membalas apa yang dilakukan orang Amalek kepada orang Israel, karena orang Amalek menghalang-halangi mereka, ketika orang Israel pergi dari Mesir."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Berkatalah Saul kepada orang Keni: \"Berangkatlah, menjauhlah, pergilah dari tengah-tengah orang Amalek, supaya jangan kulenyapkan kamu bersama-sama dengan mereka. Bukankah kamu telah menunjukkan persahabatanmu kepada semua orang Israel, ketika mereka pergi dari Mesir?\" Sesudah itu menjauhlah orang Keni dari tengah-tengah orang Amalek."
   },
   {Bible:"1Samuel", Chapter:15, Verse:7, Page:1,
-    Kor:"○그런 다음에 사울은, 하윌라에서부터 이집트의 동쪽에 있는 수르 지역에 이르기까지, 아말렉 사람을 쳤다.",
+    Kor:"○그런 다음에 사울은, 하윌라에서부터 이집트의 동쪽에 있는 술 지역에 이르기까지, 아말렉 사람을 쳤다.",
     Chn:"扫罗击打亚玛力人，从哈腓拉直到埃及前的书珥，",
     Eng:"Then Saul attacked the Amalekites all the way from Havilah to Shur, to the east of Egypt.",
     Ind:"Lalu Saul memukul kalah orang Amalek mulai dari Hawila sampai ke Syur, yang di sebelah timur Mesir."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Tetapi Saul dan rakyat itu menyelamatkan Agag dan kambing domba dan lembu-lembu yang terbaik dan tambun, pula anak domba dan segala yang berharga: tidak mau mereka menumpas semuanya itu. Tetapi segala hewan yang tidak berharga dan yang buruk, itulah yang ditumpas mereka."
   },
   {Bible:"1Samuel", Chapter:15, Verse:10, Page:1,
-    Kor:"<주님께서 사울을 버리시다> ○주님께서 사무엘에게 말씀하셨다.",
+    Kor:"○주께서 사무엘에게 말씀하셨다.",
     Chn:"耶和华的话临到撒母耳说：",
     Eng:"Then the word of the LORD came to Samuel:",
     Ind:"Lalu datanglah firman TUHAN kepada Samuel, demikian:"
   },
   {Bible:"1Samuel", Chapter:15, Verse:11, Page:1,
-    Kor:"\"사울을 왕으로 세운 것이 후회된다. 그가 나에게서 등을 돌리고, 나의 명령을 따르지 않는다.\" 그래서 사무엘은 괴로운 마음으로 밤새도록 주님께 부르짖었다.",
+    Kor:"\"사울을 왕으로 세운 것이 후회된다. 그가 나에게서 등을 돌리고, 나의 명령을 따르지 않는다.\" 그래서 사무엘은 괴로운 마음으로 밤새도록 주께 부르짖었다.",
     Chn:"「我立扫罗为王，我后悔了；因为他转去不跟从我，不遵守我的命令。」撒母耳便甚忧愁，终夜哀求耶和华。",
     Eng:"\"I am grieved that I have made Saul king, because he has turned away from me and has not carried out my instructions.\" Samuel was troubled, and he cried out to the LORD all that night.",
     Ind:"\"Aku menyesal, karena Aku telah menjadikan Saul raja, sebab ia telah berbalik dari pada Aku dan tidak melaksanakan firman-Ku.\" Maka sakit hatilah Samuel dan ia berseru-seru kepada TUHAN semalam-malaman."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu Samuel bangun pagi-pagi untuk bertemu dengan Saul, tetapi diberitahukan kepada Samuel, demikian: \"Saul telah ke Karmel tadi dan telah didirikannya baginya suatu tanda peringatan; kemudian ia balik dan mengambil jurusan ke Gilgal.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:13, Page:1,
-    Kor:"○사무엘이 사울이 있는 곳에 이르니, 사울이 그를 보고 인사를 하며 말하였다. \"주님께서 주시는 복을 받으시기 바랍니다. 나는 주님의 명령대로 다 하였습니다.\"",
+    Kor:"○사무엘이 사울이 있는 곳에 이르니, 사울이 그를 보고 인사를 하며 말하였다. \"주의 복을 받으시기 바랍니다. 나는 주의 명령대로 다 하였습니다.\"",
     Chn:"撒母耳到了扫罗那里，扫罗对他说：「愿耶和华赐福与你，耶和华的命令我已遵守了。」",
     Eng:"When Samuel reached him, Saul said, \"The LORD bless you! I have carried out the LORD'S instructions.\"",
     Ind:"Ketika Samuel sampai kepada Saul, berkatalah Saul kepadanya: \"Diberkatilah kiranya engkau oleh TUHAN; aku telah melaksanakan firman TUHAN.\""
@@ -93,67 +93,67 @@ BibleDB.add([
     Ind:"Jawab Saul: \"Semuanya itu dibawa dari pada orang Amalek, sebab rakyat menyelamatkan kambing domba dan lembu-lembu yang terbaik dengan maksud untuk mempersembahkan korban kepada TUHAN, Allahmu; tetapi selebihnya telah kami tumpas.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:16, Page:1,
-    Kor:"사무엘이 사울을 꾸짖었다. \"그만두십시오! 지난 밤에 주님께서 나에게 말씀하신 것을 내가 알려 드리겠습니다.\" 사울이 대답하였다. \"말씀하십시오.\"",
+    Kor:"사무엘이 사울을 꾸짖었다. \"그만두십시오! 지난 밤에 주께서 나에게 말씀하신 것을 내가 알려 드리겠습니다.\" 사울이 대답하였다. \"말씀하십시오.\"",
     Chn:"撒母耳对扫罗说：「你住口吧！等我将耶和华昨夜向我所说的话告诉你。」扫罗说：「请讲。」",
     Eng:"\"Stop!\" Samuel said to Saul. \"Let me tell you what the LORD said to me last night.\" \"Tell me,\" Saul replied.",
     Ind:"Lalu berkatalah Samuel kepada Saul: \"Sudahlah! Aku akan memberitahukan kepadamu apa yang difirmankan TUHAN kepadaku tadi malam.\" Kata Saul kepadanya: \"Katakanlah.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:17, Page:1,
-    Kor:"사무엘이 말하였다. \"임금님이 스스로를 하찮은 사람이라고 생각하시던 그 무렵에, 주님께서 임금님께 기름을 부어 이스라엘의 왕으로 세우셨습니다. 그래서 임금님이 이스라엘 모든 지파의 어른이 되신 것이 아닙니까?",
+    Kor:"사무엘이 말하였다. \"임금님이 스스로를 하찮은 사람이라고 생각하시던 그 무렵에, 주께서 임금님께 기름을 부어 이스라엘의 왕으로 세우셨습니다. 그래서 임금님이 이스라엘 모든 지파의 어른이 되신 것이 아닙니까?",
     Chn:"撒母耳对扫罗说：「从前你虽然以自己为小，岂不是被立为以色列支派的元首吗？耶和华膏你作以色列的王。",
     Eng:"Samuel said, \"Although you were once small in your own eyes, did you not become the head of the tribes of Israel? The LORD anointed you king over Israel.",
     Ind:"Sesudah itu berkatalah Samuel: \"Bukankah engkau, walaupun engkau kecil pada pemandanganmu sendiri, telah menjadi kepala atas suku-suku Israel? Dan bukankah TUHAN telah mengurapi engkau menjadi raja atas Israel?"
   },
   {Bible:"1Samuel", Chapter:15, Verse:18, Page:1,
-    Kor:"주님께서는 임금님을 전쟁터로 내보내시면서, 저 못된 아말렉 사람들을 진멸하고, 그들을 진멸할 때까지 그들과 싸우라고 하셨습니다.",
+    Kor:"주께서는 임금님을 전쟁터로 내보내시면서, 저 못된 아말렉 사람들을 진멸하고, 그들을 진멸할 때까지 그들과 싸우라고 하셨습니다.",
     Chn:"耶和华差遣你，吩咐你说，你去击打那些犯罪的亚玛力人，将他们灭绝净尽。",
     Eng:"And he sent you on a mission, saying, 'Go and completely destroy those wicked people, the Amalekites; make war on them until you have wiped them out.'",
     Ind:"TUHAN telah menyuruh engkau pergi, dengan pesan: Pergilah, tumpaslah orang-orang berdosa itu, yakni orang Amalek, berperanglah melawan mereka sampai engkau membinasakan mereka."
   },
   {Bible:"1Samuel", Chapter:15, Verse:19, Page:1,
-    Kor:"그런데 어찌하여 주님께 순종하지 아니하고, 약탈하는 데만 마음을 쏟으면서, 주님께서 보시는 앞에서 악한 일을 하셨습니까?\"",
+    Kor:"그런데 어찌하여 주께 순종하지 아니하고, 약탈하는 데만 마음을 쏟으면서, 주께서 보시는 앞에서 악한 일을 하셨습니까?\"",
     Chn:"你为何没有听从耶和华的命令，急忙掳掠财物，行耶和华眼中看为恶的事呢？」",
     Eng:"Why did you not obey the LORD? Why did you pounce on the plunder and do evil in the eyes of the LORD?\"",
     Ind:"Mengapa engkau tidak mendengarkan suara TUHAN? Mengapa engkau mengambil jarahan dan melakukan apa yang jahat di mata TUHAN?\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:20, Page:1,
-    Kor:"사울이 사무엘에게 대답하였다. \"나는 주님께 순종하였습니다. 주님께서 보내시는 대로 전쟁터로 나갔고, 아말렉 왕 아각도 잡아왔고, 아말렉 사람도 진멸하였습니다.",
+    Kor:"사울이 사무엘에게 대답하였다. \"나는 주께 순종하였습니다. 주께서 보내시는 대로 전쟁터로 나갔고, 아말렉 왕 아각도 잡아왔고, 아말렉 사람도 진멸하였습니다.",
     Chn:"扫罗对撒母耳说：「我实在听从了耶和华的命令，行了耶和华所差遣我行的路，擒了亚玛力王亚甲来，灭尽了亚玛力人。",
     Eng:"\"But I did obey the LORD,\" Saul said. \"I went on the mission the LORD assigned me. I completely destroyed the Amalekites and brought back Agag their king.",
     Ind:"Lalu kata Saul kepada Samuel: \"Aku memang mendengarkan suara TUHAN dan mengikuti jalan yang telah disuruh TUHAN kepadaku dan aku membawa Agag, raja orang Amalek, tetapi orang Amalek itu sendiri telah kutumpas."
   },
   {Bible:"1Samuel", Chapter:15, Verse:21, Page:1,
-    Kor:"다만 우리 군인들이 전리품 가운데서 양 떼와 소 떼는 죽이지 않고 길갈로 끌어왔습니다. 그러나 그것은 예언자께서 섬기시는 주 하나님께 제물로 바치려고, 진멸할 짐승들 가운데서 가장 좋은 것으로 골라온 것입니다.\"",
+    Kor:"다만 우리 군인들이 전리품 가운데서 양 떼와 소 떼는 죽이지 않고 길갈로 끌어왔습니다만, 그것은 예언자께서 섬기시는 주 하나님께 제물로 바치려고, 진멸할 짐승들 가운데서 가장 좋은 것으로 골라온 것입니다.\"",
     Chn:"百姓却在所当灭的物中，取了最好的牛羊，要在吉甲献与耶和华—你的　神。」",
     Eng:"The soldiers took sheep and cattle from the plunder, the best of what was devoted to God, in order to sacrifice them to the LORD your God at Gilgal.\"",
     Ind:"Tetapi rakyat mengambil dari jarahan itu kambing domba dan lembu-lembu yang terbaik dari yang dikhususkan untuk ditumpas itu, untuk mempersembahkan korban kepada TUHAN, Allahmu, di Gilgal.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:22, Page:1,
-    Kor:"사무엘이 나무랐다. \"주님께서 어느 것을 더 좋아하시겠습니까? 주님의 말씀에 순종하는 것이겠습니까? 아니면, 번제나 화목제를 드리는 것이겠습니까? 잘 들으십시오. 순종이 제사보다 낫고, 말씀을 따르는 것이 숫양의 기름보다 낫습니다.",
+    Kor:"사무엘이 나무랐다. \"주께서 어느 것을 더 좋아하시겠습니까? 주의 말씀에 순종하는 것이겠습니까? 아니면, 번제나 화목제를 드리는 것이겠습니까? 잘 들으십시오. 순종이 제사보다 낫고, 말씀을 따르는 것이 숫양의 기름보다 낫습니다.",
     Chn:"撒母耳说： 耶和华喜悦燔祭和平安祭， 岂如喜悦人听从他的话呢？ 听命胜于献祭； 顺从胜于公羊的脂油。",
     Eng:"But Samuel replied: \"Does the LORD delight in burnt offerings and sacrifices as much as in obeying the voice of the LORD? To obey is better than sacrifice, and to heed is better than the fat of rams.",
     Ind:"Tetapi jawab Samuel: \"Apakah TUHAN itu berkenan kepada korban bakaran dan korban sembelihan sama seperti kepada mendengarkan suara TUHAN? Sesungguhnya, mendengarkan lebih baik dari pada korban sembelihan, memperhatikan lebih baik dari pada lemak domba-domba jantan."
   },
   {Bible:"1Samuel", Chapter:15, Verse:23, Page:1,
-    Kor:"거역하는 것은 점을 치는 죄와 같고, 고집을 부리는 것은 우상을 섬기는 죄와 같습니다. 임금님이 주님의 말씀을 버리셨기 때문에, 주님께서도 임금님을 버려 왕이 되지 못하게 하셨습니다.\"",
+    Kor:"거역하는 것은 점을 봐주는 죄와 같고, 고집을 부리는 것은 우상을 섬기는 죄와 같습니다. 임금님이 주의 말씀을 버리셨기 때문에, 주께서도 임금님을 버려 왕이 되지 못하게 하셨습니다.\"",
     Chn:"悖逆的罪与行邪术的罪相等； 顽梗的罪与拜虚神和偶像的罪相同。 你既厌弃耶和华的命令， 耶和华也厌弃你作王。",
     Eng:"For rebellion is like the sin of divination, and arrogance like the evil of idolatry. Because you have rejected the word of the LORD, he has rejected you as king.\"",
     Ind:"Sebab pendurhakaan adalah sama seperti dosa bertenung dan kedegilan adalah sama seperti menyembah berhala dan terafim. Karena engkau telah menolak firman TUHAN, maka Ia telah menolak engkau sebagai raja.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:24, Page:1,
-    Kor:"○사울이 사무엘에게 간청하였다. \"내가 죄를 지었습니다. 주님의 명령과 예언자께서 하신 말씀을 어겼습니다. 내가 군인들을 두려워하여, 그들이 하자는 대로 하였습니다.",
+    Kor:"○사울이 사무엘에게 간청하였다. \"내가 죄를 지었습니다. 주의 명령과 예언자께서 하신 말씀을 어겼습니다. 내가 군인들을 두려워하여, 그들이 하자는 대로 하였습니다.",
     Chn:"扫罗对撒母耳说：「我有罪了，我因惧怕百姓，听从他们的话，就违背了耶和华的命令和你的言语。",
     Eng:"Then Saul said to Samuel, \"I have sinned. I violated the LORD'S command and your instructions. I was afraid of the people and so I gave in to them.",
     Ind:"Berkatalah Saul kepada Samuel: \"Aku telah berdosa, sebab telah kulangkahi titah TUHAN dan perkataanmu; tetapi aku takut kepada rakyat, karena itu aku mengabulkan permintaan mereka."
   },
   {Bible:"1Samuel", Chapter:15, Verse:25, Page:1,
-    Kor:"제발 나의 죄를 용서해 주시고, 나와 함께 가셔서, 내가 주님께 경배할 수 있도록 해주시기 바랍니다.\"",
+    Kor:"제발 나의 죄를 용서해 주시고, 나와 함께 가셔서, 내가 주께 경배할 수 있도록 해주시기 바랍니다.\"",
     Chn:"现在求你赦免我的罪，同我回去，我好敬拜耶和华。」",
     Eng:"Now I beg you, forgive my sin and come back with me, so that I may worship the LORD.\"",
     Ind:"Maka sekarang, ampunilah kiranya dosaku; kembalilah bersama-sama dengan aku, maka aku akan sujud menyembah kepada TUHAN.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:26, Page:1,
-    Kor:"사무엘이 사울에게 대답하였다. \"나는 함께 돌아가지 않겠습니다. 임금님께서 주님의 말씀을 버리셨기 때문에, 주님께서도 이미 임금님을 버리셔서, 임금님이 더 이상 이스라엘을 다스리는 왕으로 있을 수 없도록 하셨습니다.\"",
+    Kor:"사무엘이 사울에게 대답하였다. \"나는 함께 돌아가지 않겠소. 그대가 주의 말씀을 버리셨기 때문에, 주께서도 이미 그대를 버리셔서, 그대가 더 이상 이스라엘을 다스리는 왕으로 있을 수 없도록 하셨소.\"",
     Chn:"撒母耳对扫罗说：「我不同你回去；因为你厌弃耶和华的命令，耶和华也厌弃你作以色列的王。」",
     Eng:"But Samuel said to him, \"I will not go back with you. You have rejected the word of the LORD, and the LORD has rejected you as king over Israel!\"",
     Ind:"Tetapi jawab Samuel kepada Saul: \"Aku tidak akan kembali bersama-sama dengan engkau, sebab engkau telah menolak firman TUHAN; sebab itu TUHAN telah menolak engkau, sebagai raja atas Israel.\""
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Ketika Samuel berpaling hendak pergi, maka Saul memegang punca jubah Samuel, tetapi terkoyak."
   },
   {Bible:"1Samuel", Chapter:15, Verse:28, Page:1,
-    Kor:"사무엘이 그에게 말하였다. \"주님께서 오늘 이스라엘 나라를 이 옷자락처럼 찢어서 임금님에게서 빼앗아, 임금님보다 더 나은 다른 사람에게 주셨습니다.",
+    Kor:"사무엘이 그에게 말하였다. \"주께서 오늘 이스라엘 나라를 이 옷자락처럼 찢어서 그대에게서 빼앗아, 그대보다 더 나은 다른 사람에게 주셨소.",
     Chn:"撒母耳对他说：「如此，今日耶和华使以色列国与你断绝，将这国赐与比你更好的人。",
     Eng:"Samuel said to him, \"The LORD has torn the kingdom of Israel from you today and has given it to one of your neighbors--to one better than you.",
     Ind:"Kemudian berkatalah Samuel kepadanya: \"TUHAN telah mengoyakkan dari padamu jabatan raja atas Israel pada hari ini dan telah memberikannya kepada orang lain yang lebih baik dari padamu."
@@ -183,19 +183,19 @@ BibleDB.add([
     Ind:"Tetapi kata Saul: \"Aku telah berdosa; tetapi tunjukkanlah juga hormatmu kepadaku sekarang di depan para tua-tua bangsaku dan di depan orang Israel. Kembalilah bersama-sama dengan aku, maka aku akan sujud menyembah kepada TUHAN, Allahmu.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:31, Page:1,
-    Kor:"사무엘이 사울을 따라 돌아가니, 사울이 주님께 경배를 드렸다.",
+    Kor:"사무엘이 사울을 따라 돌아가니, 사울이 주께 경배를 드렸다.",
     Chn:"于是撒母耳转身跟随扫罗回去，扫罗就敬拜耶和华。",
     Eng:"So Samuel went back with Saul, and Saul worshiped the LORD.",
     Ind:"Sesudah itu kembalilah Samuel mengikuti Saul. Dan Saul sujud menyembah kepada TUHAN."
   },
   {Bible:"1Samuel", Chapter:15, Verse:32, Page:1,
-    Kor:"<사무엘이 아각을 처형하다> ○사무엘이 아말렉의 아각 왕을 끌어내라고 명령하였다. 아각은 a행여 죽을 고비를 넘겼나 싶어 좋아하면서 사무엘 앞에 나왔다.(a 사해 사본과 칠십인역에는 '이제는 죽었구나 하고 주저하면서')",
+    Kor:"○사무엘이 아말렉의 아각 왕을 끌어내라고 명령하였다. 아각은 행여 죽을 고비를 넘겼나 싶어 좋아하면서 사무엘 앞에 나왔다.",
     Chn:"撒母耳说：「要把亚玛力王亚甲带到我这里来。」亚甲就欢欢喜喜地来到他面前，心里说，死亡的苦难必定过去了。",
     Eng:"Then Samuel said, \"Bring me Agag king of the Amalekites.\" Agag came to him confidently, thinking, \"Surely the bitterness of death is past.\"",
     Ind:"Lalu berkatalah Samuel: \"Bawa ke mari Agag, raja Amalek itu.\" Dengan gembira Agag pergi kepadanya, sebab pikirnya: \"Sesungguhnya, kepahitan maut telah lewat.\""
   },
   {Bible:"1Samuel", Chapter:15, Verse:33, Page:1,
-    Kor:"○사무엘이 말하였다.  \"당신의 칼에 뭇 여인이 자식을 잃었으니 당신의 어머니도 뭇 여인과 같이 자식을 잃을 것이오.\" 사무엘은 길갈 성소의 주님 앞에서 아각을 칼로 난도질하여 죽였다.",
+    Kor:"○사무엘이 말하였다. \"너의 칼에 뭇 여인이 자식을 잃었으니 너의 어머니도 뭇 여인과 같이 자식을 잃을 것이다.\"",
     Chn:"撒母耳说：「你既用刀使妇人丧子，这样，你母亲在妇人中也必丧子。」于是，撒母耳在吉甲耶和华面前将亚甲杀死。",
     Eng:"But Samuel said, \"As your sword has made women childless, so will your mother be childless among women.\" And Samuel put Agag to death before the LORD at Gilgal.",
     Ind:"Tetapi kata Samuel: \"Seperti pedangmu membuat perempuan-perempuan kehilangan anak, demikianlah ibumu akan kehilangan anak di antara perempuan-perempuan.\" Sesudah itu Samuel mencincang Agag di hadapan TUHAN di Gilgal."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Kemudian Samuel pergi ke Rama, tetapi Saul pergi ke rumahnya, di Gibea-Saul."
   },
   {Bible:"1Samuel", Chapter:15, Verse:35, Page:1,
-    Kor:"<다윗이 왕이 되다> ○그 다음부터 사무엘은, 사울 때문에 마음이 상하여, 죽는 날까지 다시는 사울을 만나지 않았고, 주님께서도 사울을 이스라엘의 왕으로 세우신 것을 후회하셨다.",
+    Kor:"○그 다음부터 사무엘은, 사울 때문에 마음이 상하여, 죽는 날까지 다시는 사울을 만나지 않았고, 주께서도 사울을 이스라엘의 왕으로 세우신 것을 후회하셨다.",
     Chn:"撒母耳直到死的日子，再没有见扫罗；但撒母耳为扫罗悲伤，是因耶和华后悔立他为以色列的王。",
     Eng:"Until the day Samuel died, he did not go to see Saul again, though Samuel mourned for him. And the LORD was grieved that he had made Saul king over Israel.",
     Ind:"Sampai hari matinya Samuel tidak melihat Saul lagi, tetapi Samuel berdukacita karena Saul. Dan TUHAN menyesal, karena Ia menjadikan Saul raja atas Israel."

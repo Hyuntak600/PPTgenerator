@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",31,40);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:31, Verse:1, Page:1,
-    Kor:"<북왕국 포로민의 귀환> \"나 주의 말이다. 때가 오면, 나는 이스라엘 모든 지파의 하나님이 되고, 그들은 나의 백성이 될 것이다.",
+    Kor:"\"나 주의 말이다. 그 때가 오면, 나는 이스라엘 모든 지파의 하나님이 되고, 그들은 나의 백성이 될 것이다.",
     Chn:"耶和华说：「那时，我必作以色列各家的　神；他们必作我的子民。」",
     Eng:"\"At that time,\" declares the LORD, \"I will be the God of all the clans of Israel, and they will be my people.\"",
     Ind:"\"Pada waktu itu, demikianlah firman TUHAN, Aku akan menjadi Allah segala kaum keluarga Israel dan mereka akan menjadi umat-Ku."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Beginilah firman TUHAN: Ia mendapat kasih karunia di padang gurun, yaitu bangsa yang terluput dari pedang itu! Israel berjalan mencari istirahat bagi dirinya!"
   },
   {Bible:"Jeremiah", Chapter:31, Verse:3, Page:1,
-    Kor:"나 주가 a먼 곳으로부터 와서 이스라엘에게 나타나 주었다. 나는 영원한 사랑으로 너를 사랑하였고, 한결같은 사랑을 너에게 베푼다. (a 또는 '과거에')",
+    Kor:"나 주가 먼 곳으로부터 와서 이스라엘에게 나타나 주었다. 나는 영원한 사랑으로 너를 사랑하였고, 한결같은 사랑을 너에게 베푼다.",
     Chn:"古时耶和华向以色列显现，说： 我以永远的爱爱你， 因此我以慈爱吸引你。",
     Eng:"The LORD appeared to us in the past, saying: \"I have loved you with an everlasting love; I have drawn you with loving-kindness.",
     Ind:"Dari jauh TUHAN menampakkan diri kepadanya: Aku mengasihi engkau dengan kasih yang kekal, sebab itu Aku melanjutkan kasih setia-Ku kepadamu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sungguh, akan datang harinya bahwa para penjaga akan berseru di gunung Efraim: Ayo, marilah kita naik ke Sion, kepada TUHAN, Allah kita!"
   },
   {Bible:"Jeremiah", Chapter:31, Verse:7, Page:1,
-    Kor:"\"참으로 나 주가 말한다. 너희는 기쁨으로 야곱에게 환호하고 세계 만민의 머리가 된 이스라엘에게 환성을 올려라. '주님, 주님의 백성을 구원해 주십시오. 이스라엘의 남은 자를 구원해 주십시오.' 이렇게 선포하고 찬양하여라.",
+    Kor:"\"참으로 나 주가 말한다. 너희는 기쁨으로 야곱에게 환호하고 세계 만민의 머리가 된 이스라엘에게 환성을 올려라. '주님, 주의 백성을 구원해 주십시오. 이스라엘의 남은 자를 구원해 주십시오.' 이렇게 선포하고 찬양하여라.",
     Chn:"耶和华如此说： 你们当为雅各欢乐歌唱， 因万国中为首的欢呼。 当传扬颂赞说： 耶和华啊， 求你拯救你的百姓以色列所剩下的人。",
     Eng:"This is what the LORD says: \"Sing with joy for Jacob; shout for the foremost of the nations. Make your praises heard, and say, 'O LORD, save your people, the remnant of Israel.'",
     Ind:"Sebab beginilah firman TUHAN: Bersorak-sorailah bagi Yakub dengan sukacita, bersukarialah tentang pemimpin bangsa-bangsa! Kabarkanlah, pujilah dan katakanlah: TUHAN telah menyelamatkan umat-Nya, yakni sisa-sisa Israel!"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku akan memuaskan jiwa para imam dengan kelimpahan, dan umat-Ku akan menjadi kenyang dengan kebajikan-Ku, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:31, Verse:15, Page:1,
-    Kor:"<라헬의 탄식과 하나님의 위로> \"나 주가 말한다. 라마에서 슬픈 소리가 들린다. 비통하게 울부짖는 소리가 들린다. 라헬이 자식을 잃고 울고 있다. 자식들이 없어졌으니, 위로를 받기조차 거절하는구나.",
+    Kor:"\"나 주가 이렇게 말한다. 라마에서 슬픈 소리가 들린다. 비통하게 울부짖는 소리가 들린다. 라헬이 자식을 잃고 울고 있다. 자식들이 없어졌으니, 위로를 받기조차 거절하는구나.",
     Chn:"耶和华如此说： 在拉玛听见号咷痛哭的声音， 是拉结哭她儿女，不肯受安慰， 因为他们都不在了。",
     Eng:"This is what the LORD says: \"A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because her children are no more.\"",
     Ind:"Beginilah firman TUHAN: Dengar! Di Rama terdengar ratapan, tangisan yang pahit pedih: Rahel menangisi anak-anaknya, ia tidak mau dihibur karena anak-anaknya, sebab mereka tidak ada lagi."
   },
   {Bible:"Jeremiah", Chapter:31, Verse:16, Page:1,
-    Kor:"나 주가 말한다. 이제는 울음소리도 그치고, 네 눈에서 눈물도 거두어라. 네가 수고한 보람이 있어서, 네 아들딸들이 적국에서 돌아온다. 나 주의 말이다.",
+    Kor:"나 주가 이렇게 말한다. 이제는 울음소리도 그치고, 네 눈에서 눈물도 거두어라. 네가 수고한 보람이 있어서, 네 아들딸들이 적국에서 돌아온다. 나 주의 말이다.",
     Chn:"耶和华如此说： 你禁止声音不要哀哭， 禁止眼目不要流泪， 因你所做之工必有赏赐； 他们必从敌国归回。 这是耶和华说的。",
     Eng:"This is what the LORD says: \"Restrain your voice from weeping and your eyes from tears, for your work will be rewarded,\" declares the LORD. \"They will return from the land of the enemy.",
     Ind:"Beginilah firman TUHAN: Cegahlah suaramu dari menangis, dan matamu dari mencucurkan air mata, sebab untuk jerih payahmu ada ganjaran, demikianlah firman TUHAN; mereka akan kembali dari negeri musuh."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Masih ada harapan untuk hari depanmu, demikianlah firman TUHAN: anak-anak akan kembali ke daerah mereka."
   },
   {Bible:"Jeremiah", Chapter:31, Verse:18, Page:1,
-    Kor:"\"에브라임이 탄식하는 소리를 내가 분명히 들었다. '주님, 우리는 길들지 않은 짐승 같았습니다. 그러나 주님께서 우리를 가르쳐 주셨고, 순종하게 하셨습니다. 우리가 돌아갈 수 있게 이끌어 주십시오. 이제 우리가 주 우리의 하나님께 돌아갈 준비가 되었습니다.",
+    Kor:"\"에브라임이 탄식하는 소리를 내가 분명히 들었다. '주님, 우리는 길들지 않은 짐승 같았습니다. 그러나 주께서 우리를 가르쳐 주셨고, 순종하게 하셨습니다. 우리가 돌아갈 수 있게 이끌어 주십시오. 이제 우리가 주 우리의 하나님께 돌아갈 준비가 되었습니다.",
     Chn:"我听见以法莲为自己悲叹说： 你责罚我，我便受责罚， 像不惯负轭的牛犊一样。 求你使我回转，我便回转， 因为你是耶和华—我的　神。",
     Eng:"\"I have surely heard Ephraim's moaning: 'You disciplined me like an unruly calf, and I have been disciplined. Restore me, and I will return, because you are the LORD my God.",
     Ind:"Telah Kudengar sungguh-sungguh Efraim meratap: Engkau telah menghajar aku, dan aku telah menerima hajaran, seperti anak lembu yang tidak terlatih. Bawalah aku kembali, supaya aku berbalik, sebab Engkaulah TUHAN, Allahku."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Dirikanlah bagimu rambu-rambu jalan, pasanglah bagimu tanda-tanda jalan; perhatikanlah jalan raya baik-baik, yakni jalan yang telah kautempuh! Kembalilah, hai anak dara Israel, kembalilah ke kota-kotamu ini!"
   },
   {Bible:"Jeremiah", Chapter:31, Verse:22, Page:1,
-    Kor:"너 방종한 딸아, 네가 언제까지 방황하겠느냐? 주님께서 이 땅에 새 것을 창조하셨으니, 그것은 곧 여자가 남자를 b안는 것이다.\" (b 또는 '보호하는')",
+    Kor:"너 방종한 딸아, 네가 언제까지 방황하겠느냐? 주께서 이 땅에 새 것을 창조하셨으니, 그것은 곧 여자가 남자를 안는 것이다.\"",
     Chn:"背道的民哪， 你反来复去要到几时呢？ 耶和华在地上造了一件新事， 就是女子护卫男子。",
     Eng:"How long will you wander, O unfaithful daughter? The LORD will create a new thing on earth--a woman will surround a man.\"",
     Ind:"Berapa lama lagi engkau mundur maju, hai anak perempuan yang tidak taat? Sebab TUHAN menciptakan sesuatu yang baru di negeri: perempuan merangkul laki-laki.\""
   },
   {Bible:"Jeremiah", Chapter:31, Verse:23, Page:1,
-    Kor:"<유다의 회복에 대한 약속> ○\"나 만군의 주, 이스라엘의 하나님이 말한다. c내가 포로로 잡혀 간 사람들을 돌아오게 할 때에, 사람들은 유다 땅과 유다의 성읍에서 이런 말을 다시 하게 될 것이다.  '너 정의의 보금자리, 거룩한 산이여, 주님의 복을 받아라.' (c 또는 '내가 그들의 운명을 회복시켜 줄 때에')",
+    Kor:"○\"나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 내가 포로로 잡혀 간 사람들을 돌아오게 할 때에, 사람들은 유다 땅과 유다의 성읍에서 이런 말을 다시 하게 될 것이다. '너 정의의 보금자리, 거룩한 산이여, 주의 복을 받아라.'",
     Chn:"万军之耶和华—以色列的　神如此说：「我使被掳之人归回的时候，他们在犹大地和其中的城邑必再这样说： 公义的居所啊， 圣山哪，愿耶和华赐福给你。",
     Eng:"This is what the LORD Almighty, the God of Israel, says: \"When I bring them back from captivity, the people in the land of Judah and in its towns will once again use these words: 'The LORD bless you, O righteous dwelling, O sacred mountain.'",
     Ind:"Beginilah firman TUHAN semesta alam, Allah orang Israel: \"Orang akan mengucapkan perkataan ini lagi di tanah Yehuda dan di kota-kotanya, apabila Aku telah memulihkan keadaan mereka: TUHAN kiranya memberkati engkau, hai tempat kediaman kebenaran, hai gunung yang kudus!"
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"melainkan: Setiap orang akan mati karena kesalahannya sendiri; setiap manusia yang makan buah mentah, giginya sendiri menjadi ngilu."
   },
   {Bible:"Jeremiah", Chapter:31, Verse:31, Page:1,
-    Kor:"<새 언약> ○\"그 때가 오면, 내가 이스라엘 가문과 유다 가문에 새 언약을 세우겠다. 나 주의 말이다.",
+    Kor:"○\"그 때가 오면, 내가 이스라엘 가문과 유다 가문과 새 언약을 세우겠다. 나 주의 말이다.",
     Chn:"耶和华说：「日子将到，我要与以色列家和犹大家另立新约，",
     Eng:"\"The time is coming,\" declares the LORD, \"when I will make a new covenant with the house of Israel and with the house of Judah.",
     Ind:"Sesungguhnya, akan datang waktunya, demikianlah firman TUHAN, Aku akan mengadakan perjanjian baru dengan kaum Israel dan kaum Yehuda,"
   },
   {Bible:"Jeremiah", Chapter:31, Verse:32, Page:1,
-    Kor:"이것은 내가 그들의 조상의 손을 붙잡고 이집트 땅에서 데리고 나오던 때에 세운 언약과는 다른 것이다. 내가 그들의 d남편이 되었어도, 그들은 나의 언약을 깨뜨려 버렸다. 나 주의 말이다.(d 히브리어 바알은 '주' 또는 '남편')",
+    Kor:"이것은 내가 그들의 조상의 손을 붙잡고 이집트 땅에서 데리고 나오던 때에 세운 언약과는 다른 것이다. 내가 그들의 남편이 되었어도, 그들은 나의 언약을 깨뜨려 버렸다. 나 주의 말이다.",
     Chn:"不像我拉着他们祖宗的手，领他们出埃及地的时候，与他们所立的约。我虽作他们的丈夫，他们却背了我的约。这是耶和华说的。」",
     Eng:"It will not be like the covenant I made with their forefathers when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,\" declares the LORD.",
     Ind:"bukan seperti perjanjian yang telah Kuadakan dengan nenek moyang mereka pada waktu Aku memegang tangan mereka untuk membawa mereka keluar dari tanah Mesir; perjanjian-Ku itu telah mereka ingkari, meskipun Aku menjadi tuan yang berkuasa atas mereka, demikianlah firman TUHAN."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Tetapi beginilah perjanjian yang Kuadakan dengan kaum Israel sesudah waktu itu, demikianlah firman TUHAN: Aku akan menaruh Taurat-Ku dalam batin mereka dan menuliskannya dalam hati mereka; maka Aku akan menjadi Allah mereka dan mereka akan menjadi umat-Ku."
   },
   {Bible:"Jeremiah", Chapter:31, Verse:34, Page:1,
-    Kor:"그 때에는 이웃이나 동포끼리 서로 '너는 주님을 알아라' 하지 않을 것이니, 이것은 작은 사람으로부터 큰 사람에 이르기까지, 그들이 모두 나를 알 것이기 때문이다.  내가 그들의 허물을 용서하고, 그들의 죄를 다시는 기억하지 않겠다. 나 주의 말이다.\"",
+    Kor:"그 때에는 이웃이나 동포끼리 서로 '너는 주를 알아라' 하지 않을 것이니, 이것은 작은 사람으로부터 큰 사람에 이르기까지, 그들이 모두 나를 알 것이기 때문이다. 내가 그들의 허물을 용서하고, 그들의 죄를 다시는 기억하지 않겠다. 나 주의 말이다.\"",
     Chn:"他们各人不再教导自己的邻舍和自己的弟兄说：『你该认识耶和华』，因为他们从最小的到至大的都必认识我。我要赦免他们的罪孽，不再记念他们的罪恶。这是耶和华说的。」",
     Eng:"No longer will a man teach his neighbor, or a man his brother, saying, 'Know the LORD,' because they will all know me, from the least of them to the greatest,\" declares the LORD. \"For I will forgive their wickedness and will remember their sins no more.\"",
     Ind:"Dan tidak usah lagi orang mengajar sesamanya atau mengajar saudaranya dengan mengatakan: Kenallah TUHAN! Sebab mereka semua, besar kecil, akan mengenal Aku, demikianlah firman TUHAN, sebab Aku akan mengampuni kesalahan mereka dan tidak lagi mengingat dosa mereka.\""
   },
   {Bible:"Jeremiah", Chapter:31, Verse:35, Page:1,
-    Kor:"낮에는 해를 주셔서 빛을 밝혀 주시고, 밤에는 달과 별들이 빛을 밝히도록 정하여 놓으시고, 바다를 뒤흔들어 파도가 소리 치게 하시는 분, 그 이름은 만군의 주님이시다. 주님께서 이렇게 말씀하신다.",
+    Kor:"○낮에는 해를 주셔서 빛을 밝혀 주시고, 밤에는 달과 별들이 빛을 밝히도록 정하여 놓으시고, 바다를 뒤흔들어 파도가 소리 치게 하시는 분, 그 이름은 만군의 주이시다. 주께서 이렇게 말씀하신다.",
     Chn:"那使太阳白日发光， 使星月有定例，黑夜发亮， 又搅动大海，使海中波浪匉訇的， 万军之耶和华是他的名。 他如此说：",
     Eng:"This is what the LORD says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar--the LORD Almighty is his name:",
     Ind:"Beginilah firman TUHAN, yang memberi matahari untuk menerangi siang, yang menetapkan bulan dan bintang-bintang untuk menerangi malam, yang mengharu biru laut, sehingga gelombang-gelombangnya ribut, --TUHAN semesta alam nama-Nya:"

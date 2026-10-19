@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",3,15);
 BibleDB.add([
   {Bible:"Esther", Chapter:3, Verse:1, Page:1,
-    Kor:"<하만이 유다 사람 말살을 음모하다> 이런 일들이 있은 지 얼마 뒤에, 아하수에로 왕은 아각 사람 함므다다의 아들 하만을 등용하여, 큰 벼슬을 주고, 다른 대신들보다 더 높은 자리에 앉혔다.",
+    Kor:"이런 일들이 있은 지 얼마 뒤에, 아하수에로 왕은 아각 사람 함므다다의 아들 하만을 등용하여, 큰 벼슬을 주고, 다른 대신들보다 더 높은 자리에 앉혔다.",
     Chn:"这事以后，亚哈随鲁王抬举亚甲族哈米大他的儿子哈曼，使他高升，叫他的爵位超过与他同事的一切臣宰。",
     Eng:"After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles.",
     Ind:"Sesudah peristiwa-peristiwa ini maka Haman bin Hamedata, orang Agag, dikaruniailah kebesaran oleh raja Ahasyweros, dan pangkatnya dinaikkan serta kedudukannya ditetapkan di atas semua pembesar yang ada di hadapan baginda."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Ketika Haman melihat, bahwa Mordekhai tidak berlutut dan sujud kepadanya, maka sangat panaslah hati Haman,"
   },
   {Bible:"Esther", Chapter:3, Verse:6, Page:1,
-    Kor:"더욱이, 모르드개가 어느 민족인지를 알고서는, 하만은 모르드개 한 사람만을 죽이는 것은 너무 가볍다고 생각하였다. 하만은, 아하수에로가 다스리는 온 나라에서, 모르드개와 같은 겨레인 유다 사람들을 모두 없앨 방법을 찾았다.",
+    Kor:"더욱이, 모르드개가 어느 민족인지를 알고서는, 하만은, 모르드개 한 사람만을 죽이는 것은 너무 가볍다고 생각하였다. 하만은, 아하수에로가 다스리는 온 나라에서, 모르드개와 같은 겨레인 유다 사람들을 모두 없앨 방법을 찾았다.",
     Chn:"他们已将末底改的本族告诉哈曼；他以为下手害末底改一人是小事，就要灭绝亚哈随鲁王通国所有的犹大人，就是末底改的本族。",
     Eng:"Yet having learned who Mordecai's people were, he scorned the idea of killing only Mordecai. Instead Haman looked for a way to destroy all Mordecai's people, the Jews, throughout the whole kingdom of Xerxes.",
     Ind:"tetapi ia menganggap dirinya terlalu hina untuk membunuh hanya Mordekhai saja, karena orang telah memberitahukan kepadanya kebangsaan Mordekhai itu. Jadi Haman mencari ikhtiar memunahkan semua orang Yahudi, yakni bangsa Mordekhai itu, di seluruh kerajaan Ahasyweros."
   },
   {Bible:"Esther", Chapter:3, Verse:7, Page:1,
-    Kor:"○아하수에로 왕 십이년 첫째 달 니산월이다. 사람들은 유다 사람들을 어느 달 어느 날에 죽일지, 그 날을 받으려고, 하만이 보는 앞에서 주사위의 일종인 '부르'를 던졌다. a주사위가 열두째 달인 아달월 십삼일에 떨어졌다.(a 칠십인역을 따름. 히, '열두째 달인 아달월이었다')",
+    Kor:"○아하수에로 왕 십이년 첫째 달 니산월이다. 사람들은 유다 사람들을 어느 달 어느 날에 죽일지, 그 날을 받으려고, 하만이 보는 앞에서 주사위의 일종인 '부르'를 던졌다. 주사위가 열두째 달인 아달월 십삼일에 떨어졌다.",
     Chn:"亚哈随鲁王十二年正月，就是尼散月，人在哈曼面前，按日日月月掣普珥，就是掣签，要定何月何日为吉，择定了十二月，就是亚达月。",
     Eng:"In the twelfth year of King Xerxes, in the first month, the month of Nisan, they cast the pur (that is, the lot) in the presence of Haman to select a day and month. And the lot fell on the twelfth month, the month of Adar.",
     Ind:"Dalam bulan pertama, yakni bulan Nisan, dalam tahun yang kedua belas zaman raja Ahasyweros, orang membuang pur--yakni undi--di depan Haman, hari demi hari dan bulan demi bulan sampai jatuh pada bulan yang kedua belas, yakni bulan Adar."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Maka dalam bulan yang pertama pada hari yang ketiga belas dipanggillah para panitera raja, lalu, sesuai dengan segala yang diperintahkan Haman, ditulislah surat kepada wakil-wakil raja, kepada setiap bupati yang menguasai daerah dan kepada setiap pembesar bangsa, yakni kepada tiap-tiap daerah menurut tulisannya dan kepada tiap-tiap bangsa menurut bahasanya; surat itu ditulis atas nama raja Ahasyweros dan dimeterai dengan cincin meterai raja."
   },
   {Bible:"Esther", Chapter:3, Verse:13, Page:1,
-    Kor:"그렇게 한 다음에, 보발꾼들을 시켜서, 그 조서를 급히 왕이 다스리는 모든 지방으로 보냈다. 그 내용은, 열두째 달인 아달월 십삼일 하루 동안에, 유다 사람들을 남녀노소 할 것 없이 모두 죽이고 도륙하고 진멸하고, 그들의 재산을 빼앗으라는 것이다.",
+    Kor:"그렇게 한 다음에, 보발꾼들을 시켜서, 그 조서를 급히 왕이 다스리는 모든 지방으로 보냈다. 그 내용은, 열두째 달인 아달월 십삼일 하루 동안에, 유다 사람들을, 남녀노소 할 것 없이 모두 죽이고 도륙하고 진멸하고, 그들의 재산을 빼앗으라는 것이다.",
     Chn:"交给驿卒传到王的各省，吩咐将犹大人，无论老少妇女孩子，在一日之间，十二月，就是亚达月十三日，全然剪除，杀戮灭绝，并夺他们的财为掠物。",
     Eng:"Dispatches were sent by couriers to all the king's provinces with the order to destroy, kill and annihilate all the Jews--young and old, women and little children--on a single day, the thirteenth day of the twelfth month, the month of Adar, and to plunder their goods.",
     Ind:"Surat-surat itu dikirimkan dengan perantaraan pesuruh-pesuruh cepat ke segala daerah kerajaan, supaya dipunahkan, dibunuh dan dibinasakan semua orang Yahudi dari pada yang muda sampai kepada yang tua, bahkan anak-anak dan perempuan-perempuan, pada satu hari juga, pada tanggal tiga belas bulan yang kedua belas--yakni bulan Adar--,dan supaya dirampas harta milik mereka."
   },
   {Bible:"Esther", Chapter:3, Verse:14, Page:1,
-    Kor:"각 지방에서는 그 조서를 법령으로 공포하여 각 민족에게 알리고, 그 날을 미리 준비하게 하였다.",
+    Kor:"각 지방에서는, 그 조서를 법령으로 공포하여 각 민족에게 알리고, 그 날을 미리 준비하게 하였다.",
     Chn:"抄录这旨意，颁行各省，宣告各族，使他们预备等候那日。",
     Eng:"A copy of the text of the edict was to be issued as law in every province and made known to the people of every nationality so they would be ready for that day.",
     Ind:"Salinan surat itu harus diundangkan di dalam tiap-tiap daerah, lalu diumumkan kepada segala bangsa, supaya mereka bersiap-siap untuk hari itu."
   },
   {Bible:"Esther", Chapter:3, Verse:15, Page:1,
-    Kor:"왕의 명령이 떨어지자 곧 보발꾼들이 떠나고, 도성 수산에도 조서가 나붙었다. 왕과 하만은 함께 술잔을 기울이며 앉아 있었지만, 수산 성은 술렁거렸다.",
+    Kor:"왕의 명령이 떨어지자, 곧 보발꾼들이 떠나고, 도성 수산에도 조서가 나붙었다. 왕과 하만은 함께 술잔을 기울이며 앉아 있었지만, 수산 성은 술렁거렸다.",
     Chn:"驿卒奉王命急忙起行，旨意也传遍书珊城。王同哈曼坐下饮酒，书珊城的民却都慌乱。",
     Eng:"Spurred on by the king's command, the couriers went out, and the edict was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered.",
     Ind:"Maka dengan tergesa-gesa berangkatlah pesuruh-pesuruh cepat itu, atas titah raja, dan undang-undang itu dikeluarkan di dalam benteng Susan. Sementara itu raja serta Haman duduk minum-minum, tetapi kota Susan menjadi gempar."

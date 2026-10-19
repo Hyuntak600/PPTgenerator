@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",17,58);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:17, Verse:1, Page:1,
-    Kor:"<골리앗이 이스라엘에 도전하다> 블레셋 사람들이 또 전쟁을 일으키려고 군인을 모두 모아, 유다의 소고에 집결시키고, 소고와 아세가 사이에 있는 에베스담밈에 진을 쳤다.",
+    Kor:"블레셋 사람들이 또 전쟁을 일으키려고 군인을 모두 모아, 유다의 소고에 집결시키고, 소고와 아세가 사이에 있는 에베스담밈에 진을 쳤다.",
     Chn:"非利士人招聚他们的军旅，要来争战；聚集在属犹大的梭哥，安营在梭哥和亚西加中间的以弗·大悯。",
     Eng:"Now the Philistines gathered their forces for war and assembled at Socoh in Judah. They pitched camp at Ephes Dammim, between Socoh and Azekah.",
     Ind:"Orang Filistin mengumpulkan tentaranya untuk berperang; mereka berkumpul di Sokho yang di tanah Yehuda dan berkemah antara Sokho dan Azeka di Efes-Damim."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Orang Filistin berdiri di bukit sebelah sini dan orang Israel berdiri di bukit sebelah sana, dan lembah ada di antara mereka."
   },
   {Bible:"1Samuel", Chapter:17, Verse:4, Page:1,
-    Kor:"블레셋 진에서 가드 사람 골리앗이라는 장수가 싸움을 걸려고 나섰다. 그는 키가 a여섯 규빗 하고도 한 뼘이나 더 되었다.(a 약 3미터, 사해 사본과 칠십인역에는 '네 규빗')",
+    Kor:"블레셋 진에서 가드 사람 골리앗이라는 장수가 싸움을 걸려고 나섰다. 그는 키가 여섯 규빗 하고도 한 뼘이나 더 되었다.",
     Chn:"从非利士营中出来一个讨战的人，名叫歌利亚，是迦特人，身高六肘零一虎口；",
     Eng:"A champion named Goliath, who was from Gath, came out of the Philistine camp. He was over nine feet tall.",
     Ind:"Lalu tampillah keluar seorang pendekar dari tentara orang Filistin. Namanya Goliat, dari Gat. Tingginya enam hasta sejengkal."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Ketika Saul dan segenap orang Israel mendengar perkataan orang Filistin itu, maka cemaslah hati mereka dan sangat ketakutan."
   },
   {Bible:"1Samuel", Chapter:17, Verse:12, Page:1,
-    Kor:"<사울의 진에 나타난 다윗> ○다윗은 유다 땅 베들레헴에 있는 에브랏 사람 이새의 아들이다. 이새에게는 모두 아들이 여덟 명 있었는데, 사울이 다스릴 무렵에, 이새는 이미 나이가 매우 많은 노인이었다.",
+    Kor:"○다윗은 유다 땅 베들레헴에 있는 에브랏 사람 이새의 아들이다. 이새에게는 모두 아들이 여덟 명 있었는데, 사울이 다스릴 무렵에, 이새는 이미 나이가 매우 많은 노인이었다.",
     Chn:"大卫是犹大伯利恒的以法他人耶西的儿子。耶西有八个儿子。当扫罗的时候，耶西已经老迈。",
     Eng:"Now David was the son of an Ephrathite named Jesse, who was from Bethlehem in Judah. Jesse had eight sons, and in Saul's time he was old and well advanced in years.",
     Ind:"Daud adalah anak seorang dari Efrata, dari Betlehem-Yehuda, yang bernama Isai. Isai mempunyai delapan anak laki-laki. Pada zaman Saul orang itu telah tua dan lanjut usianya."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Saul dan mereka itu dan semua orang Israel ada di Lembah Tarbantin tengah berperang melawan orang Filistin.\""
   },
   {Bible:"1Samuel", Chapter:17, Verse:20, Page:1,
-    Kor:"○다음날 아침에 다윗은 일찍 일어나서, 양 떼를 다른 양치기에게 맡기고, 아버지 이새가 시킨 대로 짐을 가지고 길을 떠났다. 그가 진영에 이르렀을 때에, 군인들은 마침 전선으로 나아가면서, 전투 개시의 함성을 올리고,",
+    Kor:"○다음날 아침에, 다윗은 일찍 일어나서, 양 떼를 다른 양치기에게 맡기고, 아버지 이새가 시킨 대로 짐을 가지고 길을 떠났다. 그가 진영에 이르렀을 때에, 군인들은 마침 전선으로 나아가면서, 전투 개시의 함성을 올리고,",
     Chn:"大卫早晨起来，将羊交托一个看守的人，照着他父亲所吩咐的话，带着食物去了。到了辎重营，军兵刚出到战场，呐喊要战。",
     Eng:"Early in the morning David left the flock with a shepherd, loaded up and set out, as Jesse had directed. He reached the camp as the army was going out to its battle positions, shouting the war cry.",
     Ind:"Lalu Daud bangun pagi-pagi, ditinggalkannyalah kambing dombanya pada seorang penjaga, lalu mengangkat muatan dan pergi, seperti yang diperintahkan Isai kepadanya. Sampailah ia ke perkemahan, ketika tentara keluar untuk mengatur barisannya dan mengangkat sorak perang."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Lalu Daud menurunkan barang-barangnya dan meninggalkannya di tangan penjaga barang-barang tentara. Berlari-larilah Daud ke tempat barisan; sesampai di sana, bertanyalah ia kepada kakak-kakaknya apakah mereka selamat."
   },
   {Bible:"1Samuel", Chapter:17, Verse:23, Page:1,
-    Kor:"다윗이 형들과 이야기하고 있는 동안에, 마침 블레셋 사람 쪽에서 가드 사람 골리앗이라는 장수가 그 대열에서 나와서, 전과 똑같은 말로 싸움을 걸어왔다. 다윗도 그 소리를 들었다.",
+    Kor:"다윗이 형들과 이야기하고 있는 동안에, 마침 블레셋 사람 쪽에서, 가드 사람 골리앗이라는 장수가 그 대열에서 나와서, 전과 똑같은 말로 싸움을 걸어왔다. 다윗도 그 소리를 들었다.",
     Chn:"与他们说话的时候，那讨战的，就是属迦特的非利士人歌利亚，从非利士队中出来，说从前所说的话；大卫都听见了。",
     Eng:"As he was talking with them, Goliath, the Philistine champion from Gath, stepped out from his lines and shouted his usual defiance, and David heard it.",
     Ind:"Sedang ia berbicara dengan mereka, tampillah maju pendekar itu. Namanya Goliat, orang Filistin dari Gat, dari barisan orang Filistin. Ia mengucapkan kata-kata yang tadi juga, dan Daud mendengarnya."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Rakyat itupun menjawabnya dengan perkataan tadi: \"Begitulah akan dilakukan kepada orang yang mengalahkan dia.\""
   },
   {Bible:"1Samuel", Chapter:17, Verse:28, Page:1,
-    Kor:"○다윗이 군인들과 이렇게 이야기하는 것을 맏형 엘리압이 듣고, 다윗에게 화를 내며 꾸짖었다. \"너는 어쩌자고 여기까지 내려왔느냐? 들판에 있는, 몇 마리도 안 되는 양은 누구에게 떠맡겨 놓았느냐? 이 건방지고 고집 센 녀석아, 네가 전쟁 구경을 하려고 내려온 것을, 누가 모를 줄 아느냐?\"",
+    Kor:"○다윗이 군인들과 이렇게 이야기하는 것을 맏형 엘리압이 듣고, 다윗에게 화를 내며 꾸짖었다. \"너는 어쩌자고 여기까지 내려왔느냐? 들판에 있는, 몇 마리도 안 되는 양은 누구에게 떠맡겨 놓았느냐? 이 건방지고 고집 센 녀석, 네가 전쟁 구경을 하려고 내려온 것을, 누가 모를 줄 아느냐?\"",
     Chn:"大卫的长兄以利押听见大卫与他们所说的话，就向他发怒，说：「你下来做什么呢？在旷野的那几只羊，你交托了谁呢？我知道你的骄傲和你心里的恶意，你下来特为要看争战！」",
     Eng:"When Eliab, David's oldest brother, heard him speaking with the men, he burned with anger at him and asked, \"Why have you come down here? And with whom did you leave those few sheep in the desert? I know how conceited you are and how wicked your heart is; you came down only to watch the battle.\"",
     Ind:"Ketika Eliab, kakaknya yang tertua, mendengar perkataan Daud kepada orang-orang itu, bangkitlah amarah Eliab kepada Daud sambil berkata: \"Mengapa engkau datang? Dan pada siapakah kautinggalkan kambing domba yang dua tiga ekor itu di padang gurun? Aku kenal sifat pemberanimu dan kejahatan hatimu: engkau datang ke mari dengan maksud melihat pertempuran.\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Tetapi jawab Daud: \"Apa yang telah kuperbuat? Hanya bertanya saja!\""
   },
   {Bible:"1Samuel", Chapter:17, Verse:30, Page:1,
-    Kor:"그런 다음에 다윗은, 몸을 돌려 형 옆에서 떠나 다른 사람 앞으로 가서, 똑같은 말로 또 물어 보았다. 거기에서도 사람들이 똑같은 말을 하였다.",
+    Kor:"그런 다음에 다윗은, 몸을 돌려 형 가까이에서 떠나 다른 사람 앞으로 가서, 똑같은 말로 또 물어 보았다. 거기에서도 사람들이 똑같은 말을 하였다.",
     Chn:"大卫就离开他转向别人，照先前的话而问；百姓仍照先前的话回答他。",
     Eng:"He then turned away to someone else and brought up the same matter, and the men answered him as before.",
     Ind:"Lalu berpalinglah ia dari padanya kepada orang lain dan menanyakan yang sama. Dan rakyat memberi jawab kepadanya seperti tadi."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Baik singa maupun beruang telah dihajar oleh hambamu ini. Dan orang Filistin yang tidak bersunat itu, ia akan sama seperti salah satu dari pada binatang itu, karena ia telah mencemooh barisan dari pada Allah yang hidup.\""
   },
   {Bible:"1Samuel", Chapter:17, Verse:37, Page:1,
-    Kor:"다윗은 말을 계속하였다. \"사자의 발톱이나 곰의 발톱에서 저를 살려 주신 주님께서, 저 블레셋 사람의 손에서도 틀림없이 저를 살려 주실 것입니다.\" 그제서야 사울이 다윗에게 허락하였다. \"그렇다면, 나가도 좋다. 주님께서 너와 함께 계시길 바란다.\"",
+    Kor:"다윗은 말을 계속하였다. \"사자의 발톱이나 곰의 발톱에서 저를 살려 주신 주께서, 저 블레셋 사람의 손에서도 틀림없이 저를 살려 주실 것입니다.\" 그제서야 사울이 다윗에게 허락하였다. \"그렇다면, 나가도 좋다. 주께서 너와 함께 계시길 바란다.\"",
     Chn:"大卫又说：「耶和华救我脱离狮子和熊的爪，也必救我脱离这非利士人的手。」扫罗对大卫说：「你可以去吧！耶和华必与你同在。」",
     Eng:"The LORD who delivered me from the paw of the lion and the paw of the bear will deliver me from the hand of this Philistine.\" Saul said to David, \"Go, and the LORD be with you.\"",
     Ind:"Pula kata Daud: \"TUHAN yang telah melepaskan aku dari cakar singa dan dari cakar beruang, Dia juga akan melepaskan aku dari tangan orang Filistin itu.\" Kata Saul kepada Daud: \"Pergilah! TUHAN menyertai engkau.\""
@@ -243,13 +243,13 @@ BibleDB.add([
     Ind:"Lalu Daud mengambil tongkatnya di tangannya, dipilihnya dari dasar sungai lima batu yang licin dan ditaruhnya dalam kantung gembala yang dibawanya, yakni tempat batu-batu, sedang umbannya dipegangnya di tangannya. Demikianlah ia mendekati orang Filistin itu."
   },
   {Bible:"1Samuel", Chapter:17, Verse:41, Page:1,
-    Kor:"<다윗이 골리앗을 이기다> ○그 블레셋 사람도 방패 든 사람을 앞세우고 다윗에게 점점 가까이 다가왔다.",
+    Kor:"○그 블레셋 사람도 방패 든 사람을 앞세우고 다윗에게 점점 가까이 다가왔다.",
     Chn:"非利士人也渐渐地迎着大卫来，拿盾牌的走在前头。",
     Eng:"Meanwhile, the Philistine, with his shield bearer in front of him, kept coming closer to David.",
     Ind:"Orang Filistin itu kian dekat menghampiri Daud dan di depannya orang yang membawa perisainya."
   },
   {Bible:"1Samuel", Chapter:17, Verse:42, Page:1,
-    Kor:"그 블레셋 사람은 다윗을 보고 나서, 그가 다만 잘생긴 홍안 소년에 지나지 않는다는 것을 알고는, 그를 우습게 여겼다.",
+    Kor:"그 블레셋 사람은 다윗을 쳐다보고 나서, 그가 다만 잘생긴 홍안 소년에 지나지 않는다는 것을 알고는, 그를 우습게 여겼다.",
     Chn:"非利士人观看，见了大卫，就藐视他；因为他年轻，面色光红，容貌俊美。",
     Eng:"He looked David over and saw that he was only a boy, ruddy and handsome, and he despised him.",
     Ind:"Ketika orang Filistin itu menujukan pandangnya ke arah Daud serta melihat dia, dihinanya Daud itu karena ia masih muda, kemerah-merahan dan elok parasnya."
@@ -267,19 +267,19 @@ BibleDB.add([
     Ind:"Pula orang Filistin itu berkata kepada Daud: \"Hadapilah aku, maka aku akan memberikan dagingmu kepada burung-burung di udara dan kepada binatang-binatang di padang.\""
   },
   {Bible:"1Samuel", Chapter:17, Verse:45, Page:1,
-    Kor:"○그러자 다윗이 그 블레셋 사람에게 말하였다. \"너는 칼을 차고 창을 메고 투창을 들고 나에게로 나왔으나, 나는 네가 모욕하는 이스라엘 군대의 하나님 곧 만군의 주님의 이름을 의지하고 너에게로 나왔다.",
+    Kor:"○그러자 다윗이 그 블레셋 사람에게 말하였다. \"너는 칼을 차고 창을 메고 투창을 들고 나에게로 나왔으나, 나는 네가 모욕하는 이스라엘 군대의 하나님, 곧 만군의 주의 이름을 의지하고 너에게로 나왔다.",
     Chn:"大卫对非利士人说：「你来攻击我，是靠着刀枪和铜戟；我来攻击你，是靠着万军之耶和华的名，就是你所怒骂带领以色列军队的　神。",
     Eng:"David said to the Philistine, \"You come against me with sword and spear and javelin, but I come against you in the name of the LORD Almighty, the God of the armies of Israel, whom you have defied.",
     Ind:"Tetapi Daud berkata kepada orang Filistin itu: \"Engkau mendatangi aku dengan pedang dan tombak dan lembing, tetapi aku mendatangi engkau dengan nama TUHAN semesta alam, Allah segala barisan Israel yang kautantang itu."
   },
   {Bible:"1Samuel", Chapter:17, Verse:46, Page:1,
-    Kor:"주님께서 너를 나의 손에 넘겨 주실 터이니, 내가 오늘 너를 쳐서 네 머리를 베고, 블레셋 사람의 주검을 모조리 공중의 새와 땅의 들짐승에게 밥으로 주어서, 온 세상이 이스라엘의 하나님을 알게 하겠다.",
+    Kor:"주께서 너를 나의 손에 넘겨 주실 터이니, 내가 오늘 너를 쳐서 네 머리를 베고, 블레셋 사람의 주검을 모조리 공중의 새와 땅의 들짐승에게 밥으로 주어서, 온 세상이 이스라엘의 하나님을 알게 하겠다.",
     Chn:"今日耶和华必将你交在我手里。我必杀你，斩你的头，又将非利士军兵的尸首给空中的飞鸟、地上的野兽吃，使普天下的人都知道以色列中有　神；",
     Eng:"This day the LORD will hand you over to me, and I'll strike you down and cut off your head. Today I will give the carcasses of the Philistine army to the birds of the air and the beasts of the earth, and the whole world will know that there is a God in Israel.",
     Ind:"Hari ini juga TUHAN akan menyerahkan engkau ke dalam tanganku dan aku akan mengalahkan engkau dan memenggal kepalamu dari tubuhmu; hari ini juga aku akan memberikan mayatmu dan mayat tentara orang Filistin kepada burung-burung di udara dan kepada binatang-binatang liar, supaya seluruh bumi tahu, bahwa Israel mempunyai Allah,"
   },
   {Bible:"1Samuel", Chapter:17, Verse:47, Page:1,
-    Kor:"또 주님께서는 칼이나 창 따위를 쓰셔서 구원하시는 것이 아니라는 것을, 여기에 모인 이 온 무리가 알게 하겠다. 전쟁에서 이기고 지는 것은 주님께 달린 것이다. 주님께서 너희를 모조리 우리 손에 넘겨 주실 것이다.\"",
+    Kor:"또 주께서는 칼이나 창 따위를 쓰셔서 구원하시는 것이 아니라는 것을, 여기에 모인 이 온 무리가 알게 하겠다. 전쟁에서 이기고 지는 것은 주께 달린 것이다. 주께서 너희를 모조리 우리 손에 넘겨 주실 것이다.\"",
     Chn:"又使这众人知道耶和华使人得胜，不是用刀用枪，因为争战的胜败全在乎耶和华。他必将你们交在我们手里。」",
     Eng:"All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD'S, and he will give all of you into our hands.\"",
     Ind:"dan supaya segenap jemaah ini tahu, bahwa TUHAN menyelamatkan bukan dengan pedang dan bukan dengan lembing. Sebab di tangan Tuhanlah pertempuran dan Iapun menyerahkan kamu ke dalam tangan kami.\""
@@ -309,7 +309,7 @@ BibleDB.add([
     Ind:"Daud berlari mendapatkan orang Filistin itu, lalu berdiri di sebelahnya; diambilnyalah pedangnya, dihunusnya dari sarungnya, lalu menghabisi dia. Dipancungnyalah kepalanya dengan pedang itu. Ketika orang-orang Filistin melihat, bahwa pahlawan mereka telah mati, maka larilah mereka."
   },
   {Bible:"1Samuel", Chapter:17, Verse:52, Page:1,
-    Kor:"이스라엘과 유다 사람들이 일어나 함성을 지르며 블레셋 사람들을 쫓아서, 가이를 지나 에그론 성문에까지 이르렀다. 그리하여 칼에 찔려 죽은 블레셋 사람의 주검이, 사아라임에서 가드와 에그론에 이르기까지 온 길에 널렸다.",
+    Kor:"이스라엘과 유다 사람들이 일어나 함성을 지르며 블레셋 사람들을 쫓아서, 가이를 지나 에그론 성문에까지 이르렀다. 그리하여 칼에 찔려 죽은 블레셋 사람의 주검이, 사아라임에서 가드와 에그론에 이르기까지, 온 길에 널렸다.",
     Chn:"以色列人和犹大人便起身呐喊，追赶非利士人，直到迦特和以革伦的城门。被杀的非利士人倒在沙拉音的路上，直到迦特和以革伦。",
     Eng:"Then the men of Israel and Judah surged forward with a shout and pursued the Philistines to the entrance of Gath and to the gates of Ekron. Their dead were strewn along the Shaaraim road to Gath and Ekron.",
     Ind:"Maka bangkitlah orang-orang Israel dan Yehuda, mereka bersorak-sorak lalu mengejar orang-orang Filistin sampai dekat Gat dan sampai pintu gerbang Ekron. Dan orang-orang yang terbunuh dari orang Filistin bergelimpangan di jalan ke Saaraim, sampai Gat dan sampai Ekron."
@@ -321,13 +321,13 @@ BibleDB.add([
     Ind:"Kemudian pulanglah orang Israel dari pemburuan hebat atas orang Filistin, lalu menjarah perkemahan mereka."
   },
   {Bible:"1Samuel", Chapter:17, Verse:54, Page:1,
-    Kor:"○다윗은, 그 블레셋 사람의 머리는 예루살렘으로 가지고 갔으나, 그의 무기들은 자기 장막에 간직하였다.",
+    Kor:"○다윗은 그 블레셋 사람의 머리는 예루살렘으로 가지고 갔으나, 그의 무기들은 자기 장막에 간직하였다.",
     Chn:"大卫将那非利士人的头拿到耶路撒冷，却将他军装放在自己的帐棚里。",
     Eng:"David took the Philistine's head and brought it to Jerusalem, and he put the Philistine's weapons in his own tent.",
     Ind:"Dan Daud mengambil kepala orang Filistin yang dipancungnya itu dan membawanya ke Yerusalem, tetapi senjata-senjata orang itu ditaruhnya dalam kemahnya."
   },
   {Bible:"1Samuel", Chapter:17, Verse:55, Page:1,
-    Kor:"<다윗이 사울 앞에 서다> ○사울은, 다윗이 그 블레셋 사람에 맞서서 나가는 것을 보면서, 군사령관 아브넬에게 물었다. \"아브넬 장군, 저 소년이 누구의 아들이오?\" 아브넬이 대답하였다. \"임금님, 황공하오나 저도 잘 모릅니다.\"",
+    Kor:"○사울은, 다윗이 그 블레셋 사람에 맞서서 나가는 것을 보면서, 군사령관 아브넬에게 물었다. \"아브넬 장군, 저 소년이 누구의 아들이오?\" 아브넬이 대답하였다. \"임금님, 황공하오나 저도 잘 모릅니다.\"",
     Chn:"扫罗看见大卫去攻击非利士人，就问元帅押尼珥说：「押尼珥啊，那少年人是谁的儿子？」押尼珥说：「我敢在王面前起誓，我不知道。」",
     Eng:"As Saul watched David going out to meet the Philistine, he said to Abner, commander of the army, \"Abner, whose son is that young man?\" Abner replied, \"As surely as you live, O king, I don't know.\"",
     Ind:"Ketika Saul melihat Daud pergi menemui orang Filistin itu, berkatalah ia kepada Abner, panglima tentaranya: \"Anak siapakah orang muda itu, Abner?\" Jawab Abner: \"Demi tuanku hidup, ya raja, sesungguhnya aku tidak tahu.\""

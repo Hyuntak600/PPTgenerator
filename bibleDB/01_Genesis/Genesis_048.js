@@ -3,19 +3,19 @@
 BibleDB.ref("Genesis",48,22);
 BibleDB.add([
   {Bible:"Genesis", Chapter:48, Verse:1, Page:1,
-    Kor:"<야곱이 에브라임과 므낫세를 축복하다> 이런 일이 있은 지 얼마 되지 않아서, 요셉은 아버지의 병환 소식을 들었다. 요셉은 두 아들 므낫세와 에브라임을 데리고, 아버지를 뵈러 갔다.",
+    Kor:"이런 일이 있은 지 얼마 되지 않아서, 요셉은 아버지의 병환 소식을 들었다. 요셉은 두 아들 므낫세와 에브라임을 데리고, 아버지를 뵈러 갔다.",
     Chn:"这事以后，有人告诉约瑟说：「你的父亲病了。」他就带着两个儿子玛拿西和以法莲同去。",
     Eng:"Some time later Joseph was told, \"Your father is ill.\" So he took his two sons Manasseh and  Ephraim along with him.",
     Ind:"Sesudah itu ada orang mengatakan kepada Yusuf: \"Ayahmu sakit!\" Lalu dibawanyalah kedua anaknya, Manasye dan Efraim."
   },
   {Bible:"Genesis", Chapter:48, Verse:2, Page:1,
-    Kor:"야곱 곧 이스라엘은 자기의 아들 요셉이 왔다는 말을 듣고서, 기력을 다하여 침상에서 일어나 앉았다.",
+    Kor:"야곱 곧 이스라엘은 자기의 아들 요셉이 왔다는 말을 듣고서, 기력을 다하여, 침상에서 일어나 앉았다.",
     Chn:"有人告诉雅各说：「请看，你儿子约瑟到你这里来了。」以色列就勉强在床上坐起来。",
     Eng:"When Jacob was told, \"Your son Joseph has come to you,\" Israel rallied his strength and sat  up on the bed.",
     Ind:"Ketika diberitahukan kepada Yakub: \"Telah datang anakmu Yusuf kepadamu,\" maka Israel mengumpulkan segenap kekuatannya dan duduklah ia di tempat tidurnya."
   },
   {Bible:"Genesis", Chapter:48, Verse:3, Page:1,
-    Kor:"야곱이 요셉에게 말하였다. \"a전능하신 하나님이 가나안 땅 루스에서 나에게 나타나셔서, 거기에서 나에게 복을 허락하시면서,(a 히, '엘 샤다이')",
+    Kor:"야곱이 요셉에게 말하였다. \"전능하신 하나님이 가나안 땅 루스에서 나에게 나타나셔서, 거기에서 나에게 복을 허락하시면서,",
     Chn:"雅各对约瑟说：「全能的　神曾在迦南地的路斯向我显现，赐福与我，",
     Eng:"Jacob said to Joseph, \"God Almighty appeared to me at Luz in the land of Canaan, and there  he blessed me",
     Ind:"Berkatalah Yakub kepada Yusuf: \"Allah, Yang Mahakuasa telah menampakkan diri kepadaku di Lus di tanah Kanaan dan memberkati aku"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"serta berfirman kepadaku: Akulah yang membuat engkau beranak cucu, dan Aku akan membuat engkau bertambah banyak dan menjadi sekumpulan bangsa-bangsa; Aku akan memberikan negeri ini kepada keturunanmu untuk menjadi miliknya sampai selama-lamanya."
   },
   {Bible:"Genesis", Chapter:48, Verse:5, Page:1,
-    Kor:"내가 너를 보려고 여기 이집트로 오기 전에 네가 이집트 땅에서 낳은 두 아이는, 내가 낳은 아들로 삼고 싶다. 르우벤과 시므온이 나의 아들이듯이, 에브라임과 므낫세도 나의 아들이다.",
+    Kor:"내가 너를 보려고 여기 이집트로 오기 전에, 네가 이집트 땅에서 낳은 두 아이는, 내가 낳은 아들로 삼고 싶다. 르우벤과 시므온이 나의 아들이듯이, 에브라임과 므낫세도 나의 아들로 한다.",
     Chn:"我未到埃及见你之先，你在埃及地所生的以法莲和玛拿西这两个儿子是我的，正如吕便和西缅是我的一样。",
     Eng:"\"Now then, your two sons born to you in Egypt before I came to you here will be reckoned as  mine; Ephraim and Manasseh will be mine, just as Reuben and Simeon are mine.",
     Ind:"Maka sekarang kedua anakmu yang lahir bagimu di tanah Mesir, sebelum aku datang kepadamu ke Mesir, akulah yang empunya mereka; akulah yang akan empunya Efraim dan Manasye sama seperti Ruben dan Simeon."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Israel kepada Yusuf: \"Tidak kusangka-sangka, bahwa aku akan melihat mukamu lagi, tetapi sekarang Allah bahkan memberi aku melihat keturunanmu.\""
   },
   {Bible:"Genesis", Chapter:48, Verse:12, Page:1,
-    Kor:"요셉은 이스라엘의 무릎 사이에서 두 아이들을 물러나게 하고, 땅에 얼굴을 대고 엎드려서 절을 하였다.",
+    Kor:"요셉은 이스라엘의 무릎 사이에서 두 아이들을 물러나게 하고, 땅에 얼굴을 대고 엎드려서, 절을 하였다.",
     Chn:"约瑟把两个儿子从以色列两膝中领出来，自己就脸伏于地下拜。",
     Eng:"Then Joseph removed them from Israel's knees and bowed down with his face to the ground.",
     Ind:"Lalu Yusuf menarik mereka dari antara lutut ayahnya, dan ia sujud dengan mukanya sampai ke tanah."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Setelah itu Yusuf memegang mereka keduanya, dengan tangan kanan dipegangnya Efraim, yaitu di sebelah kiri Israel, dan dengan tangan kiri Manasye, yaitu di sebelah kanan Israel, lalu didekatkannyalah mereka kepadanya."
   },
   {Bible:"Genesis", Chapter:48, Verse:14, Page:1,
-    Kor:"그런데 이스라엘은, 에브라임이 작은 아들인데도 그의 오른손을 에브라임의 머리 위에 얹고, 므낫세는 맏아들인데도 그의 왼손을 므낫세의 머리 위에 얹었다. 야곱이 그의 팔을 엇갈리게 내민 것이다.",
+    Kor:"그런데 이스라엘은, 에브라임이 작은 아들인데도, 그의 오른손을 에브라임의 머리 위에 얹고, 므낫세는 맏아들인데도, 그의 왼손을 므낫세의 머리 위에 얹었다. 야곱이 그의 팔을 엇갈리게 내민 것이다.",
     Chn:"以色列伸出右手来，按在以法莲的头上（以法莲乃是次子），又剪搭过左手来，按在玛拿西的头上（玛拿西原是长子）。",
     Eng:"But Israel reached out his right hand and put it on Ephraim's head, though he was the  younger, and crossing his arms, he put his left hand on Manasseh's head, even though Manasseh was  the firstborn.",
     Ind:"Tetapi Israel mengulurkan tangan kanannya dan meletakkannya di atas kepala Efraim, walaupun ia yang bungsu, dan tangan kirinya di atas kepala Manasye--jadi tangannya bersilang, walaupun Manasye yang sulung."
   },
   {Bible:"Genesis", Chapter:48, Verse:15, Page:1,
-    Kor:"○야곱이 요셉을 축복하였다.  \"나의 할아버지 아브라함과 아버지 이삭을 보살펴 주신 하나님, 내가 태어난 날로부터 오늘에 이르기까지 나의 목자가 되어주신 하나님,",
+    Kor:"○야곱이 요셉을 축복하였다. \"나의 할아버지 아브라함과 아버지 이삭을 보살펴 주신 하나님, 내가 태어난 날로부터 오늘에 이르기까지 나의 목자가 되어주신 하나님,",
     Chn:"他就给约瑟祝福说：「愿我祖亚伯拉罕和我父以撒所事奉的　神，就是一生牧养我直到今日的　神，",
     Eng:"Then he blessed Joseph and said, \"May the God before whom my fathers Abraham and Isaac  walked, the God who has been my shepherd all my life to this day,",
     Ind:"Sesudah itu diberkatinyalah Yusuf, katanya: \"Nenekku dan ayahku, Abraham dan Ishak, telah hidup di hadapan Allah; Allah itu, sebagai Allah yang telah menjadi gembalaku selama hidupku sampai sekarang,"
   },
   {Bible:"Genesis", Chapter:48, Verse:16, Page:1,
-    Kor:"온갖 어려움에서 나를 건져 주신 천사께서 이 아이들에게 복을 내려 주시기를 빕니다. 나의 이름과 할아버지의 이름 아브라함과 아버지의 이름 이삭이 이 아이들에게서 살아 있게 하여 주시기를 빕니다. 이 아이들의 자손이 이 땅에서 크게 불어나게 하여 주시기를 빕니다.\"",
+    Kor:"온갖 어려움에서 나를 건져 주신 천사께서, 이 아이들에게 복을 내려 주시기를 빕니다. 나의 이름과 할아버지의 이름 아브라함과 아버지의 이름 이삭이 이 아이들에게서 살아 있게 하여 주시기를 빕니다. 이 아이들의 자손이 이 땅에서 크게 불어나게 하여 주시기를 빕니다.\"",
     Chn:"救赎我脱离一切患难的那使者，赐福与这两个童子。愿他们归在我的名下和我祖亚伯拉罕、我父以撒的名下。又愿他们在世界中生养众多。」",
     Eng:"the Angel who has delivered me from all harm--may he bless these boys. May they be called  by my name and the names of my fathers Abraham and Isaac, and may they increase greatly upon the  earth.\"",
     Ind:"dan sebagai Malaikat yang telah melepaskan aku dari segala bahaya, Dialah kiranya yang memberkati orang-orang muda ini, sehingga namaku serta nama nenek dan bapaku, Abraham dan Ishak, termasyhur oleh karena mereka dan sehingga mereka bertambah-tambah menjadi jumlah yang besar di bumi.\""

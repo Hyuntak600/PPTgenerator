@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",94,23);
 BibleDB.add([
   {Bible:"Psalms", Chapter:94, Verse:1, Page:1,
-    Kor:"<주님은 악한 자를 벌하신다> 주님, 주님은 복수하시는 하나님이십니다. 복수하시는 하나님, 빛으로 나타나십시오.",
+    Kor:"주님, 복수하시는 주님, 복수하시는 하나님, 빛으로 나타나십시오.",
     Chn:"耶和华啊，你是伸冤的　神； 伸冤的　神啊，求你发出光来！",
     Eng:"O LORD, the God who avenges, O God who avenges, shine forth.",
     Ind:"Ya Allah pembalas, ya TUHAN, ya Allah pembalas, tampillah!"
@@ -21,25 +21,25 @@ BibleDB.add([
     Ind:"Berapa lama lagi orang-orang fasik, ya TUHAN, berapa lama lagi orang-orang fasik beria-ria?"
   },
   {Bible:"Psalms", Chapter:94, Verse:4, Page:1,
-    Kor:"사악한 자들이 거만하게 말하며 그들이 모두 다 거드름을 피웁니다.",
+    Kor:"그들이 거만하게 말하며 행악자들이 모두 다 거드름을 피웁니다.",
     Chn:"他们絮絮叨叨说傲慢的话； 一切作孽的人都自己夸张。",
     Eng:"They pour out arrogant words; all the evildoers are full of boasting.",
     Ind:"Mereka memuntahkan kata-kata yang kurang ajar dan semua orang yang melakukan kejahatan itu menyombong."
   },
   {Bible:"Psalms", Chapter:94, Verse:5, Page:1,
-    Kor:"주님, 그들이 주님의 백성을 짓밟으며, 주님의 택하신 민족을 괴롭힙니다.",
+    Kor:"주님, 그들이 주의 백성을 짓밟으며, 주의 택하신 민족을 괴롭힙니다.",
     Chn:"耶和华啊，他们强压你的百姓， 苦害你的产业。",
     Eng:"They crush your people, O LORD; they oppress your inheritance.",
     Ind:"Umat-Mu, ya TUHAN, mereka remukkan, dan milik-Mu sendiri mereka tindas;"
   },
   {Bible:"Psalms", Chapter:94, Verse:6, Page:1,
-    Kor:"그들은 과부와 나그네를 죽이고, 고아들을 살해하며,",
+    Kor:"그들은 과부와 나그네를 죽이고, 고아들을 살해하며",
     Chn:"他们杀死寡妇和寄居的， 又杀害孤儿。",
     Eng:"They slay the widow and the alien; they murder the fatherless.",
     Ind:"janda dan orang asing mereka sembelih, dan anak-anak yatim mereka bunuh;"
   },
   {Bible:"Psalms", Chapter:94, Verse:7, Page:1,
-    Kor:"\"주가 못 본다. 야곱의 하나님은 생각지도 못한다\" 하고 말합니다.",
+    Kor:"\"주가 못 본다. 야곱의 하나님은 생각지도 못한다\" 말합니다.",
     Chn:"他们说：耶和华必不看见； 雅各的　神必不思念。",
     Eng:"They say, \"The LORD does not see; the God of Jacob pays no heed.\"",
     Ind:"dan mereka berkata: \"TUHAN tidak melihatnya, dan Allah Yakub tidak mengindahkannya.\""
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Perhatikanlah, hai orang-orang bodoh di antara rakyat! Hai orang-orang bebal, bilakah kamu memakai akal budimu?"
   },
   {Bible:"Psalms", Chapter:94, Verse:9, Page:1,
-    Kor:"귀를 지어 주신 분이 들을 수 없겠느냐? 눈을 빚으신 분이 볼 수 없겠느냐?",
+    Kor:"귀를 지어 주신 분이 듣지 않으시겠느냐? 눈을 지어 주신 분이 보지 않으시겠느냐?",
     Chn:"造耳朵的，难道自己不听见吗？ 造眼睛的，难道自己不看见吗？",
     Eng:"Does he who implanted the ear not hear? Does he who formed the eye not see?",
     Ind:"Dia yang menanamkan telinga, masakan tidak mendengar? Dia yang membentuk mata, masakan tidak memandang?"
   },
   {Bible:"Psalms", Chapter:94, Verse:10, Page:1,
-    Kor:"뭇 나라를 꾸짖으시는 분이 벌할 수 없겠느냐? 뭇 사람을 지식으로 가르치는 분에게 지식이 없겠느냐?",
+    Kor:"나라들을 훈련시키시는 분이 벌하지 않으시겠느냐? 지식으로 교육하시는 분이 벌하지 않으시겠느냐?",
     Chn:"管教列邦的，就是叫人得知识的， 难道自己不惩治人吗？",
     Eng:"Does he who disciplines nations not punish? Does he who teaches man lack knowledge?",
     Ind:"Dia yang menghajar bangsa-bangsa, masakan tidak akan menghukum? Dia yang mengajarkan pengetahuan kepada manusia?"
   },
   {Bible:"Psalms", Chapter:94, Verse:11, Page:1,
-    Kor:"주님께서는, 사람의 속생각이 허무함을 아신다.",
+    Kor:"주께서는, 사람의 속생각이 허무함을 아신다.",
     Chn:"耶和华知道人的意念是虚妄的。",
     Eng:"The LORD knows the thoughts of man; he knows that they are futile.",
     Ind:"TUHAN mengetahui rancangan-rancangan manusia; sesungguhnya semuanya sia-sia belaka."
   },
   {Bible:"Psalms", Chapter:94, Verse:12, Page:1,
-    Kor:"주님, 주님께서 꾸짖으시고 주님의 법으로 친히 가르치시는 사람은 복이 많은 사람입니다.",
+    Kor:"주님, 주께서 훈련시키시는 사람은 복 받은 사람입니다. 주께서 주의 법으로 가르치시는 사람은 복 받은 사람입니다.",
     Chn:"耶和华啊，你所管教、 用律法所教训的人是有福的！",
     Eng:"Blessed is the man you discipline, O LORD, the man you teach from your law;",
     Ind:"Berbahagialah orang yang Kauhajar, ya TUHAN, dan yang Kauajari dari Taurat-Mu,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"untuk menenangkan dia terhadap hari-hari malapetaka, sampai digali lobang untuk orang fasik."
   },
   {Bible:"Psalms", Chapter:94, Verse:14, Page:1,
-    Kor:"주님께서는 주님의 백성을 외면하지 않으시며, 주님이 소유하신 백성을 버리지 않으실 것입니다.",
+    Kor:"주께서는 당신의 백성을 외면하지 않으시며, 당신의 소유를 버리지 않으실 것입니다.",
     Chn:"因为耶和华必不丢弃他的百姓， 也不离弃他的产业。",
     Eng:"For the LORD will not reject his people; he will never forsake his inheritance.",
     Ind:"Sebab TUHAN tidak akan membuang umat-Nya, dan milik-Nya sendiri tidak akan ditinggalkan-Nya;"
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Siapakah yang bangkit bagiku melawan orang-orang jahat, siapakah yang tampil bagiku melawan orang-orang yang melakukan kejahatan?"
   },
   {Bible:"Psalms", Chapter:94, Verse:17, Page:1,
-    Kor:"주님께서 나를 돕지 아니하셨다면, 내 목숨은 벌써 적막한 곳으로 가 버렸을 것이다.",
+    Kor:"주께서 나를 돕지 아니하셨다면, 내 목숨은 벌써 적막한 곳으로 가 버렸을 것이다.",
     Chn:"若不是耶和华帮助我， 我就住在寂静之中了。",
     Eng:"Unless the LORD had given me help, I would soon have dwelt in the silence of death.",
     Ind:"Jika bukan TUHAN yang menolong aku, nyaris aku diam di tempat sunyi."
   },
   {Bible:"Psalms", Chapter:94, Verse:18, Page:1,
-    Kor:"주님, 내가 미끄러진다고 생각할 때에는, 주님의 사랑이 나를 붙듭니다.",
+    Kor:"주님, 내가 미끄러진다고 생각할 때에는, 주의 사랑이 나를 붙듭니다.",
     Chn:"我正说我失了脚， 耶和华啊，那时你的慈爱扶助我。",
     Eng:"When I said, \"My foot is slipping,\" your love, O LORD, supported me.",
     Ind:"Ketika aku berpikir: \"Kakiku goyang,\" maka kasih setia-Mu, ya TUHAN, menyokong aku."
   },
   {Bible:"Psalms", Chapter:94, Verse:19, Page:1,
-    Kor:"내 마음이 번거로울 때에는, 주님의 위로가 나를 달래 줍니다.",
+    Kor:"내 마음이 번거로울 때에는, 주의 위로가 나를 달래 줍니다.",
     Chn:"我心里多忧多疑， 你安慰我，就使我欢乐。",
     Eng:"When anxiety was great within me, your consolation brought joy to my soul.",
     Ind:"Apabila bertambah banyak pikiran dalam batinku, penghiburan-Mu menyenangkan jiwaku."

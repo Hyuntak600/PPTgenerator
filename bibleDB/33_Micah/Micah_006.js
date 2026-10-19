@@ -3,7 +3,7 @@
 BibleDB.ref("Micah",6,16);
 BibleDB.add([
   {Bible:"Micah", Chapter:6, Verse:1, Page:1,
-    Kor:"<주님께서 이스라엘을 고발하시다> 주님께서 하시는 말씀을 들어라. \"a너는 일어나서 산 앞에서 소송 내용을 샅샅이 밝혀라. 산과 언덕이 네 말을 듣게 하여라. (a 예언자를 가리킴)",
+    Kor:"주께서 하시는 말씀을 들어라. \"너는 일어나서 산 앞에서 소송 내용을 샅샅이 밝혀라. 산과 언덕이 네 말을 듣게 하여라.",
     Chn:"以色列人哪，当听耶和华的话！ 要起来向山岭争辩， 使冈陵听你的话。",
     Eng:"Listen to what the LORD says: \"Stand up, plead your case before the mountains; let the hills hear what you have to say.",
     Ind:"Baiklah dengar firman yang diucapkan TUHAN: Bangkitlah, lancarkanlah pengaduan di depan gunung-gunung, dan biarlah bukit-bukit mendengar suaramu!"
@@ -33,31 +33,31 @@ BibleDB.add([
     Ind:"Umat-Ku, baiklah ingat apa yang dirancangkan oleh Balak, raja Moab, dan apa yang dijawab kepadanya oleh Bileam bin Beor dan apa yang telah terjadi dari Sitim sampai ke Gilgal, supaya engkau mengakui perbuatan-perbuatan keadilan dari TUHAN.\""
   },
   {Bible:"Micah", Chapter:6, Verse:6, Page:1,
-    Kor:"<주님께서 요구하시는 것> 내가 주님 앞에 나아갈 때에, 높으신 하나님께 예배드릴 때에, 무엇을 가지고 가야 합니까? 번제물로 바칠 일 년 된 송아지를 가지고 가면 됩니까?",
+    Kor:"내가 주님 앞에 나아갈 때에, 높으신 하나님께 예배드릴 때에, 무엇을 가지고 가야 합니까? 번제물로 바칠 일 년 된 송아지를 가지고 가면 됩니까?",
     Chn:"我朝见耶和华， 在至高　神面前跪拜，当献上什么呢？ 岂可献一岁的牛犊为燔祭吗？",
     Eng:"With what shall I come before the LORD and bow down before the exalted God? Shall I come before him with burnt offerings, with calves a year old?",
     Ind:"\"Dengan apakah aku akan pergi menghadap TUHAN dan tunduk menyembah kepada Allah yang di tempat tinggi? Akan pergikah aku menghadap Dia dengan korban bakaran, dengan anak lembu berumur setahun?"
   },
   {Bible:"Micah", Chapter:6, Verse:7, Page:1,
-    Kor:"수천 마리의 양이나, 수만의 강 줄기를 채울 올리브 기름을 드리면, 주님께서 기뻐하시겠습니까? 내 허물을 벗겨 주시기를 빌면서, 내 맏아들이라도 주님께 바쳐야 합니까? 내가 지은 죄를 용서하여 주시기를 빌면서, 이 몸의 열매를 주님께 바쳐야 합니까?",
+    Kor:"수천 마리의 양이나, 수만의 강 줄기를 채울 올리브 기름을 드리면, 주께서 기뻐하시겠습니까? 내 허물을 벗겨 주시기를 빌면서, 내 맏아들이라도 주님께 바쳐야 합니까? 내가 지은 죄를 용서하여 주시기를 빌면서, 이 몸의 열매를 주님께 바쳐야 합니까?",
     Chn:"耶和华岂喜悦千千的公羊， 或是万万的油河吗？ 我岂可为自己的罪过献我的长子吗？ 为心中的罪恶献我身所生的吗？",
     Eng:"Will the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I offer my firstborn for my transgression, the fruit of my body for the sin of my soul?",
     Ind:"Berkenankah TUHAN kepada ribuan domba jantan, kepada puluhan ribu curahan minyak? Akan kupersembahkankah anak sulungku karena pelanggaranku dan buah kandunganku karena dosaku sendiri?\""
   },
   {Bible:"Micah", Chapter:6, Verse:8, Page:1,
-    Kor:"너 사람아, 무엇이 착한 일인지를 주님께서 이미 말씀하셨다. 주님께서 너에게 요구하시는 것이 무엇인지도 이미 말씀하셨다. 오로지 공의를 실천하며 인자를 사랑하며 겸손히 네 하나님과 함께 행하는 것이 아니냐!",
+    Kor:"너 사람아, 무엇이 착한 일인지를 주께서 이미 말씀하셨다. 주께서 너에게 요구하시는 것이 무엇인지도 이미 말씀하셨다. 오로지 공의를 실천하며 인자를 사랑하며 겸손히 네 하나님과 함께 행하는 것이 아니냐!",
     Chn:"世人哪，耶和华已指示你何为善。 他向你所要的是什么呢？ 只要你行公义，好怜悯， 存谦卑的心，与你的　神同行。",
     Eng:"He has showed you, O man, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.",
     Ind:"\"Hai manusia, telah diberitahukan kepadamu apa yang baik. Dan apakah yang dituntut TUHAN dari padamu: selain berlaku adil, mencintai kesetiaan, dan hidup dengan rendah hati di hadapan Allahmu?\""
   },
   {Bible:"Micah", Chapter:6, Verse:9, Page:1,
-    Kor:"들어라! 주님께서 성읍을 부르신다. (주님의 이름을 경외하는 것이 지혜다.) \"너희는 매를 순히 받고 그것을 정한 나에게 순종하여라.",
+    Kor:"들어라! 주께서 성읍을 부르신다. (주의 이름을 경외하는 것이 지혜다.) \"너희는 매를 순히 받고 그것을 정하신 분께 순종하여라.",
     Chn:"耶和华向这城呼叫， 智慧人必敬畏他的名。 你们当听是谁派定刑杖的惩罚。",
     Eng:"Listen! The LORD is calling to the city--and to fear your name is wisdom-- \"Heed the rod and the One who appointed it.",
     Ind:"Dengarlah, TUHAN berseru kepada kota: --adalah bijaksana untuk takut kepada nama-Nya--:\"Dengarlah, hai suku bangsa dan orang kota!"
   },
   {Bible:"Micah", Chapter:6, Verse:10, Page:1,
-    Kor:"악한 자의 집에는, 속여서 모은 보물이 있다. b가짜 되를 쓴 그들을, 내가 어떻게 용서할 수 있겠느냐? (b 히, '축소시킨 에바'. 에바는 곡물과 같은 마른 물건의 양을 되는 단위)",
+    Kor:"악한 자의 집에는, 속여서 모은 보물이 있다. 가짜 되를 쓴 그들을, 내가 어떻게 용서할 수 있겠느냐?",
     Chn:"恶人家中不仍有非义之财 和可恶的小升斗吗？",
     Eng:"Am I still to forget, O wicked house, your ill-gotten treasures and the short ephah, which is accursed?",
     Ind:"Masakan Aku melupakan harta benda kefasikan di rumah orang fasik dan takaran efa yang kurang dan terkutuk itu?"

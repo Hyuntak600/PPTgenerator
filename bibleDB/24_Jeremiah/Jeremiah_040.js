@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",40,16);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:40, Verse:1, Page:1,
-    Kor:"근위대장 느부사라단이 라마에서 예레미야를 석방한 뒤에, 주님께서 예레미야에게 말씀하셨다. 그 때에 예레미야는 바빌로니아로 포로로 끌려가는 예루살렘과 유다의 모든 포로와 함께 수갑을 차고 끌려가고 있었다.",
+    Kor:"근위대장 느부사라단이 라마에서 예레미야를 석방한 뒤에, 주께서 예레미야에게 말씀하셨다. 그 때에 예레미야는 바빌로니아로 포로로 끌려가는 예루살렘과 유다의 모든 포로와 함께 수갑을 차고 끌려가고 있었다.",
     Chn:"耶利米锁在耶路撒冷和犹大被掳到巴比伦的人中，护卫长尼布撒拉旦将他从拉玛释放以后，耶和华的话临到耶利米。",
     Eng:"The word came to Jeremiah from the LORD after Nebuzaradan commander of the imperial guard had released him at Ramah. He had found Jeremiah bound in chains among all the captives from Jerusalem and Judah who were being carried into exile to Babylon.",
     Ind:"Firman yang datang dari pada TUHAN kepada Yeremia, sesudah ia dilepaskan dari Rama oleh Nebuzaradan, kepala pasukan pengawal, yang telah menyuruh untuk mengambilnya terbelenggu pada tangannya di tengah-tengah semua orang buangan dari Yerusalem dan Yehuda yang hendak diangkut ke dalam pembuangan ke Babel."
   },
   {Bible:"Jeremiah", Chapter:40, Verse:2, Page:1,
-    Kor:"○근위대장은 예레미야를 데려다 놓고 이렇게 말하였다. \"그대의 하나님이신 주님께서 이 곳에 이런 재앙을 내리시겠다고 말씀하셨는데,",
+    Kor:"○근위대장은 예레미야를 데려다 놓고 이렇게 말하였다. \"그대의 하나님이신 주께서 이 곳에 이런 재앙을 내리시겠다고 말씀하셨는데,",
     Chn:"护卫长将耶利米叫来，对他说：「耶和华—你的　神曾说要降这祸与此地。",
     Eng:"When the commander of the guard found Jeremiah, he said to him, \"The LORD your God decreed this disaster for this place.",
     Ind:"Kepala pasukan pengawal itu telah mengambil Yeremia dan berkata kepadanya: \"TUHAN, Allahmu, telah mengancamkan malapetaka ini atas tempat ini,"
   },
   {Bible:"Jeremiah", Chapter:40, Verse:3, Page:1,
-    Kor:"이제 그대로 하셨소. 주님께서 말씀하신 그대로 하신 것이오. 그대들이 주님께 죄를 짓고 그분의 말씀에 순종하지 않았기 때문에, 그대들이 이런 재앙을 당한 것이오.",
+    Kor:"이제 그대로 하셨소. 주께서 말씀하신 그대로 하신 것이오. 그대들이 주께 죄를 짓고 그분의 말씀에 순종하지 않았기 때문에, 그대들이 이런 재앙을 당한 것이오.",
     Chn:"耶和华使这祸临到，照他所说的行了；因为你们得罪耶和华，没有听从他的话，所以这事临到你们。",
     Eng:"And now the LORD has brought it about; he has done just as he said he would. All this happened because you people sinned against the LORD and did not obey him.",
     Ind:"dan Ia telah melaksanakannya. TUHAN telah melakukan apa yang diancamkan-Nya, oleh karena kamu telah berdosa kepada TUHAN dan tidak mendengarkan suara-Nya, sehingga terjadilah hal ini kepada kamu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Jadi pergilah Yeremia kepada Gedalya bin Ahikam di Mizpa, dan diam bersama-sama dengan dia di tengah-tengah rakyat yang masih tinggal di negeri itu."
   },
   {Bible:"Jeremiah", Chapter:40, Verse:7, Page:1,
-    Kor:"<유다 총독 그달리야(왕하 25:22-24)> ○들판에서 부하들과 함께 있는 군지휘관들은, 바빌로니아 왕이 아히감의 아들 그달리야를 이 땅의 총독으로 삼고, 남자와 여자와 어린 아이들뿐 아니라, 그 땅의 빈민 가운데서 바빌로니아로 끌려가지 않은 사람들을 그에게 맡겼다는 소식을 듣고,",
+    Kor:"○들판에서 부하들과 함께 있는 군지휘관들은, 바빌로니아 왕이 아히감의 아들 그달리야를 이 땅의 총독으로 삼고, 남자와 여자와 어린 아이들뿐 아니라, 그 땅의 빈민 가운데서 바빌로니아로 끌려가지 않은 사람들을 그에게 맡겼다는 소식을 듣고,",
     Chn:"在田野的一切军长和属他们的人听见巴比伦王立了亚希甘的儿子基大利作境内的省长，并将没有掳到巴比伦的男人、妇女、孩童，和境内极穷的人全交给他。",
     Eng:"When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children who were the poorest in the land and who had not been carried into exile to Babylon,",
     Ind:"Ketika semua panglima tentara, yang masih berada di luar kota dengan orang-orangnya, mendengar bahwa raja Babel telah mengangkat Gedalya bin Ahikam bin Safan atas negeri itu dan bahwa kepadanya telah diserahkan pengawasan atas laki-laki, perempuan dan anak-anak, yaitu dari orang-orang lemah di negeri itu, yang tidak diangkut ke dalam pembuangan ke Babel,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"maka pergilah mereka kepada Gedalya di Mizpa; mereka ialah Ismael bin Netanya, Yohanan bin Kareah, Seraya bin Tanhumet, anak-anak Efai orang Netofa itu, dan Yezanya, anak seorang Maakha, bersama dengan anak buahnya."
   },
   {Bible:"Jeremiah", Chapter:40, Verse:9, Page:1,
-    Kor:"○그 때에 사반의 손자요 아히감의 아들인 그달리야가, 지휘관들과 그들의 부하들에게 이렇게 맹세하였다. \"여러분은 바빌로니아 사람 섬기는 것을 두려워하지 마시오. 여러분은 이 땅에 살면서 바빌로니아 왕을 섬기시오. 그러면 모든 일이 다 잘될 것이오.",
+    Kor:"그 때에 사반의 손자요 아히감의 아들인 그달리야가, 지휘관들과 그들의 부하들에게 다음과 같이 맹세하였다. \"여러분은 바빌로니아 사람 섬기는 것을 두려워하지 마시오. 여러분은 이 땅에 살면서 바빌로니아 왕을 섬기시오. 그러면 모든 일이 다 잘될 것이오.",
     Chn:"沙番的孙子亚希甘的儿子基大利向他们和属他们的人起誓说：「不要怕服事迦勒底人，只管住在这地，服事巴比伦王，就可以得福。",
     Eng:"Gedaliah son of Ahikam, the son of Shaphan, took an oath to reassure them and their men. \"Do not be afraid to serve the Babylonians,\" he said. \"Settle down in the land and serve the king of Babylon, and it will go well with you.",
     Ind:"Lalu bersumpahlah Gedalya bin Ahikam bin Safan kepada mereka dengan anak buah mereka: \"Janganlah kamu takut untuk takluk kepada orang-orang Kasdim itu; tinggallah di negeri ini dan takluklah kepada raja Babel, maka keadaanmu akan menjadi baik."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Dan aku sendiri, aku menetap di Mizpa untuk bertindak sebagai wakil di depan orang-orang Kasdim yang akan datang kepada kita; tetapi kamu ini, kumpulkanlah saja hasil anggur, buah-buahan dan minyak, kemudian simpanlah sebagai persediaan, dan tinggallah di kota-kota di mana kamu hendak menetap.\""
   },
   {Bible:"Jeremiah", Chapter:40, Verse:11, Page:1,
-    Kor:"○모압과 암몬의 자손과 에돔과 그 밖에 여러 나라에 흩어져 있는 모든 유다 사람도 바빌로니아 왕이 유다 땅에 사람들을 남겨 두었으며, 사반의 손자요 아히감의 아들인 그달리야를 그들의 대표자로 세워 놓았다는 소문을 들었다.",
+    Kor:"모압과 암몬의 자손과 에돔과 그 밖에 여러 나라에 흩어져 있는 모든 유다 사람도 바빌로니아 왕이 유다 땅에 사람들을 남겨 두었으며, 사반의 손자요 아히감의 아들인 그달리야를 그들의 대표자로 세워 놓았다는 소문을 들었다.",
     Chn:"在摩押地和亚扪人中，在以东地和各国的一切犹大人，听见巴比伦王留下些犹大人，并立沙番的孙子亚希甘的儿子基大利管理他们。",
     Eng:"When all the Jews in Moab, Ammon, Edom and all the other countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them,",
     Ind:"Juga ketika semua orang Yehuda, yang ada di Moab di antara bani Amon, di Edom dan di negeri-negeri lain, mendengar bahwa raja Babel telah membiarkan tinggal sisa rakyat di Yehuda dan mengangkat Gedalya bin Ahikam bin Safan atas mereka,"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"maka kembalilah semua orang Yehuda dari segala tempat ke mana mereka telah berserak-serak, dan masuk ke tanah Yehuda kepada Gedalya di Mizpa; mereka mengumpulkan hasil anggur dan buah-buahan amat sangat banyaknya."
   },
   {Bible:"Jeremiah", Chapter:40, Verse:13, Page:1,
-    Kor:"<총독의 암살(왕하 25:25-26)> ○그런데 가레아의 아들 요하난을 비롯하여 들판에 있는 군지휘관들이, 모두 미스바의 그달리야에게 와서,",
+    Kor:"○그런데 가레아의 아들 요하난을 비롯하여 들판에 있는 군지휘관들이, 모두 미스바의 그달리야에게 와서,",
     Chn:"加利亚的儿子约哈难和在田野的一切军长来到米斯巴见基大利，",
     Eng:"Johanan son of Kareah and all the army officers still in the open country came to Gedaliah at Mizpah",
     Ind:"Pada suatu kali Yohanan bin Kareah dan semua panglima tentara yang masih berada di luar kota datang kepada Gedalya di Mizpa,"
   },
   {Bible:"Jeremiah", Chapter:40, Verse:14, Page:1,
-    Kor:"그에게 이렇게 말하였다. \"암몬 사람의 왕 바알리스가 총독님의 목숨을 빼앗으려고 느다니야의 아들 이스마엘을 보냈다는 것을, 전혀 모르고 계십니까?\" 그러나 아히감의 아들 그달리야는 그들의 말을 믿지 않았다.",
+    Kor:"그에게 이와 같이 말하였다. \"암몬 사람의 왕 바알리스가 총독님의 목숨을 빼앗으려고 느다니야의 아들 이스마엘을 보냈다는 것을, 전혀 모르고 계십니까?\" 그러나 아히감의 아들 그달리야는 그들의 말을 믿지 않았다.",
     Chn:"对他说：「亚扪人的王巴利斯打发尼探雅的儿子以实玛利来要你的命，你知道吗？」亚希甘的儿子基大利却不信他们的话。",
     Eng:"and said to him, \"Don't you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?\" But Gedaliah son of Ahikam did not believe them.",
     Ind:"dan mereka berkata kepadanya: \"Tahukah engkau bahwa Baalis, raja bani Amon, telah menyuruh Ismael bin Netanya membunuh engkau?\" Tetapi Gedalya bin Ahikam tidak percaya kepada mereka."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kemudian Yohanan bin Kareah berkata dengan diam-diam kepada Gedalya di Mizpa: \"Baiklah aku pergi membunuh Ismael bin Netanya itu dengan tidak diketahui siapapun juga. Mengapa engkau harus dibunuhnya, sehingga semua orang Yehuda yang telah berkumpul di sekelilingmu berserak-serak lagi dan sisa Yehuda itu binasa?\""
   },
   {Bible:"Jeremiah", Chapter:40, Verse:16, Page:1,
-    Kor:"○그러나 아히감의 아들 그달리야는 가레아의 아들 요하난에게 이렇게 대답하였다. \"그대는 그런 일을 해서는 안 되오. 그대가 이스마엘에 대하여 한 말은 사실일 리가 없소.\"",
+    Kor:"○그러나 아히감의 아들 그달리야는 가레아의 아들 요하난에게 이와 같이 대답하였다. \"그대는 그런 일을 해서는 안 되오. 그대가 이스마엘에 대하여 한 말은 사실일 리가 없소.\"",
     Chn:"亚希甘的儿子基大利对加利亚的儿子约哈难说：「你不可行这事，你所论以实玛利的话是假的。」",
     Eng:"But Gedaliah son of Ahikam said to Johanan son of Kareah, \"Don't do such a thing! What you are saying about Ishmael is not true.\"",
     Ind:"Tetapi Gedalya bin Ahikam menjawab Yohanan bin Kareah: \"Janganlah lakukan itu! Sebab yang kaukatakan tentang Ismael itu adalah bohong.\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",37,21);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:37, Verse:1, Page:1,
-    Kor:"<시드기야는 허수아비 왕이다> 바빌로니아 왕 느부갓네살은 여호야김의 아들 a고니야를 대신하여 요시야의 아들 시드기야를 유다 땅의 왕으로 앉혔다.(a 일명 '여호야긴')",
+    Kor:"바빌로니아 왕 느부갓네살은 여호야김의 아들 고니야를 대신하여 요시야의 아들 시드기야를 유다 땅의 왕으로 앉혔다.",
     Chn:"约西亚的儿子西底家代替约雅敬的儿子哥尼雅为王，是巴比伦王尼布甲尼撒立在犹大地作王的。",
     Eng:"Zedekiah son of Josiah was made king of Judah by Nebuchadnezzar king of Babylon; he reigned in place of Jehoiachin son of Jehoiakim.",
     Ind:"Zedekia bin Yosia menjadi raja menggantikan Konya bin Yoyakim; Nebukadnezar, raja Babel, telah mengangkat dia menjadi raja atas negeri Yehuda."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:2, Page:1,
-    Kor:"그런데 왕이나 그의 신하들이나 그 땅의 백성이나 할 것 없이 모두가, 주님께서 예언자 예레미야를 보내셔서 전한 말씀에 순종하지 않았다.",
+    Kor:"그런데 왕이나 그의 신하들이나 그 땅의 백성이나 할 것 없이 모두가, 주께서 예언자 예레미야를 보내셔서 전한 말씀에 순종하지 않았다.",
     Chn:"但西底家和他的臣仆，并国中的百姓，都不听从耶和华借先知耶利米所说的话。",
     Eng:"Neither he nor his attendants nor the people of the land paid any attention to the words the LORD had spoken through Jeremiah the prophet.",
     Ind:"Tetapi baik ia, baik pegawai-pegawainya maupun rakyat negeri itu, tidak mendengarkan firman yang disampaikan TUHAN dengan perantaraan nabi Yeremia."
@@ -27,43 +27,43 @@ BibleDB.add([
     Ind:"Adapun pada waktu itu Yeremia masih bebas pergi datang di tengah-tengah rakyat; ia belum dimasukkan orang ke dalam penjara."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:5, Page:1,
-    Kor:"바로의 군대가 이미 이집트에서 출동했고, 예루살렘을 포위했던 b바빌로니아 군인들은 그 소식을 듣고 예루살렘에서 퇴각한 때였다.(b 또는 '갈대아')",
+    Kor:"바로의 군대가 이미 이집트에서 출동했고, 예루살렘을 포위했던 바빌로니아 군인들은 그 소식을 듣고 예루살렘에서 퇴각한 때였다.",
     Chn:"法老的军队已经从埃及出来，那围困耶路撒冷的迦勒底人听见他们的风声，就拔营离开耶路撒冷去了。",
     Eng:"Pharaoh's army had marched out of Egypt, and when the Babylonians who were besieging Jerusalem heard the report about them, they withdrew from Jerusalem.",
     Ind:"Adapun tentara Firaun telah berangkat keluar dari Mesir; mendengar kabar itu maka orang-orang Kasdim yang mengepung Yerusalem angkat kaki dari Yerusalem."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:6, Page:1,
-    Kor:"○그 때에 주님께서 예언자 예레미야에게 이렇게 말씀하셨다.",
+    Kor:"○그 때에 주께서 예언자 예레미야에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华的话临到先知耶利米说：",
     Eng:"Then the word of the LORD came to Jeremiah the prophet:",
     Ind:"Lalu datanglah firman TUHAN kepada nabi Yeremia, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:37, Verse:7, Page:1,
-    Kor:"\"나 주 이스라엘의 하나님이 말한다. 너희를 보내어 나에게 물어 보도록 한 유다 왕에게 너희는 이렇게 전하여라. '너희를 도우려고 출동한 바로의 군대는 제 나라 이집트로 돌아갈 것이다.",
+    Kor:"\"나 주 이스라엘의 하나님이 이렇게 말한다. 너희를 보내어 나에게 물어 보도록 한 유다 왕에게 너희는 이렇게 전하여라. '너희를 도우려고 출동한 바로의 군대는 제 나라 이집트로 돌아갈 것이다.",
     Chn:"「耶和华—以色列的　神如此说：犹大王打发你们来求问我，你们要如此对他说：『那出来帮助你们法老的军队必回埃及本国去。",
     Eng:"\"This is what the LORD, the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, 'Pharaoh's army, which has marched out to support you, will go back to its own land, to Egypt.",
     Ind:"\"Beginilah firman TUHAN, Allah Israel. Kepada raja Yehuda, yang menyuruh kamu kepada-Ku untuk meminta petunjuk, harus kamu katakan begini: Lihat, tentara Firaun yang telah berangkat keluar untuk membantu kamu akan kembali ke negerinya, ke Mesir."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:8, Page:1,
-    Kor:"그러나 b바빌로니아 군대는 다시 와서 이 도성을 공격하여 점령하고 불질러 버릴 것이다.(b 또는 '갈대아')",
+    Kor:"그러나 바빌로니아 군대는 다시 와서 이 도성을 공격하여 점령하고 불질러 버릴 것이다.",
     Chn:"迦勒底人必再来攻打这城，并要攻取，用火焚烧。",
     Eng:"Then the Babylonians will return and attack this city; they will capture it and burn it down.'",
     Ind:"Tetapi orang-orang Kasdim akan datang kembali memerangi kota ini, merebutnya dan menghanguskannya dengan api."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:9, Page:1,
-    Kor:"나 주가 말한다. 너희는 b바빌로니아 군대가 틀림없이 너희에게서 떠나갈 것이라고 생각함으로써, 너희 자신을 속이지 말아라. 그들은 절대로 철수하지 않을 것이다.(b 또는 '갈대아')",
+    Kor:"나 주가 이렇게 말한다. 너희는 바빌로니아 군대가 틀림없이 너희에게서 떠나갈 것이라고 생각함으로써, 너희 자신을 속이지 말아라. 그들은 절대로 철수하지 않을 것이다.",
     Chn:"耶和华如此说：你们不要自欺说「迦勒底人必定离开我们」，因为他们必不离开。",
     Eng:"\"This is what the LORD says: Do not deceive yourselves, thinking, 'The Babylonians will surely leave us.' They will not!",
     Ind:"Beginilah firman TUHAN: Janganlah kamu membohongi dirimu sendiri dengan mengatakan: Orang-orang Kasdim itu telah pergi untuk selamanya dari pada kita! Padahal mereka tidak pergi untuk selamanya!"
   },
   {Bible:"Jeremiah", Chapter:37, Verse:10, Page:1,
-    Kor:"너희를 공격하는 b바빌로니아 군대 전체를 너희가 물리쳐서 오직 부상병들만 남긴다 하여도, 그들은 각자의 장막에서 떨치고 일어나 나와서, 이 도성을 불질러 버릴 것이다.'\"(b 또는 '갈대아')",
+    Kor:"너희를 공격하는 바빌로니아 군대 전체를 너희가 물리쳐서 오직 부상병들만 남긴다 하여도, 그들은 각자의 장막에서 떨치고 일어나 나와서, 이 도성을 불질러 버릴 것이다.'\"",
     Chn:"你们即便杀败了与你们争战的迦勒底全军，但剩下受伤的人也必各人从帐棚里起来，用火焚烧这城。』」",
     Eng:"Even if you were to defeat the entire Babylonian army that is attacking you and only wounded men were left in their tents, they would come out and burn this city down.\"",
     Ind:"Dan seandainya kamu memukul kalah segenap tentara orang Kasdim yang telah memerangi kamu itu, sehingga di antara mereka hanya tinggal orang-orang yang luka parah, masing-masing di kemahnya mereka akan bangun dan menghanguskan kota ini dengan api.\""
   },
   {Bible:"Jeremiah", Chapter:37, Verse:11, Page:1,
-    Kor:"<예레미야의 투옥> ○b바빌로니아 군대가 바로의 군대 때문에 예루살렘에서 철수하였을 때에,(b 또는 '갈대아')",
+    Kor:"○바빌로니아 군대가 바로의 군대 때문에 예루살렘에서 철수하였을 때에,",
     Chn:"迦勒底的军队因怕法老的军队，拔营离开耶路撒冷的时候，",
     Eng:"After the Babylonian army had withdrawn from Jerusalem because of Pharaoh's army,",
     Ind:"Ketika tentara orang Kasdim itu telah angkat kaki dari Yerusalem oleh karena takut kepada tentara Firaun,"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"maka keluarlah Yeremia dari Yerusalem untuk pergi ke daerah Benyamin dengan maksud mengurus di sana pembagian warisan di antara kaum keluarga."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:13, Page:1,
-    Kor:"그가 '베냐민 문'에 이르렀을 때에, 그 곳에 한 수문장이 있었는데, 그는 하나냐의 손자이며 셀레먀의 아들로서, 이리야라고 하는 사람이었다. 그가 예언자 예레미야를 붙들고 말하였다. \"당신은 지금 b바빌로니아 군인들에게 투항하러 가고 있소.\"(b 또는 '갈대아')",
+    Kor:"그가 '베냐민 문'에 이르렀을 때에, 그 곳에 한 수문장이 있었는데, 그는 하나냐의 손자이며 셀레먀의 아들로서, 이리야라고 하는 사람이었다. 그가 예언자 예레미야를 붙들고 말하였다. \"당신은 지금 바빌로니아 군인들에게 투항하러 가고 있소.\"",
     Chn:"他到了便雅悯门那里，有守门官名叫伊利雅，是哈拿尼亚的孙子、示利米雅的儿子，他就拿住先知耶利米，说：「你是投降迦勒底人哪！」",
     Eng:"But when he reached the Benjamin Gate, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, arrested him and said, \"You are deserting to the Babylonians!\"",
     Ind:"Tetapi ketika ia sampai ke pintu gerbang Benyamin, maka di sana ada seorang kepala jaga yang bernama Yeria bin Selemya bin Hananya; ia menangkap nabi Yeremia sambil berteriak: \"Engkau mau menyeberang kepada orang Kasdim!\""
   },
   {Bible:"Jeremiah", Chapter:37, Verse:14, Page:1,
-    Kor:"○이 말을 듣고, 예레미야가 \"그렇지 않소. 나는 b바빌로니아 진영으로 투항하러 가는 사람이 아니오\" 하고 해명하였으나, 이리야는 그 말을 듣지 않고, 예레미야를 체포하여 고관들에게로 데려갔다.(b 또는 '갈대아')",
+    Kor:"○이 말을 듣고, 예레미야가 \"그렇지 않소. 나는 바빌로니아 진영으로 투항하러 가는 사람이 아니오\" 하고 해명하였으나, 이리야는 그 말을 듣지 않고, 예레미야를 체포하여 고관들에게로 데려갔다.",
     Chn:"耶利米说：「你这是谎话，我并不是投降迦勒底人。」伊利雅不听他的话，就拿住他，解到首领那里。",
     Eng:"\"That's not true!\" Jeremiah said. \"I am not deserting to the Babylonians.\" But Irijah would not listen to him; instead, he arrested Jeremiah and brought him to the officials.",
     Ind:"Dan sekalipun Yeremia menjawab: \"Itu bohong, aku tidak hendak menyeberang kepada orang Kasdim!\", tetapi Yeria tidak mendengarkan, lalu ia menangkap Yeremia dan membawanya menghadap para pemuka."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Demikianlah halnya Yeremia masuk ke dalam ruang cadangan air di bawah tanah itu. Dan lama Yeremia tinggal di sana."
   },
   {Bible:"Jeremiah", Chapter:37, Verse:17, Page:1,
-    Kor:"○하루는 시드기야 왕이 사람을 보내어, 예레미야를 왕궁으로 데려와서, 그에게 은밀히 물어 보았다. \"주님께서 무슨 말씀을 하신 것이 없습니까?\" 그 때에 예레미야가 대답하였다. \"있습니다.\" 예레미야가 계속해서 말하였다. \"임금님께서는 바빌로니아 왕의 손아귀에 들어가실 것입니다.\"",
+    Kor:"○하루는 시드기야 왕이 사람을 보내어, 예레미야를 왕궁으로 데려와서, 그에게 은밀히 물어 보았다. \"주께서 무슨 말씀을 하신 것이 없습니까?\" 그 때에 예레미야는 \"있습니다\" 하고 대답하였다. 예레미야가 계속해서 말하였다. \"임금님께서는 바빌로니아 왕의 손아귀에 들어가실 것입니다.\"",
     Chn:"西底家王打发人提出他来，在自己的宫内私下问他说：「从耶和华有什么话临到没有？」耶利米说：「有！」又说：「你必交在巴比伦王手中。」",
     Eng:"Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, \"Is there any word from the LORD?\" \"Yes,\" Jeremiah replied, \"you will be handed over to the king of Babylon.\"",
     Ind:"Pada suatu kali raja Zedekia menyuruh orang mengambil dia. Lalu dengan diam-diam bertanyalah raja di istananya kepadanya: \"Adakah datang firman dari TUHAN?\" Jawab Yeremia: \"Ada!\" Lagi katanya: \"Bunyinya: Engkau akan diserahkan ke dalam tangan raja Babel!\""

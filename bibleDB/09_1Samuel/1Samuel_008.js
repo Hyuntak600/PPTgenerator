@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",8,22);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:8, Verse:1, Page:1,
-    Kor:"<백성이 왕을 요구하다> 사무엘은 늙자, 자기의 아들들을 이스라엘의 사사로 세웠다.",
+    Kor:"사무엘은 늙자, 자기의 아들들을 이스라엘의 사사로 세웠다.",
     Chn:"撒母耳年纪老迈，就立他儿子作以色列的士师。",
     Eng:"When Samuel grew old, he appointed his sons as judges for Israel.",
     Ind:"Setelah Samuel menjadi tua, diangkatnyalah anak-anaknya laki-laki menjadi hakim atas orang Israel."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"dan berkata kepadanya: \"Engkau sudah tua dan anak-anakmu tidak hidup seperti engkau; maka angkatlah sekarang seorang raja atas kami untuk memerintah kami, seperti pada segala bangsa-bangsa lain.\""
   },
   {Bible:"1Samuel", Chapter:8, Verse:6, Page:1,
-    Kor:"그러나 사무엘은 왕을 세워 다스리게 해 달라는 장로들의 말에 마음이 상하여, 주님께 기도를 드렸더니,",
+    Kor:"그러나 사무엘은 왕을 세워 다스리게 해 달라는 장로들의 말에 마음이 상하여, 주께 기도를 드렸더니,",
     Chn:"撒母耳不喜悦他们说「立一个王治理我们」，他就祷告耶和华。",
     Eng:"But when they said, \"Give us a king to lead us,\" this displeased Samuel; so he prayed to the LORD.",
     Ind:"Waktu mereka berkata: \"Berikanlah kepada kami seorang raja untuk memerintah kami,\" perkataan itu mengesalkan Samuel, maka berdoalah Samuel kepada TUHAN."
   },
   {Bible:"1Samuel", Chapter:8, Verse:7, Page:1,
-    Kor:"주님께서 사무엘에게 말씀하셨다. \"백성이 너에게 한 말을 다 들어 주어라. 그들이 너를 버린 것이 아니라, 나를 버려서 자기들의 왕이 되지 못하게 한 것이다.",
+    Kor:"주께서 사무엘에게 말씀하셨다. \"백성이 너에게 한 말을 다 들어 주어라. 그들이 너를 버린 것이 아니라, 나를 버려서 자기들의 왕이 되지 못하게 한 것이다.",
     Chn:"耶和华对撒母耳说：「百姓向你说的一切话，你只管依从；因为他们不是厌弃你，乃是厌弃我，不要我作他们的王。",
     Eng:"And the LORD told him: \"Listen to all that the people are saying to you; it is not you they have rejected, but they have rejected me as their king.",
     Ind:"TUHAN berfirman kepada Samuel: \"Dengarkanlah perkataan bangsa itu dalam segala hal yang dikatakan mereka kepadamu, sebab bukan engkau yang mereka tolak, tetapi Akulah yang mereka tolak, supaya jangan Aku menjadi raja atas mereka."
@@ -57,55 +57,55 @@ BibleDB.add([
     Ind:"Oleh sebab itu dengarkanlah permintaan mereka, hanya peringatkanlah mereka dengan sungguh-sungguh dan beritahukanlah kepada mereka apa yang menjadi hak raja yang akan memerintah mereka.\""
   },
   {Bible:"1Samuel", Chapter:8, Verse:10, Page:1,
-    Kor:"○사무엘은 왕을 세워 달라고 요구하는 백성들에게, 주님께서 하신 모든 말씀을 그대로 전하였다.",
+    Kor:"○사무엘은 왕을 세워 달라고 요구하는 백성들에게, 주께서 하신 모든 말씀을 그대로 전하였다.",
     Chn:"撒母耳将耶和华的话都传给求他立王的百姓，说：",
     Eng:"Samuel told all the words of the LORD to the people who were asking him for a king.",
     Ind:"Dan Samuel menyampaikan segala firman TUHAN kepada bangsa itu, yang meminta seorang raja kepadanya,"
   },
   {Bible:"1Samuel", Chapter:8, Verse:11, Page:1,
-    Kor:"\"당신들을 다스릴 왕의 권한은 이러합니다. 그는 당신들의 아들들을 데려다가 그의 병거와 말을 다루는 일을 시키고, 병거 앞에서 달리게 할 것입니다.",
+    Kor:"\"너희를 다스릴 왕의 권한은 이러하다. 그는 너희의 아들들을 데려다가 그의 병거와 말을 다루는 일을 시키고, 병거 앞에서 달리게 할 것이다.",
     Chn:"「管辖你们的王必这样行：他必派你们的儿子为他赶车、跟马，奔走在车前；",
     Eng:"He said, \"This is what the king who will reign over you will do: He will take your sons and make them serve with his chariots and horses, and they will run in front of his chariots.",
     Ind:"katanya: \"Inilah yang menjadi hak raja yang akan memerintah kamu itu: anak-anakmu laki-laki akan diambilnya dan dipekerjakannya pada keretanya dan pada kudanya, dan mereka akan berlari di depan keretanya;"
   },
   {Bible:"1Samuel", Chapter:8, Verse:12, Page:1,
-    Kor:"그는 당신들의 아들들을 천부장과 오십부장으로 임명하기도 하고, 왕의 밭을 갈게도 하고, 곡식을 거두어들이게도 하고, 무기와 병거의 장비도 만들게 할 것입니다.",
+    Kor:"그는 너희의 아들들을 천부장과 오십부장으로 임명하기도 하고, 왕의 밭을 갈게도 하고, 곡식을 거두어들이게도 하고, 무기와 병거의 장비도 만들게 할 것이다.",
     Chn:"又派他们作千夫长、五十夫长，为他耕种田地，收割庄稼，打造军器和车上的器械；",
     Eng:"Some he will assign to be commanders of thousands and commanders of fifties, and others to plow his ground and reap his harvest, and still others to make weapons of war and equipment for his chariots.",
     Ind:"ia akan menjadikan mereka kepala pasukan seribu dan kepala pasukan lima puluh; mereka akan membajak ladangnya dan mengerjakan penuaian baginya; senjata-senjatanya dan perkakas keretanya akan dibuat mereka."
   },
   {Bible:"1Samuel", Chapter:8, Verse:13, Page:1,
-    Kor:"그는 당신들의 딸들을 데려다가, 향유도 만들게 하고 요리도 시키고 빵도 굽게 할 것입니다.",
+    Kor:"그는 너희의 딸들을 데려다가, 향유도 만들게 하고 요리도 시키고 빵도 굽게 할 것이다.",
     Chn:"必取你们的女儿为他制造香膏，做饭烤饼；",
     Eng:"He will take your daughters to be perfumers and cooks and bakers.",
     Ind:"Anak-anakmu perempuan akan diambilnya sebagai juru campur rempah-rempah, juru masak dan juru makanan."
   },
   {Bible:"1Samuel", Chapter:8, Verse:14, Page:1,
-    Kor:"그는 당신들의 밭과 포도원과 올리브 밭에서 가장 좋은 것을 가져다가 왕의 신하들에게 줄 것이며,",
+    Kor:"그는 너희의 밭과 포도원과 올리브 밭에서 가장 좋은 것을 가져다가 왕의 신하들에게 줄 것이며,",
     Chn:"也必取你们最好的田地、葡萄园、橄榄园赐给他的臣仆。",
     Eng:"He will take the best of your fields and vineyards and olive groves and give them to his attendants.",
     Ind:"Selanjutnya dari ladangmu, kebun anggurmu dan kebun zaitunmu akan diambilnya yang paling baik dan akan diberikannya kepada pegawai-pegawainya"
   },
   {Bible:"1Samuel", Chapter:8, Verse:15, Page:1,
-    Kor:"당신들이 둔 곡식과 포도에서도 열에 하나를 거두어 왕의 관리들과 신하들에게 줄 것입니다.",
+    Kor:"너희가 거둔 곡식과 포도에서도 열에 하나를 거두어 왕의 관리들과 신하들에게 줄 것이다.",
     Chn:"你们的粮食和葡萄园所出的，他必取十分之一给他的太监和臣仆；",
     Eng:"He will take a tenth of your grain and of your vintage and give it to his officials and attendants.",
     Ind:"dari gandummu dan hasil kebun anggurmu akan diambilnya sepersepuluh dan akan diberikannya kepada pegawai-pegawai istananya dan kepada pegawai-pegawainya yang lain."
   },
   {Bible:"1Samuel", Chapter:8, Verse:16, Page:1,
-    Kor:"그는 당신들의 남종들과 여종들과 a가장 뛰어난 젊은이들과 나귀들을 끌어다가 왕의 일을 시킬 것입니다.(a 칠십인역에는 '너희가 가진 가장 좋은 짐승들과')",
+    Kor:"그는 너희의 남종들과 여종들과 가장 뛰어난 젊은이들과 나귀들을 끌어다가 왕의 일을 시킬 것이다.",
     Chn:"又必取你们的仆人婢女，健壮的少年人和你们的驴，供他的差役。",
     Eng:"Your menservants and maidservants and the best of your cattle and donkeys he will take for his own use.",
     Ind:"Budak-budakmu laki-laki dan budak-budakmu perempuan, ternakmu yang terbaik dan keledai-keledaimu akan diambilnya dan dipakainya untuk pekerjaannya."
   },
   {Bible:"1Samuel", Chapter:8, Verse:17, Page:1,
-    Kor:"그는 또 당신들의 양 떼 가운데서 열에 하나를 거두어 갈 것이며, 마침내 당신들까지 왕의 종이 될 것입니다.",
+    Kor:"그는 또 너희의 양 떼 가운데서 열에 하나를 거두어 갈 것이며, 마침내 너희들까지 왕의 종이 될 것이다.",
     Chn:"你们的羊群他必取十分之一，你们也必作他的仆人。",
     Eng:"He will take a tenth of your flocks, and you yourselves will become his slaves.",
     Ind:"Dari kambing dombamu akan diambilnya sepersepuluh, dan kamu sendiri akan menjadi budaknya."
   },
   {Bible:"1Samuel", Chapter:8, Verse:18, Page:1,
-    Kor:"그 때에야 당신들이 스스로 택한 왕 때문에 울부짖을 터이지만, 그 때에 주님께서는 당신들의 기도에 응답하지 않으실 것입니다.\"",
+    Kor:"그 때에야 너희가 스스로 택한 왕 때문에 울부짖을 터이지만, 그 때에 주께서는 너희의 기도에 응답하지 않으실 것이다.\"",
     Chn:"那时你们必因所选的王哀求耶和华，耶和华却不应允你们。」",
     Eng:"When that day comes, you will cry out for relief from the king you have chosen, and the LORD will not answer you in that day.\"",
     Ind:"Pada waktu itu kamu akan berteriak karena rajamu yang kamu pilih itu, tetapi TUHAN tidak akan menjawab kamu pada waktu itu.\""
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"maka kamipun akan sama seperti segala bangsa-bangsa lain; raja kami akan menghakimi kami dan memimpin kami dalam perang.\""
   },
   {Bible:"1Samuel", Chapter:8, Verse:21, Page:1,
-    Kor:"사무엘이 백성의 모든 말을 듣고 나서, 주님께서 들으시도록 다 아뢰니,",
+    Kor:"사무엘이 백성의 모든 말을 듣고 나서, 주께서 들으시도록 다 아뢰니,",
     Chn:"撒母耳听见百姓这一切话，就将这话陈明在耶和华面前。",
     Eng:"When Samuel heard all that the people said, he repeated it before the LORD.",
     Ind:"Samuel mendengar segala perkataan bangsa itu, dan menyampaikannya kepada TUHAN."
   },
   {Bible:"1Samuel", Chapter:8, Verse:22, Page:1,
-    Kor:"주님께서 사무엘에게 말씀하셨다. \"너는 그들의 말을 받아들여서 그들에게 왕을 세워 주어라.\" 그래서 사무엘은 이스라엘 사람들에게, 각자 자기의 성읍으로 돌아가라고 일렀다.",
+    Kor:"주께서 사무엘에게 말씀하셨다. \"너는 그들의 말을 받아들여서 그들에게 왕을 세워 주어라.\" 그래서 사무엘은 이스라엘 사람들에게, 각자 자기의 성읍으로 돌아가라고 일렀다.",
     Chn:"耶和华对撒母耳说：「你只管依从他们的话，为他们立王。」撒母耳对以色列人说：「你们各归各城去吧！」",
     Eng:"The LORD answered, \"Listen to them and give them a king.\" Then Samuel said to the men of Israel, \"Everyone go back to his town.\"",
     Ind:"TUHAN berfirman kepada Samuel: \"Dengarkanlah permintaan mereka dan angkatlah seorang raja bagi mereka.\" Kemudian berkatalah Samuel kepada orang-orang Israel itu: \"Pergilah, masing-masing ke kotanya.\""

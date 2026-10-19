@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",40,49);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:40, Verse:1, Page:1,
-    Kor:"<새 예루살렘과 새 성전> 우리가 포로로 잡혀온 지 이십오 년째가 되는 해, 예루살렘 도성이 함락된 지 십사 년째가 되는 해의 첫째 달, 그 달 십일 바로 그 날에, 주님의 권능이 나를 사로잡아, 나를 이스라엘 땅으로 데리고 가셨다.",
+    Kor:"우리가 포로로 잡혀온 지 이십오 년째가 되는 해, 예루살렘 도성이 함락된 지 십사 년째가 되는 해의 첫째 달, 그 달 십일, 바로 그 날에, 주의 권능이 나를 사로잡아, 나를 이스라엘 땅으로 데리고 가셨다.",
     Chn:"我们被掳掠第二十五年，耶路撒冷城攻破后十四年，正在年初，月之初十日，耶和华的灵降在我身上，他把我带到以色列地。",
     Eng:"In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city--on that very day the hand of the LORD was upon me and he took me there.",
     Ind:"Dalam tahun kedua puluh lima sesudah pembuangan kami, yaitu pada permulaan tahun, pada tanggal sepuluh bulan itu, dalam tahun keempat belas sesudah kota itu ditaklukkan, pada hari itu juga kekuasaan TUHAN meliputi aku dan dibawa-Nya aku"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Orang itu berbicara kepadaku: \"Hai anak manusia, lihatlah dengan teliti dan dengarlah dengan sungguh-sungguh dan perhatikanlah baik-baik segala sesuatu yang akan kuperlihatkan kepadamu; sebab untuk itulah engkau dibawa ke mari, supaya aku memperlihatkan semuanya itu kepadamu. Beritahukanlah segala sesuatu yang kaulihat kepada kaum Israel.\""
   },
   {Bible:"Ezekiel", Chapter:40, Verse:5, Page:1,
-    Kor:"<동쪽으로 난 문> ○성전 바깥에는 사방으로 담이 있었다. 그 사람의 손에는 측량하는 장대가 있었는데, 그 장대의 길이는, 팔꿈치에서 가운데 손가락 끝에 이르고, 한 손바닥 너비가 더 되는 자로 여섯 자였다. 그가 그 담을 측량하였는데, 두께가 한 장대요, 높이가 한 장대였다.",
+    Kor:"○성전 바깥에는 사방으로 담이 있었다. 그 사람의 손에는 측량하는 장대가 있었는데, 그 장대의 길이는, 팔꿈치에서 가운데 손가락 끝에 이르고, 한 손바닥 너비가 더 되는 자로 여섯 자였다. 그가 그 담을 측량하였는데, 두께가 한 장대요, 높이가 한 장대였다.",
     Chn:"我见殿四围有墙。那人手拿量度的竿，长六肘，每肘是一肘零一掌。他用竿量墙，厚一竿，高一竿。",
     Eng:"I saw a wall completely surrounding the temple area. The length of the measuring rod in the man's hand was six long cubits, each of which was a cubit and a handbreadth. He measured the wall; it was one measuring rod thick and one rod high.",
     Ind:"Lihat, di luar bangunan itu ada tembok, seluruh keliling bangunan itu. Dan di tangan orang itu ada tongkat pengukur, yang panjangnya enam hasta. --Hasta ini setapak tangan lebih panjang dari hasta biasa--.Ia mengukur tembok itu, tebalnya satu tongkat dan tingginya satu tongkat."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:6, Page:1,
-    Kor:"그가 동쪽으로 난 문으로 들어가, 계단으로 올라가서 문간을 재니, 길이가 한 장대였다.a(a 칠십인역을 따름. 히, '첫째 문간의 길이도 한 장대였다'가 더 있음)",
+    Kor:"그가 동쪽으로 난 문으로 들어가, 계단으로 올라가서 문간을 재니, 길이가 한 장대였다.",
     Chn:"他到了朝东的门，就上门的台阶，量门的这槛，宽一竿；又量门的那槛，宽一竿。",
     Eng:"Then he went to the gate facing east. He climbed its steps and measured the threshold of the gate; it was one rod deep.",
     Ind:"Lalu ia sampai di pintu gerbang yang menghadap ke timur dan menaiki tangganya, ia mengukur ambang dari pintu gerbang itu: satu tongkat lebarnya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Kemudian ia mengukur kamar jaga: panjangnya satu tongkat dan lebarnya satu tongkat, dan jarak antara dua kamar jaga adalah lima hasta. Dan ambang pintu gerbang sebelah dalam yang dekat balai gerbang itu adalah satu tongkat."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:8, Page:1,
-    Kor:"b또 그가 문 통로의 안쪽 현관을 재니,(b 8, 9절은 많은 히브리어 사본과 칠십인역과 불가타와 시리아어역을 따름. 히, '8. 또 그가 성전으로 들어가는 문 통로의 안쪽 현관을 재니 길이가 한 장대였다. 9. 그가 또 문 통로의 안쪽 현관을 재니 길이가 여덟 자요……')",
+    Kor:"또 그가 문 통로의 안쪽 현관을 재니,",
     Chn:"他又量向殿门的廊子，宽一竿。",
     Eng:"Then he measured the portico of the gateway;",
     Ind:"Kemudian ia mengukur balai gerbang itu: delapan hasta"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Pada sekeliling pintu gerbang itu di bagian dalam ada jendela-jendela dengan bidai, yaitu di kamar-kamar jaga dan pada tiang-tiang tembok dan begitu juga pada balai gerbang. Dan pada tiang-tiang tembok itu terukir gambar pohon-pohon korma."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:17, Page:1,
-    Kor:"<바깥 뜰> ○그런 다음에 그 사람이 나를 데리고 바깥 뜰로 들어갔는데, 그 바깥 뜰에는 사방으로 행랑방들이 있고, 길에는 돌을 깔아 놓았는데, 그 돌이 깔린 길을 따라, 서른 채의 행랑이 붙어 있었다.",
+    Kor:"○그런 다음에 그 사람이 나를 데리고 바깥 뜰로 들어갔는데, 그 바깥 뜰에는 사방으로 행랑방들이 있고, 길에는 돌을 깔아 놓았는데, 그 돌이 깔린 길을 따라, 서른 채의 행랑이 붙어 있었다.",
     Chn:"他带我到外院，见院的四围有铺石地；铺石地上有屋子三十间。",
     Eng:"Then he brought me into the outer court. There I saw some rooms and a pavement that had been constructed all around the court; there were thirty rooms along the pavement.",
     Ind:"Lalu dibawanya aku ke pelataran luar, sungguh, sekeliling pelataran itu ada bilik-bilik, yang jumlahnya tiga puluh. Dan bilik-bilik itu dibangun di atas sebuah lantai batu."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Kemudian ia mengukur lebar pelataran itu dari sebelah dalam pintu gerbang bawah sampai sebelah luar pintu gerbang dalam: seratus hasta. Lalu ia berjalan di depanku menuju ke utara"
   },
   {Bible:"Ezekiel", Chapter:40, Verse:20, Page:1,
-    Kor:"<북쪽으로 난 문> ○또 그 사람이 나를 바깥 뜰에 붙은 북쪽으로 난 문으로 데리고 가서, 그 문의 길이와 너비를 재었다.",
+    Kor:"○또 그 사람이 나를 바깥 뜰에 붙은 북쪽으로 난 문으로 데리고 가서, 그 문의 길이와 너비를 재었다.",
     Chn:"他量外院朝北的门，长宽若干。",
     Eng:"Then he measured the length and width of the gate facing north, leading into the outer court.",
     Ind:"dan sungguh, ada pintu gerbang yang menghadap ke utara, yang termasuk pelataran luar. Ia mengukur panjang dan lebarnya."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Di pelataran dalam ada sebuah pintu gerbang yang berhadapan dengan pintu gerbang utara sama seperti halnya dengan pintu gerbang timur; ia mengukur dari pintu gerbang sampai pintu gerbang: seratus hasta."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:24, Page:1,
-    Kor:"<남쪽으로 난 문> ○또 그 사람이 나를 데리고 남쪽으로 갔는데, 거기에도 남쪽으로 난 문이 있었다. 그가 그 문의 벽기둥과 현관을 재니, 크기가 위에서 본 다른 두 문과 같았다.",
+    Kor:"○또 그 사람이 나를 데리고 남쪽으로 갔는데, 거기에도 남쪽으로 난 문이 있었다. 그가 그 문의 벽기둥과 현관을 재니, 크기가 위에서 본 다른 두 문과 같았다.",
     Chn:"他带我往南去，见朝南有门，又照先前的尺寸量门洞的柱子和廊子。",
     Eng:"Then he led me to the south side and I saw a gate facing south. He measured its jambs and its portico, and they had the same measurements as the others.",
     Ind:"Kemudian ia membawa aku menuju selatan, sungguh, ada sebuah pintu gerbang yang menghadap ke selatan; ia mengukur kamar-kamar jaganya, tiang-tiang temboknya dan balai gerbangnya, ukurannya sama saja dengan yang lain-lain."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Sekeliling pintu gerbang itu dan balai gerbangnya ada jendela-jendela, yang sama dengan yang lain-lain; panjang pintu gerbang itu lima puluh hasta dan lebarnya dua puluh lima hasta."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:26, Page:1,
-    Kor:"일곱 계단을 올라서 문으로 들어가도록 되어 있고, c현관은 안쪽에 있었다. 양쪽의 벽기둥 위에는 종려나무가 한 그루씩 새겨져 있었다.(c 칠십인역과 불가타를 따름. 히, '벽기둥들')",
+    Kor:"일곱 계단을 올라서 문으로 들어가도록 되어 있고, 현관은 안쪽에 있었다. 양쪽의 벽기둥 위에는 종려나무가 한 그루씩 새겨져 있었다.",
     Chn:"登七层台阶上到这门，前面有廊子；柱上有雕刻的棕树，这边一棵，那边一棵。",
     Eng:"Seven steps led up to it, with its portico opposite them; it had palm tree decorations on the faces of the projecting walls on each side.",
     Ind:"Tangga ke situ adalah tujuh tingkat, dan balai gerbangnya ada sebelah dalam. Pada pintu gerbang itu juga, di tiang-tiang temboknya, terukir gambar pohon-pohon korma, satu batang di sebelah sini dan satu batang di sebelah sana."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Di bagian selatan pelataran dalam ada juga pintu gerbang; ia mengukur dari pintu gerbang sampai pintu gerbang di bagian selatan: seratus hasta."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:28, Page:1,
-    Kor:"<안뜰의 남쪽 문> ○또 그 사람이 나를 데리고 남쪽 문을 지나 안뜰로 들어갔다. 그가 남쪽 문을 재니, 크기가 다른 문들과 같았다.",
+    Kor:"○또 그 사람이 나를 데리고 남쪽 문을 지나 안뜰로 들어갔다. 그가 남쪽 문을 재니, 크기가 다른 문들과 같았다.",
     Chn:"他带我从南门到内院，就照先前的尺寸量南门。",
     Eng:"Then he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.",
     Ind:"Lalu dibawanya aku ke pelataran dalam melalui pintu gerbang selatan dan ia mengukur pintu gerbang itu, ukurannya sama saja dengan yang lain-lain."
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Sekelilingnya ada balai-balai gerbang, panjangnya dua puluh lima hasta dan lebarnya lima hasta. --"
   },
   {Bible:"Ezekiel", Chapter:40, Verse:31, Page:1,
-    Kor:"그 대문의 c현관은 바깥 뜰로 나 있고, 그 벽기둥 위에는 종려나무가 새겨져 있고, 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.(c 칠십인역과 불가타를 따름. 히, '벽기둥들')",
+    Kor:"그 대문의 현관은 바깥 뜰로 나 있고, 그 벽기둥 위에는 종려나무가 새겨져 있고, 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.",
     Chn:"廊子朝着外院，柱上有雕刻的棕树。登八层台阶上到这门。",
     Eng:"Its portico faced the outer court; palm trees decorated its jambs, and eight steps led up to it.",
     Ind:"Balai gerbangnya adalah sebelah pelataran luar dan pada tiang-tiang temboknya terukir gambar pohon-pohon korma dan tangganya ke atas ada delapan tingkat."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:32, Page:1,
-    Kor:"<안뜰의 동쪽 문> ○그 사람이 나를 데리고 동쪽으로 난 안뜰로 들어가서, 거기에 있는 중문을 재니, 그 크기가 다른 문과 같았다.",
+    Kor:"○그 사람이 나를 데리고 동쪽으로 난 안뜰로 들어가서, 거기에 있는 중문을 재니, 그 크기가 다른 문과 같았다.",
     Chn:"他带我到内院的东面，就照先前的尺寸量东门。",
     Eng:"Then he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others.",
     Ind:"Lalu dibawanya aku ke sebelah timur pelataran dalam dan ia mengukur pintu gerbang yang di situ, dan ukurannya sama saja dengan yang lain-lain."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Kamar-kamar jaganya, tiang-tiang temboknya dan balai gerbangnya, ukurannya sama saja dengan yang lain-lain. Sekeliling pintu gerbang itu dan balai gerbangnya ada jendela-jendela; panjang pintu gerbang itu lima puluh hasta dan lebarnya dua puluh lima hasta."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:34, Page:1,
-    Kor:"그 중문의 c현관은 바깥 뜰로 나 있으며, 문 양편의 벽기둥들 위에는 종려나무가 새겨져 있었다. 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.(c 칠십인역과 불가타를 따름. 히, '벽기둥들')",
+    Kor:"그 중문의 현관은 바깥 뜰로 나 있으며, 문 양편의 벽기둥들 위에는 종려나무가 새겨져 있었다. 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.",
     Chn:"廊子朝着外院。门洞两旁的柱子都有雕刻的棕树。登八层台阶上到这门。",
     Eng:"Its portico faced the outer court; palm trees decorated the jambs on either side, and eight steps led up to it.",
     Ind:"Balai gerbangnya adalah sebelah pelataran luar dan pada tiang-tiang temboknya terukir gambar pohon-pohon korma, sebelah sini dan sebelah sana, dan tangganya ke atas ada delapan tingkat."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:35, Page:1,
-    Kor:"<안뜰 북쪽 중문> ○또 그 사람이 나를 데리고 북쪽으로 들어가서 재니, 그 크기가 다른 문과 같았다.",
+    Kor:"○또 그 사람이 나를 데리고 북쪽으로 들어가서 재니, 그 크기가 다른 문과 같았다.",
     Chn:"他带我到北门，就照先前的尺寸量那门，",
     Eng:"Then he brought me to the north gate and measured it. It had the same measurements as the others,",
     Ind:"Kemudian dibawanya aku ke pintu gerbang utara dan ia mengukurnya, dan ukurannya sama saja dengan yang lain-lain."
@@ -219,13 +219,13 @@ BibleDB.add([
     Ind:"Kamar-kamar jaganya, tiang-tiang temboknya dan balai gerbangnya, ukurannya sama saja dengan yang lain-lain, dan sekelilingnya ada jendela-jendela; panjang pintu gerbang itu lima puluh hasta dan lebarnya dua puluh lima hasta."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:37, Page:1,
-    Kor:"그 중문의 c현관도 바깥 뜰을 향하고 있으며, 중문 양쪽의 벽기둥들 위에는 종려나무가 새겨져 있었다. 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.(c 칠십인역과 불가타를 따름. 히, '벽기둥들')",
+    Kor:"그 중문의 현관도 바깥 뜰을 향하고 있으며, 중문 양쪽의 벽기둥들 위에는 종려나무가 새겨져 있었다. 그 중문으로 들어가는 어귀에는 여덟 계단이 있었다.",
     Chn:"廊柱朝着外院。门洞两旁的柱子都有雕刻的棕树。登八层台阶上到这门。",
     Eng:"Its portico faced the outer court; palm trees decorated the jambs on either side, and eight steps led up to it.",
     Ind:"Balai gerbangnya adalah sebelah pelataran luar, dan pada tiang-tiang temboknya terukir gambar pohon-pohon korma, sebelah sini dan sebelah sana, dan tangganya ke atas ada delapan tingkat."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:38, Page:1,
-    Kor:"<안뜰 북쪽 중문의 부속 건물들> ○안뜰 북쪽 중문 곁에는 문이 달린 방이 하나 있었는데, 그 방은 번제물을 씻는 곳이었다.",
+    Kor:"○안뜰 북쪽 중문 곁에는 문이 달린 방이 하나 있었는데, 그 방은 번제물을 씻는 곳이었다.",
     Chn:"门洞的柱旁有屋子和门；祭司在那里洗燔祭牲。",
     Eng:"A room with a doorway was by the portico in each of the inner gateways, where the burnt offerings were washed.",
     Ind:"Ada juga sebuah bilik, yang pintunya di balai gerbang dan di sana orang membasuh korban bakaran."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Sekeliling ruangan itu dipakukan gantungan-gantungan yang panjangnya setapak tangan, dan di atas meja-meja itu diletakkan daging korban."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:44, Page:1,
-    Kor:"○d또 안뜰의 바깥쪽에는 방 두 개가 있는데, 하나는 북쪽 중문의 한쪽 모퉁이 벽 곁에 있어서 남쪽을 향해 있고, 다른 하나는 e남쪽 중문의 한쪽 모퉁이 벽 곁에 있어서 북쪽을 향하여 있었다.(d 칠십인역을 따름. 히, '안문 통로의 바깥쪽으로 안뜰 안에 노래하는 사람들이 쓰는 두 방이 있는데, 북쪽 중문의 한쪽……' e 칠십인역을 따름. 히, '동쪽')",
+    Kor:"○또 안뜰의 바깥쪽에는 방 두 개가 있는데, 하나는 북쪽 중문의 한쪽 모퉁이 벽 곁에 있어서 남쪽을 향해 있고, 다른 하나는 남쪽 중문의 한쪽 모퉁이 벽 곁에 있어서 북쪽을 향하여 있었다.",
     Chn:"在北门旁，内院里有屋子，为歌唱的人而设。这屋子朝南；在南门旁，又有一间朝北。",
     Eng:"Outside the inner gate, within the inner court, were two rooms, one at the side of the north gate and facing south, and another at the side of the south gate and facing north.",
     Ind:"Lalu dibawanya aku ke pelataran dalam, sungguh, di sana ada dua bilik, yaitu satu di samping pintu gerbang utara dan mukanya menghadap ke selatan, satu lagi di samping pintu gerbang selatan dan mukanya menghadap ke utara."
@@ -279,13 +279,13 @@ BibleDB.add([
     Ind:"dan bilik yang mukanya menghadap ke utara, adalah bagi imam-imam yang bertugas di mezbah; mereka ini adalah bani Zadok dan hanya golongan inilah dari bani Lewi yang boleh mendekat kepada TUHAN untuk menyelenggarakan kebaktian.\""
   },
   {Bible:"Ezekiel", Chapter:40, Verse:47, Page:1,
-    Kor:"<안뜰과 성전 건물> ○그가 또 안뜰을 재니, 길이가 백 자요 너비도 백 자인 정사각형이었다. 제단은 성전 본당 앞에 놓여 있었다.",
+    Kor:"○그가 또 안뜰을 재니, 길이가 백 자요, 너비도 백 자인 정사각형이었다. 제단은 성전 본당 앞에 놓여 있었다.",
     Chn:"他又量内院，长一百肘，宽一百肘，是见方的。祭坛在殿前。",
     Eng:"Then he measured the court: It was square--a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.",
     Ind:"Lalu ia mengukur pelataran dalam: itu suatu empat persegi, yang panjangnya seratus hasta dan lebarnya seratus hasta; mezbah ada di hadapan Bait Suci."
   },
   {Bible:"Ezekiel", Chapter:40, Verse:48, Page:1,
-    Kor:"○그 사람이 나를 데리고 성전 현관으로 들어가서, 현관 벽기둥들을 재니, 양쪽에 있는 것이 각각 두께가 다섯 자였다. 문 어귀의 너비는 열넉 자이고 f문의 양 옆 벽의 두께는 석 자였다.(f 칠십인역을 따름. 히, '문 어귀는 석 자였다')",
+    Kor:"○그 사람이 나를 데리고 성전 현관으로 들어가서, 현관 벽기둥들을 재니, 양쪽에 있는 것이 각각 두께가 다섯 자였다. 문 어귀의 너비는 열넉 자이고 문의 양 옆 벽의 두께는 석 자였다.",
     Chn:"于是他带我到殿前的廊子，量廊子的墙柱。这面厚五肘，那面厚五肘。门两旁，这边三肘，那边三肘。",
     Eng:"He brought me to the portico of the temple and measured the jambs of the portico; they were five cubits wide on either side. The width of the entrance was fourteen cubits and its projecting walls were three cubits wide on either side.",
     Ind:"Lalu dibawanya aku ke balai Bait Suci dan ia mengukur tiang-tiang temboknya: tebalnya lima hasta yang sebelah sini dan lima hasta yang sebelah sana; lebar pintu itu empat belas hasta dan dinding sampingnya masing-masing tiga hasta."

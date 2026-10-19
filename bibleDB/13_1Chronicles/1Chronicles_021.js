@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",21,30);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:21, Verse:1, Page:1,
-    Kor:"<다윗의 인구조사(삼하 24:1-25)> 사탄이 이스라엘을 치려고 일어나서, 다윗을 부추겨, 이스라엘의 인구를 조사하게 하였다.",
+    Kor:"사탄이 이스라엘을 치려고 일어나서, 다윗을 부추겨, 이스라엘의 인구를 조사하게 하였다.",
     Chn:"撒但起来攻击以色列人，激动大卫数点他们。",
     Eng:"Satan rose up against Israel andincited David to take a census of Israel.",
     Ind:"Iblis bangkit melawan orang Israel dan ia membujuk Daud untuk menghitung orang Israel."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Daud kepada Yoab dan kepada para pemuka rakyat: \"Pergilah, hitunglah orang Israel dari Bersyeba sampai Dan, dan bawalah hasilnya kepadaku, supaya aku tahu jumlah mereka.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:3, Page:1,
-    Kor:"○그러자 요압이 말하였다. \"주님께서 그의 백성을, 지금보다 백 배나 더 불어나게 하여 주시기를 원합니다. 높으신 임금님, 백성 모두가 다 임금님의 종들이 아닙니까? 그런데 어찌하여 임금님께서 이런 일을 명하십니까? 어찌하여 임금님께서는 이스라엘을 벌받게 하시려고 하십니까?\"",
+    Kor:"○그러자 요압이 말하였다. \"주께서 그의 백성을, 지금보다 백 배나 더 불어나게 하여 주시기를 원합니다. 높으신 임금님, 백성 모두가 다 임금님의 종들이 아닙니까? 그런데 어찌하여 임금님께서 이런 일을 명하십니까? 어찌하여 임금님께서는 이스라엘을 벌받게 하시려고 하십니까?\"",
     Chn:"约押说：「愿耶和华使他的百姓比现在加增百倍。我主我王啊，他们不都是你的仆人吗？我主为何吩咐行这事，为何使以色列人陷在罪里呢？」",
     Eng:"But Joab replied, \"May the Lord multiply his troops a hundred times over. My lord the king, are they not all my lord's subjects? Why does my lord want to do this? Why should he bring guilt on Israel?\"",
     Ind:"Lalu berkatalah Yoab: \"Kiranya TUHAN menambahi rakyat-Nya seratus kali lipat dari pada yang ada sekarang. Ya tuanku raja, bukankah mereka sekalian, hamba-hamba tuanku? Mengapa tuanku menuntut hal ini? Mengapa orang Israel harus menanggung kesalahan oleh karena hal itu?\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Daud kepada Allah: \"Aku telah sangat berdosa karena melakukan hal ini; maka sekarang, jauhkanlah kiranya kesalahan hamba-Mu, sebab perbuatanku itu sangat bodoh.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:9, Page:1,
-    Kor:"○주님께서 다윗의 선견자 갓에게 말씀하셨다.",
+    Kor:"○주께서 다윗의 선견자 갓에게 말씀하셨다.",
     Chn:"耶和华吩咐大卫的先见迦得说：",
     Eng:"The Lord said to Gad, David's seer,",
     Ind:"Tetapi berfirmanlah TUHAN kepada Gad, pelihat Daud:"
@@ -63,55 +63,55 @@ BibleDB.add([
     Ind:"\"Pergilah, katakanlah kepada Daud: Beginilah firman TUHAN: tiga perkara Kuhadapkan kepadamu; pilihlah salah satu dari padanya, maka Aku akan melakukannya kepadamu.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:11, Page:1,
-    Kor:"○갓이 다윗에게 가서 말하였다. \"주님께서 말씀하십니다. '너는 선택하여라.",
+    Kor:"○갓이 다윗에게 가서 말하였다. \"주께서 말씀하십니다. '너는 선택하여라.",
     Chn:"于是，迦得来见大卫，对他说：「耶和华如此说：『你可以随意选择：",
     Eng:"So Gad went to David and said to him, \"This is what the Lord says: 'Take your choice:",
     Ind:"Kemudian datanglah Gad kepada Daud, lalu berkatalah ia kepadanya: \"Beginilah firman TUHAN: Haruslah engkau memilih:"
   },
   {Bible:"1Chronicles", Chapter:21, Verse:12, Page:1,
-    Kor:"삼 년 동안 기근이 들게 할 것인지, 원수의 칼을 피하여 석 달 동안 쫓겨 다닐 것인지, 아니면 주님의 칼, 곧 전염병이 사흘 동안 이 땅에 퍼지게 하여, 주님의 천사가 이스라엘 온 지역을 멸하게 할 것인지를 선택하여라.' 이제 임금님께서는, 나를 임금님께 보내신 분에게 내가 무엇이라고 보고하면 좋을지, 결정하여 주십시오.\"",
+    Kor:"삼 년 동안 기근이 들게 할 것인지, 원수의 칼을 피하여 석 달 동안 쫓겨 다닐 것인지, 아니면 주의 칼, 곧 전염병이 사흘 동안 이 땅에 퍼지게 하여, 주의 천사가 이스라엘 온 지역을 멸하게 할 것인지를 선택하여라.' 이제 임금님께서는, 나를 임금님께 보내신 분에게 내가 무엇이라고 보고하면 좋을지, 결정하여 주십시오.\"",
     Chn:"或三年的饥荒；或败在你敌人面前，被敌人的刀追杀三个月；或在你国中有耶和华的刀，就是三日的瘟疫，耶和华的使者在以色列的四境施行毁灭。』现在你要想一想，我好回复那差我来的。」",
     Eng:"three years of famine, three months of being swept away before your enemies, with their swords overtaking you, or three days of the sword of the Lord - days of plague in the land, with the angel of the Lord ravaging every part of Israel.' Now then, decide how I should answer the one who sent me.\"",
     Ind:"tiga tahun kelaparan atau tiga bulan lamanya melarikan diri dari hadapan lawanmu, sedang pedang musuhmu menyusul engkau, atau tiga hari pedang TUHAN, yakni penyakit sampar, ada di negeri ini, dan malaikat TUHAN mendatangkan kemusnahan di seluruh daerah orang Israel. Maka sekarang, timbanglah jawab apa yang harus kusampaikan kepada Yang mengutus aku.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:13, Page:1,
-    Kor:"○그러자 다윗이 갓에게 대답하였다. \"괴롭기 그지없습니다. 그래도 주님은 자비가 많은 분이시니, 차라리 내가 그의 손에 벌을 받겠습니다. 사람의 손에 벌을 받고 싶지는 않습니다.\"",
+    Kor:"○그러자 다윗이 갓에게 대답하였다. \"괴롭기 그지없습니다. 그래도 주님은 자비가 많은 분이시니, 차라리 내가 그의 손에 벌을 받겠습니다. 사람의 손에 벌을 받고 싶지는 않습니다. \"",
     Chn:"大卫对迦得说：「我甚为难。我愿落在耶和华的手里，因为他有丰盛的怜悯；我不愿落在人的手里。」",
     Eng:"David said to Gad, \"I am in deep distress. Let me fall into the hands of the Lord , for his mercy is very great; but do not let me fall into the hands of men.\"",
     Ind:"Lalu berkatalah Daud kepada Gad: \"Sangat susah hatiku, biarlah kiranya aku jatuh ke dalam tangan TUHAN, sebab sangat besar kasih sayang-Nya; tetapi janganlah aku jatuh ke dalam tangan manusia.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:14, Page:1,
-    Kor:"○그리하여 주님께서 이스라엘에 전염병을 내리시니, 이스라엘 사람이 칠만 명이나 쓰러졌다.",
+    Kor:"○그리하여 주께서 이스라엘에 전염병을 내리시니, 이스라엘 사람이 칠만 명이나 쓰러졌다.",
     Chn:"于是，耶和华降瘟疫与以色列人，以色列人就死了七万。",
     Eng:"So the Lord sent a plague on Israel, and seventy thousand men of Israel fell dead.",
     Ind:"Jadi TUHAN mendatangkan penyakit sampar kepada orang Israel, maka tewaslah dari orang Israel tujuh puluh ribu orang."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:15, Page:1,
-    Kor:"하나님께서는 예루살렘을 멸망시키려고 천사를 보내셨다. 그러나 주님께서는, 천사가 예루살렘을 멸망시키는 것을 보시고서, 재앙 내리신 것을 뉘우치시고, 사정없이 죽이고 있는 그 천사에게 \"그만하면 됐다. 이제 너의 손을 거두어라\" 하고 명하셨다. 그 때에 주님의 천사는 여부스 사람 오르난의 타작 마당 곁에 서 있었다.",
+    Kor:"하나님께서는 예루살렘을 멸망시키려고 천사를 보내셨다. 그러나 주께서는, 천사가 예루살렘을 멸망시키는 것을 보시고서, 재앙 내리신 것을 뉘우치시고, 사정없이 죽이고 있는 그 천사에게 \"그만하면 됐다. 이제 너의 손을 거두어라\" 하고 명하셨다. 그 때에 주의 천사는 여부스 사람 오르난의 타작 마당 곁에 서 있었다.",
     Chn:"神差遣使者去灭耶路撒冷，刚要灭的时候，耶和华看见后悔，就不降这灾了，吩咐灭城的天使说：「够了，住手吧！」那时，耶和华的使者站在耶布斯人阿珥楠的禾场那里。",
     Eng:"And God sent an angel to destroy Jerusalem. But as the angel was doing so, the Lord saw it and was grieved because of the calamity and said to the angel who was destroying the people, \"Enough! Withdraw your hand.\" The angel of the Lord was then standing at the threshing floor of Araunah the Jebusite.",
     Ind:"Pula Allah mengutus malaikat ke Yerusalem untuk memusnahkannya, dan ketika hendak dimusnahkannya, maka TUHAN melihatnya, lalu menyesallah Ia karena malapetaka yang hendak didatangkan-Nya itu, lalu berfirmanlah Ia kepada malaikat pemusnah itu: \"Cukup! Turunkanlah sekarang tanganmu itu!\" Pada waktu itu malaikat TUHAN itu sedang berdiri dekat tempat pengirikan Ornan, orang Yebus."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:16, Page:1,
-    Kor:"○다윗이 눈을 들어 보니, 주님의 천사가 하늘과 땅 사이에 서서, 칼을 빼어 손에 들고 예루살렘을 겨누고 있었다. 그래서 다윗은 장로들과 함께 굵은 베 옷을 입고, 얼굴을 땅에 대고 엎드렸다.",
+    Kor:"○다윗이 눈을 들어 보니, 주의 천사가 하늘과 땅 사이에 서서, 칼을 빼어 손에 들고 예루살렘을 겨누고 있었다. 그래서 다윗은 장로들과 함께 굵은 베 옷을 입고, 얼굴을 땅에 대고 엎드렸다.",
     Chn:"大卫举目，看见耶和华的使者站在天地间，手里有拔出来的刀，伸在耶路撒冷以上。大卫和长老都身穿麻衣，面伏于地。",
     Eng:"David looked up and saw the angel of the Lord standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell facedown.",
     Ind:"Ketika Daud mengangkat mukanya, maka dilihatnyalah malaikat TUHAN berdiri di antara bumi dan langit, dengan di tangannya pedang terhunus yang diacungkan ke atas Yerusalem. Lalu dengan berpakaian kain kabung sujudlah Daud dan para tua-tua."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:17, Page:1,
-    Kor:"그 때에 다윗이 하나님께 아뢰었다. \"이 백성의 인구를 조사하도록 지시한 사람은 바로 내가 아닙니까? 바로 내가 죄를 짓고 이런 엄청난 악을 저지른 사람입니다. 백성은 양 떼일 뿐입니다. 그들에게야 무슨 잘못이 있습니까? 주 나의 하나님! 나와 내 집안을 치시고, 제발 주님의 백성에게서는 전염병을 거두어 주십시오.\"",
+    Kor:"그 때에 다윗이 하나님께 아뢰었다. \"이 백성의 인구를 조사하도록 지시한 사람은 바로 내가 아닙니까? 바로 내가 죄를 짓고 이런 엄청난 악을 저지른 사람입니다. 백성은 양 떼일 뿐입니다. 그들에게야 무슨 잘못이 있습니까? 주 나의 하나님! 나와 내 집안을 치시고, 제발 주의 백성에게서는 전염병을 거두어 주십시오.\"",
     Chn:"大卫祷告　神说：「吩咐数点百姓的不是我吗？我犯了罪，行了恶，但这群羊做了什么呢？愿耶和华—我　神的手攻击我和我的父家，不要攻击你的民，降瘟疫与他们。」",
     Eng:"David said to God, \"Was it not I who ordered the fighting men to be counted? I am the one who has sinned and done wrong. These are but sheep. What have they done? O Lord my God, let your hand fall upon me and my family, but do not let this plague remain on your people.\"",
     Ind:"Dan berkatalah Daud kepada Allah: \"Bukankah aku ini yang menyuruh menghitung rakyat dan aku sendirilah yang telah berdosa dan yang melakukan kejahatan, tetapi domba-domba ini, apakah yang dilakukan mereka? Ya TUHAN, Allahku, biarlah kiranya tangan-Mu menimpa aku dan kaum keluargaku, tetapi janganlah tulah menimpa umat-Mu.\""
   },
   {Bible:"1Chronicles", Chapter:21, Verse:18, Page:1,
-    Kor:"○주님의 천사가 갓을 시켜, 다윗에게 이르기를 \"여부스 사람 오르난의 타작 마당으로 올라가서 주님의 제단을 쌓아야 한다\" 하였다.",
+    Kor:"○주의 천사가 갓을 시켜, 다윗에게 이르기를 \"여부스 사람 오르난의 타작 마당으로 올라가서 주의 제단을 쌓아야 한다\" 하였다.",
     Chn:"耶和华的使者吩咐迦得去告诉大卫，叫他上去，在耶布斯人阿珥楠的禾场上为耶和华筑一座坛；",
     Eng:"Then the angel of the Lord ordered Gad to tell David to go up and build an altar to the Lord on the threshing floor of Araunah the Jebusite.",
     Ind:"Kemudian malaikat TUHAN menyuruh Gad mengatakan kepada Daud, bahwa Daud harus pergi untuk mendirikan mezbah bagi TUHAN di tempat pengirikan Ornan, orang Yebus itu."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:19, Page:1,
-    Kor:"다윗은, 갓이 주님의 이름으로 명령한 말씀을 따라서, 그 곳으로 올라갔다.",
+    Kor:"다윗은, 갓이 주의 이름으로 명령한 말씀을 따라서, 그 곳으로 올라갔다.",
     Chn:"大卫就照着迦得奉耶和华名所说的话上去了。",
     Eng:"So David went up in obedience to the word that Gad had spoken in the name of the Lord .",
     Ind:"Lalu pergilah Daud, sesuai dengan perkataan Gad yang diucapkannya demi nama TUHAN."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Ketika Daud sampai kepada Ornan, maka Ornan mengangkat mukanya dan melihat Daud, lalu keluarlah ia dari tempat pengirikan, kemudian sujudlah ia kepada Daud dengan mukanya ke tanah."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:22, Page:1,
-    Kor:"다윗이 오르난에게 말하였다. \"이 타작 마당을 나에게 파시오. 충분한 값을 지불하겠소. 내가 주님의 제단을 여기에 쌓으려 하오. 그러면 전염병이 백성에게서 그칠 것이오.\"",
+    Kor:"다윗이 오르난에게 말하였다. \"이 타작 마당을 나에게 파시오. 충분한 값을 지불하겠소. 내가 주의 제단을 여기에 쌓으려 하오. 그러면 전염병이 백성에게서 그칠 것이오.\"",
     Chn:"大卫对阿珥楠说：「你将这禾场与相连之地卖给我，我必给你足价，我好在其上为耶和华筑一座坛，使民间的瘟疫止住。」",
     Eng:"David said to him, \"Let me have the site of your threshing floor so I can build an altar to the Lord , that the plague on the people may be stopped. Sell it to me at the full price.\"",
     Ind:"Berkatalah Daud kepada Ornan: \"Berikanlah kepadaku tempat pengirikan ini, supaya aku mendirikan di sini mezbah bagi TUHAN; baiklah berikan itu kepadaku dengan harga penuh, supaya tulah ini berhenti menimpa rakyat.\""
@@ -153,31 +153,31 @@ BibleDB.add([
     Ind:"Maka Daud memberikan kepada Ornan sebagai bayaran tempat itu emas seberat enam ratus syikal."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:26, Page:1,
-    Kor:"거기에서 주님께 제단을 쌓아, 번제와 화목제를 드리고 주님께 아뢰었다. 그러자 주님께서는 하늘로부터 불을 번제단 위에 내려서 응답하셨다.",
+    Kor:"거기에서 주께 제단을 쌓아, 번제와 화목제를 드리고 주께 아뢰었다. 그러자 주께서는 하늘로부터 불을 번제단 위에 내려서 응답하셨다.",
     Chn:"大卫在那里为耶和华筑了一座坛，献燔祭和平安祭，求告耶和华。耶和华就应允他，使火从天降在燔祭坛上。",
     Eng:"David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. He called on the Lord , and the Lord answered him with fire from heaven on the altar of burnt offering.",
     Ind:"Lalu Daud mendirikan di sana mezbah bagi TUHAN, mempersembahkan korban bakaran dan korban keselamatan dan memanggil TUHAN. Maka TUHAN menjawab dia dengan menurunkan api dari langit ke atas mezbah korban bakaran itu."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:27, Page:1,
-    Kor:"○그리고 주님께서 천사에게 명하셔서, 그의 칼을 칼집에 꽂게 하셨다.",
+    Kor:"○그리고 주께서 천사에게 명하셔서, 그의 칼을 칼집에 꽂게 하셨다.",
     Chn:"耶和华吩咐使者，他就收刀入鞘。",
     Eng:"Then the Lord spoke to the angel, and he put his sword back into its sheath.",
     Ind:"Lalu berfirmanlah TUHAN kepada malaikat itu supaya dikembalikannya pedangnya ke dalam sarungnya."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:28, Page:1,
-    Kor:"그 때에 다윗은, 주님께서 여부스 사람 오르난의 타작 마당에서 그에게 응답하여 주심을 보고, 거기에서 제사를 드렸다.",
+    Kor:"그 때에 다윗은, 주께서 여부스 사람 오르난의 타작 마당에서 그에게 응답하여 주심을 보고, 거기에서 제사를 드렸다.",
     Chn:"那时，大卫见耶和华在耶布斯人阿珥楠的禾场上应允了他，就在那里献祭。",
     Eng:"At that time, when David saw that the Lord had answered him on the threshing floor of Araunah the Jebusite, he offered sacrifices there.",
     Ind:"Pada waktu itu juga Daud mempersembahkan korban di sana, ketika ia melihat, bahwa TUHAN telah menjawab dia di tempat pengirikan Ornan, orang Yebus itu."
   },
   {Bible:"1Chronicles", Chapter:21, Verse:29, Page:1,
-    Kor:"그 때에, 모세가 광야에서 만든 주님의 성막과 번제단이 기브온 산당에 있었으나,",
+    Kor:"그 때에, 모세가 광야에서 만든 주의 성막과 번제단이 기브온 산당에 있었으나,",
     Chn:"摩西在旷野所造之耶和华的帐幕和燔祭坛都在基遍的高处；",
     Eng:"The tabernacle of the Lord , which Moses had made in the desert, and the altar of burnt offering were at that time on the high place at Gibeon.",
     Ind:"Kemah Suci, yang dibuat Musa di padang gurun, dan mezbah korban bakaran pada waktu itu ada di bukit pengorbanan di Gibeon,"
   },
   {Bible:"1Chronicles", Chapter:21, Verse:30, Page:1,
-    Kor:"다윗은 주님의 천사의 칼이 무서워, 그 앞으로 가서 하나님께 예배를 드릴 수 없었다.",
+    Kor:"다윗은 주의 천사의 칼이 무서워, 그 앞으로 가서 하나님께 예배를 드릴 수 없었다.",
     Chn:"只是大卫不敢前去求问　神，因为惧怕耶和华使者的刀。",
     Eng:"But David could not go before it to inquire of God, because he was afraid of the sword of the angel of the Lord .",
     Ind:"tetapi Daud tidak berani pergi ke sana berhadapan dengan Allah untuk menanyakan petunjuk-Nya, sebab ia takut kepada pedang malaikat TUHAN itu."

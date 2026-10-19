@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Setelah Daud menjadi tua dan lanjut umur, maka diangkatnya Salomo menjadi raja atas Israel."
   },
   {Bible:"1Chronicles", Chapter:23, Verse:2, Page:1,
-    Kor:"<레위 사람의 일> ○다윗 왕은 이스라엘 모든 지도자와 제사장과 레위 사람을 불러모았다.",
+    Kor:"○다윗 왕은 이스라엘 모든 지도자와 제사장과 레위 사람을 불러모았다.",
     Chn:"大卫招聚以色列的众首领和祭司利未人。",
     Eng:"He also gathered together all the leaders of Israel, as well as the priests and Levites.",
     Ind:"Ia mengumpulkan segala pembesar Israel, juga para imam dan orang-orang Lewi."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu dihitunglah orang-orang Lewi, yang berumur tiga puluh tahun ke atas, dan jumlah orang-orang mereka, dihitung satu demi satu, ada tiga puluh delapan ribu orang."
   },
   {Bible:"1Chronicles", Chapter:23, Verse:4, Page:1,
-    Kor:"이 가운데 이만 사천 명은 주님의 성전 일을 맡은 사람이고, 육천 명은 서기관과 재판관이고,",
+    Kor:"이 가운데 이만 사천 명은 주의 성전 일을 맡은 사람이고, 육천 명은 서기관과 재판관이고,",
     Chn:"其中有二万四千人管理耶和华殿的事，有六千人作官长和士师，",
     Eng:"David said, \"Of these, twenty-four thousand are to supervise the work of the temple of the Lord and six thousand are to be officials and judges.",
     Ind:"--\"Dari orang-orang ini dua puluh empat ribu orang harus mengawasi pekerjaan di rumah TUHAN; enam ribu orang harus menjadi pengatur dan hakim;"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Anak-anak Kehat ialah Amram, Yizhar, Hebron dan Uziel, empat orang."
   },
   {Bible:"1Chronicles", Chapter:23, Verse:13, Page:1,
-    Kor:"아므람의 아들은 아론과 모세이다. 아론을 성별하였는데, 그와 그의 아들들은, 가장 거룩한 물건들을 영원히 거룩하게 맡아서, 주님 앞에서 분향하여 섬기며, 영원히 주님의 이름으로 복을 빌게 하려고 성별하였다.",
+    Kor:"아므람의 아들은 아론과 모세이다. 아론을 성별하였는데, 그와 그의 아들들은, 가장 거룩한 물건들을 영원히 거룩하게 맡아서, 주님 앞에서 분향하여 섬기며, 영원히 주의 이름으로 복을 빌게 하려고 성별하였다.",
     Chn:"暗兰的儿子是亚伦、摩西。亚伦和他的子孙分出来，好分别至圣的物，在耶和华面前烧香、事奉他，奉他的名祝福，直到永远。",
     Eng:"The sons of Amram: Aaron and Moses. Aaron was set apart, he and his descendants forever, to consecrate the most holy things, to offer sacrifices before the Lord , to minister before him and to pronounce blessings in his name forever.",
     Ind:"Anak-anak Amram ialah Harun dan Musa; Harun ditunjuk untuk mengurus apa yang maha kudus, dia dan keturunannya, sampai selama-lamanya, untuk membakar korban di hadapan TUHAN, untuk melayani Dia dan untuk memberi berkat demi nama-Nya, sampai selama-lamanya."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Anak-anak Musi ialah Mahli, Eder dan Yeremot, tiga orang."
   },
   {Bible:"1Chronicles", Chapter:23, Verse:24, Page:1,
-    Kor:"○이들은, 각자의 가문별로 인구를 조사하여 이름이 기록된 레위의 자손으로서, 주님의 성전에서 섬기는 일을 하는 스무 살이 넘은 각 가문의 족장들이다.",
+    Kor:"○이들은, 각자의 가문별로 인구를 조사하여 이름이 기록된 레위의 자손으로서, 주의 성전에서 섬기는 일을 하는 스무 살이 넘은 각 가문의 족장들이다.",
     Chn:"以上利未子孙作族长的，照着男丁的数目，从二十岁以外，都办耶和华殿的事务。",
     Eng:"These were the descendants of Levi by their families-the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more who served in the temple of the Lord .",
     Ind:"Itulah bani Lewi menurut puak mereka, kepala-kepala puak mereka, pada waktu mereka dicatat seorang-seorang sesuai dengan bilangan nama mereka, orang demi orang, yang berumur dua puluh tahun atau lebih, merekalah yang harus melakukan pekerjaan untuk ibadah di rumah TUHAN."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"dan pada waktu mempersembahkan segala korban bakaran kepada TUHAN, pada hari-hari Sabat, bulan-bulan baru, dan hari-hari raya, menurut jumlah yang sesuai dengan peraturan yang berlaku bagi mereka, sebagai tugas tetap di hadapan TUHAN."
   },
   {Bible:"1Chronicles", Chapter:23, Verse:32, Page:1,
-    Kor:"이렇게 그들은 회막과 성소를 보살피는 책임과, 그들의 친족 아론 자손을 도와 주님의 성전에서 섬기는 책임을 맡았다.",
+    Kor:"이렇게 그들은 회막과 성소를 보살피는 책임과, 그들의 형제 아론 자손을 도와 주님의 성전에서 섬기는 책임을 맡았다.",
     Chn:"又看守会幕和圣所，并守耶和华吩咐他们弟兄亚伦子孙的，办耶和华殿的事。",
     Eng:"And so the Levites carried out their responsibilities for the Tent of Meeting, for the Holy Place and, under their brothers the descendants of Aaron, for the service of the temple of the Lord .",
     Ind:"Mereka harus melakukan pemeliharaan Kemah Pertemuan serta tempat kudus dan harus melayani anak-anak Harun, saudara-saudara mereka, untuk menyelenggarakan ibadah di rumah TUHAN.\""

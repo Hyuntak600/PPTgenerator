@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",10,43);
 BibleDB.add([
   {Bible:"Joshua", Chapter:10, Verse:1, Page:1,
-    Kor:"<여호수아가 기브온을 건지다> 예루살렘 왕 a아도니세덱은, 여호수아가 아이 성을 점령하면서, 여리고 성과 그 왕에게 한 것과 꼭 같이 아이 성과 그 왕을 b전멸시켜서 희생제물로 바쳤다는 소식과, 또 기브온 주민이 이스라엘과 화친하고 그들과 함께 살고 있다는 소식을 듣고,(a '의의 주' b 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"예루살렘 왕 아도니세덱은, 여호수아가 아이 성을 점령하면서, 여리고 성과 그 왕에게 한 것과 꼭 같이, 아이 성과 그 왕을 전멸시켜서 희생제물로 바쳤다는 소식과, 또 기브온 주민이 이스라엘과 화친하고 그들과 함께 살고 있다는 소식을 듣고,",
     Chn:"耶路撒冷王亚多尼·洗德听见约书亚夺了艾城，尽行毁灭，怎样待耶利哥和耶利哥的王，也照样待艾城和艾城的王，又听见基遍的居民与以色列人立了和约，住在他们中间，",
     Eng:"Now Adoni-Zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and were living near them.",
     Ind:"Setelah terdengar oleh Adoni-Zedek, raja Yerusalem, bahwa Yosua telah merebut Ai dan telah menumpasnya--seperti yang dilakukannya terhadap Yerikho dan terhadap rajanya, demikianlah juga dilakukannya terhadap Ai dan terhadap rajanya--dan bahwa penduduk kota Gibeon telah mengadakan ikatan persahabatan dengan orang Israel dan diam di tengah-tengah mereka,"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"\"Datanglah kepadaku dan bantulah aku, supaya kita menggempur Gibeon, karena telah mengadakan ikatan persahabatan dengan Yosua dan orang Israel.\""
   },
   {Bible:"Joshua", Chapter:10, Verse:5, Page:1,
-    Kor:"그리하여 아모리 족속의 다섯 왕 곧 예루살렘 왕과 헤브론 왕과 야르뭇 왕과 라기스 왕과 에글론 왕이 연합하여, 그들의 모든 군대를 거느리고 올라와서, 기브온을 공격하려고 진을 쳤다.",
+    Kor:"그리하여 아모리 족속의 다섯 왕, 곧 예루살렘 왕과 헤브론 왕과 야르뭇 왕과 라기스 왕과 에글론 왕이 연합하여 그들의 모든 군대를 거느리고 올라와서, 기브온을 공격하려고 진을 쳤다.",
     Chn:"于是五个亚摩利王，就是耶路撒冷王、希伯 王、耶末王、拉吉王、伊矶伦王，大家聚集，率领他们的众军上去，对着基遍安营，攻打基遍。",
     Eng:"Then the five kings of the Amorites--the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon--joined forces. They moved up with all their troops and took up positions against Gibeon and attacked it.",
     Ind:"Lalu kelima raja orang Amori itu berkumpul dan bergerak maju: raja Yerusalem, raja Hebron, raja Yarmut, raja Lakhis dan raja Eglon, mereka beserta seluruh tentara mereka. Mereka berkemah mengepung Gibeon dan berperang melawannya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Lalu Yosua bergerak maju dari Gilgal, dia dan seluruh tentara yang bersama-sama dengan dia, semuanya pahlawan yang gagah perkasa."
   },
   {Bible:"Joshua", Chapter:10, Verse:8, Page:1,
-    Kor:"그 때에 주님께서 여호수아에게 말씀하셨다. \"그들을 두려워하지 말아라. 내가 그들을 너의 손에 넘겨 주었다. 그들 가운데서 한 사람도 너를 당할 수 없을 것이다.\"",
+    Kor:"그 때에 주께서 여호수아에게 말씀하셨다. \"그들을 두려워하지 말아라. 내가 그들을 너의 손에 넘겨 주었다. 그들 가운데서 한 사람도 너를 당할 수 없을 것이다.\"",
     Chn:"耶和华对约书亚说：「不要怕他们；因为我已将他们交在你手里，他们无一人能在你面前站立得住。」",
     Eng:"The LORD said to Joshua, \"Do not be afraid of them; I have given them into your hand. Not one of them will be able to withstand you.\"",
     Ind:"Berfirmanlah TUHAN kepada Yosua: \"Janganlah takut kepada mereka, sebab Aku menyerahkan mereka kepadamu. Tidak seorangpun dari mereka yang akan dapat bertahan menghadapi engkau.\""
@@ -57,31 +57,31 @@ BibleDB.add([
     Ind:"Lalu Yosua menyerang mereka dengan tiba-tiba, setelah semalam-malaman bergerak maju dari Gilgal."
   },
   {Bible:"Joshua", Chapter:10, Verse:10, Page:1,
-    Kor:"주님께서 이스라엘 군대 앞에서 그들을 혼란에 빠지게 하시니, 여호수아는 기브온에서 그들을 크게 무찔러 승리하였다. 그는 벳호론의 오르막길을 따라서 아세가와 막게다까지 추격하여 그들을 무찔렀다.",
+    Kor:"주께서 이스라엘 군대 앞에서 그들을 혼란에 빠지게 하시니, 여호수아는 기브온에서 그들을 크게 무찔러 승리하였다. 그는 벳호론의 오르막길을 따라서, 아세가와 막게다까지 추격하여 그들을 무찔렀다.",
     Chn:"耶和华使他们在以色列人面前溃乱。约书亚在基遍大大地杀败他们，追赶他们，在伯·和 的上坡路击杀他们，直到亚西加和玛基大。",
     Eng:"The LORD threw them into confusion before Israel, who defeated them in a great victory at Gibeon. Israel pursued them along the road going up to Beth Horon and cut them down all the way to Azekah and Makkedah.",
     Ind:"Dan TUHAN mengacaukan mereka di depan orang Israel, sehingga Yosua menimbulkan kekalahan yang besar di antara mereka dekat Gibeon, mengejar mereka ke arah pendakian Bet-Horon dan memukul mereka mundur sampai dekat Azeka dan Makeda."
   },
   {Bible:"Joshua", Chapter:10, Verse:11, Page:1,
-    Kor:"그들이 이스라엘 군대 앞에서 도망하여 벳호론의 내리막길에 이르렀을 때에, 주님께서, 거기에서부터 아세가에 이르기까지, 하늘에서 그들에게 큰 우박을 퍼부으셨으므로, 많은 사람이 죽었다. 우박으로 죽은 자가 이스라엘 자손의 칼에 찔려서 죽은 자보다 더 많았다.",
+    Kor:"그들이 이스라엘 군대 앞에서 도망하여 벳호론의 내리막길에 이르렀을 때에, 주께서, 거기에서부터 아세가에 이르기까지, 하늘에서 그들에게 큰 우박을 퍼부으셨으므로, 많은 사람이 죽었다. 우박으로 죽은 자가 이스라엘 자손의 칼에 찔려서 죽은 자보다 더 많았다.",
     Chn:"他们在以色列人面前逃跑，正在伯·和 下坡的时候，耶和华从天上降大冰雹在他们身上，直降到亚西加，打死他们。被冰雹打死的，比以色列人用刀杀死的还多。",
     Eng:"As they fled before Israel on the road down from Beth Horon to Azekah, the LORD hurled large hailstones down on them from the sky, and more of them died from the hailstones than were killed by the swords of the Israelites.",
     Ind:"Sedang mereka melarikan diri di depan orang Israel dan baru di lereng Bet-Horon, maka TUHAN melempari mereka dengan batu-batu besar dari langit, sampai ke Azeka, sehingga mereka mati. Yang mati kena hujan batu itu ada lebih banyak dari yang dibunuh oleh orang Israel dengan pedang."
   },
   {Bible:"Joshua", Chapter:10, Verse:12, Page:1,
-    Kor:"○주님께서 아모리 사람들을 이스라엘 자손에게 넘겨 주신 날에, 여호수아가 주님께 아뢰었다. 이스라엘 백성이 보는 앞에서 그가 외쳤다.  \"태양아, 기브온 위에 머물러라! 달아, 아얄론 골짜기에 머물러라!\"",
+    Kor:"○주께서 아모리 사람들을 이스라엘 자손에게 넘겨 주신 날에, 여호수아가 주께 아뢰었다. 이스라엘 백성이 보는 앞에서 그가 외쳤다. \"태양아, 기브온 위에 머물러라! 달아, 아얄론 골짜기에 머물러라!\"",
     Chn:"当耶和华将亚摩利人交付以色列人的日子，约书亚就祷告耶和华，在以色列人眼前说： 日头啊，你要停在基遍； 月亮啊，你要止在亚雅 谷。",
     Eng:"On the day the LORD gave the Amorites over to Israel, Joshua said to the LORD in the presence of Israel: \"O sun, stand still over Gibeon, O moon, over the Valley of Aijalon.\"",
     Ind:"Lalu Yosua berbicara kepada TUHAN pada hari TUHAN menyerahkan orang Amori itu kepada orang Israel; ia berkata di hadapan orang Israel: \"Matahari, berhentilah di atas Gibeon dan engkau, bulan, di atas lembah Ayalon!\""
   },
   {Bible:"Joshua", Chapter:10, Verse:13, Page:1,
-    Kor:"백성이 그 원수를 정복할 때까지 태양이 멈추고, 달이 멈추어 섰다. c'야살의 책'에 해가 중천에 머물러 종일토록 지지 않았다고 한 말이, 바로 이것을 두고 한 말이다.(c '의로운 자의 책'. 영웅담을 수록한 책, 현존하지 않음. 삼하 1:18에도 인용되었음)",
+    Kor:"백성이 그 원수를 정복할 때까지 태양이 멈추고, 달이 멈추어 섰다. '야살의 책'에, 해가 중천에 머물러 종일토록 지지 않았다고 한 말이, 바로 이것을 두고 한 말이다.",
     Chn:"于是日头停留，月亮止住， 直等国民向敌人报仇。 这事岂不是写在雅煞珥书上吗？日头在天当中停住，不急速下落，约有一日之久。",
     Eng:"So the sun stood still, and the moon stopped, till the nation avenged itself on its enemies, as it is written in the Book of Jashar. The sun stopped in the middle of the sky and delayed going down about a full day.",
     Ind:"Maka berhentilah matahari dan bulanpun tidak bergerak, sampai bangsa itu membalaskan dendamnya kepada musuhnya. Bukankah hal itu telah tertulis dalam Kitab Orang Jujur? Matahari tidak bergerak di tengah langit dan lambat-lambat terbenam kira-kira sehari penuh."
   },
   {Bible:"Joshua", Chapter:10, Verse:14, Page:1,
-    Kor:"주님께서 사람의 목소리를 이 날처럼 이렇게 들어주신 일은, 전에도 없었고 뒤에도 없었다. 주님께서는 이처럼 이스라엘을 편들어 싸우셨다.",
+    Kor:"주께서 사람의 목소리를 이 날처럼 이렇게 들어주신 일은, 전에도 없었고 뒤에도 없었다. 주께서는 이처럼 이스라엘을 편들어 싸우셨다.",
     Chn:"在这日以前，这日以后，耶和华听人的祷告，没有像这日的，是因耶和华为以色列争战。",
     Eng:"There has never been a day like it before or since, a day when the LORD listened to a man. Surely the LORD was fighting for Israel!",
     Ind:"Belum pernah ada hari seperti itu, baik dahulu maupun kemudian, bahwa TUHAN mendengarkan permohonan seorang manusia secara demikian, sebab yang berperang untuk orang Israel ialah TUHAN."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kemudian Yosua dan seluruh orang Israel yang menyertainya pulang kembali ke tempat perkemahan di Gilgal."
   },
   {Bible:"Joshua", Chapter:10, Verse:16, Page:1,
-    Kor:"<아모리의 다섯 왕을 사로잡다> ○아모리의 다섯 왕은 도망하여 막게다의 굴에 숨어 있었다.",
+    Kor:"○아모리의 다섯 왕은 도망하여 막게다의 굴에 숨어 있었다.",
     Chn:"那五王逃跑，藏在玛基大洞里。",
     Eng:"Now the five kings had fled and hidden in the cave at Makkedah.",
     Ind:"Kelima raja itu melarikan diri dan bersembunyi di dalam gua di Makeda."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Setelah Yosua dan orang Israel selesai menimbulkan kekalahan yang besar sekali di antara mereka, sampai mereka dihancurkan sama sekali--beberapa orang dari mereka dapat lolos dan masuk ke kota-kota yang diperkuat--"
   },
   {Bible:"Joshua", Chapter:10, Verse:21, Page:1,
-    Kor:"여호수아의 모든 군대는 막게다 진에 있는 여호수아에게 무사히 돌아왔다. ○그 땅에서는 어느 누구도 감히 혀를 놀려 이스라엘 자손을 헐뜯지 못하였다.",
+    Kor:"여호수아의 모든 군대는 막게다 진에 있는 여호수아에게 무사히 돌아왔다. ○그 땅에서는 어느 누구도, 감히 혀를 놀려 이스라엘 자손을 헐뜯지 못하였다.",
     Chn:"众百姓就安然回玛基大营中，到约书亚那里。没有一人敢向以色列人饶舌。",
     Eng:"The whole army then returned safely to Joshua in the camp at Makkedah, and no one uttered a word against the Israelites.",
     Ind:"pulanglah seluruh bangsa itu dengan selamat kepada Yosua ke tempat perkemahan, di Makeda. Tidak ada seorangpun yang berani melemparkan kata-kata ancaman terhadap orang Israel."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Yosua: \"Bukalah mulut gua dan keluarkanlah kelima raja itu dari dalam dan bawa kepadaku.\""
   },
   {Bible:"Joshua", Chapter:10, Verse:23, Page:1,
-    Kor:"그들은 명령대로 그 다섯 왕을 굴에서 끌어내어, 여호수아에게로 끌고 왔다. 그 다섯 왕은 예루살렘 왕과 헤브론 왕과 야르뭇 왕과 라기스 왕과 에글론 왕이다.",
+    Kor:"그들은 명령대로, 그 다섯 왕을 굴에서 끌어내어, 여호수아에게로 끌고 왔다. 그 다섯 왕은 예루살렘 왕과 헤브론 왕과 야르뭇 왕과 라기스 왕과 에글론 왕이다.",
     Chn:"众人就这样行，将那五王，就是耶路撒冷王、希伯 王、耶末王、拉吉王、伊矶伦王，从洞里带出来，领到约书亚面前。",
     Eng:"So they brought the five kings out of the cave--the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon.",
     Ind:"Dilakukan oranglah demikian, kelima raja itu dikeluarkan dari gua itu dan dibawa kepadanya: raja Yerusalem, raja Hebron, raja Yarmut, raja Lakhis dan raja Eglon."
@@ -147,61 +147,61 @@ BibleDB.add([
     Ind:"Setelah raja-raja itu dikeluarkan dan dibawa kepada Yosua, maka Yosuapun memanggil semua orang Israel berkumpul dan berkata kepada para panglima tentara, yang ikut berperang bersama-sama dengan dia: \"Marilah dekat, taruhlah kakimu ke atas tengkuk raja-raja ini.\" Maka datanglah mereka dekat dan menaruh kakinya ke atas tengkuk raja-raja itu."
   },
   {Bible:"Joshua", Chapter:10, Verse:25, Page:1,
-    Kor:"여호수아가 지휘관들에게 말하였다. \"두려워하지 말고 놀라지 마시오. 굳세고 용감하시오. 주님께서 당신들이 대항하여 싸우는 모든 원수에게 다 이와 같이 하실 것이오.\"",
+    Kor:"여호수아가 지휘관들에게 말하였다. \"두려워하지 말고 놀라지 말아라. 굳세고 용감하여라. 주께서 너희가 대항하여 싸우는 모든 원수에게 다 이와 같이 하실 것이다.\"",
     Chn:"约书亚对他们说：「你们不要惧怕，也不要惊惶。应当刚强壮胆，因为耶和华必这样待你们所要攻打的一切仇敌。」",
     Eng:"Joshua said to them, \"Do not be afraid; do not be discouraged. Be strong and courageous. This is what the LORD will do to all the enemies you are going to fight.\"",
     Ind:"Lalu berkatalah Yosua kepada mereka: \"Janganlah takut dan janganlah tawar hati, kuatkan dan teguhkanlah hatimu, sebab secara itulah akan dilakukan TUHAN kepada semua musuhmu, yang kamu perangi.\""
   },
   {Bible:"Joshua", Chapter:10, Verse:26, Page:1,
-    Kor:"그런 다음에 여호수아는 그들을 쳐죽여서 나무 다섯 그루에 매달아서, 저녁때까지 나무 위에 그대로 달아 두었다.",
+    Kor:"그런 다음에, 여호수아는 그들을 쳐죽여서 나무 다섯 그루에 매달아서, 저녁때까지 나무 위에 그대로 달아 두었다.",
     Chn:"随后约书亚将这五王杀死，挂在五棵树上。他们就在树上直挂到晚上。",
     Eng:"Then Joshua struck and killed the kings and hung them on five trees, and they were left hanging on the trees until evening.",
     Ind:"Sesudah itu Yosua membunuh raja-raja itu, dan menggantung mereka pada lima tiang, dan mereka tinggal tergantung pada tiang-tiang itu sampai matahari terbenam."
   },
   {Bible:"Joshua", Chapter:10, Verse:27, Page:1,
-    Kor:"해가 질 무렵에 여호수아가 지시하니, 사람들은 나무에서 그들을 끌어내려 그들이 숨어 있던 그 굴에 던지고, 굴 어귀를 큰 돌로 막았다. 그 곳은 오늘날까지 그대로 있다.",
+    Kor:"해가 질 무렵에, 여호수아가 지시하니, 사람들은 나무에서 그들을 끌어내려, 그들이 숨어 있던 그 굴에 던지고, 굴 어귀를 큰 돌로 막았다. 그 곳은 오늘날까지 그대로 있다.",
     Chn:"日头要落的时候，约书亚一吩咐，人就把尸首从树上取下来，丢在他们藏过的洞里，把几块大石头放在洞口，直存到今日。",
     Eng:"At sunset Joshua gave the order and they took them down from the trees and threw them into the cave where they had been hiding. At the mouth of the cave they placed large rocks, which are there to this day.",
     Ind:"Tetapi menjelang matahari terbenam, atas perintah Yosua mayat mereka diturunkan dari tiang-tiang itu, dan dilemparkan ke dalam gua, tempat mereka bersembunyi. Lalu mulut gua itu ditutupi orang dengan batu-batu besar, yang masih ada sampai sekarang."
   },
   {Bible:"Joshua", Chapter:10, Verse:28, Page:1,
-    Kor:"○그 날에 여호수아가 막게다 성읍을 점령하고, 칼로 성읍과 그 왕을 무찌르고, 그 성 안에 있는 모든 사람을 전멸시켜서 희생제물로 바쳤으며, 산 사람이라고는 하나도 남기지 않았다. 그는 여리고 성의 왕에게 한 것과 꼭 같이 막게다 성의 왕을 무찔렀다.",
+    Kor:"○그 날에 여호수아가 막게다 성읍을 점령하고, 칼로 성읍과 그 왕을 무찌르고, 그 성 안에 있는 모든 사람을 전멸시켜서 희생제물로 바쳤으며, 산 사람이라고는 하나도 남기지 않았다. 그는 여리고 성의 왕에게 한 것과 꼭 같이, 막게다 성의 왕을 무찔렀다.",
     Chn:"当日，约书亚夺了玛基大，用刀击杀城中的人和王；将其中一切人口尽行杀灭，没有留下一个。他待玛基大王，像从前待耶利哥王一样。",
     Eng:"That day Joshua took Makkedah. He put the city and its king to the sword and totally destroyed everyone in it. He left no survivors. And he did to the king of Makkedah as he had done to the king of Jericho.",
     Ind:"Pada hari itu Yosua merebut Makeda dan kota itu dipukulnya dengan mata pedang, juga rajanya; kota itu dan semua makhluk yang ada di dalamnya ditumpasnya, tidak ada seorangpun yang dibiarkannya lolos, dan raja Makeda, diperlakukannya seperti telah diperlakukannya raja Yerikho."
   },
   {Bible:"Joshua", Chapter:10, Verse:29, Page:1,
-    Kor:"○여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 막게다에서 립나로 건너가서, 립나와 싸웠다.",
+    Kor:"○여호수아는, 자기와 함께 한 모든 이스라엘 사람과 더불어 막게다에서 립나로 건너가서, 립나와 싸웠다.",
     Chn:"约书亚和以色列众人从玛基大往立拿去，攻打立拿。",
     Eng:"Then Joshua and all Israel with him moved on from Makkedah to Libnah and attacked it.",
     Ind:"Kemudian Yosua dengan seluruh Israel berjalan terus dari Makeda ke Libna, lalu memerangi Libna."
   },
   {Bible:"Joshua", Chapter:10, Verse:30, Page:1,
-    Kor:"주님께서 립나도 그 왕과 함께 이스라엘의 손에 넘겨 주셨기 때문에, 여호수아가 칼로 그 성과 그 성 안에 있는 모든 사람을 무찔러서, 그 안에 산 사람이라고는 하나도 남기지 않았다. 여호수아는 여리고 성의 왕에게 한 것과 같이 립나의 왕도 무찔렀다.",
+    Kor:"주께서 립나도 그 왕과 함께 이스라엘의 손에 넘겨 주셨기 때문에, 여호수아가 칼로 그 성과 그 성 안에 있는 모든 사람을 무찔러서, 그 안에 산 사람이라고는 하나도 남기지 않았다. 여호수아는 여리고 성의 왕에게 한 것과 같이 립나의 왕도 무찔렀다.",
     Chn:"耶和华将立拿和立拿的王也交在以色列人手里。约书亚攻打这城，用刀击杀了城中的一切人口，没有留下一个。他待立拿王，像从前待耶利哥王一样。",
     Eng:"The LORD also gave that city and its king into Israel's hand. The city and everyone in it Joshua put to the sword. He left no survivors there. And he did to its king as he had done to the king of Jericho.",
     Ind:"Dan TUHAN menyerahkan kota itu juga kepada orang Israel, beserta rajanya. Yosua memukul kota itu dan semua makhluk yang ada di dalamnya dengan mata pedang, tidak ada seorangpun di dalamnya yang dibiarkannya lolos, dan rajanya itu, diperlakukannya seperti telah diperlakukannya raja Yerikho."
   },
   {Bible:"Joshua", Chapter:10, Verse:31, Page:1,
-    Kor:"○또 여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 립나에서 라기스로 건너가서, 진을 치고 전투를 벌였다.",
+    Kor:"○또 여호수아는 자기와 함께 한 모든 이스라엘 사람과 더불어 립나에서 라기스로 건너가서, 진을 치고 전투를 벌였다.",
     Chn:"约书亚和以色列众人从立拿往拉吉去，对着拉吉安营，攻打这城。",
     Eng:"Then Joshua and all Israel with him moved on from Libnah to Lachish; he took up positions against it and attacked it.",
     Ind:"Kemudian Yosua dengan seluruh Israel berjalan terus dari Libna ke Lakhis, lalu berkemah mengepung kota itu dan berperang melawannya."
   },
   {Bible:"Joshua", Chapter:10, Verse:32, Page:1,
-    Kor:"주님께서 라기스를 이스라엘 사람의 손에 넘겨 주셨기 때문에, 그 이튿날 이스라엘은 그 성을 점령하였고, 립나에서 한 것과 꼭 같이, 칼로 성과 그 안에 있는 모든 사람을 무찔렀다.",
+    Kor:"주께서 라기스를 이스라엘 사람의 손에 넘겨 주셨기 때문에, 그 이튿날 이스라엘은 그 성을 점령하였고, 립나에서 한 것과 꼭 같이, 칼로 성과 그 안에 있는 모든 사람을 무찔렀다.",
     Chn:"耶和华将拉吉交在以色列人的手里。第二天约书亚就夺了拉吉，用刀击杀了城中的一切人口，是照他向立拿一切所行的。",
     Eng:"The LORD handed Lachish over to Israel, and Joshua took it on the second day. The city and everyone in it he put to the sword, just as he had done to Libnah.",
     Ind:"Dan TUHAN menyerahkan Lakhis kepada orang Israel. Yosua merebut kota itu pada hari yang kedua. Kota itu dan semua makhluk yang ada di dalamnya dipukulnya dengan mata pedang, tepat seperti yang dilakukannya terhadap Libna."
   },
   {Bible:"Joshua", Chapter:10, Verse:33, Page:1,
-    Kor:"그 때에 게셀 왕 호람이 라기스를 도우려고 올라왔다. 여호수아는 그 왕과 그 백성을, 살아 남은 사람이 한 사람도 없을 때까지 무찔렀다.",
+    Kor:"그 때에 게셀 왕 호람이 라기스를 도우려고 올라왔다. 여호수아는, 그 왕과 그 백성을, 살아 남은 사람이 한 사람도 없을 때까지 무찔렀다.",
     Chn:"那时基色王荷兰上来帮助拉吉，约书亚就把他和他的民都击杀了，没有留下一个。",
     Eng:"Meanwhile, Horam king of Gezer had come up to help Lachish, but Joshua defeated him and his army--until no survivors were left.",
     Ind:"Lalu Horam, raja Gezer, maju untuk membantu Lakhis, tetapi Yosua menewaskan dia dan rakyatnya, sehingga tidak ada seorangpun padanya yang dibiarkannya lolos."
   },
   {Bible:"Joshua", Chapter:10, Verse:34, Page:1,
-    Kor:"○여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 라기스에서 에글론으로 건너가서, 진을 치고 전투를 벌였다.",
+    Kor:"○여호수아는, 자기와 함께 한 모든 이스라엘 사람과 더불어 라기스에서 에글론으로 건너가서, 진을 치고 전투를 벌였다.",
     Chn:"约书亚和以色列众人从拉吉往伊矶伦去，对着伊矶伦安营，攻打这城。",
     Eng:"Then Joshua and all Israel with him moved on from Lachish to Eglon; they took up positions against it and attacked it.",
     Ind:"Kemudian Yosua dengan seluruh Israel berjalan terus dari Lakhis ke Eglon, lalu mereka berkemah mengepung kota itu dan berperang melawannya."
@@ -213,31 +213,31 @@ BibleDB.add([
     Ind:"Kota itu direbut mereka pada hari itu juga dan dipukul dengan mata pedang. Semua makhluk yang ada di dalamnya ditumpasnya pada hari itu, tepat seperti yang dilakukan terhadap Lakhis."
   },
   {Bible:"Joshua", Chapter:10, Verse:36, Page:1,
-    Kor:"○여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 에글론에서 헤브론으로 쳐올라가서, 그들과 맞서서 전투를 벌였다.",
+    Kor:"○여호수아는, 자기와 함께 한 모든 이스라엘 사람과 더불어 에글론에서 헤브론으로 쳐올라가서, 그들과 맞서서 전투를 벌였다.",
     Chn:"约书亚和以色列众人从伊矶伦上希伯 去，攻打这城，",
     Eng:"Then Joshua and all Israel with him went up from Eglon to Hebron and attacked it.",
     Ind:"Kemudian Yosua dengan seluruh Israel bergerak maju dari Eglon ke Hebron, lalu berperang melawannya."
   },
   {Bible:"Joshua", Chapter:10, Verse:37, Page:1,
-    Kor:"그들이 그 성을 점령하고, 에글론에서와 꼭 같이, 그 왕과 온 성과 그 안에 사는 모든 사람을 한 사람도 살려 두지 않고 칼로 무찔렀다. 그들은 그 성과 그 성 안에 사는 모든 사람을 전멸시켜서 희생제물로 바쳤다.",
+    Kor:"그들이 그 성을 점령하고, 에글론에서와 꼭 같이, 그 왕과 온 성과 그 안에 사는 모든 사람을, 한 사람도 살려 두지 않고 칼로 무찔렀다. 그들은 그 성과 그 성 안에 사는 모든 사람을 전멸시켜서 희생제물로 바쳤다.",
     Chn:"就夺了希伯 和属希伯 的诸城邑，用刀将城中的人与王，并那些城邑中的人口，都击杀了，没有留下一个，是照他向伊矶伦所行的，把城中的一切人口尽行杀灭。",
     Eng:"They took the city and put it to the sword, together with its king, its villages and everyone in it. They left no survivors. Just as at Eglon, they totally destroyed it and everyone in it.",
     Ind:"Negeri itu direbut mereka dan dipukul dengan mata pedang, juga rajanya dan segala kotanya dan semua makhluk yang ada di dalamnya, tidak seorangpun yang dibiarkannya lolos, tepat seperti yang dilakukannya terhadap Eglon. Kota itu dan semua makhluk yang ada di dalamnya ditumpasnya."
   },
   {Bible:"Joshua", Chapter:10, Verse:38, Page:1,
-    Kor:"○여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 드빌로 돌아와서, 전투를 벌였다.",
+    Kor:"○여호수아는, 자기와 함께 한 모든 이스라엘 사람과 더불어, 드빌로 돌아와서 전투를 벌였다.",
     Chn:"约书亚和以色列众人回到底璧，攻打这城，",
     Eng:"Then Joshua and all Israel with him turned around and attacked Debir.",
     Ind:"Kemudian Yosua dengan seluruh Israel kembali ke Debir, lalu berperang melawannya."
   },
   {Bible:"Joshua", Chapter:10, Verse:39, Page:1,
-    Kor:"그는 그 성과 왕과 그의 모든 성읍들을 점령하고, 칼로 쳐서, 그 안에 사는 모든 사람을 전멸시켜서 희생제물로 바쳤으며, 한 사람도 살려 두지 않았다. 그는 헤브론과 립나와 그 왕에게 한 것과 꼭 같이 드빌과 그 왕을 무찔렀다.",
+    Kor:"그는 그 성과 왕과 그의 모든 성읍들을 점령하고, 칼로 쳐서, 그 안에 사는 모든 사람을 전멸시켜서 희생제물로 바쳤으며, 한 사람도 살려 두지 않았다. 그는, 헤브론과 립나와 그 왕에게 한 것과 꼭 같이, 드빌과 그 왕을 무찔렀다.",
     Chn:"就夺了底璧和属底璧的城邑，又擒获底璧的王，用刀将这些城中的人口尽行杀灭，没有留下一个。他待底璧和底璧王，像从前待希伯 和立拿与立拿王一样。",
     Eng:"They took the city, its king and its villages, and put them to the sword. Everyone in it they totally destroyed. They left no survivors. They did to Debir and its king as they had done to Libnah and its king and to Hebron.",
     Ind:"Negeri itu beserta rajanya dan segala kotanya direbutnya, dan dipukul dengan mata pedang. Semua makhluk yang ada di dalamnya ditumpas mereka, tidak seorangpun yang dibiarkannya lolos; seperti yang dilakukannya terhadap Hebron, demikianlah dilakukan terhadap Debir beserta rajanya, sama seperti yang dilakukannya terhadap Libna beserta rajanya."
   },
   {Bible:"Joshua", Chapter:10, Verse:40, Page:1,
-    Kor:"○이와 같이 여호수아는 온 땅 곧 산간지방과 네겝 지방과 평지와 경사지와 그들의 모든 왕을 무찔러 한 사람도 살려 두지 않았으며, 이스라엘의 주 하나님의 명을 따라, 살아서 숨쉬는 것은 모두 전멸시켜서 희생제물로 바쳤다.",
+    Kor:"○이와 같이 여호수아는 온 땅, 곧 산간지방과 네겝 지방과 평지와 경사지와, 그들의 모든 왕을 무찔러 한 사람도 살려 두지 않았으며, 이스라엘의 주 하나님의 명을 따라, 살아서 숨쉬는 것은 모두 전멸시켜서 희생제물로 바쳤다.",
     Chn:"这样，约书亚击杀全地的人，就是山地、南地、高原、山坡的人，和那些地的诸王，没有留下一个。将凡有气息的尽行杀灭，正如耶和华—以色列的　神所吩咐的。",
     Eng:"So Joshua subdued the whole region, including the hill country, the Negev, the western foothills and the mountain slopes, together with all their kings. He left no survivors. He totally destroyed all who breathed, just as the LORD, the God of Israel, had commanded.",
     Ind:"Demikianlah Yosua mengalahkan seluruh negeri itu, Pegunungan, Tanah Negeb, Daerah Bukit dan Lereng Gunung, beserta semua raja mereka. Tidak seorangpun yang dibiarkannya lolos, tetapi ditumpasnya semua yang bernafas, seperti yang diperintahkan TUHAN, Allah Israel."
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"Semua raja ini dan negeri mereka telah dikalahkan Yosua sekaligus, sebab yang berperang untuk orang Israel ialah TUHAN, Allah Israel."
   },
   {Bible:"Joshua", Chapter:10, Verse:43, Page:1,
-    Kor:"여호수아는 자기를 따르는 모든 이스라엘 사람과 더불어 길갈에 있는 진으로 돌아왔다.",
+    Kor:"여호수아는, 자기와 함께 한 모든 이스라엘 사람과 더불어, 길갈에 있는 진으로 돌아왔다.",
     Chn:"于是约书亚和以色列众人回到吉甲的营中。",
     Eng:"Then Joshua returned with all Israel to the camp at Gilgal. JOS",
     Ind:"Kemudian Yosua dengan seluruh Israel pulang kembali ke tempat perkemahan di Gilgal."

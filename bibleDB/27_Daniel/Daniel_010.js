@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",10,21);
 BibleDB.add([
   {Bible:"Daniel", Chapter:10, Verse:1, Page:1,
-    Kor:"<티그리스 강변에서의 환상> 페르시아의 고레스 왕 제 삼년에, 일명 벨드사살이라고 하는 다니엘이 계시로 말씀을 받았다. 그 말씀은 참된 것이었는데, 환상을 보는 가운데, 심한 고생 끝에 겨우 그 뜻을 깨달았다.",
+    Kor:"페르시아의 고레스 왕 제 삼년에, 일명 벨드사살이라고 하는 다니엘이 계시로 말씀을 받았다. 그 말씀은 참된 것이었는데, 환상을 보는 가운데, 심한 고생 끝에 겨우 그 뜻을 깨달았다.",
     Chn:"波斯王塞鲁士第三年，有事显给称为伯提沙撒的但以理。这事是真的，是指着大争战；但以理通达这事，明白这异象。",
     Eng:"In the third year of Cyrus king of Persia, a revelation was given to Daniel (who was called Belteshazzar). Its message was true and it concerned a great war. The understanding of the message came to him in a vision.",
     Ind:"Pada tahun ketiga pemerintahan Koresh, raja orang Persia, suatu firman dinyatakan kepada Daniel yang diberi nama Beltsazar; firman itu benar dan mengenai kesusahan yang besar. Maka dicamkannyalah firman itu dan diperhatikannyalah penglihatan itu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"makanan yang sedap tidak kumakan, daging dan anggur tidak masuk ke dalam mulutku dan aku tidak berurap sampai berlalu tiga minggu penuh."
   },
   {Bible:"Daniel", Chapter:10, Verse:4, Page:1,
-    Kor:"○a첫째 달 스무나흗날에 나는 큰 강 티그리스 강 둑에 와 있었다.(a 양력 삼월 중순 이후)",
+    Kor:"○첫째 달 스무나흗날에 나는 큰 강 티그리스 강 둑에 와 있었다.",
     Chn:"正月二十四日，我在底格里斯大河边，",
     Eng:"On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris,",
     Ind:"Pada hari kedua puluh empat bulan pertama, ketika aku ada di tepi sungai besar, yakni sungai Tigris,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Ketika dikatakannya hal ini kepadaku, kutundukkan mukaku ke tanah dan aku terkelu."
   },
   {Bible:"Daniel", Chapter:10, Verse:16, Page:1,
-    Kor:"그런데 갑자기 b사람처럼 생긴 이가 나의 입술을 어루만졌다. 내가 입을 열어서, 내 앞에 서 있는 이에게 말하였다. \"천사님, 제가 환상을 보고 충격을 받고, 맥이 모두 빠져 버렸습니다.(b 대다수의 마소라 본문을 따름. 하나의 마소라 본문과 사해 사본과 칠십인역에는 '사람의 손처럼 생긴 것이')",
+    Kor:"그런데 갑자기 사람처럼 생긴 이가 나의 입술을 어루만졌다. 내가 입을 열어서, 내 앞에 서 있는 이에게 말하였다. \"천사님, 제가 환상을 보고 충격을 받고, 맥이 모두 빠져 버렸습니다.",
     Chn:"不料，有一位像人的，摸我的嘴唇，我便开口向那站在我面前的说：「我主啊，因见这异象，我大大愁苦，毫无气力。",
     Eng:"Then one who looked like a man touched my lips, and I opened my mouth and began to speak. I said to the one standing before me, \"I am overcome with anguish because of the vision, my lord, and I am helpless.",
     Ind:"Tetapi sesuatu yang menyerupai manusia menyentuh bibirku; lalu kubuka mulutku dan mulai berbicara, kataku kepada yang berdiri di depanku itu: \"Tuanku, oleh sebab penglihatan itu aku ditimpa kesakitan, dan tidak ada lagi kekuatan padaku."

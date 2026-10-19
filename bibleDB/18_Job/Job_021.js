@@ -3,7 +3,7 @@
 BibleDB.ref("Job",21,34);
 BibleDB.add([
   {Bible:"Job", Chapter:21, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Kepada manusiakah keluhanku tertuju? Mengapa aku tidak boleh kesal hati?"
   },
   {Bible:"Job", Chapter:21, Verse:5, Page:1,
-    Kor:"내 곤경을 좀 보아라. 놀라지 않을 수 없을 것이다. 기가 막혀 손으로 입을 막고 말 것이다.",
+    Kor:"내 곤경을 좀 보아라. 놀라지 앟을 수 없을 것이다. 기가 막혀 손으로 입을 막고 말 것이다.",
     Chn:"你们要看着我而惊奇， 用手捂口。",
     Eng:"Look at me and be astonished; clap your hand over your mouth.",
     Ind:"Berpalinglah kepadaku, maka kamu akan tercengang, dan menutup mulutmu dengan tangan!"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Mereka bernyanyi-nyanyi dengan iringan rebana dan kecapi, dan bersukaria menurut lagu seruling."
   },
   {Bible:"Job", Chapter:21, Verse:13, Page:1,
-    Kor:"그들은 그렇게 일생을 행복하게 살다가, 죽을 때에는 아무런 고통도 없이 조용하게 a스올로 내려간다. (a 또는 '무덤' 또는 '죽음')",
+    Kor:"그들은 그렇게 일생을 행복하게 살다가, 죽을 때에는 아무런 고통도 없이 조용하게 스올로 내려간다.",
     Chn:"他们度日诸事亨通， 转眼下入阴间。",
     Eng:"They spend their years in prosperity and go down to the grave in peace.",
     Ind:"Mereka menghabiskan hari-hari mereka dalam kemujuran, dan dengan tenang mereka turun ke dalam dunia orang mati."

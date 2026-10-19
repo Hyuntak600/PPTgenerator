@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",7,40);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:7, Verse:1, Page:1,
-    Kor:"<잇사갈의 자손> 잇사갈의 아들은 돌라와 부아와 야숩과 시므론, 이렇게 넷이다.",
+    Kor:"잇사갈의 아들은 돌라와 부아와 야숩과 시므론, 이렇게 넷이다.",
     Chn:"以萨迦的儿子是陀拉、普瓦、雅述、伸 ，共四人。",
     Eng:"The sons of Issachar: Tola, Puah, Jashub and Shimron--four in all.",
     Ind:"Anak-anak Isakhar ialah Tola dan Pua, Yasub dan Simron, empat orang."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Saudara-saudara sesuku mereka dari segala kaum Isakhar, pahlawan-pahlawan yang gagah perkasa, semuanya ada delapan puluh tujuh ribu orang yang terdaftar dalam silsilah."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:6, Page:1,
-    Kor:"<베냐민과 단의 자손> ○베냐민의 아들은 벨라와 베겔과 여디아엘, 이렇게 셋이다.",
+    Kor:"○베냐민의 아들은 벨라와 베겔과 여디아엘, 이렇게 셋이다.",
     Chn:"便雅悯的儿子是比拉、比结、耶叠，共三人。",
     Eng:"Three sons of Benjamin: Bela, Beker and Jediael.",
     Ind:"Anak-anak Benyamin ialah Bela, Bekher dan Yediael, tiga orang."
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Sekaliannya itu ialah keturunan Yediael, kepala-kepala puak mereka, pahlawan-pahlawan yang gagah perkasa; orang-orang yang sanggup berperang ada tujuh belas ribu dua ratus."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:12, Page:1,
-    Kor:"이르의 자손은 숩빔과 훕빔이고, 아헬의 아들은 후심이다.",
+    Kor:"이르의 자손은 숩빔과 컂빔이고, 아헬의 아들은 후심이다.",
     Chn:"还有以珥的儿子书品、户品，并亚黑的儿子户伸。",
     Eng:"The Shuppites and Huppites were the descendants of Ir, and the Hushites the descendants of Aher.",
     Ind:"Dan Supim dan Hupim ialah keturunan Ir; Husim ialah keturunan Aher."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:13, Page:1,
-    Kor:"<납달리의 자손> ○납달리의 아들은 a야스엘과 구니와 예셀과 살룸인데, 이들은 빌하의 손자이다.(a 히, '야시엘')",
+    Kor:"○납달리의 아들은 야시엘과 구니와 예셀과 살룸인데, 이들은 빌하의 손자이다.",
     Chn:"拿弗他利的儿子是雅薛、沽尼、耶色、沙龙。这都是辟拉的子孙。",
     Eng:"The sons of Naphtali: Jahziel, Guni, Jezer and Shillem--the descendants of Bilhah.",
     Ind:"Anak-anak Naftali ialah Yahziel, Guni, Yezer dan Salum, anak-anaknya dari Bilha."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:14, Page:1,
-    Kor:"<므낫세의 자손> ○므낫세의 아들은 그의 첩 아람 여자가 낳은 아스리엘이다. 길르앗의 아버지 마길도 이 여자가 낳았다.",
+    Kor:"○므낫세의 아들은 그의 첩 아람 여자가 낳은 아스리엘이다. 길르앗의 아버지 마길도 이 여자가 낳았다.",
     Chn:"玛拿西的儿子亚斯列是他妾亚兰人所生的，又生了基列之父玛吉。",
     Eng:"The descendants of Manasseh: Asriel was his descendant through his Aramean concubine. She gave birth to Makir the father of Gilead.",
     Ind:"Keturunan Manasye ialah Asriel yang dilahirkan oleh gundiknya, perempuan Aram itu; perempuan ini melahirkan Makhir, bapa Gilead."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:15, Page:1,
-    Kor:"마길은 훕빔과 숩빔에게 아내를 얻어 주었는데, 그 누이의 이름은 마아가이다. 므낫세의 둘째 아들의 이름은 슬로브핫인데, 슬로브핫은 딸만 낳았다.",
+    Kor:"마길은 컂빔과 숩빔에게 아내를 얻어 주었는데, 그 누이의 이름은 마아가이다. 므낫세의 둘째 아들의 이름은 슬로브핫인데, 슬로브핫은 딸만 낳았다.",
     Chn:"玛吉娶的妻是户品、书品的妹子，名叫玛迦。玛拿西的次子名叫西罗非哈；西罗非哈但有几个女儿。",
     Eng:"Makir took a wife from among the Huppites and Shuppites. His sister's name was Maacah. Another descendant was named Zelophehad, who had only daughters.",
     Ind:"Makhir mengambil seorang isteri bagi Hupim dan Supim; nama saudaranya perempuan ialah Maakha. Nama anak yang kedua ialah Zelafead. Zelafead hanya mempunyai anak-anak perempuan."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Anak-anak Semida ialah Ahyan, Sekhem, Likhi dan Aniam."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:20, Page:1,
-    Kor:"<에브라임의 자손> ○에브라임의 아들은 수델라이고, 그 아들은 베렛이고, 그 아들은 다핫이고, 그 아들은 엘르아다이고, 그 아들은 다핫이고,",
+    Kor:"○에브라임의 아들은 수델라이고, 그 아들은 베렛이고, 그 아들은 다핫이고, 그 아들은 엘르아다이고, 그 아들은 다핫이고,",
     Chn:"以法莲的儿子是书提拉；书提拉的儿子是比列；比列的儿子是他哈；他哈的儿子是以拉大；以拉大的儿子是他哈；",
     Eng:"The descendants of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,",
     Ind:"Keturunan Efraim ialah Sutelah, dan anak orang ini ialah Bered, dan anak orang ini ialah Tahat, dan anak orang ini ialah Elada, dan anak orang ini ialah Tahat,"
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Tanah milik mereka dan tempat kediaman mereka ialah Betel dengan segala anak kotanya, Naaran di sebelah timur dan Gezer dengan segala anak kotanya di sebelah barat, kemudian Sikhem dengan segala anak kotanya sampai Aya dengan segala anak kotanya,"
   },
   {Bible:"1Chronicles", Chapter:7, Verse:29, Page:1,
-    Kor:"○벳산과 그 주변 마을과, 다아낙과 그 주변 마을과, 므깃도와 그 주변 마을과, 돌과 그 주변 마을은 므낫세 자손에게 돌아갔다. ○이 여러 곳에 이스라엘의 아들 요셉의 자손이 살았다.",
+    Kor:"○벳스안과 그 주변 마을과, 다아낙과 그 주변 마을과, 므깃도와 그 주변 마을과, 돌과 그 주변 마을은 므낫세 자손에게 돌아갔다. ○이 여러 곳에 이스라엘의 아들 요셉의 자손이 살았다.",
     Chn:"还有靠近玛拿西人的境界，伯·善与其村庄；他纳与其村庄；米吉多与其村庄；多珥与其村庄。以色列儿子约瑟的子孙住在这些地方。",
     Eng:"Along the borders of Manasseh were Beth Shan, Taanach, Megiddo and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns.",
     Ind:"dan pada perbatasan bani Manasye: Bet-Sean dengan segala anak kotanya, juga Taanakh dengan segala anak kotanya, Megido dengan segala anak kotanya, Dor dengan segala anak kotanya. Di tempat-tempat itulah keturunan Yusuf bin Israel diam."
   },
   {Bible:"1Chronicles", Chapter:7, Verse:30, Page:1,
-    Kor:"<아셀의 자손> ○아셀의 아들은 임나와 이스와와 이스위와 브리아이며, 그들의 누이는 세라이다.",
+    Kor:"○아셀의 아들은 임나와 이스와와 이스위와 브리아이며, 그들의 누이는 세라이다.",
     Chn:"亚设的儿子是音拿、亦施瓦、亦施韦、比利亚，还有他们的妹子西 拉。",
     Eng:"The sons of Asher: Imnah, Ishvah, Ishvi and Beriah. Their sister was Serah.",
     Ind:"Anak-anak Asyer ialah Yimna, Yiswa, Yiswi dan Beria; Serah ialah saudara perempuan mereka."

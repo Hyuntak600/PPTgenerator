@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",38,22);
 BibleDB.add([
   {Bible:"Psalms", Chapter:38, Verse:1, Page:1,
-    Kor:"<기념 예배에서 읊는 다윗의 시> 주님, 주님의 분노로 나를 책망하지 마시고, 주님의 진노로 나를 벌하지 말아 주십시오.",
+    Kor:"주님, 주의 분노로 나를 책망하지 마시고, 주의 진노로 나를 벌하지 말아 주십시오.",
     Chn:"大卫的纪念诗。 耶和华啊，求你不要在怒中责备我， 不要在烈怒中惩罚我！",
     Eng:"O LORD, do not rebuke me in your anger or discipline me in your wrath.",
     Ind:"Mazmur Daud pada waktu mempersembahkan korban peringatan. (38-2) TUHAN, janganlah menghukum aku dalam geram-Mu, dan janganlah menghajar aku dalam kepanasan murka-Mu;"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"(38-3) sebab anak panah-Mu menembus aku, tangan-Mu telah turun menimpa aku."
   },
   {Bible:"Psalms", Chapter:38, Verse:3, Page:1,
-    Kor:"주님께서 노하시므로, 나의 살에는 성한 곳이 없습니다. 내가 지은 죄 때문에, 나의 뼈에도 성한 데가 없습니다.",
+    Kor:"주께서 노하시므로, 나의 몸에 성한 곳이 없습니다. 내가 지은 죄 때문에, 이 몸에 성한 데가 없습니다.",
     Chn:"因你的恼怒，我的肉无一完全； 因我的罪过，我的骨头也不安宁。",
     Eng:"Because of your wrath there is no health in my body; my bones have no soundness because of my sin.",
     Ind:"(38-4) Tidak ada yang sehat pada dagingku oleh karena amarah-Mu, tidak ada yang selamat pada tulang-tulangku oleh karena dosaku;"
   },
   {Bible:"Psalms", Chapter:38, Verse:4, Page:1,
-    Kor:"내 죄의 벌이 나를 짓누르니, 이 무거운 짐을 내가 더는 견딜 수 없습니다.",
+    Kor:"내 잘못이 바로 내 머리에까지 미치니, 이 무거운 짐을 내가 더는 견딜 수 없습니다.",
     Chn:"我的罪孽高过我的头， 如同重担叫我担当不起。",
     Eng:"My guilt has overwhelmed me like a burden too heavy to bear.",
     Ind:"(38-5) sebab kesalahanku telah menimpa kepalaku; semuanya seperti beban berat yang menjadi terlalu berat bagiku."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"(38-9) aku kehabisan tenaga dan remuk redam, aku merintih karena degap-degup jantungku."
   },
   {Bible:"Psalms", Chapter:38, Verse:9, Page:1,
-    Kor:"아, 주님, 나의 모든 탄원, 주님께서 다 아십니다. 나의 모든 탄식, 주님 앞에 숨길 수 없습니다.",
+    Kor:"아, 주님, 나의 모든 소원, 주께서 다 아십니다. 나의 모든 탄식, 주님 앞에 숨길 수 없습니다.",
     Chn:"主啊，我的心愿都在你面前； 我的叹息不向你隐瞒。",
     Eng:"All my longings lie open before you, O Lord; my sighing is not hidden from you.",
     Ind:"(38-10) Tuhan, Engkau mengetahui segala keinginanku, dan keluhkupun tidak tersembunyi bagi-Mu;"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"(38-11) jantungku berdebar-debar, kekuatanku hilang, dan cahaya matakupun lenyap dari padaku."
   },
   {Bible:"Psalms", Chapter:38, Verse:11, Page:1,
-    Kor:"나의 사랑하는 자와 친구들이 내 상처를 바라보곤 비켜섭니다. 가족들마저 나를 멀리합니다.",
+    Kor:"친구들과 이웃들이 내 상처를 바라보곤 비켜섭니다. 가족들마저 나를 멀리합니다.",
     Chn:"我的良朋密友因我的灾病都躲在旁边站着； 我的亲戚本家也远远地站立。",
     Eng:"My friends and companions avoid me because of my wounds; my neighbors stay far away.",
     Ind:"(38-12) Sahabat-sahabatku dan teman-temanku menyisih karena penyakitku, dan sanak saudaraku menjauh."
@@ -93,31 +93,31 @@ BibleDB.add([
     Ind:"(38-16) Sebab kepada-Mu, ya TUHAN, aku berharap; Engkaulah yang akan menjawab, ya Tuhan, Allahku."
   },
   {Bible:"Psalms", Chapter:38, Verse:16, Page:1,
-    Kor:"내가 재난에 빠져 있을 때에 주님께 기도하였습니다. \"내 원수들이 나를 비웃지 못하게 하시고, 나의 발이 힘을 잃고 비틀거릴 때에도, 그들이 나를 보고 우쭐거리지 못하게 해주십시오.\"",
+    Kor:"내가 재난에 빠져 있을 때에 그들이 나를 비웃지 못하게 하시고, 나의 발이 힘을 잃고 비틀거릴 때에도, 그들이 나를 보고 허세를 부리지 못하게 해주시라고 주께 기도하였습니다.",
     Chn:"我曾说：恐怕他们向我夸耀； 我失脚的时候，他们向我夸大。",
     Eng:"For I said, \"Do not let them gloat or exalt themselves over me when my foot slips.\"",
     Ind:"(38-17) Pikirku: \"Asal mereka jangan beria-ria karena aku, jangan membesarkan diri terhadap aku apabila kakiku goyah!\""
   },
   {Bible:"Psalms", Chapter:38, Verse:17, Page:1,
-    Kor:"나는 곧 쓰러질 것 같으며, 고통은 잠시도 나를 떠나지 않습니다.",
+    Kor:"드디어 나는 넘어졌고, 고통은 잠시도 나를 떠나지 않습니다.",
     Chn:"我几乎跌倒； 我的痛苦常在我面前。",
     Eng:"For I am about to fall, and my pain is ever with me.",
     Ind:"(38-18) Sebab aku mulai jatuh karena tersandung, dan aku selalu dirundung kesakitan;"
   },
   {Bible:"Psalms", Chapter:38, Verse:18, Page:1,
-    Kor:"진정으로 나는 나의 잘못을 털어놓고, 나의 죄 때문에 괴로워하지만,",
+    Kor:"진정으로 나는 나의 잘못을 털어놓고, 나의 죄를 슬퍼하지만,",
     Chn:"我要承认我的罪孽； 我要因我的罪忧愁。",
     Eng:"I confess my iniquity; I am troubled by my sin.",
     Ind:"(38-19) ya, aku mengaku kesalahanku, aku cemas karena dosaku."
   },
   {Bible:"Psalms", Chapter:38, Verse:19, Page:1,
-    Kor:"강력한 나의 원수들은 점점 많아지기만 하고, 나를 까닭 없이 미워하는 자들도 점점 불어나기만 합니다.",
+    Kor:"나의 원수들은 많아지기만 하고, 나를 까닭 없이 미워하는 자들도 불어나기만 합니다.",
     Chn:"但我的仇敌又活泼又强壮， 无理恨我的增多了。",
     Eng:"Many are those who are my vigorous enemies; those who hate me without reason are numerous.",
     Ind:"(38-20) Orang-orang yang memusuhi aku besar jumlahnya, banyaklah orang-orang yang membenci aku tanpa sebab;"
   },
   {Bible:"Psalms", Chapter:38, Verse:20, Page:1,
-    Kor:"나의 선을 악으로 갚는 저 사람들은, 내가 그들의 유익을 도모할 때, 오히려 나를 대적합니다.",
+    Kor:"악으로 선을 갚는 저 사람들은, 내가 선을 따르므로 나에게 원한을 품습니다.",
     Chn:"以恶报善的与我作对， 因我是追求良善。",
     Eng:"Those who repay my good with evil slander me when I pursue what is good.",
     Ind:"(38-21) mereka membalas yang jahat kepadaku ganti yang baik, mereka memusuhi aku, karena aku mengejar yang baik."

@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",17,24);
 BibleDB.add([
   {Bible:"1Kings", Chapter:17, Verse:1, Page:1,
-    Kor:"<엘리야와 가뭄> 길르앗의 디셉에 사는 디셉 사람 엘리야가 아합에게 말하였다. \"내가 섬기는 주 이스라엘의 하나님께서 살아 계심을 두고 맹세합니다. 내가 다시 입을 열기까지 앞으로 몇 해 동안은, 비는 커녕 이슬 한 방울도 내리지 않을 것입니다.\"",
+    Kor:"길르앗의 디셉에 사는 디셉 사람 엘리야가 아합에게 말하였다. \"내가 섬기는 주 이스라엘의 하나님께서 살아 계심을 두고 맹세합니다. 내가 다시 입을 열기까지 앞으로 몇 해 동안은, 비는 커녕 이슬 한 방울도 내리지 않을 것입니다.\"",
     Chn:"基列寄居的提斯比人以利亚对亚哈说：「我指着所事奉永生耶和华—以色列的　神起誓，这几年我若不祷告，必不降露，不下雨。」",
     Eng:"Now Elijah the Tishbite, from Tishbe in Gilead, said to Ahab, \"As the LORD, the God of Israel, lives, whom I serve, there will be neither dew nor rain in the next few years except at my word.\"",
     Ind:"Lalu berkatalah Elia, orang Tisbe, dari Tisbe-Gilead, kepada Ahab: \"Demi Tuhan yang hidup, Allah Israel, yang kulayani, sesungguhnya tidak akan ada embun atau hujan pada tahun-tahun ini, kecuali kalau kukatakan.\""
   },
   {Bible:"1Kings", Chapter:17, Verse:2, Page:1,
-    Kor:"○주님께서 엘리야에게 말씀하셨다.",
+    Kor:"○주께서 엘리야에게 말씀하셨다.",
     Chn:"耶和华的话临到以利亚说：",
     Eng:"Then the word of the LORD came to Elijah:",
     Ind:"Kemudian datanglah firman TUHAN kepadanya:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Engkau dapat minum dari sungai itu, dan burung-burung gagak telah Kuperintahkan untuk memberi makan engkau di sana.\""
   },
   {Bible:"1Kings", Chapter:17, Verse:5, Page:1,
-    Kor:"○엘리야는 주님의 말씀대로 가서, 그대로 하였다. 그는 곧 가서, 요단 강 앞에 있는 그릿 시냇가에 머물렀다.",
+    Kor:"○엘리야는 주의 말씀대로 가서, 그대로 하였다. 그는 곧 가서, 요단 강 앞에 있는 그릿 시냇가에 머물렀다.",
     Chn:"于是以利亚照着耶和华的话，去住在约旦河东的基立溪旁。",
     Eng:"So he did what the LORD had told him. He went to the Kerith Ravine, east of the Jordan, and stayed there.",
     Ind:"Lalu ia pergi dan ia melakukan seperti firman TUHAN; ia pergi dan diam di tepi sungai Kerit di sebelah timur sungai Yordan."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Tetapi sesudah beberapa waktu, sungai itu menjadi kering, sebab hujan tiada turun di negeri itu."
   },
   {Bible:"1Kings", Chapter:17, Verse:8, Page:1,
-    Kor:"<엘리야와 사르밧> ○주님께서 엘리야에게 말씀하셨다.",
+    Kor:"○주께서 엘리야에게 말씀하셨다.",
     Chn:"耶和华的话临到他说：",
     Eng:"Then the word of the LORD came to him:",
     Ind:"Maka datanglah firman TUHAN kepada Elia:"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tetapi Elia berkata kepadanya: \"Janganlah takut, pulanglah, buatlah seperti yang kaukatakan, tetapi buatlah lebih dahulu bagiku sepotong roti bundar kecil dari padanya, dan bawalah kepadaku, kemudian barulah kaubuat bagimu dan bagi anakmu."
   },
   {Bible:"1Kings", Chapter:17, Verse:14, Page:1,
-    Kor:"주님께서 이 땅에 다시 비를 내려 주실 때까지, 그 뒤주의 밀가루가 떨어지지 않을 것이며, 병의 기름이 마르지 않을 것이라고, 주 이스라엘의 하나님께서 말씀하셨습니다.\"",
+    Kor:"주께서 이 땅에 다시 비를 내려 주실 때까지, 그 뒤주의 밀가루가 떨어지지 않을 것이며, 병의 기름이 마르지 않을 것이라고, 주 이스라엘의 하나님께서 말씀하셨습니다.\"",
     Chn:"因为耶和华—以色列的　神如此说：坛内的面必不减少，瓶里的油必不缺短，直到耶和华使雨降在地上的日子。」",
     Eng:"For this is what the LORD, the God of Israel, says: 'The jar of flour will not be used up and the jug of oil will not run dry until the day the LORD gives rain on the land.'\"",
     Ind:"Sebab beginilah firman TUHAN, Allah Israel: Tepung dalam tempayan itu tidak akan habis dan minyak dalam buli-buli itupun tidak akan berkurang sampai pada waktu TUHAN memberi hujan ke atas muka bumi.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu pergilah perempuan itu dan berbuat seperti yang dikatakan Elia; maka perempuan itu dan dia serta anak perempuan itu mendapat makan beberapa waktu lamanya."
   },
   {Bible:"1Kings", Chapter:17, Verse:16, Page:1,
-    Kor:"뒤주의 밀가루가 떨어지지 않고, 병의 기름도 마르지 않았다. 주님께서 엘리야를 시켜서 하신 주님의 말씀대로 되었다.",
+    Kor:"뒤주의 밀가루가 떨어지지 않고, 병의 기름도 마르지 않았다. 주께서 엘리야를 시켜서 하신 주의 말씀대로 되었다.",
     Chn:"坛内的面果不减少，瓶里的油也不缺短，正如耶和华借以利亚所说的话。",
     Eng:"For the jar of flour was not used up and the jug of oil did not run dry, in keeping with the word of the LORD spoken by Elijah.",
     Ind:"Tepung dalam tempayan itu tidak habis dan minyak dalam buli-buli itu tidak berkurang seperti firman TUHAN yang diucapkan-Nya dengan perantaraan Elia."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Kata Elia kepadanya: \"Berikanlah anakmu itu kepadaku.\" Elia mengambilnya dari pangkuan perempuan itu dan membawanya naik ke kamarnya di atas, dan membaringkan anak itu di tempat tidurnya."
   },
   {Bible:"1Kings", Chapter:17, Verse:20, Page:1,
-    Kor:"주님께 부르짖었다. \"주 나의 하나님, 어찌하여 내가 머물고 있는 이 집의 과부에게 이렇게 재앙을 내리시어, 그 아들을 죽게 하십니까?\"",
+    Kor:"주께 부르짖었다. \"주 나의 하나님, 어찌하여 내가 머물고 있는 이 집의 과부에게 이렇게 재앙을 내리시어, 그 아들을 죽게 하십니까?\"",
     Chn:"就求告耶和华说：「耶和华—我的　神啊，我寄居在这寡妇的家里，你就降祸与她，使她的儿子死了吗？」",
     Eng:"Then he cried out to the LORD, \"O LORD my God, have you brought tragedy also upon this widow I am staying with, by causing her son to die?\"",
     Ind:"Sesudah itu ia berseru kepada TUHAN, katanya: \"Ya TUHAN, Allahku! Apakah Engkau menimpakan kemalangan ini atas janda ini juga, yang menerima aku sebagai penumpang, dengan membunuh anaknya?\""
   },
   {Bible:"1Kings", Chapter:17, Verse:21, Page:1,
-    Kor:"그는 그 아이의 몸 위에 세 번이나 엎드려서, 몸과 몸을 맞춘 다음, 주님께 또 부르짖었다. \"주 나의 하나님, 제발 이 아이의 호흡이 되돌아오게 하여 주십시오!\"",
+    Kor:"그는 그 아이의 몸 위에 세 번이나 엎드려서, 몸과 몸을 맞춘 다음, 주께 또 부르짖었다. \"주 나의 하나님, 제발 이 아이의 호흡이 되돌아오게 하여 주십시오!\"",
     Chn:"以利亚三次伏在孩子的身上，求告耶和华说：「耶和华—我的　神啊，求你使这孩子的灵魂仍入他的身体！」",
     Eng:"Then he stretched himself out on the boy three times and cried to the LORD, \"O LORD my God, let this boy's life return to him!\"",
     Ind:"Lalu ia mengunjurkan badannya di atas anak itu tiga kali, dan berseru kepada TUHAN, katanya: \"Ya TUHAN, Allahku! Pulangkanlah kiranya nyawa anak ini ke dalam tubuhnya.\""
   },
   {Bible:"1Kings", Chapter:17, Verse:22, Page:1,
-    Kor:"주님께서 엘리야가 부르짖는 소리를 들으시고, 그 아이의 호흡을 되돌아오게 하여 주셔서, 그 아이가 살아났다.",
+    Kor:"주께서 엘리야가 부르짖는 소리를 들으시고, 그 아이의 호흡을 되돌아오게 하여 주셔서, 그 아이가 살아났다.",
     Chn:"耶和华应允以利亚的话，孩子的灵魂仍入他的身体，他就活了。",
     Eng:"The LORD heard Elijah's cry, and the boy's life returned to him, and he lived.",
     Ind:"TUHAN mendengarkan permintaan Elia itu, dan nyawa anak itu pulang ke dalam tubuhnya, sehingga ia hidup kembali."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Elia mengambil anak itu; ia membawanya turun dari kamar atas ke dalam rumah dan memberikannya kepada ibunya. Kata Elia: \"Ini anakmu, ia sudah hidup!\""
   },
   {Bible:"1Kings", Chapter:17, Verse:24, Page:1,
-    Kor:"그 여인이 엘리야에게 말하였다. \"이제야 저는, 어른이 바로 하나님의 사람이시라는 것과, 어른이 하시는 말씀은 참으로 주님의 말씀이라는 것을 알았습니다.\"",
+    Kor:"그 여인이 엘리야에게 말하였다. \"이제야 저는, 어른이 바로 하나님의 사람이시라는 것과, 어른이 하시는 말씀은 참으로 주의 말씀이라는 것을 알았습니다.\"",
     Chn:"妇人对以利亚说：「现在我知道你是神人，耶和华借你口所说的话是真的。」",
     Eng:"Then the woman said to Elijah, \"Now I know that you are a man of God and that the word of the LORD from your mouth is the truth.\"",
     Ind:"Kemudian kata perempuan itu kepada Elia: \"Sekarang aku tahu, bahwa engkau abdi Allah dan firman TUHAN yang kauucapkan itu adalah benar.\""

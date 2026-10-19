@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",27,12);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:27, Verse:1, Page:1,
-    Kor:"<다윗이 다시 아기스 왕에게 망명하다> 다윗이 혼자서 생각하였다. \"이제 이러다가, 내가 언젠가는 사울의 손에 붙잡혀 죽을 것이다. 살아나는 길은 블레셋 사람의 땅으로 망명하는 것뿐이다. 그러면 사울이 다시 나를 찾으려고 이스라엘의 온 땅을 뒤지다가 포기할 것이며, 나는 그의 손에서 벗어나게 될 것이다.\"",
+    Kor:"다윗이 혼자서 생각하였다. \"이제 이러다가, 내가 언젠가는 사울의 손에 붙잡혀 죽을 것이다. 살아나는 길은 블레셋 사람의 땅으로 망명하는 것뿐이다. 그러면 사울이 다시 나를 찾으려고 이스라엘의 온 땅을 뒤지다가 포기할 것이며, 나는 그의 손에서 벗어나게 될 것이다.\"",
     Chn:"大卫心里说：「必有一日我死在扫罗手里，不如逃奔非利士地去。扫罗见我不在以色列的境内，就必绝望，不再寻索我；这样我可以脱离他的手。」",
     Eng:"But David thought to himself, \"One of these days I will be destroyed by the hand of Saul. The best thing I can do is to escape to the land of the Philistines. Then Saul will give up searching for me anywhere in Israel, and I will slip out of his hand.\"",
     Ind:"Tetapi Daud berpikir dalam hatinya: \"Bagaimanapun juga pada suatu hari aku akan binasa oleh tangan Saul. Jadi tidak ada yang lebih baik bagiku selain meluputkan diri dengan segera ke negeri orang Filistin; maka tidak ada harapan bagi Saul untuk mencari aku lagi di seluruh daerah Israel dan aku akan terluput dari tangannya.\""
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Bersiaplah Daud, lalu berjalan ke sana, ia dan keenam ratus orang yang bersama-sama dengan dia itu, kepada Akhis bin Maokh, raja kota Gat."
   },
   {Bible:"1Samuel", Chapter:27, Verse:3, Page:1,
-    Kor:"그리하여 다윗은 가드에 있는 아기스에게로 가서 거처를 정하였다. 다윗과 그의 부하들은 저마다 가족을 거느리고 살았는데, 다윗이 거느린 두 아내는 이스르엘 여인 아히노암과 나발의 아내였던 갈멜 여인 아비가일이었다.",
+    Kor:"이리하여 다윗은 가드에 있는 아기스에게로 가서 거처를 정하였다. 다윗과 그의 부하들은 저마다 가족을 거느리고 살았는데, 다윗이 거느린 두 아내는 이스르엘 여인 아히노암과 나발의 아내였던 갈멜 여인 아비가일이었다.",
     Chn:"大卫和他的两个妻，就是耶斯列人亚希暖和作过拿八妻的迦密人亚比该，并跟随他的人，连各人的眷属，都住在迦特的亚吉那里。",
     Eng:"David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal.",
     Ind:"Daud dan semua orangnya menetap pada Akhis di Gat, masing-masing dengan rumah tangganya; Daud dengan kedua orang isterinya, yakni Ahinoam, perempuan Yizreel, dan Abigail, bekas isteri Nabal, perempuan Karmel."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Dan lamanya Daud tinggal di daerah orang Filistin adalah satu tahun empat bulan."
   },
   {Bible:"1Samuel", Chapter:27, Verse:8, Page:1,
-    Kor:"○바로 그 기간에, 다윗은 부하들을 거느리고 다니면서, 그술 사람과 기르스 사람과 아말렉 사람을 습격하곤 하였다. 그 사람들은 오래 전부터 수르 광야와 이집트 국경선에 이르는 전 지역에서 살고 있었다.",
+    Kor:"○바로 그 기간에, 다윗은 부하들을 거느리고 다니면서, 그술 사람과 기르스 사람과 아말렉 사람을 습격하곤 하였다. 그 사람들은 오래 전부터 들라임에서 술 광야와 이집트 국경선에 이르는 전 지역에 살고 있었다.",
     Chn:"大卫和跟随他的人上去，侵夺基述人、基色人、亚玛力人之地。这几族历来住在那地，从书珥直到埃及。",
     Eng:"Now David and his men went up and raided the Geshurites, the Girzites and the Amalekites. (From ancient times these peoples had lived in the land extending to Shur and Egypt.)",
     Ind:"Maka Daud dan orang-orangnya bergerak maju dan menyerbu orang Gesur, orang Girzi dan orang Amalek; sebab orang-orang inilah penduduk negeri itu yang membentang dari Telam ke arah Syur sampai tanah Mesir."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Apabila Daud memusnahkan negeri itu, seorangpun tidak dibiarkannya hidup, baik laki-laki maupun perempuan; ia merampas kambing domba, lembu, keledai, unta dan pakaian, kemudian pulanglah ia dan kembali kepada Akhis."
   },
   {Bible:"1Samuel", Chapter:27, Verse:10, Page:1,
-    Kor:"아기스는 으레 \"그대들이 오늘은 a어디를 습격하였소?\" 하고 묻고, 그럴 때마다 다윗은, 유다의 남쪽 지역을 털었다느니, 여라무엘 족속의 남쪽 지역을 털었다느니, 또는 겐 족속의 남쪽 지역을 털었다느니, 하는 식으로 대답을 하곤 하였다.(a 사해 사본과 칠십인역과 불가타에는 '누구를 습격하였소?')",
+    Kor:"아기스는 으레 \"그대들이 오늘은 어디를 습격하였소?\" 하고 묻고, 그럴 때마다 다윗은, 유다의 남쪽 지역을 털었다느니, 여라무엘 족속의 남쪽 지역을 털었다느니, 또는 겐 족속의 남쪽 지역을 털었다느니, 하는 식으로 대답을 하곤 하였다.",
     Chn:"亚吉说：「你们今日侵夺了什么地方呢？」大卫说：「侵夺了犹大的南方、耶拉篾的南方、基尼的南方。」",
     Eng:"When Achish asked, \"Where did you go raiding today?\" David would say, \"Against the Negev of Judah\" or \"Against the Negev of Jerahmeel\" or \"Against the Negev of the Kenites.\"",
     Ind:"Jika Akhis bertanya: \"Di mana kamu menyerbu pada hari ini?\" maka jawab Daud: \"Di Tanah Negeb Yehuda,\" atau: \"Di Tanah Negeb orang Yerahmeel,\" atau: \"Di Tanah Negeb orang Keni.\""

@@ -3,7 +3,7 @@
 BibleDB.ref("SongofSolomon",4,16);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:4, Verse:1, Page:1,
-    Kor:"<아름다운 신부 (남자)> 아름다워라, 나의 사랑! 아름다워라. 너울 속 그대의 눈동자는 비둘기 같고 그대의 머리채는 길르앗 비탈을 내려오는 염소 떼 같구나.",
+    Kor:"(남자) 아름다워라, 나의 사랑! 아름다워라. 너울 속 그대의 눈동자는 비둘기 같고 그대의 머리채는 길르앗 비탈을 내려오는 염소 떼 같구나.",
     Chn:"我的佳偶，你甚美丽！你甚美丽！ 你的眼在帕子内好像鸽子眼。 你的头发如同山羊群卧在基列山旁。",
     Eng:"How beautiful you are, my darling! Oh, how beautiful! Your eyes behind your veil are doves. Your hair is like a flock of goats descending from Mount Gilead.",
     Ind:"Lihatlah, cantik engkau, manisku, sungguh cantik engkau! Bagaikan merpati matamu di balik telekungmu. Rambutmu bagaikan kawanan kambing yang bergelombang turun dari pegunungan Gilead."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Lehermu seperti menara Daud, dibangun untuk menyimpan senjata. Seribu perisai tergantung padanya dan gada para pahlawan semuanya."
   },
   {Bible:"SongofSolomon", Chapter:4, Verse:5, Page:1,
-    Kor:"그대의 가슴은 나리꽃 밭에서 풀을 뜯는 한 쌍 사슴 같고 쌍둥이 노루 같구나.",
+    Kor:"그대의 젖가슴은 나리꽃 밭에서 풀을 뜯는 한 쌍 사슴 같고 쌍둥이 노루 같구나.",
     Chn:"你的两乳好像百合花中吃草的一对小鹿， 就是母鹿双生的。",
     Eng:"Your two breasts are like two fawns, like twin fawns of a gazelle that browse among the lilies.",
     Ind:"Seperti dua anak rusa buah dadamu, seperti anak kembar kijang yang tengah makan rumput di tengah-tengah bunga bakung."

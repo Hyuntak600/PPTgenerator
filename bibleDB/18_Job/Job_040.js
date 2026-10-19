@@ -3,7 +3,7 @@
 BibleDB.ref("Job",40,24);
 BibleDB.add([
   {Bible:"Job", Chapter:40, Verse:1, Page:1,
-    Kor:"주님께서 또 욥에게 말씀하셨다.",
+    Kor:"주께서 또 욥에게 말씀하셨다.",
     Chn:"耶和华又对约伯说：",
     Eng:"The LORD said to Job:",
     Ind:"(39-34) Maka jawab TUHAN kepada Ayub:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"(39-35) \"Apakah si pengecam hendak berbantah dengan Yang Mahakuasa? Hendaklah yang mencela Allah menjawab!\""
   },
   {Bible:"Job", Chapter:40, Verse:3, Page:1,
-    Kor:"○그 때에 욥이 주님께 대답하였다.",
+    Kor:"○그 때에 욥이 주께 대답하였다.",
     Chn:"于是，约伯回答耶和华说：",
     Eng:"Then Job answered the LORD:",
     Ind:"(39-36) Maka jawab Ayub kepada TUHAN:"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"(39-38) Satu kali aku berbicara, tetapi tidak akan kuulangi; bahkan dua kali, tetapi tidak akan kulanjutkan.\""
   },
   {Bible:"Job", Chapter:40, Verse:6, Page:1,
-    Kor:"○그러자 주님께서 폭풍 가운데서 다시 말씀하셨다.",
+    Kor:"○그러자 주께서 폭풍 가운데서 다시 말씀하셨다.",
     Chn:"于是，耶和华从旋风中回答约伯说：",
     Eng:"Then the LORD spoke to Job out of the storm:",
     Ind:"(40-1) Maka dari dalam badai TUHAN menjawab Ayub:"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"(40-9) Maka Akupun akan memuji engkau, karena tangan kananmu memberi engkau kemenangan.\""
   },
   {Bible:"Job", Chapter:40, Verse:15, Page:1,
-    Kor:"a베헤못을 보아라. 내가 너를 만든 것처럼, 그것도 내가 만들었다. 그것이 소처럼 풀을 뜯지만, (a 하마나 코끼리와 같은 짐승)",
+    Kor:"베헤못을 보아라. 내가 너를 만든 것처럼, 그것도 내가 만들었다. 그것이 소처럼 풀을 뜯지만,",
     Chn:"你且观看河马； 我造你也造它。 它吃草与牛一样；",
     Eng:"\"Look at the behemoth, which I made along with you and which feeds on grass like an ox.",
     Ind:"(40-10) \"Perhatikanlah kuda Nil, yang telah Kubuat seperti juga engkau. Ia makan rumput seperti lembu."

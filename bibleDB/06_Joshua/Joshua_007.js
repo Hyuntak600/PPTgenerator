@@ -3,13 +3,13 @@
 BibleDB.ref("Joshua",7,26);
 BibleDB.add([
   {Bible:"Joshua", Chapter:7, Verse:1, Page:1,
-    Kor:"<아간의 죄> 이스라엘 자손이, a전멸시켜서 주님께 바쳐야 할 물건을 잘못 다루었다. 유다 지파에서, 세라의 증손이요 삽디의 손자요 갈미의 아들인 아간이, 전멸시켜서 주님께 바쳐야 할 물건을 가져 갔기 때문에, 주님께서 이스라엘 자손들에게 진노하셨다.(a 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"이스라엘 자손이, 전멸시켜서 주께 바쳐야 할 물건을 잘못 다루었다. 유다 지파에서, 세라의 증손이요 삽디의 손자요 갈미의 아들인 아간이, 전멸시켜서 주께 바쳐야 할 물건을 가져 갔기 때문에, 주께서 이스라엘 자손들에게 진노하셨다.",
     Chn:"以色列人在当灭的物上犯了罪；因为犹大支派中，谢拉的曾孙，撒底的孙子，迦米的儿子亚干取了当灭的物；耶和华的怒气就向以色列人发作。",
     Eng:"But the Israelites acted unfaithfully in regard to the devoted things; Achan son of Carmi, the son of Zimri, the son of Zerah, of the tribe of Judah, took some of them. So the LORD'S anger burned against Israel.",
     Ind:"Tetapi orang Israel berubah setia dengan mengambil barang-barang yang dikhususkan itu, karena Akhan bin Karmi bin Zabdi bin Zerah, dari suku Yehuda, mengambil sesuatu dari barang-barang yang dikhususkan itu. Lalu bangkitlah murka TUHAN terhadap orang Israel."
   },
   {Bible:"Joshua", Chapter:7, Verse:2, Page:1,
-    Kor:"○여호수아가 여리고에서 b베델 동쪽 c벳아웬 곁에 있는 d아이 성으로 사람들을 보내면서, 그들에게 올라가서 그 땅을 정탐하라고 지시하니, 그 사람들이 올라가서 아이 성을 정탐하였다.(b '하나님의 집' c '악한 자의 집', 히브리어 본문에서는 벳아웬(악한 자의 집)과 베델(하나님의 집)이 대조되어 나옴. 칠십인역에는 '베델 곁에 있는 아이 성으로'임 d '폐허')",
+    Kor:"○여호수아가 여리고에서 베델 동쪽 벳아웬 곁에 있는 아이 성으로 사람들을 보내면서, 그들에게 올라가서 그 땅을 정탐하라고 지시하니, 그 사람들이 올라가서 아이 성을 정탐하였다.",
     Chn:"当下，约书亚从耶利哥打发人往伯特利东边、靠近伯·亚文的艾城去，吩咐他们说：「你们上去窥探那地。」他们就上去窥探艾城。",
     Eng:"Now Joshua sent men from Jericho to Ai, which is near Beth Aven to the east of Bethel, and told them, \"Go up and spy out the region.\" So the men went up and spied out Ai.",
     Ind:"Yosua menyuruh orang dari Yerikho ke Ai, yang letaknya dekat Bet-Awen, di sebelah timur Betel, dan berkata kepada mereka, demikian: \"Pergilah ke sana dan intailah negeri itu.\" Maka pergilah orang-orang itu ke sana dan mengintai kota Ai."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sebab orang-orang Ai menewaskan kira-kira tiga puluh enam orang dari mereka; orang-orang Israel itu dikejar dari depan pintu gerbang kota itu sampai ke Syebarim dan dipukul kalah di lereng. Lalu tawarlah hati bangsa itu amat sangat."
   },
   {Bible:"Joshua", Chapter:7, Verse:6, Page:1,
-    Kor:"○여호수아는 슬퍼하면서 옷을 찢고, 주님의 궤 앞에서 얼굴을 땅에 대고 엎드려서 저녁때까지 있었다. 이스라엘의 장로들도 그를 따라 슬픔에 젖어, 머리에 먼지를 뒤집어썼다.",
+    Kor:"○여호수아는 슬퍼하면서 옷을 찢고, 주의 궤 앞에서 얼굴을 땅에 대고 엎드려서 저녁때까지 있었다. 이스라엘의 장로들도 그를 따라 슬픔에 젖어, 머리에 먼지를 뒤집어썼다.",
     Chn:"约书亚便撕裂衣服；他和以色列的长老把灰撒在头上，在耶和华的约柜前俯伏在地，直到晚上。",
     Eng:"Then Joshua tore his clothes and fell facedown to the ground before the ark of the LORD, remaining there till evening. The elders of Israel did the same, and sprinkled dust on their heads.",
     Ind:"Yosuapun mengoyakkan jubahnya dan sujudlah ia dengan mukanya sampai ke tanah di depan tabut TUHAN hingga petang, bersama dengan para tua-tua orang Israel, sambil menaburkan debu di atas kepalanya."
@@ -51,43 +51,43 @@ BibleDB.add([
     Ind:"O Tuhan, apakah yang akan kukatakan, setelah orang Israel lari membelakangi musuhnya?"
   },
   {Bible:"Joshua", Chapter:7, Verse:9, Page:1,
-    Kor:"가나안 사람과 그 땅에 사는 모든 주민이 이 소식을 듣고 우리를 에워싸고, 이 땅에서 우리의 이름을 없애 버릴 터인데, 주님께서는 주님의 위대한 명성을 어떻게 지키시겠습니까?\"",
+    Kor:"가나안 사람과 그 땅에 사는 모든 주민이 이 소식을 듣고 우리를 에워싸고, 이 땅에서 우리의 이름을 없애 버릴 터인데, 주께서는 주의 위대한 명성을 어떻게 지키시겠습니까?\"",
     Chn:"迦南人和这地一切的居民听见了就必围困我们，将我们的名从地上除灭。那时你为你的大名要怎样行呢？」",
     Eng:"The Canaanites and the other people of the country will hear about this and they will surround us and wipe out our name from the earth. What then will you do for your own great name?\"",
     Ind:"Apabila hal itu terdengar oleh orang Kanaan dan seluruh penduduk negeri ini, maka mereka akan mengepung kami dan melenyapkan nama kami dari bumi ini. Dan apakah yang akan Kaulakukan untuk memulihkan nama-Mu yang besar itu?\""
   },
   {Bible:"Joshua", Chapter:7, Verse:10, Page:1,
-    Kor:"○주님께서 여호수아에게 말씀하셨다. \"일어나거라. 어찌하여 이렇게 엎드려 있느냐?",
+    Kor:"○주께서 여호수아에게 말씀하셨다. \"일어나거라. 어찌하여 이렇게 엎드려 있느냐?",
     Chn:"耶和华吩咐约书亚说：「起来！你为何这样俯伏在地呢？",
     Eng:"The LORD said to Joshua, \"Stand up! What are you doing down on your face?",
     Ind:"Lalu berfirmanlah TUHAN kepada Yosua: \"Bangunlah! Mengapa engkau sujud demikian?"
   },
   {Bible:"Joshua", Chapter:7, Verse:11, Page:1,
-    Kor:"이스라엘이 죄를 지었다. 나와 맺은 언약, 지키라고 명령한 그 언약을 그들이 어겼고, 전멸시켜서 나 주에게 바쳐야 할 물건을 도둑질하여 가져 갔으며, 또한 거짓말을 하면서 그 물건을 자기들의 재산으로 만들었다.",
+    Kor:"이스라엘이 죄를 지었다. 나와 맺은 언약, 지키라고 명령한 그 언약을 그들이 어겼고, 전멸시켜서 주께 바쳐야 할 물건을 도둑질하여 가져 갔으며, 또한 거짓말을 하면서 그 물건을 자기들의 재산으로 만들었다.",
     Chn:"以色列人犯了罪，违背了我所吩咐他们的约，取了当灭的物；又偷窃，又行诡诈，又把那当灭的放在他们的家具里。",
     Eng:"Israel has sinned; they have violated my covenant, which I commanded them to keep. They have taken some of the devoted things; they have stolen, they have lied, they have put them with their own possessions.",
     Ind:"Orang Israel telah berbuat dosa, mereka melanggar perjanjian-Ku yang Kuperintahkan kepada mereka, mereka mengambil sesuatu dari barang-barang yang dikhususkan itu, mereka mencurinya, mereka menyembunyikannya dan mereka menaruhnya di antara barang-barangnya."
   },
   {Bible:"Joshua", Chapter:7, Verse:12, Page:1,
-    Kor:"그래서 이스라엘 자손은 원수를 대적할 수 없었고, 원수 앞에서 패하여 물러섰다. 그들이 자청하여 저주를 불러들여서, 그들 스스로가 전멸시켜야 할 물건이 되었기 때문이다. 너희들 가운데에서 전멸시켜 나 주에게 바쳐야 할 물건을 없애지 아니하면, 내가 다시는 너희와 함께 있지 않겠다.",
+    Kor:"그래서 이스라엘 자손은 원수를 대적할 수 없었고, 원수 앞에서 패하여 물러섰다. 그들이 자청하여 저주를 불러들여서, 그들 스스로가 전멸시켜야 할 물건이 되었기 때문이다. 너희들 가운데서, 전멸시켜 주께 바쳐야 할 물건을 없애지 아니하면, 내가 다시는 너희와 함께 있지 않겠다.",
     Chn:"因此，以色列人在仇敌面前站立不住。他们在仇敌面前转背逃跑，是因成了被咒诅的；你们若不把当灭的物从你们中间除掉，我就不再与你们同在了。",
     Eng:"That is why the Israelites cannot stand against their enemies; they turn their backs and run because they have been made liable to destruction. I will not be with you anymore unless you destroy whatever among you is devoted to destruction.",
     Ind:"Sebab itu orang Israel tidak dapat bertahan menghadapi musuhnya. Mereka membelakangi musuhnya, sebab mereka itupun dikhususkan untuk ditumpas. Aku tidak akan menyertai kamu lagi jika barang-barang yang dikhususkan itu tidak kamu punahkan dari tengah-tengahmu."
   },
   {Bible:"Joshua", Chapter:7, Verse:13, Page:1,
-    Kor:"일어나서 백성을 성결하게 하여라. 너는 그들에게 말하여라. '너희는 스스로 성결하게 하여, 내일을 맞이할 준비를 하여라. 주 이스라엘의 하나님께서 이렇게 말씀하신다. 이스라엘아, 너희 가운데 전멸시켜서 주님께 바쳐야 할 물건이 있다. 그것을 너희 가운데서 제거하기 전에는, 너희의 원수를 너희가 대적할 수 없다.",
+    Kor:"일어나서 백성을 성결하게 하여라. 너는 그들에게 말하여라. '너희는 스스로 성결하게 하여, 내일을 맞이할 준비를 하여라. 주 이스라엘의 하나님께서 이렇게 말씀하신다. 이스라엘아, 너희 가운데 전멸시켜서 주께 바쳐야 할 물건이 있다. 그것을 너희 가운데서 제거하기 전에는, 너희의 원수를 너희가 대적할 수 없다.",
     Chn:"你起来，叫百姓自洁，对他们说：『你们要自洁，预备明天，因为耶和华—以色列的　神这样说：以色列啊，你们中间有当灭的物，你们若不除掉，在仇敌面前必站立不住！』",
     Eng:"\"Go, consecrate the people. Tell them, 'Consecrate yourselves in preparation for tomorrow; for this is what the LORD, the God of Israel, says: That which is devoted is among you, O Israel. You cannot stand against your enemies until you remove it.",
     Ind:"Bangunlah, kuduskanlah bangsa itu dan katakan: Kuduskanlah dirimu untuk esok hari, sebab, demikianlah firman TUHAN, Allah Israel: Hai, orang Israel ada barang-barang yang dikhususkan di tengah-tengahmu; kamu tidak akan dapat bertahan menghadapi musuhmu, sebelum barang-barang yang dikhususkan itu kamu jauhkan dari tengah-tengah kamu."
   },
   {Bible:"Joshua", Chapter:7, Verse:14, Page:1,
-    Kor:"너희는 아침에 지파별로 나오너라. 주님께서 주사위로 뽑으신 지파는 가문별로 가까이 나오고, 주님께서 주사위로 뽑으신 가문은 집안별로 가까이 나오고, 또한 주님께서 주사위로 뽑으신 집안은 장정별로 가까이 나오너라.",
+    Kor:"너희는 아침에 지파별로 나오너라. 주께서 주사위로 뽑으신 지파는 가문별로 가까이 나오고, 주께서 주사위로 뽑으신 가문은 집안별로 가까이 나오고, 또한 주께서 주사위로 뽑으신 집안은 장정별로 가까이 나오너라.",
     Chn:"到了早晨，你们要按着支派近前来；耶和华所取的支派，要按着宗族近前来；耶和华所取的宗族，要按着家室近前来；耶和华所取的家室，要按着人丁，一个一个地近前来。",
     Eng:"\"'In the morning, present yourselves tribe by tribe. The tribe that the LORD takes shall come forward clan by clan; the clan that the LORD takes shall come forward family by family; and the family that the LORD takes shall come forward man by man.",
     Ind:"Besok pagi kamu harus tampil ke muka suku demi suku dan suku yang ditunjuk oleh TUHAN harus tampil ke muka kaum demi kaum, dan kaum yang ditunjuk oleh TUHAN harus tampil ke muka keluarga demi keluarga dan keluarga yang ditunjuk oleh TUHAN harus tampil ke muka seorang demi seorang."
   },
   {Bible:"Joshua", Chapter:7, Verse:15, Page:1,
-    Kor:"전멸시켜서 주님께 바쳐야 할 물건을 가져 간 사람이 주사위로 뽑히면, 그에게 딸린 모든 것과 함께 그를 불에 태우겠다. 그가 주님의 언약을 어기고, 이스라엘에서 수치스러운 일을 저질렀기 때문이다.'\"",
+    Kor:"전멸시켜서 주께 바쳐야 할 물건을 가져 간 사람이 주사위로 뽑히면, 그에게 딸린 모든 것과 함께 그를 불에 태우겠다. 그가 주의 언약을 어기고, 이스라엘에서 수치스러운 일을 저질렀기 때문이다.'\"",
     Chn:"被取的人有当灭的物在他那里，他和他所有的必被火焚烧；因他违背了耶和华的约，又因他在以色列中行了愚妄的事。」",
     Eng:"He who is caught with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of the LORD and has done a disgraceful thing in Israel!'\"",
     Ind:"Dan siapa yang didapati menyimpan barang-barang yang dikhususkan itu, akan dibakar dengan api, ia dan segala sesuatu yang ada padanya, sebab ia telah melanggar perjanjian TUHAN dan berbuat noda di antara orang Israel.\""
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Keesokan harinya bangunlah Yosua pagi-pagi, lalu menyuruh orang Israel tampil ke muka suku demi suku, maka didapatilah suku Yehuda."
   },
   {Bible:"Joshua", Chapter:7, Verse:17, Page:1,
-    Kor:"유다 지파를 가문별로 나오게 하였더니 세라의 가문이 뽑혔고, 세라의 가문에서 장정들을 나오게 하였더니 삽디가 뽑혔다.",
+    Kor:"유다 지파를 가문별로 나오게 하였더니, 세라의 가문이 뽑혔고, 세라의 가문에서 장정들을 나오게 하였더니, 삽디가 뽑혔다.",
     Chn:"使犹大支派近前来，就取了谢拉的宗族；使谢拉的宗族，按着家室人丁，一个一个地近前来，取出来的是撒底；",
     Eng:"The clans of Judah came forward, and he took the Zerahites. He had the clan of the Zerahites come forward by families, and Zimri was taken.",
     Ind:"Ketika disuruhnya tampil ke muka kaum-kaum Yehuda, maka didapatinya kaum Zerah. Ketika disuruhnya tampil ke muka kaum Zerah, seorang demi seorang, maka didapatilah Zabdi."
   },
   {Bible:"Joshua", Chapter:7, Verse:18, Page:1,
-    Kor:"삽디의 집안의 장정들을 차례대로 나오게 하였더니 유다 지파에서 세라의 증손이요 삽디의 손자요 갈미의 아들인 아간이 뽑혔다.",
+    Kor:"삽디의 집안의 장정들을 차례대로 나오게 하였더니, 유다 지파에서 세라의 증손이요, 삽디의 손자요, 갈미의 아들인 아간이 뽑혔다.",
     Chn:"使撒底的家室，按着人丁，一个一个地近前来，就取出犹大支派的人谢拉的曾孙，撒底的孙子，迦米的儿子亚干。",
     Eng:"Joshua had his family come forward man by man, and Achan son of Carmi, the son of Zimri, the son of Zerah, of the tribe of Judah, was taken.",
     Ind:"Ketika disuruhnya keluarga orang itu tampil ke muka, seorang demi seorang, maka didapatilah Akhan bin Karmi bin Zabdi bin Zerah, dari suku Yehuda."
   },
   {Bible:"Joshua", Chapter:7, Verse:19, Page:1,
-    Kor:"여호수아가 아간에게 말하였다. \"나의 아들아, 주 이스라엘의 e하나님께 영광을 돌리고, f그에게 사실대로 고백하여라. 네가 무엇을 하였는지 숨기지 말고 나에게 말하여라.\"(e 진실을 말하게 하는 엄숙한 명령 f 또는 '그를 찬양하여라')",
+    Kor:"여호수아가 아간에게 말하였다. \"나의 아들아, 주 이스라엘의 하나님께 영광을 돌리고, 그에게 사실대로 고백하여라. 네가 무엇을 하였는지 숨기지 말고 나에게 말하여라.\"",
     Chn:"约书亚对亚干说：「我儿，我劝你将荣耀归给耶和华—以色列的　神，在他面前认罪，将你所做的事告诉我，不要向我隐瞒。」",
     Eng:"Then Joshua said to Achan, \"My son, give glory to the LORD, the God of Israel, and give him the praise. Tell me what you have done; do not hide it from me.\"",
     Ind:"Berkatalah Yosua kepada Akhan: \"Anakku, hormatilah TUHAN, Allah Israel, dan mengakulah di hadapan-Nya; katakanlah kepadaku apa yang kauperbuat, jangan sembunyikan kepadaku.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Lalu Akhan menjawab Yosua, katanya: \"Benar, akulah yang berbuat dosa terhadap TUHAN, Allah Israel, sebab beginilah perbuatanku:"
   },
   {Bible:"Joshua", Chapter:7, Verse:21, Page:1,
-    Kor:"제가, 전리품 가운데에서, 시날에서 만든 아름다운 외투 한 벌과 은 이백 세겔과 오십 세겔이 나가는 금덩이 하나를 보고, 탐이 나서 가졌습니다. 보십시오, 그 물건들을 저의 장막 안 땅 속에 감추어 두었는데, 은을 맨 밑에 두었습니다.\"",
+    Kor:"제가, 전리품 가운데서, 시날에서 만든 아름다운 외투 한 벌과 은 이백 세겔과 오십 세겔이 나가는 금덩이 하나를 보고, 탐이 나서 가졌습니다. 보십시오, 그 물건들을 저의 장막 안 땅 속에 감추어 두었는데, 은을 맨 밑에 두었습니다.\"",
     Chn:"我在所夺的财物中看见一件美好的示拿衣服，二百舍客勒银子，一条金子重五十舍客勒，我就贪爱这些物件，便拿去了。现今藏在我帐棚内的地里，银子在衣服底下。」",
     Eng:"When I saw in the plunder a beautiful robe from Babylonia, two hundred shekels of silver and a wedge of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.\"",
     Ind:"aku melihat di antara barang-barang jarahan itu jubah yang indah, buatan Sinear, dan dua ratus syikal perak dan sebatang emas yang lima puluh syikal beratnya; aku mengingininya, maka kuambil; semuanya itu disembunyikan di dalam kemahku dalam tanah, dan perak itu di bawah sekali.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Lalu Yosua menyuruh orang segera pergi ke kemah itu, dan sesungguhnya, semuanya itu disembunyikan dalam kemah Akhan, dan perak itu ada di bawah sekali."
   },
   {Bible:"Joshua", Chapter:7, Verse:23, Page:1,
-    Kor:"그들은 그것을 그 장막 가운데서 파내어, 여호수아와 모든 이스라엘 자손이 있는 데로 가져 와서, 주님 앞에 펼쳐 놓았다.",
+    Kor:"그들은 그것을 그 장막 가운데서 파내어, 여호수아와 모든 이스라엘 자손이 있는 데로 가져 와서, 주 앞에 펼쳐 놓았다.",
     Chn:"他们就从帐棚里取出来，拿到约书亚和以色列众人那里，放在耶和华面前。",
     Eng:"They took the things from the tent, brought them to Joshua and all the Israelites and spread them out before the LORD.",
     Ind:"Maka mereka mengambil semuanya itu dari dalam kemah, lalu membawanya kepada Yosua dan kepada semua orang Israel, dan mencurahkannya di hadapan TUHAN."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Kemudian Yosua, beserta seluruh Israel mengambil Akhan bin Zerah, dan perak, jubah dan emas sebatang itu, anak-anaknya yang laki-laki dan perempuan, lembunya, keledainya dan kambing dombanya, kemahnya dan segala kepunyaannya, lalu semuanya itu dibawa ke lembah Akhor."
   },
   {Bible:"Joshua", Chapter:7, Verse:25, Page:1,
-    Kor:"여호수아가 말하였다. \"너는 어찌하여 우리를 괴롭게 하느냐? 오늘 주님께서 너를 괴롭히실 것이다.\" 그러자 온 이스라엘 백성이 그를 돌로 쳐서 죽이고, 남은 가족과 재산도 모두 돌로 치고 불살랐다.",
+    Kor:"여호수아가 말하였다. \"너는 어찌하여 우리를 괴롭게 하느냐? 오늘 주께서 너를 괴롭히실 것이다.\" 그러자 온 이스라엘 백성이 그를 돌로 쳐서 죽이고, 남은 가족과 재산도 모두 돌로 치고 불살랐다.",
     Chn:"约书亚说：「你为什么连累我们呢？今日耶和华必叫你受连累。」于是以色列众人用石头打死他，将石头扔在其上，又用火焚烧他所有的。",
     Eng:"Joshua said, \"Why have you brought this trouble on us? The LORD will bring trouble on you today.\" Then all Israel stoned him, and after they had stoned the rest, they burned them.",
     Ind:"Berkatalah Yosua: \"Seperti engkau mencelakakan kami, maka TUHAN pun mencelakakan engkau pada hari ini.\" Lalu seluruh Israel melontari dia dengan batu, semuanya itu dibakar dengan api dan dilempari dengan batu."
   },
   {Bible:"Joshua", Chapter:7, Verse:26, Page:1,
-    Kor:"그들은 그 위에 큰 돌무더기를 쌓았는데, 그것이 오늘까지 있다. 이렇게 하고 나서야 주님께서 맹렬한 진노를 거두셨다. 그래서 그 곳 이름을 오늘까지도 g아골 골짜기라고 부른다.(g '고통'. 아골은 '괴롭히다'(25절)라고 번역된 '아갈'과 같은 어원임)",
+    Kor:"그들은 그 위에 큰 돌무더기를 쌓았는데, 그것이 오늘까지 있다. 이렇게 하고 나서야 주께서 맹렬한 진노를 거두셨다. 그래서 그 곳 이름을 오늘까지도 아골 골짜기라고 부른다.",
     Chn:"众人在亚干身上堆成一大堆石头，直存到今日。于是耶和华转意，不发他的烈怒。因此那地方名叫亚割谷，直到今日。",
     Eng:"Over Achan they heaped up a large pile of rocks, which remains to this day. Then the LORD turned from his fierce anger. Therefore that place has been called the Valley of Achor ever since.",
     Ind:"Sesudah itu didirikanlah di atasnya suatu timbunan batu yang besar, yang masih ada sampai sekarang. Lalu surutlah murka TUHAN yang bernyala-nyala itu. Oleh sebab itu nama tempat itu sampai sekarang disebutkan lembah Akhor."

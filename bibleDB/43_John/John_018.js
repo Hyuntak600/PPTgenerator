@@ -3,31 +3,31 @@
 BibleDB.ref("John",18,40);
 BibleDB.add([
   {Bible:"John", Chapter:18, Verse:1, Page:1,
-    Kor:"<배반당하고 잡히시다(마 26:47-56; 막 14:43-50; 눅 22:47-53)> 예수께서 이 말씀을 하신 뒤에, 제자들과 함께 기드론 골짜기 건너편으로 가셨다. 거기에는 동산이 하나 있었는데, 예수와 그 제자들이 거기에 들어가셨다.",
+    Kor:"예수께서 이 말씀을 하신 뒤에, 제자들과 함께 기드론 골짜기 건너편으로 가셨다. 거기에는 동산이 있는데, 예수께서 제자들과 함께 그 안으로 들어가셨다.",
     Chn:"耶稣说了这话，就同门徒出去，过了汲沦溪。在那里有一个园子，他和门徒进去了。",
     Eng:"When he had finished praying, Jesus left with his disciples and crossed the Kidron Valley. On the other side there was an olive grove, and he and his disciples went into it.",
     Ind:"Setelah Yesus mengatakan semuanya itu keluarlah Ia dari situ bersama-sama dengan murid-murid-Nya dan mereka pergi ke seberang sungai Kidron. Di situ ada suatu taman dan Ia masuk ke taman itu bersama-sama dengan murid-murid-Nya."
   },
   {Bible:"John", Chapter:18, Verse:2, Page:1,
-    Kor:"예수가 그 제자들과 함께 거기서 여러 번 모이셨으므로, 예수를 넘겨줄 유다도 그 곳을 알고 있었다.",
+    Kor:"예수께서는 제자들과 함께 거기에서 여러 번 모이셨으므로, 예수를 넘겨 준 유다도 그 곳을 알고 있었다.",
     Chn:"卖耶稣的犹大也知道那地方，因为耶稣和门徒屡次上那里去聚集。",
     Eng:"Now Judas, who betrayed him, knew the place, because Jesus had often met there with his disciples.",
     Ind:"Yudas, yang mengkhianati Yesus, tahu juga tempat itu, karena Yesus sering berkumpul di situ dengan murid-murid-Nya."
   },
   {Bible:"John", Chapter:18, Verse:3, Page:1,
-    Kor:"유다는 로마 군대 병정들과, 제사장들과 바리새파 사람들이 보낸 성전 경비병들을 데리고 그리로 갔다. 그들은 등불과 횃불과 무기를 들고 있었다.",
+    Kor:"유다는 로마 군인 한 떼와, 또 대제사장들과 바리새파 사람들이 보낸 성전 경비병들을 데리고 그리로 갔다. 그들은 등불과 횃불과 무기를 들고 있었다.",
     Chn:"犹大领了一队兵，和祭司长并法利赛人的差役，拿着灯笼、火把、兵器，就来到园里。",
     Eng:"So Judas came to the grove, guiding a detachment of soldiers and some officials from the chief priests and Pharisees. They were carrying torches, lanterns and weapons.",
     Ind:"Maka datanglah Yudas juga ke situ dengan sepasukan prajurit dan penjaga-penjaga Bait Allah yang disuruh oleh imam-imam kepala dan orang-orang Farisi lengkap dengan lentera, suluh dan senjata."
   },
   {Bible:"John", Chapter:18, Verse:4, Page:1,
-    Kor:"예수께서는 자기에게 닥쳐올 일을 모두 아시고, 앞으로 나서서 그들에게 물으셨다. \"너희는 누구를 찾느냐?\"",
+    Kor:"예수께서는 자기에게 닥쳐올 일을 모두 아시고, 앞으로 나서서 \"너희는 누구를 찾느냐?\" 하고 그들에게 물으셨다.",
     Chn:"耶稣知道将要临到自己的一切事，就出来对他们说：「你们找谁？」",
     Eng:"Jesus, knowing all that was going to happen to him, went out and asked them, \"Who is it you want?\"",
     Ind:"Maka Yesus, yang tahu semua yang akan menimpa diri-Nya, maju ke depan dan berkata kepada mereka: \"Siapakah yang kamu cari?\""
   },
   {Bible:"John", Chapter:18, Verse:5, Page:1,
-    Kor:"그들이 대답하였다. \"나사렛 사람 예수요.\" 예수께서 그들에게 말씀하셨다. \"내가 그 사람이다.\" 예수를 넘겨줄 유다도 그들과 함께 서 있었다.",
+    Kor:"그들이 \"나사렛 사람 예수요\" 하고 대답하니, 예수께서 \"내가 그 사람이다\" 하고 말씀하셨다. 예수를 넘겨 준 유다도 그들과 함께 서 있었다.",
     Chn:"他们回答说：「找拿撒勒人耶稣。」耶稣说：「我就是！」卖他的犹大也同他们站在那里。",
     Eng:"\"Jesus of Nazareth,\" they replied. \"I am he,\" Jesus said. (And Judas the traitor was standing there with them.)",
     Ind:"Jawab mereka: \"Yesus dari Nazaret.\" Kata-Nya kepada mereka: \"Akulah Dia.\" Yudas yang mengkhianati Dia berdiri juga di situ bersama-sama mereka."
@@ -39,37 +39,37 @@ BibleDB.add([
     Ind:"Ketika Ia berkata kepada mereka: \"Akulah Dia,\" mundurlah mereka dan jatuh ke tanah."
   },
   {Bible:"John", Chapter:18, Verse:7, Page:1,
-    Kor:"다시 예수께서 그들에게 물으셨다. \"너희는 누구를 찾느냐?\" 그들이 대답하였다. \"나사렛 사람 예수요.\"",
+    Kor:"다시 예수께서 그들에게 \"너희는 누구를 찾느냐?\" 하고 물으시니, 그들은 \"나사렛 사람 예수요\" 하고 대답하였다.",
     Chn:"他又问他们说：「你们找谁？」他们说：「找拿撒勒人耶稣。」",
     Eng:"Again he asked them, \"Who is it you want?\" And they said, \"Jesus of Nazareth.\"",
     Ind:"Maka Ia bertanya pula: \"Siapakah yang kamu cari?\" Kata mereka: \"Yesus dari Nazaret.\""
   },
   {Bible:"John", Chapter:18, Verse:8, Page:1,
-    Kor:"예수께서 말씀하셨다. \"내가 그 사람이라고 너희에게 이미 말하였다. 너희가 나를 찾거든, 이 사람들은 물러가게 하여라.\"",
+    Kor:"예수께서 말씀하셨다. \"내가 그 사람이라고 말하지 않았느냐? 너희가 나를 찾거든, 이 사람들은 물러가게 하여라.\"",
     Chn:"耶稣说：「我已经告诉你们，我就是。你们若找我，就让这些人去吧。」",
     Eng:"\"I told you that I am he,\" Jesus answered. \"If you are looking for me, then let these men go.\"",
     Ind:"Jawab Yesus: \"Telah Kukatakan kepadamu, Akulah Dia. Jika Aku yang kamu cari, biarkanlah mereka ini pergi.\""
   },
   {Bible:"John", Chapter:18, Verse:9, Page:1,
-    Kor:"이렇게 말씀하신 것은, 예수께서 전에 '아버지께서 나에게 주신 사람을, 나는 한 사람도 잃지 않았습니다' 하신 그 말씀을 이루게 하시려는 것이었다.",
+    Kor:"이렇게 말씀하신 것은 예수께서 전에 '아버지께서 나에게 주신 사람을, 나는 하나도 잃지 않았습니다' 하신 그 말씀을 이루게 하시려는 것이다.",
     Chn:"这要应验耶稣从前的话，说：「你所赐给我的人，我没有失落一个。」",
     Eng:"This happened so that the words he had spoken would be fulfilled: \"I have not lost one of those you gave me.\"",
     Ind:"Demikian hendaknya supaya genaplah firman yang telah dikatakan-Nya: \"Dari mereka yang Engkau serahkan kepada-Ku, tidak seorangpun yang Kubiarkan binasa.\""
   },
   {Bible:"John", Chapter:18, Verse:10, Page:1,
-    Kor:"시몬 베드로가 칼을 가지고 있었는데, 그는 그것을 빼어 대제사장의 종을 쳐서, 오른쪽 귀를 잘라버렸다. 그 종의 이름은 말고였다.",
+    Kor:"시몬 베드로는 칼을 가지고 있었는데, 그는 그것을 빼어 대제사장의 종을 쳐서, 오른쪽 귀를 잘라 버렸다. 그 종의 이름은 말고이다.",
     Chn:"西门·彼得带着一把刀，就拔出来，将大祭司的仆人砍了一刀，削掉他的右耳；那仆人名叫马勒古。",
     Eng:"Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear. (The servant's name was Malchus.)",
     Ind:"Lalu Simon Petrus, yang membawa pedang, menghunus pedang itu, menetakkannya kepada hamba Imam Besar dan memutuskan telinga kanannya. Nama hamba itu Malkhus."
   },
   {Bible:"John", Chapter:18, Verse:11, Page:1,
-    Kor:"그 때에 예수께서 베드로에게 말씀하셨다. \"그 칼을 칼집에 꽂아라. 아버지께서 나에게 주신 이 잔을, 내가 어찌 마시지 않겠느냐?\"",
+    Kor:"그 때에 예수께서 베드로에게 말씀하셨다. \"그 칼을 칼집에 꽂아라. 아버지께서 내게 주신 이 잔을, 내가 어찌 마시지 않겠느냐?\"",
     Chn:"耶稣就对彼得说：「收刀入鞘吧，我父所给我的那杯，我岂可不喝呢？」",
     Eng:"Jesus commanded Peter, \"Put your sword away! Shall I not drink the cup the Father has given me?\"",
     Ind:"Kata Yesus kepada Petrus: \"Sarungkan pedangmu itu; bukankah Aku harus minum cawan yang diberikan Bapa kepada-Ku?\""
   },
   {Bible:"John", Chapter:18, Verse:12, Page:1,
-    Kor:"<대제사장 앞에 서시다(마 26:57-58; 막 14:53-54; 눅 22:54)> ○로마 군대 병정들과 그 a부대장과 유대 사람들의 성전 경비병들이 예수를 잡아 묶어서(a 그, '천부장')",
+    Kor:"○로마 군인들과 그들의 대장과 유대 사람의 성전 경비병들이 예수를 잡아 묶어서,",
     Chn:"那队兵和千夫长，并犹太人的差役就拿住耶稣，把他捆绑了，",
     Eng:"Then the detachment of soldiers with its commander and the Jewish officials arrested Jesus. They bound him",
     Ind:"Maka pasukan prajurit serta perwiranya dan penjaga-penjaga yang disuruh orang Yahudi itu menangkap Yesus dan membelenggu Dia."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"dan Kayafaslah yang telah menasihatkan orang-orang Yahudi: \"Adalah lebih berguna jika satu orang mati untuk seluruh bangsa.\""
   },
   {Bible:"John", Chapter:18, Verse:15, Page:1,
-    Kor:"<베드로가 예수를 모른다고 하다(마 26:69-70; 막 14:66-68; 눅 22:55-57)> ○시몬 베드로와 또 다른 제자 한 사람이 예수를 따라갔다. 그 제자는 대제사장과 잘 아는 사이라서, 예수를 따라 대제사장의 집 안뜰에까지 들어갔다.",
+    Kor:"○시몬 베드로와 또 다른 제자 하나가 예수를 따라갔다. 그 제자는 대제사장과 잘 아는 사이라서, 예수를 따라 대제사장의 집 안뜰에까지 들어갔다.",
     Chn:"西门·彼得跟着耶稣，还有一个门徒跟着。那门徒是大祭司所认识的，他就同耶稣进了大祭司的院子。",
     Eng:"Simon Peter and another disciple were following Jesus. Because this disciple was known to the high priest, he went with Jesus into the high priest's courtyard,",
     Ind:"Simon Petrus dan seorang murid lain mengikuti Yesus. Murid itu mengenal Imam Besar dan ia masuk bersama-sama dengan Yesus ke halaman istana Imam Besar,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"tetapi Petrus tinggal di luar dekat pintu. Maka murid lain tadi, yang mengenal Imam Besar, kembali ke luar, bercakap-cakap dengan perempuan penjaga pintu lalu membawa Petrus masuk."
   },
   {Bible:"John", Chapter:18, Verse:17, Page:1,
-    Kor:"그 때에 문지기 하녀가 베드로에게 말하였다. \"당신도 이 사람의 제자 가운데 한 사람이지요?\" 베드로는 \"아니오\" 하고 대답하였다.",
+    Kor:"그 때에 문지기 하녀가 베드로에게 \"당신도 이 사람의 제자 가운데 하나지요?\" 하고 말하니, 베드로는 \"나는 아니다\" 하고 대답하였다.",
     Chn:"那看门的使女对彼得说：「你不也是这人的门徒吗？」他说：「我不是。」",
     Eng:"\"You are not one of his disciples, are you?\" the girl at the door asked Peter. He replied, \"I am not.\"",
     Ind:"Maka kata hamba perempuan penjaga pintu kepada Petrus: \"Bukankah engkau juga murid orang itu?\" Jawab Petrus: \"Bukan!\""
@@ -111,31 +111,31 @@ BibleDB.add([
     Ind:"Sementara itu hamba-hamba dan penjaga-penjaga Bait Allah telah memasang api arang, sebab hawa dingin waktu itu, dan mereka berdiri berdiang di situ. Juga Petrus berdiri berdiang bersama-sama dengan mereka."
   },
   {Bible:"John", Chapter:18, Verse:19, Page:1,
-    Kor:"<대제사장이 예수를 신문하다(마 26:59-66; 막 14:55-64; 눅 22:66-71)> ○대제사장은 예수께 그의 제자들과 그의 가르침에 관하여 물었다.",
+    Kor:"○대제사장이 예수께 그의 제자와 그의 가르침을 두고 물었다.",
     Chn:"大祭司就以耶稣的门徒和他的教训盘问他。",
     Eng:"Meanwhile, the high priest questioned Jesus about his disciples and his teaching.",
     Ind:"Maka mulailah Imam Besar menanyai Yesus tentang murid-murid-Nya dan tentang ajaran-Nya."
   },
   {Bible:"John", Chapter:18, Verse:20, Page:1,
-    Kor:"예수께서 대답하셨다. \"나는 드러내 놓고 세상에 말하였소. 나는 언제나 모든 유대 사람이 모이는 회당과 성전에서 가르쳤으며, 아무것도 숨어서 말한 것이 없소.",
+    Kor:"예수께서 대답하셨다. \"나는 드러내 놓고 세상에 말하였다. 언제나 나는 모든 유대 사람이 모이는 회당과 성전에서 가르쳤고, 아무것도 숨어서 말한 것은 없다.",
     Chn:"耶稣回答说：「我从来是明明地对世人说话。我常在会堂和殿里，就是犹太人聚集的地方教训人；我在暗地里并没有说什么。",
     Eng:"\"I have spoken openly to the world,\" Jesus replied. \"I always taught in synagogues or at the temple, where all the Jews come together. I said nothing in secret.",
     Ind:"Jawab Yesus kepadanya: \"Aku berbicara terus terang kepada dunia: Aku selalu mengajar di rumah-rumah ibadat dan di Bait Allah, tempat semua orang Yahudi berkumpul; Aku tidak pernah berbicara sembunyi-sembunyi."
   },
   {Bible:"John", Chapter:18, Verse:21, Page:1,
-    Kor:"그런데 어찌하여 나에게 묻소? 내가 무슨 말을 하였는지를, 들은 사람들에게 물어 보시오. 내가 말한 것을 그들이 알고 있소.\"",
+    Kor:"그런데 어찌하여 나에게 묻느냐? 내가 무슨 말을 하였는지 들은 사람들에게 물어 보아라. 내가 말한 것을 그들이 알고 있다.\"",
     Chn:"你为什么问我呢？可以问那听见的人，我对他们说的是什么；我所说的，他们都知道。」",
     Eng:"Why question me? Ask those who heard me. Surely they know what I said.\"",
     Ind:"Mengapakah engkau menanyai Aku? Tanyailah mereka, yang telah mendengar apa yang Kukatakan kepada mereka; sungguh, mereka tahu apa yang telah Kukatakan.\""
   },
   {Bible:"John", Chapter:18, Verse:22, Page:1,
-    Kor:"예수께서 이렇게 말씀하시니, 경비병 한 사람이 곁에 서 있다가 \"대제사장에게 그게 무슨 대답이냐?\" 하면서, 손바닥으로 예수를 때렸다.",
+    Kor:"예수께서 이렇게 말씀하시니, 경비병 하나가 곁에 서 있다가 손바닥으로 예수를 치고서 말하기를 \"대제사장에게 그게 무슨 대답이냐?\" 하였다.",
     Chn:"耶稣说了这话，旁边站着的一个差役用手掌打他，说：「你这样回答大祭司吗？」",
     Eng:"When Jesus said this, one of the officials nearby struck him in the face. \"Is this the way you answer the high priest?\" he demanded.",
     Ind:"Ketika Ia mengatakan hal itu, seorang penjaga yang berdiri di situ, menampar muka-Nya sambil berkata: \"Begitukah jawab-Mu kepada Imam Besar?\""
   },
   {Bible:"John", Chapter:18, Verse:23, Page:1,
-    Kor:"예수께서 그 사람에게 말씀하셨다. \"내가 한 말에 잘못이 있으면, 잘못되었다는 증거를 대시오. 그러나 내가 한 말이 옳다면, 어찌하여 나를 때리시오?\"",
+    Kor:"예수께서 그 사람에게 \"내가 한 말에 잘못이 있다면, 잘못 되었다는 증거를 대어라. 그러나 내가 한 말이 옳다면, 어찌하여 나를 때리느냐?\" 하고 말씀하셨다.",
     Chn:"耶稣说：「我若说的不是，你可以指证那不是；我若说的是，你为什么打我呢？」",
     Eng:"\"If I said something wrong,\" Jesus replied, \"testify as to what is wrong. But if I spoke the truth, why did you strike me?\"",
     Ind:"Jawab Yesus kepadanya: \"Jikalau kata-Ku itu salah, tunjukkanlah salahnya, tetapi jikalau kata-Ku itu benar, mengapakah engkau menampar Aku?\""
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Maka Hanas mengirim Dia terbelenggu kepada Kayafas, Imam Besar itu."
   },
   {Bible:"John", Chapter:18, Verse:25, Page:1,
-    Kor:"<다시 예수를 모른다고 한 베드로(마 26:71-75; 막 14:69-72; 눅 22:58-62)> ○시몬 베드로는 서서, 불을 쬐고 있었다. 사람들이 그에게 물었다. \"당신도 그의 제자 가운데 한 사람이지요?\" 베드로가 부인하여 \"나는 아니오!\" 하고 말하였다.",
+    Kor:"○시몬 베드로는 서서, 불을 쬐고 있었다. 사람들이 그에게 \"당신도 그 제자 가운데 하나지요?\" 하고 물었다. 베드로가 부인하여 말하기를 \"나는 그런 사람이 아니오\" 하였다.",
     Chn:"西门·彼得正站着烤火，有人对他说：「你不也是他的门徒吗？」彼得不承认，说：「我不是。」",
     Eng:"As Simon Peter stood warming himself, he was asked, \"You are not one of his disciples, are you?\" He denied it, saying, \"I am not.\"",
     Ind:"Simon Petrus masih berdiri berdiang. Kata orang-orang di situ kepadanya: \"Bukankah engkau juga seorang murid-Nya?\""
   },
   {Bible:"John", Chapter:18, Verse:26, Page:1,
-    Kor:"베드로에게 귀를 잘린 사람의 친척으로서, 대제사장의 종 가운데 한 사람이 베드로에게 말하였다. \"당신이 동산에서 그와 함께 있는 것을 내가 보았는데 그러시오?\"",
+    Kor:"베드로에게 귀를 잘렸던 사람의 친척으로서, 대제사장의 종 가운데 하나가 베드로에게 \"당신이 동산에서 그와 함께 있는 것을 내가 보았는데 그러시오?\" 하고 말하였다.",
     Chn:"有大祭司的一个仆人，是彼得削掉耳朵那人的亲属，说：「我不是看见你同他在园子里吗？」",
     Eng:"One of the high priest's servants, a relative of the man whose ear Peter had cut off, challenged him, \"Didn't I see you with him in the olive grove?\"",
     Ind:"Ia menyangkalnya, katanya: \"Bukan.\" Kata seorang hamba Imam Besar, seorang keluarga dari hamba yang telinganya dipotong Petrus: \"Bukankah engkau kulihat di taman itu bersama-sama dengan Dia?\""
@@ -165,25 +165,25 @@ BibleDB.add([
     Ind:"Maka Petrus menyangkalnya pula dan ketika itu berkokoklah ayam."
   },
   {Bible:"John", Chapter:18, Verse:28, Page:1,
-    Kor:"<빌라도 앞에 서시다(마 27:1-2,11-14; 막 15:1-5; 눅 23:1-5)> ○사람들이 가야바의 집에서 총독 b관저로 예수를 끌고 갔다. 때는 이른 아침이었다. 그들은 몸을 더럽히지 않고 유월절 음식을 먹기 위하여 관저 안에는 들어가지 않았다.(b 그, '프라이토리온')",
+    Kor:"○사람들이 가야바의 집에서 공관으로 예수를 끌고 갔다. 때는 이른 아침이었다. 그들은 몸을 더럽게 하지 않고, 유월절 음식을 먹고자 하여, 공관 안에는 들어가지 않았다.",
     Chn:"众人将耶稣从该亚法那里往衙门内解去，那时天还早。他们自己却不进衙门，恐怕染了污秽，不能吃逾越节的筵席。",
     Eng:"Then the Jews led Jesus from Caiaphas to the palace of the Roman governor. By now it was early morning, and to avoid ceremonial uncleanness the Jews did not enter the palace; they wanted to be able to eat the Passover.",
     Ind:"Maka mereka membawa Yesus dari Kayafas ke gedung pengadilan. Ketika itu hari masih pagi. Mereka sendiri tidak masuk ke gedung pengadilan itu, supaya jangan menajiskan diri, sebab mereka hendak makan Paskah."
   },
   {Bible:"John", Chapter:18, Verse:29, Page:1,
-    Kor:"빌라도가 그들에게 나와서 \"당신들은 이 사람을 무슨 일로 고발하는 거요?\" 하고 물었다.",
+    Kor:"빌라도가 그들에게 나와서 \"이 사람을 무슨 일로 고소하는 거요?\" 하고 물었다.",
     Chn:"彼拉多就出来，到他们那里，说：「你们告这人是为什么事呢？」",
     Eng:"So Pilate came out to them and asked, \"What charges are you bringing against this man?\"",
     Ind:"Sebab itu Pilatus keluar mendapatkan mereka dan berkata: \"Apakah tuduhan kamu terhadap orang ini?\""
   },
   {Bible:"John", Chapter:18, Verse:30, Page:1,
-    Kor:"그들이 빌라도에게 대답하였다. \"이 사람이 악한 일을 하는 사람이 아니라면, 우리가 총독님께 넘기지 않았을 것입니다.\"",
+    Kor:"그들이 빌라도에게 \"이 사람이 악한 일을 하는 사람이 아니라면, 우리가 총독님께 넘기지 않았을 것입니다\" 하고 대답하였다.",
     Chn:"他们回答说：「这人若不是作恶的，我们就不把他交给你。」",
     Eng:"\"If he were not a criminal,\" they replied, \"we would not have handed him over to you.\"",
     Ind:"Jawab mereka kepadanya: \"Jikalau Ia bukan seorang penjahat, kami tidak menyerahkan-Nya kepadamu!\""
   },
   {Bible:"John", Chapter:18, Verse:31, Page:1,
-    Kor:"빌라도가 그들에게 말하였다. \"그를 데리고 가서, 당신들의 법대로 재판하시오.\" 유대 사람들이 \"우리는 사람을 죽일 권한이 없습니다\" 하고 대답하였다.",
+    Kor:"빌라도가 \"그를 데리고 가서, 당신들의 법대로 재판하시오\" 하고 말하니, 유대 사람들이 \"우리는 사람을 죽일 권한이 없습니다\" 하고 대답하였다.",
     Chn:"彼拉多说：「你们自己带他去，按着你们的律法审问他吧。」犹太人说：「我们没有杀人的权柄。」",
     Eng:"Pilate said, \"Take him yourselves and judge him by your own law.\" \"But we have no right to execute anyone,\" the Jews objected.",
     Ind:"Kata Pilatus kepada mereka: \"Ambillah Dia dan hakimilah Dia menurut hukum Tauratmu.\" Kata orang-orang Yahudi itu: \"Kami tidak diperbolehkan membunuh seseorang.\""
@@ -195,49 +195,49 @@ BibleDB.add([
     Ind:"Demikian hendaknya supaya genaplah firman Yesus, yang dikatakan-Nya untuk menyatakan bagaimana caranya Ia akan mati."
   },
   {Bible:"John", Chapter:18, Verse:33, Page:1,
-    Kor:"빌라도가 다시 b관저 안으로 들어가, 예수를 불러내서 물었다. \"당신이 유대 사람들의 왕이오?\"(b 그, '프라이토리온')",
+    Kor:"○빌라도가 다시 공관 안으로 들어가, 예수를 불러내서 물었다. \"네가 유대 사람의 왕이냐?\"",
     Chn:"彼拉多又进了衙门，叫耶稣来，对他说：「你是犹太人的王吗？」",
     Eng:"Pilate then went back inside the palace, summoned Jesus and asked him, \"Are you the king of the Jews?\"",
     Ind:"Maka kembalilah Pilatus ke dalam gedung pengadilan, lalu memanggil Yesus dan bertanya kepada-Nya: \"Engkau inikah raja orang Yahudi?\""
   },
   {Bible:"John", Chapter:18, Verse:34, Page:1,
-    Kor:"예수께서 대답하셨다. \"당신이 하는 그 말은 당신의 생각에서 나온 말이오? 그렇지 않으면, 나에 관하여 다른 사람들이 말하여 준 것이오?\"",
+    Kor:"예수께서 대답하셨다. \"네가 하는 그 말은 네 생각에서 나온 말이냐? 그렇지 않으면, 나를 두고 다른 사람들이 말하여 준 것이냐?\"",
     Chn:"耶稣回答说：「这话是你自己说的，还是别人论我对你说的呢？」",
     Eng:"\"Is that your own idea,\" Jesus asked, \"or did others talk to you about me?\"",
     Ind:"Jawab Yesus: \"Apakah engkau katakan hal itu dari hatimu sendiri, atau adakah orang lain yang mengatakannya kepadamu tentang Aku?\""
   },
   {Bible:"John", Chapter:18, Verse:35, Page:1,
-    Kor:"빌라도가 말하였다. \"내가 유대 사람이란 말이오? 당신의 동족과 대제사장들이 당신을 나에게 넘겨주었소. 당신은 무슨 일을 하였소?\"",
+    Kor:"빌라도가 말하였다. \"내가 유대인이란 말이냐? 네 동족과 대제사장들이 너를 내게 넘겼다. 너는 무슨 일을 저질렀느냐?\"",
     Chn:"彼拉多说：「我岂是犹太人呢？你本国的人和祭司长把你交给我。你做了什么事呢？」",
     Eng:"\"Am I a Jew?\" Pilate replied. \"It was your people and your chief priests who handed you over to me. What is it you have done?\"",
     Ind:"Kata Pilatus: \"Apakah aku seorang Yahudi? Bangsa-Mu sendiri dan imam-imam kepala yang telah menyerahkan Engkau kepadaku; apakah yang telah Engkau perbuat?\""
   },
   {Bible:"John", Chapter:18, Verse:36, Page:1,
-    Kor:"예수께서 대답하셨다. \"내 나라는 이 세상에 속한 것이 아니오. 나의 나라가 세상에 속한 것이라면, 나의 부하들이 싸워서, 나를 유대 사람들의 손에 넘어가지 않게 하였을 것이오. 그러나 사실로 내 나라는 이 세상에 속한 것이 아니오.\"",
+    Kor:"예수께서 대답하셨다. \"내 나라는 이 세상에 속한 것이 아니다. 내 나라가 세상에 속한 것이라면, 내 부하들이 싸워서, 나를 유대 사람들의 손에 넘어가지 않게 했을 것이다. 그러나 내 나라는 이 세상에 속한 것이 아니다.\"",
     Chn:"耶稣回答说：「我的国不属这世界；我的国若属这世界，我的臣仆必要争战，使我不至于被交给犹太人。只是我的国不属这世界。」",
     Eng:"Jesus said, \"My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place.\"",
     Ind:"Jawab Yesus: \"Kerajaan-Ku bukan dari dunia ini; jika Kerajaan-Ku dari dunia ini, pasti hamba-hamba-Ku telah melawan, supaya Aku jangan diserahkan kepada orang Yahudi, akan tetapi Kerajaan-Ku bukan dari sini.\""
   },
   {Bible:"John", Chapter:18, Verse:37, Page:1,
-    Kor:"빌라도가 예수께 물었다. \"그러면 당신은 왕이오?\" 예수께서 대답하셨다. \"당신이 말한 대로 나는 왕이오. 나는 진리를 증언하기 위하여 태어났으며, 진리를 증언하기 위하여 세상에 왔소. 진리에 속한 사람은, 누구나 내가 하는 말을 듣소.\"",
+    Kor:"빌라도가 예수께 \"그러면 네가 왕이냐?\" 하고 물으니, 예수께서 대답하셨다. \"네가 말한 대로 나는 왕이다. 나는 진리를 증언하려고 태어났으며, 진리를 증언하려고 세상에 왔다. 진리에 속한 사람은, 누구나 내가 하는 말을 듣는다.\"",
     Chn:"彼拉多就对他说：「这样，你是王吗？」耶稣回答说：「你说我是王。我为此而生，也为此来到世间，特为给真理作见证。凡属真理的人就听我的话。」",
     Eng:"\"You are a king, then!\" said Pilate. Jesus answered, \"You are right in saying I am a king. In fact, for this reason I was born, and for this I came into the world, to testify to the truth. Everyone on the side of truth listens to me.\"",
     Ind:"Maka kata Pilatus kepada-Nya: \"Jadi Engkau adalah raja?\" Jawab Yesus: \"Engkau mengatakan, bahwa Aku adalah raja. Untuk itulah Aku lahir dan untuk itulah Aku datang ke dalam dunia ini, supaya Aku memberi kesaksian tentang kebenaran; setiap orang yang berasal dari kebenaran mendengarkan suara-Ku.\""
   },
   {Bible:"John", Chapter:18, Verse:38, Page:1,
-    Kor:"빌라도가 예수께 \"진리가 무엇이오?\" 하고 물었다. <사형 선고를 받으시다(마 27:15-31; 막 15:6-20; 눅 23:13-25)> ○빌라도는 이 말을 하고, 다시 유대 사람들에게로 나아와서 말하였다. \"나는 그에게서 아무 죄도 찾지 못하였소.",
+    Kor:"빌라도가 예수께 \"진리가 무엇이냐?\" 하고 물었다. ○빌라도는 이 말을 하고, 다시 유대 사람들에게로 나와서 말하였다. \"나는 그에게서 아무 죄도 찾지 못하였소.",
     Chn:"彼拉多说：「真理是什么呢？」 说了这话，又出来到犹太人那里，对他们说：「我查不出他有什么罪来。",
     Eng:"\"What is truth?\" Pilate asked. With this he went out again to the Jews and said, \"I find no basis for a charge against him.",
     Ind:"Kata Pilatus kepada-Nya: \"Apakah kebenaran itu?\" (18-38b) Sesudah mengatakan demikian, keluarlah Pilatus lagi mendapatkan orang-orang Yahudi dan berkata kepada mereka: \"Aku tidak mendapati kesalahan apapun pada-Nya."
   },
   {Bible:"John", Chapter:18, Verse:39, Page:1,
-    Kor:"유월절에는 내가 여러분에게 죄수 한 사람을 놓아주는 관례가 있소. 그러니 유대 사람들의 왕을 놓아주는 것이 어떻겠소?\"",
+    Kor:"유월절에는, 내가 여러분에게 죄수 하나를 놓아 주는 관례가 있소. 그러니 유대 사람의 왕을 놓아 주는 것이 어떻겠소?\"",
     Chn:"但你们有个规矩，在逾越节要我给你们释放一个人，你们要我给你们释放犹太人的王吗？」",
     Eng:"But it is your custom for me to release to you one prisoner at the time of the Passover. Do you want me to release 'the king of the Jews'?\"",
     Ind:"Tetapi pada kamu ada kebiasaan, bahwa pada Paskah aku membebaskan seorang bagimu. Maukah kamu, supaya aku membebaskan raja orang Yahudi bagimu?\""
   },
   {Bible:"John", Chapter:18, Verse:40, Page:1,
-    Kor:"그들은 다시 큰 소리로 \"그 사람이 아니오. 바라바를 놓아주시오\" 하고 외쳤다. 바라바는 강도였다.",
+    Kor:"그들은 다시 큰소리로 \"그 사람은 안 됩니다. 바라바를 놓아 주십시오\" 하고 외쳤다. 바라바는 강도였다.",
     Chn:"他们又喊着说：「不要这人，要巴拉巴！」这巴拉巴是个强盗。",
     Eng:"They shouted back, \"No, not him! Give us Barabbas!\" Now Barabbas had taken part in a rebellion.",
     Ind:"Mereka berteriak pula: \"Jangan Dia, melainkan Barabas!\" Barabas adalah seorang penyamun."

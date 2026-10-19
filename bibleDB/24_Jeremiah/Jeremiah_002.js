@@ -3,67 +3,67 @@
 BibleDB.ref("Jeremiah",2,37);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:2, Verse:1, Page:1,
-    Kor:"<하나님께서 돌보시다> 주님께서 또 나에게 말씀하셨다.",
+    Kor:"주께서 또 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Firman TUHAN datang kepadaku, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:2, Page:1,
-    Kor:"\"너는 가서 예루살렘 사람들이 들을 수 있게 이렇게 외쳐라.  '나 주가 말한다. 네가 젊은 시절에 얼마나 나에게 성실하였는지, 네가 신부 시절에 얼마나 나를 사랑하였는지, 저 광야에서, 씨를 뿌리지 못하는 저 땅에서, 네가 어떻게 나를 따랐는지, 내가 잘 기억하고 있다.",
+    Kor:"\"너는 가서 예루살렘 사람들이 들을 수 있게 이렇게 외쳐라. '나 주가 이렇게 말한다. 네가 젊은 시절에 얼마나 나에게 진실하였는지, 네가 신부 시절에 얼마나 나를 사랑하였는지, 저 광야에서, 씨 뿌린 것이 없는 땅에서, 네가 나를 어떻게 따랐는지, 내가 잘 기억하고 있다.",
     Chn:"「你去向耶路撒冷人的耳中喊叫说，耶和华如此说： 你幼年的恩爱， 婚姻的爱情， 你怎样在旷野， 在未曾耕种之地跟随我， 我都记得。",
     Eng:"\"Go and proclaim in the hearing of Jerusalem: \"'I remember the devotion of your youth, how as a bride you loved me and followed me through the desert, through a land not sown.",
     Ind:"\"Pergilah memberitahukan kepada penduduk Yerusalem dengan mengatakan: Beginilah firman TUHAN: Aku teringat kepada kasihmu pada masa mudamu, kepada cintamu pada waktu engkau menjadi pengantin, bagaimana engkau mengikuti Aku di padang gurun, di negeri yang tiada tetaburannya."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:3, Page:1,
-    Kor:"이스라엘은 나 주에게 거룩하게 구별된 나의 수확 중 첫 열매다. 누구든지 그것을 가져다 먹으면, 벌을 받고 재앙을 만났다. 나 주의 말이다.'\"",
+    Kor:"이스라엘은 나 주께 거룩하게 구별된 나의 농산물 가운데서 첫 열매다. 누구든지 그것을 가져다 먹으면, 벌을 받아 재앙을 만났다. 나 주의 말이다.'\"",
     Chn:"那时以色列归耶和华为圣， 作为土产初熟的果子； 凡吞吃它的必算为有罪， 灾祸必临到他们。 这是耶和华说的。",
     Eng:"Israel was holy to the LORD, the firstfruits of his harvest; all who devoured her were held guilty, and disaster overtook them,'\" declares the LORD.",
     Ind:"Ketika itu Israel kudus bagi TUHAN, sebagai buah bungaran dari hasil tanah-Nya. Semua orang yang memakannya menjadi bersalah, malapetaka menimpa mereka, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:4, Page:1,
-    Kor:"<조상의 죄> 야곱의 백성아, 이스라엘 백성의 모든 가족아, 너희는 주님의 말씀을 들어라.",
+    Kor:"야곱의 백성아, 이스라엘 백성의 모든 가족아, 너희는 주의 말씀을 들어라.",
     Chn:"雅各家、以色列家的各族啊，你们当听耶和华的话。",
     Eng:"Hear the word of the LORD, O house of Jacob, all you clans of the house of Israel.",
     Ind:"Dengarlah firman TUHAN, hai kaum keturunan Yakub, hai segala kaum keluarga keturunan Israel."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:5, Page:1,
-    Kor:"\"나 주가 말한다. 너희의 조상이 나에게서 무슨 허물을 발견하였기에, 나에게서 멀리 떠나가서 헛된 우상을 쫓아다니며, 자신들도 허무하게 되었느냐?",
+    Kor:"\"나 주가 말한다. 너희의 조상이 나에게서 무슨 허물을 발견하였기에, 그들이 나에게서 멀리 떠나가서 헛된 우상을 쫓아다니며, 그들 자신도 허무하게 되었느냐?",
     Chn:"耶和华如此说： 你们的列祖见我有什么不义， 竟远离我，随从虚无的神， 自己成为虚妄的呢？",
     Eng:"This is what the LORD says: \"What fault did your fathers find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.",
     Ind:"Beginilah firman TUHAN: Apakah kecurangan yang didapati nenek moyangmu pada-Ku, sehingga mereka menjauh dari pada-Ku, mengikuti dewa kesia-siaan, sampai mereka menjadi sia-sia?"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:6, Page:1,
-    Kor:"'이집트 땅에서 우리를 이끌고 올라오신 분, 광야에서 우리를 인도하신 분, 그 황량하고 구덩이가 많은 땅에서, a죽음의 그림자가 짙은 그 메마른 땅에서, 어느 누구도 지나다니지 않고 어느 누구도 살지 않는 그 땅에서, 우리를 인도하신 주님은, 어디에 계십니까?' 하고 묻지도 않는구나. (a 또는 '깊은 흑암의 땅에서')",
+    Kor:"그들은 '이집트 땅에서 우리를 이끌고 올라오신 분, 광야에서 우리를 인도하신 분, 그 황량하고 구덩이가 많은 땅에서, 죽음의 그림자가 짙은 그 메마른 땅에서, 어느 누구도 지나다니지 않고 어느 누구도 살지 않는 그 땅에서, 우리를 인도하신 주님은 어디에 계십니까?' 하고 묻지도 않는다.",
     Chn:"他们也不说： 那领我们从埃及地上来， 引导我们经过旷野， 沙漠有深坑之地， 和干旱死荫、无人经过、 无人居住之地的耶和华在哪里呢？",
     Eng:"They did not ask, 'Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and rifts, a land of drought and darkness, a land where no one travels and no one lives?'",
     Ind:"Dan mereka tidak lagi bertanya: Di manakah TUHAN, yang menuntun kita keluar dari tanah Mesir; yang memimpin kita di padang gurun, di tanah yang tandus dan yang lekak-lekuk, di tanah yang sangat kering dan gelap, di tanah yang tidak dilintasi orang dan yang tidak didiami manusia?"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:7, Page:1,
-    Kor:"내가 너희를 기름진 땅으로 인도해서, 그 땅의 열매를 먹게 하였고, 가장 좋은 것을 먹게 하였다. 그러나 너희는 들어오자마자 내 땅을 더럽히고, 내 재산을 부정하게 만들었다.",
+    Kor:"내가 너희를 기름진 땅으로 인도해서, 그 땅의 열매와 가장 좋은 것을 먹게 하였다. 그러나 너희는 들어오자마자 나의 땅을 더럽히고, 나의 재산을 부정하게 만들었다.",
     Chn:"我领你们进入肥美之地， 使你们得吃其中的果子和美物； 但你们进入的时候就玷污我的地， 使我的产业成为可憎的。",
     Eng:"I brought you into a fertile land to eat its fruit and rich produce. But you came and defiled my land and made my inheritance detestable.",
     Ind:"Aku telah membawa kamu ke tanah yang subur untuk menikmati buahnya dan segala yang baik dari padanya. Tetapi segera setelah kamu masuk, kamu menajiskan tanah-Ku; tanah milik-Ku telah kamu buat menjadi kekejian."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:8, Page:1,
-    Kor:"제사장들은 나 주가 어디에 있는지를 찾지 않으며, 법을 다루는 자들이 나를 알지 못하며, b통치자들은 나에게 맞서서 범죄하며, 예언자들도 바알 신의 이름으로 예언하며, 도움도 주지 못하는 우상들만 쫓아다녔다.\" (b 히, '목자')",
+    Kor:"제사장들은 나 주가 어디에 있는지를 찾지 않으며, 법을 다루는 자들이 나를 알지 못하며, 통치자들은 나에게 맞서서 범죄하며, 예언자들도 바알 신의 이름으로 예언하며, 도움도 주지 못하는 우상들만 쫓아다녔다.\"",
     Chn:"祭司都不说，耶和华在哪里呢？ 传讲律法的都不认识我。 官长违背我； 先知借巴力说预言， 随从无益的神。",
     Eng:"The priests did not ask, 'Where is the LORD?' Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols.",
     Ind:"Para imam tidak lagi bertanya: Di manakah TUHAN? Orang-orang yang melaksanakan hukum tidak mengenal Aku lagi, dan para gembala mendurhaka terhadap Aku. Para nabi bernubuat demi Baal, mereka mengikuti apa yang tidak berguna."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:9, Page:1,
-    Kor:"<주님께서 백성을 규탄하시다> \"그러므로 내가 너희를 다시 법대로 처리하겠다. 나 주의 말이다. 내가 너희 자손의 자손들을 법대로 처리하겠다.",
+    Kor:"\"그러므로 내가 너희를 법대로 다시 처리하겠다. 나 주의 말이다. 내가 너희 자손의 자손들을 법대로 처리하겠다.",
     Chn:"耶和华说：我因此必与你们争辩， 也必与你们的子孙争辩。",
     Eng:"\"Therefore I bring charges against you again,\" declares the LORD. \"And I will bring charges against your children's children.",
     Ind:"Sebab itu Aku akan berbantah lagi dengan kamu, demikianlah firman TUHAN, dan dengan anak cucumu Aku akan berbantah."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:10, Page:1,
-    Kor:"너희는 한 번 c키프로스 섬들로 건너가서 보고, d게달에도 사람을 보내어서, 일찍이 그런 일이 일어났던가를 잘 살피고 알아 보아라. (c 히, '깃딤' d 시로 아라비아 사막에 있는 베두인 족의 고향)",
+    Kor:"너희는 한 번 키프로스 섬들로 건너가서 보고, 게달에도 사람을 보내어서, 일찍이 그런 일이 일어났던가를 잘 살피고 알아 보아라.",
     Chn:"你们且过到基提海岛去察看， 打发人往基达去留心查考， 看曾有这样的事没有。",
     Eng:"Cross over to the coasts of Kittim and look, send to Kedar and observe closely; see if there has ever been anything like this:",
     Ind:"Menyeberang sajalah ke tanah pesisir orang Kitim dan lihatlah; suruhlah orang ke Kedar dan perhatikanlah dengan sungguh-sungguh! Lihatlah apakah ada terjadi yang seperti ini:"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:11, Page:1,
-    Kor:"비록 신이라 할 수 없는 그런 신을 섬겨도, 한 번 섬긴 신을 다른 신으로 바꾸는 민족은 그리 흔하지 않다. 그런데도 내 백성은 e그들의 영광을 전혀 쓸데 없는 것들과 바꾸어 버렸다. (e 고대 히브리 서기관 전통에서는 '나의 영광을')",
+    Kor:"비록 신이라 할 수 없는 그런 신을 섬겨도, 한 번 섬긴 신을 다른 신으로 바꾸는 민족은 그리 흔하지 않다. 그런데도 내 백성은 그들의 영광을 전혀 쓸데 없는 것들과 바꾸어 버렸다.",
     Chn:"岂有一国换了他的神吗？ 其实这不是神！ 但我的百姓将他们的荣耀换了那无益的神。",
     Eng:"Has a nation ever changed its gods? (Yet they are not gods at all.) But my people have exchanged their Glory for worthless idols.",
     Ind:"pernahkah suatu bangsa menukarkan allahnya meskipun itu sebenarnya bukan allah? Tetapi umat-Ku menukarkan Kemuliaannya dengan apa yang tidak berguna."
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"Tertegunlah atas hal itu, hai langit, menggigil dan gemetarlah dengan sangat, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:13, Page:1,
-    Kor:"참으로 나의 백성이 두 가지 악을 저질렀다. 하나는, 생수의 근원인 나를 버린 것이고, 또 하나는, 전혀 물이 고이지 않는, 물이 새는 웅덩이를 파서, 그것을 샘으로 삼은 것이다.\"",
+    Kor:"참으로 나의 백성이 두 가지 악을 저질렀다. 하나는, 그들이 생수의 근원인 나를 버린 것이고, 또 하나는, 그들이 전혀 물이 고이지 않는, 물이 새는 웅덩이를 파서, 그들의 샘으로 삼은 것이다.\"",
     Chn:"因为我的百姓做了两件恶事， 就是离弃我这活水的泉源， 为自己凿出池子， 是破裂不能存水的池子。",
     Eng:"\"My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.",
     Ind:"Sebab dua kali umat-Ku berbuat jahat: mereka meninggalkan Aku, sumber air yang hidup, untuk menggali kolam bagi mereka sendiri, yakni kolam yang bocor, yang tidak dapat menahan air."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:14, Page:1,
-    Kor:"<신실하지 못한 결과> \"이스라엘이 노예냐? 집에서 태어난 종이냐? 그런데 어찌하여 잡혀 가서, 원수들의 노예가 되었느냐?",
+    Kor:"\"이스라엘이 노예냐? 집에서 태어난 종이냐? 그런데 어찌하여 잡혀 가서, 원수들의 노예가 되었느냐?",
     Chn:"以色列是仆人吗？ 是家中生的奴仆吗？ 为何成为掠物呢？",
     Eng:"Is Israel a servant, a slave by birth? Why then has he become plunder?",
     Ind:"Adakah Israel itu budak atau anak budak? Maka mengapa ia menjadi rampasan?"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:15, Page:1,
-    Kor:"원수들이 그를 잡아 놓고, 젊은 사자처럼 그에게 으르렁거리며, 큰소리를 질렀다. 그들이 이스라엘 땅을 황폐하게 만들었다. 성읍들은 불에 타서, 아무도 살지 않는다.",
+    Kor:"원수들이 그를 잡아 놓고, 젊은 사자들처럼 그에게 으르렁거리며, 큰소리를 질렀다. 그들이 이스라엘 땅을 황폐하게 만들었다. 성읍들은 불에 타서, 아무도 살지 않는다.",
     Chn:"少壮狮子向他咆哮，大声吼叫， 使他的地荒凉； 城邑也都焚烧，无人居住。",
     Eng:"Lions have roared; they have growled at him. They have laid waste his land; his towns are burned and deserted.",
     Ind:"Terhadapnya singa-singa muda mengaum, menyaringkan suaranya; negerinya dibuat orang menjadi tandus, kota-kotanya terbakar, tidak lagi berpenduduk."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:16, Page:1,
-    Kor:"f멤피스와 다바네스의 자손도 너의 머리에 상처를 주었다. (f 히, '놉')",
+    Kor:"멤피스와 다바네스의 자손도 너의 머리에 상처를 주었다.",
     Chn:"挪弗人和答比匿人也打破你的头顶。",
     Eng:"Also, the men of Memphis and Pahpanhes have shaved the crown of your head.",
     Ind:"Bahkan orang-orang Memfis dan Tahpanhes telah menggundul batu kepalamu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Bukankah engkau sendiri yang menimpakan ini ke atas dirimu, oleh karena engkau meninggalkan TUHAN, Allahmu, ketika Ia menuntun engkau di jalan?"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:18, Page:1,
-    Kor:"그런데도 이제 네가 g시홀 강 물을 마시려고 이집트로 달려가니, 그것이 무슨 일이며, 유프라테스 강 물을 마시려고 앗시리아로 달려가니, 이 또한 무슨 일이냐? (g 나일 강의 지류)",
+    Kor:"그런데도 이제 네가 시홀 강 물을 마시려고 이집트로 달려가니, 그것이 무슨 일이며, 유프라테스 강 물을 마시려고 앗시리아로 달려가니, 이 또한 무슨 일이냐?",
     Chn:"现今你为何在埃及路上要喝西曷的水呢？ 你为何在亚述路上要喝大河的水呢？",
     Eng:"Now why go to Egypt to drink water from the Shihor? And why go to Assyria to drink water from the River?",
     Ind:"Dan sekarang, apakah untungmu untuk pergi ke Mesir, hendak meminum air sungai Nil? Dan apakah untungmu untuk pergi ke Asyur, hendak meminum air sungai Efrat?"
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Kejahatanmu akan menghajar engkau, dan kemurtadanmu akan menyiksa engkau! Ketahuilah dan lihatlah, betapa jahat dan pedihnya engkau meninggalkan TUHAN, Allahmu; dan tidak gemetar terhadap Aku, demikianlah firman Tuhan ALLAH semesta alam."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:20, Page:1,
-    Kor:"<이스라엘이 주님 섬기기를 거절하다> \"참으로 너는 옛적부터, 너의 멍에를 부러뜨리고, 너를 묶은 줄을 모두 끊어 버리면서 '나는 신을 섬기지 않겠다' 하고 큰소리를 치더니, 오히려 높은 언덕마다 찾아 다니며 음행을 하고, 또 푸른 나무 밑에서마다 너의 몸을 눕히고, 음행을 하면서 신들을 섬겼다.",
+    Kor:"\"참으로 너는 옛적부터, 너의 멍에를 부러뜨리고, 너를 묶은 줄을 모두 끊어 버리면서 '나는 신을 섬기지 않겠다' 하고 큰소리를 치더니, 오히려, 높은 언덕마다 찾아 다니며 음행을 하고, 또 푸른 나무 밑에서마다 너의 몸을 눕히고, 음행을 하면서 신들을 섬겼다.",
     Chn:"我在古时折断你的轭，解开你的绳索。 你说：我必不事奉耶和华； 因为你在各高冈上、各青翠树下屈身行淫。",
     Eng:"\"Long ago you broke off your yoke and tore off your bonds; you said, 'I will not serve you!' Indeed, on every high hill and under every spreading tree you lay down as a prostitute.",
     Ind:"Sebab dari dahulu kala engkau telah mematahkan kukmu, telah memutuskan tali pengikatmu, dan berkata: Aku tidak mau lagi diperbudak. Bahkan di atas setiap bukit yang menjulang dan di bawah setiap pohon yang rimbun engkau berbaring dan bersundal."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:21, Page:1,
-    Kor:"나는 너를 종자가 아주 좋은, 제일 좋은 포도나무로 심었는데, 어떻게 하여 네가 엉뚱하게 들포도나무로 바뀌었느냐?",
+    Kor:"나는 너를 종자가 아주 좋은 제일 좋은 포도나무로 심었는데, 어떻게 하여 네가 엉뚱하게 들포도나무로 바뀌었느냐?",
     Chn:"然而，我栽你是上等的葡萄树， 全然是真种子； 你怎么向我变为外邦葡萄树的坏枝子呢？",
     Eng:"I had planted you like a choice vine of sound and reliable stock. How then did you turn against me into a corrupt, wild vine?",
     Ind:"Namun Aku telah membuat engkau tumbuh sebagai pokok anggur pilihan, sebagai benih yang sungguh murni. Betapa engkau berubah menjadi pohon berbau busuk, pohon anggur liar!"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"yang melepaskan diri lari ke padang gurun, karena ingin menghirup udara! Siapakah yang dapat menahan nafsunya untuk berjantan? Semua yang mencari dia, tidak usah berlelah, mereka akan menemukannya dalam musim berjantan."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:25, Page:1,
-    Kor:"너는 너의 발을 돌보아, 맨발로 다니지 말고, 너의 목을 돌보아, 목타게 다니지 말라고 일렀건만, 너는 말하였다. '아닙니다. 공연한 말씀이십니다. 오히려 나는 이방 신들이 좋으니, 그들을 쫓아다녀야 하겠습니다.'\"",
+    Kor:"너는 너의 발을 돌보아, 맨발로 다니지 말고, 너의 목을 돌보아, 목타게 다니지 말라고 일렀건만, 너는 말하기를 '아닙니다. 공연한 말씀이십니다. 오히려 나는 이방 신들이 좋으니, 그들을 쫓아다녀야 하겠습니다' 하였다.\"",
     Chn:"我说：你不要使脚上无鞋， 喉咙干渴。 你倒说：这是枉然。 我喜爱别神，我必随从他们。",
     Eng:"Do not run until your feet are bare and your throat is dry. But you said, 'It's no use! I love foreign gods, and I must go after them.'",
     Ind:"Jagalah, supaya kakimu jangan tak bersepatu dan supaya rongkonganmu jangan haus! Tetapi engkau berkata: Percuma saja! Percuma! Sebab aku cinta kepada orang-orang asing, jadi aku mau mengikuti mereka."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:26, Page:1,
-    Kor:"<형벌을 받아 마땅한 유다> \"도둑이 붙잡히면 수치를 당하듯이, 이스라엘 백성 곧 왕들과 고관들과 제사장들과 예언자들이 수치를 당하였다.",
+    Kor:"\"도둑이 붙잡히면 수치를 당하듯이, 이스라엘 백성, 곧 왕들과 고관들과 제사장들과 예언자들이 수치를 당하였다.",
     Chn:"贼被捉拿，怎样羞愧， 以色列家和他们的君王、首领、 祭司、先知也都照样羞愧。",
     Eng:"\"As a thief is disgraced when he is caught, so the house of Israel is disgraced--they, their kings and their officials, their priests and their prophets.",
     Ind:"Seperti malunya pencuri, apabila kedapatan, demikianlah malunya kaum Israel, yakni para rajanya, pemukanya, para imamnya dan nabinya,"
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Mengapakah kamu mau berbantah dengan Aku? Kamu sekalian telah mendurhaka kepada-Ku, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:30, Page:1,
-    Kor:"내가 너희 자녀들을 때렸으나 헛수고였다. 옳게 가르치는 것을 그들은 받아들이지 않았다. 너희의 칼은 사람을 삼키는 사자처럼, 너희의 예언자들을 죽였다.",
+    Kor:"내가 너희 자녀들을 때렸으나 헛수고였다. 그들은 옳게 가르치는 것을 받아들이지 않았다. 너희의 칼은 사람을 잡아먹는 사자처럼, 너희의 예언자들을 죽였다.",
     Chn:"我责打你们的儿女是徒然的， 他们不受惩治。 你们自己的刀吞灭你们的先知， 好像残害的狮子。",
     Eng:"\"In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravening lion.",
     Ind:"Sia-sia Aku telah memukuli anak-anakmu, hajaran tidaklah mereka terima; pedangmu sendiri telah memakan habis para nabimu seperti singa muda yang memusnahkan."
   },
   {Bible:"Jeremiah", Chapter:2, Verse:31, Page:1,
-    Kor:"이 세대의 사람들아, 너희는 그래도, 나 주의 말을 명심하여 들어라. 내가 이스라엘 백성에게 막막한 광야가 되었느냐? 어둡고 캄캄한 땅이 되었느냐? 어찌하여 나의 백성이 우리가 자유롭게 돌아다니게 되었으니, 다시는 주께로 돌아가지 않겠다' 하고 말하느냐?",
+    Kor:"이 세대의 사람들아, 너희는 그래도, 나 주의 말을 명심하여 들어라. 내가 이스라엘 백성에게 막막한 광야가 되었느냐? 어둡고 캄캄한 땅이 되었느냐? 어찌하여 나의 백성이 '우리는 자유롭게 돌아다니게 되었으니, 다시는 주께로 돌아가지 않겠다' 하고 말하느냐?",
     Chn:"这世代的人哪， 你们要看明耶和华的话。 我岂向以色列作旷野呢？ 或作幽暗之地呢？ 我的百姓为何说： 我们脱离约束，再不归向你了？",
     Eng:"\"You of this generation, consider the word of the LORD: \"Have I been a desert to Israel or a land of great darkness? Why do my people say, 'We are free to roam; we will come to you no more'?",
     Ind:"Keturunan apakah kamu ini? Perhatikanlah firman TUHAN! Sudahkah Aku menjadi padang gurun bagi Israel atau tanah yang gelap gulita? Maka mengapa umat-Ku berkata: Kami sudah bebas, kami tidak lagi mau datang kepada-Mu?"
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"engkau berkata: Aku tidak bersalah! Memang, murka-Nya telah meninggalkan aku! Sesungguhnya Aku akan membawa engkau ke pengadilan, oleh karena engkau berkata: Aku tidak berdosa!"
   },
   {Bible:"Jeremiah", Chapter:2, Verse:36, Page:1,
-    Kor:"<외세가 유다를 구하여 낼 수 없다> \"간에 붙었다 쓸개에 붙었다 하다니, 너는 어쩌면 그렇게 지조도 없느냐? 그러므로 너는, 앗시리아에게서 수치를 당했던 것처럼, 이집트에게서도 수치를 당할 것이다.",
+    Kor:"\"간에 붙었다 쓸개에 붙었다 하다니, 너는 어쩌면 그렇게 지조도 없느냐? 그러므로 너는, 앗시리아에게서 수치를 당했던 것처럼, 이집트에게서도 수치를 당할 것이다.",
     Chn:"你为何东跑西奔要更换你的路呢？ 你必因埃及蒙羞， 像从前因亚述蒙羞一样。",
     Eng:"Why do you go about so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.",
     Ind:"Alangkah ringannya kau pandang untuk mengubah tingkah langkahmu! Juga karena Mesir engkau akan menjadi malu, seperti engkau telah menjadi malu karena Asyur."

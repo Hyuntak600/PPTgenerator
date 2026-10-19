@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",29,40);
 BibleDB.add([
   {Bible:"Numbers", Chapter:29, Verse:1, Page:1,
-    Kor:"<신년 제사(레 23:23-25)> \"a일곱째 달, 그 달 초하루에는 거룩한 모임을 열고, 생업을 돕는 일은 아무것도 하지 말아라. 그 날은 나팔을 부는 날이다.(a '티스리'월, 양력 구월 중순 이후)",
+    Kor:"일곱째 달, 그 달 초하루에는 거룩한 모임을 열고, 생업을 돕는 일은 아무것도 하지 말아라. 그 날은 나팔을 부는 날이다.",
     Chn:"「七月初一日，你们当有圣会；什么劳碌的工都不可做，是你们当守为吹角的日子。",
     Eng:"\"'On the first day of the seventh month hold a sacred assembly and do no regular work. It is a day for you to sound the trumpets.",
     Ind:"Pada bulan yang ketujuh, pada tanggal satu bulan itu, haruslah kamu mengadakan pertemuan yang kudus, maka tidak boleh kamu melakukan sesuatu pekerjaan berat; itulah hari peniupan serunai bagimu."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"dan seekor kambing jantan sebagai korban penghapus dosa untuk mengadakan pendamaian bagimu,"
   },
   {Bible:"Numbers", Chapter:29, Verse:6, Page:1,
-    Kor:"이러한 제사는, 나 주에게 불살라 바치는 나를 기쁘게 하는 향기 제사로서, 새 달에 바치는 번제와 거기에 딸린 곡식제물과, 날마다 바치는 번제와 거기에 딸린 곡식제물과, 거기에 딸린 부어 드리는 제물 외에 따로 바치는 것이다.\"",
+    Kor:"이러한 제사는, 주께 불살라 바치는 기쁘게 하는 향기 제사로서, 새 달에 바치는 번제와 거기에 딸린 곡식제물과, 날마다 바치는 번제와 거기에 딸린 곡식제물과, 거기에 딸린 부어 드리는 제물 외에 따로 바치는 것이다.",
     Chn:"这些是在月朔的燔祭和同献的素祭，并常献的燔祭与同献的素祭，以及照例同献的奠祭以外，都作为馨香的火祭献给耶和华。」",
     Eng:"These are in addition to the monthly and daily burnt offerings with their grain offerings and drink offerings as specified. They are offerings made to the LORD by fire--a pleasing aroma.",
     Ind:"selain dari korban bakaran bulan baru serta dengan korban sajiannya, dan korban bakaran yang tetap serta dengan korban sajiannya dan korban-korban curahannya, sesuai dengan peraturannya, menjadi bau yang menyenangkan, suatu korban api-apian bagi TUHAN."
   },
   {Bible:"Numbers", Chapter:29, Verse:7, Page:1,
-    Kor:"<속죄일 제사(레 23:26-32)> ○\"같은 달, 곧 일곱째 달 열흘날에도 너희는 거룩한 모임을 열고 고행하여라. 너희는 아무 일도 해서는 안 된다.",
+    Kor:"○같은 달, 곧 일곱째 달 열흘날에도 너희는 거룩한 모임을 열고 고행하여라. 너희는 아무 일도 해서는 안 된다.",
     Chn:"「七月初十日，你们当有圣会；要刻苦己心，什么工都不可做。",
     Eng:"\"'On the tenth day of this seventh month hold a sacred assembly. You must deny yourselves and do no work.",
     Ind:"Pada hari yang kesepuluh bulan yang ketujuh itu haruslah kamu mengadakan pertemuan yang kudus dan merendahkan dirimu dengan berpuasa, maka tidak boleh kamu melakukan sesuatu pekerjaan."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"sepersepuluh efa untuk setiap domba dari ketujuh ekor domba itu;"
   },
   {Bible:"Numbers", Chapter:29, Verse:11, Page:1,
-    Kor:"또 숫염소 한 마리를 속죄제물로 바치는데, 이것은, 죄를 속하는 속죄제물과 날마다 바치는 번제와 거기에 딸린 곡식제물과 부어 드리는 제물 외에 따로 바치는 것이다.\"",
+    Kor:"또 숫염소 한 마리를 속죄제물로 바치는데, 이것은, 죄를 속하는 속죄제물과 날마다 바치는 번제와 거기에 딸린 곡식제물과 부어 드리는 제물 외에 따로 바치는 것이다.",
     Chn:"又献一只公山羊为赎罪祭。这是在赎罪祭和常献的燔祭，与同献的素祭并同献的奠祭以外。」",
     Eng:"Include one male goat as a sin offering, in addition to the sin offering for atonement and the regular burnt offering with its grain offering, and their drink offerings.",
     Ind:"dan seekor kambing jantan sebagai korban penghapus dosa, selain dari pada korban penghapus dosa pembawa pendamaian dan korban bakaran yang tetap serta dengan korban sajiannya dan korban-korban curahannya."
   },
   {Bible:"Numbers", Chapter:29, Verse:12, Page:1,
-    Kor:"<장막절 제사(레 23:33-44)> ○\"일곱째 달 보름날에도 거룩한 모임을 열고 생업을 돕는 일은 아무것도 하지 말아라. 이레 동안 주 앞에서 절기를 지켜라.",
+    Kor:"○일곱째 달 보름날에도 거룩한 모임을 열고 생업을 돕는 일은 아무것도 하지 말아라. 이레 동안 주 앞에서 절기를 지켜라.",
     Chn:"「七月十五日，你们当有圣会；什么劳碌的工都不可做，要向耶和华守节七日。",
     Eng:"\"'On the fifteenth day of the seventh month, hold a sacred assembly and do no regular work. Celebrate a festival to the LORD for seven days.",
     Ind:"Pada hari yang kelima belas bulan yang ketujuh itu haruslah kamu mengadakan pertemuan yang kudus, maka tidak boleh kamu melakukan sesuatu pekerjaan berat; haruslah kamu mengadakan perayaan bagi TUHAN, tujuh hari lamanya."
   },
   {Bible:"Numbers", Chapter:29, Verse:13, Page:1,
-    Kor:"제물을 불에 태워, 나 주를 향기로 기쁘게 하는 번제를 바쳐라. 소 곧 수송아지 열세 마리와 숫양 두 마리와 일 년 된 어린 숫양 열네 마리를 바치되, 다 흠 없는 것으로 바쳐야 한다.",
+    Kor:"제물을 불에 태워, 주를 향기로 기쁘게 하는 번제를 바쳐라. 소 곧 수송아지 열세 마리와 숫양 두 마리와 일 년 된 어린 숫양 열네 마리를 바치되, 다 흠 없는 것으로 바쳐야 한다.",
     Chn:"又要将公牛犊十三只，公绵羊两只，一岁的公羊羔十四只，都要没有残疾的，用火献给耶和华为馨香的燔祭。",
     Eng:"Present an offering made by fire as an aroma pleasing to the LORD, a burnt offering of thirteen young bulls, two rams and fourteen male lambs a year old, all without defect.",
     Ind:"Pada waktu itu haruslah kamu mempersembahkan sebagai korban bakaran, sebagai korban api-apian yang baunya menyenangkan bagi TUHAN: tiga belas ekor lembu jantan muda, dua ekor domba jantan, empat belas ekor domba berumur setahun; haruslah tidak bercela semuanya itu;"
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Pada hari yang kedelapan haruslah kamu mengadakan perkumpulan raya, maka tidak boleh kamu melakukan sesuatu pekerjaan berat."
   },
   {Bible:"Numbers", Chapter:29, Verse:36, Page:1,
-    Kor:"제물을 불에 태워 주를 기쁘게 하는 향기 곧 번제로 바쳐라. 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 일곱 마리를 모두 흠 없는 것으로 바쳐야 한다.",
+    Kor:"제물을 불에 태워 주를 기쁘게 해 드리는 향기 곧 번제로 바쳐라. 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 일곱 마리를 모두 흠 없는 것으로 바쳐야 한다.",
     Chn:"只要将公牛一只，公羊一只，没有残疾、一岁的公羊羔七只作火祭，献给耶和华为馨香的燔祭；",
     Eng:"Present an offering made by fire as an aroma pleasing to the LORD, a burnt offering of one bull, one ram and seven male lambs a year old, all without defect.",
     Ind:"Pada waktu itu haruslah kamu mempersembahkan sebagai korban bakaran, sebagai korban api-apian yang baunya menyenangkan bagi TUHAN: seekor lembu jantan, seekor domba jantan, tujuh ekor domba berumur setahun yang tidak bercela,"
@@ -231,13 +231,13 @@ BibleDB.add([
     Ind:"dan seekor kambing jantan sebagai korban penghapus dosa, selain dari korban bakaran yang tetap serta dengan korban sajiannya dan korban curahannya."
   },
   {Bible:"Numbers", Chapter:29, Verse:39, Page:1,
-    Kor:"○정한 절기가 오면, 위에서 말한 번제와 곡식제물과 부어 드리는 제물과 화목제물을 바쳐라. 이것은, 너희가 자원제와 서원제 말고, 따로 나 주에게 바쳐야 하는 것들이다.\"",
+    Kor:"○정한 절기가 오면, 위에서 말한 번제와 곡식제물과 부어 드리는 제물과 화목제물을 바쳐라. 이것은, 너희가 자원제와 서원제 말고, 따로 주께 바쳐야 하는 것들이다.'\"",
     Chn:"「这些祭要在你们的节期献给耶和华，都在所许的愿并甘心所献的以外，作为你们的燔祭、素祭、奠祭，和平安祭。」",
     Eng:"\"'In addition to what you vow and your freewill offerings, prepare these for the LORD at your appointed feasts: your burnt offerings, grain offerings, drink offerings and fellowship offerings.'\"",
     Ind:"Itulah semuanya yang harus kamu olah bagi TUHAN pada hari-hari rayamu sebagai korban-korban bakaranmu, korban-korban sajianmu, korban-korban curahanmu dan korban-korban keselamatanmu, selain dari korban-korban nazarmu dan korban-korban sukarelamu.\""
   },
   {Bible:"Numbers", Chapter:29, Verse:40, Page:1,
-    Kor:"○이렇게 모세는, 주님께서 그에게 명하신 모든 것을 이스라엘 자손에게 말하였다.",
+    Kor:"이렇게 모세는, 주께서 그에게 명하신 모든 것을 이스라엘 자손에게 말하였다.",
     Chn:"于是，摩西照耶和华所吩咐他的一切话告诉以色列人。",
     Eng:"Moses told the Israelites all that the LORD commanded him.",
     Ind:"Lalu berbicaralah Musa kepada orang Israel sesuai dengan segala yang diperintahkan TUHAN kepada Musa."

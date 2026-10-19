@@ -3,7 +3,7 @@
 BibleDB.ref("Jonah",3,10);
 BibleDB.add([
   {Bible:"Jonah", Chapter:3, Verse:1, Page:1,
-    Kor:"<니느웨 사람들의 회개> 주님께서 또다시 요나에게 말씀하셨다.",
+    Kor:"주께서 또다시 요나에게 말씀하셨다.",
     Chn:"耶和华的话二次临到约拿说：",
     Eng:"Then the word of the LORD came to Jonah a second time:",
     Ind:"Datanglah firman TUHAN kepada Yunus untuk kedua kalinya, demikian:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"\"Bangunlah, pergilah ke Niniwe, kota yang besar itu, dan sampaikanlah kepadanya seruan yang Kufirmankan kepadamu.\""
   },
   {Bible:"Jonah", Chapter:3, Verse:3, Page:1,
-    Kor:"요나는 주님께서 말씀하신 대로, 곧 길을 떠나 니느웨로 갔다. 니느웨는 둘러보는 데만 사흘길이나 되는 아주 큰 성읍이다.",
+    Kor:"요나는 주께서 말씀하신 대로, 곧 길을 떠나 니느웨로 갔다. 니느웨는 둘러보는 데만 사흘길이나 되는 아주 큰 성읍이다.",
     Chn:"约拿便照耶和华的话起来，往尼尼微去。这尼尼微是极大的城，有三日的路程。",
     Eng:"Jonah obeyed the word of the LORD and went to Nineveh. Now Nineveh was a very important city--a visit required three days.",
     Ind:"Bersiaplah Yunus, lalu pergi ke Niniwe, sesuai dengan firman Allah. Niniwe adalah sebuah kota yang mengagumkan besarnya, tiga hari perjalanan luasnya."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Setelah sampai kabar itu kepada raja kota Niniwe, turunlah ia dari singgasananya, ditanggalkannya jubahnya, diselubungkannya kain kabung, lalu duduklah ia di abu."
   },
   {Bible:"Jonah", Chapter:3, Verse:7, Page:1,
-    Kor:"왕은 니느웨 백성에게 다음과 같이 선포하여 알렸다. ○\"왕이 대신들과 더불어 내린 칙명을 따라서, 사람이든 짐승이든 소 떼든 양 떼든, 입에 아무것도 대서는 안 된다. 무엇을 먹어도 안 되고 물을 마셔도 안 된다.",
+    Kor:"왕은 니느웨 백성에게 다음과 같이 선포하여 알렸다. \"왕이 대신들과 더불어 내린 칙명을 따라서, 사람이든 짐승이든 소 떼든 양 떼든, 입에 아무것도 대서는 안 된다. 무엇을 먹어도 안 되고 물을 마셔도 안 된다.",
     Chn:"他又使人遍告尼尼微通城，说：「王和大臣有令，人不可尝什么，牲畜、牛羊不可吃草，也不可喝水。",
     Eng:"Then he issued a proclamation in Nineveh: \"By the decree of the king and his nobles: Do not let any man or beast, herd or flock, taste anything; do not let them eat or drink.",
     Ind:"Lalu atas perintah raja dan para pembesarnya orang memaklumkan dan mengatakan di Niniwe demikian: \"Manusia dan ternak, lembu sapi dan kambing domba tidak boleh makan apa-apa, tidak boleh makan rumput dan tidak boleh minum air."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Siapa tahu, mungkin Allah akan berbalik dan menyesal serta berpaling dari murka-Nya yang bernyala-nyala itu, sehingga kita tidak binasa.\""
   },
   {Bible:"Jonah", Chapter:3, Verse:10, Page:1,
-    Kor:"<요나의 분노와 하나님의 자비> ○하나님께서 그들이 뉘우치는 것, 곧 그들이 저마다 자기가 가던 나쁜 길에서 돌이키는 것을 보시고, 뜻을 돌이켜 그들에게 내리시겠다고 말씀하신 재앙을 내리지 않으셨다.",
+    Kor:"○하나님께서 그들이 뉘우치는 것, 곧 그들이 저마다 자기가 가던 나쁜 길에서 돌이키는 것을 보시고, 뜻을 돌이켜 그들에게 내리시겠다고 말씀하신 재앙을 내리지 않으셨다.",
     Chn:"于是　神察看他们的行为，见他们离开恶道，他就后悔，不把所说的灾祸降与他们了。",
     Eng:"When God saw what they did and how they turned from their evil ways, he had compassion and did not bring upon them the destruction he had threatened.",
     Ind:"Ketika Allah melihat perbuatan mereka itu, yakni bagaimana mereka berbalik dari tingkah lakunya yang jahat, maka menyesallah Allah karena malapetaka yang telah dirancangkan-Nya terhadap mereka, dan Iapun tidak jadi melakukannya."

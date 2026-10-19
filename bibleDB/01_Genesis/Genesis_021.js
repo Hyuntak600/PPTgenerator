@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",21,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:21, Verse:1, Page:1,
-    Kor:"<이삭이 태어나다> 주님께서는 말씀하신 대로 사라를 돌보셨다. 사라에게 약속하신 것을 주님께서 그대로 이루시니,",
+    Kor:"주께서는 말씀하신 대로 사라를 돌보셨다. 사라에게 약속하신 것을 주께서 그대로 이루시니,",
     Chn:"耶和华按着先前的话眷顾撒拉，便照他所说的给撒拉成就。",
     Eng:"Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had  promised.",
     Ind:"TUHAN memperhatikan Sara, seperti yang difirmankan-Nya, dan TUHAN melakukan kepada Sara seperti yang dijanjikan-Nya."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Maka mengandunglah Sara, lalu ia melahirkan seorang anak laki-laki bagi Abraham dalam masa tuanya, pada waktu yang telah ditetapkan, sesuai dengan firman Allah kepadanya."
   },
   {Bible:"Genesis", Chapter:21, Verse:3, Page:1,
-    Kor:"아브라함은 사라가 낳아 준 아들에게 a이삭이라는 이름을 지어 주었다.(a '그가 웃다')",
+    Kor:"아브라함은 사라가 낳아 준 아들에게 이삭이라는 이름을 지어 주었다.",
     Chn:"亚伯拉罕给撒拉所生的儿子起名叫以撒。",
     Eng:"Abraham gave the name Isaac to the son Sarah bore him.",
     Ind:"Abraham menamai anaknya yang baru lahir itu Ishak, yang dilahirkan Sara baginya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Lagi katanya: \"Siapakah tadinya yang dapat mengatakan kepada Abraham: Sara menyusui anak? Namun aku telah melahirkan seorang anak laki-laki baginya pada masa tuanya.\""
   },
   {Bible:"Genesis", Chapter:21, Verse:8, Page:1,
-    Kor:"<하갈과 이스마엘이 쫓겨나다> ○아기가 자라서, 젖을 떼게 되었다. 이삭이 젖을 떼는 날에, 아브라함이 큰 잔치를 벌였다.",
+    Kor:"○아기가 자라서, 젖을 떼게 되었다. 이삭이 젖을 떼는 날에, 아브라함이 큰 잔치를 벌였다.",
     Chn:"孩子渐长，就断了奶。以撒断奶的日子，亚伯拉罕设摆丰盛的筵席。",
     Eng:"The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast.",
     Ind:"Bertambah besarlah anak itu dan ia disapih, lalu Abraham mengadakan perjamuan besar pada hari Ishak disapih itu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tetapi keturunan dari hambamu itu juga akan Kubuat menjadi suatu bangsa, karena iapun anakmu.\""
   },
   {Bible:"Genesis", Chapter:21, Verse:14, Page:1,
-    Kor:"다음날 아침에 일찍, 아브라함은 먹거리 얼마와 물 한 가죽부대를 가져다가, 하갈에게 주었다. 그는 먹거리와 마실 물을 하갈의 어깨에 메워 주고서, 그를 아이와 함께 내보냈다. 하갈은 길을 나서서, 브엘세바 빈 들에서 정처없이 헤매고 다녔다.",
+    Kor:"다음날 아침에 일찍, 아브라함은 먹을거리 얼마와 물 한 가죽부대를 가져다가, 하갈에게 주었다. 그는 먹을거리와 마실 물을 하갈의 어깨에 메워 주고서, 그를 아이와 함께 내보냈다. 하갈은, 길을 나서서, 브엘세바 빈 들에서 정처없이 헤매고 다녔다.",
     Chn:"亚伯拉罕清早起来，拿饼和一皮袋水，给了夏甲，搭在她的肩上，又把孩子交给她，打发她走。夏甲就走了，在别是巴的旷野走迷了路。",
     Eng:"Early the next morning Abraham took some food and a skin of water and gave them to Hagar.  He set them on her shoulders and then sent her off with the boy. She went on her way and wandered  in the desert of Beersheba.",
     Ind:"Keesokan harinya pagi-pagi Abraham mengambil roti serta sekirbat air dan memberikannya kepada Hagar. Ia meletakkan itu beserta anaknya di atas bahu Hagar, kemudian disuruhnyalah perempuan itu pergi. Maka pergilah Hagar dan mengembara di padang gurun Bersyeba."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"dan ia duduk agak jauh, kira-kira sepemanah jauhnya, sebab katanya: \"Tidak tahan aku melihat anak itu mati.\" Sedang ia duduk di situ, menangislah ia dengan suara nyaring."
   },
   {Bible:"Genesis", Chapter:21, Verse:17, Page:1,
-    Kor:"하나님이 그 아이가 우는 소리를 들으셨다. 하늘에서 하나님의 천사가 하갈을 부르며 말하였다. \"하갈아, 어찌 된 일이냐? 무서워하지 말아라. 아이가 저기에 누워서 우는 저 소리를 하나님이 들으셨다.",
+    Kor:"하나님이, 그 아이가 우는 소리를 들으셨다. 하늘에서 하나님의 천사가 하갈을 부르며 말하였다. \"하갈아, 어찌 된 일이냐? 무서워하지 말아라. 아이가 저기에 누워서 우는 저 소리를 하나님이 들으셨다.",
     Chn:"神听见童子的声音；　神的使者从天上呼叫夏甲说：「夏甲，你为何这样呢？不要害怕，　神已经听见童子的声音了。",
     Eng:"God heard the boy crying, and the angel of God called to Hagar from heaven and said to her,  \"What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there.",
     Ind:"Allah mendengar suara anak itu, lalu Malaikat Allah berseru dari langit kepada Hagar, kata-Nya kepadanya: \"Apakah yang engkau susahkan, Hagar? Janganlah takut, sebab Allah telah mendengar suara anak itu dari tempat ia terbaring."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Maka tinggallah ia di padang gurun Paran, dan ibunya mengambil seorang isteri baginya dari tanah Mesir."
   },
   {Bible:"Genesis", Chapter:21, Verse:22, Page:1,
-    Kor:"<아브라함과 아비멜렉의 협약> ○그 무렵에 아비멜렉과 그의 군사령관 비골이 아브라함에게 말하였다. \"하나님은, 당신이 무슨 일을 하든지, 당신을 도우십니다.",
+    Kor:"○그 무렵에 아비멜렉과 그의 군사령관 비골이 아브라함에게 말하였다. \"하나님은, 그대가 무슨 일을 하든지, 그대를 도우십니다.",
     Chn:"当那时候，亚比米勒同他军长非各对亚伯拉罕说：「凡你所行的事都有　神的保佑。",
     Eng:"At that time Abimelech and Phicol the commander of his forces said to Abraham, \"God is with  you in everything you do.",
     Ind:"Pada waktu itu Abimelekh, beserta Pikhol, panglima tentaranya, berkata kepada Abraham: \"Allah menyertai engkau dalam segala sesuatu yang engkau lakukan."
   },
   {Bible:"Genesis", Chapter:21, Verse:23, Page:1,
-    Kor:"이제 여기 하나님 앞에서, 당신이 나와 나의 아이들과 나의 자손을 속이지 않겠다고 맹세하십시오. 당신이 나그네살이를 하는 우리 땅에서, 내가 당신에게 한 것처럼, 당신도 나와 이 땅 사람들에게 친절을 베풀어 주시기 바랍니다.\"",
+    Kor:"이제 여기 하나님 앞에서, 그대가 나와 나의 아이들과 나의 자손을 속이지 않겠다고 맹세하십시오. 그대가 나그네살이를 하는 우리 땅에서, 내가 그대에게 한 것처럼, 그대도 나와 이 땅 사람들에게 친절을 베풀어 주시기 바랍니다.\"",
     Chn:"我愿你如今在这里指着　神对我起誓，不要欺负我与我的儿子，并我的子孙。我怎样厚待了你，你也要照样厚待我与你所寄居这地的民。」",
     Eng:"Now swear to me here before God that you will not deal falsely with me or my children or my  descendants. Show to me and the country where you are living as an alien the same kindness I have  shown to you.\"",
     Ind:"Oleh sebab itu, bersumpahlah kepadaku di sini demi Allah, bahwa engkau tidak akan berlaku curang kepadaku, atau kepada anak-anakku, atau kepada cucu cicitku; sesuai dengan persahabatan yang kulakukan kepadamu, demikianlah harus engkau berlaku kepadaku dan kepada negeri yang kautinggali sebagai orang asing.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Tetapi Abraham menyesali Abimelekh tentang sebuah sumur yang telah dirampas oleh hamba-hamba Abimelekh."
   },
   {Bible:"Genesis", Chapter:21, Verse:26, Page:1,
-    Kor:"그러나 아비멜렉은 이렇게 말하였다. \"누가 그런 일을 저질렀는지, 나는 모릅니다. 당신도 그런 말을 여태까지 나에게 하지 않았습니다. 나는 그 일을 겨우 오늘에 와서야 들었습니다.\"",
+    Kor:"그러나 아비멜렉은 이렇게 말하였다. \"누가 그런 일을 저질렀는지, 나는 모릅니다. 그대도 그런 말을 여태까지 나에게 하지 않았습니다. 나는 그 일을 겨우 오늘에 와서야 들었습니다.\"",
     Chn:"亚比米勒说：「谁做这事，我不知道，你也没有告诉我，今日我才听见了。」",
     Eng:"But Abimelech said, \"I don't know who has done this. You did not tell me, and I heard about  it only today.\"",
     Ind:"Jawab Abimelekh: \"Aku tidak tahu, siapa yang melakukan hal itu; lagi tidak kauberitahukan kepadaku, dan sampai hari ini belum pula kudengar.\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Jawabnya: \"Ketujuh anak domba ini harus kauterima dari tanganku untuk menjadi tanda bukti bagiku, bahwa akulah yang menggali sumur ini.\""
   },
   {Bible:"Genesis", Chapter:21, Verse:31, Page:1,
-    Kor:"이 두 사람이 여기에서 이렇게 맹세를 하였으므로, 그 곳을 b브엘세바라고 한다.(b '맹세의 우물' 또는 '일곱 우물')",
+    Kor:"이 두 사람이 여기에서 이렇게 맹세를 하였으므로, 그 곳을 브엘세바라고 한다.",
     Chn:"所以他给那地方起名叫别是巴，因为他们二人在那里起了誓。",
     Eng:"So that place was called Beersheba, because the two men swore an oath there.",
     Ind:"Sebab itu orang menyebutkan tempat itu Bersyeba, karena kedua orang itu telah bersumpah di sana."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Setelah mereka mengadakan perjanjian di Bersyeba, pulanglah Abimelekh beserta Pikhol, panglima tentaranya, ke negeri orang Filistin."
   },
   {Bible:"Genesis", Chapter:21, Verse:33, Page:1,
-    Kor:"아브라함은 브엘세바에 에셀 나무를 심고, 거기에서, 영생하시는 주 하나님의 이름을 부르며 예배를 드렸다.",
+    Kor:"아브라함은 브엘세바에 에셀 나무를 심고, 거기에서, 영생하시는 주 하나님의 이름을 부르며, 예배를 드렸다.",
     Chn:"亚伯拉罕在别是巴栽上一棵垂丝柳树，又在那里求告耶和华—永生　神的名。",
     Eng:"Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the  LORD, the Eternal God.",
     Ind:"Lalu Abraham menanam sebatang pohon tamariska di Bersyeba, dan memanggil di sana nama TUHAN, Allah yang kekal."

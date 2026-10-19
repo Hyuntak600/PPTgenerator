@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",23,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:23, Verse:1, Page:1,
-    Kor:"<-6-> 네가 높은 사람과 함께 앉아 음식을 먹게 되거든, 너의 앞에 누가 앉았는지를 잘 살펴라.",
+    Kor:"네가 높은 사람과 함께 앉아 음식을 먹게 되거든, 너의 앞에 누가 앉았는지를 잘 살펴라.",
     Chn:"你若与官长坐席， 要留意在你面前的是谁。",
     Eng:"When you sit to dine with a ruler, note well what is before you,",
     Ind:"Bila engkau duduk makan dengan seorang pembesar, perhatikanlah baik-baik apa yang ada di depanmu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Jangan ingin akan makanannya yang lezat, itu adalah hidangan yang menipu."
   },
   {Bible:"Proverbs", Chapter:23, Verse:4, Page:1,
-    Kor:"<-7-> 부자가 되려고 애쓰지 말고, 그런 생각을 끊어 버릴 슬기를 가져라.",
+    Kor:"부자가 되려고 애쓰지 말고, 그런 생각을 끊어 버릴 슬기를 가져라.",
     Chn:"不要劳碌求富， 休仗自己的聪明。",
     Eng:"Do not wear yourself out to get rich; have the wisdom to show restraint.",
     Ind:"Jangan bersusah payah untuk menjadi kaya, tinggalkan niatmu ini."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Kalau engkau mengamat-amatinya, lenyaplah ia, karena tiba-tiba ia bersayap, lalu terbang ke angkasa seperti rajawali."
   },
   {Bible:"Proverbs", Chapter:23, Verse:6, Page:1,
-    Kor:"<-8-> 너는 인색한 사람의 상에서 먹지 말고, 그가 즐기는 맛난 음식을 탐내지 말아라.",
+    Kor:"너는 인색한 사람의 상에서 먹지 말고, 그가 즐기는 맛난 음식을 탐내지 말아라.",
     Chn:"不要吃恶眼人的饭， 也不要贪他的美味；",
     Eng:"Do not eat the food of a stingy man, do not crave his delicacies;",
     Ind:"Jangan makan roti orang yang kikir, jangan ingin akan makanannya yang lezat."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Suap yang telah kaumakan, kau akan muntahkan, dan kata-katamu yang manis kausia-siakan."
   },
   {Bible:"Proverbs", Chapter:23, Verse:9, Page:1,
-    Kor:"<-9-> 미련한 사람의 귀에는 아무 말도 하지 말아라. 그가 너의 슬기로운 말을 업신여길 것이기 때문이다.",
+    Kor:"미련한 사람의 귀에는 아무 말도 하지 말아라. 그가 너의 슬기로운 말을 업신여길 것이기 때문이다.",
     Chn:"你不要说话给愚昧人听， 因他必藐视你智慧的言语。",
     Eng:"Do not speak to a fool, for he will scorn the wisdom of your words.",
     Ind:"Jangan berbicara di telinga orang bebal, sebab ia akan meremehkan kata-katamu yang bijak."
   },
   {Bible:"Proverbs", Chapter:23, Verse:10, Page:1,
-    Kor:"<-10-> 옛날에 세워 놓은 밭 경계표를 옮기지 말며, 고아들의 밭을 침범하지 말아라.",
+    Kor:"옛날에 세워 놓은 밭 경계표를 옮기지 말며, 고아들의 밭을 침범하지 말아라.",
     Chn:"不可挪移古时的地界， 也不可侵入孤儿的田地；",
     Eng:"Do not move an ancient boundary stone or encroach on the fields of the fatherless,",
     Ind:"Jangan engkau memindahkan batas tanah yang lama, dan memasuki ladang anak-anak yatim."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Karena penebus mereka kuat, Dialah yang membela perkara mereka melawan engkau."
   },
   {Bible:"Proverbs", Chapter:23, Verse:12, Page:1,
-    Kor:"<-11-> 훈계를 너의 마음에 간직하고, 지식이 담긴 말씀에 너의 귀를 기울여라.",
+    Kor:"훈계를 너의 마음에 간직하고, 지식이 담긴 말씀에 너의 귀를 기울여라.",
     Chn:"你要留心领受训诲， 侧耳听从知识的言语。",
     Eng:"Apply your heart to instruction and your ears to words of knowledge.",
     Ind:"Arahkanlah perhatianmu kepada didikan, dan telingamu kepada kata-kata pengetahuan."
   },
   {Bible:"Proverbs", Chapter:23, Verse:13, Page:1,
-    Kor:"<-12-> 아이 꾸짖는 것을 삼가지 말아라. 매질을 한다고 하여서 죽지는 않는다.",
+    Kor:"아이 꾸짖는 것을 삼가지 말아라. 매질을 한다고 하여서 죽지는 않는다.",
     Chn:"不可不管教孩童； 你用杖打他，他必不至于死。",
     Eng:"Do not withhold discipline from a child; if you punish him with the rod, he will not die.",
     Ind:"Jangan menolak didikan dari anakmu ia tidak akan mati kalau engkau memukulnya dengan rotan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Engkau memukulnya dengan rotan, tetapi engkau menyelamatkan nyawanya dari dunia orang mati."
   },
   {Bible:"Proverbs", Chapter:23, Verse:15, Page:1,
-    Kor:"<-13-> 내 아이들아, 너의 마음이 지혜로우면, 나의 마음도 또한 즐겁다.",
+    Kor:"내 아들아, 너의 마음이 지혜로우면, 나의 마음도 또한 즐겁다.",
     Chn:"我儿，你心若存智慧， 我的心也甚欢喜。",
     Eng:"My son, if your heart is wise, then my heart will be glad;",
     Ind:"Hai anakku, jika hatimu bijak, hatiku juga bersukacita."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Jiwaku bersukaria, kalau bibirmu mengatakan yang jujur."
   },
   {Bible:"Proverbs", Chapter:23, Verse:17, Page:1,
-    Kor:"<-14-> 죄인들을 보고 마음 속으로 부러워하지 말고, 늘 주님을 경외하여라.",
+    Kor:"죄인들을 보고 마음 속으로 부러워하지 말고, 늘 주님을 경외하여라.",
     Chn:"你心中不要嫉妒罪人， 只要终日敬畏耶和华；",
     Eng:"Do not let your heart envy sinners, but always be zealous for the fear of the LORD.",
     Ind:"Janganlah hatimu iri kepada orang-orang yang berdosa, tetapi takutlah akan TUHAN senantiasa."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Karena masa depan sungguh ada, dan harapanmu tidak akan hilang."
   },
   {Bible:"Proverbs", Chapter:23, Verse:19, Page:1,
-    Kor:"<-15-> 내 아이들아, 너는 잘 듣고 지혜를 얻어서, 너의 마음을 바르게 이끌어라.",
+    Kor:"내 아들아, 너는 잘 듣고 지혜를 얻어서, 너의 마음을 바르게 이끌어라.",
     Chn:"我儿，你当听，当存智慧， 好在正道上引导你的心。",
     Eng:"Listen, my son, and be wise, and keep your heart on the right path.",
     Ind:"Hai anakku, dengarkanlah, dan jadilah bijak, tujukanlah hatimu ke jalan yang benar."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Karena si peminum dan si pelahap menjadi miskin, dan kantuk membuat orang berpakaian compang-camping."
   },
   {Bible:"Proverbs", Chapter:23, Verse:22, Page:1,
-    Kor:"<-16-> 너를 낳아 준 아버지에게 순종하고 늙은 어머니를 업신여기지 말아라.",
+    Kor:"너를 낳아 준 아버지에게 순종하고 늙은 어머니를 업신여기지 말아라.",
     Chn:"你要听从生你的父亲； 你母亲老了，也不可藐视她。",
     Eng:"Listen to your father, who gave you life, and do not despise your mother when she is old.",
     Ind:"Dengarkanlah ayahmu yang memperanakkan engkau, dan janganlah menghina ibumu kalau ia sudah tua."
@@ -153,25 +153,25 @@ BibleDB.add([
     Ind:"Biarlah ayahmu dan ibumu bersukacita, biarlah beria-ria dia yang melahirkan engkau."
   },
   {Bible:"Proverbs", Chapter:23, Verse:26, Page:1,
-    Kor:"<-17-> 내 아이들아! 나를 눈여겨 보고, 내가 걸어온 길을 기꺼이 따라라.",
+    Kor:"내 아들아! 나를 눈여겨 보고, 내가 걸어온 길을 기꺼이 따라라.",
     Chn:"我儿，要将你的心归我； 你的眼目也要喜悦我的道路。",
     Eng:"My son, give me your heart and let your eyes keep to my ways,",
     Ind:"Hai anakku, berikanlah hatimu kepadaku, biarlah matamu senang dengan jalan-jalanku."
   },
   {Bible:"Proverbs", Chapter:23, Verse:27, Page:1,
-    Kor:"음란한 여자는 깊은 구렁이요, 부정한 여자는 좁은 함정이다.",
+    Kor:"음란한 여자는 깊은 구렁이요, 외간 여자는 좁은 함정이다.",
     Chn:"妓女是深坑； 外女是窄阱。",
     Eng:"for a prostitute is a deep pit and a wayward wife is a narrow well.",
     Ind:"Karena perempuan jalang adalah lobang yang dalam, dan perempuan asing adalah sumur yang sempit."
   },
   {Bible:"Proverbs", Chapter:23, Verse:28, Page:1,
-    Kor:"강도처럼 남자를 노리고 있다가, 숱한 남자를 변절자로 만든다.",
+    Kor:"강도처럼 남자를 노리고 있다가, 숫한 남자를 변절자로 만든다.",
     Chn:"她埋伏好像强盗； 她使人中多有奸诈的。",
     Eng:"Like a bandit she lies in wait, and multiplies the unfaithful among men.",
     Ind:"Bahkan, seperti penyamun ia menghadang, dan memperbanyak pengkhianat di antara manusia."
   },
   {Bible:"Proverbs", Chapter:23, Verse:29, Page:1,
-    Kor:"<-18-> 재난을 당할 사람이 누구며, 근심하게 될 사람이 누구냐? 다투게 될 사람이 누구며, 탄식할 사람이 누구냐? 까닭도 모를 상처를 입을 사람이 누구며, 눈이 충혈될 사람이 누구냐?",
+    Kor:"재난을 당할 사람이 누구며, 근심하게 될 사람이 누구냐? 다투게 될 사람이 누구며, 탄식할 사람이 누구냐? 까닭도 모를 상처를 입을 사람이 누구며, 눈이 충혈될 사람이 누구냐?",
     Chn:"谁有祸患？谁有忧愁？ 谁有争斗？谁有哀叹？ 谁无故受伤？谁眼目红赤？",
     Eng:"Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?",
     Ind:"Siapa mengaduh? Siapa mengeluh? Siapa bertengkar? Siapa berkeluh kesah? Siapa mendapat cidera tanpa sebab? Siapa merah matanya?"

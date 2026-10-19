@@ -3,13 +3,13 @@
 BibleDB.ref("Amos",8,14);
 BibleDB.add([
   {Bible:"Amos", Chapter:8, Verse:1, Page:1,
-    Kor:"<넷째 환상, 여름 과일 한 광주리> 주 하나님이 나에게 다음과 같은 것을 보여 주셨다. 보니, a여름 과일 한 광주리가 있었다.(a 히, '카이츠(과일)')",
+    Kor:"주 하나님이 나에게 다음과 같은 것을 보여 주셨다. 보니, 여름 과일 한 광주리가 있었다.",
     Chn:"主耶和华又指示我一件事：我看见一筐夏天的果子。",
     Eng:"This is what the Sovereign LORD showed me: a basket of ripe fruit.",
     Ind:"Inilah yang diperlihatkan Tuhan ALLAH kepadaku: Tampak sebuah bakul berisi buah-buahan musim kemarau."
   },
   {Bible:"Amos", Chapter:8, Verse:2, Page:1,
-    Kor:"주님께서 물으신다. \"아모스야, 네가 무엇을 보느냐?\" 내가 대답하였다. \"여름 과일 한 광주리입니다.\" 주님께서 나에게 말씀하신다.  \"나의 백성 이스라엘이 b끝장났다. 내가 이스라엘을 다시는 용서하지 않겠다. (b 히, '케츠(끝)'. '과일'과 '끝'을 뜻하는 히브리어의 발음이 비슷함)",
+    Kor:"주께서 물으신다. \"아모스야, 네가 무엇을 보느냐?\" 내가 대답하였다. \"여름 과일 한 광주리입니다.\" 주께서 나에게 말씀하신다. \"나의 백성 이스라엘이 끝장났다. 내가 이스라엘을 다시는 용서하지 않겠다.",
     Chn:"他说：「阿摩司啊，你看见什么？」我说：「看见一筐夏天的果子。」耶和华说：「我民以色列的结局到了，我必不再宽恕他们。」",
     Eng:"\"What do you see, Amos?\" he asked. \"A basket of ripe fruit,\" I answered. Then the LORD said to me, \"The time is ripe for my people Israel; I will spare them no longer.",
     Ind:"Lalu berfirmanlah Ia: \"Apakah yang kaulihat, Amos?\" Jawabku: \"Sebuah bakul berisi buah-buahan musim kemarau.\" Berfirmanlah TUHAN kepadaku: \"Kesudahan telah datang bagi umat-Ku Israel. Aku tidak akan memaafkannya lagi."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Dengarlah ini, kamu yang menginjak-injak orang miskin, dan yang membinasakan orang sengsara di negeri ini"
   },
   {Bible:"Amos", Chapter:8, Verse:5, Page:1,
-    Kor:"기껏 한다는 말이, \"c초하루 축제가 언제 지나서, 우리가 곡식을 팔 수 있을까? 안식일이 언제 지나서, 우리가 밀을 낼 수 있을까? d되는 줄이고, e추는 늘이면서, 가짜 저울로 속이자. (c 또는 '새 달' 축제 d 히, '에바' e 히, '세겔')",
+    Kor:"기껏 한다는 말이, \"초하루 축제가 언제 지나서, 우리가 곡식을 팔 수 있을까? 안식일이 언제 지나서, 우리가 밀을 낼 수 있을까? 되는 줄이고, 추는 늘이면서, 가짜 저울로 속이자.",
     Chn:"你们说：月朔几时过去， 我们好卖粮； 安息日几时过去， 我们好摆开麦子； 卖出用小升斗， 收银用大戥子， 用诡诈的天平欺哄人，",
     Eng:"saying, \"When will the New Moon be over that we may sell grain, and the Sabbath be ended that we may market wheat?\"--skimping the measure, boosting the price and cheating with dishonest scales,",
     Ind:"dan berpikir: \"Bilakah bulan baru berlalu, supaya kita boleh menjual gandum dan bilakah hari Sabat berlalu, supaya kita boleh menawarkan terigu dengan mengecilkan efa, membesarkan syikal, berbuat curang dengan neraca palsu,"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"supaya kita membeli orang lemah karena uang dan orang yang miskin karena sepasang kasut; dan menjual terigu rosokan?\""
   },
   {Bible:"Amos", Chapter:8, Verse:7, Page:1,
-    Kor:"주님께서 야곱의 자랑을 걸고 맹세하신다. \"그들이 한 일 그 어느 것도 내가 두고두고 잊지 않겠다.",
+    Kor:"주께서 야곱의 자랑을 걸고 맹세하신다. \"그들이 한 일 그 어느 것도 내가 두고두고 잊지 않겠다.",
     Chn:"耶和华指着雅各的荣耀起誓说： 他们的一切行为，我必永远不忘。",
     Eng:"The LORD has sworn by the Pride of Jacob: \"I will never forget anything they have done.",
     Ind:"TUHAN telah bersumpah demi kebanggaan Yakub: \"Bahwasanya Aku tidak akan melupakan untuk seterusnya segala perbuatan mereka!"

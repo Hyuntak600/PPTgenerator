@@ -3,13 +3,13 @@
 BibleDB.ref("Judges",7,25);
 BibleDB.add([
   {Bible:"Judges", Chapter:7, Verse:1, Page:1,
-    Kor:"<기드온이 미디안을 쫓아내다> 여룹바알이라고도 하는 기드온과 그가 거느리는 모든 군대가 일찍 일어나, 하롯이라는 샘 곁에 진을 쳤는데, 미디안의 진은 거기에서 북쪽 골짜기에 있는 모래 언덕에 있었다.",
+    Kor:"여룹바알이라고도 하는 기드온과 그가 거느리는 모든 군대가 일찍 일어나, 하롯이라는 샘 곁에 진을 쳤는데, 미디안의 진은 거기에서 북쪽 골짜기에 있는 모래 언덕에 있었다.",
     Chn:"耶路·巴力就是基甸，他和一切跟随的人早晨起来，在哈律泉旁安营。米甸营在他们北边的平原，靠近摩利冈。",
     Eng:"Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh.",
     Ind:"Adapun Yerubaal--itulah Gideon--bangun pagi-pagi dengan segala rakyat yang bersama-sama dengan dia, lalu mereka berkemah dekat mata air Harod; perkemahan orang Midian itu ada di sebelah utaranya, dekat bukit More, di lembah."
   },
   {Bible:"Judges", Chapter:7, Verse:2, Page:1,
-    Kor:"주님께서 기드온에게 말씀하셨다. \"네가 거느린 군대의 수가 너무 많다. 이대로는 내가 미디안 사람들을 네가 거느린 군대의 손에 넘겨 주지 않겠다. 이스라엘 백성이 나를 제쳐놓고서, 제가 힘이 세어서 이긴 줄 알고 스스로 자랑할까 염려된다.",
+    Kor:"주께서 기드온에게 말씀하셨다. \"네가 거느린 군대의 수가 너무 많다. 이대로는 내가 미디안 사람들을 네가 거느린 군대의 손에 넘겨 주지 않겠다. 이스라엘 백성이 나를 제쳐놓고서, 제가 힘이 세어서 이긴 줄 알고 스스로 자랑할까 염려된다.",
     Chn:"耶和华对基甸说：「跟随你的人过多，我不能将米甸人交在他们手中，免得以色列人向我夸大，说：『是我们自己的手救了我们。』",
     Eng:"The LORD said to Gideon, \"You have too many men for me to deliver Midian into their hands. In order that Israel may not boast against me that her own strength has saved her,",
     Ind:"Berfirmanlah TUHAN kepada Gideon: \"Terlalu banyak rakyat yang bersama-sama dengan engkau itu dari pada yang Kuhendaki untuk menyerahkan orang Midian ke dalam tangan mereka, jangan-jangan orang Israel memegah-megahkan diri terhadap Aku, sambil berkata: Tanganku sendirilah yang menyelamatkan aku."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Maka sekarang, serukanlah kepada rakyat itu, demikian: Siapa yang takut dan gentar, biarlah ia pulang, enyah dari pegunungan Gilead.\" Lalu pulanglah dua puluh dua ribu orang dari rakyat itu dan tinggallah sepuluh ribu orang."
   },
   {Bible:"Judges", Chapter:7, Verse:4, Page:1,
-    Kor:"○주님께서 또 기드온에게 말씀하셨다. \"군인이 아직도 많다. 그들을 물가로 데리고 내려가거라. 내가 너를 도와 거기에서 그들을 시험하여 보겠다. 내가 너에게 '이 사람이 너와 함께 나갈 사람'이라 일러주면, 너는 그 사람을 데리고 가거라. 내가 또 너에게 '이 사람은 너와 함께 나가지 못할 사람'이라 일러주면, 너는 그 사람은 데리고 가지 말아라.\"",
+    Kor:"○주께서 또 기드온에게 말씀하셨다. \"군인이 아직도 많다. 그들을 물가로 데리고 내려가거라. 내가 너를 도와 거기에서 그들을 시험하여 보겠다. 내가 너에게 '이 사람이 너와 함께 나갈 사람'이라 일러주면, 너는 그 사람을 데리고 가거라. 내가 또 너에게 '이 사람은 너와 함께 나가지 못할 사람'이라 일러주면, 너는 그 사람은 데리고 가지 말아라.\"",
     Chn:"耶和华对基甸说：「人还是过多；你要带他们下到水旁，我好在那里为你试试他们。我指点谁说：『这人可以同你去』，他就可以同你去；我指点谁说：『这人不可同你去』，他就不可同你去。」",
     Eng:"But the LORD said to Gideon, \"There are still too many men. Take them down to the water, and I will sift them for you there. If I say, 'This one shall go with you,' he shall go; but if I say, 'This one shall not go with you,' he shall not go.\"",
     Ind:"Tetapi TUHAN berfirman kepada Gideon: \"Masih terlalu banyak rakyat; suruhlah mereka turun minum air, maka Aku akan menyaring mereka bagimu di sana. Siapa yang Kufirmankan kepadamu: Inilah orang yang akan pergi bersama-sama dengan engkau, dialah yang akan pergi bersama-sama dengan engkau, tetapi barangsiapa yang Kufirmankan kepadamu: Inilah orang yang tidak akan pergi bersama-sama dengan engkau, dialah yang tidak akan pergi.\""
   },
   {Bible:"Judges", Chapter:7, Verse:5, Page:1,
-    Kor:"기드온이 군대를 물가로 데리고 내려가니, 주님께서 기드온에게 이렇게 일러주셨다. \"개가 핥는 것처럼 혀로 물을 핥는 사람과 무릎을 꿇고 물을 마시는 사람을 모두 구별하여 세워라.\"",
+    Kor:"기드온이 군대를 물가로 데리고 내려가니, 주께서 기드온에게 이렇게 일러주셨다. \"개가 핥는 것처럼 혀로 물을 핥는 사람과 무릎을 꿇고 물을 마시는 사람을, 모두 구별하여 세워라.\"",
     Chn:"基甸就带他们下到水旁。耶和华对基甸说：「凡用舌头舔水，像狗舔的，要使他单站在一处；凡跪下喝水的，也要使他单站在一处。」",
     Eng:"So Gideon took the men down to the water. There the LORD told him, \"Separate those who lap the water with their tongues like a dog from those who kneel down to drink.\"",
     Ind:"Lalu Gideon menyuruh rakyat itu turun minum air, dan berfirmanlah TUHAN kepadanya: \"Barangsiapa yang menghirup air dengan lidahnya seperti anjing menjilat, haruslah kaukumpulkan tersendiri, demikian juga semua orang yang berlutut untuk minum.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Jumlah orang yang menghirup dengan membawa tangannya ke mulutnya, ada tiga ratus orang, tetapi yang lain dari rakyat itu semuanya berlutut minum air."
   },
   {Bible:"Judges", Chapter:7, Verse:7, Page:1,
-    Kor:"주님께서 기드온에게 이르셨다. \"물을 핥아먹은 삼백 명으로 너희를 구원하겠다. 미디안 사람들을 너의 손에 넘겨주겠다. 나머지 군인은 모두 온 곳으로 돌려보내라.\"",
+    Kor:"주께서 기드온에게 이르셨다. \"물을 핥아먹은 삼백 명으로 너희를 구원하겠다. 미디안 사람들을 너의 손에 넘겨주겠다. 나머지 군인은 모두 온 곳으로 돌려보내라.\"",
     Chn:"耶和华对基甸说：「我要用这舔水的三百人拯救你们，将米甸人交在你手中；其余的人都可以各归各处去。」",
     Eng:"The LORD said to Gideon, \"With the three hundred men that lapped I will save you and give the Midianites into your hands. Let all the other men go, each to his own place.\"",
     Ind:"Lalu berfirmanlah TUHAN kepada Gideon: \"Dengan ketiga ratus orang yang menghirup itu akan Kuselamatkan kamu: Aku akan menyerahkan orang Midian ke dalam tanganmu; tetapi yang lain dari rakyat itu semuanya boleh pergi, masing-masing ke tempat kediamannya.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Dari rakyat itu mereka mengambil bekal dan sangkakala; demikianlah seluruh orang Israel disuruhnya pergi, masing-masing ke kemahnya, tetapi ketiga ratus orang itu ditahannya. Adapun perkemahan orang Midian ada di bawahnya, di lembah."
   },
   {Bible:"Judges", Chapter:7, Verse:9, Page:1,
-    Kor:"○그 날 밤 주님께서 기드온에게 말씀하셨다. \"너는 일어나서 적진으로 쳐내려가거라. 내가 그들을 너의 손에 넘겨 주겠다.",
+    Kor:"○그 날 밤 주께서 기드온에게 말씀하셨다. \"너는 일어나서 적진으로 쳐내려가거라. 내가 그들을 너의 손에 넘겨 주겠다.",
     Chn:"当那夜，耶和华吩咐基甸说：「起来，下到米甸营里去，因我已将他们交在你手中。",
     Eng:"During that night the LORD said to Gideon, \"Get up, go down against the camp, because I am going to give it into your hands.",
     Ind:"Pada malam itu berfirmanlah TUHAN kepadanya: \"Bangunlah, turunlah menyerbu perkemahan itu, sebab telah Kuserahkan itu ke dalam tanganmu."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Adapun orang Midian dan orang Amalek dan semua orang dari sebelah timur itu bergelimpangan di lembah itu, seperti belalang banyaknya, dan unta mereka tidak terhitung, seperti pasir di tepi laut banyaknya."
   },
   {Bible:"Judges", Chapter:7, Verse:13, Page:1,
-    Kor:"○기드온이 그 곳에 이르렀을 때에, 마침 한 병사가 자기가 꾼 꿈 이야기를 친구에게 하고 있었다. \"내가 꿈을 꾸었는데, 보리빵 한 덩어리가 미디안 진으로 굴러 들어와 장막에 이르러서 그 장막을 쳐서 뒤엎으니, 그만 막이 쓰러지고 말았다네\" 하고 말하니까,",
+    Kor:"○기드온이 그 곳에 이르렀을 때에, 마침 한 병사가 자기가 꾼 꿈 이야기를 친구에게 하고 있었다. \"내가 꿈을 꾸었는데, 보리빵 한 덩어리가 미디안 진으로 굴러 들어와, 장막에 이르러서, 그 장막을 쳐서 뒤엎으니, 그만 막이 쓰러지고 말았다네\" 하고 말하니까,",
     Chn:"基甸到了，就听见一人将梦告诉同伴说：「我做了一梦，梦见一个大麦饼滚入米甸营中，到了帐幕，将帐幕撞倒，帐幕就翻转倾覆了。」",
     Eng:"Gideon arrived just as a man was telling a friend his dream. \"I had a dream,\" he was saying. \"A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.\"",
     Ind:"Ketika Gideon sampai ke situ, kebetulan ada seorang menceritakan mimpinya kepada temannya, katanya: \"Aku bermimpi: tampak sekeping roti jelai terguling masuk ke perkemahan orang Midian; setelah sampai ke kemah ini, dilanggarnyalah kemah ini, sehingga roboh, dan dibongkar-bangkirkannya, demikianlah kemah ini habis runtuh.\""
   },
   {Bible:"Judges", Chapter:7, Verse:14, Page:1,
-    Kor:"꿈 이야기를 들은 그 친구가 말하였다.\"그것은 다름이 아니라, 이스라엘 사람 요아스의 아들인 기드온의 칼이 틀림없네. 하나님이 미디안과 그 모든 진을 그의 손에 넘기신다는 것일세.\"",
+    Kor:"꿈 이야기를 들은 그 친구가 \"그것은 다름이 아닐세. 이스라엘 사람 요아스의 아들인 기드온의 칼이 틀림없네. 하나님이 미디안과 그 모든 진을 그의 손에 넘기신다는 것일세\" 하고 말하였다.",
     Chn:"那同伴说：「这不是别的，乃是以色列人约阿施的儿子基甸的刀；　神已将米甸和全军都交在他的手中。」",
     Eng:"His friend responded, \"This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has given the Midianites and the whole camp into his hands.\"",
     Ind:"Lalu temannya menjawab: \"Ini tidak lain dari pedang Gideon bin Yoas, orang Israel itu; Allah telah menyerahkan orang Midian dan seluruh perkemahan ini ke dalam tangannya.\""
   },
   {Bible:"Judges", Chapter:7, Verse:15, Page:1,
-    Kor:"○기드온은 그 꿈 이야기와 해몽하는 말을 듣고, 주님께 경배하였다. 그리고 그는 이스라엘 진으로 돌아와서 \"일어나라! 주님께서 미디안의 진을 너희 손에 넘겨 주셨다!\" 하고 외쳤다.",
+    Kor:"○기드온은 그 꿈 이야기와 해몽하는 말을 듣고, 주께 경배하였다. 그리고 그는 이스라엘 진으로 돌아와서 \"일어나라! 주께서 미디안의 진을 너희 손에 넘겨 주셨다!\" 하고 외쳤다.",
     Chn:"基甸听见这梦和梦的讲解，就敬拜　神，回到以色列营中，说：「起来吧！耶和华已将米甸的军队交在你们手中了。」",
     Eng:"When Gideon heard the dream and its interpretation, he worshiped God. He returned to the camp of Israel and called out, \"Get up! The LORD has given the Midianite camp into your hands.\"",
     Ind:"Segera sesudah Gideon mendengar mimpi itu diceritakan dengan maknanya, sujudlah ia menyembah. Kemudian pulanglah ia ke perkemahan orang Israel, lalu berkata: \"Bangunlah, sebab TUHAN telah menyerahkan perkemahan orang Midian ke dalam tanganmu.\""
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Lalu Gideon dan keseratus orang yang bersama-sama dengan dia sampai ke ujung perkemahan itu pada waktu permulaan giliran jaga tengah malam, ketika penjaga-penjaga baru saja ditempatkan. Lalu mereka meniup sangkakala sambil memecahkan buyung yang di tangan mereka."
   },
   {Bible:"Judges", Chapter:7, Verse:20, Page:1,
-    Kor:"세 부대가 모두 나팔을 불며 단지를 깨고, 왼손에는 횃불을 들고, 오른손에는 나팔을 들고 불면서 \"주님의 칼이다! 기드온의 칼이다!\" 하고 외쳤다.",
+    Kor:"세 부대가 모두 나팔을 불며 단지를 깨고, 왼손에는 횃불을 들고, 오른손에는 나팔을 들고 불면서 \"주의 칼이다! 기드온의 칼이다!\" 하고 외쳤다.",
     Chn:"三队的人就都吹角，打破瓶子，左手拿着火把，右手拿着角，喊叫说：「耶和华和基甸的刀！」",
     Eng:"The three companies blew the trumpets and smashed the jars. Grasping the torches in their left hands and holding in their right hands the trumpets they were to blow, they shouted, \"A sword for the LORD and for Gideon!\"",
     Ind:"Demikianlah ketiga pasukan itu bersama-sama meniup sangkakala, dan memecahkan buyung dengan memegang obor di tangan kirinya dan sangkakala di tangan kanannya untuk ditiup, serta berseru: \"Pedang demi TUHAN dan demi Gideon!\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Sementara itu tinggallah mereka berdiri, masing-masing di tempatnya, sekeliling perkemahan itu, tetapi seluruh tentara musuh menjadi kacau balau, berteriak-teriak dan melarikan diri."
   },
   {Bible:"Judges", Chapter:7, Verse:22, Page:1,
-    Kor:"삼백 명이 나팔을 불 때에, 주님께서 모든 적들이 저희들끼리 칼로 치게 하셨다. 적군은 도망하여, 스레라의 벳싯다와 또 답밧에 가까운 아벨므홀라의 경계선까지 후퇴하였다.",
+    Kor:"삼백 명이 나팔을 불 때에, 주께서 모든 적들이 저희들끼리 칼로 치게 하셨다. 적군은 도망하여, 스레라의 벳싯다와 또 답밧에 가까운 아벨므홀라의 경계선까지 후퇴하였다.",
     Chn:"三百人就吹角，耶和华使全营的人用刀互相击杀，逃到西利拉的伯·哈示他，直逃到靠近他巴的亚伯·米何拉。",
     Eng:"When the three hundred trumpets sounded, the LORD caused the men throughout the camp to turn on each other with their swords. The army fled to Beth Shittah toward Zererah as far as the border of Abel Meholah near Tabbath.",
     Ind:"Sedang ketiga ratus orang itu meniup sangkakala, maka di perkemahan itu TUHAN membuat pedang yang seorang diarahkan kepada yang lain, lalu larilah tentara itu sampai ke Bet-Sita ke arah Zerera sampai ke pinggir Abel-Mehola dekat Tabat."

@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",17,24);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:17, Verse:1, Page:1,
-    Kor:"<독수리와 포도나무의 비유> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Maka datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:17, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 이스라엘 족속에게 수수께끼를 내고, 비유를 들어 말하여라.",
+    Kor:"\"사람아, 너는 이스라엘 족속에게 수수께끼를 내고, 비유를 들어 말하여라.",
     Chn:"「人子啊，你要向以色列家出谜语，设比喻，",
     Eng:"\"Son of man, set forth an allegory and tell the house of Israel a parable.",
     Ind:"\"Hai anak manusia, katakanlah suatu teka-teki dan ucapkanlah suatu perumpamaan kepada kaum Israel."
   },
   {Bible:"Ezekiel", Chapter:17, Verse:3, Page:1,
-    Kor:"너는 그들에게 말하여라. '나 주 하나님이 말한다.  큰 독수리 한 마리가 레바논으로 갔다. 큰 날개, 긴 깃, 알록달록한 깃털을 가진 그 독수리는 백향목 끝에 돋은 순을 땄다.",
+    Kor:"너는 그들에게 말하여라. '나 주 하나님이 말한다. 큰 독수리 한 마리가 레바논으로 갔다. 큰 날개, 긴 깃, 알록달록한 깃털을 가진 그 독수리는 백향목 끝에 돋은 순을 땄다.",
     Chn:"说主耶和华如此说：有一大鹰，翅膀大，翎毛长，羽毛丰满，彩色俱备，来到黎巴嫩，将香柏树梢拧去，",
     Eng:"Say to them, 'This is what the Sovereign LORD says: A great eagle with powerful wings, long feathers and full plumage of varied colors came to Lebanon. Taking hold of the top of a cedar,",
     Ind:"Katakanlah: Beginilah firman Tuhan ALLAH: Seekor burung rajawali yang besar dengan sayapnya yang besar dan panjang, penuh dengan bulu yang berwarna-warna datang ke gunung Libanon dan ia mengambil puncak pohon aras."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Ia mematahkan pucuknya yang paling ujung dan dibawanya ke sebuah negeri perdagangan lalu diletakkannya dia di kota perniagaan."
   },
   {Bible:"Ezekiel", Chapter:17, Verse:5, Page:1,
-    Kor:"그리고 그 땅에서 난 씨앗을 가져다가 옥토에 심었다. 시냇가에다가 버드나무를 심듯, 물이 많은 시냇가에 그 씨앗을 심었다.",
+    Kor:"그리고 그 땅에서 난 씨앗을 가져다가, 옥토에 심었다. 시냇가에다가 버드나무를 심듯, 물이 많은 시냇가에 그 씨앗을 심었다.",
     Chn:"又将以色列地的枝子栽于肥田里，插在大水旁，如插柳树，",
     Eng:"\"'He took some of the seed of your land and put it in fertile soil. He planted it like a willow by abundant water,",
     Ind:"Ia mengambil sebuah dari taruk-taruk tanah itu dan menanamnya di ladang yang sudah sedia ditaburi; ia menempatkannya dekat air yang berlimpah-limpah seperti pohon gandarusa"
   },
   {Bible:"Ezekiel", Chapter:17, Verse:6, Page:1,
-    Kor:"그 씨앗은 싹이 나고, 낮게 퍼지며 자라서, 무성한 포도나무가 되었다. 그 가지들은  독수리에게로 뻗어 올라갔고, 그 뿌리는 땅에 박고 있었다. 그 씨가 포도나무가 되어, 가지를 내뻗고, 덩굴손을 뻗쳤다.",
+    Kor:"그 씨앗은 싹이 나고, 낮게 퍼지며 자라서, 무성한 포도나무가 되었다. 그 가지들은 독수리에게로 뻗어 올라갔고, 그 뿌리는 땅에 박고 있었다. 그 씨가 포도나무가 되어, 가지를 내뻗고, 덩굴손을 뻗쳤다.",
     Chn:"就渐渐生长，成为蔓延矮小的葡萄树。其枝转向那鹰，其根在鹰以下，于是成了葡萄树，生出枝子，发出小枝。",
     Eng:"and it sprouted and became a low, spreading vine. Its branches turned toward him, but its roots remained under it. So it became a vine and produced branches and put out leafy boughs.",
     Ind:"sehingga ia tumbuh dan menjadi pohon anggur yang rimbun, yang tumbuhnya rendah dan cabang-cabangnya melengkung menuju burung itu dan akar-akarnya tetap di bawahnya. Demikianlah ia menjadi pohon anggur dan mengeluarkan tunas-tunas dan memancarkan taruk-taruk."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Dalam pada itu ada juga burung rajawali besar yang lain dengan sayapnya yang besar dan bulu yang lebat. Dan sungguh, pohon anggur ini mengarahkan akar-akarnya ke burung itu dan cabang-cabangnya dijulurkannya kepadanya, supaya burung itu mengairi dia lebih baik dari bedeng di mana ia ditanam."
   },
   {Bible:"Ezekiel", Chapter:17, Verse:8, Page:1,
-    Kor:"그 포도나무를 옥토 곧 물이 많은 곳에 심은 것은, 가지를 뻗고 열매를 맺어서 아름다운 포도나무가 되도록 한 것인데, 이 모양이 되고 말았다.'",
+    Kor:"그 포도나무를 옥토, 곧 물이 많은 곳에 심은 것은, 가지를 뻗고 열매를 맺어서, 아름다운 포도나무가 되도록 한 것인데, 이 모양이 되고 말았다.'",
     Chn:"这树栽于肥田多水的旁边，好生枝子，结果子，成为佳美的葡萄树。",
     Eng:"It had been planted in good soil by abundant water so that it would produce branches, bear fruit and become a splendid vine.'",
     Ind:"Namun ia ditanam di ladang yang baik, dekat air yang berlimpah-limpah, supaya ia bercabang-cabang dan berbuah dan supaya menjadi pohon anggur yang bagus."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Lihat, ia memang ditanam, tetapi apakah ia akan memberi hasil? Apakah ia tidak akan layu kering kalau ditimpa angin timur? Ia akan layu kering di bedeng tempat tumbuhnya itu.\""
   },
   {Bible:"Ezekiel", Chapter:17, Verse:11, Page:1,
-    Kor:"<비유의 해석> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Maka datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:17, Verse:12, Page:1,
-    Kor:"○\"너는 저 반역하는 족속에게, 이 비유가 무엇을 뜻하는지 알지 못하겠느냐고 물어 보고, 그들에게 일러주어라. 바빌로니아 왕이 예루살렘으로 와서, 왕과 지도자들을 붙잡아 바빌로니아로 끌어 갔고,",
+    Kor:"\"너는 저 반역하는 족속에게, 이 비유가 무엇을 뜻하는지 알지 못하겠느냐고 물어 보고, 그들에게 일러주어라. 바빌로니아 왕이 예루살렘으로 와서, 왕과 지도자들을 붙잡아 바빌로니아로 끌어 갔고,",
     Chn:"「你对那悖逆之家说：你们不知道这些事是什么意思吗？你要告诉他们说，巴比伦王曾到耶路撒冷，将其中的君王和首领带到巴比伦自己那里去。",
     Eng:"\"Say to this rebellious house, 'Do you not know what these things mean?' Say to them: 'The king of Babylon went to Jerusalem and carried off her king and her nobles, bringing them back with him to Babylon.",
     Ind:"\"Katakanlah kepada kaum pemberontak: Tidakkah kamu mengetahui apa artinya ini? Katakan: Lihat, raja Babel datang ke Yerusalem dan ia mengambil rajanya dan pemuka-pemukanya dan membawa mereka ke Babel baginya."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Aku akan memasang jaring-Ku untuk menangkap dia dan di dalam perangkap-Ku ia akan terjebak; Aku akan membawa dia ke Babel dan di sana Aku akan berperkara dengan dia, karena ia berobah setia terhadap Aku."
   },
   {Bible:"Ezekiel", Chapter:17, Verse:21, Page:1,
-    Kor:"그의 모든 군대 가운데서 a도망한 사람들은 모두 칼에 쓰러질 것이며, 살아 남은 사람들은 모두 사방으로 흩어질 것이다. 그 때에야 비로소 너희는, 이렇게 말한 것이 나 주인 줄 알게 될 것이다.\"(a 또는 '정예병들')",
+    Kor:"그의 모든 군대 가운데서 도망한 사람들은 모두 칼에 쓰러질 것이며, 살아 남은 사람들은 모두 사방으로 흩어질 것이다. 그 때에야 비로소 너희는, 이렇게 말한 것이 나 주인 줄 알게 될 것이다.\"",
     Chn:"他的一切军队，凡逃跑的，都必倒在刀下；所剩下的，也必分散四方。你们就知道说这话的是我—耶和华。」",
     Eng:"All his fleeing troops will fall by the sword, and the survivors will be scattered to the winds. Then you will know that I the LORD have spoken.",
     Ind:"Dan semua tentara pilihannya akan tewas dimakan pedang dan yang terluput akan dihamburkan ke semua mata angin. Dan kamu akan mengetahui bahwa Akulah TUHAN, yang mengatakannya."
   },
   {Bible:"Ezekiel", Chapter:17, Verse:22, Page:1,
-    Kor:"<희망의 약속> \"주 하나님이 말한다. 내가 백향목 끝에 돋은 가지를 꺾어다가 심겠다. 내가 그 나무의 맨 꼭대기에 돋은 어린 가지들 가운데서 연한 가지를 하나 꺾어다가, 내가 직접 높이 우뚝 솟은 산 위에 심겠다.",
+    Kor:"\"주 하나님이 말한다. 내가 백향목 끝에 돋은 가지를 꺾어다가 심겠다. 내가 그 나무의 맨 꼭대기에 돋은 어린 가지들 가운데서 연한 가지를 하나 꺾어다가, 내가 직접 높이 우뚝 솟은 산 위에 심겠다.",
     Chn:"主耶和华如此说：「我要将香柏树梢拧去栽上，就是从尽尖的嫩枝中折一嫩枝，栽于极高的山上；",
     Eng:"\"'This is what the Sovereign LORD says: I myself will take a shoot from the very top of a cedar and plant it; I will break off a tender sprig from its topmost shoots and plant it on a high and lofty mountain.",
     Ind:"Beginilah firman Tuhan ALLAH: Aku sendiri akan mengambil sebuah carang dari puncak pohon aras yang tinggi dan menanamnya; Aku mematahkannya dari pucuk yang paling ujung dan yang masih muda dan Aku sendiri akan menanamnya di atas sebuah gunung yang menjulang tinggi ke atas;"

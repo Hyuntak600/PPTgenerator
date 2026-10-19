@@ -3,13 +3,13 @@
 BibleDB.ref("Esther",5,14);
 BibleDB.add([
   {Bible:"Esther", Chapter:5, Verse:1, Page:1,
-    Kor:"<에스더가 왕과 하만을 잔치에 초대하다> 금식한 지 사흘째 되는 날에, 에스더는 왕후의 예복을 입고, 대궐 안뜰로 들어가서, 대궐을 마주 보고 섰다. 그 때에 왕은 어전 안의 왕좌에서 문 쪽을 바라보고 앉아 있었다.",
+    Kor:"금식한 지 사흘째 되는 날에, 에스더는 왕후의 예복을 입고, 대궐 안뜰로 들어가서, 대궐을 마주 보고 섰다. 그 때에, 왕은 어전 안의 왕좌에서 문 쪽을 바라보고 앉아 있었다.",
     Chn:"第三日，以斯帖穿上朝服，进王宫的内院，对殿站立。王在殿里坐在宝座上，对着殿门。",
     Eng:"On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king's hall. The king was sitting on his royal throne in the hall, facing the entrance.",
     Ind:"Pada hari yang ketiga Ester mengenakan pakaian ratu, lalu berdirilah ia di pelataran dalam istana raja, tepat di depan istana raja. Raja bersemayam di atas takhta kerajaan di dalam istana, berhadapan dengan pintu istana itu."
   },
   {Bible:"Esther", Chapter:5, Verse:2, Page:1,
-    Kor:"왕이, 에스더 왕후가 뜰에 서 있는 것을 사랑스러운 마음으로 바라보고, 쥐고 있던 금 규를 에스더에게 내밀자, 에스더가 가까이 다가가서, 그 규의 끝에 손을 대었다.",
+    Kor:"왕이, 에스더 왕후가 뜰에 서 있는 것을 사랑스러운 마음으로 바라보고, 쥐고 있던 금 홀을 에스더에게 내밀자, 에스더가 가까이 다가가서, 그 홀의 끝에 손을 대었다.",
     Chn:"王见王后以斯帖站在院内，就施恩于她，向她伸出手中的金杖；以斯帖便向前摸杖头。",
     Eng:"When he saw Queen Esther standing in the court, he was pleased with her and held out to her the gold scepter that was in his hand. So Esther approached and touched the tip of the scepter.",
     Ind:"Ketika raja melihat Ester, sang ratu, berdiri di pelataran, berkenanlah raja kepadanya, sehingga raja mengulurkan tongkat emas yang di tangannya ke arah Ester, lalu mendekatlah Ester dan menyentuh ujung tongkat itu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Jikalau hamba mendapat kasih raja, dan jikalau baik pada pemandangan raja mengabulkan permintaan serta memenuhi keinginan hamba, datang pulalah kiranya raja dengan Haman ke perjamuan yang akan hamba adakan bagi raja dan Haman; maka besok akan hamba lakukan yang dikehendaki raja.\""
   },
   {Bible:"Esther", Chapter:5, Verse:9, Page:1,
-    Kor:"<하만의 음모> ○그 날 하만은 마음이 흐뭇하여, 아주 즐거운 기분으로 대궐을 나섰다. 대궐 문을 지나는데, 거기에서 문을 지키고 있는 모르드개는 일어나지도 않고, 인사도 하지 않았다. 그것을 보고서, 하만은 그만 화가 잔뜩 치밀어 올랐지만,",
+    Kor:"○그 날, 하만은 마음이 흐뭇하여, 아주 즐거운 기분으로 대궐을 나섰다. 대궐 문을 지나는데, 거기에서 문을 지키고 있는 모르드개는 일어나지도 않고, 인사도 하지 않았다. 그것을 보고서, 하만은 그만 화가 잔뜩 치밀어 올랐지만,",
     Chn:"那日哈曼心中快乐，欢欢喜喜地出来；但见末底改在朝门不站起来，连身也不动，就满心恼怒末底改。",
     Eng:"Haman went out that day happy and in high spirits. But when he saw Mordecai at the king's gate and observed that he neither rose nor showed fear in his presence, he was filled with rage against Mordecai.",
     Ind:"Pada hari itu keluarlah Haman dengan hati riang dan gembira; tetapi ketika Haman melihat Mordekhai ada di pintu gerbang istana raja, tidak bangkit dan tidak bergerak menghormati dia, maka sangat panaslah hati Haman kepada Mordekhai."

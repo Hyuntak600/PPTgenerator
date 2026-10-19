@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",45,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:45, Verse:1, Page:1,
-    Kor:"<주님께서 고레스를 세우시다> \"나 주가 기름 부어 세운 고레스에게 말한다. 내가 너의 오른손을 굳게 잡아, 열방을 네 앞에 굴복시키고, 왕들의 허리띠를 풀어 놓겠다. 네가 가는 곳마다 한 번 열린 성문은 닫히지 않게 하겠다. 고레스는 들어라!",
+    Kor:"주께서, 기름 부어 세우신 이에게 말씀하신다. \"고레스에게 말한다. 내가 그의 오른손을 굳게 잡아, 열방을 그 앞에 굴복시키고, 왕들의 허리띠를 풀어 놓겠다. 그가 가는 곳마다 한 번 열린 성문은 닫히지 못하게 하겠다. 고레스는 들어라.",
     Chn:"我—耶和华所膏的塞鲁士； 我搀扶他的右手， 使列国降伏在他面前。 我也要放松列王的腰带， 使城门在他面前敞开， 不得关闭。 我对他如此说：",
     Eng:"\"This is what the LORD says to his anointed, to Cyrus, whose right hand I take hold of to subdue nations before him and to strip kings of their armor, to open doors before him so that gates will not be shut:",
     Ind:"Beginilah firman TUHAN: \"Inilah firman-Ku kepada orang yang Kuurapi, kepada Koresh yang tangan kanannya Kupegang supaya Aku menundukkan bangsa-bangsa di depannya dan melucuti raja-raja, supaya Aku membuka pintu-pintu di depannya dan supaya pintu-pintu gerbang tidak tinggal tertutup:"
   },
   {Bible:"Isaiah", Chapter:45, Verse:2, Page:1,
-    Kor:"내가 너보다 앞서 가서 a산들을 평지로 만들고, 놋쇠 성문을 부수며, 쇠빗장을 부러뜨리겠다. (a 사해 사본과 칠십인역을 따름. 마소라 본문에는 그 뜻이 불확실함)",
+    Kor:"내가 너보다 앞서 가서 산들을 평지로 만들고, 놋쇠 성문을 부수며, 쇠빗장을 부러뜨리겠다.",
     Chn:"我必在你前面行， 修平崎岖之地。 我必打破铜门， 砍断铁闩。",
     Eng:"I will go before you and will level the mountains; I will break down gates of bronze and cut through bars of iron.",
     Ind:"Aku sendiri hendak berjalan di depanmu dan hendak meratakan gunung-gunung, hendak memecahkan pintu-pintu tembaga dan hendak mematahkan palang-palang besi."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Akulah TUHAN dan tidak ada yang lain; kecuali Aku tidak ada Allah. Aku telah mempersenjatai engkau, sekalipun engkau tidak mengenal Aku,"
   },
   {Bible:"Isaiah", Chapter:45, Verse:6, Page:1,
-    Kor:"그렇게 해서, 해가 뜨는 곳에서나, 해가 지는 곳에서나, 나 밖에 다른 신이 없음을 사람들이 알게 하겠다. 나는 주다. 나 밖에는 다른 이가 없다.",
+    Kor:"그렇게 해서, 사람들이, 해가 뜨는 곳에서나, 해가 지는 곳에서나, 나 밖에 다른 신이 없음을 알게 하겠다. 나는 주다. 나 밖에는 다른 이가 없다.",
     Chn:"从日出之地到日落之处 使人都知道除了我以外，没有别神。 我是耶和华； 在我以外并没有别神。",
     Eng:"so that from the rising of the sun to the place of its setting men may know there is none besides me. I am the LORD, and there is no other.",
     Ind:"supaya orang tahu dari terbitnya matahari sampai terbenamnya, bahwa tidak ada yang lain di luar Aku. Akulah TUHAN dan tidak ada yang lain,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Hai langit, teteskanlah keadilan dari atas, dan baiklah awan-awan mencurahkannya! Baiklah bumi membukakan diri dan bertunaskan keselamatan, dan baiklah ditumbuhkannya keadilan! Akulah TUHAN yang menciptakan semuanya ini.\""
   },
   {Bible:"Isaiah", Chapter:45, Verse:9, Page:1,
-    Kor:"<창조의 주, 역사의 주> 질그릇 가운데서도 작은 한 조각에 지나지 않으면서, 자기를 지은 이와 다투는 자에게는 화가 닥칠 것이다. 진흙이 토기장이에게 '너는 도대체 무엇을 만들고 있는 거냐?' 하고 말할 수 있겠으며, 네가 만든 것이 너에게 '그에게는 손이 있으나마나다!' 하고 말할 수 있겠느냐?",
+    Kor:"질그릇 가운데서도 작은 한 조각에 지나지 않으면서, 자기를 지은 이와 다투는 자에게는 화가 닥칠 것이다. 진흙이 토기장이에게 '너는 도대체 무엇을 만들고 있는 거냐?' 하고 말할 수 있겠으며, 네가 만든 것이 너에게 '그에게는 손이 있으나마나다!' 하고 말할 수 있겠느냐?",
     Chn:"祸哉，那与造他的主争论的！ 他不过是地上瓦片中的一块瓦片。 泥土岂可对抟弄他的说：你做什么呢？ 所做的物岂可说：你没有手呢？",
     Eng:"\"Woe to him who quarrels with his Maker, to him who is but a potsherd among the potsherds on the ground. Does tha clay say to the potter, 'What are you making?' Does your work say, 'He has no hands'?",
     Ind:"Celakalah orang yang berbantah dengan Pembentuknya; dia tidak lain dari beling periuk saja! Adakah tanah liat berkata kepada pembentuknya: \"Apakah yang kaubuat?\" atau yang telah dibuatnya: \"Engkau tidak punya tangan!\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Celakalah orang yang berkata kepada ayahnya: \"Apakah yang kauperanakkan?\" dan kepada ibunya: \"Apakah yang kaulahirkan?\""
   },
   {Bible:"Isaiah", Chapter:45, Verse:11, Page:1,
-    Kor:"이스라엘의 거룩하신 하나님 곧 이스라엘을 지으신 주님께서 말씀하신다. \"내가 낳은 자녀를 두고, 너희가 나에게 감히 물으려느냐? 내가 한 일을 너희가 나에게 감히 명령하려느냐?",
+    Kor:"이스라엘의 거룩하신 하나님, 곧 이스라엘을 지으신 주께서 말씀하신다. \"내가 낳은 자녀를 두고, 너희가 나에게 감히 물으려느냐? 내가 한 일을 너희가 나에게 감히 명령하려느냐?",
     Chn:"耶和华—以色列的圣者， 就是造就以色列的如此说： 将来的事，你们可以问我； 至于我的众子，并我手的工作， 你们可以求我命定。",
     Eng:"\"This is what the LORD says--the Holy One of Israel, and its Maker: Concerning things to come, do you question me about my children, or give me orders about the work of my hands?",
     Ind:"Beginilah firman TUHAN, Yang Mahakudus, Allah dan Pembentuk Israel: \"Kamukah yang mengajukan pertanyaan kepada-Ku mengenai anak-anak-Ku, atau memberi perintah kepada-Ku mengenai yang dibuat tangan-Ku?"
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Akulah yang menjadikan bumi dan yang menciptakan manusia di atasnya; tangan-Kulah yang membentangkan langit, dan Akulah yang memberi perintah kepada seluruh tentaranya."
   },
   {Bible:"Isaiah", Chapter:45, Verse:13, Page:1,
-    Kor:"바로 내가 b그를 의의 도구로 일으켰으니, 그의 모든 길을 평탄하게 하겠다. 그가 나의 도성을 재건하고, 포로된 나의 백성을 대가도 없이, 보상도 받지 않고, 놓아 줄 것이다.\" 만군의 주님이 하신 말씀이다. (b 고레스를)",
+    Kor:"바로 내가 그를 의의 도구로 일으켰으니, 그의 모든 길을 평탄하게 하겠다. 그가 나의 도성을 재건하고, 포로된 나의 백성을 대가도 없이, 보상도 받지 않고, 놓아 줄 것이다.\" 만군의 주의 말씀이다.",
     Chn:"我凭公义兴起塞鲁士， 又要修直他一切道路。 他必建造我的城， 释放我被掳的民； 不是为工价，也不是为赏赐。 这是万军之耶和华说的。",
     Eng:"I will raise up Cyrus in my righteousness: I will make all his ways straight. He will rebuild my city and set my exiles free, but not for a price or reward, says the LORD Almighty.\"",
     Ind:"Akulah yang menggerakkan Koresh untuk maksud penyelamatan, dan Aku akan meratakan segala jalannya; dialah yang akan membangun kota-Ku dan yang akan melepaskan orang-orang-Ku yang ada dalam pembuangan, tanpa bayaran dan tanpa suap,\" firman TUHAN semesta alam."
   },
   {Bible:"Isaiah", Chapter:45, Verse:14, Page:1,
-    Kor:"주님께서 말씀하신다. \"이집트가 수고하여 얻은 재물과 에티오피아가 장사하여 얻은 이익이 너에게로 넘어오고, 키 큰 스바 사람들이 너에게로 건너와서 네 밑으로 들어와  너를 따를 것이며, 사슬에 매여 와서  네 앞에 엎드리고, 너에게 기도하는 것처럼 이르기를 '과연 하나님께서 당신과 함께 계십니다. 그 밖에 다른 이가 없습니다. 다른 신은 없습니다' 할 23 45:것이다.\"",
+    Kor:"주께서 말씀하신다. \"이집트가 수고하여 얻은 재물과 에티오피아가 장사하여 얻은 이익이 너에게로 넘어오고, 키 큰 스바 사람들이 너에게로 건너와서 네 밑으로 들어와 너를 따를 것이며, 사슬에 매여 와서 네 앞에 엎드리고, 너에게 기도하는 것처럼 이르기를 '과연 하나님께서 당신과 함께 계십니다. 그 밖에 다른 이가 없습니다. 다른 신은 없습니다' 할 것이다.\"",
     Chn:"耶和华如此说： 埃及劳碌得来的和古实的货物必归你； 身量高大的西巴人必投降你，也要属你。 他们必带着锁链过来随从你， 又向你下拜，祈求你说： 　神真在你们中间，此外再没有别神； 再没有别的　神。",
     Eng:"This is what the LORD says: \"The products of Egypt and the merchandise of Cush, and those tall Sabeans--they will come over to you and will be yours; they will trudge behind you, coming over to you in chains. They will bow down before you and plead with you, saying, 'Surely God is with you, and there is no other; there is no other god.'\"",
     Ind:"Beginilah firman TUHAN: \"Hasil tanah dari Mesir dan segala laba dari Etiopia dan orang-orang Syeba, orang-orang yang tinggi perawakannya, akan pindah kepadamu dan menjadi kepunyaanmu, mereka akan berjalan di belakangmu dengan dirantai; mereka akan sujud kepadamu dan akan membujuk engkau, katanya: Hanya di tengah-tengahmu ada Allah, dan tidak ada yang lain; di samping Dia tidak ada Allah!"
   },
   {Bible:"Isaiah", Chapter:45, Verse:15, Page:1,
-    Kor:"구원자이신 이스라엘의 하나님, 진실로 주님께서는 자신을 숨기시는 하나님이십니다.",
+    Kor:"구세주, 이스라엘의 하나님, 진실로 주께서는 자신을 숨기시는 하나님이십니다.",
     Chn:"救主—以色列的　神啊， 你实在是自隐的　神。",
     Eng:"Truly you are a God who hides himself, O God and Savior of Israel.",
     Ind:"Sungguh, Engkau Allah yang menyembunyikan diri, Allah Israel, Juruselamat."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Tidak pernah Aku berkata dengan sembunyi atau di tempat bumi yang gelap. Tidak pernah Aku menyuruh keturunan Yakub untuk mencari Aku dengan sia-sia! Aku, TUHAN, selalu berkata benar, selalu memberitakan apa yang lurus.\""
   },
   {Bible:"Isaiah", Chapter:45, Verse:20, Page:1,
-    Kor:"<세상의 주님과 바빌론의 우상> 이방 나라에서 살아 남은 자들아, 모여 오너라. 다 함께 가까이 오너라. \"나무 우상을 들고 다니는 자들과, 구원하지도 못하는 신에게 기도하는 자들은, 무지한 자들이다.",
+    Kor:"이방 나라에서 살아 남은 자들아, 모여 오너라. 다 함께 가까이 오너라. \"나무 우상을 들고 다니는 자들과, 구원하지도 못하는 신에게 기도하는 자들은, 무지한 자들이다.",
     Chn:"你们从列国逃脱的人， 要一同聚集前来。 那些抬着雕刻木偶、 祷告不能救人之神的， 毫无知识。",
     Eng:"\"Gather together and come; assemble, you fugitives from the nations. Ignorant are those who carry about idols of wood, who pray to gods that cannot save.",
     Ind:"\"Berhimpunlah dan datanglah, tampillah bersama-sama, hai kamu sekalian yang terluput di antara bangsa-bangsa! Tiada berpengetahuan orang-orang yang mengarak patung dari kayu dan yang berdoa kepada allah yang tidak dapat menyelamatkan."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Demi Aku sendiri Aku telah bersumpah, dari mulut-Ku telah keluar kebenaran, suatu firman yang tidak dapat ditarik kembali: dan semua orang akan bertekuk lutut di hadapan-Ku, dan akan bersumpah setia dalam segala bahasa,"
   },
   {Bible:"Isaiah", Chapter:45, Verse:24, Page:1,
-    Kor:"'참으로 주님께만 공의와 능력이 있다'고 사람들이 나에게 고백할 것이다. 사람들이 그에게 올 것이나, 그에게 대항하던 자들은 모두 부끄러움을 당할 것이다.",
+    Kor:"'참으로 주께만 공의와 능력이 있다'고 사람들이 나에게 고백할 것이다. 사람들이 그에게 올 것이나, 그에게 대항하던 자들은 모두 부끄러움을 당할 것이다.",
     Chn:"人论我说， 公义、能力，惟独在乎耶和华； 人都必归向他。 凡向他发怒的必至蒙羞。",
     Eng:"They will say of me, 'In the LORD alone are righteousness and strength.'\" All who have raged against him will come to him and be put to shame.",
     Ind:"sambil berkata: Keadilan dan kekuatan hanya ada di dalam TUHAN. Semua orang yang telah bangkit amarahnya terhadap Dia akan datang kepada-Nya dan mendapat malu,"

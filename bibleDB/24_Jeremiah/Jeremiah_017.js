@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",17,27);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:17, Verse:1, Page:1,
-    Kor:"<유다의 죄와 벌> \"유다의 죄는 그들의 마음 판에 철필로 기록되어 있고, 금강석 촉으로 새겨져 있다. 그들의 제단 뿔 위에도 그 죄가 새겨져 있다.",
+    Kor:"\"유다의 죄는 그들의 마음 판에 철필로 기록되어 있고, 금강석 촉으로 새겨져 있다. 그들의 제단 뿔 위에도 그 죄가 새겨져 있다.",
     Chn:"犹大的罪是用铁笔、用金钢钻记录的，铭刻在他们的心版上和坛角上。",
     Eng:"\"Judah's sin is engraved with an iron tool, inscribed with a flint point, on the tablets of their hearts and on the horns of their altars.",
     Ind:"\"Dosa Yehuda telah tertulis dengan pena besi, yang matanya dari intan, terukir pada loh hati mereka dan pada tanduk-tanduk mezbah mereka"
   },
   {Bible:"Jeremiah", Chapter:17, Verse:2, Page:1,
-    Kor:"자손은 그 기록을 보고서, 조상이 지은 죄를 기억할 것이다. 온갖 푸른 나무 곁에, 높은 언덕에, 들판에 있는 여러 산에, 그들의 조상이 쌓은 제단과 만들어 세운 a아세라 목상들을 기억할 것이다. 네가 나라 구석구석에서 지은 죄의 값으로, 내가 네 모든 재산과 보물을 약탈품으로 원수에게 넘겨 주겠다. (a 아세라 여신의 상징 3절이 포함되었음)",
+    Kor:"자손은 그 기록을 보고서, 조상이 지은 죄를 기억할 것이다. 온갖 푸른 나무 곁에, 높은 언덕에, 들판에 있는 여러 산에, 그들의 조상이 쌓은 제단과 만들어 세운 아세라 목상들을 기억할 것이다. 네가 나라 구석구석에서 지은 죄의 값으로, 내가 네 모든 재산과 보물을 약탈품으로 원수에게 넘겨 주겠다.",
     Chn:"他们的儿女记念他们高冈上、青翠树旁的坛和木偶。",
     Eng:"Even their children remember their altars and Asherah poles beside the spreading trees and on the high hills.",
     Ind:"sebagai peringatan terhadap mereka! --Mezbah-mezbah mereka dan tiang-tiang berhala mereka memang ada di samping pohon yang rimbun di atas bukit yang tinggi,"
   },
   {Bible:"Jeremiah", Chapter:17, Verse:3, Page:1,
-    Kor:"자손은 그 기록을 보고서, 조상이 지은 죄를 기억할 것이다. 온갖 푸른 나무 곁에, 높은 언덕에, 들판에 있는 여러 산에, 그들의 조상이 쌓은 제단과 만들어 세운 a아세라 목상들을 기억할 것이다. 네가 나라 구석구석에서 지은 죄의 값으로, 내가 네 모든 재산과 보물을 약탈품으로 원수에게 넘겨 주겠다. (a 아세라 여신의 상징 2절에 포함되었음)",
+    Kor:"(2절에 포함되어 있음)",
     Chn:"我田野的山哪，我必因你在四境之内所犯的罪，把你的货物、财宝，并邱坛当掠物交给仇敌；",
     Eng:"My mountain in the land and your wealth and all your treasures I will give away as plunder, together with your high places, because of sin throughout your country.",
     Ind:"yakni pegunungan di padang. --Harta kekayaanmu dan segala barang perbendaharaanmu akan Kuberikan dirampas sebagai ganjaran atas dosamu di segenap daerahmu."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Engkau terpaksa lepas tangan dari milik pusakamu yang telah Kuberikan kepadamu, dan Aku akan membuat engkau menjadi budak musuhmu di negeri yang tidak kaukenal, sebab dalam murka-Ku api telah mencetus yang akan menyala untuk selama-lamanya.\""
   },
   {Bible:"Jeremiah", Chapter:17, Verse:5, Page:1,
-    Kor:"<주님을 의지하라> \"나 주가 말한다. 나 주에게서 마음을 멀리하고, 오히려 사람을 의지하며, 사람이 힘이 되어 주려니 하고 믿는 자는, 저주를 받을 것이다.",
+    Kor:"\"나 주가 이렇게 말한다. 나 주에게서 마음을 멀리하고, 오히려 사람을 의지하며, 사람이 힘이 되어 주려니 하고 믿는 자는, 저주를 받을 것이다.",
     Chn:"耶和华如此说： 倚靠人血肉的膀臂， 心中离弃耶和华的， 那人有祸了！",
     Eng:"This is what the LORD says: \"Cursed is the one who trusts in man, who depends on flesh for his strength and whose heart turns away from the LORD.",
     Ind:"Beginilah firman TUHAN: \"Terkutuklah orang yang mengandalkan manusia, yang mengandalkan kekuatannya sendiri, dan yang hatinya menjauh dari pada TUHAN!"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Ia akan seperti semak bulus di padang belantara, ia tidak akan mengalami datangnya keadaan baik; ia akan tinggal di tanah angus di padang gurun, di negeri padang asin yang tidak berpenduduk."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:7, Page:1,
-    Kor:"그러나 주님을 믿고 의지하는 사람은 복을 받을 것이다.",
+    Kor:"그러나 주를 믿고 의지하는 사람은 복을 받을 것이다.",
     Chn:"倚靠耶和华、以耶和华为可靠的， 那人有福了！",
     Eng:"\"But blessed is the man who trusts in the LORD, whose confidence is in him.",
     Ind:"Diberkatilah orang yang mengandalkan TUHAN, yang menaruh harapannya pada TUHAN!"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Ia akan seperti pohon yang ditanam di tepi air, yang merambatkan akar-akarnya ke tepi batang air, dan yang tidak mengalami datangnya panas terik, yang daunnya tetap hijau, yang tidak kuatir dalam tahun kering, dan yang tidak berhenti menghasilkan buah."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:9, Page:1,
-    Kor:"\"만물보다 더 거짓되고 아주 썩은 것은 사람의 마음이니, 누가 그 속을 알 수 있습니까?\"",
+    Kor:"만물보다 더 거짓되고 아주 썩은 것은 사람의 마음이니, 누가 그 속을 알 수 있습니까?",
     Chn:"人心比万物都诡诈， 坏到极处， 谁能识透呢？",
     Eng:"The heart is deceitful above all things and beyond cure. Who can understand it?",
     Ind:"Betapa liciknya hati, lebih licik dari pada segala sesuatu, hatinya sudah membatu: siapakah yang dapat mengetahuinya?"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Seperti ayam hutan yang mengerami yang tidak ditelurkannya, demikianlah orang yang menggaruk kekayaan secara tidak halal, pada pertengahan usianya ia akan kehilangan semuanya, dan pada kesudahan usianya ia terkenal sebagai seorang bebal."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:12, Page:1,
-    Kor:"<예레미야의 기도> 우리의 성전은 영광스러운 보좌와 같다. 처음부터 높은 산 위에 자리를 잡았다.",
+    Kor:"우리의 성전은 영광스러운 보좌와 같다. 처음부터 높은 산 위에 자리를 잡았다.",
     Chn:"我们的圣所是荣耀的宝座， 从太初安置在高处。",
     Eng:"A glorious throne, exalted from the beginning, is the place of our sanctuary.",
     Ind:"Takhta kemuliaan, luhur dari sejak semula, tempat bait kudus kita!"
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Sembuhkanlah aku, ya TUHAN, maka aku akan sembuh; selamatkanlah aku, maka aku akan selamat, sebab Engkaulah kepujianku!"
   },
   {Bible:"Jeremiah", Chapter:17, Verse:15, Page:1,
-    Kor:"백성이 저에게 빈정거리는 말을 들어 보십시오. \"주님께서는 말씀으로만 위협하시지, 별 것도 아니지 않으냐! 어디 위협한 대로 되게 해보시지!\" 합니다.",
+    Kor:"백성이 저에게 빈정거리는 말을 들어 보십시오. \"주께서는 말씀으로만 위협하시지, 별 것도 아니지 않으냐! 어디 위협한 대로 되게 해보시지!\" 합니다.",
     Chn:"他们对我说：耶和华的话在哪里呢？ 叫这话应验吧！",
     Eng:"They keep saying to me, \"Where is the word of the LORD? Let it now be fulfilled!\"",
     Ind:"Sesungguhnya, mereka berkata kepadaku: \"Di manakah firman TUHAN itu? Biarlah ia sampai!\""
   },
   {Bible:"Jeremiah", Chapter:17, Verse:16, Page:1,
-    Kor:"그러나 저는 목자가 되지 않으려고 도망을 가거나, 주님 섬기기를 피하려고 하지도 않았습니다. 재앙의 날을 오게 해달라고 간구하지도 않았습니다. 주님께서 보시는 앞에서 제가 아뢰었으므로, 주님께서는 제가 무엇을 아뢰었는지를 알고 계십니다.",
+    Kor:"그러나 저는 목자가 되지 않으려고 도망을 가거나, 주님 섬기기를 피하려고 하지도 않았습니다. 재앙의 날을 오게 해달라고 간구하지도 않았습니다. 주께서 보시는 앞에서 제가 아뢰었으므로, 주께서는 제가 무엇을 아뢰었는지를 알고 계십니다.",
     Chn:"至于我，那跟从你作牧人的职分， 我并没有急忙离弃， 也没有想那灾殃的日子； 这是你知道的。 我口中所出的言语都在你面前。",
     Eng:"I have not run away from being your shepherd; you know I have not desired the day of despair. What passes my lips is open before you.",
     Ind:"Namun tidak pernah aku mendesak kepada-Mu untuk mendatangkan malapetaka, aku tidak mengingini hari bencana! Engkaulah yang mengetahui apa yang keluar dari bibirku, semuanya terpampang di hadapan mata-Mu."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:17, Page:1,
-    Kor:"저를 무섭게 하지 마십시오. 주님은 재앙의 날에 저의 피난처이십니다.",
+    Kor:"저를 무섭게 하지 마십시오. 주님은 재앙의 날에 나의 피난처이십니다.",
     Chn:"不要使我因你惊恐； 当灾祸的日子，你是我的避难所。",
     Eng:"Do not be a terror to me; you are my refuge in the day of disaster.",
     Ind:"Janganlah Engkau menjadi kedahsyatan bagiku, Engkaulah perlindunganku pada hari malapetaka."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Biarlah orang-orang yang mengejar aku menjadi malu, tetapi janganlah aku ini menjadi malu; biarlah mereka terkejut, tetapi janganlah aku ini terkejut! Buatlah hari malapetaka menimpa mereka, dan hancurkanlah mereka dengan kehancuran berganda."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:19, Page:1,
-    Kor:"<안식일을 거룩하게 지켜라> ○주님께서 나에게 이렇게 말씀하셨다. \"너는 가서, 유다의 왕들이 출입하는 '백성의 문'과 예루살렘의 모든 성문에 서서,",
+    Kor:"○주께서 나에게 이렇게 말씀하셨다. \"너는 가서, 유다의 왕들이 출입하는 '백성의 문'과 예루살렘의 모든 성문에 서서,",
     Chn:"耶和华对我如此说：「你去站在平民的门口，就是犹大君王出入的门，又站在耶路撒冷的各门口，",
     Eng:"This is what the LORD said to me: \"Go and stand at the gate of the people, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem.",
     Ind:"Beginilah firman TUHAN kepadaku: \"Pergilah engkau dan berdirilah di pintu gerbang Anak Rakyat, yang dilalui keluar masuk oleh raja-raja Yehuda, dan di segala pintu gerbang Yerusalem;"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"katakanlah kepada mereka: Dengarlah firman TUHAN, hai raja-raja Yehuda, hai segenap Yehuda dan segenap penduduk Yerusalem yang masuk melalui pintu-pintu gerbang ini!"
   },
   {Bible:"Jeremiah", Chapter:17, Verse:21, Page:1,
-    Kor:"○나 주가 말한다. 너희가 생명을 잃지 않으려거든, 안식일에는 어떠한 짐도 옮기지 말고, 짐을 가지고 예루살렘의 성문 안으로 들어오지도 말아라.",
+    Kor:"나 주가 말한다. 너희가 생명을 잃지 않으려거든, 안식일에는 어떠한 짐도 옮기지 말고, 짐을 가지고 예루살렘의 성문 안으로 들어오지도 말아라.",
     Chn:"耶和华如此说：你们要谨慎，不要在安息日担什么担子进入耶路撒冷的各门；",
     Eng:"This is what the LORD says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.",
     Ind:"Beginilah firman TUHAN: Berawas-awaslah demi nyawamu! Janganlah mengangkut barang-barang pada hari Sabat dan membawanya melalui pintu-pintu gerbang Yerusalem!"
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"maka melalui pintu-pintu gerbang kota ini akan berarak masuk raja-raja dan pemuka-pemuka, yang akan duduk di atas takhta Daud, dengan mengendarai kereta dan kuda: mereka dan pemuka-pemuka mereka, orang-orang Yehuda dan penduduk Yerusalem. Dan kota ini akan didiami orang untuk selama-lamanya."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:26, Page:1,
-    Kor:"유다의 성읍들과 예루살렘 주변과 베냐민 땅과 b평원지대와 산간지역과 남방에서부터 사람들이 번제물과 희생제물과 곡식제물과 유향을 가지고 와서, 주의 성전에서 감사의 제물로 바칠 것이다.(b 히, '스펠라')",
+    Kor:"유다의 성읍들과 예루살렘 주변과 베냐민 땅과 평원지대와 산간지역과 남방에서부터 사람들이 번제물과 희생제물과 곡식제물과 유향을 가지고 와서, 주의 성전에서 감사의 제물로 바칠 것이다.",
     Chn:"也必有人从犹大城邑和耶路撒冷四围的各处，从便雅悯地、高原、山地，并南地而来，都带燔祭、平安祭、素祭，和乳香，并感谢祭，到耶和华的殿去。",
     Eng:"People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings, incense and thank offerings to the house of the LORD.",
     Ind:"Orang akan datang dari kota-kota Yehuda dan dari tempat-tempat sekitar Yerusalem, dari tanah Benyamin dan dari Daerah Bukit, dari pegunungan dan dari tanah Negeb, dengan membawa korban bakaran, korban sembelihan, korban sajian dan kemenyan, membawa korban syukur ke dalam rumah TUHAN."
   },
   {Bible:"Jeremiah", Chapter:17, Verse:27, Page:1,
-    Kor:"○그러나 너희가 안식일을 거룩하게 지키라는 나의 말을 듣지 않고, 안식일에 짐을 옮기며, 예루살렘의 성문 안으로 짐을 가지고 들어오면, 내가 이 성문에 불을 질러, 예루살렘의 궁궐을 태워 버릴 것이다. 아무도 그 불을 끄지 못할 것이다.'\"",
+    Kor:"그러나 너희가 안식일을 거룩하게 지키라는 나의 말을 듣지 않고, 안식일에 짐을 옮기며, 예루살렘의 성문 안으로 짐을 가지고 들어오면, 내가 이 성문에 불을 질러, 예루살렘의 궁궐을 태워 버릴 것이다. 아무도 그 불을 끄지 못할 것이다.'\"",
     Chn:"你们若不听从我，不以安息日为圣日，仍在安息日担担子，进入耶路撒冷的各门，我必在各门中点火；这火也必烧毁耶路撒冷的宫殿，不能熄灭。」",
     Eng:"But if you do not obey me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.'\"",
     Ind:"Tetapi apabila kamu tidak mendengarkan perintah-Ku untuk menguduskan hari Sabat dan untuk tidak masuk mengangkut barang-barang melalui pintu-pintu gerbang Yerusalem pada hari Sabat, maka di pintu-pintu gerbangnya Aku akan menyalakan api, yang akan memakan habis puri-puri Yerusalem, dan yang tidak akan terpadamkan.\""

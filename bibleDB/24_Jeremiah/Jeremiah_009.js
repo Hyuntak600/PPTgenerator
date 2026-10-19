@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Sekiranya di padang gurun aku mempunyai tempat penginapan bagi orang-orang yang sedang dalam perjalanan, maka aku akan meninggalkan bangsaku dan menyingkir dari pada mereka! Sebab mereka sekalian adalah orang-orang berzinah, suatu kumpulan orang-orang yang tidak setia."
   },
   {Bible:"Jeremiah", Chapter:9, Verse:3, Page:1,
-    Kor:"<주님의 대답> \"내 백성이라는 것들은 활을 당기듯 혀를 놀려 거짓을 일삼는다. 진실은 없고, 그들의 폭력만이 이 땅에서 판을 친다. 참으로 그들은 악에 악을 더하려고 돌아다닐 뿐, 내가 그들의 하나님인 줄은 알지 못한다. 나 주의 말이다.\"",
+    Kor:"\"그들은 활을 당기듯, 혀를 놀려 거짓을 일삼는다. 진실은 없고, 그들만이 이 땅에서 판을 친다. 참으로 그들은 악에 악을 더하려고 돌아다닐 뿐, 내가 그들의 하나님인 줄은 알지 못한다. 나 주의 말이다.\"",
     Chn:"他们弯起舌头像弓一样， 为要说谎话。 他们在国中增长势力， 不是为行诚实， 乃是恶上加恶， 并不认识我。 这是耶和华说的。",
     Eng:"\"They make ready their tongue like a bow, to shoot lies; it is not by truth that they triumph in the land. They go from one sin to another; they do not acknowledge me,\" declares the LORD.",
     Ind:"Mereka melenturkan lidahnya seperti busur; dusta dan bukan kebenaran merajalela dalam negeri; sungguh, mereka melangkah dari kejahatan kepada kejahatan, tetapi TUHAN tidaklah mereka kenal."
@@ -57,37 +57,37 @@ BibleDB.add([
     Ind:"Masakan Aku tidak menghukum mereka karena semuanya ini?, demikianlah firman TUHAN. Masakan Aku tidak membalas dendam-Ku kepada bangsa yang seperti ini?"
   },
   {Bible:"Jeremiah", Chapter:9, Verse:10, Page:1,
-    Kor:"<예레미야가 백성 때문에 울다> 나는 산들을 보고 울며 탄식합니다. 광야의 초원을 바라보고, 슬픈 노래를 읊겠습니다. 그처럼 무성하던 곳들이 모두 황무지가 되었고, 지나다니는 사람이 하나도 없습니다. 가축 떼의 울음 소리도 들려 오지 않습니다. 공중의 새에서부터 들의 짐승에 이르기까지, 다 다른 곳으로 도망하여 사라졌습니다.",
+    Kor:"나는 산들을 보고 울며 탄식합니다. 광야의 초원을 바라보고, 슬픈 노래를 읊겠습니다. 그처럼 무성하던 곳들이 모두 황무지가 되었고, 지나다니는 사람이 하나도 없습니다. 가축 떼의 울음 소리도 들려 오지 않습니다. 공중의 새에서부터 들의 짐승에 이르기까지, 다 다른 곳으로 도망하여 사라졌습니다.",
     Chn:"我要为山岭哭泣悲哀， 为旷野的草场扬声哀号； 因为都已干焦，甚至无人经过。 人也听不见牲畜鸣叫， 空中的飞鸟和地上的野兽都已逃去。",
     Eng:"I will weep and wail for the mountains and take up a lament concerning the desert pastures. They are desolate and untraveled, and the lowing of cattle is not heard. The birds of the air have fled and the animals are gone.",
     Ind:"Menangis dan merintihlah karena gunung-gunung, dan merataplah karena padang rumput di gurun, sebab semuanya sudah tandus sampai tidak ada orang yang melintasinya, dan orang tidak mendengar lagi suara ternak; baik burung-burung di udara maupun binatang-binatang, semuanya telah lari dan sudah lenyap."
   },
   {Bible:"Jeremiah", Chapter:9, Verse:11, Page:1,
-    Kor:"\"내가 예루살렘을 돌무더기로 만들어서 여우들이 우글거리는 소굴이 되게 하고, 유다의 성읍들을 황무지로 바꾸어 놓아 아무도 살 수 없게 하겠다.\"",
+    Kor:"\"내가 예루살렘을 돌무더기로 만들어서 여우들이 우글거리는 소굴이 되게 하고, 유다의 성읍들을 황무지로 바꾸어 놓아 아무도 살 수 없도록 하겠다.\"",
     Chn:"我必使耶路撒冷变为乱堆，为野狗的住处， 也必使犹大的城邑变为荒场，无人居住。",
     Eng:"\"I will make Jerusalem a heap of ruins, a haunt of jackals; and I will lay waste the towns of Judah so no one can live there.\"",
     Ind:"Aku akan membuat Yerusalem menjadi timbunan puing, tempat persembunyian serigala-serigala; Aku akan membuat kota-kota Yehuda menjadi sunyi sepi, tidak berpenduduk lagi.\""
   },
   {Bible:"Jeremiah", Chapter:9, Verse:12, Page:1,
-    Kor:"<땅이 황폐한 까닭> 이 땅이 왜 망하였는지, 왜 사막처럼 황폐해졌는지, 왜 행인마저 끊어졌는지, 이것을 알아낼 만큼 지혜 있는 사람이 누구인가? 이 까닭을 말할 수 있도록, 주님의 입에서 직접 말씀을 받은 사람이 누구인가?",
+    Kor:"이 나라가 왜 망하였는지, 왜 사막처럼 황폐해졌는지, 왜 행인마저 끊어졌는지, 이것을 알아낼 만큼 지혜 있는 사람이 누구인가? 이 까닭을 말할 수 있도록, 주의 입에서 직접 말씀을 받은 사람이 누구인가?",
     Chn:"谁是智慧人，可以明白这事？耶和华的口向谁说过，使他可以传说？遍地为何灭亡，干焦好像旷野，甚至无人经过呢？",
     Eng:"What man is wise enough to understand this? Who has been instructed by the LORD and can explain it? Why has the land been ruined and laid waste like a desert that no one can cross?",
     Ind:"Siapakah orang yang begitu bijaksana, sehingga ia dapat mengerti hal ini, orang yang telah menerima firman dari mulut TUHAN, supaya ia dapat memberitahukannya? Apakah sebabnya negeri ini binasa, tandus seperti padang gurun sampai tidak ada orang yang melintasinya?"
   },
   {Bible:"Jeremiah", Chapter:9, Verse:13, Page:1,
-    Kor:"○주님께서 대답하셨다. \"나는 이 백성에게 나의 율법을 주면서 지키라고 하였다. 그러나 그들이 그것을 버리고, 나의 말을 순종하지 않고, 실천하지 않았다.",
+    Kor:"○주께서 대답하셨다. \"나는 이 백성에게 나의 율법을 주면서 지키라고 하였다. 그러나 그들이 그것을 버리고, 나의 말을 순종하지 않고, 실천하지 않았다.",
     Chn:"耶和华说：「因为这百姓离弃我在他们面前所设立的律法，没有遵行，也没有听从我的话；",
     Eng:"The LORD said, \"It is because they have forsaken my law, which I set before them; they have not obeyed me or followed my law.",
     Ind:"Berfirmanlah TUHAN: \"Oleh karena mereka meninggalkan Taurat-Ku yang telah Kuserahkan kepada mereka, dan oleh karena mereka tidak mendengarkan suara-Ku dan tidak mengikutinya,"
   },
   {Bible:"Jeremiah", Chapter:9, Verse:14, Page:1,
-    Kor:"그들은 오히려 자기들의 고집대로 살고, 조상이 섬기라고 가르쳐 준 바알 신들을 따라다녔다.",
+    Kor:"그들은 오히려 자기들의 고집대로 살고, 조상이 섬기라고 가르쳐 준 바알 신들을 따라다녔다.\"",
     Chn:"只随从自己顽梗的心行事，照他们列祖所教训的随从众巴力。」",
     Eng:"Instead, they have followed the stubbornness of their hearts; they have followed the Baals, as their fathers taught them.\"",
     Ind:"melainkan mengikuti kedegilan hatinya dan mengikuti para Baal seperti yang diajarkan kepada mereka oleh nenek moyang mereka."
   },
   {Bible:"Jeremiah", Chapter:9, Verse:15, Page:1,
-    Kor:"○그러므로 나 만군의 주 이스라엘의 하나님이 말한다. 내가 이 백성에게 쓴 쑥을 먹이며, 독을 탄 물을 마시게 하겠다.",
+    Kor:"○\"그러므로 나 만군의 주 이스라엘의 하나님이 말한다. 내가 이 백성에게 쓴 쑥을 먹이며, 독을 탄 물을 마시게 하겠다.",
     Chn:"所以万军之耶和华—以色列的　神如此说：「看哪，我必将茵 给这百姓吃，又将苦胆水给他们喝。",
     Eng:"Therefore, this is what the LORD Almighty, the God of Israel, says: \"See, I will make this people eat bitter food and drink poisoned water.",
     Ind:"Sebab itu beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, Aku akan memberi bangsa ini makan ipuh dan minum racun."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Aku akan menyerakkan mereka ke antara bangsa-bangsa yang tidak dikenal oleh mereka atau oleh nenek moyang mereka, dan Aku akan melepas pedang mengejar mereka sampai Aku membinasakan mereka.\""
   },
   {Bible:"Jeremiah", Chapter:9, Verse:17, Page:1,
-    Kor:"<곡하는 여인들> \"나 만군의 주가 말한다. 너희는 잘 생각하여 보고, 곡하는 여인들을 불러들이고, 장송곡을 부를 여인들을 데리고 오너라.\"",
+    Kor:"\"나 만군의 주가 말한다. 너희는 잘 생각하여 보고, 곡하는 여인들을 불러들이고, 장송곡을 부를 여인들을 데리고 오너라.\"",
     Chn:"万军之耶和华如此说： 你们应当思想， 将善唱哀歌的妇女召来， 又打发人召善哭的妇女来，",
     Eng:"This is what the LORD Almighty says: \"Consider now! Call for the wailing women to come; send for the most skillful of them.",
     Ind:"Perhatikanlah! Panggillah perempuan-perempuan peratap, supaya mereka datang, dan suruhlah orang kepada perempuan-perempuan yang bijaksana, supaya mereka datang!"
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Biarlah mereka bersegera dan meratap karena kita, supaya mata kita mencucurkan air mata, dan kelopak mata kita melelehkan air!"
   },
   {Bible:"Jeremiah", Chapter:9, Verse:19, Page:1,
-    Kor:"시온에서 통곡하는 소리가 들려 온다. '어쩌다가 우리가 이렇게 망하였으며, 이토록 수치를 당하게 되었는가? 적군이 우리의 거처를 모조리 부수었으니, 우리는 이제 우리의 땅을 떠나야만 한다.'",
+    Kor:"시온에서 통곡하는 소리가 들려 온다. '어쩌다가 우리가 이렇게 망하였으며, 이토록 수치를 당하게 되었는가? 적군이 우리의 거처를 모조리 부셨으니, 우리는 이제 우리의 땅을 떠나야만 한다.'",
     Chn:"因为听见哀声出于锡安，说： 我们怎样败落了！ 我们大大地惭愧！ 我们撇下地土； 人也拆毁了我们的房屋。",
     Eng:"The sound of wailing is heard from Zion: 'How ruined we are! How great is our shame! We must leave our land because our houses are in ruins.'\"",
     Ind:"Sebab terdengar ratapan dari Sion: Wahai binasalah kami! Kami sangat dipermalukan! Sebab kami harus meninggalkan negeri ini, karena rumah-rumah kediaman kami dirobohkan orang."
   },
   {Bible:"Jeremiah", Chapter:9, Verse:20, Page:1,
-    Kor:"\"여인들아, 너희는 주님의 말씀을 들어라. 너희는 귀를 기울여서, 그의 입에서 나오는 말씀을 받아들여라. 딸들에게 애도하는 법을 가르치고, 너희도 장송곡 부르는 법을 서로 익혀라.",
+    Kor:"여인들아, 너희는 주님의 말씀을 들어라. 너희는 귀를 기울여서, 그분의 입에서 나오는 말씀을 받아들여라. 딸들에게 애도하는 법을 가르치고, 너희도 장송곡 부르는 법을 서로 익혀라.",
     Chn:"妇女们哪，你们当听耶和华的话， 领受他口中的言语； 又当教导你们的儿女举哀， 各人教导邻舍唱哀歌。",
     Eng:"Now, O women, hear the word of the LORD; open your ears to the words of his mouth. Teach your daughters how to wail; teach one another a lament.",
     Ind:"Maka dengarlah firman TUHAN, hai perempuan-perempuan, biarlah telingamu menerima firman dari mulut-Nya; ajarkanlah ratapan kepada anak-anakmu perempuan, dan oleh setiap perempuan nyanyian ratapan kepada temannya:"
   },
   {Bible:"Jeremiah", Chapter:9, Verse:21, Page:1,
-    Kor:"죽음이 우리의 창문을 넘어서 들어왔고, 우리의 왕궁에까지 들어왔으며, 거리에서는 어린 아이들이 사정없이 죽어 가고, 장터에서는 젊은이들이 죽어 간다.\"",
+    Kor:"죽음이 우리의 창문을 넘어서 들어왔고, 우리의 왕궁에까지 들어왔으며, 거리에서는 어린 아이들이 사정없이 죽어 가고, 장터에서는 젊은이들이 죽어 간다.",
     Chn:"因为死亡上来， 进了我们的窗户， 入了我们的宫殿； 要从外边剪除孩童， 从街上剪除少年人。",
     Eng:"Death has climbed in through our windows and has entered our fortresses; it has cut off the children from the streets and the young men from the public squares.",
     Ind:"\"Maut telah menyusup ke jendela-jendela kita, masuk ke dalam istana-istana kita; ia melenyapkan kanak-kanak dari jalan, pemuda-pemuda dari lapangan;"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"mayat-mayat manusia berhantaran seperti pupuk di ladang, seperti berkas gandum di belakang orang-orang yang menuai tanpa ada yang mengumpulkan.\""
   },
   {Bible:"Jeremiah", Chapter:9, Verse:23, Page:1,
-    Kor:"<주님이 좋아하시는 것> \"나 주가 말한다. 지혜 있는 사람은 자기의 지혜를 자랑하지 말아라. 용사는 자기의 힘을 자랑하지 말아라. 부자는 자기의 재산을 자랑하지 말아라.",
+    Kor:"\"나 주가 이렇게 말한다. 지혜 있는 사람은 자기의 지혜를 자랑하지 말아라. 용사는 자기의 힘을 자랑하지 말아라. 부자는 자기의 재산을 자랑하지 말아라.",
     Chn:"耶和华如此说：「智慧人不要因他的智慧夸口，勇士不要因他的勇力夸口，财主不要因他的财物夸口。",
     Eng:"This is what the LORD says: \"Let not the wise man boast of his wisdom or the strong man boast of his strength or the rich man boast of his riches,",
     Ind:"Beginilah firman TUHAN: \"Janganlah orang bijaksana bermegah karena kebijaksanaannya, janganlah orang kuat bermegah karena kekuatannya, janganlah orang kaya bermegah karena kekayaannya,"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"tetapi siapa yang mau bermegah, baiklah bermegah karena yang berikut: bahwa ia memahami dan mengenal Aku, bahwa Akulah TUHAN yang menunjukkan kasih setia, keadilan dan kebenaran di bumi; sungguh, semuanya itu Kusukai, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:9, Verse:25, Page:1,
-    Kor:"○\"나 주의 말이다. 그 날이 이르면, a몸에만 할례를 받은 사람들에게, 내가 모두 벌을 내리겠다.(a 또는 '할례를 받은 자와 할례를 받지 못한 자에게')",
+    Kor:"○\"나 주의 말이다. 그 날이 이르면, 몸에만 할례를 받은 사람들에게, 내가 모두 벌을 내리겠다.",
     Chn:"耶和华说：「看哪，日子将到，我要刑罚一切受过割礼、心却未受割礼的，",
     Eng:"\"The days are coming,\" declares the LORD, \"when I will punish all who are circumcised only in the flesh--",
     Ind:"\"Lihat, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku menghukum orang-orang yang telah bersunat kulit khatannya:"

@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"\"Mengapa Yang Mahakuasa tidak mencadangkan masa penghukuman dan mereka yang mengenal Dia tidak melihat hari pengadilan-Nya?"
   },
   {Bible:"Job", Chapter:24, Verse:2, Page:1,
-    Kor:"경계선까지 옮기고 남의 가축을 빼앗아 제 우리에 집어 넣는 사람도 있고,",
+    Kor:"경계선까지 옮기고 남의 가축을 빼앗아 제 우리에 집어 넣는 사람도 있고",
     Chn:"有人挪移地界， 抢夺群畜而牧养。",
     Eng:"Men move boundary stones; they pasture flocks they have stolen.",
     Ind:"Ada orang yang menggeser batas tanah, yang merampas kawanan ternak, lalu menggembalakannya."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Keledai kepunyaan yatim piatu dilarikannya, dan lembu betina kepunyaan seorang janda diterimanya sebagai gadai,"
   },
   {Bible:"Job", Chapter:24, Verse:4, Page:1,
-    Kor:"가난한 사람들이 권리를 빼앗기는가 하면, 흙에 묻혀 사는 가련한 사람들이 학대를 견디다 못해 도망가서 숨기도 한다.",
+    Kor:"가난한 사람들이 권리를 빼앗기는가 하면, 흙에 묻혀사는 가련한 사람들이 학대를 견디다 못해 도망가서 숨기도 한다.",
     Chn:"他们使穷人离开正道； 世上的贫民尽都隐藏。",
     Eng:"They thrust the needy from the path and force all the poor of the land into hiding.",
     Ind:"orang miskin didorongnya dari jalan, orang sengsara di dalam negeri terpaksa bersembunyi semuanya."
   },
   {Bible:"Job", Chapter:24, Verse:5, Page:1,
-    Kor:"가난한 사람들은 들나귀처럼 메마른 곳으로 가서 일거리를 찾고 먹거리를 얻으려고 하지만, 어린 아이들에게 먹일 것을 찾을 곳은 빈 들뿐이다.",
+    Kor:"가난한 사람들은 들나귀처럼 메마른 곳으로 가서, 일거리를 찾고 먹을거리를 얻으려고 하지만, 어린 아이들에게 먹일 것을 찾을 곳은 빈 들뿐이다.",
     Chn:"这些贫穷人如同野驴出到旷野，殷勤寻找食物； 他们靠着野地给儿女糊口，",
     Eng:"Like wild donkeys in the desert, the poor go about their labor of foraging food; the wasteland provides food for their children.",
     Ind:"Sesungguhnya, seperti keledai liar di padang gurun mereka keluar untuk bekerja mencari apa-apa di padang belantara sebagai makanan bagi anak-anak mereka."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"oleh hujan lebat di pegunungan mereka basah kuyup, dan karena tidak ada tempat berlindung, mereka mengimpitkan badannya pada gunung batu."
   },
   {Bible:"Job", Chapter:24, Verse:9, Page:1,
-    Kor:"아버지 없는 어린 아이를 노예로 빼앗아 가는 자들도 있다. 가난한 사람이 빚을 못 갚는다고 자식을 빼앗아 가는 자들도 있다.",
+    Kor:"아버지 없는 어린 아이를 노예로 빼앗아 가는 자들도 있다. 가난한 사람이 빚을 못 갚는다고, 자식을 빼앗아 가는 자들도 있다.",
     Chn:"又有人从母怀中抢夺孤儿， 强取穷人的衣服为当头，",
     Eng:"The fatherless child is snatched from the breast; the infant of the poor is seized for a debt.",
     Ind:"Ada yang merebut anak piatu dari susu ibunya dan menerima bayi orang miskin sebagai gadai."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Dari dalam kota terdengar rintihan orang-orang yang hampir mati dan jeritan orang-orang yang menderita luka, tetapi Allah tidak mengindahkan doa mereka."
   },
   {Bible:"Job", Chapter:24, Verse:13, Page:1,
-    Kor:"빛을 싫어하는 사람들이 있다. 그들은 빛이 밝혀 주는 것을 알지 못하며, 빛이 밝혀 주는 길로 가지 않는다.",
+    Kor:"빛을 싫어하는 사람들이 있다. 그들은, 빛이 밝혀 주는 것을 알지 못하며, 빛이 밝혀 주는 길로 가지 않는다.",
     Chn:"又有人背弃光明， 不认识光明的道， 不住在光明的路上。",
     Eng:"\"There are those who rebel against the light, who do not know its ways or stay in its paths.",
     Ind:"Ada lagi golongan yang memusuhi terang, yang tidak mengenal jalannya dan tidak tetap tinggal pada lintasannya."
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"karena kegelapan adalah pagi hari bagi mereka sekalian, dan mereka sudah biasa dengan kedahsyatan kegelapan."
   },
   {Bible:"Job", Chapter:24, Verse:18, Page:1,
-    Kor:"a악한 사람은 홍수에 떠내려간다. 그의 밭에는 하나님의 저주가 내리니, 다시는 포도원에 갈 일이 없을 것이다. (a 18-25절에 소발의 이름이 나타나 있지는 않지만, 소발의 말이라고 보는 견해도 있음)",
+    Kor:"악한 사람은 홍수에 떠내려간다. 그의 밭에는 하나님의 저주가 내리니, 다시는 포도원에 갈 일이 없을 것이다.",
     Chn:"这些恶人犹如浮萍快快飘去。 他们所得的分在世上被咒诅； 他们不得再走葡萄园的路。",
     Eng:"\"Yet they are foam on the surface of the water; their portion of the land is cursed, so that no one goes to the vineyards.",
     Ind:"Mereka hanyut di permukaan air, bagian mereka terkutuk di bumi; mereka tidak lagi pergi ke kebun anggur mereka."
   },
   {Bible:"Job", Chapter:24, Verse:19, Page:1,
-    Kor:"날이 가물고 무더워지면 눈 녹은 물이 증발하는 것 같이, 죄인들도 그렇게 b스올로 사라질 것이다. (b 또는 '무덤' 또는 '죽음')",
+    Kor:"날이 가물고 무더워지면 눈 녹은 물이 증발하는 것 같이, 죄인들도 그렇게 스올로 사라질 것이다.",
     Chn:"干旱炎热消没雪水； 阴间也如此消没犯罪之辈。",
     Eng:"As heat and drought snatch away the melted snow, so the grave snatches away those who have sinned.",
     Ind:"Air salju dihabiskan oleh kemarau dan panas, demikian juga dilakukan dunia orang mati terhadap mereka yang berbuat dosa."

@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",4,14);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:4, Verse:1, Page:1,
-    Kor:"<순금 등잔대와 두 올리브 나무> 내게 말하는 천사가 다시 와서 나를 깨우는데, 나는 마치 잠에서 깨어난 사람 같았다.",
+    Kor:"내게 말하는 천사가 다시 와서 나를 깨우는데, 나는 마치 잠에서 깨어난 사람 같았다.",
     Chn:"那与我说话的天使又来叫醒我，好像人睡觉被唤醒一样。",
     Eng:"Then the angel who talked with me returned and wakened me, as a man is wakened from his sleep.",
     Ind:"Datanglah kembali malaikat yang berbicara dengan aku itu, lalu dibangunkannyalah aku seperti seorang yang dibangunkan dari tidurnya."
@@ -33,25 +33,25 @@ BibleDB.add([
     Ind:"Maka berbicaralah malaikat yang berbicara dengan aku itu, katanya kepadaku: \"Tidakkah engkau tahu, apa arti semuanya ini?\" Jawabku: \"Tidak, tuanku!\""
   },
   {Bible:"Zechariah", Chapter:4, Verse:6, Page:1,
-    Kor:"그가 내게 이렇게 말해 주었다.  \"이것은 주님께서 스룹바벨을 두고 하신 말씀이다. '힘으로도 되지 않고, 권력으로도 되지 않으며, 오직 나의 영으로만 될 것이다.' 만군의 주님께서 말씀하신다.",
+    Kor:"그가 내게 이렇게 말해 주었다. \"이것은 주께서 스룹바벨을 두고 하신 말씀이다. '힘으로도 되지 않고, 권력으로도 되지 않으며, 오직 나의 영으로만 될 것이다.' 만군의 주께서 말씀하신다.",
     Chn:"他对我说：「这是耶和华指示所罗巴伯的。万军之耶和华说：不是倚靠势力，不是倚靠才能，乃是倚靠我的灵方能成事。",
     Eng:"So he said to me, \"This is the word of the LORD to Zerubbabel: 'Not by might nor by power, but by my Spirit,' says the LORD Almighty.",
     Ind:"Maka berbicaralah ia, katanya: \"Inilah firman TUHAN kepada Zerubabel bunyinya: Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan roh-Ku, firman TUHAN semesta alam."
   },
   {Bible:"Zechariah", Chapter:4, Verse:7, Page:1,
-    Kor:"큰 산아, 네가 a무엇이냐? 스룹바벨 앞에서는 평지일 뿐이다. 그가 머릿돌을 떠서 내올 때에, 사람들은 그 돌을 보고서 '아름답다, 아름답다!' 하고 외칠 것이다.\" (a 또는 '누구냐?')",
+    Kor:"큰 산아, 네가 무엇이냐? 스룹바벨 앞에서는 평지일 뿐이다. 그가 머릿돌을 떠서 내올 때에, 사람들은 그 돌을 보고서 '아름답다, 아름답다!' 하고 외칠 것이다.\"",
     Chn:"大山哪，你算什么呢？在所罗巴伯面前，你必成为平地。他必搬出一块石头，安在殿顶上。人且大声欢呼说：『愿恩惠恩惠归与这殿！』」",
     Eng:"\"What are you, O mighty mountain? Before Zerubbabel you will become level ground. Then he will bring out the capstone to shouts of 'God bless it! God bless it!'\"",
     Ind:"Siapakah engkau, gunung yang besar? Di depan Zerubabel engkau menjadi tanah rata. Ia akan mengangkat batu utama, sedang orang bersorak: Bagus! Bagus sekali batu itu!\""
   },
   {Bible:"Zechariah", Chapter:4, Verse:8, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku, demikian:"
   },
   {Bible:"Zechariah", Chapter:4, Verse:9, Page:1,
-    Kor:"\"스룹바벨이 이 성전의 기초를 놓았으니, 그가 이 일을 마칠 것이다.\" 그 때에야 비로소 너희는 만군의 주님께서 나를 너희에게 보내셨다는 것을 알게 될 것이다.",
+    Kor:"\"스룹바벨이 이 성전의 기초를 놓았으니, 그가 이 일을 마칠 것이다.\" 그 때에야 비로소 너희는 만군의 주께서 나를 너희에게 보내셨다는 것을 알게 될 것이다.",
     Chn:"「所罗巴伯的手立了这殿的根基，他的手也必完成这工，你就知道万军之耶和华差遣我到你们这里来了。",
     Eng:"\"The hands of Zerubbabel have laid the foundation of this temple; his hands will also complete it. Then you will know that the LORD Almighty has sent me to you.",
     Ind:"\"Tangan Zerubabel telah meletakkan dasar Rumah ini, dan tangannya juga akan menyelesaikannya. Maka kamu akan mengetahui, bahwa TUHAN semesta alam yang mengutus aku kepadamu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ia menjawab aku: \"Tidakkah engkau tahu, apa arti semuanya ini?\" Jawabku: \"Tidak, tuanku!\""
   },
   {Bible:"Zechariah", Chapter:4, Verse:14, Page:1,
-    Kor:"그 천사는, 올리브 나무 두 그루와 가지 두 개는, 온 세상을 다스리시는 주님을 섬기도록, 주님께서 기름 부어서 거룩히 구별하신 두 사람이라고 말해 주었다.",
+    Kor:"그 천사는, 올리브 나무 두 그루와 가지 두 개는, 온 세상을 다스리시는 주님을 섬기도록, 주께서 기름 부어서 거룩히 구별하신 두 사람이라고 말해 주었다.",
     Chn:"他说：「这是两个受膏者站在普天下主的旁边。」",
     Eng:"So he said, \"These are the two who are anointed to serve the LORD of all the earth.\"",
     Ind:"Lalu ia berkata: \"Inilah kedua orang yang diurapi yang berdiri di dekat Tuhan seluruh bumi!\""

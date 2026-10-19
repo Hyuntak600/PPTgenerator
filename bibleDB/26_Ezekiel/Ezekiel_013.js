@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",13,23);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:13, Verse:1, Page:1,
-    Kor:"<거짓 예언자들의 종말> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:13, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는, 예언한다고 하는 이스라엘의 예언자들을 규탄하여 예언하여라. 자기들의 마음대로 예언하는 사람들에게, 나 주가 하는 말을 들으라고 하여라.",
+    Kor:"\"사람아, 너는, 예언한다고 하는 이스라엘의 예언자들을 규탄하여 예언하여라. 자기들의 마음대로 예언하는 사람들에게, 나 주가 하는 말을 들으라고 하여라.",
     Chn:"「人子啊，你要说预言攻击以色列中说预言的先知，对那些本己心发预言的说：『你们当听耶和华的话。』」",
     Eng:"\"Son of man, prophesy against the prophets of Israel who are now prophesying. Say to those who prophesy out of their own imagination: 'Hear the word of the LORD!",
     Ind:"\"Hai anak manusia, bernubuatlah melawan nabi-nabi Israel, bernubuatlah dan katakanlah kepada mereka yang bernubuat sesuka hatinya saja: Dengarlah firman TUHAN!"
   },
   {Bible:"Ezekiel", Chapter:13, Verse:3, Page:1,
-    Kor:"○나 주 하나님이 말한다. 내가 보여 준 환상을 보지도 못하고 저희들의 생각을 따라서 예언하는, a어리석은 예언자들에게 화가 있을 것이다.(a 또는 '악한')",
+    Kor:"○나 주 하나님이 말한다. 내가 보여 준 환상을 보지도 못하고 저희들의 생각을 따라서 예언하는, 어리석은 예언자들에게 화가 있을 것이다.",
     Chn:"主耶和华如此说：「愚顽的先知有祸了，他们随从自己的心意，却一无所见。",
     Eng:"This is what the Sovereign LORD says: Woe to the foolish prophets who follow their own spirit and have seen nothing!",
     Ind:"Beginilah firman Tuhan ALLAH: Celakalah nabi-nabi yang bebal yang mengikuti bisikan hatinya sendiri dan yang tidak melihat sesuatu penglihatan."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"yaitu nabi-nabi Israel yang bernubuat tentang Yerusalem dan melihat baginya suatu penglihatan mengenai damai sejahtera, padahal sama sekali tidak ada damai sejahtera, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:13, Verse:17, Page:1,
-    Kor:"<거짓 예언자들(여자)> ○\"너 사람아, 네 백성 가운데서 자기들의 마음대로 예언하는 여자들을 주목해 보고, 그들을 규탄하여 예언하여라.",
+    Kor:"○\"너 사람아, 네 백성 가운데서 자기들의 마음대로 예언하는 여자들을 주목해 보고, 그들을 규탄하여 예언하여라.",
     Chn:"「人子啊，你要面向本民中、从己心发预言的女子说预言，攻击她们，",
     Eng:"\"Now, son of man, set your face against the daughters of your people who prophesy out of their own imagination. Prophesy against them",
     Ind:"\"Engkau anak manusia, tujukanlah mukamu kepada kaum perempuan bangsamu yang bernubuat sesuka hatinya saja dan bernubuatlah melawan mereka."

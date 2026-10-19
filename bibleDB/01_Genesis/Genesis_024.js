@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",24,67);
 BibleDB.add([
   {Bible:"Genesis", Chapter:24, Verse:1, Page:1,
-    Kor:"<이삭의 아내> 아브라함은 이제 나이가 많은 노인이 되었다. 주님께서는, 아브라함이 하는 일마다 복을 주셨다.",
+    Kor:"아브라함은 이제 나이가 많은 노인이 되었다. 주께서는, 아브라함이 하는 일마다, 복을 주셨다.",
     Chn:"亚伯拉罕年纪老迈，向来在一切事上耶和华都赐福给他。",
     Eng:"Abraham was now old and well advanced in years, and the LORD had blessed him in every way.",
     Ind:"Adapun Abraham telah tua dan lanjut umurnya, serta diberkati TUHAN dalam segala hal."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Berkatalah Abraham kepada hambanya yang paling tua dalam rumahnya, yang menjadi kuasa atas segala kepunyaannya, katanya: \"Baiklah letakkan tanganmu di bawah pangkal pahaku,"
   },
   {Bible:"Genesis", Chapter:24, Verse:3, Page:1,
-    Kor:"나는 네가, 하늘의 하나님, 땅의 하나님이신 주님을 두고서 맹세하기를 바란다. 너는 나의 아들의 아내가 될 여인을, 내가 살고 있는 이 곳 가나안 사람의 딸들에게서 찾지 말고,",
+    Kor:"나는 네가, 하늘의 하나님, 땅의 하나님이신 주를 두고서 맹세하기를 바란다. 너는 나의 아들의 아내가 될 여인을, 내가 살고 있는 이 곳 가나안 사람의 딸들에게서 찾지 말고,",
     Chn:"我要叫你指着耶和华—天地的主起誓，不要为我儿子娶这迦南地中的女子为妻。",
     Eng:"I want you to swear by the LORD, the God of heaven and the God of earth, that you will not  get a wife for my son from the daughters of the Canaanites, among whom I am living,",
     Ind:"supaya aku mengambil sumpahmu demi TUHAN, Allah yang empunya langit dan yang empunya bumi, bahwa engkau tidak akan mengambil untuk anakku seorang isteri dari antara perempuan Kanaan yang di antaranya aku diam."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Tetapi Abraham berkata kepadanya: \"Awas, jangan kaubawa anakku itu kembali ke sana."
   },
   {Bible:"Genesis", Chapter:24, Verse:7, Page:1,
-    Kor:"주 하늘의 하나님이 나를 나의 아버지 집, 내가 태어난 땅에서 떠나게 하시고, 나에게 말씀하시며, 나에게 맹세하여 이르시기를 '내가 이 땅을 너의 씨에게 주겠다' 하셨다. 그러니 주님께서 천사를 너의 앞에 보내셔서, 거기에서 내 아들의 아내 될 사람을 데려올 수 있도록 도와 주실 것이다.",
+    Kor:"주 하늘의 하나님이 나를 나의 아버지 집, 내가 태어난 땅에서 떠나게 하시고, 나에게 말씀하시며, 나에게 맹세하여 이르시기를 '내가 이 땅을 너의 씨에게 주겠다' 하셨다. 그러니 주께서 천사를 너의 앞에 보내셔서, 거기에서 내 아들의 아내 될 사람을 데려올 수 있도록 도와 주실 것이다.",
     Chn:"耶和华—天上的主曾带领我离开父家和本族的地，对我说话，向我起誓说：『我要将这地赐给你的后裔。』他必差遣使者在你面前，你就可以从那里为我儿子娶一个妻子。",
     Eng:"\"The LORD, the God of heaven, who brought me out of my father's household and my native land  and who spoke to me and promised me on oath, saying, 'To your offspring I will give this  land'--he will send his angel before you so that you can get a wife for my son from there.",
     Ind:"TUHAN, Allah yang empunya langit, yang telah memanggil aku dari rumah ayahku serta dari negeri sanak saudaraku, dan yang telah berfirman kepadaku, serta yang bersumpah kepadaku, demikian: kepada keturunanmulah akan Kuberikan negeri ini--Dialah juga akan mengutus malaikat-Nya berjalan di depanmu, sehingga engkau dapat mengambil seorang isteri dari sana untuk anakku."
   },
   {Bible:"Genesis", Chapter:24, Verse:8, Page:1,
-    Kor:"그 여인이 너를 따라오려고 하지 않으면, 너는 나에게 한 이 맹세에서 풀려난다. 다만 나의 아들을 그리로 데리고 가지만은 말아라.\"",
+    Kor:"그 여인이 너를 따라오려고 하지 않으면, 너는 나에게 한 이 맹세에서 풀려난다. 다만, 나의 아들을 그리로 데리고 가지만은 말아라.\"",
     Chn:"倘若女子不肯跟你来，我使你起的誓就与你无干了，只是不可带我的儿子回那里去。」",
     Eng:"If the woman is unwilling to come back with you, then you will be released from this oath of  mine. Only do not take my son back there.\"",
     Ind:"Tetapi jika perempuan itu tidak mau mengikuti engkau, maka lepaslah engkau dari sumpahmu kepadaku ini; hanya saja, janganlah anakku itu kaubawa kembali ke sana.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Lalu hamba itu meletakkan tangannya di bawah pangkal paha Abraham, tuannya, dan bersumpah kepadanya tentang hal itu."
   },
   {Bible:"Genesis", Chapter:24, Verse:10, Page:1,
-    Kor:"○그 종은 주인의 낙타 가운데서 열 마리를 풀어서, 주인이 준 온갖 좋은 선물을 낙타에 싣고 길을 떠나서, 아람나하라임을 거쳐서, 나홀이 사는 성에 이르렀다.",
+    Kor:"○그 종은 주인의 낙타 가운데서 열 마리를 풀어서, 주인이 준 온갖 좋은 선물을 낙타에 싣고, 길을 떠나서, 아람나하라임을 거쳐서, 나홀이 사는 성에 이르렀다.",
     Chn:"那仆人从他主人的骆驼里取了十匹骆驼，并带些他主人各样的财物，起身往美索不达米亚去，到了拿鹤的城。",
     Eng:"Then the servant took ten of his master's camels and left, taking with him all kinds of  good things from his master. He set out for Aram Naharaim and made his way to the town of Nahor.",
     Ind:"Kemudian hamba itu mengambil sepuluh ekor dari unta tuannya dan pergi dengan membawa berbagai-bagai barang berharga kepunyaan tuannya; demikianlah ia berangkat menuju Aram-Mesopotamia ke kota Nahor."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Di sini aku berdiri di dekat mata air, dan anak-anak perempuan penduduk kota ini datang keluar untuk menimba air."
   },
   {Bible:"Genesis", Chapter:24, Verse:14, Page:1,
-    Kor:"제가 그 가운데서 한 소녀에게 '물동이를 기울여서, 물을 한 모금 마실 수 있게 하여 달라' 하겠습니다. 그 때에 그 소녀가 '드십시오. 낙타들에게도 제가 물을 주겠습니다' 하고 말하면, 그가 바로 주님께서 주님의 종 이삭의 아내로 정하신 여인인 줄로 알겠습니다. 이것으로써 주님께서 저의 주인에게 은총을 베푸신 줄을 알겠습니다.\"",
+    Kor:"제가 그 가운데서 한 소녀에게 '물동이를 기울여서, 물을 한 모금 마실 수 있게 하여 달라' 하겠습니다. 그 때에 그 소녀가 '드십시오. 낙타들에게도 제가 물을 주겠습니다' 하고 말하면, 그가 바로 주께서 주의 종 이삭의 아내로 정하신 여인인 줄로 알겠습니다. 이것으로써, 주께서 저의 주인에게 은총을 베푸신 줄을 알겠습니다.\"",
     Chn:"我向那一个女子说：『请你拿下水瓶来，给我水喝』，她若说：『请喝！我也给你的骆驼喝。』愿那女子就作你所预定给你仆人以撒的妻。这样，我便知道你施恩给我主人了。」",
     Eng:"May it be that when I say to a girl, 'Please let down your jar that I may have a drink,'  and she says, 'Drink, and I'll water your camels too'--let her be the one you have chosen for  your servant Isaac. By this I will know that you have shown kindness to my master.\"",
     Ind:"Kiranya terjadilah begini: anak gadis, kepada siapa aku berkata: Tolong miringkan buyungmu itu, supaya aku minum, dan yang menjawab: Minumlah, dan unta-untamu juga akan kuberi minum--dialah kiranya yang Kautentukan bagi hamba-Mu, Ishak; maka dengan begitu akan kuketahui, bahwa Engkau telah menunjukkan kasih setia-Mu kepada tuanku itu.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Jawabnya: \"Minumlah, tuan,\" maka segeralah diturunkannya buyungnya itu ke tangannya, serta diberinya dia minum."
   },
   {Bible:"Genesis", Chapter:24, Verse:19, Page:1,
-    Kor:"소녀는 이렇게 물을 마시게 하고 나서, \"제가 물을 더 길어다가, 낙타들에게도, 실컷 마시게 하겠습니다\" 하고 말하면서,",
+    Kor:"소녀는 이렇게 물을 마시게 하고 나서 \"제가 물을 더 길어다가, 낙타들에게도, 실컷 마시게 하겠습니다\" 하고 말하면서,",
     Chn:"女子给他喝了，就说：「我再为你的骆驼打水，叫骆驼也喝足。」",
     Eng:"After she had given him a drink, she said, \"I'll draw water for your camels too, until they  have finished drinking.\"",
     Ind:"Setelah ia selesai memberi hamba itu minum, berkatalah ia: \"Baiklah untuk unta-untamu juga kutimba air, sampai semuanya puas minum.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kemudian segeralah dituangnya air yang di buyungnya itu ke dalam palungan, lalu berlarilah ia sekali lagi ke sumur untuk menimba air dan ditimbanyalah untuk semua unta orang itu."
   },
   {Bible:"Genesis", Chapter:24, Verse:21, Page:1,
-    Kor:"그렇게 하는 동안에 노인은, 이번 여행길에서 주님께서 모든 일을 과연 잘 되게 하여 주시는 것인지를 알려고, 그 소녀를 말없이 지켜보고 있었다.",
+    Kor:"그렇게 하는 동안에 노인은, 이번 여행길에서, 주께서 모든 일을 과연 잘 되게 하여 주시는 것인지를 알려고, 그 소녀를 말없이 지켜보고 있었다.",
     Chn:"那人定睛看她，一句话也不说，要晓得耶和华赐他通达的道路没有。",
     Eng:"Without saying a word, the man watched her closely to learn whether or not the LORD had  made his journey successful.",
     Ind:"Dan orang itu mengamat-amatinya dengan berdiam diri untuk mengetahui apakah TUHAN membuat perjalanannya berhasil atau tidak."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Lagi kata gadis itu: \"Baik jerami, baik makanan unta banyak pada kami, tempat bermalampun ada.\""
   },
   {Bible:"Genesis", Chapter:24, Verse:26, Page:1,
-    Kor:"일이 이쯤 되니, 아브라함의 종은 머리를 숙여서 주님께 경배하고",
+    Kor:"일이 이쯤 되니, 아브라함의 종은 머리를 숙여서 주께 경배하고",
     Chn:"那人就低头向耶和华下拜，",
     Eng:"Then the man bowed down and worshiped the LORD,",
     Ind:"Lalu berlututlah orang itu dan sujud menyembah TUHAN,"
   },
   {Bible:"Genesis", Chapter:24, Verse:27, Page:1,
-    Kor:"\"나의 주인 아브라함을 보살펴 주신 하나님, 주님을 찬양합니다. 나의 주인에게 주님의 인자와 성실을 끊지 않으셨으며, 주님께서 저의 길을 잘 인도하여 주셔서, 나의 주인의 동생 집에 무사히 이르게 하셨습니다\" 하고 찬양하였다.",
+    Kor:"\"나의 주인 아브라함을 보살펴 주신 하나님, 주님을 찬양합니다. 나의 주인에게 주의 인자와 성실을 끊지 않으셨으며, 주께서 저의 길을 잘 인도하여 주셔서, 나의 주인의 동생 집에 무사히 이르게 하셨습니다\" 하고 찬양하였다.",
     Chn:"说：「耶和华—我主人亚伯拉罕的　神是应当称颂的，因他不断地以慈爱诚实待我主人。至于我，耶和华在路上引领我，直走到我主人的兄弟家里。」",
     Eng:"saying, \"Praise be to the LORD, the God of my master Abraham, who has not abandoned his  kindness and faithfulness to my master. As for me, the LORD has led me on the journey to the  house of my master's relatives.\"",
     Ind:"serta berkata: \"Terpujilah TUHAN, Allah tuanku Abraham, yang tidak menarik kembali kasih-Nya dan setia-Nya dari tuanku itu; dan TUHAN telah menuntun aku di jalan ke rumah saudara-saudara tuanku ini!\""
@@ -184,7 +184,7 @@ BibleDB.add([
     Ind:"sesudah dilihatnya anting-anting itu dan gelang pada tangan saudaranya, dan sesudah didengarnya perkataan Ribka, saudaranya, yang bunyinya: \"Begitulah dikatakan orang itu kepadaku.\" Ia mendapatkan orang itu, yang masih berdiri di samping unta-untanya di dekat mata air itu,"
   },
   {Bible:"Genesis", Chapter:24, Verse:31, Page:1,
-    Kor:"라반이 그에게 말하였다. \"어서 들어가시지요. 할아버지는 주님께서 주시는 복을 받으신 분이십니다. 어찌하여 여기 바깥에 서 계십니까? 방이 준비되어 있고, 낙타를 둘 곳도 마련되어 있습니다.\"",
+    Kor:"라반이 그에게 말하였다. \"어서 들어가시지요. 할아버지는 주께서 주시는 복을 받으신 분이십니다. 어찌하여 여기 바깥에 서 계십니까? 방이 준비되어 있고, 낙타를 둘 곳도 마련되어 있습니다.\"",
     Chn:"便对他说：「你这蒙耶和华赐福的，请进来，为什么站在外边？我已经收拾了房屋，也为骆驼预备了地方。」",
     Eng:"\"Come, you who are blessed by the LORD,\" he said. \"Why are you standing out here? I have  prepared the house and a place for the camels.\"",
     Ind:"dan berkata: \"Marilah engkau yang diberkati TUHAN, mengapa engkau berdiri di luar, padahal telah kusediakan rumah bagimu, dan juga tempat untuk unta-untamu.\""
@@ -208,7 +208,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah ia: \"Aku ini hamba Abraham."
   },
   {Bible:"Genesis", Chapter:24, Verse:35, Page:1,
-    Kor:"주님께서 나의 주인에게 크게 복을 주셔서, 주인은 큰 부자가 되셨습니다. 주님께서는 우리 주인에게 양 떼와 소 떼, 은과 금, 남종과 여종, 낙타와 나귀를 주셨습니다.",
+    Kor:"주께서 나의 주인에게 크게 복을 주셔서, 주인은 큰 부자가 되셨습니다. 주께서는 우리 주인에게 양 떼와 소 떼, 은과 금, 남종과 여종, 낙타와 나귀를 주셨습니다.",
     Chn:"耶和华大大地赐福给我主人，使他昌大，又赐给他羊群、牛群、金银、仆婢、骆驼，和驴。",
     Eng:"The LORD has blessed my master abundantly, and he has become wealthy. He has given him  sheep and cattle, silver and gold, menservants and maidservants, and camels and donkeys.",
     Ind:"TUHAN sangat memberkati tuanku itu, sehingga ia telah menjadi kaya; TUHAN telah memberikan kepadanya kambing domba dan lembu sapi, emas dan perak, budak laki-laki dan perempuan, unta dan keledai."
@@ -226,7 +226,7 @@ BibleDB.add([
     Ind:"Tuanku itu telah mengambil sumpahku: Engkau tidak akan mengambil untuk anakku seorang isteri dari antara perempuan Kanaan, yang negerinya kudiami ini,"
   },
   {Bible:"Genesis", Chapter:24, Verse:38, Page:1,
-    Kor:"나의 아버지 집, 나의 친족에게로 가서, 나의 며느리감을 찾아보겠다고 나에게 맹세하여라' 하셨습니다.",
+    Kor:"나의 아버지 집, 나의 친족에게로 가서, 나의 며느리감을 찾아보겠다고, 나에게 맹세하여라' 하셨습니다.",
     Chn:"你要往我父家、我本族那里去，为我的儿子娶一个妻子。』",
     Eng:"but go to my father's family and to my own clan, and get a wife for my son.'",
     Ind:"tetapi engkau harus pergi ke rumah ayahku dan kepada kaumku untuk mengambil seorang isteri bagi anakku."
@@ -238,7 +238,7 @@ BibleDB.add([
     Ind:"Jawabku kepada tuanku itu: Mungkin perempuan itu tidak mau mengikut aku."
   },
   {Bible:"Genesis", Chapter:24, Verse:40, Page:1,
-    Kor:"주인 어른은 '내가 섬기는 주님께서 천사를 너와 함께 보내셔서, 너의 여행길에서 모든 일이 다 잘 되게 해주실 것이며, 네가 내 아들의 아내 될 처녀를, 나의 친족, 나의 아버지 집에서 데리고 올 수 있게 도와 주실 것이다.",
+    Kor:"주인 어른은 '내가 섬기는 주께서 천사를 너와 함께 보내셔서, 너의 여행길에서 모든 일이 다 잘 되게 해주실 것이며, 네가 나의 아들의 아내 될 처녀를, 나의 친족, 나의 아버지 집에서 데리고 올 수 있게 도와 주실 것이다.",
     Chn:"他就说：『我所事奉的耶和华必要差遣他的使者与你同去，叫你的道路通达，你就得以在我父家、我本族那里，给我的儿子娶一个妻子。",
     Eng:"\"He replied, 'The LORD, before whom I have walked, will send his angel with you and make  your journey a success, so that you can get a wife for my son from my own clan and from my  father's family.",
     Ind:"Tetapi katanya kepadaku: TUHAN, yang di hadapan-Nya aku hidup, akan mengutus malaikat-Nya menyertai engkau, dan akan membuat perjalananmu berhasil, sehingga engkau akan mengambil bagi anakku seorang isteri dari kaumku dan dari rumah ayahku."
@@ -250,7 +250,7 @@ BibleDB.add([
     Ind:"Barulah engkau lepas dari sumpahmu kepadaku, jika engkau sampai kepada kaumku dan mereka tidak memberikan perempuan itu kepadamu; hanya dalam hal itulah engkau lepas dari sumpahmu kepadaku."
   },
   {Bible:"Genesis", Chapter:24, Verse:42, Page:1,
-    Kor:"○제가 오늘 우물에 이르렀을 때에, 저는 이렇게 기도하였습니다. '주님, 나의 주인 아브라함을 보살펴 주신 하나님, 주님께서 원하시면, 제가 오늘 여기에 와서, 하는 일이 잘 이루어지게 하여 주십시오.",
+    Kor:"○제가 오늘 우물에 이르렀을 때에, 저는 이렇게 기도하였습니다. '주님, 나의 주인 아브라함을 보살펴 주신 하나님, 주께서 원하시면, 제가 오늘 여기에 와서, 하는 일이 잘 이루어지게 하여 주십시오.",
     Chn:"「我今日到了井旁，便说：『耶和华—我主人亚伯拉罕的　神啊，愿你叫我所行的道路通达。",
     Eng:"\"When I came to the spring today, I said, 'O LORD, God of my master Abraham, if you will,  please grant success to the journey on which I have come.",
     Ind:"Dan hari ini aku sampai ke mata air tadi, lalu kataku: TUHAN, Allah tuanku Abraham, sudilah kiranya Engkau membuat berhasil perjalanan yang kutempuh ini."
@@ -262,7 +262,7 @@ BibleDB.add([
     Ind:"Di sini aku berdiri di dekat mata air ini; kiranya terjadi begini: Apabila seorang gadis datang ke luar untuk menimba air dan aku berkata kepadanya: Tolong berikan aku minum air sedikit dari buyungmu itu,"
   },
   {Bible:"Genesis", Chapter:24, Verse:44, Page:1,
-    Kor:"그 처녀가 저에게 마시라고 하면서, 물을 더 길어다가 낙타들에게도 마시게 하겠다고 말하면, 그가 바로 주님께서 내 주인의 아들의 아내로 정하신 처녀로 알겠습니다' 하고 기도하였습니다.",
+    Kor:"그 처녀가 저에게 마시라고 하면서, 물을 더 길어다가 낙타들에게도 마시게 하겠다고 말하면, 그가 바로 주께서 내 주인의 아들의 아내로 정하신 처녀로 알겠습니다' 하고 기도하였습니다.",
     Chn:"她若说：你只管喝，我也为你的骆驼打水；愿那女子就作耶和华给我主人儿子所预定的妻。』",
     Eng:"and if she says to me, \"Drink, and I'll draw water for your camels too,\" let her be the one  the LORD has chosen for my master's son.'",
     Ind:"dan ia menjawab: Minumlah, dan untuk unta-untamu juga akan kutimba air, --dialah kiranya isteri, yang telah TUHAN tentukan bagi anak tuanku itu."
@@ -280,7 +280,7 @@ BibleDB.add([
     Ind:"Segeralah ia menurunkan buyung itu dari atas bahunya serta berkata: Minumlah, dan unta-untamu juga akan kuberi minum. Lalu aku minum, dan unta-unta itu juga diberinya minum."
   },
   {Bible:"Genesis", Chapter:24, Verse:47, Page:1,
-    Kor:"제가 따님에게 '뉘 댁 따님이시오?' 하고 물었더니, 따님께서는 '아버지는 함자가 브두엘이고, 할아버지는 함자가 나홀이고, 할머니는 함자가 밀가입니다' 하고 말하였습니다. 저는 따님의 코에는 코걸이를 걸어 주고, 팔에는 팔찌를 끼워 주었습니다.",
+    Kor:"제가 따님에게 '뉘 댁 따님이시오?' 하고 물었더니, 따님께서는 '아버지는 함자가 브두엘이고, 할아버지는 함자가 나홀이고, 할머니는 함자가 밀가입니다' 하고 말하였습니다. 저는 따님의 코에는, 코걸이를 걸어 주고, 팔에는 팔찌를 끼워 주었습니다.",
     Chn:"我问她说：『你是谁的女儿？』她说：『我是密迦与拿鹤之子彼土利的女儿。』我就把环子戴在她鼻子上，把镯子戴在她两手上。",
     Eng:"\"I asked her, 'Whose daughter are you?' \"She said, 'The daughter of Bethuel son of Nahor,  whom Milcah bore to him.' \"Then I put the ring in her nose and the bracelets on her arms,",
     Ind:"Sesudah itu aku bertanya kepadanya: Anak siapakah engkau? Jawabnya: Ayahku Betuel anak Nahor yang dilahirkan Milka. Lalu aku mengenakan anting-anting pada hidungnya dan gelang pada tangannya."
@@ -292,7 +292,7 @@ BibleDB.add([
     Ind:"Kemudian berlututlah aku dan sujud menyembah TUHAN, serta memuji TUHAN, Allah tuanku Abraham, yang telah menuntun aku di jalan yang benar untuk mengambil anak perempuan saudara tuanku ini bagi anaknya."
   },
   {Bible:"Genesis", Chapter:24, Verse:49, Page:1,
-    Kor:"이제 어른들께서 저의 주인에게 인자하심과 진실하심을 보여 주시려거든, 저에게 그렇게 하겠다고 말씀을 해주시고, 그렇게 하지 못하시겠거든, 못하겠다고 말씀을 해주시기 바랍니다. 그렇게 하셔야, 저도 어떻게 결정을 내려야 할지를 생각해 볼 수 있을 것입니다.\"",
+    Kor:"이제, 어른께서 저의 주인에게 인자하심과 진실하심을 보여 주시려거든, 저에게 그렇게 하겠다고 말씀을 해주시고, 그렇게 하지 못하시겠거든, 못하겠다고 말씀을 해주시기 바랍니다. 그렇게 하셔야, 저도 어떻게 결정을 내려야 할지를 생각해 볼 수 있을 것입니다.\"",
     Chn:"现在你们若愿以慈爱诚实待我主人，就告诉我；若不然，也告诉我，使我可以或向左，或向右。」",
     Eng:"Now if you will show kindness and faithfulness to my master, tell me; and if not, tell me,  so I may know which way to turn.\"",
     Ind:"Jadi sekarang, apabila kamu mau menunjukkan kasih dan setia kepada tuanku itu, beritahukanlah kepadaku; dan jika tidak, beritahukanlah juga kepadaku, supaya aku tahu entah berpaling ke kanan atau ke kiri.\""
@@ -310,13 +310,13 @@ BibleDB.add([
     Ind:"Lihat, Ribka ada di depanmu, bawalah dia dan pergilah, supaya ia menjadi isteri anak tuanmu, seperti yang difirmankan TUHAN.\""
   },
   {Bible:"Genesis", Chapter:24, Verse:52, Page:1,
-    Kor:"○아브라함의 종은 그들이 하는 말을 듣고서, 땅에 엎드려 주님께 경배하고,",
+    Kor:"○아브라함의 종은, 그들이 하는 말을 듣고서, 땅에 엎드려, 주께 경배하고,",
     Chn:"亚伯拉罕的仆人听见他们这话，就向耶和华俯伏在地。",
     Eng:"When Abraham's servant heard what they said, he bowed down to the ground before the LORD.",
     Ind:"Ketika hamba Abraham itu mendengar perkataan mereka, sujudlah ia sampai ke tanah menyembah TUHAN."
   },
   {Bible:"Genesis", Chapter:24, Verse:53, Page:1,
-    Kor:"금은 패물과 옷가지들을 꺼내서 리브가에게 주었다. 그는 또 값나가는 선물을 리브가의 오라버니와 어머니에게도 주었다.",
+    Kor:"금은 패물과 옷가지들을 꺼내서, 리브가에게 주었다. 그는 또 값나가는 선물을 리브가의 오라버니와 어머니에게도 주었다.",
     Chn:"当下仆人拿出金器、银器，和衣服送给利百加，又将宝物送给她哥哥和她母亲。",
     Eng:"Then the servant brought out gold and silver jewelry and articles of clothing and gave them  to Rebekah; he also gave costly gifts to her brother and to her mother.",
     Ind:"Kemudian hamba itu mengeluarkan perhiasan emas dan perak serta pakaian kebesaran, dan memberikan semua itu kepada Ribka; juga kepada saudaranya dan kepada ibunya diberikannya pemberian yang indah-indah."
@@ -340,13 +340,13 @@ BibleDB.add([
     Ind:"Tetapi jawabnya kepada mereka: \"Janganlah tahan aku, sedang TUHAN telah membuat perjalananku berhasil; lepaslah aku, supaya aku pulang kepada tuanku.\""
   },
   {Bible:"Genesis", Chapter:24, Verse:57, Page:1,
-    Kor:"그들이 말하였다. \"아이를 불러다가 물어 봅시다.\"",
+    Kor:"그들이 말하였다. \"아이를 불러다가, 물어 봅시다.\"",
     Chn:"他们说：「我们把女子叫来问问她」，",
     Eng:"Then they said, \"Let's call the girl and ask her about it.\"",
     Ind:"Kata mereka: \"Baiklah kita panggil anak gadis itu dan menanyakan kepadanya sendiri.\""
   },
   {Bible:"Genesis", Chapter:24, Verse:58, Page:1,
-    Kor:"그들이 리브가를 불러다 놓고서 물었다. \"이 어른과 같이 가겠느냐?\" 리브가가 대답하였다. \"예, 가겠습니다.\"",
+    Kor:"그들이 리브가를 불러다 놓고서, 물었다. \"이 어른과 같이 가겠느냐?\" 리브가가 대답하였다. \"예, 가겠습니다.\"",
     Chn:"就叫了利百加来，问她说：「你和这人同去吗？」利百加说：「我去。」",
     Eng:"So they called Rebekah and asked her, \"Will you go with this man?\" \"I will go,\" she said.",
     Ind:"Lalu mereka memanggil Ribka dan berkata kepadanya: \"Maukah engkau pergi beserta orang ini?\" Jawabnya: \"Mau.\""
@@ -358,7 +358,7 @@ BibleDB.add([
     Ind:"Maka Ribka, saudara mereka itu, dan inang pengasuhnya beserta hamba Abraham dan orang-orangnya dibiarkan mereka pergi."
   },
   {Bible:"Genesis", Chapter:24, Verse:60, Page:1,
-    Kor:"리브가에게 복을 빌어 주었다.  \"우리의 누이야, 너는 천만 인의 어머니가 되어라. 너의 씨가 원수의 성을 차지할 것이다.\"",
+    Kor:"리브가에게 복을 빌어 주었다. \"우리의 누이야, 너는 천만 인의 어머니가 되어라. 너의 씨가 원수의 성을 차지할 것이다.\"",
     Chn:"他们就给利百加祝福说： 我们的妹子啊，愿你作千万人的母！ 愿你的后裔得着仇敌的城门！",
     Eng:"And they blessed Rebekah and said to her, \"Our sister, may you increase to thousands upon  thousands; may your offspring possess the gates of their enemies.\"",
     Ind:"Dan mereka memberkati Ribka, kata mereka kepadanya: \"Saudara kami, moga-moga engkau menjadi beribu-ribu laksa, dan moga-moga keturunanmu menduduki kota-kota musuhnya.\""

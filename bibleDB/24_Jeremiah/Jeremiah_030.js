@@ -3,7 +3,7 @@
 BibleDB.ref("Jeremiah",30,24);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:30, Verse:1, Page:1,
-    Kor:"<이스라엘의 회복에 대한 약속> 주님께서 예레미야에게 말씀하셨다.",
+    Kor:"주께서 예레미야에게 말씀하셨다.",
     Chn:"耶和华的话临到耶利米说：",
     Eng:"This is the word that came to Jeremiah from the LORD:",
     Ind:"Firman yang datang dari TUHAN kepada Yeremia, bunyinya:"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"\"Beginilah firman TUHAN, Allah Israel: Tuliskanlah segala perkataan yang telah Kufirmankan kepadamu itu dalam suatu kitab."
   },
   {Bible:"Jeremiah", Chapter:30, Verse:3, Page:1,
-    Kor:"나 주의 말이다. 보아라, 반드시 그 때가 올 터이니, 그 때가 되면, 내가 a포로로 잡혀 간 나의 백성을 다시 이스라엘과 유다로 데려오겠다. 나 주가 말한다. 내가 그들의 조상에게 준 땅으로 그들을 돌아오게 하여, 그들이 그 땅을 차지하게 하겠다.\"(a 또는 '내 백성 이스라엘과 유다의 운명을 회복시켜 주겠다')",
+    Kor:"나 주의 말이다. 보아라, 반드시 그 때가 올 터이니, 그 때가 되면, 내가 포로로 잡혀 간 나의 백성을 다시 이스라엘과 유다로 데려오겠다. 나 주가 말한다. 내가 그들의 조상에게 준 땅으로 그들을 돌아오게 하여, 그들이 그 땅을 차지하게 하겠다.\"",
     Chn:"耶和华说：日子将到，我要使我的百姓以色列和犹大被掳的人归回；我也要使他们回到我所赐给他们列祖之地，他们就得这地为业。这是耶和华说的。」",
     Eng:"The days are coming,' declares the LORD, 'when I will bring my people Israel and Judah back from captivity and restore them to the land I gave their forefathers to possess,' says the LORD.\"",
     Ind:"Sebab, sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan memulihkan keadaan umat-Ku Israel dan Yehuda--firman TUHAN--dan Aku akan mengembalikan mereka ke negeri yang telah Kuberikan kepada nenek moyang mereka, dan mereka akan memilikinya.\""
   },
   {Bible:"Jeremiah", Chapter:30, Verse:4, Page:1,
-    Kor:"○이 말씀은 주님께서 이스라엘과 유다를 두고 일러주신 말씀이다.",
+    Kor:"이 말씀은 주께서 이스라엘과 유다를 두고 일러주신 말씀이다.",
     Chn:"以下是耶和华论到以色列和犹大所说的话：",
     Eng:"These are the words the LORD spoke concerning Israel and Judah:",
     Ind:"Inilah perkataan-perkataan yang telah difirmankan TUHAN tentang Israel dan tentang Yehuda:"
   },
   {Bible:"Jeremiah", Chapter:30, Verse:5, Page:1,
-    Kor:"\"나 주가 말한다. 무서워서 울부짖는 소리가 들려 온다. 평화는 없고, 폭력뿐이다.",
+    Kor:"\"나 주가 이렇게 말한다. 무서워서 울부짖는 소리가 들려 온다. 평화는 없고, 폭력뿐이다.",
     Chn:"耶和华如此说：我们听见声音， 是战抖惧怕而不平安的声音。",
     Eng:"\"This is what the LORD says: \"'Cries of fear are heard--terror, not peace.",
     Ind:"\"Sungguh, beginilah firman TUHAN: Telah kami dengar jerit kegentaran, kedahsyatan dan tidak ada damai."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Hai, alangkah hebatnya hari itu, tidak ada taranya; itulah waktu kesusahan bagi Yakub, tetapi ia akan diselamatkan dari padanya."
   },
   {Bible:"Jeremiah", Chapter:30, Verse:8, Page:1,
-    Kor:"나 만군의 주가 하는 말이다. 그 날이 오면, 내가 그의 목에서 멍에를 꺾고, 그의 사슬을 끊어서, 이방 사람들이 그를 더 이상 종으로 부리지 못하게 하겠다.",
+    Kor:"○나 만군의 주가 하는 말이다. 그 날이 오면, 내가 그의 목에서 멍에를 꺾고, 그의 사슬을 끊어서, 이방 사람들이 더 이상 그를 종으로 부리지 못하게 하겠다.",
     Chn:"万军之耶和华说：「到那日，我必从你颈项上折断仇敌的轭，扭开他的绳索；外邦人不得再使你作他们的奴仆。",
     Eng:"\"'In that day,' declares the LORD Almighty, 'I will break the yoke off their necks and will tear off their bonds; no longer will foreigners enslave them.",
     Ind:"Maka pada hari itu, demikianlah firman TUHAN semesta alam, Aku akan mematahkan kuk dari tengkuk mereka dan memutuskan tali-tali pengikat mereka, dan mereka tidak akan mengabdi lagi kepada orang-orang asing."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Sebab Aku akan mendatangkan kesembuhan bagimu, Aku akan mengobati luka-lukamu, demikianlah firman TUHAN, sebab mereka telah menyebutkan engkau: orang buangan, yakni sisa yang tiada seorangpun menanyakannya."
   },
   {Bible:"Jeremiah", Chapter:30, Verse:18, Page:1,
-    Kor:"\"나 주가 말한다. 내가 야곱의 장막들을 회복하여 놓고, 야곱의 거처를 불쌍하게 여겨, 폐허의 언덕에 다시 성읍을 세우고, 궁궐도 다시 제자리에 세우게 하겠다.",
+    Kor:"\"나 주가 이렇게 말한다. 내가 야곱의 장막들을 회복하여 놓고, 야곱의 거처를 불쌍하게 여겨, 폐허의 언덕에 다시 성읍을 세우고, 궁궐도 다시 제자리에 세우게 하겠다.",
     Chn:"耶和华如此说： 我必使雅各被掳去的帐棚归回， 也必顾惜他的住处。 城必建造在原旧的山冈； 宫殿也照旧有人居住。",
     Eng:"\"This is what the LORD says: \"'I will restore the fortunes of Jacob's tents and have compassion on his dwellings; the city will be rebuilt on her ruins, and the palace will stand in its proper place.",
     Ind:"Beginilah firman TUHAN: Sesungguhnya, Aku akan memulihkan keadaan kemah-kemah Yakub, dan akan mengasihani tempat-tempat tinggalnya, kota itu akan dibangun kembali di atas reruntuhannya, dan puri itu akan berdiri di tempatnya yang asli."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Maka kamu akan menjadi umat-Ku, dan Aku akan menjadi Allahmu.\""
   },
   {Bible:"Jeremiah", Chapter:30, Verse:23, Page:1,
-    Kor:"주님의 진노가 폭풍처럼 터져 나온다. 휘몰아치는 바람처럼 악인들의 머리를 후려친다.",
+    Kor:"주의 진노가 폭풍처럼 터져 나온다. 휘몰아치는 바람처럼 악인들의 머리를 후려친다.",
     Chn:"看哪，耶和华的忿怒 好像暴风已经发出； 是扫灭的暴风， 必转到恶人的头上。",
     Eng:"See, the storm of the LORD will burst out in wrath, a driving wind swirling down on the heads of the wicked.",
     Ind:"Lihatlah, angin badai TUHAN, yakni kehangatan murka, telah keluar menyambar, --angin puting beliung--dan turun menimpa kepala orang-orang fasik."
   },
   {Bible:"Jeremiah", Chapter:30, Verse:24, Page:1,
-    Kor:"주님께서는 마음 속에서 뜻하신 바를 시행하고 이루실 때까지, 그 맹렬한 진노를 그치지 않으신다. 마지막 날에야 너희가 이것을 깨달을 것이다.",
+    Kor:"주께서는 마음 속에서 뜻하신 바를 시행하고 이루실 때까지, 그 맹렬한 진노를 그치지 않으신다. 마지막 날에야 너희가 이것을 깨달을 것이다.",
     Chn:"耶和华的烈怒必不转消， 直到他心中所拟定的成就了； 末后的日子你们要明白。",
     Eng:"The fierce anger of the LORD will not turn back until he fully accomplishes the purposes of his heart. In days to come you will understand this. JER",
     Ind:"Murka TUHAN yang menyala-nyala itu tidak akan surut sampai Ia telah melaksanakan dan mewujudkan apa yang dirancang-Nya dalam hati-Nya; pada hari-hari yang terakhir kamu akan mengerti hal itu."

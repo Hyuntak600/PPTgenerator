@@ -3,31 +3,31 @@
 BibleDB.ref("Exodus",35,35);
 BibleDB.add([
   {Bible:"Exodus", Chapter:35, Verse:1, Page:1,
-    Kor:"<안식일 규례> 모세는 이스라엘 자손의 온 회중을 모아 놓고 말하였다. \"주님께서 당신들에게 실천하라고 명하신 말씀은 이러합니다.",
+    Kor:"모세는 이스라엘 자손의 온 회중을 모아 놓고 말하였다. \"주께서 너희에게 실천하라고 명하신 말씀은 이러하다.",
     Chn:"摩西招聚以色列全会众，对他们说：「这是耶和华所吩咐的话，叫你们照着行：",
     Eng:"Moses assembled the whole Israelite community and said to them, \"These are the things the LORD has commanded you to do:",
     Ind:"Lalu Musa menyuruh berkumpul segenap jemaah Israel dan berkata kepada mereka: \"Inilah firman yang diperintahkan TUHAN untuk dilakukan."
   },
   {Bible:"Exodus", Chapter:35, Verse:2, Page:1,
-    Kor:"엿새 동안은 일을 해야 합니다. 그러나 이렛날은 당신들에게 거룩한 날, 곧 주님께 바친 완전히 쉬는 안식일이므로, 그 날에 일을 하는 사람은 누구든지 사형에 처해야 합니다.",
+    Kor:"엿새 동안은 일을 해야 한다. 그러나 이렛날은 너희에게 거룩한 날, 곧 주께 바친 완전히 쉬는 안식일이므로, 그 날에 일을 하는 사람은 누구든지 사형에 처해야 한다.",
     Chn:"六日要做工，第七日乃为圣日，当向耶和华守为安息圣日。凡这日之内做工的，必把他治死。",
     Eng:"For six days, work is to be done, but the seventh day shall be your holy day, a Sabbath of rest to the LORD. Whoever does any work on it must be put to death.",
     Ind:"Enam hari lamanya boleh dilakukan pekerjaan, tetapi pada hari yang ketujuh haruslah ada perhentian kudus bagimu, yakni sabat, hari perhentian penuh bagi TUHAN; setiap orang yang melakukan pekerjaan pada hari itu, haruslah dihukum mati."
   },
   {Bible:"Exodus", Chapter:35, Verse:3, Page:1,
-    Kor:"안식일에는 당신들이 사는 어디에서도 불을 피워서는 안 됩니다.\"",
+    Kor:"안식일에는 너희가 사는 어디에서도 불을 피워서는 안 된다.\"",
     Chn:"当安息日，不可在你们一切的住处生火。」",
     Eng:"Do not light a fire in any of your dwellings on the Sabbath day.\"",
     Ind:"Janganlah kamu memasang api di manapun dalam tempat kediamanmu pada hari Sabat.\""
   },
   {Bible:"Exodus", Chapter:35, Verse:4, Page:1,
-    Kor:"<성막 자재의 헌납(출 25:1-9)> ○모세가 이스라엘 자손의 온 회중에게 말하였다. \"이것은 주님께서 내리신 명령입니다.",
+    Kor:"○모세가 이스라엘 자손의 온 회중에게 말하였다. \"이것은 주께서 내리신 명령이다.",
     Chn:"摩西对以色列全会众说：「耶和华所吩咐的是这样：",
     Eng:"Moses said to the whole Israelite community, \"This is what the LORD has commanded:",
     Ind:"Berkatalah Musa kepada segenap jemaah Israel: \"Inilah firman yang diperintahkan TUHAN, bunyinya:"
   },
   {Bible:"Exodus", Chapter:35, Verse:5, Page:1,
-    Kor:"당신들은 각자의 소유 가운데서 주님께 바칠 예물을 가져 오십시오. 바치고 싶은 사람은 누구나 주님께 예물을 바치십시오. 곧 금과 은과 동과,",
+    Kor:"너희는 각자의 소유 가운데서 주께 바칠 예물을 가져 오너라. 바치고 싶은 사람은 누구나 주께 예물을 바쳐라. 곧 금과 은과 동과,",
     Chn:"你们中间要拿礼物献给耶和华，凡乐意献的可以拿耶和华的礼物来，就是金、银、铜，",
     Eng:"From what you have, take an offering for the LORD. Everyone who is willing is to bring to the LORD an offering of gold, silver and bronze;",
     Ind:"Ambillah bagi TUHAN persembahan khusus dari barang kepunyaanmu; setiap orang yang terdorong hatinya harus membawanya sebagai persembahan khusus kepada TUHAN: emas, perak, tembaga,"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"minyak untuk penerangan, rempah-rempah untuk minyak urapan dan untuk ukupan dari wangi-wangian,"
   },
   {Bible:"Exodus", Chapter:35, Verse:9, Page:1,
-    Kor:"에봇과 가슴받이에 박을 홍옥수와 그 밖의 보석들입니다.\"",
+    Kor:"에봇과 가슴받이에 박을 홍옥수와 그 밖의 보석들이다.\"",
     Chn:"红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。」",
     Eng:"and onyx stones and other gems to be mounted on the ephod and breastpiece.",
     Ind:"permata krisopras dan permata tatahan untuk baju efod dan untuk tutup dada."
   },
   {Bible:"Exodus", Chapter:35, Verse:10, Page:1,
-    Kor:"<회막 기구들(출 39:32-43)> ○\"당신들 가운데 기술 있는 사람은 모두 와서, 주님께서 명하신 모든 것을 만드십시오.",
+    Kor:"○\"너희 가운데 기술 있는 사람은 모두 와서, 주께서 명하신 모든 것을 만들어라.",
     Chn:"「你们中间凡心里有智慧的都要来做耶和华一切所吩咐的：",
     Eng:"\"All who are skilled among you are to come and make everything the LORD has commanded:",
     Ind:"Segala orang yang ahli di antara kamu haruslah datang untuk membuat segala yang diperintahkan TUHAN,"
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"patok Kemah Suci dan patok pelataran dan talinya;"
   },
   {Bible:"Exodus", Chapter:35, Verse:19, Page:1,
-    Kor:"성소에서 예식을 올릴 때에 입는 잘 짠 옷과, 곧 제사장 아론의 거룩한 옷과 그 아들들이 제사장 일을 할 때에 입는 옷입니다.\"",
+    Kor:"성소에서 예식을 올릴 때에 입는 잘 짠 옷과, 곧 제사장 아론의 거룩한 옷과 그 아들들이 제사장 일을 할 때에 입는 옷이다.\"",
     Chn:"精工做的礼服和祭司亚伦并他儿子在圣所用以供祭司职分的圣衣。」",
     Eng:"the woven garments worn for ministering in the sanctuary--both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.\"",
     Ind:"pakaian jabatan untuk menyelenggarakan kebaktian di tempat kudus, dan pakaian kudus bagi imam Harun, dan pakaian anak-anaknya untuk memegang jabatan imam.\""
   },
   {Bible:"Exodus", Chapter:35, Verse:20, Page:1,
-    Kor:"<기쁜 마음으로 예물을 바치다> ○이스라엘 자손의 온 회중은 모세 앞에서 물러나왔다.",
+    Kor:"○이스라엘 자손의 온 회중은 모세 앞에서 물러나왔다.",
     Chn:"以色列全会众从摩西面前退去。",
     Eng:"Then the whole Israelite community withdrew from Moses' presence,",
     Ind:"Lalu pergilah segenap jemaah Israel dari depan Musa."
   },
   {Bible:"Exodus", Chapter:35, Verse:21, Page:1,
-    Kor:"마음이 감동되어 스스로 그렇게 하기를 원하는 사람은 모두 나서서, 회막과 그 곳의 제사에 필요한 모든 것과 거룩한 옷을 만들 수 있도록, 갖가지 예물을 주님께 가져 왔다.",
+    Kor:"마음이 감동되어 스스로 그렇게 하기를 원하는 사람은 모두 나서서, 회막과 그 곳의 제사에 필요한 모든 것과 거룩한 옷을 만들 수 있도록, 갖가지 예물을 주께 가져 왔다.",
     Chn:"凡心里受感和甘心乐意的都拿耶和华的礼物来，用以做会幕和其中一切的使用，又用以做圣衣。",
     Eng:"and everyone who was willing and whose heart moved him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its service, and for the sacred garments.",
     Ind:"Sesudah itu datanglah setiap orang yang tergerak hatinya, setiap orang yang terdorong jiwanya, membawa persembahan khusus kepada TUHAN untuk pekerjaan melengkapi Kemah Pertemuan dan untuk segala ibadah di dalamnya dan untuk pakaian kudus itu."
   },
   {Bible:"Exodus", Chapter:35, Verse:22, Page:1,
-    Kor:"남녀 구별 없이 스스로 원하는 사람은 누구나 장식 핀과 귀고리와 반지와 목걸이 등 온갖 금붙이를 가져 왔으며, 그 모든 사람이 금붙이를 흔들어서 주님께 바쳤다.",
+    Kor:"남녀 구별 없이 스스로 원하는 사람은 누구나, 장식 핀과 귀고리와 반지와 목걸이 등 온갖 금붙이를 가져 왔으며, 그 모든 사람이 금붙이를 흔들어서 주께 바쳤다.",
     Chn:"凡心里乐意献礼物的，连男带女，各将金器，就是胸前针、耳环、打印的戒指，和手钏带来献给耶和华。",
     Eng:"All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the LORD.",
     Ind:"Maka datanglah mereka, baik laki-laki maupun perempuan, setiap orang yang terdorong hatinya, dengan membawa anting-anting hidung, anting-anting telinga, cincin meterai dan kerongsang, segala macam barang emas; demikian juga setiap orang yang mempersembahkan persembahan unjukan dari emas bagi TUHAN."
   },
   {Bible:"Exodus", Chapter:35, Verse:23, Page:1,
-    Kor:"그리고 청색 실과 자주색 실과 홍색 실과 가는 모시 실과 염소 털과 붉게 물들인 숫양 가죽과 돌고래 가죽을 가진 사람들은 모두 그 물건들을 가져 왔다.",
+    Kor:"그리고 청색 실과 자주색 실과 홍색 실과 가는 모시 실과 염소 털과 붉게 물들인 숫양 가죽과 돌고래 가죽을 가진 사람들은, 모두 그 물건들을 가져 왔다.",
     Chn:"凡有蓝色、紫色、朱红色线，细麻，山羊毛，染红的公羊皮，海狗皮的，都拿了来；",
     Eng:"Everyone who had blue, purple or scarlet yarn or fine linen, or goat hair, ram skins dyed red or hides of sea cows brought them.",
     Ind:"Juga setiap orang yang mempunyai kain ungu tua, kain ungu muda, kain kirmizi, lenan halus, bulu kambing, kulit domba jantan yang diwarnai merah dan kulit lumba-lumba, datang membawanya."
   },
   {Bible:"Exodus", Chapter:35, Verse:24, Page:1,
-    Kor:"은과 동을 예물로 바칠 수 있는 사람들은 모두 주님께 그 물건들을 예물로 가져 왔고, 제사 기구를 만드는 데 쓰는 아카시아 나무를 가진 사람들은 모두 그 나무를 가져 왔다.",
+    Kor:"은과 동을 예물로 바칠 수 있는 사람들은, 모두 주께 그 물건들을 예물로 가져 왔고, 제사 기구를 만드는 데 쓰는 아카시아 나무를 가진 사람들은, 모두 그 나무를 가져 왔다.",
     Chn:"凡献银子和铜给耶和华为礼物的都拿了来；凡有皂荚木可做什么使用的也拿了来。",
     Eng:"Those presenting an offering of silver or bronze brought it as an offering to the LORD, and everyone who had acacia wood for any part of the work brought it.",
     Ind:"Setiap orang yang hendak mempersembahkan persembahan khusus dari perak atau tembaga, membawa persembahan khusus yang kepada TUHAN itu, dan setiap orang yang mempunyai kayu penaga membawanya juga untuk segala pekerjaan mendirikan itu."
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"rempah-rempah dan minyak untuk penerangan, untuk minyak urapan dan untuk ukupan dari wangi-wangian."
   },
   {Bible:"Exodus", Chapter:35, Verse:29, Page:1,
-    Kor:"스스로 바치고 싶어 하는 모든 남녀 이스라엘 자손이, 주님께서 모세를 시켜 명하신 모든 것을 만들려고, 기쁜 마음으로 물품을 가져다가 주님께 바쳤다.",
+    Kor:"스스로 바치고 싶어 하는 모든 남녀 이스라엘 자손이, 주께서 모세를 시켜 명하신 모든 것을 만들려고, 기쁜 마음으로 물품을 가져다가 주께 바쳤다.",
     Chn:"以色列人，无论男女，凡甘心乐意献礼物给耶和华的，都将礼物拿来，做耶和华借摩西所吩咐的一切工。",
     Eng:"All the Israelite men and women who were willing brought to the LORD freewill offerings for all the work the LORD through Moses had commanded them to do.",
     Ind:"Semua laki-laki dan perempuan, yang terdorong hatinya akan membawa sesuatu untuk segala pekerjaan yang diperintahkan TUHAN dengan perantaraan Musa untuk dilakukan--mereka itu, yakni orang Israel, membawanya sebagai pemberian sukarela bagi TUHAN."
   },
   {Bible:"Exodus", Chapter:35, Verse:30, Page:1,
-    Kor:"<회막 기술자(출 31:1-11)> ○모세가 이스라엘 자손에게 말하였다. \"주님께서 유다 지파 사람, 훌의 손자이며 우리의 아들인 브살렐을 지명하여 부르셔서,",
+    Kor:"○모세가 이스라엘 자손에게 말하였다. \"주께서 유다 지파 사람, 훌의 손자이며 우리의 아들인 브살렐을 지명하여 부르셔서,",
     Chn:"摩西对以色列人说：「犹大支派中，户珥的孙子、乌利的儿子比撒列，耶和华已经提他的名召他，",
     Eng:"Then Moses said to the Israelites, \"See, the LORD has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,",
     Ind:"Berkatalah Musa kepada orang Israel: \"Lihatlah, TUHAN telah menunjuk Bezaleel bin Uri bin Hur, dari suku Yehuda,"
   },
   {Bible:"Exodus", Chapter:35, Verse:31, Page:1,
-    Kor:"그에게 하나님의 영을 가득하게 하시고, 지혜와 총명과 지식과 온갖 기술을 갖추게 하셨습니다.",
+    Kor:"그에게 하나님의 영을 가득하게 하시고, 지혜와 총명과 지식과 온갖 기술을 갖추게 하셨다.",
     Chn:"又以　神的灵充满了他，使他有智慧、聪明、知识，能做各样的工，",
     Eng:"and he has filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts--",
     Ind:"dan telah memenuhinya dengan Roh Allah, dengan keahlian, pengertian dan pengetahuan, dalam segala macam pekerjaan,"
@@ -195,19 +195,19 @@ BibleDB.add([
     Ind:"yakni untuk membuat berbagai rancangan supaya dikerjakan dari emas, perak dan tembaga;"
   },
   {Bible:"Exodus", Chapter:35, Verse:33, Page:1,
-    Kor:"온갖 기술을 발휘하여, 보석을 깎아 물리는 일과, 나무를 조각하는 일을 하게 하셨습니다.",
+    Kor:"온갖 기술을 발휘하여, 보석을 깎아 물리는 일과, 나무를 조각하는 일을 하게 하셨다.",
     Chn:"又能刻宝石，可以镶嵌，能雕刻木头，能做各样的巧工。",
     Eng:"to cut and set stones, to work in wood and to engage in all kinds of artistic craftsmanship.",
     Ind:"untuk mengasah batu permata supaya ditatah; untuk mengukir kayu dan untuk bekerja dalam segala macam pekerjaan yang dirancang itu."
   },
   {Bible:"Exodus", Chapter:35, Verse:34, Page:1,
-    Kor:"또한 주님께서는 그와 단 지파 사람 아히사막의 아들 오홀리압에게는 남을 가르치는 능력도 주셨습니다.",
+    Kor:"또한 주께서는 그와 단 지파 사람 아히사막의 아들 오홀리압에게는, 남을 가르치는 능력도 주셨다.",
     Chn:"耶和华又使他，和但支派中亚希撒抹的儿子亚何利亚伯，心里灵明，能教导人。",
     Eng:"And he has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.",
     Ind:"Dan TUHAN menanam dalam hatinya, dan dalam hati Aholiab bin Ahisamakh dari suku Dan, kepandaian untuk mengajar."
   },
   {Bible:"Exodus", Chapter:35, Verse:35, Page:1,
-    Kor:"○주님께서는 그들에게 기술을 넘치도록 주시어, 온갖 조각하는 일과 도안하는 일을 할 수 있게 하시고, 청색 실과 자주색 실과 홍색 실과 가는 모시 실로 수를 놓아 짜는 일과 같은 모든 일을 할 수 있게 하시고, 여러 가지를 고안하게 하셨습니다.",
+    Kor:"○주께서는 그들에게 기술을 넘치도록 주시어, 온갖 조각하는 일과 도안하는 일을 할 수 있게 하시고, 청색 실과 자주색 실과 홍색 실과 가는 모시 실로 수를 놓아 짜는 일과 같은 모든 일을 할 수 있게 하시고, 여러 가지를 고안하게 하셨다.",
     Chn:"耶和华使他们的心满有智慧，能做各样的工，无论是雕刻的工，巧匠的工，用蓝色、紫色、朱红色线，和细麻、绣花的工，并机匠的工，他们都能做，也能想出奇巧的工。",
     Eng:"He has filled them with skill to do all kinds of work as craftsmen, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers--all of them master craftsmen and designers.",
     Ind:"Ia telah memenuhi mereka dengan keahlian, untuk membuat segala macam pekerjaan seorang tukang, pekerjaan seorang ahli, pekerjaan seorang yang membuat tenunan yang berwarna-warna dari kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus, dan pekerjaan seorang tukang tenun, yakni sebagai pelaksana segala macam pekerjaan dan perancang segala sesuatu."

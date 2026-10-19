@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",27,34);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:27, Verse:1, Page:1,
-    Kor:"<군대와 시민> 이스라엘 자손 가운데서 각 갈래에 부과된 모든 일을 하면서 왕을 섬기는, 각 가문의 족장과 천부장과 백부장과 서기관의 수는 다음과 같다. 그들은 한 해에 한 달씩 번갈아 가며 근무를 하였는데, 한 갈래는 이만 사천 명씩이다.",
+    Kor:"이스라엘 자손 가운데서 각 갈래에 부과된 모든 일을 하면서 왕을 섬기는, 각 가문의 족장과 천부장과 백부장과 서기관의 수는 다음과 같다. 그들은 한 해에 한 달씩 번갈아 가며 근무를 하였는데, 한 갈래는 이만 사천 명씩이다.",
     Chn:"以色列人的族长、千夫长、百夫长，和官长都分定班次，每班是二万四千人，周年按月轮流，替换出入服事王。",
     Eng:"This is the list of the Israelites- heads of families, commanders of thousands and commanders of hundreds, and their officers, who served the king in all that concerned the army divisions that were on duty month by month throughout the year. Each division consisted of 24,000 men.",
     Ind:"Adapun orang Israel, inilah daftar para kepala puak, para panglima pasukan seribu dan pasukan seratus dan para pengatur yang melayani raja dalam segala hal mengenai rombongan orang-orang yang bertugas dan libur, bulan demi bulan, sepanjang tahun. Setiap rombongan berjumlah dua puluh empat ribu orang."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Yang kedua belas untuk bulan yang kedua belas ialah Heldai, orang Netofa itu, keturunan Otniel, dan dalam rombongannya ada dua puluh empat ribu orang."
   },
   {Bible:"1Chronicles", Chapter:27, Verse:16, Page:1,
-    Kor:"<각 지파의 영도자들> ○이스라엘 각 지파의 영도자들은 다음과 같다. 르우벤 지파의 영도자는 시그리의 아들 엘리에셀이고, 시므온 지파의 영도자는 마아가의 아들 스바댜이고,",
+    Kor:"○이스라엘 각 지파의 영도자들은 다음과 같다. 르우벤 지파의 영도자는 시그리의 아들 엘리에셀이고, 시므온 지파의 영도자는 마아가의 아들 스바댜이고,",
     Chn:"管理以色列众支派的记在下面：管吕便人的是细基利的儿子以利以谢；管西缅人的是玛迦的儿子示法提雅；",
     Eng:"The officers over the tribes of Israel: over the Reubenites: Eliezer son of Zicri; over the Simeonites: Shephatiah son of Maacah;",
     Ind:"Yang mengepalai suku-suku Israel: untuk orang Ruben ialah Eliezer bin Zikhri sebagai pemimpin; untuk orang Simeon ialah Sefaca bin Maakha;"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"untuk suku Dan ialah Azareel bin Yeroham. Itulah para kepala suku-suku Israel."
   },
   {Bible:"1Chronicles", Chapter:27, Verse:23, Page:1,
-    Kor:"○주님께서 이스라엘 사람을 하늘의 별만큼 많게 해주겠다고 약속하셨기 때문에, 다윗이 스무 살 이하의 사람 숫자는 조사하지 않았다.",
+    Kor:"○주께서 이스라엘 사람을 하늘의 별만큼 많게 해주겠다고 약속하셨기 때문에, 다윗이 스무 살 이하의 사람 숫자는 조사하지 않았다.",
     Chn:"以色列人二十岁以内的，大卫没有记其数目；因耶和华曾应许说，必加增以色列人如天上的星那样多。",
     Eng:"David did not take the number of the men twenty years old or less, because the Lord had promised to make Israel as numerous as the stars in the sky.",
     Ind:"Daud tidak menghitung jumlah orang-orang yang berumur dua puluh tahun ke bawah, sebab TUHAN telah menjanjikan untuk membuat orang Israel sebanyak bintang-bintang di langit."
   },
   {Bible:"1Chronicles", Chapter:27, Verse:24, Page:1,
-    Kor:"스루야의 아들 요압이 인구조사를 시작하였으나, 이 일 때문에 주님께서 이스라엘에게 진노하셨으므로 끝마치지 못하였다. 그래서 인구조사 결과가 다윗 왕의 실록에 기록되지 못하였다.",
+    Kor:"스루야의 아들 요압이 인구조사를 시작하였으나, 이 일 때문에 주께서 이스라엘에게 진노하셨으므로 끝마치지 못하였다. 그래서 인구조사 결과가 다윗 왕의 실록에 기록되지 못하였다.",
     Chn:"洗鲁雅的儿子约押动手数点，当时耶和华的烈怒临到以色列人；因此，没有点完，数目也没有写在大卫王记上。",
     Eng:"Joab son of Zeruiah began to count the men but did not finish. Wrath came on Israel on account of this numbering, and the number was not entered in the book of the annals of King David.",
     Ind:"Memang Yoab, anak Zeruya, telah mulai menghitung, tetapi ia tidak menyelesaikannya, sebab oleh karena hal itu orang Israel tertimpa murka; dengan demikian jumlah mereka tidak dibukukan dalam kitab sejarah raja Daud."
   },
   {Bible:"1Chronicles", Chapter:27, Verse:25, Page:1,
-    Kor:"<왕실 재산 관리자> ○아디엘의 아들 아스마웻은 왕의 곳간을 맡고, 웃시야의 아들 요나단은 들녘과 성읍과 마을과 요새에 있는 곳간을 맡았다.",
+    Kor:"○아디엘의 아들 아스마웻은 왕의 곳간을 맡고, 웃시야의 아들 요나단은 들녘과 성읍과 마을과 요새에 있는 곳간을 맡았다.",
     Chn:"掌管王府库的是亚叠的儿子押斯马威。掌管田野城邑村庄保障之仓库的是乌西雅的儿子约拿单。",
     Eng:"Azmaveth son of Adiel was in charge of the royal storehouses. Jonathan son of Uzziah was in charge of the storehouses in the outlying districts, in the towns, the villages and the watchtowers.",
     Ind:"Yang mengawasi persediaan raja ialah Azmawet bin Adiel dan yang mengawasi persediaan di luar kota, di kota-kota, di desa-desa dan di dalam menara-menara lumbung ialah Yonatan bin Uzia."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Yang mengawasi kambing domba ialah Yazis, orang Hagri. Mereka ini sekalian ialah para pengawas harta milik raja Daud."
   },
   {Bible:"1Chronicles", Chapter:27, Verse:32, Page:1,
-    Kor:"<다윗의 개인 고문> ○다윗의 삼촌 요나단은 고문이며 서기관이다. 그는 사리에 밝은 사람이다. 학모니의 아들 여히엘은 왕자들을 돌보았다.",
+    Kor:"○다윗의 삼촌 요나단은 고문이며 서기관이다. 그는 사리에 밝은 사람이다. 학모니의 아들 여히엘은 왕자들을 돌보았다.",
     Chn:"大卫的叔叔约拿单作谋士；这人有智慧，又作书记。哈摩尼的儿子耶歇作王众子的师傅。",
     Eng:"Jonathan, David's uncle, was a counselor, a man of insight and a scribe. Jehiel son of Hacmoni took care of the king's sons.",
     Ind:"Yonatan, saudara ayah Daud, adalah penasihat; dia seorang cerdas dan ahli kitab. Yehiel bin Hakhmoni membantu anak-anak raja."

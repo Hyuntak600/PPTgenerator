@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",11,47);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:11, Verse:1, Page:1,
-    Kor:"<다윗이 이스라엘과 유다의 왕이 되다(삼하 5:1-10)> 온 이스라엘이 헤브론에 있는 다윗에게 몰려와서 말하였다. \"우리는 임금님과 한 골육입니다.",
+    Kor:"온 이스라엘이 헤브론에 있는 다윗에게 몰려와서 말하였다. \"우리는 임금님과 한 골육입니다.",
     Chn:"以色列众人聚集到希伯 见大卫，说：「我们原是你的骨肉。",
     Eng:"All Israel came together to David at Hebron and said, \"We are your own flesh and blood.",
     Ind:"Lalu berkumpullah seluruh Israel kepada Daud di Hebron dan berkata: \"Ketahuilah, kami ini darah dagingmu."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Telah lama, ketika Saul memerintah, engkaulah yang memimpin segala gerakan orang Israel. Dan TUHAN, Allahmu, telah berfirman kepadamu: Engkaulah yang harus menggembalakan umat-Ku Israel, dan engkaulah yang menjadi raja atas umat-Ku Israel.\""
   },
   {Bible:"1Chronicles", Chapter:11, Verse:3, Page:1,
-    Kor:"그리하여 이스라엘의 모든 장로가 헤브론으로 왕을 찾아오니, 다윗이 헤브론에서 주님 앞으로 나아가 그들과 언약을 세웠다. 그리고 그들은, 주님께서 사무엘을 시켜서 말씀하신 대로, 다윗에게 기름을 부어 이스라엘의 왕으로 삼았다.",
+    Kor:"그리하여 이스라엘의 모든 장로가 헤브론으로 왕을 찾아오니, 다윗이 헤브론에서 주님 앞으로 나아가 그들과 언약을 세웠다. 그리고 그들은, 주께서 사무엘을 시켜서 말씀하신 대로, 다윗에게 기름을 부어 이스라엘의 왕으로 삼았다.",
     Chn:"于是以色列的长老都来到希伯 见大卫王。大卫在希伯 耶和华面前与他们立约，他们就膏大卫作以色列的王，是照耶和华借撒母耳所说的话。",
     Eng:"When all the elders of Israel had come to King David at Hebron, he made a compact with them at Hebron before the LORD, and they anointed David king over Israel, as the LORD had promised through Samuel.",
     Ind:"Maka datanglah semua tua-tua Israel menghadap raja di Hebron, lalu Daud mengadakan perjanjian dengan mereka di Hebron di hadapan TUHAN, kemudian mereka mengurapi Daud menjadi raja atas Israel, seperti yang difirmankan TUHAN dengan perantaraan Samuel."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Ia memperkuat kota itu sekelilingnya, mulai dari Milo, bahkan sekelilingnya seluruhnya, sedang Yoab membangun kembali selebihnya dari kota itu."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:9, Page:1,
-    Kor:"만군의 주님께서 다윗과 함께 계시므로, 다윗이 점점 강대해졌다.",
+    Kor:"만군의 주께서 다윗과 함께 계시므로, 다윗이 점점 강대해졌다.",
     Chn:"大卫日见强盛，因为万军之耶和华与他同在。",
     Eng:"And David became more and more powerful, because the LORD Almighty was with him.",
     Ind:"Lalu makin lama makin besarlah kuasa Daud, sebab TUHAN semesta alam menyertainya."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:10, Page:1,
-    Kor:"<다윗의 용사들(삼하 23:8-39)> ○다윗이 거느린 용사들의 우두머리는 다음과 같다. 이들은, 주님께서 이스라엘에 대하여 말씀하신 대로, 다윗이 왕이 될 수 있도록 그를 적극적으로 도와, 온 이스라엘과 함께 그를 왕으로 세운 사람들이다.",
+    Kor:"○다윗이 거느린 용사들의 우두머리는 다음과 같다. 이들은, 주께서 이스라엘에 대하여 말씀하신 대로, 다윗이 왕이 될 수 있도록 그를 적극적으로 도와, 온 이스라엘과 함께 그를 왕으로 세운 사람들이다.",
     Chn:"以下记录跟随大卫勇士的首领，就是奋勇帮助他得国、照着耶和华吩咐以色列人的话、与以色列人一同立他作王的。",
     Eng:"These were the chiefs of David's mighty men--they, together with all Israel, gave his kingship strong support to extend it over the whole land, as the LORD had promised--",
     Ind:"Inilah kepala-kepala para pahlawan yang mengiringi Daud, yang telah memberi dukungan yang kuat kepadanya, bersama-sama seluruh Israel, dalam mencapai kedudukan raja dan yang mengangkat dia sebagai raja, seperti yang difirmankan TUHAN mengenai Israel."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:11, Page:1,
-    Kor:"○다윗이 거느린 용사들은 다음과 같다. 첫째는 학몬 사람의 아들 야소브암인데, 그는 a세 용사의 우두머리이다. 그는 창을 휘두르며 삼백 명과 싸워, 그들을 한꺼번에 쳐죽인 사람이다.(a 칠십인역을 따름. 히, '삼십인' 또는 '장교들')",
+    Kor:"○다윗이 거느린 용사들은 다음과 같다. 첫째는 학몬 사람의 아들 야소브암인데, 그는 세 용사의 우두머리이다. 그는 창을 휘두르며 삼백 명과 싸워, 그들을 한꺼번에 쳐죽인 사람이다.",
     Chn:"大卫勇士的数目记在下面：哈革摩尼的儿子雅朔班，他是军长的统领，一时举枪杀了三百人。",
     Eng:"this is the list of David's mighty men: Jashobeam, a Hacmonite, was chief of the officers; he raised his spear against three hundred men, whom he killed in one encounter.",
     Ind:"Inilah daftar para pahlawan yang mengiringi Daud: Yasobam bin Hakhmoni, kepala triwira; ia mengayunkan tombaknya melawan tiga ratus orang yang tertikam mati dalam satu pertempuran."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ia ada bersama-sama Daud di Pas-Damim, ketika orang Filistin berkumpul di sana untuk berperang. Ada sebidang tanah ladang penuh jelai di sana; ketika tentara melarikan diri dari hadapan orang Filistin,"
   },
   {Bible:"1Chronicles", Chapter:11, Verse:14, Page:1,
-    Kor:"그는 밭의 한가운데에 버티고 서서, 그 밭을 지키며, 블레셋 군인들을 쳐죽였다. 주님께서 크게 승리하게 하셔서 그들을 구원하여 주셨다.",
+    Kor:"그는 밭의 한가운데에 버티고 서서, 그 밭을 지키며, 블레셋 군인들을 쳐죽였다. 주께서 크게 승리하게 하셔서 그들을 구원하여 주셨다.",
     Chn:"这勇士便站在那田间击杀非利士人，救护了那田。耶和华使以色列人大获全胜。",
     Eng:"But they took their stand in the middle of the field. They defended it and struck the Philistines down, and the LORD brought about a great victory.",
     Ind:"maka berdirilah mereka di tengah-tengah ladang itu; mereka dapat mempertahankannya dan memukul kalah orang Filistin. Demikianlah diberikan TUHAN kemenangan yang besar."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Lalu timbullah keinginan pada Daud, dan ia berkata: \"Sekiranya ada orang yang memberi aku minum air dari perigi Betlehem yang ada dekat pintu gerbang!\""
   },
   {Bible:"1Chronicles", Chapter:11, Verse:18, Page:1,
-    Kor:"그러자 그 세 용사가 블레셋 진을 뚫고 나가, 베들레헴의 성문 곁에 있는 우물물을 길어 가지고 와서 다윗에게 바쳤다. 그러나 다윗은 그 물을 마시지 않고, 길어 온 물을 주님께 부어 드리고 나서,",
+    Kor:"그러자 그 세 용사가 블레셋 진을 뚫고 나가, 베들레헴의 성문 곁에 있는 우물물을 길어 가지고 와서 다윗에게 바쳤다. 그러나 다윗은 그 물을 마시지 않고, 길어 온 물을 주께 부어 드리고 나서,",
     Chn:"这三个勇士就闯过非利士人的营盘，从伯利恒城门旁的井里打水，拿来奉给大卫。他却不肯喝，将水奠在耶和华面前，",
     Eng:"So the Three broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the LORD.",
     Ind:"Lalu ketiga orang itu menerobos perkemahan orang Filistin, mereka menimba air dari perigi Betlehem yang ada dekat pintu gerbang, mengangkatnya dan membawanya kepada Daud. Tetapi Daud tidak mau meminumnya, melainkan mempersembahkannya sebagai korban curahan kepada TUHAN,"
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"katanya: \"Jauhlah dari padaku, ya Allah, untuk berbuat demikian! Patutkah aku meminum darah taruhan nyawa orang-orang ini? Sebab dengan mempertaruhkan nyawanya mereka membawanya.\" Dan tidak mau ia meminumnya. Itulah yang dilakukan ketiga pahlawan itu."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:20, Page:1,
-    Kor:"○요압의 아우인 아비새는 b삼십인 특별부대의 우두머리였다. 바로 그가 창을 휘둘러 삼백 명을 쳐서 죽인 용사이다. 그는 세 용사와 함께 유명해졌다.(b 시리아어역을 따름. 히, '세 용사')",
+    Kor:"○요압의 아우인 아비새는 삼십인 특별부대의 우두머리였다. 바로 그가 창을 휘둘러 삼백 명을 쳐서 죽인 용사이다. 그는 세 용사와 함께 유명해졌다.",
     Chn:"约押的兄弟亚比筛是这三个勇士的首领；他举枪杀了三百人，就在三个勇士里得了名。",
     Eng:"Abishai the brother of Joab was chief of the Three. He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three.",
     Ind:"Abisai, adik Yoab, dialah kepala ketiga puluh orang itu. Dan dialah yang mengayunkan tombaknya melawan tiga ratus orang yang mati ditikamnya; ia mendapat nama di antara ketiga puluh orang itu."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:21, Page:1,
-    Kor:"그는 b삼십인 특별부대 안에서 제일 뛰어난 용사였다. 그는 삼십인 특별부대의 우두머리가 되기는 하였으나, 세 용사에 견줄 만하지는 못하였다.(b 시리아어역을 따름. 히, '세 용사')",
+    Kor:"그는 삼십인 특별부대 안에서 제일 뛰어난 용사였다. 그는 삼십인 특별부대의 우두머리가 되기는 하였으나, 세 용사에 견줄 만하지는 못하였다.",
     Chn:"他在这三个勇士里是最尊贵的，所以作他们的首领；只是不及前三个勇士。",
     Eng:"He was doubly honored above the Three and became their commander, even though he was not included among them.",
     Ind:"Di antara ketiga puluh orang itu ia paling dihormati. Memang ia menjadi pemimpin mereka, tetapi ia tidak dapat menyamai triwira itu."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Selanjutnya Benaya bin Yoyada, anak seorang yang gagah perkasa, yang besar jasanya, yang berasal dari Kabzeel; ia menewaskan kedua pahlawan besar dari Moab. Juga pernah ia turun ke dalam lobang dan membunuh seekor singa pada suatu hari bersalju."
   },
   {Bible:"1Chronicles", Chapter:11, Verse:23, Page:1,
-    Kor:"그는 또 이집트 사람 하나를 죽였는데, 그 이집트 사람은 키가 c다섯 규빗이나 되는 거인이었다. 그 이집트 사람은 베틀 다리 같은 굵은 창을 들고 있었으나, 브나야는 막대기 하나만을 가지고 그에게 덤벼, 오히려 그 이집트 사람의 손에서 창을 빼앗아, 그 창으로 그를 죽였다.(c 약 2.3미터)",
+    Kor:"그는 또 이집트 사람 하나를 죽였는데, 그 이집트 사람은 키가 다섯 규빗이나 되는 거인이었다. 그 이집트 사람은 베틀 다리 같은 굵은 창을 들고 있었으나, 브나야는 막대기 하나만을 가지고 그에게 덤벼, 오히려 그 이집트 사람의 손에서 창을 빼앗아, 그 창으로 그를 죽였다.",
     Chn:"又杀了一个埃及人。埃及人身高五肘，手里拿着枪，枪杆粗如织布的机轴；比拿雅只拿着棍子下去，从埃及人手里夺过枪来，用那枪将他刺死。",
     Eng:"And he struck down an Egyptian who was seven and a half feet tall. Although the Egyptian had a spear like a weaver's rod in his hand, Benaiah went against him with a club. He snatched the spear from the Egyptian's hand and killed him with his own spear.",
     Ind:"Pula ia membunuh seorang Mesir, seorang yang tinggi perawakannya lima hasta tingginya; di tangan orang Mesir itu ada tombak seperti pesa tukang tenun, tetapi ia mendatanginya dengan tongkat, merampas tombak itu dari tangan orang Mesir itu, lalu membunuh orang itu dengan tombaknya sendiri."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Ira, orang Yetri; Gareb, orang Yetri;"
   },
   {Bible:"1Chronicles", Chapter:11, Verse:41, Page:1,
-    Kor:"헷 사람 우리야와, 알래의 아들 사밧과,",
+    Kor:"헷 사람 우리아와, 알래의 아들 사밧과,",
     Chn:"赫人乌利亚，亚莱的儿子撒拔，",
     Eng:"Uriah the Hittite, Zabad son of Ahlai,",
     Ind:"Uria, orang Het; Zabad bin Ahlai;"

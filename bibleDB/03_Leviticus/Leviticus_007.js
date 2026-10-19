@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",7,38);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:7, Verse:1, Page:1,
-    Kor:"<속건제물을 바칠 때의 규례> \"속건제사를 드리는 규례는 다음과 같다. 속건제사에 바칠 제물은 가장 거룩한 것이다.",
+    Kor:"속건제사를 드리는 규례는 다음과 같다. 속건제사에 바칠 제물은 가장 거룩한 것이다.",
     Chn:"「赎愆祭的条例乃是如此：这祭是至圣的。",
     Eng:"\"'These are the regulations for the guilt offering, which is most holy:",
     Ind:"\"Inilah hukum tentang korban penebus salah. Korban itu ialah persembahan maha kudus."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"dan lagi kedua buah pinggang dan lemak yang melekat padanya, yang ada pada pinggang, dan umbai hati yang harus dipisahkan beserta buah pinggang itu."
   },
   {Bible:"Leviticus", Chapter:7, Verse:5, Page:1,
-    Kor:"제사장은 이것들을 제단 위에 올려놓고, 주에게 살라 바치는 제사로 바쳐야 한다. 이것이 속건제사이다.",
+    Kor:"제사장은 이것들을 제단 위에 올려놓고, 주께 살라 바치는 제사로 바쳐야 한다. 이것이 속건제사이다.",
     Chn:"祭司要在坛上焚烧，为献给耶和华的火祭，是赎愆祭。",
     Eng:"The priest shall burn them on the altar as an offering made to the LORD by fire. It is a guilt offering.",
     Ind:"Haruslah imam membakar semuanya itu di atas mezbah sebagai korban api-apian bagi TUHAN; itulah korban penebus salah."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Setiap laki-laki di antara para imam haruslah memakannya; haruslah itu dimakan di suatu tempat yang kudus; itulah bagian maha kudus."
   },
   {Bible:"Leviticus", Chapter:7, Verse:7, Page:1,
-    Kor:"속건제물도 속죄제물과 같아서, 같은 규정을 이 두 제물에 함께 적용한다. 그 제물은 죄를 속하여 주는 제사장의 몫이다.\"",
+    Kor:"속건제물도 속죄제물과 같아서, 같은 규정을 이 두 제물에 함께 적용한다. 그 제물은 죄를 속하여 주는 제사장의 몫이다.",
     Chn:"赎罪祭怎样，赎愆祭也是怎样，两个祭是一个条例。献赎愆祭赎罪的祭司要得这祭物。",
     Eng:"\"'The same law applies to both the sin offering and the guilt offering: They belong to the priest who makes atonement with them.",
     Ind:"Seperti halnya dengan korban penghapus dosa, demikian juga halnya dengan korban penebus salah; satu hukum berlaku atas keduanya: imam yang mengadakan pendamaian dengan korban itu, bagi dialah korban itu."
   },
   {Bible:"Leviticus", Chapter:7, Verse:8, Page:1,
-    Kor:"<번제와 곡식제에서 제사장이 받을 몫> ○\"어떤 사람의 번제를 맡아서 드린 제사장은, 번제물에서 벗겨 낸 가죽을 자기 몫으로 차지한다.",
+    Kor:"○어떤 사람의 번제를 맡아서 드린 제사장은, 번제물에서 벗겨 낸 가죽을 자기 몫으로 차지한다.",
     Chn:"献燔祭的祭司，无论为谁奉献，要亲自得他所献那燔祭牲的皮。",
     Eng:"The priest who offers a burnt offering for anyone may keep its hide for himself.",
     Ind:"Imam yang mempersembahkan korban bakaran seseorang, bagi dia juga kulit korban bakaran yang dipersembahkannya itu."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Tiap-tiap korban sajian yang dibakar di dalam pembakaran roti, dan segala yang diolah di dalam wajan dan di atas panggangan adalah bagi imam yang mempersembahkannya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:10, Page:1,
-    Kor:"곡식제물은 모두, 기름에 반죽한 것이나 반죽하지 않은 것이나를 가릴 것 없이, 아론의 모든 아들이 똑같이 나누어서 가져야 한다.\"",
+    Kor:"곡식제물은 모두, 기름에 반죽한 것이나 반죽하지 않은 것이나를 가릴 것 없이, 아론의 모든 아들이 똑같이 나누어서 가져야 한다.",
     Chn:"凡素祭，无论是油调和的是干的，都要归亚伦的子孙，大家均分。」",
     Eng:"and every grain offering, whether mixed with oil or dry, belongs equally to all the sons of Aaron.",
     Ind:"Tiap-tiap korban sajian yang diolah dengan minyak atau yang kering adalah bagi semua anak-anak Harun, semuanya dapat bagian.\""
   },
   {Bible:"Leviticus", Chapter:7, Verse:11, Page:1,
-    Kor:"<화목제> ○\"나 주에게 화목제사의 제물을 바칠 때의 규례는 다음과 같다.",
+    Kor:"○주께 화목제사의 제물을 드릴 때의 규례는 다음과 같다.",
     Chn:"「人献与耶和华平安祭的条例乃是这样：",
     Eng:"\"'These are the regulations for the fellowship offering a person may present to the LORD:",
     Ind:"\"Inilah hukum tentang korban keselamatan, yang harus dipersembahkan orang kepada TUHAN."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Ia harus mempersembahkan persembahannya itu beserta dengan roti bundar yang beragi, di samping korban syukur yang menjadi korban keselamatannya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:14, Page:1,
-    Kor:"준비된 여러 가지 과자와 빵 가운데서 각각 한 개씩을, 주에게 높이 들어 올려 바쳐야 한다. 그렇게 바치고 나면, 그것들은 화목제사에서 피를 뿌린 제사장의 몫이 될 것이다.",
+    Kor:"준비된 여러 가지 과자와 빵 가운데서 각각 한 개씩을, 주께 높이 들어 올려 바쳐야 한다. 그렇게 바치고 나면, 그것들은 화목제사에서 피를 뿌린 제사장의 몫이 될 것이다.",
     Chn:"从各样的供物中，他要把一个饼献给耶和华为举祭，是要归给洒平安祭牲血的祭司。",
     Eng:"He is to bring one of each kind as an offering, a contribution to the LORD; it belongs to the priest who sprinkles the blood of the fellowship offerings.",
     Ind:"Dan dari padanya, yakni dari setiap bagian persembahan itu haruslah dipersembahkannya satu roti sebagai persembahan khusus bagi TUHAN. Persembahan itu adalah bagian imam yang menyiramkan darah korban keselamatan."
   },
   {Bible:"Leviticus", Chapter:7, Verse:15, Page:1,
-    Kor:"화목제사에서 감사제물로 바친 고기는, 그것을 바친 그 날로 먹어야 하고, 조금이라도 다음날 아침까지 남겨 두어서는 안 된다.",
+    Kor:"화목제사에서 감사제물로 바친 고기는, 그것을 드린 그 날로 먹어야 하고, 조금이라도 다음날 아침까지 남겨 두어서는 안 된다.",
     Chn:"为感谢献平安祭牲的肉，要在献的日子吃，一点不可留到早晨。",
     Eng:"The meat of his fellowship offering of thanksgiving must be eaten on the day it is offered; he must leave none of it till morning.",
     Ind:"Dan daging korban syukur yang menjadi korban keselamatannya itu haruslah dimakan pada hari dipersembahkannya itu. Sedikitpun dari padanya janganlah ditinggalkan sampai pagi."
   },
   {Bible:"Leviticus", Chapter:7, Verse:16, Page:1,
-    Kor:"○그러나 그가 바치는 희생제물이 서약한 것을 지키려고 바치는 제물이거나, 그저 바치고 싶어서 스스로 바치는 제물이면, 그는 그 제물을 자기가 바친 그 날에 먹을 것이며, 먹고 남은 것이 있으면, 그 다음날까지 다 먹어야 한다.",
+    Kor:"○그러나 그가 드리는 희생제물이 서약한 것을 지키려고 드리는 제물이거나, 그저 드리고 싶어서 스스로 드리는 제물이면, 그는 그 제물을 자기가 바친 그 날에 먹을 것이며, 먹고 남은 것이 있으면, 그 다음날까지 다 먹어야 한다.",
     Chn:"若所献的是为还愿，或是甘心献的，必在献祭的日子吃，所剩下的第二天也可以吃。",
     Eng:"\"'If, however, his offering is the result of a vow or is a freewill offering, the sacrifice shall be eaten on the day he offers it, but anything left over may be eaten on the next day.",
     Ind:"Jikalau korban sembelihan yang dipersembahkan itu merupakan korban nazar atau korban sukarela, haruslah itu dimakan pada hari mempersembahkannya dan yang selebihnya boleh juga dimakan pada keesokan harinya."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Tetapi apa yang masih tinggal dari daging korban sembelihan itu sampai hari yang ketiga, haruslah dibakar habis dengan api."
   },
   {Bible:"Leviticus", Chapter:7, Verse:18, Page:1,
-    Kor:"그가 화목제물로 바친 희생제사의 고기 가운데서, 사흘째 되는 날까지 남은 것을 먹었으면, 나 주는 그것을 바친 사람을 기쁘게 생각하지 않을 것이며, 그가 드린 제사가 그에게 아무런 효험도 나타내지 못할 것이다. 그뿐만 아니라, 그런 행위는 역겨운 것이어서, 날 지난 제물을 먹는 사람은 벌을 03 7:받게 된다.",
+    Kor:"그가 화목제물로 바친 희생제사의 고기 가운데서, 사흘째 되는 날까지 남은 것을 먹었으면, 주께서는 그것을 바친 사람을 기쁘게 생각하지 않으실 것이며, 그가 드린 제사가 그에게 아무런 효험도 나타내지 못할 것이다. 그뿐만 아니라, 그런 행위는 역겨운 것이어서, 날 지난 제물을 먹는 사람은 벌을 받게 된다.",
     Chn:"第三天若吃了平安祭的肉，这祭必不蒙悦纳，人所献的也不算为祭，反为可憎嫌的，吃这祭肉的，就必担当他的罪孽。",
     Eng:"If any meat of the fellowship offering is eaten on the third day, it will not be accepted. It will not be credited to the one who offered it, for it is impure; the person who eats any of it will be held responsible.",
     Ind:"Karena jikalau pada hari yang ketiga masih dimakan dari daging korban keselamatan itu, maka TUHAN tidak berkenan akan orang yang mempersembahkannya dan korban itu dianggap batal baginya, bahkan menjadi sesuatu yang jijik, dan orang yang memakannya harus menanggung kesalahannya sendiri."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Bila daging itu kena kepada sesuatu yang najis, janganlah dimakan, tetapi haruslah dibakar habis dengan api. Tiap-tiap orang yang tahir boleh memakan dari daging korban itu."
   },
   {Bible:"Leviticus", Chapter:7, Verse:20, Page:1,
-    Kor:"그렇지만 주에게 화목제물로 바친 희생제사의 고기를 불결한 상태에서 먹는 사람이 있으면, 그는 백성에게서 끊어지게 하여야 한다.",
+    Kor:"그렇지만 주께 화목제물로 바친 희생제사의 고기를 불결한 상태에서 먹는 사람이 있으면, 그는 백성에게서 끊어지게 하여야 한다.",
     Chn:"只是献与耶和华平安祭的肉，人若不洁净而吃了，这人必从民中剪除。",
     Eng:"But if anyone who is unclean eats any meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.",
     Ind:"Tetapi seseorang yang memakan daging dari korban keselamatan yang untuk TUHAN, sedang ia dalam keadaan najis, haruslah nyawa orang itu dilenyapkan dari antara bangsanya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:21, Page:1,
-    Kor:"그리고 어떤 사람이 모든 불결한 것, 곧 불결한 사람이나 불결한 짐승이나 어떤 불결한 물건에 닿고 나서, 주에게 화목제사로 바친 제물의 고기를 먹으면, 백성에게서 끊어지게 하여야 한다.\"",
+    Kor:"그리고 어떤 사람이 모든 불결한 것, 곧 불결한 사람이나 불결한 짐승이나 어떤 불결한 물건에 닿고 나서, 주께 화목제사로 드린 제물의 고기를 먹으면, 백성에게서 끊어지게 하여야 한다.\"",
     Chn:"有人摸了什么不洁净的物，或是人的不洁净，或是不洁净的牲畜，或是不洁可憎之物，吃了献与耶和华平安祭的肉，这人必从民中剪除。」",
     Eng:"If anyone touches something unclean--whether human uncleanness or an unclean animal or any unclean, detestable thing--and then eats any of the meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.'\"",
     Ind:"Dan apabila seseorang kena kepada sesuatu yang najis, yakni kepada kenajisan berasal dari manusia, atau kepada hewan yang najis atau kepada setiap binatang yang merayap yang najis, lalu memakan dari pada daging korban keselamatan yang untuk TUHAN, maka haruslah nyawa orang itu dilenyapkan dari antara bangsanya.\""
   },
   {Bible:"Leviticus", Chapter:7, Verse:22, Page:1,
-    Kor:"<피와 기름기는 먹지 못한다> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Lemak bangkai atau lemak binatang yang mati diterkam boleh dipergunakan untuk segala keperluan, tetapi jangan sekali-kali kamu memakannya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:25, Page:1,
-    Kor:"나 주에게 제물로 살라 바친 동물의 기름기를 먹는 사람은 누구든지 백성에게서 끊어지게 하여야 한다.",
+    Kor:"주께 제물로 살라 바친 동물의 기름기를 먹는 사람은, 누구든지 백성에게서 끊어지게 하여야 한다.",
     Chn:"无论何人吃了献给耶和华当火祭牲畜的脂油，那人必从民中剪除。",
     Eng:"Anyone who eats the fat of an animal from which an offering by fire may be made to the LORD must be cut off from his people.",
     Ind:"Karena setiap orang yang memakan lemak dari hewan yang dipergunakan untuk mempersembahkan korban api-apian bagi TUHAN, nyawa orang yang memakan itu, haruslah dilenyapkan dari antara bangsanya."
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"Setiap orang yang memakan darah apapun, nyawa orang itu haruslah dilenyapkan dari antara bangsanya.\""
   },
   {Bible:"Leviticus", Chapter:7, Verse:28, Page:1,
-    Kor:"<화목제에서 제사장이 받을 몫> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa, demikian:"
   },
   {Bible:"Leviticus", Chapter:7, Verse:29, Page:1,
-    Kor:"\"이스라엘 자손에게 다음과 같이 일러라. ○나 주에게 화목제사의 제물을 바치려는 사람은 바칠 제물을 주에게로 가져 와야 한다. 그가 바칠 화목제물에서",
+    Kor:"\"이스라엘 자손에게 다음과 같이 일러라. ○주께 화목제사의 제물을 바치려는 사람은 드릴 제물을 주께로 가져 와야 한다. 그가 드릴 화목제물에서",
     Chn:"「你晓谕以色列人说：献平安祭给耶和华的，要从平安祭中取些来奉给耶和华。",
     Eng:"\"Say to the Israelites: 'Anyone who brings a fellowship offering to the LORD is to bring part of it as his sacrifice to the LORD.",
     Ind:"\"Katakanlah kepada orang Israel: Orang yang mempersembahkan korban keselamatannya kepada TUHAN, haruslah membawa kepada TUHAN sebagian dari korban keselamatannya itu sebagai persembahannya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:30, Page:1,
-    Kor:"나 주에게 살라 바칠 제물을 자기 손으로 직접 가져 와야 한다. 제물의 가슴에 붙은 기름기와 가슴 고기를 가져 와야 한다. 그 가슴 고기는 흔들어서, 주 앞에 흔들어 바치는 제물로 바쳐야 한다.",
+    Kor:"주께 살라 바칠 제물을 자기 손으로 직접 가져 와야 한다. 제물의 가슴에 붙은 기름기와 가슴 고기를 가져 와야 한다. 그 가슴 고기는 흔들어서, 주 앞에 흔들어 바치는 제물로 드려야 한다.",
     Chn:"他亲手献给耶和华的火祭，就是脂油和胸，要带来，好把胸在耶和华面前作摇祭，摇一摇。",
     Eng:"With his own hands he is to bring the offering made to the LORD by fire; he is to bring the fat, together with the breast, and wave the breast before the LORD as a wave offering.",
     Ind:"Dengan tangannya sendirilah harus ia membawa segala korban api-apian TUHAN; adapun lemaknya, haruslah dibawanya beserta dadanya, supaya dadanya itu diunjukkan sebagai persembahan unjukan di hadapan TUHAN."
@@ -201,31 +201,31 @@ BibleDB.add([
     Ind:"Siapa dari antara anak-anak Harun yang mempersembahkan darah dan lemak korban keselamatan, maka dialah yang harus mendapat paha kanan itu sebagai bagiannya."
   },
   {Bible:"Leviticus", Chapter:7, Verse:34, Page:1,
-    Kor:"화목제사의 제물 가운데서, 너희가 주에게 흔들어 바친 가슴 고기와 들어 올려 바친 넓적다리를 나 주가 이스라엘 자손에게서 받아서, 그것들을 제사장 아론과 그의 아들들에게 주었기 때문이다. 이것은 그들이 이스라엘 자손에게서 영원히 받을 몫이다.\"",
+    Kor:"화목제사의 제물 가운데서, 너희가 주께 흔들어 바친 가슴 고기와 들어 올려 바친 넓적다리를 주께서 이스라엘 자손에게서 받아서, 그것들을 제사장 아론과 그의 아들들에게 주었기 때문이다. 이것은 그들이 이스라엘 자손에게서 영원히 받을 몫이다.\"",
     Chn:"因为我从以色列人的平安祭中，取了这摇的胸和举的腿给祭司亚伦和他子孙，作他们从以色列人中所永得的分。」",
     Eng:"From the fellowship offerings of the Israelites, I have taken the breast that is waved and the thigh that is presented and have given them to Aaron the priest and his sons as their regular share from the Israelites.'\"",
     Ind:"Karena dada persembahan unjukan dan paha persembahan khusus telah Kuambil dari orang Israel dari segala korban keselamatan mereka dan telah Kuberikan kepada imam Harun, dan kepada anak-anaknya; itulah suatu ketetapan yang berlaku bagi orang Israel untuk selamanya.\""
   },
   {Bible:"Leviticus", Chapter:7, Verse:35, Page:1,
-    Kor:"<맺는 말(1)> ○이것은 주님께 살라 바치는 제물 가운데서, 아론과 그의 아들들이 주님의 제사장으로 임명받은 날부터 받을 몫이다.",
+    Kor:"○이것은 주께 살라 바치는 제물 가운데서, 아론과 그의 아들들이 주의 제사장으로 임명받은 날부터 받을 몫이다.",
     Chn:"这是从耶和华火祭中，作亚伦受膏的分和他子孙受膏的分，正在摩西叫他们前来给耶和华供祭司职分的日子，",
     Eng:"This is the portion of the offerings made to the LORD by fire that were allotted to Aaron and his sons on the day they were presented to serve the LORD as priests.",
     Ind:"Itulah bagian Harun dan bagian anak-anaknya dari segala korban api-apian TUHAN pada hari mereka itu disuruh datang untuk memegang jabatan imam bagi TUHAN;"
   },
   {Bible:"Leviticus", Chapter:7, Verse:36, Page:1,
-    Kor:"주님께서는, 그들이 기름부음을 받아 임명되는 날부터 이것을 그들에게 주도록, 이스라엘 자손에게 명하셨다. 이것은 그들이 대대로 영원히 지켜야 할 규례이다.",
+    Kor:"주께서는, 그들이 기름부음을 받아 임명되는 날부터 이것을 그들에게 주도록, 이스라엘 자손에게 명하셨다. 이것은 그들이 대대로 영원히 지켜야 할 규례이다.",
     Chn:"就是在摩西膏他们的日子，耶和华吩咐以色列人给他们的。这是他们世世代代永得的分。",
     Eng:"On the day they were anointed, the LORD commanded that the Israelites give this to them as their regular share for the generations to come.",
     Ind:"itulah yang harus diserahkan menurut perintah TUHAN dari pihak Israel kepada mereka pada hari mereka itu diurapi-Nya; itulah suatu ketetapan untuk selamanya bagi mereka turun-temurun."
   },
   {Bible:"Leviticus", Chapter:7, Verse:37, Page:1,
-    Kor:"<맺는 말(2)> ○이것은 번제와 곡식제와 속죄제와 속건제와 위임제와 화목제의 제물에 관한 규례이다.",
+    Kor:"○이것은 번제와 곡식제와 속죄제와 속건제와 위임제와 화목제의 제물에 관한 규례이다.",
     Chn:"这就是燔祭、素祭、赎罪祭、赎愆祭，和平安祭的条例，并承接圣职的礼，",
     Eng:"These, then, are the regulations for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering and the fellowship offering,",
     Ind:"Itulah hukum tentang korban bakaran, korban sajian, korban penghapus dosa, korban penebus salah, persembahan pentahbisan dan korban keselamatan,"
   },
   {Bible:"Leviticus", Chapter:7, Verse:38, Page:1,
-    Kor:"이 규례는, 이스라엘 자손에게 시내 광야에서 주님께 제사를 드리라고 명하시던 날에, 주님께서 시내 산에서 모세에게 명하신 것이다.",
+    Kor:"이 규례는, 이스라엘 자손에게 시내 광야에서 주께 제사를 드리라고 명하시던 날에, 주께서 시내 산에서 모세에게 명하신 것이다.",
     Chn:"都是耶和华在西奈山所吩咐摩西的，就是他在西奈旷野吩咐以色列人献供物给耶和华之日所说的。",
     Eng:"which the LORD gave Moses on Mount Sinai on the day he commanded the Israelites to bring their offerings to the LORD, in the Desert of Sinai.",
     Ind:"yang diperintahkan TUHAN kepada Musa di atas gunung Sinai pada hari TUHAN memerintahkan kepada orang Israel mempersembahkan persembahan mereka kepada TUHAN di padang gurun Sinai."

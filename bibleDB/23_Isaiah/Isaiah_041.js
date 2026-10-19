@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",41,29);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:41, Verse:1, Page:1,
-    Kor:"<하나님께서 이스라엘에게 보증하시다> \"섬들아, 나의 앞에서 잠잠하여라. 백성들아, 송사를 가져 오너라. 가까이 와서 말하여 보아라. 와서 함께 판가름하여 보자.",
+    Kor:"\"섬들아, 나의 앞에서 잠잠하여라. 백성들아, 송사를 가져 오너라. 가까이 와서 말하여 보아라. 와서 함께 판가름하여 보자.",
     Chn:"众海岛啊，当在我面前静默； 众民当从新得力， 都要近前来才可以说话， 我们可以彼此辩论。",
     Eng:"\"Be silent before me, you islands! Let the nations renew their strength! Let them come forward and speak; let us meet together at the place of judgment.",
     Ind:"Dengarkanlah Aku dengan berdiam diri, hai pulau-pulau; hendaklah bangsa-bangsa mendapat kekuatan baru! Biarlah mereka datang mendekat, kemudian berbicara; baiklah kita tampil bersama-sama untuk berperkara!"
   },
   {Bible:"Isaiah", Chapter:41, Verse:2, Page:1,
-    Kor:"누가 동방에서 한 정복자를 일으켰느냐? 누가 그를 a가는 곳마다 승리하게 하였느냐? 누가 민족들을 그에게 굴복하게 하였느냐? 누가 그를 왕들의 통치자로 만들었느냐? 그의 칼은 그들을 쳐서 티끌처럼 만들고, 그의 활은 그들을 흩어서 검불처럼 날리게 하였다. (a 또는 '의로 불러서 그를 섬기게 하였느냐?')",
+    Kor:"누가 동방에서 한 정복자를 일으켰느냐? 누가 그를 가는 곳마다 승리하게 하였느냐? 누가 민족들을 그에게 굴복하게 하였느냐? 누가 그를 왕들의 통치자로 만들었느냐? 그의 칼은 그들을 쳐서 티끌처럼 만들고, 그의 활은 그들을 흩어서 검불처럼 날리게 하였다.",
     Chn:"谁从东方兴起一人， 凭公义召他来到脚前呢？ 耶和华将列国交给他， 使他管辖君王， 把他们如灰尘交与他的刀， 如风吹的碎秸交与他的弓。",
     Eng:"\"Who has stirred up one from the east, calling him in righteousness to his service? He hands nations over to him and subdues kings before him. He turns them to dust with his sword, to windblown chaff with his bow.",
     Ind:"Siapakah yang menggerakkan dia dari timur, menggerakkan dia yang mendapat kemenangan di setiap langkahnya, yang menaklukkan bangsa-bangsa ke depannya dan menurunkan raja-raja? Pedangnya membuat mereka seperti debu dan panahnya membuat mereka seperti jerami yang tertiup."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Siapakah yang melakukan dan mengerjakan semuanya itu? Dia yang dari dahulu memanggil bangkit keturunan-keturunan, Aku, TUHAN, yang terdahulu, dan bagi mereka yang terkemudian Aku tetap Dia juga."
   },
   {Bible:"Isaiah", Chapter:41, Verse:5, Page:1,
-    Kor:"섬들이 주님께서 하신 일을 보고 두려워한다. 저 멀리 땅 끝에 있는 나라들이 무서워서 떤다. 사람들이 함께 모여서 나온다.",
+    Kor:"섬들이, 주께서 하신 일을 보고 두려워한다. 저 멀리 땅 끝에 있는 나라들이 무서워서 떤다. 사람들이 함께 모여서 나온다.",
     Chn:"海岛看见就都害怕； 地极也都战兢， 就近前来。",
     Eng:"The islands have seen it and fear; the ends of the earth tremble. They approach and come forward;",
     Ind:"Pulau-pulau telah melihatnya dan menjadi takut, ujung-ujung bumipun menjadi gemetar; mereka datang dan makin mendekat."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sebab Aku ini, TUHAN, Allahmu, memegang tangan kananmu dan berkata kepadamu: \"Janganlah takut, Akulah yang menolong engkau.\""
   },
   {Bible:"Isaiah", Chapter:41, Verse:14, Page:1,
-    Kor:"너 지렁이 같은 야곱아, 벌레 같은 이스라엘아, 두려워하지 말아라. 주님께서 말씀하시기를 '내가 너를 돕겠다. 나 이스라엘의 거룩한 하나님이 너를 속량한다'고 하셨다.",
+    Kor:"너 지렁이 같은 야곱아, 벌레 같은 이스라엘아, 두려워하지 말아라. 주께서 말씀하시기를 '내가 너를 돕겠다. 나 이스라엘의 거룩한 하나님이 너를 속량한다'고 하셨다.",
     Chn:"你这虫雅各和你们以色列人， 不要害怕！ 耶和华说：我必帮助你。 你的救赎主就是以色列的圣者。",
     Eng:"Do not be afraid, O worm Jacob, O little Israel, for I myself will help you,\" declares the LORD, your Redeemer, the Holy One of Israel.",
     Ind:"Janganlah takut, hai si cacing Yakub, hai si ulat Israel! Akulah yang menolong engkau, demikianlah firman TUHAN, dan yang menebus engkau ialah Yang Mahakudus, Allah Israel."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Aku akan menanam pohon aras di padang gurun, pohon penaga, pohon murad dan pohon minyak; Aku akan menumbuhkan pohon sanobar di padang belantara dan pohon berangan serta pohon cemara di sampingnya,"
   },
   {Bible:"Isaiah", Chapter:41, Verse:20, Page:1,
-    Kor:"사람들이 이것을 보고, 주님께서 이 일을 몸소 하셨다는 것을 알게 될 것이다. 이스라엘의 거룩하신 하나님께서 이것을 창조하셨다는 것을 깨닫게 될 것이다.",
+    Kor:"사람들이 이것을 보고, 주께서 이 일을 몸소 하셨다는 것을 알게 될 것이다. 이스라엘의 거룩하신 하나님께서 이것을 창조하셨다는 것을 깨닫게 될 것이다.",
     Chn:"好叫人看见、知道、 思想、明白； 这是耶和华的手所做的， 是以色列的圣者所造的。",
     Eng:"so that people may see and know, may consider and understand, that the hand of the LORD has done this, that the Holy One of Israel has created it.",
     Ind:"supaya semua orang melihat dan mengetahui, memperhatikan dan memahami, bahwa tangan TUHAN yang membuat semuanya ini dan Yang Mahakudus, Allah Israel, yang menciptakannya."
   },
   {Bible:"Isaiah", Chapter:41, Verse:21, Page:1,
-    Kor:"<주님께서 거짓 신들에게 도전하시다> 주님께서 말씀하신다. \"민족의 신들아, 소송을 제기하여 보아라.\" \"너희는 확실한 증거를 제시하여 보아라.\" 야곱의 왕께서 말씀하신다.",
+    Kor:"주께서 말씀하신다. \"민족의 신들아, 소송을 제기하여 보아라.\" \"너희는 확실한 증거를 제시하여 보아라.\"",
     Chn:"耶和华对假神说： 你们要呈上你们的案件； 雅各的君说： 你们要声明你们确实的理由。",
     Eng:"\"Present your case,\" says the LORD. \"Set forth your arguments,\" says Jacob's King.",
     Ind:"Ajukanlah perkaramu, firman TUHAN, kemukakanlah alasan-alasanmu, firman Raja, Allah Yakub."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Biarlah mereka maju dan memberitahukan kepada kami apa yang akan terjadi! Nubuat yang dahulu, beritahukanlah apa artinya, supaya kami memperhatikannya, atau hal-hal yang akan datang, kabarkanlah kepada kami, supaya kami mengetahui kesudahannya!"
   },
   {Bible:"Isaiah", Chapter:41, Verse:23, Page:1,
-    Kor:"장차 올 일들을 말하여 보아라. 그러면 우리가 너희들이 신이라는 것을 알 수 있을 것이다. 복을 내리든 화를 내리든, 좀 하여 보아라. 그러면 우리가 모두 놀라며 두려워하게 될 것이다.",
+    Kor:"장차 올 일들을 말하여 보아라. 그러면 우리가, 너희들이 신이라는 것을 알 수 있을 것이다. 복을 내리든 화를 내리든, 좀 하여 보아라. 그러면, 우리가 모두 놀라며 두려워하게 될 것이다.",
     Chn:"要说明后来的事， 好叫我们知道你们是神。 你们或降福，或降祸， 使我们惊奇，一同观看。",
     Eng:"tell us what the future holds, so we may know that you are gods. Do something, whether good or bad, so that we will be dismayed and filled with fear.",
     Ind:"Beritahukanlah hal-hal yang akan datang kemudian, supaya kami mengetahui, bahwa kamu ini sungguh allah; bertindak sajalah, biar secara baik ataupun secara buruk, supaya kami bersama-sama tercengang melihatnya!"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, kamu ini adalah seperti tidak ada dan perbuatan-perbuatanmu adalah hampa; orang yang memilih kamu adalah kejijikan."
   },
   {Bible:"Isaiah", Chapter:41, Verse:25, Page:1,
-    Kor:"\"내가 북쪽에서 한 사람을 일으켜 오게 하였다. 나의 이름을 부르는 그 사람을 해 뜨는 곳에서 오게 하였다. 그가 와서, 토기장이가 진흙을 밟아 이기듯, 통치자들을 진흙처럼 밟을 것이다.\"",
+    Kor:"\"내가 북쪽에서 한 사람을 일으켜 오게 하였다. 나의 이름을 부르는 그 사람을 해 뜨는 곳에서 오게 하였다. 그가 와서, 토기장이가 진흙을 밟아 이기듯, 통치자들을 진흙처럼 밟을 것이다.",
     Chn:"我从北方兴起一人； 他是求告我名的， 从日出之地而来。 他必临到掌权的， 好像临到灰泥， 仿佛窑匠踹泥一样。",
     Eng:"\"I have stirred up one from the north, and he comes--one from the rising sun who calls on my name. He treads on rulers as if they were mortar, as if he were a potter treading the clay.",
     Ind:"Aku telah menggerakkan seorang dari utara dan ia telah datang, dari sebelah matahari terbit Aku telah memanggil dia dengan namanya. Seperti tukang periuk menginjak-injak tanah liat, demikian dia akan menginjak-injak penguasa-penguasa seperti lumpur."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Siapakah yang memberitahukannya dari mulanya, sehingga kami mengetahuinya, dan dari dahulu, sehingga kami mengatakan: \"Benarlah dia?\" Sungguh, tidak ada orang yang memberitahukannya, tidak ada orang yang mengabarkannya, tidak ada orang yang mendengar sepatah katapun dari padamu."
   },
   {Bible:"Isaiah", Chapter:41, Verse:27, Page:1,
-    Kor:"\"나 주가 비로소 처음부터 시온에게 알렸다. '이런 일들을 보아라' 하고 말하였다. 내가 기쁜 소식을 전할 사람을 예루살렘에 보냈다.",
+    Kor:"나 주가 비로소 처음부터 시온에게 알렸다. '이런 일들을 보아라' 하고 말하였다. 내가 기쁜 소식을 전할 사람을 예루살렘에 보냈다.",
     Chn:"我首先对锡安说： 看哪，我要将一位报好信息的赐给耶路撒冷。",
     Eng:"I was the first to tell Zion, 'Look, here they are!' I gave to Jerusalem a messenger of good tidings.",
     Ind:"Sebagai yang pertama Aku memberitahukannya kepada Sion, dan Aku memberikan orang yang membawa kabar baik kepada Yerusalem."

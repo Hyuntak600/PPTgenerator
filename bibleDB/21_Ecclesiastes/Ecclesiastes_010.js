@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Hati orang berhikmat menuju ke kanan, tetapi hati orang bodoh ke kiri."
   },
   {Bible:"Ecclesiastes", Chapter:10, Verse:3, Page:1,
-    Kor:"어리석은 자는 길을 갈 때에도, 생각 없이 자기의 어리석음을 누구에게나 드러낸다.",
+    Kor:"어리석은 자는 길을 갈 때에도, 생각없이 자기의 어리석음을 누구에게나 드러낸다.",
     Chn:"并且愚昧人行路显出无知， 对众人说，他是愚昧人。",
     Eng:"Even as he walks along the road, the fool lacks sense and shows everyone how stupid he is.",
     Ind:"Juga kalau ia berjalan di lorong orang bodoh itu tumpul pikirannya, dan ia berkata kepada setiap orang: \"Orang itu bodoh!\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Jika amarah penguasa menimpa engkau, janganlah meninggalkan tempatmu, karena kesabaran mencegah kesalahan-kesalahan besar."
   },
   {Bible:"Ecclesiastes", Chapter:10, Verse:5, Page:1,
-    Kor:"○내가 a세상에서 본 잘못된 일 또 하나는, 역시 통치자에게서 볼 수 있는 크나큰 허물이다.(a 히, '해 아래')",
+    Kor:"내가 세상에서 본 잘못된 일 또 하나는, 역시 통치자에게서 볼 수 있는 크나큰 허물이다.",
     Chn:"我见日光之下有一件祸患， 似乎出于掌权的错误，",
     Eng:"There is an evil I have seen under the sun, the sort of error that arises from a ruler:",
     Ind:"Ada suatu kejahatan yang kulihat di bawah matahari sebagai kekhilafan yang berasal dari seorang penguasa:"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Jika besi menjadi tumpul dan tidak diasah, maka orang harus memperbesar tenaga, tetapi yang terpenting untuk berhasil adalah hikmat."
   },
   {Bible:"Ecclesiastes", Chapter:10, Verse:11, Page:1,
-    Kor:"뱀을 부리지도 못하고 뱀에게 물리면, 뱀을 부린다는 그 사람은 쓸 데가 없다.",
+    Kor:"뱀을 부리지도 못하고 뱀에게 물리면, 뱀을 부리는 그 사람은 쓸 데가 없다.",
     Chn:"未行法术以先，蛇若咬人， 后行法术也是无益。",
     Eng:"If a snake bites before it is charmed, there is no profit for the charmer.",
     Ind:"Jika ular memagut sebelum mantera diucapkan, maka tukang mantera tidak akan berhasil."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Jerih payah orang bodoh melelahkan orang itu sendiri, karena ia tidak mengetahui jalan ke kota."
   },
   {Bible:"Ecclesiastes", Chapter:10, Verse:16, Page:1,
-    Kor:"왕은 b어리고, 대신들은 이른 아침부터 잔치에 빠져 있는 나라여, 너는 저주를 받을 것이다. (b 또는 '종이고')",
+    Kor:"왕은 어리고, 대신들은 이른 아침부터 잔치에 빠져 있는 나라여, 너는 저주를 받을 것이다.",
     Chn:"邦国啊，你的王若是孩童， 你的群臣早晨宴乐， 你就有祸了！",
     Eng:"Woe to you, O land whose king was a servant and whose princes feast in the morning.",
     Ind:"Wahai engkau tanah, kalau rajamu seorang kanak-kanak, dan pemimpin-pemimpinmu pagi-pagi sudah makan!"

@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",15,38);
 BibleDB.add([
   {Bible:"2Kings", Chapter:15, Verse:1, Page:1,
-    Kor:"<유다 왕 아사랴(대하 26:1-23)> 이스라엘의 여로보암 왕 제 이십칠년에 유다의 아마샤 왕의 아들 아사랴가 왕이 되었다.",
+    Kor:"이스라엘의 여로보암 왕 제 이십칠년에 유다의 아마샤 왕의 아들 아사랴가 왕이 되었다.",
     Chn:"以色列王耶罗波安二十七年，犹大王亚玛谢的儿子亚撒利雅登基，",
     Eng:"In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.",
     Ind:"Dalam tahun kedua puluh tujuh zaman Yerobeam, raja Israel, Azarya, anak Amazia raja Yehuda menjadi raja."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Ia berumur enam belas tahun pada waktu ia menjadi raja dan lima puluh dua tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Yekholya, dari Yerusalem."
   },
   {Bible:"2Kings", Chapter:15, Verse:3, Page:1,
-    Kor:"그는 자기의 아버지 아마샤가 한 모든 일을 본받아, 주님께서 보시기에 올바른 일을 하였으나,",
+    Kor:"그는 자기의 아버지 아마샤가 한 모든 일을 본받아, 주께서 보시기에 올바른 일을 하였으나,",
     Chn:"亚撒利雅行耶和华眼中看为正的事，效法他父亲亚玛谢一切所行的；",
     Eng:"He did what was right in the eyes of the LORD, just as his father Amaziah had done.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, tepat seperti yang dilakukan Amazia, ayahnya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Namun demikian, bukit-bukit pengorbanan tidaklah dijauhkan. Bangsa itu masih mempersembahkan dan membakar korban di bukit-bukit itu."
   },
   {Bible:"2Kings", Chapter:15, Verse:5, Page:1,
-    Kor:"그리하여 주님께서 왕을 치셨으므로, 왕은 죽을 때까지 a나병 환자가 되었고, 격리된 궁에서 살았다. 왕자 요담이 왕실을 관리하며 나라의 백성을 다스렸다.(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"그리하여 주께서 왕을 치셨으므로, 왕은 죽을 때까지 나병 환자가 되었고, 격리된 궁에서 살았다. 왕자 요담이 왕실을 관리하며 나라의 백성을 다스렸다.",
     Chn:"耶和华降灾与王，使他长大麻风，直到死日，他就住在别的宫里。他的儿子约坦管理家事，治理国民。",
     Eng:"The LORD afflicted the king with leprosy until the day he died, and he lived in a separate house. Jotham the king's son had charge of the palace and governed the people of the land.",
     Ind:"Maka TUHAN menimpakan tulah kepada raja, sehingga ia sakit kusta sampai hari kematiannya, dan tinggal dalam sebuah rumah pengasingan. Dan Yotam, anak raja, mengepalai istana dan menjalankan pemerintahan atas rakyat negeri itu."
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"Kemudian Azarya mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud. Maka Yotam, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:15, Verse:8, Page:1,
-    Kor:"<이스라엘 왕 스가랴> ○유다의 아사랴 왕 제 삼십팔년에 여로보암의 아들 스가랴가 이스라엘의 왕이 되어서, 사마리아에서 여섯 달 동안 다스렸다.",
+    Kor:"○유다의 아사랴 왕 제 삼십팔년에 여로보암의 아들 스가랴가 이스라엘의 왕이 되어서, 사마리아에서 여섯 달 동안 다스렸다.",
     Chn:"犹大王亚撒利雅三十八年，耶罗波安的儿子撒迦利雅在撒马利亚作以色列王六个月。",
     Eng:"In the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam became king of Israel in Samaria, and he reigned six months.",
     Ind:"Dalam tahun ketiga puluh delapan zaman Azarya, raja Yehuda, Zakharia, anak Yerobeam, menjadi raja atas Israel di Samaria. Ia memerintah enam bulan lamanya."
   },
   {Bible:"2Kings", Chapter:15, Verse:9, Page:1,
-    Kor:"그도 또한 조상이 한 것처럼 주님께서 보시기에 악을 행하고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
+    Kor:"그도 또한 조상이 한 것처럼 주께서 보시기에 악을 행하고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
     Chn:"他行耶和华眼中看为恶的事，效法他列祖所行的，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
     Eng:"He did evil in the eyes of the LORD, as his fathers had done. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN seperti yang telah dilakukan oleh nenek moyangnya. Ia tidak menjauh dari dosa-dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"2Kings", Chapter:15, Verse:10, Page:1,
-    Kor:"야베스의 아들 살룸이 역모를 꾀하여 b백성 앞에서 그를 죽이고, 그의 뒤를 이어 왕이 되었다.(b 몇몇 칠십인역 사본에는 '이블르암에서')",
+    Kor:"야베스의 아들 살룸이 역모를 꾀하여 백성 앞에서 그를 죽이고, 그의 뒤를 이어 왕이 되었다.",
     Chn:"雅比的儿子沙龙背叛他，在百姓面前击杀他，篡了他的位。",
     Eng:"Shallum son of Jabesh conspired against Zechariah. He attacked him in front of the people, assassinated him and succeeded him as king.",
     Ind:"Salum bin Yabesh mengikat persepakatan melawan dia, membunuh dia di Yibleam, kemudian menjadi raja menggantikan dia."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Zakharia, sesungguhnya semuanya itu tertulis dalam kitab sejarah raja-raja Israel."
   },
   {Bible:"2Kings", Chapter:15, Verse:12, Page:1,
-    Kor:"○주님께서 예후에게, 그에게서 난 자손이 사 대까지 이스라엘의 왕좌에 앉을 것이라고 말씀하신 그대로 된 것이다.",
+    Kor:"○주께서 예후에게, 그에게서 난 자손이 사 대까지 이스라엘의 왕좌에 앉을 것이라고 말씀하신 그대로 된 것이다.",
     Chn:"这是从前耶和华应许耶户说：「你的子孙必坐以色列的国位直到四代。」这话果然应验了。",
     Eng:"So the word of the LORD spoken to Jehu was fulfilled: \"Your descendants will sit on the throne of Israel to the fourth generation.\"",
     Ind:"Bukankah begini firman TUHAN yang diucapkan-Nya kepada Yehu: \"Anak-anakmu sampai kepada keturunan yang keempat akan duduk di atas takhta Israel!\" Dan terjadilah demikian."
   },
   {Bible:"2Kings", Chapter:15, Verse:13, Page:1,
-    Kor:"<이스라엘 왕 살룸> ○야베스의 아들 살룸이 유다의 웃시야 왕 제 삼십구년에 이스라엘 왕이 되어, 사마리아에서 한 달 동안 다스렸다.",
+    Kor:"○야베스의 아들 살룸이 유다의 웃시야 왕 제 삼십구년에 이스라엘 왕이 되어, 사마리아에서 한 달 동안 다스렸다.",
     Chn:"犹大王乌西雅三十九年，雅比的儿子沙龙登基在撒马利亚作王一个月。",
     Eng:"Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah, and he reigned in Samaria one month.",
     Ind:"Salum bin Yabesh menjadi raja dalam tahun yang ketiga puluh sembilan zaman Uzia, raja Yehuda. Ia memerintah sebulan lamanya di Samaria."
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Pada waktu itu, dengan mulai dari Tirza, Menahem memusnahkan Tifsah dan semua orang yang ada di dalamnya serta daerahnya, sebab orang tidak membuka pintu kota baginya. Maka dimusnahkannyalah kota itu dan dibelahnya semua perempuannya yang mengandung."
   },
   {Bible:"2Kings", Chapter:15, Verse:17, Page:1,
-    Kor:"<이스라엘 왕 므나헴> ○유다의 아사랴 왕 제 삼십구년에 가디의 아들 므나헴이 이스라엘의 왕이 되어, 사마리아에서 열해 동안 다스렸다.",
+    Kor:"○유다의 아사랴 왕 제 삼십구년에 가디의 아들 므나헴이 이스라엘의 왕이 되어, 사마리아에서 열해 동안 다스렸다.",
     Chn:"犹大王亚撒利雅三十九年，迦底的儿子米拿现登基，在撒马利亚作以色列王十年。",
     Eng:"In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.",
     Ind:"Dalam tahun ketiga puluh sembilan zaman Azarya, raja Yehuda, Menahem bin Gadi menjadi raja atas Israel. Ia memerintah sepuluh tahun lamanya di Samaria."
   },
   {Bible:"2Kings", Chapter:15, Verse:18, Page:1,
-    Kor:"그는 주님께서 보시기에 악을 행하였다. 그는 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 일생 동안 떠나지 아니하고, 그것을 그대로 본받았다.",
+    Kor:"그는 주께서 보시기에 악을 행하였다. 그는 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 일생 동안 떠나지 아니하고, 그것을 그대로 본받았다.",
     Chn:"他行耶和华眼中看为恶的事，终身不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
     Eng:"He did evil in the eyes of the LORD. During his entire reign he did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN. Sepanjang umurnya ia tidak menjauh dari dosa-dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"2Kings", Chapter:15, Verse:19, Page:1,
-    Kor:"앗시리아의 c불 왕이 그 땅을 치려고 올라오니, 므나헴은 불에게 은 천 달란트를 주었다. 이렇게 한 것은, 그의 도움을 받아서 자기 왕국의 통치권을 굳게 하려 함이었다.(c 디글랏빌레셀)",
+    Kor:"앗시리아의 불 왕이 그 땅을 치려고 올라오니, 므나헴은 불에게 은 천 달란트를 주었다. 이렇게 한 것은, 그의 도움을 받아서 자기 왕국의 통치권을 굳게 하려 함이었다.",
     Chn:"亚述王普勒来攻击以色列国，米拿现给他一千他连得银子，请普勒帮助他坚定国位。",
     Eng:"Then Pul king of Assyria invaded the land, and Menahem gave him a thousand talents of silver to gain his support and strengthen his own hold on the kingdom.",
     Ind:"Pul, raja Asyur, datang menyerang negeri itu, lalu Menahem memberi seribu talenta perak kepada Pul, supaya dibantunya dia mengokohkan kerajaan itu di tangannya."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Kemudian Menahem mendapat perhentian bersama-sama dengan nenek moyangnya. Maka Pekahya, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:15, Verse:23, Page:1,
-    Kor:"<이스라엘 왕 브가히야> ○유다 왕 아사랴 제 오십년에 므나헴의 아들 브가히야가 이스라엘의 왕이 되어, 사마리아에서 두 해 동안 다스렸다.",
+    Kor:"○유다 왕 아사랴 제 오십년에 므나헴의 아들 브가히야가 이스라엘의 왕이 되어, 사마리아에서 두 해 동안 다스렸다.",
     Chn:"犹大王亚撒利雅五十年，米拿现的儿子比加辖在撒马利亚登基作以色列王二年。",
     Eng:"In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king of Israel in Samaria, and he reigned two years.",
     Ind:"Dalam tahun kelima puluh zaman Azarya, raja Yehuda, Pekahya, anak Menahem, menjadi raja atas Israel di Samaria. Ia memerintah dua tahun lamanya."
   },
   {Bible:"2Kings", Chapter:15, Verse:24, Page:1,
-    Kor:"그는 주님께서 보시기에 악을 행하였다. 그는 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그대로 본받았다.",
+    Kor:"그는 주께서 보시기에 악을 행하였다. 그는 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그대로 본받았다.",
     Chn:"他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
     Eng:"Pekahiah did evil in the eyes of the LORD. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN. Ia tidak menjauh dari dosa-dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"2Kings", Chapter:15, Verse:25, Page:1,
-    Kor:"그의 부관인 르말리야의 아들 베가가, 아르곱과 아리에와 길르앗 사람 쉰 명과 더불어 반란을 일으켜서, 사마리아에 있는 왕궁의 요새에서 왕을 죽이고, 그를 대신하여 왕이 되었다.",
+    Kor:"그의 부관인 르말랴의 아들 베가가, 아르곱과 아리에와 길르앗 사람 쉰 명과 더불어 반란을 일으켜서, 사마리아에 있는 왕궁의 요새에서 왕을 죽이고, 그를 대신하여 왕이 되었다.",
     Chn:"比加辖的将军、利玛利的儿子比加背叛他，在撒马利亚王宫里的卫所杀了他。亚珥歌伯和亚利耶并基列的五十人帮助比加；比加击杀他，篡了他的位。",
     Eng:"One of his chief officers, Pekah son of Remaliah, conspired against him. Taking fifty men of Gilead with him, he assassinated Pekahiah, along with Argob and Arieh, in the citadel of the royal palace at Samaria. So Pekah killed Pekahiah and succeeded him as king.",
     Ind:"Lalu perwiranya, yakni Pekah bin Remalya, mengadakan persepakatan melawan dia dan membunuh dia di Samaria di puri istana raja; beserta dia ada Argob dan Arye serta lima puluh orang dari bani Gilead; dibunuhnyalah Pekahya, kemudian menjadi raja menggantikan dia."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Pekahya dan segala yang dilakukannya, sesungguhnya semuanya itu tertulis dalam kitab sejarah raja-raja Israel."
   },
   {Bible:"2Kings", Chapter:15, Verse:27, Page:1,
-    Kor:"<이스라엘 왕 베가> ○유다의 아사랴 왕 제 오십이년에 르말리야의 아들 베가가 이스라엘의 왕이 되어, 사마리아에서 스무 해 동안 다스렸다.",
+    Kor:"○유다의 아사랴 왕 제 오십이년에 르말랴의 아들 베가가 이스라엘의 왕이 되어, 사마리아에서 스무 해 동안 다스렸다.",
     Chn:"犹大王亚撒利雅五十二年，利玛利的儿子比加在撒马利亚登基作以色列王二十年。",
     Eng:"In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king of Israel in Samaria, and he reigned twenty years.",
     Ind:"Dalam tahun kelima puluh dua zaman Azarya, raja Yehuda, Pekah bin Remalya menjadi raja atas orang Israel di Samaria. Ia memerintah dua puluh tahun lamanya."
   },
   {Bible:"2Kings", Chapter:15, Verse:28, Page:1,
-    Kor:"그는 주님께서 보시기에 악을 행하였으며, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
+    Kor:"그는 주께서 보시기에 악을 행하였으며, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
     Chn:"他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
     Eng:"He did evil in the eyes of the LORD. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN. Ia tidak menjauh dari dosa-dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Dalam zaman Pekah, raja Israel, datanglah Tiglat-Pileser, raja Asyur; direbutnyalah Iyon, Abel-Bet-Maakha, Yanoah, Kedesh dan Hazor, Gilead dan Galilea, seluruh tanah Naftali, lalu diangkutnyalah penduduknya ke Asyur ke dalam pembuangan."
   },
   {Bible:"2Kings", Chapter:15, Verse:30, Page:1,
-    Kor:"○엘라의 아들 호세아가 르말리야의 아들 베가에게 반역하여 그를 살해하고, 웃시야의 아들 요담 제 이십년에 그의 뒤를 이어 왕이 되었다.",
+    Kor:"○엘라의 아들 호세아가 르말랴의 아들 베가에게 반역하여 그를 살해하고, 웃시야의 아들 요담 제 이십년에 그의 뒤를 이어 왕이 되었다.",
     Chn:"乌西雅的儿子约坦二十年，以拉的儿子何细亚背叛利玛利的儿子比加，击杀他，篡了他的位。",
     Eng:"Then Hoshea son of Elah conspired against Pekah son of Remaliah. He attacked and assassinated him, and then succeeded him as king in the twentieth year of Jotham son of Uzziah.",
     Ind:"Hosea bin Ela mengadakan persepakatan melawan Pekah bin Remalya; dibunuhnyalah dia, kemudian dia menjadi raja menggantikannya dalam tahun kedua puluh zaman Yotam bin Uzia."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Pekah dan segala yang dilakukannya, sesungguhnya semuanya itu tertulis dalam kitab sejarah raja-raja Israel."
   },
   {Bible:"2Kings", Chapter:15, Verse:32, Page:1,
-    Kor:"<유다 왕 요담(대하 27:1-9)> ○이스라엘의 르말리야 왕의 아들 베가 제 이년에 웃시야의 아들 요담이 유다의 왕이 되었다.",
+    Kor:"○이스라엘의 르말랴 왕의 아들 베가 제 이년에 웃시야의 아들 요담이 유다의 왕이 되었다.",
     Chn:"以色列王利玛利的儿子比加第二年，犹大王乌西雅的儿子约坦登基。",
     Eng:"In the second year of Pekah son of Remaliah king of Israel, Jotham son of Uzziah king of Judah began to reign.",
     Ind:"Dalam tahun kedua zaman Pekah bin Remalya, raja Israel, Yotam, anak Uzia raja Yehuda menjadi raja."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Ia berumur dua puluh lima tahun pada waktu ia menjadi raja dan enam belas tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Yerusa, anak Zadok."
   },
   {Bible:"2Kings", Chapter:15, Verse:34, Page:1,
-    Kor:"그는, 아버지 웃시야가 한 것을 그대로 본받아, 주님께서 보시기에 올바른 일을 하였다.",
+    Kor:"그는, 아버지 웃시야가 한 것을 그대로 본받아, 주께서 보시기에 올바른 일을 하였다.",
     Chn:"约坦行耶和华眼中看为正的事，效法他父亲乌西雅一切所行的；",
     Eng:"He did what was right in the eyes of the LORD, just as his father Uzziah had done.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, tepat seperti yang dilakukan Uzia, ayahnya."
   },
   {Bible:"2Kings", Chapter:15, Verse:35, Page:1,
-    Kor:"그러나 산당만은 제거하지 않아서, 백성들이 여전히 산당에서 제사를 지내고 분향을 하였다. 그는 주님의 성전의 윗 대문을 세웠다.",
+    Kor:"그러나 산당만은 제거하지 않아서, 백성들이 여전히 산당에서 제사를 지내고 분향을 하였다. 그는 주의 성전의 윗 대문을 세웠다.",
     Chn:"只是邱坛还没有废去，百姓仍在那里献祭烧香。约坦建立耶和华殿的上门。",
     Eng:"The high places, however, were not removed; the people continued to offer sacrifices and burn incense there. Jotham rebuilt the Upper Gate of the temple of the LORD.",
     Ind:"Namun demikian, bukit-bukit pengorbanan tidaklah dijauhkan. Bangsa itu masih mempersembahkan dan membakar korban di bukit-bukit itu. Ia mendirikan Pintu Gerbang Tinggi di rumah TUHAN."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Yotam, apa yang dilakukannya, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Yehuda?"
   },
   {Bible:"2Kings", Chapter:15, Verse:37, Page:1,
-    Kor:"이 때부터 주님께서는, 시리아의 르신 왕과 르말리야의 아들 베가를 보내어, 유다를 치기 시작하셨다.",
+    Kor:"이 때부터 주께서는, 시리아의 르신 왕과 르말랴의 아들 베가를 보내어, 유다를 치기 시작하셨다.",
     Chn:"在那些日子，耶和华才使亚兰王利汛和利玛利的儿子比加去攻击犹大。",
     Eng:"(In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.)",
     Ind:"Mulai zaman itu TUHAN menyuruh Rezin, raja Aram, dan Pekah bin Remalya, menyerang Yehuda."

@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",12,28);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:12, Verse:1, Page:1,
-    Kor:"<망국에 대한 상징적인 행위> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 반역하는 백성 가운데 살고 있다. 그들은 볼 눈이 있어도 보려고 하지 않고, 들을 귀가 있어도 들으려고 하지 않는다. 그들은 반역하는 족속이기 때문이다.",
+    Kor:"\"사람아, 너는 반항하는 백성 가운데 살고 있다. 그들은 볼 눈이 있어도 보려고 하지 않고, 들을 귀가 있어도 들으려고 하지 않는다. 그들은 반항하는 족속이기 때문이다.",
     Chn:"「人子啊，你住在悖逆的家中。他们有眼睛看不见，有耳朵听不见，因为他们是悖逆之家。",
     Eng:"\"Son of man, you are living among a rebellious people. They have eyes to see but do not see and ears to hear but do not hear, for they are a rebellious people.",
     Ind:"\"Hai anak manusia, engkau tinggal di tengah-tengah kaum pemberontak, yang mempunyai mata untuk melihat, tetapi tidak melihat dan mempunyai telinga untuk mendengar, tetapi tidak mendengar, sebab mereka adalah kaum pemberontak."
   },
   {Bible:"Ezekiel", Chapter:12, Verse:3, Page:1,
-    Kor:"○그러므로 너 사람아, 그들이 보는 앞에서 포로로 끌려가는 사람처럼, 대낮에 짐을 싸 가지고 길을 떠나거라. 그들이 보는 앞에서, 포로로 끌려가는 것처럼, 네가 살고 있는 그 곳에서 다른 곳으로 떠나가거라. 그들이 반역하는 백성이기는 하지만, 혹시 그것을 보고서 깨달을 수도 있을 것이다.",
+    Kor:"○그러므로 너 사람아, 그들이 보는 앞에서 포로로 끌려가는 사람처럼, 대낮에 짐을 싸 가지고 길을 떠나거라. 그들이 보는 앞에서, 포로로 끌려가는 것처럼, 네가 살고 있는 그 곳에서 다른 곳으로 떠나가거라. 그들이 반항하는 백성이기는 하지만, 혹시 그것을 보고서 깨달을 수도 있을 것이다.",
     Chn:"所以人子啊，你要预备掳去使用的物件，在白日当他们眼前从你所住的地方移到别处去；他们虽是悖逆之家，或者可以揣摩思想。",
     Eng:"\"Therefore, son of man, pack your belongings for exile and in the daytime, as they watch, set out and go from where you are to another place. Perhaps they will understand, though they are a rebellious house.",
     Ind:"Maka engkau, anak manusia, sediakanlah bagimu barang-barang seorang buangan dan berjalanlah seperti seorang buangan pada siang hari di hadapan mata mereka; pergilah dari tempatmu sekarang ke tempat yang lain seperti seorang buangan di hadapan mata mereka. Barangkali mereka akan insaf bahwa mereka adalah kaum pemberontak."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Di hadapan mata mereka perbuatlah sebuah lobang di tembok dan keluarlah dari situ."
   },
   {Bible:"Ezekiel", Chapter:12, Verse:6, Page:1,
-    Kor:"너는 그들이 보는 앞에서 어깨에 짐을 메고, 어두울 때에 나가거라. 너는 얼굴을 가리고, 다시는 더 그 땅을 보지 말아라. 내가 너를 이스라엘 백성에게 주는 징조로 삼았기 때문이다.\"",
+    Kor:"너는, 그들이 보는 앞에서 어깨에 짐을 메고, 어두울 때에 나가거라. 너는 얼굴을 가리고, 다시는 더 그 땅을 보지 말아라. 내가 너를 이스라엘 백성에게 주는 징조로 삼았기 때문이다.\"",
     Chn:"到天黑时，你要当他们眼前搭在肩头上带出去，并要蒙住脸看不见地，因为我立你作以色列家的预兆。」",
     Eng:"Put them on your shoulder as they are watching and carry them out at dusk. Cover your face so that you cannot see the land, for I have made you a sign to the house of Israel.\"",
     Ind:"Di hadapan mata mereka taruhlah barang-barangmu ke atas bahumu, dan bawalah itu ke luar pada malam gelap; engkau harus menutupi mukamu, sehingga engkau tidak melihat tanah; sebab Aku membuat engkau menjadi lambang bagi kaum Israel.\""
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Lalu kulakukan seperti diperintahkan kepadaku: aku membawa pada siang hari barang-barang seperti barang-barang seorang buangan dan pada malam hari aku membuat dengan tanganku sebuah lobang di tembok, pada malam gelap aku keluar dan di hadapan mata mereka aku menaruh barang-barangku ke atas bahuku."
   },
   {Bible:"Ezekiel", Chapter:12, Verse:8, Page:1,
-    Kor:"○이튿날 아침에 주님께서 나에게 말씀하셨다.",
+    Kor:"○이튿날 아침에 주께서 나에게 말씀하셨다.",
     Chn:"次日早晨，耶和华的话临到我说：",
     Eng:"In the morning the word of the LORD came to me:",
     Ind:"Pada hari besoknya datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:9, Page:1,
-    Kor:"○\"사람아, 저 반역하는 족속 이스라엘 족속이 '네가 지금 무슨 일을 하고 있느냐?' 하고 너에게 묻지 않았느냐?",
+    Kor:"\"사람아, 저 반항하는 족속 이스라엘 족속이 '네가 지금 무슨 일을 하고 있느냐?' 하고 너에게 묻지 않았느냐?",
     Chn:"「人子啊，以色列家，就是那悖逆之家，岂不是问你说：『你做什么呢？』",
     Eng:"\"Son of man, did not that rebellious house of Israel ask you, 'What are you doing?'",
     Ind:"\"Hai anak manusia, bukankah ditanya oleh kaum Israel, kaum pemberontak itu kepadamu: Apakah yang kaulakukan ini?"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Katakanlah: Aku menjadi lambang bagimu; seperti yang kulakukan ini begitulah akan berlaku kepada mereka: sebagai orang buangan mereka akan pergi ke pembuangan."
   },
   {Bible:"Ezekiel", Chapter:12, Verse:12, Page:1,
-    Kor:"왕도 그들과 함께 어깨에 짐을 메고, 어두울 때에 성 바깥으로 나가게 될 것이라고, a사람들이 성벽에 구멍을 뚫고, 짐을 내다 놓을 것이며, 왕은 눈으로 그 땅을 안 보려고 얼굴을 가릴 것이라고 말하여라.(a 칠십인역에는 '그가')",
+    Kor:"왕도 그들과 함께 어깨에 짐을 메고, 어두울 때에 성 바깥으로 나가게 될 것이라고, 사람들이 성벽에 구멍을 뚫고, 짐을 내다 놓을 것이며, 왕은 눈으로 그 땅을 안 보려고 얼굴을 가릴 것이라고 말하여라.",
     Chn:"他们中间的君王也必在天黑的时候将物件搭在肩头上带出去。他们要挖通了墙，从其中带出去。他必蒙住脸，眼看不见地。",
     Eng:"\"The prince among them will put his things on his shoulder at dusk and leave, and a hole will be dug in the wall for him to go through. He will cover his face so that he cannot see the land.",
     Ind:"Dan raja yang di tengah-tengah mereka akan menaruh barang-barangnya ke atas bahunya pada malam gelap dan akan pergi ke luar; orang akan membuat sebuah lobang di tembok supaya ada baginya jalan keluar; ia akan menutupi mukanya supaya ia tidak akan melihat tanah itu."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Tetapi Aku akan meninggalkan sedikit dari mereka yang luput dari pedang, dari kelaparan dan dari sampar, supaya mereka menceriterakan segala perbuatan-perbuatan mereka yang keji di antara bangsa-bangsa, di mana mereka datang; dan mereka akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:12, Verse:17, Page:1,
-    Kor:"<떨면서 먹고 마시는 상징 행위> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:18, Page:1,
-    Kor:"○\"사람아, 너는 떨면서 네 음식을 먹고, 두려움과 근심에 싸여 물을 마셔라.",
+    Kor:"\"사람아, 너는 떨면서 네 음식을 먹고, 두려움과 근심에 싸여 물을 마셔라.",
     Chn:"「人子啊，你吃饭必胆战，喝水必惶惶忧虑。",
     Eng:"\"Son of man, tremble as you eat your food, and shudder in fear as you drink your water.",
     Ind:"\"Hai anak manusia, makanlah makananmu dengan gemetar dan minumlah air dengan menggigil dan dengan hati yang cemas,"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Kota-kota yang masih didiami orang akan menjadi reruntuhan dan tanah itu akan menjadi sunyi sepi; dan kamu akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:12, Verse:21, Page:1,
-    Kor:"<속담과 예언> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:22, Page:1,
-    Kor:"○\"사람아, 이스라엘 땅에서 너희가 말하는 '세월이 이만큼 흐르는 동안, 환상으로 본 것치고 그대로 이루어진 것이 있더냐' 하는 속담이 어찌 된 일이냐?",
+    Kor:"\"사람아, 이스라엘 땅에서 너희가 말하는 '세월이 이만큼 흐르는 동안, 환상으로 본 것치고 그대로 이루어진 것이 있더냐' 하는 속담이 어찌 된 일이냐?",
     Chn:"「人子啊，在你们以色列地怎么有这俗语，说『日子迟延，一切异象都落了空』呢？",
     Eng:"\"Son of man, what is this proverb you have in the land of Israel: 'The days go by and every vision comes to nothing'?",
     Ind:"\"Hai anak manusia, sindiran apakah itu yang hidup di antara kamu di tanah Israel, yang berbunyi: Sudah lama berselang, tetapi satu penglihatanpun tak jadi?"
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Sebab tidak akan ada lagi penglihatan yang menipu ataupun tenungan yang menyesatkan di tengah-tengah kaum Israel,"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:25, Page:1,
-    Kor:"나는 주다. 내가 말하는 그 말은 무엇이든지 그대로 이루어지고, 더 이상 지체하지 않을 것이다. 너희 반역하는 족속아, 너희가 살아 있는 동안에 내가 말한 것을 그대로 이루겠다. 나 주 하나님의 말이다'\"",
+    Kor:"나는 주다. 내가 말하는 그 말은 무엇이든지 그대로 이루어지고, 더 이상 지체하지 않을 것이다. 너희 반항하는 족속아, 너희가 살아 있는 동안에 내가 말한 것을 그대로 이루겠다. 나 주 하나님의 말이다'\"",
     Chn:"我—耶和华说话，所说的必定成就，不再耽延。你们这悖逆之家，我所说的话必趁你们在世的日子成就。这是主耶和华说的。」",
     Eng:"But I the LORD will speak what I will, and it shall be fulfilled without delay. For in your days, you rebellious house, I will fulfill whatever I say, declares the Sovereign LORD.'\"",
     Ind:"sebab Aku, TUHAN, akan berfirman dan apa yang Kufirmankan akan terjadi, dan firman itu tidak akan ditunda-tunda lagi, sebab pada masa hidupmu, hai kaum pemberontak, Aku akan mengucapkan suatu firman dan Aku akan menggenapinya, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:12, Verse:26, Page:1,
-    Kor:"○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:12, Verse:27, Page:1,
-    Kor:"○\"사람아, 이스라엘 족속이 하는 말을 들어 보아라. 네가 보는 환상은 먼 훗날에나 이루어질 것이며, 네가 예언하는 말은 아득히 먼 훗날을 두고 한 것이라고 한다.",
+    Kor:"\"사람아, 이스라엘 족속이 하는 말을 들어 보아라. 네가 보는 환상은 먼 훗날에나 이루어질 것이며, 네가 예언하는 말은 아득히 먼 훗날을 두고 한 것이라고 한다.",
     Chn:"「人子啊，以色列家的人说：『他所见的异象是关乎后来许多的日子，所说的预言是指着极远的时候。』",
     Eng:"\"Son of man, the house of Israel is saying, 'The vision he sees is for many years from now, and he prophesies about the distant future.'",
     Ind:"\"Hai anak manusia, lihatlah, kaum Israel berkata: Penglihatan yang dilihatnya itu, harinya masih jauh, nubuatan yang diucapkannya, waktunya masih lama."

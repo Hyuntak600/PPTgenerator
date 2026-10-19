@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",22,31);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:22, Verse:1, Page:1,
-    Kor:"<피의 도성 예루살렘> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:22, Verse:2, Page:1,
-    Kor:"○\"너 사람아, 심판할 준비가 되었느냐? 저 피 흘린 a성읍을 심판할 준비가 되었느냐? 너는 먼저, 그 성읍 사람들이 저지른 모든 역겨운 일을, 그들이 깨닫게 하여라.(a 예루살렘을 일컬음)",
+    Kor:"\"너 사람아, 심판할 준비가 되었느냐? 저 피 흘린 성읍을 심판할 준비가 되었느냐? 너는 먼저, 그 성읍 사람들이 저지른 모든 역겨운 일을, 그들이 깨닫게 하여라.",
     Chn:"「人子啊，你要审问审问这流人血的城吗？当使她知道她一切可憎的事。",
     Eng:"\"Son of man, will you judge her? Will you judge this city of bloodshed? Then confront her with all her detestable practices",
     Ind:"\"Hai engkau, anak manusia, maukah engkau menjatuhkan, ya, menjatuhkan hukuman atas kota yang penuh hutang darah? Beritahukanlah kepadanya segala perbuatannya yang keji,"
   },
   {Bible:"Ezekiel", Chapter:22, Verse:3, Page:1,
-    Kor:"그들에게 전하여라. '나 주 하나님이 말한다. 많은 백성을 죽이고 우상들을 만들어 스스로를 더럽힌 성읍아, a네가 심판 받을 때가 다가온다.(a 예루살렘을 일컬음)",
+    Kor:"그들에게 전하여라. '나 주 하나님이 말한다. 많은 백성을 죽이고 우상들을 만들어 스스로를 더럽힌 성읍아, 네가 심판 받을 때가 다가온다.",
     Chn:"你要说，主耶和华如此说：哎！这城有流人血的事在其中，叫她受报的日期来到，又做偶像玷污自己，陷害自己。",
     Eng:"and say: 'This is what the Sovereign LORD says: O city that brings on herself doom by shedding blood in her midst and defiles herself by making idols,",
     Ind:"dan katakanlah: Beginilah firman Tuhan ALLAH: Hai kota, yang mencurahkan darah di tengah-tengahmu, sehingga waktu penghukumanmu datang dan membuat berhala-berhala bagimu yang menajiskan dirimu."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Padamu orang menyingkapkan aurat isteri ayahnya dan memperkosa perempuan pada waktu cemar kainnya yang menajiskannya."
   },
   {Bible:"Ezekiel", Chapter:22, Verse:11, Page:1,
-    Kor:"또 이웃 사람의 아내와 더러운 죄를 짓는 남자가 있으며, 음행으로 자기의 며느리를 욕보이는 시아버지가 있으며, 아버지의 딸인 자기 누이를 욕보이는 아들도 네 안에 있다.",
+    Kor:"또 이웃 사람의 아내와 더러운 죄를 짓는 남자가 있으며, 음행으로 자기의 며느리를 욕보이는 시아버지가 있으며, 아버지의 딸인 자기 자매를 욕보이는 아들도 네 안에 있다.",
     Chn:"这人与邻舍的妻行可憎的事；那人贪淫玷污儿妇；还有玷辱同父之姊妹的。",
     Eng:"In you one man commits a detestable offense with his neighbor's wife, another shamefully defiles his daughter-in-law, and another violates his sister, his own father's daughter.",
     Ind:"Yang satu melakukan kekejian dengan isteri sesamanya dan yang lain menajiskan menantunya perempuan dengan perbuatan mesum, orang lain lagi memperkosa saudaranya perempuan, anak kandung ayahnya."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Maka engkau akan dinajiskan di hadapan bangsa-bangsa karena kesalahanmu sendiri, dan engkau akan mengetahui bahwa Akulah TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:22, Verse:17, Page:1,
-    Kor:"<용광로에 들어간 이스라엘> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Then the word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:22, Verse:18, Page:1,
-    Kor:"○\"사람아, 이스라엘 족속이 내게는 쓸모도 없는 쇠찌꺼기이다. 그들은 모두가 은을 정련하고, 용광로 속에 남아 있는 구리와 주석과 쇠와 납의 찌꺼기이다.",
+    Kor:"\"사람아, 이스라엘 족속이 내게는 쓸모도 없는 쇠찌꺼기이다. 그들은 모두가 은을 정련하고, 용광로 속에 남아 있는 구리와 주석과 쇠와 납의 찌꺼기이다.",
     Chn:"「人子啊，以色列家在我看为渣滓。他们都是炉中的铜、锡、铁、铅，都是银渣滓。",
     Eng:"\"Son of man, the house of Israel has become dross to me; all of them are the copper, tin, iron and lead left inside a furnace. They are but the dross of silver.",
     Ind:"\"Hai anak manusia, bagi-Ku kaum Israel sudah menjadi sanga; mereka semuanya adalah ibarat tembaga, timah putih, besi dan timah hitam di dalam peleburan; mereka seperti sanga perak."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Seperti perak dilebur dalam peleburan, begitulah kamu dilebur di dalamnya. Dan kamu akan mengetahui, bahwa Aku, TUHAN, yang mencurahkan amarah-Ku atasmu.\""
   },
   {Bible:"Ezekiel", Chapter:22, Verse:23, Page:1,
-    Kor:"<이스라엘 지도층의 죄> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"Again the word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:22, Verse:24, Page:1,
-    Kor:"○\"사람아, 너는 유다 땅에 이렇게 말하여라. '유다 땅아, 너는 진노의 날에 더러움을 벗지 못한 땅이요, 비를 얻지 못한 땅이다.",
+    Kor:"\"사람아, 너는 유다 땅에 이렇게 말하여라. '유다 땅아, 너는 진노의 날에, 더러움을 벗지 못한 땅이요, 비를 얻지 못한 땅이다.",
     Chn:"「人子啊，你要对这地说：你是未得洁净之地，在恼恨的日子也没有雨下在你以上。",
     Eng:"\"Son of man, say to the land, 'You are a land that has had no rain or showers in the day of wrath.'",
     Ind:"\"Hai anak manusia, katakanlah kepadanya: Engkau adalah tanah yang tidak menerima hujan, tidak mendapat air pada masa kegeraman,"
   },
   {Bible:"Ezekiel", Chapter:22, Verse:25, Page:1,
-    Kor:"그 가운데 있는 b예언자들은 음모를 꾸미며, 마치 먹이를 뜯는 사자처럼 으르렁댄다. 그들이 생명을 죽이며, 재산과 보화를 탈취하며, 그 안에 과부들이 많아지게 하였다.(b 칠십인역에는 '제사장들')",
+    Kor:"그 가운데 있는 예언자들은 음모를 꾸미며, 마치 먹이를 뜯는 사자처럼 으르렁댄다. 그들이 생명을 죽이며, 재산과 보화를 탈취하며, 그 안에 과부들이 많아지게 하였다.",
     Chn:"其中的先知同谋背叛，如咆哮的狮子抓撕掠物。他们吞灭人民，抢夺财宝，使这地多有寡妇。",
     Eng:"There is a conspiracy of her princes within her like a roaring lion tearing its prey; they devour people, take treasures and precious things and make many widows within her.",
     Ind:"yang pemimpin-pemimpinnya di tengah-tengahnya seperti singa yang mengaum, yang menerkam mangsanya: manusia ditelan, harta benda dan barang-barang yang berharga dirampas, janda-janda dibuat bertambah-tambah di tengah-tengahnya."

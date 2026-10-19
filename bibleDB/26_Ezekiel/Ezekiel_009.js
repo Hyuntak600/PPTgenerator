@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",9,11);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:9, Verse:1, Page:1,
-    Kor:"<예루살렘이 심판을 받다> 또 그가 큰소리로 외치시는데 그 소리가 내 귀에까지 들렸다. \"이 성읍을 벌할 사람들아, 각자 사람을 죽이는 무기를 손에 들고, 가까이 나오너라.\"",
+    Kor:"또 그가 큰소리로 외치시는데 그 소리가 내 귀에까지 들렸다. \"이 성읍을 벌할 사람들아, 각자 사람을 죽이는 무기를 손에 들고, 가까이 나오너라.\"",
     Chn:"他向我耳中大声喊叫说：「要使那监管这城的人手中各拿灭命的兵器前来。」",
     Eng:"Then I heard him call out in a loud voice, \"Bring the guards of the city here, each with a weapon in his hand.\"",
     Ind:"Lalu aku mendengar Dia berseru dengan suara yang nyaring: \"Maju ke mari, hai, yang harus menjalankan hukuman atas kota ini! Masing-masing dengan alat pemusnah di tangannya!\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Pada saat itu kemuliaan Allah Israel sudah terangkat dari atas kerub, tempatnya semula, ke atas ambang pintu Bait Suci dan Dia memanggil orang yang berpakaian lenan dan yang mempunyai alat penulis di sisinya."
   },
   {Bible:"Ezekiel", Chapter:9, Verse:4, Page:1,
-    Kor:"주님께서 그에게 말씀하셨다. \"너는 저 성읍 가운데로 곧 예루살렘으로 두루 돌아다니면서, 그 안에서 일어나는 모든 역겨운 일 때문에 슬퍼하고 신음하는 사람들의 이마에 표를 그려 놓아라.\"",
+    Kor:"주께서 그에게 말씀하셨다. \"너는 저 성읍 가운데로, 곧 예루살렘으로 두루 돌아다니면서, 그 안에서 일어나는 모든 역겨운 일 때문에 슬퍼하고 신음하는 사람들의 이마에 표를 그려 놓아라.\"",
     Chn:"耶和华对他说：「你去走遍耶路撒冷全城，那些因城中所行可憎之事叹息哀哭的人，画记号在额上。」",
     Eng:"and said to him, \"Go throughout the city of Jerusalem and put a mark on the foreheads of those who grieve and lament over all the detestable things that are done in it.\"",
     Ind:"Firman TUHAN kepadanya: \"Berjalanlah dari tengah-tengah kota, yaitu Yerusalem dan tulislah huruf T pada dahi orang-orang yang berkeluh kesah karena segala perbuatan-perbuatan keji yang dilakukan di sana.\""
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Orang-orang tua, teruna-teruna dan dara-dara, anak-anak kecil dan perempuan-perempuan, bunuh dan musnahkan! Tetapi semua orang yang ditandai dengan huruf T itu, jangan singgung! Dan mulailah dari tempat kudus-Ku!\" Lalu mereka mulai dengan tua-tua yang berada di hadapan Bait Suci."
   },
   {Bible:"Ezekiel", Chapter:9, Verse:7, Page:1,
-    Kor:"○그가 또 그들에게 말씀하셨다. \"너희는 성전을 더럽혀라. 모든 뜰을 시체로 가득 채워라. 이제 나가 보아라.\" 그러자 그들이 성읍 가운데로 나가서, 사람들을 죽였다.",
+    Kor:"○그가 또 그들에게 말씀하셨다. \"너희는 성전을 더럽혀라. 모든 뜰에 시체로 가득 채워라. 이제 나가 보아라.\" 그러자 그들이 성읍 가운데로 나가서, 사람들을 죽였다.",
     Chn:"他对他们说：「要污秽这殿，使院中充满被杀的人。你们出去吧！」他们就出去，在城中击杀。",
     Eng:"Then he said to them, \"Defile the temple and fill the courts with the slain. Go!\" So they went out and began killing throughout the city.",
     Ind:"Kemudian firman-Nya kepada mereka: \"Najiskanlah Bait Suci itu dan penuhilah pelataran-pelatarannya dengan orang-orang yang terbunuh. Pergilah!\" Mereka pergi ke luar dan memukuli orang-orang sampai mati di dalam kota."
   },
   {Bible:"Ezekiel", Chapter:9, Verse:8, Page:1,
-    Kor:"○살육이 계속되는 동안, 나는 혼자 거기에 있었다. 나는 엎드려 얼굴을 땅에 대고, 부르짖으며 아뢰었다. \"주 하나님, 예루살렘에다가 이렇듯 주님의 진노를 쏟으시다니, 이스라엘의 남은 사람들을 주님께서 친히 다 멸하실 작정입니까?\"",
+    Kor:"○살육이 계속되는 동안, 나는 혼자 거기에 있었다. 나는 엎드려 얼굴을 땅에 대고, 부르짖으며 아뢰었다. \"주 하나님, 예루살렘에다가 이렇듯 주의 진노를 쏟으시다니, 이스라엘의 남은 사람들을 주께서 친히 다 멸하실 작정입니까?\"",
     Chn:"他们击杀的时候，我被留下，我就俯伏在地，说：「哎！主耶和华啊，你将忿怒倾在耶路撒冷，岂要将以色列所剩下的人都灭绝吗？」",
     Eng:"While they were killing and I was left alone, I fell facedown, crying out, \"Ah, Sovereign LORD! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?\"",
     Ind:"Sedang mereka memukuli orang-orang sampai mati--waktu itu aku tinggal di belakang--aku sujud dan berseru, kataku: \"Aduh, Tuhan ALLAH, apakah Engkau memusnahkan seluruh sisa Israel di dalam mencurahkan amarah-Mu atas Yerusalem?\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Karena itu Aku juga tidak akan merasa sayang dan tidak akan kenal belas kasihan; kelakuan mereka akan Kutimpakan atas kepala mereka.\""
   },
   {Bible:"Ezekiel", Chapter:9, Verse:11, Page:1,
-    Kor:"○그런데 모시 옷을 입고 허리에 먹통을 찬 사람이 와서 보고하였다. \"주님께서 저에게 명하신 대로, 제가 다 수행하였습니다.\"",
+    Kor:"○그런데 모시 옷을 입고 허리에 먹통을 찬 사람이 와서 보고하였다. \"주께서 저에게 명하신 대로, 제가 다 수행하였습니다.\"",
     Chn:"那穿细麻衣、腰间带着墨盒子的人将这事回复说：「我已经照你所吩咐的行了。」",
     Eng:"Then the man in linen with the writing kit at his side brought back word, saying, \"I have done as you commanded.\"",
     Ind:"Lihat, orang yang berpakaian lenan itu dan yang mempunyai alat penulis di sisinya memberikan laporan, katanya: \"Aku sudah kerjakan seperti Engkau perintahkan kepadaku.\""

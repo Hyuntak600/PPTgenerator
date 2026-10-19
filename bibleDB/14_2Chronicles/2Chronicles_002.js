@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",2,18);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:2, Verse:1, Page:1,
-    Kor:"<성전 건축을 준비하다(왕상 5:1-18)> 솔로몬은 주님의 이름을 받들어 모실 성전과 자기의 궁전을 짓기로 작정하였다.",
+    Kor:"솔로몬은 주의 이름을 받들어 모실 성전과 자기의 궁전을 짓기로 작정하였다.",
     Chn:"所罗门定意要为耶和华的名建造殿宇，又为自己的国建造宫室。",
     Eng:"Solomon gave orders to build a temple for the Name of the LORD and a royal palace for himself.",
     Ind:"Salomo memerintahkan untuk mendirikan suatu rumah bagi nama TUHAN dan suatu istana kerajaan bagi dirinya sendiri."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Dan Salomo mengerahkan tujuh puluh ribu kuli, delapan puluh ribu tukang pahat di pegunungan, dan tiga ribu enam ratus mandur untuk mengawasi mereka itu."
   },
   {Bible:"2Chronicles", Chapter:2, Verse:3, Page:1,
-    Kor:"○솔로몬은 또 두로의 a히람 왕에게 사람을 보내서, 다음과 같이 부탁을 하였다. \"내 선친 다윗이 친히 거처할 궁을 지을 때에 임금님께서 백향목을 보내 주신 것처럼, 내게도 그렇게 해주시기를 바랍니다.(a 히, '후람')",
+    Kor:"○솔로몬은 또 두로의 히람 왕에게 사람을 보내서, 다음과 같이 부탁을 하였다. \"내 선친 다윗이 친히 거처할 궁을 지을 때에 임금님께서 백향목을 보내 주신 것처럼, 내게도 그렇게 해주시기를 바랍니다.",
     Chn:"所罗门差人去见泰尔王希兰，说：「你曾运香柏木与我父大卫建宫居住，求你也这样待我。",
     Eng:"Solomon sent this message to Hiram king of Tyre: \"Send me cedar logs as you did for my father David when you sent him cedar to build a palace to live in.",
     Ind:"Lalu Salomo mengutus orang kepada Huram, raja negeri Tirus, dengan pesan: \"Perbuatlah terhadap aku seperti yang kauperbuat terhadap ayahku Daud, ketika engkau mengirim kayu aras kepadanya, sehingga ia dapat mendirikan baginya suatu istana untuk tinggal di situ."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Dan untuk tukang-tukang yang menebang pohon kuberikan gandum dua puluh ribu kor, jelai dua puluh ribu kor, anggur dua puluh ribu bat dan minyak dua puluh ribu bat, sebagai bahan makanan bagi hamba-hambamu itu.\""
   },
   {Bible:"2Chronicles", Chapter:2, Verse:11, Page:1,
-    Kor:"○두로의 a히람 왕이 솔로몬에게 회신을 보냈다. \"주님께서 그 백성을 사랑하셔서, 그대를 왕으로 세우시고, 그들을 다스리게 하셨습니다.\"(a 히, '후람')",
+    Kor:"○두로의 히람 왕이 솔로몬에게 회신을 보냈다. \"주께서 그 백성을 사랑하셔서, 그대를 왕으로 세우시고, 그들을 다스리게 하셨습니다.\"",
     Chn:"泰尔王希兰写信回答所罗门说：「耶和华因为爱他的子民，所以立你作他们的王」；",
     Eng:"Hiram king of Tyre replied by letter to Solomon: \"Because the LORD loves his people, he has made you their king.\"",
     Ind:"Dan Huram, raja negeri Tirus, mengirim surat balasan kepada Salomo, yang berbunyi: \"Karena TUHAN mengasihi umat-Nya, Ia telah mengangkat engkau menjadi raja atas mereka.\""
   },
   {Bible:"2Chronicles", Chapter:2, Verse:12, Page:1,
-    Kor:"a히람의 글은 다음과 같이 이어졌다. \"하늘과 땅을 만드신 주 이스라엘의 하나님께서는 찬양을 받으실 분입니다. 그분은 다윗 왕에게 명철과 총명을 고루 갖춘 슬기로운 아들을 주셔서, 주님께 성전을 지어 바치게 하시고, 자신의 왕국을 위하여 궁전을 짓게 하셨습니다.(a 히, '후람')",
+    Kor:"히람의 글은 다음과 같이 이어졌다. \"하늘과 땅을 만드신 주 이스라엘의 하나님께서는 찬양을 받으실 분입니다. 그분은 다윗 왕에게 명철과 총명을 고루 갖춘 슬기로운 아들을 주셔서, 주님께 성전을 지어 바치게 하시고, 자신의 왕국을 위하여 궁전을 짓게 하셨습니다.",
     Chn:"又说：「创造天地的耶和华—以色列的　神是应当称颂的！他赐给大卫王一个有智慧的儿子，使他有谋略聪明，可以为耶和华建造殿宇，又为自己的国建造宫室。",
     Eng:"And Hiram added: \"Praise be to the LORD, the God of Israel, who made heaven and earth! He has given King David a wise son, endowed with intelligence and discernment, who will build a temple for the LORD and a palace for himself.",
     Ind:"Lalu Huram melanjutkan: \"Terpujilah TUHAN, Allah orang Israel, yang menjadikan langit dan bumi, karena Ia telah memberikan kepada raja Daud seorang anak yang bijaksana, penuh akal budi dan pengertian, yang akan mendirikan suatu rumah bagi TUHAN dan suatu istana kerajaan bagi dirinya sendiri!"
   },
   {Bible:"2Chronicles", Chapter:2, Verse:13, Page:1,
-    Kor:"이제 총명을 갖춘 기능공 한 사람을 보내 드리겠습니다. 이런 b일의 전문가인 후람이라는 사람입니다.(b 히, '후람아비')",
+    Kor:"이제 총명을 갖춘 기능공 한 사람을 보내 드리겠습니다. 이런 일의 전문가인 후람이라는 사람입니다.",
     Chn:"「现在我打发一个精巧有聪明的人去，他是我父亲希兰所用的，",
     Eng:"\"I am sending you Huram-Abi, a man of great skill,",
     Ind:"Maka sekarang aku mengirim seorang ahli, yang penuh pengertian, yakni Huram Abi,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Dan kami akan menebang kayu dari gunung Libanon sebanyak engkau perlukan dan membawanya kepadamu dengan rakit-rakit melalui laut sampai ke Yafo, dan engkau dapat mengangkutnya ke Yerusalem.\""
   },
   {Bible:"2Chronicles", Chapter:2, Verse:17, Page:1,
-    Kor:"<성전 건축 시작(왕상 6:1-38)> ○솔로몬의 아버지 다윗이 전에 이스라엘 땅에 살던 이방인의 인구를 조사한 일이 있는데, 솔로몬이 다시 조사해 보니, 그 수가 모두 십오만 삼천육백 명이었다.",
+    Kor:"○솔로몬의 아버지 다윗이 전에 이스라엘 땅에 살던 이방인의 인구를 조사한 일이 있는데, 솔로몬이 다시 조사해 보니, 그 수가 모두 십오만 삼천육백 명이었다.",
     Chn:"所罗门仿照他父大卫数点住在以色列地所有寄居的外邦人，共有十五万三千六百名；",
     Eng:"Solomon took a census of all the aliens who were in Israel, after the census his father David had taken; and they were found to be 153,600.",
     Ind:"Lalu Salomo menghitung semua orang asing yang laki-laki yang ada di negeri Israel sama seperti yang pernah dilakukan Daud, ayahnya. Maka terdapatlah seratus lima puluh tiga ribu enam ratus orang."

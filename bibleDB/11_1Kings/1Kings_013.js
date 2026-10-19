@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",13,34);
 BibleDB.add([
   {Bible:"1Kings", Chapter:13, Verse:1, Page:1,
-    Kor:"여로보암이 제단 곁에 서서 막 분향을 하려고 하는데, 바로 그 때에 하나님의 사람이 주님의 말씀을 전하려고 유다로부터 베델로 왔다.",
+    Kor:"여로보암이 제단 곁에 서서 막 분향을 하려고 하는데, 바로 그 때에 하나님의 사람이 주의 말씀을 전하려고 유다로부터 베델로 왔다.",
     Chn:"那时，有一个神人奉耶和华的命从犹大来到伯特利。耶罗波安正站在坛旁要烧香；",
     Eng:"By the word of the LORD a man of God came from Judah to Bethel, as Jeroboam was standing by the altar to make an offering.",
     Ind:"Sedang Yerobeam berdiri di atas mezbah itu sambil membakar korban, maka atas perintah TUHAN datanglah seorang abdi Allah dari Yehuda ke Betel."
   },
   {Bible:"1Kings", Chapter:13, Verse:2, Page:1,
-    Kor:"그리고 그는 그 제단 쪽을 보고서, 주님께 받은 말씀을 외쳤다. ○\"제단아, 제단아, 나 주가 말한다. 다윗의 가문에서 한 아들이 태어난다. 그 이름은 요시야다. 그가 너의 위에 분향하는 산당의 제사장들을 너의 위에서 죽여서 제물로 바칠 것이며, 또 그가 너의 위에서 그 제사장들의 뼈를 태울 것이다.\"",
+    Kor:"그리고 그는 그 제단 쪽을 보고서, 주께 받은 말씀을 외쳤다. ○\"제단아, 제단아, 나 주가 말한다. 다윗의 가문에서 한 아들이 태어난다. 그 이름은 요시야다. 그가 너의 위에 분향하는 산당의 제사장들을 너의 위에서 죽여서 제물로 바칠 것이며, 또 그가 너의 위에서 그 제사장들의 뼈를 태울 것이다.\"",
     Chn:"神人奉耶和华的命向坛呼叫，说：「坛哪，坛哪！耶和华如此说：大卫家里必生一个儿子，名叫约西亚，他必将邱坛的祭司，就是在你上面烧香的，杀在你上面，人的骨头也必烧在你上面。」",
     Eng:"He cried out against the altar by the word of the LORD: \"O altar, altar! This is what the LORD says: 'A son named Josiah will be born to the house of David. On you he will sacrifice the priests of the high places who now make offerings here, and human bones will be burned on you.'\"",
     Ind:"Lalu atas perintah TUHAN berserulah orang itu terhadap mezbah itu, katanya: \"Hai mezbah, hai mezbah! Beginilah firman TUHAN: Bahwasanya seorang anak akan lahir pada keluarga Daud, Yosia namanya; ia akan menyembelih di atasmu imam-imam bukit pengorbanan yang membakar korban di atasmu, juga tulang-tulang manusia akan dibakar di atasmu.\""
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Demi raja Yerobeam mendengar perkataan abdi Allah yang diserukannya terhadap mezbah di Betel itu, ia mengulurkan tangannya dari atas mezbah dan berkata: \"Tangkaplah dia!\" Tetapi tangan yang diulurkannya terhadap orang itu menjadi kejang, sehingga tidak dapat ditariknya kembali."
   },
   {Bible:"1Kings", Chapter:13, Verse:5, Page:1,
-    Kor:"그리고 곧 이어서, 하나님의 사람이 주님의 말씀으로 제시한 징표대로, 그 제단은 갈라지고, 그 제단으로부터는 재가 쏟아져 내렸다.",
+    Kor:"그리고 곧 이어서, 하나님의 사람이 주의 말씀으로 제시한 징표대로, 그 제단은 갈라지고, 그 제단으로부터는 재가 쏟아져 내렸다.",
     Chn:"坛也破裂了，坛上的灰倾撒了，正如神人奉耶和华的命所设的预兆。",
     Eng:"Also, the altar was split apart and its ashes poured out according to the sign given by the man of God by the word of the LORD.",
     Ind:"Mezbah itupun pecahlah, sehingga abu yang di atasnya tercurah, sesuai dengan tanda ajaib yang diberitahukan abdi Allah itu atas perintah TUHAN."
   },
   {Bible:"1Kings", Chapter:13, Verse:6, Page:1,
-    Kor:"그러자 왕은 하나님의 사람에게 \"제발 그대의 주 하나님께 은총을 빌어서, 내 손이 회복되도록 기도하여 주시오\" 하고 청하였다. 하나님의 사람이 주님께 은총을 비니, 왕의 손이 회복되어서, 예전과 같이 되었다.",
+    Kor:"그러자 왕은 하나님의 사람에게 \"제발 그대의 주 하나님께 은총을 빌어서, 내 손이 회복되도록 기도하여 주시오\" 하고 청하였다. 하나님의 사람이 주께 은총을 비니, 왕의 손이 회복되어서, 예전과 같이 되었다.",
     Chn:"王对神人说：「请你为我祷告，求耶和华—你　神的恩典使我的手复原。」于是神人祈祷耶和华，王的手就复了原，仍如寻常一样。",
     Eng:"Then the king said to the man of God, \"Intercede with the LORD your God and pray for me that my hand may be restored.\" So the man of God interceded with the LORD, and the king's hand was restored and became as it was before.",
     Ind:"Lalu berbicaralah raja dan berkata kepada abdi Allah itu: \"Mohonkanlah belas kasihan TUHAN, Allahmu, dan berdoalah untukku, supaya tanganku dapat kembali.\" Dan abdi Allah itu memohonkan belas kasihan TUHAN, maka tangan raja itu dapat kembali dan menjadi seperti semula."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tetapi abdi Allah itu berkata kepada raja: \"Sekalipun setengah dari istanamu kauberikan kepadaku, aku tidak mau singgah kepadamu; juga aku tidak mau makan roti atau minum air di tempat ini."
   },
   {Bible:"1Kings", Chapter:13, Verse:9, Page:1,
-    Kor:"주님께서 나에게 명하시기를, 밥도 먹지 말고, 물도 마시지 말고, 온 길로 되돌아가지도 말라고 하셨습니다.\"",
+    Kor:"주께서 나에게 명하시기를, 밥도 먹지 말고, 물도 마시지 말고, 온 길로 되돌아가지도 말라고 하셨습니다.\"",
     Chn:"因为有耶和华的话嘱咐我，说不可在伯特利吃饭喝水，也不可从你去的原路回来。」",
     Eng:"For I was commanded by the word of the LORD: 'You must not eat bread or drink water or return by the way you came.'\"",
     Ind:"Sebab beginilah diperintahkan kepadaku atas firman TUHAN: Jangan makan roti atau minum air dan jangan kembali melalui jalan yang telah kautempuh itu.\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lalu pergilah ia melalui jalan lain dan tidak kembali melalui jalan yang telah diambilnya untuk datang ke Betel."
   },
   {Bible:"1Kings", Chapter:13, Verse:11, Page:1,
-    Kor:"<베델의 늙은 예언자> ○그 무렵에 늙은 예언자가 베델에 살고 있었다. 그의 아들들 가운데 하나가 와서, 그 날 베델에서 하나님의 사람이 한 일과, 그가 왕에게 말한 내용을, 모두 아버지에게 말하였다.",
+    Kor:"○그 무렵에 늙은 예언자가 베델에 살고 있었다. 그의 아들들 가운데 하나가 와서, 그 날 베델에서 하나님의 사람이 한 일과, 그가 왕에게 말한 내용을, 모두 아버지에게 말하였다.",
     Chn:"有一个老先知住在伯特利，他儿子们来，将神人当日在伯特利所行的一切事和向王所说的话都告诉了父亲。",
     Eng:"Now there was a certain old prophet living in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king.",
     Ind:"Di Betel diam seorang nabi tua. Anak-anaknya datang menceritakan kepadanya segala perbuatan yang dilakukan abdi Allah pada hari itu di Betel. Mereka menceriterakan juga kepada ayah mereka perkataan yang dikatakannya kepada raja."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Tetapi jawabnya: \"Aku tidak dapat kembali bersama-sama engkau dan singgah kepadamu; aku tidak dapat makan roti atau minum air bersama-sama engkau di tempat ini,"
   },
   {Bible:"1Kings", Chapter:13, Verse:17, Page:1,
-    Kor:"주님께서 나에게 명하시기를, 여기에서는 밥도 먹지 말고, 물도 마시지 말고, 온 길로 되돌아가지도 말라고 하셨습니다.\"",
+    Kor:"주께서 나에게 명하시기를, 여기에서는 밥도 먹지 말고, 물도 마시지 말고, 온 길로 되돌아가지도 말라고 하셨습니다.\"",
     Chn:"因为有耶和华的话嘱咐我说：『你在那里不可吃饭喝水，也不可从你去的原路回来。』」",
     Eng:"I have been told by the word of the LORD: 'You must not eat bread or drink water there or return by the way you came.'\"",
     Ind:"sebab telah diperintahkan kepadaku atas firman TUHAN: Jangan makan roti atau minum air di sana. Jangan berjalan pulang melalui jalan yang telah kauambil itu.\""
   },
   {Bible:"1Kings", Chapter:13, Verse:18, Page:1,
-    Kor:"그래서 그는 하나님의 사람에게 이렇게 말하였다. \"나도 그대와 같은 예언자요. 주님께서 천사를 보내셔서, 나에게 말씀하시기를, 그대를 내 집으로 데리고 가서, 밥도 대접하고 마실 물도 대접하라고 하셨소.\" 그런데 그것은 거짓말이었다.",
+    Kor:"그래서 그는 하나님의 사람에게 이렇게 말하였다. \"나도 그대와 같은 예언자요. 주께서 천사를 보내셔서, 나에게 말씀하시기를, 그대를 내 집으로 데리고 가서, 밥도 대접하고 마실 물도 대접하라고 하셨소.\" 그런데 그것은 거짓말이었다.",
     Chn:"老先知对他说：「我也是先知，和你一样。有天使奉耶和华的命对我说：『你去把他带回你的家，叫他吃饭喝水。』」这都是老先知诓哄他。",
     Eng:"The old prophet answered, \"I too am a prophet, as you are. And an angel said to me by the word of the LORD: 'Bring him back with you to your house so that he may eat bread and drink water.'\" (But he was lying to him.)",
     Ind:"Lalu jawabnya kepadanya: \"Akupun seorang nabi juga seperti engkau, dan atas perintah TUHAN seorang malaikat telah berkata kepadaku: Bawa dia pulang bersama-sama engkau ke rumahmu, supaya ia makan roti dan minum air.\" Tetapi ia berbohong kepadanya."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Kemudian orang itu kembali bersama-sama dia, lalu makan roti dan minum air di rumahnya."
   },
   {Bible:"1Kings", Chapter:13, Verse:20, Page:1,
-    Kor:"그들이 이렇게 식탁에 함께 앉아 있는데, 주님의 말씀이 하나님의 사람을 데려온 그 예언자에게 내렸다.",
+    Kor:"그들이 이렇게 식탁에 함께 앉아 있는데, 주의 말씀이 하나님의 사람을 데려온 그 예언자에게 내렸다.",
     Chn:"二人坐席的时候，耶和华的话临到那带神人回来的先知，",
     Eng:"While they were sitting at the table, the word of the LORD came to the old prophet who had brought him back.",
     Ind:"Sedang mereka duduk menghadapi meja, datanglah firman TUHAN kepada nabi yang telah membawa dia pulang."
   },
   {Bible:"1Kings", Chapter:13, Verse:21, Page:1,
-    Kor:"그는 유다에서 온 그 하나님의 사람에게 이렇게 외쳤다. \"주님께서 말씀하십니다. 당신은 주님의 말씀을 어기고, 당신의 주 하나님께서 당신에게 말씀하신 명령을 지키지 않았습니다.",
+    Kor:"그는 유다에서 온 그 하나님의 사람에게 이렇게 외쳤다. \"나 주가 말한다. 너는 주의 말씀을 어기고, 네 주 하나님께서 너에게 말씀하신 명령을 지키지 않았다.",
     Chn:"他就对那从犹大来的神人说：「耶和华如此说：你既违背耶和华的话，不遵守耶和华—你　神的命令，",
     Eng:"He cried out to the man of God who had come from Judah, \"This is what the LORD says: 'You have defied the word of the LORD and have not kept the command the LORD your God gave you.",
     Ind:"Ia berseru kepada abdi Allah yang telah datang dari Yehuda: \"Beginilah firman TUHAN: Karena engkau telah memberontak terhadap titah TUHAN dan tidak berpegang pada segala perintah yang diperintahkan kepadamu oleh TUHAN, Allahmu,"
   },
   {Bible:"1Kings", Chapter:13, Verse:22, Page:1,
-    Kor:"당신은 주님께서 밥도 먹지 말고, 물도 마시지 말라고 말씀하신 곳에서, 밥도 먹고, 물도 마셨습니다. 그러므로 당신의 주검은 당신 조상의 무덤에 묻히지 못할 것입니다.\"",
+    Kor:"너는 주께서 밥도 먹지 말고, 물도 마시지 말라고 말씀하신 곳에서, 밥도 먹고, 물도 마셨다. 그러므로 네 주검은 네 조상의 무덤에 묻히지 못할 것이다.\"",
     Chn:"反倒回来，在耶和华禁止你吃饭喝水的地方吃了喝了，因此你的尸身不得入你列祖的坟墓。」",
     Eng:"You came back and ate bread and drank water in the place where he told you not to eat or drink. Therefore your body will not be buried in the tomb of your fathers.'\"",
     Ind:"tetapi kembali dan makan roti dan minum air di tempat ini walaupun Ia telah berfirman kepadamu: Jangan makan roti atau minum air, --maka mayatmu tidak akan masuk ke dalam kubur nenek moyangmu.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Orang-orang yang lewat melihat mayat itu tercampak di jalan dan singa berdiri di sampingnya. Dan mereka menceriterakannya di kota tempat kediaman nabi tua itu."
   },
   {Bible:"1Kings", Chapter:13, Verse:26, Page:1,
-    Kor:"길을 가는 하나님의 사람을 자기 집으로 데리고 간 그 늙은 예언자가, 이 말을 듣고 말하였다. \"그는 틀림없이 주님의 말씀을 어긴 그 하나님의 사람일 것이다. 주님께서는 전에 그에게 말씀하신 대로, 그를 사자에게 내주셔서, 사자가 그를 찢어 죽이게 하신 것이다.\"",
+    Kor:"길을 가는 하나님의 사람을 자기 집으로 데리고 간 그 늙은 예언자가, 이 말을 듣고 말하였다. \"그는 틀림없이 주의 말씀을 어긴 그 하나님의 사람일 것이다. 주께서는 전에 그에게 말씀하신 대로, 그를 사자에게 내주셔서, 사자가 그를 찢어 죽이게 하신 것이다.\"",
     Chn:"那带神人回来的先知听见这事，就说：「这是那违背了耶和华命令的神人，所以耶和华把他交给狮子；狮子抓伤他，咬死他，是应验耶和华对他说的话。」",
     Eng:"When the prophet who had brought him back from his journey heard of it, he said, \"It is the man of God who defied the word of the LORD. The LORD has given him over to the lion, which has mauled him and killed him, as the word of the LORD had warned him.\"",
     Ind:"Ketika hal itu kedengaran kepada nabi yang telah membujuk dia berbalik kembali, ia berkata: \"Dialah abdi Allah yang telah memberontak terhadap titah TUHAN. TUHAN menyerahkan dia kepada singa, yang mencabik dan membunuhnya sesuai dengan firman TUHAN yang diucapkan-Nya kepadanya.\""
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Setelah ia menguburkannya, ia berkata kepada anak-anaknya: \"Kalau aku mati, kuburkanlah aku dalam kubur ini bersama dengan abdi Allah itu, dan taruhlah tulang-tulangku di sisi tulang-tulangnya."
   },
   {Bible:"1Kings", Chapter:13, Verse:32, Page:1,
-    Kor:"그가 주님의 말씀을 받아서, 베델에 있는 제단과 사마리아 성읍 안에 있는 모든 산당을 두고 외친 그 말씀이, 그대로 이루어질 것이다.\"",
+    Kor:"그가 주의 말씀을 받아서, 베델에 있는 제단과 사마리아 성읍 안에 있는 모든 산당을 두고 외친 그 말씀이, 그대로 이루어질 것이다.\"",
     Chn:"因为他奉耶和华的命指着伯特利的坛和撒马利亚各城有邱坛之殿所说的话必定应验。」",
     Eng:"For the message he declared by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the towns of Samaria will certainly come true.\"",
     Ind:"Sebab perkataan yang atas perintah TUHAN telah diserukannya terhadap mezbah yang di Betel itu dan terhadap segala kuil di bukit-bukit pengorbanan yang di kota-kota Samaria akan betul-betul terjadi.\""
   },
   {Bible:"1Kings", Chapter:13, Verse:33, Page:1,
-    Kor:"<여로보암의 죄> ○이런 일이 생긴 뒤에도, 여로보암은 여전히 그 악한 길에서 돌아서지 아니하고, 오히려 일반 백성 가운데서, 원하는 사람은 누구든지 산당의 제사장으로 임명하였다.",
+    Kor:"○이런 일이 생긴 뒤에도, 여로보암은 여전히 그 악한 길에서 돌아서지 아니하고, 오히려 일반 백성 가운데서, 원하는 사람은 누구든지 산당의 제사장으로 임명하였다.",
     Chn:"这事以后，耶罗波安仍不离开他的恶道，将凡民立为邱坛的祭司；凡愿意的，他都分别为圣，立为邱坛的祭司。",
     Eng:"Even after this, Jeroboam did not change his evil ways, but once more appointed priests for the high places from all sorts of people. Anyone who wanted to become a priest he consecrated for the high places.",
     Ind:"Sesudah peristiwa inipun Yerobeam tidak berbalik dari kelakuannya yang jahat itu, tetapi mengangkat pula imam-imam dari kalangan rakyat untuk bukit-bukit pengorbanan. Siapa yang mau saja, ditahbiskannya menjadi imam untuk bukit-bukit pengorbanan."

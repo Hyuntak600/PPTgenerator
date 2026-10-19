@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",132,18);
 BibleDB.add([
   {Bible:"Psalms", Chapter:132, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래> 주님, 다윗을 기억하여 주십시오. 그가 겪은 그 모든 역경을 기억하여 주십시오.",
+    Kor:"주님, 다윗을 기억하여 주십시오. 그가 겪은 그 모든 역경을 기억하여 주십시오.",
     Chn:"上行之诗。 耶和华啊，求你记念大卫所受的一切苦难！",
     Eng:"O LORD, remember David and all the hardships he endured.",
     Ind:"Nyanyian ziarah. Ingatlah, ya TUHAN, kepada Daud dan segala penderitaannya,"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"sesungguhnya aku tidak akan membiarkan mataku tidur atau membiarkan kelopak mataku terlelap,"
   },
   {Bible:"Psalms", Chapter:132, Verse:5, Page:1,
-    Kor:"주님께서 계실 장막을 마련할 때까지, 야곱의 전능하신 분이 계실 곳을 찾아낼 때까지 그렇게 하겠습니다\" 하였습니다.",
+    Kor:"주께서 계실 장막을 마련할 때까지, 야곱의 전능하신 분이 계실 곳을 찾아낼 때까지 그렇게 하겠습니다\" 하였습니다.",
     Chn:"直等我为耶和华寻得所在， 为雅各的大能者寻得居所。",
     Eng:"till I find a place for the LORD, a dwelling for the Mighty One of Jacob.\"",
     Ind:"sampai aku mendapat tempat untuk TUHAN, kediaman untuk Yang Mahakuat dari Yakub.\""
   },
   {Bible:"Psalms", Chapter:132, Verse:6, Page:1,
-    Kor:"a법궤가 있다는 말을 에브라다에서 듣고, 야알의 들에서 그것을 찾았다. (a 또는 '법궤가 에브라다에 있다는 말을 듣고')",
+    Kor:"법궤가 있다는 말을 에브라다에서 듣고, 야알의 들에서 그것을 찾았다.",
     Chn:"我们听说约柜在以法他， 我们在基列·耶琳就寻见了。",
     Eng:"We heard it in Ephrathah, we came upon it in the fields of Jaar:",
     Ind:"Memang kita telah mendengar tentang itu di Efrata, telah mendapatnya di padang Yaar."
@@ -45,37 +45,37 @@ BibleDB.add([
     Ind:"\"Mari kita pergi ke kediaman-Nya, sujud menyembah pada tumpuan kaki-Nya.\""
   },
   {Bible:"Psalms", Chapter:132, Verse:8, Page:1,
-    Kor:"주님, 일어나셔서 주님께서 쉬실 그 곳으로 드십시오. 주님의 권능 깃들인 법궤와 함께 그 곳으로 드십시오.",
+    Kor:"주님, 일어나셔서 주께서 쉬실 그 곳으로 드십시오. 주의 권능 깃들인 법궤와 함께 그 곳으로 드십시오.",
     Chn:"耶和华啊，求你兴起， 和你有能力的约柜同入安息之所！",
     Eng:"arise, O LORD, and come to your resting place, you and the ark of your might.",
     Ind:"Bangunlah, ya TUHAN, dan pergilah ke tempat perhentian-Mu, Engkau serta tabut kekuatan-Mu!"
   },
   {Bible:"Psalms", Chapter:132, Verse:9, Page:1,
-    Kor:"주님의 제사장들이 의로운 일을 하게 해주시고, 주님의 성도들도 기쁨의 함성을 높이게 해주십시오.",
+    Kor:"주의 제사장들이 의로운 일을 하게 해주시고, 주의 성도들도 기쁨의 함성을 높이게 해주십시오.",
     Chn:"愿你的祭司披上公义！ 愿你的圣民欢呼！",
     Eng:"May your priests be clothed with righteousness; may your saints sing for joy.\"",
     Ind:"Biarlah imam-imam-Mu berpakaian kebenaran, dan bersorak-sorai orang-orang yang Kaukasihi!"
   },
   {Bible:"Psalms", Chapter:132, Verse:10, Page:1,
-    Kor:"주님의 종 다윗을 보시고, 주님께서 기름 부어서 세우신 그 종을 물리치지 말아 주십시오.",
+    Kor:"주의 종 다윗에게 약속하셨으니, 주께서 기름 부어서 세우신 그 종을 물리치지 말아 주십시오.",
     Chn:"求你因你仆人大卫的缘故， 不要厌弃你的受膏者！",
     Eng:"For the sake of David your servant, do not reject your anointed one.",
     Ind:"Oleh karena Daud, hamba-Mu, janganlah Engkau menolak orang yang Kauurapi!"
   },
   {Bible:"Psalms", Chapter:132, Verse:11, Page:1,
-    Kor:"주님께서 다윗에게 맹세하셨으니, 그 맹세는 진실하여 변하지 않을 것이다. \"네 몸에서 난 자손 가운데서, 한 사람을 왕으로 삼을 것이니, 그가 보좌에 앉아 네 뒤를 이을 것이다.",
+    Kor:"주께서 다윗에게 맹세하셨으니, 그는 성실하셔서 변경하지 아니하신다. \"네 몸에서 난 자손 가운데서, 한 사람을 왕으로 삼을 것이니, 그가 네 뒤를 이어서 왕위에 앉는다.",
     Chn:"耶和华向大卫、凭诚实起了誓， 必不反复，说： 我要使你所生的 坐在你的宝座上。",
     Eng:"The LORD swore an oath to David, a sure oath that he will not revoke: \"One of your own descendants I will place on your throne--",
     Ind:"TUHAN telah menyatakan sumpah setia kepada Daud, Ia tidak akan memungkirinya: \"Seorang anak kandungmu akan Kududukkan di atas takhtamu;"
   },
   {Bible:"Psalms", Chapter:132, Verse:12, Page:1,
-    Kor:"만일 네 자손이 나와 더불어 맺은 언약을 지키고, 내가 가르친 그 법도를 지키면, 그들의 자손이 대대로 네 뒤를 이어서 네 보좌에 앉을 것이다.\"",
+    Kor:"네 자손이 나와 더불어 맺은 언약을 지키고, 내가 가르친 그 법도를 지키면, 그들의 자손이 대대로 네 뒤를 이어서 왕이 되게 하겠다\" 하셨다.",
     Chn:"你的众子若守我的约 和我所教训他们的法度， 他们的子孙必永远坐在你的宝座上。",
     Eng:"if your sons keep my covenant and the statutes I teach them, then their sons will sit on your throne for ever and ever.\"",
     Ind:"jika anak-anakmu berpegang pada perjanjian-Ku, dan pada peraturan-peraturan-Ku yang Kuajarkan kepada mereka, maka anak-anak mereka selama-lamanya akan duduk di atas takhtamu.\""
   },
   {Bible:"Psalms", Chapter:132, Verse:13, Page:1,
-    Kor:"주님께서 시온을 택하시고, 그 곳을 당신이 계실 곳으로 삼으시기를 원하셔서, 이렇게 말씀하셨다.",
+    Kor:"주께서 시온을 택하시고, 그 곳을 당신이 계실 곳으로 삼으시기를 원하셔서, 이렇게 말씀하셨다.",
     Chn:"因为耶和华拣选了锡安， 愿意当作自己的居所，",
     Eng:"For the LORD has chosen Zion, he has desired it for his dwelling:",
     Ind:"Sebab TUHAN telah memilih Sion, mengingininya menjadi tempat kedudukan-Nya:"
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"\"Inilah tempat perhentian-Ku selama-lamanya, di sini Aku hendak diam, sebab Aku mengingininya."
   },
   {Bible:"Psalms", Chapter:132, Verse:15, Page:1,
-    Kor:"이 성읍에 먹거리를 가득하게 채워 주고, 이 성읍의 가난한 사람들에게 먹거리를 넉넉하게 주겠다.",
+    Kor:"이 성읍에 먹을거리를 가득하게 채워 주고, 이 성읍의 가난한 사람들에게 먹을거리를 넉넉하게 주겠다.",
     Chn:"我要使其中的粮食丰满， 使其中的穷人饱足。",
     Eng:"I will bless her with abundant provisions; her poor will I satisfy with food.",
     Ind:"Perbekalannya akan Kuberkati dengan limpahnya, orang-orangnya yang miskin akan Kukenyangkan dengan roti,"
   },
   {Bible:"Psalms", Chapter:132, Verse:16, Page:1,
-    Kor:"b제사장들로 의로운 일을 하게 하고, 성도들은 기쁨의 함성을 지르게 하겠다. (b 또는 '제사장들을 구원으로 옷입히고')",
+    Kor:"제사장들로 의로운 일을 하게 하고, 성도들로 기쁨의 함성을 높이게 하겠다.",
     Chn:"我要使祭司披上救恩， 圣民大声欢呼！",
     Eng:"I will clothe her priests with salvation, and her saints will ever sing for joy.",
     Ind:"imam-imamnya akan Kukenakan pakaian keselamatan, dan orang-orangnya yang saleh akan bersorak-sorai dengan girang."
   },
   {Bible:"Psalms", Chapter:132, Verse:17, Page:1,
-    Kor:"여기에서 나는, 다윗의 자손 가운데서 c한 사람을 뽑아서 큰 왕이 되게 하고, d내가 기름 부어 세운 왕의 통치가 지속되게 하겠다. (c 히, '한 뿔이 자라게 하고' d 히, '내가 기름 부어 세운 이를 위하여 한 등불을 준비한다')",
+    Kor:"여기에서 나는, 다윗의 자손 가운데서 한 사람을 뽑아서 큰 왕이 되게 하고, 내가 기름 부어 세운 왕의 통치가 지속되게 하겠다.",
     Chn:"我要叫大卫的角在那里发生； 我为我的受膏者预备明灯。",
     Eng:"\"Here I will make a horn grow for David and set up a lamp for my anointed one.",
     Ind:"Di sanalah Aku akan menumbuhkan sebuah tanduk bagi Daud, Aku akan menyediakan sebuah pelita bagi orang yang Kuurapi."

@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",6,12);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:6, Verse:1, Page:1,
-    Kor:"나는 a세상에서 또 한 가지, 잘못되고, 억울한 일을 본다. 그것은 참으로 견디기 어려운 것이다.(a 히, '해 아래')",
+    Kor:"나는 세상에서 또 한 가지, 잘못되고, 억울한 일을 본다. 그것은 참으로 견디기 어려운 것이다.",
     Chn:"我见日光之下有一宗祸患重压在人身上，",
     Eng:"I have seen another evil under the sun, and it weighs heavily on men:",
     Ind:"Ada suatu kemalangan yang telah kulihat di bawah matahari, yang sangat menekan manusia:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"orang yang dikaruniai Allah kekayaan, harta benda dan kemuliaan, sehingga ia tak kekurangan suatupun yang diingininya, tetapi orang itu tidak dikaruniai kuasa oleh Allah untuk menikmatinya, melainkan orang lain yang menikmatinya! Inilah kesia-siaan dan penderitaan yang pahit."
   },
   {Bible:"Ecclesiastes", Chapter:6, Verse:3, Page:1,
-    Kor:"사람이 자녀를 백 명이나 낳고 오랫동안 살았다고 하자. 그가 아무리 오래 살았다고 하더라도, 그 재산으로 즐거움을 누리지도 못하고, 죽은 다음에 제대로 묻히지도 못한다면, 차라리 태어날 때에 죽어서 나온 아이가 그 사람보다 더 낫다.",
+    Kor:"사람이 자녀를 백 명이나 낳고 오랫동안 살았다고 하자. 그가 아무리 오래 살았다고 하더라도, 그 재산으로 즐거움을 누리지도 못하고, 죽은 다음에 제대로 묻히지도 못한다면, 차라리 태어날 때에, 죽어서 나온 아이가 그 사람보다 더 낫다.",
     Chn:"人若生一百个儿子，活许多岁数，以致他的年日甚多，心里却不得满享福乐，又不得埋葬；据我说，那不到期而落的胎比他倒好。",
     Eng:"A man may have a hundred children and live many years; yet no matter how long he lives, if he cannot enjoy his prosperity and does not receive proper burial, I say that a stillborn child is better off than he.",
     Ind:"Jika orang memperoleh seratus anak dan hidup lama sampai mencapai umur panjang, tetapi ia tidak puas dengan kesenangan, bahkan tidak mendapat penguburan, kataku, anak gugur lebih baik dari pada orang ini."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Sebab anak gugur itu datang dalam kesia-siaan dan pergi dalam kegelapan, dan namanya ditutupi kegelapan."
   },
   {Bible:"Ecclesiastes", Chapter:6, Verse:5, Page:1,
-    Kor:"세상을 보지도 못하고, 인생이 무엇인지 알지도 못한다. 그러나 이 아이는 그 사람보다 더 편하게 안식을 누리지 않는가!",
+    Kor:"세상을 보지도 못하고, 인생이 무엇인지 알지도 못한다. 그러나 이 아이는, 그 사람보다 더 편하게 안식을 누리지 않는가!",
     Chn:"并且没有见过天日，也毫无知觉；这胎，比那人倒享安息。",
     Eng:"Though it never saw the sun or knew anything, it has more rest than does that man--",
     Ind:"Lagipula ia tidak melihat matahari dan tidak mengetahui apa-apa. Ia lebih tenteram dari pada orang tadi."
   },
   {Bible:"Ecclesiastes", Chapter:6, Verse:6, Page:1,
-    Kor:"비록 사람이 천 년씩 두 번을 산다고 해도, 자기 재산으로 즐거움을 누리지도 못하면 별 수 없다. 마침내는 둘 다 같은 곳으로 가지 않는가!",
+    Kor:"비록 사람이 천 년씩 두 번을 산다고 해도, 자기 재산으로 즐거움을 누리지도 못하면 별수없다. 마침내는 둘 다 같은 곳으로 가지 않는가!",
     Chn:"那人虽然活千年，再活千年，却不享福，众人岂不都归一个地方去吗？",
     Eng:"even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?",
     Ind:"Biarpun ia hidup dua kali seribu tahun, kalau ia tidak menikmati kesenangan: bukankah segala sesuatu menuju satu tempat?"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Karena apakah kelebihan orang yang berhikmat dari pada orang yang bodoh? Apakah kelebihan orang miskin yang tahu berperilaku di hadapan orang?"
   },
   {Bible:"Ecclesiastes", Chapter:6, Verse:9, Page:1,
-    Kor:"이것 또한 헛되고, b바람을 잡으려는 것과 같다. 가지고 있는 것으로 만족하는 것이, 욕심에 사로잡혀서 헤매는 것보다 낫다. (b 또는 '바람을 먹고 사는 것과 같다'(호 12:1을 볼 것))",
+    Kor:"이것 또한 헛되고, 바람을 잡으려는 것과 같다. 가지고 있는 것으로 만족하는 것이, 욕심에 사로잡혀서 헤매는 것보다 낫다.",
     Chn:"眼睛所看的比心里妄想的倒好。这也是虚空，也是捕风。",
     Eng:"Better what the eye sees than the roving of the appetite. This too is meaningless, a chasing after the wind.",
     Ind:"Lebih baik melihat saja dari pada menuruti nafsu. Inipun kesia-siaan dan usaha menjaring angin."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Karena makin banyak kata-kata, makin banyak kesia-siaan. Apakah faedahnya untuk manusia?"
   },
   {Bible:"Ecclesiastes", Chapter:6, Verse:12, Page:1,
-    Kor:"그림자처럼 지나가는 짧고 덧없는 삶을 살아가는 사람에게, 무엇이 좋은지를 누가 알겠는가? 사람이 죽은 다음에, a세상에서 일어날 일들을 누가 그에게 말해 줄 수 있겠는가?(a 히, '해 아래')",
+    Kor:"그림자처럼 지나가는 짧고 덧없는 삶을 살아가는 사람에게, 무엇이 좋은지를 누가 알겠는가? 사람이 죽은 다음에, 세상에서 일어날 일들을 누가 그에게 말해 줄 수 있겠는가?",
     Chn:"人一生虚度的日子，就如影儿经过，谁知道什么与他有益呢？谁能告诉他身后在日光之下有什么事呢？",
     Eng:"For who knows what is good for a man in life, during the few and meaningless days he passes through like a shadow? Who can tell him what will happen under the sun after he is gone?",
     Ind:"Karena siapakah yang mengetahui apa yang baik bagi manusia sepanjang waktu yang pendek dari hidupnya yang sia-sia, yang ditempuhnya seperti bayangan? Siapakah yang dapat mengatakan kepada manusia apa yang akan terjadi di bawah matahari sesudah dia?"

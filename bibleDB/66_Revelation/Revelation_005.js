@@ -3,13 +3,13 @@
 BibleDB.ref("Revelation",5,14);
 BibleDB.add([
   {Bible:"Revelation", Chapter:5, Verse:1, Page:1,
-    Kor:"<두루마리와 어린 양> 나는 또, 그 보좌에 앉아 계신 분이 오른손에 두루마리 하나를 들고 계신 것을 보았습니다. 그 두루마리는 안팎으로 글이 적혀 있고 일곱 인을 찍어 봉하여 놓은 것이었습니다.",
+    Kor:"나는 또, 그 보좌에 앉아 계신 분이 오른손에 두루마리 하나를 들고 계신 것을 보았습니다. 안팎에 글이 적혀 있는 그 두루마리는 일곱 인을 찍어 봉하여 놓은 것이었습니다.",
     Chn:"我看见坐宝座的右手中有书卷，里外都写着字，用七印封严了。",
     Eng:"Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals.",
     Ind:"Maka aku melihat di tangan kanan Dia yang duduk di atas takhta itu, sebuah gulungan kitab, yang ditulisi sebelah dalam dan sebelah luarnya dan dimeterai dengan tujuh meterai."
   },
   {Bible:"Revelation", Chapter:5, Verse:2, Page:1,
-    Kor:"내가 보니, 힘센 천사가 큰 소리로 \"이 봉인을 떼고 두루마리를 펴기에 합당한 사람이 누구인가?\" 하고 외쳤습니다.",
+    Kor:"내가 보니, 힘센 천사가 큰소리로 \"이 봉인을 떼고 두루마리를 펴기에 합당한 사람이 누구인가?\" 하고 외쳤습니다.",
     Chn:"我又看见一位大力的天使大声宣传说：「有谁配展开那书卷，揭开那七印呢？」",
     Eng:"And I saw a mighty angel proclaiming in a loud voice, \"Who is worthy to break the seals and open the scroll?\"",
     Ind:"Dan aku melihat seorang malaikat yang gagah, yang berseru dengan suara nyaring, katanya: \"Siapakah yang layak membuka gulungan kitab itu dan membuka meterai-meterainya?\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Maka aku melihat di tengah-tengah takhta dan keempat makhluk itu dan di tengah-tengah tua-tua itu berdiri seekor Anak Domba seperti telah disembelih, bertanduk tujuh dan bermata tujuh: itulah ketujuh Roh Allah yang diutus ke seluruh bumi."
   },
   {Bible:"Revelation", Chapter:5, Verse:7, Page:1,
-    Kor:"그 어린 양이 나와서, 보좌에 앉아 계신 분의 오른손에서 그 두루마리를 받았습니다.",
+    Kor:"그 어린 양이 나와서, 보좌에 앉으신 분의 오른손에서 그 두루마리를 받았습니다.",
     Chn:"这羔羊前来，从坐宝座的右手里拿了书卷。",
     Eng:"He came and took the scroll from the right hand of him who sat on the throne.",
     Ind:"Lalu datanglah Anak Domba itu dan menerima gulungan kitab itu dari tangan Dia yang duduk di atas takhta itu."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Ketika Ia mengambil gulungan kitab itu, tersungkurlah keempat makhluk dan kedua puluh empat tua-tua itu di hadapan Anak Domba itu, masing-masing memegang satu kecapi dan satu cawan emas, penuh dengan kemenyan: itulah doa orang-orang kudus."
   },
   {Bible:"Revelation", Chapter:5, Verse:9, Page:1,
-    Kor:"그들은 이런 말로 새로운 노래를 불렀습니다.  \"주님께서는 그 두루마리를 받으시고, 봉인을 떼실 자격이 있습니다. 주님은 죽임을 당하시고, 주님의 피로 모든 종족과 언어와 백성과 민족 가운데서 사람들을 사서 하나님께 드리셨습니다.",
+    Kor:"그들은 이런 말로 새로운 노래를 불렀습니다. \"주께서는 그 두루마리를 받으시고, 봉인을 떼실 자격이 있습니다. 주님은 죽임을 당하시고, 주님의 피로 모든 종족과 언어와 백성과 민족 가운데서 사람들을 사셔서 하나님께 드리셨습니다.",
     Chn:"他们唱新歌，说： 你配拿书卷， 配揭开七印； 因为你曾被杀， 用自己的血 从各族、各方、各民、各国中买了人来， 叫他们归于　神，",
     Eng:"And they sang a new song: \"You are worthy to take the scroll and to open its seals, because you were slain, and with your blood you purchased men for God from every tribe and language and people and nation.",
     Ind:"Dan mereka menyanyikan suatu nyanyian baru katanya: \"Engkau layak menerima gulungan kitab itu dan membuka meterai-meterainya; karena Engkau telah disembelih dan dengan darah-Mu Engkau telah membeli mereka bagi Allah dari tiap-tiap suku dan bahasa dan kaum dan bangsa."
   },
   {Bible:"Revelation", Chapter:5, Verse:10, Page:1,
-    Kor:"주님께서 그들을 우리 하나님 앞에서 나라가 되게 하시고, 제사장으로 삼으셨습니다, 그래서 그들은 a땅을 다스릴 것입니다.\" (a 또는 '땅 위에서')",
+    Kor:"주께서 그들에게 우리 하나님 앞에서 나라를 이루게 하시고, 제사장이 되게 하셔서, 땅 위에서 다스리게 하실 것입니다.\"",
     Chn:"又叫他们成为国民， 作祭司归于　神， 在地上执掌王权。",
     Eng:"You have made them to be a kingdom and priests to serve our God, and they will reign on the earth.\"",
     Ind:"Dan Engkau telah membuat mereka menjadi suatu kerajaan, dan menjadi imam-imam bagi Allah kita, dan mereka akan memerintah sebagai raja di bumi.\""
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Maka aku melihat dan mendengar suara banyak malaikat sekeliling takhta, makhluk-makhluk dan tua-tua itu; jumlah mereka berlaksa-laksa dan beribu-ribu laksa,"
   },
   {Bible:"Revelation", Chapter:5, Verse:12, Page:1,
-    Kor:"그들은 큰 소리로  \"죽임을 당하신 어린 양은 권세와 부와 지혜와 힘과 존귀와 영광과 찬양을 받으시기에 합당하십니다\" 하고 외치고 있었습니다.",
+    Kor:"그들은 큰소리로 \"죽임을 당하신 어린 양은 권세와 부와 지혜와 힘과 존귀와 영광과 찬양을 마땅히 받으실 만합니다\" 하고 외치고 있었습니다.",
     Chn:"大声说： 曾被杀的羔羊是配得 权柄、丰富、智慧、能力、 尊贵、荣耀、颂赞的。",
     Eng:"In a loud voice they sang: \"Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!\"",
     Ind:"katanya dengan suara nyaring: \"Anak Domba yang disembelih itu layak untuk menerima kuasa, dan kekayaan, dan hikmat, dan kekuatan, dan hormat, dan kemuliaan, dan puji-pujian!\""
   },
   {Bible:"Revelation", Chapter:5, Verse:13, Page:1,
-    Kor:"나는 또 하늘과 땅 위와 땅 아래와 바다에 있는 모든 피조물과, 또 그들 가운데 있는 만물이, 이런 말로 외치는 소리를 들었습니다.  \"보좌에 앉으신 분과 어린 양께서는 찬양과 존귀와 영광과 권능을 영원무궁 하도록 받으십시오.\"",
+    Kor:"나는 또 하늘과 땅 위와 땅 아래와 바다에 있는 모든 피조물과, 또 그들 가운데 있는 만물이, 이런 말로 외치는 소리를 들었습니다. \"보좌에 앉으신 분과 어린 양께서는 찬양과 존귀와 영광과 권능을 영원무궁 하도록 받으십시오.\"",
     Chn:"我又听见在天上、地上、地底下、沧海里，和天地间一切所有被造之物，都说： 但愿颂赞、尊贵、荣耀、权势 都归给坐宝座的和羔羊， 直到永永远远！",
     Eng:"Then I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, singing: \"To him who sits on the throne and to the Lamb be praise and honor and glory and power, for ever and ever!\"",
     Ind:"Dan aku mendengar semua makhluk yang di sorga dan yang di bumi dan yang di bawah bumi dan yang di laut dan semua yang ada di dalamnya, berkata: \"Bagi Dia yang duduk di atas takhta dan bagi Anak Domba, adalah puji-pujian dan hormat dan kemuliaan dan kuasa sampai selama-lamanya!\""
   },
   {Bible:"Revelation", Chapter:5, Verse:14, Page:1,
-    Kor:"그러자 네 생물은 \"아멘!\" 하고, 장로들은 엎드려서 경배하였습니다.",
+    Kor:"○그러자 네 생물은 \"아멘!\" 하고, 장로들은 엎드려서 경배하였습니다.",
     Chn:"四活物就说：「阿们！」众长老也俯伏敬拜。",
     Eng:"The four living creatures said, \"Amen,\" and the elders fell down and worshiped.",
     Ind:"Dan keempat makhluk itu berkata: \"Amin\". Dan tua-tua itu jatuh tersungkur dan menyembah."

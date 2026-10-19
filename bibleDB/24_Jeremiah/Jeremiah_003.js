@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",3,25);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:3, Verse:1, Page:1,
-    Kor:"<신실하지 못한 유다> \"세상 사람들은 말하기를 '어떤 남자가 아내를 버릴 때에, 그 여자가 남편에게서 떠나서 다른 남자의 아내가 되면, 그 여자가 본남편에게로 다시 되돌아갈 수 있느냐? 그렇게 되면, 그 땅이 아주 더러워지지 않느냐?' 한다. 그런데 너는 수많은 남자들과 음행을 하고서도, 나에게로 다시 돌아오려고 하느냐? 나 주의 말이다.\"",
+    Kor:"\"세상 사람들은 말하기를 '어떤 남자가 아내를 버릴 때에, 그 여자가 남편에게서 떠나서 다른 남자의 아내가 되면, 그 여자가 본남편에게로 다시 되돌아갈 수 있느냐? 그렇게 되면, 그 땅이 아주 더러워지지 않느냐?' 한다. 그런데 너는 수많은 남자들과 음행을 하고서도, 나에게로 다시 돌아오려고 하느냐? 나 주의 말이다.\"",
     Chn:"有话说：人若休妻， 妻离他而去，作了别人的妻， 前夫岂能再收回她来？ 若收回她来，那地岂不是大大玷污了吗？ 但你和许多亲爱的行邪淫， 还可以归向我。 这是耶和华说的。",
     Eng:"\"If a man divorces his wife and she leaves him and marries another man, should he return to her again? Would not the land be completely defiled? But you have lived as a prostitute with many lovers--would you now return to me?\" declares the LORD.",
     Ind:"Firman-Nya: \"Jika seseorang menceraikan isterinya, lalu perempuan itu pergi dari padanya dan menjadi isteri orang lain, akan kembalikah laki-laki yang pertama kepada perempuan itu? Bukankah negeri itu sudah tetap cemar? Engkau telah berzinah dengan banyak kekasih, dan mau kembali kepada-Ku? demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:2, Page:1,
-    Kor:"\"두 눈을 뜨고, 저 벌거숭이 언덕들을 바라보아라. 네가 음행을 하여 더럽히지 않은 곳이 어디에 있느냐? 사막에 숨어서 사람을 기다리다가 물건을 터는 a유목민처럼, 너는 길거리마다 앉아서 남자들을 기다렸다. 너는 이렇게 네 음행과 악행으로 이 땅을 더럽혀 놓았다. (a 히, '아랍 사람')",
+    Kor:"\"두 눈을 뜨고, 저 벌거숭이 언덕들을 바라보아라. 네가 음행을 하여서 더럽히지 않은 곳이 어디에 있느냐? 사막에 숨어서 사람을 기다리다가 물건을 터는 유목민처럼, 너는 길거리마다 앉아서 남자들을 기다렸다. 너는 이렇게 네 음행과 악행으로 이 땅을 더럽혀 놓았다.",
     Chn:"你向净光的高处举目观看， 你在何处没有淫行呢？ 你坐在道旁等候， 好像阿拉伯人在旷野埋伏一样， 并且你的淫行邪恶玷污了全地。",
     Eng:"\"Look up to the barren heights and see. Is there any place where you have not been ravished? By the roadside you sat waiting for lovers, sat like a nomad in the desert. You have defiled the land with your prostitution and wickedness.",
     Ind:"Layangkanlah matamu ke bukit-bukit gundul dan lihatlah! Di manakah engkau tidak pernah ditiduri? Di pinggir jalan-jalan engkau duduk menantikan kekasih, seperti seorang Arab di padang gurun. Engkau telah mencemarkan negeri dengan zinahmu dan dengan kejahatanmu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sebab itu dirus hujan tertahan dan hujan pada akhir musim tidak datang. Tetapi dahimu adalah dahi perempuan sundal, engkau tidak mengenal malu."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:4, Page:1,
-    Kor:"지금 너는 나를 '아버지'라고 부르면서, '오랜 친구'라고 하면서,",
+    Kor:"지금 너는 나를 아버지라고 부르면서, 또 일찍부터 네 친구가 되었다고 하면서",
     Chn:"从今以后，你岂不向我呼叫说： 我父啊，你是我幼年的恩主。",
     Eng:"Have you not just called to me: 'My Father, my friend from my youth,",
     Ind:"Bukankah baru saja engkau memanggil Aku: Bapaku! Engkaulah kawanku sejak kecil!"
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Untuk selama-lamanyakah Ia akan murka atau menaruh dendam untuk seterusnya? Demikianlah katamu, namun engkau sedapat-dapatnya melakukan kejahatan.\""
   },
   {Bible:"Jeremiah", Chapter:3, Verse:6, Page:1,
-    Kor:"<회개해야 할 이스라엘과 유다> ○요시야 왕 때에 주님께서 또 나에게 말씀하셨다. ○\"너는 저 배신한 이스라엘이 한 일을 보았느냐? 그가 높은 산마다 올라가서 음행을 하였고, 또 푸른 나무가 있는 곳마다 그 밑에서 음행을 하였다.",
+    Kor:"○요시야 왕 때에 주께서 또 나에게 말씀하셨다. \"너는 저 배신한 이스라엘이 한 일을 보았느냐? 그가 높은 산마다 올라가서 음행을 하였고, 또 푸른 나무가 있는 곳마다 그 밑에서 음행을 하였다.",
     Chn:"约西亚王在位的时候，耶和华又对我说：「背道的以色列所行的，你看见没有？她上各高山，在各青翠树下行淫。",
     Eng:"During the reign of King Josiah, the LORD said to me, \"Have you seen what faithless Israel has done? She has gone up on every high hill and under every spreading tree and has committed adultery there.",
     Ind:"TUHAN berfirman kepadaku dalam zaman raja Yosia: \"Sudahkah engkau melihat apa yang dilakukan Israel, perempuan murtad itu, bagaimana dia naik ke atas setiap bukit yang menjulang dan pergi ke bawah setiap pohon yang rimbun untuk bersundal di sana?"
   },
   {Bible:"Jeremiah", Chapter:3, Verse:7, Page:1,
-    Kor:"그래도 나는, 그가 이 모든 음행을 한 다음에 다시 나에게로 돌아오려니, 하고 생각하였다. 그러나 그는 끝내 돌아오지 않았다. 신실하지 못한 그의 아우 유다까지도 언니의 변절을 보았다.",
+    Kor:"그래도 나는 그가 이 모든 음행을 한 다음에, 다시 나에게로 돌아오려니, 하고 생각하였다. 그러나 그는 끝내 돌아오지 않았다. 신실하지 못한 그의 아우 유다까지도 언니의 변절을 보았다.",
     Chn:"她行这些事以后，我说她必归向我，她却不归向我。她奸诈的妹妹犹大也看见了。",
     Eng:"I thought that after she had done all this she would return to me but she did not, and her unfaithful sister Judah saw it.",
     Ind:"Pikir-Ku: Sesudah melakukan semuanya ini, ia akan kembali kepada-Ku, tetapi ia tidak kembali. Hal itu telah dilihat oleh Yehuda, saudaranya perempuan yang tidak setia."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:8, Page:1,
-    Kor:"b유다는, 이스라엘이 나를 배신하고 음행을 하다가, 바로 그것 때문에 나에게서 내쫓기는 것과, 이혼장을 쥐고 내쫓기는 것을 보았다.(b 사해 사본과 칠십인역과 시리아어역을 따름. 마소라 본문에는 '나는') ○그러나 이 신실하지 못한 아우 유다가 두려운 줄도 모르고, 오히려 자기도 가서 음행을 하였다. 그것을 내가 직접 보았다.",
+    Kor:"유다는, 이스라엘이 나를 배신하고 음행을 하다가, 바로 그것 때문에 나에게서 내쫓기는 것과, 이혼장을 쥐고 내쫓기는 것을 보았다. 그러나 이 신실하지 못한 아우 유다가 두려운 줄도 모르고, 오히려 자기도 가서 음행을 하였다. 그것을 내가 직접 보았다.",
     Chn:"背道的以色列行淫，我为这缘故给她休书休她；我看见她奸诈的妹妹犹大，还不惧怕，也去行淫。",
     Eng:"I gave faithless Israel her certificate of divorce and sent her away because of all her adulteries. Yet I saw that her unfaithful sister Judah had no fear; she also went out and committed adultery.",
     Ind:"Dilihatnya, bahwa oleh karena zinahnya Aku telah menceraikan Israel, perempuan murtad itu, dan memberikan kepadanya surat cerai; namun Yehuda, saudaranya perempuan yang tidak setia itu tidak takut, melainkan ia juga pun pergi bersundal."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Juga dengan semuanya ini Yehuda, saudaranya perempuan yang tidak setia itu, tidak kembali kepada-Ku dengan tulus hatinya, tetapi dengan pura-pura, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:3, Verse:11, Page:1,
-    Kor:"○주님께서 또 나에게 말씀하셨다. \"비록 이스라엘이 나를 배신하였다고 하지만, 신실하지 못한 유다보다는 낫다.",
+    Kor:"○주께서 또 나에게 말씀하셨다. \"비록 이스라엘이 나를 배신하였다고 하지만, 신실하지 못한 유다보다는 낫다.",
     Chn:"耶和华对我说：「背道的以色列比奸诈的犹大还显为义。",
     Eng:"The LORD said to me, \"Faithless Israel is more righteous than unfaithful Judah.",
     Ind:"Dan TUHAN berfirman kepadaku: \"Israel, perempuan murtad itu, membuktikan dirinya lebih benar dari pada Yehuda, perempuan yang tidak setia itu."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:12, Page:1,
-    Kor:"너는 북쪽으로 가서, 이 모든 말을 선포하여라.  배신한 이스라엘아, 돌아오너라! 나 주의 말이다. 내가 다시는 노한 얼굴로 너를 대하지 않겠다. 나는 자비로운 하나님이다. 나 주의 말이다. 내가 노를 영원히 품지는 않겠다.",
+    Kor:"너는 북쪽으로 가서, 이 모든 말을 선포하여라. '배신한 이스라엘아, 돌아오너라! 나 주의 말이다. 내가 다시는 노한 얼굴로 너를 대하지 않겠다. 나는 자비로운 하나님이다. 나 주의 말이다. 내가 노를 영원히 품지는 않겠다.",
     Chn:"你去向北方宣告说： 耶和华说：背道的以色列啊，回来吧！ 我必不怒目看你们； 因为我是慈爱的， 我必不永远存怒。 这是耶和华说的。",
     Eng:"Go, proclaim this message toward the north: \"'Return, faithless Israel,' declares the LORD, 'I will frown on you no longer, for I am merciful,' declares the LORD, 'I will not be angry forever.",
     Ind:"Pergilah menyerukan perkataan-perkataan ini ke utara, katakanlah: Kembalilah, hai Israel, perempuan murtad, demikianlah firman TUHAN. Muka-Ku tidak akan muram terhadap kamu, sebab Aku ini murah hati, demikianlah firman TUHAN, tidak akan murka untuk selama-lamanya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Hanya akuilah kesalahanmu, bahwa engkau telah mendurhaka terhadap TUHAN, Allahmu, telah melampiaskan cinta berahimu kepada orang-orang asing di bawah setiap pohon yang rimbun, dan tidak mendengarkan suara-Ku, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:3, Verse:14, Page:1,
-    Kor:"\"나를 배신한 자녀들아, 돌아오너라! 나 주의 말이다. 내가 너희의 보호자다. 내가 성읍마다 한 사람씩, 가문마다 두 사람씩 택하여, 너희를 시온 산으로 데려오겠다.",
+    Kor:"○\"나를 배신한 자녀들아, 돌아오너라! 나 주의 말이다. 내가 너희의 보호자다. 내가 성읍마다 한 사람씩, 가문마다 두 사람씩 택하여, 너희를 시온 산으로 데려오겠다.",
     Chn:"耶和华说：背道的儿女啊，回来吧！ 因为我作你们的丈夫， 并且我必将你们从一城取一人， 从一族取两人，带到锡安。",
     Eng:"\"Return, faithless people,\" declares the LORD, \"for I am your husband. I will choose you--one from a town and two from a clan--and bring you to Zion.",
     Ind:"Kembalilah, hai anak-anak yang murtad, demikianlah firman TUHAN, karena Aku telah menjadi tuan atas kamu! Aku akan mengambil kamu, seorang dari setiap kota dan dua orang dari setiap keluarga, dan akan membawa kamu ke Sion."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Aku akan mengangkat bagimu gembala-gembala yang sesuai dengan hati-Ku; mereka akan menggembalakan kamu dengan pengetahuan dan pengertian."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:16, Page:1,
-    Kor:"그 때가 이르러서, 너희가 이 땅에서 번성하여 많아지면, 아무도 다시는 주의 언약궤를 말하지 않을 것이다. 나 주의 말이다. 그것을 다시는 마음 속에 떠올리지도 않을 것이며, 기억하거나 찾지도 않을 것이다. 그것이 필요도 없을 것이다.",
+    Kor:"○그 때가 이르러서, 너희가 이 땅에서 번성하여 많아지면, 아무도 다시는 주의 언약궤를 말하지 않을 것이다. 나 주의 말이다. 그것을 다시는 마음 속에 떠올리지도 않을 것이며, 기억하거나 찾지도 않을 것이다. 그것이 필요도 없을 것이다.",
     Chn:"耶和华说：「你们在国中生养众多；当那些日子，人必不再提说耶和华的约柜，不追想，不记念，不觉缺少，也不再制造。",
     Eng:"In those days, when your numbers have increased greatly in the land,\" declares the LORD, \"men will no longer say, 'The ark of the covenant of the LORD.' It will never enter their minds or be remembered; it will not be missed, nor will another one be made.",
     Ind:"Apabila pada masa itu kamu bertambah banyak dan beranak cucu di negeri ini, demikianlah firman TUHAN, maka orang tidak lagi akan berbicara tentang tabut perjanjian TUHAN. Itu tidak lagi akan timbul dalam hati dan tidak lagi akan diingat orang; orang tidak lagi akan mencarinya atau membuatnya kembali."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:17, Page:1,
-    Kor:"그 때에는 누구나 예루살렘을 주의 보좌라고 부를 것이며, 뭇 민족이 그리로, 예루살렘에 있는 주 앞으로 모일 것이다. 그들이 다시는 자기들의 악한 마음에서 나오는 고집대로 살지 않을 것이다.",
+    Kor:"그 때에는 누구나 예루살렘을 주의 보좌라고 부를 것이며, 뭇 민족이 그리로, 예루살렘에 계시는 주님 앞으로 모일 것이다. 그들이 다시는 자기들의 악한 마음에서 나오는 고집대로 살지 않을 것이다.",
     Chn:"那时，人必称耶路撒冷为耶和华的宝座；万国必到耶路撒冷，在耶和华立名的地方聚集。他们必不再随从自己顽梗的恶心行事。",
     Eng:"At that time they will call Jerusalem The Throne of the LORD, and all nations will gather in Jerusalem to honor the name of the LORD. No loncer will they follow the stubbornness of their evil hearts.",
     Ind:"Pada waktu itu Yerusalem akan disebut takhta TUHAN, dan segala bangsa akan berkumpul ke sana, demi nama TUHAN ke Yerusalem, dan mereka tidak lagi akan bertingkah langkah menurut kedegilan hatinya yang jahat."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Pada masa itu kaum Yehuda akan pergi kepada kaum Israel, dan mereka akan datang bersama-sama dari negeri utara ke negeri yang telah Kubagikan kepada nenek moyangmu menjadi milik pusaka."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:19, Page:1,
-    Kor:"<이스라엘의 배신> \"나는 스스로 이렇게 생각하였다. 내가 너희를 나의 자녀로 삼고, 너희에게 아름다운 땅을 주어서, 뭇 민족 가운데서 가장 아름다운 유산을 받게 하면, 너희가 나를 '아버지!'라고 부르며 나만을 따르고, 나를 떠나가지 않을 것이라고 생각하였다.",
+    Kor:"○\"나는 스스로 이렇게 생각하였다. 내가 너희를 나의 자녀로 삼고, 너희에게 아름다운 땅을 주어서, 뭇 민족 가운데서 가장 아름다운 유산을 받게 하면, 너희가 나를 '아버지!'라고 부르며 나만을 따르고, 나를 떠나가지 않을 것이라고 생각하였다.",
     Chn:"我说：我怎样将你安置在儿女之中， 赐给你美地， 就是万国中肥美的产业。 我又说：你们必称我为父， 也不再转去不跟从我。",
     Eng:"\"I myself said, \"'How gladly would I treat you like sons and give you a desirable land, the most beautiful inheritance of any nation.' I thought you would call me 'Father' and not turn away from following me.",
     Ind:"Tadinya pikir-Ku: \"Sungguh Aku mau menempatkan engkau di tengah-tengah anak-anak-Ku dan memberikan kepadamu negeri yang indah, milik pusaka yang paling permai dari bangsa-bangsa. Pikir-Ku, engkau akan memanggil Aku: Bapaku, dan tidak akan berbalik dari mengikuti Aku."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Tetapi sesungguhnya, seperti seorang isteri tidak setia terhadap temannya, demikianlah kamu tidak setia terhadap Aku, hai kaum Israel, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:3, Verse:21, Page:1,
-    Kor:"<백성이 죄를 고백하다> 애타는 소리가 벌거숭이 언덕에서 들린다. 이스라엘 자손이 울부짖으면서 간구하는 소리다. 그들이 올곧은 길에서 벗어나고, 자기들의 하나님이신 주님을 잊었기 때문이다.",
+    Kor:"애타는 소리가 벌거숭이 언덕에서 들리고, 이스라엘 자손이 울부짖으면서 간구하는 소리가 들린다. 그들이 자기들의 길에서 벗어나고, 자기들의 하나님이신 주를 잊었기 때문이다.",
     Chn:"在净光的高处听见人声， 就是以色列人哭泣恳求之声， 乃因他们走弯曲之道， 忘记耶和华—他们的　神。",
     Eng:"A cry is heard on the barren heights, the weeping and pleading of the people of Israel, because they have perverted their ways and have forgotten the LORD their God.",
     Ind:"Dengar! Di atas bukit-bukit gundul kedengaran tangis memohon-mohon dari anak-anak Israel, sebab mereka telah memilih jalan yang sesat, dan telah melupakan TUHAN, Allah mereka."

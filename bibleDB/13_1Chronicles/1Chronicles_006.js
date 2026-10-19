@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",6,81);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:6, Verse:1, Page:1,
-    Kor:"<대제사장의 가계> 레위의 아들은 게르손과 고핫과 므라리이다.",
+    Kor:"레위의 아들은 게르손과 고핫과 므라리이다.",
     Chn:"利未的儿子是革顺、哥辖、米拉利。",
     Eng:"The sons of Levi: Gershon, Kohath and Merari.",
     Ind:"Anak-anak Lewi ialah Gerson, Kehat dan Merari."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Azarya memperanakkan Seraya; Seraya memperanakkan Yozadak;"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:15, Page:1,
-    Kor:"주님께서 유다와 예루살렘 주민을 느부갓네살의 손을 빌려 사로잡아 가게 하실 때에, 여호사닥도 붙잡혀 갔다.",
+    Kor:"주께서 유다와 예루살렘 주민을 느부갓네살의 손을 빌려 사로잡아 가게 하실 때에, 여호사닥도 붙잡혀 갔다.",
     Chn:"当耶和华借尼布甲尼撒的手掳掠犹大和耶路撒冷人的时候，这约萨答也被掳去。",
     Eng:"Jehozadak was deported when the LORD sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
     Ind:"Yozadak turut diangkut ketika TUHAN membiarkan orang Yehuda dan Yerusalem diangkut ke dalam pembuangan oleh Nebukadnezar."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:16, Page:1,
-    Kor:"<레위의 다른 자손> ○레위의 아들은 a게르손과 고핫과 므라리이며,(a 히, '게르솜', 게르손의 변형)",
+    Kor:"○레위의 아들은 게르손과 고핫과 므라리이며,",
     Chn:"利未的儿子是革顺、哥辖、米拉利。",
     Eng:"The sons of Levi: Gershon, Kohath and Merari.",
     Ind:"Anak-anak Lewi ialah Gerson, Kehat dan Merari."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:17, Page:1,
-    Kor:"a게르손의 아들의 이름은 립니와 시므이이다.(a 히, '게르솜', 게르손의 변형)",
+    Kor:"게르손의 아들의 이름은 립니와 시므이이다.",
     Chn:"革顺的儿子名叫立尼、示每。",
     Eng:"These are the names of the sons of Gershon: Libni and Shimei.",
     Ind:"Inilah nama anak-anak Gerson: Libni dan Simei."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Anak-anak Merari ialah Mahli dan Musi. Inilah kaum-kaum suku Lewi dalam puak-puak mereka:"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:20, Page:1,
-    Kor:"a게르손에게는 아들 립니가 있는데, 그 아들은 야핫이고, 그 아들은 심마이고,(a 히, '게르솜', 게르손의 변형)",
+    Kor:"게르손에게는 아들 립니가 있는데, 그 아들은 야핫이고, 그 아들은 심마이고,",
     Chn:"革顺的儿子是立尼；立尼的儿子是雅哈；雅哈的儿子是薪玛；",
     Eng:"Of Gershon: Libni his son, Jehath his son, Zimmah his son,",
     Ind:"dari pada Gerson ialah Libni, anaknya, dan anak orang ini ialah Yahat, dan anak orang ini ialah Zima,"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"dan anak orang ini ialah Elkana, dan anak orang ini ialah Zofai, dan anak orang ini ialah Nahat,"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:27, Page:1,
-    Kor:"그 아들은 엘리압이고, 그 아들은 여로함이고, 그 아들은 엘가나이고, b그 아들은 사무엘이다.(b 칠십인역 사본들을 따름.(삼상 1:19, 20에서도))",
+    Kor:"그 아들은 엘리압이고, 그 아들은 여로함이고, 그 아들은 엘가나이고, 그 아들은 사무엘이다.",
     Chn:"拿哈的儿子是以利押；以利押的儿子是耶罗罕；耶罗罕的儿子是以利加拿；以利加拿的儿子是撒母耳。",
     Eng:"Eliab his son, Jeroham his son, Elkanah his son and Samuel his son.",
     Ind:"dan anak orang ini ialah Eliab, dan anak orang ini ialah Yeroham, dan anak orang ini ialah Elkana."
@@ -183,25 +183,25 @@ BibleDB.add([
     Ind:"dan anak orang ini ialah Simea, dan anak orang ini ialah Hagia, dan anak orang ini ialah Asaya."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:31, Page:1,
-    Kor:"<성전 찬양대> ○언약궤를 평안히 안치한 뒤에, 다윗이 주님의 집에서 찬양할 사람들을 임명하였는데,",
+    Kor:"○언약궤를 평안히 안치한 뒤에, 다윗이 주의 집에서 찬양할 사람들을 임명하였는데,",
     Chn:"约柜安设之后，大卫派人在耶和华殿中管理歌唱的事。",
     Eng:"These are the men David put in charge of the music in the house of the LORD after the ark came to rest there.",
     Ind:"Inilah orang-orang yang ditugaskan oleh Daud memimpin nyanyian di rumah TUHAN sejak tabut itu mendapat tempat perhentian."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:32, Page:1,
-    Kor:"그들은, 솔로몬이 예루살렘에 주님의 집을 지을 때까지, 회막 곧 성막 앞에서 찬양하는 일을 맡았다. 그들은 정하여진 순서대로 그들의 직무를 수행하였다.",
+    Kor:"그들은, 솔로몬이 예루살렘에 주의 집을 지을 때까지, 회막 곧 성막 앞에서 찬양하는 일을 맡았다. 그들은 정하여진 순서대로 그들의 직무를 수행하였다.",
     Chn:"他们就在会幕前当歌唱的差，及至所罗门在耶路撒冷建造了耶和华的殿，他们便按着班次供职。",
     Eng:"They ministered with music before the tabernacle, the Tent of Meeting, until Solomon built the temple of the LORD in Jerusalem. They performed their duties according to the regulations laid down for them.",
     Ind:"Di hadapan Kemah Suci, yakni Kemah Pertemuan, mereka melayani sebagai penyanyi sampai Salomo mendirikan rumah TUHAN di Yerusalem. Mereka melakukan tugas jabatannya sesuai dengan peraturannya."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:33, Page:1,
-    Kor:"이 직무를 수행하는 사람과 그들의 자손은 다음과 같다. 고핫 족의 자손 가운데서 헤만은 찬양대장인데, 그는 요엘의 아들이고, 요엘은 b사무엘의 아들이고,(b 칠십인역 사본들을 따름.(삼상 1:19, 20에서도))",
+    Kor:"이 직무를 수행하는 사람과 그들의 자손은 다음과 같다. 고핫 족의 자손 가운데서 헤만은 찬양대장인데, 그는 요엘의 아들이고, 요엘은 사무엘의 아들이고,",
     Chn:"供职的人和他们的子孙记在下面： 哥辖的子孙中有歌唱的希幔。希幔是约珥的儿子；约珥是撒母耳的儿子；",
     Eng:"Here are the men who served, together with their sons: From the Kohathites: Heman, the musician, the son of Joel, the son of Samuel,",
     Ind:"Inilah orang-orang yang memegang tugas itu dengan anak-anak mereka: dari bani Kehat ialah Heman, penyanyi itu, anak Yoel bin Samuel"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:34, Page:1,
-    Kor:"b사무엘은 엘가나의 아들이고, 엘가나는 여로함의 아들이고, 여로함은 엘리엘의 아들이고, 엘리엘은 도아의 아들이고,(b 칠십인역 사본들을 따름.(삼상 1:19, 20에서도))",
+    Kor:"사무엘은 엘가나의 아들이고, 엘가나는 여로함의 아들이고, 여로함은 엘리엘의 아들이고, 엘리엘은 도아의 아들이고,",
     Chn:"撒母耳是以利加拿的儿子；以利加拿是耶罗罕的儿子；耶罗罕是以列的儿子；以列是陀亚的儿子；",
     Eng:"the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
     Ind:"bin Elkana bin Yeroham bin Eliel bin Toah"
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"bin Etan bin Zima bin Simei"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:43, Page:1,
-    Kor:"시므이는 야핫의 아들이고, 야핫은 a게르손의 아들이고, a게르손은 레위의 아들이다.(a 히, '게르솜', 게르손의 변형)",
+    Kor:"시므이는 야핫의 아들이고, 야핫은 게르손의 아들이고, 게르손은 레위의 아들이다.",
     Chn:"示每是雅哈的儿子；雅哈是革顺的儿子。革顺是利未的儿子。",
     Eng:"the son of Jahath, the son of Gershon, the son of Levi;",
     Ind:"bin Yahat bin Gerson bin Lewi."
@@ -267,7 +267,7 @@ BibleDB.add([
     Ind:"Di sebelah kiri berdiri dari bani Merari, saudara-saudara sesuku mereka, Etan bin Kisi bin Abdi bin Malukh"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:45, Page:1,
-    Kor:"말룩은 하사뱌의 아들이고, 하사뱌는 아마쟈의 아들이고, 아마쟈는 힐기야의 아들이고,",
+    Kor:"말룩은 하사뱌의 아들이고, 하사뱌는 아마시야의 아들이고, 아마시야는 힐기야의 아들이고,",
     Chn:"玛鹿是哈沙比雅的儿子；哈沙比雅是亚玛谢的儿子；亚玛谢是希勒家的儿子；",
     Eng:"the son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
     Ind:"bin Hasabya bin Amazia bin Hilkia"
@@ -291,7 +291,7 @@ BibleDB.add([
     Ind:"Saudara-saudara sesuku mereka, orang-orang Lewi yang lain, diserahkan melakukan segala pekerjaan di Kemah Suci, rumah Allah."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:49, Page:1,
-    Kor:"<아론의 자손> ○아론과 그의 자손은 번제단과 분향단 위에 제사드리는 일과 지성소의 모든 일과 이스라엘을 위하여 속죄하는 일을, 하나님의 종 모세가 지시한 그대로 하였다.",
+    Kor:"○아론과 그의 자손은 번제단과 분향단 위에 제사드리는 일과 지성소의 모든 일과 이스라엘을 위하여 속죄하는 일을, 하나님의 종 모세가 지시한 그대로 하였다.",
     Chn:"亚伦和他的子孙在燔祭坛和香坛上献祭烧香，又在至圣所办理一切的事，为以色列人赎罪，是照　神仆人摩西所吩咐的。",
     Eng:"But Aaron and his descendants were the ones who presented offerings on the altar of burnt offering and on the altar of incense in connection with all that was done in the Most Holy Place, making atonement for Israel, in accordance with all that Moses the servant of God had commanded.",
     Ind:"Tetapi Harun dan anak-anaknya berkewajiban membakar korban di atas mezbah korban bakaran dan di atas mezbah pembakaran ukupan, dan melakukan segala pekerjaan di tempat maha kudus serta mengadakan pendamaian bagi orang Israel, tepat seperti yang diperintahkan Musa, hamba Allah itu."
@@ -321,7 +321,7 @@ BibleDB.add([
     Ind:"dan anak orang ini ialah Zadok, dan anak orang ini ialah Ahimaas."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:54, Page:1,
-    Kor:"<레위 사람의 정착지> ○그들이 장막을 치고 살던 지역은 다음과 같다. 아론의 자손, 곧 고핫 종족이 맨 먼저 제비를 뽑았다.",
+    Kor:"○그들이 장막을 치고 살던 지역은 다음과 같다. 아론의 자손, 곧 고핫 종족이 맨 먼저 제비를 뽑았다.",
     Chn:"他们的住处按着境内的营寨，记在下面：哥辖族亚伦的子孙先拈阄得地，",
     Eng:"These were the locations of their settlements allotted as their territory (they were assigned to the descendants of Aaron who were from the Kohathite clan, because the first lot was for them):",
     Ind:"Inilah tempat-tempat kediaman mereka menurut tempat-tempat perkemahan mereka di daerah mereka: kepada keturunan Harun yang termasuk kaum orang Kehat--karena bagi merekalah undian yang pertama--"
@@ -369,7 +369,7 @@ BibleDB.add([
     Ind:"Dan keturunan Kehat yang selebihnya mendapat dengan undian sepuluh kota dari kaum suku itu, yakni dari suku Manasye yang setengah itu."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:62, Page:1,
-    Kor:"○a게르손 자손은 그 종족대로 잇사갈 지파와 아셀 지파와 납달리 지파와 바산에 있는 므낫세 지파의 영역에서 열세 성읍을 받았다.(a 히, '게르솜', 게르손의 변형)",
+    Kor:"○게르손 자손은 그 종족대로 잇사갈 지파와 아셀 지파와 납달리 지파와 바산에 있는 므낫세 지파의 영역에서 열세 성읍을 받았다.",
     Chn:"革顺族按着宗族，在以萨迦支派的地中，亚设支派的地中，拿弗他利支派的地中，巴珊内玛拿西支派的地中，得了十三座城。",
     Eng:"The descendants of Gershon, clan by clan, were allotted thirteen towns from the tribes of Issachar, Asher and Naphtali, and from the part of the tribe of Manasseh that is in Bashan.",
     Ind:"Kepada keturunan Gerson menurut kaum-kaum mereka diberikan tiga belas kota dari suku Isakhar, dari suku Asyer, dari suku Naftali dan dari suku Manasye yang di Basan."
@@ -423,7 +423,7 @@ BibleDB.add([
     Ind:"Dan dari suku Manasye yang setengah itu: Aner dengan tanah-tanah penggembalaannya dan Bileam dengan tanah-tanah penggembalaannya. Jadi kota-kota itu diberikan kepada kaum-kaum yang selebihnya dari keturunan Kehat."
   },
   {Bible:"1Chronicles", Chapter:6, Verse:71, Page:1,
-    Kor:"○a게르손 자손은 다음과 같은 성읍과 주변의 목초지를 나누어 받았다. ○므낫세 동쪽 지파 종족의 영역에서 바산의 골란과 그 목초지, 아스다롯과 그 목초지를 받았고,(a 히, '게르솜', 게르손의 변형)",
+    Kor:"○게르손 자손은 다음과 같은 성읍과 주변의 목초지를 나누어 받았다. ○므낫세 동쪽 지파 종족의 영역에서 바산의 골란과 그 목초지, 아스다롯과 그 목초지를 받았고,",
     Chn:"革顺族在玛拿西半支派的地中得了巴珊的哥兰与其郊野，亚斯他录与其郊野；",
     Eng:"The Gershonites received the following: From the clan of the half-tribe of Manasseh they received Golan in Bashan and also Ashtaroth, together with their pasturelands;",
     Ind:"Keturunan Gerson mendapat dari kaum suku Manasye yang setengah itu; Golan yang di Basan dengan tanah-tanah penggembalaannya, lalu Asytarot dengan tanah-tanah penggembalaannya;"
@@ -483,7 +483,7 @@ BibleDB.add([
     Ind:"dan dari suku Gad: Ramot di Gilead dengan tanah-tanah penggembalaannya, Mahanaim dengan tanah-tanah penggembalaannya,"
   },
   {Bible:"1Chronicles", Chapter:6, Verse:81, Page:1,
-    Kor:"헤스본과 그 목초지, 야스엘과 그 목초지를 받았다.",
+    Kor:"헤스본과 그 목초지, 야셀과 그 목초지를 받았다.",
     Chn:"希实本与其郊野，雅谢与其郊野。",
     Eng:"Heshbon and Jazer, together with their pasturelands.",
     Ind:"Hesybon dengan tanah-tanah penggembalaannya dan Yaezer dengan tanah-tanah penggembalaannya."

@@ -3,55 +3,55 @@
 BibleDB.ref("Joshua",21,45);
 BibleDB.add([
   {Bible:"Joshua", Chapter:21, Verse:1, Page:1,
-    Kor:"<레위 사람의 성읍> 그 때에 레위 지파의 족장들이 제사장 엘르아살과 눈의 아들 여호수아와 이스라엘 자손의 다른 지파 족장들에게 나아왔다.",
+    Kor:"그 때에 레위 지파의 족장들이 제사장 엘르아살과 눈의 아들 여호수아와 이스라엘 자손의 다른 지파 족장들에게 나아왔다.",
     Chn:"那时，利未人的众族长来到祭司以利亚撒和嫩的儿子约书亚，并以色列各支派的族长面前，",
     Eng:"Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribal families of Israel",
     Ind:"Kemudian datanglah para kepala kaum keluarga orang Lewi menghadap imam Eleazar, menghadap Yosua bin Nun, dan menghadap para kepala kaum keluarga di antara suku-suku orang Israel"
   },
   {Bible:"Joshua", Chapter:21, Verse:2, Page:1,
-    Kor:"그 곳 가나안 땅 실로에서 레위 지파의 족장들이 그들에게 말하였다. \"주님께서 모세를 시켜서, 우리가 거주할 성읍과 우리의 가축을 먹일 목장을 우리에게 주라고 명하셨습니다.\"",
+    Kor:"그 곳, 가나안 땅 실로에서 레위 지파의 족장들이 그들에게 말하였다. \"주께서 모세를 시켜서, 우리가 거주할 성읍과 우리의 가축을 먹일 목장을 우리에게 주라고 명하셨습니다.\"",
     Chn:"在迦南地的示罗对他们说：「从前耶和华借着摩西吩咐给我们城邑居住，并城邑的郊野可以牧养我们的牲畜。」",
     Eng:"at Shiloh in Canaan and said to them, \"The LORD commanded through Moses that you give us towns to live in, with pasturelands for our livestock.\"",
     Ind:"dan berkata kepada mereka di Silo di tanah Kanaan, demikian: \"TUHAN telah memerintahkan dengan perantaraan Musa, supaya diberikan kepada kami kota-kota untuk didiami dan tanah-tanah penggembalaannya untuk ternak kami.\""
   },
   {Bible:"Joshua", Chapter:21, Verse:3, Page:1,
-    Kor:"그래서 이스라엘 자손은 주님의 명을 따라, 그들의 유산 가운데서 다음의 성읍들과 목장을 레위 사람에게 주었다.",
+    Kor:"그래서 이스라엘 자손은 주의 명을 따라, 그들의 유산 가운데서 다음의 성읍들과 목장을 레위 사람에게 주었다.",
     Chn:"于是以色列人照耶和华所吩咐的，从自己的地业中，将以下所记的城邑和城邑的郊野给了利未人。",
     Eng:"So, as the LORD had commanded, the Israelites gave the Levites the following towns and pasturelands out of their own inheritance:",
     Ind:"Lalu orang Israel memberikan dari milik pusaka mereka kota-kota yang berikut dengan tanah-tanah penggembalaannya kepada orang Lewi, seperti yang dititahkan TUHAN."
   },
   {Bible:"Joshua", Chapter:21, Verse:4, Page:1,
-    Kor:"○고핫 가문의 몫을 결정할 제비를 뽑았는데, 레위 사람 가운데 아론 제사장의 자손에게는 유다 지파와 시므온 지파와 베냐민 지파의 몫에서 열세 성읍이 돌아갔다.",
+    Kor:"○고핫 가문의 몫을 결정할 제비를 뽑았는데, 레위 사람 가운데 아론 제사장의 자손에게는 유다 지파와 시므온 지파와 베냐민 지파에서 열세 성읍이 돌아갔다.",
     Chn:"为哥辖族拈阄：利未人的祭司、亚伦的子孙，从犹大支派、西缅支派、便雅悯支派的地业中，按阄得了十三座城。",
     Eng:"The first lot came out for the Kohathites, clan by clan. The Levites who were descendants of Aaron the priest were allotted thirteen towns from the tribes of Judah, Simeon and Benjamin.",
     Ind:"Lalu keluarlah undian bagi kaum-kaum orang Kehat. Maka di antara orang Lewi anak-anak imam Harun, mendapat dengan undian tiga belas kota dari suku Yehuda, dari suku Simeon dan dari suku Benyamin."
   },
   {Bible:"Joshua", Chapter:21, Verse:5, Page:1,
-    Kor:"고핫의 남은 자손에게는 에브라임 지파 가문과 단 지파와 므낫세의 반쪽 지파의 몫에서 열 성읍이 돌아갔다.",
+    Kor:"고핫의 남은 자손에게는 에브라임 지파 가문과 단 지파와 므낫세의 반쪽 지파에서 열 성읍이 돌아갔다.",
     Chn:"哥辖其余的子孙，从以法莲支派、但支派、玛拿西半支派的地业中，按阄得了十座城。",
     Eng:"The rest of Kohath's descendants were allotted ten towns from the clans of the tribes of Ephraim, Dan and half of Manasseh.",
     Ind:"Kaum-kaum yang lain di antara keturunan Kehat mendapat dengan undian sepuluh kota dari kaum-kaum suku Efraim, dari suku Dan dan dari suku Manasye yang setengah itu."
   },
   {Bible:"Joshua", Chapter:21, Verse:6, Page:1,
-    Kor:"○게르손 자손에게는 잇사갈 지파 가문과 아셀 지파와 납달리 지파와 바산에 있는 므낫세의 반쪽 지파의 몫에서 열세 성읍이 돌아갔다.",
+    Kor:"○게르손 자손에게는 잇사갈 지파 가문과 아셀 지파와 납달리 지파와 바산에 있는 므낫세의 반쪽 지파에서 열세 성읍이 돌아갔다.",
     Chn:"革顺的子孙，从以萨迦支派、亚设支派、拿弗他利支派、住巴珊的玛拿西半支派的地业中，按阄得了十三座城。",
     Eng:"The descendants of Gershon were allotted thirteen towns from the clans of the tribes of Issachar, Asher, Naphtali and the half-tribe of Manasseh in Bashan.",
     Ind:"Keturunan Gerson mendapat dengan undian tiga belas kota dari kaum-kaum suku Isakhar, dari suku Asyer, dari suku Naftali dan dari setengah suku Manasye yang di Basan itu."
   },
   {Bible:"Joshua", Chapter:21, Verse:7, Page:1,
-    Kor:"○므라리 자손에게는 그 가문을 따라 르우벤 지파와 갓 지파와 스불론 지파의 몫에서 열두 성읍이 돌아갔다.",
+    Kor:"○므라리 자손에게는 그 가문을 따라, 르우벤 지파와 갓 지파와 스불론 지파에서 열두 성읍이 돌아갔다.",
     Chn:"米拉利的子孙，按着宗族，从吕便支派、迦得支派、西布伦支派的地业中，按阄得了十二座城。",
     Eng:"The descendants of Merari, clan by clan, received twelve towns from the tribes of Reuben, Gad and Zebulun.",
     Ind:"Keturunan Merari mendapat dengan undian dua belas kota menurut kaum-kaum mereka, dari suku Ruben, dari suku Gad dan dari suku Zebulon."
   },
   {Bible:"Joshua", Chapter:21, Verse:8, Page:1,
-    Kor:"○이스라엘 자손이 제비를 뽑아서, 주님께서 모세에게 명하신 대로, 레위 사람들에게 이러한 성읍들과 목장을 주었다.",
+    Kor:"○이스라엘 자손이 제비를 뽑아서, 주께서 모세에게 명하신 대로, 레위 사람들에게 이러한 성읍들과 목장을 주었다.",
     Chn:"以色列人照着耶和华借摩西所吩咐的，将这些城邑和城邑的郊野，按阄分给利未人。",
     Eng:"So the Israelites allotted to the Levites these towns and their pasturelands, as the LORD had commanded through Moses.",
     Ind:"Demikianlah diberikan orang Israel kota-kota tadi dengan tanah-tanah penggembalaannya kepada orang Lewi dengan undian seperti yang diperintahkan TUHAN dengan perantaraan Musa."
   },
   {Bible:"Joshua", Chapter:21, Verse:9, Page:1,
-    Kor:"○유다 자손의 지파와 시므온 자손의 지파의 몫에서 다음과 같은 성읍이 아론의 자손에게 돌아갔다.",
+    Kor:"○유다 자손의 지파와 시므온 자손의 지파에서 다음과 같은 성읍이 아론의 자손에게 돌아갔다.",
     Chn:"从犹大支派、西缅支派的地业中，将以下所记的城给了利未支派哥辖宗族亚伦的子孙；因为给他们拈出头一阄，",
     Eng:"From the tribes of Judah and Simeon they allotted the following towns by name",
     Ind:"Dari suku bani Yehuda dan dari suku bani Simeon diberikan mereka kota-kota yang berikut, yang disebutkan namanya di sini:",
@@ -64,7 +64,7 @@ BibleDB.add([
     Ind:"kepada anak-anak Harun yang dari kaum-kaum orang Kehat yang termasuk bani Lewi, karena bagi merekalah undian yang pertama,"
   },
   {Bible:"Joshua", Chapter:21, Verse:11, Page:1,
-    Kor:"아낙의 아버지인 아르바가 가지고 있던 기럇아르바 곧 유다 산간지방에 있는 헤브론과 그 주변 목장을 얻게 되었다.",
+    Kor:"아낙의 아버지인 아르바가 가지고 있던 기럇아르바, 곧 유다 산간지방에 있는 헤브론과 그 주변 목장을 얻게 되었다.",
     Chn:"将犹大山地的基列·亚巴和四围的郊野给了他们。亚巴是亚衲族的始祖。（基列·亚巴就是希伯 ）。",
     Eng:"They gave them Kiriath Arba (that is, Hebron), with its surrounding pastureland, in the hill country of Judah. (Arba was the forefather of Anak.)",
     Ind:"kepada mereka diberikan Kiryat-Arba, itulah Hebron--Arba inilah bapa suku Enak--di pegunungan Yehuda, dan tanah-tanah penggembalaan di sekelilingnya;"
@@ -118,7 +118,7 @@ BibleDB.add([
     Ind:"Seluruhnya kota-kota kepunyaan anak-anak Harun, para imam itu, ada tiga belas kota dengan tanah-tanah penggembalaannya."
   },
   {Bible:"Joshua", Chapter:21, Verse:20, Page:1,
-    Kor:"○레위 사람들 가운데서 나머지 곧 고핫 자손 가문의 레위 사람은 에브라임 지파에게서 성읍을 몫으로 받았다.",
+    Kor:"○레위 사람들 가운데서 나머지, 곧 고핫 자손 가문의 레위 사람은 에브라임 지파에게서 성읍을 몫으로 받았다.",
     Chn:"利未支派中哥辖的宗族，就是哥辖其余的子孙，拈阄所得的城有从以法莲支派中分出来的。",
     Eng:"The rest of the Kohathite clans of the Levites were allotted towns from the tribe of Ephraim:",
     Ind:"Kaum-kaum keturunan Kehat, yakni orang Lewi yang masih tinggal dari antara keturunan Kehat, mendapat kota-kota yang dengan undian kepada mereka dari suku Efraim."
@@ -202,7 +202,7 @@ BibleDB.add([
     Ind:"Seluruhnya kota-kota kepunyaan orang Gerson menurut kaum-kaum mereka ada tiga belas kota dengan tanah-tanah penggembalaannya."
   },
   {Bible:"Joshua", Chapter:21, Verse:34, Page:1,
-    Kor:"○레위 사람 가운데서 나머지 므라리 자손의 가문에게는, 스불론 지파에서 욕느암과 거기에 딸린 목장과, 가르다와 거기에 딸린 목장과,",
+    Kor:"○레위 사람 가운데서, 나머지 므라리 자손의 가문에게는, 스불론 지파에서 욕느암과 거기에 딸린 목장과, 가르다와 거기에 딸린 목장과,",
     Chn:"其余利未支派米拉利子孙，从西布伦支派的地业中所得的，就是约念和属城的郊野，加珥他和属城的郊野，",
     Eng:"The Merarite clans (the rest of the Levites) were given: from the tribe of Zebulun, Jokneam, Kartah,",
     Ind:"Kaum-kaum keturunan Merari, orang Lewi yang masih tinggal, mendapat dari suku Zebulon: Yokneam dengan tanah-tanah penggembalaannya, Karta dengan tanah-tanah penggembalaannya,"
@@ -232,13 +232,13 @@ BibleDB.add([
     Ind:"Dan dari suku Gad: Ramot, kota perlindungan untuk pembunuh, di Gilead, dengan tanah-tanah penggembalaannya, Mahanaim dengan tanah-tanah penggembalaannya,"
   },
   {Bible:"Joshua", Chapter:21, Verse:39, Page:1,
-    Kor:"헤스본과 거기에 딸린 목장과, 야스엘과 거기에 딸린 목장, 이렇게 모두 네 성읍을 므라리 자손에게 주었다.",
+    Kor:"헤스본과 거기에 딸린 목장과, 야셀과 거기에 딸린 목장, 이렇게 모두 네 성읍을 므라리 자손에게 주었다.",
     Chn:"希实本和属城的郊野，雅谢和属城的郊野，共四座城。",
     Eng:"Heshbon and Jazer, together with their pasturelands--four towns in all.",
     Ind:"Hesybon dengan tanah-tanah penggembalaannya dan Yaezer dengan tanah-tanah penggembalaannya: seluruhnya kota-kota itu ada empat."
   },
   {Bible:"Joshua", Chapter:21, Verse:40, Page:1,
-    Kor:"이것이 레위 가문의 나머지 곧 므라리 자손이 그 가문을 따라 받은 성읍으로서, 모두 열두 성읍이 그들의 몫이 되었다.",
+    Kor:"이것이 레위 가문의 나머지, 곧 므라리 자손이 그 가문을 따라 받은 성읍으로서, 모두 열두 성읍이 그들의 몫이 되었다.",
     Chn:"其余利未支派的人，就是米拉利的子孙，按着宗族拈阄所得的，共十二座城。",
     Eng:"All the towns allotted to the Merarite clans, who were the rest of the Levites, were twelve.",
     Ind:"Seluruhnya kota-kota itu ditentukan bagi keturunan Merari menurut kaum-kaum mereka, yakni yang masih tinggal dari kaum-kaum orang Lewi. Bagian undian mereka ada dua belas kota."
@@ -256,19 +256,19 @@ BibleDB.add([
     Ind:"Kota-kota itu masing-masing ada tanah-tanah penggembalaannya di sekelilingnya, demikianlah kota-kota tadi seluruhnya."
   },
   {Bible:"Joshua", Chapter:21, Verse:43, Page:1,
-    Kor:"<이스라엘이 약속된 땅을 차지하다> ○이와 같이 주님께서 이스라엘 백성의 조상에게 주시겠다고 맹세하신 모든 땅을 이스라엘 백성에게 주셨으므로, 그들은 그 땅을 차지하여 거기에 자리 잡고 살았다.",
+    Kor:"○이와 같이 주께서, 이스라엘 백성의 조상에게 주시겠다고 맹세하신 모든 땅을 이스라엘 백성에게 주셨으므로, 그들은 그 땅을 차지하여 거기에 자리 잡고 살았다.",
     Chn:"这样，耶和华将从前向他们列祖起誓所应许的全地赐给以色列人，他们就得了为业，住在其中。",
     Eng:"So the LORD gave Israel all the land he had sworn to give their forefathers, and they took possession of it and settled there.",
     Ind:"Jadi seluruh negeri itu diberikan TUHAN kepada orang Israel, yakni negeri yang dijanjikan-Nya dengan bersumpah untuk diberikan kepada nenek moyang mereka. Mereka menduduki negeri itu dan menetap di sana."
   },
   {Bible:"Joshua", Chapter:21, Verse:44, Page:1,
-    Kor:"주님께서는 그들의 조상에게 맹세하신 대로, 사방에 평화를 주셨다. 또한 주님께서는 그들의 모든 원수를 그들의 손에 넘기셨으므로, 그들의 원수 가운데서 어느 누구도 그들에게 대항하지 못하였다.",
+    Kor:"주께서는 그들의 조상에게 맹세하신 대로, 사방에 평화를 주셨다. 또한 주께서는 그들의 모든 원수를 그들의 손에 넘기셨으므로, 그들의 원수 가운데서 어느 누구도 그들에게 대항하지 못하였다.",
     Chn:"耶和华照着向他们列祖起誓所应许的一切话，使他们四境平安；他们一切仇敌中，没有一人在他们面前站立得住。耶和华把一切仇敌都交在他们手中。",
     Eng:"The LORD gave them rest on every side, just as he had sworn to their forefathers. Not one of their enemies withstood them; the LORD handed all their enemies over to them.",
     Ind:"Dan TUHAN mengaruniakan kepada mereka keamanan ke segala penjuru, tepat seperti yang dijanjikan-Nya dengan bersumpah kepada nenek moyang mereka. Tidak ada seorangpun dari semua musuhnya yang tahan berdiri menghadapi mereka; semua musuhnya diserahkan TUHAN kepada mereka."
   },
   {Bible:"Joshua", Chapter:21, Verse:45, Page:1,
-    Kor:"주님께서 이스라엘 사람에게 약속하신 모든 선한 말씀이, 하나도 어긋남이 없이 그대로 다 이루어졌다.",
+    Kor:"주께서 이스라엘 사람에게 약속하신 모든 선한 말씀이, 하나도 어긋남이 없이 그대로 다 이루어졌다.",
     Chn:"耶和华应许赐福给以色列家的话一句也没有落空，都应验了。",
     Eng:"Not one of all the LORD'S good promises to the house of Israel failed; every one was fulfilled.",
     Ind:"Dari segala yang baik yang dijanjikan TUHAN kepada kaum Israel, tidak ada yang tidak dipenuhi; semuanya terpenuhi."

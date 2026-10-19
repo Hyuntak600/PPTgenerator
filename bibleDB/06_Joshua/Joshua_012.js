@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",12,24);
 BibleDB.add([
   {Bible:"Joshua", Chapter:12, Verse:1, Page:1,
-    Kor:"<모세가 정복한 왕들> 이스라엘 자손이 요단 강 동쪽 해 돋는 쪽 곧 아르논 골짜기에서부터 헤르몬 산까지, 동쪽 온 아라바를 무찌르고 점령하였는데, 그 땅의 왕들은 다음과 같다.",
+    Kor:"이스라엘 자손이 요단 강 동쪽 해 돋는 쪽, 곧 아르논 골짜기에서부터 헤르몬 산까지, 동쪽 온 아라바를 무찌르고 점령하였는데, 그 땅의 왕들은 다음과 같다.",
     Chn:"以色列人在约旦河外向日出之地击杀二王，得他们的地，就是从亚嫩谷直到黑门山，并东边的全亚拉巴之地。",
     Eng:"These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:",
     Ind:"Inilah raja-raja negeri yang dikalahkan oleh orang Israel dan yang negerinya diduduki mereka di seberang Yordan ke arah matahari terbit, dari sungai Arnon sampai gunung Hermon, serta seluruh Araba-Yordan ke arah timur:"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"yakni Sihon, raja orang Amori, yang diam di Hesybon, yang memerintah atas suatu daerah dari Aroer, yang letaknya di tepi sungai Arnon, pada pertengahan sungai itu, ditambah setengah Gilead, sampai sungai Yabok, batas daerah bani Amon,"
   },
   {Bible:"Joshua", Chapter:12, Verse:3, Page:1,
-    Kor:"그는 또한 아라바 동쪽 방면의 긴네롯 바다까지와 아라바의 바다, 곧 동쪽 방면의 사해, 벳여시못으로 통하는 길까지와 남쪽으로는 비스가 산 기슭까지 다스렸다.",
+    Kor:"그는 또한 아라바 동쪽 방면의 긴네롯 바다까지와 아라바의 바다, 곧 동쪽 방면의 사해, 벳여시못으로 통하는 길까지와 남쪽으로는 비스가 산기슭까지 다스렸다.",
     Chn:"与约旦河东边的亚拉巴，直到基尼烈海，又到亚拉巴的海，就是盐海，通伯·耶西末的路，以及南方，直到毗斯迦的山根。",
     Eng:"He also ruled over the eastern Arabah from the Sea of Kinnereth to the Sea of the Arabah (the Salt Sea), to Beth Jeshimoth, and then southward below the slopes of Pisgah.",
     Ind:"dan atas Araba-Yordan sampai sebelah timur danau Kinerot dan sampai sebelah timur Laut Araba, yakni Laut Asin, ke arah Bet-Yesimot dan ke arah selatan sampai kaki lereng-lereng gunung Pisga."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"dan memerintah atas gunung Hermon, atas Salkha dan atas seluruh Basan sampai daerah orang Gesur dan orang Maakha dan atas setengah Gilead, sampai daerah Sihon, raja Hesybon."
   },
   {Bible:"Joshua", Chapter:12, Verse:6, Page:1,
-    Kor:"○이 두 왕은 바로 주님의 종 모세와 이스라엘 자손이 무찌른 사람들이다. 주님의 종 모세가 그 땅을 르우벤 지파와 갓 지파와 므낫세 반쪽 지파에게 주어서 소유로 삼도록 하였다.",
+    Kor:"○이 두 왕은 바로, 주의 종 모세와 이스라엘 자손이 무찌른 사람들이다. 주의 종 모세가 그 땅을 르우벤 지파와 갓 지파와 므낫세 반쪽 지파에게 주어서 소유로 삼도록 하였다.",
     Chn:"这二王是耶和华仆人摩西和以色列人所击杀的；耶和华仆人摩西将他们的地赐给吕便人、迦得人，和玛拿西半支派的人为业。",
     Eng:"Moses, the servant of the LORD, and the Israelites conquered them. And Moses the servant of the LORD gave their land to the Reubenites, the Gadites and the half-tribe of Manasseh to be their possession.",
     Ind:"Musa, hamba TUHAN itu, beserta orang Israel, telah mengalahkan mereka, dan Musa, hamba TUHAN itu, telah memberikan daerah itu kepada orang Ruben, orang Gad dan suku Manasye yang setengah itu, menjadi milik mereka."
   },
   {Bible:"Joshua", Chapter:12, Verse:7, Page:1,
-    Kor:"<여호수아가 정복한 왕들> ○여호수아와 이스라엘 자손이 요단 강 동쪽에 있는 서쪽 레바논 골짜기의 바알갓에서부터 세일로 올라가는 곳인 할락 산까지, 그 땅의 왕을 모두 무찔렀다. 여호수아가 이스라엘의 지파들에게 그 지파의 구분을 따라 그 땅을 나누어 주어서 가지게 하였다.",
+    Kor:"○여호수아와 이스라엘 자손이 요단 강 동쪽에 있는 서쪽 레바논 골짜기의 바알갓에서부터 세일로 올라가는 곳인 할락 산까지, 그 땅의 왕을 모두 무찔렀다. 여호수아가 이스라엘의 지파들에게 그 지파의 구분을 따라 그 땅을 나누어 주어서 가지게 하였다.",
     Chn:"约书亚和以色列人在约旦河西击杀了诸王。他们的地是从黎巴嫩平原的巴力·迦得，直到上西珥的哈拉山。约书亚就将那地按着以色列支派的宗族分给他们为业，",
     Eng:"These are the kings of the land that Joshua and the Israelites conquered on the west side of the Jordan, from Baal Gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (their lands Joshua gave as an inheritance to the tribes of Israel according to their tribal divisions--",
     Ind:"Inilah raja negeri yang dikalahkan oleh Yosua dan oleh orang Israel di sebelah barat sungai Yordan, dari Baal-Gad di lembah gunung Libanon sampai Pegunungan Gundul, yang mendaki ke arah Seir--negeri ini diberikan Yosua kepada suku-suku Israel menjadi miliknya, menurut pembagiannya,"

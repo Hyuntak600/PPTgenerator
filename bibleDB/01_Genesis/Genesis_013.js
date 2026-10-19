@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",13,18);
 BibleDB.add([
   {Bible:"Genesis", Chapter:13, Verse:1, Page:1,
-    Kor:"<아브람과 롯이 따로 살림을 내다> 아브람은 이집트를 떠나서, 네겝으로 올라갔다. 그는 아내를 데리고서, 모든 소유를 가지고 이집트를 떠났다. 조카 롯도 그와 함께 갔다.",
+    Kor:"아브람은 이집트를 떠나서, 네겝으로 올라갔다. 그는 아내를 데리고서, 모든 소유를 가지고 이집트를 떠났다. 조카 롯도 그와 함께 갔다.",
     Chn:"亚伯兰带着他的妻子与罗得，并一切所有的，都从埃及上南地去。",
     Eng:"So Abram went up from Egypt to the Negev, with his wife and everything he had, and Lot went  with him.",
     Ind:"Maka pergilah Abram dari Mesir ke Tanah Negeb dengan isterinya dan segala kepunyaannya, dan Lotpun bersama-sama dengan dia."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Ia berjalan dari tempat persinggahan ke tempat persinggahan, dari Tanah Negeb sampai dekat Betel, di mana kemahnya mula-mula berdiri, antara Betel dan Ai,"
   },
   {Bible:"Genesis", Chapter:13, Verse:4, Page:1,
-    Kor:"그 곳은 그가 처음으로 제단을 쌓은 곳이다. 거기에서 아브람은 주님의 이름을 부르며, 예배를 드렸다.",
+    Kor:"그 곳은, 그가 처음으로 제단을 쌓은 곳이다. 거기에서 아브람은 주의 이름을 부르며, 예배를 드렸다.",
     Chn:"也是他起先筑坛的地方；他又在那里求告耶和华的名。",
     Eng:"and where he had first built an altar. There Abram called on the name of the LORD.",
     Ind:"ke tempat mezbah yang dibuatnya dahulu di sana; di situlah Abram memanggil nama TUHAN."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Juga Lot, yang ikut bersama-sama dengan Abram, mempunyai domba dan lembu dan kemah."
   },
   {Bible:"Genesis", Chapter:13, Verse:6, Page:1,
-    Kor:"그러나 그 땅은 그들이 함께 머물기에는 좁았다. 그들은 재산이 너무 많아서, 그 땅에서 함께 머물 수가 없었다.",
+    Kor:"그러나 그 땅은, 그들이 함께 머물기에는 좁았다. 그들은, 재산이 너무 많아서, 그 땅에서 함께 머물 수가 없었다.",
     Chn:"那地容不下他们；因为他们的财物甚多，使他们不能同居。",
     Eng:"But the land could not support them while they stayed together, for their possessions were  so great that they were not able to stay together.",
     Ind:"Tetapi negeri itu tidak cukup luas bagi mereka untuk diam bersama-sama, sebab harta milik mereka amat banyak, sehingga mereka tidak dapat diam bersama-sama."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Bukankah seluruh negeri ini terbuka untuk engkau? Baiklah pisahkan dirimu dari padaku; jika engkau ke kiri, maka aku ke kanan, jika engkau ke kanan, maka aku ke kiri.\""
   },
   {Bible:"Genesis", Chapter:13, Verse:10, Page:1,
-    Kor:"롯이 멀리 바라보니, 요단 온 들판이, 소알에 이르기까지, 물이 넉넉한 것이 마치 주님의 동산과도 같고, 이집트 땅과도 같았다. 아직 주님께서 소돔과 고모라를 멸망시키시기 전이었다.",
+    Kor:"롯이 멀리 바라보니, 요단 온 들판이, 소알에 이르기까지, 물이 넉넉한 것이 마치 주의 동산과도 같고, 이집트 땅과도 같았다. 아직 주께서 소돔과 고모라를멸망시키시기 전이었다.",
     Chn:"罗得举目看见约旦河的全平原，直到琐珥，都是滋润的，那地在耶和华未灭所多玛、蛾摩拉以先如同耶和华的园子，也像埃及地。",
     Eng:"Lot looked up and saw that the whole plain of the Jordan was well watered, like the garden  of the LORD, like the land of Egypt, toward Zoar. (This was before the LORD destroyed Sodom and  Gomorrah.)",
     Ind:"Lalu Lot melayangkan pandangnya dan dilihatnyalah, bahwa seluruh Lembah Yordan banyak airnya, seperti taman TUHAN, seperti tanah Mesir, sampai ke Zoar. --Hal itu terjadi sebelum TUHAN memusnahkan Sodom dan Gomora. --"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Abram menetap di tanah Kanaan, tetapi Lot menetap di kota-kota Lembah Yordan dan berkemah di dekat Sodom."
   },
   {Bible:"Genesis", Chapter:13, Verse:13, Page:1,
-    Kor:"소돔 사람들은 악하였으며, 주님을 거슬러서, 온갖 죄를 짓고 있었다.",
+    Kor:"소돔 사람들은 악하였으며, 주를 거슬러서, 온갖 죄를 짓고 있었다.",
     Chn:"所多玛人在耶和华面前罪大恶极。",
     Eng:"Now the men of Sodom were wicked and were sinning greatly against the LORD.",
     Ind:"Adapun orang Sodom sangat jahat dan berdosa terhadap TUHAN."
   },
   {Bible:"Genesis", Chapter:13, Verse:14, Page:1,
-    Kor:"<아브람이 헤브론으로 옮기다> ○롯이 아브람을 떠나간 뒤에, 주님께서 아브람에게 말씀하셨다. \"너 있는 곳에서 눈을 크게 뜨고, 북쪽과 남쪽, 동쪽과 서쪽을 보아라.",
+    Kor:"○롯이 아브람을 떠나간 뒤에, 주께서 아브람에게 말씀하셨다. \"너 있는 곳에서 눈을 크게 뜨고, 북쪽과 남쪽, 동쪽과 서쪽을 보아라.",
     Chn:"罗得离别亚伯兰以后，耶和华对亚伯兰说：「从你所在的地方，你举目向东西南北观看；",
     Eng:"The LORD said to Abram after Lot had parted from him, \"Lift up your eyes from where you are  and look north and south, east and west.",
     Ind:"Setelah Lot berpisah dari pada Abram, berfirmanlah TUHAN kepada Abram: \"Pandanglah sekelilingmu dan lihatlah dari tempat engkau berdiri itu ke timur dan barat, utara dan selatan,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"sebab seluruh negeri yang kaulihat itu akan Kuberikan kepadamu dan kepada keturunanmu untuk selama-lamanya."
   },
   {Bible:"Genesis", Chapter:13, Verse:16, Page:1,
-    Kor:"내가 너의 자손을 땅의 먼지처럼 셀 수 없이 많아지게 하겠다. 누구든지 땅의 먼지를 셀 수 있는 사람이 있다면, 너의 자손을 셀 수 있을 것이다.",
+    Kor:"내가 너의 자손을, 땅의 먼지처럼, 셀 수 없이 많아지게 하겠다. 누구든지 땅의 먼지를 셀 수 있는 사람이 있다면, 너의 자손을 셀 수 있을 것이다.",
     Chn:"我也要使你的后裔如同地上的尘沙那样多，人若能数算地上的尘沙才能数算你的后裔。",
     Eng:"I will make your offspring like the dust of the earth, so that if anyone could count the  dust, then your offspring could be counted.",
     Ind:"Dan Aku akan menjadikan keturunanmu seperti debu tanah banyaknya, sehingga, jika seandainya ada yang dapat menghitung debu tanah, keturunanmupun akan dapat dihitung juga."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Bersiaplah, jalanilah negeri itu menurut panjang dan lebarnya, sebab kepadamulah akan Kuberikan negeri itu.\""
   },
   {Bible:"Genesis", Chapter:13, Verse:18, Page:1,
-    Kor:"아브람은 장막을 거두어서, 헤브론의 마므레, 곧 상수리나무들이 있는 곳으로 가서, 거기에서 살았다. 거기에서도 그는 주님께 제단을 쌓아서 바쳤다.",
+    Kor:"아브람은 장막을 거두어서, 헤브론의 마므레, 곧 상수리나무들이 있는 곳으로 가서, 거기에서 살았다. 거기에서도 그는 주께 제단을 쌓아서 바쳤다.",
     Chn:"亚伯兰就搬了帐棚，来到希伯 、幔利的橡树那里居住，在那里为耶和华筑了一座坛。",
     Eng:"So Abram moved his tents and went to live near the great trees of Mamre at Hebron, where he  built an altar to the LORD.",
     Ind:"Sesudah itu Abram memindahkan kemahnya dan menetap di dekat pohon-pohon tarbantin di Mamre, dekat Hebron, lalu didirikannyalah mezbah di situ bagi TUHAN."

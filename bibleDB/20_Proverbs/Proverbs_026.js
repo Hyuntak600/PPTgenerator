@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",26,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:26, Verse:1, Page:1,
-    Kor:"<미련한 사람이 되지 말아라> 미련한 사람에게는 영예가 어울리지 않는다. 이는 마치 여름에 눈이 내리는 것과 같고, 추수 때에 비가 오는 것과 같다.",
+    Kor:"미련한 사람에게는 영예가 어울리지 않는다. 이는 마치 여름에 눈이 내리는 것과 같고, 추수 때에 비가 오는 것과 같다.",
     Chn:"夏天落雪，收割时下雨，都不相宜； 愚昧人得尊荣也是如此。",
     Eng:"Like snow in summer or rain in harvest, honor is not fitting for a fool.",
     Ind:"Seperti salju di musim panas dan hujan pada waktu panen, demikian kehormatanpun tidak layak bagi orang bebal."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Seperti burung pipit mengirap dan burung layang-layang terbang, demikianlah kutuk tanpa alasan tidak akan kena."
   },
   {Bible:"Proverbs", Chapter:26, Verse:3, Page:1,
-    Kor:"말에게는 채찍, 나귀에게는 재갈, a미련한 사람의 등에는 매가 필요하다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"말에게는 채찍, 나귀에게는 재갈, 미련한 사람의 등에는 매가 필요하다.",
     Chn:"鞭子是为打马，辔头是为勒驴； 刑杖是为打愚昧人的背。",
     Eng:"A whip for the horse, a halter for the donkey, and a rod for the backs of fools!",
     Ind:"Cemeti adalah untuk kuda, kekang untuk keledai, dan pentung untuk punggung orang bebal."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Si pemalas mencelupkan tangannya ke dalam pinggan, tetapi ia terlalu lelah untuk mengembalikannya ke mulutnya."
   },
   {Bible:"Proverbs", Chapter:26, Verse:16, Page:1,
-    Kor:"게으른 사람은 재치 있게 대답하는 사람 일곱보다 자기가 더 지혜롭다고 생각한다.",
+    Kor:"게으른 사람은 재치있게 대답하는 사람 일곱보다 자기가 더 지혜롭다고 생각한다.",
     Chn:"懒惰人看自己比七个善于应对的人更有智慧。",
     Eng:"The sluggard is wiser in his own eyes than seven men who answer discreetly.",
     Ind:"Si pemalas menganggap dirinya lebih bijak dari pada tujuh orang yang menjawab dengan bijaksana."
   },
   {Bible:"Proverbs", Chapter:26, Verse:17, Page:1,
-    Kor:"자기와 관계없는 싸움에 끼여드는 것은, 사람이 개의 귀를 붙잡는 것과 같다.",
+    Kor:"자기와 관계없는 싸움에 끼어드는 것은, 사람이 개의 귀를 붙잡는 것과 같다.",
     Chn:"过路被事激动，管理不干己的争竞， 好像人揪住狗耳。",
     Eng:"Like one who seizes a dog by the ears is a passer-by who meddles in a quarrel not his own.",
     Ind:"Orang yang ikut campur dalam pertengkaran orang lain adalah seperti orang yang menangkap telinga anjing yang berlalu."
@@ -136,7 +136,7 @@ BibleDB.add([
     Ind:"Seperti sedap-sedapan perkataan pemfitnah masuk ke lubuk hati."
   },
   {Bible:"Proverbs", Chapter:26, Verse:23, Page:1,
-    Kor:"악한 마음을 품고서 말만 b매끄럽게 하는 입술은, c질그릇에다가 은을 살짝 입힌 것과 같다. (b 칠십인역을 따름. 히, '열변을 토하는' c 마소라 본문에는 '질그릇 위의 은찌꺼기와 같다'. 붙어 있는 히브리 자음 본문을 어떻게 끊어 읽느냐에 따라 뜻이 달라지는 예)",
+    Kor:"악한 마음을 품고서 말만 매끄럽게 하는 입술은, 질그릇에다가 은을 살짝 입힌 것과 같다.",
     Chn:"火热的嘴，奸恶的心， 好像银渣包的瓦器。",
     Eng:"Like a coating of glaze over earthenware are fervent lips with an evil heart.",
     Ind:"Seperti pecahan periuk bersalutkan perak, demikianlah bibir manis dengan hati jahat."

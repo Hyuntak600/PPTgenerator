@@ -3,7 +3,7 @@
 BibleDB.ref("Revelation",9,21);
 BibleDB.add([
   {Bible:"Revelation", Chapter:9, Verse:1, Page:1,
-    Kor:"다섯째 천사가 나팔을 불었습니다. 내가 보니, 하늘에서 땅에 떨어진 별이 하나 있는데, 그 별은 a아비소스를 여는 열쇠를 받았습니다.(a '밑바닥이 없는 깊은 곳'을 일컫는 그리스어)",
+    Kor:"다섯째 천사가 나팔을 불었습니다. 내가 보니, 하늘에서 땅에 떨어진 별이 하나 있는데, 그 별은 아비소스를 여는 열쇠를 받았습니다.",
     Chn:"第五位天使吹号，我就看见一个星从天落到地上，有无底坑的钥匙赐给它。",
     Eng:"The fifth angel sounded his trumpet, and I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss.",
     Ind:"Lalu malaikat yang kelima meniup sangkakalanya, dan aku melihat sebuah bintang yang jatuh dari langit ke atas bumi, dan kepadanya diberikan anak kunci lobang jurang maut."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"dan dada mereka sama seperti baju zirah, dan bunyi sayap mereka bagaikan bunyi kereta-kereta yang ditarik banyak kuda, yang sedang lari ke medan peperangan."
   },
   {Bible:"Revelation", Chapter:9, Verse:10, Page:1,
-    Kor:"그것들은 전갈과 같은 꼬리와 침이 달려 있었는데, 그 꼬리에는 다섯 달 동안 사람을 해할 수 있는 권세가 있었습니다.",
+    Kor:"그것들은 전갈과 같은 꼬리와 침을 가졌는데, 그 꼬리에는 다섯 달 동안 사람을 해할 수 있는 권세가 있었습니다.",
     Chn:"有尾巴像蝎子，尾巴上的毒钩能伤人五个月。",
     Eng:"They had tails and stings like scorpions, and in their tails they had power to torment people for five months.",
     Ind:"Dan ekor mereka sama seperti kalajengking dan ada sengatnya, dan di dalam ekor mereka itu terdapat kuasa mereka untuk menyakiti manusia, lima bulan lamanya."
   },
   {Bible:"Revelation", Chapter:9, Verse:11, Page:1,
-    Kor:"그것들은 a아비소스의 사자를 자기들의 왕으로 떠받들었는데, 그 이름은 히브리 말로는 b아바돈이요, 그리스 말로는 c아볼루온입니다.(a '밑바닥이 없는 깊은 곳'을 일컫는 그리스어 b '파멸' c '파괴자')",
+    Kor:"그것들은 아비소스의 사자를 자기들의 왕으로 떠받들었는데, 그 이름은 히브리 말로는 아바돈이요, 그리스 말로는 아볼루온입니다.",
     Chn:"有无底坑的使者作它们的王，按着希伯来话，名叫亚巴顿，希腊话，名叫亚玻伦。",
     Eng:"They had as king over them the angel of the Abyss, whose name in Hebrew is Abaddon, and in Greek, Apollyon.",
     Ind:"Dan raja yang memerintah mereka ialah malaikat jurang maut; namanya dalam bahasa Ibrani ialah Abadon dan dalam bahasa Yunani ialah Apolion."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Celaka yang pertama sudah lewat. Sekarang akan menyusul dua celaka lagi."
   },
   {Bible:"Revelation", Chapter:9, Verse:13, Page:1,
-    Kor:"○여섯째 천사가 나팔을 불었습니다. 나는 하나님 앞에 있는 금제단의 d네 뿔에서 울려 나오는 음성을 들었습니다.(d 다른 고대 사본들에는 '뿔들')",
+    Kor:"○여섯째 천사가 나팔을 불었습니다. 나는 하나님 앞에 있는 금제단의 네 뿔에서 울려 나오는 음성을 들었습니다.",
     Chn:"第六位天使吹号，我就听见有声音从　神面前金坛的四角出来，",
     Eng:"The sixth angel sounded his trumpet, and I heard a voice coming from the horns of the golden altar that is before God.",
     Ind:"Lalu malaikat yang keenam meniup sangkakalanya, dan aku mendengar suatu suara keluar dari keempat tanduk mezbah emas yang di hadapan Allah,"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"dan berkata kepada malaikat yang keenam yang memegang sangkakala itu: \"Lepaskanlah keempat malaikat yang terikat dekat sungai besar Efrat itu.\""
   },
   {Bible:"Revelation", Chapter:9, Verse:15, Page:1,
-    Kor:"그래서 그 네 천사가 풀려났습니다. 그들은 사람의 삼분의 일을 죽이기 위하여, 그 해, 그 달, 그 날, 그 때에 맞추어 예비된 이들입니다.",
+    Kor:"그래서 그 네 천사가 풀려 났습니다. 그들은 사람의 삼분의 일을 죽이기로, 그 해, 그 달, 그 날, 그 때를 위하여 예비된 이들입니다.",
     Chn:"那四个使者就被释放；他们原是预备好了，到某年某月某日某时，要杀人的三分之一。",
     Eng:"And the four angels who had been kept ready for this very hour and day and month and year were released to kill a third of mankind.",
     Ind:"Maka dilepaskanlah keempat malaikat yang telah disiapkan bagi jam dan hari, bulan dan tahun untuk membunuh sepertiga dari umat manusia."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Tetapi manusia lain, yang tidak mati oleh malapetaka itu, tidak juga bertobat dari perbuatan tangan mereka: mereka tidak berhenti menyembah roh-roh jahat dan berhala-berhala dari emas dan perak, dari tembaga, batu dan kayu yang tidak dapat melihat atau mendengar atau berjalan,"
   },
   {Bible:"Revelation", Chapter:9, Verse:21, Page:1,
-    Kor:"그들은 또한 살인과 점치는 일과 음행과 도둑질을 회개하지 않았습니다.",
+    Kor:"그들은 또한 살인과 복술과 음행과 도둑질을 회개하지 않았습니다.",
     Chn:"又不悔改他们那些凶杀、邪术、奸淫、偷窃的事。",
     Eng:"Nor did they repent of their murders, their magic arts, their sexual immorality or their thefts.",
     Ind:"dan mereka tidak bertobat dari pada pembunuhan, sihir, percabulan dan pencurian."

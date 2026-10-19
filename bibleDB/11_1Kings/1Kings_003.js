@@ -3,19 +3,19 @@
 BibleDB.ref("1Kings",3,28);
 BibleDB.add([
   {Bible:"1Kings", Chapter:3, Verse:1, Page:1,
-    Kor:"<솔로몬이 지혜를 간구하다(대하 1:3-12)> 솔로몬은, 이집트 왕 바로와 혼인 관계를 맺고, 바로의 딸을 아내로 맞았다. 그리고 그는 자신의 집과 주님의 성전과 예루살렘 성벽의 건축을 모두 끝낼 때까지, 그 아내를 다윗 성에 있게 하였다.",
+    Kor:"솔로몬은, 이집트 왕 바로와 혼인 관계를 맺고, 바로의 딸을 아내로 맞았다. 그리고 그는 자신의 집과 주의 성전과 예루살렘 성벽의 건축을 모두 끝낼 때까지, 그 아내를 다윗 성에 있게 하였다.",
     Chn:"所罗门与埃及王法老结亲，娶了法老的女儿为妻，接她进入大卫城，直等到造完了自己的宫和耶和华的殿，并耶路撒冷周围的城墙。",
     Eng:"Solomon made an alliance with Pharaoh king of Egypt and married his daughter. He brought her to the City of David until he finished building his palace and the temple of the LORD, and the wall around Jerusalem.",
     Ind:"Lalu Salomo menjadi menantu Firaun, raja Mesir; ia mengambil anak Firaun, dan membawanya ke kota Daud, sampai ia selesai mendirikan istananya dan rumah TUHAN dan tembok sekeliling Yerusalem."
   },
   {Bible:"1Kings", Chapter:3, Verse:2, Page:1,
-    Kor:"주님께 예배드릴 성전이 그 때까지도 건축되지 않았으므로, 백성은 그 때까지 여러 곳에 있는 산당에서 제사를 드렸다.",
+    Kor:"주께 예배드릴 성전이 그 때까지도 건축되지 않았으므로, 백성은 그 때까지 여러 곳에 있는 산당에서 제사를 드렸다.",
     Chn:"当那些日子，百姓仍在邱坛献祭，因为还没有为耶和华的名建殿。",
     Eng:"The people, however, were still sacrificing at the high places, because a temple had not yet been built for the Name of the LORD.",
     Ind:"Hanya, bangsa itu masih mempersembahkan korban di bukit-bukit pengorbanan, sebab belum ada didirikan rumah untuk nama TUHAN sampai pada waktu itu."
   },
   {Bible:"1Kings", Chapter:3, Verse:3, Page:1,
-    Kor:"솔로몬은 주님을 사랑하였으며, 자기 아버지 다윗의 법도를 따랐으나, 그도 여러 산당에서 제사를 드리며 분향하였다.",
+    Kor:"솔로몬은 주를 사랑하였으며, 자기 아버지 다윗의 법도를 따랐으나, 그도 여러 산당에서 제사를 드리며 분향하였다.",
     Chn:"所罗门爱耶和华，遵行他父亲大卫的律例，只是还在邱坛献祭烧香。",
     Eng:"Solomon showed his love for the LORD by walking according to the statutes of his father David, except that he offered sacrifices and burned incense on the high places.",
     Ind:"Dan Salomo menunjukkan kasihnya kepada TUHAN dengan hidup menurut ketetapan-ketetapan Daud, ayahnya; hanya, ia masih mempersembahkan korban sembelihan dan ukupan di bukit-bukit pengorbanan."
@@ -27,37 +27,37 @@ BibleDB.add([
     Ind:"Pada suatu hari raja pergi ke Gibeon untuk mempersembahkan korban, sebab di situlah bukit pengorbanan yang paling besar; seribu korban bakaran dipersembahkan Salomo di atas mezbah itu."
   },
   {Bible:"1Kings", Chapter:3, Verse:5, Page:1,
-    Kor:"그 날 밤에 기브온에서, 주님께서 꿈에 솔로몬에게 나타나셨다. 하나님께서 말씀하시기를 \"내가 너에게 무엇을 주기를 바라느냐? 나에게 구하여라\" 하셨다.",
+    Kor:"그 날 밤에 기브온에서, 주께서 꿈에 솔로몬에게 나타나셨다. 하나님께서 말씀하시기를 \"내가 너에게 무엇을 주기를 바라느냐? 나에게 구하여라\" 하셨다.",
     Chn:"在基遍，夜间梦中，耶和华向所罗门显现，对他说：「你愿我赐你什么？你可以求。」",
     Eng:"At Gibeon the LORD appeared to Solomon during the night in a dream, and God said, \"Ask for whatever you want me to give you.\"",
     Ind:"Di Gibeon itu TUHAN menampakkan diri kepada Salomo dalam mimpi pada waktu malam. Berfirmanlah Allah: \"Mintalah apa yang hendak Kuberikan kepadamu.\""
   },
   {Bible:"1Kings", Chapter:3, Verse:6, Page:1,
-    Kor:"○솔로몬이 대답하였다. \"주님께서는, 주님의 종이요 나의 아버지인 다윗이, 진실과 공의와 정직한 마음으로 주님을 모시고 살았다고 해서, 큰 은혜를 베풀어 주시고, 또 그 큰 은혜로 그를 지켜 주셔서, 오늘과 같이 이렇게 그 보좌에 앉을 아들까지 주셨습니다.",
+    Kor:"○솔로몬이 대답하였다. \"주께서는, 주의 종이요 나의 아버지인 다윗이, 진실과 공의와 정직한 마음으로 주님을 모시고 살았다고 해서, 큰 은혜를 베풀어 주시고, 또 그 큰 은혜로 그를 지켜 주셔서, 오늘과 같이 이렇게 그 보좌에 앉을 아들까지 주셨습니다.",
     Chn:"所罗门说：「你仆人—我父亲大卫用诚实、公义、正直的心行在你面前，你就向他大施恩典，又为他存留大恩，赐他一个儿子坐在他的位上，正如今日一样。",
     Eng:"Solomon answered, \"You have shown great kindness to your servant, my father David, because he was faithful to you and righteous and upright in heart. You have continued this great kindness to him and have given him a son to sit on his throne this veryday.",
     Ind:"Lalu Salomo berkata: \"Engkaulah yang telah menunjukkan kasih setia-Mu yang besar kepada hamba-Mu Daud, ayahku, sebab ia hidup di hadapan-Mu dengan setia, benar dan jujur terhadap Engkau; dan Engkau telah menjamin kepadanya kasih setia yang besar itu dengan memberikan kepadanya seorang anak yang duduk di takhtanya seperti pada hari ini."
   },
   {Bible:"1Kings", Chapter:3, Verse:7, Page:1,
-    Kor:"그러나 주 나의 하나님, 주님께서는, 내가 아직 어린 아이인데도, 나의 아버지 다윗의 뒤를 이어서, 주님의 종인 나를 왕이 되게 하셨습니다. 나는 아직 나가고 들어오고 하는 처신을 제대로 할 줄 모릅니다.",
+    Kor:"그러나 주 나의 하나님, 주께서는, 내가 아직 어린 아이인데도, 나의 아버지 다윗의 뒤를 이어서, 주의 종인 나를 왕이 되게 하셨습니다. 나는 아직 나가고 들어오고 하는 처신을 제대로 할 줄 모릅니다.",
     Chn:"耶和华—我的　神啊，如今你使仆人接续我父亲大卫作王；但我是幼童，不知道应当怎样出入。",
     Eng:"\"Now, O LORD my God, you have made your servant king in place of my father David. But I am only a little child and do not know how to carry out my duties.",
     Ind:"Maka sekarang, ya TUHAN, Allahku, Engkaulah yang mengangkat hamba-Mu ini menjadi raja menggantikan Daud, ayahku, sekalipun aku masih sangat muda dan belum berpengalaman."
   },
   {Bible:"1Kings", Chapter:3, Verse:8, Page:1,
-    Kor:"주님의 종은, 주님께서 선택하신 백성, 곧 그 수를 셀 수도 없고 계산을 할 수도 없을 만큼 큰 백성 가운데 하나일 뿐입니다.",
+    Kor:"주의 종은, 주께서 선택하신 백성, 곧 그 수를 셀 수도 없고 계산을 할 수도 없을 만큼 큰 백성 가운데 하나일 뿐입니다.",
     Chn:"仆人住在你所拣选的民中，这民多得不可胜数。",
     Eng:"Your servant is here among the people you have chosen, a great people, too numerous to count or number.",
     Ind:"Demikianlah hamba-Mu ini berada di tengah-tengah umat-Mu yang Kaupilih, suatu umat yang besar, yang tidak terhitung dan tidak terkira banyaknya."
   },
   {Bible:"1Kings", Chapter:3, Verse:9, Page:1,
-    Kor:"그러므로 주님의 종에게 지혜로운 마음을 주셔서, 주님의 백성을 재판하고, 선과 악을 분별할 수 있게 해주시기를 바랍니다. 이렇게 많은 주님의 백성을 누가 재판할 수 있겠습니까?\"",
+    Kor:"그러므로 주의 종에게 지혜로운 마음을 주셔서, 주의 백성을 재판하고, 선과 악을 분별할 수 있게 해주시기를 바랍니다. 이렇게 많은 주의 백성을 누가 재판할 수 있겠습니까?\"",
     Chn:"所以求你赐我智慧，可以判断你的民，能辨别是非。不然，谁能判断这众多的民呢？」",
     Eng:"So give your servant a discerning heart to govern your people and to distinguish between right and wrong. For who is able to govern this great people of yours?\"",
     Ind:"Maka berikanlah kepada hamba-Mu ini hati yang faham menimbang perkara untuk menghakimi umat-Mu dengan dapat membedakan antara yang baik dan yang jahat, sebab siapakah yang sanggup menghakimi umat-Mu yang sangat besar ini?\""
   },
   {Bible:"1Kings", Chapter:3, Verse:10, Page:1,
-    Kor:"○주님께서는 솔로몬이 이렇게 청한 것이 마음에 드셨다.",
+    Kor:"○주께서는 솔로몬이 이렇게 청한 것이 마음에 드셨다.",
     Chn:"所罗门因为求这事，就蒙主喜悦。",
     Eng:"The Lord was pleased that Solomon had asked for this.",
     Ind:"Lalu adalah baik di mata Tuhan bahwa Salomo meminta hal yang demikian."
@@ -87,25 +87,25 @@ BibleDB.add([
     Ind:"Dan jika engkau hidup menurut jalan yang Kutunjukkan dan tetap mengikuti segala ketetapan dan perintah-Ku, sama seperti ayahmu Daud, maka Aku akan memperpanjang umurmu.\""
   },
   {Bible:"1Kings", Chapter:3, Verse:15, Page:1,
-    Kor:"○솔로몬이 깨어나서 보니, 꿈이었다. 그는 곧바로 예루살렘으로 가서, 주님의 언약궤 앞에 서서, 번제와 화목제를 드리고, 모든 신하에게 잔치도 베풀어 주었다.",
+    Kor:"○솔로몬이 깨어나서 보니, 꿈이었다. 그는 곧바로 예루살렘으로 가서, 주의 언약궤 앞에 서서, 번제와 화목제를 드리고, 모든 신하에게 잔치도 베풀어 주었다.",
     Chn:"所罗门醒了，不料是个梦。他就回到耶路撒冷，站在耶和华的约柜前，献燔祭和平安祭，又为他众臣仆设摆筵席。",
     Eng:"Then Solomon awoke--and he realized it had been a dream. He returned to Jerusalem, stood before the ark of the Lord's covenant and sacrificed burnt offerings and fellowship offerings. Then he gave a feast for all his court.",
     Ind:"Lalu terjagalah Salomo; ternyata ia bermimpi. Sekembalinya ke Yerusalem, berdirilah ia di hadapan tabut perjanjian Tuhan, dipersembahkannya korban-korban bakaran dan korban-korban keselamatan, kemudian ia mengadakan perjamuan bagi semua pegawainya."
   },
   {Bible:"1Kings", Chapter:3, Verse:16, Page:1,
-    Kor:"<솔로몬의 재판> ○하루는 창녀 두 사람이 왕에게 와서, 그 앞에 섰다.",
+    Kor:"○하루는 창녀 두 사람이 왕에게 와서, 그 앞에 섰다.",
     Chn:"一日，有两个妓女来，站在王面前。",
     Eng:"Now two prostitutes came to the king and stood before him.",
     Ind:"Pada waktu itu masuklah dua orang perempuan sundal menghadap raja, lalu mereka berdiri di depannya."
   },
   {Bible:"1Kings", Chapter:3, Verse:17, Page:1,
-    Kor:"그 가운데서 한 여자가 나서서 말을 하였다. \"임금님께 아룁니다. 저희 두 사람은 한 집에 살고 있습니다. 제가 아이를 낳을 때에 저 여자도 저와 함께 있었습니다.",
+    Kor:"그 가운데서 한 여자가 나서서 말을 하였다. \"임금님께 아룁니다. 저희 두 사람은 한 집에 살고 있습니다. 제가 아이를 낳을 때에, 저 여자도 저와 함께 있었습니다.",
     Chn:"一个说：「我主啊，我和这妇人同住一房；她在房中的时候，我生了一个男孩。",
     Eng:"One of them said, \"My lord, this woman and I live in the same house. I had a baby while she was there with me.",
     Ind:"Kata perempuan yang satu: \"Ya tuanku! aku dan perempuan ini diam dalam satu rumah, dan aku melahirkan anak, pada waktu dia ada di rumah itu."
   },
   {Bible:"1Kings", Chapter:3, Verse:18, Page:1,
-    Kor:"그리고 제가 아이를 낳은 지 사흘 만에 저 여자도 아이를 낳았습니다. 그 집 안에는 우리 둘만 있을 뿐이고, 다른 사람은 아무도 없었습니다.",
+    Kor:"그리고 제가 아이를 낳은 지 사흘 만에, 저 여자도 아이를 낳았습니다. 그 집 안에는 우리 둘만 있을 뿐이고, 다른 사람은 아무도 없었습니다.",
     Chn:"我生孩子后第三日，这妇人也生了孩子。我们是同住的，除了我们二人之外，房中再没有别人。",
     Eng:"The third day after my child was born, this woman also had a baby. We were alone; there was no one in the house but the two of us.",
     Ind:"Kemudian pada hari ketiga sesudah aku, perempuan inipun melahirkan anak; kami sendirian, tidak ada orang luar bersama-sama kami dalam rumah, hanya kami berdua saja dalam rumah."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Pada waktu malam anak perempuan ini mati, karena ia menidurinya."
   },
   {Bible:"1Kings", Chapter:3, Verse:20, Page:1,
-    Kor:"그런데 이 종이 깊이 잠든 사이에, 저 여자가 한밤중에 일어나서 아이를 바꾸었습니다. 저의 옆에 누워 있는 저의 아들을 데리고 가서 자기 품에 두고, 자기의 죽은 아들은 저의 품에 뉘어 놓았습니다.",
+    Kor:"그런데 이 종이 깊이 잠든 사이에, 저 여자가 한밤중에 일어나서, 아이를 바꾸었습니다. 저의 옆에 누워 있는 저의 아들을 데리고 가서 자기 품에 두고, 자기의 죽은 아들은 저의 품에 뉘어 놓았습니다.",
     Chn:"她半夜起来，趁我睡着，从我旁边把我的孩子抱去，放在她怀里，将她的死孩子放在我怀里。",
     Eng:"So she got up in the middle of the night and took my son from my side while I your servant was asleep. She put him by her breast and put her dead son by my breast.",
     Ind:"Pada waktu tengah malam ia bangun, lalu mengambil anakku dari sampingku; sementara hambamu ini tidur, dibaringkannya anakku itu di pangkuannya, sedang anaknya yang mati itu dibaringkannya di pangkuanku."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Kata perempuan yang lain itu: \"Bukan! anakkulah yang hidup dan anakmulah yang mati.\" Tetapi perempuan yang pertama berkata pula: \"Bukan! anakmulah yang mati dan anakkulah yang hidup.\" Begitulah mereka bertengkar di depan raja."
   },
   {Bible:"1Kings", Chapter:3, Verse:23, Page:1,
-    Kor:"○왕은 속으로 생각하였다. '두 여자가 서로, 살아 있는 아이를 자기의 아들이라고 하고, 죽은 아이를 다른 여자의 아들이라고 한다. 그렇다면 좋은 수가 있다.'",
+    Kor:"○왕은 속으로 생각하였다. '두 여자가 서로, 살아 있는 아이를 자기의 아들이라고 하고, 죽은 아이를 상대방의 아들이라고 한다. 그렇다면 좋은 수가 있다.'",
     Chn:"王说：「这妇人说『活孩子是我的，死孩子是你的』，那妇人说『不然，死孩子是你的，活孩子是我的』」，",
     Eng:"The king said, \"This one says, 'My son is alive and your son is dead,' while that one says, 'No! Your son is dead and mine is alive.'\"",
     Ind:"Lalu berkatalah raja: \"Yang seorang berkata: Anakkulah yang hidup ini dan anakmulah yang mati. Yang lain berkata: Bukan! Anakmulah yang mati dan anakkulah yang hidup.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Kata raja: \"Penggallah anak yang hidup itu menjadi dua dan berikanlah setengah kepada yang satu dan yang setengah lagi kepada yang lain.\""
   },
   {Bible:"1Kings", Chapter:3, Verse:26, Page:1,
-    Kor:"○그러자 살아 있는 그 아이의 어머니는, 자기 아들에 대한 모정이 불타 올라, 왕에게 애원하였다. \"제발, 임금님, 살아 있는 이 아이를, 저 여자에게 주시어도 좋으니, 아이를 죽이지는 말아 주십시오.\" 그러나 다른 여자는 \"어차피, 내 아이도 안 될 테고, 네 아이도 안 될 테니, 차라리 나누어 가지자\" 하고 말하였다.",
+    Kor:"○그러자 살아 있는 그 아이의 어머니는, 자기 아들에 대한 모성애가 불타 올라, 왕에게 애원하였다. \"제발, 임금님, 살아 있는 이 아이를, 저 여자에게 주시어도 좋으니, 아이를 죽이지는 말아 주십시오.\" 그러나 다른 여자는 \"어차피, 내 아이도 안 될 테고, 네 아이도 안 될 테니, 차라리 나누어 가지자\" 하고 말하였다.",
     Chn:"活孩子的母亲为自己的孩子心里急痛，就说：「求我主将活孩子给那妇人吧，万不可杀他！」那妇人说：「这孩子也不归我，也不归你，把他劈了吧！」",
     Eng:"The woman whose son was alive was filled with compassion for her son and said to the king, \"Please, my lord, give her the living baby! Don't kill him!\" But the other said, \"Neither I nor you shall have him. Cut him in two!\"",
     Ind:"Maka kata perempuan yang empunya anak yang hidup itu kepada raja, sebab timbullah belas kasihannya terhadap anaknya itu, katanya: \"Ya tuanku! Berikanlah kepadanya bayi yang hidup itu, jangan sekali-kali membunuh dia.\" Tetapi yang lain itu berkata: \"Supaya jangan untukku ataupun untukmu, penggallah!\""
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Tetapi raja menjawab, katanya: \"Berikanlah kepadanya bayi yang hidup itu, jangan sekali-kali membunuh dia; dia itulah ibunya.\""
   },
   {Bible:"1Kings", Chapter:3, Verse:28, Page:1,
-    Kor:"○모든 이스라엘 사람이, 왕이 재판한 판결 소식을 들었다. 그리고 백성들은, 왕이 재판할 때에 하나님께서 주시는 지혜로 공정하게 판단한다는 것을 알고, 왕을 두려워하였다.",
+    Kor:"○모든 이스라엘 사람이, 왕이 재판한 판결 소식을 들었다. 그리고 백성들은, 왕이 재판할 때에, 하나님께서 주시는 지혜로 공정하게 판단한다는 것을 알고, 왕을 두려워하였다.",
     Chn:"以色列众人听见王这样判断，就都敬畏他；因为见他心里有　神的智慧，能以断案。",
     Eng:"When all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice.",
     Ind:"Ketika seluruh orang Israel mendengar keputusan hukum yang diberikan raja, maka takutlah mereka kepada raja, sebab mereka melihat, bahwa hikmat dari pada Allah ada dalam hatinya untuk melakukan keadilan."

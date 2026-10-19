@@ -3,7 +3,7 @@
 BibleDB.ref("Micah",7,20);
 BibleDB.add([
   {Bible:"Micah", Chapter:7, Verse:1, Page:1,
-    Kor:"<이스라엘의 부패> 아, 절망이다! 나는, 가지만 앙상하게 남은 과일나무와도 같다. 이 나무에 열매도 하나 남지 않고, 이 포도나무에 포도 한 송이도 달려 있지 않으니, 아무도 나에게 와서, 허기진 배를 채우지 못하는구나. 포도알이 하나도 없고, 내가 그렇게도 좋아하는 무화과 열매가, 하나도 남지 않고 다 없어졌구나.",
+    Kor:"아, 절망이다! 나는, 가지만 앙상하게 남은 과일나무와도 같다. 이 나무에 열매도 하나 남지 않고, 이 포도나무에 포도 한 송이도 달려 있지 않으니, 아무도 나에게 와서, 허기진 배를 채우지 못하는구나. 포도알이 하나도 없고, 내가 그렇게도 좋아하는 무화과 열매가, 하나도 남지 않고 다 없어졌구나.",
     Chn:"哀哉！我好像夏天的果子已被收尽， 又像摘了葡萄所剩下的， 没有一挂可吃的； 我心羡慕初熟的无花果。",
     Eng:"What misery is mine! I am like one who gathers summer fruit at the gleaning of the vineyard; there is no cluster of grapes to eat, none of the early figs that I crave.",
     Ind:"Celaka aku! Sebab keadaanku seperti pada pengumpulan buah-buahan musim kemarau, seperti pada pemetikan susulan buah anggur: tidak ada buah anggur untuk dimakan, atau buah ara yang kusukai."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Tetapi aku ini akan menunggu-nunggu TUHAN, akan mengharapkan Allah yang menyelamatkan aku; Allahku akan mendengarkan aku!"
   },
   {Bible:"Micah", Chapter:7, Verse:8, Page:1,
-    Kor:"<주님께서 구원하여 주심> 내 원수야, 내가 당하는 고난을 보고서, 미리 흐뭇해 하지 말아라. 나는 넘어져도 다시 일어난다. 지금은 어둠 속에 있지만, 주님께서 곧 나의 빛이 되신다.",
+    Kor:"내 원수야, 내가 당하는 고난을 보고서, 미리 흐뭇해 하지 말아라. 나는 넘어져도 다시 일어난다. 지금은 어둠 속에 있지만, 주께서 곧 나의 빛이 되신다.",
     Chn:"我的仇敌啊，不要向我夸耀。 我虽跌倒，却要起来； 我虽坐在黑暗里， 耶和华却作我的光。",
     Eng:"Do not gloat over me, my enemy! Though I have fallen, I will rise. Though I sit in darkness, the LORD will be my light.",
     Ind:"Janganlah bersukacita atas aku, hai musuhku! Sekalipun aku jatuh, aku akan bangun pula, sekalipun aku duduk dalam gelap, TUHAN akan menjadi terangku."
   },
   {Bible:"Micah", Chapter:7, Verse:9, Page:1,
-    Kor:"내가 주님께 죄를 지었으니, 이제 나는 주님의 분노가 가라앉기까지 참고 있을 뿐이다. 마침내, 주님께서는 나를 변호하시고, 내 권리를 지켜 주시고, 나를 빛 가운데로 인도하실 것이니, 내가 주님께서 행하신 의를 볼 것이다.",
+    Kor:"내가 주께 죄를 지었으니, 이제 나는 주의 분노가 가라앉기까지 참고 있을 뿐이다. 마침내, 주께서는 나를 변호하시고, 내 권리를 지켜 주시고, 나를 빛 가운데로 인도하실 것이니, 내가 주께서 행하신 의를 볼 것이다.",
     Chn:"我要忍受耶和华的恼怒； 因我得罪了他， 直等他为我辨屈，为我伸冤。 他必领我到光明中； 我必得见他的公义。",
     Eng:"Because I have sinned against him, I will bear the LORD'S wrath, until he pleads my case and establishes my right. He will bring me out into the light; I will see his righteousness.",
     Ind:"Aku akan memikul kemarahan TUHAN, sebab aku telah berdosa kepada-Nya, sampai Ia memperjuangkan perkaraku dan memberi keadilan kepadaku, membawa aku ke dalam terang, sehingga aku mengalami keadilan-Nya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Musuhku akan melihatnya dan dengan malu ia akan menutupi mukanya, dia yang berkata kepadaku: \"Di mana TUHAN, Allahmu?\" Mataku akan memandangi dia; sekarang ia diinjak-injak seperti lumpur di jalan."
   },
   {Bible:"Micah", Chapter:7, Verse:11, Page:1,
-    Kor:"a네 성벽을 다시 쌓아야 할 때가 온다. 네 지경을 넓혀야 할 때가 온다. (a 예루살렘 도성에게 하는 말)",
+    Kor:"네 성벽을 다시 쌓아야 할 때가 온다. 네 지경을 넓혀야 할 때가 온다.",
     Chn:"以色列啊，日子必到， 你的墙垣必重修； 到那日，你的境界必开展。",
     Eng:"The day for building your walls will come, the day for extending your boundaries.",
     Ind:"Akan datang suatu hari bahwa pagar tembokmu akan dibangun kembali; pada hari itulah perbatasanmu akan diperluas."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Tetapi bumi akan menjadi tandus oleh karena penduduknya, sebagai akibat perbuatan mereka."
   },
   {Bible:"Micah", Chapter:7, Verse:14, Page:1,
-    Kor:"<기도와 찬양> 주님, 주님의 지팡이로 주님의 백성을 인도하시는 목자가 되어 주십시오. 이 백성은 주님께서 선택하신 주님의 소유입니다. 이 백성은 멀리 떨어진 황무지에 살아도, 그 주변에는 b기름진 초장이 있습니다. 옛날처럼 주님의 백성을 바산과 길르앗에서 먹여 주십시오. (b 또는 '갈멜')",
+    Kor:"주님, 주의 지팡이로 주의 백성을 인도하시는 목자가 되어 주십시오. 이 백성은 주께서 선택하신 주의 소유입니다. 이 백성은 멀리 떨어진 황무지에 살아도, 그 주변에는 기름진 초장이 있습니다. 옛날처럼 주의 백성을 바산과 길르앗에서 먹여 주십시오.",
     Chn:"求耶和华在迦密山的树林中， 用你的杖牧放你独居的民， 就是你产业的羊群。 求你容他们在巴珊和基列得食物，像古时一样。",
     Eng:"Shepherd your people with your staff, the flock of your inheritance, which lives by itself in a forest, in fertile pasturelands. Let them feed in Bashan and Gilead as in days long ago.",
     Ind:"Gembalakanlah umat-Mu dengan tongkat-Mu, kambing domba milik-Mu sendiri, yang terpencil mendiami rimba di tengah-tengah kebun buah-buahan. Biarlah mereka makan rumput di Basan dan di Gilead seperti pada zaman dahulu kala."
   },
   {Bible:"Micah", Chapter:7, Verse:15, Page:1,
-    Kor:"c\"네가 이집트에서 나올 때처럼 내가 그들에게 기적을 보이겠다.\" (c 주님의 말)",
+    Kor:"\"네가 이집트에서 나올 때처럼 내가 그들에게 기적을 보이겠다.\"",
     Chn:"耶和华说： 我要把奇事显给他们看， 好像出埃及地的时候一样。",
     Eng:"\"As in the days when you came out of Egypt, I will show them my wonders.\"",
     Ind:"Seperti pada waktu Engkau keluar dari Mesir, perlihatkanlah kepada kami keajaiban-keajaiban!"
   },
   {Bible:"Micah", Chapter:7, Verse:16, Page:1,
-    Kor:"민족들이 그 기적을 보면, 제 아무리 힘센 민족이라도, 기가 꺾이고 말 것입니다. 간담이 서늘해서 입을 막을 것이며 귀는 막힐 것이며,",
+    Kor:"민족들이 그 기적을 보면, 제 아무리 힘센 민족이라도, 기가 꺾이고 말 것입니다. 간담이 서늘해서 입을 막을 것이요 귀는 막힐 것이며,",
     Chn:"列国看见这事就必为自己的势力惭愧； 他们必用手捂口，掩耳不听。",
     Eng:"Nations will see and be ashamed, deprived of all their power. They will lay their hands on their mouths and their ears will become deaf.",
     Ind:"Biarlah bangsa-bangsa melihatnya dan merasa malu atas segala keperkasaan mereka; biarlah mereka menutup mulutnya dengan tangan, dan telinganya menjadi tuli."
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Biarlah mereka menjilat debu seperti ular, seperti binatang menjalar di bumi; biarlah mereka keluar dengan gemetar dari kubunya, dan datang kepada TUHAN, Allah kami, dengan gentar, dengan takut kepada-Mu!"
   },
   {Bible:"Micah", Chapter:7, Verse:18, Page:1,
-    Kor:"주님, 주님 같으신 하나님이 또 어디에 있겠습니까. 주님께서는 죄악을 사유하시며 살아 남은 주님의 백성의 죄를 용서하십니다. 진노하시되, 그 노여움을 언제까지나 품고 계시지는 않고, 기꺼이 한결같은 사랑을 베푸십니다.",
+    Kor:"주님, 주님 같으신 하나님이 또 어디에 있겠습니까. 주께서는 죄악을 사유하시며 살아 남은 주의 백성의 죄를 용서하십니다. 진노하시되, 그 노여움을 언제까지나 품고 계시지는 않고, 기꺼이 한결같은 사랑을 베푸십니다.",
     Chn:"神啊，有何神像你，赦免罪孽， 饶恕你产业之余民的罪过， 不永远怀怒，喜爱施恩？",
     Eng:"Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy.",
     Ind:"Siapakah Allah seperti Engkau yang mengampuni dosa, dan yang memaafkan pelanggaran dari sisa-sisa milik-Nya sendiri; yang tidak bertahan dalam murka-Nya untuk seterusnya, melainkan berkenan kepada kasih setia?"
   },
   {Bible:"Micah", Chapter:7, Verse:19, Page:1,
-    Kor:"주님께서 다시 우리에게 자비를 베푸시고, 우리의 모든 죄를 주님의 발로 밟아서, 저 바다 밑 깊은 곳으로 던지십니다.",
+    Kor:"주께서 다시 우리에게 자비를 베푸시고, 우리의 모든 죄를 주의 발로 밟아서, 저 바다 밑 깊은 곳으로 던지십니다.",
     Chn:"必再怜悯我们， 将我们的罪孽踏在脚下， 又将我们的一切罪投于深海。",
     Eng:"You will again have compassion on us; you will tread our sins underfoot and hurl all our iniquities into the depths of the sea.",
     Ind:"Biarlah Ia kembali menyayangi kita, menghapuskan kesalahan-kesalahan kita dan melemparkan segala dosa kita ke dalam tubir-tubir laut."
   },
   {Bible:"Micah", Chapter:7, Verse:20, Page:1,
-    Kor:"주님께서는 옛적에 우리의 조상에게 맹세하신 대로, 야곱에게 성실을 베푸시며, 아브라함에게 인애를 더하여 주십니다.",
+    Kor:"주께서는 옛적에 우리의 조상에게 맹세하신 대로, 야곱에게 성실을 베푸시며, 아브라함에게 인애를 더하여 주십니다.",
     Chn:"你必按古时起誓应许我们列祖的话， 向雅各发诚实， 向亚伯拉罕施慈爱。",
     Eng:"You will be true to Jacob, and show mercy to Abraham, as you pledged on oath to our fathers in days long ago.",
     Ind:"Kiranya Engkau menunjukkan setia-Mu kepada Yakub dan kasih-Mu kepada Abraham seperti yang telah Kaujanjikan dengan bersumpah kepada nenek moyang kami sejak zaman purbakala!"

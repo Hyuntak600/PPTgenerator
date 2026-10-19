@@ -3,7 +3,7 @@
 BibleDB.ref("Acts",28,31);
 BibleDB.add([
   {Bible:"Acts", Chapter:28, Verse:1, Page:1,
-    Kor:"<몰타 섬에 오르다> 우리가 안전하게 목숨을 구한 뒤에야, 비로소 그 곳이 몰타 섬이라는 것을 알았다.",
+    Kor:"우리가 안전하게 목숨을 구한 뒤에야, 비로소 그 곳이 몰타 섬이라는 것을 알았다.",
     Chn:"我们既已得救，才知道那岛名叫马耳他。",
     Eng:"Once safely on shore, we found out that the island was called Malta.",
     Ind:"Setelah kami tiba dengan selamat di pantai, barulah kami tahu, bahwa daratan itu adalah pulau Malta."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Ketika Paulus memungut seberkas ranting-ranting dan meletakkannya di atas api, keluarlah seekor ular beludak karena panasnya api itu, lalu menggigit tangannya."
   },
   {Bible:"Acts", Chapter:28, Verse:4, Page:1,
-    Kor:"섬 사람들이 그 뱀이 바울의 손에 매달려 있는 것을 보고 \"이 사람은 틀림없이 살인자이다. 바다에서는 살아 나왔지만, 정의의 여신이 그를 그대로 살려 두지 않는다\" 하고 서로 말하였다.",
+    Kor:"섬 사람들이 그 뱀이 바울의 손에 매달려 있는 것을 보고 \"이 사람은 틀림없이 살인자다. 바다에서는 살아나왔지만, 정의의 여신이 그를 그대로 살려 두지 않는다\" 하고 서로 말하였다.",
     Chn:"土人看见那毒蛇悬在他手上，就彼此说：「这人必是个凶手，虽然从海里救上来，天理还不容他活着。」",
     Eng:"When the islanders saw the snake hanging from his hand, they said to each other, \"This man must be a murderer; for though he escaped from the sea, Justice has not allowed him to live.\"",
     Ind:"Ketika orang-orang itu melihat ular itu terpaut pada tangan Paulus, mereka berkata seorang kepada yang lain: \"Orang ini sudah pasti seorang pembunuh, sebab, meskipun ia telah luput dari laut, ia tidak dibiarkan hidup oleh Dewi Keadilan.\""
   },
   {Bible:"Acts", Chapter:28, Verse:5, Page:1,
-    Kor:"그런데 바울은 그 뱀을 불 속에 떨어버리고, 아무런 해도 입지 않았다.",
+    Kor:"그런데 바울은 그 뱀을 불 속에 떨어 버리고, 아무런 해도 입지 않았다.",
     Chn:"保罗竟把那毒蛇甩在火里，并没有受伤。",
     Eng:"But Paul shook the snake off into the fire and suffered no ill effects.",
     Ind:"Tetapi Paulus mengibaskan ular itu ke dalam api, dan ia sama sekali tidak menderita sesuatu."
   },
   {Bible:"Acts", Chapter:28, Verse:6, Page:1,
-    Kor:"섬 사람들은, 그가 살이 부어 오르거나 당장 쓰러져 죽으려니, 하고 생각하면서 기다렸다. 그런데 오랫동안 기다려도 그에게 아무런 이상이 생기지 않자, 그들은 생각을 바꾸어서, 그를 신이라고 하였다.",
+    Kor:"섬 사람들은, 그가 살이 부어 오르거나, 당장 쓰러져 죽으려니, 하고 생각하면서 기다렸다. 그런데 오랫동안 기다려도, 그에게 아무런 이상이 생기지 않자, 그들은 생각을 바꾸어서, 그를 신이라고 하였다.",
     Chn:"土人想他必要肿起来，或是忽然仆倒死了；看了多时，见他无害，就转念，说：「他是个神。」",
     Eng:"The people expected him to swell up or suddenly fall dead, but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.",
     Ind:"Namun mereka menyangka, bahwa ia akan bengkak atau akan mati rebah seketika itu juga. Tetapi sesudah lama menanti-nanti, mereka melihat, bahwa tidak ada apa-apa yang terjadi padanya, maka sebaliknya mereka berpendapat, bahwa ia seorang dewa."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Ketika itu ayah Publius terbaring karena sakit demam dan disentri. Paulus masuk ke kamarnya; ia berdoa serta menumpangkan tangan ke atasnya dan menyembuhkan dia."
   },
   {Bible:"Acts", Chapter:28, Verse:9, Page:1,
-    Kor:"이런 일이 일어나니, 그 섬에서 병을 앓고 있는 다른 사람도 찾아와서 고침을 받았다.",
+    Kor:"이런 일이 일어나자, 그 섬에서 병을 앓고 있는 다른 사람도 찾아와서 고침을 받았다.",
     Chn:"从此，岛上其余的病人也来，得了医治。",
     Eng:"When this had happened, the rest of the sick on the island came and were cured.",
     Ind:"Sesudah peristiwa itu datanglah juga orang-orang sakit lain dari pulau itu dan merekapun disembuhkan juga."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Mereka sangat menghormati kami dan ketika kami bertolak, mereka menyediakan segala sesuatu yang kami perlukan."
   },
   {Bible:"Acts", Chapter:28, Verse:11, Page:1,
-    Kor:"<바울이 로마에 이르다> ○석 달 뒤에 우리는 그 섬에서 겨울을 난 디오스구로라는 이름이 붙은 알렉산드리아 배를 타고 떠났다.",
+    Kor:"○석 달 뒤에 우리는 그 섬에서 겨울을 난 디오스구로라는 이름이 붙은 알렉산드리아 배를 타고 떠났다.",
     Chn:"过了三个月，我们上了亚历山大的船往前行；这船以「宙斯双子」为记，是在那海岛过了冬的。",
     Eng:"After three months we put out to sea in a ship that had wintered in the island. It was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux.",
     Ind:"Tiga bulan kemudian kami berangkat dari situ naik sebuah kapal dari Aleksandria yang selama musim dingin berlabuh di pulau itu. Kapal itu memakai lambang Dioskuri."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Kami singgah di Sirakusa dan tinggal di situ tiga hari lamanya."
   },
   {Bible:"Acts", Chapter:28, Verse:13, Page:1,
-    Kor:"그 곳을 떠나, 빙 돌아서 레기온에 다다랐다. 그런데 하루가 지나자 남풍이 불어왔으므로, 우리는 이틀만에 보디올에 이르렀다.",
+    Kor:"그 곳을 떠나, 빙 돌아서 레기온에 닿았다. 그런데 하루를 지나자 남풍이 불어왔으므로, 우리는 이틀 만에 보디올에 이르렀다.",
     Chn:"又从那里绕行，来到利基翁。过了一天，起了南风，第二天就来到部丢利。",
     Eng:"From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli.",
     Ind:"Dari situ kami menyusur pantai, lalu sampai ke Regium. Sehari kemudian bertiuplah angin selatan dan pada hari kedua sampailah kami di Putioli."
   },
   {Bible:"Acts", Chapter:28, Verse:14, Page:1,
-    Kor:"우리는 거기서 a신도들을 만나서, 그들의 초청을 받고, 이레 동안 함께 지냈다. 그런 다음에, 드디어 우리는 로마로 갔다.(a 그, '형제들')",
+    Kor:"우리는 거기에서 신도들을 만나서, 그들의 초청을 받고, 이레 동안 함께 지냈다. 그런 다음에, 드디어 우리는 로마로 갔다.",
     Chn:"在那里遇见弟兄们，请我们与他们同住了七天。这样，我们来到罗马。",
     Eng:"There we found some brothers who invited us to spend a week with them. And so we came to Rome.",
     Ind:"Di situ kami berjumpa dengan anggota-anggota jemaat, dan atas undangan mereka kami tinggal tujuh hari bersama-sama mereka. Sesudah itu kami berangkat ke Roma."
   },
   {Bible:"Acts", Chapter:28, Verse:15, Page:1,
-    Kor:"거기 a신도들이 우리 소식을 듣고서, 아피온 광장과 트레스 마을까지 우리를 맞으러 나왔다. 바울은 그들을 보고, 하나님께 감사를 드리고, 용기를 얻었다.(a 그, '형제들')",
+    Kor:"거기 신도들이 우리 소식을 듣고서, 아피온 광장과 트레스 마을까지 우리를 맞으러 나왔다. 바울은 그들을 보고, 하나님께 감사를 드리고, 용기를 얻었다.",
     Chn:"那里的弟兄们一听见我们的信息就出来，到亚比乌市和三馆地方迎接我们。保罗见了他们，就感谢　神，放心壮胆。",
     Eng:"The brothers there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these men Paul thanked God and was encouraged.",
     Ind:"Saudara-saudara yang di sana telah mendengar tentang hal ihwal kami dan mereka datang menjumpai kami sampai ke Forum Apius dan Tres Taberne. Ketika Paulus melihat mereka, ia mengucap syukur kepada Allah lalu kuatlah hatinya."
@@ -99,79 +99,79 @@ BibleDB.add([
     Ind:"Setelah kami tiba di Roma, Paulus diperbolehkan tinggal dalam rumah sendiri bersama-sama seorang prajurit yang mengawalnya."
   },
   {Bible:"Acts", Chapter:28, Verse:17, Page:1,
-    Kor:"<바울이 로마에서 전도하다> ○사흘 뒤에 바울은 그 곳 유대인 지도자들을 불러모았다. 그들이 모였을 때에, 바울은 이렇게 말하였다. \"a동포 여러분, 나는 우리 겨레와 조상들이 전하여 준 풍속을 거스르는 일을 한 적이 없습니다. 그런데도 나는 죄수가 되어서, 예루살렘에서 로마 사람의 손에 넘겨졌습니다.(a 그, '형제들')",
+    Kor:"○사흘 뒤에 바울은 그 곳 유대 사람 지도자들을 불러모았다. 그들이 모였을 때에, 바울은 이렇게 말하였다. \"형제 여러분, 나는 우리 겨레와 조상들이 전하여 준 풍습을 거스르는 일을 한 적이 없습니다. 그런데도 나는 죄수가 되어서, 예루살렘에서 로마 사람의 손에 넘겨졌습니다.",
     Chn:"过了三天，保罗请犹太人的首领来。他们来了，就对他们说：「弟兄们，我虽没有做什么事干犯本国的百姓和我们祖宗的规条，却被锁绑，从耶路撒冷解在罗马人的手里。",
     Eng:"Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them: \"My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.",
     Ind:"Tiga hari kemudian Paulus memanggil orang-orang terkemuka bangsa Yahudi dan setelah mereka berkumpul, Paulus berkata: \"Saudara-saudara, meskipun aku tidak berbuat kesalahan terhadap bangsa kita atau terhadap adat istiadat nenek moyang kita, namun aku ditangkap di Yerusalem dan diserahkan kepada orang-orang Roma."
   },
   {Bible:"Acts", Chapter:28, Verse:18, Page:1,
-    Kor:"b로마 사람은 나를 신문하여 보았으나, 사형에 처할 만한 아무런 근거가 없으므로, 나를 놓아주려고 하였습니다.(b 그, '그들은')",
+    Kor:"로마 사람은 나를 신문하여 보았으나, 사형에 처할 만한 아무런 근거가 없으므로, 나를 놓아 주려고 하였습니다.",
     Chn:"他们审问了我，就愿意释放我；因为在我身上，并没有该死的罪。",
     Eng:"They examined me and wanted to release me, because I was not guilty of any crime deserving death.",
     Ind:"Setelah aku diperiksa, mereka bermaksud melepaskan aku, karena tidak terdapat suatu kesalahanpun padaku yang setimpal dengan hukuman mati."
   },
   {Bible:"Acts", Chapter:28, Verse:19, Page:1,
-    Kor:"그러나 유대 사람이 반대하는 바람에, 하는 수 없이 내가 c황제에게 상소한 것입니다. 나는 절대로 내 민족을 고발하려는 것이 아니었습니다.(c 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"그러나 유대 사람이 반대하는 바람에, 하는 수 없이 내가 황제에게 상소한 것입니다. 나는 절대로 내 민족을 고발하려는 것이 아니었습니다.",
     Chn:"无奈犹太人不服，我不得已，只好上告于凯撒，并非有什么事要控告我本国的百姓。",
     Eng:"But when the Jews objected, I was compelled to appeal to Caesar--not that I had any charge to bring against my own people.",
     Ind:"Akan tetapi orang-orang Yahudi menentangnya dan karena itu terpaksalah aku naik banding kepada Kaisar, tetapi bukan dengan maksud untuk mengadukan bangsaku."
   },
   {Bible:"Acts", Chapter:28, Verse:20, Page:1,
-    Kor:"이런 까닭으로, 나는 여러분을 뵙고 말씀드리려고, 여러분을 오시라고 청한 것입니다. 내가 이렇게 쇠사슬에 매여 있는 것은, 이스라엘의 소망 때문입니다.\"",
+    Kor:"이런 연유로, 나는 여러분을 뵙고 말씀드리려고, 여러분을 오시라고 청한 것입니다. 내가 이렇게 쇠사슬에 매여 있는 것은, 이스라엘의 소망 때문입니다.\"",
     Chn:"因此，我请你们来见面说话，我原为以色列人所指望的，被这链子捆锁。」",
     Eng:"For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.\"",
     Ind:"Itulah sebabnya aku meminta, supaya aku melihat kamu dan berbicara dengan kamu, sebab justru karena pengharapan Israellah aku diikat dengan belenggu ini.\""
   },
   {Bible:"Acts", Chapter:28, Verse:21, Page:1,
-    Kor:"그들이 바울에게 말하였다. \"우리는 아직 유대로부터 당신에 관한 편지를 받은 일도 없고, a동포들 가운데서 아무도, 여기에 와서 당신에 대하여 나쁘게 말하거나 소문을 낸 일이 없습니다.(a 그, '형제들')",
+    Kor:"그들이 바울에게 말하였다. \"우리는 아직 유대로부터 그대와 관계되어 있는 편지를 받은 일도 없고, 형제들 가운데서 아무도, 여기에 와서 그대에 대하여 나쁘게 이르거나 소문을 낸 일이 없습니다.",
     Chn:"他们说：「我们并没有接着从犹太来论你的信，也没有弟兄到这里来报给我们说你有什么不好处。",
     Eng:"They replied, \"We have not received any letters from Judea concerning you, and none of the brothers who have come from there has reported or said anything bad about you.",
     Ind:"Akan tetapi mereka berkata kepadanya: \"Kami tidak menerima surat-surat dari Yudea tentang engkau dan juga tidak seorangpun dari saudara-saudara kita datang memberitakan apa-apa yang jahat mengenai engkau."
   },
   {Bible:"Acts", Chapter:28, Verse:22, Page:1,
-    Kor:"우리는 당신에게서 당신의 생각을 들어보고 싶습니다. 이 종파에 대하여 우리가 아는 것은, 어디서나 이 종파를 반대하는 소리가 높다는 것입니다.\"",
+    Kor:"우리는 그대에게서 그대의 생각을 들어 보고 싶습니다. 이 종파에 대하여 우리가 아는 것은, 어디서나 이 종파를 반대하는 소리가 높다는 것입니다.\"",
     Chn:"但我们愿意听你的意见如何；因为这教门，我们晓得是到处被毁谤的。」",
     Eng:"But we want to hear what your views are, for we know that people everywhere are talking against this sect.\"",
     Ind:"Tetapi kami ingin mendengar dari engkau, bagaimana pikiranmu, sebab tentang mazhab ini kami tahu, bahwa di mana-manapun ia mendapat perlawanan.\""
   },
   {Bible:"Acts", Chapter:28, Verse:23, Page:1,
-    Kor:"○그들은 바울과 만날 날짜를 정하였다. 그 날에 더 많은 사람이 바울의 숙소로 찾아왔다. 그는, 아침부터 저녁까지, 그들에게 하나님 나라를 엄숙히 증언하고, 모세의 율법과 예언자의 말을 가지고 예수에 관하여 그들을 설득하면서 그의 속내를 터놓았다.",
+    Kor:"○그들은 바울과 날짜를 정해 두었다가 그날이 되자 많은 사람을 데리고 바울의 숙소로 찾아왔다. 그는, 아침부터 저녁까지, 하나님 나라를 잘 설명하여 증언하고, 모세의 율법과 예언자의 글을 들어서, 예수에 관하여 그들을 설득하려고 힘썼다.",
     Chn:"他们和保罗约定了日子，就有许多人到他的寓处来。保罗从早到晚，对他们讲论这事，证明　神国的道，引摩西的律法和先知的书，以耶稣的事劝勉他们。",
     Eng:"They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. From morning till evening he explained and declared to them the kingdom of God and tried to convince them about Jesus from the Law of Moses and from the Prophets.",
     Ind:"Lalu mereka menentukan suatu hari untuk Paulus. Pada hari yang ditentukan itu datanglah mereka dalam jumlah besar ke tempat tumpangannya. Ia menerangkan dan memberi kesaksian kepada mereka tentang Kerajaan Allah; dan berdasarkan hukum Musa dan kitab para nabi ia berusaha meyakinkan mereka tentang Yesus. Hal itu berlangsung dari pagi sampai sore."
   },
   {Bible:"Acts", Chapter:28, Verse:24, Page:1,
-    Kor:"더러는 그의 말을 받아들였으나, 더러는 믿지 않았다.",
+    Kor:"어떤 이들은 그의 말을 받아들였으나, 어떤 이들은 믿지 않았다.",
     Chn:"他所说的话，有信的，有不信的。",
     Eng:"Some were convinced by what he said, but others would not believe.",
     Ind:"Ada yang dapat diyakinkan oleh perkataannya, ada yang tetap tidak percaya."
   },
   {Bible:"Acts", Chapter:28, Verse:25, Page:1,
-    Kor:"그들이 이렇게 견해가 서로 엇갈린 채로 흩어질 때에, 바울은 이런 말을 한 마디 하였다. \"성령께서 예언자 이사야를 통하여 여러분의 조상에게 하신 말씀은 적절합니다.",
+    Kor:"그들이 이렇게 의견이 서로 엇갈린 채로 흩어질 때에, 바울은 이런 말을 한 마디 하였다. \"성령께서 예언자 이사야를 시켜서 여러분의 조상에게 하신 말씀은 적절합니다.",
     Chn:"他们彼此不合，就散了；未散以先，保罗说了一句话，说：「圣灵借先知以赛亚向你们祖宗所说的话是不错的。",
     Eng:"They disagreed among themselves and began to leave after Paul had made this final statement: \"The Holy Spirit spoke the truth to your forefathers when he said through Isaiah the prophet:",
     Ind:"Maka bubarlah pertemuan itu dengan tidak ada kesesuaian di antara mereka. Tetapi Paulus masih mengatakan perkataan yang satu ini: \"Tepatlah firman yang disampaikan Roh Kudus kepada nenek moyang kita dengan perantaraan nabi Yesaya:"
   },
   {Bible:"Acts", Chapter:28, Verse:26, Page:1,
-    Kor:"곧 이런 말씀입니다.  d'이 백성에게 가서 말하여라. 너희가 듣기는 들어도 깨닫지 못하고, 보기는 보아도 알지 못한다. (d 사 6:9, 10(칠십인역))",
+    Kor:"곧 이런 말씀입니다. '이 백성에게 가서 말하여라. 너희가 듣기는 들어도 깨닫지 못하고, 보기는 보아도 알지 못한다.",
     Chn:"他说： 你去告诉这百姓说： 你们听是要听见，却不明白； 看是要看见，却不晓得；",
     Eng:"\"'Go to this people and say, \"You will be ever hearing but never understanding; you will be ever seeing but never perceiving.\"",
     Ind:"Pergilah kepada bangsa ini, dan katakanlah: Kamu akan mendengar dan mendengar, namun tidak mengerti, kamu akan melihat dan melihat, namun tidak menanggap."
   },
   {Bible:"Acts", Chapter:28, Verse:27, Page:1,
-    Kor:"이 백성의 마음이 무디어지고 귀가 먹고 눈이 감기어 있다. 이는 그들로 하여금 눈으로 보지 못하게 하고 귀로 듣지 못하게 하고 마음으로 깨닫지 못하게 하고 돌아서지 못하게 하여, 내가 그들을 고쳐 주지 않으려는 것이다.'",
+    Kor:"이 백성의 마음이 무디어지고 귀가 먹고 눈이 감기어 있다. 이는 그들이 눈으로 보고 귀로 듣고 마음으로 깨달아서 돌이키지 못하게 하고, 내가 그들을 고쳐 주지 않으려는 것이다.'",
     Chn:"因为这百姓油蒙了心， 耳朵发沉， 眼睛闭着； 恐怕眼睛看见， 耳朵听见， 心里明白，回转过来， 我就医治他们。",
     Eng:"For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'",
     Ind:"Sebab hati bangsa ini telah menebal, dan telinganya berat mendengar, dan matanya melekat tertutup; supaya jangan mereka melihat dengan matanya dan mendengar dengan telinganya dan mengerti dengan hatinya, lalu berbalik sehingga Aku menyembuhkan mereka."
   },
   {Bible:"Acts", Chapter:28, Verse:28, Page:1,
-    Kor:"그러므로 여러분은 하나님의 이 구원의 소식이 이방 사람에게 전파되었음을 알아야 합니다. 그들이야말로 그것을 듣고 받아들일 것입니다.\"",
+    Kor:"그러므로 여러분은 하나님의 구원의 소식이 이방 사람에게 전파되었음을 알아야 합니다. 그들이야말로 그것을 듣고 받아들일 것입니다.\"",
     Chn:"所以你们当知道，　神这救恩，如今传给外邦人，他们也必听受。」",
     Eng:"\"Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!\"",
     Ind:"Sebab itu kamu harus tahu, bahwa keselamatan yang dari pada Allah ini disampaikan kepada bangsa-bangsa lain dan mereka akan mendengarnya.\""
   },
   {Bible:"Acts", Chapter:28, Verse:29, Page:1,
-    Kor:"e(29절 없음)(e 어떤 사본에는 29절의 내용이 첨가되어 있음. '29. 그가 이 말을 마쳤을 때에, 유대 사람들은 서로 많은 토론을 하면서 돌아갔다')",
+    Kor:"없음",
     Chn:"保罗在自己所租的房子里住了足足两年。凡来见他的人，他全都接待，",
     Eng:"",
     Ind:"(Dan setelah Paulus berkata demikian, pergilah orang-orang Yahudi itu dengan banyak perbedaan paham antara mereka.)"

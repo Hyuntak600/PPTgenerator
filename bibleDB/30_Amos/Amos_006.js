@@ -3,7 +3,7 @@
 BibleDB.ref("Amos",6,14);
 BibleDB.add([
   {Bible:"Amos", Chapter:6, Verse:1, Page:1,
-    Kor:"<이스라엘의 멸망> 너희는 망한다! 시온이 안전하다고 생각하고 거기에서 사는 자들아, 사마리아의 요새만 믿고서 안심하고 사는 자들아, 이스라엘 가문이 의지하는 으뜸가는 나라, 이스라엘의 고귀한 지도자들아!",
+    Kor:"너희는 망한다! 시온이 안전하다고 생각하고 거기에서 사는 자들아, 사마리아의 요새만 믿고서 안심하고 사는 자들아, 이스라엘 가문이 의지하는 으뜸가는 나라, 이스라엘의 고귀한 지도자들아!",
     Chn:"国为列国之首，人最著名， 且为以色列家所归向， 在锡安和撒马利亚山安逸无虑的，有祸了！",
     Eng:"Woe to you who are complacent in Zion, and to you who feel secure on Mount Samaria, you notable men of the foremost nation, to whom the people of Israel come!",
     Ind:"\"Celaka atas orang-orang yang merasa aman di Sion, atas orang-orang yang merasa tenteram di gunung Samaria, atas orang-orang terkemuka dari bangsa yang utama, orang-orang yang kepada mereka kaum Israel biasa datang!"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Sebab itu sekarang, mereka akan pergi sebagai orang buangan di kepala barisan, dan berlalulah keriuhan pesta orang-orang yang duduk berjuntai itu.\""
   },
   {Bible:"Amos", Chapter:6, Verse:8, Page:1,
-    Kor:"주 하나님이 스스로를 두고 맹세하신다. 만군의 하나님 주님께서 하시는 말씀이다. \"나는 야곱의 교만이 밉다. 그들이 사는 호화로운 저택이 싫다. 그들이 사는 성읍과 그 안에 있는 모든 것들을 내가 원수에게 넘겨 주겠다.",
+    Kor:"주 하나님이 스스로를 두고 맹세하신다. 만군의 하나님 주께서 하시는 말씀이다. \"나는 야곱의 교만이 밉다. 그들이 사는 호화로운 저택이 싫다. 그들이 사는 성읍과 그 안에 있는 모든 것들을 내가 원수에게 넘겨 주겠다.",
     Chn:"主耶和华—万军之　神指着自己起誓说： 我憎恶雅各的荣华，厌弃他的宫殿； 因此，我必将城和其中所有的都交付敌人。",
     Eng:"The Sovereign LORD has sworn by himself--the LORD God Almighty declares: \"I abhor the pride of Jacob and detest his fortresses; I will deliver up the city and everything in it.\"",
     Ind:"Tuhan ALLAH telah bersumpah demi diri-Nya, --demikianlah firman TUHAN, Allah semesta alam--:\"Aku ini keji kepada kecongkakan Yakub, dan benci kepada purinya; Aku akan menyerahkan kota serta isinya.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan jika masih tinggal sepuluh orang dalam satu rumah, mereka akan mati."
   },
   {Bible:"Amos", Chapter:6, Verse:10, Page:1,
-    Kor:"시체들을 불살라 장례를 치르는 친척이 와서, 그 집에서 시체들을 내가면서, 집 안에 있는 사람에게, 옆에 아직 시체가 더 있느냐고 물으면, 남아 있는 그 사람이 '없다'고 대답할 것이다. 그러면 그 친척이 '조용히 하라'고 하면서 '주님의 이름을 함부로 불러서는 안 된다'고 말할 것이다.",
+    Kor:"시체들을 불살라 장례를 치르는 친척이 와서, 그 집에서 시체들을 내가면서, 집 안에 있는 사람에게, 옆에 아직 시체가 더 있느냐고 물으면, 남아 있는 그 사람이 '없다'고 대답할 것이다. 그러면 그 친척이 '조용히 하라'고 하면서 '주의 이름을 함부로 불러서는 안 된다'고 말할 것이다.",
     Chn:"死人的伯叔，就是烧他尸首的，要将这尸首搬到房外，问房屋内间的人说：「你那里还有人没有？」他必说：「没有」；又说：「不要作声，因为我们不可提耶和华的名。」",
     Eng:"And if a relative who is to burn the bodies comes to carry them out of the house and asks anyone still hiding there, \"Is anyone with you?\" and he says, \"No,\" then he will say, \"Hush! We must not mention the name of the LORD.\"",
     Ind:"Dan jika pamannya, pembakar mayat itu, yang datang mengangkat dan mengeluarkan mayat itu dari rumah itu, bertanya kepada orang yang ada di bagian belakang rumah: \"Adakah lagi orang bersama-sama engkau?\" dan dijawab: \"Tidak ada,\" ia akan berkata: \"Diam!\" Sebab tidaklah patut menyebut-nyebut nama TUHAN!"
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Sebab sesungguhnya, TUHAN memberi perintah, maka rumah besar dirobohkan menjadi reruntuhan dan rumah kecil menjadi rosokan."
   },
   {Bible:"Amos", Chapter:6, Verse:12, Page:1,
-    Kor:"말들이 바위 위에서 달릴 수 있느냐? a사람이 소를 부려 바다를 갈 수 있느냐? 그런데도 너희는 공의를 뒤엎어 독약을 만들고, 정의에서 거둔 열매를 쓰디쓴 소태처럼 만들었다. (a 또는 '사람이 소를 부려 바위를 갈 수 있느냐?')",
+    Kor:"말들이 바위 위에서 달릴 수 있느냐? 사람이 소를 부려 바다를 갈 수 있느냐? 그런데도 너희는 공의를 뒤엎어 독약을 만들고, 정의에서 거둔 열매를 쓰디쓴 소태처럼 만들었다.",
     Chn:"马岂能在崖石上奔跑？ 人岂能在那里用牛耕种呢？ 你们却使公平变为苦胆， 使公义的果子变为茵 。",
     Eng:"Do horses run on the rocky crags? Does one plow there with oxen? But you have turned justice into poison and the fruit of righteousness into bitterness--",
     Ind:"Berlarikah kuda-kuda di atas bukit batu, atau dibajak orangkah laut dengan lembu? Sungguh, kamu telah mengubah keadilan menjadi racun dan hasil kebenaran menjadi ipuh!"
   },
   {Bible:"Amos", Chapter:6, Verse:13, Page:1,
-    Kor:"○너희가 b로드발을 점령하였다고 기뻐하며 'c가르나임을 우리의 힘만으로 정복하지 않았느냐'고 말하지만,(b '아무것도 없다'는 뜻을 지닌 지명 c 힘을 상징하는 '두 뿔'이라는 뜻을 지닌 지명)",
+    Kor:"○너희가 로드발을 점령하였다고 기뻐하며 '가르나임을 우리의 힘만으로 정복하지 않았느냐'고 말하지만,",
     Chn:"你们喜爱虚浮的事，自夸说： 我们不是凭自己的力量取了角吗？",
     Eng:"you who rejoice in the conquest of Lo Debar and say, \"Did we not take Karnaim by our own strength?\"",
     Ind:"Hai kamu, yang bersukacita karena Lodabar, dan yang berkata: \"Bukankah kita dengan kekuatan kita merebut Karnaim bagi kita?\""

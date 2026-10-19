@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",12,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:12, Verse:1, Page:1,
-    Kor:"<악의 그늘에 못 숨는다> 훈계받기를 좋아하는 사람은 지식을 사랑하지만, 책망받기를 싫어하는 사람은 짐승같이 우둔하다.",
+    Kor:"훈계받기를 좋아하는 사람은 지식을 사랑하지만, 책망받기를 싫어하는 사람은 짐승같이 우둔하다.",
     Chn:"喜爱管教的，就是喜爱知识； 恨恶责备的，却是畜类。",
     Eng:"Whoever loves discipline loves knowledge, but he who hates correction is stupid.",
     Ind:"Siapa mencintai didikan, mencintai pengetahuan; tetapi siapa membenci teguran, adalah dungu."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Orang yang dusta bibirnya adalah kekejian bagi TUHAN, tetapi orang yang berlaku setia dikenan-Nya."
   },
   {Bible:"Proverbs", Chapter:12, Verse:23, Page:1,
-    Kor:"슬기로운 사람은 지식을 감추어 두어도, a미련한 사람의 마음은 어리석음을 전파한다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"슬기로운 사람은 지식을 감추어 두어도, 미련한 사람의 마음은 어리석음을 전파한다.",
     Chn:"通达人隐藏知识； 愚昧人的心彰显愚昧。",
     Eng:"A prudent man keeps his knowledge to himself, but the heart of fools blurts out folly.",
     Ind:"Orang yang bijak menyembunyikan pengetahuannya, tetapi hati orang bebal menyeru-nyerukan kebodohan."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Kekuatiran dalam hati membungkukkan orang, tetapi perkataan yang baik menggembirakan dia."
   },
   {Bible:"Proverbs", Chapter:12, Verse:26, Page:1,
-    Kor:"의인은 b이웃에게 바른길을 보여 주지만, 악인은 이웃을 나쁜 길로 빠져 들게 한다. (b 또는 '친구를 신중하게 사귄다')",
+    Kor:"의인은 이웃에게 바른길을 보여 주지만, 악인은 이웃을 나쁜 길로 빠져 들게 한다.",
     Chn:"义人引导他的邻舍； 恶人的道叫人失迷。",
     Eng:"A righteous man is cautious in friendship, but the way of the wicked leads them astray.",
     Ind:"Orang benar mendapati tempat penggembalaannya, tetapi jalan orang fasik menyesatkan mereka sendiri."
   },
   {Bible:"Proverbs", Chapter:12, Verse:27, Page:1,
-    Kor:"게으른 사람은 사냥한 것도 불에 구우려 하지 않지만, 부지런한 사람은 귀한 재물을 얻는다.",
+    Kor:"게으른 사람은 사냥한 것도 구우려 하지 않지만, 부지런한 사람은 귀한 재물을 얻는다.",
     Chn:"懒惰的人不烤打猎所得的； 殷勤的人却得宝贵的财物。",
     Eng:"The lazy man does not roast his game, but the diligent man prizes his possessions.",
     Ind:"Orang malas tidak akan menangkap buruannya, tetapi orang rajin akan memperoleh harta yang berharga."

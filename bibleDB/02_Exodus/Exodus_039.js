@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",39,43);
 BibleDB.add([
   {Bible:"Exodus", Chapter:39, Verse:1, Page:1,
-    Kor:"<제사장의 예복을 만들다(출 28:1-14)> 그들은 청색 실과 자주색 실과 홍색 실로 성소에서 예배드릴 때에 입는 옷을 정교하게 짜서 만들었다. 그들은 이렇게, 주님께서 모세에게 명하신 대로, 아론이 입을 거룩한 옷을 만들었다.",
+    Kor:"그들은 청색 실과 자주색 실과 홍색 실로, 성소에서 예배드릴 때에 입는 옷을 정교하게 짜서 만들었다. 그들은 이렇게, 주께서 모세에게 명하신 대로, 아론이 입을 거룩한 옷을 만들었다.",
     Chn:"比撒列用蓝色、紫色、朱红色线做精致的衣服，在圣所用以供职，又为亚伦做圣衣，是照耶和华所吩咐摩西的。",
     Eng:"From the blue, purple and scarlet yarn they made woven garments for ministering in the sanctuary. They also made sacred garments for Aaron, as the LORD commanded Moses.",
     Ind:"Dari kain ungu tua, kain ungu muda dan kain kirmizi dibuat merekalah pakaian jabatan yang dipakai apabila diselenggarakan kebaktian di tempat kudus; juga dibuat mereka pakaian-pakaian kudus untuk Harun, seperti yang diperintahkan TUHAN kepada Musa."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Dibuat merekalah tutup bahu pada baju efod itu, yang disambung kepadanya, dikedua ujungnyalah baju efod itu disambung."
   },
   {Bible:"Exodus", Chapter:39, Verse:5, Page:1,
-    Kor:"에봇 위에 띨 허리띠는 에봇을 짤 때와 같은 방법으로, 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 짜서, 에봇과 한데 이어 붙였다. 이것은 모두 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"에봇 위에 띨 허리띠는 에봇을 짤 때와 같은 방법으로, 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 짜서, 에봇과 한데 이어 붙였다. 이것은 모두 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"其上巧工织的带子和以弗得一样的做法，用以束上，与以弗得接连一块，是用金线和蓝色、紫色、朱红色线，并捻的细麻做的，是照耶和华所吩咐摩西的。",
     Eng:"Its skillfully woven waistband was like it--of one piece with the ephod and made with gold, and with blue, purple and scarlet yarn, and with finely twisted linen, as the LORD commanded Moses.",
     Ind:"Sabuk pengikat yang ada pada baju efod itu adalah seiras dan sama buatannya dengan baju efod itu, yakni dari emas, kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus yang dipintal benangnya, seperti yang diperintahkan TUHAN kepada Musa."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Dikerjakan merekalah permata krisopras, yakni dililit dengan ikat emas, diukirkan padanya nama para anak Israel, yang diukirkan seperti meterai."
   },
   {Bible:"Exodus", Chapter:39, Verse:7, Page:1,
-    Kor:"그리고 이스라엘 지파들을 상징하는 이 기념 보석들을 에봇의 양쪽 멜빵 위에 달았다. 이는 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"그리고 이스라엘 지파들을 상징하는 이 기념 보석들을 에봇의 양쪽 멜빵 위에 달았다. 이는 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"将这两块宝石安在以弗得的两条肩带上，为以色列人做纪念石，是照耶和华所吩咐摩西的。",
     Eng:"Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the LORD commanded Moses.",
     Ind:"Ditaruhnyalah itu pada kedua tutup bahu baju efod sebagai permata peringatan untuk mengingat orang Israel, seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Exodus", Chapter:39, Verse:8, Page:1,
-    Kor:"<가슴받이를 만들다(출 28:15-30)> ○그들은 에봇을 만들 때와 마찬가지로 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 가슴받이를 정교하게 만들었다.",
+    Kor:"○그들은 에봇을 만들 때와 마찬가지로 금 실과 청색 실과 자주색 실과 홍색 실과 가늘게 꼰 모시 실로 가슴받이를 정교하게 만들었다.",
     Chn:"他用巧匠的手工做胸牌，和以弗得一样的做法，用金线与蓝色、紫色、朱红色线，并捻的细麻做的。",
     Eng:"They fashioned the breastpiece--the work of a skilled craftsman. They made it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen.",
     Ind:"Dibuatnyalah tutup dada, buatan seorang ahli. Buatannya sama dengan baju efod, yakni dari emas, kain ungu tua, kain ungu muda, kain kirmizi dan lenan halus yang dipintal benangnya."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Juga dibuat merekalah dua gelang emas dan dipasang pada kedua tutup bahu baju efod, di sebelah bawah pada bagian depan, dekat ke tempat persambungannya, di sebelah atas sabuk baju efod."
   },
   {Bible:"Exodus", Chapter:39, Verse:21, Page:1,
-    Kor:"청색 실로 꼰 끈으로 가슴받이 고리를 에봇 고리에 매되, 정교하게 짠 에봇 띠 조금 위에다 매어서, 가슴받이가 에봇에서 떨어지지 않게 하였다. 이는 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"청색 실로 꼰 끈으로 가슴받이 고리를 에봇 고리에 매되, 정교하게 짠 에봇 띠 조금 위에다 매어서, 가슴받이가 에봇에서 떨어지지 않게 하였다. 이는 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"用一条蓝细带子把胸牌的环子和以弗得的环子系住，使胸牌贴在以弗得巧工织的带子上，不可与以弗得离缝，是照耶和华所吩咐摩西的。",
     Eng:"They tied the rings of the breastpiece to the rings of the ephod with blue cord, connecting it to the waistband so that the breastpiece would not swing out from the ephod--as the LORD commanded Moses.",
     Ind:"Kemudian diikatkan merekalah tutup dada itu dengan gelangnya kepada gelang baju efod dengan memakai tali ungu tua, sehingga tetap di atas sabuk baju efod, dan tutup dada itu tidak dapat bergeser dari baju efod--seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Exodus", Chapter:39, Verse:22, Page:1,
-    Kor:"<제사장의 또다른 예복을 만들다(출 28:31-43)> ○그들은 에봇에 딸린 겉옷을 전부 청색으로 짜서 만들었다.",
+    Kor:"○그들은 에봇에 딸린 겉옷을 전부 청색으로 짜서 만들었다.",
     Chn:"他用织工做以弗得的外袍，颜色全是蓝的。",
     Eng:"They made the robe of the ephod entirely of blue cloth--the work of a weaver--",
     Ind:"Dibuatnyalah gamis baju efod, buatan tukang tenun, dari kain ungu tua seluruhnya."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Dibuat merekalah giring-giring dari emas murni dan ditaruhlah giring-giring itu di antara buah delima, pada ujung gamis itu, berselang-seling di antara buah delima itu,"
   },
   {Bible:"Exodus", Chapter:39, Verse:26, Page:1,
-    Kor:"이렇게, 제사를 드릴 때에 입을 수 있게, 겉옷 자락을 돌아가며, 방울 하나 석류 하나, 또 방울 하나 석류 하나를 달았으니, 이는 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"이렇게, 제사를 드릴 때에 입을 수 있게, 겉옷 자락을 돌아가며, 방울 하나 석류 하나, 또 방울 하나 석류 하나를 달았으니, 이는 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"一个铃铛一个石榴，一个铃铛一个石榴，在袍子周围底边上用以供职，是照耶和华所吩咐摩西的。",
     Eng:"The bells and pomegranates alternated around the hem of the robe to be worn for ministering, as the LORD commanded Moses.",
     Ind:"sehingga satu giring-giring dan satu buah delima selalu berselang-seling, pada sekeliling ujung gamis, yang dipakai apabila diselenggarakan kebaktian seperti yang diperintahkan TUHAN kepada Musa."
@@ -171,25 +171,25 @@ BibleDB.add([
     Ind:"serban dari lenan halus, destar yang indah dari lenan halus, celana lenan dari lenan halus yang dipintal benangnya,"
   },
   {Bible:"Exodus", Chapter:39, Verse:29, Page:1,
-    Kor:"가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로 수를 놓아, 허리띠를 만들었다. 이 모든 것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"가늘게 꼰 모시 실과 청색 실과 자주색 실과 홍색 실로 수를 놓아, 허리띠를 만들었다. 이 모든 것은, 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"又用蓝色、紫色、朱红色线，并捻的细麻，以绣花的手工做腰带，是照耶和华所吩咐摩西的。",
     Eng:"The sash was of finely twisted linen and blue, purple and scarlet yarn--the work of an embroiderer--as the LORD commanded Moses.",
     Ind:"dan ikat pinggang dari lenan halus yang dipintal benangnya, kain ungu tua, kain ungu muda dan kain kirmizi, dari tenunan yang berwarna-warna--seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Exodus", Chapter:39, Verse:30, Page:1,
-    Kor:"○그들은 또 성직자의 관에 붙이는 거룩한 패를 순금으로 만들고, 그 위에, 인장 반지를 새기듯이 '주님의 성직자'라고 새겨 넣었다.",
+    Kor:"○그들은 또 성직자의 관에 붙이는 거룩한 패를 순금으로 만들고, 그 위에, 인장 반지를 새기듯이 '주의 성직자'라고 새겨 넣었다.",
     Chn:"他用精金做圣冠上的牌，在上面按刻图书之法，刻着「归耶和华为圣」。",
     Eng:"They made the plate, the sacred diadem, out of pure gold and engraved on it, like an inscription on a seal: HOLY TO THE LORD.",
     Ind:"Dibuat merekalah patam, jamang yang kudus dari emas murni, dan pada jamang itu dituliskan tulisan, diukirkan seperti meterai: Kudus bagi TUHAN."
   },
   {Bible:"Exodus", Chapter:39, Verse:31, Page:1,
-    Kor:"그것을 청색 실로 꼰 끈에 매어서 제사장이 쓰는 관에 달았다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"그것을 청색 실로 꼰 끈에 매어서 제사장이 쓰는 관에 달았다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"又用一条蓝细带子将牌系在冠冕上，是照耶和华所吩咐摩西的。",
     Eng:"Then they fastened a blue cord to it to attach it to the turban, as the LORD commanded Moses.",
     Ind:"Dipasang merekalah pada patam itu tali ungu tua untuk mengikatkan patam itu pada serbannya, di sebelah atas--seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Exodus", Chapter:39, Verse:32, Page:1,
-    Kor:"<성막 완공 검사(출 35:10-19)> ○이렇게 해서, 성막 곧 회막의 공사가 완성되었다. 이스라엘 자손은, 주님께서 모세에게 명하신 모든 것을 그대로 다 하였다.",
+    Kor:"○이렇게 해서, 성막, 곧 회막의 공사가 완성되었다. 이스라엘 자손은, 주께서 모세에게 명하신 모든 것을 그대로 다 하였다.",
     Chn:"帐幕，就是会幕，一切的工就这样做完了。凡耶和华所吩咐摩西的，以色列人都照样做了。",
     Eng:"So all the work on the tabernacle, the Tent of Meeting, was completed. The Israelites did everything just as the LORD commanded Moses.",
     Ind:"Demikianlah diselesaikan segala pekerjaan melengkapi Kemah Suci, yakni Kemah Pertemuan itu. Orang Israel telah melakukannya tepat seperti yang diperintahkan TUHAN kepada Musa, demikianlah mereka melakukannya."
@@ -243,19 +243,19 @@ BibleDB.add([
     Ind:"layar pelataran, tiangnya dan alasnya, dan tirai untuk pintu gerbang pelataran, talinya dan patoknya, segala perkakas untuk pekerjaan mendirikan Kemah Suci, yakni Kemah Pertemuan itu;"
   },
   {Bible:"Exodus", Chapter:39, Verse:41, Page:1,
-    Kor:"성소에서 예식을 올릴 때에 입는 잘 짠 옷 곧 제사장 아론의 거룩한 옷과 그 아들들이 제사장 일을 할 때에 입는 옷 들이다.",
+    Kor:"성소에서 예식을 올릴 때에 입는 잘 짠 옷과, 곧 제사장 아론의 거룩한 옷과 그 아들들이 제사장 일을 할 때에 입는 옷 들이다.",
     Chn:"精工做的礼服，和祭司亚伦并他儿子在圣所用以供祭司职分的圣衣。",
     Eng:"and the woven garments worn for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.",
     Ind:"pakaian jabatan yang dipakai apabila diselenggarakan kebaktian di tempat kudus, pakaian kudus untuk imam Harun, dan pakaian anak-anaknya untuk memegang jabatan imam."
   },
   {Bible:"Exodus", Chapter:39, Verse:42, Page:1,
-    Kor:"이스라엘 자손은, 주님께서 모세에게 명하신 모든 것을 그대로 하여, 일을 완수하였다.",
+    Kor:"이스라엘 자손은, 주께서 모세에게 명하신 모든 것을 그대로 하여, 일을 완수하였다.",
     Chn:"这一切工作都是以色列人照耶和华所吩咐摩西做的。",
     Eng:"The Israelites had done all the work just as the LORD had commanded Moses.",
     Ind:"Tepat seperti yang diperintahkan TUHAN kepada Musa, demikianlah dilakukan orang Israel segala pekerjaan melengkapi itu."
   },
   {Bible:"Exodus", Chapter:39, Verse:43, Page:1,
-    Kor:"모세가 그 모든 일을 점검하여 보니, 그들이 주님께서 명하신 그대로 하였으므로, 그들에게 복을 빌어 주었다.",
+    Kor:"모세가 그 모든 일을 점검하여 보니, 그들이, 주께서 명하신 그대로 하였으므로, 그들에게 복을 빌어 주었다.",
     Chn:"耶和华怎样吩咐的，他们就怎样做了。摩西看见一切的工都做成了，就给他们祝福。",
     Eng:"Moses inspected the work and saw that they had done it just as the LORD had commanded. So Moses blessed them.",
     Ind:"Dan Musa melihat segala pekerjaan itu, dan sesungguhnyalah, mereka telah melakukannya seperti yang diperintahkan TUHAN, demikianlah mereka melakukannya. Lalu Musa memberkati mereka."

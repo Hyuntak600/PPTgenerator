@@ -3,7 +3,7 @@
 BibleDB.ref("Amos",5,27);
 BibleDB.add([
   {Bible:"Amos", Chapter:5, Verse:1, Page:1,
-    Kor:"<애가> 이스라엘 가문아, 이 말을 들어라. 이것은 너희를 두고, 내가 지은 애가다.",
+    Kor:"이스라엘 가문아, 이 말을 들어라. 이것은 너희를 두고, 내가 지은 애가다.",
     Chn:"以色列家啊，要听我为你们所作的哀歌：",
     Eng:"Hear this word, O house of Israel, this lament I take up concerning you:",
     Ind:"Dengarlah perkataan ini yang kuucapkan tentang kamu sebagai ratapan, hai kaum Israel:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sebab beginilah firman Tuhan ALLAH kepada kaum Israel: \"Kota yang maju berperang dengan seribu orang, dari padanya akan tersisa seratus orang, dan yang maju berperang dengan seratus orang, dari padanya akan tersisa sepuluh orang.\""
   },
   {Bible:"Amos", Chapter:5, Verse:4, Page:1,
-    Kor:"<회개를 재촉하다> \"나 주가 이스라엘 가문에 선고한다. 너희는 나를 찾아라. 그러면 산다.",
+    Kor:"\"나 주가 이스라엘 가문에 선고한다. 너희는 나를 찾아라. 그러면 산다.",
     Chn:"耶和华向以色列家如此说： 你们要寻求我，就必存活。",
     Eng:"This is what the LORD says to the house of Israel: \"Seek me and live;",
     Ind:"Sebab beginilah firman TUHAN kepada kaum Israel: \"Carilah Aku, maka kamu akan hidup!"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Janganlah kamu mencari Betel, janganlah pergi ke Gilgal dan janganlah menyeberang ke Bersyeba, sebab Gilgal pasti masuk ke dalam pembuangan dan Betel akan lenyap.\""
   },
   {Bible:"Amos", Chapter:5, Verse:6, Page:1,
-    Kor:"너희는 주님을 찾아라. 그러면 산다. 그렇지 않으면, 주님께서 요셉의 집에 불같이 달려드시어 베델을 살라버리실 것이니, 그 때에는 아무도 그 불을 끄지 못할 것이다.",
+    Kor:"너희는 주를 찾아라. 그러면 산다. 그렇지 않으면, 주께서 요셉의 집에 불같이 달려드시어 베델을 살라버리실 것이니, 그 때에는 아무도 그 불을 끄지 못할 것이다.",
     Chn:"要寻求耶和华，就必存活， 免得他在约瑟家像火发出， 在伯特利焚烧，无人扑灭。",
     Eng:"Seek the LORD and live, or he will sweep through the house of Joseph like a fire; it will devour, and Bethel will have no one to quench it.",
     Ind:"Carilah TUHAN, maka kamu akan hidup, supaya jangan Ia memasuki keturunan Yusuf bagaikan api, yang memakannya habis dengan tidak ada yang memadamkan bagi Betel."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Hai kamu yang mengubah keadilan menjadi ipuh dan yang mengempaskan kebenaran ke tanah!"
   },
   {Bible:"Amos", Chapter:5, Verse:8, Page:1,
-    Kor:"묘성과 삼성을 만드신 분, 어둠을 여명으로 바꾸시며, 낮을 캄캄한 밤으로 바꾸시며, 바닷물을 불러 올려서 땅 위에 쏟으시는 그분을 찾아라. 그분의 이름 '주님'이시다.",
+    Kor:"묘성과 삼성을 만드신 분, 어둠을 여명으로 바꾸시며, 낮을 캄캄한 밤으로 바꾸시며, 바닷물을 불러 올려서 땅 위에 쏟으시는 그분을 찾아라. 그분의 이름 '주'이시다.",
     Chn:"要寻求那造昴星和参星， 使死荫变为晨光， 使白日变为黑夜， 命海水来浇在地上的— 耶和华是他的名；",
     Eng:"(he who made the Pleiades and Orion, who turns blackness into dawn and darkens day into night, who calls for the waters of the sea and pours them out over the face of the land--the LORD is his name--",
     Ind:"Dia yang telah membuat bintang kartika dan bintang belantik, yang mengubah kekelaman menjadi pagi dan yang membuat siang gelap seperti malam; Dia yang memanggil air laut dan mencurahkannya ke atas permukaan bumi--TUHAN itulah nama-Nya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dia yang menimpakan kebinasaan atas yang kuat, sehingga kebinasaan datang atas tempat yang berkubu."
   },
   {Bible:"Amos", Chapter:5, Verse:10, Page:1,
-    Kor:"사람들은 a법정에서 시비를 올바로 가리는 사람을 미워하고, 바른말 하는 사람을 싫어한다. (a 히, '성문'. 문루에 간이법정과 같은 마을 회관이 있음)",
+    Kor:"사람들은 법정에서 시비를 올바로 가리는 사람을 미워하고, 바른말 하는 사람을 싫어한다.",
     Chn:"你们怨恨那在城门口责备人的， 憎恶那说正直话的。",
     Eng:"you hate the one who reproves in court and despise him who tells the truth.",
     Ind:"Mereka benci kepada yang memberi teguran di pintu gerbang, dan mereka keji kepada yang berkata dengan tulus ikhlas."
@@ -93,19 +93,19 @@ BibleDB.add([
     Ind:"Bencilah yang jahat dan cintailah yang baik; dan tegakkanlah keadilan di pintu gerbang; mungkin TUHAN, Allah semesta alam, akan mengasihani sisa-sisa keturunan Yusuf."
   },
   {Bible:"Amos", Chapter:5, Verse:16, Page:1,
-    Kor:"그러므로, 나의 주 만군의 하나님, 주님께서 이렇게 말씀하신다. \"광장마다 통곡 소리가 들리고, 거리마다 '아이고, 아이고' 하며 우는 소리가 들릴 것이다. 사람들은 농부들을 불러다가 울게 하고, 울음꾼을 불러다가 곡을 하게 할 것이다.",
+    Kor:"그러므로, 나의 주 만군의 하나님, 주께서 이렇게 말씀하신다. \"광장마다 통곡 소리가 들리고, 거리마다 '아이고, 아이고' 하며 우는 소리가 들릴 것이다. 사람들은 농부들을 불러다가 울게 하고, 울음꾼을 불러다가 곡을 하게 할 것이다.",
     Chn:"主耶和华—万军之　神如此说： 在一切宽阔处必有哀号的声音； 在各街市上必有人说： 哀哉！哀哉！ 又必叫农夫来哭号， 叫善唱哀歌的来举哀。",
     Eng:"Therefore this is what the Lord, the LORD God Almighty, says: \"There will be wailing in all the streets and cries of anguish in every public square. The farmers will be summoned to weep and the mourners to wail.",
     Ind:"Sesungguhnya, beginilah firman TUHAN, Allah semesta alam, Tuhanku: \"Di segala tanah lapang akan ada ratapan dan di segala lorong orang akan berkata: Wahai! Wahai! Petani dipanggil untuk berkabung dan orang-orang yang pandai meratap untuk mengadakan ratapan."
   },
   {Bible:"Amos", Chapter:5, Verse:17, Page:1,
-    Kor:"포도원마다 통곡 소리가 진동할 것이다. 내가 너희 가운데로 지나가는 날, 이 모든 일이 일어날 것이다.\" 주님께서 말씀하신다.",
+    Kor:"포도원마다 통곡 소리가 진동할 것이다. 내가 너희 가운데로 지나가는 날, 이 모든 일이 일어날 것이다.\" 주께서 말씀하신다.",
     Chn:"在各葡萄园必有哀号的声音， 因为我必从你中间经过。 这是耶和华说的。",
     Eng:"There will be wailing in all the vineyards, for I will pass through your midst,\" says the LORD.",
     Ind:"Dan di segala kebun anggur akan ada ratapan, apabila Aku berjalan dari tengah-tengahmu,\" firman TUHAN."
   },
   {Bible:"Amos", Chapter:5, Verse:18, Page:1,
-    Kor:"너희는 망한다! 주님의 날이 오기를 바라는 자들아, 왜 주님의 날을 사모하느냐? 그 날은 어둡고 빛이라고는 없다.",
+    Kor:"너희는 망한다! 주의 날이 오기를 바라는 자들아, 왜 주의 날을 사모하느냐? 그 날은 어둡고 빛이라고는 없다.",
     Chn:"想望耶和华日子来到的有祸了！ 你们为何想望耶和华的日子呢？ 那日黑暗没有光明，",
     Eng:"Woe to you who long for the day of the LORD! Why do you long for the day of the LORD? That day will be darkness, not light.",
     Ind:"Celakalah mereka yang menginginkan hari TUHAN! Apakah gunanya hari TUHAN itu bagimu? Hari itu kegelapan, bukan terang!"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Seperti seseorang yang lari terhadap singa, seekor beruang mendatangi dia, dan ketika ia sampai ke rumah, bertopang dengan tangannya ke dinding, seekor ular memagut dia!"
   },
   {Bible:"Amos", Chapter:5, Verse:20, Page:1,
-    Kor:"주님의 날은 어둡고 빛이라고는 없다. 캄캄해서, 한 줄기 불빛도 없다.",
+    Kor:"주의 날은 어둡고 빛이라고는 없다. 캄캄해서, 한 줄기 불빛도 없다.",
     Chn:"耶和华的日子不是黑暗没有光明吗？ 不是幽暗毫无光辉吗？",
     Eng:"Will not the day of the LORD be darkness, not light--pitch-dark, without a ray of brightness?",
     Ind:"Bukankah hari TUHAN itu kegelapan dan bukan terang, kelam kabut dan tidak bercahaya?"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Kamu akan mengangkut Sakut, rajamu, dan Kewan, dewa bintangmu, patung-patungmu yang telah kamu buat bagimu itu,"
   },
   {Bible:"Amos", Chapter:5, Verse:27, Page:1,
-    Kor:"그러므로 내가 너희를 다마스쿠스 저 너머로 사로잡혀 가게 하겠다.\" 주님께서 말씀하신다. 그분의 이름은 만군의 하나님이시다.",
+    Kor:"그러므로 내가 너희를 다마스쿠스 저 너머로 사로잡혀 가게 하겠다.\" 주께서 말씀하신다. 그분의 이름은 만군의 하나님이다.",
     Chn:"所以我要把你们掳到大马士革以外。」这是耶和华、名为万军之　神说的。",
     Eng:"Therefore I will send you into exile beyond Damascus,\" says the LORD, whose name is God Almighty.",
     Ind:"dan Aku akan membawa kamu ke dalam pembuangan jauh ke seberang Damsyik,\" firman TUHAN, yang nama-Nya Allah semesta alam."

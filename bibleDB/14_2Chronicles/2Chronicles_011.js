@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",11,23);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:11, Verse:1, Page:1,
-    Kor:"<스마야의 예언(왕상 12:21-24)> 르호보암이 예루살렘에 이르러, 유다와 베냐민 가문에 동원령을 내려서 정병 십팔만 명을 소집하였다. 그는 이스라엘과 싸워서, 왕국을 다시 르호보암에게 돌리려고 하였다.",
+    Kor:"르호보암이 예루살렘에 이르러, 유다와 베냐민 가문에 동원령을 내려서 정병 십팔만 명을 소집하였다. 그는 이스라엘과 싸워서, 왕국을 다시 르호보암에게 돌리려고 하였다.",
     Chn:"罗波安来到耶路撒冷，招聚犹大家和便雅悯家，共十八万人，都是挑选的战士，要与以色列人争战，好将国夺回再归自己。",
     Eng:"When Rehoboam arrived in Jerusalem, he mustered the house of Judah and Benjamin--a hundred and eighty thousand fighting men--to make war against Israel and to regain the kingdom for Rehoboam.",
     Ind:"Ketika Rehabeam datang ke Yerusalem, ia mengumpulkan kaum Yehuda dan Benyamin, seratus delapan puluh ribu teruna yang sanggup berperang untuk memerangi orang Israel dengan maksud mengembalikan kerajaan itu kepadanya."
   },
   {Bible:"2Chronicles", Chapter:11, Verse:2, Page:1,
-    Kor:"○그러나 그 때에, 주님께서 하나님의 사람 스마야에게 말씀하셨다.",
+    Kor:"○그러나 그 때에, 주께서 하나님의 사람 스마야에게 말씀하셨다.",
     Chn:"但耶和华的话临到神人示玛雅说：",
     Eng:"But this word of the LORD came to Shemaiah the man of God:",
     Ind:"Tetapi datanglah firman TUHAN kepada Semaya, abdi Allah, demikian:"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"\"Katakanlah kepada Rehabeam, anak Salomo, raja Yehuda, dan kepada segenap orang Israel di Yehuda dan di Benyamin, demikian:"
   },
   {Bible:"2Chronicles", Chapter:11, Verse:4, Page:1,
-    Kor:"'나 주가 말한다. 일이 이렇게 된 것은 내가 시킨 것이다. 너희는 올라가지 말아라. 너희의 동족과 싸우지 말고 각자 집으로 돌아가거라.'\" 그들은 이러한 주님의 말씀을 듣고, 여로보암을 치러가던 길을 멈추고, 돌아섰다.",
+    Kor:"'나 주가 말한다. 일이 이렇게 된 것은 내가 시킨 것이다. 너희는 올라가지 말아라. 너희의 동족과 싸우지 말고 각자 집으로 돌아가거라.'\" 그들은 이러한 주의 말씀을 듣고, 여로보암을 치러가던 길을 멈추고, 돌아섰다.",
     Chn:"耶和华如此说：『你们不可上去与你们的弟兄争战，各归各家去吧！因为这事出于我。』」众人就听从耶和华的话归回，不去与耶罗波安争战。",
     Eng:"'This is what the LORD says: Do not go up to fight against your brothers. Go home, every one of you, for this is my doing.'\" So they obeyed the words of the LORD and turned back from marching against Jeroboam.",
     Ind:"Beginilah firman TUHAN: Janganlah kamu maju dan janganlah kamu berperang melawan saudara-saudaramu. Pulanglah masing-masing ke rumahnya, sebab Akulah yang menyebabkan hal ini terjadi.\" Maka mereka mendengarkan firman TUHAN dan pulang dengan tidak pergi menyerang Yerobeam."
   },
   {Bible:"2Chronicles", Chapter:11, Verse:5, Page:1,
-    Kor:"<르호보암이 요새를 만들다> ○르호보암은 예루살렘에 자리잡고 살면서, 유다 지방의 성읍들을 요새로 만들었다.",
+    Kor:"○르호보암은 예루살렘에 자리잡고 살면서, 유다 지방의 성읍들을 요새로 만들었다.",
     Chn:"罗波安住在耶路撒冷，在犹大地修筑城邑，",
     Eng:"Rehoboam lived in Jerusalem and built up towns for defense in Judah:",
     Ind:"Rehabeam diam di Yerusalem dan memperkuat kota-kota kubu di Yehuda."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"perisai dan tombakpun disediakan di tiap-tiap kota. Ia membuat kota-kota itu amat kokoh. Demikianlah Yehuda dan Benyamin menjadi daerah kekuasaannya."
   },
   {Bible:"2Chronicles", Chapter:11, Verse:13, Page:1,
-    Kor:"<제사장들과 레위인들이 유다로 오다> ○이스라엘 전국에 있던 제사장들과 레위 사람들이 모두 자기들이 살던 지역을 떠나, 르호보암에게로 왔다.",
+    Kor:"○이스라엘 전국에 있던 제사장들과 레위 사람들이 모두 자기들이 살던 지역을 떠나, 르호보암에게로 왔다.",
     Chn:"以色列全地的祭司和利未人都从四方来归罗波安。",
     Eng:"The priests and Levites from all their districts throughout Israel sided with him.",
     Ind:"Para imam dan orang Lewi di seluruh Israel datang menggabungkan diri dengan dia dari daerah-daerah kediaman mereka."
   },
   {Bible:"2Chronicles", Chapter:11, Verse:14, Page:1,
-    Kor:"레위 사람들이 목장과 소유지를 버리고 유다와 예루살렘으로 온 것은, 여로보암과 그의 아들들이 그들에게 주님을 섬기는 제사장 직분을 수행하지 못하게 하고,",
+    Kor:"레위 사람들이 목장과 소유지를 버리고 유다와 예루살렘으로 온 것은, 여로보암과 그의 아들들이 그들에게 주를 섬기는 제사장 직분을 수행하지 못하게 하고,",
     Chn:"利未人撇下他们的郊野和产业，来到犹大与耶路撒 冷，是因耶罗波安和他的儿子拒绝他们，不许他们供祭司职分事奉耶和华。",
     Eng:"The Levites even abandoned their pasturelands and property, and came to Judah and Jerusalem because Jeroboam and his sons had rejected them as priests of the LORD.",
     Ind:"Sebab orang Lewi meninggalkan tanah penggembalaan dan milik mereka, lalu pergi ke Yehuda dan Yerusalem, oleh karena Yerobeam dan anak-anaknya melarang mereka memegang jabatan imam TUHAN,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Demikianlah mereka memperkokoh kerajaan Yehuda dan memperkuat pemerintahan Rehabeam bin Salomo selama tiga tahun, karena selama tiga tahun mereka hidup mengikuti jejak Daud dan Salomo."
   },
   {Bible:"2Chronicles", Chapter:11, Verse:18, Page:1,
-    Kor:"<르호보암의 가족> ○르호보암은 마할랏을 아내로 맞이하였다. 마할랏은 아버지 여리못과 어머니 아비하일 사이에서 태어난 딸이다. 그의 아버지 여리못은 다윗의 아들이고, 그의 어머니 아비하일은 이새의 아들인 엘리압의 딸이다.",
+    Kor:"○르호보암은 마할랏을 아내로 맞이하였다. 마할랏은 아버지 여리못과 어머니 아비하일 사이에서 태어난 딸이다. 그의 아버지 여리못은 다윗의 아들이고, 그의 어머니 아비하일은 이새의 아들인 엘리압의 딸이다.",
     Chn:"罗波安娶大卫儿子耶利摩的女儿玛哈拉为妻，又娶耶西儿子以利押的女儿亚比孩为妻。",
     Eng:"Rehoboam married Mahalath, who was the daughter of David's son Jerimoth and of Abihail, the daughter of Jesse's son Eliab.",
     Ind:"Rehabeam mengambil Mahalat, anak Yerimot bin Daud dan Abihail binti Elhiab bin Isai, menjadi isterinya,"

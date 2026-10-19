@@ -3,13 +3,13 @@
 BibleDB.ref("1Samuel",23,29);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:23, Verse:1, Page:1,
-    Kor:"<다윗이 그일라 주민을 구출하다> 다윗은, 블레셋 사람이 그일라를 치고, 타작한 곡식을 마구 약탈하여 간다는 소식을 들었다.",
+    Kor:"다윗은, 블레셋 사람이 그일라를 치고, 타작한 곡식을 마구 약탈하여 간다는 소식을 들었다.",
     Chn:"有人告诉大卫说：「非利士人攻击基伊拉，抢夺禾场。」",
     Eng:"When David was told, \"Look, the Philistines are fighting against Keilah and are looting the threshing floors,\"",
     Ind:"Diberitahukanlah kepada Daud, begini: \"Ketahuilah, orang Filistin berperang melawan kota Kehila dan menjarah tempat-tempat pengirikan.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:2, Page:1,
-    Kor:"그래서 다윗은 주님께 여쭈었다. \"내가 출전하여 이 블레셋 사람을 쳐도 되겠습니까?\" 그러자 주님께서 다윗에게 허락하셨다. \"그렇게 하여라. 어서 출전하여 블레셋 족속을 치고, 그일라를 구해 주도록 하여라.\"",
+    Kor:"그래서 다윗은 주께 여쭈었다. \"내가 출전하여 이 블레셋 사람을 쳐도 되겠습니까?\" 그러자 주께서 다윗에게 허락하셨다. \"그렇게 하여라. 어서 출전하여 블레셋 족속을 치고, 그일라를 구해 주도록 하여라.\"",
     Chn:"所以大卫求问耶和华说：「我去攻打那些非利士人可以不可以？」耶和华对大卫说：「你可以去攻打非利士人，拯救基伊拉。」",
     Eng:"he inquired of the LORD, saying, \"Shall I go and attack these Philistines?\" The LORD answered him, \"Go, attack the Philistines and save Keilah.\"",
     Ind:"Lalu bertanyalah Daud kepada TUHAN: \"Apakah aku akan pergi mengalahkan orang Filistin itu?\" Jawab TUHAN kepada Daud: \"Pergilah, kalahkanlah orang Filistin itu dan selamatkanlah Kehila.\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Tetapi orang-orang Daud berkata kepadanya: \"Ingatlah, sedangkan di sini di Yehuda kita sudah dalam ketakutan, apalagi kalau kita pergi ke Kehila, melawan barisan perang orang Filistin.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:4, Page:1,
-    Kor:"다윗이 주님께 다시 여쭈어 보았다. 그런데도 주님께서는 똑같이 대답하셨다. \"너는 어서 그일라로 가거라. 내가 블레셋 족속을 너의 손에 넘겨 주겠다.\"",
+    Kor:"다윗이 주께 다시 여쭈어 보았다. 그런데도 주께서는 똑같이 대답하셨다. \"너는 어서 그일라로 가거라. 내가 블레셋 족속을 너의 손에 넘겨 주겠다.\"",
     Chn:"大卫又求问耶和华。耶和华回答说：「你起身下基伊拉去，我必将非利士人交在你手里。」",
     Eng:"Once again David inquired of the LORD, and the LORD answered him, \"Go down to Keilah, for I am going to give the Philistines into your hand.\"",
     Ind:"Lalu bertanya pulalah Daud kepada TUHAN, maka TUHAN menjawab dia, firman-Nya: \"Bersiaplah, pergilah ke Kehila, sebab Aku akan menyerahkan orang Filistin itu ke dalam tanganmu.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Kemudian pergilah Daud dengan orang-orangnya ke Kehila; ia berperang melawan orang Filistin itu, dihalaunya ternak mereka dan ditimbulkannya kekalahan besar di antara mereka. Demikianlah Daud menyelamatkan penduduk Kehila."
   },
   {Bible:"1Samuel", Chapter:23, Verse:6, Page:1,
-    Kor:"○(아히멜렉의 아들 아비아달은 그일라에 있는 다윗에게로 도망할 때에 에봇을 가지고 갔었다.)",
+    Kor:"(○아히멜렉의 아들 아비아달은 그일라에 있는 다윗에게로 도망할 때에 에봇을 가지고 갔었다.)",
     Chn:"亚希米勒的儿子亚比亚他逃到基伊拉见大卫的时候，手里拿着以弗得。",
     Eng:"(Now Abiathar son of Ahimelech had brought the ephod down with him when he fled to David at Keilah.)",
     Ind:"Ketika Abyatar bin Ahimelekh melarikan diri kepada Daud ke Kehila, ia turun dengan membawa efod di tangannya."
   },
   {Bible:"1Samuel", Chapter:23, Verse:7, Page:1,
-    Kor:"○한편 다윗이 그일라에 들어왔다는 소식이 사울에게 전해지니, 사울이 외쳤다. \"이제는 하나님이 그 자를 나의 손에 넘겨 주셨다. 성문과 빗장이 있는 성읍으로 들어갔으니, 독 안에 든 쥐다.\"",
+    Kor:"○한편 다윗이 그일라에 들어왔다는 소식이 사울에게 전해지니, 사울이 외쳤다. \"이제는 하나님이 그를 나의 손에 넘겨 주셨다. 성문과 빗장이 있는 성읍으로 들어갔으니, 독 안에 든 쥐가 되었다.\"",
     Chn:"有人告诉扫罗说：「大卫到了基伊拉。」扫罗说：「他进了有门有闩的城，困闭在里头；这是　神将他交在我手里了。」",
     Eng:"Saul was told that David had gone to Keilah, and he said, \"God has handed him over to me, for David has imprisoned himself by entering a town with gates and bars.\"",
     Ind:"Kepada Saul diberitahukan, bahwa Daud telah masuk Kehila. Lalu berkatalah Saul: \"Allah telah menyerahkan dia ke dalam tanganku, sebab dengan masuk ke dalam kota yang berpintu dan berpalang ia telah mengurung dirinya.\""
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Berkatalah Daud: \"TUHAN, Allah Israel, hamba-Mu ini telah mendengar kabar pasti, bahwa Saul berikhtiar untuk datang ke Kehila dan memusnahkan kota ini oleh karena aku."
   },
   {Bible:"1Samuel", Chapter:23, Verse:11, Page:1,
-    Kor:"a그일라 주민이 나를 사울의 손에 넘겨 주겠습니까? 이 종이 들은 소문 그대로 사울이 내려오겠습니까? 주 이스라엘의 하나님, 이 종에게 대답하여 주십시오.\" 주님께서 대답하셨다. \"그가 내려올 것이다.\"(a 여기 나오는 첫 질문이 사해 사본에는 없음)",
+    Kor:"그일라 주민이 나를 사울의 손에 넘겨 주겠습니까? 이 종이 들은 소문 그대로 사울이 내려오겠습니까? 주 이스라엘의 하나님, 이 종에게 대답하여 주십시오.\" 주께서 대답하셨다. \"그가 내려올 것이다.\"",
     Chn:"基伊拉人将我交在扫罗手里不交？扫罗照着你仆人所听的话下来不下来？耶和华—以色列的　神啊，求你指示仆人！」耶和华说：「扫罗必下来。」",
     Eng:"Will the citizens of Keilah surrender me to him? Will Saul come down, as your servant has heard? O LORD, God of Israel, tell your servant.\" And the LORD said, \"He will.\"",
     Ind:"Akan diserahkan oleh warga-warga kota Kehila itukah aku ke dalam tangannya? Akan datangkah Saul seperti yang telah didengar oleh hamba-Mu ini? TUHAN, Allah Israel, beritahukanlah kiranya kepada hamba-Mu ini.\" Jawab TUHAN: \"Ia akan datang.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:12, Page:1,
-    Kor:"다윗이 다시 한 번 여쭈었다. \"그일라 주민이 정말로 나를 나의 부하들과 함께 사울의 손에 넘겨 주겠습니까?\" 주님께서 대답하셨다. \"넘겨 줄 것이다.\"",
+    Kor:"다윗이 다시 한 번 여쭈었다. \"그일라 주민이 정말로 나를 나의 부하들과 함께 사울의 손에 넘겨 주겠습니까?\" 주께서 대답하셨다. \"넘겨 줄 것이다.\"",
     Chn:"大卫又说：「基伊拉人将我和跟随我的人交在扫罗手里不交？」耶和华说：「必交出来。」",
     Eng:"Again David asked, \"Will the citizens of Keilah surrender me and my men to Saul?\" And the LORD said, \"They will.\"",
     Ind:"Kemudian bertanyalah Daud: \"Akan diserahkan oleh warga-warga kota Kehila itukah aku dengan orang-orangku ke dalam tangan Saul?\" Firman TUHAN: \"Akan mereka serahkan.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Lalu bersiaplah Daud dan orang-orangnya, kira-kira enam ratus orang banyaknya, mereka keluar dari Kehila dan pergi ke mana saja mereka dapat pergi. Apabila kepada Saul diberitahukan, bahwa Daud telah meluputkan diri dari Kehila, maka tidak jadilah ia maju berperang."
   },
   {Bible:"1Samuel", Chapter:23, Verse:14, Page:1,
-    Kor:"<다윗이 산성으로 피하다> ○그리하여 다윗은 광야의 산성을 찾아다니며 숨어서 살았다. 그는 바로 십 광야의 산간지역에서 살았다. 그 동안 사울은 날마다 다윗을 찾았지만, b하나님이 다윗을 사울의 손에 넘겨 주지 않으셨다.",
+    Kor:"○그리하여 다윗은 광야의 산성을 찾아다니며 숨어서 살았다. 그는 바로 십 광야의 산간지역에서 살았다. 그 동안 사울은 날마다 다윗을 찾았지만, 하나님이 다윗을 사울의 손에 넘겨 주지 않으셨다.",
     Chn:"大卫住在旷野的山寨里，常在西弗旷野的山地。扫罗天天寻索大卫，　神却不将大卫交在他手里。",
     Eng:"David stayed in the desert strongholds and in the hills of the Desert of Ziph. Day after day Saul searched for him, but God did not give David into his hands.",
     Ind:"Maka Daud tinggal di padang gurun, di tempat-tempat perlindungan. Ia tinggal di pegunungan, di padang gurun Zif. Dan selama waktu itu Saul mencari dia, tetapi Allah tidak menyerahkan dia ke dalam tangannya."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Daud takut, karena Saul telah keluar dengan maksud mencabut nyawanya. Ketika Daud ada di padang gurun Zif di Koresa,"
   },
   {Bible:"1Samuel", Chapter:23, Verse:16, Page:1,
-    Kor:"사울의 아들 요나단이 호레스로 다윗을 찾아와서, b하나님을 굳게 의지하도록 격려하였다.(b 사해 사본과 칠십인역에는 '주님')",
+    Kor:"사울의 아들 요나단이 호레스로 다윗을 찾아와서, 하나님을 굳게 의지하도록 격려하였다.",
     Chn:"扫罗的儿子约拿单起身，往那树林里去见大卫，使他倚靠　神得以坚固，",
     Eng:"And Saul's son Jonathan went to David at Horesh and helped him find strength in God.",
     Ind:"maka bersiaplah Yonatan, anak Saul, lalu pergi kepada Daud di Koresa. Ia menguatkan kepercayaan Daud kepada Allah"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"dan berkata kepadanya: \"Janganlah takut, sebab tangan ayahku Saul tidak akan menangkap engkau; engkau akan menjadi raja atas Israel, dan aku akan menjadi orang kedua di bawahmu. Juga ayahku Saul telah mengetahui yang demikian itu.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:18, Page:1,
-    Kor:"이리하여 이 두 사람은 다시 주님 앞에서 우정의 언약을 맺었다. 그리고 다윗은 계속 호레스에 머물렀으나, 요나단은 다시 집으로 돌아갔다.",
+    Kor:"이리하여 이 두 사람은 다시 주 앞에서 우정의 언약을 맺었다. 그리고 다윗은 계속 호레스에 머물렀으나, 요나단은 다시 집으로 돌아갔다.",
     Chn:"于是二人在耶和华面前立约。大卫仍住在树林里，约拿单回家去了。",
     Eng:"The two of them made a covenant before the LORD. Then Jonathan went home, but David remained at Horesh.",
     Ind:"Kemudian kedua orang itu mengikat perjanjian di hadapan TUHAN. Dan Daud tinggal di Koresa, tetapi Yonatan pulang ke rumahnya."
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Oleh sebab itu, jika tuanku raja berkenan datang, silakanlah datang; tanggungan kamilah untuk menyerahkan dia ke dalam tangan raja.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:21, Page:1,
-    Kor:"사울이 말하였다. \"당신들이 나를 생각하여 그토록 정성을 보였으니, 주님이 주시는 복을 받기를 바라오.",
+    Kor:"사울이 말하였다. \"너희가 나를 생각하여 그토록 정성을 보였으니, 주의 복을 받기를 원한다.",
     Chn:"扫罗说：「愿耶和华赐福与你们，因你们顾恤我。",
     Eng:"Saul replied, \"The LORD bless you for your concern for me.",
     Ind:"Berkatalah Saul: \"Diberkatilah kiranya kamu oleh TUHAN, karena kamu menunjukkan sayangmu kepadaku."
   },
   {Bible:"1Samuel", Chapter:23, Verse:22, Page:1,
-    Kor:"당신들은 가서 빈틈없이 준비하시오. 그 자가 도망다니는 곳이 어디이며, 누가 어디서 그 자를 보았는지, 자세히 알아보시오. 내가 듣는 바로는, 그는 매우 교활하오.",
+    Kor:"너희는 가서 빈틈없이 준비하여라. 그가 도망다니는 곳이 어디이며, 누가 어디서 그를 보았는지, 자세히 알아보아라. 내가 듣는 바로는, 그는 매우 교활하다.",
     Chn:"请你们回去，再确实查明他的住处和行踪，是谁看见他在那里，因为我听见人说他甚狡猾。",
     Eng:"Go and make further preparation. Find out where David usually goes and who has seen him there. They tell me he is very crafty.",
     Ind:"Baiklah pergi, carilah kepastian lagi, berusahalah mengetahui di mana ia berada dan siapa yang telah melihat dia di sana; sebab telah dikatakan orang kepadaku, bahwa ia sangat cerdik."
   },
   {Bible:"1Samuel", Chapter:23, Verse:23, Page:1,
-    Kor:"당신들은 그가 숨을 만한 모든 은신처를 자세히 살펴본 다음에, 틀림없는 정보를 가지고 나를 찾아오시오. 그러면 내가 당신들과 함께 가겠소. 그가 이 나라 안에 있기만 하면, 내가 유다의 마을들을 남김없이 다 뒤져서라도 그를 찾아내고야 말겠소.\"",
+    Kor:"너희는 그가 숨을 만한 모든 은신처를 자세히 살펴본 다음에, 틀림없는 정보를 가지고 나를 찾아오너라. 그러면 내가 너희와 함께 가겠다. 그가 이 나라 안에 있기만 하면, 내가 유다의 마을들을 남김없이 다 뒤져서라도 그를 찾아내고야 말겠다.\"",
     Chn:"所以要看准他藏匿的地方，回来据实地告诉我，我就与你们同去。他若在犹大的境内，我必从千门万户中搜出他来。」",
     Eng:"Find out about all the hiding places he uses and come back to me with definite information. Then I will go with you; if he is in the area, I will track him down among all the clans of Judah.\"",
     Ind:"Berusahalah mengetahui segala tempat persembunyiannya. Kemudian datanglah kembali kepadaku dengan kabar yang pasti; dan aku akan pergi bersama-sama dengan kamu. Sesungguhnya, jika ia ada di dalam negeri, maka aku akan meneliti dia di antara segala ribuan orang Yehuda.\""
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"ketika seorang suruhan datang kepada Saul dengan pesan: \"Segeralah undur, sebab orang Filistin telah menyerbu negeri.\""
   },
   {Bible:"1Samuel", Chapter:23, Verse:28, Page:1,
-    Kor:"사울은 다윗을 추격하다 말고 돌아가서, 블레셋 족속을 맞아 싸우러 나갔다. 그리하여 그 곳 이름을 c셀라하마느곳이라고 부른다.(c '도피의 바위' 또는 '분리의 바위')",
+    Kor:"사울은 다윗을 추격하다 말고 돌아가서, 블레셋 족속을 맞아 싸우러 나갔다. 그리하여, 그 곳 이름을 셀라하마느곳이라고 부른다.",
     Chn:"于是扫罗不追赶大卫，回去攻打非利士人。因此那地方名叫西拉·哈玛希罗结。",
     Eng:"Then Saul broke off his pursuit of David and went to meet the Philistines. That is why they call this place Sela Hammahlekoth.",
     Ind:"Maka berhentilah Saul mengejar Daud dan pergi menghadapi orang Filistin. Itulah sebabnya orang menyebut tempat itu: Gunung Batu Keluputan."
   },
   {Bible:"1Samuel", Chapter:23, Verse:29, Page:1,
-    Kor:"<다윗이 사울을 살려 주다> ○d다윗은 엔게디 산성에 올라가 거기에 머물러 있었다.(d 히브리어 본문에서는 여기에서 24장이 시작됨)",
+    Kor:"○다윗은 엔게디 산성에 올라가 거기에 머물러 있었다.",
     Chn:"大卫从那里上去，住在隐·基底的山寨里。",
     Eng:"And David went up from there and lived in the strongholds of En Gedi.",
     Ind:"(24-1) Daud pergi dari sana, lalu tinggal di kubu-kubu gunung di En-Gedi."

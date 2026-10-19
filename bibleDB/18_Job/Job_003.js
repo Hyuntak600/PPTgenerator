@@ -3,7 +3,7 @@
 BibleDB.ref("Job",3,26);
 BibleDB.add([
   {Bible:"Job", Chapter:3, Verse:1, Page:1,
-    Kor:"<욥이 하나님께 불평하다> 드디어 욥이 말문을 열고, 자기 생일을 저주하면서",
+    Kor:"드디어 욥이 말문을 열고, 자기 생일을 저주하면서",
     Chn:"此后，约伯开口咒诅自己的生日，",
     Eng:"After this, Job opened his mouth and cursed the day of his birth.",
     Ind:"Sesudah itu Ayub membuka mulutnya dan mengutuki hari kelahirannya."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"\"Biarlah hilang lenyap hari kelahiranku dan malam yang mengatakan: Seorang anak laki-laki telah ada dalam kandungan."
   },
   {Bible:"Job", Chapter:3, Verse:4, Page:1,
-    Kor:"그 날이 어둠에 덮여서, 높은 곳에 계신 하나님께서도 그 날을 기억하지 못하셨더라면, 아예 그 날이 밝지도 않았더라면,",
+    Kor:"그 날이 어둠에 덮여서, 높은 곳에 계신 하나님께서도 그 날을 기억하지 못하셨더라면, 아예, 그 날이 밝지도 않았더라면,",
     Chn:"愿那日变为黑暗； 愿　神不从上面寻找它； 愿亮光不照于其上。",
     Eng:"That day--may it turn to darkness; may God above not care about it; may no light shine upon it.",
     Ind:"Biarlah hari itu menjadi kegelapan, janganlah kiranya Allah yang di atas menghiraukannya, dan janganlah cahaya terang menyinarinya."
   },
   {Bible:"Job", Chapter:3, Verse:5, Page:1,
-    Kor:"어둠과 a사망의 그늘이 그 날을 제 것이라 하여, 검은 구름이 그 날을 덮었더라면, 낮을 어둠으로 덮어서, 그 날을 공포 속에 몰아넣었더라면, (a 또는 '깊은 흑암')",
+    Kor:"어둠과 사망의 그늘이 그 날을 제 것이라 하여, 검은 구름이 그 날을 덮었더라면, 낮을 어둠으로 덮어서, 그 날을 공포 속에 몰아넣었더라면,",
     Chn:"愿黑暗和死荫索取那日； 愿密云停在其上； 愿日蚀恐吓它。",
     Eng:"May darkness and deep shadow claim it once more; may a cloud settle over it; may blackness overwhelm its light.",
     Ind:"Biarlah kegelapan dan kekelaman menuntut hari itu, awan-gemawan menudunginya, dan gerhana matahari mengejutkannya."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Ya, biarlah pada malam itu tidak ada yang melahirkan, dan tidak terdengar suara kegirangan."
   },
   {Bible:"Job", Chapter:3, Verse:8, Page:1,
-    Kor:"주문을 외워서 b바다를 저주하는 자들이, c리워야단도 길들일 수 있는 마력을 가진 자들이, 그 날을 저주하였더라면, (b 또는 '날을 저주하는 자가' c 악어처럼 생긴 바다 괴물)",
+    Kor:"주문을 외워서 바다를 저주하는 자들이, 리워야단도 길들일 수 있는 마력을 가진 자들이, 그 날을 저주하였더라면,",
     Chn:"愿那咒诅日子且能惹动鳄鱼的 咒诅那夜。",
     Eng:"May those who curse days curse that day, those who are ready to rouse Leviathan.",
     Ind:"Biarlah ia disumpahi oleh para pengutuk hari, oleh mereka yang pandai membangkitkan marah Lewiatan."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Mengapa terang diberikan kepada yang bersusah-susah, dan hidup kepada yang pedih hati;"
   },
   {Bible:"Job", Chapter:3, Verse:21, Page:1,
-    Kor:"이런 사람들은 죽기를 기다려도 죽음이 찾아와 주지 않는다. 그들은 보물을 찾기보다는 죽기를 더 바라다가",
+    Kor:"이런 사람들은 죽기를 기다려도, 죽음이 찾아와 주지 않는다. 그들은 보물을 찾기보다는 죽기를 더 바라다가",
     Chn:"他们切望死，却不得死； 求死，胜于求隐藏的珍宝。",
     Eng:"to those who long for death that does not come, who search for it more than for hidden treasure,",
     Ind:"yang menantikan maut, yang tak kunjung tiba, yang mengejarnya lebih dari pada menggali harta terpendam;"

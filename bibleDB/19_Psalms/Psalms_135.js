@@ -3,14 +3,14 @@
 BibleDB.ref("Psalms",135,21);
 BibleDB.add([
   {Bible:"Psalms", Chapter:135, Verse:1, Page:1,
-    Kor:"<주님의 자비를 찬양함> a할렐루야. 주님의 이름을 찬송하여라. 주님의 종들아, 찬송하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 주의 이름을 찬송하여라. 주의 종들아, 찬송하여라.",
     Chn:"你们要赞美耶和华！ 你们要赞美耶和华的名！ 耶和华的仆人站在耶和华殿中； 站在我们　神殿院中的，你们要赞美他！",
     Eng:"Praise the LORD. Praise the name of the LORD; praise him, you servants of the LORD,",
     Ind:"Haleluya! Pujilah nama TUHAN, pujilah, hai hamba-hamba TUHAN,",
     ChnVerseEnd:2
   },
   {Bible:"Psalms", Chapter:135, Verse:2, Page:1,
-    Kor:"주님의 집 안에, 우리 하나님의 집 뜰 안에 서 있는 사람들아,",
+    Kor:"주의 집 안에, 우리 하나님의 집 뜰 안에 서 있는 사람들아,",
     Chn:"",
     Eng:"you who minister in the house of the LORD, in the courts of the house of our God.",
     Ind:"hai orang-orang yang datang melayani di rumah TUHAN, di pelataran rumah Allah kita!"
@@ -22,7 +22,7 @@ BibleDB.add([
     Ind:"Pujilah TUHAN, sebab TUHAN itu baik, bermazmurlah bagi nama-Nya, sebab nama itu indah!"
   },
   {Bible:"Psalms", Chapter:135, Verse:4, Page:1,
-    Kor:"주님께서는 야곱을 당신의 것으로 택하시며, 이스라엘을 가장 소중한 보물로 택하셨다.",
+    Kor:"주께서는 야곱을 당신의 것으로 택하시며, 이스라엘을 가장 소중한 보물로 택하셨다.",
     Chn:"耶和华拣选雅各归自己， 拣选以色列特作自己的子民。",
     Eng:"For the LORD has chosen Jacob to be his own, Israel to be his treasured possession.",
     Ind:"Sebab TUHAN telah memilih Yakub bagi-Nya, Israel menjadi milik kesayangan-Nya."
@@ -52,43 +52,43 @@ BibleDB.add([
     Ind:"Dialah yang memukul mati anak-anak sulung Mesir, baik manusia maupun hewan,"
   },
   {Bible:"Psalms", Chapter:135, Verse:9, Page:1,
-    Kor:"이집트야, 주님께서 표적과 기사를 너희에게 나타내셨다. 바로의 모든 신하에게 나타내 보이셨다.",
+    Kor:"이집트야, 주께서 표적과 기사를 너희에게 나타내셨다. 바로의 모든 신하에게 나타내 보이셨다.",
     Chn:"埃及啊，他施行神迹奇事， 在你当中，在法老和他一切臣仆身上。",
     Eng:"He sent his signs and wonders into your midst, O Egypt, against Pharaoh and all his servants.",
     Ind:"dan mendatangkan tanda-tanda dan mujizat-mujizat ke tengah-tengahmu, hai Mesir, menentang Firaun dan menentang semua pegawainya."
   },
   {Bible:"Psalms", Chapter:135, Verse:10, Page:1,
-    Kor:"주님께서 많은 나라를 치시고 힘이 있는 왕들을 죽이셨으니,",
+    Kor:"주께서 많은 나라를 치시고 힘이 있는 왕들을 죽이셨으니,",
     Chn:"他击杀许多的民， 又杀戮大能的王，",
     Eng:"He struck down many nations and killed mighty kings--",
     Ind:"Dialah yang memukul kalah banyak bangsa, dan membunuh raja-raja yang kuat:"
   },
   {Bible:"Psalms", Chapter:135, Verse:11, Page:1,
-    Kor:"아모리 왕 시혼, 바산 왕 옥, 가나안의 모든 왕들을 죽이셨다.",
+    Kor:"아모리 왕 시혼, 바산 왕 옥, 가나안의 모든 왕이 그들이다.",
     Chn:"就是亚摩利王西宏和巴珊王噩， 并迦南一切的国王，",
     Eng:"Sihon king of the Amorites, Og king of Bashan and all the kings of Canaan--",
     Ind:"Sihon, raja orang Amori, dan Og, raja negeri Basan, dan segala kerajaan Kanaan,"
   },
   {Bible:"Psalms", Chapter:135, Verse:12, Page:1,
-    Kor:"주님께서 땅을 당신의 백성에게 유산으로 주셨으니, 당신의 백성 이스라엘에게 그 땅을 주셨다.",
+    Kor:"주께서 땅을 당신의 백성에게 유산으로 주셨으니, 당신의 백성 이스라엘에게 그 땅을 주셨다.",
     Chn:"将他们的地赏赐他的百姓以色列为业。",
     Eng:"and he gave their land as an inheritance, an inheritance to his people Israel.",
     Ind:"dan memberikan tanah mereka sebagai milik pusaka, milik pusaka kepada Israel, umat-Nya."
   },
   {Bible:"Psalms", Chapter:135, Verse:13, Page:1,
-    Kor:"주님, 주님의 이름이 영원히 빛날 것입니다. 주님, 주님을 기념하는 일이 대대로 계속될 것입니다.",
+    Kor:"주님, 주의 이름이 영원히 빛날 것입니다. 주님, 주님을 기념하는 일이 대대로 계속될 것입니다.",
     Chn:"耶和华啊，你的名存到永远！ 耶和华啊，你可记念的名存到万代！",
     Eng:"Your name, O LORD, endures forever, your renown, O LORD, through all generations.",
     Ind:"Ya TUHAN, nama-Mu adalah untuk selama-lamanya; ya TUHAN, Engkau diingat turun-temurun."
   },
   {Bible:"Psalms", Chapter:135, Verse:14, Page:1,
-    Kor:"주님께서 당신의 백성을 변호해 주시고, 당신의 종들을 위로하여 주신다.",
+    Kor:"주께서 당신의 백성을 변호해 주시고, 당신의 종들을 위로하여 주신다.",
     Chn:"耶和华要为他的百姓伸冤， 为他的仆人后悔。",
     Eng:"For the LORD will vindicate his people and have compassion on his servants.",
     Ind:"Sebab TUHAN akan memberi keadilan kepada umat-Nya, dan akan sayang kepada hamba-hamba-Nya."
   },
   {Bible:"Psalms", Chapter:135, Verse:15, Page:1,
-    Kor:"이방 나라의 우상들은 은덩이나 금덩이일 뿐, 사람이 손으로 만든 것이므로,",
+    Kor:"다른 나라의 우상들은 은과 금으로, 사람이 손으로 만든 것이므로,",
     Chn:"外邦的偶像是金的，银的， 是人手所造的；",
     Eng:"The idols of the nations are silver and gold, made by the hands of men.",
     Ind:"Berhala bangsa-bangsa adalah perak dan emas, buatan tangan manusia,"
@@ -124,7 +124,7 @@ BibleDB.add([
     Ind:"Hai kaum Lewi, pujilah TUHAN! Hai orang-orang yang takut akan TUHAN, pujilah TUHAN!"
   },
   {Bible:"Psalms", Chapter:135, Verse:21, Page:1,
-    Kor:"예루살렘에 계시는 주님, 시온에서 드리는 찬송을 받아 주십시오. a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"예루살렘에 계시는 주님, 시온에서 드리는 찬송을 받아 주십시오. 할렐루야.",
     Chn:"住在耶路撒冷的耶和华 该从锡安受称颂。 你们要赞美耶和华！",
     Eng:"Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD.",
     Ind:"Terpujilah TUHAN dari Sion, Dia yang diam di Yerusalem! Haleluya!"

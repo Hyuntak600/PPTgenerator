@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",30,33);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:30, Verse:1, Page:1,
-    Kor:"<이집트와 맺은 쓸모 없는 조약> 주님께서 말씀하신다. \"거역하는 자식들아, 너희에게 화가 닥칠 것이다. 너희가 계획을 추진하지만, 그것들은 나에게서 나온 것이 아니며, 동맹을 맺지만, 나의 뜻을 따라 한 것이 아니다. 죄에 죄를 더할 뿐이다.",
+    Kor:"주께서 말씀하신다. \"거역하는 자식들아, 너희에게 화가 닥칠 것이다. 너희가 계획을 추진하지만, 그것들은 나에게서 나온 것이 아니며, 동맹을 맺지만, 나의 뜻을 따라 한 것이 아니다. 죄에 죄를 더할 뿐이다.",
     Chn:"耶和华说： 祸哉！这悖逆的儿女。 他们同谋，却不由于我， 结盟，却不由于我的灵， 以致罪上加罪；",
     Eng:"\"Woe to the obstinate children,\" declares the LORD, \"to those who carry out plans that are not mine, forming an alliance, but not by my Spirit, heaping sin upon sin;",
     Ind:"Celakalah anak-anak pemberontak, demikianlah firman TUHAN, yang melaksanakan suatu rancangan yang bukan dari pada-Ku, yang memasuki suatu persekutuan, yang bukan oleh dorongan Roh-Ku, sehingga dosa mereka bertambah-tambah,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"sekaliannya akan mendapat malu karena bangsa itu tidak dapat memberi faedah kepada mereka, dan tidak dapat memberi pertolongan atau faedah; melainkan hanya memalukan, bahkan mengaibkan mereka."
   },
   {Bible:"Isaiah", Chapter:30, Verse:6, Page:1,
-    Kor:"○이것은 네겝의 들짐승들에게 내리신 경고의 말씀이다.  유다의 사절단이 나귀 등에 선물을 싣고, 낙타 등에 보물을 싣고, 거친 광야를 지나서, 이집트로 간다. 암사자와 수사자가 울부짖는 땅, 독사와 날아다니는 불뱀이 날뛰는 땅, 위험하고 곤고한 땅을 지나서, 아무런 도움도 주지 못할 백성에게 선물을 주려고 간다.",
+    Kor:"○이것은 네겝의 들짐승들에게 내리신 경고의 말씀이다. 유다의 사절단이 나귀 등에 선물을 싣고, 낙타 등에 보물을 싣고, 거친 광야를 지나서, 이집트로 간다. 암사자와 수사자가 울부짖는 땅, 독사와 날아다니는 불뱀이 날뛰는 땅, 위험하고 곤고한 땅을 지나서, 아무런 도움도 주지 못할 백성에게 선물을 주려고 간다.",
     Chn:"论南方牲畜的默示： 他们把财物驮在驴驹的脊背上， 将宝物驮在骆驼的肉鞍上， 经过艰难困苦之地， 就是公狮、母狮、蝮蛇、火焰的飞龙之地， 往那不利于他们的民那里去。",
     Eng:"An oracle concerning the animals of the Negev: Through a land of hardship and distress, of lions and lionesses, of adders and darting snakes, the envoys carry their riches on donkeys' backs, their treasures on the humps of camels, to that unprofitable natioj,",
     Ind:"Ucapan ilahi tentang binatang-binatang di Tanah Negeb. Melalui suatu negeri yang penuh kesesakan dan kesempitan, tempat singa betina dan singa jantan yang mengaum, tempat ular beludak dan ular naga terbang, mereka mengangkut harta kekayaan mereka di atas punggung keledai, dan barang-barang perbendaharaan mereka di atas ponok unta, kepada suatu bangsa yang tidak dapat memberi faedah,"
@@ -45,31 +45,31 @@ BibleDB.add([
     Ind:"yakni Mesir yang memberi pertolongan yang tak berguna dan percuma; sebab itu Aku menamainya begini: \"Rahab yang dibuat menganggur.\""
   },
   {Bible:"Isaiah", Chapter:30, Verse:8, Page:1,
-    Kor:"<복종하지 않는 백성> 이제 너는 가서, 유다 백성이 어떤 백성인지를 백성 앞에 있는 서판에 새기고, 책에 기록하여서, 오고오는 날에 영원한 증거가 되게 하여라.",
+    Kor:"이제 너는 가서, 유다 백성이 어떤 백성인지를, 백성 앞에 있는 서판에 새기고, 책에 기록하여서, 오고오는 날에 영원한 증거가 되게 하여라.",
     Chn:"现今你去， 在他们面前将这话刻在版上， 写在书上， 以便传留后世，直到永永远远。",
     Eng:"Go now, write it on a tablet for them, inscribe it on a scroll, that for the days to come it may be an everlasting witness.",
     Ind:"Maka sekarang, pergilah, tulislah itu di depan mata mereka di suatu loh, dan cantumkanlah di suatu kitab, supaya itu menjadi kesaksian untuk waktu yang kemudian, sampai selama-lamanya."
   },
   {Bible:"Isaiah", Chapter:30, Verse:9, Page:1,
-    Kor:"이 백성은 반역하는 백성이요, 거짓말을 하는 자손으로서, 주님의 율법은 전혀 들으려 하지 않는 자손이다.",
+    Kor:"이 백성은 반역하는 백성이요, 거짓말을 하는 자손으로서, 주의 율법은 전혀 들으려 하지 않는 자손이다.",
     Chn:"因为他们是悖逆的百姓、说谎的儿女， 不肯听从耶和华训诲的儿女。",
     Eng:"These are rebellious people, deceitful children, children unwilling to listen to the LORD'S instruction.",
     Ind:"Sebab mereka itu suatu bangsa pemberontak, anak-anak yang suka bohong anak-anak yang enggan mendengar akan pengajaran TUHAN;"
   },
   {Bible:"Isaiah", Chapter:30, Verse:10, Page:1,
-    Kor:"선견자들에게 이르기를 \"미리 앞일을 내다보지 말아라!\" 하며, 예언자들에게 이르기를 \"우리에게 사실을 예언하지 말아라! 우리를 격려하는 말이나 하여라! 가상현실을 예언하여라!",
+    Kor:"선견자들에게 이르기를 \"환상을 보지 말아라\" 하며, 예언자들에게 이르기를 \"옳은 것을 보이지 말아라. 부드러운 말을 하여라. 거짓된 것을 보여라.",
     Chn:"他们对先见说：不要望见不吉利的事， 对先知说：不要向我们讲正直的话； 要向我们说柔和的话， 言虚幻的事。",
     Eng:"They say to the seers, \"See no more visions!\" and to the prophets, \"Give us no more visions of what is right! Tell us pleasant things, prophesy illusions.",
     Ind:"yang mengatakan kepada para tukang tilik: \"Jangan menilik,\" dan kepada para pelihat: \"Janganlah lihat bagi kami hal-hal yang benar, tetapi katakanlah kepada kami hal-hal yang manis, lihatlah bagi kami hal-hal yang semu,"
   },
   {Bible:"Isaiah", Chapter:30, Verse:11, Page:1,
-    Kor:"그 길에서 떠나거라! 그 길에서 벗어나거라. '이스라엘의 거룩하신 분' 이야기는 우리 앞에서 제발 그쳐라\" 하고 말한다.",
+    Kor:"정도를 버려라. 바른길에서 벗어나거라. 이스라엘의 거룩하신 분의 이야기를 우리 앞에서 그쳐라\" 하고 말한다.",
     Chn:"你们要离弃正道，偏离直路， 不要在我们面前再提说以色列的圣者。",
     Eng:"Leave this way, get off this path, and stop confronting us with the Holy One of Israel!\"",
     Ind:"menyisihlah dari jalan dan ambillah jalan lain, janganlah susahi kami dengan Yang Mahakudus, Allah Israel.\""
   },
   {Bible:"Isaiah", Chapter:30, Verse:12, Page:1,
-    Kor:"그러므로 '이스라엘의 거룩하신 분'께서 이렇게 말씀하신다. \"너희가 이 말을 업신여기고, 억압과 사악한 일을 옳은 일로 여겨서, 그것에 의지하였으니,",
+    Kor:"그러므로 이스라엘의 거룩하신 분께서 이렇게 말씀하신다. \"너희가 이 말을 업신여기고, 억압과 사악한 일을 옳은일로 여겨서, 그것에 의지하였으니,",
     Chn:"所以，以色列的圣者如此说： 因为你们藐视这训诲的话， 倚赖欺压和乖僻，以此为可靠的，",
     Eng:"Therefore, this is what the Holy One of Israel says: \"Because you have rejected this message, relied on oppression and depended on deceit,",
     Ind:"Sebab itu beginilah firman Yang Mahakudus, Allah Israel: \"Oleh karena kamu menolak firman ini, dan mempercayakan diri kepada orang-orang pemeras dan yang berlaku serong dan bersandar kepadanya,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"maka sebab itu bagimu dosa ini akan seperti pecahan tembok yang mau jatuh, tersembul ke luar pada tembok yang tinggi, yang kehancurannya datang dengan tiba-tiba, dalam sekejap mata,"
   },
   {Bible:"Isaiah", Chapter:30, Verse:14, Page:1,
-    Kor:"토기장이의 항아리가 깨져서 산산조각이 나듯이, 너희가 그렇게 무너져 내릴 것이다. 아궁이에서 불을 담아 낼 조각 하나 남지 않듯이, 웅덩이에서 물을 퍼낼 조각 하나 남지 않듯이, 너희가 사라질 것이다.\"",
+    Kor:"항아리가 깨져서 산산조각이 나듯이, 너희가 그렇게 무너져 내릴 것이다. 아궁이에서 불을 담아 낼 조각 하나 남지 않듯이, 웅덩이에서 물을 퍼낼 조각 하나 남지 않듯이, 사라질 것이다.\"",
     Chn:"要被打碎，好像把窑匠的瓦器打碎， 毫不顾惜， 甚至碎块中找不到一片可用以从炉内取火， 从池中舀水。",
     Eng:"It will break in pieces like pottery, shattered so mercilessly that among its pieces not a fragment will be found for taking coals from a hearth or scooping water out of a cistern.\"",
     Ind:"seperti kehancuran tempayan tukang periuk yang diremukkan dengan tidak kenal sayang, sehingga di antara remukannya tiada terdapat satu kepingpun yang dapat dipakai untuk mengambil api dari dalam tungku atau mencedok air dari dalam bak.\""
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Seribu orang akan lari melihat ancaman satu orang, terhadap ancaman lima orang kamu akan lari, sampai kamu ditinggalkan seperti tonggak isyarat di atas puncak gunung dan seperti panji-panji di atas bukit."
   },
   {Bible:"Isaiah", Chapter:30, Verse:18, Page:1,
-    Kor:"그러나 주님께서는 너희에게 은혜를 베푸시려고 기다리시며, 너희를 불쌍히 여기시려고 일어나신다. 참으로 주님께서는 공의의 하나님이시다. 주님을 기다리는 모든 사람은 복되다.",
+    Kor:"그러나 주께서는 너희에게 은혜를 베풀려고 기다리시며, 너희를 불쌍히 여기려고 일어나신다. 참으로 주께서는 공의의 하나님이시다. 주를 기다리는 모든 사람은 복되다.",
     Chn:"耶和华必然等候，要施恩给你们； 必然兴起，好怜悯你们。 因为耶和华是公平的　神； 凡等候他的都是有福的！",
     Eng:"Yet the LORD longs to be gracious to you; he rises to show you compassion. For the LORD is a God of justice. Blessed are all who wait for him!",
     Ind:"Sebab itu TUHAN menanti-nantikan saatnya hendak menunjukkan kasih-Nya kepada kamu; sebab itu Ia bangkit hendak menyayangi kamu. Sebab TUHAN adalah Allah yang adil; berbahagialah semua orang yang menanti-nantikan Dia!"
   },
   {Bible:"Isaiah", Chapter:30, Verse:19, Page:1,
-    Kor:"<하나님께서 백성에게 복을 주실 것이다> 예루살렘에 사는 시온 백성아, 이제 너희는 울 일이 없을 것이다. 네가 살려 달라고 부르짖을 때에, 주님께서 틀림없이 은혜를 베푸실 것이니, 들으시는 대로 너에게 응답하실 것이다.",
+    Kor:"예루살렘에 사는 시온 백성아, 이제 너희는 울 일이 없을 것이다. 네가 살려 달라고 부르짖을 때에, 주께서 틀림없이 은혜를 베푸실 것이니, 들으시는 대로 너에게 응답하실 것이다.",
     Chn:"百姓必在锡安、在耶路撒冷居住；你不再哭泣。主必因你哀求的声音施恩给你；他听见的时候就必应允你。",
     Eng:"K people of Zion, who live in Jerusalem, you will weep no more. How gracious he will be when you cry for help! As soon as he hears, he will answer you.",
     Ind:"Sungguh, hai bangsa di Sion yang diam di Yerusalem, engkau tidak akan terus menangis. Tentulah Tuhan akan mengasihani engkau, apabila engkau berseru-seru; pada saat Ia mendengar teriakmu, Ia akan menjawab."
   },
   {Bible:"Isaiah", Chapter:30, Verse:20, Page:1,
-    Kor:"비록 주님께서 너희에게 환난의 빵과 고난의 물을 주셔도, 다시는 너의 스승들을 숨기지 않으실 것이니, 네가 너의 스승들을 직접 뵐 것이다.",
+    Kor:"비록 주께서 너희에게 환난의 빵과 고난의 물을 주셔도, 다시는 너의 스승들을 숨기지 않으실 것이니, 네가 너의 스승들을 직접 뵐 것이다.",
     Chn:"主虽然以艰难给你当饼，以困苦给你当水，你的教师却不再隐藏；你眼必看见你的教师。",
     Eng:"Although the Lord gives you the bread of adversity and the water of affliction, your teachers will be hidden no more; with your own eyes you will see them.",
     Ind:"Dan walaupun Tuhan memberi kamu roti dan air serba sedikit, namun Pengajarmu tidak akan menyembunyikan diri lagi, tetapi matamu akan terus melihat Dia,"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Engkau akan menganggap najis patung-patungmu yang disalut dengan perak atau yang dilapis dengan emas; engkau akan membuangnya seperti kain cemar sambil berkata kepadanya: \"Keluar!\""
   },
   {Bible:"Isaiah", Chapter:30, Verse:23, Page:1,
-    Kor:"네가 땅에 씨앗을 뿌려 놓으면, 주님께서 비를 내리실 것이니, 그 땅에서 실하고 기름진 곡식이 날 것이다. 그 때에 너의 가축은 넓게 트인 목장에서 풀을 뜯을 것이다.",
+    Kor:"네가 땅에 씨앗을 뿌려 놓으면, 주께서 비를 내리실 것이니, 그 땅에서 실하고 기름진 곡식이 날 것이다. 그 때에 너의 가축은 넓게 트인 목장에서 풀을 뜯을 것이다.",
     Chn:"你将种子撒在地里，主必降雨在其上，并使地所出的粮肥美丰盛。到那时，你的牲畜必在宽阔的草场吃草。",
     Eng:"He will also send you rain for the seed you sow in the ground, and the food that comes from the land will be rich and plentiful. In that day your cattle will graze in broad meadows.",
     Ind:"Lalu TUHAN akan memberi hujan bagi benih yang baru kamu taburkan di ladangmu, dan dari hasil tanah itu kamu akan makan roti yang lezat dan berlimpah-limpah. Pada waktu itu ternakmu akan makan rumput di padang rumput yang luas;"
@@ -153,49 +153,49 @@ BibleDB.add([
     Ind:"Dari setiap gunung yang tinggi dan dari setiap bukit yang menjulang akan memancar sungai-sungai pada hari pembunuhan yang besar, apabila menara-menara runtuh."
   },
   {Bible:"Isaiah", Chapter:30, Verse:26, Page:1,
-    Kor:"주님께서 백성의 상처를 싸매어 주시고, 매 맞아 생긴 그들의 상처를 고치시는 날에, 달빛은 마치 햇빛처럼 밝아지고, 햇빛은 일곱 배나 밝아져서 마치 일곱 날을 한데 모아 놓은 것 같이 밝아질 것이다.",
+    Kor:"주께서 백성의 상처를 싸매어 주시고, 매 맞아 생긴 그들의 상처를 고치시는 날에, 달빛은 마치 햇빛처럼 밝아지고, 햇빛은 일곱 배나 밝아져서 마치 일곱 날을 한데 모아 놓은 것 같이 밝아질 것이다.",
     Chn:"当耶和华缠裹他百姓的损处，医治他民鞭伤的日子，月光必像日光，日光必加七倍，像七日的光一样。",
     Eng:"The moon will shine like the sun, and the sunlight will be seven times brighter, like the light of seven full days, when the LORD binds up the bruises of his people and heals the wounds he inflicted.",
     Ind:"Maka terang bulan purnama akan seperti terang matahari terik dan terang matahari terik akan tujuh kali ganda, yaitu seperti terangnya tujuh hari, pada waktu TUHAN membalut luka umat-Nya dan menyembuhkan bekas pukulan."
   },
   {Bible:"Isaiah", Chapter:30, Verse:27, Page:1,
-    Kor:"<하나님께서 앗시리아를 벌하실 것이다> 주님의 이름 곧 그 권세와 영광이 먼 곳에서도 보인다. 그의 진노가 불처럼 타오르며, 노기가 치솟는 연기처럼 하늘을 찌른다. 그의 입술은 분노로 가득하고, 혀는 마치 태워 버리는 불과 같다.",
+    Kor:"주의 이름, 곧 그 권세와 영광이 먼 곳에서도 보인다. 그의 진노가 불처럼 타오르며, 노기가 치솟는 연기처럼 하늘을 찌른다. 그의 입술은 분노로 가득하고, 혀는 마치 태워 버리는 불과 같다.",
     Chn:"看哪，耶和华的名从远方来， 怒气烧起，密烟上腾。 他的嘴唇满有忿恨； 他的舌头像吞灭的火。",
     Eng:"See, the Name of the LORD comes from afar, with burning anger and dense clouds of smoke; his lips are full of wrath, and his tongue is a consuming fire.",
     Ind:"TUHAN datang menyatakan diri-Nya dari tempat-Nya yang jauh--murka-Nya menyala-nyala, Ia datang dalam awan gelap yang bergumpal-gumpal, bibir-Nya penuh dengan amarah, dan lidah-Nya seperti api yang memakan habis;"
   },
   {Bible:"Isaiah", Chapter:30, Verse:28, Page:1,
-    Kor:"그의 숨은 범람하는 강물 곧 목에까지 차는 물과 같다. 그가 파멸하는 키로 민족들을 까부르시며, 미혹되게 하는 재갈을 백성들의 입에 물리신다.",
+    Kor:"그의 숨은 범람하는 강물, 곧 목에까지 차는 물과 같다. 그가 파멸하는 키로 민족들을 까부르시며, 미혹되게 하는 재갈을 백성들의 입에 물리신다.",
     Chn:"他的气如涨溢的河水，直涨到颈项， 要用毁灭的筛箩筛净列国， 并且在众民的口中必有使人错行的嚼环。",
     Eng:"His breath is like a rushing torrent, rising up to the neck. He shakes the nations in the sieve of destruction; he places in the jaws of the peoples a bit that leads them astray.",
     Ind:"hembusan nafas-Nya seperti sungai yang menghanyutkan, yang airnya sampai ke leher--Ia datang untuk mengayak bangsa-bangsa dengan ayak kebinasaan dan untuk memasang suatu kekang yang menyesatkan di mulut suku-suku bangsa."
   },
   {Bible:"Isaiah", Chapter:30, Verse:29, Page:1,
-    Kor:"그러나 너희는 거룩한 절기를 지키는 밤처럼, 노래를 부르며, 피리를 불며, 주님의 산으로, 이스라엘의 반석이신 분에게로 나아가는 사람과 같이, 마음이 기쁠 것이다.",
+    Kor:"그러나 너희는 거룩한 절기를 지키는 밤처럼, 노래를 부르며, 피리를 불며, 주의 산으로, 이스라엘의 반석이신 분에게로 나아가는 사람과 같이, 마음이 기쁠 것이다.",
     Chn:"你们必唱歌，像守圣节的夜间一样，并且心中喜乐，像人吹笛，上耶和华的山，到以色列的磐石那里。",
     Eng:"And you will sing as on the night you celebrate a holy festival; your hearts will rejoice as when people go up with flutes to the mountain of the LORD, to the Rock of Israel.",
     Ind:"Kamu akan menyanyikan suatu nyanyian seperti pada waktu malam ketika orang menguduskan diri untuk perayaan, dan kamu akan bersuka hati seperti pada waktu orang berjalan diiringi suling hendak naik ke gunung TUHAN, ke Gunung Batu Israel."
   },
   {Bible:"Isaiah", Chapter:30, Verse:30, Page:1,
-    Kor:"주님께서 맹렬한 진노와, 태워 버리는 불과, 폭풍과 폭우와, 돌덩이 같은 우박을 내리셔서, 주님의 장엄한 음성을 듣게 하시며, 내리치시는 팔을 보게 하실 것이다.",
+    Kor:"주께서 맹렬한 진노와, 태워 버리는 불과, 폭풍과 폭우와, 돌덩이 같은 우박을 내리셔서, 주의 장엄한 음성을 듣게 하시며, 내리치시는 팔을 보게 하실 것이다.",
     Chn:"耶和华必使人听他威严的声音，又显他降罚的膀臂和他怒中的忿恨，并吞灭的火焰与霹雷、暴风、冰雹。",
     Eng:"The LORD will cause men to hear his majestic voice and will make them see his arm coming down with raging anger and consuming fire, with cloudburst, thunderstorm and hail.",
     Ind:"Dan TUHAN akan memperdengarkan suara-Nya yang mulia, akan memperlihatkan tangan-Nya yang turun menimpa dengan murka yang hebat dan nyala api yang memakan habis, dengan hujan lebat, angin ribut dan hujan batu."
   },
   {Bible:"Isaiah", Chapter:30, Verse:31, Page:1,
-    Kor:"주님께서 몽둥이로 치실 것이니, 앗시리아는 주님의 목소리에 넋을 잃을 것이다.",
+    Kor:"주께서 몽둥이로 치실 것이니, 앗시리아는 주의 목소리에 넋을 잃을 것이다.",
     Chn:"亚述人必因耶和华的声音惊惶；耶和华必用杖击打他。",
     Eng:"The voice of the LORD will shatter Assyria; with his scepter he will strike them down.",
     Ind:"Sebab Asyur akan terkejut oleh suara TUHAN, pada waktu Ia memukul mereka dengan gada."
   },
   {Bible:"Isaiah", Chapter:30, Verse:32, Page:1,
-    Kor:"주님께서 그들을 치시려고 예비하신 그 몽둥이를 그들에게 휘두르실 때에, 주님의 백성은 소구 소리와 수금 소리로 장단을 맞출 것이니, 주님께서 친히 앗시리아 사람들과 싸우실 것이다.",
+    Kor:"주께서 그들을 치시려고 예비하신 그 몽둥이를 그들에게 휘두르실 때에, 그의 백성은 소구 소리와 수금 소리로 장단을 맞출 것이니, 주께서 친히 앗시리아 사람들과 싸우실 것이다.",
     Chn:"耶和华必将命定的杖加在他身上；每打一下，人必击鼓弹琴。打杖的时候，耶和华必抡起手来，与他交战。",
     Eng:"Every stroke the LORD lays on them with his punishing rod will be to the music of tambourines and harps, as he fights them in battle with the blows of his arm.",
     Ind:"Sebab setiap pukulan dengan tongkat penghajar yang ditimpakan TUHAN ke atasnya, akan diiringi rebana dan kecapi, dan Ia akan berperang melawan Asyur dengan tangan yang diayunkan untuk peperangan."
   },
   {Bible:"Isaiah", Chapter:30, Verse:33, Page:1,
-    Kor:"이미 오래 전에 a'불타는 곳'을 준비하셨다. 바로 b앗시리아 왕을 태워 죽일 곳을 마련하셨다. 그 불구덩이가 깊고 넓으며, 불과 땔감이 넉넉하다. 이제 주님께서 내쉬는 숨이 마치 유황의 강물처럼 그것을 사르고 말 것이다. (a 또는 '도벳' b 또는 '몰렉'을)",
+    Kor:"이미 오래 전에 '불타는 곳'을 준비하셨다. 바로 앗시리아 왕을 태워 죽일 곳을 마련하셨다. 그 불구덩이가 깊고 넓으며, 불과 땔감이 넉넉하다. 이제 주께서 내쉬는 숨이 마치 유황의 강물처럼 그것을 사르고 말 것이다.",
     Chn:"原来陀斐特又深又宽，早已为王预备好了；其中堆的是火与许多木柴。耶和华的气如一股硫磺火使他着起来。",
     Eng:"Topheth has long been prepared; it has been made ready for the king. Its fire pit has been made deep and wide, with an abundance of fire and wood; the breath of the LORD, like a stream of burning sulfur, sets it ablaze. ISA",
     Ind:"Sebab dari dahulu sudah diatur tempat pembakaran--bukankah itu untuk raja--dasarnya dibuat dalam dan lapang, pancakanya penuh api dan kayu; nafas TUHAN menghanguskannya seperti sungai belerang."

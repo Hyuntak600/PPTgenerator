@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",11,31);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:11, Verse:1, Page:1,
-    Kor:"<언행을 조심하라> 속이는 저울은 주님께서 미워하셔도, 정확한 저울추는 주님께서 기뻐하신다.",
+    Kor:"속이는 저울은 주께서 미워하셔도, 정확한 저울추는 주께서 기뻐하신다.",
     Chn:"诡诈的天平为耶和华所憎恶； 公平的法码为他所喜悦。",
     Eng:"The LORD abhors dishonest scales, but accurate weights are his delight.",
     Ind:"Neraca serong adalah kekejian bagi TUHAN, tetapi Ia berkenan akan batu timbangan yang tepat."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Hasil orang benar adalah pohon kehidupan, dan siapa bijak, mengambil hati orang."
   },
   {Bible:"Proverbs", Chapter:11, Verse:31, Page:1,
-    Kor:"의인이 이 땅에서 한 대로 보상을 받는데, 악인과 죄인이 그 값을 치르지 않겠는가?",
+    Kor:"의인이 이 땅에서 한 대로 보상을 받는데, 악인과 죄인이 그 값을 치루지 않겠는가?",
     Chn:"看哪，义人在世尚且受报， 何况恶人和罪人呢？",
     Eng:"If the righteous receive their due on earth, how much more the ungodly and the sinner!",
     Ind:"Kalau orang benar menerima balasan di atas bumi, lebih-lebih orang fasik dan orang berdosa!"

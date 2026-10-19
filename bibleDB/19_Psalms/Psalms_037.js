@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",37,40);
 BibleDB.add([
   {Bible:"Psalms", Chapter:37, Verse:1, Page:1,
-    Kor:"<a다윗의 시> 악한 자들이 잘 된다고 해서 속상해하지 말며, 불의한 자들이 잘 산다고 해서 시새워하지 말아라. (a 각 연의 첫 글자가 히브리어 자음 문자 순서로 되어 있는 시)",
+    Kor:"악한 자들이 잘 된다고 해서 속상해하지 말며, 불의한 자들이 잘 산다고 해서 시새워하지 말아라.",
     Chn:"大卫的诗。 不要为作恶的心怀不平， 也不要向那行不义的生出嫉妒。",
     Eng:"Do not fret because of evil men or be envious of those who do wrong;",
     Ind:"Dari Daud. Jangan marah karena orang yang berbuat jahat, jangan iri hati kepada orang yang berbuat curang;"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"sebab mereka segera lisut seperti rumput dan layu seperti tumbuh-tumbuhan hijau."
   },
   {Bible:"Psalms", Chapter:37, Verse:3, Page:1,
-    Kor:"주님만 의지하고, 선을 행하여라. 이 땅에서 사는 동안 성실히 살아라.",
+    Kor:"주님만 의지하고, 착한 일을 하여라. 그분의 미쁘심을 간직하고, 이 땅에서 살아라.",
     Chn:"你当倚靠耶和华而行善， 住在地上，以他的信实为粮；",
     Eng:"Trust in the LORD and do good; dwell in the land and enjoy safe pasture.",
     Ind:"Percayalah kepada TUHAN dan lakukanlah yang baik, diamlah di negeri dan berlakulah setia,"
   },
   {Bible:"Psalms", Chapter:37, Verse:4, Page:1,
-    Kor:"기쁨은 오직 주님에게서 찾아라. 주님께서 네 마음의 소원을 들어주신다.",
+    Kor:"기쁨은 오직 주님에게서 찾아라. 주께서 네 마음의 소원을 들어주신다.",
     Chn:"又要以耶和华为乐， 他就将你心里所求的赐给你。",
     Eng:"Delight yourself in the LORD and he will give you the desires of your heart.",
     Ind:"dan bergembiralah karena TUHAN; maka Ia akan memberikan kepadamu apa yang diinginkan hatimu."
   },
   {Bible:"Psalms", Chapter:37, Verse:5, Page:1,
-    Kor:"네 갈 길을 주님께 맡기고, 주님만 의지하여라. 주님께서 이루어 주실 것이다.",
+    Kor:"네 갈 길을 주님께 맡기고, 주님만 의지하여라. 주께서 몸소 도와주실 것이다.",
     Chn:"当将你的事交托耶和华， 并倚靠他，他就必成全。",
     Eng:"Commit your way to the LORD; trust in him and he will do this:",
     Ind:"Serahkanlah hidupmu kepada TUHAN dan percayalah kepada-Nya, dan Ia akan bertindak;"
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Ia akan memunculkan kebenaranmu seperti terang, dan hakmu seperti siang."
   },
   {Bible:"Psalms", Chapter:37, Verse:7, Page:1,
-    Kor:"잠잠히 주님을 바라고, 주님만을 애타게 찾아라. 가는 길이 언제나 평탄하다고 자랑하는 자들과, 악한 계획도 언제나 이룰 수 있다는 자들 때문에 마음 상해 하지 말아라.",
+    Kor:"잠잠히 주님을 바라고, 주님만을 애타게 찾아라. 가는 길이 언제나 평탄하다고 자랑하는 자들과, 악한 계획도 언제나 이룰 수 있다는 자들 때문에 안달하지 말아라.",
     Chn:"你当默然倚靠耶和华，耐性等候他； 不要因那道路通达的和那恶谋成就的心怀不平。",
     Eng:"Be still before the LORD and wait patiently for him; do not fret when men succeed in their ways, when they carry out their wicked schemes.",
     Ind:"Berdiam dirilah di hadapan TUHAN dan nantikanlah Dia; jangan marah karena orang yang berhasil dalam hidupnya, karena orang yang melakukan tipu daya."
   },
   {Bible:"Psalms", Chapter:37, Verse:8, Page:1,
-    Kor:"노여움을 버려라. 격분을 가라앉혀라. 불평하지 말아라. 이런 것들은 오히려 악으로 기울어질 뿐이다.",
+    Kor:"노여움을 버려라. 격분을 가라앉혀라. 안달하지 말아라. 이런 것들은 자신에게 해로울 뿐이다.",
     Chn:"当止住怒气，离弃忿怒； 不要心怀不平，以致作恶。",
     Eng:"Refrain from anger and turn from wrath; do not fret--it leads only to evil.",
     Ind:"Berhentilah marah dan tinggalkanlah panas hati itu, jangan marah, itu hanya membawa kepada kejahatan."
   },
   {Bible:"Psalms", Chapter:37, Verse:9, Page:1,
-    Kor:"진실로 악한 자들은 뿌리째 뽑히고 말 것이다. 그러나 주님을 기다리는 사람들은 반드시 땅을 물려받을 것이다.",
+    Kor:"악한 자들은 언젠가는 뿌리째 뽑히고야 말겠지만, 주님을 기다리는 사람들은 반드시 땅을 물려받을 것이다.",
     Chn:"因为作恶的必被剪除； 惟有等候耶和华的必承受地土。",
     Eng:"For evil men will be cut off, but those who hope in the LORD will inherit the land.",
     Ind:"Sebab orang-orang yang berbuat jahat akan dilenyapkan, tetapi orang-orang yang menanti-nantikan TUHAN akan mewarisi negeri."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Lebih baik yang sedikit pada orang benar dari pada yang berlimpah-limpah pada orang fasik;"
   },
   {Bible:"Psalms", Chapter:37, Verse:17, Page:1,
-    Kor:"악인의 팔은 부러지지만, 의인은 주님께서 붙들어 주신다.",
+    Kor:"악인의 팔은 부러지지만, 의인은 주께서 붙들어 주신다.",
     Chn:"因为恶人的膀臂必被折断； 但耶和华是扶持义人。",
     Eng:"for the power of the wicked will be broken, but the LORD upholds the righteous.",
     Ind:"sebab lengan orang-orang fasik dipatahkan, tetapi TUHAN menopang orang-orang benar."
   },
   {Bible:"Psalms", Chapter:37, Verse:18, Page:1,
-    Kor:"흠 없는 사람의 나날은 주님께서 보살펴 주시니, 그 유산은 대대로 이어지고,",
+    Kor:"흠 없는 사람의 나날은 주께서 보살펴 주시니, 그 유산은 대대로 이어지고,",
     Chn:"耶和华知道完全人的日子； 他们的产业要存到永远。",
     Eng:"The days of the blameless are known to the LORD, and their inheritance will endure forever.",
     Ind:"TUHAN mengetahui hari-hari orang yang saleh, dan milik pusaka mereka akan tetap selama-lamanya;"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"mereka tidak akan mendapat malu pada waktu kecelakaan, dan mereka akan menjadi kenyang pada hari-hari kelaparan."
   },
   {Bible:"Psalms", Chapter:37, Verse:20, Page:1,
-    Kor:"그러나 악인들은 패망할 것이니, 주님의 원수들은 기름진 풀밭이 시들어 불타듯이, 불타 없어질 것이니, 연기처럼 사라질 것이다.",
+    Kor:"악인들은 패망할 것이니, 주의 원수들이 그렇게 될 것이다. 기름진 풀밭이 시들어 불타듯이, 그들도 불에 타서 없어질 것이니, 연기처럼 사라질 것이다.",
     Chn:"恶人却要灭亡。 耶和华的仇敌要像羊羔的脂油； 他们要消灭，要如烟消灭。",
     Eng:"But the wicked will perish: The LORD'S enemies will be like the beauty of the fields, they will vanish--vanish like smoke.",
     Ind:"Sesungguhnya, orang-orang fasik akan binasa; musuh TUHAN seperti keindahan padang rumput: mereka habis lenyap, habis lenyap bagaikan asap."
@@ -129,25 +129,25 @@ BibleDB.add([
     Ind:"Orang fasik meminjam dan tidak membayar kembali, tetapi orang benar adalah pengasih dan pemurah."
   },
   {Bible:"Psalms", Chapter:37, Verse:22, Page:1,
-    Kor:"주님께서 베푸시는 복을 받은 사람은 땅을 차지하게 되지만, 주님의 저주를 받은 자들은 땅에서 끊어질 것이다.",
+    Kor:"주께서 베푸시는 복을 받은 사람은 땅을 차지하게 되지만, 주께서 저주하신 자들은 영원히 추방될 것이다.",
     Chn:"蒙耶和华赐福的必承受地土； 被他咒诅的必被剪除。",
     Eng:"those the LORD blesses will inherit the land, but those he curses will be cut off.",
     Ind:"Sesungguhnya, orang-orang yang diberkati-Nya akan mewarisi negeri, tetapi orang-orang yang dikutuki-Nya akan dilenyapkan."
   },
   {Bible:"Psalms", Chapter:37, Verse:23, Page:1,
-    Kor:"우리가 걷는 길이 주님께서 기뻐하시는 길이면, 우리의 발걸음을 주님께서 지켜 주시고,",
+    Kor:"우리가 걷는 길이 주께서 기뻐하시는 길이면, 우리의 발걸음을 주께서 지켜 주시고,",
     Chn:"义人的脚步被耶和华立定； 他的道路，耶和华也喜爱。",
     Eng:"If the LORD delights in a man's way, he makes his steps firm;",
     Ind:"TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya;"
   },
   {Bible:"Psalms", Chapter:37, Verse:24, Page:1,
-    Kor:"어쩌다 비틀거려도 주님께서 우리의 손을 잡아 주시니, 넘어지지 않는다.",
+    Kor:"어쩌다 비틀거려도 주께서 우리의 손을 잡아 주시니, 넘어지지 않는다.",
     Chn:"他虽失脚也不至全身仆倒， 因为耶和华用手搀扶他。",
     Eng:"though he stumble, he will not fall, for the LORD upholds him with his hand.",
     Ind:"apabila ia jatuh, tidaklah sampai tergeletak, sebab TUHAN menopang tangannya."
   },
   {Bible:"Psalms", Chapter:37, Verse:25, Page:1,
-    Kor:"나는 젊어서나 늙어서나, 의인이 버림받는 것과 그의 자손이 구걸하는 것을 보지 못하였다.",
+    Kor:"나는 젊어서나 늙어서나, 의인이 버림받는 것과 그의 자손이 걸식하는 것을 보지 못하였다.",
     Chn:"我从前年幼，现在年老， 却未见过义人被弃， 也未见过他的后裔讨饭。",
     Eng:"I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread.",
     Ind:"Dahulu aku muda, sekarang telah menjadi tua, tetapi tidak pernah kulihat orang benar ditinggalkan, atau anak cucunya meminta-minta roti;"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Jauhilah yang jahat dan lakukanlah yang baik, maka engkau akan tetap tinggal untuk selama-lamanya;"
   },
   {Bible:"Psalms", Chapter:37, Verse:28, Page:1,
-    Kor:"주님께서는 공의를 사랑하시고, 그의 성도들을 돌보시기 때문이다. 그들은 영원토록 보호를 받으나, 악인의 자손은 끊어질 것이다.",
+    Kor:"주께서는 공의를 사랑하시고, 성도를 돌보시기 때문이다. 성도는 영원토록 보호를 받으나, 악인의 자손은 끊어질 것이다.",
     Chn:"因为，耶和华喜爱公平， 不撇弃他的圣民； 他们永蒙保佑， 但恶人的后裔必被剪除。",
     Eng:"For the LORD loves the just and will not forsake his faithful ones. They will be protected forever, but the offspring of the wicked will be cut off;",
     Ind:"sebab TUHAN mencintai hukum, dan Ia tidak meninggalkan orang-orang yang dikasihi-Nya. Sampai selama-lamanya mereka akan terpelihara, tetapi anak cucu orang-orang fasik akan dilenyapkan."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"TUHAN tidak menyerahkan orang benar itu ke dalam tangannya, Ia tidak membiarkannya dinyatakan fasik pada waktu diadili."
   },
   {Bible:"Psalms", Chapter:37, Verse:34, Page:1,
-    Kor:"주님을 기다리며, 주님의 법도를 지켜라. 주님께서 너를 높여 주시어 땅을 차지하게 하실 것이니, 악인들이 뿌리째 뽑히는 모습을 네가 보게 될 것이다.",
+    Kor:"주님을 기다리며, 주의 법도를 지켜라. 주께서 너를 높여 주시어 땅을 차지하게 하실 것이니, 악인들이 뿌리째 뽑히는 꼴을 네가 보게 될 것이다.",
     Chn:"你当等候耶和华，遵守他的道， 他就抬举你，使你承受地土； 恶人被剪除的时候，你必看见。",
     Eng:"Wait for the LORD and keep his way. He will exalt you to inherit the land; when the wicked are cut off, you will see it.",
     Ind:"Nantikanlah TUHAN dan tetap ikutilah jalan-Nya, maka Ia akan mengangkat engkau untuk mewarisi negeri, dan engkau akan melihat orang-orang fasik dilenyapkan."
@@ -219,19 +219,19 @@ BibleDB.add([
     Ind:"ketika aku lewat, lenyaplah ia, aku mencarinya, tetapi tidak ditemui."
   },
   {Bible:"Psalms", Chapter:37, Verse:37, Page:1,
-    Kor:"흠 없는 사람을 지켜 보고, 정직한 사람을 눈여겨 보아라. 평화를 사랑하는 사람에게는 b미래가 있으나, (b 또는 '자손이 번성할 것이나')",
+    Kor:"흠 없는 사람을 지켜 보고, 정직한 사람을 눈여겨 보아라. 평화를 사랑하는 사람에게는 미래가 있으나,",
     Chn:"你要细察那完全人，观看那正直人， 因为和平人有好结局。",
     Eng:"Consider the blameless, observe the upright; there is a future for the man of peace.",
     Ind:"Perhatikanlah orang yang tulus dan lihatlah kepada orang yang jujur, sebab pada orang yang suka damai akan ada masa depan;"
   },
   {Bible:"Psalms", Chapter:37, Verse:38, Page:1,
-    Kor:"범죄자들은 함께 멸망할 것이니, 악한 자들은 c미래가 없을 것이다. (c 또는 '자손이')",
+    Kor:"범죄자들은 함께 멸망할 것이니, 악한 자들은 미래가 끊어지고 말 것이다.",
     Chn:"至于犯法的人，必一同灭绝； 恶人终必剪除。",
     Eng:"But all sinners will be destroyed; the future of the wicked will be cut off.",
     Ind:"tetapi pendurhaka-pendurhaka akan dibinasakan bersama-sama, dan masa depan orang-orang fasik akan dilenyapkan."
   },
   {Bible:"Psalms", Chapter:37, Verse:39, Page:1,
-    Kor:"의인의 구원은 주님께로부터 오며, 재난을 받을 때에, 주님은 그들의 피난처가 되신다.",
+    Kor:"의인의 구원은 주께로부터 오며, 재난을 받을 때에, 주님은 그들의 피난처가 되신다.",
     Chn:"但义人得救是由于耶和华； 他在患难时作他们的营寨。",
     Eng:"The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.",
     Ind:"Orang-orang benar diselamatkan oleh TUHAN; Ia adalah tempat perlindungan mereka pada waktu kesesakan;"

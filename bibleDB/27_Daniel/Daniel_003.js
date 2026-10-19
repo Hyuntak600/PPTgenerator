@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",3,30);
 BibleDB.add([
   {Bible:"Daniel", Chapter:3, Verse:1, Page:1,
-    Kor:"<금 신상 숭배> 느부갓네살 왕이 금으로 신상을 만들어서, 바빌론 지방의 두라 평지에 세웠는데, 그 신상은 높이가 예순 자, 너비가 여섯 자였다.",
+    Kor:"느부갓네살 왕이 금으로 신상을 만들어서, 바빌론 지방의 두라 평지에 세웠는데, 그 신상은 높이가 예순 자, 너비가 여섯 자였다.",
     Chn:"尼布甲尼撒王造了一个金像，高六十肘，宽六肘，立在巴比伦省杜拉平原。",
     Eng:"King Nebuchadnezzar made an image of gold, ninety feet high and nine feet wide, and set it up on the plain of Dura in the province of Babylon.",
     Ind:"Raja Nebukadnezar membuat sebuah patung emas yang tingginya enam puluh hasta dan lebarnya enam hasta yang didirikannya di dataran Dura di wilayah Babel."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Sebab itu demi segala bangsa mendengar bunyi sangkakala, seruling, kecapi, rebab, gambus dan berbagai-bagai jenis bunyi-bunyian, maka sujudlah orang-orang dari segala bangsa, suku bangsa dan bahasa, dan menyembah patung emas yang telah didirikan raja Nebukadnezar itu."
   },
   {Bible:"Daniel", Chapter:3, Verse:8, Page:1,
-    Kor:"<다니엘의 세 친구> ○그 때에 이 일과 관련하여, 어떤 a점성가들이 나서서, 유다 사람들을 고발하였다.(a 또는 '갈대아 사람들')",
+    Kor:"○그 때에 이 일과 관련하여, 어떤 점성가들이 나서서, 유다 사람들을 고발하였다.",
     Chn:"那时，有几个迦勒底人进前来控告犹大人。",
     Eng:"At this time some astrologers came forward and denounced the Jews.",
     Ind:"Pada waktu itu juga tampillah beberapa orang Kasdim menuduh orang Yahudi."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu Sadrakh, Mesakh dan Abednego menjawab raja Nebukadnezar: \"Tidak ada gunanya kami memberi jawab kepada tuanku dalam hal ini."
   },
   {Bible:"Daniel", Chapter:3, Verse:17, Page:1,
-    Kor:"불 속에 던져져도, 임금님, 우리를 지키시는 우리 하나님이 우리를 활활 타는 화덕 속에서 구해 주시고, 임금님의 손에서도 구해 주실 것입니다.",
+    Kor:"만일 그렇게 된다면, 임금님, 우리를 지키시는 우리 하나님이 우리를 활활 타는 화덕 속에서 구해 주시고, 임금님의 손에서도 구해 주실 것입니다.",
     Chn:"即便如此，我们所事奉的　神能将我们从烈火的窑中救出来。王啊，他也必救我们脱离你的手；",
     Eng:"If we are thrown into the blazing furnace, the God we serve is able to save us from it, and he will rescue us from your hand, O king.",
     Ind:"Jika Allah kami yang kami puja sanggup melepaskan kami, maka Ia akan melepaskan kami dari perapian yang menyala-nyala itu, dan dari dalam tanganmu, ya raja;"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"tetapi seandainya tidak, hendaklah tuanku mengetahui, ya raja, bahwa kami tidak akan memuja dewa tuanku, dan tidak akan menyembah patung emas yang tuanku dirikan itu.\""
   },
   {Bible:"Daniel", Chapter:3, Verse:19, Page:1,
-    Kor:"<세 친구가 사형선고를 받다> ○그러자 느부갓네살 왕은 잔뜩 화가 나서, 사드락과 메삭과 아벳느고를 보고 얼굴빛이 달라져, 화덕을 보통 때보다 일곱 배나 더 뜨겁게 하라고 명령하였다.",
+    Kor:"○그러자 느부갓네살 왕은 잔뜩 화가 나서, 사드락과 메삭과 아벳느고를 보고 얼굴빛이 달라져, 화덕을 보통 때보다 일곱 배나 더 뜨겁게 하라고 명령하였다.",
     Chn:"当时，尼布甲尼撒怒气填胸，向沙得拉、米煞、亚伯尼歌变了脸色，吩咐人把窑烧热，比寻常更加七倍；",
     Eng:"Then Nebuchadnezzar was furious with Shadrach, Meshach and Abednego, and his attitude toward them changed. He ordered the furnace heated seven times hotter than usual",
     Ind:"Maka meluaplah kegeraman Nebukadnezar, air mukanya berubah terhadap Sadrakh, Mesakh dan Abednego; lalu diperintahkannya supaya perapian itu dibuat tujuh kali lebih panas dari yang biasa."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kepada beberapa orang yang sangat kuat dari tentaranya dititahkannya untuk mengikat Sadrakh, Mesakh dan Abednego dan mencampakkan mereka ke dalam perapian yang menyala-nyala itu."
   },
   {Bible:"Daniel", Chapter:3, Verse:21, Page:1,
-    Kor:"그러자 사람들은 그들을, 바지와 속옷 등 옷을 입고 관을 쓴 채로 묶어서, 불타는 화덕 속에 던졌다.",
+    Kor:"그러자 사람들은 그들을 바지와 속옷 등 옷을 입고 관을 쓴 채로 묶어서, 불타는 화덕 속에 던졌다.",
     Chn:"这三人穿着裤子、内袍、外衣，和别的衣服，被捆起来扔在烈火的窑中。",
     Eng:"So these men, wearing their robes, trousers, turbans and other clothes, were bound and thrown into the blazing furnace.",
     Ind:"Lalu diikatlah ketiga orang itu, dengan jubah, celana, topi dan pakaian-pakaian mereka yang lain, dan dicampakkan ke dalam perapian yang menyala-nyala."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Katanya: \"Tetapi ada empat orang kulihat berjalan-jalan dengan bebas di tengah-tengah api itu; mereka tidak terluka, dan yang keempat itu rupanya seperti anak dewa!\""
   },
   {Bible:"Daniel", Chapter:3, Verse:26, Page:1,
-    Kor:"<세 친구가 풀려 나다> ○느부갓네살 왕이 활활 타는 화덕 어귀로 가까이 가서 소리쳐 말하였다. \"가장 높으신 하나님의 종 사드락과 메삭과 아벳느고는 이리로 나오너라!\" 그러자 사드락과 메삭과 아벳느고가 불 가운데서 나왔다.",
+    Kor:"○느부갓네살 왕이 활활 타는 화덕 어귀로 가까이 가서 소리쳐 말하였다. \"가장 높으신 하나님의 종 사드락과 메삭과 아벳느고는 이리로 나오너라!\" 그러자 사드락과 메삭과 아벳느고가 불 가운데서 나왔다.",
     Chn:"于是，尼布甲尼撒就近烈火窑门，说：「至高　神的仆人沙得拉、米煞、亚伯尼歌出来，上这里来吧！」沙得拉、米煞、亚伯尼歌就从火中出来了。",
     Eng:"Nebuchadnezzar then approached the opening of the blazing furnace and shouted, \"Shadrach, Meshach and Abednego, servants of the Most High God, come out! Come here!\" So Shadrach, Meshach and Abednego came out of the fire,",
     Ind:"Lalu Nebukadnezar mendekati pintu perapian yang bernyala-nyala itu; berkatalah ia: \"Sadrakh, Mesakh dan Abednego, hamba-hamba Allah yang maha tinggi, keluarlah dan datanglah ke mari!\" Lalu keluarlah Sadrakh, Mesakh dan Abednego dari api itu."

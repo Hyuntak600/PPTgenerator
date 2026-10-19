@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",23,40);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:23, Verse:1, Page:1,
-    Kor:"<미래의 왕 메시아> \"내 목장의 양 떼를 죽이고 흩어 버린 목자들아, 너희는 저주를 받아라. 나 주의 말이다.",
+    Kor:"\"내 목장의 양 떼를 죽이고 흩어 버린 목자들아, 너희는 저주를 받아라. 나 주의 말이다.",
     Chn:"耶和华说：「那些残害、赶散我草场之羊的牧人有祸了！」",
     Eng:"\"Woe to the shepherds who are destroying and scattering the sheep of my pasture!\" declares the LORD.",
     Ind:"\"Celakalah para gembala yang membiarkan kambing domba gembalaan-Ku hilang dan terserak!\" --demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:2, Page:1,
-    Kor:"그러므로 나 주 이스라엘의 하나님이 내 백성을 돌보는 목자들에게 말한다. 너희는 내 양 떼를 흩어서 몰아내고, 그 양들을 돌보아 주지 아니하였다. 너희의 그 악한 행실을 내가 이제 벌하겠다. 나 주의 말이다.",
+    Kor:"그러므로 나 주 이스라엘의 하나님이 내 백성을 치는 목자들에게 말한다. 너희는 내 양 떼를 흩어서 몰아내고, 그 양들을 돌보아 주지 아니하였다. 너희의 그 악한 행실을 내가 이제 벌하겠다. 나 주의 말이다.",
     Chn:"耶和华—以色列的　神斥责那些牧养他百姓的牧人，如此说：「你们赶散我的羊群，并没有看顾他们；我必讨你们这行恶的罪。这是耶和华说的。",
     Eng:"Therefore this is what the LORD, the God of Israel, says to the shepherds who tend my people: \"Because you have scattered my flock and driven them away and have not bestowed care on them, I will bestow punishment on you for the evil you have done,\" declares the LORD.",
     Ind:"Sebab itu beginilah firman TUHAN, Allah Israel, terhadap para gembala yang menggembalakan bangsaku: \"Kamu telah membiarkan kambing domba-Ku terserak dan tercerai-berai, dan kamu tidak menjaganya. Maka ketahuilah, Aku akan membalaskan kepadamu perbuatan-perbuatanmu yang jahat, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:3, Page:1,
-    Kor:"○이제는 내가 친히 내 양 떼 가운데서 남은 양들을 모으겠다. 내가 쫓아냈던 모든 나라에서 모아서, 다시 그들이 살던 목장으로 데려오겠다. 그러면 그들이 번성하여 수가 많아질 것이다.",
+    Kor:"이제는 내가 친히 내 양 떼 가운데서 남은 양들을 모으겠다. 내가 쫓아냈던 모든 나라에서 모아서, 다시 그들이 살던 목장으로 데려오겠다. 그러면 그들이 번성하여 수가 많아질 것이다.",
     Chn:"我要将我羊群中所余剩的，从我赶他们到的各国内招聚出来，领他们归回本圈；他们也必生养众多。",
     Eng:"\"I myself will gather the remnant of my flock out of all the countries where I have driven them and will bring them back to their pasture, where they will be fruitful and increase in number.",
     Ind:"Dan Aku sendiri akan mengumpulkan sisa-sisa kambing domba-Ku dari segala negeri ke mana Aku menceraiberaikan mereka, dan Aku akan membawa mereka kembali ke padang mereka: mereka akan berkembang biak dan bertambah banyak."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Aku akan mengangkat atas mereka gembala-gembala yang akan menggembalakan mereka, sehingga mereka tidak takut lagi, tidak terkejut dan tidak hilang seekorpun, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:5, Page:1,
-    Kor:"내가 다윗에게서 의로운 가지가 하나 돋아나게 할 그 날이 오고 있다. 나 주의 말이다. 그는 왕이 되어 슬기롭게 통치하면서, 세상에 공평과 정의를 실현할 것이다.",
+    Kor:"○내가 다윗에게서 의로운 가지가 하나 돋아나게 할 그 날이 오고 있다. 나 주의 말이다. 그는 왕이 되어 슬기롭게 통치하면서, 세상에 공평과 정의를 실현할 것이다.",
     Chn:"耶和华说：「日子将到，我要给大卫兴起一个公义的苗裔；他必掌王权，行事有智慧，在地上施行公平和公义。",
     Eng:"\"The days are coming,\" declares the LORD, \"when I will raise up to David a righteous Branch, a King who will reign wisely and do what is just and right in the land.",
     Ind:"Sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa Aku akan menumbuhkan Tunas adil bagi Daud. Ia akan memerintah sebagai raja yang bijaksana dan akan melakukan keadilan dan kebenaran di negeri."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:6, Page:1,
-    Kor:"그 때가 오면 유다가 구원을 받을 것이며, 이스라엘이 안전한 거처가 될 것이다. 사람들이 그 이름을 '주님은 우리의 구원이시다'라고 부를 것이다.",
+    Kor:"그 때가 오면 유다가 구원을 받을 것이며, 이스라엘이 안전한 거처가 될 것이다. 사람들이 그 이름을 '우리를 공의로 다스리시는 주'라고 부를 것이다.",
     Chn:"在他的日子，犹大必得救，以色列也安然居住。他的名必称为『耶和华—我们的义』。」",
     Eng:"In his days Judah will be saved and Israel will live in safety. This is the name by which he will be called: The LORD Our Righteousness.",
     Ind:"Dalam zamannya Yehuda akan dibebaskan, dan Israel akan hidup dengan tenteram; dan inilah namanya yang diberikan orang kepadanya: TUHAN--keadilan kita."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"melainkan: Demi TUHAN yang hidup yang menuntun dan membawa pulang keturunan kaum Israel keluar dari tanah utara dan dari segala negeri ke mana Ia telah menceraiberaikan mereka!, maka mereka akan tinggal di tanahnya sendiri.\""
   },
   {Bible:"Jeremiah", Chapter:23, Verse:9, Page:1,
-    Kor:"<예언자들에 대한 예레미야의 경고> 예언자들아, 들어라. 내 심장이 내 속에서 터지고, 내 모든 뼈가 떨리며, 내가 취한 사람처럼 되고, 포도주에 곯아떨어진 사람처럼 되었으니, 이것은 주님 때문이요, 그의 거룩한 말씀 때문이다.",
+    Kor:"예언자들아, 들어라. 내 심장이 내 속에서 터지고, 내 모든 뼈가 떨리며, 내가 취한 사람처럼 되고, 포도주에 곯아떨어진 사람처럼 되었으니, 이것은 주님 때문이요, 그 분의 거룩한 말씀 때문이다.",
     Chn:"论到那些先知， 我心在我里面忧伤， 我骨头都发颤； 因耶和华和他的圣言， 我像醉酒的人， 像被酒所胜的人。",
     Eng:"Concerning the prophets: My heart is broken within me; all my bones tremble. I am like a drunken man, like a man overcome by wine, because of the LORD and his holy words.",
     Ind:"Mengenai nabi-nabi. Hatiku hancur dalam dadaku, segala tulangku goyah. Keadaanku seperti orang mabuk, seperti laki-laki yang terlalu banyak minum anggur, oleh karena TUHAN dan oleh karena firman-Nya yang kudus."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:10, Page:1,
-    Kor:"진실로 이 땅에는 음행하는 자들이 가득 차 있다. 진실로 a이런 자들 때문에 땅이 슬퍼하며, 광야의 초장들은 b메마른다. 그들이 하는 일이 악하며, 그들이 힘쓰는 일도 옳지 못하다. (a 또는 '저주 때문에' 또는 '이런 일들 때문에' b 또는 '슬퍼한다')",
+    Kor:"진실로 이 땅에는 음행하는 자들이 가득 차 있다. 진실로 이런 자들 때문에 땅이 슬퍼하며, 광야의 초장들은 메마른다. 그들이 하는 일이 악하며, 그들이 힘쓰는 일도 옳지 못하다.",
     Chn:"地满了行淫的人！ 因妄自赌咒，地就悲哀； 旷野的草场都枯干了。 他们所行的道乃是恶的； 他们的勇力使得不正。",
     Eng:"The land is full of adulterers; because of the curse the land lies parched and the pastures in the desert are withered. The prophets follow an evil course and use their power unjustly.",
     Ind:"Negeri telah penuh dengan orang-orang berzinah; sungguh, oleh karena kutuk ini gersanglah negeri dan layulah padang-padang rumput di gurun; apa yang dikejar mereka adalah kejahatan, dan kekuatan mereka adalah ketidakadilan."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Tetapi di kalangan para nabi Yerusalem Aku melihat ada yang mengerikan: mereka berzinah dan berkelakuan tidak jujur; mereka menguatkan hati orang-orang yang berbuat jahat, sehingga tidak ada seorangpun yang bertobat dari kejahatannya; semuanya mereka telah menjadi seperti Sodom bagi-Ku dan penduduknya seperti Gomora.\""
   },
   {Bible:"Jeremiah", Chapter:23, Verse:15, Page:1,
-    Kor:"\"그러므로, 이런 예언자들을 두고, 나 만군의 주가 말한다. 내가 그들에게 쓴 쑥을 먹이며, 독을 탄 물을 마시게 하겠다. 죄악이 예루살렘의 예언자들에게서 솟아 나와서, 온 나라에 퍼졌기 때문이다.\"",
+    Kor:"\"그러므로, 이런 예언자들을 두고, 나 만군의 주가 이렇게 말한다. 내가 그들에게 쓴 쑥을 먹이며, 독을 탄 물을 마시게 하겠다. 죄악이 예루살렘의 예언자들에게서 솟아 나와서, 온 나라에 퍼졌기 때문이다.\"",
     Chn:"所以万军之耶和华论到先知如此说： 我必将茵 给他们吃， 又将苦胆水给他们喝； 因为亵渎的事出于耶路撒冷的先知，流行遍地。",
     Eng:"Therefore, this is what the LORD Almighty says concerning the prophets: \"I will make them eat bitter food and drink poisoned water, because from the prophets of Jerusalem ungodliness has spread throughout the land.\"",
     Ind:"Sebab itu beginilah firman TUHAN semesta alam mengenai para nabi itu: \"Sesungguhnya, Aku akan memberi mereka makan ipuh dan minum racun, sebab dari para nabi Yerusalem telah meluas kefasikan ke seluruh negeri.\""
   },
   {Bible:"Jeremiah", Chapter:23, Verse:16, Page:1,
-    Kor:"\"나 만군의 주가 말한다. 스스로 예언자라고 하는 자들에게서 예언을 듣지 말아라. 그들은 헛된 말로 너희를 속이고 있다. 그들은 나 주의 입에서 나온 말을 전하는 것이 아니라, 자기들의 마음 속에서 나온 환상을 말할 뿐이다.",
+    Kor:"\"나 만군의 주가 이렇게 말한다. 너희는 스스로 예언자라고 하는 자들에게서 예언을 듣지 말아라. 그들은 헛된 말로 너희를 속이고 있다. 그들은 나 주의 입에서 나온 말을 전하는 것이 아니라, 자기들의 마음 속에서 나온 환상을 말할 뿐이다.",
     Chn:"万军之耶和华如此说：「这些先知向你们说预言，你们不要听他们的话。他们以虚空教训你们，所说的异象是出于自己的心，不是出于耶和华的口。",
     Eng:"This is what the LORD Almighty says: \"Do not listen to what the prophets are prophesying to you; they fill you with false hopes. They speak visions from their own minds, not from the mouth of the LORD.",
     Ind:"Beginilah firman TUHAN semesta alam: \"Janganlah dengarkan perkataan para nabi yang bernubuat kepada kamu! Mereka hanya memberi harapan yang sia-sia kepadamu, dan hanya mengungkapkan penglihatan rekaan hatinya sendiri, bukan apa yang datang dari mulut TUHAN;"
   },
   {Bible:"Jeremiah", Chapter:23, Verse:17, Page:1,
-    Kor:"그들은 나 주의 말을 멸시하는 자들에게도 말하기를 '만사가 형통할 것이다. 주님의 말씀이다' 한다. 제 고집대로 살아가는 모든 사람에게도 '너희에게는 어떠한 재앙도 내리지 않을 것이다!' 하고 말한다.",
+    Kor:"그들은 나 주의 말을 멸시하는 자들에게도 말하기를 '만사가 형통할 것이다. 주의 말씀이다' 한다. 제 고집대로 살아가는 모든 사람에게도 '너희에게는 어떠한 재앙도 내리지 않을 것이다!' 하고 말한다.",
     Chn:"他们常对藐视我的人说：『耶和华说：你们必享平安』；又对一切按自己顽梗之心而行的人说：『必没有灾祸临到你们。』」",
     Eng:"They keep saying to those who despise me, 'The LORD says: You will have peace.' And to all who follow the stubbornness of their hearts they say, 'No harm will come to you.'",
     Ind:"mereka selalu berkata kepada orang-orang yang menista firman TUHAN: Kamu akan selamat! dan kepada setiap orang yang mengikuti kedegilan hatinya mereka berkata: Malapetaka tidak akan menimpa kamu!\""
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Nabi yang beroleh mimpi, biarlah menceritakan mimpinya itu, dan nabi yang beroleh firman-Ku, biarlah menceritakan firman-Ku itu dengan benar! Apakah sangkut-paut jerami dengan gandum? demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:29, Page:1,
-    Kor:"내 말은 맹렬하게 타는 불이다. 바위를 부수는 망치다. 나 주의 말이다.",
+    Kor:"내 말이 불과 같지 않으냐? 바위를 부수는 망치와 같지 않으냐? 나 주의 말이다.",
     Chn:"耶和华说：「我的话岂不像火，又像能打碎磐石的大锤吗？」",
     Eng:"\"Is not my word like fire,\" declares the LORD, \"and like a hammer that breaks a rock in pieces?",
     Ind:"Bukankah firman-Ku seperti api, demikianlah firman TUHAN dan seperti palu yang menghancurkan bukit batu?"
@@ -195,49 +195,49 @@ BibleDB.add([
     Ind:"Sesungguhnya, Aku akan menjadi lawan mereka yang menubuatkan mimpi-mimpi dusta, demikianlah firman TUHAN, dan yang menceritakannya serta menyesatkan umat-Ku dengan dustanya dan dengan bualnya. Aku ini tidak pernah mengutus mereka dan tidak pernah memerintahkan mereka. Mereka sama sekali tiada berguna untuk bangsa ini, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:33, Page:1,
-    Kor:"<부담이 되는 주님의 말씀> ○\"이 백성 가운데 어느 한 사람이나 예언자나 제사장이 너에게 와서 c'부담이 되는 주님의 말씀'이 있느냐고 묻거든, 너는 그들에게 대답하여라. '부담이 되는 주님의 말씀'이라고 하였느냐? 나 주가 말한다. 너희가 바로 나에게 부담이 된다. 그래서 내가 이제 너희를 버리겠다 말하였다고 하여라.(c 히브리어 '맛사'는 '말씀'이라는 뜻과 '부담'이란 뜻을 둘 다 지니고 있음)",
+    Kor:"○\"이 백성 가운데 어느 한 사람이나 예언자나 제사장이 너에게 와서 '부담이 되는 주의 말씀'이 있느냐고 묻거든, 너는 그들에게 대답하여라. '부담이 되는 주의 말씀'이라고 하였느냐? 나 주가 말한다. 너희가 바로 나에게 부담이 된다. 그래서 내가 이제 너희를 버리겠다고 말하였다고 하여라.",
     Chn:"「无论是百姓，是先知，是祭司，问你说：『耶和华有什么默示呢？』你就对他们说：『什么默示啊？耶和华说：我要撇弃你们。』",
     Eng:"\"When these people, or a prophet or a priest, ask you, 'What is the oracle of the LORD?' say to them, 'What oracle? I will forsake you, declares the LORD.'",
     Ind:"Apabila bangsa ini--baik nabi ataupun imam--bertanya kepadamu: Apakah Sabda yang dibebankan oleh TUHAN?, maka jawablah mereka: Kamulah beban itu! Sebab itu kamu akan Kubuang dari hadapan-Ku, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:34, Page:1,
-    Kor:"○또 '부담이 되는 주님의 말씀'이라는 말을 사용하는 예언자나 제사장이나 백성이 있으면, 내가 그 사람과 그 집안에 벌을 내리겠다고 하여라.",
+    Kor:"○또 '부담이 되는 주의 말씀'이라는 말을 사용하는 예언자나 제사장이나 백성이 있으면, 내가 그 사람과 그 집안에 벌을 내리겠다고 하여라.",
     Chn:"无论是先知，是祭司，是百姓，说『耶和华的默示』，我必刑罚那人和他的家。",
     Eng:"If a prophet or a priest or anyone else claims, 'This is the oracle of the LORD,' I will punish that man and his household.",
     Ind:"Adapun nabi atau imam atau rakyat yang masih berbicara tentang Sabda yang dibebankan oleh TUHAN, kepada orang itu dan kepada keluarganya akan Kulakukan pembalasan."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:35, Page:1,
-    Kor:"친구나 친척끼리 서로 말할 때에는 '부담이 되는 주님의 말씀'이라고 말하는 대신에 '주님께서 무엇이라고 대답을 하셨느냐?' '주님께서 무슨 말씀을 하셨느냐?' 하고 물어야 한다고 일러주어라.",
+    Kor:"친구나 친척끼리 서로 말할 때에는 '부담이 되는 주의 말씀'이라고 말하는 대신에 '주께서 무엇이라고 대답을 하셨느냐?' '주께서 무슨 말씀을 하셨느냐?' 하고 물어야 한다고 일러주어라.",
     Chn:"你们各人要对邻舍，各人要对弟兄如此说：『耶和华回答什么？』『耶和华说了什么呢？』",
     Eng:"This is what each of you keeps on saying to his friend or relative: 'What is the LORD'S answer?' or 'What has the LORD spoken?'",
     Ind:"Beginilah harus kamu katakan, masing-masing kepada temannya dan masing-masing kepada saudaranya: Apakah jawab TUHAN? atau: Apakah firman TUHAN?"
   },
   {Bible:"Jeremiah", Chapter:23, Verse:36, Page:1,
-    Kor:"'부담이 되는 주님의 말씀'이라는 표현을 너희가 다시는 써서는 안 된다. 누구든지 그런 말을 쓰는 사람에게는 그 말이 그에게 정말 부담이 될 것이라고 하여라. '그렇게 말하는 것은 살아 계신 하나님, 우리의 하나님, 만군의 주의 말씀을 왜곡하는 것이기 때문'이라고 말하여라.",
+    Kor:"'부담이 되는 주의 말씀'이라는 표현을 너희가 다시는 써서는 안 된다. 누구든지 그런 말을 쓰는 사람에게는 그 말이 그에게 정말 부담이 될 것이라고 하여라. '그렇게 말하는 것은 살아 계신 하나님, 우리의 하나님, 만군의 주의 말씀을 왜곡하는 것이기 때문'이라고 말하여라.",
     Chn:"『耶和华的默示』你们不可再提，各人所说的话必作自己的重担，因为你们谬用永生　神、万军之耶和华—我们　神的言语。",
     Eng:"But you must not mention 'the oracle of the LORD' again, because every man's own word becomes his oracle and so you distort the words of the living God, the LORD Almighty, our God.",
     Ind:"Tetapi Sabda yang dibebankan oleh TUHAN janganlah kamu sebut-sebutkan lagi, sebab yang menjadi beban bagi setiap orang ialah perkataannya sendiri, oleh karena kamu telah memutarbalikkan perkataan-perkataan Allah yang hidup, TUHAN semesta alam, Allah kita."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:37, Page:1,
-    Kor:"○이제 예언자에게 물을 때에는 '주님께서 무엇이라고 대답을 하셨느냐? 주님께서 무슨 말씀을 하셨느냐?' 하고 물어라.",
+    Kor:"이제 예언자에게 물을 때에는 '주께서 무엇이라고 대답을 하셨느냐? 주께서 무슨 말씀을 하셨느냐?' 하고 물어라.",
     Chn:"你们要对先知如此说：『耶和华回答你什么？』『耶和华说了什么呢？』",
     Eng:"This is what you keep saying to a prophet: 'What is the LORD'S answer to you?' or 'What has the LORD spoken?'",
     Ind:"Beginilah engkau harus berkata kepada nabi: Apakah jawab TUHAN kepadamu? atau: Apakah firman TUHAN?"
   },
   {Bible:"Jeremiah", Chapter:23, Verse:38, Page:1,
-    Kor:"내가 사람을 보내서 '부담이 되는 주님의 말씀'이라는 말을 쓰지 말라고 했는데도 내 명령을 어기고 '부담이 되는 주님의 말씀'이라는 말을 써서 말한다면, 너는 그들에게 이르기를, 반드시",
+    Kor:"내가 사람을 보내서 '부담이 되는 주의 말씀'이라는 말을 쓰지 말라고 했는데도 내 명령을 어기고 '부담이 되는 주의 말씀'이라는 말을 써서 말한다면, 너는 그들에게 이르기를, 반드시",
     Chn:"你们若说『耶和华的默示』，耶和华就如此说：『因你们说「耶和华的默示」这句话，我也打发人到你们那里去，告诉你们不可说「耶和华的默示」。』",
     Eng:"Although you claim, 'This is the oracle of the LORD,' this is what the LORD says: You used the words, 'This is the oracle of the LORD,' even though I told you that you must not claim, 'This is the oracle of the LORD.'",
     Ind:"Tetapi jika kamu masih berbicara tentang Sabda yang dibebankan oleh TUHAN, maka beginilah firman TUHAN: Oleh karena kamu masih memakai ungkapan Sabda yang dibebankan oleh TUHAN itu, sekalipun Aku mengutus orang kepadamu mengatakan: Janganlah kamu berbicara tentang Sabda yang dibebankan oleh TUHAN,"
   },
   {Bible:"Jeremiah", Chapter:23, Verse:39, Page:1,
-    Kor:"내가 그들을 뽑아서, 멀리 던져 버리겠다 하더라고 전하여라. 그들뿐만 아니라 그들과 그들의 조상에게 준 이 도성도 함께 뽑아서, 멀리 던져 버리겠다 하더라고 전하여라.",
+    Kor:"내가 그들을 뽑아서, 멀리 던져 버리겠다고 하더라고 전하여라. 그들뿐만 아니라 그들과 그들의 조상에게 준 이 도성도 함께 뽑아서, 멀리 던져 버리겠다고 하더라고 전하여라.",
     Chn:"所以我必全然忘记你们，将你们和我所赐给你们并你们列祖的城撇弃了；",
     Eng:"Therefore, I will surely forget you and cast you out of my presence along with the city I gave to you and your fathers.",
     Ind:"maka sesungguhnya, Aku akan menangkap kamu dan membuang kamu dari hadapan-Ku, kamu serta kota yang telah Kuberikan kepadamu dan kepada nenek moyangmu itu."
   },
   {Bible:"Jeremiah", Chapter:23, Verse:40, Page:1,
-    Kor:"내가 이와 같이 하여, 그들이 잊을 수 없는 영원한 수치와 영원한 치욕들을 당하게 하겠다 말했다고 전하여라.\"",
+    Kor:"내가 이와 같이 하여, 그들이 잊을 수 없는 영원한 수치와 영원한 치욕들을 당하게 하겠다고 말했다고 전하여라.\"",
     Chn:"又必使永远的凌辱和长久的羞耻临到你们，是不能忘记的。」",
     Eng:"I will bring upon you everlasting disgrace--everlasting shame that will not be forgotten.\"",
     Ind:"Aku akan menimpakan kepadamu aib yang kekal dan noda yang kekal yang tidak akan terlupakan.\""

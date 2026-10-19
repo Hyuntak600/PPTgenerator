@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",53,12);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:53, Verse:1, Page:1,
-    Kor:"a우리가 들은 것을 누가 믿었느냐? 주님의 능력이 누구에게 나타났느냐? (a 또는 '우리가 전한 것을')",
+    Kor:"우리가 들은 것을 누가 믿었느냐? 주의 능력이 누구에게 나타났느냐?",
     Chn:"我们所传的有谁信呢？ 耶和华的膀臂向谁显露呢？",
     Eng:"Who has believed our message and to whom has the arm of the LORD been revealed?",
     Ind:"Siapakah yang percaya kepada berita yang kami dengar, dan kepada siapakah tangan kekuasaan TUHAN dinyatakan?"
   },
   {Bible:"Isaiah", Chapter:53, Verse:2, Page:1,
-    Kor:"그는 주님 앞에서, 마치 연한 순과 같이, 마른 땅에서 나온 싹과 같이 자라서, 그에게는 고운 모양도 없고, 훌륭한 풍채도 없으니, 우리가 보기에 흠모할 만한 아름다운 모습이 없다.",
+    Kor:"그는 주 앞에서, 마치 연한 순과 같이, 마른 땅에서 나온 싹과 같이 자라서, 그에게는 고운 모양도 없고, 훌륭한 풍채도 없으니, 우리가 보기에 흠모할 만한 아름다운 모습이 없다.",
     Chn:"他在耶和华面前生长如嫩芽， 像根出于干地。 他无佳形美容； 我们看见他的时候， 也无美貌使我们羡慕他。",
     Eng:"He grew up before him like a tender shoot, and like a root out of dry ground. He had no beauty or majesty to attract us to him, nothing in his appearance that we should desire him.",
     Ind:"Sebagai taruk ia tumbuh di hadapan TUHAN dan sebagai tunas dari tanah kering. Ia tidak tampan dan semaraknyapun tidak ada sehingga kita memandang dia, dan rupapun tidak, sehingga kita menginginkannya."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita; ganjaran yang mendatangkan keselamatan bagi kita ditimpakan kepadanya, dan oleh bilur-bilurnya kita menjadi sembuh."
   },
   {Bible:"Isaiah", Chapter:53, Verse:6, Page:1,
-    Kor:"우리는 모두 양처럼 길을 잃고, 각기 제 갈 길로 흩어졌으나, 주님께서 우리 모두의 죄악을 그에게 지우셨다.",
+    Kor:"우리는 모두 양처럼 길을 잃고, 각기 제 갈 길로 흩어졌으나, 주께서 우리 모두의 죄악을 그에게 지우셨다.",
     Chn:"我们都如羊走迷； 各人偏行己路； 耶和华使我们众人的罪孽都归在他身上。",
     Eng:"We all, like sheep, have gone astray, each of us has turned to his own way; and the LORD has laid on him the iniquity of us all.",
     Ind:"Kita sekalian sesat seperti domba, masing-masing kita mengambil jalannya sendiri, tetapi TUHAN telah menimpakan kepadanya kejahatan kita sekalian."
   },
   {Bible:"Isaiah", Chapter:53, Verse:7, Page:1,
-    Kor:"그는 굴욕을 당하고 고문을 당하였으나, 아무 말도 하지 않았다. 마치 도살장으로 끌려가는 어린 양처럼, 마치 털 깎는 사람 앞에서 잠잠한 암양처럼, 끌려가기만 할 뿐, 아무 말도 하지 않았다.",
+    Kor:"그는 굴욕을 당하고 고문을 당하였으나, 아무 말도 하지 않았다. 마치 도살장으로 끌려가는 어린 양처럼 마치 털 깎는 사람 앞에서 잠잠한 암양처럼, 끌려가기만 할 뿐, 아무 말도 하지 않았다.",
     Chn:"他被欺压， 在受苦的时候却不开口 ； 他像羊羔被牵到宰杀之地， 又像羊在剪毛的人手下无声， 他也是这样不开口。",
     Eng:"He was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so he did not open his mouth.",
     Ind:"Dia dianiaya, tetapi dia membiarkan diri ditindas dan tidak membuka mulutnya seperti anak domba yang dibawa ke pembantaian; seperti induk domba yang kelu di depan orang-orang yang menggunting bulunya, ia tidak membuka mulutnya."
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Sesudah penahanan dan penghukuman ia terambil, dan tentang nasibnya siapakah yang memikirkannya? Sungguh, ia terputus dari negeri orang-orang hidup, dan karena pemberontakan umat-Ku ia kena tulah."
   },
   {Bible:"Isaiah", Chapter:53, Verse:9, Page:1,
-    Kor:"그는 폭력을 휘두르지도 않았고, 거짓말도 하지 않았지만, 사람들은 그에게 악한 사람과 함께 묻힐 무덤을 주었고, b죽어서 부자와 함께 들어가게 하였다. (b 사해 사본에는 '부자와 함께 들어 갈 묘실을 마련하였다')",
+    Kor:"그는 폭력을 휘두르지도 않았고, 거짓말도 하지 않았지만, 사람들은 그에게 악한 사람과 함께 묻힐 무덤을 주었고, 죽어서 부자와 함께 들어가게 하였다.",
     Chn:"他虽然未行强暴， 口中也没有诡诈， 人还使他与恶人同埋； 谁知死的时候与财主同葬。",
     Eng:"He was assigned a grave with the wicked, and with the rich in his death, though he had done no violence, nor was any deceit in his mouth.",
     Ind:"Orang menempatkan kuburnya di antara orang-orang fasik, dan dalam matinya ia ada di antara penjahat-penjahat, sekalipun ia tidak berbuat kekerasan dan tipu tidak ada dalam mulutnya."
   },
   {Bible:"Isaiah", Chapter:53, Verse:10, Page:1,
-    Kor:"주님께서 그를 상하게 하고자 하셨다. 주님께서 그를 병들게 하셨다. 그가 그의 영혼을 속건제물로 여기면, 그는 자손을 볼 것이며, 오래오래 살 것이다. 주님께서 세우신 뜻을 그가 이루어 드릴 것이다.",
+    Kor:"주께서 그를 상하게 하고자 하셨다. 주께서 그를 병들게 하셨다. 그가 그의 영혼을 속죄제물로 여기면, 그는 자손을 볼 것이며, 오래오래 살 것이다. 주께서 세우신 뜻을 그가 이루어 드릴 것이다.",
     Chn:"耶和华却定意将他压伤， 使他受痛苦。 耶和华以他为赎罪祭。 他必看见后裔，并且延长年日。 耶和华所喜悦的事必在他手中亨通。",
     Eng:"Yet it was the LORD'S will to crush him and cause him to suffer, and though the LORD makes his life a guilt offering, he will see his offspring and prolong his days, and the will of the LORD will prosper in his hand.",
     Ind:"Tetapi TUHAN berkehendak meremukkan dia dengan kesakitan. Apabila ia menyerahkan dirinya sebagai korban penebus salah, ia akan melihat keturunannya, umurnya akan lanjut, dan kehendak TUHAN akan terlaksana olehnya."
   },
   {Bible:"Isaiah", Chapter:53, Verse:11, Page:1,
-    Kor:"\"고난을 당하고 난 뒤에, c그는 생명의 빛을 보고 만족할 것이다. 나의 의로운 종이 자기의 지식으로 많은 사람을 의롭게 할 것이다. 그는 다른 사람들이 받아야 할 형벌을 자기가 짊어질 것이다. (c 사해 사본과 칠십인역을 따름. 마소라 본문에는 '그는 고난의 결과를 보고 만족할 것이다')",
+    Kor:"\"고난을 당하고 난 뒤에, 그는 생명의 빛을 보고 만족할 것이다. 나의 의로운 종이 자기의 지식으로 많은 사람을 의롭게 할 것이다. 그는 다른 사람들이 받아야 할 형벌을 자기가 짊어질 것이다.\"",
     Chn:"他必看见自己劳苦的功效， 便心满意足。 有许多人因认识我的义仆得称为义； 并且他要担当他们的罪孽。",
     Eng:"After the suffering of his soul, he will see the light of life and be satisfied; by his knowledge my righteous servant will justify many, and he will bear their iniquities.",
     Ind:"Sesudah kesusahan jiwanya ia akan melihat terang dan menjadi puas; dan hamba-Ku itu, sebagai orang yang benar, akan membenarkan banyak orang oleh hikmatnya, dan kejahatan mereka dia pikul."
   },
   {Bible:"Isaiah", Chapter:53, Verse:12, Page:1,
-    Kor:"그러므로 나는 그가 존귀한 자들과 함께 자기 몫을 차지하게 하며, 강한 자들과 함께 전리품을 나누게 하겠다. 그는 죽는 데까지 자기의 영혼을 서슴없이 내맡기고, 남들이 죄인처럼 여기는 것도 마다하지 않았다. 그는 많은 사람의 죄를 대신 짊어졌고, 죄 지은 사람들을 살리려고 중재에 나선 것이다.\"",
+    Kor:"그러므로 나는 그가 존귀한 자들과 함께 자기 몫을 차지하게 하며, 강한 자들과 함께 전리품을 나누게 하겠다. 그는 죽는 데까지 자기의 영혼을 서슴없이 내맡기고, 남들이 죄인처럼 여기는 것도 마다하지 않았다. 그는 많은 사람의 죄를 대신 짊어졌고, 죄 지은 사람들을 살리려고 중재에 나선 것이다.",
     Chn:"所以，我要使他与位大的同分， 与强盛的均分掳物。 因为他将命倾倒，以致于死； 他也被列在罪犯之中。 他却担当多人的罪， 又为罪犯代求。",
     Eng:"Therefore I will give him a portion among the great, and he will divide the spoils with the strong, because he poured out his life unto death, and was numbered with the transgressors. For he bore the sin of many, and made intercession for the transgressors.",
     Ind:"Sebab itu Aku akan membagikan kepadanya orang-orang besar sebagai rampasan, dan ia akan memperoleh orang-orang kuat sebagai jarahan, yaitu sebagai ganti karena ia telah menyerahkan nyawanya ke dalam maut dan karena ia terhitung di antara pemberontak-pemberontak, sekalipun ia menanggung dosa banyak orang dan berdoa untuk pemberontak-pemberon"

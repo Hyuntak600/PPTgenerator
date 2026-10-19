@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",29,32);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:29, Verse:1, Page:1,
-    Kor:"<포로에게 보낸 예레미야의 편지> 이것은 예언자 예레미야가 예루살렘에서 보낸 편지로서, 포로로 잡혀 간 장로들 가운데서 살아 남은 사람들을 비롯하여, 느부갓네살이 예루살렘에서 바빌로니아로 잡아간 제사장들과 예언자들과 온 백성에게 보낸 것이다.",
+    Kor:"이것은 예언자 예레미야가 예루살렘에서 보낸 편지로서, 포로로 잡혀 간 장로들 가운데서 살아 남은 사람들을 비롯하여, 느부갓네살이 예루살렘에서 바빌로니아로 잡아간 제사장들과 예언자들과 온 백성에게 보낸 것이다.",
     Chn:"先知耶利米从耶路撒冷寄信与被掳的祭司、先知，和众民，并生存的长老，就是尼布甲尼撒从耶路撒冷掳到巴比伦去的。（",
     Eng:"This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon.",
     Ind:"Beginilah bunyi surat yang dikirim oleh nabi Yeremia dari Yerusalem kepada tua-tua di antara orang buangan, kepada imam-imam, kepada nabi-nabi dan kepada seluruh rakyat yang telah diangkut ke dalam pembuangan oleh Nebukadnezar dari Yerusalem ke Babel."
   },
   {Bible:"Jeremiah", Chapter:29, Verse:2, Page:1,
-    Kor:"이 때는 a여고냐 왕과 그의 어머니와 내시들과 유다와 예루살렘의 고관들과 기술자들과 대장장이들이 예루살렘에서 떠난 뒤이다.(a 일명 '여호야긴')",
+    Kor:"이 때는 여고니야 왕과 그의 어머니와 내시들과 유다와 예루살렘의 고관들과 기술자들과 대장장이들이 예루살렘에서 떠난 뒤이다.",
     Chn:"这在耶哥尼雅王和太后、太监，并犹大、耶路撒冷的首领，以及工匠、铁匠都离了耶路撒冷以后。）",
     Eng:"(This was after King Jehoiachin and the queen mother, the court officials and the leaders of Judah and Jerusalem, the craftsmen and the artisans had gone into exile from Jerusalem.)",
     Ind:"Itu terjadi sesudah raja Yekhonya beserta ibu suri, pegawai-pegawai istana, pemuka-pemuka Yehuda dan Yerusalem, tukang dan pandai besi telah keluar dari Yerusalem."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"ambillah isteri untuk memperanakkan anak laki-laki dan perempuan; ambilkanlah isteri bagi anakmu laki-laki dan carikanlah suami bagi anakmu perempuan, supaya mereka melahirkan anak laki-laki dan perempuan, agar di sana kamu bertambah banyak dan jangan berkurang!"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:7, Page:1,
-    Kor:"또 너희는, 내가 사로잡혀 가게 한 그 성읍이 평안을 누리도록 노력하고, 그 성읍이 번영하도록 나 주에게 기도하여라. 그 성읍이 평안해야, 너희도 평안할 것이기 때문이다.",
+    Kor:"또 너희는, 내가 사로잡혀 가게 한 그 성읍이 평안을 누리도록 노력하고, 그 성읍이 번영하도록 나 주께 기도하여라. 그 성읍이 평안해야, 너희도 평안할 것이기 때문이다.",
     Chn:"我所使你们被掳到的那城，你们要为那城求平安，为那城祷告耶和华；因为那城得平安，你们也随着得平安。",
     Eng:"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.\"",
     Ind:"Usahakanlah kesejahteraan kota ke mana kamu Aku buang, dan berdoalah untuk kota itu kepada TUHAN, sebab kesejahteraannya adalah kesejahteraanmu."
   },
   {Bible:"Jeremiah", Chapter:29, Verse:8, Page:1,
-    Kor:"나 만군의 주, 이스라엘의 하나님이 분명히 말한다. 너희는 지금 너희 가운데 있는 예언자들에게 속지 말고, 점쟁이들에게도 속지 말고, 꿈쟁이들의 꿈 이야기도 곧이듣지 말아라.",
+    Kor:"나 만군의 주, 이스라엘의 하나님이 분명히 이렇게 말한다. 너희는 지금 너희 가운데 있는 예언자들에게도 속지 말고, 점쟁이들에게도 속지 말고, 꿈쟁이들의 꿈 이야기도 곧이듣지 말아라.",
     Chn:"万军之耶和华—以色列的　神如此说：不要被你们中间的先知和占卜的诱惑，也不要听信自己所做的梦；",
     Eng:"Yes, this is what the LORD Almighty, the God of Israel, says: \"Do not let the prophets and diviners among you deceive you. Do not listen to the dreams you encourage them to have.",
     Ind:"Sungguh, beginilah firman TUHAN semesta alam, Allah Israel: Janganlah kamu diperdayakan oleh nabi-nabimu yang ada di tengah-tengahmu dan oleh juru-juru tenungmu, dan janganlah kamu dengarkan mimpi-mimpi yang mereka mimpikan!"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sebab beginilah firman TUHAN: Apabila telah genap tujuh puluh tahun bagi Babel, barulah Aku memperhatikan kamu. Aku akan menepati janji-Ku itu kepadamu dengan mengembalikan kamu ke tempat ini."
   },
   {Bible:"Jeremiah", Chapter:29, Verse:11, Page:1,
-    Kor:"너희를 두고 계획하고 있는 일들은 오직 나만이 알고 있다. 내가 너희를 두고 계획하고 있는 일들은 재앙이 아니라 번영이다. 너희에게 미래에 대한 희망을 주려는 것이다. 나 주의 말이다.",
+    Kor:"너희를 두고 계획하고 있는 일들은 오직 나만이 알고 있다. 내가 너희를 두고 계획하고 있는 일들은 재앙이 아니라 번영으로서, 너희에게 미래에 대한 희망을 주는 것이다. 나 주의 말이다.",
     Chn:"耶和华说：我知道我向你们所怀的意念是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。",
     Eng:"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future.",
     Ind:"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"apabila kamu mencari Aku, kamu akan menemukan Aku; apabila kamu menanyakan Aku dengan segenap hati,"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:14, Page:1,
-    Kor:"내가 너희를 만나 주겠다. 나 주의 말이다. 내가 너희를 포로생활에서 돌아오게 하겠다. 내가 너희를 쫓아 보냈던 세상의 모든 나라, 모든 지역에서 너희를 모아 오겠다. 내가 너희를 포로로 보냈으나, 나는 b너희를 그 곳에서 너희의 고향으로 다시 데려오겠다. 나 주의 말이다.(b 또는 '너희의 운명을 회복시켜 주겠다')",
+    Kor:"내가 너희를 만나 주겠다. 나 주의 말이다. 내가 너희를 포로생활에서 돌아오게 하겠다. 내가 너희를 쫓아 보냈던 세상의 모든 나라, 모든 지역에서 너희를 모아 오겠다. 내가 너희를 포로로 보냈으나, 나는 너희를 그 곳에서 너희의 고향으로 다시 데려오겠다. 나 주의 말이다.",
     Chn:"耶和华说：我必被你们寻见，我也必使你们被掳的人归回，将你们从各国中和我所赶你们到的各处招聚了来，又将你们带回我使你们被掳掠离开的地方。这是耶和华说的。",
     Eng:"I will be found by you,\" declares the LORD, \"and will bring you back from captivity. I will gather you from all the nations and places where I have banished you,\" declares the LORD, \"and will bring you back to the place from which I carried you into exile.\"",
     Ind:"Aku akan memberi kamu menemukan Aku, demikianlah firman TUHAN, dan Aku akan memulihkan keadaanmu dan akan mengumpulkan kamu dari antara segala bangsa dan dari segala tempat ke mana kamu telah Kuceraiberaikan, demikianlah firman TUHAN, dan Aku akan mengembalikan kamu ke tempat yang dari mana Aku telah membuang kamu. --"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:15, Page:1,
-    Kor:"○너희는 '주님께서는 바빌로니아에서도 우리에게 예언자들을 보내 주시지 않았느냐?' 하고 말한다.",
+    Kor:"○너희는 '주께서는 바빌로니아에서도 우리에게 예언자들을 보내 주시지 않았느냐?' 하고 말한다.",
     Chn:"「你们说：『耶和华在巴比伦为我们兴起先知』；",
     Eng:"You may say, \"The LORD has raised up prophets for us in Babylon,\"",
     Ind:"Memang kamu berkata: TUHAN telah membangkitkan nabi-nabi bagi kami di Babel. --"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:16, Page:1,
-    Kor:"○그렇기 때문에 나 주가 지금 다윗의 보좌에 앉아 있는 왕에게, 그리고 지금 이 도성에 살고 있는 모든 백성, 곧 너희와 함께 포로로 잡혀 가지 않은 너희의 친척에게 말한다.",
+    Kor:"○그렇기 때문에 나 주가 지금 다윗의 보좌에 앉아 있는 왕에게, 그리고 지금 이 도성에 살고 있는 모든 백성, 곧 너희와 함께 포로로 잡혀 가지 않은 너희의 형제들에게 말한다.",
     Chn:"所以耶和华论到坐大卫宝座的王和住在这城里的一切百姓，就是未曾与你们一同被掳的弟兄，",
     Eng:"but this is what the LORD says about the king who sits on David's throne and all the people who remain in this city, your countrymen who did not go with you into exile--",
     Ind:"Sungguh, beginilah firman TUHAN tentang raja yang duduk di atas takhta Daud dan tentang seluruh rakyat yang diam di kota ini, yakni saudara-saudaramu yang tidak keluar beserta kamu ke dalam pembuangan:"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Beginilah firman TUHAN semesta alam, Allah Israel, tentang Ahab bin Kolaya dan tentang Zedekia bin Maaseya, orang-orang yang bernubuat palsu kepadamu demi nama-Ku: Sesungguhnya Aku akan menyerahkan mereka ke dalam tangan Nebukadnezar, raja Babel, yang akan memarang mereka mati di depan matamu sendiri,"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:22, Page:1,
-    Kor:"그리고 그들 때문에, 바빌로니아에 사는 모든 유다의 포로 사이에서는 '너도 주님께 형벌을 받아, 시드기야와 아합처럼 바빌로니아 왕에게 화형이나 당해라' 하는 저주가 생길 것이다.",
+    Kor:"그리고 그들 때문에, 바빌로니아에 사는 모든 유다의 포로 사이에서는 '너도 주께 형벌을 받아, 시드기야와 아합처럼 바빌로니아 왕에게 화형이나 당해라' 하는 저주가 생길 것이다.",
     Chn:"住巴比伦一切被掳的犹大人必借这二人赌咒说：『愿耶和华使你像巴比伦王在火中烧的西底家和亚哈一样。』",
     Eng:"Because of them, all the exiles from Judah who are in Babylon will use this curse: 'The LORD treat you like Zedekiah and Ahab, whom the king of Babylon burned in the fire.'",
     Ind:"sehingga dari keadaan mereka akan dijadikan suatu kutuk oleh semua orang buangan dari Yehuda yang ada di Babel, demikian: Biarlah TUHAN memperlakukan kamu seperti Zedekia dan Ahab yang telah dipanggang oleh raja negeri Babel di dalam api!,"
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"oleh karena mereka telah melakukan kebebalan di Israel, telah berzinah dengan isteri sesama mereka dan telah mengucapkan demi nama-Ku perkataan dusta yang tidak Kupesankan kepada mereka. Aku sendirilah yang mengetahui dan menyaksikannya, demikianlah firman TUHAN.\""
   },
   {Bible:"Jeremiah", Chapter:29, Verse:24, Page:1,
-    Kor:"<스마야의 편지> ○만군의 주 이스라엘의 하나님께서 느헬람 사람 스마야에게 전하라고 하시면서 나에게 말씀하셨다. 스마야는 이미 자기의 이름으로 예루살렘에 있는 모든 백성과 마아세야의 아들 스바냐 제사장과 모든 제사장에게 편지를 보냈었다. 스바냐에게 보낸 편지의 내용은 다음과 같다.(25절이 포함되었음)",
+    Kor:"○만군의 주 이스라엘의 하나님께서 느헬람 사람 스마야에게 전하라고 하시면서 나에게 말씀하셨다. 스마야는 이미 자기의 이름으로 예루살렘에 있는 모든 백성과 마아세야의 아들 스바냐 제사장과 모든 제사장에게 편지를 보냈었다. 스바냐에게 보낸 편지의 내용은 다음과 같다.",
     Chn:"「论到尼希兰人示玛雅，你当说，",
     Eng:"Tell Shemaiah the Nehelamite,",
     Ind:"Kepada Semaya, orang Nehelam itu, haruslah kaukatakan:"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:25, Page:1,
-    Kor:"○만군의 주 이스라엘의 하나님께서 느헬람 사람 스마야에게 전하라고 하시면서 나에게 말씀하셨다. 스마야는 이미 자기의 이름으로 예루살렘에 있는 모든 백성과 마아세야의 아들 스바냐 제사장과 모든 제사장에게 편지를 보냈었다. 스바냐에게 보낸 편지의 내용은 다음과 같다.(24절에 포함되었음)",
+    Kor:"(24절에 포함되어 있음)",
     Chn:"万军之耶和华—以色列的　神如此说：你曾用自己的名寄信给耶路撒冷的众民和祭司玛西雅的儿子西番雅，并众祭司，说：",
     Eng:"\"This is what the LORD Almighty, the God of Israel, says: You sent letters in your own name to all the people in Jerusalem, to Zephaniah son of Maaseiah the priest, and to all the other priesps. You said to Zephaniah,",
     Ind:"\"Beginilah firman TUHAN semesta alam, Allah Israel: Oleh sebab engkau telah mengirim surat atas namamu sendiri kepada seluruh rakyat yang ada di Yerusalem, yaitu kepada imam Zefanya bin Maaseya dan kepada segala imam, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:26, Page:1,
-    Kor:"\"스바냐 제사장님, 주님께서 여호야다 제사장을 대신하여 제사장님을 주님의 성전 감독관으로 세우셨을 때에는, 제사장님께서 예언자 행세를 하는 미친 자들을 다 붙잡아 차꼬를 채우거나, 목에 칼을 씌우는 일을 맡기시려고 그렇게 하셨습니다.",
+    Kor:"\"스바냐 제사장님, 주께서 여호야다 제사장을 대신하여 제사장님을 주의 성전 감독관으로 세우셨을 때에는, 제사장님께서, 예언자 행세를 하는 미친 자들을 다 붙잡아 차꼬를 채우거나, 목에 칼을 씌우는 일을 맡기시려고 그렇게 하셨습니다.",
     Chn:"『耶和华已经立你西番雅为祭司，代替祭司耶何耶大，使耶和华殿中有官长，好将一切狂妄自称为先知的人用枷枷住，用锁锁住。",
     Eng:"'The LORD has appointed you priest in place of Jehoiada to be in charge of the house of the LORD; you should put any madman who acts like a prophet into the stocks and neck-irons.",
     Ind:"TUHAN telah mengangkat engkau, Zefanya, menjadi imam menggantikan imam Yoyada, supaya engkau menjadi pengawas di rumah TUHAN untuk memasungkan setiap orang gila yang menganggap dirinya nabi dan untuk merantai lehernya dengan besi."
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Surat ini dibacakan oleh imam Zefanya ke telinga nabi Yeremia."
   },
   {Bible:"Jeremiah", Chapter:29, Verse:30, Page:1,
-    Kor:"그 때에 주님께서는 스마야에 관한 다음과 같은 예언을 바빌론에 있는 모든 포로에게 보내라고 나에게 말씀하셨다. \"나 주가 느헬람 사람 스마야와 그의 자손에게 벌을 내리겠다. 나는 그를 예언자로 보내지 않았는데, 그는 마치 자기가 예언자라도 되기나 한 것처럼 예언하였고, 너희에게 그 거짓 예언을 믿게 하였다. 그러므로 나 주가 말한다. 스마야가 그들에게 나 주를 24 29:거역하게 하는 말을 하였으니, 그는 자손을 보지 못할 것이다. 이 백성과 함께 어울려 살 자손이 없을 것이다. 또 내가 지금 내 백성에게 베풀 복을 마련하고 있지만 그의 자손 가운데는 그 복을 누릴 사람이 없을 것이다. 나 주의 말이다.\"(31-32절이 포함되었음)",
+    Kor:"그 때에 주께서는 스마야에 관한 다음과 같은 예언을 바빌론에 있는 모든 포로에게 보내라고 나에게 말씀하셨다. \"나 주가 느헬람 사람 스마야와 그의 자손에게 벌을 내리겠다. 나는 그를 예언자로 보내지 않았는데, 그는 마치 자기가 예언자라도 되기나 한 것처럼 예언하였고, 너희에게 그 거짓 예언을 믿게 하였다. 그러므로 나 주가 말한다. 스마야가 그들에게 나 주를 거역하게 하는 말을 하였으니, 그는 자손을 보지 못할 것이다. 이 백성과 함께 어울려 살 자손이 없을 것이다. 또 내가 지금 내 백성에게 베풀 복을 마련하고 있지만 그의 자손 가운데는 그 복을 누릴 사람이 없을 것이다. 나 주의 말이다.\"",
     Chn:"于是耶和华的话临到耶利米说：",
     Eng:"Then the word of the LORD came to Jeremiah:",
     Ind:"Maka datanglah firman TUHAN kepada Yeremia, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:31, Page:1,
-    Kor:"그 때에 주님께서는 스마야에 관한 다음과 같은 예언을 바빌론에 있는 모든 포로에게 보내라고 나에게 말씀하셨다. \"나 주가 느헬람 사람 스마야와 그의 자손에게 벌을 내리겠다. 나는 그를 예언자로 보내지 않았는데, 그는 마치 자기가 예언자라도 되기나 한 것처럼 예언하였고, 너희에게 그 거짓 예언을 믿게 하였다. 그러므로 나 주가 말한다. 스마야가 그들에게 나 주를 24 29:거역하게 하는 말을 하였으니, 그는 자손을 보지 못할 것이다. 이 백성과 함께 어울려 살 자손이 없을 것이다. 또 내가 지금 내 백성에게 베풀 복을 마련하고 있지만 그의 자손 가운데는 그 복을 누릴 사람이 없을 것이다. 나 주의 말이다.\"(30절에  포함되었음)",
+    Kor:"(30절에 포함되어 있음)",
     Chn:"「你当寄信给一切被掳的人说：『耶和华论到尼希兰人示玛雅说：因为示玛雅向你们说预言，我并没有差遣他，他使你们倚靠谎言；",
     Eng:"\"Send this message to all the exiles: 'This is what the LORD says about Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, even though I did not send him, and has led you to believe a lie,",
     Ind:"\"Kirimlah pesan kepada semua orang buangan itu: Beginilah firman TUHAN tentang Semaya, orang Nehelam itu: Oleh karena Semaya telah bernubuat kepadamu, sekalipun Aku tidak mengutusnya, dan ia telah membuat kamu percaya kepada dusta,"
   },
   {Bible:"Jeremiah", Chapter:29, Verse:32, Page:1,
-    Kor:"그 때에 주님께서는 스마야에 관한 다음과 같은 예언을 바빌론에 있는 모든 포로에게 보내라고 나에게 말씀하셨다. \"나 주가 느헬람 사람 스마야와 그의 자손에게 벌을 내리겠다. 나는 그를 예언자로 보내지 않았는데, 그는 마치 자기가 예언자라도 되기나 한 것처럼 예언하였고, 너희에게 그 거짓 예언을 믿게 하였다. 그러므로 나 주가 말한다. 스마야가 그들에게 나 주를 24 29:거역하게 하는 말을 하였으니, 그는 자손을 보지 못할 것이다. 이 백성과 함께 어울려 살 자손이 없을 것이다. 또 내가 지금 내 백성에게 베풀 복을 마련하고 있지만 그의 자손 가운데는 그 복을 누릴 사람이 없을 것이다. 나 주의 말이다.\"(30절에  포함되었음)",
+    Kor:"(30절에 포함되어 있음)",
     Chn:"所以耶和华如此说：我必刑罚尼希兰人示玛雅和他的后裔，他必无一人存留住在这民中，也不得见我所要赐与我百姓的福乐，因为他向耶和华说了叛逆的话。这是耶和华说的。』」",
     Eng:"this is what the LORD says: I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good things I will do for my people, declares the LORD, because he has preached rebellion against me.'\"",
     Ind:"maka beginilah firman TUHAN: Sesungguhnya, Aku akan menghukum Semaya, orang Nehelam itu, dan keturunannya: tidak ada seorangpun dari keluarganya akan diam di tengah-tengah bangsa ini untuk melihat yang baik yang akan Kulakukan kepada umat-Ku, demikianlah firman TUHAN, sebab ia telah mengajak murtad terhadap TUHAN.\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Revelation",3,22);
 BibleDB.add([
   {Bible:"Revelation", Chapter:3, Verse:1, Page:1,
-    Kor:"<사데 교회에 보내는 말씀> \"사데 교회의 a심부름꾼에게 이렇게 써 보내어라. '하나님의 일곱 영과 일곱 별을 가지신 분이 말씀하신다. ○나는 네 행위를 안다. 너는 살아 있다는 이름은 있으나, 실상은 죽은 것이다.(a 또는 '천사')",
+    Kor:"\"사데 교회의 천사에게 이렇게 써 보내어라. '하나님의 일곱 영과 일곱 별을 가지신 분이 말씀하신다. ○나는 네 행위를 안다. 너는 살아 있다는 이름은 가졌으나, 실상은 죽은 것이다.",
     Chn:"「你要写信给撒狄教会的使者，说：『那有　神的七灵和七星的，说：我知道你的行为，按名你是活的，其实是死的。",
     Eng:"\"To the angel of the church in Sardis write: These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Sardis: Inilah firman Dia, yang memiliki ketujuh Roh Allah dan ketujuh bintang itu: Aku tahu segala pekerjaanmu: engkau dikatakan hidup, padahal engkau mati!"
   },
   {Bible:"Revelation", Chapter:3, Verse:2, Page:1,
-    Kor:"깨어나라. 그리고 아직 남아 있지만 막 죽어 가는 자들을 굳건하게 하여라. 나는 네 행위가 나의 하나님 앞에서 완전하다고는 생각하지 않는다.",
+    Kor:"깨어나라. 그리고 아직 남아 있지만 막 죽어 가는 자들을 굳건하게 하여라. 나는 네 행위가 나의 하나님 앞에서 완전하다고는 보지 않는다.",
     Chn:"你要警醒，坚固那剩下将要衰微的；因我见你的行为，在我　神面前，没有一样是完全的。",
     Eng:"Wake up! Strengthen what remains and is about to die, for I have not found your deeds complete in the sight of my God.",
     Ind:"Bangunlah, dan kuatkanlah apa yang masih tinggal yang sudah hampir mati, sebab tidak satupun dari pekerjaanmu Aku dapati sempurna di hadapan Allah-Ku."
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Tetapi di Sardis ada beberapa orang yang tidak mencemarkan pakaiannya; mereka akan berjalan dengan Aku dalam pakaian putih, karena mereka adalah layak untuk itu."
   },
   {Bible:"Revelation", Chapter:3, Verse:5, Page:1,
-    Kor:"이기는 사람은 이와 같이 흰 옷을 입을 것인데, 나는 그의 이름을 생명책에서 지워 버리지 않을 것이며, 내 아버지 앞과 아버지의 천사들 앞에서 그의 이름을 시인할 것이다.",
+    Kor:"이기는 사람은 이와 같이 흰 옷을 입을 것인데, 나는 그의 이름을 생명책에서 지워 버리지 않을 것이며, 내 아버지 앞에서, 그리고 아버지의 천사들 앞에서 그의 이름을 시인할 것이다.",
     Chn:"凡得胜的必这样穿白衣，我也必不从生命册上涂抹他的名；且要在我父面前，和我父众使者面前，认他的名。",
     Eng:"He who overcomes will, like them, be dressed in white. I will never blot out his name from the book of life, but will acknowledge his name before my Father and his angels.",
     Ind:"Barangsiapa menang, ia akan dikenakan pakaian putih yang demikian; Aku tidak akan menghapus namanya dari kitab kehidupan, melainkan Aku akan mengaku namanya di hadapan Bapa-Ku dan di hadapan para malaikat-Nya."
   },
   {Bible:"Revelation", Chapter:3, Verse:6, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.\""
   },
   {Bible:"Revelation", Chapter:3, Verse:7, Page:1,
-    Kor:"<빌라델비아 교회에 보내는 말씀> ○\"빌라델비아 교회의 a심부름꾼에게 이렇게 써 보내라.  '거룩하신 분, 참되신 분, 다윗의 열쇠를 가지고 계신 분, 여시면 닫을 사람이 없고 닫으시면 열 사람이 없는 그분이 말씀하신다. (a 또는 '천사')",
+    Kor:"○\"빌라델비아 교회의 천사에게 이렇게 써 보내어라. '거룩하신 분, 참되신 분, 다윗의 열쇠를 가지고 계신 분, 여시면 닫을 사람이 없고, 닫으시면 열 사람이 없는 그분이 말씀하신다.",
     Chn:"「你要写信给非拉铁非教会的使者，说：『那圣洁、真实、拿着大卫的钥匙、开了就没有人能关、关了就没有人能开的，说：",
     Eng:"\"To the angel of the church in Philadelphia write: These are the words of him who is holy and true, who holds the key of David. What he opens no one can shut, and what he shuts no one can open.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Filadelfia: Inilah firman dari Yang Kudus, Yang Benar, yang memegang kunci Daud; apabila Ia membuka, tidak ada yang dapat menutup; apabila Ia menutup, tidak ada yang dapat membuka."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Aku tahu segala pekerjaanmu: lihatlah, Aku telah membuka pintu bagimu, yang tidak dapat ditutup oleh seorangpun. Aku tahu bahwa kekuatanmu tidak seberapa, namun engkau menuruti firman-Ku dan engkau tidak menyangkal nama-Ku."
   },
   {Bible:"Revelation", Chapter:3, Verse:9, Page:1,
-    Kor:"보아라, 내가 사탄의 무리에 속한 자들을 네 손에 맡기겠다. 그들은 스스로 유대 사람이라고 하지만, 사실은 그렇지 않고, 거짓말을 하는 자들이다. 보아라, 내가 그들이 와서 네 앞에 꿇어 엎드리게 하고, 내가 너를 사랑하였다는 것을 알게 하겠다.",
+    Kor:"보아라, 내가 사탄의 무리에 속한 자들을 네 손에 맡기겠다. 그들은 스스로 유대 사람이라고 하지만, 사실은 그렇지 않고, 거짓말을 하는 자들이다. 보아라, 내가 그들이 와서, 네 앞에 꿇어 엎드리게 하고, 내가 너를 사랑하였다는 것을 알게 하겠다.",
     Chn:"那撒但一会的，自称是犹太人，其实不是犹太人，乃是说谎话的，我要使他们来，在你脚前下拜，也使他们知道我是已经爱你了。",
     Eng:"I will make those who are of the synagogue of Satan, who claim to be Jews though they are not, but are liars--I will make them come and fall down at your feet and acknowledge that I have loved you.",
     Ind:"Lihatlah, beberapa orang dari jemaah Iblis, yaitu mereka yang menyebut dirinya orang Yahudi, tetapi yang sebenarnya tidak demikian, melainkan berdusta, akan Kuserahkan kepadamu. Sesungguhnya Aku akan menyuruh mereka datang dan tersungkur di depan kakimu dan mengaku, bahwa Aku mengasihi engkau."
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Karena engkau menuruti firman-Ku, untuk tekun menantikan Aku, maka Akupun akan melindungi engkau dari hari pencobaan yang akan datang atas seluruh dunia untuk mencobai mereka yang diam di bumi."
   },
   {Bible:"Revelation", Chapter:3, Verse:11, Page:1,
-    Kor:"내가 곧 가겠다. 너는 네가 가진 것을 굳게 붙잡아서, 아무도 네 b면류관을 빼앗지 못하게 하여라.(b 그, '월계관')",
+    Kor:"내가 곧 가겠다. 너는 네가 가진 것을 굳게 붙잡아서, 아무도 네 면류관을 빼앗지 못하게 하여라.",
     Chn:"我必快来，你要持守你所有的，免得人夺去你的冠冕。",
     Eng:"I am coming soon. Hold on to what you have, so that no one will take your crown.",
     Ind:"Aku datang segera. Peganglah apa yang ada padamu, supaya tidak seorangpun mengambil mahkotamu."
   },
   {Bible:"Revelation", Chapter:3, Verse:12, Page:1,
-    Kor:"이기는 사람은, 내가 내 하나님의 성전에 기둥이 되게 하겠다. 그는 다시는 성전을 떠나지 않을 것이다. 나는 내 하나님의 이름과 내 하나님의 도시, 곧 하늘에서 내 하나님께로부터 내려오는 새 예루살렘의 이름과 또 나의 새 이름을 그 사람의 몸에 써 두겠다.",
+    Kor:"이기는 사람은, 내가 내 하나님의 성전에 기둥이 되게 하겠다. 그는 다시는 성전을 떠나지 않을 것이다. 나는 내 하나님의 이름과 내 하나님의 도시, 곧 하늘에서 내 하나님께로부터 내려오는 새 예루살렘의 이름과 또 나의 새 이름을 그 사람 위에 써 두겠다.",
     Chn:"得胜的，我要叫他在我　神殿中作柱子，他也必不再从那里出去。我又要将我　神的名和我　神城的名（这城就是从天上、从我　神那里降下来的新耶路撒冷），并我的新名，都写在他上面。",
     Eng:"Him who overcomes I will make a pillar in the temple of my God. Never again will he leave it. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on him my new name.",
     Ind:"Barangsiapa menang, ia akan Kujadikan sokoguru di dalam Bait Suci Allah-Ku, dan ia tidak akan keluar lagi dari situ; dan padanya akan Kutuliskan nama Allah-Ku, nama kota Allah-Ku, yaitu Yerusalem baru, yang turun dari sorga dari Allah-Ku, dan nama-Ku yang baru."
   },
   {Bible:"Revelation", Chapter:3, Verse:13, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.\""
   },
   {Bible:"Revelation", Chapter:3, Verse:14, Page:1,
-    Kor:"<라오디게아 교회에 보내는 말씀> ○\"라오디게아 교회의 a심부름꾼에게 이렇게 써 보내어라. '아멘이신 분이시요, 신실하시고 참되신 증인이시요, 하나님의 창조의 c처음이신 분이 말씀하신다.(a 또는 '천사' c 또는 '기원' 또는 '근원')",
+    Kor:"○\"라오디게아 교회의 천사에게 이렇게 써 보내어라. '아멘이신 분이시요, 신실하시고 참되신 증인이시요, 하나님의 창조의 처음이신 분이 말씀하신다.",
     Chn:"「你要写信给老底嘉教会的使者，说：『那为阿们的，为诚信真实见证的，在　神创造万物之上为元首的，说：",
     Eng:"\"To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the ruler of God's creation.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Laodikia: Inilah firman dari Amin, Saksi yang setia dan benar, permulaan dari ciptaan Allah:"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Karena engkau berkata: Aku kaya dan aku telah memperkayakan diriku dan aku tidak kekurangan apa-apa, dan karena engkau tidak tahu, bahwa engkau melarat, dan malang, miskin, buta dan telanjang,"
   },
   {Bible:"Revelation", Chapter:3, Verse:18, Page:1,
-    Kor:"그러므로 나는 네게 권한다. 네가 부유하게 되려거든 불에 정련한 금을 내게서 사고, 네 벌거벗은 수치를 가려서 드러내지 않으려거든 흰 옷을 사서 입고, 네 눈이 밝아지려거든 안약을 사서 눈에 발라라.",
+    Kor:"그러므로 나는 네게 권한다. 네가 부유하게 되려거든 불에 정련한 금을 내게서 사고, 네 벌거벗은 수치를 가려 드러내지 않으려거든 흰 옷을 사서 입고, 네 눈이 밝아지려거든 안약을 사서 눈에 발라라.",
     Chn:"我劝你向我买火炼的金子，叫你富足；又买白衣穿上，叫你赤身的羞耻不露出来；又买眼药擦你的眼睛，使你能看见。",
     Eng:"I counsel you to buy from me gold refined in the fire, so you can become rich; and white clothes to wear, so you can cover your shameful nakedness; and salve to put on your eyes, so you can see.",
     Ind:"maka Aku menasihatkan engkau, supaya engkau membeli dari pada-Ku emas yang telah dimurnikan dalam api, agar engkau menjadi kaya, dan juga pakaian putih, supaya engkau memakainya, agar jangan kelihatan ketelanjanganmu yang memalukan; dan lagi minyak untuk melumas matamu, supaya engkau dapat melihat."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan Aku."
   },
   {Bible:"Revelation", Chapter:3, Verse:21, Page:1,
-    Kor:"이기는 사람은, 내가 이긴 뒤에 내 아버지와 함께 아버지의 보좌에 앉은 것과 같이, 나와 함께 내 보좌에 앉게 하여 주겠다.",
+    Kor:"이기는 사람은 마치, 내가 이긴 뒤에 내 아버지와 함께 아버지의 보좌에 앉은 것과 같이, 나와 함께 내 보좌에 앉게 하여 주겠다.",
     Chn:"得胜的，我要赐他在我宝座上与我同坐，就如我得了胜，在我父的宝座上与他同坐一般。",
     Eng:"To him who overcomes, I will give the right to sit with me on my throne, just as I overcame and sat down with my Father on his throne.",
     Ind:"Barangsiapa menang, ia akan Kududukkan bersama-sama dengan Aku di atas takhta-Ku, sebagaimana Akupun telah menang dan duduk bersama-sama dengan Bapa-Ku di atas takhta-Nya."
   },
   {Bible:"Revelation", Chapter:3, Verse:22, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches.\"",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.\""

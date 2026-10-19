@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",136,26);
 BibleDB.add([
   {Bible:"Psalms", Chapter:136, Verse:1, Page:1,
-    Kor:"<하나님의 인자하심 영원하다> 주님께 감사하여라. 그는 선하시며 그 인자하심이 영원하다.",
+    Kor:"주님께 감사하여라. 그는 선하시며 그 인자하심이 영원하다.",
     Chn:"你们要称谢耶和华，因他本为善； 他的慈爱永远长存。",
     Eng:"Give thanks to the LORD, for he is good. His love endures forever.",
     Ind:"Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Kepada Dia yang memukul mati anak-anak sulung Mesir; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:11, Page:1,
-    Kor:"이스라엘을 그들 가운데서 이끌어내신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"이스라엘을 그들 가운데서 이끌어 내신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"他领以色列人从他们中间出来， 因他的慈爱永远长存。",
     Eng:"and brought Israel out from among them His love endures forever.",
     Ind:"Dan membawa Israel keluar dari tengah-tengah mereka; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:12, Page:1,
-    Kor:"이스라엘을 강한 손과 펴신 팔로 이끌어내신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"이스라엘을 강한 손과 펴신 팔로 이끌어 내신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"他施展大能的手和伸出来的膀臂， 因他的慈爱永远长存。",
     Eng:"with a mighty hand and outstretched arm; His love endures forever.",
     Ind:"Dengan tangan yang kuat dan dengan lengan yang teracung! Bahwasanya untuk selama-lamanya kasih setia-Nya."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Dan menyeberangkan Israel dari tengah-tengahnya; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:15, Page:1,
-    Kor:"바로와 그의 군대를 뒤흔들어서 홍해에 쓸어 버리신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"바로와 그의 군대를 흔들어서 홍해에 집어 넣으신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"却把法老和他的军兵推翻在红海里， 因他的慈爱永远长存。",
     Eng:"but swept Pharaoh and his army into the Red Sea; His love endures forever.",
     Ind:"Dan mencampakkan Firaun dengan tentaranya ke Laut Teberau! Bahwasanya untuk selama-lamanya kasih setia-Nya."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Kepada Dia yang memimpin umat-Nya melalui padang gurun! Bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:17, Page:1,
-    Kor:"위대한 왕들을 치신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"큰 왕들을 치신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"称谢那击杀大君王的， 因他的慈爱永远长存。",
     Eng:"who struck down great kings, His love endures forever.",
     Ind:"Kepada Dia yang memukul kalah raja-raja yang besar; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:18, Page:1,
-    Kor:"힘센 왕들을 죽이신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"힘있는 왕들을 죽이신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"他杀戮有名的君王， 因他的慈爱永远长存；",
     Eng:"and killed mighty kings--His love endures forever.",
     Ind:"Dan membunuh raja-raja yang mulia; bahwasanya untuk selama-lamanya kasih setia-Nya."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Dan memberikan tanah mereka menjadi milik pusaka; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:22, Page:1,
-    Kor:"그들의 땅을 당신의 종 이스라엘에게 기업으로 주신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"그들의 땅을 자기의 종 이스라엘에게 유산으로 주신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"就是赐他的仆人以色列为业， 因他的慈爱永远长存。",
     Eng:"an inheritance to his servant Israel; His love endures forever.",
     Ind:"Milik pusaka kepada Israel, hamba-Nya! Bahwasanya untuk selama-lamanya kasih setia-Nya."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Dia yang mengingat kita dalam kerendahan kita; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:24, Page:1,
-    Kor:"우리를 우리의 원수들에게서 건져 주신 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"우리를 원수들에게서 건져 주신 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"他救拔我们脱离敌人， 因他的慈爱永远长存。",
     Eng:"and freed us from our enemies, His love endures forever.",
     Ind:"Dan membebaskan kita dari pada para lawan kita; bahwasanya untuk selama-lamanya kasih setia-Nya."
   },
   {Bible:"Psalms", Chapter:136, Verse:25, Page:1,
-    Kor:"육신을 가진 모든 사람에게 먹거리를 주시는 분께 감사하여라. 그 인자하심이 영원하다.",
+    Kor:"육신을 가진 모든 사람에게 먹을거리를 주시는 분께 감사하여라. 그 인자하심이 영원하다.",
     Chn:"他赐粮食给凡有血气的， 因他的慈爱永远长存。",
     Eng:"and who gives food to every creature. His love endures forever.",
     Ind:"Dia yang memberikan roti kepada segala makhluk; bahwasanya untuk selama-lamanya kasih setia-Nya."

@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",12,13);
 BibleDB.add([
   {Bible:"Daniel", Chapter:12, Verse:1, Page:1,
-    Kor:"<세상 끝 날> \"그 때에 너의 백성을 지키는 위대한 천사장 미가엘이 나타날 것이다. 그리고 나라가 생긴 뒤로 그 때까지 없던 어려운 때가 올 것이다. 그러나 그 때에 그 책에 기록된 너의 백성은 모두 피하게 될 것이다.",
+    Kor:"\"그 때에 너의 백성을 지키는 위대한 천사장 미가엘이 나타날 것이다. 그리고 나라가 생긴 뒤로 그 때까지 없던 어려운 때가 올 것이다. 그러나 그 때에 그 책에 기록된 너의 백성은 모두 피하게 될 것이다.",
     Chn:"「那时，保佑你本国之民的天使长米迦勒必站起来，并且有大艰难，从有国以来直到此时，没有这样的。你本国的民中，凡名录在册上的，必得拯救。",
     Eng:"\"At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people--everyone whose name is found written in the book--will be delivered.",
     Ind:"\"Pada waktu itu juga akan muncul Mikhael, pemimpin besar itu, yang akan mendampingi anak-anak bangsamu; dan akan ada suatu waktu kesesakan yang besar, seperti yang belum pernah terjadi sejak ada bangsa-bangsa sampai pada waktu itu. Tetapi pada waktu itu bangsamu akan terluput, yakni barangsiapa yang didapati namanya tertulis dalam Kitab itu."

@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",14,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:14, Verse:1, Page:1,
-    Kor:"<지혜가 주는 유익> 지혜로운 여자는 집을 세우지만, 어리석은 여자는 제 손으로 집을 무너뜨린다.",
+    Kor:"지혜로운 여자는 집을 세우지만, 어리석은 여자는 제 손으로 집을 무너뜨린다.",
     Chn:"智慧妇人建立家室； 愚妄妇人亲手拆毁。",
     Eng:"The wise woman builds her house, but with her own hands the foolish one tears hers down.",
     Ind:"Perempuan yang bijak mendirikan rumahnya, tetapi yang bodoh meruntuhkannya dengan tangannya sendiri."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Jauhilah orang bebal, karena pengetahuan tidak kaudapati dari bibirnya."
   },
   {Bible:"Proverbs", Chapter:14, Verse:8, Page:1,
-    Kor:"슬기로운 사람의 지혜는 자기가 가는 길을 깨닫게 하지만, a미련한 사람의 어리석음은 자기를 속인다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"슬기로운 사람의 지혜는 자기가 가는 길을 깨닫게 하지만, 미련한 사람의 어리석음은 자기를 속인다.",
     Chn:"通达人的智慧在乎明白己道； 愚昧人的愚妄乃是诡诈。",
     Eng:"The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception.",
     Ind:"Mengerti jalannya sendiri adalah hikmat orang cerdik, tetapi orang bebal ditipu oleh kebodohannya."
   },
   {Bible:"Proverbs", Chapter:14, Verse:9, Page:1,
-    Kor:"b어리석은 사람은 속죄제사를 우습게 여기지만, 정직한 사람은 하나님의 은총을 누린다. (b '어리석은 사람'으로 번역된 히브리어 '에빌림'은 잠언 전체와 구약의 여러 곳에서 도덕적 결함이 있는 사람을 가리킴. 단순히 '둔한 사람'과 20 14:구별됨)",
+    Kor:"어리석은 사람은 속죄제사를 우습게 여기지만, 정직한 사람은 하나님의 은총을 누린다.",
     Chn:"愚妄人犯罪，以为戏耍； 正直人互相喜悦。",
     Eng:"Fools mock at making amends for sin, but goodwill is found among the upright.",
     Ind:"Orang bodoh mencemoohkan korban tebusan, tetapi orang jujur saling menunjukkan kebaikan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Orang yang murtad hatinya menjadi kenyang dengan jalannya, dan orang yang baik dengan apa yang ada padanya."
   },
   {Bible:"Proverbs", Chapter:14, Verse:15, Page:1,
-    Kor:"c어수룩한 사람은 모든 말을 다 믿지만, 슬기로운 사람은 행동을 삼간다. (c '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"어수룩한 사람은 모든 말을 다 믿지만, 슬기로운 사람은 행동을 삼간다.",
     Chn:"愚蒙人是话都信； 通达人步步谨慎。",
     Eng:"A simple man believes anything, but a prudent man gives thought to his steps.",
     Ind:"Orang yang tak berpengalaman percaya kepada setiap perkataan, tetapi orang yang bijak memperhatikan langkahnya."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Siapa lekas naik darah, berlaku bodoh, tetapi orang yang bijaksana, bersabar."
   },
   {Bible:"Proverbs", Chapter:14, Verse:18, Page:1,
-    Kor:"c어수룩한 사람은 어수룩함을 유산으로 삼지만, 슬기로운 사람은 지식을 면류관으로 삼는다. (c '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"어수룩한 사람은 어수룩함을 유산으로 삼지만, 슬기로운 사람은 지식을 면류관으로 삼는다.",
     Chn:"愚蒙人得愚昧为产业； 通达人得知识为冠冕。",
     Eng:"The simple inherit folly, but the prudent are crowned with knowledge.",
     Ind:"Orang yang tak berpengalaman mendapat kebodohan, tetapi orang yang bijak bermahkotakan pengetahuan."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Dalam tiap jerih payah ada keuntungan, tetapi kata-kata belaka mendatangkan kekurangan saja."
   },
   {Bible:"Proverbs", Chapter:14, Verse:24, Page:1,
-    Kor:"d지혜는 지혜 있는 사람의 면류관이지만 b어리석음은 a미련한 사람의 e화환이다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것 b '어리석은 사람'으로 번역된 히브리어 '에빌림'은 잠언 전체와 구약의 여러 곳에서 도덕적 결함이 있는 사람을 가리킴. 단순히 '둔한 사람'과 20 14:구별됨 d 히, '부요함' e 히, '어리석음')",
+    Kor:"지혜는 지혜 있는 사람의 면류관이지만 어리석음은 미련한 사람의 화환이다.",
     Chn:"智慧人的财为自己的冠冕； 愚妄人的愚昧终是愚昧。",
     Eng:"The wealth of the wise is their crown, but the folly of fools yields folly.",
     Ind:"Mahkota orang bijak adalah kepintarannya; tajuk orang bebal adalah kebodohannya."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Orang fasik dirobohkan karena kejahatannya, tetapi orang benar mendapat perlindungan karena ketulusannya."
   },
   {Bible:"Proverbs", Chapter:14, Verse:33, Page:1,
-    Kor:"지혜는 명철한 사람의 마음에 머물고, a미련한 사람 마음에는 f알려지지 않는다. (a '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것 f 칠십인역과 시리아어역을 따름. 히, '알려진다')",
+    Kor:"지혜는 명철한 사람의 마음에 머물고, 미련한 사람 마음에는 알려지지 않는다.",
     Chn:"智慧存在聪明人心中； 愚昧人心里所存的，显而易见。",
     Eng:"Wisdom reposes in the heart of the discerning and even among fools she lets herself be known.",
     Ind:"Hikmat tinggal di dalam hati orang yang berpengertian, tetapi tidak dikenal di dalam hati orang bebal."

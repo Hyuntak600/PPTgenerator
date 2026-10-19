@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",53,6);
 BibleDB.add([
   {Bible:"Psalms", Chapter:53, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 a마할랏에 맞추어 부르는 노래, 다윗의 마스길> 어리석은 사람은 마음 속으로 \"하나님이 없다\" 하는구나. 그들은 한결같이 썩어서 더러우니, 바른 일 하는 사람 아무도 없구나. (a 음악 용어)",
+    Kor:"어리석은 사람은 마음 속으로 \"하나님이 없다\" 하는구나. 모두가 하나같이 썩어서 더러우니, 착한 일 하는 사람 아무도 없구나.",
     Chn:"大卫的训诲诗，交与伶长。调用麻哈拉。 愚顽人心里说：没有　神。 他们都是邪恶，行了可憎恶的罪孽； 没有一个人行善。",
     Eng:"The fool says in his heart, \"There is no God.\" They are corrupt, and their ways are vile; there is no one who does good.",
     Ind:"Untuk pemimpin biduan. Menurut lagu: Mahalat. Nyanyian pengajaran Daud. (53-2) Orang bebal berkata dalam hatinya: \"Tidak ada Allah!\" Busuk dan jijik kecurangan mereka, tidak ada yang berbuat baik."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"(53-3) Allah memandang ke bawah dari sorga kepada anak-anak manusia, untuk melihat apakah ada yang berakal budi dan yang mencari Allah."
   },
   {Bible:"Psalms", Chapter:53, Verse:3, Page:1,
-    Kor:"너희 모두는 다른 길로 빗나가서 하나같이 썩었으니, 착한 일 하는 사람이 하나도 없구나.",
+    Kor:"모두들 다른 길로 빗나가서 하나같이 썩었으니, 착한 일 하는 사람이 하나도 없구나.",
     Chn:"他们各人都退后，一同变为污秽； 并没有行善的，连一个也没有。",
     Eng:"Everyone has turned away, they have together become corrupt; there is no one who does good, not even one.",
     Ind:"(53-4) Mereka semua telah menyimpang, sekaliannya telah bejat; tidak ada yang berbuat baik, seorangpun tidak."

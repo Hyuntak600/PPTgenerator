@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Peperangan antara keluarga Saul dan keluarga Daud berlarut-larut; Daud kian lama kian kuat, sedang keluarga Saul kian lama kian lemah."
   },
   {Bible:"2Samuel", Chapter:3, Verse:2, Page:1,
-    Kor:"<다윗의 아들들(대상 3:1-4)> ○다윗이 헤브론에서 낳은 아들은 다음과 같다. 맏아들은 이스르엘 여인 아히노암에게서 태어난 암논이고,",
+    Kor:"○다윗이 헤브론에서 낳은 아들은 다음과 같다. 맏아들은 이스르엘 여인 아히노암에게서 태어난 암논이고,",
     Chn:"大卫在希伯 得了几个儿子：长子暗嫩是耶斯列人亚希暖所生的；",
     Eng:"Sons were born to David in Hebron: His firstborn was Amnon the son of Ahinoam of Jezreel;",
     Ind:"Di Hebron lahirlah bagi Daud anak-anak lelaki. Anak sulungnya ialah Amnon, dari Ahinoam, perempuan Yizreel;"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"dan yang keenam ialah Yitream, dari Egla, isteri Daud. Semuanya ini dilahirkan bagi Daud di Hebron."
   },
   {Bible:"2Samuel", Chapter:3, Verse:6, Page:1,
-    Kor:"<아브넬이 이스보셋을 배반하다> ○사울 집안과 다윗 집안 사이에 전쟁이 계속되는 동안에, 사울 집안에서는 아브넬이 점점 더 세력을 잡았다.",
+    Kor:"○사울 집안과 다윗 집안 사이에 전쟁이 계속되는 동안에, 사울 집안에서는, 아브넬이 점점 더 세력을 잡았다.",
     Chn:"扫罗家和大卫家争战的时候，押尼珥在扫罗家大有权势。",
     Eng:"During the war between the house of Saul and the house of David, Abner had been strengthening his own position in the house of Saul.",
     Ind:"Selama ada peperangan antara keluarga Saul dan keluarga Daud, maka Abner makin mendapat pengaruh di antara keluarga Saul."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lalu sangat marahlah Abner karena perkataan Isyboset itu, katanya: \"Kepala anjing dari Yehudakah aku? Sampai sekarang aku masih menunjukkan kesetiaanku kepada keluarga Saul, ayahmu, kepada saudara-saudaranya dan kepada sahabat-sahabatnya, dan aku tidak membiarkan engkau jatuh ke tangan Daud, tetapi sekarang engkau menuduh aku berlaku salah dengan seorang perempuan?"
   },
   {Bible:"2Samuel", Chapter:3, Verse:9, Page:1,
-    Kor:"주님께서는 이미 다윗에게 약속하신 것이 있습니다. 이제 저는 다윗 편을 들어서 하나님의 뜻대로 하겠습니다. 그렇게 하지 않는다면, 하나님이 이 아브넬에게 벌을 내리시고 또 내리셔도 좋습니다.",
+    Kor:"주께서는 이미 다윗에게 약속하신 것이 있습니다. 이제 저는 다윗 편을 들어서 하나님의 뜻대로 하겠습니다. 그렇게 하지 않는다면, 하나님이 이 아브넬에게 벌을 내리시고 또 내리셔도 좋습니다.",
     Chn:"我若不照着耶和华起誓应许大卫的话行，废去扫罗的位，建立大卫的位，使他治理以色列和犹大，从但直到别是巴，愿　神重重地降罚与我！」",
     Eng:"May God deal with Abner, be it ever so severely, if I do not do for David what the LORD promised him on oath",
     Ind:"Kiranya Allah menghukum Abner, bahkan lebih lagi dari pada itu, jika tidak kulakukan kepada Daud seperti yang dijanjikan TUHAN dengan bersumpah kepadanya,",
@@ -76,13 +76,13 @@ BibleDB.add([
     Ind:"Lalu Abner mengirim utusan kepada Daud dengan pesan: \"Milik siapakah negeri ini? Adakanlah perjanjian dengan aku, maka sesungguhnya aku akan membantu engkau untuk membawa seluruh orang Israel memihak kepadamu.\""
   },
   {Bible:"2Samuel", Chapter:3, Verse:13, Page:1,
-    Kor:"다윗이 대답하였다. \"좋소! 내가 장군과 언약을 세우겠소. 그런데 나는 장군에게 한 가지만 요구하겠소. 그대는 나를 만나러 올 때에 사울의 딸 미갈을 데리고 오시오. 그렇지 않으면, 내 얼굴을 볼 생각을 하지 마시오.\"",
+    Kor:"다윗이 대답하였다. \"좋소! 내가 그대와 언약을 세우겠소. 그런데 나는 그대에게 한 가지만 요구하겠소. 그대는 나를 만나러 올 때에, 사울의 딸 미갈을 데리고 오시오. 그렇지 않으면, 내 얼굴을 볼 생각을 하지 마시오.\"",
     Chn:"大卫说：「好！我与你立约。但有一件，你来见我面的时候，若不将扫罗的女儿米甲带来，必不得见我的面。」",
     Eng:"\"Good,\" said David. \"I will make an agreement with you. But I demand one thing of you: Do not come into my presence unless you bring Michal daughter of Saul when you come to see me.\"",
     Ind:"Jawab Daud: \"Baik, aku akan mengadakan perjanjian dengan engkau, hanya satu hal kuminta dari padamu, yakni engkau tidak akan menghadap aku, kecuali jika engkau membawa lebih dahulu Mikhal, anak perempuan Saul, apabila engkau datang menghadap aku.\""
   },
   {Bible:"2Samuel", Chapter:3, Verse:14, Page:1,
-    Kor:"그런 다음에 다윗은 사울의 아들 이스보셋에게 사람을 보내어서, 이렇게 전하였다. \"나의 아내 미갈을 돌려 주시오. 미갈은 내가 블레셋 사람의 포피 백 개를 바치고 맞은 아내요.\"",
+    Kor:"그런 다음에, 다윗은 사울의 아들 이스보셋에게 사람을 보내어서, 이렇게 전하였다. \"나의 아내 미갈을 돌려 주시오. 미갈은, 내가 블레셋 사람의 포피 백 개를 바치고 맞은 아내요.\"",
     Chn:"大卫就打发人去见扫罗的儿子伊施波设，说：「你要将我的妻米甲归还我；她是我从前用一百非利士人的阳皮所聘定的。」",
     Eng:"Then David sent messengers to Ish-Bosheth son of Saul, demanding, \"Give me my wife Michal, whom I betrothed to myself for the price of a hundred Philistine foreskins.\"",
     Ind:"Daud mengirim utusan juga kepada Isyboset, anak Saul, dengan pesan: \"Berikanlah isteriku Mikhal, yang telah kuperoleh dengan seratus kulit khatan orang Filistin.\""
@@ -94,7 +94,7 @@ BibleDB.add([
     Ind:"Lalu Isyboset menyuruh mengambil perempuan itu dari pada suaminya, yakni Paltiel bin Lais."
   },
   {Bible:"2Samuel", Chapter:3, Verse:16, Page:1,
-    Kor:"그 때에 그 여인의 남편은 계속 울면서 바후림까지 자기 아내를 따라왔는데, 아브넬이 그에게 \"당신은 그만 돌아가시오\" 하고 말하니, 그가 돌아갔다.",
+    Kor:"그 때에, 그 여인의 남편은 계속 울면서, 바후림까지 자기 아내를 따라왔는데, 아브넬이 그에게 \"당신은 그만 돌아가시오\" 하고 말하니, 그가 돌아갔다.",
     Chn:"米甲的丈夫跟着她，一面走一面哭，直跟到巴户琳。押尼珥说：「你回去吧！」帕铁就回去了。",
     Eng:"Her husband, however, went with her, weeping behind her all the way to Bahurim. Then Abner said to him, \"Go back home!\" So he went back.",
     Ind:"Dan suaminya berjalan bersama-sama dengan dia, sambil mengikuti dia dengan menangis sampai ke Bahurim. Lalu berkatalah Abner kepadanya: \"Ayo, pulanglah.\" Maka pulanglah ia."
@@ -106,7 +106,7 @@ BibleDB.add([
     Ind:"Sementara itu berundinglah Abner dengan para tua-tua orang Israel, katanya: \"Telah lama kamu menghendaki Daud menjadi raja atas kamu."
   },
   {Bible:"2Samuel", Chapter:3, Verse:18, Page:1,
-    Kor:"이제 기회가 왔습니다. 주님께서 이미 다윗을 두고 '내가 나의 종 다윗을 시켜서, 나의 백성 이스라엘을 블레셋 사람의 지배와 모든 원수의 지배에서 구하여 내겠다' 하고 약속하여 주셨기 때문입니다.\"",
+    Kor:"이제 기회가 왔습니다. 주께서 이미 다윗을 두고 '내가 나의 종 다윗을 시켜서, 나의 백성 이스라엘을 블레셋 사람의 지배와 모든 원수의 지배에서 구하여 내겠다' 하고 약속하여 주셨기 때문입니다.\"",
     Chn:"现在你们可以照心愿而行。因为耶和华曾论到大卫说：『我必借我仆人大卫的手，救我民以色列脱离非利士人和众仇敌的手。』」",
     Eng:"Now do it! For the LORD promised David, 'By my servant David I will rescue my people Israel from the hand of the Philistines and from the hand of all their enemies.'\"",
     Ind:"Maka sekarang bertindaklah, sebab TUHAN sudah berfirman tentang Daud, demikian: Dengan perantaraan hamba-Ku Daud Aku akan menyelamatkan umat-Ku Israel dari tangan orang Filistin dan dari tangan semua musuhnya.\""
@@ -130,7 +130,7 @@ BibleDB.add([
     Ind:"Berkatalah Abner kepada Daud: \"Baiklah aku bersiap untuk pergi mengumpulkan seluruh orang Israel kepada tuanku raja, supaya mereka mengadakan perjanjian dengan tuanku dan tuanku menjadi raja atas segala yang dikehendaki hatimu.\" Lalu Daud membiarkan Abner pergi dan berjalanlah ia dengan selamat."
   },
   {Bible:"2Samuel", Chapter:3, Verse:22, Page:1,
-    Kor:"<아브넬이 살해되다> ○그 때에, 다윗의 부하들이 요압을 따라 습격하러 나갔다가, 많은 노략물을 가지고 돌아왔다. 그러나 아브넬은 그 때에 다윗과 함께 헤브론에 있지 않았다. 다윗이 이미 그를 보내어서, 그가 무사하게 그 곳을 떠나갔기 때문이다.",
+    Kor:"○그 때에, 다윗의 부하들이 요압을 따라 습격하러 나갔다가, 많은 노략물을 가지고 돌아왔다. 그러나 아브넬은 그 때에 다윗과 함께 헤브론에 있지 않았다. 다윗이 이미 그를 보내어서, 그가 무사하게 그 곳을 떠나갔기 때문이다.",
     Chn:"约押和大卫的仆人攻击敌军，带回许多的掠物。那时押尼珥不在希伯 大卫那里，因大卫已经送他去，他也平平安安地去了。",
     Eng:"Just then David's men and Joab returned from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and he had gone in peace.",
     Ind:"Anak buah Daud dan Yoab baru saja pulang setelah mengadakan penggerebekan dan mereka membawa pulang jarahan yang banyak. Tetapi Abner tidak lagi bersama-sama Daud di Hebron, sebab ia telah dilepasnya pergi dengan selamat."
@@ -142,7 +142,7 @@ BibleDB.add([
     Ind:"Ketika Yoab bersama dengan segenap tentaranya sudah pulang, diberitahukan kepada Yoab, demikian: \"Abner bin Ner telah datang kepada raja dan ia sudah dibiarkannya pergi dengan selamat.\""
   },
   {Bible:"2Samuel", Chapter:3, Verse:24, Page:1,
-    Kor:"이 말을 듣고, 요압이 곧바로 왕에게로 가서 항의하였다. \"임금님이 어찌하여 이렇게 하실 수 있습니까? 아브넬이 임금님께 왔는데, 임금님은 어찌하여 그를 그냥 보내어서, 가게 하셨습니까?",
+    Kor:"이 말을 듣고, 요압이 곧바로 왕에게로 가서 항의하였다. \"임금님이 어찌하여 이렇게 하실 수 있습니까? 아브넬이 임금님께 왔는데, 임금님은 어찌하여 그를 그냥 보내서, 가게 하셨습니까?",
     Chn:"约押去见王说：「你这是做什么呢？押尼珥来见你，你为何送他去，他就踪影不见了呢？",
     Eng:"So Joab went to the king and said, \"What have you done? Look, Abner came to you. Why did you let him go? Now he is gone!",
     Ind:"Kemudian pergilah Yoab kepada raja, katanya: \"Apakah yang telah kauperbuat? Abner telah datang kepadamu; mengapa engkau membiarkannya begitu saja?"
@@ -154,7 +154,7 @@ BibleDB.add([
     Ind:"Apakah engkau tidak kenal Abner bin Ner itu. Ia datang untuk memperdaya engkau dan untuk mengetahui gerak-gerikmu dan untuk mengetahui segala yang hendak kaulakukan.\""
   },
   {Bible:"2Samuel", Chapter:3, Verse:26, Page:1,
-    Kor:"○요압은 다윗에게서 물러나오자마자 사람들을 보내어서 아브넬을 뒤쫓게 하였다. 그들은 시라 우물이 있는 곳에서 그를 붙잡아서, 데리고 돌아왔다. 그러나 다윗은 그 일을 전혀 몰랐다.",
+    Kor:"요압은 다윗에게서 물러나오자마자 사람들을 보내어서 아브넬을 뒤쫓게 하였다. 그들은 시라 우물이 있는 곳에서 그를 붙잡아서, 데리고 돌아왔다. 그러나 다윗은 그 일을 전혀 몰랐다.",
     Chn:"约押从大卫那里出来，就打发人去追赶押尼珥，在西拉井追上他，将他带回来，大卫却不知道。",
     Eng:"Joab then left David and sent messengers after Abner, and they brought him back from the well of Sirah. But David did not know it.",
     Ind:"Sesudah itu keluarlah Yoab meninggalkan Daud dan menyuruh orang menyusul Abner, lalu mereka membawanya kembali dari perigi Sira tanpa diketahui Daud."
@@ -166,7 +166,7 @@ BibleDB.add([
     Ind:"Ketika Abner kembali ke Hebron, maka Yoab membawanya sebentar ke samping di tengah-tengah pintu gerbang itu, seakan-akan hendak berbicara dengan dia dengan diam-diam; kemudian ditikamnyalah dia di sana pada perutnya, sehingga mati, membalas darah Asael, adiknya."
   },
   {Bible:"2Samuel", Chapter:3, Verse:28, Page:1,
-    Kor:"○다윗이 그 소식을 듣고서 외쳤다. \"넬의 아들 아브넬이 암살당하였으나, 나와 나의 나라는 주님 앞에 아무 죄가 없다.",
+    Kor:"○다윗이 그 소식을 듣고서 외쳤다. \"넬의 아들 아브넬이 암살당하였으나, 나의 나라는 주 앞에 아무 죄가 없다.",
     Chn:"大卫听见了，就说：「流尼珥的儿子押尼珥的血，这罪在耶和华面前必永不归我和我的国。",
     Eng:"Later, when David heard about this, he said, \"I and my kingdom are forever innocent before the LORD concerning the blood of Abner son of Ner.",
     Ind:"Ketika hal itu didengar Daud kemudian, berkatalah ia: \"Aku dan kerajaanku tidak bersalah di hadapan TUHAN sampai selama-lamanya terhadap darah Abner bin Ner itu."
@@ -184,7 +184,7 @@ BibleDB.add([
     Ind:"Demikianlah Yoab dan Abisai, adiknya, membunuh Abner, karena ia telah membunuh Asael, adik mereka, di Gibeon dalam pertempuran."
   },
   {Bible:"2Samuel", Chapter:3, Verse:31, Page:1,
-    Kor:"<아브넬의 장례식> ○다윗은 요압을 비롯하여 자기와 함께 있는 온 백성에게 명령하였다. \"백성은 옷을 찢고, 허리에 굵은 베 옷을 두른 뒤에, 아브넬의 상여 앞에서 걸어가면서 애도하여라.\" 그리고 다윗 왕도 몸소 상여를 뒤따라갔다.",
+    Kor:"다윗은 요압을 비롯하여 자기와 함께 있는 온 백성에게 명령하였다. \"너희는 옷을 찢고, 허리에 굵은 베 옷을 두른 뒤에, 아브넬의 상여 앞에서 걸어가면서 애도하여라.\" 그리고 다윗 왕도 몸소 상여를 뒤따라갔다.",
     Chn:"大卫吩咐约押和跟随他的众人说：「你们当撕裂衣服，腰束麻布，在押尼珥棺前哀哭。」大卫王也跟在棺后。",
     Eng:"Then David said to Joab and all the people with him, \"Tear your clothes and put on sackcloth and walk in mourning in front of Abner.\" King David himself walked behind the bier.",
     Ind:"Dan berkatalah Daud kepada Yoab dan kepada segala rakyat yang bersama-sama dengan dia: \"Koyakkanlah pakaianmu dan lilitkanlah pada tubuhmu kain kabung dan merataplah di depan mayat Abner.\" Raja Daud sendiripun berjalan di belakang usungan mayat."
@@ -196,7 +196,7 @@ BibleDB.add([
     Ind:"Ketika orang menguburkan Abner di Hebron, maka menangislah raja dengan suara nyaring pada kubur Abner dan seluruh rakyatpun menangis."
   },
   {Bible:"2Samuel", Chapter:3, Verse:33, Page:1,
-    Kor:"다윗 왕은 아브넬을 두고, 이렇게 조가를 지어 불렀다.  \"어찌하여 어리석은 사람이 죽듯이, 그렇게 아브넬이 죽었는가?",
+    Kor:"다윗 왕은 아브넬을 두고, 이렇게 조가를 지어 불렀다. \"어찌하여 어리석은 사람이 죽듯이, 그렇게 아브넬이 죽었는가?",
     Chn:"王为押尼珥举哀，说： 押尼珥何竟像愚顽人死呢？",
     Eng:"The king sang this lament for Abner: \"Should Abner have died as the lawless die?",
     Ind:"Karena Abner raja mengucapkan nyanyian ratapan ini: \"Apakah Abner harus mati seperti orang bebal?"
@@ -226,13 +226,13 @@ BibleDB.add([
     Ind:"Maka tahulah seluruh rakyat dan seluruh Israel pada hari itu, bahwa pembunuhan Abner bin Ner bukanlah rancangan raja."
   },
   {Bible:"2Samuel", Chapter:3, Verse:38, Page:1,
-    Kor:"그런 다음에 왕은 신복들에게 말하였다. \"그대들이 아는 대로, 오늘 이스라엘에서 훌륭한 장군이 죽었소.",
+    Kor:"그런 다음에, 왕은 신복들에게 말하였다. \"그대들이 아는 대로, 오늘 이스라엘에서 훌륭한 장군이 죽었소.",
     Chn:"王对臣仆说：「你们岂不知今日以色列人中死了一个作元帅的大丈夫吗？",
     Eng:"Then the king said to his men, \"Do you not realize that a prince and a great man has fallen in Israel this day?",
     Ind:"Kemudian berkatalah raja kepada para pegawainya: \"Tidak tahukah kamu, bahwa pada hari ini gugur seorang pemimpin, seorang besar, di Israel?"
   },
   {Bible:"2Samuel", Chapter:3, Verse:39, Page:1,
-    Kor:"스루야의 아들들이 나보다 더 강하니, 비록 내가 기름부음을 받은 왕이라고 하지만, 보다시피 이렇게 약하오. 그러므로 이런 악을 저지른 사람에게, 주님께서 그 죄악에 따라 갚아 주시기만 바랄 뿐이오.\"",
+    Kor:"스루야의 아들들이 나보다 더 강하니, 비록 내가 기름부음을 받은 왕이라고 하지만, 보다시피 이렇게 약하오. 그러므로 이런 악을 저지른 사람에게, 주께서 그 죄악에 따라 갚아 주시기만 바랄 뿐이오.\"",
     Chn:"我虽然受膏为王，今日还是软弱；这洗鲁雅的两个儿子比我刚强。愿耶和华照着恶人所行的恶报应他。」",
     Eng:"And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the LORD repay the evildoer according to his evil deeds!\"",
     Ind:"Tetapi aku ini sekarang masih lemah, sekalipun sudah diurapi menjadi raja, sedang orang-orang itu, yakni anak-anak Zeruya, melebihi aku dalam kekerasan. Kiranya TUHAN membalas kepada orang yang berbuat jahat setimpal dengan kejahatannya.\""

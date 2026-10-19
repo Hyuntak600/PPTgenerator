@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",3,22);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:3, Verse:1, Page:1,
-    Kor:"<매사에 때가 있다> 모든 일에는 다 때가 있다. 세상에서 일어나는 일마다 알맞은 때가 있다.",
+    Kor:"모든 일에는 다 때가 있다. 세상에서 일어나는 일마다 알맞은 때가 있다.",
     Chn:"凡事都有定期， 天下万务都有定时。",
     Eng:"There is a time for everything, and a season for every activity under heaven:",
     Ind:"Untuk segala sesuatu ada masanya, untuk apapun di bawah langit ada waktunya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekekalan dalam hati mereka. Tetapi manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir."
   },
   {Bible:"Ecclesiastes", Chapter:3, Verse:12, Page:1,
-    Kor:"이제 나는 깨닫는다.  기쁘게 사는 것, 살면서 좋은 일을 하는 것, 사람에게 이보다 더 좋은 것이 무엇이랴!",
+    Kor:"이제 나는 깨닫는다. 기쁘게 사는 것, 살면서 좋은 일을 하는 것, 사람에게 이보다 더 좋은 것이 무엇이랴!",
     Chn:"我知道世人，莫强如终身喜乐行善；",
     Eng:"I know that there is nothing better for men than to be happy and do good while they live.",
     Ind:"Aku tahu bahwa untuk mereka tak ada yang lebih baik dari pada bersuka-suka dan menikmati kesenangan dalam hidup mereka."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku tahu bahwa segala sesuatu yang dilakukan Allah akan tetap ada untuk selamanya; itu tak dapat ditambah dan tak dapat dikurangi; Allah berbuat demikian, supaya manusia takut akan Dia."
   },
   {Bible:"Ecclesiastes", Chapter:3, Verse:15, Page:1,
-    Kor:"지금 있는 것 이미 있던 것이고, 앞으로 있을 것도 이미 있는 것이다. 하나님은 a하신 일을 되풀이하신다. (a 또는 '과거를 다시 불러 오신다' 또는 '지나간 것을 다시 찾으신다')",
+    Kor:"지금 있는 것 이미 있던 것이고, 앞으로 있을 것도 이미 있는 것이다. 하나님은 하신 일을 되풀이하신다.",
     Chn:"现今的事早先就有了，将来的事早已也有了，并且　神使已过的事重新再来。",
     Eng:"Whatever is has already been, and what will be has been before; and God will call the past to account.",
     Ind:"Yang sekarang ada dulu sudah ada, dan yang akan ada sudah lama ada; dan Allah mencari yang sudah lalu."
   },
   {Bible:"Ecclesiastes", Chapter:3, Verse:16, Page:1,
-    Kor:"나는 b세상에서 또 다른 것을 보았다. 재판하는 곳에 악이 있고, 공의가 있어야 할 곳에 악이 있다. (b 히, '해 아래')",
+    Kor:"나는 세상에서 또 다른 것을 보았다. 재판하는 곳에 악이 있고, 공의가 있어야 할 곳에 악이 있다.",
     Chn:"我又见日光之下，在审判之处有奸恶，在公义之处也有奸恶。",
     Eng:"And I saw something else under the sun: In the place of judgment--wickedness was there, in the place of justice--wickedness was there.",
     Ind:"Ada lagi yang kulihat di bawah matahari: di tempat pengadilan, di situpun terdapat ketidakadilan, dan di tempat keadilan, di situpun terdapat ketidakadilan."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kedua-duanya menuju satu tempat; kedua-duanya terjadi dari debu dan kedua-duanya kembali kepada debu."
   },
   {Bible:"Ecclesiastes", Chapter:3, Verse:21, Page:1,
-    Kor:"사람의 영은 위로 올라가고 짐승의 영은 아래 땅으로 내려간다고 하지만, 누가 그것을 알겠는가?\"",
+    Kor:"사람의 영은 위로 올라가고 짐승의 영은 아래로 내려간다고 하지만, 누가 그것을 알겠는가?\"",
     Chn:"谁知道人的灵是往上升，兽的魂是下入地呢？",
     Eng:"Who knows if the spirit of man rises upward and if the spirit of the animal goes down into the earth?\"",
     Ind:"Siapakah yang mengetahui, apakah nafas manusia naik ke atas dan nafas binatang turun ke bawah bumi."

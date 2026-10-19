@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",4,24);
 BibleDB.add([
   {Bible:"Ezra", Chapter:4, Verse:1, Page:1,
-    Kor:"<사마리아 사람의 방해> 유다와 베냐민의 대적은, 사로잡혀 갔다가 돌아온 사람들이 주 이스라엘의 하나님의 성전을 짓고 있다는 말을 듣고서,",
+    Kor:"유다와 베냐민의 대적은, 사로잡혀 갔다가 돌아온 사람들이 주 이스라엘의 하나님의 성전을 짓고 있다는 말을 듣고서,",
     Chn:"犹大和便雅悯的敌人听说被掳归回的人为耶和华—以色列的　神建造殿宇，",
     Eng:"When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,",
     Ind:"Ketika lawan orang Yehuda dan Benyamin mendengar, bahwa orang-orang yang pulang dari pembuangan itu sedang membangun bait suci bagi TUHAN, Allah Israel,"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Maka penduduk negeri itu melemahkan semangat orang-orang Yehuda dan membuat mereka takut membangun."
   },
   {Bible:"Ezra", Chapter:4, Verse:5, Page:1,
-    Kor:"그들은 고문관들을 매수하면서까지 성전을 짓지 못하게 하였다. 이러한 방해는, 페르시아 왕 고레스가 다스리던 모든 기간뿐만 아니라, 페르시아 왕 다리우스가 통치하던 때까지 이어졌다.",
+    Kor:"그들은 고문관들을 매수하면서까지 성전을 짓지 못하게 하였다. 이러한 방해는, 페르시아 왕 고레스가 다스리던 모든 기간뿐만 아니라, 페르시아 왕 다리우스가 통치하던 때에 이르기까지 이어졌다.",
     Chn:"从波斯王塞鲁士年间，直到波斯王大流士登基的时候，贿买谋士，要败坏他们的谋算。",
     Eng:"They hired counselors to work against them and frustrate their plans during the entire reign of Cyrus king of Persia and down to the reign of Darius king of Persia.",
     Ind:"Bahkan, selama zaman Koresh, raja negeri Persia, sampai zaman pemerintahan Darius, raja negeri Persia, mereka menyogok para penasihat untuk melawan orang-orang Yehuda itu dan menggagalkan rancangan mereka."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Pada zaman pemerintahan Ahasyweros, pada permulaan pemerintahannya, mereka menulis surat tuduhan terhadap orang-orang yang telah menetap di Yehuda dan di Yerusalem."
   },
   {Bible:"Ezra", Chapter:4, Verse:7, Page:1,
-    Kor:"○아닥사스다 때에도 비슬람과 미드르닷과 다브엘과 그 밖의 동료 관리들이 페르시아의 아닥사스다 왕에게 글을 올렸다. 그 편지는 아람 글로 적었고 a번역이 되었다.(a 또는 '아람어로 번역이 되었다')",
+    Kor:"○아닥사스다 때에도 비슬람과 미드르닷과 다브엘과 그 밖의 동료 관리들이 페르시아의 아닥사스다 왕에게 글을 올렸다. 그 편지는 아람 글로 적었고 번역이 되었다.",
     Chn:"亚达薛西年间，比施兰、米特利达、他别，和他们的同党上本奏告波斯王亚达薛西。本章是用亚兰文字，亚兰方言。",
     Eng:"And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel and the rest of his associates wrote a letter to Artaxerxes. The letter was written in Aramaic script and in the Aramaic language.",
     Ind:"Dan pada zaman Artahsasta ditulislah surat oleh Bislam, Mitredat dan Tabeel serta rekan-rekannya yang lain kepada Artahsasta, raja negeri Persia. Naskah surat itu ditulis dalam bahasa Aram dengan terjemahannya. (Dalam bahasa Aram:)"
   },
   {Bible:"Ezra", Chapter:4, Verse:8, Page:1,
-    Kor:"○b르훔 사령관과 심새 서기관은 예루살렘 주민을 고발하는 상소문을 아닥사스다 왕에게 썼다.(b 4:8-6:18은 아람어로 기록됨)",
+    Kor:"○르훔 사령관과 심새 서기관은 예루살렘 주민을 고발하는 상소문을 아닥사스다 왕에게 썼다.",
     Chn:"省长利宏、书记伸帅要控告耶路撒冷人，也上本奏告亚达薛西王。",
     Eng:"Rehum the commanding officer and Shimshai the secretary wrote a letter against Jerusalem to Artaxerxes the king as follows:",
     Ind:"Rehum, bupati, dan Simsai, panitera, telah menulis surat terhadap Yerusalem kepada raja Artahsasta, yang isinya sebagai berikut."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"--Pada waktu itu ditulislah surat itu oleh Rehum, bupati, dan Simsai, panitera, serta rekan-rekan mereka yang lain, para hakim dan punggawa dan pegawai-pegawai, orang Persia, orang-orang dari Erekh, dari Babel serta orang-orang dari Susan, yaitu orang-orang Elam,"
   },
   {Bible:"Ezra", Chapter:4, Verse:10, Page:1,
-    Kor:"귀족 c오스납발이 사마리아의 여러 성과 유프라테스 강 서쪽 여러 지방에 이주시킨 민족들이다.(c 일명, '아슈르바니발')",
+    Kor:"귀족 오스납발이 사마리아의 여러 성과 유프라테스 강 서쪽 여러 지방에 이주시킨 민족들이다.",
     Chn:"和尊大的亚斯那巴所迁移、安置在撒马利亚城，并大河西一带地方的人等，",
     Eng:"and the other people whom the great and honorable Ashurbanipal deported and settled in the city of Samaria and elsewhere in Trans-Euphrates.",
     Ind:"dan bangsa-bangsa lain, yang oleh Asnapar yang agung dan mulia itu dipindahkan dan disuruh menetap di kota Samaria dan di daerah yang lain sebelah barat sungai Efrat."

@@ -3,13 +3,13 @@
 BibleDB.ref("1Thessalonians",5,28);
 BibleDB.add([
   {Bible:"1Thessalonians", Chapter:5, Verse:1, Page:1,
-    Kor:"a형제자매 여러분, 그 때와 시기를 두고서는 여러분에게 더 쓸 필요가 없겠습니다.(a 그, '형제들')",
+    Kor:"형제자매 여러분, 그 때와 시기를 두고서는, 여러분에게 더 쓸 필요가 없겠습니다.",
     Chn:"弟兄们，论到时候、日期，不用写信给你们，",
     Eng:"Now, brothers, about times and dates we do not need to write to you,",
     Ind:"Tetapi tentang zaman dan masa, saudara-saudara, tidak perlu dituliskan kepadamu,"
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:2, Page:1,
-    Kor:"주님의 날이 밤에 도둑처럼 온다는 것을, 여러분은 자세히 알고 있습니다.",
+    Kor:"주님의 날이 밤에 도둑처럼 온다는 것을, 여러분이 잘 알고 있습니다.",
     Chn:"因为你们自己明明晓得，主的日子来到，好像夜间的贼一样。",
     Eng:"for you know very well that the day of the Lord will come like a thief in the night.",
     Ind:"karena kamu sendiri tahu benar-benar, bahwa hari Tuhan datang seperti pencuri pada malam."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Apabila mereka mengatakan: Semuanya damai dan aman--maka tiba-tiba mereka ditimpa oleh kebinasaan, seperti seorang perempuan yang hamil ditimpa oleh sakit bersalin--mereka pasti tidak akan luput."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:4, Page:1,
-    Kor:"그러나 a형제자매 여러분, 여러분은 어둠 속에 있지 아니하므로, 그 날이 여러분에게 도둑과 같이 덮치지는 않을 것입니다.(a 그, '형제들')",
+    Kor:"그러나 형제자매 여러분, 여러분은 어둠 속에 있지 않으므로, 그 날이 여러분에게 도둑처럼 덮치지는 않을 것입니다.",
     Chn:"弟兄们，你们却不在黑暗里，叫那日子临到你们像贼一样。",
     Eng:"But you, brothers, are not in darkness so that this day should surprise you like a thief.",
     Ind:"Tetapi kamu, saudara-saudara, kamu tidak hidup di dalam kegelapan, sehingga hari itu tiba-tiba mendatangi kamu seperti pencuri,"
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"karena kamu semua adalah anak-anak terang dan anak-anak siang. Kita bukanlah orang-orang malam atau orang-orang kegelapan."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:6, Page:1,
-    Kor:"그러므로 우리는 다른 사람들처럼 잠자지 말고, 깨어 있으며, 정신을 차립시다.",
+    Kor:"그러므로 우리는 다른 사람들과 같이 잠자지 말고, 깨어 있으면서, 정신을 차립시다.",
     Chn:"所以，我们不要睡觉像别人一样，总要警醒谨守。",
     Eng:"So then, let us not be like others, who are asleep, but let us be alert and self-controlled.",
     Ind:"Sebab itu baiklah jangan kita tidur seperti orang-orang lain, tetapi berjaga-jaga dan sadar."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:7, Page:1,
-    Kor:"잠자는 자들은 밤에 자고, 술에 취하는 자들도 밤에 취합니다",
+    Kor:"잠자는 사람들은 밤에 자고, 술에 취하는 사람들도 밤에 취합니다.",
     Chn:"因为睡了的人是在夜间睡，醉了的人是在夜间醉。",
     Eng:"For those who sleep, sleep at night, and those who get drunk, get drunk at night.",
     Ind:"Sebab mereka yang tidur, tidur waktu malam dan mereka yang mabuk, mabuk waktu malam."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:8, Page:1,
-    Kor:"그러나 우리는 낮에 속한 사람이므로, 정신을 차리고, 믿음과 사랑을 가슴막이 갑옷으로 입고, 구원의 소망을 투구로 씁시다.",
+    Kor:"그러나 우리는 낮에 속한 사람이므로, 정신을 차리고, 믿음과 사랑을 가슴막이로 하고, 구원의 소망을 투구로 씁시다.",
     Chn:"但我们既然属乎白昼，就应当谨守，把信和爱当作护心镜遮胸，把得救的盼望当作头盔戴上。",
     Eng:"But since we belong to the day, let us be self-controlled, putting on faith and love as a breastplate, and the hope of salvation as a helmet.",
     Ind:"Tetapi kita, yang adalah orang-orang siang, baiklah kita sadar, berbajuzirahkan iman dan kasih, dan berketopongkan pengharapan keselamatan."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Karena Allah tidak menetapkan kita untuk ditimpa murka, tetapi untuk beroleh keselamatan oleh Yesus Kristus, Tuhan kita,"
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:10, Page:1,
-    Kor:"그리스도께서 우리를 위하여 죽으신 것은, 우리가 깨어 있든지 자고 있든지, 그리스도와 함께 살게 하시려는 것입니다.",
+    Kor:"그리스도께서 우리를 위하여 죽으신 것은, 우리가 깨어 있든지 자고 있든지, 그리스도와 함께 살게 하시려고 하는 것입니다.",
     Chn:"他替我们死，叫我们无论醒着，睡着，都与他同活。",
     Eng:"He died for us so that, whether we are awake or asleep, we may live together with him.",
     Ind:"yang sudah mati untuk kita, supaya entah kita berjaga-jaga, entah kita tidur, kita hidup bersama-sama dengan Dia."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Karena itu nasihatilah seorang akan yang lain dan saling membangunlah kamu seperti yang memang kamu lakukan."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:12, Page:1,
-    Kor:"<마지막 권고와 인사> ○a형제자매 여러분, 우리는 여러분에게 부탁합니다. 여러분 가운데서 수고하며, 주님 안에서 여러분을 지도하고 훈계하는 이들을 알아보십시오.(a 그, '형제들')",
+    Kor:"○형제자매 여러분, 우리는 여러분에게 부탁합니다. 여러분 가운데서 수고하고 주님 안에서 여러분을 지도하고 훈계하는 이들을 알아보십시오.",
     Chn:"弟兄们，我们劝你们敬重那在你们中间劳苦的人，就是在主里面治理你们、劝戒你们的；",
     Eng:"Now we ask you, brothers, to respect those who work hard among you, who are over you in the Lord and who admonish you.",
     Ind:"Kami minta kepadamu, saudara-saudara, supaya kamu menghormati mereka yang bekerja keras di antara kamu, yang memimpin kamu dalam Tuhan dan yang menegor kamu;"
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:13, Page:1,
-    Kor:"그들이 하는 일을 생각해서 사랑으로 그들을 극진히 존경하십시오. 여러분은 서로 화목하게 지내십시오.",
+    Kor:"그들이 하는 일을 생각해서, 사랑으로 그들을 극진히 존경하십시오. 여러분은 서로 화목하게 지내십시오.",
     Chn:"又因他们所做的工，用爱心格外尊重他们。你们也要彼此和睦。",
     Eng:"Hold them in the highest regard in love because of their work. Live in peace with each other.",
     Ind:"dan supaya kamu sungguh-sungguh menjunjung mereka dalam kasih karena pekerjaan mereka. Hiduplah selalu dalam damai seorang dengan yang lain."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:14, Page:1,
-    Kor:"a형제자매 여러분, 여러분에게 권고합니다. 무질서하게 사는 사람을 훈계하고, 마음이 약한 사람을 격려하고, 힘이 없는 사람을 도와주고, 모든 사람에게 오래 참으십시오.(a 그, '형제들')",
+    Kor:"형제자매 여러분, 여러분에게 권면합니다. 무질서하게 사는 사람을 훈계하고, 마음이 약한 사람을 격려하고, 힘이 없는 사람을 도와 주고, 모든 사람에게 오래 참으십시오.",
     Chn:"我们又劝弟兄们，要警戒不守规矩的人，勉励灰心的人，扶助软弱的人，也要向众人忍耐。",
     Eng:"And we urge you, brothers, warn those who are idle, encourage the timid, help the weak, be patient with everyone.",
     Ind:"Kami juga menasihati kamu, saudara-saudara, tegorlah mereka yang hidup dengan tidak tertib, hiburlah mereka yang tawar hati, belalah mereka yang lemah, sabarlah terhadap semua orang."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:19, Page:1,
-    Kor:"성령을 소멸하지 마십시오.",
+    Kor:"성령의 불을 끄지 마십시오.",
     Chn:"不要消灭圣灵的感动；",
     Eng:"Do not put out the Spirit's fire;",
     Ind:"Janganlah padamkan Roh,"
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Ujilah segala sesuatu dan peganglah yang baik."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:22, Page:1,
-    Kor:"갖가지 모양의 악을 멀리 하십시오.",
+    Kor:"여러 가지 모양의 악을 멀리하십시오.",
     Chn:"各样的恶事要禁戒不做。",
     Eng:"Avoid every kind of evil.",
     Ind:"Jauhkanlah dirimu dari segala jenis kejahatan."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:23, Page:1,
-    Kor:"○평화의 하나님께서 친히, 여러분을 완전히 거룩하게 해 주시고, 우리 주 예수 그리스도께서 오실 때에 여러분의 영과 혼과 몸을 흠이 없이 b완전하게 지켜 주시기를 빕니다.(b 또는 '건전하게')",
+    Kor:"○평화의 하나님께서 친히 여러분을 완전히 거룩하게 해주시고, 우리 주 예수 그리스도께서 오실 때에, 여러분의 영과 혼과 몸을 흠이 없고 완전하게 지켜 주시기를 빕니다.",
     Chn:"愿赐平安的　神亲自使你们全然成圣！又愿你们的灵与魂与身子得蒙保守，在我们主耶稣基督降临的时候，完全无可指摘！",
     Eng:"May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ.",
     Ind:"Semoga Allah damai sejahtera menguduskan kamu seluruhnya dan semoga roh, jiwa dan tubuhmu terpelihara sempurna dengan tak bercacat pada kedatangan Yesus Kristus, Tuhan kita."
@@ -147,25 +147,25 @@ BibleDB.add([
     Ind:"Ia yang memanggil kamu adalah setia, Ia juga akan menggenapinya."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:25, Page:1,
-    Kor:"○a형제자매 여러분, 우리를 위하여 기도해 주십시오.(a 그, '형제들')",
+    Kor:"○형제자매 여러분, 우리를 위하여 기도해 주십시오.",
     Chn:"请弟兄们为我们祷告。",
     Eng:"Brothers, pray for us.",
     Ind:"Saudara-saudara, doakanlah kami."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:26, Page:1,
-    Kor:"○거룩한 입맞춤으로 모든 a믿는 사람들에게 문안해 주십시오.(a 그, '형제들')",
+    Kor:"○거룩한 입맞춤으로 모든 형제자매에게 문안해 주십시오.",
     Chn:"与众弟兄亲嘴问安，务要圣洁。",
     Eng:"Greet all the brothers with a holy kiss.",
     Ind:"Sampaikanlah salam kami kepada semua saudara dengan cium yang kudus."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:27, Page:1,
-    Kor:"나는 주님을 힘입어 여러분에게 명합니다. 모든 a믿는 사람들에게 이 편지를 읽어 주십시오.(a 그, '형제들')",
+    Kor:"나는 주님을 힘입어 여러분에게 명합니다. 모든 형제자매에게 이 편지를 읽어 주십시오.",
     Chn:"我指着主嘱咐你们，要把这信念给众弟兄听。",
     Eng:"I charge you before the Lord to have this letter read to all the brothers.",
     Ind:"Demi nama Tuhan aku minta dengan sangat kepadamu, supaya surat ini dibacakan kepada semua saudara."
   },
   {Bible:"1Thessalonians", Chapter:5, Verse:28, Page:1,
-    Kor:"○우리 주 예수 그리스도의 은혜가 여러분과 함께 하기를 빕니다.c(c 다른 고대 사본들에는 절 끝에 '아멘'이 있음)",
+    Kor:"○우리 주 예수 그리스도의 은혜가 여러분과 함께 있기를 빕니다.",
     Chn:"愿我主耶稣基督的恩常与你们同在！",
     Eng:"The grace of our Lord Jesus Christ be with you.",
     Ind:"Kasih karunia Yesus Kristus, Tuhan kita, menyertai kamu!"

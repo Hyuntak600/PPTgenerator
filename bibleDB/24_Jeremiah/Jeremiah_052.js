@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",52,34);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:52, Verse:1, Page:1,
-    Kor:"<예루살렘의 함락(왕하 24:18-25:7)> 시드기야가 왕이 되었을 때에, 그는 스물한 살이었다. 그는 예루살렘에서 열한 해 동안 다스렸다. 그의 어머니 하무달은 리블라 출신으로 예레미야의 딸이다.",
+    Kor:"시드기야가 왕이 되었을 때에, 그는 스물한 살이었다. 그는 예루살렘에서 열한 해 동안 다스렸다. 그의 어머니 하무달은 립나 출신으로 예레미야의 딸이다.",
     Chn:"西底家登基的时候年二十一岁，在耶路撒冷作王十一年。他母亲名叫哈慕她，是立拿人耶利米的女儿。",
     Eng:"Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah.",
     Ind:"Zedekia berumur dua puluh satu tahun pada waktu ia menjadi raja dan sebelas tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Hamutal binti Yeremia, dari Libna."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:2, Page:1,
-    Kor:"그는 여호야김이 하였던 것과 똑같이, 주님께서 보시기에 악한 일을 하였다.",
+    Kor:"그는 여호야김이 하였던 것과 똑같이, 주께서 보시기에 악한 일을 하였다.",
     Chn:"西底家行耶和华眼中看为恶的事，是照约雅敬一切所行的。",
     Eng:"He did evil in the eyes of the LORD, just as Jehoiakim had done.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN tepat seperti yang telah dilakukan Yoyakim."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:3, Page:1,
-    Kor:"예루살렘과 유다가 주님을 그토록 진노하시게 하였기 때문에, 주님께서는 마침내 그들을 주님 앞에서 쫓아내셨다. ○시드기야가 바빌로니아 왕에게 반기를 들었으므로,",
+    Kor:"예루살렘과 유다가 주님을 그토록 진노하시게 하였기 때문에, 주께서는 마침내 그들을 주님 앞에서 쫓아내셨다. ○시드기야가 바빌로니아 왕에게 반기를 들었으므로,",
     Chn:"因此耶和华的怒气在耶路撒冷和犹大发作，以致将人民从自己的面前赶出。",
     Eng:"It was because of the LORD'S anger that all this happened to Jerusalem and Judah, and in the end he thrust them from his presence. Now Zedekiah rebelled against the king of Babylon.",
     Ind:"Sebab oleh karena murka Tuhanlah hal itu terjadi terhadap Yerusalem dan Yehuda, yakni bahwa Ia sampai membuang mereka dari hadapan-Nya. Zedekia memberontak terhadap raja Babel."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Pada tanggal sembilan bulan yang keempat, ketika kelaparan sudah merajalela di kota itu dan tidak ada lagi makanan pada rakyat negeri itu,"
   },
   {Bible:"Jeremiah", Chapter:52, Verse:7, Page:1,
-    Kor:"○드디어 성벽이 뚫리니, 이것을 본 왕은, a바빌로니아 군대가 도성을 포위하고 있는데도, 밤을 틈타서 모든 군사를 거느리고, 왕의 정원 근처, 두 성벽을 잇는 통로를 지나 도성 바깥으로 빠져 나와 아라바 쪽으로 도망하였다.(a 또는 '갈대아')",
+    Kor:"○드디어 성벽이 뚫리니, 이것을 본 왕은, 바빌로니아 군대가 도성을 포위하고 있는 데도, 밤을 틈타서 모든 군사를 거느리고, 왕의 정원 근처, 두 성벽을 잇는 통로를 지나 도성 바깥으로 빠져 나와 아라바 쪽으로 도망하였다.",
     Chn:"城被攻破，一切兵丁就在夜间从靠近王园两城中间的门，出城逃跑；迦勒底人正在四围攻城。他们就往亚拉巴逃去。",
     Eng:"Then the city wall was broken through, and the whole army fled. They left the city at night through the gate between the two walls near the king's garden, though the Babylonians were surrounding the city. They fled toward the Arabah,",
     Ind:"maka dibelah oranglah tembok kota itu. Melihat hal itu maka melarikan dirilah raja dengan semua tentara, meninggalkan kota itu pada waktu malam melalui pintu gerbang antara kedua tembok yang ada di dekat taman raja, sekalipun orang Kasdim mengepung kota itu sekeliling. Mereka lari menuju ke Araba-Yordan."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Tetapi tentara Kasdim itu mengejar raja dari belakang dan mencapai Zedekia di dataran Yerikho; segala tentaranya telah berserak-serak meninggalkan dia."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:9, Page:1,
-    Kor:"바빌로니아 군대가 시드기야 왕을 체포해서, 하맛 땅의 리블라에 있는 바빌로니아 왕에게 끌고 가니, 그가 시드기야를 신문하고,",
+    Kor:"바빌로니아 군대가 시드기야 왕을 체포해서, 하맛 땅의 립나에 있는 바빌로니아 왕에게 끌고 가니, 그가 시드기야를 신문하고,",
     Chn:"迦勒底人就拿住王，带他到在哈马地利比拉的巴比伦王那里；巴比伦王便审判他。",
     Eng:"and he was captured. He was taken to the king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him.",
     Ind:"Mereka menangkap raja dan membawa dia ke Ribla di tanah Hamat, kepada raja Babel, yang menjatuhkan hukuman atas dia."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:10, Page:1,
-    Kor:"또 바빌로니아 왕은 시드기야의 아들들을 그가 보는 앞에서 처형하고, 역시 리블라에서 유다의 고관들도 모두 처형하였다.",
+    Kor:"또 바빌로니아 왕은 시드기야의 아들들을 그가 보는 앞에서 처형하고, 역시 립나에서 유다의 고관들도 모두 처형하였다.",
     Chn:"巴比伦王在西底家眼前杀了他的众子，又在利比拉杀了犹大的一切首领，",
     Eng:"There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes; he also killed all the officials of Judah.",
     Ind:"Raja Babel menyuruh menyembelih anak-anak Zedekia di depan matanya; juga semua pemuka Yehuda disembelihnya di Ribla."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Kemudian mata Zedekia dibutakannya, lalu ia dibelenggu dengan rantai tembaga. Kemudian raja Babel membawa dia ke Babel dan menaruhnya dalam rumah hukuman sampai kepada hari matinya."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:12, Page:1,
-    Kor:"<성전 붕괴(왕하 25:8-17)> ○바빌로니아 왕 느부갓네살 제 십구년 다섯째 달 십일에, 바빌로니아 왕의 부하인 근위대장 느부사라단이 예루살렘으로 왔다.",
+    Kor:"○바빌로니아 왕 느부갓네살 제 십구년 다섯째 달 십일에, 바빌로니아 왕의 부하인 근위대장 느부사라단이 예루살렘으로 왔다.",
     Chn:"巴比伦王尼布甲尼撒十九年五月初十日，在巴比伦王面前侍立的护卫长尼布撒拉旦进入耶路撒冷，",
     Eng:"On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar king of Babylon, Nebuzaradan commander of the imperial guard, who served the king of Babylon, came to Jerusalem.",
     Ind:"Dalam bulan yang kelima, pada tanggal sepuluh bulan itu--itulah tahun kesembilan belas pemerintahan Nebukadnezar, raja Babel--datanglah Nebuzaradan, kepala pasukan pengawal, yang melayani raja Babel, ke Yerusalem."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:13, Page:1,
-    Kor:"그는 주님의 성전과 왕궁과 예루살렘의 모든 건물 곧 큰 건물은 모두 불태워 버렸다.",
+    Kor:"그는 주의 성전과 왕궁과 예루살렘의 모든 건물, 곧 큰 건물은 모두 불태워 버렸다.",
     Chn:"用火焚烧耶和华的殿和王宫，又焚烧耶路撒冷的房屋，就是各大户家的房屋。",
     Eng:"He set fire to the temple of the LORD, the royal palace and all the houses of Jerusalem. Every important building he burned down.",
     Ind:"Ia membakar rumah TUHAN, rumah raja dan segala rumah di Yerusalem; segala rumah orang-orang besar dibakarnya dengan api."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Hanya beberapa orang miskin dari negeri itu ditinggalkan oleh Nebuzaradan, kepala pasukan pengawal itu, untuk menjadi tukang-tukang kebun anggur dan peladang-peladang."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:17, Page:1,
-    Kor:"○바빌로니아 군대는 주님의 성전에 있는 놋쇠 기둥과 받침대, 또 주님의 성전에 있는 놋바다를 부수어서, 모든 놋쇠를 바빌론으로 가져 갔다.",
+    Kor:"○바빌로니아 군대는 주의 성전에 있는 놋쇠 기둥과 받침대, 또 주의 성전에 있는 놋바다를 부수어서, 모든 놋쇠를 바빌론으로 가져 갔다.",
     Chn:"耶和华殿的铜柱并殿内的盆座和铜海，迦勒底人都打碎了，将那铜运到巴比伦去了，",
     Eng:"The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the LORD and they carried all the bronze to Babylon.",
     Ind:"Juga tiang-tiang tembaga yang ada di rumah TUHAN dan kereta penopang dan laut tembaga yang ada di rumah TUHAN dipecahkan oleh orang Kasdim dan seluruh tembaganya diangkut mereka ke Babel."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"juga pasu-pasu, perbaraan-perbaraan, bokor-bokor penyiraman, kuali-kuali, kandil-kandil, cawan-cawan dan piala-piala, baik segala yang dari emas maupun segala yang dari perak, diambil oleh kepala pasukan pengawal itu."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:20, Page:1,
-    Kor:"솔로몬 왕이 주님의 성전에 만들어 놓은 놋쇠로 만든 두 기둥과, 놋바다 하나와, 놋받침대 밑에 있는 놋쇠로 만든 소 모형 열둘을 모두 가져 갔다. 그가 가져 간 이 모든 기구의 놋쇠는, 그 무게를 달아 볼 수 없을 정도로 많았다.",
+    Kor:"솔로몬 왕이 주의 성전에 만들어 놓은 놋쇠로 만든 두 기둥과, 놋바다 하나와, 놋받침대 밑에 있는 놋쇠로 만든 소 모형 열둘을 모두 가져 갔다. 그가 가져 간 이 모든 기구의 놋쇠는, 그 무게를 달아 볼 수 없을 정도로 많았다.",
     Chn:"所罗门为耶和华殿所造的两根铜柱、一个铜海，并座下的十二只铜牛，这一切的铜多得无法可称。",
     Eng:"The bronze from the two pillars, the Sea and the twelve bronze bulls under it, and the movable stands, which King Solomon had made for the temple of the LORD, was more than could be weighed.",
     Ind:"Adapun kedua tiang, laut yang satu itu dan kedua belas lembu tembaga yang ada di bawah kereta penopang, yang dibuat oleh raja Salomo untuk rumah TUHAN, tiada tertimbang tembaga segala perkakas ini."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"ada sembilan puluh enam buah delima yang merupakan gambar timbul; seluruhnya buah-buah delima itu ada seratus pada jala-jala itu berkeliling."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:24, Page:1,
-    Kor:"<유다 백성이 바빌로니아로 잡혀 가다(왕하 25:18-21, 27-30)> ○근위대장은 대제사장 스라야와 부제사장 스바냐와 세 명의 성전 문지기를 체포하였다.",
+    Kor:"○근위대장은 대제사장 스라야와 부제사장 스바냐와 세 명의 성전 문지기를 체포하였다.",
     Chn:"护卫长拿住大祭司西莱雅、副祭司西番亚，和三个把门的，",
     Eng:"The commander of the guard took as prisoners Seraiah the chief priest, Zephaniah the priest next in rank and the three doorkeepers.",
     Ind:"Lalu kepala pasukan pengawal itu menangkap Seraya, imam kepala, dan Zefanya, imam tingkat dua, dan ketiga orang penjaga pintu."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Dari kota itu ditangkapnya seorang pegawai istana yang diangkat mengepalai prajurit-prajurit dan tujuh orang pelayan pribadi raja yang terdapat di kota itu, dan panitera panglima tentara yang mengerahkan rakyat negeri menjadi tentara, dan enam puluh orang dari rakyat negeri yang terdapat di tengah-tengah kota itu."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:26, Page:1,
-    Kor:"근위대장 느부사라단은 그들을 체포하여, 리블라에 머물고 있는 바빌로니아 왕에게 데리고 갔다.",
+    Kor:"근위대장 느부사라단은 그들을 체포하여, 립나에 머물고 있는 바빌로니아 왕에게 데리고 갔다.",
     Chn:"护卫长尼布撒拉旦将这些人带到利比拉的巴比伦王那里。",
     Eng:"Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah.",
     Ind:"Nebuzaradan, kepala pasukan pengawal, menangkap mereka dan membawa mereka kepada raja Babel, di Ribla."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:27, Page:1,
-    Kor:"바빌로니아 왕은 하맛 땅 리블라에서 그들을 처형하였다. ○이렇게 유다 백성은 포로가 되어서 그들의 땅에서 쫓겨났다.",
+    Kor:"바빌로니아 왕은 하맛 땅 립나에서 그들을 처형하였다. ○이렇게 유다 백성은 포로가 되어서 그들의 땅에서 쫓겨났다.",
     Chn:"巴比伦王就把他们击杀在哈马地的利比拉。这样，犹大人被掳去离开本地。",
     Eng:"There at Riblah, in the land of Hamath, the king had them executed. So Judah went into captivity, away from her land.",
     Ind:"Lalu raja Babel menyuruh membunuh mereka di Ribla, di tanah Hamat. Demikianlah orang Yehuda diangkut ke dalam pembuangan dari tanahnya."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"dalam tahun kedua puluh tiga zaman Nebukadnezar, diangkut ke dalam pembuangan oleh Nebuzaradan, kepala pasukan pengawal, tujuh ratus empat puluh lima jiwa orang Yehuda; seluruhnya berjumlah empat ribu enam ratus jiwa."
   },
   {Bible:"Jeremiah", Chapter:52, Verse:31, Page:1,
-    Kor:"○유다 왕 여호야긴이 포로로 잡혀 간 지 서른일곱 해가 되는 해 곧 바빌로니아 왕 에윌므로닥이 왕위에 오른 그 해 열두째 달 이십오일에, 그가 유다 왕 여호야긴에게 특사를 베풀어서, 그를 옥에서 석방하였다.",
+    Kor:"○유다 왕 여호야긴이 포로로 잡혀 간 지 서른일곱 해가 되는 해, 곧 바빌로니아 왕 에윌므로닥이 왕위에 오른 그 해 열두째 달 이십오일에, 그가 유다 왕 여호야긴에게 특사를 베풀어서, 그를 옥에서 석방하였다.",
     Chn:"犹大王约雅斤被掳后三十七年，巴比伦王以未·米罗达元年十二月二十五日，使犹大王约雅斤抬头，提他出监，",
     Eng:"In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Evil-Merodach became king of Babylon, he released Jehoiachin king of Judah and freed him from prison on the twenty-fifth day of the twelfth month.",
     Ind:"Kemudian dalam tahun ketiga puluh tujuh sesudah Yoyakhin, raja Yehuda, dibuang, dalam bulan yang kedua belas, pada tanggal dua puluh lima bulan itu, maka Ewil-Merodakh, raja Babel, dalam tahun ia menjadi raja, menunjukkan belas kasihannya kepada Yoyakhin, raja Yehuda, dengan melepaskannya dari penjara."

@@ -3,19 +3,19 @@
 BibleDB.ref("Jeremiah",19,15);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:19, Verse:1, Page:1,
-    Kor:"<깨진 항아리> 주님께서 나에게 말씀하셨다. \"너는 토기장이를 찾아가서 항아리를 하나 산 다음에, 백성을 대표하는 장로 몇 사람과 나이든 제사장 몇 사람을 데리고,",
+    Kor:"주께서 나에게 말씀하셨다. \"너는 토기장이를 찾아가서 항아리를 하나 산 다음에, 백성을 대표하는 장로 몇 사람과 나이든 제사장 몇 사람을 데리고,",
     Chn:"耶和华如此说：「你去买窑匠的瓦瓶，又带百姓中的长老和祭司中的长老，",
     Eng:"This is what the LORD says: \"Go and buy a clay jar from a potter. Take along some of the elders of the people and of the priests",
     Ind:"Beginilah pula firman TUHAN kepadaku: \"Pergilah membeli buli-buli yang dibuat dari tanah, lalu ajaklah bersama-sama engkau beberapa orang tua-tua bangsa itu dan beberapa orang imam yang tertua,"
   },
   {Bible:"Jeremiah", Chapter:19, Verse:2, Page:1,
-    Kor:"a'하시드 문' 어귀 곁에 있는 b'힌놈의 아들 골짜기'로 나아가서, 내가 너에게 일러주는 말을 거기에서 선포하여라.(a 또는 '질그릇 조각의 문' b 또는 '벤힌놈 골짜기')",
+    Kor:"'하시드 문' 어귀 곁에 있는 '힌놈의 아들 골짜기'로 나아가서, 내가 너에게 일러주는 말을 거기에서 선포하여라.",
     Chn:"出去到欣嫩子谷、哈珥西的门口那里，宣告我所吩咐你的话，",
     Eng:"and go out to the Valley of Ben Hinnom, near the entrance of the Potsherd Gate. There proclaim the words I tell you,",
     Ind:"kemudian berangkatlah ke Lembah Ben-Hinom yang di depan pintu gerbang Beling! Serukanlah di sana perkataan-perkataan yang akan Kusampaikan kepadamu!"
   },
   {Bible:"Jeremiah", Chapter:19, Verse:3, Page:1,
-    Kor:"○너는 이렇게 말하여라. '너희 유다 왕들과 예루살렘 모든 주민아, 너희는 나 주의 말을 들어라. 나 만군의 주 이스라엘의 하나님이 말한다. 내가 이 곳에 재앙을 내릴 터이니, 이 재앙은 그 소식을 듣는 모든 사람의 귀가 얼얼해질 만큼 무서운 재앙이 될 것이다.",
+    Kor:"○너는 이렇게 말하여라. '너희 유다 왕들과 예루살렘 모든 주민아, 너희는 나 주의 말을 들어라. 나 만군의 주 이스라엘의 하나님이 이렇게 말한다. 내가 이 곳에 재앙을 내릴 터이니, 이 재앙은 그 소식을 듣는 모든 사람의 귀가 얼얼해질 만큼 무서운 재앙이 될 것이다.",
     Chn:"说：『犹大君王和耶路撒冷的居民哪，当听耶和华的话。万军之耶和华—以色列的　神如此说：我必使灾祸临到这地方，凡听见的人都必耳鸣；",
     Eng:"and say, 'Hear the word of the LORD, O kings of Judah and people of Jerusalem. This is what the LORD Almighty, the God of Israel, says: Listen! I am going to bring a disaster on this place that will make the ears of everyone who hears of it tingle.",
     Ind:"Katakanlah: Dengarlah firman TUHAN, hai raja-raja Yehuda dan penduduk Yerusalem! Beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, Aku akan mendatangkan malapetaka kepada tempat ini, sehingga telinga orang yang mendengarnya, mendenging!"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sebab itu, sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa tempat ini tidak akan disebut lagi: Tofet dan Lembah Ben-Hinom, melainkan Lembah Pembunuhan."
   },
   {Bible:"Jeremiah", Chapter:19, Verse:7, Page:1,
-    Kor:"○내가 이 곳에서 유다와 예루살렘의 계획을 c좌절시키고, 그들이 전쟁할 때에 원수들의 칼에 찔려 죽게 하고, 그들의 목숨을 노리는 사람들의 손에 죽게 하고, 그들의 시체는 공중의 새와 들짐승의 먹이가 되게 하겠다.(c '좌절시키다(히, 바카)'라는 말과 '항아리(히, 바크부크)'의 발음이 비슷함(1,10절을 볼 것))",
+    Kor:"○내가 이 곳에서 유다와 예루살렘의 계획을 좌절시키고, 그들이 전쟁할 때에 원수들의 칼에 찔려 죽게 하고, 그들의 목숨을 노리는 사람들의 손에 죽게 하고, 그들의 시체는 공중의 새와 들짐승의 먹이가 되게 하겠다.",
     Chn:"我必在这地方使犹大和耶路撒冷的计谋落空，也必使他们在仇敌面前倒于刀下，并寻索其命的人手下。他们的尸首，我必给空中的飞鸟和地上的野兽作食物。",
     Eng:"\"'In this place I will ruin the plajs of Judah and Jerusalem. I will make them fall by the sword before their enemies, at the hands of those who seek their lives, and I will give their carcasses as food to the birds of the air and the beasts of the earth.",
     Ind:"Aku akan menggagalkan rancangan Yehuda dan Yerusalem di tempat ini dan Aku akan membuat mereka rebah oleh pedang di depan musuh mereka dan oleh tangan orang-orang yang ingin mencabut nyawa mereka. Aku akan membiarkan mayat-mayat mereka dimakan oleh burung-burung di udara dan oleh binatang-binatang di bumi."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Selanjutnya pecahkanlah buli-buli itu di depan mata orang-orang yang turut bersama-sama engkau."
   },
   {Bible:"Jeremiah", Chapter:19, Verse:11, Page:1,
-    Kor:"그들에게 이렇게 전하여라. ○'만군의 주가 말한다. 토기 그릇은 한번 깨지면 다시 원상태로 쓸 수 없다. 나도 이 백성과 이 도성을 토기 그릇처럼 깨뜨려 버리겠다. 그러면 더 이상 시체를 묻을 자리가 없어서, 사람들이 도벳에까지 시체를 묻을 것이다.",
+    Kor:"그들에게 이렇게 전하여라. '만군의 주가 이렇게 말한다. 토기 그릇은 한번 깨지면 다시 원상태로 쓸 수 없다. 나도 이 백성과 이 도성을 토기 그릇처럼 깨뜨려 버리겠다. 그러면 더 이상 시체를 묻을 자리가 없어서, 사람들이 도벳에까지 시체를 묻을 것이다.",
     Chn:"对他们说：『万军之耶和华如此说：我要照样打碎这民和这城，正如人打碎窑匠的瓦器，以致不能再囫囵。并且人要在陀斐特葬埋尸首，甚至无处可葬。",
     Eng:"and say to them, 'This is what the LORD Almighty says: I will smash this nation and this city just as this potter's jar is smashed and cannot be repaired. They will bury the dead in Topheth until there is no more room.",
     Ind:"Katakanlah kepada mereka: Beginilah firman TUHAN semesta alam: Demikianlah akan Kupecahkan bangsa ini dan kota ini, seperti orang memecahkan tembikar tukang periuk, sehingga tidak dapat diperbaiki lagi. Dan Tofet akan menjadi tempat penguburan, karena tidak ada tempat lain untuk menguburkan."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"rumah-rumah Yerusalem dan rumah-rumah para raja Yehuda akan menjadi najis seperti tempat Tofet, yakni segala rumah yang di atas sotohnya orang membakar korban kepada segala tentara langit dan mempersembahkan korban curahan kepada allah lain.\""
   },
   {Bible:"Jeremiah", Chapter:19, Verse:14, Page:1,
-    Kor:"○예레미야는, 주님께서 예언하라고 보내신 도벳에서 돌아와, 주님의 성전 뜰에 서서, 모든 백성에게 말하였다.",
+    Kor:"○예레미야는, 주께서 예언하라고 보내신 도벳에서 돌아와, 주의 성전 뜰에 서서, 모든 백성에게 말하였다.",
     Chn:"耶利米从陀斐特—就是耶和华差他去说预言的地方—回来，站在耶和华殿的院中，对众人说：",
     Eng:"Jeremiah then returned from Topheth, where the LORD had sent him to prophesy, and stood in the court of the LORD'S temple and said to all the people,",
     Ind:"Ketika Yeremia pulang dari Tofet, ke mana TUHAN telah mengutusnya untuk bernubuat, berdirilah ia di pelataran rumah TUHAN dan berkata kepada segenap orang banyak:"
   },
   {Bible:"Jeremiah", Chapter:19, Verse:15, Page:1,
-    Kor:"\"나 만군의 주 이스라엘의 하나님이 말한다. 이 백성이 고집을 부려, 나의 말에 순종하지 않았으므로, 이제 내가 이미 선포한 그 모든 재앙을, 이 도성과 거기에 딸린 모든 성읍 위에 내리겠다.\"",
+    Kor:"\"나 만군의 주 이스라엘의 하나님이 이렇게 말한다. 이 백성이 고집을 부려, 나의 말에 순종하지 않았으므로, 이제 내가 이미 선포한 그 모든 재앙을, 이 도성과 거기에 딸린 모든 성읍 위에 내리겠다.\"",
     Chn:"「万军之耶和华—以色列的　神如此说：我必使我所说的一切灾祸临到这城和属城的一切城邑，因为他们硬着颈项不听我的话。」",
     Eng:"\"This is what the LORD Almighty, the God of Israel, says: 'Listen! I am going to bring on this city and the villages around it every disaster I pronounced against them, because they were stiff-necked and would not listen to my words.'\"",
     Ind:"\"Beginilah firman TUHAN semesta alam, Allah Israel: Sesungguhnya, Aku akan mendatangkan ke atas kota ini dan ke atas segala kota sekitarnya seluruh malapetaka yang telah Kukatakan akan menimpa mereka, sebab mereka berkeras kepala dan tidak mendengarkan perkataan-perkataan"

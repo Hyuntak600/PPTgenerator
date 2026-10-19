@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",30,31);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:30, Verse:1, Page:1,
-    Kor:"<다윗이 아말렉과 싸우다> 다윗이 부하들과 함께 사흘 만에 시글락으로 돌아왔을 때에는, 아말렉 사람이 이미 남부 지역과 시글락을 습격하고 떠난 뒤였다. 그들은 시글락에 침입하여 성에 불을 지르고,",
+    Kor:"다윗이 부하들과 함께 사흘 만에 시글락으로 돌아왔을 때에는, 아말렉 사람이 이미 남부 지역과 시글락을 습격하고 떠난 뒤였다. 그들은 시글락에 침입하여 불을 지르고,",
     Chn:"第三日，大卫和跟随他的人到了洗革拉。亚玛力人已经侵夺南地，攻破洗革拉，用火焚烧，",
     Eng:"David and his men reached Ziklag on the third day. Now the Amalekites had raided the Negev and Ziklag. They had attacked Ziklag and burned it,",
     Ind:"Ketika Daud serta orang-orangnya sampai ke Ziklag pada hari yang ketiga, orang Amalek telah menyerbu Tanah Negeb dan Ziklag; Ziklag telah dikalahkan oleh mereka dan dibakar habis."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Juga kedua isteri Daud ditawan, yakni Ahinoam, perempuan Yizreel, dan Abigail, bekas isteri Nabal, orang Karmel itu."
   },
   {Bible:"1Samuel", Chapter:30, Verse:6, Page:1,
-    Kor:"○군인들이 저마다 아들딸들을 잃고 마음이 아파서, 다윗을 돌로 치자고 말할 정도였으니, 다윗은 큰 곤경에 빠졌다. 그러나 다윗은 자기가 믿는 주 하나님을 더욱 굳게 의지하였다.",
+    Kor:"군인들이 저마다 아들딸들을 잃고 마음이 아파서, 다윗을 돌로 치자고 말할 정도였으니, 다윗은 큰 곤경에 빠졌다. 그러나 다윗은 자기가 믿는 주 하나님을 더욱 굳게 의지하였다.",
     Chn:"大卫甚是焦急，因众人为自己的儿女苦恼，说：「要用石头打死他。」大卫却倚靠耶和华—他的　神，心里坚固。",
     Eng:"David was greatly distressed because the men were talking of stoning him; each one was bitter in spirit because of his sons and daughters. But David found strength in the LORD his God.",
     Ind:"Dan Daud sangat terjepit, karena rakyat mengatakan hendak melempari dia dengan batu. Seluruh rakyat itu telah pedih hati, masing-masing karena anaknya laki-laki dan perempuan. Tetapi Daud menguatkan kepercayaannya kepada TUHAN, Allahnya."
   },
   {Bible:"1Samuel", Chapter:30, Verse:7, Page:1,
-    Kor:"○다윗이 아히멜렉의 아들 제사장 아비아달에게 말하였다. \"어서 나에게 에봇을 가져다 주시오!\" 아비아달이 에봇을 다윗에게 가져오니,",
+    Kor:"다윗이 아히멜렉의 아들 제사장 아비아달에게 말하였다. \"어서 나에게 에봇을 가져다 주시오!\" 아비아달이 에봇을 다윗에게 가져오니,",
     Chn:"大卫对亚希米勒的儿子祭司亚比亚他说：「请你将以弗得拿过来。」亚比亚他就将以弗得拿到大卫面前。",
     Eng:"Then David said to Abiathar the priest, the son of Ahimelech, \"Bring me the ephod.\" Abiathar brought it to him,",
     Ind:"Lalu Daud memberi perintah kepada imam Abyatar bin Ahimelekh: \"Bawalah efod itu kepadaku.\" Maka Abyatar membawa efod itu kepada Daud."
   },
   {Bible:"1Samuel", Chapter:30, Verse:8, Page:1,
-    Kor:"다윗이 주님께 문의하였다. \"제가 이 강도들을 추격하면 따라잡을 수 있겠습니까?\" 주님께서 그에게 대답하셨다. \"네가 틀림없이 따라잡고, 또 틀림없이 되찾을 것이니, 추격하여라!\"",
+    Kor:"다윗이 주께 문의하였다. \"제가 이 강도들을 추격하면 따라잡을 수 있겠습니까?\" 주께서 그에게 대답하셨다. \"네가 틀림없이 따라잡고, 또 틀림없이 되찾을 것이니, 추격하여라!\"",
     Chn:"大卫求问耶和华说：「我追赶敌军，追得上追不上呢？」耶和华说：「你可以追，必追得上，都救得回来。」",
     Eng:"and David inquired of the LORD, \"Shall I pursue this raiding party? Will I overtake them?\" \"Pursue them,\" he answered. \"You will certainly overtake them and succeed in the rescue.\"",
     Ind:"Kemudian bertanyalah Daud kepada TUHAN, katanya: \"Haruskah aku mengejar gerombolan itu? Akan dapatkah mereka kususul?\" Dan Ia berfirman kepadanya: \"Kejarlah, sebab sesungguhnya, engkau akan dapat menyusul mereka dan melepaskan para tawanan.\""
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Kami telah menyerbu Tanah Negeb orang Kreti dan daerah Yehuda dan Tanah Negeb Kaleb, dan Ziklag telah kami bakar habis.\""
   },
   {Bible:"1Samuel", Chapter:30, Verse:15, Page:1,
-    Kor:"다윗이 그에게 또 물었다. \"네가 나를 그 습격자들이 있는 곳으로 데려다 주겠느냐?\" 그가 대답하였다. \"저를 죽이지 아니하시고, 저를 주인의 손에 넘기지도 아니하시겠다고, 하나님의 이름으로 저에게 맹세하시면, 그 습격자들이 있는 곳으로 모시고 가겠습니다!\"",
+    Kor:"다윗이 그에게 또 물었다. \"네가 나를 그 습격자들이 있는 곳으로 데려다 주겠느냐?\" 그가 대답하였다. \"저를 죽이지도 아니하시고, 저를 주인의 손에 넘기지도 아니하시겠다고, 하나님의 이름으로 저에게 맹세하시면, 그 습격자들이 있는 곳으로 모시고 가겠습니다!\"",
     Chn:"大卫问他说：「你肯领我们到敌军那里不肯？」他回答说：「你要向我指着　神起誓，不杀我，也不将我交在我主人手里，我就领你下到敌军那里。」",
     Eng:"David asked him, \"Can you lead me down to this raiding party?\" He answered, \"Swear to me before God that you will not kill me or hand me over to my master, and I will take you down to them.\"",
     Ind:"Daud bertanya kepadanya: \"Dapatkah engkau menunjuk jalan kepadaku ke gerombolan itu?\" Katanya: \"Bersumpahlah kepadaku demi Allah, bahwa engkau tidak akan membunuh aku, dan tidak akan menyerahkan aku ke dalam tangan tuanku itu, maka aku akan menunjuk jalan kepadamu ke gerombolan itu.\""
   },
   {Bible:"1Samuel", Chapter:30, Verse:16, Page:1,
-    Kor:"그는 다윗을 인도하여 내려갔다. ○그 습격자들은 블레셋 족속의 땅과 유다 땅에서 약탈하여 온 그 많은 전리품을 가지고, 사방으로 흩어져서 먹고 마시며, 큰 잔치를 벌이고 있었다.",
+    Kor:"그는 다윗을 인도하여 내려갔다. 그 습격자들은 블레셋 족속의 땅과 유다 땅에서 약탈하여 온 그 많은 전리품을 가지고, 사방으로 흩어져서 먹고 마시며, 큰 잔치를 벌이고 있었다.",
     Chn:"那人领大卫下去，见他们散在地上，吃喝跳舞，因为从非利士地和犹大地所掳来的财物甚多。",
     Eng:"He led David down, and there they were, scattered over the countryside, eating, drinking and reveling because of the great amount of plunder they had taken from the land of the Philistines and from Judah.",
     Ind:"Ia menunjuk jalan kepada Daud ke sana, dan tampaklah orang-orang itu berpencar-pencar di atas seluruh daerah itu, sambil makan, minum dan mengadakan perayaan karena jarahan yang besar, yang telah dirampas mereka dari tanah orang Filistin dan dari tanah Yehuda."
@@ -129,19 +129,19 @@ BibleDB.add([
     Ind:"Ketika Daud sampai kepada kedua ratus orang yang telah terlalu lelah untuk mengikuti Daud, yang telah dibiarkannya tinggal di dekat sungai Besor, maka keluarlah orang-orang ini menyongsong Daud dan menyongsong rakyat yang bersama-sama dengan dia. Daud mendekati orang-orang itu dan memberi salam kepada mereka."
   },
   {Bible:"1Samuel", Chapter:30, Verse:22, Page:1,
-    Kor:"그러나 다윗과 함께 출전하였던 군인들 가운데서 악하고 야비한 사람들은, 거기에 남아 있던 이들이 못마땅하여, 자기들과 함께 출전하지 않았던 군인들에게는 되찾은 물건을 하나도 돌려 주지 말고, 다만 각자의 아내와 자식들만 데리고 가게 하자고 우겼다.",
+    Kor:"그러나 다윗과 함께 출전하였던 군인들 가운데서 악하고 야비한 사람들은, 거기에 남아 있던 이들이 못마땅하여, 자기들과 함께 출전하지 않았던 군인들에게는 되찾은 물건을 하나도 돌려 주지 말고, 다만, 각자의 아내와 자식들만 데리고 가게 하자고 우겼다.",
     Chn:"跟随大卫人中的恶人和匪类说：「这些人既然没有和我们同去，我们所夺的财物就不分给他们，只将他们各人的妻子儿女给他们，使他们带去就是了。」",
     Eng:"But all the evil men and troublemakers among David's followers said, \"Because they did not go out with us, we will not share with them the plunder we recovered. However, each man may take his wife and children and go.\"",
     Ind:"Kemudian mulailah berbicara semua orang jahat dan orang dursila di antara orang-orang, yang ikut pergi bersama-sama dengan Daud itu, katanya: \"Karena mereka tidak ikut pergi bersama-sama dengan kita, janganlah kita berikan kepada mereka apa-apa dari jarahan yang kita selamatkan itu, kecuali kepada masing-masing mereka isterinya dan anak-anaknya. Itu boleh mereka bawa, dan biarlah mereka pergi!\""
   },
   {Bible:"1Samuel", Chapter:30, Verse:23, Page:1,
-    Kor:"그러나 다윗은 그들을 달랬다. \"동지들, 주님께서 우리를 지켜 주시고, 우리에게 쳐들어온 습격자들을 우리의 손에 넘겨 주셨소. 주님께서 우리에게 선물로 주신 것을 가지고, 우리가 그렇게 처리해서는 안 되오.",
+    Kor:"그러나 다윗은 그들을 달랬다. \"동지들, 주께서 우리를 지켜 주시고, 우리에게 쳐들어온 습격자들을 우리의 손에 넘겨 주셨다. 주께서 우리에게 선물로 주신 것을 가지고, 우리가 그렇게 처리해서는 안 된다.",
     Chn:"大卫说：「弟兄们，耶和华所赐给我们的，不可不分给他们；因为他保佑我们，将那攻击我们的敌军交在我们手里。",
     Eng:"David replied, \"No, my brothers, you must not do that with what the LORD has given us. He has protected us and handed over to us the forces that came against us.",
     Ind:"Tetapi Daud berkata: \"Janganlah kamu, saudara-saudaraku, berbuat demikian, dengan apa yang diberikan TUHAN kepada kita; sebab Ia telah melindungi kita, dan menyerahkan ke dalam tangan kita gerombolan yang menyerang kita."
   },
   {Bible:"1Samuel", Chapter:30, Verse:24, Page:1,
-    Kor:"또 동지들이 제안한 이 말을 들을 사람은 아무도 없소. 전쟁에 나갔던 사람의 몫이나, 남아서 물건을 지킨 사람의 몫이나, 똑같아야 하오. 모두 똑같은 몫으로 나누어야 하오.\"",
+    Kor:"또 동지들이 제안한 이 말을 들을 사람은 아무도 없다. 전쟁에 나갔던 사람의 몫이나, 남아서 물건을 지킨 사람의 몫이나, 똑같아야 한다. 모두 똑같은 몫으로 나누어야 한다.\"",
     Chn:"这事谁肯依从你们呢？上阵的得多少，看守器具的也得多少；应当大家平分。」",
     Eng:"Who will listen to what you say? The share of the man who stayed with the supplies is to be the same as that of him who went down to the battle. All will share alike.\"",
     Ind:"Siapa yang mau mendengarkan kamu dalam perkara ini? Sebab, bagian orang yang tinggal di dekat barang-barang adalah sama seperti bagian orang yang pergi berperang; itu akan dibagi sama-sama.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Dan demikianlah halnya sejak hari itu dan seterusnya; hal itu ditentukannya menjadi ketetapan dan peraturan bagi orang Israel sampai sekarang."
   },
   {Bible:"1Samuel", Chapter:30, Verse:26, Page:1,
-    Kor:"○시글락으로 돌아온 다윗은 전리품 가운데서 얼마를 떼어, 그의 친구들 곧 유다의 장로들에게 보내면서, 그것이 주님의 원수들에게서 약탈한 전리품 가운데서 떼어내어 선물로 보내는 것이라고 밝혔다.",
+    Kor:"○시글락으로 돌아온 다윗은 전리품 가운데서 얼마를 떼어, 그의 친구들 곧 유다의 장로들에게 보내면서, 그것이 주의 원수들에게서 약탈한 전리품 가운데서 떼어내어 선물로 보내는 것이라고 밝혔다.",
     Chn:"大卫到了洗革拉，从掠物中取些送给他朋友犹大的长老，说：「这是从耶和华仇敌那里夺来的，送你们为礼物。」",
     Eng:"When David arrived in Ziklag, he sent some of the plunder to the elders of Judah, who were his friends, saying, \"Here is a present for you from the plunder of the LORD'S enemies.\"",
     Ind:"Ketika Daud sampai ke Ziklag, dikirimnyalah sebagian dari jarahan itu kepada para tua-tua di Yehuda, kepada teman-temannya, dengan pesan: \"Inilah pemberian kepadamu dari jarahan yang dirampas dari musuh TUHAN,\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"kepada yang di Rakhal, kepada yang di kota-kota orang Yerahmeel, kepada yang di kota-kota orang Keni,"
   },
   {Bible:"1Samuel", Chapter:30, Verse:30, Page:1,
-    Kor:"호르마와 고라산과 아닥과",
+    Kor:"홀마와 고라산과 아닥과",
     Chn:"住何珥玛的，歌拉珊的，亚挞的；",
     Eng:"to those in Hormah, Bor Ashan, Athach",
     Ind:"kepada yang di Horma, kepada yang di Bor-Asan, kepada yang di Atakh,"

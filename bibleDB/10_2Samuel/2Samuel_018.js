@@ -3,13 +3,13 @@
 BibleDB.ref("2Samuel",18,33);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:18, Verse:1, Page:1,
-    Kor:"<압살롬의 패전> 다윗은 자기와 함께 있는 백성을 점검하여 보고, 그들 위에 천부장들과 백부장들을 세웠다.",
+    Kor:"다윗은 자기와 함께 있는 백성을 점검하여 보고, 그들 위에 천부장들과 백부장들을 세웠다.",
     Chn:"大卫数点跟随他的人，立千夫长、百夫长率领他们。",
     Eng:"David mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds.",
     Ind:"Daud memeriksa barisan tentara yang bersama-sama dengan dia, kemudian ia mengangkat kepala pasukan seribu dan kepala pasukan seratus atas mereka."
   },
   {Bible:"2Samuel", Chapter:18, Verse:2, Page:1,
-    Kor:"다윗은 또 모든 백성을 세 떼로 나눈 뒤에, 삼분의 일은 요압에게 맡기고, 또 삼분의 일은 스루야의 아들이며 요압의 동생인 아비새에게 맡기고, 나머지 삼분의 일은 가드 사람 잇대에게 맡겼다. 그런 다음에 왕이 온 백성에게 자기도 그들과 함께 싸움터로 나가겠다고 선언하니,",
+    Kor:"다윗은 또 모든 백성을 세 떼로 나눈 뒤에, 삼분의 일은 요압에게 맡기고, 또 삼분의 일은 스루야의 아들이며 요압의 동생인 아비새에게 맡기고, 나머지 삼분의 일은 가드 사람 잇대에게 맡겼다. 그런 다음에, 왕이 온 백성에게 자기도 그들과 함께 싸움터로 나가겠다고 선언하니,",
     Chn:"大卫打发军兵出战，分为三队：一队在约押手下，一队在洗鲁雅的儿子、约押兄弟亚比筛手下，一队在迦特人以太手下。大卫对军兵说：「我必与你们一同出战。」",
     Eng:"David sent the troops out--a third under the command of Joab, a third under Joab's brother Abishai son of Zeruiah, and a third under Ittai the Gittite. The king told the troops, \"I myself will surely march out with you.\"",
     Ind:"Lalu Daud menyuruh tentara itu maju berperang, sepertiga di bawah perintah Yoab, sepertiga lagi di bawah perintah Abisai, anak Zeruya, adik Yoab, dan sepertiga lainnya di bawah perintah Itai, orang Gat itu. Lalu berkatalah raja kepada rakyat: \"Aku juga akan maju berperang bersama-sama dengan kamu.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kemudian sepuluh bujang, pembawa senjata Yoab, mengelilingi Absalom, lalu memukul dan membunuh dia."
   },
   {Bible:"2Samuel", Chapter:18, Verse:16, Page:1,
-    Kor:"○그런 다음에 요압이 나팔을 부니, 백성이 이스라엘 사람을 뒤쫓다가 돌아왔다. 요압이 백성에게 싸움을 그치게 하였기 때문이다.",
+    Kor:"○그런 다음에, 요압이 나팔을 부니, 백성이 이스라엘 사람을 뒤쫓다가 돌아왔다. 요압이 백성에게 싸움을 그치게 하였기 때문이다.",
     Chn:"约押吹角，拦阻众人，他们就回来，不再追赶以色列人。",
     Eng:"Then Joab sounded the trumpet, and the troops stopped pursuing Israel, for Joab halted them.",
     Ind:"Sesudah itu Yoab meniup sangkakala, sehingga tentara berhenti mengejar orang Israel; sebab Yoab mau menahan tentaranya itu."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Sewaktu hidupnya Absalom telah mendirikan bagi dirinya sendiri tugu yang sekarang ada di Lembah Raja, sebab katanya: \"Aku tidak ada anak laki-laki untuk melanjutkan ingatan kepada namaku.\" Dan ia telah menamai tugu itu menurut namanya sendiri; sebab itu sampai hari ini tugu itu dinamai orang: tugu peringatan Absalom."
   },
   {Bible:"2Samuel", Chapter:18, Verse:19, Page:1,
-    Kor:"<다윗이 압살롬의 죽음을 슬퍼하다> ○그 때에 사독의 아들 아히마아스가 요압에게 말하였다. \"제가 임금님에게로 달려가서, 주님께서 임금님을 원수에게서 구원하셨다는 이 기쁜 소식을 전하겠습니다.\"",
+    Kor:"○그 때에, 사독의 아들 아히마아스가 요압에게 말하였다. \"제가 임금님에게로 달려가서, 주께서 임금님을 원수에게서 구원하셨다는 이 기쁜 소식을 전하겠습니다.\"",
     Chn:"撒督的儿子亚希玛斯说：「容我跑去，将耶和华向仇敌给王报仇的信息报与王知。」",
     Eng:"Now Ahimaaz son of Zadok said, \"Let me run and take the news to the king that the LORD has delivered him from the hand of his enemies.\"",
     Ind:"Kemudian berkatalah Ahimaas bin Zadok: \"Biarlah aku berlari menyampaikan kabar yang baik itu kepada raja, bahwa TUHAN telah memberi keadilan kepadanya dengan melepaskan dia dari tangan musuhnya.\""
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Lalu Ahimaas berseru, katanya kepada raja: \"Selamat!\" Kemudian sujudlah ia menyembah kepada raja dengan mukanya ke tanah serta berkata: \"Terpujilah TUHAN, Allahmu, yang telah menyerahkan orang-orang yang menggerakkan tangannya melawan tuanku raja.\""
   },
   {Bible:"2Samuel", Chapter:18, Verse:29, Page:1,
-    Kor:"왕이 \"그 어린 압살롬도 평안하더냐?\" 하고 물으니, 아히마아스는 \"임금님의 신하 요압이 a이 종을 보낼 때에, 큰 소동이 있었습니다마는, 무슨 일인지는 모르겠습니다.\"(a 히, '임금님의 종')",
+    Kor:"왕이 \"그 어린 압살롬도 평안하더냐?\" 하고 물으니, 아히마아스는 \"임금님의 신하 요압이 이 종을 보낼 때에, 큰 소동이 있었습니다마는, 무슨 일인지는 모르겠습니다.\"",
     Chn:"王问说：「少年人押沙龙平安不平安？」亚希玛斯回答说：「约押打发王的仆人，那时仆人听见众民大声喧哗，却不知道是什么事。」",
     Eng:"The king asked, \"Is the young man Absalom safe?\" Ahimaaz answered, \"I saw great confusion just as Joab was about to send the king's servant and me, your servant, but I don't know what it was.\"",
     Ind:"Lalu bertanyalah raja: \"Selamatkah Absalom, orang muda itu?\" Jawab Ahimaas: \"Aku melihat keributan yang besar, ketika Yoab menyuruh pergi hamba raja, hambamu ini, tetapi aku tidak tahu apa itu.\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemudian berkatalah raja: \"Pergilah ke samping, berdirilah di sini.\" Ia pergi ke samping dan tinggal berdiri."
   },
   {Bible:"2Samuel", Chapter:18, Verse:31, Page:1,
-    Kor:"○바로 그 때에 그 에티오피아 사람이 들어왔다. 에티오피아 사람이 왕에게 아뢰었다. \"높으신 임금님께 기쁜 소식을 가져 왔습니다. 주님께서 오늘 임금님께 반역한 자들을 없애 버리시고, 임금님께 승리를 안겨 주셨습니다.\"",
+    Kor:"○바로 그 때에, 그 에티오피아 사람이 들어왔다. 에티오피아 사람이 왕에게 아뢰었다. \"높으신 임금님께 기쁜 소식을 가져 왔습니다. 주께서 오늘 임금님께 반역한 자들을 없애 버리시고, 임금님께 승리를 안겨 주셨습니다.\"",
     Chn:"古示人也来到，说：「有信息报给我主我王！耶和华今日向一切兴起攻击你的人给你报仇了。」",
     Eng:"Then the Cushite arrived and said, \"My lord the king, hear the good news! The LORD has delivered you today from all who rose up against you.\"",
     Ind:"Maka datanglah orang Etiopia itu. Kata orang Etiopia itu: \"Tuanku raja mendapat kabar yang baik, sebab TUHAN telah memberi keadilan kepadamu pada hari ini dengan melepaskan tuanku dari tangan semua orang yang bangkit menentang tuanku.\""

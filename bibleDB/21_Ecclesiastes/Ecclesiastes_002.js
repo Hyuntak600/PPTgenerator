@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",2,26);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:2, Verse:1, Page:1,
-    Kor:"<즐거움도 헛되다> 나는 혼자서 이런 생각도 해 보았다. \"내가 시험삼아 너를 즐겁게 할 것이니, 너는 네 마음껏 즐겨라.\" 그러나 이것도 헛된 일이다.",
+    Kor:"나는 혼자서 이런 생각도 해 보았다. \"내가 시험삼아 너를 즐겁게 할 것이니, 너는 네 마음껏 즐겨라.\" 그러나 이것도 헛된 일이다.",
     Chn:"我心里说：「来吧，我以喜乐试试你，你好享福！」谁知，这也是虚空。",
     Eng:"I thought in my heart, \"Come now, I will test you with pleasure to find out what is good.\" But that also proved to be meaningless.",
     Ind:"Aku berkata dalam hati: \"Mari, aku hendak menguji kegirangan! Nikmatilah kesenangan! Tetapi lihat, juga itupun sia-sia.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Aku mengumpulkan bagiku juga perak dan emas, harta benda raja-raja dan daerah-daerah. Aku mencari bagiku biduan-biduan dan biduanita-biduanita, dan yang menyenangkan anak-anak manusia, yakni banyak gundik."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:9, Page:1,
-    Kor:"드디어 나는 일찍이 예루살렘에 살던 어느 누구보다도 더 큰 세력을 가진 사람이 되었다. 지혜가 늘 내 곁에서 나를 깨우쳐 주었다.",
+    Kor:"드디어 나는, 일찍이 예루살렘에 살던 어느 누구보다도 더 큰 세력을 가진 사람이 되었다. 지혜가 늘 내 곁에서 나를 깨우쳐 주었다.",
     Chn:"这样，我就日见昌盛，胜过以前在耶路撒冷的众人。我的智慧仍然存留。",
     Eng:"I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.",
     Ind:"Dengan demikian aku menjadi besar, bahkan lebih besar dari pada siapapun yang pernah hidup di Yerusalem sebelum aku; dalam pada itu hikmatku tinggal tetap padaku."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Aku tidak merintangi mataku dari apapun yang dikehendakinya, dan aku tidak menahan hatiku dari sukacita apapun, sebab hatiku bersukacita karena segala jerih payahku. Itulah buah segala jerih payahku."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:11, Page:1,
-    Kor:"그러나 내 손으로 성취한 모든 일과 이루려고 애쓴 나의 수고를 돌이켜보니, 참으로 a세상 모든 것이 헛되고, b바람을 잡으려는 것과 같고, 아무런 보람도 없는 것이었다. (a 히, '해 아래' b 또는 '바람을 먹고 사는 것과 같다'(호 12:1을 볼 것))",
+    Kor:"그러나 내 손으로 성취한 모든 일과 이루려고 애쓴 나의 수고를 돌이켜보니, 참으로 세상 모든 것이 헛되고, 바람을 잡으려는 것과 같고, 아무런 보람도 없는 것이었다.",
     Chn:"后来，我察看我手所经营的一切事和我劳碌所成的功。谁知都是虚空，都是捕风；在日光之下毫无益处。",
     Eng:"Yet when I surveyed all that my hands had done and what I had toiled to achieve, everything was meaningless, a chasing after the wind; nothing was gained under the sun.",
     Ind:"Ketika aku meneliti segala pekerjaan yang telah dilakukan tanganku dan segala usaha yang telah kulakukan untuk itu dengan jerih payah, lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin; memang tak ada keuntungan di bawah matahari."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:12, Page:1,
-    Kor:"임금 자리를 이어받은 사람이 무엇을 할 수 있는가? 기껏해야 앞서 다스리던 왕이 이미 하던 일뿐이다.  <슬기도 어리석음도 다 헛되다> 무엇이 슬기로운 일이며, 무엇이 얼빠지고 어리석은 일인지 알려고 애를 써 보기도 하였다.",
+    Kor:"임금 자리를 이어받은 사람이 무엇을 할 수 있는가? 기껏해야 앞서 다스리던 왕이 이미 하던 일뿐이다. 무엇이 슬기로운 일이며, 무엇이 얼빠지고 어리석은 일인지 알려고 애를 써 보기도 하였다.",
     Chn:"我转念观看智慧、狂妄，和愚昧。在王以后而来的人还能做什么呢？也不过行早先所行的就是了。",
     Eng:"Then I turned my thoughts to consider wisdom, and also madness and folly. What more can the king's successor do than what has already been done?",
     Ind:"Lalu aku berpaling untuk meninjau hikmat, kebodohan dan kebebalan, sebab apa yang dapat dilakukan orang yang menggantikan raja? Hanya apa yang telah dilakukan orang."
@@ -99,25 +99,25 @@ BibleDB.add([
     Ind:"Karena tidak ada kenang-kenangan yang kekal baik dari orang yang berhikmat, maupun dari orang yang bodoh, sebab pada hari-hari yang akan datang kesemuanya sudah lama dilupakan. Dan, ah, orang yang berhikmat mati juga seperti orang yang bodoh!"
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:17, Page:1,
-    Kor:"그러니 산다는 것이 다 덧없는 것이다. a인생살이에 얽힌 일들이 나에게는 괴로움일 뿐이다. 모든 것이 b바람을 잡으려는 것처럼 헛될 뿐이다.(a 히, '해 아래' b 또는 '바람을 먹고 사는 것과 같다'(호 12:1을 볼 것))",
+    Kor:"그러니 산다는 것이 다 덧없는 것이다. 인생살이에 얽힌 일들이 나에게는 괴로움일 뿐이다. 모든 것이 바람을 잡으려는 것처럼 헛될 뿐이다.",
     Chn:"我所以恨恶生命；因为在日光之下所行的事我都以为烦恼，都是虚空，都是捕风。",
     Eng:"So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.",
     Ind:"Oleh sebab itu aku membenci hidup, karena aku menganggap menyusahkan apa yang dilakukan di bawah matahari, sebab segala sesuatu adalah kesia-siaan dan usaha menjaring angin."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:18, Page:1,
-    Kor:"<수고도 헛되다> ○a세상에서 내가 수고하여 이루어 놓은 모든 것을 내 뒤에 올 사람에게 물려줄 일을 생각하면, 억울하기 그지없다.(a 히, '해 아래')",
+    Kor:"○세상에서 내가 수고하여 이루어 놓은 모든 것을 내 뒤에 올 사람에게 물려줄 일을 생각하면, 억울하기 그지없다.",
     Chn:"我恨恶一切的劳碌，就是我在日光之下的劳碌，因为我得来的必留给我以后的人。",
     Eng:"I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.",
     Ind:"Aku membenci segala usaha yang kulakukan dengan jerih payah di bawah matahari, sebab aku harus meninggalkannya kepada orang yang datang sesudah aku."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:19, Page:1,
-    Kor:"뒤에 올 그 사람이 슬기로운 사람일지, 어리석은 사람일지, 누가 안단 말인가? 그러면서도, a세상에서 내가 수고를 마다하지 않고 지혜를 다해서 이루어 놓은 모든 것을, 그에게 물려주어서 맡겨야 하다니, 이 수고도 헛되다.(a 히, '해 아래')",
+    Kor:"뒤에 올 그 사람이 슬기로운 사람일지, 어리석은 사람일지, 누가 안단 말인가? 그러면서도, 세상에서 내가 수고를 마다하지 않고 지혜를 다해서 이루어 놓은 모든 것을, 그에게 물려주어서 맡겨야 하다니, 이 수고도 헛되다.",
     Chn:"那人是智慧是愚昧，谁能知道？他竟要管理我劳碌所得的，就是我在日光之下用智慧所得的。这也是虚空。",
     Eng:"And who knows whether he will be a wise man or a fool? Yet he will have control over all the work into which I have poured my effort and skill under the sun. This too is meaningless.",
     Ind:"Dan siapakah yang mengetahui apakah orang itu berhikmat atau bodoh? Meskipun demikian ia akan berkuasa atas segala usaha yang kulakukan di bawah matahari dengan jerih payah dan dengan mempergunakan hikmat. Inipun sia-sia."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:20, Page:1,
-    Kor:"○a세상에서 애쓴 모든 수고를 생각해 보니, 내 마음에는 실망뿐이다.(a 히, '해 아래')",
+    Kor:"세상에서 애쓴 모든 수고를 생각해 보니, 내 마음에는 실망뿐이다.",
     Chn:"故此，我转想我在日光之下所劳碌的一切工作，心便绝望。",
     Eng:"So my heart began to despair over all my toilsome labor under the sun.",
     Ind:"Dengan demikian aku mulai putus asa terhadap segala usaha yang kulakukan dengan jerih payah di bawah matahari."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Sebab, kalau ada orang berlelah-lelah dengan hikmat, pengetahuan dan kecakapan, maka ia harus meninggalkan bahagiannya kepada orang yang tidak berlelah-lelah untuk itu. Inipun kesia-siaan dan kemalangan yang besar."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:22, Page:1,
-    Kor:"사람이 a세상에서 온갖 수고를 마다하지 않고 속썩이지만, 무슨 보람이 있단 말인가?(a 히, '해 아래')",
+    Kor:"사람이 세상에서 온갖 수고를 마다하지 않고 속썩이지만, 무슨 보람이 있단 말인가?",
     Chn:"人在日光之下劳碌累心，在他一切的劳碌上得着什么呢？",
     Eng:"What does a man get for all the toil and anxious striving with which he labors under the sun?",
     Ind:"Apakah faedahnya yang diperoleh manusia dari segala usaha yang dilakukannya dengan jerih payah di bawah matahari dan dari keinginan hatinya?"
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Tak ada yang lebih baik bagi manusia dari pada makan dan minum dan bersenang-senang dalam jerih payahnya. Aku menyadari bahwa inipun dari tangan Allah."
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:25, Page:1,
-    Kor:"c그분께서 주시지 않고서야, 누가 먹을 수 있으며, 누가 즐길 수 있겠는가? (c 칠십인역과 시리아어역을 따름. 히, '나를 떠나서는' 또는 '내가 없이는')",
+    Kor:"그분께서 주시지 않고서야, 누가 먹을 수 있으며, 누가 즐길 수 있겠는가?",
     Chn:"论到吃用、享福，谁能胜过我呢？",
     Eng:"for without him, who can eat or find enjoyment?",
     Ind:"Karena siapa dapat makan dan merasakan kenikmatan di luar Dia?"
   },
   {Bible:"Ecclesiastes", Chapter:2, Verse:26, Page:1,
-    Kor:"○하나님이, 마음에 드는 사람에게는 슬기와 지식과 기쁨을 주시고, 눈 밖에 난 죄인에게는 모아서 쌓는 수고를 시켜서, 그 모은 재산을 하나님 마음에 드는 사람에게 주시니, 죄인의 수고도 헛되어서 b바람을 잡으려는 것과 같다.(b 또는 '바람을 먹고 사는 것과 같다'(호 12:1을 볼 것))",
+    Kor:"○하나님이, 마음에 드는 사람에게는 슬기와 지식과 기쁨을 주시고, 눈 밖에 난 죄인에게는 모아서 쌓는 수고를 시켜서, 그 모은 재산을 하나님 마음에 드는 사람에게 주시니, 죄인의 수고도 헛되어서 바람을 잡으려는 것과 같다.",
     Chn:"神喜悦谁，就给谁智慧、知识，和喜乐；惟有罪人，　神使他劳苦，叫他将所收聚的、所堆积的归给　神所喜悦的人。这也是虚空，也是捕风。",
     Eng:"To the man who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.",
     Ind:"Karena kepada orang yang dikenan-Nya Ia mengaruniakan hikmat, pengetahuan dan kesukaan, tetapi orang berdosa ditugaskan-Nya untuk menghimpun dan menimbun sesuatu yang kemudian harus diberikannya kepada orang yang dikenan Allah. Inipun kesia-siaan dan usaha menjaring angin."

@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",14,31);
 BibleDB.add([
   {Bible:"1Kings", Chapter:14, Verse:1, Page:1,
-    Kor:"<여로보암의 아들의 죽음> 그 때에 여로보암의 아들 아비야가 병들어 누웠다.",
+    Kor:"그 때에 여로보암의 아들 아비야가 병들어 누웠다.",
     Chn:"那时，耶罗波安的儿子亚比雅病了。",
     Eng:"At that time Abijah son of Jeroboam became ill,",
     Ind:"Pada waktu itu Abia, anak Yerobeam, jatuh sakit."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Isteri Yerobeam berbuat demikian. Ia berkemas, pergi ke Silo dan masuk ke rumah Ahia. Ahia tidak dapat melihat lagi, sebab matanya sudah kabur karena ia sudah tua."
   },
   {Bible:"1Kings", Chapter:14, Verse:5, Page:1,
-    Kor:"주님께서 아히야에게 미리 말씀하셨다. \"여로보암의 아내가 자기의 병든 아들의 일을 물으려고, 네게로 올 것이다. 너는 그에게 내가 일러준 대로 말하여라. 그는 올 때에 변장을 하고, 다른 사람인 것 같이 차릴 것이다.\"",
+    Kor:"주께서 아히야에게 미리 말씀하셨다. \"여로보암의 아내가 자기의 병든 아들의 일을 물으려고, 네게로 올 것이다. 너는 그에게 내가 일러준 대로 말하여라. 그는 올 때에 변장을 하고, 다른 사람인 것 같이 차릴 것이다.\"",
     Chn:"耶和华先晓谕亚希雅说：「耶罗波安的妻要来问你，因她儿子病了，你当如此如此告诉她。她进来的时候必装作别的妇人。」",
     Eng:"But the LORD had told Ahijah, \"Jeroboam's wife is coming to ask you about her son, for he is ill, and you are to give her such and such an answer. When she arrives, she will pretend to be someone else.\"",
     Ind:"Tetapi TUHAN telah berfirman kepada Ahia: \"Bahwasanya isteri Yerobeam datang untuk menanyakan kepadamu perihal anaknya, sebab anak itu sedang sakit. Begini-begini harus kaukatakan kepadanya.\" Ketika perempuan itu masuk, berbuatlah ia seolah-olah ia orang lain."
   },
   {Bible:"1Kings", Chapter:14, Verse:6, Page:1,
-    Kor:"○왕의 아내가 문에 들어설 때에, 아히야는 그의 발소리를 듣고 이렇게 말하였다. \"여로보암의 부인께서 오신 줄 알고 있습니다. 들어오십시오. 그런데 어찌하여, 다른 사람인 것처럼 변장을 하셨습니까? 불행하게도 좋지 않은 소식을 전해야 하겠습니다.",
+    Kor:"○왕의 아내가 문에 들어설 때에, 아히야는 그의 발소리를 듣고, 이렇게 말하였다. \"여로보암의 부인께서 오신 줄 알고 있습니다. 들어오십시오. 그런데 어찌하여, 다른 사람인 것처럼 변장을 하셨습니까? 불행하게도 좋지 않은 소식을 전해야 하겠습니다.",
     Chn:"她刚进门，亚希雅听见她脚步的响声，就说：「耶罗波安的妻，进来吧！你为何装作别的妇人呢？我奉差遣将凶事告诉你。",
     Eng:"So when Ahijah heard the sound of her footsteps at the door, he said, \"Come in, wife of Jeroboam. Why this pretense? I have been sent to you with bad news.",
     Ind:"Tetapi segera sesudah Ahia mendengar bunyi langkah perempuan itu, sementara melangkah masuk pintu, berkatalah ia: \"Masuklah, hai isteri Yerobeam! Mengapakah engkau berbuat seolah-olah engkau orang lain? Aku disuruh menyampaikan pesan yang keras kepadamu."
@@ -81,37 +81,37 @@ BibleDB.add([
     Ind:"Seluruh Israel akan meratapi dia dan menguburkan dia, sebab hanya dialah dari pada keluarga Yerobeam yang akan mendapat kubur, sebab di antara keluarga Yerobeam hanya padanyalah terdapat sesuatu yang baik di mata TUHAN, Allah Israel."
   },
   {Bible:"1Kings", Chapter:14, Verse:14, Page:1,
-    Kor:"주님께서는 이스라엘을 다스릴 또 다른 한 왕을 세우실 터인데, 그가 여로보암의 가문을 끊어 버릴 것입니다. 이 일은 오늘, 지금 이 순간에 일어날 것입니다.",
+    Kor:"주께서는 이스라엘을 다스릴 또 다른 한 왕을 세우실 터인데, 그가 여로보암의 가문을 끊어 버릴 것입니다. 이 일은 오늘, 지금 이 순간에 일어날 것입니다.",
     Chn:"耶和华必另立一王治理以色列。到了日期，他必剪除耶罗波安的家；那日期已经到了。",
     Eng:"\"The LORD will raise up for himself a king over Israel who will cut off the family of Jeroboam. This is the day! What? Yes, even now.",
     Ind:"Dan TUHAN akan membangkitkan bagi-Nya seorang raja atas Israel yang akan melenyapkan keluarga Yerobeam--seperti kenyataan sekarang ini."
   },
   {Bible:"1Kings", Chapter:14, Verse:15, Page:1,
-    Kor:"주님께서는 이스라엘을 쳐서, 물가의 갈대가 흔들리듯이 흔들리게 하실 것이며, 그들이 아세라 목상을 만들어서 주님의 분노를 샀으므로, 조상들에게 주신 이 좋은 땅에서부터 이스라엘을 뿌리째 뽑아 내어서, a유프라테스 강 저쪽으로 흩으실 것입니다.(a 히, '그 강')",
+    Kor:"주께서는 이스라엘을 쳐서, 물가의 갈대가 흔들리듯이 흔들리게 하실 것이며, 그들이 아세라 목상을 만들어서 주의 분노를 샀으므로, 조상들에게 주신 이 좋은 땅에서부터 이스라엘을 뿌리째 뽑아 내어서, 유프라테스 강 저쪽으로 흩으실 것입니다.",
     Chn:"耶和华必击打以色列人，使他们摇动，像水中的芦苇一般；又将他们从耶和华赐给他们列祖的美地上拔出来，分散在大河那边；因为他们做木偶，惹耶和华发怒。",
     Eng:"And the LORD will strike Israel, so that it will be like a reed swaying in the water. He will uproot Israel from this good land that he gave to their forefathers and scatter them beyond the River, because they provoked the LORD to anger by making Asherah poles.",
     Ind:"Kemudian TUHAN akan menghajar orang Israel, sehingga tergoyah-goyah seperti gelagah di air dan Ia akan menyentakkan mereka dari pada tanah yang baik ini yang telah diberikan-Nya kepada nenek moyang mereka; Ia akan menyerakkan mereka ke seberang sungai Efrat sana, oleh karena mereka telah membuat tiang-tiang berhala mereka dan dengan demikian menyakiti hati TUHAN."
   },
   {Bible:"1Kings", Chapter:14, Verse:16, Page:1,
-    Kor:"여로보암은 자기도 죄를 지었을 뿐만 아니라, 이스라엘까지 죄를 짓게 하였으므로, 주님께서는 여로보암의 죄 때문에 이스라엘을 버리실 것입니다.\"",
+    Kor:"여로보암은 자기도 죄를 지었을 뿐만 아니라, 이스라엘까지 죄를 짓게 하였으므로, 주께서는 여로보암의 죄 때문에 이스라엘을 버리실 것입니다.\"",
     Chn:"因耶罗波安所犯的罪，又使以色列人陷在罪里，耶和华必将以色列人交给仇敌。」",
     Eng:"And he will give Israel up because of the sins Jeroboam has committed and has caused Israel to commit.\"",
     Ind:"Ia akan lepas tangan terhadap orang Israel oleh karena dosa-dosa yang telah dilakukan Yerobeam dan yang mengakibatkan orang Israel berdosa pula.\""
   },
   {Bible:"1Kings", Chapter:14, Verse:17, Page:1,
-    Kor:"○여로보암의 아내는 일어나서, 그 곳을 떠나 디르사로 돌아갔다. 그가 집 안으로 들어설 때에 그 아이가 죽었다.",
+    Kor:"○여로보암의 아내는 일어나서, 그 곳을 떠나 디르사로 돌아갔다. 그가 집 안으로 들어설 때에, 그 아이가 죽었다.",
     Chn:"耶罗波安的妻起身回去，到了得撒，刚到门槛，儿子就死了。",
     Eng:"Then Jeroboam's wife got up and left and went to Tirzah. As soon as she stepped over the threshold of the house, the boy died.",
     Ind:"Sesudah itu bangkitlah isteri Yerobeam dan pergi, lalu sampailah ia ke Tirza. Pada saat ia masuk melangkahi ambang pintu rumah, matilah anak itu."
   },
   {Bible:"1Kings", Chapter:14, Verse:18, Page:1,
-    Kor:"온 이스라엘은 그를 장사지내고, 그의 죽음을 슬퍼하며 애곡하였다. 모든 것은, 주님께서 그의 종 아히야 예언자를 시켜서 하신 말씀대로 되었다.",
+    Kor:"온 이스라엘은 그를 장사지내고, 그의 죽음을 슬퍼하며, 애곡하였다. 모든 것은, 주께서 그의 종 아히야 예언자를 시켜서 하신 말씀대로 되었다.",
     Chn:"以色列众人将他葬埋，为他哀哭，正如耶和华借他仆人先知亚希雅所说的话。",
     Eng:"They buried him, and all Israel mourned for him, as the LORD had said through his servant the prophet Ahijah.",
     Ind:"Mereka menguburkannya, dan seluruh Israel meratapi dia sesuai dengan firman TUHAN yang diucapkan-Nya dengan perantaraan hamba-Nya, nabi Ahia."
   },
   {Bible:"1Kings", Chapter:14, Verse:19, Page:1,
-    Kor:"<여로보암의 죽음> ○여로보암의 나머지 행적 곧 그가 전쟁을 어떻게 하고 또 나라를 어떻게 다스렸는가 하는 것은, '이스라엘 왕 역대지략'에 기록되어 있다.",
+    Kor:"○여로보암의 나머지 행적, 곧 그가 전쟁을 어떻게 하고, 또 나라를 어떻게 다스렸는가 하는 것은 '이스라엘 왕 역대지략'에 기록되어 있다.",
     Chn:"耶罗波安其余的事，他怎样争战，怎样作王，都写在以色列诸王记上。",
     Eng:"The other events of Jeroboam's reign, his wars and how he ruled, are written in the book of the annals of the kings of Israel.",
     Ind:"Selebihnya dari riwayat Yerobeam, bagaimana ia berperang dan bagaimana ia memerintah, sesungguhnya semuanya itu tertulis dalam kitab sejarah raja-raja Israel."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Lamanya Yerobeam memerintah ada dua puluh dua tahun, kemudian ia mendapat perhentian bersama-sama dengan nenek moyangnya. Maka anaknya menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:14, Verse:21, Page:1,
-    Kor:"<유다 왕 르호보암(대하 11:5-12:15)> ○또한 솔로몬의 아들 르호보암은 유다를 다스렸다. 르호보암이 즉위할 때의 나이는 마흔한 살이었는데, 그는, 주님께서 자신의 이름을 두시려고 택하신 성읍 예루살렘에서 열일곱 해를 다스렸다. 그 어머니의 이름은 나아마이며, 암몬 여자이다.",
+    Kor:"○또한 솔로몬의 아들 르호보암은 유다를 다스렸다. 르호보암이 즉위할 때의 나이는 마흔한 살이었는데, 그는, 주께서 자신의 이름을 두시려고 택하신 성읍 예루살렘에서 열일곱 해를 다스렸다. 그 어머니의 이름은 나아마이며, 암몬 여자이다.",
     Chn:"所罗门的儿子罗波安作犹大王。他登基的时候年四十一岁，在耶路撒冷，就是耶和华从以色列众支派中所选择立他名的城，作王十七年。罗波安的母亲名叫拿玛，是亚扪人。",
     Eng:"Rehoboam son of Solomon was king in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen out of all the tribes of Israel in which to put his Name. His mother's name was Naamah; she was an Ammonite.",
     Ind:"Adapun Rehabeam, anak Salomo, ia memerintah di Yehuda. Rehabeam berumur empat puluh satu tahun pada waktu ia menjadi raja, dan tujuh belas tahun lamanya ia memerintah di Yerusalem, kota yang dipilih TUHAN dari antara segala suku Israel untuk membuat nama-Nya tinggal di sana. Nama ibunya ialah Naama, seorang perempuan Amon."
   },
   {Bible:"1Kings", Chapter:14, Verse:22, Page:1,
-    Kor:"○유다도 주님께서 보시기에 악한 일을 하였다. 그들이 지은 죄는 조상들이 저지른 죄보다 더 심하여서, 주님의 진노를 격발하였다.",
+    Kor:"○유다도 주께서 보시기에 악한 일을 하였다. 그들이 지은 죄는 조상들이 저지른 죄보다 더 심하여서, 주의 진노를 격발하였다.",
     Chn:"犹大人行耶和华眼中看为恶的事，犯罪触动他的愤恨，比他们列祖更甚。",
     Eng:"Judah did evil in the eyes of the LORD. By the sins they committed they stirred up his jealous anger more than their fathers had done.",
     Ind:"Tetapi orang Yehuda melakukan apa yang jahat di mata TUHAN dan mereka menimbulkan cemburu-Nya dengan dosa yang diperbuat mereka, lebih dari pada segala yang dilakukan nenek moyang mereka."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Sebab merekapun juga mendirikan tempat-tempat pengorbanan dan tugu-tugu berhala dan tiang-tiang berhala di atas setiap bukit yang tinggi dan di bawah setiap pohon yang rimbun."
   },
   {Bible:"1Kings", Chapter:14, Verse:24, Page:1,
-    Kor:"그 땅에는 신전 남창들도 있었다. 이와 같이 이스라엘 자손은, 주님께서 그들 앞에서 내쫓으신 나라들이 지킨 그 혐오스러운 관습을 그대로 본받았다.",
+    Kor:"그 땅에는, 신전 남창들도 있었다. 이와 같이 이스라엘 자손은, 주께서 그들 앞에서 내쫓으신 나라들이 지킨 그 혐오스러운 관습을 그대로 본받았다.",
     Chn:"国中也有娈童。犹大人效法耶和华在以色列人面前所赶出的外邦人，行一切可憎恶的事。",
     Eng:"There were even male shrine prostitutes in the land; the people engaged in all the detestable practices of the nations the LORD had driven out before the Israelites.",
     Ind:"Bahkan ada pelacuran bakti di negeri itu. Mereka berlaku sesuai dengan segala perbuatan keji bangsa-bangsa yang telah dihalau TUHAN dari orang Israel."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Tetapi pada tahun kelima zaman raja Rehabeam, majulah Sisak, raja Mesir, menyerang Yerusalem."
   },
   {Bible:"1Kings", Chapter:14, Verse:26, Page:1,
-    Kor:"주님의 성전에 있는 보물과 왕궁의 보물을 다 털어 갔다. 하나도 남기지 않고 다 가져 갔다. 솔로몬이 만든 금방패들도 가져 갔다.",
+    Kor:"주의 성전에 있는 보물과 왕궁의 보물을 다 털어 갔다. 하나도 남기지 않고 다 가져 갔다. 솔로몬이 만든 금방패들도 가져 갔다.",
     Chn:"夺了耶和华殿和王宫里的宝物，尽都带走，又夺去所罗门制造的金盾牌。",
     Eng:"He carried off the treasures of the temple of the LORD and the treasures of the royal palace. He took everything, including all the gold shields Solomon had made.",
     Ind:"Ia merampas barang-barang perbendaharaan rumah TUHAN dan barang-barang perbendaharaan rumah raja; semuanya dirampasnya. Ia merampas juga segala perisai emas yang dibuat Salomo."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Sebagai gantinya raja Rehabeam membuat perisai-perisai tembaga, yang dipercayakannya kepada pemimpin-pemimpin bentara yang menjaga pintu istana raja."
   },
   {Bible:"1Kings", Chapter:14, Verse:28, Page:1,
-    Kor:"왕이 주님의 성전으로 들어갈 때마다, 경호원들이 그 놋방패를 들고 가서 경호하다가, 다시 경호실로 가져 오곤 하였다.",
+    Kor:"왕이 주의 성전으로 들어갈 때마다, 경호원들이 그 놋방패를 들고 가서 경호하다가, 다시 경호실로 가져 오곤 하였다.",
     Chn:"王每逢进耶和华的殿，护卫兵就拿这盾牌，随后仍将盾牌送回，放在护卫房。",
     Eng:"Whenever the king went to the LORD'S temple, the guards bore the shields, and afterward they returned them to the guardroom.",
     Ind:"Setiap kali raja masuk ke rumah TUHAN, bentara-bentara membawa masuk perisai-perisai itu, dan mereka pula yang mengembalikannya ke kamar jaga para bentara."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Dan terus-menerus perang ada antara Rehabeam dan Yerobeam."
   },
   {Bible:"1Kings", Chapter:14, Verse:31, Page:1,
-    Kor:"르호보암이 죽으니, 조상들과 함께 '다윗 성'에다가 장사하였다. 그의 어머니 나아마는 암몬 여자이다. 그의 아들 b아비야가 그의 뒤를 이어서 왕이 되었다.(b 칠십인역과 몇몇 히브리어 사본을 따름. 히, '아비얌')",
+    Kor:"르호보암이 죽으니, 조상들과 함께 '다윗 성'에다가 장사하였다. 그의 어머니 나아마는 암몬 여자이다. 그의 아들 아비야가 그의 뒤를 이어서 왕이 되었다.",
     Chn:"罗波安与他列祖同睡，葬在大卫城他列祖的坟地里。他母亲名叫拿玛，是亚扪人。他儿子亚比央接续他作王。",
     Eng:"And Rehoboam rested with his fathers and was buried with them in the City of David. His mother's name was Naamah; she was an Ammonite. And Abijah his son succeeded him as king.",
     Ind:"Kemudian Rehabeam mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud. Nama ibunya ialah Naama, seorang perempuan Amon. Maka Abiam, anaknya, menjadi raja menggantikan dia."

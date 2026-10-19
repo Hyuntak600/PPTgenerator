@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",6,27);
 BibleDB.add([
   {Bible:"Numbers", Chapter:6, Verse:1, Page:1,
-    Kor:"<나실 사람 규율> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:6, Verse:2, Page:1,
-    Kor:"\"이스라엘 자손에게 말하여라. 너는 그들에게 다음과 같이 일러라. ○남자나 여자가 a나실 사람이 되어 나 주에게 헌신하기로 하고, 특별한 서약을 했을 때에는,(a 주님께 자기를 봉헌하기로 서약하고 '구별'된 사람)",
+    Kor:"\"이스라엘 자손에게 말하여라. 너는 그들에게 다음과 같이 일러라. '남자나 여자가 나실 사람이 되어 주께 헌신하기로 하고, 특별한 서약을 했을 때에는,",
     Chn:"「你晓谕以色列人说：无论男女许了特别的愿，就是拿细耳人的愿，要离俗归耶和华。",
     Eng:"\"Speak to the Israelites and say to them: 'If a man or woman wants to make a special vow, a vow of separation to the LORD as a Nazirite,",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila seseorang, laki-laki atau perempuan, mengucapkan nazar khusus, yakni nazar orang nazir, untuk mengkhususkan dirinya bagi TUHAN,"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Selama waktu kenazirannya janganlah ia makan sesuatu apapun yang berasal dari pohon anggur, dari bijinya sampai kepada pucuk rantingnya."
   },
   {Bible:"Numbers", Chapter:6, Verse:5, Page:1,
-    Kor:"○그는, 나실 사람으로 서원하고 헌신하는 그 모든 기간에는, 자기 머리를 삭도로 밀어서는 안 된다. 나 주에게 헌신하는 그 기간이 다 찰 때까지는 거룩한 몸이므로, 머리털이 길게 자라도록 그대로 두어야 한다.",
+    Kor:"○그는, 나실 사람으로 서원하고 헌신하는 그 모든 기간에는, 자기 머리를 삭도로 밀어서는 안 된다. 주께 헌신하는 그 기간이 다 찰 때까지는 거룩한 몸이므로, 머리털이 길게 자라도록 그대로 두어야 한다.",
     Chn:"「在他一切许愿离俗的日子，不可用剃头刀剃头，要由发绺长长了。他要圣洁，直到离俗归耶和华的日子满了。",
     Eng:"\"'During the entire period of his vow of separation no razor may be used on his head. He must be holy until the period of his separation to the LORD is over; he must let the hair of his head grow long.",
     Ind:"Selama waktu nazarnya sebagai orang nazir janganlah pisau cukur lalu di kepalanya; sampai genap waktunya ia mengkhususkan dirinya bagi TUHAN, haruslah ia tetap kudus dan membiarkan rambutnya tumbuh panjang."
   },
   {Bible:"Numbers", Chapter:6, Verse:6, Page:1,
-    Kor:"○그는, 나 주에게 헌신하기로 한 그 모든 기간에는, 죽은 사람에게 가까이 가서도 안 된다.",
+    Kor:"○그는, 주께 헌신하기로 한 그 모든 기간에는, 죽은 사람에게 가까이 가서도 안 된다.",
     Chn:"在他离俗归耶和华的一切日子，不可挨近死尸。",
     Eng:"Throughout the period of his separation to the LORD he must not go near a dead body.",
     Ind:"Selama waktunya ia mengkhususkan dirinya bagi TUHAN, janganlah ia dekat kepada mayat orang;"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"bahkan apabila mati ayahnya ataupun ibunya, saudaranya laki-laki ataupun saudaranya perempuan, janganlah ia menajiskan dirinya kepada mereka, sebab tanda kenaziran bagi Allahnya ada di atas kepalanya."
   },
   {Bible:"Numbers", Chapter:6, Verse:8, Page:1,
-    Kor:"나실 사람으로 헌신하는 그 모든 기간에는, 그는 나 주에게 거룩하게 구별된 사람이다.",
+    Kor:"나실 사람으로 헌신하는 그 모든 기간에는, 그는 주께 거룩하게 구별된 사람이다.",
     Chn:"在他一切离俗的日子是归耶和华为圣。",
     Eng:"Throughout the period of his separation he is consecrated to the LORD.",
     Ind:"Selama waktu kenazirannya ia kudus bagi TUHAN."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Maka haruslah imam mengolah yang seekor menjadi korban penghapus dosa dan yang lain menjadi korban bakaran, dan mengadakan pendamaian bagi dia, oleh karena dia telah berdosa dengan berada dekat mayat. Pada hari itu juga ia harus menguduskan kepalanya"
   },
   {Bible:"Numbers", Chapter:6, Verse:12, Page:1,
-    Kor:"헌신하기로 작정한 기간 동안, 그는 나 주에게 자신을 새롭게 헌신해야 하므로, 일 년 된 새끼 숫양을 가져다가 속건제물로 바쳐야 한다. 나실 사람으로 한번 구별된 그의 몸이 이 일로 더럽게 되었기 때문에, 새로 헌신하기로 한 경우에는, 그 이전까지의 기간은 무효가 된다.",
+    Kor:"헌신하기로 작정한 기간 동안, 그는 주께 자신을 새롭게 헌신해야 하므로, 일 년 된 새끼 숫양을 가져다가 속죄제물로 드려야 한다. 나실 사람으로 한번 구별된 그의 몸이 이 일로 더럽게 되었기 때문에, 새로 헌신하기로 한 경우에는, 그 이전까지의 기간은 무효가 된다.",
     Chn:"他要另选离俗归耶和华的日子，又要牵一只一岁的公羊羔来作赎愆祭；但先前的日子要归徒然，因为他在离俗之间被玷污了。",
     Eng:"He must dedicate himself to the LORD for the period of his separation and must bring a year-old male lamb as a guilt offering. The previous days do not count, because he became defiled during his separation.",
     Ind:"dan mengkhususkan waktu kenazirannya bagi TUHAN. Ia harus membawa seekor domba jantan berumur setahun menjadi korban penebus salah. Hari-hari yang sudah lewat dianggap batal, karena rambut kenazirannya telah menjadi najis."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan inilah hukum tentang seorang nazir. Apabila waktu kenazirannya genap, ia harus dibawa ke pintu Kemah Pertemuan,"
   },
   {Bible:"Numbers", Chapter:6, Verse:14, Page:1,
-    Kor:"나 주에게 제물을 바쳐야 한다. 일 년 된 흠 없는 새끼 숫양 한 마리는 번제물로 바치고, 일 년 된 흠 없는 새끼 암양 한 마리는 속죄제물로 바치고, 흠 없는 숫양 한 마리는 화목제물로 바쳐야 한다.",
+    Kor:"주께 제물을 바쳐야 한다. 일 년 된 흠 없는 새끼 숫양 한 마리는 번제물로 바치고, 일 년 된 흠 없는 새끼 암양 한 마리는 속죄제물로 바치고, 흠 없는 숫양 한 마리는 화목제물로 바쳐야 한다.",
     Chn:"他要将供物奉给耶和华，就是一只没有残疾、一岁的公羊羔作燔祭，一只没有残疾、一岁的母羊羔作赎罪祭，和一只没有残疾的公绵羊作平安祭，",
     Eng:"There he is to present his offerings to the LORD: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,",
     Ind:"dan ia harus mempersembahkan sebagai persembahannya kepada TUHAN seekor domba jantan berumur setahun yang tidak bercela untuk korban bakaran dan seekor domba betina berumur setahun yang tidak bercela untuk korban penghapus dosa dan seekor domba jantan yang tidak bercela untuk korban keselamatan,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu haruslah imam membawa semuanya itu ke hadapan TUHAN dan mengolah korban penghapus dosa dan korban bakarannya;"
   },
   {Bible:"Numbers", Chapter:6, Verse:17, Page:1,
-    Kor:"또 숫양에다가 누룩을 넣지 않은 빵 한 광주리를 곁들여 나 주에게 화목제물로 바친다. 제사장은 또한, 그 나실 사람이 가지고 온 곡식제물과 부어 드리는 제물도 함께 바친다.",
+    Kor:"또 숫양에다가 누룩을 넣지 않은 빵 한 광주리를 곁들여 주께 화목제물로 바친다. 제사장은 또한, 그 나실 사람이 가지고 온 곡식제물과 부어 드리는 제물도 함께 바친다.",
     Chn:"也要把那只公羊和那筐无酵饼献给耶和华作平安祭，又要将同献的素祭和奠祭献上。",
     Eng:"He is to present the basket of unleavened bread and is to sacrifice the ram as a fellowship offering to the LORD, together with its grain offering and drink offering.",
     Ind:"domba jantan itu haruslah diolahnya sebagai korban keselamatan bagi TUHAN, beserta sebakul roti yang tidak beragi itu; juga haruslah imam mengolah korban sajian dan korban curahannya."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Imam haruslah mengambil paha depan domba jantan itu, sesudah dimasak, dan satu roti bundar yang tidak beragi dari dalam bakul, dengan satu roti tipis yang tidak beragi, lalu meletakkannya ke atas telapak tangan orang nazir itu, setelah orang ini mencukur rambut kenazirannya;"
   },
   {Bible:"Numbers", Chapter:6, Verse:20, Page:1,
-    Kor:"그것들을 흔들어서, 그것을 나 주에게 드리는 흔들어 바치는 제물이 되게 하여야 한다. 그것들은, 흔들어 바친 가슴 고기와 높이 들어올려 바친 넓적다리 고기와 함께, 제사장이 받을 거룩한 몫이다. 이런 절차가 다 끝나면, 그 나실 사람은 포도주를 마셔도 된다.",
+    Kor:"그것들을 흔들어서, 그것을 주께 드리는 흔들어 바치는 제물이 되게 하여야 한다. 그것들은, 흔들어 바친 가슴 고기와 높이 들어올려 바친 넓적다리 고기와 함께, 제사장이 받을 거룩한 몫이다. 이런 절차가 다 끝나면, 그 나실 사람은 포도주를 마셔도 된다.",
     Chn:"祭司要拿这些作为摇祭，在耶和华面前摇一摇；这与所摇的胸、所举的腿同为圣物，归给祭司。然后拿细耳人可以喝酒。",
     Eng:"The priest shall then wave them before the LORD as a wave offering; they are holy and belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine.",
     Ind:"kemudian haruslah imam mengunjukkan semuanya itu ke hadapan TUHAN sebagai persembahan unjukan; semuanya itu menjadi bagian kudus bagi imam, beserta dada persembahan unjukan dan beserta paha persembahan khusus. Sesudah itu barulah boleh orang nazir itu minum anggur.\""
   },
   {Bible:"Numbers", Chapter:6, Verse:21, Page:1,
-    Kor:"○이것이 바로 나실 사람이 지켜야 할 법이다. 그러나 만일 한 나실 사람이 나실 사람이 될 때에, 나 주에게 제물을 바치기로 서약하였고, 더 나아가 그가 바쳐야 하는 것 말고도 더 바치기로 서약하였으면, 그는 나실 사람이 지켜야 할 이 법을 따라, 그가 서약한 것을 그대로 실천하여야 한다.\"",
+    Kor:"○이것이 바로 나실 사람이 지켜야 할 법이다. 그러나 만일 한 나실 사람이 나실 사람이 될 때에, 주께 제물을 드리기로 서약하였고, 더 나아가 그가 바쳐야 하는 것 말고도 더 바치기로 서약하였으면, 그는 나실 사람이 지켜야 할 이 법을 따라, 그가 서약한 것을 그대로 실천하여야 한다.'\"",
     Chn:"「许愿的拿细耳人为离俗所献的供物，和他以外所能得的献给耶和华，就有这条例。他怎样许愿就当照离俗的条例行。」",
     Eng:"\"'This is the law of the Nazirite who vows his offering to the LORD in accordance with his separation, in addition to whatever else he can afford. He must fulfill the vow he has made, according to the law of the Nazirite.'\"",
     Ind:"Itulah hukum tentang orang nazir yang menazarkan persembahannya kepada TUHAN berdasarkan kenazirannya, belum dihitung apa yang ia mampu mempersembahkan di samping itu. Sesuai dengan bunyi nazar yang diikrarkannya, demikianlah harus dilakukannya berdasarkan hukum tentang kenazirannya."
   },
   {Bible:"Numbers", Chapter:6, Verse:22, Page:1,
-    Kor:"<제사장의 축복 선언> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -141,25 +141,25 @@ BibleDB.add([
     Ind:"\"Berbicaralah kepada Harun dan anak-anaknya: Beginilah harus kamu memberkati orang Israel, katakanlah kepada mereka:"
   },
   {Bible:"Numbers", Chapter:6, Verse:24, Page:1,
-    Kor:"'주님께서 당신들에게 복을 주시고, 당신들을 지켜 주시며,",
+    Kor:"주께서 너에게 복을 주시고, 너를 지켜 주시며,",
     Chn:"『愿耶和华赐福给你，保护你。",
     Eng:"\"'\"The LORD bless you and keep you;",
     Ind:"TUHAN memberkati engkau dan melindungi engkau;"
   },
   {Bible:"Numbers", Chapter:6, Verse:25, Page:1,
-    Kor:"주님께서 당신들을 밝은 얼굴로 대하시고, 당신들에게 은혜를 베푸시며,",
+    Kor:"주께서 너를 밝은 얼굴로 대하시고, 너에게 은혜를 베푸시며,",
     Chn:"愿耶和华使他的脸光照你，赐恩给你。",
     Eng:"the LORD make his face shine upon you and be gracious to you;",
     Ind:"TUHAN menyinari engkau dengan wajah-Nya dan memberi engkau kasih karunia;"
   },
   {Bible:"Numbers", Chapter:6, Verse:26, Page:1,
-    Kor:"주님께서 당신들을 고이 보시어서, 당신들에게 평화를 주시기를 빕니다.’",
+    Kor:"주께서 너를 고이 보시어서, 너에게 평화를 주시기를 빈다.",
     Chn:"愿耶和华向你仰脸，赐你平安。』",
     Eng:"the LORD turn his face toward you and give you peace.\"'",
     Ind:"TUHAN menghadapkan wajah-Nya kepadamu dan memberi engkau damai sejahtera."
   },
   {Bible:"Numbers", Chapter:6, Verse:27, Page:1,
-    Kor:"○그들이 나의 이름으로 이스라엘 자손에게 이렇게 축복하면, 내가 친히 이스라엘 자손에게 복을 주겠다.\"",
+    Kor:"그들이 나의 이름으로 이스라엘 자손에게 이렇게 축복하면, 내가 친히 이스라엘 자손에게 복을 주겠다.\"",
     Chn:"他们要如此奉我的名为以色列人祝福；我也要赐福给他们。」",
     Eng:"\"So they will put my name on the Israelites, and I will bless them.\"",
     Ind:"Demikianlah harus mereka meletakkan nama-Ku atas orang Israel, maka Aku akan memberkati mereka.\""

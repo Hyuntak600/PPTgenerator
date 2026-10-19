@@ -3,7 +3,7 @@
 BibleDB.ref("Job",19,29);
 BibleDB.add([
   {Bible:"Job", Chapter:19, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Jika aku sungguh tersesat, maka aku sendiri yang menanggung kesesatanku itu."
   },
   {Bible:"Job", Chapter:19, Verse:5, Page:1,
-    Kor:"너희 생각에는 너희가 나보다 더 낫겠고, 내가 겪는 이 모든 고난도 내가 지은 죄를 증명하는 것이겠지.",
+    Kor:"너희 생각에는, 너희가 나보다 더 낫겠고, 내가 겪는 이 모든 고난도, 내가 지은 죄를 증명하는 것이겠지.",
     Chn:"你们果然要向我夸大， 以我的羞辱为证指责我，",
     Eng:"If indeed you would exalt yourselves above me and use my humiliation against me,",
     Ind:"Jika kamu sungguh hendak membesarkan diri terhadap aku, dan membuat celaku sebagai bukti terhadap diriku,"
@@ -129,19 +129,19 @@ BibleDB.add([
     Ind:"Kasihanilah aku, kasihanilah aku, hai sahabat-sahabatku, karena tangan Allah telah menimpa aku."
   },
   {Bible:"Job", Chapter:19, Verse:22, Page:1,
-    Kor:"어찌하여 너희마저 마치 하나님이라도 된 듯이 나를 핍박하느냐? 내 몸이 이 꼴인데도, 아직도 성에 차지 않느냐?",
+    Kor:"어찌하여 너희마저 마치 하나님이라도 된 듯이, 나를 핍박하느냐? 내 몸이 이 꼴인데도, 아직도 성에 차지 않느냐?",
     Chn:"你们为什么仿佛　神逼迫我， 吃我的肉还以为不足呢？",
     Eng:"Why do you pursue me as God does? Will you never get enough of my flesh?",
     Ind:"Mengapa kamu mengejar aku, seakan-akan Allah, dan tidak menjadi kenyang makan dagingku?"
   },
   {Bible:"Job", Chapter:19, Verse:23, Page:1,
-    Kor:"아, 누가 있어 내가 하는 말을 듣고 기억하여 주었으면!",
+    Kor:"아, 누가 있어 내가 하는 말을 듣고 기억하여 주었으면! 누가 있어 내가 하는 말을 비망록에 기록하여 주었으면!",
     Chn:"惟愿我的言语现在写上， 都记录在书上；",
     Eng:"\"Oh, that my words were recorded, that they were written on a scroll,",
     Ind:"Ah, kiranya perkataanku ditulis, dicatat dalam kitab,"
   },
   {Bible:"Job", Chapter:19, Verse:24, Page:1,
-    Kor:"누가 있어 내가 하는 말을 비망록에 기록하여 주었으면! 누가 있어 내가 한 말이 영원히 남도록 바위에 글을 새겨 주었으면!",
+    Kor:"누가 있어 내가 한 말이 영원히 남도록 바위에 글을 새겨 주었으면!",
     Chn:"用铁笔镌刻， 用铅灌在磐石上，直存到永远。",
     Eng:"that they were inscribed with an iron tool on lead, or engraved in rock forever!",
     Ind:"terpahat dengan besi pengukir dan timah pada gunung batu untuk selama-lamanya!"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Tetapi aku tahu: Penebusku hidup, dan akhirnya Ia akan bangkit di atas debu."
   },
   {Bible:"Job", Chapter:19, Verse:26, Page:1,
-    Kor:"a내 살갗이 다 썩은 다음에라도, b내 육체가 다 썩은 다음에라도, 나는 하나님을 뵈올 것이다. (a 또는 '내가 깬 다음에, 비록 이 몸은 다 썩어도 그 때에 내가' b 또는 '육체 밖에서라도' 또는 '육체를 지닌 채')",
+    Kor:"내 살갗이 다 썩은 다음에라도, 내 육체가 다 썩은 다음에라도, 나는 하나님을 뵈올 것이다.",
     Chn:"我这皮肉灭绝之后， 我必在肉体之外得见　神。",
     Eng:"And after my skin has been destroyed, yet in my flesh I will see God;",
     Ind:"Juga sesudah kulit tubuhku sangat rusak, tanpa dagingkupun aku akan melihat Allah,"
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"yang aku sendiri akan melihat memihak kepadaku; mataku sendiri menyaksikan-Nya dan bukan orang lain. Hati sanubariku merana karena rindu."
   },
   {Bible:"Job", Chapter:19, Verse:28, Page:1,
-    Kor:"나는 너희가 무슨 말을 할지 잘 알고 있다. 너희는 내게 고통을 줄 궁리만 하고 있다. 너희는 나를 칠 구실만 찾고 있다.",
+    Kor:"나는, 너희가 무슨 말을 할지 잘 알고 있다. 너희는 내게 고통을 줄 궁리만 하고 있다. 너희는 나를 칠 구실만 찾고 있다.",
     Chn:"你们若说：我们逼迫他要何等地重呢？ 惹事的根乃在乎他；",
     Eng:"\"If you say, 'How we will hound him, since the root of the trouble lies in him,'",
     Ind:"Kalau kamu berkata: Kami akan menuntut dia dan mendapatkan padanya sebab perkaranya!,"
   },
   {Bible:"Job", Chapter:19, Verse:29, Page:1,
-    Kor:"그러나 이제 너희는 칼을 두려워해야 한다. 칼은 바로 죄 위에 내리는 하나님의 분노다. 너희는, c심판하시는 분이 계시다는 것을 알아야 할 것이다. (c 또는 '전능하신 분을 알게 될 것이다')",
+    Kor:"그러나 이제 너희는 칼을 두려워해야 한다. 칼은 바로 죄 위에 내리는 하나님의 분노다. 너희는, 심판하시는 분이 계시다는 것을 알아야 할 것이다.",
     Chn:"你们就当惧怕刀剑； 因为忿怒惹动刀剑的刑罚， 使你们知道有报应。",
     Eng:"you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment.\"",
     Ind:"takutlah kepada pedang, karena kegeraman mendatangkan hukuman pedang, agar kamu tahu, bahwa ada pengadilan.\""

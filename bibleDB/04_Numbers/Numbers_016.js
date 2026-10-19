@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",16,50);
 BibleDB.add([
   {Bible:"Numbers", Chapter:16, Verse:1, Page:1,
-    Kor:"<고라와 다단과 아비람의 반역> 이스할의 아들 고라가 반기를 들었다. 그는 고핫의 손자이며 레위의 증손이다. 엘리압의 아들인 다단과 아비람, 그리고 르우벤의 손자이며 벨렛의 아들인 온도 고라와 합세하였다.",
+    Kor:"이스할의 아들 고라가 반기를 들었다. 그는 고핫의 손자이며 레위의 증손이다. 엘리압의 아들인 다단과 아비람, 그리고 르우벤의 손자이며 벨렛의 아들인 온도 고라와 합세하였다.",
     Chn:"利未的曾孙、哥辖的孙子、以斯哈的儿子可拉，和吕便子孙中以利押的儿子大坍、亚比兰，与比勒的儿子安，",
     Eng:"Korah son of Izhar, the son of Kohath, the son of Levi, and certain Reubenites--Dathan and Abiram, sons of Eliab, and On son of Peleth--became insolent",
     Ind:"Korah bin Yizhar bin Kehat bin Lewi, beserta Datan dan Abiram, anak-anak Eliab, dan On bin Pelet, ketiganya orang Ruben, mengajak orang-orang"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"untuk memberontak melawan Musa, beserta dua ratus lima puluh orang Israel, pemimpin-pemimpin umat itu, yaitu orang-orang yang dipilih oleh rapat, semuanya orang-orang yang kenamaan."
   },
   {Bible:"Numbers", Chapter:16, Verse:3, Page:1,
-    Kor:"그들이 모세와 아론에게 대항하여 모여서 항의하였다. \"당신들은 분에 넘치는 일을 하고 있소. 온 회중 각자가 다 거룩하고, 그들 가운데 주님께서 계시는데, 어찌하여 당신들은 주님의 회중 위에 군림하려 하오?\"",
+    Kor:"그들이 모세와 아론에게 대항하여 모여서 항의하였다. \"당신들은 분에 넘치는 일을 하고 있소. 온 회중 각자가 다 거룩하고, 그들 가운데 주께서 계시는데, 어찌하여 당신들은 주의 회중 위에 군림하려 하오?\"",
     Chn:"聚集攻击摩西、亚伦，说：「你们擅自专权！全会众个个既是圣洁，耶和华也在他们中间，你们为什么自高，超过耶和华的会众呢？」",
     Eng:"They came as a group to oppose Moses and Aaron and said to them, \"You have gone too far! The whole community is holy, every one of them, and the LORD is with them. Why then do you set yourselves above the LORD'S assembly?\"",
     Ind:"Maka mereka berkumpul mengerumuni Musa dan Harun, serta berkata kepada keduanya: \"Sekarang cukuplah itu! Segenap umat itu adalah orang-orang kudus, dan TUHAN ada di tengah-tengah mereka. Mengapakah kamu meninggi-ninggikan diri di atas jemaah TUHAN?\""
@@ -27,43 +27,43 @@ BibleDB.add([
     Ind:"Ketika Musa mendengar hal itu, sujudlah ia."
   },
   {Bible:"Numbers", Chapter:16, Verse:5, Page:1,
-    Kor:"고라와 고라가 데리고 있는 모든 사람에게 이렇게 말하였다. \"내일 아침에 주님께서는, 누가 하나님께 속한 사람이며, 누가 거룩하며, 누가 그에게 가까이 나아갈 수 있는지를 알려 주실 것이오. 주님께서는 친히 택하신 그 사람만을 주님께 가까이 나오게 하실 것이오.",
+    Kor:"고라와 고라가 데리고 있는 모든 사람에게 이렇게 말하였다. \"내일 아침에 주께서는, 누가 하나님께 속한 사람이며, 누가 거룩하며, 누가 그에게 가까이 나아갈 수 있는지를 알려 주실 것이다. 주께서는 친히 택하신 그 사람만을 주께 가까이 나오게 하실 것이다.",
     Chn:"对可拉和他一党的人说：「到了早晨，耶和华必指示谁是属他的，谁是圣洁的，就叫谁亲近他；他所拣选的是谁，必叫谁亲近他。",
     Eng:"Then he said to Korah and all his followers: \"In the morning the LORD will show who belongs to him and who is holy, and he will have that person come near him. The man he chooses he will cause to come near him.",
     Ind:"Dan ia berkata kepada Korah dan segenap kumpulannya: \"Besok pagi TUHAN akan memberitahukan, siapa kepunyaan-Nya, dan siapa yang kudus, dan Ia akan memperbolehkan orang itu mendekat kepada-Nya; orang yang akan dipilih-Nya akan diperbolehkan-Nya mendekat kepada-Nya."
   },
   {Bible:"Numbers", Chapter:16, Verse:6, Page:1,
-    Kor:"이렇게 하시오. 당신들, 고라와 고라가 데리고 있는 모든 사람들은 향로를 가지고 나오시오.",
+    Kor:"이렇게 하여라. 너희들, 고라와 고라가 데리고 있는 모든 무리는 향로를 가지고 나오너라.",
     Chn:"可拉啊，你们要这样行，你和你的一党要拿香炉来。",
     Eng:"You, Korah, and all your followers are to do this: Take censers",
     Ind:"Perbuatlah begini: ambillah perbaraan-perbaraan, hai Korah, dan kamu segenap kumpulannya,"
   },
   {Bible:"Numbers", Chapter:16, Verse:7, Page:1,
-    Kor:"내일 주님 앞에서 그 향로에 불을 담고, 거기다가 향을 피우도록 하시오. 그 때에 주님께서 한 사람을 택하실 것이오. 그가 바로 거룩한 사람이오. 레위의 자손이라고 하는 당신들이야말로 분에 넘치는 일을 하고 있소.\"",
+    Kor:"내일 주 앞에서 그 향로에 불을 담고, 거기다가 향을 피우도록 하여라. 그 때에 주께서 한 사람을 택하실 것이다. 그가 바로 거룩한 사람이다. 레위의 자손이라고 하는 너희야말로 분에 넘치는 일을 하고 있다.\"",
     Chn:"明日，在耶和华面前，把火盛在炉中，把香放在其上。耶和华拣选谁，谁就为圣洁。你们这利未的子孙擅自专权了！」",
     Eng:"and tomorrow put fire and incense in them before the LORD. The man the LORD chooses will be the one who is holy. You Levites have gone too far!\"",
     Ind:"bubuhlah api ke dalamnya dan taruhlah ukupan di atasnya, di hadapan TUHAN pada esok hari, dan orang yang akan dipilih TUHAN, dialah yang kudus. Cukuplah itu, hai orang-orang Lewi!\""
   },
   {Bible:"Numbers", Chapter:16, Verse:8, Page:1,
-    Kor:"○모세가 고라에게 말하였다. \"당신들 레위의 자손은 들으시오.",
+    Kor:"○모세가 고라에게 말하였다. \"너희 레위의 자손은 들어라.",
     Chn:"摩西又对可拉说：「利未的子孙哪，你们听我说！",
     Eng:"Moses also said to Korah, \"Now listen, you Levites!",
     Ind:"Lalu berkatalah Musa kepada Korah: \"Cobalah dengar, hai orang-orang Lewi!"
   },
   {Bible:"Numbers", Chapter:16, Verse:9, Page:1,
-    Kor:"이스라엘의 하나님이 당신들을 이스라엘 회중 가운데서 구별하셔서, 주님께로 가까이 나오게 하셨소. 그리고 주님의 성막 일을 하게 하셨소. 그뿐만 아니라, 당신들을 회중 앞에 세워, 그들을 돌보게 하셨소. 그런데 이것이 당신들에게 부족하단 말이오?",
+    Kor:"이스라엘의 하나님이 너희를 이스라엘 회중 가운데서 구별하셔서, 주께로 가까이 나오게 하셨다. 그리고 주의 성막 일을 하게 하셨다. 그뿐만 아니라, 너희를 회중 앞에 세워, 그들을 돌보게 하셨다. 그런데 이것이 너희에게 부족하단 말이냐?",
     Chn:"以色列的　神从以色列会中将你们分别出来，使你们亲近他，办耶和华帐幕的事，并站在会众面前替他们当差。",
     Eng:"Isn't it enough for you that the God of Israel has separated you from the rest of the Israelite community and brought you near himself to do the work at the LORD'S tabernacle and to stand before the community and minister to them?",
     Ind:"Belum cukupkah bagimu, bahwa kamu dipisahkan oleh Allah Israel dari umat Israel dan diperbolehkan mendekat kepada-Nya, supaya kamu melakukan pekerjaan pada Kemah Suci TUHAN dan bertugas bagi umat itu untuk melayani mereka,"
   },
   {Bible:"Numbers", Chapter:16, Verse:10, Page:1,
-    Kor:"주님께서는 당신의 모든 동료 레위의 자손을 당신과 함께 주님께로 가까이 불러 내셨소. 그런데 이제 당신들은 제사장직까지도 요구하고 있소.",
+    Kor:"주께서는 너의 모든 동료 레위의 자손을 너와 함께 주께로 가까이 불러 내셨다. 그런데 이제 너희는 제사장직까지도 요구하고 있다.",
     Chn:"耶和华又使你和你一切弟兄—利未的子孙—一同亲近他，这岂为小事？你们还要求祭司的职任吗？",
     Eng:"He has brought you and all your fellow Levites near himself, but now you are trying to get the priesthood too.",
     Ind:"dan bahwa engkau diperbolehkan mendekat bersama-sama dengan semua saudaramu bani Lewi? Dan sekarang mau pula kamu menuntut pangkat imam lagi?"
   },
   {Bible:"Numbers", Chapter:16, Verse:11, Page:1,
-    Kor:"그러므로 당신과 당신의 사람들이 결속한 것은, 주님을 거역하는 것이오. 아론이 어떤 사람인데, 감히 그를 거역하여 불평을 한단 말이오?\"",
+    Kor:"그러므로 너와 너의 무리가 결속한 것은, 주를 거역하는 짓이다. 아론이 어떤 사람인데, 감히 그를 거역하여 불평을 한단 말이냐?\"",
     Chn:"你和你一党的人聚集是要攻击耶和华。亚伦算什么，你们竟向他发怨言呢？」",
     Eng:"It is against the LORD that you and all your followers have banded together. Who is Aaron that you should grumble against him?\"",
     Ind:"Sebab itu, engkau ini dengan segenap kumpulanmu, kamu bersepakat melawan TUHAN. Karena siapakah Harun, sehingga kamu bersungut-sungut kepadanya?\""
@@ -81,25 +81,25 @@ BibleDB.add([
     Ind:"Belum cukupkah, bahwa engkau memimpin kami keluar dari suatu negeri yang berlimpah-limpah susu dan madunya untuk membiarkan kami mati di padang gurun, sehingga masih juga engkau menjadikan dirimu tuan atas kami?"
   },
   {Bible:"Numbers", Chapter:16, Verse:14, Page:1,
-    Kor:"더욱이 당신은 우리를, 젖과 꿀이 흐르는 땅으로 인도하지도 못했소. 밭과 포도원도 우리에게 유산으로 주지 못하였소. 당신은 이 사람들의 눈을 a뺄 작정이오? 우리는 못 가오.\"(a 히, '꿰뚫을')",
+    Kor:"더욱이 당신은 우리를, 젖과 꿀이 흐르는 땅으로 인도하지도 못했소. 밭과 포도원도 우리에게 유산으로 주지 못하였소. 당신은 이 사람들의 눈을 뺄 작정이오? 우리는 못 가오.\"",
     Chn:"并且你没有将我们领到流奶与蜜之地，也没有把田地和葡萄园给我们为业。难道你要剜这些人的眼睛吗？我们不上去！」",
     Eng:"Moreover, you haven't brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men? No, we will not come!\"",
     Ind:"Sungguh, engkau tidak membawa kami ke negeri yang berlimpah-limpah susu dan madunya, ataupun memberikan kepada kami ladang-ladang dan kebun-kebun anggur sebagai milik pusaka. Masakan engkau dapat mengelabui mata orang-orang ini? Kami tidak mau datang.\""
   },
   {Bible:"Numbers", Chapter:16, Verse:15, Page:1,
-    Kor:"○모세는 몹시 화가 나서 주님께 아뢰었다. \"저 사람들이 바치는 제물은 바라보지도 마십시오. 저는 저 사람들에게서 나귀 한 마리도 빼앗은 일이 없습니다. 저들 가운데 어느 한 사람에게도 잘못한 일이 없습니다.\"",
+    Kor:"○모세는 몹시 화가 나서 주께 아뢰었다. \"저 사람들이 바치는 제물은 바라보지도 마십시오. 저는 저 사람들에게서 나귀 한 마리도 빼앗은 일이 없습니다. 저들 가운데 어느 한 사람에게도 잘못한 일이 없습니다.\"",
     Chn:"摩西就甚发怒，对耶和华说：「求你不要享受他们的供物。我并没有夺过他们一匹驴，也没有害过他们一个人。」",
     Eng:"Then Moses became very angry and said to the LORD, \"Do not accept their offering. I have not taken so much as a donkey from them, nor have I wronged any of them.\"",
     Ind:"Lalu sangat marahlah Musa dan ia berkata kepada TUHAN: \"Janganlah perhatikan segala persembahan mereka. Belum pernah kuambil satu ekor keledaipun dari mereka, dan belum pernah kulakukan yang jahat kepada seseorangpun dari mereka.\""
   },
   {Bible:"Numbers", Chapter:16, Verse:16, Page:1,
-    Kor:"○모세가 고라에게 말하였다. \"당신과 당신의 모든 사람은 내일 주님 앞에 나오시오. 당신과 그들과 아론이 함께 설 것이오.",
+    Kor:"○모세가 고라에게 말하였다. \"너와 너의 모든 무리는 내일 주 앞에 나오너라. 너와 그들과 아론이 함께 설 것이다.",
     Chn:"摩西对可拉说：「明天，你和你一党的人，并亚伦，都要站在耶和华面前；",
     Eng:"Moses said to Korah, \"You and all your followers are to appear before the LORD tomorrow--you and they and Aaron.",
     Ind:"Lalu berkatalah Musa kepada Korah: \"Engkau ini dengan segenap kumpulanmu harus menghadap TUHAN, engkau dan mereka dan Harun, pada esok hari."
   },
   {Bible:"Numbers", Chapter:16, Verse:17, Page:1,
-    Kor:"각자 자기의 향로를 들고, 그 안에 향을 담아가지고, 주님 앞으로 나와야 하오. 각자가 향로를 가지고 오면, 향로는 모두 이백오십 개가 될 것이오. 당신과 아론도 각자 향로를 가져 와야 하오.\"",
+    Kor:"각자 자기의 향로를 들고, 그 안에 향을 담아가지고, 주 앞으로 나와야 한다. 각자가 향로를 가지고 오면, 향로는 모두 이백오십 개가 될 것이다. 너와 아론도 각자 향로를 가져 와야 한다.\"",
     Chn:"各人要拿一个香炉，共二百五十个，把香放在上面，到耶和华面前。你和亚伦也各拿自己的香炉。」",
     Eng:"Each man is to take his censer and put incense in it--250 censers in all--and present it before the LORD. You and Aaron are to present your censers also.\"",
     Ind:"Baiklah kamu masing-masing membawa perbaraannya membubuh ukupan di atasnya, lalu kamu mempersembahkan masing-masing perbaraannya ke hadapan TUHAN, dua ratus lima puluh perbaraan; juga engkau ini dan Harun masing-masing harus membawa perbaraannya.\""
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Maka mereka masing-masing membawa perbaraannya, membubuh api ke dalamnya, menaruh ukupan di atasnya, lalu berdirilah mereka di depan pintu Kemah Pertemuan, juga Musa dan Harun."
   },
   {Bible:"Numbers", Chapter:16, Verse:19, Page:1,
-    Kor:"고라는 온 회중을 모두 회막 어귀에 모아 두 사람과 대결하게 하였다. ○갑자기 주님의 영광이 온 회중에게 나타났다.",
+    Kor:"고라는 온 회중을 모두 회막 어귀에 모아 두 사람과 대결하게 하였다. ○갑자기 주의 영광이 온 회중에게 나타났다.",
     Chn:"可拉招聚全会众到会幕门前，要攻击摩西、亚伦；耶和华的荣光就向全会众显现。",
     Eng:"When Korah had gathered all his followers in opposition to them at the entrance to the Tent of Meeting, the glory of the LORD appeared to the entire assembly.",
     Ind:"Ketika Korah mengumpulkan segenap umat itu melawan mereka berdua di depan pintu Kemah Pertemuan, tampaklah kemuliaan TUHAN kepada segenap umat itu."
   },
   {Bible:"Numbers", Chapter:16, Verse:20, Page:1,
-    Kor:"주님께서 모세와 아론에게 다음과 같이 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 다음과 같이 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa dan Harun:"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tetapi sujudlah mereka berdua dan berkata: \"Ya Allah, Allah dari roh segala makhluk! Satu orang saja berdosa, masakan Engkau murka terhadap segenap perkumpulan ini?\""
   },
   {Bible:"Numbers", Chapter:16, Verse:23, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"Maka berfirmanlah TUHAN kepada Musa:"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Lalu pergilah Musa kepada Datan dan Abiram, dan para tua-tua Israel mengikuti dia."
   },
   {Bible:"Numbers", Chapter:16, Verse:26, Page:1,
-    Kor:"그는 회중에게 경고하였다. \"당신들은 이 악한 사람들의 장막에서 물러서시오! 그들에게 딸린 어느 것 하나도 건드리지 마시오. 건드렸다가는, 그들의 죄에 휘말려 함께 망할 것이오.\"",
+    Kor:"그는 회중에게 경고하였다. \"너희는 이 악한 사람들의 장막에서 물러서거라! 그들에게 딸린 어느 것 하나도 건드리지 말아라. 건드렸다가는, 그들의 죄에 휘말려 함께 망할 것이다.\"",
     Chn:"他吩咐会众说：「你们离开这恶人的帐棚吧，他们的物件，什么都不可摸，恐怕你们陷在他们的罪中，与他们一同消灭。」",
     Eng:"He warned the assembly, \"Move back from the tents of these wicked men! Do not touch anything belonging to them, or you will be swept away because of all their sins.\"",
     Ind:"Berkatalah ia kepada umat itu: \"Baiklah kamu menjauh dari kemah orang-orang fasik ini dan janganlah kamu kena kepada sesuatu apapun dari kepunyaan mereka, supaya kamu jangan mati lenyap oleh karena segala dosa mereka.\""
@@ -165,19 +165,19 @@ BibleDB.add([
     Ind:"Maka pergilah mereka dari sekeliling tempat kediaman Korah, Datan dan Abiram. Keluarlah Datan dan Abiram, lalu berdiri di depan pintu kemah mereka bersama-sama dengan isterinya, para anaknya dan anak-anak yang kecil."
   },
   {Bible:"Numbers", Chapter:16, Verse:28, Page:1,
-    Kor:"그 때에 모세가 말하였다. \"당신들은 이제 곧 이 모든 일이 내 뜻대로 된 것이 아니라, 이 모든 일을 하도록 주님께서 나를 보내셔서 된 일임을 알게 될 것이오.",
+    Kor:"그 때에 모세가 말하였다. \"너희는 이제 곧 이 모든 일이 내 뜻대로 된 것이 아니라, 이 모든 일을 하도록 주께서 나를 보내셔서 된 일임을 알게 될 것이다.",
     Chn:"摩西说：「我行的这一切事本不是凭我自己心意行的，乃是耶和华打发我行的，必有证据使你们知道。",
     Eng:"Then Moses said, \"This is how you will know that the LORD has sent me to do all these things and that it was not my idea:",
     Ind:"Sesudah itu berkatalah Musa: \"Dari hal inilah kamu akan tahu, bahwa aku diutus TUHAN untuk melakukan segala perbuatan ini, dan hal itu bukanlah dari hatiku sendiri:"
   },
   {Bible:"Numbers", Chapter:16, Verse:29, Page:1,
-    Kor:"이 사람들이 보통 사람이 죽는 것과 같이 죽는다면, 곧 모든 사람이 겪는 것과 같은 죽음으로 죽는다면, 주님께서 나를 보내신 것이 아니오.",
+    Kor:"이 사람들이 보통 사람이 죽는 것과 같이 죽는다면, 곧 모든 사람이 겪는 것과 같은 죽음으로 죽는다면, 주께서 나를 보내신 것이 아니다.",
     Chn:"这些人死若与世人无异，或是他们所遭的与世人相同，就不是耶和华打发我来的。",
     Eng:"If these men die a natural death and experience only what usually happens to men, then the LORD has not sent me.",
     Ind:"jika orang-orang ini nanti mati seperti matinya setiap manusia, dan mereka mengalami yang dialami setiap manusia, maka aku tidak diutus TUHAN."
   },
   {Bible:"Numbers", Chapter:16, Verse:30, Page:1,
-    Kor:"그러나 주님께서, 당신들이 듣도 보도 못한 일을 일으켜서, 땅이 그 입을 벌려, 그들과 그들에게 딸린 모든 것을 삼켜, 그들이 산 채로 스올로 내려가게 되면, 그 때에 당신들은 이 사람들이 주님을 업신여겨서 벌을 받았다는 것을 알게 될 것이오.\"",
+    Kor:"그러나 주께서, 너희가 듣도 보도 못한 일을 일으켜서, 땅이 그 입을 벌려, 그들과 그들에게 딸린 모든 것을 삼켜, 그들이 산 채로 스올로 내려가게 되면, 그 때에 너희는 이 사람들이 주를 업신여겨서 벌을 받았다는 것을 알게 될 것이다.\"",
     Chn:"倘若耶和华创作一件新事，使地开口，把他们和一切属他们的都吞下去，叫他们活活地坠落阴间，你们就明白这些人是藐视耶和华了。」",
     Eng:"But if the LORD brings about something totally new, and the earth opens its mouth and swallows them, with everything that belongs to them, and they go down alive into the grave, then you will know that these men have treated the LORD with contempt.\"",
     Ind:"Tetapi, jika TUHAN akan menjadikan sesuatu yang belum pernah terjadi, dan tanah mengangakan mulutnya dan menelan mereka beserta segala kepunyaan mereka, sehingga mereka hidup-hidup turun ke dunia orang mati, maka kamu akan tahu, bahwa orang-orang ini telah menista TUHAN.\""
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Dan semua orang Israel yang di sekeliling mereka berlarian mendengar teriak mereka, sebab kata mereka: \"Jangan-jangan bumi menelan kita juga!\""
   },
   {Bible:"Numbers", Chapter:16, Verse:35, Page:1,
-    Kor:"○주님께로부터 불이 나와, 향을 바치던 이백오십 명을 살라 버렸다.",
+    Kor:"○주께로부터 불이 나와, 향을 바치던 이백오십 명을 살라 버렸다.",
     Chn:"又有火从耶和华那里出来，烧灭了那献香的二百五十个人。",
     Eng:"And fire came out from the LORD and consumed the 250 men who were offering the incense.",
     Ind:"Lagi keluarlah api, berasal dari pada TUHAN, lalu memakan habis kedua ratus lima puluh orang yang mempersembahkan ukupan itu."
   },
   {Bible:"Numbers", Chapter:16, Verse:36, Page:1,
-    Kor:"<향로> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -231,25 +231,25 @@ BibleDB.add([
     Ind:"yakni perbaraan orang-orang berdosa yang telah membayarkan nyawanya, kemudian semuanya itu harus ditempa tipis-tipis menjadi salut mezbah, sebab telah dibawa ke hadapan TUHAN oleh orang-orang itu, jadi semuanya itu kudus; dengan demikian hal itu menjadi tanda bagi orang Israel.\""
   },
   {Bible:"Numbers", Chapter:16, Verse:39, Page:1,
-    Kor:"○제사장 엘르아살이, 불에 타 죽은 사람들이 주님께 드렸던 그 놋향로들을 거두어다가, 망치로 두들겨 펴서 제단 위에 씌웠다.",
+    Kor:"○제사장 엘르아살이, 불에 타 죽은 사람들이 주께 드렸던 그 놋향로들을 거두어다가, 망치로 두들겨 펴서 제단 위에 씌웠다.",
     Chn:"于是祭司以利亚撒将被烧之人所献的铜香炉拿来，人就锤出来，用以包坛，",
     Eng:"So Eleazar the priest collected the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,",
     Ind:"Maka imam Eleazar mengambil perbaraan-perbaraan tembaga yang telah dibawa oleh orang-orang yang terbakar itu, lalu ditempa menjadi salut mezbah."
   },
   {Bible:"Numbers", Chapter:16, Verse:40, Page:1,
-    Kor:"엘르아살은, 주님께서 모세를 시켜 말씀하신 대로 다 하였다. 그가 이렇게 한 것은, 아론 자손이 아닌 다른 사람들은, 어느 누구도 절대로 주 앞에 가까이 가서 분향할 수 없다는 것과, 누구든지 그렇게 하였다가는 고라와 그와 합세하였던 사람들처럼 된다는 것을, 이스라엘 자손에게 상기시키려 04 16:한 것이다.",
+    Kor:"엘르아살은, 주께서 모세를 시켜 말씀하신 대로 다 하였다. 그가 이렇게 한 것은, 아론 자손이 아닌 다른 사람들은, 어느 누구도 절대로 주 앞에 가까이 가서 분향할 수 없다는 것과, 누구든지 그렇게 하였다가는 고라와 그와 합세하였던 사람들처럼 된다는 것을, 이스라엘 자손에게 상기시키려 한 것이다.",
     Chn:"给以色列人作纪念，使亚伦后裔之外的人不得近前来在耶和华面前烧香，免得他遭可拉和他一党所遭的。这乃是照耶和华借着摩西所吩咐的。",
     Eng:"as the LORD directed him through Moses. This was to remind the Israelites that no one except a descendant of Aaron should come to burn incense before the LORD, or he would become like Korah and his followers.",
     Ind:"Itu menjadi suatu peringatan bagi orang Israel, supaya jangan tampil orang awam yang bukan dari keturunan Harun untuk membakar ukupan di hadapan TUHAN, dan jangan ia menjadi seperti Korah dan kumpulannya--seperti yang difirmankan TUHAN kepadanya dengan perantaraan Musa."
   },
   {Bible:"Numbers", Chapter:16, Verse:41, Page:1,
-    Kor:"<아론이 백성을 구하다> ○이튿날, 이스라엘 자손의 온 회중이 모세와 아론에게 항거하면서 말하였다. \"당신들이 주님의 백성을 죽였소.\"",
+    Kor:"○이튿날, 이스라엘 자손의 온 회중이 모세와 아론에게 항거하면서 \"당신들이 주의 백성을 죽였소\" 하고 말하였다.",
     Chn:"第二天，以色列全会众都向摩西、亚伦发怨言说：「你们杀了耶和华的百姓了。」",
     Eng:"The next day the whole Israelite community grumbled against Moses and Aaron. \"You have killed the LORD'S people,\" they said.",
     Ind:"Tetapi pada keesokan harinya bersungut-sungutlah segenap umat Israel kepada Musa dan Harun, kata mereka: \"Kamu telah membunuh umat TUHAN.\""
   },
   {Bible:"Numbers", Chapter:16, Verse:42, Page:1,
-    Kor:"온 회중이 모세와 아론을 규탄할 때에, 모세와 아론이 회막 쪽을 바라보니, 회막에 갑자기 구름이 덮이고, 주님의 영광이 거기에 나타났다.",
+    Kor:"온 회중이 모세와 아론을 규탄할 때에, 모세와 아론이 회막 쪽을 바라보니, 회막에 갑자기 구름이 덮이고, 주의 영광이 거기에 나타났다.",
     Chn:"会众聚集攻击摩西、亚伦的时候，向会幕观看，不料，有云彩遮盖了，耶和华的荣光显现。",
     Eng:"But when the assembly gathered in opposition to Moses and Aaron and turned toward the Tent of Meeting, suddenly the cloud covered it and the glory of the LORD appeared.",
     Ind:"Ketika umat itu berkumpul melawan Musa dan Harun, dan mereka memalingkan mukanya ke arah Kemah Pertemuan, maka kelihatanlah awan itu menutupinya dan tampaklah kemuliaan TUHAN."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Lalu pergilah Musa dan Harun ke depan Kemah Pertemuan."
   },
   {Bible:"Numbers", Chapter:16, Verse:44, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华吩咐摩西说：",
     Eng:"and the LORD said to Moses,",
     Ind:"Maka berfirmanlah TUHAN kepada Musa:"
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"\"Pergilah dari tengah-tengah umat ini, supaya Kuhancurkan mereka dalam sekejap mata.\" Lalu sujudlah mereka."
   },
   {Bible:"Numbers", Chapter:16, Verse:46, Page:1,
-    Kor:"모세가 아론에게 말하였다. \"형님께서는, 향로에 제단 불을 담고, 그 위에 향을 피워, 빨리 회중에게로 가서, 그들을 위하여 속죄의 예식을 베푸십시오. 주님께서 진노하셔서, 재앙이 시작되었습니다.\"",
+    Kor:"모세가 아론에게 말하였다. \"형님께서는, 향로에 제단 불을 담고, 그 위에 향을 피워, 빨리 회중에게로 가서, 속죄의 예식을 베푸십시오. 주께서 진노하셔서, 재앙이 시작되었습니다.\"",
     Chn:"摩西对亚伦说：「拿你的香炉，把坛上的火盛在其中，又加上香，快快带到会众那里，为他们赎罪；因为有忿怒从耶和华那里出来，瘟疫已经发作了。」",
     Eng:"Then Moses said to Aaron, \"Take your censer and put incense in it, along with fire from the altar, and hurry to the assembly to make atonement for them. Wrath has come out from the LORD; the plague has started.\"",
     Ind:"Berkatalah Musa kepada Harun: \"Ambillah perbaraan, bubuhlah api ke dalamnya dari atas mezbah, dan taruhlah ukupan, dan pergilah dengan segera kepada umat itu dan adakanlah pendamaian bagi mereka, sebab murka TUHAN telah berkobar, dan tulah sedang mulai.\""
@@ -297,7 +297,7 @@ BibleDB.add([
     Ind:"Dan mereka yang mati kena tulah itu ada empat belas ribu tujuh ratus orang banyaknya, belum terhitung orang-orang yang mati karena perkara Korah."
   },
   {Bible:"Numbers", Chapter:16, Verse:50, Page:1,
-    Kor:"재앙이 그치자, 아론은 회막 어귀에 있는 모세에게로 돌아왔다.",
+    Kor:"재앙이 그치자, 아론은 회막 어귀에 있는모세에게로 돌아왔다.",
     Chn:"亚伦回到会幕门口，到摩西那里，瘟疫已经止住了。",
     Eng:"Then Aaron returned to Moses at the entrance to the Tent of Meeting, for the plague had stopped.",
     Ind:"Ketika Harun kembali kepada Musa di depan pintu Kemah Pertemuan, tulah itu telah berhenti."

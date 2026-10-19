@@ -3,19 +3,19 @@
 BibleDB.ref("Leviticus",4,35);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:4, Verse:1, Page:1,
-    Kor:"<속죄제를 드려야 할 경우> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:4, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 다음과 같이 일러라. ○어떤 사람이 실수로 잘못을 저질러, 나 주가 하지 말라고 명한 것을 하나라도 어겼으면, 다음과 같이 하여야 한다.",
+    Kor:"\"너는 이스라엘 자손에게 다음과 같이 일러라. ○어떤 사람이 실수로 잘못을 저질러, 주께서 하지 말라고 명하신 것을 하나라도 어겼으면, 다음과 같이 하여야 한다.",
     Chn:"「你晓谕以色列人说：若有人在耶和华所吩咐不可行的什么事上误犯了一件，",
     Eng:"\"Say to the Israelites: 'When anyone sins unintentionally and does what is forbidden in any of the LORD'S commands--",
     Ind:"\"Katakanlah kepada orang Israel: Apabila seseorang tidak dengan sengaja berbuat dosa dalam sesuatu hal yang dilarang TUHAN dan ia memang melakukan salah satu dari padanya,"
   },
   {Bible:"Leviticus", Chapter:4, Verse:3, Page:1,
-    Kor:"○특히, 기름부음을 받고 임명받은 제사장이 죄를 지어서, 그 벌이 백성에게 돌아가게 되었을 경우에, 그 제사장이 지은 죄를 용서받으려면, 소 떼 가운데서 흠 없는 수송아지 한 마리를 골라 속죄제물로 주에게 바쳐야 한다.",
+    Kor:"○특히, 기름부음을 받고 임명받은 제사장이 죄를 지어서, 그 벌이 백성에게 돌아가게 되었을 경우에, 그 제사장이 지은 죄를 용서받으려면, 소 떼 가운데서 흠 없는 수송아지 한 마리를 골라 속죄제물로 주께 바쳐야 한다.",
     Chn:"或是受膏的祭司犯罪，使百姓陷在罪里，就当为他所犯的罪把没有残疾的公牛犊献给耶和华为赎罪祭。",
     Eng:"\"'If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without defect as a sin offering for the sin he has committed.",
     Ind:"maka jikalau yang berbuat dosa itu imam yang diurapi, sehingga bangsanya turut bersalah, haruslah ia mempersembahkan kepada TUHAN karena dosa yang telah diperbuatnya itu, seekor lembu jantan muda yang tidak bercela sebagai korban penghapus dosa."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Imam yang diurapi itu harus mengambil sebagian dari darah lembu itu, lalu membawanya ke dalam Kemah Pertemuan."
   },
   {Bible:"Leviticus", Chapter:4, Verse:6, Page:1,
-    Kor:"제사장이 직접 손가락으로 피를 찍어, 주 앞 곧 성소에 친 a휘장 앞에서 일곱 번 뿌려야 한다.(a 지성소와 성소를 구분하려고 친 것(출 26:31-3c)",
+    Kor:"제사장이 직접 손가락으로 피를 찍어, 주 앞 곧 성소에 친 휘장 앞에서 일곱 번 뿌려야 한다.",
     Chn:"把指头蘸于血中，在耶和华面前对着圣所的幔子弹血七次，",
     Eng:"He is to dip his finger into the blood and sprinkle some of it seven times before the LORD, in front of the curtain of the sanctuary.",
     Ind:"Imam harus mencelupkan jarinya ke dalam darah itu, dan memercikkan sedikit dari darah itu, tujuh kali di hadapan TUHAN, di depan tabir penyekat tempat kudus."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Adapun kulit lembu jantan itu dan segala dagingnya, beserta kepala dan betisnya dan isi perutnya dan kotorannya,"
   },
   {Bible:"Leviticus", Chapter:4, Verse:12, Page:1,
-    Kor:"그 수송아지에게서 나온 것은 모두 진 바깥, 정결한 곳 곧 재 버리는 곳으로 가져 가서, 잿더미 위에 장작을 지피고, 그 위에 올려놓고 불살라야 한다. 그 수송아지는 재 버리는 곳에서 불살라야 한다.",
+    Kor:"그 수송아지에게서 나온 것은 모두 진 바깥, 정결한 곳, 곧 재 버리는 곳으로 가져 가서, 잿더미 위에 장작을 지피고, 그 위에 올려놓고 불살라야 한다. 그 수송아지는 재 버리는 곳에서 불살라야 한다.",
     Chn:"就是全公牛，要搬到营外洁净之地、倒灰之所，用火烧在柴上。",
     Eng:"that is, all the rest of the bull--he must take outside the camp to a place ceremonially clean, where the ashes are thrown, and burn it in a wood fire on the ash heap.",
     Ind:"jadi lembu jantan itu seluruhnya harus dibawanya ke luar perkemahan, ke suatu tempat yang tahir, ke tempat pembuangan abu, dan lembu itu harus dibakarnya sampai habis di atas kayu api di tempat pembuangan abu."
   },
   {Bible:"Leviticus", Chapter:4, Verse:13, Page:1,
-    Kor:"○이스라엘 온 회중이, 실수로, 함께 책임을 져야 할 잘못을 저지르면, 그것은 비록 깨닫지 못하였을지라도 죄가 된다. 나 주가 하지 말라고 명한 모든 것을 하나라도 어겨서 벌을 받게 되면,",
+    Kor:"○이스라엘 온 회중이, 실수로, 함께 책임을 져야 할 잘못을 저지르면, 그것은 비록 깨닫지 못하였을지라도 죄가 된다. 주께서 하지 말라고 명하신 모든 것을 하나라도 어겨서 벌을 받게 되면,",
     Chn:"「以色列全会众若行了耶和华所吩咐不可行的什么事，误犯了罪，是隐而未现、会众看不出来的，",
     Eng:"\"'If the whole Israelite community sins unintentionally and does what is forbidden in any of the LORD'S commands, even though the community is unaware of the matter, they are guilty.",
     Ind:"Jikalau yang berbuat dosa dengan tak sengaja itu segenap umat Israel, dan jemaah tidak menyadarinya, sehingga mereka melakukan salah satu hal yang dilarang TUHAN, dan mereka bersalah,"
   },
   {Bible:"Leviticus", Chapter:4, Verse:14, Page:1,
-    Kor:"그들이 지은 죄를 그들 스스로가 깨닫는 대로, 곧바로 총회는 소 떼 가운데서 수송아지 한 마리를 골라 속죄제물로 바쳐야 한다. 수송아지를 회막 앞으로 끌어 오면,",
+    Kor:"그들이 지은 죄를 그들 스스로가 깨닫는 대로, 곧바로 총회는 소 떼 가운데서 수송아지 한 마리를 골라 속죄제물로 드려야 한다. 수송아지를 회막 앞으로 끌어 오면,",
     Chn:"会众一知道所犯的罪就要献一只公牛犊为赎罪祭，牵到会幕前。",
     Eng:"When they become aware of the sin they committed, the assembly must bring a young bull as a sin offering and present it before the Tent of Meeting.",
     Ind:"maka apabila dosa yang diperbuat mereka itu ketahuan, haruslah jemaah itu mempersembahkan seekor lembu jantan yang muda sebagai korban penghapus dosa. Lembu itu harus dibawa mereka ke depan Kemah Pertemuan."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Imam yang diurapi harus membawa sebagian dari darah lembu itu ke dalam Kemah Pertemuan."
   },
   {Bible:"Leviticus", Chapter:4, Verse:17, Page:1,
-    Kor:"제사장이 직접 손가락으로 그 피를 찍어, 주 앞 곧 휘장 앞에서 일곱 번 뿌려야 한다.",
+    Kor:"제사장이 직접 손가락으로 그 피를 찍어, 주 앞, 곧 휘장 앞에서 일곱 번 뿌려야 한다.",
     Chn:"把指头蘸于血中，在耶和华面前对着幔子弹血七次，",
     Eng:"He shall dip his finger into the blood and sprinkle it before the LORD seven times in front of the curtain.",
     Ind:"Imam harus mencelupkan jarinya ke dalam darah itu dan memercikkannya tujuh kali di hadapan TUHAN, di depan tabir."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Dan haruslah ia membawa lembu jantan itu ke luar perkemahan, lalu membakarnya sampai habis seperti ia membakar habis lembu jantan yang pertama. Itulah korban penghapus dosa untuk jemaah."
   },
   {Bible:"Leviticus", Chapter:4, Verse:22, Page:1,
-    Kor:"○최고 통치자가 실수로, 나 주 하나님이 하지 말라고 명한 것을 하나라도 어겨서, 그 허물로 벌을 받게 되었을 때에는,",
+    Kor:"○최고 통치자가 실수로, 주 하나님이 하지 말라고 명하신 것을 하나라도 어겨서, 그 허물로 벌을 받게 되었을 때에는,",
     Chn:"「官长若行了耶和华—他　神所吩咐不可行的什么事，误犯了罪，",
     Eng:"\"'When a leader sins unintentionally and does what is forbidden in any of the commands of the LORD his God, he is guilty.",
     Ind:"Jikalau yang berbuat dosa itu seorang pemuka yang tidak dengan sengaja melakukan salah satu hal yang dilarang TUHAN, Allahnya, sehingga ia bersalah,"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tetapi segala lemak harus dibakarnya di atas mezbah, seperti juga lemak korban keselamatan. Dengan demikian imam mengadakan pendamaian bagi orang itu karena dosanya, sehingga ia menerima pengampunan."
   },
   {Bible:"Leviticus", Chapter:4, Verse:27, Page:1,
-    Kor:"○일반 평민 가운데서 한 사람이 실수로, 나 주가 하지 말라고 명한 것 가운데서 하나를 어겨서, 그 허물로 벌을 받게 되면,",
+    Kor:"○일반 평민 가운데서 한 사람이 실수로, 주께서 하지 말라고 명하신 것 가운데서 하나를 어겨서, 그 허물로 벌을 받게 되면,",
     Chn:"「民中若有人行了耶和华所吩咐不可行的什么事，误犯了罪，",
     Eng:"\"'If a member of the community sins unintentionally and does what is forbidden in any of the LORD'S commands, he is guilty.",
     Ind:"Jikalau yang berbuat dosa dengan tak sengaja itu seorang dari rakyat jelata, dan ia melakukan salah satu hal yang dilarang TUHAN, sehingga ia bersalah,"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemudian imam harus mengambil dengan jarinya sedikit dari darah korban itu, lalu membubuhnya pada tanduk-tanduk mezbah korban bakaran. Semua darah selebihnya haruslah dicurahkannya kepada bagian bawah mezbah."
   },
   {Bible:"Leviticus", Chapter:4, Verse:31, Page:1,
-    Kor:"제물을 가져 온 사람이, 화목제물의 기름기를 떼어 내듯이, 기름기를 모두 떼어 내면, 제사장은 그것을 받아 제단에 올려놓고, 나 주가 그 향기를 맡고 기뻐하도록 불살라야 한다. 이렇게 하여, 제사장이, 제물을 가져 온 사람의 죄를 속하여 주면, 그는 용서를 받는다.",
+    Kor:"제물을 가져 온 사람이, 화목제물의 기름기를 떼어 내듯이, 기름기를 모두 떼어 내면, 제사장은 그것을 받아 제단에 올려놓고, 주께서 그 향기를 맡고 기뻐하시도록 불살라야 한다. 이렇게 하여, 제사장이, 제물을 가져 온 사람의 죄를 속하여 주면, 그는 용서를 받는다.",
     Chn:"又要把羊所有的脂油都取下，正如取平安祭牲的脂油一样。祭司要在坛上焚烧，在耶和华面前作为馨香的祭，为他赎罪，他必蒙赦免。",
     Eng:"He shall remove all the fat, just as the fat is removed from the fellowship offering, and the priest shall burn it on the altar as an aroma pleasing to the LORD. In this way the priest will make atonement for him, and he will be forgiven.",
     Ind:"Tetapi segala lemak haruslah dipisahkannya, seperti juga lemak korban keselamatan dipisahkan, lalu haruslah dibakar oleh imam di atas mezbah menjadi bau yang menyenangkan bagi TUHAN. Dengan demikian imam mengadakan pendamaian bagi orang itu sehingga ia menerima pengampunan."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Kemudian imam harus mengambil dengan jarinya sedikit dari darah korban penghapus dosa itu, lalu membubuhnya pada tanduk-tanduk mezbah korban bakaran. Semua darah selebihnya haruslah dicurahkannya kepada bagian bawah mezbah."
   },
   {Bible:"Leviticus", Chapter:4, Verse:35, Page:1,
-    Kor:"제물을 가져 온 사람이, 화목제사의 제물에서 양의 기름기를 떼어 가져 오듯이, 기름기를 모두 떼어 가져 오면, 제사장은 그 기름기를 받아서, 제단 위, 나 주에게 살라 바치는 제물 위에 올려놓고 불살라야 한다. 이렇게 하여, 제사장이 제물을 가져 온 사람의 죄를 속하여 주면, 그는 용서를 받는다.",
+    Kor:"제물을 가져 온 사람이, 화목제사의 제물에서 양의 기름기를 떼어 가져 오듯이, 기름기를 모두 떼어 가져 오면, 제사장은 그 기름기를 받아서, 제단 위, 주께 살라 바치는 제물 위에 올려놓고 불살라야 한다. 이렇게 하여, 제사장이 제물을 가져 온 사람의 죄를 속하여 주면, 그는 용서를 받는다.",
     Chn:"又要把所有的脂油都取下，正如取平安祭羊羔的脂油一样。祭司要按献给耶和华火祭的条例，烧在坛上。至于所犯的罪，祭司要为他赎了，他必蒙赦免。」",
     Eng:"He shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the offerings made to the LORD by fire. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven.",
     Ind:"Tetapi segala lemak haruslah dipisahkannya, seperti juga lemak domba korban keselamatan dipisahkan, lalu imam harus membakar semuanya itu di atas mezbah di atas segala korban api-apian TUHAN. Dengan demikian imam mengadakan pendamaian bagi orang itu karena dosa yang telah diperbuatnya, sehingga ia menerima pengampunan."

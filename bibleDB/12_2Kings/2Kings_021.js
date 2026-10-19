@@ -3,13 +3,13 @@
 BibleDB.ref("2Kings",21,26);
 BibleDB.add([
   {Bible:"2Kings", Chapter:21, Verse:1, Page:1,
-    Kor:"<유다 왕 므낫세(대하 33:1-20)> 므낫세는 왕이 되었을 때에 열두 살이었다. 그는 예루살렘에서 쉰다섯 해 동안 다스렸다. 그의 어머니는 헵시바이다.",
+    Kor:"므낫세는 왕이 되었을 때에, 열두 살이었다. 그는 예루살렘에서 쉰다섯 해 동안 다스렸다. 그의 어머니는 헵시바이다.",
     Chn:"玛拿西登基的时候年十二岁，在耶路撒冷作王五十五年。他母亲名叫协西巴。",
     Eng:"Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother's name was Hephzibah.",
     Ind:"Manasye berumur dua belas tahun pada waktu ia menjadi raja dan lima puluh lima tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Hefzibah."
   },
   {Bible:"2Kings", Chapter:21, Verse:2, Page:1,
-    Kor:"므낫세는 주님께서 보시기에 악한 일을 하였다. 그는, 주님께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 사람들의 역겨운 풍속을 따랐다.",
+    Kor:"므낫세는 주께서 보시기에 악한 일을 하였다. 그는, 주께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 사람들의 역겨운 풍속을 따랐다.",
     Chn:"玛拿西行耶和华眼中看为恶的事，效法耶和华在以色列人面前赶出的外邦人所行可憎的事。",
     Eng:"He did evil in the eyes of the LORD, following the detestable practices of the nations the LORD had driven out before the Israelites.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN, sesuai dengan perbuatan keji bangsa-bangsa yang telah dihalau TUHAN dari depan orang Israel."
@@ -21,25 +21,25 @@ BibleDB.add([
     Ind:"Ia mendirikan kembali bukit-bukit pengorbanan yang telah dimusnahkan oleh Hizkia, ayahnya; ia membangun mezbah-mezbah untuk Baal, membuat patung Asyera seperti yang dilakukan Ahab, raja Israel, dan sujud menyembah kepada segenap tentara langit dan beribadah kepadanya."
   },
   {Bible:"2Kings", Chapter:21, Verse:4, Page:1,
-    Kor:"또 그는, 주님께서 일찍이 \"내가 예루살렘 안에 나의 이름을 두겠다\" 하고 말씀하신 주님의 성전 안에도 이방신을 섬기는 제단을 만들었다.",
+    Kor:"또 그는, 주께서 일찍이 \"내가 예루살렘 안에 나의 이름을 두겠다\" 하고 말씀하신 주의 성전 안에도 이방신을 섬기는 제단을 만들었다.",
     Chn:"在耶和华殿宇中筑坛。耶和华曾指着这殿说：「我必立我的名在耶路撒冷。」",
     Eng:"He built altars in the temple of the LORD, of which the LORD had said, \"In Jerusalem I will put my Name.\"",
     Ind:"Ia mendirikan mezbah-mezbah di rumah TUHAN, walaupun sehubungan dengan rumah itu TUHAN telah berfirman: \"Di Yerusalem Aku akan menaruh nama-Ku!\""
   },
   {Bible:"2Kings", Chapter:21, Verse:5, Page:1,
-    Kor:"주님의 성전 안팎 두 뜰에도 하늘의 별을 섬기는 제단을 만들어 세웠다.",
+    Kor:"주의 성전 안팎 두 뜰에도 하늘의 별을 섬기는 제단을 만들어 세웠다.",
     Chn:"他在耶和华殿的两院中为天上的万象筑坛，",
     Eng:"In both courts of the temple of the LORD, he built altars to all the starry hosts.",
     Ind:"Dan ia mendirikan juga mezbah-mezbah bagi segenap tentara langit di kedua pelataran rumah TUHAN."
   },
   {Bible:"2Kings", Chapter:21, Verse:6, Page:1,
-    Kor:"그래서 그는 자기의 아들들을 a불살라 바치는 일도 하고, 점쟁이를 불러 점을 치게도 하고, 마술사를 시켜 마법을 부리게도 하고, 악령과 귀신을 불러내어 물어 보기도 하였다. 이렇게 하여 그는, 주님께서 보시기에 악한 일을 많이 하여, 주님께서 진노하시게 하였다.(a 또는 '불로 지나가게 하고')",
+    Kor:"그래서 그는 자기의 아들들을 불살라 바치는 일도 하고, 점쟁이를 불러 점을 치게도 하고, 마술사를 시켜 마법을 부리게도 하고, 악령과 귀신을 불러내어 물어 보기도 하였다. 이렇게 하여 그는, 주께서 보시기에 악한 일을 많이 하여, 주께서 진노하시게 하였다.",
     Chn:"并使他的儿子经火，又观兆，用法术，立交鬼的和行巫术的，多行耶和华眼中看为恶的事，惹动他的怒气；",
     Eng:"He sacrificed his own son in the fire, practiced sorcery and divination, and consulted mediums and spiritists. He did much evil in the eyes of the LORD, provoking him to anger.",
     Ind:"Bahkan, ia mempersembahkan anaknya sebagai korban dalam api, melakukan ramal dan telaah, dan menghubungi para pemanggil arwah dan para pemanggil roh peramal. Ia melakukan banyak yang jahat di mata TUHAN, sehingga ia menimbulkan sakit hati-Nya."
   },
   {Bible:"2Kings", Chapter:21, Verse:7, Page:1,
-    Kor:"그는 자신이 손수 새겨 만든 아세라 목상을 성전 안에 세웠다. 그러나 이 성전은, 일찍이 주님께서 이 성전을 두고 다윗과 그의 아들 솔로몬에게 말씀하실 때에 \"내가 이스라엘의 모든 지파 가운데서 선택한 이 성전과, 이 예루살렘 안에 영원토록 내 이름을 두겠다.",
+    Kor:"그는 자신이 손수 새겨 만든 아세라 목상을 성전 안에 세웠다. 그러나 이 성전은, 일찍이 주께서 이 성전을 두고 다윗과 그의 아들 솔로몬에게 말씀하실 때에 \"내가 이스라엘의 모든 지파 가운데서 선택한 이 성전과, 이 예루살렘 안에 영원토록 내 이름을 두겠다.",
     Chn:"又在殿内立雕刻的亚舍拉像。耶和华曾对大卫和他儿子所罗门说：「我在以色列众支派中所选择的耶路撒冷和这殿，必立我的名，直到永远。",
     Eng:"He took the carved Asherah pole he had made and put it in the temple, of which the LORD had said to David and to his son Solomon, \"In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my Name forever.",
     Ind:"Ia menaruh juga patung Asyera yang telah dibuatnya dalam rumah, walaupun sehubungan dengan rumah itu TUHAN telah berfirman kepada Daud dan kepada Salomo, anaknya: \"Dalam rumah ini dan di Yerusalem, yang telah Kupilih dari antara segala suku Israel, Aku akan menaruh nama-Ku untuk selama-lamanya!"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Aku tidak akan membiarkan bangsa Israel lagi dibawa keluar dari tanah yang telah Kuberikan kepada nenek moyang mereka, asal saja mereka tetap berbuat tepat seperti yang telah Kuperintahkan kepada mereka dan tepat menurut hukum yang telah diperintahkan kepada mereka oleh hamba-Ku Musa.\""
   },
   {Bible:"2Kings", Chapter:21, Verse:9, Page:1,
-    Kor:"그러나 그 백성들은 이 말씀에 복종하지 않았다. 오히려 므낫세는, 주님께서 이스라엘 자손의 면전에서 멸망시키신 그 이방 민족들보다 더 악한 일을 하도록 백성을 인도하였다.",
+    Kor:"그러나 그 백성들은 이 말씀에 복종하지 않았다. 오히려 므낫세는, 주께서 이스라엘 자손의 면전에서 멸망시키신 그 이방 민족들보다 더 악한 일을 하도록 백성을 인도하였다.",
     Chn:"他们却不听从。玛拿西引诱他们行恶，比耶和华在以色列人面前所灭的列国更甚。",
     Eng:"But the people did not listen. Manasseh led them astray, so that they did more evil than the nations the LORD had destroyed before the Israelites.",
     Ind:"Tetapi mereka tidak mau mendengarkan, dan Manasye menyesatkan mereka, sehingga mereka melakukan yang jahat lebih dari pada bangsa-bangsa yang telah dipunahkan TUHAN dari hadapan orang Israel."
   },
   {Bible:"2Kings", Chapter:21, Verse:10, Page:1,
-    Kor:"○그래서 주님께서는 주님의 종, 예언자들을 시켜서 이렇게 말씀하셨다.",
+    Kor:"○그래서 주께서는 주의 종, 예언자들을 시켜서 이렇게 말씀하셨다.",
     Chn:"耶和华借他仆人众先知说：",
     Eng:"The LORD said through his servants the prophets:",
     Ind:"Kemudian berfirmanlah TUHAN dengan perantaraan para hamba-Nya, yakni para nabi:"
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Kemudian Manasye mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di taman istananya, di taman Uza. Maka Amon, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:21, Verse:19, Page:1,
-    Kor:"<유다 왕 아몬(대하 33:21-25)> ○아몬은 왕이 되었을 때에 스물두 살이었다. 그는 예루살렘에서 두 해 동안 다스렸다. 그의 어머니 므술레멧은 욧바 출신 하루스의 딸이다.",
+    Kor:"○아몬은 왕이 되었을 때에, 스물두 살이었다. 그는 예루살렘에서 두 해 동안 다스렸다. 그의 어머니 므술레멧은 욧바 출신 하루스의 딸이다.",
     Chn:"亚们登基的时候年二十二岁，在耶路撒冷作王二年。他母亲名叫米舒利密，是约提巴人哈鲁斯的女儿。",
     Eng:"Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother's name was Meshullemeth daughter of Haruz; she was from Jotbah.",
     Ind:"Amon berumur dua puluh dua tahun pada waktu ia menjadi raja dan dua tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Mesulemet binti Harus, dari Yotba."
   },
   {Bible:"2Kings", Chapter:21, Verse:20, Page:1,
-    Kor:"그는 아버지 므낫세처럼 주님께서 보시기에 악한 일을 하였고,",
+    Kor:"그는 아버지 므낫세처럼 주께서 보시기에 악한 일을 하였고,",
     Chn:"亚们行耶和华眼中看为恶的事，与他父亲玛拿西所行的一样；",
     Eng:"He did evil in the eyes of the LORD, as his father Manasseh had done.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN seperti yang telah dilakukan Manasye, ayahnya."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Ia hidup sama seperti ayahnya dahulu sambil beribadah kepada berhala-berhala yang disembah oleh ayahnya dan sujud menyembah kepada mereka."
   },
   {Bible:"2Kings", Chapter:21, Verse:22, Page:1,
-    Kor:"그리고 조상 때부터 섬긴 주 하나님을 잊어버리고, 주님의 길을 따르지 아니하였다.",
+    Kor:"그리고 조상 때부터 섬긴 주 하나님을 잊어버리고, 주의 길을 따르지 아니하였다.",
     Chn:"离弃耶和华—他列祖的　神，不遵行耶和华的道。",
     Eng:"He forsook the LORD, the God of his fathers, and did not walk in the way of the LORD.",
     Ind:"Ia meninggalkan TUHAN, Allah nenek moyangnya dan tidak hidup menurut kehendak TUHAN."

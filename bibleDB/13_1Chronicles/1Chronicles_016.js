@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Tabut Allah itu dibawa masuk, lalu diletakkan di tengah-tengah kemah yang dipasang Daud untuk itu, kemudian mereka mempersembahkan korban bakaran dan korban keselamatan di hadapan Allah."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:2, Page:1,
-    Kor:"다윗은 번제와 화목제를 드리고 나서, 주님의 이름으로 백성에게 복을 빌어 주고,",
+    Kor:"다윗은 번제와 화목제를 드리고 나서, 주의 이름으로 백성에게 복을 빌어 주고,",
     Chn:"大卫献完了燔祭和平安祭，就奉耶和华的名给民祝福，",
     Eng:"After David had finished sacrificing the burnt offerings and fellowship offerings, he blessed the people in the name of the LORD.",
     Ind:"Setelah Daud selesai mempersembahkan korban bakaran dan korban keselamatan, diberkatinyalah bangsa itu demi nama TUHAN."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu dibagikannya kepada setiap orang Israel, baik laki-laki maupun perempuan, kepada masing-masing sekeping roti, sekerat daging dan sepotong kue kismis."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:4, Page:1,
-    Kor:"○다윗이 레위 사람을 임명하여, 주님의 궤 앞에서 섬기며, 주 이스라엘의 하나님을 기리며, 감사하며, 찬양하게 하였다.",
+    Kor:"○다윗이 레위 사람을 임명하여, 주의 궤 앞에서 섬기며, 주 이스라엘의 하나님을 기리며, 감사하며, 찬양하게 하였다.",
     Chn:"大卫派几个利未人在耶和华的约柜前事奉，颂扬，称谢，赞美耶和华—以色列的　神：",
     Eng:"He appointed some of the Levites to minister before the ark of the LORD, to make petition, to give thanks, and to praise the LORD, the God of Israel:",
     Ind:"Juga diangkatnya dari orang Lewi itu beberapa orang sebagai pelayan di hadapan tabut TUHAN untuk memasyhurkan TUHAN, Allah Israel dan menyanyikan syukur dan puji-pujian bagi-Nya."
@@ -45,50 +45,50 @@ BibleDB.add([
     Ind:"Kemudian pada hari itu juga, maka Daud untuk pertama kali menyuruh Asaf dan saudara-saudara sepuaknya menyanyikan syukur bagi TUHAN:"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:8, Page:1,
-    Kor:"<감사 찬송(시 105:1-15; 96:1-13; 106:47-48)> 너희는 주님께 감사하면서, 그의 이름을 불러라. 그가 하신 일을 만민에게 알려라.",
+    Kor:"○너희는 주님께 감사하면서, 그의 이름을 불러라. 그가 하신 일을 만민에게 알려라.",
     Chn:"你们要称谢耶和华，求告他的名， 在万民中传扬他的作为！",
     Eng:"Give thanks to the LORD, call on his name; make known among the nations what he has done.",
     Ind:"Bersyukurlah kepada TUHAN, panggillah nama-Nya, perkenalkanlah perbuatan-Nya di antara bangsa-bangsa!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:9, Page:1,
-    Kor:"그에게 노래하면서, 그를 찬양하면서, 그가 이루신 놀라운 일들을 a전하여라. (a 또는 '묵상하여라')",
+    Kor:"그를 노래하면서, 그를 찬양하면서, 그가 이루신 놀라운 일들을 말하여라.",
     Chn:"要向他唱诗、歌颂， 谈论他一切奇妙的作为。",
     Eng:"Sing to him, sing praise to him; tell of all his wonderful acts.",
     Ind:"Bernyanyilah bagi-Nya, bermazmurlah bagi-Nya, percakapkanlah segala perbuatan-Nya yang ajaib!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:10, Page:1,
-    Kor:"그의 거룩하신 이름을 찬양하여라. 주님을 찾는 이들은 기뻐하여라.",
+    Kor:"그의 거룩하신 이름을 찬양하여라. 주님을 찾는 마음에 기쁨이 있다.",
     Chn:"要以他的圣名夸耀； 寻求耶和华的人，心中应当欢喜。",
     Eng:"Glory in his holy name; let the hearts of those who seek the LORD rejoice.",
     Ind:"Bermegahlah di dalam nama-Nya yang kudus, biarlah bersukahati orang-orang yang mencari TUHAN!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:11, Page:1,
-    Kor:"주님을 찾고, 그의 능력을 힘써 사모하고, 언제나 그의 얼굴을 찾아 예배하여라.",
+    Kor:"주님을 찾고, 그의 능력을 힘써 사모하고, 언제나 그의 얼굴을 찾아 경배하여라.",
     Chn:"要寻求耶和华与他的能力， 时常寻求他的面。",
     Eng:"Look to the LORD and his strength; seek his face always.",
     Ind:"Carilah TUHAN dan kekuatan-Nya, carilah wajah-Nya selalu!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:12, Page:1,
-    Kor:"주님께서 이루신 놀라운 일을 기억하여라. 그 이적을 기억하고, 내리신 판단을 생각하여라.",
+    Kor:"주님이 이루신 놀라운 일을 기억하여라. 그 이적을 기억하고, 내리신 판단을 기억하여라.",
     Chn:"他仆人以色列的后裔， 他所拣选雅各的子孙哪， 你们要记念他奇妙的作为和他的奇事， 并他口中的判语。",
     Eng:"Remember the wonders he has done, his miracles, and the judgments he pronounced,",
     Ind:"Ingatlah perbuatan-perbuatan ajaib yang dilakukan-Nya, mujizat-mujizat-Ny dan penghukuman-penghukuman yang diucapkan-Nya,",
     ChnVerseEnd:13
   },
   {Bible:"1Chronicles", Chapter:16, Verse:13, Page:1,
-    Kor:"그의 종 이스라엘의 자손아, 그가 택하신 야곱의 자손아!",
+    Kor:"그의 종 이스라엘 자손아, 그가 택하신 야곱의 자손아!",
     Chn:"",
     Eng:"O descendants of Israel his servant, O sons of Jacob, his chosen ones.",
     Ind:"hai anak cucu Israel, hamba-Nya, hai anak-anak Yakub, orang-orang pilihan-Nya!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:14, Page:1,
-    Kor:"그가 바로 주 우리의 하나님이시다. 그가 온 세상을 다스리신다.",
+    Kor:"그가 바로 주 우리의 하나님이시다. 그의 공의로운 판결이 온 세상에 미친다.",
     Chn:"他是耶和华—我们的　神， 全地都有他的判断。",
     Eng:"He is the LORD our God; his judgments are in all the earth.",
     Ind:"Dialah TUHAN, Allah kita, di seluruh bumi berlaku penghukuman-Nya."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:15, Page:1,
-    Kor:"그는, 맺으신 언약을 영원히 기억하시며, 자손 수천 대에 이루어지도록 기억하신다.",
+    Kor:"그는, 맺으신 언약을 영원히 기억하신다. 자손 수천 대를 두고 명하신 말씀을 기억하신다.",
     Chn:"你们要记念他的约，直到永远； 他所吩咐的话，直到千代，",
     Eng:"He remembers his covenant forever, the word he commanded, for a thousand generations,",
     Ind:"Ia ingat untuk selama-lamanya akan perjanjian-Nya, akan firman yang diperintahkan-Nya kepada seribu angkatan,"
@@ -100,13 +100,13 @@ BibleDB.add([
     Ind:"yang diikat-Nya dengan Abraham, dan akan sumpah-Nya kepada Ishak,"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:17, Page:1,
-    Kor:"야곱에게 세우신 율례요, 이스라엘에게 지켜주실 영원한 언약이다.",
+    Kor:"야곱에게 세우신 율례로서, 이스라엘이 지킬 영원한 언약이다.",
     Chn:"他又将这约向雅各定为律例， 向以色列定为永远的约，",
     Eng:"He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:",
     Ind:"diadakan-Nya bagi Yakub menjadi ketetapan, bagi Israel menjadi perjanjian kekal,"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:18, Page:1,
-    Kor:"주님께서는 \"내가 이 가나안 땅을 너희에게 줄 것이다\" 하고 말씀하셨다.",
+    Kor:"주께서는 \"이 가나안 땅을 내가 너희에게 유산으로 준다\" 하고 말씀하셨다.",
     Chn:"说：我必将迦南地赐给你， 作你产业的分。",
     Eng:"\"To you I will give the land of Canaan as the portion you will inherit.\"",
     Ind:"firman-Nya: \"Kepadamu akan Kuberi tanah Kanaan sebagai milik pusaka yang ditentukan bagimu.\""
@@ -118,13 +118,13 @@ BibleDB.add([
     Ind:"Ketika jumlah mereka tidak seberapa, sedikit saja, dan mereka orang-orang asing di sana,"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:20, Page:1,
-    Kor:"이 민족에게서 저 민족에게로, 이 나라에서 다른 나라 백성에게로 떠돌아다녔다.",
+    Kor:"그 때에 너희가 이 민족에게서 저 민족에게로, 이 나라에서 다른 나라 백성에게로 떠돌아다녔다.",
     Chn:"他们从这邦游到那邦， 从这国行到那国。",
     Eng:"they wandered from nation to nation, from one kingdom to another.",
     Ind:"dan mengembara dari bangsa yang satu ke bangsa yang lain, dan dari kerajaan yang satu ke suku bangsa yang lain,"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:21, Page:1,
-    Kor:"그러나 그 때에 주님께서는, 아무도 너희를 억누르지 못하게 하셨고, 너희를 두고 왕들에게 경고하시기를",
+    Kor:"그러나 그 때에 주께서는, 아무도 너희를 억압하지 못하게 하셨고, 너희를 두고 왕들에게 경고하시기를",
     Chn:"耶和华不容什么人欺负他们， 为他们的缘故责备君王，",
     Eng:"He allowed no man to oppress them; for their sake he rebuked kings:",
     Ind:"Ia tidak membiarkan siapapun memeras mereka; dihukum-Nya raja-raja oleh karena mereka:"
@@ -148,7 +148,7 @@ BibleDB.add([
     Ind:"Ceritakanlah kemuliaan-Nya di antara bangsa-bangsa dan perbuatan-perbuata yang ajaib di antara segala suku bangsa."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:25, Page:1,
-    Kor:"주님은 위대하시니, 그지없이 찬양 받으실 분이시다. 어떤 신들보다 더 두려워해야 할 분이시다.",
+    Kor:"주님은 위대하시니, 높이 찬양하여라. 어떤 신들보다 더 두려워해야 할 분이시다.",
     Chn:"因耶和华为大，当受极大的赞美； 他在万神之上，当受敬畏。",
     Eng:"For great is the LORD and most worthy of praise; he is to be feared above all gods.",
     Ind:"Sebab besar TUHAN dan terpuji sangat, dan lebih dahsyat Ia dari pada segala allah."
@@ -160,19 +160,19 @@ BibleDB.add([
     Ind:"Sebab segala allah bangsa-bangsa adalah berhala, tetapi Tuhanlah yang menjadikan langit."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:27, Page:1,
-    Kor:"주님 앞에는 위엄과 영광이 있고, 그의 처소에는 권능과 즐거움이 있다.",
+    Kor:"그의 존전에는 위엄과 영광이 있고, 그의 처소에는 권능과 즐거움이 있다.",
     Chn:"有尊荣和威严在他面前， 有能力和喜乐在他圣所。",
     Eng:"Splendor and majesty are before him; strength and joy in his dwelling place.",
     Ind:"Keagungan dan semarak ada di hadapan-Nya, kekuatan dan sukacita ada di tempat-Nya."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:28, Page:1,
-    Kor:"만방의 민족들아, 주님의 영광과 권능을 찬양하여라.",
+    Kor:"만방의 민족들아, 주의 영광과 권능을 찬양하여라.",
     Chn:"民中的万族啊， 你们要将荣耀能力归给耶和华，都归给耶和华！",
     Eng:"Ascribe to the LORD, O families of nations, ascribe to the LORD glory and strength,",
     Ind:"Kepada TUHAN, hai suku-suku bangsa, kepada TUHAN sajalah kemuliaan dan kekuatan!"
   },
   {Bible:"1Chronicles", Chapter:16, Verse:29, Page:1,
-    Kor:"주님의 이름에 어울리는 영광을 주님께 돌리어라. 예물을 들고, 그 앞에 들어가거라. 거룩한 옷을 입고, 주님께 경배하여라.",
+    Kor:"주의 이름에 어울리는 영광을 주님께 돌리어라. 예물을 들고, 그 앞에 들어가거라. 거룩한 옷을 입고, 주님께 경배하여라.",
     Chn:"要将耶和华的名所当得的荣耀归给他， 拿供物来奉到他面前； 当以圣洁的妆饰敬拜耶和华。",
     Eng:"ascribe to the LORD the glory due his name. Bring an offering and come before him; worship the LORD in the splendor of his holiness.",
     Ind:"Berilah kepada TUHAN kemuliaan nama-Nya, bawalah persembahan dan masuklah menghadap Dia! Sujudlah menyembah kepada TUHAN dengan berhiaskan kekudusan."
@@ -220,7 +220,7 @@ BibleDB.add([
     Ind:"Terpujilah TUHAN, Allah Israel, dari selama-lamanya sampai selama-lamanya. Maka seluruh umat mengatakan: \"Amin! Pujilah TUHAN!\""
   },
   {Bible:"1Chronicles", Chapter:16, Verse:37, Page:1,
-    Kor:"<예루살렘과 기브온에서 드린 예배> ○다윗은 아삽과 그의 동료들을 주님의 언약궤 앞에 머물러 있게 하여, 그 궤 앞에서 날마다 계속하여 맡은 임무를 수행하도록 하였다.",
+    Kor:"○다윗은 아삽과 그의 동료들을 주의 언약궤 앞에 머물러 있게 하여, 그 궤 앞에서 날마다 계속하여 맡은 임무를 수행하도록 하였다.",
     Chn:"大卫派亚萨和他的弟兄在约柜前常常事奉耶和华，一日尽一日的职分；",
     Eng:"David left Asaph and his associates before the ark of the covenant of the LORD to minister there regularly, according to each day's requirements.",
     Ind:"Lalu Daud meninggalkan di sana di hadapan tabut perjanjian TUHAN itu Asaf dan saudara-saudara sepuaknya untuk tetap melayani di hadapan tabut itu seperti yang patut dilakukan setiap hari;"
@@ -232,20 +232,20 @@ BibleDB.add([
     Ind:"juga Obed-Edom dan saudara-saudara sepuaknya yang enam puluh delapan orang itu; Obed-Edom bin Yedutun dan Hosa adalah penunggu-penunggu pintu gerbang."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:39, Page:1,
-    Kor:"○제사장 사독과 그의 동료 제사장들은 기브온 산당에 있는 주님의 성막 앞에서 섬기게 하였다.",
+    Kor:"○제사장 사독과 그의 동료 제사장들은 기브온 산당에 있는 주의 성막 앞에서 섬기게 하였다.",
     Chn:"且派祭司撒督和他弟兄众祭司在基遍的邱坛、耶和华的帐幕前燔祭坛上，每日早晚，照着耶和华律法书上所吩咐以色列人的，常给耶和华献燔祭。",
     Eng:"David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon",
     Ind:"Tetapi Zadok, imam itu, dan saudara-saudara sepuaknya, para imam, ditinggalkannya di hadapan Kemah Suci TUHAN di bukit pengorbanan yang di Gibeon,",
     ChnVerseEnd:40
   },
   {Bible:"1Chronicles", Chapter:16, Verse:40, Page:1,
-    Kor:"그들은, 이스라엘에게 명하신 주님의 율법에 기록된 그대로, 번제단 위에서 아침 저녁으로 계속하여 주님께 번제를 드렸다.",
+    Kor:"그들은, 이스라엘에게 명하신 주의 율법에 기록된 그대로, 번제단 위에서 아침 저녁으로 계속하여 주님께 번제를 드렸다.",
     Chn:"",
     Eng:"to present burnt offerings to the LORD on the altar of burnt offering regularly, morning and evening, in accordance with everything written in the Law of the LORD, which he had given Israel.",
     Ind:"supaya pagi dan petang tetap dipersembahkan korban bakaran kepada TUHAN di atas mezbah korban bakaran, dan supaya dikerjakan segala yang tertulis dalam Taurat TUHAN yang diperintahkan-Nya kepada orang Israel."
   },
   {Bible:"1Chronicles", Chapter:16, Verse:41, Page:1,
-    Kor:"그들과 헤만과 여두둔과, 선택되어 이름이 명부에 기록된 남은 사람들은, 주님의 자비가 영원하심을 찬양하게 하였다.",
+    Kor:"그들과 헤만과 여두둔과, 선택되어 이름이 명부에 기록된 남은 사람들은, 주의 자비가 영원하심을 찬양하게 하였다.",
     Chn:"与他们一同被派的有希幔、耶杜顿，和其余被选名字录在册上的，称谢耶和华，因他的慈爱永远长存。",
     Eng:"With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to the LORD, \"for his love endures forever.\"",
     Ind:"Dan bersama-sama mereka ikut Heman dan Yedutun dan selebihnya dari orang-orang yang terpilih, yang ditunjuk dengan disebut namanya untuk menyanyikan: \"Syukur bagi TUHAN. Bahwasanya untuk selama-lamanya kasih setia-Nya.\""

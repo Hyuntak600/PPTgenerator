@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",36,22);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:36, Verse:1, Page:1,
-    Kor:"<앗시리아가 예루살렘을 협박하다(왕하 18:13-27; 대하 32:1-19)> 히스기야 왕 제 십사년에, 앗시리아 왕 산헤립이 올라와서, 견고한 유다의 모든 성읍을 공격하여 점령하였다.",
+    Kor:"히스기야 왕 제 십사년에, 앗시리아 왕 산헤립이 올라와서, 요새화된 유다의 모든 성읍을 공격하여 점령하였다.",
     Chn:"希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。",
     Eng:"In the fourteenth year of King Hezekiah's reign, Sennacherib king of Assyria attacked all the fortified cities of Judah and captured them.",
     Ind:"Maka dalam tahun keempat belas zaman raja Hizkia majulah Sanherib, raja Asyur, menyerang segala kota berkubu negeri Yehuda, lalu merebutnya."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Raja Asyur mengutus juru minuman agung dari Lakhis ke Yerusalem kepada raja Hizkia disertai suatu tentara yang besar. Ia mengambil tempat dekat saluran kolam atas di jalan raya pada Padang Tukang Penatu."
   },
   {Bible:"Isaiah", Chapter:36, Verse:3, Page:1,
-    Kor:"그 때에, 힐기야의 아들 궁내대신 엘리야김과 서기관 셉나와 아삽의 아들 역사 기록관 요아가, 그를 맞으러 나갔다.",
+    Kor:"그 때에, 힐기야의 아들 궁내대신 엘리아김과 서기관 셉나와 아삽의 아들 역사 기록관 요아가, 그를 맞으러 나갔다.",
     Chn:"于是希勒家的儿子家宰以利亚敬，并书记舍伯那和亚萨的儿子史官约亚，出来见拉伯沙基。",
     Eng:"Eliakim son of Hilkiah the palace administrator, Shebna the secretary, and Joah son of Asaph the recorder went out to him.",
     Ind:"Keluarlah mendapatkan dia Elyakim bin Hilkia, kepala istana, dan Sebna, panitera negara, serta Yoab bin Asaf, bendahara negara."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Bagaimanakah mungkin engkau memukul mundur satu orang perwira tuanku yang paling kecil? Padahal engkau berharap kepada Mesir dalam hal kereta dan orang-orang berkuda!"
   },
   {Bible:"Isaiah", Chapter:36, Verse:10, Page:1,
-    Kor:"이제 생각하여 보아라. 내가 이 곳을 멸망시키려고 오면서, 어찌, 너희가 섬기는 주님의 허락도 받지 않고 왔겠느냐? 주님께서 친히 나에게 말씀하시기를, 이 땅을 치러 올라가서, 그 곳을 멸망시키라고 이르셨다.\"",
+    Kor:"이제 생각하여 보아라. 내가 이 곳을 멸망시키려고 오면서, 어찌, 너희가 섬기는 주님의 허락도 받지 않고 왔겠느냐? 주께서 친히 나에게 말씀하시기를, 이 땅을 치러 올라가서, 그 곳을 멸망시키라고 이르셨다.\"",
     Chn:"现在我上来攻击毁灭这地，岂没有耶和华的意思吗？耶和华吩咐我说，你上去攻击毁灭这地吧！』」",
     Eng:"Furthermore, have I come to attack and destroy this land without the LORD? The LORD himself told me to march against this country and destroy it.'\"",
     Ind:"Sekarangpun, adakah di luar kehendak TUHAN aku maju melawan negeri ini untuk memusnahkannya? TUHAN telah berfirman kepadaku: Majulah menyerang negeri itu dan musnahkanlah itu!\""
   },
   {Bible:"Isaiah", Chapter:36, Verse:11, Page:1,
-    Kor:"○엘리야김과 셉나와 요아가 랍사게에게 말하였다. \"성벽 위에서 백성이 듣고 있으니, 우리에게 유다 말로 말씀하지 말아 주십시오. 이 종들에게 시리아 말로 말씀하여 주십시오. 우리가 시리아 말을 알아듣습니다.\"",
+    Kor:"○엘리아김과 셉나와 요아가 랍사게에게 말하였다. \"성벽 위에서 백성이 듣고 있으니, 우리에게 유다 말로 말씀하지 말아 주십시오. 이 종들에게 시리아 말로 말씀하여 주십시오. 우리가 시리아 말을 알아듣습니다.\"",
     Chn:"以利亚敬、舍伯那、约亚对拉伯沙基说：「求你用亚兰言语和仆人说话，因为我们懂得；不要用犹大言语和我们说话，达到城上百姓的耳中。」",
     Eng:"Then Eliakim, Shebna and Joah said to the field commander, \"Please speak to your servants in Aramaic, since we understand it. Don't speak to us in Hebrew in the hearing of the people on the wall.\"",
     Ind:"Lalu berkatalah Elyakim, Sebna dan Yoah kepada juru minuman agung: \"Silakan berbicara dalam bahasa Aram kepada hamba-hambamu ini, sebab kami mengerti; tetapi janganlah berbicara dengan kami dalam bahasa Yehuda sambil didengar oleh rakyat yang ada di atas tembok.\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Beginilah kata raja: Janganlah Hizkia memperdayakan kamu, sebab ia tidak sanggup melepaskan kamu!"
   },
   {Bible:"Isaiah", Chapter:36, Verse:15, Page:1,
-    Kor:"히스기야가 너희를 속여서, 주님께서 너희를 구원하실 것이며, 이 도성을 앗시리아 왕의 손에 절대로 넘겨 주지 않으실 것이라고 말하면서, 너희로 주님을 의지하게 하려 하여도, 너희는 그 말을 믿지 말아라.",
+    Kor:"히스기야가 너희를 속여서, 주께서 너희를 구원하실 것이며, 이 도성을 앗시리아 왕의 손에 절대로 넘겨 주지 않으실 것이라고 말하면서, 너희로 주를 의지하게 하려 하여도, 너희는 그 말을 믿지 말아라.",
     Chn:"也不要听希西家使你们倚靠耶和华说：耶和华必要拯救我们，这城必不交在亚述王的手中。",
     Eng:"Do not let Hezekiah persuade you to trust in the LORD when he says, 'The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.'",
     Ind:"Janganlah Hizkia mengajak kamu berharap kepada TUHAN dengan mengatakan: Tentulah TUHAN akan melepaskan kita; kota ini tidak akan diserahkan ke dalam tangan raja Asyur."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Janganlah dengarkan Hizkia, sebab beginilah kata raja Asyur: Adakanlah perjanjian penyerahan dengan aku dan datanglah ke luar kepadaku, maka setiap orang dari padamu akan makan dari pohon anggurnya dan dari pohon aranya serta minum dari sumurnya,"
   },
   {Bible:"Isaiah", Chapter:36, Verse:17, Page:1,
-    Kor:"이제 곧 내가 가서, 너희의 땅과 같은 땅, 곧 곡식과 새 포도주가 나는 땅, 빵과 포도원이 있는 땅으로, 너희를 데려갈 터이니,",
+    Kor:"이제 곧 내가 가서, 너희들을, 너희의 땅과 같은 땅, 곧 곡식과 새 포도주가 나는 땅, 빵과 포도원이 있는 땅으로, 너희를 데려갈 터이니,",
     Chn:"等我来领你们到一个地方，与你们本地一样，就是有五谷和新酒之地，有粮食和葡萄园之地。",
     Eng:"until I come and take you to a land like your own--a land of grain and new wine, a land of bread and vineyards.",
     Ind:"sampai aku datang dan membawa kamu ke suatu negeri seperti negerimu, suatu negeri yang bergandum dan berair anggur, suatu negeri yang beroti dan berkebun anggur."
   },
   {Bible:"Isaiah", Chapter:36, Verse:18, Page:1,
-    Kor:"히스기야가 너희를 꾀어, 주님께서 틀림없이 너희를 구원하실 것이라고 말하더라도, 너희는 속지 말아라. 뭇 민족의 신들 가운데서, 그 어느 신이 앗시리아 왕의 손에서 자기 땅을 구원한 일이 있느냐?",
+    Kor:"히스기야가 너희를 꾀어, 주께서 틀림없이 너희를 구원하실 것이라고 말하더라도, 너희는 속지 말아라. 뭇 민족의 신들 가운데서, 그 어느 신이 앗시리아 왕의 손에서 자기 땅을 구원한 일이 있느냐?",
     Chn:"你们要谨防，恐怕希西家劝导你们说：耶和华必拯救我们。列国的神有哪一个救他本国脱离亚述王的手呢？",
     Eng:"\"Do not let Hezekiah mislead you when he says, 'The LORD will deliver us.' Has the god of any nation ever delivered his land from the hand of the king of Assyria?",
     Ind:"Jangan sampai Hizkia membujuk kamu dengan mengatakan: TUHAN akan melepaskan kita! Apakah pernah para allah bangsa-bangsa melepaskan negerinya masing-masing dari tangan raja Asyur?"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Tetapi orang berdiam diri dan tidak menjawab dia sepatah katapun, sebab ada perintah raja, bunyinya: \"Jangan kamu menjawab dia!\""
   },
   {Bible:"Isaiah", Chapter:36, Verse:22, Page:1,
-    Kor:"힐기야의 아들 궁내대신 엘리야김과 서기관 셉나와 아삽의 아들 역사 기록관 요아는, 울분을 참지 못하여, 옷을 찢으며 히스기야에게 돌아와서, 랍사게의 말을 그대로 전하였다.",
+    Kor:"힐기야의 아들 궁내대신 엘리아김과 서기관 셉나와 아삽의 아들 역사 기록관 요아는, 울분을 참지 못하여, 옷을 찢으며 히스기야에게 돌아와서, 랍사게의 말을 그대로 전하였다.",
     Chn:"当下希勒家的儿子家宰以利亚敬和书记舍伯那，并亚萨的儿子史官约亚，都撕裂衣服，来到希西家那里，将拉伯沙基的话告诉了他。",
     Eng:"Then Eliakim son of Hilkiah the palace administrator, Shebna the secretary, and Joah son of Asaph the recorder went to Hezekiah, with their clothes torn, and told him what the field commander had said.",
     Ind:"Kemudian pergilah Elyakim bin Hilkia, kepala istana, dan Sebna, panitera negara, dan Yoah bin Asaf, bendahara negara, menghadap Hizkia, dengan pakaian yang dikoyakkan, lalu memberitahukan kepada raja perkataan juru minuman agung."

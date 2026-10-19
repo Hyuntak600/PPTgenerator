@@ -3,31 +3,31 @@
 BibleDB.ref("Isaiah",14,32);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:14, Verse:1, Page:1,
-    Kor:"주님께서 야곱을 불쌍하게 여기셔서, 이스라엘을 다시 한 번 선택하시고, 그들을 고향 땅에서 살게 하실 것이다. 그 때에 외국 사람들도 그들에게 와서, 야곱의 겨레와 함께 살 것이다.",
+    Kor:"주께서 야곱을 불쌍하게 여기셔서, 이스라엘을 다시 한 번 선택하시고, 그들을 고향 땅에서 살게 하실 것이다. 그 때에, 외국 사람들도 그들에게 와서, 야곱의 겨레와 함께 살 것이다.",
     Chn:"耶和华要怜恤雅各，必再拣选以色列，将他们安置在本地。寄居的必与他们联合，紧贴雅各家。",
     Eng:"The LORD will have compassion on Jacob; once again he will choose Israel and will settle them in their own land. Aliens will join them and unite with the house of Jacob.",
     Ind:"Sebab TUHAN akan menyayangi Yakub dan akan memilih Israel sekali lagi dan akan membiarkan mereka tinggal di tanah mereka, maka orang asing akan menggabungkan diri kepada mereka dan akan berpadu dengan kaum keturunan Yakub."
   },
   {Bible:"Isaiah", Chapter:14, Verse:2, Page:1,
-    Kor:"여러 민족이 이스라엘 사람의 귀향을 도울 것이며, 이스라엘 백성은, 주님께서 주신 땅에서 외국 사람을 남종과 여종으로 부릴 것이다. 이스라엘은 자기들을 사로잡았던 자들을 사로잡고, 자기들을 억누르던 자들을 다스릴 것이다.",
+    Kor:"여러 민족이 이스라엘 사람의 귀향을 도울 것이며, 이스라엘 백성은, 주께서 주신 땅에서 외국 사람을 남종과 여종으로 부릴 것이다. 이스라엘은 자기들을 사로잡았던 자들을 사로잡고, 자기들을 억누르던 자들을 다스릴 것이다.",
     Chn:"外邦人必将他们带回本土；以色列家必在耶和华的地上得外邦人为仆婢，也要掳掠先前掳掠他们的，辖制先前欺压他们的。",
     Eng:"Nations will take them and bring them to their own place. And the house of Israel will possess the nations as menservants and maidservants in the LORD'S land. They will make captives of their captors and rule over their oppressors.",
     Ind:"Bangsa-bangsa lain akan mengantar Israel pulang ke tempatnya, lalu kaum Israel akan memiliki bangsa-bangsa itu di tanah TUHAN sebagai hamba-hamba lelaki dan hamba-hamba perempuan. Demikianlah mereka akan menawan orang-orang yang menawan mereka dan akan berkuasa atas para penindas mereka."
   },
   {Bible:"Isaiah", Chapter:14, Verse:3, Page:1,
-    Kor:"<지하로 내려간 바빌론 왕> ○주님께서 너희에게서 고통과 불안을 없애 주시고, 강제노동에서 벗어나서 안식하게 하실 때에,",
+    Kor:"○주께서, 너희에게서 고통과 불안을 없애 주시고, 강제노동에서 벗어나서 안식하게 하실 때에,",
     Chn:"当耶和华使你脱离愁苦、烦恼，并人勉强你做的苦工，得享安息的日子，",
     Eng:"On the day the LORD gives you relief from suffering and turmoil and cruel bondage,",
     Ind:"Maka pada hari TUHAN mengakhiri kesakitan dan kegelisahanmu dan kerja paksa yang berat yang dipaksakan kepadamu,"
   },
   {Bible:"Isaiah", Chapter:14, Verse:4, Page:1,
-    Kor:"너희는 바빌론 왕을 조롱하는, 이런 노래를 부를 것이다.  \"웬일이냐, 폭군이 꼬꾸라지다니! a그의 분노가 그치다니! (a 히브리어 본문이 불확실하여 사해 사본과 칠십인역과 시리아어역을 따름)",
+    Kor:"너희는 바빌론 왕을 조롱하는, 이런 노래를 부를 것이다. \"웬일이냐, 폭군이 꼬꾸라지다니! 그의 분노가 그치다니!",
     Chn:"你必题这诗歌论巴比伦王说： 欺压人的何竟息灭？ 强暴的何竟止息？",
     Eng:"you will take up this taunt against the king of Babylon: How the oppressor has come to an end! How his fury has ended!",
     Ind:"maka engkau akan memperdengarkan ejekan ini tentang raja Babel, dan berkata: \"Wah, sudah berakhir si penindas sudah berakhir orang lalim!"
   },
   {Bible:"Isaiah", Chapter:14, Verse:5, Page:1,
-    Kor:"주님께서 악한 통치자의 권세를 꺾으셨구나. 악한 통치자의 지팡이를 꺾으셨구나.",
+    Kor:"주께서 악한 통치자의 권세를 꺾으셨구나. 악한 통치자의 홀을 꺾으셨구나.",
     Chn:"耶和华折断了恶人的杖， 辖制人的圭，",
     Eng:"The LORD has broken the rod of the wicked, the scepter of the rulers,",
     Ind:"TUHAN telah mematahkan tongkat orang-orang fasik, gada orang-orang yang memerintah,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Juga pohon-pohon sanobar dan pohon-pohon aras di Libanon bersukacita karena kejatuhanmu, katanya: 'Dari sejak engkau rebah terbaring, tidak ada lagi orang yang naik untuk menebang kami!'"
   },
   {Bible:"Isaiah", Chapter:14, Verse:9, Page:1,
-    Kor:"땅 밑의 b스올이, 네가 오는 것을 반겨 맞으려고 들떠 있고, 죽어서 거기에 잠든 세상 모든 통치자의 망령을 깨우며, 한때 세상을 주름잡던 그 왕들을 깨운다. (b 또는 '무덤' 또는 '죽음')",
+    Kor:"땅 밑의 스올이, 네가 오는 것을 반겨 맞으려고 들떠 있고, 죽어서 거기에 잠든 세상 모든 통치자의 망령을 깨우며, 한때 세상을 주름잡던 그 왕들을 깨운다.",
     Chn:"你下到阴间， 阴间就因你震动来迎接你， 又因你惊动在世曾为首领的阴魂， 并使那曾为列国君王的， 都离位站起。",
     Eng:"The grave below is all astir to meet you at your coming; it rouses the spirits of the departed to greet you--all those who were leaders in the world; it makes them rise from their thrones--all those who were kings over the nations.",
     Ind:"Dunia orang mati yang di bawah gemetar untuk menyongsong kedatanganmu, dijagakannya arwah-arwah bagimu, yaitu semua bekas pemimpin di bumi; semua bekas raja bangsa-bangsa dibangunkannya dari takhta mereka."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sekaliannya mereka mulai berbicara dan berkata kepadamu: 'Engkau juga telah menjadi lemah seperti kami, sudah menjadi sama seperti kami!'"
   },
   {Bible:"Isaiah", Chapter:14, Verse:11, Page:1,
-    Kor:"너의 영화가 너의 거문고 소리와 함께 스올로 떨어졌으니, 구더기를 요로 깔고, 지렁이를 이불로 덮고 있구나!",
+    Kor:"너의 영화가 너의 거문고 소리와 함께 스올로 떨어졌으니, 구더기를 요로 깔고, 지렁이를 이불로 덮고, 누워라!",
     Chn:"你的威势和你琴瑟的声音都下到阴间。 你下铺的是虫，上盖的是蛆。",
     Eng:"All your pomp has been brought down to the grave, along with the noise of your harps; maggots are spread out beneath you and worms cover you.",
     Ind:"Ke dunia orang mati sudah diturunkan kemegahanmu dan bunyi gambus-gambusmu; ulat-ulat dibentangkan sebagai lapik tidurmu, dan cacing-cacing sebagai selimutmu.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Semua bekas raja bangsa-bangsa berbaring dalam kemuliaan, masing-masing dalam rumah kuburnya."
   },
   {Bible:"Isaiah", Chapter:14, Verse:19, Page:1,
-    Kor:"너는 무덤도 없이 c오물처럼 버려져, 칼에 찔려 죽은 군인들의 시체 더미 밑에 깔려 있다가, 지하 세계의 밑바닥으로 내려갈 것이다. 너의 시체를 사람들이 짓밟을 것이다. (c 칠십인역 참조. 마소라 본문에는 '보기 싫은 나뭇가지처럼')",
+    Kor:"너는 무덤도 없이 오물처럼 버려져, 칼에 찔려 죽은 군인들의 시체 더미 밑에 깔려 있다가, 지하 세계의 밑바닥으로 내려갈 것이다. 너의 시체를 사람들이 짓밟을 것이다.",
     Chn:"惟独你被抛弃， 不得入你的坟墓， 好像可憎的枝子， 以被杀的人为衣， 就是被刀刺透， 坠落坑中石头那里的； 你又像被践踏的尸首一样。",
     Eng:"But you are cast out of your tomb like a rejected branch; you are covered with the slain, with those pierced by the sword, those who descend to the stones of the pit. Like a corpse trampled underfoot,",
     Ind:"Tetapi engkau ini telah terlempar, jauh dari kuburmu, seperti taruk yang jijik, ditutupi dengan mayat orang-orang yang tertikam oleh pedang dan jatuh tercampak ke batu-batu liang kubur seperti bangkai yang terinjak-injak."
@@ -129,19 +129,19 @@ BibleDB.add([
     Ind:"Dirikanlah bagi anak-anaknya tempat pembantaian, oleh karena kesalahan nenek moyang mereka, supaya mereka jangan bangun dan menduduki bumi dan memenuhi dunia dengan kota-kota.\""
   },
   {Bible:"Isaiah", Chapter:14, Verse:22, Page:1,
-    Kor:"<하나님께서 바빌론을 멸하실 것이다> 만군의 주님께서 말씀하신다. \"내가 일어나 바빌론을 치겠다. 내가 바빌론을 멸하겠다. 그 명성도 없애고, 살아 남아서 바빌론의 이름을 이어갈 자도 하나도 남기지 않고 멸종시키겠다.\" 주님께서 하신 말씀이다.",
+    Kor:"만군의 주께서 말씀하신다. \"내가 일어나 바빌론을 치겠다. 내가 바빌론을 멸하겠다. 그 명성도 없애고, 살아 남아서 바빌론의 이름을 이어갈 자도 하나도 남기지 않고 멸종시키겠다.\" 주께서 하신 말씀이다.",
     Chn:"万军之耶和华说： 我必兴起攻击他们， 将巴比伦的名号和所余剩的人， 连子带孙一并剪除。 这是耶和华说的。",
     Eng:"\"I will rise up against them,\" declares the LORD Almighty. \"I will cut off from Babylon her name and survivors, her offspring and descendants,\" declares the LORD.",
     Ind:"\"Aku akan bangkit melawan mereka,\" demikianlah firman TUHAN semesta alam, \"Aku akan melenyapkan nama Babel dan sisanya, anak cucu dan anak cicitnya,\" demikianlah firman TUHAN."
   },
   {Bible:"Isaiah", Chapter:14, Verse:23, Page:1,
-    Kor:"\"또 내가 그 도성 바빌론을 고슴도치의 거처가 되게 하고, 물웅덩이로 만들며, 멸망의 빗자루로 말끔히 쓸어 버리겠다. 만군의 주님께서 하신 말씀이다.\"",
+    Kor:"\"또 내가 그 도성 바빌론을 고슴도치의 거처가 되게 하고, 물웅덩이로 만들며, 멸망의 빗자루로 말끔히 쓸어 버리겠다. 만군의 주의 말이다.\"",
     Chn:"我必使巴比伦为箭猪所得， 又变为水池； 我要用灭亡的扫帚扫净它。 这是万军之耶和华说的。",
     Eng:"\"I will turn her into a place for owls and into swampland; I will sweep her with the broom of destruction,\" declares the LORD Almighty.",
     Ind:"\"Aku akan membuat Babel menjadi milik landak dan menjadi air rawa-rawa, dan kota itu akan Kusapu bersih dan Kupunahkan,\" demikianlah firman TUHAN semesta alam."
   },
   {Bible:"Isaiah", Chapter:14, Verse:24, Page:1,
-    Kor:"<하나님께서 앗시리아를 치실 것이다> 만군의 주님께서 맹세하여 말씀하신다. \"내가 계획한 것을 그대로 실행하며, 내가 뜻한 것을 그대로 이루겠다.",
+    Kor:"만군의 주께서 맹세하여 말씀하신다. \"내가 계획한 것을 그대로 실행하며, 내가 뜻한 것을 그대로 이루겠다.",
     Chn:"万军之耶和华起誓说： 我怎样思想，必照样成就； 我怎样定意，必照样成立，",
     Eng:"The LORD Almighty has sworn, \"Surely, as I have planned, so it will be, and as I have purposed, so it will stand.",
     Ind:"TUHAN semesta alam telah bersumpah, firman-Nya: \"Sesungguhnya seperti yang Kumaksud, demikianlah akan terjadi, dan seperti yang Kurancang, demikianlah akan terlaksana:"
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Aku akan membinasakan orang Asyur dalam negeri-Ku dan menginjak-injak mereka di atas gunung-Ku; kuk yang diletakkan mereka atas umat-Ku akan terbuang dan demikian juga beban yang ditimpakan mereka atas bahunya.\""
   },
   {Bible:"Isaiah", Chapter:14, Verse:26, Page:1,
-    Kor:"이것이 주님께서 온 세계를 보시고 세우신 계획이다. 주님께서 모든 민족을 심판하시려고 팔을 펴셨다.",
+    Kor:"이것이 주께서 온 세계를 보시고 세우신 계획이다. 주께서 모든 민족을 심판하시려고 팔을 펴셨다.",
     Chn:"这是向全地所定的旨意； 这是向万国所伸出的手。",
     Eng:"This is the plan determined for the whole world; this is the hand stretched out over all nations.",
     Ind:"Itulah rancangan yang telah dibuat mengenai seluruh bumi, dan itulah tangan yang teracung terhadap segala bangsa."
   },
   {Bible:"Isaiah", Chapter:14, Verse:27, Page:1,
-    Kor:"만군의 주님께서 계획하셨는데, 누가 감히 그것을 못하게 하겠느냐? 심판하시려고 팔을 펴셨는데, 누가 그 팔을 막겠느냐?",
+    Kor:"만군의 주께서 계획하셨는데, 누가 감히 그것을 못하게 하겠느냐? 심판하시려고 팔을 펴셨는데, 누가 그 팔을 막겠느냐?",
     Chn:"万军之耶和华既然定意，谁能废弃呢？ 他的手已经伸出，谁能转回呢？",
     Eng:"For the LORD Almighty has purposed, and who can thwart him? His hand is stretched out, and who can turn it back?",
     Ind:"TUHAN semesta alam telah merancang, siapakah yang dapat menggagalkannya? Tangan-Nya telah teracung, siapakah yang dapat membuatnya ditarik kembali?"
   },
   {Bible:"Isaiah", Chapter:14, Verse:28, Page:1,
-    Kor:"<하나님께서 블레셋을 치실 것이다> ○아하스 왕이 죽던 해에 주님께서 다음과 같은 경고의 말씀을 하셨다.",
+    Kor:"○아하스 왕이 죽던 해에 주께서 다음과 같은 경고의 말씀을 하셨다.",
     Chn:"亚哈斯王崩的那年，就有以下的默示：",
     Eng:"This oracle came in the year King Ahaz died:",
     Ind:"Dalam tahun matinya raja Ahas datanglah ucapan ilahi ini:"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Janganlah bersukaria, hai segenap Filistea, karena walaupun gada orang yang memukul engkau sudah patah, tetapi dari keturunan ular itu akan keluar ular beludak, dan anaknya akan menjadi ular naga terbang."
   },
   {Bible:"Isaiah", Chapter:14, Verse:30, Page:1,
-    Kor:"나의 땅에서는 가난한 사람들이 배불리 먹고, 불쌍한 사람들이 평안히 누워 쉴 것이다. 그러나 내가 너희 블레셋 사람을 모조리 굶어 죽게 하고, 너희 가운데서 남은 자는 d내가 칼에 죽게 하겠다.\" (d 사해 사본과 불가타에는 '내가', 마소라 본문에는 '그가')",
+    Kor:"나의 땅에서는 가난한 사람들이 배불리 먹고, 불쌍한 사람들이 평안히 누워 쉴 것이다. 그러나 내가 너희 블레셋 사람을 모조리 굶어 죽게 하고, 너희 가운데서 남은 자는 내가 칼에 죽게 하겠다.\"",
     Chn:"贫寒人的长子必有所食； 穷乏人必安然躺卧。 我必以饥荒治死你的根； 你所余剩的人必被杀戮。",
     Eng:"The poorest of the poor will find pasture, and the needy will lie down in safety. But your root I will destroy by famine; it will slay your survivors.",
     Ind:"Yang paling hina dari umat-Ku akan mendapat makanan dan orang-orang miskin akan diam dengan tenteram, tetapi keturunanmu akan Kumatikan dengan kelaparan, dan sisa-sisamu akan Kubunuh."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Merataplah, hai pintu gerbang! Berteriaklah, hai kota! Gemetarlah, hai segenap Filistea! Sebab di sebelah utara sudah mengepul asap perang, dan barisan musuh maju tanpa ada yang mundur."
   },
   {Bible:"Isaiah", Chapter:14, Verse:32, Page:1,
-    Kor:"블레셋 특사들에게는 무엇이라고 답변할 것인가? '주님께서 시온을 세우셨으니, 고통당하던 그의 백성이 그리로 피한다' 하고 답변하여라.",
+    Kor:"블레셋 특사들에게는 무엇이라고 답변할 것인가? '주께서 시온을 세우셨으니, 고통당하던 그의 백성이 그리로 피한다' 하고 답변하여라.",
     Chn:"可怎样回答外邦的使者呢？ 必说：耶和华建立了锡安； 他百姓中的困苦人必投奔在其中。",
     Eng:"What answer shall be given to the envoys of that nation? \"The LORD has established Zion, and in her his afflicted people will find refuge.\"",
     Ind:"Dan apakah jawab yang akan diberi kepada utusan-utusan bangsa itu? \"TUHAN yang meletakkan dasar Sion, dan di sanalah orang-orang yang sengsara dari umat-Nya mendapat perlindungan.\""

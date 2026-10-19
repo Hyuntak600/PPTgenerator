@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",8,36);
 BibleDB.add([
   {Bible:"Ezra", Chapter:8, Verse:1, Page:1,
-    Kor:"<에스라와 함께 돌아온 백성들> 아닥사스다 왕이 다스릴 때에, 나와 함께 바빌로니아를 떠나서 이리로 올라온 각 가문의 우두머리와 그들의 계보는 다음과 같다.",
+    Kor:"아닥사스다 왕이 다스릴 때에, 나와 함께 바빌로니아를 떠나서 이리로 올라온 각 가문의 우두머리와 그들의 계보는 다음과 같다.",
     Chn:"当亚达薛西王年间，同我从巴比伦上来的人，他们的族长和他们的家谱记在下面：",
     Eng:"These are the family heads and those registered with them who came up with me from Babylon during the reign of King Artaxerxes:",
     Ind:"Inilah kepala-kepala kaum keluarga dan silsilah orang-orang yang berangkat pulang bersama-sama aku dari Babel pada zaman pemerintahan raja Artahsasta:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"dari bani Pahat-Moab: Elyoenai bin Zerahya, dan bersama-sama dia dua ratus orang laki-laki;"
   },
   {Bible:"Ezra", Chapter:8, Verse:5, Page:1,
-    Kor:"a삿두 자손 가운데서는 야하시엘의 아들 스가냐와 그와 함께 등록된 남자 삼백 명이요,(a 칠십인역을 따라서 '삿두'를 보충함)",
+    Kor:"삿두 자손 가운데서는 야하시엘의 아들 스가냐와 그와 함께 등록된 남자 삼백 명이요,",
     Chn:"属示迦尼的子孙有雅哈悉的儿子，同着他有男丁三百；",
     Eng:"of the descendants of Zattu, Shecaniah son of Jahaziel, and with him 300 men;",
     Ind:"dari bani Zatu: Sekhanya bin Yahaziel, dan bersama-sama dia tiga ratus orang laki-laki;"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"dan dari bani Yoab: Obaja bin Yehiel, dan bersama-sama dia dua ratus delapan belas orang laki-laki;"
   },
   {Bible:"Ezra", Chapter:8, Verse:10, Page:1,
-    Kor:"b바니 자손 가운데서는 요시뱌의 아들 슬로못 및 그와 함께 등록된 남자 백육십 명이요,(b 칠십인역을 따라서 '바니'를 보충함)",
+    Kor:"바니 자손 가운데서는 요시뱌의 아들 슬로못 및 그와 함께 등록된 남자 백육십 명이요,",
     Chn:"属示罗密的子孙有约细斐的儿子，同着他有男丁一百六十；",
     Eng:"of the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men;",
     Ind:"dan dari bani Bani: Selomit bin Yosifya, dan bersama-sama dia seratus enam puluh orang laki-laki;"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"dan dari bani Bigwai: Utai dan Zabud dan bersama-sama dia tujuh puluh orang laki-laki."
   },
   {Bible:"Ezra", Chapter:8, Verse:15, Page:1,
-    Kor:"<에스라가 레위 사람을 찾다> ○나는 사람들을 아하와 강 가에 불러모으고, 거기에다가 장막을 치고 사흘 동안 묵으면서, 그 곳에 모인 사람들을 살펴보았다. 백성과 제사장 가운데 레위 사람은 하나도 없었다.",
+    Kor:"○나는 사람들을 아하와 강 가에 불러모으고, 거기에다가 장막을 치고 사흘 동안 묵으면서, 그 곳에 모인 사람들을 살펴보았다. 백성과 제사장 가운데 레위 사람은 하나도 없었다.",
     Chn:"我招聚这些人在流入亚哈瓦的河边，我们在那里住了三日。我查看百姓和祭司，见没有利未人在那里，",
     Eng:"I assembled them at the canal that flows toward Ahava, and we camped there three days. When I checked among the people and the priests, I found no Levites there.",
     Ind:"Aku menghimpunkan mereka dekat sungai yang mengalir ke Ahawa dan di sana kami berkemah tiga hari lamanya. Ketika kuselidiki mereka, ternyata ada orang-orang Israel awam dan imam-imam, tetapi tidak kudapati di antara mereka orang-orang dari bani Lewi."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Sebab itu aku mengirim Eliezer, Ariel, Semaya, Elnatan, Yarib, Elnatan, Natan, Zakharia, Mesulam, yakni kepala-kepala kaum keluarga, dan Yoyarib dan Elnatan, yakni pengajar-pengajar,"
   },
   {Bible:"Ezra", Chapter:8, Verse:17, Page:1,
-    Kor:"가시뱌 지방의 지도자 잇도에게 보냈다. 나는 그들에게, 잇도와 가시뱌 지방에 사는 c성전 막일꾼인 그의 친족들에게 부탁하여, 우리 하나님의 성전에서 일할 일꾼들을 데려오라고 하였다.(c 히, '느디님')",
+    Kor:"가시뱌 지방의 지도자 잇도에게 보냈다. 나는 그들에게, 잇도와 가시뱌 지방에 사는 성전 막일꾼인 그의 친족들에게 부탁하여, 우리 하나님의 성전에서 일할 일꾼들을 데려오라고 하였다.",
     Chn:"我打发他们往迦西斐雅地方去见那里的首领易多，又告诉他们当向易多和他的弟兄尼提宁说什么话，叫他们为我们　神的殿带使用的人来。",
     Eng:"and I sent them to Iddo, the leader in Casiphia. I told them what to say to Iddo and his kinsmen, the temple servants in Casiphia, so that they might bring attendants to us for the house of our God.",
     Ind:"dengan suatu pesan untuk Ido, kepala setempat di Kasifya. Aku menaruh perkataan-perkataan ke dalam mulut mereka untuk dikatakan kepada Ido dan saudara-saudaranya, para budak di bait Allah di Kasifya itu, supaya mereka mendatangkan kepada kami orang-orang yang harus menyelenggarakan kebaktian di rumah Allah kami."
   },
   {Bible:"Ezra", Chapter:8, Verse:18, Page:1,
-    Kor:"하나님이 우리를 잘 보살펴 주셔서, 갔던 이들이 사람들을 데려왔다. 그들이 데려온 사람들은 레위의 아들이며 이스라엘의 손자인 마흘리 자손으로서, 아주 유능한 인재인 세레뱌와 그의 아들 및 친족 열여덟 명과,",
+    Kor:"하나님이 우리를 잘 보살펴 주셔서, 갔던 이들이 사람들을 데려왔다. 그들이 데려온 사람들은 레위의 아들이며 이스라엘의 손자인 말리 자손으로서, 아주 유능한 인재인 세레뱌와 그의 아들 및 친족 열여덟 명과,",
     Chn:"蒙我们　神施恩的手帮助我们，他们在以色列的曾孙、利未的孙子、抹利的后裔中带一个通达人来；还有示利比和他的众子与弟兄共一十八人。",
     Eng:"Because the gracious hand of our God was on us, they brought us Sherebiah, a capable man, from the descendants of Mahli son of Levi, the son of Israel, and Sherebiah's sons and brothers, 18 men;",
     Ind:"Kemudian karena tangan murah Allah kami itu melindungi kami, didatangkanlah oleh mereka kepada kami orang-orang yang berakal budi dari bani Mahli bin Lewi bin Israel, yakni Serebya dengan anak-anak dan saudara-saudaranya, delapan belas orang;"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"dan dari para budak di bait Allah, yang diberikan Daud dan para pembesar untuk membantu pekerjaan orang-orang Lewi, dua ratus dua puluh orang, yang masing-masing ditunjuk dengan disebut namanya."
   },
   {Bible:"Ezra", Chapter:8, Verse:21, Page:1,
-    Kor:"<에스라가 금식하며 기도하다> ○그 곳 아하와 강 가에서 나는 모두에게 금식하라고 선언하였다. 우리는 하나님 앞에서, 우리와 우리 자식들 모두가 재산을 가지고 안전하게 돌아갈 수 있도록, 하나님이 보살펴 주시기를 엎드려서 빌었다.",
+    Kor:"○그 곳 아하와 강 가에서 나는 모두에게 금식하라고 선언하였다. 우리는 하나님 앞에서, 우리와 우리 자식들 모두가 재산을 가지고 안전하게 돌아갈 수 있도록, 하나님이 보살펴 주시기를 엎드려서 빌었다.",
     Chn:"那时，我在亚哈瓦河边宣告禁食，为要在我们　神面前克苦己心，求他使我们和妇人孩子，并一切所有的，都得平坦的道路。",
     Eng:"There, by the Ahava Canal, I proclaimed a fast, so that we might humble ourselves before our God and ask him for a safe journey for us and our children, with all our possessions.",
     Ind:"Kemudian di sana, di tepi sungai Ahawa itu, aku memaklumkan puasa supaya kami merendahkan diri di hadapan Allah kami dan memohon kepada-Nya jalan yang aman bagi kami, bagi anak-anak kami dan segala harta benda kami."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Jadi berpuasalah kami dan memohonkan hal itu kepada Allah dan Allah mengabulkan permohonan kami."
   },
   {Bible:"Ezra", Chapter:8, Verse:24, Page:1,
-    Kor:"<성전에 바친 예물> ○그 때에 나는 제사장들 가운데서 지도급에 속하는 사람 열둘, 곧 세레뱌와 하사뱌와 그들의 형제 열 명을 뽑아 세우고,",
+    Kor:"○그 때에 나는 제사장들 가운데서 지도급에 속하는 사람 열둘, 곧 세레뱌와 하사뱌와 그들의 형제 열 명을 뽑아 세우고,",
     Chn:"我分派祭司长十二人，就是示利比、哈沙比雅，和他们的弟兄十人，",
     Eng:"Then I set apart twelve of the leading priests, together with Sherebiah, Hashabiah and ten of their brothers,",
     Ind:"Lalu aku memilih dua belas orang pemuka imam, yakni Serebya dan Hasabya, dan bersama-sama mereka sepuluh orang dari antara saudara-saudara mereka."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Dan aku berkata kepada mereka: \"Kamu kudus bagi TUHAN, dan perlengkapan-perlengkapan inipun kudus, dan perak dan emas ini adalah persembahan sukarela kepada TUHAN, Allah nenek moyangmu;"
   },
   {Bible:"Ezra", Chapter:8, Verse:29, Page:1,
-    Kor:"여러분은 이것들을 예루살렘에 있는 주님의 성전 창고로 가져 가십시오. 거기에서 이것들을, 제사장 대표들과 레위 사람들과 이스라엘 각 가문의 족장들 앞에서 달아서 넘겨 줄 때까지, 삼가 잘 보살피도록 하십시오.\"",
+    Kor:"여러분은 이것들을 예루살렘에 있는 주의 성전 창고로 가져 가십시오. 거기에서 이것들을, 제사장 대표들과 레위 사람들과 이스라엘 각 가문의 족장들 앞에서 달아서 넘겨 줄 때까지, 삼가 잘 보살피도록 하십시오.\"",
     Chn:"你们当警醒看守，直到你们在耶路撒冷耶和华殿的库内，在祭司长和利未族长，并以色列的各族长面前过了秤。」",
     Eng:"Guard them carefully until you weigh them out in the chambers of the house of the LORD in Jerusalem before the leading priests and the Levites and the family heads of Israel.\"",
     Ind:"rawatlah dan jagalah itu sampai kamu dapat menimbangnya di depan para pemuka imam serta orang-orang Lewi dan para pemimpin kaum keluarga orang Israel di Yerusalem, di dalam bilik-bilik rumah TUHAN.\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu para imam dan orang-orang Lewi menerima perak dan emas dan perlengkapan-perlengkapan yang telah ditimbang itu untuk dibawa ke Yerusalem, ke rumah Allah kami."
   },
   {Bible:"Ezra", Chapter:8, Verse:31, Page:1,
-    Kor:"<에스라가 예루살렘으로 돌아오다> ○첫째 달 십이일에 우리는 아하와 강을 떠나서, 예루살렘으로 가려고 길을 나섰다. 가는 길에 매복한 자들의 습격을 받기도 하였지만, 하나님이 우리를 잘 보살펴 주셔서 그들의 손에서 벗어날 수 있었다.",
+    Kor:"○첫째 달 십이일에 우리는 아하와 강을 떠나서, 예루살렘으로 가려고 길을 나섰다. 가는 길에 매복한 자들의 습격을 받기도 하였지만, 하나님이 우리를 잘 보살펴 주셔서 그들의 손에서 벗어날 수 있었다.",
     Chn:"正月十二日，我们从亚哈瓦河边起行，要往耶路撒冷去。我们　神的手保佑我们，救我们脱离仇敌和路上埋伏之人的手。",
     Eng:"On the twelfth day of the first month we set out from the Ahava Canal to go to Jerusalem. The hand of our God was on us, and he protected us from enemies and bandits along the way.",
     Ind:"Kemudian berangkatlah kami dari sungai Ahawa pergi ke Yerusalem pada tanggal dua belas bulan pertama untuk berjalan ke Yerusalem, dan tangan Allah kami melindungi kami dan menghindarkan kami dari tangan musuh dan penyamun."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Maka tibalah kami di Yerusalem. Sesudah kami tinggal di sana selama tiga hari,"
   },
   {Bible:"Ezra", Chapter:8, Verse:33, Page:1,
-    Kor:"나흘째 되는 날에, 우리는 하나님의 성전에서 은과 금과 그릇들을 달아서, 우리야의 아들 므레못 제사장에게 넘겨 주었다. 그자리에는 비느하스의 아들 엘르아살과 레위 사람 예수아의 아들 요사밧과 빈누이의 아들 노아댜가 함께 있다가,",
+    Kor:"나흘째 되는 날에, 우리는 하나님의 성전에서 은과 금과 그릇들을 달아서, 우리아의 아들 므레못 제사장에게 넘겨 주었다. 그자리에는 비느하스의 아들 엘르아살과 레위 사람 예수아의 아들 요사밧과 빈누이의 아들 노아댜가 함께 있다가,",
     Chn:"第四日，在我们　神的殿里把金银和器皿都秤了，交在祭司乌利亚的儿子米利末的手中。同着他有非尼哈的儿子以利亚撒，还有利未人耶书亚的儿子约撒拔和宾内的儿子挪亚底。",
     Eng:"On the fourth day, in the house of our God, we weighed out the silver and gold and the sacred articles into the hands of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, and so were the Levites Jozabad son of Jeshua and Noadiah son of Binnui.",
     Ind:"maka pada hari yang keempat ditimbanglah perak dan emas dan perlengkapan-perlengkapan itu di dalam rumah Allah kami di bawah pengawasan imam Meremot bin Uria, yang didampingi oleh Eleazar bin Pinehas, dan mereka dibantu oleh Yozabad bin Yesua dan Noaja bin Binui, orang-orang Lewi."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Semuanya dihitung dan ditimbang kembali, dan jumlah timbangannya dibukukan."
   },
   {Bible:"Ezra", Chapter:8, Verse:35, Page:1,
-    Kor:"○사로잡혀 갔던 사람들의 자손, 곧 이방 땅에서 돌아온 사람들은, 그렇게 하고 나서야, 비로소 이스라엘의 하나님께 번제를 드렸다. 온 이스라엘을 위하여, 수송아지 열두 마리와 숫양 아흔여섯 마리와 어린 양 일흔일곱 마리를 바치고 속죄제물로는 숫염소 열두 마리를 바쳤는데, 이것을 모두 주님께 번제로 드렸다.",
+    Kor:"○사로잡혀 갔던 사람들의 자손, 곧 이방 땅에서 돌아온 사람들은, 그렇게 하고 나서야, 비로소 이스라엘의 하나님께 번제를 드렸다. 온 이스라엘을 위하여, 수송아지 열두 마리와 숫양 아흔여섯 마리와 어린 양 일흔일곱 마리를 바치고 속죄제물로는 숫염소 열두 마리를 바쳤는데, 이것을 모두 주께 번제로 드렸다.",
     Chn:"从掳到之地归回的人向以色列的　神献燔祭，就是为以色列众人献公牛十二只，公绵羊九十六只，绵羊羔七十七只，又献公山羊十二只作赎罪祭，这都是向耶和华焚献的。",
     Eng:"Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs and, as a sin offering, twelve male goats. All this was a burnt offering to the LORD.",
     Ind:"Pada waktu itu juga orang-orang yang telah kembali dari penawanan, yakni mereka yang pulang dari pembuangan, mempersembahkan sebagai korban bakaran kepada Allah Israel: lembu jantan dua belas ekor untuk seluruh Israel, domba jantan sembilan puluh enam ekor, anak domba tujuh puluh tujuh ekor, kambing jantan sebagai korban penghapus dosa dua belas ekor, semuanya itu sebagai korban bakaran bagi TUHAN."

@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",38,30);
 BibleDB.add([
   {Bible:"Genesis", Chapter:38, Verse:1, Page:1,
-    Kor:"<유다와 다말> 그 무렵에 유다는 형제들에게서 떨어져 나가, 히라라고 하는 아둘람 사람이 사는 곳으로 가서, 그와 함께 살았다.",
+    Kor:"그 무렵에 유다는 형제들에게서 떨어져 나가, 히라라고 하는 아둘람 사람이 사는 곳으로 가서, 그와 함께 살았다.",
     Chn:"那时，犹大离开他弟兄下去，到一个亚杜兰人名叫希拉的家里去。",
     Eng:"At that time, Judah left his brothers and went down to stay with a man of Adullam named  Hirah.",
     Ind:"Pada waktu itu Yehuda meninggalkan saudara-saudaranya dan menumpang pada seorang Adulam, yang namanya Hira."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Di situ Yehuda melihat anak perempuan seorang Kanaan; nama orang itu ialah Syua. Lalu Yehuda kawin dengan perempuan itu dan menghampirinya."
   },
   {Bible:"Genesis", Chapter:38, Verse:3, Page:1,
-    Kor:"그가 임신하여 아들을 낳으니, 유다가 그 아들 이름을 에르라고 하였다.",
+    Kor:"그가 임신하여 아들을 낳으니, 유다가 그 아들 이름을 엘이라고 하였다.",
     Chn:"她就怀孕生了儿子，犹大给他起名叫珥。",
     Eng:"she became pregnant and gave birth to a son, who was named Er.",
     Ind:"Perempuan itu mengandung, lalu melahirkan seorang anak laki-laki dan menamai anak itu Er."
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Sesudah itu perempuan itu mengandung lagi, lalu melahirkan seorang anak laki-laki dan menamai anak itu Onan."
   },
   {Bible:"Genesis", Chapter:38, Verse:5, Page:1,
-    Kor:"그가 또다시 아들을 낳고, 이름을 셀라라고 하였다. a그가 셀라를 낳은 곳은 거십이다.(a 칠십인역은 유다의 아내를 가리키고, 마소라 본문은 유다를 가리킴)",
+    Kor:"그가 또다시 아들을 낳고, 이름을 셀라라고 하였다. 그가 셀라를 낳은 곳은 거십이다.",
     Chn:"她复又生了儿子，给他起名叫示拉。她生示拉的时候，犹大正在基悉。",
     Eng:"She gave birth to still another son and named him Shelah. It was at Kezib that she gave  birth to him.",
     Ind:"Kemudian perempuan itu melahirkan seorang anak laki-laki sekali lagi, dan menamai anak itu Syela. Yehuda sedang berada di Kezib, ketika anak itu dilahirkan."
   },
   {Bible:"Genesis", Chapter:38, Verse:6, Page:1,
-    Kor:"○유다가 자기 맏아들 에르를 결혼시켰는데, 그 아내의 이름은 다말이다.",
+    Kor:"○유다가 자기 맏아들 엘을 결혼시켰는데, 그 아내의 이름은 다말이다.",
     Chn:"犹大为长子珥娶妻，名叫她玛。",
     Eng:"Judah got a wife for Er, his firstborn, and her name was Tamar.",
     Ind:"Sesudah itu Yehuda mengambil bagi Er, anak sulungnya, seorang isteri, yang bernama Tamar."
   },
   {Bible:"Genesis", Chapter:38, Verse:7, Page:1,
-    Kor:"유다의 맏아들 에르가 주님께서 보시기에 악하므로, 주님께서 그를 죽게 하셨다.",
+    Kor:"유다의 맏아들 엘이 주께서 보시기에 악하므로, 주께서 그를 죽게 하셨다.",
     Chn:"犹大的长子珥在耶和华眼中看为恶，耶和华就叫他死了。",
     Eng:"But Er, Judah's firstborn, was wicked in the LORD'S sight; so the LORD put him to death.",
     Ind:"Tetapi Er, anak sulung Yehuda itu, adalah jahat di mata TUHAN, maka TUHAN membunuh dia."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Tetapi Onan tahu, bahwa bukan ia yang empunya keturunannya nanti, sebab itu setiap kali ia menghampiri isteri kakaknya itu, ia membiarkan maninya terbuang, supaya ia jangan memberi keturunan kepada kakaknya."
   },
   {Bible:"Genesis", Chapter:38, Verse:10, Page:1,
-    Kor:"그가 이렇게 한 것이 주님께서 보시기에 악하였다. 그래서 주님께서는 오난도 죽게 하셨다.",
+    Kor:"그가 이렇게 한 것이 주께서 보시기에 악하였다. 그래서 주께서는 오난도 죽게 하셨다.",
     Chn:"俄南所做的在耶和华眼中看为恶，耶和华也就叫他死了。",
     Eng:"What he did was wicked in the LORD'S sight; so he put him to death also.",
     Ind:"Tetapi yang dilakukannya itu adalah jahat di mata TUHAN, maka TUHAN membunuh dia juga."
   },
   {Bible:"Genesis", Chapter:38, Verse:11, Page:1,
-    Kor:"유다는 자기의 며느리 다말에게 말하였다. \"나의 아들 셀라가 다 클 때까지, 너는 네 친정 아버지 집으로 돌아가서, 과부로 살고 있거라.\" 유다는 셀라를 다말에게 주었다가는, 셀라도 제 형들처럼 죽을지 모른다고 생각하였다.",
+    Kor:"유다는 자기의 며느리 다말에게 말하였다. \"나의 아들 셀라가 다 클 때까지, 너는 네 친정 아버지 집으로 돌아가서, 과부로 살고 있거라.\" 유다는 셀라를 다말에게 주었다가는, 셀라도 저의 형들처럼 죽을지 모른다고 생각하였다.",
     Chn:"犹大心里说：「恐怕示拉也死，像他两个哥哥一样」，就对他儿妇她玛说：「你去，在你父亲家里守寡，等我儿子示拉长大。」她玛就回去，住在她父亲家里。",
     Eng:"Judah then said to his daughter-in-law Tamar, \"Live as a widow in your father's house until  my son Shelah grows up.\" For he thought, \"He may die too, just like his brothers.\" So Tamar went  to live in her father's house.",
     Ind:"Lalu berkatalah Yehuda kepada Tamar, menantunya itu: \"Tinggallah sebagai janda di rumah ayahmu, sampai anakku Syela itu besar,\" sebab pikirnya: \"Jangan-jangan ia mati seperti kedua kakaknya itu.\" Maka pergilah Tamar dan tinggal di rumah ayahnya."
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Dan ketika ia bersalin, seorang dari anak itu mengeluarkan tangannya, lalu dipegang oleh bidan, diikatnya dengan benang kirmizi serta berkata: \"Inilah yang lebih dahulu keluar.\""
   },
   {Bible:"Genesis", Chapter:38, Verse:29, Page:1,
-    Kor:"그러나 그 아이는 손을 안으로 다시 끌어들였다. 그런 다음에 그의 아우가 먼저 나왔다. 산파가 \"어찌하여 네가 터뜨리고 나오느냐!\" 하고 말하였다. 그래서 이 아이 이름을 b베레스라고 하고,(b '터뜨림')",
+    Kor:"그러나 그 아이는 손을 안으로 다시 끌어들였다. 그런 다음에 그의 아우가 먼저 나왔다. 산파가 \"어찌하여, 네가 터뜨리고 나오느냐!\" 하고 말하였다. 그래서 이 아이 이름을 베레스라고 하고,",
     Chn:"随后这孩子把手收回去，他哥哥生出来了；收生婆说：「你为什么抢着来呢？」因此给他起名叫法勒斯。",
     Eng:"But when he drew back his hand, his brother came out, and she said, \"So this is how you  have broken out!\" And he was named Perez.",
     Ind:"Ketika anak itu menarik tangannya kembali, keluarlah saudaranya laki-laki, dan bidan itu berkata: \"Alangkah kuatnya engkau menembus ke luar,\" maka anak itu dinamai Peres."
   },
   {Bible:"Genesis", Chapter:38, Verse:30, Page:1,
-    Kor:"그의 형, 곧 진홍색 실로 손목이 묶인 아이가 뒤에 나오니, 아이 이름을 c세라라고 하였다.(c '홍색' 또는 '밝음')",
+    Kor:"그의 형, 곧 진홍색 실로 손목이 묶인 아이가 뒤에 나오니, 아이 이름을 세라라고 하였다.",
     Chn:"后来，他兄弟那手上有红线的也生出来，就给他起名叫谢拉。",
     Eng:"Then his brother, who had the scarlet thread on his wrist, came out and he was given the  name Zerah.",
     Ind:"Sesudah itu keluarlah saudaranya laki-laki yang tangannya telah berikat benang kirmizi itu, lalu kepadanya diberi nama Zerah."

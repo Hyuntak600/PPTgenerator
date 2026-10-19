@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",2,46);
 BibleDB.add([
   {Bible:"1Kings", Chapter:2, Verse:1, Page:1,
-    Kor:"<다윗이 솔로몬에게 마지막으로 지시하다> 다윗은 세상을 떠날 날이 가까워서, 아들 솔로몬에게 유언을 하였다.",
+    Kor:"다윗은 세상을 떠날 날이 가까워서, 아들 솔로몬에게 유언을 하였다.",
     Chn:"大卫的死期临近了，就嘱咐他儿子所罗门说：",
     Eng:"When the time drew near for David to die, he gave a charge to Solomon his son.",
     Ind:"Ketika saat kematian Daud mendekat, ia berpesan kepada Salomo, anaknya:"
@@ -15,37 +15,37 @@ BibleDB.add([
     Ind:"\"Aku ini akan menempuh jalan segala yang fana, maka kuatkanlah hatimu dan berlakulah seperti laki-laki."
   },
   {Bible:"1Kings", Chapter:2, Verse:3, Page:1,
-    Kor:"그리고 너는 주 너의 하나님의 명령을 지키고, 모세의 율법에 기록된 대로, 주님께서 지시하시는 길을 걷고, 주님의 법률과 계명, 주님의 율례와 증거의 말씀을 지켜라. 그리하면, 네가 무엇을 하든지, 어디를 가든지, 모든 일이 형통할 것이다.",
+    Kor:"그리고 너는 주 너의 하나님의 명령을 지키고, 모세의 율법에 기록된 대로, 주께서 지시하시는 길을 걷고, 주의 법률과 계명, 주의 율례와 증거의 말씀을 지켜라. 그리하면, 네가 무엇을 하든지, 어디를 가든지, 모든 일이 형통할 것이다.",
     Chn:"遵守耶和华—你　神所吩咐的，照着摩西律法上所写的行主的道，谨守他的律例、诫命、典章、法度。这样，你无论做什么事，不拘往何处去，尽都亨通。",
     Eng:"and observe what the LORD your God requires: Walk in his ways, and keep his decrees and commands, his laws and requirements, as written in the Law of Moses, so that you may prosper in all you do and wherever you go,",
     Ind:"Lakukanlah kewajibanmu dengan setia terhadap TUHAN, Allahmu, dengan hidup menurut jalan yang ditunjukkan-Nya, dan dengan tetap mengikuti segala ketetapan, perintah, peraturan dan ketentuan-Nya, seperti yang tertulis dalam hukum Musa, supaya engkau beruntung dalam segala yang kaulakukan dan dalam segala yang kautuju,"
   },
   {Bible:"1Kings", Chapter:2, Verse:4, Page:1,
-    Kor:"또한 주님께서 전에 나에게 '네 자손이 내 앞에서 마음과 정성을 다 기울여서, 제 길을 성실하게 걸으면, 이스라엘의 임금 자리에 오를 사람이 너에게서 끊어지지 않을 것이다' 하고 약속하신 말씀을 이루실 것이다.",
+    Kor:"또한 주께서 전에 나에게 '네 자손이 내 앞에서 마음과 정성을 다 기울여서, 제 길을 성실하게 걸으면, 이스라엘의 임금 자리에 오를 사람이 너에게서 끊어지지 않을 것이다' 하고 약속하신 말씀을 이루실 것이다.",
     Chn:"耶和华必成就向我所应许的话说：『你的子孙若谨慎自己的行为，尽心尽意诚诚实实地行在我面前，就不断人坐以色列的国位。』",
     Eng:"and that the LORD may keep his promise to me: 'If your descendants watch how they live, and if they walk faithfully before me with all their heart and soul, you will never fail to have a man on the throne of Israel.'",
     Ind:"dan supaya TUHAN menepati janji yang diucapkan-Nya tentang aku, yakni: Jika anak-anakmu laki-laki tetap hidup di hadapan-Ku dengan setia, dengan segenap hati dan dengan segenap jiwa, maka keturunanmu takkan terputus dari takhta kerajaan Israel."
   },
   {Bible:"1Kings", Chapter:2, Verse:5, Page:1,
-    Kor:"○더욱이 너는 스루야의 아들 요압이 나에게 한 것, 곧 그가 이스라엘 군대의 두 사령관인, 넬의 아들 아브넬과 예델의 아들 아마사에게 한 일을 알고 있을 것이다. 요압이 그들을 살해함으로써, 평화로운 때에 전쟁을 할 때나 흘릴 피를 흘려서, 내 허리띠와 신에 전쟁의 피를 묻히고 말았다.",
+    Kor:"○더욱이 너는 스루야의 아들 요압이 나에게 한 것, 곧 그가 이스라엘 군대의 두 사령관인, 넬의 아들 아브넬과 예델의 아들 아마사에게 한 일을 알고 있을 것이다. 요압이 그들을 살해함으로써, 평화로운 때에, 전쟁을 할 때나 흘릴 피를 흘려서, 내 허리띠와 신에 전쟁의 피를 묻히고 말았다.",
     Chn:"你知道洗鲁雅的儿子约押向我所行的，就是杀了以色列的两个元帅：尼珥的儿子押尼珥和益帖的儿子亚玛撒。他在太平之时流这二人的血，如在争战之时一样，将这血染了腰间束的带和脚上穿的鞋。",
     Eng:"\"Now you yourself know what Joab son of Zeruiah did to me--what he did to the two commanders of Israel's armies, Abner son of Ner and Amasa son of Jether. He killed them, shedding their blood in peacetime as if in battle, and with that blood stained the belt around his waist and the sandals on his feet.",
     Ind:"Dan lagi engkaupun mengetahui apa yang dilakukan kepadaku oleh Yoab, anak Zeruya, apa yang dilakukannya kepada kedua panglima Israel, yakni Abner bin Ner dan Amasa bin Yeter. Ia membunuh mereka dan menumpahkan darah dalam zaman damai seakan-akan ada perang, sehingga sabuk pinggangnya dan kasut kakinya berlumuran darah."
   },
   {Bible:"1Kings", Chapter:2, Verse:6, Page:1,
-    Kor:"그러므로 너는 지혜롭게 행동을 하여, 그가 백발이 성성하게 살다가 평안히 a스올에 내려가도록 내버려 두지 말아라.(a 또는 '무덤' 또는 '죽음')",
+    Kor:"그러므로 너는 지혜롭게 행동을 하여, 그가 백발이 성성하게 살다가 평안히 스올에 내려가도록 내버려 두지 말아라.",
     Chn:"所以你要照你的智慧行，不容他白头安然下阴间。",
     Eng:"Deal with him according to your wisdom, but do not let his gray head go down to the grave in peace.",
     Ind:"Maka bertindaklah dengan bijaksana dan janganlah biarkan yang ubanan itu turun dengan selamat ke dalam dunia orang mati."
   },
   {Bible:"1Kings", Chapter:2, Verse:7, Page:1,
-    Kor:"○그러나 길르앗 사람인 바실래의 아들들에게는 자비를 베풀어서, 네 상에서 함께 먹는 식구가 되게 하여라. 그들은 내가 네 형 압살롬을 피하여 도망할 때에 나를 영접해 주었다.",
+    Kor:"○그러나 길르앗 사람인 바실래의 아들들에게는 자비를 베풀어서, 네 상에서 함께 먹는 식구가 되게 하여라. 그들은 내가 네 형 압살롬을 피하여 도망할 때에, 나를 영접해 주었다.",
     Chn:"你当恩待基列人巴西莱的众子，使他们常与你同席吃饭；因为我躲避你哥哥押沙龙的时候，他们拿食物来迎接我。",
     Eng:"\"But show kindness to the sons of Barzillai of Gilead and let them be among those who eat at your table. They stood by me when I fled from your brother Absalom.",
     Ind:"Tetapi kepada anak-anak Barzilai, orang Gilead itu, haruslah kautunjukkan kemurahan hati. Biarlah mereka termasuk golongan yang mendapat makanan dari mejamu, sebab merekapun menunjukkan kesetiaannya dengan menyambut aku pada waktu aku melarikan diri dari depan kakakmu Absalom."
   },
   {Bible:"1Kings", Chapter:2, Verse:8, Page:1,
-    Kor:"○또 바후림 출신으로 베냐민 사람인 게라의 아들 시므이가 너와 같이 있다. 그는, 내가 마하나임으로 가던 날에 나를 심하게 저주하였지만, 그가 요단 강으로 나를 맞으려고 내려왔을 때에 내가 주님을 가리켜 맹세하기를, '너를 칼로 죽이지 않겠다' 하고 말한 일이 있다.",
+    Kor:"○또 바후림 출신으로 베냐민 사람인 게라의 아들 시므이가 너와 같이 있다. 그는 내가 마하나임으로 가던 날에, 나를 심하게 저주하였지만, 그가 요단 강으로 나를 맞으려고 내려왔을 때에, 내가 주를 가리켜 맹세하기를 '너를 칼로 죽이지 않겠다' 하고 말한 일이 있다.",
     Chn:"在你这里有巴户琳的便雅悯人，基拉的儿子示每；我往玛哈念去的那日，他用狠毒的言语咒骂我，后来却下约旦河迎接我，我就指着耶和华向他起誓说：『我必不用刀杀你。』",
     Eng:"\"And remember, you have with you Shimei son of Gera, the Benjamite from Bahurim, who called down bitter curses on me the day I went to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the LORD: 'I will not put you to death by the sword.'",
     Ind:"Juga masih ada padamu Simei bin Gera, orang Benyamin, dari Bahurim. Dialah yang mengutuki aku dengan kutuk yang kejam pada waktu aku pergi ke Mahanaim, tetapi kemudian ia datang menyongsong aku di sungai Yordan dan aku telah bersumpah kepadanya demi TUHAN: Takkan kubunuh engkau dengan pedang!"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Sekarang janganlah bebaskan dia dari hukuman, sebab engkau seorang yang bijaksana dan tahu apa yang harus kaulakukan kepadanya untuk membuat yang ubanan itu turun dengan berdarah ke dalam dunia orang mati.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:10, Page:1,
-    Kor:"<다윗이 죽다> ○다윗은 죽어서, 그의 조상과 함께 '다윗 성'에 안장되었다.",
+    Kor:"○다윗은 죽어서, 그의 조상과 함께 '다윗 성'에 안장되었다.",
     Chn:"大卫与他列祖同睡，葬在大卫城。",
     Eng:"Then David rested with his fathers and was buried in the City of David.",
     Ind:"Kemudian Daud mendapat perhentian bersama-sama nenek moyangnya, dan ia dikuburkan di kota Daud."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Salomo duduk di atas takhta Daud, ayahnya, dan kerajaannya sangat kokoh."
   },
   {Bible:"1Kings", Chapter:2, Verse:13, Page:1,
-    Kor:"<아도니야가 죽다> ○학깃의 아들 아도니야가 솔로몬의 어머니 밧세바를 찾아왔다. 밧세바가 \"좋은 일로 왔느냐?\" 하고 물으니, 그는 \"좋은 일로 왔습니다\" 하고 대답하였다.",
+    Kor:"○학깃의 아들 아도니야가 솔로몬의 어머니 밧세바를 찾아왔다. 밧세바가 \"좋은 일로 왔느냐?\" 하고 물으니, 그는 \"좋은 일로 왔습니다\" 하고 대답하였다.",
     Chn:"哈及的儿子亚多尼雅去见所罗门的母亲拔示巴，拔示巴问他说：「你来是为平安吗？」回答说：「是为平安」；",
     Eng:"Now Adonijah, the son of Haggith, went to Bathsheba, Solomon's mother. Bathsheba asked him, \"Do you come peacefully?\" He answered, \"Yes, peacefully.\"",
     Ind:"Pada suatu hari Adonia, anak Hagit, masuk menghadap Batsyeba, ibu Salomo, lalu perempuan itu berkata: \"Apakah engkau datang dengan maksud damai?\" Jawabnya: \"Ya, damai!\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Kemudian katanya: \"Ada sesuatu yang hendak kukatakan kepadamu.\" Jawab perempuan itu: \"Katakanlah!\""
   },
   {Bible:"1Kings", Chapter:2, Verse:15, Page:1,
-    Kor:"○그러자 그가 말하였다. \"어머니께서도 아시다시피, 임금 자리는 저의 것이었고, 모든 이스라엘 사람은, 제가 임금이 되기를 바라고 있었습니다. 그런데 그 임금 자리는, 주님의 뜻이 있어서, 이제는 아우의 것이 되었습니다.",
+    Kor:"○그러자 그가 말하였다. \"어머니께서도 아시다시피, 임금 자리는 저의 것이었고, 모든 이스라엘 사람은, 제가 임금이 되기를 바라고 있었습니다. 그런데 그 임금 자리는, 주의 뜻이 있어서, 이제는 아우의 것이 되었습니다.",
     Chn:"亚多尼雅说：「你知道国原是归我的，以色列众人也都仰望我作王，不料，国反归了我兄弟，因他得国是出乎耶和华。",
     Eng:"\"As you know,\" he said, \"the kingdom was mine. All Israel looked to me as their king. But things changed, and the kingdom has gone to my brother; for it has come to him from the LORD.",
     Ind:"Lalu katanya: \"Engkau sendiri tahu bahwa akulah yang berhak atas kedudukan raja, dan bahwa seluruh Israel mengharapkan, supaya aku menjadi raja; tetapi sebaliknya kedudukan raja jatuh kepada adikku, sebab dari Tuhanlah ia mendapatnya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Jawab Batsyeba: \"Baik, aku akan membicarakan hal itu untuk engkau dengan raja.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:19, Page:1,
-    Kor:"○그리하여 밧세바는 아도니야의 청을 대신 말하여 주려고, 솔로몬 왕을 찾아갔다. 왕은 어머니를 맞이하려고, 일어나서 절을 한 뒤에 다시 자리에 앉았다. 그리고는 어머니에게 자리를 권하여, 자기 옆에 앉게 하였다.",
+    Kor:"○그리하여 밧세바는 아도니야의 청을 대신 말하여 주려고, 솔로몬 왕을 찾아갔다. 왕은 어머니를 맞이하려고, 일어나서 절을 한 뒤에, 다시 자리에 앉았다. 그리고는 어머니에게 자리를 권하여, 자기 옆에 앉게 하였다.",
     Chn:"于是，拔示巴去见所罗门王，要为亚多尼雅提说；王起来迎接，向她下拜，就坐在位上，吩咐人为王母设一座位，她便坐在王的右边。",
     Eng:"When Bathsheba went to King Solomon to speak to him for Adonijah, the king stood up to meet her, bowed down to her and sat down on his throne. He had a throne brought for the king's mother, and she sat down at his right hand.",
     Ind:"Batsyeba masuk menghadap raja Salomo untuk membicarakan hal itu untuk Adonia, lalu bangkitlah raja mendapatkannya serta tunduk menyembah kepadanya; kemudian duduklah ia di atas takhtanya dan ia menyuruh meletakkan kursi untuk bunda raja, lalu perempuan itu duduk di sebelah kanannya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Berkatalah perempuan itu: \"Suatu permintaan kecil saja yang kusampaikan kepadamu, janganlah tolak permintaanku.\" Jawab raja kepadanya: \"Mintalah, ya ibu, sebab aku tidak akan menolak permintaanmu.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:21, Page:1,
-    Kor:"○밧세바가 말하였다. \"수넴 여자 아비삭과 임금의 형 아도니야를 결혼시키면 좋겠소.\"",
+    Kor:"○밧세바가 말하였다. \"수넴 여자 아비삭과 그대의 형 아도니야를 결혼시키면 좋겠소.\"",
     Chn:"拔示巴说：「求你将书念的女子亚比煞赐给你哥哥亚多尼雅为妻。」",
     Eng:"So she said, \"Let Abishag the Shunammite be given in marriage to your brother Adonijah.\"",
     Ind:"Kata perempuan itu: \"Biarlah Abisag, gadis Sunem itu, diberikan kepada kakakmu Adonia menjadi isterinya.\""
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Tetapi raja Salomo menjawab ibunya: \"Mengapa engkau meminta hanya Abisag, gadis Sunem itu, untuk Adonia? Minta jugalah untuknya kedudukan raja! Bukankah dia saudaraku yang lebih tua, dan di pihaknya ada imam Abyatar dan Yoab, anak Zeruya?\""
   },
   {Bible:"1Kings", Chapter:2, Verse:23, Page:1,
-    Kor:"솔로몬 왕은 주님을 가리켜 맹세하였다. \"아도니야가 자기 목숨을 걸고 이런 말을 하였으니, 그의 목숨을 살려 두면, 하나님이 나에게 벌을 내리시고, 또 내리실지도 모릅니다.",
+    Kor:"솔로몬 왕은 주를 가리켜 맹세하였다. \"아도니야가 자기 목숨을 걸고 이런 말을 하였으니, 그의 목숨을 살려 두면, 하나님이 나에게 벌을 내리시고, 또 내리실지도 모릅니다.",
     Chn:"所罗门王就指着耶和华起誓说：「亚多尼雅这话是自己送命，不然，愿　神重重地降罚与我。",
     Eng:"Then King Solomon swore by the LORD: \"May God deal with me, be it ever so severely, if Adonijah does not pay with his life for this request!",
     Ind:"Lalu bersumpahlah raja Salomo demi TUHAN: \"Beginilah kiranya Allah menghukum aku, bahkan lebih dari pada itu, jika Adonia tidak membayarkan nyawanya dengan permintaan ini!"
   },
   {Bible:"1Kings", Chapter:2, Verse:24, Page:1,
-    Kor:"이제 주님께서 나를 세워 아버지 다윗의 자리에 앉게 하시고, 말씀하신 대로 나를 시켜서 왕실을 세워 주셨으니, 주님의 살아 계심을 두고 맹세합니다. 오늘 아도니야는 반드시 처형당할 것입니다.\"",
+    Kor:"이제 주께서 나를 세워 아버지 다윗의 자리에 앉게 하시고, 말씀하신 대로 나를 시켜서 왕실을 세워 주셨으니, 주의 살아 계심을 두고 맹세합니다. 오늘 아도니야는 반드시 처형당할 것입니다.\"",
     Chn:"耶和华坚立我，使我坐在父亲大卫的位上，照着所应许的话为我建立家室；现在我指着永生的耶和华起誓，亚多尼雅今日必被治死。」",
     Eng:"And now, as surely as the LORD lives--he who has established me securely on the throne of my father David and has founded a dynasty for me as he promised--Adonijah shall be put to death today!\"",
     Ind:"Oleh sebab itu, demi TUHAN yang hidup, yang menegakkan aku dan mendudukkan aku di atas takhta Daud, ayahku, dan yang membuat bagiku suatu keluarga seperti yang dijanjikan-Nya: pada hari ini juga Adonia harus dibunuh.\""
@@ -153,31 +153,31 @@ BibleDB.add([
     Ind:"Lalu raja Salomo menyerahkan hal itu kepada Benaya bin Yoyada; orang ini memancung dia sehingga mati."
   },
   {Bible:"1Kings", Chapter:2, Verse:26, Page:1,
-    Kor:"<아비아달의 추방과 요압의 죽음> ○솔로몬 왕은 아비아달 제사장에게 이렇게 말하였다. \"제사장께서는 상속받은 땅 아나돗으로 가시오. 제사장께서는 이미 죽었어야 할 목숨이지만, 나의 아버지 다윗 앞에서 제사장으로서 주 하나님의 법궤를 메었고, 또 나의 아버지께서 고통을 받으실 때에 그 모든 고통을 함께 나누었기 때문에, 오늘은 내가 제사장을 죽이지는 않겠소.\"",
+    Kor:"○솔로몬 왕은 아비아달 제사장에게 이렇게 말하였다. \"그대는 상속받은 땅 아나돗으로 가시오. 그대는 이미 죽었어야 할 목숨이지만, 나의 아버지 다윗 앞에서 그대가 주 하나님의 법궤를 메었고, 또 나의 아버지께서 고통을 받으실 때에, 그 모든 고통을 함께 나누었기 때문에, 오늘은 내가 그대를 죽이지 않겠소.\"",
     Chn:"王对祭司亚比亚他说：「你回亚拿突归自己的田地去吧！你本是该死的，但因你在我父亲大卫面前抬过主耶和华的约柜，又与我父亲同受一切苦难，所以我今日不将你杀死。」",
     Eng:"To Abiathar the priest the king said, \"Go back to your fields in Anathoth. You deserve to die, but I will not put you to death now, because you carried the ark of the Sovereign LORD before my father David and shared all my father's hardships.\"",
     Ind:"Dan kepada imam Abyatar raja berkata: \"Pergilah ke Anatot, ke tanah milikmu, sebab engkau patut dihukum mati, tetapi pada hari ini aku tidak akan membunuh engkau, oleh karena engkau telah mengangkat tabut Tuhan ALLAH di depan Daud, ayahku, dan oleh karena engkau telah turut menderita dalam segala sengsara yang diderita ayahku.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:27, Page:1,
-    Kor:"솔로몬은 아비아달을 주님의 제사장 직에서 파면하여 내쫓았다. 이렇게 하여서, 주님께서는 실로에 있는 엘리의 가문을 두고 하신 말씀을 이루셨다.",
+    Kor:"솔로몬은 아비아달을 주의 제사장 직에서 파면하여 내쫓았다. 이렇게 하여서, 주께서는 실로에 있는 엘리의 가문을 두고 하신 말씀을 이루셨다.",
     Chn:"所罗门就革除亚比亚他，不许他作耶和华的祭司。这样，便应验耶和华在示罗论以利家所说的话。",
     Eng:"So Solomon removed Abiathar from the priesthood of the LORD, fulfilling the word the LORD had spoken at Shiloh about the house of Eli.",
     Ind:"Lalu Salomo memecat Abyatar dari jabatannya sebagai imam TUHAN. Dengan demikian Salomo memenuhi firman TUHAN yang telah dikatakan-Nya di Silo mengenai keluarga Eli."
   },
   {Bible:"1Kings", Chapter:2, Verse:28, Page:1,
-    Kor:"○이런 소문이 요압에게 들렸다. 비록 그는 압살롬의 편을 들지는 않았으나, 아도니야의 편을 들었으므로, 주님의 장막으로 도망하여, 제단 뿔을 잡았다.",
+    Kor:"○이런 소문이 요압에게 들렸다. 비록 그는 압살롬의 편을 들지는 않았으나, 아도니야의 편을 들었으므로, 주의 장막으로 도망하여, 제단 뿔을 잡았다.",
     Chn:"约押虽然没有归从押沙龙，却归从了亚多尼雅。他听见这风声，就逃到耶和华的帐幕，抓住祭坛的角。",
     Eng:"When the news reached Joab, who had conspired with Adonijah though not with Absalom, he fled to the tent of the LORD and took hold of the horns of the altar.",
     Ind:"Ketika kabar itu sampai kepada Yoab--memang Yoab telah memihak kepada Adonia, sekalipun ia tidak memihak kepada Absalom--maka larilah Yoab ke kemah TUHAN, lalu memegang tanduk-tanduk mezbah."
   },
   {Bible:"1Kings", Chapter:2, Verse:29, Page:1,
-    Kor:"요압이 이렇게 주님의 장막으로 도망하여 제단 곁에 피하여 있다는 사실이, 솔로몬 왕에게 전해지니, 솔로몬은 여호야다의 아들 브나야를 보내면서 \"가서, 그를 쳐죽여라!\" 하였다.",
+    Kor:"요압이 이렇게 주의 장막으로 도망하여 제단 곁에 피하여 있다는 사실이, 솔로몬 왕에게 전해지니, 솔로몬은 여호야다의 아들 브나야를 보내면서 \"가서, 그를 쳐죽여라!\" 하였다.",
     Chn:"有人告诉所罗门王说：「约押逃到耶和华的帐幕，现今在祭坛的旁边。」所罗门就差遣耶何耶大的儿子比拿雅，说：「你去将他杀死。」",
     Eng:"King Solomon was told that Joab had fled to the tent of the LORD and was beside the altar. Then Solomon ordered Benaiah son of Jehoiada, \"Go, strike him down!\"",
     Ind:"Kemudian diberitahukanlah kepada Salomo, bahwa Yoab sudah lari ke kemah TUHAN, dan telah ada di samping mezbah. Lalu Salomo menyuruh Benaya bin Yoyada: \"Pergilah, pancung dia.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:30, Page:1,
-    Kor:"브나야가 주님의 장막에 들어가서, 그에게 말하였다. \"어명이오. 바깥으로 나오시오.\" 그러자 그가 말하였다. \"못 나가겠소. 차라리 나는 여기에서 죽겠소.\" 브나야가 왕에게 돌아가서, 요압이 한 말을 전하니,",
+    Kor:"브나야가 주의 장막에 들어가서, 그에게 말하였다. \"어명이오. 바깥으로 나오시오.\" 그러자 그가 말하였다. \"못 나가겠소. 차라리 나는 여기에서 죽겠소.\" 브나야가 왕에게 돌아가서, 요압이 한 말을 전하니,",
     Chn:"比拿雅来到耶和华的帐幕，对约押说：「王吩咐说，你出来吧！」他说：「我不出去，我要死在这里。」比拿雅就去回复王，说约押如此如此回答我。",
     Eng:"So Benaiah entered the tent of the LORD and said to Joab, \"The king says, 'Come out!'\" But he answered, \"No, I will die here.\" Benaiah reported to the king, \"This is how Joab answered me.\"",
     Ind:"Benaya masuk ke dalam kemah TUHAN serta berkata kepadanya: \"Beginilah kata raja: Keluarlah.\" Jawabnya: \"Tidak, sebab di sinilah aku mau mati.\" Lalu Benaya menyampaikan jawab itu kepada raja, katanya: \"Beginilah kata Yoab dan beginilah jawabnya kepadaku.\""
@@ -189,19 +189,19 @@ BibleDB.add([
     Ind:"Kata raja kepadanya: \"Perbuatlah seperti yang dikatakannya; pancunglah dia dan kuburkanlah dia; dengan demikian engkau menjauhkan dari padaku dan dari pada kaumku noda darah yang ditumpahkan Yoab dengan tidak beralasan."
   },
   {Bible:"1Kings", Chapter:2, Verse:32, Page:1,
-    Kor:"주님께서, 요압이 흘린 그 피를 그에게 돌리실 것이다. 그는 나의 아버지 다윗께서 모르시는 사이에, 자기보다 더 의롭고 나은 두 사람, 곧 넬의 아들인 이스라엘 군사령관 아브넬과, 예델의 아들인 유다의 군사령관 아마사를, 칼로 죽인 사람이다.",
+    Kor:"주께서, 요압이 흘린 그 피를 그에게 돌리실 것이다. 그는 나의 아버지 다윗께서 모르시는 사이에, 자기보다 더 의롭고 나은 두 사람, 곧 넬의 아들인 이스라엘 군사령관 아브넬과, 예델의 아들인 유다의 군사령관 아마사를, 칼로 죽인 사람이다.",
     Chn:"耶和华必使约押流人血的罪归到他自己的头上；因为他用刀杀了两个比他又义又好的人，就是以色列元帅尼珥的儿子押尼珥和犹大元帅益帖的儿子亚玛撒，我父亲大卫却不知道。",
     Eng:"The LORD will repay him for the blood he shed, because without the knowledge of my father David he attacked two men and killed them with the sword. Both of them--Abner son of Ner, commander of Israel's army, and Amasa son of Jether, commander of Judah's army--were better men and more upright than he.",
     Ind:"Dan TUHAN akan menanggungkan darahnya kepadanya sendiri, karena ia telah membunuh dua orang yang lebih benar dan lebih baik dari padanya. Ia membunuh mereka dengan pedang, dengan tidak diketahui ayahku Daud, yaitu Abner bin Ner, panglima Israel, dan Amasa bin Yeter, panglima Yehuda."
   },
   {Bible:"1Kings", Chapter:2, Verse:33, Page:1,
-    Kor:"그들의 피는 영원히 요압과 그의 자손에게로 돌아갈 것이며, 다윗과 그의 자손과 그의 왕실과 그의 왕좌에는, 주님께서 주시는 평화가 영원토록 있을 것이다.\"",
+    Kor:"그들의 피는 영원히 요압과 그의 자손에게로 돌아갈 것이며, 다윗과 그의 자손과 그의 왕실과 그의 왕좌에는, 주께서 주시는 평화가 영원토록 있을 것이다.\"",
     Chn:"故此，流这二人血的罪必归到约押和他后裔的头上，直到永远；惟有大卫和他的后裔，并他的家与国，必从耶和华那里得平安，直到永远。」",
     Eng:"May the guilt of their blood rest on the head of Joab and his descendants forever. But on David and his descendants, his house and his throne, may there be the LORD'S peace forever.\"",
     Ind:"Demikianlah darah mereka akan ditanggungkan kepada Yoab dan keturunannya untuk selama-lamanya, tetapi Daud dan keturunannya dan keluarganya dan takhtanya akan mendapat selamat dari pada TUHAN sampai selama-lamanya.\""
   },
   {Bible:"1Kings", Chapter:2, Verse:34, Page:1,
-    Kor:"○이에 여호야다의 아들 브나야가 올라가서, 그를 쳐죽였다. 요압은 광야에 있는 그의 b땅에 매장되었다.(b 또는 '무덤')",
+    Kor:"○이에 여호야다의 아들 브나야가 올라가서, 그를 쳐죽였다. 요압은 광야에 있는 그의 땅에 매장되었다.",
     Chn:"于是耶何耶大的儿子比拿雅上去，将约押杀死，葬在旷野约押自己的坟墓里。",
     Eng:"So Benaiah son of Jehoiada went up and struck down Joab and killed him, and he was buried on his own land in the desert.",
     Ind:"Maka berangkatlah Benaya bin Yoyada, lalu memancung dan membunuh Yoab, kemudian dia dikuburkan di rumahnya sendiri di padang gurun."
@@ -213,13 +213,13 @@ BibleDB.add([
     Ind:"Raja mengangkat Benaya bin Yoyada menggantikan Yoab menjadi kepala tentara; dan raja mengangkat imam Zadok menggantikan Abyatar."
   },
   {Bible:"1Kings", Chapter:2, Verse:36, Page:1,
-    Kor:"<시므이가 죽다> ○그 뒤에 왕은 사람을 보내어서, 시므이를 불러다 놓고, 이렇게 말하였다. \"당신은 예루살렘에다가 당신이 살 집을 짓고, 거기에서만 살도록 하시오. 다른 어느 곳으로든지, 한 발짝도 나가서는 안 되오.",
+    Kor:"○그 뒤에 왕은 사람을 보내어서, 시므이를 불러다 놓고, 이렇게 말하였다. \"너는 예루살렘에다가 네가 살 집을 짓고, 거기에서만 살도록 하여라. 다른 어느 곳으로든지, 한 발짝도 나가서는 안 된다.",
     Chn:"王差遣人将示每召来，对他说：「你要在耶路撒冷建造房屋居住，不可出来往别处去。",
     Eng:"Then the king sent for Shimei and said to him, \"Build yourself a house in Jerusalem and live there, but do not go anywhere else.",
     Ind:"Kemudian raja menyuruh memanggil Simei, dan berkata kepadanya: \"Dirikanlah bagimu sebuah rumah di Yerusalem, diamlah di sana, dan janganlah keluar dari sana ke mana-manapun."
   },
   {Bible:"1Kings", Chapter:2, Verse:37, Page:1,
-    Kor:"바깥으로 나가서 기드론 시내를 건너는 날에는, 당신은 반드시 죽을 것이오. 당신이 죽는 것은 바로 당신 죄 때문임을 명심하시오.\"",
+    Kor:"바깥으로 나가서 기드론 시내를 건너는 날에는, 너는 반드시 죽는다. 네가 죽는 것은 바로 네 죄 때문임을 명심하여라.\"",
     Chn:"你当确实地知道，你何日出来过汲沦溪，何日必死！你的罪必归到自己的头上。」",
     Eng:"The day you leave and cross the Kidron Valley, you can be sure you will die; your blood will be on your own head.\"",
     Ind:"Sebab ketahuilah sungguh-sungguh, bahwa pada waktu engkau keluar dan menyeberangi sungai Kidron, pastilah engkau mati dibunuh dan darahmu akan ditanggungkan kepadamu sendiri.\""
@@ -249,25 +249,25 @@ BibleDB.add([
     Ind:"Ketika diberitahukan kepada Salomo, bahwa tadinya Simei pergi dari Yerusalem ke Gat dan sekarang sudah pulang,"
   },
   {Bible:"1Kings", Chapter:2, Verse:42, Page:1,
-    Kor:"왕은 사람을 보내어서, 시므이를 불러다 놓고 문책하였다. \"내가 당신에게, 주님을 가리켜 맹세하게 하고, 당신에게 경고하기를, 당신이 바깥으로 나가서 어느 곳이든지 가는 날에는, 반드시 죽을 것이라고 하지 않았소? 당신도 나에게 좋다고 하였고, 내 말에 순종하겠다고 하지 않았소?",
+    Kor:"왕은 사람을 보내어서, 시므이를 불러다 놓고 문책하였다. \"내가 너에게, 주님을 가리켜 맹세하게 하고, 너에게 경고하기를, 네가 바깥으로 나가서 어느 곳이든지 가는 날에는, 반드시 죽을 것이라고 하지 않았느냐? 너도 나에게 좋다고 하였고, 내 말에 순종하겠다고 하지 않았느냐?",
     Chn:"王就差遣人将示每召了来，对他说：「我岂不是叫你指着耶和华起誓，并且警戒你说『你当确实地知道，你哪日出来往别处去，那日必死』吗？你也对我说：『这话甚好，我必听从。』",
     Eng:"the king summoned Shimei and said to him, \"Did I not make you swear by the LORD and warn you, 'On the day you leave to go anywhere else, you can be sure you will die'? At that time you said to me, 'What you say is good. I will obey.'",
     Ind:"maka raja menyuruh memanggil Simei dan berkata kepadanya: \"Bukankah aku telah menyuruh engkau bersumpah demi TUHAN dan telah memperingatkan engkau, begini: Ketahuilah sungguh-sungguh, bahwa pada waktu engkau keluar dan pergi ke mana-manapun, pastilah engkau mati dibunuh! Dan engkau telah menjawab: Baiklah demikian, aku akan mentaatinya."
   },
   {Bible:"1Kings", Chapter:2, Verse:43, Page:1,
-    Kor:"그런데 어찌하여, 주님께 맹세한 것과, 내가 당신에게 명령한 것을, 당신은 지키지 않았소?\"",
+    Kor:"그런데 어찌하여, 주께 맹세한 것과, 내가 너에게 명령한 것을, 너는 지키지 않았느냐?\"",
     Chn:"现在你为何不遵守你指着耶和华起的誓和我所吩咐你的命令呢？」",
     Eng:"Why then did you not keep your oath to the LORD and obey the command I gave you?\"",
     Ind:"Mengapa engkau tidak menepati sumpah demi TUHAN itu dan juga perintah yang kuperintahkan kepadamu?\""
   },
   {Bible:"1Kings", Chapter:2, Verse:44, Page:1,
-    Kor:"왕은 계속하여 시므이에게 말하였다. \"당신은, 당신이 나의 아버지 다윗 왕에게 저지른 그 모든 일을, 스스로 잘 알고 있을 것이오. 그러므로 주님께서 당신이 저지른 일을 당신에게 갚으실 것이오.",
+    Kor:"왕은 계속하여 시므이에게 말하였다. \"너는, 네가 나의 아버지 다윗 왕에게 저지른 그 모든 일을, 스스로 잘 알고 있을 것이다. 그러므로 주께서 네가 저지른 일을 너에게 갚으실 것이다.",
     Chn:"王又对示每说：「你向我父亲大卫所行的一切恶事，你自己心里也知道，所以耶和华必使你的罪恶归到自己的头上；",
     Eng:"The king also said to Shimei, \"You know in your heart all the wrong you did to my father David. Now the LORD will repay you for your wrongdoing.",
     Ind:"Kemudian kata raja kepada Simei: \"Engkau sendiri tahu dalam hatimu segala kejahatan yang kauperbuat kepada Daud, ayahku, maka TUHAN telah menanggungkan kejahatanmu itu kepadamu sendiri."
   },
   {Bible:"1Kings", Chapter:2, Verse:45, Page:1,
-    Kor:"그러나 나 솔로몬 왕은 복을 받고, 다윗의 보좌는 주님 앞에서 영원토록 견고하게 서 있을 것이오.\"",
+    Kor:"그러나 나 솔로몬 왕은 복을 받고, 다윗의 보좌는 주 앞에서 영원토록 견고하게 서 있을 것이다.\"",
     Chn:"惟有所罗门王必得福，并且大卫的国位必在耶和华面前坚定，直到永远。」",
     Eng:"But King Solomon will be blessed, and David's throne will remain secure before the LORD forever.\"",
     Ind:"Tetapi diberkatilah kiranya raja Salomo dan kokohlah takhta Daud di hadapan TUHAN sampai selama-lamanya.\""

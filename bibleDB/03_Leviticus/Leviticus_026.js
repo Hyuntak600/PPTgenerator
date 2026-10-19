@@ -9,13 +9,13 @@ BibleDB.add([
     Ind:"\"Janganlah kamu membuat berhala bagimu, dan patung atau tugu berhala janganlah kamu dirikan bagimu; juga batu berukir janganlah kamu tempatkan di negerimu untuk sujud menyembah kepadanya, sebab Akulah TUHAN, Allahmu."
   },
   {Bible:"Leviticus", Chapter:26, Verse:2, Page:1,
-    Kor:"너희는 내가 정하여 준 안식의 절기들을 지켜야 한다. 너희는 나에게 예배하는 성소를 속되게 해서는 안 된다. 나는 주다.\"",
+    Kor:"너희는 내가 정하여 준 안식의 절기들을 지켜야 한다. 너희는 나에게 예배하는 성소를 속되게 해서는 안 된다. 나는 주다.",
     Chn:"你们要守我的安息日，敬我的圣所。我是耶和华。",
     Eng:"\"'Observe my Sabbaths and have reverence for my sanctuary. I am the LORD.",
     Ind:"Kamu harus memelihara hari-hari Sabat-Ku dan menghormati tempat kudus-Ku, Akulah TUHAN."
   },
   {Bible:"Leviticus", Chapter:26, Verse:3, Page:1,
-    Kor:"<상과 벌> ○\"너희가, 내가 세운 규례를 따르고, 내가 명한 계명을 그대로 받들어 지키면,",
+    Kor:"○너희가, 내가 세운 규례를 따르고, 내가 명한 계명을 그대로 받들어 지키면,",
     Chn:"「你们若遵行我的律例，谨守我的诫命，",
     Eng:"\"'If you follow my decrees and are careful to obey my commands,",
     Ind:"Jikalau kamu hidup menurut ketetapan-Ku dan tetap berpegang pada perintah-Ku serta melakukannya,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lima orang dari antaramu akan mengejar seratus, dan seratus orang dari antaramu akan mengejar selaksa dan semua musuhmu akan tewas di hadapanmu oleh pedang."
   },
   {Bible:"Leviticus", Chapter:26, Verse:9, Page:1,
-    Kor:"나는 너희를 보살펴, 자손을 낳게 하고, 자손이 많게 하겠다. 너희와 세운 언약을 나는 꼭 지킨다.",
+    Kor:"나는 너희를보살펴, 자손을 낳게 하고, 자손이 많게 하겠다. 너희와 세운 언약을 나는 꼭 지킨다.",
     Chn:"我要眷顾你们，使你们生养众多，也要与你们坚定所立的约。",
     Eng:"\"'I will look on you with favor and make you fruitful and increase your numbers, and I will keep my covenant with you.",
     Ind:"Dan Aku akan berpaling kepadamu dan akan membuat kamu beranak cucu serta bertambah banyak dan Aku akan meneguhkan perjanjian-Ku dengan kamu."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"maka Akupun akan bertindak melawan kamu dan Aku sendiri akan menghukum kamu tujuh kali lipat karena dosamu,"
   },
   {Bible:"Leviticus", Chapter:26, Verse:25, Page:1,
-    Kor:"내가 너희에게 전쟁을 보내어서, 너희가 언약을 어긴 것을 보복하겠다. 너희가 여러 성읍으로 피하면, 너희에게 재앙을 뒤따라 보내서라도, 너희를 원수의 손에 넘겨 주겠다.",
+    Kor:"내가 너희에게 전쟁을 보내서, 너희가 언약을 어긴 것을 보복하겠다. 너희가 여러 성읍으로 피하면, 너희에게 재앙을 뒤따라 보내서라도, 너희를 원수의 손에 넘겨 주겠다.",
     Chn:"我又要使刀剑临到你们，报复你们背约的仇；聚集你们在各城内，降瘟疫在你们中间，也必将你们交在仇敌的手中。",
     Eng:"And I will bring the sword upon you to avenge the breaking of the covenant. When you withdraw into your cities, I will send a plague among you, and you will be given into enemy hands.",
     Ind:"dan Aku akan mendatangkan ke atasmu suatu pedang, yang akan melakukan pembalasan oleh karena perjanjian itu; bila kamu berkumpul kelak di kota-kotamu, maka Aku akan melepas penyakit sampar ke tengah-tengahmu dan kamu akan diserahkan ke dalam tangan musuh."
   },
   {Bible:"Leviticus", Chapter:26, Verse:26, Page:1,
-    Kor:"내가 먹거리를 끊어 버리면, 열 여인이 너희가 먹을 빵을 한 화덕에서 구울 것이며, 그 여인들은 빵을 저울에 달아 너희에게 줄 것이다. 그러면 너희는, 먹기는 먹어도 여전히 배가 고플 것이다.",
+    Kor:"내가 먹을거리를 끊어 버리면, 열 여인이 너희가 먹을 빵을 한 화덕에서 구울 것이며, 그 여인들은 빵을 저울에 달아 너희에게 줄 것이다. 그러면 너희는, 먹기는 먹어도 여전히 배가 고플 것이다.",
     Chn:"我要折断你们的杖，就是断绝你们的粮。那时，必有十个女人在一个炉子给你们烤饼，按分量秤给你们；你们要吃，也吃不饱。",
     Eng:"When I cut off your supply of bread, ten women will be able to bake your bread in one oven, and they will dole out the bread by weight. You will eat, but you will not be satisfied.",
     Ind:"Jika Aku memusnahkan persediaan makananmu, maka sepuluh perempuan akan membakar roti di dalam satu pembakaran. Mereka akan mengembalikan rotimu menurut timbangan tertentu, dan kamu akan makan, tetapi tidak menjadi kenyang."
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"Untuk keselamatan mereka Aku akan mengingat perjanjian dengan orang-orang dahulu yang Kubawa keluar dari tanah Mesir di depan mata bangsa-bangsa lain, supaya Aku menjadi Allah mereka; Akulah TUHAN.\""
   },
   {Bible:"Leviticus", Chapter:26, Verse:46, Page:1,
-    Kor:"○이상은 주님께서 시내 산에서 모세를 시켜, 주님과 이스라엘 자손 사이에 세우신 여러 가지 규례와 법도와 율법이다.",
+    Kor:"○이상은 주께서 시내 산에서 모세를 시켜, 주님과 이스라엘 자손 사이에 세우신 여러 가지 규례와 법도와 율법이다.",
     Chn:"这些律例、典章，和法度是耶和华与以色列人在西奈山借着摩西立的。",
     Eng:"These are the decrees, the laws and the regulations that the LORD established on Mount Sinai between himself and the Israelites through Moses.",
     Ind:"Itulah ketetapan-ketetapan dan peraturan-peraturan serta hukum-hukum yang diberikan TUHAN, berlaku di antara Dia dengan orang Israel, di gunung Sinai, dengan perantaraan Musa."

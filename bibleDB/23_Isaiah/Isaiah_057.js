@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",57,21);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:57, Verse:1, Page:1,
-    Kor:"<우상숭배를 규탄하시다> 의인이 a망해도 그것을 마음에 두는 자가 없고, b경건한 사람이 이 세상을 떠나도 그 뜻을 깨닫는 자가 없다. 의인이 세상을 떠나는 것은, 실상은 재앙을 피하여 가는 것이다. (a 또는 '죽어도' b 또는 '자비한 사람이')",
+    Kor:"의인이 망해도 그것을 마음에 두는 자가 없고, 경건한 사람이 이 세상을 떠나도 그 뜻을 깨닫는 자가 없다. 의인이 세상을 떠나는 것은, 실상은 재앙을 피하여 가는 것이다.",
     Chn:"义人死亡， 无人放在心上； 虔诚人被收去， 无人思念。 这义人被收去是免了将来的祸患；",
     Eng:"The righteous perish, and no one ponders it in his heart; devout men are taken away, and no one understands that the righteous are taken away to be spared from evil.",
     Ind:"Orang benar binasa, dan tidak ada seorangpun yang memperhatikannya; orang-orang saleh tercabut nyawanya, dan tidak ada seorangpun yang mengindahkannya; sungguh, karena merajalelanya kejahatan, tercabutlah nyawa orang benar"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Tentang siapakah kamu berkelakar, terhadap siapakah kamu melontarkan kata-kata yang bukan-bukan dan mengejeknya? Bukankah kamu ini anak-anak pemberontak, keturunan pendusta,"
   },
   {Bible:"Isaiah", Chapter:57, Verse:5, Page:1,
-    Kor:"너희는 c상수리나무 사이에서, 모든 푸른 나무 아래에서, 정욕에 불타 바람을 피우며, 골짜기 가운데서, 갈라진 바위 밑에서, 자식들을 죽여 제물로 바쳤다. (c 또는 '우상으로 더불어')",
+    Kor:"너희는 상수리나무 사이에서, 모든 푸른 나무 아래에서, 정욕에 불타 바람을 피우며, 골짜기 가운데서, 갈라진 바위 밑에서, 자식들을 죽여 제물로 바쳤다.",
     Chn:"你们在橡树中间，在各青翠树下欲火攻心； 在山谷间，在石穴下杀了儿女；",
     Eng:"You burn with lust among the oaks and under every spreading tree; you sacrifice your children in the ravines and under the overhanging crags.",
     Ind:"hai orang-orang yang terbakar oleh hawa nafsu dekat pohon-pohon keramat, di bawah setiap pohon yang rimbun, hai orang-orang yang menyembelih anak-anak di lembah-lembah, di dalam celah-celah bukit batu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Engkau telah menaruh lambang berhalamu di ambang pintu masuk rumahmu, ya, engkau telah meninggalkan Aku dan menelanjangi dirimu, engkau telah menaiki petiduranmu dan telah melebarkannya; engkau telah mengadakan janji dengan beberapa orang yang kauingini untuk tidur bersama-sama mereka dan engkau memandangi lingga."
   },
   {Bible:"Isaiah", Chapter:57, Verse:9, Page:1,
-    Kor:"너는 또 d몰렉에게 가려고, 몸에 기름을 바르고 향수를 듬뿍 뿌렸다. 섬길 신들을 찾느라고 먼 나라에 e사신들을 보내고, f스올에까지 사절을 내려 보냈다. (d 또는 '왕에게' e 또는 '우상들을' f 또는 '무덤' 또는 '죽음')",
+    Kor:"너는 또 몰렉에게 가려고, 몸에 기름을 바르고 향수를 듬뿍 뿌렸다. 섬길 신들을 찾느라고 먼 나라에 사신들을 보내고, 스올에까지 사절을 내려 보냈다.",
     Chn:"你把油带到王那里， 又多加香料， 打发使者往远方去， 自卑自贱直到阴间，",
     Eng:"You went to Molech with olive oil and increased your perfumes. You sent your ambassadors far away; you descended to the grave itself!",
     Ind:"Engkau datang menghadap Molokh dengan membawa minyak dan banyak-banyak wangi-wangian; engkau menyuruh duta-dutamu pergi sampai jauh, dan sampai ke bawah di dunia orang mati."
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Kepada siapa gerangan engkau gentar dan takut, sehingga engkau berdusta dan tidak mengingat Aku atau memberi perhatian kepada-Ku? Bukankah karena Aku membisu dan menutup mata, maka engkau tidak takut kepada-Ku!"
   },
   {Bible:"Isaiah", Chapter:57, Verse:12, Page:1,
-    Kor:"너는 네가 하는 일이 다 옳다고 생각하겠지만, 네가 한 일을 내가 다 폭로할 것이니, 너의 우상들이 너를 돕지 못할 것이다.",
+    Kor:"너는 네가 하는 일이 다 옳다고 생각하겠지만, 네가 한 일을 내가 다 폭로하리니, 너의 우상들이 너를 돕지 못할 것이다.",
     Chn:"我要指明你的公义； 至于你所行的都必与你无益。",
     Eng:"I will expose your righteousness and your works, and they will not benefit you.",
     Ind:"Aku akan menyebutkan kesalehanmu dan segala perbuatanmu, tetapi semuanya itu tidak akan berguna bagimu:"
   },
   {Bible:"Isaiah", Chapter:57, Verse:13, Page:1,
-    Kor:"너의 우상들에게 살려 달라고 부르짖어 보아라. 오히려 바람이 우상들을 날려 버릴 것이며, 입김이 그것들을 쓸어 버릴 것이다. 그러나  나에게로 피하여 오는 사람은, 땅을 차지하여 거기에서 살고, 나의 거룩한 성전에서 나를 예배할 것이다.\"",
+    Kor:"너의 우상들에게 살려 달라고 부르짖어 보아라. 오히려 바람이 우상들을 날려 버릴 것이며, 입김이 그것들을 쓸어 버릴 것이다. 그러나 나에게로 피하여 오는 사람은, 땅을 차지하여 거기에서 살고, 나의 거룩한 성전에서 나를 예배할 것이다.\"",
     Chn:"你哀求的时候， 让你所聚集的拯救你吧！ 风要把他们刮散， 一口气要把他们都吹去。 但那投靠我的必得地土， 必承受我的圣山为业。",
     Eng:"When you cry out for help, let your collection of idols save you! The wind will carry all of them off, a mere breath will blow them away. But the man who makes me his refuge will inherit the land and possess my holy mountain.\"",
     Ind:"apabila engkau berteriak, biarlah berhala-berhalamu melepaskan engkau! Mereka semua akan ditiup angin, akan diterbangkan hembusan nafas. Tetapi orang yang berlindung kepada-Ku akan mewarisi negeri dan akan memiliki gunung-Ku yang kudus."
   },
   {Bible:"Isaiah", Chapter:57, Verse:14, Page:1,
-    Kor:"<도우시고 고치시겠다고 하신 약속> \"내가 말한다. 땅을 돋우고 돋우어서 길을 내어라. 나의 백성이 걷는 길에 거치는 것이 없게 하여라.\"",
+    Kor:"\"내가 말한다. 땅을 돋우고 돋우어서 길을 내어라. 나의 백성이 걷는 길에 거치는 것이 없게 하여라.\"",
     Chn:"耶和华要说： 你们修筑修筑，预备道路， 将绊脚石从我百姓的路中除掉。",
     Eng:"And it will be said: \"Build up, build up, prepare the road! Remove the obstacles out of the way of my people.\"",
     Ind:"Ada yang berkata: \"Bukalah, bukalah, persiapkanlah jalan, angkatlah batu sandungan dari jalan umat-Ku!\""
   },
   {Bible:"Isaiah", Chapter:57, Verse:15, Page:1,
-    Kor:"지극히 높으신 분, g영원히 살아 계시며, 거룩한 이름을 가지신 분께서, 이렇게 말씀하신다. \"내가 비록 높고 거룩한 곳에 있으나, 겸손한 사람과도 함께 있고, 잘못을 뉘우치고 회개하는 사람과도 함께 있다. 겸손한 사람과 함께 있으면서 그들에게 용기를 북돋우어 주고, 회개하는 사람과 같이 있으면서 그들의 상한 마음을 아물게 하여 준다. (g 또는 '보좌에 앉아 계시는 이')",
+    Kor:"지극히 높으신 분, 영원히 살아 계시며, 거룩한 이름을 가지신 분께서, 이렇게 말씀하신다. \"내가 비록 높고 거룩한 곳에 있으나, 겸손한 사람과도 함께 있고, 잘못을 뉘우치고 회개하는 사람과도 함께 있다. 겸손한 사람과 함께 있으면서 그들에게 용기를 북돋우어 주고, 회개하는 사람과 같이 있으면서 그들의 상한 마음을 아물게 하여 준다.",
     Chn:"因为那至高至上、永远长存 名为圣者的如此说： 我住在至高至圣的所在， 也与心灵痛悔谦卑的人同居； 要使谦卑人的灵苏醒， 也使痛悔人的心苏醒。",
     Eng:"For this is what the high and lofty One says--he who lives forever, whose name is holy: \"I live in a high and holy place, but also with him who is contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.",
     Ind:"Sebab beginilah firman Yang Mahatinggi dan Yang Mahamulia, yang bersemayam untuk selamanya dan Yang Mahakudus nama-Nya: \"Aku bersemayam di tempat tinggi dan di tempat kudus tetapi juga bersama-sama orang yang remuk dan rendah hati, untuk menghidupkan semangat orang-orang yang rendah hati dan untuk menghidupkan hati orang-orang yang remuk."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Sebab bukan untuk selama-lamanya Aku hendak berbantah, dan bukan untuk seterusnya Aku hendak murka, supaya semangat mereka jangan lemah lesu di hadapan-Ku, padahal Akulah yang membuat nafas kehidupan."
   },
   {Bible:"Isaiah", Chapter:57, Verse:17, Page:1,
-    Kor:"사람의 탐욕스러운 죄 때문에 내가 노하여 그들을 쳤고, 내가 노하여 나의 얼굴을 가렸다. 그래도 그들은 끝내 나를 거역하고 제 마음에 내키는 길로 가버렸다.",
+    Kor:"사람의 탐욕스러운 죄 때문에 내가 노하여 그들을 쳤고, 내가 노하여 나의 얼굴을 가렸다. 그래도 그들은 마침내 나를 거역하고 제 마음에 내키는 길로 가버렸다.",
     Chn:"因他贪婪的罪孽，我就发怒击打他； 我向他掩面发怒， 他却仍然随心背道。",
     Eng:"I was enraged by his sinful greed; I punished him, and hid my face in anger, yet he kept on in his willful ways.",
     Ind:"Aku murka karena kesalahan kelobaannya, Aku menghajar dia, menyembunyikan wajah-Ku dan murka, tetapi dengan murtad ia menempuh jalan yang dipilih hatinya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Aku telah melihat segala jalannya itu, tetapi Aku akan menyembuhkan dan akan menuntun dia dan akan memulihkan dia dengan penghiburan; juga pada bibir orang-orangnya yang berkabung"
   },
   {Bible:"Isaiah", Chapter:57, Verse:19, Page:1,
-    Kor:"이제 내가 말로 평화를 창조한다. 먼 곳에 있는 사람과 가까운 곳에 있는 사람에게 평화, 평화가 있어라.\" 주님께서 약속하신다. \"내가 너를 고쳐 주마.\"",
+    Kor:"이제 내가 말로 평화를 창조한다. 먼 곳에 있는 사람과 가까운 곳에 있는 사람에게 평화, 평화가 있어라.\" 주께서 약속하신다. \"내가 너를 고쳐 주마.\"",
     Chn:"我造就嘴唇的果子； 愿平安康泰归与远处的人， 也归与近处的人； 并且我要医治他。 这是耶和华说的。",
     Eng:"creating praise on the lips of the mourners in Israel. Peace, peace, to those far and near,\" says the LORD. \"And I will heal them.\"",
     Ind:"Aku akan menciptakan puji-pujian. Damai, damai sejahtera bagi mereka yang jauh dan bagi mereka yang dekat--firman TUHAN--Aku akan menyembuhkan dia!"

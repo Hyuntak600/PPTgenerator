@@ -3,13 +3,13 @@
 BibleDB.ref("Hosea",2,23);
 BibleDB.add([
   {Bible:"Hosea", Chapter:2, Verse:1, Page:1,
-    Kor:"이제 너희는 형제를 a암미라고 하고, 자매를 b루하마라고 하여라.\" (a '내 백성이다' b '불쌍히 여김을 받는 딸')",
+    Kor:"이제 너희는 형제를 암미라고 하고, 자매를 루하마라고 하여라.\"",
     Chn:"你们要称你们的弟兄为阿米，称你们的姊妹为路哈玛。",
     Eng:"\"Say of your brothers, 'My people,' and of your sisters, 'My loved one.'",
     Ind:"(1-12) Katakanlah kepada saudara-saudaramu laki-laki: \"Ami!\" dan kepada saudara-saudaramu perempuan: \"Ruhama!\""
   },
   {Bible:"Hosea", Chapter:2, Verse:2, Page:1,
-    Kor:"<성실하지 않은 고멜, 성실하지 않은 이스라엘> \"고발하여라. 너희 어머니를 고발하여라. 그는 이제 나의 아내가 아니며, 나는 그의 남편이 아니다. 그의 얼굴에서 색욕을 없애고, 그의 젖가슴에서 음행의 자취를 지우라고 하여라!",
+    Kor:"\"고발하여라. 너희 어머니를 고발하여라. 그는 이제 나의 아내가 아니며, 나는 그의 남편이 아니다. 그의 얼굴에서 색욕을 없애고, 그의 젖가슴에서 음행의 자취를 지우라고 하여라!",
     Chn:"你们要与你们的母亲大大争辩； 因为她不是我的妻子， 我也不是她的丈夫。 叫她除掉脸上的淫像 和胸间的淫态，",
     Eng:"\"Rebuke your mother, rebuke her, for she is not my wife, and I am not her husband. Let her remove the adulterous look from her face and the unfaithfulness from between her breasts.",
     Ind:"(2-1) \"Adukanlah ibumu, adukanlah, sebab dia bukan isteri-Ku, dan Aku ini bukan suaminya; biarlah dijauhkannya sundalnya dari mukanya, dan zinahnya dari antara buah dadanya,"
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"(2-12) Dan Aku akan menghukum dia karena hari-hari ketika dia membakar korban untuk para Baal, berhias dengan anting-antingnya dan kalungnya, dan mengikuti para kekasihnya dan melupakan Aku,\" demikianlah firman TUHAN."
   },
   {Bible:"Hosea", Chapter:2, Verse:14, Page:1,
-    Kor:"<백성을 향한 주님의 사랑> \"그러므로 이제 내가 그를 꾀어서, 빈 들로 데리고 가겠다. 거기에서 내가 그를 다정한 말로 달래 주겠다.",
+    Kor:"\"그러므로 이제 내가 그를 꾀어서, 빈 들로 데리고 가겠다. 거기에서 내가 그를 다정한 말로 달래 주겠다.",
     Chn:"后来我必劝导她，领她到旷野， 对她说安慰的话。",
     Eng:"\"Therefore I am now going to allure her; I will lead her into the desert and speak tenderly to her.",
     Ind:"(2-13) \"Sebab itu, sesungguhnya, Aku ini akan membujuk dia, dan membawa dia ke padang gurun, dan berbicara menenangkan hatinya."
   },
   {Bible:"Hosea", Chapter:2, Verse:15, Page:1,
-    Kor:"그런 다음에, 내가 거기에서 포도원을 그에게 되돌려 주고, c아골 평원이 희망의 문이 되게 하면, 그는 젊을 때처럼, 이집트 땅에서 올라올 때처럼, 거기에서 나를 기쁘게 대할 것이다. (c '고통')",
+    Kor:"그런 다음에, 내가 거기에서 포도원을 그에게 되돌려 주고, 아골 평원이 희망의 문이 되게 하면, 그는 젊을 때처럼, 이집트 땅에서 올라올 때처럼, 거기에서 나를 기쁘게 대할 것이다.",
     Chn:"她从那里出来，我必赐她葡萄园， 又赐她亚割谷作为指望的门。 她必在那里应声， 与幼年的日子一样， 与从埃及地上来的时候相同。",
     Eng:"There I will give her back her vineyards, and will make the Valley of Achor a door of hope. There she will sing as in the days of her youth, as in the day she came up out of Egypt.",
     Ind:"(2-14) Aku akan memberikan kepadanya kebun anggurnya dari sana, dan membuat lembah Akhor menjadi pintu pengharapan. Maka dia akan merelakan diri di sana seperti pada masa mudanya, seperti pada waktu dia berangkat keluar dari tanah Mesir."
   },
   {Bible:"Hosea", Chapter:2, Verse:16, Page:1,
-    Kor:"그 날에 너는 나를 '나의 남편'이라고 부르고, 다시는 d'나의 주인'이라고 부르지 않을 것이다. 나 주의 말이다. (d 히, '나의 바알')",
+    Kor:"그 날에 너는 나를 '나의 남편'이라고 부르고, 다시는 '나의 주인'이라고 부르지 않을 것이다. 나 주의 말이다.",
     Chn:"耶和华说：「那日你必称呼我伊施，不再称呼我巴力；",
     Eng:"\"In that day,\" declares the LORD, \"you will call me 'my husband'; you will no longer call me 'my master.'",
     Ind:"(2-15) Maka pada waktu itu, demikianlah firman TUHAN, engkau akan memanggil Aku: Suamiku, dan tidak lagi memanggil Aku: Baalku!"
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"(2-20) Maka pada waktu itu, demikianlah firman TUHAN, Aku akan mendengarkan langit, dan langit akan mendengarkan bumi."
   },
   {Bible:"Hosea", Chapter:2, Verse:22, Page:1,
-    Kor:"땅은 곡식과 포도주와 올리브 기름에 응답하고, 이 먹거리들은 이스르엘에 응답할 것이다.",
+    Kor:"땅은 곡식과 포도주와 올리브 기름에 응답하고, 이 먹을거리들은 이스르엘에 응답할 것이다.",
     Chn:"地必应允五谷、新酒，和油， 这些必应允耶斯列民。",
     Eng:"and the earth will respond to the grain, the new wine and oil, and they will respond to Jezreel.",
     Ind:"(2-21) Bumi akan mendengarkan gandum, anggur dan minyak, dan mereka ini akan mendengarkan Yizreel."
   },
   {Bible:"Hosea", Chapter:2, Verse:23, Page:1,
-    Kor:"그 때에 내가 이스라엘을 이 땅에 심어서 e나의 백성으로 키우고, 로루하마를 사랑하여 루하마가 되게 할 것이다. 로암미에게 '이제 너는 암미다!' 하고 내가 말하면, 그가 나에게 '주님은 나의 하나님이십니다!' 하고 대답할 것이다.\" (e 히, '암미')",
+    Kor:"그 때에 내가 이스라엘을 이 땅에 심어서 나의 백성으로 키우고, 로루하마를 사랑하여 루하마가 되게 할 것이다. 로암미에게 '이제 너는 암미다!' 하고 내가 말하면, 그가 나에게 '주님은 나의 하나님이십니다!' 하고 대답할 것이다.\"",
     Chn:"我必将她种在这地。 素不蒙怜悯的，我必怜悯； 本非我民的，我必对他说： 你是我的民； 他必说：你是我的　神。」",
     Eng:"I will plant her for myself in the land; I will show my love to the one I called 'Not my loved one.' I will say to those called 'Not my people,' 'You are my people'; and they will say, 'You are my God.'\"",
     Ind:"(2-22) Aku akan menaburkan dia bagi-Ku di bumi, dan akan menyayangi Lo-Ruhama, dan Aku berkata kepada Lo-Ami: Umat-Ku engkau! dan ia akan berkata: Allahku!\""

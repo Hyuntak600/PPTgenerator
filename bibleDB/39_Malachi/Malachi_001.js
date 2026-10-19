@@ -3,13 +3,13 @@
 BibleDB.ref("Malachi",1,14);
 BibleDB.add([
   {Bible:"Malachi", Chapter:1, Verse:1, Page:1,
-    Kor:"다음은 주님께서 a말라기를 시켜 이스라엘 백성에게 경고하신 말씀이다.(a '나의 특사')",
+    Kor:"주께서 말라기를 시켜 이스라엘 백성에게 경고하신 말씀이다.",
     Chn:"耶和华借玛拉基传给以色列的默示。",
     Eng:"An oracle: The word of the LORD to Israel through Malachi.",
     Ind:"Ucapan ilahi. Firman TUHAN kepada Israel dengan perantaraan Maleakhi."
   },
   {Bible:"Malachi", Chapter:1, Verse:2, Page:1,
-    Kor:"<주님께서 이스라엘을 사랑하시다> \"나는 너희를 사랑한다. 나 주가 말한다. 그러나 너희는, '주님께서 우리를 사랑하신다는 증거가 어디에 있습니까?' 하고 묻는다. 에서는 야곱의 형이 아니더냐? 나 주가 말한다. 그런데도 내가 야곱은 사랑하고,",
+    Kor:"\"나는 너희를 사랑한다. 나 주가 말한다. 그러나 너희는, '주께서 우리를 사랑하신다는 증거가 어디에 있습니까?' 하고 묻는다. 에서는 야곱의 형이 아니냐? 나 주가 말한다. 그런데도 내가 야곱은 사랑하고,",
     Chn:"耶和华说：「我曾爱你们。」你们却说：「你在何事上爱我们呢？」耶和华说：「以扫不是雅各的哥哥吗？我却爱雅各，",
     Eng:"\"I have loved you,\" says the LORD. \"But you ask, 'How have you loved us?' \"Was not Esau Jacob's brother?\" the LORD says. \"Yet I have loved Jacob,",
     Ind:"\"Aku mengasihi kamu,\" firman TUHAN. Tetapi kamu berkata: \"Dengan cara bagaimanakah Engkau mengasihi kami?\" \"Bukankah Esau itu kakak Yakub?\" demikianlah firman TUHAN. \"Namun Aku mengasihi Yakub,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"tetapi membenci Esau. Sebab itu Aku membuat pegunungannya menjadi sunyi sepi dan tanah pusakanya Kujadikan padang gurun.\""
   },
   {Bible:"Malachi", Chapter:1, Verse:4, Page:1,
-    Kor:"에서의 자손인 에돔이, '비록 우리가 쓰러졌으나, 황폐된 곳을 다시 세우겠다' 하고 장담하지만, 나 만군의 주가 말한다. 세울 테면 세워 보라고 하여라. 내가 기어이 헐어 버리겠다. '악한 나라, 주에게 영원히 저주받은 백성' 이라고 불릴 것이다.",
+    Kor:"에서의 자손인 에돔이, '비록 우리가 쓰러졌으나, 황폐된 곳을 다시 세우겠다' 하고 장담하지만, 나 만군의 주가 말한다. 세울 테면 세워 보라고 하여라. 내가 기어이 헐어 버리겠다. '악한 나라, 주에게 영원히 저주받은 백성'이라고 불릴 것이다.",
     Chn:"以东人说：「我们现在虽被毁坏，却要重建荒废之处。」万军之耶和华如此说：「任他们建造，我必拆毁；人必称他们的地为『罪恶之境』；称他们的民为『耶和华永远恼怒之民』。」",
     Eng:"Edom may say, \"Though we have been crushed, we will rebuild the ruins.\" But this is what the LORD Almighty says: \"They may build, but I will demolish. They will be called the Wicked Land, a people always under the wrath of the LORD.",
     Ind:"Apabila Edom berkata: \"Kami telah hancur, tetapi kami akan membangun kembali reruntuhan itu,\" maka beginilah firman TUHAN semesta alam: \"Mereka boleh membangun, tetapi Aku akan merobohkannya; dan orang akan menyebutkannya daerah kefasikan dan bangsa yang kepadanya TUHAN murka sampai selama-lamanya.\""
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Matamu akan melihat dan kamu sendiri akan berkata: \"TUHAN maha besar sampai di luar daerah Israel.\""
   },
   {Bible:"Malachi", Chapter:1, Verse:6, Page:1,
-    Kor:"<제사장들의 죄> \"아들은 아버지를 공경하고 종은 제 주인을 두려워하는 법인데, 내가 너희 아버지라고 해서 너희가 나를 공경하기라도 하였느냐? 내가 너희 주인이라고 해서 너희가 나를 두려워하기라도 하였느냐? 나 만군의 주가 말한다. 제사장들아, 너희가 바로 내 이름을 멸시하는 자들이다. 그러나 너희는, '우리가 언제 주님의 이름을 멸시하였습니까?' 하고 되묻는다.",
+    Kor:"\"아들은 아버지를 공경하고 종은 제 주인을 두려워하는 법인데, 내가 너희 아버지라고 해서 너희가 나를 공경하기라도 하였느냐? 내가 너희 주인이라고 해서 너희가 나를 두려워하기라도 하였느냐? 나 만군의 주가 말한다. 제사장들아, 너희가 바로 내 이름을 멸시하는 자들이다. 그러나 너희는, '우리가 언제 주의 이름을 멸시하였습니까?' 하고 되묻는다.",
     Chn:"「藐视我名的祭司啊，万军之耶和华对你们说：儿子尊敬父亲，仆人敬畏主人；我既为父亲，尊敬我的在哪里呢？我既为主人，敬畏我的在哪里呢？你们却说：『我们在何事上藐视你的名呢？』",
     Eng:"\"A son honors his father, and a servant his master. If I am a father, where is the honor due me? If I am a master, where is the respect due me?\" says the LORD Almighty. \"It is you, O priests, who show contempt for my name. \"But you ask, 'How have we shown contempt for your name?'",
     Ind:"Seorang anak menghormati bapanya dan seorang hamba menghormati tuannya. Jika Aku ini bapa, di manakah hormat yang kepada-Ku itu? Jika Aku ini tuan, di manakah takut yang kepada-Ku itu? firman TUHAN semesta alam kepada kamu, hai para imam yang menghina nama-Ku. Tetapi kamu berkata: \"Dengan cara bagaimanakah kami menghina nama-Mu?\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Apabila kamu membawa seekor binatang buta untuk dipersembahkan, tidakkah itu jahat? Apabila kamu membawa binatang yang timpang dan sakit, tidakkah itu jahat? Cobalah menyampaikannya kepada bupatimu, apakah ia berkenan kepadamu, apalagi menyambut engkau dengan baik? firman TUHAN semesta alam."
   },
   {Bible:"Malachi", Chapter:1, Verse:9, Page:1,
-    Kor:"제사장들아, 이제 너희가 하나님께 '우리에게 은혜를 베풀어 주십시오' 하고 간구하여 보아라. 이것이 너희가 으레 하는 일이지만, 하나님이 너희를 좋게 보시겠느냐?\"  <백성이 하나님을 배신하다> \"나 만군의 주가 말한다.",
+    Kor:"제사장들아, 이제 너희가 하나님께 '우리에게 은혜를 베풀어 주십시오' 하고 간구하여 보아라. 이것이 너희가 으레 하는 일이지만, 하나님이 너희를 좋게 보시겠느냐?\"",
     Chn:"「现在我劝你们恳求　神，他好施恩与我们。这妄献的事，既由你们经手，他岂能看你们的情面吗？这是万军之耶和华说的。",
     Eng:"\"Now implore God to be gracious to us. With such offerings from your hands, will he accept you?\"--says the LORD Almighty.",
     Ind:"Maka sekarang: \"Cobalah melunakkan hati Allah, supaya Ia mengasihani kita!\" Oleh tangan kamulah terjadi hal itu, masakan Ia akan menyambut salah seorang dari padamu dengan baik? firman TUHAN semesta alam."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Sebab dari terbitnya sampai kepada terbenamnya matahari nama-Ku besar di antara bangsa-bangsa, dan di setiap tempat dibakar dan dipersembahkan korban bagi nama-Ku dan juga korban sajian yang tahir; sebab nama-Ku besar di antara bangsa-bangsa, firman TUHAN semesta alam."
   },
   {Bible:"Malachi", Chapter:1, Verse:12, Page:1,
-    Kor:"그런데 너희는, '주님께 차려 드리는 상쯤은 더러워져도 괜찮아!' 하면서, 너희들도 싫어하는 음식을 제물이라고 그 위에 바치니, 너희는 지금 내 이름을 더럽히고 있다.",
+    Kor:"그런데 너희는, '주께 차려 드리는 상쯤은 더러워져도 괜찮아!' 하면서, 너희들도 싫어하는 음식을 제물이라고 그 위에 바치니, 너희는 지금 내 이름을 더럽히고 있다.",
     Chn:"你们却亵渎我的名，说：『耶和华的桌子是污秽的，其上的食物是可藐视的。』",
     Eng:"\"But you profane it by saying of the Lord's table, 'It is defiled,' and of its food, 'It is contemptible.'",
     Ind:"Tetapi kamu ini menajiskannya, karena kamu menyangka: \"Meja Tuhan memang cemar dan makanan yang ada di situ boleh dihinakan!\""

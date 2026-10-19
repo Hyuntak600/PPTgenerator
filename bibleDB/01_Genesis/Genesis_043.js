@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",43,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:43, Verse:1, Page:1,
-    Kor:"<형들이 베냐민을 데리고 이집트로 가다> 그 땅에 기근이 더욱 심해 갔다.",
+    Kor:"그 땅에 기근이 더욱 심해 갔다.",
     Chn:"那地的饥荒甚大。",
     Eng:"Now the famine was still severe in the land.",
     Ind:"Tetapi hebat sekali kelaparan di negeri itu."
   },
   {Bible:"Genesis", Chapter:43, Verse:2, Page:1,
-    Kor:"그들이 이집트에서 가지고 온 곡식이 다 떨어졌을 때에, 아버지가 아들들에게 말하였다. \"다시 가서, 먹거리를 조금 더 사오너라.\"",
+    Kor:"그들이 이집트에서 가지고 온 곡식이 다 떨어졌을 때에, 아버지가 아들들에게 말하였다. \"다시 가서, 먹을거리를 조금 더 사오너라.\"",
     Chn:"他们从埃及带来的粮食吃尽了，他们的父亲就对他们说：「你们再去给我籴些粮来。」",
     Eng:"So when they had eaten all the grain they had brought from Egypt, their father said to them,  \"Go back and buy us a little more food.\"",
     Ind:"Dan setelah gandum yang dibawa mereka dari Mesir habis dimakan, berkatalah ayah mereka: \"Pergilah pula membeli sedikit bahan makanan untuk kita.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Israel: \"Mengapa kamu mendatangkan malapetaka kepadaku dengan memberitahukan kepada orang itu, bahwa masih ada adikmu seorang?\""
   },
   {Bible:"Genesis", Chapter:43, Verse:7, Page:1,
-    Kor:"그들이 대답하였다. \"그 사람은 우리와 우리 가족에 관하여서 낱낱이 캐물었습니다. '너희 아버지가 살아 계시냐?' 하고 묻기도 하고, 또 '다른 형제가 더 있느냐?' 하고 묻기도 하였습니다. 우리는 그저, 그가 묻는 대로 대답하였을 뿐입니다. 그가 우리의 아우를 그리로 데리고 오라고 말할 것이라고는 01 43:상상도 하지 못하였습니다.\"",
+    Kor:"그들이 대답하였다. \"그 사람은 우리와 우리 가족에 관하여서 낱낱이 캐물었습니다. '너희 아버지가 살아 계시냐?' 하고 묻기도 하고, 또 '다른 형제가 더 있느냐?' 하고 묻기도 하였습니다. 우리는 그저, 그가 묻는 대로 대답하였을 뿐입니다. 그가 우리의 아우를 그리로 데리고 오라고 말할 것이라고는 상상도 하지 못하였습니다.\"",
     Chn:"他们回答说：「那人详细问到我们和我们的亲属，说：『你们的父亲还在吗？你们还有兄弟吗？』我们就按着他所问的告诉他，焉能知道他要说『必须把你们的兄弟带下来』呢？」",
     Eng:"They replied, \"The man questioned us closely about ourselves and our family. 'Is your father  still living?' he asked us. 'Do you have another brother?' We simply answered his questions. How  were we to know he would say, 'Bring your brother down here'?\"",
     Ind:"Jawab mereka: \"Orang itu telah menanyai kami dengan seksama tentang kami sendiri dan tentang sanak saudara kita: Masih hidupkah ayahmu? Adakah adikmu lagi? Dan kami telah memberitahukan semuanya kepadanya seperti yang sebenarnya. Bagaimana kami dapat menduga bahwa ia akan berkata: Bawalah ke mari adikmu itu.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Bawalah juga adikmu itu, bersiaplah dan kembalilah pula kepada orang itu."
   },
   {Bible:"Genesis", Chapter:43, Verse:14, Page:1,
-    Kor:"너희들이 그 사람 앞에 설 때에, a전능하신 하나님이 그 사람을 감동시키셔서, 너희에게 자비를 베풀게 해주시기를 빌 뿐이다. 그가 거기에 남아 있는 아이와 베냐민도 너희와 함께 돌려 보내 준다면, 더 바랄 것이 없겠다. 자식들을 잃게 되면 잃는 것이지, 난들 어떻게 하겠느냐?\"(a 히, '엘샤다이')",
+    Kor:"너희들이 그 사람 앞에 설 때에, 전능하신 하나님이 그 사람을 감동시키셔서, 너희에게 자비를 베풀게 해주시기를 빌 뿐이다. 그가 거기에 남아 있는 아이와 베냐민도 너희와 함께 돌려 보내 준다면, 더 바랄 것이 없겠다. 자식들을 잃게 되면 잃는 것이지, 난들 어떻게 하겠느냐?\"",
     Chn:"但愿全能的　神使你们在那人面前蒙怜悯，释放你们的那弟兄和便雅悯回来。我若丧了儿子，就丧了吧！」",
     Eng:"And may God Almighty grant you mercy before the man so that he will let your other brother  and Benjamin come back with you. As for me, if I am bereaved, I am bereaved.\"",
     Ind:"Allah Yang Mahakuasa kiranya membuat orang itu menaruh belas kasihan kepadamu, supaya ia membiarkan saudaramu yang lain itu beserta Benyamin kembali. Mengenai aku ini, jika terpaksa aku kehilangan anak-anakku, biarlah juga kehilangan!\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu orang-orang itu mengambil persembahan itu dan mengambil uang dua kali lipat banyaknya, beserta Benyamin juga; mereka bersiap dan pergi ke Mesir. Kemudian berdirilah mereka di depan Yusuf."
   },
   {Bible:"Genesis", Chapter:43, Verse:16, Page:1,
-    Kor:"요셉은, 베냐민이 그들과 함께 온 것을 보고서, 자기 집 관리인에게 말하였다. \"이 사람들을 집으로 데리고 가시오. 짐승을 잡고, 밥상도 준비하시오. 이 사람들은 나와 함께 점심을 먹을 것이오.\"",
+    Kor:"요셉은, 베냐민이 그들과 함께 온 것을 보고서, 자기 집 관리인에게 말하였다. \"이 사람들을 집으로 데리고 가거라. 짐승을 잡고, 밥상도 준비하여라. 이 사람들은 나와 함께 점심을 먹을 것이다.\"",
     Chn:"约瑟见便雅悯和他们同来，就对家宰说：「将这些人领到屋里。要宰杀牲畜，预备筵席，因为晌午这些人同我吃饭。」",
     Eng:"When Joseph saw Benjamin with them, he said to the steward of his house, \"Take these men to  my house, slaughter an animal and prepare dinner; they are to eat with me at noon.\"",
     Ind:"Ketika Yusuf melihat Benyamin bersama-sama dengan mereka, berkatalah ia kepada kepala rumahnya: \"Bawalah orang-orang ini ke dalam rumah, sembelihlah seekor hewan dan siapkanlah itu, sebab orang-orang ini akan makan bersama-sama dengan aku pada tengah hari ini.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Orang itu melakukan seperti yang dikatakan Yusuf dan dibawanyalah orang-orang itu ke dalam rumah Yusuf."
   },
   {Bible:"Genesis", Chapter:43, Verse:18, Page:1,
-    Kor:"그 사람들은 요셉의 집으로 안내를 받아 들어가면서, 겁이 났다. 그들은 '지난 번에 여기에 왔을 적에, 우리가 낸 돈이, 알지도 못하는 사이에 우리의 자루 속에 담겨서 되돌아왔는데, 그 돈 때문에 우리가 이리로 끌려온다. 그 일로 그가 우리에게 달려들어서, 우리의 나귀를 빼앗고, 우리를 노예로 01 43:삼으려는 것이 틀림없다' 하고 걱정하였다.",
+    Kor:"그 사람들은 요셉의 집으로 안내를 받아 들어가면서, 겁이 났다. 그들은 \"지난 번에 여기에 왔을 적에, 우리가 낸 돈이, 알지도 못하는 사이에 우리의 자루 속에 담겨서 되돌아왔는데, 그 돈 때문에 우리가 이리로 끌려온다. 그 일로 그가 우리에게 달려들어서, 우리의 나귀를 빼앗고, 우리를 노예로 삼으려는 것이 틀림없다\" 하고 걱정하였다.",
     Chn:"他们因为被领到约瑟的屋里，就害怕，说：「领我们到这里来，必是因为头次归还在我们口袋里的银子，找我们的错缝，下手害我们，强取我们为奴仆，抢夺我们的驴。」",
     Eng:"Now the men were frightened when they were taken to his house. They thought, \"We were  brought here because of the silver that was put back into our sacks the first time. He wants to  attack us and overpower us and seize us as slaves and take our donkeys.\"",
     Ind:"Lalu ketakutanlah orang-orang itu, karena mereka dibawa ke dalam rumah Yusuf. Kata mereka: \"Yang menjadi sebab kita dibawa ke sini, ialah perkara uang yang dikembalikan ke dalam karung kita pada mulanya itu, supaya kita disergap dan ditangkap dan supaya kita dijadikan budak dan keledai kita diambil.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Uang lain kami bawa juga ke mari untuk membeli bahan makanan; kami tidak tahu siapa yang menaruh uang kami itu ke dalam karung kami.\""
   },
   {Bible:"Genesis", Chapter:43, Verse:23, Page:1,
-    Kor:"그 관리인이 말하였다. \"그 동안 별고 없으셨습니까? 걱정하지 마십시오. 댁들을 돌보시는 하나님, 댁들의 조상을 돌보신 그 하나님이 그 자루에 보물을 넣어 주신 것입니다. 나는 댁들이 낸 돈을 받았습니다.\" 이렇게 말하면서, 관리인은 시므온을 그들에게로 데리고 왔다.",
+    Kor:"그 관리인이 말하였다. \"그 동안 별고 없으셨는지요? 걱정하지 마십시오. 댁들을 돌보시는 하나님, 댁들의 조상을 돌보신 그 하나님이 그 자루에 보물을 넣어 주신 것입니다. 나는 댁들이 낸 돈을 받았습니다.\" 이렇게 말하면서, 관리인은 시므온을 그들에게로 데리고 왔다.",
     Chn:"家宰说：「你们可以放心，不要害怕，是你们的　神和你们父亲的　神赐给你们财宝在你们的口袋里；你们的银子，我早已收了。」他就把西缅带出来，交给他们。",
     Eng:"\"It's all right,\" he said. \"Don't be afraid. Your God, the God of your father, has given  you treasure in your sacks; I received your silver.\" Then he brought Simeon out to them.",
     Ind:"Tetapi jawabnya: \"Tenang sajalah, jangan takut; Allahmu dan Allah bapamu telah memberikan kepadamu harta terpendam dalam karungmu; uangmu itu telah kuterima.\" Kemudian dikeluarkannyalah Simeon dan dibawanya kepada mereka."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Setelah orang itu membawa mereka ke dalam rumah Yusuf, diberikannyalah air, supaya mereka membasuh kaki; juga keledai mereka diberinya makan."
   },
   {Bible:"Genesis", Chapter:43, Verse:25, Page:1,
-    Kor:"그들은 거기에서 점심을 먹게 된다는 말을 들었으므로, 정오에 올 요셉을 기다리면서, 장만해 온 선물을 정돈하고 있었다.",
+    Kor:"그들은 거기에서 밥을 먹게 된다는 말을 들었으므로, 정오에 올 요셉을 기다리면서, 장만해 온 선물을 정돈하고 있었다.",
     Chn:"他们就预备那礼物，等候约瑟晌午来，因为他们听见要在那里吃饭。",
     Eng:"They prepared their gifts for Joseph's arrival at noon, because they had heard that they  were to eat there.",
     Ind:"Sesudah itu mereka menyiapkan persembahannya menantikan Yusuf datang pada waktu tengah hari, sebab mereka telah mendengar, bahwa mereka akan makan di situ."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu segeralah Yusuf pergi dari situ, sebab hatinya sangat terharu merindukan adiknya itu, dan dicarinyalah tempat untuk menangis; ia masuk ke dalam kamar, lalu menangis di situ."
   },
   {Bible:"Genesis", Chapter:43, Verse:31, Page:1,
-    Kor:"얼굴을 씻고 도로 나와서, 그 정을 누르면서, 밥상을 차리라고 명령하였다.",
+    Kor:"얼굴을 씻고, 도로 나와서, 그 정을 누르면서 \"밥상을 차려라\" 하고 명령하였다.",
     Chn:"他洗了脸出来，勉强隐忍，吩咐人摆饭。",
     Eng:"After he had washed his face, he came out and, controlling himself, said, \"Serve the food.\"",
     Ind:"Sesudah itu dibasuhnyalah mukanya dan ia tampil ke luar. Ia menahan hatinya dan berkata: \"Hidangkanlah makanan.\""

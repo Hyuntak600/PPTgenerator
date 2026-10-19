@@ -1,15 +1,15 @@
 // 여호수아 24장 · Joshua 24
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("Joshua",24,33);
+BibleDB.ref("Joshua",24,34);
 BibleDB.add([
   {Bible:"Joshua", Chapter:24, Verse:1, Page:1,
-    Kor:"<여호수아가 세겜에 모인 백성에게 당부함> 여호수아가 이스라엘의 모든 지파를 세겜에 모이게 하였다. 그가 이스라엘의 장로들과 그 우두머리들과 재판관들과 공직자들을 불러내니, 그들이 하나님 앞에 나와서 섰다.",
+    Kor:"여호수아가 이스라엘의 모든 지파를 세겜에 모이게 하였다. 그가 이스라엘의 장로들과 그 우두머리들과 재판관들과 공직자들을 불러내니, 그들이 하나님 앞에 나와서 섰다.",
     Chn:"约书亚将以色列的众支派聚集在示剑，召了以色列的长老、族长、审判官，并官长来，他们就站在　神面前。",
     Eng:"Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges and officials of Israel, and they presented themselves before God.",
     Ind:"Kemudian Yosua mengumpulkan semua suku orang Israel di Sikhem. Dipanggilnya para tua-tua orang Israel, para kepalanya, para hakimnya dan para pengatur pasukannya, lalu mereka berdiri di hadapan Allah."
   },
   {Bible:"Joshua", Chapter:24, Verse:2, Page:1,
-    Kor:"그 때에 여호수아가 온 백성에게 말하였다. \"주 이스라엘의 하나님이 이렇게 말씀하셨습니다. ○'옛날에 아브라함과 나홀의 아비 데라를 비롯한 너희 조상은 유프라테스 강 건너에 살면서 다른 신들을 섬겼다.",
+    Kor:"그 때에 여호수아가 온 백성에게 말하였다. \"주 이스라엘의 하나님이 이렇게 말씀하셨소. ○'옛날에, 아브라함과 나홀의 아비 데라를 비롯한 너희 조상은 유프라테스 강 건너에 살면서 다른 신들을 섬겼다.",
     Chn:"约书亚对众民说：「耶和华—以色列的　神如此说：『古时你们的列祖，就是亚伯拉罕和拿鹤的父亲他拉，住在大河那边事奉别神，",
     Eng:"Joshua said to all the people, \"This is what the LORD, the God of Israel, says: 'Long ago your forefathers, including Terah the father of Abraham and Nahor, lived beyond the River and worshiped other gods.",
     Ind:"Berkatalah Yosua kepada seluruh bangsa itu: \"Beginilah firman TUHAN, Allah Israel: Dahulu kala di seberang sungai Efrat, di situlah diam nenek moyangmu, yakni Terah, ayah Abraham dan ayah Nahor, dan mereka beribadah kepada allah lain."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Setelah Aku membawa nenek moyangmu keluar dari Mesir dan kamu sampai ke laut, lalu orang Mesir mengejar nenek moyangmu dengan kereta dan orang berkuda ke Laut Teberau."
   },
   {Bible:"Joshua", Chapter:24, Verse:7, Page:1,
-    Kor:"너희의 조상이 살려 달라고 나 주에게 부르짖을 때에, 내가 너희들과 이집트 사람들 사이에 흑암이 생기게 하고, 바닷물을 이끌어 와서 그들을 덮었다. 너희는 내가 이집트에서 한 일을 너희 눈으로 직접 보았다. 너희가 광야에서 오랫동안 지낸 뒤에,",
+    Kor:"너희의 조상이 살려 달라고 나 주에게 부르짖을 때에, 내가, 너희들과 이집트 사람들 사이에 흑암이 생기게 하고, 바닷물을 이끌어 와서 그들을 덮었다. 너희는, 내가 이집트에서 한 일을 너희 눈으로 직접 보았다. 너희가 광야에서 오랫동안 지낸 뒤에,",
     Chn:"你们列祖哀求耶和华，他就使你们和埃及人中间黑暗了，又使海水淹没埃及人。我在埃及所行的事，你们亲眼见过。你们在旷野也住了许多年日。",
     Eng:"But they cried to the LORD for help, and he put darkness between you and the Egyptians; he brought the sea over them and covered them. You saw with your own eyes what I did to the Egyptians. Then you lived in the desert for a long time.",
     Ind:"Sebab itu berteriak-teriaklah mereka kepada TUHAN, maka diadakan-Nya gelap antara kamu dan orang Mesir itu dan didatangkan-Nya air laut atas mereka, sehingga mereka diliputi. Dan matamu sendiri telah melihat, apa yang Kulakukan terhadap Mesir. Sesudah itu lama kamu diam di padang gurun."
   },
   {Bible:"Joshua", Chapter:24, Verse:8, Page:1,
-    Kor:"나는 너희를 요단 강 동쪽에 살고 있는 아모리 사람들의 땅으로 들어가게 하였다. 그 때에 그들이 너희에게 대항하여 싸웠으나, 내가 그들을 너희 손에 넘겨 주었으므로, 너희가 그 땅을 차지하였다. 나는 그들을 너희가 보는 앞에서 멸망시켰다.",
+    Kor:"나는 너희를 요단 강 동쪽에 살고 있는 아모리 사람들의 땅으로 들어가게 하였다. 그 때에 그들이 너희에게 대항하여 싸웠으나, 내가 그들을 너희 손에 넘겨 주었으므로, 너희가 그 땅을 차지하였다. 나는 그들을, 너희가 보는 앞에서 멸망시켰다.",
     Chn:"我领你们到约旦河东亚摩利人所住之地。他们与你们争战，我将他们交在你们手中，你们便得了他们的地为业；我也在你们面前将他们灭绝。",
     Eng:"\"'I brought you to the land of the Amorites who lived east of the Jordan. They fought against you, but I gave them into your hands. I destroyed them from before you, and you took possession of their land.",
     Ind:"Aku membawa kamu ke negeri orang Amori yang diam di seberang sungai Yordan, dan ketika mereka berperang melawan kamu, mereka Kuserahkan ke dalam tanganmu, sehingga kamu menduduki negerinya, sedang mereka Kupunahkan dari depan kamu."
@@ -75,49 +75,49 @@ BibleDB.add([
     Ind:"Kemudian Aku melepaskan tabuhan mendahului kamu dan binatang-binatang ini menghalau mereka dari depanmu, seperti kedua raja orang Amori itu. Sesungguhnya, bukan oleh pedangmu dan bukan pula oleh panahmu."
   },
   {Bible:"Joshua", Chapter:24, Verse:13, Page:1,
-    Kor:"너희가 일구지 아니한 땅과 너희가 세우지 아니한 성읍을 내가 너희에게 주어서, 너희가 그 안에서 살고 있다. 너희는 너희가 심지도 아니한 포도밭과 올리브 밭에서 열매를 따먹고 있는 것이다.'",
+    Kor:"너희가 일구지 아니한 땅과 너희가 세우지 아니한 성읍을, 내가 너희에게 주어서, 너희가 그 안에서 살고 있다. 너희는, 자신들이 심지도 아니한 포도밭과 올리브 밭에서 열매를 따먹고 있는 것이다.'",
     Chn:"我赐给你们地土，非你们所修治的；我赐给你们城邑，非你们所建造的。你们就住在其中，又得吃非你们所栽种的葡萄园、橄榄园的果子。』",
     Eng:"So I gave you a land on which you did not toil and cities you did not build; and you live in them and eat from vineyards and olive groves that you did not plant.'",
     Ind:"Demikianlah Kuberikan kepadamu negeri yang kamu peroleh tanpa bersusah-susah dan kota-kota yang tidak kamu dirikan, tetapi kamulah yang diam di dalamnya; juga kebun-kebun anggur dan kebun-kebun zaitun yang tidak kamu tanami, kamulah yang makan hasilnya."
   },
   {Bible:"Joshua", Chapter:24, Verse:14, Page:1,
-    Kor:"○이렇게 말씀하셨으니, 당신들은 이제 주님을 경외하면서, 그를 성실하고 진실하게 섬기십시오. 그리고 여러분은 여러분의 조상이 강 저쪽의 메소포타미아와 이집트에서 섬기던 신들을 버리고, 오직 주님만 섬기십시오.",
+    Kor:"○이렇게 말씀하셨으니, 여러분은 이제 주를 경외하면서, 그를 성실하고 진실하게 섬기시오. 그리고 여러분은, 여러분의 조상이 강 저쪽의 메소포타미아와 이집트에서 섬기던 신들을 버리고, 오직 주만 섬기시오.",
     Chn:"「现在你们要敬畏耶和华，诚心实意地事奉他，将你们列祖在大河那边和在埃及所事奉的神除掉，去事奉耶和华。",
     Eng:"\"Now fear the LORD and serve him with all faithfulness. Throw away the gods your forefathers worshiped beyond the River and in Egypt, and serve the LORD.",
     Ind:"Oleh sebab itu, takutlah akan TUHAN dan beribadahlah kepada-Nya dengan tulus ikhlas dan setia. Jauhkanlah allah yang kepadanya nenek moyangmu telah beribadah di seberang sungai Efrat dan di Mesir, dan beribadahlah kepada TUHAN."
   },
   {Bible:"Joshua", Chapter:24, Verse:15, Page:1,
-    Kor:"주님을 섬기고 싶지 않거든, 조상들이 강 저쪽의 메소포타미아에서 섬기던 신들이든지, 아니면 당신들이 살고 있는 땅 아모리 사람들의 신들이든지, 당신들이 어떤 신들을 섬길 것인지를 오늘 선택하십시오. 나와 나의 집안은 주님을 섬길 것입니다.\"",
+    Kor:"주님을 섬기고 싶지 않거든, 조상들이 강 저쪽의 메소포타미아에서 섬기던 신들이든지, 아니면 여러분이 살고 있는 땅 아모리 사람들의 신들이든지, 여러분이 어떤 신들을 섬길 것인지를 오늘 선택하시오. 나와 나의 집안은 주를 섬길 것이오.\"",
     Chn:"若是你们以事奉耶和华为不好，今日就可以选择所要事奉的：是你们列祖在大河那边所事奉的神呢？是你们所住这地的亚摩利人的神呢？至于我和我家，我们必定事奉耶和华。」",
     Eng:"But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers served beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.\"",
     Ind:"Tetapi jika kamu anggap tidak baik untuk beribadah kepada TUHAN, pilihlah pada hari ini kepada siapa kamu akan beribadah; allah yang kepadanya nenek moyangmu beribadah di seberang sungai Efrat, atau allah orang Amori yang negerinya kamu diami ini. Tetapi aku dan seisi rumahku, kami akan beribadah kepada TUHAN!\""
   },
   {Bible:"Joshua", Chapter:24, Verse:16, Page:1,
-    Kor:"○백성들이 대답하였다. \"주님을 저버리고 다른 신들을 섬기는 일은 우리가 절대로 하지 않겠습니다.",
+    Kor:"○백성들이 대답하였다. \"주를 저버리고 다른 신들을 섬기는 일은 우리가 절대로 하지 않겠습니다.",
     Chn:"百姓回答说：「我们断不敢离弃耶和华去事奉别神；",
     Eng:"Then the people answered, \"Far be it from us to forsake the LORD to serve other gods!",
     Ind:"Lalu bangsa itu menjawab: \"Jauhlah dari pada kami meninggalkan TUHAN untuk beribadah kepada allah lain!"
   },
   {Bible:"Joshua", Chapter:24, Verse:17, Page:1,
-    Kor:"주 우리 하나님이 친히 우리와 우리 조상을 이집트 땅 종 되었던 집에서 이끌어 내시고, 우리가 보는 앞에서 그 큰 기적을 일으키셨습니다. 또 우리가 이리로 오는 동안에 줄곧 우리를 지켜 주셨고, 우리가 여러 민족들 사이를 뚫고 지나오는 동안에 줄곧 우리를 지켜 주셨습니다.",
+    Kor:"주 우리 하나님이 친히 우리와 우리 조상을 이집트 땅, 종 되었던 집에서 이끌어 내시고, 우리가 보는 앞에서 그 큰 기적을 일으키셨습니다. 또 우리가 이리로 오는 동안에 줄곧 우리를 지켜 주셨고, 우리가 여러 민족들 사이를 뚫고 지나오는 동안에 줄곧 우리를 지켜 주셨습니다.",
     Chn:"因耶和华—我们的　神曾将我们和我们列祖从埃及地的为奴之家领出来，在我们眼前行了那些大神迹，在我们所行的道上，所经过的诸国，都保护了我们。",
     Eng:"It was the LORD our God himself who brought us and our fathers up out of Egypt, from that land of slavery, and performed those great signs before our eyes. He protected us on our entire journey and among all the nations through which we traveled.",
     Ind:"Sebab TUHAN, Allah kita, Dialah yang telah menuntun kita dan nenek moyang kita dari tanah Mesir, dari rumah perbudakan, dan yang telah melakukan tanda-tanda mujizat yang besar ini di depan mata kita sendiri, dan yang telah melindungi kita sepanjang jalan yang kita tempuh, dan di antara semua bangsa yang kita lalui,"
   },
   {Bible:"Joshua", Chapter:24, Verse:18, Page:1,
-    Kor:"그리고 주님께서는 이 모든 민족을, 이 땅에 사는 아모리 사람까지도, 우리 앞에서 쫓아내셨습니다. 그러므로 우리는 주님을 섬기겠습니다. 오직 그분만이 우리의 하나님이십니다.\"",
+    Kor:"그리고 주께서는 이 모든 민족을, 이 땅에 사는 아모리 사람까지도, 우리 앞에서 쫓아내셨습니다. 그러므로 우리는 주님을 섬기겠습니다. 오직 그분만이 우리의 하나님이십니다.\"",
     Chn:"耶和华又把住此地的亚摩利人都从我们面前赶出去。所以，我们必事奉耶和华，因为他是我们的　神。」",
     Eng:"And the LORD drove out before us all the nations, including the Amorites, who lived in the land. We too will serve the LORD, because he is our God.\"",
     Ind:"TUHAN menghalau semua bangsa dan orang Amori, penduduk negeri ini, dari depan kita. Kamipun akan beribadah kepada TUHAN, sebab Dialah Allah kita.\""
   },
   {Bible:"Joshua", Chapter:24, Verse:19, Page:1,
-    Kor:"○그러나 여호수아는 백성들에게 이렇게 말하였다. \"당신들은 주님을 섬기지 못할 것입니다. 그분은 거룩하신 하나님이시며, 질투하시는 하나님이시기 때문에, 당신들의 허물과 죄를 용서하지 않을 것입니다.",
+    Kor:"○그러나 여호수아는 백성들에게 이렇게 말하였다. \"여러분은 주님을 섬기지 못할 것이오. 그분은 거룩하신 하나님이시며, 질투하시는 하나님이시기 때문에, 여러분의 허물과 죄를 용서하지 않을 것이오.",
     Chn:"约书亚对百姓说：「你们不能事奉耶和华；因为他是圣洁的　神，是忌邪的　神，必不赦免你们的过犯罪恶。",
     Eng:"Joshua said to the people, \"You are not able to serve the LORD. He is a holy God; he is a jealous God. He will not forgive your rebellion and your sins.",
     Ind:"Tetapi Yosua berkata kepada bangsa itu: \"Tidaklah kamu sanggup beribadah kepada TUHAN, sebab Dialah Allah yang kudus, Dialah Allah yang cemburu. Ia tidak akan mengampuni kesalahan dan dosamu."
   },
   {Bible:"Joshua", Chapter:24, Verse:20, Page:1,
-    Kor:"만일 당신들이 주님을 저버리고 이방 신들을 섬기면, 그는 당신들에게 대항하여 돌아서서, 재앙을 내리시고, 당신들에게 좋게 대하신 뒤에라도 당신들을 멸망시키시고 말 것입니다.\"",
+    Kor:"만일 여러분이 주를 저버리고 이방 신들을 섬기면, 그는 여러분에게 대항하여 돌아서서, 재앙을 내리시고, 여러분에게 좋게 대하신 뒤에라도 여러분을 멸망시키시고 말 것이오.\"",
     Chn:"你们若离弃耶和华去事奉外邦神，耶和华在降福之后，必转而降祸与你们，把你们灭绝。」",
     Eng:"If you forsake the LORD and serve foreign gods, he will turn and bring disaster on you and make an end of you, after he has been good to you.\"",
     Ind:"Apabila kamu meninggalkan TUHAN dan beribadah kepada allah asing, maka Ia akan berbalik dari padamu dan melakukan yang tidak baik kepada kamu serta membinasakan kamu, setelah Ia melakukan yang baik kepada kamu dahulu.\""
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Tetapi bangsa itu berkata kepada Yosua: \"Tidak, hanya kepada TUHAN saja kami akan beribadah.\""
   },
   {Bible:"Joshua", Chapter:24, Verse:22, Page:1,
-    Kor:"여호수아가 백성에게 말하였다. \"당신들이 주님을 택하고 그분만을 섬기겠다고 한 말에 대한 증인은 바로 여러분 자신들입니다.\" 그러자 그들은 말하였다. \"우리가 증인입니다.\"",
+    Kor:"여호수아가 백성에게 말하였다. \"여러분이 주님을 택하고 그분만을 섬기겠다고 한 말에 대한 증인은 바로 여러분 자신들이오.\" 그러자 그들은 말하였다. \"우리가 증인입니다.\"",
     Chn:"约书亚对百姓说：「你们选定耶和华，要事奉他，你们自己作见证吧！」他们说：「我们愿意作见证。」",
     Eng:"Then Joshua said, \"You are witnesses against yourselves that you have chosen to serve the LORD.\" \"Yes, we are witnesses,\" they replied.",
     Ind:"Kemudian berkatalah Yosua kepada bangsa itu: \"Kamulah saksi terhadap kamu sendiri, bahwa kamu telah memilih TUHAN untuk beribadah kepada-Nya.\" Jawab mereka: \"Kamilah saksi!\""
   },
   {Bible:"Joshua", Chapter:24, Verse:23, Page:1,
-    Kor:"여호수아가 또 말하였다. \"그러면 이제 당신들 가운데 있는 이방 신들을 내버리고, 마음을 주 이스라엘의 하나님께 바치십시오.\"",
+    Kor:"여호수아가 또 말하였다. \"그러면 이제 여러분 가운데 있는 이방 신들을 내버리고, 마음을 주 이스라엘의 하나님께 바치시오.\"",
     Chn:"约书亚说：「你们现在要除掉你们中间的外邦神，专心归向耶和华—以色列的　神。」",
     Eng:"\"Now then,\" said Joshua, \"throw away the foreign gods that are among you and yield your hearts to the LORD, the God of Israel.\"",
     Ind:"Ia berkata: \"Maka sekarang, jauhkanlah allah asing yang ada di tengah-tengah kamu dan condongkanlah hatimu kepada TUHAN, Allah Israel.\""
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Lalu jawab bangsa itu kepada Yosua: \"Kepada TUHAN, Allah kita, kami akan beribadah, dan firman-Nya akan kami dengarkan.\""
   },
   {Bible:"Joshua", Chapter:24, Verse:25, Page:1,
-    Kor:"○그 날 여호수아가 세겜에서 백성들과 언약을 세우고, 그들이 지킬 율례와 법도를 만들어 주었다.",
+    Kor:"○그 날, 여호수아가 세겜에서 백성들과 언약을 세우고, 그들이 지킬 율례와 법도를 만들어 주었다.",
     Chn:"当日，约书亚就与百姓立约，在示剑为他们立定律例典章。",
     Eng:"On that day Joshua made a covenant for the people, and there at Shechem he drew up for them decrees and laws.",
     Ind:"Pada hari itu juga Yosua mengikat perjanjian dengan bangsa itu dan membuat ketetapan dan peraturan bagi mereka di Sikhem."
   },
   {Bible:"Joshua", Chapter:24, Verse:26, Page:1,
-    Kor:"여호수아가 이 모든 말씀을 하나님의 율법책에 기록하고, 큰 돌을 가져다가 주님의 성소 곁에 있는 상수리나무 아래에 두고,",
+    Kor:"여호수아가 이 모든 말씀을 하나님의 율법책에 기록하고, 큰 돌을 가져다가 주의 성소 곁에 있는 상수리나무 아래에 두고,",
     Chn:"约书亚将这些话都写在　神的律法书上，又将一块大石头立在橡树下耶和华的圣所旁边。",
     Eng:"And Joshua recorded these things in the Book of the Law of God. Then he took a large stone and set it up there under the oak near the holy place of the LORD.",
     Ind:"Yosua menuliskan semuanya itu dalam kitab hukum Allah, lalu ia mengambil batu yang besar dan mendirikannya di sana, di bawah pohon besar, di tempat kudus TUHAN."
   },
   {Bible:"Joshua", Chapter:24, Verse:27, Page:1,
-    Kor:"모든 백성에게 말하였다. \"보십시오, 이 돌이 우리에게 증거가 될 것입니다. 주님께서 우리에게 하신 모든 말씀을 이 돌이 들었기 때문입니다. 여러분이 여러분의 하나님을 모른다고 할 때에, 이 돌이 여러분이 하나님을 배반하지 못하게 하는 증거가 될 것입니다.\"",
+    Kor:"모든 백성에게 말하였다. \"보시오, 이 돌이 우리에게 증거가 될 것이오. 주께서 우리에게 하신 모든 말씀을 이 돌이 들었기 때문이오. 여러분이 여러분의 하나님을 모른다고 하면, 이 돌이, 여러분이 하나님을 배반하지 못하게 하는 증거가 될 것이오.\"",
     Chn:"约书亚对百姓说：「看哪，这石头可以向我们作见证；因为是听见了耶和华所吩咐我们的一切话，倘或你们背弃你们的　神，这石头就可以向你们作见证。」",
     Eng:"\"See!\" he said to all the people. \"This stone will be a witness against us. It has heard all the words the LORD has said to us. It will be a witness against you if you are untrue to your God.\"",
     Ind:"Kata Yosua kepada seluruh bangsa itu: \"Sesungguhnya batu inilah akan menjadi saksi terhadap kita, sebab telah didengarnya segala firman TUHAN yang diucapkan-Nya kepada kita. Sebab itu batu ini akan menjadi saksi terhadap kamu, supaya kamu jangan menyangkal Allahmu.\""
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Sesudah itu Yosua melepas bangsa itu pergi, masing-masing ke milik pusakanya."
   },
   {Bible:"Joshua", Chapter:24, Verse:29, Page:1,
-    Kor:"<여호수아와 엘르아살이 죽다> ○이 일을 마친 다음에, 주님의 종 눈의 아들 여호수아가 죽었다. 그의 나이는 백십 세였다.",
+    Kor:"○이 일을 마친 다음에, 주의 종, 눈의 아들 여호수아가 죽었다. 그의 나이는 백십 세였다.",
     Chn:"这些事以后，耶和华的仆人嫩的儿子约书亚，正一百一十岁，就死了。",
     Eng:"After these things, Joshua son of Nun, the servant of the LORD, died at the age of a hundred and ten.",
     Ind:"Dan sesudah peristiwa-peristiwa ini, maka matilah Yosua bin Nun, hamba TUHAN itu, ketika berumur seratus sepuluh tahun."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu ia dikuburkan di daerah milik pusakanya, di Timnat-Serah yang di pegunungan Efraim, di sebelah utara gunung Gaas."
   },
   {Bible:"Joshua", Chapter:24, Verse:31, Page:1,
-    Kor:"○이스라엘은 여호수아의 생전에 줄곧 주님을 섬겼고, 여호수아가 죽은 뒤에도 주님께서 이스라엘에게 베푸신 모든 일을 아는 장로들이 살아 있는 날 동안에는 주님을 섬겼다.",
+    Kor:"○이스라엘은 여호수아의 생전에 줄곧 주를 섬겼고, 여호수아가 죽은 뒤에도, 주께서 이스라엘에게 베푸신 모든 일을 아는 장로들이 살아 있는 날 동안에는 주를 섬겼다.",
     Chn:"约书亚在世和约书亚死后，那些知道耶和华为以色列人所行诸事的长老还在的时候，以色列人事奉耶和华。",
     Eng:"Israel served the LORD throughout the lifetime of Joshua and of the elders who outlived him and who had experienced everything the LORD had done for Israel.",
     Ind:"Orang Israel beribadah kepada TUHAN sepanjang zaman Yosua dan sepanjang zaman para tua-tua yang hidup lebih lama dari pada Yosua, dan yang mengenal segenap perbuatan yang dilakukan TUHAN bagi orang Israel."
@@ -199,5 +199,11 @@ BibleDB.add([
     Chn:"亚伦的儿子以利亚撒也死了，就把他葬在他儿子非尼哈所得以法莲山地的小山上。",
     Eng:"And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.",
     Ind:"Juga Eleazar bin Harun mati, dan dia dikuburkan di bukit yang diberikan kepada Pinehas, anaknya itu, di pegunungan Efraim."
+  },
+  {Bible:"Joshua", Chapter:24, Verse:34, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

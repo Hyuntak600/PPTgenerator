@@ -3,13 +3,13 @@
 BibleDB.ref("Daniel",1,21);
 BibleDB.add([
   {Bible:"Daniel", Chapter:1, Verse:1, Page:1,
-    Kor:"<느부갓네살 왕궁의 젊은이들> 유다의 여호야김 왕이 왕위에 오른 지 삼 년이 되는 해에, 바빌로니아의 느부갓네살 왕이 예루살렘으로 쳐들어와서 성을 포위하였다.",
+    Kor:"유다의 여호야김 왕이 왕위에 오른 지 삼 년이 되는 해에, 바빌로니아의 느부갓네살 왕이 예루살렘으로 쳐들어와서 성을 포위하였다.",
     Chn:"犹大王约雅敬在位第三年，巴比伦王尼布甲尼撒来到耶路撒冷，将城围困。",
     Eng:"In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.",
     Ind:"Pada tahun yang ketiga pemerintahan Yoyakim, raja Yehuda, datanglah Nebukadnezar, raja Babel, ke Yerusalem, lalu mengepung kota itu."
   },
   {Bible:"Daniel", Chapter:1, Verse:2, Page:1,
-    Kor:"주님께서 유다의 여호야김 왕과 하나님의 성전 기물 가운데서 일부를 느부갓네살의 손에 넘겨 주셨다. 그는 그것들을 a바빌로니아 땅, 자기가 섬기는 신의 신전으로 가지고 가서 그 신의 보물 창고에 넣어 두었다.(a 히, '시날')",
+    Kor:"주께서 유다의 여호야김 왕과 하나님의 성전 기물 가운데서 일부를 느부갓네살의 손에 넘겨 주셨다. 그는 그것들을 바빌로니아 땅, 자기가 섬기는 신의 신전으로 가지고 가서 그 신의 보물 창고에 넣어 두었다.",
     Chn:"主将犹大王约雅敬，并　神殿中器皿的几分交付他手。他就把这器皿带到示拿地，收入他神的庙里，放在他神的库中。",
     Eng:"And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the articles from the temple of God. These he carried off to the temple of his god in Babylonia and put in the treasure house of his god.",
     Ind:"Tuhan menyerahkan Yoyakim, raja Yehuda, dan sebagian dari perkakas-perkakas di rumah Allah ke dalam tangannya. Semuanya itu dibawanya ke tanah Sinear, ke dalam rumah dewanya; perkakas-perkakas itu dibawanya ke dalam perbendaharaan dewanya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu raja bertitah kepada Aspenas, kepala istananya, untuk membawa beberapa orang Israel, yang berasal dari keturunan raja dan dari kaum bangsawan,"
   },
   {Bible:"Daniel", Chapter:1, Verse:4, Page:1,
-    Kor:"몸에 흠이 없고, 용모가 잘생기고, 모든 일을 지혜롭게 처리할 수 있으며, 지식이 있고, 통찰력이 있고, 왕궁에서 왕을 모실 능력이 있는 소년들을 데려오게 하여서, 그들에게 b바빌로니아의 언어와 문학을 가르치게 하였다.(b 또는 '갈대아')",
+    Kor:"몸에 흠이 없고, 용모가 잘생기고, 모든 일을 지혜롭게 처리할 수 있으며, 지식이 있고, 통찰력이 있고, 왕궁에서 왕을 모실 능력이 있는 소년들을 데려오게 하여서, 그들에게 바빌로니아의 언어와 문학을 가르치게 하였다.",
     Chn:"就是年少没有残疾、相貌俊美、通达各样学问、知识聪明俱备、足能侍立在王宫里的，要教他们迦勒底的文字言语。",
     Eng:"young men without any physical defect, handsome, showing aptitude for every kind of learning, well informed, quick to understand, and qualified to serve in the king's palace. He was to teach them the language and literature of the Babylonians.",
     Ind:"yakni orang-orang muda yang tidak ada sesuatu cela, yang berperawakan baik, yang memahami berbagai-bagai hikmat, berpengetahuan banyak dan yang mempunyai pengertian tentang ilmu, yakni orang-orang yang cakap untuk bekerja dalam istana raja, supaya mereka diajarkan tulisan dan bahasa orang Kasdim."

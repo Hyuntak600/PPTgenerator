@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",2,70);
 BibleDB.add([
   {Bible:"Ezra", Chapter:2, Verse:1, Page:1,
-    Kor:"<포로에서 풀려 난 사람들(느 7:4-73)> 바빌로니아 왕 느부갓네살에게 사로잡혀 바빌로니아로 끌려간 사람 가운데서, 많은 사람이 바빌로니아 각 지방을 떠나, 저마다 고향 땅인 예루살렘과 유다로 돌아왔다.",
+    Kor:"바빌론 왕 느부갓네살에게 사로잡혀 바빌로니아로 끌려간 사람 가운데서, 많은 사람이 바빌로니아 각 지방을 떠나, 저마다 고향 땅인 예루살렘과 유다로 돌아왔다.",
     Chn:"巴比伦王尼布甲尼撒从前掳到巴比伦之犹大省的人，现在他们的子孙从被掳到之地回耶路撒冷和犹大，各归本城。",
     Eng:"Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to his own town,",
     Ind:"Inilah orang-orang propinsi Yehuda yang berangkat pulang dari pembuangan, yakni para tawanan, yang dahulu diangkut ke Babel oleh Nebukadnezar, raja Babel, dan yang kembali ke Yerusalem dan ke Yehuda, masing-masing ke kotanya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"dari Asmawet: empat puluh dua orang;"
   },
   {Bible:"Ezra", Chapter:2, Verse:25, Page:1,
-    Kor:"a기랴다림과 그비라와 브에롯 사람이 칠백사십삼 명이요,(a 칠십인역에는 '기럇여아림')",
+    Kor:"기랴다림과 그비라와 브에롯 사람이 칠백사십삼 명이요,",
     Chn:"基列·耶琳人、基非拉人、比录人共七百四十三名；",
     Eng:"of Kiriath Jearim, Kephirah and Beeroth 743",
     Ind:"dari Kiryat-Arim, Kefira dan Beerot: tujuh ratus empat puluh tiga orang;"
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"Inilah kaum penunggu pintu gerbang: bani Salum, bani Ater, bani Talmon, bani Akub, bani Hatita, bani Sobai, semuanya seratus tiga puluh sembilan orang."
   },
   {Bible:"Ezra", Chapter:2, Verse:43, Page:1,
-    Kor:"○b성전 막일꾼은, 시하 자손과 하수바 자손과 답바옷 자손과(b 히, '느디님')",
+    Kor:"○성전 막일꾼은, 시하 자손과 하수바 자손과 답바옷 자손과",
     Chn:"尼提宁：西哈的子孙、哈苏巴的子孙、答巴俄的子孙、",
     Eng:"The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,",
     Ind:"Inilah para budak di bait Allah: bani Ziha, bani Hasufa, bani Tabaot;"
@@ -405,7 +405,7 @@ BibleDB.add([
     Ind:"empat ratus tiga puluh lima ekor unta, dan enam ribu tujuh ratus dua puluh ekor keledai."
   },
   {Bible:"Ezra", Chapter:2, Verse:68, Page:1,
-    Kor:"○가문의 우두머리 가운데는, 예루살렘에 있는 주님의 성전 터에 이르러서, 하나님의 성전을 옛 터에 다시 세우는 일을 도우려고, 자원예물을 바치는 이들도 있었다.",
+    Kor:"○가문의 우두머리 가운데는, 예루살렘에 있는 주의 성전 터에 이르러서, 하나님의 성전을 옛 터에 다시 세우는 일을 도우려고, 자원예물을 바치는 이들도 있었다.",
     Chn:"有些族长到了耶路撒冷耶和华殿的地方，便为　神的殿甘心献上礼物，要重新建造。",
     Eng:"When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.",
     Ind:"Beberapa kepala kaum keluarga, tatkala datang ke rumah TUHAN yang di Yerusalem, mempersembahkan persembahan sukarela guna pembangunan rumah Allah pada tempatnya semula."
@@ -417,7 +417,7 @@ BibleDB.add([
     Ind:"Mereka memberi sumbangan sekadar kemampuan mereka untuk perbendaharaan guna pekerjaan itu sebanyak enam puluh satu ribu dirham emas, lima ribu mina perak dan seratus helai kemeja imam."
   },
   {Bible:"Ezra", Chapter:2, Verse:70, Page:1,
-    Kor:"○제사장과 레위 사람과 백성 가운데서, 일부는 c(예루살렘과 그 부근 마을에 자리를 잡고,) 노래하는 이들과 문지기들과 성전 막일꾼들은 그들의 고향 마을에 자리를 잡았다. 나머지 이스라엘 사람들은 저마다 고향에 자리를 잡았다.(c 괄호 안의 구절은 칠십인역을 따름)",
+    Kor:"○제사장과 레위 사람과 백성 가운데서, 일부는 (예루살렘과 그 부근 마을에 자리를 잡고,) 노래하는 이들과 문지기들과 성전 막일꾼들은 그들의 고향 마을에 자리를 잡았다. 나머지 이스라엘 사람들은 저마다 고향에 자리를 잡았다.",
     Chn:"于是祭司、利未人、民中的一些人、歌唱的、守门的、尼提宁，并以色列众人，各住在自己的城里。",
     Eng:"The priests, the Levites, the singers, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.",
     Ind:"Adapun para imam dan orang-orang Lewi, dan juga sebagian dari rakyat, serta para penyanyi, para penunggu pintu gerbang dan para budak di bait Allah menetap di kota-kota mereka, demikian juga semua orang Israel yang lain, masing-masing di kota-kotanya sendiri."

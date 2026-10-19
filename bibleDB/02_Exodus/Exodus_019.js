@@ -3,31 +3,31 @@
 BibleDB.ref("Exodus",19,25);
 BibleDB.add([
   {Bible:"Exodus", Chapter:19, Verse:1, Page:1,
-    Kor:"<이스라엘 사람들 시내 산에 이르다> 이스라엘 자손이 이집트 땅에서 나온 뒤 a셋째 달 초하룻날, 바로 그 날 그들은 시내 광야에 이르렀다.(a 시반월, 양력 오월 중순 이후)",
+    Kor:"이스라엘 자손이 이집트 땅에서 나온 뒤, 셋째 달 초하룻날, 바로 그 날, 그들은 시내 광야에 이르렀다.",
     Chn:"以色列人出埃及地以后，满了三个月的那一天，就来到西奈的旷野。",
     Eng:"In the third month after the Israelites left Egypt--on the very day--they came to the Desert of Sinai.",
     Ind:"Pada bulan ketiga setelah orang Israel keluar dari tanah Mesir, mereka tiba di padang gurun Sinai pada hari itu juga."
   },
   {Bible:"Exodus", Chapter:19, Verse:2, Page:1,
-    Kor:"그들은 르비딤을 떠나서, 시내 광야에 이르러, 광야에다 장막을 쳤다. 이스라엘이 그 곳 산 아래에 장막을 친 다음에,",
+    Kor:"그들은 르비딤을 떠나서, 시내 광야에 이르러 광야에다 장막을 쳤다. 이스라엘이 그 곳 산 아래에 장막을 친 다음에,",
     Chn:"他们离了利非订，来到西奈的旷野，就在那里的山下安营。",
     Eng:"After they set out from Rephidim, they entered the Desert of Sinai, and Israel camped there in the desert in front of the mountain.",
     Ind:"Setelah mereka berangkat dari Rafidim, tibalah mereka di padang gurun Sinai, lalu mereka berkemah di padang gurun; orang Israel berkemah di sana di depan gunung itu."
   },
   {Bible:"Exodus", Chapter:19, Verse:3, Page:1,
-    Kor:"모세가 산으로 올라가 하나님께로 가니, 주님께서 산에서 그를 불러서 말씀하셨다. \"너는 야곱 가문에게 이렇게 말하여라. 이스라엘 자손에게 이렇게 일러주어라.",
+    Kor:"모세가 산으로 올라가 하나님께로 가니, 주께서 산에서 그를 불러서 말씀하셨다. \"너는 야곱 가문에게 이렇게 말하여라. 이스라엘 자손에게 이렇게 일러주어라.",
     Chn:"摩西到　神那里，耶和华从山上呼唤他说：「你要这样告诉雅各家，晓谕以色列人说：",
     Eng:"Then Moses went up to God, and the LORD called to him from the mountain and said, \"This is what you are to say to the house of Jacob and what you are to tell the people of Israel:",
     Ind:"Lalu naiklah Musa menghadap Allah, dan TUHAN berseru dari gunung itu kepadanya: \"Beginilah kaukatakan kepada keturunan Yakub dan kauberitakan kepada orang Israel:"
   },
   {Bible:"Exodus", Chapter:19, Verse:4, Page:1,
-    Kor:"'너희는 내가 이집트 사람에게 한 일을 보았고, 또 어미독수리가 그 날개로 새끼를 업어 나르듯이, 내가 너희를 인도하여 나에게로 데려온 것도 보았다.",
+    Kor:"'너희는, 내가 이집트 사람에게 한 일을 보았고, 또 어미독수리가 그 날개로 새끼를 업어 나르듯이, 내가 너희를 인도하여 나에게로 데려온 것도 보았다.",
     Chn:"『我向埃及人所行的事，你们都看见了，且看见我如鹰将你们背在翅膀上，带来归我。",
     Eng:"'You yourselves have seen what I did to Egypt, and how I carried you on eagles' wings and brought you to myself.",
     Ind:"Kamu sendiri telah melihat apa yang Kulakukan kepada orang Mesir, dan bagaimana Aku telah mendukung kamu di atas sayap rajawali dan membawa kamu kepada-Ku."
   },
   {Bible:"Exodus", Chapter:19, Verse:5, Page:1,
-    Kor:"이제 너희가 정말로 나의 말을 듣고, 내가 세워 준 언약을 지키면, 너희는 모든 민족 가운데서 나의 보물이 될 것이다. 온 세상이 다 나의 것이다. 그러므로 너희는 내가 선택한 백성이 되고,",
+    Kor:"이제 너희가 정말로 나의 말을 듣고, 내가 세워 준 언약을 지키면, 너희는 나의 보물이 될 것이다. 온 세상이 다 나의 것이다. 그러므로 너희는, 내가 선택한 백성이 되고,",
     Chn:"如今你们若实在听从我的话，遵守我的约，就要在万民中作属我的子民，因为全地都是我的。",
     Eng:"Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession. Although the whole earth is mine,",
     Ind:"Jadi sekarang, jika kamu sungguh-sungguh mendengarkan firman-Ku dan berpegang pada perjanjian-Ku, maka kamu akan menjadi harta kesayangan-Ku sendiri dari antara segala bangsa, sebab Akulah yang empunya seluruh bumi."
@@ -39,25 +39,25 @@ BibleDB.add([
     Ind:"Kamu akan menjadi bagi-Ku kerajaan imam dan bangsa yang kudus. Inilah semuanya firman yang harus kaukatakan kepada orang Israel.\""
   },
   {Bible:"Exodus", Chapter:19, Verse:7, Page:1,
-    Kor:"○모세가 돌아와서 백성의 장로들을 불러모으고, 주님께서 자기에게 하신 이 모든 말씀을 그들에게 선포하였다.",
+    Kor:"○모세가 돌아와서 백성의 장로들을 불러모으고, 주께서 자기에게 하신 이 모든 말씀을 그들에게 선포하였다.",
     Chn:"摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。",
     Eng:"So Moses went back and summoned the elders of the people and set before them all the words the LORD had commanded him to speak.",
     Ind:"Lalu datanglah Musa dan memanggil para tua-tua bangsa itu dan membawa ke depan mereka segala firman yang diperintahkan TUHAN kepadanya."
   },
   {Bible:"Exodus", Chapter:19, Verse:8, Page:1,
-    Kor:"모든 백성이 다 함께 \"주님께서 말씀하신 모든 것을 우리가 실천하겠습니다\" 하고 응답하였다. 모세는, 백성이 한 말을 주님께 그대로 말씀드렸다.",
+    Kor:"모든 백성이 다 함께 \"주께서 말씀하신 모든 것을 우리가 실천하겠습니다\" 하고 응답하였다. 모세는, 백성이 한 말을 주께 그대로 말씀드렸다.",
     Chn:"百姓都同声回答说：「凡耶和华所说的，我们都要遵行。」摩西就将百姓的话回复耶和华。",
     Eng:"The people all responded together, \"We will do everything the LORD has said.\" So Moses brought their answer back to the LORD.",
     Ind:"Seluruh bangsa itu menjawab bersama-sama: \"Segala yang difirmankan TUHAN akan kami lakukan.\" Lalu Musapun menyampaikan jawab bangsa itu kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:19, Verse:9, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"내가 짙은 구름 속에서 너에게 나타날 것이니, 내가 이렇게 하는 까닭은 내가 너와 말하는 것을 백성이 듣고서, 그들이 영원히 너를 믿게 하려는 것이다.\" ○모세가, 백성이 한 말을 주님께 다시 아뢰었을 때에,",
+    Kor:"○주께서 모세에게 말씀하셨다. \"내가 짙은 구름 속에서 너에게 나타날 것이니, 내가 이렇게 하는 까닭은 내가 너와 말하는 것을 백성이 듣고서, 그들이 영원히 너를 믿게 하려는 것이다.\" ○모세가, 백성이 한 말을 주께 다시 아뢰었을 때에",
     Chn:"耶和华对摩西说：「我要在密云中临到你那里，叫百姓在我与你说话的时候可以听见，也可以永远信你了。」于是，摩西将百姓的话奏告耶和华。",
     Eng:"The LORD said to Moses, \"I am going to come to you in a dense cloud, so that the people will hear me speaking with you and will always put their trust in you.\" Then Moses told the LORD what the people had said.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Sesungguhnya Aku akan datang kepadamu dalam awan yang tebal, dengan maksud supaya dapat didengar oleh bangsa itu apabila Aku berbicara dengan engkau, dan juga supaya mereka senantiasa percaya kepadamu.\" Lalu Musa memberitahukan perkataan bangsa itu kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:19, Verse:10, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다. \"너는 백성에게로 가서, 오늘과 내일 이틀 동안 그들을 성결하게 하여라. 그들이 옷을 빨아 입고서,",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 백성에게로 가서, 오늘과 내일 이틀 동안 그들을 성결하게 하여라. 그들이 옷을 빨아 입고서,",
     Chn:"耶和华又对摩西说：「你往百姓那里去，叫他们今天明天自洁，又叫他们洗衣服。",
     Eng:"And the LORD said to Moses, \"Go to the people and consecrate them today and tomorrow. Have them wash their clothes",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pergilah kepada bangsa itu; suruhlah mereka menguduskan diri pada hari ini dan besok, dan mereka harus mencuci pakaiannya."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Dan terjadilah pada hari ketiga, pada waktu terbit fajar, ada guruh dan kilat dan awan padat di atas gunung dan bunyi sangkakala yang sangat keras, sehingga gemetarlah seluruh bangsa yang ada di perkemahan."
   },
   {Bible:"Exodus", Chapter:19, Verse:17, Page:1,
-    Kor:"모세는 백성이 하나님을 만날 수 있도록 진으로부터 그들을 데리고 나와서, 산기슭에 세웠다.",
+    Kor:"모세는, 백성이 하나님을 만날 수 있게, 진으로부터 그들을 데리고 나와서 산기슭에 세웠다.",
     Chn:"摩西率领百姓出营迎接　神，都站在山下。",
     Eng:"Then Moses led the people out of the camp to meet with God, and they stood at the foot of the mountain.",
     Ind:"Lalu Musa membawa bangsa itu keluar dari perkemahan untuk menjumpai Allah dan berdirilah mereka pada kaki gunung."
   },
   {Bible:"Exodus", Chapter:19, Verse:18, Page:1,
-    Kor:"그 때에 시내 산에는, 주님께서 불 가운데서 그 곳으로 내려오셨으므로 온통 연기가 자욱했는데, 마치 가마에서 나오는 것처럼 연기가 솟아오르고, 온 산이 크게 진동하였다.",
+    Kor:"그 때에 시내 산에는, 주께서 불 가운데서 그 곳으로 내려오셨으므로, 온통 연기가 자욱했는데, 마치 가마에서 나오는 것처럼 연기가 솟아오르고, 온 산이 크게 진동하였다.",
     Chn:"西奈全山冒烟，因为耶和华在火中降于山上。山的烟气上腾，如烧窑一般，遍山大大地震动。",
     Eng:"Mount Sinai was covered with smoke, because the LORD descended on it in fire. The smoke billowed up from it like smoke from a furnace, the whole mountain trembled violently,",
     Ind:"Gunung Sinai ditutupi seluruhnya dengan asap, karena TUHAN turun ke atasnya dalam api; asapnya membubung seperti asap dari dapur, dan seluruh gunung itu gemetar sangat."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Bunyi sangkakala kian lama kian keras. Berbicaralah Musa, lalu Allah menjawabnya dalam guruh."
   },
   {Bible:"Exodus", Chapter:19, Verse:20, Page:1,
-    Kor:"주님께서 시내 산 곧 그 산 꼭대기로 내려오셔서, 모세를 그 산 꼭대기로 부르시니, 모세가 올라갔다.",
+    Kor:"주께서 시내 산, 곧 그 산 꼭대기로 내려오셔서, 모세를 그 산 꼭대기로 부르시니, 모세가 올라갔다.",
     Chn:"耶和华降临在西奈山顶上，耶和华召摩西上山顶，摩西就上去。",
     Eng:"The LORD descended to the top of Mount Sinai and called Moses to the top of the mountain. So Moses went up",
     Ind:"Lalu turunlah TUHAN ke atas gunung Sinai, ke atas puncak gunung itu, maka TUHAN memanggil Musa ke puncak gunung itu, dan naiklah Musa ke atas."
   },
   {Bible:"Exodus", Chapter:19, Verse:21, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다. \"너는 내려가서 백성에게, 나 주를 보려고 경계선을 넘어 들어오다가 많은 사람이 죽는 일이 없도록 하라고, 단단히 일러 두어라.",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 내려가서 백성에게, 주를 보려고 경계선을 넘어 들어오다가, 많은 사람이 죽는 일이 없도록 단단히 일러 두어라.",
     Chn:"耶和华对摩西说：「你下去嘱咐百姓，不可闯过来到我面前观看，恐怕他们有多人死亡；",
     Eng:"and the LORD said to him, \"Go down and warn the people so they do not force their way through to see the LORD and many of them perish.",
     Ind:"Kemudian TUHAN berfirman kepada Musa: \"Turunlah, peringatkanlah kepada bangsa itu, supaya mereka jangan menembus mendapatkan TUHAN hendak melihat-lihat; sebab tentulah banyak dari mereka akan binasa."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Juga para imam yang datang mendekat kepada TUHAN haruslah menguduskan dirinya, supaya TUHAN jangan melanda mereka.\""
   },
   {Bible:"Exodus", Chapter:19, Verse:23, Page:1,
-    Kor:"○모세가 주님께 대답하였다. \"주님께서 우리들에게, 산에 경계선을 정하여 그것을 거룩하게 구별하라고 경고하시는 명을 내리셨으므로, 이 백성은 시내 산으로 올라올 수 없습니다.\"",
+    Kor:"○모세가 주께 대답하였다. \"주께서 우리들에게, 산에 경계선을 정하여 그것을 거룩하게 구별하라고 경고하시는 명을 내리셨으므로, 이 백성은 시내 산으로 올라올 수 없습니다.\"",
     Chn:"摩西对耶和华说：「百姓不能上西奈山，因为你已经嘱咐我们说：『要在山的四围定界限，叫山成圣。』」",
     Eng:"Moses said to the LORD, \"The people cannot come up Mount Sinai, because you yourself warned us, 'Put limits around the mountain and set it apart as holy.'\"",
     Ind:"Lalu berkatalah Musa kepada TUHAN: \"Tidak akan mungkin bangsa itu mendaki gunung Sinai ini, sebab Engkau sendiri telah memperingatkan kepada kami, demikian: Pasanglah batas sekeliling gunung itu dan nyatakanlah itu kudus.\""
   },
   {Bible:"Exodus", Chapter:19, Verse:24, Page:1,
-    Kor:"주님께서 그에게 말씀하셨다. \"너는 어서 내려가서, 아론을 데리고 올라오너라. 그러나 제사장들과 백성은 나에게 올라오려고 경계선을 넘어서는 안 된다. 그들이 경계선을 넘으면, 나 주가 그들을 쳐서 죽일 것이다.\"",
+    Kor:"주께서 그에게 말씀하셨다. \"너는 어서 내려가서, 아론을 데리고 올라오너라. 그러나 제사장들과 백성은 나에게 올라오려고 경계선을 넘어서는 안 된다. 그들이 경계선을 넘으면, 나 주가 그들을 쳐서 죽일 것이다.\"",
     Chn:"耶和华对他说：「下去吧，你要和亚伦一同上来；只是祭司和百姓不可闯过来上到我面前，恐怕我忽然出来击杀他们。」",
     Eng:"The LORD replied, \"Go down and bring Aaron up with you. But the priests and the people must not force their way through to come up to the LORD, or he will break out against them.\"",
     Ind:"Lalu TUHAN berfirman kepadanya: \"Pergilah, turunlah, kemudian naiklah pula, engkau beserta Harun; tetapi para imam dan rakyat tidak boleh menembus untuk mendaki menghadap TUHAN, supaya mereka jangan dilanda-Nya.\""
   },
   {Bible:"Exodus", Chapter:19, Verse:25, Page:1,
-    Kor:"모세가 백성에게 내려가서 그대로 전하였다.",
+    Kor:"모세가 백성에게 내려가서, 그대로 전하였다.",
     Chn:"于是摩西下到百姓那里告诉他们。",
     Eng:"So Moses went down to the people and told them.",
     Ind:"Lalu turunlah Musa mendapatkan bangsa itu dan menyatakan hal itu kepada mereka."

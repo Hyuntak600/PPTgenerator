@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Firaun kepada Yusuf: \"Ayahmu dan saudara-saudaramu telah datang kepadamu."
   },
   {Bible:"Genesis", Chapter:47, Verse:6, Page:1,
-    Kor:"이집트 땅이 그대 앞에 있으니, 그대의 아버지와 형제들이 이 땅에서 가장 좋은 곳에서 살도록 거주지를 마련하시오. 그들이 고센 땅에서 살도록 주선하시오. 형제들 가운데서, 특별한 능력이 있는 사람들을 그대가 알면, 그들이 나의 짐승을 맡아 돌보도록 하시오.\"",
+    Kor:"이집트 땅이 그대 앞에 있으니, 그대의 아버지와 형제들이 이 땅에서 가장 좋은 곳에서 살도록, 거주지를 마련하시오. 그들이 고센 땅에서 살도록 주선하시오. 형제들 가운데서, 특별한 능력이 있는 사람들을 그대가 알면, 그들이 나의 짐승을 맡아 돌보도록 하시오.\"",
     Chn:"埃及地都在你面前，只管叫你父亲和你弟兄住在国中最好的地；他们可以住在歌珊地。你若知道他们中间有什么能人，就派他们看管我的牲畜。」",
     Eng:"and the land of Egypt is before you; settle your father and your brothers in the best part  of the land. Let them live in Goshen. And if you know of any among them with special ability, put  them in charge of my own livestock.\"",
     Ind:"Tanah Mesir ini terbuka untukmu. Tunjukkanlah kepada ayahmu dan kepada saudara-saudaramu tempat menetap di tempat yang terbaik dari negeri ini, biarlah mereka diam di tanah Gosyen. Dan jika engkau tahu di antara mereka orang-orang yang tangkas, tempatkanlah mereka menjadi pengawas ternakku.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Yusuf membawa juga Yakub, ayahnya, menghadap Firaun. Lalu Yakub memohonkan berkat bagi Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:8, Page:1,
-    Kor:"바로가 야곱에게 말하였다. \"어른께서는 연세가 어떻게 되시오?\"",
+    Kor:"바로가 야곱에게 말하였다. \"노인께서는, 연세가 어떻게 되시오?\"",
     Chn:"法老问雅各说：「你平生的年日是多少呢？」",
     Eng:"Pharaoh asked him, \"How old are you?\"",
     Ind:"Kemudian bertanyalah Firaun kepada Yakub: \"Sudah berapa tahun umurmu?\""
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Lalu Yakub memohonkan berkat bagi Firaun, sesudah itu keluarlah ia dari depan Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:11, Page:1,
-    Kor:"요셉은 자기 아버지와 형제들을 이집트 땅에서 살게 하고, 바로가 지시한 대로, 그 땅에서 가장 좋은 곳인 라암세스 지역을 그들의 소유지로 주었다.",
+    Kor:"요셉은 자기 아버지와 형제들을 이집트 땅에서 살게 하고, 바로가 지시한 대로, 그 땅에서 가장 좋은 곳, 라암세스 지역을 그들의 소유지로 주었다.",
     Chn:"约瑟遵着法老的命，把埃及国最好的地，就是兰塞境内的地，给他父亲和弟兄居住，作为产业。",
     Eng:"So Joseph settled his father and his brothers in Egypt and gave them property in the best  part of the land, the district of Rameses, as Pharaoh directed.",
     Ind:"Yusuf menunjukkan kepada ayahnya dan saudara-saudaranya tempat untuk menetap dan memberikan kepada mereka tanah milik di tanah Mesir, di tempat yang terbaik di negeri itu, di tanah Rameses, seperti yang diperintahkan Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:12, Page:1,
-    Kor:"요셉은, 자기 아버지와 형제들과 아버지의 온 집안에, 식구 수에 따라서 먹거리를 대어 주었다.",
+    Kor:"요셉은, 자기 아버지와 형제들과 아버지의 온 집안에, 식구 수에 따라서, 먹을거리를 대어 주었다.",
     Chn:"约瑟用粮食奉养他父亲和他弟兄，并他父亲全家的眷属，都是照各家的人口奉养他们。",
     Eng:"Joseph also provided his father and his brothers and all his father's household with food,  according to the number of their children.",
     Ind:"Dan Yusuf memelihara ayahnya, saudara-saudaranya dan seisi rumah ayahnya dengan makanan, menurut jumlah anak-anak mereka."
   },
   {Bible:"Genesis", Chapter:47, Verse:13, Page:1,
-    Kor:"<기근이 심해지다> ○기근이 더욱 심해지더니, 온 세상에 먹거리가 떨어지고, 이집트 땅과 가나안 땅에서는 이 기근 때문에 사람들이 야위어 갔다.",
+    Kor:"○기근이 더욱 심해지더니, 온 세상에 먹을거리가 떨어지고, 이집트 땅과 가나안 땅에서는 이 기근 때문에 사람들이 야위어 갔다.",
     Chn:"饥荒甚大，全地都绝了粮，甚至埃及地和迦南地的人因那饥荒的缘故都饿昏了。",
     Eng:"There was no food, however, in the whole region because the famine was severe; both Egypt  and Canaan wasted away because of the famine.",
     Ind:"Di seluruh negeri itu tidak ada makanan, sebab kelaparan itu sangat hebat, sehingga seisi tanah Mesir dan tanah Kanaan lemah lesu karena kelaparan itu."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Maka Yusuf mengumpulkan segala uang yang terdapat di tanah Mesir dan di tanah Kanaan, yakni uang pembayar gandum yang dibeli mereka; dan Yusuf membawa uang itu ke dalam istana Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:15, Page:1,
-    Kor:"이집트 땅과 가나안 땅에서 돈마저 떨어지자, 이집트 사람들이 모두 요셉에게 와서 말하였다. \"우리에게 먹거리를 주십시오. 돈이 떨어졌다고 하여, 어른께서 보시는 앞에서 죽을 수야 없지 않습니까?\"",
+    Kor:"이집트 땅과 가나안 땅에서 돈마저 떨어지자, 이집트 사람들이 모두 요셉에게 와서 말하였다. \"우리에게 먹을거리를 주십시오. 돈이 떨어졌다고 하여, 어른께서 보시는 앞에서 죽을 수야 없지 않습니까?\"",
     Chn:"埃及地和迦南地的银子都花尽了，埃及众人都来见约瑟，说：「我们的银子都用尽了，求你给我们粮食，我们为什么死在你面前呢？」",
     Eng:"When the money of the people of Egypt and Canaan was gone, all Egypt came to Joseph and  said, \"Give us food. Why should we die before your eyes? Our money is used up.\"",
     Ind:"Setelah habis uang di tanah Mesir dan di tanah Kanaan, datanglah semua orang Mesir menghadap Yusuf serta berkata: \"Berilah makanan kepada kami! Mengapa kami harus mati di depanmu? Sebab tidak ada lagi uang.\""
   },
   {Bible:"Genesis", Chapter:47, Verse:16, Page:1,
-    Kor:"요셉이 말하였다. \"그러면, 당신들이 기르는 집짐승이라도 가지고 오시오. 돈이 떨어졌다니, 집짐승을 받고서 먹거리를 팔겠소.\"",
+    Kor:"요셉이 말하였다. \"그러면, 너희가 기르는 집짐승이라도 가지고 오너라. 돈이 떨어졌다니, 집짐승을 받고서 먹을거리를 팔겠다.\"",
     Chn:"约瑟说：「若是银子用尽了，可以把你们的牲畜给我，我就为你们的牲畜给你们粮食。」",
     Eng:"\"Then bring your livestock,\" said Joseph. \"I will sell you food in exchange for your  livestock, since your money is gone.\"",
     Ind:"Jawab Yusuf: \"Jika tidak ada lagi uang, berilah ternakmu, maka aku akan memberi makanan kepadamu sebagai ganti ternakmu itu.\""
   },
   {Bible:"Genesis", Chapter:47, Verse:17, Page:1,
-    Kor:"그래서 백성들은 자기들이 기르는 집짐승을 요셉에게로 끌고 왔다. 요셉은 그들이 끌고 온 말과 양 떼와 소 떼와 나귀를 받고서 먹거리를 내주었다. 이렇게 하면서 요셉은, 한 해 동안 내내, 집짐승을 다 받고서 먹거리를 내주었다.",
+    Kor:"그래서 백성들은 자기들이 기르는 집짐승을 요셉에게로 끌고 왔다. 요셉은 그들이 끌고 온 말과 양 떼와 소 떼와 나귀를 받고서, 먹을거리를 내주었다. 이렇게 하면서, 요셉은 한 해 동안 내내, 집짐승을 다 받고서, 먹을거리를 내주었다.",
     Chn:"于是他们把牲畜赶到约瑟那里，约瑟就拿粮食换了他们的牛、羊、驴、马；那一年因换他们一切的牲畜，就用粮食养活他们。",
     Eng:"So they brought their livestock to Joseph, and he gave them food in exchange for their  horses, their sheep and goats, their cattle and donkeys. And he brought them through that year  with food in exchange for all their livestock.",
     Ind:"Lalu mereka membawa ternaknya kepada Yusuf dan Yusuf memberi makanan kepada mereka ganti kuda, kumpulan kambing domba dan kumpulan lembu sapi dan keledainya, jadi disediakannyalah bagi mereka makanan ganti segala ternaknya pada tahun itu."
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Setelah lewat tahun itu, datanglah mereka kepadanya, pada tahun yang kedua, serta berkata kepadanya: \"Tidak usah kami sembunyikan kepada tuanku, bahwa setelah uang kami habis dan setelah kumpulan ternak kami menjadi milik tuanku, tidaklah ada lagi yang tinggal yang dapat kami serahkan kepada tuanku selain badan kami dan tanah kami."
   },
   {Bible:"Genesis", Chapter:47, Verse:19, Page:1,
-    Kor:"어른께서 보시는 앞에서, 우리가 밭과 함께 망할 수야 없지 않습니까? 그러니, 우리의 몸과 우리의 밭을 받고서 먹거리를 파십시오. 우리가 밭까지 바쳐서, 바로의 종이 되겠습니다. 우리에게 씨앗을 주십시오. 그러면, 우리가 죽지 않고 살아날 것이며, 밭도 황폐하게 되지 않을 것입니다.\"",
+    Kor:"어른께서 보시는 앞에서, 우리가 밭과 함께 망할 수야 없지 않습니까? 그러니, 우리의 몸과 우리의 밭을 받고서, 먹을거리를 파십시오. 우리가 밭까지 바쳐서, 바로의 종이 되겠습니다. 우리에게 씨앗을 주십시오. 그러면, 우리가 죽지 않고 살아날 것이며, 밭도 황폐하게 되지 않을 것입니다.\"",
     Chn:"你何忍见我们人死地荒呢？求你用粮食买我们和我们的地，我们和我们的地就要给法老效力。又求你给我们种子，使我们得以存活，不至死亡，地土也不至荒凉。」",
     Eng:"Why should we perish before your eyes--we and our land as well? Buy us and our land in  exchange for food, and we with our land will be in bondage to Pharaoh. Give us seed so that we  may live and not die, and that the land may not become desolate.\"",
     Ind:"Mengapa kami harus mati di depan matamu, baik kami maupun tanah kami? Belilah kami dan tanah kami sebagai ganti makanan, maka kami dengan tanah kami akan menjadi hamba kepada Firaun. Berikanlah benih, supaya kami hidup dan jangan mati, dan supaya tanah itu jangan menjadi tandus.\""
   },
   {Bible:"Genesis", Chapter:47, Verse:20, Page:1,
-    Kor:"○요셉은 이집트에 있는 밭을 모두 사서, 바로의 것이 되게 하였다. 이집트 사람들은, 기근이 너무 심하므로, 견딜 수 없어서, 하나같이 그들이 가지고 있는 밭을 요셉에게 팔았다. 그래서 그 땅은 바로의 것이 되었다.",
+    Kor:"○요셉은 이집트에 있는 밭을 모두 사서, 바로의 것이 되게 하였다. 이집트 사람들은, 기근이 너무 심하므로, 견딜 수 없어서, 하나같이, 그들이 가지고 있는 밭을 요셉에게 팔았다. 그래서 그 땅은 바로의 것이 되었다.",
     Chn:"于是，约瑟为法老买了埃及所有的地，埃及人因被饥荒所迫，各都卖了自己的田地；那地就都归了法老。",
     Eng:"So Joseph bought all the land in Egypt for Pharaoh. The Egyptians, one and all, sold their  fields, because the famine was too severe for them. The land became Pharaoh's,",
     Ind:"Lalu Yusuf membeli segala tanah orang Mesir untuk Firaun, sebab orang Mesir itu masing-masing menjual ladangnya, karena berat kelaparan itu menimpa mereka. Demikianlah negeri itu menjadi milik Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:21, Page:1,
-    Kor:"요셉은 이집트 이 끝에서 저 끝까지를 여러 성읍으로 나누고, a이집트 전 지역에 사는 백성을 옮겨서 살게 하였다.(a 사마리아 오경과 칠십인역과 불가타에는 '요셉이 백성을 강제노동에 징용하였다')",
+    Kor:"요셉은 이집트 이 끝에서 저 끝까지를 여러 성읍으로 나누고, 이집트 전 지역에 사는 백성을 옮겨서 살게 하였다.",
     Chn:"至于百姓，约瑟叫他们，从埃及这边直到埃及那边，都各归各城。",
     Eng:"and Joseph reduced the people to servitude, from one end of Egypt to the other.",
     Ind:"Dan tentang rakyat itu, diperhambakannyalah mereka di daerah Mesir dari ujung yang satu sampai ujung yang lain."
   },
   {Bible:"Genesis", Chapter:47, Verse:22, Page:1,
-    Kor:"그러나 요셉은, 제사장들이 가꾸는 밭은 사들이지 않았다. 제사장들은 바로에게서 정기적으로 녹을 받고 있고, 바로가 그들에게 주는 녹 가운데는 먹거리가 넉넉하였으므로, 그들은 땅을 팔 필요가 없었다.",
+    Kor:"그러나 요셉은, 제사장들이 가꾸는 밭은 사들이지 않았다. 제사장들은 바로에게서 정기적으로 녹을 받고 있고, 바로가 그들에게 주는 녹 가운데는, 먹을거리가 넉넉하였으므로, 그들은 땅을 팔 필요가 없었다.",
     Chn:"惟有祭司的地，约瑟没有买，因为祭司有从法老所得的常俸。他们吃法老所给的常俸，所以他们不卖自己的地。",
     Eng:"However, he did not buy the land of the priests, because they received a regular allotment  from Pharaoh and had food enough from the allotment Pharaoh gave them. That is why they did not  sell their land.",
     Ind:"Hanya tanah para imam tidak dibelinya, sebab para imam mendapat tunjangan tetap dari Firaun, dan mereka hidup dari tunjangan itu; itulah sebabnya mereka tidak menjual tanahnya."
   },
   {Bible:"Genesis", Chapter:47, Verse:23, Page:1,
-    Kor:"요셉이 백성에게 말하였다. \"이제, 내가 당신들의 몸과 당신들의 밭을 사서, 바로께 바쳤소. 여기에 씨앗이 있소. 당신들은 이것을 밭에 뿌리시오.",
+    Kor:"요셉이 백성에게 말하였다. \"이제, 내가 너희의 몸과 너희의 밭을 사서, 바로께 바쳤다. 여기에 씨앗이 있다. 너희는 이것을 밭에 뿌려라.",
     Chn:"约瑟对百姓说：「我今日为法老买了你们和你们的地，看哪，这里有种子给你们，你们可以种地。",
     Eng:"Joseph said to the people, \"Now that I have bought you and your land today for Pharaoh,  here is seed for you so you can plant the ground.",
     Ind:"Berkatalah Yusuf kepada rakyat itu: \"Pada hari ini aku telah membeli kamu dan tanahmu untuk Firaun; inilah benih bagimu, supaya kamu dapat menabur di tanah itu."
   },
   {Bible:"Genesis", Chapter:47, Verse:24, Page:1,
-    Kor:"곡식을 거둘 때에, 거둔 것에서 오분의 일을 바로께 바치고, 나머지 오분의 사는 당신들이 가지시오. 거기에서 밭에 뿌릴 씨앗을 따로 떼어 놓으면, 그 남는 것이 당신들과 당신들의 집안과 당신들 자식들의 먹거리가 될 것이오.\"",
+    Kor:"곡식을 거둘 때에, 거둔 것에서 오분의 일을 바로께 바치고, 나머지 오분의 사는 너희가 가져라. 거기에서 밭에 뿌릴 씨앗을 따로 떼어 놓으면, 그 남는 것이 너희와 너희 집안과 너희 자식들의 먹을거리가 될 것이다.\"",
     Chn:"后来打粮食的时候，你们要把五分之一纳给法老，四分可以归你们做地里的种子，也做你们和你们家口孩童的食物。」",
     Eng:"But when the crop comes in, give a fifth of it to Pharaoh. The other four-fifths you may  keep as seed for the fields and as food for yourselves and your households and your children.\"",
     Ind:"Mengenai hasilnya, kamu harus berikan seperlima bagian kepada Firaun, dan yang empat bagian lagi, itulah menjadi benih untuk ladangmu dan menjadi makanan kamu dan mereka yang ada di rumahmu, dan menjadi makanan anak-anakmu.\""
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah mereka: \"Engkau telah memelihara hidup kami; asal kiranya kami mendapat kasih tuanku, biarlah kami menjadi hamba kepada Firaun.\""
   },
   {Bible:"Genesis", Chapter:47, Verse:26, Page:1,
-    Kor:"요셉이 이렇게 이집트의 토지법 곧 밭에서 거둔 것의 오분의 일을 바로에게 바치는 법을 만들었으며, 지금까지도 그 법은 유효하다. 다만, 제사장의 땅만은 바로의 것이 되지 않았다.",
+    Kor:"요셉이 이렇게 이집트의 토지법, 곧 밭에서 거둔 것의 오분의 일을 바로에게 바치는 법을 만들었으며, 지금까지도 그 법은 유효하다. 다만, 제사장의 땅만은 바로의 것이 되지 않았다.",
     Chn:"于是约瑟为埃及地定下常例，直到今日：法老必得五分之一，惟独祭司的地不归法老。",
     Eng:"So Joseph established it as a law concerning land in Egypt--still in force today--that a  fifth of the produce belongs to Pharaoh. It was only the land of the priests that did not become  Pharaoh's.",
     Ind:"Yusuf membuat hal itu menjadi suatu ketetapan mengenai tanah di Mesir sampai sekarang, yakni bahwa seperlima dari hasilnya menjadi milik Firaun; hanya tanah para imam tidak menjadi milik Firaun."
   },
   {Bible:"Genesis", Chapter:47, Verse:27, Page:1,
-    Kor:"<야곱의 마지막 요청> ○이스라엘 자손은 이집트의 고센 땅에 자리를 잡았다. 거기에서 그들은 재산을 얻고, 생육하며 번성하였다.",
+    Kor:"○이스라엘 자손은 이집트의 고센 땅에 자리를 잡았다. 거기에서 그들은 재산을 얻고, 생육하며 번성하였다.",
     Chn:"以色列人住在埃及的歌珊地。他们在那里置了产业，并且生育甚多。",
     Eng:"Now the Israelites settled in Egypt in the region of Goshen. They acquired property there  and were fruitful and increased greatly in number.",
     Ind:"Maka diamlah Israel di tanah Mesir, di tanah Gosyen, dan mereka menjadi penduduk di situ. Mereka beranak cucu dan sangat bertambah banyak."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Dan Yakub masih hidup tujuh belas tahun di tanah Mesir, maka umur Yakub, yakni tahun-tahun hidupnya, menjadi seratus empat puluh tujuh tahun."
   },
   {Bible:"Genesis", Chapter:47, Verse:29, Page:1,
-    Kor:"○이스라엘은 죽을 날을 앞두고, 그의 아들 요셉을 불러 놓고 일렀다. \"네가 이 아버지에게 효도를 할 생각이 있으면, 너의 손을 나의 다리 사이에 넣고, 네가 인애와 성심으로 나의 뜻을 받들겠다고 나에게 약속하여라. 나를 이집트에 묻지 말아라.",
+    Kor:"○이스라엘은 죽을 날을 앞두고, 그의 아들 요셉을 불러 놓고 일렀다. \"네가 이 아버지에게 효도를 할 생각이 있으면, 너의 손을 나의 다리 사이에 넣고, 네가 인애와 성심으로 나의 뜻을 받들겠다고, 나에게 약속하여라. 나를 이집트에 묻지 말아라.",
     Chn:"以色列的死期临近了，他就叫了他儿子约瑟来，说：「我若在你眼前蒙恩，请你把手放在我大腿底下，用慈爱和诚实待我，请你不要将我葬在埃及。",
     Eng:"When the time drew near for Israel to die, he called for his son Joseph and said to him,  \"If I have found favor in your eyes, put your hand under my thigh and promise that you will show  me kindness and faithfulness. Do not bury me in Egypt,",
     Ind:"Ketika hampir waktunya bahwa Israel akan mati, dipanggilnyalah anaknya, Yusuf, dan berkata kepadanya: \"Jika aku mendapat kasihmu, letakkanlah kiranya tanganmu di bawah pangkal pahaku, dan bersumpahlah, bahwa engkau akan menunjukkan kasih dan setia kepadaku: Janganlah kiranya kuburkan aku di Mesir,"

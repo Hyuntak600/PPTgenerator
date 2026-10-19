@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",25,28);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:25, Verse:1, Page:1,
-    Kor:"<유다 왕 아마샤(왕하 14:2-6)> 아마샤가 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 스물아홉 해 동안 다스렸다. 그의 어머니 여호앗단은 예루살렘 사람이다.",
+    Kor:"아마샤가 왕이 되었을 때에, 그는 스물다섯 살이었다. 그는 예루살렘에서 스물아홉 해 동안 다스렸다. 그의 어머니 여호앗단은 예루살렘 사람이다.",
     Chn:"亚玛谢登基的时候年二十五岁，在耶路撒冷作王二十九年。他母亲名叫约耶但，是耶路撒冷人。",
     Eng:"Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother's name was Jehoaddin; she was from Jerusalem.",
     Ind:"Amazia berumur dua puluh lima tahun pada waktu ia menjadi raja dan dua puluh sembilan tahun lamanya ia memerintah di Yerusalem; nama ibunya ialah Yoadan, dari Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:2, Page:1,
-    Kor:"그는 주님께서 보시기에 올바른 일을 하였으나, 마음을 다하여 하지는 않았다.",
+    Kor:"그는 주께서 보시기에 올바른 일을 하였으나, 마음을 다하여 하지는 않았다.",
     Chn:"亚玛谢行耶和华眼中看为正的事，只是心不专诚。",
     Eng:"He did what was right in the eyes of the LORD, but not wholeheartedly.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, hanya tidak dengan segenap hati."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Segera sesudah kuasa kerajaan itu kokoh di tangannya, dibunuhnyalah pegawai-pegawainya yang telah membunuh raja, yaitu ayahnya."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:4, Page:1,
-    Kor:"처형받은 신하의 자녀는 죽이지 않았으니, 그것은 그가 모세의 책, 곧 율법에 기록된 말씀을 따른 것이었다. 거기에는 \"아버지가 자녀 대신에 처형받아서는 안 되고, 또 자녀가 아버지 대신에 처형받아서도 안 된다. 오직 각 사람은 자신이 지은 죄에 따라 처형받아야 한다\" 하고 말씀하신 주님의 명령이 있다.",
+    Kor:"처형받은 신하의 자녀는 죽이지 않았으니, 그것은 그가 모세의 책, 곧 율법에 기록된 말씀을 따른 것이었다. 거기에는 \"아버지가 자녀 대신에 처형받아서는 안 되고, 또 자녀가 아버지 대신에 처형받아서도 안 된다. 오직 각 사람은 자신이 지은 죄에 따라 처형받아야 한다\" 하고 말씀하신 주의 명령이 있다.",
     Chn:"却没有治死他们的儿子，是照摩西律法书上耶和华所吩咐的说：「不可因子杀父，也不可因父杀子，各人要为本身的罪而死。」",
     Eng:"Yet he did not put their sons to death, but acted in accordance with what is written in the Law, in the Book of Moses, where the LORD commanded: \"Fathers shall not be put to death for their children, nor children put to death for their fathers; each is to die for his own sins.\"",
     Ind:"Tetapi anak-anak mereka tidak dihukum mati olehnya, melainkan ia bertindak sesuai dengan apa yang tertulis dalam Taurat, yakni kitab Musa, di mana TUHAN telah memberi perintah: \"Janganlah ayah mati karena anaknya, janganlah juga anak mati karena ayahnya, melainkan setiap orang harus mati karena dosanya sendiri.\""
   },
   {Bible:"2Chronicles", Chapter:25, Verse:5, Page:1,
-    Kor:"<에돔과의 전쟁(왕하 14:7)> ○아마샤는 유다 지파와 베냐민 지파 사람들을 그들이 소속된 가문별로 군대 단위로 조직하고, 그들 위에 군대 지휘관인 천부장과 백부장을 임명하여 세웠다. 이 군대 조직에 편성된 사람들은 스무 살 이상 된 남자들로서, 모두 삼십만 명이나 되었다. 이 사람들은 창과 방패로 무장하고, 전쟁터에 나갈 수 있는 장정들이었다.",
+    Kor:"○아마샤는 유다 지파와 베냐민 지파 사람들을 그들이 소속된 가문별로 군대 단위로 조직하고, 그들 위에 군대 지휘관인 천부장과 백부장을 임명하여 세웠다. 이 군대 조직에 편성된 사람들은 스무 살 이상 된 남자들로서, 모두 삼십만 명이나 되었다. 이 사람들은 창과 방패로 무장하고, 전쟁터에 나갈 수 있는 장정들이었다.",
     Chn:"亚玛谢招聚犹大人，按着犹大和便雅悯的宗族设立千夫长、百夫长，又数点人数，从二十岁以外，能拿枪拿盾牌出去打仗的精兵共有三十万；",
     Eng:"Amaziah called the people of Judah together and assigned them according to their families to commanders of thousands and commanders of hundreds for all Judah and Benjamin. He then mustered those twenty years old or more and found that there were three hundred thousand men ready for military service, able to handle the spear and shield.",
     Ind:"Lalu Amazia mengumpulkan orang Yehuda dan menyuruh mereka, yakni seluruh orang Yehuda dan Benyamin, berdiri menurut puak-puaknya di bawah kepala-kepala pasukan seribu dan kepala-kepala pasukan seratus. Ketika ia menghitung mereka yang berumur dua puluh tahun ke atas, didapatinya tiga ratus ribu teruna yang sanggup keluar berperang dengan tombak dan perisai."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Selain itu ia menyewa seratus ribu pahlawan yang gagah perkasa dari Israel dengan bayaran seratus talenta perak."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:7, Page:1,
-    Kor:"그러나 어떤 하나님의 사람이 아마샤에게 가서 말하였다. \"임금님, 임금님께서는 이스라엘 군대를 데리고 가지 마십시오. 주님께서는 북왕국 이스라엘, 곧 에브라임 자손과 함께 계시지 않으십니다.",
+    Kor:"그러나 어떤 하나님의 사람이 아마샤에게 가서 말하였다. \"임금님, 임금님께서는 이스라엘 군대를 데리고 가지 마십시오. 주께서는 북왕국 이스라엘, 곧 에브라임 자손과 함께 계시지 않으십니다.",
     Chn:"有一个神人来见亚玛谢，对他说：「王啊，不要使以色列的军兵与你同去，因为耶和华不与以色列人以法莲的后裔同在。",
     Eng:"But a man of God came to him and said, \"O king, these troops from Israel must not march with you, for the LORD is not with Israel--not with any of the people of Ephraim.",
     Ind:"Tetapi seorang abdi Allah datang kepadanya dan berkata: \"Ya raja, janganlah tentara Israel dibiarkan bergabung kepada tuanku, karena TUHAN tidak menyertai Israel, yakni semua bani Efraim ini."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Dan jikalau mereka bergabung juga, bagaimanapun juga perbuatan dan kekuatanmu di dalam perang, Allah akan menggelincirkan engkau di depan musuh, sebab Allah mempunyai kuasa untuk menolong dan menggelincirkan!\""
   },
   {Bible:"2Chronicles", Chapter:25, Verse:9, Page:1,
-    Kor:"○아마샤가 하나님의 사람에게 물었다. \"북 이스라엘 군인을 고용하느라고 지불한 은 백 달란트는 어떻게 하면 좋겠습니까?\" 하나님의 사람이 대답하였다. \"주님께서는 그것보다 더 많은 것을 임금님께 주실 수 있습니다.\"",
+    Kor:"○아마샤가 하나님의 사람에게 물었다. \"북 이스라엘 군인을 고용하느라고 지불한 은 백 달란트는 어떻게 하면 좋겠습니까?\" 하나님의 사람이 대답하였다. \"주께서는 그것보다 더 많은 것을 임금님께 주실 수 있습니다.\"",
     Chn:"亚玛谢问神人说：「我给了以色列军的那一百他连得银子怎么样呢？」神人回答说：「耶和华能把更多的赐给你。」",
     Eng:"Amaziah asked the man of God, \"But what about the hundred talents I paid for these Israelite troops?\" The man of God replied, \"The LORD can give you much more than that.\"",
     Ind:"Lalu kata Amazia kepada abdi Allah itu: \"Bagaimana dengan seratus talenta yang telah kuberikan kepada pasukan-pasukan Israel itu?\" Jawab abdi Allah itu: \"TUHAN dapat memberikan lebih dari pada itu kepadamu!\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Amazia mendapat keberanian lalu memimpin rakyatnya ke Lembah Asin dan memukul kalah sepuluh ribu orang dari bani Seir."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:12, Page:1,
-    Kor:"유다 군대가 또 별도로 만 명을 산 채로 붙잡아서, 절벽 위로 끌고 올라가, 그 밑으로 떨어뜨리자, 그들의 몸이 으스러졌다.",
+    Kor:"유다 군대가 또 별도로 만 명을 산 채로 붙잡아서, 절벽 뒤로 끌고 올라가, 그 밑으로 떨어뜨리자, 그들의 몸이 으스러졌다.",
     Chn:"犹大人又生擒了一万带到山崖上，从那里把他们扔下去，以致他们都摔碎了。",
     Eng:"The army of Judah also captured ten thousand men alive, took them to the top of a cliff and threw them down so that all were dashed to pieces.",
     Ind:"Selain itu sepuluh ribu orang ditawan hidup-hidup oleh bani Yehuda dan dibawa ke suatu puncak bukit batu, lalu mereka dicampakkan dari puncak bukit batu itu, sehingga hancurlah mereka semua."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ketika Amazia kembali, setelah mengalahkan orang-orang Edom itu, ia mendirikan para allah bani Seir, yang dibawanya pulang, sebagai allahnya. Ia sujud menyembah kepada allah-allah itu dan membakar korban untuk mereka."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:15, Page:1,
-    Kor:"이 일로 주님께서 아마샤에게 크게 진노하셔서 예언자 한 사람을 보내시니, 그가 가서 아마샤에게 말하였다. \"이 신들은 자기들을 섬기는 그 백성들을 임금님의 손에서 건져 내지도 못하였는데, 임금님께서는 이 신들에게 비시니 어찌 된 일입니까?\"",
+    Kor:"이 일로 주께서 아마샤에게 크게 진노하셔서 예언자 한 사람을 보내시니, 그가 가서 아마샤에게 말하였다. \"이 신들은 자기들을 섬기는 그 백성들을 임금님의 손에서 건져 내지도 못하였는데, 임금님께서는 이 신들에게 비시니 어찌 된 일입니까?\"",
     Chn:"因此，耶和华的怒气向亚玛谢发作，就差一个先知去见他，说：「这些神不能救它的民脱离你的手，你为何寻求它呢？」",
     Eng:"The anger of the LORD burned against Amaziah, and he sent a prophet to him, who said, \"Why do you consult this people's gods, which could not save their own people from your hand?\"",
     Ind:"Maka bangkitlah murka TUHAN terhadap Amazia; Ia menyuruh seorang nabi kepadanya yang berkata: \"Mengapa engkau mencari allah sesuatu bangsa yang tidak dapat melepaskan bangsanya sendiri dari tanganmu?\""
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Waktu nabi sedang berbicara, berkatalah Amazia kepadanya: \"Apakah kami telah mengangkat engkau menjadi penasihat raja? Diamlah! Apakah engkau mau dibunuh?\" Lalu diamlah nabi itu setelah berkata: \"Sekarang aku tahu, bahwa Allah telah menentukan akan membinasakan engkau, karena engkau telah berbuat hal ini, dan tidak mendengarkan nasihatku!\""
   },
   {Bible:"2Chronicles", Chapter:25, Verse:17, Page:1,
-    Kor:"<이스라엘과의 전쟁(왕하 14:8-20)> ○유다 왕 아마샤가 참모들과 함께 이스라엘에 대항할 모의를 하고, 예후의 손자요 여호아하스의 아들인 이스라엘의 여호아스 왕에게 전령을 보내어서, 서로 직접 만나 힘을 겨루어 보자고 제안하였다.",
+    Kor:"○유다 왕 아마샤가 참모들과 함께 이스라엘에 대항할 모의를 하고, 예후의 손자요 여호아하스의 아들인 이스라엘의 여호아스 왕에게 전령을 보내어서, 서로 직접 만나 힘을 겨루어 보자고 제안하였다.",
     Chn:"犹大王亚玛谢与群臣商议，就差遣使者去见耶户的孙子、约哈斯的儿子、以色列王约阿施，说：「你来，我们二人相见于战场。」",
     Eng:"After Amaziah king of Judah consulted his advisers, he sent this challenge to Jehoash son of Jehoahaz, the son of Jehu, king of Israel: \"Come, meet me face to face.\"",
     Ind:"Kemudian Amazia, raja Yehuda, mengadakan perundingan, lalu menyuruh orang kepada Yoas bin Yoahas bin Yehu, raja Israel, mengatakan: \"Mari kita mengadu tenaga!\""
   },
   {Bible:"2Chronicles", Chapter:25, Verse:18, Page:1,
-    Kor:"이스라엘의 여호아스 왕은 유다의 아마샤 왕에게 사람을 보내어서 회답하였다. \"레바논의 가시나무가 레바논의 백향목에게 전갈을 보내어서 백향목의 딸을 며느리로 달라고 청혼하는 것을 보고, 레바논의 들짐승이 지나가다가 그 가시나무를 짓밟은 일이 있습니다.",
+    Kor:"이스라엘의 여호아스 왕은 유다의 아마샤 왕에게 사람을 보내어서 회답하였다. \"레바논의 가시나무가 레바논의 백향목에게 전갈을 보내어서 백향목의 딸을 며느리로 달라고 청혼하는 것을 보고, 레바논의 들짐승이 지나가다가 그 가시나무를 짓밟은 일이 있다.",
     Chn:"以色列王约阿施差遣使者去见犹大王亚玛谢，说：「黎巴嫩的蒺藜差遣使者去见黎巴嫩的香柏树，说：『将你的女儿给我儿子为妻。』后来黎巴嫩有一个野兽经过，把蒺藜践踏了。",
     Eng:"But Jehoash king of Israel replied to Amaziah king of Judah: \"A thistle in Lebanon sent a message to a cedar in Lebanon, 'Give your daughter to my son in marriage.' Then a wild beast in Lebanon came along and trampled the thistle underfoot.",
     Ind:"Tetapi Yoas, raja Israel, menyuruh orang kepada Amazia, raja Yehuda, mengatakan: \"Onak yang di gunung Libanon mengirim pesan kepada pohon aras yang di gunung Libanon, bunyinya: Berikanlah anakmu perempuan kepada anakku laki-laki menjadi isterinya. Tetapi binatang-binatang hutan yang ada di gunung Libanon itu berjalan lewat dari sana, lalu menginjak onak itu."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:19, Page:1,
-    Kor:"당신은 에돔을 쳐부수었다는 것을 스스로 대견스럽게 여겨 자랑하면서, 건방지게 우쭐대지만, 차라리 당신 궁전에 그대로 머물러 있으면 별 탈이 없을 터인데, 어찌하여 당신은 당신 자신과 유다를 함께 멸망시킬 화근을 스스로 불러들이고 있습니까?\"",
+    Kor:"너는 에돔을 쳐부수었다는 것을 스스로 대견스럽게 여겨 자랑하면서, 건방지게 우쭐대지만, 차라리 네 궁전에 그대로 머물러 있으면 별 탈이 없을 터인데, 어찌하여 너는 네 자신과 유다를 함께 멸망시킬 화근을 스스로 불러들이느냐?\"",
     Chn:"你说：『看哪，我打败了以东人』，你就心高气傲，以致矜夸。你在家里安居就罢了，为何要惹祸使自己和犹大国一同败亡呢？」",
     Eng:"You say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?\"",
     Ind:"Pikirmu, engkau sudah mengalahkan Edom, sebab itu hatimu mengangkat-angkat dirimu untuk mendapat kehormatan. Sekarang, tinggal saja di rumah. Untuk apa engkau menantang malapetaka, sehingga engkau jatuh dan Yehuda bersama-sama engkau?\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Yehuda terpukul kalah oleh Israel, sehingga masing-masing lari ke kemahnya."
   },
   {Bible:"2Chronicles", Chapter:25, Verse:23, Page:1,
-    Kor:"이스라엘의 여호아스 왕은 벳세메스에서 a아하시야의 손자요 요아스의 아들인 유다의 아마샤 왕을 사로잡아서, 예루살렘으로 들어 왔다. 그는 예루살렘 성벽을, 에브라임 문에서부터 성 모퉁이 문에 이르기까지 사백 자 길이의 성벽을 허물어 버렸다.(a 히, '여호아하스'. 히브리 이름 '아하시야'와 '여호아하스'는 서로 바꾸어 쓸 수 있음)",
+    Kor:"이스라엘의 여호아스 왕은 벳세메스에서 아하시야의 손자요 요아스의 아들인 유다의 아마샤 왕을 사로잡아서, 예루살렘으로 들어 왔다. 그는 예루살렘 성벽을, 에브라임 문에서부터 성 모퉁이 문에 이르기까지 사백 자 길이의 성벽을 허물어 버렸다.",
     Chn:"以色列王约阿施在伯·示麦擒住约哈斯的孙子、约阿施的儿子、犹大王亚玛谢，将他带到耶路撒冷，又拆毁耶路撒冷的城墙，从以法莲门直到角门，共四百肘；",
     Eng:"Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah, at Beth Shemesh. Then Jehoash brought him to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate--a section about six hundred feet long.",
     Ind:"Yoas, raja Israel, menangkap Amazia, raja Yehuda, anak Yoas bin Yoahas, di Bet-Semes. Lalu Yoas membawa dia ke Yerusalem. Ia membongkar tembok Yerusalem dari Pintu Gerbang Efraim sampai ke Pintu Gerbang Sudut, empat ratus hasta panjangnya."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Amazia, dari awal sampai akhir, bukankah semuanya itu tertulis dalam kitab raja-raja Yehuda dan Israel?"
   },
   {Bible:"2Chronicles", Chapter:25, Verse:27, Page:1,
-    Kor:"아마샤가 주님을 따르다가 등지고 돌아선 뒤에, 예루살렘에서 반란이 일어나자, 아마샤는 라기스로 도망하였다. 그러나 반란을 일으킨 사람들은 라기스에까지 사람을 보내어, 거기에서 그를 죽였고,",
+    Kor:"아마샤가 주를 따르다가 등지고 돌아선 뒤에, 예루살렘에서 반란이 일어나자, 아마샤는 라기스로 도망하였다. 그러나 반란을 일으킨 사람들은 라기스에까지 사람을 보내어, 거기에서 그를 죽였고,",
     Chn:"自从亚玛谢离弃耶和华之后，在耶路撒冷有人背叛他，他就逃到拉吉；叛党却打发人到拉吉，将他杀了。",
     Eng:"From the time that Amaziah turned away from following the LORD, they conspired against him in Jerusalem and he fled to Lachish, but they sent men after him to Lachish and killed him there.",
     Ind:"Sejak Amazia menjauhi TUHAN, orang mengadakan persepakatan melawan dia di Yerusalem, sebab itu larilah ia ke Lakhis. Tetapi mereka menyuruh mengejar dia ke Lakhis, lalu dibunuhlah ia di sana."

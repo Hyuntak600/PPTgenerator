@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",14,52);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:14, Verse:1, Page:1,
-    Kor:"<블레셋을 습격한 요나단> 하루는 사울의 아들 요나단이 자기의 무기를 든 젊은 병사에게 말하였다. \"우리가 저 건너편에 있는 블레셋 군대의 전초부대로 건너가자.\" 그러나 요나단은 이 일을 자기의 아버지에게는 알리지 않았다.",
+    Kor:"하루는 사울의 아들 요나단이 자기의 무기를 든 젊은 병사에게 말하였다. \"우리가 저 건너편에 있는 블레셋 군대의 전초부대로 건너가자.\" 그러나 요나단은 이 일을 자기의 아버지에게는 알리지 않았다.",
     Chn:"有一日，扫罗的儿子约拿单对拿他兵器的少年人说：「我们不如过到那边，到非利士人的防营那里去。」但他没有告诉父亲。",
     Eng:"One day Jonathan son of Saul said to the young man bearing his armor, \"Come, let's go over to the Philistine outpost on the other side.\" But he did not tell his father.",
     Ind:"Pada suatu hari Yonatan bin Saul berkata kepada bujang pembawa senjatanya: \"Mari kita menyeberang ke dekat pasukan pengawal orang Filistin yang di sebelah sana.\" Tetapi tidak diberitahukannya hal itu kepada ayahnya."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Adapun Saul duduk di ujung Gibea di bawah pohon delima yang di Migron. Dan rakyat yang ada bersama-sama dengan dia itu, kira-kira enam ratus orang banyaknya."
   },
   {Bible:"1Samuel", Chapter:14, Verse:3, Page:1,
-    Kor:"a(아히야가 에봇을 입고 제사장 일을 맡고 있었는데, 그는 바로 이가봇의 형제이다. 아히야의 아버지는 아히둡이고, 할아버지는 비느하스이고, 그 윗대는 실로에서 주님을 모시던 제사장 엘리이다.) 그들 가운데 아무도 요나단이 떠난 것을 알지 못하였다.(a '주님의 형제')",
+    Kor:"(아히야가 에봇을 입고 제사장 일을 맡고 있었는데, 그는 바로 이가봇의 형제이다. 아히야의 아버지는 아히둡이고, 할아버지는 비느하스이고, 그 윗대는 실로에서 주를 모시던 제사장 엘리이다.) 그들 가운데 아무도 요나단이 떠난 것을 알지 못하였다.",
     Chn:"在那里有亚希突的儿子亚希亚，穿着以弗得。（亚希突是以迦博的哥哥，非尼哈的儿子，以利的孙子。以利从前在示罗作耶和华的祭司。）约拿单去了，百姓却不知道。",
     Eng:"among whom was Ahijah, who was wearing an ephod. He was a son of Ichabod's brother Ahitub son of Phinehas, the son of Eli, the LORD'S priest in Shiloh. No one was aware that Jonathan had left.",
     Ind:"Ahia, anak Ahitub, saudara Ikabod, anak Pinehas, anak Eli, imam TUHAN di Silo, dialah yang memakai baju efod pada waktu itu. Tetapi rakyat tidak tahu tentang perginya Yonatan itu."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Ujung yang satu berdiri di sebelah utara di tentangan Mikhmas, yang lain di sebelah selatan di tentangan Geba."
   },
   {Bible:"1Samuel", Chapter:14, Verse:6, Page:1,
-    Kor:"○요나단이 무기를 든 젊은 병사에게 말하였다. \"저 할례받지 않은 이방인의 전초부대로 건너가자. 주님께서 도와 주시면 승리를 거둘 수도 있다. 주님께서 허락하시는 승리는 군대의 수가 많고 적음에 달려 있지 않다.\"",
+    Kor:"○요나단이 무기를 든 젊은 병사에게 말하였다. \"저 할례받지 않은 이방인의 전초부대로 건너가자. 주께서 도와 주시면 승리를 거둘 수도 있다. 주께서 허락하시는 승리는 군대의 수가 많고 적음에 달려 있지 않다.\"",
     Chn:"约拿单对拿兵器的少年人说：「我们不如过到未受割礼人的防营那里去，或者耶和华为我们施展能力；因为耶和华使人得胜，不在乎人多人少。」",
     Eng:"Jonathan said to his young armor-bearer, \"Come, let's go over to the outpost of those uncircumcised fellows. Perhaps the LORD will act in our behalf. Nothing can hinder the LORD from saving, whether by many or by few.\"",
     Ind:"Berkatalah Yonatan kepada bujang pembawa senjatanya itu: \"Mari kita menyeberang ke dekat pasukan pengawal orang-orang yang tidak bersunat ini. Mungkin TUHAN akan bertindak untuk kita, sebab bagi TUHAN tidak sukar untuk menolong, baik dengan banyak orang maupun dengan sedikit orang.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Apabila kata mereka kepada kita begini: Berhentilah, sampai kami datang padamu, maka kita tinggal berdiri di tempat kita dan tidak naik mendapatkan mereka,"
   },
   {Bible:"1Samuel", Chapter:14, Verse:10, Page:1,
-    Kor:"그러나 그들이 우리를 자기들에게로 올라오라고 하면, 우리는 올라간다. 이것을, 주님께서 그들을 우리에게 넘겨 주셨다는 징조로 알자.\"",
+    Kor:"그러나 그들이 우리를 자기들에게로 올라오라고 하면, 우리는 올라간다. 이것을, 주께서 그들을 우리에게 넘겨 주셨다는 징조로 알자.\"",
     Chn:"他们若说：『你们上到我们这里来』，这话就是我们的证据；我们便上去，因为耶和华将他们交在我们手里了。」",
     Eng:"But if they say, 'Come up to us,' we will climb up, because that will be our sign that the LORD has given them into our hands.\"",
     Ind:"tetapi apabila kata mereka begini: Naiklah ke mari, maka kita akan naik, sebab kalau demikian TUHAN telah menyerahkan mereka ke dalam tangan kita. Itulah tandanya bagi kita.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Ketika mereka keduanya memperlihatkan diri kepada pasukan pengawal orang Filistin, berkatalah orang Filistin itu: \"Lihat, orang-orang Ibrani keluar dari lobang-lobang tempat mereka bersembunyi.\""
   },
   {Bible:"1Samuel", Chapter:14, Verse:12, Page:1,
-    Kor:"전초부대의 군인들이 요나단과 그의 무기를 든 병사에게 소리쳤다. \"이리로 올라오너라. 너희에게 보여 줄 것이 있다.\" 요나단이 자기의 무기를 든 병사를 돌아보며 말하였다. \"너는 나를 따라 올라오너라. 주님께서 그들을 이스라엘의 손에 넘겨 주셨다.\"",
+    Kor:"전초부대의 군인들이 요나단과 그의 무기를 든 병사에게 소리쳤다. \"이리로 올라오너라. 너희에게 보여 줄 것이 있다.\" 요나단이 자기의 무기를 든 병사를 돌아보며 말하였다. \"너는 나를 따라 올라오너라. 주께서 그들을 이스라엘의 손에 넘겨 주셨다.\"",
     Chn:"防兵对约拿单和拿兵器的人说：「你们上到这里来，我们有一件事指示你们。」约拿单就对拿兵器的人说：「你跟随我上去，因为耶和华将他们交在以色列人手里了。」",
     Eng:"The men of the outpost shouted to Jonathan and his armor-bearer, \"Come up to us and we'll teach you a lesson.\" So Jonathan said to his armor-bearer, \"Climb up after me; the LORD has given them into the hand of Israel.\"",
     Ind:"Orang-orang dari pasukan pengawal itu berseru kepada Yonatan dan pembawa senjatanya, katanya: \"Naiklah ke mari, maka kami akan menghajar kamu.\" Lalu kata Yonatan kepada pembawa senjatanya: \"Naiklah mengikuti aku, sebab TUHAN telah menyerahkan mereka ke dalam tangan orang Israel.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu timbullah kegentaran di perkemahan, di padang dan di antara seluruh rakyat. Juga pasukan pengawal dan penjarah-penjarah itu gentar, dan bumi gemetar, sehingga menjadi kegentaran yang dari Allah."
   },
   {Bible:"1Samuel", Chapter:14, Verse:16, Page:1,
-    Kor:"<서로 쳐죽이는 블레셋 군인들> ○베냐민 지역의 기브아에서 망을 보는 사울의 파수꾼들이 건너다 보니, 수많은 블레셋 군인들이 아우성을 치며 이리저리 몰려다니고 있었다.",
+    Kor:"○베냐민 지역의 기브아에서 망을 보는 사울의 파수꾼들이 건너다 보니, 수많은 블레셋 군인들이 아우성을 치며 이리저리 몰려다니고 있었다.",
     Chn:"在便雅悯的基比亚，扫罗的守望兵看见非利士的军众溃散，四围乱窜。",
     Eng:"Saul's lookouts at Gibeah in Benjamin saw the army melting away in all directions.",
     Ind:"Ketika peninjau-peninjau Saul di Gibea Benyamin melihat hal itu--dan sesungguhnya, orang ramai seperti ombak berjalan ke sana ke mari--"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"berkatalah Saul kepada tentara yang bersama-sama dengan dia itu: \"Periksalah barisan dan lihatlah siapa yang pergi dari pada kita.\" Mereka memeriksa barisan, dan ternyata Yonatan dan pembawa senjatanya tidak ada."
   },
   {Bible:"1Samuel", Chapter:14, Verse:18, Page:1,
-    Kor:"그러자 사울은 아히야에게 하나님의 b궤를 가지고 오라고 말하였다. 그 때에는 하나님의 궤가 이스라엘 자손과 함께 있었다.(b 칠십인역에는 '에봇')",
+    Kor:"그러자 사울은 아히야에게 하나님의 궤를 가지고 오라고 말하였다. 그 때에는 하나님의 궤가 이스라엘 자손과 함께 있었다.",
     Chn:"那时　神的约柜在以色列人那里。扫罗对亚希亚说：「你将　神的约柜运了来。」",
     Eng:"Saul said to Ahijah, \"Bring the ark of God.\" (At that time it was with the Israelites.)",
     Ind:"Lalu kata Saul kepada Ahia: \"Bawalah baju efod ke mari.\" Karena pada waktu itu dialah yang memakai baju efod di antara orang Israel."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Bahkan, ketika semua orang Israel yang telah bersembunyi di pegunungan Efraim, mendengar bahwa orang Filistin telah lari, orang-orang itupun bergabung dengan mereka dalam pertempuran."
   },
   {Bible:"1Samuel", Chapter:14, Verse:23, Page:1,
-    Kor:"그 날 주님께서 이렇게 이스라엘을 구원하셨다. <사울의 맹세와 요나단의 실수> ○전쟁은 벳아웬 너머에까지 번졌다.",
+    Kor:"그 날 주께서 이렇게 이스라엘을 구원하셨다. ○전쟁은 벳아웬 너머에까지 번졌다.",
     Chn:"那日，耶和华使以色列人得胜，一直战到伯·亚文。",
     Eng:"So the LORD rescued Israel that day, and the battle moved on beyond Beth Aven.",
     Ind:"Demikianlah TUHAN menyelamatkan orang Israel pada hari itu. Pertempuran itu meluas sampai lewat Bet-Awen."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Ketika orang-orang Israel terdesak pada hari itu, Saul menyuruh rakyat mengucapkan kutuk, katanya: \"Terkutuklah orang yang memakan sesuatu sebelum matahari terbenam dan sebelum aku membalas dendam terhadap musuhku.\" Sebab itu tidak ada seorangpun dari rakyat yang memakan sesuatu."
   },
   {Bible:"1Samuel", Chapter:14, Verse:25, Page:1,
-    Kor:"c거기에 있던 모든 군인들이 숲으로 들어갔다. 들녘의 땅바닥에는 꿀이 있었다.(c 또는 '그 땅의 모든 백성이')",
+    Kor:"거기에 있던 모든 군인들이 숲으로 들어갔다. 들녘의 땅바닥에는 꿀이 있었다.",
     Chn:"众民进入树林，见有蜜在地上。",
     Eng:"The entire army entered the woods, and there was honey on the ground.",
     Ind:"Dan seluruh orang itu sampailah ke suatu hutan dan di sana ada madu di tanah."
@@ -195,61 +195,61 @@ BibleDB.add([
     Ind:"sebab itu rakyat menyambar jarahan; mereka mengambil kambing domba, lembu dan anak lembu, menyembelihnya begitu saja di atas tanah, dan memakannya dengan darahnya."
   },
   {Bible:"1Samuel", Chapter:14, Verse:33, Page:1,
-    Kor:"사람들이 이 사실을 사울에게 알렸다. \"보십시오, 백성들이 피째로 고기를 먹어, 주님께 죄를 지었습니다.\" 사울이 말하였다. \"당신들은 하나님을 배신하였소! 큰 돌 하나를 여기 나 있는 곳으로 굴려 오시오!\"",
+    Kor:"사람들이 이 사실을 사울에게 알렸다. \"보십시오, 백성들이 피째로 고기를 먹어, 주께 죄를 지었습니다.\" 사울이 말하였다. \"너희는 하나님을 배신하였다! 큰 돌 하나를 여기, 나 있는 곳으로 굴려 오너라!\"",
     Chn:"有人告诉扫罗说：「百姓吃带血的肉，得罪耶和华了。」扫罗说：「你们有罪了，今日要将大石头滚到我这里来。」",
     Eng:"Then someone said to Saul, \"Look, the men are sinning against the LORD by eating meat that has blood in it.\" \"You have broken faith,\" he said. \"Roll a large stone over here at once.\"",
     Ind:"Lalu diberitahukanlah kepada Saul, demikian: \"Lihat, rakyat berdosa terhadap TUHAN dengan memakannya dengan darahnya.\" Dan ia berkata: \"Kamu berbuat khianat; gulingkanlah sekarang juga sebuah batu besar ke mari.\""
   },
   {Bible:"1Samuel", Chapter:14, Verse:34, Page:1,
-    Kor:"사울이 또 지시하였다. \"당신들은 백성에게 두루 다니며 알리시오. 이제부터는 누구든지, 소나 양을 내게로 끌고 와서, 이 돌 위에서 잡아서 먹도록 하고, 고기를 피째로 먹어서 주님께 범죄하지 않도록 하라고 이르시오.\" 그 날 밤에 백성들은 제각기 자기들이 차지한 소를 끌어다가 거기에서 잡았다.",
+    Kor:"사울이 또 지시하였다. \"너희는 백성에게 두루 다니며 알려라. 이제부터는 누구든지, 소나 양을 내게로 끌고 와서, 이 돌 위에서 잡아서 먹도록 하고, 고기를 피째로 먹어서 주께 범죄하지 않도록 하라고 일러라.\" 그 날 밤에 백성들은 제각기 자기들이 차지한 소를 끌어다가 거기에서 잡았다.",
     Chn:"扫罗又说：「你们散在百姓中，对他们说，你们各人将牛羊牵到我这里来宰了吃，不可吃带血的肉得罪耶和华。」这夜，百姓就把牛羊牵到那里宰了。",
     Eng:"Then he said, \"Go out among the men and tell them, 'Each of you bring me your cattle and sheep, and slaughter them here and eat them. Do not sin against the LORD by eating meat with blood still in it.'\" So everyone brought his ox that night and slaughtered it there.",
     Ind:"Kata Saul pula: \"Berserak-seraklah di antara rakyat dan katakan kepada mereka: Setiap orang harus membawa lembunya atau dombanya kepadaku; sembelihlah itu di sini, maka kamu boleh memakannya. Tetapi janganlah berdosa terhadap TUHAN dengan memakannya dengan darahnya.\" Lalu setiap orang dari seluruh rakyat membawa serta pada malam itu lembunya, dan mereka menyembelihnya di sana."
   },
   {Bible:"1Samuel", Chapter:14, Verse:35, Page:1,
-    Kor:"그리하여 사울이 주님께 제단을 하나 쌓았는데, 이것이 그가 주님께 쌓은 첫 제단이었다.",
+    Kor:"그리하여 사울이 주께 제단을 하나 쌓았는데, 이것이 그가 주께 쌓은 첫 제단이었다.",
     Chn:"扫罗为耶和华筑了一座坛，这是他初次为耶和华筑的坛。",
     Eng:"Then Saul built an altar to the LORD; it was the first time he had done this.",
     Ind:"Saul mendirikan mezbah bagi TUHAN; inilah mezbah yang mula-mula sekali didirikannya bagi TUHAN."
   },
   {Bible:"1Samuel", Chapter:14, Verse:36, Page:1,
-    Kor:"○사울이 말하였다. \"우리가 이 밤에 블레셋 군대를 쫓아 내려가서 동이 틀 때까지 그들을 약탈하고, 한 사람도 남김없이 모조리 죽이도록 합시다.\" 그들이 대답하였다. \"임금님이 좋으시다면, 그대로 하시기 바랍니다.\" 그러자 제사장이 사울에게 말하였다. \"우리가 먼저 하나님께 나아가 여쭈어 보아야 합니다.\"",
+    Kor:"○사울이 말하였다. \"우리가 이 밤에 블레셋 군대를 쫓아 내려가서 동이 틀 때까지 그들을 약탈하고, 한 사람도 남김없이 모조리 죽여 버리자.\" 그들이 대답하였다. \"임금님이 좋으시다면, 그대로 하시기 바랍니다.\" 그러자 제사장이 사울에게 말하였다. \"우리가 먼저 하나님께 나아가 여쭈어 보아야 합니다.\"",
     Chn:"扫罗说：「我们不如夜里下去追赶非利士人，抢掠他们，直到天亮，不留他们一人。」众民说：「你看怎样好就去行吧！」祭司说：「我们先当亲近　神。」",
     Eng:"Saul said, \"Let us go down after the Philistines by night and plunder them till dawn, and let us not leave one of them alive.\" \"Do whatever seems best to you,\" they replied. But the priest said, \"Let us inquire of God here.\"",
     Ind:"Lagi kata Saul: \"Marilah kita pada malam ini mengejar orang Filistin dan menjarahi mereka sampai fajar menyingsing dan janganlah kita biarkan hidup seorangpun dari mereka.\" Jawab mereka itu: \"Perbuatlah apa yang kaupandang baik.\" Tetapi imam berkata: \"Marilah kita dahulu tampil menghadap Allah di sini.\""
   },
   {Bible:"1Samuel", Chapter:14, Verse:37, Page:1,
-    Kor:"그래서 사울이 하나님께 여쭈었다. \"내가 블레셋 사람을 뒤쫓아 내려가도 되겠습니까? 주님께서 그들을 우리 이스라엘의 손에 넘겨 주시겠습니까?\" 그러나 하나님은 그 날 사울에게 아무 대답도 하지 않으셨다.",
+    Kor:"그래서 사울이 하나님께 여쭈었다. \"내가 블레셋 사람을 뒤쫓아 내려가도 되겠습니까? 주께서 그들을 우리 이스라엘의 손에 넘겨 주시겠습니까?\" 그러나 하나님은 그 날 사울에게 아무 대답도 하지 않으셨다.",
     Chn:"扫罗求问　神说：「我下去追赶非利士人可以不可以？你将他们交在以色列人手里不交？」这日　神没有回答他。",
     Eng:"So Saul asked God, \"Shall I go down after the Philistines? Will you give them into Israel's hand?\" But God did not answer him that day.",
     Ind:"Saul bertanya kepada Allah: \"Bolehkah aku mengejar orang Filistin itu? Akan Kauserahkankah mereka ke dalam tangan orang Israel?\" Tetapi pada hari itu Ia tidak menjawab Saul."
   },
   {Bible:"1Samuel", Chapter:14, Verse:38, Page:1,
-    Kor:"그러자 사울이 이렇게 말하였다. \"주님께서 우리에게 응답하지 않으시니, 군지휘관은 모두 앞으로 나오시오. 오늘 이 허물이 누구에게 있는지 알아보겠소.",
+    Kor:"그러자 사울이 이렇게 말하였다. \"주께서 우리에게 응답하지 않으시니, 군지휘관은 모두 앞으로 나오너라. 오늘 이 허물이 누구에게 있는지 알아보겠다.",
     Chn:"扫罗说：「你们百姓中的长老都上这里来，查明今日是谁犯了罪。",
     Eng:"Saul therefore said, \"Come here, all you who are leaders of the army, and let us find out what sin has been committed today.",
     Ind:"Lalu kata Saul: \"Datanglah ke mari, kamu segala pemuka rakyat; berusahalah mengetahui apa sebab dosa ini terjadi pada hari ini."
   },
   {Bible:"1Samuel", Chapter:14, Verse:39, Page:1,
-    Kor:"이스라엘을 구원하신 주님의 살아 계심을 두고 맹세합니다. 허물이 나의 아들 요나단에게 있다고 하더라도, 그는 반드시 죽을 것입니다.\" 그러나 군인들 가운데 어느 한 사람도 감히 그에게 대답하는 사람이 없었다.",
+    Kor:"이스라엘을 구원하신 주의 살아 계심을 두고 맹세한다. 허물이 나의 아들 요나단에게 있다고 하더라도, 그는 반드시 죽을 것이다.\" 그러나 군인들 가운데 어느 한 사람도 감히 그에게 대답하는 사람이 없었다.",
     Chn:"我指着救以色列—永生的耶和华起誓，就是我儿子约拿单犯了罪，他也必死。」但百姓中无一人回答他。",
     Eng:"As surely as the LORD who rescues Israel lives, even if it lies with my son Jonathan, he must die.\" But not one of the men said a word.",
     Ind:"Sebab demi TUHAN yang hidup, yang menyelamatkan orang Israel, sekalipun itu disebabkan oleh Yonatan, anakku, maka ia pasti akan mati.\" Tetapi seorangpun dari seluruh rakyat tidak ada yang menjawabnya."
   },
   {Bible:"1Samuel", Chapter:14, Verse:40, Page:1,
-    Kor:"사울은 온 이스라엘 군인에게 계속해서 말하였다. \"귀관들은 모두 이쪽에 서시오. 나와 나의 아들 요나단은 저쪽에 서겠소.\" 군인들이 모두 사울에게 \"임금님이 좋으시다면 그대로 하시기 바랍니다\" 하고 대답하였다.",
+    Kor:"사울은 온 이스라엘 군인에게 계속해서 말하였다. \"너희는 모두 이쪽에 서라. 나와 나의 아들 요나단은 저쪽에 서겠다.\" 군인들이 모두 사울에게 \"임금님이 좋으시다면 그대로 하시기 바랍니다\" 하고 대답하였다.",
     Chn:"扫罗就对以色列众人说：「你们站在一边，我与我儿子约拿单也站在一边。」百姓对扫罗说：「你看怎样好就去行吧！」",
     Eng:"Saul then said to all the Israelites, \"You stand over there; I and Jonathan my son will stand over here.\" \"Do what seems best to you,\" the men replied.",
     Ind:"Kemudian berkatalah ia kepada seluruh orang Israel: \"Kamu berdiri di sebelah yang satu dan aku serta anakku Yonatan akan berdiri di sebelah yang lain.\" Lalu jawab rakyat kepada Saul: \"Perbuatlah apa yang kaupandang baik.\""
   },
   {Bible:"1Samuel", Chapter:14, Verse:41, Page:1,
-    Kor:"사울이 주 이스라엘의 하나님께 아뢰었다. d\"오늘 저에게 응답하지 않으시니, 웬일이십니까? 주 이스라엘의 하나님, 그 허물이 저에게나 저의 자식 요나단에게 있다면 우림이 나오게 하시고, 그 허물이 주님의 백성 이스라엘에게 있다면 둠밈이 나오게 하십시오.\" 그러자 요나단과 사울이 걸리고, 백성들의 혐의는 벗겨졌다.(d 칠십인역과 불가타를 따름. 마소라 본문에는 '저에게 둠밈을 보여주십시오')",
+    Kor:"사울이 주 이스라엘의 하나님께 아뢰었다. \"저에게 올바른 대답을 보여 주십시오.\" 그러자 요나단과 사울이 걸리고, 백성들의 혐의는 벗겨졌다.",
     Chn:"扫罗祷告耶和华—以色列的　神说：「求你指示实情。」于是掣签掣出扫罗和约拿单来；百姓尽都无事。",
     Eng:"Then Saul prayed to the LORD, the God of Israel, \"Give me the right answer.\" And Jonathan and Saul were taken by lot, and the men were cleared.",
     Ind:"Lalu berkatalah Saul: \"Ya, TUHAN, Allah Israel, mengapa Engkau tidak menjawab hamba-Mu pada hari ini? Jika kesalahan itu ada padaku atau pada anakku Yonatan, ya TUHAN, Allah Israel, tunjukkanlah kiranya Urim; tetapi jika kesalahan itu ada pada umat-Mu Israel, tunjukkanlah Tumim.\" Lalu didapati Yonatan dan Saul, tetapi rakyat itu terluput."
   },
   {Bible:"1Samuel", Chapter:14, Verse:42, Page:1,
-    Kor:"사울이 말하였다. \"제비를 뽑아서, 나와 나의 아들 요나단 가운데서 누가 죄인인지를 가려 내시오.\" 그러자 요나단이 걸렸다.",
+    Kor:"사울이 말하였다. \"제비를 뽑아서, 나와 나의 아들 요나단 가운데서 누가 죄인인지를 가려 내어라.\" 그러자 요나단이 걸렸다.",
     Chn:"扫罗说：「你们再掣签，看是我，是我儿子约拿单」，就掣出约拿单来。",
     Eng:"Saul said, \"Cast the lot between me and Jonathan my son.\" And Jonathan was taken.",
     Ind:"Kata Saul: \"Buanglah undi antara aku dan anakku Yonatan.\" Lalu didapati Yonatan."
@@ -267,7 +267,7 @@ BibleDB.add([
     Ind:"Kata Saul: \"Beginilah kiranya Allah menghukum aku, bahkan lebih lagi dari pada itu. Sesungguhnya, Yonatan, engkau harus mati.\""
   },
   {Bible:"1Samuel", Chapter:14, Verse:45, Page:1,
-    Kor:"이 때에 온 백성이 사울에게 호소하였다. \"이스라엘에게 이렇게 큰 승리를 안겨 준 요나단을 죽여서야 되겠습니까? 절대로 그럴 수는 없습니다! 주님께서 살아 계심을 걸고 맹세합니다. 그의 머리털 하나도 땅에 떨어져서는 안 됩니다. 그는 오늘 하나님과 함께 이 일을 이루어 놓은 사람이기 때문입니다.\" 백성들이 이렇게 요나단을 살려 내어, 그는 죽지 않았다.",
+    Kor:"이 때에 온 백성이 사울에게 호소하였다. \"이스라엘에게 이렇게 큰 승리를 안겨 준 요나단을 죽여서야 되겠습니까? 절대로 그럴 수는 없습니다! 주께서 살아 계심을 걸고 맹세합니다. 그의 머리털 하나도 땅에 떨어져서는 안 됩니다. 그는 오늘 하나님과 함께 이 일을 이루어 놓은 사람이기 때문입니다.\" 백성들이 이렇게 요나단을 살려 내어, 그는 죽지 않았다.",
     Chn:"百姓对扫罗说：「约拿单在以色列人中这样大行拯救，岂可使他死呢？断乎不可！我们指着永生的耶和华起誓，连他的一根头发也不可落地，因为他今日与　神一同做事。」于是百姓救约拿单免了死亡。",
     Eng:"But the men said to Saul, \"Should Jonathan die--he who has brought about this great deliverance in Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for he did this today with God's help.\" So the men rescued Jonathan, and he was not put to death.",
     Ind:"Tetapi rakyat berkata kepada Saul: \"Masakan Yonatan harus mati, dia yang telah mendapat kemenangan yang besar ini di Israel? Jauhlah yang demikian! Demi TUHAN yang hidup, sehelai rambutpun dari kepalanya takkan jatuh ke bumi! Sebab dengan pertolongan Allah juga dilakukannya hal itu pada hari ini.\" Demikianlah rakyat membebaskan Yonatan, sehingga ia tidak harus mati."
@@ -279,7 +279,7 @@ BibleDB.add([
     Ind:"Maka pulanglah Saul setelah mengejar orang Filistin, dan orang Filistin itupun kembali ke tempat kediamannya."
   },
   {Bible:"1Samuel", Chapter:14, Verse:47, Page:1,
-    Kor:"<사울의 업적과 그의 집안> ○사울은 이스라엘을 다스릴 왕권을 얻은 다음부터, 사방에 있는 원수들과 전쟁을 하였다. 그는 모압과 암몬 자손과 에돔과 소바 왕들과 블레셋 사람들과 맞서 싸웠는데, 어느 쪽으로 가서 싸우든지 e늘 이겼다.(e 칠십인역을 따름. 히브리어 본문에는 '그들에게 형벌을 과하였다')",
+    Kor:"○사울은 이스라엘을 다스릴 왕권을 얻은 다음부터, 사방에 있는 원수들과 전쟁을 하였다. 그는 모압과 암몬 자손과 에돔과 소바 왕들과 블레셋 사람들과 맞서 싸웠는데, 어느 쪽으로 가서 싸우든지 늘 이겼다.",
     Chn:"扫罗执掌以色列的国权，常常攻击他四围的一切仇敌，就是摩押人、亚扪人、以东人，和琐巴诸王，并非利士人。他无论往何处去，都打败仇敌。",
     Eng:"After Saul had assumed rule over Israel, he fought against their enemies on every side: Moab, the Ammonites, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he inflicted punishment on them.",
     Ind:"Setelah Saul mendapat jabatan raja atas Israel, maka berperanglah ia ke segala penjuru melawan segala musuhnya: melawan Moab, bani Amon, Edom, raja-raja negeri Zoba dan orang Filistin. Dan ke manapun ia pergi, ia selalu mendapat kemenangan."

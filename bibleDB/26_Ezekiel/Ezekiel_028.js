@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",28,26);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:28, Verse:1, Page:1,
-    Kor:"<두로 왕에 대한 심판 예언> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Maka datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:28, Verse:2, Page:1,
-    Kor:"○\"사람아, 두로의 통치자에게 전하여라.  나 주 하나님이 이렇게 말한다. 너의 마음이 교만해져서 말하기를 너는 네가 신이라고 하고 네가 바다 한가운데 신의 자리에 앉아 있다고 하지만, 그래서, 네가 마음 속으로 신이라도 된듯이 우쭐대지만, 너는 사람이요, 신이 아니다.",
+    Kor:"\"사람아, 두로의 통치자에게 전하여라. '나 주 하나님이 이렇게 말한다. 너의 마음이 교만해져서 말하기를 너는 네가 신이라고 하고 네가 바다 한가운데 신의 자리에 앉아 있다고 한다마는, 그래서, 네가 마음 속으로 신이라도 된듯이 우쭐댄다마는, 너는 사람이요, 신이 아니다.",
     Chn:"「人子啊，你对泰尔君王说，主耶和华如此说： 因你心里高傲，说：我是神； 我在海中坐神之位。 你虽然居心自比神， 也不过是人，并不是神！",
     Eng:"\"Son of man, say to the ruler of Tyre, 'This is what the Sovereign LORD says: \"'In the pride of your heart you say, \"I am a god; I sit on the throne of a god in the heart of the seas.\" But you are a man and not a god, though you think you are as wise as a god.",
     Ind:"\"Hai anak manusia, katakanlah kepada raja Tirus: Beginilah firman Tuhan ALLAH: Karena engkau menjadi tinggi hati, dan berkata: Aku adalah Allah! Aku duduk di takhta Allah di tengah-tengah lautan. Padahal engkau adalah manusia, bukanlah Allah, walau hatimu menempatkan diri sama dengan Allah."
   },
   {Bible:"Ezekiel", Chapter:28, Verse:3, Page:1,
-    Kor:"너는, a다니엘보다 더 슬기롭다. 아무리 비밀스러운 것이라도 네게 드러나지 않는 것이 없다. (a 히, '다넬'. 히브리어의 자음 표기가 예언자 다니엘과는 다르므로, 서로 다른 인물일 수도 있음)",
+    Kor:"너는, 다니엘보다 더 슬기롭다. 아무리 비밀스러운 것이라도 네게 드러나지 않는 것이 없다.",
     Chn:"看哪，你比但以理更有智慧， 什么秘事都不能向你隐藏。",
     Eng:"Are you wiser than Daniel? Is no secret hidden from you?",
     Ind:"Memang hikmatmu melebihi hikmat Daniel; tiada rahasia yang terlindung bagimu."
@@ -57,19 +57,19 @@ BibleDB.add([
     Ind:"Apakah engkau masih akan mengatakan di hadapan pembunuhmu: Aku adalah Allah!? Padahal terhadap kuasa penikammu engkau adalah manusia, bukanlah Allah."
   },
   {Bible:"Ezekiel", Chapter:28, Verse:10, Page:1,
-    Kor:"네가 외국 사람들의 손에 할례 받지 못한 사람과 같이 죽을 것이다. 내가 말하였기 때문이다. 나 주 하나님의 말이다.\"",
+    Kor:"네가 외국 사람들의 손에 할례 받지 못한 사람과 같이 죽을 것이다. 내가 말하였기 때문이다. 나 주 하나님의 말이다.'\"",
     Chn:"你必死在外邦人手中， 与未受割礼的人一样， 因为这是主耶和华说的。」",
     Eng:"You will die the death of the uncircumcised at the hands of foreigners. I have spoken, declares the Sovereign LORD.'\"",
     Ind:"Engkau akan mati seperti orang tak bersunat oleh tangan orang asing. Sebab Aku yang mengatakannya, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:28, Verse:11, Page:1,
-    Kor:"<두로 왕에 대한 애가> ○주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:28, Verse:12, Page:1,
-    Kor:"○\"사람아, 너는 두로 왕을 두고 애가를 불러라. 너는 그에게 전하여라.  '나 주 하나님이 말한다. 너는 정교하게 만든 도장이었다. 지혜가 충만하고 흠잡을 데 없이 아름다운 도장이었다.",
+    Kor:"\"사람아, 너는 두로 왕을 두고 애가를 불러라. 너는 그에게 전하여라. '나 주 하나님이 말한다. 너는 정교하게 만든 도장이었다. 지혜가 충만하고 흠잡을 데 없이 아름다운 도장이었다.",
     Chn:"「人子啊，你为泰尔王作起哀歌，说主耶和华如此说： 你无所不备， 智慧充足，全然美丽。",
     Eng:"\"Son of man, take up a lament concerning the king of Tyre and say to him: 'This is what the Sovereign LORD says: \"'You were the model of perfection, full of wisdom and perfect in beauty.",
     Ind:"\"Hai anak manusia, ucapkanlah suatu ratapan mengenai raja Tirus dan katakanlah kepadanya: Beginilah firman Tuhan ALLAH: Gambar dari kesempurnaan engkau, penuh hikmat dan maha indah."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Semua di antara bangsa-bangsa yang mengenal engkau kaget melihat keadaanmu. Akhir hidupmu mendahsyatkan dan lenyap selamanya engkau.\""
   },
   {Bible:"Ezekiel", Chapter:28, Verse:20, Page:1,
-    Kor:"<시돈에 대한 심판 예언> ○주님께서 나에게 말씀하셨다.",
+    Kor:"○주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:28, Verse:21, Page:1,
-    Kor:"○\"사람아, 너는 얼굴을 돌려 시돈을 바라보고, 그 성읍을 규탄하여 예언을 하여라.",
+    Kor:"\"사람아, 너는 얼굴을 돌려 시돈을 바라보고, 그 성읍을 규탄하여 예언을 하여라.",
     Chn:"「人子啊，你要向西顿预言攻击她，",
     Eng:"\"Son of man, set your face against Sidon; prophesy against her",
     Ind:"\"Hai anak manusia, tujukanlah mukamu kepada Sidon dan bernubuatlah melawan dia"
   },
   {Bible:"Ezekiel", Chapter:28, Verse:22, Page:1,
-    Kor:"너는 전하여라.  '나 주 하나님이 말한다. 시돈아, 내가 너를 치겠다. 내가 네 가운데서 내 영광을 드러내겠다. 내가 너를 심판하고, 내가 거룩함을 네 가운데서 나타낼 때에야 비로소 사람들이 내가 주인 줄 알 것이다.",
+    Kor:"너는 전하여라. '나 주 하나님이 말한다. 시돈아, 내가 너를 치겠다. 내가 네 가운데서 내 영광을 드러내겠다. 내가 너를 심판하고, 내가 거룩함을 거기에 나타낼 때에야 비로소 사람들이 내가 주인 줄 알 것이다.",
     Chn:"说主耶和华如此说： 西顿哪，我与你为敌， 我必在你中间得荣耀。 我在你中间施行审判、显为圣的时候， 人就知道我是耶和华。",
     Eng:"and say: 'This is what the Sovereign LORD says: \"'I am against you, O Sidon, and I will gain glory within you. They will know that I am the LORD, when I inflict punishment on her and show myself holy within her.",
     Ind:"dan katakanlah: Beginilah firman Tuhan ALLAH: Lihat, Aku menjadi lawanmu, hai Sidon, dan Aku menyatakan kemuliaan-Ku di tengah-tengahmu. Dan mereka akan mengetahui bahwa Akulah TUHAN, pada saat Aku menjatuhkan hukuman atasnya dan menunjukkan kekudusan-Ku terhadap dia."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Aku akan mendatangkan sampar atasnya dan darah akan mengalir di jalan-jalannya dan orang-orang akan mati rebah di tengah-tengahnya karena pedang yang datang dari sekitarnya melawan dia. Dan mereka akan mengetahui bahwa Akulah TUHAN."
   },
   {Bible:"Ezekiel", Chapter:28, Verse:24, Page:1,
-    Kor:"<이스라엘이 복을 받을 것이다> ○\"이스라엘 족속을 멸시하는 사방의 모든 사람이, 다시는 이스라엘을 가시로 찌르거나 아프게 하지 않을 것이다. 그 때에야 비로소 그들이, 내가 주인 줄을 알 것이다.\"",
+    Kor:"○\"이스라엘 족속을 멸시하는 사방의 모든 사람이, 다시는 이스라엘을 가시로 찌르거나 아프게 하지 않을 것이다. 그 때에야 비로소 그들이, 내가 주인 줄을 알 것이다.\"",
     Chn:"「四围恨恶以色列家的人，必不再向他们作刺人的荆棘，伤人的蒺藜，人就知道我是主耶和华。」",
     Eng:"\"'No longer will the people of Israel have malicious neighbors who are painful briers and sharp thorns. Then they will know that I am the Sovereign LORD.",
     Ind:"Dan tidak akan ada lagi bagi kaum Israel dari semua tetangganya yang menghina mereka, menjadi duri yang menusuk atau onak yang memedihkan. Dan mereka akan mengetahui bahwa Akulah Tuhan ALLAH."
   },
   {Bible:"Ezekiel", Chapter:28, Verse:25, Page:1,
-    Kor:"○주 하나님께서 이렇게 말씀하신다. ○\"내가 이스라엘 족속을 그들이 흩어져 살던 여러 민족 가운데서 모아 오고, 이방 사람들이 보는 앞에서 내가 거룩한 하나님임을 그들에게 나타낼 때에, 그들이 자기들의 땅, 곧 내가 내 종 야곱에게 준 땅에서 살게 될 것이다.",
+    Kor:"○주 하나님께서 이렇게 말씀하신다. \"내가 이스라엘 족속을 그들이 흩어져 살던 여러 민족 가운데서 모아 오고, 이방 사람들이 보는 앞에서 내가 거룩한 하나님임을 그들에게 나타낼 때에, 그들이 자기들의 땅, 곧 내가 내 종 야곱에게 준 땅에서 살게 될 것이다.",
     Chn:"主耶和华如此说：「我将分散在万民中的以色列家招聚回来，向他们在列邦人眼前显为圣的时候，他们就在我赐给我仆人雅各之地，仍然居住。",
     Eng:"\"'This is what the Sovereign LORD says: When I gather the people of Israel from the nations where they have been scattered, I will show myself holy among them in the sight of the nations. Then they will live in their own land, which I gave to my servant Jacob.",
     Ind:"Beginilah firman Tuhan ALLAH: Pada saat Aku mengumpulkan kaum Israel dari tengah suku-suku bangsa, di mana mereka berserak dan Aku menunjukkan kekudusan-Ku kepada mereka di hadapan bangsa-bangsa, maka mereka akan diam di tanah mereka yang telah Kuberikan kepada hamba-Ku Yakub."

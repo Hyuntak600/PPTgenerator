@@ -3,19 +3,19 @@
 BibleDB.ref("Proverbs",21,31);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:21, Verse:1, Page:1,
-    Kor:"<주님께서 이끄신다> 왕의 마음은 흐르는 물줄기 같아서 주님의 손 안에 있다. 주님께서 원하시는 대로 왕을 이끄신다.",
+    Kor:"왕의 마음은 흐르는 물줄기 같아서 주님의 손 안에 있다. 주께서 원하시는 대로 왕을 이끄신다.",
     Chn:"王的心在耶和华手中， 好像陇沟的水随意流转。",
     Eng:"The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.",
     Ind:"Hati raja seperti batang air di dalam tangan TUHAN, dialirkan-Nya ke mana Ia ingini."
   },
   {Bible:"Proverbs", Chapter:21, Verse:2, Page:1,
-    Kor:"사람의 행위는 자기의 눈에는 모두 옳게 보이나, 주님께서는 그 마음을 꿰뚫어 보신다.",
+    Kor:"사람의 행위는 자기의 눈에는 모두 옳게 보이나, 주께서는 그 마음을 꿰뚫어 보신다.",
     Chn:"人所行的，在自己眼中都看为正； 惟有耶和华衡量人心。",
     Eng:"All a man's ways seem right to him, but the LORD weighs the heart.",
     Ind:"Setiap jalan orang adalah lurus menurut pandangannya sendiri, tetapi Tuhanlah yang menguji hati."
   },
   {Bible:"Proverbs", Chapter:21, Verse:3, Page:1,
-    Kor:"주님께서는 정의와 공평을 지키며 사는 것을 제사를 드리는 일보다 더 반기신다.",
+    Kor:"주께서는 정의와 공평을 지키며 사는 것을 제사를 드리는 일보다 더 반기신다.",
     Chn:"行仁义公平 比献祭更蒙耶和华悦纳。",
     Eng:"To do what is right and just is more acceptable to the LORD than sacrifice.",
     Ind:"Melakukan kebenaran dan keadilan lebih dikenan TUHAN dari pada korban."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Rancangan orang rajin semata-mata mendatangkan kelimpahan, tetapi setiap orang yang tergesa-gesa hanya akan mengalami kekurangan."
   },
   {Bible:"Proverbs", Chapter:21, Verse:6, Page:1,
-    Kor:"a속여서 모은 재산은, 너를 죽음으로 몰아넣고, 안개처럼 사라진다. (a 칠십인역과 불가타와 몇몇 히브리어 사본을 따름. 히, '재산을 속여서 모으는 것은 죽음을 자초하는 것과 같고 그 재산은 안개와 같다')",
+    Kor:"속여서 모은 재산은, 너를 죽음으로 몰아넣고, 안개처럼 사라진다.",
     Chn:"用诡诈之舌求财的，就是自己取死； 所得之财乃是吹来吹去的浮云。",
     Eng:"A fortune made by a lying tongue is a fleeting vapor and a deadly snare.",
     Ind:"Memperoleh harta benda dengan lidah dusta adalah kesia-siaan yang lenyap dari orang yang mencari maut."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Hati orang fasik mengingini kejahatan dan ia tidak menaruh belas kasihan kepada sesamanya."
   },
   {Bible:"Proverbs", Chapter:21, Verse:11, Page:1,
-    Kor:"오만한 사람이 벌을 받으면 b어수룩한 사람이 깨닫고, 지혜로운 사람이 책망을 받으면 지식을 더 얻는다. (b '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"오만한 사람이 벌을 받으면 어수룩한 사람이 깨닫고, 지혜로운 사람이 책망을 받으면 지식을 더 얻는다.",
     Chn:"亵慢的人受刑罚，愚蒙的人就得智慧； 智慧人受训诲，便得知识。",
     Eng:"When a mocker is punished, the simple gain wisdom; when a wise man is instructed, he gets knowledge.",
     Ind:"Jikalau si pencemooh dihukum, orang yang tak berpengalaman menjadi bijak, dan jikalau orang bijak diberi pengajaran, ia akan beroleh pengetahuan."
   },
   {Bible:"Proverbs", Chapter:21, Verse:12, Page:1,
-    Kor:"c의로우신 하나님은 악인의 집을 주목하시고, 그를 재앙에 빠지게 하신다. (c 또는 '의로운 사람')",
+    Kor:"의로우신 하나님은 악인의 집을 주목하시고, 그를 재앙에 빠지게 하신다.",
     Chn:"义人思想恶人的家， 知道恶人倾倒，必致灭亡。",
     Eng:"The Righteous One takes note of the house of the wicked and brings the wicked to ruin.",
     Ind:"Yang Mahaadil memperhatikan rumah orang fasik, dan menjerumuskan orang fasik ke dalam kecelakaan."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Orang yang suka bersenang-senang akan berkekurangan, orang yang gemar kepada minyak dan anggur tidak akan menjadi kaya."
   },
   {Bible:"Proverbs", Chapter:21, Verse:18, Page:1,
-    Kor:"악인은 의로운 사람 대신에 치르는 몸값이 되고, 사기꾼은 정직한 사람 대신에 치르는 몸값이 된다.",
+    Kor:"악인은 의로운 사람 대신에 치루는 몸값이 되고, 사기꾼은 정직한 사람 대신에 치루는 몸값이 된다.",
     Chn:"恶人作了义人的赎价； 奸诈人代替正直人。",
     Eng:"The wicked become a ransom for the righteous, and the unfaithful for the upright.",
     Ind:"Orang fasik dipakai sebagai tebusan bagi orang benar, dan pengkhianat sebagai ganti orang jujur."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Harta yang indah dan minyak ada di kediaman orang bijak, tetapi orang yang bebal memboroskannya."
   },
   {Bible:"Proverbs", Chapter:21, Verse:21, Page:1,
-    Kor:"정의와 신의를 좇아서 살면, 생명과 d번영과 영예를 얻는다. (d 또는 '의')",
+    Kor:"정의와 신의를 좇아서 살면, 생명과 번영과 영예를 얻는다.",
     Chn:"追求公义仁慈的， 就寻得生命、公义，和尊荣。",
     Eng:"He who pursues righteousness and love finds life, prosperity and honor.",
     Ind:"Siapa mengejar kebenaran dan kasih akan memperoleh kehidupan, kebenaran dan kehormatan."

@@ -3,7 +3,7 @@
 BibleDB.ref("Job",33,33);
 BibleDB.add([
   {Bible:"Job", Chapter:33, Verse:1, Page:1,
-    Kor:"<엘리후가 욥에게 하는 말> 욥 어른은 부디 내가 하는 말을 잘 들어 주시기 바랍니다. 내가 하는 말 한마디 한마디에 귀를 기울여 주시기 바랍니다.",
+    Kor:"욥 어른은 부디 내가 하는 말을 잘 들어 주시기 바랍니다. 내가 하는 말 한마디 한마디에 귀를 기울여 주시기 바랍니다.",
     Chn:"约伯啊，请听我的话， 留心听我一切的言语。",
     Eng:"\"But now, Job, listen to my words; pay attention to everything I say.",
     Ind:"\"Akan tetapi sekarang, hai Ayub, dengarkanlah bicaraku, dan bukalah telingamu kepada segala perkataanku."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Jikalau di sampingnya ada malaikat, penengah, satu di antara seribu, untuk menyatakan jalan yang benar kepada manusia,"
   },
   {Bible:"Job", Chapter:33, Verse:24, Page:1,
-    Kor:"하나님은 그에게 은혜를 베푸시고, 천사에게 말씀하실 것입니다. \"그가 무덤으로 내려가지 않도록, 그를 살려 주어라. 내가 그의 몸값을 받았다.",
+    Kor:"하나님은 그에게 은혜를 베푸시고, 천사에게 말씀하실 것입니다. \"그가 무덤으로 내려가지 않도록, 그를 살려 주어라. 내가 그의 몸값을 받았다.\"",
     Chn:"神就给他开恩， 说：救赎他免得下坑； 我已经得了赎价。",
     Eng:"to be gracious to him and say, 'Spare him from going down to the pit; I have found a ransom for him'--",
     Ind:"maka Ia akan mengasihaninya dengan berfirman: Lepaskan dia, supaya jangan ia turun ke liang kubur; uang tebusan telah Kuperoleh."

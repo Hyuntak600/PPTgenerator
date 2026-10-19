@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",1,22);
 BibleDB.add([
   {Bible:"Esther", Chapter:1, Verse:1, Page:1,
-    Kor:"<와스디 왕후가 폐위되다> a아하수에로 왕 때에 있은 일이다. 아하수에로는 인도에서 b에티오피아에 이르기까지 백스물일곱 지방을 다스린 왕이다.(a 일명, '크세르크세스' b 또는 '누비아'. 히, '구스' 곧 나일 강 상류지역)",
+    Kor:"아하수에로 왕 때에 있은 일이다. 아하수에로는 인도에서 에티오피아에 이르기까지 백스물일곱 지방을 다스린 왕이다.",
     Chn:"亚哈随鲁作王，从印度直到古实，统管一百二十七省。",
     Eng:"This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:",
     Ind:"Pada zaman Ahasyweros--dialah Ahasyweros yang merajai seratus dua puluh tujuh daerah mulai dari India sampai ke Etiopia--,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Juga Wasti, sang ratu, mengadakan perjamuan bagi semua perempuan di dalam istana raja Ahasyweros."
   },
   {Bible:"Esther", Chapter:1, Verse:10, Page:1,
-    Kor:"○이레가 되는 날에, 왕은 술을 마시고, 기분이 좋아지자, 자기를 받드는 일곱 궁전 내시 곧 므후만과 비스다와 하르보나와 빅다와 아박다와 세달과 가르가스에게 이르기를,",
+    Kor:"○이레가 되는 날에, 왕은 술을 마시고, 기분이 좋아지자, 자기를 받드는 일곱 궁전 내시, 곧 므후만과 비스다와 하르보나와 빅다와 아박다와 세달과 가르가스에게 이르기를,",
     Chn:"第七日，亚哈随鲁王饮酒，心中快乐，就吩咐在他面前侍立的七个太监米户幔、比斯他、哈波拿、比革他、亚拔他、西达、甲迦，",
     Eng:"On the seventh day, when King Xerxes was in high spirits from wine, he commanded the seven eunuchs who served him--Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar and Carcas--",
     Ind:"Pada hari yang ketujuh, ketika raja riang gembira hatinya karena minum anggur, bertitahlah baginda kepada Mehuman, Bizta, Harbona, Bigta, Abagta, Zetar dan Karkas, yakni ketujuh sida-sida yang bertugas di hadapan raja Ahasyweros,"

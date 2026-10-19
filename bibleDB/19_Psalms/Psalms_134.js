@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",134,3);
 BibleDB.add([
   {Bible:"Psalms", Chapter:134, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래> 밤에 주님의 집에 서 있는 주님의 모든 종들아, 주님을 송축하여라.",
+    Kor:"밤에 주의 집에 서 있는 주의 모든 종들아, 주님을 송축하여라.",
     Chn:"上行之诗。 耶和华的仆人夜间站在耶和华殿中的， 你们当称颂耶和华！",
     Eng:"Praise the LORD, all you servants of the LORD who minister by night in the house of the LORD.",
     Ind:"Nyanyian ziarah. Mari, pujilah TUHAN, hai semua hamba TUHAN, yang datang melayani di rumah TUHAN pada waktu malam."

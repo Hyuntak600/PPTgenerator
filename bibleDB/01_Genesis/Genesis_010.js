@@ -3,25 +3,25 @@
 BibleDB.ref("Genesis",10,32);
 BibleDB.add([
   {Bible:"Genesis", Chapter:10, Verse:1, Page:1,
-    Kor:"<노아의 자손(대상 1:5-23)> 다음은 노아의 아들들의 족보이다. 노아의 아들은 셈과 함과 야벳이다. 홍수가 난 뒤에, 그들이 아들들을 낳았다.",
+    Kor:"다음은 노아의 아들들의 족보이다. 노아의 아들은, 셈과 함과 야벳이다. 홍수가 난 뒤에, 그들이 아들들을 낳았다.",
     Chn:"挪亚的儿子闪、含、雅弗的后代记在下面。洪水以后，他们都生了儿子。",
     Eng:"This is the account of Shem, Ham and Japheth, Noah's sons, who themselves had sons after the  flood.",
     Ind:"Inilah keturunan Sem, Ham dan Yafet, anak-anak Nuh. Setelah air bah itu lahirlah anak-anak lelaki bagi mereka."
   },
   {Bible:"Genesis", Chapter:10, Verse:2, Page:1,
-    Kor:"○야벳의 자손은 고멜과 마곡과 마대와 야완과 두발과 메섹과 디라스이다.",
+    Kor:"○야벳의 자손은, 고멜과 마곡과 마대와 야완과 두발과 메섹과 디라스이다.",
     Chn:"雅弗的儿子是歌篾、玛各、玛代、雅完、土巴、米设、提拉。",
     Eng:"The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras.",
     Ind:"Keturunan Yafet ialah Gomer, Magog, Madai, Yawan, Tubal, Mesekh dan Tiras."
   },
   {Bible:"Genesis", Chapter:10, Verse:3, Page:1,
-    Kor:"고멜의 자손은 아스그나스와 리밧과 도갈마이다.",
+    Kor:"고멜의 자손은, 아스그나스와 리밧과 도갈마이다.",
     Chn:"歌篾的儿子是亚实基拿、利法、陀迦玛。",
     Eng:"The sons of Gomer: Ashkenaz, Riphath and Togarmah.",
     Ind:"Keturunan Gomer ialah Askenas, Rifat dan Togarma."
   },
   {Bible:"Genesis", Chapter:10, Verse:4, Page:1,
-    Kor:"야완의 자손은 엘리사와 a스페인과 b키프로스와 c로도스이다.(a 히, '다시스' b 히, '깃딤' c 히, '도다님')",
+    Kor:"야완의 자손은, 엘리사와 달시스와 깃딤과 도다님이다.",
     Chn:"雅完的儿子是以利沙、他施、基提、多单。",
     Eng:"The sons of Javan: Elishah, Tarshish, the Kittim and the Rodanim.",
     Ind:"Keturunan Yawan ialah Elisa, Tarsis, orang Kitim dan orang Dodanim."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Dari mereka inilah berpencar bangsa-bangsa daerah pesisir. Itulah keturunan Yafet, masing-masing di tanahnya, dengan bahasanya sendiri, menurut kaum dan bangsa mereka."
   },
   {Bible:"Genesis", Chapter:10, Verse:6, Page:1,
-    Kor:"○함의 자손은 구스와 이집트와 리비아와 가나안이다.",
+    Kor:"○함의 자손은, 구스와 이집트와 리비아와 가나안이다.",
     Chn:"含的儿子是古实、麦西、弗、迦南。",
     Eng:"The sons of Ham: Cush, Mizraim, Put and Canaan.",
     Ind:"Keturunan Ham ialah Kush, Misraim, Put dan Kanaan."
   },
   {Bible:"Genesis", Chapter:10, Verse:7, Page:1,
-    Kor:"구스의 자손은 쓰바와 하윌라와 삽다와 라아마와 삽드가이다. 라아마의 자손은 스바와 드단이다.",
+    Kor:"구스의 자손은, 스바와 하윌라와 삽다와 라아마와 삽드가이다. 라아마의 자손은 스바와 드단이다.",
     Chn:"古实的儿子是西巴、哈腓拉、撒弗他、拉玛、撒弗提迦。拉玛的儿子是示巴、底但。",
     Eng:"The sons of Cush: Seba, Havilah, Sabtah, Raamah and Sabteca. The sons of Raamah: Sheba and  Dedan.",
     Ind:"Keturunan Kush ialah Seba, Hawila, Sabta, Raema dan Sabtekha; anak-anak Raema ialah Syeba dan Dedan."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Kush memperanakkan Nimrod; dialah yang mula-mula sekali orang yang berkuasa di bumi;"
   },
   {Bible:"Genesis", Chapter:10, Verse:9, Page:1,
-    Kor:"그는 주님께서 보시기에도 힘이 센 사냥꾼이었다. 그래서 \"주님께서 보시기에도 힘이 센 니므롯과 같은 사냥꾼\"이라는 속담까지 생겼다.",
+    Kor:"그는 주께서 보시기에도, 힘이 센 사냥꾼이었다. 그래서 \"주께서 보시기에도 힘이 센 니므롯과 같은 사냥꾼\"이라는 속담까지 생겼다.",
     Chn:"他在耶和华面前是个英勇的猎户，所以俗语说：「像宁录在耶和华面前是个英勇的猎户。」",
     Eng:"He was a mighty hunter before the LORD; that is why it is said, \"Like Nimrod, a mighty  hunter before the LORD.\"",
     Ind:"ia seorang pemburu yang gagah perkasa di hadapan TUHAN, sebab itu dikatakan orang: \"Seperti Nimrod, seorang pemburu yang gagah perkasa di hadapan TUHAN.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"orang Hewi, orang Arki, orang Sini,"
   },
   {Bible:"Genesis", Chapter:10, Verse:18, Page:1,
-    Kor:"아르왓과 스말과 하맛을 낳았다. 그 뒤에 가나안 족은 사방으로 퍼져 나갔다.",
+    Kor:"아르왓과 스말과 하맛을 낳았다. 그 뒤에, 가나안 족은 사방으로 퍼져 나갔다.",
     Chn:"亚瓦底人、洗玛利人、哈马人，后来迦南的诸族分散了。",
     Eng:"Arvadites, Zemarites and Hamathites. Later the Canaanite clans scattered",
     Ind:"orang Arwadi, orang Semari dan orang Hamati; kemudian berseraklah kaum-kaum orang Kanaan itu."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Arpakhsad memperanakkan Selah, dan Selah memperanakkan Eber."
   },
   {Bible:"Genesis", Chapter:10, Verse:25, Page:1,
-    Kor:"에벨은 두 아들을 낳았는데, 한 아들의 이름은, 그의 시대에 세상이 나뉘었다고 해서 d벨렉이라고 하였다. 벨렉의 아우 이름은 욕단이다.(d '나뉘다')",
+    Kor:"에벨은 두 아들을 낳았는데, 한 아들의 이름은, 그의 시대에 세상이 나뉘었다고 해서 벨렉이라고 하였다. 벨렉의 아우 이름은 욕단이다.",
     Chn:"希伯生了两个儿子，一个名叫法勒，因为那时人就分地居住；法勒的兄弟名叫约坍。",
     Eng:"Two sons were born to Eber: One was named Peleg, because in his time the earth was divided;  his brother was named Joktan.",
     Ind:"Bagi Eber lahir dua anak laki-laki; nama yang seorang ialah Peleg, sebab dalam zamannya bumi terbagi, dan nama adiknya ialah Yoktan."

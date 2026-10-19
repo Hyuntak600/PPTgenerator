@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",1,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:1, Verse:1, Page:1,
-    Kor:"<잠언의 목적과 주제> 이것은 다윗의 아들 이스라엘 왕 솔로몬의 잠언이다.",
+    Kor:"이것은 다윗의 아들 이스라엘 왕 솔로몬의 잠언이다.",
     Chn:"以色列王大卫儿子所罗门的箴言：",
     Eng:"The proverbs of Solomon son of David, king of Israel:",
     Ind:"Amsal-amsal Salomo bin Daud, raja Israel,"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"untuk menerima didikan yang menjadikan pandai, serta kebenaran, keadilan dan kejujuran,"
   },
   {Bible:"Proverbs", Chapter:1, Verse:4, Page:1,
-    Kor:"a어수룩한 사람을 슬기롭게 하여 주며, 젊은이들에게 지식과 분별력을 갖게 하여 주는 것이니, (a '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"어수룩한 사람을 슬기롭게 하여 주며, 젊은이들에게 지식과 분별력을 갖게 하여 주는 것이니,",
     Chn:"使愚人灵明， 使少年人有知识和谋略，",
     Eng:"for giving prudence to the simple, knowledge and discretion to the young--",
     Ind:"untuk memberikan kecerdasan kepada orang yang tak berpengalaman, dan pengetahuan serta kebijaksanaan kepada orang muda--"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"untuk mengerti amsal dan ibarat, perkataan dan teka-teki orang bijak."
   },
   {Bible:"Proverbs", Chapter:1, Verse:7, Page:1,
-    Kor:"주님을 경외하는 것이 지식의 근본이어늘, b어리석은 사람은 지혜와 훈계를 멸시한다. (b '어리석은 사람'으로 번역된 히브리어 '에빌림'은 잠언 전체와 구약의 여러 곳에서 도덕적 결함이 있는 사람을 가리킴. 단순히 '둔한 사람'과 구별됨)",
+    Kor:"주를 경외하는 것이 지식의 근본이어늘, 어리석은 사람은 지혜와 훈계를 멸시한다.",
     Chn:"敬畏耶和华是知识的开端； 愚妄人藐视智慧和训诲。",
     Eng:"The fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline.",
     Ind:"Takut akan TUHAN adalah permulaan pengetahuan, tetapi orang bodoh menghina hikmat dan didikan."
   },
   {Bible:"Proverbs", Chapter:1, Verse:8, Page:1,
-    Kor:"<젊은이에게 주는 충고> c아이들아, 아버지의 훈계를 잘 듣고, 어머니의 가르침을 저버리지 말아라. (c 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 아버지의 훈계를 잘 듣고, 어머니의 가르침을 저버리지 말아라.",
     Chn:"我儿，要听你父亲的训诲， 不可离弃你母亲的法则；",
     Eng:"Listen, my son, to your father's instruction and do not forsake your mother's teaching.",
     Ind:"Hai anakku, dengarkanlah didikan ayahmu, dan jangan menyia-nyiakan ajaran ibumu"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"sebab karangan bunga yang indah itu bagi kepalamu, dan suatu kalung bagi lehermu."
   },
   {Bible:"Proverbs", Chapter:1, Verse:10, Page:1,
-    Kor:"c아이들아, 악인들이 너를 꾀더라도, 따라가지 말아라. (c 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 악인들이 너를 꾀더라도, 따라가지 말아라.",
     Chn:"我儿，恶人若引诱你， 你不可随从。",
     Eng:"My son, if sinners entice you, do not give in to them.",
     Ind:"Hai anakku, jikalau orang berdosa hendak membujuk engkau, janganlah engkau menurut;"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"jikalau mereka berkata: \"Marilah ikut kami, biarlah kita menghadang darah, biarlah kita mengintai orang yang tidak bersalah, dengan tidak semena-mena;"
   },
   {Bible:"Proverbs", Chapter:1, Verse:12, Page:1,
-    Kor:"d스올처럼 그들을 산 채로 삼키고, 무덤이 사람을 통째로 삼키듯이, 그들을 통째로 삼키자. (d 또는 '무덤' 또는 '죽음')",
+    Kor:"스올처럼 그들을 산 채로 삼키고, 무덤이 사람을 통째로 삼키듯이, 그들을 통째로 삼키자.",
     Chn:"我们好像阴间，把他们活活吞下； 他们如同下坑的人， 被我们囫囵吞了；",
     Eng:"let's swallow them alive, like the grave, and whole, like those who go down to the pit;",
     Ind:"biarlah kita menelan mereka hidup-hidup seperti dunia orang mati, bulat-bulat, seperti mereka yang turun ke liang kubur;"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"kita akan mendapat pelbagai benda yang berharga, kita akan memenuhi rumah kita dengan barang rampasan;"
   },
   {Bible:"Proverbs", Chapter:1, Verse:14, Page:1,
-    Kor:"너도 우리와 함께 제비를 뽑고, 우리 사이에 돈주머니는 하나만 두자.\"",
+    Kor:"너도 우리와 함께 제비를 뽑고, 우리가 모두 돈주머니는 하나만 두자.\"",
     Chn:"你与我们大家同分， 我们共用一个囊袋；",
     Eng:"throw in your lot with us, and we will share a common purse\"--",
     Ind:"buanglah undimu ke tengah-tengah kami, satu pundi-pundi bagi kita sekalian.\""
   },
   {Bible:"Proverbs", Chapter:1, Verse:15, Page:1,
-    Kor:"c아이들아, 그들이 이렇게 말하더라도, 너는 그들과 함께 다니지 말고, 네 발을 그들이 가는 길에 들여놓지 말아라. (c 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 그들이 이렇게 말하더라도, 너는 그들과 함께 다니지 말고, 네 발을 그들이 가는 길에 들여놓지 말아라.",
     Chn:"我儿，不要与他们同行一道， 禁止你脚走他们的路。",
     Eng:"my son, do not go along with them, do not set foot on their paths;",
     Ind:"Hai anakku, janganlah engkau hidup menurut tingkah laku mereka, tahanlah kakimu dari pada jalan mereka,"
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"padahal mereka menghadang darahnya sendiri dan mengintai nyawanya sendiri."
   },
   {Bible:"Proverbs", Chapter:1, Verse:19, Page:1,
-    Kor:"무릇 부당한 이득을 탐하는 자의 길은 다 이러하니, 재물이 목숨을 빼앗는다.",
+    Kor:"무릇 부당한 이득을 탐하는 자가 가는 길은 다 이러하니, 그가 얻은 재물이 자기의 목숨을 빼앗는다.",
     Chn:"凡贪恋财利的，所行之路都是如此； 这贪恋之心乃夺去得财者之命。",
     Eng:"Such is the end of all who go after ill-gotten gain; it takes away the lives of those who get it.",
     Ind:"Demikianlah pengalaman setiap orang yang loba akan keuntungan gelap, yang mengambil nyawa orang yang mempunyainya."
   },
   {Bible:"Proverbs", Chapter:1, Verse:20, Page:1,
-    Kor:"<지혜가 부른다> 지혜가 길거리에서 부르며, 광장에서 그 소리를 높이며,",
+    Kor:"지혜가 길거리에서 부르며, 광장에서 그 소리를 높이며,",
     Chn:"智慧在街市上呼喊， 在宽阔处发声，",
     Eng:"Wisdom calls aloud in the street, she raises her voice in the public squares;",
     Ind:"Hikmat berseru nyaring di jalan-jalan, di lapangan-lapangan ia memperdengarkan suaranya,"
   },
   {Bible:"Proverbs", Chapter:1, Verse:21, Page:1,
-    Kor:"시끄러운 e길 머리에서 외치며, 성문 어귀와 성 안에서 말을 전한다. (e 칠십인역에는 '성벽 위에서')",
+    Kor:"시끄러운 길 머리에서 외치며, 성문 어귀와 성 안에서 말을 전한다.",
     Chn:"在热闹街头喊叫， 在城门口，在城中发出言语，",
     Eng:"at the head of the noisy streets she cries out, in the gateways of the city she makes her speech:",
     Ind:"di atas tembok-tembok ia berseru-seru, di depan pintu-pintu gerbang kota ia mengucapkan kata-katanya."
   },
   {Bible:"Proverbs", Chapter:1, Verse:22, Page:1,
-    Kor:"\"어수룩한 사람들아, 언제까지 어수룩한 것을 좋아하려느냐? 비웃는 사람들아, 언제까지 비웃기를 즐기려느냐? 6)미련한 사람들아, 언제까지 지식을 미워하려느냐?",
+    Kor:"\"어수룩한 사람들아, 언제까지 어수룩한 것을 좋아하려느냐? 비웃는 사람들아, 언제까지 비웃기를 즐기려느냐? 미련한 사람들아, 언제까지 지식을 미워하려느냐?",
     Chn:"说：你们愚昧人喜爱愚昧， 亵慢人喜欢亵慢， 愚顽人恨恶知识，要到几时呢？",
     Eng:"\"How long will you simple ones love your simple ways? How long will mockers delight in mockery and fools hate knowledge?",
     Ind:"\"Berapa lama lagi, hai orang yang tak berpengalaman, kamu masih cinta kepada keadaanmu itu, pencemooh masih gemar kepada cemooh, dan orang bebal benci kepada pengetahuan?"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"maka mereka akan memakan buah perbuatan mereka, dan menjadi kenyang oleh rencana mereka."
   },
   {Bible:"Proverbs", Chapter:1, Verse:32, Page:1,
-    Kor:"어수룩한 사람은 내게 등을 돌리고 살다가 자기를 죽이며, f미련한 사람은 안일하게 살다가 자기를 멸망시키지만, (f '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"어수룩한 사람은 내게 등을 돌리고 살다가 자기를 죽이며, 미련한 사람은 안일하게 살다가 자기를 멸망시키지만,",
     Chn:"愚昧人背道，必杀己身； 愚顽人安逸，必害己命。",
     Eng:"For the waywardness of the simple will kill them, and the complacency of fools will destroy them;",
     Ind:"Sebab orang yang tak berpengalaman akan dibunuh oleh keengganannya, dan orang bebal akan dibinasakan oleh kelalaiannya."

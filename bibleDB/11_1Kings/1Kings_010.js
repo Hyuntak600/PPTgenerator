@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",10,29);
 BibleDB.add([
   {Bible:"1Kings", Chapter:10, Verse:1, Page:1,
-    Kor:"<스바 여왕의 방문(대하 9:1-12)> 스바 여왕이, 주님의 이름 때문에 유명해진 솔로몬의 명성을 듣고서, 여러 가지 어려운 질문으로 시험해 보려고, 솔로몬을 찾아왔다.",
+    Kor:"스바 여왕이, 주의 이름 때문에 유명해진 솔로몬의 명성을 듣고서, 여러 가지 어려운 질문으로 시험해 보려고, 그를 찾아왔다.",
     Chn:"示巴女王听见所罗门因耶和华之名所得的名声，就来要用难解的话试问所罗门。",
     Eng:"When the queen of Sheba heard about the fame of Solomon and his relation to the name of the LORD, she came to test him with hard questions.",
     Ind:"Ketika ratu negeri Syeba mendengar kabar tentang Salomo, berhubung dengan nama TUHAN, maka datanglah ia hendak mengujinya dengan teka-teki."
   },
   {Bible:"1Kings", Chapter:10, Verse:2, Page:1,
-    Kor:"여왕은 수많은 수행원을 데리고 또 여러 가지 향료와 많은 금과 보석을 낙타에 싣고 예루살렘으로 왔다. 그는 솔로몬에게 이르러서, 마음 속에 품고 있던 온갖 것을 다 물어 보았다.",
+    Kor:"그는 수많은 수행원을 데리고 또 여러 가지 향료와 많은 금과 보석을 낙타에 싣고 예루살렘으로 왔다. 그는 솔로몬에게 이르러서, 마음 속에 품고 있던 온갖 것을 다 물어 보았다.",
     Chn:"跟随她到耶路撒冷的人甚多，又有骆驼驮着香料、宝石，和许多金子。她来见了所罗门王，就把心里所有的对所罗门都说出来。",
     Eng:"Arriving at Jerusalem with a very great caravan--with camels carrying spices, large quantities of gold, and precious stones--she came to Solomon and talked with him about all that she had on her mind.",
     Ind:"Ia datang ke Yerusalem dengan pasukan pengiring yang sangat besar, dengan unta-unta yang membawa rempah-rempah, sangat banyak emas dan batu permata yang mahal-mahal. Setelah ia sampai kepada Salomo, dikatakannyalah segala yang ada dalam hatinya kepadanya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Ketika ratu negeri Syeba melihat segala hikmat Salomo dan rumah yang telah didirikannya,"
   },
   {Bible:"1Kings", Chapter:10, Verse:5, Page:1,
-    Kor:"또 왕의 식탁에다가 차려 놓은 요리와, 신하들이 둘러 앉은 모습과, 그의 관리들이 일하는 모습과, 그들이 입은 제복과, 술잔을 받들어 올리는 시종들과, 주님의 성전에서 드리는 번제물을 보고, 넋을 잃었다.",
+    Kor:"또 왕의 식탁에다가 차려 놓은 요리와, 신하들이 둘러 앉은 모습과, 그의 관리들이 일하는 모습과, 그들이 입은 제복과, 술잔을 받들어 올리는 시종들과, 주의 성전에서 드리는 번제물을 보고, 넋을 잃었다.",
     Chn:"席上的珍馐美味，群臣分列而坐，仆人两旁侍立，以及他们的衣服装饰和酒政的衣服装饰，又见他上耶和华殿的台阶，就诧异得神不守舍；",
     Eng:"the food on his table, the seating of his officials, the attending servants in their robes, his cupbearers, and the burnt offerings he made at the temple of the LORD, she was overwhelmed.",
     Ind:"makanan di mejanya, cara duduk pegawai-pegawainya, cara pelayan-pelayannya melayani dan berpakaian, minumannya dan korban bakaran yang biasa dipersembahkannya di rumah TUHAN, maka tercenganglah ratu itu."
@@ -45,31 +45,31 @@ BibleDB.add([
     Ind:"tetapi aku tidak percaya perkataan-perkataan itu sampai aku datang dan melihatnya dengan mataku sendiri; sungguh setengahnyapun belum diberitahukan kepadaku; dalam hal hikmat dan kemakmuran, engkau melebihi kabar yang kudengar."
   },
   {Bible:"1Kings", Chapter:10, Verse:8, Page:1,
-    Kor:"임금님의 a백성은 참으로 행복한 사람들입니다. 임금님 앞에 서서, 늘 임금님의 지혜를 배우는 임금님의 신하들 또한 참으로 행복하다고 하지 아니할 수 없습니다.(a 칠십인역과 시리아어역에는 '부인들')",
+    Kor:"임금님의 백성은 참으로 행복한 사람들입니다. 임금님 앞에 서서, 늘 임금님의 지혜를 배우는 임금님의 신하들 또한 참으로 행복하다고 하지 아니할 수 없습니다.",
     Chn:"你的臣子、你的仆人常侍立在你面前听你智慧的话是有福的！",
     Eng:"How happy your men must be! How happy your officials, who continually stand before you and hear your wisdom!",
     Ind:"Berbahagialah para isterimu, berbahagialah para pegawaimu ini yang selalu melayani engkau dan menyaksikan hikmatmu!"
   },
   {Bible:"1Kings", Chapter:10, Verse:9, Page:1,
-    Kor:"임금님의 주 하나님께 찬양을 돌립니다. 하나님께서는 임금님을 좋아하셔서, 임금님을 이스라엘을 다스리는 왕좌에 앉히셨습니다. 주님께서는 이스라엘을 영원히 사랑하셔서, 임금님을 왕으로 삼으시고, 공평과 정의로 다스리게 하셨습니다.\"",
+    Kor:"임금님의 주 하나님께 찬양을 돌립니다. 하나님께서는 임금님을 좋아하셔서, 임금님을 이스라엘을 다스리는 왕좌에 앉히셨습니다. 주께서는 이스라엘을 영원히 사랑하셔서, 임금님을 왕으로 삼으시고, 공평과 정의로 다스리게 하셨습니다.\"",
     Chn:"耶和华—你的　神是应当称颂的！他喜悦你，使你坐以色列的国位；因为他永远爱以色列，所以立你作王，使你秉公行义。」",
     Eng:"Praise be to the LORD your God, who has delighted in you and placed you on the throne of Israel. Because of the LORD'S eternal love for Israel, he has made you king, to maintain justice and righteousness.\"",
     Ind:"Terpujilah TUHAN, Allahmu, yang telah berkenan kepadamu sedemikian, hingga Ia mendudukkan engkau di atas takhta kerajaan Israel! Karena TUHAN mengasihi orang Israel untuk selama-lamanya, maka Ia telah mengangkat engkau menjadi raja untuk melakukan keadilan dan kebenaran.\""
   },
   {Bible:"1Kings", Chapter:10, Verse:10, Page:1,
-    Kor:"○그런 다음에 여왕은 금 일백이십 달란트와 아주 많은 향료와 보석을 왕에게 선사하였다. 솔로몬 왕은, 스바 여왕에게서 받은 것처럼 많은 향료를, 어느 누구에게서도 다시는 더 받아 본 일이 없다.",
+    Kor:"○그런 다음에, 여왕은 금 일백이십 달란트와 아주 많은 향료와 보석을 왕에게 선사하였다. 솔로몬 왕은, 스바 여왕에게서 받은 것처럼 많은 향료를, 어느 누구에게서도 다시는 더 받아 본 일이 없다.",
     Chn:"于是，示巴女王将一百二十他连得金子和宝石，与极多的香料，送给所罗门王。她送给王的香料，以后奉来的不再有这样多。",
     Eng:"And she gave the king 120 talents of gold, large quantities of spices, and precious stones. Never again were so many spices brought in as those the queen of Sheba gave to King Solomon.",
     Ind:"Lalu diberikannyalah kepada raja seratus dua puluh talenta emas, dan sangat banyak rempah-rempah dan batu permata yang mahal-mahal; tidak pernah datang lagi begitu banyak rempah-rempah seperti yang diberikan ratu negeri Syeba kepada raja Salomo itu."
   },
   {Bible:"1Kings", Chapter:10, Verse:11, Page:1,
-    Kor:"○(오빌에서부터 금을 싣고 온 히람의 배들은, 대단히 많은 백단목과 보석을 가지고 왔는데,",
+    Kor:"(○오빌에서부터 금을 싣고 온 히람의 배들은, 대단히 많은 백단목과 보석을 가지고 왔는데,",
     Chn:"希兰的船只从俄斐运了金子来，又从俄斐运了许多檀香木和宝石来。",
     Eng:"(Hiram's ships brought gold from Ophir; and from there they brought great cargoes of almugwood and precious stones.",
     Ind:"Lagipula kapal-kapal Hiram, yang mengangkut emas dari Ofir, membawa dari Ofir sangat banyak kayu cendana dan batu permata yang mahal-mahal."
   },
   {Bible:"1Kings", Chapter:10, Verse:12, Page:1,
-    Kor:"왕은 이 백단목으로 주님의 성전과 왕궁의 계단을 만들고, 합창단원이 쓸 수금과 하프를 만들었다. 이와 같은 백단목은 전에도 들여온 일이 없고, 오늘까지도 이런 나무는 본 일이 없다.)",
+    Kor:"왕은 이 백단목으로 주의 성전과 왕궁의 계단을 만들고, 합창단원이 쓸 수금과 하프를 만들었다. 이와 같은 백단목은 전에도 들여온 일이 없고, 오늘까지도 이런 나무는 본 일이 없다.)",
     Chn:"王用檀香木为耶和华殿和王宫做栏杆，又为歌唱的人做琴瑟。以后再没有这样的檀香木进国来，也没有人看见过，直到如今。",
     Eng:"The king used the almugwood to make supports for the temple of the LORD and for the royal palace, and to make harps and lyres for the musicians. So much almugwood has never been imported or seen since that day.)",
     Ind:"Raja mengerjakan kayu cendana itu menjadi langkan untuk rumah TUHAN dan untuk istana raja, dan juga menjadi kecapi dan gambus untuk para penyanyi; kayu cendana seperti itu tidak datang dan tidak kelihatan lagi sampai hari ini."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Raja Salomo memberikan kepada ratu negeri Syeba segala yang dikehendakinya dan yang dimintanya, selain apa yang telah diberikannya kepadanya sebagaimana layak bagi raja Salomo. Lalu ratu itu berangkat pulang ke negerinya bersama-sama dengan pegawai-pegawainya."
   },
   {Bible:"1Kings", Chapter:10, Verse:14, Page:1,
-    Kor:"<솔로몬의 부요함(대하 9:13-29)> ○해마다 솔로몬에게 들어오는 금은, 그 무게가 육백육십육 달란트였다.",
+    Kor:"○해마다 솔로몬에게 들어오는 금은, 그 무게가 육백육십육 달란트였다.",
     Chn:"所罗门每年所得的金子共有六百六十六他连得。",
     Eng:"The weight of the gold that Solomon received yearly was 666 talents,",
     Ind:"Adapun emas, yang dibawa kepada Salomo dalam satu tahun ialah seberat enam ratus enam puluh enam talenta,"

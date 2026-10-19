@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",27,22);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:27, Verse:1, Page:1,
-    Kor:"<거짓 예언자들과 싸우는 예레미야> 요시야의 아들 a시드기야가 유다 왕이 되어 다스리기 시작할 무렵에, 주님께서 예레미야에게 말씀하셨다.(a 소수의 히브리어 사본과 시리아어역을 따름.(렘 27:3; 28:1에서도) 대다수의 히브리어 사본에는 '여호야김'으로 되어 있음. 대다수의 칠십인역 사본에는 1절이 없음)",
+    Kor:"요시야의 아들 시드기야가 유다 왕이 되어 다스리기 시작할 무렵에, 주께서 예레미야에게 말씀하셨다.",
     Chn:"犹大王约西亚的儿子约雅敬登基的时候，有这话从耶和华临到耶利米说：",
     Eng:"Early in the reign of Zedekiah son of Josiah king of Judah, this word came to Jeremiah from the LORD:",
     Ind:"Pada permulaan pemerintahan Zedekia, anak Yosia raja Yehuda, datanglah firman ini dari TUHAN kepada Yeremia."
   },
   {Bible:"Jeremiah", Chapter:27, Verse:2, Page:1,
-    Kor:"○주님께서 나에게 이렇게 말씀하셨다. \"너는 나무 멍에들을 만들어 밧줄을 달고, 그 멍에들을 네 목으로 메어다가,",
+    Kor:"○주께서 나에게 이렇게 말씀하셨다. \"너는 나무 멍에들을 만들어 밧줄을 달고, 그 멍에들을 네 목으로 메어다가,",
     Chn:"「耶和华对我如此说：你做绳索与轭，加在自己的颈项上，",
     Eng:"This is what the LORD said to me: \"Make a yoke out of straps and crossbars and put it on your neck.",
     Ind:"Beginilah firman TUHAN kepadaku: \"Buatlah tali pengikat dan gandar, lalu pasanglah itu pada tengkukmu!"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Kemudian kirimlah pesan kepada raja Edom, kepada raja Moab, kepada raja bani Amon, kepada raja Tirus dan kepada raja Sidon, dengan perantaraan utusan-utusan yang telah datang ke Yerusalem menghadap Zedekia, raja Yehuda."
   },
   {Bible:"Jeremiah", Chapter:27, Verse:4, Page:1,
-    Kor:"너는 또 그들에게 이렇게 명령하여, 각자 상전에게 전하게 하여라. ○'나 만군의 주, 이스라엘의 하나님이 말한다. 너희는 각자 상전에게 전하여라.",
+    Kor:"너는 또 그들에게 다음과 같이 명령하여, 각자 상전에게 전하게 하여라. '나 만군의 주, 이스라엘의 하나님이 이렇게 말한다. 너희는 각자 상전에게 전하여라.",
     Chn:"且嘱咐使臣，传与他们的主人说，万军之耶和华—以色列的　神如此说：",
     Eng:"Give them a message for their masters and say, 'This is what the LORD Almighty, the God of Israel, says: \"Tell this to your masters:",
     Ind:"Perintahkanlah mereka mengatakan kepada tuan-tuan mereka: Beginilah firman TUHAN semesta alam, Allah Israel: Beginilah harus kamu katakan kepada tuan-tuanmu:"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Kepada Zedekia, raja Yehuda, aku telah berbicara dengan cara yang sama, kataku: \"Taruhlah tengkukmu ke bawah kuk raja negeri Babel, takluklah kepadanya dan kepada rakyatnya, maka kamu akan hidup."
   },
   {Bible:"Jeremiah", Chapter:27, Verse:13, Page:1,
-    Kor:"주님께서, 바빌로니아 왕을 섬기지 않는 백성은 전쟁과 기근과 염병으로 죽이겠다고 말씀하셨는데, 어찌하여 임금님과 임금님의 백성은 그와 같이 죽으려고 하십니까?",
+    Kor:"주께서, 바빌로니아 왕을 섬기지 않는 백성은 전쟁과 기근과 염병으로 죽이겠다고 말씀하셨는데, 어찌하여 임금님과 임금님의 백성은 그와 같이 죽으려고 하십니까?",
     Chn:"你和你的百姓为何要因刀剑、饥荒、瘟疫死亡，正如耶和华论到不服事巴比伦王的那国说的话呢？",
     Eng:"Why will you and your people die by the sword, famine and plague with which the LORD has threatened any nation that will not serve the king of Babylon?",
     Ind:"Mengapa engkau beserta rakyatmu harus mati oleh pedang, kelaparan dan penyakit sampar seperti yang difirmankan TUHAN tentang bangsa yang tidak mau takluk kepada raja Babel itu?"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Janganlah dengarkan perkataan nabi-nabi yang berkata kepadamu: Janganlah kamu mau takluk kepada raja Babel! Sebab mereka bernubuat palsu kepadamu."
   },
   {Bible:"Jeremiah", Chapter:27, Verse:15, Page:1,
-    Kor:"주님께서는 이렇게 말씀하셨습니다. '나는 그들을 보내지 않았는데, 그들은 거짓으로 내 이름을 팔아 예언한다. 너희가 그 말을 들으면, 내가 너희를 쫓아낼 것이며, 너희는 그러한 예언자들과 함께 멸망하고 말 것이다' 하셨습니다.\"",
+    Kor:"주께서는 이렇게 말씀하셨습니다. '나는 그들을 보내지 않았는데, 그들은 거짓으로 내 이름을 팔아 예언한다. 너희가 그 말을 들으면, 내가 너희를 쫓아낼 것이며, 너희는 그러한 예언자들과 함께 멸망하고 말 것이다' 하셨습니다.\"",
     Chn:"耶和华说：『我并没有打发他们，他们却托我的名说假预言，好使我将你们和向你们说预言的那些先知赶出去，一同灭亡。』」",
     Eng:"'I have not sent them,' declares the LORD. 'They are prophesying lies in my name. Therefore, I will banish you and you will perish, both you and the prophets who prophesy to you.'\"",
     Ind:"Sebab Aku tidak mengutus mereka, demikianlah firman TUHAN, tetapi mereka bernubuat palsu demi nama-Ku, sehingga kamu Kuceraiberaikan dan menjadi binasa bersama-sama dengan nabi-nabi yang bernubuat kepadamu itu.\""
   },
   {Bible:"Jeremiah", Chapter:27, Verse:16, Page:1,
-    Kor:"○그리고 나는 제사장들과 이 모든 백성에게 이렇게 말하였다. \"나 주가 말한다. 너희는, 주의 성전의 기구들이 이제 곧 바빌로니아에서 되돌아올 것이라고 하는 너희 예언자들의 말을 듣지 말아라. 그들이 너희에게 하는 예언은 거짓이다.",
+    Kor:"○그리고 나는 제사장들과 이 모든 백성에게 다음과 같이 말하였다. \"나 주가 말한다. 너희는, 주의 성전의 기구들이 이제 곧 바빌로니아에서 되돌아올 것이라고 하는 너희 예언자들의 말을 듣지 말아라. 그들이 너희에게 하는 예언은 거짓이다.",
     Chn:"我又对祭司和这众民说：「耶和华如此说：你们不可听那先知对你们所说的预言。他们说：『耶和华殿中的器皿快要从巴比伦带回来』；其实他们向你们说假预言。",
     Eng:"Then I said to the priests and all these people, \"This is what the LORD says: Do not listen to the prophets who say, 'Very soon now the articles from the LORD'S house will be brought back from Babylon.' They are prophesying lies to you.",
     Ind:"Juga kepada imam-imam dan kepada seluruh rakyat itu aku berbicara, kataku: \"Beginilah firman TUHAN: Janganlah dengarkan perkataan nabi-nabimu yang bernubuat kepadamu: Sesungguhnya, perkakas-perkakas rumah TUHAN tidak berapa lama lagi akan dibawa kembali dari Babel! Sebab mereka bernubuat palsu kepadamu."
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Janganlah kamu mendengarkan mereka, takluklah kepada raja Babel, maka kamu akan hidup. Mengapa kota ini harus menjadi reruntuhan?"
   },
   {Bible:"Jeremiah", Chapter:27, Verse:18, Page:1,
-    Kor:"그러므로 그들이 예언자들이라고 한다면, 정말로 그들이 주의 말씀을 받은 사람들이라면, 차라리 그들은 주의 성전과 유다 왕궁과 예루살렘에 아직 남아 있는 기구들을 더 이상 바빌로니아에 빼앗기지 않게 해 달라고, 만군의 주에게 호소해야 옳을 것이다.",
+    Kor:"그러므로 그들이 예언자들이라고 한다면, 정말로 그들이 주의 말씀을 받은 사람들이라면, 차라리 그들은 주의 성전과 유다 왕궁과 예루살렘에 아직 남아 있는 기구들을 더 이상 바빌로니아에 빼앗기지 않게 해 달라고, 만군의 주께 호소해야 옳을 것이다.",
     Chn:"他们若果是先知，有耶和华的话临到他们，让他们祈求万军之耶和华，使那在耶和华殿中和犹大王宫内，并耶路撒冷剩下的器皿，不被带到巴比伦去。（",
     Eng:"If they are prophets and have the word of the LORD, let them plead with the LORD Almighty that the furnishings remaining in the house of the LORD and in the palace of the king of Judah and in Jerusalem not be taken to Babylon.",
     Ind:"Jika memang mereka itu nabi dan jika ada firman TUHAN pada mereka, baiklah mereka mendesak kepada TUHAN semesta alam, supaya perkakas-perkakas yang masih tinggal dalam rumah TUHAN dan dalam istana raja Yehuda dan di Yerusalem itu jangan diangkut ke Babel."
   },
   {Bible:"Jeremiah", Chapter:27, Verse:19, Page:1,
-    Kor:"○(나 만군의 주가 기둥과 놋바다와 받침대와 아직 이 도성에 남아 있는 기구,",
+    Kor:"(○나 만군의 주가 기둥과 놋바다와 받침대와 아직 이 도성에 남아 있는 기구,",
     Chn:"因为万军之耶和华论到柱子、铜海、盆座，并剩在这城里的器皿，",
     Eng:"For this is what the LORD Almighty says about the pillars, the Sea, the movable stands and the other furnishings that are left in this city,",
     Ind:"Sebab beginilah firman TUHAN semesta alam tentang tiang-tiang, bejana 'laut' dan galang, tentang sisa perkakas-perkakas yang masih tinggal di kota ini,"
   },
   {Bible:"Jeremiah", Chapter:27, Verse:20, Page:1,
-    Kor:"곧 바빌로니아 왕 느부갓네살이 유다 왕 여호야김의 아들 b여고냐와, 유다와 예루살렘의 모든 귀족을 예루살렘에서 바빌로니아로 붙잡아 갈 때에 남겨 두었던 것들에 관하여 말하겠다.)(b 일명 '여호야긴')",
+    Kor:"곧 바빌로니아 왕 느부갓네살이 유다 왕 여호야김의 아들 여고니야와, 유다와 예루살렘의 모든 귀족을 예루살렘에서 바빌로니아로 붙잡아 갈 때에 남겨 두었던 것들에 관하여 말하겠다.)",
     Chn:"就是巴比伦王尼布甲尼撒掳掠犹大王约雅敬的儿子耶哥尼雅，和犹大、耶路撒冷一切贵胄的时候所没有掠去的器皿。）",
     Eng:"which Nebuchadnezzar king of Babylon did not take away when he carried Jehoiachin son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem--",
     Ind:"yang tidak diambil oleh Nebukadnezar, raja Babel, ketika ia mengangkut Yekhonya bin Yoyakim, raja Yehuda, ke dalam pembuangan beserta segala pemuka Yehuda dan Yerusalem, dari Yerusalem ke Babel, --"

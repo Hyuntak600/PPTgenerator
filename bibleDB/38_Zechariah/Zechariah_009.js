@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",9,17);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:9, Verse:1, Page:1,
-    Kor:"<이스라엘 이웃 나라들에 대한 심판 경고> 주님께서 경고하신 말씀이다. 주님의 말씀이 하드락 땅에 내리고, 다마스쿠스에 머문다. 이방 사람들과 이스라엘의 모든 지파들이 주님을 바라본다.",
+    Kor:"주께서 경고하신 말씀이다. 주의 말씀이 하드락 땅에 내리고, 다마스쿠스에 머문다. 이방 사람들과 이스라엘의 모든 지파들이 주를 바라본다.",
     Chn:"耶和华的默示应验在哈得拉地大马士革 —世人和以色列各支派的眼目都仰望耶和华—",
     Eng:"The word of the LORD is against the land of Hadrach and will rest upon Damascus--for the eyes of men and all the tribes of Israel are on the LORD--",
     Ind:"Ucapan Ilahi. Firman TUHAN datang atas negeri Hadrakh dan berhenti di Damsyik. Sebab kepunyaan Tuhanlah kota-kota Aram serta segala suku Israel;"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Tirus mendirikan tembok benteng bagi dirinya dan menimbun perak seperti debu dan emas seperti lumpur di jalan."
   },
   {Bible:"Zechariah", Chapter:9, Verse:4, Page:1,
-    Kor:"주님께서 그들을 쫓아내시며 바다에서 떨치던 그의 힘을 깨뜨리시고, 성읍을 불에 태워 멸하실 것이다.",
+    Kor:"주께서 그들을 쫓아내시며 바다에서 떨치던 그의 힘을 깨뜨리시고, 성읍을 불에 태워 멸하실 것이다.",
     Chn:"主必赶出她， 打败她海上的权利； 她必被火烧灭。",
     Eng:"But the LORD will take away her possessions and destroy her power on the sea, and she will be consumed by fire.",
     Ind:"Namun sesungguhnya, Tuhan akan membuatnya miskin dan akan melontarkan kekuatannya ke dalam laut, dan kota itu sendiri akan habis dimakan api."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Askelon akan melihatnya, lalu takut; juga Gaza, lalu gemetar sangat; Ekronpun, sebab harapannya sudah kandas. Dari Gaza raja akan binasa dan Askelon tidak akan didiami lagi."
   },
   {Bible:"Zechariah", Chapter:9, Verse:6, Page:1,
-    Kor:"아스돗은 낯선 외국인들이 차지할 것이다. 주님께서 말씀하신다. \"내가 블레셋의 교만을 꺾겠다.",
+    Kor:"아스돗은 낯선 외국인들이 차지할 것이다. 주께서 말씀하신다. \"내가 블레셋의 교만을 꺾겠다.",
     Chn:"私生子必住在亚实突； 我必除灭非利士人的骄傲。",
     Eng:"Foreigners will occupy Ashdod, and I will cut off the pride of the Philistines.",
     Ind:"Di Asdod akan diam keturunan campuran, dan kebanggaan orang Filistin akan Kulenyapkan."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Aku berkemah dekat rumah-Ku sebagai pengawal terhadap mereka yang lalu-lalang; tidak akan ada lagi penindas mendatanginya, sebab sekarang Aku sendiri telah mengindahkannya."
   },
   {Bible:"Zechariah", Chapter:9, Verse:9, Page:1,
-    Kor:"<앞으로 올 왕> 도성 시온아, 크게 기뻐하여라. 도성 예루살렘아, 환성을 올려라. 네 왕이 네게로 오신다. 그는 공의로우신 왕, 구원을 베푸시는 왕이시다. 그는 온순하셔서, 나귀 곧 나귀 새끼인 어린 나귀를 타고 오신다.",
+    Kor:"도성 시온아, 크게 기뻐하여라. 도성 예루살렘아, 환성을 올려라. 네 왕이 네게로 오신다. 그는 공의로우신 왕, 구원을 베푸시는 왕이시다. 그는 온순하셔서, 나귀 곧 나귀 새끼인 어린 나귀를 타고 오신다.",
     Chn:"锡安的民哪，应当大大喜乐； 耶路撒冷的民哪，应当欢呼。 看哪，你的王来到你这里！ 他是公义的，并且施行拯救， 谦谦和和地骑着驴， 就是骑着驴的驹子。",
     Eng:"Rejoice greatly, O Daughter of Zion! Shout, Daughter of Jerusalem! See, your king comes to you, righteous and having salvation, gentle and riding on a donkey, on a colt, the foal of a donkey.",
     Ind:"Bersorak-soraklah dengan nyaring, hai puteri Sion, bersorak-sorailah, hai puteri Yerusalem! Lihat, rajamu datang kepadamu; ia adil dan jaya. Ia lemah lembut dan mengendarai seekor keledai, seekor keledai beban yang muda."
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Sebab Aku melentur Yehuda bagi-Ku, busur Kuisi dengan Efraim, dan Aku mengayunkan anak-anakmu, hai Sion, terhadap anak-anakmu, hai Yunani, dan Aku akan memakai engkau seperti pedang seorang pahlawan."
   },
   {Bible:"Zechariah", Chapter:9, Verse:14, Page:1,
-    Kor:"주님께서 그의 백성에게 나타나셔서 그의 화살을 번개처럼 쏘실 것이다. 주 하나님이 나팔을 부시며, 남쪽에서 회리바람을 일으키며 진군하신다.",
+    Kor:"주께서 그의 백성에게 나타나셔서 그의 화살을 번개처럼 쏘실 것이다. 주 하나님이 나팔을 부시며, 남쪽에서 회리바람을 일으키며 진군하신다.",
     Chn:"耶和华必显现在他们以上； 他的箭必射出像闪电。 主耶和华必吹角， 乘南方的旋风而行。",
     Eng:"Then the LORD will appear over them; his arrow will flash like lightning. The Sovereign LORD will sound the trumpet; he will march in the storms of the south,",
     Ind:"TUHAN akan menampakkan diri kepada mereka, dan anak panah-Nya akan melayang keluar seperti kilat. Dan Tuhan ALLAH akan meniup sangkakala dan akan berjalan maju dalam angin badai dari selatan."
   },
   {Bible:"Zechariah", Chapter:9, Verse:15, Page:1,
-    Kor:"만군의 주님께서 백성을 보호하실 것이니, 그 백성이 원수를 섬멸하여 무릿매 돌 던지는 자들을 짓밟을 것이다. a백성은 그들의 피를 포도주처럼 마실 것이며, 그들은 피가 가득한 동이와도 같고 피로 흠뻑 젖은 제단 뿔과도 같을 것이다. (a 칠십인역을 따름. 히, '백성은 마실 것이며 포도주에 취한 것처럼 소리를 지를 것이다')",
+    Kor:"만군의 주께서 백성을 보호하실 것이니, 그 백성이 원수를 섬멸하여 무릿매 돌 던지는 자들을 짓밟을 것이다. 백성은 그들의 피를 포도주처럼 마실 것이며, 그들은 피가 가득한 동이와도 같고 피로 흠뻑 젖은 제단 뿔과도 같을 것이다.",
     Chn:"万军之耶和华必保护他们； 他们必吞灭仇敌，践踏弹石。 他们必喝血呐喊，犹如饮酒； 他们必像盛满血的碗， 又像坛的四角满了血。",
     Eng:"and the LORD Almighty will shield them. They will destroy and overcome with slingstones. They will drink and roar as with wine; they will be full like a bowl used for sprinkling the corners of the altar.",
     Ind:"TUHAN semesta alam akan melindungi mereka, dan mereka akan menghabisi dan menginjak-injak pengumban-pengumban. Mereka akan minum darah seperti minum anggur dan menjadi penuh seperti bokor penyiraman, seperti penjuru-penjuru mezbah."
   },
   {Bible:"Zechariah", Chapter:9, Verse:16, Page:1,
-    Kor:"그 날에 주 그들의 하나님이 백성을 양 떼같이 여기시고 구원하셔서, 그들을 주님의 땅에 심으시면, 그들은 왕관에 박힌 보석같이 빛날 것이다.",
+    Kor:"그 날에 주 그들의 하나님이 백성을 양 떼같이 여기시고 구원하셔서, 그들을 주의 땅에 심으시면, 그들은 왕관에 박힌 보석같이 빛날 것이다.",
     Chn:"当那日，耶和华—他们的　神 必看他的民如群羊，拯救他们； 因为他们必像冠冕上的宝石， 高举在他的地以上。",
     Eng:"The LORD their God will save them on that day as the flock of his people. They will sparkle in his land like jewels in a crown.",
     Ind:"TUHAN, Allah mereka, akan menyelamatkan mereka pada hari itu; seperti kawanan domba umat-Nya itu, sungguh, mereka seperti permata-permata mahkota yang berkilap-kilap, demikianlah mereka di tanah TUHAN."

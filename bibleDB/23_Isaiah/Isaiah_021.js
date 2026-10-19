@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",21,17);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:21, Verse:1, Page:1,
-    Kor:"<바빌론의 멸망에 관한 환상> 이것은 a해변 광야를 두고 하신 엄한 경고의 말씀이다.  남쪽 광야에서 불어오는 회오리바람처럼 침략자가 광야에서 쳐들어온다. 저 무서운 땅에서 몰아쳐 온다. (a 바빌로니아)",
+    Kor:"이것은 해변 광야를 두고 하신 엄한 경고의 말씀이다. 남쪽 광야에서 불어오는 회오리바람처럼 침략자가 광야에서 쳐들어온다. 저 무서운 땅에서 몰아쳐 온다.",
     Chn:"论海旁旷野的默示： 有仇敌从旷野，从可怕之地而来， 好像南方的旋风，猛然扫过。",
     Eng:"An oracle concerning the Desert by the Sea: Like whirlwinds sweeping through the southland, an invader comes from the desert, from a land of terror.",
     Ind:"Ucapan ilahi terhadap \"padang gurun di tepi laut\". Seperti puting beliung mendesing lewat di Tanah Negeb, demikianlah datangnya dari padang gurun, dari negeri yang dahsyat."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Hatiku gelisah, kekejutan meliputi aku, malam hari yang selalu kurindukan itu sekarang menggentarkan aku."
   },
   {Bible:"Isaiah", Chapter:21, Verse:5, Page:1,
-    Kor:"내가 보니, 사람들이 잔칫상을 차려 놓고, 방석을 깔고 앉아서, 먹고 마신다. 갑자기 누가 명령한다. \"너희 지휘관들아, 일어나거라. 방패를 들어라.\"",
+    Kor:"내가 보니, 사람들이 잔칫상을 차려 놓고, 방석을 깔고 앉아서, 먹고 마신다. 갑자기 누가 명령한다. \"너희 지휘관들아, 일어나거라. 방패에 기름을 발라라.\"",
     Chn:"他们摆设筵席， 派人守望，又吃又喝。 首领啊，你们起来， 用油抹盾牌。",
     Eng:"They set the tables, they spread the rugs, they eat, they drink! Get up, you officers, oil the shields!",
     Ind:"Orang sibuk menyajikan hidangan, mengatur tempat-tempat duduk, makan, minum...Tiba-tiba kedengaran: \"Hai para panglima! Siaplah tempur, minyakilah perisai!\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:6, Page:1,
-    Kor:"주님께서 나에게 이렇게 말씀하셨다. \"너는 가서 파수꾼을 세우고 그가 보는 대로 보고하라고 하여라.",
+    Kor:"주께서 나에게 말씀하셨다. \"너는 가서 파수꾼을 세우고 그가 보는 대로 보고하라고 하여라.",
     Chn:"主对我如此说： 你去设立守望的， 使他将所看见的述说。",
     Eng:"This is what the Lord says to me: \"Go, post a lookout and have him report what he sees.",
     Ind:"Sebab beginilah firman Tuhan kepadaku: \"Pergilah, tempatkanlah seorang peninjau, apa yang dilihatnya haruslah diberitahukannya."
@@ -45,43 +45,43 @@ BibleDB.add([
     Ind:"Apabila dilihatnya pasukan, pasang-pasangan orang berkuda, pasukan keledai, pasukan unta, maka haruslah diperhatikannya sungguh-sungguh, dengan penuh perhatian.\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:8, Page:1,
-    Kor:"b파수꾼이 외친다. \"지휘관님, 제가 온종일 망대 위에 서 있었습니다. 밤새 경계 구역을 계속 지키고 있었습니다.\" (b 사해 사본과 시리아어역을 따름. 마소라 본문에는 '사자가')",
+    Kor:"파수꾼이 외친다. \"온종일 망대 위에 서 있다. 밤새 경계 구역을 계속 지키고 있다.",
     Chn:"他像狮子吼叫，说： 主啊，我白日常站在望楼上， 整夜立在我守望所。",
     Eng:"And the lookout shouted, \"Day after day, my lord, I stand on the watchtower; every night I stay at my post.",
     Ind:"Kemudian berserulah orang yang melihat itu: \"Di tempat peninjauan, ya tuanku, aku berdiri senantiasa sehari suntuk, dan di tempat pengawalanku aku terpancang setiap malam.\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:9, Page:1,
-    Kor:"그런데, 갑자기 병거가 몰려오고, 기마병이 무리를 지어 온다. 누가 소리친다. \"바빌론이 함락되었다! 바빌론이 함락되었다! 조각한 신상들이 모두 땅에 떨어져서 박살났다!\"",
+    Kor:"아, 온다! 한 사람이 병거를 타고 오고, 기마병들이 무리를 지어 온다.\" 파수꾼이 보고한다. \"바빌론이 함락되었다! 바빌론이 함락되었다! 조각한 신상들이 모두 땅에 떨어져서 박살났다!\"",
     Chn:"看哪，有一队军兵骑着马， 一对一对地来。 他就说：巴比伦倾倒了！倾倒了！ 他一切雕刻的神像都打碎于地。",
     Eng:"Look, here comes a man in a chariot with a team of horses. And he gives back the answer: 'Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!'\"",
     Ind:"Lihat, itu sudah datang sepasukan orang, pasang-pasangan orang berkuda! Lalu berserulah ia, katanya: \"Sudah jatuh, sudah jatuh Babel, dan segala patung berhalanya telah diremukkan dan bertaburan di tanah.\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:10, Page:1,
-    Kor:"아, 짓밟히던 나의 겨레여, 타작 마당에서 으깨지던 나의 동포여, 이스라엘의 하나님 만군의 주님께서 나에게 말씀하신 것을, 이렇게 내가 그대들에게 전한다.",
+    Kor:"아, 짓밟히던 나의 겨레여, 타작 마당에서 으깨지던 나의 동포여, 이스라엘의 하나님 만군의 주께서 나에게 말씀하신 것을, 이렇게 내가 그대들에게 전한다.",
     Chn:"我被打的禾稼，我场上的谷啊， 我从万军之耶和华— 以色列的　神那里所听见的，都告诉你们了。",
     Eng:"O my people, crushed on the threshing floor, I tell you what I have heard from the LORD Almighty, from the God of Israel.",
     Ind:"Hai bangsaku yang telah dipijak-pijak dan diinjak-injak! Apa yang kudengar dari TUHAN semesta alam, Allah Israel, telah kuberitahukan kepadamu."
   },
   {Bible:"Isaiah", Chapter:21, Verse:11, Page:1,
-    Kor:"<에돔에 대한 경고> ○이것은 c두마를 두고 하신 엄한 경고의 말씀이다.  세일에서 누가 나를 부른다. \"파수꾼아, 밤이 얼마나 지났느냐? 파수꾼아, 날이 새려면 얼마나 더 남았느냐?\" (c '침묵'. 두마는 에돔에 대한 어희, 두 히브리어 사본과 칠십인역에는 '에돔')",
+    Kor:"○이것은 두마를 두고 하신 엄한 경고의 말씀이다. 세일에서 누가 나를 부른다. \"파수꾼아, 밤이 얼마나 지났느냐? 파수꾼아, 날이 새려면 얼마나 더 남았느냐?\"",
     Chn:"论度玛的默示： 有人声从西珥呼问我说： 守望的啊，夜里如何？ 守望的啊，夜里如何？",
     Eng:"An oracle concerning Dumah: Someone calls to me from Seir, \"Watchman, what is left of the night? Watchman, what is left of the night?\"",
     Ind:"Ucapan ilahi terhadap Duma. Ada seorang berseru kepadaku dari Seir: \"Hai pengawal, masih lama malam ini? Hai pengawal, masih lama malam ini?\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:12, Page:1,
-    Kor:"파수꾼이 대답한다. \"아침이 곧 온다. 그러나 또다시 밤이 온다. 묻고 싶거든, 물어 보아라. 다시 와서 물어 보아라.\"",
+    Kor:"파수꾼이 대답한다 \"곧 아침이 온다. 그러나 또다시 밤이 온다. 묻고 싶거든, 물어 보아라. 다시 와서 물어 보아라.\"",
     Chn:"守望的说： 早晨将到，黑夜也来。 你们若要问就可以问， 可以回头再来。",
     Eng:"The watchman replies, \"Morning is coming, but also the night. If you would ask, then ask; and come back yet again.\"",
     Ind:"Pengawal itu berkata: \"Pagi akan datang, tetapi malam juga. Jika kamu mau bertanya, datanglah bertanya sekali lagi!\""
   },
   {Bible:"Isaiah", Chapter:21, Verse:13, Page:1,
-    Kor:"<아라비아에 대한 경고> ○이것은 아라비아를 두고 하신 엄한 경고의 말씀이다.  드단 사람들아, 아라비아의 메마른 덤불 속에서 밤을 지새우는 드단의 행상들아,",
+    Kor:"○이것은 아라비아를 두고 하신 엄한 경고의 말씀이다. 드단 사람들아, 아라비아의 메마른 덤불 속에서 밤을 지새우는 드단의 행상들아,",
     Chn:"论阿拉伯的默示： 底但结伴的客旅啊， 你们必在阿拉伯的树林中住宿。",
     Eng:"An oracle concerning Arabia: You caravans of Dedanites, who camp in the thickets of Arabia,",
     Ind:"Ucapan ilahi terhadap Arabia. Di belukar di Arabia kamu akan bermalam, hai kafilah-kafilah orang Dedan!"
   },
   {Bible:"Isaiah", Chapter:21, Verse:14, Page:1,
-    Kor:"목마른 피난민들에게 마실 물을 주어라. 데마 땅에 사는 사람들아, 아라비아의 피난민들에게 먹거리를 가져다 주어라.",
+    Kor:"목마른 피난민들에게 마실 물을 주어라. 데마 땅에 사는 사람들아, 아라비아의 피난민들에게 먹을거리를 가져다 주어라.",
     Chn:"提玛地的居民拿水来，送给口渴的， 拿饼来迎接逃避的。",
     Eng:"bring water for the thirsty; you who live in Tema, bring food for the fugitives.",
     Ind:"Hai penduduk tanah Tema, keluarlah, bawalah air kepada orang yang haus, pergilah, sambutlah orang pelarian dengan roti!"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Sebab mereka melarikan diri terhadap pedang, ya terhadap pedang yang terhunus, terhadap busur yang dilentur, dan terhadap kehebatan peperangan."
   },
   {Bible:"Isaiah", Chapter:21, Verse:16, Page:1,
-    Kor:"주님께서 나에게 이렇게 말씀하셨다. \"일 년 기한으로 머슴살이를 하게 된 머슴이 날 수를 세듯이, 이제 내가 일 년을 센다. 일 년 만에 게달의 모든 허세가 사라질 것이다.",
+    Kor:"주께서 나에게 이렇게 말씀하셨다. \"일 년 기한으로 머슴살이를 하게 된 머슴이 날 수를 세듯이, 이제 내가 일 년을 센다. 일 년 만에 게달의 모든 허세가 사라질 것이다.",
     Chn:"主对我这样说：「一年之内，照雇工的年数，基达的一切荣耀必归于无有。",
     Eng:"This is what the Lord says to me: \"Within one year, as a servant bound by contract would count it, all the pomp of Kedar will come to an end.",
     Ind:"Sebab beginilah firman Tuhan kepadaku: \"Dalam setahun lagi, menurut masa kerja prajurit upahan, maka segala kemuliaan Kedar akan habis."

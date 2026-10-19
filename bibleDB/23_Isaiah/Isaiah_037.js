@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",37,38);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:37, Verse:1, Page:1,
-    Kor:"<왕이 이사야의 충고를 듣고자 하다(왕하 19:1-7)> 히스기야 왕도 이 말을 듣고, 울분을 참지 못하여, 자기 옷을 찢고, 베옷을 두르고, 주님의 성전으로 들어갔다.",
+    Kor:"히스기야 왕도 이 말을 듣고, 울분을 참지 못하여, 자기 옷을 찢고, 베옷을 두르고, 주의 성전으로 들어갔다.",
     Chn:"希西家王听见就撕裂衣服，披上麻布，进了耶和华的殿，",
     Eng:"When King Hezekiah heard this, he tore his clothes and put on sackcloth and went into the temple of the LORD.",
     Ind:"Segera sesudah raja Hizkia mendengar itu, dikoyakkannyalah pakaiannya dan diselubunginyalah badannya dengan kain kabung, lalu masuklah ia ke rumah TUHAN."
   },
   {Bible:"Isaiah", Chapter:37, Verse:2, Page:1,
-    Kor:"그는 궁내대신 엘리야김과 서기관 셉나와 원로 제사장들에게 베옷을 두르게 한 뒤에, 이 사람들을 아모스의 아들 예언자 이사야에게 보냈다.",
+    Kor:"그는 궁내대신 엘리아김과 서기관 셉나와 원로 제사장들에게 베옷을 두르게 한 뒤에, 이 사람들을 아모스의 아들 예언자 이사야에게 보냈다.",
     Chn:"使家宰以利亚敬和书记舍伯那，并祭司中的长老，都披上麻布，去见亚摩斯的儿子先知以赛亚，",
     Eng:"He sent Eliakim the palace administrator, Shebna the secretary, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz.",
     Ind:"Disuruhnyalah juga Elyakim, kepala istana, Sebna, panitera negara, dan yang tua-tua di antara para imam, dengan berselubungkan kain kabung, kepada nabi Yesaya bin Amos."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Ketika pegawai-pegawai raja Hizkia sampai kepada Yesaya,"
   },
   {Bible:"Isaiah", Chapter:37, Verse:6, Page:1,
-    Kor:"이사야가 그들에게 대답하였다. \"그대들의 왕에게 이렇게 전하십시오. 주님께서 이렇게 말씀하십니다. '앗시리아 왕의 부하들이 나를 모욕하는 말을 네가 들었다고 하여, 그렇게 두려워하지 말아라.",
+    Kor:"이사야가 그들에게 대답하였다. \"그대들의 왕에게 이렇게 전하십시오. 주께서 이렇게 말씀하십니다. '앗시리아 왕의 부하들이 나를 모욕하는 말을 네가 들었다고 하여, 그렇게 두려워하지 말아라.",
     Chn:"以赛亚对他们说：「要这样对你们的主人说，耶和华如此说：『你听见亚述王的仆人亵渎我的话，不要惧怕。",
     Eng:"Isaiah said to them, \"Tell your master, 'This is what the LORD says: Do not be afraid of what you have heard--those words with which the underlings of the king of Assyria have blasphemed me.",
     Ind:"berkatalah Yesaya kepada mereka: \"Beginilah kamu katakan kepada tuanmu: Beginilah firman TUHAN: Janganlah engkau takut terhadap perkataan yang kaudengar yang telah diucapkan oleh budak-budak raja Asyur untuk menghujat Aku."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sesungguhnya, Aku akan menyuruh suatu roh masuk di dalamnya, sehingga ia mendengar suatu kabar dan pulang ke negerinya; Aku akan membuat dia mati rebah oleh pedang di negerinya sendiri.\""
   },
   {Bible:"Isaiah", Chapter:37, Verse:8, Page:1,
-    Kor:"<앗시리아가 또 다른 협박을 하여 오다(왕하 19:8-19)> ○랍사게는, 자기 왕이 라기스를 떠났다는 소식을 듣고 후퇴하여, 립나를 치고 있는 앗시리아 왕과 합세하였다.",
+    Kor:"○랍사게는, 자기 왕이 라기스를 떠났다는 소식을 듣고 후퇴하여, 립나를 치고 있는 앗시리아 왕과 합세하였다.",
     Chn:"拉伯沙基回去，正遇见亚述王攻打立拿；原来他早听见亚述王拔营离开拉吉。",
     Eng:"When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.",
     Ind:"Ketika juru minuman agung pulang, didapatinyalah raja Asyur berperang melawan Libna; sebab sudah didengarnya bahwa raja telah berangkat dari Lakhis."
   },
   {Bible:"Isaiah", Chapter:37, Verse:9, Page:1,
-    Kor:"그 때에 앗시리아 왕은, a에티오피아 왕 디르하가가 자기와 싸우려고 출전하였다는 말을 들었다. 그는 이 말을 듣고, 히스기야에게 사신들을 보내어, 이렇게 말하였다.(a 히, '구스', '나일' 강 상류지역)",
+    Kor:"그 때에, 앗시리아 왕은 에티오피아 왕 디르하가가 자기와 싸우려고 출전하였다는 말을 들었다. 그는 이 말을 듣고, 히스기야에게 사신들을 보내어, 이렇게 말하였다.",
     Chn:"亚述王听见人论古实王特哈加说：「他出来要与你争战。」亚述王一听见，就打发使者去见希西家，吩咐他们说：",
     Eng:"Now Sennacherib received a report that Tirhakah, the Cushite king of Egypt, was marching out to fight against him. When he heard it, he sent messengers to Hezekiah with this word:",
     Ind:"Dalam pada itu raja mendengar tentang Tirhaka, raja Etiopia, berita yang demikian: \"Ia telah keluar berperang melawan engkau,\" dan ketika mendengar itu, disuruhnyalah utusan-utusan kepada Hizkia dengan pesan:"
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Di manakah raja negeri Hamat dan Arpad raja kota Sefarwaim, raja negeri Hena dan Iwa?\""
   },
   {Bible:"Isaiah", Chapter:37, Verse:14, Page:1,
-    Kor:"○히스기야는 사신들에게서 이 편지를 받아 읽었다. 그런 다음에 주님의 성전으로 올라가서, 주님 앞에 편지를 펴놓은 뒤에,",
+    Kor:"○히스기야는 사신들에게서 이 편지를 받아 읽었다. 그런 다음에, 주의 성전으로 올라가서, 주 앞에 편지를 펴놓은 뒤에,",
     Chn:"希西家从使者手里接过书信来，看完了，就上耶和华的殿，将书信在耶和华面前展开。",
     Eng:"Hezekiah received the letter from the messengers and read it. Then he went up to the temple of the LORD and spread it out before the LORD.",
     Ind:"Hizkia menerima surat itu dari tangan para utusan, lalu membacanya; kemudian pergilah ia ke rumah TUHAN dan membentangkan surat itu di hadapan TUHAN."
   },
   {Bible:"Isaiah", Chapter:37, Verse:15, Page:1,
-    Kor:"주님께 기도하였다.",
+    Kor:"주께 기도하였다.",
     Chn:"希西家向耶和华祷告说：",
     Eng:"And Hezekiah prayed to the LORD:",
     Ind:"Hizkia berdoa di hadapan TUHAN, katanya:"
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"Ya TUHAN, memang raja-raja Asyur telah memusnahkan semua bangsa dan negeri-negeri mereka"
   },
   {Bible:"Isaiah", Chapter:37, Verse:19, Page:1,
-    Kor:"여러 민족이 믿는 신들을 모두 불에 던져 태웠습니다. 그러나, 그들은 참 신들이 아니라, 나무와 돌로 만든 것들이기에, 앗시리아 왕들에게 멸망당할 수밖에 없었습니다마는,",
+    Kor:"여러 민족이 믿는 신들을 모두 불에 던져 태웠습니다. 그러나, 그들은 참 신이 아니라, 나무와 돌로 만든 것이기에, 앗시리아 왕들에게 멸망당할 수밖에 없었습니다마는,",
     Chn:"将列国的神像都扔在火里；因为他本不是神，乃是人手所造的，是木头、石头的，所以灭绝他。",
     Eng:"They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by human hands.",
     Ind:"dan menaruh para allah mereka ke dalam api, sebab mereka bukanlah Allah, hanya buatan tangan manusia, kayu dan batu; sebab itu dapat dibinasakan orang."
   },
   {Bible:"Isaiah", Chapter:37, Verse:20, Page:1,
-    Kor:"주 우리의 하나님, 이제 그의 손에서 우리를 구원하여 주셔서, 세상의 모든 나라가, 오직 주님만이 홀로 b주 하나님이심을 알게 하여 주십시오. (b 사해 사본에는 '하나님이심을', 마소라 본문에는 '주님이심을')",
+    Kor:"주 우리의 하나님, 이제 그의 손에서 우리를 구원하여 주셔서, 세상의 모든 나라가, 오직 주님만이 홀로 주 하나님이심을 알게 하여 주십시오.",
     Chn:"耶和华—我们的　神啊，现在求你救我们脱离亚述王的手，使天下万国都知道惟有你是耶和华。」",
     Eng:"Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth may know that you alone, O LORD, are God.\"",
     Ind:"Maka sekarang, ya TUHAN, Allah kami, selamatkanlah kami dari tangannya, supaya segala kerajaan di bumi mengetahui, bahwa hanya Engkau sendirilah TUHAN.\""
   },
   {Bible:"Isaiah", Chapter:37, Verse:21, Page:1,
-    Kor:"<이사야가 왕에게 전한 말(왕하 19:20-37)> ○아모스의 아들 이사야가 히스기야에게 사람을 보내어, 이렇게 말하였다. \"주 이스라엘의 하나님께서는, 임금님께서 앗시리아 왕 산헤립의 일 때문에 주님께 올린 그 기도를 들으셨다고 말씀하셨습니다.",
+    Kor:"○아모스의 아들 이사야가 히스기야에게 사람을 보내어, 이렇게 말하였다. \"주 이스라엘의 하나님께서는, 임금님께서 앗시리아 왕 산헤립의 일 때문에 주님께 올린 그 기도를 들으셨다고 말씀하셨습니다.",
     Chn:"亚摩斯的儿子以赛亚就打发人去见希西家，说：「耶和华—以色列的　神如此说，你既然求我攻击亚述王西拿基立，",
     Eng:"Then Isaiah son of Amoz sent a message to Hezekiah: \"This is what the LORD, the God of Israel, says: Because you have prayed to me concerning Sennacherib king of Assyria,",
     Ind:"Lalu Yesaya bin Amos menyuruh orang kepada Hizkia mengatakan: \"Beginilah firman TUHAN, Allah Israel: Tentang yang telah kaudoakan kepada-Ku mengenai Sanherib, raja Asyur,"
   },
   {Bible:"Isaiah", Chapter:37, Verse:22, Page:1,
-    Kor:"앗시리아 왕을 두고, 주님께서 다음과 같이 말씀하셨습니다.\"  \"처녀 딸 시온이 너 산헤립을 경멸하고 비웃는다. 딸 예루살렘이 오히려 물러나는 너의 뒷모습을 보며, 머리를 흔든다.",
+    Kor:"앗시리아 왕을 두고, 주께서 다음과 같이 말씀하셨습니다.\" \"처녀 딸 시온이, 너 산헤립을 경멸하고 비웃는다. 딸 예루살렘이 오히려 물러나는 너의 뒷모습을 보며, 머리를 흔든다.",
     Chn:"所以耶和华论他这样说： 锡安的处女藐视你，嗤笑你； 耶路撒冷的女子向你摇头。",
     Eng:"this is the word the LORD has spoken against him: \"The Virgin Daughter of Zion despises and mocks you. The Daughter of Jerusalem tosses her head as you flee.",
     Ind:"inilah firman yang telah diucapkan TUHAN mengenai dia: Anak dara, yaitu puteri Sion, telah menghina engkau, telah mengolok-olokkan engkau; dan puteri Yerusalem telah geleng-geleng kepala di belakangmu."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Dengan perantaraan hamba-hambamu engkau telah mencela Tuhan, dan engkau telah berkata: Dengan banyaknya keretaku aku naik ke tempat-tempat tinggi di pegunungan, ke tempat yang paling jauh di gunung Libanon; aku telah menebang pohon-pohon arasnya yang tinggi besar, pohon-pohon sanobarnya yang terpilih; aku telah masuk ke tempat tinggi yang paling ujung, ke hutan pohon-pohonannya yang lebat."
   },
   {Bible:"Isaiah", Chapter:37, Verse:25, Page:1,
-    Kor:"그리고는 땅을 파서 c다른 나라의 물을 마시며, 발바닥으로 밟기만 하고서도, 이집트의 모든 강물을 말렸다.' (c 사해 사본을 따름(왕하 19:24에서도))",
+    Kor:"그리고는 땅을 파서 다른 나라의 물을 마시며, 발바닥으로 밟기만 하고서도, 이집트의 모든 강물을 말렸다.'",
     Chn:"我已经挖井喝水； 我必用脚掌踏干埃及的一切河。",
     Eng:"I have dug wells in foreign lands and drunk the water there. With the soles of my feet I have dried up all the streams of Egypt.'",
     Ind:"Aku ini telah menggali air dan telah minum air; aku telah mengeringkan dengan telapak kakiku segala sungai di Mesir!"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Oleh karena engkau telah mengamuk terhadap Aku, dan kata-kata keangkuhanmu telah naik sampai ke telinga-Ku, maka Aku akan menaruh kelikir-Ku pada hidungmu dan kekang-Ku pada bibirmu, dan Aku akan memulangkan engkau melalui jalan, dari mana engkau datang."
   },
   {Bible:"Isaiah", Chapter:37, Verse:30, Page:1,
-    Kor:"○\"히스기야 임금님, 주님께서 임금님께 다음과 같은 증거를 보이실 것입니다. 금년에는 백성이, 들에서 저절로 자라난 곡식을 먹고, 내년에도 들에서 저절로 자라난 곡식을 먹을 것입니다. 그러나 그 다음 해에는, 백성이 씨를 뿌리고 곡식을 거둘 것이며, 포도밭을 가꾸어서 그 열매를 먹을 것입니다.",
+    Kor:"○\"히스기야 임금님, 주께서 임금님께 다음과 같은 증거를 보이실 것입니다. 금년에는 백성이, 들에서 저절로 자라난 곡식을 먹고, 내년에도 들에서 저절로 자라난 곡식을 먹을 것입니다. 그러나 그 다음 해에는, 백성이 씨를 뿌리고 곡식을 거둘 것이며, 포도밭을 가꾸어서 그 열매를 먹을 것입니다.",
     Chn:"「以色列人哪，我赐你们一个证据：你们今年要吃自生的，明年也要吃自长的，至于后年，你们要耕种收割，栽植葡萄园，吃其中的果子。",
     Eng:"\"This will be the sign for you, O Hezekiah: \"This year you will eat what grows by itself, and the second year what springs from that. But in the third year sow and reap, plant vineyards and eat their fruit.",
     Ind:"Dan inilah yang akan menjadi tanda bagimu, hai Hizkia: Dalam tahun ini orang makan apa yang tumbuh sendiri, dan dalam tahun yang kedua, apa yang tumbuh dari tanaman yang pertama, tetapi dalam tahun yang ketiga, menaburlah kamu, menuai, membuat kebun anggur dan memakan buahnya."
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Dan orang-orang yang terluput di antara kaum Yehuda, yaitu orang-orang yang masih tertinggal, akan berakar pula ke bawah dan menghasilkan buah ke atas."
   },
   {Bible:"Isaiah", Chapter:37, Verse:32, Page:1,
-    Kor:"'남은 사람들이 예루살렘에서부터 나오고, 환난을 피한 사람들이 시온 산에서 나올 것이다.' 만군의 주님께서 정열을 가지고서 이 일을 이루실 것입니다.",
+    Kor:"'남은 사람들이 예루살렘에서부터 나오고, 환난을 피한 사람들이 시온 산에서 나올 것이다.' 만군의 주께서 정열을 가지고서 이 일을 이루실 것입니다.",
     Chn:"必有余剩的民从耶路撒冷而出；必有逃脱的人从锡安山而来。万军之耶和华的热心必成就这事。",
     Eng:"For out of Jerusalem will come a remnant, and out of Mount Zion a band of survivors. The zeal of the LORD Almighty will accomplish this.",
     Ind:"Sebab dari Yerusalem akan keluar orang-orang yang tertinggal dan dari gunung Sion orang-orang yang terluput; giat cemburu TUHAN semesta alam akan melakukan hal ini."
   },
   {Bible:"Isaiah", Chapter:37, Verse:33, Page:1,
-    Kor:"그러므로 앗시리아 왕을 두고, 주님께서 이렇게 말씀하십니다. \"그는 이 도성에 들어오지 못하며, 이리로 활도 한 번 쏘아 보지 못할 것이다. 방패를 앞세워 접근하지도 못하며, 성을 공격할 토성을 쌓지도 못할 것이다.",
+    Kor:"그러므로 앗시리아 왕을 두고, 주께서 이렇게 말씀하십니다. \"그는 이 도성에 들어오지 못하며, 이리로 활도 한 번 쏘아 보지 못할 것이다. 방패를 앞세워 접근하지도 못하며, 성을 공격할 토성을 쌓지도 못할 것이다.",
     Chn:"「所以耶和华论亚述王如此说：他必不得来到这城，也不在这里射箭，不得拿盾牌到城前，也不筑垒攻城。",
     Eng:"\"Therefore this is what the LORD says concerning the king of Assyria: \"He will not enter this city or shoot an arrow here. He will not come before it with shield or build a siege ramp against it.",
     Ind:"Sebab itu beginilah firman TUHAN mengenai raja Asyur: Ia tidak akan masuk ke kota ini dan tidak akan menembakkan panah ke sana; juga ia tidak akan mendatanginya dengan perisai dan tidak akan menimbun tanah menjadi tembok untuk mengepungnya."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Dan Aku akan memagari kota ini untuk menyelamatkannya, oleh karena Aku dan oleh karena Daud, hamba-Ku.\""
   },
   {Bible:"Isaiah", Chapter:37, Verse:36, Page:1,
-    Kor:"○그런 다음에 주님의 천사가 나아가서, 앗시리아 군의 진영에서 십팔만 오천 명을 쳐죽였다. 다음날 아침이 밝았을 때에, 그들은 모두 죽은 시체로 발견되었다.",
+    Kor:"○그런 다음에, 주의 천사가 나아가서, 앗시리아 군의 진영에서 십팔만 오천 명을 쳐죽였다. 다음날 아침이 밝았을 때에, 그들은 모두 죽은 시체로 발견되었다.",
     Chn:"耶和华的使者出去，在亚述营中杀了十八万五千人。清早有人起来一看，都是死尸了。",
     Eng:"Then the angel of the LORD went out and put to death a hundred and eighty-five thousand men in the Assyrian camp. When the people got up the next morning--there were all the dead bodies!",
     Ind:"Keluarlah Malaikat TUHAN, lalu dibunuh-Nyalah seratus delapan puluh lima ribu orang di dalam perkemahan Asyur. Keesokan harinya pagi-pagi tampaklah, semuanya bangkai orang-orang mati belaka!"
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Sebab itu berangkatlah Sanherib, raja Asyur dan pulang, lalu tinggallah ia di Niniwe."
   },
   {Bible:"Isaiah", Chapter:37, Verse:38, Page:1,
-    Kor:"그러던 어느 날, 그가 자기 신 니스록의 신전에서 예배하고 있을 때에, 그의 두 아들 아드람멜렉과 사레셀이 그를 칼로 쳐죽이고, 아라랏 땅으로 도망하였다. 그 뒤를 이어 그의 아들 에살핫돈이 왕이 되었다.",
+    Kor:"그러던 어느 날, 그가 자기 신 니스록의 신전에서 예배하고 있을 때에, 그의 아들 아드람멜렉과 사레셀이 그를 칼로 쳐죽이고, 아라랏 땅으로 도망하였다. 그 뒤를 이어 그의 아들 에살핫돈이 왕이 되었다.",
     Chn:"一日在他的神—尼斯洛庙里叩拜，他儿子亚得米勒和沙利色用刀杀了他，就逃到亚拉腊地。他儿子以撒哈顿接续他作王。",
     Eng:"One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.",
     Ind:"Pada suatu kali ketika ia sujud menyembah di dalam kuil Nisrokh, allahnya, maka Adramelekh dan Sarezer, anak-anaknya, membunuh dia dengan pedang, dan mereka meloloskan diri ke tanah Ararat. Kemudian Esarhadon, anaknya, menjadi raja menggantikan dia."

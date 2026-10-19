@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",65,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:65, Verse:1, Page:1,
-    Kor:"<하나님께서 반역자를 벌하시다> \"나는 내 백성의 기도에 응답할 준비를 하고 있었지만, 내 백성은 아직도 내게 요청하지 않았다. 누구든지 나를 찾으면, 언제든지 만나려고 준비를 하고 있었지만, 아무도 나를 찾지 않았다. 내 이름을 부르지도 않던 나라에게, 나는 '보아라, 나 여기 있다. 보아라, 나 여기 있다' 하고 말하였다.",
+    Kor:"\"나는 응답할 준비를 하고 있었지만, 아직도 내게 요청하지 않았다. 누구든지 나를 찾으면, 언제든지 만나려고 준비를 하고 있었지만, 아무도 나를 찾지 않았다. 내 이름을 부르지도 않던 나라에게, 나는 '나 여기 있다. 나 여기 있다' 하고 말하였다.",
     Chn:"素来没有访问我的，现在求问我； 没有寻找我的，我叫他们遇见； 没有称为我名下的，我对他们说： 我在这里！我在这里！",
     Eng:"\"I revealed myself to those who did not ask for me; I was found by those who did not seek me. To a nation that did not call on my name, I said, 'Here am I, here am I.'",
     Ind:"Aku telah berkenan memberi petunjuk kepada orang yang tidak menanyakan Aku; Aku telah berkenan ditemukan oleh orang yang tidak mencari Aku. Aku telah berkata: \"Ini Aku, ini Aku!\" kepada bangsa yang tidak memanggil nama-Ku."
   },
   {Bible:"Isaiah", Chapter:65, Verse:2, Page:1,
-    Kor:"제멋대로 가며 악한 길로 가는 반역하는 저 백성을 맞이하려고, 내가 종일 팔을 벌리고 있었다.",
+    Kor:"제멋대로 가며, 악한 길로 가는 반역하는 저 백성을 맞이하려고 내가 종일 팔을 벌리고 있었다.",
     Chn:"我整天伸手招呼那悖逆的百姓； 他们随自己的意念行不善之道。",
     Eng:"All day long I have held out my hands to an obstinate people, who walk in ways not good, pursuing their own imaginations--",
     Ind:"Sepanjang hari Aku telah mengulurkan tangan-Ku kepada suku bangsa yang memberontak, yang menempuh jalan yang tidak baik dan mengikuti rancangannya sendiri;"
@@ -40,13 +40,13 @@ BibleDB.add([
     ChnVerseEnd:7
   },
   {Bible:"Isaiah", Chapter:65, Verse:7, Page:1,
-    Kor:"주님께서 말씀하신다. \"산에서 분향하며 언덕에서 나를 모독한 자들의 죄악과, 그 조상의 죄악을 내가 모두 보응하겠다. 내가 먼저 그 행위를 헤아리고, 그들의 품에 보응하겠다.\"",
+    Kor:"주께서 말씀하신다. \"산에서 분향하며 언덕에서 나를 모독한 자들의 죄악과, 그 조상의 죄악을 내가 모두 보응하겠다. 내가 먼저 그 행위를 헤아리고, 그들의 품에 보응하겠다.\"",
     Chn:"",
     Eng:"both your sins and the sins of your fathers,\" says the LORD. \"Because they burned sacrifices on the mountains and defied me on the hills, I will measure into their laps the full payment for their former deeds.\"",
     Ind:"atas segala kesalahan mereka sendiri, maupun atas kesalahan nenek moyangnya, semuanya serentak, firman TUHAN. Sebab mereka telah membakar korban di atas gunung-gunung dan mengaibkan Aku di atas bukit-bukit. Memang Aku akan menakar ke dalam jubah mereka upah untuk perbuatan-perbuatan mereka yang dahulu!"
   },
   {Bible:"Isaiah", Chapter:65, Verse:8, Page:1,
-    Kor:"주님께서 말씀하신다. \"포도송이에 즙이 들어 있으므로, 사람들이, '그것을 없애지 말아라. 그 속에 복이 들어 있다' 하고 말한다. 나도 이와 같이 나의 종들을 생각하여, 그들을 다 멸하지는 않겠다.",
+    Kor:"주께서 말씀하신다. \"포도송이에 즙이 들어 있으므로, 사람들이 '그것을 없애지 말아라. 그 속에 복이 들어 있다' 하고 말한다. 나도 이와 같이 나의 종들을 생각하여, 그들을 다 멸하지는 않겠다.",
     Chn:"耶和华如此说：葡萄中寻得新酒， 人就说：不要毁坏， 因为福在其中。 我因我仆人的缘故也必照样而行， 不将他们全然毁灭。",
     Eng:"This is what the LORD says: \"As when juice is still found in a cluster of grapes and men say, 'Don't destroy it, there is yet some good in it,' so will I do in behalf of my servants; I will not destroy them all.",
     Ind:"Beginilah firman TUHAN: \"Seperti kata orang jika pada tandan buah anggur masih terdapat airnya: Janganlah musnahkan itu, sebab di dalamnya masih ada berkat! demikianlah Aku akan bertindak oleh karena hamba-hamba-Ku, yakni Aku tidak akan memusnahkan sekaliannya."
@@ -64,7 +64,7 @@ BibleDB.add([
     Ind:"Saron akan menjadi padang rumput bagi kambing domba, dan lembah Akhor menjadi tempat pembaringan bagi lembu sapi, untuk umat-Ku yang mencari Aku."
   },
   {Bible:"Isaiah", Chapter:65, Verse:11, Page:1,
-    Kor:"그러나 나 주를 떠나서, 내 거룩한 산을 잊고, a갓에게 상을 차려 놓으며, b므니에게 섞은 술을 가득히 부어 바치는 자들아! (a 행운의 신 b 운명의 신)",
+    Kor:"그러나 나 주를 떠나서, 내 거룩한 산을 잊고, 갓에게 상을 차려 놓으며, 므니에게 섞은 술을 가득히 부어 바치는 자들아!",
     Chn:"但你们这些离弃耶和华、 忘记我的圣山、给时运摆筵席、 给天命盛满调和酒的，",
     Eng:"\"But as for you who forsake the LORD and forget my holy mountain, who spread a table for Fortune and fill bowls of mixed wine for Destiny,",
     Ind:"Tetapi kamu yang telah meninggalkan TUHAN, yang telah melupakan gunung-Ku yang kudus, yang menyajikan hidangan bagi dewa Gad, dan yang menyuguhkan anggur bercampur rempah bagi dewa Meni:"
@@ -76,37 +76,37 @@ BibleDB.add([
     Ind:"Aku akan menentukan kamu bagi pedang, dan kamu sekalian akan menekuk lutut untuk dibantai! Oleh karena ketika Aku memanggil, kamu tidak menjawab, ketika Aku berbicara, kamu tidak mendengar, tetapi kamu melakukan apa yang jahat di mata-Ku dan lebih menyukai apa yang tidak berkenan kepada-Ku.\""
   },
   {Bible:"Isaiah", Chapter:65, Verse:13, Page:1,
-    Kor:"그러므로 주 하나님께서 말씀하신다. \"보아라, 내 종들은 먹겠지만, 너희는 굶을 것이다. 보아라, 내 종들은 마시겠지만, 너희는 목이 마를 것이다. 보아라, 내 종들은 기뻐하겠지만, 너희는 수치를 당할 것이다.",
+    Kor:"그러므로 주 하나님께서 말씀하신다. \"내 종들은 먹겠지만, 너희는 굶을 것이다. 내 종들은 마시겠지만, 너희는 목이 마를 것이다. 내 종들은 기뻐하겠지만, 너희는 수치를 당할 것이다.",
     Chn:"所以，主耶和华如此说： 我的仆人必得吃，你们却饥饿； 我的仆人必得喝，你们却干渴； 我的仆人必欢喜，你们却蒙羞。",
     Eng:"Therefore this is what the Sovereign LORD says: \"My servants will eat, but you will go hungry; my servants will drink, but you will go thirsty; my servants will rejoice, but you will be put to shame.",
     Ind:"Sebab itu beginilah firman Tuhan ALLAH: \"Sesungguhnya, hamba-hamba-Ku akan makan, tetapi kamu akan menderita kelaparan; sesungguhnya, hamba-hamba-Ku akan minum, tetapi kamu akan menderita kehausan; sesungguhnya, hamba-hamba-Ku akan bersukacita, tetapi kamu akan mendapat malu;"
   },
   {Bible:"Isaiah", Chapter:65, Verse:14, Page:1,
-    Kor:"보아라, 내 종들은 마음이 즐거워 노래를 부르겠지만, 너희는 마음이 아파 울부짖으며, 속이 상하여 통곡할 것이다.",
+    Kor:"내 종들은 마음이 즐거워 노래를 부르겠지만, 너희는 마음이 아파 울부짖으며, 속이 상하여 통곡할 것이다.",
     Chn:"我的仆人因心中高兴欢呼， 你们却因心中忧愁哀哭， 又因心里忧伤哀号。",
     Eng:"My servants will sing out of the joy of their hearts, but you will cry out from anguish of heart and wail in brokenness of spirit.",
     Ind:"sesungguhnya, hamba-hamba-Ku akan bersorak-sorai karena gembira hatinya, tetapi kamu akan mengerang karena sedih hati, dan kamu akan menangis karena patah semangat."
   },
   {Bible:"Isaiah", Chapter:65, Verse:15, Page:1,
-    Kor:"너희의 이름은, 내가 택한 백성이 저주할 거리로 남을 것이다.\" 내 주 하나님께서 너희를 죽게 하실 것이다. 그러나 주님께서 주님의 종들은 다른 이름으로 부르실 것이다.",
+    Kor:"너희의 이름은, 내가 택한 백성이 저주할 거리로 남을 것이다.\" 내 주 하나님께서 너희를 죽게 하실 것이다. 그러나 주께서 주의 종들은 다른 이름으로 부르실 것이다.",
     Chn:"你们必留下自己的名， 为我选民指着赌咒。 主耶和华必杀你们， 另起别名称呼他的仆人。",
     Eng:"You will leave your name to my chosen ones as a curse; the Sovereign LORD will put you to death, but to his servants he will give another name.",
     Ind:"Kamu harus meninggalkan namamu kepada orang-orang pilihan-Ku untuk dipakai sebagai sumpah kutuk ini: Tuhan ALLAH kiranya membuat engkau seperti mereka! Tetapi hamba-hamba-Ku akan disebut dengan nama lain,"
   },
   {Bible:"Isaiah", Chapter:65, Verse:16, Page:1,
-    Kor:"땅에서 복을 비는 사람은 c진리이신 하나님을 두고 빌며, 땅에서 맹세하는 사람도 진리이신 하나님을 두고 맹세할 것이다. \"지난날의 괴로운 일들을, 내가 다시 기억하지 않고, 지나간 과거를, 내가 다시 되돌아보지 않기 때문이다.\" (c 히, '아멘')",
+    Kor:"땅에서 복을 비는 사람은 진리이신 하나님을 두고 빌며, 땅에서 맹세하는 사람도 진리이신 하나님을 두고 맹세할 것이다. \"지난날의 괴로운 일들을, 내가 다시 기억하지 않고, 지나간 과거를, 내가 다시 되돌아보지 않기 때문이다.\"",
     Chn:"这样，在地上为自己求福的， 必凭真实的　神求福； 在地上起誓的， 必指真实的　神起誓。 因为，从前的患难已经忘记， 也从我眼前隐藏了。",
     Eng:"Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.",
     Ind:"sehingga orang yang hendak mendapat berkat di negeri akan memohon berkat demi Allah yang setia, dan orang yang hendak bersumpah di negeri akan bersumpah demi Allah yang setia, sebab kesesakan-kesesakan yang dahulu sudah terlupa, dan sudah tersembunyi dari mata-Ku.\""
   },
   {Bible:"Isaiah", Chapter:65, Verse:17, Page:1,
-    Kor:"<새 창조> \"보아라, 내가 새 하늘과 새 땅을 창조할 것이니, 이전 것들은 기억되거나 마음에 떠오르거나 하지 않을 것이다.",
+    Kor:"\"내가 새 하늘과 새 땅을 창조할 것이니, 이전 것들은 기억되거나 마음에 떠오르거나 하지 않을 것이다.",
     Chn:"看哪！我造新天新地； 从前的事不再被记念，也不再追想。",
     Eng:"\"Behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.",
     Ind:"\"Sebab sesungguhnya, Aku menciptakan langit yang baru dan bumi yang baru; hal-hal yang dahulu tidak akan diingat lagi, dan tidak akan timbul lagi dalam hati."
   },
   {Bible:"Isaiah", Chapter:65, Verse:18, Page:1,
-    Kor:"그러니 너희는 내가 창조하는 것을 길이길이 기뻐하고 즐거워하여라. 보아라, 내가 예루살렘을 기쁨이 가득 찬 도성으로 창조하고, 그 주민을 행복을 누리는 백성으로 창조하겠다.",
+    Kor:"그러니 너희는 내가 창조하는 것을 길이길이 기뻐하고 즐거워하여라. 내가 예루살렘을 기쁨이 가득 찬 도성으로 창조하고, 그 주민을 행복을 누리는 백성으로 창조하겠다.",
     Chn:"你们当因我所造的永远欢喜快乐； 因我造耶路撒冷为人所喜， 造其中的居民为人所乐。",
     Eng:"But be glad and rejoice forever in what I will create, for I will create Jerusalem to be a delight and its people a joy.",
     Ind:"Tetapi bergiranglah dan bersorak-sorak untuk selama-lamanya atas apa yang Kuciptakan, sebab sesungguhnya, Aku menciptakan Yerusalem penuh sorak-sorak dan penduduknya penuh kegirangan."
@@ -136,7 +136,7 @@ BibleDB.add([
     Ind:"Mereka tidak akan mendirikan sesuatu, supaya orang lain mendiaminya, dan mereka tidak akan menanam sesuatu, supaya orang lain memakan buahnya; sebab umur umat-Ku akan sepanjang umur pohon, dan orang-orang pilihan-Ku akan menikmati pekerjaan tangan mereka."
   },
   {Bible:"Isaiah", Chapter:65, Verse:23, Page:1,
-    Kor:"그들은 헛되이 수고하지 않으며, 그들이 낳은 자식은 재난을 당하지 않을 것이다. 그들은 주님께 복 받은 자손이며, 그들의 자손도 그들과 같이 복을 받을 것이다.",
+    Kor:"그들은 헛되이 수고하지 않으며, 그들이 낳은 자식은 재난을 당하지 않을 것이다. 그들은 주께 복받은 자손이며, 그들의 자손도 그들과 같이 복을 받을 것이다.",
     Chn:"他们必不徒然劳碌， 所生产的，也不遭灾害， 因为都是蒙耶和华赐福的后裔； 他们的子孙也是如此。",
     Eng:"They will not toil in vain or bear children doomed to misfortune; for they will be a people blessed by the LORD, they and their descendants with them.",
     Ind:"Mereka tidak akan bersusah-susah dengan percuma dan tidak akan melahirkan anak yang akan mati mendadak, sebab mereka itu keturunan orang-orang yang diberkati TUHAN, dan anak cucu mereka ada beserta mereka."

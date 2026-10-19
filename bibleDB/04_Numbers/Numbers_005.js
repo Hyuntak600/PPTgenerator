@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",5,31);
 BibleDB.add([
   {Bible:"Numbers", Chapter:5, Verse:1, Page:1,
-    Kor:"<부정한 사람의 처리> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:5, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게, a악성 피부병 환자와 고름을 흘리는 사람과 주검에 닿아 부정을 탄 사람은 모두 진에서 내보내야 한다고 지시하여라.(a 전통적으로 나병으로 알려져 왔으나 히브리어로는 여러 가지 악성 피부병을 뜻함)",
+    Kor:"\"너는 이스라엘 자손에게, 악성 피부병 환자와 고름을 흘리는 사람과 주검에 닿아 부정을 탄 사람은 모두 진에서 내보내야 한다고 지시하여라.",
     Chn:"「你吩咐以色列人，使一切长大麻风的，患漏症的，并因死尸不洁净的，都出营外去。",
     Eng:"\"Command the Israelites to send away from the camp anyone who has an infectious skin disease or a discharge of any kind, or who is ceremonially unclean because of a dead body.",
     Ind:"\"Perintahkanlah kepada orang Israel, supaya semua orang yang sakit kusta, semua orang yang mengeluarkan lelehan, dan semua orang yang najis oleh mayat disuruh meninggalkan tempat perkemahan;"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"baik laki-laki maupun perempuan haruslah kausuruh pergi; ke luar tempat perkemahan haruslah mereka kausuruh pergi, supaya mereka jangan menajiskan tempat perkemahan di mana Aku diam di tengah-tengah mereka.\""
   },
   {Bible:"Numbers", Chapter:5, Verse:4, Page:1,
-    Kor:"○이스라엘 자손은, 그 말씀대로 그런 사람을 진 바깥으로 내보냈다. 이스라엘 자손은 주님께서 모세에게 말씀하신 대로 하였다.",
+    Kor:"○이스라엘 자손은, 그 말씀대로 그런 사람을 진 바깥으로 내보냈다. 이스라엘 자손은 주께서 모세에게 말씀하신 대로 하였다.",
     Chn:"以色列人就这样行，使他们出到营外。耶和华怎样吩咐摩西，以色列人就怎样行了。",
     Eng:"The Israelites did this; they sent them outside the camp. They did just as the LORD had instructed Moses.",
     Ind:"Maka orang Israel berbuat demikian, mereka menyuruh orang-orang itu meninggalkan tempat perkemahan; seperti yang difirmankan TUHAN kepada Musa, demikianlah diperbuat orang Israel."
   },
   {Bible:"Numbers", Chapter:5, Verse:5, Page:1,
-    Kor:"<잘못에 대한 보상> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"maka haruslah ia mengakui dosa yang telah dilakukannya itu; kemudian membayar tebusan sepenuhnya dengan menambah seperlima, lalu menyerahkannya kepada orang terhadap siapa ia bersalah."
   },
   {Bible:"Numbers", Chapter:5, Verse:8, Page:1,
-    Kor:"그 피해자에게 대신 보상을 받을 근친이 없으면, 그 배상액은 죄를 속량하려고 바치는 속죄양과 함께 주님께로 돌아가, 제사장의 몫이 된다.",
+    Kor:"그 피해자에게 대신 보상을 받을 근친이 없으면, 그 배상액은 죄를 속량하려고 바치는 속죄양과 함께 주께로 돌아가, 제사장의 몫이 된다.",
     Chn:"那人若没有亲属可受所赔还的，那所赔还的就要归与服事耶和华的祭司；至于那为他赎罪的公羊是在外。",
     Eng:"But if that person has no close relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest, along with the ram with which atonement is made for him.",
     Ind:"Tetapi apabila orang itu tidak ada kaumnya, kepada siapa dapat dibayar tebusan salah itu, maka tebusan salah yang harus dibayar itu menjadi kepunyaan TUHAN, dan adalah bagian imam, belum terhitung domba jantan pendamaian yang dipakai untuk mengadakan pendamaian bagi orang itu."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Sedang persembahan-persembahan kudus yang dibawa oleh seseorang adalah bagian orang itu sendiri; hanya apa yang diserahkannya kepada seorang imam adalah bagian imam itu.\""
   },
   {Bible:"Numbers", Chapter:5, Verse:11, Page:1,
-    Kor:"<아내의 간통을 밝히는 절차> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"Then the LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:5, Verse:12, Page:1,
-    Kor:"\"이스라엘 자손에게 말하여라. 네가 그들에게 전할 말은 이렇다. ○어떤 남편이든지, 아내가 잘못을 저질러 남편을 배반하여,",
+    Kor:"\"이스라엘 자손에게 말하여라. 네가 그들에게 전할 말은 이렇다. 어떤 남편이든지, 아내가 잘못을 저질러 남편을 배반하여,",
     Chn:"「你晓谕以色列人说：人的妻若有邪行，得罪她丈夫，",
     Eng:"\"Speak to the Israelites and say to them: 'If a man's wife goes astray and is unfaithful to him",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila isteri seseorang berbuat serong dan tidak setia terhadap suaminya,"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"tetapi jika engkau, padahal engkau di bawah kuasa suamimu, berbuat serong dan mencemarkan dirimu, oleh karena orang lain dari suamimu sendiri bersetubuh dengan engkau--"
   },
   {Bible:"Numbers", Chapter:5, Verse:21, Page:1,
-    Kor:"(이 때에 제사장은 그 여인에게, 저주를 받아도 좋다는 맹세를 하게 한다.) 주님께서는 네 b허벅지를 마르게 하고 네 배가 부어 오르게 하는 저주를 내려, 네 겨레 가운데서 너를 본보기로 삼으실 것이다.(b 성기를 말함)",
+    Kor:"(이 때에 제사장은 그 여인에게, 저주를 받아도 좋다는 맹세를 하게 한다.) 주께서는 네 허벅지를 마르게 하고 네 배가 부어 오르게 하는 저주를 내려, 네 겨레 가운데서 너를 본보기로 삼으실 것이다.",
     Chn:"（祭司叫妇人发咒起誓，）愿耶和华叫你大腿消瘦，肚腹发胀，使你在你民中被人咒诅，成了誓语；",
     Eng:"here the priest is to put the woman under this curse of the oath--\"may the LORD cause your people to curse and denounce you when he causes your thigh to waste away and your abdomen to swell.",
     Ind:"dalam hal ini haruslah imam menyumpah perempuan itu dengan sumpah kutuk, dan haruslah imam berkata kepada perempuan itu--maka TUHAN kiranya membuat engkau menjadi sumpah kutuk di tengah-tengah bangsamu dengan mengempiskan pahamu dan mengembungkan perutmu,"
   },
   {Bible:"Numbers", Chapter:5, Verse:22, Page:1,
-    Kor:"저주를 불러일으키는 이 물이 네 몸 속으로 들어가서, 네 배를 부어 오르게 하고, 네 허벅지를 마르게 할 것이다.’ 이렇게 제사장이 맹세를 시키면, 그 여인은 '아멘, 아멘!’ 하고 응답하여야 한다.",
+    Kor:"저주를 불러일으키는 이 물이 네 몸 속으로 들어가서, 네 배를 부어 오르게 하고, 네 허벅지를 마르게 할 것이다.' 이렇게 제사장이 맹세를 시키면, 그 여인은 '아멘, 아멘!' 하고 응답하여야 한다.",
     Chn:"并且这致咒诅的水入你的肠中，要叫你的肚腹发胀，大腿消瘦。』妇人要回答说：『阿们，阿们。』",
     Eng:"May this water that brings a curse enter your body so that your abdomen swells and your thigh wastes away.\" \"'Then the woman is to say, \"Amen. So be it.\"",
     Ind:"sebab air yang mendatangkan kutuk ini akan masuk ke dalam tubuhmu untuk mengembungkan perutmu dan mengempiskan pahamu. Dan haruslah perempuan itu berkata: Amin, amin."

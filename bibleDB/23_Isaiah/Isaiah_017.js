@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",17,14);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:17, Verse:1, Page:1,
-    Kor:"<하나님이 시리아와 이스라엘을 치시리라> 이것은 다마스쿠스를 두고 하신 엄한 경고의 말씀이다.  \"다마스쿠스는 성읍 축에도 들지 못하고, 허물어진 무더기가 될 것이다.",
+    Kor:"이것은 다마스쿠스를 두고 하신 엄한 경고의 말씀이다. \"다마스쿠스는 성읍 축에도 들지 못하고, 허물어진 무더기가 될 것이다.",
     Chn:"论大马士革的默示： 看哪，大马士革已被废弃，不再为城， 必变作乱堆。",
     Eng:"An oracle concerning Damascus: \"See, Damascus will no longer be a city but will become a heap of ruins.",
     Ind:"Ucapan ilahi terhadap Damsyik. Sesungguhnya, Damsyik tidak akan tetap sebagai kota, nanti menjadi suatu timbunan reruntuhan;"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"kampung-kampungnya akan ditinggalkan selama-lamanya dan menjadi tempat bagi kawanan-kawanan ternak, yang berbaring dengan tidak diganggu oleh siapapun."
   },
   {Bible:"Isaiah", Chapter:17, Verse:3, Page:1,
-    Kor:"\"에브라임은 무방비 상태가 되고, 다마스쿠스는 주권을 잃을 것이다. 이스라엘 자손에게서 영광이 사라지듯이, 시리아의 남은 백성도 수치를 당할 것이다.\" 만군의 주님께서 하신 말씀이다.",
+    Kor:"\"에브라임은 무방비 상태가 되고, 다마스쿠스는 주권을 잃을 것이다. 이스라엘 자손에게서 영광이 사라지듯이, 시리아의 남은 백성도 수치를 당할 것이다.\" 만군의 주께서 하신 말씀이다.",
     Chn:"以法莲不再有保障； 大马士革不再有国权； 亚兰所剩下的 必像以色列人的荣耀消灭一样。 这是万军之耶和华说的。",
     Eng:"The fortified city will disappear from Ephraim, and royal power from Damascus; the remnant of Aram will be like the glory of the Israelites,\" declares the LORD Almighty.",
     Ind:"Kubu-kubu akan hilang dari Efraim dan kuasa kerajaan akan lenyap dari Damsyik, juga sisa-sisa Aram, semuanya akan lenyap sama seperti kemuliaan orang Israel, demikianlah firman TUHAN semesta alam."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"sekalipun pada hari menanamnya engkau membuatnya tumbuh subur, dan pada pagi mencangkokkannya engkau membuatnya berbunga, namun panen akan segera lenyap pada hari kesakitan dan hari penderitaan yang sangat payah."
   },
   {Bible:"Isaiah", Chapter:17, Verse:12, Page:1,
-    Kor:"<적국이 멸망하다> 가련하다! 저 많은 민족의 요란한 소리가 마치 바다에 파도 치는 소리처럼 요란하고, 많은 백성들이 몰려오는 소리가 마치 거대한 물결이 밀려오는 소리 같구나.",
+    Kor:"가련하다! 저 많은 민족의 요란한 소리가 마치 바다에 파도 치는 소리처럼 요란하고, 많은 백성들이 몰려오는 소리가 마치 거대한 물결이 밀려오는 소리 같구나.",
     Chn:"唉！多民哄嚷，好像海浪匉訇； 列邦奔腾，好像猛水滔滔；",
     Eng:"Oh, the raging of many nations--they rage like the raging sea! Oh, the uproar of the peoples--they roar like the roaring of great waters!",
     Ind:"Wahai! Ributnya banyak bangsa-bangsa, mereka ribut seperti ombak laut menderu! Gaduhnya suku-suku bangsa, mereka gaduh seperti gaduhnya air yang hebat!"
   },
   {Bible:"Isaiah", Chapter:17, Verse:13, Page:1,
-    Kor:"비록 많은 백성이, 거대한 물결이 밀려오는 것 같이 소리를 내어도, 주님께서 그들을 꾸짖으시리니, 그들이 멀리 도망 칠 것이다. 그들은 산에서 바람에 흩어지는 겨와 같고, 폭풍 앞에 흩날리는 티끌과 같을 것이다.",
+    Kor:"비록 많은 백성이, 거대한 물결이 밀려오는 것 같이 소리를 내어도, 주께서 그들을 꾸짖으시리니, 그들이 멀리 도망 칠 것이다. 그들은, 산에서 바람에 흩어지는 겨와 같고, 폭풍 앞에 흩날리는 티끌과 같을 것이다.",
     Chn:"列邦奔腾，好像多水滔滔； 但　神斥责他们，他们就远远逃避， 又被追赶，如同山上的风前糠， 又如暴风前的旋风土。",
     Eng:"Although the peoples roar like the roar of surging waters, when he rebukes them they flee far away, driven before the wind like chaff on the hills, like tumbleweed before a gale.",
     Ind:"Suku-suku bangsa gaduh seperti gaduhnya air yang besar; tetapi TUHAN menghardiknya, sehingga mereka lari jauh-jauh, terburu-buru seperti sekam di tempat penumbukan dihembus angin, dan seperti dedak ditiup puting beliung."
   },
   {Bible:"Isaiah", Chapter:17, Verse:14, Page:1,
-    Kor:"그들이 저녁때에 두려운 일을 당하고, 아침이 오기 전에 사라질 것이니, 이것이 바로 우리를 노략한 자가 받을 몫이고, 우리를 약탈한 자가 받을 마땅한 값이다.",
+    Kor:"그들이, 저녁때에 두려운 일을 당하고, 아침이 오기 전에 사라질 것이니, 이것이 바로 우리를 노략한 자가 받을 몫이고, 우리를 약탈한 자가 받을 마땅한 값이다.",
     Chn:"到晚上有惊吓，未到早晨他们就没有了。这是掳掠我们之人所得的分，是抢夺我们之人的报应。",
     Eng:"In the evening, sudden terror! Before the morning, they are gone! This is the portion of those who loot us, the lot of those who plunder us.",
     Ind:"Menjelang waktu senja, sesungguhnya ada kedahsyatan! Sebelum hari pagi, mereka sudah tidak ada lagi! Itulah bagian orang-orang yang merampoki kita, dan itulah yang ditentukan bagi orang-orang yang merampasi kita."

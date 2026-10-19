@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",8,18);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:8, Verse:1, Page:1,
-    Kor:"<예루살렘의 우상숭배> 제 육년 여섯째 달 오일에 나는 집에 앉아 있고, 유다 장로들은 내 앞에 앉아 있을 때에, 주 하나님의 능력이 거기에서 나를 사로잡으셨다.",
+    Kor:"제 육년 여섯째 달 오일에 나는 집에 앉아 있고, 유다 장로들은 내 앞에 앉아 있을 때에, 주 하나님의 능력이 거기에서 나를 사로잡으셨다.",
     Chn:"第六年六月初五日，我坐在家中；犹大的众长老坐在我面前。在那里主耶和华的灵降在我身上。",
     Eng:"In the sixth year, in the sixth month on the fifth day, while I was sitting in my house and the elders of Judah were sitting before me, the hand of the Sovereign LORD came upon me there.",
     Ind:"Pada tahun keenam, dalam bulan yang keenam, pada tanggal lima bulan itu, waktu aku duduk di rumahku berhadap-hadapan dengan para tua-tua Yehuda, kekuasaan Tuhan ALLAH meliputi aku di sana,"
   },
   {Bible:"Ezekiel", Chapter:8, Verse:2, Page:1,
-    Kor:"내가 바라보니, a사람의 형상이 보였는데, 허리 밑으로는 모양이 불처럼 보이고, 허리 위로는 환하게 빛나는 금붙이의 광채처럼 보였다.(a 칠십인역을 따름. 히, '불 같은 형상이')",
+    Kor:"내가 바라보니, 사람의 형상이 보였는데, 허리 밑으로는 모양이 불처럼 보이고, 허리 위로는 환하게 빛나는 금붙이의 광채처럼 보였다.",
     Chn:"我观看，见有形象仿佛火的形状，从他腰以下的形状有火，从他腰以上有光辉的形状，仿佛光耀的精金。",
     Eng:"I looked, and I saw a figure like that of a man. From what appeared to be his waist down he was like fire, and from there up his appearance was as bright as glowing metal.",
     Ind:"dan aku menerima penglihatan: Sungguh, ada kelihatan yang menyerupai seorang laki-laki, dari yang menyerupai pinggangnya sampai ke bawah kelihatan seperti api dan dari pinggangnya ke atas kelihatan seperti cahaya, seperti suasa mengkilat."
   },
   {Bible:"Ezekiel", Chapter:8, Verse:3, Page:1,
-    Kor:"그 때에 그 형상이 손처럼 생긴 것을 뻗쳐서, 내 머리채를 잡았다. 하나님이 보이신 환상 속에서, 주님의 영이 나를 들어서 하늘과 땅 사이로 올리셔서, 나를 예루살렘으로 데려다가, 안뜰로 들어가는 북쪽 문 어귀에 내려 놓으셨다. 그 곳은 질투를 자극시키는 질투의 우상이 자리잡고 있는 곳이다.",
+    Kor:"그 때에 그 형상이 손처럼 생긴 것을 뻗쳐서, 내 머리채를 잡았다. 하나님이 보이신 환상 속에서, 주의 영이 나를 들어서 하늘과 땅 사이로 올리셔서, 나를 예루살렘으로 데려다가, 안뜰로 들어가는 북쪽 문 어귀에 내려 놓으셨다. 그 곳은 질투를 자극시키는 질투의 우상이 자리잡고 있는 곳이다.",
     Chn:"他伸出仿佛一只手的样式，抓住我的一绺头发，灵就将我举到天地中间，在　神的异象中，带我到耶路撒冷朝北的内院门口，在那里有触动主怒偶像的坐位，就是惹动忌邪的。",
     Eng:"He stretched out what looked like a hand and took me by the hair of my head. The Spirit lifted me up between earth and heaven and in visions of God he took me to Jerusalem, to the entrance to the north gate of the inner court, where the idol that provokes to jealousy stood.",
     Ind:"Dia mengulurkan sesuatu yang berbentuk tangan dan dipegang-Nya jambul kepalaku. Lalu Roh itu mengangkat aku ke antara langit dan bumi dan membawa aku dalam penglihatan-penglihatan ilahi ke Yerusalem dekat pintu gerbang pelataran dalam yang menghadap ke utara, di mana terdapat berhala cemburuan, yang menimbulkan cemburu itu."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Lihat, di sana tampak kemuliaan Allah Israel, seperti penglihatan yang kulihat di lembah itu."
   },
   {Bible:"Ezekiel", Chapter:8, Verse:5, Page:1,
-    Kor:"○그 때에 b하나님께서 나에게 말씀하셨다. \"사람아, 너는 어서 눈을 들어 북쪽을 바라보아라.\" 내가 눈을 들어 북쪽을 바라보니, 문의 북쪽에 제단이 있고, 문 어귀에 바로 그 질투의 우상이 있었다.(b 히, '그가')",
+    Kor:"○그 때에 하나님께서 나에게 말씀하셨다. \"사람아, 너는 어서 눈을 들어 북쪽을 바라보아라.\" 내가 눈을 들어 북쪽을 바라보니, 문의 북쪽에 제단이 있고, 문 어귀에 바로 그 질투의 우상이 있었다.",
     Chn:"神对我说：「人子啊，你举目向北观看。」我就举目向北观看，见祭坛门的北边，在门口有这惹忌邪的偶像；",
     Eng:"Then he said to me, \"Son of man, look toward the north.\" So I looked, and in the entrance north of the gate of the altar I saw this idol of jealousy.",
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, lihatlah ke utara!\" Aku melihat ke utara, sungguh, di sebelah utara gerbang mezbah, dekat jalan masuk, terdapat berhala cemburuan tadi."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Dan di hadapannya berdiri tujuh puluh orang tua-tua kaum Israel, dengan Yaazanya bin Safan di tengah-tengah mereka dan masing-masing memegang bokor ukupannya di tangannya, dan keharuman dari asap ukupan itu naik ke atas."
   },
   {Bible:"Ezekiel", Chapter:8, Verse:12, Page:1,
-    Kor:"그가 나에게 말씀하셨다. \"사람아, 너는 이스라엘 족속의 장로들이 각각 자기가 섬기는 우상의 방에서, 그 컴컴한 곳에서 무슨 일을 하고 있는지 보았느냐? 그들은 '주님께서 우리를 돌보고 있지 않으시며, 주님께서 이 나라를 버리셨다'고 말하고 있다.\"",
+    Kor:"그가 나에게 말씀하셨다. \"사람아, 너는 이스라엘 족속의 장로들이 각각 자기가 섬기는 우상의 방에서, 그 컴컴한 곳에서 무슨 일을 하고 있는지 보았느냐? 그들은 '주께서 우리를 보고 있지 않으시며, 주께서 이 나라를 버리셨다'고 말하고 있다.\"",
     Chn:"他对我说：「人子啊，以色列家的长老暗中在各人画像屋里所行的，你看见了吗？他们常说：『耶和华看不见我们；耶和华已经离弃这地。』」",
     Eng:"He said to me, \"Son of man, have you seen what the elders of the house of Israel are doing in the darkness, each at the shrine of his own idol? They say, 'The LORD does not see us; the LORD has forsaken the land.'\"",
     Ind:"Firman-Nya kepadaku: \"Kaulihatkah, hai anak manusia, apa yang dilakukan oleh tua-tua kaum Israel di dalam kegelapan, masing-masing di dalam kamar tempat ukiran-ukiran mereka? Sebab mereka berkata: TUHAN tidak melihat kita; TUHAN sudah meninggalkan tanah ini.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ditambahkan-Nya lagi: \"Engkau masih akan melihat perbuatan-perbuatan kekejian yang lebih besar lagi yang mereka lakukan.\""
   },
   {Bible:"Ezekiel", Chapter:8, Verse:14, Page:1,
-    Kor:"그리고 나서 그는 나를 주님의 성전으로 들어가는 북문 어귀로 데리고 가셨다. 그런데 이것이 웬일인가! 그 곳에는 여인들이 앉아서 담무스 신을 애도하고 있지 않은가!",
+    Kor:"그리고 나서 그는 나를 주의 성전으로 들어가는 북문 어귀로 데리고 가셨다. 그런데 이것이 웬일인가! 그 곳에는 여인들이 앉아서 담무스 신을 애도하고 있지 않은가!",
     Chn:"他领我到耶和华殿外院朝北的门口。谁知，在那里有妇女坐着，为搭模斯哭泣。",
     Eng:"Then he brought me to the entrance to the north gate of the house of the LORD, and I saw women sitting there, mourning for Tammuz.",
     Ind:"Lalu dibawa-Nya aku dekat pintu gerbang rumah TUHAN yang di sebelah utara, sungguh, di sana ada perempuan-perempuan yang menangisi dewa Tamus."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, kaulihatkah apa yang mereka perbuat? Engkau masih akan melihat perbuatan-perbuatan kekejian yang lebih besar lagi dari pada ini.\""
   },
   {Bible:"Ezekiel", Chapter:8, Verse:16, Page:1,
-    Kor:"그가 나를 주님의 성전 안뜰로 데리고 가셨는데, 주님의 성전 어귀에, 바로 그 현관과 제단 사이에 사람이 스물다섯 명이나 있었다. 그들은 주님의 성전을 등지고, 얼굴을 동쪽으로 하고 서서, 동쪽 태양에게 절을 하고 있었다.",
+    Kor:"그가 나를 주의 성전 안뜰로 데리고 가셨는데, 주의 성전 어귀에, 바로 그 현관과 제단 사이에 사람이 스물다섯 명이나 있었다. 그들은 주의 성전을 등지고, 얼굴을 동쪽으로 하고 서서, 동쪽 태양에게 절을 하고 있었다.",
     Chn:"他又领我到耶和华殿的内院。谁知，在耶和华的殿门口、廊子和祭坛中间，约有二十五个人背向耶和华的殿，面向东方拜日头。",
     Eng:"He then brought me into the inner court of the house of the LORD, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs toward the temple of the LORD and their faces toward the east, they were bowing down to the sun in the east.",
     Ind:"Kemudian dibawa-Nya aku ke pelataran dalam rumah TUHAN; sungguh, dekat jalan masuk ke bait TUHAN, di antara balai Bait Suci dan mezbah ada kira-kira dua puluh lima orang laki-laki, yang membelakangi bait TUHAN dan menghadap ke sebelah timur sambil sujud pada matahari di sebelah timur."

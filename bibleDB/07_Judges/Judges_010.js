@@ -3,43 +3,43 @@
 BibleDB.ref("Judges",10,18);
 BibleDB.add([
   {Bible:"Judges", Chapter:10, Verse:1, Page:1,
-    Kor:"<사사 돌라> 아비멜렉 다음에는 잇사갈 지파 사람 도도의 손자이며 부아의 아들인 돌라가 일어나 이스라엘을 구원하였는데, 그는 에브라임의 산간지방에 있는 사밀에 살고 있었다.",
+    Kor:"아비멜렉 다음에는, 잇사갈 지파 사람 도도의 손자이며 부아의 아들인 돌라가 일어나 이스라엘을 구원하였는데, 그는 에브라임의 산간지방에 있는 사밀에 살고 있었다.",
     Chn:"亚比米勒以后，有以萨迦人朵多的孙子、普瓦的儿子陀拉兴起，拯救以色列人。他住在以法莲山地的沙密。",
     Eng:"After the time of Abimelech a man of Issachar, Tola son of Puah, the son of Dodo, rose to save Israel. He lived in Shamir, in the hill country of Ephraim.",
     Ind:"Sesudah Abimelekh, bangkitlah Tola bin Pua bin Dodo, seorang Isakhar, untuk menyelamatkan orang Israel. Ia diam di Samir, di pegunungan Efraim"
   },
   {Bible:"Judges", Chapter:10, Verse:2, Page:1,
-    Kor:"그는 이스라엘의 사사로 이십삼 년 동안 있다가, 죽어서 사밀에 묻혔다.",
+    Kor:"그는 이스라엘의 사사로 이십삼 년 동안 있다가 죽어서, 사밀에 묻혔다.",
     Chn:"陀拉作以色列的士师二十三年，就死了，葬在沙密。",
     Eng:"He led Israel twenty-three years; then he died, and was buried in Shamir.",
     Ind:"dan ia memerintah sebagai hakim atas orang Israel dua puluh tiga tahun lamanya; kemudian matilah ia, lalu dikuburkan di Samir."
   },
   {Bible:"Judges", Chapter:10, Verse:3, Page:1,
-    Kor:"<사사 야일> ○그 뒤에 길르앗 사람 야일이 일어나서, 이십이 년 동안 이스라엘의 사사로 있었다.",
+    Kor:"○그 뒤에 길르앗 사람 야일이 일어나서, 이십이 년 동안 이스라엘의 사사로 있었다.",
     Chn:"在他以后有基列人睚珥兴起，作以色列的士师二十二年。",
     Eng:"He was followed by Jair of Gilead, who led Israel twenty-two years.",
     Ind:"Sesudah dia, bangkitlah Yair, orang Gilead, yang memerintah sebagai hakim atas orang Israel dua puluh dua tahun lamanya."
   },
   {Bible:"Judges", Chapter:10, Verse:4, Page:1,
-    Kor:"그에게는 아들이 서른 명이 있었는데, 그들은 서른 마리의 나귀를 타고 다녔고, 성읍도 길르앗 땅에 서른 개나 가지고 있었다. 그 성읍들은 오늘날까지도 a하봇야일이라 불린다.(a '야일의 촌락들')",
+    Kor:"그에게는 아들이 서른 명이 있었는데, 그들은 서른 마리의 나귀를 타고 다녔고, 성읍도 길르앗 땅에 서른 개나 가지고 있었다. 그 성읍들은 오늘날까지도 하봇야일이라 불린다.",
     Chn:"他有三十个儿子，骑着三十匹驴驹。他们有三十座城邑，叫作哈倭特·睚珥，直到如今，都是在基列地。",
     Eng:"He had thirty sons, who rode thirty donkeys. They controlled thirty towns in Gilead, which to this day are called Havvoth Jair.",
     Ind:"Ia mempunyai tiga puluh anak laki-laki, yang mengendarai tiga puluh ekor keledai jantan, dan mereka mempunyai tiga puluh kota, yang sampai sekarang disebutkan orang Hawot-Yair, di tanah Gilead."
   },
   {Bible:"Judges", Chapter:10, Verse:5, Page:1,
-    Kor:"야일은 죽어서 가몬에 묻혔다.",
+    Kor:"야일은 죽어서, 가몬에 묻혔다.",
     Chn:"睚珥死了，就葬在加们。",
     Eng:"When Jair died, he was buried in Kamon.",
     Ind:"Lalu matilah Yair dan dikuburkan di Kamon."
   },
   {Bible:"Judges", Chapter:10, Verse:6, Page:1,
-    Kor:"<사사 입다> ○이스라엘 자손이 다시 주님께서 보시는 앞에서 악을 저질렀다. 그들은 바알 신들과 아스다롯과 시리아의 신들과 시돈의 신들과 모압의 신들과 암몬 사람의 신들과 블레셋 사람의 신들을 섬기고, 주님을 저버려, 더 이상 주님을 섬기지 않았다.",
+    Kor:"○이스라엘 자손이 다시 주께서 보시는 앞에서 악을 저질렀다. 그들은 바알 신들과 아스다롯과 시리아의 신들과, 시돈의 신들과 모압의 신들과, 암몬 사람의 신들과 블레셋 사람의 신들을 섬기고, 주를 저버려, 더 이상 주를 섬기지 않았다.",
     Chn:"以色列人又行耶和华眼中看为恶的事，去事奉诸巴力和亚斯她录，并亚兰的神、西顿的神、摩押的神、亚扪人的神、非利士人的神，离弃耶和华，不事奉他。",
     Eng:"Again the Israelites did evil in the eyes of the LORD. They served the Baals and the Ashtoreths, and the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites and the gods of the Philistines. And because the Israelites forsook the LORD and no longer served him,",
     Ind:"Orang Israel itu melakukan pula apa yang jahat di mata TUHAN; mereka beribadah kepada para Baal dan para Asytoret, kepada para allah orang Aram, para allah orang Sidon, para allah orang Moab, para allah bani Amon dan para allah orang Filistin, tetapi TUHAN ditinggalkan mereka dan kepada Dia mereka tidak beribadah."
   },
   {Bible:"Judges", Chapter:10, Verse:7, Page:1,
-    Kor:"그러므로 주님께서 이스라엘 백성에게 진노하시어, 그들을 블레셋 사람과 암몬 사람의 손에 내어주시니,",
+    Kor:"그러므로 주께서 이스라엘 백성에게 진노하시어, 그들을 블레셋 사람과 암몬 사람의 손에 내어주시니,",
     Chn:"耶和华的怒气向以色列人发作，就把他们交在非利士人和亚扪人的手中。",
     Eng:"he became angry with them. He sold them into the hands of the Philistines and the Ammonites,",
     Ind:"Lalu bangkitlah murka TUHAN terhadap orang Israel, dan Ia menyerahkan mereka ke dalam tangan orang Filistin dan bani Amon."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Dan bani Amonpun menyeberangi sungai Yordan untuk berperang melawan suku Yehuda, suku Benyamin dan keturunan Efraim, sehingga orang Israel sangat terdesak."
   },
   {Bible:"Judges", Chapter:10, Verse:10, Page:1,
-    Kor:"○그 때에야 비로소 이스라엘 자손이 주님께 부르짖었다. \"우리가 우리 하나님을 저버리고 바알을 섬기어, 주님께 죄를 지었습니다.\"",
+    Kor:"○그 때에야 비로소, 이스라엘 자손이 주께 부르짖었다. \"우리가 우리 하나님을 저버리고 바알을 섬기어, 주께 죄를 지었습니다.\"",
     Chn:"以色列人哀求耶和华说：「我们得罪了你；因为离弃了我们　神，去事奉诸巴力。」",
     Eng:"Then the Israelites cried out to the LORD, \"We have sinned against you, forsaking our God and serving the Baals.\"",
     Ind:"Lalu berserulah orang Israel kepada TUHAN, katanya: \"Kami telah berbuat dosa terhadap Engkau, sebab kami telah meninggalkan Allah kami lalu beribadah kepada para Baal.\""
   },
   {Bible:"Judges", Chapter:10, Verse:11, Page:1,
-    Kor:"주님께서 이스라엘 자손에게 말씀하셨다. \"내가 너희를 이집트 사람과 아모리 사람과 암몬 사람과 블레셋 사람에게서 구원하지 아니하였느냐?",
+    Kor:"주께서 이스라엘 자손에게 말씀하셨다. \"내가 너희를 이집트 사람과 아모리 사람과 암몬 사람과 블레셋 사람에게서 구원하지 아니하였느냐?",
     Chn:"耶和华对以色列人说：「我岂没有救过你们脱离埃及人、亚摩利人、亚扪人，和非利士人吗？",
     Eng:"The LORD replied, \"When the Egyptians, the Amorites, the Ammonites, the Philistines,",
     Ind:"Tetapi firman TUHAN kepada orang Israel: \"Bukankah Aku yang telah menyelamatkan kamu dari tangan orang Mesir, orang Amori, bani Amon, orang Filistin,"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Pergi sajalah berseru kepada para allah yang telah kamu pilih itu; biar merekalah yang menyelamatkan kamu, pada waktu kamu terdesak.\""
   },
   {Bible:"Judges", Chapter:10, Verse:15, Page:1,
-    Kor:"그러자 이스라엘 자손이 주님께 말씀드렸다. \"우리가 죄를 지었습니다. 주님의 뜻대로 다 하십시오. 그러나 오늘만은 우리를 구출하여 주십시오.\"",
+    Kor:"그러자 이스라엘 자손이 주께 말씀드렸다. \"우리가 죄를 지었습니다. 주님의 뜻대로 다 하십시오. 그러나 오늘만은 우리를 구출하여 주십시오.\"",
     Chn:"以色列人对耶和华说：「我们犯罪了，任凭你随意待我们吧！只求你今日拯救我们。」",
     Eng:"But the Israelites said to the LORD, \"We have sinned. Do with us whatever you think best, but please rescue us now.\"",
     Ind:"Kata orang Israel kepada TUHAN: \"Kami telah berbuat dosa. Lakukanlah kepada kami segala yang baik di mata-Mu. Hanya tolonglah kiranya kami sekarang ini!\""
   },
   {Bible:"Judges", Chapter:10, Verse:16, Page:1,
-    Kor:"그리고 그들이 자기들 가운데 있는 이방 신들을 제거하고 주님을 섬기니, 주님께서 이스라엘이 겪는 고통을 보고만 계실 수 없으셨다.",
+    Kor:"그리고 그들이 자기들 가운데 있는 이방 신들을 제거하고 주를 섬기니, 주께서 이스라엘이 겪는 고통을 보고만 계실 수 없으셨다.",
     Chn:"以色列人就除掉他们中间的外邦神，事奉耶和华。耶和华因以色列人受的苦难，就心中担忧。",
     Eng:"Then they got rid of the foreign gods among them and served the LORD. And he could bear Israel's misery no longer.",
     Ind:"Dan mereka menjauhkan para allah asing dari tengah-tengah mereka, lalu mereka beribadah kepada TUHAN. Maka TUHAN tidak dapat lagi menahan hati-Nya melihat kesukaran mereka."

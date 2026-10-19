@@ -3,7 +3,7 @@
 BibleDB.ref("Hosea",3,5);
 BibleDB.add([
   {Bible:"Hosea", Chapter:3, Verse:1, Page:1,
-    Kor:"<호세아와 성실하지 않은 여인> 주님께서 나에게 또 말씀하셨다. \"너는 다시 가서, 다른 남자의 사랑을 받고 음녀가 된 그 여인을 사랑하여라. 이스라엘 자손이 다른 신들에게로 돌아가서 건포도를 넣은 빵을 좋아하더라도, 나 주가 그들을 사랑하는 것처럼 너도 그 여인을 사랑하여라!\"",
+    Kor:"주께서 나에게 또 말씀하셨다. \"너는 다시 가서, 다른 남자의 사랑을 받고 음녀가 된 그 여인을 사랑하여라. 이스라엘 자손이 다른 신들에게로 돌아가서 건포도를 넣은 빵을 좋아하더라도, 나 주가 그들을 사랑하는 것처럼 너도 그 여인을 사랑하여라!\"",
     Chn:"耶和华对我说：「你再去爱一个淫妇，就是她情人所爱的；好像以色列人，虽然偏向别神，喜爱葡萄饼，耶和华还是爱他们。」",
     Eng:"The LORD said to me, \"Go, show your love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love the sacred raisin cakes.\"",
     Ind:"Berfirmanlah TUHAN kepadaku: \"Pergilah lagi, cintailah perempuan yang suka bersundal dan berzinah, seperti TUHAN juga mencintai orang Israel, sekalipun mereka berpaling kepada allah-allah lain dan menyukai kue kismis.\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Sebab lama orang Israel akan diam dengan tidak ada raja, tiada pemimpin, tiada korban, tiada tugu berhala dan tiada efod dan terafim."
   },
   {Bible:"Hosea", Chapter:3, Verse:5, Page:1,
-    Kor:"그런 다음에야 이스라엘 자손이 돌이켜서, 주 그들의 하나님을 찾으며, 그들의 왕 다윗을 찾을 것이다. 마지막 날에는 이스라엘 자손이 떨면서 주님 앞에 나아가, 주님께서 주시는 선물을 받을 것이다.",
+    Kor:"그런 다음에야 이스라엘 자손이 돌이켜서, 주 저희의 하나님을 찾으며, 저희의 왕 다윗을 찾을 것이다. 마지막 날에는 이스라엘 자손이 떨면서 주 앞에 나아가, 주께서 주시는 선물을 받을 것이다.",
     Chn:"后来以色列人必归回，寻求他们的　神—耶和华和他们的王大卫。在末后的日子，必以敬畏的心归向耶和华，领受他的恩惠。",
     Eng:"Afterward the Israelites will return and seek the LORD their God and David their king. They will come trembling to the LORD and to his blessings in the last days.",
     Ind:"Sesudah itu orang Israel akan berbalik dan akan mencari TUHAN, Allah mereka, dan Daud, raja mereka. Mereka akan datang dengan gementar kepada TUHAN dan kepada kebaikan-Nya pada hari-hari yang terakhir."

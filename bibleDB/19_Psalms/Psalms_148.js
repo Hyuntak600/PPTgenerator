@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",148,14);
 BibleDB.add([
   {Bible:"Psalms", Chapter:148, Verse:1, Page:1,
-    Kor:"<와서 주님을 찬양하여라> a할렐루야. 하늘에서 주님을 찬양하여라. 높은 곳에서 주님을 찬양하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 하늘에서 주님을 찬양하여라. 높은 곳에서 주님을 찬양하여라.",
     Chn:"你们要赞美耶和华！ 从天上赞美耶和华， 在高处赞美他！",
     Eng:"Praise the LORD. Praise the LORD from the heavens, praise him in the heights above.",
     Ind:"Haleluya! Pujilah TUHAN di sorga, pujilah Dia di tempat tinggi!"
   },
   {Bible:"Psalms", Chapter:148, Verse:2, Page:1,
-    Kor:"주님의 모든 천사들아, 주님을 찬양하여라. 주님의 모든 군대야, 주님을 찬양하여라.",
+    Kor:"주의 모든 천사들아, 주님을 찬양하여라. 주의 모든 군대야, 주님을 찬양하여라.",
     Chn:"他的众使者都要赞美他！ 他的诸军都要赞美他！",
     Eng:"Praise him, all his angels, praise him, all his heavenly hosts.",
     Ind:"Pujilah Dia, hai segala malaikat-Nya, pujilah Dia, hai segala tentara-Nya!"
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"Pujilah Dia, hai langit yang mengatasi segala langit, hai air yang di atas langit!"
   },
   {Bible:"Psalms", Chapter:148, Verse:5, Page:1,
-    Kor:"너희가 주님의 명을 따라서 창조되었으니, 너희는 그 이름을 찬양하여라.",
+    Kor:"너희가 주의 명을 따라서 창조되었으니, 너희는 그 이름을 찬양하여라.",
     Chn:"愿这些都赞美耶和华的名！ 因他一吩咐便都造成。",
     Eng:"Let them praise the name of the LORD, for he commanded and they were created.",
     Ind:"Baiklah semuanya memuji nama TUHAN, sebab Dia memberi perintah, maka semuanya tercipta."
   },
   {Bible:"Psalms", Chapter:148, Verse:6, Page:1,
-    Kor:"너희가 앉을 영원한 자리를 정하여 주시고, 지켜야 할 법칙을 주셨다.",
+    Kor:"너희가 영원히 있을 자리를 정하여 주시고, 지켜야 할 법칙을 주셨다.",
     Chn:"他将这些立定，直到永永远远； 他定了命，不能废去。",
     Eng:"He set them in place for ever and ever; he gave a decree that will never pass away.",
     Ind:"Dia mendirikan semuanya untuk seterusnya dan selamanya, dan memberi ketetapan yang tidak dapat dilanggar."
   },
   {Bible:"Psalms", Chapter:148, Verse:7, Page:1,
-    Kor:"온 땅아, 주님을 찬양하여라. 바다의 괴물들과 바다의 심연아,",
+    Kor:"땅에서도 주님을 찬양하여라. 바다의 괴물들과 바다의 심연아,",
     Chn:"所有在地上的， 大鱼和一切深洋，",
     Eng:"Praise the LORD from the earth, you great sea creatures and all ocean depths,",
     Ind:"Pujilah TUHAN di bumi, hai ular-ular naga dan segenap samudera raya;"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"hai teruna dan anak-anak dara, orang tua dan orang muda!"
   },
   {Bible:"Psalms", Chapter:148, Verse:13, Page:1,
-    Kor:"모두 주님의 이름을 찬양하여라. 그 이름만이 홀로 높고 높다. 그 위엄이 땅과 하늘에 가득하다.",
+    Kor:"모두 주의 이름을 찬양하여라. 그 이름만이 홀로 높고 높다. 그 위엄이 땅과 하늘에 가득하다.",
     Chn:"愿这些都赞美耶和华的名！ 因为独有他的名被尊崇； 他的荣耀在天地之上。",
     Eng:"Let them praise the name of the LORD, for his name alone is exalted; his splendor is above the earth and the heavens.",
     Ind:"Biarlah semuanya memuji-muji TUHAN, sebab hanya nama-Nya saja yang tinggi luhur, keagungan-Nya mengatasi bumi dan langit."
   },
   {Bible:"Psalms", Chapter:148, Verse:14, Page:1,
-    Kor:"주님이 b그의 백성을 강하게 하셨으니, 찬양은 주님의 모든 성도들과, 주님을 가까이 모시는 백성들과, 이스라엘 백성이, 마땅히 드려야 할 일이다. a할렐루야. (b 또는 '그의 백성을 위하여 뿔을 높이셨으니' a 또는 '주님을 찬송하여라')",
+    Kor:"주님이 그의 백성을 강하게 하셨으니, 찬양은 주의 모든 성도들과, 주님을 가까이 모시는 백성들과, 이스라엘 백성이, 마땅히 드려야 할 일이다. 할렐루야.",
     Chn:"他将他百姓的角高举， 因此他一切圣民以色列人， 就是与他相近的百姓，都赞美他！ 你们要赞美耶和华！",
     Eng:"He has raised up for his people a horn, the praise of all his saints, of Israel, the people close to his heart. Praise the LORD.",
     Ind:"Ia telah meninggikan tanduk umat-Nya, menjadi puji-pujian bagi semua orang yang dikasihi-Nya, bagi orang Israel, umat yang dekat pada-Nya. Haleluya!"

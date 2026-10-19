@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",8,17);
 BibleDB.add([
   {Bible:"Esther", Chapter:8, Verse:1, Page:1,
-    Kor:"<유다 사람에게 살 길이 열리다> 아하수에로 왕은 그 날로 유다 사람의 원수 하만의 재산을 에스더 왕후에게 주었다. 에스더가 모르드개와의 관계를 밝혔으므로, 모르드개는 왕 앞에 나아갈 수 있었다.",
+    Kor:"아하수에로 왕은 그 날로 유다 사람의 원수 하만의 재산을 에스더 왕후에게 주었다. 에스더가 모르드개와의 관계를 밝혔으므로, 모르드개는 왕 앞에 나아갈 수 있었다.",
     Chn:"当日，亚哈随鲁王把犹大人仇敌哈曼的家产赐给王后以斯帖。末底改也来到王面前，因为以斯帖已经告诉王，末底改是她的亲属。",
     Eng:"That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai came into the presence of the king, for Esther had told how he was related to her.",
     Ind:"Pada hari itu juga raja Ahasyweros mengaruniakan harta milik Haman, seteru orang Yahudi, kepada Ester, sang ratu, dan Mordekhai masuk menghadap raja, karena Ester telah memberitahukan apa pertalian Mordekhai dengan dia."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Kemudian Ester berkata lagi kepada raja sambil sujud pada kakinya dan menangis memohon karunianya, supaya dibatalkannya maksud jahat Haman, orang Agag itu, serta rancangan yang sudah dibuatnya terhadap orang Yahudi."
   },
   {Bible:"Esther", Chapter:8, Verse:4, Page:1,
-    Kor:"왕이 금 규를 에스더에게 내밀자, 에스더가 일어나 왕 앞에 서서 말하였다.",
+    Kor:"왕이 금 홀을 에스더에게 내밀자, 에스더가 일어나 왕 앞에 서서 말하였다.",
     Chn:"王向以斯帖伸出金杖；以斯帖就起来，站在王前，",
     Eng:"Then the king extended the gold scepter to Esther and she arose and stood before him.",
     Ind:"Maka raja mengulurkan tongkat emas kepada Ester, lalu bangkitlah Ester dan berdiri di hadapan raja,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tuliskanlah atas nama raja apa yang kamu pandang baik tentang orang Yahudi dan meteraikanlah surat itu dengan cincin meterai raja, karena surat yang dituliskan atas nama raja dan dimeteraikan dengan cincin meterai raja tidak dapat ditarik kembali.\""
   },
   {Bible:"Esther", Chapter:8, Verse:9, Page:1,
-    Kor:"○곧바로 왕의 서기관들이 소집되었다. 때는 셋째 달인 시완월 이십삼일이었다. 서기관들은 모르드개가 불러 주는 대로 조서를 만들어서, 인도에서부터 a에티오피아에 이르기까지, 백스물일곱 지방에 있는 유다 사람들과 대신들과 총독들과 각 지방 귀족들에게 보냈다. 조서는 각 지방의 글과 각 민족의 말로 썼으며, 유다 사람들의 글과 말로도 조서를 만들어서 보냈다.(a 17 8:또는 '누비아'. 히, '구스' 곧 나일 강 상류지역)",
+    Kor:"○곧바로 왕의 서기관들이 소집되었다. 때는 셋째 달인 시완월 이십삼일이었다. 서기관들은 모르드개가 불러 주는 대로 조서를 만들어서, 인도에서부터 에티오피아에 이르기까지, 백스물일곱 지방에 있는 유다 사람들과 대신들과 총독들과 각 지방 귀족들에게 보냈다. 조서는 각 지방의 글과 각 민족의 말로 썼으며, 유다 사람들의 글과 말로도 조서를 만들어서 보냈다.",
     Chn:"三月，就是西弯月二十三日，将王的书记召来，按着末底改所吩咐的，用各省的文字、各族的方言，并犹大人的文字方言写谕旨，传给那从印度直到古实一百二十七省的犹大人和总督省长首领。",
     Eng:"At once the royal secretaries were summoned--on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai's orders to the Jews, and to the satraps, governors and nobles of the 127 provinces stretching from India to Cush. These orders were written in the script of each province and the language of each people and also to the Jews in their own script and language.",
     Ind:"Pada waktu itu juga dipanggillah para panitera raja, dalam bulan yang ketiga--yakni bulan Siwan--pada tanggal dua puluh tiga, dan sesuai dengan segala yang diperintahkan Mordekhai ditulislah surat kepada orang Yahudi, dan kepada para wakil pemerintah, para bupati dan para pembesar daerah, dari India sampai ke Etiopia, seratus dua puluh tujuh daerah, kepada tiap-tiap daerah menurut tulisannya dan kepada tiap-tiap bangsa menurut bahasanya, dan juga kepada orang Yahudi menurut tulisan dan bahasanya."

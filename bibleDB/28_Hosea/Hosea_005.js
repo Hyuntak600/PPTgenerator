@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Dengarlah ini, hai para imam, perhatikanlah, hai kaum Israel, dan pasanglah telinga, hai keluarga raja! Sebab mengenai kamulah penghukuman itu, karena kamu telah menjadi perangkap bagi Mizpa, dan jaring yang dikembangkan di atas gunung Tabor,"
   },
   {Bible:"Hosea", Chapter:5, Verse:2, Page:1,
-    Kor:"a반역자들이 살상에 깊이 빠져들었다. 그러므로 내가 너희를 모두 징벌하겠다. (a 또는 '너희는 싯딤 땅에 깊이 파놓은 함정이다')",
+    Kor:"반역자들이 살상에 깊이 빠져들었다. 그러므로 내가 너희를 모두 징벌하겠다.",
     Chn:"这些悖逆的人肆行杀戮， 罪孽极深； 我却斥责他们众人。",
     Eng:"The rebels are deep in slaughter. I will discipline all of them.",
     Ind:"dan lobang yang dikeruk di lembah Sitim, maka Aku ini akan menghajar mereka sekalian."
@@ -21,31 +21,31 @@ BibleDB.add([
     Ind:"Aku ini mengenal Efraim, dan Israel tidaklah tersembunyi bagi-Ku, sebab engkau telah berzinah, hai Efraim; dan Israel telah menajiskan diri."
   },
   {Bible:"Hosea", Chapter:5, Verse:4, Page:1,
-    Kor:"<호세아가 우상숭배를 경고하다> 그들의 온갖 행실이 그러하니, 하나님께로 되돌아가지 못한다. 음란한 생각이 그들 속에 가득 차서, 주님을 알지 못한다.",
+    Kor:"그들의 온갖 행실이 그러하니, 하나님께로 되돌아가지 못한다. 음란한 생각이 그들 속에 가득 차서, 주를 알지 못한다.",
     Chn:"他们所行的使他们不能归向　神； 因有淫心在他们里面， 他们也不认识耶和华。",
     Eng:"\"Their deeds do not permit them to return to their God. A spirit of prostitution is in their heart; they do not acknowledge the LORD.",
     Ind:"Perbuatan-perbuatan mereka tidak mengizinkan mereka berbalik kepada Allah mereka, sebab roh perzinahan ada di antara mereka, dan mereka tidak mengenal TUHAN."
   },
   {Bible:"Hosea", Chapter:5, Verse:5, Page:1,
-    Kor:"이스라엘의 교만이 이스라엘에게 불리하게 증언한다. b이스라엘 곧 에브라임은 저의 죄에 걸려서 넘어질 것이다. 유다도 그들과 함께 넘어질 것이다. (b 히, '이스라엘과 에브라임' 또는 '이스라엘, 심지어 에브라임도')",
+    Kor:"이스라엘의 교만이 이스라엘에게 불리하게 증언한다. 이스라엘 곧 에브라임은 저의 죄에 걸려서 넘어질 것이다. 유다도 그들과 함께 넘어질 것이다.",
     Chn:"以色列的骄傲当面见证自己。 故此，以色列和以法莲必因自己的罪孽跌倒； 犹大也必与他们一同跌倒。",
     Eng:"Israel's arrogance testifies against them; the Israelites, even Ephraim, stumble in their sin; Judah also stumbles with them.",
     Ind:"Kecongkakan Israel menjadi saksi terhadap dirinya sendiri; Efraim akan tergelincir jatuh oleh kesalahannya sendiri, dan bersama-sama mereka juga Yehuda."
   },
   {Bible:"Hosea", Chapter:5, Verse:6, Page:1,
-    Kor:"양 떼와 소 떼를 몰고 주님을 찾아 나선다고 하여도, 주님께서 이미 그들에게서 떠나셨으니, 그들이 주님을 만나지 못할 것이다.",
+    Kor:"양 떼와 소 떼를 몰고 주를 찾아 나선다고 하여도, 주께서 이미 그들에게서 떠나셨으니, 그들이 주를 만나지 못할 것이다.",
     Chn:"他们必牵着牛羊去寻求耶和华，却寻不见； 他已经转去离开他们。",
     Eng:"When they go with their flocks and herds to seek the LORD, they will not find him; he has withdrawn himself from them.",
     Ind:"Dengan korban kambing domba dan lembu sapinya mereka akan pergi untuk mencari TUHAN, tetapi tidak akan menjumpai Dia; Ia telah menarik diri dari mereka."
   },
   {Bible:"Hosea", Chapter:5, Verse:7, Page:1,
-    Kor:"그들이 주님께 정조를 지키지 않고 사생아를 낳았으니, 그들이 지키는 c새달 절기가 밭과 함께 그들을 삼킬 것이다. (c 또는 '초하루 축제')",
+    Kor:"그들이 주께 정조를 지키지 않고 사생아를 낳았으니, 그들이 지키는 새달 절기가 밭과 함께 그들을 삼킬 것이다.",
     Chn:"他们向耶和华行事诡诈，生了私子。 到了月朔，他们与他们的地业必被吞灭。",
     Eng:"They are unfaithful to the LORD; they give birth to illegitimate children. Now their New Moon festivals will devour them and their fields.",
     Ind:"Mereka telah berkhianat terhadap TUHAN, sebab mereka telah memperanakkan anak-anak yang tidak sah; sekarang pembinasa akan memakan habis mereka dan ladang mereka."
   },
   {Bible:"Hosea", Chapter:5, Verse:8, Page:1,
-    Kor:"<유다와 이스라엘 사이의 전쟁> \"기브아에서 전쟁을 알리는 나팔을 불어라! 라마에서도 비상 나팔을 불어라! 벳아웬에서도 전쟁이 터졌다고 경보를 알려라! 베냐민아, 적군이 네 뒤를 쫓는다.",
+    Kor:"\"기브아에서 전쟁을 알리는 나팔을 불어라! 라마에서도 비상 나팔을 불어라! 벳아웬에서도 전쟁이 터졌다고 경보를 알려라! 베냐민아, 적군이 네 뒤를 쫓는다.",
     Chn:"你们当在基比亚吹角， 在拉玛吹号， 在伯·亚文吹出大声，说： 便雅悯哪，有仇敌在你后头！",
     Eng:"\"Sound the trumpet in Gibeah, the horn in Ramah. Raise the battle cry in Beth Aven; lead on, O Benjamin.",
     Ind:"Tiuplah sangkakala di Gibea, dan nafiri di Rama. Berteriaklah di Bet-Awen, gemetarlah, hai Benyamin!"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Sebab itu Aku ini akan seperti ngengat bagi Efraim dan seperti belatung bagi kaum Yehuda."
   },
   {Bible:"Hosea", Chapter:5, Verse:13, Page:1,
-    Kor:"에브라임이 자기의 중병을 깨닫고 앗시리아로 가고, 유다는 제 몸에 난 상처를 보고 그 나라의 d대왕에게 특사를 보냈다. 그러나 그 대왕이 너희의 중병을 고치지 못하고, 그가 너희의 상처를 치료하지 못한다. (d 히, '야렙 왕' 또는 '싸우는 왕')",
+    Kor:"에브라임이 자기의 중병을 깨닫고 앗시리아로 가고, 유다는 제 몸에 난 상처를 보고 그 나라의 대왕에게 특사를 보냈다. 그러나 그 대왕이 너희의 중병을 고치지 못하고, 그가 너희의 상처를 치료하지 못한다.",
     Chn:"以法莲见自己有病， 犹大见自己有伤， 他们就打发人往亚述去见耶雷布王， 他却不能医治你们， 不能治好你们的伤。",
     Eng:"\"When Ephraim saw his sickness, and Judah his sores, then Ephraim turned to Assyria, and sent to the great king for help. But he is not able to cure you, not able to heal your sores.",
     Ind:"Ketika Efraim melihat penyakitnya, dan Yehuda melihat bisulnya, maka pergilah Efraim ke Asyur dan mengutus orang kepada Raja 'Agung'. Tetapi iapun tidak dapat menyembuhkan kamu dan tidak dapat melenyapkan bisul itu dari padamu."

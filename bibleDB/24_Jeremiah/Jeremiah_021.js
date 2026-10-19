@@ -3,13 +3,13 @@
 BibleDB.ref("Jeremiah",21,14);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:21, Verse:1, Page:1,
-    Kor:"<예루살렘의 멸망 예고> 시드기야 왕이 말기야의 아들 바스훌과 마아세야의 아들 스바냐 제사장을 예레미야에게 보냈을 때에, 주님께서 그들에게 전할 말씀을 예레미야에게 주셨다.",
+    Kor:"시드기야 왕이 말기야의 아들 바스훌과 마아세야의 아들 스바냐 제사장을 예레미야에게 보냈을 때에, 주께서 그들에게 전할 말씀을 예레미야에게 주셨다.",
     Chn:"耶和华的话临到耶利米。那时，西底家王打发玛基雅的儿子巴施户珥和玛西雅的儿子祭司西番雅去见耶利米，说：",
     Eng:"The word came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah. They said:",
     Ind:"Firman yang datang dari TUHAN kepada Yeremia, ketika raja Zedekia mengutus Pasyhur bin Malkia dan imam Zefanya bin Maaseya kepadanya dengan pesan:"
   },
   {Bible:"Jeremiah", Chapter:21, Verse:2, Page:1,
-    Kor:"○그 때에 그들이 와서 이렇게 말하였다. \"제발 우리가 멸망하지 않도록 주님께 간절히 기도하여 주십시오. 바빌로니아 왕 느부갓네살이 우리를 포위하여 공격하고 있습니다. 행여 주님께서, 예전에 많은 기적을 베푸신 것처럼, 우리에게도 기적을 베풀어 주시면, 느부갓네살이 우리에게서 물러갈 것입니다.\"",
+    Kor:"그 때에 그들이 와서 이렇게 말하였다. \"제발 우리가 멸망하지 않도록 주께 간절히 기도하여 주십시오. 바빌로니아 왕 느부갓네살이 우리를 포위하여 공격하고 있습니다. 행여 주께서, 예전에 많은 기적을 베푸신 것처럼, 우리에게도 기적을 베풀어 주시면, 느부갓네살이 우리에게서 물러갈 것입니다.\"",
     Chn:"「请你为我们求问耶和华；因为巴比伦王尼布甲尼撒来攻击我们，或者耶和华照他一切奇妙的作为待我们，使巴比伦王离开我们上去。」",
     Eng:"\"Inquire now of the LORD for us because Nebuchadnezzar king of Babylon is attacking us. Perhaps the LORD will perform wonders for us as in times past so that he will withdraw from us.\"",
     Ind:"\"Tanyakanlah kiranya petunjuk TUHAN untuk kami, sebab Nebukadnezar, raja Babel, memerangi kami! Barangkali TUHAN mau melakukan kepada kami tepat seperti perbuatan-perbuatan-Nya yang ajaib, sehingga Nebukadnezar mundur meninggalkan kami.\""
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Kata Yeremia kepada mereka: \"Beginilah kamu katakan kepada Zedekia:"
   },
   {Bible:"Jeremiah", Chapter:21, Verse:4, Page:1,
-    Kor:"'주 이스라엘의 하나님이 말한다. 너희는, 지금 성벽을 에워싸고 공격하는 a바빌로니아 왕과 갈대아 군대에게 맞서서 싸우려고 무장을 하고 있으나, 내가, 너희가 가지고 있는 모든 전쟁무기를 회수하여, 이 도성 한가운데 모아 놓겠다.(a 또는 '갈대아')",
+    Kor:"'주 이스라엘의 하나님이 말한다. 너희는, 지금 성벽을 에워싸고 공격하는 바빌로니아 왕과 갈대아 군대에게 맞서서 싸우려고 무장을 하고 있으나, 내가, 너희가 가지고 있는 모든 전쟁무기를 회수하여, 이 도성 한가운데 모아 놓겠다.",
     Chn:"『耶和华—以色列的　神如此说：我要使你们手中的兵器，就是你们在城外与巴比伦王和围困你们的迦勒底人打仗的兵器翻转过来，又要使这些都聚集在这城中。",
     Eng:"'This is what the LORD, the God of Israel, says: I am about to turn against you the weapons of war that are in your hands, which you are using to fight the king of Babylon and the Babylonians who are outside the wall besieging you. And I will gather them inside this city.",
     Ind:"Beginilah firman TUHAN, Allah Israel: Sesungguhnya, Aku akan membalikkan senjata perang yang kamu pegang, yang kamu pakai berperang melawan raja Babel dan melawan orang-orang Kasdim yang mengepung kamu dari luar tembok; Aku akan mengumpulkannya ke dalam kota ini."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sesudah itu, demikianlah firman TUHAN, maka Zedekia, raja Yehuda, dan pegawai-pegawainya dan rakyat di kota ini, yang masih tinggal hidup dari penyakit sampar, dari pedang dan dari kelaparan, akan Kuserahkan ke dalam tangan Nebukadnezar, raja Babel, yaitu ke dalam tangan musuh mereka yang berusaha mencabut nyawa mereka; orang akan memukul mati mereka dengan mata pedang tanpa merasa sayang, tanpa belas kasihan dan tanpa ampun."
   },
   {Bible:"Jeremiah", Chapter:21, Verse:8, Page:1,
-    Kor:"○\"너는 이 백성에게 이렇게 전하여라. '나 주가 말한다. 내가 너희 앞에 생명의 길과 죽음의 길을 둔다.",
+    Kor:"○\"너는 이 백성에게 다음과 같이 전하여라. '나 주가 말한다. 내가 너희 앞에 생명의 길과 죽음의 길을 둔다.",
     Chn:"「你要对这百姓说：『耶和华如此说：看哪，我将生命的路和死亡的路摆在你们面前。",
     Eng:"\"Furthermore, tell the people, 'This is what the LORD says: See, I am setting before you the way of life and the way of death.",
     Ind:"Tetapi kepada bangsa ini haruslah kaukatakan: Beginilah firman TUHAN: Sesungguhnya, Aku menghadapkan kepada kamu jalan kehidupan dan jalan kematian."
   },
   {Bible:"Jeremiah", Chapter:21, Verse:9, Page:1,
-    Kor:"이 도성 안에 머물러 있는 사람은 전쟁이나 기근이나 염병으로 죽을 것이다. 그러나 지금 너희를 에워싸고 있는 a바빌로니아 군대에게 나아가서 항복하는 사람은, 죽지 않을 것이다. 그 사람은 적어도 자신의 목숨만은 건질 것이다.(a 또는 '갈대아')",
+    Kor:"이 도성 안에 머물러 있는 사람은 전쟁이나 기근이나 염병으로 죽을 것이다. 그러나 지금 너희를 에워싸고 있는 바빌로니아 군대에게 나아가서 항복하는 사람은, 죽지 않을 것이다. 그 사람은 적어도 자신의 목숨만은 건질 것이다.",
     Chn:"住在这城里的必遭刀剑、饥荒、瘟疫而死；但出去归降围困你们迦勒底人的必得存活，要以自己的命为掠物。",
     Eng:"Whoever stays in this city will die by the sword, famine or plague. But whoever goes out and surrenders to the Babylonians who are besieging you will live; he will escape with his life.",
     Ind:"Siapa yang tinggal di kota ini akan mati karena pedang, karena kelaparan dan karena penyakit sampar; tetapi siapa yang keluar dari sini dan menyerahkan diri kepada orang-orang Kasdim yang mengepung kamu, ia akan tetap hidup; nyawanya akan menjadi jarahan baginya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sebab Aku telah menentang kota ini untuk mendatangkan kecelakaan dan bukan untuk mendatangkan keberuntungannya, demikianlah firman TUHAN. Kota ini akan diserahkan ke dalam tangan raja Babel yang akan membakarnya habis dengan api.\""
   },
   {Bible:"Jeremiah", Chapter:21, Verse:11, Page:1,
-    Kor:"<유다 왕실에 내린 심판> \"이제 유다 왕실에 말한다. 너희는 나 주의 말을 들어라.",
+    Kor:"\"이제 유다 왕실에게 말한다. 너희는 나 주의 말을 들어라.",
     Chn:"「至于犹大王的家，你们当听耶和华的话。",
     Eng:"\"Moreover, say to the royal house of Judah, 'Hear the word of the LORD;",
     Ind:"Kepada keluarga raja Yehuda. Dengarlah firman TUHAN:"

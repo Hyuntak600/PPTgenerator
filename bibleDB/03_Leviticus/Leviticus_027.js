@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",27,34);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:27, Verse:1, Page:1,
-    Kor:"<서약예물의 값> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:27, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○어느 누구든지, 주에게 사람을 드리기로 서약하고, 그 사람에 해당되는 값을 돈으로 환산하여 드리기로 하였으면,",
+    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○어느 누구든지, 주께 사람을 드리기로 서약하고, 그 사람에 해당되는 값을 돈으로 환산하여 드리기로 하였으면,",
     Chn:"「你晓谕以色列人说：人还特许的愿，被许的人要按你所估的价值归给耶和华。",
     Eng:"\"Speak to the Israelites and say to them: 'If anyone makes a special vow to dedicate persons to the LORD by giving equivalent values,",
     Ind:"\"Berbicaralah kepada orang Israel dan katakan kepada mereka: Apabila seorang mengucapkan nazar khusus kepada TUHAN mengenai orang menurut penilaian yang berlaku untuk itu,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Tetapi jikalau orang itu terlalu miskin untuk membayar nilai itu, maka haruslah dihadapkannya orang yang dinazarkannya itu kepada imam, dan imam harus menilainya; sesuai dengan kemampuan orang yang bernazar itu imam harus menentukan nilainya."
   },
   {Bible:"Leviticus", Chapter:27, Verse:9, Page:1,
-    Kor:"○그가 서약한 것이, 주에게 제물로 바치는 짐승이면, 주에게 바친 짐승은 모두 거룩하게 된다.",
+    Kor:"○그가 서약한 것이, 주께 제물로 바치는 짐승이면, 주께 바친 짐승은 모두 거룩하게 된다.",
     Chn:"「所许的若是牲畜，就是人献给耶和华为供物的，凡这一类献给耶和华的，都要成为圣。",
     Eng:"\"'If what he vowed is an animal that is acceptable as an offering to the LORD, such an animal given to the LORD becomes holy.",
     Ind:"Jikalau itu termasuk hewan yang boleh dipersembahkan sebagai persembahan kepada TUHAN, maka apapun dari pada hewan itu yang dipersembahkan orang itu kepada TUHAN haruslah kudus."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Janganlah ia menggantinya dan janganlah ia menukarnya, yang baik dengan yang buruk atau yang buruk dengan yang baik. Tetapi jikalau ia menukar juga seekor hewan dengan seekor hewan lain, maka baik hewan itu maupun tukarnya haruslah kudus."
   },
   {Bible:"Leviticus", Chapter:27, Verse:11, Page:1,
-    Kor:"바칠 짐승이 부정한 짐승 곧 주에게 제물로 바칠 수 없는 짐승일 경우에는, 그 짐승을 제사장에게로 끌고 가고,",
+    Kor:"바칠 짐승이 부정한 짐승, 곧 주께 제물로 바칠 수 없는 짐승일 경우에는, 그 짐승을 제사장에게로 끌고 가고,",
     Chn:"若牲畜不洁净，是不可献给耶和华为供物的，就要把牲畜安置在祭司面前。",
     Eng:"If what he vowed is a ceremonially unclean animal--one that is not acceptable as an offering to the LORD--the animal must be presented to the priest,",
     Ind:"Jikalau itu barang seekor dari antara hewan haram yang tidak boleh dipersembahkan sebagai persembahan kepada TUHAN, maka hewan itu harus dihadapkannya kepada imam,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Dan jikalau orang itu mau menebusnya juga, ia harus menambahkan seperlima kepada nilai itu."
   },
   {Bible:"Leviticus", Chapter:27, Verse:14, Page:1,
-    Kor:"○어떤 사람이 자기 집을 거룩하게 구별하여 주에게 바칠 때에는, 제사장이 그 집을 보고, 많든 적든 그 값을 제사장이 매긴다. 제사장이 값을 얼마 매기든지, 그가 매긴 것이 그대로 그 값이 된다.",
+    Kor:"○어떤 사람이 자기 집을 거룩하게 구별하여 주께 드릴 때에는, 제사장이 그 집을 보고, 많든 적든 그 값을 제사장이 매긴다. 제사장이 값을 얼마 매기든지, 그가 매긴 것이 그대로 그 값이 된다.",
     Chn:"「人将房屋分别为圣，归给耶和华，祭司就要估定价值。房屋是好是坏，祭司怎样估定，就要以怎样为定。",
     Eng:"\"'If a man dedicates his house as something holy to the LORD, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain.",
     Ind:"Apabila seorang menguduskan rumahnya sebagai persembahan kudus bagi TUHAN, maka imam harus menetapkan nilainya menurut baik atau buruknya, dan seperti nilai yang ditetapkan imam demikianlah harus dipegang teguh."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Tetapi jikalau orang yang menguduskan itu mau menebus rumahnya, maka ia harus menambah harganya dengan seperlima dari uang nilainya dan rumah itu menjadi kepunyaannya pula."
   },
   {Bible:"Leviticus", Chapter:27, Verse:16, Page:1,
-    Kor:"○어떤 사람이 유산으로 물려받은 밭에서 얼마를 거룩하게 구별하여 주에게 바치려고 하면, 그 밭의 값은 그 밭에 뿌릴 씨앗의 분량에 따라 매기게 된다. 예를 들면, 그 밭이 한 호멜의 보리씨를 뿌릴 만한 밭이면, 그 값은 은 오십 세겔이다.",
+    Kor:"○어떤 사람이 유산으로 물려받은 밭에서 얼마를 거룩하게 구별하여 주께 바치려고 하면, 그 밭의 값은 그 밭에 뿌릴 씨앗의 분량에 따라 매기게 된다. 예를 들면, 그 밭이 한 호멜의 보리씨를 뿌릴 만한 밭이면, 그 값은 은 오십 세겔이다.",
     Chn:"「人若将承受为业的几分地分别为圣，归给耶和华，你要按这地撒种多少估定价值，若撒大麦一贺梅珥，要估价五十舍客勒。",
     Eng:"\"'If a man dedicates to the LORD part of his family land, its value is to be set according to the amount of seed required for it--fifty shekels of silver to a homer of barley seed.",
     Ind:"Jikalau seseorang menguduskan sebagian dari ladang miliknya bagi TUHAN, maka nilainya haruslah sesuai dengan taburannya, yakni sehomer taburan benih jelai berharga lima puluh syikal perak."
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Tetapi jikalau ia tidak menebus ladang itu, malahan ladang itu telah dijualnya kepada orang lain, maka tidak dapat ditebus lagi."
   },
   {Bible:"Leviticus", Chapter:27, Verse:21, Page:1,
-    Kor:"희년이 되어 그 밭이 해약되더라도, 그것은 주에게 바친 밭처럼, 여전히 거룩한 것으로서 제사장의 소유가 된다.",
+    Kor:"희년이 되어 그 밭이 해약되더라도, 그것은 주께 바친 밭처럼, 여전히 거룩한 것으로서 제사장의 소유가 된다.",
     Chn:"但到了禧年，那地从买主手下出来的时候，就要归耶和华为圣，和永献的地一样，要归祭司为业。",
     Eng:"When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it will become the property of the priests.",
     Ind:"Tetapi pada waktu bebas dalam tahun Yobel, ladang itu haruslah kudus bagi TUHAN, sama seperti ladang yang dikhususkan bagi TUHAN. Imamlah yang harus memilikinya."
   },
   {Bible:"Leviticus", Chapter:27, Verse:22, Page:1,
-    Kor:"○어떤 사람이, 상속받은 유산의 일부가 아니라, 자기가 산 밭을 거룩하게 구별하여 주에게 바치려면,",
+    Kor:"○어떤 사람이, 상속받은 유산의 일부가 아니라, 자기가 산 밭을 거룩하게 구별하여 주께 바치려면,",
     Chn:"他若将所买的一块地，不是承受为业的，分别为圣归给耶和华，",
     Eng:"\"'If a man dedicates to the LORD a field he has bought, which is not part of his family land,",
     Ind:"Dan jikalau ia menguduskan bagi TUHAN ladang yang telah dibelinya dan yang tidak termasuk ladang miliknya dahulu,"
@@ -141,43 +141,43 @@ BibleDB.add([
     Ind:"maka imam harus menghitung baginya harga nilainya sampai kepada tahun Yobel dan orang itu haruslah mempersembahkan nilai itu pada hari itu juga sebagai persembahan kudus bagi TUHAN."
   },
   {Bible:"Leviticus", Chapter:27, Verse:24, Page:1,
-    Kor:"희년이 되면 그 밭은, 그것을 판 사람 곧 유산으로 받은 그 땅의 본래 소유자에게 돌아간다.",
+    Kor:"희년이 되면, 그 밭은 그것을 판 사람, 곧 유산으로 받은 그 땅의 본래 소유자에게 돌아간다.",
     Chn:"到了禧年，那地要归卖主，就是那承受为业的原主。",
     Eng:"In the Year of Jubilee the field will revert to the person from whom he bought it, the one whose land it was.",
     Ind:"Dalam tahun Yobel ladang itu harus dipulangkan kepada orang yang menjualnya kepadanya, yakni kepada orang yang mula-mula memiliki tanah itu."
   },
   {Bible:"Leviticus", Chapter:27, Verse:25, Page:1,
-    Kor:"○이제까지 말한 모든 값은 이십 게라를 일 세겔로 계산하는, 성소에서 쓰는 세겔로 매겨야 한다.\"",
+    Kor:"○이제까지 말한 모든 값은 이십 게라를 일 세겔로 계산하는, 성소에서 쓰는 세겔로 매겨야 한다.",
     Chn:"凡你所估定的价银都要按着圣所的平：二十季拉为一舍客勒。",
     Eng:"Every value is to be set according to the sanctuary shekel, twenty gerahs to the shekel.",
     Ind:"Dan segala nilai harus menurut syikal kudus, syikal itu harus dua puluh gera beratnya."
   },
   {Bible:"Leviticus", Chapter:27, Verse:26, Page:1,
-    Kor:"<짐승의 맏배> ○\"짐승의 맏배는 새삼스레 거룩한 것으로 바칠 것이 없다. 맏배는 이미 나 주의 것이기 때문이다. 소든지 양이든지 그것들은 다 나 주의 것이다.",
+    Kor:"○짐승의 맏배는 새삼스레 거룩한 것으로 바칠 것이 없다. 맏배는 이미 나 주의 것이기 때문이다. 소든지 양이든지 그것들은 다 나 주의 것이다.",
     Chn:"「惟独牲畜中头生的，无论是牛是羊，既归耶和华，谁也不可再分别为圣，因为这是耶和华的。",
     Eng:"\"'No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the LORD; whether an ox or a sheep, it is the LORD'S.",
     Ind:"Akan tetapi anak sulung, yang sebagai anak sulung menjadi hak TUHAN dari antara hewan, tidak boleh dikuduskan oleh siapapun, baik seekor lembu maupun seekor kambing atau domba, itu milik TUHAN."
   },
   {Bible:"Leviticus", Chapter:27, Verse:27, Page:1,
-    Kor:"그러나 그가 바치려는 것이 부정한 짐승이면, 그는 매겨 있는 값에다 오분의 일을 더 얹어 그것을 무를 수 있다. 그가 그것을 무르지 않으면, 그것은 제사장이 매긴 값으로 팔아야 한다.\"",
+    Kor:"그러나 그가 드리려는 것이 부정한 짐승이면, 그는 매겨 있는 값에다 오분의 일을 더 얹어 그것을 무를 수 있다. 그가 그것을 무르지 않으면, 그것은 제사장이 매긴 값으로 팔아야 한다.\"",
     Chn:"若是不洁净的牲畜生的，就要按你所估定的价值加上五分之一赎回；若不赎回，就要按你所估定的价值卖了。",
     Eng:"If it is one of the unclean animals, he may buy it back at its set value, adding a fifth of the value to it. If he does not redeem it, it is to be sold at its set value.",
     Ind:"Tetapi jikalau itu dari antara hewan yang haram, maka haruslah orang menebusnya menurut nilainya dengan menambah seperlima dan jikalau tidak ditebus, haruslah dijual menurut nilainya."
   },
   {Bible:"Leviticus", Chapter:27, Verse:28, Page:1,
-    Kor:"<무를 수 없는 제물> ○\"사람이 자기에게 있는 것 가운데서, 어떤 것을 주에게 바쳐 그것이 가장 거룩한 것이 되었을 때에는, 사람이든 짐승이든 또는 유산으로 물려받은 가문에 속한 밭이든, 그것들을 팔거나 무르거나 할 수 없다. 그것들은 이미 주에게 가장 거룩한 것으로 모두 바친 것이기 때문이다.",
+    Kor:"○\"사람이 자기에게 있는 것 가운데서, 어떤 것을 주께 바쳐 그것이 가장 거룩한 것이 되었을 때에는, 사람이든 짐승이든 또는 유산으로 물려받은 가문에 속한 밭이든, 그것들을 팔거나 무르거나 할 수 없다. 그것들은 이미 주께 가장 거룩한 것으로 모두 바친 것이기 때문이다.",
     Chn:"「但一切永献的，就是人从他所有永献给耶和华的，无论是人，是牲畜，是他承受为业的地，都不可卖，也不可赎。凡永献的是归给耶和华为至圣。",
     Eng:"\"'But nothing that a man owns and devotes to the LORD--whether man or animal or family land--may be sold or redeemed; everything so devoted is most holy to the LORD.",
     Ind:"Akan tetapi segala yang sudah dikhususkan oleh seseorang bagi TUHAN dari segala miliknya, baik manusia atau hewan, maupun ladang miliknya, tidak boleh dijual dan tidak boleh ditebus, karena segala yang dikhususkan adalah maha kudus bagi TUHAN."
   },
   {Bible:"Leviticus", Chapter:27, Verse:29, Page:1,
-    Kor:"주에게 바친 사람도 다시 무를 수 없다. 그는 반드시 죽여야 한다.\"",
+    Kor:"주께 바친 사람도 다시 무를 수 없다. 그는 반드시 죽여야 한다.\"",
     Chn:"凡从人中当灭的都不可赎，必被治死。」",
     Eng:"\"'No person devoted to destruction may be ransomed; he must be put to death.",
     Ind:"Setiap orang yang dikhususkan, yang harus ditumpas di antara manusia, tidak boleh ditebus, pastilah ia dihukum mati."
   },
   {Bible:"Leviticus", Chapter:27, Verse:30, Page:1,
-    Kor:"<주님께 바친 십분의 일> ○\"땅의 십분의 일 곧 땅에서 난 것의 십분의 일은, 밭에서 난 곡식이든지, 나무에 달린 열매이든지, 모두 주에게 속한 것으로서, 주에게 바쳐야 할 거룩한 것이다.",
+    Kor:"○\"땅의 십분의 일, 곧 땅에서 난 것의 십분의 일은, 밭에서 난 곡식이든지, 나무에 달린 열매이든지, 모두 주에게 속한 것으로서, 주에게 바쳐야 할 거룩한 것이다.",
     Chn:"「地上所有的，无论是地上的种子是树上的果子，十分之一是耶和华的，是归给耶和华为圣的。",
     Eng:"\"'A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the LORD; it is holy to the LORD.",
     Ind:"Demikian juga segala persembahan persepuluhan dari tanah, baik dari hasil benih di tanah maupun dari buah pohon-pohonan, adalah milik TUHAN; itulah persembahan kudus bagi TUHAN."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Janganlah dipilih-pilih mana yang baik dan mana yang buruk, dan janganlah ditukar; jikalau orang menukarnya juga, maka baik hewan itu maupun tukarnya haruslah kudus dan tidak boleh ditebus.\""
   },
   {Bible:"Leviticus", Chapter:27, Verse:34, Page:1,
-    Kor:"이것은 주님께서 시내 산에서 모세더러, 이스라엘 자손에게 이르라고 내리신 명이다.",
+    Kor:"이것은 주께서 시내 산에서 모세더러, 이스라엘 자손에게 이르라고 내리신 명이다.",
     Chn:"这就是耶和华在西奈山为以色列人所吩咐摩西的命令。",
     Eng:"These are the commands the Lord gave Moses on Mount Sinai for the Israelites.",
     Ind:"Itulah perintah-perintah yang diperintahkan TUHAN kepada Musa di gunung Sinai untuk disampaikan kepada orang Israel."

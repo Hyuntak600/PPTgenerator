@@ -3,25 +3,25 @@
 BibleDB.ref("John",11,57);
 BibleDB.add([
   {Bible:"John", Chapter:11, Verse:1, Page:1,
-    Kor:"<죽은 나사로를 살리시다> 한 병자가 있었는데, 그는 마리아와 그의 자매 마르다의 마을 베다니에 사는 나사로였다.",
+    Kor:"어떤 병자가 있었는데, 그는 마리아와 그의 자매 마르다의 동네 베다니에 사는 나사로였다.",
     Chn:"有一个患病的人，名叫拉撒路，住在伯大尼，就是马利亚和她姊姊马大的村庄。",
     Eng:"Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha.",
     Ind:"Ada seorang yang sedang sakit, namanya Lazarus. Ia tinggal di Betania, kampung Maria dan adiknya Marta."
   },
   {Bible:"John", Chapter:11, Verse:2, Page:1,
-    Kor:"마리아는 주님께 향유를 붓고, 자기의 머리털로 주님의 발을 씻은 여자요, 병든 나사로는 그의 오라버니이다.",
+    Kor:"마리아는 주께 향유를 붓고, 자기의 머리털로 주의 발을 씻은 여자요, 병든 나사로는 그의 오빠이다.",
     Chn:"这马利亚就是那用香膏抹主，又用头发擦他脚的；患病的拉撒路是她的兄弟。",
     Eng:"This Mary, whose brother Lazarus now lay sick, was the same one who poured perfume on the Lord and wiped his feet with her hair.",
     Ind:"Maria ialah perempuan yang pernah meminyaki kaki Tuhan dengan minyak mur dan menyekanya dengan rambutnya."
   },
   {Bible:"John", Chapter:11, Verse:3, Page:1,
-    Kor:"그 누이들이 사람을 a예수께로 보내서 말하였다. \"주님, 보십시오. 주님께서 사랑하시는 사람이 앓고 있습니다.\"(a 그, '그에게로')",
+    Kor:"그 누이들이 사람을 예수께로 보내서 \"주님, 보십시오, 주께서 사랑하시는 사람이 앓고 있습니다\" 하고 말하였다.",
     Chn:"她姊妹两个就打发人去见耶稣，说：「主啊，你所爱的人病了。」",
     Eng:"So the sisters sent word to Jesus, \"Lord, the one you love is sick.\"",
     Ind:"Dan Lazarus yang sakit itu adalah saudaranya. Kedua perempuan itu mengirim kabar kepada Yesus: \"Tuhan, dia yang Engkau kasihi, sakit.\""
   },
   {Bible:"John", Chapter:11, Verse:4, Page:1,
-    Kor:"예수께서 들으시고 말씀하셨다. \"이 병은, 죽을 병이 아니라 오히려 하나님의 영광을 드러낼 병이다. 이것으로 말미암아 하나님의 아들이 영광을 받게 될 것이다.\"",
+    Kor:"예수께서 들으시고 말씀하셨다. \"그 병은 죽을 병이 아니다. 그것은 오히려 하나님의 영광을 드러낼 병이다. 이 일로 말미암아 하나님의 아들이 영광을 받게 될 것이다.\"",
     Chn:"耶稣听见，就说：「这病不至于死，乃是为　神的荣耀，叫　神的儿子因此得荣耀。」",
     Eng:"When he heard this, Jesus said, \"This sickness will not end in death. No, it is for God's glory so that God's Son may be glorified through it.\"",
     Ind:"Ketika Yesus mendengar kabar itu, Ia berkata: \"Penyakit itu tidak akan membawa kematian, tetapi akan menyatakan kemuliaan Allah, sebab oleh penyakit itu Anak Allah akan dimuliakan.\""
@@ -33,25 +33,25 @@ BibleDB.add([
     Ind:"Yesus memang mengasihi Marta dan kakaknya dan Lazarus."
   },
   {Bible:"John", Chapter:11, Verse:6, Page:1,
-    Kor:"그런데 예수께서는 나사로가 앓는다는 말을 들으시고도, 계시던 그 곳에 이틀이나 더 머무르셨다.",
+    Kor:"그런데 예수께서는 나사로가 앓는다는 말을 들으시고도, 계신 그 곳에 이틀이나 더 머무르셨다.",
     Chn:"听见拉撒路病了，就在所居之地仍住了两天。",
     Eng:"Yet when he heard that Lazarus was sick, he stayed where he was two more days.",
     Ind:"Namun setelah didengar-Nya, bahwa Lazarus sakit, Ia sengaja tinggal dua hari lagi di tempat, di mana Ia berada;"
   },
   {Bible:"John", Chapter:11, Verse:7, Page:1,
-    Kor:"그리고 나서 제자들에게 \"다시 유대 지방으로 가자\" 하고 말씀하셨다.",
+    Kor:"○그런 다음에, 제자들에게 \"다시 유대로 가자\" 하고 말씀하셨다.",
     Chn:"然后对门徒说：「我们再往犹太去吧。」",
     Eng:"Then he said to his disciples, \"Let us go back to Judea.\"",
     Ind:"tetapi sesudah itu Ia berkata kepada murid-murid-Nya: \"Mari kita kembali lagi ke Yudea.\""
   },
   {Bible:"John", Chapter:11, Verse:8, Page:1,
-    Kor:"제자들이 예수께 말하였다. \"선생님, 방금도 유대 사람들이 선생님을 돌로 치려고 하였는데, 다시 그리로 가려고 하십니까?\"",
+    Kor:"제자들이 예수께 말씀드리기를 \"선생님, 방금도 유대 사람들이 선생님을 돌로 치려고 했는데, 다시 그리로 가시려고 합니까?\" 하였다.",
     Chn:"门徒说：「拉比，犹太人近来要拿石头打你，你还往那里去吗？」",
     Eng:"\"But Rabbi,\" they said, \"a short while ago the Jews tried to stone you, and yet you are going back there?\"",
     Ind:"Murid-murid itu berkata kepada-Nya: \"Rabi, baru-baru ini orang-orang Yahudi mencoba melempari Engkau, masih maukah Engkau kembali ke sana?\""
   },
   {Bible:"John", Chapter:11, Verse:9, Page:1,
-    Kor:"예수께서 대답하셨다. \"낮은 열두 시간이나 되지 않느냐? 사람이 낮에 걸어다니면, 햇빛이 있으므로 걸려서 넘어지지 않는다.",
+    Kor:"예수께서 대답하셨다. \"낮은 열두 시간이나 되지 않느냐? 사람이 낮에 걸어다니면, 이 세상의 빛을 보므로, 걸려서 넘어지지 않는다.",
     Chn:"耶稣回答说：「白日不是有十二小时吗？人在白日走路，就不至跌倒，因为看见这世上的光。",
     Eng:"Jesus answered, \"Are there not twelve hours of daylight? A man who walks by day will not stumble, for he sees by this world's light.",
     Ind:"Jawab Yesus: \"Bukankah ada dua belas jam dalam satu hari? Siapa yang berjalan pada siang hari, kakinya tidak terantuk, karena ia melihat terang dunia ini."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Tetapi jikalau seorang berjalan pada malam hari, kakinya terantuk, karena terang tidak ada di dalam dirinya.\""
   },
   {Bible:"John", Chapter:11, Verse:11, Page:1,
-    Kor:"이 말씀을 하신 뒤에, 그들에게 말씀하셨다. \"우리 친구 나사로는 잠들었다. 내가 가서, 그를 깨우겠다.\"",
+    Kor:"이 말씀을 하신 뒤에, 그들에게 \"우리 친구 나사로가 잠들었다. 내가 가서, 그를 깨우겠다\" 하고 덧붙여서 말씀하셨다.",
     Chn:"耶稣说了这话，随后对他们说：「我们的朋友拉撒路睡了，我去叫醒他。」",
     Eng:"After he had said this, he went on to tell them, \"Our friend Lazarus has fallen asleep; but I am going there to wake him up.\"",
     Ind:"Demikianlah perkataan-Nya, dan sesudah itu Ia berkata kepada mereka: \"Lazarus, saudara kita, telah tertidur, tetapi Aku pergi ke sana untuk membangunkan dia dari tidurnya.\""
   },
   {Bible:"John", Chapter:11, Verse:12, Page:1,
-    Kor:"제자들이 말하였다. \"주님, 그가 잠들었으면, 낫게 될 것입니다.\"",
+    Kor:"제자들이 말하였다. \"주님, 그가 잠들었으면, 일어날 것입니다.\"",
     Chn:"门徒说：「主啊，他若睡了，就必好了。」",
     Eng:"His disciples replied, \"Lord, if he sleeps, he will get better.\"",
     Ind:"Maka kata murid-murid itu kepada-Nya: \"Tuhan, jikalau ia tertidur, ia akan sembuh.\""
@@ -81,37 +81,37 @@ BibleDB.add([
     Ind:"Tetapi maksud Yesus ialah tertidur dalam arti mati, sedangkan sangka mereka Yesus berkata tentang tertidur dalam arti biasa."
   },
   {Bible:"John", Chapter:11, Verse:14, Page:1,
-    Kor:"이 때에 예수께서 그들에게 밝혀 말씀하셨다. \"나사로는 죽었다.",
+    Kor:"이 때에 예수께서 그들에게 밝히 말씀하셨다. \"나사로는 죽었다.",
     Chn:"耶稣就明明地告诉他们说：「拉撒路死了。",
     Eng:"So then he told them plainly, \"Lazarus is dead,",
     Ind:"Karena itu Yesus berkata dengan terus terang: \"Lazarus sudah mati;"
   },
   {Bible:"John", Chapter:11, Verse:15, Page:1,
-    Kor:"내가 거기에 있지 않은 것이 너희를 위해서 도리어 잘 된 일이므로, 기쁘게 생각한다. 이 일로 말미암아 너희가 믿게 될 것이다. 그에게로 가자.\"",
+    Kor:"내가 거기에 있지 않은 것은 너희에게 도리어 잘된 일이므로, 기쁘게 생각한다. 이 일로 말미암아, 너희가 믿게 될 것이다. 그에게로 가자.\"",
     Chn:"我没有在那里就欢喜，这是为你们的缘故，好叫你们相信。如今我们可以往他那里去吧。」",
     Eng:"and for your sake I am glad I was not there, so that you may believe. But let us go to him.\"",
     Ind:"tetapi syukurlah Aku tidak hadir pada waktu itu, sebab demikian lebih baik bagimu, supaya kamu dapat belajar percaya. Marilah kita pergi sekarang kepadanya.\""
   },
   {Bible:"John", Chapter:11, Verse:16, Page:1,
-    Kor:"그러자 b디두모라고도 하는 도마가 동료 제자들에게 \"우리도 그와 함께 죽으러 가자\" 하고 말하였다.(b 또는 '쌍둥이')",
+    Kor:"그러자 '쌍둥이'라고 불리는 도마가 동료 제자들에게 \"우리도 그와 함께 죽으러 가자\" 하고 말하였다.",
     Chn:"多马，又称为低土马，就对那同作门徒的说：「我们也去和他同死吧。」",
     Eng:"Then Thomas (called Didymus) said to the rest of the disciples, \"Let us also go, that we may die with him.\"",
     Ind:"Lalu Tomas, yang disebut Didimus, berkata kepada teman-temannya, yaitu murid-murid yang lain: \"Marilah kita pergi juga untuk mati bersama-sama dengan Dia.\""
   },
   {Bible:"John", Chapter:11, Verse:17, Page:1,
-    Kor:"<예수는 부활과 생명이시다> ○예수께서 가서 보시니, 나사로가 무덤 속에 있은 지가 벌써 나흘이나 되었다.",
+    Kor:"○예수께서 가서 보시니, 나사로가 무덤 안에 있은 지가 벌써 나흘이나 되었다.",
     Chn:"耶稣到了，就知道拉撒路在坟墓里已经四天了。",
     Eng:"On his arrival, Jesus found that Lazarus had already been in the tomb for four days.",
     Ind:"Maka ketika Yesus tiba, didapati-Nya Lazarus telah empat hari berbaring di dalam kubur."
   },
   {Bible:"John", Chapter:11, Verse:18, Page:1,
-    Kor:"베다니는 예루살렘에서 c오 리가 조금 넘는 가까운 곳인데,(c 그, '십오 스타디아'. 약 3킬로미터)",
+    Kor:"베다니는 예루살렘에서 오리가 조금 넘는 가까운 곳인데,",
     Chn:"伯大尼离耶路撒冷不远，约有六里路。",
     Eng:"Bethany was less than two miles from Jerusalem,",
     Ind:"Betania terletak dekat Yerusalem, kira-kira dua mil jauhnya."
   },
   {Bible:"John", Chapter:11, Verse:19, Page:1,
-    Kor:"많은 유대 사람이 그 오라버니의 일로 마르다와 마리아를 위로하러 와 있었다.",
+    Kor:"많은 유대 사람이 마르다와 마리아에게 그 오라버니의 일로 위로하러 와 있었다.",
     Chn:"有好些犹太人来看马大和马利亚，要为她们的兄弟安慰她们。",
     Eng:"and many Jews had come to Martha and Mary to comfort them in the loss of their brother.",
     Ind:"Di situ banyak orang Yahudi telah datang kepada Marta dan Maria untuk menghibur mereka berhubung dengan kematian saudaranya."
@@ -123,25 +123,25 @@ BibleDB.add([
     Ind:"Ketika Marta mendengar, bahwa Yesus datang, ia pergi mendapatkan-Nya. Tetapi Maria tinggal di rumah."
   },
   {Bible:"John", Chapter:11, Verse:21, Page:1,
-    Kor:"마르다가 예수께 말하였다. \"주님, 주님이 여기에 계셨더라면, 내 오라버니가 죽지 아니하였을 것입니다.",
+    Kor:"마르다가 예수께 말하였다. \"주님, 주님이 여기에 계셨더라면, 내 오라버니가 죽지 않았을 것입니다.",
     Chn:"马大对耶稣说：「主啊，你若早在这里，我兄弟必不死。",
     Eng:"\"Lord,\" Martha said to Jesus, \"if you had been here, my brother would not have died.",
     Ind:"Maka kata Marta kepada Yesus: \"Tuhan, sekiranya Engkau ada di sini, saudaraku pasti tidak mati."
   },
   {Bible:"John", Chapter:11, Verse:22, Page:1,
-    Kor:"그러나 이제라도, 나는 주님께서 하나님께 구하시는 것은 무엇이나 하나님께서 다 이루어 주실 줄 압니다.\"",
+    Kor:"그러나 나는 지금이라도 주께서 하나님께 구하시면, 하나님께서 무엇이나 다 이루어 주실 줄 압니다.\"",
     Chn:"就是现在，我也知道，你无论向　神求什么，　神也必赐给你。」",
     Eng:"But I know that even now God will give you whatever you ask.\"",
     Ind:"Tetapi sekarangpun aku tahu, bahwa Allah akan memberikan kepada-Mu segala sesuatu yang Engkau minta kepada-Nya.\""
   },
   {Bible:"John", Chapter:11, Verse:23, Page:1,
-    Kor:"예수께서 마르다에게 말씀하셨다. \"네 오라버니가 다시 살아날 것이다.\"",
+    Kor:"예수께서 마르다에게 말씀하셨다. \"네 오라버니가 살아날 것이다.\"",
     Chn:"耶稣说：「你兄弟必然复活。」",
     Eng:"Jesus said to her, \"Your brother will rise again.\"",
     Ind:"Kata Yesus kepada Marta: \"Saudaramu akan bangkit.\""
   },
   {Bible:"John", Chapter:11, Verse:24, Page:1,
-    Kor:"마르다가 예수께 말하였다. \"마지막 날 부활 때에 그가 다시 살아나리라는 것은 내가 압니다.\"",
+    Kor:"마르다가 말하였다. \"마지막 날 부활 때에 그가 다시 살아나리라는 것은, 내가 압니다.\"",
     Chn:"马大说：「我知道在末日复活的时候，他必复活。」",
     Eng:"Martha answered, \"I know he will rise again in the resurrection at the last day.\"",
     Ind:"Kata Marta kepada-Nya: \"Aku tahu bahwa ia akan bangkit pada waktu orang-orang bangkit pada akhir zaman.\""
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Jawab Yesus: \"Akulah kebangkitan dan hidup; barangsiapa percaya kepada-Ku, ia akan hidup walaupun ia sudah mati,"
   },
   {Bible:"John", Chapter:11, Verse:26, Page:1,
-    Kor:"살아서 나를 믿는 사람은 영원히 죽지 아니할 것이다. 네가 이것을 믿느냐?\"",
+    Kor:"살아서 나를 믿는 사람은 영원히 죽지 않을 것이다. 네가 이것을 믿느냐?\"",
     Chn:"凡活着信我的人必永远不死。你信这话吗？」",
     Eng:"and whoever lives and believes in me will never die. Do you believe this?\"",
     Ind:"dan setiap orang yang hidup dan yang percaya kepada-Ku, tidak akan mati selama-lamanya. Percayakah engkau akan hal ini?\""
   },
   {Bible:"John", Chapter:11, Verse:27, Page:1,
-    Kor:"마르다가 예수께 말하였다. \"예, 주님! 주님은 세상에 오실 d그리스도이시며, 하나님의 아들이심을, 내가 믿습니다.\"(d 또는 '메시아'. 그리스어 그리스도와 히브리어 메시아는 둘 다 '기름 부음 받은 이'를 뜻함)",
+    Kor:"마르다가 예수께 말하였다. \"예, 주님! 주님은 세상에 오실 그리스도이시며 하나님의 아들이신 줄을, 내가 믿습니다.\"",
     Chn:"马大说：「主啊，是的，我信你是基督，是　神的儿子，就是那要临到世界的。」",
     Eng:"\"Yes, Lord,\" she told him, \"I believe that you are the Christ, the Son of God, who was to come into the world.\"",
     Ind:"Jawab Marta: \"Ya, Tuhan, aku percaya, bahwa Engkaulah Mesias, Anak Allah, Dia yang akan datang ke dalam dunia.\""
   },
   {Bible:"John", Chapter:11, Verse:28, Page:1,
-    Kor:"<예수께서 눈물을 흘리시다> ○이렇게 말한 뒤에, 마르다는 가서, 그 자매 마리아를 불러서 가만히 말하였다. \"선생님께서 와 계시는데, 너를 부르신다.\"",
+    Kor:"○이렇게 말한 뒤에, 마르다는 가서, 자매 마리아를 불러서 \"선생님께서 와 계시는데, 너를 부르신다\" 하고 가만히 말하였다.",
     Chn:"马大说了这话，就回去暗暗地叫她妹子马利亚，说：「夫子来了，叫你。」",
     Eng:"And after she had said this, she went back and called her sister Mary aside. \"The Teacher is here,\" she said, \"and is asking for you.\"",
     Ind:"Dan sesudah berkata demikian ia pergi memanggil saudaranya Maria dan berbisik kepadanya: \"Guru ada di sana dan Ia memanggil engkau.\""
@@ -189,25 +189,25 @@ BibleDB.add([
     Ind:"Ketika orang-orang Yahudi yang bersama-sama dengan Maria di rumah itu untuk menghiburnya, melihat bahwa Maria segera bangkit dan pergi ke luar, mereka mengikutinya, karena mereka menyangka bahwa ia pergi ke kubur untuk meratap di situ."
   },
   {Bible:"John", Chapter:11, Verse:32, Page:1,
-    Kor:"마리아는 예수께서 계신 곳으로 와서, 예수님을 뵙고, 그 발 아래에 엎드려서 말하였다. \"주님, 주님이 여기에 계셨더라면, 내 오라버니가 죽지 않았을 것입니다.\"",
+    Kor:"마리아는 예수께서 계신 곳으로 와서, 예수를 뵙고, 그 발 아래에 엎드려서 \"주님, 주님이 여기에 계셨더라면, 내 오라버니가 죽지 않았을 것입니다\" 하고 말하였다.",
     Chn:"马利亚到了耶稣那里，看见他，就俯伏在他脚前，说：「主啊，你若早在这里，我兄弟必不死。」",
     Eng:"When Mary reached the place where Jesus was and saw him, she fell at his feet and said, \"Lord, if you had been here, my brother would not have died.\"",
     Ind:"Setibanya Maria di tempat Yesus berada dan melihat Dia, tersungkurlah ia di depan kaki-Nya dan berkata kepada-Nya: \"Tuhan, sekiranya Engkau ada di sini, saudaraku pasti tidak mati.\""
   },
   {Bible:"John", Chapter:11, Verse:33, Page:1,
-    Kor:"예수께서는 마리아가 우는 것과, 함께 따라온 유대 사람들이 우는 것을 보시고, 마음이 비통하여 괴로워하셨다.",
+    Kor:"예수께서는, 마리아가 우는 것과 함께 따라온 유대 사람들이 우는 것을 보시고, 마음이 비통하여 괴로워하셨다.",
     Chn:"耶稣看见她哭，并看见与她同来的犹太人也哭，就心里悲叹，又甚忧愁，",
     Eng:"When Jesus saw her weeping, and the Jews who had come along with her also weeping, he was deeply moved in spirit and troubled.",
     Ind:"Ketika Yesus melihat Maria menangis dan juga orang-orang Yahudi yang datang bersama-sama dia, maka masygullah hati-Nya. Ia sangat terharu dan berkata:"
   },
   {Bible:"John", Chapter:11, Verse:34, Page:1,
-    Kor:"예수께서 그들에게 물으셨다. \"그를 어디에 두었느냐?\" 그들이 대답하였다. \"주님, 와 보십시오.\"",
+    Kor:"예수께서 \"그를 어디에 두었느냐?\" 하고 물으시니, 그들은 \"주님, 와 보십시오\" 하고 대답하였다.",
     Chn:"便说：「你们把他安放在哪里？」他们回答说：「请主来看。」",
     Eng:"\"Where have you laid him?\" he asked. \"Come and see, Lord,\" they replied.",
     Ind:"\"Di manakah dia kamu baringkan?\" Jawab mereka: \"Tuhan, marilah dan lihatlah!\""
   },
   {Bible:"John", Chapter:11, Verse:35, Page:1,
-    Kor:"예수께서는 눈물을 흘리셨다.",
+    Kor:"예수께서 눈물을 흘리셨다.",
     Chn:"耶稣哭了。",
     Eng:"Jesus wept.",
     Ind:"Maka menangislah Yesus."
@@ -219,13 +219,13 @@ BibleDB.add([
     Ind:"Kata orang-orang Yahudi: \"Lihatlah, betapa kasih-Nya kepadanya!\""
   },
   {Bible:"John", Chapter:11, Verse:37, Page:1,
-    Kor:"그 가운데서 어떤 사람은 이렇게 말하였다.\"눈먼 사람의 눈을 뜨게 하신 분이, 이 사람을 죽지 않게 하실 수 없었단 말이오?\"",
+    Kor:"그 가운데서 몇몇 사람은 \"눈이 먼 사람의 눈을 뜨게 하신 분이, 이 사람을 죽지 않게 하실 수 없었단 말이오?\" 하고 말하였다.",
     Chn:"其中有人说：「他既然开了瞎子的眼睛，岂不能叫这人不死吗？」",
     Eng:"But some of them said, \"Could not he who opened the eyes of the blind man have kept this man from dying?\"",
     Ind:"Tetapi beberapa orang di antaranya berkata: \"Ia yang memelekkan mata orang buta, tidak sanggupkah Ia bertindak, sehingga orang ini tidak mati?\""
   },
   {Bible:"John", Chapter:11, Verse:38, Page:1,
-    Kor:"<나사로가 살아나다> ○예수께서 다시 속으로 비통하게 여기시면서 무덤으로 가셨다. 무덤은 동굴인데, 그 어귀는 돌로 막아 놓았다.",
+    Kor:"○예수께서 다시 속으로 비통하게 여기시면서 무덤으로 가셨다. 무덤은 동굴인데, 그 문은 돌로 막혀 있었다.",
     Chn:"耶稣又心里悲叹，来到坟墓前；那坟墓是个洞，有一块石头挡着。",
     Eng:"Jesus, once more deeply moved, came to the tomb. It was a cave with a stone laid across the entrance.",
     Ind:"Maka masygullah pula hati Yesus, lalu Ia pergi ke kubur itu. Kubur itu adalah sebuah gua yang ditutup dengan batu."
@@ -237,25 +237,25 @@ BibleDB.add([
     Ind:"Kata Yesus: \"Angkat batu itu!\" Marta, saudara orang yang meninggal itu, berkata kepada-Nya: \"Tuhan, ia sudah berbau, sebab sudah empat hari ia mati.\""
   },
   {Bible:"John", Chapter:11, Verse:40, Page:1,
-    Kor:"예수께서 마르다에게 말씀하셨다. \"네가 믿으면 하나님의 영광을 보게 되리라고, 내가 네게 말하지 않았느냐?\"",
+    Kor:"예수께서 마르다에게 말씀하셨다. \"네가 믿으면 하나님의 영광을 보게 될 것이라고, 내가 말하지 않았느냐?\"",
     Chn:"耶稣说：「我不是对你说过，你若信，就必看见　神的荣耀吗？」",
     Eng:"Then Jesus said, \"Did I not tell you that if you believed, you would see the glory of God?\"",
     Ind:"Jawab Yesus: \"Bukankah sudah Kukatakan kepadamu: Jikalau engkau percaya engkau akan melihat kemuliaan Allah?\""
   },
   {Bible:"John", Chapter:11, Verse:41, Page:1,
-    Kor:"사람들이 그 돌을 옮겨 놓았다. 예수께서 하늘을 우러러 보시고 말씀하셨다. \"아버지, 내 말을 들어주신 것을 감사드립니다.",
+    Kor:"사람들이 그 돌을 옮겨 놓았다. 예수께서 하늘을 우러러보시고 말씀하셨다. \"아버지, 내 말을 들어주신 것을 감사드립니다.",
     Chn:"他们就把石头挪开。耶稣举目望天，说：「父啊，我感谢你，因为你已经听我。",
     Eng:"So they took away the stone. Then Jesus looked up and said, \"Father, I thank you that you have heard me.",
     Ind:"Maka mereka mengangkat batu itu. Lalu Yesus menengadah ke atas dan berkata: \"Bapa, Aku mengucap syukur kepada-Mu, karena Engkau telah mendengarkan Aku."
   },
   {Bible:"John", Chapter:11, Verse:42, Page:1,
-    Kor:"아버지께서는 언제나 내 말을 들어주신다는 것을 압니다. 그런데도 이렇게 말씀을 드리는 것은, 둘러선 무리를 위해서입니다. 그들로 하여금 아버지께서 나를 보내신 것을 믿게 하려는 것입니다.\"",
+    Kor:"나는 아버지께서 언제나 내 말을 들어주시는 줄 압니다. 그런데도 이렇게 말씀을 드리는 것은, 둘러선 무리에게, 아버지께서 나를 보내신 것을 믿게 하려는 것입니다.\"",
     Chn:"我也知道你常听我，但我说这话是为周围站着的众人，叫他们信是你差了我来。」",
     Eng:"I knew that you always hear me, but I said this for the benefit of the people standing here, that they may believe that you sent me.\"",
     Ind:"Aku tahu, bahwa Engkau selalu mendengarkan Aku, tetapi oleh karena orang banyak yang berdiri di sini mengelilingi Aku, Aku mengatakannya, supaya mereka percaya, bahwa Engkaulah yang telah mengutus Aku.\""
   },
   {Bible:"John", Chapter:11, Verse:43, Page:1,
-    Kor:"이렇게 말씀하신 다음에, 큰 소리로 \"나사로야, 나오너라\" 하고 외치시니,",
+    Kor:"이렇게 말씀하신 뒤에, 큰소리로 \"나사로야, 나오너라\" 하고 외치시니,",
     Chn:"说了这话，就大声呼叫说：「拉撒路出来！」",
     Eng:"When he had said this, Jesus called in a loud voice, \"Lazarus, come out!\"",
     Ind:"Dan sesudah berkata demikian, berserulah Ia dengan suara keras: \"Lazarus, marilah ke luar!\""
@@ -267,25 +267,25 @@ BibleDB.add([
     Ind:"Orang yang telah mati itu datang ke luar, kaki dan tangannya masih terikat dengan kain kapan dan mukanya tertutup dengan kain peluh. Kata Yesus kepada mereka: \"Bukalah kain-kain itu dan biarkan ia pergi.\""
   },
   {Bible:"John", Chapter:11, Verse:45, Page:1,
-    Kor:"<예수를 죽이려는 음모(마 26:1-5; 막 14:1-2; 눅 22:1-2)> ○마리아에게 왔다가 예수께서 하신 일을 본 유대 사람들 가운데서 많은 사람이 예수를 믿게 되었다.",
+    Kor:"○마리아에게 왔다가 예수께서 하신 일을 본 유대 사람 가운데서, 많은 사람이 예수를 믿었다.",
     Chn:"那些来看马利亚的犹太人见了耶稣所做的事，就多有信他的；",
     Eng:"Therefore many of the Jews who had come to visit Mary, and had seen what Jesus did, put their faith in him.",
     Ind:"Banyak di antara orang-orang Yahudi yang datang melawat Maria dan yang menyaksikan sendiri apa yang telah dibuat Yesus, percaya kepada-Nya."
   },
   {Bible:"John", Chapter:11, Verse:46, Page:1,
-    Kor:"그러나 그 가운데 몇몇 사람은 바리새파 사람들에게 가서, 예수가 하신 일을 그들에게 알렸다.",
+    Kor:"그러나 그 가운데 몇몇 사람은 바리새파 사람들에게 가서, 예수께서 하신 일을 알렸다.",
     Chn:"但其中也有去见法利赛人的，将耶稣所做的事告诉他们。",
     Eng:"But some of them went to the Pharisees and told them what Jesus had done.",
     Ind:"Tetapi ada yang pergi kepada orang-orang Farisi dan menceriterakan kepada mereka, apa yang telah dibuat Yesus itu."
   },
   {Bible:"John", Chapter:11, Verse:47, Page:1,
-    Kor:"그래서 대제사장들과 바리새파 사람들은 공의회를 소집하여 말하였다. \"이 사람이 e표징을 많이 행하고 있으니, 어떻게 하면 좋겠습니까?(e 예수의 신성을 보여주기 위한 상징으로서의 기적(그리스어 세메이온))",
+    Kor:"그래서 대제사장들과 바리새파 사람들은 의회를 소집하여 말하였다. \"이 사람이 표적을 많이 나타내고 있으니, 어떻게 하면 좋겠습니까?",
     Chn:"祭司长和法利赛人聚集公会，说：「这人行好些神迹，我们怎么办呢？",
     Eng:"Then the chief priests and the Pharisees called a meeting of the Sanhedrin. \"What are we accomplishing?\" they asked. \"Here is this man performing many miraculous signs.",
     Ind:"Lalu imam-imam kepala dan orang-orang Farisi memanggil Mahkamah Agama untuk berkumpul dan mereka berkata: \"Apakah yang harus kita buat? Sebab orang itu membuat banyak mujizat."
   },
   {Bible:"John", Chapter:11, Verse:48, Page:1,
-    Kor:"이 사람을 그대로 두면 모두 그를 믿게 될 것이요, 그렇게 되면 로마 사람들이 와서 우리의 f땅과 민족을 약탈할 것입니다.\"(f 또는 '성전')",
+    Kor:"이 사람을 그대로 두면, 모두 그를 믿을 것이요, 그렇게 되면 로마 사람들이 와서, 우리의 땅과 민족을 빼앗아 갈 것입니다.\"",
     Chn:"若这样由着他，人人都要信他，罗马人也要来夺我们的地土和我们的百姓。」",
     Eng:"If we let him go on like this, everyone will believe in him, and then the Romans will come and take away both our place and our nation.\"",
     Ind:"Apabila kita biarkan Dia, maka semua orang akan percaya kepada-Nya dan orang-orang Roma akan datang dan akan merampas tempat suci kita serta bangsa kita.\""
@@ -297,43 +297,43 @@ BibleDB.add([
     Ind:"Tetapi seorang di antara mereka, yaitu Kayafas, Imam Besar pada tahun itu, berkata kepada mereka: \"Kamu tidak tahu apa-apa,"
   },
   {Bible:"John", Chapter:11, Verse:50, Page:1,
-    Kor:"한 사람이 백성을 위하여 죽어서 민족 전체가 망하지 않는 것이, 당신들에게 유익하다는 것을 생각하지 못하고 있소.\"",
+    Kor:"한 사람이 백성을 대신하여 죽어서, 민족 전체가 망하지 않는 것이, 당신들에게 유익하다는 것을 생각하지 못하고 있소.\"",
     Chn:"独不想一个人替百姓死，免得通国灭亡，就是你们的益处。」",
     Eng:"You do not realize that it is better for you that one man die for the people than that the whole nation perish.\"",
     Ind:"dan kamu tidak insaf, bahwa lebih berguna bagimu, jika satu orang mati untuk bangsa kita dari pada seluruh bangsa kita ini binasa.\""
   },
   {Bible:"John", Chapter:11, Verse:51, Page:1,
-    Kor:"이 말은, 가야바가 자기 생각으로 한 것이 아니라, 그 해의 대제사장으로서, 예수가 민족을 위하여 죽으실 것을 예언한 것이니,",
+    Kor:"이 말은 가야바가 자기 생각으로 한 것이 아니라, 그 해의 대제사장으로서, 예수가 민족을 위하여 죽으실 것을 예언한 것이니,",
     Chn:"他这话不是出于自己，是因他本年作大祭司，所以预言耶稣将要替这一国死；",
     Eng:"He did not say this on his own, but as high priest that year he prophesied that Jesus would die for the Jewish nation,",
     Ind:"Hal itu dikatakannya bukan dari dirinya sendiri, tetapi sebagai Imam Besar pada tahun itu ia bernubuat, bahwa Yesus akan mati untuk bangsa itu,"
   },
   {Bible:"John", Chapter:11, Verse:52, Page:1,
-    Kor:"민족을 위할 뿐만 아니라, 흩어져 있는 하나님의 자녀를 한데 모아서 하나가 되게 하기 위하여 죽으실 것을 예언한 것이다.",
+    Kor:"민족을 위할 뿐만 아니라 흩어져 있는 하나님의 자녀를 한데 모아서 하나가 되게 하기 위하여 죽으실 것을 예언한 것이다.",
     Chn:"也不但替这一国死，并要将　神四散的子民都聚集归一。",
     Eng:"and not only for that nation but also for the scattered children of God, to bring them together and make them one.",
     Ind:"dan bukan untuk bangsa itu saja, tetapi juga untuk mengumpulkan dan mempersatukan anak-anak Allah yang tercerai-berai."
   },
   {Bible:"John", Chapter:11, Verse:53, Page:1,
-    Kor:"그들은 그 날로부터 예수를 죽이려고 모의하였다.",
+    Kor:"그들은 그 날부터 예수를 죽이려고 모의하였다.",
     Chn:"从那日起，他们就商议要杀耶稣",
     Eng:"So from that day on they plotted to take his life.",
     Ind:"Mulai dari hari itu mereka sepakat untuk membunuh Dia."
   },
   {Bible:"John", Chapter:11, Verse:54, Page:1,
-    Kor:"○그래서 예수께서는 유대 사람들 가운데로 더 이상 드러나게 다니지 아니하시고, 거기에서 떠나, 광야에서 가까운 지방 에브라임이라는 마을로 가서, 제자들과 함께 지내셨다.",
+    Kor:"○그래서 예수께서는 유대 사람들 가운데로 더 이상 드러나게 다니지 않으시고, 거기를 떠나, 광야에서 가까운 지방 에브라임이라는 고을로 가서, 제자들과 함께 지내셨다.",
     Chn:"所以，耶稣不再显然行在犹太人中间，就离开那里往靠近旷野的地方去，到了一座城，名叫以法莲，就在那里和门徒同住。",
     Eng:"Therefore Jesus no longer moved about publicly among the Jews. Instead he withdrew to a region near the desert, to a village called Ephraim, where he stayed with his disciples.",
     Ind:"Karena itu Yesus tidak tampil lagi di muka umum di antara orang-orang Yahudi, Ia berangkat dari situ ke daerah dekat padang gurun, ke sebuah kota yang bernama Efraim, dan di situ Ia tinggal bersama-sama murid-murid-Nya."
   },
   {Bible:"John", Chapter:11, Verse:55, Page:1,
-    Kor:"○유대 사람들의 g유월절이 가까이 다가오니, 많은 사람이 자기의 몸을 성결하게 하려고, g유월절 전에 시골에서 예루살렘으로 올라왔다.(g 출 12:13, 21-28을 볼 것)",
+    Kor:"○유대 사람의 유월절이 가까이 다가오니, 많은 사람이 자기의 몸을 성결하게 하려고, 유월절 전에 시골에서 예루살렘으로 올라갔다.",
     Chn:"犹太人的逾越节近了，有许多人从乡下上耶路撒冷去，要在节前洁净自己。",
     Eng:"When it was almost time for the Jewish Passover, many went up from the country to Jerusalem for their ceremonial cleansing before the Passover.",
     Ind:"Pada waktu itu hari raya Paskah orang Yahudi sudah dekat dan banyak orang dari negeri itu berangkat ke Yerusalem untuk menyucikan diri sebelum Paskah itu."
   },
   {Bible:"John", Chapter:11, Verse:56, Page:1,
-    Kor:"그들은 예수를 찾다가, 성전 뜰에 서서 서로 말하였다. \"당신들은 어떻게 생각합니까? 그가 명절을 지키러 오지 않겠습니까?\"",
+    Kor:"그들은 예수를 찾다가, 성전 안에 서서 서로 말하였다. \"당신들은 어떻게 생각합니까? 그가 명절을 지키러 오지 않겠습니까?\"",
     Chn:"他们就寻找耶稣，站在殿里彼此说：「你们的意思如何，他不来过节吗？」",
     Eng:"They kept looking for Jesus, and as they stood in the temple area they asked one another, \"What do you think? Isn't he coming to the Feast at all?\"",
     Ind:"Mereka mencari Yesus dan sambil berdiri di dalam Bait Allah, mereka berkata seorang kepada yang lain: \"Bagaimana pendapatmu? Akan datang jugakah Ia ke pesta?\""

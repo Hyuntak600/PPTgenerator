@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",4,22);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:4, Verse:1, Page:1,
-    Kor:"사무엘이 말을 하면, 온 이스라엘이 귀를 기울여 들었다. <언약궤를 빼앗기다> ○그 무렵에 블레셋 사람이 이스라엘을 치려고 모여들었다. 이스라엘 사람은 블레셋 사람과 싸우려고 나가서 에벤에셀에 진을 쳤고, 블레셋 사람은 아벡에 진을 쳤다.",
+    Kor:"사무엘이 말을 하면, 온 이스라엘이 귀를 기울여 들었다. ○그 무렵에 블레셋 사람이 이스라엘을 치려고 모여들었다. 이스라엘 사람은 블레셋 사람과 싸우려고 나가서 에벤에셀에 진을 쳤고, 블레셋 사람은 아벡에 진을 쳤다.",
     Chn:"以色列人出去与非利士人打仗，安营在以便以谢；非利士人安营在亚弗。",
     Eng:"And Samuel's word came to all Israel. Now the Israelites went out to fight against the Philistines. The Israelites camped at Ebenezer, and the Philistines at Aphek.",
     Ind:"Dan perkataan Samuel sampai ke seluruh Israel. (4-1b) Orang Israel maju berperang melawan orang Filistin dan berkemah dekat Eben-Haezer, sedang orang Filistin berkemah di Afek."
@@ -15,25 +15,25 @@ BibleDB.add([
     Ind:"Orang Filistin mengatur barisannya berhadapan dengan orang Israel. Ketika pertempuran menghebat, terpukullah kalah orang Israel oleh orang Filistin, yang menewaskan kira-kira empat ribu orang di medan pertempuran itu."
   },
   {Bible:"1Samuel", Chapter:4, Verse:3, Page:1,
-    Kor:"이스라엘의 패잔병들이 진으로 돌아왔을 때에, 장로들이 말하였다. \"주님께서 오늘 우리가 블레셋 사람에게 지도록 하신 까닭이 무엇이겠느냐? 실로에 가서 주님의 언약궤를 우리에게로 모셔다가 우리 한가운데에 있게 하여, 우리를 원수의 손에서 구하여 주시도록 하자!\"",
+    Kor:"이스라엘의 패잔병들이 진으로 돌아왔을 때에, 장로들이 말하였다. \"주께서 오늘 우리가 블레셋 사람에게 지도록 하신 까닭이 무엇이겠느냐? 실로에 가서 주의 언약궤를 우리에게로 모셔다가 우리 한가운데에 있게 하여, 우리를 원수의 손에서 구하여 주시도록 하자!\"",
     Chn:"百姓回到营里，以色列的长老说：「耶和华今日为何使我们败在非利士人面前呢？我们不如将耶和华的约柜从示罗抬到我们这里来，好在我们中间救我们脱离敌人的手。」",
     Eng:"When the soldiers returned to camp, the elders of Israel asked, \"Why did the LORD bring defeat upon us today before the Philistines? Let us bring the ark of the LORD'S covenant from Shiloh, so that it may go with us and save us from the hand of our enemies.\"",
     Ind:"Ketika tentara itu kembali ke perkemahan, berkatalah para tua-tua Israel: \"Mengapa TUHAN membuat kita terpukul kalah oleh orang Filistin pada hari ini? Marilah kita mengambil dari Silo tabut perjanjian TUHAN, supaya Ia datang ke tengah-tengah kita dan melepaskan kita dari tangan musuh kita.\""
   },
   {Bible:"1Samuel", Chapter:4, Verse:4, Page:1,
-    Kor:"그래서 이스라엘 백성이 실로로 사람들을 보냈다. 그들이 거기 그룹들 사이에 앉아 계시는 만군의 주님의 언약궤를 메고 왔다. 하나님의 언약궤를 가져올 때에 엘리의 두 아들 홉니와 비느하스도 함께 왔다.",
+    Kor:"그래서 이스라엘 백성이 실로로 사람들을 보냈다. 그들이 거기 그룹들 사이에 앉아 계시는 만군의 주의 언약궤를 메고 왔다. 하나님의 언약궤를 가져올 때에 엘리의 두 아들 홉니와 비느하스도 함께 왔다.",
     Chn:"于是百姓打发人到示罗，从那里将坐在二基路伯上万军之耶和华的约柜抬来。以利的两个儿子何弗尼、非尼哈与　神的约柜同来。",
     Eng:"So the people sent men to Shiloh, and they brought back the ark of the covenant of the LORD Almighty, who is enthroned between the cherubim. And Eli's two sons, Hophni and Phinehas, were there with the ark of the covenant of God.",
     Ind:"Kemudian bangsa itu menyuruh orang ke Silo, lalu mereka mengangkat dari sana tabut perjanjian TUHAN semesta alam, yang bersemayam di atas para kerub; kedua anak Eli, Hofni dan Pinehas, ada di sana dekat tabut perjanjian Allah itu."
   },
   {Bible:"1Samuel", Chapter:4, Verse:5, Page:1,
-    Kor:"○주님의 언약궤가 진으로 들어올 때에 모든 이스라엘 백성이 땅이 진동할 정도로 크게 환호성을 올렸다.",
+    Kor:"○주의 언약궤가 진으로 들어올 때에 모든 이스라엘 백성이 땅이 진동할 정도로 크게 환호성을 올렸다.",
     Chn:"耶和华的约柜到了营中，以色列众人就大声欢呼，地便震动。",
     Eng:"When the ark of the LORD'S covenant came into the camp, all Israel raised such a great shout that the ground shook.",
     Ind:"Segera sesudah tabut perjanjian TUHAN sampai ke perkemahan, bersoraklah seluruh orang Israel dengan nyaring, sehingga bumi bergetar."
   },
   {Bible:"1Samuel", Chapter:4, Verse:6, Page:1,
-    Kor:"블레셋 사람이 그 환호하는 소리를 듣고 \"저 히브리 사람의 진에서 저렇게 환호하는 소리가 들리는 까닭이 무엇이냐?\" 하고 묻다가, 주님의 궤가 진에 들어갔기 때문이라는 것을 알았다.",
+    Kor:"블레셋 사람이 그 환호하는 소리를 듣고 \"저 히브리 사람의 진에서 저렇게 환호하는 소리가 들리는 까닭이 무엇이냐?\" 하고 묻다가, 주의 궤가 진에 들어갔기 때문이라는 것을 알았다.",
     Chn:"非利士人听见欢呼的声音，就说：「在希伯来人营里大声欢呼，是什么缘故呢？」随后就知道耶和华的约柜到了营中。",
     Eng:"Hearing the uproar, the Philistines asked, \"What's all this shouting in the Hebrew camp?\" When they learned that the ark of the LORD had come into the camp,",
     Ind:"Dan orang Filistin yang mendengar bunyi sorak itu berkata: \"Apakah bunyi sorak yang nyaring di perkemahan orang Ibrani itu?\" Ketika diketahui mereka, bahwa tabut TUHAN telah sampai ke perkemahan itu,"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Lagipula tabut Allah dirampas dan kedua anak Eli, Hofni dan Pinehas, tewas."
   },
   {Bible:"1Samuel", Chapter:4, Verse:12, Page:1,
-    Kor:"<엘리가 죽다> ○어떤 베냐민 사람이 싸움터에서 빠져 나와, 그 날로 실로에 이르렀는데, 슬픈 나머지 옷을 찢고, 머리에는 티끌을 뒤집어쓰고 있었다.",
+    Kor:"○어떤 베냐민 사람이 싸움터에서 빠져 나와, 그 날로 실로에 이르렀는데, 슬픈 나머지 옷을 찢고, 머리에는 티끌을 뒤집어쓰고 있었다.",
     Chn:"当日，有一个便雅悯人从阵上逃跑，衣服撕裂，头蒙灰尘，来到示罗。",
     Eng:"That same day a Benjamite ran from the battle line and went to Shiloh, his clothes torn and dust on his head.",
     Ind:"Seorang dari suku Benyamin lari dari barisan pertempuran dan pada hari itu juga ia sampai ke Silo dengan pakaian terkoyak-koyak dan dengan tanah di kepalanya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Ketika disebutnya tabut Allah itu, jatuhlah Eli telentang dari kursi di sebelah pintu gerbang, batang lehernya patah dan ia mati. Sebab telah tua dan gemuk orangnya. Empat puluh tahun lamanya ia memerintah sebagai hakim atas orang Israel."
   },
   {Bible:"1Samuel", Chapter:4, Verse:19, Page:1,
-    Kor:"<비느하스의 아내가 죽다> ○그 때에 엘리의 며느리인 비느하스의 아내는 임신 중이었으며, 출산할 때가 가까웠는데, 하나님의 궤를 빼앗겼고 자기의 시아버지와 남편도 죽었다는 소식을 듣자, 갑자기 진통이 일어나, 구부리고 앉은 채 몸을 풀었다.",
+    Kor:"○그 때에 엘리의 며느리인 비느하스의 아내는 임신 중이었으며, 출산할 때가 가까웠는데, 하나님의 궤를 빼앗겼고 자기의 시아버지와 남편도 죽었다는 소식을 듣자, 갑자기 진통이 일어나, 구부리고 앉은 채 몸을 풀었다.",
     Chn:"以利的儿妇、非尼哈的妻怀孕将到产期，她听见　神的约柜被掳去，公公和丈夫都死了，就猛然疼痛，曲身生产；",
     Eng:"His daughter-in-law, the wife of Phinehas, was pregnant and near the time of delivery. When she heard the news that the ark of God had been captured and that her father-in-law and her husband were dead, she went into labor and gave birth, but was overcome by her labor pains.",
     Ind:"Adapun menantunya perempuan, isteri Pinehas, sudah hamil tua. Ketika didengarnya kabar itu, bahwa tabut Allah telah dirampas dan mertuanya laki-laki serta suaminya telah mati, duduklah ia berlutut, lalu bersalin, sebab ia kedatangan sakit beranak."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Ketika ia hampir mati, berkatalah perempuan-perempuan yang berdiri di dekatnya: \"Janganlah takut, sebab engkau telah melahirkan seorang anak laki-laki.\" Tetapi ia tidak menjawab dan tidak memperhatikannya."
   },
   {Bible:"1Samuel", Chapter:4, Verse:21, Page:1,
-    Kor:"그 아이의 이름을 a이가봇이라고 지어 주며, \"이스라엘에서 영광이 떠났다\" 하는 말만을 남겼다. 하나님의 궤를 빼앗긴 데다가, 시아버지도 죽고 남편도 죽었기 때문이었다.(a '영광이 없음')",
+    Kor:"그 아이의 이름을 이가봇이라고 지어 주며, \"이스라엘에서 영광이 떠났다\" 하는 말만을 남겼다. 하나님의 궤를 빼앗긴 데다가, 시아버지도 죽고 남편도 죽었기 때문이었다.",
     Chn:"她给孩子起名叫以迦博，说：「荣耀离开以色列了！」这是因　神的约柜被掳去，又因她公公和丈夫都死了。",
     Eng:"She named the boy Ichabod, saying, \"The glory has departed from Israel\"--because of the capture of the ark of God and the deaths of her father-in-law and her husband.",
     Ind:"Ia menamai anak itu Ikabod, katanya: \"Telah lenyap kemuliaan dari Israel\" --karena tabut Allah sudah dirampas dan karena mertuanya dan suaminya."

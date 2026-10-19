@@ -3,19 +3,19 @@
 BibleDB.ref("Psalms",113,9);
 BibleDB.add([
   {Bible:"Psalms", Chapter:113, Verse:1, Page:1,
-    Kor:"<주님께서 어려움 당하는 이들을 도우신다> a할렐루야. 주님의 종들아, 찬양하여라. 주님의 이름을 찬양하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 주의 종들아, 찬양하여라. 주의 이름을 찬양하여라.",
     Chn:"你们要赞美耶和华！ 耶和华的仆人哪，你们要赞美， 赞美耶和华的名！",
     Eng:"Praise the LORD. Praise, O servants of the LORD, praise the name of the LORD.",
     Ind:"Haleluya! Pujilah, hai hamba-hamba TUHAN, pujilah nama TUHAN!"
   },
   {Bible:"Psalms", Chapter:113, Verse:2, Page:1,
-    Kor:"지금부터 영원까지, 주님의 이름이 찬양을 받을 것이다.",
+    Kor:"지금부터 영원까지, 주의 이름이 찬양을 받을 것이다.",
     Chn:"耶和华的名是应当称颂的， 从今时直到永远！",
     Eng:"Let the name of the LORD be praised, both now and forevermore.",
     Ind:"Kiranya nama TUHAN dimasyhurkan, sekarang ini dan selama-lamanya."
   },
   {Bible:"Psalms", Chapter:113, Verse:3, Page:1,
-    Kor:"해 뜨는 데서부터 해 지는 데까지, 주님의 이름이 찬양을 받을 것이다.",
+    Kor:"해 뜨는 데서부터 해 지는 데까지, 주의 이름이 찬양을 받을 것이다.",
     Chn:"从日出之地到日落之处， 耶和华的名是应当赞美的！",
     Eng:"From the rising of the sun to the place where it sets, the name of the LORD is to be praised.",
     Ind:"Dari terbitnya sampai kepada terbenamnya matahari terpujilah nama TUHAN."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"untuk mendudukkan dia bersama-sama dengan para bangsawan, bersama-sama dengan para bangsawan bangsanya."
   },
   {Bible:"Psalms", Chapter:113, Verse:9, Page:1,
-    Kor:"아이를 낳지 못하는 여인조차도 한 집에서 떳떳하게 살게 하시며, 많은 아이들을 거느리고 즐거워하는 어머니가 되게 하신다. a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"아이를 낳지 못하는 그 여인에게도 한 집에서 떳떳하게 살게 하시며, 많은 아이들을 거느리고 즐거워하는 어머니가 되게 하신다. 할렐루야.",
     Chn:"他使不能生育的妇人安居家中， 为多子的乐母。 你们要赞美耶和华！",
     Eng:"He settles the barren woman in her home as a happy mother of children. Praise the LORD.",
     Ind:"Ia mendudukkan perempuan yang mandul di rumah sebagai ibu anak-anak, penuh sukacita. Haleluya!"

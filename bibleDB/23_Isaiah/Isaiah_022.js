@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",22,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:22, Verse:1, Page:1,
-    Kor:"<예루살렘에 대한 경고> 이것은 '환상 골짜기'를 두고 하신 엄한 경고의 말씀이다.  너희가 무슨 변을 당하였기에, 모두 지붕에 올라가 있느냐?",
+    Kor:"이것은 '환상 골짜기'를 두고 하신 엄한 경고의 말씀이다. 너희가 무슨 변을 당하였기에, 모두 지붕에 올라가 있느냐?",
     Chn:"论异象谷的默示： 有什么事使你这满城的人都上房顶呢？",
     Eng:"An oracle concerning the Valley of Vision: What troubles you now, that you have all gone up on the roofs,",
     Ind:"Ucapan ilahi terhadap \"lembah penglihatan\". Ada apa gerangan, maka semua pendudukmu naik ke sotoh-sotoh rumah,"
   },
   {Bible:"Isaiah", Chapter:22, Verse:2, Page:1,
-    Kor:"폭동으로 가득 찬 성읍, 시끄러움과 소동으로 가득 찬 도성아, 이번 전쟁에 죽은 사람들은 칼을 맞아 죽은 것도 아니고, 싸우다가 죽은 것도 아니다.",
+    Kor:"폭동으로 가득 찬 성읍, 법석과 소동으로 가득 찬 도성아, 이번 전쟁에 죽은 사람들은 칼을 맞아 죽은 것도 아니고, 싸우다가 죽은 것도 아니다.",
     Chn:"你这满处呐喊、大有喧哗的城， 欢乐的邑啊， 你中间被杀的并不是被刀杀， 也不是因打仗死亡。",
     Eng:"O town full of commotion, O city of tumult and revelry? Your slain were not killed by the sword, nor did they die in battle.",
     Ind:"hai kota yang bersorak riuh dan ribut gembira, hai negeri yang beria-ria? Orang-orangmu yang mati terbunuh bukanlah terbunuh oleh pedang, dan bukanlah gugur dalam peperangan."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Semua panglimamu sama-sama melarikan diri, mereka tertawan tanpa tembakan panah; semua orang-orang kuatmu sama-sama tertawan, biarpun mereka sudah lari jauh-jauh."
   },
   {Bible:"Isaiah", Chapter:22, Verse:4, Page:1,
-    Kor:"그러므로 내가 통곡한다. 다들 비켜라! 혼자서 통곡할 터이니, 나를 내버려 두어라! 내 딸 내 백성이 망하였다고, 나를 위로하려고 애쓰지 말아라.",
+    Kor:"그러므로, 내가 통곡한다. 다들 비켜라! 혼자서 통곡할 터이니, 나를 내버려 두어라! 내 딸 백성의 도성이 망하였다고, 나를 위로하려고 애쓰지 말아라.",
     Chn:"所以我说：你们转眼不看我， 我要痛哭。 不要因我众民的毁灭， 就竭力安慰我。",
     Eng:"Therefore I said, \"Turn away from me; let me weep bitterly. Do not try to console me over the destruction of my people.\"",
     Ind:"Sebab itu aku berkata: \"Buanglah mukamu terhadap aku, biarkanlah aku menangis dalam kepahitan; janganlah mendesak aku, supaya aku terhibur mengenai kebinasaan puteri bangsaku.\""
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"tetapi lihat, di tengah-tengah mereka ada kegirangan dan sukacita, membantai lembu dan menyembelih domba, makan daging dan minum anggur, sambil berseru: \"Marilah kita makan dan minum, sebab besok kita mati!\""
   },
   {Bible:"Isaiah", Chapter:22, Verse:14, Page:1,
-    Kor:"그래서 만군의 주님께서 나의 귀에 대고 말씀하셨다. \"이 죄는 너희가 죽기까지 용서받지 못한다.\" 주 만군의 하나님께서 이렇게 말씀하셨다.",
+    Kor:"그래서 만군의 주께서 나의 귀에 대고 말씀하셨다. \"이 죄는 너희가 죽기까지 용서받지 못한다.\" 주 만군의 하나님께서 그렇게 말씀하셨다.",
     Chn:"万军之耶和华亲自默示我说： 这罪孽直到你们死，断不得赦免！ 这是主—万军之耶和华说的。",
     Eng:"The LORD Almighty has revealed this in my hearing: \"Till your dying day this sin will not be atoned for,\" says the Lord, the LORD Almighty.",
     Ind:"Tetapi TUHAN semesta alam menyatakan diri dan berfirman kepadaku: \"Sungguh, kesalahanmu ini tidak akan diampuni, sampai kamu mati,\" firman Tuhan, TUHAN semesta alam."
   },
   {Bible:"Isaiah", Chapter:22, Verse:15, Page:1,
-    Kor:"<셉나에게 경고하시다> 주 만군의 하나님께서 이렇게 말씀하신다. \"너는 궁중의 일을 책임진 총책임자 셉나에게 가서, 나의 말을 전하여라.",
+    Kor:"주 만군의 하나님께서 말씀하신다. \"너는 궁중의 일을 책임진 총책임자 셉나에게 가서, 나의 말을 전하여라.",
     Chn:"主—万军之耶和华这样说：「你去见掌银库的，就是家宰舍伯那，对他说：",
     Eng:"This is what the Lord, the LORD Almighty, says: \"Go, say to this steward, to Shebna, who is in charge of the palace:",
     Ind:"Beginilah firman Tuhan, TUHAN semesta alam: \"Mari, pergilah kepada kepala istana ini, kepada Sebna yang mengurus istana, dan katakan:"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Ada apamu dan siapamu di sini, maka engkau menggali kubur bagimu di sini, hai yang menggali kuburnya di tempat tinggi, yang memahat kediaman baginya di bukit batu?"
   },
   {Bible:"Isaiah", Chapter:22, Verse:17, Page:1,
-    Kor:"그렇다! 너는 권세가 있는 자다. 그러나 주님께서 너를 단단히 묶어서 너를 세차게 내던지신다.",
+    Kor:"그렇다. 너는 권세가 있는 자다. 그러나 주께서 너를 단단히 묶어서 너를 세차게 내던지신다.",
     Chn:"看哪，耶和华必像大有力的人，将你紧紧缠裹，竭力抛去。",
     Eng:"\"Beware, the LORD is about to take firm hold of you and hurl you away, O you mighty man.",
     Ind:"Sesungguhnya, TUHAN akan melontarkan engkau jauh-jauh, hai orang! Ia akan memegang engkau dengan kuat-kuat"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Aku akan melemparkan engkau dari jabatanmu, dan dari pangkatmu engkau akan dijatuhkan."
   },
   {Bible:"Isaiah", Chapter:22, Verse:20, Page:1,
-    Kor:"○그 날이 오면, 내가 힐기야의 아들인 나의 종 엘리야김을 불러서,",
+    Kor:"○그 날이 오면, 내가 힐기야의 아들인 나의 종 엘리아김을 불러서,",
     Chn:"「到那日，我必召我仆人希勒家的儿子以利亚敬来，",
     Eng:"\"In that day I will summon my servant, Eliakim son of Hilkiah.",
     Ind:"Maka pada waktu itu Aku akan memanggil hamba-Ku, Elyakim bin Hilkia:"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Aku akan menaruh kunci rumah Daud ke atas bahunya: apabila ia membuka, tidak ada yang dapat menutup; apabila ia menutup, tidak ada yang dapat membuka."
   },
   {Bible:"Isaiah", Chapter:22, Verse:23, Page:1,
-    Kor:"단단한 곳에 잘 박힌 못같이, 내가 그를 견고하게 하겠으니, a그가 가문의 영예를 빛낼 것이다.(a 히, '그가 그의 아버지 집의 영광의 자리가 될 것이다')",
+    Kor:"단단한 곳에 잘 박힌 못같이, 내가 그를 견고하게 하겠으니, 그가 가문의 영예를 빛낼 것이다.",
     Chn:"我必将他安稳，像钉子钉在坚固处；他必作为他父家荣耀的宝座。",
     Eng:"I will drive him like a peg into a firm place; he will be a seat of honor for the house of his father.",
     Ind:"Aku akan memberikan dia kedudukan yang teguh seperti gantungan yang dipasang kuat-kuat pada tembok yang kokoh; maka ia akan menjadi kursi kemuliaan bagi kaum keluarganya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Dan padanya akan digantungkan segala tanggungan kaum keluarganya, tunas dan taruk, beserta segala perkakas yang kecil, dari piring pasu sampai periuk belanga."
   },
   {Bible:"Isaiah", Chapter:22, Verse:25, Page:1,
-    Kor:"○만군의 주님의 말씀이다. \"그 날이 오면, 단단한 곳에 잘 박힌 못이 삭아서 부러져 떨어질 것이니, 그 위에 걸어 둔 것들이 산산조각이 날 것이다.\" 이것은 주님께서 하신 말씀이다.",
+    Kor:"○만군의 주의 말씀이다. \"그 날이 오면, 단단한 곳에 잘 박힌 못이 삭아서 부러져 떨어질 것이니, 그 위에 걸어 둔 것들이 산산조각이 날 것이다.\" 이것은 주께서 하신 말이다.",
     Chn:"万军之耶和华说：当那日，钉在坚固处的钉子必压斜，被砍断落地；挂在其上的重担必被剪断。因为这是耶和华说的。」",
     Eng:"\"In that day,\" declares the LORD Almighty, \"the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down.\" The LORD has spoken.",
     Ind:"Maka pada waktu itu, demikianlah firman TUHAN semesta alam, gantungan yang dipasang kuat-kuat pada tempat yang kokoh itu tidak akan kuat lagi, sehingga patah dan jatuh, dan segala tanggungannya itu hancur, sebab TUHAN telah mengatakannya.\""

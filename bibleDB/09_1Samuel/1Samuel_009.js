@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",9,27);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:9, Verse:1, Page:1,
-    Kor:"<사울이 사무엘을 만나다> 베냐민 지파에 기스라고 하는 유력한 사람이 있었다. 그의 아버지는 아비엘이고, 할아버지는 스롤이고, 그 윗대는 베고랏이고, 그 윗대는 아비아인데, 베냐민 사람이다.",
+    Kor:"베냐민 지파에 기스라고 하는 유력한 사람이 있었다. 그의 아버지는 아비엘이고, 할아버지는 스롤이고, 그 윗대는 베고랏이고, 그 윗대는 아비아인데, 베냐민 사람이다.",
     Chn:"有一个便雅悯人，名叫基士，是便雅悯人亚斐亚的玄孙，比歌拉的曾孙，洗罗的孙子，亚别的儿子，是个大能的勇士。",
     Eng:"There was a Benjamite, a man of standing, whose name was Kish son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah of Benjamin.",
     Ind:"Ada seorang dari daerah Benyamin, namanya Kish bin Abiel, bin Zeror, bin Bekhorat, bin Afiah, seorang suku Benyamin, seorang yang berada."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Maka naiklah mereka ke kota, dan ketika mereka masuk kota, Samuel yang berjalan keluar untuk naik ke bukit, berpapasan dengan mereka."
   },
   {Bible:"1Samuel", Chapter:9, Verse:15, Page:1,
-    Kor:"○사울이 오기 하루 전에 주님께서 사무엘에게 알리셨다.",
+    Kor:"○사울이 오기 하루 전에 주께서 사무엘에게 알리셨다.",
     Chn:"扫罗未到的前一日，耶和华已经指示撒母耳说：",
     Eng:"Now the day before Saul came, the LORD had revealed this to Samuel:",
     Ind:"Tetapi TUHAN telah menyatakan kepada Samuel, sehari sebelum kedatangan Saul, demikian:"
   },
   {Bible:"1Samuel", Chapter:9, Verse:16, Page:1,
-    Kor:"\"내일 이맘때에 내가 베냐민 땅에서 온 한 사람을 너에게 보낼 것이니, 너는 그에게 기름을 부어 나의 백성, 이스라엘의 영도자로 세워라. 그가 나의 백성을 블레셋 사람의 손에서 구해 낼 것이다. a나의 백성이 겪는 고난을 내가 보았고, 나의 백성이 살려 달라고 울부짖는 소리를 내가 들었다.\"(a 칠십인역을 따름. 히, '나의 백성을 보았고')",
+    Kor:"\"내일 이맘때에 내가 베냐민 땅에서 온 한 사람을 너에게 보낼 것이니, 너는 그에게 기름을 부어 나의 백성, 이스라엘의 영도자로 세워라. 그가 나의 백성을 블레셋 사람의 손에서 구해 낼 것이다. 나의 백성이 겪는 고난을 내가 보았고, 나의 백성이 살려 달라고 울부짖는 소리를 내가 들었다.\"",
     Chn:"「明日这时候，我必使一个人从便雅悯地到你这里来，你要膏他作我民以色列的君。他必救我民脱离非利士人的手；因我民的哀声上达于我，我就眷顾他们。」",
     Eng:"\"About this time tomorrow I will send you a man from the land of Benjamin. Anoint him leader over my people Israel; he will deliver my people from the hand of the Philistines. I have looked upon my people, for their cry has reached me.\"",
     Ind:"\"Besok kira-kira waktu ini Aku akan menyuruh kepadamu seorang laki-laki dari tanah Benyamin; engkau akan mengurapi dia menjadi raja atas umat-Ku Israel dan ia akan menyelamatkan umat-Ku dari tangan orang Filistin. Sebab Aku telah memperhatikan sengsara umat-Ku itu, karena teriakannya telah sampai kepada-Ku.\""
   },
   {Bible:"1Samuel", Chapter:9, Verse:17, Page:1,
-    Kor:"○사무엘이 사울을 보았을 때에, 주님께서 그에게 말씀하셨다. \"이 젊은이가, 내가 너에게 말한 바로 그 사람이다. 이 사람이 나의 백성을 다스릴 것이다.\"",
+    Kor:"○사무엘이 사울을 보았을 때에, 주께서 그에게 말씀하셨다. \"이 젊은이가, 내가 너에게 말한 바로 그 사람이다. 이 사람이 나의 백성을 다스릴 것이다.\"",
     Chn:"撒母耳看见扫罗的时候，耶和华对他说：「看哪，这人就是我对你所说的，他必治理我的民。」",
     Eng:"When Samuel caught sight of Saul, the LORD said to him, \"This is the man I spoke to you about; he will govern my people.\"",
     Ind:"Ketika Samuel melihat Saul, maka berfirmanlah TUHAN kepadanya: \"Inilah orang yang Kusebutkan kepadamu itu; orang ini akan memegang tampuk pemerintahan atas umat-Ku.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Dalam pada itu Saul, datang mendekati Samuel di tengah pintu gerbang dan berkata: \"Maaf, di mana rumah pelihat itu?\""
   },
   {Bible:"1Samuel", Chapter:9, Verse:19, Page:1,
-    Kor:"사무엘이 사울에게 대답하였다. \"바로 내가 그 선견자요. 앞장 서서 산당으로 올라가시지요. 두 분은 오늘 나와 함께 저녁을 듭시다. 물어 보시려는 것은, 내일 아침에 다 말씀드리겠습니다. 그리고 나서 두 분을 보내 드리겠습니다.",
+    Kor:"사무엘이 사울에게 대답하였다. \"바로 내가 그 선견자요. 앞장 서서 산당으로 올라가시지요. 두 분은, 오늘 나와 함께 저녁을 듭시다. 물어 보시려는 것은, 내일 아침에 다 말씀드리겠습니다. 그리고 나서 두 분을 보내 드리겠습니다.",
     Chn:"撒母耳回答说：「我就是先见。你在我前面上邱坛去，因为你们今日必与我同席；明日早晨我送你去，将你心里的事都告诉你。",
     Eng:"\"I am the seer,\" Samuel replied. \"Go up ahead of me to the high place, for today you are to eat with me, and in the morning I will let you go and will tell you all that is in your heart.",
     Ind:"Jawab Samuel kepada Saul, katanya: \"Akulah pelihat itu. Naiklah mendahului aku ke bukit. Hari ini kamu makan bersama-sama dengan daku; besok pagi aku membiarkan engkau pergi dan aku akan memberitahukan kepadamu segala sesuatu yang ada dalam hatimu."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"Lalu juru masak itu menghidangkan paha dan apa yang termasuk ke situ dan meletakkannya ke depan Saul. Dan Samuel berkata: \"Lihat, yang tinggal ini diletakkan ke depanmu; makanlah, sebab telah disimpan bagimu untuk perayaan ini, ketika aku berkata: Aku telah mengundang orang banyak.\" Demikianlah pada hari itu Saul makan bersama-sama dengan Samuel."
   },
   {Bible:"1Samuel", Chapter:9, Verse:25, Page:1,
-    Kor:"그들은 산당에서 내려와 성읍으로 들어갔다. b침실이 지붕에 준비되어 있었으므로, 사무엘과 c사울은 거기에서 누워서 잤다.(b 칠십인역을 따름. 히, '사무엘이 사울과 이야기를 하였다' c 칠십인역을 따름)",
+    Kor:"그들은 산당에서 내려와 성읍으로 들어갔다. 침실이 지붕에 준비되어 있었으므로, 사무엘과 사울은 거기에서 누워서 잤다.",
     Chn:"众人从邱坛下来进城，撒母耳和扫罗在房顶上说话。",
     Eng:"After they came down from the high place to the town, Samuel talked with Saul on the roof of his house.",
     Ind:"Sesudah itu turunlah mereka dari bukit ke kota. Dan Samuel bercakap-cakap dengan Saul di atas sotoh."
   },
   {Bible:"1Samuel", Chapter:9, Verse:26, Page:1,
-    Kor:"<사무엘이 사울을 지도자로 세우다> ○다음날 동틀 무렵에, 사무엘이 지붕에서 사울을 깨웠다. \"일어나십시오. 바래다 드리겠습니다.\" 사울이 일어나니, 사무엘은 사울과 함께 바깥으로 나갔다.",
+    Kor:"○다음날 동틀 무렵에, 사무엘이 지붕에서 사울을 깨웠다. \"일어나십시오. 바래다 드리겠습니다.\" 사울이 일어나니, 사무엘은 사울과 함께 바깥으로 나갔다.",
     Chn:"次日清早起来，黎明的时候，扫罗在房顶上。撒母耳呼叫他说：「起来吧，我好送你回去。」扫罗就起来，和撒母耳一同出去。",
     Eng:"They rose about daybreak and Samuel called to Saul on the roof, \"Get ready, and I will send you on your way.\" When Saul got ready, he and Samuel went outside together.",
     Ind:"Mereka bangun pagi-pagi, dan ketika fajar menyingsing, Samuel memanggil Saul yang ada di atas sotoh itu, katanya: \"Bangunlah, aku akan mengantarkan engkau.\" Lalu Saul bangun dan mereka keduanya pergi ke luar, yakni ia dan Samuel."

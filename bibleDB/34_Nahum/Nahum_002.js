@@ -3,19 +3,19 @@
 BibleDB.ref("Nahum",2,13);
 BibleDB.add([
   {Bible:"Nahum", Chapter:2, Verse:1, Page:1,
-    Kor:"<니느웨의 멸망> 침략군이 a너를 치러 올라왔다. 성을 지켜 보려무나. 길을 지켜 보려무나. 허리를 질끈 동이고 있는 힘을 다하여 막아 보려무나. (a 니느웨를 두고 말함)",
+    Kor:"침략군이 너를 치러 올라왔다. 성을 지켜 보려무나. 길을 지켜 보려무나. 허리를 질끈 동이고 있는 힘을 다하여 막아 보려무나.",
     Chn:"尼尼微啊，那打碎邦国的上来攻击你。 你要看守保障，谨防道路， 使腰强壮，大大勉力。 （",
     Eng:"An attacker advances against you, Nineveh. Guard the fortress, watch the road, brace yourselves, marshal all your strength!",
     Ind:"Pembongkar maju terhadap engkau; adakan penjagaan di benteng, mengintailah di jalan, ikatlah pinggangmu teguh-teguh, kumpulkanlah segala kekuatan!"
   },
   {Bible:"Nahum", Chapter:2, Verse:2, Page:1,
-    Kor:"(약탈자들이 야곱과 이스라엘을 약탈하고, 포도나무 가지를 없애 버렸지만, 주님께서 야곱의 영광을 회복시키시며, 이스라엘의 영광을 회복시키실 것이다.)",
+    Kor:"(약탈자들이 야곱과 이스라엘을 약탈하고, 포도나무 가지를 없애 버렸지만, 주께서 야곱의 영광을 회복시키시며, 이스라엘의 영광을 회복시키실 것이다.)",
     Chn:"耶和华复兴雅各的荣华， 好像以色列的荣华一样； 因为使地空虚的， 已经使雅各和以色列空虚， 将他们的葡萄枝毁坏了。）",
     Eng:"The LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and have ruined their vines.",
     Ind:"Sungguh, TUHAN memulihkan kebanggaan Yakub, seperti kebanggaan Israel; sebab perusak telah merusakkannya dan telah membinasakan carang-carangnya."
   },
   {Bible:"Nahum", Chapter:2, Verse:3, Page:1,
-    Kor:"적군들은 붉은 방패를 들고, 자주색 군복을 입었다. 병거가 대열을 지어 올 때에 그 철갑이 불꽃처럼 번쩍이고, b노송나무 창이 물결 친다. (b 칠십인역과 시리아어역에는 '기마병이 질주해 온다')",
+    Kor:"적군들은 붉은 방패를 들고, 자주색 군복을 입었다. 병거가 대열을 지어 올 때에 그 철갑이 불꽃처럼 번쩍이고, 노송나무 창이 물결 친다.",
     Chn:"他勇士的盾牌是红的， 精兵都穿朱红衣服。 在他预备争战的日子， 战车上的钢铁闪烁如火， 柏木把的枪也抡起来了。",
     Eng:"The shields of his soldiers are red; the warriors are clad in scarlet. The metal on the chariots flashes on the day they are made ready; the spears of pine are brandished.",
     Ind:"Perisai para pahlawannya berwarna merah, prajuritnya berpakaian kirmizi; kereta berkilat-kilat seperti api suluh pada hari ia melengkapinya, dan kuda-kuda penuh gelisah."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Pintu-pintu di sungai-sungai telah dibuka, dan istana menjadi gempar."
   },
   {Bible:"Nahum", Chapter:2, Verse:7, Page:1,
-    Kor:"c왕후가 벌거벗은 몸으로 끌려가고, 시녀들이 비둘기처럼 구슬피 울면서 가슴을 치는 것은 정해진 일이다. (c 또는 '도성(사람들)이 모두 포로로 잡혀 가고')",
+    Kor:"왕후가 벌거벗은 몸으로 끌려가고, 시녀들이 비둘기처럼 구슬피 울면서 가슴을 치는 것은 정해진 일이다.",
     Chn:"王后蒙羞，被人掳去； 宫女捶胸，哀鸣如鸽。 此乃命定之事。",
     Eng:"It is decreed that the city be exiled and carried away. Its slave girls moan like doves and beat upon their breasts.",
     Ind:"Permaisuri dibawa ke luar dan ditelanjangi dan dayang-dayangnya mengerang, mengaduh seperti suara merpati sambil memukul-mukul dada."

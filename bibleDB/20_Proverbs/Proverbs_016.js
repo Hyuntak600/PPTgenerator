@@ -3,31 +3,31 @@
 BibleDB.ref("Proverbs",16,33);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:16, Verse:1, Page:1,
-    Kor:"<주님께서 결정하신다> 계획은 사람이 세우지만, 결정은 주님께서 하신다.",
+    Kor:"계획은 사람이 세우지만, 결정은 주께서 하신다.",
     Chn:"心中的谋算在乎人； 舌头的应对由于耶和华。",
     Eng:"To man belong the plans of the heart, but from the LORD comes the reply of the tongue.",
     Ind:"Manusia dapat menimbang-nimbang dalam hati, tetapi jawaban lidah berasal dari pada TUHAN."
   },
   {Bible:"Proverbs", Chapter:16, Verse:2, Page:1,
-    Kor:"사람의 행위는 자기 눈에는 모두 깨끗하게 보이나, 주님께서는 속마음을 꿰뚫어 보신다.",
+    Kor:"사람의 행위는 자기 눈에는 모두 깨끗하게 보이나, 주께서는 속마음을 꿰뚫어 보신다.",
     Chn:"人一切所行的，在自己眼中看为清洁； 惟有耶和华衡量人心。",
     Eng:"All a man's ways seem innocent to him, but motives are weighed by the LORD.",
     Ind:"Segala jalan orang adalah bersih menurut pandangannya sendiri, tetapi Tuhanlah yang menguji hati."
   },
   {Bible:"Proverbs", Chapter:16, Verse:3, Page:1,
-    Kor:"네가 하는 일을 주님께 맡기면, 계획하는 일이 이루어질 것이다.",
+    Kor:"네가 하는 일을 주께 맡기면, 계획하는 일이 이루어질 것이다.",
     Chn:"你所做的，要交托耶和华， 你所谋的，就必成立。",
     Eng:"Commit to the LORD whatever you do, and your plans will succeed.",
     Ind:"Serahkanlah perbuatanmu kepada TUHAN, maka terlaksanalah segala rencanamu."
   },
   {Bible:"Proverbs", Chapter:16, Verse:4, Page:1,
-    Kor:"주님께서는 모든 것을 그 쓰임에 알맞게 만드셨으니, 악인은 재앙의 날에 쓰일 것이다.",
+    Kor:"주께서는 모든 것을 그 쓰임에 알맞게 만드셨으니, 악인은 재앙의 날에 쓰일 것이다.",
     Chn:"耶和华所造的，各适其用； 就是恶人也为祸患的日子所造。",
     Eng:"The LORD works out everything for his own ends--even the wicked for a day of disaster.",
     Ind:"TUHAN membuat segala sesuatu untuk tujuannya masing-masing, bahkan orang fasik dibuat-Nya untuk hari malapetaka."
   },
   {Bible:"Proverbs", Chapter:16, Verse:5, Page:1,
-    Kor:"주님께서는 마음이 거만한 모든 사람을 역겨워하시니, 그들은 틀림없이 벌을 받을 것이다.",
+    Kor:"주께서는 마음이 거만한 모든 사람을 역겨워하시니, 그들은 틀림없이 벌을 받을 것이다.",
     Chn:"凡心里骄傲的，为耶和华所憎恶； 虽然连手，他必不免受罚。",
     Eng:"The LORD detests all the proud of heart. Be sure of this: They will not go unpunished.",
     Ind:"Setiap orang yang tinggi hati adalah kekejian bagi TUHAN; sungguh, ia tidak akan luput dari hukuman."
@@ -117,25 +117,25 @@ BibleDB.add([
     Ind:"Lebih baik merendahkan diri dengan orang yang rendah hati dari pada membagi rampasan dengan orang congkak."
   },
   {Bible:"Proverbs", Chapter:16, Verse:20, Page:1,
-    Kor:"말씀에 따라 조심하며 사는 사람은 일이 잘 되고, 주님을 믿는 사람은 행복하다.",
+    Kor:"말씀에 따라 조심하며 사는 사람은 일이 잘 되고, 주를 믿는 사람은 행복하다.",
     Chn:"谨守训言的，必得好处； 倚靠耶和华的，便为有福。",
     Eng:"Whoever gives heed to instruction prospers, and blessed is he who trusts in the LORD.",
     Ind:"Siapa memperhatikan firman akan mendapat kebaikan, dan berbahagialah orang yang percaya kepada TUHAN."
   },
   {Bible:"Proverbs", Chapter:16, Verse:21, Page:1,
-    Kor:"마음이 지혜로운 사람을 명철하다 한다. a말이 부드러우면, 더욱 많은 지혜를 가르친다. (a 또는 '부드러운 말은 사람을 설득시킨다')",
+    Kor:"마음이 지혜로운 사람을 명철하다 한다. 말이 부드러우면, 더욱 많은 지혜를 가르친다.",
     Chn:"心中有智慧，必称为通达人； 嘴中的甜言，加增人的学问。",
     Eng:"The wise in heart are called discerning, and pleasant words promote instruction.",
     Ind:"Orang yang bijak hati disebut berpengertian, dan berbicara manis lebih dapat meyakinkan."
   },
   {Bible:"Proverbs", Chapter:16, Verse:22, Page:1,
-    Kor:"명철한 사람에게는 그 명철함이 생명의 샘이 되지만, 어리석은 사람에게는 그 b어리석음이 벌이 된다. (b '어리석은 사람'으로 번역된 히브리어 '에빌림'은 잠언 전체와 구약의 여러 곳에서 도덕적 결함이 있는 사람을 가리킴. 단순히 '둔한 사람'과 구별됨)",
+    Kor:"명철한 사람에게는 그 명철함이 생명의 샘이 되지만, 어리석은 사람에게는 그 어리석음이 벌이 된다.",
     Chn:"人有智慧就有生命的泉源； 愚昧人必被愚昧惩治。",
     Eng:"Understanding is a fountain of life to those who have it, but folly brings punishment to fools.",
     Ind:"Akal budi adalah sumber kehidupan bagi yang mempunyainya, tetapi siksaan bagi orang bodoh ialah kebodohannya."
   },
   {Bible:"Proverbs", Chapter:16, Verse:23, Page:1,
-    Kor:"마음이 지혜로운 사람은 말을 신중하게 하고, c하는 말에 설득력이 있다. (c 또는 '그의 입술이 지식을 증진시킨다' 또는 '입술에 지식을 더한다')",
+    Kor:"마음이 지혜로운 사람은 말을 신중하게 하고, 하는 말에 설득력이 있다.",
     Chn:"智慧人的心教训他的口， 又使他的嘴增长学问。",
     Eng:"A wise man's heart guides his mouth, and his lips promote instruction.",
     Ind:"Hati orang bijak menjadikan mulutnya berakal budi, dan menjadikan bibirnya lebih dapat meyakinkan."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Orang yang sabar melebihi seorang pahlawan, orang yang menguasai dirinya, melebihi orang yang merebut kota."
   },
   {Bible:"Proverbs", Chapter:16, Verse:33, Page:1,
-    Kor:"제비는 사람이 뽑지만, 결정은 주님께서 하신다.",
+    Kor:"제비는 사람이 뽑지만, 결정은 주께서 하신다.",
     Chn:"签放在怀里， 定事由耶和华。",
     Eng:"The lot is cast into the lap, but its every decision is from the LORD.",
     Ind:"Undi dibuang di pangkuan, tetapi setiap keputusannya berasal dari pada TUHAN."

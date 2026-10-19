@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",5,11);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:5, Verse:1, Page:1,
-    Kor:"<날아가는 두루마리> 내가 또 고개를 들고 보니, 내 앞에서 두루마리가 날아가고 있었다.",
+    Kor:"내가 또 고개를 들고 보니, 내 앞에서 두루마리가 날아가고 있었다.",
     Chn:"我又举目观看，见有一飞行的书卷。",
     Eng:"I looked again--and there before me was a flying scroll!",
     Ind:"Aku melayangkan mataku pula, maka aku melihat: tampak sebuah gulungan kitab yang terbang."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Lalu ia berkata kepadaku: \"Inilah sumpah serapah yang keluar menimpa seluruh negeri; sebab menurut sumpah serapah itu setiap pencuri di sini masih bebas dari hukuman, dan setiap orang yang bersumpah palsu di sini juga masih bebas dari hukuman."
   },
   {Bible:"Zechariah", Chapter:5, Verse:4, Page:1,
-    Kor:"만군의 주의 말이다. \"내가 저주를 내보낸다. 모든 도둑의 집과 내 이름을 두고 거짓으로 맹세하는 모든 자의 집에 저주가 들어가서, 그 집에 머무르면서, 나무 대들보와 돌로 쌓은 벽까지, 그 집을 다 허물어 버릴 것이다.\"",
+    Kor:"나 만군의 주의 말이다. \"내가 저주를 내보낸다. 모든 도둑의 집과 내 이름을 두고 거짓으로 맹세하는 모든 자의 집에 저주가 들어가서, 그 집에 머무르면서, 나무 대들보와 돌로 쌓은 벽까지, 그 집을 다 허물어 버릴 것이다.\"",
     Chn:"万军之耶和华说：我必使这书卷出去，进入偷窃人的家和指我名起假誓人的家，必常在他家里，连房屋带木石都毁灭了。」",
     Eng:"The LORD Almighty declares, 'I will send it out, and it will enter the house of the thief and the house of him who swears falsely by my name. It will remain in his house and destroy it, both its timbers and its stones.'\"",
     Ind:"Aku telah menyuruhnya keluar, demikianlah firman TUHAN semesta alam, supaya itu masuk ke dalam rumah pencuri dan ke dalam rumah orang yang bersumpah palsu demi nama-Ku, dan supaya itu bermalam di dalam rumah mereka dan memusnahkannya, baik kayunya maupun batu-batunya.\""
   },
   {Bible:"Zechariah", Chapter:5, Verse:5, Page:1,
-    Kor:"<뒤주 속의 여인> ○내게 말하는 천사가 앞으로 나와서, 나에게 고개를 들고서, 가까이 오는 물체를 주의해 보라고 말하였다.",
+    Kor:"○내게 말하는 천사가 앞으로 나와서, 나에게 고개를 들고서, 가까이 오는 물체를 주의해 보라고 말하였다.",
     Chn:"与我说话的天使出来，对我说：「你要举目观看，见所出来的是什么？」",
     Eng:"Then the angel who was speaking to me came forward and said to me, \"Look up and see what this is that is appearing.\"",
     Ind:"Tampillah malaikat yang berbicara dengan aku itu, katanya kepadaku: \"Cobalah layangkan matamu dan lihatlah apa yang muncul itu!\""
   },
   {Bible:"Zechariah", Chapter:5, Verse:6, Page:1,
-    Kor:"그것이 무엇이냐고 내가 물으니, 그는, 가까이 오는 그것이 곡식을 넣는 a뒤주라고 일러주면서, 그것은 온 땅에 가득한 죄악을 나타내는 것이라고 하였다.(a 히, '에바')",
+    Kor:"그것이 무엇이냐고 내가 물으니, 그는, 가까이 오는 그것이 곡식을 넣는 뒤주라고 일러주면서, 그것은 온 땅에 가득한 죄악을 나타내는 것이라고 하였다.",
     Chn:"我说：「这是什么呢？」他说：「这出来的是量器。」他又说：「这是恶人在遍地的形状。」",
     Eng:"I asked, \"What is it?\" He replied, \"It is a measuring basket*\" And he added, \"This is the iniquity of the people throughout the land.\"",
     Ind:"Lalu tanyaku: \"Apa itu?\" Jawabnya: \"Yang muncul itu sebuah gantang!\" Lagi katanya: \"Inilah kejahatan mereka di seluruh negeri!\""

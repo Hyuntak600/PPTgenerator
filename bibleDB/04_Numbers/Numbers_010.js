@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",10,36);
 BibleDB.add([
   {Bible:"Numbers", Chapter:10, Verse:1, Page:1,
-    Kor:"<나팔 신호> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses:",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Dan apabila kamu maju berperang di negerimu melawan musuh yang menyesakkan kamu, kamu harus memberi tanda semboyan dengan nafiri, supaya kamu diingat di hadapan TUHAN, Allahmu, dan diselamatkan dari pada musuhmu."
   },
   {Bible:"Numbers", Chapter:10, Verse:10, Page:1,
-    Kor:"너희들이 즐기는 경축일과 너희들이 정기적으로 모이는 날과 매달 초하루에는, 너희가 번제물과 화목제물을 바치며 나팔을 불어라. 그러면 너희 주 하나님이 너희를 기억할 것이다. 내가 주 너희의 하나님이다.\"",
+    Kor:"너희들이 즐기는 경축일과 너희들이 정기적으로 모이는 날과 매달 초하루에는, 너희가 번제와 화목제물을 드리며 나팔을 불어라. 그러면 너희 주 하나님이 너희를 기억할 것이다. 내가 주 너희의 하나님이다.\"",
     Chn:"在你们快乐的日子和节期，并月朔，献燔祭和平安祭，也要吹号，这都要在你们的　神面前作为纪念。我是耶和华—你们的　神。」",
     Eng:"Also at your times of rejoicing--your appointed feasts and New Moon festivals--you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the LORD your God.\"",
     Ind:"Juga pada hari-hari kamu bersukaria, pada perayaan-perayaanmu dan pada bulan-bulan barumu haruslah kamu meniup nafiri itu pada waktu mempersembahkan korban-korban bakaranmu dan korban-korban keselamatanmu; maksudnya supaya kamu diingat di hadapan Allahmu; Akulah TUHAN, Allahmu.\""
   },
   {Bible:"Numbers", Chapter:10, Verse:11, Page:1,
-    Kor:"<떠날 준비> ○제 이년 둘째 달, 그 달 이십일에 a증거궤가 보관된 그 성막에서 비로소 구름이 걷혔다.(a 또는 '법막' 또는 '증거막')",
+    Kor:"○제 이년 둘째 달, 그 달 이십일에 증거궤가 보관된 그 성막에서 비로소 구름이 걷혔다.",
     Chn:"第二年二月二十日，云彩从法柜的帐幕收上去。",
     Eng:"On the twentieth day of the second month of the second year, the cloud lifted from above the tabernacle of the Testimony.",
     Ind:"Pada tahun yang kedua, pada bulan yang kedua, pada tanggal dua puluh bulan itu, naiklah awan itu dari atas Kemah Suci, tempat hukum Allah."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu berangkatlah orang Israel dari padang gurun Sinai menurut aturan keberangkatan mereka, kemudian diamlah awan itu di padang gurun Paran."
   },
   {Bible:"Numbers", Chapter:10, Verse:13, Page:1,
-    Kor:"○이것은 주님께서 모세를 시켜 지시하신 명령을 따라서 한 첫 번째 행군이었다.",
+    Kor:"○이것은 주께서 모세를 시켜 지시하신 명령을 따라서 한 첫 번째 행군이었다.",
     Chn:"这是他们照耶和华借摩西所吩咐的，初次往前行。",
     Eng:"They set out, this first time, at the LORD'S command through Moses.",
     Ind:"Itulah pertama kali mereka berangkat menurut titah TUHAN dengan perantaraan Musa."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Itulah aturan keberangkatan orang Israel menurut pasukan mereka, ketika mereka berangkat."
   },
   {Bible:"Numbers", Chapter:10, Verse:29, Page:1,
-    Kor:"○모세가 미디안 사람 르우엘의 아들 b호밥에게 청하였다. 그는 모세의 장인이었다. \"우리는 이제 주님께서 우리에게 주시겠다고 약속하신 곳으로 떠납니다. 장인께서도 우리와 같이 길을 떠나 주시기 바랍니다. 주님께서 이스라엘에게 잘 해주시겠다고 약속하셨으니, 우리가 장인 어른을 잘 대접해 드리겠습니다.\"(b 모세의 장인은 민 10:29 및 삿 1:16과 4:11에서는 호밥이고, 출 2:21에서는 르우엘이고, 출 18장에서는 이드로이다)",
+    Kor:"○모세가 미디안 사람 르우엘의 아들 호밥에게 청하였다. 그는 모세의 장인이었다. \"우리는 이제 주께서 우리에게 주시겠다고 약속하신 곳으로 떠납니다. 장인께서도 우리와 같이 길을 떠나 주시기 바랍니다. 주께서 이스라엘에게 잘 해주시겠다고 약속하셨으니, 우리가 장인 어른을 잘 대접해 드리겠습니다.\"",
     Chn:"摩西对他岳父—米甸人流珥的儿子何巴—说：「我们要行路，往耶和华所应许之地去；他曾说：『我要将这地赐给你们。』现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。」",
     Eng:"Now Moses said to Hobab son of Reuel the Midianite, Moses' father-in-law, \"We are setting out for the place about which the LORD said, 'I will give it to you.' Come with us and we will treat you well, for the LORD has promised good things to Israel.\"",
     Ind:"Lalu berkatalah Musa kepada Hobab anak Rehuel orang Midian, mertua Musa: \"Kami berangkat ke tempat yang dimaksud TUHAN ketika Ia berfirman: Aku akan memberikannya kepadamu. Sebab itu ikutlah bersama-sama dengan kami, maka kami akan berbuat baik kepadamu, sebab TUHAN telah menjanjikan yang baik tentang Israel.\""
@@ -183,31 +183,31 @@ BibleDB.add([
     Ind:"Tetapi jawabnya kepada Musa: \"Aku tidak ikut, melainkan aku hendak pergi ke negeriku dan kepada sanak saudaraku.\""
   },
   {Bible:"Numbers", Chapter:10, Verse:31, Page:1,
-    Kor:"모세가 다시 간청하였다. \"제발 우리만 버려 두지 마십시오. 우리가 광야 어디에 진을 쳐야 할지, 장인 어른만큼 아는 사람이 없습니다. 그러니 장인께서는 우리의 길 안내자가 되어 주셔야 합니다.",
+    Kor:"모세가 다시 간청하였다. \"제발 우리만 버려 두지 마십시오. 우리가 광야 어디에 진을 쳐야 할지, 장인 어른만큼 아는 사람이 없습니다. 그러니 장인께서는 우리의 길잡이가 되어 주셔야 합니다.",
     Chn:"摩西说：「求你不要离开我们；因为你知道我们要在旷野安营，你可以当作我们的眼目。",
     Eng:"But Moses said, \"Please do not leave us. You know where we should camp in the desert, and you can be our eyes.",
     Ind:"Kata Musa: \"Janganlah kiranya tinggalkan kami, sebab engkaulah yang tahu, bagaimana kami berkemah di padang gurun, maka engkau dapat menjadi penunjuk jalan bagi kami."
   },
   {Bible:"Numbers", Chapter:10, Verse:32, Page:1,
-    Kor:"우리와 함께 가시기만 한다면, 주님께서 우리에게 주시는 좋은 것은, 무엇이든지 장인 어른께 나누어 드리겠습니다.\"",
+    Kor:"우리와 함께 가시기만 한다면, 주께서 우리에게 주시는 좋은 것은, 무엇이든지 장인 어른께 나누어 드리겠습니다.\"",
     Chn:"你若和我们同去，将来耶和华有什么好处待我们，我们也必以什么好处待你。」",
     Eng:"If you come with us, we will share with you whatever good things the LORD gives us.\"",
     Ind:"Jika engkau ikut bersama-sama dengan kami, maka kebaikan yang akan dilakukan TUHAN kepada kami akan kami lakukan juga kepadamu.\""
   },
   {Bible:"Numbers", Chapter:10, Verse:33, Page:1,
-    Kor:"<행군 시작> ○그들은 주님의 산을 떠나 사흘 길을 갔다. 주님의 언약궤를 앞세우고 사흘 길을 가면서, 쉴 곳을 찾았다.",
+    Kor:"○그들은 주의 산을 떠나 사흘 길을 갔다. 주의 언약궤를 앞세우고 사흘 길을 가면서, 쉴 곳을 찾았다.",
     Chn:"以色列人离开耶和华的山，往前行了三天的路程；耶和华的约柜在前头行了三天的路程，为他们寻找安歇的地方。",
     Eng:"So they set out from the mountain of the LORD and traveled for three days. The ark of the covenant of the LORD went before them during those three days to find them a place to rest.",
     Ind:"Lalu berangkatlah mereka dari gunung TUHAN dan berjalan tiga hari perjalanan jauhnya, sedang tabut perjanjian TUHAN berangkat di depan mereka dan berjalan tiga hari perjalanan jauhnya untuk mencari tempat perhentian bagi mereka."
   },
   {Bible:"Numbers", Chapter:10, Verse:34, Page:1,
-    Kor:"낮이 되어 그들이 진을 떠날 때면, 주님의 구름이 그들 위를 덮어 주었다.",
+    Kor:"낮이 되어 그들이 진을 떠날 때면, 주의 구름이 그들 위를 덮어 주었다.",
     Chn:"他们拔营往前行，日间有耶和华的云彩在他们以上。",
     Eng:"The cloud of the LORD was over them by day when they set out from the camp.",
     Ind:"Dan awan TUHAN ada di atas mereka pada siang hari, apabila mereka berangkat dari tempat perkemahan."
   },
   {Bible:"Numbers", Chapter:10, Verse:35, Page:1,
-    Kor:"○궤가 떠날 때에 모세가 외쳤다. \"주님, 일어나십시오. 주님의 원수들을 흩으십시오. 주님을 미워하는 자들을 주님 앞에서 쫓으십시오.\"",
+    Kor:"○궤가 떠날 때에 모세가 외쳤다. \"주님, 일어나십시오. 주의 원수들을 흩으십시오. 주를 미워하는 자들을 주 앞에서 쫓으십시오.\"",
     Chn:"约柜往前行的时候，摩西就说：「耶和华啊，求你兴起！愿你的仇敌四散！愿恨你的人从你面前逃跑！」",
     Eng:"Whenever the ark set out, Moses said, \"Rise up, O LORD! May your enemies be scattered; may your foes flee before you.\"",
     Ind:"Apabila tabut itu berangkat, berkatalah Musa: \"Bangkitlah, TUHAN, supaya musuh-Mu berserak dan orang-orang yang membenci Engkau melarikan diri dari hadapan-Mu.\""

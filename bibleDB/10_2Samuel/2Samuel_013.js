@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",13,39);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:13, Verse:1, Page:1,
-    Kor:"<암논과 다말> 그 뒤에 이런 일이 있었다. 다윗의 아들 압살롬에게는 아직 결혼하지 않은 아름다운 누이가 있는데, 이름은 다말이었다. 그런데 다윗의 다른 아들 암논이 그를 사랑하였다.",
+    Kor:"그 뒤에 이런 일이 있었다. 다윗의 아들 압살롬에게는 아직 결혼하지 않은 아름다운 누이가 있는데, 이름은 다말이었다. 그런데 다윗의 다른 아들 암논이 그를 사랑하였다.",
     Chn:"大卫的儿子押沙龙有一个美貌的妹子，名叫她玛。大卫的儿子暗嫩爱她。",
     Eng:"In the course of time, Amnon son of David fell in love with Tamar, the beautiful sister of Absalom son of David.",
     Ind:"Sesudah itu terjadilah yang berikut. Absalom bin Daud mempunyai seorang adik perempuan yang cantik, namanya Tamar; dan Amnon bin Daud jatuh cinta kepadanya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Amnon mempunyai seorang sahabat bernama Yonadab, anak Simea kakak Daud. Yonadab itu seorang yang sangat cerdik."
   },
   {Bible:"2Samuel", Chapter:13, Verse:4, Page:1,
-    Kor:"마침 그가 암논에게 물었다. \"왕자님, 나날이 이렇게 안색이 수척해지시는데, 웬일이십니까? 나에게 그 까닭을 알려 주지 않으시겠습니까?\" 암논이 그에게 말하였다. \"나의 아우 압살롬의 누이 다말을, 내가 사랑하고 있기 때문이오.\"",
+    Kor:"마침 그가 암논에게 물었다. \"왕자님, 나날이 이렇게 안색이 수척해지시는데, 웬 일이십니까? 나에게 그 까닭을 알려 주지 않으시겠습니까?\" 암논이 그에게 말하였다. \"나의 아우 압살롬의 누이 다말을, 내가 사랑하고 있기 때문이오.\"",
     Chn:"他问暗嫩说：「王的儿子啊，为何一天比一天瘦弱呢？请你告诉我。」暗嫩回答说：「我爱我兄弟押沙龙的妹子她玛。」",
     Eng:"He asked Amnon, \"Why do you, the king's son, look so haggard morning after morning? Won't you tell me?\" Amnon said to him, \"I'm in love with Tamar, my brother Absalom's sister.\"",
     Ind:"Katanya kepada Amnon: \"Hai anak raja, mengapa engkau demikian merana setiap pagi? Tidakkah lebih baik engkau memberitahukannya kepadaku?\" Kata Amnon kepadanya: \"Aku cinta kepada Tamar, adik perempuan Absalom, saudaraku itu.\""
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah Yonadab kepadanya: \"Berbaringlah di tempat tidurmu dan berbuat pura-pura sakit. Apabila ayahmu datang menengok engkau, maka haruslah engkau berkata kepadanya: Izinkanlah adikku Tamar datang memberi aku makan. Apabila ia menyediakan makanan di depan mataku, sehingga aku dapat melihatnya, maka aku akan memakannya dari tangannya.\""
   },
   {Bible:"2Samuel", Chapter:13, Verse:6, Page:1,
-    Kor:"그리하여 암논이 침상에 누워서, 병든 체 하고 있으니, 과연 다윗 왕이 그를 문병하러 왔다. 그 때에 암논이 왕에게 요청하였다. \"누이 다말을 보내 주십시오. 제가 보는 앞에서, 누이가 맛있는 빵 몇 개라도 만들어서, 그것을 저에게 직접 먹여 주게 하여 주십시오.\"",
+    Kor:"그리하여 암논이 침상에 누워서, 병든 체 하고 있으니, 과연 다윗 왕이 그를 문병하러 왔다. 그 때에, 암논이 왕에게 요청하였다. \"누이 다말을 보내 주십시오. 제가 보는 앞에서, 누이가 맛있는 빵 몇 개라도 만들어서, 그것을 저에게 직접 먹여 주게 하여 주십시오.\"",
     Chn:"于是暗嫩躺卧装病。王来看他，他对王说：「求父叫我妹子她玛来，在我眼前为我做两个饼，我好从她手里接过来吃。」",
     Eng:"So Amnon lay down and pretended to be ill. When the king came to see him, Amnon said to him, \"I would like my sister Tamar to come and make some special bread in my sight, so I may eat from her hand.\"",
     Ind:"Sesudah itu berbaringlah Amnon dan berbuat pura-pura sakit. Ketika raja datang menengok dia, berkatalah Amnon kepada raja: \"Izinkanlah adikku Tamar datang membuat barang dua kue di depan mataku, supaya aku memakannya dari tangannya.\""
   },
   {Bible:"2Samuel", Chapter:13, Verse:7, Page:1,
-    Kor:"○다윗은 다말의 집으로 사람을 보내어서 지시하였다. \"어서 네 오라비 암논의 집으로 가서, 그에게 먹을 것을 좀 만들어 주어라.\"",
+    Kor:"다윗은 다말의 집으로 사람을 보내어서 지시하였다. \"어서 네 오라비 암논의 집으로 가서, 그에게 먹을 것을 좀 만들어 주어라.\"",
     Chn:"大卫就打发人到宫里，对她玛说：「你往你哥哥暗嫩的屋里去，为他预备食物。」",
     Eng:"David sent word to Tamar at the palace: \"Go to the house of your brother Amnon and prepare some food for him.\"",
     Ind:"Lalu Daud menyuruh orang kepada Tamar, ke rumahnya, dengan pesan: \"Pergilah ke rumah Amnon, kakakmu dan sediakanlah makanan baginya.\""
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Maka Tamar pergi ke rumah Amnon, kakaknya, yang sedang berbaring-baring, lalu anak perempuan itu mengambil adonan, meremasnya dan membuat kue di depan matanya, kemudian dibakarnya kue itu."
   },
   {Bible:"2Samuel", Chapter:13, Verse:9, Page:1,
-    Kor:"그리고 다말이 냄비째 가져다가 암논 앞에서 그릇에 담아 주었으나, 암논은 먹을 생각은 하지 않고, 사람들을 다 밖으로 내보내라고 말하고는, 사람들이 모두 밖으로 나간 뒤에,",
+    Kor:"그리고 다말이 냄비째 가져다가, 암논 앞에서 그릇에 담아 주었으나, 암논은 먹을 생각은 하지 않고, 사람들을 다 밖으로 내보내라고 말하고는, 사람들이 모두 밖으로 나간 뒤에,",
     Chn:"在他面前将饼从锅里倒出来，他却不肯吃，便说：「众人离开我出去吧！」众人就都离开他，出去了。",
     Eng:"Then she took the pan and served him the bread, but he refused to eat. \"Send everyone out of here,\" Amnon said. So everyone left him.",
     Ind:"Sesudah itu gadis itu mengambil kuali dan mengeluarkan isinya di depan Amnon, tetapi ia tidak mau makan. Berkatalah Amnon: \"Suruhlah setiap orang keluar meninggalkan aku.\" Lalu keluarlah setiap orang meninggalkan dia."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Ketika gadis itu menghidangkannya kepadanya supaya ia makan, dipegangnyalah gadis itu dan berkata kepadanya: \"Marilah tidur dengan aku, adikku.\""
   },
   {Bible:"2Samuel", Chapter:13, Verse:12, Page:1,
-    Kor:"다말이 그에게 말하였다. \"이렇게 하지 마십시오, 오라버니! 이스라엘에는 이러한 법이 없습니다. 제발 나에게 욕을 보이지 마십시오. 제발 이런 악한 일을 저지르지 말아 주십시오.",
+    Kor:"다말이 그에게 말하였다. \"이렇게 하지 마십시오, 오라버니! 이스라엘에는 이러한 법이 없습니다. 제발, 나에게 욕을 보이지 마십시오. 제발 이런 악한 일을 저지르지 말아 주십시오.",
     Chn:"她玛说：「我哥哥，不要玷辱我。以色列人中不当这样行，你不要做这丑事；",
     Eng:"\"Don't, my brother!\" she said to him. \"Don't force me. Such a thing should not be done in Israel! Don't do this wicked thing.",
     Ind:"Tetapi gadis itu berkata kepadanya: \"Tidak kakakku, jangan perkosa aku, sebab orang tidak berlaku seperti itu di Israel. Janganlah berbuat noda seperti itu."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Dan aku, ke manakah kubawa kecemaranku? Dan engkau ini, engkau akan dianggap sebagai orang yang bebal di Israel. Oleh sebab itu, berbicaralah dengan raja, sebab ia tidak akan menolak memberikan aku kepadamu.\""
   },
   {Bible:"2Samuel", Chapter:13, Verse:14, Page:1,
-    Kor:"다말이 이렇게까지 말하는데도, 암논은 다말이 애원하는 소리를 들으려고 하지도 않고, 오히려 더 센 힘으로 그를 눕혀서, 억지로 욕을 보였다.",
+    Kor:"다말이 이렇게까지 말하는데도, 암논은, 다말이 애원하는 소리를 들으려고 하지도 않고, 오히려 더 센 힘으로 그를 눕혀서, 억지로 욕을 보였다.",
     Chn:"但暗嫩不肯听她的话，因比她力大，就玷辱她，与她同寝。",
     Eng:"But he refused to listen to her, and since he was stronger than she, he raped her.",
     Ind:"Tetapi Amnon tidak mau mendengarkan perkataannya, dan sebab ia lebih kuat dari padanya, diperkosanyalah dia, lalu tidur dengan dia."
   },
   {Bible:"2Samuel", Chapter:13, Verse:15, Page:1,
-    Kor:"○그렇게 욕을 보이고 나니, 암논은 갑자기 다말이 몹시도 미워졌다. 이제 미워하는 마음이 기왕에 사랑하던 사랑보다 더하였다. 암논이 그에게, 당장 일어나 나가라고, 소리를 버럭 질렀다.",
+    Kor:"그렇게 욕을 보이고 나니, 암논은 갑자기 다말이 몹시도 미워졌다. 이제 미워하는 마음이 기왕에 사랑하던 사랑보다 더하였다. 암논이 그에게, 당장 일어나 나가라고, 소리를 버럭 질렀다.",
     Chn:"随后，暗嫩极其恨她，那恨她的心比先前爱她的心更甚，对她说：「你起来，去吧！」",
     Eng:"Then Amnon hated her with intense hatred. In fact, he hated her more than he had loved her. Amnon said to her, \"Get up and get out!\"",
     Ind:"Kemudian timbullah kebencian yang sangat besar pada Amnon terhadap gadis itu, bahkan lebih besar benci yang dirasanya kepada gadis itu dari pada cinta yang dirasanya sebelumnya. Lalu Amnon berkata kepadanya: \"Bangunlah, enyahlah!\""
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Lalu Tamar menaruh abu di atas kepalanya, mengoyakkan baju kurung yang maha indah yang dipakainya, meletakkan tangannya di atas kepalanya dan pergilah ia sambil meratap dengan nyaring."
   },
   {Bible:"2Samuel", Chapter:13, Verse:20, Page:1,
-    Kor:"○다말의 오라버니 압살롬이 다말을 보고 물었다. \"네 오라비 암논이 너를 건드렸지? 얘야, 암논도 네 오라비이니, 지금은 아무 말도 입 밖에 내지 말아라. 이 일로 너무 근심하지 말아라.\" 그리하여 다말은 그의 오라버니 압살롬의 집에서 처량하게 지냈다.",
+    Kor:"다말의 오라버니 압살롬이 다말을 보고 물었다. \"네 오라비 암논이 너를 건드렸지? 얘야, 암논도 네 오라비이니, 지금은 아무 말도 입 밖에 내지 말아라. 이 일로 너무 근심하지 말아라.\" 그리하여 다말은 그의 오라버니 압살롬의 집에서 처량하게 지냈다.",
     Chn:"她胞兄押沙龙问她说：「莫非你哥哥暗嫩与你亲近了吗？我妹妹，暂且不要作声，他是你的哥哥，不要将这事放在心上。」她玛就孤孤单单地住在她胞兄押沙龙家里。",
     Eng:"Her brother Absalom said to her, \"Has that Amnon, your brother, been with you? Be quiet now, my sister; he is your brother. Don't take this thing to heart.\" And Tamar lived in her brother Absalom's house, a desolate woman.",
     Ind:"Bertanyalah Absalom, kakaknya, kepadanya: \"Apakah Amnon, kakakmu itu, bersetubuh dengan engkau? Maka sekarang, adikku, diamlah saja, bukankah ia kakakmu, janganlah begitu memikirkan perkara itu.\" Lalu Tamar tinggal di rumah Absalom, kakaknya itu, seorang diri."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dan Absalom tidak berkata-kata dengan Amnon, baik tentang yang jahat maupun tentang yang baik, tetapi Absalom membenci Amnon, sebab ia telah memperkosa Tamar, adiknya."
   },
   {Bible:"2Samuel", Chapter:13, Verse:23, Page:1,
-    Kor:"<압살롬의 복수> ○두 해가 지난 어느 날, 압살롬은 에브라임 근처의 바알하솔에서 양털을 깎고 있었다. 이 때에 압살롬이 왕자들을 모두 초대하였다.",
+    Kor:"○두 해가 지난 어느 날, 압살롬은 에브라임 근처의 바알하솔에서 양털을 깎고 있었다. 이 때에, 압살롬이 왕자들을 모두 초대하였다.",
     Chn:"过了二年，在靠近以法莲的巴力·夏琐有人为押沙龙剪羊毛；押沙龙请王的众子与他同去。",
     Eng:"Two years later, when Absalom's sheepshearers were at Baal Hazor near the border of Ephraim, he invited all the king's sons to come there.",
     Ind:"Sesudah lewat dua tahun, Absalom mengadakan pengguntingan bulu domba di Baal-Hazor yang dekat kota Efraim. Lalu Absalom mengundang semua anak raja."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Tetapi raja berkata kepada Absalom: \"Maaf, anakku, jangan kami semua pergi, supaya kami jangan menyusahkan engkau.\" Lalu Absalom mendesak, tetapi raja tidak mau pergi, ia hanya memberi restu kepadanya."
   },
   {Bible:"2Samuel", Chapter:13, Verse:26, Page:1,
-    Kor:"그러자 압살롬이 말하였다. \"그러면 맏형 암논이라도 우리와 함께 가도록 허락하여 주시기 바랍니다.\" 왕이 그에게 물었다. \"암논이 너와 함께 가야 할 이유가 무엇이냐?\"",
+    Kor:"그러자 압살롬이 말하였다. \"그러면 맏형 암논이라도 우리와 함께 가도록 허락하여 주시기 바랍니다.\" 왕은 \"암논이 너와 함께 가야 할 이유가 무엇이냐?\" 하고 그에게 물었다.",
     Chn:"押沙龙说：「王若不去，求王许我哥哥暗嫩同去。」王说：「何必要他去呢？」",
     Eng:"Then Absalom said, \"If not, please let my brother Amnon come with us.\" The king asked him, \"Why should he go with you?\"",
     Ind:"Kemudian berkatalah Absalom: \"Kalau tidak, izinkanlah kakakku Amnon pergi beserta kami.\" Tetapi raja menjawabnya: \"Apa gunanya ia pergi bersama-sama dengan engkau?\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Orang-orang Absalom memperlakukan Amnon seperti yang diperintahkan Absalom. Lalu bangunlah semua anak raja itu, mereka menaiki bagalnya masing-masing dan melarikan diri."
   },
   {Bible:"2Samuel", Chapter:13, Verse:30, Page:1,
-    Kor:"○그들이 아직도 길에서 달아나는 동안에, 다윗에게는, 압살롬이 왕자들을 모조리 쳐죽여서, 한 사람도 살아 남지 못하였다는 소식이 들어갔다.",
+    Kor:"그들이 아직도 길에서 달아나는 동안에, 다윗에게는, 압살롬이 왕자들을 모조리 쳐죽여서, 한 사람도 살아 남지 못하였다는 소식이 들어갔다.",
     Chn:"他们还在路上，有风声传到大卫那里，说：「押沙龙将王的众子都杀了，没有留下一个。」",
     Eng:"While they were on their way, the report came to David: \"Absalom has struck down all the king's sons; not one of them is left.\"",
     Ind:"Mereka masih di tengah jalan, ketika kabar sampai kepada Daud, demikian: \"Absalom telah membunuh semua anak raja, tidak ada seorangpun dari mereka yang lolos.\""
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Lalu bangunlah raja, dikoyakkannya pakaiannya dan berbaring di lantai, dan semua pegawainya yang hadir padanya mengoyakkan pakaian mereka."
   },
   {Bible:"2Samuel", Chapter:13, Verse:32, Page:1,
-    Kor:"그 때에 다윗의 형 시므아의 아들인 요나답이 나서서 말하였다. \"임금님, 젊은 왕자들이 모두 살해되지는 않았습니다. 암논 한 사람만 죽었습니다. 암논이 압살롬의 누이 다말을 욕보인 날부터, 압살롬은 그런 결심을 하고 있었습니다.",
+    Kor:"그 때에, 다윗의 형 시므아의 아들인 요나답이 나서서 말하였다. \"임금님, 젊은 왕자들이 모두 살해되지는 않았습니다. 암논 한 사람만 죽었습니다. 암논이 압살롬의 누이 다말을 욕보인 날부터, 압살롬은 그런 결심을 하고 있었습니다.",
     Chn:"大卫的长兄，示米亚的儿子约拿达说：「我主，不要以为王的众子—少年人都杀了，只有暗嫩一个人死了。自从暗嫩玷辱押沙龙妹子她玛的那日，押沙龙就定意杀暗嫩了。",
     Eng:"But Jonadab son of Shimeah, David's brother, said, \"My lord should not think that they killed all the princes; only Amnon is dead. This has been Absalom's expressed intention ever since the day Amnon raped his sister Tamar.",
     Ind:"Maka berbicaralah Yonadab, anak Simea, kakak Daud, katanya: \"Janganlah tuanku menyangka, bahwa semua orang muda anak-anak raja itu, telah dibunuh. Hanya Amnon yang mati, sebab hal itu telah terlihat pada air muka Absalom, sejak Amnon memperkosa Tamar, adiknya."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Jadi, janganlah tuanku raja menaruh pikiran dalam hatinya, bahwa semua anak raja itu sudah mati, sebab hanya Amnon yang mati.\""
   },
   {Bible:"2Samuel", Chapter:13, Verse:34, Page:1,
-    Kor:"○그 사이에 압살롬은 도망쳐 버렸다. ○바로 그 때에 예루살렘의 보초병 하나가, 호로나임 쪽에서 많은 사람이 언덕을 타고 내려오는 것을 보고서, 왕에게 알렸다.",
+    Kor:"○그 사이에, 압살롬은 도망쳐 버렸다. ○바로 그 때에, 예루살렘의 보초병 하나가 호로나임 쪽에서 많은 사람이 언덕을 타고 내려오는 것을 보고서, 왕에게 알렸다.",
     Chn:"押沙龙逃跑了。 守望的少年人举目观看，见有许多人从山坡的路上来。",
     Eng:"Meanwhile, Absalom had fled. Now the man standing watch looked up and saw many people on the road west of him, coming down the side of the hill. The watchman went and told the king, \"I see men in the direction of Horonaim, on the side of the hill.\"",
     Ind:"Absalom melarikan diri. Ketika orang yang berjaga-jaga melayangkan pandangnya, maka terlihatlah olehnya sejumlah besar orang datang dari jurusan Horonaim, sepanjang sisi pegunungan."
@@ -219,19 +219,19 @@ BibleDB.add([
     Ind:"Baru saja ia habis berkata, datanglah anak-anak raja itu. Mereka menangis dengan suara nyaring. Juga raja dan semua pegawainya menangis dengan amat keras."
   },
   {Bible:"2Samuel", Chapter:13, Verse:37, Page:1,
-    Kor:"○압살롬은 도망하여 그술 왕 a암미훗의 아들 달매에게로 갔고, 다윗은 죽은 아들 암논 때문에 슬픈 나날을 보냈다.(a 히, '암미훌')",
+    Kor:"○압살롬은 도망하여서, 그술 왕 암미훌의 아들 달매에게로 갔고, 다윗은 죽은 아들 암논 때문에 슬픈 나날을 보냈다.",
     Chn:"押沙龙逃到基述王亚米忽的儿子达买那里去了。大卫天天为他儿子悲哀。",
     Eng:"Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But King David mourned for his son every day.",
     Ind:"Absalom telah melarikan diri dan telah pergi kepada Talmai bin Amihur, raja negeri Gesur. Dan Daud berdukacita berhari-hari lamanya karena anaknya itu."
   },
   {Bible:"2Samuel", Chapter:13, Verse:38, Page:1,
-    Kor:"압살롬은 도망한 뒤에 그술로 가서, 그 곳에 세 해 동안 머물러 있었다.",
+    Kor:"압살롬은 도망한 뒤에, 그술로 가서, 그 곳에 세 해 동안 머물러 있었다.",
     Chn:"押沙龙逃到基述，在那里住了三年。",
     Eng:"After Absalom fled and went to Geshur, he stayed there three years.",
     Ind:"Absalom telah melarikan diri dan telah pergi ke Gesur; ia tinggal di sana tiga tahun lamanya."
   },
   {Bible:"2Samuel", Chapter:13, Verse:39, Page:1,
-    Kor:"그러는 사이에 다윗 왕은 암논을 잃었을 때에 받은 충격도 서서히 가라앉았고, 오히려 압살롬을 보고 싶어 하는 마음이 점점 간절해졌다.",
+    Kor:"그러는 사이에, 다윗 왕은 암논을 잃었을 때에 받은 충격도 서서히 가라앉았고, 오히려 압살롬을 보고 싶어 하는 마음이 점점 간절해졌다.",
     Chn:"暗嫩死了以后，大卫王得了安慰，心里切切想念押沙龙。",
     Eng:"And the spirit of the king longed to go to Absalom, for he was consoled concerning Amnon's death.",
     Ind:"Lalu raja tidak lagi marah terhadap Absalom, sebab kesedihan hatinya karena kematian Amnon telah surut."

@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Orang yang memandang aku, tidak akan melihat aku lagi, sementara Engkau memandang aku, aku tidak ada lagi."
   },
   {Bible:"Job", Chapter:7, Verse:9, Page:1,
-    Kor:"구름이 사라지면 자취도 없는 것처럼, a스올로 내려가는 사람도 그와 같아서, 다시는 올라올 수 없습니다. (a 또는 '무덤' 또는 '죽음')",
+    Kor:"구름이 사라지면 자취도 없는 것처럼, 스올로 내려가는 사람도 그와 같아서, 다시는 올라올 수 없습니다.",
     Chn:"云彩消散而过； 照样，人下阴间也不再上来。",
     Eng:"As a cloud vanishes and is gone, so he who goes down to the grave does not return.",
     Ind:"Sebagaimana awan lenyap dan melayang hilang, demikian juga orang yang turun ke dalam dunia orang mati tidak akan muncul kembali."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu akupun tidak akan menahan mulutku, aku akan berbicara dalam kesesakan jiwaku, mengeluh dalam kepedihan hatiku."
   },
   {Bible:"Job", Chapter:7, Verse:12, Page:1,
-    Kor:"내가 b바다 괴물이라도 됩니까? 내가 깊은 곳에 사는 c괴물이라도 됩니까? 어찌하여 주님께서는 나를 감시하십니까? (b 히, '얌' c 히, '타닌')",
+    Kor:"내가 바다 괴물이라도 됩니까? 내가 깊은 곳에 사는 괴물이라도 됩니까? 어찌하여 주께서는 나를 감시하십니까?",
     Chn:"我对　神说：我岂是洋海， 岂是大鱼，你竟防守我呢？",
     Eng:"Am I the sea, or the monster of the deep, that you put me under guard?",
     Ind:"Apakah aku ini laut atau naga, sehingga Engkau menempatkan penjaga terhadap aku?"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Apabila aku berpikir: Tempat tidurku akan memberi aku penghiburan, dan tempat pembaringanku akan meringankan keluh kesahku,"
   },
   {Bible:"Job", Chapter:7, Verse:14, Page:1,
-    Kor:"주님께서는 악몽으로 나를 놀라게 하시고, 무서운 환상으로 저를 떨게 하십니다.",
+    Kor:"주께서는 악몽으로 나를 놀라게 하시고, 무서운 환상으로 저를 떨게 하십니다.",
     Chn:"你就用梦惊骇我， 用异象恐吓我，",
     Eng:"even then you frighten me with dreams and terrify me with visions,",
     Ind:"maka Engkau mengagetkan aku dengan impian dan mengejutkan aku dengan khayal,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Aku jemu, aku tidak mau hidup untuk selama-lamanya. Biarkanlah aku, karena hari-hariku hanya seperti hembusan nafas saja."
   },
   {Bible:"Job", Chapter:7, Verse:17, Page:1,
-    Kor:"사람이 무엇이라고, 주님께서 그를 대단하게 여기십니까? 어찌하여 사람에게 마음을 두십니까?",
+    Kor:"사람이 무엇이라고, 주께서 그를 대단하게 여기십니까? 어찌하여 사람에게 마음을 두십니까?",
     Chn:"人算什么，你竟看他为大， 将他放在心上？",
     Eng:"\"What is man that you make so much of him, that you give him so much attention,",
     Ind:"Apakah gerangan manusia, sehingga dia Kauanggap agung, dan Kauperhatikan,"
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Bilakah Engkau mengalihkan pandangan-Mu dari padaku, dan membiarkan aku, sehingga aku sempat menelan ludahku?"
   },
   {Bible:"Job", Chapter:7, Verse:20, Page:1,
-    Kor:"사람을 살피시는 주님, 내가 죄를 지었다고 하여 주님께서 무슨 해라도 입으십니까? 어찌하여 나를 주님의 과녁으로 삼으십니까? d어찌하여 나를 주님의 짐으로 생각하십니까? (d 마소라 사본 가운데 일부와 고대 히브리의 서기관 전통과 칠십인역을 따름. 대다수의 마소라 사본에는 '내가 나에게 짐이 됩니다')",
+    Kor:"사람을 살피시는 주님, 내가 죄를 지었다고 하여 주께서 무슨 해라도 입으십니까? 어찌하여 나를 주의 과녁으로 삼으십니까? 어찌하여 나를 주의 짐으로 생각하십니까?",
     Chn:"鉴察人的主啊，我若有罪，于你何妨？ 为何以我当你的箭靶子， 使我厌弃自己的性命？",
     Eng:"If I have sinned, what have I done to you, O watcher of men? Why have you made me your target? Have I become a burden to you?",
     Ind:"Kalau aku berbuat dosa, apakah yang telah kulakukan terhadap Engkau, ya Penjaga manusia? Mengapa Engkau menjadikan aku sasaran-Mu, sehingga aku menjadi beban bagi diriku?"
   },
   {Bible:"Job", Chapter:7, Verse:21, Page:1,
-    Kor:"어찌하여 주님께서는 내 허물을 용서하지 않으시고, 내 죄악을 용서해 주지 않으십니까? 이제 내가 숨져 흙 속에 누우면, 주님께서 아무리 저를 찾으신다 해도, 나는 이미 없는 몸이 아닙니까?",
+    Kor:"어찌하여 주께서는 내 허물을 용서하지 않으시고, 내 죄악을 용서해 주지 않으십니까? 이제 내가 숨져 흙 속에 누우면, 주께서 아무리 저를 찾으신다 해도, 나는 이미 없는 몸이 아닙니까?",
     Chn:"为何不赦免我的过犯， 除掉我的罪孽？ 我现今要躺卧在尘土中； 你要殷勤地寻找我，我却不在了。",
     Eng:"Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more.\"",
     Ind:"Dan mengapa Engkau tidak mengampuni pelanggaranku, dan tidak menghapuskan kesalahanku? Karena sekarang aku terbaring dalam debu, lalu Engkau akan mencari aku, tetapi aku tidak akan ada lagi.\""

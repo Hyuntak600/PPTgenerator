@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Ucapan ilahi dalam penglihatan nabi Habakuk."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:2, Page:1,
-    Kor:"<하박국의 호소> 살려 달라고 부르짖어도 듣지 않으시고, \"폭력이다!\" 하고 외쳐도 구해 주지 않으시니, 주님, 언제까지 그러실 겁니까?",
+    Kor:"살려 달라고 부르짖어도 듣지 않으시고, \"폭력이다!\" 하고 외쳐도 구해 주지 않으시니, 주님, 언제까지 그러실 겁니까?",
     Chn:"他说：耶和华啊！我呼求你， 你不应允，要到几时呢？ 我因强暴哀求你，你还不拯救。",
     Eng:"How long, O LORD, must I call for help, but you do not listen? Or cry out to you, \"Violence!\" but you do not save?",
     Ind:"Berapa lama lagi, TUHAN, aku berteriak, tetapi tidak Kaudengar, aku berseru kepada-Mu: \"Penindasan!\" tetapi tidak Kautolong?"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Itulah sebabnya hukum kehilangan kekuatannya dan tidak pernah muncul keadilan, sebab orang fasik mengepung orang benar; itulah sebabnya keadilan muncul terbalik."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:5, Page:1,
-    Kor:"<주님의 대답> \"너희는 민족들을 눈여겨 보아라. 놀라고 질겁할 일이 벌어질 것이다. 너희가 살아 있는 동안에, 내가 그 일을 벌이겠다. 너희가 듣고도, 도저히 믿지 못할 일을 벌이겠다.",
+    Kor:"\"너희는 민족들을 눈여겨 보아라. 놀라고 질겁할 일이 벌어질 것이다. 너희가 살아 있는 동안에, 내가 그 일을 벌이겠다. 너희가 듣고도, 도저히 믿지 못할 일을 벌이겠다.",
     Chn:"耶和华说：你们要向列国中观看， 大大惊奇； 因为在你们的时候，我行一件事， 虽有人告诉你们，你们总是不信。",
     Eng:"\"Look at the nations and watch--and be utterly amazed. For I am going to do something in your days that you would not believe, even if you were told.",
     Ind:"Lihatlah di antara bangsa-bangsa dan perhatikanlah, jadilah heran dan tercengang-cengang, sebab Aku melakukan suatu pekerjaan dalam zamanmu yang tidak akan kamu percayai, jika diceriterakan."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:6, Page:1,
-    Kor:"이제 내가 a바빌로니아 사람을 일으키겠다. 그들은 사납고 성급한 민족이어서, 천하를 주름 잡고 돌아다니며, 남들이 사는 곳을 제 것처럼 차지할 것이다. (a 또는 '갈대아')",
+    Kor:"이제 내가 바빌로니아 사람을 일으키겠다. 그들은 사납고 성급한 민족이어서, 천하를 주름 잡고 돌아다니며, 남들이 사는 곳을 제 것처럼 차지할 것이다.",
     Chn:"我必兴起迦勒底人， 就是那残忍暴躁之民，通行遍地， 占据那不属自己的住处。",
     Eng:"I am raising up the Babylonians, that ruthless and impetuous people, who sweep across the whole earth to seize dwelling places not their own.",
     Ind:"Sebab, sesungguhnya, Akulah yang membangkitkan orang Kasdim, bangsa yang garang dan tangkas itu, yang melintasi lintang bujur bumi untuk menduduki tempat kediaman, yang bukan kepunyaan mereka."
@@ -69,31 +69,31 @@ BibleDB.add([
     Ind:"Maka berlarilah mereka, seperti angin dan bergerak terus; demikianlah mereka bersalah dengan mendewakan kekuatannya."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:12, Page:1,
-    Kor:"<하박국이 다시 호소하다> 주님, 주님께서는 옛날부터 계시지 않으셨습니까? 나의 하나님, 나의 거룩하신 주님, b우리는 죽지 않을 것입니다. 주님, 주님께서는 우리를 심판하시려고 c그를 일으키셨습니다. 반석이신 주님께서는 우리를 벌하시려고 그를 채찍으로 삼으셨습니다. (b 고대 히브리 전통에서는 '주님은 영원히 살아계시는 분이십니다' c 바빌로니아)",
+    Kor:"주님, 주께서는 옛날부터 계시지 않으셨습니까? 나의 하나님, 나의 거룩하신 주님, 우리는 죽지 않을 것입니다. 주님, 주께서는 우리를 심판하시려고 그를 일으키셨습니다. 반석이신 주께서는 우리를 벌하시려고 그를 채찍으로 삼으셨습니다.",
     Chn:"耶和华—我的　神，我的圣者啊， 你不是从亘古而有吗？ 我们必不致死。 耶和华啊，你派定他为要刑罚人； 磐石啊，你设立他为要惩治人。",
     Eng:"O LORD, are you not from everlasting? My God, my Holy One, we will not die. O LORD, you have appointed them to execute judgment; O Rock, you have ordained them to punish.",
     Ind:"Bukankah Engkau, ya TUHAN, dari dahulu Allahku, Yang Mahakudus? Tidak akan mati kami. Ya TUHAN, telah Kautetapkan dia untuk menghukumkan; ya Gunung Batu, telah Kautentukan dia untuk menyiksa."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:13, Page:1,
-    Kor:"주님께서는 눈이 맑으시므로, 악을 보시고 참지 못하시며, 패역을 보고 그냥 계시지 못하시는 분입니다. 그런데 어찌하여 배신자들을 보고만 계십니까? 악한 민족이 착한 백성을 삼키어도, 조용히만 계십니까?",
+    Kor:"주께서는 눈이 맑으시므로, 악을 보시고 참지 못하시며, 패역을 보고 그냥 계시지 못하시는 분입니다. 그런데 어찌하여 배신자들을 보고만 계십니까? 악한 민족이 착한 백성을 삼키어도, 조용히만 계십니까?",
     Chn:"你眼目清洁， 不看邪僻，不看奸恶； 行诡诈的，你为何看着不理呢？ 恶人吞灭比自己公义的， 你为何静默不语呢？",
     Eng:"Your eyes are too pure to look on evil; you cannot tolerate wrong. Why then do you tolerate the treacherous? Why are you silent while the wicked swallow up those more righteous than themselves?",
     Ind:"Mata-Mu terlalu suci untuk melihat kejahatan dan Engkau tidak dapat memandang kelaliman. Mengapa Engkau memandangi orang-orang yang berbuat khianat itu dan Engkau berdiam diri, apabila orang fasik menelan orang yang lebih benar dari dia?"
   },
   {Bible:"Habakkuk", Chapter:1, Verse:14, Page:1,
-    Kor:"주님께서 백성들을 바다의 고기처럼 만드시고 다스리는 자가 없는 바다 피조물처럼 만드시니,",
+    Kor:"주께서 백성들을 바다의 고기처럼 만드시고 다스리는 자가 없는 바다 피조물처럼 만드시니,",
     Chn:"你为何使人如海中的鱼， 又如没有管辖的爬物呢？",
     Eng:"You have made men like fish in the sea, like sea creatures that have no ruler.",
     Ind:"Engkau menjadikan manusia itu seperti ikan di laut, seperti binatang-binatang melata yang tidak ada pemerintahnya?"
   },
   {Bible:"Habakkuk", Chapter:1, Verse:15, Page:1,
-    Kor:"d악한 대적이 낚시로 백성을 모두 낚아 올리며, 그물로 백성을 사로잡아 올리며, 좽이로 끌어 모으고는, 좋아서 날뜁니다. (d 바빌로니아 사람)",
+    Kor:"악한 대적이 낚시로 백성을 모두 낚아 올리며, 그물로 백성을 사로잡아 올리며, 좽이로 끌어 모으고는, 좋아서 날뜁니다.",
     Chn:"他用钩钩住，用网捕获， 用拉网聚集他们； 因此，他欢喜快乐，",
     Eng:"The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet; and so he rejoices and is glad.",
     Ind:"Semuanya mereka ditariknya ke atas dengan kail, ditangkap dengan pukatnya dan dikumpulkan dengan payangnya; itulah sebabnya ia bersukaria dan bersorak-sorai."
   },
   {Bible:"Habakkuk", Chapter:1, Verse:16, Page:1,
-    Kor:"그러므로 d그는 그 그물 덕분에 넉넉하게 살게 되고 기름진 것을 먹게 되었다고 하면서, 그물에다가 고사를 지내고, 좽이에다가 향을 살라 바칩니다. (d 바빌로니아 사람)",
+    Kor:"그러므로 그는 그 그물 덕분에 넉넉하게 살게 되고 기름진 것을 먹게 되었다고 하면서, 그물에다가 고사를 지내고, 좽이에다가 향을 살라 바칩니다.",
     Chn:"就向网献祭，向网烧香， 因他由此得肥美的分和富裕的食物。",
     Eng:"Therefore he sacrifices to his net and burns incense to his dragnet, for by his net he lives in luxury and enjoys the choicest food.",
     Ind:"Itulah sebabnya dipersembahkannya korban untuk pukatnya dan dibakarnya korban untuk payangnya; sebab oleh karena alat-alat itu pendapatannya mewah dan rezekinya berlimpah-limpah."

@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",20,30);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:20, Verse:1, Page:1,
-    Kor:"<금보다 귀한 지혜> 포도주는 사람을 거만하게 만들고, 독한 술은 사람을 소란스럽게 만든다. 이것에 빠지는 사람은 누구든지 지혜롭지 않다.",
+    Kor:"포도주는 사람을 거만하게 만들고, 독한 술은 사람을 소란스럽게 만든다. 이것에 빠지는 사람은 누구든지 지혜롭지 않다.",
     Chn:"酒能使人亵慢，浓酒使人喧嚷； 凡因酒错误的，就无智慧。",
     Eng:"Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.",
     Ind:"Anggur adalah pencemooh, minuman keras adalah peribut, tidaklah bijak orang yang terhuyung-huyung karenanya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Siapakah dapat berkata: \"Aku telah membersihkan hatiku, aku tahir dari pada dosaku?\""
   },
   {Bible:"Proverbs", Chapter:20, Verse:10, Page:1,
-    Kor:"규격에 맞지 않은 저울추와 되는 모두 주님께서 미워하시는 것이다.",
+    Kor:"규격에 맞지 않은 저울추와 되는 모두 주께서 미워하시는 것이다.",
     Chn:"两样的法码，两样的升斗， 都为耶和华所憎恶。",
     Eng:"Differing weights and differing measures--the LORD detests them both.",
     Ind:"Dua macam batu timbangan, dua macam takaran, kedua-duanya adalah kekejian bagi TUHAN."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Anak-anakpun sudah dapat dikenal dari pada perbuatannya, apakah bersih dan jujur kelakuannya."
   },
   {Bible:"Proverbs", Chapter:20, Verse:12, Page:1,
-    Kor:"듣는 귀와 보는 눈, 이 둘은 다 주님께서 지으셨다.",
+    Kor:"듣는 귀와 보는 눈, 이 둘은 다 주께서 지으셨다.",
     Chn:"能听的耳，能看的眼， 都是耶和华所造的。",
     Eng:"Ears that hear and eyes that see--the LORD has made them both.",
     Ind:"Telinga yang mendengar dan mata yang melihat, kedua-duanya dibuat oleh TUHAN."
   },
   {Bible:"Proverbs", Chapter:20, Verse:13, Page:1,
-    Kor:"가난하지 않으려면 잠을 좋아하지 말고, 먹거리를 풍족히 얻으려면 깨어 있어라.",
+    Kor:"가난하지 않으려면 잠을 좋아하지 말고, 먹을거리를 풍족히 얻으려면 깨어 있어라.",
     Chn:"不要贪睡，免致贫穷； 眼要睁开，你就吃饱。",
     Eng:"Do not love sleep or you will grow poor; stay awake and you will have food to spare.",
     Ind:"Janganlah menyukai tidur, supaya engkau tidak jatuh miskin, bukalah matamu dan engkau akan makan sampai kenyang."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Janganlah engkau berkata: \"Aku akan membalas kejahatan,\" nantikanlah TUHAN, Ia akan menyelamatkan engkau."
   },
   {Bible:"Proverbs", Chapter:20, Verse:23, Page:1,
-    Kor:"규격에 맞지 않은 저울추는 주님께서 미워하신다. 속이는 저울은 나쁜 것이다.",
+    Kor:"규격에 맞지 않은 저울추는 주께서 미워하신다. 속이는 저울은 나쁜 것이다.",
     Chn:"两样的法码为耶和华所憎恶； 诡诈的天平也为不善。",
     Eng:"The LORD detests differing weights, and dishonest scales do not please him.",
     Ind:"Dua macam batu timbangan adalah kekejian bagi TUHAN, dan neraca serong itu tidak baik."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Raja yang bijak dapat mengenal orang-orang fasik, dan menggilas mereka berulang-ulang."
   },
   {Bible:"Proverbs", Chapter:20, Verse:27, Page:1,
-    Kor:"a주님은 사람의 영혼을 환히 비추시고, 사람의 마음 속 깊은 곳까지 살펴보신다. (a 또는 '주님의 등불은 사람의 영혼을 살펴 보신다' 또는 '사람의 영혼은 주님의 등불이다')",
+    Kor:"주님은 사람의 영혼을 환히 비추시고, 사람의 마음 속 깊은 곳까지 살펴보신다.",
     Chn:"人的灵是耶和华的灯， 鉴察人的心腹。",
     Eng:"The lamp of the LORD searches the spirit of a man; it searches out his inmost being.",
     Ind:"Roh manusia adalah pelita TUHAN, yang menyelidiki seluruh lubuk hatinya."

@@ -3,25 +3,25 @@
 BibleDB.ref("Numbers",31,54);
 BibleDB.add([
   {Bible:"Numbers", Chapter:31, Verse:1, Page:1,
-    Kor:"<미디안에게 주님의 원수를 갚다> 주님께서 모세에게 이렇게 말씀하셨다.",
+    Kor:"주께서 모세에게 이렇게 말씀하셨다.",
     Chn:"耶和华吩咐摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:31, Verse:2, Page:1,
-    Kor:"\"너는 미디안 사람에게 이스라엘 자손의 원수를 갚아라. 그렇게 하고 난 다음에, 너는 a조상에게로 돌아갈 것이다.\"(a 히, '백성')",
+    Kor:"\"너는 미디안 사람에게 이스라엘 자손의 원수를 갚아라. 그렇게 하고 난 다음에, 너는 조상에게로 돌아갈 것이다.\"",
     Chn:"「你要在米甸人身上报以色列人的仇，后来要归到你列祖那里。」",
     Eng:"\"Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people.\"",
     Ind:"\"Lakukanlah pembalasan orang Israel kepada orang Midian; kemudian engkau akan dikumpulkan kepada kaum leluhurmu.\""
   },
   {Bible:"Numbers", Chapter:31, Verse:3, Page:1,
-    Kor:"○모세가 백성에게 말하였다. \"당신들 가운데서 전쟁에 나갈 사람들을 무장시키시오. 미디안을 쳐서, 미디안에 대한 주님의 원수를 갚아야 하오.",
+    Kor:"○모세가 백성에게 말하였다. \"너희 가운데서 전쟁에 나갈 사람들을 무장시켜라. 미디안을 쳐서, 미디안에 대한 주의 원수를 갚아야 한다.",
     Chn:"摩西吩咐百姓说：「要从你们中间叫人带兵器出去攻击米甸，好在米甸人身上为耶和华报仇。",
     Eng:"So Moses said to the people, \"Arm some of your men to go to war against the Midianites and to carry out the LORD'S vengeance on them.",
     Ind:"Lalu berkatalah Musa kepada bangsa itu: \"Baiklah sejumlah orang dari antaramu mempersenjatai diri untuk berperang, supaya mereka melawan Midian untuk menjalankan pembalasan TUHAN terhadap Midian."
   },
   {Bible:"Numbers", Chapter:31, Verse:4, Page:1,
-    Kor:"이스라엘 모든 지파는 각 지파마다, 어느 지파도 예외 없이, 천 명씩을 전쟁에 내보내야 하오.\"",
+    Kor:"이스라엘 모든 지파는 각 지파마다, 어느 지파도 예외 없이, 천 명씩을 전쟁에 내보내야 한다.\"",
     Chn:"从以色列众支派中，每支派要打发一千人去打仗。」",
     Eng:"Send into battle a thousand men from each of the tribes of Israel.\"",
     Ind:"Dari setiap suku di antara segala suku Israel haruslah kamu menyuruh seribu orang untuk berperang.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu Musa menyuruh mereka untuk berperang, seribu orang dari tiap-tiap suku, bersama-sama dengan Pinehas, anak imam Eleazar, untuk berperang, dengan membawa perkakas tempat kudus dan nafiri-nafiri pemberi tanda semboyan."
   },
   {Bible:"Numbers", Chapter:31, Verse:7, Page:1,
-    Kor:"그들은, 주님께서 모세에게 명하신 대로 미디안을 쳐서, 남자는 모조리 죽여 버렸다.",
+    Kor:"그들은, 주께서 모세에게 명하신 대로 미디안을 쳐서, 남자는 모조리 죽여 버렸다.",
     Chn:"他们就照耶和华所吩咐摩西的，与米甸人打仗，杀了所有的男丁。",
     Eng:"They fought against Midian, as the LORD commanded Moses, and killed every man.",
     Ind:"Kemudian berperanglah mereka melawan Midian, seperti yang diperintahkan TUHAN kepada Musa, lalu membunuh semua laki-laki mereka."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"dan dibawalah orang-orang tawanan, rampasan dan jarahan itu kepada Musa dan imam Eleazar dan kepada umat Israel, ke tempat perkemahan di dataran Moab yang di tepi sungai Yordan dekat Yerikho."
   },
   {Bible:"Numbers", Chapter:31, Verse:13, Page:1,
-    Kor:"<군대가 이기고 돌아오다> ○모세와 제사장 엘르아살과 회중의 대표들이 모두 그들을 맞으러 진 밖으로 나갔다.",
+    Kor:"○모세와 제사장 엘르아살과 회중의 대표들이 모두 그들을 맞으러 진 밖으로 나갔다.",
     Chn:"摩西和祭司以利亚撒，并会众一切的首领，都出到营外迎接他们。",
     Eng:"Moses, Eleazar the priest and all the leaders of the community went to meet them outside the camp.",
     Ind:"Lalu pergilah Musa dan imam Eleazar dan semua pemimpin umat itu sampai ke luar tempat perkemahan untuk menyongsong mereka."
@@ -87,43 +87,43 @@ BibleDB.add([
     Ind:"Maka gusarlah Musa kepada para pemimpin tentara itu, kepada para kepala pasukan seribu dan para kepala pasukan seratus, yang pulang dari peperangan,"
   },
   {Bible:"Numbers", Chapter:31, Verse:15, Page:1,
-    Kor:"모세가 그들을 꾸짖었다. \"어쩌자고 여자들을 모두 살려 두었소?",
+    Kor:"모세가 그들을 꾸짖었다. \"어쩌자고 여자들을 모두 살려 두었느냐?",
     Chn:"对他们说：「你们要存留这一切妇女的活命吗？",
     Eng:"\"Have you allowed all the women to live?\" he asked them.",
     Ind:"dan Musa berkata kepada mereka: \"Kamu biarkankah semua perempuan hidup?"
   },
   {Bible:"Numbers", Chapter:31, Verse:16, Page:1,
-    Kor:"이 여자들이야말로 브올에서의 그 사건 때에, 발람의 말을 듣고 이스라엘 자손을 꾀어, 주님을 배신하게 하고, 주님의 회중에 염병이 일어나게 한, 바로 그 사람들이오.",
+    Kor:"이 여자들이야말로 브올에서의 그 사건 때에, 발람의 말을 듣고 이스라엘 자손을 꾀어, 주를 배신하게 하고, 주의 회중에 염병이 일어나게 한, 바로 그 사람들이다.",
     Chn:"这些妇女因巴兰的计谋，叫以色列人在毗珥的事上得罪耶和华，以致耶和华的会众遭遇瘟疫。",
     Eng:"\"They were the ones who followed Balaam's advice and were the means of turning the Israelites away from the LORD in what happened at Peor, so that a plague struck the LORD'S people.",
     Ind:"Bukankah perempuan-perempuan ini, atas nasihat Bileam, menjadi sebabnya orang Israel berubah setia terhadap TUHAN dalam hal Peor, sehingga tulah turun ke antara umat TUHAN."
   },
   {Bible:"Numbers", Chapter:31, Verse:17, Page:1,
-    Kor:"그러니 이제 아이들 가운데서 남자는 다 죽이시오. 남자와 동침하여 사내를 안 일이 있는 여자도 다 죽이시오.",
+    Kor:"그러니 이제 아이들 가운데서 남자는 다 죽여라. 남자와 동침하여 사내를 안 일이 있는 여자도 다 죽여라.",
     Chn:"所以，你们要把一切的男孩和所有已嫁的女子都杀了。",
     Eng:"Now kill all the boys. And kill every woman who has slept with a man,",
     Ind:"Maka sekarang bunuhlah semua laki-laki di antara anak-anak mereka, dan juga semua perempuan yang pernah bersetubuh dengan laki-laki haruslah kamu bunuh."
   },
   {Bible:"Numbers", Chapter:31, Verse:18, Page:1,
-    Kor:"여자들 가운데서 남자와 동침하지 않아 사내를 안 일이 없는 처녀는, 당신들이 차지할 몫으로 살려 두시오.",
+    Kor:"여자들 가운데서 남자와 동침하지 않아 사내를 안 일이 없는 처녀는, 너희들이 차지할 몫으로 살려 두어라.",
     Chn:"但女孩子中，凡没有出嫁的，你们都可以存留她的活命。",
     Eng:"but save for yourselves every girl who has never slept with a man.",
     Ind:"Tetapi semua orang muda di antara perempuan yang belum pernah bersetubuh dengan laki-laki haruslah kamu biarkan hidup bagimu."
   },
   {Bible:"Numbers", Chapter:31, Verse:19, Page:1,
-    Kor:"그리고 당신들은 진 밖에서 이레 동안 머물러 있어야 하오. 사흘째 되는 날과 이레째 되는 날에는, 사람을 죽인 사람과 시체에 닿은 사람과, 당신들만이 아니라 당신들이 사로잡은 포로들도 모두, 부정탄 것을 벗는 예식을 올려야 하오.",
+    Kor:"그리고 너희는 진 밖에서 이레 동안 머물러 있어야 한다. 사흘째 되는 날과 이레째 되는 날에는, 사람을 죽인 사람과 시체에 닿은 사람과, 너희만이 아니라 너희가 사로잡은 포로들도 모두, 부정탄 것을 벗는 예식을 올려야 한다.",
     Chn:"你们要在营外驻扎七日；凡杀了人的，和一切摸了被杀的，并你们所掳来的人口，第三日，第七日，都要洁净自己，",
     Eng:"\"All of you who have killed anyone or touched anyone who was killed must stay outside the camp seven days. On the third and seventh days you must purify yourselves and your captives.",
     Ind:"Tetapi kamu ini, berkemahlah tujuh hari lamanya di luar tempat perkemahan; setiap orang yang telah membunuh orang dan setiap orang yang kena kepada orang yang mati terbunuh haruslah menghapus dosa dari dirinya pada hari yang ketiga dan pada hari yang ketujuh, kamu sendiri dan orang-orang tawananmu;"
   },
   {Bible:"Numbers", Chapter:31, Verse:20, Page:1,
-    Kor:"그뿐만 아니라 모든 옷가지들, 모든 가죽제품들, 염소털로 짠 모든 것들, 나무로 만든 모든 것들도 부정탄 것을 벗겨야 하오.\"",
+    Kor:"그뿐만 아니라 모든 옷가지들, 모든 가죽제품들, 염소털로 짠 모든 것들, 나무로 만든 모든 것들도 부정탄 것을 벗겨야 한다.\"",
     Chn:"也要因一切的衣服、皮物、山羊毛织的物，和各样的木器，洁净自己。」",
     Eng:"Purify every garment as well as everything made of leather, goat hair or wood.\"",
     Ind:"juga setiap pakaian dan setiap barang kulit dan setiap barang yang dibuat dari bulu kambing dan setiap barang kayu haruslah disucikan.\""
   },
   {Bible:"Numbers", Chapter:31, Verse:21, Page:1,
-    Kor:"○제사장 엘르아살이 전쟁에 나갔다 돌아온 군인들에게 말하였다. \"이것은 주님께서 모세에게 명하신 법의 율례이오.",
+    Kor:"○제사장 엘르아살이 전쟁에 나갔다 돌아온 군인들에게 말하였다. \"이것은 주께서 모세에게 명하신 법의 율례이다.",
     Chn:"祭司以利亚撒对打仗回来的兵丁说：「耶和华所吩咐摩西律法中的条例乃是这样：",
     Eng:"Then Eleazar the priest said to the soldiers who had gone into battle, \"This is the requirement of the law that the LORD gave Moses:",
     Ind:"Lalu berkatalah imam Eleazar kepada para prajurit, yang telah pergi bertempur itu: \"Inilah ketetapan hukum yang diperintahkan TUHAN kepada Musa."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Hanya emas dan perak, tembaga, besi, timah putih dan timah hitam,"
   },
   {Bible:"Numbers", Chapter:31, Verse:23, Page:1,
-    Kor:"불에 타지 않는 것들은 모두 불에 넣었다가 꺼내면 깨끗하게 되지만, 정결하게 하는 물로도 깨끗하게 해야 하오. 그러나 불에 타는 물건은, 모두 물에 담갔다가 꺼내기만 해도 되오.",
+    Kor:"불에 타지 않는 것들은 모두 불에 넣었다가 꺼내면 깨끗하게 되지만, 정결하게 하는 물로도 깨끗하게 해야 한다. 그러나 불에 타는 물건은, 모두 물에 담갔다가 꺼내기만 해도 된다.",
     Chn:"凡能见火的，你们要叫它经火就为洁净，然而还要用除污秽的水洁净它；凡不能见火的，你们要叫它过水。",
     Eng:"and anything else that can withstand fire must be put through the fire, and then it will be clean. But it must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water.",
     Ind:"segala yang tahan api, haruslah kamu lakukan dari api, supaya menjadi tahir; tetapi semuanya itu haruslah juga disucikan dengan air penyuci; dan segala yang tidak tahan api haruslah kamu lalukan dari air."
   },
   {Bible:"Numbers", Chapter:31, Verse:24, Page:1,
-    Kor:"당신들이 입고 있는 옷은 이레째 되는 날에 빨아서 깨끗하게 해야 하오. 그렇게 한 다음에야 당신들은 진 안으로 들어올 수 있소.\"",
+    Kor:"너희가 입고 있는 옷은 이레째 되는 날에 빨아서 깨끗하게 해야 한다. 그렇게 한 다음에야 너희는 진 안으로 들어올 수 있다.\"",
     Chn:"第七日，你们要洗衣服，就为洁净，然后可以进营。」",
     Eng:"On the seventh day wash your clothes and you will be clean. Then you may come into the camp.\"",
     Ind:"Lagipula kamu harus mencuci pakaianmu pada hari yang ketujuh, supaya kamu tahir, dan kemudian bolehlah kamu masuk ke tempat perkemahan.\""
   },
   {Bible:"Numbers", Chapter:31, Verse:25, Page:1,
-    Kor:"<전리품 분배> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Lalu bagi dualah rampasan itu, kepada pasukan bersenjata yang telah keluar berperang, dan kepada segenap umat yang lain."
   },
   {Bible:"Numbers", Chapter:31, Verse:28, Page:1,
-    Kor:"전쟁에 나갔다 온 사람들에게서는 나 주에게 바칠 세금 몫을 떼어 내어라. 사람이든 소든 나귀든 양 떼든, 그 오백분의 일을,",
+    Kor:"전쟁에 나갔다 온 사람들에게서는 주께 드릴 세금 몫을 떼어 내어라. 사람이든 소든 나귀든 양 떼든, 그 오백분의 일을,",
     Chn:"又要从出去打仗所得的人口、牛、驴、羊群中，每五百取一，作为贡物奉给耶和华。",
     Eng:"From the soldiers who fought in the battle, set apart as tribute for the LORD one out of every five hundred, whether persons, cattle, donkeys, sheep or goats.",
     Ind:"Dan engkau harus mengkhususkan upeti bagi TUHAN dari para prajurit yang keluar bertempur itu, yakni satu dari setiap lima ratus, baik dari manusia, baik dari lembu, dari keledai dan dari kambing domba;"
   },
   {Bible:"Numbers", Chapter:31, Verse:29, Page:1,
-    Kor:"그들에게 나누어 준 절반에서 떼어 내어, 나 주에게 바치는 제물로 제사장 엘르아살에게 주어라.",
+    Kor:"그들에게 나누어 준 절반에서 떼어 내어, 주께 바치는 제물로 제사장 엘르아살에게 주어라.",
     Chn:"从他们一半之中，要取出来交给祭司以利亚撒，作为耶和华的举祭。",
     Eng:"Take this tribute from their half share and give it to Eleazar the priest as the LORD'S part.",
     Ind:"dari yang setengah yang telah didapat mereka haruslah engkau mengambilnya, lalu menyerahkannya kepada imam Eleazar, sebagai persembahan khusus bagi TUHAN."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Tetapi dari yang setengah lagi yang untuk orang Israel lain haruslah engkau mengambil satu ambilan dari setiap lima puluh, baik dari manusia, baik dari lembu, dari keledai dan dari kambing domba, jadi dari segala hewan, lalu menyerahkan semuanya kepada orang Lewi yang memelihara Kemah Suci TUHAN.\""
   },
   {Bible:"Numbers", Chapter:31, Verse:31, Page:1,
-    Kor:"○모세와 제사장 엘르아살은 주님께서 모세에게 명하신 대로 하였다.",
+    Kor:"○모세와 제사장 엘르아살은 주께서 모세에게 명하신 대로 하였다.",
     Chn:"于是摩西和祭司以利亚撒照耶和华所吩咐摩西的行了。",
     Eng:"So Moses and Eleazar the priest did as the LORD commanded Moses.",
     Ind:"Kemudian Musa dan imam Eleazar melakukan seperti yang diperintahkan TUHAN kepada Musa."
@@ -219,31 +219,31 @@ BibleDB.add([
     Ind:"Yang setengah yang menjadi bagian orang-orang yang telah keluar berperang itu jumlahnya tiga ratus tiga puluh tujuh ribu lima ratus ekor kambing domba,"
   },
   {Bible:"Numbers", Chapter:31, Verse:37, Page:1,
-    Kor:"그 양 가운데서 육백일흔다섯 마리는 주님께 드리는 세금으로 바쳤다.",
+    Kor:"그 양 가운데서 육백일흔다섯 마리는 주께 드리는 세금으로 바쳤다.",
     Chn:"从其中归耶和华为贡物的，有六百七十五只；",
     Eng:"of which the tribute for the LORD was 675;",
     Ind:"jadi upeti bagi TUHAN dari kambing domba itu ada enam ratus tujuh puluh lima ekor;"
   },
   {Bible:"Numbers", Chapter:31, Verse:38, Page:1,
-    Kor:"소는 삼만 육천 마리이고, 그 가운데서 주님께 드린 세금은 일흔두 마리이다.",
+    Kor:"소는 삼만 육천 마리이고, 그 가운데서 주께 드린 세금은 일흔두 마리이다.",
     Chn:"牛三万六千只，从其中归耶和华为贡物的，有七十二只；",
     Eng:"36,000 cattle, of which the tribute for the LORD was 72;",
     Ind:"lembu-lembu tiga puluh enam ribu ekor, jadi upetinya bagi TUHAN ada tujuh puluh dua ekor;"
   },
   {Bible:"Numbers", Chapter:31, Verse:39, Page:1,
-    Kor:"나귀는 삼만 오백 마리이고, 그 가운데서 주님께 드린 세금은 예순한 마리이다.",
+    Kor:"나귀는 삼만 오백 마리이고, 그 가운데서 주께 드린 세금은 예순한 마리이다.",
     Chn:"驴三万零五百匹，从其中归耶和华为贡物的，有六十一匹；",
     Eng:"30,500 donkeys, of which the tribute for the LORD was 61;",
     Ind:"keledai-keledai tiga puluh ribu lima ratus ekor, jadi upetinya bagi TUHAN ada enam puluh satu ekor;"
   },
   {Bible:"Numbers", Chapter:31, Verse:40, Page:1,
-    Kor:"사람은 만 육천 명이고, 그 가운데서 서른두 명을 주님께 세금으로 드렸다.",
+    Kor:"사람은 만 육천 명이고, 그 가운데서 서른두 명을 주께 세금으로 드렸다.",
     Chn:"人一万六千口，从其中归耶和华的，有三十二口。",
     Eng:"16,000 people, of which the tribute for the LORD was 32.",
     Ind:"dan orang-orang enam belas ribu orang, jadi upetinya bagi TUHAN tiga puluh dua orang."
   },
   {Bible:"Numbers", Chapter:31, Verse:41, Page:1,
-    Kor:"모세는 주님께 제물로 드린 세금을 제사장 엘르아살에게 주었다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는 주께 제물로 드린 세금을 제사장 엘르아살에게 주었다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"摩西把贡物，就是归与耶和华的举祭，交给祭司以利亚撒，是照耶和华所吩咐摩西的。",
     Eng:"Moses gave the tribute to Eleazar the priest as the LORD'S part, as the LORD commanded Moses.",
     Ind:"Lalu Musa menyerahkan upeti yang dikhususkan bagi TUHAN itu kepada imam Eleazar, seperti yang diperintahkan TUHAN kepada Musa."
@@ -279,7 +279,7 @@ BibleDB.add([
     Ind:"dan orang-orang enam belas ribu orang."
   },
   {Bible:"Numbers", Chapter:31, Verse:47, Page:1,
-    Kor:"모세는, 이스라엘 자손이 받은 절반에서 사람과 짐승을 오십분의 일씩 떼어, 주님의 성막을 보살피는 레위 사람에게 주었다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는, 이스라엘 자손이 받은 절반에서 사람과 짐승을 오십분의 일씩 떼어, 주의 성막을 보살피는 레위 사람에게 주었다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"无论是人口是牲畜，摩西每五十取一，交给看守耶和华帐幕的利未人，是照耶和华所吩咐摩西的。",
     Eng:"From the Israelites' half, Moses selected one out of every fifty persons and animals, as the LORD commanded him, and gave them to the Levites, who were responsible for the care of the LORD'S tabernacle.",
     Ind:"Lalu Musa mengambil dari yang setengah yang menjadi bagian orang Israel lain itu satu ambilan dari setiap lima puluh, baik dari manusia baik dari hewan, kemudian menyerahkan semuanya kepada orang Lewi yang memelihara Kemah Suci, seperti yang diperintahkan TUHAN kepada Musa."
@@ -297,7 +297,7 @@ BibleDB.add([
     Ind:"serta berkata kepadanya: \"Hamba-hambamu ini telah menghitung jumlah prajurit yang ada di bawah kuasa kami dan dari mereka tidak ada seorangpun yang hilang."
   },
   {Bible:"Numbers", Chapter:31, Verse:50, Page:1,
-    Kor:"주님께 예물을 가져 왔습니다. 주님 앞에서 우리 자신이 죄를 벗고자 하여, 금으로 만든 것들, 곧 발목걸이, 팔찌, 인장, 가락지, 귀고리, 목걸이를, 우리가 저마다 얻은 대로 이렇게 가져 왔습니다.\"",
+    Kor:"주께 예물을 가져 왔습니다. 주 앞에서 우리 자신이 죄를 벗고자 하여, 금으로 만든 것들, 곧 발목걸이, 팔찌, 인장, 가락지, 귀고리, 목걸이를, 우리가 저마다 얻은 대로 이렇게 가져 왔습니다.\"",
     Chn:"如今我们将各人所得的金器，就是脚链子、镯子、打印的戒指、耳环、手钏，都送来为耶和华的供物，好在耶和华面前为我们的生命赎罪。」",
     Eng:"So we have brought as an offering to the LORD the gold articles each of us acquired--armlets, bracelets, signet rings, earrings and necklaces--to make atonement for ourselves before the LORD.\"",
     Ind:"Sebab itu kami mempersembahkan sebagai persembahan kepada TUHAN apa yang didapat masing-masing, yakni barang-barang emas, gelang kaki, gelang tangan, cincin meterai, anting-anting dan kerongsang untuk mengadakan pendamaian bagi nyawa kami di hadapan TUHAN.\""
@@ -309,7 +309,7 @@ BibleDB.add([
     Ind:"Maka Musa dan imam Eleazar menerima dari mereka emas itu, semuanya barang-barang tempaan."
   },
   {Bible:"Numbers", Chapter:31, Verse:52, Page:1,
-    Kor:"천부장들과 백부장들이 주님께 예물로 드린 금은 모두 만 육천칠백오십 세겔이나 되었다.",
+    Kor:"천부장들과 백부장들이 주께 예물로 드린 금은 모두 만 육천칠백오십 세겔이나 되었다.",
     Chn:"千夫长、百夫长所献给耶和华为举祭的金子共有一万六千七百五十舍客勒。",
     Eng:"All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the LORD weighed 16,750 shekels.",
     Ind:"Dan segala emas persembahan khusus yang dipersembahkan mereka kepada TUHAN, yakni yang dari pihak kepala-kepala pasukan seribu dan kepala-kepala pasukan seratus, ada enam belas ribu tujuh ratus lima puluh syikal beratnya."
@@ -321,7 +321,7 @@ BibleDB.add([
     Ind:"Tetapi prajurit-prajurit itu masing-masing telah mengambil jarahan bagi dirinya sendiri."
   },
   {Bible:"Numbers", Chapter:31, Verse:54, Page:1,
-    Kor:"모세와 제사장 엘르아살은, 천부장들과 백부장들에게서 금을 받아서, 회막으로 가져 가서 주님 앞에 놓고, 이스라엘 자손을 위한 기념물로 삼았다.",
+    Kor:"모세와 제사장 엘르아살은, 천부장들과 백부장들에게서 금을 받아서, 회막으로 가져 가서 주 앞에 놓고, 이스라엘 자손을 위한 기념물로 삼았다.",
     Chn:"摩西和祭司以利亚撒收了千夫长、百夫长的金子，就带进会幕，在耶和华面前作为以色列人的纪念。",
     Eng:"Moses and Eleazar the priest accepted the gold from the commanders of thousands and commanders of hundreds and brought it into the Tent of Meeting as a memorial for the Israelites before the LORD.",
     Ind:"Setelah Musa dan imam Eleazar menerima emas itu dari pihak kepala-kepala pasukan seribu dan kepala-kepala pasukan seratus, maka mereka membawanya ke dalam Kemah Pertemuan sebagai peringatan di hadapan TUHAN untuk mengingat orang Israel."

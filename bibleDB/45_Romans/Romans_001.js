@@ -3,67 +3,67 @@
 BibleDB.ref("Romans",1,32);
 BibleDB.add([
   {Bible:"Romans", Chapter:1, Verse:1, Page:1,
-    Kor:"<인사> 그리스도 예수의 종인 나 바울은 부르심을 받아 사도가 되었습니다. 나는 하나님의 복음을 전하기 위하여 따로 세우심을 받았습니다.",
+    Kor:"그리스도 예수의 종인 나 바울은 사도로 부르심을 받아, 하나님의 복음을 전하라고 따로 세우심을 받았습니다.",
     Chn:"耶稣基督的仆人保罗，奉召为使徒，特派传　神的福音。",
     Eng:"Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--",
     Ind:"Dari Paulus, hamba Kristus Yesus, yang dipanggil menjadi rasul dan dikuduskan untuk memberitakan Injil Allah."
   },
   {Bible:"Romans", Chapter:1, Verse:2, Page:1,
-    Kor:"이 복음은 하나님께서 예언자들을 통하여 성경에 미리 약속하신 것으로",
+    Kor:"이 복음은 하나님께서 예언자들을 시켜서 성경에 미리 약속하신 것으로",
     Chn:"这福音是　神从前借众先知在圣经上所应许的，",
     Eng:"the gospel he promised beforehand through his prophets in the Holy Scriptures",
     Ind:"Injil itu telah dijanjikan-Nya sebelumnya dengan perantaraan nabi-nabi-Nya dalam kitab-kitab suci,"
   },
   {Bible:"Romans", Chapter:1, Verse:3, Page:1,
-    Kor:"그의 아들을 두고 하신 말씀입니다. 이 아들은, 육신으로는 다윗의 후손으로 태어나셨으며,",
+    Kor:"당신의 아들을 두고 하신 말씀입니다. 이 아들로 말하면, 육신으로는 다윗의 자손으로 나셨으며,",
     Chn:"论到他儿子—我主耶稣基督。按肉体说，是从大卫后裔生的；",
     Eng:"regarding his Son, who as to his human nature was a descendant of David,",
     Ind:"tentang Anak-Nya, yang menurut daging diperanakkan dari keturunan Daud,"
   },
   {Bible:"Romans", Chapter:1, Verse:4, Page:1,
-    Kor:"a성령으로는 죽은 사람들 가운데서 부활하심으로 나타내신 권능으로 하나님의 아들로 b확정되신 분이십니다. 그는 곧 우리 주 예수 그리스도이십니다.(a 그, '거룩함의 영' b 또는 '확인되신, 지정되신, 지명되신')",
+    Kor:"거룩한 영으로는 죽은 사람들 가운데서 부활하심으로, 권능으로 하나님의 아들로 확정되셨으니, 곧 우리 주 예수 그리스도이십니다.",
     Chn:"按圣善的灵说，因从死里复活，以大能显明是　神的儿子。",
     Eng:"and who through the Spirit of holiness was declared with power to be the Son of God by his resurrection from the dead: Jesus Christ our Lord.",
     Ind:"dan menurut Roh kekudusan dinyatakan oleh kebangkitan-Nya dari antara orang mati, bahwa Ia adalah Anak Allah yang berkuasa, Yesus Kristus Tuhan kita."
   },
   {Bible:"Romans", Chapter:1, Verse:5, Page:1,
-    Kor:"우리는 그를 통하여 은혜를 입어 사도의 직분을 받았습니다. 그것은 우리가 그 이름을 전하여 모든 민족이 믿고 순종하게 하려는 것입니다.",
+    Kor:"우리는, 그 이름을 전하여 모든 이방 사람으로 하여금 믿어서 순종하게 하려고, 그를 통하여 은혜와 사도의 직분을 받았습니다.",
     Chn:"我们从他受了恩惠并使徒的职分，在万国之中叫人为他的名信服真道；",
     Eng:"Through him and for his name's sake, we received grace and apostleship to call people from among all the Gentiles to the obedience that comes from faith.",
     Ind:"Dengan perantaraan-Nya kami menerima kasih karunia dan jabatan rasul untuk menuntun semua bangsa, supaya mereka percaya dan taat kepada nama-Nya."
   },
   {Bible:"Romans", Chapter:1, Verse:6, Page:1,
-    Kor:"여러분도 그들 가운데 들어 있어서, 예수 그리스도의 부르심을 받은 사람이 되었습니다.",
+    Kor:"여러분도 그들 가운데서 부르심을 받고 예수 그리스도의 사람이 되었습니다.",
     Chn:"其中也有你们这蒙召属耶稣基督的人。",
     Eng:"And you also are among those who are called to belong to Jesus Christ.",
     Ind:"Kamu juga termasuk di antara mereka, kamu yang telah dipanggil menjadi milik Kristus."
   },
   {Bible:"Romans", Chapter:1, Verse:7, Page:1,
-    Kor:"○나는 로마에 있는 모든 신도에게 이 편지를 씁니다. 하나님께서 여러분을 사랑하셔서, 그의 거룩한 백성으로 부르셨습니다. 하나님 우리 아버지와 주 예수 그리스도께서 내려 주시는 은혜와 평화가 여러분에게 있기를 빕니다.",
+    Kor:"○하나님께서 사랑하셔서 당신의 성도로 부르심을 받은 로마에 있는 모든 신도에게, 우리 하나님 아버지와 주 예수 그리스도께서 내려 주시는 은혜와 평화가 있기를 빕니다.",
     Chn:"我写信给你们在罗马、为　神所爱、奉召作圣徒的众人。愿恩惠、平安从我们的父　神并主耶稣基督归与你们！",
     Eng:"To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and from the Lord Jesus Christ.",
     Ind:"Kepada kamu sekalian yang tinggal di Roma, yang dikasihi Allah, yang dipanggil dan dijadikan orang-orang kudus: Kasih karunia menyertai kamu dan damai sejahtera dari Allah, Bapa kita, dan dari Tuhan Yesus Kristus."
   },
   {Bible:"Romans", Chapter:1, Verse:8, Page:1,
-    Kor:"<바울의 로마 방문 계획> ○나는 먼저 여러분 모두의 일로, 예수 그리스도를 통하여 나의 하나님께 감사를 드립니다. 그것은 여러분의 믿음에 대한 소문이 온 세상에 퍼지고 있기 때문입니다.",
+    Kor:"○나는 먼저 여러분의 믿음이 온 세상에 전파되었다는 사실에 대하여 예수 그리스도를 통하여 나의 하나님께 감사를 드립니다.",
     Chn:"第一，我靠着耶稣基督，为你们众人感谢我的　神，因你们的信德传遍了天下。",
     Eng:"First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world.",
     Ind:"Pertama-tama aku mengucap syukur kepada Allahku oleh Yesus Kristus atas kamu sekalian, sebab telah tersiar kabar tentang imanmu di seluruh dunia."
   },
   {Bible:"Romans", Chapter:1, Verse:9, Page:1,
-    Kor:"하나님은, 내가 그 아들의 복음을 전하는 일로 c충심으로 섬기는 분이시기에, 내 마음 속을 알고 계십니다. 나는 기도할 때마다, 언제나 여러분을 생각하며,(c 그, '영')",
+    Kor:"내가 그 아들의 복음을 전하는 데 있어서 내 심령으로 섬기는 하나님이 나를 증언하는 분이십니다. 나는 기도할 때마다, 언제나 여러분을 생각하며,",
     Chn:"我在他儿子福音上，用心灵所事奉的　神可以见证，我怎样不住地提到你们；",
     Eng:"God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you",
     Ind:"Karena Allah, yang kulayani dengan segenap hatiku dalam pemberitaan Injil Anak-Nya, adalah saksiku, bahwa dalam doaku aku selalu mengingat kamu:"
   },
   {Bible:"Romans", Chapter:1, Verse:10, Page:1,
-    Kor:"어떻게 해서든지 하나님의 뜻으로 여러분에게로 갈 수 있는 좋은 길이 열리기를 간구하고 있습니다.",
+    Kor:"언젠가는 하나님의 뜻으로 여러분에게로 갈 수 있는 좋은 길이 열리기를 간구하고 있습니다.",
     Chn:"在祷告之间常常恳求，或者照　神的旨意，终能得平坦的道路往你们那里去。",
     Eng:"in my prayers at all times; and I pray that now at last by God's will the way may be opened for me to come to you.",
     Ind:"Aku berdoa, semoga dengan kehendak Allah aku akhirnya beroleh kesempatan untuk mengunjungi kamu."
   },
   {Bible:"Romans", Chapter:1, Verse:11, Page:1,
-    Kor:"내가 여러분을 간절히 보고 싶어하는 것은, 여러분에게 신령한 은사를 좀 나누어주어, 여러분을 굳세게 하려고 하는 것입니다.",
+    Kor:"내가 여러분을 간절히 보고 싶어하는 것은, 여러분에게 어떤 신령한 은사를 나누어 주어, 여러분을 굳세게 하려고 하는 것입니다.",
     Chn:"因为我切切地想见你们，要把些属灵的恩赐分给你们，使你们可以坚固；",
     Eng:"I long to see you so that I may impart to you some spiritual gift to make you strong--",
     Ind:"Sebab aku ingin melihat kamu untuk memberikan karunia rohani kepadamu guna menguatkan kamu,"
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"yaitu, supaya aku ada di antara kamu dan turut terhibur oleh iman kita bersama, baik oleh imanmu maupun oleh imanku."
   },
   {Bible:"Romans", Chapter:1, Verse:13, Page:1,
-    Kor:"d형제자매 여러분, 여러분은 이것을 아시기 바랍니다. 나는 여러분에게 가려고 여러 번 마음을 먹었으나, 지금까지 길이 막혀서 뜻을 이루지 못하였습니다. 나는 다른 이방 사람들 가운데서도 열매를 거둔 것과 같이, 여러분 가운데서도 그것을 좀 거두려고 했던 것입니다.(d 그, '형제들')",
+    Kor:"형제자매 여러분, 여러분은 이것을 아시기 바랍니다. 나는 여러분에게 가려고 여러 번 마음을 먹었으나, 지금까지 길이 막혀서 뜻을 이루지 못하였습니다. 나는 다른 이방 사람들 가운데서 열매를 거둔 것과 같이, 여러분 가운데서도 그것을 얼마만큼 거두고자 하였습니다.",
     Chn:"弟兄们，我不愿意你们不知道，我屡次定意往你们那里去，要在你们中间得些果子，如同在其余的外邦人中一样；只是到如今仍有阻隔。",
     Eng:"I do not want you to be unaware, brothers, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles.",
     Ind:"Saudara-saudara, aku mau, supaya kamu mengetahui, bahwa aku telah sering berniat untuk datang kepadamu--tetapi hingga kini selalu aku terhalang--agar di tengah-tengahmu aku menemukan buah, seperti juga di tengah-tengah bangsa bukan Yahudi yang lain."
   },
   {Bible:"Romans", Chapter:1, Verse:14, Page:1,
-    Kor:"나는 그리스 사람에게나 미개한 사람에게나, 지혜가 있는 사람에게나 어리석은 사람에게나, 다 빚을 진 사람입니다.",
+    Kor:"나는 그리스 사람에게나, 미개한 사람에게나, 지혜가 있는 사람에게나, 어리석은 사람에게나, 다 빚을 진 사람입니다.",
     Chn:"无论是希腊人、化外人、聪明人、愚拙人，我都欠他们的债，",
     Eng:"I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.",
     Ind:"Aku berhutang baik kepada orang Yunani, maupun kepada orang bukan Yunani, baik kepada orang terpelajar, maupun kepada orang tidak terpelajar."
@@ -93,19 +93,19 @@ BibleDB.add([
     Ind:"Itulah sebabnya aku ingin untuk memberitakan Injil kepada kamu juga yang diam di Roma."
   },
   {Bible:"Romans", Chapter:1, Verse:16, Page:1,
-    Kor:"<복음의 능력> ○나는 복음을 부끄러워하지 않습니다. 이 복음은 유대 사람을 비롯하여 e그리스 사람에게 이르기까지, 모든 믿는 사람을 구원하는 하나님의 능력입니다.(e 모든 이방 사람을 대표로 지칭하는 명칭임)",
+    Kor:"○나는 복음을 부끄러워하지 않습니다. 이 복음은 유대 사람을 비롯하여 그리스 사람에게 이르기까지, 모든 믿는 사람을 구원하는 하나님의 능력입니다.",
     Chn:"我不以福音为耻；这福音本是　神的大能，要救一切相信的，先是犹太人，后是希腊人。",
     Eng:"I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile.",
     Ind:"Sebab aku mempunyai keyakinan yang kokoh dalam Injil, karena Injil adalah kekuatan Allah yang menyelamatkan setiap orang yang percaya, pertama-tama orang Yahudi, tetapi juga orang Yunani."
   },
   {Bible:"Romans", Chapter:1, Verse:17, Page:1,
-    Kor:"하나님의 의가 복음 속에 나타납니다. f이 일은 오로지 믿음에 근거하여 일어납니다. 이것은 성경에 기록한 바 g\"의인은 믿음으로 살 것이다\" 한 것과 같습니다.(f 또는 '이것은 믿음에서 출발하며 믿음을 목표로 합니다.' g 합 2:4)",
+    Kor:"하나님의 의가 복음에 나타나 있으며, 믿음으로 믿음에 이르게 합니다. 이것은 성경에 기록된 바 \"의인은 믿음으로 살 것이다\" 한 것과 같습니다.",
     Chn:"因为　神的义正在这福音上显明出来；这义是本于信，以至于信。如经上所记：「义人必因信得生。」",
     Eng:"For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\"",
     Ind:"Sebab di dalamnya nyata kebenaran Allah, yang bertolak dari iman dan memimpin kepada iman, seperti ada tertulis: \"Orang benar akan hidup oleh iman.\""
   },
   {Bible:"Romans", Chapter:1, Verse:18, Page:1,
-    Kor:"<사람이 짓는 갖가지 죄> ○하나님의 진노가, 불의한 행동으로 진리를 가로막는 사람의 온갖 불경건함과 불의함을 겨냥하여, 하늘로부터 나타납니다.",
+    Kor:"○하나님의 진노가, 불의한 행동으로 진리를 가로막는 사람의 온갖 불경건함과 불의함을 겨냥하여, 하늘로부터 나타납니다.",
     Chn:"原来，　神的忿怒从天上显明在一切不虔不义的人身上，就是那些行不义阻挡真理的人。",
     Eng:"The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness,",
     Ind:"Sebab murka Allah nyata dari sorga atas segala kefasikan dan kelaliman manusia, yang menindas kebenaran dengan kelaliman."
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Sebab apa yang tidak nampak dari pada-Nya, yaitu kekuatan-Nya yang kekal dan keilahian-Nya, dapat nampak kepada pikiran dari karya-Nya sejak dunia diciptakan, sehingga mereka tidak dapat berdalih."
   },
   {Bible:"Romans", Chapter:1, Verse:21, Page:1,
-    Kor:"사람들은 하나님을 알면서도, 하나님을 하나님으로 영화롭게 해드리거나 감사를 드리기는커녕, 오히려 생각이 허망해져서, 그들의 지각없는 마음이 어두워졌습니다.",
+    Kor:"사람들은 하나님을 알면서도, 하나님을 하나님으로 영화롭게 해드리거나 감사를 드리기는 커녕, 오히려 생각이 허망해져서, 그들의 지각없는 마음이 어둠으로 가득차게 되었습니다.",
     Chn:"因为，他们虽然知道　神，却不当作　神荣耀他，也不感谢他。他们的思念变为虚妄，无知的心就昏暗了。",
     Eng:"For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.",
     Ind:"Sebab sekalipun mereka mengenal Allah, mereka tidak memuliakan Dia sebagai Allah atau mengucap syukur kepada-Nya. Sebaliknya pikiran mereka menjadi sia-sia dan hati mereka yang bodoh menjadi gelap."
   },
   {Bible:"Romans", Chapter:1, Verse:22, Page:1,
-    Kor:"사람들은 스스로 지혜가 있다고 주장하지만, 실상은 어리석은 사람이 되었습니다.",
+    Kor:"사람들은 스스로 지혜가 있다고 주장하지만, 실상은 어리석어서,",
     Chn:"自称为聪明，反成了愚拙，",
     Eng:"Although they claimed to be wise, they became fools",
     Ind:"Mereka berbuat seolah-olah mereka penuh hikmat, tetapi mereka telah menjadi bodoh."
   },
   {Bible:"Romans", Chapter:1, Verse:23, Page:1,
-    Kor:"그들은 썩지 않는 하나님의 영광을, 썩어 없어질 사람이나 새나 네 발 짐승이나 기어다니는 동물의 형상으로 바꾸어 놓았습니다.",
+    Kor:"썩지 않는 하나님의 영광을, 썩을 사람이나 새나 네 발 달린 짐승이나 기어 다니는 동물의 형상으로 바꾸어 놓았습니다.",
     Chn:"将不能朽坏之　神的荣耀变为偶像，仿佛必朽坏的人和飞禽、走兽、昆虫的样式。",
     Eng:"and exchanged the glory of the immortal God for images made to look like mortal man and birds and animals and reptiles.",
     Ind:"Mereka menggantikan kemuliaan Allah yang tidak fana dengan gambaran yang mirip dengan manusia yang fana, burung-burung, binatang-binatang yang berkaki empat atau binatang-binatang yang menjalar."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Sebab mereka menggantikan kebenaran Allah dengan dusta dan memuja dan menyembah makhluk dengan melupakan Penciptanya yang harus dipuji selama-lamanya, amin."
   },
   {Bible:"Romans", Chapter:1, Verse:26, Page:1,
-    Kor:"이런 까닭에, 하나님께서는 사람들을 부끄러운 정욕에 내버려 두셨습니다. 여자들은 남자와의 바른 관계를 바르지 못한 관계로 바꾸고,",
+    Kor:"○이런 까닭에, 하나님께서는 사람들을 부끄러운 정욕 속에 내버려 두셨습니다. 여자들은 남자와의 바른 관계를 바르지 못한 관계로 바꾸고,",
     Chn:"因此，　神任凭他们放纵可羞耻的情欲。他们的女人把顺性的用处变为逆性的用处；",
     Eng:"Because of this, God gave them over to shameful lusts. Even their women exchanged natural relations for unnatural ones.",
     Ind:"Karena itu Allah menyerahkan mereka kepada hawa nafsu yang memalukan, sebab isteri-isteri mereka menggantikan persetubuhan yang wajar dengan yang tak wajar."
   },
   {Bible:"Romans", Chapter:1, Verse:27, Page:1,
-    Kor:"또한 남자들도 이와 같이, 여자와의 바른 관계를 버리고 서로 욕정에 불탔으며, 남자가 남자와 더불어 부끄러운 짓을 하게 되었습니다. 그래서 그들은 그 잘못에 마땅한 대가를 스스로 받았습니다.",
+    Kor:"또한 남자들도 이와 같이, 여자와의 바른 관계를 버리고 서로 욕정에 불탔으며, 남자가 남자로 더불어 부끄러운 일을 하였습니다. 그래서 그들은 그 잘못에 마땅한 대가를 스스로 받았습니다.",
     Chn:"男人也是如此，弃了女人顺性的用处，欲火攻心，彼此贪恋，男和男行可羞耻的事，就在自己身上受这妄为当得的报应。",
     Eng:"In the same way the men also abandoned natural relations with women and were inflamed with lust for one another. Men committed indecent acts with other men, and received in themselves the due penalty for their perversion.",
     Ind:"Demikian juga suami-suami meninggalkan persetubuhan yang wajar dengan isteri mereka dan menyala-nyala dalam berahi mereka seorang terhadap yang lain, sehingga mereka melakukan kemesuman, laki-laki dengan laki-laki, dan karena itu mereka menerima dalam diri mereka balasan yang setimpal untuk kesesatan mereka."
   },
   {Bible:"Romans", Chapter:1, Verse:28, Page:1,
-    Kor:"사람들이 하나님을 인정하기를 싫어하므로, 하나님께서는 사람들을 타락한 마음 자리에 내버려 두셔서, 해서는 안될 일을 하도록 놓아 두셨습니다.",
+    Kor:"○사람들이 하나님을 인정하기를 싫어하므로, 하나님께서는 사람들을, 해서는 안 될 일들을 하게, 타락한 마음 자리에 내버려 두셨습니다.",
     Chn:"他们既然故意不认识　神，　神就任凭他们存邪僻的心，行那些不合理的事；",
     Eng:"Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done.",
     Ind:"Dan karena mereka tidak merasa perlu untuk mengakui Allah, maka Allah menyerahkan mereka kepada pikiran-pikiran yang terkutuk, sehingga mereka melakukan apa yang tidak pantas:"
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"penuh dengan rupa-rupa kelaliman, kejahatan, keserakahan dan kebusukan, penuh dengan dengki, pembunuhan, perselisihan, tipu muslihat dan kefasikan."
   },
   {Bible:"Romans", Chapter:1, Verse:30, Page:1,
-    Kor:"중상하는 자요, h하나님을 미워하는 자요, 불손한 자요, 오만한 자요, 자랑하는 자요, 악을 꾸미는 모략꾼이요, 부모를 거역하는 자요,(h 또는 '하나님께서 미워하시는')",
+    Kor:"중상하는 자요, 하나님을 미워하는 자요, 불손한 자요, 오만한 자요, 자랑하는 자요, 악을 꾸미는 모략꾼이요, 부모를 거역하는 자요,",
     Chn:"又是谗毁的、背后说人的、怨恨　神的、侮慢人的、狂傲的、自夸的、捏造恶事的、违背父母的、",
     Eng:"slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;",
     Ind:"Mereka adalah pengumpat, pemfitnah, pembenci Allah, kurang ajar, congkak, sombong, pandai dalam kejahatan, tidak taat kepada orang tua,"

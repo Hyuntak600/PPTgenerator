@@ -3,19 +3,19 @@
 BibleDB.ref("2Chronicles",34,33);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:34, Verse:1, Page:1,
-    Kor:"<유다 왕 요시야(왕하 22:1-2)> 요시야가 왕이 되었을 때에, 그는 여덟 살이었다. 그는 예루살렘에서 서른한 해 동안 다스렸다.",
+    Kor:"요시야가 왕이 되었을 때에, 그는 여덟 살이었다. 그는 예루살렘에서 서른한 해 동안 다스렸다.",
     Chn:"约西亚登基的时候年八岁，在耶路撒冷作王三十一年。",
     Eng:"Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.",
     Ind:"Yosia berumur delapan tahun pada waktu ia menjadi raja dan tiga puluh satu tahun lamanya ia memerintah di Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:2, Page:1,
-    Kor:"그는, 주님께서 보시기에 옳은 일을 하였고, 그의 조상 다윗의 길을 본받아서, 오른쪽으로나 왼쪽으로 곁길로 벗어나지 않았다.",
+    Kor:"그는, 주께서 보시기에 옳은 일을 하였고, 그의 조상 다윗의 길을 본받아서, 오른쪽으로나 왼쪽으로 곁길로 벗어나지 않았다.",
     Chn:"他行耶和华眼中看为正的事，效法他祖大卫所行的，不偏左右。",
     Eng:"He did what was right in the eyes of the LORD and walked in the ways of his father David, not turning aside to the right or to the left.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN dan hidup seperti Daud, bapa leluhurnya, dan tidak menyimpang ke kanan atau ke kiri."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:3, Page:1,
-    Kor:"<종교 개혁의 첫 단계> ○요시야는 왕이 된 지 여덟째 해에, 아직도 매우 어린 나이에, 조상 다윗의 하나님을 찾기 시작하였다. 그의 통치 십이년이 되는 해에는, 산당과 아세라 목상들과 아로새긴 우상들과 부어 만든 우상들을 없애고, 유다와 예루살렘을 깨끗하게 하였다.",
+    Kor:"○요시야는 왕이 된 지 여덟째 해에, 아직도 매우 어린 나이에, 조상 다윗의 하나님을 찾기 시작하였다. 그의 통치 십이년이 되는 해에는, 산당과 아세라 목상들과 아로새긴 우상들과 부어 만든 우상들을 없애고, 유다와 예루살렘을 깨끗하게 하였다.",
     Chn:"他作王第八年，尚且年幼，就寻求他祖大卫的　神。到了十二年才洁净犹大和耶路撒冷，除掉邱坛、木偶、雕刻的像，和铸造的像。",
     Eng:"In the eighth year of his reign, while he was still young, he began to seek the God of his father David. In his twelfth year he began to purge Judah and Jerusalem of high places, Asherah poles, carved idols and cast images.",
     Ind:"Pada tahun kedelapan dari pemerintahannya, ketika ia masih muda belia, ia mulai mencari Allah Daud, bapa leluhurnya, dan pada tahun kedua belas ia mulai mentahirkan Yehuda dan Yerusalem dari pada bukit-bukit pengorbanan, tiang-tiang berhala, patung-patung pahatan dan patung-patung tuangan."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"ia merobohkan segala mezbah dan tiang berhala, meremukkan segala patung pahatan serta menghancurluluhkannya, dan menghancurkan semua pedupaan di seluruh tanah Israel. Sesudah itu ia kembali ke Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:8, Page:1,
-    Kor:"<율법서의 발견(왕하 22:3-20)> ○요시야는 나라와 성전을 깨끗하게 한 뒤에, 통치한 지 열여덟째 해가 되는 때에, 아살랴의 아들 사반과 마아세야 성주와 요아하스의 아들 요아 서기관을 보내서, 주 그의 하나님의 성전을 수리하게 하였다.",
+    Kor:"○요시야는 나라와 성전을 깨끗하게 한 뒤에, 통치한 지 열여덟째 해가 되는 때에, 아살랴의 아들 사반과 마아세야 성주와 요아하스의 아들 요아 서기관을 보내서, 주 그의 하나님의 성전을 수리하게 하였다.",
     Chn:"约西亚王十八年，净地净殿之后，就差遣亚萨利雅的儿子沙番、邑宰玛西雅、约哈斯的儿子史官约亚去修理耶和华—他　神的殿。",
     Eng:"In the eighteenth year of Josiah's reign, to purify the land and the temple, he sent Shaphan son of Azaliah and Maaseiah the ruler of the city, with Joah son of Joahaz, the recorder, to repair the temple of the LORD his God.",
     Ind:"Pada tahun kedelapan belas dari pemerintahannya, setelah selesai mentahirkan negeri dan rumah TUHAN, ia menyuruh Safan bin Azalya, dan Maaseya, penguasa kota, serta Yoah bin Yoahas, bendahara negara, untuk memperbaiki rumah TUHAN, Allahnya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Maka datanglah mereka kepada imam besar Hilkia dan menyerahkan kepadanya uang yang telah dibawa ke rumah Allah dan yang telah dikumpulkan oleh orang-orang Lewi, yakni oleh para penjaga pintu, dari orang-orang Manasye dan Efraim, dan dari semua orang yang masih tinggal dari Israel, pula dari seluruh orang Yehuda dan Benyamin, dan dari penduduk Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:10, Page:1,
-    Kor:"그들은 이 돈을 주님의 성전 수리를 맡은 이들에게 맡겼고, 그들은 또 그 돈을 주님의 성전 수리를 직접 맡아 건축하는 이들에게 주어서, 성전을 수리하게 하였다.",
+    Kor:"그들은 이 돈을 주의 성전 수리를 맡은 이들에게 맡겼고, 그들은 또 그 돈을 주의 성전 수리를 직접 맡아 건축하는 이들에게 주어서, 성전을 수리하게 하였다.",
     Chn:"又将这银子交给耶和华殿里督工的，转交修理耶和华殿的工匠，",
     Eng:"Then they entrusted it to the men appointed to supervise the work on the LORD'S temple. These men paid the workers who repaired and restored the temple.",
     Ind:"Uang itu diberikan mereka ke tangan para pekerja yang diangkat untuk mengawasi rumah TUHAN; dan mereka itu, yang bekerja dalam rumah TUHAN, mengeluarkannya untuk membetulkan dan memperbaiki rumah itu."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"mengepalai kuli-kuli dan mengiringi semua tukang dalam pekerjaan apapun. Dari antara orang-orang Lewi itu ada yang menjadi panitera, pengatur atau penunggu pintu gerbang."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:14, Page:1,
-    Kor:"○힐기야 제사장은, 주님의 성전에서 궤에 보관된 돈을 꺼내다가, 모세가 전한 주님의 율법책을 발견하고,",
+    Kor:"○힐기야 제사장은, 주의 성전에서 궤에 보관된 돈을 꺼내다가, 모세가 전한 주의 율법책을 발견하고,",
     Chn:"他们将奉到耶和华殿的银子运出来的时候，祭司希勒家偶然得了摩西所传耶和华的律法书。",
     Eng:"While they were bringing out the money that had been taken into the temple of the LORD, Hilkiah the priest found the Book of the Law of the LORD that had been given through Moses.",
     Ind:"Ketika mereka mengeluarkan uang yang telah dibawa ke rumah TUHAN, imam Hilkia menemukan kitab Taurat TUHAN, yang diberikan dengan perantaraan Musa."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:15, Page:1,
-    Kor:"사반 서기관에게, 자기가 주님의 성전에서 율법책을 발견하였다고 하면서, 그 책을 사반에게 주었다.",
+    Kor:"사반 서기관에게, 자기가 주의 성전에서 율법책을 발견하였다고 하면서, 그 책을 사반에게 주었다.",
     Chn:"希勒家对书记沙番说：「我在耶和华殿里得了律法书。」遂将书递给沙番。",
     Eng:"Hilkiah said to Shaphan the secretary, \"I have found the Book of the Law in the temple of the LORD.\" He gave it to Shaphan.",
     Ind:"Maka berkatalah Hilkia kepada Safan, panitera negara itu: \"Aku telah menemukan kitab Taurat di rumah TUHAN!\" Lalu Hilkia memberikan kitab itu kepada Safan,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"dan Safan membawa kitab itu kepada raja. Ia juga menyampaikan kabar kepada raja: \"Segala sesuatu yang ditugaskan kepada hamba-hambamu, telah mereka laksanakan."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:17, Page:1,
-    Kor:"또 주님의 성전에 있는 돈을 다 쏟아서, 감독들과 건축하는 사람들에게 맡겼습니다.\" 이렇게 보고하고 나서,",
+    Kor:"또 주의 성전에 있는 돈을 다 쏟아서, 감독들과 건축하는 사람들에게 맡겼습니다.\" 이렇게 보고하고 나서,",
     Chn:"耶和华殿里的银子倒出来，交给督工的和匠人的手里了。」",
     Eng:"They have paid out the money that was in the temple of the LORD and have entrusted it to the supervisors and workers.\"",
     Ind:"Mereka telah mengambil seluruh uang yang terdapat di rumah TUHAN dan memberikannya ke tangan para pengawas dan para pekerja.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Kemudian raja memberi perintah kepada Hilkia, kepada Ahikam bin Safan, kepada Abdon bin Mikha, kepada Safan, panitera negara itu, dan kepada Asaya, hamba raja, katanya:"
   },
   {Bible:"2Chronicles", Chapter:34, Verse:21, Page:1,
-    Kor:"\"그대들은 주님께로 나아가서, 나를 대신하여, 그리고 아직 이스라엘과 유다에 살아 남아 있는 백성을 대신하여, 이번에 발견된 이 두루마리의 말씀에 관하여 주님의 뜻을 여쭈어 보도록 하시오. 우리의 조상이 주님의 말씀을 지키지 않고, 이 두루마리에 기록된 모든 것을 지켜 따르지 않았으므로, 주님께서 우리에게 쏟으신 진노가 크오.\"",
+    Kor:"\"그대들은 주께로 나아가서, 나를 대신하여, 그리고 아직 이스라엘과 유다에 살아 남아 있는 백성을 대신하여, 이번에 발견된 이 두루마리의 말씀에 관하여 주의 뜻을 여쭈어 보도록 하시오. 우리의 조상이 주의 말씀을 지키지 않고, 이 두루마리에 기록된 모든 것을 지켜 따르지 않았으므로, 주께서 우리에게 쏟으신 진노가 크오.\"",
     Chn:"「你们去为我、为以色列和犹大剩下的人，以这书上的话求问耶和华；因我们列祖没有遵守耶和华的言语，没有照这书上所记的去行，耶和华的烈怒就倒在我们身上。」",
     Eng:"\"Go and inquire of the LORD for me and for the remnant in Israel and Judah about what is written in this book that has been found. Great is the LORD'S anger that is poured out on us because our fathers have not kept the word of the LORD; they have not acted in accordance with all that is written in this book.\"",
     Ind:"\"Pergilah, mintalah petunjuk TUHAN bagiku, bagi yang masih tinggal di Israel dan di Yehuda tentang perkataan kitab yang ditemukan ini, sebab hebat kehangatan murka TUHAN yang dicurahkan kepada kita, oleh karena nenek moyang kita tidak memelihara firman TUHAN dengan berbuat tepat seperti yang tertulis dalam kitab ini!\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Maka pergilah Hilkia dengan orang-orang yang disuruh raja kepada nabiah Hulda, isteri seorang yang mengurus pakaian-pakaian, yaitu Salum bin Tokhat bin Hasra, penunggu pakaian-pakaian; nabiah itu tinggal di Yerusalem, di perkampungan baru. Mereka berbicara kepadanya sebagaimana yang diperintahkan."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:23, Page:1,
-    Kor:"훌다가 그들에게 말하였다. \"주 이스라엘의 하나님께서 이렇게 말씀하시니, 그대들을 나에게 보내어 주님의 뜻을 물어 보라고 한 그분에게 가서 전하시오.",
+    Kor:"훌다가 그들에게 말하였다. \"주 이스라엘의 하나님께서 이렇게 말씀하시니, 그대들을 나에게 보내어 주의 뜻을 물어 보라고 한 그분에게 가서 전하시오.",
     Chn:"她对他们说：「耶和华—以色列的　神如此说：『你们可以回复那差遣你们来见我的人说，",
     Eng:"She said to them, \"This is what the LORD, the God of Israel, says: Tell the man who sent you to me,",
     Ind:"Perempuan itu menjawab mereka: \"Beginilah firman TUHAN, Allah Israel! Katakanlah kepada orang yang menyuruh kamu kepada-Ku!"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"karena mereka meninggalkan Aku dan membakar korban kepada allah lain dengan maksud menimbulkan sakit hati-Ku dengan segala pekerjaan tangan mereka; sebab itu nyala murka-Ku akan dicurahkan ke tempat ini dengan tidak padam-padam."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:26, Page:1,
-    Kor:"주님의 뜻을 주님께 여쭈어 보려고 그대들을 나에게로 보낸 유다 왕에게는 이렇게 전하시오. '주 이스라엘의 하나님이 이렇게 말한다. 네가 들은 말씀을 설명하겠다.",
+    Kor:"주의 뜻을 주께 여쭈어 보려고 그대들을 나에게로 보낸 유다 왕에게는 이렇게 전하시오. '주 이스라엘의 하나님이 이렇게 말한다. 네가 들은 말씀을 설명하겠다.",
     Chn:"然而差遣你们来求问耶和华的犹大王，你们要这样回复他说：『耶和华—以色列的　神如此说：至于你所听见的话，",
     Eng:"Tell the king of Judah, who sent you to inquire of the LORD, 'This is what the LORD, the God of Israel, says concerning the words you heard:",
     Ind:"Tetapi kepada raja Yehuda yang telah menyuruh kamu untuk meminta petunjuk TUHAN, harus kamu katakan demikian: Beginilah firman TUHAN, Allah Israel: Mengenai perkataan yang telah kaudengar itu,"
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"maka sesungguhnya Aku akan mengumpulkan engkau kepada nenek moyangmu, dan engkau akan dikebumikan ke dalam kuburmu dengan damai, dan matamu tidak akan melihat segala malapetaka yang akan Kudatangkan atas tempat ini dan atas penduduknya.\" Lalu mereka menyampaikan jawab itu kepada raja."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:29, Page:1,
-    Kor:"<요시야가 주님께 순종하기로 하다(왕하 23:1-20)> ○왕이 사람을 보내어 유다와 예루살렘의 모든 장로를 불러모았다.",
+    Kor:"○왕이 사람을 보내어 유다와 예루살렘의 모든 장로를 불러모았다.",
     Chn:"王差遣人招聚犹大和耶路撒冷的众长老来。",
     Eng:"Then the king called together all the elders of Judah and Jerusalem.",
     Ind:"Sesudah itu raja menyuruh orang mengumpulkan semua tua-tua Yehuda dan Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:30, Page:1,
-    Kor:"왕은 주님의 성전에 올라갈 때에, 유다의 모든 백성과 예루살렘 주민과 제사장들과 레위 사람들과, 어른으로부터 아이에 이르기까지, 모든 백성을 다 데리고 주님의 성전으로 올라갔다. 그 때에 왕은 주님의 성전에서 발견된 언약책에 적힌 모든 말씀을 사람들에게 크게 읽어 들려 주도록 하였다.",
+    Kor:"왕은 주의 성전에 올라갈 때에, 유다의 모든 백성과 예루살렘 주민과 제사장들과 레위 사람들과, 어른으로부터 아이에 이르기까지, 모든 백성을 다 데리고 주의 성전으로 올라갔다. 그 때에 왕은 주의 성전에서 발견된 언약책에 적힌 모든 말씀을 사람들에게 크게 읽어 들려 주도록 하였다.",
     Chn:"王和犹大众人，与耶路撒冷的居民，并祭司利未人，以及所有的百姓，无论大小，都一同上到耶和华的殿；王就把殿里所得的约书念给他们听。",
     Eng:"He went up to the temple of the LORD with the men of Judah, the people of Jerusalem, the priests and the Levites--all the people from the least to the greatest. He read in their hearing all the words of the Book of the Covenant, which had been found in the temple of the LORD.",
     Ind:"Kemudian pergilah raja ke rumah TUHAN bersama-sama semua orang Yehuda dan penduduk Yerusalem, para imam, orang-orang Lewi, dan seluruh orang awam, baik yang besar maupun yang masih kecil. Dengan didengar mereka ia membacakan segala perkataan dari kitab perjanjian yang ditemukan di rumah TUHAN itu."
   },
   {Bible:"2Chronicles", Chapter:34, Verse:31, Page:1,
-    Kor:"왕은 자기의 자리에 서서, 주님을 따를 것과, 마음과 목숨을 다 바쳐 그의 계명과 법도와 규례를 지킬 것과, 이 책에 적힌 언약의 말씀을 지킬 것을 맹세하는 언약을, 주님 앞에서 맺었다.",
+    Kor:"왕은 자기의 자리에 서서, 주님을 따를 것과, 마음과 목숨을 다 바쳐 그의 계명과 법도와 규례를 지킬 것과, 이 책에 적힌 언약의 말씀을 지킬 것을 맹세하는 언약을, 주 앞에서 맺었다.",
     Chn:"王站在他的地位上，在耶和华面前立约，要尽心尽性地顺从耶和华，遵守他的诫命、法度、律例，成就这书上所记的约言；",
     Eng:"The king stood by his pillar and renewed the covenant in the presence of the LORD--to follow the LORD and keep his commands, regulations and decrees with all his heart and all his soul, and to obey the words of the covenant written in this book.",
     Ind:"Sesudah itu berdirilah raja pada tempatnya dan diikatnyalah perjanjian di hadapan TUHAN untuk hidup dengan mengikuti TUHAN, dan tetap menuruti perintah-perintah-Nya, peraturan-peraturan-Nya dan ketetapan-ketetapan-Nya dengan segenap hatinya dan dengan segenap jiwanya dan untuk melakukan perkataan perjanjian yang tertulis dalam kitab itu."

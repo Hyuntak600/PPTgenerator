@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",22,33);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:22, Verse:1, Page:1,
-    Kor:"<제사음식을 먹는 규례> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Katakanlah kepada mereka: Setiap orang di antara kamu turun-temurun, yakni dari antara segala keturunanmu yang datang mendekat kepada persembahan-persembahan kudus yang dikuduskan orang Israel bagi TUHAN, sedang ia dalam keadaan najis, maka orang itu akan dilenyapkan dari hadapan-Ku; Akulah TUHAN."
   },
   {Bible:"Leviticus", Chapter:22, Verse:4, Page:1,
-    Kor:"○아론의 자손 가운데서 a악성 피부병을 앓는 환자나 성기에서 고름을 흘리는 환자는, 그 병이 깨끗해질 때까지는 거룩한 제사음식을 먹지 못한다. 누구든지 죽은 것을 만지거나 정액을 흘린 남자와 몸이 닿거나 하여 부정하게 된 사람,(a 전통적으로 나병으로 알려져 왔으나, 히브리어로는 여러 03 22:가지 악성 피부병을 뜻함)",
+    Kor:"○아론의 자손 가운데서 악성 피부병을 앓는 환자나 성기에서 고름을 흘리는 환자는, 그 병이 깨끗해질 때까지는 거룩한 제사음식을 먹지 못한다. 누구든지 죽은 것을 만지거나 정액을 흘린 남자와 몸이 닿거나 하여 부정하게 된 사람,",
     Chn:"亚伦的后裔，凡长大麻风的，或是有漏症的，不可吃圣物，直等他洁净了。无论谁摸那因死尸不洁净的物，或是遗精的人，",
     Eng:"\"'If a descendant of Aaron has an infectious skin disease or a bodily discharge, he may not eat the sacred offerings until he is cleansed. He will also be unclean if he touches something defiled by a corpse or by anyone who has an emission of semen,",
     Ind:"Seseorang dari keturunan Harun yang sakit kusta atau yang mengeluarkan lelehan, janganlah memakan persembahan-persembahan kudus, sebelum ia menjadi tahir; dan orang yang kena kepada sesuatu yang najis karena orang mati atau orang yang tertumpah maninya"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"orang yang kena kepada yang demikian itu menjadi najis sampai matahari terbenam dan janganlah ia makan dari persembahan-persembahan kudus, sebelum ia membasuh tubuhnya dengan air."
   },
   {Bible:"Leviticus", Chapter:22, Verse:7, Page:1,
-    Kor:"해가 지고 정결하게 된 뒤에는, 자기 몫으로 받은 그 거룩한 제사음식을 먹을 수 있다.",
+    Kor:"해가 지고 정하게 된 뒤에는, 자기 몫으로 받은 그 거룩한 제사음식을 먹을 수 있다.",
     Chn:"日落的时候，他就洁净了，然后可以吃圣物，因为这是他的食物。",
     Eng:"When the sun goes down, he will be clean, and after that he may eat the sacred offerings, for they are his food.",
     Ind:"Sesudah matahari terbenam, barulah ia menjadi tahir dan sesudah itu bolehlah ia makan dari persembahan-persembahan kudus itu, karena itulah yang menjadi makanannya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan mereka harus tetap berpegang pada kewajibannya terhadap Aku, supaya dalam hal itu jangan mereka mendatangkan dosa kepada dirinya dan mati oleh karenanya, karena mereka telah melanggar kekudusan kewajiban itu; Akulah TUHAN, yang menguduskan mereka."
   },
   {Bible:"Leviticus", Chapter:22, Verse:10, Page:1,
-    Kor:"○제사장이 아닌 여느 사람은 아무도 그 거룩한 제사음식을 먹지 못한다. 제사장이 데리고 있는 나그네나 그가 쓰는 품꾼도, 그 거룩한 제사음식을 먹지 못한다.",
+    Kor:"○제사장이 아닌 여느 사람은, 아무도 그 거룩한 제사음식을 먹지 못한다. 제사장이 데리고 있는 나그네나 그가 쓰는 품꾼도, 그 거룩한 제사음식을 먹지 못한다.",
     Chn:"「凡外人不可吃圣物；寄居在祭司家的，或是雇工人，都不可吃圣物；",
     Eng:"\"'No one outside a priest's family may eat the sacred offering, nor may the guest of a priest or his hired worker eat it.",
     Ind:"Setiap orang awam janganlah memakan persembahan kudus; demikian juga pendatang yang tinggal pada imam ataupun orang upahan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Apabila seseorang dengan tidak sengaja memakan persembahan kudus, ia harus memberi gantinya kepada imam dengan menambah seperlima."
   },
   {Bible:"Leviticus", Chapter:22, Verse:15, Page:1,
-    Kor:"제사장들은 이스라엘 자손이 바친 그 거룩한 제사음식 곧 그들이 주에게 바친 제물을 더럽혀서는 안 된다.",
+    Kor:"제사장들은 이스라엘 자손이 바친 그 거룩한 제사음식, 곧 그들이 주께 바친 제물을 더럽혀서는 안 된다.",
     Chn:"祭司不可亵渎以色列人所献给耶和华的圣物，",
     Eng:"The priests must not desecrate the sacred offerings the Israelites present to the LORD",
     Ind:"Janganlah pada imam melanggar kekudusan persembahan-persembahan kudus orang Israel yang telah dikhususkan bagi TUHAN,"
@@ -99,61 +99,61 @@ BibleDB.add([
     Ind:"karena dengan demikian mereka mendatangkan kepada orang Israel kesalahan yang harus ditebus, apabila mereka memakan persembahan-persembahan kudus mereka, sebab Akulah TUHAN, yang menguduskan mereka.\""
   },
   {Bible:"Leviticus", Chapter:22, Verse:17, Page:1,
-    Kor:"<하나님이 받으시는 제물> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:22, Verse:18, Page:1,
-    Kor:"\"너는 아론과 그의 아들들과 온 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○이스라엘 집안에 속한 사람이나 이스라엘 사람과 함께 사는 외국인 나그네가, 제물을 바치고자 할 때에는, 그것이, 서약한 것을 갚으려고 해서 바치는 것이거나, 자유로운 뜻에서 나 주에게 번제물로 바치려는 것이거나, 모두,",
+    Kor:"\"너는 아론과 그의 아들들과 온 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○이스라엘 집안에 속한 사람이나 이스라엘 사람과 함께 사는 외국인 나그네가, 제물을 바치고자 할 때에는, 그것이, 서약한 것을 갚으려고 해서 바치는 것이거나, 자유로운 뜻에서 주에게 번제물로 바치려는 것이거나, 모두,",
     Chn:"「你晓谕亚伦和他子孙，并以色列众人说：以色列家中的人，或在以色列中寄居的，凡献供物，无论是所许的愿，是甘心献的，就是献给耶和华作燔祭的，",
     Eng:"\"Speak to Aaron and his sons and to all the Israelites and say to them: 'If any of you--either an Israelite or an alien living in Israel--presents a gift for a burnt offering to the LORD, either to fulfill a vow or as a freewill offering,",
     Ind:"\"Berbicaralah kepada Harun serta anak-anaknya dan kepada semua orang Israel dan katakan kepada mereka: Siapapun dari umat Israel dan dari orang asing di antara orang Israel yang mempersembahkan persembahannya, baik berupa sesuatu persembahan nazar maupun berupa sesuatu persembahan sukarela, yang hendak dipersembahkan mereka kepada TUHAN sebagai korban bakaran,"
   },
   {Bible:"Leviticus", Chapter:22, Verse:19, Page:1,
-    Kor:"나 주가 즐거이 받도록, 소나 양이나 염소 가운데서 수컷으로, 흠이 없는 것을 바쳐야 한다.",
+    Kor:"주가 즐거이 받도록, 소나 양이나 염소 가운데서 수컷으로, 흠이 없는 것을 바쳐야 한다.",
     Chn:"要将没有残疾的公牛，或是绵羊，或是山羊献上，如此方蒙悦纳。",
     Eng:"you must present a male without defect from the cattle, sheep or goats in order that it may be accepted on your behalf.",
     Ind:"maka supaya TUHAN berkenan akan kamu, haruslah persembahan itu tidak bercela dari lembu jantan, domba atau kambing."
   },
   {Bible:"Leviticus", Chapter:22, Verse:20, Page:1,
-    Kor:"너희는 어떤 것이든지, 흠이 있는 것을 바쳐서는 안 된다. 그런 것을 바치면, 나 주가 너희를 반기지 않을 것이다.",
+    Kor:"너희는 어떤 것이든지, 흠이 있는 것을 바쳐서는 안 된다. 그런 것을 바치면, 주가 너희를 반기지 않을 것이다.",
     Chn:"凡有残疾的，你们不可献上，因为这不蒙悦纳。",
     Eng:"Do not bring anything with a defect, because it will not be accepted on your behalf.",
     Ind:"Segala yang bercacat badannya janganlah kamu persembahkan, karena dengan itu TUHAN tidak berkenan akan kamu."
   },
   {Bible:"Leviticus", Chapter:22, Verse:21, Page:1,
-    Kor:"○누구든지 서약한 것을 갚으려 하거나, 자유로운 뜻으로 제물을 바치려고 하여, 소 떼나 양 떼에서 제물을 골라 나 주에게 화목제물을 바칠 때에는, 나 주가 즐거이 받도록, 흠이 없는 것으로 골라서 바쳐야 한다. 제물로 바칠 짐승에 어떤 흠도 있어서는 안 된다.",
+    Kor:"○누구든지 서약한 것을 갚으려거나, 자유로운 뜻으로 제물을 바치려고 하여, 소 떼나 양 떼에서 제물을 골라 주에게 화목제물을 바칠 때에는, 주가 즐거이 받도록, 흠이 없는 것으로 골라서 바쳐야 한다. 제물로 바칠 짐승에 어떤 흠도 있어서는 안 된다.",
     Chn:"凡从牛群或是羊群中，将平安祭献给耶和华，为要还特许的愿，或是作甘心献的，所献的必纯全无残疾的才蒙悦纳。",
     Eng:"When anyone brings from the herd or flock a fellowship offering to the LORD to fulfill a special vow or as a freewill offering, it must be without defect or blemish to be acceptable.",
     Ind:"Juga apabila seseorang mempersembahkan kepada TUHAN korban keselamatan sebagai pembayar nazar khusus atau sebagai korban sukarela dari lembu atau kambing domba, maka korban itu haruslah yang tidak bercela, supaya TUHAN berkenan akan dia, janganlah badannya bercacat sedikitpun."
   },
   {Bible:"Leviticus", Chapter:22, Verse:22, Page:1,
-    Kor:"눈이 먼 것이나, 다리를 저는 것이나, 어떤 부위가 잘린 것이나, 고름을 흘리는 것이나, 옴이 난 것이나, 종기가 난 것을 나 주에게 바쳐서는 안 된다. 그런 것들을 제단 위에다 놓고 불살라, 나 주에게 바치는 제물로 삼아서는 안 된다.",
+    Kor:"눈이 먼 것이나, 다리를 저는 것이나, 어떤 부위가 잘린 것이나, 고름을 흘리는 것이나, 옴이 난 것이나, 종기가 난 것을 주에게 바쳐서는 안 된다. 그런 것들을 제단 위에다 놓고 불살라, 주에게 바치는 제물로 삼아서는 안 된다.",
     Chn:"瞎眼的、折伤的、残废的、有瘤子的、长癣的、长疥的都不可献给耶和华，也不可在坛上作为火祭献给耶和华。",
     Eng:"Do not offer to the LORD the blind, the injured or the maimed, or anything with warts or festering or running sores. Do not place any of these on the altar as an offering made to the LORD by fire.",
     Ind:"Binatang yang buta atau yang patah tulang, yang luka atau yang berbisul, yang berkedal atau yang berkurap, semuanya itu janganlah kamu persembahkan kepada TUHAN dan binatang yang demikian janganlah kamu taruh sebagai korban api-apian bagi TUHAN ke atas mezbah."
   },
   {Bible:"Leviticus", Chapter:22, Verse:23, Page:1,
-    Kor:"자유로운 뜻에서 바치는 제물이면, 소나 양 가운데서 한쪽 다리는 길고 다른 한쪽은 짧은 것이라도 괜찮다. 그러나 서원한 것을 갚는 제사에서는, 나 주가 그런 것을 즐거이 받지 않는다.",
+    Kor:"자유로운 뜻에서 바치는 제물이면, 소나 양 가운데서 한쪽 다리는 길고 다른 한쪽은 짧은 것이라도 괜찮다. 그러나 서원한 것을 갚는 제사에서는, 주가 그런 것을 즐거이 받지 않는다.",
     Chn:"无论是公牛是绵羊羔，若肢体有余的，或是缺少的，只可作甘心祭献上；用以还愿，却不蒙悦纳。",
     Eng:"You may, however, present as a freewill offering an ox or a sheep that is deformed or stunted, but it will not be accepted in fulfillment of a vow.",
     Ind:"Tetapi seekor lembu atau domba yang terlalu panjang atau terlalu pendek anggotanya bolehlah kaupersembahkan sebagai korban sukarela, tetapi sebagai korban nazar TUHAN tidak akan berkenan akan binatang itu."
   },
   {Bible:"Leviticus", Chapter:22, Verse:24, Page:1,
-    Kor:"짐승 가운데서 고환이 터졌거나 으스러졌거나 빠지거나 잘린 것은 나 주에게 바칠 수 없다. 너희가 사는 땅에서는, 너희가 이런 것들을 제물로 삼아서는 안 된다.",
+    Kor:"짐승 가운데서 고환이 터졌거나 으스러졌거나 빠지거나 잘린 것은 주에게 바칠 수 없다. 너희가 사는 땅에서는, 너희가 이런 것들을 제물로 삼아서는 안 된다.",
     Chn:"肾子损伤的，或是压碎的，或是破裂的，或是骟了的，不可献给耶和华，在你们的地上也不可这样行。",
     Eng:"You must not offer to the LORD an animal whose testicles are bruised, crushed, torn or cut. You must not do this in your own land,",
     Ind:"Tetapi binatang yang buah pelirnya terjepit, ditumbuk, direnggut atau dikerat, janganlah kamu persembahkan kepada TUHAN; janganlah kamu berbuat demikian di negerimu."
   },
   {Bible:"Leviticus", Chapter:22, Verse:25, Page:1,
-    Kor:"너희는 또한 외국인 자손에게서도 이런 불구나 병신이 된 짐승을 받아다가 너희가 섬기는 하나님에게 음식으로 바쳐서는 안 된다. 이런 불구나 병신인 것을 제물로 바치면, 나 주가 너희를 반기지 않을 것이다.\"",
+    Kor:"너희는 또한 외국인 자손에게서도 이런 불구나 병신이 된 짐승을 받아다가 너희가 섬기는 하나님에게 음식으로 바쳐서는 안 된다. 이런 불구나 병신인 것을 제물로 바치면, 주가 너희를 반기지 않을 것이다.\"",
     Chn:"这类的物，你们从外人的手，一样也不可接受作你们　神的食物献上；因为这些都有损坏，有残疾，不蒙悦纳。」",
     Eng:"and you must not accept such animals from the hand of a foreigner and offer them as the food of your God. They will not be accepted on your behalf, because they are deformed and have defects.'\"",
     Ind:"Juga dari tangan orang asing janganlah kamu persembahkan sesuatu dari semuanya itu sebagai santapan Allahmu, karena semuanya itu telah rusak dan bercacat badannya; TUHAN tidak akan berkenan akan kamu karena persembahan-persembahan itu.\""
   },
   {Bible:"Leviticus", Chapter:22, Verse:26, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"\"Apabila seekor anak lembu atau anak domba atau anak kambing dilahirkan, maka haruslah itu tinggal tujuh hari lamanya dengan induknya, tetapi sejak hari kedelapan dan seterusnya TUHAN berkenan akan binatang itu kalau dipersembahkan berupa korban api-apian bagi-Nya."
   },
   {Bible:"Leviticus", Chapter:22, Verse:28, Page:1,
-    Kor:"그 어미가 암소거나 암양이거나 간에, 너희는 그 어미와 새끼를 같은 날에 죽여서는 안 된다.",
+    Kor:"그 어미가 암소거나 암양이거나 간에, 너희는 그 어미와 새끼를 같은 날에 죽여서는 안 된다.\"",
     Chn:"无论是母牛是母羊，不可同日宰母和子。",
     Eng:"Do not slaughter a cow or a sheep and its young on the same day.",
     Ind:"Seekor lembu atau kambing atau domba janganlah kamu sembelih bersama dengan anaknya pada satu hari juga."

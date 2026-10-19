@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",10,29);
 BibleDB.add([
   {Bible:"Exodus", Chapter:10, Verse:1, Page:1,
-    Kor:"<여덟째 재앙:메뚜기 소동> 주님께서 모세에게 말씀하셨다. \"너는 바로에게 가거라. 그와 그 신하들이 고집을 부리게 한 것은 나다. 이것은 내가, 그들이 보는 앞에서 나의 온갖 이적을 보여 주려고 그렇게 한 것이다.",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 바로에게 가거라. 그와 그 신하들이 고집을 부리게 한 것은 나다. 이것은 내가, 그들이 보는 앞에서 나의 온갖 이적을 보여 주려고 그렇게 한 것이다.",
     Chn:"耶和华对摩西说：「你进去见法老。我使他和他臣仆的心刚硬，为要在他们中间显我这些神迹，",
     Eng:"Then the LORD said to Moses, \"Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these miraculous signs of mine among them",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pergilah menghadap Firaun, sebab Aku telah membuat hatinya dan hati para pegawainya berkeras, supaya Aku mengadakan tanda-tanda mujizat yang Kubuat ini di antara mereka,"
   },
   {Bible:"Exodus", Chapter:10, Verse:2, Page:1,
-    Kor:"그뿐만 아니라, 내가 이집트 사람들을 어떻게 벌하였는지를, 그리고 내가 그들에게 어떤 이적을 보여 주었는지를, 네가 너의 자손에게도 알리게 하려고, 또 내가 주님임을 너희에게 가르치려고 그렇게 한 것이다.\"",
+    Kor:"그뿐만 아니라, 내가 이집트 사람들을 어떻게 벌하였는지를, 그리고 내가 그들에게 어떤 이적을 보여 주었는지를, 네가 너의 자손에게도 알리게 하려고, 또 내가 주님이라는 것을 너희에게 가르치려고 그렇게 한 것이다.\"",
     Chn:"并要叫你将我向埃及人所做的事，和在他们中间所行的神迹，传于你儿子和你孙子的耳中，好叫你们知道我是耶和华。」",
     Eng:"that you may tell your children and grandchildren how I dealt harshly with the Egyptians and how I performed my signs among them, and that you may know that I am the LORD.\"",
     Ind:"dan supaya engkau dapat menceriterakan kepada anak cucumu, bagaimana Aku mempermain-mainkan orang Mesir dan tanda-tanda mujizat mana yang telah Kulakukan di antara mereka, supaya kamu mengetahui, bahwa Akulah TUHAN.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:3, Page:1,
-    Kor:"○모세와 아론이 바로에게 가서 말하였다. \"히브리 사람의 주 하나님이 말씀하셨습니다. '네가 언제까지 내 앞에서 교만하게 굴려느냐? 나의 백성을 보내서, 나를 예배하게 하여라.",
+    Kor:"○모세와 아론이 바로에게 가서 말하였다. \"히브리 사람의 주 하나님이 말씀하시기를 '네가 언제까지 내 앞에서 교만하게 굴려느냐? 나의 백성을 보내서, 나를 예배하게 하여라.",
     Chn:"摩西、亚伦就进去见法老，对他说：「耶和华—希伯来人的　神这样说：『你在我面前不肯自卑要到几时呢？容我的百姓去，好事奉我。",
     Eng:"So Moses and Aaron went to Pharaoh and said to him, \"This is what the LORD, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may worship me.",
     Ind:"Lalu Musa dan Harun pergi menghadap Firaun dan berkata kepadanya: \"Beginilah firman TUHAN, Allah orang Ibrani: Berapa lama lagi engkau menolak untuk merendahkan dirimu di hadapan-Ku? Biarkanlah umat-Ku pergi supaya mereka beribadah kepada-Ku."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"belalang itu akan menutupi permukaan bumi, sehingga orang tidak dapat melihat tanah; belalang itu akan memakan habis sisa yang terluput, yang masih tinggal bagimu dari hujan es itu, bahkan akan memakan habis segala pohonmu yang tumbuh di padang."
   },
   {Bible:"Exodus", Chapter:10, Verse:6, Page:1,
-    Kor:"너의 궁궐과 너의 모든 신하의 집과 이집트의 모든 사람의 집이 메뚜기로 가득 찰 것이다. 이것은 너의 아버지와 너의 조상이 이 땅 위에 살기 시작한 때부터 오늘까지, 너희가 전혀 못 본 일이다.'\" 그리고 나서, 모세는 발길을 돌려 바로에게서 나왔다.",
+    Kor:"너의 궁궐과 너의 모든 신하의 집과 이집트의 모든 사람의 집이 메뚜기로 가득 찰 것이다. 이것은 너의 아버지와 너의 조상이 이 땅 위에 살기 시작한 때부터 오늘까지, 너희가 전혀 못 본 일이다' 하셨습니다.\" 그리고 나서, 모세는 발길을 돌려 바로에게서 나왔다.",
     Chn:"你的宫殿和你众臣仆的房屋，并一切埃及人的房屋，都要被蝗虫占满了；自从你祖宗和你祖宗的祖宗在世以来，直到今日，没有见过这样的灾。』」摩西就转身离开法老出去。",
     Eng:"They will fill your houses and those of all your officials and all the Egyptians--something neither your fathers nor your forefathers have ever seen from the day they settled in this land till now.'\" Then Moses turned and left Pharaoh.",
     Ind:"Belalang itu akan memenuhi rumahmu, rumah semua pegawaimu, rumah semua orang Mesir seperti yang belum pernah dilihat oleh bapamu dan nenek moyangmu, sejak mereka lahir ke bumi sampai hari ini.\" Lalu berpalinglah ia dan keluar meninggalkan Firaun."
   },
   {Bible:"Exodus", Chapter:10, Verse:7, Page:1,
-    Kor:"○바로의 신하들이 바로에게 말하였다. \"언제까지 이 사람이, 우리를 망하게 하는 함정이 되어야 합니까? 이 사람들을 내보내서 그들의 주 하나님을 예배하게 하심이 좋을 듯합니다. 임금님께서는 아직도 이집트가 망한 것을 모르고 계십니까?\"",
+    Kor:"○바로의 신하들이 바로에게 말하였다. \"언제까지 이 사람이, 우리를 망하게 하는 함정이 되어야 합니까? 이 사람들을 내보내서, 그들의 주 하나님을 예배하게 하심이 좋을 듯합니다. 임금님께서는 아직도 이집트가 망한 것을 모르고 계십니까?\"",
     Chn:"法老的臣仆对法老说：「这人为我们的网罗要到几时呢？容这些人去事奉耶和华—他们的　神吧！埃及已经败坏了，你还不知道吗？」",
     Eng:"Pharaoh's officials said to him, \"How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt is ruined?\"",
     Ind:"Sesudah itu berkatalah para pegawai Firaun kepadanya: \"Berapa lama lagi orang ini akan menjadi jerat kepada kita? Biarkanlah orang-orang itu pergi supaya mereka beribadah kepada TUHAN, Allah mereka. Belumkah tuanku insaf, bahwa Mesir pasti akan binasa?\""
@@ -51,31 +51,31 @@ BibleDB.add([
     Ind:"Lalu Musa dan Harun dibawalah kembali kepada Firaun dan berkatalah Firaun kepada mereka: \"Pergilah, beribadahlah kepada TUHAN, Allahmu. Siapa-siapa sebenarnya yang akan pergi itu?\""
   },
   {Bible:"Exodus", Chapter:10, Verse:9, Page:1,
-    Kor:"모세가 대답하였다. \"우리 모두가 주님의 절기를 지켜야 하므로, 어린 아이와 노인들을 비롯하여, 우리의 아들과 딸을 다 데리고 가야 하며, 우리의 양과 소도 몰고 가야 합니다.\"",
+    Kor:"모세가 대답하였다. \"우리 모두가 주의 절기를 지켜야 하므로, 어린 아이와 노인들을 비롯하여, 우리의 아들과 딸을 다 데리고 가야 하며, 우리의 양과 소도 몰고 가야 합니다.\"",
     Chn:"摩西说：「我们要和我们老的少的、儿子女儿同去，且把羊群牛群一同带去，因为我们务要向耶和华守节。」",
     Eng:"Moses answered, \"We will go with our young and old, with our sons and daughters, and with our flocks and herds, because we are to celebrate a festival to the LORD.\"",
     Ind:"Jawab Musa: \"Kami hendak pergi dengan orang-orang yang muda dan yang tua; dengan anak-anak lelaki kami dan perempuan, dengan kambing domba kami dan lembu sapi kami, sebab kami harus mengadakan perayaan untuk TUHAN.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:10, Page:1,
-    Kor:"바로가 그들에게 호통쳤다. \"그래, 어디 다 데리고 가 봐라! 너희와 함께 있는 너희의 주가 나를 감동시켜서 너희와 너희 아이들을 함께 보내게 할 것 같으냐? 어림도 없다! 너희가 지금 속으로 악한 음모를 꾸미고 있음이 분명하다!",
+    Kor:"바로가 그들에게 호통쳤다. \"그래, 어디 다 데리고 가 봐라! 너희와 함께 있는 너희의 주가 나를 감동시켜서 너희와 너희 아이들을 함께 보내게 할 것 같으냐? 어림도 없다! 너희가 지금, 속으로 악한 음모를 꾸미고 있음이 분명하다!",
     Chn:"法老对他们说：「我容你们和你们妇人孩子去的时候，耶和华与你们同在吧！你们要谨慎；因为有祸在你们眼前，",
     Eng:"Pharaoh said, \"The LORD be with you--if I let you go, along with your women and children! Clearly you are bent on evil.",
     Ind:"Tetapi Firaun berkata kepada mereka: \"TUHAN boleh menyertai kamu, jika aku membiarkan kamu pergi dengan anak-anakmu! Lihat, jahatlah maksudmu!"
   },
   {Bible:"Exodus", Chapter:10, Verse:11, Page:1,
-    Kor:"그렇게는 안 된다! 가려면 너희 장정들이나 가서, 너희의 주에게 예배를 드려라. 너희가 처음부터 바란 것이 그것이 아니더냐?\" 이렇게 해서, 그들은 바로 앞에서 쫓겨났다.",
+    Kor:"그렇게는 안 된다! 가려면, 너희 장정들이나 가서 너희의 주에게 예배를 드려라. 너희가 처음부터 바란 것이 그것이 아니더냐?\" 이렇게 해서, 그들은 바로 앞에서 쫓겨났다.",
     Chn:"不可都去！你们这壮年人去事奉耶和华吧，因为这是你们所求的。」于是把他们从法老面前撵出去。",
     Eng:"No! Have only the men go; and worship the LORD, since that's what you have been asking for.\" Then Moses and Aaron were driven out of Pharaoh's presence.",
     Ind:"Bukan demikian, kamu boleh pergi, tetapi hanya laki-laki, dan beribadahlah kepada TUHAN, sebab itulah yang kamu kehendaki.\" Lalu mereka diusir dari depan Firaun."
   },
   {Bible:"Exodus", Chapter:10, Verse:12, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너의 팔을 이집트 땅 위로 내밀어라. 그러면 메뚜기 떼가 이집트 땅으로 몰려와서, 우박의 피해를 입지 않고 땅에 그대로 남아 있는 푸성귀를 모두 먹어 치울 것이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너의 팔을 이집트 땅 위로 내밀어라. 그러면 메뚜기 떼가 이집트 땅으로 몰려와서, 우박의 피해를 입지 않고 땅에 그대로 남아 있는 푸성귀를 모두 먹어 치울 것이다.\"",
     Chn:"耶和华对摩西说：「你向埃及地伸杖，使蝗虫到埃及地上来，吃地上一切的菜蔬，就是冰雹所剩的。」",
     Eng:"And the LORD said to Moses, \"Stretch out your hand over Egypt so that locusts will swarm over the land and devour everything growing in the fields, everything left by the hail.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Ulurkanlah tanganmu ke atas tanah Mesir mendatangkan belalang dan belalang akan datang meliputi tanah Mesir dan memakan habis segala tumbuh-tumbuhan di tanah, semuanya yang ditinggalkan oleh hujan es itu.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:13, Page:1,
-    Kor:"모세가 지팡이를 이집트 땅 위로 내미니, 주님께서 그 날 온종일, 그리고 밤이 새도록, 그 땅에 동풍이 불게 하셨다. 그 동풍은 아침녘에 메뚜기 떼를 몰고 왔다.",
+    Kor:"모세가 지팡이를 이집트 땅 위로 내미니, 주께서 그 날 온종일, 그리고 밤이 새도록, 그 땅에 동풍이 불게 하셨다. 그 동풍은 아침녘에 메뚜기 떼를 몰고 왔다.",
     Chn:"摩西就向埃及地伸杖，那一昼一夜，耶和华使东风刮在埃及地上；到了早晨，东风把蝗虫刮了来。",
     Eng:"So Moses stretched out his staff over Egypt, and the LORD made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts;",
     Ind:"Lalu Musa mengulurkan tongkatnya ke atas tanah Mesir, dan TUHAN mendatangkan angin timur melintasi negeri itu, sehari-harian dan semalam-malaman, dan setelah hari pagi, angin timur membawa belalang."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Datanglah belalang meliputi seluruh tanah Mesir dan hinggap di seluruh daerah Mesir, sangat banyak; sebelum itu tidak pernah ada belalang yang demikian banyaknya dan sesudah itupun tidak akan terjadi lagi yang demikian."
   },
   {Bible:"Exodus", Chapter:10, Verse:15, Page:1,
-    Kor:"그것들이 땅의 표면을 다 덮어서, 땅이 새까맣게 되었다. 그것들이, 우박의 피해를 입지 않고 남아 있는 나무의 열매와 땅의 푸성귀를 모두 먹어 치워서, 이집트 온 땅에 있는 들의 나무와 푸른 푸성귀는 하나도 남지 않았다.",
+    Kor:"그것들이 땅의 표면을 다 덮어서, 땅이 새까맣게 되었다. 그것들이, 우박의 피해를 입지 않고 남아 있는, 나무의 열매와 땅의 푸성귀를 모두 먹어 치워서, 이집트 온 땅에 있는 들의 나무와 푸른 푸성귀는 하나도 남지 않았다.",
     Chn:"因为这蝗虫遮满地面，甚至地都黑暗了，又吃地上一切的菜蔬和冰雹所剩树上的果子。埃及遍地，无论是树木，是田间的菜蔬，连一点青的也没有留下。",
     Eng:"They covered all the ground until it was black. They devoured all that was left after the hail--everything growing in the fields and the fruit on the trees. Nothing green remained on tree or plant in all the land of Egypt.",
     Ind:"Belalang menutupi seluruh permukaan bumi, sehingga negeri itu menjadi gelap olehnya; belalang memakan habis segala tumbuh-tumbuhan di tanah dan segala buah-buahan pada pohon-pohon yang ditinggalkan oleh hujan es itu, sehingga tidak ada tinggal lagi yang hijau pada pohon atau tumbuh-tumbuhan di padang di seluruh tanah Mesir."
@@ -99,31 +99,31 @@ BibleDB.add([
     Ind:"Maka segeralah Firaun memanggil Musa dan Harun serta berkata: \"Aku telah berbuat dosa terhadap TUHAN, Allahmu, dan terhadap kamu."
   },
   {Bible:"Exodus", Chapter:10, Verse:17, Page:1,
-    Kor:"부디 이번만은 나의 죄를 용서하고, 주 너희의 하나님께 기도하여 이 엄청난 재앙이 나에게서 떠나게 하여라.\"",
+    Kor:"부디, 이번만은 나의 죄를 용서하고, 주 너희의 하나님께 기도하여, 이 엄청난 재앙이 나에게서 떠나게 하여라.\"",
     Chn:"现在求你，只这一次，饶恕我的罪，求耶和华—你们的　神使我脱离这一次的死亡。」",
     Eng:"Now forgive my sin once more and pray to the LORD your God to take this deadly plague away from me.\"",
     Ind:"Oleh sebab itu, ampunilah kiranya dosaku untuk sekali ini saja dan berdoalah kepada TUHAN, Allahmu itu, supaya bahaya maut ini dijauhkan-Nya dari padaku.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:18, Page:1,
-    Kor:"모세가 바로에게서 물러나와 주님께 기도를 드리니,",
+    Kor:"모세가 바로에게서 물러나와 주께 기도를 드리니,",
     Chn:"摩西就离开法老去求耶和华。",
     Eng:"Moses then left Pharaoh and prayed to the LORD.",
     Ind:"Lalu keluarlah Musa meninggalkan Firaun dan berdoa kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:10, Verse:19, Page:1,
-    Kor:"주님께서 바람을 가장 센 서풍으로 바꾸셔서, 메뚜기 떼를 a홍해에 몰아 넣으시고, 이집트 온 땅에 메뚜기 한 마리도 남겨 두지 않으셨다.(a 히, '얌 쑤프')",
+    Kor:"주께서 바람을 가장 센 서풍으로 바꾸셔서, 메뚜기 떼를 홍해에 몰아 넣으시고, 이집트 온 땅에 메뚜기 한 마리도 남겨 두지 않으셨다.",
     Chn:"耶和华转了极大的西风，把蝗虫刮起，吹入红海；在埃及的四境连一个也没有留下。",
     Eng:"And the LORD changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea. Not a locust was left anywhere in Egypt.",
     Ind:"Maka TUHAN membuat angin bertiup dari jurusan sebaliknya, yakni angin barat yang sangat kencang, yang membawa belalang itu dan melemparkannya ke dalam Laut Teberau: tidak ada satu belalangpun yang tinggal di seluruh daerah Mesir."
   },
   {Bible:"Exodus", Chapter:10, Verse:20, Page:1,
-    Kor:"그러나 주님께서는 바로가 여전히 고집을 부리게 하셨으며, 바로는 여전히 이스라엘 자손을 내보내지 않았다.",
+    Kor:"그러나 주께서는 바로가 여전히 고집을 부리게 하셨으며, 바로는 여전히 이스라엘 자손을 내보내지 않았다.",
     Chn:"但耶和华使法老的心刚硬，不容以色列人去。",
     Eng:"But the LORD hardened Pharaoh's heart, and he would not let the Israelites go.",
     Ind:"Tetapi TUHAN mengeraskan hati Firaun, sehingga tidak mau membiarkan orang Israel pergi."
   },
   {Bible:"Exodus", Chapter:10, Verse:21, Page:1,
-    Kor:"<아홉째 재앙:어두움이 땅을 덮다> ○주님께서 모세에게 말씀하셨다. \"너는 하늘로 팔을 내밀어라. 그러면 손으로 더듬어야 다닐 만큼 짙은 어둠이 이집트 땅을 덮을 것이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 하늘로 팔을 내밀어라. 그러면 손으로 더듬어야 다닐 만큼 짙은 어둠이 이집트 땅을 덮을 것이다.\"",
     Chn:"耶和华对摩西说：「你向天伸杖，使埃及地黑暗；这黑暗似乎摸得着。」",
     Eng:"Then the LORD said to Moses, \"Stretch out your hand toward the sky so that darkness will spread over Egypt--darkness that can be felt.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Ulurkanlah tanganmu ke langit, supaya datang gelap meliputi tanah Mesir, sehingga orang dapat meraba gelap itu.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Lalu Musa mengulurkan tangannya ke langit dan datanglah gelap gulita di seluruh tanah Mesir selama tiga hari."
   },
   {Bible:"Exodus", Chapter:10, Verse:23, Page:1,
-    Kor:"사흘 동안 사람들은 서로 볼 수도 없었고, 제자리를 뜰 수도 없었다. 그러나 이스라엘 자손이 사는 곳에는 어디에나 빛이 있었다.",
+    Kor:"사흘 동안 사람들은, 서로 볼 수도 없었고, 제자리를 뜰 수도 없었다. 그러나 이스라엘 자손이 사는 곳에는, 어디에나 빛이 있었다.",
     Chn:"三天之久，人不能相见，谁也不敢起来离开本处；惟有以色列人家中都有亮光。",
     Eng:"No one could see anyone else or leave his place for three days. Yet all the Israelites had light in the places where they lived.",
     Ind:"Tidak ada orang yang dapat melihat temannya, juga tidak ada orang yang dapat bangun dari tempatnya selama tiga hari; tetapi pada semua orang Israel ada terang di tempat kediamannya."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Dan juga ternak kami harus turut beserta kami dan satu kakipun tidak akan tinggal, sebab dari ternak itulah kami harus ambil untuk beribadah kepada TUHAN, Allah kami; dan kami tidak tahu, dengan apa kami harus beribadah kepada TUHAN, sebelum kami sampai di sana.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:27, Page:1,
-    Kor:"주님께서 바로가 고집을 부리도록 하셨으므로, 바로는 여전히 그들을 내보내지 않았다.",
+    Kor:"주께서 바로가 고집을 부리도록 하셨으므로, 바로는 여전히 그들을 내보내지 않았다.",
     Chn:"但耶和华使法老的心刚硬，不肯容他们去。",
     Eng:"But the LORD hardened Pharaoh's heart, and he was not willing to let them go.",
     Ind:"Tetapi TUHAN mengeraskan hati Firaun, sehingga dia tidak mau membiarkan mereka pergi."
   },
   {Bible:"Exodus", Chapter:10, Verse:28, Page:1,
-    Kor:"바로가 모세에게 소리쳤다. \"어서 내 앞에서 썩 물러가거라. 다시는 내 앞에 얼씬도 하지 말아라. 네가 내 앞에 다시 나타나는 날에는 죽을 줄 알아라.\"",
+    Kor:"바로가 모세에게 소리쳤다. \"어서, 내 앞에서 썩 물러가거라. 다시는, 내 앞에 얼씬도 하지 말아라. 네가, 내 앞에 다시 나타나는 날에는, 죽을 줄 알아라.\"",
     Chn:"法老对摩西说：「你离开我去吧，你要小心，不要再见我的面！因为你见我面的那日你就必死！」",
     Eng:"Pharaoh said to Moses, \"Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.\"",
     Ind:"Lalu Firaun berkata kepadanya: \"Pergilah dari padaku; awaslah engkau, jangan lihat mukaku lagi, sebab pada waktu engkau melihat mukaku, engkau akan mati.\""
   },
   {Bible:"Exodus", Chapter:10, Verse:29, Page:1,
-    Kor:"모세가 말하였다. \"말씀 잘하셨습니다. 나도 다시는 임금님 앞에 나타나지 않겠습니다.\"",
+    Kor:"모세가 말하였다. \"말씀, 잘하셨습니다. 나도 다시는 임금님 앞에 나타나지 않겠습니다.\"",
     Chn:"摩西说：「你说得好！我必不再见你的面了。」",
     Eng:"\"Just as you say,\" Moses replied, \"I will never appear before you again.\"",
     Ind:"Kemudian Musa berkata: \"Tepat seperti ucapanmu itu! Aku takkan melihat mukamu lagi!\""

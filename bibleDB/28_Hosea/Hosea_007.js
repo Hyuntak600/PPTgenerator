@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Dan tidak terpikir mereka bahwa Aku mengingat segala kejahatan mereka. Sekarangpun perbuatan-perbuatan mereka mengepung mereka, semuanya ada di hadapan wajah-Ku."
   },
   {Bible:"Hosea", Chapter:7, Verse:3, Page:1,
-    Kor:"<왕궁 안의 반란> \"왕을 갈아치울 자들이 악한 음모를 품고서도 겉으로는 왕을 기쁘게 하며, 온갖 기만으로 대신들을 속여 즐겁게 한다.",
+    Kor:"\"왕을 갈아치울 자들이 악한 음모를 품고서도 겉으로는 왕을 기쁘게 하며, 온갖 기만으로 대신들을 속여 즐겁게 한다.",
     Chn:"他们行恶使君王欢喜， 说谎使首领喜乐。",
     Eng:"\"They delight the king with their wickedness, the princes with their lies.",
     Ind:"Mereka menyukakan raja dengan kejahatan mereka, dan para pemuka dengan kebohongan mereka."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Pada pesta raja kita mereka membuat sakit para pemuka dengan anggur yang menghangatkan; ia bersekutu dengan para pencemooh."
   },
   {Bible:"Hosea", Chapter:7, Verse:6, Page:1,
-    Kor:"새 왕을 세우려는 자들의 마음은 빵 굽는 화덕처럼 달아 오르고, 그들은 음모를 품고 왕에게 접근한다. 밤새 그들의 열정을 부풀리고 있다가 아침에 맹렬하게 불꽃을 피워 올린다.",
+    Kor:"새 왕을 세우려는 자들의 마음은 빵 굽는 화덕처럼 달아 오르고, 그들은 음모를 품고 왕에게 접근한다. 밤새 그들의 열정을 부풀리고 있다가 아침에 맹렬하게 불꽃을 피워올린다.",
     Chn:"首领埋伏的时候，心中热如火炉， 就如烤饼的整夜睡卧， 到了早晨火气炎炎。",
     Eng:"Their hearts are like an oven; they approach him with intrigue. Their passion smolders all night; in the morning it blazes like a flaming fire.",
     Ind:"Batin mereka seperti dapur perapian; hati mereka menyala-nyala; semalam-malaman murka mereka surut, pada waktu pagi menyala kembali seperti api yang menjilat."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Mereka semua sudah panas seperti dapur perapian, dan memakan habis para hakim mereka. Semua raja mereka sudah tewas, tidak ada seorang di antara mereka yang berseru kepada-Ku."
   },
   {Bible:"Hosea", Chapter:7, Verse:8, Page:1,
-    Kor:"<이스라엘과 열강들> \"에브라임은 다른 민족들 속에 섞여서 튀기가 되었다. 에브라임은 뒤집지 않고 구워서 한쪽만 익은 빵처럼 되었다.",
+    Kor:"\"에브라임은 다른 민족들 속에 섞여서 튀기가 되었다. 에브라임은 뒤집지 않고 구워서 한쪽만 익은 빵처럼 되었다.",
     Chn:"以法莲与列邦人搀杂； 以法莲是没有翻过的饼。",
     Eng:"\"Ephraim mixes with the nations; Ephraim is a flat cake not turned over.",
     Ind:"Efraim mencampurkan dirinya di antara bangsa-bangsa, Efraim telah menjadi roti bundar yang tidak dibalik."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Celakalah mereka, sebab mereka melarikan diri dari pada-Ku! Binasalah mereka, sebab mereka memberontak terhadap Aku! Aku ini mau menebus mereka, tetapi mereka berdusta terhadap Aku."
   },
   {Bible:"Hosea", Chapter:7, Verse:14, Page:1,
-    Kor:"그들이 나에게 부르짖으나, 거기에 진실이 없다. a오히려 침상에 엎드려 통곡한다. 곡식과 포도주를 달라고 빌 때에도 a몸을 찢어 상처를 내면서 빌고 있으니, 이것은 나를 거역하는 짓이다. (a 이방인의 풍속)",
+    Kor:"그들이 나에게 부르짖으나, 거기에 진실이 없다. 오히려 침상에 엎드려 통곡한다. 곡식과 포도주를 달라고 빌 때에도 몸을 찢어 상처를 내면서 빌고 있으니, 이것은 나를 거역하는 짓이다.",
     Chn:"他们并不诚心哀求我， 乃在床上呼号； 他们为求五谷新酒聚集， 仍然悖逆我。",
     Eng:"They do not cry out to me from their hearts but wail upon their beds. They gather together for grain and new wine but turn away from me.",
     Ind:"Seruan mereka kepada-Ku tidak keluar dari hatinya, tetapi mereka meratap di pembaringan mereka. Mereka menoreh-noreh diri karena gandum dan anggur, dan mereka berontak terhadap Aku."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Sekalipun Aku telah melatih dan menguatkan lengan-lengan mereka, namun mereka merancang kejahatan terhadap Aku."
   },
   {Bible:"Hosea", Chapter:7, Verse:16, Page:1,
-    Kor:"b허망한 것에 정신이 팔린 자들, 느슨하게 풀어진 활처럼 쓸모 없는 자들, 대신들은 함부로 혀를 놀렸으니, 모두 칼에 찔려 죽을 것이다. 이것이 이집트 땅에서 조롱거리가 될 것이다.\" (b 또는 '가장 높으신 분께 돌아오지 않는다')",
+    Kor:"허망한 것에 정신이 팔린 자들, 느슨하게 풀어진 활처럼 쓸모 없는 자들, 대신들은 함부로 혀를 놀렸으니, 모두 칼에 찔려 죽을 것이다. 이것이 이집트 땅에서 조롱거리가 될 것이다.\"",
     Chn:"他们归向，却不归向至上者； 他们如同翻背的弓。 他们的首领必因舌头的狂傲倒在刀下； 这在埃及地必作人的讥笑。",
     Eng:"They do not turn to the Most High; they are like a faulty bow. Their leaders will fall by the sword because of their insolent words. For this they will be ridiculed in the land of Egypt.",
     Ind:"Mereka berbalik kepada Baal, mereka adalah seperti busur tipu; pemuka-pemuka mereka akan tewas oleh pedang karena ucapan mereka yang kasar. Inilah yang akan menjadi olok-olok kepada mereka di tanah Mesir."

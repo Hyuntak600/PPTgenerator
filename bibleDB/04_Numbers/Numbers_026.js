@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",26,65);
 BibleDB.add([
   {Bible:"Numbers", Chapter:26, Verse:1, Page:1,
-    Kor:"<두 번째 인구조사> 염병이 지나간 뒤에, 주님께서 모세와 아론의 아들 제사장 엘르아살에게 말씀하셨다.",
+    Kor:"염병이 지나간 뒤에, 주께서 모세와 아론의 아들 제사장 엘르아살에게 말씀하셨다.",
     Chn:"瘟疫之后，耶和华晓谕摩西和祭司亚伦的儿子以利亚撒说：",
     Eng:"After the plague the LORD said to Moses and Eleazar son of Aaron, the priest,",
     Ind:"Sesudah tulah itu berfirmanlah TUHAN kepada Musa dan kepada Eleazar, anak imam Harun:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Musa dan imam Eleazar kepada mereka di dataran Moab, di tepi sungai Yordan dekat Yerikho:"
   },
   {Bible:"Numbers", Chapter:26, Verse:4, Page:1,
-    Kor:"\"주님께서 모세에게 명하신 대로, 스무 살부터 그 위로 남자의 수를 세시오.\" ○이집트 땅에서 나온 이스라엘 자손은 다음과 같다.",
+    Kor:"\"주께서 모세에게 명하신 대로, 스무 살부터 그 위로 남자의 수를 세어라.\" ○이집트 땅에서 나온 이스라엘 자손은 다음과 같다.",
     Chn:"「将你们中间从二十岁以外的计算总数」；是照耶和华吩咐出埃及地的摩西和以色列人的话。",
     Eng:"\"Take a census of the men twenty years old or more, as the LORD commanded Moses.\" These were the Israelites who came out of Egypt:",
     Ind:"\"Hitunglah jumlah semua orang yang berumur dua puluh tahun ke atas!\" --seperti yang diperintahkan TUHAN kepada Musa. Inilah orang Israel yang telah keluar dari tanah Mesir:"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Adapun anak Palu ialah Eliab,"
   },
   {Bible:"Numbers", Chapter:26, Verse:9, Page:1,
-    Kor:"엘리압의 아들은 느무엘과 다단과 아비람이다. 다단과 아비람은, 바로 모세와 아론에게 맞서 반역한 자들로서, 고라의 무리가 주님께 대항하여 반역할 때에 그들 가운데 있던 자들이며, 회중에서 부름받은 자들이다.",
+    Kor:"엘리압의 아들은 느무엘과 다단과 아비람이다. 다단과 아비람은, 바로 모세와 아론에게 맞서 반역한 자들로서, 고라의 무리가 주께 대항하여 반역할 때에 그들 가운데 있던 자들이며, 회중에서 부름받은 자들이다.",
     Chn:"以利押的众子是尼母利、大坍、亚比兰。这大坍、亚比兰，就是从会中选召的，与可拉一党同向耶和华争闹的时候也向摩西、亚伦争闹；",
     Eng:"and the sons of Eliab were Nemuel, Dathan and Abiram. The same Dathan and Abiram were the community officials who rebelled against Moses and Aaron and were among Korah's followers when they rebelled against the LORD.",
     Ind:"dan anak-anak Eliab ialah Nemuel, Datan dan Abiram. Datan dan Abiram, orang-orang yang dipilih oleh umat itu, ialah orang-orang yang telah membantah Musa dan Harun dalam kumpulan Korah, ketika mereka membantah TUHAN,"
@@ -285,7 +285,7 @@ BibleDB.add([
     Ind:"Itulah kaum-kaum bani Asyer, dan orang-orang yang dicatat dari mereka berjumlah lima puluh tiga ribu empat ratus orang."
   },
   {Bible:"Numbers", Chapter:26, Verse:48, Page:1,
-    Kor:"○납달리 자손은 가족별로, 야스엘에게서 난 야스엘 가족과, 구니에게서 난 구니 가족과,",
+    Kor:"○납달리 자손은 가족별로, 야셀에게서 난 야셀 가족과, 구니에게서 난 구니 가족과,",
     Chn:"按着家族，拿弗他利的众子：属雅薛的，有雅薛族；属沽尼的，有沽尼族；",
     Eng:"The descendants of Naphtali by their clans were: through Jahzeel, the Jahzeelite clan; through Guni, the Gunite clan;",
     Ind:"Bani Naftali, menurut kaum mereka, ialah: dari Yahzeel kaum orang Yahzeel; dari Guni kaum orang Guni;"
@@ -309,7 +309,7 @@ BibleDB.add([
     Ind:"Itulah orang-orang yang dicatat dari orang Israel, enam ratus satu ribu tujuh ratus tiga puluh orang banyaknya."
   },
   {Bible:"Numbers", Chapter:26, Verse:52, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -387,7 +387,7 @@ BibleDB.add([
     Ind:"Di antara mereka tidak ada terdapat seorangpun yang dicatat Musa dan imam Harun, ketika keduanya mencatat orang Israel di padang gurun Sinai"
   },
   {Bible:"Numbers", Chapter:26, Verse:65, Page:1,
-    Kor:"주님께서, 그들이 광야에서 반드시 죽을 것이라고 말씀하셨기 때문이다. 여분네의 아들 갈렙과 눈의 아들 여호수아를 제외하고는, 그들 가운데서 어느 한 사람도 살아 남지 못하였다.",
+    Kor:"주께서, 그들이 광야에서 반드시 죽을 것이라고 말씀하셨기 때문이다. 여분네의 아들 갈렙과 눈의 아들 여호수아를 제외하고는, 그들 가운데서 어느 한 사람도 살아 남지 못하였다.",
     Chn:"因为耶和华论到他们说：「他们必要死在旷野。」所以，除了耶孚尼的儿子迦勒和嫩的儿子约书亚以外，连一个人也没有存留。",
     Eng:"For the LORD had told those Israelites they would surely die in the desert, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.",
     Ind:"sebab TUHAN telah berfirman tentang mereka: \"Pastilah mereka mati di padang gurun.\" Dari mereka itu tidak ada seorangpun yang masih tinggal hidup selain dari Kaleb bin Yefune dan Yosua bin Nun."

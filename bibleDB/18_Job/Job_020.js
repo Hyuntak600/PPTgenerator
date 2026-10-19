@@ -3,7 +3,7 @@
 BibleDB.ref("Job",20,29);
 BibleDB.add([
   {Bible:"Job", Chapter:20, Verse:1, Page:1,
-    Kor:"<소발의 두 번째 발언> 나아마 사람 소발이 대답하였다.",
+    Kor:"나아마 사람 소발이 대답하였다.",
     Chn:"拿玛人琐法回答说：",
     Eng:"Then Zophar the Naamathite replied:",
     Ind:"Maka Zofar, orang Naama, menjawab:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Kudengar teguran yang menghina aku, tetapi yang menjawab aku ialah akal budi yang tidak berpengertian."
   },
   {Bible:"Job", Chapter:20, Verse:4, Page:1,
-    Kor:"너도 이런 것쯤은 알고 있을 것이다. 이 땅에 a사람이 생기기 시작한 그 옛날로부터, (a 또는 '아담')",
+    Kor:"너도 이런 것쯤은 알고 있을 것이다. 이 땅에 사람이 생기기 시작한 그 옛날로부터,",
     Chn:"你岂不知亘古以来， 自从人生在地，",
     Eng:"\"Surely you know how it has been from of old, ever since man was placed on the earth,",
     Ind:"Belumkah engkau mengetahui semuanya itu sejak dahulu kala, sejak manusia ditempatkan di bumi,"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Walaupun keangkuhannya sampai ke langit dan kepalanya mengenai awan,"
   },
   {Bible:"Job", Chapter:20, Verse:7, Page:1,
-    Kor:"마침내 그도 분토처럼 사라지고 말며, 그를 본 적이 있는 사람도 그 교만한 자가 왜 안 보이느냐고 물으리라는 것쯤은, 너도 알고 있을 것이다.",
+    Kor:"마침내 그도 분토처럼 사라지고 말며, 그를 본 적이 있는 사람도 그 교만한 자가 그가 왜 안 보이느냐고 물으리라는 것쯤은, 너도 알고 있을 것이다.",
     Chn:"他终必灭亡，像自己的粪一样； 素来见他的人要说：他在哪里呢？",
     Eng:"he will perish forever, like his own dung; those who have seen him will say, 'Where is he?'",
     Ind:"namun seperti tahinya ia akan binasa untuk selama-lamanya; siapa yang pernah melihatnya, bertanya: Di mana dia?"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, ia tidak mengenal ketenangan dalam batinnya, dan ia tidak akan terluput dengan membawa harta bendanya."
   },
   {Bible:"Job", Chapter:20, Verse:21, Page:1,
-    Kor:"먹을 때에는 남기는 것 없이 모조리 먹어 치우지만, 그의 번영은 오래 가지 못한다.",
+    Kor:"먹을 때에는, 남기는 것 없이 모조리 먹어 치우지만, 그의 번영은 오래 가지 못한다.",
     Chn:"其余的没有一样他不吞灭， 所以他的福乐不能长久。",
     Eng:"Nothing is left for him to devour; his prosperity will not endure.",
     Ind:"Suatupun tidak luput dari pada lahapnya, itulah sebabnya kemujurannya tidak kekal."

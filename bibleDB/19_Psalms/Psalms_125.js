@@ -3,19 +3,19 @@
 BibleDB.ref("Psalms",125,5);
 BibleDB.add([
   {Bible:"Psalms", Chapter:125, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래> 주님을 의지하는 사람은 시온 산과 같아서, 흔들리는 일이 없이 영원히 서 있다.",
+    Kor:"주님을 의지하는 사람은 시온 산과 같아서, 흔들리는 일이 없이 영원히 서 있다.",
     Chn:"上行之诗。 倚靠耶和华的人 好像锡安山，永不动摇。",
     Eng:"Those who trust in the LORD are like Mount Zion, which cannot be shaken but endures forever.",
     Ind:"Nyanyian ziarah. Orang-orang yang percaya kepada TUHAN adalah seperti gunung Sion yang tidak goyang, yang tetap untuk selama-lamanya."
   },
   {Bible:"Psalms", Chapter:125, Verse:2, Page:1,
-    Kor:"산들이 예루살렘을 감싸고 있듯이, 주님께서도 당신의 백성을 지금부터 영원토록 감싸 주신다.",
+    Kor:"산이 예루살렘을 감싸고 있듯이, 주께서도 당신의 백성을 지금부터 영원토록 감싸 주신다.",
     Chn:"众山怎样围绕耶路撒冷， 耶和华也照样围绕他的百姓， 从今时直到永远。",
     Eng:"As the mountains surround Jerusalem, so the LORD surrounds his people both now and forevermore.",
     Ind:"Yerusalem, gunung-gunung sekelilingnya; demikianlah TUHAN sekeliling umat-Nya, dari sekarang sampai selama-lamanya."
   },
   {Bible:"Psalms", Chapter:125, Verse:3, Page:1,
-    Kor:"의인이 불의한 일에 손대지 못하게 하려면, 의인이 분깃으로 받은 그 땅에서 악인이 그 권세를 부리지 못하게 하여야 한다.",
+    Kor:"의인이 불의한 일에 손을 대지 않도록 하려면, 의인이 그의 몫으로 분배받은 그 땅 위에서는, 악인이 그 권세를 언제까지나 휘두르지 못하게 해야 한다.",
     Chn:"恶人的杖不常落在义人的分上， 免得义人伸手作恶。",
     Eng:"The scepter of the wicked will not remain over the land allotted to the righteous, for then the righteous might use their hands to do evil.",
     Ind:"Tongkat kerajaan orang fasik tidak akan tinggal tetap di atas tanah yang diundikan kepada orang-orang benar, supaya orang-orang benar tidak mengulurkan tangannya kepada kejahatan."

@@ -3,19 +3,19 @@
 BibleDB.ref("Hosea",6,11);
 BibleDB.add([
   {Bible:"Hosea", Chapter:6, Verse:1, Page:1,
-    Kor:"<백성들의 불성실한 회개> 이제 주님께로 돌아가자. 주님께서 우리를 찢으셨으나 다시 싸매어 주시고, 우리에게 상처를 내셨으나 다시 아물게 하신다.",
+    Kor:"이제 주께로 돌아가자. 주께서 우리를 찢으셨으나 다시 싸매어 주시고, 우리에게 상처를 내셨으나 다시 아물게 하신다.",
     Chn:"来吧，我们归向耶和华！ 他撕裂我们，也必医治； 他打伤我们，也必缠裹。",
     Eng:"\"Come, let us return to the LORD. He has torn us to pieces but he will heal us; he has injured us but he will bind up our wounds.",
     Ind:"\"Mari, kita akan berbalik kepada TUHAN, sebab Dialah yang telah menerkam dan yang akan menyembuhkan kita, yang telah memukul dan yang akan membalut kita."
   },
   {Bible:"Hosea", Chapter:6, Verse:2, Page:1,
-    Kor:"이틀 뒤에 우리를 다시 살려 주시고, 사흘 만에 우리를 다시 일으켜 세우실 것이니, 우리가 주님 앞에서 살 것이다.",
+    Kor:"이틀 뒤에 우리를 다시 살려 주시고, 사흘 만에 우리를 다시 일으켜 세우실 것이니, 우리가 주 앞에서 살 것이다.",
     Chn:"过两天他必使我们苏醒， 第三天他必使我们兴起， 我们就在他面前得以存活。",
     Eng:"After two days he will revive us; on the third day he will restore us, that we may live in his presence.",
     Ind:"Ia akan menghidupkan kita sesudah dua hari, pada hari yang ketiga Ia akan membangkitkan kita, dan kita akan hidup di hadapan-Nya."
   },
   {Bible:"Hosea", Chapter:6, Verse:3, Page:1,
-    Kor:"우리가 주님을 알자. 애써 주님을 알자. 새벽마다 여명이 오듯이 주님께서도 그처럼 어김없이 오시고, 해마다 쏟아지는 가을비처럼 오시고, 땅을 적시는 봄비처럼 오신다.",
+    Kor:"우리가 주를 알자. 애써 주를 알자. 새벽마다 여명이 오듯이 주께서도 그처럼 어김없이 오시고, 해마다 쏟아지는 가을비처럼 오시고, 땅을 적시는 봄비처럼 오신다.",
     Chn:"我们务要认识耶和华， 竭力追求认识他。 他出现确如晨光； 他必临到我们像甘雨， 像滋润田地的春雨。",
     Eng:"Let us acknowledge the LORD; let us press on to acknowledge him. As surely as the sun rises, he will appear; he will come to us like the winter rains, like the spring rains that water the earth.\"",
     Ind:"Marilah kita mengenal dan berusaha sungguh-sungguh mengenal TUHAN; Ia pasti muncul seperti fajar, Ia akan datang kepada kita seperti hujan, seperti hujan pada akhir musim yang mengairi bumi.\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Apakah yang akan Kulakukan kepadamu, hai Efraim? Apakah yang akan Kulakukan kepadamu, hai Yehuda? Kasih setiamu seperti kabut pagi, dan seperti embun yang hilang pagi-pagi benar."
   },
   {Bible:"Hosea", Chapter:6, Verse:5, Page:1,
-    Kor:"그래서 내가 예언자들을 보내어 너희를 산산조각 나게 하였으며, 나의 입에서 나오는 모든 말로 너희를 죽였고, 나의 심판이 너희 위에서 번개처럼 빛났다.",
+    Kor:"그래서 내가 예언자들을 보내어 너희를 산산조각나게 하였으며, 나의 입에서 나오는 모든 말로 너희를 죽였고, 나의 심판이 너희 위에서 번개처럼 빛났다.",
     Chn:"因此，我借先知砍伐他们， 以我口中的话杀戮他们； 我施行的审判如光发出。",
     Eng:"Therefore I cut you in pieces with my prophets, I killed you with the words of my mouth; my judgments flashed like lightning upon you.",
     Ind:"Sebab itu Aku telah meremukkan mereka dengan perantaraan nabi-nabi, Aku telah membunuh mereka dengan perkataan mulut-Ku, dan hukum-Ku keluar seperti terang."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sebab Aku menyukai kasih setia, dan bukan korban sembelihan, dan menyukai pengenalan akan Allah, lebih dari pada korban-korban bakaran."
   },
   {Bible:"Hosea", Chapter:6, Verse:7, Page:1,
-    Kor:"그런데 이 백성은 a아담처럼 언약을 어기고 나를 배반하였다. (a 또는 '아담에서' 또는 '사람처럼')",
+    Kor:"그런데 이 백성은 아담처럼 언약을 어기고 나를 배반하였다.",
     Chn:"他们却如亚当背约， 在境内向我行事诡诈。",
     Eng:"Like Adam, they have broken the covenant--they were unfaithful to me there.",
     Ind:"Tetapi mereka itu telah melangkahi perjanjian di Adam, di sana mereka telah berkhianat terhadap Aku."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Di antara kaum Israel telah Kulihat hal-hal yang mengerikan; di sana ada Efraim bersundal dan Israel telah menajiskan diri."
   },
   {Bible:"Hosea", Chapter:6, Verse:11, Page:1,
-    Kor:"유다야, 너를 심판할 시기도 정하여 놓았다. 내가 내 백성의 운명을 바꾸어 주고자 할 때마다,",
+    Kor:"유다야, 너를 심판할 시기도 정하여 놓았다.\" \"내가 내 백성의 운명을 바꾸어 주고자 할 때마다,",
     Chn:"犹大啊，我使被掳之民归回的时候， 必有为你所命定的收场。",
     Eng:"\"Also for you, Judah, a harvest is appointed.",
     Ind:"Juga bagimu, hai Yehuda, telah ditentukan penuaian: Apabila Aku memulihkan keadaan umat-Ku,"

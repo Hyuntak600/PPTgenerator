@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",14,29);
 BibleDB.add([
   {Bible:"2Kings", Chapter:14, Verse:1, Page:1,
-    Kor:"<유다 왕 아마샤(대하 25:1-24)> 이스라엘 왕 여호아하스의 아들 여호아스 제 이년에 유다 왕 요아스의 아들 아마샤가 유다 왕이 되었다.",
+    Kor:"이스라엘 왕 여호아하스의 아들 여호아스 제 이년에 유다 왕 요아스의 아들 아마샤가 유다 왕이 되었다.",
     Chn:"以色列王约哈斯的儿子约阿施第二年，犹大王约阿施的儿子亚玛谢登基。",
     Eng:"In the second year of Jehoash son of Jehoahaz king of Israel, Amaziah son of Joash king of Judah began to reign.",
     Ind:"Dalam tahun kedua zaman Yoas bin Yoahas, raja Israel, Amazia, anak Yoas raja Yehuda menjadi raja."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Ia berumur dua puluh lima tahun pada waktu ia menjadi raja dan dua puluh sembilan tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Yoadan, dari Yerusalem."
   },
   {Bible:"2Kings", Chapter:14, Verse:3, Page:1,
-    Kor:"아마샤는 주님께서 보시기에 올바른 일을 하기는 하였으나, 그의 조상 다윗만큼은 하지 못하였고, 아버지 요아스가 한 것만큼 하였다.",
+    Kor:"아마샤는 주께서 보시기에 올바른 일을 하기는 하였으나, 그의 조상 다윗만큼은 하지 못하였고, 아버지 요아스가 한 것만큼 하였다.",
     Chn:"亚玛谢行耶和华眼中看为正的事，但不如他祖大卫，乃效法他父约阿施一切所行的；",
     Eng:"He did what was right in the eyes of the LORD, but not as his father David had done. In everything he followed the example of his father Joash.",
     Ind:"Ia melakukan apa yang benar di mata TUHAN, hanya bukan seperti Daud, bapa leluhurnya. Ia berbuat tepat seperti yang diperbuat Yoas, ayahnya."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Segera sesudah kuasa kerajaan itu kokoh di tangannya, dibunuhnyalah pegawai-pegawainya yang telah membunuh raja, yaitu ayahnya."
   },
   {Bible:"2Kings", Chapter:14, Verse:6, Page:1,
-    Kor:"그러나 그는 처형한 신하의 자녀는 죽이지 않았다. 그것은 모세의 율법서에 기록된 말씀을 따른 것이다. 거기에는 \"아버지가 자녀 대신에 처형되어서도 안 되고, 또 자녀가 아버지 대신에 처형되어서도 안 된다. 오직 각 사람은 자신이 지은 죄에 따라 처형되어야 한다\" 하고 말씀하신 주님의 명령이 있다.",
+    Kor:"그러나 그는 처형한 신하의 자녀는 죽이지 않았다. 그것은 모세의 율법서에 기록된 말씀을 따른 것이다. 거기에는 \"아버지가 자녀 대신에 처형되어서도 안 되고, 또 자녀가 아버지 대신에 처형되어서도 안 된다. 오직 각 사람은 자신이 지은 죄에 따라 처형되어야 한다\" 하고 말씀하신 주의 명령이 있다.",
     Chn:"却没有治死杀王之人的儿子，是照摩西律法书上耶和华所吩咐的说：「不可因子杀父，也不可因父杀子，各人要为本身的罪而死。」",
     Eng:"Yet he did not put the sons of the assassins to death, in accordance with what is written in the Book of the Law of Moses where the LORD commanded: \"Fathers shall not be put to death for their children, nor children put to death for their fathers; each is to die for his own sins.\"",
     Ind:"Tetapi anak-anak para pembunuh itu tidak dihukum mati olehnya, seperti yang tertulis dalam kitab Taurat Musa, di mana TUHAN telah memberi perintah: \"Janganlah ayah dihukum mati karena anaknya, janganlah juga anak dihukum mati karena ayahnya, melainkan setiap orang harus dihukum mati karena dosanya sendiri.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Ia mengalahkan Edom di Lembah Asin, sepuluh ribu orang banyaknya, dan merebut Sela dalam peperangan itu, lalu dinamainyalah kota itu Yokteel; begitulah sampai hari ini."
   },
   {Bible:"2Kings", Chapter:14, Verse:8, Page:1,
-    Kor:"○그 때에 아마샤가, 예후의 손자요 여호아하스의 아들인 이스라엘의 여호아스 왕에게 전령을 보내어, 서로 직접 만나 힘을 겨루어 보자고 제안하였다.",
+    Kor:"그 때에 아마샤가, 예후의 손자요 여호아하스의 아들인 이스라엘의 여호아스 왕에게 전령을 보내어, 서로 직접 만나 힘을 겨루어 보자고 제안하였다.",
     Chn:"那时，亚玛谢差遣使者去见耶户的孙子约哈斯的儿子以色列王约阿 施，说：「你来，我们二人相见于战场。」",
     Eng:"Then Amaziah sent messengers to Jehoash son of Jehoahaz, the son of Jehu, king of Israel, with the challenge: \"Come, meet me face to face.\"",
     Ind:"Pada waktu itu Amazia menyuruh utusan kepada Yoas bin Yoahas bin Yehu, raja Israel, mengatakan: \"Mari kita mengadu tenaga!\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Yoas, raja Israel menangkap Amazia, raja Yehuda, anak Yoas bin Ahazia, di Bet-Semes. Lalu Yoas masuk ke Yerusalem, dan membongkar tembok Yerusalem dari Pintu Gerbang Efraim sampai ke Pintu Gerbang Sudut, empat ratus hasta panjangnya."
   },
   {Bible:"2Kings", Chapter:14, Verse:14, Page:1,
-    Kor:"그는 또 주님의 성전과 왕궁의 보물 창고에 있는 금과 은과 모든 그릇을 약탈하고, 사람까지 볼모로 잡아서, 사마리아로 돌아갔다.",
+    Kor:"그는 또 주의 성전과 왕궁의 보물 창고에 있는 금과 은과 모든 그릇을 약탈하고, 사람까지 볼모로 잡아서, 사마리아로 돌아갔다.",
     Chn:"又将耶和华殿里与王宫府库里所有的金银和器皿都拿了去，并带人去为质，就回撒马利亚去了。",
     Eng:"He took all the gold and silver and all the articles found in the temple of the LORD and in the treasuries of the royal palace. He also took hostages and returned to Samaria.",
     Ind:"Sesudah itu ia mengambil segala emas dan perak dan segala perkakas yang terdapat dalam rumah TUHAN dan dalam perbendaharaan istana raja, juga orang-orang sandera, kemudian pulanglah ia ke Samaria."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Kemudian Yoas mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di Samaria di samping raja-raja Israel. Maka Yerobeam, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Kings", Chapter:14, Verse:17, Page:1,
-    Kor:"<유다 왕 아마샤가 죽다(대하 25:25-28)> ○유다의 요아스 왕의 아들 아마샤는, 이스라엘의 여호아하스 왕의 아들 여호아스가 죽은 뒤에도 열다섯 해를 더 살았다.",
+    Kor:"○유다의 요아스 왕의 아들 아마샤는, 이스라엘의 여호아하스 왕의 아들 여호아스가 죽은 뒤에도 열다섯 해를 더 살았다.",
     Chn:"以色列王约哈斯的儿子约阿施死后，犹大王约阿施的儿子亚玛谢又活了十五年。",
     Eng:"Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.",
     Ind:"Amazia bin Yoas, raja Yehuda, masih hidup lima belas tahun lamanya sesudah matinya Yoas bin Yoahas, raja Israel."
@@ -135,31 +135,31 @@ BibleDB.add([
     Ind:"Ia memperkuat Elat dan mengembalikannya kepada Yehuda, sesudah raja mendapat perhentian bersama-sama dengan nenek moyangnya."
   },
   {Bible:"2Kings", Chapter:14, Verse:23, Page:1,
-    Kor:"<이스라엘 왕 여로보암 이세> ○유다의 요아스 왕의 아들 아마샤 제 십오년에, 이스라엘의 여호아스 왕의 아들 여로보암이 왕이 되어, 사마리아에서 마흔한 해 동안 다스렸다.",
+    Kor:"○유다의 요아스 왕의 아들 아마샤 제 십오년에, 이스라엘의 여호아스 왕의 아들 여로보암이 왕이 되어, 사마리아에서 마흔한 해 동안 다스렸다.",
     Chn:"犹大王约阿施的儿子亚玛谢十五年，以色列王约阿施的儿子耶罗波安在撒马利亚登基，作王四十一年。",
     Eng:"In the fifteenth year of Amaziah son of Joash king of Judah, Jeroboam son of Jehoash king of Israel became king in Samaria, and he reigned forty-one years.",
     Ind:"Dalam tahun kelima belas zaman Amazia bin Yoas, raja Yehuda, Yerobeam, anak Yoas, raja Israel, menjadi raja di Samaria. Ia memerintah empat puluh satu tahun lamanya."
   },
   {Bible:"2Kings", Chapter:14, Verse:24, Page:1,
-    Kor:"그는 주님께서 보시기에 악을 행하고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
+    Kor:"그는 주께서 보시기에 악을 행하고, 이스라엘로 죄를 짓게 한 느밧의 아들 여로보암의 죄에서 떠나지 아니하고, 그것을 그대로 본받았다.",
     Chn:"他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的一切罪。",
     Eng:"He did evil in the eyes of the LORD and did not turn away from any of the sins of Jeroboam son of Nebat, which he had caused Israel to commit.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN. Ia tidak menjauh dari segala dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"2Kings", Chapter:14, Verse:25, Page:1,
-    Kor:"그러나 그는 이스라엘의 국경을 a하맛 어귀로부터 b아라바 바다까지 회복하였다. 이것은 주 이스라엘의 하나님께서 그의 종인 가드헤벨 사람 아밋대의 아들 요나 예언자에게 말씀하신 그대로였다.(a 또는 '하맛 어귀' 또는 '르보 하맛' b 사해를 일컬음)",
+    Kor:"그러나 그는 이스라엘의 국경을 하맛 어귀로부터 아라바 바다까지 회복하였다. 이것은 주 이스라엘의 하나님께서 그의 종인 가드헤벨 사람 아밋대의 아들 요나 예언자에게 말씀하신 그대로였다.",
     Chn:"他收回以色列边界之地，从哈马口直到亚拉巴海，正如耶和华—以色列的　神借他仆人迦特希弗人亚米太的儿子先知约拿所说的。",
     Eng:"He was the one who restored the boundaries of Israel from Lebo Hamath to the Sea of the Arabah, in accordance with the word of the LORD, the God of Israel, spoken through his servant Jonah son of Amittai, the prophet from Gath Hepher.",
     Ind:"Ia mengembalikan daerah Israel, dari jalan masuk ke Hamat sampai ke Laut Araba sesuai dengan firman TUHAN, Allah Israel, yang telah diucapkan-Nya dengan perantaraan hamba-Nya, nabi Yunus bin Amitai dari Gat-Hefer."
   },
   {Bible:"2Kings", Chapter:14, Verse:26, Page:1,
-    Kor:"○주님께서는 이스라엘의 고난이 너무 심하여, 매인 사람이나 자유로운 사람이나 할 것 없이 한 사람도 남아 있지 않아, 이스라엘을 돕는 사람이라고는 아무도 없는 것을 보셨다.",
+    Kor:"○주께서는 이스라엘의 고난이 너무 심하여, 매인 사람이나 자유로운 사람이나 할 것 없이 한 사람도 남아 있지 않아, 이스라엘을 돕는 사람이라고는 아무도 없는 것을 보셨다.",
     Chn:"因为耶和华看见以色列人甚是艰苦，无论困住的、自由的都没有了，也无人帮助以色列人。",
     Eng:"The LORD had seen how bitterly everyone in Israel, whether slave or free, was suffering; there was no one to help them.",
     Ind:"Sebab TUHAN telah melihat betapa pahitnya kesengsaraan orang Israel itu: sudah habis lenyap baik yang tinggi maupun yang rendah kedudukannya, dan tidak ada penolong bagi orang Israel."
   },
   {Bible:"2Kings", Chapter:14, Verse:27, Page:1,
-    Kor:"주님께서는 이스라엘의 이름을 하늘 아래에서 지워 없애겠다고 말씀하시지 않았기 때문에, 여호아스의 아들 여로보암을 시켜서 그들을 구원하신 것이다.",
+    Kor:"주께서는 이스라엘의 이름을 하늘 아래에서 지워 없애겠다고 말씀하시지 않았기 때문에, 여호아스의 아들 여로보암을 시켜서 그들을 구원하신 것이다.",
     Chn:"耶和华并没有说要将以色列的名从天下涂抹，乃借约阿施的儿子耶罗波安拯救他们。",
     Eng:"And since the LORD had not said he would blot out the name of Israel from under heaven, he saved them by the hand of Jeroboam son of Jehoash.",
     Ind:"Tetapi TUHAN tidak mengatakan bahwa Ia akan menghapuskan nama Israel dari kolong langit; jadi Ia menolong mereka dengan perantaraan Yerobeam bin Yoas."

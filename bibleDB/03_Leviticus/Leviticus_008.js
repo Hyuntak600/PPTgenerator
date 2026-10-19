@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",8,36);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:8, Verse:1, Page:1,
-    Kor:"<아론과 그의 아들들의 제사장 위임식> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"lalu suruhlah berkumpul segenap umat ke depan pintu Kemah Pertemuan.\""
   },
   {Bible:"Leviticus", Chapter:8, Verse:4, Page:1,
-    Kor:"모세는 주님께서 자기에게 명하신 대로 회중을 회막 어귀에 불러모으고",
+    Kor:"모세는 주께서 자기에게 명하신 대로 회중을 회막 어귀에 불러모으고",
     Chn:"摩西就照耶和华所吩咐的行了；于是会众聚集在会幕门口。",
     Eng:"Moses did as the LORD commanded him, and the assembly gathered at the entrance to the Tent of Meeting.",
     Ind:"Musa melakukan seperti yang diperintahkan TUHAN kepadanya, lalu berkumpullah umat itu di depan Kemah Pertemuan."
   },
   {Bible:"Leviticus", Chapter:8, Verse:5, Page:1,
-    Kor:"\"주님께서 다음과 같이 하라고 명하셨다\" 하고 말하였다.",
+    Kor:"\"주께서 다음과 같이 하라고 명하셨다\" 하고 말하였다.",
     Chn:"摩西告诉会众说：「这就是耶和华所吩咐当行的事。」",
     Eng:"Moses said to the assembly, \"This is what the LORD has commanded to be done.\"",
     Ind:"Berkatalah Musa kepada umat itu: \"Inilah firman yang diperintahkan TUHAN untuk dilakukan.\""
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"Lalu Musa menyuruh Harun dan anak-anaknya mendekat, dan dibasuhnyalah mereka dengan air."
   },
   {Bible:"Leviticus", Chapter:8, Verse:7, Page:1,
-    Kor:"모세는 아론에게 속옷을 입혀 주고, 띠를 띠워 주고, 겉옷을 입혀 주고, 에봇을 걸쳐 주고, 그 에봇이 몸에 꼭 붙어 있도록 a에봇 띠를 띠워 주었다.(a 조끼 모양의 옷, 우림과 둠밈을 넣는 주머니가 달림)",
+    Kor:"모세는 아론에게 속옷을 입혀 주고, 띠를 띠워 주고, 겉옷을 입혀 주고, 에봇을 걸쳐 주고, 그 에봇이 몸에 꼭 붙어 있도록 에봇 띠를 띠워 주었다.",
     Chn:"给亚伦穿上内袍，束上腰带，穿上外袍，又加上以弗得，用其上巧工织的带子把以弗得系在他身上，",
     Eng:"He put the tunic on Aaron, tied the sash around him, clothed him with the robe and put the ephod on him. He also tied the ephod to him by its skillfully woven waistband; so it was fastened on him.",
     Ind:"Sesudah itu dikenakannyalah kemeja kepadanya, diikatkannya ikat pinggang, dikenakannya gamis, dikenakannya baju efod, diikatkannya sabuk baju efod dan dikebatkannya sabuk itu kepadanya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:8, Page:1,
-    Kor:"모세는 또 아론에게 가슴받이를 달아 주고, 그 가슴받이 속에다가 b우림과 둠밈을 넣어 주었다.(b 이 둘은 제사장이 하나님의 뜻을 여쭐 때 사용한 것임. 사용 방법은 알려지지 않음)",
+    Kor:"모세는 또 아론에게 가슴받이를 달아 주고, 그 가슴받이 속에다가 우림과 둠밈을 넣어 주었다.",
     Chn:"又给他戴上胸牌，把乌陵和土明放在胸牌内，",
     Eng:"He placed the breastpiece on him and put the Urim and Thummim in the breastpiece.",
     Ind:"Dikenakannyalah tutup dada kepadanya dan dibubuhnya di dalam tutup dada itu Urim dan Tumim."
   },
   {Bible:"Leviticus", Chapter:8, Verse:9, Page:1,
-    Kor:"모세는 아론의 머리에 관을 씌우고, 관 앞쪽에 금으로 만든 판 곧 성직패를 달아 주었다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는 아론의 머리에 관을 씌우고, 관 앞쪽에 금으로 만든 판, 곧 성직패를 달아 주었다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"把冠冕戴在他头上，在冠冕的前面钉上金牌，就是圣冠，都是照耶和华所吩咐摩西的。",
     Eng:"Then he placed the turban on Aaron's head and set the gold plate, the sacred diadem, on the front of it, as the LORD commanded Moses.",
     Ind:"Kemudian ditaruhnyalah serban di kepalanya, dan di atas serban itu di sebelah depan ditaruhnyalah patam emas, yakni jamang yang kudus, seperti yang diperintahkan TUHAN kepada Musa."
@@ -75,13 +75,13 @@ BibleDB.add([
     Ind:"Kemudian dituangkannya sedikit dari minyak urapan itu ke atas kepala Harun dan diurapinyalah dia untuk menguduskannya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:13, Page:1,
-    Kor:"모세는 아론의 아들들을 데려다가, 그들에게 속옷을 입혀 주고, 띠를 띠워 주고, 머리에 두건을 감아 주었다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는 아론의 아들들을 데려다가, 그들에게 속옷을 입혀 주고, 띠를 띠워 주고, 머리에 두건을 감아 주었다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"摩西带了亚伦的儿子来，给他们穿上内袍，束上腰带，包上裹头巾，都是照耶和华所吩咐摩西的。",
     Eng:"Then he brought Aaron's sons forward, put tunics on them, tied sashes around them and put headbands on them, as the LORD commanded Moses.",
     Ind:"Musa menyuruh anak-anak Harun mendekat, lalu dikenakannyalah kemeja kepada mereka, diikatkannya ikat pinggang dan dililitkannya destar, seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Leviticus", Chapter:8, Verse:14, Page:1,
-    Kor:"○그런 다음에, 모세는 속죄제물로 바칠 수소를 끌어 오게 하였다. 아론과 그의 아들들이 속죄제물로 바칠 수소의 머리 위에 손을 얹었다.",
+    Kor:"○그런 다음에, 모세는 속죄제물로 드릴 수소를 끌어 오게 하였다. 아론과 그의 아들들이 속죄제물로 바칠 수소의 머리 위에 손을 얹었다.",
     Chn:"他牵了赎罪祭的公牛来，亚伦和他儿子按手在赎罪祭公牛的头上，",
     Eng:"He then presented the bull for the sin offering, and Aaron and his sons laid their hands on its head.",
     Ind:"Disuruhnyalah membawa lembu jantan korban penghapus dosa, lalu Harun dan anak-anaknya meletakkan tangannya ke atas kepala lembu jantan korban penghapus dosa itu."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Diambillah segala lemak yang melekat pada isi perut, umbai hati, kedua buah pinggang serta lemaknya, lalu Musa membakarnya di atas mezbah."
   },
   {Bible:"Leviticus", Chapter:8, Verse:17, Page:1,
-    Kor:"잡은 수소에서, 나머지 곧 가죽과 살코기와 똥은 진 바깥으로 가져 가서 불에 태웠다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"잡은 수소에서, 나머지, 곧 가죽과 살코기와 똥은 진 바깥으로 가져 가서 불에 태웠다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"惟有公牛，连皮带肉并粪，用火烧在营外，都是照耶和华所吩咐摩西的。",
     Eng:"But the bull with its hide and its flesh and its offal he burned up outside the camp, as the LORD commanded Moses.",
     Ind:"Tetapi lembu jantan itu dengan kulit, daging dan kotorannya dibakarnya habis di luar perkemahan, seperti yang diperintahkan TUHAN kepada Musa."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Domba itu dipotong-potong menurut bagian-bagian tertentu, lalu Musa membakar kepalanya dan bagian-bagiannya dan lemaknya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:21, Page:1,
-    Kor:"또한 모세는, 내장과 다리를 물로 씻어서 숫양 전체를 번제물로 제단 위에다 놓고 불살라, 그 향기로 주님을 기쁘게 하는, 살라 바치는 제물로 삼았다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"또한 모세는 내장과 다리를 물로 씻어, 숫양 전체를 번제물로 제단 위에다 놓고 불살라, 그 향기로 주를 기쁘게 하여 드리는, 살라 바치는 제물로 삼았다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"用水洗了脏腑和腿，就把全羊烧在坛上为馨香的燔祭，是献给耶和华的火祭，都是照耶和华所吩咐摩西的。",
     Eng:"He washed the inner parts and the legs with water and burned the whole ram on the altar as a burnt offering, a pleasing aroma, an offering made to the LORD by fire, as the LORD commanded Moses.",
     Ind:"Tetapi isi perut dan betisnya dibasuh dengan air, lalu Musa membakar seluruh domba jantan itu di atas mezbah. Itulah korban bakaran, yang baunya menyenangkan; yakni suatu korban api-apian bagi TUHAN, seperti yang diperintahkan TUHAN kepada Musa."
@@ -153,67 +153,67 @@ BibleDB.add([
     Ind:"Diambilnyalah lemaknya, ekornya yang berlemak, segala lemaknya yang melekat pada isi perut, umbai hatinya, kedua buah pinggang serta lemaknya dan paha kanannya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:26, Page:1,
-    Kor:"또 모세는 주님께 바친 바구니, 곧 누룩을 넣지 않고 만든 빵을 담은 바구니에서, 누룩을 넣지 않고 만든 과자 한 개와, 기름을 섞어 만든 과자 한 개와, 속이 빈 과자 한 개를 꺼내어서, 기름기와 오른쪽 넓적다리 위에 올려놓았다.",
+    Kor:"또 모세는 주께 바친 바구니, 곧 누룩을 넣지 않고 만든 빵을 담은 바구니에서, 누룩을 넣지 않고 만든 과자 한 개와, 기름을 섞어 만든 과자 한 개와, 속이 빈 과자 한 개를 꺼내어서, 기름기와 오른쪽 넓적다리 위에 올려놓았다.",
     Chn:"再从耶和华面前、盛无酵饼的筐子里取出一个无酵饼，一个油饼，一个薄饼，都放在脂油和右腿上，",
     Eng:"Then from the basket of bread made without yeast, which was before the LORD, he took a cake of bread, and one made with oil, and a wafer; he put these on the fat portions and on the right thigh.",
     Ind:"Dan dari dalam bakul berisi roti yang tidak beragi, yang ada di hadapan TUHAN, diambilnyalah satu roti bundar yang tidak beragi, satu roti bundar yang diolah dengan minyak dan satu roti tipis, lalu diletakkannya di atas segala lemak dan di atas paha kanan itu,"
   },
   {Bible:"Leviticus", Chapter:8, Verse:27, Page:1,
-    Kor:"그는 이 모든 것을 아론과 그의 아들들의 손바닥 위에 얹어 놓고, 주님 앞에 흔들어 바치는 제물로 바쳤다.",
+    Kor:"그는 이 모든 것을 아론과 그의 아들들의 손바닥 위에 얹어 놓고, 주 앞에 흔들어 바치는 제물로 드렸다.",
     Chn:"把这一切放在亚伦的手上和他儿子的手上作摇祭，在耶和华面前摇一摇。",
     Eng:"He put all these in the hands of Aaron and his sons and waved them before the LORD as a wave offering.",
     Ind:"dan ditaruhnya seluruhnya di telapak tangan Harun dan di telapak tangan anak-anaknya, dan dipersembahkannya semuanya sebagai persembahan unjukan di hadapan TUHAN."
   },
   {Bible:"Leviticus", Chapter:8, Verse:28, Page:1,
-    Kor:"그런 다음에, 모세는 그들의 손에서 그것들을 받아다가, 제단의 번제물 위에 놓고 위임식 제물로 불살라, 그 향기로 주님을 기쁘게 하는, 살라 바치는 제물로 삼았다.",
+    Kor:"그런 다음에, 모세는 그들의 손에서 그것들을 받아다가, 제단의 번제물 위에 놓고 위임식 제물로 불살라, 그 향기로 주를 기쁘게 하여 드리는, 살라 바치는 제물로 삼았다.",
     Chn:"摩西从他们的手上拿下来，烧在坛上的燔祭上，都是为承接圣职献给耶和华馨香的火祭。",
     Eng:"Then Moses took them from their hands and burned them on the altar on top of the burnt offering as an ordination offering, a pleasing aroma, an offering made to the LORD by fire.",
     Ind:"Kemudian Musa mengambil semuanya dari telapak tangan mereka, lalu dibakarnya di atas mezbah, yaitu di atas korban bakaran. Itulah persembahan pentahbisan untuk menjadi bau yang menyenangkan; itulah suatu korban api-apian bagi TUHAN."
   },
   {Bible:"Leviticus", Chapter:8, Verse:29, Page:1,
-    Kor:"모세는 가슴 고기를 들고 흔들어서, 주님 앞에서 흔들어 바치는 예식을 하였다. 그 가슴 고기는 위임식에서 잡은 숫양에서 모세의 몫으로 정하여 놓은 것이다. 이렇게 모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는 가슴 고기를 들고 흔들어서, 주 앞에서 흔들어 바치는 예식을 하였다. 그 가슴 고기는 위임식에서 잡은 숫양에서 모세의 몫으로 정하여 놓은 것이다. 이렇게 모세는 주께서 명하신 대로 하였다.",
     Chn:"摩西拿羊的胸作为摇祭，在耶和华面前摇一摇，是承接圣职之礼，归摩西的分，都是照耶和华所吩咐摩西的。",
     Eng:"He also took the breast--Moses' share of the ordination ram--and waved it before the LORD as a wave offering, as the LORD commanded Moses.",
     Ind:"Musa mengambil dada domba itu, dan mempersembahkannya sebagai persembahan unjukan di hadapan TUHAN. Itulah yang didapat Musa sebagai bagiannya dari domba jantan persembahan pentahbisan itu, seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Leviticus", Chapter:8, Verse:30, Page:1,
-    Kor:"○또 모세는 거룩하게 구별하는 기름과 제단에 있는 피를 가져다가, 아론 곧 제사장 예복을 입은 아론에게 뿌렸다. 그는 또 아론의 아들들 곧 제사장 예복을 입은 그의 아들들에게도 뿌렸다. 이렇게 하여 모세는, 아론과 그의 옷 및 그의 아들들과 그들의 옷을 거룩하게 구별하였다.",
+    Kor:"○또 모세는 거룩하게 구별하는 기름과 제단에 있는 피를 가져다가, 아론, 곧 제사장 예복을 입은 아론에게 뿌렸다. 그는 또 아론의 아들들, 곧 제사장 예복을 입은 그의 아들들에게도 뿌렸다. 이렇게 하여 모세는, 아론과 그의 옷 및 그의 아들들과 그들의 옷을 거룩하게 구별하였다.",
     Chn:"摩西取点膏油和坛上的血，弹在亚伦和他的衣服上，并他儿子和他儿子的衣服上，使他和他们的衣服一同成圣。",
     Eng:"Then Moses took some of the anointing oil and some of the blood from the altar and sprinkled them on Aaron and his garments and on his sons and their garments. So he consecrated Aaron and his garments and his sons and their garments.",
     Ind:"Dan lagi Musa mengambil sedikit dari minyak urapan dan dari darah yang di atas mezbah itu, lalu dipercikkannya kepada Harun, ke pakaiannya, dan juga kepada anak-anaknya dan ke pakaian anak-anaknya. Dengan demikian ditahbiskannyalah Harun, pakaiannya, dan juga anak-anaknya dan pakaian anak-anaknya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:31, Page:1,
-    Kor:"○모세는 아론과 아론의 아들들에게 일렀다. \"회막 어귀에서 고기를 삶아서, 위임식 제물로 바친 바구니에 담긴 빵과 함께 거기에서 먹도록 하십시오. 주님께서 아론과 아론의 아들들이 그것을 먹어야 한다고 나에게 명하셨습니다.",
+    Kor:"○모세는 아론과 아론의 아들들에게 일렀다. \"회막 어귀에서 고기를 삶아서, 위임식 제물로 바친 바구니에 담긴 빵과 함께 거기에서 먹도록 하시오. 주께서 아론과 아론의 아들들이 그것을 먹어야 한다고 나에게 명하셨소.",
     Chn:"摩西对亚伦和他儿子说：「把肉煮在会幕门口，在那里吃，又吃承接圣职筐子里的饼，按我所吩咐的说：『这是亚伦和他儿子要吃的。』",
     Eng:"Moses then said to Aaron and his sons, \"Cook the meat at the entrance to the Tent of Meeting and eat it there with the bread from the basket of ordination offerings, as I commanded, saying, 'Aaron and his sons are to eat it.'",
     Ind:"Berkatalah Musa kepada Harun dan kepada anak-anaknya: \"Masaklah daging itu di depan pintu Kemah Pertemuan; di sanalah harus kamu memakannya dengan roti yang ada di dalam bakul untuk persembahan pentahbisan, seperti yang telah kuperintahkan dengan berkata: Harun dan anak-anaknya haruslah memakannya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:32, Page:1,
-    Kor:"먹다가 남은 고기와 빵은 불에 태워야 합니다.",
+    Kor:"먹다가 남은 고기와 빵은 불에 태워야 하오.",
     Chn:"剩下的肉和饼，你们要用火焚烧。",
     Eng:"Then burn up the rest of the meat and the bread.",
     Ind:"Dan apa yang tinggal dari daging dan roti itu haruslah kamu bakar habis dengan api."
   },
   {Bible:"Leviticus", Chapter:8, Verse:33, Page:1,
-    Kor:"위임식 절차가 끝나는 날까지 이레 동안은 회막 어귀 바깥으로 나가지 못합니다. 그대들의 제사장 위임식은 이레가 걸리기 때문입니다.",
+    Kor:"위임식 절차가 끝나는 날까지 이레 동안은 회막 어귀 바깥으로 나가지 못하오. 그대들의 제사장 위임식은 이레가 걸리기 때문이오.",
     Chn:"你们七天不可出会幕的门，等到你们承接圣职的日子满了，因为主叫你们七天承接圣职。",
     Eng:"Do not leave the entrance to the Tent of Meeting for seven days, until the days of your ordination are completed, for your ordination will last seven days.",
     Ind:"Janganlah kamu pergi dari depan pintu Kemah Pertemuan selama tujuh hari, sampai kepada genapnya perayaan pentahbisan, karena perayaan pentahbisan akan berlangsung tujuh hari lamanya."
   },
   {Bible:"Leviticus", Chapter:8, Verse:34, Page:1,
-    Kor:"주님께서는 그대들의 죄를 속하는 예식을, 오늘 한 것처럼 이렇게 하라고 명하셨습니다.",
+    Kor:"주께서는 그대들의 죄를 속하는 예식을, 오늘 한 것처럼 이렇게 하라고 명하셨소.",
     Chn:"像今天所行的都是耶和华吩咐行的，为你们赎罪。",
     Eng:"What has been done today was commanded by the LORD to make atonement for you.",
     Ind:"Seperti yang diperbuat pada hari ini, demikian juga diperintahkan TUHAN kamu perbuat kelak untuk mengadakan pendamaian bagimu."
   },
   {Bible:"Leviticus", Chapter:8, Verse:35, Page:1,
-    Kor:"그대들은 밤낮 이레를 회막 어귀에 머물러 있으면서, 주님께서 시키신 것을 하여야 합니다. 그렇게 하지 아니하다가는 죽을 것입니다. 이것은 내가 받은 명입니다.\"",
+    Kor:"그대들은 밤낮 이레를 회막 어귀에 머물러 있으면서, 주께서 시키신 것을 하여야 하오. 그렇게 하지 아니하다가는 죽을 것이오. 이것은 내가 받은 명이오.\"",
     Chn:"七天你们要昼夜住在会幕门口，遵守耶和华的吩咐，免得你们死亡，因为所吩咐我的就是这样。」",
     Eng:"You must stay at the entrance to the Tent of Meeting day and night for seven days and do what the LORD requires, so you will not die; for that is what I have been commanded.\"",
     Ind:"Di depan pintu Kemah Pertemuan haruslah kamu tinggal siang malam tujuh hari lamanya, dan kamu harus lakukan kewajibanmu terhadap TUHAN dengan setia, supaya janganlah kamu mati, karena demikianlah diperintahkan kepadaku.\""
   },
   {Bible:"Leviticus", Chapter:8, Verse:36, Page:1,
-    Kor:"그래서 아론과 그의 아들들은, 주님께서 모세를 시켜 명하신 것을 모두 그대로 하였다.",
+    Kor:"그래서 아론과 그의 아들들은, 주께서 모세를 시켜 명하신 것을 모두 그대로 하였다.",
     Chn:"于是亚伦和他儿子行了耶和华借着摩西所吩咐的一切事。",
     Eng:"So Aaron and his sons did everything the LORD commanded through Moses.",
     Ind:"Maka Harun dan anak-anaknya melakukan segala firman yang diperintahkan TUHAN dengan perantaraan Musa."

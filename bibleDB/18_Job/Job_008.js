@@ -3,7 +3,7 @@
 BibleDB.ref("Job",8,22);
 BibleDB.add([
   {Bible:"Job", Chapter:8, Verse:1, Page:1,
-    Kor:"<빌닷의 첫 번째 발언> 수아 사람 빌닷이 대답하였다.",
+    Kor:"수아 사람 빌닷이 대답하였다.",
     Chn:"书亚人比勒达回答说：",
     Eng:"Then Bildad the Shuhite replied:",
     Ind:"Maka berbicaralah Bildad, orang Suah:"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"\"Berapa lamakah lagi engkau akan berbicara begitu, dan perkataan mulutmu seperti angin yang menderu?"
   },
   {Bible:"Job", Chapter:8, Verse:3, Page:1,
-    Kor:"너는, 하나님이 심판을 잘못하신다고 생각하느냐? a전능하신 분께서 공의를 거짓으로 판단하신다고 생각하느냐? (a 히, '샤다이')",
+    Kor:"너는, 하나님이 심판을 잘못하신다고 생각하느냐? 전능하신 분께서 공의를 거짓으로 판단하신다고 생각하느냐?",
     Chn:"神岂能偏离公平？ 全能者岂能偏离公义？",
     Eng:"Does God pervert justice? Does the Almighty pervert what is right?",
     Ind:"Masakan Allah membengkokkan keadilan? Masakan Yang Mahakuasa membengkokkan kebenaran?"
   },
   {Bible:"Job", Chapter:8, Verse:4, Page:1,
-    Kor:"네 자식들이 주님께 죄를 지으면, 주님께서 그들을 벌하시는 것은 당연한 일이 아니냐?",
+    Kor:"네 자식들이 주께 죄를 지으면, 주께서 그들을 벌하시는 것은 당연한 일이 아니냐?",
     Chn:"或者你的儿女得罪了他； 他使他们受报应。",
     Eng:"When your children sinned against him, he gave them over to the penalty of their sin.",
     Ind:"Jikalau anak-anakmu telah berbuat dosa terhadap Dia, maka Ia telah membiarkan mereka dikuasai oleh pelanggaran mereka."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi engkau, kalau engkau mencari Allah, dan memohon belas kasihan dari Yang Mahakuasa,"
   },
   {Bible:"Job", Chapter:8, Verse:6, Page:1,
-    Kor:"또 네가 정말 깨끗하고 정직하기만 하면, 주님께서는 너를 살리시려고 떨치고 일어나셔서, 네 경건한 가정을 회복시켜 주실 것이다.",
+    Kor:"또 네가 정말 깨끗하고 정직하기만 하면, 주께서는 너를 살리시려고 떨치고 일어나셔서, 네 경건한 가정을 회복시켜 주실 것이다.",
     Chn:"你若清洁正直， 他必定为你起来， 使你公义的居所兴旺。",
     Eng:"if you are pure and upright, even now he will rouse himself on your behalf and restore you to your rightful place.",
     Ind:"kalau engkau bersih dan jujur, maka tentu Ia akan bangkit demi engkau dan Ia akan memulihkan rumah yang adalah hakmu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Bertanya-tanyalah tentang orang-orang zaman dahulu, dan perhatikanlah apa yang diselidiki para nenek moyang."
   },
   {Bible:"Job", Chapter:8, Verse:9, Page:1,
-    Kor:"우리는 다만 b갓 태어난 사람과 같아서, 아는 것이 없으며, 땅 위에 사는 우리의 나날도 그림자에 지나지 않는다. (b 또는 '어제부터 있었을 뿐이어서')",
+    Kor:"우리는 다만 갓 태어난 사람과 같아서, 아는 것이 없으며, 땅 위에 사는 우리의 나날도 그림자에 지나지 않는다.",
     Chn:"我们不过从昨日才有，一无所知； 我们在世的日子好像影儿。",
     Eng:"for we were born only yesterday and know nothing, and our days on earth are but a shadow.",
     Ind:"Sebab kita, anak-anak kemarin, tidak mengetahui apa-apa; karena hari-hari kita seperti bayang-bayang di bumi."

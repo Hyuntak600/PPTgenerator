@@ -3,13 +3,13 @@
 BibleDB.ref("Joel",3,21);
 BibleDB.add([
   {Bible:"Joel", Chapter:3, Verse:1, Page:1,
-    Kor:"<하나님이 민족들을 심판하시다> \"때가 되어 그 날이 오면, 내가 유다와 예루살렘을 회복시켜서 번영하게 하겠다.",
+    Kor:"때가 되어 그 날이 오면, 내가 유다와 예루살렘을 회복시켜서 번영하게 하겠다.",
     Chn:"「到那日，我使犹大和耶路撒冷被掳之人归回的时候，",
     Eng:"\"In those days and at that time, when I restore the fortunes of Judah and Jerusalem,",
     Ind:"\"Sebab sesungguhnya pada hari-hari itu dan pada waktu itu, apabila Aku memulihkan keadaan Yehuda dan Yerusalem,"
   },
   {Bible:"Joel", Chapter:3, Verse:2, Page:1,
-    Kor:"그 때에 내가 모든 민족을 불러모아, 그들을 a여호사밧 골짜기로 데리고 내려가서, 그들이 나의 백성이요 나의 소유인 이스라엘에게 저지른 일을 두고서, 내가 거기에서 그들을 심판하겠다. 그들이 나의 백성을 여러 민족 속에 흩어 놓고, 또 나의 땅을 나누어 가지고, (a '주님께서 심판하시다')",
+    Kor:"그 때에 내가 모든 민족을 불러모아, 그들을 여호사밧 골짜기로 데리고 내려가서, 그들이 나의 백성이요 나의 소유인 이스라엘에게 저지른 일을 두고서, 내가 거기에서 그들을 심판하겠다. 그들이 나의 백성을 여러 민족 속에 흩어 놓고, 또 나의 땅을 나누어 가지고,",
     Chn:"我要聚集万民，带他们下到约沙法谷，在那里施行审判；因为他们将我的百姓，就是我的产业以色列，分散在列国中，又分取我的地土，",
     Eng:"I will gather all nations and bring them down to the Valley of Jehoshaphat. There I will enter into judgment against them concerning my inheritance, my people Israel, for they scattered my people among the nations and divided up my land.",
     Ind:"Aku akan mengumpulkan segala bangsa dan akan membawa mereka turun ke lembah Yosafat; Aku akan berperkara dengan mereka di sana mengenai umat-Ku dan milik-Ku sendiri, Israel, oleh karena mereka mencerai-beraikannya ke antara bangsa-bangsa dan membagi-bagi tanah-Ku,"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Lagi apakah sangkut pautmu dengan Aku, hai Tirus dan Sidon dan seluruh wilayah Filistin? Apakah kamu ini hendak membalas perbuatan-Ku? Apabila kamu melakukan sesuatu terhadap Aku, maka dengan cepat, dengan segera Aku akan membalikkan perbuatanmu itu kepadamu sendiri."
   },
   {Bible:"Joel", Chapter:3, Verse:5, Page:1,
-    Kor:"너희가 나의 은과 금을 약탈해 갔으며, 나의 가장 귀한 보물을 너희의 b신전으로 가져 갔으며, (b 또는 '궁전')",
+    Kor:"너희가 나의 은과 금을 약탈해 갔으며, 나의 가장 귀한 보물을 너희의 신전으로 가져 갔으며,",
     Chn:"你们既然夺取我的金银，又将我可爱的宝物带入你们宫殿，",
     Eng:"For you took my silver and my gold and carried off my finest treasures to your temples.",
     Ind:"Oleh karena kamu telah mengambil perak-Ku dan emas-Ku dan telah membawa barang-barang-Ku yang berharga yang indah-indah ke tempat-tempat ibadahmu,"
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Tempalah mata bajakmu menjadi pedang dan pisau-pisau pemangkasmu menjadi tombak; baiklah orang yang tidak berdaya berkata: \"Aku ini pahlawan!\""
   },
   {Bible:"Joel", Chapter:3, Verse:11, Page:1,
-    Kor:"사방의 모든 민족아, 너희는 모두 서둘러 오너라. 이 평원으로 모여라.\" \"주님, 주님의 군대를 보내셔서, 그들을 치십시오!\"",
+    Kor:"사방의 모든 민족아, 너희는 모두 서둘러 오너라. 이 평원으로 모여라.\" 주님, 주의 군대를 보내셔서, 그들을 치십시오!",
     Chn:"四围的列国啊， 你们要速速地来， 一同聚集。 耶和华啊， 求你使你的大能者降临。",
     Eng:"Come quickly, all you nations from every side, and assemble there. Bring down your warriors, O LORD!",
     Ind:"Bergeraklah dan datanglah, hai segala bangsa dari segenap penjuru, dan berkumpullah ke sana! Bawalah turun, ya TUHAN, pahlawan-pahlawan-M"
   },
   {Bible:"Joel", Chapter:3, Verse:12, Page:1,
-    Kor:"\"민족들아, 출발하여라. a여호사밧 골짜기로 오너라. 내가 거기에 머물면서 사방의 민족들을 모두 심판하겠다. (a '주님께서 심판하시다')",
+    Kor:"\"민족들아, 출발하여라. 여호사밧 골짜기로 오너라. 내가 거기에 머물면서 사방의 민족들을 모두 심판하겠다.",
     Chn:"万民都当兴起， 上到约沙法谷； 因为我必坐在那里， 审判四围的列国。",
     Eng:"\"Let the nations be roused; let them advance into the Valley of Jehoshaphat, for there I will sit to judge all the nations on every side.",
     Ind:"Baiklah bangsa-bangsa bergerak dan maju ke lembah Yosafat, sebab di sana Aku akan duduk untuk menghakimi segala bangsa dari segenap penjuru."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ayunkanlah sabit, sebab sudah masak tuaian; marilah, iriklah, sebab sudah penuh tempat anggur; tempat-tempat pemerasan kelimpahan, sebab banyak kejahatan mereka."
   },
   {Bible:"Joel", Chapter:3, Verse:14, Page:1,
-    Kor:"판결의 골짜기에 수많은 무리가 모였다. 판결의 골짜기에서 주님께서 심판하실 날이 가까이 왔다.",
+    Kor:"판결의 골짜기에 수많은 무리가 모였다. 판결의 골짜기에서 주께서 심판하실 날이 가까이 왔다.",
     Chn:"许多许多的人在断定谷， 因为耶和华的日子临近断定谷。",
     Eng:"Multitudes, multitudes in the valley of decision! For the day of the LORD is near in the valley of decision.",
     Ind:"Banyak orang, banyak orang di lembah penentuan! Ya, sudah dekat hari TUHAN di lembah penentuan!"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Matahari dan bulan menjadi gelap, dan bintang-bintang menghilangkan cahayanya."
   },
   {Bible:"Joel", Chapter:3, Verse:16, Page:1,
-    Kor:"<하나님이 백성에게 복을 주시다> 주님께서 시온에서 외치시고 예루살렘에서 큰소리를 내시니, 하늘과 땅이 진동한다. 그러나 주님께서는, 당신의 백성에게 피난처가 되실 것이다. 이스라엘 자손에게 요새가 되실 것이다.",
+    Kor:"주께서 시온에서 외치시고 예루살렘에서 큰소리를 내시니, 하늘과 땅이 진동한다. 그러나 주께서는, 당신의 백성에게 피난처가 되실 것이다. 이스라엘 자손에게 요새가 되실 것이다.",
     Chn:"耶和华必从锡安吼叫， 从耶路撒冷发声， 天地就震动。 耶和华却要作他百姓的避难所， 作以色列人的保障。",
     Eng:"The LORD will roar from Zion and thunder from Jerusalem; the earth and the sky will tremble. But the LORD will be a refuge for his people, a stronghold for the people of Israel.",
     Ind:"TUHAN mengaum dari Sion, dari Yerusalem Ia memperdengarkan suara-Nya, dan langit dan bumi bergoncang. Tetapi TUHAN adalah tempat perlindungan bagi umat-Nya, dan benteng bagi orang Israel."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"\"Maka kamu akan mengetahui bahwa Aku, TUHAN, adalah Allahmu, yang diam di Sion, gunung-Ku yang kudus. Dan Yerusalem akan menjadi kudus, dan orang-orang luar tidak akan melintasinya lagi."
   },
   {Bible:"Joel", Chapter:3, Verse:18, Page:1,
-    Kor:"그 날이 오면, 산마다 새 포도주가 넘쳐 흐를 것이다. 언덕마다 젖이 흐를 것이다. 유다 개울마다 물이 가득 차고 주의 성전에서 샘물이 흘러 나와, c싯딤 골짜기에 물을 대어 줄 것이다. (c 또는 '아카시아 골짜기')",
+    Kor:"그 날이 오면, 산마다 새 포도주가 넘쳐 흐를 것이다. 언덕마다 젖이 흐를 것이다. 유다 개울마다 물이 가득 차고 주의 성전에서 샘물이 흘러 나와, 싯딤 골짜기에 물을 대어 줄 것이다.",
     Chn:"到那日，大山要滴甜酒； 小山要流奶子； 犹大溪河都有水流。 必有泉源从耶和华的殿中流出来， 滋润什亭谷。",
     Eng:"\"In that day the mountains will drip new wine, and the hills will flow with milk; all the ravines of Judah will run with water. A fountain will flow out of the LORD'S house and will water the valley of acacias.",
     Ind:"Pada waktu itu akan terjadi, bahwa gunung-gunung akan meniriskan anggur baru, bukit-bukit akan mengalirkan susu, dan segala sungai Yehuda akan mengalirkan air; mata air akan terbit dari rumah TUHAN dan akan membasahi lembah Sitim."

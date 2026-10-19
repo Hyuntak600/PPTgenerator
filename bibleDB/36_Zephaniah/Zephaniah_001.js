@@ -3,13 +3,13 @@
 BibleDB.ref("Zephaniah",1,18);
 BibleDB.add([
   {Bible:"Zephaniah", Chapter:1, Verse:1, Page:1,
-    Kor:"아몬의 아들 유다 왕 요시야 때에, 주님께서 스바냐에게 하신 말씀이다. 그의 아버지는 구시이고, 할아버지는 그달리야이고, 그 윗대는 아마랴이고, 그 윗대는 히스기야이다.",
+    Kor:"아몬의 아들 유다 왕 요시아 때에, 주께서 스바냐에게 하신 말씀이다. 그의 아버지는 구시이고, 할아버지는 그달리야이고, 그 윗대는 아마랴이고, 그 윗대는 히스기야이다.",
     Chn:"当犹大王亚们的儿子约西亚在位的时候，耶和华的话临到希西家的玄孙，亚玛利雅的曾孙，基大利的孙子，古示的儿子西番雅。",
     Eng:"The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:",
     Ind:"Firman TUHAN yang datang kepada Zefanya bin Kusyi bin Gedalya bin Amarya bin Hizkia dalam zaman Yosia bin Amon, raja Yehuda."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:2, Page:1,
-    Kor:"<심판의 날> \"땅 위에 있는 모든 것을 내가 말끔히 쓸어 없애겠다. 나 주의 말이다.",
+    Kor:"\"땅 위에 있는 모든 것을 내가 말끔히 쓸어 없애겠다. 나 주의 말이다.",
     Chn:"耶和华说： 我必从地上除灭万类。",
     Eng:"\"I will sweep away everything from the face of the earth,\" declares the LORD.",
     Ind:"\"Aku akan menyapu bersih segala-galanya dari atas muka bumi, demikianlah firman TUHAN."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Aku akan menyapu manusia dan hewan; Aku akan menyapu burung-burung di udara dan ikan-ikan di laut. Aku akan merebahkan orang-orang fasik dan akan melenyapkan manusia dari atas muka bumi, demikianlah firman TUHAN."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:4, Page:1,
-    Kor:"내가 손을 들어서, 유다와 예루살렘의 모든 주민을 치겠다. 이 곳에 남아 있는 바알 신상을 없애고, 이방 제사장을 부르는 a그마림이란 이름도 뿌리 뽑겠다. (a 이교의 제사장을 가리키는 말)",
+    Kor:"내가 손을 들어서, 유다와 예루살렘의 모든 주민을 치겠다. 이 곳에 남아 있는 바알 신상을 없애고, 이방 제사장을 부르는 그마림이란 이름도 뿌리 뽑겠다.",
     Chn:"我必伸手攻击犹大 和耶路撒冷的一切居民， 也必从这地方剪除所剩下的巴力， 并基玛林的名和祭司，",
     Eng:"\"I will stretch out my hand against Judah and against all who live in Jerusalem. I will cut off from this place every remnant of Baal, the names of the pagan and the idolatrous priests--",
     Ind:"Aku akan mengacungkan tangan-Ku terhadap Yehuda dan terhadap segenap penduduk Yerusalem. Aku akan melenyapkan dari tempat ini sisa-sisa Baal dan nama para imam berhala,"
   },
   {Bible:"Zephaniah", Chapter:1, Verse:5, Page:1,
-    Kor:"지붕에서 하늘의 뭇 별을 섬기는 자들, 주에게 맹세하고 주를 섬기면서도 b밀곰을 두고 맹세하는 자들, (b 히, 말감)",
+    Kor:"지붕에서 하늘의 뭇 별을 섬기는 자들, 주에게 맹세하고 주를 섬기면서도 말감을 두고 맹세하는 자들,",
     Chn:"与那些在房顶上敬拜天上万象的， 并那些敬拜耶和华指着他起誓， 又指着玛勒堪起誓的，",
     Eng:"those who bow down on the roofs to worship the starry host, those who bow down and swear by the LORD and who also swear by Molech,",
     Ind:"juga mereka yang sujud menyembah di atas sotoh kepada tentara langit dan mereka yang menyembah dengan bersumpah setia kepada TUHAN, namun di samping itu bersumpah demi Dewa Milkom,"
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"serta mereka yang berbalik dari pada TUHAN, yang tidak mencari TUHAN dan tidak menanyakan petunjuk-Nya.\""
   },
   {Bible:"Zephaniah", Chapter:1, Verse:7, Page:1,
-    Kor:"주님께서 심판하시는 날이 다가왔으니, 주 하나님 앞에서 입을 다물어라. 주님께서는 제물을 잡아 놓으시고서, 제물 먹을 사람들을 부르셔서 성결하게 하셨다.",
+    Kor:"주께서 심판하시는 날이 다가왔으니, 주 하나님 앞에서 입을 다물어라. 주께서는 제물을 잡아 놓으시고서, 제물 먹을 사람들을 부르셔서 성결하게 하셨다.",
     Chn:"你要在主耶和华面前静默无声， 因为耶和华的日子快到。 耶和华已经预备祭物， 将他的客分别为圣。",
     Eng:"Be silent before the Sovereign LORD, for the day of the LORD is near. The LORD has prepared a sacrifice; he has consecrated those he has invited.",
     Ind:"Berdiam dirilah di hadapan Tuhan ALLAH! Sebab hari TUHAN sudah dekat. Sungguh TUHAN telah menyediakan perjamuan korban dan telah menguduskan para undangan-Nya."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:8, Page:1,
-    Kor:"\"나 주가 제물을 잡는 날이 온다. 내가 대신들과 왕자들과, c이방인의 옷을 입은 자들을 벌하겠다. (c 이방 종교의 제사에서 입는 옷)",
+    Kor:"\"나 주가 제물을 잡는 날이 온다. 내가 대신들과 왕자들과, 이방인의 옷을 입은 자들을 벌하겠다.",
     Chn:"到了我—耶和华献祭的日子， 必惩罚首领和王子， 并一切穿外邦衣服的。",
     Eng:"On the day of the LORD'S sacrifice I will punish the princes and the king's sons and all those clad in foreign clothes.",
     Ind:"\"Pada hari perjamuan korban TUHAN itu Aku akan menghukum para pemuka, para anak-anak raja dan semua orang yang memakai pakaian asing."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:9, Page:1,
-    Kor:"그 날이 오면, d문지방을 건너뛰는 자들을 벌하겠다. 폭력과 속임수를 써서, e주인의 집을 가득 채운 자들을 내가 벌하겠다. (d 이방 종교의 풍속(삼상 5:5) e 또는 '그 신들의 신전을 가득 채운')",
+    Kor:"그 날이 오면, 문지방을 건너뛰는 자들을 벌하겠다. 폭력과 속임수를 써서, 주인의 집을 가득 채운 자들을 내가 벌하겠다.",
     Chn:"到那日，我必惩罚一切跳过门槛、 将强暴和诡诈得来之物充满主人房屋的。",
     Eng:"On that day I will punish all who avoid stepping on the threshold, who fill the temple of their gods with violence and deceit.",
     Ind:"Aku akan menghukum pada hari itu semua orang yang melompati ambang pintu dan memenuhi istana tuan mereka dengan kekerasan dan penipuan."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Maka harta kekayaannya akan dirampas dan rumah-rumahnya akan menjadi sunyi sepi. Apabila mereka mendirikan rumah, mereka tidak akan mendiaminya; apabila mereka membuat kebun anggur, mereka tidak akan minum anggurnya.\""
   },
   {Bible:"Zephaniah", Chapter:1, Verse:14, Page:1,
-    Kor:"주님께서 심판하실 그 무서운 날이 다가온다. 득달같이 다가온다. 들어라! 주님의 날에 부르짖는 저 비탄의 소리, 용사가 기운을 잃고 부르짖는 저 절규.",
+    Kor:"주께서 심판하실 그 무서운 날이 다가온다. 득달같이 다가온다. 들어라! 주의 날에 부르짖는 저 비탄의 소리, 용사가 기운을 잃고 부르짖는 저 절규.",
     Chn:"耶和华的大日临近， 临近而且甚快， 乃是耶和华日子的风声； 勇士必痛痛地哭号。",
     Eng:"\"The great day of the LORD is near--near and coming quickly. Listen! The cry on the day of the LORD will be bitter, the shouting of the warrior there.",
     Ind:"Sudah dekat hari TUHAN yang hebat itu, sudah dekat dan datang dengan cepat sekali! Dengar, hari TUHAN pahit, pahlawanpun akan menangis."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:15, Page:1,
-    Kor:"그 날은 주님께서 분노하시는 날이다. 환난과 고통을 겪는 날, 무너지고 부서지는 날, 캄캄하고 어두운 날, 먹구름과 어둠이 뒤덮이는 날이다.",
+    Kor:"그 날은 주께서 분노하시는 날이다. 환난과 고통을 겪는 날, 무너지고 부서지는 날, 캄캄하고 어두운 날, 먹구름과 어둠이 뒤덮이는 날이다.",
     Chn:"那日是忿怒的日子， 是急难困苦的日子， 是荒废凄凉的日子， 是黑暗幽冥、密云乌黑的日子，",
     Eng:"That day will be a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness,",
     Ind:"Hari kegemasan hari itu, hari kesusahan dan kesulitan, hari kemusnahan dan pemusnahan, hari kegelapan dan kesuraman, hari berawan dan kelam,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Aku akan menyusahkan manusia, sehingga mereka berjalan seperti orang buta, sebab mereka telah berdosa kepada TUHAN. Darah mereka akan tercurah seperti debu dan usus mereka seperti tahi."
   },
   {Bible:"Zephaniah", Chapter:1, Verse:18, Page:1,
-    Kor:"사람들이 가지고 있는 은과 금이 그들을 건질 수 없다.\" 주님께서 분노하시는 날, 주님의 불 같은 질투가 온 땅을 활활 태울 것이다. 땅에 사는 모든 사람을 눈 깜짝할 사이에 없애실 것이다.",
+    Kor:"사람들이 가지고 있는 은과 금이 그들을 건질 수 없다.\" 주께서 분노하시는 날, 주의 불 같은 질투가 온 땅을 활활 태울 것이다. 땅에 사는 모든 사람을 눈 깜짝할 사이에 없애실 것이다.",
     Chn:"当耶和华发怒的日子， 他们的金银不能救他们； 他的忿怒如火必烧灭全地， 毁灭这地的一切居民，而且大大毁灭。",
     Eng:"Neither their silver nor their gold will be able to save them on the day of the LORD'S wrath. In the fire of his jealousy the whole world will be consumed, for he will make a sudden end of all who live in the earth.\"",
     Ind:"Mereka tidak dapat diselamatkan oleh perak atau emas mereka pada hari kegemasan TUHAN, dan seluruh bumi akan dimakan habis oleh api cemburu-Nya; sebab kebinasaan, malah kebinasaan dahsyat diadakan-Nya terhadap segenap penduduk bumi."

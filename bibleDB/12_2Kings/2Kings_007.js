@@ -3,19 +3,19 @@
 BibleDB.ref("2Kings",7,20);
 BibleDB.add([
   {Bible:"2Kings", Chapter:7, Verse:1, Page:1,
-    Kor:"엘리사가 말하였다. \"주님의 말씀을 들으십시오. 주님께서 이렇게 말씀하시었습니다. '내일 이맘때 쯤에 사마리아 성문 어귀에서 고운 밀가루 한 스아를 한 세겔에 사고, 보리 두 스아를 한 세겔에 살 수 있을 것이다' 하셨습니다.\"",
+    Kor:"엘리사가 말하였다. \"주의 말씀을 들으시오. 주께서 이렇게 말씀하시었소. '내일 이맘때 쯤에 사마리아 성문 어귀에서 고운 밀가루 한 스아를 한 세겔에 사고, 보리 두 스아를 한 세겔에 살 수 있을 것이다' 하셨소.\"",
     Chn:"以利沙说：「你们要听耶和华的话，耶和华如此说：明日约到这时候，在撒马利亚城门口，一细亚细面要卖银一舍客勒，二细亚大麦也要卖银一舍客勒。」",
     Eng:"Elisha said, \"Hear the word of the LORD. This is what the LORD says: About this time tomorrow, a seah of flour will sell for a shekel and two seahs of barley for a shekel at the gate of Samaria.\"",
     Ind:"Lalu berkatalah Elisa: \"Dengarlah firman TUHAN. Beginilah firman TUHAN: Besok kira-kira waktu ini sesukat tepung yang terbaik akan berharga sesyikal dan dua sukat jelai akan berharga sesyikal di pintu gerbang Samaria.\""
   },
   {Bible:"2Kings", Chapter:7, Verse:2, Page:1,
-    Kor:"그러자 왕을 부축하고 있던 시종무관이 하나님의 사람에게 대답하였다. \"비록 주님께서 하늘에 있는 창고 문을 여신다고 할지라도, 어찌 그런 일이 일어날 수 있겠습니까?\" 엘리사가 말하였다. \"당신은 분명히 그런 일이 생기는 것을 눈으로 직접 볼 것이오. 그렇지만 당신이 그것을 먹지는 못할 것이오.\"",
+    Kor:"그러자 왕을 부축하고 있던 시종무관이 하나님의 사람에게 대답하였다. \"비록 주께서 하늘에 있는 창고 문을 여신다고 할지라도, 어찌 그런 일이 일어날 수 있겠느냐?\" 엘리사가 말하였다. \"당신은 분명히 그것을 눈으로 직접 볼 것이오. 그렇지만 당신이 그것을 먹지는 못할 것이오.\"",
     Chn:"有一个搀扶王的军长对神人说：「即便耶和华使天开了窗户，也不能有这事。」以利沙说：「你必亲眼看见，却不得吃。」",
     Eng:"The officer on whose arm the king was leaning said to the man of God, \"Look, even if the LORD should open the floodgates of the heavens, could this happen?\" \"You will see it with your own eyes,\" answered Elisha, \"but you will not eat any of it!\"",
     Ind:"Tetapi perwira, yang menjadi ajudan raja, menjawab abdi Allah, katanya: \"Sekalipun TUHAN membuat tingkap-tingkap di langit, masakan hal itu mungkin terjadi?\" Jawab abdi Allah: \"Sesungguhnya, engkau akan melihatnya dengan matamu sendiri, tetapi tidak akan makan apa-apa dari padanya.\""
   },
   {Bible:"2Kings", Chapter:7, Verse:3, Page:1,
-    Kor:"<시리아의 군대가 도망가다> ○그 무렵에 a나병 환자 네 사람이 성문 어귀에 있었는데, 그들이 서로 말을 주고받았다. \"우리가 어찌하여 여기에 앉아서 죽기만을 기다리겠느냐?(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"○그 무렵에 나병 환자 네 사람이 성문 어귀에 있었는데, 그들이 서로 말을 주고받았다. \"우리가 어찌하여 여기에 앉아서 죽기만을 기다리겠느냐?",
     Chn:"在城门那里有四个长大麻风的人，他们彼此说：「我们为何坐在这里等死呢？",
     Eng:"Now there were four men with leprosy at the entrance of the city gate. They said to each other, \"Why stay here until we die?",
     Ind:"Empat orang yang sakit kusta ada di depan pintu gerbang. Berkatalah yang seorang kepada yang lain: \"Mengapakah kita duduk-duduk di sini sampai mati?"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu pada waktu senja bangkitlah mereka masuk ke tempat perkemahan orang Aram. Tetapi ketika mereka sampai ke pinggir tempat perkemahan orang Aram itu, tampaklah tidak ada orang di sana."
   },
   {Bible:"2Kings", Chapter:7, Verse:6, Page:1,
-    Kor:"주님께서 시리아 진의 군인들에게, 병거 소리와 군마 소리와 큰 군대가 쳐들어오는 소리를 듣게 하셨기 때문에, 시리아 군인들은, 이스라엘 왕이 그들과 싸우려고, 헷 족속의 왕들과 이집트의 왕들을 고용하여 자기들에게 쳐들어온다고 생각하고는,",
+    Kor:"주께서 시리아 진의 군인들에게, 병거 소리와 군마 소리와 큰 군대가 쳐들어오는 소리를 듣게 하셨기 때문에, 시리아 군인들은, 이스라엘 왕이 그들과 싸우려고, 헷 족속의 왕들과 이집트의 왕들을 고용하여 자기들에게 쳐들어온다고 생각하고는,",
     Chn:"因为主使亚兰人的军队听见车马的声音，是大军的声音；他们就彼此说：「这必是以色列王贿买赫人的诸王和埃及人的诸王来攻击我们。」",
     Eng:"for the Lord had caused the Arameans to hear the sound of chariots and horses and a great army, so that they said to one another, \"Look, the king of Israel has hired the Hittite and Egyptian kings to attack us!\"",
     Ind:"Sebab TUHAN telah membuat tentara Aram itu mendengar bunyi kereta, bunyi kuda, bunyi tentara yang besar, sehingga berkatalah yang seorang kepada yang lain: \"Sesungguhnya raja Israel telah mengupah raja-raja orang Het dan raja-raja orang Misraim melawan kita, supaya mereka menyerang kita.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Karena itu bangkitlah mereka melarikan diri pada waktu senja dengan meninggalkan kemah dan kuda dan keledai mereka serta tempat perkemahan itu dengan begitu saja; mereka melarikan diri menyelamatkan nyawanya."
   },
   {Bible:"2Kings", Chapter:7, Verse:8, Page:1,
-    Kor:"이들 a나병 환자들이 적진의 끝까지 갔다가, 한 장막 안으로 들어가서 먹고 마신 뒤에, 은과 금과 옷을 가지고 나와서 숨겨 두고는, 또 다른 장막으로 들어가서 거기에서도 물건을 가지고 나와, 그것도 역시 숨겨 두었다.(a 히브리어 '차라앗'이나 '메초라'는 각종 악성 피부질환을 가리키는 말로서, 반드시 '나병'만을 뜻하는 말은 아님)",
+    Kor:"이들 나병 환자들이 적진의 끝까지 갔다가, 한 장막 안으로 들어가서 먹고 마신 뒤에, 은과 금과 옷을 가지고 나와서 숨겨 두고는, 또 다른 장막으로 들어가서 거기에서도 물건을 가지고 나와, 그것도 역시 숨겨 두었다.",
     Chn:"那些长大麻风的到了营边，进了帐棚，吃了喝了，且从其中拿出金银和衣服来，去收藏了；回来又进了一座帐棚，从其中拿出财物来去收藏了。",
     Eng:"The men who had leprosy reached the edge of the camp and entered one of the tents. They ate and drank, and carried away silver, gold and clothes, and went off and hid them. They returned and entered another tent and took some things from it and hid them also.",
     Ind:"Ketika orang-orang yang sakit kusta itu sampai ke pinggir tempat perkemahan, masuklah mereka ke dalam sebuah kemah, lalu makan dan minum. Sesudah itu mereka mengangkut dari sana emas dan perak dan pakaian, kemudian pergilah mereka menyembunyikannya. Lalu datanglah mereka kembali, masuk ke dalam kemah yang lain dan mengangkut juga barang-barang dari sana, kemudian pergilah mereka menyembunyikannya."
@@ -93,31 +93,31 @@ BibleDB.add([
     Ind:"Lalu pergilah mereka menyusul orang-orang itu sampai ke sungai Yordan, dan tampaklah seluruh jalan itu penuh dengan pakaian dan perkakas yang dilemparkan oleh orang Aram pada waktu mereka lari terburu-buru. Kemudian pulanglah suruhan-suruhan itu dan menceritakan hal itu kepada raja."
   },
   {Bible:"2Kings", Chapter:7, Verse:16, Page:1,
-    Kor:"○그러자 백성들은 밖으로 나가서 시리아 진영을 약탈하였다. 그리하여 주님의 말씀대로 고운 밀가루 한 스아를 한 세겔에, 보리 두 스아를 한 세겔에 거래할 수 있게 되었다.",
+    Kor:"○그러자 백성들은 밖으로 나가서 시리아 진영을 약탈하였다. 그리하여 주의 말씀대로 고운 밀가루 한 스아를 한 세겔에, 보리 두 스아를 한 세겔에 거래할 수 있게 되었다.",
     Chn:"众人就出去，掳掠亚兰人的营盘。于是一细亚细面卖银一舍客勒，二细亚大麦也卖银一舍客勒，正如耶和华所说的。",
     Eng:"Then the people went out and plundered the camp of the Arameans. So a seah of flour sold for a shekel, and two seahs of barley sold for a shekel, as the LORD had said.",
     Ind:"Maka keluarlah penduduk kota itu menjarah tempat perkemahan orang Aram. Karena itu sesukat tepung yang terbaik berharga sesyikal dan dua sukat jelai berharga sesyikal, sesuai dengan firman TUHAN."
   },
   {Bible:"2Kings", Chapter:7, Verse:17, Page:1,
-    Kor:"그래서 왕은 자신을 부축한 그 시종무관을, 성문 관리로 임명하였다. 그러나 백성이 성문에서 그를 밟아 죽였는데, 왕이 그의 부축을 받으며 하나님의 사람을 죽이려고 왔을 때에, 하나님의 사람이 예언한 그대로 그가 죽은 것이다.",
+    Kor:"그래서 왕은 자신을 부축한 그 시종무관을, 성문 관리로 임명하였다. 그러나 백성들이 성문에서 그를 밟아 죽였는데, 왕이 그의 부축을 받으며 하나님의 사람을 죽이려고 왔을 때에, 하나님의 사람이 예언한 그대로 그가 죽은 것이다.",
     Chn:"王派搀扶他的那军长在城门口弹压，众人在那里将他践踏，他就死了，正如神人在王下来见他的时候所说的。",
     Eng:"Now the king had put the officer on whose arm he leaned in charge of the gate, and the people trampled him in the gateway, and he died, just as the man of God had foretold when the king came down to his house.",
     Ind:"Adapun raja telah menempatkan perwira yang menjadi ajudannya itu mengawasi pintu gerbang, tetapi rakyat menginjak-injak dia di pintu gerbang, lalu ia mati sesuai dengan perkataan abdi Allah yang mengatakannya pada waktu raja datang mendapatkan dia."
   },
   {Bible:"2Kings", Chapter:7, Verse:18, Page:1,
-    Kor:"그 때에 하나님의 사람이 왕에게 말하였다. \"내가, 내일 이맘때 쯤이면 사마리아 성 어귀에서는, 보리 두 스아를 한 세겔에, 고운 밀가루 한 스아를 한 세겔에 거래할 것이라고 말하였을 때에,",
+    Kor:"그 때에, 하나님의 사람이 왕에게 말하였다. \"내가, 내일 이맘때 쯤이면 사마리아 성 어귀에서는, 보리 두 스아를 한 세겔에, 고운 밀가루 한 스아를 한 세겔에 거래할 것이라고 말하였을 때에,",
     Chn:"神人曾对王说：「明日约到这时候，在撒马利亚城门口，二细亚大麦要卖银一舍客勒，一细亚细面也要卖银一舍客勒。」",
     Eng:"It happened as the man of God had said to the king: \"About this time tomorrow, a seah of flour will sell for a shekel and two seahs of barley for a shekel at the gate of Samaria.\"",
     Ind:"Dan terjadi juga seperti yang dikatakan abdi Allah itu kepada raja: \"Dua sukat jelai akan berharga sesyikal dan sesukat tepung yang terbaik akan berharga sesyikal, besok kira-kira waktu ini di pintu gerbang Samaria.\""
   },
   {Bible:"2Kings", Chapter:7, Verse:19, Page:1,
-    Kor:"그 시종무관은 하나님의 사람에게 '비록 주님께서 하늘에 있는 창고 문을 여신다고 할지라도, 어찌 이런 일이 일어날 수 있겠느냐?' 하고 큰소리를 쳤습니다. 그래서 내가 말하기를 '당신은 분명히 그런 일이 생기는 것을 눈으로 직접 볼 것이오. 그렇지만 당신이 그것을 먹지는 못할 것이오' 하고 말하였습니다.",
+    Kor:"그 시종무관은 하나님의 사람에게 '비록 주께서 하늘에 있는 창고 문을 여신다고 할지라도, 어찌 이런 일이 일어날 수 있겠느냐?' 하고 큰소리를 쳤습니다. 그래서 내가 말하기를 '당신은 분명히 그것을 눈으로 직접 볼 것이오. 그렇지만 당신이 그것을 먹지는 못할 것이오' 하고 말하였습니다.",
     Chn:"那军长对神人说：「即便耶和华使天开了窗户，也不能有这事。」神人说：「你必亲眼看见，却不得吃。」",
     Eng:"The officer had said to the man of God, \"Look, even if the LORD should open the floodgates of the heavens, could this happen?\" The man of God had replied, \"You will see it with your own eyes, but you will not eat any of it!\"",
     Ind:"Pada waktu itu si perwira menjawab abdi Allah itu: \"Sekalipun TUHAN membuat tingkap-tingkap di langit, masakan hal itu mungkin terjadi?\", tetapi Elisa berkata: \"Sesungguhnya engkau akan melihatnya dengan matamu sendiri, tetapi tidak akan makan apa-apa dari padanya.\""
   },
   {Bible:"2Kings", Chapter:7, Verse:20, Page:1,
-    Kor:"그래서 그에게 이런 일이 일어나게 된 것이며, 그가 성문 어귀에서 백성에게 짓밟혀 죽은 것입니다.\"",
+    Kor:"그래서 그에게 이런 일이 일어나게 된 것이며, 성문 어귀에서 백성들에게 짓밟혀 죽은 것입니다.\"",
     Chn:"这话果然应验在他身上；因为众人在城门口将他践踏，他就死了。",
     Eng:"And that is exactly what happened to him, for the people trampled him in the gateway, and he died.",
     Ind:"Demikianlah terjadi kepada orang itu: Rakyat menginjak-injak dia di pintu gerbang, lalu matilah ia."

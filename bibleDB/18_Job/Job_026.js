@@ -3,7 +3,7 @@
 BibleDB.ref("Job",26,14);
 BibleDB.add([
   {Bible:"Job", Chapter:26, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Tetapi Ayub menjawab:"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Atas anjuran siapakah engkau mengucapkan perkataan-perkataan itu, dan gagasan siapakah yang kaunyatakan?"
   },
   {Bible:"Job", Chapter:26, Verse:5, Page:1,
-    Kor:"a죽은 자들이 떤다. 깊은 물 밑에서 사는 자들이 두려워한다. (a 5-14절에 빌닷의 이름이 나타나 있지는 않지만, 빌닷의 말이라고 보는 견해도 있음)",
+    Kor:"죽은 자들이 떤다. 깊은 물 밑에서 사는 자들이 두려워한다.",
     Chn:"在大水和水族以下的阴魂战兢。",
     Eng:"\"The dead are in deep anguish, those beneath the waters and all that live in them.",
     Ind:"Roh-roh di bawah menggeletar, demikian juga air dan penghuninya."
   },
   {Bible:"Job", Chapter:26, Verse:6, Page:1,
-    Kor:"b스올도 하나님께는 훤하게 보이고, c멸망의 구덩이도 그분의 눈에는 훤하게 보인다. (b 또는 '무덤' 또는 '죽음' c 히, '아바돈')",
+    Kor:"스올도 하나님께는 훤하게 보이고, 멸망의 구덩이도 그분의 눈에는 훤하게 보인다.",
     Chn:"在　神面前，阴间显露； 灭亡也不得遮掩。",
     Eng:"Death is naked before God; Destruction lies uncovered.",
     Ind:"Dunia orang mati terbuka di hadapan Allah, tempat kebinasaanpun tidak ada tutupnya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"tiang-tiang langit bergoyang-goyang, tercengang-cengang oleh hardik-Nya."
   },
   {Bible:"Job", Chapter:26, Verse:12, Page:1,
-    Kor:"능력으로 '바다'를 정복하시며, 지혜로 d라합을 쳐부순다. (d 전설에 나오는 바다의 괴물, 혼돈과 악의 세력을 대표함)",
+    Kor:"능력으로 '바다'를 정복하시며, 지혜로 라합을 쳐부순다.",
     Chn:"他以能力搅动大海； 他借知识打伤拉哈伯，",
     Eng:"By his power he churned up the sea; by his wisdom he cut Rahab to pieces.",
     Ind:"Ia telah meneduhkan laut dengan kuasa-Nya dan meremukkan Rahab dengan kebijaksanaan-Nya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Oleh nafas-Nya langit menjadi cerah, tangan-Nya menembus ular yang tangkas."
   },
   {Bible:"Job", Chapter:26, Verse:14, Page:1,
-    Kor:"그러나 이런 것들은, 그분이 하시는 일의 일부에 지나지 않고, 우리가 그분에게서 듣는 것도 가냘픈 속삭임에 지나지 않는다. 하물며 그분의 권능에 찬 우레 소리를 누가 이해할 수 있겠느냐!",
+    Kor:"그러나 이런 것들은, 그분이 하시는 일의 일부에 지나지 않고, 우리가 그분에게서 듣는 것도 가냘픈 속삭임에 지나지 않는다. 하물며 그분의 권능에 찬 우뢰 소리를 누가 이해할 수 있겠느냐!",
     Chn:"看哪，这不过是　神工作的些微； 我们所听于他的是何等细微的声音！ 他大能的雷声谁能明透呢？",
     Eng:"And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?\"",
     Ind:"Sesungguhnya, semuanya itu hanya ujung-ujung jalan-Nya; betapa lembutnya bisikan yang kita dengar dari pada-Nya! Siapa dapat memahami guntur kuasa-Nya?\""

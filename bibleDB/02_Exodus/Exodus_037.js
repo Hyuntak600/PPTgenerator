@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",37,29);
 BibleDB.add([
   {Bible:"Exodus", Chapter:37, Verse:1, Page:1,
-    Kor:"<언약궤를 만들다(출 25:10-22)> 브살렐은 아카시아 나무로, 길이가 두 자 반, 너비가 한 자 반, 높이가 한 자 반인 궤를 만들었다.",
+    Kor:"브살렐은 아카시아 나무로, 길이가 두 자 반, 너비가 한 자 반, 높이가 한 자 반인 궤를 만들었다.",
     Chn:"比撒列用皂荚木做柜，长二肘半，宽一肘半，高一肘半。",
     Eng:"Bezalel made the ark of acacia wood--two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
     Ind:"Bezaleel membuat tabut itu dari kayu penaga, dua setengah hasta panjangnya, satu setengah hasta lebarnya, dan satu setengah hasta tingginya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Kerub-kerub itu mengembangkan kedua sayapnya ke atas, sayap-sayapnya menudungi tutup pendamaian itu dan mukanya menghadap kepada masing-masing; kepada tutup pendamaian itulah menghadap muka kerub-kerub itu."
   },
   {Bible:"Exodus", Chapter:37, Verse:10, Page:1,
-    Kor:"<상을 만들다(출 25:23-30)> ○그는 아카시아 나무로, 길이가 두 자이고 너비가 한 자이고 높이가 한 자 반인 상을 만들어서,",
+    Kor:"○그는 아카시아 나무로, 길이가 두 자이고 너비가 한 자이고 높이가 한 자 반인 상을 만들어서,",
     Chn:"他用皂荚木做一张桌子，长二肘，宽一肘，高一肘半，",
     Eng:"They made the table of acacia wood--two cubits long, a cubit wide, and a cubit and a half high.",
     Ind:"Dibuatnyalah meja itu dari kayu penaga, dua hasta panjangnya, sehasta lebarnya dan satu setengah hasta tingginya."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Dan dibuatnyalah perkakas yang di atas meja itu, yakni pinggannya, cawannya, piala dan kendinya, yang dipakai untuk persembahan curahan, semuanya dari emas murni."
   },
   {Bible:"Exodus", Chapter:37, Verse:17, Page:1,
-    Kor:"<등잔대를 만들다(출 25:31-40)> ○그는 순금을 두들겨서 등잔대를 만들었으며, 등잔대의 밑받침과 줄기와 등잔과 꽃받침과 꽃을 하나로 잇게 하였다.",
+    Kor:"○그는 순금을 두들겨서 등잔대를 만들었으며, 등잔대의 밑받침과 줄기와 등잔과 꽃받침과 꽃을 하나로 잇게 하였다.",
     Chn:"他用精金做一个灯台；这灯台的座和干，与杯、球、花，都是接连一块锤出来的。",
     Eng:"They made the lampstand of pure gold and hammered it out, base and shaft; its flowerlike cups, buds and blossoms were of one piece with it.",
     Ind:"Dibuatnyalah kandil itu dari emas murni; dari emas tempaan dibuatnya kandil itu, baik kakinya baik batangnya; kelopaknya--dengan tombolnya dan kembangnya--dibuat seiras dengan kandil itu."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Pada kandil itu sendiri ada empat kelopak berupa bunga badam--dengan tombolnya dan kembangnya."
   },
   {Bible:"Exodus", Chapter:37, Verse:21, Page:1,
-    Kor:"그리고 등잔대의 맨 위에 있는 좌우 두 곁가지가 줄기에서 뻗어 나올 때에는 밑에서 세 번째 놓인 꽃받침에서 뻗어 나오게 하고, 그 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어 나올 때에는 밑에서 두 번째 놓인 꽃받침에서 뻗어 나오게 하고, 그리고 맨 아래에 있는 좌우 두 곁가지가 줄기에서 02 37:뻗어 나올 때에는 맨 아래에 놓인 꽃받침에서 뻗어 나오게 하여, 곁가지 여섯 개가 줄기와 연결되어 한 덩이가 되게 하였다. 이렇게 등잔대의 줄기에서 좌우로 곁가지가 나오게 하였다.",
+    Kor:"그리고 등잔대의 맨 위에 있는 좌우 두 곁가지가 줄기에서 뻗어 나올 때에는, 밑에서 세 번째 놓인 꽃받침에서 뻗어 나오게 하고, 그 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어 나올 때에는, 밑에서 두 번째 놓인 꽃받침에서 뻗어 나오게 하고, 그리고 맨 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어 나올 때에는, 맨 아래에 놓인 꽃받침에서 뻗어 나오게 하여, 곁가지 여섯 개가 줄기와 연결되어 한 덩이가 되게 하였다. 이렇게 등잔대의 줄기에서 좌우로 곁가지가 나오게 하였다.",
     Chn:"灯台每两个枝子以下有球，与枝子接连一块；灯台杈出的六个枝子都是如此。",
     Eng:"One bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.",
     Ind:"Juga ada satu tombol di bawah sepasang cabang yang pertama yang timbul dari kandil itu, dan satu tombol di bawah yang kedua, dan satu tombol di bawah yang ketiga; demikianlah juga dibuat keenam cabang yang timbul dari situ."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Dari satu talenta emas murni dibuatnyalah kandil itu dengan segala perkakasnya."
   },
   {Bible:"Exodus", Chapter:37, Verse:25, Page:1,
-    Kor:"<분향단을 만들다(출 30:1-5)> ○그는 아카시아 나무로 분향단을 만들었는데, 그 길이가 한 자요 너비가 한 자인 네모난 모양으로서, 높이는 두 자로 하고, 그 뿔과 단은 하나로 잇게 만들었다.",
+    Kor:"○그는 아카시아 나무로 분향단을 만들었는데, 그 길이가 한 자요 너비가 한 자인 네모난 모양으로서, 높이는 두 자로 하고, 그 뿔과 단은 하나로 잇게 만들었다.",
     Chn:"他用皂荚木做香坛，是四方的，长一肘，宽一肘，高二肘，坛的四角与坛接连一块；",
     Eng:"They made the altar of incense out of acacia wood. It was square, a cubit long and a cubit wide, and two cubits high--its horns of one piece with it.",
     Ind:"Dibuatnyalah mezbah pembakaran ukupan itu dari kayu penaga, sehasta panjangnya dan sehasta lebarnya, empat persegi, tetapi dua hasta tingginya; tanduk-tanduknya seiras dengan mezbah itu."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Dan dibuatnyalah kayu pengusung itu dari kayu penaga dan disalutnya dengan emas."
   },
   {Bible:"Exodus", Chapter:37, Verse:29, Page:1,
-    Kor:"<성별하는 기름과 향(출 30:22-38)> ○그는, 향을 제조하는 법을 따라서, 성별하는 기름과 향기롭고 순수한 향을 만들었다.",
+    Kor:"○그는, 향을 제조하는 법을 따라서, 성별하는 기름과 향기롭고 순수한 향을 만들었다.",
     Chn:"又按做香之法做圣膏油和馨香料的净香。",
     Eng:"They also made the sacred anointing oil and the pure, fragrant incense--the work of a perfumer.",
     Ind:"Dan dibuatnyalah minyak urapan yang kudus itu dan ukupan murni dari wangi-wangian, seperti buatan seorang tukang campur rempah-rempah."

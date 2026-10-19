@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",41,26);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:41, Verse:1, Page:1,
-    Kor:"그런 다음에 그가 나를 데리고 성전으로 들어가서 벽을 재니, 그 벽 두께가 양쪽이 각각 여섯 자였다.a(a 히브리어 본문에는 절 끝에 '장막의 두께가 이러하였다'라는 말이 더 있음)",
+    Kor:"그런 다음에, 그가 나를 데리고 성전으로 들어가서 벽을 재니, 그 벽 두께가 양쪽이 각각 여섯 자였다.",
     Chn:"他带我到殿那里量墙柱：这面厚六肘，那面厚六肘，宽窄与会幕相同。",
     Eng:"Then the man brought me to the outer sanctuary and measured the jambs; the width of the jambs was six cubits on each side.",
     Ind:"Kemudian dibawanya aku ke dalam ruang besar Bait Suci dan ia mengukur tiang temboknya: yang sebelah sini enam hasta tebalnya dan yang sebelah sana enam hasta juga."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Ia mengukur panjang ruang dalam itu: dua puluh hasta, dan lebarnya: dua puluh hasta sesuai dengan lebar ruang besar. Lalu ia berkata kepadaku: \"Inilah tempat maha kudus.\""
   },
   {Bible:"Ezekiel", Chapter:41, Verse:5, Page:1,
-    Kor:"<성전과 지성소의 골방들> ○또 사람이 성전의 벽을 재니, 두께가 여섯 자였다. 성전에는 삼면으로 돌아가며 방들이 있는데, 너비가 각각 넉 자였다.",
+    Kor:"○또 사람이 성전의 벽을 재니, 두께가 여섯 자였다. 성전에는 삼면으로 돌아가며 방들이 있는데, 너비가 각각 넉 자였다.",
     Chn:"他又量殿墙，厚六肘；围着殿有旁屋，各宽四肘。",
     Eng:"Then he measured the wall of the temple; it was six cubits thick, and each side room around the temple was four cubits wide.",
     Ind:"Kemudian ia mengukur dinding Bait Suci itu: enam hasta tebalnya dan lebar kamar tambahan yang terdapat di sekeliling Bait Suci itu, empat hasta."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Dan pintu-pintu kamar tambahan ke luar ke bagian yang kosong itu, satu pintu di sebelah utara dan satu pintu di sebelah selatan; dan lebar tempat yang kosong itu adalah lima hasta sekeliling."
   },
   {Bible:"Ezekiel", Chapter:41, Verse:12, Page:1,
-    Kor:"<성전의 서쪽 건물> ○또 성전의 서쪽 뜰 뒤로 건물이 있는데, 그 너비가 일흔 자였다. 그 건물의 벽은 사방으로 두께가 다섯 자였다. 그 건물 자체의 길이는 아흔 자였다.",
+    Kor:"○또 성전의 서쪽 뜰 뒤로 건물이 있는데, 그 너비가 일흔 자였다. 그 건물의 벽은 사방으로 두께가 다섯 자였다. 그 건물 자체의 길이는 아흔 자였다.",
     Chn:"在西面空地之后有房子，宽七十肘，长九十肘，墙四围厚五肘。",
     Eng:"The building facing the temple courtyard on the west side was seventy cubits wide. The wall of the building was five cubits thick all around, and its length was ninety cubits.",
     Ind:"Bangunan yang terdapat di lapangan tertutup yang di sebelah barat lebarnya tujuh puluh hasta, sedang dinding yang mengelilinginya tebalnya lima hasta dan panjangnya sembilan puluh hasta."
   },
   {Bible:"Ezekiel", Chapter:41, Verse:13, Page:1,
-    Kor:"<성전의 총면적과 내부시설> ○그가 성전을 재는데, 그 길이가 백 자이고, 서쪽 뜰과 건물과 그 양쪽 벽까지 합해서 또 길이가 백 자였다.",
+    Kor:"○그가 성전을 재는데, 그 길이가 백 자이고, 서쪽 뜰과 건물과 그 양쪽 벽까지 합해서 또 길이가 백 자였다.",
     Chn:"这样，他量殿，长一百肘，又量空地和那房子并墙，共长一百肘。",
     Eng:"Then he measured the temple; it was a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long.",
     Ind:"Lalu ia mengukur Bait Suci itu: seratus hasta panjangnya dan lapangan tertutup bersama bangunan dan dindingnya: seratus hasta juga;"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"begitu juga lebarnya muka Bait Suci bersama lapangan tertutup sebelah timur: seratus hasta."
   },
   {Bible:"Ezekiel", Chapter:41, Verse:15, Page:1,
-    Kor:"그가 이어서 성전 뒤뜰 너머에 있는 건물을 그 양편의 다락까지 함께 재니, 그 길이도 백 자였다. ○성전 지성소와 성전 뜰 현관과",
+    Kor:"그가 이어서 성전 뒤뜰 너머 있는 건물을 그 양편의 다락까지 함께 재니, 그 길이도 백 자였다. ○성전 지성소와 성전 뜰 현관과",
     Chn:"他量空地后面的那房子，并两旁的楼廊，共长一百肘。",
     Eng:"Then he measured the length of the building facing the courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. The outer sanctuary, the inner sanctuary and the portico facing the court,",
     Ind:"Kemudian ia mengukur panjang bangunan yang terdapat di lapangan tertutup sebelah barat bersama serambi-serambinya di kedua belah: seratus hasta. Ruang besar, ruang dalam dan balai luar"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"mezbah dari kayu, tingginya tiga hasta, panjangnya dua hasta dan lebarnya dua hasta; sudut-sudutnya serta alasnya dan dindingnya dari kayu. Ia berkata kepadaku: \"Inilah meja yang ada di hadirat TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:41, Verse:23, Page:1,
-    Kor:"<성전의 문들> ○성전 본당과 지성소 사이에는 문을 두 번 열고 들어가야 하는 겹문이 있었다.",
+    Kor:"○성전 본당과 지성소 사이에는 문을 두 번 열고 들어가야 하는 겹문이 있었다.",
     Chn:"殿和至圣所的门各有两扇。",
     Eng:"Both the outer sanctuary and the Most Holy Place had double doors.",
     Ind:"Ruang besar mempunyai dua daun pintu dan tempat maha kudus"

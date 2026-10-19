@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",3,35);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:3, Verse:1, Page:1,
-    Kor:"<젊은이에게 주는 충고> a아이들아, 내 가르침을 잊지 말고, 내 계명을 네 마음에 간직하여라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 내 가르침을 잊지 말고, 내 계명을 네 마음에 간직하여라.",
     Chn:"我儿，不要忘记我的法则； 你心要谨守我的诫命；",
     Eng:"My son, do not forget my teaching, but keep my commands in your heart,",
     Ind:"Hai anakku, janganlah engkau melupakan ajaranku, dan biarlah hatimu memelihara perintahku,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."
   },
   {Bible:"Proverbs", Chapter:3, Verse:6, Page:1,
-    Kor:"네가 하는 모든 일에서 주님을 인정하여라. 그러면 주님께서 네가 가는 b길을 곧게 하실 것이다. (b 또는 '길을 인도하실 것이다')",
+    Kor:"네가 하는 모든 일에서 주님을 인정하여라. 그러면 주님께서 네가 가는 길을 곧게 하실 것이다.",
     Chn:"在你一切所行的事上都要认定他， 他必指引你的路。",
     Eng:"in all your ways acknowledge him, and he will make your paths straight.",
     Ind:"Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"maka lumbung-lumbungmu akan diisi penuh sampai melimpah-limpah, dan bejana pemerahanmu akan meluap dengan air buah anggurnya."
   },
   {Bible:"Proverbs", Chapter:3, Verse:11, Page:1,
-    Kor:"a아이들아, 주님의 훈계를 거부하지 말고, 그의 책망을 싫어하지 말아라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 주님의 훈계를 거부하지 말고, 그의 책망을 싫어하지 말아라.",
     Chn:"我儿，你不可轻看耶和华的管教， 也不可厌烦他的责备；",
     Eng:"My son, do not despise the LORD'S discipline and do not resent his rebuke,",
     Ind:"Hai anakku, janganlah engkau menolak didikan TUHAN, dan janganlah engkau bosan akan peringatan-Nya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Karena TUHAN memberi ajaran kepada yang dikasihi-Nya, seperti seorang ayah kepada anak yang disayangi."
   },
   {Bible:"Proverbs", Chapter:3, Verse:13, Page:1,
-    Kor:"<지혜의 가치> 지혜를 찾는 사람은 복이 있고, 명철을 얻는 사람은 복이 있다.",
+    Kor:"지혜를 찾는 사람은 복이 있고, 명철을 얻는 사람은 복이 있다.",
     Chn:"得智慧，得聪明的， 这人便为有福。",
     Eng:"Blessed is the man who finds wisdom, the man who gains understanding,",
     Ind:"Berbahagialah orang yang mendapat hikmat, orang yang memperoleh kepandaian,"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"dengan pengetahuan-Nya air samudera raya berpencaran dan awan menitikkan embun."
   },
   {Bible:"Proverbs", Chapter:3, Verse:21, Page:1,
-    Kor:"a아이들아, 건전한 지혜와 분별력을 모두 잘 간직하여 너의 시야에서 떠나지 않게 하여라. (a 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 건전한 지혜와 분별력을 모두 잘 간직하여 너의 시야에서 떠나지 않게 하여라.",
     Chn:"我儿，要谨守真智慧和谋略， 不可使她离开你的眼目。",
     Eng:"My son, preserve sound judgment and discernment, do not let them out of your sight;",
     Ind:"Hai anakku, janganlah pertimbangan dan kebijaksanaan itu menjauh dari matamu, peliharalah itu,"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Janganlah takut kepada kekejutan yang tiba-tiba, atau kepada kebinasaan orang fasik, bila itu datang."
   },
   {Bible:"Proverbs", Chapter:3, Verse:26, Page:1,
-    Kor:"주님께서 네가 의지할 분이 되셔서 너의 발이 덫에 걸리지 않게 지켜 주실 것이다.",
+    Kor:"주께서 네가 의지할 분이 되셔서 너의 발이 덫에 걸리지 않게 지켜 주실 것이다.",
     Chn:"因为耶和华是你所倚靠的； 他必保守你的脚不陷入网罗。",
     Eng:"for the LORD will be your confidence and will keep your foot from being snared.",
     Ind:"Karena Tuhanlah yang akan menjadi sandaranmu, dan akan menghindarkan kakimu dari jerat."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Janganlah menahan kebaikan dari pada orang-orang yang berhak menerimanya, padahal engkau mampu melakukannya."
   },
   {Bible:"Proverbs", Chapter:3, Verse:28, Page:1,
-    Kor:"네가 가진 것이 있으면서도, 너의 이웃에게 \"갔다가 다시 오시오. 내일 주겠소\"  말하지 말아라.",
+    Kor:"너에게 가진 것이 있으면서도, 너의 이웃에게 \"갔다가 다시 오시오. 내일 주겠소\"하고 말하지 말아라.",
     Chn:"你那里若有现成的，不可对邻舍说： 去吧，明天再来，我必给你。",
     Eng:"Do not say to your neighbor, \"Come back later; I'll give it tomorrow\"--when you now have it with you.",
     Ind:"Janganlah engkau berkata kepada sesamamu: \"Pergilah dan kembalilah, besok akan kuberi,\" sedangkan yang diminta ada padamu."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Apabila Ia menghadapi pencemooh, maka Iapun mencemooh, tetapi orang yang rendah hati dikasihani-Nya."
   },
   {Bible:"Proverbs", Chapter:3, Verse:35, Page:1,
-    Kor:"지혜있는 사람은 영광을 물려받고, c미련한 사람은 수치를 당할 뿐이다. (c '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"지혜있는 사람은 영광을 물려받고, 미련한 사람은 수치를 당할 뿐이다.",
     Chn:"智慧人必承受尊荣； 愚昧人高升也成为羞辱。",
     Eng:"The wise inherit honor, but fools he holds up to shame.",
     Ind:"Orang yang bijak akan mewarisi kehormatan, tetapi orang yang bebal akan menerima cemooh."

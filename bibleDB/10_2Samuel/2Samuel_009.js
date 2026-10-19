@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",9,13);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:9, Verse:1, Page:1,
-    Kor:"<다윗과 므비보셋> 하루는 다윗이 물었다. \"사울의 집안에 살아 남은 사람이 있느냐? 요나단을 보아서라도, 남아 있는 자손이 있으면, 잘 보살펴 주고 싶구나.\"",
+    Kor:"하루는 다윗이 물었다. \"사울의 집안에 살아 남은 사람이 있느냐? 요나단을 보아서라도, 남아 있는 자손이 있으면, 잘 보살펴 주고 싶구나.\"",
     Chn:"大卫问说：「扫罗家还有剩下的人没有？我要因约拿单的缘故向他施恩。」",
     Eng:"David asked, \"Is there anyone still left of the house of Saul to whom I can show kindness for Jonathan's sake?\"",
     Ind:"Berkatalah Daud: \"Masih adakah orang yang tinggal dari keluarga Saul? Maka aku akan menunjukkan kasihku kepadanya oleh karena Yonatan.\""

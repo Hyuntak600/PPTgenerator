@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",7,29);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:7, Verse:1, Page:1,
-    Kor:"<지혜> 명예가 값비싼 향유보다 더 낫고, 죽는 날이 태어나는 날보다 더 중요하다.",
+    Kor:"명예가 값비싼 향유보다 더 낫고, 죽는 날이 태어나는 날보다 더 중요하다.",
     Chn:"名誉强如美好的膏油；人死的日子胜过人生的日子。",
     Eng:"A good name is better than fine perfume, and the day of death better than the day of birth.",
     Ind:"Nama yang harum lebih baik dari pada minyak yang mahal, dan hari kematian lebih baik dari pada hari kelahiran."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Janganlah mengatakan: \"Mengapa zaman dulu lebih baik dari pada zaman sekarang?\" Karena bukannya berdasarkan hikmat engkau menanyakan hal itu."
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:11, Page:1,
-    Kor:"지혜는 유산을 받는 것만큼이나 좋은 것이니, a이 세상에서 살면서 그 덕을 보기 때문이다. (a 히, '해 아래')",
+    Kor:"지혜는 유산을 받는 것만큼이나 좋은 것이니, 이 세상에서 살면서 그 덕을 보기 때문이다.",
     Chn:"智慧和产业并好， 而且见天日的人得智慧更为有益。",
     Eng:"Wisdom, like an inheritance, is a good thing and benefits those who see the sun.",
     Ind:"Hikmat adalah sama baiknya dengan warisan dan merupakan suatu keuntungan bagi orang-orang yang melihat matahari."
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"Hikmat memberi kepada yang memilikinya lebih banyak kekuatan dari pada sepuluh penguasa dalam kota."
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:20, Page:1,
-    Kor:"좋은 일만 하고 잘못을 전혀 저지르지 않는 의인은 이 세상에 하나도 없다.",
+    Kor:"좋은 일만 하고, 잘못을 전혀 저지르지 않는 의인은 이 세상에 하나도 없다.",
     Chn:"时常行善而不犯罪的义人，世上实在没有。",
     Eng:"There is not a righteous man on earth who does what is right and never sins.",
     Ind:"Sesungguhnya, di bumi tidak ada orang yang saleh: yang berbuat baik dan tak pernah berbuat dosa!"
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:21, Page:1,
-    Kor:"남들이 하는 말에 마음을 쓰지 말아라. 자칫하다가는 네 종이 너를 욕하는 것까지 듣게 된다.",
+    Kor:"남들이 하는 말에 마음을 쓰지 말아라. 자칫하다가는, 네 종이 너를 욕하는 것까지 듣게 된다.",
     Chn:"人所说的一切话，你不要放在心上，恐怕听见你的仆人咒诅你。",
     Eng:"Do not pay attention to every word people say, or you may hear your servant cursing you--",
     Ind:"Juga janganlah memperhatikan segala perkataan yang diucapkan orang, supaya engkau tidak mendengar pelayanmu mengutuki engkau."
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:22, Page:1,
-    Kor:"너 또한 남을 욕한 일이 많다는 것을 너 스스로 잘 알고 있다.",
+    Kor:"너 또한 남을 욕한 일이 많다는 것을, 너 스스로 잘 알고 있다.",
     Chn:"因为你心里知道，自己也曾屡次咒诅别人。",
     Eng:"for you know in your heart that many times you yourself have cursed others.",
     Ind:"Karena hatimu tahu bahwa engkau juga telah kerapkali mengutuki orang-orang lain."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Aku tujukan perhatianku untuk memahami, menyelidiki, dan mencari hikmat dan kesimpulan, serta untuk mengetahui bahwa kefasikan itu kebodohan dan kebebalan itu kegilaan."
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:26, Page:1,
-    Kor:"나는 또, 올가미와 같은 여자 마음이 덫과 같고, 손이 쇠사슬과 같은 여자는 죽음보다 더 쓰다는 것을 알았다. 하나님을 기쁘게 해 드리는 남자는 그런 여자를 피할 수 있지만, 죄인은 그런 여자에게 걸려들고 말 것이다.",
+    Kor:"나는 또, 올가미와 같은 여자 마음이 덫과 같고 손이 쇠사슬과 같은 여자는 죽음보다 더 쓰다는 것을 알았다. 하나님을 기쁘게 해 드리는 남자는 그런 여자를 피할 수 있지만, 죄인은 그런 여자에게 걸려들고 말 것이다.",
     Chn:"我得知有等妇人比死还苦：她的心是网罗，手是锁链。凡蒙　神喜悦的人必能躲避她；有罪的人却被她缠住了。",
     Eng:"I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare.",
     Ind:"Dan aku menemukan sesuatu yang lebih pahit dari pada maut: perempuan yang adalah jala, yang hatinya adalah jerat dan tangannya adalah belenggu. Orang yang dikenan Allah terhindar dari padanya, tetapi orang yang berdosa ditangkapnya."
   },
   {Bible:"Ecclesiastes", Chapter:7, Verse:27, Page:1,
-    Kor:"보아라, b전도자가 말한다. 내가 깨달은 것은 이것이다. 사물의 이치를 하나하나씩 찾아가는데, (b 히, '코헬렛'. '설교자' 또는 '교사' 또는 '총회의 인도자')",
+    Kor:"보아라, 전도자가 말한다. 내가 깨달은 것은 이것이다. 사물의 이치를 하나하나씩 찾아가는데,",
     Chn:"传道者说：「看哪，一千男子中，我找到一个正直人，但众女子中，没有找到一个。」我将这事一一比较，要寻求其理，我心仍要寻找，却未曾找到。",
     Eng:"\"Look,\" says the Teacher, \"this is what I have discovered: \"Adding one thing to another to discover the scheme of things--",
     Ind:"Lihatlah, ini yang kudapati, kata Pengkhotbah: Sementara menyatukan yang satu dengan yang lain untuk mendapat kesimpulan,",

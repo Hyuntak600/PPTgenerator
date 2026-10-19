@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",8,32);
 BibleDB.add([
   {Bible:"Exodus", Chapter:8, Verse:1, Page:1,
-    Kor:"<둘째 재앙:개구리 소동> 주님께서 모세에게 말씀하셨다. \"너는 바로에게로 가서 '나 주가 이렇게 말한다' 하고, 그에게 이르기를 '나의 백성을 보내라. 그들이 나를 예배할 수 있게 하여라.",
+    Kor:"주께서 모세에게 말씀하셨다. \"너는 바로에게로 가서 '나 주가 이렇게 말한다' 하고, 그에게 이르기를 '나의 백성을 보내라. 그들이 나를 예배할 수 있게 하여라.",
     Chn:"耶和华吩咐摩西说：「你进去见法老，对他说：『耶和华这样说：容我的百姓去，好事奉我。",
     Eng:"Then the LORD said to Moses, \"Go to Pharaoh and say to him, 'This is what the LORD says: Let my people go, so that they may worship me.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Pergilah menghadap Firaun dan katakan kepadanya: Beginilah firman TUHAN: Biarkanlah umat-Ku pergi, supaya mereka beribadah kepada-Ku;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Katak-katak itu akan naik memanjati engkau, memanjati rakyatmu dan segala pegawaimu.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:5, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너는 아론에게 이르기를, 지팡이를 들고 강과 운하와 늪 쪽으로 손을 내밀어서, 개구리들이 이집트 땅 위로 올라오게 하라고 하여라.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 아론에게 이르기를, 지팡이를 들고 강과 운하와 늪 쪽으로 손을 내밀어서, 개구리들이 이집트 땅 위로 올라오게 하라고 하여라.\"",
     Chn:"耶和华晓谕摩西说：「你对亚伦说：『把你的杖伸在江、河、池以上，使青蛙到埃及地上来。』」",
     Eng:"Then the LORD said to Moses, \"Tell Aaron, 'Stretch out your hand with your staff over the streams and canals and ponds, and make frogs come up on the land of Egypt.'\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Katakanlah kepada Harun: Ulurkanlah tanganmu dengan tongkatmu ke atas sungai, ke atas selokan dan ke atas kolam, dan buatlah katak-katak bermunculan meliputi tanah Mesir.\""
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Tetapi para ahli itupun membuat yang demikian juga dengan ilmu-ilmu mantera mereka, sehingga mereka membuat katak-katak bermunculan meliputi tanah Mesir."
   },
   {Bible:"Exodus", Chapter:8, Verse:8, Page:1,
-    Kor:"○그 때에 바로는 모세와 아론을 불러들여 부탁하였다. \"너희는 주께 기도하여, 개구리들이 나와 나의 백성에게서 물러가게 하여라. 그러면 내가, 너희 백성이 주께 제사를 드릴 수 있도록, 너희를 보내 주겠다.\"",
+    Kor:"○그 때에 바로는 모세와 아론을 불러들여 부탁하였다. \"너희는 주께 기도하여, 개구리들이 나와 나의 백성에게서 물러가게 하여라. 그러면 내가, 너희 백성이 주께 제사를 드릴 수 있게, 너희를 보내 주겠다.\"",
     Chn:"法老召了摩西、亚伦来，说：「请你们求耶和华使这青蛙离开我和我的民，我就容百姓去祭祀耶和华。」",
     Eng:"Pharaoh summoned Moses and Aaron and said, \"Pray to the LORD to take the frogs away from me and my people, and I will let your people go to offer sacrifices to the LORD.\"",
     Ind:"Kemudian Firaun memanggil Musa dan Harun serta berkata: \"Berdoalah kepada TUHAN, supaya dijauhkan-Nya katak-katak itu dari padaku dan dari pada rakyatku; maka aku akan membiarkan bangsa itu pergi, supaya mereka mempersembahkan korban kepada TUHAN.\""
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Katanya: \"Besok.\" Lalu kata Musa: \"Jadilah seperti katamu itu, supaya tuanku mengetahui, bahwa tidak ada yang seperti TUHAN, Allah kami."
   },
   {Bible:"Exodus", Chapter:8, Verse:11, Page:1,
-    Kor:"이제 개구리들이 임금님과 임금님의 궁궐과 신하들과 백성들에게서 물러가고, 오직 강에만 남아 있을 것입니다.\"",
+    Kor:"이제, 개구리들이 임금님과 임금님의 궁궐과 신하들과 백성들에게서 물러가고, 오직 강에만 남아 있을 것입니다.\"",
     Chn:"青蛙要离开你和你的宫殿，并你的臣仆与你的百姓，只留在河里。」",
     Eng:"The frogs will leave you and your houses, your officials and your people; they will remain only in the Nile.\"",
     Ind:"Maka katak-katak itu akan dijauhkan dari padamu, dari rumah-rumahmu, dari pegawai-pegawaimu dan dari rakyatmu; dan hanya akan tinggal di sungai Nil saja.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:12, Page:1,
-    Kor:"모세와 아론은 바로에게서 물러나왔다. 모세가, 주님께서 바로에게 보내신 개구리를 없애 달라고 주님께 간구하니,",
+    Kor:"모세와 아론은 바로에게서 물러나왔다. 모세가, 주께서 바로에게 보내신 개구리를 없애 달라고 주께 간구하니,",
     Chn:"于是摩西、亚伦离开法老出去。摩西为扰害法老的青蛙呼求耶和华。",
     Eng:"After Moses and Aaron left Pharaoh, Moses cried out to the LORD about the frogs he had brought on Pharaoh.",
     Ind:"Lalu Musa dan Harun keluar meninggalkan Firaun, dan Musa berseru kepada TUHAN karena katak-katak, yang didatangkan-Nya kepada Firaun."
   },
   {Bible:"Exodus", Chapter:8, Verse:13, Page:1,
-    Kor:"주님께서 모세가 간구한 대로 들어 주셔서, 집과 뜰과 밭에 있던 개구리들이 다 죽었다.",
+    Kor:"주께서, 모세가 간구한 대로 들어 주셔서, 집과 뜰과 밭에 있던 개구리들이 다 죽었다.",
     Chn:"耶和华就照摩西的话行。凡在房里、院中、田间的青蛙都死了。",
     Eng:"And the LORD did what Moses asked. The frogs died in the houses, in the courtyards and in the fields.",
     Ind:"Dan TUHAN melakukan seperti yang dikatakan Musa, sehingga katak-katak itu mati lenyap dari rumah, dari halaman dan dari ladang."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Dikumpulkan oranglah bangkai-bangkainya bertumpuk-tumpuk, sehingga tanah itu berbau busuk."
   },
   {Bible:"Exodus", Chapter:8, Verse:15, Page:1,
-    Kor:"바로는 한숨을 돌리게 되자, 주님께서 말씀하신 대로, 또 고집을 부리고 그들의 말을 듣지 않았다.",
+    Kor:"바로는 한숨을 돌리게 되자, 주께서 말씀하신 대로 또 고집을 부리고, 그들의 말을 듣지 않았다.",
     Chn:"但法老见灾祸松缓，就硬着心，不肯听他们，正如耶和华所说的。",
     Eng:"But when Pharaoh saw that there was relief, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.",
     Ind:"Tetapi ketika Firaun melihat, bahwa telah terasa kelegaan, ia tetap berkeras hati, dan tidak mau mendengarkan mereka keduanya--seperti yang telah difirmankan TUHAN."
   },
   {Bible:"Exodus", Chapter:8, Verse:16, Page:1,
-    Kor:"<셋째 재앙:이 소동> ○주님께서 모세에게 말씀하셨다. \"너는 아론에게 일러, 지팡이를 내밀어 땅의 먼지를 치라고 하여라. 그러면 이집트 온 땅에서 먼지가 이로 변할 것이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 아론에게 일러, 지팡이를 내밀어 땅의 먼지를 치라고 하여라. 그러면 이집트 온 땅에서 먼지가 이로 변할 것이다.\"",
     Chn:"耶和华吩咐摩西说：「你对亚伦说：『伸出你的杖击打地上的尘土，使尘土在埃及遍地变作虱子。』」",
     Eng:"Then the LORD said to Moses, \"Tell Aaron, 'Stretch out your staff and strike the dust of the ground,' and throughout the land of Egypt the dust will become gnats.\"",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Katakanlah kepada Harun: Ulurkanlah tongkatmu dan pukulkanlah itu ke debu tanah, maka debu itu akan menjadi nyamuk di seluruh tanah Mesir.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:17, Page:1,
-    Kor:"그들이 그대로 하였다. 아론이 지팡이를 잡고서 팔을 내밀어 땅의 먼지를 치니, 먼지가 이로 변하여, 사람과 짐승들에게 이가 생겼다. 온 이집트 땅의 먼지가 모두 이로 변하였다.",
+    Kor:"그들이 그대로 하였다. 아론이 지팡이를 잡고서, 팔을 내밀어 땅의 먼지를 치니, 먼지가 이로 변하여, 사람과 짐승들에게 이가 생겼다. 온 이집트 땅의 먼지가 모두 이로 변하였다.",
     Chn:"他们就这样行。亚伦伸杖击打地上的尘土，就在人身上和牲畜身上有了虱子；埃及遍地的尘土都变成虱子了。",
     Eng:"They did this, and when Aaron stretched out his hand with the staff and struck the dust of the ground, gnats came upon men and animals. All the dust throughout the land of Egypt became gnats.",
     Ind:"Lalu mereka berbuat demikian; Harun mengulurkan tangannya dengan tongkatnya dan memukulkannya ke debu tanah, maka nyamuk-nyamuk itu hinggap pada manusia dan pada binatang. Segala debu tanah menjadi nyamuk di seluruh tanah Mesir."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Para ahli itupun membuat yang demikian juga dengan ilmu-ilmu manteranya untuk mengadakan nyamuk-nyamuk, tetapi mereka tidak dapat. Demikianlah nyamuk-nyamuk itu hinggap pada manusia dan pada binatang."
   },
   {Bible:"Exodus", Chapter:8, Verse:19, Page:1,
-    Kor:"마술사들이 바로에게 그것은 신의 a권능이 아니고서는 할 수 없는 일이라고 말하였다. 그러나 주님께서 말씀하신 대로, 바로는 여전히 고집을 부리고, 그들의 말을 듣지 않았다.(a 히, '손가락')",
+    Kor:"마술사들이 바로에게 그것은 신의 권능이 아니고서는 할 수 없는 일이라고 말하였다. 그러나 주께서 말씀하신 대로, 바로는 여전히 고집을 부리고, 그들의 말을 듣지 않았다.",
     Chn:"行法术的就对法老说：「这是　神的手段。」法老心里刚硬，不肯听摩西、亚伦，正如耶和华所说的。",
     Eng:"The magicians said to Pharaoh, \"This is the finger of God.\" But Pharaoh's heart was hard and he would not listen, just as the LORD had said.",
     Ind:"Lalu berkatalah para ahli itu kepada Firaun: \"Inilah tangan Allah.\" Tetapi hati Firaun berkeras, dan ia tidak mau mendengarkan mereka--seperti yang telah difirmankan TUHAN."
   },
   {Bible:"Exodus", Chapter:8, Verse:20, Page:1,
-    Kor:"<넷째 재앙:파리 소동> ○주님께서 모세에게 말씀하셨다. \"너는 아침에 일찍이 일어나서, 바로 앞에 나서라. 그가 물가로 나갈 것이다. 그 때에 너는 그에게 이르기를 '주님께서 이렇게 말씀하신다.' 하고 '나의 백성을 보내라. 그들이 나에게 예배를 드리게 하여라.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 아침에 일찍이 일어나서, 바로 앞에 나서라. 그가 물가로 나갈 것이다. 그 때에 너는 그에게 이르기를 '주께서 이렇게 말씀하신다. 나의 백성을 보내라. 그들이 나에게 예배를 드리게 하여라.",
     Chn:"耶和华对摩西说：「你清早起来，法老来到水边，你站在他面前，对他说：『耶和华这样说：容我的百姓去，好事奉我。",
     Eng:"Then the LORD said to Moses, \"Get up early in the morning and confront Pharaoh as he goes to the water and say to him, 'This is what the LORD says: Let my people go, so that they may worship me.",
     Ind:"Berfirmanlah TUHAN kepada Musa: \"Bangunlah pagi-pagi dan berdirilah menantikan Firaun, pada waktu biasanya ia keluar ke sungai, dan katakanlah kepadanya: Beginilah firman TUHAN: Biarkanlah umat-Ku pergi, supaya mereka beribadah kepada-Ku;"
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Tetapi pada hari itu Aku akan mengecualikan tanah Gosyen, di mana umat-Ku tinggal, sehingga di sana tidak ada terdapat pikat, supaya engkau mengetahui, bahwa Aku, TUHAN, ada di negeri ini."
   },
   {Bible:"Exodus", Chapter:8, Verse:23, Page:1,
-    Kor:"내가 나의 백성과 너의 백성을 b구별할 것이니, 이런 이적이 내일 일어날 것이다' 하여라.\"(b 칠십인역과 불가타를 따름. 히, '속량할 것이니')",
+    Kor:"내가 나의 백성과 너의 백성을 구별할 것이니, 이런 이적이 내일 일어날 것이다' 하여라.\"",
     Chn:"我要将我的百姓和你的百姓分别出来。明天必有这神迹。』」",
     Eng:"I will make a distinction between my people and your people. This miraculous sign will occur tomorrow.'\"",
     Ind:"Sebab Aku akan mengadakan perbedaan antara umat-Ku dan bangsamu. Besok tanda mujizat ini akan terjadi.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:24, Page:1,
-    Kor:"주님께서 말씀하신 대로 하시니, 파리가 무수히 바로의 궁궐과 그 신하의 집과 이집트 온 땅에 날아 들었고, 그 땅이 파리 때문에 폐허가 되었다.",
+    Kor:"주께서, 말씀하신 대로 하시니, 파리가 무수히 바로의 궁궐과 그 신하의 집과 이집트 온 땅에 날아 들었고, 그 땅이 파리 때문에 폐허가 되었다.",
     Chn:"耶和华就这样行。苍蝇成了大群，进入法老的宫殿，和他臣仆的房屋；埃及遍地就因这成群的苍蝇败坏了。",
     Eng:"And the LORD did this. Dense swarms of flies poured into Pharaoh's palace and into the houses of his officials, and throughout Egypt the land was ruined by the flies.",
     Ind:"TUHAN berbuat demikian; maka datanglah banyak-banyak pikat ke dalam istana Firaun dan ke dalam rumah pegawai-pegawainya dan ke seluruh tanah Mesir; negeri itu menderita karena pikat itu."
   },
   {Bible:"Exodus", Chapter:8, Verse:25, Page:1,
-    Kor:"○그러자 바로가 모세와 아론을 불러들여서 말하였다. \"이제 너희는 가되, 이 땅 안에서 너희 하나님께 제사를 드려라.\"",
+    Kor:"○그러자 바로가 모세와 아론을 불러들여서 말하였다. \"이제 너희는 가서, 이 땅 안에서 너희 하나님께 제사를 드려라.\"",
     Chn:"法老召了摩西、亚伦来，说：「你们去，在这地祭祀你们的　神吧！」",
     Eng:"Then Pharaoh summoned Moses and Aaron and said, \"Go, sacrifice to your God here in the land.\"",
     Ind:"Lalu Firaun memanggil Musa dan Harun serta berkata: \"Pergilah, persembahkanlah korban kepada Allahmu di negeri ini.\""
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"Lalu kata Firaun: \"Baik, aku akan membiarkan kamu pergi untuk mempersembahkan korban kepada TUHAN, Allahmu, di padang gurun; hanya janganlah kamu pergi terlalu jauh. Berdoalah untuk aku.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:29, Page:1,
-    Kor:"모세가 말하였다. \"보십시오, 이제 제가 임금님 앞에서 물러가서 주님께 기도하겠습니다. 내일이면 파리 떼가 바로 임금님과 신하들과 백성들에게서 떠나갈 것입니다. 그러나 바로 임금님이 우리를 속이고 백성을 보내지 않으셔서 우리가 주님께 제사를 드리지 못하는 일이 다시는 없게 하여 주시기 02 8:바랍니다.\"",
+    Kor:"모세가 말하였다. \"보십시오, 이제, 제가 임금님 앞에서 물러가서 주께 기도하겠습니다. 내일이면, 파리 떼가 바로 임금님과 신하들과 백성들에게서 떠나갈 것입니다. 그러나 바로 임금님이 우리를 속이고, 백성을 보내지 않으셔서, 우리가 주께 제사를 드리지 못하는 일이, 다시는 없게 하여 주시기 바랍니다.\"",
     Chn:"摩西说：「我要出去求耶和华，使成群的苍蝇明天离开法老和法老的臣仆并法老的百姓；法老却不可再行诡诈，不容百姓去祭祀耶和华。」",
     Eng:"Moses answered, \"As soon as I leave you, I will pray to the LORD, and tomorrow the flies will leave Pharaoh and his officials and his people. Only be sure that Pharaoh does not act deceitfully again by not letting the people go to offer sacrifices to the LORD.\"",
     Ind:"Lalu kata Musa: \"Sekarang aku keluar meninggalkan tuanku dan akan berdoa kepada TUHAN, maka pikat itu akan dijauhkan besok dari Firaun, dari pegawai-pegawainya dan rakyatnya; hanya janganlah Firaun berlaku curang lagi dengan tidak membiarkan bangsa itu pergi untuk mempersembahkan korban kepada TUHAN.\""
   },
   {Bible:"Exodus", Chapter:8, Verse:30, Page:1,
-    Kor:"모세가 바로 앞에서 물러나와 주님께 기도하니,",
+    Kor:"모세가 바로 앞에서 물러나와 주께 기도하니,",
     Chn:"于是摩西离开法老去求耶和华。",
     Eng:"Then Moses left Pharaoh and prayed to the LORD,",
     Ind:"Sesudah itu keluarlah Musa meninggalkan Firaun, lalu berdoa kepada TUHAN."
   },
   {Bible:"Exodus", Chapter:8, Verse:31, Page:1,
-    Kor:"주님께서 모세의 기도를 들어 주셔서, 파리가 바로와 그의 신하들과 백성에게서 모두 떠나서 한 마리도 남아 있지 않게 하셨다.",
+    Kor:"주께서 모세의 기도를 들어 주셔서, 파리가 바로와 그의 신하들과 백성에게서 모두 떠나, 한 마리도 남아 있지 않게 하셨다.",
     Chn:"耶和华就照摩西的话行，叫成群的苍蝇离开法老和他的臣仆并他的百姓，一个也没有留下。",
     Eng:"and the LORD did what Moses asked: The flies left Pharaoh and his officials and his people; not a fly remained.",
     Ind:"Dan TUHAN membuat seperti yang dikatakan Musa: pikat itu dijauhkan-Nya dari Firaun, dari pegawai-pegawainya dan rakyatnya; seekorpun tidak ada yang tinggal."

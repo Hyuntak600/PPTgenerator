@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",43,27);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:43, Verse:1, Page:1,
-    Kor:"<주님께서 성전에 드시다> 그 뒤에 그가 나를 데리고 동쪽으로 난 문으로 갔다.",
+    Kor:"그 뒤에 그가 나를 데리고 동쪽으로 난 문으로 갔다.",
     Chn:"以后，他带我到一座门，就是朝东的门。",
     Eng:"Then the man brought me to the gate facing east,",
     Ind:"Lalu dibawanya aku ke pintu gerbang, yaitu pintu gerbang yang menghadap ke sebelah timur."
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"Sungguh, kemuliaan Allah Israel datang dari sebelah timur dan terdengarlah suara seperti suara air terjun yang menderu dan bumi bersinar karena kemuliaan-Nya."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:3, Page:1,
-    Kor:"그 모습이, 내가 본 환상, 곧 주님께서 예루살렘 도성을 멸하러 오셨을 때에 본 모습과 같았으며, 또 내가 그발 강 가에서 본 모습과도 같았다. 그래서 내가 얼굴을 땅에 대고 엎드렸다.",
+    Kor:"그 모습이, 내가 본 환상, 곧 주께서 예루살렘 도성을 멸하러 오셨을 때에 본 모습과 같았으며, 또 내가 그발 강 가에서 본 모습과도 같았다. 그래서 내가 얼굴을 땅에 대고 엎드렸다.",
     Chn:"其状如从前他来灭城的时候我所见的异象，那异象如我在迦巴鲁河边所见的异象，我就俯伏在地。",
     Eng:"The vision I saw was like the vision I had seen when he came to destroy the city and like the visions I had seen by the Kebar River, and I fell facedown.",
     Ind:"Yang kelihatan kepadaku itu adalah seperti yang kelihatan kepadaku ketika Ia datang untuk memusnahkan kota itu dan seperti yang kelihatan kepadaku di tepi sungai Kebar, maka aku sembah sujud."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:4, Page:1,
-    Kor:"그러자 주님께서 영광에 싸여서, 동쪽으로 난 문을 지나 성전 안으로 들어가셨다.",
+    Kor:"그러자 주께서 영광에 싸여서, 동쪽으로 난 문을 지나 성전 안으로 들어가셨다.",
     Chn:"耶和华的荣光从朝东的门照入殿中。",
     Eng:"The glory of the LORD entered the temple through the gate facing east.",
     Ind:"Sedang kemuliaan TUHAN masuk di dalam Bait Suci melalui pintu gerbang yang menghadap ke sebelah timur,"
   },
   {Bible:"Ezekiel", Chapter:43, Verse:5, Page:1,
-    Kor:"그 때에 주님의 영이 나를 들어 올려, 안뜰로 데리고 갔는데, 주님의 영광이 성전을 가득 채웠다!",
+    Kor:"그 때에 주의 영이 나를 들어 올려, 안뜰로 데리고 갔는데, 주의 영광이 성전을 가득 채웠다!",
     Chn:"灵将我举起，带入内院，不料，耶和华的荣光充满了殿。",
     Eng:"Then the Spirit lifted me up and brought me into the inner court, and the glory of the LORD filled the temple.",
     Ind:"Roh itu mengangkat aku dan membawa aku ke pelataran dalam, sungguh, Bait Suci itu penuh kemuliaan TUHAN."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu aku mendengar Dia berfirman kepadaku dari dalam Bait Suci itu--orang yang mengukur Bait Suci itu berdiri di sampingku--"
   },
   {Bible:"Ezekiel", Chapter:43, Verse:7, Page:1,
-    Kor:"나는 말하는 소리를 들었다. \"사람아, 이 곳은 내 보좌가 있는 곳, 내가 발을 딛는 곳, 내가 여기 이스라엘 자손과 더불어 영원히 살 곳이다. 그래서 이스라엘 자손이 내 거룩한 이름을 다시는 더럽히지 못할 것이다. 백성이나 왕들이 음란을 피우거나, 죽은 왕들의 시체를 근처에 묻어서, 내 거룩한 이름을 더럽히는 일이, 다시는 없을 것이다.",
+    Kor:"나는 말하는 소리를 들었다. \"사람아, 이 곳은 내 보좌가 있는 곳, 내 발을 딛는 곳, 내가 여기 이스라엘 자손 한가운데서 영원히 살 곳이다. 그래서 이스라엘 자손이 내 거룩한 이름을 다시는 더럽히지 못할 것이다. 백성이나 왕들이 음란을 피우거나, 죽은 왕들의 시체를 근처에 묻어서, 내 거룩한 이름을 더럽히는 일이, 다시는 없을 것이다.",
     Chn:"他对我说：「人子啊，这是我宝座之地，是我脚掌所踏之地。我要在这里住，在以色列人中直到永远。以色列家和他们的君王必不再玷污我的圣名，就是行邪淫、在锡安 的高处葬埋他们君王的尸首，",
     Eng:"He said: \"Son of man, this is the place of my throne and the place for the soles of my feet. This is where I will live among the Israelites forever. The house of Israel will never again defile my holy name--neither they nor their kings--by their prostitution and the lifeless idols of their kings at their high places.",
     Ind:"dan Ia berfirman kepadaku: \"Hai anak manusia, inilah tempat takhta-Ku dan inilah tempat tapak kaki-Ku; di sinilah Aku akan diam di tengah-tengah orang Israel untuk selama-lamanya dan kaum Israel tidak lagi akan menajiskan nama-Ku yang kudus, baik mereka maupun raja-raja mereka, dengan persundalan mereka atau dengan mayat raja-raja mereka yang sudah mati;"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"juga tidak dengan meletakkan ambang pintu mereka dekat ambang pintu-Ku atau mendirikan tiang-tiang pintu mereka dekat tiang-tiang pintu-Ku, sehingga hanya dinding yang memisahkan Aku dari mereka. Mereka menajiskan nama-Ku yang kudus dengan perbuatan-perbuatan mereka yang keji, maka dari itu Aku menghabiskan mereka dalam amarah-Ku."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:9, Page:1,
-    Kor:"그러나 이제 그들은 음란한 행실을 멀리하고, 시체들을 내 앞에서 치워 버려야 할 것이다. 그러면 내가 그들과 더불어 영원히 살겠다.",
+    Kor:"그러나, 이제 그들은 음란한 행실을 멀리하고, 시체들을 내 앞에서 치워 버려야 할 것이다. 그러면 내가 그들 한가운데서 영원히 살겠다.",
     Chn:"现在他们当从我面前远除邪淫和他们君王的尸首，我就住在他们中间直到永远。",
     Eng:"Now let them put away from me their prostitution and the lifeless idols of their kings, and I will live among them forever.",
     Ind:"Sekarang, mereka akan menjauhkan ketidaksetiaan mereka dan mayat raja-raja mereka dari pada-Ku dan Aku akan diam di tengah-tengah mereka untuk selama-lamanya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Maka engkau, hai anak manusia, terangkanlah kepada kaum Israel tentang Bait Suci ini, agar mereka menjadi malu melihat kesalahan-kesalahan mereka, juga bagaimana Bait Suci itu kelihatan dan rancangannya."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:11, Page:1,
-    Kor:"그들이 저지른 모든 일을 스스로 부끄러워하거든, 너는 이 성전의 설계를 그들에게 가르쳐 주어라. 성전의 배치도, 성전의 출입구, 이 성전의 건축 양식 등 모든 규례와 법도와 모든 율례를 그들에게 알려 주고, 그들이 보는 앞에서 글로 써 주어서, 그들이 이 성전의 건축 설계의 법도와 규례를 지키고 행하게 하여라.",
+    Kor:"그들이 저지른 모든 일을 스스로 부끄러워하거든, 너는 이 성전의 설계도 그들에게 가르쳐 주어라. 성전의 배치도, 성전의 출입구, 이 성전의 건축 양식 등 모든 규례와 법도와 모든 율례를 그들에게 알려 주고, 그들이 보는 앞에서 글로 써 주어서, 그들이 이 성전의 건축 설계의 법도와 규례를 지키고 행하게 하여라.",
     Chn:"他们若因自己所行的一切事惭愧，你就将殿的规模、样式、出入之处，和一切形状、典章、礼仪、法则指示他们，在他们眼前写上，使他们遵照殿的一切规模典章去做。",
     Eng:"and if they are ashamed of all they have done, make known to them the design of the temple--its arrangement, its exits and entrances--its whole design and all its regulations and laws. Write these down before them so that they may be faithful to its design and follow all its regulations.",
     Ind:"Dan kalau mereka merasa malu melihat segala sesuatu yang dilakukan mereka, gambarlah Bait Suci itu, bagian-bagiannya, pintu-pintu keluar dan pintu-pintu masuknya dan seluruh bagannya; beritahukanlah kepada mereka segala peraturannya dan hukumnya dan tuliskanlah itu di hadapan mereka, agar mereka melakukan dengan setia segala hukumnya dan peraturannya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Inilah ketentuan mengenai Bait Suci itu: seluruh daerah yang di puncak gunung itu adalah maha kudus. Sungguh, inilah ketentuan mengenai Bait Suci itu.\""
   },
   {Bible:"Ezekiel", Chapter:43, Verse:13, Page:1,
-    Kor:"<번제단의 모양과 크기> ○자로 잰 제단의 크기는 다음과 같다. (한 자는 팔꿈치에서부터 손가락 끝에다 손바닥 너비만큼 더한 것이다.) 제단 밑받침의 높이는 한 자이고, 그 사방 가장자리의 너비도 한 자이다. 그 가에는 빙 돌아가며, 높이가 한 뼘 되는 턱이 있는데, 이것이 제단의 밑받침이다.",
+    Kor:"○자로 잰 제단의 크기는 다음과 같다. (한 자는 팔꿈치에서부터 손가락 끝에다 손바닥 너비만큼 더한 것이다.) 제단 밑받침의 높이는 한 자이고, 그 사방 가장자리의 너비도 한 자이다. 그 가에는 빙 돌아가며, 높이가 한 뼘 되는 턱이 있는데, 이것이 제단의 밑받침이다.",
     Chn:"以下量祭坛，是以肘为度（这肘是一肘零一掌）。底座高一肘，边宽一肘，四围起边高一掌，这是坛的座。",
     Eng:"\"These are the measurements of the altar in long cubits, that cubit being a cubit and a handbreadth: Its gutter is a cubit deep and a cubit wide, with a rim of one span around the edge. And this is the height of the altar:",
     Ind:"Inilah ukuran-ukuran mezbah itu dalam hasta, yaitu hasta yang setapak tangan lebih panjang dari hasta biasa: paritnya adalah satu hasta dalamnya dan satu hasta lebarnya dan sekeliling parit itu ada tepi yang tingginya satu jengkal. Dan inilah tinggi mezbah itu:"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Jalur yang mengelilingi perapian itu panjangnya empat belas hasta dan lebarnya empat belas hasta, jadi empat persegi juga. Sekeliling mezbah itu ada parit, yang satu hasta lebarnya dan sekeliling parit itu ada tepinya, yang setengah hasta lebarnya. Tangga mezbah itu adalah sebelah timur."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:18, Page:1,
-    Kor:"<번제단의 봉헌> ○그가 나에게 또 말씀하셨다. ○\"사람아, 나 주 하나님이 말한다. 번제물을 바치고 피를 뿌릴 제단을 만들 때에 지킬 번제단의 규례는 이러하다.",
+    Kor:"○그가 나에게 또 말씀하셨다. \"사람아, 나 주 하나님이 말한다. 번제물을 바치고 피를 뿌릴 제단을 만들 때에 지킬 번제단의 규례는 이러하다.",
     Chn:"他对我说：「人子啊，主耶和华如此说：建造祭坛，为要在其上献燔祭洒血，造成的时候典章如下：",
     Eng:"Then he said to me, \"Son of man, this is what the Sovereign LORD says: These will be the regulations for sacrificing burnt offerings and sprinkling blood upon the altar when it is built:",
     Ind:"Lalu Ia berfirman kepadaku: \"Hai anak manusia, beginilah firman Tuhan ALLAH: Beginilah peraturan mengenai mezbah itu: Ketika sudah selesai dibuat dan hendak mempersembahkan korban bakaran di atasnya dan menyiramkan darah padanya,"
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tujuh hari lamanya mereka harus mengadakan pendamaian bagi mezbah itu serta mentahirkannya, dan dengan demikian mentahbiskan mezbah itu."
   },
   {Bible:"Ezekiel", Chapter:43, Verse:27, Page:1,
-    Kor:"○이 모든 날이 다 찬 뒤에는, 여드렛날 이후부터는 제사장들이 그 제단 위에 너희의 번제와 a감사제를 드리게 하여라. 그러면 내가 너희를 기쁘게 받아들이겠다. 나 주 하나님의 말이다.\"(a 또는 '친교제')",
+    Kor:"○이 모든 날이 다 찬 뒤에는, 여드렛날 이후부터는 제사장들이 그 제단 위에 너희의 번제와 감사제를 드리게 하여라. 그러면 내가 너희를 기쁘게 받아들이겠다. 나 주 하나님의 말이다.\"",
     Chn:"满了七日，自八日以后，祭司要在坛上献你们的燔祭和平安祭；我必悦纳你们。这是主耶和华说的。」",
     Eng:"At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign LORD.\"",
     Ind:"Sesudah hari-hari itu berakhir, maka pada hari kedelapan dan seterusnya imam-imam akan mengolah korban-korban bakaranmu dan korban-korban keselamatanmu di atas mezbah itu dan Aku akan berkenan kepada kamu, demikianlah firman Tuhan ALLAH.\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Daniel",5,31);
 BibleDB.add([
   {Bible:"Daniel", Chapter:5, Verse:1, Page:1,
-    Kor:"<벨사살 왕이 잔치를 베풀다> 벨사살 왕이 귀한 손님 천 명을 불러서 큰 잔치를 베풀고, 그 천 명과 더불어 술을 마셨다.",
+    Kor:"벨사살 왕이 귀한 손님 천 명을 불러서 큰 잔치를 베풀고, 그 천 명과 더불어 술을 마셨다.",
     Chn:"伯沙撒王为他的一千大臣设摆盛筵，与这一千人对面饮酒。",
     Eng:"King Belshazzar gave a great banquet for a thousand of his nobles and drank wine with them.",
     Ind:"Raja Belsyazar mengadakan perjamuan yang besar untuk para pembesarnya, seribu orang jumlahnya; dan di hadapan seribu orang itu ia minum-minum anggur."
   },
   {Bible:"Daniel", Chapter:5, Verse:2, Page:1,
-    Kor:"벨사살 왕은 술을 마시면서 명령을 내려서, 그의 a아버지 느부갓네살 왕이 예루살렘 성전에서 가져 온 금그릇과 은그릇들을 가져 오게 하였다. 왕과 귀한 손님과 왕비들과 후궁들이 모두 그것으로 술을 마시게 할 참이었다.(a 또는 '조상' 또는 '선왕')",
+    Kor:"벨사살 왕은 술을 마시면서 명령을 내려서, 그의 아버지 느부갓네살 왕이 예루살렘 성전에서 가져 온 금그릇과 은그릇들을 가져 오게 하였다. 왕과 귀한 손님과 왕비들과 후궁들이 모두 그것으로 술을 마시게 할 참이었다.",
     Chn:"伯沙撒欢饮之间，吩咐人将他父尼布甲尼撒从耶路撒冷殿中所掠的金银器皿拿来，王与大臣、皇后、妃嫔好用这器皿饮酒。",
     Eng:"While Belshazzar was drinking his wine, he gave orders to bring in the gold and silver goblets that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king and his nobles, his wives and his concubines might drink from them.",
     Ind:"Dalam kemabukan anggur, Belsyazar menitahkan orang membawa perkakas dari emas dan perak yang telah diambil oleh Nebukadnezar, ayahnya, dari dalam Bait Suci di Yerusalem, supaya raja dan para pembesarnya, para isteri dan para gundik mereka minum dari perkakas itu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu raja menjadi pucat, dan pikiran-pikirannya menggelisahkan dia; sendi-sendi pangkal pahanya menjadi lemas dan lututnya berantukan."
   },
   {Bible:"Daniel", Chapter:5, Verse:7, Page:1,
-    Kor:"왕은 큰소리로 외쳐서, 주술가들과 점성술가들과 b점성가들을 불러오게 하였다. 그들이 들어왔을 때에, 그는 바빌론의 지혜자들에게 말하였다. \"누구든지 이 글자를 읽고서, 그 뜻을 나에게 알려 주는 사람은 자색 옷을 입히고, 금 목걸이를 목에 걸어 주며, 이 나라에서 셋째 가는 통치자로 삼겠다.\"(b 또는 '갈대아 사람들')",
+    Kor:"왕은 큰소리로 외쳐서, 주술가들과 점성술가들과 점성가들을 불러오게 하였다. 그들이 들어왔을 때에, 그는 바빌론의 지혜자들에게 말하였다. \"누구든지 이 글자를 읽고서, 그 뜻을 나에게 알려 주는 사람은 자색 옷을 입히고, 금 목걸이를 목에 걸어 주며, 이 나라에서 셋째 가는 통치자로 삼겠다.\"",
     Chn:"大声吩咐将用法术的和迦勒底人并观兆的领进来，对巴比伦的哲士说，谁能读这文字，把讲解告诉我，他必身穿紫袍，项带金链，在我国中位列第三。",
     Eng:"The king called out for the enchanters, astrologers and diviners to be brought and said to these wise men of Babylon, \"Whoever reads this writing and tells me what it means will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.\"",
     Ind:"Kemudian berserulah raja dengan keras, supaya para ahli jampi, para Kasdim dan para ahli nujum dibawa menghadap. Berkatalah raja kepada para orang bijaksana di Babel itu: \"Setiap orang yang dapat membaca tulisan ini dan dapat memberitahukan maknanya kepadaku, kepadanya akan dikenakan pakaian dari kain ungu, dan lehernya akan dikalungkan rantai emas, dan di dalam kerajaanku ia akan mempunyai kekuasaan sebagai orang ketiga.\""
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Sesudah itu sangatlah cemas hati raja Belsyazar dan ia menjadi pucat; juga para pembesarnya terperanjat."
   },
   {Bible:"Daniel", Chapter:5, Verse:10, Page:1,
-    Kor:"○왕과 귀한 손님들의 고함 소리를 듣고서, c왕의 어머니가 연회장으로 들어왔다. c왕의 어머니가 왕에게 말하였다. \"임금님, 임금님의 만수무강을 빕니다. 임금님은 너무 번민하지 마시고, 얼굴에서 근심을 떨쳐 버리시기 바랍니다.(c 또는 '왕비')",
+    Kor:"○왕과 귀한 손님들의 고함 소리를 듣고서, 왕의 어머니가 연회장으로 들어왔다. 왕의 어머니가 왕에게 말하였다. \"임금님, 임금님의 만수무강을 빕니다. 임금님은 너무 번민하지 마시고, 얼굴에서 근심을 떨쳐 버리시기 바랍니다.",
     Chn:"太后因王和他大臣所说的话，就进入宴宫，说：「愿王万岁！你心意不要惊惶，脸面不要变色。",
     Eng:"The queen, hearing the voices of the king and his nobles, came into the banquet hall. \"O king, live forever!\" she said. \"Don't be alarmed! Don't look so pale!",
     Ind:"Karena perkataan raja dan para pembesarnya itu masuklah permaisuri ke dalam ruang perjamuan; berkatalah ia: \"Ya raja, kekallah hidup tuanku! Janganlah pikiran-pikiran tuanku menggelisahkan tuanku dan janganlah menjadi pucat;"
   },
   {Bible:"Daniel", Chapter:5, Verse:11, Page:1,
-    Kor:"임금님의 나라에 거룩한 d신들의 영을 받은 한 사람이 있습니다. 그는 임금님의 아버지 때에, 명철과 총명과 신들의 지혜와 같은 지혜를 가진 사람으로 알려진 인물입니다. 임금님의 아버지 느부갓네살 왕께서는 그 사람을 마술사들과 주술가들과 점성술가들과 b점성가들의 우두머리로 세우셨습니다.(b 또는 '갈대아 사람들' d 또는 '하나님')",
+    Kor:"임금님의 나라에 거룩한 신들의 영을 받은 사람이 하나 있습니다. 그는 임금님의 아버지 때에, 명철과 총명과 신들의 지혜와 같은 지혜를 가진 사람으로 알려진 인물입니다. 임금님의 아버지 느부갓네살 왕께서는 그 사람을 마술사들과 주술가들과 점성술가들과 점성가들의 우두머리로 세우셨습니다.",
     Chn:"在你国中有一人，他里头有圣神的灵，你父在世的日子，这人心中光明，又有聪明智慧，好像神的智慧。你父尼布甲尼撒王，就是王的父，立他为术士、用法术的，和迦勒底人，并观兆的领袖。",
     Eng:"There is a man in your kingdom who has the spirit of the holy gods in him. In the time of your father he was found to have insight and intelligence and wisdom like that of the gods. King Nebuchadnezzar your father--your father the king, I say--appointed him chief of the magicians, enchanters, astrologers and diviners.",
     Ind:"sebab dalam kerajaan tuanku ada seorang yang penuh dengan roh para dewa yang kudus! Dalam zaman ayah tuanku ada terdapat pada orang itu kecerahan, akal budi dan hikmat yang seperti hikmat para dewa. Ia telah diangkat oleh raja Nebukadnezar, ayah tuanku menjadi kepala orang-orang berilmu, para ahli jampi, para Kasdim dan para ahli nujum,"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"karena pada orang itu terdapat roh yang luar biasa dan pengetahuan dan akal budi, sehingga dapat menerangkan mimpi, menyingkapkan hal-hal yang tersembunyi dan menguraikan kekusutan, yakni pada Daniel yang dinamai Beltsazar oleh raja. Baiklah sekarang Daniel dipanggil dan ia akan memberitahukan maknanya!\""
   },
   {Bible:"Daniel", Chapter:5, Verse:13, Page:1,
-    Kor:"<다니엘이 글자를 해독하다> ○다니엘이 왕 앞에 나아오니, 왕이 다니엘에게 물었다. \"그대가 바로 나의 부왕께서 유다에서 데려온 유다 포로 가운데 하나인 그 다니엘이란 사람이오?",
+    Kor:"○다니엘이 왕 앞에 나아오니, 왕이 다니엘에게 물었다. \"그대가 바로 나의 부왕께서 유다에서 데려온 유다 포로 가운데 하나인 그 다니엘이란 사람이오?",
     Chn:"但以理就被领到王前。王问但以理说：「你是被掳之犹大人中的但以理吗？就是我父王从犹大掳来的吗？",
     Eng:"So Daniel was brought before the king, and the king said to him, \"Are you Daniel, one of the exiles my father the king brought from Judah?",
     Ind:"Lalu dibawalah Daniel menghadap raja. Bertanyalah raja kepada Daniel: \"Engkaukah Daniel itu, salah seorang buangan yang telah diangkut oleh raja, ayahku, dari tanah Yehuda?"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Ia dihalau dari antara manusia dan hatinya menjadi sama seperti hati binatang, dan tempat tinggalnya ada di antara keledai hutan; kepadanya diberikan makanan rumput seperti kepada lembu, dan tubuhnya basah oleh embun dari langit, sampai ia mengakui, bahwa Allah, Yang Mahatinggi, berkuasa atas kerajaan manusia dan mengangkat siapa yang dikehendaki-Nya untuk kedudukan itu."
   },
   {Bible:"Daniel", Chapter:5, Verse:22, Page:1,
-    Kor:"○느부갓네살의 e아드님이신 벨사살 임금님은 이 모든 일을 아시면서도, 마음을 겸손하게 낮추지 않으시고,(e 또는 '후계자' 또는 '자손')",
+    Kor:"○느부갓네살의 아들이신 벨사살 임금님은 이 모든 일을 아시면서도, 마음을 겸손하게 낮추지 않으시고,",
     Chn:"伯沙撒啊，你是他的儿子，你虽知道这一切，你心仍不自卑，",
     Eng:"\"But you his son, O Belshazzar, have not humbled yourself, though you knew all this.",
     Ind:"Tetapi tuanku, Belsyazar, anaknya, tidak merendahkan diri, walaupun tuanku mengetahui semuanya ini."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Sebab itu Ia menyuruh punggung tangan itu dan dituliskanlah tulisan ini."
   },
   {Bible:"Daniel", Chapter:5, Verse:25, Page:1,
-    Kor:"기록된 글자는 바로 'f메네 메네 g데겔'과 h'바르신'입니다.(f '계산이 되다' 또는 '(화폐 단위인)미나' g '저울에 달림' 또는 '(화폐 단위인)세겔' h 페레스의 복수. '페르시아' 또는 '반 미나' 또는 '반 세겔')",
+    Kor:"기록된 글자는 바로 '메네 메네 데겔'과 '바르신'입니다.",
     Chn:"「所写的文字是：『弥尼，弥尼，提客勒，乌法珥新。』",
     Eng:"\"This is the inscription that was written: MENE, MENE, TEKEL, PARSIN",
     Ind:"Maka inilah tulisan yang tertulis itu: Mene, mene, tekel ufarsin."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Tekel: tuanku ditimbang dengan neraca dan didapati terlalu ringan;"
   },
   {Bible:"Daniel", Chapter:5, Verse:28, Page:1,
-    Kor:"i'바르신'은 임금님의 왕국이 둘로 i나뉘어서 메대와 k페르시아 사람에게 넘어갔다는 뜻입니다.\"(i 아람어, '페레스' i 아람어, '페리삿' k 아람어, '파라스'. '나뉘다'라는 말과 '페르시아'라는 이름이 아람어에서는 발음이 비슷함)",
+    Kor:"'바르신'은 임금님의 왕국이 둘로 나뉘어서 메대와 페르시아 사람에게 넘어갔다는 뜻입니다.\"",
     Chn:"毗勒斯，就是你的国分裂，归与米底亚人和波斯人。」",
     Eng:"Peres: Your kingdom is divided and given to the Medes and Persians.\"",
     Ind:"Peres: kerajaan tuanku dipecah dan diberikan kepada orang Media dan Persia.\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Lalu atas titah Belsyazar dikenakanlah kepada Daniel pakaian dari kain ungu dan pada lehernya dikalungkan rantai emas, dan dimaklumkanlah tentang dia, bahwa di dalam kerajaan ia akan mempunyai kekuasaan sebagai orang ketiga."
   },
   {Bible:"Daniel", Chapter:5, Verse:30, Page:1,
-    Kor:"○바로 그 날 밤에 l바빌로니아의 벨사살 왕은 살해되었고,(l 또는 '갈대아')",
+    Kor:"○바로 그 날 밤에 바빌로니아의 벨사살 왕은 살해되었고,",
     Chn:"当夜，迦勒底王伯沙撒被杀。",
     Eng:"That very night Belshazzar, king of the Babylonians, was slain,",
     Ind:"Pada malam itu juga terbunuhlah Belsyazar, raja orang Kasdim itu."

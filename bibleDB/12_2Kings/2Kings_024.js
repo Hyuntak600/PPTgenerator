@@ -9,19 +9,19 @@ BibleDB.add([
     Ind:"Dalam zamannya majulah berperang Nebukadnezar, raja Babel, lalu Yoyakim menjadi takluk kepadanya tiga tahun lamanya; tetapi kemudian Yoyakim berbalik dan memberontak terhadap dia."
   },
   {Bible:"2Kings", Chapter:24, Verse:2, Page:1,
-    Kor:"주님께서는 바빌로니아 군대와 시리아 군대와 모압 군대와 암몬 자손의 군대를 보내셔서, 여호야김과 싸우게 하셨다. 이와 같이 주님께서 그들을 보내신 것은, 자기의 종 예언자들을 시켜서 하신 말씀대로, 유다를 쳐서 멸망시키려는 것이었다.",
+    Kor:"주께서는 바빌로니아 군대와 시리아 군대와 모압 군대와 암몬 자손의 군대를 보내셔서, 여호야김과 싸우게 하셨다. 이와 같이 주께서 그들을 보내신 것은, 자기의 종 예언자들을 시켜서 하신 말씀대로, 유다를 쳐서 멸망시키려는 것이었다.",
     Chn:"耶和华使迦勒底军、亚兰军、摩押军，和亚扪人的军来攻击约雅敬，毁灭犹大，正如耶和华借他仆人众先知所说的。",
     Eng:"The LORD sent Babylonian, Aramean, Moabite and Ammonite raiders against him. He sent them to destroy Judah, in accordance with the word of the LORD proclaimed by his servants the prophets.",
     Ind:"TUHAN menyuruh gerombolan-gerombolan Kasdim, gerombolan-gerombolan Aram, gerombolan-gerombolan Moab dan gerombolan-gerombolan bani Amon melawan Yoyakim; Ia menyuruh mereka melawan Yehuda untuk membinasakannya sesuai dengan firman TUHAN yang diucapkan-Nya dengan perantaraan para hamba-Nya, yaitu para nabi."
   },
   {Bible:"2Kings", Chapter:24, Verse:3, Page:1,
-    Kor:"이것은, 므낫세가 지은 그 죄 때문에 그들을 주님 앞에서 내쫓으시겠다고 하신 주님의 말씀이, 유다에게서 성취된 일이었다.",
+    Kor:"이것은, 므낫세가 지은 그 죄 때문에 그들을 주 앞에서 내쫓으시겠다고 하신 주의 말씀이, 유다에게서 성취된 일이었다.",
     Chn:"这祸临到犹大人，诚然是耶和华所命的，要将他们从自己面前赶出，是因玛拿西所犯的一切罪；",
     Eng:"Surely these things happened to Judah according to the LORD'S command, in order to remove them from his presence because of the sins of Manasseh and all he had done,",
     Ind:"Sungguh, hal itu terjadi kepada Yehuda sesuai dengan titah TUHAN untuk menjauhkan mereka dari hadapan-Nya oleh karena dosa-dosa Manasye, setimpal dengan segala yang dilakukannya,"
   },
   {Bible:"2Kings", Chapter:24, Verse:4, Page:1,
-    Kor:"더욱이 죄 없는 사람을 죽여 예루살렘을 죄 없는 사람의 피로 가득 채운 그의 죄를, 주님께서는 결코 용서하실 수 없으셨기 때문이다.",
+    Kor:"더욱이 죄 없는 사람을 죽여 예루살렘을 죄 없는 사람의 피로 가득 채운 그의 죄를, 주께서는 결코 용서하실 수 없으셨기 때문이다.",
     Chn:"又因他流无辜人的血，充满了耶路撒冷；耶和华决不肯赦免。",
     Eng:"including the shedding of innocent blood. For he had filled Jerusalem with innocent blood, and the LORD was not willing to forgive.",
     Ind:"dan juga oleh karena darah orang yang tidak bersalah yang telah ditumpahkannya, sebab ia telah membuat Yerusalem penuh dengan darah orang yang tidak bersalah, dan TUHAN tidak mau mengampuninya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Raja Mesir tidak lagi keluar berperang dari negerinya, sebab raja Babel telah merebut segala yang termasuk wilayah raja Mesir mulai dari sungai Mesir sampai ke sungai Efrat."
   },
   {Bible:"2Kings", Chapter:24, Verse:8, Page:1,
-    Kor:"<유다 왕 여호야긴(대하 36:9-10)> ○여호야긴은 왕이 되었을 때에 열여덟 살이었다. 그는 예루살렘에서 석 달 동안 다스렸다. 그의 어머니 느후스다는 예루살렘 출신인 엘라단의 딸이다.",
+    Kor:"○여호야긴은 왕이 되었을 때에, 열여덟 살이었다. 그는 예루살렘에서 석 달 동안 다스렸다. 그의 어머니 느후스다는 예루살렘 출신인 엘라단의 딸이다.",
     Chn:"约雅斤登基的时候年十八岁，在耶路撒冷作王三个月。他母亲名叫尼护施她，是耶路撒冷人以利拿单的女儿。",
     Eng:"Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother's name was Nehushta daughter of Elnathan; she was from Jerusalem.",
     Ind:"Yoyakhin berumur delapan belas tahun pada waktu ia menjadi raja dan tiga bulan lamanya ia memerintah di Yerusalem. Nama ibunya ialah Nehusta binti Elnatan, dari Yerusalem."
   },
   {Bible:"2Kings", Chapter:24, Verse:9, Page:1,
-    Kor:"여호야긴은 조상이 하였던 것처럼, 주님께서 보시기에 악한 일을 하였다.",
+    Kor:"여호야긴은 조상이 하였던 것처럼, 주께서 보시기에 악한 일을 하였다.",
     Chn:"约雅斤行耶和华眼中看为恶的事，效法他父亲一切所行的。",
     Eng:"He did evil in the eyes of the LORD, just as his father had done.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN tepat seperti yang dilakukan ayahnya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu keluarlah Yoyakhin, raja Yehuda, mendapatkan raja Babel, ia sendiri, ibunya, pegawai-pegawainya, para pembesarnya dan pegawai-pegawai istananya. Raja Babel menangkap dia pada tahun yang kedelapan dari pemerintahannya."
   },
   {Bible:"2Kings", Chapter:24, Verse:13, Page:1,
-    Kor:"그리고 느부갓네살은 주님의 성전 안에 있는 보물과 왕궁 안에 있는 보물들을 모두 탈취하여 갔고, 이스라엘의 솔로몬 왕이 만든 주님의 성전의 금그릇들을 모두 산산조각 내어서 깨뜨려 버렸다. 이것은 주님께서 미리 말씀하신 대로 된 일이다.",
+    Kor:"그리고 느부갓네살은 주의 성전 안에 있는 보물과 왕궁 안에 있는 보물들을 모두 탈취하여 갔고, 이스라엘의 솔로몬 왕이 만든 주의 성전의 금그릇들을 모두 산산조각 내어서 깨뜨려 버렸다. 이것은 주께서 미리 말씀하신 대로 된 일이다.",
     Chn:"巴比伦王将耶和华殿和王宫里的宝物都拿去了，将以色列王所罗门所造耶和华殿里的金器都毁坏了，正如耶和华所说的；",
     Eng:"As the LORD had declared, Nebuchadnezzar removed all the treasures from the temple of the LORD and from the royal palace, and took away all the gold articles that Solomon king of Israel had made for the temple of the LORD.",
     Ind:"Ia mengeluarkan dari sana segala barang perbendaharaan rumah TUHAN dan barang-barang perbendaharaan istana raja; juga dikeratnya emas dari segala perkakas emas yang dibuat oleh Salomo, raja Israel, di bait TUHAN seperti yang telah difirmankan TUHAN."
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Kemudian raja Babel mengangkat Matanya, paman Yoyakhin, menjadi raja menggantikan dia dan menukar namanya menjadi Zedekia."
   },
   {Bible:"2Kings", Chapter:24, Verse:18, Page:1,
-    Kor:"<유다 왕 시드기야(대하 36:11-12; 렘 52:1-3상)> ○시드기야가 왕이 되었을 때에, 그는 스물한 살이었다. 그는 예루살렘에서 열한 해 동안 다스렸다. 그의 어머니 하무달은 리블라 출신으로 예레미야의 딸이다.",
+    Kor:"○시드기야가 왕이 되었을 때에, 그는 스물한 살이었다. 그는 예루살렘에서 열한 해 동안 다스렸다. 그의 어머니 하무달은 립나 출신으로 예레미야의 딸이다.",
     Chn:"西底家登基的时候年二十一岁，在耶路撒冷作王十一年。他母亲名叫哈慕她，是立拿人耶利米的女儿。",
     Eng:"Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother's name was Hamutal daughter of Jeremiah; she was from Libnah.",
     Ind:"Zedekia berumur dua puluh satu tahun pada waktu ia menjadi raja dan sebelas tahun lamanya ia memerintah di Yerusalem. Nama ibunya ialah Hamutal binti Yeremia, dari Libna."
   },
   {Bible:"2Kings", Chapter:24, Verse:19, Page:1,
-    Kor:"그는 여호야김이 하였던 것과 똑같이, 주님께서 보시기에 악한 일을 하였다.",
+    Kor:"그는 여호야김이 하였던 것과 똑같이, 주께서 보시기에 악한 일을 하였다.",
     Chn:"西底家行耶和华眼中看为恶的事，是照约雅敬一切所行的。",
     Eng:"He did evil in the eyes of the LORD, just as Jehoiakim had done.",
     Ind:"Ia melakukan apa yang jahat di mata TUHAN tepat seperti yang dilakukan Yoyakim."
   },
   {Bible:"2Kings", Chapter:24, Verse:20, Page:1,
-    Kor:"예루살렘과 유다가 주님을 그토록 진노하시게 하였기 때문에, 주님께서는 마침내 그들을 주님 앞에서 쫓아내셨다. <예루살렘의 멸망(대하 36:13-21; 렘 52:3하-11)> ○시드기야가 바빌로니아 왕에게 반기를 들었으므로,",
+    Kor:"예루살렘과 유다가 주님을 그토록 진노하시게 하였기 때문에, 주께서는 마침내 그들을 주님 앞에서 쫓아내셨다. ○시드기야가 바빌로니아 왕에게 반기를 들었으므로,",
     Chn:"因此耶和华的怒气在耶路撒冷和犹大发作，以致将人民从自己面前赶出。",
     Eng:"It was because of the LORD'S anger that all this happened to Jerusalem and Judah, and in the end he thrust them from his presence. Now Zedekiah rebelled against the king of Babylon.",
     Ind:"Sebab oleh karena murka Tuhanlah terjadi hal itu terhadap Yerusalem dan Yehuda, yakni bahwa Ia sampai membuang mereka dari hadapan-Nya. Zedekia memberontak terhadap raja Babel."

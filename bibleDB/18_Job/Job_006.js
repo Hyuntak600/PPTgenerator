@@ -3,7 +3,7 @@
 BibleDB.ref("Job",6,30);
 BibleDB.add([
   {Bible:"Job", Chapter:6, Verse:1, Page:1,
-    Kor:"<욥의 대답> 욥이 대답하였다.",
+    Kor:"욥이 대답하였다.",
     Chn:"约伯回答说：",
     Eng:"Then Job replied:",
     Ind:"Lalu Ayub menjawab:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Maka beratnya akan melebihi pasir di laut; oleh sebab itu tergesa-gesalah perkataanku."
   },
   {Bible:"Job", Chapter:6, Verse:4, Page:1,
-    Kor:"a전능하신 분께서 나를 과녁으로 삼고 화살을 쏘시니, 내 영혼이 그 독을 빤다. 하나님이 나를 몰아치셔서 나를 두렵게 하신다. (a 히, '샤다이')",
+    Kor:"전능하신 분께서 나를 과녁으로 삼고 화살을 쏘시니, 내 영혼이 그 독을 빤다. 하나님이 나를 몰아치셔서 나를 두렵게 하신다.",
     Chn:"因全能者的箭射入我身； 其毒，我的灵喝尽了； 　神的惊吓摆阵攻击我。",
     Eng:"The arrows of the Almighty are in me, my spirit drinks in their poison; God's terrors are marshaled against me.",
     Ind:"Karena anak panah dari Yang Mahakuasa tertancap pada tubuhku, dan racunnya diisap oleh jiwaku; kedahsyatan Allah seperti pasukan melawan aku."

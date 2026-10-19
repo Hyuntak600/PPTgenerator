@@ -3,13 +3,13 @@
 BibleDB.ref("Job",38,41);
 BibleDB.add([
   {Bible:"Job", Chapter:38, Verse:1, Page:1,
-    Kor:"<주님께서 욥에게 대답하시다> 그 때에 주님께서 욥에게 폭풍이 몰아치는 가운데서 대답하셨다.",
+    Kor:"그 때에 주께서 욥에게, 폭풍이 몰아치는 가운데서 대답하셨다.",
     Chn:"那时，耶和华从旋风中回答约伯说：",
     Eng:"Then the LORD answered Job out of the storm. He said:",
     Ind:"Maka dari dalam badai TUHAN menjawab Ayub:"
   },
   {Bible:"Job", Chapter:38, Verse:2, Page:1,
-    Kor:"\"네가 누구이기에 무지하고 헛된 말로 내 지혜를 의심하느냐?",
+    Kor:"\"네가 누구이기에, 무지하고 헛된 말로 내 지혜를 의심하느냐?",
     Chn:"谁用无知的言语使我的旨意暗昧不明？",
     Eng:"\"Who is this that darkens my counsel with words without knowledge?",
     Ind:"\"Siapakah dia yang menggelapkan keputusan dengan perkataan-perkataan yang tidak berpengetahuan?"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Atas apakah sendi-sendinya dilantak, dan siapakah yang memasang batu penjurunya"
   },
   {Bible:"Job", Chapter:38, Verse:7, Page:1,
-    Kor:"그 날 새벽에 별들이 함께 노래하였고, a천사들은 모두 기쁨으로 소리를 질렀다. (a 히, '하나님의 아들들')",
+    Kor:"그 날 새벽에 별들이 함께 노래하였고, 천사들은 모두 기쁨으로 소리를 질렀다.",
     Chn:"那时，晨星一同歌唱； 　神的众子也都欢呼。",
     Eng:"while the morning stars sang together and all the angels shouted for joy?",
     Ind:"pada waktu bintang-bintang fajar bersorak-sorak bersama-sama, dan semua anak Allah bersorak-sorai?"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Dapatkah engkau memberkas ikatan bintang Kartika, dan membuka belenggu bintang Belantik?"
   },
   {Bible:"Job", Chapter:38, Verse:32, Page:1,
-    Kor:"네가 철을 따라서 성좌들을 이끌어 낼 수 있으며, 큰곰자리와 그 별 떼를 인도하여 낼 수 있느냐?",
+    Kor:"네가 철을 따라서, 성좌들을 이끌어 낼 수 있으며, 큰곰자리와 그 별 떼를 인도하여 낼 수 있느냐?",
     Chn:"你能按时领出十二宫吗？ 能引导北斗和随它的众星吗？",
     Eng:"Can you bring forth the constellations in their seasons or lead out the Bear with its cubs?",
     Ind:"Dapatkah engkau menerbitkan Mintakulburuj pada waktunya, dan memimpin bintang Biduk dengan pengiring-pengiringnya?"

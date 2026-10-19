@@ -3,55 +3,55 @@
 BibleDB.ref("Isaiah",49,26);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:49, Verse:1, Page:1,
-    Kor:"<만방에 비치는 빛 이스라엘> 너희 섬들아, 내가 하는 말을 들어라. 너희 먼 곳에 사는 민족들아, 귀를 기울여라. 주님께서 이미 모태에서부터 나를 부르셨고, 내 어머니의 태 속에서부터 내 이름을 기억하셨다.",
+    Kor:"너희 섬들아, 내가 하는 말을 들어라. 너희 먼 곳에 사는 민족들아, 귀를 기울여라. 주께서 이미 모태에서부터 나를 부르셨고, 내 어머니의 태 속에서부터 내 이름을 기억하셨다.",
     Chn:"众海岛啊，当听我言！ 远方的众民哪，留心而听！ 自我出胎，耶和华就选召我； 自出母腹，他就提我的名。",
     Eng:"Listen to me, you islands; hear this, you distant nations: Before I was born the LORD called me; from my birth he has made mention of my name.",
     Ind:"Dengarkanlah aku, hai pulau-pulau, perhatikanlah, hai bangsa-bangsa yang jauh! TUHAN telah memanggil aku sejak dari kandungan telah menyebut namaku sejak dari perut ibuku."
   },
   {Bible:"Isaiah", Chapter:49, Verse:2, Page:1,
-    Kor:"내 입을 날카로운 칼처럼 만드셔서, 나를 주님의 손 그늘에 숨기셨다. 나를 날카로운 화살로 만드셔서, 주님의 화살통에 감추셨다.",
+    Kor:"내 입을 날카로운 칼처럼 만드셔서, 나를 주의 손 그늘에 숨기셨다. 나를 날카로운 화살로 만드셔서, 주의 화살통에 감추셨다.",
     Chn:"他使我的口如快刀， 将我藏在他手荫之下； 又使我成为磨亮的箭， 将我藏在他箭袋之中；",
     Eng:"He made my mouth like a sharpened sword, in the shadow of his hand he hid me; he made me into a polished arrow and concealed me in his quiver.",
     Ind:"Ia telah membuat mulutku sebagai pedang yang tajam dan membuat aku berlindung dalam naungan tangan-Nya. Ia telah membuat aku menjadi anak panah yang runcing dan menyembunyikan aku dalam tabung panah-Nya."
   },
   {Bible:"Isaiah", Chapter:49, Verse:3, Page:1,
-    Kor:"주님께서 내게 말씀하셨다. \"이스라엘아, 너는 내 종이다. 네가 내 영광을 나타낼 것이다.\"",
+    Kor:"주께서 내게 말씀하셨다. \"이스라엘아, 너는 내 종이다. 네가 내 영광을 나타낼 것이다.\"",
     Chn:"对我说：你是我的仆人以色列； 我必因你得荣耀。",
     Eng:"He said to me, \"You are my servant, Israel, in whom I will display my splendor.\"",
     Ind:"Ia berfirman kepadaku: \"Engkau adalah hamba-Ku, Israel, dan olehmu Aku akan menyatakan keagungan-Ku.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:4, Page:1,
-    Kor:"그러나 나의 생각에는, 내가 한 것이 모두 헛수고 같았고, 쓸모 없고 허무한 일에 내 힘을 허비한 것 같았다. 그러나 참으로 주님께서 나를 올바로 심판하여 주셨으며, 내 하나님께서 나를 정당하게 보상하여 주셨다.",
+    Kor:"그러나 나의 생각에는, 내가 한 것이 모두 헛수고 같았고, 쓸모 없고 허무한 일에 내 힘을 허비한 것 같았다. 그러나 참으로 주께서 나를 올바로 심판하여 주셨으며, 내 하나님께서 나를 정당하게 보상하여 주셨다.",
     Chn:"我却说：我劳碌是徒然； 我尽力是虚无虚空。 然而，我当得的理必在耶和华那里； 我的赏赐必在我　神那里。",
     Eng:"But I said, \"I have labored to no purpose; I have spent my strength in vain and for nothing. Yet what is due me is in the LORD'S hand, and my reward is with my God.\"",
     Ind:"Tetapi aku berkata: \"Aku telah bersusah-susah dengan percuma, dan telah menghabiskan kekuatanku dengan sia-sia dan tak berguna; namun, hakku terjamin pada TUHAN dan upahku pada Allahku.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:5, Page:1,
-    Kor:"내가 태어나기도 전부터 주님께서는 나를 그의 종으로 삼으셨다. 야곱을 주님께로 돌아오게 하시고 흩어진 이스라엘을 다시 불러모으시려고, 나를 택하셨다. 그래서 나는 주님의 귀한 종이 되었고, 주님은 내 힘이 되셨다. 주님께서 내게 말씀하신다.",
+    Kor:"내가 태어나기도 전부터 주께서는 나를 그의 종으로 삼으셨다. 야곱을 주께로 돌아오게 하시고 흩어진 이스라엘을 다시 불러모으시려고, 나를 택하셨다. 그래서 나는 주님의 귀한 종이 되었고, 주님은 내 힘이 되셨다. 주께서 내게 말씀하신다.",
     Chn:"耶和华从我出胎，造就我作他的仆人， 要使雅各归向他， 使以色列到他那里聚集。 原来耶和华看我为尊贵； 我的　神也成为我的力量。",
     Eng:"And now the LORD says--he who formed me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honored in the eyes of the LORD and my God has been my strength--",
     Ind:"Maka sekarang firman TUHAN, yang membentuk aku sejak dari kandungan untuk menjadi hamba-Nya, untuk mengembalikan Yakub kepada-Nya, dan supaya Israel dikumpulkan kepada-Nya--maka aku dipermuliakan di mata TUHAN, dan Allahku menjadi kekuatanku--,firman-Nya:"
   },
   {Bible:"Isaiah", Chapter:49, Verse:6, Page:1,
-    Kor:"주님께서 이렇게 말씀하신다. \"네가 내 종이 되어서, 야곱의 지파들을 일으키고 이스라엘 가운데 살아 남은 자들을 돌아오게 하는 것은, 네게 오히려 가벼운 일이다. 땅 끝까지 나의 구원이 미치게 하려고, 내가 너를 '뭇 민족의 빛'으로 삼았다.\"",
+    Kor:"주께서 이렇게 말씀하신다. \"네가 내 종이 되어서, 야곱의 지파들을 일으키고 이스라엘 가운데 살아 남은 자들을 돌아오게 하는 것은, 네게 오히려 가벼운 일이다. 땅 끝까지 나의 구원이 미치게 하려고, 내가 너를 '뭇 민족의 빛'으로 삼았다.\"",
     Chn:"现在他说：你作我的仆人， 使雅各众支派复兴， 使以色列中得保全的归回尚为小事， 我还要使你作外邦人的光， 叫你施行我的救恩，直到地极。",
     Eng:"he says: \"It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back those of Israel I have kept. I will also make you a light for the Gentiles, that you may bring my salvation to the ends of the earth.\"",
     Ind:"\"Terlalu sedikit bagimu hanya untuk menjadi hamba-Ku, untuk menegakkan suku-suku Yakub dan untuk mengembalikan orang-orang Israel yang masih terpelihara. Tetapi Aku akan membuat engkau menjadi terang bagi bangsa-bangsa supaya keselamatan yang dari pada-Ku sampai ke ujung bumi.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:7, Page:1,
-    Kor:"이스라엘의 속량자, 거룩하신 주님께서, 남들에게 멸시를 받는 사람, 여러 민족들에게 미움을 받는 사람, 통치자들에게 종살이하는 사람에게 말씀하신다. \"왕들이 너를 보고 일어나서 예를 갖출 것이며, 대신들이 또한 부복할 것이니, 이는 너를 택한 이스라엘의 거룩한 하나님, 신실한 나 주 하나님 때문이다.\"",
+    Kor:"이스라엘의 속량자, 거룩하신 주께서, 남들에게 멸시를 받는 사람, 여러 민족들에게 미움을 받는 사람, 통치자들에게 종살이하는 사람에게 말씀하신다. \"왕들이 너를 보고 일어나서 예를 갖출 것이며, 대신들이 또한 부복할 것이니, 이는 너를 택한 이스라엘의 거룩한 하나님, 신실한 나 주 하나님 때문이다.\"",
     Chn:"救赎主—以色列的圣者耶和华 对那被人所藐视、本国所憎恶、 官长所虐待的如此说： 君王要看见就站起， 首领也要下拜； 都因信实的耶和华， 就是拣选你—以色列的圣者。",
     Eng:"This is what the LORD says--the Redeemer and Holy One of Israel--to him who was despised and abhorred by the nation, to the servant of rulers: \"Kings will see you and rise up, princes will see and bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen you.\"",
     Ind:"Beginilah firman TUHAN, Penebus Israel, Allahnya yang Mahakudus, kepada dia yang dihinakan orang, kepada dia yang dijijikkan bangsa-bangsa, kepada hamba penguasa-penguasa: \"Raja-raja akan melihat perbuatan-Ku, lalu bangkit memberi hormat, dan pembesar-pembesar akan sujud menyembah, oleh karena TUHAN yang setia oleh karena Yang Mahakudus, Allah Israel, yang memilih engkau.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:8, Page:1,
-    Kor:"<예루살렘의 회복> 주님께서 그의 백성에게 이렇게 말씀하신다. \"너희를 구원해야 할 때가 되면, 내가 너희에게 은혜를 베풀겠고, 살려 달라고 부르짖는 날에는, 내가 그 간구를 듣고 너희를 돕겠다. 내가 너희를 지키고 보호하겠으며, 너를 시켜서 뭇 백성과 언약을 맺겠다. 너희가 살던 땅이 황무해졌지마는, 내가 너희를 다시 너희 땅에 정착시키겠다.",
+    Kor:"주께서 당신의 백성에게 말씀하신다. \"너희를 구원해야 할 때가 되면, 내가 너희에게 은혜를 베풀겠고, 살려 달라고 부르짖는 날에는, 내가 그 간구를 듣고 너희를 돕겠다. 내가 너희를 지키고 보호하겠으며, 너를 시켜서 뭇 백성과 언약을 맺겠다. 너희가 살던 땅이 황무해졌지마는, 내가 너희를 다시 너희 땅에 정착시키겠다.",
     Chn:"耶和华如此说： 在悦纳的时候，我应允了你； 在拯救的日子，我济助了你。 我要保护你， 使你作众民的中保； 复兴遍地， 使人承受荒凉之地为业。",
     Eng:"This is what the LORD says: \"In the time of my favor I will answer you, and in the day of salvation I will help you; I will keep you and will make you to be a covenant for the people, to restore the land and to reassign its desolate inheritances,",
     Ind:"Beginilah firman TUHAN: \"Pada waktu Aku berkenan, Aku akan menjawab engkau, dan pada hari Aku menyelamatkan, Aku akan menolong engkau; Aku telah membentuk dan memberi engkau, menjadi perjanjian bagi umat manusia, untuk membangunkan bumi kembali dan untuk membagi-bagikan tanah pusaka yang sudah sunyi sepi,"
   },
   {Bible:"Isaiah", Chapter:49, Verse:9, Page:1,
-    Kor:"감옥에 갇혀 있는 죄수들에게는 '나가거라. 너희는 자유인이 되었다!' 하고 말하겠고, 어둠 속에 갇혀 있는 사람들에게는 '밝은 곳으로 나오너라!' 하고 말하겠다. 그들이 어디로 가든지 먹거리를 얻게 할 것이며, 메말랐던 모든 산을 그들이 먹거리를 얻는 초장이 되게 하겠다.",
+    Kor:"감옥에 갇혀 있는 죄수들에게는 '나가거라. 너희는 자유인이 되었다!' 하고 말하겠고, 어둠 속에 갇혀 있는 사람들에게는 '밝은 곳으로 나오너라!' 하고 말하겠다. 그들이 어디로 가든지 먹을거리를 얻게 할 것이며, 메말랐던 모든 산을 그들이 먹을거리를 얻는 초장이 되게 하겠다.",
     Chn:"对那被捆绑的人说：出来吧！ 对那在黑暗的人说：显露吧！ 他们在路上必得饮食， 在一切净光的高处必有食物。",
     Eng:"to say to the captives, 'Come out,' and to those in darkness, 'Be free!' \"They will feed beside the roads and find pasture on every barren hill.",
     Ind:"untuk mengatakan kepada orang-orang yang terkurung: Keluarlah! kepada orang-orang yang ada di dalam gelap: Tampillah! Di sepanjang jalan mereka seperti domba yang tidak pernah kekurangan rumput, dan di segala bukit gundulpun tersedia rumput bagi mereka."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Aku akan membuat segala gunung-Ku menjadi jalan dan segala jalan raya-Ku akan Kuratakan."
   },
   {Bible:"Isaiah", Chapter:49, Verse:12, Page:1,
-    Kor:"보아라, 내 백성이 먼 곳으로부터도 오고, 또 더러는 북쪽에서도 오고, 서쪽에서도 오고, a아스완 땅에서도 올 것이다.\" (a 사해 사본을 따름. 마소라 본문에는 '시님')",
+    Kor:"보아라, 내 백성이 먼 곳으로부터도 오고, 또 더러는 북쪽에서도 오고, 서쪽에서도 오고, 아스완 땅에서도 올 것이다.\"",
     Chn:"看哪，这些从远方来； 这些从北方、从西方来； 这些从秦国来。",
     Eng:"See, they will come from afar--some from the north, some from the west, some from the region of Aswan.\"",
     Ind:"Lihat, ada orang yang datang dari jauh, ada dari utara dan dari barat, dan ada dari tanah Sinim.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:13, Page:1,
-    Kor:"하늘아, 기뻐하여라! 땅아, 즐거워하여라! 산들아, 노랫소리를 높여라. 주님께서 그의 백성을 위로하셨고, 또한 고난을 받은 그 사람들을 긍휼히 여기셨다.",
+    Kor:"하늘아, 기뻐하여라! 땅아, 즐거워하여라! 산들아, 노랫소리를 높여라. 주께서 그의 백성을 위로하셨고, 또한 고난을 받은 그 사람들을 긍휼히 여기셨다.",
     Chn:"诸天哪，应当欢呼！ 大地啊，应当快乐！ 众山哪，应当发声歌唱！ 因为耶和华已经安慰他的百姓， 也要怜恤他困苦之民。",
     Eng:"Shout for joy, O heavens; rejoice, O earth; burst into song, O mountains! For the LORD comforts his people and will have compassion on his afflicted ones.",
     Ind:"Bersorak-sorailah, hai langit, bersorak-soraklah, hai bumi, dan bergembiralah dengan sorak-sorai, hai gunung-gunung! Sebab TUHAN menghibur umat-Nya dan menyayangi orang-orang-Nya yang tertindas."
   },
   {Bible:"Isaiah", Chapter:49, Verse:14, Page:1,
-    Kor:"그런데 시온이 말하기를 \"주님께서 나를 버리셨고, 주님께서 나를 잊으셨다\" 하는구나.",
+    Kor:"그런데 시온이 말하기를 \"주께서 나를 버리셨고, 주께서 나를 잊으셨다\" 하는구나.",
     Chn:"锡安说：耶和华离弃了我； 主忘记了我。",
     Eng:"But Zion said, \"The LORD has forsaken me, the Lord has forgotten me.\"",
     Ind:"Sion berkata: \"TUHAN telah meninggalkan aku dan Tuhanku telah melupakan aku.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Angkatlah mukamu dan lihatlah ke sekeliling, mereka semua berhimpun datang kepadamu. Demi Aku yang hidup, demikianlah firman TUHAN, sungguh, mereka semua akan kaupakai sebagai perhiasan, dan mereka akan kaulilitkan, seperti yang dilakukan pengantin perempuan."
   },
   {Bible:"Isaiah", Chapter:49, Verse:19, Page:1,
-    Kor:"내가 네 땅을 쳤고, 황폐하게 하였고, 파괴하였지만, 이제는 백성이 너무 많아서 네 땅이 비좁다. 너를 삼키던 자들은 너에게서 멀리 떠날 것이다.",
+    Kor:"내가 네 땅을 쳤고, 황폐하게 하였고, 파괴하였지만, 이제는 백성이 너무 많아서 네 땅이 비좁다. 너를 삼키던 자들은 너를 멀리 떠날 것이다.",
     Chn:"至于你荒废凄凉之处， 并你被毁坏之地， 现今众民居住必显为太窄； 吞灭你的必离你遥远。",
     Eng:"\"Though you were ruined and made desolate and your land laid waste, now you will be too small for your people, and those who devoured you will be far away.",
     Ind:"Sebab tempat-tempatmu yang tandus dan sunyi sepi dan negerimu yang dirombak, sungguh, sekarang terlalu sempit untuk sekian banyak pendudukmu dan orang-orang yang mau menelan engkau akan menjauh."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Maka engkau akan berkata dalam hatimu: \"Siapakah yang telah melahirkan sekaliannya ini bagiku? Bukankah aku bulus dan mandul, diangkut ke dalam pembuangan dan disingkirkan? Tetapi anak-anak ini, siapakah yang membesarkan mereka? Sesungguhnya, aku tertinggal seorang diri, tetapi mereka ini, dari manakah datangnya?\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:22, Page:1,
-    Kor:"주님께서 이렇게 말씀하신다. \"내가 뭇 민족을 손짓하여 부르고, 뭇 백성에게 신호를 보낼 터이니, 그들이 네 아들을 안고 오며, 네 딸을 업고 올 것이다.",
+    Kor:"주께서 말씀하신다. \"내가 뭇 민족을 손짓하여 부르고, 뭇 백성에게 신호를 보낼 터이니, 그들이 네 아들을 안고 오며, 네 딸을 업고 올 것이다.",
     Chn:"主耶和华如此说： 我必向列国举手， 向万民竖立大旗； 他们必将你的众子怀中抱来， 将你的众女肩上扛来。",
     Eng:"This is what the Sovereign LORD says: \"See, I will beckon to the Gentiles, I will lift up my banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.",
     Ind:"Beginilah firman Tuhan ALLAH: \"Lihat, Aku akan mengangkat tangan-Ku sebagai tanda untuk bangsa-bangsa dan memasang panji-panji-Ku untuk suku-suku bangsa, maka mereka akan menggendong anak-anakmu laki-laki dan anak-anakmu perempuan akan didukung di atas bahunya."
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Maka raja-raja akan menjadi pengasuhmu dan permaisuri-permaisuri mereka menjadi inangmu. Mereka akan sujud kepadamu dengan mukanya sampai ke tanah dan akan menjilat debu kakimu. Maka engkau akan mengetahui, bahwa Akulah TUHAN, dan bahwa orang-orang yang menanti-nantikan Aku tidak akan mendapat malu.\""
   },
   {Bible:"Isaiah", Chapter:49, Verse:24, Page:1,
-    Kor:"적군에게서 전리품을 빼앗을 수 있느냐? b폭군에게서 사로잡힌 포로를 빼내 올 수 있느냐?",
+    Kor:"적군에게서 전리품을 빼앗을 수 있느냐? 폭군에게서 사로잡힌 포로를 빼내 올 수 있느냐?",
     Chn:"勇士抢去的岂能夺回？ 该掳掠的岂能解救吗？",
     Eng:"Can plunder be taken from warriors, or captives rescued from the fierce?",
     Ind:"Dapatkah direbut kembali jarahan dari pahlawan atau dapatkah lolos tawanan orang gagah?"
   },
   {Bible:"Isaiah", Chapter:49, Verse:25, Page:1,
-    Kor:"주님께서 이렇게 말씀하신다. \"내가 적군에게서 포로를 빼어 오겠으며, b폭군에게서 전리품도 빼앗아 오겠다. 나는 나와 맞서는 자들과 겨루고, 네 자녀들을 구원하겠다. (b 사해 사본과 불가타와 시리아어역을 따름. 마소라 본문에는 '의로운 자에게서')",
+    Kor:"주께서 말씀하신다. \"내가 적군에게서 포로를 빼어 오겠으며, 폭군에게서 전리품도 빼앗아 오겠다. 나는 나와 맞서는 자들과 겨루고, 네 자녀들을 구원하겠다.",
     Chn:"但耶和华如此说： 就是勇士所掳掠的，也可以夺回； 强暴人所抢的，也可以解救。 与你相争的，我必与他相争； 我要拯救你的儿女。",
     Eng:"But this is what the LORD says: \"Yes, captives will be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.",
     Ind:"Sungguh, beginilah firman TUHAN: \"Tawanan pahlawanpun dapat direbut kembali, dan jarahan orang gagah dapat lolos, sebab Aku sendiri akan melawan orang yang melawan engkau dan Aku sendiri akan menyelamatkan anak-anakmu."
   },
   {Bible:"Isaiah", Chapter:49, Verse:26, Page:1,
-    Kor:"너를 억압하는 자들로 서로 쳐죽이게 하고, 새 포도주에 취하듯이, 저희들끼리 피를 나누어 마시고 취하게 하겠다. 그리고 나면, 모든 사람이, 나 주가 네 구원자요, 네 속량자요, '야곱의 전능자'임을 알게 될 것이다.\"",
+    Kor:"너를 억압하는 자들로 서로 쳐죽이게 하고, 새 포도주에 취하듯이, 저희들끼리 피를 나누어 마시고 취하게 하겠다. 그리고 나면, 모든 사람이, 나 주가 네 구원자요, 네 속량자요, 야곱의 전능자임을 알게 될 것이다.\"",
     Chn:"并且我必使那欺压你的吃自己的肉， 也要以自己的血喝醉，好像喝甜酒一样。 凡有血气的必都知道我—耶和华是你的救主， 是你的救赎主，是雅各的大能者。",
     Eng:"I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with wine. Then all mankind will know that I, the LORD, am your Savior, your Redeemer, the Mighty One of Jacob.\"",
     Ind:"Aku akan memaksa orang-orang yang menindas engkau memakan dagingnya sendiri, dan mereka akan mabuk minum darahnya sendiri, seperti orang mabuk minum anggur baru, supaya seluruh umat manusia mengetahui, bahwa Aku, TUHAN, adalah Juruselamatmu dan Penebusmu, Yang Mahakuat, Allah Yakub.\""

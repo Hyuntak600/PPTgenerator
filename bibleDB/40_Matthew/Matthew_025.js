@@ -3,25 +3,25 @@
 BibleDB.ref("Matthew",25,46);
 BibleDB.add([
   {Bible:"Matthew", Chapter:25, Verse:1, Page:1,
-    Kor:"<열 처녀의 비유> \"그런데, 하늘 나라는 저마다 등불을 들고 신랑을 맞으러 나간 열 처녀에 비길 수 있을 것이다.",
+    Kor:"\"그런데, 하늘 나라는 이런 일에 비길 수 있을 것이다. 처녀 열 사람이 등불을 마련하여, 신랑을 맞으러 나갔다.",
     Chn:"「那时，天国好比十个童女拿着灯出去迎接新郎。",
     Eng:"\"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.",
     Ind:"\"Pada waktu itu hal Kerajaan Sorga seumpama sepuluh gadis, yang mengambil pelitanya dan pergi menyongsong mempelai laki-laki."
   },
   {Bible:"Matthew", Chapter:25, Verse:2, Page:1,
-    Kor:"그 가운데서 다섯은 어리석고, 다섯은 슬기로웠다.",
+    Kor:"그 가운데 다섯은 어리석고, 다섯은 슬기로웠다.",
     Chn:"其中有五个是愚拙的，五个是聪明的。",
     Eng:"Five of them were foolish and five were wise.",
     Ind:"Lima di antaranya bodoh dan lima bijaksana."
   },
   {Bible:"Matthew", Chapter:25, Verse:3, Page:1,
-    Kor:"어리석은 처녀들은 등불은 가졌으나, 기름은 갖고 있지 않았다.",
+    Kor:"어리석은 처녀들은 등불은 마련하였으나, 기름은 여분으로 마련하지 않았다.",
     Chn:"愚拙的拿着灯，却不预备油；",
     Eng:"The foolish ones took their lamps but did not take any oil with them.",
     Ind:"Gadis-gadis yang bodoh itu membawa pelitanya, tetapi tidak membawa minyak,"
   },
   {Bible:"Matthew", Chapter:25, Verse:4, Page:1,
-    Kor:"그러나 슬기로운 처녀들은 자기들의 등불과 함께 통에 기름도 마련하였다.",
+    Kor:"그러나 슬기로운 처녀들은 등불과 함께 통에 기름도 마련하였다.",
     Chn:"聪明的拿着灯，又预备油在器皿里。",
     Eng:"The wise, however, took oil in jars along with their lamps.",
     Ind:"sedangkan gadis-gadis yang bijaksana itu membawa pelitanya dan juga minyak dalam buli-buli mereka."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Tetapi karena mempelai itu lama tidak datang-datang juga, mengantuklah mereka semua lalu tertidur."
   },
   {Bible:"Matthew", Chapter:25, Verse:6, Page:1,
-    Kor:"그런데 한밤중에 외치는 소리가 났다. '보아라, 신랑이다. 나와서 맞이하여라.'",
+    Kor:"그런데 한밤중에 외치는 소리가 났다. '신랑이 온다. 나와서 맞이하여라.'",
     Chn:"半夜有人喊着说：『新郎来了，你们出来迎接他！』",
     Eng:"\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'",
     Ind:"Waktu tengah malam terdengarlah suara orang berseru: Mempelai datang! Songsonglah dia!"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Gadis-gadis yang bodoh berkata kepada gadis-gadis yang bijaksana: Berikanlah kami sedikit dari minyakmu itu, sebab pelita kami hampir padam."
   },
   {Bible:"Matthew", Chapter:25, Verse:9, Page:1,
-    Kor:"그러나 슬기로운 처녀들이 대답을 하였다. '그렇게 하면, 우리에게나 너희에게나 다 모자랄 터이니, 안 된다. 차라리 기름 장수들에게 가서, 사서 써라.'",
+    Kor:"그러나 슬기로운 처녀들이 대답하기를 '그렇게 하면, 우리에게나 너희에게나 다 모자랄 터이니, 안 된다. 차라리 기름 장수들에게 가서, 사서 써라' 하였다.",
     Chn:"聪明的回答说：『恐怕不够你我用的；不如你们自己到卖油的那里去买吧。』",
     Eng:"\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'",
     Ind:"Tetapi jawab gadis-gadis yang bijaksana itu: Tidak, nanti tidak cukup untuk kami dan untuk kamu. Lebih baik kamu pergi kepada penjual minyak dan beli di situ."
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Kemudian datang juga gadis-gadis yang lain itu dan berkata: Tuan, tuan, bukakanlah kami pintu!"
   },
   {Bible:"Matthew", Chapter:25, Verse:12, Page:1,
-    Kor:"그러나 신랑이 대답하기를 '내가 진정으로 너희에게 말한다. 나는 너희를 알지 못한다' 하였다.",
+    Kor:"그러나 그는 대답하여 말하기를 '내가 진정으로 말한다. 나는 너희를 알지 못한다' 하였다.",
     Chn:"他却回答说：『我实在告诉你们，我不认识你们。』",
     Eng:"\"But he replied, 'I tell you the truth, I don't know you.'",
     Ind:"Tetapi ia menjawab: Aku berkata kepadamu, sesungguhnya aku tidak mengenal kamu."
   },
   {Bible:"Matthew", Chapter:25, Verse:13, Page:1,
-    Kor:"그러므로 깨어 있어라. 너희는 a그 날과 그 시각을 알지 못하기 때문이다.\"(a 다른 고대 사본들에는 '인자가 언제 올지 그 날과……')",
+    Kor:"그러므로 깨어 있어라. 너희는 그 날과 그 시각을 알지 못하기 때문이다.\"",
     Chn:"所以，你们要警醒；因为那日子，那时辰，你们不知道。」",
     Eng:"\"Therefore keep watch, because you do not know the day or the hour.",
     Ind:"Karena itu, berjaga-jagalah, sebab kamu tidak tahu akan hari maupun akan saatnya.\""
   },
   {Bible:"Matthew", Chapter:25, Verse:14, Page:1,
-    Kor:"<달란트 비유(눅 19:11-27)> ○\"또 하늘 나라는 이런 사정과 같다. 어떤 사람이 여행을 떠나면서, 자기 종들을 불러서, 자기의 재산을 그들에게 맡겼다.",
+    Kor:"○\"또 하늘 나라는 이와 같다. 어떤 사람이 여행을 떠나면서, 자기 종들을 불러서, 자기의 재산을 그들에게 맡겼다.",
     Chn:"「天国又好比一个人要往外国去，就叫了仆人来，把他的家业交给他们，",
     Eng:"\"Again, it will be like a man going on a journey, who called his servants and entrusted his property to them.",
     Ind:"\"Sebab hal Kerajaan Sorga sama seperti seorang yang mau bepergian ke luar negeri, yang memanggil hamba-hambanya dan mempercayakan hartanya kepada mereka."
   },
   {Bible:"Matthew", Chapter:25, Verse:15, Page:1,
-    Kor:"그는 각 사람의 능력을 따라, 한 사람에게는 다섯 b달란트를 주고, 또 한 사람에게는 두 달란트를 주고, 또 다른 한 사람에게는 한 달란트를 주고 떠났다.(b 한 달란트는 노동자의 15년 품삯)",
+    Kor:"그는 각 사람의 능력에 따라, 한 사람에게는 다섯 달란트를 주고, 또 한 사람에게는 두 달란트를 주고, 또 다른 한 사람에게는 한 달란트를 주고 떠났다.",
     Chn:"按着各人的才干给他们银子：一个给了五千，一个给了二千，一个给了一千，就往外国去了。",
     Eng:"To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey.",
     Ind:"Yang seorang diberikannya lima talenta, yang seorang lagi dua dan yang seorang lain lagi satu, masing-masing menurut kesanggupannya, lalu ia berangkat."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Hamba yang menerima dua talenta itupun berbuat demikian juga dan berlaba dua talenta."
   },
   {Bible:"Matthew", Chapter:25, Verse:18, Page:1,
-    Kor:"그러나 한 달란트 받은 사람은 가서, 땅을 파고, 주인의 돈을 숨겼다.",
+    Kor:"그러나 한 달란트 받은 사람은 가서 땅을 파고, 자기 주인의 돈을 숨겼다.",
     Chn:"但那领一千的去掘开地，把主人的银子埋藏了。",
     Eng:"But the man who had received the one talent went off, dug a hole in the ground and hid his master's money.",
     Ind:"Tetapi hamba yang menerima satu talenta itu pergi dan menggali lobang di dalam tanah lalu menyembunyikan uang tuannya."
@@ -117,49 +117,49 @@ BibleDB.add([
     Ind:"Lama sesudah itu pulanglah tuan hamba-hamba itu lalu mengadakan perhitungan dengan mereka."
   },
   {Bible:"Matthew", Chapter:25, Verse:20, Page:1,
-    Kor:"다섯 달란트를 받은 사람은 다섯 달란트를 더 가지고 와서 말하기를 '주인님, 주인께서 다섯 달란트를 내게 맡기셨는데, 보십시오, 다섯 달란트를 더 벌었습니다' 하였다.",
+    Kor:"다섯 달란트를 받은 사람은 다섯 달란트를 더 가지고 와서 말하기를 '주인님, 주인님께서 다섯 달란트를 내게 맡기셨는데, 보십시오, 다섯 달란트를 더 벌었습니다' 하였다.",
     Chn:"那领五千银子的又带着那另外的五千来，说：『主啊，你交给我五千银子。请看，我又赚了五千。』",
     Eng:"The man who had received the five talents brought the other five. 'Master,' he said, 'you entrusted me with five talents. See, I have gained five more.'",
     Ind:"Hamba yang menerima lima talenta itu datang dan ia membawa laba lima talenta, katanya: Tuan, lima talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba lima talenta."
   },
   {Bible:"Matthew", Chapter:25, Verse:21, Page:1,
-    Kor:"그의 주인이 그에게 말하였다. '잘했다! 착하고 신실한 종아. 네가 적은 일에 신실하였으니, 이제 내가 많은 일을 네게 맡기겠다. 와서, 주인과 함께 기쁨을 누려라.'",
+    Kor:"그의 주인이 그에게 말하였다. '착하고 신실한 종아, 잘했다! 네가 적은 일에 신실하였으니, 이제 내가 많은 일을 네게 맡기겠다. 와서, 주인과 함께 기쁨을 누려라.'",
     Chn:"主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
     Eng:"\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'",
     Ind:"Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia; engkau telah setia dalam perkara kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah dan turutlah dalam kebahagiaan tuanmu."
   },
   {Bible:"Matthew", Chapter:25, Verse:22, Page:1,
-    Kor:"두 달란트를 받은 사람도 다가와서 '주인님, 주인님께서 두 달란트를 내게 맡기셨는데, 보십시오, 두 달란트를 더 벌었습니다' 하고 말하였다.",
+    Kor:"두 달란트를 받은 사람도 다가와서 '주인님, 주인님께서 두 달란트를 내게 맡기셨는데, 보십시오, 두 달란트를 더 벌었습니다' 하였다.",
     Chn:"那领二千的也来，说：『主啊，你交给我二千银子。请看，我又赚了二千。』",
     Eng:"\"The man with the two talents also came. 'Master,' he said, 'you entrusted me with two talents; see, I have gained two more.'",
     Ind:"Lalu datanglah hamba yang menerima dua talenta itu, katanya: Tuan, dua talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba dua talenta."
   },
   {Bible:"Matthew", Chapter:25, Verse:23, Page:1,
-    Kor:"그의 주인이 그에게 말하였다. '잘했다, 착하고 신실한 종아! 네가 적은 일에 신실하였으니, 이제 내가 많은 일을 네게 맡기겠다. 와서, 주인과 함께 기쁨을 누려라.'",
+    Kor:"그의 주인이 그에게 말하였다. '착하고, 신실한 종아, 잘했다! 네가 적은 일에 신실하였으니, 이제 내가 많은 일을 네게 맡기겠다. 와서 주인과 함께 기쁨을 누려라.'",
     Chn:"主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
     Eng:"\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'",
     Ind:"Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia, engkau telah setia memikul tanggung jawab dalam perkara yang kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah dan turutlah dalam kebahagiaan tuanmu."
   },
   {Bible:"Matthew", Chapter:25, Verse:24, Page:1,
-    Kor:"그러나 한 달란트를 받은 사람은 다가와서 말하였다. '주인님, 나는, 주인이 굳은 분이시라, 심지 않은 데서 거두시고, 뿌리지 않은 데서 모으시는 줄로 알고,",
+    Kor:"그러나 한 달란트를 받은 사람은 나아와서 '주인님, 나는, 주인이 굳은 분이시라, 심지 않은 데서 거두시고, 뿌리지 않은 데서 모으시는 줄로 알고,",
     Chn:"那领一千的也来，说：『主啊，我知道你是忍心的人，没有种的地方要收割，没有散的地方要聚敛，",
     Eng:"\"Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed.",
     Ind:"Kini datanglah juga hamba yang menerima satu talenta itu dan berkata: Tuan, aku tahu bahwa tuan adalah manusia yang kejam yang menuai di tempat di mana tuan tidak menabur dan yang memungut dari tempat di mana tuan tidak menanam."
   },
   {Bible:"Matthew", Chapter:25, Verse:25, Page:1,
-    Kor:"무서워하여 물러가서, 그 달란트를 땅에 숨겨 두었습니다. 보십시오, 여기에 그 돈이 있으니, 받으십시오.'",
+    Kor:"무서워하여 물러가서, 그 달란트를 땅에 숨겨 두었습니다. 보십시오, 여기에 그 돈이 있으니, 받으십시오' 하고 말하였다.",
     Chn:"我就害怕，去把你的一千银子埋藏在地里。请看，你的原银子在这里。』",
     Eng:"So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.'",
     Ind:"Karena itu aku takut dan pergi menyembunyikan talenta tuan itu di dalam tanah: Ini, terimalah kepunyaan tuan!"
   },
   {Bible:"Matthew", Chapter:25, Verse:26, Page:1,
-    Kor:"그러자 그의 주인이 그에게 말하였다. '악하고 게으른 종아, 너는 내가 심지 않은 데서 거두고, 뿌리지 않은 데서 모으는 줄 알았다.",
+    Kor:"그러자 그의 주인이 그에게 말하였다. '악하고 게으른 종아, 너는, 내가 심지 않은 데서 거두고, 뿌리지 않은 데서 모으는 줄 알았다.",
     Chn:"主人回答说：『你这又恶又懒的仆人，你既知道我没有种的地方要收割，没有散的地方要聚敛，",
     Eng:"\"His master replied, 'You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed?",
     Ind:"Maka jawab tuannya itu: Hai kamu, hamba yang jahat dan malas, jadi kamu sudah tahu, bahwa aku menuai di tempat di mana aku tidak menabur dan memungut dari tempat di mana aku tidak menanam?"
   },
   {Bible:"Matthew", Chapter:25, Verse:27, Page:1,
-    Kor:"그렇다면, 너는 내 돈을 돈놀이 하는 사람에게 맡겼어야 했다. 그랬더라면, 내가 와서, 내 돈에 이자를 붙여 받았을 것이다.",
+    Kor:"그렇다면, 너는 내 돈을 돈놀이하는 사람에게 맡겼어야 했다. 그랬더라면, 내가 와서, 내 돈에 이자를 붙여 받았을 것이다.",
     Chn:"就当把我的银子放给兑换银钱的人，到我来的时候，可以连本带利收回。",
     Eng:"Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.",
     Ind:"Karena itu sudahlah seharusnya uangku itu kauberikan kepada orang yang menjalankan uang, supaya sekembaliku aku menerimanya serta dengan bunganya."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Sebab itu ambillah talenta itu dari padanya dan berikanlah kepada orang yang mempunyai sepuluh talenta itu."
   },
   {Bible:"Matthew", Chapter:25, Verse:29, Page:1,
-    Kor:"가진 사람에게는 더 주어서 넘치게 하고, 갖지 못한 사람에게서는 있는 것마저 빼앗을 것이다.",
+    Kor:"가진 사람에게는 더 주어서 넘치게 하고, 없는 사람에게서는 있는 것마저 빼앗을 것이다.",
     Chn:"因为凡有的，还要加给他，叫他有余；没有的，连他所有的也要夺过来。",
     Eng:"For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him.",
     Ind:"Karena setiap orang yang mempunyai, kepadanya akan diberi, sehingga ia berkelimpahan. Tetapi siapa yang tidak mempunyai, apapun juga yang ada padanya akan diambil dari padanya."
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Dan campakkanlah hamba yang tidak berguna itu ke dalam kegelapan yang paling gelap. Di sanalah akan terdapat ratap dan kertak gigi.\""
   },
   {Bible:"Matthew", Chapter:25, Verse:31, Page:1,
-    Kor:"<최후의 심판> ○\"인자가 모든 천사와 더불어 영광에 둘러싸여서 올 때에, 그는 자기의 영광의 보좌에 앉을 것이다.",
+    Kor:"○\"인자가 모든 천사와 더불어 영광에 둘러싸여서 올 때에, 그는 자기의 영광스러운 보좌에 앉을 것이다.",
     Chn:"「当人子在他荣耀里、同着众天使降临的时候，要坐在他荣耀的宝座上。",
     Eng:"\"When the Son of Man comes in his glory, and all the angels with him, he will sit on his throne in heavenly glory.",
     Ind:"\"Apabila Anak Manusia datang dalam kemuliaan-Nya dan semua malaikat bersama-sama dengan Dia, maka Ia akan bersemayam di atas takhta kemuliaan-Nya."
   },
   {Bible:"Matthew", Chapter:25, Verse:32, Page:1,
-    Kor:"그는 모든 민족을 그의 앞에 불러모아, 목자가 양과 염소를 가르듯이 그들을 갈라서,",
+    Kor:"그는 모든 민족을 자기 앞으로 불러모아 목자가 양과 염소를 가르듯이 그들을 갈라서,",
     Chn:"万民都要聚集在他面前。他要把他们分别出来，好像牧羊的分别绵羊山羊一般，",
     Eng:"All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.",
     Ind:"Lalu semua bangsa akan dikumpulkan di hadapan-Nya dan Ia akan memisahkan mereka seorang dari pada seorang, sama seperti gembala memisahkan domba dari kambing,"
@@ -207,19 +207,19 @@ BibleDB.add([
     Ind:"Dan Raja itu akan berkata kepada mereka yang di sebelah kanan-Nya: Mari, hai kamu yang diberkati oleh Bapa-Ku, terimalah Kerajaan yang telah disediakan bagimu sejak dunia dijadikan."
   },
   {Bible:"Matthew", Chapter:25, Verse:35, Page:1,
-    Kor:"너희는, 내가 주릴 때에 내게 먹을 것을 주었고, 목마를 때에 마실 것을 주었으며, 나그네로 있을 때에 영접하였고,",
+    Kor:"너희는, 내가 주렸을 때에 내게 먹을 것을 주었고, 목말랐을 때에 마실 것을 주었고, 나그네 되었을 때에 영접하였고,",
     Chn:"因为我饿了，你们给我吃，渴了，你们给我喝；我作客旅，你们留我住；",
     Eng:"For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,",
     Ind:"Sebab ketika Aku lapar, kamu memberi Aku makan; ketika Aku haus, kamu memberi Aku minum; ketika Aku seorang asing, kamu memberi Aku tumpangan;"
   },
   {Bible:"Matthew", Chapter:25, Verse:36, Page:1,
-    Kor:"헐벗을 때에 입을 것을 주었고, 병들어 있을 때에 돌보아 주었고, 감옥에 갇혀 있을 때에 찾아 주었다' 할 것이다.",
+    Kor:"헐벗었을 때에 입을 것을 주었고, 병들었을 때에 돌보아 주었고, 감옥에 갇혔을 때에 찾아 주었다' 할 것이다.",
     Chn:"我赤身露体，你们给我穿；我病了，你们看顾我；我在监里，你们来看我。』",
     Eng:"I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.'",
     Ind:"ketika Aku telanjang, kamu memberi Aku pakaian; ketika Aku sakit, kamu melawat Aku; ketika Aku di dalam penjara, kamu mengunjungi Aku."
   },
   {Bible:"Matthew", Chapter:25, Verse:37, Page:1,
-    Kor:"그 때에 의인들은 그에게 대답하기를 '주님, 우리가 언제, 주님께서 주리신 것을 보고 잡수실 것을 드리고, 목마르신 것을 보고 마실 것을 드리고,",
+    Kor:"그 때에 의인들은 그에게 대답하여 말하기를 '주님, 우리가 언제, 주께서 주리신 것을 보고 잡수실 것을 드리고, 목마르신 것을 보고 마실 것을 드리고,",
     Chn:"义人就回答说：『主啊，我们什么时候见你饿了，给你吃，渴了，给你喝？",
     Eng:"\"Then the righteous will answer him, 'Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?",
     Ind:"Maka orang-orang benar itu akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar dan kami memberi Engkau makan, atau haus dan kami memberi Engkau minum?"
@@ -231,49 +231,49 @@ BibleDB.add([
     Ind:"Bilamanakah kami melihat Engkau sebagai orang asing, dan kami memberi Engkau tumpangan, atau telanjang dan kami memberi Engkau pakaian?"
   },
   {Bible:"Matthew", Chapter:25, Verse:39, Page:1,
-    Kor:"언제 병드시거나 감옥에 갇히신 것을 보고 찾아갔습니까?' 하고 말할 것이다.",
+    Kor:"언제, 병드시거나 감옥에 갇히신 것을 보고 찾아갔습니까?' 할 것이다.",
     Chn:"又什么时候见你病了，或是在监里，来看你呢？』",
     Eng:"When did we see you sick or in prison and go to visit you?'",
     Ind:"Bilamanakah kami melihat Engkau sakit atau dalam penjara dan kami mengunjungi Engkau?"
   },
   {Bible:"Matthew", Chapter:25, Verse:40, Page:1,
-    Kor:"임금이 그들에게 말하기를 '내가 진정으로 너희에게 말한다. 너희가 여기 내 c형제자매 가운데, 지극히 보잘 것 없는 사람 하나에게 한 것이 곧 내게 한 것이다' 할 것이다.(c 그, '형제들')",
+    Kor:"그 때에 임금이 그들에게 말할 것이다. '내가 진정으로 너희에게 말한다. 너희가 여기 내 형제자매 가운데, 지극히 보잘 것 없는 사람 하나에게 한 것이 곧 내게 한 것이다.'",
     Chn:"王要回答说：『我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。』",
     Eng:"\"The King will reply, 'I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.'",
     Ind:"Dan Raja itu akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang kamu lakukan untuk salah seorang dari saudara-Ku yang paling hina ini, kamu telah melakukannya untuk Aku."
   },
   {Bible:"Matthew", Chapter:25, Verse:41, Page:1,
-    Kor:"그 때에 임금은 왼쪽에 있는 사람들에게도 말할 것이다. '저주받은 자들아, 내게서 떠나서, 악마와 그 졸개들을 가두려고 준비한 영원한 불 속으로 들어가라.",
+    Kor:"그 때에 그는 또 왼쪽에 있는 사람들에게도 말할 것이다. '저주받은 자들아, 내게서 떠나서, 악마와 그 부하들을 가두려고 준비한 영원한 불 속으로 들어가거라.",
     Chn:"王又要向那左边的说：『你们这被咒诅的人，离开我！进入那为魔鬼和他的使者所预备的永火里去！",
     Eng:"\"Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.",
     Ind:"Dan Ia akan berkata juga kepada mereka yang di sebelah kiri-Nya: Enyahlah dari hadapan-Ku, hai kamu orang-orang terkutuk, enyahlah ke dalam api yang kekal yang telah sedia untuk Iblis dan malaikat-malaikatnya."
   },
   {Bible:"Matthew", Chapter:25, Verse:42, Page:1,
-    Kor:"너희는 내가 주릴 때에 내게 먹을 것을 주지 않았고, 목마를 때에 마실 것을 주지 않았고,",
+    Kor:"너희는, 내가 주렸을 때에 내게 먹을 것을 주지 않았고, 목말랐을 때에 마실 것을 주지 않았고,",
     Chn:"因为我饿了，你们不给我吃，渴了，你们不给我喝；",
     Eng:"For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,",
     Ind:"Sebab ketika Aku lapar, kamu tidak memberi Aku makan; ketika Aku haus, kamu tidak memberi Aku minum;"
   },
   {Bible:"Matthew", Chapter:25, Verse:43, Page:1,
-    Kor:"나그네로 있을 때에 영접하지 않았고, 헐벗었을 때에 입을 것을 주지 않았고, 병들어 있을 때나 감옥에 갇혀 있을 때에 찾아 주지 않았다.'",
+    Kor:"나그네 되었을 때에 영접하지 않았고, 헐벗었을 때에 입을 것을 주지 않았고, 병들었을 때나 감옥에 갇혔을 때에 찾아 주지 않았다.'",
     Chn:"我作客旅，你们不留我住；我赤身露体，你们不给我穿；我病了，我在监里，你们不来看顾我。』",
     Eng:"I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.'",
     Ind:"ketika Aku seorang asing, kamu tidak memberi Aku tumpangan; ketika Aku telanjang, kamu tidak memberi Aku pakaian; ketika Aku sakit dan dalam penjara, kamu tidak melawat Aku."
   },
   {Bible:"Matthew", Chapter:25, Verse:44, Page:1,
-    Kor:"그 때에 그들도 이렇게 말할 것이다. '주님, 우리가 언제 주님께서 굶주리신 것이나, 목마르신 것이나, 나그네 되신 것이나, 헐벗으신 것이나, 병드신 것이나, 감옥에 갇히신 것을 보고도 돌보아 드리지 않았다는 것입니까?'",
+    Kor:"그 때에 그들도 대답하여 말할 것이다. '주님, 우리가 언제, 주께서 굶주리신 것이나, 목마르신 것이나, 나그네 되신 것이나, 헐벗으신 것이나, 병드신 것이나, 감옥에 갇히신 것을 보고도 돌보아 드리지 않았다는 것입니까?'",
     Chn:"他们也要回答说：『主啊，我们什么时候见你饿了，或渴了，或作客旅，或赤身露体，或病了，或在监里，不伺候你呢？』",
     Eng:"\"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'",
     Ind:"Lalu merekapun akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar, atau haus, atau sebagai orang asing, atau telanjang atau sakit, atau dalam penjara dan kami tidak melayani Engkau?"
   },
   {Bible:"Matthew", Chapter:25, Verse:45, Page:1,
-    Kor:"그 때에 임금이 그들에게 대답하기를 '내가 진정으로 너희에게 말한다. 여기 이 사람들 가운데서 지극히 보잘 것 없는 사람 하나에게 하지 않은 것이 곧 내게 하지 않은 것이다' 하고 말할 것이다.",
+    Kor:"그 때에 임금은 대답하기를 '내가 진정으로 너희에게 말한다. 여기 이 사람들 가운데서 지극히 보잘 것 없는 사람 하나에게 하지 않은 것이 곧 내게 하지 않은 것이다' 하고 말할 것이다.",
     Chn:"王要回答说：『我实在告诉你们，这些事你们既不做在我这弟兄中一个最小的身上，就是不做在我身上了。』",
     Eng:"\"He will reply, 'I tell you the truth, whatever you did not do for one of the least of these, you did not do for me.'",
     Ind:"Maka Ia akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang tidak kamu lakukan untuk salah seorang dari yang paling hina ini, kamu tidak melakukannya juga untuk Aku."
   },
   {Bible:"Matthew", Chapter:25, Verse:46, Page:1,
-    Kor:"그리하여, 그들은 영원한 형벌로 들어가고, 의인들은 영원한 생명으로 들어갈 것이다.\"",
+    Kor:"그리하여, 그들은 영원한 형벌로 들어가고, 의인들은 영원한 삶으로 들어갈 것이다.\"",
     Chn:"这些人要往永刑里去；那些义人要往永生里去。」",
     Eng:"\"Then they will go away to eternal punishment, but the righteous to eternal life.\"",
     Ind:"Dan mereka ini akan masuk ke tempat siksaan yang kekal, tetapi orang benar ke dalam hidup yang kekal.\""

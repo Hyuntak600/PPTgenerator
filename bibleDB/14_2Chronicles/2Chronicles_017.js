@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",17,19);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:17, Verse:1, Page:1,
-    Kor:"<여호사밧이 유다의 왕이 되다> 아사의 아들 여호사밧이 그의 뒤를 이어 왕이 되었다. 그는 이스라엘의 침략을 막으려고 국방을 튼튼하게 하였다.",
+    Kor:"아사의 아들 여호사밧이 그의 뒤를 이어 왕이 되었다. 그는 이스라엘을 막으려고 국방을 튼튼하게 하였다.",
     Chn:"亚撒的儿子约沙法接续他作王，奋勇自强，防备以色列人，",
     Eng:"Jehoshaphat his son succeeded him as king and strengthened himself against Israel.",
     Ind:"Maka Yosafat, anaknya, menjadi raja menggantikan dia. Sebagai pemimpin Israel ia memperkuat dirinya"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"dengan menempatkan tentara di semua kota yang berkubu di Yehuda dan pasukan-pasukan pendudukan di tanah Yehuda serta di kota-kota Efraim yang direbut oleh Asa, ayahnya."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:3, Page:1,
-    Kor:"여호사밧이 왕이 되면서부터, 그의 조상 다윗이 걸어 간 그 길을 따랐으므로, 주님께서 여호사밧과 함께 계셨다. 여호사밧은 바알 신들을 찾지 아니하고,",
+    Kor:"여호사밧이 왕이 되면서부터, 그의 조상 다윗이 걸어 간 그 길을 따랐으므로, 주께서 여호사밧과 함께 계셨다. 여호사밧은 바알 신들을 찾지 아니하고,",
     Chn:"耶和华与约沙法同在；因为他行他祖大卫初行的道，不寻求巴力，",
     Eng:"The LORD was with Jehoshaphat because in his early years he walked in the ways his father David had followed. He did not consult the Baals",
     Ind:"Dan TUHAN menyertai Yosafat, karena ia hidup mengikuti jejak yang dahulu dari Daud, bapa leluhurnya, dan tidak mencari Baal-baal,"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"melainkan mencari Allah ayahnya. Ia hidup menurut perintah-perintah-Nya dan tidak berbuat seperti Israel."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:5, Page:1,
-    Kor:"주님께서는 여호사밧이 다스리는 나라를 굳건하게 해주셨다. 온 유다 백성이 여호사밧에게 선물을 바치니, 그의 부귀와 영광이 대단하였다.",
+    Kor:"주께서는 여호사밧이 다스리는 나라를 굳건하게 해주셨다. 온 유다 백성이 여호사밧에게 선물을 바치니, 그의 부귀와 영광이 대단하였다.",
     Chn:"所以耶和华坚定他的国，犹大众人给他进贡；约沙法大有尊荣资财。",
     Eng:"The LORD established the kingdom under his control; and all Judah brought gifts to Jehoshaphat, so that he had great wealth and honor.",
     Ind:"Oleh sebab itu TUHAN mengokohkan kerajaan yang ada di bawah kekuasaannya. Seluruh Yehuda memberikan persembahan kepada Yosafat, sehingga ia menjadi kaya dan sangat terhormat."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:6, Page:1,
-    Kor:"그는 오직 주님께서 지시하신 대로 살기로 다짐하고, 유다에서 산당과 아세라 목상을 없애 버렸다.",
+    Kor:"그는 오직 주께서 가리키는 길로만 가기로 다짐하고, 유다에서 산당과 아세라 목상을 없애 버렸다.",
     Chn:"他高兴遵行耶和华的道，并且从犹大除掉一切邱坛和木偶。",
     Eng:"His heart was devoted to the ways of the LORD; furthermore, he removed the high places and the Asherah poles from Judah.",
     Ind:"Dengan tabah hati ia hidup menurut jalan yang ditunjukkan TUHAN. Pula ia menjauhkan dari Yehuda segala bukit pengorbanan dan tiang berhala."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Bersama-sama mereka turut juga beberapa orang Lewi, yakni Semaya, Netanya, Zebaja, Asael, Semiramot, Yonatan, Adonia, Tobia dan Tob-Adonia disertai imam-imam Elisama dan Yoram."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:9, Page:1,
-    Kor:"그들은 주님의 율법책을 가지고 유다 전국을 돌면서 백성을 가르쳤다. 그들은 유다의 모든 성읍을 다 돌면서 백성을 가르쳤다.",
+    Kor:"그들은 주의 율법책을 가지고 유다 전국을 돌면서 백성을 가르쳤다. 그들은 유다의 모든 성읍을 다 돌면서 백성을 가르쳤다.",
     Chn:"他们带着耶和华的律法书，走遍犹大各城教训百姓。",
     Eng:"They taught throughout Judah, taking with them the Book of the Law of the LORD; they went around to all the towns of Judah and taught the people.",
     Ind:"Mereka memberikan pelajaran di Yehuda dengan membawa kitab Taurat TUHAN. Mereka mengelilingi semua kota di Yehuda sambil mengajar rakyat."
   },
   {Bible:"2Chronicles", Chapter:17, Verse:10, Page:1,
-    Kor:"<여호사밧의 위대성> ○유다의 주위에 있는 모든 나라는 유다를 보호하시는 주님이 두려워서, 감히 여호사밧에게 싸움을 걸지 못하였다.",
+    Kor:"○유다의 주위에 있는 모든 나라는 유다를 보호하시는 주님이 두려워서, 감히 여호사밧에게 싸움을 걸지 못하였다.",
     Chn:"耶和华使犹大四围的列国都甚恐惧，不敢与约沙法争战。",
     Eng:"The fear of the LORD fell on all the kingdoms of the lands surrounding Judah, so that they did not make war with Jehoshaphat.",
     Ind:"Ketakutan yang dari TUHAN menimpa semua kerajaan di negeri-negeri sekeliling Yehuda, sehingga mereka tidak berani berperang melawan Yosafat."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"di samping dia panglima Yohanan dengan dua ratus delapan puluh ribu orang;"
   },
   {Bible:"2Chronicles", Chapter:17, Verse:16, Page:1,
-    Kor:"그 다음으로는 주님을 위하여 자원하여 나선 시그리의 아들 아마샤가 용사 이십만 명을 거느렸다.",
+    Kor:"그 다음으로는 주님을 위하여 자원하여 나선 시그리의 아들 아마시야가 용사 이십만 명을 거느렸다.",
     Chn:"其次是，细基利的儿子亚玛斯雅（他为耶和华牺牲自己）率领大能的勇士—二十万。",
     Eng:"next, Amasiah son of Zicri, who volunteered himself for the service of the LORD, with 200,000.",
     Ind:"dan di samping dia Amasia bin Zikhri, yang dengan sukarela telah menyerahkan dirinya kepada TUHAN, dengan dua ratus ribu pahlawan yang gagah perkasa."

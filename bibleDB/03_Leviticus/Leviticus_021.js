@@ -3,13 +3,13 @@
 BibleDB.ref("Leviticus",21,24);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:21, Verse:1, Page:1,
-    Kor:"<제사장이 지켜야 할 규례> 주님께서 모세에게 말씀하셨다. \"아론의 혈통을 이어받은 제사장들에게 알려라. 너는 그들에게 다음과 같이 일러라. ○제사장은 누구든지, 백성의 주검을 만져 자신의 몸을 더럽히는 일이 없도록 하여라.",
+    Kor:"주께서 모세에게 말씀하셨다. \"아론의 혈통을 이어받은 제사장들에게 알려라. 너는 그들에게 다음과 같이 일러라. ○제사장은 누구든지, 백성의 주검을 만져 자신의 몸을 더럽히는 일이 없도록 하여라.",
     Chn:"耶和华对摩西说：「你告诉亚伦子孙作祭司的说：祭司不可为民中的死人沾染自己，",
     Eng:"The LORD said to Moses, \"Speak to the priests, the sons of Aaron, and say to them: 'A priest must not make himself ceremonially unclean for any of his people who die,",
     Ind:"TUHAN berfirman kepada Musa: \"Berbicaralah kepada para imam, anak-anak Harun, dan katakan kepada mereka: Seorang imam janganlah menajiskan diri dengan orang mati di antara orang-orang sebangsanya,"
   },
   {Bible:"Leviticus", Chapter:21, Verse:2, Page:1,
-    Kor:"가장 가까운 살붙이 곧 어머니나 아버지나 아들이나 딸이나 형제의 주검은 괜찮다.",
+    Kor:"가장 가까운 살붙이, 곧 어머니나 아버지나 아들이나 딸이나 형제의 주검은 괜찮다.",
     Chn:"除非为他骨肉之亲的父母、儿女、弟兄，",
     Eng:"except for a close relative, such as his mother or father, his son or daughter, his brother,",
     Ind:"kecuali kalau yang mati itu adalah kerabatnya yang terdekat, yakni: ibunya, ayahnya, anaknya laki-laki atau perempuan, saudaranya laki-laki,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Janganlah mereka menggundul sebagian kepalanya, dan janganlah mereka mencukur tepi janggutnya, dan janganlah mereka menggoresi kulit tubuhnya."
   },
   {Bible:"Leviticus", Chapter:21, Verse:6, Page:1,
-    Kor:"○그들은 하나님께 거룩하게 구별된 사람들이니, 그들이 섬기는 하나님의 이름을 욕되게 해서는 안 된다. 그들은 주에게 제물을 살라 바치는 이들 곧 하나님께 음식을 바치는 이들이기 때문에, 그들은 거룩하여야 한다.",
+    Kor:"○그들은 하나님께 거룩하게 구별된 사람들이니, 그들이 섬기는 하나님의 이름을 욕되게 해서는 안 된다. 그들은 주께 제물을 살라 바치는 이들, 곧 하나님께 음식을 바치는 이들이기 때문에, 그들은 거룩하여야 한다.",
     Chn:"要归　神为圣，不可亵渎　神的名；因为耶和华的火祭，就是　神的食物，是他们献的，所以他们要成为圣。",
     Eng:"They must be holy to their God and must not profane the name of their God. Because they present the offerings made to the LORD by fire, the food of their God, they are to be holy.",
     Ind:"Mereka itu harus kudus bagi Allahnya dan janganlah mereka melanggar kekudusan nama Allahnya, karena merekalah yang mempersembahkan segala korban api-apian TUHAN, santapan Allah mereka, dan karena itu haruslah mereka kudus."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ia harus mengambil seorang perempuan yang masih perawan."
   },
   {Bible:"Leviticus", Chapter:21, Verse:14, Page:1,
-    Kor:"과부나 이혼한 여자나 이미 몸을 버린 여자나 창녀와 결혼해서는 안 된다. 그는 다만 자기 백성 가운데서 처녀를 아내로 맞이하여야 한다.",
+    Kor:"과부나 이혼한 여자나 이미 몸을 버린 여자나 창녀와 결혼해서는 안 된다. 그는 다만 자기 백성 가운데서 숫처녀를 아내로 맞이하여야 한다.",
     Chn:"寡妇或是被休的妇人，或是被污为妓的女人，都不可娶；只可娶本民中的处女为妻。",
     Eng:"He must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people,",
     Ind:"Seorang janda atau perempuan yang telah diceraikan atau yang dirusak kesuciannya atau perempuan sundal, janganlah diambil, melainkan harus seorang perawan dari antara orang-orang sebangsanya,"
@@ -93,19 +93,19 @@ BibleDB.add([
     Ind:"supaya jangan ia melanggar kekudusan keturunannya di antara orang-orang sebangsanya, sebab Akulah TUHAN, yang menguduskan dia.\""
   },
   {Bible:"Leviticus", Chapter:21, Verse:16, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Leviticus", Chapter:21, Verse:17, Page:1,
-    Kor:"\"너는 아론에게 이렇게 말하여라. ○대대로, 너의 자손 가운데서 몸에 흠이 있는 사람은 하나님께 음식제물을 바치러 나올 수 없다.",
+    Kor:"\"너는 아론에게 이렇게 말하여라. 대대로, 너의 자손 가운데서 몸에 흠이 있는 사람은 하나님께 음식제물을 바치러 나올 수 없다.",
     Chn:"「你告诉亚伦说：你世世代代的后裔，凡有残疾的，都不可近前来献他　神的食物。",
     Eng:"\"Say to Aaron: 'For the generations to come none of your descendants who has a defect may come near to offer the food of his God.",
     Ind:"\"Katakanlah kepada Harun, begini: Setiap orang dari antara keturunanmu turun-temurun yang bercacat badannya, janganlah datang mendekat untuk mempersembahkan santapan Allahnya,"
   },
   {Bible:"Leviticus", Chapter:21, Verse:18, Page:1,
-    Kor:"몸에 흠이 있어서 하나님께 가까이 나아갈 수 없는 사람은, 눈이 먼 사람이나, 다리를 저는 사람이나, 얼굴이 일그러진 사람이나, 몸의 어느 부위가 제대로 생기지 않은 사람이나,",
+    Kor:"몸에 흠이 있어서 하나님께 가까이 나아갈 수 없는 사람은, 곧 눈이 먼 사람이나, 다리를 저는 사람이나, 얼굴이 일그러진 사람이나, 몸의 어느 부위가 제대로 생기지 않은 사람이나,",
     Chn:"因为凡有残疾的，无论是瞎眼的、瘸腿的、塌鼻子的、肢体有余的、",
     Eng:"No man who has any defect may come near: no man who is blind or lame, disfigured or deformed;",
     Ind:"karena setiap orang yang bercacat badannya tidak boleh datang mendekat: orang buta, orang timpang, orang yang bercacat mukanya, orang yang terlalu panjang anggotanya,"
@@ -117,19 +117,19 @@ BibleDB.add([
     Ind:"orang yang patah kakinya atau tangannya,"
   },
   {Bible:"Leviticus", Chapter:21, Verse:20, Page:1,
-    Kor:"곱사등이나, 난쟁이나, 눈에 백태가 끼어 잘 보지 못하는 사람이나, 가려움증이 있는 환자나, 종기를 앓는 환자나, 고환이 상한 사람들이다.",
+    Kor:"곱사등이나, 난쟁이나, 눈에 백태가 끼어 잘 보지 못하는 사람이나, 가려움증이 있는 환자나, 종기를 앓는 환자나, 고환이 상한 사람 들이다.",
     Chn:"驼背的、矮矬的、眼睛有毛病的、长癣的、长疥的，或是损坏肾子的，都不可近前来。",
     Eng:"or who is hunchbacked or dwarfed, or who has any eye defect, or who has festering or running sores or damaged testicles.",
     Ind:"orang yang berbongkol atau yang kerdil badannya atau yang bular matanya, orang yang berkedal atau berkurap atau yang rusak buah pelirnya."
   },
   {Bible:"Leviticus", Chapter:21, Verse:21, Page:1,
-    Kor:"제사장 아론의 자손 가운데서 이처럼 몸에 흠이 있는 사람은, 누구든지 주에게 가까이 나아와 살라 바치는 제사를 드릴 수 없다. 몸에 흠이 있는 사람은 하나님께 음식제물을 바치러 나올 수 없다.",
+    Kor:"제사장 아론의 자손 가운데서 이처럼 몸에 흠이 있는 사람은, 누구든지 주께 가까이 나아와 살라 바치는 제사를 드릴 수 없다. 몸에 흠이 있는 사람은 하나님께 음식제물을 바치러 나올 수 없다.",
     Chn:"祭司亚伦的后裔，凡有残疾的，都不可近前来，将火祭献给耶和华。他有残疾，不可近前来献　神的食物。",
     Eng:"No descendant of Aaron the priest who has any defect is to come near to present the offerings made to the LORD by fire. He has a defect; he must not come near to offer the food of his God.",
     Ind:"Setiap orang dari keturunan imam Harun, yang bercacat badannya, janganlah datang untuk mempersembahkan segala korban api-apian TUHAN; karena badannya bercacat janganlah ia datang dekat untuk mempersembahkan santapan Allahnya."
   },
   {Bible:"Leviticus", Chapter:21, Verse:22, Page:1,
-    Kor:"그러나 그 사람도 하나님께 바친 음식 곧 가장 거룩한 제물과 거룩한 일반제물을 먹을 수는 있다.",
+    Kor:"그러나 그 사람도 하나님께 바친 음식, 곧 가장 거룩한 제물과 거룩한 일반제물을 먹을 수는 있다.",
     Chn:"神的食物，无论是圣的，至圣的，他都可以吃。",
     Eng:"He may eat the most holy food of his God, as well as the holy food;",
     Ind:"Mengenai santapan Allahnya, baik persembahan-persembahan maha kudus maupun persembahan-persembahan kudus boleh dimakannya."

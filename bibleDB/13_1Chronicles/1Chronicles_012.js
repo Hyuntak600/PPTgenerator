@@ -1,9 +1,9 @@
 // 역대상 12장 · 1Chronicles 12
 // [절 수] 아래 숫자를 이 장의 마지막 절 번호로 고치세요.
-BibleDB.ref("1Chronicles",12,40);
+BibleDB.ref("1Chronicles",12,41);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:12, Verse:1, Page:1,
-    Kor:"<베냐민 지파에서 다윗을 따른 사람들> 다윗이 기스의 아들 사울에게 쫓겨서 시글락에 있을 때에, 그에게 와서 싸움을 도운 용사들은 다음과 같다.",
+    Kor:"다윗이 기스의 아들 사울에게 쫓겨서 시글락에 있을 때에, 그에게 와서 싸움을 도운 용사들은 다음과 같다.",
     Chn:"大卫因怕基士的儿子扫罗，躲在洗革拉的时候，有勇士到他那里帮助他打仗。",
     Eng:"These were the men who came to David at Ziklag, while he was banished from the presence of Saul son of Kish (they were among the warriors who helped him in battle;",
     Ind:"Inilah orang-orang yang datang kepada Daud di Ziklag, selama ia harus menyingkir karena Saul bin Kish. Merekapun termasuk pahlawan-pahlawan yang membantu dia dalam peperangan."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Yoela, Zebaja, anak-anak Yeroham, dari Gedor."
   },
   {Bible:"1Chronicles", Chapter:12, Verse:8, Page:1,
-    Kor:"<갓 지파에서 다윗을 따른 사람들> ○갓 지파 가운데서 광야에 있는 요새로 다윗을 찾아간 사람들이 있었다. 그들은 용맹스러운 용사들이요, 방패와 창을 다룰 줄 아는, 싸움에 익숙한 군인들이다. 그들의 얼굴은 사자의 얼굴과 같고 빠르기는 산의 노루와 같았다.",
+    Kor:"○갓 지파 가운데서 광야에 있는 요새로 다윗을 찾아간 사람들이 있었다. 그들은 용맹스러운 용사들이요, 방패와 창을 다룰 줄 아는, 싸움에 익숙한 군인들이다. 그들의 얼굴은 사자의 얼굴과 같고 빠르기는 산의 노루와 같았다.",
     Chn:"迦得支派中有人到旷野的山寨投奔大卫，都是大能的勇士，能拿盾牌和枪的战士。他们的面貌好像狮子，快跑如同山上的鹿。",
     Eng:"Some Gadites defected to David at his stronghold in the desert. They were brave warriors, ready for battle and able to handle the shield and spear. Their faces were the faces of lions, and they were as swift as gazelles in the mountains.",
     Ind:"Juga dari orang Gad ada yang memisahkan diri dan pergi kepada Daud ke kubu di padang gurun, yakni pahlawan-pahlawan yang gagah perkasa, orang-orang yang sanggup berperang, yang pandai menggunakan perisai dan tombak, dan rupa mereka seperti singa dan cepatnya seperti kijang di atas pegunungan."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Yeremia, orang kesepuluh; Makhbanai, orang kesebelas."
   },
   {Bible:"1Chronicles", Chapter:12, Verse:14, Page:1,
-    Kor:"○이들은 갓 자손의 군대 지휘관으로서, a그 가운데 계급이 낮은 사람은 백 명을 거느렸고, 높은 사람은 천 명을 거느렸다.(a 또는 '작은 자는 일당 백이요, 큰 자는 일당 천이었다')",
+    Kor:"○이들은 갓 자손의 군대 지휘관으로서, 그 가운데 계급이 낮은 사람은 백 명을 거느렸고, 높은 사람은 천 명을 거느렸다.",
     Chn:"这都是迦得人中的军长，至小的能抵一百人，至大的能抵一千人。",
     Eng:"These Gadites were army commanders; the least was a match for a hundred, and the greatest for a thousand.",
     Ind:"Mereka itulah dari bani Gad, kepala-kepala pasukan; satu orang yang paling kecil sanggup melawan seratus orang, dan yang paling besar sanggup melawan seribu orang."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Mereka itulah yang menyeberangi sungai Yordan di bulan pertama, sekalipun sungai itu meluap sepanjang tepinya dan merekalah yang menghalau seluruh penduduk lembah ke sebelah timur dan ke sebelah barat."
   },
   {Bible:"1Chronicles", Chapter:12, Verse:16, Page:1,
-    Kor:"<베냐민과 유다에서 다윗을 따른 사람들> ○베냐민과 유다 자손 가운데서 요새로 다윗을 찾아온 사람들이 있었다.",
+    Kor:"○베냐민과 유다 자손 가운데서 요새로 다윗을 찾아온 사람들이 있었다.",
     Chn:"又有便雅悯和犹大人到山寨大卫那里。",
     Eng:"Other Benjamites and some men from Judah also came to David in his stronghold.",
     Ind:"Sebagian dari bani Benyamin dan Yehuda datang kepada Daud di kubu itu,"
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"lalu keluarlah Daud menyongsong mereka. Berkatalah ia kepada mereka: \"Jika kamu datang kepadaku dengan maksud damai untuk membantu aku, maka aku rela bersekutu dengan kamu, tetapi jika untuk menyerahkan aku dengan tipu muslihat kepada lawanku, sedang aku tidak melakukan kelaliman, maka biarlah Allah nenek moyang kita melihat itu dan menghukum kamu.\""
   },
   {Bible:"1Chronicles", Chapter:12, Verse:18, Page:1,
-    Kor:"○그 때에 삼십인의 우두머리인 아마새가 하나님의 영에 사로잡혀 말하였다.  \"다윗 장군님, 우리는 장군님의 부하입니다. 이새의 아드님, 우리는 장군님의 편입니다. 하나님이 장군님을 돕는 분이시니 평화에 평화를 누리십시오. 장군님을 돕는 사람에게도 평화가 깃들기를 빕니다.\"  ○다윗은 그들을 기꺼이 받아들여 군대장관으로 삼았다.",
+    Kor:"○그 때에 삼십인의 우두머리인 아마새가 성령에 사로잡혀 말하였다. \"다윗 장군님, 우리는 장군님의 부하입니다. 이새의 아드님, 우리는 장군님의 편입니다. 하나님이 장군님을 돕는 분이시니 평화에 평화를 누리십시오. 장군님을 돕는 사람에게도 평화가 깃들기를 빕니다.\" ○다윗은 그들을 기꺼이 받아들여 군대장관으로 삼았다.",
     Chn:"那时　神的灵感动那三十个勇士的首领亚玛撒，他就说： 大卫啊，我们是归于你的！ 耶西的儿子啊，我们是帮助你的！ 愿你平平安安， 愿帮助你的也都平安！ 因为你的　神帮助你。 大卫就收留他们，立他们作军长。",
     Eng:"Then the Spirit came upon Amasai, chief of the Thirty, and he said: \"We are yours, O David! We are with you, O son of Jesse! Success, success to you, and success to those who help you, for your God will help you.\" So David received them and made them leaders of his raiding bands.",
     Ind:"Lalu Roh menguasai Amasai, kepala ketiga puluh orang itu: Kami ini bagimu, hai Daud, dan pada pihakmu, hai anak Isai! Sejahtera, sejahtera bagimu dan sejahtera bagi penolongmu, sebab yang menolong engkau ialah Allahmu! Kemudian Daud menyambut mereka dan mengangkat mereka menjadi kepala pasukan."
   },
   {Bible:"1Chronicles", Chapter:12, Verse:19, Page:1,
-    Kor:"<므낫세에서 다윗을 따른 사람들> ○므낫세 지파에서도 다윗에게 온 사람들이 있었다. 그 때에 다윗이 블레셋과 함께 나아가 사울과 전쟁을 하려 하였지만, 그들을 도울 수가 없었다. 블레셋 지도자들이 의논한 뒤에 \"그가 우리 머리를 베어서 그의 왕 사울에게 투항할 것이 아니냐?\" 하고 말하면서, 다윗을 돌려보냈기 때문이다.",
+    Kor:"○므낫세 지파에서도 다윗에게 온 사람들이 있었다. 그 때에 다윗이 블레셋과 함께 나아가 사울과 전쟁을 하려 하였지만, 그들을 도울 수가 없었다. 블레셋 지도자들이 의논한 뒤에 \"그가 우리 머리를 베어서 그의 왕 사울에게 투항할 것이 아니냐?\" 하고 말하면서, 다윗을 돌려보냈기 때문이다.",
     Chn:"大卫从前与非利士人同去，要与扫罗争战，有些玛拿西人来投奔大卫，他们却没有帮助非利士人；因为非利士人的首领商议，打发他们回去，说：「恐怕大卫拿我们的首级，归降他的主人扫罗。」",
     Eng:"Some of the men of Manasseh defected to David when he went with the Philistines to fight against Saul. (He and his men did not help the Philistines because, after consultation, their rulers sent him away. They said, \"It will cost us our heads if he deserts to his master Saul.\")",
     Ind:"Juga dari Manasye ada yang menyeberang memihak kepada Daud, ketika ia bersama-sama orang Filistin memerangi Saul. Sebenarnya ia tidak menolong mereka, sebab setelah mengambil keputusan raja-raja kota orang Filistin itu menyuruh dia pergi, katanya: \"Mungkin, dengan taruhan kepala kita, ia menyeberang memihak kepada tuannya, Saul.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dari hari ke hari orang datang kepada Daud untuk membantu dia sehingga mereka menjadi tentara yang besar, seperti bala tentara Allah."
   },
   {Bible:"1Chronicles", Chapter:12, Verse:23, Page:1,
-    Kor:"<다윗의 병력 목록> ○싸우려고 무장하고 헤브론으로 다윗을 찾아와서, 주님의 말씀대로, 사울의 나라가 다윗에게 돌아오도록 공을 세운 사람의 수는 다음과 같다.",
+    Kor:"○싸우려고 무장하고 헤브론으로 다윗을 찾아와서, 주의 말씀대로, 사울의 나라가 다윗에게 돌아오도록 공을 세운 사람의 수는 다음과 같다.",
     Chn:"预备打仗的兵来到希伯 见大卫，要照着耶和华的话将扫罗的国位归与大卫。他们的数目如下：",
     Eng:"These are the numbers of the men armed for battle who came to David at Hebron to turn Saul's kingdom over to him, as the LORD had said:",
     Ind:"Inilah jumlah pasukan bersenjata untuk berperang yang datang kepada Daud di Hebron untuk menyerahkan jabatan raja dari pada Saul kepada Daud, sesuai dengan titah TUHAN."
@@ -241,5 +241,11 @@ BibleDB.add([
     Chn:"靠近他们的人以及以萨迦、西布伦、拿弗他利人将许多面饼、无花果饼、干葡萄、酒、油，用驴、骆驼、骡子、牛驮来，又带了许多的牛和羊来，因为以色列人甚是欢乐。",
     Eng:"Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, oil, cattle and sheep, for there was joy in Israel.",
     Ind:"Juga orang-orang yang tinggal dekat mereka, bahkan dari Isakhar, Zebulon dan Naftali, membawa makanan dengan memakai keledai, unta, bagal dan lembu, yakni bahan makanan tepung, kue ara dan kue kismis, anggur dan minyak, lembu sapi dan kambing domba, dalam jumlah besar, sebab ada sukacita di Israel."
+  },
+  {Bible:"1Chronicles", Chapter:12, Verse:41, Page:1,
+    Kor:"(없음)",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

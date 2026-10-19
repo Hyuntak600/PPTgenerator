@@ -3,13 +3,13 @@
 BibleDB.ref("Psalms",122,9);
 BibleDB.add([
   {Bible:"Psalms", Chapter:122, Verse:1, Page:1,
-    Kor:"<성전에 올라가는 순례자의 노래, 다윗의 시> 사람들이 나를 보고 \"주님의 집으로 올라가자\" 할 때에 나는 기뻤다.",
+    Kor:"사람들이 나를 보고 \"주의 집으로 올라가자\" 할 때에 나는 기뻤다.",
     Chn:"大卫上行之诗。 人对我说：我们往耶和华的殿去， 我就欢喜。",
     Eng:"I rejoiced with those who said to me, \"Let us go to the house of the LORD.\"",
     Ind:"Nyanyian ziarah Daud. Aku bersukacita, ketika dikatakan orang kepadaku: \"Mari kita pergi ke rumah TUHAN.\""
   },
   {Bible:"Psalms", Chapter:122, Verse:2, Page:1,
-    Kor:"예루살렘아, 우리의 발이 네 성문 안에 들어서 있다.",
+    Kor:"예루살렘아, 우리의 발이 네 문 안에 들어서 있다.",
     Chn:"耶路撒冷啊， 我们的脚站在你的门内。",
     Eng:"Our feet are standing in your gates, O Jerusalem.",
     Ind:"Sekarang kaki kami berdiri di pintu gerbangmu, hai Yerusalem."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Hai Yerusalem, yang telah didirikan sebagai kota yang bersambung rapat,"
   },
   {Bible:"Psalms", Chapter:122, Verse:4, Page:1,
-    Kor:"모든 지파들, 주님의 지파들이, 주님의 이름을 찬양하려고 이스라엘의 전례에 따라 그리로 올라가는구나.",
+    Kor:"저 지파들, 주의 지파들이, 주의 이름을 찬양하려고 이스라엘의 전례를 따라 그리로 올라가는구나.",
     Chn:"众支派，就是耶和华的支派，上那里去， 按以色列的常例称赞耶和华的名。",
     Eng:"That is where the tribes go up, the tribes of the LORD, to praise the name of the LORD according to the statute given to Israel.",
     Ind:"ke mana suku-suku berziarah, yakni suku-suku TUHAN, untuk bersyukur kepada nama TUHAN sesuai dengan peraturan bagi Israel."
   },
   {Bible:"Psalms", Chapter:122, Verse:5, Page:1,
-    Kor:"거기에 다스리는 보좌가 놓여 있으니, 다윗 가문의 보좌로구나.",
+    Kor:"거기에 재판의 보좌들이 놓여 있으니, 다윗 가문의 보좌들이로구나.",
     Chn:"因为在那里设立审判的宝座， 就是大卫家的宝座。",
     Eng:"There the thrones for judgment stand, the thrones of the house of David.",
     Ind:"Sebab di sanalah ditaruh kursi-kursi pengadilan, kursi-kursi milik keluarga raja Daud."

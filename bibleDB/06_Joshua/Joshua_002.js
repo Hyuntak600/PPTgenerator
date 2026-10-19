@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",2,24);
 BibleDB.add([
   {Bible:"Joshua", Chapter:2, Verse:1, Page:1,
-    Kor:"<여호수아가 여리고에 정탐꾼을 보내다> 눈의 아들 여호수아가 싯딤에서 정탐꾼 두 사람을 보내며 일렀다. \"가서, 몰래 그 땅을 정탐하여라. 특히 여리고 성을 잘 살펴라.\" 그들은 그 곳을 떠나, 어느 창녀의 집에 들어가 거기에서 묵었다. 그 집에는 이름이 라합이라고 하는 a창녀가 살고 있었다.(a 요세푸스, '여관 주인')",
+    Kor:"눈의 아들 여호수아가 싯딤에서 정탐꾼 두 사람을 보내며 일렀다. \"가서, 몰래 그 땅을 정탐하여라. 특히 여리고 성을 잘 살펴라.\" 그들은 그 곳을 떠나, 어느 창녀의 집에 들어가 거기에서 묵었다. 그 집에는 이름이 라합이라고 하는 창녀가 살고 있었다.",
     Chn:"当下，嫩的儿子约书亚从什亭暗暗打发两个人作探子，吩咐说：「你们去窥探那地和耶利哥。」于是二人去了，来到一个妓女名叫喇合的家里，就在那里躺卧。",
     Eng:"Then Joshua son of Nun secretly sent two spies from Shittim. \"Go, look over the land,\" he said, \"especially Jericho.\" So they went and entered the house of a prostitute named Rahab and stayed there.",
     Ind:"Yosua bin Nun dengan diam-diam melepas dari Sitim dua orang pengintai, katanya: \"Pergilah, amat-amatilah negeri itu dan kota Yerikho.\" Maka pergilah mereka dan sampailah mereka ke rumah seorang perempuan sundal, yang bernama Rahab, lalu tidur di situ."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Kemudian diberitahukanlah kepada raja Yerikho, demikian: \"Tadi malam ada orang datang ke mari dari orang Israel untuk menyelidik negeri ini.\""
   },
   {Bible:"Joshua", Chapter:2, Verse:3, Page:1,
-    Kor:"여리고 왕이 라합에게 전갈을 보냈다. \"너에게 온 사람들 곧 네 집에 온 사람들을 데려오너라. 그들은 이 온 땅을 정탐하려고 왔다.\"",
+    Kor:"여리고 왕이 라합에게 전갈을 보냈다. \"너에게 온 사람들, 곧 네 집에 온 사람들을 데려오너라. 그들은 이 온 땅을 정탐하려고 왔다.\"",
     Chn:"耶利哥王打发人去见喇合说：「那来到你这里、进了你家的人要交出来，因为他们来窥探全地。」",
     Eng:"So the king of Jericho sent this message to Rahab: \"Bring out the men who came to you and entered your house, because they have come to spy out the whole land.\"",
     Ind:"Maka raja Yerikho menyuruh orang kepada Rahab, mengatakan: \"Bawalah ke luar orang-orang yang datang kepadamu itu, yang telah masuk ke dalam rumahmu, sebab mereka datang untuk menyelidik seluruh negeri ini.\""
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Tetapi sebelum kedua orang itu tidur, naiklah perempuan itu mendapatkan mereka di atas sotoh"
   },
   {Bible:"Joshua", Chapter:2, Verse:9, Page:1,
-    Kor:"말하였다. \"나는 주님께서 이 땅을 당신들에게 주신 것을 압니다. 우리는 당신들 때문에 공포에 사로잡혀 있고, 이 땅의 주민들은 모두 하나같이 당신들 때문에 간담이 서늘했습니다.",
+    Kor:"말하였다. \"나는 주께서 이 땅을 당신들에게 주신 것을 압니다. 우리는 당신들 때문에 공포에 사로잡혀 있고, 이 땅의 주민들은 모두 하나같이 당신들 때문에 간담이 서늘했습니다.",
     Chn:"对他们说：「我知道耶和华已经把这地赐给你们，并且因你们的缘故我们都惊慌了。这地的一切居民在你们面前心都消化了；",
     Eng:"and said to them, \"I know that the LORD has given this land to you and that a great fear of you has fallen on us, so that all who live in this country are melting in fear because of you.",
     Ind:"dan berkata kepada orang-orang itu: \"Aku tahu, bahwa TUHAN telah memberikan negeri ini kepada kamu dan bahwa kengerian terhadap kamu telah menghinggapi kami dan segala penduduk negeri ini gemetar menghadapi kamu."
   },
   {Bible:"Joshua", Chapter:2, Verse:10, Page:1,
-    Kor:"당신들이 이집트에서 나올 때에, 주님께서 당신들 앞에서 어떻게 b홍해의 물을 마르게 하셨으며, 또 당신들이 요단 강 동쪽에 있는 아모리 사람의 두 왕 시혼과 옥을 어떻게 c전멸시켜서 희생제물로 바쳤는가 하는 소식을, 우리가 들었기 때문입니다.(b 히, '얌 쑤프' c 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"당신들이 이집트에서 나올 때에, 주께서 당신들 앞에서 어떻게 홍해의 물을 마르게 하셨으며, 또 당신들이 요단 강 동쪽에 있는 아모리 사람의 두 왕 시혼과 옥을 어떻게 전멸시켜서 희생제물로 바쳤는가 하는 소식을, 우리가 들었기 때문입니다.",
     Chn:"因为我们听见你们出埃及的时候，耶和华怎样在你们前面使红海的水干了，并且你们怎样待约旦河东的两个亚摩利王西宏和噩，将他们尽行毁灭。",
     Eng:"We have heard how the LORD dried up the water of the Red Sea for you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites east of the Jordan, whom you completely destroyed.",
     Ind:"Sebab kami mendengar, bahwa TUHAN telah mengeringkan air Laut Teberau di depan kamu, ketika kamu berjalan keluar dari Mesir, dan apa yang kamu lakukan kepada kedua raja orang Amori yang di seberang sungai Yordan itu, yakni kepada Sihon dan Og, yang telah kamu tumpas."
   },
   {Bible:"Joshua", Chapter:2, Verse:11, Page:1,
-    Kor:"우리는 그 말을 듣고 간담이 서늘했고, 당신들 때문에 정신을 잃고 말았습니다. 위로는 하늘에서 아래로는 땅 위에서, 과연 주 당신들의 하나님만이 참 하나님이십니다.",
+    Kor:"우리는 그 말을 듣고 간담이 서늘했고, 당신들 때문에 정신을 잃고 말았습니다. 과연 주 당신들의 하나님만이, 위로는 하늘에서 아래로는 땅 위에서, 참 하나님이십니다.",
     Chn:"我们一听见这些事，心就消化了。因你们的缘故，并无一人有胆气。耶和华—你们的　神本是上天下地的　神。",
     Eng:"When we heard of it, our hearts melted and everyone's courage failed because of you, for the LORD your God is God in heaven above and on the earth below.",
     Ind:"Ketika kami mendengar itu, tawarlah hati kami dan jatuhlah semangat setiap orang menghadapi kamu, sebab TUHAN, Allahmu, ialah Allah di langit di atas dan di bumi di bawah."
   },
   {Bible:"Joshua", Chapter:2, Verse:12, Page:1,
-    Kor:"내가 당신들에게 은혜를 베풀었으니, 이제 당신들도 내 아버지의 집안에 은혜를 베푸시겠다고 주님 앞에서 맹세를 하시고, 그것을 지키겠다는 확실한 징표를 나에게 주십시오.",
+    Kor:"내가 당신들에게 은혜를 베풀었으니, 이제 당신들도 내 아버지의 집안에 은혜를 베푸시겠다고 주 앞에서 맹세를 하시고, 그것을 지키겠다는 확실한 징표를 나에게 주십시오.",
     Chn:"现在我既是恩待你们，求你们指着耶和华向我起誓，也要恩待我父家，并给我一个实在的证据，",
     Eng:"Now then, please swear to me by the LORD that you will show kindness to my family, because I have shown kindness to you. Give me a sure sign",
     Ind:"Maka sekarang, bersumpahlah kiranya demi TUHAN, bahwa karena aku telah berlaku ramah terhadapmu, kamu juga akan berlaku ramah terhadap kaum keluargaku; dan berikanlah kepadaku suatu tanda yang dapat dipercaya,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"bahwa kamu akan membiarkan hidup ayah dan ibuku, saudara-saudaraku yang laki-laki dan yang perempuan dan semua orang-orang mereka dan bahwa kamu akan menyelamatkan nyawa kami dari maut.\""
   },
   {Bible:"Joshua", Chapter:2, Verse:14, Page:1,
-    Kor:"○정탐꾼들이 그 여인에게 말하였다. \"d우리가 목숨을 내놓고라도, 약속한 것은 지키겠소. 우리가 한 일을 어느 누구에게도 일러바치지 않는다면, 주님께서 우리에게 이 땅을 주실 때에, 우리는 친절과 성실을 다하여 그대를 대하겠소.\"(d 히, '우리의 생명은 너희의 생명')",
+    Kor:"○정탐꾼들이 그 여인에게 말하였다. \"우리가 목숨을 내놓고라도, 약속한 것은 지키겠소. 우리가 한 일을 어느 누구에게도 일러바치지 않는다면, 주께서 우리에게 이 땅을 주실 때에, 우리는 친절과 성실을 다하여 그대를 대하겠소.\"",
     Chn:"二人对她说：「你若不泄漏我们这件事，我们情愿替你们死。耶和华将这地赐给我们的时候，我们必以慈爱诚实待你。」",
     Eng:"\"Our lives for your lives!\" the men assured her. \"If you don't tell what we are doing, we will treat you kindly and faithfully when the LORD gives us the land.\"",
     Ind:"Lalu jawab kedua orang itu kepadanya: \"Nyawa kamilah jaminan bagi kamu, asal jangan kaukabarkan perkara kami ini; apabila TUHAN nanti memberikan negeri ini kepada kami, maka kami akan menunjukkan terima kasih dan setia kami kepadamu.\""
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Merekapun pergilah dan tiba di pegunungan. Mereka tinggal di sana tiga hari lamanya, sampai pengejar-pengejar itu pulang. Pengejar-pengejar itu telah mencari di mana-mana sepanjang jalan tanpa menemukan mereka."
   },
   {Bible:"Joshua", Chapter:2, Verse:23, Page:1,
-    Kor:"두 사람은 산에서 다시 내려와 e강을 건넜고, 눈의 아들 여호수아에게 이르러서, 그들이 겪은 모든 일을 보고하였다.(e 요단 강 동쪽으로 돌아옴)",
+    Kor:"두 사람은 산에서 다시 내려와 강을 건넜고, 눈의 아들 여호수아에게 이르러서, 그들이 겪은 모든 일을 보고하였다.",
     Chn:"二人就下山回来，过了河，到嫩的儿子约书亚那里，向他述说所遭遇的一切事；",
     Eng:"Then the two men started back. They went down out of the hills, forded the river and came to Joshua son of Nun and told him everything that had happened to them.",
     Ind:"Maka pulanglah kedua orang itu, mereka turun dari pegunungan, lalu menyeberang dan sampai kepada Yosua bin Nun, kemudian mereka ceritakan segala pengalaman mereka."
   },
   {Bible:"Joshua", Chapter:2, Verse:24, Page:1,
-    Kor:"그들이 여호수아에게 말하였다. \"주님께서 그 땅을 모두 우리 손에 넘겨 주셨으므로 그 땅의 모든 주민이 우리를 무서워하고 있습니다.\"",
+    Kor:"그들이 여호수아에게 말하였다. \"주께서 그 땅을 모두 우리 손에 넘겨 주셨으므로 그 땅의 모든 주민이 우리를 무서워하고 있습니다.\"",
     Chn:"又对约书亚说：「耶和华果然将那全地交在我们手中；那地的一切居民在我们面前心都消化了。」",
     Eng:"They said to Joshua, \"The LORD has surely given the whole land into our hands; all the people are melting in fear because of us.\"",
     Ind:"Kata mereka kepada Yosua: \"TUHAN telah menyerahkan seluruh negeri ini ke dalam tangan kita, bahkan seluruh penduduk negeri itu gemetar menghadapi kita.\""

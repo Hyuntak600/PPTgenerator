@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",31,21);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:31, Verse:1, Page:1,
-    Kor:"<히스기야의 종교 개혁> 거기에 있던 모든 이스라엘 사람들은 이 모든 일을 마치고 나서, 각각 유다의 여러 성읍으로 돌아 다니며 기둥 석상을 산산이 부수고, 아세라 목상을 찍어 버리고, 유다와 베냐민과 에브라임과 므낫세 온 땅에서 산당과 제단을 하나도 남기지 않고 없앤 다음에, 각자의 고향, 자기들의 유산이 있는 곳으로 돌아갔다.",
+    Kor:"거기에 있던 모든 이스라엘 사람들은 이 모든 일을 마치고 나서, 각각 유다의 여러 성읍으로 돌아 다니며 기둥 석상을 산산이 부수고, 아세라 목상을 찍어 버리고, 유다와 베냐민과 에브라임과 므낫세 온 땅에서 산당과 제단을 하나도 남기지 않고 없앤 다음에, 각자의 고향, 자기들의 유산이 있는 곳으로 돌아갔다.",
     Chn:"这事既都完毕，在那里的以色列众人就到犹大的城邑，打碎柱像，砍断木偶，又在犹大、便雅悯、以法莲、玛拿西遍地将邱坛和祭坛拆毁净尽。于是以色列众人各回各城，各归各地。",
     Eng:"When all this had ended, the Israelites who were there went out to the towns of Judah, smashed the sacred stones and cut down the Asherah poles. They destroyed the high places and the altars throughout Judah and Benjamin and in Ephraim and Manasseh. After they had destroyed all of them, the Israelites returned to their own towns and to their own property.",
     Ind:"Setelah semuanya ini diakhiri, seluruh orang Israel yang hadir pergi ke kota-kota di Yehuda, lalu meremukkan segala tugu berhala, menghancurkan segala tiang berhala, dan merobohkan segala bukit pengorbanan dan mezbah di seluruh Yehuda dan Benyamin, juga di Efraim dan Manasye, sampai musnah semuanya. Kemudian pulanglah seluruh orang Israel ke kota-kotanya, ke miliknya masing-masing."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:2, Page:1,
-    Kor:"○히스기야는 레위 사람들과 제사장들을 갈래를 따라 다시 조직하여, 각자에게 특수한 임무를 맡겼다. 제사장들과 레위 사람들은 각자 맡은 임무에 따라, 번제를 드리는 일, 화목제를 드리는 일, 성전 예배에 참석하는 일, 주님의 성전 여러 곳에서 찬양과 감사의 노래를 부르는 일을 하였다.",
+    Kor:"○히스기야는 레위 사람들과 제사장들을 갈래를 따라 다시 조직하여, 각자에게 특수한 임무를 맡겼다. 제사장들과 레위 사람들은 각자 맡은 임무에 따라, 번제를 드리는 일, 화목제를 드리는 일, 성전 예배에 참석하는 일, 주의 성전의 여러 곳에서 찬양과 감사의 노래를 부르는 일을 하였다.",
     Chn:"希西家派定祭司利未人的班次，各按各职献燔祭和平安祭，又在耶和华殿门内事奉，称谢颂赞耶和华。",
     Eng:"Hezekiah assigned the priests and Levites to divisions--each of them according to their duties as priests or Levites--to offer burnt offerings and fellowship offerings, to minister, to give thanks and to sing praises at the gates of the LORD'S dwelling.",
     Ind:"Hizkia menetapkan rombongan para imam dan orang-orang Lewi, rombongan demi rombongan, masing-masing menurut tugas jabatannya sebagai imam atau sebagai orang Lewi, untuk mempersembahkan korban bakaran dan korban keselamatan, untuk mengucap syukur dan menyanyikan puji-pujian dan untuk melayani di pintu-pintu gerbang di tempat perkemahan TUHAN."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Raja memberi sumbangan dari harta miliknya untuk korban bakaran, yakni: korban bakaran pada waktu pagi dan pada waktu petang, korban bakaran pada hari-hari Sabat dan pada bulan-bulan baru dan pada hari-hari raya, yang semuanya tertulis di dalam Taurat TUHAN."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:4, Page:1,
-    Kor:"○그는, 제사장들과 레위 사람들이 주님의 율법을 지키는 일에만 전념할 수 있게 하려고, 예루살렘에 사는 백성에게 명령을 내려서, 제사장들과 레위 사람들의 몫을 가져 오게 하였다.",
+    Kor:"○그는, 제사장들과 레위 사람들이 주의 율법을 지키는 일에만 전념할 수 있게 하려고, 예루살렘에 사는 백성에게 명령을 내려서, 제사장들과 레위 사람들의 몫을 가져 오게 하였다.",
     Chn:"又吩咐住耶路撒冷的百姓将祭司、利未人所应得的分给他们，使他们专心遵守耶和华的律法。",
     Eng:"He ordered the people living in Jerusalem to give the portion due the priests and Levites so they could devote themselves to the Law of the LORD.",
     Ind:"Ia memerintahkan rakyat, yakni penduduk Yerusalem, untuk memberikan sumbangan yang menjadi bagian para imam dan orang-orang Lewi, supaya mereka dapat mencurahkan tenaganya untuk melaksanakan Taurat TUHAN."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Segera setelah perintah ini tersiar, orang Israel membawa dalam jumlah yang besar hasil pertama dari pada gandum, anggur, minyak, madu dan segala macam hasil bumi. Mereka membawa juga persembahan persepuluhan dari segala sesuatu dalam jumlah yang besar."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:6, Page:1,
-    Kor:"유다의 여러 성읍에 사는 이스라엘 자손과 유다 자손도 소와 양의 십일조를 가져 왔고, 주 하나님께 거룩하게 구별하여 드릴 물건의 십일조를 가져 왔다. 이렇게 가져 온 것을 차곡차곡 더미가 되도록 쌓았다.",
+    Kor:"유다의 여러 성읍에 사는 이스라엘 자손과 유다 자손도 소와 양의 십일조를 가져 왔고, 주 하나님께 거룩하게 구별하여 드릴 물건의 십일조를 가져 왔다. 이렇게 가져 온 것을 차곡차곡 더미로 쌓았다.",
     Chn:"住犹大各城的以色列人和犹大人也将牛羊的十分之一，并分别为圣归耶和华—他们　神之物，就是十分取一之物，尽都送来，积成堆垒；",
     Eng:"The men of Israel and Judah who lived in the towns of Judah also brought a tithe of their herds and flocks and a tithe of the holy things dedicated to the LORD their God, and they piled them in heaps.",
     Ind:"Orang Israel dan orang Yehuda yang tinggal di kota-kota Yehuda juga membawa persembahan persepuluhan yang terdiri dari lembu sapi dan kambing domba, dan persembahan persepuluhan yang terdiri dari persembahan kudus yang telah dikuduskan bagi TUHAN Allah mereka. Semuanya itu diletakkan mereka bertimbun-timbun."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:7, Page:1,
-    Kor:"셋째 달에 쌓기 시작하여, 일을 끝낸 것이 일곱째 달이었다.",
+    Kor:"셋째 달에 더미를 쌓기 시작하여, 일을 끝낸 것이 일곱째 달이었다.",
     Chn:"从三月积起，到七月才完。",
     Eng:"They began doing this in the third month and finished in the seventh month.",
     Ind:"Mereka mulai membuat timbunan itu pada bulan yang ketiga, dan mereka selesai pada bulan yang ketujuh."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:8, Page:1,
-    Kor:"히스기야와 대신들이 와서, 이 더미를 보고서, 주님을 찬양하고, 백성을 칭찬하였다.",
+    Kor:"히스기야와 대신들이 와서, 이 더미를 보고서, 주를 찬양하고, 백성을 칭찬하였다.",
     Chn:"希西家和众首领来，看见堆垒，就称颂耶和华，又为耶和华的民以色列人祝福。",
     Eng:"When Hezekiah and his officials came and saw the heaps, they praised the LORD and blessed his people Israel.",
     Ind:"Hizkia dan para pemimpin datang melihat timbunan itu, dan mereka memuji TUHAN dan umat-Nya, orang Israel."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Hizkia menanyakan para imam dan orang-orang Lewi tentang timbunan itu,"
   },
   {Bible:"2Chronicles", Chapter:31, Verse:10, Page:1,
-    Kor:"사독의 자손인 아사랴 대제사장이 왕에게 대답하였다. \"백성이 주님의 성전에 예물을 드리기 시작하면서부터, 우리는 먹을 것을 넉넉하게 공급받았을 뿐 아니라, 남은 것이 이렇게 많습니다. 남은 것이 이렇게 많이 쌓인 것은, 주님께서 그의 백성에게 복을 베푸신 까닭인 줄로 압니다.\"",
+    Kor:"사독의 자손인 아사랴 대제사장이 왕에게 대답하였다. \"백성이 주의 성전에 예물을 드리기 시작하면서부터, 우리는 먹을 것을 넉넉하게 공급받았을 뿐 아니라, 남은 것이 이렇게 많습니다. 남은 것이 이렇게 많이 쌓인 것은, 주께서 그의 백성에게 복을 베푸신 까닭인 줄로 압니다.\"",
     Chn:"撒督家的大祭司亚撒利雅回答说：「自从民将供物送到耶和华殿以来，我们不但吃饱，且剩下的甚多；因为耶和华赐福给他的民，所剩下的才这样丰盛。」",
     Eng:"and Azariah the chief priest, from the family of Zadok, answered, \"Since the people began to bring their contributions to the temple of the LORD, we have had enough to eat and plenty to spare, because the LORD has blessed his people, and this great amount is left over.\"",
     Ind:"dan dijawab oleh Azarya, imam kepala keturunan Zadok demikian: \"Sejak persembahan khusus mulai dibawa ke rumah TUHAN, kami telah makan sekenyang-kenyangnya, namun sisanya masih banyak. Sebab TUHAN telah memberkati umat-Nya, sehingga tinggal sisa yang banyak ini.\""
   },
   {Bible:"2Chronicles", Chapter:31, Verse:11, Page:1,
-    Kor:"○히스기야가 주님의 성전 안에 방을 마련하도록 명령을 내리니, 곧 방을 마련하고,",
+    Kor:"○히스기야가 주의 성전 안에 방을 마련하도록 명령을 내리니, 곧 방을 마련하고,",
     Chn:"希西家吩咐在耶和华殿里预备仓房，他们就预备了。",
     Eng:"Hezekiah gave orders to prepare storerooms in the temple of the LORD, and this was done.",
     Ind:"Kemudian Hizkia menyuruh menyediakan bilik-bilik di rumah TUHAN dan mereka menyediakannya."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"sedang Yehiel, Azazya, Nahat, Asael, Yerimot, Yozabad, Eliel, Yismakhya, Mahat dan Benanya adalah penilik di bawah Konanya dan Simei, saudaranya itu, sesuai dengan petunjuk raja Hizkia dan Azarya, kepala rumah Allah."
   },
   {Bible:"2Chronicles", Chapter:31, Verse:14, Page:1,
-    Kor:"또 성전 '동쪽 문'을 지키는 레위 사람 임나의 아들 고레는, 백성이 하나님께 즐거이 드리는 예물을 받아서 주님께 드리는 일과, 가장 거룩한 것을 제사장들에게 나누어 주는 일을 맡았다.",
+    Kor:"또 성전 '동쪽 문'을 지키는 레위 사람 임나의 아들 고레는, 백성이 하나님께 즐거이 드리는 예물을 받아서 주께 드리는 일과, 가장 거룩한 것을 제사장들에게 나누어 주는 일을 맡았다.",
     Chn:"守东门的利未人音拿的儿子可利，掌管乐意献与　神的礼物，发放献与耶和华的供物和至圣的物。",
     Eng:"Kore son of Imnah the Levite, keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions made to the LORD and also the consecrated gifts.",
     Ind:"Dan Kore bin Yimna, seorang Lewi, penunggu pintu gerbang di sebelah timur, mengawasi pemberian-pemberian sukarela untuk Allah, serta membagi-bagikan persembahan khusus yang untuk TUHAN dan persembahan-persembahan maha kudus."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Di kota-kota imam ia dibantu dengan setia oleh Eden, Minyamin, Yesua, Semaya, Amarya dan Sekhanya dalam pembagian itu kepada saudara-saudara mereka menurut rombongan, kepada orang dewasa dan anak-anak,"
   },
   {Bible:"2Chronicles", Chapter:31, Verse:16, Page:1,
-    Kor:"세 살 이상으로, 족보에 기록된 모든 남자들 외에도, 날마다 주님의 성전에 순서에 따라 들어가서, 책임을 수행하는 남자들에게도 몫을 나누어 주었다.",
+    Kor:"세 살 이상으로, 족보에 기록된 모든 남자들 외에도, 날마다 주의 성전에 순서에 따라 들어가서, 책임을 수행하는 남자들에게도 몫을 나누어 주었다.",
     Chn:"按家谱，三岁以外的男丁，凡每日进耶和华殿、按班次供职的，也分给他；",
     Eng:"In addition, they distributed to the males three years old or more whose names were in the genealogical records--all who would enter the temple of the LORD to perform the daily duties of their various tasks, according to their responsibilities and their divisions.",
     Ind:"kecuali kepada setiap orang yang masuk ke rumah TUHAN, menurut hari-hari yang ditetapkan, menurut tugas jabatan yang ditugaskan kepadanya, dan menurut rombongannya, yakni mereka yang tercatat dalam daftar sebagai laki-laki yang berumur tiga tahun ke atas."

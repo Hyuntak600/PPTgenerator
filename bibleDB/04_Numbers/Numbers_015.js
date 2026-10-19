@@ -3,25 +3,25 @@
 BibleDB.ref("Numbers",15,41);
 BibleDB.add([
   {Bible:"Numbers", Chapter:15, Verse:1, Page:1,
-    Kor:"<희생제사> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:15, Verse:2, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 일러라. 그들에게 이렇게 말하여라. ○이제 너희는 내가 너희에게 줄 땅, 곧 너희가 살 곳으로 들어갈 것이다.",
+    Kor:"\"너는 이스라엘 자손에게 일러라. 그들에게 이렇게 말하여라. ○'이제 너희는 내가 너희에게 줄 땅, 곧 너희가 살 곳으로 들어갈 것이다.",
     Chn:"「你晓谕以色列人说：你们到了我所赐给你们居住的地，",
     Eng:"\"Speak to the Israelites and say to them: 'After you enter the land I am giving you as a home",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila kamu masuk ke negeri yang akan Kuberikan kepadamu menjadi tempat kediamanmu,"
   },
   {Bible:"Numbers", Chapter:15, Verse:3, Page:1,
-    Kor:"그러면 너희는 소 떼나 양 떼 가운데서 제물을 골라, 나 주에게 불살라 바치는 제사, 곧 주를 기쁘게 하는 향기를 드리게 될 것이다. 서원한 것을 갚으려고 드리든, 자원해서 바치는 제물을 드리든, 너희가 지키는 여러 절기에 드리는 번제나 희생제를 드릴 것이다.",
+    Kor:"그러면 너희는 소 떼나 양 떼 가운데서 제물을 골라, 주께 불살라 바치는 제사, 곧 주를 기쁘시게 하는 향기를 드리게 될 것이다. 서원한 것을 갚으려고 드리든, 자원해서 바치는 제물을 드리든, 너희가 지키는 여러 절기에 드리는 번제나 희생제를 드릴 것이다.",
     Chn:"若愿意从牛群羊群中取牛羊作火祭，献给耶和华，无论是燔祭是平安祭，为要还特许的愿，或是作甘心祭，或是逢你们节期献的，都要奉给耶和华为馨香之祭。",
     Eng:"and you present to the LORD offerings made by fire, from the herd or the flock, as an aroma pleasing to the Lord--whether burnt offerings or sacrifices, for special vows or freewill offerings or festival offerings--",
     Ind:"dan kamu hendak mempersembahkan korban api-apian bagi TUHAN, dari lembu sapi atau kambing domba, baik korban bakaran atau korban sembelihan, baik untuk membayar suatu nazar khusus, atau sebagai persembahan sukarela atau pada waktu perayaan-perayaanmu, dan dengan demikian menyediakan bau yang menyenangkan bagi TUHAN,"
   },
   {Bible:"Numbers", Chapter:15, Verse:4, Page:1,
-    Kor:"○나 주에게 제물을 바칠 사람은 고운 가루 십분의 일 에바에 기름 사분의 일 힌을 반죽한 곡식제물을 함께 주에게 바쳐야 한다.",
+    Kor:"○주께 제물을 드릴 사람은 고운 가루 십분의 일 에바에 기름 사분의 일 힌을 반죽한 곡식제물을 함께 주께 바쳐야 한다.",
     Chn:"那献供物的就要将细面伊法十分之一，并油一欣四分之一，调和作素祭，献给耶和华。",
     Eng:"then the one who brings his offering shall present to the LORD a grain offering of a tenth of an ephah of fine flour mixed with a quarter of a hin of oil.",
     Ind:"maka orang yang mempersembahkan persembahannya itu kepada TUHAN, haruslah mempersembahkan sebagai korban sajian sepersepuluh efa tepung yang terbaik, diolah dengan seperempat hin minyak."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Tetapi jikalau persembahanmu itu seekor domba jantan, engkau harus mempersembahkan sebagai korban sajian dua persepuluh efa tepung yang terbaik, diolah dengan sepertiga hin minyak,"
   },
   {Bible:"Numbers", Chapter:15, Verse:7, Page:1,
-    Kor:"부어 드리는 제물로는 삼분의 일 힌의 포도주를 준비해야 한다. 그것들을 제물 타는 향기로 주를 기쁘게 하는 제사로 드려라.",
+    Kor:"부어 드리는 제물로는 삼분의 일 힌의 포도주를 준비해야 한다. 그것들을 제물 타는 향기로 주를 기쁘시게 해 드리는 제사로 드려라.",
     Chn:"又用酒一欣三分之一作奠祭，献给耶和华为馨香之祭。",
     Eng:"and a third of a hin of wine as a drink offering. Offer it as an aroma pleasing to the LORD.",
     Ind:"dan sebagai korban curahan haruslah kaupersembahkan sepertiga hin anggur, menjadi bau yang menyenangkan bagi TUHAN."
   },
   {Bible:"Numbers", Chapter:15, Verse:8, Page:1,
-    Kor:"○서원한 것을 갚으려고 하거나, 주에게 화목제사를 드리려고 하여, 번제물이나 희생제물로 수송아지를 준비할 때에는,",
+    Kor:"○서원한 것을 갚으려고 하거나, 주께 화목제사를 드리려고 하여, 번제물이나 희생제물로 수송아지를 준비할 때에는,",
     Chn:"你预备公牛作燔祭，或是作平安祭，为要还特许的愿，或是作平安祭，献给耶和华，",
     Eng:"\"'When you prepare a young bull as a burnt offering or sacrifice, for a special vow or a fellowship offering to the LORD,",
     Ind:"Dan apabila engkau mengolah seekor lembu, sebagai korban bakaran atau sebagai korban sembelihan, baik untuk membayar suatu nazar khusus maupun sebagai korban keselamatan bagi TUHAN,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"maka beserta lembu itu haruslah dipersembahkan sebagai korban sajian tiga persepuluh efa tepung yang terbaik, diolah dengan setengah hin minyak,"
   },
   {Bible:"Numbers", Chapter:15, Verse:10, Page:1,
-    Kor:"부어 드리는 제물로는 포도주 반 힌을 가져 오면 된다. 이것이 불살라 바치는 제사, 곧 제물 타는 향기로 주를 기쁘게 하는 제사가 될 것이다.",
+    Kor:"부어 드리는 제물로는 포도주 반 힌을 가져 오면 된다. 이것이 불살라 바치는 제사, 곧 제물 타는 향기로 주를 기쁘시게 해 드리는 제사가 될 것이다.",
     Chn:"又用酒半欣作奠祭，献给耶和华为馨香的火祭。",
     Eng:"Also bring half a hin of wine as a drink offering. It will be an offering made by fire, an aroma pleasing to the LORD.",
     Ind:"dan sebagai korban curahan haruslah kaupersembahkan setengah hin anggur. Itulah korban api-apian yang baunya menyenangkan bagi TUHAN."
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"Demikianlah harus diperbuat untuk setiap ekor lembu dan untuk setiap ekor domba jantan dan untuk setiap ekor domba atau kambing."
   },
   {Bible:"Numbers", Chapter:15, Verse:12, Page:1,
-    Kor:"그러나 너희가 준비하는 것이 한 마리가 넘을 때에는, 그 수효에 따라서 함께 바치는 제물의 수도 많아질 것이다.",
+    Kor:"그러나 너희가 준비하는 것이 한 마리가 넘을 때에는, 그 수효에 따라서 함께 드리는 제물의 수도 많아질 것이다.",
     Chn:"照你们所预备的数目，按着只数都要这样办理。",
     Eng:"Do this for each one, for as many as you prepare.",
     Ind:"Berapapun jumlah hewan yang kamu olah, untuk setiap hewan itu harus kamu perbuat demikian juga."
   },
   {Bible:"Numbers", Chapter:15, Verse:13, Page:1,
-    Kor:"누구든지 본토에서 난 사람들이, 주를 기쁘게 하는 향기로 불살라 바치는 제물을 가져 올 때에는, 위에서 말한 대로 해야 한다.",
+    Kor:"누구든지 본토에서 난 사람들이, 주를 기쁘시게 해 드리는 향기로 불살라 바치는 제물을 가져 올 때에는, 위에서 말한 대로 해야 한다.",
     Chn:"凡本地人将馨香的火祭献给耶和华，都要这样办理。",
     Eng:"\"'Everyone who is native-born must do these things in this way when he brings an offering made by fire as an aroma pleasing to the LORD.",
     Ind:"Setiap orang Israel asli haruslah berbuat demikian, apabila ia mempersembahkan korban api-apian yang baunya menyenangkan bagi TUHAN."
   },
   {Bible:"Numbers", Chapter:15, Verse:14, Page:1,
-    Kor:"○너희 가운데 몸붙여 사는 외국인이나 대대로 너희 가운데 섞여 사는 사람들은, 주를 기쁘게 하는 향기로 불살라 바치는 제물을 바칠 때에는, 너희가 하는 것과 꼭같이 그렇게 하여야 한다.",
+    Kor:"○너희 가운데 몸붙여 사는 외국인이나 대대로 너희 가운데 섞여 사는 사람들은, 주를 기쁘시게 해 드리는 향기로 불살라 바치는 제물을 드릴 때에는, 너희가 하는 것과 꼭같이 그렇게 하여야 한다.",
     Chn:"若有外人和你们同居，或有人世世代代住在你们中间，愿意将馨香的火祭献给耶和华，你们怎样办理，他也要照样办理。",
     Eng:"For the generations to come, whenever an alien or anyone else living among you presents an offering made by fire as an aroma pleasing to the LORD, he must do exactly as you do.",
     Ind:"Dan apabila seorang asing telah menetap padamu, atau seorang lain yang tinggal di antara kamu atau di antara keturunanmu kelak, hendak mempersembahkan korban api-apian yang baunya menyenangkan bagi TUHAN, maka seperti yang kamu perbuat, demikianlah harus diperbuatnya."
@@ -93,61 +93,61 @@ BibleDB.add([
     Ind:"Mengenai jemaah itu, haruslah ada satu ketetapan bagi kamu dan bagi orang asing yang tinggal padamu; itulah suatu ketetapan untuk selama-lamanya bagi kamu turun-temurun: kamu dan orang asing haruslah sama di hadapan TUHAN."
   },
   {Bible:"Numbers", Chapter:15, Verse:16, Page:1,
-    Kor:"같은 법과 같은 규례가 너희에게와 너희 가운데 살고 있는 외국인들에게 함께 적용될 것이다.\"",
+    Kor:"같은 법과 같은 규례가 너희에게와 너희 가운데 살고 있는 외국인들에게 함께 적용될 것이다.'\"",
     Chn:"你们并与你们同居的外人当有一样的条例，一样的典章。」",
     Eng:"The same laws and regulations will apply both to you and to the alien living among you.'\"",
     Ind:"Satu hukum dan satu peraturan berlaku bagi kamu dan bagi orang asing yang tinggal padamu.\""
   },
   {Bible:"Numbers", Chapter:15, Verse:17, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"Lagi berfirmanlah TUHAN kepada Musa:"
   },
   {Bible:"Numbers", Chapter:15, Verse:18, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 이렇게 일러라. ○내가 너희를 데리고 갈 그 땅에 너희가 들어가면,",
+    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 이렇게 일러라. '내가 너희를 데리고 갈 그 땅에 너희가 들어가면,",
     Chn:"「你晓谕以色列人说：你们到了我所领你们进去的那地，",
     Eng:"\"Speak to the Israelites and say to them: 'When you enter the land to which I am taking you",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila kamu masuk ke negeri, ke mana kamu akan Kubawa,"
   },
   {Bible:"Numbers", Chapter:15, Verse:19, Page:1,
-    Kor:"너희는 그 땅에서 난 양식을 먹게 될 터인데, 그 때에 너희는 나 주에게 헌납물을 바쳐야 한다.",
+    Kor:"너희는 그 땅에서 난 양식을 먹게 될 터인데, 그 때에 너희는 주께 헌납물을 드려야 한다.",
     Chn:"吃那地的粮食，就要把举祭献给耶和华。",
     Eng:"and you eat the food of the land, present a portion as an offering to the LORD.",
     Ind:"maka apabila kamu makan roti hasil negeri itu haruslah kamu mempersembahkan persembahan khusus bagi TUHAN."
   },
   {Bible:"Numbers", Chapter:15, Verse:20, Page:1,
-    Kor:"너희가 처음 거두어들인 곡식으로 만든 과자를 헌납물로 바쳐라. 그것을 타작 마당에서 타작한 헌납물로 바쳐라.",
+    Kor:"너희가 처음 거두어들인 곡식으로 만든 과자를 헌납물로 드려라. 그것을 타작 마당에서 타작한 헌납물로 드려라.",
     Chn:"你们要用初熟的麦子磨面，做饼当举祭奉献；你们举上，好像举禾场的举祭一样。",
     Eng:"Present a cake from the first of your ground meal and present it as an offering from the threshing floor.",
     Ind:"Tepung jelaimu yang mula-mula haruslah kamu persembahkan sebagai persembahan khusus berupa roti bundar; sama seperti persembahan khusus dari hasil tempat pengirikanmu, demikianlah harus kamu mempersembahkannya"
   },
   {Bible:"Numbers", Chapter:15, Verse:21, Page:1,
-    Kor:"너희가 처음 거두어들인 곡식에서 떼어 낸 헌납물을 너희 대대로 나 주에게 바쳐라.",
+    Kor:"너희가 처음 거두어들인 곡식에서 떼어 낸 헌납물을 너희 대대로 주께 드려라.",
     Chn:"你们世世代代要用初熟的麦子磨面，当举祭献给耶和华。",
     Eng:"Throughout the generations to come you are to give this offering to the LORD from the first of your ground meal.",
     Ind:"Dari tepung jelaimu yang mula-mula haruslah kamu menyerahkan persembahan khusus kepada TUHAN, turun-temurun.\""
   },
   {Bible:"Numbers", Chapter:15, Verse:22, Page:1,
-    Kor:"○너희가 실수하여, 나 주가 모세에게 말한 이 모든 명령을 실천하지 못하였을 때에,",
+    Kor:"○너희가 실수하여, 주께서 모세에게 말씀하신 이 모든 명령을 실천하지 못하였을 때에,",
     Chn:"「你们有错误的时候，不守耶和华所晓谕摩西的这一切命令，",
     Eng:"\"'Now if you unintentionally fail to keep any of these commands the LORD gave Moses--",
     Ind:"\"Apabila kamu dengan tidak sengaja melalaikan salah satu dari segala perintah ini, yang telah difirmankan TUHAN kepada Musa,"
   },
   {Bible:"Numbers", Chapter:15, Verse:23, Page:1,
-    Kor:"곧 나 주가 모세를 시켜 너희에게 명한 모든 것을 나 주가 명한 그 날 이후부터, 너희 대대로 실천하지 못하였을 때에,",
+    Kor:"곧 주께서 모세를 시켜 너희에게 명하신 모든 것을 주께서 명하신 그 날 이후부터, 너희 대대로 실천하지 못하였을 때에,",
     Chn:"就是耶和华借摩西一切所吩咐你们的，自那日以至你们的世世代代，",
     Eng:"any of the LORD'S commands to you through him, from the day the LORD gave them and continuing through the generations to come--",
     Ind:"yakni dari segala yang diperintahkan TUHAN kepadamu dengan perantaraan Musa, mulai dari hari TUHAN memberikan perintah-perintah-Nya dan seterusnya turun-temurun,"
   },
   {Bible:"Numbers", Chapter:15, Verse:24, Page:1,
-    Kor:"그것이 회중이 모르는 가운데 실수로 저지른 것이면, 온 회중은 수송아지 한 마리를 번제물, 곧 주를 기쁘게 하는 향기로 불살라서 바치고, 거기에 딸린 곡식제물과 부어 드리는 제물도 규례대로 바쳐야 한다. 또 숫염소 한 마리를 속죄제물로 바쳐야 한다.",
+    Kor:"그것이 회중이 모르는 가운데 실수로 저지른 것이면, 온 회중은 수송아지 한 마리를 번제물, 곧 주를 기쁘시게 해 드리는 향기로 불살라서 바치고, 거기에 딸린 곡식제물과 부어 드리는 제물도 규례대로 드려야 한다. 또 숫염소 한 마리를 속죄제물로 드려야 한다.",
     Chn:"若有误行，是会众所不知道的，后来全会众就要将一只公牛犊作燔祭，并照典章把素祭和奠祭一同献给耶和华为馨香之祭，又献一只公山羊作赎罪祭。",
     Eng:"and if this is done unintentionally without the community being aware of it, then the whole community is to offer a young bull for a burnt offering as an aroma pleasing to the LORD, along with its prescribed grain offering and drink offering, and a male goat for a sin offering.",
     Ind:"dan apabila hal itu diperbuat di luar pengetahuan umat ini, tidak dengan sengaja, maka haruslah segenap umat mengolah seekor lembu jantan muda sebagai korban bakaran menjadi bau yang menyenangkan bagi TUHAN, serta dengan korban sajiannya dan korban curahannya, sesuai dengan peraturan; juga seekor kambing jantan sebagai korban penghapus dosa."
   },
   {Bible:"Numbers", Chapter:15, Verse:25, Page:1,
-    Kor:"이렇게 제사장이 이스라엘 자손 온 회중의 죄를 속하여 주면, 그들은 속죄를 받게 된다. 그것은 실수로 저지른 것이기 때문이다. 그들은 자신들의 실수로 잘못을 저질렀으니, 나 주에게 불살라 바치는 제물과 속죄제물을 주 앞에 가져 와야 한다.",
+    Kor:"이렇게 제사장이 이스라엘 자손 온 회중의 죄를 속하여 주면, 그들은 속죄를 받게 된다. 그것은 실수로 저지른 것이기 때문이다. 그들은 자신들의 실수로 잘못을 저질렀으니, 주께 불살라 바치는 제물과 속죄제물을 주 앞에 가져 와야 한다.",
     Chn:"祭司要为以色列全会众赎罪，他们就必蒙赦免，因为这是错误。他们又因自己的错误，把供物，就是向耶和华献的火祭和赎罪祭，一并奉到耶和华面前。",
     Eng:"The priest is to make atonement for the whole Israelite community, and they will be forgiven, for it was not intentional and they have brought to the LORD for their wrong an offering made by fire and a sin offering.",
     Ind:"Maka haruslah imam mengadakan pendamaian bagi segenap umat Israel, sehingga mereka beroleh pengampunan, sebab hal itu terjadi tidak dengan sengaja, dan karena mereka telah membawa persembahan-persembahan mereka sebagai korban api-apian bagi TUHAN, juga korban penghapus dosa mereka di hadapan TUHAN, karena hal yang tidak disengaja itu."
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Tetapi orang yang berbuat sesuatu dengan sengaja, baik orang Israel asli, baik orang asing, orang itu menjadi penista TUHAN, ia harus dilenyapkan dari tengah-tengah bangsanya,"
   },
   {Bible:"Numbers", Chapter:15, Verse:31, Page:1,
-    Kor:"나 주의 말을 경멸하고 그의 명령을 어겼으므로, 그런 사람은 반드시 쫓아내야 한다. 자기의 죄는 자기가 짊어져야 한다.\"",
+    Kor:"주님의 말씀을 경멸하고 그의 명령을 어겼으므로, 그런 사람은 반드시 쫓아내야 한다. 자기의 죄는 자기가 짊어져야 한다.'\"",
     Chn:"因他藐视耶和华的言语，违背耶和华的命令，那人总要剪除；他的罪孽要归到他身上。」",
     Eng:"Because he has despised the LORD'S word and broken his commands, that person must surely be cut off; his guilt remains on him.'\"",
     Ind:"sebab ia telah memandang hina terhadap firman TUHAN dan merombak perintah-Nya; pastilah orang itu dilenyapkan, kesalahannya akan tertimpa atasnya.\""
   },
   {Bible:"Numbers", Chapter:15, Verse:32, Page:1,
-    Kor:"<안식일에 일을 한 사람> ○이스라엘 자손이 광야에 있을 때였다. 한 사람이 안식일에 나무를 하다 들켰다.",
+    Kor:"○이스라엘 자손이 광야에 있을 때였다. 한 사람이 안식일에 나무를 하다 들켰다.",
     Chn:"以色列人在旷野的时候，遇见一个人在安息日捡柴。",
     Eng:"While the Israelites were in the desert, a man was found gathering wood on the Sabbath day.",
     Ind:"Ketika orang Israel ada di padang gurun, didapati merekalah seorang yang mengumpulkan kayu api pada hari Sabat."
@@ -207,25 +207,25 @@ BibleDB.add([
     Ind:"Orang itu dimasukkan dalam tahanan, oleh karena belum ditentukan apa yang harus dilakukan kepadanya."
   },
   {Bible:"Numbers", Chapter:15, Verse:35, Page:1,
-    Kor:"그 때에 주님께서 모세에게 말씀하셨다. \"그 사람은 반드시 죽여야 한다. 온 회중은 진 밖에서 그를 돌로 쳐야 한다.\"",
+    Kor:"그 때에 주께서 모세에게 말씀하셨다. \"그 사람은 반드시 죽여야 한다. 온 회중은 진 밖에서 그를 돌로 쳐야 한다.\"",
     Chn:"耶和华吩咐摩西说：「总要把那人治死；全会众要在营外用石头把他打死。」",
     Eng:"Then the LORD said to Moses, \"The man must die. The whole assembly must stone him outside the camp.\"",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa: \"Orang itu pastilah dihukum mati; segenap umat Israel harus melontari dia dengan batu di luar tempat perkemahan.\""
   },
   {Bible:"Numbers", Chapter:15, Verse:36, Page:1,
-    Kor:"그래서 온 회중은, 주님께서 모세에게 명하신 대로, 그를 진 밖으로 끌어내어, 돌로 쳐죽였다.",
+    Kor:"그래서 온 회중은, 주께서 모세에게 명하신 대로, 그를 진 밖으로 끌어내어, 돌로 쳐죽였다.",
     Chn:"于是全会众将他带到营外，用石头打死他，是照耶和华所吩咐摩西的。",
     Eng:"So the assembly took him outside the camp and stoned him to death, as the LORD commanded Moses.",
     Ind:"Lalu segenap umat menggiring dia ke luar tempat perkemahan, kemudian dia dilontari dengan batu, sehingga ia mati, seperti yang difirmankan TUHAN kepada Musa."
   },
   {Bible:"Numbers", Chapter:15, Verse:37, Page:1,
-    Kor:"<옷자락에 다는 술> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
   },
   {Bible:"Numbers", Chapter:15, Verse:38, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 일러라. ○너희는 대대손손 옷자락 끝에 술을 만들어야 하고, 그 옷자락 술에는 청색 끈을 달아야 한다.",
+    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 일러라. '너희는 대대손손 옷자락 끝에 술을 만들어야 하고, 그 옷자락 술에는 청색 끈을 달아야 한다.",
     Chn:"「你吩咐以色列人，叫他们世世代代在衣服边上做 子，又在底边的 子上钉一根蓝细带子。",
     Eng:"\"Speak to the Israelites and say to them: 'Throughout the generations to come you are to make tassels on the corners of your garments, with a blue cord on each tassel.",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka, bahwa mereka harus membuat jumbai-jumbai pada punca baju mereka, turun-temurun, dan dalam jumbai-jumbai punca itu haruslah dibubuh benang ungu kebiru-biruan."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Maksudnya supaya kamu mengingat dan melakukan segala perintah-Ku dan menjadi kudus bagi Allahmu."
   },
   {Bible:"Numbers", Chapter:15, Verse:41, Page:1,
-    Kor:"나는 주 너희의 하나님이다. 너희의 하나님이 되려고, 너희를 이집트 땅에서 이끌어 내었다. 내가 주 너희의 하나님이다.\"",
+    Kor:"나는 주 너희의 하나님이다. 너희의 하나님이 되려고, 너희를 이집트 땅에서 이끌어 내었다. 내가 주 너희의 하나님이다.'\"",
     Chn:"「我是耶和华—你们的　神，曾把你们从埃及地领出来，要作你们的　神。我是耶和华—你们的　神。」",
     Eng:"I am the LORD your God, who brought you out of Egypt to be your God. I am the LORD your God.'\"",
     Ind:"Akulah TUHAN, Allahmu, yang telah membawa kamu keluar dari tanah Mesir, supaya Aku menjadi Allah bagimu; Akulah TUHAN, Allahmu.\""

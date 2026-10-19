@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",16,20);
 BibleDB.add([
   {Bible:"2Kings", Chapter:16, Verse:1, Page:1,
-    Kor:"<유다 왕 아하스(대하 28:1-27)> 르말리야의 아들 베가 제 십칠년에 유다의 요담 왕의 아들 아하스가 왕이 되었다.",
+    Kor:"르말랴의 아들 베가 제 십칠년에 유다의 요담 왕의 아들 아하스가 왕이 되었다.",
     Chn:"利玛利的儿子比加十七年，犹大王约坦的儿子亚哈斯登基。",
     Eng:"In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham king of Judah began to reign.",
     Ind:"Dalam tahun ketujuh belas zaman Pekah bin Remalya, Ahas anak Yotam raja Yehuda menjadi raja."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Ahas berumur dua puluh tahun pada waktu ia menjadi raja dan enam belas tahun lamanya ia memerintah di Yerusalem. Ia tidak melakukan apa yang benar di mata TUHAN, Allahnya, seperti Daud, bapa leluhurnya,"
   },
   {Bible:"2Kings", Chapter:16, Verse:3, Page:1,
-    Kor:"오히려 그는 이스라엘의 왕들이 걸어간 길을 걸어갔고, 자기의 a아들을 불에 태워 제물로 바쳤다. 이것은, 주님께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 민족의 역겨운 풍속을 본받은 행위였다.(a 또는 '아들을 불로 지나가게 하였다')",
+    Kor:"오히려 그는 이스라엘의 왕들이 걸어간 길을 걸어갔고, 자기의 아들을 불에 태워 제물로 바쳤다. 이것은, 주께서 이스라엘 자손이 보는 앞에서 쫓아내신 이방 민족의 역겨운 풍속을 본받은 행위였다.",
     Chn:"却效法以色列诸王所行的，又照着耶和华从以色列人面前赶出的外邦人所行可憎的事，使他的儿子经火，",
     Eng:"He walked in the ways of the kings of Israel and even sacrificed his son in the fire, following the detestable ways of the nations the LORD had driven out before the Israelites.",
     Ind:"tetapi ia hidup menurut kelakuan raja-raja Israel, bahkan dia mempersembahkan anaknya sebagai korban dalam api, sesuai dengan perbuatan keji bangsa-bangsa yang telah dihalau TUHAN dari depan orang Israel."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Ia mempersembahkan dan membakar korban di bukit-bukit pengorbanan dan di atas tempat-tempat yang tinggi dan di bawah setiap pohon yang rimbun."
   },
   {Bible:"2Kings", Chapter:16, Verse:5, Page:1,
-    Kor:"○그 때에 시리아의 르신 왕과 이스라엘의 르말리야의 아들 베가 왕이 예루살렘을 치려고 올라와서, 아하스를 포위하기는 하였으나, 정복하지는 못하였다.",
+    Kor:"○그 때에 시리아의 르신 왕과 이스라엘의 르말랴의 아들 베가 왕이 예루살렘을 치려고 올라와서, 아하스를 포위하기는 하였으나, 정복하지는 못하였다.",
     Chn:"亚兰王利汛和以色列王利玛利的儿子比加上来攻打耶路撒冷，围困亚哈斯，却不能胜他。",
     Eng:"Then Rezin king of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem and besieged Ahaz, but they could not overpower him.",
     Ind:"Pada waktu itu majulah Rezin, raja Aram, dan Pekah bin Remalya, raja Israel, untuk memerangi Yerusalem. Dan mereka mengepung Ahas, tetapi mereka tidak dapat mengalahkan dia."
   },
   {Bible:"2Kings", Chapter:16, Verse:6, Page:1,
-    Kor:"그 때에 시리아의 르신 왕이, 시리아에게 엘랏을 되찾아 주었고, 엘랏에서 유다 사람들을 몰아내었으므로, 시리아 사람들이 이 날까지 엘랏에 와서 살고 있다.",
+    Kor:"그 때에 시리아의 르신 왕이, 시리아에게 엘랏을 되찾아 주었고, 엘랏에서 유대 사람들을 몰아내었으므로, 시리아 사람들이 이 날까지 엘랏에 와서 살고 있다.",
     Chn:"当时亚兰王利汛收回以拉他归与亚兰，将犹大人从以拉他赶出去。亚兰人就来到以拉他，住在那里，直到今日。",
     Eng:"At that time, Rezin king of Aram recovered Elath for Aram by driving out the men of Judah. Edomites then moved into Elath and have lived there to this day.",
     Ind:"Pada masa itu Rezin, raja Aram, mengembalikan Elat kepada Edom, lalu ia mengusir orang-orang Yehuda dari Elat. Datanglah orang-orang Edom ke Elat dan diam di sana sampai hari ini."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Ahas menyuruh utusan-utusan kepada Tiglat-Pileser, raja Asyur, mengatakan: \"Aku ini hambamu dan anakmu. Majulah dan selamatkanlah aku dari tangan raja Aram dan dari tangan raja Israel, yang telah bangkit menyerang aku.\""
   },
   {Bible:"2Kings", Chapter:16, Verse:8, Page:1,
-    Kor:"그런 다음에 아하스는 주님의 성전과 왕궁의 보물 창고에 있는 금과 은을 모두 꺼내어, 앗시리아의 왕에게 선물로 보냈다.",
+    Kor:"그런 다음에 아하스는 주의 성전과 왕궁의 보물 창고에 있는 금과 은을 모두 꺼내어, 앗시리아의 왕에게 선물로 보냈다.",
     Chn:"亚哈斯将耶和华殿里和王宫府库里所有的金银都送给亚述王为礼物。",
     Eng:"And Ahaz took the silver and gold found in the temple of the LORD and in the treasuries of the royal palace and sent it as a gift to the king of Assyria.",
     Ind:"Ahas mengambil perak dan emas yang terdapat dalam rumah TUHAN dan dalam perbendaharaan istana raja, dan mengirimnya kepada raja Asyur sebagai persembahan."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sesudah itu pergilah raja Ahas menemui Tiglat-Pileser, raja Asyur, ke Damsyik. Setelah raja Ahas melihat mezbah yang ada di Damsyik, dikirimnyalah kepada imam Uria ukuran dan bagan mezbah itu, menurut buatannya yang tepat."
   },
   {Bible:"2Kings", Chapter:16, Verse:11, Page:1,
-    Kor:"그래서 우리야 제사장은, 아하스 왕이 다마스쿠스로부터 보내 온 것을 따라서, 제단을 만들었다. 우리야 제사장은 아하스 왕이 다마스쿠스로부터 돌아오기 전에 제단 건축을 모두 완성하였다.",
+    Kor:"그래서 우리야 제사장은, 아하스 왕이 다마스쿠스로부터 보내 온 것을 따라서, 제단을 만들었다. 우리야 제사장은 아하스 왕이 다마스쿠스로부터 돌아오기 전에, 제단 건축을 모두 완성하였다.",
     Chn:"祭司乌利亚照着亚哈斯王从大马士革送来的图样，在亚哈斯王没有从大马士革回来之先，建筑一座坛。",
     Eng:"So Uriah the priest built an altar in accordance with all the plans that King Ahaz had sent from Damascus and finished it before King Ahaz returned.",
     Ind:"Lalu imam Uria mendirikan mezbah; tepat seperti keterangan yang dikirimkan raja Ahas dari Damsyik, demikianlah dibuat imam Uria menjelang datangnya raja Ahas dari Damsyik."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Setelah raja pulang dari Damsyik, maka raja melihat mezbah itu. Lalu mendekatlah raja kepada mezbah itu, naik ke atasnya,"
   },
   {Bible:"2Kings", Chapter:16, Verse:13, Page:1,
-    Kor:"그리고 거기에서 그가 직접 번제물과 곡식제물을 드렸고, '부어 드리는 제물'을 따르기도 하였다. 또 제단 위에 화목제물의 피도 뿌렸다.",
+    Kor:"그리고 거기에서 그가 직접 번제물과 곡식제물을 드렸고, 부어 드리는 제물을 따르기도 하였다. 또 제단 위에 화목제물의 피도 뿌렸다.",
     Chn:"烧燔祭、素祭、浇奠祭，将平安祭牲的血洒在坛上，",
     Eng:"He offered up his burnt offering and grain offering, poured out his drink offering, and sprinkled the blood of his fellowship offerings on the altar.",
     Ind:"membakar korban bakarannya dan korban sajiannya, mencurahkan korban curahannya di atas mezbah itu, dan menyiramkan darah korban keselamatannya kepadanya."
   },
   {Bible:"2Kings", Chapter:16, Verse:14, Page:1,
-    Kor:"그리고 그는 주님 앞에 놓여 있는 놋제단을 성전 앞에서 옮겼는데, 새 제단과 주님의 성전 사이에 있는 놋제단을 새 제단 북쪽에 갖다 놓았다.",
+    Kor:"그리고 그는 주 앞에 놓여 있는 놋제단을 성전 앞에서 옮겼는데, 새 제단과 주의 성전 사이에 있는 놋제단을 새 제단 북쪽에 갖다 놓았다.",
     Chn:"又将耶和华面前的铜坛从耶和华殿和新坛的中间搬到新坛的北边。",
     Eng:"The bronze altar that stood before the LORD he brought from the front of the temple--from between the new altar and the temple of the LORD--and put it on the north side of the new altar.",
     Ind:"Tetapi ia menyuruh menggeser mezbah tembaga yang ada di hadapan TUHAN dari depan rumah TUHAN, dari antara mezbah baru dengan rumah itu, dan menaruhnya di sebelah utara mezbah baru itu."
   },
   {Bible:"2Kings", Chapter:16, Verse:15, Page:1,
-    Kor:"아하스 왕은 우리야 제사장에게 명령하였다. \"아침 번제물과 저녁 곡식예물, 왕의 번제물과 곡식예물, 또 이 땅의 모든 백성의 번제물과 곡식예물과 부어 드리는 예물을, 모두 이 큰 제단 위에서 드리도록 하고, 번제물과 희생제물의 모든 피를, 그 위에 뿌리시오. 그러나 그 놋제단은, 내가 주님께 여쭈어 볼 때에만 쓰겠소.\"",
+    Kor:"아하스 왕은 우리야 제사장에게 명령하였다. \"아침 번제물과 저녁 곡식예물, 왕의 번제물과 곡식예물, 또 이 땅의 모든 백성의 번제물과 곡식예물과 부어 드리는 예물을, 모두 이 큰 제단 위에서 드리도록 하고, 번제물과 희생제물의 모든 피를, 그 위에 뿌리시오. 그러나 그 놋제단은, 내가 주께 여쭈어 볼 때에만 쓰겠소.\"",
     Chn:"亚哈斯王吩咐祭司乌利亚说：「早晨的燔祭、晚上的素祭，王的燔祭、素祭，国内众民的燔祭、素祭、奠祭都要烧在大坛上。燔祭牲和平安祭牲的血也要洒在这坛上，只是铜坛我要用以求问耶和华。」",
     Eng:"King Ahaz then gave these orders to Uriah the priest: \"On the large new altar, offer the morning burnt offering and the evening grain offering, the king's burnt offering and his grain offering, and the burnt offering of all the people of the land, and their grain offering and their drink offering. Sprinkle on the altar all the blood of the burnt offerings and sacrifices. But I will use the bronze altar for seeking guidance.\"",
     Ind:"Kemudian raja Ahas memerintahkan kepada imam Uria: \"Bakarlah di atas mezbah besar itu korban bakaran pagi dan korban sajian petang, juga korban bakaran dan korban sajian raja, lagi korban bakaran dan korban sajian dan korban-korban curahan seluruh rakyat negeri; dan siramkanlah kepadanya segenap darah korban bakaran dan segenap darah korban sembelihan; tetapi mezbah tembaga itu adalah urusanku.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Sesudah itu raja Ahas memotong papan penutup kereta penopang dan menyingkirkan bejana pembasuhan dari atasnya, juga \"laut\" itu diturunkannya dari atas lembu tembaga yang mendukungnya dan ditaruhnya di atas alas batu."
   },
   {Bible:"2Kings", Chapter:16, Verse:18, Page:1,
-    Kor:"또 그는 앗시리아 왕에게 경의를 표하려고, 주님의 성전 안에 만들어 둔 왕의 안식일 전용 통로와 주님의 성전 바깥에 만든 전용 출입구를 모두 없애 버렸다.",
+    Kor:"또 그는 앗시리아 왕에게 경의를 표하려고, 주의 성전 안에 만들어 둔 왕의 안식일 전용 통로와 주의 성전 바깥에 만든 전용 출입구를 모두 없애 버렸다.",
     Chn:"又因亚述王的缘故，将耶和华殿为安息日所盖的廊子和王从外入殿的廊子挪移，围绕耶和华的殿。",
     Eng:"He took away the Sabbath canopy that had been built at the temple and removed the royal entryway outside the temple of the LORD, in deference to the king of Assyria.",
     Ind:"Selanjutnya, demi raja Asyur, disingkirkannya dari rumah TUHAN serambi tertutup untuk hari Sabat yang telah didirikan pada rumah TUHAN, juga pintu masuk untuk raja yang di sebelah luar."

@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",55,13);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:55, Verse:1, Page:1,
-    Kor:"<하나님의 자비> 너희 모든 목마른 사람들아, 어서 물로 나오너라. 돈이 없는 사람도 오너라. 너희는 와서 사서 먹되, 돈도 내지 말고 값도 지불하지 말고 포도주와 젖을 사거라.",
+    Kor:"너희 모든 목마른 사람들아, 어서 물로 나오너라. 돈이 없는 사람도 오너라. 너희는 와서 사서 먹되, 돈도 내지 말고 값도 지불하지 말고 포도주와 젖을 사거라.",
     Chn:"你们一切干渴的都当就近水来； 没有银钱的也可以来。 你们都来，买了吃； 不用银钱，不用价值， 也来买酒和奶。",
     Eng:"\"Come, all you who are thirsty, come to the waters; and you who have no money, come, buy and eat! Come, buy wine and milk without money and without cost.",
     Ind:"Ayo, hai semua orang yang haus, marilah dan minumlah air, dan hai orang yang tidak mempunyai uang, marilah! Terimalah gandum tanpa uang pembeli dan makanlah, juga anggur dan susu tanpa bayaran!"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sendengkanlah telingamu dan datanglah kepada-Ku; dengarkanlah, maka kamu akan hidup! Aku hendak mengikat perjanjian abadi dengan kamu, menurut kasih setia yang teguh yang Kujanjikan kepada Daud."
   },
   {Bible:"Isaiah", Chapter:55, Verse:4, Page:1,
-    Kor:"내가 그를 많은 민족 앞에 증인으로 세웠고, 많은 민족들의 a인도자와 명령자로 삼았다.\" (a 또는 '왕과')",
+    Kor:"내가 그를 많은 민족 앞에 증인으로 세웠고, 많은 민족들의 인도자와 명령자로 삼았다.\"",
     Chn:"我已立他作万民的见证， 为万民的君王和司令。",
     Eng:"See, I have made him a witness to the peoples, a leader and commander of the peoples.",
     Ind:"Sesungguhnya, Aku telah menetapkan dia menjadi saksi bagi bangsa-bangsa, menjadi seorang raja dan pemerintah bagi suku-suku bangsa;"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Carilah TUHAN selama Ia berkenan ditemui; berserulah kepada-Nya selama Ia dekat!"
   },
   {Bible:"Isaiah", Chapter:55, Verse:7, Page:1,
-    Kor:"악한 자는 그 길을 버리고, 불의한 자는 그 생각을 버리고, 주님께 돌아오너라. 주님께서 그에게 긍휼을 베푸실 것이다. 우리의 하나님께로 돌아오너라. 주님께서 너그럽게 용서하여 주실 것이다.",
+    Kor:"악한 자는 그 길을 버리고, 불의한 자는 그 생각을 버리고, 주께 돌아오너라. 주께서 그에게 긍휼을 베푸실 것이다. 우리의 하나님께로 돌아오너라. 주께서 너그럽게 용서하여 주실 것이다.",
     Chn:"恶人当离弃自己的道路； 不义的人当除掉自己的意念。 归向耶和华，耶和华就必怜恤他； 当归向我们的　神，因为　神必广行赦免。",
     Eng:"Let the wicked forsake his way and the evil man his thoughts. Let him turn to the LORD, and he will have mercy on him, and to our God, for he will freely pardon.",
     Ind:"Baiklah orang fasik meninggalkan jalannya, dan orang jahat meninggalkan rancangannya; baiklah ia kembali kepada TUHAN, maka Dia akan mengasihaninya, dan kepada Allah kita, sebab Ia memberi pengampunan dengan limpahnya."
   },
   {Bible:"Isaiah", Chapter:55, Verse:8, Page:1,
-    Kor:"\"나의 생각은 너희의 생각과 다르며, 너희의 길은 나의 길과 다르다.\" 주님께서 하신 말씀이다.",
+    Kor:"\"나의 생각은 너희의 생각과 다르며, 너희의 길은 나의 길과 다르다.\" 주께서 하신 말씀이다.",
     Chn:"耶和华说：我的意念非同你们的意念； 我的道路非同你们的道路。",
     Eng:"\"For my thoughts are not your thoughts, neither are your ways my ways,\" declares the LORD.",
     Ind:"Sebab rancangan-Ku bukanlah rancanganmu, dan jalanmu bukanlah jalan-Ku, demikianlah firman TUHAN."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Seperti tingginya langit dari bumi, demikianlah tingginya jalan-Ku dari jalanmu dan rancangan-Ku dari rancanganmu."
   },
   {Bible:"Isaiah", Chapter:55, Verse:10, Page:1,
-    Kor:"비와 눈이 하늘에서 내려서, 땅을 적셔서 싹이 돋아 열매를 맺게 하고, 씨뿌리는 사람에게 씨앗을 주고, 사람에게 먹거리를 주고 나서야, 그 근원으로 돌아가는 것처럼,",
+    Kor:"비와 눈이 하늘에서 내려서, 땅을 적셔서 싹이 돋아 열매를 맺게 하고, 씨뿌리는 사람에게 씨앗을 주고, 사람에게 먹을거리를 주고 나서야, 그 근원으로 돌아가는 것처럼,",
     Chn:"雨雪从天而降，并不返回， 却滋润地土，使地上发芽结实， 使撒种的有种，使要吃的有粮。",
     Eng:"As the rain and the snow come down from heaven, and do not return to it without watering the earth and making it bud and flourish, so that it yields seed for the sower and bread for the eater,",
     Ind:"Sebab seperti hujan dan salju turun dari langit dan tidak kembali ke situ, melainkan mengairi bumi, membuatnya subur dan menumbuhkan tumbuh-tumbuhan, memberikan benih kepada penabur dan roti kepada orang yang mau makan,"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Sungguh, kamu akan berangkat dengan sukacita dan akan dihantarkan dengan damai; gunung-gunung serta bukit-bukit akan bergembira dan bersorak-sorai di depanmu, dan segala pohon-pohonan di padang akan bertepuk tangan."
   },
   {Bible:"Isaiah", Chapter:55, Verse:13, Page:1,
-    Kor:"가시나무가 자라던 곳에는 잣나무가 자랄 것이며, 찔레나무가 자라던 곳에는 화석류가 자랄 것이다. 이것은 영원토록 남아 있어서, 주님께서 하신 일을 증언할 것이다.",
+    Kor:"가시나무가 자라던 곳에는 잣나무가 자랄 것이며, 찔레나무가 자라던 곳에는 화석류가 자랄 것이다. 이것은 영원토록 남아 있어서, 주께서 하신 일을 증언할 것이다.",
     Chn:"松树长出，代替荆棘； 番石榴长出，代替蒺藜。 这要为耶和华留名， 作为永远的证据，不能剪除。",
     Eng:"Instead of the thornbush will grow the pine tree, and instead of briers the myrtle will grow. This will be for the LORD'S renown, for an everlasting sign, which will not be destroyed.\"",
     Ind:"Sebagai ganti semak duri akan tumbuh pohon sanobar, dan sebagai ganti kecubung akan tumbuh pohon murad, dan itu akan terjadi sebagai kemasyhuran bagi TUHAN, sebagai tanda abadi yang tidak akan lenyap."

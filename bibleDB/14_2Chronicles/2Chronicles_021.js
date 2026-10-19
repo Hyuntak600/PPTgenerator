@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Kemudian Yosafat mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di samping nenek moyangnya di kota Daud. Maka Yoram, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"2Chronicles", Chapter:21, Verse:2, Page:1,
-    Kor:"<유다 왕 여호람(왕하 8:17-24)> ○여호사밧의 아들 여호람에게는 아우들이 있었다. 그의 아우 아사랴와 여히엘과 스가랴와 아사랴와 미가엘과 스바댜는, 모두 a이스라엘의 여호사밧 왕이 낳은 아들이었다.(a 남왕국 유다를 가리킴. 대하에서는 자주 남왕국 유다를 이스라엘이라고 함)",
+    Kor:"○여호사밧의 아들 여호람에게는 아우들이 있었다. 그의 아우 아사랴와 여히엘과 스가랴와 아사랴와 미가엘과 스바댜는, 모두 이스라엘의 여호사밧 왕이 낳은 아들이었다.",
     Chn:"约兰有几个兄弟，就是约沙法的儿子亚撒利雅、耶歇、撒迦利雅、亚撒利雅、米迦勒、示法提雅。这都是犹大王约沙法的儿子。",
     Eng:"Jehoram's brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.",
     Ind:"Saudara-saudaranya, anak-anak Yosafat, ialah: Azarya, Yehiel, Zakharia, Azariahu, Mikhael dan Sefaca. Mereka semua anak-anak Yosafat, raja Israel."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Yoram berumur tiga puluh dua tahun pada waktu ia menjadi raja dan delapan tahun lamanya ia memerintah di Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:21, Verse:6, Page:1,
-    Kor:"그는 아합의 딸을 아내로 맞아들였기 때문에, 아합 가문이 한 대로 곧 이스라엘 왕들이 간 길을 갔다. 이와 같이 하여, 그는 주님께서 보시기에 악한 일을 하였다.",
+    Kor:"그는 아합의 딸을 아내로 맞아들였기 때문에, 아합 가문이 한 대로 곧 이스라엘 왕들이 간 길을 갔다. 이와 같이 하여, 그는 주께서 보시기에 악한 일을 하였다.",
     Chn:"他行以色列诸王的道，与亚哈家一样；因他娶了亚哈的女儿为妻，行耶和华眼中看为恶的事。",
     Eng:"He walked in the ways of the kings of Israel, as the house of Ahab had done, for he married a daughter of Ahab. He did evil in the eyes of the LORD.",
     Ind:"Ia hidup menurut kelakuan raja-raja Israel seperti yang dilakukan keluarga Ahab, sebab yang menjadi isterinya adalah anak Ahab. Ia melakukan apa yang jahat di mata TUHAN."
   },
   {Bible:"2Chronicles", Chapter:21, Verse:7, Page:1,
-    Kor:"그러나 주님께서는 다윗 왕가를 멸망시키려고 하지 않으셨다. 일찍이 주님께서 그의 종 다윗과 언약을 맺으시고, 다윗과 그 자손에게서 왕조의 등불이 영원히 꺼지지 않게 하시겠다고 약속하셨기 때문이다.",
+    Kor:"그러나 주께서는 다윗 왕가를 멸망시키려고 하지 않으셨다. 일찍이 주께서 그의 종 다윗과 언약을 맺으시고, 다윗과 그 자손에게서 왕조의 등불이 영원히 꺼지지 않게 하시겠다고 약속하셨기 때문이다.",
     Chn:"耶和华却因自己与大卫所立的约，不肯灭大卫的家，照他所应许的，永远赐灯光与大卫和他的子孙。",
     Eng:"Nevertheless, because of the covenant the LORD had made with David, the LORD was not willing to destroy the house of David. He had promised to maintain a lamp for him and his descendants forever.",
     Ind:"Namun demikian, TUHAN tidak mau memusnahkan keluarga Daud oleh karena perjanjian yang diikat-Nya dengan Daud, sesuai dengan yang dijanjikan-Nya, bahwa Ia hendak memberikan keturunan kepadanya dan kepada anak-anaknya untuk selama-lamanya."
@@ -93,19 +93,19 @@ BibleDB.add([
     Ind:"Dan engkau sendiri akan menderita penyakit yang dahsyat, suatu penyakit usus, hingga selang beberapa waktu ususmu keluar oleh karena penyakit itu.\""
   },
   {Bible:"2Chronicles", Chapter:21, Verse:16, Page:1,
-    Kor:"○주님께서는 또 블레셋 사람과 에티오피아에 인접하여 사는 아라비아 사람들의 마음을 부추겨, 여호람을 치게 하셨다.",
+    Kor:"○주께서는 또 블레셋 사람과 에티오피아에 인접하여 사는 아라비아 사람들의 마음을 부추겨, 여호람을 치게 하셨다.",
     Chn:"以后，耶和华激动非利士人和靠近古实的阿拉伯人来攻击约兰。",
     Eng:"The LORD aroused against Jehoram the hostility of the Philistines and of the Arabs who lived near the Cushites.",
     Ind:"Lalu TUHAN menggerakkan hati orang Filistin dan orang Arab yang tinggal berdekatan dengan orang Etiopia untuk melawan Yoram."
   },
   {Bible:"2Chronicles", Chapter:21, Verse:17, Page:1,
-    Kor:"그들이 유다로 쳐올라 와서 왕궁의 모든 재물을 탈취하였고, 여호람의 아들들과 아내들까지 잡아 갔다. 막내 아들 b아하시야 이외에는 아무도 남겨 두지 않았다.(b 여호아하스의 변형)",
+    Kor:"그들이 유다로 쳐올라 와서 왕궁의 모든 재물을 탈취하였고, 여호람의 아들들과 아내들까지 잡아 갔다. 막내 아들 아하시야 이외에는 아무도 남겨 두지 않았다.",
     Chn:"他们上来攻击犹大，侵入境内，掳掠了王宫里所有的财货和他的妻子、儿女，除了他小儿子约哈斯之外，没有留下一个儿子。",
     Eng:"They attacked Judah, invaded it and carried off all the goods found in the king's palace, together with his sons and wives. Not a son was left to him except Ahaziah, the youngest.",
     Ind:"Maka mereka maju melawan Yehuda, memasukinya dan mengangkut segala harta milik yang terdapat di dalam istana raja sebagai jarahan, juga anak-anak dan isteri-isterinya, sehingga tidak ada seorang anak yang tinggal padanya kecuali Yoahas, anaknya yang bungsu."
   },
   {Bible:"2Chronicles", Chapter:21, Verse:18, Page:1,
-    Kor:"○이런 일이 있은 뒤에, 주님께서 여호람에게 벌을 내리셔서, 그의 창자에 불치의 병이 들게 하셨다.",
+    Kor:"○이런 일이 있은 뒤에, 주께서 여호람에게 벌을 내리셔서, 그의 창자에 불치의 병이 들게 하셨다.",
     Chn:"这些事以后，耶和华使约兰的肠子患不能医治的病。",
     Eng:"After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.",
     Ind:"Sesudah semuanya ini TUHAN menulahinya dengan penyakit usus yang tidak dapat sembuh."

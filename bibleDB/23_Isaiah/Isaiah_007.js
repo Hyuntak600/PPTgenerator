@@ -3,19 +3,19 @@
 BibleDB.ref("Isaiah",7,25);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:7, Verse:1, Page:1,
-    Kor:"<아하스 왕에게 내린 경고> 웃시야의 손자요 요담의 아들인 유다 왕 아하스가 나라를 다스릴 때에, 시리아 왕 르신이 르말리야의 아들 이스라엘 왕 베가와 함께 예루살렘을 치려고 올라왔지만, 도성을 정복할 수 없었다.",
+    Kor:"웃시야의 손자요, 요담의 아들인 유다 왕 아하스가 나라를 다스릴 때에, 시리아 왕 르신이 르말리야의 아들 이스라엘 왕 베가와 함께 예루살렘을 치려고 올라왔지만, 도성을 정복할 수 없었다.",
     Chn:"乌西雅的孙子、约坦的儿子、犹大王亚哈斯在位的时候，亚兰王利汛和利玛利的儿子、以色列王比加上来攻打耶路撒冷，却不能攻取。",
     Eng:"When Ahaz son of Jotham, the son of Uzziah, was king of Judah, King Rezin of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem, but they could not overpower it.",
     Ind:"Dalam zaman Ahas bin Yotam bin Uzia, raja Yehuda, maka Rezin, raja Aram, dengan Pekah bin Remalya, raja Israel, maju ke Yerusalem untuk berperang melawan kota itu, namun mereka tidak dapat mengalahkannya."
   },
   {Bible:"Isaiah", Chapter:7, Verse:2, Page:1,
-    Kor:"○시리아 군대가 a에브라임에 주둔하고 있다는 말이 다윗 왕실에 전해 지자, 왕의 마음과 백성의 마음이 마치 거센 바람 앞에서 요동하는 수풀처럼 흔들렸다.(a 또는 '에브라임과 동맹을 맺었다는 말이')",
+    Kor:"○시리아 군대가 에브라임에 주둔하고 있다는 말이 다윗 왕실에 전해 지자, 왕의 마음과 백성의 마음이 마치 거센 바람 앞에서 요동하는 수풀처럼 흔들렸다.",
     Chn:"有人告诉大卫家说：「亚兰与以法莲已经同盟。」王的心和百姓的心就都跳动，好像林中的树被风吹动一样。",
     Eng:"Now the house of David was told, \"Aram has allied itself with Ephraim\"; so the hearts of Ahaz and his people were shaken, as the trees of the forest are shaken by the wind.",
     Ind:"Lalu diberitahukanlah kepada keluarga Daud: \"Aram telah berkemah di wilayah Efraim,\" maka hati Ahas dan hati rakyatnya gemetar ketakutan seperti pohon-pohon hutan bergoyang ditiup angin."
   },
   {Bible:"Isaiah", Chapter:7, Verse:3, Page:1,
-    Kor:"○그 때에 주님께서 이사야에게 말씀하셨다. ○\"너는 너의 아들 b스알야숩을 데리고 가서, 아하스를 만나거라. 그가 '세탁자의 밭'으로 가는 길, 윗못 물 빼는 길 끝에 서 있을 것이다.(b '남은 자가 돌아올 것이다')",
+    Kor:"○그 때에 주께서 이사야에게 말씀하셨다. \"너는 너의 아들 스알야숩을 데리고 가서, 아하스를 만나거라. 그가 '세탁자의 밭'으로 가는 길, 윗못 물 빼는 길 끝에 서 있을 것이다.",
     Chn:"耶和华对以赛亚说：「你和你的儿子施亚雅述出去，到上池的水沟头，在漂布地的大路上，去迎接亚哈斯，",
     Eng:"Then the LORD said to Isaiah, \"Go out, you and your son Shear-Jashub, to meet Ahaz at the end of the aqueduct of the Upper Pool, on the road to the Washerman's Field.",
     Ind:"Berfirmanlah TUHAN kepada Yesaya: \"Baiklah engkau keluar menemui Ahas, engkau dan Syear Yasyub, anakmu laki-laki, ke ujung saluran kolam atas, ke jalan raya pada Padang Tukang Penatu,"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Oleh karena Aram dan Efraim dengan anak Remalya telah merancang yang jahat atasmu, dengan berkata:"
   },
   {Bible:"Isaiah", Chapter:7, Verse:6, Page:1,
-    Kor:"'올라가 유다를 쳐서 겁을 주고, 우리들에게 유리하도록 유다를 흩어지게 하며, 그 곳에다가 다브엘의 아들을 왕으로 세워 놓자'고 한다.",
+    Kor:"'올라가 유다를 쳐서 겁을 주고, 자기들에게 유리하도록 유다를 흩어지게 하며, 그 곳에다가 다브엘의 아들을 왕으로 세워 놓자'고 한다.\"",
     Chn:"说：我们可以上去攻击犹大，扰乱它，攻破它，在其中立他比勒的儿子为王。",
     Eng:"\"Let us invade Judah; let us tear it apart and divide it among ourselves, and make the son of Tabeel king over it.\"",
     Ind:"Marilah kita maju menyerang Yehuda dan menakut-nakutinya serta merebutnya, kemudian mengangkat anak Tabeel sebagai raja di tengah-tengahnya,"
   },
   {Bible:"Isaiah", Chapter:7, Verse:7, Page:1,
-    Kor:"주 하나님께서 말씀하신다. 이 계략은 성공하지 못한다. 절대로 그렇게 되지 못한다.",
+    Kor:"주 하나님께서 말씀하신다. \"이 계략은 성공하지 못한다. 절대로 그렇게 되지 못한다.\"",
     Chn:"所以主耶和华如此说： 这所谋的必立不住， 也不得成就。",
     Eng:"Yet this is what the Sovereign LORD says: \"'It will not take place, it will not happen,",
     Ind:"maka beginilah firman Tuhan ALLAH: Tidak akan sampai hal itu, dan tidak akan terjadi,"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"sebab Damsyik ialah ibu kota Aram, dan Rezin ialah kepala Damsyik. Dalam enam puluh lima tahun Efraim akan pecah, tidak menjadi bangsa lagi."
   },
   {Bible:"Isaiah", Chapter:7, Verse:9, Page:1,
-    Kor:"에브라임의 머리는 사마리아이고, 사마리아의 머리는 고작해야 르말리야의 아들이다. 너희가 믿음 안에 굳게 서지 못한다면, 너희는 절대로 굳게 서지 못한다!\"",
+    Kor:"에브라임의 머리는 사마리아이고, 사마리아의 머리는 고작해야 르말리야의 아들이다. 너희가 믿음 안에 굳게 서지 못한다면, 너희는 절대로 굳게 서지 못한다!",
     Chn:"以法莲的首城是撒马利亚； 撒马利亚的首领是利玛利的儿子。 你们若是不信， 定然不得立稳。』」",
     Eng:"The head of Ephraim is Samaria, and the head of Samaria is only Remaliah's son. If you do not stand firm in your faith, you will not stand at all.'\"",
     Ind:"Dan Samaria ialah ibu kota Efraim, dan anak Remalya ialah kepala Samaria. Jika kamu tidak percaya, sungguh, kamu tidak teguh jaya.\""
   },
   {Bible:"Isaiah", Chapter:7, Verse:10, Page:1,
-    Kor:"<임마누엘의 징조> ○주님께서 아하스에게 다시 말씀하셨다.",
+    Kor:"○주께서 아하스에게 다시 말씀하셨다.",
     Chn:"耶和华又晓谕亚哈斯说：",
     Eng:"Again the LORD spoke to Ahaz,",
     Ind:"TUHAN melanjutkan firman-Nya kepada Ahas, kata-Nya:"
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Tetapi Ahas menjawab: \"Aku tidak mau meminta, aku tidak mau mencobai TUHAN.\""
   },
   {Bible:"Isaiah", Chapter:7, Verse:13, Page:1,
-    Kor:"○그 때에 이사야가 말하였다. ○\"다윗 왕실은 들으십시오. 다윗 왕실은 백성의 인내를 시험한 것만으로는 부족하여, 이제 하나님의 인내까지 시험해야 하겠습니까?",
+    Kor:"○그 때에 이사야가 말하였다. \"다윗 왕실은 들으십시오. 다윗 왕실은 백성의 인내를 시험한 것만으로는 부족하여, 이제 하나님의 인내까지 시험해야 하겠습니까?",
     Chn:"以赛亚说：「大卫家啊，你们当听！你们使人厌烦岂算小事，还要使我的　神厌烦吗？",
     Eng:"Then Isaiah said, \"Hear now, you house of David! Is it not enough to try the patience of men? Will you try the patience of my God also?",
     Ind:"Lalu berkatalah nabi Yesaya: \"Baiklah dengarkan, hai keluarga Daud! Belum cukupkah kamu melelahkan orang, sehingga kamu melelahkan Allahku juga?"
   },
   {Bible:"Isaiah", Chapter:7, Verse:14, Page:1,
-    Kor:"그러므로 주님께서 친히 다윗 왕실에 한 징조를 주실 것입니다. 보십시오, c처녀가 잉태하여 아들을 낳을 것이며, 그가 그의 이름을 d임마누엘이라고 할 것입니다.(c 칠십인역을 따름. 히, '젊은 여인이' d '하나님이 우리와 함께 계신다')",
+    Kor:"그러므로 주께서 친히 다윗 왕실에 한 징조를 주실 것입니다. 보십시오, 처녀가 잉태하여 아들을 낳을 것이며, 그가 그의 이름을 임마누엘이라고 할 것입니다.",
     Chn:"因此，主自己要给你们一个兆头，必有童女怀孕生子，给他起名叫以马内利。",
     Eng:"Therefore the Lord himself will give you a sign: The virgin will be with child and will give birth to a son, and will call him Immanuel.",
     Ind:"Sebab itu Tuhan sendirilah yang akan memberikan kepadamu suatu pertanda: Sesungguhnya, seorang perempuan muda mengandung dan akan melahirkan seorang anak laki-laki, dan ia akan menamakan Dia Imanuel."
   },
   {Bible:"Isaiah", Chapter:7, Verse:15, Page:1,
-    Kor:"그 아이가 잘못된 것을 거절하고 옳은 것을 선택할 나이가 될 e때에, 그 아이는 버터와 꿀을 먹을 것입니다.(e 또는 '때까지')",
+    Kor:"그 아이가 잘못된 것을 거절하고 옳은 것을 선택할 나이가 될 때에, 그 아이는 버터와 꿀을 먹을 것입니다.",
     Chn:"到他晓得弃恶择善的时候，他必吃奶油与蜂蜜。",
     Eng:"He will eat curds and honey when he knows enough to reject the wrong and choose the right.",
     Ind:"Ia akan makan dadih dan madu sampai ia tahu menolak yang jahat dan memilih yang baik,"
@@ -99,25 +99,25 @@ BibleDB.add([
     Ind:"sebab sebelum anak itu tahu menolak yang jahat dan memilih yang baik, maka negeri yang kedua rajanya engkau takuti akan ditinggalkan kosong."
   },
   {Bible:"Isaiah", Chapter:7, Verse:17, Page:1,
-    Kor:"에브라임과 유다가 갈라진 때로부터 이제까지, 이 백성이 겪어 본 적이 없는 재난을, 주님께서는 임금님과 임금님의 백성과 임금님의 아버지 집안에 내리실 것입니다. 주님께서 앗시리아의 왕을 끌어들이실 것입니다.",
+    Kor:"에브라임과 유다가 갈라진 때로부터 이제까지, 이 백성이 겪어 본 적이 없는 재난을, 주께서는 임금님과 임금님의 백성과 임금님의 아버지의 집안에 내리실 것입니다. 주께서 앗시리아의 왕을 끌어들이실 것입니다.\"",
     Chn:"耶和华必使亚述王攻击你的日子临到你和你的百姓，并你的父家，自从以法莲离开犹大以来，未曾有这样的日子。",
     Eng:"The LORD will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah--he will bring the king of Assyria.\"",
     Ind:"TUHAN akan mendatangkan atasmu dan atas rakyatmu dan atas kaum keluargamu hari-hari seperti yang belum pernah datang sejak Efraim menjauhkan diri dari Yehuda--yakni raja Asyur.\""
   },
   {Bible:"Isaiah", Chapter:7, Verse:18, Page:1,
-    Kor:"○그 날에 주님께서 휘파람을 불어 이집트의 나일 강 끝에 있는 파리 떼를 부르시며, 앗시리아 땅에 있는 벌 떼를 부르실 것입니다.",
+    Kor:"○그 날에, 주께서 휘파람을 불어, 이집트의 나일 강 끝에 있는 파리 떼를 부르시며, 앗시리아 땅에 있는 벌 떼를 부르실 것이다.",
     Chn:"「那时，耶和华要发嘶声，使埃及江河源头的苍蝇和亚述地的蜂子飞来；",
     Eng:"In that day the LORD will whistle for flies from the distant streams of Egypt and for bees from the land of Assyria.",
     Ind:"Pada hari itu akan terjadi: TUHAN bersuit memanggil lalat yang ada di ujung anak-anak sungai Nil, dan memanggil lebah yang ada di tanah Asyur."
   },
   {Bible:"Isaiah", Chapter:7, Verse:19, Page:1,
-    Kor:"그러면 그것들이 모두 몰려와서, 거친 골짜기와 바위틈, 모든 가시덤불과 모든 풀밭에 내려앉을 것입니다.",
+    Kor:"그러면 그것들이 모두 몰려와서, 거친 골짜기와 바위틈, 모든 가시덤불과 모든 풀밭에 내려앉을 것이다.",
     Chn:"都必飞来，落在荒凉的谷内、磐石的穴里，和一切荆棘篱笆中，并一切的草场上。",
     Eng:"They will all come and settle in the steep ravines and in the crevices in the rocks, on all the thornbushes and at all the water holes.",
     Ind:"Dan semuanya akan datang hinggap di lembah-lembah yang terjal dan di celah-celah bukit-bukit batu, di segala pagar duri dan di segala tanah penggembalaan."
   },
   {Bible:"Isaiah", Chapter:7, Verse:20, Page:1,
-    Kor:"○그 날에 주님께서 유프라테스 강 건너 저편에서 빌려 온 면도칼 곧 앗시리아 왕을 시켜서 당신들의 머리털과 발털을 미실 것이요, 또한 수염도 밀어 버리실 것입니다.",
+    Kor:"○그 날에, 주께서 유프라테스 강 건너 저편에서 빌려 온 면도칼, 곧 앗시리아 왕을 시켜서 너희의 머리털과 발털을 미실 것이요, 또한 수염도 밀어 버리실 것이다.",
     Chn:"「那时，主必用大河外赁的剃头刀，就是亚述王，剃去头发和脚上的毛，并要剃净胡须。",
     Eng:"In that day the Lord will use a razor hired from beyond the River--the king of Assyria--to shave your head and the hair of your legs, and to take off your beards also.",
     Ind:"Pada hari itu dengan pisau cukur yang dipinjam dari seberang sungai Efrat, yakni raja Asyur, Tuhan akan mencukur kepala dan bulu paha, bahkan pisau itu akan melenyapkan janggut juga."
@@ -129,25 +129,25 @@ BibleDB.add([
     Ind:"Pada hari itu setiap orang akan memiara seekor lembu betina yang muda dan dua ekor domba,"
   },
   {Bible:"Isaiah", Chapter:7, Verse:22, Page:1,
-    Kor:"그것들이 내는 젖이 넉넉하여, 버터를 만들어 먹을 수 있을 것입니다. 그 땅에 남아 있는 사람들이 모두 버터와 꿀을 먹을 수 있을 것입니다.",
+    Kor:"그것들이 내는 젖이 넉넉하여, 버터를 만들어 먹을 수 있을 것이다. 그 땅에 남아 있는 사람들이 모두 버터와 꿀을 먹을 수 있을 것이다.",
     Chn:"因为出的奶多，他就得吃奶油，在境内所剩的人都要吃奶油与蜂蜜。",
     Eng:"And because of the abundance of the milk they give, he will have curds to eat. All who remain in the land will eat curds and honey.",
     Ind:"dan karena banyaknya susu yang dihasilkan, mereka akan makan dadih; sungguh, dadih dan madu akan dimakan oleh setiap orang yang masih tinggal di dalam negeri."
   },
   {Bible:"Isaiah", Chapter:7, Verse:23, Page:1,
-    Kor:"○그 날에는, 은 천 냥 값이 되는 천 그루의 포도나무가 있던 곳마다, 찔레나무와 가시나무로 덮일 것입니다.",
+    Kor:"○그 날에는, 은 천 냥 값이 되는 천 그루의 포도나무가 있던 곳마다, 찔레나무와 가시나무로 덮일 것이다.",
     Chn:"「从前，凡种一千棵葡萄树、值银一千舍客勒的地方，到那时必长荆棘和蒺藜。",
     Eng:"In that day, in every place where there were a thousand vines worth a thousand silver shekels, there will be only briers and thorns.",
     Ind:"Pada hari itu setiap tempat, di mana biasanya tumbuh seribu pohon anggur dan yang berharga seribu syikal perak, akan menjadi tempat puteri malu dan rumput."
   },
   {Bible:"Isaiah", Chapter:7, Verse:24, Page:1,
-    Kor:"온 땅이 찔레나무와 가시나무로 덮이므로, 사람들은 화살과 활을 가지고 그리로 사냥을 갈 것입니다.",
+    Kor:"온 땅이 찔레나무와 가시나무로 덮이므로, 사람들은 화살과 활을 가지고 그리로 사냥을 갈 것이다.",
     Chn:"人上那里去，必带弓箭，因为遍地满了荆棘和蒺藜。",
     Eng:"Men will go there with bow and arrow, for the land will be covered with briers and thorns.",
     Ind:"Orang pergi ke sana terpaksa membawa anak-anak panah dan busur, sebab puteri malu dan rumput belaka seluruh negeri itu."
   },
   {Bible:"Isaiah", Chapter:7, Verse:25, Page:1,
-    Kor:"괭이로 일구던 모든 산에도 찔레나무와 가시나무가 덮이므로, 당신은 두려워서 그리로 가지도 못할 것이며, 다만 소나 놓아 기르며, 양이나 밟고 다니는 곳이 되고 말 것입니다.\"",
+    Kor:"괭이로 일구던 모든 산에도 찔레나무와 가시나무가 덮이므로, 너는 두려워서 그리로 가지도 못할 것이며, 다만 소나 놓아 기르며, 양이나 밟고 다니는 곳이 되고 말 것이다.",
     Chn:"所有用锄刨挖的山地，你因怕荆棘和蒺藜，不敢上那里去；只可成了放牛之处，为羊践踏之地。」",
     Eng:"As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.",
     Ind:"Dan engkau tidak berani pergi ke segala lereng gunung yang biasanya dicangkul, karena takut akan puteri malu dan rumput; di situ hanya lembu dan domba akan berkeliaran."

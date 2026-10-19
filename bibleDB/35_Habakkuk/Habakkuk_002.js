@@ -3,13 +3,13 @@
 BibleDB.ref("Habakkuk",2,20);
 BibleDB.add([
   {Bible:"Habakkuk", Chapter:2, Verse:1, Page:1,
-    Kor:"<주님의 응답> 내가 초소 위에 올라가서 서겠다. 망대 위에 올라가서 나의 자리를 지키겠다. 주님께서 나에게 무엇이라고 말씀하실지 기다려 보겠다. 내가 호소한 것에 대하여 a주님께서 어떻게 대답하실지를 기다려 보겠다. (a 시리아어역을 따름. 히, '내가')",
+    Kor:"내가 초소 위에 올라가서 서겠다. 망대 위에 올라가서 나의 자리를 지키겠다. 주님이 나에게 무엇이라고 말씀하실지 기다려 보겠다. 내가 호소한 것에 대하여 주께서 어떻게 대답하실지를 기다려 보겠다.",
     Chn:"我要站在守望所， 立在望楼上观看， 看耶和华对我说什么话， 我可用什么话向他诉冤。",
     Eng:"I will stand at my watch and station myself on the ramparts; I will look to see what he will say to me, and what answer I am to give to this complaint.",
     Ind:"Aku mau berdiri di tempat pengintaianku dan berdiri tegak di menara, aku mau meninjau dan menantikan apa yang akan difirmankan-Nya kepadaku, dan apa yang akan dijawab-Nya atas pengaduanku."
   },
   {Bible:"Habakkuk", Chapter:2, Verse:2, Page:1,
-    Kor:"주님께서 나에게 대답하셨다. \"너는 이 묵시를 기록하여라. 판에 똑똑히 새겨서, b누구든지 달려가면서도 읽을 수 있게 하여라. (b 또는 '전령이 그것을 가지고 달려가게 하여라')",
+    Kor:"주께서 나에게 대답하셨다. \"너는 이 묵시를 기록하여라. 판에 똑똑히 새겨서, 누구든지 달려가면서도 읽을 수 있게 하여라.",
     Chn:"他对我说：将这默示明明地写在版上， 使读的人容易读。",
     Eng:"Then the LORD replied: \"Write down the revelation and make it plain on tablets so that a herald may run with it.",
     Ind:"Lalu TUHAN menjawab aku, demikian: \"Tuliskanlah penglihatan itu dan ukirkanlah itu pada loh-loh, supaya orang sambil lalu dapat membacanya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, orang yang membusungkan dada, tidak lurus hatinya, tetapi orang yang benar itu akan hidup oleh percayanya."
   },
   {Bible:"Habakkuk", Chapter:2, Verse:5, Page:1,
-    Kor:"c부유한 재산은 사람을 속일 뿐이다. 탐욕스러운 사람은 거만하고, 탐욕을 채우느라고 쉴 날이 없다. 그러나 탐욕은 d무덤과도 같아서, 그들이 스올처럼 목구멍을 넓게 벌려도, 죽음처럼 성이 차지 않을 것이다. 그들이 모든 나라를 정복하고 모든 민족을 사로잡지만, (c 히브리어 사본 가운데 일부는 '포도주' d 히, '스올')",
+    Kor:"부유한 재산은 사람을 속일 뿐이다. 탐욕스러운 사람은 거만하고, 탐욕을 채우느라고 쉴 날이 없다. 그러나 탐욕은 무덤과도 같아서, 그들이 스올처럼 목구멍을 넓게 벌려도, 죽음처럼 성이 차지 않을 것이다. 그들이 모든 나라를 정복하고 모든 민족을 사로잡지만,",
     Chn:"迦勒底人因酒诡诈，狂傲， 不住在家中， 扩充心欲，好像阴间。 他如死不能知足， 聚集万国，堆积万民都归自己。",
     Eng:"indeed, wine betrays him; he is arrogant and never at rest. Because he is as greedy as the grave and like death is never satisfied, he gathers to himself all the nations and takes captive all the peoples.",
     Ind:"Orang sombong dan khianat dia yang melagak, tetapi ia tidak akan tetap ada; ia mengangakan mulutnya seperti dunia orang mati dan tidak kenyang-kenyang seperti maut, sehingga segala suku bangsa dikumpulkannya dan segala bangsa dihimpunkannya.\""

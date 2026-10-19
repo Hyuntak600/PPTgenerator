@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",25,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:25, Verse:1, Page:1,
-    Kor:"<아브라함의 다른 자손> 아브라함이 다시 아내를 맞아들였는데, 그의 이름은 그두라이다.",
+    Kor:"아브라함이 다시 아내를 맞아들였는데, 그의 이름은 그두라이다.",
     Chn:"亚伯拉罕又娶了一妻，名叫基土拉。",
     Eng:"Abraham took another wife, whose name was Keturah.",
     Ind:"Abraham mengambil pula seorang isteri, namanya Ketura."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Abraham memberikan segala harta miliknya kepada Ishak,"
   },
   {Bible:"Genesis", Chapter:25, Verse:6, Page:1,
-    Kor:"첩들에게서 얻은 아들들에게도 한 몫씩 나누어 주었는데, 그가 죽기 전에 첩들에게서 얻은 아들들을 동쪽 곧 동방 땅으로 보내어서, 자기 아들 이삭과 떨어져서 살게 하였다.",
+    Kor:"첩들에게서 얻은 아들들에게도 한 몫씩 나누어 주었는데, 그가 죽기 전에, 첩들에게서 얻은 아들들을 동쪽 곧 동방 땅으로 보내어서, 자기 아들 이삭과 떨어져서 살게 하였다.",
     Chn:"亚伯拉罕把财物分给他庶出的众子，趁着自己还在世的时候打发他们离开他的儿子以撒，往东方去。",
     Eng:"But while he was still living, he gave gifts to the sons of his concubines and sent them  away from his son Isaac to the land of the east.",
     Ind:"tetapi kepada anak-anaknya yang diperolehnya dari gundik-gundiknya ia memberikan pemberian; kemudian ia menyuruh mereka--masih pada waktu ia hidup--meninggalkan Ishak, anaknya, dan pergi ke sebelah timur, ke Tanah Timur."
   },
   {Bible:"Genesis", Chapter:25, Verse:7, Page:1,
-    Kor:"<아브라함이 세상을 떠나다> ○아브라함이 누린 햇수는 모두 백일흔다섯 해이다.",
+    Kor:"○아브라함이 누린 햇수는 모두 백일흔다섯 해이다.",
     Chn:"亚伯拉罕一生的年日是一百七十五岁。",
     Eng:"Altogether, Abraham lived a hundred and seventy-five years.",
     Ind:"Abraham mencapai umur seratus tujuh puluh lima tahun,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Dan anak-anaknya, Ishak dan Ismael, menguburkan dia dalam gua Makhpela, di padang Efron bin Zohar, orang Het itu, padang yang letaknya di sebelah timur Mamre,"
   },
   {Bible:"Genesis", Chapter:25, Verse:10, Page:1,
-    Kor:"그 밭은 아브라함이 헷 사람에게서 산 것이다. 바로 그 곳에서 아브라함은 그의 아내 사라와 합장되었다.",
+    Kor:"그 밭은, 아브라함이 헷 사람에게서 산 것이다. 바로 그 곳에서 아브라함은 그의 아내 사라와 합장되었다.",
     Chn:"就是亚伯拉罕向赫人买的那块田。亚伯拉罕和他妻子撒拉都葬在那里。",
     Eng:"the field Abraham had bought from the Hittites. There Abraham was buried with his wife  Sarah.",
     Ind:"yang telah dibeli Abraham dari bani Het; di sanalah terkubur Abraham dan Sara isterinya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Setelah Abraham mati, Allah memberkati Ishak, anaknya itu; dan Ishak diam dekat sumur Lahai-Roi."
   },
   {Bible:"Genesis", Chapter:25, Verse:12, Page:1,
-    Kor:"<이스마엘의 자손> ○사라의 여종인 이집트 사람 하갈과 아브라함 사이에서 태어난 아들 이스마엘의 족보는 이러하다.",
+    Kor:"○사라의 여종인 이집트 사람 하갈과 아브라함 사이에서 태어난 아들 이스마엘의 족보는 이러하다.",
     Chn:"撒拉的使女埃及人夏甲给亚伯拉罕所生的儿子是以实玛利。",
     Eng:"This is the account of Abraham's son Ishmael, whom Sarah's maidservant, Hagar the Egyptian,  bore to Abraham.",
     Ind:"Inilah keturunan Ismael, anak Abraham, yang telah dilahirkan baginya oleh Hagar, perempuan Mesir, hamba Sara itu."
@@ -87,31 +87,31 @@ BibleDB.add([
     Ind:"Misyma, Duma, Masa,"
   },
   {Bible:"Genesis", Chapter:25, Verse:15, Page:1,
-    Kor:"하닷과 데마와 여두르와 나비스와 게드마가 있다.",
+    Kor:"하닷과 데마와 여둘과 나비스와 게드마가 있다.",
     Chn:"哈大、提玛、伊突、拿非施、基底玛。",
     Eng:"Hadad, Tema, Jetur, Naphish and Kedemah.",
     Ind:"Hadad, Tema, Yetur, Nafish dan Kedma."
   },
   {Bible:"Genesis", Chapter:25, Verse:16, Page:1,
-    Kor:"이 열둘은 이스마엘이 낳은 아들의 이름이면서, 동시에 마을과 부락의 이름이며, 또한 이 사람들이 세운 열두 지파의 통치자들의 이름이기도 하다.",
+    Kor:"이 열둘은, 이스마엘이 낳은 아들의 이름이면서, 동시에 마을과 부락의 이름이며, 또한 이 사람들이 세운 열두 지파의 통치자들의 이름이기도 하다.",
     Chn:"这是以实玛利众子的名字，照着他们的村庄、营寨，作了十二族的族长。",
     Eng:"These were the sons of Ishmael, and these are the names of the twelve tribal rulers  according to their settlements and camps.",
     Ind:"Itulah anak-anak Ismael, dan itulah nama-nama mereka, menurut kampung mereka dan menurut perkemahan mereka, dua belas orang raja, masing-masing dengan sukunya."
   },
   {Bible:"Genesis", Chapter:25, Verse:17, Page:1,
-    Kor:"이스마엘은 모두 백서른일곱 해를 누린 뒤에, 기운이 다하여서 숨을 거두고, 세상을 떠나 조상에게로 돌아갔다.",
+    Kor:"이스마엘은 모두 백서른일곱 해를 누린 뒤에, 기운이 다하여서, 숨을 거두고 세상을 떠나, 조상에게로 돌아갔다.",
     Chn:"以实玛利享寿一百三十七岁，气绝而死，归到他列祖那里。",
     Eng:"Altogether, Ishmael lived a hundred and thirty-seven years. He breathed his last and died,  and he was gathered to his people.",
     Ind:"Umur Ismael ialah seratus tiga puluh tujuh tahun. Sesudah itu ia meninggal. Ia mati dan dikumpulkan kepada kaum leluhurnya."
   },
   {Bible:"Genesis", Chapter:25, Verse:18, Page:1,
-    Kor:"그의 자손은 모두 하윌라로부터 수르 지방에 이르는 그 일대에 흩어져서 살았다. 수르는 이집트의 동북쪽 경계 부근 앗시리아로 가는 길에 있다.",
+    Kor:"그의 자손은 모두 하윌라로부터 술 지방에 이르는 그 일대에 흩어져서 살았다. 술은 이집트의 동북쪽 경계 부근 앗시리아로 가는 길에 있다.",
     Chn:"他子孙的住处在他众弟兄东边，从哈腓拉直到埃及前的书珥，正在亚述的道上。",
     Eng:"His descendants settled in the area from Havilah to Shur, near the border of Egypt, as you  go toward Asshur. And they lived in hostility toward all their brothers.",
     Ind:"Mereka itu mendiami daerah dari Hawila sampai Syur, yang letaknya di sebelah timur Mesir ke arah Asyur. Mereka menetap berhadapan dengan semua saudara mereka."
   },
   {Bible:"Genesis", Chapter:25, Verse:19, Page:1,
-    Kor:"<에서와 야곱이 태어나다> ○다음은 아브라함의 아들 이삭의 족보이다. 아브라함이 이삭을 낳았고,",
+    Kor:"○다음은 아브라함의 아들 이삭의 족보이다. 아브라함이 이삭을 낳았고,",
     Chn:"亚伯拉罕的儿子以撒的后代记在下面。亚伯拉罕生以撒。",
     Eng:"This is the account of Abraham's son Isaac. Abraham became the father of Isaac,",
     Ind:"Inilah riwayat keturunan Ishak, anak Abraham. Abraham memperanakkan Ishak."
@@ -123,43 +123,43 @@ BibleDB.add([
     Ind:"Dan Ishak berumur empat puluh tahun, ketika Ribka, anak Betuel, orang Aram dari Padan-Aram, saudara perempuan Laban orang Aram itu, diambilnya menjadi isterinya."
   },
   {Bible:"Genesis", Chapter:25, Verse:21, Page:1,
-    Kor:"이삭은 자기 아내가 임신하지 못하므로, 아내가 아이를 가지게 해 달라고 주님께 기도하였다. 주님께서 이삭의 기도를 들어 주시니, 그의 아내 리브가가 임신하게 되었다.",
+    Kor:"이삭은 자기 아내가 임신하지 못하므로, 아내가 아이를 가지게 해 달라고, 주께 기도하였다. 주께서 이삭의 기도를 들어 주시니, 그의 아내 리브가가 임신하게 되었다.",
     Chn:"以撒因他妻子不生育，就为她祈求耶和华；耶和华应允他的祈求，他的妻子利百加就怀了孕。",
     Eng:"Isaac prayed to the LORD on behalf of his wife, because she was barren. The LORD answered  his prayer, and his wife Rebekah became pregnant.",
     Ind:"Berdoalah Ishak kepada TUHAN untuk isterinya, sebab isterinya itu mandul; TUHAN mengabulkan doanya, sehingga Ribka, isterinya itu, mengandung."
   },
   {Bible:"Genesis", Chapter:25, Verse:22, Page:1,
-    Kor:"그런데 리브가는 쌍둥이를 배었는데, 그 둘이 태 안에서 서로 싸웠다. 그래서 리브가는 \"이렇게 괴로워서야, 내가 어떻게 견디겠는가?\" 하면서, 이 일을 알아보려고 주님께로 나아갔다.",
+    Kor:"그런데 리브가는 쌍둥이를 배었는데, 그 둘이 태 안에서 서로 싸웠다. 그래서 리브가는 \"이렇게 괴로워서야, 내가 어떻게 견디겠는가?\" 하면서, 이 일을 알아보려고 주께로 나아갔다.",
     Chn:"孩子们在她腹中彼此相争，她就说：「若是这样，我为什么活着呢？」她就去求问耶和华。",
     Eng:"The babies jostled each other within her, and she said, \"Why is this happening to me?\" So  she went to inquire of the LORD.",
     Ind:"Tetapi anak-anaknya bertolak-tolakan di dalam rahimnya dan ia berkata: \"Jika demikian halnya, mengapa aku hidup?\" Dan ia pergi meminta petunjuk kepada TUHAN."
   },
   {Bible:"Genesis", Chapter:25, Verse:23, Page:1,
-    Kor:"주님께서 그에게 대답하셨다.  \"두 민족이 너의 태 안에 들어 있다. 너의 태 안에서 두 백성이 나뉠 것이다. 한 백성이 다른 백성보다 강할 것이다. 형이 동생을 섬길 것이다.\"",
+    Kor:"주께서 그에게 대답하셨다. \"두 민족이 너의 태 안에 들어 있다. 너의 태 안에서 두 백성이 나뉠 것이다. 한 백성이 다른 백성보다 강할 것이다. 형이 동생을 섬길 것이다.\"",
     Chn:"耶和华对她说： 两国在你腹内； 两族要从你身上出来。 这族必强于那族； 将来大的要服事小的。",
     Eng:"The LORD said to her, \"Two nations are in your womb, and two peoples from within you will  be separated; one people will be stronger than the other, and the older will serve the younger.\"",
     Ind:"Firman TUHAN kepadanya: \"Dua bangsa ada dalam kandunganmu, dan dua suku bangsa akan berpencar dari dalam rahimmu; suku bangsa yang satu akan lebih kuat dari yang lain, dan anak yang tua akan menjadi hamba kepada anak yang muda.\""
   },
   {Bible:"Genesis", Chapter:25, Verse:24, Page:1,
-    Kor:"○달이 차서, 몸을 풀 때가 되었다. 태 안에는 쌍둥이가 들어 있었다.",
+    Kor:"○달이 차서, 몸을 풀 때가 되었다. 태 안에는, 쌍둥이가 들어 있었다.",
     Chn:"生产的日子到了，腹中果然是双子。",
     Eng:"When the time came for her to give birth, there were twin boys in her womb.",
     Ind:"Setelah genap harinya untuk bersalin, memang anak kembar yang di dalam kandungannya."
   },
   {Bible:"Genesis", Chapter:25, Verse:25, Page:1,
-    Kor:"먼저 나온 아이는 살결이 붉은데다가 온몸이 털투성이어서, 이름을 a에서라고 하였다.(a '털')",
+    Kor:"먼저 나온 아이는, 살결이 붉은데다가, 온몸이 털투성이어서, 이름을 에서라고 하였다.",
     Chn:"先产的身体发红，浑身有毛，如同皮衣，他们就给他起名叫以扫。",
     Eng:"The first to come out was red, and his whole body was like a hairy garment; so they named  him Esau.",
     Ind:"Keluarlah yang pertama, warnanya merah, seluruh tubuhnya seperti jubah berbulu; sebab itu ia dinamai Esau."
   },
   {Bible:"Genesis", Chapter:25, Verse:26, Page:1,
-    Kor:"이어서 동생이 나오는데, 그의 손이 에서의 발뒤꿈치를 잡고 있어서, 이름을 b야곱이라고 하였다. 리브가가 이 쌍둥이를 낳았을 때에, 이삭의 나이는 예순 살이었다.(b '발뒤꿈치를 잡다' 즉 '속이다'를 뜻하는 '야아케브'에서 온 말)",
+    Kor:"이어서 동생이 나오는데, 그의 손이 에서의 발뒤꿈치를 잡고 있어서, 이름을 야곱이라고 하였다. 리브가가 이 쌍둥이를 낳았을 때에, 이삭의 나이는 예순 살이었다.",
     Chn:"随后又生了以扫的兄弟，手抓住以扫的脚跟，因此给他起名叫雅各。利百加生下两个儿子的时候，以撒年正六十岁。",
     Eng:"After this, his brother came out, with his hand grasping Esau's heel; so he was named  Jacob. Isaac was sixty years old when Rebekah gave birth to them.",
     Ind:"Sesudah itu keluarlah adiknya; tangannya memegang tumit Esau, sebab itu ia dinamai Yakub. Ishak berumur enam puluh tahun pada waktu mereka lahir."
   },
   {Bible:"Genesis", Chapter:25, Verse:27, Page:1,
-    Kor:"<에서가 맏아들의 권리를 팔다> ○두 아이가 자라, 에서는 날쌘 사냥꾼이 되어서 들에서 살고, 야곱은 성격이 차분한 사람이 되어서, 주로 집에서 살았다.",
+    Kor:"○두 아이가 자라, 에서는 날쌘 사냥꾼이 되어서 들에서 살고, 야곱은 성격이 차분한 사람이 되어서, 주로 집에서 살았다.",
     Chn:"两个孩子渐渐长大，以扫善于打猎，常在田野；雅各为人安静，常住在帐棚里。",
     Eng:"The boys grew up, and Esau became a skillful hunter, a man of the open country, while Jacob  was a quiet man, staying among the tents.",
     Ind:"Lalu bertambah besarlah kedua anak itu: Esau menjadi seorang yang pandai berburu, seorang yang suka tinggal di padang, tetapi Yakub adalah seorang yang tenang, yang suka tinggal di kemah."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Pada suatu kali Yakub sedang memasak sesuatu, lalu datanglah Esau dengan lelah dari padang."
   },
   {Bible:"Genesis", Chapter:25, Verse:30, Page:1,
-    Kor:"야곱에게 말하였다. \"그 붉은 죽을 좀 빨리 먹자. 배가 고파 죽겠다.\" 에서가 '붉은' 죽을 먹고 싶어 하였다고 해서, 에서를 c에돔이라고도 한다.(c '붉은')",
+    Kor:"야곱에게 말하였다. \"그 붉은 죽을 좀 빨리 먹자. 배가 고파 죽겠다.\" 에서가 '붉은' 죽을 먹고 싶어 하였다고 해서, 에서를 에돔이라고도 한다.",
     Chn:"以扫对雅各说：「我累昏了，求你把这红汤给我喝。」因此以扫又叫以东。",
     Eng:"He said to Jacob, \"Quick, let me have some of that red stew! I'm famished!\" (That is why he  was also called Edom.)",
     Ind:"Kata Esau kepada Yakub: \"Berikanlah kiranya aku menghirup sedikit dari yang merah-merah itu, karena aku lelah.\" Itulah sebabnya namanya disebutkan Edom."
@@ -201,7 +201,7 @@ BibleDB.add([
     Ind:"Kata Yakub: \"Bersumpahlah dahulu kepadaku.\" Maka bersumpahlah ia kepada Yakub dan dijualnyalah hak kesulungannya kepadanya."
   },
   {Bible:"Genesis", Chapter:25, Verse:34, Page:1,
-    Kor:"야곱이 빵과 팥죽 얼마를 에서에게 주니, 에서가 먹고 마시고, 일어나서 나갔다. 에서는 이와 같이 맏아들의 권리를 가볍게 여겼다.",
+    Kor:"야곱이 빵과 팥죽 얼마를 에서에게 주니, 에서가 먹고 마시고, 일어나서 나갔다. 에서는 이와 같이, 맏아들의 권리를 가볍게 여겼다.",
     Chn:"于是雅各将饼和红豆汤给了以扫，以扫吃了喝了，便起来走了。这就是以扫轻看了他长子的名分。",
     Eng:"Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and  left. So Esau despised his birthright.",
     Ind:"Lalu Yakub memberikan roti dan masakan kacang merah itu kepada Esau; ia makan dan minum, lalu berdiri dan pergi. Demikianlah Esau memandang ringan hak kesulungan itu."

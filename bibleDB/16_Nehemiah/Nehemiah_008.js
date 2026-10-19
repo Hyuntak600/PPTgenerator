@@ -3,13 +3,13 @@
 BibleDB.ref("Nehemiah",8,18);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:8, Verse:1, Page:1,
-    Kor:"모든 백성이 한꺼번에 수문 앞 광장에 모였다. 그들은 학자 에스라에게, 주님께서 이스라엘에게 명하신 모세의 율법책을 가지고 오라고 청하였다.",
+    Kor:"모든 백성이 한꺼번에 수문 앞 광장에 모였다. 그들은 학자 에스라에게, 주께서 이스라엘에게 명하신 모세의 율법책을 가지고 오라고 청하였다.",
     Chn:"到了七月，以色列人住在自己的城里。那时，他们如同一人聚集在水门前的宽阔处，请文士以斯拉将耶和华借摩西传给以色列人的律法书带来。",
     Eng:"all the people assembled as one man in the square before the Water Gate. They told Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.",
     Ind:"(8-2) maka serentak berkumpullah seluruh rakyat di halaman di depan pintu gerbang Air. Mereka meminta kepada Ezra, ahli kitab itu, supaya ia membawa kitab Taurat Musa, yakni kitab hukum yang diberikan TUHAN kepada Israel."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:2, Page:1,
-    Kor:"일곱째 달 초하루에 에스라 제사장은 율법책을 가지고 회중 앞에 나왔다. 거기에는, 남자든 여자든, 알아들을 만한 사람은 모두 나와 있었다.",
+    Kor:"일곱째 달 초하루에 에스라 제사장은 율법책을 가지고 회중 앞에 나왔다. 거기에는, 남자나 여자나, 알아들을 만한 사람은 모두 나와 있었다.",
     Chn:"七月初一日，祭司以斯拉将律法书带到听了能明白的男女会众面前。",
     Eng:"So on the first day of the seventh month Ezra the priest brought the Law before the assembly, which was made up of men and women and all who were able to understand.",
     Ind:"(8-3) Lalu pada hari pertama bulan yang ketujuh itu imam Ezra membawa kitab Taurat itu ke hadapan jemaah, yakni baik laki-laki maupun perempuan dan setiap orang yang dapat mendengar dan mengerti."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"(8-6) Ezra membuka kitab itu di depan mata seluruh umat, karena ia berdiri lebih tinggi dari semua orang itu. Pada waktu ia membuka kitab itu semua orang bangkit berdiri."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:6, Page:1,
-    Kor:"에스라가 위대하신 주 하나님을 찬양하면, 백성들은 모두 손을 들고 \"아멘! 아멘!\" 하고 응답하고, 엎드려 얼굴을 땅에 대고 주님께 경배하였다.",
+    Kor:"에스라가 위대하신 주 하나님을 찬양하면, 백성들은 모두 손을 들고 \"아멘! 아멘!\" 하고 응답하고, 엎드려 얼굴을 땅에 대고 주께 경배하였다.",
     Chn:"以斯拉称颂耶和华至大的　神；众民都举手应声说：「阿们！阿们！」就低头，面伏于地，敬拜耶和华。",
     Eng:"Ezra praised the LORD, the great God; and all the people lifted their hands and responded, \"Amen! Amen!\" Then they bowed down and worshiped the LORD with their faces to the ground.",
     Ind:"(8-7) Lalu Ezra memuji TUHAN, Allah yang maha besar, dan semua orang menyambut dengan: \"Amin, amin!\", sambil mengangkat tangan. Kemudian mereka berlutut dan sujud menyembah kepada TUHAN dengan muka sampai ke tanah."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"(8-8) Juga Yesua, Bani, Serebya, Yamin, Akub, Sabetai, Hodia, Maaseya, Kelita, Azarya, Yozabad, Hanan, Pelaya, yang adalah orang-orang Lewi, mengajarkan Taurat itu kepada orang-orang itu, sementara orang-orang itu berdiri di tempatnya."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:8, Page:1,
-    Kor:"하나님의 율법책이 낭독될 때에, 그들이 a통역을 하고 뜻을 밝혀 설명하여 주었으므로, 백성은 내용을 잘 알아들을 수 있었다.(a 히브리어에서 아람어로)",
+    Kor:"하나님의 율법책이 낭독될 때에, 그들이 통역을 하고 뜻을 밝혀 설명하여 주었으므로, 백성은 내용을 잘 알아들을 수 있었다.",
     Chn:"他们清清楚楚地念　神的律法书，讲明意思，使百姓明白所念的。",
     Eng:"They read from the Book of the Law of God, making it clear and giving the meaning so that the people could understand what was being read.",
     Ind:"(8-9) Bagian-bagian dari pada kitab itu, yakni Taurat Allah, dibacakan dengan jelas, dengan diberi keterangan-keterangan, sehingga pembacaan dimengerti."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"(8-10) Lalu Nehemia, yakni kepala daerah itu, dan imam Ezra, ahli kitab itu, dan orang-orang Lewi yang mengajar orang-orang itu, berkata kepada mereka semuanya: \"Hari ini adalah kudus bagi TUHAN Allahmu. Jangan kamu berdukacita dan menangis!\", karena semua orang itu menangis ketika mendengar kalimat-kalimat Taurat itu."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:10, Page:1,
-    Kor:"느헤미야는 그들에게 말하였다. \"돌아들 가십시오. 살진 짐승들을 잡아 푸짐하게 차려서, 먹고 마시도록 하십시오. 아무것도 차리지 못한 사람들에게는, 먹을 몫을 보내 주십시오. 오늘은 우리 주님의 거룩한 날입니다. 주님 앞에서 기뻐하면 힘이 생기는 법이니, 슬퍼하지들 마십시오.\"",
+    Kor:"느헤미야는 그들에게 말하였다. \"돌아들 가시오. 살진 짐승들을 잡아 푸짐하게 차려서, 먹고 마시도록 하시오. 아무것도 차리지 못한 사람들에게는, 먹을 몫을 보내 주시오. 오늘은 우리 주의 거룩한 날이오. 주 앞에서 기뻐하면 힘이 생기는 법이니, 슬퍼하지들 마시오.\"",
     Chn:"又对他们说：「你们去吃肥美的，喝甘甜的，有不能预备的就分给他，因为今日是我们主的圣日。你们不要忧愁，因靠耶和华而得的喜乐是你们的力量。」",
     Eng:"Nehemiah said, \"Go and enjoy choice food and sweet drinks, and send some to those who have nothing prepared. This day is sacred to our Lord. Do not grieve, for the joy of the LORD is your strength.\"",
     Ind:"(8-11) Lalu berkatalah ia kepada mereka: \"Pergilah kamu, makanlah sedap-sedapan dan minumlah minuman manis dan kirimlah sebagian kepada mereka yang tidak sedia apa-apa, karena hari ini adalah kudus bagi Tuhan kita! Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!\""
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"(8-13) Maka pergilah semua orang itu untuk makan dan minum, untuk membagi-bagi makanan dan berpesta ria, karena mereka mengerti segala firman yang diberitahukan kepada mereka."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:13, Page:1,
-    Kor:"○이튿날에 모든 백성을 대표하는 각 가문의 어른들이 제사장들과 레위 사람들과 함께 율법의 말씀을 밝히 알고자 하여, 학자 에스라에게로 갔다.",
+    Kor:"○이튿날에, 모든 백성을 대표하는 각 가문의 어른들이 제사장들과 레위 사람들과 함께 율법의 말씀을 밝히 알고자 하여, 학자 에스라에게로 갔다.",
     Chn:"次日，众民的族长、祭司，和利未人都聚集到文士以斯拉那里，要留心听律法上的话。",
     Eng:"On the second day of the month, the heads of all the families, along with the priests and the Levites, gathered around Ezra the scribe to give attention to the words of the Law.",
     Ind:"(8-14) Pada hari yang kedua kepala-kepala kaum keluarga seluruh bangsa, juga para imam dan orang-orang Lewi berkumpul pada Ezra, ahli hukum Taurat itu, untuk menelaah kalimat-kalimat Taurat itu."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:14, Page:1,
-    Kor:"그들은, 이스라엘 자손은 일곱째 달 축제에는 초막에서 지내도록 하라는, 주님께서 모세를 시켜서 명하신 말씀이, 율법에 기록되어 있는 것을 발견하였다.",
+    Kor:"그들은, 이스라엘 자손은 일곱째 달 축제에는 초막에서 지내도록 하라는, 주께서 모세를 시켜서 명하신 말씀이 율법에 기록되어 있는 것을 발견하였다.",
     Chn:"他们见律法上写着，耶和华借摩西吩咐以色列人要在七月节住棚，",
     Eng:"They found written in the Law, which the LORD had commanded through Moses, that the Israelites were to live in booths during the feast of the seventh month",
     Ind:"(8-15) Maka didapatinya tertulis dalam hukum yang diberikan TUHAN dengan perantaraan Musa, bahwa orang Israel harus tinggal dalam pondok-pondok pada hari raya bulan yang ketujuh,"
   },
   {Bible:"Nehemiah", Chapter:8, Verse:15, Page:1,
-    Kor:"또한 그들은 책에, 산으로 가서 올리브 나무와 들올리브 나무와 소귀나무와 종려나무와 참나무의 가지를 꺾어다가 초막을 짓도록 하라는 말이 기록되어 있기 때문에, 그 말을 이스라엘 자손이 사는 모든 마을과 예루살렘에 널리 알려야 한다는 것을 알게 되었다.",
+    Kor:"또한 그들은 책에, 산으로 가서 올리브 나무와 들올리브 나무와 소귀나무와 종려나무와 참나무의 가지를 꺾어다가, 초막을 짓도록 하라는 말이 기록되어 있기 때문에, 그 말을 이스라엘 자손이 사는 모든 마을과 예루살렘에 널리 알려야 한다는 것을 알게 되었다.",
     Chn:"并要在各城和耶路撒冷宣传报告说：「你们当上山，将橄榄树、野橄榄树、番石榴树、棕树，和各样茂密树的枝子取来，照着所写的搭棚。」",
     Eng:"and that they should proclaim this word and spread it throughout their towns and in Jerusalem: \"Go out into the hill country and bring back branches from olive and wild olive trees, and from myrtles, palms and shade trees, to make booths\"--as it is written.",
     Ind:"(8-16) dan bahwa di semua kota mereka dan di Yerusalem harus disampaikan berita dan pengumuman yang berbunyi: \"Pergilah ke gunung, ambillah daun pohon zaitun, daun pohon minyak, daun pohon murad, daun pohon korma dan daun dari pohon-pohon yang rimbun guna membuat pondok-pondok sebagaimana tertulis.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"(8-18) Seluruh jemaah yang pulang dari pembuangan itu membuat pondok-pondok dan tinggal di situ. Memang sejak zaman Yosua bin Nun sampai hari itu orang Israel tidak pernah berbuat demikian. Maka diadakanlah pesta ria yang amat besar."
   },
   {Bible:"Nehemiah", Chapter:8, Verse:18, Page:1,
-    Kor:"에스라는 첫날로부터 마지막 날까지, 날마다 하나님의 율법책을 읽어 주었다. 백성은 이레 동안 절기를 지키고, 여드레째 되는 날에는 규례대로 성회를 열었다.",
+    Kor:"에스라는 첫날로부터 마지막 날까지, 날마다 하나님의 율법책을 읽어 주었다. 백성은 이레 동안 절기를 지키고, 여드레째 되는 날에는, 규례대로 성회를 열었다.",
     Chn:"从头一天直到末一天，以斯拉每日念　神的律法书。众人守节七日，第八日照例有严肃会。",
     Eng:"Day after day, from the first day to the last, Ezra read from the Book of the Law of God. They celebrated the feast for seven days, and on the eighth day, in accordance with the regulation, there was an assembly.",
     Ind:"(8-19) Bagian-bagian kitab Taurat Allah itu dibacakan tiap hari, dari hari pertama sampai hari terakhir. Tujuh hari lamanya mereka merayakan hari raya itu dan pada hari yang kedelapan ada pertemuan raya sesuai dengan peraturan."

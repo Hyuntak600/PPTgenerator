@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",19,29);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:19, Verse:1, Page:1,
-    Kor:"<참는 것이 지혜> 거짓말을 하며 미련하게 사는 사람보다는, 가난해도 흠 없이 사는 사람이 낫다.",
+    Kor:"거짓말을 하며 미련하게 사는 사람보다는, 가난해도 흠 없이 사는 사람이 낫다.",
     Chn:"行为纯正的贫穷人 胜过乖谬愚妄的富足人。",
     Eng:"Better a poor man whose walk is blameless than a fool whose lips are perverse.",
     Ind:"Lebih baik seorang miskin yang bersih kelakuannya dari pada seorang yang serong bibirnya lagi bebal."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Tanpa pengetahuan kerajinanpun tidak baik; orang yang tergesa-gesa akan salah langkah."
   },
   {Bible:"Proverbs", Chapter:19, Verse:3, Page:1,
-    Kor:"사람은 미련해서 스스로 길을 잘못 들고도, 마음 속으로 주님을 원망한다.",
+    Kor:"사람은 미련해서 스스로 길을 잘못 들고도, 마음 속으로 주를 원망한다.",
     Chn:"人的愚昧倾败他的道； 他的心也抱怨耶和华。",
     Eng:"A man's own folly ruins his life, yet his heart rages against the LORD.",
     Ind:"Kebodohan menyesatkan jalan orang, lalu gusarlah hatinya terhadap TUHAN."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Anak bebal adalah bencana bagi ayahnya, dan pertengkaran seorang isteri adalah seperti tiris yang tidak henti-hentinya menitik."
   },
   {Bible:"Proverbs", Chapter:19, Verse:14, Page:1,
-    Kor:"집과 재물은 조상에게서 물려받은 유산이지만, 슬기로운 아내는 주님께서 주신다.",
+    Kor:"집과 재물은 조상에게서 물려받은 유산이지만, 슬기로운 아내는 주께서 주신다.",
     Chn:"房屋钱财是祖宗所遗留的； 惟有贤慧的妻是耶和华所赐的。",
     Eng:"Houses and wealth are inherited from parents, but a prudent wife is from the LORD.",
     Ind:"Rumah dan harta adalah warisan nenek moyang, tetapi isteri yang berakal budi adalah karunia TUHAN."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Siapa berpegang pada perintah, memelihara nyawanya, tetapi siapa menghina firman, akan mati."
   },
   {Bible:"Proverbs", Chapter:19, Verse:17, Page:1,
-    Kor:"가난한 사람에게 은혜를 베푸는 것은 주님께 꾸어드리는 것이니, 주님께서 그 선행을 넉넉하게 갚아 주신다.",
+    Kor:"가난한 사람에게 은혜를 베푸는 것은 주께 꾸어드리는 것이니, 주께서 그 선행을 넉넉하게 갚아 주신다.",
     Chn:"怜悯贫穷的，就是借给耶和华； 他的善行，耶和华必偿还。",
     Eng:"He who is kind to the poor lends to the LORD, and he will reward him for what he has done.",
     Ind:"Siapa menaruh belas kasihan kepada orang yang lemah, memiutangi TUHAN, yang akan membalas perbuatannya itu."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Banyaklah rancangan di hati manusia, tetapi keputusan Tuhanlah yang terlaksana."
   },
   {Bible:"Proverbs", Chapter:19, Verse:22, Page:1,
-    Kor:"a사람에게서 바랄 것은 성실이다. 거짓말쟁이가 되느니, 차라리 가난뱅이가 되는 것이 낫다. (a 또는 '사람의 탐욕은 그의 부끄러움이다')",
+    Kor:"사람에게서 바랄 것은 성실이다. 거짓말쟁이가 되느니, 차라리 가난뱅이가 되는 것이 낫다.",
     Chn:"施行仁慈的，令人爱慕； 穷人强如说谎言的。",
     Eng:"What a man desires is unfailing love; better to be poor than a liar.",
     Ind:"Sifat yang diinginkan pada seseorang ialah kesetiaannya; lebih baik orang miskin dari pada seorang pembohong."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Si pemalas mencelup tangannya ke dalam pinggan, tetapi tidak juga mengembalikannya ke mulut."
   },
   {Bible:"Proverbs", Chapter:19, Verse:25, Page:1,
-    Kor:"오만한 사람을 치면, b어수룩한 사람도 깨닫는다. 명철한 사람을 꾸짖으면, 그가 지식을 얻는다. (b '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"오만한 사람을 치면, 어수룩한 사람도 깨닫는다. 명철한 사람을 꾸짖으면, 그가 지식을 얻는다.",
     Chn:"鞭打亵慢人，愚蒙人必长见识； 责备明哲人，他就明白知识。",
     Eng:"Flog a mocker, and the simple will learn prudence; rebuke a discerning man, and he will gain knowledge.",
     Ind:"Jikalau si pencemooh kaupukul, barulah orang yang tak berpengalaman menjadi bijak, jikalau orang yang berpengertian ditegur, ia menjadi insaf."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Anak yang menganiaya ayahnya atau mengusir ibunya, memburukkan dan memalukan diri."
   },
   {Bible:"Proverbs", Chapter:19, Verse:27, Page:1,
-    Kor:"c아이들아, 지식의 말씀에서 벗어나게 하는 훈계는 듣지 말아라. (c 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 지식의 말씀에서 벗어나게 하는 훈계는 듣지 말아라.",
     Chn:"我儿，不可听了教训 而又偏离知识的言语。",
     Eng:"Stop listening to instruction, my son, and you will stray from the words of knowledge.",
     Ind:"Hai anakku, jangan lagi mendengarkan didikan, kalau engkau menyimpang juga dari perkataan-perkataan yang memberi pengetahuan."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Saksi yang tidak berguna mencemoohkan hukum dan mulut orang fasik menelan dusta."
   },
   {Bible:"Proverbs", Chapter:19, Verse:29, Page:1,
-    Kor:"오만한 사람에게는 심판이 준비되어 있고, d미련한 사람의 등에는 매가 준비되어 있다. (d '미련한 사람'으로 번역된 히브리어 '크씰림'은 '어리석은 사람'으로 번역된 '에빌림'과 함께 도덕적 결함을 지닌 사람을 뜻함. 1:7의 주를 볼 것)",
+    Kor:"오만한 사람에게는 심판이 준비되어 있고, 미련한 사람의 등에는 매가 준비되어 있다.",
     Chn:"刑罚是为亵慢人预备的； 鞭打是为愚昧人的背预备的。",
     Eng:"Penalties are prepared for mockers, and beatings for the backs of fools.",
     Ind:"Hukuman bagi si pencemooh tersedia dan pukulan bagi punggung orang bebal."

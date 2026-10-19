@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",27,27);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:27, Verse:1, Page:1,
-    Kor:"<내일 일을 자랑하지 말아라> 내일 일을 자랑하지 말아라. 하루 사이에 무슨 일이 생길지 알 수 없다.",
+    Kor:"내일 일을 자랑하지 말아라. 하루 사이에 무슨 일이 생길지 알 수 없다.",
     Chn:"不要为明日自夸， 因为一日要生何事，你尚且不能知道。",
     Eng:"Do not boast about tomorrow, for you do not know what a day may bring forth.",
     Ind:"Janganlah memuji diri karena esok hari, karena engkau tidak tahu apa yang akan terjadi hari itu."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Jangan kautinggalkan temanmu dan teman ayahmu. Jangan datang di rumah saudaramu pada waktu engkau malang. Lebih baik tetangga yang dekat dari pada saudara yang jauh."
   },
   {Bible:"Proverbs", Chapter:27, Verse:11, Page:1,
-    Kor:"내 아이들아, 지혜를 깨우치고, 나의 마음을 기쁘게 하여라. 그러면 나를 비방하는 사람에게, 내가 대답할 수 있겠다.",
+    Kor:"내 아들아, 지혜를 깨우치고, 나의 마음을 기쁘게 하여라. 그러면 나를 비방하는 사람에게, 내가 대답할 수 있겠다.",
     Chn:"我儿，你要作智慧人，好叫我的心欢喜， 使我可以回答那讥诮我的人。",
     Eng:"Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt.",
     Ind:"Anakku, hendaklah engkau bijak, sukakanlah hatiku, supaya aku dapat menjawab orang yang mencela aku."
   },
   {Bible:"Proverbs", Chapter:27, Verse:12, Page:1,
-    Kor:"슬기로운 사람은 재앙을 보면 숨어 피하지만, a어수룩한 사람은 고집을 부리고 나아가다가 화를 입는다. (a '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"슬기로운 사람은 재앙을 보면 숨어 피하지만, 어수룩한 사람은 고집을 부리고 나아가다가 화를 입는다.",
     Chn:"通达人见祸藏躲； 愚蒙人前往受害。",
     Eng:"The prudent see danger and take refuge, but the simple keep going and suffer for it.",
     Ind:"Kalau orang bijak melihat malapetaka, bersembunyilah ia, tetapi orang yang tak berpengalaman berjalan terus, lalu kena celaka."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Siapa menahannya menahan angin, dan tangan kanannya menggenggam minyak."
   },
   {Bible:"Proverbs", Chapter:27, Verse:17, Page:1,
-    Kor:"쇠붙이는 쇠붙이로 쳐야 날이 날카롭게 서듯이, 사람도 친구와 부대껴야 지혜가 예리해진다.",
+    Kor:"쇠붙이는 쇠붙이로 쳐야 날이 날카롭게 서듯이, 사람도 이웃과 부딪쳐야 지혜가 예리해진다.",
     Chn:"铁磨铁，磨出刃来； 朋友相感也是如此。",
     Eng:"As iron sharpens iron, so one man sharpens another.",
     Ind:"Besi menajamkan besi, orang menajamkan sesamanya."
   },
   {Bible:"Proverbs", Chapter:27, Verse:18, Page:1,
-    Kor:"무화과나무를 가꾸는 사람이 그 열매를 먹듯이, 윗사람의 시중을 드는 사람이 그 영화를 얻는다.",
+    Kor:"무화과나무를 가꾸는사람이 그 열매를 먹듯이, 윗사람의 시중을 드는 사람이 그 영화를 얻는다.",
     Chn:"看守无花果树的，必吃树上的果子； 敬奉主人的，必得尊荣。",
     Eng:"He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.",
     Ind:"Siapa memelihara pohon ara akan memakan buahnya, dan siapa menjaga tuannya akan dihormati."

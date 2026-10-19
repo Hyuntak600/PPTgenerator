@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",10,39);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:10, Verse:1, Page:1,
-    Kor:"<언약에 서명한 사람들> 서명한 사람들은 다음과 같다. ○하가랴의 아들인 총독 느헤미야와 시드기야와",
+    Kor:"서명한 사람들은 다음과 같다. ○하가랴의 아들인 총독 느헤미야와 시드기야와",
     Chn:"签名的是：哈迦利亚的儿子—省长尼希米，和西底家；",
     Eng:"Those who sealed it were: Nehemiah the governor, the son of Hacaliah. Zedekiah,",
     Ind:"Yang membubuhi meterai adalah: kepala daerah Nehemia bin Hakhalya, Zedekia,"
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Malukh, Harim dan Baana."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:28, Page:1,
-    Kor:"○이 밖에 나머지 백성, 곧 제사장과 레위 사람과 성전 문지기와 노래하는 사람과 성전 막일꾼과 주님의 율법을 따르려고 그 땅의 여러 백성과 인연을 끊은 모든 이들과 그 아내들과 그들의 아들딸들과 알아들을 만한 지식이 있는 이들 모두가,",
+    Kor:"○이 밖에 나머지 백성, 곧 제사장과 레위 사람과 성전 문지기와 노래하는 사람과 성전 막일꾼과 주의 율법을 따르려고 그 땅의 여러 백성과 인연을 끊은 모든 이들과 그 아내들과 그들의 아들딸들과 알아들을 만한 지식이 있는 이들 모두가,",
     Chn:"其余的民、祭司、利未人、守门的、歌唱的、尼提宁，和一切离绝邻邦居民归服　神律法的，并他们的妻子、儿女，凡有知识能明白的，",
     Eng:"\"The rest of the people--priests, Levites, gatekeepers, singers, temple servants and all who separated themselves from the neighboring peoples for the sake of the Law of God, together with their wives and all their sons and daughters who are able to understand--",
     Ind:"Dan orang-orang yang lain, yakni: para imam dan orang-orang Lewi, para penunggu pintu gerbang, para penyanyi, para budak di bait Allah dan segala orang yang memisahkan diri dari penduduk negeri untuk patuh kepada hukum Allah, serta isteri mereka, anak-anak lelaki dan anak-anak perempuan mereka, begitu juga semua orang yang cukup dewasa untuk mengerti,"
   },
   {Bible:"Nehemiah", Chapter:10, Verse:29, Page:1,
-    Kor:"귀족 지도자들과 함께 하나님의 종 모세가 전하여 준 하나님의 율법을 따르기로 하고, 우리 주 하나님의 모든 계명과 규례와 율례에 복종하기로 하였으며, 그것을 어기면 저주를 받아도 좋다고 다음과 같이 맹세하였다.",
+    Kor:"귀족 형제들과 함께, 하나님의 종 모세가 전하여 준 하나님의 율법을 따르기로 하고, 우리 주 하나님의 모든 계명과 규례와 율례에 복종하기로 하였으며, 그것을 어기면 저주를 받아도 좋다고 다음과 같이 맹세하였다.",
     Chn:"都随从他们贵胄的弟兄，发咒起誓，必遵行　神借他仆人摩西所传的律法，谨守遵行耶和华—我们主的一切诫命、典章、律例；",
     Eng:"all these now join their brothers the nobles, and bind themselves with a curse and an oath to follow the Law of God given through Moses the servant of God and to obey carefully all the commands, regulations and decrees of the LORD our LORD.",
     Ind:"menggabungkan diri dengan saudara-saudara mereka, yakni pemuka-pemuka mereka itu. Mereka bersumpah kutuk untuk hidup menurut hukum Allah yang diberikan dengan perantaraan Musa, hamba Allah itu, dan untuk tetap mengikuti dan melakukan segala perintah TUHAN, yakni Tuhan kami, serta segala peraturan dan ketetapan-Nya."
@@ -183,13 +183,13 @@ BibleDB.add([
     Ind:"Pula kami tidak akan memberi anak-anak perempuan kami kepada penduduk negeri, ataupun mengambil anak-anak perempuan mereka bagi anak-anak lelaki kami."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:31, Page:1,
-    Kor:"이 땅의 백성이 안식일에 물건이나 어떤 곡식을 내다가 팔더라도, 안식일에나 성일에는, 우리가 사지 않는다. 일곱 해마다 땅을 쉬게 하고, 육 년이 지난 빚은 모두 없애 준다.\"",
+    Kor:"이 땅의 백성이 안식일에 물건이나 어떤 곡식을 내다가 팔더라도, 안식일에나 성일에는, 우리가 사지 않는다. 일곱 해마다 땅을 쉬게 하고, 육 년이 지난 빚은 모두 삭쳐 준다.\"",
     Chn:"这地的居民若在安息日，或什么圣日，带了货物或粮食来卖给我们，我们必不买。每逢第七年必不耕种，凡欠我们债的必不追讨。",
     Eng:"\"When the neighboring peoples bring merchandise or grain to sell on the Sabbath, we will not buy from them on the Sabbath or on any holy day. Every seventh year we will forgo working the land and will cancel all debts.",
     Ind:"Dan bilamana penduduk negeri membawa barang-barang dan berbagai-bagai gandum untuk dijual pada hari Sabat, kami tidak akan membelinya dari mereka pada hari Sabat atau pada hari yang kudus. Dan kami akan membiarkan begitu saja hasil tanah pada tahun yang ketujuh dan tidak akan menagih sesuatu hutang."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:32, Page:1,
-    Kor:"○우리는 다음과 같은 규례도 정하였다. ○\"하나님의 성전 비용으로 쓰도록, 우리는 해마다 삼분의 일 세겔씩 바친다.",
+    Kor:"○우리는 다음과 같은 규례도 정하였다. \"하나님의 성전 비용으로 쓰도록, 우리는 해마다 삼분의 일 세겔씩 바친다.",
     Chn:"我们又为自己定例，每年各人捐银一舍客勒三分之一，为我们　神殿的使用，",
     Eng:"\"We assume the responsibility for carrying out the commands to give a third of a shekel each year for the service of the house of our God:",
     Ind:"Pula kami mewajibkan diri untuk memberi tiap tahun sepertiga syikal untuk ibadah di rumah Allah kami, yakni:"
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Pula dengan membuang undi kami, yakni para imam, orang-orang Lewi dan kaum awam, menetapkan suatu cara untuk menyediakan kayu api. Kayu itu harus dibawa ke rumah Allah kami secara bergilir oleh kaum-kaum keluarga kami pada waktu-waktu tertentu setiap tahun, supaya di atas mezbah TUHAN Allah kami ada api yang menyala, seperti tertulis dalam kitab Taurat."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:35, Page:1,
-    Kor:"해마다 우리 밭에서 나는 맏물과 온갖 과일나무의 첫 열매를 주님의 성전에 바친다.",
+    Kor:"해마다 우리 밭에서 나는 맏물과 온갖 과일나무의 첫 열매를 주의 성전에 바친다.",
     Chn:"又定每年将我们地上初熟的土产和各样树上初熟的果子都奉到耶和华的殿里。",
     Eng:"\"We also assume responsibility for bringing to the house of the LORD each year the firstfruits of our crops and of every fruit tree.",
     Ind:"Lagipula setiap tahun kami akan membawa ke rumah TUHAN hasil yang pertama dari tanah kami dan buah sulung segala pohon."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:36, Page:1,
-    Kor:"율법에 기록된 대로, 우리의 맏아들과 가축의 첫 새끼 곧 처음 난 송아지와 새끼 양을 우리 하나님의 성전으로 가지고 가서, 그 성전에서 우리 하나님을 섬기는 제사장들에게 바친다.\"",
+    Kor:"율법에 기록된 대로, 우리의 맏아들과 가축의 첫 새끼, 곧 처음 난 송아지와 새끼 양을 우리 하나님의 성전으로 가지고 가서, 그 성전에서 우리 하나님을 섬기는 제사장들에게 바친다.\"",
     Chn:"又照律法上所写的，将我们头胎的儿子和首生的牛羊都奉到我们　神的殿，交给我们　神殿里供职的祭司；",
     Eng:"\"As it is also written in the Law, we will bring the firstborn of our sons and of our cattle, of our herds and of our flocks to the house of our God, to the priests ministering there.",
     Ind:"Pun kami akan membawa ke rumah Allah kami, yakni kepada para imam yang menyelenggarakan kebaktian di rumah Allah kami, anak-anak sulung kami dan anak-anak sulung ternak kami seperti tertulis dalam kitab Taurat, juga anak-anak sulung lembu kami dan kambing domba kami."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Seorang imam, anak Harun, akan menyertai orang-orang Lewi itu, bila mereka memungut persembahan persepuluhan. Dan orang-orang Lewi itu akan membawa persembahan persepuluhan dari pada persembahan persepuluhan itu ke rumah Allah kami, ke bilik-bilik rumah perbendaharaan."
   },
   {Bible:"Nehemiah", Chapter:10, Verse:39, Page:1,
-    Kor:"이스라엘 자손과 레위 자손은 들어 바칠 예물인 곡식과 새 포도주와 기름을 그 여러 방에 가져다 놓기로 하였다. 그런 방은 성전 기구를 두기도 하고, 당번 제사장들과 성전 문지기들과 노래하는 사람들이 쓰기도 하는 곳이다. ○\"우리는 우리 하나님의 성전을 아무렇게나 버려 두지 않을 것이다.\"",
+    Kor:"이스라엘 자손과 레위 자손은 들어 바칠 예물인 곡식과 새 포도주와 기름을 그 여러 방에 가져다 놓기로 하였다. 그런 방은 성전 기구를 두기도 하고, 당번 제사장들과 성전 문지기들과 노래하는 사람들이 쓰기도 하는 곳이다. \"우리는 우리 하나님의 성전을 아무렇게나 버려 두지 않을 것이다.\"",
     Chn:"以色列人和利未人要将五谷、新酒，和油为举祭，奉到收存圣所器皿的屋子里，就是供职的祭司、守门的、歌唱的所住的屋子。这样，我们就不离弃我们　神的殿。",
     Eng:"The people of Israel, including the Levites, are to bring their contributions of grain, new wine and oil to the storerooms where the articles for the sanctuary are kept and where the ministering priests, the gatekeepers and the singers stay. \"We will not neglect the house of our God.\"",
     Ind:"Karena orang Israel dan orang Lewi harus membawa persembahan khusus dari pada gandum, anggur dan minyak ke bilik-bilik itu. Di situ ada perkakas-perkakas tempat kudus, pula para imam yang menyelenggarakan kebaktian, para penunggu pintu gerbang dan para penyanyi. Kami tidak akan membiarkan rumah Allah kami."

@@ -3,7 +3,7 @@
 BibleDB.ref("SongofSolomon",6,14);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:6, Verse:1, Page:1,
-    Kor:"<(친구들)> 여인들 가운데서도 빼어나게 아리따운 여인아, 너의 임이 간 곳이 어디냐? 너의 임이 간 곳이 어딘지 우리가 함께 임을 찾아 나서자.",
+    Kor:"(친구들) 여인들 가운데서도 빼어나게 아리따운 여인아, 너의 임이 간 곳이 어디냐? 너의 임이 간 곳이 어딘지 우리가 함께 임을 찾아 나서자.",
     Chn:"你这女子中极美丽的， 你的良人往何处去了？ 你的良人转向何处去了， 我们好与你同去寻找他。",
     Eng:"Where has your lover gone, most beautiful of women? Which way did your lover turn, that we may look for him with you?",
     Ind:"--Ke mana perginya kekasihmu, hai jelita di antara wanita? Ke jurusan manakah kekasihmu pergi, supaya kami mencarinya besertamu?"
@@ -69,16 +69,22 @@ BibleDB.add([
     Ind:"Ke kebun kenari aku turun melihat kuntum-kuntum di lembah, melihat apakah pohon anggur berkuncup dan pohon-pohon delima berbunga."
   },
   {Bible:"SongofSolomon", Chapter:6, Verse:12, Page:1,
-    Kor:"나도 모르는 사이에, 나는 어느덧 나의 마음이 시키는 대로 a왕자들이 타는 병거에 올라앉아 있네. (a 또는 '암미나답의 병거에' 또는 '백성의 병거에')",
+    Kor:"나도 모르는 사이에, 나는 어느덧 나의 마음이 시키는 대로 왕자들이 타는 병거에 올라앉아 있네.",
     Chn:"不知不觉， 我的心将我安置在我尊长的车中。",
     Eng:"Before I realized it, my desire set me among the royal chariots of my people.",
     Ind:"Tak sadar diri aku; kerinduanku menempatkan aku di atas kereta orang bangsawan."
   },
   {Bible:"SongofSolomon", Chapter:6, Verse:13, Page:1,
-    Kor:"(친구들) 술람미의 아가씨야, 돌아오너라, 돌아오너라. 눈부신 너의 모습을 우리가 좀 볼 수 있게, 돌아오너라, 돌아오너라. 술람미의 아가씨야. (남자) 그대들은 어찌하여 마하나임 춤마당에서 춤추는 술람미의 아가씨를 보려 하는가?",
+    Kor:"(친구들) 술람미의 아가씨야, 돌아오너라, 돌아오너라. 눈부신 너의 모습을 우리가 좀 볼 수 있게, 돌아오너라, 돌아오너라. 술람미의 아가씨야.",
     Chn:"回来，回来，书拉密女； 你回来，你回来，使我们得观看你。 〔新娘〕 你们为何要观看书拉密女， 像观看玛哈念跳舞的呢？",
     Eng:"Come back, come back, O Shulammite; come back, come back, that we may gaze on you! Why would you gaze on the Shulammite as on the dance of Mahanaim?",
     Ind:"Kembalilah, kembalilah, ya gadis Sulam, kembalilah, kembalilah, supaya kami dapat melihat engkau! Mengapa kamu senang melihat gadis Sulam itu seperti melihat tari-tarian perang?",
     ChnVerseEnd:14
+  },
+  {Bible:"SongofSolomon", Chapter:6, Verse:14, Page:1,
+    Kor:"(남자) 그대들은 어찌하여 마하나임 춤마당에서 춤추는 술람미의 아가씨를 보려 하는가?",
+    Chn:"",
+    Eng:"",
+    Ind:""
   },
 ]);

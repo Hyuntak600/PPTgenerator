@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",25,40);
 BibleDB.add([
   {Bible:"Exodus", Chapter:25, Verse:1, Page:1,
-    Kor:"<성소를 지을 예물> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"Berfirmanlah TUHAN kepada Musa:"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"minyak untuk lampu, rempah-rempah untuk minyak urapan dan untuk ukupan dari wangi-wangian,"
   },
   {Bible:"Exodus", Chapter:25, Verse:7, Page:1,
-    Kor:"a에봇과 가슴받이에 박을 홍옥수와 그 밖의 보석들이다.(a 조끼 모양의 옷. 제사장이 하나님의 뜻을 여쭐 때 사용하는 우림과 둠밈을 넣음)",
+    Kor:"에봇과 가슴받이에 박을 홍옥수와 그 밖의 보석들이다.",
     Chn:"红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。",
     Eng:"and onyx stones and other gems to be mounted on the ephod and breastpiece.",
     Ind:"permata krisopras dan permata tatahan untuk baju efod dan untuk tutup dada."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Dan mereka harus membuat tempat kudus bagi-Ku, supaya Aku akan diam di tengah-tengah mereka."
   },
   {Bible:"Exodus", Chapter:25, Verse:9, Page:1,
-    Kor:"내가 너에게 보여 주는 모양과 똑같은 모양으로 성막과 거기에서 쓸 모든 기구를 만들어라.\"",
+    Kor:"내가 너에게 보여 주는 모양과 똑같은 모양으로, 성막과 거기에서 쓸 모든 기구를 만들어라.",
     Chn:"制造帐幕和其中的一切器具都要照我所指示你的样式。」",
     Eng:"Make this tabernacle and all its furnishings exactly like the pattern I will show you.",
     Ind:"Menurut segala apa yang Kutunjukkan kepadamu sebagai contoh Kemah Suci dan sebagai contoh segala perabotannya, demikianlah harus kamu membuatnya.\""
   },
   {Bible:"Exodus", Chapter:25, Verse:10, Page:1,
-    Kor:"<언약궤 모형(출 37:1-9)> ○\"아카시아 나무로, 길이가 두 자 반, 너비가 한 자 반, 높이가 한 자 반 나가는 궤를 만들어라.",
+    Kor:"○아카시아 나무로, 길이가 두 자 반, 너비가 한 자 반, 높이가 한 자 반 나가는 궤를 만들어라.",
     Chn:"「要用皂荚木做一柜，长二肘半，宽一肘半，高一肘半。",
     Eng:"\"Have them make a chest of acacia wood--two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
     Ind:"\"Haruslah mereka membuat tabut dari kayu penaga, dua setengah hasta panjangnya, satu setengah hasta lebarnya dan satu setengah hasta tingginya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Haruslah engkau menyalutnya dengan emas murni; dari dalam dan dari luar engkau harus menyalutnya dan di atasnya harus kaubuat bingkai emas sekelilingnya."
   },
   {Bible:"Exodus", Chapter:25, Verse:12, Page:1,
-    Kor:"금고리 네 개를 만들어서 그 밑의 네 모퉁이에 달되, 한쪽에 고리 두 개, 다른 한쪽에 고리 두 개를 달아라.",
+    Kor:"금고리 네 개를 만들어서, 그 밑의 네 모퉁이에 달되, 한쪽에 고리 두 개, 다른 한쪽에 고리 두 개를 달아라.",
     Chn:"也要铸四个金环，安在柜的四脚上；这边两环，那边两环。",
     Eng:"Cast four gold rings for it and fasten them to its four feet, with two rings on one side and two rings on the other.",
     Ind:"Haruslah engkau menuang empat gelang emas untuk tabut itu dan pasanglah gelang itu pada keempat penjurunya, yaitu dua gelang pada rusuknya yang satu dan dua gelang pada rusuknya yang kedua."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Dan haruslah kaubuat dua kerub dari emas, kaubuatlah itu dari emas tempaan, pada kedua ujung tutup pendamaian itu."
   },
   {Bible:"Exodus", Chapter:25, Verse:19, Page:1,
-    Kor:"그룹 하나는 이쪽 끝에 또 다른 하나는 그 맞은쪽 끝에 자리잡게 하되, 속죄판과 그 양끝에 있는 그룹이 한 덩이가 되도록 하여라.",
+    Kor:"그룹 하나는 이쪽 끝에, 또 다른 하나는 그 맞은쪽 끝에 자리잡게 하되, 속죄판과 그 양끝에 있는 그룹이 한 덩이가 되도록 하여라.",
     Chn:"这头做一个基路伯，那头做一个基路伯，二基路伯要接连一块，在施恩座的两头。",
     Eng:"Make one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends.",
     Ind:"Buatlah satu kerub pada ujung sebelah sini dan satu kerub pada ujung sebelah sana; seiras dengan tutup pendamaian itu kamu buatlah kerub itu di atas kedua ujungnya."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Haruslah kauletakkan tutup pendamaian itu di atas tabut dan dalam tabut itu engkau harus menaruh loh hukum, yang akan Kuberikan kepadamu."
   },
   {Bible:"Exodus", Chapter:25, Verse:22, Page:1,
-    Kor:"내가 거기에서 너를 만나겠다. 내가 속죄판 위 곧 증거궤 위에 있는 두 그룹 사이에서, 이스라엘 자손에게 명할 모든 말을 너에게 일러주겠다.\"",
+    Kor:"내가 거기에서 너를 만나겠다. 내가 속죄판 위, 곧 증거궤 위에 있는 두 그룹 사이에서, 이스라엘 자손에게 명할 모든 말을 너에게 일러주겠다.",
     Chn:"我要在那里与你相会，又要从法柜施恩座上二基路伯中间，和你说我所要吩咐你传给以色列人的一切事。」",
     Eng:"There, above the cover between the two cherubim that are over the ark of the Testimony, I will meet with you and give you all my commands for the Israelites.",
     Ind:"Dan di sanalah Aku akan bertemu dengan engkau dan dari atas tutup pendamaian itu, dari antara kedua kerub yang di atas tabut hukum itu, Aku akan berbicara dengan engkau tentang segala sesuatu yang akan Kuperintahkan kepadamu untuk disampaikan kepada orang Israel.\""
   },
   {Bible:"Exodus", Chapter:25, Verse:23, Page:1,
-    Kor:"<하나님께 차리는 상(출 37:10-16)> ○\"아카시아 나무로, 길이가 두 자, 너비가 한 자, 높이가 한 자 반인 상을 만들어서,",
+    Kor:"○아카시아 나무로 길이가 두 자이고, 너비가 한 자이고, 높이가 한 자 반인 상을 만들어서,",
     Chn:"「要用皂荚木做一张桌子，长二肘，宽一肘，高一肘半。",
     Eng:"\"Make a table of acacia wood--two cubits long, a cubit wide and a cubit and a half high.",
     Ind:"\"Lagi haruslah engkau membuat meja dari kayu penaga, dua hasta panjangnya, sehasta lebarnya dan satu setengah hasta tingginya."
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Haruslah engkau membuat pinggannya, cawannya, kendinya dan pialanya, yang dipakai untuk persembahan curahan; haruslah engkau membuat semuanya itu dari emas murni."
   },
   {Bible:"Exodus", Chapter:25, Verse:30, Page:1,
-    Kor:"그 상은 언약궤 앞에 놓고, 상 위에는 나에게 바치는 거룩한 빵을 항상 놓아 두도록 하여라.\"",
+    Kor:"그 상은 언약궤 앞에 놓고, 상 위에는 나에게 바치는 거룩한 빵을 항상 놓아 두도록 하여라.",
     Chn:"又要在桌子上，在我面前，常摆陈设饼。」",
     Eng:"Put the bread of the Presence on this table to be before me at all times.",
     Ind:"Dan haruslah engkau tetap meletakkan roti sajian di atas meja itu di hadapan-Ku.\""
   },
   {Bible:"Exodus", Chapter:25, Verse:31, Page:1,
-    Kor:"<등잔대 모형(출 37:17-2d> ○\"순금을 두들겨서 등잔대를 만들어라. 등잔대의 밑받침과 줄기와 등잔과 꽃받침과 꽃을 하나로 이어놓아라.",
+    Kor:"○순금을 두들겨서 등잔대를 만들어라. 등잔대의 밑받침과 줄기와 등잔과 꽃받침과 꽃을 하나로 이어놓아라.",
     Chn:"「要用精金做一个灯台。灯台的座和干与杯、球、花，都要接连一块锤出来。",
     Eng:"\"Make a lampstand of pure gold and hammer it out, base and shaft; its flowerlike cups, buds and blossoms shall be of one piece with it.",
     Ind:"\"Haruslah engkau membuat kandil dari emas murni; dari emas tempaan harus kandil itu dibuat, baik kakinya baik batangnya; kelopaknya--dengan tombolnya dan kembangnya--haruslah seiras dengan kandil itu."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Pada kandil itu sendiri harus ada empat kelopak berupa bunga badam--dengan tombolnya dan kembangnya."
   },
   {Bible:"Exodus", Chapter:25, Verse:35, Page:1,
-    Kor:"그리고 등잔대의 맨 위에 있는 좌우 두 곁가지가 줄기에서 뻗어날 때에는, 밑에서 세 번째에 놓인 꽃받침에서 뻗어나게 하고, 그 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어날 때에는, 밑에서 두 번째에 놓인 꽃받침에서 뻗어나게 하고, 그리고 맨 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어날 02 25:때에는, 맨 아래에 놓인 꽃받침에서 뻗어나게 하여, 여섯 곁가지를 줄기와 연결시켜서 한 덩이를 만들어라. 이렇게 등잔대의 줄기에서 좌우로 곁가지가 나오게 하여라.",
+    Kor:"그리고 등잔대의 맨 위에 있는 좌우 두 곁가지가 줄기에서 뻗어날 때에는, 밑에서 세 번째에 놓인 꽃받침에서 뻗어나게 하고, 그 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어날 때에는, 밑에서 두 번째에 놓인 꽃받침에서 뻗어나게 하고, 그리고 맨 아래에 있는 좌우 두 곁가지가 줄기에서 뻗어날 때에는, 맨 아래에 놓인 꽃받침에서 뻗어나게 하여, 여섯 곁가지를 줄기와 연결시켜서 한 덩이를 만들어라. 이렇게 등잔대의 줄기에서 좌우로 곁가지가 나오게 하여라.",
     Chn:"灯台每两个枝子以下有球与枝子接连一块。灯台出的六个枝子都是如此。",
     Eng:"One bud shall be under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.",
     Ind:"Juga harus ada satu tombol di bawah sepasang cabang yang pertama, yang timbul dari kandil itu, dan satu tombol di bawah yang kedua, dan satu tombol di bawah yang ketiga; demikianlah juga kaubuat keenam cabang yang timbul dari kandil itu."
@@ -231,13 +231,13 @@ BibleDB.add([
     Ind:"Sepitnya dan penadahnya haruslah dari emas murni."
   },
   {Bible:"Exodus", Chapter:25, Verse:39, Page:1,
-    Kor:"등잔대와 이 모든 기구를 순금 한 달란트로 만들어라.",
+    Kor:"등잔대와 이 모든 기구를, 순금 한 달란트로 만들어라.",
     Chn:"做灯台和这一切的器具要用精金一他连得。",
     Eng:"A talent of pure gold is to be used for the lampstand and all these accessories.",
     Ind:"Dari satu talenta emas murni haruslah dibuat kandil itu dengan segala perkakasnya itu."
   },
   {Bible:"Exodus", Chapter:25, Verse:40, Page:1,
-    Kor:"이 모든 것을, 내가 이 산에서 너에게 보여 준 모양 그대로 만들도록 하여라.\"",
+    Kor:"이 모든 것을, 내가 이 산에서 너에게 보여 준 모양 그대로 만들도록 하여라.",
     Chn:"要谨慎做这些物件，都要照着在山上指示你的样式。」",
     Eng:"See that you make them according to the pattern shown you on the mountain.",
     Ind:"Dan ingatlah, bahwa engkau membuat semuanya itu menurut contoh yang telah ditunjukkan kepadamu di atas gunung itu.\""

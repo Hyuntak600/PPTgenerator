@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",54,7);
 BibleDB.add([
   {Bible:"Psalms", Chapter:54, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 현악기에 맞추어 부르는 노래, 다윗의 마스길, 십 사람 몇이 사울에게로 가서 다윗이 자기들에게로 와서 숨어 있다고 밀고하였을 때에 다윗이 지은 시> 하나님, 주님의 이름으로 나를 구원하시고, 주님의 권세로 나의 정당함을 변호하여 주십시오.",
+    Kor:"하나님, 주의 이름으로 나를 구원하시고, 주의 권세로 나의 정당함을 변호하여 주십시오.",
     Chn:"西弗人来对扫罗说：「大卫岂不是在我们那里藏身吗？」那时，大卫作这训诲诗，交与伶长。用丝弦的乐器。 　神啊，求你以你的名救我， 凭你的大能为我伸冤。",
     Eng:"Save me, O God, by your name; vindicate me by your might.",
     Ind:"Untuk pemimpin biduan. Dengan permainan kecapi. Nyanyian pengajaran Daud, (54-2) ketika orang Zifi datang mengatakan kepada Saul: \"Daud bersembunyi kepada kami.\" (54-3) Ya Allah, selamatkanlah aku karena nama-Mu, berilah keadilan kepadaku karena keperkasaan-Mu!"
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"(54-5) Sebab orang-orang yang angkuh bangkit menyerang aku, orang-orang yang sombong ingin mencabut nyawaku; mereka tidak mempedulikan Allah. Sela"
   },
   {Bible:"Psalms", Chapter:54, Verse:4, Page:1,
-    Kor:"그러나 하나님은 나를 돕는 분이시며, 주님은 내게 힘을 북돋우어 주는 분이시다.",
+    Kor:"그러나 하나님은 나를 돕는 분이시며, 주님은 내 목숨을 붙들어 주는 분이시다.",
     Chn:"神是帮助我的，是扶持我命的。",
     Eng:"Surely God is my help; the Lord is the one who sustains me.",
     Ind:"(54-6) Sesungguhnya, Allah adalah penolongku; Tuhanlah yang menopang aku."
   },
   {Bible:"Psalms", Chapter:54, Verse:5, Page:1,
-    Kor:"원수가 나에게 악한 짓을 하였으니, 주님이 내 원수를 갚아 주실 것이다. 주님의 진실하심을 다하여 그들을 전멸시켜 주시기를 빈다.",
+    Kor:"원수가 나에게 악한 짓을 하였으니, 주님이 내 원수를 갚아 주실 것이다. 주님의 진실하심으로 그들을 전멸시켜 주시기를 빈다.",
     Chn:"他要报应我仇敌所行的恶； 求你凭你的诚实灭绝他们。",
     Eng:"Let evil recoil on those who slander me; in your faithfulness destroy them.",
     Ind:"(54-7) Biarlah kejahatan itu berbalik kepada seteru-seteruku; binasakanlah mereka karena kesetiaan-Mu!"
   },
   {Bible:"Psalms", Chapter:54, Verse:6, Page:1,
-    Kor:"내가 즐거운 마음으로 주님께 제물을 드립니다. 주님, 내가 주님의 선하신 이름에 감사를 드립니다.",
+    Kor:"내가 즐거운 마음으로 주님께 제물을 드립니다. 주님, 내가 주의 선하신 이름에 감사를 드립니다.",
     Chn:"我要把甘心祭献给你。 耶和华啊，我要称赞你的名；这名本为美好。",
     Eng:"I will sacrifice a freewill offering to you; I will praise your name, O LORD, for it is good.",
     Ind:"(54-8) Dengan rela hati aku akan mempersembahkan korban kepada-Mu, bersyukur sebab nama-Mu baik, ya TUHAN."

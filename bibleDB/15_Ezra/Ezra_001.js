@@ -3,7 +3,7 @@
 BibleDB.ref("Ezra",1,11);
 BibleDB.add([
   {Bible:"Ezra", Chapter:1, Verse:1, Page:1,
-    Kor:"<고레스가 유다 포로 귀환을 허락하다> 페르시아 왕 고레스가 왕위에 오른 첫 해이다. 주님께서는, 예레미야를 시켜서 하신 말씀을 이루시려고, 페르시아 왕 고레스의 마음을 감동시키셨다. 고레스는 온 나라에 명령을 내리고, 그것을 다음과 같이 조서로 써서 돌렸다.",
+    Kor:"페르시아 왕 고레스가 왕위에 오른 첫 해이다. 주께서는, 예레미야를 시켜서 하신 말씀을 이루시려고, 페르시아 왕 고레스의 마음을 감동시키셨다. 고레스는 온 나라에 명령을 내리고, 그것을 다음과 같이 조서로 써서 돌렸다.",
     Chn:"波斯王塞鲁士元年，耶和华为要应验借耶利米口所说的话，就激动波斯王塞鲁士的心，使他下诏通告全国说：",
     Eng:"In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:",
     Ind:"Pada tahun pertama zaman Koresh, raja negeri Persia, TUHAN menggerakkan hati Koresh, raja Persia itu untuk menggenapkan firman yang diucapkan oleh Yeremia, sehingga disiarkan di seluruh kerajaan Koresh secara lisan dan tulisan pengumuman ini:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Dan setiap orang yang tertinggal, di manapun ia ada sebagai pendatang, harus disokong oleh penduduk setempat dengan perak dan emas, harta benda dan ternak, di samping persembahan sukarela bagi rumah Allah yang ada di Yerusalem.\""
   },
   {Bible:"Ezra", Chapter:1, Verse:5, Page:1,
-    Kor:"<유다 포로가 예루살렘으로 돌아오다> ○그 때에 유다와 베냐민 가문의 우두머리들과 제사장들과 레위 사람들과, 하나님께 감동을 받고 예루살렘으로 올라가서 주님의 성전을 지으려고 하는 모든 사람이, 길을 떠날 채비를 하였다.",
+    Kor:"○그 때에 유다와 베냐민 가문의 우두머리들과 제사장들과 레위 사람들과, 하나님께 감동을 받고 예루살렘으로 올라가서 주의 성전을 지으려고 하는 모든 사람이, 길을 떠날 채비를 하였다.",
     Chn:"于是，犹大和便雅悯的族长、祭司、利未人，就是一切被　神激动他心的人，都起来要上耶路撒冷去建造耶和华的殿。",
     Eng:"Then the family heads of Judah and Benjamin, and the priests and Levites--everyone whose heart God had moved--prepared to go up and build the house of the LORD in Jerusalem.",
     Ind:"Maka berkemaslah kepala-kepala kaum keluarga orang Yehuda dan orang Benyamin, serta para imam dan orang-orang Lewi, yakni setiap orang yang hatinya digerakkan Allah untuk berangkat pulang dan mendirikan rumah TUHAN yang ada di Yerusalem."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Dan segala orang di sekeliling mereka membantu mereka dengan barang-barang perak, dengan emas, harta benda dan ternak dan dengan pemberian yang indah-indah, selain dari segala sesuatu yang dipersembahkan dengan sukarela."
   },
   {Bible:"Ezra", Chapter:1, Verse:7, Page:1,
-    Kor:"더욱이 고레스 왕은 주님의 성전에 속하여 있던 여러 가지 그릇까지 꺼내어 오게 하였는데, 그것들은 느부갓네살이 예루살렘에서 가지고 가서 자기의 신전에 둔 것이다.",
+    Kor:"더욱이 고레스 왕은 주의 성전에 속하여 있던 여러 가지 그릇까지 꺼내어 오게 하였는데, 그것들은 느부갓네살이 예루살렘에서 가지고 가서 자기의 신전에 둔 것이다.",
     Chn:"塞鲁士王也将耶和华殿的器皿拿出来，这器皿是尼布甲尼撒从耶路撒冷掠来、放在自己神之庙中的。",
     Eng:"Moreover, King Cyrus brought out the articles belonging to the temple of the LORD, which Nebuchadnezzar had carried away from Jerusalem and had placed in the temple of his god.",
     Ind:"Pula raja Koresh menyuruh mengeluarkan perlengkapan rumah TUHAN yang telah diangkut Nebukadnezar dari Yerusalem dan yang ditaruhnya di dalam kuil allahnya."

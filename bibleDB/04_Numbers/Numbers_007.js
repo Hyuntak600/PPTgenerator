@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",7,89);
 BibleDB.add([
   {Bible:"Numbers", Chapter:7, Verse:1, Page:1,
-    Kor:"<지도자들이 바친 제물> 모세는 성막을 세우고 나서, 성막에 기름을 부어 성막과 그 안에 있는 모든 기구를 거룩하게 하였다. 제단과 거기에 딸린 모든 기구에도 기름을 부어, 그것들을 거룩하게 하였다.",
+    Kor:"모세는 성막을 세우고 나서, 성막에 기름을 부어 성막과 그 안에 있는 모든 기구를 거룩하게 하였다. 제단과 거기에 딸린 모든 기구에도 기름을 부어, 그것들을 거룩하게 하였다.",
     Chn:"摩西立完了帐幕，就把帐幕用膏抹了，使它成圣，又把其中的器具和坛，并坛上的器具，都抹了，使它成圣。",
     Eng:"When Moses finished setting up the tabernacle, he anointed it and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils.",
     Ind:"Pada waktu Musa selesai mendirikan Kemah Suci, diurapinya dan dikuduskannyalah itu dengan segala perabotannya, juga mezbah dengan segala perkakasnya; dan setelah diurapi dan dikuduskannya semuanya itu,"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"maka para pemimpin Israel, para kepala suku mereka, mempersembahkan persembahan. Mereka itu ialah para pemimpin suku yang bertanggung jawab atas pencatatan itu."
   },
   {Bible:"Numbers", Chapter:7, Verse:3, Page:1,
-    Kor:"그들이 주님 앞에 제물을 가져 왔는데, a덮개가 있는 수레 여섯 대와 황소 열두 마리였다. 수레는 지도자 두 사람에 한 대씩이고, 황소는 각자 한 마리씩이었다. 그들이 제물을 성막 앞으로 가져 왔을 때에,(a 또는 '짐수레')",
+    Kor:"그들이 주 앞에 제물을 가져 왔는데, 덮개가 있는 수레 여섯 대와 황소 열두 마리였다. 수레는 지도자 두 사람에 한 대씩이고, 황소는 각자 한 마리씩이었다. 그들이 제물을 성막 앞으로 가져 왔을 때에,",
     Chn:"他们把自己的供物送到耶和华面前，就是六辆篷子车和十二只公牛。每两个首领奉献一辆车，每首领奉献一只牛。他们把这些都奉到帐幕前。",
     Eng:"They brought as their gifts before the LORD six covered carts and twelve oxen--an ox from each leader and a cart from every two. These they presented before the tabernacle.",
     Ind:"Sebagai persembahan dibawa mereka ke hadapan TUHAN: enam kereta beratap dengan dua belas ekor lembu; satu kereta untuk dua orang pemimpin dan satu ekor lembu untuk satu orang pemimpin, lalu mereka membawa semuanya itu ke depan Kemah Suci."
   },
   {Bible:"Numbers", Chapter:7, Verse:4, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"Kemudian TUHAN berfirman kepada Musa:"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lagi para pemimpin mempersembahkan persembahan pentahbisan mezbah, pada hari mezbah itu diurapi; para pemimpin membawa persembahan mereka ke depan mezbah itu."
   },
   {Bible:"Numbers", Chapter:7, Verse:11, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다. \"하루에 지도자 한 사람씩, 하루에 지도자 한 사람씩 제단 봉헌 제물을 가지고 오게 하여라.\"",
+    Kor:"주께서 모세에게 말씀하셨다. \"하루에 지도자 한 사람씩, 하루에 지도자 한 사람씩 제단 봉헌 제물을 가지고 오게 하여라.\"",
     Chn:"耶和华对摩西说：「众首领为行奉献坛的礼，要每天一个首领来献供物。」",
     Eng:"For the LORD had said to Moses, \"Each day one leader is to bring his offering for the dedication of the altar.\"",
     Ind:"TUHAN berfirman kepada Musa: \"Satu pemimpin setiap hari haruslah mempersembahkan persembahannya untuk mentahbiskan mezbah itu.\""
@@ -531,7 +531,7 @@ BibleDB.add([
     Ind:"Segala hewan korban keselamatan itu ialah dua puluh empat ekor lembu jantan, enam puluh ekor domba jantan, enam puluh ekor kambing jantan, enam puluh ekor domba berumur setahun. Itulah persembahan pentahbisan mezbah, sesudah mezbah itu diurapi."
   },
   {Bible:"Numbers", Chapter:7, Verse:89, Page:1,
-    Kor:"○모세는, 주님께 말씀드릴 일이 있을 때마다 회막으로 갔다. 그 때마다 모세는, b증거궤와 c속죄판 위에서, 곧 두 d그룹 사이에서 자기에게 말씀하시는 그 목소리를 듣곤 하였다. 이렇게 주님께서는 모세에게 말씀하셨다.(b 또는 '법궤' c 또는 '속죄소' 또는 '시은좌' d 날개를 가진 피조물, 하나님의 임재와 관련된 상징)",
+    Kor:"○모세는, 주께 말씀드릴 일이 있을 때마다 회막으로 갔다. 그 때마다 모세는, 증거궤와 속죄판 위에서, 곧 두 그룹 사이에서 자기에게 말씀하시는 그 목소리를 듣곤 하였다. 이렇게 주께서는 모세에게 말씀하셨다.",
     Chn:"摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。",
     Eng:"When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the atonement cover on the ark of the Testimony. And he spoke with him.",
     Ind:"Apabila Musa masuk ke dalam Kemah Pertemuan untuk berbicara dengan Dia, maka ia mendengar suara yang berfirman kepadanya dari atas tutup pendamaian, yang di atas tabut hukum Allah, dari antara kedua kerub itu; demikianlah Ia berfirman kepadanya."

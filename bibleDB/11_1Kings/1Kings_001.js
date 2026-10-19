@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",1,53);
 BibleDB.add([
   {Bible:"1Kings", Chapter:1, Verse:1, Page:1,
-    Kor:"<다윗의 말년> 다윗 왕이 나이 많아 늙으니, 이불을 덮어도 따뜻하지 않았다.",
+    Kor:"다윗 왕이 나이 많아 늙으니, 이불을 덮어도 따뜻하지 않았다.",
     Chn:"大卫王年纪老迈，虽用被遮盖，仍不觉暖。",
     Eng:"When King David was old and well advanced in years, he could not keep warm even when they put covers over him.",
     Ind:"Raja Daud telah tua dan lanjut umurnya, dan biarpun ia diselimuti, badannya tetap dingin."
   },
   {Bible:"1Kings", Chapter:1, Verse:2, Page:1,
-    Kor:"신하들이 왕에게 말하였다. \"저희가 임금님께 젊은 처녀를 한 사람 데려다가, 임금님 곁에서 시중을 들게 하겠습니다. 처녀를 시중드는 사람으로 삼아 품에 안고 주무시면, 임금님의 몸이 따뜻해질 것입니다.\"",
+    Kor:"신하들이 왕에게 말하였다. \"저희가 임금님께 젊은 처녀를 한 사람 데려다가, 임금님 곁에서 시중을 들게 하겠습니다. 처녀를 시중드는 사람으로 삼아, 품에 안고 주무시면, 임금님의 몸이 따뜻해질 것입니다.\"",
     Chn:"所以臣仆对他说：「不如为我主我王寻找一个处女，使她伺候王，奉养王，睡在王的怀中，好叫我主我王得暖。」",
     Eng:"So his servants said to him, \"Let us look for a young virgin to attend the king and take care of him. She can lie beside him so that our lord the king may keep warm.\"",
     Ind:"Lalu para pegawainya berkata kepadanya: \"Hendaklah dicari bagi tuanku raja seorang perawan yang muda, untuk melayani dan merawat raja; biarlah ia berbaring di pangkuanmu, sehingga badan tuanku raja menjadi panas.\""
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Gadis itu amat cantik, dan ia menjadi perawat raja dan melayani dia, tetapi raja tidak bersetubuh dengan dia."
   },
   {Bible:"1Kings", Chapter:1, Verse:5, Page:1,
-    Kor:"<아도니야가 왕이 되고자 하다> ○그 때에 다윗과 학깃 사이에서 태어난 아들 아도니야는, 자기가 왕이 될 것이라고 하면서, 후계자처럼 행세하고 다녔다. 자신이 타고 다니는 병거를 마련하고, 기병과 호위병 쉰 명을 데리고 다녔다.",
+    Kor:"○그 때에 다윗과 학깃 사이에서 태어난 아들 아도니야는, 자기가 왕이 될 것이라고 하면서, 후계자처럼 행세하고 다녔다. 자신이 타고 다니는 병거를 마련하고, 기병과 호위병 쉰 명을 데리고 다녔다.",
     Chn:"那时，哈及的儿子亚多尼雅自尊，说：「我必作王」，就为自己预备车辆、马兵，又派五十人在他前头奔走。",
     Eng:"Now Adonijah, whose mother was Haggith, put himself forward and said, \"I will be king.\" So he got chariots and horses ready, with fifty men to run ahead of him.",
     Ind:"Lalu Adonia, anak Hagit, meninggikan diri dengan berkata: \"Aku ini mau menjadi raja.\" Ia melengkapi dirinya dengan kereta-kereta dan orang-orang berkuda serta lima puluh orang yang berlari di depannya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Maka berundinglah ia dengan Yoab, anak Zeruya dan dengan imam Abyatar dan mereka menjadi pengikut dan pembantu Adonia."
   },
   {Bible:"1Kings", Chapter:1, Verse:8, Page:1,
-    Kor:"그러나 사독 제사장과 여호야다의 아들 브나야와 나단 예언자와 시므이와 a레이와 다윗을 따라다닌 장군들은, 아도니야에게 동조하지 않았다.(a 또는 '그의 친구들과')",
+    Kor:"그러나 사독 제사장과 여호야다의 아들 브나야와 나단 예언자와 시므이와 레이와 다윗을 따라다닌 장군들은, 아도니야에게 동조하지 않았다.",
     Chn:"但祭司撒督、耶何耶大的儿子比拿雅、先知拿单、示每、利以，并大卫的勇士都不顺从亚多尼雅。",
     Eng:"But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei and Rei and David's special guard did not join Adonijah.",
     Ind:"Tetapi imam Zadok dan Benaya bin Yoyada dan nabi Natan dan Simei dan Rei dan para pahlawan Daud tidak memihak kepada Adonia."
   },
   {Bible:"1Kings", Chapter:1, Verse:9, Page:1,
-    Kor:"○아도니야가 엔 로겔 가까이에 있는 소헬렛 바위 옆에서, 양과 소와 살진 송아지를 잡아서 잔치를 베풀고, 자기의 형제인 왕자들과 유다 사람인 왕의 모든 신하들을 초청하였다.",
+    Kor:"○아도니야가 에느로겔 가까이에 있는 소헬렛 바위 옆에서, 양과 소와 살진 송아지를 잡아서 잔치를 베풀고, 자기의 형제인 왕자들과 유다 사람인 왕의 모든 신하들을 초청하였다.",
     Chn:"一日，亚多尼雅在隐·罗结旁、琐希列磐石那里宰了牛羊、肥犊，请他的诸弟兄，就是王的众子，并所有作王臣仆的犹大人；",
     Eng:"Adonijah then sacrificed sheep, cattle and fattened calves at the Stone of Zoheleth near En Rogel. He invited all his brothers, the king's sons, and all the men of Judah who were royal officials,",
     Ind:"Sesudah itu Adonia mempersembahkan domba, lembu dan ternak gemukan sebagai korban dekat batu Zohelet yang ada di samping En-Rogel, lalu mengundang semua saudaranya, anak-anak raja, dan semua orang Yehuda, pegawai-pegawai raja;"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"tetapi nabi Natan dan Benaya dan para pahlawan dan Salomo, adiknya, tidak diundangnya."
   },
   {Bible:"1Kings", Chapter:1, Verse:11, Page:1,
-    Kor:"<솔로몬이 왕이 되다> ○나단이 솔로몬의 어머니 밧세바에게 물었다. \"우리의 왕 다윗 임금님도 모르시는 사이에, 이미 학깃의 아들 아도니야가 왕이 되었다고 합니다. 혹시 듣지 못하셨습니까?",
+    Kor:"○나단이 솔로몬의 어머니 밧세바에게 물었다. \"우리의 왕 다윗 임금님도 모르시는 사이에, 이미 학깃의 아들 아도니야가 왕이 되었다고 합니다. 혹시 듣지 못하셨습니까?",
     Chn:"拿单对所罗门的母亲拔示巴说：「哈及的儿子亚多尼雅作王了，你没有听见吗？我们的主大卫却不知道。",
     Eng:"Then Nathan asked Bathsheba, Solomon's mother, \"Have you not heard that Adonijah, the son of Haggith, has become king without our lord David's knowing it?",
     Ind:"Lalu berkatalah Natan kepada Batsyeba, ibu Salomo: \"Tidakkah engkau mendengar, bahwa Adonia anak Hagit, telah menjadi raja, sedang tuan kita Daud tidak mengetahuinya?"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi sekarang, lihatlah, Adonia telah menjadi raja, sedang tuanku raja sendiri tidak mengetahuinya."
   },
   {Bible:"1Kings", Chapter:1, Verse:19, Page:1,
-    Kor:"아도니야가 소와 송아지와 양을 많이 잡아 제사를 드리고, 왕의 모든 아들과 아비아달 제사장과 군사령관 요압을 초청하였습니다. 그러나 임금님의 종 솔로몬은 청하지 않았습니다.",
+    Kor:"아도니야가 소와 송아지와 양을 많이 잡아 제사를 드리고, 왕의 모든 아들과 아비아달 제사장과 군사령관 요압을 초청하였습니다. 그러나 주의 종 솔로몬은 청하지 않았습니다.",
     Chn:"他宰了许多牛羊、肥犊，请了王的众子和祭司亚比亚他，并元帅约押；惟独王的仆人所罗门，他没有请。",
     Eng:"He has sacrificed great numbers of cattle, fattened calves, and sheep, and has invited all the king's sons, Abiathar the priest and Joab the commander of the army, but he has not invited Solomon your servant.",
     Ind:"Ia telah menyembelih banyak lembu, ternak gemukan dan domba, dan telah mengundang semua anak raja dan imam Abyatar dan Yoab, panglima itu, tetapi hambamu Salomo tidak diundangnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Natan berkata: \"Ya tuanku raja, tuanku sendirilah rupa-rupanya yang telah berkata: Adonia akan menjadi raja sesudah aku dan ia akan duduk di atas takhtaku!"
   },
   {Bible:"1Kings", Chapter:1, Verse:25, Page:1,
-    Kor:"아도니야가 오늘 내려가서, 소와 송아지와 양을 많이 잡아서, 제사를 드리고, 모든 왕자와 b군사령관과 아비아달 제사장을 초청하였습니다. 그들은 아도니야 앞에서 먹고 마시고는 '아도니야 임금님 만세'를 외쳤습니다.(b 칠십인역에는 '요압 사령관')",
+    Kor:"아도니야가 오늘 내려가서, 소와 송아지와 양을 많이 잡아서, 제사를 드리고, 모든 왕자와 군사령관과 아비아달 제사장을 초청하였습니다. 그들은 아도니야 앞에서 먹고 마시고는 '아도니야 임금님 만세'를 외쳤습니다.",
     Chn:"他今日下去，宰了许多牛羊、肥犊，请了王的众子和军长，并祭司亚比亚他；他们正在亚多尼雅面前吃喝，说：『愿亚多尼雅王万岁！』",
     Eng:"Today he has gone down and sacrificed great numbers of cattle, fattened calves, and sheep. He has invited all the king's sons, the commanders of the army and Abiathar the priest. Right now they are eating and drinking with him and saying, 'Long live King Adonijah!'",
     Ind:"Sebab pada hari ini ia telah menyembelih banyak lembu, ternak gemukan dan domba; ia mengundang semua anak raja, para panglima dan imam Abyatar, dan sesungguhnya mereka sedang makan minum di depannya sambil berseru: Hidup raja Adonia!"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Lalu raja Daud menjawab, katanya: \"Panggillah Batsyeba.\" Perempuan itu masuk menghadap raja dan berdiri di depannya."
   },
   {Bible:"1Kings", Chapter:1, Verse:29, Page:1,
-    Kor:"왕은 이렇게 맹세하였다. \"나를 모든 재난에서부터 구원하여 주신 주님의 살아 계심을 두고 맹세하오.",
+    Kor:"왕은 이렇게 맹세하였다. \"나를 모든 재난에서부터 구원하여 주신 주의 살아 계심을 두고 맹세하오.",
     Chn:"王起誓说：「我指着救我性命脱离一切苦难、永生的耶和华起誓。",
     Eng:"The king then took an oath: \"As surely as the LORD lives, who has delivered me out of every trouble,",
     Ind:"Lalu raja bersumpah dan berkata: \"Demi TUHAN yang hidup, yang telah membebaskan nyawaku dari segala kesesakan,"
@@ -195,31 +195,31 @@ BibleDB.add([
     Ind:"Lagi kata raja Daud: \"Panggillah imam Zadok, nabi Natan dan Benaya bin Yoyada.\" Mereka masuk menghadap raja,"
   },
   {Bible:"1Kings", Chapter:1, Verse:33, Page:1,
-    Kor:"왕이 그들에게 말하였다. \"그대들은 나의 신하들을 거느리고, 내가 타던 노새에 나의 아들 솔로몬을 태워서, 기혼으로 내려가도록 하십시오.",
+    Kor:"왕이 그들에게 말하였다. \"그대들은 나의 신하들을 거느리고, 내가 타던 노새에 나의 아들 솔로몬을 태워서, 기혼으로 내려가도록 하시오.",
     Chn:"王对他们说：「要带领你们主的仆人，使我儿子所罗门骑我的骡子，送他下到基训；",
     Eng:"he said to them: \"Take your lord's servants with you and set Solomon my son on my own mule and take him down to Gihon.",
     Ind:"dan raja berkata kepada mereka: \"Bawalah para pegawai tuanmu ini, naikkan anakku Salomo ke atas bagal betina kendaraanku sendiri, dan bawa dia ke Gihon."
   },
   {Bible:"1Kings", Chapter:1, Verse:34, Page:1,
-    Kor:"사독 제사장과 나단 예언자는 거기에서 그에게 기름을 부어 이스라엘의 왕으로 삼고, 그런 다음에 뿔나팔을 불며 '솔로몬 왕 만세!' 하고 외치십시오.",
+    Kor:"사독 제사장과 나단 예언자는 거기에서 그에게 기름을 부어 이스라엘의 왕으로 삼고, 그런 다음에 뿔나팔을 불며 '솔로몬 왕 만세!' 하고 외치시오.",
     Chn:"在那里，祭司撒督和先知拿单要膏他作以色列的王；你们也要吹角，说：『愿所罗门王万岁！』",
     Eng:"There have Zadok the priest and Nathan the prophet anoint him king over Israel. Blow the trumpet and shout, 'Long live King Solomon!'",
     Ind:"Imam Zadok dan nabi Natan harus mengurapi dia di sana menjadi raja atas Israel; kemudian kamu meniup sangkakala dan berseru: Hidup raja Salomo!"
   },
   {Bible:"1Kings", Chapter:1, Verse:35, Page:1,
-    Kor:"그리고 그를 따라 올라와, 그를 모시고 들어가서, 나를 대신하여 임금의 자리에 앉히십시오. 그러면 그가 나의 뒤를 이어서 왕이 될 것입니다. 그를 내가 이스라엘과 유다의 통치자로 임명하였습니다.\"",
+    Kor:"그리고 그를 따라 올라와, 그를 모시고 들어가서, 나를 대신하여 임금의 자리에 앉히시오. 그러면 그가 나의 뒤를 이어서 왕이 될 것이오. 그를 내가 이스라엘과 유다의 통치자로 임명하였소.\"",
     Chn:"然后要跟随他上来，使他坐在我的位上，接续我作王。我已立他作以色列和犹大的君。」",
     Eng:"Then you are to go up with him, and he is to come and sit on my throne and reign in my place. I have appointed him ruler over Israel and Judah.\"",
     Ind:"Sesudah itu kamu berjalan pulang dengan mengiring dia; lalu ia akan masuk dan duduk di atas takhtaku, sebab dialah yang harus naik takhta menggantikan aku, dan dialah yang kutunjuk menjadi raja atas Israel dan Yehuda.\""
   },
   {Bible:"1Kings", Chapter:1, Verse:36, Page:1,
-    Kor:"○여호야다의 아들 브나야가 왕에게 대답하였다. \"아멘, 임금님의 하나님이신 주님께서도 그렇게 말씀하시기를 바랍니다.",
+    Kor:"○여호야다의 아들 브나야가 왕에게 대답하였다. \"아멘, 임금님의 하나님이신 주께서도 그렇게 말씀하시기를 바랍니다.",
     Chn:"耶何耶大的儿子比拿雅对王说：「阿们！愿耶和华—我主我王的　神也这样命定。",
     Eng:"Benaiah son of Jehoiada answered the king, \"Amen! May the LORD, the God of my lord the king, so declare it.",
     Ind:"Lalu Benaya bin Yoyada menjawab raja: \"Amin! Demikianlah kiranya firman TUHAN, Allah tuanku raja!"
   },
   {Bible:"1Kings", Chapter:1, Verse:37, Page:1,
-    Kor:"주님께서 임금님과 함께 계신 것처럼, 솔로몬과도 함께 계셔서, 그의 자리가 우리 다윗 임금님의 자리보다 더 높게 되기를 바랍니다.\"",
+    Kor:"주께서 임금님과 함께 계신 것처럼, 솔로몬과도 함께 계셔서, 그의 자리가 우리 다윗 임금님의 자리보다 더 높게 되기를 바랍니다.\"",
     Chn:"耶和华怎样与我主我王同在，愿他照样与所罗门同在，使他的国位比我主大卫王的国位更大。」",
     Eng:"As the LORD was with my lord the king, so may he be with Solomon to make his throne even greater than the throne of my lord King David!\"",
     Ind:"Seperti TUHAN menyertai tuanku raja, demikianlah kiranya Ia menyertai Salomo; semoga Ia membuat takhta Salomo lebih agung dari takhta tuanku raja Daud.\""
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Imam Zadok telah membawa tabung tanduk berisi minyak dari dalam kemah, lalu diurapinya Salomo. Kemudian sangkakala ditiup, dan seluruh rakyat berseru: \"Hidup raja Salomo!\""
   },
   {Bible:"1Kings", Chapter:1, Verse:40, Page:1,
-    Kor:"모든 백성이 그의 뒤를 따라 올라와, 피리를 불면서, 열광적으로 기뻐하였는데, 그 기뻐하는 소리 때문에 세상이 떠나갈 듯 하였다.",
+    Kor:"모든 백성이 그의 뒤를 따라 올라와, 피리를 불면서, 열광적으로 기뻐하였는데, 그 기뻐하는 소리 때문에, 세상이 떠나갈 듯 하였다.",
     Chn:"众民跟随他上来，且吹笛，大大欢呼，声音震地。",
     Eng:"And all the people went up after him, playing flutes and rejoicing greatly, so that the ground shook with the sound.",
     Ind:"Sesudah itu seluruh rakyat berjalan di belakangnya sambil membunyikan suling dan sambil bersukaria ramai-ramai, sampai seakan-akan bumi terbelah oleh suara mereka."
@@ -285,7 +285,7 @@ BibleDB.add([
     Ind:"juga pegawai-pegawai raja telah datang mengucap selamat kepada tuan kita raja Daud, dengan berkata: Kiranya Allahmu membuat nama Salomo lebih masyhur dari pada namamu dan takhtanya lebih agung dari pada takhtamu. Dan rajapun telah sujud menyembah di atas tempat tidurnya,"
   },
   {Bible:"1Kings", Chapter:1, Verse:48, Page:1,
-    Kor:"'주님께서 오늘 내 자리에 앉을 사람을 주시고, 또 이 눈으로 그것을 보게 하시니, 주 이스라엘의 하나님께 찬양을 드립니다' 하고 말씀하셨다고 합니다.\"",
+    Kor:"'주께서 오늘 내 자리에 앉을 사람을 주시고, 또 이 눈으로 그것을 보게 하시니, 주 이스라엘의 하나님께 찬양을 드립니다' 하고 말씀하셨다고 합니다.\"",
     Chn:"王又说：『耶和华—以色列的　神是应当称颂的；因他赐我一人今日坐在我的位上，我也亲眼看见了。』」",
     Eng:"and said, 'Praise be to the LORD, the God of Israel, who has allowed my eyes to see a successor on my throne today.'\"",
     Ind:"dan beginilah katanya: Terpujilah TUHAN, Allah Israel, yang pada hari ini telah memberi seorang duduk di atas takhtaku yang aku sendiri masih boleh saksikan.\""
@@ -297,7 +297,7 @@ BibleDB.add([
     Ind:"Maka semua undangan Adonia itu terkejut, lalu bangkit dan masing-masing pergi menurut jalannya."
   },
   {Bible:"1Kings", Chapter:1, Verse:50, Page:1,
-    Kor:"아도니야는, 솔로몬이 두려워서, 일어나 가서, c제단 뿔을 붙잡았다.(c 주님의 장막에 있는 제단 뿔)",
+    Kor:"아도니야는, 솔로몬이 두려워서, 일어나 가서, 제단 뿔을 붙잡았다.",
     Chn:"亚多尼雅惧怕所罗门，就起来，去抓住祭坛的角。",
     Eng:"But Adonijah, in fear of Solomon, went and took hold of the horns of the altar.",
     Ind:"Takutlah Adonia kepada Salomo, sebab itu ia segera pergi memegang tanduk-tanduk mezbah."

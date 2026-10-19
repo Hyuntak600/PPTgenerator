@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",5,17);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:5, Verse:1, Page:1,
-    Kor:"<머리카락과 수염을 깎는 상징 행위> \"너 사람아, 너는 날카로운 칼을 한 자루 가져 와서, 그 칼을 삭도로 삼아 네 머리카락과 수염을 깎고, 그것을 저울로 달아 나누어 놓아라.",
+    Kor:"\"너 사람아, 너는 날카로운 칼을 한 자루 가져 와서, 그 칼을 삭도로 삼아 네 머리카락과 수염을 깎고, 그것을 저울로 달아 나누어 놓아라.",
     Chn:"「人子啊，你要拿一把快刀，当作剃头刀，用这刀剃你的头发和你的胡须，用天平将须发平分。",
     Eng:"\"Now, son of man, take a sharp sword and use it as a barber's razor to shave your head and your beard. Then take a set of scales and divide up the hair.",
     Ind:"Dan engkau, anak manusia, ambillah sebilah pedang yang tajam dan pakailah itu sebagai pisau cukur tukang pangkas; cukurlah rambutmu dan janggutmu dengan itu; lalu ambillah sebuah timbangan dan bagi-bagilah rambutmu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Ia sudah memberontak terhadap peraturan-peraturan-Ku lebih jahat dari pada bangsa-bangsa dan terhadap ketetapan-ketetapan-Ku lebih jahat dari negeri-negeri yang di sekitarnya; karena mereka menolak peraturan-peraturan-Ku dan kelakuan mereka tidak selaras dengan ketetapan-ketetapan-Ku."
   },
   {Bible:"Ezekiel", Chapter:5, Verse:7, Page:1,
-    Kor:"○그러므로 나 주 하나님이 이렇게 말한다. 너희는 너희를 둘러 있는 이방 사람들보다 더 거스르는 사람이 되어서, 내 율례를 따르지도 않고, 내 규례를 지키지도 않고, 심지어는 너희를 둘러 있는 이방 사람들이 지키는 a규례를 따라 살지도 않았다.(a 대다수의 히브리어 사본을 따름. 몇몇 히브리어 사본과 시리아어역에는 '규례를 따라 살았다')",
+    Kor:"○그러므로 나 주 하나님이 이렇게 말한다. 너희는 너희를 둘러 있는 이방 사람들보다 더 거스르는 사람이 되어서, 내 율례를 따르지도 않고, 내 규례를 지키지도 않고, 심지어는 너희를 둘러 있는 이방 사람들이 지키는 규례를 따라 살지도 않았다.",
     Chn:"所以主耶和华如此说：因为你们纷争过于四围的列国，也不遵行我的律例，不谨守我的典章，并以遵从四围列国的恶规尚不满意，",
     Eng:"\"Therefore this is what the Sovereign LORD says: You have been more unruly than the nations around you and have not followed my decrees or kept my laws. You have not even conformed to the standards of the nations around you.",
     Ind:"Sebab itu beginilah firman Tuhan ALLAH: Oleh karena engkau lebih jahat dari pada bangsa-bangsa yang di sekitarmu dan kelakuanmu tidak selaras dengan ketetapan-ketetapan-Ku dan engkau tidak melakukan peraturan-peraturan-Ku, bahkan engkau melakukan peraturan-peraturan bangsa-bangsa yang di sekitarmu,"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Sebab itu di tengah-tengahmu ayah-ayah akan memakan anak-anaknya dan anak-anak memakan ayahnya dan Aku akan menjatuhkan hukuman kepadamu, sedang semua yang masih tinggal lagi dari padamu akan Kuhamburkan ke semua penjuru angin."
   },
   {Bible:"Ezekiel", Chapter:5, Verse:11, Page:1,
-    Kor:"○그러므로 내가 나의 삶을 두고 맹세한다. 나 주 하나님의 말이다. 진실로 너희가 온갖 보기 싫은 우상과 역겨운 일로 내 성소를 더럽혀 놓았기 때문에, b내가 너희를 넘어뜨리겠고, 너희를 아끼지 않겠으며, 너희를 불쌍하게 여기지도 않겠다.(b 또는 '내가 물러서겠고')",
+    Kor:"○그러므로 내가 나의 삶을 두고 맹세한다. 나 주 하나님의 말이다. 진실로 너희가 온갖 보기 싫은 우상과 역겨운 일로 내 성소를 더럽혀 놓았기 때문에, 내가 너희를 넘어뜨리겠고, 너희를 아끼지 않겠으며, 너희를 불쌍하게 여기지도 않겠다.",
     Chn:"主耶和华说：「我指着我的永生起誓，因你用一切可憎的物、可厌的事玷污了我的圣所，故此，我定要使你人数减少，我眼必不顾惜你，也不可怜你。",
     Eng:"Therefore as surely as I live, declares the Sovereign LORD, because you have defiled my sanctuary with all your vile images and detestable practices, I myself will withdraw my favor; I will not look on you with pity or spare you.",
     Ind:"Sebab itu, demi Aku yang hidup, demikianlah firman Tuhan ALLAH, sesungguhnya, oleh karena engkau menajiskan tempat kudus-Ku dengan segala dewamu yang menjijikkan dan dengan segala perbuatanmu yang keji, Aku sendiri akan meruntuhkan engkau; Aku tidak akan merasa sayang dan tidak akan kenal belas kasihan."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku akan membuat engkau menjadi reruntuhan dan buah celaan di antara bangsa-bangsa yang di sekitarmu di hadapan semua orang yang lintas dari padamu."
   },
   {Bible:"Ezekiel", Chapter:5, Verse:15, Page:1,
-    Kor:"○그래서 내가 분과 노를 품고 무서운 형벌을 내리면서 너를 심판할 때에는, 너를 둘러 있는 이방 사람에게 c네가 수치와 조롱을 당하고, 네가 받은 심판은 그들에게 두려움과 경고가 될 것이다. 나 주가 말하였다.(c 칠십인역과 시리아어역과 불가타와 타르굼을 따름. 히, '그것이')",
+    Kor:"○그래서 내가 분과 노를 품고 무서운 형벌을 내리면서 너를 심판할 때에는, 너를 둘러 있는 이방 사람에게 네가 수치와 조롱을 당하고, 네가 받은 심판은 그들에게 두려움과 경고가 될 것이다. 나 주가 말하였다.",
     Chn:"这样，我必以怒气和忿怒，并烈怒的责备，向你施行审判。那时，你就在四围的列国中成为羞辱、讥刺、警戒、惊骇。这是我—耶和华说的。",
     Eng:"You will be a reproach and a taunt, a warning and an object of horror to the nations around you when I inflict punishment on you in anger and in wrath and with stinging rebuke. I the LORD have spoken.",
     Ind:"Engkau akan menjadi buah celaan dan cercaan, menjadi peringatan dan suatu kengerian bagi bangsa-bangsa yang di sekitarmu, tatkala Aku menjatuhkan hukuman kepadamu di dalam kemurkaan dan kemarahan dan di dalam penghajaran-penghajaran kemarahan--Aku, TUHAN, yang mengatakannya--"
   },
   {Bible:"Ezekiel", Chapter:5, Verse:16, Page:1,
-    Kor:"○내가 너희에게 쏘는 기근의 화살과 재난의 화살 곧 멸망시키는 화살은, 너희를 죽이려고 쏘는 것이다. 나는 너희에게 기근을 더 심하게 하여, 너희가 의지하는 빵을 끊어 버리겠다.",
+    Kor:"○내가 너희에게 쏘는 기근의 화살과 재난의 화살, 곧 멸망시키는 화살은, 너희를 죽이려고 쏘는 것이다. 나는 너희에게 기근을 더 심하게 하여, 너희가 의지하는 빵을 끊어 버리겠다.",
     Chn:"那时，我要将灭人、使人饥荒的恶箭，就是射去灭人的，射在你们身上，并要加增你们的饥荒，断绝你们所倚靠的粮食；",
     Eng:"When I shoot at you with my deadly and destructive arrows of famine, I will shoot to destroy you. I will bring more and more famine upon you and cut off your supply of food.",
     Ind:"tatkala Aku mendatangkan atasmu kelaparan yang dahsyat, yang membinasakan, dan Aku mendatangkannya untuk membinasakan kamu, tatkala Aku memperdahsyat bencana kelaparan atasmu dan memusnahkan persediaan makananmu."

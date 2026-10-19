@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",26,25);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:26, Verse:1, Page:1,
-    Kor:"<다윗이 또 사울을 살려 주다> 십 광야의 주민이 기브아로 사울을 찾아와서 밀고하였다. \"다윗은 a여시몬 맞은쪽 하길라 산 속에 숨어 있는 것이 확실합니다.\"(a 또는 '황폐한 땅 맞은쪽')",
+    Kor:"십 광야의 주민이 기브아로 사울을 찾아와서 밀고하였다. \"다윗은 여시몬 맞은쪽 하길라 산 속에 숨어 있는 것이 확실합니다.\"",
     Chn:"西弗人到基比亚见扫罗，说：「大卫不是在旷野前的哈基拉山藏着吗？」",
     Eng:"The Ziphites went to Saul at Gibeah and said, \"Is not David hiding on the hill of Hakilah, which faces Jeshimon?\"",
     Ind:"Datanglah orang Zif kepada Saul di Gibea serta berkata: \"Daud menyembunyikan diri di bukit Hakhila di padang belantara.\""
@@ -45,31 +45,31 @@ BibleDB.add([
     Ind:"Datanglah Daud dengan Abisai kepada rakyat itu pada waktu malam, dan tampaklah di sana Saul berbaring tidur di tengah-tengah perkemahan, dengan tombaknya terpancung di tanah pada sebelah kepalanya, sedang Abner dan rakyat itu berbaring sekelilingnya."
   },
   {Bible:"1Samuel", Chapter:26, Verse:8, Page:1,
-    Kor:"아비새가 다윗에게 자청하였다. \"하나님이 오늘, 이 원수를 장군님의 손에 넘겨 주셨습니다. 제가 그를 당장 창으로 찔러 땅바닥에 박아 놓겠습니다. 두 번 찌를 것도 없이, 한 번이면 됩니다.\"",
+    Kor:"아비새가 다윗에게 자청하였다. \"하나님이 오늘, 이 원수를 장군님의 손에 넘겨 주셨습니다. 제가 그를 당장 땅바닥에 박아 놓겠습니다. 두 번 찌를 것도 없이, 한 번이면 됩니다.\"",
     Chn:"亚比筛对大卫说：「现在　神将你的仇敌交在你手里，求你容我拿枪将他刺透在地，一刺就成，不用再刺。」",
     Eng:"Abishai said to David, \"Today God has delivered your enemy into your hands. Now let me pin him to the ground with one thrust of my spear; I won't strike him twice.\"",
     Ind:"Lalu berkatalah Abisai kepada Daud: \"Pada hari ini Allah telah menyerahkan musuhmu ke dalam tanganmu, oleh sebab itu izinkanlah kiranya aku menancapkan dia ke tanah dengan tombak ini, dengan satu tikaman saja, tidak usah dia kutancapkan dua kali.\""
   },
   {Bible:"1Samuel", Chapter:26, Verse:9, Page:1,
-    Kor:"그러나 다윗은 아비새에게 타일렀다. \"그를 죽여서는 안 된다. 그 어느 누구든지, 주님께서 기름부어 세우신 자를 죽였다가는 벌을 면하지 못한다.\"",
+    Kor:"그러나 다윗은 아비새에게 타일렀다. \"그를 죽여서는 안 된다. 그 어느 누구든지, 주께서 기름부어 세우신 자를 죽였다가는 벌을 면하지 못한다.\"",
     Chn:"大卫对亚比筛说：「不可害死他。有谁伸手害耶和华的受膏者而无罪呢？」",
     Eng:"But David said to Abishai, \"Don't destroy him! Who can lay a hand on the LORD'S anointed and be guiltless?",
     Ind:"Tetapi kata Daud kepada Abisai: \"Jangan musnahkan dia, sebab siapakah yang dapat menjamah orang yang diurapi TUHAN, dan bebas dari hukuman?\""
   },
   {Bible:"1Samuel", Chapter:26, Verse:10, Page:1,
-    Kor:"다윗이 말을 계속하였다. \"주님께서 확실히 살아 계심을 두고 말하지만, 주님께서 사울을 치시든지, 죽을 날이 되어서 죽든지, 또는 전쟁에 나갔다가 죽든지 할 것이다.",
+    Kor:"다윗이 말을 계속하였다. \"주께서 확실히 살아 계심을 두고 말하지만, 주께서 사울을 치시든지, 죽을 날이 되어서 죽든지, 또는 전쟁에 나갔다가 죽든지 할 것이다.",
     Chn:"大卫又说：「我指着永生的耶和华起誓，他或被耶和华击打，或是死期到了，或是出战阵亡；",
     Eng:"As surely as the LORD lives,\" he said, \"the LORD himself will strike him; either his time will come and he will die, or he will go into battle and perish.",
     Ind:"Lagi kata Daud: \"Demi TUHAN yang hidup, niscaya TUHAN akan membunuh dia: entah karena sampai ajalnya dan ia mati, entah karena ia pergi berperang dan hilang lenyap di sana."
   },
   {Bible:"1Samuel", Chapter:26, Verse:11, Page:1,
-    Kor:"주님께서 기름부어 세우신 이를 내가 쳐서 죽이는 일은, 주님께서 금하시는 일이다. 그러므로 이제 우리는 그의 머리맡에 있는 창과 물병만 가지고 가자.\"",
+    Kor:"주께서 기름부어 세우신 이를 내가 쳐서 죽이는 일은, 주께서 금하시는 일이다. 그러므로 이제 우리는 그의 머리맡에 있는 창과 물병만 가지고 가자.\"",
     Chn:"我在耶和华面前，万不敢伸手害耶和华的受膏者。现在你可以将他头旁的枪和水瓶拿来，我们就走。」",
     Eng:"But the LORD forbid that I should lay a hand on the LORD'S anointed. Now get the spear and water jug that are near his head, and let's go.\"",
     Ind:"Kiranya TUHAN menjauhkan dari padaku untuk menjamah orang yang diurapi TUHAN. Ambillah sekarang tombak yang ada di sebelah kepalanya dan kendi itu, dan marilah kita pergi.\""
   },
   {Bible:"1Samuel", Chapter:26, Verse:12, Page:1,
-    Kor:"다윗이 사울의 머리맡에 있던 창과 물병을 들고 아비새와 함께 빠져 나왔으나, 보는 사람도 없고, 눈치채는 사람도 없고, 깨는 사람도 없었다. 주님께서 그들을 깊이 잠들게 하셔서, 그들이 모두 곤하게 잠들어 있었기 때문이다.",
+    Kor:"다윗이 사울의 머리맡에 있던 창과 물병을 들고 아비새와 함께 빠져 나왔으나, 보는 사람도 없고, 눈치채는 사람도 없고, 깨는 사람도 없었다. 주께서 그들을 깊이 잠들게 하셔서, 그들이 모두 곤하게 잠들어 있었기 때문이다.",
     Chn:"大卫从扫罗的头旁拿了枪和水瓶，二人就走了，没有人看见，没有人知道，也没有人醒起，都睡着了，因为耶和华使他们沉沉地睡了。",
     Eng:"So David took the spear and water jug near Saul's head, and they left. No one saw or knew about it, nor did anyone wake up. They were all sleeping, because the LORD had put them into a deep sleep.",
     Ind:"Kemudian Daud mengambil tombak dan kendi itu dari sebelah kepala Saul, lalu mereka pergi. Tidak ada yang melihatnya, tidak ada yang mengetahuinya, tidak ada yang terbangun, sebab sekaliannya tidur, karena TUHAN membuat mereka tidur nyenyak."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Daud kepada Abner: \"Apakah engkau ini bukan laki-laki? Siapakah yang seperti engkau di antara orang Israel? Mengapa engkau tidak mengawal tuanmu raja? Sebab ada seorang dari rakyat yang datang untuk memusnahkan raja, tuanmu itu."
   },
   {Bible:"1Samuel", Chapter:26, Verse:16, Page:1,
-    Kor:"너는 이번에 너의 책임을 다하지 못했다. 주님께서 확실히 살아 계심을 두고 말하지만, 너희가 주님께서 기름부어 세우신 너희의 상전을 보호해 드리지 못했으니, 너희는 이제 죽어 마땅하다. 그러므로 너는 이제 왕의 창이 어디로 갔으며, 왕의 머리맡에 있던 물병이 어디로 갔는지, 어서 찾아 보도록 하여라.\"",
+    Kor:"너는 이번에 너의 책임을 다하지 못했다. 주께서 확실히 살아 계심을 두고 말하지만, 너희가 주께서 기름부어 세우신 너희의 상전을 보호해 드리지 못했으니, 너희는 이제 죽어 마땅하다. 그러므로 너는 이제 왕의 창이 어디로 갔으며, 왕의 머리맡에 있던 물병이 어디로 갔는지, 어서 찾아 보도록 하여라.\"",
     Chn:"你这样是不好的！我指着永生的耶和华起誓，你们都是该死的；因为没有保护你们的主，就是耶和华的受膏者。现在你看看王头旁的枪和水瓶在哪里。」",
     Eng:"What you have done is not good. As surely as the LORD lives, you and your men deserve to die, because you did not guard your master, the LORD'S anointed. Look around you. Where are the king's spear and water jug that were near his head?\"",
     Ind:"Tidak baik hal yang kauperbuat itu. Demi TUHAN yang hidup, kamu ini harus mati, karena kamu tidak mengawal tuanmu, orang yang diurapi TUHAN itu. Sekarang, lihatlah, di mana tombak raja dan kendi yang ada di sebelah kepalanya?\""
@@ -105,13 +105,13 @@ BibleDB.add([
     Ind:"Saul mengenal suara Daud, lalu ia berkata: \"Suaramukah itu, anakku Daud?\" Jawab Daud: \"Suaraku, tuanku raja.\""
   },
   {Bible:"1Samuel", Chapter:26, Verse:18, Page:1,
-    Kor:"그런 다음에, 다윗이 말하였다. \"나의 상전이신 임금님은 어찌하여 이렇게 임금님의 종을 사냥하러 나오셨습니까? 내가 무슨 잘못을 저질렀습니까? 내 손으로 저지른 죄악이 무엇입니까?",
+    Kor:"그런 다음에, 다윗이 항의하였다. \"나의 상전이신 임금님은 어찌하여 이렇게 임금님의 종을 사냥하러 나오셨습니까? 내가 무슨 잘못을 저질렀습니까? 내 손으로 저지른 죄악이 무엇입니까?",
     Chn:"又说：「我做了什么？我手里有什么恶事？我主竟追赶仆人呢？",
     Eng:"And he added, \"Why is my lord pursuing his servant? What have I done, and what wrong am I guilty of?",
     Ind:"Lalu berkatalah ia: \"Mengapa pula tuanku mengejar hambanya ini? Apa yang telah kuperbuat? Apakah kejahatan yang melekat pada tanganku?"
   },
   {Bible:"1Samuel", Chapter:26, Verse:19, Page:1,
-    Kor:"나의 상전이신 임금님은 이 종이 하는 말에 귀를 기울여 주시기 바랍니다. 임금님을 충동하여 나를 치도록 시키신 분이 주님이시면, b나는 기꺼이 희생제물이 되겠습니다. 그러나 임금님을 충동하여 나를 치도록 시킨 것이 사람이면, 그들이 주님에게서 저주를 받기를 바랍니다. 주님께서 유산으로 주신 땅에서 내가 받을 몫을 받지 못하도록 하고, 나더러 멀리 떠나가서 다른 신들이나 섬기라고 하면서, 나를 쫓아낸 자들이 바로 그들이기 때문입니다.(b 히, '주님께서 제물을 받으시기를 원합니다')",
+    Kor:"나의 상전이신 임금님은 이 종이 하는 말에 귀를 기울여 주시기 바랍니다. 임금님을 충동하여 나를 치도록 시키신 분이 주님이시면, 나는 기꺼이 희생제물이 되겠습니다. 그러나 임금님을 충동하여 나를 치도록 시킨 것이 사람이면, 그들이 주님에게서 저주를 받기를 바랍니다. 주께서 유산으로 주신 땅에서 내가 받을 몫을 받지 못하도록 하고, 나더러 멀리 떠나가서 다른 신들이나 섬기라고 하면서, 나를 쫓아낸 자들이 바로 그들이기 때문입니다.",
     Chn:"求我主我王听仆人的话：若是耶和华激发你攻击我，愿耶和华收纳祭物；若是人激发你，愿他在耶和华面前受咒诅；因为他现今赶逐我，不容我在耶和华的产业上有分，说：『你去事奉别神吧！』",
     Eng:"Now let my lord the king listen to his servant's words. If the LORD has incited you against me, then may he accept an offering. If, however, men have done it, may they be cursed before the LORD! They have now driven me from my share in the LORD'S inheritance and have said, 'Go, serve other gods.'",
     Ind:"Oleh sebab itu, kiranya tuanku raja mendengarkan perkataan hambanya ini. Jika TUHAN yang membujuk engkau melawan aku, maka biarlah Ia mencium bau korban persembahan; tetapi jika itu anak-anak manusia, terkutuklah mereka di hadapan TUHAN, karena mereka sekarang mengusir aku, sehingga aku tidak mendapat bagian dari pada milik TUHAN, dengan berkata: Pergilah, beribadahlah kepada allah lain."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Tetapi Daud menjawab: \"Inilah tombak itu, ya tuanku raja! Baiklah salah seorang dari orang-orangmu menyeberang untuk mengambilnya."
   },
   {Bible:"1Samuel", Chapter:26, Verse:23, Page:1,
-    Kor:"주님께서 각 사람에게 그 공의와 진실을 따라 갚아 주시기를 바랍니다. 주님께서 오늘 임금님을 나의 손에 넘겨 주셨지만, 나는, 주님께서 기름부어 세우신 임금님께 손을 대지 않았습니다.",
+    Kor:"주께서 각 사람에게 그 공의와 진실을 따라 갚아 주시기를 바랍니다. 주께서 오늘 임금님을 나의 손에 넘겨 주셨지만, 나는, 주께서 기름부어 세우신 임금님께 손을 대지 않았습니다.",
     Chn:"今日耶和华将王交在我手里，我却不肯伸手害耶和华的受膏者。耶和华必照各人的公义诚实报应他。",
     Eng:"The LORD rewards every man for his righteousness and faithfulness. The LORD delivered you into my hands today, but I would not lay a hand on the LORD'S anointed.",
     Ind:"TUHAN akan membalas kebenaran dan kesetiaan setiap orang, sebab TUHAN menyerahkan engkau pada hari ini ke dalam tanganku, tetapi aku tidak mau menjamah orang yang diurapi TUHAN."
   },
   {Bible:"1Samuel", Chapter:26, Verse:24, Page:1,
-    Kor:"그러므로 내가 오늘 임금님의 생명을 귀중하게 여겼던 것과 같이, 주님께서도 나의 생명을 귀중하게 여기시고, 어떠한 궁지에서도 나를 건져 내어 주실 것입니다.\"",
+    Kor:"그러므로 내가 오늘 임금님의 생명을 귀중하게 여겼던 것과 같이, 주께서도 저의 생명을 귀중하게 여기시고, 어떠한 궁지에서도 저를 건져 내어 주실 것입니다.\"",
     Chn:"我今日重看你的性命，愿耶和华也重看我的性命，并且拯救我脱离一切患难。」",
     Eng:"As surely as I valued your life today, so may the LORD value my life and deliver me from all trouble.\"",
     Ind:"Dan sesungguhnya, seperti nyawamu pada hari ini berharga di mataku, demikianlah hendaknya nyawaku berharga di mata TUHAN, dan hendaknya Ia melepaskan aku dari segala kesusahan.\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",23,49);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:23, Verse:1, Page:1,
-    Kor:"<사마리아와 예루살렘의 죄> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:23, Verse:2, Page:1,
-    Kor:"○\"사람아, 두 여인이 있는데, 그들은 한 어머니의 딸들이다.",
+    Kor:"\"사람아, 두 여인이 있는데, 그들은 한 어머니의 딸들이다.",
     Chn:"「人子啊，有两个女子，是一母所生，",
     Eng:"\"Son of man, there were two women, daughters of the same mother.",
     Ind:"\"Hai anak manusia, ada dua orang perempuan, anak dari satu ibu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Ia tidak meninggalkan persundalannya yang dilakukannya sejak dari Mesir, sebab pada masa mudanya orang sudah menidurinya, dan mereka memegang-megang dada keperawanannya dan mencurahkan persundalan mereka kepadanya."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:9, Page:1,
-    Kor:"그래서 내가 그를 그의 연인들 곧 그가 홀린 앗시리아 사람의 손에 넘겨 주었더니,",
+    Kor:"그래서 내가 그를 그의 연인들, 곧 그가 홀린 앗시리아 사람의 손에 넘겨 주었더니,",
     Chn:"因此，我将她交在她所爱的人手中，就是她所恋爱的亚述人手中。",
     Eng:"\"Therefore I handed her over to her lovers, the Assyrians, for whom she lusted.",
     Ind:"Oleh sebab itu Aku menyerahkan dia ke dalam tangan kekasih-kekasihnya, dalam tangan orang Asyur, kepada siapa ia berahi."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Aku melihat bahwa ia menajiskan diri; kelakuan mereka berdua adalah sama."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:14, Page:1,
-    Kor:"○그런데 오홀리바가 더 음탕하였다. 그는 남자들의 모양을 벽에다가 새겨 놓고 쳐다보았는데, 붉은 색으로 새겨진 a바빌로니아 사람들의 모양이었다.(a 또는 '갈대아')",
+    Kor:"○그런데 오홀리바가 더 음탕하였다. 그는 남자들의 모양을 벽에다가 새겨 놓고 쳐다보았는데, 붉은 색으로 새겨진 바빌로니아 사람들의 모양이었다.",
     Chn:"阿荷利巴又加增淫行，因她看见人像画在墙上，就是用丹色所画迦勒底人的像，",
     Eng:"\"But she carried her prostitution still further. She saw men portrayed on a wall, figures of Chaldeans portrayed in red,",
     Ind:"Bahkan, ia menambah persundalannya lagi: ia melihat laki-laki yang terukir pada dinding, gambar orang-orang Kasdim, diukir dalam warna linggam,"
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Ia berahi kepada kawan-kawannya bersundal, yang auratnya seperti aurat keledai dan zakarnya seperti zakar kuda."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:21, Page:1,
-    Kor:"<예루살렘이 받은 심판> ○\"너는 젊은 시절의 음란한 생활을 그리워한다. 너의 처녀 시절에 이집트의 사내들이 b너의 유방을 만지고 너의 젖가슴을 어루만지던 것을, 너는 그리워한다.(b 시리아어역을 따름. 히, '네 가슴이 젊다고 하여 네 유방을 만지던 것을')",
+    Kor:"○\"너는 젊은 시절의 음란한 생활을 그리워한다. 너의 처녀 시절에 이집트의 사내들이 너의 유방을 만지고 너의 젖가슴을 어루만지던 것을, 너는 그리워한다.",
     Chn:"这样，你就想起你幼年的淫行。那时，埃及人拥抱你的怀，抚摸你的乳。」",
     Eng:"So you longed for the lewdness of your youth, when in Egypt your bosom was caressed and your young breasts fondled.",
     Ind:"Engkau menginginkan kemesuman masa mudamu, waktu orang Mesir memegang-megang dadamu dan menjamah-jamah susu kegadisanmu."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:22, Page:1,
-    Kor:"그러므로 오홀리바야, 나 주 하나님이 말한다. 나는 네가 정을 뗀 네 정부들을 충동시켜서, 그들이 사방에서 와서 너를 치게 하겠다.",
+    Kor:"그러므로 오홀리바야, 나 주 하나님이 말한다. 나는, 네가 정을 뗀 네 정부들을 충동시켜서, 그들이 사방에서 와서 너를 치게 하겠다.",
     Chn:"阿荷利巴啊，主耶和华如此说：「我必激动你先爱而后生疏的人来攻击你。我必使他们来，在你四围攻击你。",
     Eng:"\"Therefore, Oholibah, this is what the Sovereign LORD says: I will stir up your lovers against you, those you turned away from in disgust, and I will bring them against you from every side--",
     Ind:"Oleh sebab itu, hai Oholiba, beginilah firman Tuhan ALLAH, memang engkau sudah menjauhkan dirimu dari kekasih-kekasihmu, tetapi sungguh, Aku akan menyuruh mereka bergerak melawan engkau; Aku akan membawa mereka melawan engkau dari sekitarmu:"
   },
   {Bible:"Ezekiel", Chapter:23, Verse:23, Page:1,
-    Kor:"그들은 바빌로니아 사람과 갈대아의 모든 무리 곧 브곳과 소아와 고아 사람들과 또 그들과 함께 있는 모든 앗시리아 사람들이다. 그들은 모두 하나같이 매력 있는 젊은이들이요, 총독들과 지휘관들이요, 모두가 우두머리들과 유명한 사람들이요, 말을 잘 타는 기사들이다.",
+    Kor:"그들은 바빌로니아 사람과 갈대아의 모든 무리, 곧 브곳과 소아와 고아 사람들과 또 그들과 함께 있는 모든 앗시리아 사람들이다. 그들은 모두 하나같이 매력 있는 젊은이들이요, 총독들과 지휘관들이요, 모두가 우두머리들과 유명한 사람들이요, 말을 잘 타는 기사들이다.",
     Chn:"所来的就是巴比伦人、迦勒底的众人、比割人、书亚人、哥亚人，同着他们的还有亚述众人，乃是作省长、副省长、作军长有名声的，都骑着马，是可爱的少年人。",
     Eng:"the Babylonians and all the Chaldeans, the men of Pekod and Shoa and Koa, and all the Assyrians with them, handsome young men, all of them governors and commanders, chariot officers and men of high rank, all mounted on horses.",
     Ind:"orang Babel dan semua orang Kasdim, orang Pekod, orang Soa dan orang Koa, dan semua orang Asyur bersama mereka, pemuda yang ganteng, bupati-bupati dan para penguasa semuanya, perwira-perwira dan pahlawan-pahlawan perang, pasukan kuda semuanya."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Mereka akan menelanjangi engkau dan merampas perhiasan-perhiasanmu."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:27, Page:1,
-    Kor:"이렇게 해서, 나는, 네가 이집트 땅에서부터 하던 음란한 생활과 행실을 그치게 하겠다. 그러면 네가 다시는 그들에게 눈을 들 수도 없고, 이집트를 다시 기억할 수도 없을 것이다.",
+    Kor:"이렇게 해서, 나는, 네가 이집트 땅에서부터 하던 음란한 생활과 행실을 그치게 하겠다. 그러면 네가, 다시는 그들에게 눈을 들 수도 없고, 이집트를 다시 기억할 수도 없을 것이다.",
     Chn:"这样，我必使你的淫行和你从埃及地染来的淫乱止息了，使你不再仰望亚述，也不再追念埃及。",
     Eng:"So I will put a stop to the lewdness and prostitution you began in Egypt. You will not look on these things with longing or remember Egypt anymore.",
     Ind:"Aku akan membuat engkau menghentikan kemesumanmu dan persundalanmu sejak dari tanah Mesir, sehingga engkau tidak lagi melirik kepada mereka dan tidak lagi mengingat-ingat orang Mesir."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"mendatangkan hal ini atasmu, karena engkau bersundal dengan mengandalkan bangsa-bangsa dan menajiskan dirimu dengan berhala-berhala mereka."
   },
   {Bible:"Ezekiel", Chapter:23, Verse:31, Page:1,
-    Kor:"네가 네 언니의 길을 그대로 따라갔으니, 나는 네 언니가 마신 잔을 네 손에 넘겨 주겠다.",
+    Kor:"네가 네 언니의 길을 그대로 따라갔으니, 나는, 네 언니가 마신 잔을 네 손에 넘겨 주겠다.",
     Chn:"你走了你姊姊所走的路，所以我必将她的杯交在你手中。」",
     Eng:"You have gone the way of your sister; so I will put her cup into your hand.",
     Ind:"Engkau hidup mengikuti kelakuan kakakmu, sebab itu Aku akan memberi engkau minum dari pialanya."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Oleh sebab itu, beginilah firman Tuhan ALLAH: Oleh karena engkau melupakan Aku dan membelakangi Aku, sekarang tanggung sendirilah kemesumanmu dan persundalanmu.\""
   },
   {Bible:"Ezekiel", Chapter:23, Verse:36, Page:1,
-    Kor:"<오홀라와 오홀리바가 받은 심판> ○주님께서 또 나에게 말씀하셨다. ○\"사람아, 네가 오홀라와 오홀리바를 심판하지 않겠느냐? 두 자매의 역겨운 일들을, 네가 그들에게 알려 주어라.",
+    Kor:"○주께서 또 나에게 말씀하셨다. \"사람아, 네가 오홀라와 오홀리바를 심판하지 않겠느냐? 두 자매의 역겨운 일들을, 네가 그들에게 알려 주어라.",
     Chn:"耶和华又对我说：「人子啊，你要审问阿荷拉与阿荷利巴吗？当指出她们所行可憎的事。",
     Eng:"The LORD said to me: \"Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,",
     Ind:"Lalu TUHAN berfirman kepadaku: \"Hai anak manusia, maukah engkau menghakimi Ohola dan Oholiba dan memberitahukan kepada mereka perbuatan-perbuatannya yang keji?"
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"Tetapi orang-orang yang benar saleh akan menghakimi mereka seperti orang menghakimi perempuan-perempuan yang berzinah dan yang menumpahkan darah, sebab mereka adalah perempuan-perempuan berzinah dan tangan mereka berlumuran darah.\""
   },
   {Bible:"Ezekiel", Chapter:23, Verse:46, Page:1,
-    Kor:"○나 주 하나님이 말한다. ○회중을 소집하여 그 자매들을 치게 하여라. 그들이 겁에 질려 떨면서 약탈을 당하게 하여라.",
+    Kor:"○나 주 하나님이 말한다. 회중을 소집하여 그 자매들을 치게 하여라. 그들이 겁에 질려 떨면서 약탈을 당하게 하여라.",
     Chn:"主耶和华如此说：「我必使多人来攻击她们，使她们抛来抛去，被人抢夺。",
     Eng:"\"This is what the Sovereign LORD says: Bring a mob against them and give them over to terror and plunder.",
     Ind:"Sebab beginilah firman Tuhan ALLAH: \"Biarlah bangkit sekumpulan orang melawan mereka dan biarkanlah mereka menjadi kengerian dan rampasan."

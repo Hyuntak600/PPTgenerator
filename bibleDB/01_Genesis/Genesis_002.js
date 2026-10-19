@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Demikianlah diselesaikan langit dan bumi dan segala isinya."
   },
   {Bible:"Genesis", Chapter:2, Verse:2, Page:1,
-    Kor:"하나님은 하시던 일을 a엿샛날까지 다 마치시고, 이렛날에는 하시던 모든 일에서 손을 떼고 쉬셨다.(a 사마리아 오경과 칠십인역과 시리아어역을 따름. 히, '이렛날까지')",
+    Kor:"하나님은 하시던 일을 엿샛날까지 다 마치시고, 이렛날에는 하시던 모든 일에서 손을 떼고 쉬셨다.",
     Chn:"到第七日，　神造物的工已经完毕，就在第七日歇了他一切的工，安息了。",
     Eng:"By the seventh day God had finished the work he had been doing; so on the seventh day he  rested from all his work.",
     Ind:"Ketika Allah pada hari ketujuh telah menyelesaikan pekerjaan yang dibuat-Nya itu, berhentilah Ia pada hari ketujuh dari segala pekerjaan yang telah dibuat-Nya itu."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lalu Allah memberkati hari ketujuh itu dan menguduskannya, karena pada hari itulah Ia berhenti dari segala pekerjaan penciptaan yang telah dibuat-Nya itu."
   },
   {Bible:"Genesis", Chapter:2, Verse:4, Page:1,
-    Kor:"하늘과 땅을 창조하실 때의 일은 이러하였다. <에덴 동산> ○주 하나님이 땅과 하늘을 만드실 때에,",
+    Kor:"○하늘과 땅을 창조하실 때의 일은 이러하다. 주 하나님이 땅과 하늘을 만드실 때에,",
     Chn:"创造天地的来历，在耶和华　神造天地的日子，乃是这样，",
     Eng:"This is the account of the heavens and the earth when they were created. When the LORD God  made the earth and the heavens--",
     Ind:"Demikianlah riwayat langit dan bumi pada waktu diciptakan. Ketika TUHAN Allah menjadikan bumi dan langit, --"
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"tetapi ada kabut naik ke atas dari bumi dan membasahi seluruh permukaan bumi itu--"
   },
   {Bible:"Genesis", Chapter:2, Verse:7, Page:1,
-    Kor:"○주 하나님이 b땅의 흙으로 c사람을 지으시고, 그의 코에 생명의 기운을 불어넣으시니, 사람이 생명체가 되었다.(b 히, '아다마' c 히, '아담')",
+    Kor:"○주 하나님이 땅의 흙으로 사람을 지으시고, 그의 코에 생명의 기운을 불어넣으시니, 사람이 생명체가 되었다.",
     Chn:"耶和华　神用地上的尘土造人，将生气吹在他鼻孔里，他就成了有灵的活人，名叫 亚当。",
     Eng:"the LORD God formed the man from the dust of the ground and breathed into his nostrils the  breath of life, and the man became a living being.",
     Ind:"ketika itulah TUHAN Allah membentuk manusia itu dari debu tanah dan menghembuskan nafas hidup ke dalam hidungnya; demikianlah manusia itu menjadi makhluk yang hidup."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Selanjutnya TUHAN Allah membuat taman di Eden, di sebelah timur; disitulah ditempatkan-Nya manusia yang dibentuk-Nya itu."
   },
   {Bible:"Genesis", Chapter:2, Verse:9, Page:1,
-    Kor:"주 하나님은 보기에 아름답고 먹기에 좋은 열매를 맺는 온갖 나무를 땅에서 자라게 하시고, 동산 한가운데는 생명나무와 선과 악을 알게 하는 나무를 자라게 하셨다.",
+    Kor:"주 하나님은 보기에 아름답고 먹기에 좋은, 열매를 맺는 온갖 나무를 땅에서 자라게 하시고, 동산 한가운데는 생명나무와 선과 악을 알게 하는 나무를 자라게 하셨다.",
     Chn:"耶和华　神使各样的树从地里长出来，可以悦人的眼目，其上的果子好作食物。园子当中又有生命树和分别善恶的树。",
     Eng:"And the LORD God made all kinds of trees grow out of the ground--trees that were pleasing to  the eye and good for food. In the middle of the garden were the tree of life and the tree of the  knowledge of good and evil.",
     Ind:"Lalu TUHAN Allah menumbuhkan berbagai-bagai pohon dari bumi, yang menarik dan yang baik untuk dimakan buahnya; dan pohon kehidupan di tengah-tengah taman itu, serta pohon pengetahuan tentang yang baik dan yang jahat."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu TUHAN Allah memberi perintah ini kepada manusia: \"Semua pohon dalam taman ini boleh kaumakan buahnya dengan bebas,"
   },
   {Bible:"Genesis", Chapter:2, Verse:17, Page:1,
-    Kor:"그러나 선과 악을 알게 하는 나무의 열매만은 먹어서는 안 된다. 그것을 먹는 날에는, 너는 반드시 죽는다.\"",
+    Kor:"그러나 선과 악을 알게 하는 나무의 열매만은 먹어서는 안 된다. 그것을 먹는 날에는, 너는 반드시 죽을 것이다.\"",
     Chn:"只是分别善恶树上的果子，你不可吃，因为你吃的日子必定死！」",
     Eng:"but you must not eat from the tree of the knowledge of good and evil, for when you eat of it  you will surely die.\"",
     Ind:"tetapi pohon pengetahuan tentang yang baik dan yang jahat itu, janganlah kaumakan buahnya, sebab pada hari engkau memakannya, pastilah engkau mati.\""
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"TUHAN Allah berfirman: \"Tidak baik, kalau manusia itu seorang diri saja. Aku akan menjadikan penolong baginya, yang sepadan dengan dia.\""
   },
   {Bible:"Genesis", Chapter:2, Verse:19, Page:1,
-    Kor:"주 하나님이 들의 모든 짐승과 공중의 모든 새를 흙으로 빚어서 만드시고, 그 사람에게로 이끌고 오셔서, 그 사람이 그것들을 무엇이라고 하는지를 보셨다. 그 사람이 살아 있는 동물 하나하나를 이르는 것이 그대로 동물들의 이름이 되었다.",
+    Kor:"주 하나님이 들의 모든 짐승과 공중의 모든 새를 흙으로 빚어서 만드시고, 그 사람에게로 이끌고 오셔서, 그 사람이 그것들을 무엇이라고 하는지를 보셨다. 그 사람이 살아 있는 동물 하나하나를 이르는 것이, 그대로 동물들의 이름이 되었다.",
     Chn:"耶和华　神用土所造成的野地各样走兽和空中各样飞鸟都带到那人面前，看他叫什么。那人怎样叫各样的活物，那就是它的名字。",
     Eng:"Now the LORD God had formed out of the ground all the beasts of the field and all the birds  of the air. He brought them to the man to see what he would name them; and whatever the man  called each living creature, that was its name.",
     Ind:"Lalu TUHAN Allah membentuk dari tanah segala binatang hutan dan segala burung di udara. Dibawa-Nyalah semuanya kepada manusia itu untuk melihat, bagaimana ia menamainya; dan seperti nama yang diberikan manusia itu kepada tiap-tiap makhluk yang hidup, demikianlah nanti nama makhluk itu."
   },
   {Bible:"Genesis", Chapter:2, Verse:20, Page:1,
-    Kor:"그 사람이 모든 집짐승과 공중의 새와 들의 모든 짐승에게 이름을 붙여 주었다. 그러나 그 c남자를 돕는 사람 곧 그의 짝이 없었다.(c 히, '아담')",
+    Kor:"그 사람이 모든 집짐승과 공중의 새와 들의 모든 짐승에게 이름을 붙여 주었다. 그러나 그 남자를 돕는 사람, 곧 그의 짝이 없었다.",
     Chn:"那人便给一切牲畜和空中飞鸟、野地走兽都起了名；只是那人没有遇见配偶帮助他。",
     Eng:"So the man gave names to all the livestock, the birds of the air and all the beasts of the  field. But for Adam no suitable helper was found.",
     Ind:"Manusia itu memberi nama kepada segala ternak, kepada burung-burung di udara dan kepada segala binatang hutan, tetapi baginya sendiri ia tidak menjumpai penolong yang sepadan dengan dia."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dan dari rusuk yang diambil TUHAN Allah dari manusia itu, dibangun-Nyalah seorang perempuan, lalu dibawa-Nya kepada manusia itu."
   },
   {Bible:"Genesis", Chapter:2, Verse:23, Page:1,
-    Kor:"그 때에 그 남자가 말하였다. \"이제야 나타났구나, 이 사람! 뼈도 나의 뼈, 살도 나의 살, d남자에게서 나왔으니 e여자라고 부를 것이다. \"(d 히, '이쉬' e 히, '잇샤')",
+    Kor:"그 때에 그 남자가 말하였다. \"이제야 나타났구나, 이 사람! 뼈도 나의 뼈, 살도 나의 살, 남자에게서 나왔으니 여자라고 부를 것이다.\"",
     Chn:"那人说： 这是我骨中的骨， 肉中的肉， 可以称她为「女人」， 因为她是从「男人」身上取出来的。",
     Eng:"The man said, \"This is now bone of my bones and flesh of my flesh; she shall be called  'woman,' for she was taken out of man.\"",
     Ind:"Lalu berkatalah manusia itu: \"Inilah dia, tulang dari tulangku dan daging dari dagingku. Ia akan dinamai perempuan, sebab ia diambil dari laki-laki.\""

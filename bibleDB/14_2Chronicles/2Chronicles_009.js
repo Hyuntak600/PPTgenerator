@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",9,31);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:9, Verse:1, Page:1,
-    Kor:"<스바의 여왕이 솔로몬을 찾아오다(왕상 10:1-13)> 스바의 여왕이 솔로몬의 명성을 듣고, 여러 가지 어려운 질문으로 그를 시험하여 보려고, 예루살렘으로 그를 찾아왔다. 그는 많은 수행원을 데리고, 또 여러 가지 향료와 많은 금과 보석들을 낙타에 싣고 왔다. 그는 솔로몬에게 이르자, 마음 속에 품고 있는 온갖 것들을 다 물어 보았다.",
+    Kor:"스바의 여왕이 솔로몬의 명성을 듣고, 여러 가지 어려운 질문으로 그를 시험하여 보려고, 예루살렘으로 그를 찾아왔다. 그는 많은 수행원을 데리고, 또 여러 가지 향료와 많은 금과 보석들을 낙타에 싣고 왔다. 그는 솔로몬에게 이르자, 마음 속에 품고 있는 온갖 것들을 다 물어 보았다.",
     Chn:"示巴女王听见所罗门的名声，就来到耶路撒冷，要用难解的话试问所罗门；跟随她的人甚多，又有骆驼驮着香料、宝石，和许多金子。她来见了所罗门，就把心里所有的对所罗门都说出来。",
     Eng:"When the queen of Sheba heard of Solomon's fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan--with camels carrying spices, large quantities of gold, and precious stones--she came to Solomon and talked with him about all she had on her mind.",
     Ind:"Ketika ratu negeri Syeba mendengar kabar tentang Salomo, maka dengan pasukan pengiring yang sangat besar dan dengan unta-unta yang membawa rempah-rempah, banyak emas dan batu permata yang mahal-mahal datanglah ia ke Yerusalem hendak menguji Salomo dengan teka-teki. Setelah ia sampai kepada Salomo, dipercakapkannyalah segala yang ada dalam hatinya dengan dia."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Ketika ratu negeri Syeba melihat hikmat Salomo dan rumah yang telah didirikannya,"
   },
   {Bible:"2Chronicles", Chapter:9, Verse:4, Page:1,
-    Kor:"또 왕의 상에 오른 요리와, 신하들이 둘러 앉은 모습과, 그의 관리들이 일하는 모습과, 그들이 입은 제복과, 술잔을 받들어 올리는 시종들과, 그들이 입은 제복과, 주님의 성전에서 드리는 번제물을 보고 나서 넋을 잃었다.",
+    Kor:"또 왕의 상에 오른 요리와, 신하들이 둘러 앉은 모습과, 그의 관리들이 일하는 모습과, 그들이 입은 제복과, 술잔을 받들어 올리는 시종들과, 그들이 입은 제복과, 주의 성전에서 드리는 번제물을 보고 나서 넋을 잃었다.",
     Chn:"席上的珍馐美味、群臣分列而坐、仆人两旁侍立，以及他们的衣服装饰、酒政，和酒政的衣服装饰，又见他上耶和华殿的台阶，就诧异得神不守舍，",
     Eng:"the food on his table, the seating of his officials, the attending servants in their robes, the cupbearers in their robes and the burnt offerings he made at the temple of the LORD, she was overwhelmed.",
     Ind:"makanan di mejanya, cara duduk pegawai-pegawainya, cara pelayan-pelayannya melayani dan berpakaian, juru-juru minumannya dan pakaian mereka, dan korban bakaran yang biasa dipersembahkannya di rumah TUHAN, maka tercenganglah ratu itu."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Lalu diberikan kepada raja seratus dua puluh talenta emas, dan sangat banyak rempah-rempah dan batu permata yang mahal-mahal; tidak pernah lagi ada rempah-rempah seperti yang diberikan ratu negeri Syeba kepada raja Salomo itu."
   },
   {Bible:"2Chronicles", Chapter:9, Verse:10, Page:1,
-    Kor:"○(히람의 일꾼들과 솔로몬의 일꾼들도 오빌에서 금을 실어 왔다. 그들은 백단목과 보석도 가져 왔다.",
+    Kor:"(○히람의 일꾼들과 솔로몬의 일꾼들도 오빌에서 금을 실어 왔다. 그들은 백단목과 보석도 가져 왔다.",
     Chn:"希兰的仆人和所罗门的仆人从俄斐运了金子来，也运了檀香木和宝石来。",
     Eng:"(The men of Hiram and the men of Solomon brought gold from Ophir; they also brought algumwood and precious stones.",
     Ind:"Lagipula hamba-hamba Huram dan hamba-hamba Salomo, yang membawa emas dari Ofir, membawa juga kayu cendana dan batu permata yang mahal-mahal."
   },
   {Bible:"2Chronicles", Chapter:9, Verse:11, Page:1,
-    Kor:"왕은 이 백단목으로 주님의 성전과 왕궁의 계단을 만들고, 합창단원이 쓸 수금과 거문고를 만들었다. 이와 같은 백단목은 일찍이 유다 땅에서는 본 일이 없었다.)",
+    Kor:"왕은 이 백단목으로 주의 성전과 왕궁의 계단을 만들고, 합창단원이 쓸 수금과 거문고를 만들었다. 이와 같은 백단목은 일찍이 유다 땅에서는 본 일이 없었다.)",
     Chn:"王用檀香木为耶和华殿和王宫做台，又为歌唱的人做琴瑟；犹大地从来没有见过这样的。",
     Eng:"The king used the algumwood to make steps for the temple of the LORD and for the royal palace, and to make harps and lyres for the musicians. Nothing like them had ever been seen in Judah.)",
     Ind:"Raja mengerjakan kayu cendana itu menjadi tangga-tangga untuk rumah TUHAN dan istana raja, dan juga menjadi kecapi dan gambus untuk para penyanyi. Hal seperti itu tidak pernah kelihatan sebelumnya di tanah Yehuda."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Raja Salomo memberikan kepada ratu negeri Syeba segala yang dikehendakinya dan yang dimintanya, melebihi yang dibawa ratu itu untuk raja. Lalu ratu itu berangkat pulang ke negerinya bersama-sama dengan pegawai-pegawainya."
   },
   {Bible:"2Chronicles", Chapter:9, Verse:13, Page:1,
-    Kor:"<솔로몬의 부귀 영화(왕상 10:14-25)> ○해마다 솔로몬에게 들어오는 금의 무게가 육백육십육 달란트나 되었다.",
+    Kor:"○해마다 솔로몬에게 들어오는 금의 무게가 육백육십육 달란트나 되었다.",
     Chn:"所罗门每年所得的金子共有六百六十六他连得，",
     Eng:"The weight of the gold that Solomon received yearly was 666 talents,",
     Ind:"Adapun berat emas, yang dibawa kepada Salomo dalam satu tahun ialah seberat enam ratus enam puluh enam talenta,"
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Segala perkakas minuman raja Salomo dari emas dan segala barang di gedung \"Hutan Libanon\" itu dari emas murni; perak tidak dianggap berharga pada zaman Salomo."
   },
   {Bible:"2Chronicles", Chapter:9, Verse:21, Page:1,
-    Kor:"왕의 배들은 a히람의 일꾼들을 태우고 다시스로 다니며, 세 해마다 한 번씩 금과 은과 상아와 원숭이와 공작새 들을 실어 오곤 하였다.(a 히, '후람')",
+    Kor:"왕의 배들은 히람의 일꾼들을 태우고 다시스로 다니며, 세 해마다 한 번씩 금과 은과 상아와 원숭이와 공작새 들을 실어 오곤 하였다.",
     Chn:"因为王的船只与希兰的仆人一同往他施去；他施船只三年一次装载金、银、象牙、猿猴、孔雀回来。",
     Eng:"The king had a fleet of trading ships manned by Hiram's men. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons.",
     Ind:"Sebab raja mempunyai kapal-kapal yang berlayar ke Tarsis bersama-sama dengan orang-orang Huram; dan sekali tiga tahun kapal-kapal Tarsis itu datang membawa emas dan perak serta gading; juga kera dan burung merak."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Kuda untuk Salomo didatangkan dari Misraim dan dari segala negeri."
   },
   {Bible:"2Chronicles", Chapter:9, Verse:29, Page:1,
-    Kor:"<솔로몬의 통치 개요(왕상 11:41-43)> ○솔로몬의 나머지 행적은 처음부터 끝까지, '나단 예언자의 역사책'과 '실로 사람 아히야의 예언서'와 '잇도 선견자의 묵시록', 곧 잇도가 느밧의 아들 여로보암에 대하여 쓴 책에 기록되어 있다.",
+    Kor:"○솔로몬의 나머지 행적은 처음부터 끝까지, '나단 예언자의 역사책'과 '실로 사람 아히야의 예언서'와 '잇도 선견자의 묵시록', 곧 잇도가 느밧의 아들 여로보암에 대하여 쓴 책에 기록되어 있다.",
     Chn:"所罗门其余的事，自始至终，不都写在先知拿单的书上和示罗人亚希雅的预言书上，并先见易多论尼八儿子耶罗波安的默示书上吗？",
     Eng:"As for the other events of Solomon's reign, from beginning to end, are they not written in the records of Nathan the prophet, in the prophecy of Ahijah the Shilonite and in the visions of Iddo the seer concerning Jeroboam son of Nebat?",
     Ind:"Selebihnya dari riwayat Salomo dari awal sampai akhir, bukankah semuanya itu tertulis dalam riwayat nabi Natan dan dalam nubuat Ahia, orang Silo itu, dan dalam penglihatan-penglihatan Ido, pelihat itu, tentang Yerobeam bin Nebat?"

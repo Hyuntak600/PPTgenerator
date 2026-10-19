@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",150,6);
 BibleDB.add([
   {Bible:"Psalms", Chapter:150, Verse:1, Page:1,
-    Kor:"<주님을 찬양하여라> a할렐루야. 주님의 성소에서 하나님을 찬양하여라. 하늘 웅장한 창공에서 찬양하여라. (a 또는 '주님을 찬송하여라')",
+    Kor:"할렐루야. 성소에서 하나님을 찬양하여라. 하늘 웅장한 창공에서 찬양하여라.",
     Chn:"你们要赞美耶和华！ 在　神的圣所赞美他！ 在他显能力的穹苍赞美他！",
     Eng:"Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens.",
     Ind:"Haleluya! Pujilah Allah dalam tempat kudus-Nya! Pujilah Dia dalam cakrawala-Nya yang kuat!"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Pujilah Dia dengan ceracap yang berdenting, pujilah Dia dengan ceracap yang berdentang!"
   },
   {Bible:"Psalms", Chapter:150, Verse:6, Page:1,
-    Kor:"숨쉬는 사람마다 주님을 찬양하여라. a할렐루야. (a 또는 '주님을 찬송하여라')",
+    Kor:"숨쉬는 사람마다 주님을 찬양하여라. 할렐루야.",
     Chn:"凡有气息的都要赞美耶和华！ 你们要赞美耶和华！",
     Eng:"Let everything that has breath praise the Lord . Praise the Lord .",
     Ind:"Biarlah segala yang bernafas memuji TUHAN! Haleluya!"

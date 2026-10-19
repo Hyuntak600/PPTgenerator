@@ -3,19 +3,19 @@
 BibleDB.ref("Acts",4,37);
 BibleDB.add([
   {Bible:"Acts", Chapter:4, Verse:1, Page:1,
-    Kor:"<베드로와 요한이 의회 앞에 끌려오다> 베드로와 요한이 아직도 사람들에게 말하고 있는데, 제사장들과 성전 경비대장과 사두개파 사람들이 몰려왔다.",
+    Kor:"베드로와 요한이 아직도 사람들에게 말하고 있는데, 제사장들과 성전 수위대장과 사두개파 사람들이 몰려왔다.",
     Chn:"使徒对百姓说话的时候，祭司们和守殿官，并撒都该人忽然来了。",
     Eng:"The priests and the captain of the temple guard and the Sadducees came up to Peter and John while they were speaking to the people.",
     Ind:"Ketika Petrus dan Yohanes sedang berbicara kepada orang banyak, mereka tiba-tiba didatangi imam-imam dan kepala pengawal Bait Allah serta orang-orang Saduki."
   },
   {Bible:"Acts", Chapter:4, Verse:2, Page:1,
-    Kor:"그들은 사도들이 백성을 가르치는 것과, 예수의 부활을 내세워서 죽은 사람들의 부활을 선전하고 있는 것에 격분해서,",
+    Kor:"그들은 사도들이 사람들을 가르치는 것과, 예수의 부활을 내세워 죽은 사람들의 부활을 선포하고 있는 것에 격분해서,",
     Chn:"因他们教训百姓，本着耶稣，传说死人复活，就很烦恼，",
     Eng:"They were greatly disturbed because the apostles were teaching the people and proclaiming in Jesus the resurrection of the dead.",
     Ind:"Orang-orang itu sangat marah karena mereka mengajar orang banyak dan memberitakan, bahwa dalam Yesus ada kebangkitan dari antara orang mati."
   },
   {Bible:"Acts", Chapter:4, Verse:3, Page:1,
-    Kor:"사도들을 붙잡았으나, 날이 이미 저물었으므로 다음 날까지 가두어 두었다.",
+    Kor:"사도들을 붙잡았으나, 날이 이미 저물었으므로, 다음날까지 가두어 두었다.",
     Chn:"于是下手拿住他们；因为天已经晚了，就把他们押到第二天。",
     Eng:"They seized Peter and John, and because it was evening, they put them in jail until the next day.",
     Ind:"Mereka ditangkap dan diserahkan ke dalam tahanan sampai keesokan harinya, karena hari telah malam."
@@ -33,49 +33,49 @@ BibleDB.add([
     Ind:"Pada keesokan harinya pemimpin-pemimpin Yahudi serta tua-tua dan ahli-ahli Taurat mengadakan sidang di Yerusalem"
   },
   {Bible:"Acts", Chapter:4, Verse:6, Page:1,
-    Kor:"대제사장 안나스를 비롯해서, 가야바와 a요한과 알렉산더와 그 밖에 대제사장의 가문에 속한 사람들이 모두 참석하였다.(a 다른 고대 사본들에는 '요나단')",
+    Kor:"대제사장 안나스를 비롯해서, 가야바와 요한과 알렉산더와, 그 밖에 대제사장의 가문에 속한 사람들이 모두 참석하였다.",
     Chn:"又有大祭司亚那和该亚法、约翰、亚历山大，并大祭司的亲族都在那里，",
     Eng:"Annas the high priest was there, and so were Caiaphas, John, Alexander and the other men of the high priest's family.",
     Ind:"dengan Imam Besar Hanas dan Kayafas, Yohanes dan Aleksander dan semua orang lain yang termasuk keturunan Imam Besar."
   },
   {Bible:"Acts", Chapter:4, Verse:7, Page:1,
-    Kor:"그들은 사도들을 가운데에 세워 놓고서 물었다. \"그대들은 대체 무슨 권세와 누구의 이름으로 이런 일을 하였소?\"",
+    Kor:"그들은 사도들을 가운데 세워 놓고서 \"그대들은 대체 무슨 권세와 누구의 이름으로 이런 일을 하였소?\" 하고 물었다.",
     Chn:"叫使徒站在当中，就问他们说：「你们用什么能力，奉谁的名做这事呢？」",
     Eng:"They had Peter and John brought before them and began to question them: \"By what power or what name did you do this?\"",
     Ind:"Lalu Petrus dan Yohanes dihadapkan kepada sidang itu dan mulai diperiksa dengan pertanyaan ini: \"Dengan kuasa manakah atau dalam nama siapakah kamu bertindak demikian itu?\""
   },
   {Bible:"Acts", Chapter:4, Verse:8, Page:1,
-    Kor:"그 때에 베드로가 성령이 충만하여 그들에게 말하였다. \"백성의 지도자들과 장로 여러분,",
+    Kor:"그 때에 베드로가 성령으로 충만하여 그들에게 말하였다. \"백성의 지도자들과 장로 여러분,",
     Chn:"那时彼得被圣灵充满，对他们说：",
     Eng:"Then Peter, filled with the Holy Spirit, said to them: \"Rulers and elders of the people!",
     Ind:"Maka jawab Petrus, penuh dengan Roh Kudus: \"Hai pemimpin-pemimpin umat dan tua-tua,"
   },
   {Bible:"Acts", Chapter:4, Verse:9, Page:1,
-    Kor:"우리가 오늘 신문을 받는 것이, 병자에게 행한 착한 일과 또 그가 누구의 힘으로 낫게 되었느냐 하는 문제 때문이라면,",
+    Kor:"우리가 오늘 신문을 받는 것이, 병자에게 행한 착한 일과, 또 그가 누구의 힘으로 낫게 되었느냐 하는 문제 때문이라면,",
     Chn:"「治民的官府和长老啊，倘若今日因为在残疾人身上所行的善事查问我们他是怎么得了痊愈，",
     Eng:"If we are being called to account today for an act of kindness shown to a cripple and are asked how he was healed,",
     Ind:"jika kami sekarang harus diperiksa karena suatu kebajikan kepada seorang sakit dan harus menerangkan dengan kuasa manakah orang itu disembuhkan,"
   },
   {Bible:"Acts", Chapter:4, Verse:10, Page:1,
-    Kor:"여러분 모두와 모든 이스라엘 백성은 이것을 알아야 합니다. 이 사람이 성한 몸으로 여러분 앞에 서게 된 것은, 여러분이 십자가에 못 박아 죽였으나 하나님이 죽은 사람들 가운데서 살리신 b나사렛 예수 그리스도의 이름을 힘입어서 된 것입니다.(b 그, '나사렛 사람')",
+    Kor:"여러분 모두와 모든 이스라엘 백성은 이것을 알아야 합니다. 이 사람이 성한 몸으로 여러분 앞에 서게 된 것은, 여러분이 십자가에 못박아 죽이고, 하나님이 죽은 사람들 가운데서 살리신 나사렛 예수 그리스도의 이름을 힘입어서 된 것입니다.",
     Chn:"你们众人和以色列百姓都当知道，站在你们面前的这人得痊愈是因你们所钉十字架、　神叫他从死里复活的拿撒勒人耶稣基督的名。",
     Eng:"then know this, you and all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed.",
     Ind:"maka ketahuilah oleh kamu sekalian dan oleh seluruh umat Israel, bahwa dalam nama Yesus Kristus, orang Nazaret, yang telah kamu salibkan, tetapi yang telah dibangkitkan Allah dari antara orang mati--bahwa oleh karena Yesus itulah orang ini berdiri dengan sehat sekarang di depan kamu."
   },
   {Bible:"Acts", Chapter:4, Verse:11, Page:1,
-    Kor:"이 예수는  c'너희들 집 짓는 사람들에게는 버림받은 돌이지만, 집 모퉁이의 머릿돌이 되신 분'입니다. (c 시 118:22)",
+    Kor:"이 예수는 '너희, 집 짓는 사람들에게는 버림받은 돌이지만, 집 모퉁이의 머릿돌이 되신 분' 입니다.",
     Chn:"他是 你们匠人所弃的石头， 已成了房角的头块石头。",
     Eng:"He is \"'the stone you builders rejected, which has become the capstone.'",
     Ind:"Yesus adalah batu yang dibuang oleh tukang-tukang bangunan--yaitu kamu sendiri--,namun ia telah menjadi batu penjuru."
   },
   {Bible:"Acts", Chapter:4, Verse:12, Page:1,
-    Kor:"○이 예수 밖에는, 다른 아무에게도 구원은 없습니다. 사람들에게 주신 이름 가운데 우리가 의지하여 구원을 얻어야 할 이름은, 하늘 아래에 이 이름 밖에 다른 이름이 없습니다.\"",
+    Kor:"예수 밖에는, 다른 어떤 이에게서도 구원은 없습니다. 우리가 구원 받을 이름은 사람들에게 주신 이름들 가운데 하늘 아래에 이 이름 밖에는 달리 없습니다.\"",
     Chn:"除他以外，别无拯救；因为在天下人间，没有赐下别的名，我们可以靠着得救。」",
     Eng:"Salvation is found in no one else, for there is no other name under heaven given to men by which we must be saved.\"",
     Ind:"Dan keselamatan tidak ada di dalam siapapun juga selain di dalam Dia, sebab di bawah kolong langit ini tidak ada nama lain yang diberikan kepada manusia yang olehnya kita dapat diselamatkan.\""
   },
   {Bible:"Acts", Chapter:4, Verse:13, Page:1,
-    Kor:"그들은 베드로와 요한이 본래 배운 것이 없는 보잘것없는 사람인 줄 알았는데, 이렇게 담대하게 말하는 것을 보고 놀랐다. 그리고 그들은 그 두 사람이 예수와 함께 다녔다는 사실을 알았지만,",
+    Kor:"○그들은 베드로와 요한이 본래 배운 것이 없는 보잘것없는 사람인 줄 알았는데, 이렇게 담대하게 말하는 것을 보고 놀랐다. 그리고 그들은 그 두 사람이 예수와 함께 다녔다는 사실을 알았지만,",
     Chn:"他们见彼得、约翰的胆量，又看出他们原是没有学问的小民，就希奇，认明他们是跟过耶稣的；",
     Eng:"When they saw the courage of Peter and John and realized that they were unschooled, ordinary men, they were astonished and they took note that these men had been with Jesus.",
     Ind:"Ketika sidang itu melihat keberanian Petrus dan Yohanes dan mengetahui, bahwa keduanya orang biasa yang tidak terpelajar, heranlah mereka; dan mereka mengenal keduanya sebagai pengikut Yesus."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Dan setelah keduanya disuruh masuk, mereka diperintahkan, supaya sama sekali jangan berbicara atau mengajar lagi dalam nama Yesus."
   },
   {Bible:"Acts", Chapter:4, Verse:19, Page:1,
-    Kor:"그 때에 베드로와 요한은 대답하였다. \"하나님의 말씀을 듣는 것보다, 당신들의 말을 듣는 것이, 하나님 보시기에 옳은 일인가를 판단해 보십시오.",
+    Kor:"그 때에 베드로와 요한이 대답하였다. \"하나님의 말씀을 듣는 것보다 당신들의 말을 듣는 것이, 하나님 보시기에 옳은 일인가를 판단해 보십시오.",
     Chn:"彼得、约翰说：「听从你们，不听从　神，这在　神面前合理不合理，你们自己酌量吧！",
     Eng:"But Peter and John replied, \"Judge for yourselves whether it is right in God's sight to obey you rather than God.",
     Ind:"Tetapi Petrus dan Yohanes menjawab mereka: \"Silakan kamu putuskan sendiri manakah yang benar di hadapan Allah: taat kepada kamu atau taat kepada Allah."
   },
   {Bible:"Acts", Chapter:4, Verse:20, Page:1,
-    Kor:"우리는 보고 들은 것을 말하지 않을 수 없습니다.\"",
+    Kor:"우리로서는 보고 들은 것을 말하지 않을 수 없습니다.\"",
     Chn:"我们所看见所听见的，不能不说。」",
     Eng:"For we cannot help speaking about what we have seen and heard.\"",
     Ind:"Sebab tidak mungkin bagi kami untuk tidak berkata-kata tentang apa yang telah kami lihat dan yang telah kami dengar.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Sebab orang yang disembuhkan oleh mujizat itu sudah lebih dari empat puluh tahun umurnya."
   },
   {Bible:"Acts", Chapter:4, Verse:23, Page:1,
-    Kor:"<신도들이 기도를 드리다> ○베드로와 요한은 풀려나는 길로 동료들에게로 가서, 대제사장들과 장로들이 한 말을 낱낱이 일렀다.",
+    Kor:"○베드로와 요한이 놓이는 길로 동료들에게로 가서, 대제사장들과 장로들이 한 말을 낱낱이 일렀다.",
     Chn:"二人既被释放，就到会友那里去，把祭司长和长老所说的话都告诉他们。",
     Eng:"On their release, Peter and John went back to their own people and reported all that the chief priests and elders had said to them.",
     Ind:"Sesudah dilepaskan pergilah Petrus dan Yohanes kepada teman-teman mereka, lalu mereka menceriterakan segala sesuatu yang dikatakan imam-imam kepala dan tua-tua kepada mereka."
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Ketika teman-teman mereka mendengar hal itu, berserulah mereka bersama-sama kepada Allah, katanya: \"Ya Tuhan, Engkaulah yang menjadikan langit dan bumi, laut dan segala isinya."
   },
   {Bible:"Acts", Chapter:4, Verse:25, Page:1,
-    Kor:"주님께서는 주님의 d종인 우리의 조상 다윗의 입을 빌어서, 성령으로 이렇게 말씀하셨습니다.  e'어찌하여 이방 민족이 날뛰며, 뭇 백성이 헛된 일을 꾀하였는가? (d 또는 '아이' e 시 2:1, 2(칠십인역))",
+    Kor:"주께서는 주의 종인 우리의 조상 다윗의 입을 빌어서, 성령으로 이렇게 말씀하셨습니다. '어찌하여 이방 사람이 날뛰며, 뭇 백성이 헛된 일을 꾀하였는가?",
     Chn:"你曾借着圣灵，托你仆人—我们祖宗大卫的口，说： 外邦为什么争闹？ 万民为什么谋算虚妄的事？",
     Eng:"You spoke by the Holy Spirit through the mouth of your servant, our father David: \"'Why do the nations rage and the peoples plot in vain?",
     Ind:"Dan oleh Roh Kudus dengan perantaraan hamba-Mu Daud, bapa kami, Engkau telah berfirman: Mengapa rusuh bangsa-bangsa, mengapa suku-suku bangsa mereka-reka perkara yang sia-sia?"
   },
   {Bible:"Acts", Chapter:4, Verse:26, Page:1,
-    Kor:"세상 임금들이 들고일어나고, 통치자들이 함께 모여서, 주님과 f그의 메시아에게 대적하였다.' (f '그의 그리스도' 즉 '그가 기름부어 주신 분')",
+    Kor:"세상 임금들이 들고일어나고, 통치자들이 함께 모여서, 주님과 그의 메시아에게 대적하였다.'",
     Chn:"世上的君王一齐起来， 臣宰也聚集， 要敌挡主， 并主的受膏者。",
     Eng:"The kings of the earth take their stand and the rulers gather together against the Lord and against his Anointed One.'",
     Ind:"Raja-raja dunia bersiap-siap dan para pembesar berkumpul untuk melawan Tuhan dan Yang Diurapi-Nya."
   },
   {Bible:"Acts", Chapter:4, Verse:27, Page:1,
-    Kor:"사실, 헤롯과 본디오 빌라도가 이방 사람들과 이스라엘 백성과 한패가 되어, 이 성에 모여서, 주님께서 기름 부으신 거룩한 d종 예수를 대적하여,(d 또는 '아이')",
+    Kor:"사실, 헤롯과 본디오 빌라도가 이방 사람과 이스라엘 백성과 한패가 되어, 이 성에 모여서, 주께서 기름 부으신 거룩한 종 예수를 대적하여,",
     Chn:"希律和本丢·彼拉多，外邦人和以色列民，果然在这城里聚集，要攻打你所膏的圣仆耶稣，",
     Eng:"Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.",
     Ind:"Sebab sesungguhnya telah berkumpul di dalam kota ini Herodes dan Pontius Pilatus beserta bangsa-bangsa dan suku-suku bangsa Israel melawan Yesus, Hamba-Mu yang kudus, yang Engkau urapi,"
@@ -178,43 +178,43 @@ BibleDB.add([
     ChnVerseEnd:30
   },
   {Bible:"Acts", Chapter:4, Verse:30, Page:1,
-    Kor:"그리고 주님께서 능력의 손을 뻗치시어 병을 낫게 해주시고, 주님의 거룩한 종 예수의 이름으로 표징과 놀라운 일들이 일어나게 해주십시오.\"",
+    Kor:"그리고 주께서 능력의 손을 뻗치어 병을 낫게 해주시고, 주님의 거룩한 종 예수의 이름으로 표적과 기적이 일어나게 해주십시오.\"",
     Chn:"",
     Eng:"Stretch out your hand to heal and perform miraculous signs and wonders through the name of your holy servant Jesus.\"",
     Ind:"Ulurkanlah tangan-Mu untuk menyembuhkan orang, dan adakanlah tanda-tanda dan mujizat-mujizat oleh nama Yesus, Hamba-Mu yang kudus.\""
   },
   {Bible:"Acts", Chapter:4, Verse:31, Page:1,
-    Kor:"그들이 기도를 마치니, 그들이 모여 있는 곳이 흔들리고, 그들은 모두 성령으로 충만해서, 하나님의 말씀을 담대히 말하게 되었다.",
+    Kor:"그들이 기도를 마치니, 그들이 모여 있는 곳이 흔들리고, 그들 모두가 성령으로 충만해서, 하나님의 말씀을 담대히 말하게 되었다.",
     Chn:"祷告完了，聚会的地方震动，他们就都被圣灵充满，放胆讲论　神的道。",
     Eng:"After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly.",
     Ind:"Dan ketika mereka sedang berdoa, goyanglah tempat mereka berkumpul itu dan mereka semua penuh dengan Roh Kudus, lalu mereka memberitakan firman Allah dengan berani."
   },
   {Bible:"Acts", Chapter:4, Verse:32, Page:1,
-    Kor:"<공동 소유 생활> ○많은 신도가 다 한 마음과 한 뜻이 되어서, 아무도 자기 소유를 자기 것이라고 하지 않고, 모든 것을 공동으로 사용하였다.",
+    Kor:"○많은 신도가 다 한 마음과 한 뜻이 되어서, 누구 하나도 자기 소유를 자기 것이라고 하지 않고, 모든 것을 공동으로 사용하였다.",
     Chn:"那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。",
     Eng:"All the believers were one in heart and mind. No one claimed that any of his possessions was his own, but they shared everything they had.",
     Ind:"Adapun kumpulan orang yang telah percaya itu, mereka sehati dan sejiwa, dan tidak seorangpun yang berkata, bahwa sesuatu dari kepunyaannya adalah miliknya sendiri, tetapi segala sesuatu adalah kepunyaan mereka bersama."
   },
   {Bible:"Acts", Chapter:4, Verse:33, Page:1,
-    Kor:"사도들은 큰 능력으로 주 예수의 부활을 증언하였고, 사람들은 모두 큰 은혜를 받았다.",
+    Kor:"사도들은 큰 능력으로 주 예수의 부활을 증언하였고, 그들은 모두 큰 은혜를 받았다.",
     Chn:"使徒大有能力，见证主耶稣复活；众人也都蒙大恩。",
     Eng:"With great power the apostles continued to testify to the resurrection of the Lord Jesus, and much grace was upon them all.",
     Ind:"Dan dengan kuasa yang besar rasul-rasul memberi kesaksian tentang kebangkitan Tuhan Yesus dan mereka semua hidup dalam kasih karunia yang melimpah-limpah."
   },
   {Bible:"Acts", Chapter:4, Verse:34, Page:1,
-    Kor:"그들 가운데는 가난한 사람이 한 사람도 없었다. 땅이나 집을 가진 사람들은 그것을 팔아서, 그 판 돈을 가져다가",
+    Kor:"그들 가운데는 가난한 사람이 하나도 없었다. 땅이나 집을 가진 사람들은, 그것을 팔아서, 그 판 돈을 가져다가",
     Chn:"内中也没有一个缺乏的；因为人人将田产房屋都卖了，把所卖的价银拿来，",
     Eng:"There were no needy persons among them. For from time to time those who owned lands or houses sold them, brought the money from the sales",
     Ind:"Sebab tidak ada seorangpun yang berkekurangan di antara mereka; karena semua orang yang mempunyai tanah atau rumah, menjual kepunyaannya itu, dan hasil penjualan itu mereka bawa"
   },
   {Bible:"Acts", Chapter:4, Verse:35, Page:1,
-    Kor:"사도들의 발 앞에 놓았고, 사도들은 각 사람에게 필요에 따라 나누어주었다.",
+    Kor:"사도들의 발 앞에 놓았고, 사도들은 각 사람에게 필요에 따라 나누어 주었다.",
     Chn:"放在使徒脚前，照各人所需用的，分给各人。",
     Eng:"and put it at the apostles' feet, and it was distributed to anyone as he had need.",
     Ind:"dan mereka letakkan di depan kaki rasul-rasul; lalu dibagi-bagikan kepada setiap orang sesuai dengan keperluannya."
   },
   {Bible:"Acts", Chapter:4, Verse:36, Page:1,
-    Kor:"키프로스 태생으로, 레위 사람이요, 사도들에게서 바나바 곧 '위로의 아들'이라는 뜻의 별명을 받은 요셉이,",
+    Kor:"키프로스 태생으로, 레위 사람이요, 사도들로부터 바나바 곧 '위로의 아들'이라는 뜻의 별명을 받은 요셉이,",
     Chn:"有一个利未人，生在塞浦路斯，名叫约瑟，使徒称他为巴拿巴（巴拿巴翻出来就是劝慰子）。",
     Eng:"Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means Son of Encouragement),",
     Ind:"Demikian pula dengan Yusuf, yang oleh rasul-rasul disebut Barnabas, artinya anak penghiburan, seorang Lewi dari Siprus."

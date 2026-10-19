@@ -3,7 +3,7 @@
 BibleDB.ref("Daniel",6,28);
 BibleDB.add([
   {Bible:"Daniel", Chapter:6, Verse:1, Page:1,
-    Kor:"<사자 굴 속의 다니엘> 다리우스는 자기의 뜻대로 나라 안에 지방장관 백스무 명을 세워서, 나라를 다스리게 하였다.",
+    Kor:"다리우스는 자기의 뜻대로 나라 안에 지방장관 백스무 명을 세워서, 나라를 다스리게 하였다.",
     Chn:"大流士随心所愿，立一百二十个总督，治理通国。",
     Eng:"It pleased Darius to appoint 120 satraps to rule throughout the kingdom,",
     Ind:"(6-2) Lalu berkenanlah Darius mengangkat seratus dua puluh wakil-wakil raja atas kerajaannya; mereka akan ditempatkan di seluruh kerajaan;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"(6-5) Kemudian para pejabat tinggi dan wakil raja itu mencari alasan dakwaan terhadap Daniel dalam hal pemerintahan, tetapi mereka tidak mendapat alasan apapun atau sesuatu kesalahan, sebab ia setia dan tidak ada didapati sesuatu kelalaian atau sesuatu kesalahan padanya."
   },
   {Bible:"Daniel", Chapter:6, Verse:5, Page:1,
-    Kor:"그래서 그들은 서로 말하였다. \"다니엘이라는 자는 그가 믿는 신의 법을 문제삼지 않고는, 고발할 근거를 찾을 수 없다.\"",
+    Kor:"그래서 그들은 서로 말하였다. \"다니엘이라는 자는 그가 믿는 하나님의 법을 문제삼지 않고는, 고발할 근거를 찾을 수 없다.\"",
     Chn:"那些人便说：「我们要找参这但以理的把柄，除非在他　神的律法中就寻不着。」",
     Eng:"Finally these men said, \"We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God.\"",
     Ind:"(6-6) Maka berkatalah orang-orang itu: \"Kita tidak akan mendapat suatu alasan dakwaan terhadap Daniel ini, kecuali dalam hal ibadahnya kepada Allahnya!\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"(6-16) Lalu bergegas-gegaslah orang-orang itu menghadap raja serta berkata kepadanya: \"Ketahuilah, ya raja, bahwa menurut undang-undang orang Media dan Persia tidak ada larangan atau penetapan yang dikeluarkan raja yang dapat diubah!\""
   },
   {Bible:"Daniel", Chapter:6, Verse:16, Page:1,
-    Kor:"○그래서 왕이 명령을 내리니, 그들이 다니엘을 끌어다가 사자 굴에 던져 넣었다. 왕이 다니엘에게 말하였다. \"그대가 늘 섬기는 그대의 하나님이 그대를 구하여 주시기를 비오.\"",
+    Kor:"○그래서 왕이 명령을 내리니, 그들이 다니엘을 끌어다가 사자 굴에 던져 넣었다. 왕이 다니엘에게 말하였다. \"네가 늘 섬기는 너의 하나님이 너를 구하여 주시기를 빈다.\"",
     Chn:"王下令，人就把但以理带来，扔在狮子坑中。王对但以理说：「你所常事奉的　神，他必救你。」",
     Eng:"So the king gave the order, and they brought Daniel and threw him into the lions' den. The king said to Daniel, \"May your God, whom you serve continually, rescue you!\"",
     Ind:"(6-17) Sesudah itu raja memberi perintah, lalu diambillah Daniel dan dilemparkan ke dalam gua singa. Berbicaralah raja kepada Daniel: \"Allahmu yang kausembah dengan tekun, Dialah kiranya yang melepaskan engkau!\""
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"(6-20) Pagi-pagi sekali ketika fajar menyingsing, bangunlah raja dan pergi dengan buru-buru ke gua singa;"
   },
   {Bible:"Daniel", Chapter:6, Verse:20, Page:1,
-    Kor:"그 굴 가까이에 이르러서, 왕은 슬픈 목소리로 외치며, 다니엘에게 말하였다. \"살아 계신 하나님의 종 다니엘은 들으시오, 그대가 늘 섬기는 그대의 하나님이 그대를 사자들로부터 구해 주셨소?\"",
+    Kor:"그 굴 가까이에 이르러서, 왕은 슬픈 목소리로 외치며, 다니엘에게 말하였다. \"살아 계신 하나님의 종 다니엘아, 네가 늘 섬기는 너의 하나님이 너를 사자들로부터 구해 주셨느냐?\"",
     Chn:"临近坑边，哀声呼叫但以理，对但以理说：「永生　神的仆人但以理啊，你所常事奉的　神能救你脱离狮子吗？」",
     Eng:"When he came near the den, he called to Daniel in an anguished voice, \"Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?\"",
     Ind:"(6-21) dan ketika ia sampai dekat gua itu, berserulah ia kepada Daniel dengan suara yang sayu. Berkatalah ia kepada Daniel: \"Daniel, hamba Allah yang hidup, Allahmu yang kausembah dengan tekun, telah sanggupkah Ia melepaskan engkau dari singa-singa itu?\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"(6-22) Lalu kata Daniel kepada raja: \"Ya raja, kekallah hidupmu!"
   },
   {Bible:"Daniel", Chapter:6, Verse:22, Page:1,
-    Kor:"나의 하나님이 천사를 보내셔서 사자들의 입을 막으셨으므로, 사자들이 나를 해치지 못하였습니다. 그것은, 하나님 앞에서 나에게는 죄가 없다는 사실이 드러났기 때문입니다. 임금님, 나는 임금님께도 죄를 짓지 않았습니다.\"",
+    Kor:"나의 하나님이 천사를 보내셔서 사자들의 입을 막으셨으므로, 사자들이 나를 해치지 못하였습니다. 그것은, 하나님 앞에서 나에게는 죄가 없다는 사실이 드러났기 때문입니다. 임금님, 저는 임금님께도 죄를 짓지 않았습니다.\"",
     Chn:"我的　神差遣使者，封住狮子的口，叫狮子不伤我；因我在　神面前无辜，我在王面前也没有行过亏损的事。」",
     Eng:"My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, O king.\"",
     Ind:"(6-23) Allahku telah mengutus malaikat-Nya untuk mengatupkan mulut singa-singa itu, sehingga mereka tidak mengapa-apakan aku, karena ternyata aku tak bersalah di hadapan-Nya; tetapi juga terhadap tuanku, ya raja, aku tidak melakukan kejahatan.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"(6-26) Kemudian raja Darius mengirim surat kepada orang-orang dari segala bangsa, suku bangsa dan bahasa, yang mendiami seluruh bumi, bunyinya: \"Bertambah-tambahlah kiranya kesejahteraanmu!"
   },
   {Bible:"Daniel", Chapter:6, Verse:26, Page:1,
-    Kor:"내가 다음과 같이 법령을 공포한다. 내 나라에서 나의 통치를 받는 모든 백성은 반드시 다니엘이 섬기는 하나님을 공경하고, 두려워하여야 한다.  살아 계신 하나님이 영원히 다스리신다. 그 나라는 멸망하지 않으며, 그의 권세 무궁하다.",
+    Kor:"내가 이 법령을 공포한다. 내 나라에서 나의 통치를 받는 모든 백성은 반드시 다니엘이 섬기는 하나님을 공경하고, 두려워하여야 한다. 살아 계신 하나님이 영원히 다스리신다. 그 나라는 멸망하지 않으며, 그의 권세 무궁하다.",
     Chn:"现在我降旨晓谕我所统辖的全国人民，要在但以理的　神面前，战兢恐惧。 因为他是永远长存的活　神， 他的国永不败坏； 他的权柄永存无极！",
     Eng:"\"I issue a decree that in every part of my kingdom people must fear and reverence the God of Daniel. \"For he is the living God and he endures forever; his kingdom will not be destroyed, his dominion will never end.",
     Ind:"(6-27) Bersama ini kuberikan perintah, bahwa di seluruh kerajaan yang kukuasai orang harus takut dan gentar kepada Allahnya Daniel, sebab Dialah Allah yang hidup, yang kekal untuk selama-lamanya; pemerintahan-Nya tidak akan binasa dan kekuasaan-Nya tidak akan berakhir."

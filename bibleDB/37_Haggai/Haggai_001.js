@@ -3,19 +3,19 @@
 BibleDB.ref("Haggai",1,15);
 BibleDB.add([
   {Bible:"Haggai", Chapter:1, Verse:1, Page:1,
-    Kor:"<성전을 건축하라는 주님의 말씀> 다리우스 왕 이년 여섯째 달, 그 달 초하루에, 학개 예언자가 주님의 말씀을 받아서, 스알디엘의 아들 스룹바벨 유다 총독과 여호사닥의 아들 여호수아 대제사장에게 전하였다.",
+    Kor:"다리우스 왕 이년 여섯째 달, 그 달 초하루에, 학개 예언자가 주의 말씀을 받아서, 스알디엘의 아들 스룹바벨 유다 총독과 여호사닥의 아들 여호수아 대제사장에게 전하였다.",
     Chn:"大流士王第二年六月初一日，耶和华的话借先知哈该向犹大省长撒拉铁的儿子所罗巴伯和约撒答的儿子大祭司约书亚说：",
     Eng:"In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:",
     Ind:"Pada tahun yang kedua zaman raja Darius, dalam bulan yang keenam, pada hari pertama bulan itu, datanglah firman TUHAN dengan perantaraan nabi Hagai kepada Zerubabel bin Sealtiel, bupati Yehuda, dan kepada Yosua bin Yozadak, imam besar, bunyinya:"
   },
   {Bible:"Haggai", Chapter:1, Verse:2, Page:1,
-    Kor:"만군의 주님께서 이렇게 말씀하신다. \"이 백성이 말하기를 '때가 되지 않았다. 주님의 성전을 지을 때가 되지 않았다'고 한다.\"",
+    Kor:"만군의 주께서 이렇게 말씀하신다. \"이 백성이 말하기를 '때가 되지 않았다. 주의 성전을 지을 때가 되지 않았다'고 한다.\"",
     Chn:"万军之耶和华如此说：「这百姓说，建造耶和华殿的时候尚未来到。」",
     Eng:"This is what the LORD Almighty says: \"These people say, 'The time has not yet come for the LORD'S house to be built.'\"",
     Ind:"\"Beginilah firman TUHAN semesta alam: Bangsa ini berkata: Sekarang belum tiba waktunya untuk membangun kembali rumah TUHAN!\""
   },
   {Bible:"Haggai", Chapter:1, Verse:3, Page:1,
-    Kor:"학개 예언자가 주님의 말씀을 받아 전한다.",
+    Kor:"학개 예언자가 주의 말씀을 받아 전한다.",
     Chn:"那时耶和华的话临到先知哈该说：",
     Eng:"Then the word of the LORD came through the prophet Haggai:",
     Ind:"Maka datanglah firman TUHAN dengan perantaraan nabi Hagai, bunyinya:"
@@ -69,19 +69,19 @@ BibleDB.add([
     Ind:"dan Aku memanggil kekeringan datang ke atas negeri, ke atas gunung-gunung, ke atas gandum, ke atas anggur, ke atas minyak, ke atas segala yang dihasilkan tanah, ke atas manusia dan hewan dan ke atas segala hasil usaha.\""
   },
   {Bible:"Haggai", Chapter:1, Verse:12, Page:1,
-    Kor:"<성전 건축을 격려하다> ○스알디엘의 아들 스룹바벨과 여호사닥의 아들 여호수아 대제사장과 남아 있는 모든 백성이, 주 그들의 하나님이 하신 말씀과, 주 하나님이 보내신 학개 예언자가 한 말을 따랐다. 백성은 주님을 두려워하였다.",
+    Kor:"○스알디엘의 아들 스룹바벨과 여호사닥의 아들 여호수아 대제사장과 남아 있는 모든 백성이, 주 그들의 하나님이 하신 말씀과, 주 하나님이 보내신 학개 예언자가 한 말을 따랐다. 백성은 주를 두려워하였다.",
     Chn:"那时，撒拉铁的儿子所罗巴伯和约撒答的儿子大祭司约书亚，并剩下的百姓，都听从耶和华—他们　神的话和先知哈该奉耶和华—他们　神差来所说的话；百姓也在耶和华面前存敬畏的心。",
     Eng:"Then Zerubbabel son of Shealtiel, Joshua son of Jehozadak, the high priest, and the whole remnant of the people obeyed the voice of the LORD their God and the message of the prophet Haggai, because the LORD their God had sent him. And the people feared the LORD.",
     Ind:"Lalu Zerubabel bin Sealtiel dan Yosua bin Yozadak, imam besar, dan selebihnya dari bangsa itu mendengarkan suara TUHAN, Allah mereka, dan juga perkataan nabi Hagai, sesuai dengan apa yang disuruhkan kepadanya oleh TUHAN, Allah mereka; lalu takutlah bangsa itu kepada TUHAN."
   },
   {Bible:"Haggai", Chapter:1, Verse:13, Page:1,
-    Kor:"주님의 특사 학개는, 주님께서 하신 말씀을 백성에게 전하였다.  \"내가 너희와 함께 있겠다. 나 주의 말이다.\"",
+    Kor:"주의 특사 학개는, 주께서 하신 말씀을 백성에게 전하였다. \"내가 너희와 함께 있겠다. 나 주의 말이다.\"",
     Chn:"耶和华的使者哈该奉耶和华差遣对百姓说：「耶和华说：我与你们同在。」",
     Eng:"Then Haggai, the LORD'S messenger, gave this message of the LORD to the people: \"I am with you,\" declares the LORD.",
     Ind:"Maka berkatalah Hagai, utusan TUHAN itu, menurut pesan TUHAN kepada bangsa itu, demikian: \"Aku ini menyertai kamu, demikianlah firman TUHAN.\""
   },
   {Bible:"Haggai", Chapter:1, Verse:14, Page:1,
-    Kor:"○주님께서 스알디엘의 아들 스룹바벨 유다 총독의 마음과 여호사닥의 아들 여호수아 대제사장의 마음과 남아 있는 모든 백성의 마음을 감동시키셨다. 그래서 백성이 와서 그들의 하나님 만군의 주님의 성전을 짓는 일을 하였다.",
+    Kor:"○주께서 스알디엘의 아들 스룹바벨 유다 총독의 마음과 여호사닥의 아들 여호수아 대제사장의 마음과 남아 있는 모든 백성의 마음을 감동시키셨다. 그래서 백성이 와서 그들의 하나님 만군의 주의 성전을 짓는 일을 하였다.",
     Chn:"耶和华激动犹大省长撒拉铁的儿子所罗巴伯和约撒答的儿子大祭司约书亚，并剩下之百姓的心，他们就来为万军之耶和华—他们　神的殿做工。",
     Eng:"So the LORD stirred up the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest, and the spirit of the whole remnant of the people. They came and began to work on the house of the LORD Almighty, their God,",
     Ind:"TUHAN menggerakkan semangat Zerubabel bin Sealtiel, bupati Yehuda, dan semangat Yosua bin Yozadak, imam besar, dan semangat selebihnya dari bangsa itu, maka datanglah mereka, lalu melakukan pekerjaan pembangunan rumah TUHAN semesta alam, Allah mereka,"

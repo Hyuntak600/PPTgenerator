@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",8,40);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:8, Verse:1, Page:1,
-    Kor:"<베냐민의 자손> 베냐민은 맏아들 벨라와 둘째 아스벨과 셋째 아하라와",
+    Kor:"베냐민은 맏아들 벨라와 둘째 아스벨과 셋째 아하라와",
     Chn:"便雅悯的长子比拉，次子亚实别，三子亚哈拉，",
     Eng:"Benjamin was the father of Bela his firstborn, Ashbel the second son, Aharah the third,",
     Ind:"Benyamin memperanakkan Bela, anak sulungnya, Asybel, anak yang kedua, Ahrah, anak yang ketiga,"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Noha, anak yang keempat dan Rafa, anak yang kelima."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:3, Page:1,
-    Kor:"○벨라에게 자손이 있는데, 그들은 앗달과 게라와 a아비훗과(a 또는 '에훗의 아버지')",
+    Kor:"○벨라에게 자손이 있는데, 그들은 앗달과 게라와 아비훗과",
     Chn:"比拉的儿子是亚大、基拉、亚比忽、",
     Eng:"The sons of Bela were: Addar, Gera, Abihud,",
     Ind:"Anak-anak Bela ialah Adar, Gera, Abihud,"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Anak-anak Elpaal ialah Eber, Misam dan Semed; dia ini mendirikan kota Ono dan kota Lod dengan segala anak kotanya."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:13, Page:1,
-    Kor:"<갓과 아얄론의 베냐민 사람> ○브리아와 세마는 아얄론에 사는 가문들의 족장으로서, 이들이 가드 주민을 내쫓았다.",
+    Kor:"○브리아와 세마는 아얄론에 사는 가문들의 족장으로서, 이들이 가드 주민을 내쫓았다.",
     Chn:"又有比利亚和示玛是亚雅 居民的族长，是驱逐迦特人的。",
     Eng:"and Beriah and Shema, who were heads of families of those living in Aijalon and who drove out the inhabitants of Gath.",
     Ind:"Beria dan Sema adalah kepala-kepala puak penduduk Ayalon; mereka telah menghalau penduduk Gat."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Mikhael, Yispa dan Yoha ialah anak-anak Beria."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:17, Page:1,
-    Kor:"<예루살렘의 베냐민 사람들> ○스바댜와 므술람과 히스기와 헤벨과",
+    Kor:"○스바댜와 므술람과 히스기와 헤벨과",
     Chn:"西巴第雅、米书兰、希西基、希伯、",
     Eng:"Zebadiah, Meshullam, Hizki, Heber,",
     Ind:"Zebaja, Mesulam, Hizki, Heber,"
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Itulah para kepala puak, para kepala menurut keturunan mereka; mereka ini diam di Yerusalem."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:29, Page:1,
-    Kor:"<기브온과 예루살렘의 베냐민 사람> ○기브온의 b아버지 c여이엘이 기브온에 살았는데, 그 아내의 이름은 마아가이다.(b 또는 '성읍 지도자' 또는 '군지휘관'을 뜻하기도 함 c 칠십인역 사본들을 따름)",
+    Kor:"○기브온의 아버지 여이엘이 기브온에 살았는데, 그 아내의 이름은 마아가이다.",
     Chn:"在基遍住的有基遍的父亲耶利。他的妻名叫玛迦；",
     Eng:"Jeiel the father of Gibeon lived in Gibeon. His wife's name was Maacah,",
     Ind:"Tetapi di Gibeon diam bapa Gibeon, yakni Yeiel, dan nama isterinya ialah Maakha."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:30, Page:1,
-    Kor:"그의 맏아들은 압돈이며, 그 아래로 수르와 기스와 바알과 나답과",
+    Kor:"그의 맏아들은 압돈이며, 그 아래로 술과 기스와 바알과 나답과",
     Chn:"他长子是亚伯顿。他又生苏珥、基士、巴力、拿答、",
     Eng:"and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,",
     Ind:"Anak sulungnya ialah Abdon, lalu Zur, Kish, Baal, Nadab,"
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"dan Miklot yang memperanakkan Simea. Juga mereka ini pergi diam berdekatan dengan saudara-saudara mereka di Yerusalem bersama-sama saudara mereka yang lain."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:33, Page:1,
-    Kor:"<사울 왕의 가족> ○넬은 기스를 낳고, 기스는 사울을 낳고, 사울은 요나단과 말기수아와 아비나답과 d에스바알을 낳았다.(d 일명, '이스보셋')",
+    Kor:"○넬은 기스를 낳고, 기스는 사울을 낳고, 사울은 요나단과 말기수아와 아비나답과 에스바알을 낳았다.",
     Chn:"尼珥生基士；基士生扫罗；扫罗生约拿单、麦基舒亚、亚比拿达、伊施·巴力。",
     Eng:"Ner was the father of Kish, Kish the father of Saul, and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal.",
     Ind:"Ner memperanakkan Kish; Kish memperanakkan Saul; Saul memperanakkan Yonatan, Malkisua, Abinadab dan Esybaal."
   },
   {Bible:"1Chronicles", Chapter:8, Verse:34, Page:1,
-    Kor:"요나단의 아들은 e므립바알이며 므립바알은 미가를 낳았다.(e 일명, '므비보셋')",
+    Kor:"요나단의 아들은 므립바알이며 므립바알은 미가를 낳았다.",
     Chn:"约拿单的儿子是米力·巴力；米力·巴力生米迦。",
     Eng:"The son of Jonathan: Merib-Baal, who was the father of Micah.",
     Ind:"Anak Yonatan ialah Meribaal dan Meribaal memperanakkan Mikha."

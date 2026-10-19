@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",22,29);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:22, Verse:1, Page:1,
-    Kor:"<훈계의 가치…서른 가지 교훈> 많은 재산보다는 명예를 택하는 것이 낫고, 은이나 금보다는 은총을 택하는 것이 낫다.",
+    Kor:"많은 재산보다는 명예를 택하는 것이 낫고, 은이나 금보다는 은총을 택하는 것이 낫다.",
     Chn:"美名胜过大财； 恩宠强如金银。",
     Eng:"A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
     Ind:"Nama baik lebih berharga dari pada kekayaan besar, dikasihi orang lebih baik dari pada perak dan emas."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Orang kaya dan orang miskin bertemu; yang membuat mereka semua ialah TUHAN."
   },
   {Bible:"Proverbs", Chapter:22, Verse:3, Page:1,
-    Kor:"슬기로운 사람은 재앙을 보면 숨고 피하지만, a어수룩한 사람은 고집을 부리고 나아가다가 화를 입는다. (a '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"슬기로운 사람은 재앙을 보면 숨고 피하지만, 어수룩한 사람은 고집을 부리고 나아가다가 화를 입는다.",
     Chn:"通达人见祸藏躲； 愚蒙人前往受害。",
     Eng:"A prudent man sees danger and takes refuge, but the simple keep going and suffer for it.",
     Ind:"Kalau orang bijak melihat malapetaka, bersembunyilah ia, tetapi orang yang tak berpengalaman berjalan terus, lalu kena celaka."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Orang yang menabur kecurangan akan menuai bencana, dan tongkat amarahnya akan habis binasa."
   },
   {Bible:"Proverbs", Chapter:22, Verse:9, Page:1,
-    Kor:"남을 잘 보살펴 주는 사람이 복을 받는 것은, 그가 자기의 먹거리를 가난한 사람에게 나누어 주기 때문이다.",
+    Kor:"남을 잘 보살펴 주는 사람이 복을 받는 것은, 그가 자기의 먹을거리를 가난한 사람에게 나누어 주기 때문이다.",
     Chn:"眼目慈善的，就必蒙福， 因他将食物分给穷人。",
     Eng:"A generous man will himself be blessed, for he shares his food with the poor.",
     Ind:"Orang yang baik hati akan diberkati, karena ia membagi rezekinya dengan si miskin."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Supaya engkau menaruh kepercayaanmu kepada TUHAN, aku mengajarkannya kepadamu sekarang, ya kepadamu."
   },
   {Bible:"Proverbs", Chapter:22, Verse:20, Page:1,
-    Kor:"내가 너에게, 건전한 충고가 담긴 서른 가지 교훈을 써 주지 않았느냐?",
+    Kor:"내가 너에게 훈계와 지식이 담겨 있는 아름다운 교훈을 써 주지 않았느냐?",
     Chn:"谋略和知识的美事， 我岂没有写给你吗？",
     Eng:"Have I not written thirty sayings for you, sayings of counsel and knowledge,",
     Ind:"Bukankah aku telah menulisnya kepadamu dulu dengan nasihat dan pengetahuan,"
@@ -129,19 +129,19 @@ BibleDB.add([
     Ind:"untuk mengajarkan kepadamu apa yang benar dan sungguh, supaya engkau dapat memberikan jawaban yang tepat kepada yang menyuruh engkau."
   },
   {Bible:"Proverbs", Chapter:22, Verse:22, Page:1,
-    Kor:"<-1-> 가난하다고 하여 그 가난한 사람에게서 함부로 빼앗지 말고, 고생하는 사람을 법정에서 압제하지 말아라.",
+    Kor:"가난하다고 하여 그 가난한 사람에게서 함부로 빼앗지 말고, 고생하는 사람을 법정에서 압제하지 말아라.",
     Chn:"贫穷人，你不可因他贫穷就抢夺他的物， 也不可在城门口欺压困苦人；",
     Eng:"Do not exploit the poor because they are poor and do not crush the needy in court,",
     Ind:"Janganlah merampasi orang lemah, karena ia lemah, dan janganlah menginjak-injak orang yang berkesusahan di pintu gerbang."
   },
   {Bible:"Proverbs", Chapter:22, Verse:23, Page:1,
-    Kor:"주님께서 그들의 송사를 맡아 주시고, 그들을 노략하는 사람의 목숨을 빼앗으시기 때문이다.",
+    Kor:"주께서 그들의 송사를 맡아 주시고, 그들을 노략하는 사람의 목숨을 빼앗으시기 때문이다.",
     Chn:"因耶和华必为他辨屈； 抢夺他的，耶和华必夺取那人的命。",
     Eng:"for the LORD will take up their case and will plunder those who plunder them.",
     Ind:"Sebab TUHAN membela perkara mereka, dan mengambil nyawa orang yang merampasi mereka."
   },
   {Bible:"Proverbs", Chapter:22, Verse:24, Page:1,
-    Kor:"<-2-> 성급한 사람과 사귀지 말고, 성을 잘 내는 사람과 함께 다니지 말아라.",
+    Kor:"성급한 사람과 사귀지 말고, 성을 잘 내는 사람과 함께 다니지 말아라.",
     Chn:"好生气的人，不可与他结交； 暴怒的人，不可与他来往；",
     Eng:"Do not make friends with a hot-tempered man, do not associate with one easily angered,",
     Ind:"Jangan berteman dengan orang yang lekas gusar, jangan bergaul dengan seorang pemarah,"
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"supaya engkau jangan menjadi biasa dengan tingkah lakunya dan memasang jerat bagi dirimu sendiri."
   },
   {Bible:"Proverbs", Chapter:22, Verse:26, Page:1,
-    Kor:"<-3-> 이웃의 손을 잡고 서약하거나, 남의 빚에 보증을 서지 말아라.",
+    Kor:"이웃의 손을 잡고 서약하거나, 남의 빚에 보증을 서지 말아라.",
     Chn:"不要与人击掌， 不要为欠债的作保。",
     Eng:"Do not be a man who strikes hands in pledge or puts up security for debts;",
     Ind:"Jangan engkau termasuk orang yang membuat persetujuan, dan yang menjadi penanggung hutang."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Mengapa orang akan mengambil tempat tidurmu dari bawahmu, bila engkau tidak mempunyai apa-apa untuk membayar kembali?"
   },
   {Bible:"Proverbs", Chapter:22, Verse:28, Page:1,
-    Kor:"<-4-> 너의 선조들이 세워 놓은 그 옛 경계표를 옮기지 말아라.",
+    Kor:"너의 선조들이 세워 놓은 그 옛 경계표를 옮기지 말아라.",
     Chn:"你先祖所立的地界， 你不可挪移。",
     Eng:"Do not move an ancient boundary stone set up by your forefathers.",
     Ind:"Jangan engkau memindahkan batas tanah yang lama, yang ditetapkan oleh nenek moyangmu."
   },
   {Bible:"Proverbs", Chapter:22, Verse:29, Page:1,
-    Kor:"<-5-> 자기 일에 능숙한 사람을 네가 보았을 것이다. 그런 사람은 왕을 섬길 것이요, 대수롭지 않은 사람을 섬기지는 않을 것이다.",
+    Kor:"자기 일에 능숙한 사람을 네가 보았을 것이다. 그런 사람은 왕을 섬길 것이요, 대수롭지 않은 사람을 섬기지는 않을 것이다.",
     Chn:"你看见办事殷勤的人吗？ 他必站在君王面前， 必不站在下贱人面前。",
     Eng:"Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.",
     Ind:"Pernahkah engkau melihat orang yang cakap dalam pekerjaannya? Di hadapan raja-raja ia akan berdiri, bukan di hadapan orang-orang yang hina."

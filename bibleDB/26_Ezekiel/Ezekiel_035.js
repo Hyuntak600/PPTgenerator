@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",35,15);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:35, Verse:1, Page:1,
-    Kor:"<에돔에 대한 심판> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:35, Verse:2, Page:1,
-    Kor:"○\"사람아, 너의 얼굴을 세일 산 쪽으로 돌리고, 그 곳을 규탄하여 예언하여라.",
+    Kor:"\"사람아, 너의 얼굴을 세일 산 쪽으로 돌리고, 그 곳을 규탄하여 예언하여라.",
     Chn:"「人子啊，你要面向西珥山发预言，攻击它，",
     Eng:"\"Son of man, set your face against Mount Seir; prophesy against it",
     Ind:"\"Hai anak manusia, tujukanlah mukamu kepada pegunungan Seir, bernubuatlah melawan dia"
   },
   {Bible:"Ezekiel", Chapter:35, Verse:3, Page:1,
-    Kor:"너는 그 곳을 규탄하여 말하여라.  '나 주 하나님이 이렇게 말한다. 세일 산아! 내가 너를 대적한다. 내가 내 손을 펴서 너를 치고, 너를 황무지와 폐허로 만들겠다.",
+    Kor:"너는 그 곳을 규탄하여 말하여라. '나 주 하나님이 이렇게 말한다. 세일 산아! 내가 너를 대적한다. 내가 내 손을 펴서 너를 치고, 너를 황무지와 폐허로 만들겠다.",
     Chn:"对它说，主耶和华如此说：西珥山哪，我与你为敌，必向你伸手攻击你，使你荒凉，令人惊骇。",
     Eng:"and say: 'This is what the Sovereign LORD says: I am against you, Mount Seir, and I will stretch out my hand against you and make you a desolate waste.",
     Ind:"dan katakanlah kepadanya: Beginilah firman Tuhan ALLAH: Aku akan menjadi lawanmu, hai pegunungan Seir dan Aku akan mengacungkan tangan-Ku melawanmu dan akan menjadikan engkau musnah dan sunyi sepi."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Aku akan menjadikan engkau sunyi sepi untuk selama-lamanya dan kota-kotamu tidak akan didiami lagi. Dan kamu akan mengetahui bahwa Akulah TUHAN."
   },
   {Bible:"Ezekiel", Chapter:35, Verse:10, Page:1,
-    Kor:"○너는, 나 주가 유다와 이스라엘을 돌보는데도 감히 말하기를, 그 두 민족과 그 두 나라가 네 것이 되고 네 소유가 될 것이라고 하였다.",
+    Kor:"○너는, 나 주가 유다와 이스라엘을 돌보는데도 감히 말하기를 그 두 민족과 그 두 나라가 네 것이 되고, 네 소유가 될 것이라고 하였다.",
     Chn:"「因为你曾说：『这二国这二邦必归于我，我必得为业』（其实耶和华仍在那里），",
     Eng:"\"'Because you have said, \"These two nations and countries will be ours and we will take possession of them,\" even though I the LORD was there,",
     Ind:"Oleh sebab engkau mengatakan: Kedua bangsa itu dan kedua negeri itu akan menjadi milikku dan kita akan memilikinya--sebetulnya TUHAN ada di situ--"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"oleh sebab itu, demi Aku yang hidup, demikianlah firman Tuhan ALLAH, Aku akan memperlakukan engkau seperti engkau memperlakukan mereka dalam murkamu dan cemburumu, yang timbul dari kebencianmu terhadap mereka; dan Aku akan menyatakan diri kepadamu pada saat Aku menghakimi engkau."
   },
   {Bible:"Ezekiel", Chapter:35, Verse:12, Page:1,
-    Kor:"그 때에야 비로소 너는, 내가 주인 줄 알게 될 것이다. 네가 또 이스라엘의 산을 가리켜 말하기를, 저 산들이 황폐해졌으니 너희의 것이 되었다고 말하며 조롱하였지만, 내가 너에게 보복하는 날, 너는 네가 조롱하는 소리를 내가 다 들었다는 것을 알게 될 것이다.",
+    Kor:"그 때에야 비로소 너는, 내가 주인 줄 알게 될 것이다. 네가 또 이스라엘의 산을 가리켜 말하기를 저 산들이 황폐해졌으니 너희의 것이 되었다고 말하며, 조롱하였지만, 내가 너에게 보복하는 날, 너는, 네가 조롱하는 소리를 내가 다 들었다는 것을 알게 될 것이다.",
     Chn:"你也必知道我—耶和华听见了你的一切毁谤，就是你攻击以色列山的话，说：『这些山荒凉，是归我们吞灭的。』",
     Eng:"Then you will know that I the LORD have heard all the contemptible things you have said against the mountains of Israel. You said, \"They have been laid waste and have been given over to us to devour.\"",
     Ind:"Dan engkau akan mengetahui bahwa Aku, TUHAN, mendengar segala penistaanmu yang kauucapkan melawan gunung-gunung Israel yang demikian: Gunung-gunung itu sudah menjadi sunyi sepi dan diserahkan kepada kita menjadi makanan kita."

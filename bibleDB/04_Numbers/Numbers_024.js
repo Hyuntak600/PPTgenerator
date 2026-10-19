@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",24,25);
 BibleDB.add([
   {Bible:"Numbers", Chapter:24, Verse:1, Page:1,
-    Kor:"발람은 자기가 이스라엘에게 복을 빌어 주는 것이 주님의 눈에 좋게 보였다는 것을 알고는, 매번 으레 하던 것처럼 마술을 쓰려 하지 않고, 대신 광야 쪽으로 얼굴만 돌렸다.",
+    Kor:"발람은 자기가 이스라엘에게 복을 빌어 주는 것이 주의 눈에 좋게 보였다는 것을 알고는, 매번 으레 하던 것처럼 마술을 쓰려 하지 않고, 대신 광야 쪽으로 얼굴만 돌렸다.",
     Chn:"巴兰见耶和华喜欢赐福与以色列，就不像前两次去求法术，却面向旷野。",
     Eng:"Now when Balaam saw that it pleased the LORD to bless Israel, he did not resort to sorcery as at other times, but turned his face toward the desert.",
     Ind:"Ketika dilihat Bileam, bahwa baik di mata TUHAN untuk memberkati Israel, ia tidak mencarikan pertanda lagi seperti yang sudah-sudah, tetapi ia menghadapkan mukanya ke arah padang gurun."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Ketika Bileam memandang ke depan dan melihat orang Israel berkemah menurut suku mereka, maka Roh Allah menghinggapi dia."
   },
   {Bible:"Numbers", Chapter:24, Verse:3, Page:1,
-    Kor:"그는 예언을 선포하였다.  \"브올의 아들 발람의 말이다. 눈을 뜬 사람의 말이다.",
+    Kor:"그는 예언을 선포하였다.",
     Chn:"他便题起诗歌说： 比珥的儿子巴兰说， 眼目闭住的人说，",
     Eng:"and he uttered his oracle: \"The oracle of Balaam son of Beor, the oracle of one whose eye sees clearly,",
     Ind:"Lalu diucapkannyalah sanjaknya, katanya: \"Tutur kata Bileam bin Beor, tutur kata orang yang terbuka matanya;"
   },
   {Bible:"Numbers", Chapter:24, Verse:4, Page:1,
-    Kor:"하나님의 말씀을 듣는 사람의 말이다. 환상으로 a전능자를 뵙고 넘어졌으나, 오히려 두 눈을 밝히 뜬 사람의 말이다. (a 히, '샤다이')",
+    Kor:"하나님의 말씀을 듣는 사람의 말이다. 환상으로 전능자를 뵙고 넘어졌으나, 오히려 두 눈을 밝히 뜬 사람의 말이다.",
     Chn:"得听　神的言语， 得见全能者的异象， 眼目睁开而仆倒的人说：",
     Eng:"the oracle of one who hears the words of God, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:",
     Ind:"tutur kata orang yang mendengar firman Allah, yang melihat penglihatan dari Yang Mahakuasa sambil rebah, namun dengan mata tersingkap."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Alangkah indahnya kemah-kemahmu, hai Yakub, dan tempat-tempat kediamanmu, hai Israel!"
   },
   {Bible:"Numbers", Chapter:24, Verse:6, Page:1,
-    Kor:"계곡처럼 뻗었구나. 강가의 동산 같구나. 주님께서 심으신 침향목 같구나. 냇가의 백향목 같구나.",
+    Kor:"계곡처럼 뻗었구나. 강가의 동산 같구나. 주께서 심으신 침향목 같구나. 냇가의 백향목 같구나.",
     Chn:"如接连的山谷， 如河旁的园子， 如耶和华所栽的沉香树， 如水边的香柏木。",
     Eng:"\"Like valleys they spread out, like gardens beside a river, like aloes planted by the LORD, like cedars beside the waters.",
     Ind:"Sebagai lembah yang membentang semuanya; sebagai taman di tepi sungai; sebagai pohon gaharu yang ditanam TUHAN; sebagai pohon aras di tepi air."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Allah, yang membawa mereka keluar dari Mesir, adalah bagi mereka seperti tanduk kekuatan lembu hutan. Bangsa-bangsa yang menjadi lawannya akan ditelannya habis, dan tulang-tulang mereka akan dihancurkannya dan akan ditembaknya tembus dengan panah-panahnya."
   },
   {Bible:"Numbers", Chapter:24, Verse:9, Page:1,
-    Kor:"엎드리고 웅크린 모양이 수사자 같기도 하고, 암사자 같기도 하니, 누가 감히 일으킬 수 있으랴! 너에게 복을 비는 이마다 복을 받을 것이요, 너를 저주하는 자마다 저주를 받을 것이다.\"",
+    Kor:"엎드리고 웅크린 모양이 수사자 같기도 하고, 암사자 같기도 하니, 누가 감히 일으킬 수 있으랴! 너에게 복을 비는 이마다 복을 받을 것이요, 너를 저주하는 자마다 저주를 받을 것이다.",
     Chn:"他蹲如公狮， 卧如母狮，谁敢惹他？ 凡给你祝福的，愿他蒙福； 凡咒诅你的，愿他受咒诅。",
     Eng:"Like a lion they crouch and lie down, like a lioness--who dares to rouse them? \"May those who bless you be blessed and those who curse you be cursed!\"",
     Ind:"Ia meniarap dan merebahkan diri sebagai singa jantan, dan sebagai singa betina; siapakah yang berani membangunkannya? Diberkatilah orang yang memberkati engkau, dan terkutuklah orang yang mengutuk engkau!\""
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Lalu bangkitlah amarah Balak terhadap Bileam dan dengan meremas-remas jarinya berkatalah ia kepada Bileam: \"Untuk menyerapah musuhku aku memanggil engkau, tetapi sebaliknya sampai tiga kali engkau memberkati mereka."
   },
   {Bible:"Numbers", Chapter:24, Verse:11, Page:1,
-    Kor:"이제 곧 당신이 떠나왔던 그 곳으로 빨리 가 버리시오. 나는 당신에게 후하게 보답하겠다고 말하였소. 그러나 보시오! 주님께서 당신이 후하게 보답받는 것을 막으셨소.\"",
+    Kor:"이제 곧 당신이 떠나왔던 그 곳으로 빨리 가 버리시오. 나는 당신에게 후하게 보답하겠다고 말하였소. 그러나 보시오! 주께서 당신이 후하게 보답받는 것을 막으셨소.\"",
     Chn:"如今你快回本地去吧！我想使你得大尊荣，耶和华却阻止你不得尊荣。」",
     Eng:"Now leave at once and go home! I said I would reward you handsomely, but the LORD has kept you from being rewarded.\"",
     Ind:"Oleh sebab itu, enyahlah engkau ke tempat kediamanmu; aku telah berkata kepadamu aku telah bermaksud memberi banyak upah kepadamu, tetapi TUHAN telah mencegah engkau memperolehnya.\""
@@ -75,31 +75,31 @@ BibleDB.add([
     Ind:"Tetapi berkatalah Bileam kepada Balak: \"Bukankah telah kukatakan juga kepada utusan-utusan yang kaukirim kepadaku:"
   },
   {Bible:"Numbers", Chapter:24, Verse:13, Page:1,
-    Kor:"발락 임금님께서 비록 그의 궁궐에 가득한 금과 은을 나에게 준다 해도, 좋은 일이든 나쁜 일이든 간에, 주님의 명을 어기고 나의 마음대로 할 수 있는 일은 아무것도 없습니다. 나는 다만 주님께서 말씀하신 것만 말해야 합니다.\"",
+    Kor:"발락이 비록 그의 궁궐에 가득한 금과 은을 나에게 준다 해도, 좋은 일이든 나쁜 일이든 간에, 주의 명을 어기고 나의 마음대로 할 수 있는 일은 아무것도 없습니다. 나는 다만 주께서 말씀하신 것만 말해야 합니다.",
     Chn:"『巴勒就是将他满屋的金银给我，我也不得越过耶和华的命，凭自己的心意行好行歹。耶和华说什么，我就要说什么』？」",
     Eng:"'Even if Balak gave me his palace filled with silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD--and I must say only what the LORD says'?",
     Ind:"Sekalipun Balak memberikan kepadaku emas dan perak seistana penuh, aku tidak akan sanggup melanggar titah TUHAN dengan berbuat baik atau jahat atas kemauanku sendiri; apa yang akan difirmankan TUHAN, itulah yang akan kukatakan."
   },
   {Bible:"Numbers", Chapter:24, Verse:14, Page:1,
-    Kor:"<발람의 마지막 예언> ○\"이제 나는 나의 백성에게로 갑니다. 그러나 들어 보십시오. 앞으로 이 백성이 임금님의 백성에게 어떻게 할 것인지, 내가 감히 말씀드리고자 합니다.\"",
+    Kor:"○이제 나는 나의 백성에게로 갑니다. 그러나 들어 보십시오. 앞으로 이 백성이 임금님의 백성에게 어떻게 할 것인지, 내가 감히 말씀드리고자 합니다.\"",
     Chn:"「现在我要回本族去。你来，我告诉你这民日后要怎样待你的民。」",
     Eng:"Now I am going back to my people, but come, let me warn you of what this people will do to your people in days to come.\"",
     Ind:"Dan sekarang, aku ini sudah hendak pergi kepada bangsaku; marilah kuberitahukan kepadamu apa yang akan dilakukan bangsa itu kepada bangsamu di kemudian hari.\""
   },
   {Bible:"Numbers", Chapter:24, Verse:15, Page:1,
-    Kor:"발람이 예언을 선포하였다.  \"브올의 아들 발람의 말이다. 눈을 뜬 사람의 말이다.",
+    Kor:"발람이 예언을 선포하였다.",
     Chn:"他就题起诗歌说： 比珥的儿子巴兰说： 眼目闭住的人说，",
     Eng:"Then he uttered his oracle: \"The oracle of Balaam son of Beor, the oracle of one whose eye sees clearly,",
     Ind:"Lalu diucapkannyalah sanjaknya, katanya: \"Tutur kata Bileam bin Beor, tutur kata orang yang terbuka matanya;"
   },
   {Bible:"Numbers", Chapter:24, Verse:16, Page:1,
-    Kor:"하나님 말씀을 듣는 사람의 말이다. 가장 높으신 분께서 주신 지식을 가진 사람의 말이다. 환상으로 전능자를 뵙고 넘어졌으나, 오히려 두 눈을 밝히 뜬 사람의 말이다.",
+    Kor:"하나님의 말씀을 듣는 사람의 말이다. 가장 높으신 분께서 주신 지식을 가진 사람의 말이다. 환상으로 전능자를 뵙고 넘어졌으나, 오히려 두 눈을 밝히 뜬 사람의 말이다.",
     Chn:"得听　神的言语， 明白至高者的意旨， 看见全能者的异象， 眼目睁开而仆倒的人说：",
     Eng:"the oracle of one who hears the words of God, who has knowledge from the Most High, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:",
     Ind:"tutur kata orang yang mendengar firman Allah, dan yang beroleh pengenalan akan Yang Mahatinggi, yang melihat penglihatan dari Yang Mahakuasa, sambil rebah, namun dengan mata tersingkap."
   },
   {Bible:"Numbers", Chapter:24, Verse:17, Page:1,
-    Kor:"나는 한 모습을 본다. 그러나 당장 나타날 모습은 아니다. 나는 그 모습을 환히 본다. 그러나 가까이에 있는 모습은 아니다. 한 별이 야곱에게서 나올 것이다. 한 통치 지팡이가 이스라엘에서 일어설 것이다. 그가 모압의 이마를 칠 것이다. b셋 자손의 영토를 칠 것이다. (b '소동하는')",
+    Kor:"나는 한 모습을 본다. 그러나 당장 나타날 모습은 아니다. 나는 그 모습을 환히 본다. 그러나 가까이에 있는 모습은 아니다. 한 별이 야곱에게서 나올 것이다. 한 홀이 이스라엘에서 일어설 것이다. 그가 모압의 이마를 칠 것이다. 셋 자손의 영토를 칠 것이다.",
     Chn:"我看他却不在现时； 我望他却不在近日。 有星要出于雅各，有杖要兴于以色列， 必打破摩押的四角，毁坏扰乱之子。",
     Eng:"\"I see him, but not now; I behold him, but not near. A star will come out of Jacob; a scepter will rise out of Israel. He will crush the foreheads of Moab, the skulls of all the sons of Sheth.",
     Ind:"Aku melihat dia, tetapi bukan sekarang; aku memandang dia, tetapi bukan dari dekat; bintang terbit dari Yakub, tongkat kerajaan timbul dari Israel, dan meremukkan pelipis-pelipis Moab, dan menghancurkan semua anak Set."
@@ -111,37 +111,37 @@ BibleDB.add([
     Ind:"Maka Edom akan menjadi tanah pendudukan dan Seir akan menjadi tanah pendudukan--musuh-musuhnya itu. Tetapi Israel akan melakukan perbuatan-perbuatan yang gagah perkasa,"
   },
   {Bible:"Numbers", Chapter:24, Verse:19, Page:1,
-    Kor:"야곱에게서 통치자가 나와서, 그 성읍에 살아 남은 자들을 죽일 것이다.\"",
+    Kor:"야곱에게서 통치자가 나와서, 그 성읍에 살아 남은 자들을 죽일 것이다.",
     Chn:"有一位出于雅各的，必掌大权； 他要除灭城中的余民。",
     Eng:"A ruler will come out of Jacob and destroy the survivors of the city.\"",
     Ind:"dan dari Yakub akan timbul seorang penguasa, yang akan membinasakan orang-orang yang melarikan diri dari kota.\""
   },
   {Bible:"Numbers", Chapter:24, Verse:20, Page:1,
-    Kor:"○또 그는 아말렉을 바라보면서 예언을 선포하였다.  \"아말렉은 민족들 가운데서 으뜸이었으나, 마침내 그는 망할 것이다.\"",
+    Kor:"○또 그는 아말렉을 바라보면서 예언을 선포하였다. 아말렉은 민족들 가운데서 으뜸이었으나, 마침내 그는 망할 것이다.",
     Chn:"巴兰观看亚玛力，就题起诗歌说： 亚玛力原为诸国之首， 但他终必沉沦。",
     Eng:"Then Balaam saw Amalek and uttered his oracle: \"Amalek was first among the nations, but he will come to ruin at last.\"",
     Ind:"Ketika ia melihat orang Amalek, diucapkannyalah sanjaknya, katanya: \"Yang pertama di antara bangsa-bangsa ialah Amalek, tetapi akhirnya ia akan sampai kepada kebinasaan.\""
   },
   {Bible:"Numbers", Chapter:24, Verse:21, Page:1,
-    Kor:"○또 그는 가인 족속을 바라보면서, 예언을 선포하였다.  \"네가 사는 곳은 든든하다. 너희 보금자리는 바위 위에 있다.",
+    Kor:"○또 그는 가인 족속을 바라보면서, 예언을 선포하였다. 네가 사는 곳은 든든하다. 너희 보금자리는 바위 위에 있다.",
     Chn:"巴兰观看基尼人，就题起诗歌说： 你的住处本是坚固； 你的窝巢做在岩穴中。",
     Eng:"Then he saw the Kenites and uttered his oracle: \"Your dwelling place is secure, your nest is set in a rock;",
     Ind:"Ketika ia melihat orang Keni, diucapkannyalah sanjaknya, katanya: \"Kokoh tempat kediamanmu, tertaruh di atas bukit batu sarangmu,"
   },
   {Bible:"Numbers", Chapter:24, Verse:22, Page:1,
-    Kor:"그러나 가인은 쇠약하여질 것이다. 앗시리아의 포로가 될 것이다.\"",
+    Kor:"그러나 가인은 쇠약하여질 것이다. 앗시리아의 포로가 될 것이다.",
     Chn:"然而基尼必至衰微， 直到亚述把你掳去。",
     Eng:"yet you Kenites will be destroyed when Asshur takes you captive.\"",
     Ind:"namun orang Keni akan hapus; berapa lama lagi maka Asyur akan menawan engkau?\""
   },
   {Bible:"Numbers", Chapter:24, Verse:23, Page:1,
-    Kor:"○또 그는 예언을 선포하였다.  \"큰일이다. 하나님이 이 일을 하실 때에, 누가 살아 남을 수 있으랴?",
+    Kor:"○또 그는 예언을 선포하였다. 큰일이다. 하나님이 이 일을 하실 때에, 누가 살아 남을 수 있으랴?",
     Chn:"巴兰又题起诗歌说： 哀哉！　神行这事，谁能得活？",
     Eng:"Then he uttered his oracle: \"Ah, who can live when God does this?",
     Ind:"Diucapkannyalah juga sanjaknya, katanya: \"Celaka! Siapakah yang akan hidup, apabila Allah melakukan hal itu?"
   },
   {Bible:"Numbers", Chapter:24, Verse:24, Page:1,
-    Kor:"함대들이 c키프로스 쪽에서 온다. 그것들이 앗시리아를 괴롭히고, 에벨도 괴롭힐 것이다. 그러나 그것들마저도 망하고야 말 것이다.\" (c 히, '깃딤')",
+    Kor:"함대들이 깃딤 쪽에서 온다. 그것들이 앗시리아를 괴롭히고, 에벨도 괴롭힐 것이다. 그러나 그것들마저도 망하고야 말 것이다.",
     Chn:"必有人乘船从基提界而来， 苦害亚述，苦害希伯； 他也必至沉沦。",
     Eng:"Ships will come from the shores of Kittim; they will subdue Asshur and Eber, but they too will come to ruin.\"",
     Ind:"Tetapi kapal-kapal akan datang dari pantai orang Kitim, mereka akan menindas Asyur dan menindas Heber, lalu iapun juga akan sampai kepada kebinasaan.\""

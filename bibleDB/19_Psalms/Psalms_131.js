@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",131,3);
 BibleDB.add([
   {Bible:"Psalms", Chapter:131, Verse:1, Page:1,
-    Kor:"<다윗의 시, 성전에 올라가는 순례자의 노래> 주님, 이제 내가 교만한 마음을 버렸습니다. 오만한 길에서 돌아섰습니다. 너무 큰 것을 가지려고 나서지 않으며, 분에 넘치는 놀라운 일을 이루려고도 하지 않습니다.",
+    Kor:"주님, 이제 내가 교만한 마음을 버렸습니다. 오만한 길에서 돌아섰습니다. 너무 큰 것을 가지려고 나서지 않으며, 분에 넘치는 놀라운 일을 이루려고도 하지 않습니다.",
     Chn:"大卫上行之诗。 耶和华啊，我的心不狂傲， 我的眼不高大； 重大和测不透的事， 我也不敢行。",
     Eng:"My heart is not proud, O LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me.",
     Ind:"Nyanyian ziarah Daud. TUHAN, aku tidak tinggi hati, dan tidak memandang dengan sombong; aku tidak mengejar hal-hal yang terlalu besar atau hal-hal yang terlalu ajaib bagiku."

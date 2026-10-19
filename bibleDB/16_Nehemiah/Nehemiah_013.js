@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",13,31);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:13, Verse:1, Page:1,
-    Kor:"<느헤미야의 개혁> 그 날, 백성에게 모세의 책을 읽어 주었는데, 거기에서 그들은 다음과 같이 적혀 있는 것을 발견하였다. \"암몬 사람과 모압 사람은 영원히 하나님의 총회에 참석하지 못한다.",
+    Kor:"그 날, 백성에게 모세의 책을 읽어 주었는데, 거기에서 그들은 다음과 같이 적혀 있는 것을 발견하였다. \"암몬 사람과 모압 사람은 영원히 하나님의 총회에 참석하지 못한다.",
     Chn:"当日，人念摩西的律法书给百姓听，遇见书上写着说，亚扪人和摩押人永不可入　神的会；",
     Eng:"On that day the Book of Moses was read aloud in the hearing of the people and there it was found written that no Ammonite or Moabite should ever be admitted into the assembly of God,",
     Ind:"Pada masa itu bagian-bagian dari pada kitab Musa dibacakan dengan didengar oleh rakyat. Didapati tertulis dalam kitab itu, bahwa orang Amon dan orang Moab tidak boleh masuk jemaah Allah untuk selamanya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Juga kudapati bahwa sumbangan-sumbangan bagi orang-orang Lewi tidak pernah diberikan, sehingga orang-orang Lewi dan para penyanyi yang bertugas masing-masing lari ke ladangnya."
   },
   {Bible:"Nehemiah", Chapter:13, Verse:11, Page:1,
-    Kor:"그래서 나는, 어쩌자고 하나님의 성전을 이렇게 내버려 두었느냐고 관리들을 꾸짖고, 곧 레위 사람들을 불러모아서 다시 일을 맡아 보게 하였다.",
+    Kor:"그래서 나는, 어쩌자고 하나님의 성전을 이렇게 내버려 두었느냐고 관리들을 꾸짖고, 곧 레위 사람들을 불러모아서, 다시 일을 맡아 보게 하였다.",
     Chn:"我就斥责官长说：「为何离弃　神的殿呢？」我便招聚利未人，使他们照旧供职。",
     Eng:"So I rebuked the officials and asked them, \"Why is the house of God neglected?\" Then I called them together and stationed them at their posts.",
     Ind:"Aku menyesali para penguasa, kataku: \"Mengapa rumah Allah dibiarkan begitu saja?\" Lalu kukumpulkan orang-orang Lewi itu dan kukembalikan pada tempatnya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Maka seluruh orang Yehuda membawa lagi persembahan persepuluhan dari pada gandum, anggur dan minyak ke perbendaharaan."
   },
   {Bible:"Nehemiah", Chapter:13, Verse:13, Page:1,
-    Kor:"나는 셀레먀 제사장과 사독 서기관과 레위 사람 브다야를 창고 책임자로 삼고, 맛다니야의 손자이며 삭굴의 아들인 하난을 버금 책임자로 삼았다. 그들은 모두 정직하다고 인정을 받는 사람들이다. 그들이 맡은 일은, 동료들에게 돌아갈 몫을 골고루 나누어 주는 일이었다.",
+    Kor:"나는 셀레먀 제사장과 사독 서기관과 레위 사람 브다야를 창고 책임자로 삼고, 맛다냐의 손자이며 삭굴의 아들인 하난을 버금 책임자로 삼았다. 그들은 모두 정직하다고 인정을 받는 사람들이다. 그들이 맡은 일은, 동료들에게 돌아갈 몫을 골고루 나누어 주는 일이었다.",
     Chn:"我派祭司示利米雅、文士撒督，和利未人毗大雅作库官管理库房；副官是哈难。哈难是撒刻的儿子；撒刻是玛他尼的儿子。这些人都是忠信的，他们的职分是将所供给的分给他们的弟兄。",
     Eng:"I put Shelemiah the priest, Zadok the scribe, and a Levite named Pedaiah in charge of the storerooms and made Hanan son of Zaccur, the son of Mattaniah, their assistant, because these men were considered trustworthy. They were made responsible for distributing the supplies to their brothers.",
     Ind:"Sebagai pengawas-pengawas perbendaharaan kuangkat imam Selemya dan Zadok, seorang ahli kitab, dan Pedaya, seorang Lewi, sedang Hanan bin Zakur bin Matanya diperbantukan kepada mereka, karena orang-orang itu dianggap setia. Mereka diserahi tugas untuk mengurus pembagian kepada saudara-saudara mereka."
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Sebagian dari anak-anak mereka berbicara bahasa Asdod atau bahasa bangsa lain itu dan tidak tahu berbicara bahasa Yahudi."
   },
   {Bible:"Nehemiah", Chapter:13, Verse:25, Page:1,
-    Kor:"나는 그 아버지들을 나무라고, 저주받을 것이라고 하면서 야단을 치고, 그들 가운데 몇몇을 때리기도 하였으며, 머리털을 뽑기까지 하였다. 그런 다음에 하나님을 두고서 맹세하게 하였다. \"당신들은 당신들의 딸들을 이방 사람의 아들에게 주지 마시오. 당신들과 당신들의 아들들도 이방 사람의 딸을 아내로 데려와서는 안 되오.",
+    Kor:"나는 그 아버지들을 나무라고, 저주받을 것이라고 하면서 야단을 치고, 그들 가운데 몇몇을 때리기도 하였으며, 머리털을 뽑기까지 하였다. 그런 다음에, 하나님을 두고서 맹세하게 하였다. \"너희는 너희 딸들을 이방 사람의 아들에게 주지 말아라. 너희와 너희 아들들도 이방 사람의 딸을 아내로 데려와서는 안 된다.",
     Chn:"我就斥责他们，咒诅他们，打了他们几个人，拔下他们的头发，叫他们指着　神起誓，必不将自己的女儿嫁给外邦人的儿子，也不为自己和儿子娶他们的女儿。",
     Eng:"I rebuked them and called curses down on them. I beat some of the men and pulled out their hair. I made them take an oath in God's name and said: \"You are not to give your daughters in marriage to their sons, nor are you to take their daughters in marriage for your sons or for yourselves.",
     Ind:"Aku menyesali mereka, kukutuki mereka, dan beberapa orang di antara mereka kupukuli dan kucabut rambutnya dan kusuruh mereka bersumpah demi Allah, demikian: \"Jangan sekali-kali kamu serahkan anak-anak perempuanmu kepada anak-anak lelaki mereka, atau mengambil anak-anak perempuan mereka sebagai isteri untuk anak-anak lelakimu atau untuk dirimu sendiri!"
   },
   {Bible:"Nehemiah", Chapter:13, Verse:26, Page:1,
-    Kor:"이스라엘 왕 솔로몬이 죄를 지은 것도, 바로 이방 여자와 결혼한 일이 아니오? 어느 민족에도 그만한 왕이 없었소. 그는 하나님의 사랑을 한 몸에 받았으며, 하나님은 그를 온 이스라엘의 왕으로 삼으셨소. 그러나 그마저 죄를 짓게 된 것은 이방 아내들 때문이오.",
+    Kor:"이스라엘 왕 솔로몬이 죄를 지은 것도, 바로 이방 여자와 결혼한 일이 아니냐? 어느 민족에도 그만한 왕이 없었다. 그는 하나님의 사랑을 한 몸에 받았으며, 하나님은 그를 온 이스라엘의 왕으로 삼으셨다. 그러나 그마저 죄를 짓게 된 것은 이방 아내들 때문이다.",
     Chn:"我又说：「以色列王所罗门不是在这样的事上犯罪吗？在多国中并没有一王像他，且蒙他　神所爱，　神立他作以色列全国的王；然而连他也被外邦女子引诱犯罪。",
     Eng:"Was it not because of marriages like these that Solomon king of Israel sinned? Among the many nations there was no king like him. He was loved by his God, and God made him king over all Israel, but even he was led into sin by foreign women.",
     Ind:"Bukankah Salomo, raja Israel, telah berbuat dosa karena hal semacam itu? Walaupun di antara begitu banyak bangsa tidak ada seorang raja seperti dia, yang dikasihi Allahnya dan diangkat oleh Allah itu menjadi raja seluruh Israel, namun diapun terbawa ke dalam dosa oleh perempuan-perempuan asing itu."
   },
   {Bible:"Nehemiah", Chapter:13, Verse:27, Page:1,
-    Kor:"이제 당신들이 이방 여자들을 아내로 데려와서, 이렇게 큰 잘못을 저지르며 하나님을 거역하고 있는데, 우리가 어찌 보고만 있을 수 있소?\"",
+    Kor:"이제 너희가 이방 여자들을 아내로 데려와서, 이렇게 큰 잘못을 저지르며 하나님을 거역하고 있는데, 우리가 어찌 보고만 있을 수 있느냐?\"",
     Chn:"如此，我岂听你们行这大恶，娶外邦女子干犯我们的　神呢？」",
     Eng:"Must we hear now that you too are doing all this terrible wickedness and are being unfaithful to our God by marrying foreign women?\"",
     Ind:"Apakah orang harus mendengar bahwa juga kamu berbuat segala kejahatan yang besar itu, yakni berubah setia terhadap Allah kita karena memperisteri perempuan-perempuan asing?\""

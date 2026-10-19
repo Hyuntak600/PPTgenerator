@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",27,13);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:27, Verse:1, Page:1,
-    Kor:"그 날이 오면, 주님께서 좁고 예리한 큰 칼로 벌하실 것이다. 매끄러운 뱀 a리워야단, 꼬불꼬불한 뱀 리워야단을 처치하실 것이다. 곧 바다의 괴물을 죽이실 것이다. (a 전설적인 바다 괴물. 여기에서는 이스라엘을 억압하는 민족들을 상징함)",
+    Kor:"그 날이 오면, 주께서 좁고 예리한 큰 칼로 벌하실 것이다. 매끄러운 뱀, 리워야단, 꼬불꼬불한 뱀, 리워야단을 처치하실 것이다. 곧 바다의 악어를 죽이실 것이다.",
     Chn:"到那日，耶和华必用他刚硬有力的大刀刑罚鳄鱼—就是那快行的蛇，刑罚鳄鱼—就是那曲行的蛇，并杀海中的大鱼。",
     Eng:"In that day, the LORD will punish with his sword, his fierce, great and powerful sword, Leviathan the gliding serpent, Leviathan the coiling serpent; he will slay the monster of the sea.",
     Ind:"Pada waktu itu TUHAN akan melaksanakan hukuman dengan pedang-Nya yang keras, besar dan kuat atas Lewiatan, ular yang meluncur, atas Lewiatan, ular yang melingkar, dan Ia akan membunuh ular naga yang di laut."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Pada waktu itu akan dikatakan: \"Bernyanyilah tentang kebun anggur yang elok!"
   },
   {Bible:"Isaiah", Chapter:27, Verse:3, Page:1,
-    Kor:"\"나 주는 포도나무를 돌보는 포도원지기다. 나는 때를 맞추어서 포도나무에 물을 주며, 아무도 포도나무를 해치지 못하도록 밤낮으로 돌본다.",
+    Kor:"\"나 주는 포도나무를 돌보는 포도원지기다. 나는 때를 맞추어서 포도나무에 물을 주며, 아무도 포도나무를 해치지 못하도록, 밤낮으로 돌본다.",
     Chn:"我—耶和华是看守葡萄园的； 我必时刻浇灌， 昼夜看守， 免得有人损害。",
     Eng:"I, the LORD, watch over it; I water it continually. I guard it day and night so that no one may harm it.",
     Ind:"Aku, TUHAN, penjaganya; setiap saat Aku menyiraminya. Supaya jangan orang mengganggunya, siang malam Aku menjaganya;"
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"kecuali kalau mereka mencari perlindungan kepada-Ku dan mencari damai dengan Aku, ya mencari damai dengan Aku!\""
   },
   {Bible:"Isaiah", Chapter:27, Verse:6, Page:1,
-    Kor:"앞으로 야곱이 뿌리를 내릴 것이다. 이스라엘이 싹을 내고 꽃을 피울 것이니, 그 열매가 땅 위에 가득 찰 것이다.",
+    Kor:"앞으로, 야곱이 뿌리를 내릴 것이다. 이스라엘이 싹을 내고 꽃을 피울 것이니, 그 열매가 땅 위에 가득 찰 것이다.",
     Chn:"将来雅各要扎根， 以色列要发芽开花； 他们的果实必充满世界。",
     Eng:"In days to come Jacob will take root, Israel will bud and blossom and fill all the world with fruit.",
     Ind:"Pada hari-hari yang akan datang, Yakub akan berakar, Israel akan berkembang dan bertunas dan memenuhi muka bumi dengan hasilnya."
   },
   {Bible:"Isaiah", Chapter:27, Verse:7, Page:1,
-    Kor:"야곱을 친 자들을 치신 것처럼, 주님께서 그렇게 혹독하게 야곱을 치셨겠느냐? 야곱을 살육하던 자들을 살육하신 것처럼, 주님께서 그렇게 많이 야곱을 살육하셨겠느냐?",
+    Kor:"주께서, 야곱을 친 자들을 치신 것처럼, 그렇게 혹독하게 야곱을 치셨겠느냐? 주께서, 야곱을 살육하던 자들을 살육하신 것처럼, 그렇게 많이 야곱을 살육하셨겠느냐?",
     Chn:"主击打他们， 岂像击打那些击打他们的人吗？ 他们被杀戮， 岂像被他们所杀戮的吗？",
     Eng:"Has the LORD struck her as he struck down those who struck her? Has she been killed as those were killed who killed her?",
     Ind:"Apakah TUHAN memusnahkan umat-Nya seperti Ia memusnahkan orang yang memusnahkan mereka? Atau apakah Ia membunuh umat-Nya seperti Ia membunuh orang yang membunuh mereka?"
   },
   {Bible:"Isaiah", Chapter:27, Verse:8, Page:1,
-    Kor:"그렇지 않다. 주님께서 이스라엘을 포로로 보내셔서 적절히 견책하셨고, 거센 동풍이 불 때에, 거기에 좀더 거센 바람을 보내셔서 이스라엘을 쫓아내셨을 뿐이다.",
+    Kor:"그렇지 않다. 주께서 이스라엘을 포로로 보내셔서, 적절히 견책하셨고, 거센 동풍이 불 때에, 거기에 좀더 거센 바람을 보내셔서, 이스라엘을 쫓아내셨을 뿐이다.",
     Chn:"你打发他们去， 是相机宜与他们相争； 刮东风的日子， 就用暴风将他们逐去。",
     Eng:"By warfare and exile you contend with her--with his fierce blast he drives her out, as on a day the east wind blows.",
     Ind:"Dengan menghalau dan dengan mengusir mereka Engkau telah melawan mereka. Ia telah menyisihkan mereka dengan angin-Nya yang keras di waktu angin timur."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Maka beginilah akan dihapuskan kesalahan Yakub dan inilah buahnya kalau ia menjauhkan dosanya: ia akan membuat segala batu mezbah seperti batu-batu kapur yang dipecah-pecahkan, sehingga tiada lagi tiang-tiang berhala dan pedupaan-pedupaan yang tinggal berdiri."
   },
   {Bible:"Isaiah", Chapter:27, Verse:10, Page:1,
-    Kor:"견고한 성읍이 적막해지고 집터는 버려져서 아무도 살지 않으니, 마치 사막과 같을 것이다. 거기에서는 송아지가 풀을 뜯을 것이며, 송아지가 거기에 누워서, 나뭇가지들을 모두 먹어 치울 것이다.",
+    Kor:"요새화된 성읍이 적막해지고 집터는 버려져서 아무도 살지 않으니, 마치 사막과 같을 것이다. 거기에서는 송아지가 풀을 뜯을 것이며, 송아지가 거기에 누워서, 나뭇가지들을 모두 먹어 치울 것이다.",
     Chn:"因为坚固城变为凄凉， 成了撇下离弃的居所，像旷野一样； 牛犊必在那里吃草， 在那里躺卧，并吃尽其中的树枝。",
     Eng:"The fortified city stands desolate, an abandoned settlement, forsaken like the desert; there the calves graze, there they lie down; they strip its branches bare.",
     Ind:"Sebab kota yang berkubu itu terpencil, suatu tempat kediaman yang dikosongkan dan ditinggalkan seperti padang gurun; anak lembu akan makan rumput dan berbaring di situ menghabiskan dahan-dahan pohon."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Apabila ranting-rantingnya sudah kering, maka akan dipatahkan; perempuan-perempuan akan datang dan menyalakannya. Sebab inilah suatu bangsa yang tidak berakal budi, itulah sebabnya dia tidak disayangi oleh Dia yang menjadikannya dan tidak dikasihi oleh Dia yang membentuknya."
   },
   {Bible:"Isaiah", Chapter:27, Verse:12, Page:1,
-    Kor:"너희 이스라엘 자손아. 그 날이 오면, 주님께서 b유프라테스 강으로부터 이집트 강에 이르기까지, 너희를 알곡처럼 일일이 거두어들이실 것이다. (b 히, '그 강')",
+    Kor:"너희 이스라엘 자손아. 그 날이 오면, 주께서 유프라테스 강으로부터 이집트 강에 이르기까지, 너희를 알곡처럼 일일이 거두어들이실 것이다.",
     Chn:"以色列人哪，到那日，耶和华必从大河，直到埃及小河，将你们一一地收集，如同人打树拾果一样。",
     Eng:"In that day the LORD will thresh from the flowing Euphrates to the Wadi of Egypt, and you, O Israelites, will be gathered up one by one.",
     Ind:"Maka pada waktu itu TUHAN akan mengirik mulai dari sungai Efrat sampai sungai Mesir, dan kamu ini akan dikumpulkan satu demi satu, hai orang Israel!"

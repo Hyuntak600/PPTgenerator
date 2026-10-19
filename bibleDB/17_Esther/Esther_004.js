@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",4,17);
 BibleDB.add([
   {Bible:"Esther", Chapter:4, Verse:1, Page:1,
-    Kor:"<에스더가 백성을 구하겠다고 약속하다> 모르드개는 이 모든 일을 알고서, 옷을 찢고, 굵은 베 옷을 걸치고, 재를 뒤집어쓴 채로, 성 안으로 들어가서, 대성통곡을 하였다.",
+    Kor:"모르드개는 이 모든 일을 알고서, 옷을 찢고, 굵은 베 옷을 걸치고, 재를 뒤집어쓴 채로, 성 안으로 들어가서, 대성통곡을 하였다.",
     Chn:"末底改知道所做的这一切事，就撕裂衣服，穿麻衣，蒙灰尘，在城中行走，痛哭哀号。",
     Eng:"When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly.",
     Ind:"Setelah Mordekhai mengetahui segala yang terjadi itu, ia mengoyakkan pakaiannya, lalu memakai kain kabung dan abu, kemudian keluar berjalan di tengah-tengah kota, sambil melolong-lolong dengan nyaring dan pedih."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Akan tetapi Ester menyuruh Hatah memberitahukan kepada Mordekhai:"
   },
   {Bible:"Esther", Chapter:4, Verse:11, Page:1,
-    Kor:"\"임금님이 부르시지 않는데, 안뜰로 들어가서 왕에게 다가가는 자는, 남자든지 여자든지 모두 사형으로 다스리도록 되어 있습니다. 이러한 법은 모든 신하들과 왕이 다스리는 모든 지방 백성들이 다 알고 있습니다. 다만 임금님이 금으로 만든 규를 내밀어서, 목숨을 살려 주실 수는 있습니다. 그런데 임금님이 나를 부르지 않으신 지가 벌써 삼십 일이나 되었습니다.\"",
+    Kor:"\"임금님이 부르시지 않는데, 안뜰로 들어가서 왕에게 다가가는 자는, 남자든지 여자든지 모두 사형으로 다스리도록 되어 있습니다. 이러한 법은, 모든 신하들과 왕이 다스리는 모든 지방 백성들이 다 알고 있습니다. 다만 임금님이, 금으로 만든 홀을 내밀어서, 목숨을 살려 주실 수는 있습니다. 그런데 임금님이 나를 부르지 않으신 지가 벌써 삼십 일이나 되었습니다.\"",
     Chn:"「王的一切臣仆和各省的人民都知道有一个定例：若不蒙召，擅入内院见王的，无论男女必被治死；除非王向他伸出金杖，不得存活。现在我没有蒙召进去见王已经三十日了。」",
     Eng:"\"All the king's officials and the people of the royal provinces know that for any man or woman who approaches the king in the inner court without being summoned the king has but one law: that he be put to death. The only exception to this is for the king to extend the gold scepter to him and spare his life. But thirty days have passed since I was called to go to the king.\"",
     Ind:"\"Semua pegawai raja serta penduduk daerah-daerah kerajaan mengetahui bahwa bagi setiap laki-laki atau perempuan, yang menghadap raja di pelataran dalam dengan tiada dipanggil, hanya berlaku satu undang-undang, yakni hukuman mati. Hanya orang yang kepadanya raja mengulurkan tongkat emas, yang akan tetap hidup. Dan aku selama tiga puluh hari ini tidak dipanggil menghadap raja.\""
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"maka Mordekhai menyuruh menyampaikan jawab ini kepada Ester: \"Jangan kira, karena engkau di dalam istana raja, hanya engkau yang akan terluput dari antara semua orang Yahudi."
   },
   {Bible:"Esther", Chapter:4, Verse:14, Page:1,
-    Kor:"이런 때에 왕후께서 입을 다물고 계시면, 유다 사람들은 다른 곳에서라도 도움을 얻어서, 마침내는 구원을 받고 살아날 것이지만, 왕후와 왕후의 집안은 멸망할 것입니다. 왕후께서 이처럼 왕후의 자리에 오르신 것이 바로 이런 일 때문인지를 누가 압니까?\"",
+    Kor:"이런 때에, 왕후께서 입을 다물고 계시면, 유다 사람들은 다른 곳에서라도 도움을 얻어서, 마침내는 구원을 받고 살아날 것이지만, 왕후와 왕후의 집안은 멸망할 것입니다. 왕후께서 이처럼 왕후의 자리에 오르신 것이 바로 이런 일 때문인지를 누가 압니까?\"",
     Chn:"此时你若闭口不言，犹大人必从别处得解脱，蒙拯救；你和你父家必致灭亡。焉知你得了王后的位分不是为现今的机会吗？」",
     Eng:"For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to royal position for such a time as this?\"",
     Ind:"Sebab sekalipun engkau pada saat ini berdiam diri saja, bagi orang Yahudi akan timbul juga pertolongan dan kelepasan dari pihak lain, dan engkau dengan kaum keluargamu akan binasa. Siapa tahu, mungkin justru untuk saat yang seperti ini engkau beroleh kedudukan sebagai ratu.\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Maka Ester menyuruh menyampaikan jawab ini kepada Mordekhai:"
   },
   {Bible:"Esther", Chapter:4, Verse:16, Page:1,
-    Kor:"\"어서 수산에 있는 유다 사람들을 한 곳에 모으시고, 나를 위하여 금식하게 하십시오. 사흘 동안은 밤낮 먹지도 마시지도 말게 하십시오. 나와 내 시녀들도 그렇게 금식하겠습니다. 그렇게 하고 난 다음에는, 법을 어기고서라도, 내가 임금님께 나아가겠습니다. 그러다가 죽으면, 죽으렵니다.\"",
+    Kor:"\"어서, 수산에 있는 유다 사람들을 한 곳에 모으시고, 나를 위하여 금식하게 하십시오. 사흘 동안은 밤낮 먹지도 마시지도 말게 하십시오. 나와 내 시녀들도 그렇게 금식하겠습니다. 그렇게 하고 난 다음에는, 법을 어기고서라도, 내가 임금님께 나아가겠습니다. 그러다가 죽으면, 죽으렵니다.\"",
     Chn:"「你当去招聚书珊城所有的犹大人，为我禁食三昼三夜，不吃不喝；我和我的宫女也要这样禁食。然后我违例进去见王，我若死就死吧！」",
     Eng:"\"Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my maids will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.\"",
     Ind:"\"Pergilah, kumpulkanlah semua orang Yahudi yang terdapat di Susan dan berpuasalah untuk aku; janganlah makan dan janganlah minum tiga hari lamanya, baik waktu malam, baik waktu siang. Aku serta dayang-dayangkupun akan berpuasa demikian, dan kemudian aku akan masuk menghadap raja, sungguhpun berlawanan dengan undang-undang; kalau terpaksa aku mati, biarlah aku mati.\""

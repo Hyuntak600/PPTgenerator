@@ -3,7 +3,7 @@
 BibleDB.ref("Job",27,23);
 BibleDB.add([
   {Bible:"Job", Chapter:27, Verse:1, Page:1,
-    Kor:"<세 친구에 대한 욥의 대답> 욥이 비유로 말하였다.",
+    Kor:"욥이 비유로 말하였다.",
     Chn:"约伯接着说：",
     Eng:"And Job continued his discourse:",
     Ind:"Maka Ayub melanjutkan uraiannya:"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, kamu sekalian telah melihatnya sendiri; mengapa kamu berpikir yang tidak-tidak?"
   },
   {Bible:"Job", Chapter:27, Verse:13, Page:1,
-    Kor:"a하나님이 악한 자에게 주시는 벌이 무엇인지, 전능하신 분께서 폭력을 행하는 자에게 주시는 벌이 무엇인지 아느냐? (a 13-23절에 소발의 이름이 나타나 있지는 않지만, 소발의 말이라고 보는 견해도 있음)",
+    Kor:"하나님이 악한 자에게 주시는 벌이 무엇인지, 전능하신 분께서 폭력을 행하는 자에게 주시는 벌이 무엇인지 아느냐?",
     Chn:"神为恶人所定的分， 强暴人从全能者所得的报乃是这样：",
     Eng:"\"Here is the fate God allots to the wicked, the heritage a ruthless man receives from the Almighty:",
     Ind:"Inilah bagian orang fasik yang ditentukan Allah, dan milik pusaka orang-orang lalim yang mereka terima dari Yang Mahakuasa:"

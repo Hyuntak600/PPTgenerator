@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Hati mereka licik, sekarang mereka harus menanggung akibat kesalahannya: Dia akan menghancurkan mezbah-mezbah mereka, akan meruntuhkan tugu-tugu berhala mereka."
   },
   {Bible:"Hosea", Chapter:10, Verse:3, Page:1,
-    Kor:"\"우리가  주님 두려운 줄 모르고 살다가, 임금도 못 모시게 되었지만, 이제 임금이 있은들 무엇에다가 쓰랴?\" 하며 한탄할 날이 올 것이다.",
+    Kor:"\"우리가 주님 두려운 줄 모르고 살다가, 임금도 못 모시게 되었지만, 이제 임금이 있은들 무엇에다가 쓰랴?\" 하며 한탄할 날이 올 것이다.",
     Chn:"他们必说：我们没有王， 因为我们不敬畏耶和华。 王能为我们做什么呢？",
     Eng:"Then they will say, \"We have no king because we did not revere the LORD. But even if we had a king, what could he do for us?\"",
     Ind:"Sungguh, sekarang mereka berkata: \"Kita tidak mempunyai raja lagi, sebab kita tidak takut kepada TUHAN. Apakah yang dapat dilakukan raja bagi kita?\""
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Mereka membual, mengangkat sumpah dusta, mengikat perjanjian, sehingga tumbuh hukum seperti pohon upas di alur-alur ladang."
   },
   {Bible:"Hosea", Chapter:10, Verse:5, Page:1,
-    Kor:"사마리아 주민은 벳아웬의 금송아지를 잃고 두려워하고, 그 우상을 잃고 슬퍼할 것이다. 그것을 즐겨서 섬긴 a이교의 제사장들은, 우상의 영화가 자기들에게서 떠난 것 때문에 탄식할 것이다. (a 히, '크마림'. 주님의 제사장은 '코헨, 코하님')",
+    Kor:"사마리아 주민은 벳아웬의 금송아지를 잃고 두려워하고, 그 우상을 잃고 슬퍼할 것이다. 그것을 즐겨서 섬긴 이교의 제사장들은, 우상의 영화가 자기들에게서 떠난 것 때문에 탄식할 것이다.",
     Chn:"撒马利亚的居民必因伯·亚文的牛犊惊恐； 崇拜牛犊的民和喜爱牛犊的祭司 都必因荣耀离开它，为它悲哀。",
     Eng:"The people who live in Samaria fear for the calf-idol of Beth Aven. Its people will mourn over it, and so will its idolatrous priests, those who had rejoiced over its splendor, because it is taken from them into exile.",
     Ind:"Penduduk Samaria gentar mengenai anak lembu Bet-Awen. Sungguh, rakyatnya akan berkabung oleh karenanya, dan imam-imamnya akan meratap oleh karenanya, oleh sebab kemuliaannya telah beralih dari padanya."
   },
   {Bible:"Hosea", Chapter:10, Verse:6, Page:1,
-    Kor:"사람들이 금송아지를 앗시리아로 가지고 가서 b대왕에게 선물로 바칠 것이다. 그러나 에브라임이 대가로 받아 오는 것은 수치뿐일 것이다. 끝내 이스라엘은 우상을 섬긴 일로 수치를 당하고야 말 것이다. (b 히, '야렙 왕')",
+    Kor:"사람들이 금송아지를 앗시리아로 가지고 가서 대왕에게 선물로 바칠 것이다. 그러나 에브라임이 대가로 받아 오는 것은 수치뿐일 것이다. 끝내, 이스라엘은 우상을 섬긴 일로 수치를 당하고야 말 것이다.",
     Chn:"人必将牛犊带到亚述当作礼物， 献给耶雷布王。 以法莲必蒙羞； 以色列必因自己的计谋惭愧。",
     Eng:"It will be carried to Assyria as tribute for the great king. Ephraim will be disgraced; Israel will be ashamed of its wooden idols.",
     Ind:"Anak lembu itu sendiri akan dibawa ke Asyur sebagai persembahan kepada Raja 'Agung'. Efraim akan menanggung malu, Israel akan mendapat malu karena rancangannya."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Bukit-bukit pengorbanan Awen, yakni dosa Israel, akan dimusnahkan. Semak duri dan rumput duri akan tumbuh di atas mezbah-mezbahnya. Dan mereka akan berkata kepada gunung-gunung: \"Timbunilah kami!\" dan kepada bukit-bukit: \"Runtuhlah menimpa kami!\""
   },
   {Bible:"Hosea", Chapter:10, Verse:9, Page:1,
-    Kor:"<주님께서 이스라엘에게 심판을 선언하시다> \"이스라엘아, 너는 기브아에 살던 때부터 죄를 짓기 시작해서 이제까지 죄를 짓고 있다. 거기에서부터 나에게 반항하였으니, 어찌 전쟁이 기브아에서 죄짓는 자에게 미치지 않겠느냐?",
+    Kor:"\"이스라엘아, 너는 기브아에 살던 때부터 죄를 짓기 시작해서 이제까지 죄를 짓고 있다. 거기에서부터 나에게 반항하였으니, 어찌 전쟁이 기브아에서 죄짓는 자에게 미치지 않겠느냐?",
     Chn:"以色列啊， 你从基比亚的日子以来时常犯罪。 你们的先人曾站在那里， 现今住基比亚的人 以为攻击罪孽之辈的战事临不到自己。",
     Eng:"\"Since the days of Gibeah, you have sinned, O Israel, and there you have remained. Did not war overtake the evildoers in Gibeah?",
     Ind:"Sejak hari Gibea engkau telah berdosa, hai Israel; di sana mereka bangkit melawan. Tidakkah perang melawan orang-orang curang akan mencapai mereka di Gibea?"

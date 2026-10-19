@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",4,27);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:4, Verse:1, Page:1,
-    Kor:"<지혜가 주는 유익> a아이들아, 너희는 아버지의 훈계를 잘 듣고, 명철을 얻도록 귀를 기울여라. (a 히, '아들들아' 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 너희는 아버지의 훈계를 잘 듣고, 명철을 얻도록 귀를 기울여라.",
     Chn:"众子啊，要听父亲的教训， 留心得知聪明。",
     Eng:"Listen, my sons, to a father's instruction; pay attention and gain understanding.",
     Ind:"Dengarkanlah, hai anak-anak, didikan seorang ayah, dan perhatikanlah supaya engkau beroleh pengertian,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Ia akan mengenakan karangan bunga yang indah di kepalamu, mahkota yang indah akan dikaruniakannya kepadamu.\""
   },
   {Bible:"Proverbs", Chapter:4, Verse:10, Page:1,
-    Kor:"<바른 길, 그른 길> b아이들아, 들어라. 내 말을 받아들이면, 네가 오래 살 것이다. (b 히, '내 아들아'. 스승이 제자를 부르는 말)",
+    Kor:"아이들아, 들어라. 내 말을 받아들이면, 네가 오래 살 것이다.",
     Chn:"我儿，你要听受我的言语， 就必延年益寿。",
     Eng:"Listen, my son, accept what I say, and the years of your life will be many.",
     Ind:"Hai anakku, dengarkanlah dan terimalah perkataanku, supaya tahun hidupmu menjadi banyak."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Biarlah matamu memandang terus ke depan dan tatapan matamu tetap ke muka."
   },
   {Bible:"Proverbs", Chapter:4, Verse:26, Page:1,
-    Kor:"발로 디딜 곳을 c잘 살펴라. 네 모든 길이 안전할 것이다. (c 또는 '평탄하게 하여라')",
+    Kor:"발로 디딜 곳을 잘 살펴라. 네 모든 길이 안전할 것이다.",
     Chn:"要修平你脚下的路， 坚定你一切的道。",
     Eng:"Make level paths for your feet and take only ways that are firm.",
     Ind:"Tempuhlah jalan yang rata dan hendaklah tetap segala jalanmu."

@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",46,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:46, Verse:1, Page:1,
-    Kor:"<야곱 가족이 이집트로 들어가다> 이스라엘이 식구를 거느리고, 그의 모든 재산을 챙겨서 길을 떠났다. 브엘세바에 이르렀을 때에, 그는 아버지 이삭의 하나님께 희생제사를 드렸다.",
+    Kor:"이스라엘이 식구를 거느리고, 그의 모든 재산을 챙겨서, 길을 떠났다. 브엘세바에 이르렀을 때에, 그는 아버지 이삭의 하나님께 희생제사를 드렸다.",
     Chn:"以色列带着一切所有的，起身来到别是巴，就献祭给他父亲以撒的　神。",
     Eng:"So Israel set out with all that was his, and when he reached Beersheba, he offered  sacrifices to the God of his father Isaac.",
     Ind:"Jadi berangkatlah Israel dengan segala miliknya dan ia tiba di Bersyeba, lalu dipersembahkannya korban sembelihan kepada Allah Ishak ayahnya."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Mereka membawa juga ternaknya dan harta bendanya, yang telah diperoleh mereka di tanah Kanaan, lalu tibalah mereka di Mesir, yakni Yakub dan seluruh keturunannya bersama-sama dengan dia."
   },
   {Bible:"Genesis", Chapter:46, Verse:7, Page:1,
-    Kor:"이렇게 야곱은 자기 자녀들과 손자들과 손녀들 곧 모든 자손들을 다 거느리고 이집트로 갔다.",
+    Kor:"이렇게 야곱은 자기 자녀들과 손자들과 손녀들, 곧 모든 자손들을 다 거느리고 이집트로 갔다.",
     Chn:"雅各把他的儿子、孙子、女儿、孙女，并他的子子孙孙，一同带到埃及。",
     Eng:"He took with him to Egypt his sons and grandsons and his daughters and granddaughters--all  his offspring.",
     Ind:"Anak-anak dan cucu-cucunya laki-laki dan perempuan, seluruh keturunannya dibawanyalah ke Mesir."
   },
   {Bible:"Genesis", Chapter:46, Verse:8, Page:1,
-    Kor:"○이집트로 내려간 이스라엘 사람들 곧 야곱과 그의 자손들의 이름은 다음과 같다. ○야곱의 맏아들 르우벤,",
+    Kor:"○이집트로 내려간 이스라엘 사람들, 곧 야곱과 그의 자손들의 이름은 다음과 같다. ○야곱의 맏아들 르우벤,",
     Chn:"来到埃及的以色列人名字记在下面。雅各和他的儿孙：雅各的长子是吕便。",
     Eng:"These are the names of the sons of Israel (Jacob and his descendants) who went to Egypt:  Reuben the firstborn of Jacob.",
     Ind:"Inilah nama-nama bani Israel yang datang ke Mesir, yakni Yakub beserta keturunannya. Anak sulung Yakub ialah Ruben."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Anak-anak Lewi ialah Gerson, Kehat dan Merari."
   },
   {Bible:"Genesis", Chapter:46, Verse:12, Page:1,
-    Kor:"유다의 아들들인 에르와 오난과 셀라와 베레스와 세라, (그런데 에르와 오난은 가나안 땅에 있을 때에 이미 죽었다.) 베레스의 아들들인 헤스론과 하물,",
+    Kor:"유다의 아들들인 엘과 오난과 셀라와 베레스와 세라, (그런데 엘과 오난은 가나안 땅에 있을 때에 이미 죽었다.) 베레스의 아들들인 헤스론과 하물,",
     Chn:"犹大的儿子是珥、俄南、示拉、法勒斯、谢拉；惟有珥与俄南死在迦南地。法勒斯的儿子是希斯 、哈母勒。",
     Eng:"The sons of Judah: Er, Onan, Shelah, Perez and Zerah (but Er and Onan had died in the land  of Canaan). The sons of Perez: Hezron and Hamul.",
     Ind:"Anak-anak Yehuda ialah Er, Onan, Syela, Peres dan Zerah; tetapi Er dan Onan mati di tanah Kanaan; dan anak-anak Peres ialah Hezron dan Hamul."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Anak-anak Asyer ialah Yimna, Yiswa, Yiswi dan Beria; Serah ialah saudara perempuan mereka; dan anak-anak Beria ialah Heber dan Malkiel."
   },
   {Bible:"Genesis", Chapter:46, Verse:18, Page:1,
-    Kor:"이들은 실바와 야곱 사이에서 태어난 자손이다. 실바는 라반이 자기 딸 레아를 출가시킬 때에 준 몸종이다. 그가 낳은 자손이 모두 열여섯 명이다.",
+    Kor:"이들은 실바와 야곱 사이에서 태어난 자손이다. 실바는, 라반이 자기 딸 레아를 출가시킬 때에 준 몸종이다. 그가 낳은 자손이 모두 열여섯 명이다.",
     Chn:"这是拉班给他女儿利亚的婢女悉帕从雅各所生的儿孙，共有十六人。",
     Eng:"These were the children born to Jacob by Zilpah, whom Laban had given to his daughter  Leah--sixteen in all.",
     Ind:"Itulah keturunan Zilpa, yakni hamba perempuan yang telah diberikan Laban kepada Lea, anaknya perempuan, dan yang melahirkan anak-anak bagi Yakub; seluruhnya enam belas jiwa."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Anak-anak Rahel, isteri Yakub, ialah Yusuf dan Benyamin."
   },
   {Bible:"Genesis", Chapter:46, Verse:20, Page:1,
-    Kor:"므낫세와 에브라임, (이 두 아들은 이집트 땅에서 온의 제사장 보디베라의 딸 아스낫과 요셉 사이에서 태어났다.)",
+    Kor:"므낫세와 에브라임, (이 두 아들은 이집트 땅에서, 온의 제사장 보디베라의 딸 아스낫과 요셉 사이에서 태어났다.)",
     Chn:"约瑟在埃及地生了玛拿西和以法莲，就是安城的祭司波提非拉的女儿亚西纳给约瑟生的。",
     Eng:"In Egypt, Manasseh and Ephraim were born to Joseph by Asenath daughter of Potiphera, priest  of On.",
     Ind:"Bagi Yusuf lahir Manasye dan Efraim di tanah Mesir, yang dilahirkan baginya oleh Asnat, anak perempuan Potifera, imam di On."
   },
   {Bible:"Genesis", Chapter:46, Verse:21, Page:1,
-    Kor:"베냐민의 아들들인 벨라와 베겔과 아스벨과 게라와 나아만과 에히와 로스와 뭅빔과 훕빔과 아릇,",
+    Kor:"베냐민의 아들들인 벨라와 베겔과 아스벨과 게라와 나아만과 에히와 로스와 뭅빔과 컂빔과 아릇,",
     Chn:"便雅悯的儿子是比拉、比结、亚实别、基拉、乃幔、以希、罗实、母平、户平、亚勒。",
     Eng:"The sons of Benjamin: Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard.",
     Ind:"Anak-anak Benyamin ialah Bela, Bekher, Asybel, Gera, Naaman, Ehi, Rosh, Mupim, Hupim dan Ared."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Anak-anak Naftali ialah Yahzeel, Guni, Yezer dan Syilem."
   },
   {Bible:"Genesis", Chapter:46, Verse:25, Page:1,
-    Kor:"이들은 빌하와 야곱 사이에서 태어난 자손이다. 빌하는 라반이 자기 딸 라헬을 출가시킬 때에 준 몸종이다. 그가 낳은 자손은 모두 일곱 명이다.",
+    Kor:"이들은 빌하와 야곱 사이에서 태어난 자손이다. 빌하는, 라반이 자기 딸 라헬을 출가시킬 때에 준 몸종이다. 그가 낳은 자손은 모두 일곱 명이다.",
     Chn:"这是拉班给他女儿拉结的婢女辟拉从雅各所生的儿孙，共有七人。",
     Eng:"These were the sons born to Jacob by Bilhah, whom Laban had given to his daughter  Rachel--seven in all.",
     Ind:"Itulah keturunan Bilha, yakni hamba perempuan yang diberikan Laban kepada Rahel, anaknya yang perempuan dan yang melahirkan anak-anak itu bagi Yakub--seluruhnya berjumlah tujuh jiwa."
@@ -159,13 +159,13 @@ BibleDB.add([
     Ind:"Semua orang yang tiba di Mesir bersama-sama dengan Yakub, yakni anak-anak kandungnya, dengan tidak terhitung isteri anak-anaknya, seluruhnya berjumlah enam puluh enam jiwa."
   },
   {Bible:"Genesis", Chapter:46, Verse:27, Page:1,
-    Kor:"이집트에서 요셉이 낳은 아들 a둘까지 합하면, 야곱의 집안 식구는 모두 b일흔 명이다.(a 칠십인역에는 '아홉 자녀' b 칠십인역에는 '일흔다섯 명'(행 7:14에서도))",
+    Kor:"이집트에서 요셉이 낳은 아들 둘까지 합하면, 야곱의 집안 식구는 모두 일흔 명이다.",
     Chn:"还有约瑟在埃及所生的两个儿子。雅各家来到埃及的共有七十人。",
     Eng:"With the two sons who had been born to Joseph in Egypt, the members of Jacob's family,  which went to Egypt, were seventy in all.",
     Ind:"Anak-anak Yusuf yang lahir baginya di Mesir ada dua orang. Jadi keluarga Yakub yang tiba di Mesir, seluruhnya berjumlah tujuh puluh jiwa."
   },
   {Bible:"Genesis", Chapter:46, Verse:28, Page:1,
-    Kor:"<야곱 일행이 이집트에 도착하다> ○이스라엘이 유다를 자기보다 앞세워서 요셉에게로 보내어, 야곱 일행이 고센으로 간다는 것을 알리게 하였다. 일행이 고센 땅에 이르렀을 때에,",
+    Kor:"○이스라엘이 유다를 자기보다 앞세워서 요셉에게로 보내어, 야곱 일행이 고센으로 간다는 것을 알리게 하였다. 일행이 고센 땅에 이르렀을 때에,",
     Chn:"雅各打发犹大先去见约瑟，请派人引路往歌珊去；于是他们来到歌珊地。",
     Eng:"Now Jacob sent Judah ahead of him to Joseph to get directions to Goshen. When they arrived  in the region of Goshen,",
     Ind:"Yakub menyuruh Yehuda berjalan lebih dahulu mendapatkan Yusuf, supaya Yusuf datang ke Gosyen menemui ayahnya. Sementara itu sampailah mereka ke tanah Gosyen."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Lalu Yusuf memasang keretanya dan pergi ke Gosyen, mendapatkan Israel, ayahnya. Ketika ia bertemu dengan dia, dipeluknyalah leher ayahnya dan lama menangis pada bahunya."
   },
   {Bible:"Genesis", Chapter:46, Verse:30, Page:1,
-    Kor:"이스라엘이 요셉에게 말하였다. \"나는 이제 죽어도 여한이 없다. 내가 너의 얼굴을 보다니, 네가 여태까지 살아 있구나!\"",
+    Kor:"이스라엘이 요셉에게 말하였다. \"나는 이제, 죽어도 여한이 없다. 내가 너의 얼굴을 보다니, 네가 여태까지 살아 있구나!\"",
     Chn:"以色列对约瑟说：「我既得见你的面，知道你还在，就是死我也甘心。」",
     Eng:"Israel said to Joseph, \"Now I am ready to die, since I have seen for myself that you are  still alive.\"",
     Ind:"Berkatalah Israel kepada Yusuf: \"Sekarang bolehlah aku mati, setelah aku melihat mukamu dan mengetahui bahwa engkau masih hidup.\""
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Yusuf kepada saudara-saudaranya dan kepada keluarga ayahnya itu: \"Aku mau menghadap Firaun dan memberitahukan kepadanya: Saudara-saudaraku dan keluarga ayahku, yang tinggal di tanah Kanaan, telah datang kepadaku;"
   },
   {Bible:"Genesis", Chapter:46, Verse:32, Page:1,
-    Kor:"그들은 본래부터 목자이고, 집짐승을 기르는 사람들인데, 그들이 가지고 있는 양과 소와 모든 재산을 챙겨서 이리로 왔습니다.' 이렇게 말씀을 드려 둘 터이니,",
+    Kor:"그들은 본래부터 목자이고, 집짐승을 기르는 사람들인데, 그들이 가지고 있는 양과 소와 모든 재산을 챙겨서, 이리로 왔습니다.' 이렇게 말씀을 드려 둘 터이니,",
     Chn:"他们本是牧羊的人，以养牲畜为业；他们把羊群牛群和一切所有的都带来了。』",
     Eng:"The men are shepherds; they tend livestock, and they have brought along their flocks and  herds and everything they own.'",
     Ind:"orang-orang itu gembala kambing domba, sebab mereka itu pemelihara ternak, dan kambing dombanya, lembu sapinya dan segala miliknya telah dibawa mereka."
   },
   {Bible:"Genesis", Chapter:46, Verse:33, Page:1,
-    Kor:"바로께서 형님들을 부르셔서 '그대들의 생업이 무엇이오?' 하고 물으시거든,",
+    Kor:"바로 임금께서 형님들을 부르셔서 '너희의 생업이 무엇이냐?' 하고 물으시거든,",
     Chn:"等法老召你们的时候，问你们说：『你们以何事为业？』",
     Eng:"When Pharaoh calls you in and asks, 'What is your occupation?'",
     Ind:"Apabila Firaun memanggil kamu dan bertanya: Apakah pekerjaanmu?"

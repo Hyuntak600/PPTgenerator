@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",29,46);
 BibleDB.add([
   {Bible:"Exodus", Chapter:29, Verse:1, Page:1,
-    Kor:"<제사장 위임식 준비(레 8:1-36)> \"나를 섬기는 제사장을 거룩히 구별하여 세우는 절차는 이러하다. 수송아지 한 마리와 숫양 두 마리를 흠 없는 것으로 골라라.",
+    Kor:"나를 섬기는 제사장을 거룩히 구별하여 세우는 절차는 이러하다. 수송아지 한 마리와 숫양 두 마리를 흠 없는 것으로 골라라.",
     Chn:"「你使亚伦和他儿子成圣，给我供祭司的职分，要如此行：取一只公牛犊，两只无残疾的公绵羊，",
     Eng:"\"This is what you are to do to consecrate them, so they may serve me as priests: Take a young bull and two rams without defect.",
     Ind:"\"Inilah yang harus kaulakukan kepada mereka, untuk menguduskan mereka, supaya mereka memegang jabatan imam bagi-Ku: Ambillah seekor lembu jantan muda dan dua ekor domba jantan yang tidak bercela,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Haruslah kaupotong-potong domba jantan itu menurut bagian-bagian tertentu, kaubasuhlah isi perutnya dan betis-betisnya dan kautaruh itu di atas potongan-potongannya dan di atas kepalanya."
   },
   {Bible:"Exodus", Chapter:29, Verse:18, Page:1,
-    Kor:"이렇게 하여, 그 숫양 전체를 제단 위에서 통째로 살라 바쳐라. 이것이 바로 나 주에게 드리는 번제이며, 이것이 바로 향기로 나 주를 기쁘게 하는 살라 바치는 제물이다.",
+    Kor:"이렇게 하여, 그 숫양 전체를 제단 위에서 통째로 살라 바쳐라. 이것이 바로 주께 드리는 번제이며, 이것이 바로 향기로 주를 기쁘게 해 드리는 살라 바치는 제물이다.",
     Chn:"要把全羊烧在坛上，是给耶和华献的燔祭，是献给耶和华为馨香的火祭。",
     Eng:"Then burn the entire ram on the altar. It is a burnt offering to the LORD, a pleasing aroma, an offering made to the LORD by fire.",
     Ind:"Kemudian haruslah kaubakar seluruh domba jantan itu di atas mezbah; itulah korban bakaran, suatu persembahan yang harum bagi TUHAN, yakni suatu korban api-apian bagi TUHAN."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Dari domba jantan itu haruslah kauambil lemaknya, ekornya yang berlemak, lemak yang menutupi isi perutnya, umbai hatinya, kedua buah pinggangnya, lemak yang melekat padanya, paha kanannya--sebab itulah domba jantan persembahan pentahbisan--"
   },
   {Bible:"Exodus", Chapter:29, Verse:23, Page:1,
-    Kor:"너는, 주 앞에 있는 누룩을 넣지 않은 빵을 둔 광주리에서 빵 한 덩이와 기름을 섞어서 만든 과자 한 개와 속 빈 과자 한 개를 가져다가,",
+    Kor:"너는, 주 앞에 있는 누룩을 넣지 않은 빵을 둔 광주리에서, 빵 한 덩이와 기름을 섞어서 만든 과자 한 개와 속 빈 과자 한 개를 가져다가,",
     Chn:"再从耶和华面前装无酵饼的筐子中取一个饼，一个调油的饼和一个薄饼，",
     Eng:"From the basket of bread made without yeast, which is before the LORD, take a loaf, and a cake made with oil, and a wafer.",
     Ind:"kauambillah juga satu keping roti, satu roti bundar yang berminyak dan satu roti tipis dari dalam bakul berisi roti yang tidak beragi, yang ada di hadapan TUHAN."
@@ -147,25 +147,25 @@ BibleDB.add([
     Ind:"Haruslah kautaruh seluruhnya ke atas telapak tangan Harun dan ke atas telapak tangan anak-anaknya dan haruslah kaupersembahkan semuanya sebagai persembahan unjukan di hadapan TUHAN."
   },
   {Bible:"Exodus", Chapter:29, Verse:25, Page:1,
-    Kor:"너는 그들의 손에서 그것을 받아다가, 제단의 번제물 위에 놓고 불살라라. 이것이 바로 향기로 나 주를 기쁘게 하는, 나 주에게 살라 바치는 제물이다.",
+    Kor:"너는 그들의 손에서 그것을 받아다가, 제단의 번제물 위에 놓고 불살라라. 이것이 바로 향기로 주를 기쁘게 해 드리는, 주께 살라 바치는 제물이다.",
     Chn:"要从他们手中接过来，烧在耶和华面前坛上的燔祭上，是献给耶和华为馨香的火祭。",
     Eng:"Then take them from their hands and burn them on the altar along with the burnt offering for a pleasing aroma to the LORD, an offering made to the LORD by fire.",
     Ind:"Kemudian haruslah kauambil semuanya dari tangan mereka dan kaubakar di atas mezbah, yaitu di atas korban bakaran, sebagai persembahan yang harum di hadapan TUHAN; itulah suatu korban api-apian bagi TUHAN."
   },
   {Bible:"Exodus", Chapter:29, Verse:26, Page:1,
-    Kor:"○아론의 제사장 위임식에 쓸 숫양에서 가슴을 떼어, 나 주에게 흔들어 바치는 예식을 하고 나서, 그것을 너의 몫으로 가져라.",
+    Kor:"○아론의 제사장 위임식에 쓸 숫양에서 가슴을 떼어, 주께 흔들어 바치는 예식을 하고 나서, 그것을 너의 몫으로 가져라.",
     Chn:"「你要取亚伦承接圣职所献公羊的胸，作为摇祭，在耶和华面前摇一摇，这就可以作你的分。",
     Eng:"After you take the breast of the ram for Aaron's ordination, wave it before the LORD as a wave offering, and it will be your share.",
     Ind:"Selanjutnya haruslah kauambil dada dari domba jantan yang adalah bagi pentahbisan Harun dan kaupersembahkan sebagai persembahan unjukan di hadapan TUHAN, dan itulah bagian untukmu."
   },
   {Bible:"Exodus", Chapter:29, Verse:27, Page:1,
-    Kor:"○너는 아론과 그의 아들들의 제사장 위임식에 쓴 숫양 고기 가운데서 흔들어 바친 것과 들어올려 바친 것 곧 흔들어 바친 가슴과 들어올려 바친 넓적다리를 거룩하게 구별하여 놓아라.",
+    Kor:"○너는 아론과 그의 아들들의 제사장 위임식에 쓴 숫양 고기 가운데서 흔들어 바친 것과 들어올려 바친 것, 곧 흔들어 바친 가슴과 들어올려 바친 넓적다리를 거룩하게 구별하여 놓아라.",
     Chn:"那摇祭的胸和举祭的腿，就是承接圣职所摇的、所举的，是归亚伦和他儿子的。这些你都要成为圣，",
     Eng:"\"Consecrate those parts of the ordination ram that belong to Aaron and his sons: the breast that was waved and the thigh that was presented.",
     Ind:"Demikianlah harus kaukuduskan dada persembahan unjukan dan paha persembahan khusus yang dipersembahkan dari domba jantan yang adalah bagi pentahbisan Harun dan anak-anaknya."
   },
   {Bible:"Exodus", Chapter:29, Verse:28, Page:1,
-    Kor:"이것은 들어올려 바친 제물이므로, 아론과 그의 아들들이 이스라엘 자손에게서 받을 영원한 분깃이다. 이 제물은 이스라엘 자손이 그들의 화목제물로 나 주에게 들어올려 바친 제물이다.",
+    Kor:"이것은 들어올려 바친 제물이므로, 아론과 그의 아들들이 이스라엘 자손에게서 받을 영원한 분깃이다. 이 제물은, 이스라엘 자손이 그들의 화목제물로 주께 들어올려 바친 제물이다.",
     Chn:"作亚伦和他子孙从以色列人中永远所得的分，因为是举祭。这要从以色列人的平安祭中，作为献给耶和华的举祭。",
     Eng:"This is always to be the regular share from the Israelites for Aaron and his sons. It is the contribution the Israelites are to make to the LORD from their fellowship offerings.",
     Ind:"Itulah yang menjadi bagian untuk Harun dan anak-anaknya menurut ketetapan yang berlaku untuk selama-lamanya bagi orang Israel, sebab inilah suatu persembahan khusus, maka haruslah itu menjadi persembahan khusus dari pihak orang Israel, yang diambil dari korban keselamatan mereka, dan menjadi persembahan khusus mereka bagi TUHAN."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Haruslah Harun dan anak-anaknya memakan daging domba jantan itu serta roti yang ada di dalam bakul di depan pintu Kemah Pertemuan."
   },
   {Bible:"Exodus", Chapter:29, Verse:33, Page:1,
-    Kor:"이것은 그들을 거룩히 구별하여 제사장으로 세우고 속죄의 제물로 바친 것이므로, 그들만이 먹을 수 있다. 이것은 거룩한 것이므로, 다른 사람은 먹을 수 없다.",
+    Kor:"이것은, 그들을 거룩히 구별하여 제사장으로 세우고 속죄의 제물로 바친 것이므로, 그들만이 먹을 수 있다. 이것은 거룩한 것이므로, 다른 사람은 먹을 수 없다.",
     Chn:"他们吃那些赎罪之物，好承接圣职，使他们成圣；只是外人不可吃，因为这是圣物。",
     Eng:"They are to eat these offerings by which atonement was made for their ordination and consecration. But no one else may eat them, because they are sacred.",
     Ind:"Haruslah mereka memakan semuanya itu yang dipakai untuk mengadakan pendamaian pada waktu mereka ditahbiskan dan dikuduskan, tetapi orang awam janganlah memakannya, sebab persembahan kudus semuanya itu."
@@ -219,13 +219,13 @@ BibleDB.add([
     Ind:"Tiap-tiap hari haruslah engkau mengolah seekor lembu jantan menjadi korban penghapus dosa untuk mengadakan pendamaian dan haruslah kausucikan mezbah itu, dengan mengadakan pendamaian baginya; haruslah engkau mengurapinya untuk menguduskannya."
   },
   {Bible:"Exodus", Chapter:29, Verse:37, Page:1,
-    Kor:"○너는 이레 동안 제단 위에 속죄제물을 드려서, 제단을 거룩하게 하여라. 그렇게 하면 그 제단은 가장 거룩하게 되고, 그 제단에 닿는 것도 모두 거룩하게 될 것이다.\"",
+    Kor:"○너는 이레 동안 제단 위에 속죄제물을 드려서, 제단을 거룩하게 하여라. 그렇게 하면, 그 제단은 가장 거룩하게 되고, 그 제단에 닿는 것도 모두 거룩하게 될 것이다.",
     Chn:"要洁净坛七天，使坛成圣，坛就成为至圣。凡挨着坛的都成为圣。」",
     Eng:"For seven days make atonement for the altar and consecrate it. Then the altar will be most holy, and whatever touches it will be holy.",
     Ind:"Tujuh hari lamanya haruslah engkau mengadakan pendamaian bagi mezbah itu; haruslah engkau menguduskannya, maka mezbah itu akan menjadi maha kudus; setiap orang yang kena kepada mezbah itu akan menjadi kudus.\""
   },
   {Bible:"Exodus", Chapter:29, Verse:38, Page:1,
-    Kor:"<매일 드리는 번제(민 28:1-8)> ○\"네가 제단 위에 바쳐야 할 것은 이러하다. 일 년 된 어린 숫양 두 마리를 날마다 바쳐야 한다.",
+    Kor:"○네가 제단 위에 바쳐야 할 것은 이러하다. 일 년 된 어린 숫양 두 마리를 날마다 바쳐야 한다.",
     Chn:"「你每天所要献在坛上的就是两只一岁的羊羔；",
     Eng:"\"This is what you are to offer on the altar regularly each day: two lambs a year old.",
     Ind:"\"Inilah yang harus kauolah di atas mezbah itu: dua anak domba berumur setahun, tetap tiap-tiap hari."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Dan beserta domba yang satu kauolah sepersepuluh efa tepung yang terbaik dengan minyak tumbuk seperempat hin, dan korban curahan dari seperempat hin anggur."
   },
   {Bible:"Exodus", Chapter:29, Verse:41, Page:1,
-    Kor:"너는 저녁에 두 번째 숫양을 바칠 때에도 아침에 한 것처럼, 같은 양의 곡식제물과 부어 드리는 제물을 바쳐라. 이것이 향기로 주를 기쁘게 하는 살라 바치는 제사이다.",
+    Kor:"너는 저녁에 두 번째 숫양을 바칠 때에도, 아침에 한 것처럼, 같은 양의 곡식제물과 부어 드리는 제물을 바쳐라. 이것이 향기로 주를 기쁘게 하는 살라 바치는 제사이다.",
     Chn:"那一只羊羔要在黄昏的时候献上，照着早晨的素祭和奠祭的礼办理，作为献给耶和华馨香的火祭。",
     Eng:"Sacrifice the other lamb at twilight with the same grain offering and its drink offering as in the morning--a pleasing aroma, an offering made to the LORD by fire.",
     Ind:"Domba yang lain haruslah kauolah pada waktu senja; sama seperti korban sajian dan korban curahannya pada waktu pagi harus engkau mengolahnya sebagai persembahan yang harum, suatu korban api-apian bagi TUHAN,"
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"Aku akan diam di tengah-tengah orang Israel dan Aku akan menjadi Allah mereka."
   },
   {Bible:"Exodus", Chapter:29, Verse:46, Page:1,
-    Kor:"그리고 그들은, 바로 내가, 그들 가운데 머물려고, 그들을 이집트 땅에서 이끌어 낸 그들의 주 하나님임을 알게 될 것이다. 나는 그들의 주 하나님이다.\"",
+    Kor:"그리고 그들은, 바로 내가, 그들 가운데 머물려고, 그들을 이집트 땅에서 이끌어 낸 그들의 주 하나님임을 알게 될 것이다. 나는 그들의 주 하나님이다.",
     Chn:"他们必知道我是耶和华—他们的　神，是将他们从埃及地领出来的，为要住在他们中间。我是耶和华—他们的　神。」",
     Eng:"They will know that I am the LORD their God, who brought them out of Egypt so that I might dwell among them. I am the LORD their God.",
     Ind:"Maka mereka akan mengetahui, bahwa Akulah, TUHAN, Allah mereka, yang telah membawa mereka keluar dari tanah Mesir, supaya Aku diam di tengah-tengah mereka; Akulah TUHAN, Allah mereka.\""

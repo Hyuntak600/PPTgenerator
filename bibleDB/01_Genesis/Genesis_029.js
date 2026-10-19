@@ -3,19 +3,19 @@
 BibleDB.ref("Genesis",29,35);
 BibleDB.add([
   {Bible:"Genesis", Chapter:29, Verse:1, Page:1,
-    Kor:"<야곱이 라반의 집에 도착하다> 야곱이 줄곧 길을 걸어서, 드디어 동방 사람들이 사는 땅에 이르렀다.",
+    Kor:"야곱이 줄곧 길을 걸어서, 드디어 동방 사람들이 사는 땅에 이르렀다.",
     Chn:"雅各起行，到了东方人之地，",
     Eng:"Then Jacob continued on his journey and came to the land of the eastern peoples.",
     Ind:"Kemudian berangkatlah Yakub dari situ dan pergi ke negeri Bani Timur."
   },
   {Bible:"Genesis", Chapter:29, Verse:2, Page:1,
-    Kor:"거기 들에 우물이 있는데, 그 곁에 양 떼 세 무리가 엎드려 있는 것이 보였다. 그 곳은 목자들이 양 떼에게 물을 먹이는 우물인데, 그 우물 아귀는 큰 돌로 늘 덮여 있어서,",
+    Kor:"거기 들에 우물이 있는데, 그 곁에 양 떼 세 무리가 엎드려 있는 것이 보였다. 그 곳은, 목자들이 양 떼에게 물을 먹이는 우물인데, 그 우물 아귀는 큰 돌로 늘 덮여 있어서,",
     Chn:"看见田间有一口井，有三群羊卧在井旁；因为人饮羊群都是用那井里的水。井口上的石头是大的。",
     Eng:"There he saw a well in the field, with three flocks of sheep lying near it because the  flocks were watered from that well. The stone over the mouth of the well was large.",
     Ind:"Ketika ia memandang sekelilingnya, dilihatnya ada sebuah sumur di padang, dan ada tiga kumpulan kambing domba berbaring di dekatnya, sebab dari sumur itulah orang memberi minum kumpulan-kumpulan kambing domba itu. Adapun batu penutup sumur itu besar;"
   },
   {Bible:"Genesis", Chapter:29, Verse:3, Page:1,
-    Kor:"양 떼가 다 모이면 목자들이 우물 아귀에서 그 돌을 굴려내어 양 떼에게 물을 먹이고, 다 먹인 다음에 다시 돌을 굴려서 우물 아귀를 덮고는 하였다.",
+    Kor:"양 떼가 다 모이면, 목자들이 우물 아귀에서 그 돌을 굴려내어 양 떼에게 물을 먹이고, 다 먹인 다음에 다시 돌을 굴려서, 우물 아귀를 덮고는 하였다.",
     Chn:"常有羊群在那里聚集，牧人把石头转离井口饮羊，随后又把石头放在井口的原处。",
     Eng:"When all the flocks were gathered there, the shepherds would roll the stone away from the  well's mouth and water the sheep. Then they would return the stone to its place over the mouth of  the well.",
     Ind:"dan apabila segala kumpulan kambing domba itu digiring berkumpul ke sana, maka gembala-gembala menggulingkan batu itu dari mulut sumur, lalu kambing domba itu diberi minum; kemudian dikembalikanlah batu itu lagi ke mulut sumur itu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Segera sesudah Laban mendengar kabar tentang Yakub, anak saudaranya itu, berlarilah ia menyongsong dia, lalu mendekap dan mencium dia, kemudian membawanya ke rumahnya. Maka Yakub menceritakan segala hal ihwalnya kepada Laban."
   },
   {Bible:"Genesis", Chapter:29, Verse:14, Page:1,
-    Kor:"말을 듣고 난 라반은 야곱에게 말하였다. \"너는 나와 한 피붙이이다.\" <야곱이 라반의 집안일을 하다> ○야곱이 한 달을 라반의 집에 머물러 있을 때에,",
+    Kor:"말을 듣고 난 라반은 야곱에게 말하였다. \"너는 나와 한 피붙이이다.\" ○야곱이 한 달을 라반의 집에 머물러 있을 때에,",
     Chn:"拉班对他说：「你实在是我的骨肉。」雅各就和他同住了一个月。",
     Eng:"Then Laban said to him, \"You are my own flesh and blood.\" After Jacob had stayed with him  for a whole month,",
     Ind:"Kata Laban kepadanya: \"Sesungguhnya engkau sedarah sedaging dengan aku.\" Maka tinggallah Yakub padanya genap sebulan lamanya."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Laban kepada Yakub: \"Masakan karena engkau adalah sanak saudaraku, engkau bekerja padaku dengan cuma-cuma? Katakanlah kepadaku apa yang patut menjadi upahmu.\""
   },
   {Bible:"Genesis", Chapter:29, Verse:16, Page:1,
-    Kor:"○라반에게는 두 딸이 있었다. 맏딸의 이름은 레아이고, 둘째 딸의 이름은 라헬이다.",
+    Kor:"○라반에게는, 두 딸이 있었다. 맏딸의 이름은 레아이고, 둘째 딸의 이름은 라헬이다.",
     Chn:"拉班有两个女儿，大的名叫利亚，小的名叫拉结。",
     Eng:"Now Laban had two daughters; the name of the older was Leah, and the name of the younger  was Rachel.",
     Ind:"Laban mempunyai dua anak perempuan; yang lebih tua namanya Lea dan yang lebih muda namanya Rahel."
   },
   {Bible:"Genesis", Chapter:29, Verse:17, Page:1,
-    Kor:"레아는 눈매가 부드럽고, 라헬은 몸매가 아름답고 용모도 예뻤다.",
+    Kor:"레아는 눈매가 부드러웠으며, 라헬은 몸매가 아름답고, 용모도 예뻤다.",
     Chn:"利亚的眼睛没有神气，拉结却生得美貌俊秀。",
     Eng:"Leah had weak eyes, but Rachel was lovely in form, and beautiful.",
     Ind:"Lea tidak berseri matanya, tetapi Rahel itu elok sikapnya dan cantik parasnya."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Jawab Laban: \"Tidak biasa orang berbuat demikian di tempat kami ini, mengawinkan adiknya lebih dahulu dari pada kakaknya."
   },
   {Bible:"Genesis", Chapter:29, Verse:27, Page:1,
-    Kor:"그러니 이레 동안 초례 기간을 채우게. 그런 다음에 작은 아이도 자네에게 주겠네. 그 대신에 자네는 또 칠 년 동안 내가 맡기는 일을 해야 하네.\"",
+    Kor:"그러니 이레 동안 초례 기간을 채우게. 그런 다음에, 작은 아이도 자네에게 주겠네. 그 대신에 자네는, 또 칠 년 동안, 내가 맡기는 일을 해야 하네.\"",
     Chn:"你为这个满了七日，我就把那个也给你，你再为她服事我七年。」",
     Eng:"Finish this daughter's bridal week; then we will give you the younger one also, in return  for another seven years of work.\"",
     Ind:"Genapilah dahulu tujuh hari perkawinanmu dengan anakku ini; kemudian anakku yang lainpun akan diberikan kepadamu sebagai upah, asal engkau bekerja pula padaku tujuh tahun lagi.\""
@@ -183,31 +183,31 @@ BibleDB.add([
     Ind:"Yakub menghampiri Rahel juga, malah ia lebih cinta kepada Rahel dari pada kepada Lea. Demikianlah ia bekerja pula pada Laban tujuh tahun lagi."
   },
   {Bible:"Genesis", Chapter:29, Verse:31, Page:1,
-    Kor:"<야곱에게 아이들이 생기다> ○주님께서는, 레아가 남편의 사랑을 받지 못하는 것을 보시고, 레아의 태를 열어 주셨다. 라헬은 임신을 하지 못하였으나",
+    Kor:"○주께서는, 레아가 남편의 사랑을 받지 못하는 것을 보시고, 레아의 태를 열어 주셨다. 라헬은 임신을 하지 못하였으나",
     Chn:"耶和华见利亚失宠，就使她生育，拉结却不生育。",
     Eng:"When the LORD saw that Leah was not loved, he opened her womb, but Rachel was barren.",
     Ind:"Ketika TUHAN melihat, bahwa Lea tidak dicintai, dibuka-Nyalah kandungannya, tetapi Rahel mandul."
   },
   {Bible:"Genesis", Chapter:29, Verse:32, Page:1,
-    Kor:"레아는 마침내 임신을 하여 아들을 낳았다. 그는 속으로 \"주님께서 나의 고통을 살피시고, 나에게 아들을 주셨구나. 이제는 남편도 나를 사랑하겠지\" 하면서, 아기 이름을 a르우벤이라고 하였다.(a '그가 나의 비참한 처지를 보셨다' 또는 '보아라, 아들이다!')",
+    Kor:"레아는 마침내 임신을 하여 아들을 낳았다. 그는 속으로 \"주께서 나의 고통을 살피시고, 나에게 아들을 주셨구나. 이제는 남편도 나를 사랑하겠지\" 하면서, 아기 이름을 르우벤이라고 하였다.",
     Chn:"利亚怀孕生子，就给他起名叫吕便，因而说：「耶和华看见我的苦情，如今我的丈夫必爱我。」",
     Eng:"Leah became pregnant and gave birth to a son. She named him Reuben, for she said, \"It is  because the LORD has seen my misery. Surely my husband will love me now.\"",
     Ind:"Lea mengandung, lalu melahirkan seorang anak laki-laki, dan menamainya Ruben, sebab katanya: \"Sesungguhnya TUHAN telah memperhatikan kesengsaraanku; sekarang tentulah aku akan dicintai oleh suamiku.\""
   },
   {Bible:"Genesis", Chapter:29, Verse:33, Page:1,
-    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"주님께서, 내가 남편의 사랑을 받지 못하여 하소연하는 소리를 b들으시고, 이렇게 또 아들을 주셨구나\" 하면서, 아이 이름을 시므온이라고 하였다.(b 히, '샤마')",
+    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"주께서, 내가 남편의 사랑을 받지 못하여 하소연하는 소리를 들으시고, 이렇게 또 아들을 주셨구나\" 하면서, 아이 이름을 시므온이라고 하였다.",
     Chn:"她又怀孕生子，就说：「耶和华因为听见我失宠，所以又赐给我这个儿子」，于是给他起名叫西缅。",
     Eng:"She conceived again, and when she gave birth to a son she said, \"Because the LORD heard  that I am not loved, he gave me this one too.\" So she named him Simeon.",
     Ind:"Mengandung pulalah ia, lalu melahirkan seorang anak laki-laki, maka ia berkata: \"Sesungguhnya, TUHAN telah mendengar, bahwa aku tidak dicintai, lalu diberikan-Nya pula anak ini kepadaku.\" Maka ia menamai anak itu Simeon."
   },
   {Bible:"Genesis", Chapter:29, Verse:34, Page:1,
-    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"내가 아들을 셋이나 낳았으니, 이제는 남편도 별 수 없이 나에게 c단단히 매이겠지\" 하면서, 아이 이름을 레위라고 하였다.(c 히, '라와')",
+    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"내가 아들을 셋이나 낳았으니, 이제는 남편도 별 수 없이 나에게 단단히 매이겠지\" 하면서, 아이 이름을 레위라고 하였다.",
     Chn:"她又怀孕生子，起名叫利未，说：「我给丈夫生了三个儿子，他必与我联合。」",
     Eng:"Again she conceived, and when she gave birth to a son she said, \"Now at last my husband  will become attached to me, because I have borne him three sons.\" So he was named Levi.",
     Ind:"Mengandung pulalah ia, lalu melahirkan seorang anak laki-laki, maka ia berkata: \"Sekali ini suamiku akan lebih erat kepadaku, karena aku telah melahirkan tiga anak laki-laki baginya.\" Itulah sebabnya ia menamai anak itu Lewi."
   },
   {Bible:"Genesis", Chapter:29, Verse:35, Page:1,
-    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"이제야말로 내가 주님을 d찬양하겠다\" 하면서, 아이 이름을 유다라고 하였다. 레아의 출산이 그쳤다.(d 히, '오다')",
+    Kor:"그가 또 임신을 하여 아들을 낳았다. 그는 속으로 \"이제야말로 내가 주를 찬양하겠다\" 하면서, 아이 이름을 유다라고 하였다. 레아의 출산이 그쳤다.",
     Chn:"她又怀孕生子，说：「这回我要赞美耶和华」，因此给他起名叫犹大。这才停了生育。",
     Eng:"She conceived again, and when she gave birth to a son she said, \"This time I will praise  the LORD.\" So she named him Judah. Then she stopped having children.",
     Ind:"Mengandung pulalah ia, lalu melahirkan seorang anak laki-laki, maka ia berkata: \"Sekali ini aku akan bersyukur kepada TUHAN.\" Itulah sebabnya ia menamai anak itu Yehuda. Sesudah itu ia tidak melahirkan lagi."

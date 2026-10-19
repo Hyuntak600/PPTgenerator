@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",18,30);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:18, Verse:1, Page:1,
-    Kor:"다윗이 사울과 이야기를 끝냈다. 그 뒤에 요나단은 다윗에게 마음이 끌려, 마치 제 목숨을 아끼듯 다윗을 아끼는 마음이 생겼다.",
+    Kor:"다윗이 사울과 이야기를 끝냈다. 그 뒤에 요나단은 다윗에게 마음이 끌려, 마치 제 목숨을 아끼듯, 다윗을 아끼는 마음이 생겼다.",
     Chn:"大卫对扫罗说完了话，约拿单的心与大卫的心深相契合。约拿单爱大卫，如同爱自己的性命。",
     Eng:"After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.",
     Ind:"Ketika Daud habis berbicara dengan Saul, berpadulah jiwa Yonatan dengan jiwa Daud; dan Yonatan mengasihi dia seperti jiwanya sendiri."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Daud maju berperang dan selalu berhasil ke mana juga Saul menyuruhnya, sehingga Saul mengangkat dia mengepalai para prajurit. Hal ini dipandang baik oleh seluruh rakyat dan juga oleh pegawai-pegawai Saul."
   },
   {Bible:"1Samuel", Chapter:18, Verse:6, Page:1,
-    Kor:"<사울이 다윗을 시기하다> ○다윗이 블레셋 사람을 쳐죽이고 군인들과 함께 돌아올 때에, 이스라엘의 모든 성읍에서 여인들이 소구와 꽹과리를 들고 나와서, 노래하고 춤추고 환호성을 지르면서 사울 왕을 환영하였다.",
+    Kor:"○다윗이 블레셋 사람을 쳐죽이고 군인들과 함께 돌아올 때에, 이스라엘의 모든 성읍에서 여인들이 소구와 꽹과리를 들고 나와서, 노래하고 춤추고 환호성을 지르면서 사울 왕을 환영하였다.",
     Chn:"大卫打死了那非利士人，同众人回来的时候，妇女们从以色列各城里出来，欢欢喜喜，打鼓击磬，歌唱跳舞，迎接扫罗王。",
     Eng:"When the men were returning home after David had killed the Philistine, the women came out from all the towns of Israel to meet King Saul with singing and dancing, with joyful songs and with tambourines and lutes.",
     Ind:"Tetapi pada waktu mereka pulang, ketika Daud kembali sesudah mengalahkan orang Filistin itu, keluarlah orang-orang perempuan dari segala kota Israel menyongsong raja Saul sambil menyanyi dan menari-nari dengan memukul rebana, dengan bersukaria dan dengan membunyikan gerincing;"
   },
   {Bible:"1Samuel", Chapter:18, Verse:7, Page:1,
-    Kor:"이 때에 여인들이 춤을 추면서 노래를 불렀다.  \"사울은 수천 명을 죽이고, 다윗은 수만 명을 죽였다.\"",
+    Kor:"이 때에 여인들이 춤을 추면서 노래를 불렀다. \"사울은 수천 명을 죽이고, 다윗은 수만 명을 죽였다.\"",
     Chn:"众妇女舞蹈唱和，说：「扫罗杀死千千，大卫杀死万万。」",
     Eng:"As they danced, they sang: \"Saul has slain his thousands, and David his tens of thousands.\"",
     Ind:"dan perempuan yang menari-nari itu menyanyi berbalas-balasan, katanya: \"Saul mengalahkan beribu-ribu musuh, tetapi Daud berlaksa-laksa.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Saul melemparkan tombak itu, karena pikirnya: \"Baiklah aku menancapkan Daud ke dinding.\" Tetapi Daud mengelakkannya sampai dua kali."
   },
   {Bible:"1Samuel", Chapter:18, Verse:12, Page:1,
-    Kor:"주님께서 자기를 떠나 다윗과 함께 계시는 것을 안 사울은, 다윗이 두려워졌다.",
+    Kor:"주께서 자기를 떠나 다윗과 함께 계시는 것을 안 사울은, 다윗이 두려워졌다.",
     Chn:"扫罗惧怕大卫；因为耶和华离开自己，与大卫同在。",
     Eng:"Saul was afraid of David, because the LORD was with David but had left Saul.",
     Ind:"Saul menjadi takut kepada Daud, karena TUHAN menyertai Daud, sedang dari pada Saul Ia telah undur."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Sebab itu Saul menjauhkan Daud dari dekatnya dan mengangkat dia menjadi kepala pasukan seribu, sehingga ia berada di depan dalam segala gerakan tentara."
   },
   {Bible:"1Samuel", Chapter:18, Verse:14, Page:1,
-    Kor:"주님께서 그와 함께 계셨기 때문에, 어디를 가든지 그는 항상 이겼다.",
+    Kor:"주께서 그와 함께 계셨기 때문에, 어디를 가든지, 그는 항상 이겼다.",
     Chn:"大卫做事无不精明，耶和华也与他同在。",
     Eng:"In everything he did he had great success, because the LORD was with him.",
     Ind:"Daud berhasil di segala perjalanannya, sebab TUHAN menyertai dia."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"tetapi seluruh orang Israel dan orang Yehuda mengasihi Daud, karena ia memimpin segala gerakan mereka."
   },
   {Bible:"1Samuel", Chapter:18, Verse:17, Page:1,
-    Kor:"<다윗이 사울의 사위가 되다> ○사울은 (자기의 손으로 다윗을 직접 죽이지 않고, 블레셋 사람의 손에 죽게 하려고 마음먹고,) 다윗에게 말하였다. \"내가 데리고 있는 나의 맏딸 메랍을 너의 아내로 줄 터이니, 너는 먼저, 주님께서 앞장 서서 싸우시는 '주님의 싸움'을 싸워서, 네가 정말 용사인 것을 나에게 보여라.\"",
+    Kor:"○사울은 (자기의 손으로 다윗을 직접 죽이지 않고, 블레셋 사람의 손에 죽게 하려고 마음먹고,) 다윗에게 말하였다. \"내가 데리고 있는 나의 맏딸 메랍을 너의 아내로 줄 터이니, 너는 먼저 주께서 앞장 서서 싸우시는 '주의 싸움'을 싸워서, 네가 정말 용사인 것을 나에게 보여라.\"",
     Chn:"扫罗对大卫说：「我将大女儿米拉给你为妻，只要你为我奋勇，为耶和华争战。」扫罗心里说：「我不好亲手害他，要借非利士人的手害他。」",
     Eng:"Saul said to David, \"Here is my older daughter Merab. I will give her to you in marriage; only serve me bravely and fight the battles of the LORD.\" For Saul said to himself, \"I will not raise a hand against him. Let the Philistines do that!\"",
     Ind:"Berkatalah Saul kepada Daud: \"Ini dia anakku perempuan yang tertua, Merab; dia akan kuberikan kepadamu menjadi isterimu, hanya jadilah bagiku seorang yang gagah perkasa dan lakukanlah perang TUHAN.\" Sebab pikir Saul: \"Janganlah tanganku memukul dia, tetapi biarlah ia dipukul oleh tangan orang Filistin.\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi Daud berkata kepada Saul: \"Siapakah aku dan siapakah sanak saudaraku, kaum ayahku, di antara orang Israel, sehingga aku menjadi menantu raja?\""
   },
   {Bible:"1Samuel", Chapter:18, Verse:19, Page:1,
-    Kor:"그런데 사울은 딸 메랍을 다윗에게 주기로 하고서도, 정작 때가 되자 사울은 그의 딸을 므홀랏 사람 아드리엘과 결혼시키고 말았다.",
+    Kor:"그런데 사울은 딸 메랍을 다윗에게 주기로 하고서도, 정작 때가 되자, 사울은 그의 딸을 므홀랏 사람 아드리엘과 결혼시키고 말았다.",
     Chn:"扫罗的女儿米拉到了当给大卫的时候，扫罗却给了米何拉人亚得列为妻。",
     Eng:"So when the time came for Merab, Saul's daughter, to be given to David, she was given in marriage to Adriel of Meholah.",
     Ind:"Tetapi ketika tiba waktunya untuk memberikan Merab, anak Saul itu, kepada Daud, maka anak perempuan itu diberikan kepada Adriel, orang Mehola, menjadi isterinya."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"sebab pikir Saul: \"Baiklah Mikhal kuberikan kepadanya; biarlah ia menjadi jerat bagi Daud, dan biarlah tangan orang Filistin memukul dia!\" Lalu berkatalah Saul kepada Daud untuk kedua kalinya: \"Pada hari ini engkau boleh menjadi menantuku.\""
   },
   {Bible:"1Samuel", Chapter:18, Verse:22, Page:1,
-    Kor:"사울이 신하들에게 지시하였다. \"당신들은 다윗에게 내가 다윗을 좋아한다고 말하시오. 그리고 당신들도 모두 다윗을 좋아한다고 말하시오. 이처럼 우리 모두가 다윗을 좋아하니, 임금의 사위가 되라고 슬쩍 말하시오.\"",
+    Kor:"사울이 신하들에게 지시하였다. \"너희는 다윗에게 내가 다윗을 좋아한다고 말하여라. 그리고 너희들도 모두 다윗을 좋아한다고 말하여라. 이처럼 우리 모두가 다윗을 좋아하니, 임금의 사위가 되라고 슬쩍 말하여라.\"",
     Chn:"扫罗吩咐臣仆说：「你们暗中对大卫说：『王喜悦你，王的臣仆也都喜爱你，所以你当作王的女婿。』」",
     Eng:"Then Saul ordered his attendants: \"Speak to David privately and say, 'Look, the king is pleased with you, and his attendants all like you; now become his son-in-law.'\"",
     Ind:"Lagi Saul memerintahkan kepada para pegawainya: \"Katakanlah kepada Daud dengan diam-diam, demikian: Sesungguhnya, raja suka kepadamu dan para pegawainya mengasihi engkau; maka sebab itu, jadilah engkau menantu raja.\""
   },
   {Bible:"1Samuel", Chapter:18, Verse:23, Page:1,
-    Kor:"사울의 신하들이 부탁받은 대로 그런 말을 다윗의 귀에 들어가게 하니, 다윗은 \"나는 가난하고 천한 사람인데, 어떻게 내가 임금님의 사위가 될 수 있겠습니까? 그것이 그렇게 쉬운 일로 보입니까?\" 하고 말하였다.",
+    Kor:"사울의 신하들이 부탁받은 대로 그런 말을 다윗의 귀에 들어가게 하니, 다윗은 \"나는 가난하고 천한 사람인데, 어떻게 내가 임금님의 사위가 될 수 있겠소? 그것이 그렇게 쉬운 일로 보입니까?\" 하고 말하였다.",
     Chn:"扫罗的臣仆就照这话说给大卫听。大卫说：「你们以为作王的女婿是一件小事吗？我是贫穷卑微的人。」",
     Eng:"They repeated these words to David. But David said, \"Do you think it is a small matter to become the king's son-in-law? I'm only a poor man and little known.\"",
     Ind:"Lalu para pegawai Saul menyampaikan perkataan itu kepada Daud, tetapi Daud menjawab: \"Perkara ringankah pada pemandanganmu menjadi menantu raja? Bukankah aku seorang yang miskin dan rendah?\""
@@ -147,25 +147,25 @@ BibleDB.add([
     Ind:"Para pegawai Saul memberitahukan kepada raja, katanya: \"Demikianlah jawab yang diberi Daud.\""
   },
   {Bible:"1Samuel", Chapter:18, Verse:25, Page:1,
-    Kor:"이 말을 들은 사울은 \"당신들은 다윗에게 내가 결혼 선물로 아무것도 바라지 않으며, 다만 나의 원수 블레셋 남자의 포피 백 개를 가져와서 나의 원수를 갚아 주는 것만을 바라더라고 하시오\" 하고 시켰다. (사울은 이렇게 하여, 다윗을 블레셋 사람의 손에 죽게 할 셈이었다.)",
+    Kor:"이 말을 들은 사울은 \"너희는 다윗에게 내가 결혼 선물로 아무것도 바라지 않으며, 다만 나의 원수 블레셋 사람의 양피 백 개를 가져와서 나의 원수를 갚아 주는 것만을 바라더라고 하여라\" 하고 시켰다. (사울은 이렇게 하여, 다윗을 블레셋 사람의 손에 죽게 할 셈이었다.)",
     Chn:"扫罗说：「你们要对大卫这样说：『王不要什么聘礼，只要一百非利士人的阳皮，好在王的仇敌身上报仇。』」扫罗的意思要使大卫丧在非利士人的手里。",
     Eng:"Saul replied, \"Say to David, 'The king wants no other price for the bride than a hundred Philistine foreskins, to take revenge on his enemies.'\" Saul's plan was to have David fall by the hands of the Philistines.",
     Ind:"Kemudian berkatalah Saul: \"Beginilah kamu katakan kepada Daud: Raja tidak menghendaki mas kawin selain dari seratus kulit khatan orang Filistin sebagai pembalasan kepada musuh raja.\" Saul bermaksud untuk menjatuhkan Daud dengan perantaraan orang Filistin."
   },
   {Bible:"1Samuel", Chapter:18, Verse:26, Page:1,
-    Kor:"사울의 신하들이 이 말을 그대로 다윗에게 전하였다. 다윗은 왕의 사위가 되는 것도 좋겠다고 생각하였다. 그래서 a결혼 날짜를 잡기도 전에,(a 또는 '시효가 지나기 전에')",
+    Kor:"사울의 신하들이 이 말을 그대로 다윗에게 전하였다. 다윗은 왕의 사위가 되는 것도 좋겠다고 생각하였다. 그래서 결혼 날짜를 잡기도 전에,",
     Chn:"扫罗的臣仆将这话告诉大卫，大卫就欢喜作王的女婿。日期还没有到，",
     Eng:"When the attendants told David these things, he was pleased to become the king's son-in-law. So before the allotted time elapsed,",
     Ind:"Ketika para pegawainya memberitahukan perkataan itu kepada Daud, maka setujulah Daud menjadi menantu raja. Waktunya belum genap,"
   },
   {Bible:"1Samuel", Chapter:18, Verse:27, Page:1,
-    Kor:"왕의 사위가 되려고, 자기 부하들을 거느리고 출전하여, 블레셋 남자 이백 명을 쳐죽이고 그들의 포피를 가져다가, 요구한 수대로 왕에게 바쳤다. 사울은 자기의 딸 미갈을 그에게 아내로 주었다.",
+    Kor:"왕의 사위가 되려고, 자기 부하들을 거느리고 출전하여, 블레셋 사람 이백 명을 쳐죽이고 그들의 양피를 가져다가, 요구한 수대로 왕에게 바쳤다. 사울은 자기의 딸 미갈을 그에게 아내로 주었다.",
     Chn:"大卫和跟随他的人起身前往，杀了二百非利士人，将阳皮满数交给王，为要作王的女婿。于是扫罗将女儿米甲给大卫为妻。",
     Eng:"David and his men went out and killed two hundred Philistines. He brought their foreskins and presented the full number to the king so that he might become the king's son-in-law. Then Saul gave him his daughter Michal in marriage.",
     Ind:"tetapi Daud sudah bersiap, ia pergi dengan orang-orangnya dan menewaskan dari orang Filistin itu dua ratus orang serta membawa kulit khatan mereka; dan dalam jumlah yang genap diberikan merekalah semuanya itu kepada raja, supaya Daud menjadi menantu raja. Kemudian Saul memberikan Mikhal, anaknya, kepadanya menjadi isterinya."
   },
   {Bible:"1Samuel", Chapter:18, Verse:28, Page:1,
-    Kor:"사울은 주님께서 다윗과 함께 계시다는 것을 알았고, 자기 딸 미갈마저도 다윗을 사랑하는 것을 보고서,",
+    Kor:"사울은 주께서 다윗과 함께 계시다는 것을 알았고, 자기 딸 미갈마저도 다윗을 사랑하는 것을 보고서,",
     Chn:"扫罗见耶和华与大卫同在，又知道女儿米甲爱大卫，",
     Eng:"When Saul realized that the LORD was with David and that his daughter Michal loved David,",
     Ind:"Lalu mengertilah Saul dan tahulah ia, bahwa TUHAN menyertai Daud, dan bahwa seluruh orang Israel mengasihi Daud."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Maka makin takutlah Saul kepada Daud. Saul tetap menjadi musuh Daud seumur hidupnya."
   },
   {Bible:"1Samuel", Chapter:18, Verse:30, Page:1,
-    Kor:"○그 무렵에 블레셋 지휘관들이 군대를 이끌고 침입해 와서 싸움을 걸곤 하였는데, 그 때마다 다윗이 사울의 장군들보다 더 큰 전과를 올렸기 때문에, 다윗은 아주 큰 명성을 얻었다.",
+    Kor:"○그 무렵에, 블레셋 지휘관들이 군대를 이끌고 침입해 와서 싸움을 걸곤 하였는데, 그 때마다 다윗이 사울의 장군들보다 더 큰 전과를 올렸기 때문에, 다윗은 아주 큰 명성을 얻었다.",
     Chn:"每逢非利士军长出来打仗，大卫比扫罗的臣仆做事精明，因此他的名被人尊重。",
     Eng:"The Philistine commanders continued to go out to battle, and as often as they did, David met with more success than the rest of Saul's officers, and his name became well known.",
     Ind:"Apabila raja-raja orang Filistin maju berperang, setiap kali mereka maju berperang, maka Daud lebih berhasil dari semua pegawai Saul, sehingga namanya sangat masyhur."

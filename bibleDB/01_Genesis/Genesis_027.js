@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",27,46);
 BibleDB.add([
   {Bible:"Genesis", Chapter:27, Verse:1, Page:1,
-    Kor:"<이삭이 야곱을 축복하다> 이삭이 늙어서, 눈이 어두워 잘 볼 수 없게 된 어느 날, 맏아들 에서를 불렀다. \"나의 아들아.\" 에서가 대답하였다. \"예, 제가 여기에 있습니다.\"",
+    Kor:"이삭이 늙어서, 눈이 어두워 잘 볼 수 없게 된 어느 날, 맏아들 에서를 불렀다. \"나의 아들아.\" 에서가 대답하였다. \"예, 제가 여기에 있습니다.\"",
     Chn:"以撒年老，眼睛昏花，不能看见，就叫了他大儿子以扫来，说：「我儿。」以扫说：「我在这里。」",
     Eng:"When Isaac was old and his eyes were so weak that he could no longer see, he called for Esau  his older son and said to him, \"My son.\" \"Here I am,\" he answered.",
     Ind:"Ketika Ishak sudah tua, dan matanya telah kabur, sehingga ia tidak dapat melihat lagi, dipanggilnyalah Esau, anak sulungnya, serta berkata kepadanya: \"Anakku.\" Sahut Esau: \"Ya, bapa.\""
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Berkatalah Ishak: \"Lihat, aku sudah tua, aku tidak tahu bila hari kematianku."
   },
   {Bible:"Genesis", Chapter:27, Verse:3, Page:1,
-    Kor:"그러니 이제 너는 나를 생각해서, 사냥할 때에 쓰는 기구들 곧 화살통과 활을 메고 들로 나가서, 사냥을 해다가,",
+    Kor:"그러니 이제, 너는 나를 생각해서, 사냥할 때에 쓰는 기구들, 곧 화살통과 활을 메고 들로 나가서, 사냥을 해다가,",
     Chn:"现在拿你的器械，就是箭囊和弓，往田野去为我打猎，",
     Eng:"Now then, get your weapons--your quiver and bow--and go out to the open country to hunt some  wild game for me.",
     Ind:"Maka sekarang, ambillah senjatamu, tabung panah dan busurmu, pergilah ke padang dan burulah bagiku seekor binatang;"
@@ -39,19 +39,19 @@ BibleDB.add([
     Ind:"berkatalah Ribka kepada Yakub, anaknya: \"Telah kudengar ayahmu berkata kepada Esau, kakakmu:"
   },
   {Bible:"Genesis", Chapter:27, Verse:7, Page:1,
-    Kor:"사냥을 해다가, 별미를 만들어서 아버지께 가져 오라고 하시면서, 그것을 잡수시고, 돌아가시기 전에, 주님 앞에서 너의 형에게 축복하겠다고 하시더라.",
+    Kor:"사냥을 해다가, 별미를 만들어서 아버지께 가져 오라고 하시면서, 그것을 잡수시고, 돌아가시기 전에, 주 앞에서 너의 형에게 축복하겠다고 하시더라.",
     Chn:"『你去把野兽带来，做成美味给我吃，我好在未死之先，在耶和华面前给你祝福。』",
     Eng:"'Bring me some game and prepare me some tasty food to eat, so that I may give you my  blessing in the presence of the LORD before I die.'",
     Ind:"Bawalah bagiku seekor binatang buruan dan olahlah bagiku makanan yang enak, supaya kumakan, dan supaya aku memberkati engkau di hadapan TUHAN, sebelum aku mati."
   },
   {Bible:"Genesis", Chapter:27, Verse:8, Page:1,
-    Kor:"그러니 얘야, 너의 어머니가 하는 말을 잘 듣고, 시키는 대로 하여라.",
+    Kor:"그러니 얘야, 네 어머니가 하는 말을 잘 듣고, 시키는 대로 하여라.",
     Chn:"现在，我儿，你要照着我所吩咐你的，听从我的话。",
     Eng:"Now, my son, listen carefully and do what I tell you:",
     Ind:"Maka sekarang, anakku, dengarkanlah perkataanku seperti yang kuperintahkan kepadamu."
   },
   {Bible:"Genesis", Chapter:27, Verse:9, Page:1,
-    Kor:"염소가 있는 데로 가서, 어린 것으로 통통한 놈 두 마리만 나에게 끌고 오너라. 너의 아버지가 어떤 것을 좋아하시는지 내가 잘 아니까, 아버지가 잡수실 별미를 만들어 줄 터이니,",
+    Kor:"염소가 있는 데로 가서, 어린 것으로 통통한 놈 두 마리만 나에게 끌고 오너라. 너의 아버지가 어떤 것을 좋아하시는지, 내가 잘 아니까, 아버지가 잡수실 별미를 만들어 줄 터이니,",
     Chn:"你到羊群里去，给我拿两只肥山羊羔来，我便照你父亲所爱的给他做成美味。",
     Eng:"Go out to the flock and bring me two choice young goats, so I can prepare some tasty food  for your father, just the way he likes it.",
     Ind:"Pergilah ke tempat kambing domba kita, ambillah dari sana dua anak kambing yang baik, maka aku akan mengolahnya menjadi makanan yang enak bagi ayahmu, seperti yang digemarinya."
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Lalu kata Yakub kepada Ribka, ibunya: \"Tetapi Esau, kakakku, adalah seorang yang berbulu badannya, sedang aku ini kulitku licin."
   },
   {Bible:"Genesis", Chapter:27, Verse:12, Page:1,
-    Kor:"아버지께서 만져 보시면 어떻게 되겠습니까? 아버지를 속인 죄로, 축복은커녕 오히려 저주를 받을 것이 아닙니까?\"",
+    Kor:"아버지께서 만져 보시면, 어떻게 되겠습니까? 아버지를 속인죄로, 축복은커녕 오히려 저주를 받을 것이 아닙니까?\"",
     Chn:"倘若我父亲摸着我，必以我为欺哄人的，我就招咒诅，不得祝福。」",
     Eng:"What if my father touches me? I would appear to be tricking him and would bring down a  curse on myself rather than a blessing.\"",
     Ind:"Mungkin ayahku akan meraba aku; maka nanti ia akan menyangka bahwa aku mau memperolok-olokkan dia; dengan demikian aku akan mendatangkan kutuk atas diriku dan bukan berkat.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:13, Page:1,
-    Kor:"어머니가 아들에게 말하였다. \"아들아, 저주는 이 어미가 받으마. 내가 시키는 대로 하여라. 가서, 두 마리를 끌고 오너라.\"",
+    Kor:"어머니가 아들에게 말하였다. \"아들아, 저주는 이 어머니가 받으마. 내가 시키는 대로 하여라. 가서, 두 마리를 끌고 오너라.\"",
     Chn:"他母亲对他说：「我儿，你招的咒诅归到我身上；你只管听我的话，去把羊羔给我拿来。」",
     Eng:"His mother said to him, \"My son, let the curse fall on me. Just do what I say; go and get  them for me.\"",
     Ind:"Tetapi ibunya berkata kepadanya: \"Akulah yang menanggung kutuk itu, anakku; dengarkan saja perkataanku, pergilah ambil kambing-kambing itu.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:14, Page:1,
-    Kor:"그가 가서, 두 마리를 붙잡아서 어머니에게 끌고 오니, 그의 어머니가 그것으로 아버지의 입맛에 맞게 별미를 만들었다.",
+    Kor:"그가 가서, 두 마리를 붙잡아서, 어머니에게 끌고 오니, 그의 어머니가 그것으로 아버지의 입맛에 맞게 별미를 만들었다.",
     Chn:"他便去拿来，交给他母亲；他母亲就照他父亲所爱的做成美味。",
     Eng:"So he went and got them and brought them to his mother, and she prepared some tasty food,  just the way his father liked it.",
     Ind:"Lalu ia pergi mengambil kambing-kambing itu dan membawanya kepada ibunya; sesudah itu ibunya mengolah makanan yang enak, seperti yang digemari ayahnya."
   },
   {Bible:"Genesis", Chapter:27, Verse:15, Page:1,
-    Kor:"그런 다음에 리브가는, 자기가 집에 잘 간직하여 둔 맏아들 에서의 옷 가운데 가장 좋은 것을 꺼내어, 작은 아들 야곱에게 입혔다.",
+    Kor:"그런 다음에, 리브가는, 자기가 집에 잘 간직하여 둔 맏아들 에서의 옷 가운데 가장 좋은 것을 꺼내어, 작은 아들 야곱에게 입혔다.",
     Chn:"利百加又把家里所存大儿子以扫上好的衣服给她小儿子雅各穿上，",
     Eng:"Then Rebekah took the best clothes of Esau her older son, which she had in the house, and  put them on her younger son Jacob.",
     Ind:"Kemudian Ribka mengambil pakaian yang indah kepunyaan Esau, anak sulungnya, pakaian yang disimpannya di rumah, lalu disuruhnyalah dikenakan oleh Yakub, anak bungsunya."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Lalu kata Ishak kepada Yakub: \"Datanglah mendekat, anakku, supaya aku meraba engkau, apakah engkau ini anakku Esau atau bukan.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:22, Page:1,
-    Kor:"야곱이 아버지 이삭에게 가까이 가니, 이삭이 아들을 만져 보고서 중얼거렸다. \"목소리는 야곱의 목소리인데, 손은 에서의 손이로구나.\"",
+    Kor:"야곱이 아버지 이삭에게 가까이 가니, 이삭이 아들을 만져 보고서, 중얼거렸다. \"목소리는 야곱의 목소리인데, 손은 에서의 손이로구나.\"",
     Chn:"雅各就挨近他父亲以撒。以撒摸着他，说：「声音是雅各的声音，手却是以扫的手。」",
     Eng:"Jacob went close to his father Isaac, who touched him and said, \"The voice is the voice of  Jacob, but the hands are the hands of Esau.\"",
     Ind:"Maka Yakub mendekati Ishak, ayahnya, dan ayahnya itu merabanya serta berkata: \"Kalau suara, suara Yakub; kalau tangan, tangan Esau.\""
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"tetapi ia masih bertanya: \"Benarkah engkau ini anakku Esau?\" Jawabnya: \"Ya!\""
   },
   {Bible:"Genesis", Chapter:27, Verse:25, Page:1,
-    Kor:"이삭이 말하였다. \"나의 아들아, 네가 사냥하여 온 것을 나에게 가져 오너라. 내가 그것을 먹고서, 너에게 마음껏 복을 빌어 주겠다.\" 야곱이 이삭에게 그 요리한 것을 가져다가 주니, 이삭이 그것을 먹었다. 야곱이 또 포도주를 가져다가 따르니, 이삭이 그것을 마셨다.",
+    Kor:"이삭이 말하였다. \"나의 아들아, 네가 사냥하여 온 것을 나에게 가져 오너라. 내가 그것을 먹고서, 너에게 마음껏 복을 빌어 주겠다.\" 야곱이 이삭에게 그 요리한 것을 가져다가 주니, 이삭이 그것을 먹었다. 야곱이 또 포도주를 가져다가 주니, 이삭이 그것을 마셨다.",
     Chn:"以撒说：「你递给我，我好吃我儿子的野味，给你祝福。」雅各就递给他，他便吃了，又拿酒给他，他也喝了。",
     Eng:"Then he said, \"My son, bring me some of your game to eat, so that I may give you my  blessing.\" Jacob brought it to him and he ate; and he brought some wine and he drank.",
     Ind:"Lalu berkatalah Ishak: \"Dekatkanlah makanan itu kepadaku, supaya kumakan daging buruan masakan anakku, agar aku memberkati engkau.\" Jadi didekatkannyalah makanan itu kepada ayahnya, lalu ia makan, dibawanya juga anggur kepadanya, lalu ia minum."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Berkatalah Ishak, ayahnya, kepadanya: \"Datanglah dekat-dekat dan ciumlah aku, anakku.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:27, Page:1,
-    Kor:"야곱이 가까이 가서, 그에게 입을 맞추었다. 이삭이 야곱의 옷에서 나는 냄새를 맡고서, 그에게 복을 빌어 주었다.  \"나의 아들에게서 나는 냄새는 주님께 복받은 밭의 냄새로구나.",
+    Kor:"야곱이 가까이 가서, 그에게 입을 맞추었다. 이삭이 야곱의 옷에서 나는 냄새를 맡고서, 그에게 복을 빌어 주었다. \"나의 아들에게서 나는 냄새는 주께 복받은 밭의 냄새로구나.",
     Chn:"他就上前与父亲亲嘴。他父亲一闻他衣服上的香气，就给他祝福，说： 我儿的香气 如同耶和华赐福之田地的香气一样。",
     Eng:"So he went to him and kissed him. When Isaac caught the smell of his clothes, he blessed  him and said, \"Ah, the smell of my son is like the smell of a field that the LORD has blessed.",
     Ind:"Lalu datanglah Yakub dekat-dekat dan diciumnyalah ayahnya. Ketika Ishak mencium bau pakaian Yakub, diberkatinyalah dia, katanya: \"Sesungguhnya bau anakku adalah sebagai bau padang yang diberkati TUHAN."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Bangsa-bangsa akan takluk kepadamu, dan suku-suku bangsa akan sujud kepadamu; jadilah tuan atas saudara-saudaramu, dan anak-anak ibumu akan sujud kepadamu. Siapa yang mengutuk engkau, terkutuklah ia, dan siapa yang memberkati engkau, diberkatilah ia.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:30, Page:1,
-    Kor:"<에서가 축복받기를 간청하다> ○이삭은 이렇게 야곱에게 축복하여 주었다. 야곱이 아버지 앞에서 막 물러나오는데, 사냥하러 나갔던 그의 형 에서가 돌아왔다.",
+    Kor:"○이삭은 이렇게 야곱에게 축복하여 주었다. 야곱이 아버지 앞에서 막 물러나오는데, 사냥하러 나갔던 그의 형 에서가 돌아왔다.",
     Chn:"以撒为雅各祝福已毕，雅各从他父亲那里才出来，他哥哥以扫正打猎回来，",
     Eng:"After Isaac finished blessing him and Jacob had scarcely left his father's presence, his  brother Esau came in from hunting.",
     Ind:"Setelah Ishak selesai memberkati Yakub, dan baru saja Yakub keluar meninggalkan Ishak, ayahnya, pulanglah Esau, kakaknya, dari berburu."
@@ -213,7 +213,7 @@ BibleDB.add([
     Ind:"Jawab ayahnya: \"Adikmu telah datang dengan tipu daya dan telah merampas berkat yang untukmu itu.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:36, Page:1,
-    Kor:"에서가 말하였다. \"그 녀석의 이름이 왜 a야곱인지, 이제야 알 것 같습니다. 그 녀석이 이번까지 두 번이나 저를 속였습니다. 지난번에는 맏아들의 권리를 저에게서 빼앗았고, 이번에는 제가 받을 복까지 빼앗아갔습니다.\" 에서가 아버지에게 물었다. \"저에게 주실 복을 하나도 남겨 두지 않으셨습니까?\"(a '발뒤꿈치를 잡다' 즉 '속이다')",
+    Kor:"에서가 말하였다. \"그 녀석의 이름이 왜 야곱인지, 이제야 알 것 같습니다. 그 녀석이 이번까지 두 번이나 저를 속였습니다. 지난번에는 맏아들의 권리를 저에게서 빼앗았고, 이번에는 제가 받을 복까지 빼앗아갔습니다.\" 에서가 아버지에게 물었다. \"저에게 주실 복을 하나도 남겨 두지 않으셨습니까?\"",
     Chn:"以扫说：「他名雅各，岂不是正对吗？因为他欺骗了我两次：他从前夺了我长子的名分，你看，他现在又夺了我的福分。」以扫又说：「你没有留下为我可祝的福吗？」",
     Eng:"Esau said, \"Isn't he rightly named Jacob? He has deceived me these two times: He took my  birthright, and now he's taken my blessing!\" Then he asked, \"Haven't you reserved any blessing  for me?\"",
     Ind:"Kata Esau: \"Bukankah tepat namanya Yakub, karena ia telah dua kali menipu aku. Hak kesulunganku telah dirampasnya, dan sekarang dirampasnya pula berkat yang untukku.\" Lalu katanya: \"Apakah bapa tidak mempunyai berkat lain bagiku?\""
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Kata Esau kepada ayahnya: \"Hanya berkat yang satu itukah ada padamu, ya bapa? Berkatilah aku ini juga, ya bapa!\" Dan dengan suara keras menangislah Esau."
   },
   {Bible:"Genesis", Chapter:27, Verse:39, Page:1,
-    Kor:"○그의 아버지 이삭이 그에게 대답하였다.  \"네가 살 곳은 땅이 기름지지 않고, 하늘에서 이슬도 내리지 않는 곳이다.",
+    Kor:"○그의 아버지 이삭이 그에게 대답하였다. \"네가 살 곳은 땅이 기름지지 않고, 하늘에서 이슬도 내리지 않는 곳이다.",
     Chn:"他父亲以撒说： 地上的肥土必为你所住； 天上的甘露必为你所得。",
     Eng:"His father Isaac answered him, \"Your dwelling will be away from the earth's richness, away  from the dew of heaven above.",
     Ind:"Lalu Ishak, ayahnya, menjawabnya: \"Sesungguhnya tempat kediamanmu akan jauh dari tanah-tanah gemuk di bumi dan jauh dari embun dari langit di atas."
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Engkau akan hidup dari pedangmu dan engkau akan menjadi hamba adikmu. Tetapi akan terjadi kelak, apabila engkau berusaha sungguh-sungguh, maka engkau akan melemparkan kuk itu dari tengkukmu.\""
   },
   {Bible:"Genesis", Chapter:27, Verse:41, Page:1,
-    Kor:"○에서는 아버지에게서 받을 축복을 야곱에게 빼앗긴 것 때문에 야곱에게 원한이 깊어갔다. 그는 혼자서 '아버지를 곡할 날이 머지 않았으니, 그 때가 되면, 동생 야곱을 죽이겠다' 하고 마음을 먹었다.",
+    Kor:"○에서는 아버지에게서 받을 축복을 야곱에게 빼앗긴 것 때문에, 야곱에게 원한이 깊어갔다. 그는 혼자서 \"아버지를 곡할 날이 머지 않았으니, 그 때가 되면, 동생 야곱을 죽이겠다\" 하고 마음을 먹었다.",
     Chn:"以扫因他父亲给雅各祝的福，就怨恨雅各，心里说：「为我父亲居丧的日子近了，到那时候，我要杀我的兄弟雅各。」",
     Eng:"Esau held a grudge against Jacob because of the blessing his father had given him. He said  to himself, \"The days of mourning for my father are near; then I will kill my brother Jacob.\"",
     Ind:"Esau menaruh dendam kepada Yakub karena berkat yang telah diberikan oleh ayahnya kepadanya, lalu ia berkata kepada dirinya sendiri: \"Hari-hari berkabung karena kematian ayahku itu tidak akan lama lagi; pada waktu itulah Yakub, adikku, akan kubunuh.\""
@@ -267,13 +267,13 @@ BibleDB.add([
     Ind:"dan tinggallah padanya beberapa waktu lamanya, sampai kegeraman"
   },
   {Bible:"Genesis", Chapter:27, Verse:45, Page:1,
-    Kor:"네 형의 분노가 풀리고, 네가 형에게 한 일을 너의 형이 잊으면, 거기를 떠나서 돌아오라고 전갈을 보내마. 내가 어찌 하루에 자식 둘을 다 잃겠느냐!\"",
+    Kor:"네 형의 분노가 풀리고, 네가 형에게 한 일을 너의 형이 잊으면, 거기를 떠나서 돌아오라고, 전갈을 보내마. 내가 어찌 하루에 자식 둘을 다 잃겠느냐!\"",
     Chn:"你哥哥向你消了怒气，忘了你向他所做的事，我便打发人去把你从那里带回来。为什么一日丧你们二人呢？」",
     Eng:"When your brother is no longer angry with you and forgets what you did to him, I'll send  word for you to come back from there. Why should I lose both of you in one day?\"",
     Ind:"dan kemarahan kakakmu itu surut dari padamu, dan ia lupa apa yang telah engkau perbuat kepadanya; kemudian aku akan menyuruh orang menjemput engkau dari situ. Mengapa aku akan kehilangan kamu berdua pada satu hari juga?\""
   },
   {Bible:"Genesis", Chapter:27, Verse:46, Page:1,
-    Kor:"<이삭이 야곱을 라반에게 보내다> ○리브가가 이삭에게 말하였다. \"나는, 헷 사람의 딸들 때문에, 사는 게 아주 넌더리가 납니다. 야곱이 이 땅에 사는 사람들의 딸들 곧 헷 사람의 딸들 가운데서 아내를 맞아들인다고 하면, 내가 살아 있다고는 하지만, 나에게 무슨 사는 재미가 있겠습니까?\"",
+    Kor:"○리브가가 이삭에게 말하였다. \"나는, 헷 사람의 딸들 때문에, 사는 게 아주 넌더리가 납니다. 야곱이 이 땅에 사는 사람들의 딸들, 곧 헷 사람의 딸들 가운데서 아내를 맞아들인다고 하면, 내가 살아 있다고는 하지만, 나에게 무슨 사는 재미가 있겠습니까?\"",
     Chn:"利百加对以撒说：「我因这赫人的女子连性命都厌烦了；倘若雅各也娶赫人的女子为妻，像这些一样，我活着还有什么益处呢？」",
     Eng:"Then Rebekah said to Isaac, \"I'm disgusted with living because of these Hittite women. If  Jacob takes a wife from among the women of this land, from Hittite women like these, my life will  not be worth living.\"",
     Ind:"Kemudian Ribka berkata kepada Ishak: \"Aku telah jemu hidup karena perempuan-perempuan Het itu; jikalau Yakub juga mengambil seorang isteri dari antara perempuan negeri ini, semacam perempuan Het itu, apa gunanya aku hidup lagi?\""

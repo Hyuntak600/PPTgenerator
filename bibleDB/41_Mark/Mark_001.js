@@ -3,37 +3,37 @@
 BibleDB.ref("Mark",1,45);
 BibleDB.add([
   {Bible:"Mark", Chapter:1, Verse:1, Page:1,
-    Kor:"<세례자 요한의 선포(마 3:1-12; 눅 3:1-9, 15-17; 요 1:19-28)> a하나님의 아들 예수 b그리스도의 c복음의 시작은 이러하다.(a 다른 고대 사본들에는 '하나님의 아들'이 없음 b 또는 '메시아'. 그리스도는 그리스어이고, 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함 c 또는 '기쁜 소식')",
+    Kor:"하나님의 아들 예수 그리스도의 복음의 시작은 이러하다.",
     Chn:"神的儿子，耶稣基督福音的起头。",
     Eng:"The beginning of the gospel about Jesus Christ, the Son of God.",
     Ind:"Inilah permulaan Injil tentang Yesus Kristus, Anak Allah."
   },
   {Bible:"Mark", Chapter:1, Verse:2, Page:1,
-    Kor:"○d예언자 이사야의 글에 기록하기를,  e\"보아라, 내가 내 심부름꾼을 f너보다 앞서 보낸다. 그가 네 길을 닦을 것이다.\" (d 다른 고대 사본들에는 '예언서들에' e 말 3:1 f 그, '네 얼굴 앞에')",
+    Kor:"예언자 이사야의 글에 기록하기를 \"보아라, 내가 내 심부름꾼을 너보다 먼저 보낸다. 그가 네 길을 닦을 것이다.\"",
     Chn:"正如先知以赛亚书上记着说： 看哪，我要差遣我的使者在你前面， 预备道路。",
     Eng:"It is written in Isaiah the prophet: \"I will send my messenger ahead of you, who will prepare your way\"--",
     Ind:"Seperti ada tertulis dalam kitab nabi Yesaya: \"Lihatlah, Aku menyuruh utusan-Ku mendahului Engkau, ia akan mempersiapkan jalan bagi-Mu;"
   },
   {Bible:"Mark", Chapter:1, Verse:3, Page:1,
-    Kor:"g\"광야에서 외치는 이의 소리가 있다. '너희는 주님의 길을 예비하고, 그의 길을 곧게 하여라'\" 한 것과 같이,(g 사 40:3(칠십인역))",
+    Kor:"\"광야에서 외치는 이의 소리가 있다. '너희는 주의 길을 예비하고, 그의 길을 곧게 하여라'\" 한 것과 같이,",
     Chn:"在旷野有人声喊着说： 预备主的道， 修直他的路。",
     Eng:"\"a voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him.'\"",
     Ind:"ada suara orang yang berseru-seru di padang gurun: Persiapkanlah jalan untuk Tuhan, luruskanlah jalan bagi-Nya\","
   },
   {Bible:"Mark", Chapter:1, Verse:4, Page:1,
-    Kor:"h세례자 요한이 광야에 나타나서, 죄를 용서받게 하는 회개의 i세례를 선포하였다.(h 또는 '침례자' i 또는 '침례')",
+    Kor:"세례자 요한이 광야에 나타나서, 죄를 용서받게 하는 회개의 세례를 선포하였다.",
     Chn:"照这话，约翰来了，在旷野施洗，传悔改的洗礼，使罪得赦。",
     Eng:"And so John came, baptizing in the desert region and preaching a baptism of repentance for the forgiveness of sins.",
     Ind:"demikianlah Yohanes Pembaptis tampil di padang gurun dan menyerukan: \"Bertobatlah dan berilah dirimu dibaptis dan Allah akan mengampuni dosamu.\""
   },
   {Bible:"Mark", Chapter:1, Verse:5, Page:1,
-    Kor:"그래서 온 유대 지방 사람들과 온 예루살렘 주민들이 그에게로 나아가서, 자기들의 죄를 고백하며, 요단 강에서 그에게 i세례를 받았다.",
+    Kor:"그래서 온 유대 지방 사람들과 온 예루살렘 주민들이 그에게로 나아가서, 자기들의 죄를 자백하고, 요단 강에서 그에게 세례를 받았다.",
     Chn:"犹太全地和耶路撒冷的人都出去到约翰那里，承认他们的罪，在约旦河里受他的洗。",
     Eng:"The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.",
     Ind:"Lalu datanglah kepadanya orang-orang dari seluruh daerah Yudea dan semua penduduk Yerusalem, dan sambil mengaku dosanya mereka dibaptis di sungai Yordan."
   },
   {Bible:"Mark", Chapter:1, Verse:6, Page:1,
-    Kor:"요한은 낙타 털옷을 입고, 허리에 가죽 띠를 띠고, 메뚜기와 들꿀을 먹고 살았다.",
+    Kor:"요한은 낙타 털 옷을 입고, 허리에 가죽 띠를 띠고, 메뚜기와 들꿀을 먹고 살았다.",
     Chn:"约翰穿骆驼毛的衣服，腰束皮带，吃的是蝗虫、野蜜。",
     Eng:"John wore clothing made of camel's hair, with a leather belt around his waist, and he ate locusts and wild honey.",
     Ind:"Yohanes memakai jubah bulu unta dan ikat pinggang kulit, dan makanannya belalang dan madu hutan."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Inilah yang diberitakannya: \"Sesudah aku akan datang Ia yang lebih berkuasa dari padaku; membungkuk dan membuka tali kasut-Nyapun aku tidak layak."
   },
   {Bible:"Mark", Chapter:1, Verse:8, Page:1,
-    Kor:"나는 여러분에게 물로 i세례를 주었지만, 그는 여러분에게 성령으로 i세례를 주실 것입니다.\"(i 또는 '침례')",
+    Kor:"나는 여러분에게 물로 세례를 주었지만, 그는 성령으로 세례를 주실 것입니다.\"",
     Chn:"我是用水给你们施洗，他却要用圣灵给你们施洗。」",
     Eng:"I baptize you with water, but he will baptize you with the Holy Spirit.\"",
     Ind:"Aku membaptis kamu dengan air, tetapi Ia akan membaptis kamu dengan Roh Kudus.\""
   },
   {Bible:"Mark", Chapter:1, Verse:9, Page:1,
-    Kor:"<예수께서 세례를 받으시다(마 3:13-17; 눅 3:21-22)> ○그 무렵에 예수께서 갈릴리 나사렛으로부터 오셔서, 요단 강에서 요한에게 i세례를 받으셨다.(i 또는 '침례')",
+    Kor:"○그 무렵에 예수께서 갈릴리 나사렛에서 오셔서, 요단 강에서 요한에게 세례를 받으셨다.",
     Chn:"那时，耶稣从加利利的拿撒勒来，在约旦河里受了 约翰的洗。",
     Eng:"At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
     Ind:"Pada waktu itu datanglah Yesus dari Nazaret di tanah Galilea, dan Ia dibaptis di sungai Yordan oleh Yohanes."
@@ -63,25 +63,25 @@ BibleDB.add([
     Ind:"Pada saat Ia keluar dari air, Ia melihat langit terkoyak, dan Roh seperti burung merpati turun ke atas-Nya."
   },
   {Bible:"Mark", Chapter:1, Verse:11, Page:1,
-    Kor:"그리고 하늘로부터 소리가 났다. \"너는 j내 사랑하는 아들이다. 내가 너를 좋아한다.\"(j 또는 '내 아들, 내 사랑하는 자다')",
+    Kor:"그리고 하늘로부터 소리가 났다. \"너는 내 사랑하는 아들이다. 내가 너를 좋아한다.\"",
     Chn:"又有声音从天上来，说：「你是我的爱子，我喜悦你。」",
     Eng:"And a voice came from heaven: \"You are my Son, whom I love; with you I am well pleased.\"",
     Ind:"Lalu terdengarlah suara dari sorga: \"Engkaulah Anak-Ku yang Kukasihi, kepada-Mulah Aku berkenan.\""
   },
   {Bible:"Mark", Chapter:1, Verse:12, Page:1,
-    Kor:"<시험을 받으시다(마 4:1-11; 눅 4:1-13)> ○그리고 곧 성령이 예수를 광야로 내보내셨다.",
+    Kor:"○그리고 곧 성령이 예수를 광야로 내보내셨다.",
     Chn:"圣灵就把耶稣催到旷野里去。",
     Eng:"At once the Spirit sent him out into the desert,",
     Ind:"Segera sesudah itu Roh memimpin Dia ke padang gurun."
   },
   {Bible:"Mark", Chapter:1, Verse:13, Page:1,
-    Kor:"예수께서 사십 일 동안 광야에 계셨는데, 거기서 사탄에게 시험을 받으셨다. 예수께서 들짐승들과 함께 지내셨는데, 천사들이 그의 시중을 들었다.",
+    Kor:"예수께서 사십 일 동안 광야에 계셨는데, 거기에서 사탄에게 시험을 받으셨다. 예수께서 들짐승들과 함께 지내셨는데, 천사들이 그의 시중을 들었다.",
     Chn:"他在旷野四十天，受撒但的试探，并与野兽同在一处，且有天使来伺候他。",
     Eng:"and he was in the desert forty days, being tempted by Satan. He was with the wild animals, and angels attended him.",
     Ind:"Di padang gurun itu Ia tinggal empat puluh hari lamanya, dicobai oleh Iblis. Ia berada di sana di antara binatang-binatang liar dan malaikat-malaikat melayani Dia."
   },
   {Bible:"Mark", Chapter:1, Verse:14, Page:1,
-    Kor:"<하나님의 나라를 선포하시다(마 4:12-17; 눅 4:14-15)> ○요한이 잡힌 뒤에, 예수께서 갈릴리에 오셔서, k하나님의 복음을 선포하셨다.(k 다른 고대 사본들에는 '(하나님의) 나라의')",
+    Kor:"○요한이 잡힌 뒤에, 예수께서 갈릴리에 오셔서, 하나님의 복음을 선포하셨다.",
     Chn:"约翰下监以后，耶稣来到加利利，宣传　神的福音，",
     Eng:"After John was put in prison, Jesus went into Galilee, proclaiming the good news of God.",
     Ind:"Sesudah Yohanes ditangkap datanglah Yesus ke Galilea memberitakan Injil Allah,"
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"kata-Nya: \"Waktunya telah genap; Kerajaan Allah sudah dekat. Bertobatlah dan percayalah kepada Injil!\""
   },
   {Bible:"Mark", Chapter:1, Verse:16, Page:1,
-    Kor:"<제자 넷을 부르시다(마 4:18-22; 눅 5:1-11)> ○예수께서 갈릴리 바닷가를 지나가시다가, 시몬과 그의 동생 안드레가 바다에서 그물을 던지고 있는 것을 보셨다. 그들은 어부였다.",
+    Kor:"○예수께서 갈릴리 바닷가를 지나가시다가, 시몬과 그의 동생 안드레가 바다에서 그물을 던지고 있는 것을 보셨다. 그들은 어부였다.",
     Chn:"耶稣顺着加利利的海边走，看见西门和西门的兄弟安得烈在海里撒网；他们本是打鱼的。",
     Eng:"As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen.",
     Ind:"Ketika Yesus sedang berjalan menyusur danau Galilea, Ia melihat Simon dan Andreas, saudara Simon. Mereka sedang menebarkan jala di danau, sebab mereka penjala ikan."
   },
   {Bible:"Mark", Chapter:1, Verse:17, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"나를 따라오너라. 내가 너희를 사람을 낚는 어부가 되게 하겠다.\"",
+    Kor:"예수께서 그들에게 \"나를 따라오너라. 내가 너희를 사람을 낚는 어부가 되게 하겠다\" 하고 말씀하셨다.",
     Chn:"耶稣对他们说：「来跟从我，我要叫你们得人如得鱼一样。」",
     Eng:"\"Come, follow me,\" Jesus said, \"and I will make you fishers of men.\"",
     Ind:"Yesus berkata kepada mereka: \"Mari, ikutlah Aku dan kamu akan Kujadikan penjala manusia.\""
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Yesus segera memanggil mereka dan mereka meninggalkan ayahnya, Zebedeus, di dalam perahu bersama orang-orang upahannya lalu mengikuti Dia."
   },
   {Bible:"Mark", Chapter:1, Verse:21, Page:1,
-    Kor:"<악한 귀신이 들린 사람을 고치시다(눅 4:31-37)> ○그들은 가버나움으로 들어갔다. 예수께서 안식일에 곧바로 회당에 들어가서 가르치셨는데,",
+    Kor:"○그들은 가버나움으로 들어갔다. 예수께서 안식일에 곧바로 회당에 들어가서 가르치셨는데,",
     Chn:"到了迦百农，耶稣就在安息日进了会堂教训人。",
     Eng:"They went to Capernaum, and when the Sabbath came, Jesus went into the synagogue and began to teach.",
     Ind:"Mereka tiba di Kapernaum. Setelah hari Sabat mulai, Yesus segera masuk ke dalam rumah ibadat dan mengajar."
   },
   {Bible:"Mark", Chapter:1, Verse:22, Page:1,
-    Kor:"사람들은 그의 가르침에 놀랐다. 예수께서 율법학자들과는 달리 권위 있게 가르치셨기 때문이다.",
+    Kor:"사람들은 그의 가르치심에 놀랐다. 예수께서 율법학자들과는 달리 권위 있게 가르치셨기 때문이다.",
     Chn:"众人很希奇他的教训；因为他教训他们，正像有权柄的人，不像文士。",
     Eng:"The people were amazed at his teaching, because he taught them as one who had authority, not as the teachers of the law.",
     Ind:"Mereka takjub mendengar pengajaran-Nya, sebab Ia mengajar mereka sebagai orang yang berkuasa, tidak seperti ahli-ahli Taurat."
   },
   {Bible:"Mark", Chapter:1, Verse:23, Page:1,
-    Kor:"그 때에 회당에 l악한 귀신 들린 사람이 하나 있었는데, 그가 큰소리로 이렇게 말하였다.(l 그, '더러운')",
+    Kor:"그 때에 회당에 악한 귀신 들린 사람이 하나 있었는데 그가 큰소리로 이렇게 말하였다.",
     Chn:"在会堂里，有一个人被污鬼附着。他喊叫说：",
     Eng:"Just then a man in their synagogue who was possessed by an evil spirit cried out,",
     Ind:"Pada waktu itu di dalam rumah ibadat itu ada seorang yang kerasukan roh jahat. Orang itu berteriak:"
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"\"Apa urusan-Mu dengan kami, hai Yesus orang Nazaret? Engkau datang hendak membinasakan kami? Aku tahu siapa Engkau: Yang Kudus dari Allah.\""
   },
   {Bible:"Mark", Chapter:1, Verse:25, Page:1,
-    Kor:"예수께서 그를 꾸짖어 말씀하셨다. \"입을 다물고 이 사람에게서 나가라.\"",
+    Kor:"예수께서 그를 꾸짖어 말씀하시기를 \"입을 다물고 이 사람에게서 나가거라\" 하셨다.",
     Chn:"耶稣责备他说：「不要作声！从这人身上出来吧。」",
     Eng:"\"Be quiet!\" said Jesus sternly. \"Come out of him!\"",
     Ind:"Tetapi Yesus menghardiknya, kata-Nya: \"Diam, keluarlah dari padanya!\""
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Lalu tersebarlah dengan cepat kabar tentang Dia ke segala penjuru di seluruh Galilea."
   },
   {Bible:"Mark", Chapter:1, Verse:29, Page:1,
-    Kor:"<많은 사람을 고치시다(마 8:14-17; 눅 4:38-41)> ○m그들은 회당에서 나와서, 곧바로 야고보와 요한과 함께 시몬과 안드레의 집으로 갔다.(m 다른 고대 사본들에는 '그는')",
+    Kor:"○그들은 회당에서 나와서, 곧바로 야고보와 요한과 함께 시몬과 안드레의 집으로 갔다.",
     Chn:"他们一出会堂，就同着雅各、约翰，进了西门和安得烈的家。",
     Eng:"As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew.",
     Ind:"Sekeluarnya dari rumah ibadat itu Yesus dengan Yakobus dan Yohanes pergi ke rumah Simon dan Andreas."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Ia menyembuhkan banyak orang yang menderita bermacam-macam penyakit dan mengusir banyak setan; Ia tidak memperbolehkan setan-setan itu berbicara, sebab mereka mengenal Dia."
   },
   {Bible:"Mark", Chapter:1, Verse:35, Page:1,
-    Kor:"<전도 여행을 떠나시다(눅 4:42-44)> ○아주 이른 새벽에, 예수께서 일어나서 외딴 곳으로 나가셔서, 거기에서 기도하고 계셨다.",
+    Kor:"○아주 이른 새벽에, 예수께서 일어나서 외딴 곳으로 나가셔서, 거기에서 기도하고 계셨다.",
     Chn:"次日早晨，天未亮的时候，耶稣起来，到旷野地方去，在那里祷告。",
     Eng:"Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.",
     Ind:"Pagi-pagi benar, waktu hari masih gelap, Ia bangun dan pergi ke luar. Ia pergi ke tempat yang sunyi dan berdoa di sana."
@@ -231,25 +231,25 @@ BibleDB.add([
     Ind:"Jawab-Nya: \"Marilah kita pergi ke tempat lain, ke kota-kota yang berdekatan, supaya di sana juga Aku memberitakan Injil, karena untuk itu Aku telah datang.\""
   },
   {Bible:"Mark", Chapter:1, Verse:39, Page:1,
-    Kor:"예수께서 온 갈릴리와 여러 회당을 두루 찾아가셔서 말씀을 전하고, 귀신들을 쫓아내셨다.",
+    Kor:"예수께서 온 갈릴리와 여러 회당을 두루 찾아가셔서 말씀을 전하고, 귀신들을 내쫓으셨다.",
     Chn:"于是在加利利全地，进了会堂，传道，赶鬼。",
     Eng:"So he traveled throughout Galilee, preaching in their synagogues and driving out demons.",
     Ind:"Lalu pergilah Ia ke seluruh Galilea dan memberitakan Injil dalam rumah-rumah ibadat mereka dan mengusir setan-setan."
   },
   {Bible:"Mark", Chapter:1, Verse:40, Page:1,
-    Kor:"<나병 환자를 깨끗하게 하시다(마 8:1-4; 눅 5:12-16)> ○나병 환자 한 사람이 예수께로 와서, 그 앞에 무릎을 꿇고 간청하였다. \"선생님께서 하고자 하시면, 나를 깨끗하게 해주실 수 있습니다.\"",
+    Kor:"○나병 환자 한 사람이 예수께로 와서, 그 앞에 무릎을 꿇고 \"선생님께서 하고자 하시면, 나를 깨끗하게 해주실 수 있습니다\" 하고 간청하였다.",
     Chn:"有一个长大麻风的来求耶稣，向他跪下，说：「你若肯，必能叫我洁净了。」",
     Eng:"A man with leprosy came to him and begged him on his knees, \"If you are willing, you can make me clean.\"",
     Ind:"Seorang yang sakit kusta datang kepada Yesus, dan sambil berlutut di hadapan-Nya ia memohon bantuan-Nya, katanya: \"Kalau Engkau mau, Engkau dapat mentahirkan aku.\""
   },
   {Bible:"Mark", Chapter:1, Verse:41, Page:1,
-    Kor:"예수께서 그를 불쌍히 여기시고, 손을 내밀어 그에게 대시고 말씀하셨다. \"그렇게 해주마. 깨끗하게 되어라.\"",
+    Kor:"예수께서 그를 불쌍히 여기시고, 손을 내밀어 그에게 대시고 \"그렇게 해주마. 깨끗하게 되어라\" 하고 말씀하시니,",
     Chn:"耶稣动了慈心，就伸手摸他，说：「我肯，你洁净了吧！」",
     Eng:"Filled with compassion, Jesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\"",
     Ind:"Maka tergeraklah hati-Nya oleh belas kasihan, lalu Ia mengulurkan tangan-Nya, menjamah orang itu dan berkata kepadanya: \"Aku mau, jadilah engkau tahir.\""
   },
   {Bible:"Mark", Chapter:1, Verse:42, Page:1,
-    Kor:"곧 n나병이 그에게서 떠나고, 그는 깨끗하게 되었다.(n 나병을 포함한 각종 악성 피부병)",
+    Kor:"곧 나병이 그에게서 떠나고, 그는 깨끗하게 되었다.",
     Chn:"大麻风即时离开他，他就洁净了。",
     Eng:"Immediately the leprosy left him and he was cured.",
     Ind:"Seketika itu juga lenyaplah penyakit kusta orang itu, dan ia menjadi tahir."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Segera Ia menyuruh orang itu pergi dengan peringatan keras:"
   },
   {Bible:"Mark", Chapter:1, Verse:44, Page:1,
-    Kor:"그 때에 예수께서 그에게 말씀하셨다. \"아무에게도 아무 말도 하지 말아라. 가서, 제사장에게 네 몸을 보이고, 네가 깨끗하게 된 것에 대하여 모세가 명령한 것을 바쳐서, 사람들에게 증거로 삼도록 하여라.\"",
+    Kor:"예수께서 그에게 말씀하셨다. \"아무에게도 아무 말도 하지 말아라. 가서, 제사장에게 네 몸을 보이고, 네가 깨끗하게 된 것에 대하여 모세가 명령한 것을 바쳐서, 사람들에게 증거로 삼도록 하여라.\"",
     Chn:"对他说：「你要谨慎，什么话都不可告诉人，只要去把身体给祭司察看，又因为你洁净了，献上摩西所吩咐的礼物，对众人作证据。」",
     Eng:"\"See that you don't tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.\"",
     Ind:"\"Ingatlah, janganlah engkau memberitahukan apa-apa tentang hal ini kepada siapapun, tetapi pergilah, perlihatkanlah dirimu kepada imam dan persembahkanlah untuk pentahiranmu persembahan, yang diperintahkan oleh Musa, sebagai bukti bagi mereka.\""

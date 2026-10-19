@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",47,15);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:47, Verse:1, Page:1,
-    Kor:"<바빌론 심판> \"처녀 딸 바빌론아, 내려와서 티끌에 앉아라. 딸 a바빌로니아야, 보좌를 잃었으니, 땅에 주저앉아라. 너의 몸매가 유연하고 맵시가 있다고들 하였지만, 이제는 아무도 그런 말을 하지 않을 것이다. (a 또는 '갈대아')",
+    Kor:"처녀 딸 바빌론아, 내려와서 티끌에 앉아라. 딸 바빌로니아야, 보좌를 잃었으니, 땅에 주저앉아라. 너의 몸매가 유연하고 맵시가 있다고들 하였지만, 이제는 아무도 그런 말을 하지 않을 것이다.",
     Chn:"巴比伦的处女啊， 下来坐在尘埃； 迦勒底的闺女啊， 没有宝座，要坐在地上； 因为你不再称为柔弱娇嫩的。",
     Eng:"\"Go down, sit in the dust, Virgin Daughter of Babylon; sit on the ground without a throne, Daughter of the Babylonians. No more will you be called tender or delicate.",
     Ind:"Turunlah dan duduklah di atas debu, hai anak dara, puteri Babel! Duduklah di tanah dengan tidak bertakhta, hai puteri Kasdim! Sebab engkau tidak akan disebutkan lagi manis dan genit."
@@ -27,19 +27,19 @@ BibleDB.add([
     Ind:"kata Penebus kami, TUHAN semesta alam nama-Nya, Yang Mahakudus, Allah Israel."
   },
   {Bible:"Isaiah", Chapter:47, Verse:5, Page:1,
-    Kor:"\"딸 a바빌로니아야, 잠잠히 앉아 있다가 어둠 속으로 사라져라. 사람들이 이제부터는 너를 민족들의 여왕이라고 부르지 않을 것이다. (a 또는 '갈대아')",
+    Kor:"\"딸 바빌로니아야, 잠잠히 앉아 있다가 어둠 속으로 사라져라. 사람들이 이제부터는 너를 민족들의 여왕이라고 부르지 않을 것이다.",
     Chn:"迦勒底的闺女啊， 你要默然静坐，进入暗中， 因为你不再称为列国的主母。",
     Eng:"\"Sit in silence, go into darkness, Daughter of the Babylonians; no more will you be called queen of kingdoms.",
     Ind:"Duduklah dengan berdiam diri dan masuklah ke dalam gelap, hai puteri Kasdim! Sebab engkau tidak akan disebutkan lagi ratu atas kerajaan-kerajaan."
   },
   {Bible:"Isaiah", Chapter:47, Verse:6, Page:1,
-    Kor:"전에 내가 나의 백성에게 진노하여, 나의 소유, 나의 백성이 곤욕을 치르게 하고, 그들을 네 손에 넘겼다. 그런데 네가 나의 백성을 가엾게 여기지 아니하고, 노인에게도 무거운 멍에를 메웠다.",
+    Kor:"전에 내가 나의 백성에게 진노하여, 나의 소유, 나의 백성이 곤욕을 치르게 하고, 그들을 네 손에 넘겼다. 그런데 네가 나의 백성을 가엾게 여기지 아니하고, 노인들에게도 무거운 멍에를 메웠다.",
     Chn:"我向我的百姓发怒， 使我的产业被亵渎， 将他们交在你手中， 你毫不怜悯他们， 把极重的轭加在老年人身上。",
     Eng:"I was angry with my people and desecrated my inheritance; I gave them into your hand, and you showed them no mercy. Even on the aged you laid a very heavy yoke.",
     Ind:"Aku tadinya murka terhadap umat-Ku, menajiskan milik pusaka-Ku, dan menyerahkannya ke dalam tanganmu; dan engkau tidak menaruh belas kasihan kepada mereka, bahkan sangat memberatkan kukmu kepada orang yang tua."
   },
   {Bible:"Isaiah", Chapter:47, Verse:7, Page:1,
-    Kor:"b너는 언제까지나 네가 여왕으로 군림할 것이라고 믿고, 이런 일들을 네 마음에 두지도 않았으며, 이후에 일어날 일은 생각조차 하지 않았다. (b 또는 '너는 네가 권좌의 여왕으로')",
+    Kor:"너는 언제까지나 네가 여왕으로 군림할 것이라고 믿고, 이런 일들을 네 마음에 두지도 않았으며, 이후에 일어날 일은 생각조차 하지 않았다.",
     Chn:"你自己说：我必永为主母， 所以你不将这事放在心上， 也不思想这事的结局。",
     Eng:"You said, 'I will continue forever--the eternal queen!' But you did not consider these things or reflect on what might happen.",
     Ind:"Katamu tadinya: \"Untuk selama-lamanya aku tetap menjadi ratu!\" sedang engkau tidak menyadari dan tidak memikirkan kesudahan semuanya itu."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Tetapi malapetaka akan menimpa engkau, engkau tidak tahu mempergunakan jampimu terhadapnya; bencana akan jatuh atasmu, engkau tidak sanggup menampiknya dengan mempersembahkan korban; kebinasaan akan menimpa engkau dengan sekonyong-konyong, yang tidak terduga olehmu."
   },
   {Bible:"Isaiah", Chapter:47, Verse:12, Page:1,
-    Kor:"자, 네가 젊어서부터 부리던 마술과 여러 가지 주술을 가지고 버티어 보아라. 혹시 그것들이 너에게 도움이 될지도 모르고, 아니면 너의 대적들이 그것을 보고, 너를 두려워할지도 모르지 않느냐!",
+    Kor:"자, 네가 젊어서부터 부리던 마술과 주술을 가지고 버티어 보아라. 혹시 그것들이 너에게 도움이 될지도 모르고, 아니면 너의 대적들이 그것을 보고, 너를 두려워할지도 모르지 않느냐!",
     Chn:"站起来吧！ 用你从幼年劳神施行的符咒和你许多的邪术； 或者可得益处， 或者可得强胜。",
     Eng:"\"Keep on, then, with your magic spells and with your many sorceries, which you have labored at since childhood. Perhaps you will succeed, perhaps you will cause terror.",
     Ind:"Bertahan sajalah dengan segala manteramu dan sihirmu yang banyak itu, yang telah kaurepotkan dari sejak kecilmu; mungkin engkau sanggup mendatangkan bantuan, mungkin engkau dapat menimbulkan ketakutan."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Engkau telah payah karena banyaknya nasihat! Biarlah tampil dan menyelamatkan engkau orang-orang yang meneliti segala penjuru langit, yang menilik bintang-bintang dan yang pada setiap bulan baru memberitahukan apa yang akan terjadi atasmu!"
   },
   {Bible:"Isaiah", Chapter:47, Verse:14, Page:1,
-    Kor:"보아라, 그들은 검불같이 되어서, 불에 타고 말 것이다. 그 불은 빵이나 굽는 숯불이 아니고, 손이나 따뜻하게 하는 화롯불도 아니다. 그 불은 너무나도 뜨거워서, 그들 스스로를 그 불에서 구하여 내지 못할 것이다.",
+    Kor:"보아라, 그들은 검불같이 되어서, 불에 타고 말 것이다. 그 불은 빵이나 굽는 숯불도 아니고, 손이나 따뜻하게 하는 화롯불도 아니다. 그 불은 너무나도 뜨거워서, 그들 스스로를 그 불에서 구하여 내지 못할 것이다.",
     Chn:"他们要像碎秸被火焚烧， 不能救自己脱离火焰之力； 这火并非可烤的炭火， 也不是可以坐在其前的火。",
     Eng:"Surely they are like stubble; the fire will burn them up. They cannot even save themselves from the power of the flame. Here are no coals to warm anyone; here is no fire to sit by.",
     Ind:"Sesungguhnya, mereka sebagai jerami yang dibakar api; mereka tidak dapat melepaskan nyawanya dari kuasa nyala api; api itu bukan bara api untuk memanaskan diri, bukan api untuk berdiang!"

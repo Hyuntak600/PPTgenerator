@@ -3,7 +3,7 @@
 BibleDB.ref("Haggai",2,23);
 BibleDB.add([
   {Bible:"Haggai", Chapter:2, Verse:1, Page:1,
-    Kor:"그 해 일곱째 달, 그 달 이십일일에, 학개 예언자가 주님의 말씀을 받아서 전하였다.",
+    Kor:"그 해 일곱째 달, 그 달 이십일일에, 학개 예언자가 주의 말씀을 받아서 전하였다.",
     Chn:"七月二十一日，耶和华的话临到先知哈该说：",
     Eng:"On the twenty-first day of the seventh month, the word of the LORD came through the prophet Haggai:",
     Ind:"(2-2) dalam bulan yang ketujuh, pada tanggal dua puluh satu bulan itu, datanglah firman TUHAN dengan perantaraan nabi Hagai, bunyinya:"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"(2-10) Adapun Rumah ini, kemegahannya yang kemudian akan melebihi kemegahannya yang semula, firman TUHAN semesta alam, dan di tempat ini Aku akan memberi damai sejahtera, demikianlah firman TUHAN semesta alam.\""
   },
   {Bible:"Haggai", Chapter:2, Verse:10, Page:1,
-    Kor:"○다리우스 왕 이년 아홉째 달 이십사일에, 주님께서 학개 예언자에게 말씀하셨다.",
+    Kor:"○다리우스 왕 이년 아홉째 달 이십사일에, 주께서 학개 예언자에게 말씀하셨다.",
     Chn:"大流士王第二年九月二十四日，耶和华的话临到先知哈该说：",
     Eng:"On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the LORD came to the prophet Haggai:",
     Ind:"(2-11) Pada tanggal dua puluh empat bulan yang kesembilan, pada tahun yang kedua zaman Darius, datanglah firman TUHAN kepada nabi Hagai, bunyinya:"
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"(2-13) Andaikata seseorang membawa daging kudus dalam punca bajunya, lalu dengan puncanya itu ia menyentuh roti atau sesuatu masakan atau anggur atau minyak atau sesuatu yang dapat dimakan, menjadi kuduskah yang disentuh itu?\" Lalu para imam itu menjawab, katanya: \"Tidak!\""
   },
   {Bible:"Haggai", Chapter:2, Verse:13, Page:1,
-    Kor:"학개가 또다시 시체에 닿아서 더러워진 사람이, 이 모든 것 가운데서 어느 것에라도 닿으면, 그것이 더러워지는 지를 물어 보니, 제사장들이 그렇다고 대답하였다.",
+    Kor:"학개가 또다시 \"시체에 닿아서 더러워진 사람이, 이 모든 것 가운데서 어느 것에라도 닿으면, 그것이 더러워지느냐?\" 하고 물어 보니, 제사장들이 그렇다고 대답하였다.",
     Chn:"哈该又说：「若有人因摸死尸染了污秽，然后挨着这些物的哪一样，这物算污秽吗？」祭司说：「必算污秽。」",
     Eng:"Then Haggai said, \"If a person defiled by contact with a dead body touches one of these things, does it become defiled?\" \"Yes,\" the priests replied, \"it becomes defiled.\"",
     Ind:"(2-14) Berkatalah pula Hagai: \"Jika seseorang yang najis oleh mayat menyentuh semuanya ini, menjadi najiskah yang disentuh itu?\" Lalu para imam itu menjawab, katanya: \"Tentu!\""
   },
   {Bible:"Haggai", Chapter:2, Verse:14, Page:1,
-    Kor:"○이에 학개가 외쳤다.  \"이 백성은 정말 더러워졌다. 이 민족은 내 앞에서 정말 그렇다. 나 주의 말이다. 그들이 손으로 하는 모든 일이 그렇고, 그들이 제단에 바치는 것도 모두 더러워졌다.",
+    Kor:"이에 학개가 외쳤다. \"이 백성은 정말 더러워졌다. 이 민족은 내 앞에서 정말 그렇다. 나 주의 말이다. 그들이 손으로 하는 모든 일이 그렇고, 그들이 제단에 바치는 것도 모두 더러워졌다.",
     Chn:"于是哈该说：「耶和华说：这民这国，在我面前也是如此；他们手下的各样工作都是如此；他们在坛上所献的也是如此。」",
     Eng:"Then Haggai said, \"'So it is with this people and this nation in my sight,' declares the LORD. 'Whatever they do and whatever they offer there is defiled.",
     Ind:"(2-15) Maka berbicaralah Hagai, katanya: \"Begitu juga dengan umat ini dan dengan bangsa ini di hadapan-Ku, demikianlah firman TUHAN, dan dengan segala yang dibuat tangan mereka; dan yang dipersembahkan mereka di sana adalah najis.\""
   },
   {Bible:"Haggai", Chapter:2, Verse:15, Page:1,
-    Kor:"○그러므로 이제, a너희는 오늘에 이르기까지, 최근에 일어난 일들을 돌이켜 보아라. 주의 성전을 아직 짓지 않았을 때에,(a 또는 '너희는 오늘부터 무슨 일이 생길지 잘 생각해 보아라')",
+    Kor:"○그러므로 이제, 너희는 오늘에 이르기까지, 최근에 일어난 일들을 돌이켜 보아라. 주의 성전을 아직 짓지 않았을 때에,",
     Chn:"现在你们要追想，此日以前，耶和华的殿没有一块石头垒在石头上的光景。",
     Eng:"\"'Now give careful thought to this from this day on--consider how things were before one stone was laid on another in the LORD'S temple.",
     Ind:"(2-16) \"Maka sekarang, perhatikanlah mulai dari hari ini dan selanjutnya! Sebelum ditaruh orang batu demi batu untuk pembangunan bait TUHAN,"
   },
   {Bible:"Haggai", Chapter:2, Verse:16, Page:1,
-    Kor:"b너희 형편이 어떠하였느냐? 스무 섬이 나는 밭에서는 겨우 열 섬밖에 못 거두었고, 쉰 동이가 나는 포도주 틀에서는 겨우 스무 동이밖에 얻지 못하였다.(b 히, '그 때 이후로')",
+    Kor:"너희 형편이 어떠하였느냐? 스무 섬이 나는 밭에서는 겨우 열 섬밖에 못 거두었고, 쉰 동이가 나는 포도주 틀에서는 겨우 스무 동이밖에 얻지 못하였다.",
     Chn:"在那一切日子，有人来到谷堆，想得二十斗，只得了十斗。有人来到酒池，想得五十桶，只得了二十桶。",
     Eng:"When anyone came to a heap of twenty measures, there were only ten. When anyone went to a wine vat to draw fifty measures, there were only twenty.",
     Ind:"(2-17) bagaimana keadaanmu? Ketika orang pergi melihat suatu timbunan gandum yang seharusnya sebanyak dua puluh gantang, hanya ada sepuluh; dan ketika orang pergi ke tempat pemerasan anggur untuk mencedok lima puluh takar, hanya ada dua puluh."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"(2-20) apakah benih masih tinggal tersimpan dalam lumbung, dan apakah pohon anggur dan pohon ara, pohon delima dan pohon zaitun belum berbuah? Mulai dari hari ini Aku akan memberi berkat!\""
   },
   {Bible:"Haggai", Chapter:2, Verse:20, Page:1,
-    Kor:"○그 달 이십사일에, 주님께서 다시 학개에게 말씀하셨다.",
+    Kor:"○그 달 이십사일에, 주께서 다시 학개에게 말씀하셨다.",
     Chn:"这月二十四日，耶和华的话二次临到哈该说：",
     Eng:"The word of the LORD came to Haggai a second time on the twenty-fourth day of the month:",
     Ind:"(2-21) Maka datanglah firman TUHAN untuk kedua kalinya kepada Hagai pada tanggal dua puluh empat bulan itu, bunyinya:"

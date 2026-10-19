@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",12,51);
 BibleDB.add([
   {Bible:"Exodus", Chapter:12, Verse:1, Page:1,
-    Kor:"<유월절> 주님께서 이집트 땅에서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 이집트 땅에서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华在埃及地晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron in Egypt,",
     Ind:"Berfirmanlah TUHAN kepada Musa dan Harun di tanah Mesir:"
   },
   {Bible:"Exodus", Chapter:12, Verse:2, Page:1,
-    Kor:"\"너희는 이 달을 한 해의 a첫째 달로 삼아서, 한 해를 시작하는 달로 하여라.(a 아빕월, 양력 삼월 중순 이후)",
+    Kor:"\"너희는 이 달을 한 해의 첫째 달로 삼아서, 한 해를 시작하는 달로 하여라.",
     Chn:"「你们要以本月为正月，为一年之首。",
     Eng:"\"This month is to be for you the first month, the first month of your year.",
     Ind:"\"Bulan inilah akan menjadi permulaan segala bulan bagimu; itu akan menjadi bulan pertama bagimu tiap-tiap tahun."
   },
   {Bible:"Exodus", Chapter:12, Verse:3, Page:1,
-    Kor:"온 이스라엘 회중에게 알리어라. 이 달 열흘날 각 가문에 어린 양 한 마리씩 곧 한 가족에 한 마리씩 어린 양을 마련하도록 하여라.",
+    Kor:"온 이스라엘 회중에게 알리어라. 이 달 열흘날 각 가문에 어린 양 한 마리씩, 곧 한 가족에 한 마리씩 어린 양을 마련하도록 하여라.",
     Chn:"你们吩咐以色列全会众说：本月初十日，各人要按着父家取羊羔，一家一只。",
     Eng:"Tell the whole community of Israel that on the tenth day of this month each man is to take a lamb for his family, one for each household.",
     Ind:"Katakanlah kepada segenap jemaah Israel: Pada tanggal sepuluh bulan ini diambillah oleh masing-masing seekor anak domba, menurut kaum keluarga, seekor anak domba untuk tiap-tiap rumah tangga."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Janganlah kamu tinggalkan apa-apa dari daging itu sampai pagi; apa yang tinggal sampai pagi kamu bakarlah habis dengan api."
   },
   {Bible:"Exodus", Chapter:12, Verse:11, Page:1,
-    Kor:"너희가 그것을 먹을 때에는 이렇게 하여라. 허리에 띠를 띠고, 발에 신을 신고, 손에 지팡이를 들고, 서둘러서 먹어라. b유월절은 주 앞에서 이렇게 지켜야 한다.(b 히, '페싸흐(넘다)'. 우리말 '유월'은 '넘어가다' 또는 '지나가다'는 뜻(13, 27절의 주를 볼 것))",
+    Kor:"너희가 그것을 먹을 때에는 이렇게 하여라. 허리에 띠를 띠고, 발에 신을 신고, 손에 지팡이를 들고, 서둘러서 먹어라. 유월절은 주 앞에서 이렇게 지켜야 한다.",
     Chn:"你们吃羊羔当腰间束带，脚上穿鞋，手中拿杖，赶紧地吃；这是耶和华的逾越节。",
     Eng:"This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the LORD'S Passover.",
     Ind:"Dan beginilah kamu memakannya: pinggangmu berikat, kasut pada kakimu dan tongkat di tanganmu; buru-burulah kamu memakannya; itulah Paskah bagi TUHAN."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Sebab pada malam ini Aku akan menjalani tanah Mesir, dan semua anak sulung, dari anak manusia sampai anak binatang, akan Kubunuh, dan kepada semua allah di Mesir akan Kujatuhkan hukuman, Akulah, TUHAN."
   },
   {Bible:"Exodus", Chapter:12, Verse:13, Page:1,
-    Kor:"문틀에 피를 발랐으면, 그것은 너희가 살고 있는 집의 표적이니, 내가 이집트 땅을 칠 때에, 문설주에 피를 바른 집은, 그 피를 보고 내가 너희를 치지 않고 c넘어갈 터이니, 너희는 재앙을 피하여 살아 남을 것이다.(c 히, '파싸흐')",
+    Kor:"문틀에 피를 발랐으면, 그것은 너희가 살고 있는 집의 표적이니, 내가 이집트 땅을 칠 때에, 문설주에 피를 바른 집은, 그 피를 보고 내가 너희를 치지 않고 넘어갈 터이니, 너희는 재앙을 피하여 살아 남을 것이다.",
     Chn:"这血要在你们所住的房屋上作记号；我一见这血，就越过你们去。我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。」",
     Eng:"The blood will be a sign for you on the houses where you are; and when I see the blood, I will pass over you. No destructive plague will touch you when I strike Egypt.",
     Ind:"Dan darah itu menjadi tanda bagimu pada rumah-rumah di mana kamu tinggal: Apabila Aku melihat darah itu, maka Aku akan lewat dari pada kamu. Jadi tidak akan ada tulah kemusnahan di tengah-tengah kamu, apabila Aku menghukum tanah Mesir."
   },
   {Bible:"Exodus", Chapter:12, Verse:14, Page:1,
-    Kor:"이 날은 너희가 기념해야 할 날이니, 너희는 이 날을 주 앞에서 지키는 절기로 삼아서 영원한 규례로 대대로 지켜야 한다.\"",
+    Kor:"이 날은 너희가 기념해야 할 날이니, 너희는 이 날을 주 앞에서 지키는 절기로 삼아서 영원한 규례로 대대에 지켜야 한다.",
     Chn:"「你们要记念这日，守为耶和华的节，作为你们世世代代永远的定例。",
     Eng:"\"This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the LORD--a lasting ordinance.",
     Ind:"Hari ini akan menjadi hari peringatan bagimu. Kamu harus merayakannya sebagai hari raya bagi TUHAN turun-temurun. Kamu harus merayakannya sebagai ketetapan untuk selamanya."
   },
   {Bible:"Exodus", Chapter:12, Verse:15, Page:1,
-    Kor:"<무교절> ○\"너희는 이레 동안, 누룩을 넣지 않고 만든 빵을 먹어야 한다. 그 첫날에 너희는 집에서 누룩을 말끔히 치워라. 첫날부터 이렛날까지 누룩을 넣은 빵을 먹는 사람은 누구든지 이스라엘에서 끊어진다.",
+    Kor:"○너희는 이레 동안, 누룩을 넣지 않고 만든 빵을 먹어야 한다. 그 첫날에, 너희는 집에서 누룩을 말끔히 치워라. 첫날부터 이렛날까지 누룩을 넣은 빵을 먹는 사람은 누구든지 이스라엘에서 끊어진다.",
     Chn:"你们要吃无酵饼七日。头一日要把酵从你们各家中除去；因为从头一日起，到第七日为止，凡吃有酵之饼的，必从以色列中剪除。",
     Eng:"For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses, for whoever eats anything with yeast in it from the first day through the seventh must be cut off from Israel.",
     Ind:"Kamu makanlah roti yang tidak beragi tujuh hari lamanya; pada hari pertamapun kamu buanglah segala ragi dari rumahmu, sebab setiap orang yang makan sesuatu yang beragi, dari hari pertama sampai hari ketujuh, orang itu harus dilenyapkan dari antara Israel."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Kamu adakanlah pertemuan yang kudus, baik pada hari yang pertama maupun pada hari yang ketujuh; pada hari-hari itu tidak boleh dilakukan pekerjaan apapun; hanya apa yang perlu dimakan setiap orang, itu sajalah yang boleh kamu sediakan."
   },
   {Bible:"Exodus", Chapter:12, Verse:17, Page:1,
-    Kor:"너희는 무교절을 지켜야 한다. 바로 이 날에 내가 이집트 땅에서 너희 온 이스라엘 지파를 이끌어 냈기 때문이다. 너희는 이 날을 영원한 규례로 삼아서 대대로 지켜야 한다.",
+    Kor:"너희는 무교절을 지켜야 한다. 바로 이 날에, 내가 이집트 땅에서 너희 온 이스라엘 지파를 이끌어 냈기 때문이다. 너희는 이 날을 영원한 규례로 삼아서 대대로 지켜야 한다.",
     Chn:"你们要守无酵节，因为我正当这日把你们的军队从埃及地领出来。所以，你们要守这日，作为世世代代永远的定例。",
     Eng:"\"Celebrate the Feast of Unleavened Bread, because it was on this very day that I brought your divisions out of Egypt. Celebrate this day as a lasting ordinance for the generations to come.",
     Ind:"Jadi kamu harus tetap merayakan hari raya makan roti yang tidak beragi, sebab tepat pada hari ini juga Aku membawa pasukan-pasukanmu keluar dari tanah Mesir. Maka haruslah kamu rayakan hari ini turun-temurun; itulah suatu ketetapan untuk selamanya."
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"Sesuatu apapun yang beragi tidak boleh kamu makan; kamu makanlah roti yang tidak beragi di segala tempat kediamanmu.\""
   },
   {Bible:"Exodus", Chapter:12, Verse:21, Page:1,
-    Kor:"<첫 번째 유월절> ○모세가 이스라엘의 장로를 모두 불러서, 이렇게 말하였다. \"여러분은 여러분의 가족들과 함께 먹을 양이나 염소를 준비하여, 유월절 제물로 잡으십시오.",
+    Kor:"○모세가 이스라엘의 장로를 모두 불러서, 이렇게 말하였다. \"여러분은 여러분의 가족들과 함께 먹을 양이나 염소를 준비하여, 유월절 제물로 잡으십시오.",
     Chn:"于是，摩西召了以色列的众长老来，对他们说：「你们要按着家口取出羊羔，把这逾越节的羊羔宰了。",
     Eng:"Then Moses summoned all the elders of Israel and said to them, \"Go at once and select the animals for your families and slaughter the Passover lamb.",
     Ind:"Lalu Musa memanggil semua tua-tua Israel serta berkata kepada mereka: \"Pergilah, ambillah kambing domba untuk kaummu dan sembelihlah anak domba Paskah."
   },
   {Bible:"Exodus", Chapter:12, Verse:22, Page:1,
-    Kor:"우슬초 묶음을 구하여다가 그릇에 받아 놓은 피에 적셔서, 그 피를 상인방과 좌우 문설주에 뿌리십시오. 여러분은 아침까지 아무도 자기 집 문 밖으로 나가서는 안 됩니다.",
+    Kor:"우슬초 묶음을 구하여다가 그릇에 받아 놓은 피에 적셔서, 그 피를 상인방과 좌우 문설주에 뿌리십시오. 여러분은 아침까지, 아무도 자기 집 문 밖으로 나가서는 안 됩니다.",
     Chn:"拿一把牛膝草，蘸盆里的血，打在门楣上和左右的门框上。你们谁也不可出自己的房门，直到早晨。",
     Eng:"Take a bunch of hyssop, dip it into the blood in the basin and put some of the blood on the top and on both sides of the doorframe. Not one of you shall go out the door of his house until morning.",
     Ind:"Kemudian kamu harus mengambil seikat hisop dan mencelupkannya dalam darah yang ada dalam sebuah pasu, dan darah itu kamu harus sapukan pada ambang atas dan pada kedua tiang pintu; seorangpun dari kamu tidak boleh keluar pintu rumahnya sampai pagi."
   },
   {Bible:"Exodus", Chapter:12, Verse:23, Page:1,
-    Kor:"주님께서 이집트 사람들을 치려고 지나가시다가, 상인방과 좌우 문설주에 바른 피를 보시고, 그 문 앞을 그냥 지나가실 것이며, 파괴자가 여러분의 집을 치러 들어가지 못하게 하실 것입니다.",
+    Kor:"주께서 이집트 사람들을 치려고 지나가시다가, 상인방과 좌우 문설주에 바른 피를 보시고, 그 문 앞을 그냥 지나가실 것이며, 파괴자가 여러분의 집을 치러 들어가지 못하게 하실 것입니다.",
     Chn:"因为耶和华要巡行击杀埃及人，他看见血在门楣上和左右的门框上，就必越过那门，不容灭命的进你们的房屋，击杀你们。",
     Eng:"When the LORD goes through the land to strike down the Egyptians, he will see the blood on the top and sides of the doorframe and will pass over that doorway, and he will not permit the destroyer to enter your houses and strike you down.",
     Ind:"Dan TUHAN akan menjalani Mesir untuk menulahinya; apabila Ia melihat darah pada ambang atas dan pada kedua tiang pintu itu, maka TUHAN akan melewati pintu itu dan tidak membiarkan pemusnah masuk ke dalam rumahmu untuk menulahi."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Kamu harus memegang ini sebagai ketetapan sampai selama-lamanya bagimu dan bagi anak-anakmu."
   },
   {Bible:"Exodus", Chapter:12, Verse:25, Page:1,
-    Kor:"여러분은 주님께서 여러분에게 주시겠다고 약속하신 땅에 들어가거든, 이 예식을 지키십시오.",
+    Kor:"여러분은, 주께서 여러분에게 주시겠다고 약속하신 땅에 들어가거든, 이 예식을 지키십시오.",
     Chn:"日后，你们到了耶和华按着所应许赐给你们的那地，就要守这礼。",
     Eng:"When you enter the land that the LORD will give you as he promised, observe this ceremony.",
     Ind:"Dan apabila kamu tiba di negeri yang akan diberikan TUHAN kepadamu, seperti yang difirmankan-Nya, maka kamu harus pelihara ibadah ini."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Dan apabila anak-anakmu berkata kepadamu: Apakah artinya ibadahmu ini?"
   },
   {Bible:"Exodus", Chapter:12, Verse:27, Page:1,
-    Kor:"그러면 여러분은 그들에게 '이것은 주님께 드리는 d유월절 제사다. 주님께서 이집트 사람을 치실 때에, 이집트에 있던 이스라엘 자손의 집만은 그냥 지나가셔서, 우리의 집들을 구하여 주셨다' 하고 이르십시오.\" 백성은 이 말을 듣고서, 엎드려 주님께 경배를 드렸다.(d '유월절(페싸흐)'과 '지나가다(파02 12:싸흐)'가 같은 어원에서 나옴)",
+    Kor:"그러면 여러분은 그들에게 '이것은 주께 드리는 유월절 제사다. 주께서 이집트 사람을 치실 때에, 이집트에 있던 이스라엘 자손의 집만은 그냥 지나가셔서, 우리의 집들을 구하여 주셨다' 하고 이르십시오.\" 백성은 이 말을 듣고서, 엎드려 경배를 드렸다.",
     Chn:"你们就说：『这是献给耶和华逾越节的祭。当以色列人在埃及的时候，他击杀埃及人，越过以色列人的房屋，救了我们各家。』」于是百姓低头下拜。",
     Eng:"then tell them, 'It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt and spared our homes when he struck down the Egyptians.'\" Then the people bowed down and worshiped.",
     Ind:"maka haruslah kamu berkata: Itulah korban Paskah bagi TUHAN yang melewati rumah-rumah orang Israel di Mesir, ketika Ia menulahi orang Mesir, tetapi menyelamatkan rumah-rumah kita.\" Lalu berlututlah bangsa itu dan sujud menyembah."
   },
   {Bible:"Exodus", Chapter:12, Verse:28, Page:1,
-    Kor:"○이스라엘 자손은 돌아가서, 주님께서 모세와 아론에게 명하신 대로 하였다.",
+    Kor:"○이스라엘 자손은 돌아가서, 주께서 모세와 아론에게 명하신 대로 하였다.",
     Chn:"耶和华怎样吩咐摩西、亚伦，以色列人就怎样行。",
     Eng:"The Israelites did just what the LORD commanded Moses and Aaron.",
     Ind:"Pergilah orang Israel, lalu berbuat demikian; seperti yang diperintahkan TUHAN kepada Musa dan Harun, demikianlah diperbuat mereka."
   },
   {Bible:"Exodus", Chapter:12, Verse:29, Page:1,
-    Kor:"<열째 재앙:처음 난 것들의 죽음> ○한밤중에 주님께서 이집트 땅에 있는 처음 난 것들을 모두 치셨다. 임금 자리에 앉은 바로의 맏아들을 비롯하여 감옥에 있는 포로의 맏아들과 짐승의 맏배까지 모두 치시니,",
+    Kor:"○한밤중에 주께서 이집트 땅에 있는 처음 난 것들을 모두 치셨다. 임금 자리에 앉은 바로의 맏아들을 비롯하여, 감옥에 있는 포로의 맏아들과 짐승의 맏배까지 모두 치시니,",
     Chn:"到了半夜，耶和华把埃及地所有的长子，就是从坐宝座的法老，直到被掳囚在监里之人的长子，以及一切头生的牲畜，尽都杀了。",
     Eng:"At midnight the LORD struck down all the firstborn in Egypt, from the firstborn of Pharaoh, who sat on the throne, to the firstborn of the prisoner, who was in the dungeon, and the firstborn of all the livestock as well.",
     Ind:"Maka pada tengah malam TUHAN membunuh tiap-tiap anak sulung di tanah Mesir, dari anak sulung Firaun yang duduk di takhtanya sampai kepada anak sulung orang tawanan, yang ada dalam liang tutupan, beserta segala anak sulung hewan."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu bangunlah Firaun pada malam itu, bersama semua pegawainya dan semua orang Mesir; dan kedengaranlah seruan yang hebat di Mesir, sebab tidak ada rumah yang tidak kematian."
   },
   {Bible:"Exodus", Chapter:12, Verse:31, Page:1,
-    Kor:"바로는 밤중에 모세와 아론을 불러들여서 말하였다. \"너희와 너희 이스라엘 자손은 어서 일어나서, 내 백성에게서 떠나가거라. 그리고 너희의 요구대로, 너희는 가서 너희의 주를 섬겨라.",
+    Kor:"바로는 밤중에 모세와 아론을 불러들여서 말하였다. \"너희와 너희 이스라엘 자손은 어서 일어나서, 내 백성에게서 떠나가거라. 그리고 너희의 요구대로, 너희는 가서 주를 섬겨라.",
     Chn:"夜间，法老召了摩西、亚伦来，说：「起来！连你们带以色列人，从我民中出去，依你们所说的，去事奉耶和华吧！",
     Eng:"During the night Pharaoh summoned Moses and Aaron and said, \"Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested.",
     Ind:"Lalu pada malam itu dipanggilnyalah Musa dan Harun, katanya: \"Bangunlah, keluarlah dari tengah-tengah bangsaku, baik kamu maupun orang Israel; pergilah, beribadahlah kepada TUHAN, seperti katamu itu."
@@ -207,19 +207,19 @@ BibleDB.add([
     Ind:"Lalu bangsa itu mengangkat adonannya, sebelum diragi, dengan tempat adonan mereka terbungkus dalam kainnya di atas bahunya."
   },
   {Bible:"Exodus", Chapter:12, Verse:35, Page:1,
-    Kor:"이스라엘 자손은 모세의 말대로 이집트 사람에게 은붙이와 금붙이와 의복을 요구하였고,",
+    Kor:"이스라엘 자손은 모세의 말대로, 이집트 사람에게 은붙이와 금붙이와 의복을 요구하였고,",
     Chn:"以色列人照着摩西的话行，向埃及人要金器、银器，和衣裳。",
     Eng:"The Israelites did as Moses instructed and asked the Egyptians for articles of silver and gold and for clothing.",
     Ind:"Orang Israel melakukan juga seperti kata Musa; mereka meminta dari orang Mesir barang-barang emas dan perak serta kain-kain."
   },
   {Bible:"Exodus", Chapter:12, Verse:36, Page:1,
-    Kor:"주님께서는 이스라엘 백성이 이집트 사람에게 환심을 사도록 하셨으므로, 이집트 사람들은 이스라엘 자손의 요구대로 다 내어 주었다. 이렇게 하여서, 그들은 이집트 사람들에게서 물건을 빼앗아 가지고 떠나갔다.",
+    Kor:"주께서는 이스라엘 백성이 이집트 사람에게 환심을 사도록 하셨으므로, 이집트 사람들은 이스라엘 자손의 요구대로 다 내어 주었다. 이렇게 하여서, 그들은 이집트 사람들에게서 물건을 빼앗아 가지고 떠나갔다.",
     Chn:"耶和华叫百姓在埃及人眼前蒙恩，以致埃及人给他们所要的。他们就把埃及人的财物夺去了。",
     Eng:"The LORD had made the Egyptians favorably disposed toward the people, and they gave them what they asked for; so they plundered the Egyptians.",
     Ind:"Dan TUHAN membuat orang Mesir bermurah hati terhadap bangsa itu, sehingga memenuhi permintaan mereka. Demikianlah mereka merampasi orang Mesir itu."
   },
   {Bible:"Exodus", Chapter:12, Verse:37, Page:1,
-    Kor:"<이스라엘의 이집트 탈출> ○마침내 이스라엘 자손이 라암셋을 떠나서 숙곳으로 갔는데, 딸린 아이들 외에, 장정만 해도 육십만 가량이 되었다.",
+    Kor:"○마침내, 이스라엘 자손이 라암셋을 떠나서 숙곳으로 갔는데, 딸린 아이들 외에, 장정만 해도 육십만 가량이 되었다.",
     Chn:"以色列人从兰塞起行，往疏割去；除了妇人孩子，步行的男人约有六十万。",
     Eng:"The Israelites journeyed from Rameses to Succoth. There were about six hundred thousand men on foot, besides women and children.",
     Ind:"Kemudian berangkatlah orang Israel dari Raamses ke Sukot, kira-kira enam ratus ribu orang laki-laki berjalan kaki, tidak termasuk anak-anak."
@@ -231,37 +231,37 @@ BibleDB.add([
     Ind:"Juga banyak orang dari berbagai-bagai bangsa turut dengan mereka; lagi sangat banyak ternak kambing domba dan lembu sapi."
   },
   {Bible:"Exodus", Chapter:12, Verse:39, Page:1,
-    Kor:"그들은 이집트에서 가지고 나온 부풀지 않은 빵 반죽으로 누룩을 넣지 않은 빵을 구워야 하였다. 그들은 이집트에서 급히 쫓겨 나왔으므로, 먹거리를 장만할 겨를이 없었다.",
+    Kor:"그들은 이집트에서 가지고 나온 부풀지 않은 빵 반죽으로 누룩을 넣지 않은 빵을 구워야 하였다. 그들은 이집트에서 급히 쫓겨 나왔으므로, 먹을거리를 장만할 겨를이 없었다.",
     Chn:"他们用埃及带出来的生面烤成无酵饼。这生面原没有发起；因为他们被催逼离开埃及，不能耽延，也没有为自己预备什么食物。",
     Eng:"With the dough they had brought from Egypt, they baked cakes of unleavened bread. The dough was without yeast because they had been driven out of Egypt and did not have time to prepare food for themselves.",
     Ind:"Adonan yang dibawa mereka dari Mesir dibakarlah menjadi roti bundar yang tidak beragi, sebab adonan itu tidak diragi, karena mereka diusir dari Mesir dan tidak dapat berlambat-lambat, dan mereka tidak pula menyediakan bekal baginya."
   },
   {Bible:"Exodus", Chapter:12, Verse:40, Page:1,
-    Kor:"○이스라엘 자손이 e이집트에서 산 기간은 사백삼십 년이었다.(e 사마리아 오경과 칠십인역에는 '이집트와 가나안')",
+    Kor:"○이스라엘 자손이 이집트에서 산 기간은 사백삼십 년이었다.",
     Chn:"以色列人住在埃及共有四百三十年。",
     Eng:"Now the length of time the Israelite people lived in Egypt was 430 years.",
     Ind:"Lamanya orang Israel diam di Mesir adalah empat ratus tiga puluh tahun."
   },
   {Bible:"Exodus", Chapter:12, Verse:41, Page:1,
-    Kor:"마침내 사백삼십 년이 끝나는 바로 그 날, 주님의 모든 군대가 이집트 땅에서 나왔다.",
+    Kor:"마침내, 사백삼십 년이 끝나는 바로 그 날, 주의 모든 군대가 이집트 땅에서 나왔다.",
     Chn:"正满了四百三十年的那一天，耶和华的军队都从埃及地出来了。",
     Eng:"At the end of the 430 years, to the very day, all the LORD'S divisions left Egypt.",
     Ind:"Sesudah lewat empat ratus tiga puluh tahun, tepat pada hari itu juga, keluarlah segala pasukan TUHAN dari tanah Mesir."
   },
   {Bible:"Exodus", Chapter:12, Verse:42, Page:1,
-    Kor:"그 날 밤에 주님께서 그들을 이집트 땅에서 이끌어 내시려고 밤을 새우면서 지켜 주셨으므로, 그 밤은 '주님의 밤'이 되었고, 이스라엘 자손이 대대로 밤새워 지켜야 하는 밤이 되었다.",
+    Kor:"그 날 밤에 주께서 그들을 이집트 땅에서 이끌어 내시려고 밤을 새우면서 지켜 주셨으므로, 그 밤은 '주의 밤'이 되었고, 이스라엘 자손이 대대로 밤새워 지켜야 하는 밤이 되었다.",
     Chn:"这夜是耶和华的夜；因耶和华领他们出了埃及地，所以当向耶和华谨守，是以色列众人世世代代该谨守的。",
     Eng:"Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come.",
     Ind:"Malam itulah malam berjaga-jaga bagi TUHAN, untuk membawa mereka keluar dari tanah Mesir. Dan itulah juga malam berjaga-jaga bagi semua orang Israel, turun-temurun, untuk kemuliaan TUHAN."
   },
   {Bible:"Exodus", Chapter:12, Verse:43, Page:1,
-    Kor:"<유월절 규례> ○주님께서 모세와 아론에게 말씀하셨다. \"유월절 규례는 이러하다. 이방 사람은 아무도 유월절 제물을 먹지 못한다.",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다. \"유월절 규례는 이러하다. 이방 사람은 아무도 유월절 제물을 먹지 못한다.",
     Chn:"耶和华对摩西、亚伦说：「逾越节的例是这样：外邦人都不可吃这羊羔。",
     Eng:"The LORD said to Moses and Aaron, \"These are the regulations for the Passover: \"No foreigner is to eat of it.",
     Ind:"Berfirmanlah TUHAN kepada Musa dan Harun: \"Inilah ketetapan mengenai Paskah: Tidak seorangpun dari bangsa asing boleh memakannya."
   },
   {Bible:"Exodus", Chapter:12, Verse:44, Page:1,
-    Kor:"그러나 돈으로 사들인 종으로서 할례를 받은 사람은 누구나 그것을 먹을 수 있다.",
+    Kor:"그러나 돈으로 사들인 종으로서, 할례를 받은 사람은 누구나, 그것을 먹을 수 있다.",
     Chn:"但各人用银子买的奴仆，既受了割礼就可以吃。",
     Eng:"Any slave you have bought may eat of it after you have circumcised him,",
     Ind:"Seorang budak belian barulah boleh memakannya, setelah engkau menyunat dia."
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"Orang pendatang dan orang upahan tidak boleh memakannya."
   },
   {Bible:"Exodus", Chapter:12, Verse:46, Page:1,
-    Kor:"어느 집이든지 고기는 한 집에서 먹어야 하며, 그 고기를 조금이라도 집 바깥으로 가지고 나가서는 안 된다. 뼈는 하나라도 꺾어서는 안 된다.",
+    Kor:"어느 집이든지, 고기는 한 집에서 먹어야 하며, 그 고기를 조금이라도 집 바깥으로 가지고 나가서는 안 된다. 뼈는 하나라도 꺾어서는 안 된다.",
     Chn:"应当在一个房子里吃；不可把一点肉从房子里带到外头去。羊羔的骨头一根也不可折断。",
     Eng:"\"It must be eaten inside one house; take none of the meat outside the house. Do not break any of the bones.",
     Ind:"Paskah itu harus dimakan dalam satu rumah juga; tidak boleh kaubawa sedikitpun dari daging itu keluar rumah; satu tulangpun tidak boleh kamu patahkan."
@@ -285,7 +285,7 @@ BibleDB.add([
     Ind:"Segenap jemaah Israel haruslah merayakannya."
   },
   {Bible:"Exodus", Chapter:12, Verse:48, Page:1,
-    Kor:"너희에게 몸붙여 사는 외국인이 주님의 유월절을 지키려고 하면, 너희는 그 모든 남자에게 할례를 받게 하여야 한다. 그런 다음에 그는 본국인과 같이 되어서 유월절에 참여할 수 있다. 할례를 받지 않은 사람은 아무도 제물을 먹어서는 안 된다.",
+    Kor:"너희에게 몸붙여 사는 외국인이 주의 유월절을 지키려고 하면, 너희는 그 모든 남자에게 할례를 받게 하여야 한다. 그런 다음에, 그는 본국인과 같이 되어서, 유월절에 참여할 수 있다. 할례를 받지 않은 사람은 아무도 제물을 먹어서는 안 된다.",
     Chn:"若有外人寄居在你们中间，愿向耶和华守逾越节，他所有的男子务要受割礼，然后才容他前来遵守，他也就像本地人一样；但未受割礼的，都不可吃这羊羔。",
     Eng:"\"An alien living among you who wants to celebrate the LORD'S Passover must have all the males in his household circumcised; then he may take part like one born in the land. No uncircumcised male may eat of it.",
     Ind:"Tetapi apabila seorang asing telah menetap padamu dan mau merayakan Paskah bagi TUHAN, maka setiap laki-laki yang bersama-sama dengan dia, wajiblah disunat; barulah ia boleh mendekat untuk merayakannya; ia akan dianggap sebagai orang asli. Tetapi tidak seorangpun yang tidak bersunat boleh memakannya."
@@ -297,13 +297,13 @@ BibleDB.add([
     Ind:"Satu hukum saja akan berlaku untuk orang asli dan untuk orang asing yang menetap di tengah-tengah kamu.\""
   },
   {Bible:"Exodus", Chapter:12, Verse:50, Page:1,
-    Kor:"○이스라엘의 모든 자손은, 주님께서 모세와 아론에게 명하신 대로 하였다.",
+    Kor:"○이스라엘의 모든 자손은, 주께서 모세와 아론에게 명하신 대로 하였다.",
     Chn:"耶和华怎样吩咐摩西、亚伦，以色列众人就怎样行了。",
     Eng:"All the Israelites did just what the LORD had commanded Moses and Aaron.",
     Ind:"Seluruh orang Israel berbuat demikian; seperti yang diperintahkan TUHAN kepada Musa dan Harun, demikianlah diperbuat mereka."
   },
   {Bible:"Exodus", Chapter:12, Verse:51, Page:1,
-    Kor:"바로 이 날에 주님께서 이스라엘 자손을 각 군대 단위로 이집트 땅에서 이끌어 내셨다.",
+    Kor:"바로 이 날에, 주께서 이스라엘 자손을 각 군대 단위로 이집트 땅에서 이끌어 내셨다.",
     Chn:"正当那日，耶和华将以色列人按着他们的军队，从埃及地领出来。",
     Eng:"And on that very day the LORD brought the Israelites out of Egypt by their divisions.",
     Ind:"Dan tepat pada hari itu juga TUHAN membawa orang Israel keluar dari tanah Mesir, menurut pasukan mereka."

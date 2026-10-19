@@ -3,7 +3,7 @@
 BibleDB.ref("1Samuel",19,24);
 BibleDB.add([
   {Bible:"1Samuel", Chapter:19, Verse:1, Page:1,
-    Kor:"<사울이 다윗을 박해하다> 사울은, 자기의 아들 요나단과 자기의 모든 신하들이 듣는 데서, 다윗을 죽이겠다고 말하였다. 사울의 아들 요나단은 다윗을 매우 좋아하고 있었으므로,",
+    Kor:"사울은, 자기의 아들 요나단과 자기의 모든 신하들이 듣는 데서, 다윗을 죽이겠다고 말하였다. 사울의 아들 요나단은, 다윗을 매우 좋아하고 있었으므로,",
     Chn:"扫罗对他儿子约拿单和众臣仆说，要杀大卫；扫罗的儿子约拿单却甚喜爱大卫。",
     Eng:"Saul told his son Jonathan and all the attendants to kill David. But Jonathan was very fond of David",
     Ind:"Saul mengatakan kepada Yonatan, anaknya, dan kepada semua pegawainya, bahwa Daud harus dibunuh. Tetapi Yonatan, anak Saul, sangat suka kepada Daud,"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Lalu Yonatan mengatakan yang baik tentang Daud kepada Saul, ayahnya, katanya: \"Janganlah raja berbuat dosa terhadap Daud, hambanya, sebab ia tidak berbuat dosa terhadapmu; bukankah apa yang diperbuatnya sangat baik bagimu!"
   },
   {Bible:"1Samuel", Chapter:19, Verse:5, Page:1,
-    Kor:"그는 자기 목숨을 아끼지 않고 블레셋 장군을 쳐죽였고, 그래서 주님께서 온 이스라엘에게 이렇게 큰 승리를 안겨 주셨습니다. 아버지께서도 그것을 직접 보고 기뻐하셨습니다. 그런데 지금 무엇 때문에 이유도 없이 다윗을 죽여, 죄없는 피를 흘려 죄를 지으려고 하십니까?\"",
+    Kor:"그는 자기 목숨을 아끼지 않고 블레셋 장군을 쳐죽였고, 그래서 주께서 온 이스라엘에게 이렇게 큰 승리를 안겨 주셨습니다. 아버지께서도 그것을 직접 보고 기뻐하셨습니다. 그런데 지금 무엇 때문에 이유도 없이 다윗을 죽여, 죄없는 피를 흘려 죄를 지으려고 하십니까?\"",
     Chn:"他拚命杀那非利士人，耶和华为以色列众人大行拯救；那时你看见，甚是欢喜，现在为何无故要杀大卫，流无辜人的血，自己取罪呢？」",
     Eng:"He took his life in his hands when he killed the Philistine. The LORD won a great victory for all Israel, and you saw it and were glad. Why then would you do wrong to an innocent man like David by killing him for no reason?\"",
     Ind:"Ia telah mempertaruhkan nyawanya dan telah mengalahkan orang Filistin itu, dan TUHAN telah memberikan kemenangan yang besar kepada seluruh Israel. Engkau sudah melihatnya dan bersukacita karenanya. Mengapa engkau hendak berbuat dosa terhadap darah orang yang tidak bersalah dengan membunuh Daud tanpa alasan?\""
   },
   {Bible:"1Samuel", Chapter:19, Verse:6, Page:1,
-    Kor:"사울이 요나단의 말을 듣고 맹세하였다. \"그래, 주님께서 확실히 살아 계심을 두고 맹세하마. 내가 결코 다윗을 죽이지 않겠다.\"",
+    Kor:"사울이 요나단의 말을 듣고 맹세하였다. \"그래, 주께서 확실히 살아 계심을 두고 맹세하마. 내가 결코 다윗을 죽이지 않겠다.\"",
     Chn:"扫罗听了约拿单的话，就指着永生的耶和华起誓说：「我必不杀他。」",
     Eng:"Saul listened to Jonathan and took this oath: \"As surely as the LORD lives, David will not be put to death.\"",
     Ind:"Saul mendengarkan perkataan Yonatan dan Saul bersumpah: \"Demi TUHAN yang hidup, ia tidak akan dibunuh.\""
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Lalu Yonatan memanggil Daud dan Yonatan memberitahukan kepadanya segala perkataan itu. Yonatan membawa Daud kepada Saul dan ia bekerja padanya seperti dahulu."
   },
   {Bible:"1Samuel", Chapter:19, Verse:8, Page:1,
-    Kor:"<다윗이 죽을 고비를 넘다> ○또 전쟁이 일어나니, 다윗은 출전하여 블레셋 사람들과 싸웠다. 다윗이 그들을 쳐서 크게 무찌르니, 블레셋 사람들이 다윗 앞에서 도망쳤다.",
+    Kor:"○또 전쟁이 일어나니, 다윗은 출전하여 블레셋 사람들과 싸웠다. 다윗이 그들을 쳐서 크게 무찌르니, 블레셋 사람들이 다윗 앞에서 도망쳤다.",
     Chn:"此后又有争战的事。大卫出去与非利士人打仗，大大杀败他们，他们就在他面前逃跑。",
     Eng:"Once more war broke out, and David went out and fought the Philistines. He struck them with such force that they fled before him.",
     Ind:"Ketika perang pecah pula, maka majulah Daud dan berperang melawan orang Filistin; ia menimbulkan kekalahan besar di antara mereka, sehingga mereka melarikan diri dari depannya."
   },
   {Bible:"1Samuel", Chapter:19, Verse:9, Page:1,
-    Kor:"○그런데 사울이 창을 들고 궁중에 앉아 있을 때에, 주님께서 보내신 악한 영이 또 사울을 강하게 사로잡았다. 다윗이 수금을 타고 있는데,",
+    Kor:"○그런데 사울이 창을 들고 궁중에 앉아 있을 때에, 주께서 보내신 악한 영이 또 사울을 강하게 사로잡았다. 다윗이 수금을 타고 있는데,",
     Chn:"从耶和华那里来的恶魔又降在扫罗身上（扫罗手里拿枪坐在屋里），大卫就用手弹琴。",
     Eng:"But an evil spirit from the LORD came upon Saul as he was sitting in his house with his spear in his hand. While David was playing the harp,",
     Ind:"Tetapi roh jahat yang dari pada TUHAN hinggap pada Saul, ketika ia duduk di rumahnya, dengan tombaknya di tangannya; dan Daud sedang main kecapi."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu Mikhal menurunkan Daud dari jendela, ia pergi melarikan diri dan luputlah ia."
   },
   {Bible:"1Samuel", Chapter:19, Verse:13, Page:1,
-    Kor:"한편, 미갈은, 집 안에 있는 a우상을 가져다가 침대에 누이고, 그 머리에는 염소털로 짠 망을 씌우고, 그 몸에는 옷을 입혔다.",
+    Kor:"한편, 미갈은, 집 안에 있는 우상을 가져다가 침대에 누이고, 그 머리에는 염소털로 짠 망을 씌우고, 그 몸에는 옷을 입혔다.",
     Chn:"米甲把家中的神像放在床上，头枕在山羊毛装的枕头上，用被遮盖。",
     Eng:"Then Michal took an idol and laid it on the bed, covering it with a garment and putting some goats' hair at the head.",
     Ind:"Sesudah itu Mikhal mengambil terafim dan menaruhnya di tempat tidur; ditaruhnya sehelai tenunan bulu kambing di bagian kepala dan ditutupinya dengan selimut."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Sesudah itu Saul mengirim orang-orang suruhan itu untuk melihat Daud, katanya: \"Bawalah dia di atas tempat tidur itu ke mari, supaya ia dibunuh.\""
   },
   {Bible:"1Samuel", Chapter:19, Verse:16, Page:1,
-    Kor:"부하들이 와서 보니, 침대에는 집 안에 있던 a우상이 누워 있었다. 머리에 염소털로 짠 망을 씌운 채 뉘어 놓은 것이었다.(a 히, '테라빔')",
+    Kor:"부하들이 와서 보니, 침대에는 집 안에 있던 우상이 누워 있었다. 머리에 염소털로 짠 망을 씌운 채 뉘어 놓은 것이었다.",
     Chn:"使者进去，看见床上有神像，头枕在山羊毛装的枕头上。",
     Eng:"But when the men entered, there was the idol in the bed, and at the head was some goats' hair.",
     Ind:"Lalu masuklah para suruhan itu ke dalam, dan tampaklah ada terafim di tempat tidur dengan sehelai tenunan bulu kambing di bagian kepala."
   },
   {Bible:"1Samuel", Chapter:19, Verse:17, Page:1,
-    Kor:"사울이 미갈에게 호통을 쳤다. \"네가 왜 나를 속이고, 원수가 빠져 나가서 살아날 수 있게 하였느냐?\" 그러자 미갈은, 다윗을 빠져 나가지 못하게 하였다가는 다윗이 자기를 죽였을 것이라고 사울에게 대답하였다.",
+    Kor:"사울이 미갈에게 호통을 쳤다. \"네가 왜 나를 속이고, 원수가 빠져 나가서 살아날 수 있게 하였느냐?\" 그러자 미갈은, 다윗을 빠져 나가지 못하게 하였다가는, 다윗이 자기를 죽였을 것이라고 사울에게 대답하였다.",
     Chn:"扫罗对米甲说：「你为什么这样欺哄我，放我仇敌逃走呢？」米甲回答说：「他对我说：『你放我走，不然我要杀你。』」",
     Eng:"Saul said to Michal, \"Why did you deceive me like this and send my enemy away so that he escaped?\" Michal told him, \"He said to me, 'Let me get away. Why should I kill you?'\"",
     Ind:"Berkatalah Saul kepada Mikhal: \"Mengapa engkau menipu aku demikian itu dan melepas musuhku pergi, sehingga ia luput?\" Tetapi jawab Mikhal kepada Saul: \"Ia berkata kepadaku: Biarkanlah aku pergi, apa perlunya aku membunuh engkau?\""
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Setelah Daud melarikan diri dan luput, sampailah ia kepada Samuel di Rama dan memberitahukan kepadanya segala yang dilakukan Saul kepadanya. Kemudian pergilah ia bersama-sama dengan Samuel dan tinggallah mereka di Nayot."
   },
   {Bible:"1Samuel", Chapter:19, Verse:19, Page:1,
-    Kor:"다윗이 라마의 나욧에 있다는 소식이 곧 사울에게 들어갔다.",
+    Kor:"다윗이 라마의 나욧에 있다는 소식이, 곧 사울에게 들어갔다.",
     Chn:"有人告诉扫罗，说大卫在拉玛的拿约。",
     Eng:"Word came to Saul: \"David is in Naioth at Ramah\";",
     Ind:"Ketika diberitahukan kepada Saul, demikian: \"Ketahuilah, Daud ada di Nayot, dekat Rama,\""
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Lalu pergilah ia ke sana, ke Nayot, dekat Rama dan pada diapun hinggaplah Roh Allah, dan selama ia melanjutkan perjalanannya ia kepenuhan seperti nabi, hingga ia sampai ke Nayot dekat Rama."
   },
   {Bible:"1Samuel", Chapter:19, Verse:24, Page:1,
-    Kor:"사무엘 앞에 이르러서는, 옷까지 벗어 버리고 춤추고 소리치면서 예언을 하고 나서, 그 날 하루 밤낮을 벗은 몸으로 쓰러져 있었다. (\"사울도 예언자가 되었는가?\" 하는 말이 여기에서 나왔다.)",
+    Kor:"사무엘 앞에 이르러서는, 옷까지 벗어 버리고 춤추고 소리치면서, 예언을 하고 나서, 그 날 하루 밤낮을 벗은 몸으로 쓰러져 있었다. (\"사울도 예언자가 되었는가?\" 하는 말이 여기에서 나왔다.)",
     Chn:"他就脱了衣服，在撒母耳面前受感说话，一昼一夜露体躺卧。因此有句俗语说：「扫罗也列在先知中吗？」",
     Eng:"He stripped off his robes and also prophesied in Samuel's presence. He lay that way all that day and night. This is why people say, \"Is Saul also among the prophets?\"",
     Ind:"Iapun menanggalkan pakaiannya, dan iapun juga kepenuhan di depan Samuel. Ia rebah terhantar dengan telanjang sehari-harian dan semalam-malaman itu. Itulah sebabnya orang berkata: \"Apakah juga Saul termasuk golongan nabi?\""

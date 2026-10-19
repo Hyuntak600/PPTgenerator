@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",16,34);
 BibleDB.add([
   {Bible:"1Kings", Chapter:16, Verse:1, Page:1,
-    Kor:"주님의 말씀이 하나니의 아들 예후에게 내려서, 바아사를 두고 이렇게 말씀하셨다.",
+    Kor:"주의 말씀이 하나니의 아들 예후에게 내려서, 바아사를 두고 이렇게 말씀하셨다.",
     Chn:"耶和华的话临到哈拿尼的儿子耶户，责备巴沙说：",
     Eng:"Then the word of the LORD came to Jehu son of Hanani against Baasha:",
     Ind:"Kemudian datanglah firman TUHAN kepada Yehu bin Hanani melawan Baesa, bunyinya:"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Kemudian Baesa mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di Tirza. Maka Ela, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:16, Verse:7, Page:1,
-    Kor:"○주님께서 예언자 하나니의 아들 예후를 시키셔서, 바아사와 그의 가문에게 말씀하셨다. 바아사가 여로보암의 가문처럼 주님께서 보시기에 악한 일을 하므로, 주님의 노를 격동하였을 뿐만 아니라, 여로보암의 가문을 치기까지 했기 때문이다.",
+    Kor:"○주께서 예언자 하나니의 아들 예후를 시키셔서, 바아사와 그의 가문에게 말씀하셨다. 바아사가 여로보암의 가문처럼 주께서 보시기에 악한 일을 하므로, 주의 노를 격동하였을 뿐만 아니라, 여로보암의 가문을 치기까지 했기 때문이다.",
     Chn:"耶和华的话临到哈拿尼的儿子先知耶户，责备巴沙和他的家，因他行耶和华眼中看为恶的一切事，以他手所做的惹耶和华发怒，像耶罗波安的家一样，又因他杀了耶罗波安的全家。",
     Eng:"Moreover, the word of the LORD came through the prophet Jehu son of Hanani to Baasha and his house, because of all the evil he had done in the eyes of the LORD, provoking him to anger by the things he did, and becoming like the house of Jeroboam--and also because he destroyed it.",
     Ind:"Juga dengan perantaraan nabi Yehu bin Hanani firman TUHAN telah datang melawan Baesa dan melawan keluarganya, baik karena segala yang jahat yang telah dilakukannya di mata TUHAN, sehingga ia menimbulkan sakit hati TUHAN dengan perbuatan tangannya, dan dengan demikian menjadi sama seperti keluarga Yerobeam, maupun oleh karena ia telah membunuh Yerobeam."
   },
   {Bible:"1Kings", Chapter:16, Verse:8, Page:1,
-    Kor:"<이스라엘 왕 엘라> ○유다의 아사 왕 제 이십육년에, 바아사의 아들 엘라가 이스라엘의 왕이 되어서, 디르사에서 두 해 동안 다스렸다.",
+    Kor:"○유다의 아사 왕 제 이십육년에, 바아사의 아들 엘라가 이스라엘의 왕이 되어서, 디르사에서 두 해 동안 다스렸다.",
     Chn:"犹大王亚撒二十六年，巴沙的儿子以拉在得撒登基作以色列王共二年。",
     Eng:"In the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king of Israel, and he reigned in Tirzah two years.",
     Ind:"Dalam tahun kedua puluh enam zaman Asa, raja Yehuda, Ela, anak Baesa, menjadi raja atas Israel di Tirza. Ia memerintah dua tahun lamanya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Pada waktu ia menjadi raja itu, segera sesudah ia duduk di atas takhtanya, ia membunuh seluruh keluarga Baesa. Tidak ada seorang laki-lakipun dari padanya yang ditinggalkannya hidup, juga kaumnya, dan teman-temannya."
   },
   {Bible:"1Kings", Chapter:16, Verse:12, Page:1,
-    Kor:"시므리는, 주님께서 예후 예언자를 시키셔서 바아사에게 말씀하신 대로, 바아사 가문의 모든 사람을 멸망시켰다.",
+    Kor:"시므리는, 주께서 예후 예언자를 시키셔서 바아사에게 말씀하신 대로, 바아사 가문의 모든 사람을 멸망시켰다.",
     Chn:"心利这样灭绝巴沙的全家，正如耶和华借先知耶户责备巴沙的话。",
     Eng:"So Zimri destroyed the whole family of Baasha, in accordance with the word of the LORD spoken against Baasha through the prophet Jehu--",
     Ind:"Demikianlah Zimri memunahkan seluruh keluarga Baesa, sesuai dengan firman TUHAN yang diucapkan-Nya kepada Baesa dengan perantaraan nabi Yehu,"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Selebihnya dari riwayat Ela dan segala yang dilakukannya, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Israel?"
   },
   {Bible:"1Kings", Chapter:16, Verse:15, Page:1,
-    Kor:"<이스라엘 왕 시므리> ○유다의 아사 왕 제 이십칠년에, 시므리는 디르사에서 이스라엘의 왕이 되었으나, 그의 통치는 칠 일 만에 끝났다. 시므리가 엘라를 살해하고서 왕위를 차지할 그 무렵에, 이스라엘 군대는 블레셋에 속한 깁브돈을 치려고 포진하고 있었다.",
+    Kor:"○유다의 아사 왕 제 이십칠년에, 시므리는 디르사에서 이스라엘의 왕이 되었으나, 그의 통치는 칠 일 만에 끝났다. 시므리가 엘라를 살해하고서 왕위를 차지할 그 무렵에, 이스라엘 군대는 블레셋에 속한 깁브돈을 치려고 포진하고 있었다.",
     Chn:"犹大王亚撒二十七年，心利在得撒作王七日。那时民正安营围攻非利士的基比顿。",
     Eng:"In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days. The army was encamped near Gibbethon, a Philistine town.",
     Ind:"Dalam tahun kedua puluh tujuh zaman Asa, raja Yehuda, Zimri menjadi raja. Ia memerintah tujuh hari lamanya di Tirza, sedang rakyat berkemah mengepung Gibeton yang termasuk wilayah orang Filistin."
@@ -111,19 +111,19 @@ BibleDB.add([
     Ind:"Segera sesudah Zimri melihat, bahwa kota itu telah direbut, masuklah ia ke dalam puri istana raja, lalu membakar istana raja itu sedang ia sendiri ada di dalamnya, dan ia mati,"
   },
   {Bible:"1Kings", Chapter:16, Verse:19, Page:1,
-    Kor:"이것은 시므리가, 주님께서 보시기에 악행을 하고, 여로보암의 길을 따라 가서, 이스라엘에게 죄를 짓게 한 그 죄 때문에 생긴 일이다.",
+    Kor:"이것은 시므리가, 주께서 보시기에 악행을 하고, 여로보암의 길을 따라 가서, 이스라엘에게 죄를 짓게 한 그 죄 때문에 생긴 일이다.",
     Chn:"这是因他犯罪，行耶和华眼中看为恶的事，行耶罗波安所行的，犯他使以色列人陷在罪里的那罪。",
     Eng:"because of the sins he had committed, doing evil in the eyes of the LORD and walking in the ways of Jeroboam and in the sin he had committed and had caused Israel to commit.",
     Ind:"oleh karena dosa-dosa yang telah dilakukannya dengan melakukan apa yang jahat di mata TUHAN serta hidup menurut tingkah laku Yerobeam dan menurut dosa Yerobeam yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"1Kings", Chapter:16, Verse:20, Page:1,
-    Kor:"시므리의 나머지 행적과 그가 꾀한 모반에 관한 것은 '이스라엘 왕 역대지략'에 기록되어 있다.",
+    Kor:"시므리의 나머지 행적과 그가 꾀한 모반에 관한 것은, '이스라엘 왕 역대지략'에 기록되어 있다.",
     Chn:"心利其余的事和他背叛的情形都写在以色列诸王记上。",
     Eng:"As for the other events of Zimri's reign, and the rebellion he carried out, are they not written in the book of the annals of the kings of Israel?",
     Ind:"Selebihnya dari riwayat Zimri dan persepakatan yang diadakannya, bukankah semuanya itu tertulis dalam kitab sejarah raja-raja Israel?"
   },
   {Bible:"1Kings", Chapter:16, Verse:21, Page:1,
-    Kor:"<이스라엘 왕 오므리> ○그 때에 이스라엘 백성은 둘로 나뉘어, 그 절반은 기낫의 아들 디브니를 따라 가서 그를 왕으로 삼았고, 그 나머지는 오므리를 따랐다.",
+    Kor:"○그 때에 이스라엘 백성은 둘로 나뉘어, 그 절반은 기낫의 아들 디브니를 따라 가서 그를 왕으로 삼았고, 그 나머지는 오므리를 따랐다.",
     Chn:"那时，以色列民分为两半：一半随从基纳的儿子提比尼，要立他作 王；一半随从暗利。",
     Eng:"Then the people of Israel were split into two factions; half supported Tibni son of Ginath for king, and the other half supported Omri.",
     Ind:"Pada waktu itu bangsa Israel terbagi dua. Sebagian dari bangsa itu mengikuti Tibni bin Ginat, dan bermaksud mengangkat dia menjadi raja, dan sebagian lagi mengikuti Omri."
@@ -135,19 +135,19 @@ BibleDB.add([
     Ind:"Tetapi rakyat yang mengikuti Omri lebih kuat dari pada rakyat yang mengikuti Tibni bin Ginat. Sesudah Tibni mati, maka Omri menjadi raja."
   },
   {Bible:"1Kings", Chapter:16, Verse:23, Page:1,
-    Kor:"유다의 아사 왕 제 삼십일년에 오므리는 이스라엘의 왕이 되어서 열두 해 동안 다스렸는데, 여섯 해 동안은 디르사에서 다스렸다.",
+    Kor:"유다의 아사 왕 제 삼십일년에, 오므리는 이스라엘의 왕이 되어서 열두 해 동안 다스렸는데, 여섯 해 동안은 디르사에서 다스렸다.",
     Chn:"犹大王亚撒三十一年，暗利登基作以色列王共十二年；在得撒作王六年。",
     Eng:"In the thirty-first year of Asa king of Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah.",
     Ind:"Dalam tahun ketiga puluh satu zaman Asa, raja Yehuda, Omri menjadi raja atas Israel dan ia memerintah dua belas tahun lamanya. Di Tirza ia memerintah enam tahun lamanya."
   },
   {Bible:"1Kings", Chapter:16, Verse:24, Page:1,
-    Kor:"그는 세멜에게서 은 두 달란트를 주고, 사마리아 산지를 사들였다. 그리고 그 산에다가 도성을 건설하였는데, 그 산의 소유자인 세멜의 이름을 따라서 그 도성의 이름을 사마리아라고 하였다.",
+    Kor:"그는 세멜에게서 은 두 달란트를 주고, 사마리아 산지를 사들였다. 그리고 그 산에다가 도성을 건설하였는데, 그 산의 소유자인 세멜의 이름을 따라서, 그 도성의 이름을 사마리아라고 하였다.",
     Chn:"暗利用二他连得银子向撒玛买了撒马利亚山，在山上造城，就按着山的原主撒玛的名，给所造的城起名叫撒马利亚。",
     Eng:"He bought the hill of Samaria from Shemer for two talents of silver and built a city on the hill, calling it Samaria, after Shemer, the name of the former owner of the hill.",
     Ind:"Kemudian ia membeli gunung Samaria dari pada Semer dengan dua talenta perak. Ia mendirikan suatu kota di gunung itu dan menamainya Samaria, menurut nama Semer, pemilik gunung itu."
   },
   {Bible:"1Kings", Chapter:16, Verse:25, Page:1,
-    Kor:"○오므리가 주님께서 보시기에 악한 일을 하였는데, 그 일의 악한 정도는 그의 이전에 있던 왕들보다 더 심하였다.",
+    Kor:"○오므리가 주께서 보시기에 악한 일을 하였는데, 그 일의 악한 정도는 그의 이전에 있던 왕들보다 더 심하였다.",
     Chn:"暗利行耶和华眼中看为恶的事，比他以前的列王作恶更甚。",
     Eng:"But Omri did evil in the eyes of the LORD and sinned more than all those before him.",
     Ind:"Omri melakukan apa yang jahat di mata TUHAN dan ia melakukan kejahatan lebih dari pada segala orang yang mendahuluinya."
@@ -171,13 +171,13 @@ BibleDB.add([
     Ind:"Kemudian Omri mendapat perhentian bersama-sama dengan nenek moyangnya, dan ia dikuburkan di Samaria. Maka Ahab, anaknya, menjadi raja menggantikan dia."
   },
   {Bible:"1Kings", Chapter:16, Verse:29, Page:1,
-    Kor:"<이스라엘 왕 아합> ○유다의 아사 왕 제 삼십팔년에 오므리의 아들 아합이 이스라엘의 왕이 되어서, 사마리아에서 이스라엘을 스물두 해 동안 다스렸다.",
+    Kor:"○유다의 아사 왕 제 삼십팔년에, 오므리의 아들 아합이 이스라엘의 왕이 되어서, 사마리아에서 이스라엘을 스물두 해 동안 다스렸다.",
     Chn:"犹大王亚撒三十八年，暗利的儿子亚哈登基作了以色列王。暗利的儿子亚哈在撒马利亚作以色列王二十二年。",
     Eng:"In the thirty-eighth year of Asa king of Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria over Israel twenty-two years.",
     Ind:"Ahab, anak Omri, menjadi raja atas Israel dalam tahun ketiga puluh delapan zaman Asa, raja Yehuda. Dan Ahab bin Omri memerintah dua puluh dua tahun lamanya atas Israel di Samaria."
   },
   {Bible:"1Kings", Chapter:16, Verse:30, Page:1,
-    Kor:"오므리의 아들 아합은 그 이전에 있던 왕들보다 더 심하게, 주님께서 보시기에 악한 일을 하였다.",
+    Kor:"오므리의 아들 아합은 그 이전에 있던 왕들보다 더 심하게, 주께서 보시기에 악한 일을 하였다.",
     Chn:"暗利的儿子亚哈行耶和华眼中看为恶的事，比他以前的列王更甚，",
     Eng:"Ahab son of Omri did more evil in the eyes of the LORD than any of those before him.",
     Ind:"Ahab bin Omri melakukan apa yang jahat di mata TUHAN lebih dari pada semua orang yang mendahuluinya."
@@ -189,19 +189,19 @@ BibleDB.add([
     Ind:"Seakan-akan belum cukup ia hidup dalam dosa-dosa Yerobeam bin Nebat, maka ia mengambil pula Izebel, anak Etbaal, raja orang Sidon, menjadi isterinya, sehingga ia pergi beribadah kepada Baal dan sujud menyembah kepadanya."
   },
   {Bible:"1Kings", Chapter:16, Verse:32, Page:1,
-    Kor:"또 그는 사마리아에 세운 바알의 신전에다가 바알을 섬기는 제단을 세우고,",
+    Kor:"또 그는 사마리아에 세운 바알의 신전에다가, 바알을 섬기는 제단을 세우고,",
     Chn:"在撒马利亚建造巴力的庙，在庙里为巴力筑坛。",
     Eng:"He set up an altar for Baal in the temple of Baal that he built in Samaria.",
     Ind:"Kemudian ia membuat mezbah untuk Baal itu di kuil Baal yang didirikannya di Samaria."
   },
   {Bible:"1Kings", Chapter:16, Verse:33, Page:1,
-    Kor:"아세라 목상도 만들어 세웠다. 그래서 그는 그 이전의 이스라엘 왕들보다 더 심하게 주 이스라엘의 하나님을 진노하시게 하였다.",
+    Kor:"아세라 목상도 만들어 세웠다. 그래서 그는, 그 이전의 이스라엘 왕들보다 더 심하게 주 이스라엘의 하나님을 진노하시게 하였다.",
     Chn:"亚哈又做亚舍拉，他所行的惹耶和华—以色列　神的怒气，比他以前的以色列诸王更甚。",
     Eng:"Ahab also made an Asherah pole and did more to provoke the LORD, the God of Israel, to anger than did all the kings of Israel before him.",
     Ind:"Sesudah itu Ahab membuat patung Asyera, dan Ahab melanjutkan bertindak demikian, sehingga ia menimbulkan sakit hati TUHAN, Allah Israel, lebih dari semua raja-raja Israel yang mendahuluinya."
   },
   {Bible:"1Kings", Chapter:16, Verse:34, Page:1,
-    Kor:"○아합 시대에 베델 사람 히엘이 여리고를 건축하였다. 주님께서 눈의 아들 여호수아를 시켜서 하신 주님의 말씀대로, 그는 그 성의 기초를 놓으면서는 그의 맏아들 아비람을 잃었고, 성문을 달면서는 그의 막내 아들 스굽을 잃었다.",
+    Kor:"○아합 시대에 베델 사람 히엘이 여리고를 건축하였다. 주께서 눈의 아들 여호수아를 시켜서 하신 주의 말씀대로, 그는 그 성의 기초를 놓으면서는 그의 맏아들 아비람을 잃었고, 성문을 달면서는 그의 막내 아들 스굽을 잃었다.",
     Chn:"亚哈在位的时候，有伯特利人希伊勒重修耶利哥城；立根基的时候，丧了长子亚比兰；安门的时候，丧了幼子西割，正如耶和华借嫩的儿子约书亚所说的话。",
     Eng:"In Ahab's time, Hiel of Bethel rebuilt Jericho. He laid its foundations at the cost of his firstborn son Abiram, and he set up its gates at the cost of his youngest son Segub, in accordance with the word of the LORD spoken by Joshua son of Nun.",
     Ind:"Pada zamannya itu Hiel, orang Betel, membangun kembali Yerikho. Dengan membayarkan nyawa Abiram, anaknya yang sulung, ia meletakkan dasar kota itu, dan dengan membayarkan nyawa Segub, anaknya yang bungsu, ia memasang pintu gerbangnya, sesuai dengan firman TUHAN yang diucapkan-Nya dengan perantaraan Yosua bin Nun."

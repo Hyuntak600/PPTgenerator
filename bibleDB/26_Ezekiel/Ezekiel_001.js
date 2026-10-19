@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",1,28);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:1, Verse:1, Page:1,
-    Kor:"<하나님의 보좌> 때는 제 삼십년 넷째 달 오일이었다. 그 때에 내가 포로로 잡혀 온 사람들과 함께 그발 강 가에 있었다. 나는 하나님이 하늘을 열어 보여 주신 환상을 보았다.",
+    Kor:"때는 제 삼십년 넷째 달 오일이었다. 그 때에 내가 포로로 잡혀 온 사람들과 함께 그발 강 가에 있었다. 나는 하나님이 하늘을 열어 보여 주신 환상을 보았다.",
     Chn:"当三十年四月初五日，以西结在迦巴鲁河边被掳的人中，天就开了，得见　神的异象。",
     Eng:"In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.",
     Ind:"Pada tahun ketiga puluh, dalam bulan yang keempat, pada tanggal lima bulan itu, ketika aku bersama-sama dengan para buangan berada di tepi sungai Kebar, terbukalah langit dan aku melihat penglihatan-penglihatan tentang Allah."
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Pada tanggal lima bulan itu, yaitu tahun kelima sesudah raja Yoyakhin dibuang,"
   },
   {Bible:"Ezekiel", Chapter:1, Verse:3, Page:1,
-    Kor:"주님께서 a바빌로니아 땅의 그발 강 가에서 b부시의 아들인 나 에스겔 제사장에게 특별히 말씀하셨으며, 거기에서 주님의 권능이 나를 사로잡았다.(a 또는 '갈대아' b 또는 '부시 제사장의 아들 나 에스겔에게')",
+    Kor:"주께서 바빌로니아 땅의 그발 강 가에서 부시의 아들인 나 에스겔 제사장에게 특별히 말씀하셨으며, 거기에서 주의 권능이 나를 사로잡았다.",
     Chn:"在迦勒底人之地、迦巴鲁河边，耶和华的话特特临到布西的儿子祭司以西结；耶和华的灵降在他身上。",
     Eng:"the word of the LORD came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the LORD was upon him.",
     Ind:"datanglah firman TUHAN kepada imam Yehezkiel, anak Busi, di negeri orang Kasdim di tepi sungai Kebar, dan di sana kekuasaan TUHAN meliputi dia."
   },
   {Bible:"Ezekiel", Chapter:1, Verse:4, Page:1,
-    Kor:"○그 때에 내가 바라보니, 북쪽에서 폭풍이 불어오는데, 큰 구름이 밀려오고, 불빛이 계속 번쩍이며, 그 구름 둘레에는 광채가 나고, 그 광채 한가운데서는 불 속에서 빛나는 금붙이의 광채와 같은 것이 반짝였다.",
+    Kor:"○그 때에 내가 바라보니, 북쪽에서 폭풍이 불어오는데, 큰 구름이 밀려오고, 불빛이 계속 번쩍이며, 그 구름 둘레에는 광채가 나고, 그 광채 한가운데서는 불 속에서 빛나는 금붙이의 광채와 같은 것이 반짝이었다.",
     Chn:"我观看，见狂风从北方刮来，随着有一朵包括闪烁火的大云，周围有光辉；从其中的火内发出好像光耀的精金；",
     Eng:"I looked, and I saw a windstorm coming out of the north--an immense cloud with flashing lightning and surrounded by brilliant light. The center of the fire looked like glowing metal,",
     Ind:"Lalu aku melihat, sungguh, angin badai bertiup dari utara, dan membawa segumpal awan yang besar dengan api yang berkilat-kilat dan awan itu dikelilingi oleh sinar; di dalam, di tengah-tengah api itu kelihatan seperti suasa mengkilat."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Sayap-sayap mereka dikembangkan ke atas; mereka saling menyentuh dengan sepasang sayapnya dan sepasang sayap yang lain menutupi badan mereka."
   },
   {Bible:"Ezekiel", Chapter:1, Verse:12, Page:1,
-    Kor:"그들은 c영이 가고자 하는 곳으로 갈 때에는, 각각 앞으로 곧게 나아갔다. 그들은 몸을 돌리지 않고 앞으로 나아갔다.(c 히, '하루아흐')",
+    Kor:"그들은 영이 가고자 하는 곳으로 갈 때에는, 각각 앞으로 곧게 나아갔다. 그들은 몸을 돌리지 않고 앞으로 나아갔다.",
     Chn:"他们俱各直往前行。灵往哪里去，他们就往那里去，行走并不转身。",
     Eng:"Each one went straight ahead. Wherever the spirit would go, they would go, without turning as they went.",
     Ind:"Masing-masing berjalan lurus ke depan; ke arah mana roh itu hendak pergi, ke sanalah mereka pergi, mereka tidak berbalik kalau berjalan."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Makhluk-makhluk hidup itu terbang ke sana ke mari seperti kilat."
   },
   {Bible:"Ezekiel", Chapter:1, Verse:15, Page:1,
-    Kor:"○그 때에 내가 그 생물들을 바라보니, 그 생물들의 곁 땅 위에는 바퀴가 하나 있는데, 그 바퀴는 네 얼굴을 따라 하나씩 있었다.",
+    Kor:"○그 때에 내가 그 생물들을 바라보니, 그 생물들의 곁에 땅 위에는 바퀴가 하나 있는데, 그 바퀴는 네 얼굴을 따라 하나씩 있었다.",
     Chn:"我正观看活物的时候，见活物的脸旁各有一轮在地上。",
     Eng:"As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.",
     Ind:"Aku melihat, sungguh, di atas tanah di samping masing-masing dari keempat makhluk-makhluk hidup itu ada sebuah roda."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Dan di bawah cakrawala itu sayap mereka dikembangkan lurus, yang satu menyinggung yang lain; dan masing-masing mempunyai sepasang sayap yang menutupi badan mereka."
   },
   {Bible:"Ezekiel", Chapter:1, Verse:24, Page:1,
-    Kor:"그들이 움직일 때에는, 나는, 그들이 날개치는 소리를 들었다. 그 소리는 마치 힘찬 물소리와도 같고, d전능하신 분의 천둥소리와도 같고, 떠드는 소리 곧 군인들의 진영에서 나는 함성과도 같았다. 그들은 멈추어 서 있을 때에는 날개를 드리웠다.(d 히, '샤다이')",
+    Kor:"그들이 움직일 때에는, 나는, 그들이 날개치는 소리를 들었다. 그 소리는 마치 힘찬 물소리와도 같고, 전능하신 분의 천둥소리와도 같고, 떠드는 소리, 곧 군인들의 함성과도 같았다. 그들은 멈추어 서 있을 때에는 날개를 드리웠다.",
     Chn:"活物行走的时候，我听见翅膀的响声，像大水的声音，像全能者的声音，也像军队哄嚷的声音。活物站住的时候，便将翅膀垂下。",
     Eng:"When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings.",
     Ind:"Kalau mereka berjalan, aku mendengar suara sayapnya seperti suara air terjun yang menderu, seperti suara Yang Mahakuasa, seperti keributan laskar yang besar; kalau mereka berhenti, sayapnya dibiarkan terkulai."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Dari yang menyerupai pinggangnya sampai ke atas aku lihat seperti suasa mengkilat dan seperti api yang ditudungi sekelilingnya; dan dari yang menyerupai pinggangnya sampai ke bawah aku lihat seperti api yang dikelilingi sinar."
   },
   {Bible:"Ezekiel", Chapter:1, Verse:28, Page:1,
-    Kor:"그를 둘러싼 광채의 모양은, 비 오는 날 구름 속에 나타나는 무지개 같이 보였는데, 그것은 주님의 영광이 나타난 모양과 같았다. 그 모습을 보고, 나는 얼굴을 땅에 대고 엎드렸다. 그 때에 말씀하시는 이의 음성을 내가 들었다.",
+    Kor:"그를 둘러싼 광채의 모양은, 비 오는 날 구름 속에 나타나는 무지개 같이 보였는데, 그것은 주의 영광이 나타난 모양과 같았다. 그 모습을 보고, 나는 얼굴을 땅에 대고 엎드렸다. 그 때에 말씀하시는 이의 음성을 내가 들었다.",
     Chn:"下雨的日子，云中虹的形状怎样，周围光辉的形状也是怎样。 这就是耶和华荣耀的形象。我一看见就俯伏在地，又听见一位说话的声音。",
     Eng:"Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.",
     Ind:"Seperti busur pelangi, yang terlihat pada musim hujan di awan-awan, demikianlah kelihatan sinar yang mengelilinginya. Begitulah kelihatan gambar kemuliaan TUHAN. Tatkala aku melihatnya aku sembah sujud, lalu kudengar suara Dia yang berfirman."

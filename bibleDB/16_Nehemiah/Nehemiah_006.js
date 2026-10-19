@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",6,19);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:6, Verse:1, Page:1,
-    Kor:"<느헤미야에 대한 음모> 내가 성벽을 쌓아 올려 무너진 곳을 다 이었다는 말이 산발랏과 도비야와 아랍 사람 게셈과 그 밖의 우리 원수의 귀에까지 들어갔다. 그러나 그 때까지도 성문들의 문짝은 만들어 달지 못하고 있었는데,",
+    Kor:"내가 성벽을 쌓아 올려 무너진 곳을 다 이었다는 말이 산발랏과 도비야와 아랍 사람 게셈과 그 밖의 우리 원수의 귀에까지 들어갔다. 그러나 그 때까지도 성문들의 문짝은 만들어 달지 못하고 있었는데,",
     Chn:"参巴拉、多比雅、阿拉伯人基善和我们其余的仇敌听见我已经修完了城墙，其中没有破裂之处（那时我还没有安门扇），",
     Eng:"When word came to Sanballat, Tobiah, Geshem the Arab and the rest of our enemies that I had rebuilt the wall and not a gap was left in it--though up to that time I had not set the doors in the gates--",
     Ind:"Ketika Sanbalat dan Tobia dan Gesyem, orang Arab itu dan musuh-musuh kami yang lain mendengar, bahwa aku telah selesai membangun kembali tembok, sehingga tidak ada lagi lobang, walaupun sampai waktu itu di pintu-pintu gerbang belum kupasang pintunya,"
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Lalu dengan cara yang sama untuk kelima kalinya Sanbalat mengirim seorang anak buahnya kepadaku yang membawa surat yang terbuka."
   },
   {Bible:"Nehemiah", Chapter:6, Verse:6, Page:1,
-    Kor:"그 내용은 다음과 같다. ○당신과 유다 사람들이 반역을 모의하고 있고, 당신이 성벽을 쌓는 것도 그 때문이라는 소문이 여러 민족 사이에 퍼져 있소. a가스무도 이 사실을 확인하였소. 더구나 이 보고에 따르면, 당신은 그들의 왕이 되려고 하고 있으며,(a '게셈'의 변형)",
+    Kor:"그 내용은 다음과 같다. ○당신과 유다 사람들이 반역을 모의하고 있고, 당신이 성벽을 쌓는 것도 그 때문이라는 소문이 여러 민족 사이에 퍼져 있소. 가스무도 이 사실을 확인하였소. 더구나 이 보고에 따르면, 당신은 그들의 왕이 되려고 하고 있으며,",
     Chn:"信上写着说：「外邦人中有风声，迦施慕也说，你和犹大人谋反，修造城墙，你要作他们的王；",
     Eng:"in which was written: \"It is reported among the nations--and Geshem says it is true--that you and the Jews are plotting to revolt, and therefore you are building the wall. Moreover, according to these reports you are about to become their king",
     Ind:"Dalam surat itu tertulis: \"Ada desas-desus di antara bangsa-bangsa dan Gasymu membenarkannya, bahwa engkau dan orang-orang Yahudi berniat untuk memberontak, dan oleh sebab itu membangun kembali tembok. Lagipula, menurut kabar itu, engkau mau menjadi raja mereka."
   },
   {Bible:"Nehemiah", Chapter:6, Verse:7, Page:1,
-    Kor:"예루살렘에서 당신을 왕으로 떠받들고서 '유다에 왕이 있다'고 선포하게 할 예언자들까지 이미 임명하였다는 말을 들었소. 이러한 일은 이제 곧 왕에게까지 보고될 것이오. 그러니 만나서 함께 이야기합시다.",
+    Kor:"예루살렘에서 당신을 왕으로 떠받들고서 '유다에 왕이 있다고 선포하게 할 예언자들까지 이미 임명하였다는 말을 들었소. 이러한 일은 이제 곧 왕에게까지 보고될 것이오. 그러니 만나서 함께 이야기합시다.",
     Chn:"你又派先知在耶路撒冷指着你宣讲，说在犹大有王。现在这话必传与王知；所以请你来，与我们彼此商议。」",
     Eng:"and have even appointed prophets to make this proclamation about you in Jerusalem: 'There is a king in Judah!' Now this report will get back to the king; so come, let us confer together.\"",
     Ind:"Bahkan engkau telah menunjuk nabi-nabi yang harus memberitakan tentang dirimu di Yerusalem, demikian: Ada seorang raja di Yehuda! Sekarang, berita seperti itu akan didengar raja. Oleh sebab itu, mari, kita sama-sama berunding!\""
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Tetapi aku mengirim orang kepadanya dengan balasan: \"Hal seperti yang kausebut itu tidak pernah ada. Itu isapan jempolmu belaka!\""
   },
   {Bible:"Nehemiah", Chapter:6, Verse:9, Page:1,
-    Kor:"○그들은 우리에게 으름장을 놓았다. 그렇게 하면 우리가 겁을 먹고 공사를 중단하여, 끝내 완성을 못할 것이라고 생각한 것이다. ○\"하나님, 나에게 힘을 주십시오!\"",
+    Kor:"○그들은 우리에게 으름장을 놓았다. 그렇게 하면 우리가 겁을 먹고 공사를 중단하여, 끝내 완성을 못할 것이라고 생각한 것이다. \"하나님, 나에게 힘을 주십시오!\"",
     Chn:"他们都要使我们惧怕，意思说，他们的手必软弱，以致工作不能成就。　神啊，求你坚固我的手。",
     Eng:"They were all trying to frighten us, thinking, \"Their hands will get too weak for the work, and it will not be completed.\" But I prayed, \"Now strengthen my hands.\"",
     Ind:"Karena mereka semua mau menakut-nakutkan kami, pikirnya: \"Mereka akan membiarkan pekerjaan itu, sehingga tak dapat diselesaikan.\" Tetapi aku justru berusaha sekuat tenaga."
   },
   {Bible:"Nehemiah", Chapter:6, Verse:10, Page:1,
-    Kor:"○하루는 스마야를 만나려고 그의 집으로 찾아갔다. 그는 들라야의 아들이며, 므헤다벨의 손자인데, 문밖 출입을 하지 않고 있었다. 그가 나에게 말하였다. \"하나님의 성전으로 갑시다. 성소 안으로 들어가서, 성소 출입문들을 닫읍시다. 자객들이 그대를 죽이러 올 것입니다. 그들이 밤에 와서, 반드시 그대를 죽일 것입니다.\"",
+    Kor:"○하루는, 스마야를 만나려고 그의 집으로 찾아갔다. 그는 들라야의 아들이며, 므헤다벨의 손자인데, 문밖 출입을 하지 않고 있었다. 그가 나에게 말하였다. \"하나님의 성전으로 갑시다. 성소 안으로 들어가서, 성소 출입문들을 닫읍시다. 자객들이 그대를 죽이러 올 것이오. 그들이 밤에 와서, 반드시 그대를 죽일 것이오.\"",
     Chn:"我到了米希大别的孙子、第来雅的儿子示玛雅家里；那时，他闭门不出。他说：「我们不如在　神的殿里会面，将殿门关锁；因为他们要来杀你，就是夜里来杀你。」",
     Eng:"One day I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was shut in at his home. He said, \"Let us meet in the house of God, inside the temple, and let us close the temple doors, because men are coming to kill you--by night they are coming to kill you.\"",
     Ind:"Ketika aku pergi ke rumah Semaya bin Delaya bin Mehetabeel, sebab ia berhalangan datang, berkatalah ia: \"Biarlah kita bertemu di rumah Allah, di dalam Bait Suci, dan mengunci pintu-pintunya, karena ada orang yang mau datang membunuh engkau, ya, malam ini mereka mau datang membunuh engkau.\""
   },
   {Bible:"Nehemiah", Chapter:6, Verse:11, Page:1,
-    Kor:"나는 대답하였다. \"나 같은 사람더러 도망이나 다니란 말입니까? 나 같은 사람이 성소에 들어갔다가는 절대로 살아 나올 수 없습니다. 나는 그렇게는 못합니다.\"",
+    Kor:"나는 대답하였다. \"나 같은 사람더러 도망이나 다니란 말이오? 나 같은 사람이 성소에 들어갔다가는 절대로 살아 나올 수 없소. 나는 그렇게는 못하오.\"",
     Chn:"我说：「像我这样的人岂要逃跑呢？像我这样的人岂能进入殿里保全生命呢？我不进去！」",
     Eng:"But I said, \"Should a man like me run away? Or should one like me go into the temple to save his life? I will not go!\"",
     Ind:"Tetapi kataku: \"Orang manakah seperti aku ini yang akan melarikan diri? Orang manakah seperti aku ini dapat memasuki Bait Suci dan tinggal hidup? Aku tidak pergi!\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ya Allahku, ingatlah bagaimana Tobia dan Sanbalat masing-masing telah bertindak! Pun tindakan nabiah Noaja dan nabi-nabi yang lain yang mau menakut-nakutkan aku."
   },
   {Bible:"Nehemiah", Chapter:6, Verse:15, Page:1,
-    Kor:"<성벽 공사가 끝나다> ○성벽 공사는 오십이 일 만인 b엘룰월 이십오일에 끝났다.(b 양력 팔월 초순 이후)",
+    Kor:"○성벽 공사는 오십이 일 만인 엘룰월 이십오일에 끝났다.",
     Chn:"以禄月二十五日，城墙修完了，共修了五十二天。",
     Eng:"So the wall was completed on the twenty-fifth of Elul, in fifty-two days.",
     Ind:"Maka selesailah tembok itu pada tanggal dua puluh lima bulan Elul, dalam waktu lima puluh dua hari."

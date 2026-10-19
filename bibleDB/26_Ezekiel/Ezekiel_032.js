@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",32,32);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:32, Verse:1, Page:1,
-    Kor:"<악어와 같았던 이집트> 제 십이년 열두째 달 초하루에, 주님께서 나에게 말씀하셨다.",
+    Kor:"제 십이년 열두째 달 초하루에, 주께서 나에게 말씀하셨다.",
     Chn:"十二年十二月初一日，耶和华的话临到我说：",
     Eng:"In the twelfth year, in the twelfth month on the first day, the word of the LORD came to me:",
     Ind:"Pada tahun kedua belas, dalam bulan yang kedua belas, pada tanggal satu bulan itu, datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:32, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 이집트 왕 바로를 두고 애가를 불러라. 너는 그에게 알려 주어라.  '너는 스스로 네가 만방의 사자라고 생각하지만, 너는 나일 강 속에 있는 악어이다. 뾰족한 코로 강물을 흩뿌리고 발로 강물을 휘저으면서 강물을 더럽혔다.",
+    Kor:"\"사람아, 너는 이집트 왕 바로를 두고 애가를 불러라. 너는 그에게 알려 주어라. '너는 스스로 네가 만방의 사자라고 생각하지만, 너는 나일 강 속에 있는 악어이다. 뾰족한 코로 강물을 흩뿌리고 발로 강물을 휘저으면서 강물을 더럽혔다.",
     Chn:"「人子啊，你要为埃及王法老作哀歌，说： 从前你在列国中，如同少壮狮子； 现在你却像海中的大鱼。 你冲出江河， 用爪搅动诸水， 使江河浑浊。",
     Eng:"\"Son of man, take up a lament concerning Pharaoh king of Egypt and say to him: \"'You are like a lion among the nations; you are like a monster in the seas thrashing about in your streams, churning the water with your feet and muddying the streams.",
     Ind:"\"Hai anak manusia, ucapkanlah suatu ratapan mengenai Firaun, raja Mesir dan katakanlah kepadanya: Engkau menyamakan dirimu dengan singa muda di antara bangsa-bangsa. Tetapi engkau seperti buaya di laut; sungai-sungaimu kaubuat berbuih, engkau mengeruhkan airnya dengan kaki dan menggelompar dalam lumpur sungainya."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Kuhempaskan engkau ke tanah, Kulemparkan engkau ke padang. Dan ke atasmu Kusuruh hinggap segala burung di udara, dengan dagingmu Kukenyangkan binatang-binatang seluruh bumi."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:5, Page:1,
-    Kor:"너의 살점을 이산 저산에 흩어 놓으면 골짜기마다 a네 시체로 가득 찰 것이다. (a 심마쿠스역과 시리아어역과 불가타를 따름. 히, '네 높은 키')",
+    Kor:"너의 살점을 이산 저산에 흩어 놓으면 골짜기마다 네 시체로 가득 찰 것이다.",
     Chn:"我必将你的肉丢在山间， 用你高大的尸首填满山谷。",
     Eng:"I will spread your flesh on the mountains and fill the valleys with your remains.",
     Ind:"Dagingmu Kubiarkan berhamburan di atas pegunungan, lembah-lembah Aku penuhi dengan bangkai-bangkaimu."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Semua yang bersinar di langit akan Kugelapkan demi engkau. Kegelapan Kudatangkan atas tanahmu, demikianlah firman Tuhan ALLAH."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:9, Page:1,
-    Kor:"b네가 망했다는 소식을 내가 뭇 민족에게 알리면, 뭇 민족이 네가 알지도 못하던 그 나라들이 네가 망했다는 소식을 듣고, 불안에 떨 것이다. (b 칠십인역에는 '내가 너를 뭇 민족 가운데 포로로 잡혀가게 하면')",
+    Kor:"네가 망했다는 소식을 내가 뭇 민족에게 알리면, 뭇 민족이 네가 알지도 못하던 그 나라들이 네가 망했다는 소식을 듣고, 불안에 떨 것이다.",
     Chn:"「我使你败亡的风声传到你所不认识的各国。那时，我必使多民的心因你愁烦。",
     Eng:"I will trouble the hearts of many peoples when I bring about your destruction among the nations, among lands you have not known.",
     Ind:"Aku menggelisahkan hati banyak bangsa, kalau Aku membawa kamu sebagai tawanan di tengah bangsa-bangsa, ke negeri-negeri yang belum kamu kenal."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Inilah ratapan yang seharusnya dinyanyikan; kaum perempuan bangsa-bangsa akan menyanyikannya; mereka akan menyanyikannya atas Mesir dan atas seluruh rakyatnya yang banyak, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:32, Verse:17, Page:1,
-    Kor:"<죽은 자들의 세계> ○제 십이년 c첫째 달 십오일에 주님께서 나에게 말씀하셨다.(c 칠십인역을 따름. 히브리어 본문에는 '첫째 달'이 없음)",
+    Kor:"제 십이년 첫째 달 십오일에 주께서 나에게 말씀하셨다.",
     Chn:"十二年十二月十五日，耶和华的话临到我说：",
     Eng:"In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me:",
     Ind:"Pada tahun kedua belas, dalam bulan pertama, pada tanggal lima belas bulan itu, datanglah firman TUHAN kepadaku:"
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Di situ Asyur dengan semua sekutunya, sekelilingnya terdapat kuburnya; mereka semuanya mati terbunuh, rebah oleh pedang."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:23, Page:1,
-    Kor:"앗시리아의 무덤은 구덩이의 가장 깊은 밑바닥에 마련되었고, 그 무덤의 둘레에는 앗시리아의 군대가 묻혀 있는데, 그들은 모두가 칼을 맞고 쓰러진 자들로서, 칼에 찔려 죽은 전사자들, 살아 있는 사람들의 세상에서 사람들에게 겁을 주던 자들이다.",
+    Kor:"앗시리아의 무덤은 구덩이의 가장 깊은 밑바닥에 마련되었고, 그 무덤의 둘레에는 앗시리아의 군대가 묻혀 있는데, 그들은 모두가 칼을 맞고 쓰러진 자들, 칼에 찔려 죽은 전사자들, 살아 있는 사람들의 세상에서 사람들에게 겁을 주던 자들이다.",
     Chn:"他们的坟墓在坑中极深之处。她的众民在她坟墓的四围，都是被杀倒在刀下的；他们曾在活人之地使人惊恐。",
     Eng:"Their graves are in the depths of the pit and her army lies around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.",
     Ind:"Kuburnya ditentukan pada bagian yang terdalam dari liang dan kumpulan pengikutnya terdapat sekeliling kuburnya; mereka semuanya mati terbunuh, rebah oleh pedang, yaitu yang menimbulkan ketakutan di dunia orang-orang hidup."
@@ -153,25 +153,25 @@ BibleDB.add([
     Ind:"Di tengah orang-orang yang mati terbunuh disediakan tempat tidur baginya dengan seluruh rakyatnya yang banyak sekeliling kuburnya; mereka semuanya orang-orang yang tidak disunat, mati terbunuh oleh pedang. Oleh sebab ketakutan terhadap mereka sudah ditimbulkan di dunia orang-orang hidup, dan mereka menanggung nodanya bersama orang-orang yang turun ke liang kubur; mereka ditempatkan di tengah orang-orang yang mati terbunuh."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:26, Page:1,
-    Kor:"○그 곳에는 메섹과 두발이 묻혀 있고, 그 무덤의 둘레에는 그들의 군대가 모두 묻혀 있다. 그들은 모두 할례를 받지 못한 자들이요, 칼에 찔려 죽은 전사자들이요, 살아 있는 사람들의 세상에서 사람들에게 겁을 주던 자들이었다.",
+    Kor:"○그 곳에는 메섹과 두발이 묻혀 있고, 그 무덤의 둘레에는 그들의 군대가 모두 묻혀 있다. 그들은 모두 할례를 받지 못한 자들이요, 칼에 찔려 죽은 전사자들이요, 살아 있는 사람들의 세상에서 사람들에게 겁을 주던 자들이다.",
     Chn:"「米设、土巴，和她们的群众都在那里。她民的坟墓在她四围，他们都是未受割礼被刀杀的；他们曾在活人之地使人惊恐。",
     Eng:"\"Meshech and Tubal are there, with all their hordes around their graves. All of them are uncircumcised, killed by the sword because they spread their terror in the land of the living.",
     Ind:"Di situ Mesekh dan Tubal dengan seluruh rakyatnya yang banyak sekeliling kuburnya; mereka semuanya orang-orang yang tidak disunat, mati terbunuh oleh pedang, sebab mereka menimbulkan ketakutan di dunia orang-orang hidup."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:27, Page:1,
-    Kor:"그러나 그들은, 전쟁 무기를 가지고 스올로 내려가 칼을 베개로 삼아 베고 d방패를 이불로 삼아 덮고 자는 고대의 전몰 용사들과 함께 눕지는 못하였다. 그들은 살아 있는 사람들의 세상에서는 사람들에게 겁을 주던 자들이었다.(d 히, '죄를')",
+    Kor:"그러나 그들은 죽어서, 무기를 가지고 스올로 내려간 용사들이다. 칼을 베개로 삼아 베고, 방패를 이불로 삼아 덮고, 할례받지 못한 자들 가운데 누워 있는 용사들과 함께 눕는, 영예를 얻지 못하였다. 그들은 살아 있는 사람들의 세상에서 사람들에게 겁을 주던 용사들이다.",
     Chn:"他们不得与那未受割礼仆倒的勇士一同躺卧；这些勇士带着兵器下阴间，头枕刀剑，骨头上有本身的罪孽；他们曾在活人之地使勇士惊恐。",
     Eng:"Do they not lie with the other uncircumcised warriors who have fallen, who went down to the grave with their weapons of war, whose swords were placed under their heads? The punishment for their sins rested on their bones, though the terror of these warriors had stalked through the land of the living.",
     Ind:"Mereka tidak dibaringkan bersama pahlawan-pahlawan yang mati rebah pada zaman dahulu, yang turun ke dunia orang mati bersama segala senjata perangnya dan yang pedang-pedangnya ditaruh orang di bawah kepalanya serta perisai-perisainya terletak di atas tulang-tulangnya; sebab ketakutan terhadap pahlawan-pahlawan itu meliputi dunia orang-orang hidup."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:28, Page:1,
-    Kor:"○이제 너 이집트는 패망하여, 칼에 찔려 죽은 자들과 함께, 할례를 받지 못하고 죽은 자들과 함께 누울 것이다.",
+    Kor:"○이제 너 이집트는 패망하여, 칼에 찔려 죽은 자들과 함께 할례를 받지 못하고, 죽은 자들과 함께 누울 것이다.",
     Chn:"「法老啊，你必在未受割礼的人中败坏，与那些被杀的人一同躺卧。",
     Eng:"\"You too, O Pharaoh, will be broken and will lie among the uncircumcised, with those killed by the sword.",
     Ind:"Engkau akan telentang di tengah orang-orang yang tidak bersunat bersama orang-orang yang mati terbunuh oleh pedang."
   },
   {Bible:"Ezekiel", Chapter:32, Verse:29, Page:1,
-    Kor:"○그 곳에는 에돔 곧 에돔의 왕들과 그 모든 지도자가 묻혀 있다. 그들은 용맹스러웠으나, 지금은 칼에 찔려 죽은 전사자들과 함께 누워 있고, 할례를 받지 못하고 무덤으로 내려간 자들과 함께 누워 있다.",
+    Kor:"○그 곳에는 에돔, 곧 에돔의 왕들과 그 모든 지도자가 묻혀 있다. 그들은 용맹스러웠으나, 지금은 칼에 찔려 죽은 전사자들과 함께 누워 있고, 할례를 받지 못하고 무덤으로 내려간 자들과 함께 누워 있다.",
     Chn:"「以东也在那里。她君王和一切首领虽然仗着势力，还是放在被杀的人中；他们必与未受割礼的和下坑的人一同躺卧。",
     Eng:"\"Edom is there, her kings and all her princes; despite their power, they are laid with those killed by the sword. They lie with the uncircumcised, with those who go down to the pit.",
     Ind:"Di situ Edom, raja-rajanya dan semua pemimpinnya, yang ditempatkan dekat orang-orang yang mati terbunuh oleh pedang, walaupun mereka kuat; mereka dibaringkan dekat orang-orang yang tidak disunat dan dekat orang-orang yang turun ke liang kubur."

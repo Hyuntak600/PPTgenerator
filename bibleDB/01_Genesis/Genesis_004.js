@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",4,26);
 BibleDB.add([
   {Bible:"Genesis", Chapter:4, Verse:1, Page:1,
-    Kor:"<가인과 아벨> a아담이 자기 아내 하와와 동침하니, 아내가 임신하여, 가인을 낳았다. 하와가 말하였다. \"주님의 도우심으로, 내가 남자 아이를 b얻었다.\"(a 또는 '그 남자가' b 히브리어 동사 '얻다'(또는 '생산하다')의 발음이 가인이라는 말과 비슷함)",
+    Kor:"아담이 자기 아내 하와와 동침하니, 아내가 임신하여, 가인을 낳았다. 하와가 말하였다. \"주의 도우심으로, 내가 남자 아이를 얻었다.\"",
     Chn:"有一日，那人和他妻子夏娃同房，夏娃就怀孕，生了该隐，便说：「耶和华使我得了一个男子。」",
     Eng:"Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. She said, \"With  the help of the LORD I have brought forth a man.\"",
     Ind:"Kemudian manusia itu bersetubuh dengan Hawa, isterinya, dan mengandunglah perempuan itu, lalu melahirkan Kain; maka kata perempuan itu: \"Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN.\""
@@ -15,49 +15,49 @@ BibleDB.add([
     Ind:"Selanjutnya dilahirkannyalah Habel, adik Kain; dan Habel menjadi gembala kambing domba, Kain menjadi petani."
   },
   {Bible:"Genesis", Chapter:4, Verse:3, Page:1,
-    Kor:"세월이 지난 뒤에, 가인은 땅에서 거둔 곡식을 주님께 제물로 바치고,",
+    Kor:"세월이 지난 뒤에, 가인은 땅에서 거둔 곡식을 주께 제물로 바치고,",
     Chn:"有一日，该隐拿地里的出产为供物献给耶和华；",
     Eng:"In the course of time Cain brought some of the fruits of the soil as an offering to the LORD.",
     Ind:"Setelah beberapa waktu lamanya, maka Kain mempersembahkan sebagian dari hasil tanah itu kepada TUHAN sebagai korban persembahan;"
   },
   {Bible:"Genesis", Chapter:4, Verse:4, Page:1,
-    Kor:"아벨은 양 떼 가운데서 맏배의 기름기를 바쳤다. 주님께서 아벨과 그가 바친 제물은 반기셨으나,",
+    Kor:"아벨은 양 떼 가운데서 맏배의 기름기를 바쳤다. 주께서 아벨과 그가 바친 제물은 반기셨으나,",
     Chn:"亚伯也将他羊群中头生的和羊的脂油献上。耶和华看中了亚伯和他的供物，",
     Eng:"But Abel brought fat portions from some of the firstborn of his flock. The LORD looked with  favor on Abel and his offering,",
     Ind:"Habel juga mempersembahkan korban persembahan dari anak sulung kambing dombanya, yakni lemak-lemaknya; maka TUHAN mengindahkan Habel dan korban persembahannya itu,"
   },
   {Bible:"Genesis", Chapter:4, Verse:5, Page:1,
-    Kor:"가인과 그가 바친 제물은 반기지 않으셨다. 그래서 가인은 몹시 화가 나서, 얼굴빛이 달라졌다.",
+    Kor:"가인과 그가 바친 제물은 반기지 않으셨다. 그래서 가인은 몹시 화가 나서, 얼굴색이 변하였다.",
     Chn:"只是看不中该隐和他的供物。该隐就大大地发怒，变了脸色。",
     Eng:"but on Cain and his offering he did not look with favor. So Cain was very angry, and his face  was downcast.",
     Ind:"tetapi Kain dan korban persembahannya tidak diindahkan-Nya. Lalu hati Kain menjadi sangat panas, dan mukanya muram."
   },
   {Bible:"Genesis", Chapter:4, Verse:6, Page:1,
-    Kor:"주님께서 가인에게 말씀하셨다. \"어찌하여 네가 화를 내느냐? 얼굴빛이 달라지는 까닭이 무엇이냐?",
+    Kor:"주께서 가인에게 말씀하셨다. \"어찌하여 네가 화를 내느냐? 얼굴색이 변하는 까닭이 무엇이냐?",
     Chn:"耶和华对该隐说：「你为什么发怒呢？你为什么变了脸色呢？",
     Eng:"Then the LORD said to Cain, \"Why are you angry? Why is your face downcast?",
     Ind:"Firman TUHAN kepada Kain: \"Mengapa hatimu panas dan mukamu muram?"
   },
   {Bible:"Genesis", Chapter:4, Verse:7, Page:1,
-    Kor:"네가 올바른 일을 하였다면, 어찌하여 얼굴빛이 달라지느냐? 네가 올바르지 못한 일을 하였으니, 죄가 너의 문에 도사리고 앉아서, 너를 지배하려고 한다. 너는 그 죄를 잘 다스려야 한다.\"",
+    Kor:"네가 올바른 일을 하였다면, 어찌하여 얼굴을 펴지 못하느냐? 그러나 네가 올바르지 못한 일을 하였으니, 죄가 너의 문에 도사리고 앉아서, 너를 지배하려고 하니, 너는 그 죄를 잘 다스려야 한다.\"",
     Chn:"你若行得好，岂不蒙悦纳？你若行得不好，罪就伏在门前。它必恋慕你，你却要制伏它。」",
     Eng:"If you do what is right, will you not be accepted? But if you do not do what is right, sin is  crouching at your door; it desires to have you, but you must master it.\"",
     Ind:"Apakah mukamu tidak akan berseri, jika engkau berbuat baik? Tetapi jika engkau tidak berbuat baik, dosa sudah mengintip di depan pintu; ia sangat menggoda engkau, tetapi engkau harus berkuasa atasnya.\""
   },
   {Bible:"Genesis", Chapter:4, Verse:8, Page:1,
-    Kor:"○가인이 아우 아벨에게 말하였다. \"c우리, 들로 나가자.\" 그들이 들에 있을 때에, 가인이 그의 아우 아벨을 쳐죽였다.(c 사마리아 오경과 칠십인역과 불가타와 시리아어역을 따름)",
+    Kor:"○가인이 아우 아벨에게 말하였다. \"우리 들로 나가자.\" 그들이 들에 있을 때에, 가인이 그의 아우 아벨을 쳐죽였다.",
     Chn:"该隐与他兄弟亚伯说话；二人正在田间。该隐起来打他兄弟亚伯，把他杀了。",
     Eng:"Now Cain said to his brother Abel, \"Let's go out to the field.\" And while they were in the  field, Cain attacked his brother Abel and killed him.",
     Ind:"Kata Kain kepada Habel, adiknya: \"Marilah kita pergi ke padang.\" Ketika mereka ada di padang, tiba-tiba Kain memukul Habel, adiknya itu, lalu membunuh dia."
   },
   {Bible:"Genesis", Chapter:4, Verse:9, Page:1,
-    Kor:"주님께서 가인에게 물으셨다. \"너의 아우 아벨이 어디에 있느냐?\" 그가 대답하였다. \"모릅니다. 제가 아우를 지키는 사람입니까?\"",
+    Kor:"주께서 가인에게 물으셨다. \"너의 아우 아벨이 어디에 있느냐?\" 그가 대답하였다. \"모릅니다. 제가 아우를 지키는 사람입니까?\"",
     Chn:"耶和华对该隐说：「你兄弟亚伯在哪里？」他说：「我不知道！我岂是看守我兄弟的吗？」",
     Eng:"Then the LORD said to Cain, \"Where is your brother Abel?\" \"I don't know,\" he replied. \"Am I  my brother's keeper?\"",
     Ind:"Firman TUHAN kepada Kain: \"Di mana Habel, adikmu itu?\" Jawabnya: \"Aku tidak tahu! Apakah aku penjaga adikku?\""
   },
   {Bible:"Genesis", Chapter:4, Verse:10, Page:1,
-    Kor:"주님께서 말씀하셨다. \"네가 무슨 일을 저질렀느냐? 너의 아우의 피가 땅에서 나에게 울부짖는다.",
+    Kor:"주께서 말씀하셨다. \"네가 무슨 일을 저질렀느냐? 너의 아우의 피가 땅에서 나에게 울부짖는다.",
     Chn:"耶和华说：「你做了什么事呢？你兄弟的血有声音从地里向我哀告。",
     Eng:"The LORD said, \"What have you done? Listen! Your brother's blood cries out to me from the  ground.",
     Ind:"Firman-Nya: \"Apakah yang telah kauperbuat ini? Darah adikmu itu berteriak kepada-Ku dari tanah."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Apabila engkau mengusahakan tanah itu, maka tanah itu tidak akan memberikan hasil sepenuhnya lagi kepadamu; engkau menjadi seorang pelarian dan pengembara di bumi.\""
   },
   {Bible:"Genesis", Chapter:4, Verse:13, Page:1,
-    Kor:"가인이 주님께 말씀드렸다. \"이 형벌은, 제가 짊어지기에 너무 무겁습니다.",
+    Kor:"가인이 주께 말씀드렸다. \"이 형벌은, 제가 짊어지기에 너무 무겁습니다.",
     Chn:"该隐对耶和华说：「我的刑罚太重，过于我所能当的。",
     Eng:"Cain said to the LORD, \"My punishment is more than I can bear.",
     Ind:"Kata Kain kepada TUHAN: \"Hukumanku itu lebih besar dari pada yang dapat kutanggung."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Engkau menghalau aku sekarang dari tanah ini dan aku akan tersembunyi dari hadapan-Mu, seorang pelarian dan pengembara di bumi; maka barangsiapa yang akan bertemu dengan aku, tentulah akan membunuh aku.\""
   },
   {Bible:"Genesis", Chapter:4, Verse:15, Page:1,
-    Kor:"주님께서 그에게 말씀하셨다. \"d그렇지 않다. 가인을 죽이는 자는 일곱 갑절로 벌을 받을 것이다.\" 주님께서는 가인에게 표를 찍어 주셔서, 어느 누가 그를 만나더라도, 그를 죽이지 못하게 하셨다.(d 칠십인역과 불가타와 시리아어역을 따름. 히, '그러므로')",
+    Kor:"주께서 그에게 말씀하셨다. \"그렇지 않다. 가인을 죽이는 자는 일곱 갑절로 벌을 받을 것이다.\" 주께서는 가인에게 표를 찍어 주셔서, 어느 누가 그를 만나더라도, 그를 죽이지 못하게 하셨다.",
     Chn:"耶和华对他说：「凡杀该隐的，必遭报七倍。」耶和华就给该隐立一个记号，免得人遇见他就杀他。",
     Eng:"But the LORD said to him, \"Not so; if anyone kills Cain, he will suffer vengeance seven  times over.\" Then the LORD put a mark on Cain so that no one who found him would kill him.",
     Ind:"Firman TUHAN kepadanya: \"Sekali-kali tidak! Barangsiapa yang membunuh Kain akan dibalaskan kepadanya tujuh kali lipat.\" Kemudian TUHAN menaruh tanda pada Kain, supaya ia jangan dibunuh oleh barangsiapapun yang bertemu dengan dia."
   },
   {Bible:"Genesis", Chapter:4, Verse:16, Page:1,
-    Kor:"가인은 주님 앞을 떠나서, 에덴의 동쪽 e놋 땅에서 살았다.(e '떠돌아 다님' (12, 14절을 볼 것))",
+    Kor:"가인은 주 앞을 떠나서, 에덴의 동쪽 놋 땅에서 살았다.",
     Chn:"于是该隐离开耶和华的面，去住在伊甸东边挪得之地。",
     Eng:"So Cain went out from the LORD'S presence and lived in the land of Nod, east of Eden.",
     Ind:"Lalu Kain pergi dari hadapan TUHAN dan ia menetap di tanah Nod, di sebelah timur Eden."
   },
   {Bible:"Genesis", Chapter:4, Verse:17, Page:1,
-    Kor:"<가인의 자손> ○가인이 자기 아내와 동침하니, 아내가 임신하여 에녹을 낳았다. 그 때에 가인은 도시를 세우고, 그 도시를 자기 아들의 이름을 따서 에녹이라고 하였다.",
+    Kor:"○가인이 자기 아내와 동침하니, 아내가 임신하여 에녹을 낳았다. 그 때에, 가인은 도시를 세우고, 그 도시를 자기 아들의 이름을 따서 에녹이라고 하였다.",
     Chn:"该隐与妻子同房，他妻子就怀孕，生了以诺。该隐建造了一座城，就按着他儿子的名将那城叫做以诺。",
     Eng:"Cain lay with his wife, and she became pregnant and gave birth to Enoch. Cain was then  building a city, and he named it after his son Enoch.",
     Ind:"Kain bersetubuh dengan isterinya dan mengandunglah perempuan itu, lalu melahirkan Henokh; kemudian Kain mendirikan suatu kota dan dinamainya kota itu Henokh, menurut nama anaknya."
@@ -147,13 +147,13 @@ BibleDB.add([
     Ind:"sebab jika Kain harus dibalaskan tujuh kali lipat, maka Lamekh tujuh puluh tujuh kali lipat.\""
   },
   {Bible:"Genesis", Chapter:4, Verse:25, Page:1,
-    Kor:"<셋과 에노스> ○아담이 다시 자기 아내와 동침하였다. 마침내, 그의 아내가 아들을 낳고 말하였다. \"하나님이, 가인에게 죽은 아벨 대신에, 다른 씨를 나에게 허락하셨구나.\" 그의 아내는 아이의 이름을 f셋이라고 하였다.(f '허락하다')",
+    Kor:"○아담이 다시 자기 아내와 동침하였다. 마침내, 그의 아내가 아들을 낳고 말하기를 \"하나님이, 가인에게 죽은 아벨 대신에, 다른 씨를 나에게 허락하셨구나\" 하였다. 그의 아내는 아이의 이름을 셋이라고 하였다.",
     Chn:"亚当又与妻子同房，她就生了一个儿子，起名叫塞特，意思说：「　神另给我立了一个儿子代替亚伯，因为该隐杀了他。」",
     Eng:"Adam lay with his wife again, and she gave birth to a son and named him Seth, saying, \"God  has granted me another child in place of Abel, since Cain killed him.\"",
     Ind:"Adam bersetubuh pula dengan isterinya, lalu perempuan itu melahirkan seorang anak laki-laki dan menamainya Set, sebab katanya: \"Allah telah mengaruniakan kepadaku anak yang lain sebagai ganti Habel; sebab Kain telah membunuhnya.\""
   },
   {Bible:"Genesis", Chapter:4, Verse:26, Page:1,
-    Kor:"셋도 아들을 낳고, 아이의 이름을 에노스라고 하였다. 그 때에 비로소, 사람들이 주님의 이름을 불러 예배하기 시작하였다.",
+    Kor:"셋도 아들을 낳고, 아이의 이름을 에노스라고 하였다. 그 때에 비로소, 사람들이 주의 이름을 불러 예배하기 시작하였다.",
     Chn:"塞特也生了一个儿子，起名叫以挪士。那时候，人才求告耶和华的名。",
     Eng:"Seth also had a son, and he named him Enosh. At that time men began to call on the name of  the LORD.",
     Ind:"Lahirlah seorang anak laki-laki bagi Set juga dan anak itu dinamainya Enos. Waktu itulah orang mulai memanggil nama TUHAN."

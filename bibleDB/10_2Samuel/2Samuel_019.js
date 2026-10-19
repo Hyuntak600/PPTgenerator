@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",19,43);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:19, Verse:1, Page:1,
-    Kor:"<요압이 다윗에게 항의하다> 왕이 목놓아 울면서 압살롬의 죽음을 슬퍼하고 있다는 소문이 요압에게 전해졌다.",
+    Kor:"왕이 목놓아 울면서 압살롬의 죽음을 슬퍼하고 있다는 소문이 요압에게 전해졌다.",
     Chn:"有人告诉约押说：「王为押沙龙哭泣悲哀。」",
     Eng:"Joab was told, \"The king is weeping and mourning for Absalom.\"",
     Ind:"Lalu diberitahukanlah kepada Yoab: \"Ketahuilah, raja menangis dan berkabung karena Absalom.\""
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"dengan mencintai orang-orang yang benci kepadamu, dan dengan membenci orang-orang yang cinta kepadamu! Karena pada hari ini engkau menunjukkan bahwa panglima-panglima dan anak buah tidak berarti apa-apa bagimu. Bahkan aku mengerti pada hari ini, bahwa seandainya Absalom masih hidup dan kami semua mati pada hari ini, maka hal itu kaupandang baik."
   },
   {Bible:"2Samuel", Chapter:19, Verse:7, Page:1,
-    Kor:"이제라도 일어나 밖으로 나가셔서, 임금님의 부하들을 위로의 말로 격려해 주십시오. 제가 주님의 이름을 걸고 맹세하지만, 지금 임금님께서 밖으로 나가지 않으시면, 오늘 밤에 한 사람도 임금님 곁에 남아 있지 않을 것입니다. 그러면 임금님께서 젊은 시절부터 이제까지 당한 그 모든 환난보다도 더 무서운 환난을 당하실 것입니다.\"",
+    Kor:"이제라도 일어나 밖으로 나가셔서, 임금님의 부하들을 위로의 말로 격려해 주십시오. 제가 주의 이름을 걸고 맹세하지만, 지금 임금님께서 밖으로 나가지 않으시면, 오늘 밤에 한 사람도 임금님 곁에 남아 있지 않을 것입니다. 그러면 임금님께서, 젊은 시절부터 이제까지 당한 그 모든 환난보다도 더 무서운 환난을 당하실 것입니다.\"",
     Chn:"现在你当出去，安慰你仆人的心。我指着耶和华起誓：你若不出去，今夜必无一人与你同在一处；这祸患就比你从幼年到如今所遭的更甚！」",
     Eng:"Now go out and encourage your men. I swear by the LORD that if you don't go out, not a man will be left with you by nightfall. This will be worse for you than all the calamities that have come upon you from your youth till now.\"",
     Ind:"Oleh sebab itu, bangunlah, pergilah ke luar dan berbicaralah menenangkan hati orang-orangmu. Sebab aku bersumpah demi TUHAN, apabila engkau tidak keluar, maka seorangpun tidak akan ada yang tinggal bersama-sama dengan engkau pada malam ini; dan hal ini berarti celaka bagimu melebihi segala celaka yang telah kaualami sejak kecilmu sampai sekarang.\""
   },
   {Bible:"2Samuel", Chapter:19, Verse:8, Page:1,
-    Kor:"그러자 왕이 일어나서 성문 문루로 나와 앉았다. \"임금님께서 성문 문루에 앉아 계신다!\" 하는 소식이 모든 부하에게 전해지니, 모든 부하가 왕의 앞으로 나아왔다. <다윗의 귀환 준비> ○그 사이에 이스라엘 사람들은 모두 도망하여, 저마다 자기 집으로 돌아갔다.",
+    Kor:"그러자 왕이 일어나서 성문으로 나와 앉았다. \"임금님께서 성문에 앉아 계신다!\" 하는 소식이 모든 부하에게 전해지니, 모든 부하가 왕의 앞으로 나아왔다. ○그 사이에 이스라엘 사람들은 모두 도망하여, 저마다 자기 집으로 돌아갔다.",
     Chn:"于是王起来，坐在城门口。众民听说王坐在城门口，就都到王面前。 以色列人已经逃跑，各回各家去了。",
     Eng:"So the king got up and took his seat in the gateway. When the men were told, \"The king is sitting in the gateway,\" they all came before him. Meanwhile, the Israelites had fled to their homes.",
     Ind:"Lalu bangunlah raja dan duduk di pintu gerbang. Maka diberitahukanlah kepada seluruh rakyat, demikian: \"Ketahuilah, raja duduk di pintu gerbang.\" Kemudian datanglah seluruh rakyat itu menghadap raja. Adapun orang Israel sudah melarikan diri, masing-masing ke kemahnya."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"tetapi Absalom yang telah kita urapi untuk memerintah kita, sudah mati dalam pertempuran. Maka sekarang, mengapa kamu berdiam diri dengan tidak membawa raja kembali?\""
   },
   {Bible:"2Samuel", Chapter:19, Verse:11, Page:1,
-    Kor:"○온 이스라엘이 하는 말이 다윗 왕에게 전달되었다. 다윗 왕은 두 제사장 사독과 아비아달에게 사람을 보내서, 이렇게 말하였다. \"유다 장로들에게 나의 말을 전하여 주십시오. 그들이 어찌하여 왕을 다시 왕궁으로 모시는 일에 맨 나중이 되려고 하는지,",
+    Kor:"○온 이스라엘이 하는 말이 다윗 왕에게 전달되었다. 다윗 왕은 두 제사장 사독과 아비아달에게 사람을 보내서, 이렇게 말하였다. \"유다 장로들에게 나의 말을 전하여 주시오. 그들이 어찌하여 왕을 다시 왕궁으로 모시는 일에 맨 나중이 되려고 하는지,",
     Chn:"大卫王差人去见祭司撒督和亚比亚他，说：「你们当向犹大长老说：『以色列众人已经有话请王回宫，你们为什么落在他们后头呢？",
     Eng:"King David sent this message to Zadok and Abiathar, the priests: \"Ask the elders of Judah, 'Why should you be the last to bring the king back to his palace, since what is being said throughout Israel has reached the king at his quarters?",
     Ind:"Raja Daud telah menyuruh orang kepada Zadok dan Abyatar, imam-imam itu, dengan pesan: \"Berbicaralah kepada para tua-tua Yehuda, demikian: Mengapa kamu menjadi yang terakhir untuk membawa raja kembali ke istananya?\" Sebab perkataan seluruh Israel telah sampai kepada raja."
   },
   {Bible:"2Samuel", Chapter:19, Verse:12, Page:1,
-    Kor:"그들은 나의 친족이요 나의 골육지친인데, 어찌하여 왕을 다시 모셔 오는 일에 맨 나중이 되려고 하는지, 물어 보시기 바랍니다.",
+    Kor:"그들은 나의 형제요 나의 골육지친인데, 어찌하여 왕을 다시 모셔 오는 일에 맨 나중이 되려고 하는지, 물어 보기 바라오.",
     Chn:"你们是我的弟兄，是我的骨肉，为什么在人后头请王回来呢？』",
     Eng:"You are my brothers, my own flesh and blood. So why should you be the last to bring back the king?'",
     Ind:"\"Kamulah saudara-saudaraku, kamulah darah dagingku; mengapa kamu menjadi yang terakhir untuk membawa raja kembali?"
   },
   {Bible:"2Samuel", Chapter:19, Verse:13, Page:1,
-    Kor:"그리고 아마사에게는, 그가 나의 골육지친이면서도, 요압을 대신하여 군대 사령관이 되지 않는다면, 하나님이 나에게 무슨 벌을 내리시더라도, 내가 달게 받겠다고 하더라고 알려 주십시오.\"",
+    Kor:"그리고 아마사에게는, 그가 나의 골육지친이면서도, 요압을 대신하여 군대 사령관이 되지 않는다면, 하나님이 나에게 무슨 벌을 내리시더라도, 내가 달게 받겠다고 하더라고 알려 주시오.\"",
     Chn:"也要对亚玛撒说：『你不是我的骨肉吗？我若不立你替约押常作元帅，愿　神重重地降罚与我！』」",
     Eng:"And say to Amasa, 'Are you not my own flesh and blood? May God deal with me, be it ever so severely, if from now on you are not the commander of my army in place of Joab.'\"",
     Ind:"Dan kepada Amasa haruslah kamu katakan: Bukankah engkau darah dagingku? Beginilah kiranya Allah menghukum aku, bahkan lebih lagi dari pada itu, jika engkau tidak tetap menjadi panglimaku menggantikan Yoab.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Juga ada seribu orang dari daerah Benyamin bersama-sama dengan dia. Dan Ziba, hamba keluarga Saul, dan kelima belas anaknya laki-laki dan kedua puluh hambanya bersama-sama dengan dia datang tergesa-gesa ke sungai Yordan mendahului raja,"
   },
   {Bible:"2Samuel", Chapter:19, Verse:18, Page:1,
-    Kor:"그들은 왕의 가족이 강을 건너는 일을 도와서, 왕의 환심을 사려고, 나룻배로 건너갔다. <다윗과 시므이> ○왕이 요단 강을 건너려고 할 때에, 게라의 아들 시므이가 왕 앞에 엎드려서",
+    Kor:"그들은 왕의 가족이 강을 건너는 일을 도와서, 왕의 환심을 사려고, 나룻배로 건너갔다. ○왕이 요단 강을 건너려고 할 때에, 게라의 아들 시므이가 왕 앞에 엎드려서",
     Chn:"有摆渡船过去，渡王的家眷，任王使用。 王要过约旦河的时候，基拉的儿子示每就俯伏在王面前，",
     Eng:"They crossed at the ford to take the king's household over and to do whatever he wished. When Shimei son of Gera crossed the Jordan, he fell prostrate before the king",
     Ind:"lalu menyeberang dari tempat penyeberangan untuk menyeberangkan keluarga raja dan untuk melakukan apa yang dipandangnya baik. Maka Simei bin Gera sujud di depan raja, ketika raja hendak menyeberangi sungai Yordan,"
@@ -123,13 +123,13 @@ BibleDB.add([
     Ind:"Sebab hambamu ini tahu bahwa hamba telah berbuat dosa; dan lihatlah, pada hari ini akulah yang pertama-tama datang dari seluruh keturunan Yusuf untuk menyongsong tuanku raja.\""
   },
   {Bible:"2Samuel", Chapter:19, Verse:21, Page:1,
-    Kor:"스루야의 아들 아비새가 그 말을 받아서, 왕에게 말하였다. \"주님께서 기름 부어 세우신 분을 시므이가 저주하였으니, 그것만으로도 시므이는 죽어야 마땅한 줄 압니다.\"",
+    Kor:"스루야의 아들 아비새가 그 말을 받아서, 왕에게 말하였다. \"주께서 기름 부어 세우신 분을 시므이가 저주하였으니, 그것만으로도 시므이는 죽어야 마땅한 줄 압니다.\"",
     Chn:"洗鲁雅的儿子亚比筛说：「示每既咒骂耶和华的受膏者，不应当治死他吗？」",
     Eng:"Then Abishai son of Zeruiah said, \"Shouldn't Shimei be put to death for this? He cursed the LORD'S anointed.\"",
     Ind:"Lalu berbicaralah Abisai, anak Zeruya, katanya: \"Bukankah Simei patut dihukum mati karena ia telah mengutuki orang yang diurapi TUHAN?\""
   },
   {Bible:"2Samuel", Chapter:19, Verse:22, Page:1,
-    Kor:"그러나 다윗이 말하였다. \"스루야의 아들들은 들어라. 나의 일에 왜 너희가 나서서, 오늘 나의 a대적이 되느냐? 내가 오늘에서야, 온 이스라엘의 왕이 된 것 같은데, 이런 날에, 이스라엘에서 사람이 처형을 받아서야 되겠느냐?\"(a 히, '사탄이')",
+    Kor:"그러나 다윗이 말하였다. \"스루야의 아들들은 들어라. 나의 일에 왜 너희가 나서서, 오늘 나의 대적이 되느냐? 내가 오늘에서야, 온 이스라엘의 왕이 된 것 같은데, 이런 날에, 이스라엘에서 사람이 처형을 받아서야 되겠느냐?\"",
     Chn:"大卫说：「洗鲁雅的儿子，我与你们有何关涉，使你们今日与我反对呢？今日在以色列中岂可治死人呢？我岂不知今日我作以色列的王吗？」",
     Eng:"David replied, \"What do you and I have in common, you sons of Zeruiah? This day you have become my adversaries! Should anyone be put to death in Israel today? Do I not know that today I am king over Israel?\"",
     Ind:"Tetapi Daud berkata: \"Apakah urusanku dengan kamu, hai anak-anak Zeruya, sehingga kamu pada hari ini menjadi lawanku? Masakan pada hari ini seorang dihukum mati di Israel! Sebab bukankah aku tahu, bahwa aku pada hari ini adalah raja atas Israel?\""
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"Kemudian berkatalah raja kepada Simei: \"Engkau tidak akan mati.\" Lalu raja bersumpah kepadanya."
   },
   {Bible:"2Samuel", Chapter:19, Verse:24, Page:1,
-    Kor:"<다윗과 므비보셋> ○그 때에 사울의 손자 므비보셋도 왕을 맞으러 내려왔다. 그는, 왕이 떠나간 날부터 평안하게 다시 돌아오는 날까지, 발도 씻지 않고, 수염도 깎지 않고, 옷도 빨아 입지 않았다.",
+    Kor:"○그 때에 사울의 손자 므비보셋도 왕을 맞으러 내려왔다. 그는, 왕이 떠나간 날부터 평안하게 다시 돌아오는 날까지, 발도 씻지 않고, 수염도 깎지 않고, 옷도 빨아 입지 않았다.",
     Chn:"扫罗的孙子米非波设也下去迎接王。他自从王去的日子，直到王平平安安地回来，没有修脚，没有剃胡须，也没有洗衣服。",
     Eng:"Mephibosheth, Saul's grandson, also went down to meet the king. He had not taken care of his feet or trimmed his mustache or washed his clothes from the day the king left until the day he returned safely.",
     Ind:"Juga Mefiboset bin Saul menyongsong raja. Ia tidak membersihkan kakinya dan tidak memelihara janggutnya dan pakaiannya tidak dicucinya sejak raja pergi sampai hari ia pulang dengan selamat."
   },
   {Bible:"2Samuel", Chapter:19, Verse:25, Page:1,
-    Kor:"그가 예루살렘에서 와서 왕을 맞이하니, 왕이 그에게 물었다. \"므비보셋은 어찌하여 나와 함께 떠나지 않았느냐?\"",
+    Kor:"그가 예루살렘에서 와서, 왕을 맞이하니, 왕이 그에게 물었다. \"므비보셋은 어찌하여 나와 함께 떠나지 않았느냐?\"",
     Chn:"他来到耶路撒冷迎接王的时候，王问他说：「米非波设，你为什么没有与我同去呢？」",
     Eng:"When he came from Jerusalem to meet the king, the king asked him, \"Why didn't you go with me, Mephibosheth?\"",
     Ind:"Ketika ia dari Yerusalem menyongsong raja, bertanyalah raja kepadanya: \"Mengapa engkau tidak pergi bersama-sama dengan aku, Mefiboset?\""
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Ia telah memfitnahkan hambamu ini kepada tuanku raja. Tetapi tuanku raja adalah seperti malaikat Allah; sebab itu perbuatlah apa yang tuanku pandang baik."
   },
   {Bible:"2Samuel", Chapter:19, Verse:28, Page:1,
-    Kor:"제 아버지의 온 집안은 임금님에게 죽어도 마땅한 사람들뿐인데, 임금님께서는 이 종을 임금님의 상에서 먹는 사람들과 함께 먹도록 해주셨으니, 이제 저에게 무슨 염치가 있다고, 임금님께 무엇을 더 요구하겠습니까?\"",
+    Kor:"제 아버지의 온 집안은, 임금님에게 죽어도 마땅한 사람들뿐인데, 임금님께서는 이 종을 임금님의 상에서 먹는 사람들과 함께 먹도록 해주셨으니, 이제 저에게 무슨 염치가 있다고, 임금님께 무엇을 더 요구하겠습니까?\"",
     Chn:"因为我祖全家的人，在我主我王面前都算为死人，王却使仆人在王的席上同人吃饭，我现在向王还能辨理诉冤吗？」",
     Eng:"All my grandfather's descendants deserved nothing but death from my lord the king, but you gave your servant a place among those who sat at your table. So what right do I have to make any more appeals to the king?\"",
     Ind:"Walaupun seluruh kaum keluargaku tidak lain dari orang-orang yang patut dihukum mati oleh tuanku raja, tuanku telah mengangkat hambamu ini di antara orang-orang yang menerima rezeki dari istanamu. Apakah hakku lagi dan untuk apa aku mengadakan tuntutan lagi kepada raja?\""
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Mefiboset kepada raja: \"Biarlah ia mengambil semuanya, sebab tuanku raja sudah pulang dengan selamat.\""
   },
   {Bible:"2Samuel", Chapter:19, Verse:31, Page:1,
-    Kor:"<다윗과 바르실래> ○그 때에 길르앗 사람 바르실래도 로글림에서 내려와서, 왕이 요단 강을 건너는 일을 도우려고, 요단 강 가에 이르렀다.",
+    Kor:"○그 때에, 길르앗 사람 바르실래도 로글림에서 내려와서, 왕이 요단 강을 건너는 일을 도우려고, 요단 강 가에 이르렀다.",
     Chn:"基列人巴西莱从罗基琳下来，要送王过约旦河，就与王一同过了约旦河。",
     Eng:"Barzillai the Gileadite also came down from Rogelim to cross the Jordan with the king and to send him on his way from there.",
     Ind:"Juga Barzilai, orang Gilead itu, telah datang dari Ragelim dan ikut bersama-sama raja ke sungai Yordan untuk mengantarkannya sampai di sana."
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Sepotong jalan saja hambamu ini berjalan ke seberang sungai Yordan bersama-sama dengan raja. Mengapa raja memberikan ganjaran yang sedemikian kepadaku?"
   },
   {Bible:"2Samuel", Chapter:19, Verse:37, Page:1,
-    Kor:"부디 이 종을 돌아가게 하셔서, 고향 마을에 있는 제 아버지와 어머니의 무덤 곁에서 죽게 하여 주시기를 바랍니다. 그 대신에 b이 종의 아들 김함이 여기에 있으니, 그가 높으신 임금님을 따라가게 하시고, 임금님께서 바라시는 대로, 그에게 잘 대하여 주시기를 바랍니다.\"(b 칠십인역과 시리아어역을 따름. 히, '임금님의 종 김함')",
+    Kor:"부디 이 종을 돌아가게 하셔서, 고향 마을에 있는 제 아버지와 어머니의 무덤 곁에서 죽게 하여 주시기를 바랍니다. 그 대신에 이 종의 아들 김함이 여기에 있으니, 그가 높으신 임금님을 따라가게 하시고, 임금님께서 바라시는 대로, 그에게 잘 대하여 주시기를 바랍니다.\"",
     Chn:"求你准我回去，好死在我本城，葬在我父母的墓旁。这里有王的仆人金罕，让他同我主我王过去，可以随意待他。」",
     Eng:"Let your servant return, that I may die in my own town near the tomb of my father and mother. But here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever pleases you.\"",
     Ind:"Biarkanlah hambamu ini pulang, sehingga aku dapat mati di kotaku sendiri, dekat kubur ayahku dan ibuku. Tetapi inilah hambamu Kimham, ia boleh ikut dengan tuanku raja; perbuatlah kepadanya apa yang tuanku pandang baik.\""
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Kemudian seluruh rakyat menyeberangi sungai Yordan. Juga raja menyeberang, setelah berpamitan dengan Barzilai dengan ciuman. Lalu orang inipun pulanglah ke tempat kediamannya."
   },
   {Bible:"2Samuel", Chapter:19, Verse:40, Page:1,
-    Kor:"왕이 길갈로 건너갈 때에 김함도 왕을 따라서 건너갔다. <남북 분쟁의 재연> ○온 유다 백성과 이스라엘 백성의 절반이나 왕을 따라서, 요단 강을 건너갔다.",
+    Kor:"왕이 길갈로 건너갈 때에, 김함도 왕을 따라서 건너갔다. ○온 유다 백성과 이스라엘 백성의 절반이나 왕을 따라서, 요단 강을 건너갔다.",
     Chn:"王过去，到了吉甲，金罕也跟他过去。犹大众民和以色列民的一半也都送王过去。",
     Eng:"When the king crossed over to Gilgal, Kimham crossed with him. All the troops of Judah and half the troops of Israel had taken the king over.",
     Ind:"Sesudah itu berjalanlah raja terus ke Gilgal, dan Kimham ikut dengan dia. Seluruh rakyat Yehuda bersama-sama setengah dari rakyat Israel telah mengantarkan raja."

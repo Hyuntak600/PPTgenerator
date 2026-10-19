@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",37,28);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:37, Verse:1, Page:1,
-    Kor:"<마른 뼈들이 살아나는 환상> 주님께서 권능으로 나를 사로잡으셨다. 주님의 영이 나를 데리고 나가서, 골짜기의 한가운데 나를 내려 놓으셨다. 그런데 그 곳에는 뼈들이 가득히 있었다.",
+    Kor:"주께서 권능으로 나를 사로잡으셨다. 주의 영이 나를 데리고 나가서, 골짜기의 한가운데 나를 내려 놓으셨다. 그런데 그 곳에는 뼈들이 가득히 있었다.",
     Chn:"耶和华的灵降在我身上。耶和华借他的灵带我出去，将我放在平原中；这平原遍满骸骨。",
     Eng:"The hand of the LORD was upon me, and he brought me out by the Spirit of the LORD and set me in the middle of a valley; it was full of bones.",
     Ind:"Lalu kekuasaan TUHAN meliputi aku dan Ia membawa aku ke luar dengan perantaraan Roh-Nya dan menempatkan aku di tengah-tengah lembah, dan lembah ini penuh dengan tulang-tulang."
@@ -15,25 +15,25 @@ BibleDB.add([
     Ind:"Ia membawa aku melihat tulang-tulang itu berkeliling-keliling dan sungguh, amat banyak bertaburan di lembah itu; lihat, tulang-tulang itu amat kering."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:3, Page:1,
-    Kor:"그가 내게 물으셨다. \"사람아, 이 뼈들이 살아날 수 있겠느냐?\" 내가 대답하였다. \"주 하나님, 주님께서는 아십니다.\"",
+    Kor:"그가 내게 물으셨다. \"사람아, 이 뼈들이 살아날 수 있겠느냐?\" 내가 대답하였다. \"주 하나님, 주께서는 아십니다.\"",
     Chn:"他对我说：「人子啊，这些骸骨能复活吗？」我说：「主耶和华啊，你是知道的。」",
     Eng:"He asked me, \"Son of man, can these bones live?\" I said, \"O Sovereign LORD, you alone know.\"",
     Ind:"Lalu Ia berfirman kepadaku: \"Hai anak manusia, dapatkah tulang-tulang ini dihidupkan kembali?\" Aku menjawab: \"Ya Tuhan ALLAH, Engkaulah yang mengetahui!\""
   },
   {Bible:"Ezekiel", Chapter:37, Verse:4, Page:1,
-    Kor:"○그가 내게 말씀하셨다. ○\"너는 이 뼈들에게 대언하여라. 너는 그것들에게 전하여라. '너희 마른 뼈들아, 너희는 나 주의 말을 들어라.",
+    Kor:"○그가 내게 말씀하셨다. \"너는 이 뼈들에게 대언하여라. 너는 그것들에게 전하여라. '너희 마른 뼈들아, 너희는 나 주의 말을 들어라.",
     Chn:"他又对我说：「你向这些骸骨发预言说：枯干的骸骨啊，要听耶和华的话。",
     Eng:"Then he said to me, \"Prophesy to these bones and say to them, 'Dry bones, hear the word of the LORD!",
     Ind:"Lalu firman-Nya kepadaku: \"Bernubuatlah mengenai tulang-tulang ini dan katakanlah kepadanya: Hai tulang-tulang yang kering, dengarlah firman TUHAN!"
   },
   {Bible:"Ezekiel", Chapter:37, Verse:5, Page:1,
-    Kor:"나 주 하나님이 이 뼈들에게 말한다. 내가 너희 속에 a생기를 불어넣어, 너희가 다시 살아나게 하겠다.(a 또는 '바람' 또는 '영')",
+    Kor:"나 주 하나님이 이 뼈들에게 말한다. 내가 너희 속에 생기를 불어넣어, 너희가 다시 살아나게 하겠다.",
     Chn:"主耶和华对这些骸骨如此说：『我必使气息进入你们里面，你们就要活了。",
     Eng:"This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life.",
     Ind:"Beginilah firman Tuhan ALLAH kepada tulang-tulang ini: Aku memberi nafas hidup di dalammu, supaya kamu hidup kembali."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:6, Page:1,
-    Kor:"내가 너희에게 힘줄이 뻗치게 하고, 또 너희에게 살을 입히고, 또 너희를 살갗으로 덮고, 너희 속에 a생기를 불어넣어, 너희가 다시 살아나게 하겠다. 그 때에야 비로소 너희는, 내가 주인 줄 알게 될 것이다.'\"(a 또는 '바람' 또는 '영')",
+    Kor:"내가 너희에게 힘줄이 뻗치게 하고, 또 너희에게 살을 입히고, 또 너희를 살갗으로 덮고, 너희 속에 생기를 불어넣어, 너희가 다시 살아나게 하겠다. 그 때에야 비로소 너희는, 내가 주인 줄 알게 될 것이다.'\"",
     Chn:"我必给你们加上筋，使你们长肉，又将皮遮蔽你们，使气息进入你们里面，你们就要活了；你们便知道我是耶和华。』」",
     Eng:"I will attach tendons to you and make flesh come upon you and cover you with skin; I will put breath in you, and you will come to life. Then you will know that I am the LORD.'\"",
     Ind:"Aku akan memberi urat-urat padamu dan menumbuhkan daging padamu, Aku akan menutupi kamu dengan kulit dan memberikan kamu nafas hidup, supaya kamu hidup kembali. Dan kamu akan mengetahui bahwa Akulah TUHAN.\""
@@ -45,25 +45,25 @@ BibleDB.add([
     Ind:"Lalu aku bernubuat seperti diperintahkan kepadaku; dan segera sesudah aku bernubuat, kedengaranlah suara, sungguh, suatu suara berderak-derak, dan tulang-tulang itu bertemu satu sama lain."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:8, Page:1,
-    Kor:"내가 바라보고 있으니, 그 뼈들 위에 힘줄이 뻗치고, 살이 오르고, 살 위로 살갗이 덮였다. 그러나 그들 속에 a생기가 없었다.(a 또는 '바람' 또는 '영')",
+    Kor:"내가 바라보고 있으니, 그 뼈들 위에 힘줄이 뻗치고, 살이 오르고, 살 위로 살갗이 덮였다. 그러나 그들 속에 생기가 없었다.",
     Chn:"我观看，见骸骨上有筋，也长了肉，又有皮遮蔽其上，只是还没有气息。",
     Eng:"I looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them.",
     Ind:"Sedang aku mengamat-amatinya, lihat, urat-urat ada dan daging tumbuh padanya, kemudian kulit menutupinya, tetapi mereka belum bernafas."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:9, Page:1,
-    Kor:"○그 때에 그가 내게 말씀하셨다. ○\"사람아, 너는 a생기에게 대언하여라. a생기에게 대언하여 이렇게 일러라. '나 주 하나님이 너에게 말한다. 너 a생기야, 사방에서부터 불어와서 이 살해당한 사람들에게 불어서 그들이 살아나게 하여라.'\"(a 또는 '바람' 또는 '영')",
+    Kor:"○그 때에 그가 내게 말씀하셨다. \"사람아, 너는 생기에게 대언하여라. 생기에게 대언하여 이렇게 일러라. '나 주 하나님이 너에게 말한다. 너 생기야, 사방에서부터 불어와서 이 살해당한 사람들에게 불어서 그들이 살아나게 하여라.'\"",
     Chn:"主对我说：「人子啊，你要发预言，向风发预言，说主耶和华如此说：气息啊，要从四方而来，吹在这些被杀的人身上，使他们活了。」",
     Eng:"Then he said to me, \"Prophesy to the breath; prophesy, son of man, and say to it, 'This is what the Sovereign LORD says: Come from the four winds, O breath, and breathe into these slain, that they may live.'\"",
     Ind:"Maka firman-Nya kepadaku: \"Bernubuatlah kepada nafas hidup itu, bernubuatlah, hai anak manusia, dan katakanlah kepada nafas hidup itu: Beginilah firman Tuhan ALLAH: Hai nafas hidup, datanglah dari keempat penjuru angin, dan berembuslah ke dalam orang-orang yang terbunuh ini, supaya mereka hidup kembali.\""
   },
   {Bible:"Ezekiel", Chapter:37, Verse:10, Page:1,
-    Kor:"○그래서 내가 명을 받은 대로 대언하였더니, a생기가 그들 속으로 들어갔고, 그래서 그들이 곧 살아나 제 발로 일어나서 서는데, 엄청나게 큰 군대였다.(a 또는 '바람' 또는 '영')",
+    Kor:"○그래서 내가 명을 받은 대로 대언하였더니, 생기가 그들 속으로 들어갔고, 그래서 그들이 곧 살아나 제 발로 일어나서 서는데, 엄청나게 큰 군대였다.",
     Chn:"于是我遵命说预言，气息就进入骸骨，骸骨便活了，并且站起来，成为极大的军队。",
     Eng:"So I prophesied as he commanded me, and breath entered them; they came to life and stood up on their feet--a vast army.",
     Ind:"Lalu aku bernubuat seperti diperintahkan-Nya kepadaku. Dan nafas hidup itu masuk di dalam mereka, sehingga mereka hidup kembali. Mereka menjejakkan kakinya, suatu tentara yang sangat besar."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:11, Page:1,
-    Kor:"○그 때에 그가 내게 말씀하셨다. ○\"사람아, 이 뼈들이 바로 이스라엘 온 족속이다. 그들이 말하기를 '우리의 뼈가 말랐고, 우리의 희망도 사라졌으니, 우리는 망했다' 한다.",
+    Kor:"○그 때에 그가 내게 말씀하셨다. \"사람아, 이 뼈들이 바로 이스라엘 온 족속이다. 그들이 말하기를 '우리의 뼈가 말랐고, 우리의 희망도 사라졌으니, 우리는 망했다' 한다.",
     Chn:"主对我说：「人子啊，这些骸骨就是以色列全家。他们说：『我们的骨头枯干了，我们的指望失去了，我们灭绝净尽了。』",
     Eng:"Then he said to me: \"Son of man, these bones are the whole house of Israel. They say, 'Our bones are dried up and our hope is gone; we are cut off.'",
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, tulang-tulang ini adalah seluruh kaum Israel. Sungguh, mereka sendiri mengatakan: Tulang-tulang kami sudah menjadi kering, dan pengharapan kami sudah lenyap, kami sudah hilang."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku akan memberikan Roh-Ku ke dalammu, sehingga kamu hidup kembali dan Aku akan membiarkan kamu tinggal di tanahmu. Dan kamu akan mengetahui bahwa Aku, TUHAN, yang mengatakannya dan membuatnya, demikianlah firman TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:37, Verse:15, Page:1,
-    Kor:"<남북 왕국의 통일> ○주님께서 내게 말씀하셨다.",
+    Kor:"○주께서 내게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Kemudian datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:37, Verse:16, Page:1,
-    Kor:"○\"너 사람아, 너는 막대기 하나를 가져다가, 그 위에 '유다 및 그와 연합한 이스라엘 자손'이라고 써라. 막대기를 또 하나 가져다가 그 위에 '에브라임의 막대기 곧 요셉 및 그와 연합한 이스라엘 온 족속'이라고 써라.",
+    Kor:"\"너 사람아, 너는 막대기 하나를 가져다가, 그 위에 '유다 및, 그와 연합한 이스라엘 자손'이라고 써라. 막대기를 또 하나 가져다가 그 위에 '에브라임의 막대기, 곧 요셉 및 그와 연합한 이스라엘 온 족속'이라고 써라.",
     Chn:"「人子啊，你要取一根木杖，在其上写『为犹大和他的同伴以色列人』；又取一根木杖，在其上写『为约瑟，就是为以法莲，又为他的同伴以色列全家』。",
     Eng:"\"Son of man, take a stick of wood and write on it, 'Belonging to Judah and the Israelites associated with him.' Then take another stick of wood, and write on it, 'Ephraim's stick, belonging to Joseph and all the house of Israel associated with him.'",
     Ind:"\"Hai engkau anak manusia, ambillah sepotong papan dan tulis di atasnya: Untuk Yehuda dan orang-orang Israel yang bersekutu dengan dia. Kemudian ambillah papan yang lain dan tulis di atasnya: Untuk Yusuf--papan Efraim--dan seluruh kaum Israel yang bersekutu dengan dia."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Aku akan menjadikan mereka satu bangsa di tanah mereka, di atas gunung-gunung Israel, dan satu raja memerintah mereka seluruhnya; mereka tidak lagi menjadi dua bangsa dan tidak lagi terbagi menjadi dua kerajaan."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:23, Page:1,
-    Kor:"그들이 다시는 우상과 역겨운 것과 온갖 범죄로 자기들을 더럽히지 않을 것이다. b그들이 범죄한 그 모든 곳에서, 내가 그들을 구해 내어 깨끗이 씻어 주면, 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.(b 몇몇 히브리어 사본과 칠십인역에는 '그들이 범한 온갖 범죄에서')",
+    Kor:"그들이 다시는 우상과 역겨운 것과 온갖 범죄로 자기들을 더럽히지 않을 것이다. 그들이 범죄한 그 모든 곳에서, 내가 그들을 구해 내어 깨끗이 씻어 주면, 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.",
     Chn:"也不再因偶像和可憎的物，并一切的罪过玷污自己。我却要救他们出离一切的住处，就是他们犯罪的地方；我要洁净他们，如此，他们要作我的子民，我要作他们的　神。",
     Eng:"They will no longer defile themselves with their idols and vile images or with any of their offenses, for I will save them from all their sinful backsliding, and I will cleanse them. They will be my people, and I will be their God.",
     Ind:"Mereka tidak lagi menajiskan dirinya dengan berhala-berhalanya atau dewa-dewa mereka yang menjijikkan atau dengan semua pelanggaran mereka. Tetapi Aku akan melepaskan mereka dari segala penyelewengan mereka, dengan mana mereka berbuat dosa, dan mentahirkan mereka, sehingga mereka akan menjadi umat-Ku dan Aku akan menjadi Allahnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Maka hamba-Ku Daud akan menjadi rajanya, dan mereka semuanya akan mempunyai satu gembala. Mereka akan hidup menurut peraturan-peraturan-Ku dan melakukan ketetapan-ketetapan-Ku dengan setia."
   },
   {Bible:"Ezekiel", Chapter:37, Verse:25, Page:1,
-    Kor:"그 때에는 내가 내 종 야곱에게 준 땅 곧 그들의 조상이 살던 땅에서 그들이 살게 될 것이다. 그 땅에서 그들과, 그 자자손손이 영원히 거기에서 살 것이며, 내 종 다윗이 그들의 영원한 왕이 될 것이다.",
+    Kor:"그 때에는 내가 내 종 야곱에게 준 땅, 곧 그들의 조상이 살던 땅에서 그들이 살게 될 것이다. 그 땅에서 그들과, 그 자자손손이 영원히 거기에서 살 것이며, 내 종 다윗이 그들의 영원한 왕이 될 것이다.",
     Chn:"他们必住在我赐给我仆人雅各的地上，就是你们列祖所住之地。他们和他们的子孙，并子孙的子孙，都永远住在那里。我的仆人大卫必作他们的王，直到永远。",
     Eng:"They will live in the land I gave to my servant Jacob, the land where your fathers lived. They and their children and their children's children will live there forever, and David my servant will be their prince forever.",
     Ind:"Mereka akan tinggal di tanah yang Kuberikan kepada hamba-Ku Yakub, di mana nenek moyang mereka tinggal, ya, mereka, anak-anak mereka maupun cucu cicit mereka akan tinggal di sana untuk selama-lamanya dan hamba-Ku Daud menjadi raja mereka untuk selama-lamanya."

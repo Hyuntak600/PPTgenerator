@@ -3,13 +3,13 @@
 BibleDB.ref("Revelation",8,13);
 BibleDB.add([
   {Bible:"Revelation", Chapter:8, Verse:1, Page:1,
-    Kor:"<일곱째 봉인과 금향로> 그 어린 양이 일곱째 봉인을 뗄 때에, 하늘은 약 반 시간 동안 고요하였습니다.",
+    Kor:"그 어린 양이 일곱째 봉인을 뗄 때에, 하늘은 약 반 시간 동안 고요하였습니다.",
     Chn:"羔羊揭开第七印的时候，天上寂静约有二刻。",
     Eng:"When he opened the seventh seal, there was silence in heaven for about half an hour.",
     Ind:"Dan ketika Anak Domba itu membuka meterai yang ketujuh, maka sunyi senyaplah di sorga, kira-kira setengah jam lamanya."
   },
   {Bible:"Revelation", Chapter:8, Verse:2, Page:1,
-    Kor:"그리고 나는 하나님 앞에 서 있는 일곱 천사를 보았습니다. 그들은 나팔을 하나씩 받아 가지고 있었습니다.",
+    Kor:"그리고 나는 하나님 앞에 서 있는 일곱 천사를 보았습니다. 그들은 나팔을 하나씩 가지고 있었습니다.",
     Chn:"我看见那站在　神面前的七位天使，有七枝号赐给他们。",
     Eng:"And I saw the seven angels who stand before God, and to them were given seven trumpets.",
     Ind:"Lalu aku melihat ketujuh malaikat, yang berdiri di hadapan Allah, dan kepada mereka diberikan tujuh sangkakala."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu malaikat itu mengambil pedupaan itu, mengisinya dengan api dari mezbah, dan melemparkannya ke bumi. Maka meledaklah bunyi guruh, disertai halilintar dan gempa bumi."
   },
   {Bible:"Revelation", Chapter:8, Verse:6, Page:1,
-    Kor:"<나팔 소리> ○그 때에 나팔을 하나씩 가진 일곱 천사가 나팔을 불 준비를 하였습니다.",
+    Kor:"○그 때에 나팔을 하나씩 가진 일곱 천사가 나팔을 불 준비를 하였습니다.",
     Chn:"拿着七枝号的七位天使就预备要吹。",
     Eng:"Then the seven angels who had the seven trumpets prepared to sound them.",
     Ind:"Dan ketujuh malaikat yang memegang ketujuh sangkakala itu bersiap-siap untuk meniup sangkakala."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"dan matilah sepertiga dari segala makhluk yang bernyawa di dalam laut dan binasalah sepertiga dari semua kapal."
   },
   {Bible:"Revelation", Chapter:8, Verse:10, Page:1,
-    Kor:"○셋째 천사가 나팔을 부니, 큰 별 하나가 횃불처럼 타면서 하늘에서 떨어져서, 강들의 삼분의 일과 샘물들 위에 덮쳤습니다.",
+    Kor:"○셋째 천사가 나팔을 부니, 큰 별 하나가 횃불처럼 타면서 하늘에서 떨어져서, 강들의 삼분의 일과 샘물들 위를 덮치면서 내렸습니다.",
     Chn:"第三位天使吹号，就有烧着的大星，好像火把从天上落下来，落在江河的三分之一和众水的泉源上。",
     Eng:"The third angel sounded his trumpet, and a great star, blazing like a torch, fell from the sky on a third of the rivers and on the springs of water--",
     Ind:"Lalu malaikat yang ketiga meniup sangkakalanya dan jatuhlah dari langit sebuah bintang besar, menyala-nyala seperti obor, dan ia menimpa sepertiga dari sungai-sungai dan mata-mata air."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Lalu malaikat yang keempat meniup sangkakalanya dan terpukullah sepertiga dari matahari dan sepertiga dari bulan dan sepertiga dari bintang-bintang, sehingga sepertiga dari padanya menjadi gelap dan sepertiga dari siang hari tidak terang dan demikian juga malam hari."
   },
   {Bible:"Revelation", Chapter:8, Verse:13, Page:1,
-    Kor:"○그리고 내가 보고 들으니, 날아가는 독수리 한 마리가 하늘 한가운데로 날면서, 큰 소리로 외쳤습니다. \"화가 있다. 화가 있다. 땅 위에 사는 사람들에게 화가 있다. 아직도 세 천사가 불어야 할 나팔 소리가 남아 있다.\"",
+    Kor:"○그리고 내가 보고 들으니, 날아가는 독수리 한 마리가 하늘 한가운데로 날면서, 큰소리로 \"화가 있다. 화가 있다. 땅 위에 사는 사람들에게 화가 있다. 아직도 세 천사가 불어야 할 나팔 소리가 남아 있다\" 하고 외쳤습니다.",
     Chn:"我又看见一个鹰飞在空中，并听见它大声说：「三位天使要吹那其余的号。你们住在地上的民，祸哉！祸哉！祸哉！」",
     Eng:"As I watched, I heard an eagle that was flying in midair call out in a loud voice: \"Woe! Woe! Woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the other three angels!\"",
     Ind:"Lalu aku melihat: aku mendengar seekor burung nasar terbang di tengah langit dan berkata dengan suara nyaring: \"Celaka, celaka, celakalah mereka yang diam di atas bumi oleh karena bunyi sangkakala ketiga malaikat lain, yang masih akan meniup sangkakalanya.\""

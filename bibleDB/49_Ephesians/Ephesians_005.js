@@ -9,31 +9,31 @@ BibleDB.add([
     Ind:"Sebab itu jadilah penurut-penurut Allah, seperti anak-anak yang kekasih"
   },
   {Bible:"Ephesians", Chapter:5, Verse:2, Page:1,
-    Kor:"그리스도께서 a여러분을 사랑하셔서, 우리를 위하여 하나님 앞에 향기로운 예물과 제물로 자기 몸을 내어주신 것과 같이, 여러분도 사랑으로 살아가십시오.(a 다른 고대 사본들에는 '우리를')",
+    Kor:"그리스도께서 우리를 사랑하셔서, 우리를 위하여 하나님 앞에 향기로운 예물과 제물로 자기 몸을 내주신 것같이, 여러분도 사랑 안에서 살아가십시오.",
     Chn:"也要凭爱心行事，正如基督爱我们，为我们舍了自己，当作馨香的供物和祭物，献与　神。",
     Eng:"and live a life of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God.",
     Ind:"dan hiduplah di dalam kasih, sebagaimana Kristus Yesus juga telah mengasihi kamu dan telah menyerahkan diri-Nya untuk kita sebagai persembahan dan korban yang harum bagi Allah."
   },
   {Bible:"Ephesians", Chapter:5, Verse:3, Page:1,
-    Kor:"음행이나 온갖 더러운 행위나 탐욕은 그 이름조차도 여러분의 입에 담지 마십시오. 그렇게 하는 것이 성도에게 합당합니다.",
+    Kor:"○음행이나 모든 더러운 행위나 탐욕은 그 이름조차도 여러분의 입에 담지 마십시오. 그렇게 하는 것이 성도에게 합당한 것입니다.",
     Chn:"至于淫乱并一切污秽，或是贪婪，在你们中间连提都不可，方合圣徒的体统。",
     Eng:"But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people.",
     Ind:"Tetapi percabulan dan rupa-rupa kecemaran atau keserakahan disebut sajapun jangan di antara kamu, sebagaimana sepatutnya bagi orang-orang kudus."
   },
   {Bible:"Ephesians", Chapter:5, Verse:4, Page:1,
-    Kor:"더러운 말과 어리석은 말과 상스러운 농담은 여러분에게 어울리지 않습니다. 오히려 여러분은 감사에 찬 말을 하십시오.",
+    Kor:"더러운 말이나 어리석은 말, 또는 상스러운 농담은 여러분에게 어울리지 않습니다. 오히려 여러분은 감사에 찬 말을 하십시오.",
     Chn:"淫词、妄语，和戏笑的话都不相宜；总要说感谢的话。",
     Eng:"Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.",
     Ind:"Demikian juga perkataan yang kotor, yang kosong atau yang sembrono--karena hal-hal ini tidak pantas--tetapi sebaliknya ucapkanlah syukur."
   },
   {Bible:"Ephesians", Chapter:5, Verse:5, Page:1,
-    Kor:"여러분은 이것을 확실히 알아두십시오. 음행하는 자나 행실이 더러운 자나 탐욕을 부리는 자는 우상 숭배자여서, 그리스도와 하나님의 나라를 상속받을 몫이 없습니다.",
+    Kor:"여러분은 이것을 확실히 알아 두십시오. 음행하는 자나 행실이 더러운 자나 탐욕을 부리는 자는 우상숭배자여서, 그리스도의 나라 곧 하나님의 나라에서 상속받을 몫이 없습니다.",
     Chn:"因为你们确实地知道，无论是淫乱的，是污秽的，是有贪心的，在基督和　神的国里都是无分的。有贪心的，就与拜偶像的一样。",
     Eng:"For of this you can be sure: No immoral, impure or greedy person--such a man is an idolater--has any inheritance in the kingdom of Christ and of God.",
     Ind:"Karena ingatlah ini baik-baik: tidak ada orang sundal, orang cemar atau orang serakah, artinya penyembah berhala, yang mendapat bagian di dalam Kerajaan Kristus dan Allah."
   },
   {Bible:"Ephesians", Chapter:5, Verse:6, Page:1,
-    Kor:"<빛의 자녀의 생활> ○여러분은 아무에게도 헛된 말로 속아넘어가지 마십시오. 이런 일 때문에, 하나님의 진노가 순종하지 않는 사람들에게 내리는 것입니다.",
+    Kor:"○여러분은 헛된 말에 속아 넘어가지 마십시오. 이런 일 때문에 하나님의 진노가 순종하지 않는 자식들에게 내리는 것입니다.",
     Chn:"不要被人虚浮的话欺哄；因这些事，　神的忿怒必临到那悖逆之子。",
     Eng:"Let no one deceive you with empty words, for because of such things God's wrath comes on those who are disobedient.",
     Ind:"Janganlah kamu disesatkan orang dengan kata-kata yang hampa, karena hal-hal yang demikian mendatangkan murka Allah atas orang-orang durhaka."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sebab itu janganlah kamu berkawan dengan mereka."
   },
   {Bible:"Ephesians", Chapter:5, Verse:8, Page:1,
-    Kor:"여러분이 전에는 어둠이었으나, 지금은 주님 안에서 빛입니다. 빛의 자녀답게 사십시오.",
+    Kor:"여러분이 전에는 어둠이었으나, 지금은 주 안에서 빛입니다. 빛의 자녀답게 사십시오.",
     Chn:"从前你们是暗昧的，但如今在主里面是光明的，行事为人就当像光明的子女。",
     Eng:"For you were once darkness, but now you are light in the Lord. Live as children of light",
     Ind:"Memang dahulu kamu adalah kegelapan, tetapi sekarang kamu adalah terang di dalam Tuhan. Sebab itu hiduplah sebagai anak-anak terang,"
   },
   {Bible:"Ephesians", Chapter:5, Verse:9, Page:1,
-    Kor:"-빛의 열매는 모든 선과 의와 진실에 있습니다.-",
+    Kor:"빛의 열매는 모든 선과 의와 진실입니다.",
     Chn:"光明所结的果子就是一切良善、公义、诚实。",
     Eng:"(for the fruit of the light consists in all goodness, righteousness and truth)",
     Ind:"karena terang hanya berbuahkan kebaikan dan keadilan dan kebenaran,"
@@ -63,31 +63,31 @@ BibleDB.add([
     Ind:"dan ujilah apa yang berkenan kepada Tuhan."
   },
   {Bible:"Ephesians", Chapter:5, Verse:11, Page:1,
-    Kor:"여러분은 열매 없는 어둠의 일에 끼여들지 말고, 오히려 그것을 폭로하십시오.",
+    Kor:"여러분은 열매 없는 어둠의 일에 끼어 들지 말고, 오히려 그것을 폭로하십시오.",
     Chn:"那暗昧无益的事，不要与人同行，倒要责备行这事的人；",
     Eng:"Have nothing to do with the fruitless deeds of darkness, but rather expose them.",
     Ind:"Janganlah turut mengambil bagian dalam perbuatan-perbuatan kegelapan yang tidak berbuahkan apa-apa, tetapi sebaliknya telanjangilah perbuatan-perbuatan itu."
   },
   {Bible:"Ephesians", Chapter:5, Verse:12, Page:1,
-    Kor:"그들이 몰래 하는 일들은 말하기조차 부끄러운 것들입니다.",
+    Kor:"그들이 은밀히 하는 일들은 말하기조차 부끄러운 것입니다.",
     Chn:"因为他们暗中所行的，就是提起来也是可耻的。",
     Eng:"For it is shameful even to mention what the disobedient do in secret.",
     Ind:"Sebab menyebutkan sajapun apa yang dibuat oleh mereka di tempat-tempat yang tersembunyi telah memalukan."
   },
   {Bible:"Ephesians", Chapter:5, Verse:13, Page:1,
-    Kor:"빛이 폭로하면 모든 것이 드러나게 됩니다.",
+    Kor:"빛으로 말미암아 폭로되는 모든 것은, 드러나게 됩니다.",
     Chn:"凡事受了责备，就被光显明出来，因为一切能显明的就是光。",
     Eng:"But everything exposed by the light becomes visible,",
     Ind:"Tetapi segala sesuatu yang sudah ditelanjangi oleh terang itu menjadi nampak, sebab semua yang nampak adalah terang."
   },
   {Bible:"Ephesians", Chapter:5, Verse:14, Page:1,
-    Kor:"드러나는 것은 다 빛입니다. 그러므로,  \"잠자는 사람아, 일어나라. 죽은 사람 가운데서 일어서라. 그리스도께서 너를 환히 비추어 주실 것이다\" 하는 말씀이 있습니다.",
+    Kor:"드러나는 것은 다 빛입니다. 그러므로 \"잠자는 사람아, 일어나라. 죽은 사람 가운데서 일어나라. 그리스도께서 너를 환히 비추실 것이다\" 하는 말씀이 있습니다.",
     Chn:"所以主说： 你这睡着的人当醒过来， 从死里复活！ 基督就要光照你了。",
     Eng:"for it is light that makes everything visible. This is why it is said: \"Wake up, O sleeper, rise from the dead, and Christ will shine on you.\"",
     Ind:"Itulah sebabnya dikatakan: \"Bangunlah, hai kamu yang tidur dan bangkitlah dari antara orang mati dan Kristus akan bercahaya atas kamu.\""
   },
   {Bible:"Ephesians", Chapter:5, Verse:15, Page:1,
-    Kor:"○그러므로 여러분은 어떻게 살아가야 할지를 살피십시오. 지혜롭지 못한 사람처럼 살지 말고, 지혜로운 사람답게 살아야 합니다.",
+    Kor:"○그러므로 여러분은 어떻게 살아가야 할지를 조심하여, 지혜롭지 못한 사람처럼 하지 말고, 지혜로운 사람처럼 하십시오.",
     Chn:"你们要谨慎行事，不要像愚昧人，当像智慧人。",
     Eng:"Be very careful, then, how you live--not as unwise but as wise,",
     Ind:"Karena itu, perhatikanlah dengan saksama, bagaimana kamu hidup, janganlah seperti orang bebal, tetapi seperti orang arif,"
@@ -105,49 +105,49 @@ BibleDB.add([
     Ind:"Sebab itu janganlah kamu bodoh, tetapi usahakanlah supaya kamu mengerti kehendak Tuhan."
   },
   {Bible:"Ephesians", Chapter:5, Verse:18, Page:1,
-    Kor:"술에 취하지 마십시오. 거기에는 방탕이 따릅니다. 성령의 충만함을 받으십시오.",
+    Kor:"술에 취하지 마십시오. 거기에는 방탕이 있습니다. 성령의 충만함을 받으십시오.",
     Chn:"不要醉酒，酒能使人放荡；乃要被圣灵充满。",
     Eng:"Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit.",
     Ind:"Dan janganlah kamu mabuk oleh anggur, karena anggur menimbulkan hawa nafsu, tetapi hendaklah kamu penuh dengan Roh,"
   },
   {Bible:"Ephesians", Chapter:5, Verse:19, Page:1,
-    Kor:"시와 찬미와 신령한 노래로 서로 화답하며, 여러분의 가슴으로 주님께 노래하며, 찬송하십시오.",
+    Kor:"시와 찬미와 신령한 노래로 서로 화답하며, 여러분의 마음으로 주님께 노래하며 찬송하십시오.",
     Chn:"当用诗章、颂词、灵歌彼此对说，口唱心和地赞美主。",
     Eng:"Speak to one another with psalms, hymns and spiritual songs. Sing and make music in your heart to the Lord,",
     Ind:"dan berkata-katalah seorang kepada yang lain dalam mazmur, kidung puji-pujian dan nyanyian rohani. Bernyanyi dan bersoraklah bagi Tuhan dengan segenap hati."
   },
   {Bible:"Ephesians", Chapter:5, Verse:20, Page:1,
-    Kor:"모든 일에 언제나 우리 주 예수 그리스도의 이름으로 하나님 아버지께 감사를 드리십시오.",
+    Kor:"모든 일에, 늘 우리 주 예수 그리스도의 이름으로 하나님 아버지께 감사를 드리십시오.",
     Chn:"凡事要奉我们主耶稣基督的名常常感谢父　神。",
     Eng:"always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.",
     Ind:"Ucaplah syukur senantiasa atas segala sesuatu dalam nama Tuhan kita Yesus Kristus kepada Allah dan Bapa kita"
   },
   {Bible:"Ephesians", Chapter:5, Verse:21, Page:1,
-    Kor:"<남편과 아내> ○여러분은 그리스도를 두려워하는 마음으로 서로 순종하십시오.",
+    Kor:"○여러분은 그리스도를 두려워하는 마음으로 서로 순종하십시오.",
     Chn:"又当存敬畏基督的心，彼此顺服。",
     Eng:"Submit to one another out of reverence for Christ.",
     Ind:"dan rendahkanlah dirimu seorang kepada yang lain di dalam takut akan Kristus."
   },
   {Bible:"Ephesians", Chapter:5, Verse:22, Page:1,
-    Kor:"아내 된 이 여러분, 남편에게 하기를 주님께 순종하듯 하십시오.",
+    Kor:"○아내이신 여러분, 주님께 순종하는 것같이, 남편에게 순종하십시오.",
     Chn:"你们作妻子的，当顺服自己的丈夫，如同顺服主。",
     Eng:"Wives, submit to your husbands as to the Lord.",
     Ind:"Hai isteri, tunduklah kepada suamimu seperti kepada Tuhan,"
   },
   {Bible:"Ephesians", Chapter:5, Verse:23, Page:1,
-    Kor:"그리스도께서 교회의 머리가 되심과 같이, 남편은 아내의 머리가 됩니다. 바로 그리스도께서는 몸의 구주이십니다.",
+    Kor:"그리스도께서 교회의 머리이심과 같이, 남편은 아내의 머리이기 때문입니다. 그리스도께서는 그분의 몸인 교회의 구주이십니다.",
     Chn:"因为丈夫是妻子的头，如同基督是教会的头；他又是教会全体的救主。",
     Eng:"For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior.",
     Ind:"karena suami adalah kepala isteri sama seperti Kristus adalah kepala jemaat. Dialah yang menyelamatkan tubuh."
   },
   {Bible:"Ephesians", Chapter:5, Verse:24, Page:1,
-    Kor:"교회가 그리스도께 순종하듯이, 아내도 모든 일에 남편에게 순종해야 합니다.",
+    Kor:"교회가 그리스도께 순종하는 것같이, 아내들도 모든 일에서 남편에게 순종하십시오.",
     Chn:"教会怎样顺服基督，妻子也要怎样凡事顺服丈夫。",
     Eng:"Now as the church submits to Christ, so also wives should submit to their husbands in everything.",
     Ind:"Karena itu sebagaimana jemaat tunduk kepada Kristus, demikian jugalah isteri kepada suami dalam segala sesuatu."
   },
   {Bible:"Ephesians", Chapter:5, Verse:25, Page:1,
-    Kor:"남편 된 이 여러분, 아내를 사랑하기를 그리스도께서 교회를 사랑하셔서 교회를 위하여 자신을 내주심 같이 하십시오.",
+    Kor:"○남편이신 여러분, 그리스도께서 교회를 사랑하셔서 교회를 위하여 자기를 내주신 것같이, 아내를 사랑하십시오.",
     Chn:"你们作丈夫的，要爱你们的妻子，正如基督爱教会，为教会舍己。",
     Eng:"Husbands, love your wives, just as Christ loved the church and gave himself up for her",
     Ind:"Hai suami, kasihilah isterimu sebagaimana Kristus telah mengasihi jemaat dan telah menyerahkan diri-Nya baginya"
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"untuk menguduskannya, sesudah Ia menyucikannya dengan memandikannya dengan air dan firman,"
   },
   {Bible:"Ephesians", Chapter:5, Verse:27, Page:1,
-    Kor:"티나 주름이나 또 그와 같은 것들이 없이, 아름다운 모습으로 교회를 자기 앞에 내세우시려는 것이며, 교회를 거룩하고 흠이 없게 하시려는 것입니다.",
+    Kor:"티나, 주름이나, 또 그와 같은 것들이 없이, 아름다운 모습으로 교회를 자기 앞에 내세우시려는 것이며, 교회를 거룩하고 흠이 없게 하시려는 것입니다.",
     Chn:"可以献给自己，作个荣耀的教会，毫无玷污、皱纹等类的病，乃是圣洁没有瑕疵的。",
     Eng:"and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless.",
     Ind:"supaya dengan demikian Ia menempatkan jemaat di hadapan diri-Nya dengan cemerlang tanpa cacat atau kerut atau yang serupa itu, tetapi supaya jemaat kudus dan tidak bercela."
   },
   {Bible:"Ephesians", Chapter:5, Verse:28, Page:1,
-    Kor:"이와 같이, 남편도 아내를 자기 몸과 같이 사랑해야 합니다. 자기 아내를 사랑하는 것은 곧 자기를 사랑하는 것입니다.",
+    Kor:"이와 같이, 남편들도 자기 아내를 자기 몸과 같이 사랑하여야 합니다. 자기 아내를 사랑하는 사람은 자기를 사랑하는 것입니다.",
     Chn:"丈夫也当照样爱妻子，如同爱自己的身子；爱妻子便是爱自己了。",
     Eng:"In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.",
     Ind:"Demikian juga suami harus mengasihi isterinya sama seperti tubuhnya sendiri: Siapa yang mengasihi isterinya mengasihi dirinya sendiri."
   },
   {Bible:"Ephesians", Chapter:5, Verse:29, Page:1,
-    Kor:"자기 육신을 미워한 사람은 없습니다. 누구나 자기 육신을 먹여 살리고 돌보기를 그리스도께서 교회를 그렇게 하시듯이 합니다.",
+    Kor:"아무도 자기의 육신을 미워하지 않습니다. 그리스도께서 교회를 기르시고 돌보시는 것처럼, 사람은 자기의 육신을 가꾸고 보살핍니다.",
     Chn:"从来没有人恨恶自己的身子，总是保养顾惜，正像基督待教会一样，",
     Eng:"After all, no one ever hated his own body, but he feeds and cares for it, just as Christ does the church--",
     Ind:"Sebab tidak pernah orang membenci tubuhnya sendiri, tetapi mengasuhnya dan merawatinya, sama seperti Kristus terhadap jemaat,"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"karena kita adalah anggota tubuh-Nya."
   },
   {Bible:"Ephesians", Chapter:5, Verse:31, Page:1,
-    Kor:"b그러므로 사람이 부모를 떠나 자기 아내와 합하여 그 둘이 한 몸이 되는 것입니다.(b 창 2:24)",
+    Kor:"그러므로 사람이 부모를 떠나서, 자기 아내와 합하여 둘이 한 몸이 되는 것입니다.",
     Chn:"为这个缘故，人要离开父母，与妻子连合，二人成为一体。",
     Eng:"\"For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\"",
     Ind:"Sebab itu laki-laki akan meninggalkan ayahnya dan ibunya dan bersatu dengan isterinya, sehingga keduanya itu menjadi satu daging."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Rahasia ini besar, tetapi yang aku maksudkan ialah hubungan Kristus dan jemaat."
   },
   {Bible:"Ephesians", Chapter:5, Verse:33, Page:1,
-    Kor:"그러므로 여러분도 각각 자기 아내를 자기 몸 같이 사랑하고, 아내도 자기 남편을 존중하십시오.",
+    Kor:"그러므로 여러분도 각각 자기 아내를 자기 몸과 같이 사랑하고, 아내도 자기 남편을 존중하십시오.",
     Chn:"然而，你们各人都当爱妻子，如同爱自己一样。妻子也当敬重她的丈夫。",
     Eng:"However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.",
     Ind:"Bagaimanapun juga, bagi kamu masing-masing berlaku: kasihilah isterimu seperti dirimu sendiri dan isteri hendaklah menghormati suaminya."

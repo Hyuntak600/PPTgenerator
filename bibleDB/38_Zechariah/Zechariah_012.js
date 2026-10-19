@@ -3,7 +3,7 @@
 BibleDB.ref("Zechariah",12,14);
 BibleDB.add([
   {Bible:"Zechariah", Chapter:12, Verse:1, Page:1,
-    Kor:"<예루살렘의 구원> 주님의 말씀이다. 이것은 이스라엘을 두고 하신 주님의 경고의 말씀이다. 하늘을 펴신 분, 땅의 기초를 놓으신 분, 사람 안에 영을 만들어 주신 분께서 말씀하신다.",
+    Kor:"주의 말씀이다. 이것은 이스라엘을 두고 하신 주의 경고의 말씀이다. 하늘을 펴신 분, 땅의 기초를 놓으신 분, 사람 안에 영을 만들어 주신 분께서 말씀하신다.",
     Chn:"耶和华论以色列的默示。 铺张诸天、建立地基、造人里面之灵的耶和华说：",
     Eng:"This is the word of the LORD concerning Israel. The LORD, who stretches out the heavens, who lays the foundation of the earth, and who forms the spirit of man within him, declares:",
     Ind:"Ucapan ilahi. Firman TUHAN tentang Israel: Demikianlah firman TUHAN yang membentangkan langit dan yang meletakkan dasar bumi dan yang menciptakan roh dalam diri manusia:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Pada waktu itu, demikianlah firman TUHAN, Aku akan membuat segala kuda menjadi bingung, penunggangnya menjadi gila. Atas kaum Yehuda, Aku akan membuka mata-Ku, tetapi segala kuda bangsa akan Kubuat menjadi buta."
   },
   {Bible:"Zechariah", Chapter:12, Verse:5, Page:1,
-    Kor:"그러면 유다의 지도자들은 속으로 '예루살렘에 사는 사람들이, 그들의 하나님 만군의 주님을 힘입어서 강하게 되었다' 할 것이다.",
+    Kor:"그러면 유다의 지도자들은 속으로 '예루살렘에 사는 사람들이, 그들의 하나님 만군의 주를 힘입어서 강하게 되었다' 할 것이다.",
     Chn:"犹大的族长必心里说：『耶路撒冷的居民倚靠万军之耶和华—他们的　神，就作我们的能力。』",
     Eng:"Then the leaders of Judah will say in their hearts, 'The people of Jerusalem are strong, because the LORD Almighty is their God.'",
     Ind:"Sesudah itu kaum-kaum di Yehuda akan berkata dalam hatinya: Penduduk Yerusalem mempunyai kekuatan oleh karena TUHAN semesta alam, Allah mereka."

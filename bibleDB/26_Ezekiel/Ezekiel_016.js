@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",16,63);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:16, Verse:1, Page:1,
-    Kor:"<음녀와 같은 예루살렘> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:2, Page:1,
-    Kor:"○\"사람아, 너는 예루살렘 사람들에게, 그들이 얼마나 역겨운 일을 저질렀는지를 알려 주어라.",
+    Kor:"\"사람아, 너는, 예루살렘 사람들에게 그들이 얼마나 역겨운 일을 저질렀는지를 알려 주어라.",
     Chn:"「人子啊，你要使耶路撒冷知道她那些可憎的事，",
     Eng:"\"Son of man, confront Jerusalem with her detestable practices",
     Ind:"\"Hai anak manusia, beritahukanlah kepada Yerusalem perbuatan-perbuatannya yang keji"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:3, Page:1,
-    Kor:"이렇게 말하여 주어라. ○'나 주 하나님이 예루살렘을 두고 말한다. 너의 고향, 네가 태어난 땅은 가나안이고, 네 아버지는 아모리 사람이고, 네 어머니는 헷 사람이다.",
+    Kor:"이렇게 말하여 주어라. '나 주 하나님이 예루살렘을 두고 말한다. 너의 고향, 네가 태어난 땅은 가나안이고, 네 아버지는 아모리 사람이고, 네 어머니는 헷 사람이다.",
     Chn:"说主耶和华对耶路撒冷如此说：你根本，你出世，是在迦南地；你父亲是亚摩利人，你母亲是赫人。",
     Eng:"and say, 'This is what the Sovereign LORD says to Jerusalem: Your ancestry and birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite.",
     Ind:"dan katakanlah: Beginilah firman Tuhan ALLAH kepada Yerusalem: Asalmu dan kelahiranmu ialah dari tanah Kanaan; ayahmu ialah orang Amori dan ibumu orang Heti."
@@ -33,13 +33,13 @@ BibleDB.add([
     Ind:"Tidak seorangpun merasa sayang kepadamu sehingga diperbuatnya hal-hal itu kepadamu dari rasa belas kasihan; malahan engkau dibuang ke ladang, oleh karena orang pandang enteng kepadamu pada hari lahirmu."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:6, Page:1,
-    Kor:"○그 때에 내가 네 곁으로 지나가다가, 핏덩이로 버둥거리는 너를 보고, 핏덩이로 누워 있는 너에게, 제발 살아만 달라고 했다. a(핏덩이로 누워 있는 너에게, 제발 살아만 달라고 했다.)(a 일부 히브리어 사본과 칠십인역과 시리아어역에는 묶음표 안의 본문이 없다)",
+    Kor:"○그 때에 내가 네 곁으로 지나가다가, 피투성이로 버둥거리는 너를 보고, 피투성이로 누워 있는 너에게, 제발 살아만 달라고 했다. (피투성이로 누워 있는 너에게, 제발 살아만 달라고 했다.)",
     Chn:"「我从你旁边经过，见你滚在血中，就对你说：你虽在血中，仍可存活；你虽在血中，仍可存活。",
     Eng:"\"'Then I passed by and saw you kicking about in your blood, and as you lay there in your blood I said to you, \"Live!\"",
     Ind:"Maka Aku lalu dari situ dan Kulihat engkau menendang-nendang dengan kakimu sambil berlumuran darah dan Aku berkata kepadamu dalam keadaan berlumuran darah itu: Engkau harus hidup"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:7, Page:1,
-    Kor:"그리고서 내가 너를 키워 들의 풀처럼 무성하게 하였더니, 네가 크게 자라 b보석 가운데서도 가장 아름다운 보석처럼 되었고, 네 가슴이 뚜렷하고, 머리카락도 길게 자랐는데, 너는 아직 벌거벗고 있었다.(b 또는 '성숙하였고')",
+    Kor:"그리고서 내가 너를 키워 들의 풀처럼 무성하게 하였더니, 네가 크게 자라 보석 가운데서도 가장 아름다운 보석처럼 되었고 네 유방이 뚜렷하고, 머리카락도 길게 자랐는데, 너는 아직 벌거벗고 있었다.",
     Chn:"我使你生长好像田间所长的，你就渐渐长大，以致极其俊美，两乳成形，头发长成，你却仍然赤身露体。",
     Eng:"I made you grow like a plant of the field. You grew up and developed and became the most beautiful of jewels. Your breasts were formed and your hair grew, you who were naked and bare.",
     Ind:"dan jadilah besar seperti tumbuh-tumbuhan di ladang! Engkau menjadi besar dan sudah cukup umur, bahkan sudah sampai pada masa mudamu. Maka buah dadamu sudah montok, rambutmu sudah tumbuh, tetapi engkau dalam keadaan telanjang bugil."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Dan namamu termasyhur di antara bangsa-bangsa karena kecantikanmu, sebab sangat sempurna adanya, oleh karena semarak perhiasan-Ku yang Kuberikan kepadamu, demikianlah firman Tuhan ALLAH.\""
   },
   {Bible:"Ezekiel", Chapter:16, Verse:15, Page:1,
-    Kor:"○그런데 너는 네 아름다움을 믿고, 네 명성을 의지하여, 음행을 하였다. 지나가는 남자가 원하기만 하면, 누구하고나 음행을 하여, c네 이름을 그의 것이 되게 하였다.(c 한 히브리어 사본과 칠십인역에는 '그런 일은 있어서는 안 될 일이었다')",
+    Kor:"○그런데 너는 네 아름다움을 믿고, 네 명성을 의지하여, 음행을 하였다. 지나가는 남자가 원하기만 하면, 누구하고나 음행을 하여, 네 이름을 그의 것이 되게 하였다.",
     Chn:"「只是你仗着自己的美貌，又因你的名声就行邪淫。你纵情淫乱，使过路的任意而行。",
     Eng:"\"'But you trusted in your beauty and used your fame to become a prostitute. You lavished your favors on anyone who passed by and your beauty became his.",
     Ind:"\"Tetapi engkau mengandalkan kecantikanmu dan engkau seumpama bersundal dalam menganggarkan ketermasyhuranmu dan engkau menghamburkan persundalanmu kepada setiap orang yang lewat."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Engkau mengambil dari pakaianmu yang berwarna-warni untuk menutupi mereka dan engkau mempersembahkan kepada mereka minyak-Ku dan ukupan-Ku."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:19, Page:1,
-    Kor:"또 너는, 내가 너에게 준 음식 곧 내가 너를 먹여 살린 고운 밀가루와 기름과 꿀을 그것들 앞에 가져다 놓고, 향기 나는 제물로 삼았다. 네가 정말로 그렇게 하였다. 나 주 하나님의 말이다.",
+    Kor:"또 너는, 내가 너에게 준 음식, 곧 내가 너를 먹여 살린 고운 밀가루와 기름과 꿀을 그것들 앞에 가져다 놓고, 향기나는 제물로 삼았다. 네가 정말로 그렇게 하였다. 나 주 하나님의 말이다.",
     Chn:"又将我赐给你的食物，就是我赐给你吃的细面、油，和蜂蜜，都摆在他跟前为馨香的供物。这是主耶和华说的。",
     Eng:"Also the food I provided for you--the fine flour, olive oil and honey I gave you to eat--you offered as fragrant incense before them. That is what happened, declares the Sovereign LORD.",
     Ind:"Juga makanan-Ku yang Kuberikan kepadamu--tepung yang terbaik, minyak dan madu Kuberikan makananmu--engkau persembahkan kepada mereka menjadi persembahan yang harum, demikianlah firman Tuhan ALLAH."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"bahwa engkau menyembelih anak-anak-Ku dan menyerahkannya kepada mereka dengan mempersembahkannya sebagai korban dalam api?"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:22, Page:1,
-    Kor:"너는, 핏덩이로 버둥거리던 때와 벌거벗은 몸으로 지내던 네 어린 시절을 기억하지 않고, 온갖 역겨운 일과 음행을 저질렀다.'\"",
+    Kor:"너는, 피투성이로 버둥거리던 때와 벌거벗은 몸으로 지내던 네 어린 시절을 기억하지 않고, 온갖 역겨운 일과 음행을 저질렀다.'\"",
     Chn:"你行这一切可憎和淫乱的事，并未追念你幼年赤身露体滚在血中的日子。」",
     Eng:"In all your detestable practices and your prostitution you did not remember the days of your youth, when you were naked and bare, kicking about in your blood.",
     Ind:"Dalam segala perbuatan-perbuatanmu yang keji dan persundalanmu itu engkau tidak teringat lagi kepada masa mudamu, waktu engkau telanjang bugil sambil menendang-nendang dengan kakimu dalam lumuran darahmu."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:23, Page:1,
-    Kor:"<창녀 예루살렘> ○\"나 주 하나님의 말이다. 네게 재앙이 닥친다. 재앙이 닥친다. 네가 그 모든 악행을 저지른 다음에도",
+    Kor:"○\"나 주 하나님의 말이다. 네게 재앙이 닥친다. 재앙이 닥친다. 네가 그 모든 악행을 저지른 다음에도",
     Chn:"「你行这一切恶事之后（主耶和华说：你有祸了！有祸了！）",
     Eng:"\"'Woe! Woe to you, declares the Sovereign LORD. In addition to all your other wickedness,",
     Ind:"Dan sesudah segala kejahatanmu itu--celaka, celakalah engkau! Demikianlah firman Tuhan ALLAH--"
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Pada setiap persimpangan jalan engkau membangun bukit pengorbanan dan menjual kecantikanmu menjadi kekejian dengan merenggangkan kedua pahamu bagi setiap orang yang lewat, sehingga persundalanmu bertambah-tambah."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:26, Page:1,
-    Kor:"너는, 이집트 남자들 곧 하체가 큰 이웃 나라 남자들과 음행을 하였다. 너는, 수도 없이 아주 음란하게 음행을 하여, 내 분노를 터뜨렸다.",
+    Kor:"너는, 이집트 남자들, 곧 하체가 큰 이웃 나라 남자들과 음행을 하였다. 너는 수도 없이, 아주 음란하게 음행을 하여, 내 분노를 터뜨렸다.",
     Chn:"你也和你邻邦放纵情欲的埃及人行淫，加增你的淫乱，惹我发怒。",
     Eng:"You engaged in prostitution with the Egyptians, your lustful neighbors, and provoked me to anger with your increasing promiscuity.",
     Ind:"Engkau bersundal dengan orang Mesir, tetanggamu, si aurat besar itu, sehingga persundalanmu bertambah-tambah, yang menimbulkan sakit hati-Ku."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:27, Page:1,
-    Kor:"○그러므로 내가 내 손을 펴서 너를 치고, 네가 날마다 먹을 양식을 줄이고, 또 너를 미워하는 블레셋 여자들 곧 네 추잡한 행실을 보고 역겨워하는 여자들에게 너를 넘겨 주어서, 마음대로 하게 하였다.",
+    Kor:"○그러므로, 내가 내 손을 펴서 너를 치고, 네가 날마다 먹을 양식을 줄이고, 또 너를 미워하는 블레셋 여자들, 곧 네 추잡한 행실을 보고 역겨워하는 여자들에게 너를 넘겨 주어서, 마음대로 하게 하였다.",
     Chn:"因此我伸手攻击你，减少你应用的粮食，又将你交给恨你的非利士众女，使她们任意待你。她们见你的淫行，为你羞耻。",
     Eng:"So I stretched out my hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were shocked by your lewd conduct.",
     Ind:"Lihat, Aku telah melawan engkau dan telah mengurangi bagianmu dan menyerahkan engkau kepada kesewenang-wenangan orang-orang yang membenci engkau, yaitu perempuan-perempuan Filistin, yang merasa malu melihat tingkah lakumu yang mesum itu."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Engkau bersundal juga dengan orang Asyur, oleh karena engkau belum merasa puas; ya, engkau bersundal dengan mereka, tetapi masih belum merasa puas."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:29, Page:1,
-    Kor:"너는 저 장사하는 나라 d바빌로니아 남자들과 더 많이 음행을 하였다. 그래도 너의 음욕은 차지 않았다.(d 또는 '갈대아')",
+    Kor:"너는 저 장사하는 나라 바빌로니아 남자들과 더 많이 음행을 하였다. 그래도 너의 음욕은 차지 않았다.",
     Chn:"并且多行淫乱，直到那贸易之地，就是迦勒底，你仍不满意。",
     Eng:"Then you increased your promiscuity to include Babylonia, a land of merchants, but even with this you were not satisfied.",
     Ind:"Engkau memperbanyak lagi persundalanmu dengan negeri perdagangan Kasdim, tetapi dengan itu juga engkau belum merasa puas."
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Maka dalam persundalanmu engkau adalah kebalikan dari perempuan-perempuan yang lain; bukan orang yang mengejar engkau hendak bersundal; tetapi engkau yang memberi upah persundalan, sedang engkau tidak diberi apa-apa; itulah kebalikannya padamu."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:35, Page:1,
-    Kor:"<주님께서 예루살렘을 심판하시다> ○\"그러므로 창녀야, 너는 나 주의 말을 들어라.",
+    Kor:"○\"그러므로 창녀야, 너는 나 주의 말을 들어라.",
     Chn:"「你这妓女啊，要听耶和华的话。",
     Eng:"\"'Therefore, you prostitute, hear the word of the LORD!",
     Ind:"Oleh karena itu, hai perempuan sundal, dengarkanlah firman TUHAN!"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:36, Page:1,
-    Kor:"○나 주 하나님이 말한다. 네가 정부들과 음행을 하고, 네 모든 역겨운 우상과 음행을 할 때에, 너는 e재산을 쏟아 붓고, 네 벗은 몸을 드러내었다. 너는 온갖 가증한 우상들에게 네 자식들의 피를 바쳤다.(e 또는 '음욕을')",
+    Kor:"○나 주 하나님이 말한다. 네가 정부들과 음행을 하고, 네 모든 역겨운 우상과 음행을 할 때에, 너는 재산을 쏟아 붓고, 네 벗은 몸을 드러내었다. 너는 온갖 가증한 우상들에게 네 자식들의 피를 바쳤다.",
     Chn:"主耶和华如此说：因你的污秽倾泄了，你与你所爱的行淫露出下体，又因你拜一切可憎的偶像，流儿女的血献给他，",
     Eng:"This is what the Sovereign LORD says: Because you poured out your wealth and exposed your nakedness in your promiscuity with your lovers, and because of all your detestable idols, and because you gave them your children's blood,",
     Ind:"Beginilah firman Tuhan ALLAH: Oleh karena engkau menghamburkan kemesumanmu dan auratmu disingkapkan dalam persundalanmu dengan orang yang mencintaimu dan dengan berhala-berhalamu yang keji dan oleh karena darah anak-anakmu yang engkau persembahkan kepada mereka,"
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Oleh karena engkau tidak teringat lagi kepada masa mudamu, tetapi dengan semuanya ini membuat Aku gemetar kemarahan, sungguh, Aku juga akan menimpakan kelakuanmu atas kepalamu, demikianlah firman Tuhan ALLAH. Bukankah engkau melakukan kemesuman ini lagi di samping segala perbuatan-perbuatanmu yang keji?"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:44, Page:1,
-    Kor:"<그 어머니에 그 딸> ○\"사람들마다 너를 비꼬아서 '그 어머니에 그 딸'이라는 속담을 말할 것이다.",
+    Kor:"○\"사람들이 너를 비꼬아서 '그 어머니에 그 딸'이라는 속담을 말할 것이다.",
     Chn:"「凡说俗语的必用俗语攻击你，说：『母亲怎样，女儿也怎样。』",
     Eng:"\"'Everyone who quotes proverbs will quote this proverb about you: \"Like mother, like daughter.\"",
     Ind:"Lihat, setiap penyair akan mengatakan sindiran ini mengenai engkau: Begitu ibu, begitu anak!"
@@ -285,7 +285,7 @@ BibleDB.add([
     Ind:"Bukankah engkau hidup menurut perbuatan mereka dan engkau lakukan seperti perbuatan-perbuatan mereka yang keji; sebentar lagi saja engkau berbuat lebih jahat dari mereka dalam seluruh hidupmu."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:48, Page:1,
-    Kor:"○나 주 하나님의 말이다. 내가 나의 삶을 두고 맹세한다. 네 동생 소돔 곧 그와 그 딸들은 너와 네 딸들처럼 행동하지는 않았다.",
+    Kor:"○나 주 하나님의 말이다. 내가 나의 삶을 두고 맹세한다. 네 동생 소돔, 곧 그와 그 딸들은 너와 네 딸들처럼 행동하지는 않았다.",
     Chn:"主耶和华说：我指着我的永生起誓，你妹妹所多玛与她的众女尚未行你和你众女所行的事。",
     Eng:"As surely as I live, declares the Sovereign LORD, your sister Sodom and her daughters never did what you and your daughters have done.",
     Ind:"Demi Aku yang hidup, demikianlah firman Tuhan ALLAH, sesungguh-sungguhnya Sodom, kakakmu yang termuda beserta anak-anaknya perempuan tidak berbuat seperti engkau lakukan beserta anak-anakmu perempuan."
@@ -315,7 +315,7 @@ BibleDB.add([
     Ind:"Tanggunglah nodamu, hai engkau, yang mengakibatkan hukuman lebih ringan kepada kakak-kakakmu perempuan; dengan dosa-dosamu yang lebih keji dari mereka, mereka lebih benar dari padamu. Biarlah engkau merasa malu dan tanggunglah nodamu, oleh karena engkau membuat kakak-kakakmu perempuan kelihatan benar.\""
   },
   {Bible:"Ezekiel", Chapter:16, Verse:53, Page:1,
-    Kor:"<소돔과 사마리아도 회복될 것이다> ○\"내가 그들을 다시 잘 살게 해주겠다. 소돔과 그 딸들을 다시 잘 살게 해주고, 사마리아와 그 딸들을 다시 잘 살게 해주겠다. 또 내가 그들과 함께 너도 다시 잘 살게 해주겠다.",
+    Kor:"○\"내가 그들을 다시 잘 살게 해주겠다. 소돔과 그 딸들을 다시 잘 살게 해주고, 사마리아와 그 딸들을 다시 잘 살게 해주겠다. 또 내가 그들과 함께 너도 다시 잘 살게 해주겠다.",
     Chn:"「我必叫她们被掳的归回，就是叫所多玛和她的众女，撒马利亚和她的众女，并你们中间被掳的，都要归回，",
     Eng:"\"'However, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them,",
     Ind:"\"Tetapi Aku akan memulihkan keadaan mereka, baik keadaan Sodom bersama anak-anaknya perempuan maupun keadaan Samaria bersama anak-anaknya perempuan, dan juga Aku akan memulihkan keadaanmu di tengah-tengah mereka,"
@@ -340,7 +340,7 @@ BibleDB.add([
     ChnVerseEnd:57
   },
   {Bible:"Ezekiel", Chapter:16, Verse:57, Page:1,
-    Kor:"그러나 그것은 네 죄악이 드러나기 전에 있었던 일이다. 오히려 이제는 네가 그들의 놀림감이 되었다. 사방에서 너를 멸시하는 사람들 곧 f에돔의 딸들과 그 모든 이웃이 너를 비웃고, 블레셋 딸들이 너를 조롱한다.(f 많은 히브리어 사본과 시리아어역을 따름. 대다수의 히브리어 사본과 칠십인역과 불가타에는 '아람')",
+    Kor:"그러나 그것은 네 죄악이 드러나기 전에 있었던 일이다. 오히려 이제는 네가 그들의 놀림감이 되었다. 사방에서 너를 멸시하는 사람들, 곧 에돔의 딸들과 그 모든 이웃이 너를 비웃고, 블레셋 딸들이 너를 조롱한다.",
     Chn:"",
     Eng:"before your wickedness was uncovered. Even so, you are now scorned by the daughters of Edom and all her neighbors and the daughters of the Philistines--all those around you who despise you.",
     Ind:"sebelum kejahatanmu menjadi nyata, seperti pada saat ini engkau diaibkan oleh anak-anak perempuan Edom dengan semua yang di sekitarnya dan anak-anak perempuan Filistin, yang menghina engkau dari sekitarmu?"
@@ -352,7 +352,7 @@ BibleDB.add([
     Ind:"Kemesumanmu dan perbuatan-perbuatanmu yang keji harus engkau tanggung, demikianlah firman TUHAN."
   },
   {Bible:"Ezekiel", Chapter:16, Verse:59, Page:1,
-    Kor:"<영원한 언약> ○\"나 주 하나님이 말한다. 너는, 네가 한 맹세를 하찮게 여겨, 그 언약을 깼으니, 나도 네가 한 것과 똑같이 너에게 하겠다.",
+    Kor:"○\"나 주 하나님이 말한다. 너는, 네가 한 맹세를 하찮게 여겨, 그 언약을 깼으니, 나도 네가 한 것과 똑같이 너에게 하겠다.",
     Chn:"「主耶和华如此说：你这轻看誓言、背弃盟约的，我必照你所行的待你。",
     Eng:"\"'This is what the Sovereign LORD says: I will deal with you as you deserve, because you have despised my oath by breaking the covenant.",
     Ind:"Sebab beginilah firman Tuhan ALLAH: Aku akan melakukan kepadamu seperti engkau lakukan, yaitu engkau memandang ringan kepada sumpah dengan mengingkari perjanjian."
@@ -376,7 +376,7 @@ BibleDB.add([
     Ind:"Aku akan meneguhkan perjanjian-Ku dengan engkau, dan engkau akan mengetahui bahwa Akulah TUHAN,"
   },
   {Bible:"Ezekiel", Chapter:16, Verse:63, Page:1,
-    Kor:"내가 이렇게 하는 까닭은, 네가 저지른 모든 악한 일을 용서받은 다음에, 네가 지난 일들을 기억하고, 놀라고, 그리고 부끄러워서 다시는 입도 열지 못하게 하려는 데 있는 것이다. 나 주 하나님의 말이다.\"",
+    Kor:"내가 이렇게 하는 까닭은, 네가 저지른 모든 악한 일을 용서받은 다음에, 네가 지난 일들을 기억하고, 놀라고, 그리고 부끄러워서, 다시는 입도 열지 못하게 하려는 데 있는 것이다. 나 주 하나님의 말이다.\"",
     Chn:"好使你在我赦免你一切所行的时候，心里追念，自觉抱愧，又因你的羞辱就不再开口。这是主耶和华说的。」",
     Eng:"Then, when I make atonement for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign LORD.'\"",
     Ind:"dan dengan itu engkau akan teringat-ingat yang dulu dan merasa malu, sehingga mulutmu terkatup sama sekali karena nodamu, waktu Aku mengadakan pendamaian bagimu karena segala perbuatanmu, demikianlah firman Tuhan ALLAH.\""

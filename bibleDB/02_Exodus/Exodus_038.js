@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",38,31);
 BibleDB.add([
   {Bible:"Exodus", Chapter:38, Verse:1, Page:1,
-    Kor:"<번제단을 만들다(출 27:1-8)> 그는 아카시아 나무로 번제단을 만들었는데, 그 길이가 다섯 자요 너비가 다섯 자인 네모난 모양으로 만들었으며, 그 높이는 석 자로 하였다.",
+    Kor:"그는 아카시아 나무로 번제단을 만들었는데, 그 길이가 다섯 자요 너비가 다섯 자인 네모난 모양으로 만들었으며, 그 높이는 석 자로 하였다.",
     Chn:"他用皂荚木做燔祭坛，是四方的，长五肘，宽五肘，高三肘，",
     Eng:"They built the altar of burnt offering of acacia wood, three cubits high; it was square, five cubits long and five cubits wide.",
     Ind:"Dibuatnyalah mezbah korban bakaran itu dari kayu penaga, lima hasta panjangnya dan lima hasta lebarnya, empat persegi, tetapi tiga hasta tingginya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Dan dimasukkannyalah kayu-kayu pengusung itu ke dalam gelang-gelang yang pada rusuk mezbah itu, supaya dengan itu mezbah dapat diangkut. Mezbah itu dibuatnya berongga dan dari papan."
   },
   {Bible:"Exodus", Chapter:38, Verse:8, Page:1,
-    Kor:"<놋 물두멍을 만들다(출 30:18)> ○그는 물두멍과 그 받침을 놋쇠로 만들었는데, 그것은 회막 어귀에서 봉사하는 여인들이 바친 놋거울로 만든 것이다.",
+    Kor:"○물두멍과 그 받침을 놋쇠로 만들었는데, 그것은 회막 어귀에서 봉사하는 여인들이 바친 놋거울로 만든 것이다.",
     Chn:"他用铜做洗濯盆和盆座，是用会幕门前伺候的妇人之镜子做的。",
     Eng:"They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the Tent of Meeting.",
     Ind:"Dibuatnyalah bejana pembasuhan dan juga alasnya dari tembaga, dari cermin-cermin para pelayan perempuan yang melayani di depan pintu Kemah Pertemuan."
   },
   {Bible:"Exodus", Chapter:38, Verse:9, Page:1,
-    Kor:"<성막 울타리를 만들다(출 27:9-19)> ○그는 성막 뜰을 두르는 울타리를 만들었는데, 가는 실로 짠 모시 휘장으로 울타리를 둘렀다. 그 남쪽 휘장은 백 자로 하였다.",
+    Kor:"○성막 뜰을 두르는 울타리를 만들었는데, 가는 실로 짠 모시 휘장으로 울타리를 둘렀다. 그 남쪽 휘장은 백 자로 하였다.",
     Chn:"他做帐幕的院子。院子的南面用捻的细麻做帷子，宽一百肘。",
     Eng:"Next they made the courtyard. The south side was a hundred cubits long and had curtains of finely twisted linen,",
     Ind:"Dibuatnyalah pelataran itu; pada sebelah selatan: layar pelataran itu dari lenan halus yang dipintal benangnya, seratus hasta panjangnya;"
@@ -124,13 +124,13 @@ BibleDB.add([
     Ind:"Segala patok untuk Kemah Suci dan untuk pelataran itu, sekelilingnya, adalah dari tembaga."
   },
   {Bible:"Exodus", Chapter:38, Verse:21, Page:1,
-    Kor:"<성막 공사 물자 명세> ○다음은 성막 곧 증거판을 간직한 성막 공사의 명세서로서, 제사장 아론의 아들 이다말이 모세의 명령을 받아, 레위 사람들을 시켜서 계산한 것이다.",
+    Kor:"○다음은 성막 곧 증거판을 간직한 성막 공사의 명세서로서, 제사장 아론의 아들 이다말이 모세의 명령을 받아, 레위 사람들을 시켜서 계산한 것이다.",
     Chn:"这是法柜的帐幕中利未人所用物件的总数，是照摩西的吩咐，经祭司亚伦的儿子以他玛的手数点的。",
     Eng:"These are the amounts of the materials used for the tabernacle, the tabernacle of the Testimony, which were recorded at Moses' command by the Levites under the direction of Ithamar son of Aaron, the priest.",
     Ind:"Inilah daftar biaya untuk mendirikan Kemah Suci, yakni Kemah Suci, tempat hukum Allah, yang disusun atas perintah Musa, oleh orang Lewi di bawah pimpinan Itamar, anak imam Harun."
   },
   {Bible:"Exodus", Chapter:38, Verse:22, Page:1,
-    Kor:"유다 지파 사람 훌의 손자이며 우리의 아들인 브살렐은, 주님께서 모세에게 명하신 모든 것을 만들었다.",
+    Kor:"유다 지파 사람 훌의 손자이며 우리의 아들인 브살렐은, 주께서 모세에게 명하신 모든 것을 만들었다.",
     Chn:"凡耶和华所吩咐摩西的都是犹大支派户珥的孙子、乌利的儿子比撒列做的。",
     Eng:"(Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the LORD commanded Moses;",
     Ind:"Bezaleel bin Uri bin Hur, dari suku Yehuda, membuat segala yang diperintahkan TUHAN kepada Musa,"
@@ -142,7 +142,7 @@ BibleDB.add([
     Ind:"dan bersama-sama dengan dia turut Aholiab, anak Ahisamakh, dari suku Dan, seorang tukang dan ahli, seorang yang membuat tenunan yang berwarna-warna dari kain ungu tua, dari kain ungu muda, dari kain kirmizi dan dari lenan halus. --"
   },
   {Bible:"Exodus", Chapter:38, Verse:24, Page:1,
-    Kor:"○성소 건축비로 든 금 곧 흔들어 바친 금은 모두 성소 세겔로 이십구 달란트 칠백삼십 세겔이다.",
+    Kor:"○성소 건축비로 든 금, 곧 흔들어 바친 금은 모두 성소 세겔로 이십구 달란트 칠백삼십 세겔이다.",
     Chn:"为圣所一切工作使用所献的金子，按圣所的平，有二十九他连得并七百三十舍客勒。",
     Eng:"The total amount of the gold from the wave offering used for all the work on the sanctuary was",
     Ind:"Segala emas yang dipakai untuk segala pekerjaan mendirikan tempat kudus itu, yakni emas dari persembahan unjukan, ada dua puluh sembilan talenta dan tujuh ratus tiga puluh syikal, ditimbang menurut syikal kudus."
@@ -160,13 +160,13 @@ BibleDB.add([
     Ind:"Perak persembahan mereka yang didaftarkan dari antara jemaah itu ada seratus talenta dan seribu tujuh ratus tujuh puluh lima syikal, ditimbang menurut syikal kudus:"
   },
   {Bible:"Exodus", Chapter:38, Verse:26, Page:1,
-    Kor:"스무 살이 넘어서 인구 조사의 대상이 된 사람이 모두 육십만 삼천오백오십 명이므로, 한 사람당 성소 세겔로 반 세겔 곧 한 베가씩 낸 셈이다.",
+    Kor:"스무 살이 넘어서, 인구 조사의 대상이 된 사람이 모두 육십만 삼천오백오십 명이므로, 한 사람당 성소 세겔로 반 세겔, 곧 한 베가씩 낸 셈이다.",
     Chn:"凡过去归那些被数之人的，从二十岁以外，有六十万零三千五百五十人。按圣所的平，每人出银半舍客勒，就是一比加。",
     Eng:"one beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone who had crossed over to those counted, twenty years old or more, a total of 603,550 men.",
     Ind:"sebeka seorang, yaitu setengah syikal, ditimbang menurut syikal kudus, untuk setiap orang yang termasuk orang-orang yang terdaftar, yang berumur dua puluh tahun ke atas, sejumlah enam ratus tiga ribu lima ratus lima puluh orang."
   },
   {Bible:"Exodus", Chapter:38, Verse:27, Page:1,
-    Kor:"성소 밑받침과 휘장 밑받침을 부어 만드는 데 은 백 달란트가 들었으니, 밑받침 백 개에 백 달란트 곧 밑받침 한 개에 한 달란트가 든 셈이다.",
+    Kor:"성소 밑받침과 휘장 밑받침을 부어 만드는 데 은 백 달란트가 들었으니, 밑받침 백 개에 백 달란트, 곧 밑받침 한 개에 한 달란트가 든 셈이다.",
     Chn:"用那一百他连得银子铸造圣所带卯的座和幔子柱子带卯的座；一百他连得共一百带卯的座，每带卯的座用一他连得。",
     Eng:"The 100 talents of silver were used to cast the bases for the sanctuary and for the curtain--100 bases from the 100 talents, one talent for each base.",
     Ind:"Seratus talenta perak dipakai untuk menuang alas-alas tempat kudus dan alas-alas tiang tabir itu, seratus alas sesuai dengan seratus talenta itu, jadi satu talenta untuk satu alas."
@@ -178,7 +178,7 @@ BibleDB.add([
     Ind:"Dari yang seribu tujuh ratus tujuh puluh lima syikal itu dibuatnyalah kaitan-kaitan untuk tiang-tiang itu, disalutnyalah kepala tiang itu dan dihubungkannya tiang-tiang itu dengan penyambung-penyambun"
   },
   {Bible:"Exodus", Chapter:38, Verse:30, Page:1,
-    Kor:"이것으로 회막 어귀의 밑받침과 놋제단과 이에 딸린 놋그물과 기타 제단의 모든 기구를 만들고,",
+    Kor:"이것으로, 회막 어귀의 밑받침과 놋제단과 이에 딸린 놋그물과 기타 제단의 모든 기구를 만들고,",
     Chn:"用这铜做会幕门带卯的座和铜坛，并坛上的铜网和坛的一切器具，",
     Eng:"They used it to make the bases for the entrance to the Tent of Meeting, the bronze altar with its bronze grating and all its utensils,",
     Ind:"Dari padanya dibuatnyalah alas-alas pintu Kemah Pertemuan, dan mezbah tembaga dengan kisi-kisi tembaganya, segala perkakas mezbah itu,"

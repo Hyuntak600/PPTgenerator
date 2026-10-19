@@ -3,13 +3,13 @@
 BibleDB.ref("Isaiah",44,28);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:44, Verse:1, Page:1,
-    Kor:"<주님만이 하나님이시다> \"그러나 나의 종 야곱아, 내가 택한 이스라엘아, 이제 너는 들어라.\"",
+    Kor:"\"그러나 나의 종 야곱아, 내가 택한 이스라엘아, 이제 너는 들어라.\"",
     Chn:"我的仆人雅各， 我所拣选的以色列啊， 现在你当听。",
     Eng:"\"But now listen, O Jacob, my servant, Israel, whom I have chosen.",
     Ind:"\"Tetapi sekarang, dengarlah, hai Yakub, hamba-Ku, dan hai Israel, yang telah Kupilih!"
   },
   {Bible:"Isaiah", Chapter:44, Verse:2, Page:1,
-    Kor:"너를 지으신 분 네가 태어날 때부터 '내가 너를 도와주마' 하신 주님께서 말씀하신다. \"나의 종, 야곱아, 내가 택한 a여수룬아, 두려워하지 말아라. (a 이스라엘의 애칭)",
+    Kor:"너를 지으신 분 네가 태어날 때부터 '내가 너를 도와주마' 하신 주께서 말씀하신다. \"나의 종, 야곱아, 내가 택한 여수룬아, 두려워하지 말아라.",
     Chn:"造作你，又从你出胎造就你， 并要帮助你的耶和华如此说： 我的仆人雅各， 我所拣选的耶书 哪， 不要害怕！",
     Eng:"This is what the LORD says--he who made you, who formed you in the womb, and who will help you: Do not be afraid, O Jacob, my servant, Jeshurun, whom I have chosen.",
     Ind:"Beginilah firman TUHAN yang menjadikan engkau, yang membentuk engkau sejak dari kandungan dan yang menolong engkau: Janganlah takut, hai hamba-Ku Yakub, dan hai Yesyurun, yang telah Kupilih!"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Mereka akan tumbuh seperti rumput di tengah-tengah air, seperti pohon-pohon gandarusa di tepi sungai."
   },
   {Bible:"Isaiah", Chapter:44, Verse:5, Page:1,
-    Kor:"그 때에는 '나는 주님의 것이다' 하고 말하는 사람도 있고, '야곱'의 이름을 써서 그의 자손임을 자칭하는 사람도 있을 것이며, 팔에다가 '나는 주님의 것'이라고 쓰는 사람도 있을 것이며, '이스라엘 사람'이라고 불리는 것을 영광으로 여기는 사람도 있을 것이다.\"",
+    Kor:"그 때에는 '나는 주의 것이다' 하고 말하는 사람도 있고, '야곱'의 이름을 써서 그의 자손임을 자칭하는 사람도 있을 것이며, 팔에다가 '나는 주의 것'이라고 쓰는 사람도 있을 것이며, '이스라엘 사람'이라고 불리는 것을 영광으로 여기는 사람도 있을 것이다.\"",
     Chn:"这个要说：我是属耶和华的； 那个要以雅各的名自称； 又一个要亲手写：归耶和华的， 并自称为以色列。",
     Eng:"One will say, 'I belong to the LORD'; another will call himself by the name of Jacob; still another will write on his hand, 'The LORD'S,' and will take the name Israel.",
     Ind:"Yang satu akan berkata: Aku kepunyaan TUHAN, yang lain akan menyebut dirinya dengan nama Yakub, dan yang ketiga akan menuliskan pada tangannya: Kepunyaan TUHAN, dan akan menggelari dirinya dengan nama Israel.\""
   },
   {Bible:"Isaiah", Chapter:44, Verse:6, Page:1,
-    Kor:"이스라엘의 왕이신 주, 이스라엘의 속량자이신 만군의 주님께서 말씀하신다. \"b나는 시작이요, 마감이다. 나 밖에 다른 신이 없다. (b 또는 '시작하는 것도 나요, 마감하는 것도 나다')",
+    Kor:"이스라엘의 왕이신 주, 이스라엘의 속량자이신 만군의 주께서 말씀하신다. \"나는 시작이요, 마감이다. 나 밖에 다른 신이 없다.",
     Chn:"耶和华—以色列的君， 以色列的救赎主—万军之耶和华如此说： 我是首先的，我是末后的； 除我以外再没有真神。",
     Eng:"\"This is what the LORD says--Israel's King and Redeemer, the LORD Almighty: I am the first and I am the last; apart from me there is no God.",
     Ind:"Beginilah firman TUHAN, Raja dan Penebus Israel, TUHAN semesta alam: \"Akulah yang terdahulu dan Akulah yang terkemudian; tidak ada Allah selain dari pada-Ku."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Janganlah gentar dan janganlah takut, sebab memang dari dahulu telah Kukabarkan dan Kuberitahukan hal itu kepadamu. Kamulah saksi-saksi-Ku! Adakah Allah selain dari pada-Ku? Tidak ada Gunung Batu yang lain, tidak ada Kukenal!\""
   },
   {Bible:"Isaiah", Chapter:44, Verse:9, Page:1,
-    Kor:"<우상숭배 조롱> 우상을 만드는 자들은 모두 허망한 자들이다. 그들이 좋아하는 우상은 아무 쓸모가 없는 것들이다. 이런 우상을 신이라고 증언하는 자들은 눈이 먼 자들이요, 무지한 자들이니, 마침내 수치만 당할 뿐이다.",
+    Kor:"우상을 만드는 자들은 모두 허망한 자들이다. 그들이 좋아하는 우상은 아무 쓸모가 없는 것들이다. 이런 우상을 신이라고 증언하는 자들은 눈이 먼 자들이요, 무지한 자들이니, 마침내 수치만 당할 뿐이다.",
     Chn:"制造雕刻偶像的尽都虚空；他们所喜悦的都无益处；他们的见证无所看见，无所知晓，他们便觉羞愧。",
     Eng:"All who make idols are nothing, and the things they treasure are worthless. Those who would speak up for them are blind; they are ignorant, to their own shame.",
     Ind:"Orang-orang yang membentuk patung, semuanya adalah kesia-siaan, dan barang-barang kesayangan mereka itu tidaklah memberi faedah. Penyembah-penyembah patung itu tidaklah melihat dan tidaklah mengetahui apa-apa; oleh karena itu mereka akan mendapat malu."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Tukang kayu merentangkan tali pengukur dan membuat bagan sebuah patung dengan kapur merah; ia mengerjakannya dengan pahat dan menggarisinya dengan jangka, lalu ia memberi bentuk seorang laki-laki kepadanya, seperti seorang manusia yang tampan, dan selanjutnya ditempatkan dalam kuil."
   },
   {Bible:"Isaiah", Chapter:44, Verse:14, Page:1,
-    Kor:"그는, 용도에 따라 숲에서 백향목을 찍어 오기도 하고, 삼나무와 상수리나무를 베어 오기도 한다. 그러나 그 나무들은 저절로 튼튼하게 자란 것이지, 그들이 키운 것이 아니다. 하늘에서 내리는 비를 머금고 자라는 것이지, 그들이 자라게 하는 것이 아니다.",
+    Kor:"그는, 용도에 따라서 백향목을 찍어 오기도 하고, 삼나무와 상수리나무를 베어 오기도 한다. 그러나 그 나무들은 저절로 튼튼하게 자란 것이지, 그들이 키운 것이 아니다. 하늘에서 내리는 비를 머금고 자라는 것이지, 그들이 자라게 하는 것이 아니다.",
     Chn:"他砍伐香柏树，又取柞树和橡树，在树林中选定了一棵。他栽种松树，得雨长养。",
     Eng:"He cut down cedars, or perhaps took a cypress or oak. He let it grow among the trees of the forest, or planted a pine, and the rain made it grow.",
     Ind:"Mungkin ia menebang pohon-pohon aras atau ia memilih pohon saru atau pohon tarbantin, lalu membiarkannya tumbuh menjadi besar di antara pohon-pohon di hutan, atau ia menanam pohon salam, lalu hujan membuatnya besar."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Setengahnya dibakarnya dalam api dan di atasnya dipanggangnya daging. Lalu ia memakan daging yang dipanggang itu sampai kenyang; ia memanaskan diri sambil berkata: \"Ha, aku sudah menjadi panas, aku telah merasakan kepanasan api.\""
   },
   {Bible:"Isaiah", Chapter:44, Verse:17, Page:1,
-    Kor:"불을 때고 남은 토막으로는 신상 곧 우상을 만들고, 그 앞에 엎드려 숭배하고, 그것에게 기도하며 '나의 신이여, 나를 구원하여 주십시오' 하고 빈다.",
+    Kor:"불을 때고 남은 토막으로는 신상, 곧 우상을 만들고, 그 앞에 엎드려 숭배하고, 그것에게 기도하며 '나의 신이시여, 나를 구원하여 주십시오' 하고 빈다.",
     Chn:"他用剩下的做了一神，就是雕刻的偶像。他向这偶像俯伏叩拜，祷告它说：「求你拯救我，因你是我的神。」",
     Eng:"From the rest he makes a god, his idol; he bows down to it and worships. He prays to it and says, \"Save me; you are my god.\"",
     Ind:"Dan sisa kayu itu dikerjakannya menjadi allah, menjadi patung sembahannya; ia sujud kepadanya, ia menyembah dan berdoa kepadanya, katanya: \"Tolonglah aku, sebab engkaulah allahku!\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Orang yang sibuk dengan abu belaka, disesatkan oleh hatinya yang tertipu; ia tidak dapat menyelamatkan jiwanya atau mengatakan: \"Bukankah dusta yang menjadi peganganku?\""
   },
   {Bible:"Isaiah", Chapter:44, Verse:21, Page:1,
-    Kor:"<창조자와 구원자이신 주님> \"야곱아, 이런 일들을 기억하여 두어라. 이스라엘아, 너는 나의 종이다. 내가 너를 지었다. 너는 나의 종이다. 이스라엘아, 내가 너를 절대로 잊지 않겠다.",
+    Kor:"\"야곱아, 이런 일들을 기억하여 두어라. 이스라엘아, 너는 나의 종이다. 내가 너를 지었다. 너는 나의 종이다. 이스라엘아, 내가 너를 절대로 잊지 않겠다.",
     Chn:"雅各，以色列啊， 你是我的仆人，要记念这些事。 以色列啊，你是我的仆人， 我造就你必不忘记你。",
     Eng:"\"Remember these things, O Jacob, for you are my servant, O Israel. I have made you, you are my servant; O Israel, I will not forget you.",
     Ind:"Ingatlah semuanya ini, hai Yakub, sebab engkaulah hamba-Ku, hai Israel. Aku telah membentuk engkau, engkau adalah hamba-Ku; hai Israel, engkau tidak Kulupakan."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Aku telah menghapus segala dosa pemberontakanmu seperti kabut diterbangkan angin dan segala dosamu seperti awan yang tertiup. Kembalilah kepada-Ku, sebab Aku telah menebus engkau!"
   },
   {Bible:"Isaiah", Chapter:44, Verse:23, Page:1,
-    Kor:"주님께서 이런 일을 하셨으니, 하늘아, 기쁘게 노래하여라. 땅의 깊은 곳들아, 함성을 올려라. 산들아, 숲아, 그리고 그 속에 있는 모든 나무들아, 소리를 높여 노래하여라. 주님께서 야곱을 구원하심으로써, 주님께서 이스라엘을 구원하심으로써, 영광을 나타내셨다.",
+    Kor:"주께서 이 일을 하셨으니, 하늘아, 기쁘게 노래하여라. 땅의 깊은 곳들아, 함성을 올려라. 산들아, 숲아, 그리고 그 속에 있는 모든 나무들아, 소리를 높여 노래하여라. 주께서 야곱을 구원하심으로써, 주께서 이스라엘을 구원하심으로써, 위대하신 영광을 나타내셨다.",
     Chn:"诸天哪，应当歌唱， 因为耶和华做成这事。 地的深处啊，应当欢呼； 众山应当发声歌唱； 树林和其中所有的树都当如此！ 因为耶和华救赎了雅各， 并要因以色列荣耀自己。",
     Eng:"Sing for joy, O heavens, for the LORD has done this; shout aloud, O earth beneath. Burst into song, you mountains, you forests and all your trees, for the LORD has redeemed Jacob, he displays his glory in Israel.",
     Ind:"Bersorak-sorailah, hai langit, sebab TUHAN telah bertindak, bertempiksoraklah, hai rahim bumi! Bergembiralah dengan sorak-sorai, hai gunung-gunung, hai hutan serta segala pohon di dalamnya! Sebab TUHAN telah menebus Yakub, dan Ia telah memperlihatkan keagungan-Nya dalam hal Israel."
   },
   {Bible:"Isaiah", Chapter:44, Verse:24, Page:1,
-    Kor:"너의 구원자, 너를 모태에서 만드신 주님께서 말씀하신다. \"내가 바로 만물을 창조한 주다. 나와 함께 한 이가 없이, 나 혼자서 하늘을 폈으며, 땅도 나 홀로 넓혔다.\"",
+    Kor:"너의 구원자, 너를 모태에서 만드신 주께서 말씀하신다. \"내가 바로 만물을 창조한 주다. 나와 함께 한 이가 없이, 나 혼자서 하늘을 폈으며, 땅도 넓혔다.\"",
     Chn:"从你出胎，造就你的救赎主—耶和华如此说： 我—耶和华是创造万物的， 是独自铺张诸天、铺开大地的。 谁与我同在呢？",
     Eng:"\"This is what the LORD says--your Redeemer, who formed you in the womb: I am the LORD, who has made all things, who alone stretched out the heavens, who spread out the earth by myself,",
     Ind:"Beginilah firman TUHAN, Penebusmu, yang membentuk engkau sejak dari kandungan; \"Akulah TUHAN, yang menjadikan segala sesuatu, yang seorang diri membentangkan langit, yang menghamparkan bumi--siapakah yang mendampingi Aku? --"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Akulah yang berkata kepada tubir lautan: Jadilah kering, Aku mau mengeringkan sungai-sungaimu!"
   },
   {Bible:"Isaiah", Chapter:44, Verse:28, Page:1,
-    Kor:"고레스를 보시고는 '너는 내가 세운 목자다. 나의 뜻을 모두 네가 이룰 것이다'  하시며, 예루살렘을 보시고는 '네가 재건될 것이다' 하시며, 성전을 보시고는 '너의 기초가 놓일 것이다' 하신다.",
+    Kor:"고레스를 보시고는 '너는 내가 세운 목자다. 나의 뜻을 모두 네가 이룰 것이다' 하시며, 예루살렘을 보시고는 '네가 재건될 것이다' 하시며, 성전을 보시고는 '너의 기초가 놓일 것이다' 하신다.",
     Chn:"论塞鲁士说：他是我的牧人， 必成就我所喜悦的， 必下令建造耶路撒冷， 发命立稳圣殿的根基。",
     Eng:"who says of Cyrus, 'He is my shepherd and will accomplish all that I please; he will say of Jerusalem, \"Let it be rebuilt,\" and of the temple, \"Let its foundations be laid.\"'",
     Ind:"Akulah yang berkata tentang Koresh: Dia gembala-Ku; segala kehendak-Ku akan digenapinya dengan mengatakan tentang Yerusalem: Baiklah ia dibangun! dan tentang Bait Suci: Baiklah diletakkan dasarnya!\""

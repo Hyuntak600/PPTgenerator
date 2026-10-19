@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Siapakah seperti orang berhikmat? Dan siapakah yang mengetahui keterangan setiap perkara? Hikmat manusia menjadikan wajahnya bercahaya dan berubahlah kekerasan wajahnya."
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:2, Page:1,
-    Kor:"<왕에게 복종하라> ○a나는 권한다. 왕의 명령에 복종하여라. 그것은 네가 하나님 앞에서 맹세한 것이기 때문이다.(a 히, '나는 왕의 명령에 복종한다')",
+    Kor:"○나는 권한다. 왕의 명령에 복종하여라. 그것은 네가 하나님 앞에서 맹세한 것이기 때문이다.",
     Chn:"我劝你遵守王的命令；既指　神起誓，理当如此。",
     Eng:"Obey the king's command, I say, because you took an oath before God.",
     Ind:"Patuhilah perintah raja demi sumpahmu kepada Allah."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Siapa yang mematuhi perintah tidak akan mengalami perkara yang mencelakakan, dan hati orang berhikmat mengetahui waktu pengadilan,"
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:6, Page:1,
-    Kor:"우리가 비록 장래 일을 몰라서 크게 고통을 당한다 해도, 모든 일에는 알맞은 때가 있고 알맞은 방법이 있다.",
+    Kor:"우리가 비록 장래 일을 몰라서 크게 고통을 당한다 해도, 모든 일에는 알맞은 때가 있고 알맞는 방법이 있다.",
     Chn:"各样事务成就都有时候和定理，因为人的苦难重压在他身上。",
     Eng:"For there is a proper time and procedure for every matter, though a man's misery weighs heavily upon him.",
     Ind:"karena untuk segala sesuatu ada waktu pengadilan, dan kejahatan manusia menekan dirinya."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Sesungguhnya, ia tak mengetahui apa yang akan terjadi, karena siapakah yang akan mengatakan kepadanya bagaimana itu akan terjadi?"
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:8, Page:1,
-    Kor:"b바람을 다스려 그치게 할 수 있는 사람이 없듯이, 자기가 죽을 날을 피하거나 연기시킬 수 있는 사람도 없다. 전쟁이 일어나면 벗어날 사람이 없듯이, 악은 행악자를 놓아 주지 않는다. (b 또는 '생기를 주장하여 생기로 머무르게 할 수 있는 사람이 없듯이')",
+    Kor:"바람을 다스려 그치게 할 수 있는 사람이 없듯이, 자기가 죽을 날을 피하거나 연기시킬 수 있는 사람도 없다. 전쟁이 일어나면 벗어날 사람이 없듯이, 악은 행악자를 놓아 주지 않는다.",
     Chn:"无人有权力掌管生命，将生命留住；也无人有权力掌管死期；这场争战，无人能免；邪恶也不能救那好行邪恶的人。",
     Eng:"No man has power over the wind to contain it; so no one has power over the day of his death. As no one is discharged in time of war, so wickedness will not release those who practice it.",
     Ind:"Tiada seorangpun berkuasa menahan angin dan tiada seorangpun berkuasa atas hari kematian. Tak ada istirahat dalam peperangan, dan kefasikan tidak melepaskan orang yang melakukannya."
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:9, Page:1,
-    Kor:"<악한 사람과 올바른 사람> ○나는 c이 세상에서 벌어지는 모든 일을 살펴보다가, 이 세상에는 권력 쥔 사람 따로 있고, 그들에게 고통받는 사람 따로 있음을 알았다.(c 히, '해 아래')",
+    Kor:"○나는 이 세상에서 벌어지는 모든 일을 살펴보다가, 이 세상에는 권력 쥔 사람 따로 있고, 그들에게 고통받는 사람 따로 있음을 알았다.",
     Chn:"这一切我都见过，也专心查考日光之下所做的一切事。有时这人管辖那人，令人受害。",
     Eng:"All this I saw, as I applied my mind to everything done under the sun. There is a time when a man lords it over others to his own hurt.",
     Ind:"Semua ini telah kulihat dan aku memberi perhatian kepada segala perbuatan yang dilakukan di bawah matahari, ketika orang yang satu menguasai orang yang lain hingga ia celaka."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Oleh karena hukuman terhadap perbuatan jahat tidak segera dilaksanakan, maka hati manusia penuh niat untuk berbuat jahat."
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:12, Page:1,
-    Kor:"악한 사람이 백 번 죄를 지어도 그는 여전히 살아 있다. 사람들은 말한다.  \"하나님 앞에 경건하게 살면서 하나님을 두려워하는 사람은 모든 일이 다 잘 되지만",
+    Kor:"악한 사람이 백 번 죄를 지어도 그는 여전히 살아 있다. 사람들은 말한다. 하나님 앞에 경건하게 살면서 하나님을 두려워하는 사람은 모든 일이 다 잘 되지만",
     Chn:"罪人虽然作恶百次，倒享长久的年日；然而我准知道，敬畏　神的，就是在他面前敬畏的人，终久必得福乐。",
     Eng:"Although a wicked man commits a hundred crimes and still lives a long time, I know that it will go better with God-fearing men, who are reverent before God.",
     Ind:"Walaupun orang yang berdosa dan yang berbuat jahat seratus kali hidup lama, namun aku tahu, bahwa orang yang takut akan Allah akan beroleh kebahagiaan, sebab mereka takut terhadap hadirat-Nya."
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:13, Page:1,
-    Kor:"악한 자는 하나님을 두려워하지 않으니, 그가 하는 일이 잘 될 리 없으며, 사는 날이 그림자 같고 한창 나이에 죽고 말 것이다.\"",
+    Kor:"악한 자는 하나님을 두려워하지 않으니, 그가 하는 일이 잘 될 리 없으며, 사는 날이 그림자 같고 한창 나이에 죽고 말 것이라고 한다.",
     Chn:"恶人却不得福乐，也不得长久的年日；这年日好像影儿，因他不敬畏　神。",
     Eng:"Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.",
     Ind:"Tetapi orang yang fasik tidak akan beroleh kebahagiaan dan seperti bayang-bayang ia tidak akan panjang umur, karena ia tidak takut terhadap hadirat Allah."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ada suatu kesia-siaan yang terjadi di atas bumi: ada orang-orang benar, yang menerima ganjaran yang layak untuk perbuatan orang fasik, dan ada orang-orang fasik yang menerima pahala yang layak untuk perbuatan orang benar. Aku berkata: \"Inipun sia-sia!\""
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:15, Page:1,
-    Kor:"○나는 생을 즐기라고 권하고 싶다. 사람에게, 먹고 마시고 즐기는 것보다 더 좋은 것이 c세상에 없기 때문이다. 그래야 c이 세상에서 일하면서, 하나님께 허락받은 한평생을 사는 동안에, 언제나 기쁨이 사람과 함께 있을 것이다.(c 히, '해 아래')",
+    Kor:"○나는 생을 즐기라고 권하고 싶다. 사람에게, 먹고 마시고 즐기는 것보다 더 좋은 것이 세상에 없기 때문이다. 그래야 이 세상에서 일하면서, 하나님께 허락받은 한평생을 사는 동안에, 언제나 기쁨이 사람과 함께 있을 것이다.",
     Chn:"我就称赞快乐，原来人在日光之下，莫强如吃喝快乐；因为他在日光之下，　神赐他一生的年日，要从劳碌中，时常享受所得的。",
     Eng:"So I commend the enjoyment of life, because nothing is better for a man under the sun than to eat and drink and be glad. Then joy will accompany him in his work all the days of the life God has given him under the sun.",
     Ind:"Oleh sebab itu aku memuji kesukaan, karena tak ada kebahagiaan lain bagi manusia di bawah matahari, kecuali makan dan minum dan bersukaria. Itu yang menyertainya di dalam jerih payahnya seumur hidupnya yang diberikan Allah kepadanya di bawah matahari."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Ketika aku memberi perhatianku untuk memahami hikmat dan melihat kegiatan yang dilakukan orang di dunia tanpa mengantuk siang malam,"
   },
   {Bible:"Ecclesiastes", Chapter:8, Verse:17, Page:1,
-    Kor:"하나님이 하시는 모든 일을 두고서, 나는 깨달은 바가 있다. 그것은 아무도 c이 세상에서 이루어지는 일을 이해할 수는 없다는 것이다. 그 뜻을 찾아보려고 아무리 애를 써도, 사람은 그 뜻을 찾지 못한다. 혹 지혜 있는 사람이 안다고 주장할지도 모르지만, 그 사람도 정말 그 뜻을 알 수는 없는 것이다.(c 히, '해 아래')",
+    Kor:"하나님이 하시는 모든 일을 두고서, 나는 깨달은 바가 있다. 그것은 아무도 이 세상에서 이루어지는 일을 이해할 수는 없다는 것이다. 그 뜻을 찾아보려고 아무리 애를 써도, 사람은 그 뜻을 찾지 못한다. 혹 지혜 있는 사람이 안다고 주장할지도 모르지만, 그 사람도 정말 그 뜻을 알 수는 없는 것이다.",
     Chn:"我就看明　神一切的作为，知道人查不出日光之下所做的事；任凭他费多少力寻查，都查不出来，就是智慧人虽想知道，也是查不出来。",
     Eng:"then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it.",
     Ind:"maka nyatalah kepadaku, bahwa manusia tidak dapat menyelami segala pekerjaan Allah, yang dilakukan-Nya di bawah matahari. Bagaimanapun juga manusia berlelah-lelah mencarinya, ia tidak akan menyelaminya. Walaupun orang yang berhikmat mengatakan, bahwa ia mengetahuinya, namun ia tidak dapat menyelaminya."

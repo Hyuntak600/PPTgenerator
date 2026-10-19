@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",41,57);
 BibleDB.add([
   {Bible:"Genesis", Chapter:41, Verse:1, Page:1,
-    Kor:"<요셉이 바로의 꿈을 해몽하다> 그로부터 만 이 년이 지나서, 바로가 꿈을 꾸었다. 그가 나일 강 가에 서 있는데,",
+    Kor:"그로부터 만 이 년이 지나서, 바로가 꿈을 꾸었다. 나일 강 가에 서 있는데,",
     Chn:"过了两年，法老做梦，梦见自己站在河边，",
     Eng:"When two full years had passed, Pharaoh had a dream: He was standing by the Nile,",
     Ind:"Setelah lewat dua tahun lamanya, bermimpilah Firaun, bahwa ia berdiri di tepi sungai Nil."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Bulir yang kurus itu menelan ketujuh bulir yang bernas dan berisi tadi. Lalu terjagalah Firaun. Agaknya ia bermimpi!"
   },
   {Bible:"Genesis", Chapter:41, Verse:8, Page:1,
-    Kor:"아침에 그는 마음이 뒤숭숭하여, 사람을 보내어서 이집트의 마술사와 현인들을 모두 불러들이고, 그가 꾼 꿈 이야기를 그들에게 하였다. 그러나 아무도 그에게 그 꿈을 해몽하여 주는 사람이 없었다.",
+    Kor:"아침에 그는 마음이 뒤숭숭하여, 사람을 보내서 이집트의 마술사와 현인들을 모두 불러들이고, 그가 꾼 꿈 이야기를 그들에게 하였다. 그러나 아무도 그에게 그 꿈을 해몽하여 주는 사람이 없었다.",
     Chn:"到了早晨，法老心里不安，就差人召了埃及所有的术士和博士来；法老就把所做的梦告诉他们，却没有人能给法老圆解。",
     Eng:"In the morning his mind was troubled, so he sent for all the magicians and wise men of  Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",
     Ind:"Pada waktu pagi gelisahlah hatinya, lalu disuruhnyalah memanggil semua ahli dan semua orang berilmu di Mesir. Firaun menceritakan mimpinya kepada mereka, tetapi seorangpun tidak ada yang dapat mengartikannya kepadanya."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Kemudian Firaun menyuruh memanggil Yusuf. Segeralah ia dikeluarkan dari tutupan; ia bercukur dan berganti pakaian, lalu pergi menghadap Firaun."
   },
   {Bible:"Genesis", Chapter:41, Verse:15, Page:1,
-    Kor:"바로가 요셉에게 말하였다. \"내가 꿈을 하나 꾸었는데, 그것을 해몽할 수 있는 사람이 없다. 나는 네가 꿈 이야기를 들으면 잘 푼다고 들었다. 그래서 너를 불렀다.\"",
+    Kor:"바로가 요셉에게 말하였다. \"내가 꿈을 하나 꾸었는데, 그것을 해몽할 수 있는 사람이 없다. 나는, 네가 꿈 이야기를 들으면, 잘 푼다고 들었다. 그래서 너를 불렀다.\"",
     Chn:"法老对约瑟说：「我做了一梦，没有人能解；我听见人说，你听了梦就能解。」",
     Eng:"Pharaoh said to Joseph, \"I had a dream, and no one can interpret it. But I have heard it  said of you that when you hear a dream you can interpret it.\"",
     Ind:"Berkatalah Firaun kepada Yusuf: \"Aku telah bermimpi, dan seorangpun tidak ada yang dapat mengartikannya, tetapi telah kudengar tentang engkau: hanya dengan mendengar mimpi saja engkau dapat mengartikannya.\""
@@ -111,25 +111,25 @@ BibleDB.add([
     Ind:"lalu tampaklah dari sungai Nil itu keluar tujuh ekor lembu yang gemuk badannya dan indah bentuknya, dan makan rumput yang di tepi sungai itu."
   },
   {Bible:"Genesis", Chapter:41, Verse:19, Page:1,
-    Kor:"그것들의 뒤를 이어서, 약하고 아주 흉측하고 야윈 다른 암소 일곱 마리가 올라오는데, 이집트 온 땅에서 내가 일찍이 본 일이 없는 흉측하기 짝이 없는 그런 암소들이었다.",
+    Kor:"그것들의 뒤를 이어서, 약하고 아주 흉측하고 야윈 다른 암소 일곱 마리가 올라오는데, 이집트 온 땅에서, 내가 일찍이 본 일이 없는 흉측하기 짝이 없는 그런 암소들이었다.",
     Chn:"随后又有七只母牛上来，又软弱又丑陋又干瘦，在埃及遍地，我没有见过这样不好的。",
     Eng:"After them, seven other cows came up--scrawny and very ugly and lean. I had never seen such  ugly cows in all the land of Egypt.",
     Ind:"Tetapi kemudian tampaklah juga keluar tujuh ekor lembu yang lain, kulit pemalut tulang, sangat buruk bangunnya dan kurus badannya; tidak pernah kulihat yang seburuk itu di seluruh tanah Mesir."
   },
   {Bible:"Genesis", Chapter:41, Verse:20, Page:1,
-    Kor:"그 야위고 흉측한 암소들은 먼저 올라온 기름진 암소 일곱 마리를 잡아먹었다.",
+    Kor:"그 야위고 흉측한 암소들은, 먼저 올라온 기름진 암소 일곱 마리를 잡아먹었다.",
     Chn:"这又干瘦又丑陋的母牛吃尽了那以先的七只肥母牛，",
     Eng:"The lean, ugly cows ate up the seven fat cows that came up first.",
     Ind:"Lembu yang kurus dan buruk itu memakan ketujuh ekor lembu gemuk yang mula-mula."
   },
   {Bible:"Genesis", Chapter:41, Verse:21, Page:1,
-    Kor:"흉측한 암소들은 살이 찐 암소들을 잡아먹었는데도, 여전히 굶은 암소처럼 흉측하였다. 그리고는 내가 깨어났다.",
+    Kor:"흉측한 암소들은, 살이 찐 암소들을 잡아먹었는데도, 여전히 굶은 암소처럼 흉측하였다. 그리고는 내가 깨어났다.",
     Chn:"吃了以后却看不出是吃了，那丑陋的样子仍旧和先前一样。我就醒了。",
     Eng:"But even after they ate them, no one could tell that they had done so; they looked just as  ugly as before. Then I woke up.",
     Ind:"Lembu-lembu ini masuk ke dalam perutnya, tetapi walaupun telah masuk ke dalam perutnya, tidaklah kelihatan sedikitpun tandanya: bangunnya tetap sama buruknya seperti semula. Lalu terjagalah aku."
   },
   {Bible:"Genesis", Chapter:41, Verse:22, Page:1,
-    Kor:"a내가 또다시 꿈에 보니, 한 줄기에서 자란 이삭 일곱 개가 있는데, 잘 여물고 실한 것들이었다.(a 칠십인역과 시리아어역과 불가타에는 이 본문 앞에, '내가 또다시 잠이 들었는데'가 더 있음)",
+    Kor:"내가 또다시 꿈에 보니, 한 줄기에서 자란 이삭 일곱 개가 있는데, 잘 여물고 실한 것들이었다.",
     Chn:"我又梦见一棵麦子，长了七个穗子，又饱满又佳美，",
     Eng:"\"In my dreams I also saw seven heads of grain, full and good, growing on a single stalk.",
     Ind:"Selanjutnya dalam mimpiku itu kulihat timbul dari satu tangkai tujuh bulir gandum yang berisi dan baik."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Kemudian akan timbul tujuh tahun kelaparan; maka akan dilupakan segala kelimpahan itu di tanah Mesir, karena kelaparan itu menguruskeringkan negeri ini."
   },
   {Bible:"Genesis", Chapter:41, Verse:31, Page:1,
-    Kor:"풍년이 든 다음에 오는 흉년은 너무나도 심하여서, 이집트 땅에서는 아무도 그 전에 풍년이 든 일을 기억하지 못할 것입니다.",
+    Kor:"풍년이 든 다음에 오는 흉년은 너무나도 심하여서, 이집트 땅에서는, 아무도 그 전에 풍년이 든 일을 기억하지 못할 것입니다.",
     Chn:"因那以后的饥荒甚大，便不觉得先前的丰收了。",
     Eng:"The abundance in the land will not be remembered, because the famine that follows it will  be so severe.",
     Ind:"Sesudah itu akan tidak kelihatan lagi bekas-bekas kelimpahan di negeri ini karena kelaparan itu, sebab sangat hebatnya kelaparan itu."
@@ -207,19 +207,19 @@ BibleDB.add([
     Ind:"Baiklah juga tuanku Firaun berbuat begini, yakni menempatkan penilik-penilik atas negeri ini dan dalam ketujuh tahun kelimpahan itu memungut seperlima dari hasil tanah Mesir."
   },
   {Bible:"Genesis", Chapter:41, Verse:35, Page:1,
-    Kor:"앞으로 올 풍년에, 그 관리들은 온갖 먹거리를 거두어들이고, 임금님의 권한 아래, 각 성읍에 곡식을 갈무리하도록 하십시오.",
+    Kor:"앞으로 올 풍년에, 그 관리들은 온갖 먹을거리를 거두어들이고, 임금님의 권한 아래, 각 성읍에 곡식을 갈무리하도록 하십시오.",
     Chn:"叫他们把将来丰年一切的粮食聚敛起来，积蓄五谷，收存在各城里做食物，归于法老的手下。",
     Eng:"They should collect all the food of these good years that are coming and store up the grain  under the authority of Pharaoh, to be kept in the cities for food.",
     Ind:"Mereka harus mengumpulkan segala bahan makanan dalam tahun-tahun baik yang akan datang ini dan, di bawah kuasa tuanku Firaun, menimbun gandum di kota-kota sebagai bahan makanan, serta menyimpannya."
   },
   {Bible:"Genesis", Chapter:41, Verse:36, Page:1,
-    Kor:"이 먹거리는, 이집트 땅에서 일곱 해 동안 이어갈 흉년에 대비해서, 그 때에 이 나라 사람들이 먹을 수 있도록 갈무리해 두셔야 합니다. 그렇게 하시면, 기근이 이 나라를 망하게 하지 못할 것입니다.\"",
+    Kor:"이 먹을거리는, 이집트 땅에서 일곱 해 동안 이어갈 흉년에 대비해서, 그 때에 이 나라 사람들이 먹을 수 있도록 갈무리해 두셔야 합니다. 그렇게 하시면, 기근이 이 나라를 망하게 하지 못할 것입니다.\"",
     Chn:"所积蓄的粮食可以防备埃及地将来的七个荒年，免得这地被饥荒所灭。」",
     Eng:"This food should be held in reserve for the country, to be used during the seven years of  famine that will come upon Egypt, so that the country may not be ruined by the famine.\"",
     Ind:"Demikianlah segala bahan makanan itu menjadi persediaan untuk negeri ini dalam ketujuh tahun kelaparan yang akan terjadi di tanah Mesir, supaya negeri ini jangan binasa karena kelaparan itu.\""
   },
   {Bible:"Genesis", Chapter:41, Verse:37, Page:1,
-    Kor:"<요셉이 이집트의 총리가 되다> ○바로와 모든 신하들은 이 제안을 좋게 여겼다.",
+    Kor:"○바로와 모든 신하들은 이 제안을 좋게 여겼다.",
     Chn:"法老和他一切臣仆都以这事为妙。",
     Eng:"The plan seemed good to Pharaoh and to all his officials.",
     Ind:"Usul itu dipandang baik oleh Firaun dan oleh semua pegawainya."
@@ -255,7 +255,7 @@ BibleDB.add([
     Ind:"Sesudah itu Firaun menanggalkan cincin meterainya dari jarinya dan mengenakannya pada jari Yusuf; dipakaikannyalah kepada Yusuf pakaian dari pada kain halus dan digantungkannya kalung emas pada lehernya."
   },
   {Bible:"Genesis", Chapter:41, Verse:43, Page:1,
-    Kor:"그런 다음에, 또 자기의 병거에 버금가는 병거에 요셉을 태우니, 사람들이 b\"물러나거라!\" 하고 외쳤다. 이렇게 해서, 바로는 요셉을 온 이집트 땅의 총리로 세웠다.(b 또는 '무릎을 꿇어라!'. 마소라 본문의 아브레크는 '무릎 꿇다'를 뜻하는 히브리어와 발음이 비슷한 이집트어임)",
+    Kor:"그런 다음에, 또 자기의 병거에 버금가는 병거에 요셉을 태우니, 사람들이 \"물러나거라!\" 하고 외쳤다. 이렇게 해서, 바로는 요셉을 온 이집트 땅의 총리로 세웠다.",
     Chn:"又叫约瑟坐他的副车，喝道的在前呼叫说：「跪下。」这样，法老派他治理埃及全地。",
     Eng:"He had him ride in a chariot as his second-in-command, and men shouted before him, \"Make  way!\" Thus he put him in charge of the whole land of Egypt.",
     Ind:"Lalu Firaun menyuruh menaikkan Yusuf dalam keretanya yang kedua, dan berserulah orang di hadapan Yusuf: \"Hormat!\" Demikianlah Yusuf dilantik oleh Firaun menjadi kuasa atas seluruh tanah Mesir."
@@ -285,7 +285,7 @@ BibleDB.add([
     Ind:"Tanah itu mengeluarkan hasil bertumpuk-tumpuk dalam ketujuh tahun kelimpahan itu,"
   },
   {Bible:"Genesis", Chapter:41, Verse:48, Page:1,
-    Kor:"요셉은, 이집트 땅에서 일곱 해 동안 이어간 풍년으로 생산된 모든 먹거리를 거두어들여, 여러 성읍에 저장해 두었다. 각 성읍 근처 밭에서 나는 곡식은 각각 그 성읍에 쌓아 두었다.",
+    Kor:"요셉은, 이집트 땅에서 일곱 해 동안 이어간 풍년으로 생산된 모든 먹을거리를 거두어들여, 여러 성읍에 저장해 두었다. 각 성읍 근처 밭에서 나는 곡식은 각각 그 성읍에 쌓아 두었다.",
     Chn:"约瑟聚敛埃及地七个丰年一切的粮食，把粮食积存在各城里；各城周围田地的粮食都积存在本城里。",
     Eng:"Joseph collected all the food produced in those seven years of abundance in Egypt and  stored it in the cities. In each city he put the food grown in the fields surrounding it.",
     Ind:"maka Yusuf mengumpulkan segala bahan makanan ketujuh tahun kelimpahan yang ada di tanah Mesir, lalu disimpannya di kota-kota; hasil daerah sekitar tiap-tiap kota disimpan di dalam kota itu."
@@ -303,13 +303,13 @@ BibleDB.add([
     Ind:"Sebelum datang tahun kelaparan itu, lahirlah bagi Yusuf dua orang anak laki-laki, yang dilahirkan oleh Asnat, anak Potifera, imam di On."
   },
   {Bible:"Genesis", Chapter:41, Verse:51, Page:1,
-    Kor:"요셉은 \"하나님이 나의 온갖 고난과 아버지 집 생각을 다 잊어버리게 하셨다\" 하면서, 맏아들의 이름을 c므낫세라고 지었다.(c '잊게 하다')",
+    Kor:"요셉은 \"하나님이 나의 온갖 고난과 아버지 집 생각을 다 잊어버리게 하셨다\" 하면서, 맏아들의 이름을 므낫세라고 지었다.",
     Chn:"约瑟给长子起名叫玛拿西，因为他说：「　神使我忘了一切的困苦和我父的全家。」",
     Eng:"Joseph named his firstborn Manasseh and said, \"It is because God has made me forget all my  trouble and all my father's household.\"",
     Ind:"Yusuf memberi nama Manasye kepada anak sulungnya itu, sebab katanya: \"Allah telah membuat aku lupa sama sekali kepada kesukaranku dan kepada rumah bapaku.\""
   },
   {Bible:"Genesis", Chapter:41, Verse:52, Page:1,
-    Kor:"둘째는 \"내가 고생하던 이 땅에서, 하나님이 자손을 번성하게 해주셨다\" 하면서, 그 이름을 d에브라임이라고 지었다.(d '갑절로 열매를 맺다')",
+    Kor:"둘째는 \"내가 고생하던 이 땅에서, 하나님이 자손을 번성하게 해주셨다\" 하면서, 그 이름을 에브라임이라고 지었다.",
     Chn:"他给次子起名叫以法莲，因为他说：「　神使我在受苦的地方昌盛。」",
     Eng:"The second son he named Ephraim and said, \"It is because God has made me fruitful in the  land of my suffering.\"",
     Ind:"Dan kepada anaknya yang kedua diberinya nama Efraim, sebab katanya: \"Allah membuat aku mendapat anak dalam negeri kesengsaraanku.\""
@@ -321,7 +321,7 @@ BibleDB.add([
     Ind:"Setelah lewat ketujuh tahun kelimpahan yang ada di tanah Mesir itu,"
   },
   {Bible:"Genesis", Chapter:41, Verse:54, Page:1,
-    Kor:"요셉이 말한 대로 일곱 해 동안의 흉년이 시작되었다. 온 세상에 기근이 들지 않은 나라가 없었으나, 이집트 온 땅에는 아직도 먹거리가 있었다.",
+    Kor:"요셉이 말한 대로 일곱 해 동안의 흉년이 시작되었다. 온 세상에 기근이 들지 않은 나라가 없었으나, 이집트 온 땅에는 아직도 먹을거리가 있었다.",
     Chn:"七个荒年就来了。正如约瑟所说的，各地都有饥荒；惟独埃及全地有粮食。",
     Eng:"and the seven years of famine began, just as Joseph had said. There was famine in all the  other lands, but in the whole land of Egypt there was food.",
     Ind:"mulailah datang tujuh tahun kelaparan, seperti yang telah dikatakan Yusuf; dalam segala negeri ada kelaparan, tetapi di seluruh negeri Mesir ada roti."

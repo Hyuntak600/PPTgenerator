@@ -3,19 +3,19 @@
 BibleDB.ref("Ezekiel",18,32);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:18, Verse:1, Page:1,
-    Kor:"<개인의 책임> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Maka datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:2, Page:1,
-    Kor:"○\"너희가 어찌하여 이스라엘 땅에서 아직도 '아버지가 신 포도를 먹으면, 아들의 이가 시다' 하는 속담을 입에 담고 있느냐?",
+    Kor:"\"너희가 어찌하여 이스라엘 땅에서 아직도 '아버지가 신 포도를 먹으면, 아들의 이가 시다' 하는 속담을 입에 담고 있느냐?",
     Chn:"「你们在以色列地怎么用这俗语说『父亲吃了酸葡萄，儿子的牙酸倒了』呢？」",
     Eng:"\"What do you people mean by quoting this proverb about the land of Israel: \"'The fathers eat sour grapes, and the children's teeth are set on edge'?",
     Ind:"\"Ada apa dengan kamu, sehingga kamu mengucapkan kata sindiran ini di tanah Israel: Ayah-ayah makan buah mentah dan gigi anak-anaknya menjadi ngilu?"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:3, Page:1,
-    Kor:"○나 주 하나님의 말이다. 내가 나의 삶을 두고 맹세한다. 너희 가운데서 어느 누구도 다시는 이스라엘에서 이런 속담을 입에 담지 못할 것이다.",
+    Kor:"○나 주 하나님의 말씀이다. 내가 나의 삶을 두고 맹세한다. 너희 가운데서 어느 누구도 다시는 이스라엘에서 이런 속담을 입에 담지 못할 것이다.",
     Chn:"主耶和华说：「我指着我的永生起誓，你们在以色列中，必不再有用这俗语的因由。",
     Eng:"\"As surely as I live, declares the Sovereign LORD, you will no longer quote this proverb in Israel.",
     Ind:"Demi Aku yang hidup, demikianlah firman Tuhan ALLAH, kamu tidak akan mengucapkan kata sindiran ini lagi di Israel."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"dan ia tidak makan daging persembahan di atas gunung atau tidak melihat kepada berhala-berhala kaum Israel, tidak mencemari isteri sesamanya dan tidak menghampiri perempuan waktu bercemar kain,"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:7, Page:1,
-    Kor:"사람을 학대하지 않으며, 빚진 사람의 전당물을 돌려 주며, 아무것도 강제로 빼앗지 않으며, 굶주린 사람에게 먹을 것을 주며, 헐벗은 사람에게 옷을 입혀 주며,",
+    Kor:"사람을 학대하지 않으며, 빚진 사람의 전당물을 돌려 주며, 아무것도 강제로 빼앗지 않으며, 굶주린 사람에게 먹을거리를 주며, 헐벗은 사람에게 옷을 입혀 주며,",
     Chn:"未曾亏负人，乃将欠债之人的当头还给他；未曾抢夺人的物件，却将食物给饥饿的人吃，将衣服给赤身的人穿；",
     Eng:"He does not oppress anyone, but returns what he took in pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked.",
     Ind:"tidak menindas orang lain, ia mengembalikan gadaian orang, tidak merampas apa-apa, memberi makan orang lapar, memberi pakaian kepada orang telanjang,"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:8, Page:1,
-    Kor:"돈놀이를 하지 않으며, 이자를 받지 않으며, a흉악한 일에서 손을 떼며, 사람과 사람 사이에서 공정한 판결을 내리며,(a 칠십인역을 따름. 히, '가난한 사람에게서')",
+    Kor:"돈놀이를 하지 않으며, 이자를 받지 않으며, 흉악한 일에서 손을 떼며, 사람과 사람 사이에서 공정한 판결을 내리며,",
     Chn:"未曾向借钱的弟兄取利，也未曾向借粮的弟兄多要，缩手不作罪孽，在两人之间，按至理判断；",
     Eng:"He does not lend at usury or take excessive interest. He withholds his hand from doing wrong and judges fairly between man and man.",
     Ind:"tidak memungut bunga uang atau mengambil riba, menjauhkan diri dari kecurangan, melakukan hukum yang benar di antara manusia dengan manusia,"
@@ -94,13 +94,13 @@ BibleDB.add([
     Ind:"ia tidak makan daging persembahan di atas gunung dan tidak melihat kepada berhala-berhala kaum Israel, tidak mencemari isteri sesamanya,"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:16, Page:1,
-    Kor:"아무도 학대하지 않으며, 전당물을 잡아 두지도 않으며, 강제로 빼앗지도 않고, 굶주린 사람에게 먹을 것을 주며, 벗은 사람에게 옷을 입혀 주며,",
+    Kor:"아무도 학대하지도 않으며, 전당물을 잡아 두지도 않으며, 강제로 빼앗지도 않고, 굶주린 사람에게 먹을거리를 주며, 벗은 사람에게 옷을 입혀 주며,",
     Chn:"未曾亏负人，未曾取人的当头，未曾抢夺人的物件，却将食物给饥饿的人吃，将衣服给赤身的人穿，",
     Eng:"He does not oppress anyone or require a pledge for a loan. He does not commit robbery but gives his food to the hungry and provides clothing for the naked.",
     Ind:"tidak menindas orang lain, tidak mau meminta gadai, tidak merampas apa-apa, memberi makan orang lapar, memberi pakaian kepada orang telanjang,"
   },
   {Bible:"Ezekiel", Chapter:18, Verse:17, Page:1,
-    Kor:"a흉악한 일에서 손을 떼고, 가난한 자를 압제하지 않으며, 돈놀이를 하지 않으며, 이자를 받지 않으며, 나의 규례를 실천하고, 나의 율례대로 살아가면, 이 사람은 자기 아버지의 죄악 때문에 죽지 않고, 반드시 살 것이다.(a 칠십인역을 따름. 히, '가난한 사람에게서')",
+    Kor:"흉악한 일에서 손을 떼고, 가난한 자를 압제하지 않으며, 돈놀이를 하지 않으며, 이자를 받지 않으며, 나의 규례를 실천하고, 나의 율례대로 살아가면, 이 사람은 자기 아버지의 죄악 때문에 죽지 않고, 반드시 살 것이다.",
     Chn:"缩手不害贫穷人，未曾向借钱的弟兄取利，也未曾向借粮的弟兄多要；他顺从我的典章，遵行我的律例，就不因父亲的罪孽死亡，定要存活。",
     Eng:"He withholds his hand from sin and takes no usury or excessive interest. He keeps my laws and follows my decrees. He will not die for his father's sin; he will surely live.",
     Ind:"menjauhkan diri dari kecurangan, tidak mengambil bunga uang atau riba, melakukan peraturan-Ku dan hidup menurut ketetapan-Ku--orang yang demikian tidak akan mati karena kesalahan ayahnya, ia pasti hidup."
@@ -118,7 +118,7 @@ BibleDB.add([
     Ind:"Tetapi kamu berkata: Mengapa anak tidak turut menanggung kesalahan ayahnya? --Karena anak itu melakukan keadilan dan kebenaran, melakukan semua ketetapan-Ku dengan setia, maka ia pasti hidup."
   },
   {Bible:"Ezekiel", Chapter:18, Verse:20, Page:1,
-    Kor:"죄를 지은 영혼 바로 그 사람이 죽을 것이며, 아들은 아버지의 죄에 대한 벌을 받지 않을 것이며, 아버지가 아들의 죄에 대한 벌도 받지 않을 것이다. 의인의 의도 자신에게로 돌아가고, 악인의 악도 자신에게로 돌아갈 것이다.",
+    Kor:"죄를 지은 영혼, 바로 그 사람이 죽을 것이며, 아들은 아버지의 죄에 대한 벌을 받지 않을 것이며, 아버지가 아들의 죄에 대한 벌도 받지 않을 것이다. 의인의 의도 자신에게로 돌아가고, 악인의 악도 자신에게로 돌아갈 것이다.",
     Chn:"惟有犯罪的，他必死亡。儿子必不担当父亲的罪孽，父亲也不担当儿子的罪孽。义人的善果必归自己，恶人的恶报也必归自己。",
     Eng:"The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him.",
     Ind:"Orang yang berbuat dosa, itu yang harus mati. Anak tidak akan turut menanggung kesalahan ayahnya dan ayah tidak akan turut menanggung kesalahan anaknya. Orang benar akan menerima berkat kebenarannya, dan kefasikan orang fasik akan tertanggung atasnya."

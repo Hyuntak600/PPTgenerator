@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",46,24);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:46, Verse:1, Page:1,
-    Kor:"<안식일과 월삭> \"나 주 하나님이 말한다. 안뜰의 동쪽 중문은 일하는 엿새 동안 잠가 두었다가 안식일에 열고, 또 매달 초하루에도 열어야 한다.",
+    Kor:"\"나 주 하나님이 말한다. 안뜰의 동쪽 중문은 일하는 엿새 동안 잠가 두었다가 안식일에 열고, 또 매달 초하루에도 열어야 한다.",
     Chn:"主耶和华如此说：「内院朝东的门，在办理事务的六日内必须关闭；惟有安息日和月朔必须敞开。",
     Eng:"\"'This is what the Sovereign LORD says: The gate of the inner court facing east is to be shut on the six working days, but on the Sabbath day and on the day of the New Moon it is to be opened.",
     Ind:"Beginilah firman Tuhan ALLAH: Pintu gerbang pelataran dalam yang menghadap ke sebelah timur haruslah tertutup selama enam hari kerja, tetapi pada hari Sabat supaya dibuka; pada hari bulan baru juga supaya dibuka."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:2, Page:1,
-    Kor:"왕은 바깥 마당에서 이 문의 현관으로 들어와서, 문설주 곁에 서 있어야 한다. 제사장들이 그의 번제물과 a화목제물을 바치는 동안에는, 그가 그 대문의 문지방 앞에서 엎드려 경배하고 바깥으로 나가야 한다. 그 문은 저녁때까지 닫지 말아야 한다.(a 또는 '친교제물')",
+    Kor:"왕은 바깥 마당에서 이 문의 현관으로 들어와서, 문설주 곁에 서 있어야 한다. 제사장들이 그의 번제물과 화목제물을 바치는 동안에는, 그가 그 대문의 문지방 앞에서 엎드려 경배하고 바깥으로 나가야 한다. 그 문은 저녁때까지 닫지 말아야 한다.",
     Chn:"王要从这门的廊进入，站在门框旁边。祭司要为他预备燔祭和平安祭，他就要在门槛那里敬拜，然后出去。这门直到晚上不可关闭。",
     Eng:"The prince is to enter from the outside through the portico of the gateway and stand by the gatepost. The priests are to sacrifice his burnt offering and his fellowship offerings. He is to worship at the threshold of the gateway and then go out, but the gate will not be shut until evening.",
     Ind:"Raja itu akan masuk dari luar melalui balai gerbang dan akan berdiri dekat tiang pintu gerbang itu. Sementara itu imam-imam akan mengolah korban bakaran dan korban keselamatan raja itu dan ia akan sujud menyembah di ambang pintu gerbang itu, lalu keluar lagi. Dan pintu gerbang itu tidak boleh ditutup sampai petang hari."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Korban bakaran yang harus dipersembahkan raja itu kepada TUHAN pada hari Sabat ialah enam ekor domba yang tidak bercela dan seekor domba jantan yang tidak bercela."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:5, Page:1,
-    Kor:"곡식제물은, 숫양 한 마리에는 밀가루 한 b에바를 곁들여 바치고, 어린 숫양에는 밀가루를 원하는 만큼 곁들여 바쳐야 하고, 밀가루 한 에바에는 기름 한 c힌을 곁들여 바쳐야 한다.(b 약 22리터 c 약 4리터)",
+    Kor:"곡식제물은, 숫양 한 마리에는 밀가루 한 에바를 곁들여 바치고, 어린 숫양에는 밀가루를 원하는 만큼 곁들여 바쳐야 하고, 밀가루 한 에바에는 기름 한 힌을 곁들여 바쳐야 한다.",
     Chn:"同献的素祭要为公绵羊献一伊法细面，为羊羔照他的力量而献，一伊法细面加油一欣。",
     Eng:"The grain offering given with the ram is to be an ephah, and the grain offering with the lambs is to be as much as he pleases, along with a hin of oil for each ephah.",
     Ind:"Korban sajian dari domba jantan harus diolah dengan satu efa tepung, tetapi korban sajian dari domba-domba yang lain bergantung pada kemampuannya, serta minyak satu hin untuk satu efa."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Tetapi kalau penduduk negeri pada perayaan-perayaan yang tetap berkumpul di hadapan TUHAN, dan yang masuk melalui pintu gerbang utara untuk turut sujud menyembah biarlah mereka keluar melalui pintu gerbang selatan, dan yang masuk melalui pintu gerbang selatan, biarlah keluar melalui pintu gerbang utara. Janganlah seorang kembali melalui pintu gerbang kemasukannya, tetapi masing-masing harus keluar dari pintu gerbang yang di depannya."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:10, Page:1,
-    Kor:"백성이 들어올 때에 왕도 그들과 함께 들어왔다가, 그들이 나갈 때에 왕도 나가야 한다.",
+    Kor:"백성이 들어올 때에, 왕도 그들과 함께 들어왔다가, 그들이 나갈 때에 왕도 나가야 한다.",
     Chn:"民进入，王也要在民中进入；民出去，王也要一同出去。",
     Eng:"The prince is to be among them, going in when they go in and going out when they go out.",
     Ind:"Mengenai raja itu, ia akan masuk bersama-sama mereka dan keluar bersama-sama mereka."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Pada hari-hari raya dan perayaan-perayaan yang tetap harus ada korban sajian, yaitu satu efa tepung diolah dengan seekor lembu jantan dan satu efa tepung diolah dengan seekor domba jantan, tetapi korban sajian dari domba-domba yang lain bergantung pada kemampuannya, serta minyak satu hin untuk satu efa."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:12, Page:1,
-    Kor:"○왕이 스스로 하고 싶어서 번제물이나 a화목제물을 주에게 바치려고 하면, 그에게 동쪽으로 난 대문을 열어 주어야 한다. 그는 안식일에 자신의 번제물이나 화목제물을 바친 것과 같이 하고, 밖으로 나간 다음에는 그 문을 닫아야 한다.\"(a 또는 '친교제물')",
+    Kor:"○왕이 스스로 하고 싶어서 번제물이나 화목제물을 주에게 바치려고 하면, 그에게 동쪽으로 난 대문을 열어 주어야 한다. 그는 안식일에 자신의 번제물이나 화목제물을 바친 것과 같이 하고, 밖으로 나간 다음에는 그 문을 닫아야 한다.\"",
     Chn:"王预备甘心献的燔祭或平安祭，就是向耶和华甘心献的，当有人为他开朝东的门。他就预备燔祭和平安祭，与安息日预备的一样，献毕就出去。他出去之后，当有人将门关闭。」",
     Eng:"When the prince provides a freewill offering to the LORD--whether a burnt offering or fellowship offerings--the gate facing east is to be opened for him. He shall offer his burnt offering or his fellowship offerings as he does on the Sabbath day. Then he shall go out, and after he has gone out, the gate will be shut.",
     Ind:"Kalau raja mengolah korban bakaran sukarela atau korban keselamatan sukarela bagi TUHAN, maka orang harus membukakan pintu gerbang sebelah timur untuk dia dan ia akan mempersembahkan korban bakarannya dan korban keselamatannya itu seperti ia perbuat pada hari Sabat. Kemudian ia keluar, dan sesudah ia keluar pintu gerbang harus ditutup."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:13, Page:1,
-    Kor:"<매일 바치는 제사> ○\"또 너는 매일 주에게 일 년 된 흠 없는 어린 양 하나를 번제물로 바쳐야 한다. 너는 아침마다 그것을 바쳐야 한다.",
+    Kor:"○\"또 너는 매일 주에게 일 년 된 흠 없는 어린 양 하나를 번제물로 바쳐야 한다. 너는 아침마다 그것을 바쳐야 한다.",
     Chn:"「每日，你要预备无残疾一岁的羊羔一只，献与耶和华为燔祭；要每早晨预备。",
     Eng:"\"'Every day you are to provide a year-old lamb without defect for a burnt offering to the LORD; morning by morning you shall provide it.",
     Ind:"Tiap hari ia harus mengolah domba yang berumur satu tahun dan yang tiada bercela sebagai korban bakaran bagi TUHAN; setiap pagi ia harus melakukan itu."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Di samping itu setiap pagi ia harus mempersembahkan korban sajian seperenam efa tepung dengan minyak sepertiga hin untuk mencampur tepung yang terbaik itu; itulah korban sajian bagi TUHAN, dan ketetapan itu tetap selama-lamanya."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:15, Page:1,
-    Kor:"이렇게 제사장들은, 아침마다 어린 양과 곡식제물과 기름을 준비하여, 정규적으로 드리는 번제물로 바쳐야 한다.\"",
+    Kor:"이렇게 제사장들은, 아침마다 어린 양과 곡식제물과 기름을 준비하여, 정규적으로 드리는 번제제물로 바쳐야 한다.\"",
     Chn:"每早晨要这样预备羊羔、素祭，并油为常献的燔祭。」",
     Eng:"So the lamb and the grain offering and the oil shall be provided morning by morning for a regular burnt offering.",
     Ind:"Demikianlah mereka harus mempersembahkan domba dan korban sajian dan minyak setiap pagi sebagai korban bakaran yang tetap."
   },
   {Bible:"Ezekiel", Chapter:46, Verse:16, Page:1,
-    Kor:"<왕과 그의 토지> ○\"나 주 하나님이 말한다. 만일 왕이 자신의 아들 가운데서 어떤 아들에게 유산을 떼어서 선물로 주면, 그것은 아들의 재산이 된다. 이런 것은 유산으로서 아들의 재산이 된다.",
+    Kor:"○\"나 주 하나님이 말한다. 만일 왕이 자신의 아들 가운데서 어떤 아들에게 유산을 떼어서 선물로 주면, 그것은 아들의 재산이 된다. 이런 것은 유산으로서 아들의 재산이 된다.",
     Chn:"主耶和华如此说：「王若将产业赐给他的儿子，就成了他儿子的产业，那是他们承受为业的。",
     Eng:"\"'This is what the Sovereign LORD says: If the prince makes a gift from his inheritance to one of his sons, it will also belong to his descendants; it is to be their property by inheritance.",
     Ind:"Beginilah firman Tuhan ALLAH: Kalau raja itu memberi sesuatu pemberian dari milik pusakanya kepada salah seorang anaknya, maka itu menjadi kepunyaan anaknya, dan milik ini menjadi pusaka mereka."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Dan janganlah raja itu mengambil sesuatu dari milik pusaka rakyat, sehingga mereka terdesak dari miliknya; hanya dari miliknya boleh ia mewariskan kepada anak-anaknya supaya jangan seorangpun dari umat-Ku didesak dari miliknya.\""
   },
   {Bible:"Ezekiel", Chapter:46, Verse:19, Page:1,
-    Kor:"<성전 부엌> ○그런 다음에 그가 나를 데리고 중문 곁에 있는 통로로, 북쪽에 있는 제사장들의 거룩한 방에 이르렀는데, 거기에서 보니, 그 거룩한 방들의 뒤편 서쪽에 빈 터가 하나 있었다.",
+    Kor:"○그런 다음에 그가 나를 데리고 중문 곁에 있는 통로로, 북쪽에 있는 제사장들의 거룩한 방에 이르렀는데, 거기에서 보니, 그 거룩한 방들의 뒤편 서쪽에 빈 터가 하나 있었다.",
     Chn:"那带我的，将我从门旁进入之处、领进为祭司预备的圣屋，是朝北的，见后头西边有一块地。",
     Eng:"Then the man brought me through the entrance at the side of the gate to the sacred rooms facing north, which belonged to the priests, and showed me a place at the western end.",
     Ind:"Lalu dibawanya aku melalui pintu masuk yang di samping pintu gerbang ke bilik-bilik untuk para imam yang di sebelah utara tempat kudus, dan sungguh, di sana di bahagian barat sekali ada suatu tempat."

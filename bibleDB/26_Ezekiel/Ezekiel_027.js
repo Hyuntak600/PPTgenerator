@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",27,36);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:27, Verse:1, Page:1,
-    Kor:"<두로에 대한 애가> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话又临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:27, Verse:2, Page:1,
-    Kor:"○\"너 사람아, 두로를 두고 애가를 불러라.",
+    Kor:"\"너 사람아, 두로를 두고 애가를 불러라.",
     Chn:"「人子啊，要为泰尔作起哀歌，",
     Eng:"\"Son of man, take up a lament concerning Tyre.",
     Ind:"\"Hai engkau anak manusia, ucapkanlah suatu ratapan mengenai Tirus,"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Wilayahmu di tengah lautan; ahli bangunmu membuat keindahanmu sempurna."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:5, Page:1,
-    Kor:"a스닐 산의 잣나무로 네 옆구리의 모든 판자를 만들고, 레바논의 산에서 난 백향목으로 네 돛대를 만들었다. (a 헤르몬을 가리킴)",
+    Kor:"스닐 산의 잣나무로 네 옆구리의 모든 판자를 만들고, 레바논의 산에서 난 백향목으로 네 돛대를 만들었다.",
     Chn:"他们用示尼珥的松树做你的一切板， 用黎巴嫩的香柏树做桅杆，",
     Eng:"They made all your timbers of pine trees from Senir; they took a cedar from Lebanon to make a mast for you.",
     Ind:"Seluruh badanmu mereka buat dari kayu sanobar Senir, mereka mengambil aras Libanon membuat bagimu tiang layar."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:6, Page:1,
-    Kor:"바산의 상수리나무로 네 노를 만들었고, b키프로스 섬에서 가져 온 c회양목에 상아로 장식하여, 네 갑판을 만들었다. (b 히, '깃딤' c 타르굼을 따름. 마소라 본문은 자음 본문을 다르게 구분함. 히, '앗시리아의 딸아')",
+    Kor:"바산의 상수리나무로 네 노를 만들었고, 키프로스 섬에서 가져 온 회양목에 상아로 장식하여, 네 갑판을 만들었다.",
     Chn:"用巴珊的橡树做你的桨， 用象牙镶嵌基提海岛的黄杨木为坐板。",
     Eng:"Of oaks from Bashan they made your oars; of cypress wood from the coasts of Cyprus they made your deck, inlaid with ivory.",
     Ind:"Pohon tarbantin dari Basan dipakai untuk dayungmu; geladakmu mereka buat dari tulang gading ditatahkan di cemara dari pantai Kitim."
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"Layarmu diperbuat dari lenan halus yang berwarna-warni dari tanah Mesir; itulah tandamu. Dan tendamu diperbuat dari kain ungu tua dan kain ungu muda dari pantai Elisa."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:8, Page:1,
-    Kor:"시돈과 아르왓 주민이 너의 노를 저었다. 두로야, 너의 노련한 이들이 네 선장이 되었다.",
+    Kor:"시돈과 아르왓 주민이 너의 노를 저었다. 두로야, 너에게 있는 현인들이 네 선장이 되었다.",
     Chn:"西顿和亚发的居民作你荡桨的。 泰尔啊，你中间的智慧人作掌舵的。",
     Eng:"Men of Sidon and Arvad were your oarsmen; your skilled men, O Tyre, were aboard as your seamen.",
     Ind:"Orang Sidon dan Arwad menjadi pendayungmu; tukang-tukangmu, hai Tirus, berada padamu, mereka menjadi pelaut-pelautmu."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:9, Page:1,
-    Kor:"d그발의 장로들과 지혜 있는 사람들이 배의 틈을 막아 주었다. 바다의 모든 배와 선원들이 네 안에서 너의 물품들을 거래하였다. (d 비블로스를 가리킴)",
+    Kor:"그발의 장로들과 지혜 있는 사람들이 배의 틈을 막아 주었다. 바다의 모든 배와 선원들이 네 안에서 너의 물품들을 거래하였다.",
     Chn:"迦巴勒的老者和聪明人 都在你中间作补缝的； 一切泛海的船只和水手 都在你中间经营交易的事。",
     Eng:"Veteran craftsmen of Gebal were on board as shipwrights to caulk your seams. All the ships of the sea and their sailors came alongside to trade for your wares.",
     Ind:"Tua-tua Gebal dengan ahli-ahlinya berada padamu hendak memperbaiki kerusakan-kerusakanmu. Segala kapal laut beserta anak kapalnya berlabuh padamu hendak menukarkan barang dagangannya."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Orang Arwad dan tentaranya memanjat di atas tembok-tembokmu sekeliling dan orang Gamad di atas menara-menaramu; mereka menggantungkan perisai-perisainya pada tembok-tembokmu sekeliling, mereka membuat keindahanmu sempurna."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:12, Page:1,
-    Kor:"○너에게는 온갖 물건이 많기 때문에 e스페인이 너와 무역을 하였다. 그들은 은과 쇠와 주석과 납을 가지고 와서 너의 물품들과 바꾸어 갔다.(e 히, '다시스')",
+    Kor:"○너에게는 온갖 물건이 많기 때문에 다시스가 너와 무역을 하였다. 그들은 은과 쇠와 주석과 납을 가지고 와서 너의 물품들과 바꾸어 갔다.",
     Chn:"「他施人因你多有各类的财物，就作你的客商，拿银、铁、锡、铅兑换你的货物。",
     Eng:"\"'Tarshish did business with you because of your great wealth of goods; they exchanged silver, iron, tin and lead for your merchandise.",
     Ind:"Tarsis berdagang dengan engkau dalam segala macam harta yang banyak; mereka menukarkan perak, besi, timah putih dan timah hitam ganti barang-barangmu."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Dari Bet-Togarma mereka menukarkan kuda kereta, kuda tunggang dan bagal ganti barang-barangmu."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:15, Page:1,
-    Kor:"f드단 사람들도 너와 거래한 사람들이다. 많은 섬이 너와 무역을 하였다. 그들은 상아와 흑단을 가져다가, 물건 값으로 네게 지불하였다.(f 칠십인역에는 '로단')",
+    Kor:"드단 사람들도 너와 거래한 사람들이다. 많은 섬이 너와 무역을 하였다. 그들은 상아 뿔들과 흑단을 가져다가, 물건 값으로 네게 지불하였다.",
     Chn:"底但人与你交易，许多海岛作你的码头；他们拿象牙、乌木与你兑换。",
     Eng:"\"'The men of Rhodes traded with you, and many coastlands were your customers; they paid you with ivory tusks and ebony.",
     Ind:"Orang Rodos berdagang dengan engkau, banyak daerah pesisir menjadi daerah pasaranmu; mereka membawa kepadamu tulang gading dan kayu arang sebagai upeti."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:16, Page:1,
-    Kor:"네가 물품이 많기 때문에, g시리아도 너와 무역을 하였다. 남보석과 자주색 베와 수 놓은 천과 가는 베와 산호와 홍보석을 가지고 와서, 네 물품들과 바꾸어 갔다.(g 몇몇 히브리어 사본과 시리아어역에는 '에돔')",
+    Kor:"네게 물품이 많기 때문에, 시리아도 너와 무역을 하였다. 남보석과 자주색 베와 수 놓은 천과 가는 베와 산호와 홍보석을 가지고 와서, 네 물품들과 바꾸어 갔다.",
     Chn:"亚兰人因你的工作很多，就作你的客商；他们用绿宝石、紫色布绣货、细麻布、珊瑚、红宝石兑换你的货物。",
     Eng:"\"'Aram did business with you because of your many products; they exchanged turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.",
     Ind:"Edom berdagang dengan engkau karena banyaknya hasil-hasilmu; mereka menukarkan permata batu darah, kain ungu muda, pakaian berwarna-warna, kain lenan halus, karang dan batu delima ganti barang-barangmu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Yuda dan tanah Israel berdagang dengan engkau; mereka menukarkan gandum dari Minit, mur, madu, minyak dan balsam ganti barang-barang daganganmu."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:18, Page:1,
-    Kor:"너는 물건이 많고, 생산한 물품도 많기 때문에, 다마스쿠스도 헬본의 포도주와 자하르의 양 털을 가지고 와서, 너와 무역을 하였다.",
+    Kor:"네게는 물건이 많고, 생산한 물품도 많기 때문에, 다마스쿠스도 헬본의 포도주와 자하르의 양 털을 가지고 와서, 너와 무역을 하였다.",
     Chn:"大马士革人因你的工作很多，又因你多有各类的财物，就拿黑本酒和白羊毛与你交易。",
     Eng:"\"'Damascus, because of your many products and great wealth of goods, did business with you in wine from Helbon and wool from Zahar.",
     Ind:"Damsyik berdagang dengan engkau karena banyaknya hasil-hasilmu, karena segala macam barangmu yang banyak. Anggur dari Helbon, bulu domba dari Sakhar,"
@@ -147,19 +147,19 @@ BibleDB.add([
     Ind:"Mereka berdagang di pasar-pasarmu dalam jubah-jubah yang maha indah, kain ungu tua, pakaian yang berwarna-warni, permadani yang beraneka warna dan tali berpilin yang teguh."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:25, Page:1,
-    Kor:"다시스의 배들도 네 물품들을 싣고 항해하였다.  너는 화물선에 무겁게 물건을 가득 싣고 바다 한가운데로 나갔다.",
+    Kor:"다시스의 배들도 네 물품들을 싣고 항해하였다. '너는 화물선에 무겁게 물건을 가득 싣고 바다 한가운데로 나갔다.",
     Chn:"他施的船只接连成帮为你运货， 你便在海中丰富极其荣华。",
     Eng:"\"'The ships of Tarshish serve as carriers for your wares. You are filled with heavy cargo in the heart of the sea.",
     Ind:"Kapal-kapal Tarsis membawa barang-barang dagangan ini bagimu. Penuh dengan muatan berat engkau di tengah lautan."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:26, Page:1,
-    Kor:"너의 선원들이 너를 데리고 바다 깊은 데로 나갔을 때에, 동풍이 바다 한가운데서 너를 파선시켰다.",
+    Kor:"너의 사공들이 너를 데리고 바다 깊은 데로 나갔을 때에, 동풍이 바다 한가운데서 너를 파선시켰다.",
     Chn:"荡桨的已经把你荡到大水之处， 东风在海中将你打破。",
     Eng:"Your oarsmen take you out to the high seas. But the east wind will break you to pieces in the heart of the sea.",
     Ind:"Ke lautan luas pendayungmu membawa engkau. Tetapi badai timur melandamu di tengah lautan."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:27, Page:1,
-    Kor:"네가 멸망하는 날에 재물과, 상품과, 무역품과, 네 선원과, 네 선장과, 배의 틈을 막아 주는 사람과, 무역품을 거래하는 사람과, 배에 탄 모든 군인과, 배에 탄 사람들이 모두 바다 한가운데에 빠진다.",
+    Kor:"네가 멸망하는 날에 재물과, 상품과, 무역품과, 네 사공과, 네 선장과, 배의 틈을 막아 주는 사람과, 무역품을 거래하는 사람과, 배에 탄 모든 군인과, 배에 탄 사람들이 모두 바다 한가운데 빠진다.",
     Chn:"你的资财、物件、货物、 水手、掌舵的、 补缝的、经营交易的， 并你中间的战士和人民， 在你破坏的日子必都沉在海中。",
     Eng:"Your wealth, merchandise and wares, your mariners, seamen and shipwrights, your merchants and all your soldiers, and everyone else on board will sink into the heart of the sea on the day of your shipwreck.",
     Ind:"Hartamu, barangmu, daganganmu, anak kapalmu dan pelaut-pelautmu, tukang-tukangmu dan pedagang-pedagangmu dengan semua prajurit-prajuritmu yang ada padamu, ya, bersama seluruh penumpang-penumpangmu, terbenam dalam lautan pada hari tenggelammu."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Mendengar teriakan pelautmu gemetarlah tanah daratan."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:29, Page:1,
-    Kor:"노 젓는 사람이 모두 배에서 내린다. 선원들과, 사람들이 모두 뭍으로 올라와서,",
+    Kor:"노 젓는 사람이 모두 배에서 내린다. 사공들과, 사람들이 모두 뭍으로 올라와서,",
     Chn:"凡荡桨的和水手， 并一切泛海掌舵的， 都必下船登岸。",
     Eng:"All who handle the oars will abandon their ships; the mariners and all the seamen will stand on the shore.",
     Ind:"Mereka turun dari kapalnya, yang mengayun dayung semua. Anak kapal, pelaut semuanya ke daratan lari mereka."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Mereka menggundul diri, demi engkau, dan melilitkan kain kabung; mereka menangis, jiwa merana, karena engkau; suatu ratapan yang pahit."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:32, Page:1,
-    Kor:"그들이 너를 애도하여 애가를 부르며, 네 죽음을 이렇게 슬퍼할 것이다. 바다 한가운데서 두로처럼 파멸된 사람이 누구냐?",
+    Kor:"그들이 너를 애도하여 애가를 부르며, 네 죽음을 이렇게 슬퍼할 것이다.' '바다 한가운데서 두로처럼 파멸된 사람이 누구냐?",
     Chn:"他们哀号的时候， 为你作起哀歌哀哭， 说：有何城如泰尔？ 有何城如她在海中成为寂寞的呢？",
     Eng:"As they wail and mourn over you, they will take up a lament concerning you: \"Who was ever silenced like Tyre, surrounded by the sea?\"",
     Ind:"Dalam meratap karena engkau mereka mengucapkan, menangiskan ratapan: Siapa seperti Tirus, yang sudah dimusnahkan di tengah lautan?"
@@ -201,19 +201,19 @@ BibleDB.add([
     Ind:"Sesudah barangmu datang dari laut engkau mengenyangkan banyak bangsa-bangsa, dengan banyaknya hartamu, daganganmu engkau memperkaya raja-raja dunia."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:34, Page:1,
-    Kor:"그러나 이제 네가 파선되어, 깊은 바다에 잠기니, 네 무역품과 너와 함께 있는 선원이 너와 함께 깊이 빠져 버렸다.",
+    Kor:"그러나 이제 네가 파선되어, 깊은 바다에 잠기니, 네 무역품과 너와 함께 있는 사공이 너와 함께 깊이 빠져 버렸다.",
     Chn:"你在深水中被海浪打破的时候， 你的货物和你中间的一切人民， 就都沉下去了。",
     Eng:"Now you are shattered by the sea in the depths of the waters; your wares and all your company have gone down with you.",
     Ind:"Sekarang engkau dirusak dan dilenyapkan dari permukaan laut dan tenggelam di dasar lautan; daganganmu dan seluruh penumpangmu tenggelam dengan engkau."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:35, Page:1,
-    Kor:"섬에 사는 사람들이 네 소식을 듣고 놀라며, 그들의 왕들이 크게 두려워하여 얼굴에 수심이 가득했다.",
+    Kor:"섬에 사는 사람들이 네 소식을 듣고 놀라며, 그들의 왕들이 크게 두려워하여 얼굴에 수심이 찼다.",
     Chn:"海岛的居民为你惊奇； 他们的君王都甚恐慌， 面带愁容。",
     Eng:"All who live in the coastlands are appalled at you; their kings shudder with horror and their faces are distorted with fear.",
     Ind:"Orang pesisir kaget semua melihatmu; raja-rajanya menggigil, mukanya berkerut."
   },
   {Bible:"Ezekiel", Chapter:27, Verse:36, Page:1,
-    Kor:"뭇 민족의 상인들이 너를 비웃는다. 멸망이 너를 덮쳤으니, 너는 이제 아무것도 아니다.\"",
+    Kor:"뭇 민족의 상인들이 너를 비웃는다. 멸망이 너를 덮쳤으니, 너는 이제 아무것도 아니다.'\"",
     Chn:"各国民中的客商都向你发嘶声； 你令人惊恐， 不再存留于世，直到永远。」",
     Eng:"The merchants among the nations hiss at you; you have come to a horrible end and will be no more.'\"",
     Ind:"Pedagang bangsa-bangsa bersuit-suit terhadapmu, akhir hidupmu mendahsyatkan, dan lenyap selamanya engkau.\""

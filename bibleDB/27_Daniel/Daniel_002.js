@@ -3,13 +3,13 @@
 BibleDB.ref("Daniel",2,49);
 BibleDB.add([
   {Bible:"Daniel", Chapter:2, Verse:1, Page:1,
-    Kor:"<느부갓네살의 꿈> 느부갓네살은 왕위에 오른 지 이 년이 되는 해에, 꿈을 꾸고서, 마음이 답답하여 잠을 이루지 못하였다.",
+    Kor:"느부갓네살은 왕위에 오른 지 이 년이 되는 해에, 꿈을 꾸고서, 마음이 답답하여 잠을 이루지 못하였다.",
     Chn:"尼布甲尼撒在位第二年，他做了梦，心里烦乱，不能睡觉。",
     Eng:"In the second year of his reign, Nebuchadnezzar had dreams; his mind was troubled and he could not sleep.",
     Ind:"Pada tahun yang kedua pemerintahan Nebukadnezar bermimpilah Nebukadnezar; karena itu hatinya gelisah dan ia tidak dapat tidur."
   },
   {Bible:"Daniel", Chapter:2, Verse:2, Page:1,
-    Kor:"그래서 왕은 꾼 꿈을 알아내려고 마술사와 주술가와 점쟁이와 a점성가들을 불러들이라고 명령하니, 그들이 와서 왕 앞에 섰다.(a 또는 '갈대아 사람들')",
+    Kor:"그래서 왕은 꾼 꿈을 알아내려고 마술사와 주술가와 점쟁이와 점성가들을 불러들이라고 명령하니, 그들이 와서 왕 앞에 섰다.",
     Chn:"王吩咐人将术士、用法术的、行邪术的，和迦勒底人召来，要他们将王的梦告诉王，他们就来站在王前。",
     Eng:"So the king summoned the magicians, enchanters, sorcerers and astrologers to tell him what he had dreamed. When they came in and stood before the king,",
     Ind:"Lalu raja menyuruh memanggil orang-orang berilmu, ahli jampi, ahli sihir dan para Kasdim, untuk menerangkan kepadanya tentang mimpinya itu; maka datanglah mereka dan berdiri di hadapan raja."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Kata raja kepada mereka: \"Aku bermimpi, dan hatiku gelisah, karena ingin mengetahui mimpi itu.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:4, Page:1,
-    Kor:"○a점성가들이 아람 말로 왕에게 아뢰었다. b\"임금님의 만수무강을 빕니다. 그 꿈을 종들에게 말씀하여 주시면, 해몽하여 드리겠습니다.\"(a 또는 '갈대아 사람들'  여기에서부터 7장까지 아람어로 기록되어 있음(2:4하반-7:28))",
+    Kor:"○점성가들이 아람 말로 왕에게 아뢰었다. \"임금님의 만수무강을 빕니다. 그 꿈을 종들에게 말씀하여 주시면, 해몽하여 드리겠습니다.\"",
     Chn:"迦勒底人用亚兰的言语对王说：「愿王万岁！请将那梦告诉仆人，仆人就可以讲解。」",
     Eng:"Then the astrologers answered the king in Aramaic, \"O king, live forever! Tell your servants the dream, and we will interpret it.\"",
     Ind:"Lalu berkatalah para Kasdim itu kepada raja (dalam bahasa Aram): \"Ya raja, kekallah hidupmu! Ceriterakanlah kepada hamba-hambamu mimpi itu, maka kami akan memberitahukan maknanya.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:5, Page:1,
-    Kor:"○그러자 왕이 a점성가들에게 말하였다. \"c나의 명령은 확고하다. 너희가 그 꿈의 내용과 해몽을 나에게 말해 주지 못하면, 너희의 몸은 토막이 날 것이며, 너희의 집은 쓰레기 더미가 될 것이다.(a 또는 '갈대아 사람들' c 또는 '내가 명령한다')",
+    Kor:"○그러자 왕이 점성가들에게 말하였다. \"나의 명령은 확고하다. 너희가 그 꿈의 내용과 해몽을 나에게 말해 주지 못하면, 너희의 몸은 토막이 날 것이며, 너희의 집은 쓰레기 더미가 될 것이다.",
     Chn:"王回答迦勒底人说：「梦我已经忘了，你们若不将梦和梦的讲解告诉我，就必被凌迟，你们的房屋必成为粪堆；",
     Eng:"The king replied to the astrologers, \"This is what I have firmly decided: If you do not tell me what my dream was and interpret it, I will have you cut into pieces and your houses turned into piles of rubble.",
     Ind:"Tetapi raja menjawab para Kasdim itu: \"Aku telah mengambil keputusan, yakni jika kamu tidak memberitahukan kepadaku mimpi itu dengan maknanya, maka kamu akan dipenggal-penggal dan rumah-rumahmu akan dirobohkan menjadi timbunan puing;"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Mereka menjawab pula: \"Silakan tuanku raja menceriterakan mimpi itu kepada hamba-hambanya ini, maka kami akan memberitahukan maknanya.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:8, Page:1,
-    Kor:"○왕이 호령하였다. \"과연 내가 생각한 대로구나! d나의 명령이 확고한 것을 알고서, 너희는 지금 시간을 벌려고 한다.(d 또는 '내가 명령을 내린 것을')",
+    Kor:"○왕이 호령하였다. \"과연 내가 생각한 대로구나! 나의 명령이 확고한 것을 알고서, 너희는 지금 시간을 벌려고 한다.",
     Chn:"王回答说：「我准知道你们是故意迟延，因为你们知道那梦我已经忘了。",
     Eng:"Then the king answered, \"I am certain that you are trying to gain time, because you realize that this is what I have firmly decided:",
     Ind:"Jawab raja: \"Aku tahu benar-benar, bahwa kamu mencoba mengulur-ulur waktu, karena kamu melihat, bahwa aku telah mengambil keputusan,"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"yakni jika kamu tidak dapat memberitahukan kepadaku mimpi itu, maka kamu akan kena hukuman yang sama; dan aku tahu bahwa kamu telah bermufakat untuk mengatakan kepadaku hal-hal yang bohong dan busuk, sampai keadaan berubah. Oleh sebab itu ceriterakanlah kepadaku mimpi itu, supaya aku tahu, bahwa kamu dapat memberitahukan maknanya juga kepadaku.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:10, Page:1,
-    Kor:"○a점성가들이 왕에게 아뢰었다. \"임금님께서 아시고자 하시는 그 일을 임금님께 알려 드릴 수 있는 사람은 세상에 아무도 없습니다. 일찍이 그 어떤 위대한 왕이나 통치자도 마술사나 주술가나 점성가들에게, 이와 같은 일을 물어 본 적이 없습니다.(a 또는 '갈대아 사람들')",
+    Kor:"○점성가들이 왕에게 아뢰었다. \"임금님께서 아시고자 하시는 그 일을 임금님께 알려 드릴 수 있는 사람은 세상에 아무도 없습니다. 일찍이 그 어떤 위대한 왕이나 통치자도 마술사나 주술가나 점성가들에게, 이와 같은 일을 물어 본 적이 없습니다.",
     Chn:"迦勒底人在王面前回答说：「世上没有人能将王所问的事说出来；因为没有君王、大臣、掌权的向术士，或用法术的，或迦勒底人问过这样的事。",
     Eng:"The astrologers answered the king, \"There is not a man on earth who can do what the king asks! No king, however great and mighty, has ever asked such a thing of any magician or enchanter or astrologer.",
     Ind:"Para Kasdim itu menjawab raja: \"Tidak ada seorangpun di muka bumi yang dapat memberitahukan apa yang diminta tuanku raja! Dan tidak pernah seorang raja, bagaimanapun agungnya dan besar kuasanya, telah meminta hal sedemikian dari seorang berilmu atau seorang ahli jampi atau seorang Kasdim."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Ketika titah dikeluarkan supaya orang-orang bijaksana dibunuh, maka Daniel dan teman-temannyapun terancam akan dibunuh."
   },
   {Bible:"Daniel", Chapter:2, Verse:14, Page:1,
-    Kor:"<하나님이 다니엘에게 꿈을 일러주시다> ○다니엘은 바빌론의 지혜자들을 죽이려고 나온 왕의 시위대 장관 아리옥에게 가서, 슬기로운 말로 조심스럽게",
+    Kor:"○다니엘은 바빌론의 지혜자들을 죽이려고 나온 왕의 시위대 장관 아리옥에게 가서, 슬기로운 말로 조심스럽게",
     Chn:"王的护卫长亚略出来，要杀巴比伦的哲士，但以理就用婉言回答他，",
     Eng:"When Arioch, the commander of the king's guard, had gone out to put to death the wise men of Babylon, Daniel spoke to him with wisdom and tact.",
     Ind:"Lalu berkatalah Daniel dengan cerdik dan bijaksana kepada Ariokh, pemimpin pengawal raja yang telah pergi untuk membunuh orang-orang bijaksana di Babel itu,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"katanya kepada Ariokh, pembesar raja itu: \"Mengapa titah yang begitu keras ini dikeluarkan oleh raja?\" Lalu Ariokh memberitahukan hal itu kepada Daniel."
   },
   {Bible:"Daniel", Chapter:2, Verse:16, Page:1,
-    Kor:"○다니엘이 곧 왕에게로 가서 아뢰었다. \"임금님께 임금님의 꿈을 해몽해 드릴 수 있는 e시간을 저에게 주십시오.\"(e 또는 '기한을 늦추어 주십시오')",
+    Kor:"○다니엘이 곧 왕에게로 가서 아뢰었다. \"임금님께 임금님의 꿈을 해몽해 드릴 수 있는 시간을 저에게 주십시오.\"",
     Chn:"但以理遂进去求王宽限，就可以将梦的讲解告诉王。",
     Eng:"At this, Daniel went in to the king and asked for time, so that he might interpret the dream for him.",
     Ind:"Maka Daniel menghadap raja dan meminta kepadanya, supaya ia diberi waktu untuk memberitahukan makna itu kepada raja."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Maka rahasia itu disingkapkan kepada Daniel dalam suatu penglihatan malam. Lalu Daniel memuji Allah semesta langit."
   },
   {Bible:"Daniel", Chapter:2, Verse:20, Page:1,
-    Kor:"다니엘은 다음과 같이 찬송하였다.  \"지혜와 권능이 하나님의 것이니, 영원부터 영원까지 하나님의 이름을 찬송하여라.",
+    Kor:"다니엘은 다음과 같이 찬송하였다. \"지혜와 권능이 하나님의 것이니, 영원부터 영원까지 하나님의 이름을 찬송하여라.",
     Chn:"但以理说：「　神的名是应当称颂的！从亘古直到永远，因为智慧能力都属乎他。",
     Eng:"and said: \"Praise be to the name of God for ever and ever; wisdom and power are his.",
     Ind:"Berkatalah Daniel: \"Terpujilah nama Allah dari selama-lamanya sampai selama-lamanya, sebab dari pada Dialah hikmat dan kekuatan!"
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Dialah yang menyingkapkan hal-hal yang tidak terduga dan yang tersembunyi, Dia tahu apa yang ada di dalam gelap, dan terang ada pada-Nya."
   },
   {Bible:"Daniel", Chapter:2, Verse:23, Page:1,
-    Kor:"나의 조상을 돌보신 하나님, 나에게 지혜와 힘을 주시며 주님께 간구한 것을 들어주시며 왕이 명령한 것을 알게 해주셨으니, 주님께 감사하며 찬양을 드립니다.\"",
+    Kor:"나의 조상을 돌보신 하나님, 나에게 지혜와 힘을 주시며 주께 간구한 것을 들어주시며 왕이 명령한 것을 알게 해주셨으니, 주께 감사하며 찬양을 드립니다.\"",
     Chn:"我列祖的　神啊，我感谢你，赞美你；因你将智慧才能赐给我，允准我们所求的，把王的事给我们指明。」",
     Eng:"I thank and praise you, O God of my fathers: You have given me wisdom and power, you have made known to me what we asked of you, you have made known to us the dream of the king.\"",
     Ind:"Ya Allah nenek moyangku, kupuji dan kumuliakan Engkau, sebab Engkau mengaruniakan kepadaku hikmat dan kekuatan, dan telah memberitahukan kepadaku sekarang apa yang kami mohon kepada-Mu: Engkau telah memberitahukan kepada kami hal yang dipersoalkan raja.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:24, Page:1,
-    Kor:"<다니엘이 꿈을 해몽하다> ○그런 다음에, 다니엘은 아리옥에게로 갔다. 그는 바빌론의 지혜자들을 죽이라는 왕의 명령을 받은 사람이다. 다니엘이 그에게 이렇게 말하였다. \"바빌론의 지혜자들을 죽이지 마시고, 나를 임금님께 데려다 주십시오. 임금님께 꿈을 해몽해 드리겠습니다.\"",
+    Kor:"○그런 다음에, 다니엘은 아리옥에게로 갔다. 그는 바빌론의 지혜자들을 죽이라는 왕의 명령을 받은 사람이다. 다니엘이 그에게 이렇게 말하였다. \"바빌론의 지혜자들을 죽이지 마시고, 나를 임금님께 데려다 주십시오. 임금님께 꿈을 해몽해 드리겠습니다.\"",
     Chn:"于是，但以理进去见亚略，就是王所派灭绝巴比伦哲士的，对他说：「不要灭绝巴比伦的哲士，求你领我到王面前，我要将梦的讲解告诉王。」",
     Eng:"Then Daniel went to Arioch, whom the king had appointed to execute the wise men of Babylon, and said to him, \"Do not execute the wise men of Babylon. Take me to the king, and I will interpret his dream for him.\"",
     Ind:"Sebab itu pergilah Daniel kepada Ariokh yang telah ditugaskan raja untuk melenyapkan orang-orang bijaksana di Babel; maka pergilah ia serta berkata kepadanya, demikian: \"Orang-orang bijaksana di Babel itu jangan kaulenyapkan! Bawalah aku menghadap raja, maka aku akan memberitahukan kepada raja makna itu!\""
@@ -273,7 +273,7 @@ BibleDB.add([
     Ind:"tepat seperti yang tuanku lihat, bahwa tanpa perbuatan tangan manusia sebuah batu terungkit lepas dari gunung dan meremukkan besi, tembaga, tanah liat, perak dan emas itu. Allah yang maha besar telah memberitahukan kepada tuanku raja apa yang akan terjadi di kemudian hari; mimpi itu adalah benar dan maknanya dapat dipercayai.\""
   },
   {Bible:"Daniel", Chapter:2, Verse:46, Page:1,
-    Kor:"<왕이 다니엘을 높이다> ○느부갓네살 왕이 엎드려서 다니엘에게 절하고, 예물과 향품을 그에게 주도록 명령을 내렸다.",
+    Kor:"○느부갓네살 왕이 엎드려서 다니엘에게 절하고, 예물과 향품을 그에게 주도록 명령을 내렸다.",
     Chn:"当时，尼布甲尼撒王俯伏在地，向但以理下拜，并且吩咐人给他奉上供物和香品。",
     Eng:"Then King Nebuchadnezzar fell prostrate before Daniel and paid him honor and ordered that an offering and incense be presented to him.",
     Ind:"Lalu sujudlah raja Nebukadnezar serta menyembah Daniel; juga dititahkannya mempersembahkan korban dan bau-bauan kepadanya."

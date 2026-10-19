@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",2,34);
 BibleDB.add([
   {Bible:"Numbers", Chapter:2, Verse:1, Page:1,
-    Kor:"<부대 편성 및 행군 순서> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron:",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Pasukannya terdiri dari lima puluh tiga ribu empat ratus orang yang dicatat."
   },
   {Bible:"Numbers", Chapter:2, Verse:31, Page:1,
-    Kor:"단 진영에 소속된 각 부대의 군인 수는 모두 더하여 십오만 칠천육백 명이다. 행군할 때에는 단 진영이 그들의 부대기를 앞세우고 마지막으로 출발한다.\"",
+    Kor:"단 진영에 소속된 각 부대의 군인 수는 모두 더하여 십오만 칠천육백 명이다. 행군할 때에는 단 진영이 그들의 부대기를 앞세우고 마지막으로 출발한다.",
     Chn:"凡但营被数的，共有十五万七千六百名，要归本纛作末队往前行。」",
     Eng:"All the men assigned to the camp of Dan number 157,600. They will set out last, under their standards.",
     Ind:"Jumlah orang yang dicatat dalam laskar Dan ada seratus lima puluh tujuh ribu enam ratus orang. Merekalah yang terkemudian berangkat, menurut panji-panji mereka.\""
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Itulah pencatatan orang Israel menurut suku-suku mereka. Jumlah orang yang dicatat dalam laskar-laskar dengan pasukan-pasukannya ada enam ratus tiga ribu lima ratus lima puluh orang."
   },
   {Bible:"Numbers", Chapter:2, Verse:33, Page:1,
-    Kor:"그러나 이스라엘 자손 가운데서 레위 사람들은, 주님께서 모세에게 명하신 대로, 병적부에 올리지 않았다.",
+    Kor:"그러나 이스라엘 자손 가운데서 레위 사람들은, 주께서 모세에게 명하신 대로, 병적부에 올리지 않았다.",
     Chn:"惟独利未人没有数在以色列人中，是照耶和华所吩咐摩西的。",
     Eng:"The Levites, however, were not counted along with the other Israelites, as the LORD commanded Moses.",
     Ind:"Tetapi orang Lewi tidak turut dicatat bersama-sama dengan orang Israel, seperti yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Numbers", Chapter:2, Verse:34, Page:1,
-    Kor:"○이처럼 이스라엘 자손은, 주님께서 모세에게 명하신 대로 다 하였다. 그리하여 그들은 각기 가문별, 가족별로, 자기들의 깃발 아래에, 진도 치고 행군도 하였다.",
+    Kor:"○이처럼 이스라엘 자손은, 주께서 모세에게 명하신 대로 다 하였다. 그리하여 그들은 각기 가문별, 가족별로, 자기들의 깃발 아래에, 진도 치고 행군도 하였다.",
     Chn:"以色列人就这样行，各人照他们的家室、宗族归于本纛，安营起行，都是照耶和华所吩咐摩西的。",
     Eng:"So the Israelites did everything the LORD commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each with his clan and family.",
     Ind:"Maka orang Israel berbuat demikian; tepat seperti yang diperintahkan TUHAN kepada Musa, demikianlah mereka berkemah menurut panji-panji mereka, dan demikianlah mereka berangkat, masing-masing menurut kaumnya dan sukunya."

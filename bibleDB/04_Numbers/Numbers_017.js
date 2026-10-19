@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",17,13);
 BibleDB.add([
   {Bible:"Numbers", Chapter:17, Verse:1, Page:1,
-    Kor:"<아론의 지팡이> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Pada tongkat Lewi harus kautuliskan nama Harun. Bagi setiap kepala suku harus ada satu tongkat."
   },
   {Bible:"Numbers", Chapter:17, Verse:4, Page:1,
-    Kor:"너는 그것들을 회막 안, 내가 너희에게 나 자신을 알리는 곳인 그 a증거궤 앞에 두어라.(a 또는 '법궤')",
+    Kor:"너는 그것들을 회막 안, 내가 너희에게 나 자신을 알리는 곳인 그 증거궤 앞에 두어라.",
     Chn:"你要把这些杖存在会幕内法柜前，就是我与你们相会之处。",
     Eng:"Place them in the Tent of Meeting in front of the Testimony, where I meet with you.",
     Ind:"Kemudian haruslah kauletakkan semuanya itu di dalam Kemah Pertemuan di hadapan tabut hukum, tempat Aku biasa bertemu dengan kamu."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Setelah Musa berbicara kepada orang Israel, maka semua pemimpin mereka memberikan kepadanya satu tongkat dari setiap pemimpin, menurut suku-suku mereka, dua belas tongkat, dan tongkat Harun ada di antara tongkat-tongkat itu."
   },
   {Bible:"Numbers", Chapter:17, Verse:7, Page:1,
-    Kor:"모세는 그 지팡이들을 증거의 장막 안, 주님 앞에 놓았다.",
+    Kor:"모세는 그 지팡이들을 증거의 장막 안, 주 앞에 놓았다.",
     Chn:"摩西就把杖存在法柜的帐幕内，在耶和华面前。",
     Eng:"Moses placed the staffs before the LORD in the Tent of the Testimony.",
     Ind:"Musa meletakkan tongkat-tongkat itu di hadapan TUHAN dalam kemah hukum Allah."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Kemudian Musa membawa semua tongkat itu keluar dari hadapan TUHAN kepada seluruh orang Israel; mereka melihatnya lalu mengambil tongkatnya masing-masing."
   },
   {Bible:"Numbers", Chapter:17, Verse:10, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"아론의 지팡이는 증거궤 앞으로 도로 가져다 놓아, 반역하는 사람들에게 표적이 되도록 잘 간직하여라. 너는 다시는 그들이 나를 거역하여 원망하지 못하게 하여라. 그래야만 그들이 죽지 아니할 것이다.\"",
+    Kor:"○주께서 모세에게 말씀하셨다. \"아론의 지팡이는 증거궤 앞으로 도로 가져다 놓아, 반역하는 사람들에게 표적이 되도록 잘 간직하여라. 너는 다시는 그들이 나를 거역하여 원망하지 못하게 하여라. 그래야만 그들이 죽지 아니할 것이다.\"",
     Chn:"耶和华吩咐摩西说：「把亚伦的杖还放在法柜前，给这些背叛之子留作记号。这样，你就使他们向我发的怨言止息，免得他们死亡。」",
     Eng:"The LORD said to Moses, \"Put back Aaron's staff in front of the Testimony, to be kept as a sign to the rebellious. This will put an end to their grumbling against me, so that they will not die.\"",
     Ind:"TUHAN berfirman kepada Musa: \"Kembalikanlah tongkat Harun ke hadapan tabut hukum untuk disimpan menjadi tanda bagi orang-orang durhaka, sehingga engkau mengakhiri sungut-sungut mereka dan tidak Kudengar lagi, supaya mereka jangan mati.\""
   },
   {Bible:"Numbers", Chapter:17, Verse:11, Page:1,
-    Kor:"모세는 주님께서 명하신 대로 하였다.",
+    Kor:"모세는 주께서 명하신 대로 하였다.",
     Chn:"摩西就这样行。耶和华怎样吩咐他，他就怎样行了。",
     Eng:"Moses did just as the LORD commanded him.",
     Ind:"Dan Musa berbuat demikian; seperti yang diperintahkan TUHAN kepadanya, demikianlah diperbuatnya."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Tetapi orang Israel berkata kepada Musa: \"Sesungguhnya kami akan mati, kami akan binasa, kami semuanya akan binasa."
   },
   {Bible:"Numbers", Chapter:17, Verse:13, Page:1,
-    Kor:"가까이 가는 사람, 곧 주님의 성막에 가까이 가는 사람은 모두 죽을 터이니, 우리가 이렇게 망하는 것으로 끝장이 나야 합니까?\"",
+    Kor:"가까이 가는 사람, 곧 주의 성막에 가까이 가는 사람은 모두 죽을 터이니, 우리가 이렇게 망하는 것으로 끝장이 나야 합니까?\"",
     Chn:"凡挨近耶和华帐幕的是必死的。我们都要死亡吗？」",
     Eng:"Anyone who even comes near the tabernacle of the LORD will die. Are we all going to die?\"",
     Ind:"Siapapun juga yang mendekat ke Kemah Suci TUHAN, niscayalah ia akan mati. Haruskah kami habis binasa?\""

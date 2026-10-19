@@ -3,13 +3,13 @@
 BibleDB.ref("Obadiah",1,21);
 BibleDB.add([
   {Bible:"Obadiah", Chapter:1, Verse:1, Page:1,
-    Kor:"이것은 오바댜가 받은 계시이다. 주 하나님이 에돔을 두고 하신 말씀이다. <주님께서 에돔을 심판하시다> 주님께서 여러 민족에게 천사를 보내시면서 \"너희는 일어나라. 에돔을 쳐부수러 가자!\" 하신 말씀을 우리가 들었다.",
+    Kor:"이것은 오바댜가 받은 계시다. 주 하나님이 에돔을 두고 하신 말씀이다. 주께서 여러 민족에게 천사를 보내시면서 \"너희는 일어나라. 에돔을 쳐부수러 가자!\" 하신 말씀을 우리가 들었다.",
     Chn:"俄巴底亚得了耶和华的默示。 论以东说： 我从耶和华那里听见信息， 并有使者被差往列国去， 说：起来吧， 一同起来与以东争战！",
     Eng:"The vision of Obadiah. This is what the Sovereign LORD says about Edom--We have heard a message from the LORD: An envoy was sent to the nations to say, \"Rise, and let us go against her for battle\"--",
     Ind:"Penglihatan Obaja. Beginilah firman Tuhan ALLAH tentang Edom--suatu kabar telah kami dengar dari TUHAN, seorang utusan telah disuruh ke tengah bangsa-bangsa: \"Bangunlah, marilah kita bangkit memeranginya!\" --"
   },
   {Bible:"Obadiah", Chapter:1, Verse:2, Page:1,
-    Kor:"a\"나는 여러 민족 가운데서 b너를 가장 보잘것없이 만들겠다. 모든 사람이 너를 경멸할 것이다. (a 주님의 말씀 b 에돔을 두고 말함)",
+    Kor:"\"나는 여러 민족 가운데서 너를 가장 보잘것없이 만들겠다. 모든 사람이 너를 경멸할 것이다.",
     Chn:"我使你—以东在列国中为最小的， 被人大大藐视。",
     Eng:"\"See, I will make you small among the nations; you will be utterly despised.",
     Ind:"Sesungguhnya, Aku membuat engkau kecil di antara bangsa-bangsa, engkau dihinakan sangat."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Sekalipun engkau terbang tinggi seperti burung rajawali, bahkan, sekalipun sarangmu ditempatkan di antara bintang-bintang, dari sanapun Aku akan menurunkan engkau, --demikianlah firman TUHAN."
   },
   {Bible:"Obadiah", Chapter:1, Verse:5, Page:1,
-    Kor:"<에돔의 멸망> \"너에게 도둑 떼가 들거나 밤중에 강도 떼가 들이닥쳐도, 자기들에게 필요한 만큼만 빼앗아 간다. 포도를 털어가는 사람들이 들이닥쳐도, 포도송이 얼마쯤은 남겨 놓는다.",
+    Kor:"\"너에게 도둑 떼가 들거나 밤중에 강도 떼가 들이닥쳐도, 자기들에게 필요한 만큼만 빼앗아 간다. 포도를 털어가는 사람들이 들이닥쳐도, 포도송이 얼마쯤은 남겨 놓는다.",
     Chn:"盗贼若来在你那里， 或强盗夜间而来— 你何竟被剪除— 岂不偷窃直到够了呢？ 摘葡萄的若来到你那里， 岂不剩下些葡萄呢？",
     Eng:"\"If thieves came to you, if robbers in the night--Oh, what a disaster awaits you--would they not steal only as much as they wanted? If grape pickers came to you, would they not leave a few grapes?",
     Ind:"Jika malam-malam pencuri atau perampok datang kepadamu--betapa engkau dibinasakannya--bukankah mereka akan mencuri seberapa yang diperlukannya? Jika pemetik buah anggur datang kepadamu, bukankah mereka akan meninggalkan sisa-sisa pemetikannya?"
   },
   {Bible:"Obadiah", Chapter:1, Verse:6, Page:1,
-    Kor:"그런데 c에서야, 너는 어찌 그처럼 샅샅이 털렸느냐? 네가 깊이 숨겨 둔 보물마저 다 빼앗기고 말았다. (c 에돔의 조상, 여기에서는 에돔)",
+    Kor:"그런데 에서야, 너는 어찌 그처럼 샅샅이 털렸느냐? 네가 깊이 숨겨 둔 보물마저 다 빼앗기고 말았다.",
     Chn:"以扫的隐密处何竟被搜寻？ 他隐藏的宝物何竟被查出？",
     Eng:"But how Esau will be ransacked, his hidden treasures pillaged!",
     Ind:"Betapa kaum Esau digeledah, betapa harta bendanya yang tersembunyi dicari-cari!"
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Juga para pahlawanmu, hai Teman, akan tertegun, supaya semua orang di pegunungan Esau lenyap terbunuh."
   },
   {Bible:"Obadiah", Chapter:1, Verse:10, Page:1,
-    Kor:"<에돔의 죄> \"네 아우 야곱에게 저지른 그 폭행 때문에 네가 치욕을 당할 것이며, 아주 망할 것이다.",
+    Kor:"\"네 아우 야곱에게 저지른 그 폭행 때문에 네가 치욕을 당할 것이며, 아주 망할 것이다.",
     Chn:"因你向兄弟雅各行强暴， 羞愧必遮盖你， 你也必永远断绝。",
     Eng:"Because of the violence against your brother Jacob, you will be covered with shame; you will be destroyed forever.",
     Ind:"Karena kekerasan terhadap saudaramu Yakub, maka cela akan meliputi engkau, dan engkau akan dilenyapkan untuk selama-lamanya."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Janganlah berdiri di persimpangan untuk melenyapkan orang-orangnya yang luput, dan janganlah serahkan orang-orangnya yang terlepas pada hari kesusahan."
   },
   {Bible:"Obadiah", Chapter:1, Verse:15, Page:1,
-    Kor:"<주님께서 세계 만민을 심판하실 날> \"내가 모든 민족을 심판할 주의 날이 다가온다. b네가 한 대로 당할 것이다. 네가 준 것을 네가 도로 받을 것이다. (b 에돔을 두고 말함)",
+    Kor:"\"내가 모든 민족을 심판할 주의 날이 다가온다. 네가 한 대로 당할 것이다. 네가 준 것을 네가 도로 받을 것이다.",
     Chn:"耶和华降罚的日子临近万国。 你怎样行，他也必照样向你行； 你的报应必归到你头上。",
     Eng:"\"The day of the LORD is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head.",
     Ind:"Sebab telah dekat hari TUHAN menimpa segala bangsa. Seperti yang engkau lakukan, demikianlah akan dilakukan kepadamu, perbuatanmu akan kembali menimpa kepalamu sendiri."
   },
   {Bible:"Obadiah", Chapter:1, Verse:16, Page:1,
-    Kor:"d너희가 e내 거룩한 산에서 쓴 잔을 마셨다. 그러나 이제 온 세계 모든 민족이 더욱더 쓴 잔을 마실 것이다. 마지막 한 방울까지 다 마시고 망하여 없어질 것이다.\" (d 이스라엘을 두고 말함 e 시온 산을 가리킴)",
+    Kor:"너희가 내 거룩한 산에서 쓴 잔을 마셨다. 그러나 이제 온 세계 모든 민족이 더욱더 쓴 잔을 마실 것이다. 마지막 한 방울까지 다 마시고 망하여 없어질 것이다.\"",
     Chn:"你们犹大人在我圣山怎样喝了苦杯， 万国也必照样常常地喝； 且喝且咽，他们就归于无有。",
     Eng:"Just as you drank on my holy hill, so all the nations will drink continually; they will drink and drink and be as if they had never been.",
     Ind:"Sesungguhnya, seperti kamu telah minum di atas gunung-Ku yang kudus, segala bangsapun akan minum dengan tidak henti-hentinya; bahkan, mereka akan minum dengan lahap, dan mereka akan menjadi seakan-akan mereka tidak pernah ada."
   },
   {Bible:"Obadiah", Chapter:1, Verse:17, Page:1,
-    Kor:"<이스라엘의 승리> \"그러나 더러는 시온 산으로 피하고 시온 산은 거룩한 곳이 될 것이다. 그 때에 야곱의 집은 다시 유산을 차지할 것이다.",
+    Kor:"\"그러나 더러는 시온 산으로 피하고 시온 산은 거룩한 곳이 될 것이다. 그 때에 야곱의 집은 다시 유산을 차지할 것이다.",
     Chn:"在锡安山必有逃脱的人， 那山也必成圣； 雅各家必得原有的产业。",
     Eng:"But on Mount Zion will be deliverance; it will be holy, and the house of Jacob will possess its inheritance.",
     Ind:"Tetapi di gunung Sion akan ada orang-orang yang terluput, dan gunung itu akan menjadi tempat kudus; dan kaum keturunan Yakub akan memiliki pula tanah miliknya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Kaum keturunan Yakub akan menjadi api dan kaum keturunan Yusuf menjadi nyala api, dan kaum keturunan Esau menjadi tunggul gandum: mereka akan membakar dan memakan habis sekaliannya, dan dari kaum keturunan Esau tidak ada seorangpun yang terlepas, sebab Tuhanlah yang berfirman demikian."
   },
   {Bible:"Obadiah", Chapter:1, Verse:19, Page:1,
-    Kor:"<새 이스라엘> \"네겝 지방에서 올라온 내 백성이 에서의 산악지대를 차지하고, 평지에서 올라온 내 백성은 블레셋 땅을 차지할 것이다. 그들은 에브라임의 영토와 사마리아의 영토를 차지할 것이다. 베냐민은 길르앗을 차지할 것이다.",
+    Kor:"\"네겝 지방에서 올라온 내 백성이 에서의 산악지대를 차지하고, 평지에서 올라온 내 백성은 블레셋 땅을 차지할 것이다. 그들은 에브라임의 영토와 사마리아의 영토를 차지할 것이다. 베냐민은 길르앗을 차지할 것이다.",
     Chn:"南地的人必得以扫山； 高原的人必得非利士地， 也得以法莲地和撒马利亚地； 便雅悯人必得基列。",
     Eng:"People from the Negev will occupy the mountains of Esau, and people from the foothills will possess the land of the Philistines. They will occupy the fields of Ephraim and Samaria, and Benjamin will possess Gilead.",
     Ind:"Maka orang-orang Tanah Negeb akan memiliki pegunungan Esau, dan orang-orang Daerah Bukit akan memiliki tanah orang Filistin. Mereka akan memiliki daerah Efraim dan daerah Samaria, dan suku Benyamin akan memiliki daerah Gilead."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Orang-orang Israel yang diangkut ke dalam pembuangan akan memiliki tanah orang Kanaan sampai ke Zarfat; dan orang-orang Yerusalem yang diangkut ke dalam pembuangan, yang ada di Sefarad, akan memiliki kota-kota di Tanah Negeb."
   },
   {Bible:"Obadiah", Chapter:1, Verse:21, Page:1,
-    Kor:"f구원자들이 시온 산에 올라와서 에서의 영토를 다스릴 것이다. 나라가 주의 것이 될 것이다.\" (f 또는 '구원받은 사람들이……')",
+    Kor:"구원자들이 시온 산에 올라와서 에서의 영토를 다스릴 것이다. 나라가 주의 것이 될 것이다.\"",
     Chn:"必有拯救者上到锡安山，审判以扫山； 国度就归耶和华了。",
     Eng:"Deliverers will go up on Mount Zion to govern the mountains of Esau. And the kingdom will be the Lord's.",
     Ind:"Penyelamat-penyelamat akan naik ke atas gunung Sion untuk menghukumkan pegunungan Esau; maka Tuhanlah yang akan empunya kerajaan itu."

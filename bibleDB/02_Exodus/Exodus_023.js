@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",23,33);
 BibleDB.add([
   {Bible:"Exodus", Chapter:23, Verse:1, Page:1,
-    Kor:"<정의와 복지에 관한 법> \"너희는 근거없는 말을 해서는 안 된다. 거짓 증언을 하여 죄인의 편을 들어서는 안 된다.",
+    Kor:"\"너희는 근거없는 말을 해서는 안 된다. 거짓 증언을 하여 죄인의 편을 들어서는 안 된다.",
     Chn:"「不可随伙布散谣言；不可与恶人连手妄作见证。",
     Eng:"\"Do not spread false reports. Do not help a wicked man by being a malicious witness.",
     Ind:"\"Janganlah engkau menyebarkan kabar bohong; janganlah engkau membantu orang yang bersalah dengan menjadi saksi yang tidak benar."
@@ -21,19 +21,19 @@ BibleDB.add([
     Ind:"Juga janganlah memihak kepada orang miskin dalam perkaranya."
   },
   {Bible:"Exodus", Chapter:23, Verse:4, Page:1,
-    Kor:"○너희는 원수의 소나 나귀가 길을 잃고 헤매는 것을 보거든, 반드시 그것을 임자에게 돌려주어야 한다.",
+    Kor:"○너희는, 원수의 소나 나귀가 길을 잃고 헤매는 것을 보거든, 반드시 그것을 임자에게 돌려주어야 한다.",
     Chn:"「若遇见你仇敌的牛或驴失迷了路，总要牵回来交给他。",
     Eng:"\"If you come across your enemy's ox or donkey wandering off, be sure to take it back to him.",
     Ind:"Apabila engkau melihat lembu musuhmu atau keledainya yang sesat, maka segeralah kaukembalikan binatang itu."
   },
   {Bible:"Exodus", Chapter:23, Verse:5, Page:1,
-    Kor:"너희가 너희를 미워하는 사람의 나귀가 짐에 눌려서 쓰러진 것을 보거든, 그것을 그대로 내버려 두지 말고, 반드시 임자가 나귀를 일으켜 세우는 것을 도와 주어야 한다.",
+    Kor:"너희가, 너희를 미워하는 사람의 나귀가 짐에 눌려서 쓰러진 것을 보거든, 그것을 그대로 내버려 두지 말고, 반드시 임자가 나귀를 일으켜 세우는 것을 도와 주어야 한다.",
     Chn:"若看见恨你人的驴压卧在重驮之下，不可走开，务要和驴主一同抬开重驮。",
     Eng:"If you see the donkey of someone who hates you fallen down under its load, do not leave it there; be sure you help him with it.",
     Ind:"Apabila engkau melihat rebah keledai musuhmu karena berat bebannya, maka janganlah engkau enggan menolongnya. Haruslah engkau rela menolong dia dengan membongkar muatan keledainya."
   },
   {Bible:"Exodus", Chapter:23, Verse:6, Page:1,
-    Kor:"○너희는 가난한 사람의 송사라고 해서 그에게 불리한 판결을 내려서는 안 된다.",
+    Kor:"○너희는 가난한 사람의 송사라고 해서, 그에게 불리한 판결을 내려서는 안 된다.",
     Chn:"「不可在穷人争讼的事上屈枉正直。",
     Eng:"\"Do not deny justice to your poor people in their lawsuits.",
     Ind:"Janganlah engkau memperkosa hak orang miskin di antaramu dalam perkaranya."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Orang asing janganlah kamu tekan, karena kamu sendiri telah mengenal keadaan jiwa orang asing, sebab kamupun dahulu adalah orang asing di tanah Mesir."
   },
   {Bible:"Exodus", Chapter:23, Verse:10, Page:1,
-    Kor:"<안식년과 안식일에 관한 법> ○\"너희는 여섯 해 동안은 밭에 씨를 뿌려서, 그 소출을 거두어들이고,",
+    Kor:"○\"너희는 여섯 해 동안은 밭에 씨를 뿌려서, 그 소출을 거두어들이고,",
     Chn:"「六年你要耕种田地，收藏土产，",
     Eng:"\"For six years you are to sow your fields and harvest the crops,",
     Ind:"Enam tahunlah lamanya engkau menabur di tanahmu dan mengumpulkan hasilnya,"
   },
   {Bible:"Exodus", Chapter:23, Verse:11, Page:1,
-    Kor:"일곱째 해에는 땅을 놀리고 묵혀서, 거기서 자라는 것은 무엇이나 가난한 사람들이 먹게 하고, 그렇게 하고도 남은 것은 들짐승이 먹게 해야 한다. 너희의 포도밭과 올리브 밭도 그렇게 해야 한다.",
+    Kor:"일곱째 해에는, 땅을 놀리고 묵혀서 거기서 자라는 것은 무엇이나 가난한 사람들이 먹게 하고, 그렇게 하고도 남은 것은 들짐승이 먹게 해야 한다. 너희의 포도밭과 올리브 밭도 그렇게 해야 한다.",
     Chn:"只是第七年要叫地歇息，不耕不种，使你民中的穷人有吃的；他们所剩下的，野兽可以吃。你的葡萄园和橄榄园也要照样办理。",
     Eng:"but during the seventh year let the land lie unplowed and unused. Then the poor among your people may get food from it, and the wild animals may eat what they leave. Do the same with your vineyard and your olive grove.",
     Ind:"tetapi pada tahun ketujuh haruslah engkau membiarkannya dan meninggalkannya begitu saja, supaya orang miskin di antara bangsamu dapat makan, dan apa yang ditinggalkan mereka haruslah dibiarkan dimakan binatang hutan. Demikian juga kaulakukan dengan kebun anggurmu dan kebun zaitunmu."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Dalam segala hal yang Kufirmankan kepadamu haruslah kamu berawas-awas; nama allah lain janganlah kamu panggil, janganlah nama itu kedengaran dari mulutmu.\""
   },
   {Bible:"Exodus", Chapter:23, Verse:14, Page:1,
-    Kor:"<세 가지 큰 절기에 관한 법(출 34:18-26; 신 16:1-17)> ○\"너희는 한 해에 세 차례 나의 절기를 지켜야 한다.",
+    Kor:"○\"너희는 한 해에 세 차례 나의 절기를 지켜야 한다.",
     Chn:"「一年三次，你要向我守节。",
     Eng:"\"Three times a year you are to celebrate a festival to me.",
     Ind:"\"Tiga kali setahun haruslah engkau mengadakan perayaan bagi-Ku."
   },
   {Bible:"Exodus", Chapter:23, Verse:15, Page:1,
-    Kor:"너희는 무교절을 지켜야 한다. 내가 너희에게 명한 대로, a아빕월의 정해진 때에, 이레 동안 누룩을 넣지 않은 빵을 먹어야 한다. 너희가 그 때에 이집트에서 나왔기 때문이다.(a 양력 삼월 중순 이후) ○너희는 빈 손으로 내 앞에 나와서는 안 된다.",
+    Kor:"너희는 무교절을 지켜야 한다. 내가 너희에게 명한 대로, 아빕월의 정한 때에, 이레 동안 누룩을 넣지 않은 빵을 먹어야 한다. 너희가 그 때에 이집트에서 나왔기 때문이다. ○너희는 빈 손으로 내 앞에 나와서는 안 된다.",
     Chn:"你要守除酵节，照我所吩咐你的，在亚笔月内所定的日期，吃无酵饼七天。谁也不可空手朝见我，因为你是这月出了埃及。",
     Eng:"\"Celebrate the Feast of Unleavened Bread; for seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Abib, for in that month you came out of Egypt. \"No one is to appear before me empty-handed.",
     Ind:"Hari raya Roti Tidak Beragi haruslah kaupelihara; tujuh hari lamanya engkau harus makan roti yang tidak beragi, seperti yang telah Kuperintahkan kepadamu, pada waktu yang ditetapkan dalam bulan Abib, sebab dalam bulan itulah engkau keluar dari Mesir, tetapi janganlah orang menghadap ke hadirat-Ku dengan tangan hampa."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Tiga kali setahun semua orangmu yang laki-laki harus menghadap ke hadirat Tuhanmu TUHAN."
   },
   {Bible:"Exodus", Chapter:23, Verse:18, Page:1,
-    Kor:"○너희는 나에게 바치는 희생제물의 피를 누룩 넣은 빵과 함께 바쳐서는 안 된다. 그리고 절기 때에 나에게 바친 기름을 다음날 아침까지 남겨 두어서도 안 된다.",
+    Kor:"○너희는 나에게 바치는 희생제물의 피를, 누룩을 넣은 빵과 함께 바쳐서는 안 된다. 그리고 절기 때에 나에게 바친 기름을 다음날 아침까지 남겨 두어서도 안 된다.",
     Chn:"「不可将我祭牲的血和有酵的饼一同献上；也不可将我节上祭牲的脂油留到早晨。",
     Eng:"\"Do not offer the blood of a sacrifice to me along with anything containing yeast. \"The fat of my festival offerings must not be kept until morning.",
     Ind:"Janganlah kaupersembahkan darah korban sembelihan yang kepada-Ku beserta sesuatu yang beragi, dan janganlah lemak korban hari raya-Ku bermalam sampai pagi."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Yang terbaik dari buah bungaran hasil tanahmu haruslah kaubawa ke dalam rumah TUHAN, Allahmu. Janganlah kaumasak anak kambing dalam susu induknya.\""
   },
   {Bible:"Exodus", Chapter:23, Verse:20, Page:1,
-    Kor:"<약속과 지시> ○\"이제 내가 너희 앞에 한 천사를 보내어 길에서 너희를 지켜 주며, 내가 예비하여 둔 곳으로 너희를 데려가겠다.",
+    Kor:"○\"이제 내가 너희 앞에 한 천사를 보내어 길에서 너희를 지켜 주며, 내가 예비하여 둔 곳으로 너희를 데려가겠다.",
     Chn:"「看哪，我差遣使者在你前面，在路上保护你，领你到我所预备的地方去。",
     Eng:"\"See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.",
     Ind:"\"Sesungguhnya Aku mengutus seorang malaikat berjalan di depanmu, untuk melindungi engkau di jalan dan untuk membawa engkau ke tempat yang telah Kusediakan."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Kengerian terhadap Aku akan Kukirimkan mendahului engkau: Aku akan mengacaukan semua orang yang kaudatangi, dan Aku akan membuat semua musuhmu lari membelakangi engkau."
   },
   {Bible:"Exodus", Chapter:23, Verse:28, Page:1,
-    Kor:"내가 b말벌을 너희보다 앞질러 보내어, 히위 사람과 가나안 사람과 헷 사람을 너희 앞에서 쫓아내겠다.(b 또는 '재앙' 또는 '전염병')",
+    Kor:"내가 말벌을 너희보다 앞질러 보내어, 히위 사람과 가나안 사람과 헷 사람을 너희 앞에서 쫓아내겠다.",
     Chn:"我要打发黄蜂飞在你前面，把希未人、迦南人、赫人撵出去。",
     Eng:"I will send the hornet ahead of you to drive the Hivites, Canaanites and Hittites out of your way.",
     Ind:"Lagi Aku akan melepaskan tabuhan mendahului engkau, sehingga binatang-binatang itu menghalau orang Hewi, orang Kanaan dan orang Het itu dari depanmu."
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Aku tidak akan menghalau mereka dari depanmu dalam satu tahun, supaya negeri itu jangan menjadi sepi, dan segala binatang hutan jangan bertambah banyak melebihi engkau."
   },
   {Bible:"Exodus", Chapter:23, Verse:30, Page:1,
-    Kor:"나는 너희가 번성하여 그 땅을 너희의 소유로 차지할 때까지, 그들을 너희 앞에서 조금씩 쫓아내겠다.",
+    Kor:"나는, 너희가 번성하여 그 땅을 너희의 소유로 차지할 때까지, 그들을 너희 앞에서 조금씩 쫓아내겠다.",
     Chn:"我要渐渐地将他们从你面前撵出去，等到你的人数加多，承受那地为业。",
     Eng:"Little by little I will drive them out before you, until you have increased enough to take possession of the land.",
     Ind:"Sedikit demi sedikit Aku akan menghalau mereka dari depanmu, sampai engkau beranak cucu sedemikian, hingga engkau dapat memiliki negeri itu."
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Janganlah mengadakan perjanjian dengan mereka ataupun dengan allah mereka."
   },
   {Bible:"Exodus", Chapter:23, Verse:33, Page:1,
-    Kor:"너희는 그들을 너희 땅에서 살지 못하게 하여라. 그렇게 하지 않으면, 그들이 너희를 유혹하여 나에게 죄를 짓게 할까 염려가 된다. 너희가 그들의 신들을 섬기면, 그것이 너희를 잡는 덫이 될 것이다.\"",
+    Kor:"너희는 그들을 너희 땅에서 살지 못하게 하여라. 그렇게 하지 않으면, 그들이 너희를 유혹하여, 나에게 죄를 짓게 할까 염려가 된다. 너희가 그들의 신들을 섬기면, 그것이 너희를 잡는 덫이 될 것이다.\"",
     Chn:"他们不可住在你的地上，恐怕他们使你得罪我。你若事奉他们的神，这必成为你的网罗。」",
     Eng:"Do not let them live in your land, or they will cause you to sin against me, because the worship of their gods will certainly be a snare to you.\"",
     Ind:"Mereka tidak akan tetap diam di negerimu, supaya mereka jangan membuat engkau berdosa kepada-Ku, dengan beribadah kepada allah mereka, sebab tentulah hal itu menjadi jerat bagimu.\""

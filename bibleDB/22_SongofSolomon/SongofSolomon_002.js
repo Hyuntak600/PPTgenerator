@@ -3,7 +3,7 @@
 BibleDB.ref("SongofSolomon",2,17);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:2, Verse:1, Page:1,
-    Kor:"<사랑은 모든 것을 아름답게 만든다 (여자)> 나는 샤론의 a수선화, 골짜기에 핀 나리꽃이라오. (a 또는 '장미')",
+    Kor:"(여자) 나는 샤론의 수선화, 골짜기에 핀 나리꽃이라오.",
     Chn:"我是沙 的玫瑰花， 是谷中的百合花。",
     Eng:"I am a rose of Sharon, a lily of the valleys.",
     Ind:"Bunga mawar dari Saron aku, bunga bakung di lembah-lembah."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Kusumpahi kamu, puteri-puteri Yerusalem, demi kijang-kijang atau demi rusa-rusa betina di padang: jangan kamu membangkitkan dan menggerakkan cinta sebelum diingininya!"
   },
   {Bible:"SongofSolomon", Chapter:2, Verse:8, Page:1,
-    Kor:"<겨울은 지나고> 아, 사랑하는 임의 목소리! 저기 오는구나. 산을 넘고 언덕을 넘어서 달려오는구나.",
+    Kor:"아, 사랑하는 임의 목소리! 저기 오는구나. 산을 넘고 언덕을 넘어서 달려오는구나.",
     Chn:"听啊！是我良人的声音； 看哪！他蹿山越岭而来。",
     Eng:"Listen! My lover! Look! Here he comes, leaping across the mountains, bounding over the hills.",
     Ind:"Dengarlah! Kekasihku! Lihatlah, ia datang, melompat-lompat di atas gunung-gunung, meloncat-loncat di atas bukit-bukit."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Kekasihku kepunyaanku, dan aku kepunyaan dia yang menggembalakan domba di tengah-tengah bunga bakung."
   },
   {Bible:"SongofSolomon", Chapter:2, Verse:17, Page:1,
-    Kor:"날이 저물고 그림자가 사라지기 전에, 나의 임이여, 노루처럼 빨리 돌아와 주세요. b베데르 산의 날랜 사슴처럼 빨리 오세요. (b '바위 언덕의')",
+    Kor:"날이 저물고 그림자가 사라지기 전에, 나의 임이여, 노루처럼 빨리 돌아와 주세요. 베데르 산의 날랜 사슴처럼 빨리 오세요.",
     Chn:"我的良人哪， 求你等到天起凉风、 日影飞去的时候， 你要转回，好像羚羊， 或像小鹿在比特山上。",
     Eng:"Until the day breaks and the shadows flee, turn, my lover, and be like a gazelle or like a young stag on the rugged hills.",
     Ind:"Sebelum angin senja berembus dan bayang-bayang menghilang, kembalilah, kekasihku, berlakulah seperti kijang, atau seperti anak rusa di atas gunung-gunung tanaman rempah-rempah!"

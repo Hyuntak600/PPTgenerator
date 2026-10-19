@@ -3,19 +3,19 @@
 BibleDB.ref("2Kings",1,18);
 BibleDB.add([
   {Bible:"2Kings", Chapter:1, Verse:1, Page:1,
-    Kor:"<엘리야와 아하시야 왕> 아합이 죽은 뒤에, 모압이 이스라엘에게 반역하였다.",
+    Kor:"아합이 죽은 뒤에, 모압이 이스라엘에게 반역하였다.",
     Chn:"亚哈死后，摩押背叛以色列。",
     Eng:"After Ahab's death, Moab rebelled against Israel.",
     Ind:"Sesudah Ahab mati, maka memberontaklah Moab terhadap Israel."
   },
   {Bible:"2Kings", Chapter:1, Verse:2, Page:1,
-    Kor:"○아하시야가 사마리아에 있는 그의 다락방 난간에서 떨어져 크게 다쳤다. 그래서 그는 사절단을 에그론의 신 a바알세붑에게 보내어, 자기의 병이 나을 수 있을지를 물어 보게 하였다.(a '파리들의 주', '바알 왕자'를 뜻하는 '바알세불'에 대칭되는 모욕적인 이름)",
+    Kor:"○아하시야가 사마리아에 있는 그의 다락방 난간에서 떨어져 크게 다쳤다. 그래서 그는 사절단을 에그론의 신 바알세붑에게 보내어, 자기의 병이 나을 수 있을지를 물어 보게 하였다.",
     Chn:"亚哈谢在撒马利亚，一日从楼上的栏杆里掉下来，就病了；于是差遣使者说：「你们去问以革伦的神巴力·西卜，我这病能好不能好。」",
     Eng:"Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers, saying to them, \"Go and consult Baal-Zebub, the god of Ekron, to see if I will recover from this injury.\"",
     Ind:"Pada suatu hari jatuhlah Ahazia dari kisi-kisi kamar atasnya yang ada di Samaria, lalu menjadi sakit. Kemudian dikirimnyalah utusan-utusan dengan pesan: \"Pergilah, mintalah petunjuk kepada Baal-Zebub, allah di Ekron, apakah aku akan sembuh dari penyakit ini.\""
   },
   {Bible:"2Kings", Chapter:1, Verse:3, Page:1,
-    Kor:"○그 때에 주님의 천사가 나타나서, 디셉 사람 엘리야를 보고, 사마리아 왕의 사절단을 만나서 이렇게 전하라고 명령하였다. \"너희가 에그론의 신 바알세붑에게 물으러 가다니, 이스라엘에 하나님이 계시지 않느냐?",
+    Kor:"○그 때에 주의 천사가 나타나서, 디셉 사람 엘리야를 보고, 사마리아 왕의 사절단을 만나서 이렇게 전하라고 명령하였다. \"너희가 에그론의 신 바알세붑에게 물으러 가다니, 이스라엘에 하나님이 계시지 않느냐?",
     Chn:"但耶和华的使者对提斯比人以利亚说：「你起来，去迎着撒马利亚王的使者，对他们说：『你们去问以革伦神巴力·西卜，岂因以色列中没有　神吗？』",
     Eng:"But the angel of the LORD said to Elijah the Tishbite, \"Go up and meet the messengers of the king of Samaria and ask them, 'Is it because there is no God in Israel that you are going off to consult Baal-Zebub, the god of Ekron?'",
     Ind:"Tetapi berfirmanlah Malaikat TUHAN kepada Elia, orang Tisbe itu: \"Bangunlah, berangkatlah menemui utusan-utusan raja Samaria dan katakan kepada mereka: Apakah tidak ada Allah di Israel, sehingga kamu ini pergi untuk meminta petunjuk kepada Baal-Zebub, allah di Ekron?"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sesudah utusan-utusan itu kembali kepada raja, berkatalah ia kepada mereka: \"Mengapa kamu kembali?\""
   },
   {Bible:"2Kings", Chapter:1, Verse:6, Page:1,
-    Kor:"그들은 왕에게 사실대로 대답하였다. \"길을 가다가 웬 사람을 만났습니다. 그는 우리를 보고, 우리를 보내신 임금님께 돌아가서, 주님께서 하신 말씀을 전하라고 하였습니다. 그러면서 하는 말이 '네가 에그론의 신 바알세붑에게 사람을 보내어 물으려 하다니, 이스라엘에 하나님이 계시지 않느냐? 그러므로 너는, 네가 올라가 누운 그 병상에서 일어나 내려오지 못하고, 분명히 12 1:거기에서 죽고 말 것이다' 하였습니다.\"",
+    Kor:"그들은 왕에게 사실대로 대답하였다. \"길을 가다가 웬 사람을 만났습니다. 그는 우리를 보고, 우리를 보내신 임금님께 돌아가서, 주께서 하신 말씀을 전하라고 하였습니다. 그러면서 하는 말이 '네가 에그론의 신 바알세붑에게 사람을 보내어 물으려 하다니, 이스라엘에 하나님이 계시지 않느냐? 그러므로 너는, 네가 올라가 누운 그 병상에서 일어나 내려오지 못하고, 분명히 거기에서 죽고 말 것이다' 하였습니다.\"",
     Chn:"使者回答说：「有一个人迎着我们来，对我们说：『你们回去见差你们来的王，对他说：耶和华如此说，你差人去问以革伦神巴力·西卜，岂因以色列中没有　神吗？所以你必不下所上的床，必定要死。』」",
     Eng:"\"A man came to meet us,\" they replied. \"And he said to us, 'Go back to the king who sent you and tell him, \"This is what the LORD says: Is it because there is no God in Israel that you are sending men to consult Baal-Zebub, the god of Ekron? Therefore you will not leave the bed you are lying on. You will certainly die!\"'\"",
     Ind:"Jawab mereka kepadanya: \"Ada seorang datang menemui kami dan berkata kepada kami: Pergilah, kembalilah kepada raja yang telah menyuruh kamu, dan katakanlah kepadanya: Beginilah firman TUHAN: Apakah tidak ada Allah di Israel, sehingga engkau menyuruh meminta petunjuk kepada Baal-Zebub, allah di Ekron? Sebab itu engkau tidak akan bangun lagi dari tempat tidur di mana engkau berbaring, sebab engkau pasti akan mati.\""
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Bukankah api sudah turun dari langit memakan habis kedua perwira yang dahulu dengan kelima puluh anak buah mereka? Tetapi sekarang biarlah nyawaku berharga di matamu.\""
   },
   {Bible:"2Kings", Chapter:1, Verse:15, Page:1,
-    Kor:"그 때에 주님의 천사가 엘리야에게 말하였다. \"그와 함께 내려가거라. 그 사람을 두려워하지 말아라.\" 그리하여 엘리야가 일어나서, 그와 함께 왕에게 내려갔다.",
+    Kor:"그 때에 주의 천사가 엘리야에게 말하였다. \"그와 함께 내려가거라. 그 사람을 두려워하지 말아라.\" 그리하여 엘리야가 일어나서, 그와 함께 왕에게 내려갔다.",
     Chn:"耶和华的使者对以利亚说：「你同着他下去，不要怕他！」以利亚就起来，同着他下去见王，",
     Eng:"The angel of the LORD said to Elijah, \"Go down with him; do not be afraid of him.\" So Elijah got up and went down with him to the king.",
     Ind:"Maka berfirmanlah Malaikat TUHAN kepada Elia: \"Turunlah bersama-sama dia, janganlah takut kepadanya!\" Lalu bangunlah Elia dan turun bersama-sama dia menghadap raja."
   },
   {Bible:"2Kings", Chapter:1, Verse:16, Page:1,
-    Kor:"엘리야가 왕에게 말하였다. \"주님께서 말씀하시기를 '네가, 에그론의 신 바알세붑에게 네 병에 관하여 물어 보려고 사절들을 보내다니, 이스라엘에 네가 말씀을 여쭈어 볼 하나님이 계시지 않더란 말이냐? 그러므로 너는, 네가 올라가 누운 그 병상에서 일어나 내려오지 못하고, 죽고 말 것이다' 하셨습니다.\"",
+    Kor:"엘리야가 왕에게 말하였다. \"주께서 말씀하시기를 '네가, 에그론의 신 바알세붑에게 네 병에 관하여 물어 보려고 사절들을 보내다니, 이스라엘에 네가 말씀을 여쭈어 볼 하나님이 계시지 않더란 말이냐? 그러므로 너는, 네가 올라가 누운 그 병상에서 일어나 내려오지 못하고, 죽고 말 것이다' 하셨습니다.\"",
     Chn:"对王说：「耶和华如此说：『你差人去问以革伦神巴力·西卜，岂因以色列中没有　神可以求问吗？所以你必不下所上的床，必定要死！』」",
     Eng:"He told the king, \"This is what the LORD says: Is it because there is no God in Israel for you to consult that you have sent messengers to consult Baal-Zebub, the god of Ekron? Because you have done this, you will never leave the bed you are lying on. You will certainly die!\"",
     Ind:"Berkatalah Elia kepada raja: \"Beginilah firman TUHAN: Oleh karena engkau telah mengirim utusan-utusan untuk meminta petunjuk kepada Baal-Zebub, allah di Ekron, seolah-olah tidak ada Allah di Israel untuk ditanyakan firman-Nya, maka sebab itu engkau tidak akan bangun lagi dari tempat tidur, di mana engkau berbaring, sebab engkau pasti akan mati.\""
   },
   {Bible:"2Kings", Chapter:1, Verse:17, Page:1,
-    Kor:"엘리야가 전한 주님의 말씀대로, 북왕국 이스라엘에서는 아하시야 왕이 죽었다. 그에게 아들이 없었으므로, b그의 동생 여호람이 그의 뒤를 이어 왕이 되었다. 때는 남왕국 유다에서 여호사밧의 아들 여호람이 즉위하여 다스린 지 이년이 되던 해였다.(b 칠십인역과 시리아어역을 따름. 히브리어 본문에는 '그의 동생' 없음)",
+    Kor:"엘리야가 전한 주의 말씀대로, 아하시야 왕이 죽었다. 그에게 아들이 없었으므로, 그의 동생 요람이 그의 뒤를 이어 왕이 되었다. 때는 유다 왕 여호사밧의 아들 여호람 제 이년이었다.",
     Chn:"亚哈谢果然死了，正如耶和华借以利亚所说的话。因他没有儿子，他兄弟约兰接续他作王，正在犹大王约沙法的儿子约兰第二年。",
     Eng:"So he died, according to the word of the LORD that Elijah had spoken. Because Ahaziah had no son, Joram succeeded him as king in the second year of Jehoram son of Jehoshaphat king of Judah.",
     Ind:"Maka matilah raja sesuai dengan firman TUHAN yang dikatakan oleh Elia. Maka Yoram menjadi raja menggantikan dia dalam tahun kedua zaman Yoram bin Yosafat, raja Yehuda, sebab Ahazia tidak mempunyai anak laki-laki."

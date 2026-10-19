@@ -3,19 +3,19 @@
 BibleDB.ref("Revelation",2,29);
 BibleDB.add([
   {Bible:"Revelation", Chapter:2, Verse:1, Page:1,
-    Kor:"<에베소 교회에 보내는 말씀> \"에베소 교회의 a심부름꾼에게 이렇게 써 보내라. '오른손에 일곱 별을 쥐시고, 일곱 금 촛대 사이를 거니시는 분이 말씀하신다.",
+    Kor:"\"에베소 교회의 천사에게 이렇게 써 보내어라. '오른손에 일곱 별을 쥐시고, 일곱 금 촛대 사이를 거니시는 이가 말씀하신다.",
     Chn:"「你要写信给以弗所教会的使者，说：『那右手拿着七星、在七个金灯台中间行走的，说：",
     Eng:"\"To the angel of the church in Ephesus write: These are the words of him who holds the seven stars in his right hand and walks among the seven golden lampstands:",
     Ind:"\"Tuliskanlah kepada malaikat jemaat di Efesus: Inilah firman dari Dia, yang memegang ketujuh bintang itu di tangan kanan-Nya dan berjalan di antara ketujuh kaki dian emas itu."
   },
   {Bible:"Revelation", Chapter:2, Verse:2, Page:1,
-    Kor:"○나는 네가 한 일과 네 수고와 인내를 알고 있다. 또 나는, 네가 악한 자들을 참고 내버려 둘 수 없었던 것과, 사도가 아니면서 사도라고 자칭하는 자들을 시험하여 그들이 거짓말쟁이임을 밝혀 낸 것도, 알고 있다.",
+    Kor:"○나는 네가 한 일과 네 수고와 인내를 알고 있다. 또 나는, 네가 악한 자들을 참고 내버려 둘 수 없던 것과, 사도가 아니면서 사도라고 자칭하는 자들을 시험하여 그들이 거짓말쟁이임을 밝혀 낸 것도, 알고 있다.",
     Chn:"我知道你的行为、劳碌、忍耐，也知道你不能容忍恶人。你也曾试验那自称为使徒却不是使徒的，看出他们是假的来。",
     Eng:"I know your deeds, your hard work and your perseverance. I know that you cannot tolerate wicked men, that you have tested those who claim to be apostles but are not, and have found them false.",
     Ind:"Aku tahu segala pekerjaanmu: baik jerih payahmu maupun ketekunanmu. Aku tahu, bahwa engkau tidak dapat sabar terhadap orang-orang jahat, bahwa engkau telah mencobai mereka yang menyebut dirinya rasul, tetapi yang sebenarnya tidak demikian, bahwa engkau telah mendapati mereka pendusta."
   },
   {Bible:"Revelation", Chapter:2, Verse:3, Page:1,
-    Kor:"너는 참고, 내 이름을 위하여 고난을 견디어 냈으며, 낙심한 적이 없다.",
+    Kor:"너는 참고, 내 이름을 위하여 고난을 견디어 내고, 낙심한 적이 없다.",
     Chn:"你也能忍耐，曾为我的名劳苦，并不乏倦。",
     Eng:"You have persevered and have endured hardships for my name, and have not grown weary.",
     Ind:"Dan engkau tetap sabar dan menderita oleh karena nama-Ku; dan engkau tidak mengenal lelah."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Tetapi ini yang ada padamu, yaitu engkau membenci segala perbuatan pengikut-pengikut Nikolaus, yang juga Kubenci."
   },
   {Bible:"Revelation", Chapter:2, Verse:7, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라. 이기는 사람에게는, 내가 b하나님의 낙원에 있는 생명 나무의 열매를 주어서 먹게 하겠다.'\"(b 겔 28:13; 31:8, 9(칠십인역))",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라. 이기는 사람에게는, 내가 하나님의 낙원에 있는 생명 나무의 열매를 주어서 먹게 하겠다.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！得胜的，我必将　神乐园中生命树的果子赐给他吃。』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will give the right to eat from the tree of life, which is in the paradise of God.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, dia akan Kuberi makan dari pohon kehidupan yang ada di Taman Firdaus Allah.\""
   },
   {Bible:"Revelation", Chapter:2, Verse:8, Page:1,
-    Kor:"<서머나 교회에 보내는 말씀> ○\"서머나 교회의 a심부름꾼에게 이렇게 써 보내라. '처음이며 마지막이요, 죽으셨다가 살아나신 분이 이렇게 말씀하신다.(a 또는 '천사')",
+    Kor:"○\"서머나 교회의 천사에게 이렇게 써 보내어라. '처음이며 마지막이요, 죽으셨다가 살아나신 분이 이렇게 말씀하신다.",
     Chn:"「你要写信给士每拿教会的使者，说：『那首先的、末后的、死过又活的，说：",
     Eng:"\"To the angel of the church in Smyrna write: These are the words of him who is the First and the Last, who died and came to life again.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Smirna: Inilah firman dari Yang Awal dan Yang Akhir, yang telah mati dan hidup kembali:"
@@ -57,25 +57,25 @@ BibleDB.add([
     Ind:"Aku tahu kesusahanmu dan kemiskinanmu--namun engkau kaya--dan fitnah mereka, yang menyebut dirinya orang Yahudi, tetapi yang sebenarnya tidak demikian: sebaliknya mereka adalah jemaah Iblis."
   },
   {Bible:"Revelation", Chapter:2, Verse:10, Page:1,
-    Kor:"네가 장차 받을 고난을 두려워하지 말아라. 보아라, 악마가 너희를 시험하여 넘어뜨리려고, 너희 가운데서 몇 사람을 감옥에다 집어넣으려고 한다. 너희는 열흘 동안 환난을 당할 것이다. 죽도록 충성하여라. 그리하면 내가 생명의 c면류관을 너에게 주겠다.(c 그, '월계관')",
+    Kor:"네가 장차 받을 고난을 두려워하지 말아라. 보아라, 악마가 너희를 시험하여 넘어뜨리려고, 너희 가운데서 몇 사람을 감옥에다 집어 넣으려고 한다. 너희는 열흘 동안 환난을 당할 것이다. 죽도록 충성하여라. 그러면 내가 생명의 면류관을 너에게 주겠다.",
     Chn:"你将要受的苦你不用怕。魔鬼要把你们中间几个人下在监里，叫你们被试炼，你们必受患难十日。你务要至死忠心，我就赐给你那生命的冠冕。",
     Eng:"Do not be afraid of what you are about to suffer. I tell you, the devil will put some of you in prison to test you, and you will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you the crown of life.",
     Ind:"Jangan takut terhadap apa yang harus engkau derita! Sesungguhnya Iblis akan melemparkan beberapa orang dari antaramu ke dalam penjara supaya kamu dicobai dan kamu akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan."
   },
   {Bible:"Revelation", Chapter:2, Verse:11, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라. 이기는 사람은 둘째 사망의 해를 받지 않을 것이다.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라. 이기는 사람은 둘째 사망의 해를 받지 않을 것이다.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！得胜的，必不受第二次死的害。』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches. He who overcomes will not be hurt at all by the second death.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, ia tidak akan menderita apa-apa oleh kematian yang kedua.\""
   },
   {Bible:"Revelation", Chapter:2, Verse:12, Page:1,
-    Kor:"<버가모 교회에 보내는 말씀> ○\"버가모 교회의 a심부름꾼에게 이렇게 써 보내어라. '날카로운 양날 칼을 가지신 분이 이렇게 말씀하신다.(a 또는 '천사')",
+    Kor:"○\"버가모 교회의 천사에게 이렇게 써 보내어라. '날카로운 양날 칼을 가지신 분이 이렇게 말씀하신다.",
     Chn:"「你要写信给别迦摩教会的使者，说：『那有两刃利剑的，说：",
     Eng:"\"To the angel of the church in Pergamum write: These are the words of him who has the sharp, double-edged sword.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Pergamus: Inilah firman Dia, yang memakai pedang yang tajam dan bermata dua:"
   },
   {Bible:"Revelation", Chapter:2, Verse:13, Page:1,
-    Kor:"○나는 네가 어디에 거주하는지를 알고 있다. 그 곳은 사탄의 왕좌가 있는 곳이다. 그렇지만 너는 내 이름을 굳게 붙잡고, 또 내 신실한 증인인 안디바가 너희 곁 곧 사탄이 살고 있는 그 곳에서 죽임을 당할 때에도, 나를 믿는 믿음을 저버리지 않았다.",
+    Kor:"○나는 네가 어디에 거주하는지를 알고 있다. 그 곳은 사탄의 왕좌가 있는 곳이다. 그렇지만 너는 내 이름을 굳게 붙잡고, 또 내 신실한 증인인 안디바가 너희 곁, 곧 사탄이 살고 있는 그 곳에서 죽임을 당할 때에도, 나를 믿는 믿음을 저버리지 않았다.",
     Chn:"我知道你的居所，就是有撒但座位之处；当我忠心的见证人安提帕在你们中间、撒但所住的地方被杀之时，你还坚守我的名，没有弃绝我的道。",
     Eng:"I know where you live--where Satan has his throne. Yet you remain true to my name. You did not renounce your faith in me, even in the days of Antipas, my faithful witness, who was put to death in your city--where Satan lives.",
     Ind:"Aku tahu di mana engkau diam, yaitu di sana, di tempat takhta Iblis; dan engkau berpegang kepada nama-Ku, dan engkau tidak menyangkal imanmu kepada-Ku, juga tidak pada zaman Antipas, saksi-Ku, yang setia kepada-Ku, yang dibunuh di hadapan kamu, di mana Iblis diam."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Sebab itu bertobatlah! Jika tidak demikian, Aku akan segera datang kepadamu dan Aku akan memerangi mereka dengan pedang yang di mulut-Ku ini."
   },
   {Bible:"Revelation", Chapter:2, Verse:17, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라. 이기는 사람에게는 내가, 감추어 둔 만나를 주겠고, 흰 돌도 주겠다. 그 돌에는 새 이름이 적혀 있는데, 그 돌을 받는 사람 밖에는 아무도 그것을 알지 못한다.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라. 이기는 사람에게는, 내가 감추어 둔 만나를 주겠고, 흰 돌도 주겠다. 그 돌 위에는 새 이름이 적혀 있는데, 그 돌을 받는 사람 밖에는 아무도 그것을 알지 못한다.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！得胜的，我必将那隐藏的吗哪赐给他，并赐他一块白石，石上写着新名；除了那领受的以外，没有人能认识。』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will give some of the hidden manna. I will also give him a white stone with a new name written on it, known only to him who receives it.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, kepadanya akan Kuberikan dari manna yang tersembunyi; dan Aku akan mengaruniakan kepadanya batu putih, yang di atasnya tertulis nama baru, yang tidak diketahui oleh siapapun, selain oleh yang menerimanya.\""
   },
   {Bible:"Revelation", Chapter:2, Verse:18, Page:1,
-    Kor:"<두아디라 교회에 보내는 말씀> ○\"두아디라 교회의 a심부름꾼에게 이렇게 써 보내라. '그 눈이 불꽃과 같고, 그 발이 놋쇠와 같으신 분, 곧 하나님의 아들이 이렇게 말씀하신다.(a 또는 '천사')",
+    Kor:"○\"두아디라 교회의 천사에게 이렇게 써 보내어라. '그 눈이 불꽃과 같고, 그 발이 놋쇠와 같으신 분, 곧 하나님의 아들이 이렇게 말씀하신다.",
     Chn:"「你要写信给推雅推喇教会的使者，说：『那眼目如火焰、脚像光明铜的　神之子说：",
     Eng:"\"To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze.",
     Ind:"\"Dan tuliskanlah kepada malaikat jemaat di Tiatira: Inilah firman Anak Allah, yang mata-Nya bagaikan nyala api dan kaki-Nya bagaikan tembaga:"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Aku tahu segala pekerjaanmu: baik kasihmu maupun imanmu, baik pelayananmu maupun ketekunanmu. Aku tahu, bahwa pekerjaanmu yang terakhir lebih banyak dari pada yang pertama."
   },
   {Bible:"Revelation", Chapter:2, Verse:20, Page:1,
-    Kor:"그러나 네게 나무랄 것이 있다. 너는 이세벨이라는 여자를 용납하고 있다. 그는 스스로 예언자로 자처하면서, 내 종들을 가르치고, 그들을 미혹시켜서 간음하게 하고, 우상의 제물을 먹게 하는 자다.",
+    Kor:"그러나 네게 나무랄 것이 있다. 너는 이세벨이라는 여자를 용납하고 있다. 그는 스스로를 예언자로 자처하면서, 내 종들을 가르치고, 그들을 미혹시켜서 간음하게 하고, 우상의 제물을 먹게 하는 자다.",
     Chn:"然而，有一件事我要责备你，就是你容让那自称是先知的妇人耶洗别教导我的仆人，引诱他们行奸淫，吃祭偶像之物。",
     Eng:"Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols.",
     Ind:"Tetapi Aku mencela engkau, karena engkau membiarkan wanita Izebel, yang menyebut dirinya nabiah, mengajar dan menyesatkan hamba-hamba-Ku supaya berbuat zinah dan makan persembahan-persembahan berhala."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Dan Aku telah memberikan dia waktu untuk bertobat, tetapi ia tidak mau bertobat dari zinahnya."
   },
   {Bible:"Revelation", Chapter:2, Verse:22, Page:1,
-    Kor:"보아라, 나는 그를 병상에다 던지겠다. 그와 더불어 간음하는 자들도, 그와의 행위를 회개하지 않으면, 큰 환난을 당하게 하겠다.",
+    Kor:"보아라, 나는 그를 병상에다가 던지겠다. 그와 더불어 간음하는 자들도, 그와의 행위를 회개하지 않으면, 큰 환난을 당하게 하겠다.",
     Chn:"看哪，我要叫她病卧在床。那些与她行淫的人，若不悔改所行的，我也要叫他们同受大患难。",
     Eng:"So I will cast her on a bed of suffering, and I will make those who commit adultery with her suffer intensely, unless they repent of her ways.",
     Ind:"Lihatlah, Aku akan melemparkan dia ke atas ranjang orang sakit dan mereka yang berbuat zinah dengan dia akan Kulemparkan ke dalam kesukaran besar, jika mereka tidak bertobat dari perbuatan-perbuatan perempuan itu."
   },
   {Bible:"Revelation", Chapter:2, Verse:23, Page:1,
-    Kor:"그리고 나는 그의 자녀들을 반드시 죽게 하겠다. 그러면 모든 교회는 내가 사람의 생각과 마음을 살피는 분임을 알게 될 것이다. 나는 너희 각 사람에게 그 행위대로 갚아 주겠다.",
+    Kor:"그리고 나는 그의 자녀들을 반드시 죽게 하겠다. 그러면 모든 교회는 내가 사람의 생각과 마음을 살피는 이라는 것을 알게 될 것이다. 나는 너희 각 사람에게 그 행위대로 갚아 주겠다.",
     Chn:"我又要杀死她的党类，叫众教会知道，我是那察看人肺腑心肠的，并要照你们的行为报应你们各人。",
     Eng:"I will strike her children dead. Then all the churches will know that I am he who searches hearts and minds, and I will repay each of you according to your deeds.",
     Ind:"Dan anak-anaknya akan Kumatikan dan semua jemaat akan mengetahui, bahwa Akulah yang menguji batin dan hati orang, dan bahwa Aku akan membalaskan kepada kamu setiap orang menurut perbuatannya."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Tetapi apa yang ada padamu, peganglah itu sampai Aku datang."
   },
   {Bible:"Revelation", Chapter:2, Verse:26, Page:1,
-    Kor:"이기는 사람, 곧 내 일을 끝까지 지키는 사람에게는,  민족들을 다스리는 권세를 주겠다.",
+    Kor:"이기는 사람, 곧 내 일을 끝까지 지키는 사람에게는,",
     Chn:"那得胜又遵守我命令到底的，我要赐给他权柄制伏列国；",
     Eng:"To him who overcomes and does my will to the end, I will give authority over the nations--",
     Ind:"Dan barangsiapa menang dan melakukan pekerjaan-Ku sampai kesudahannya, kepadanya akan Kukaruniakan kuasa atas bangsa-bangsa;"
   },
   {Bible:"Revelation", Chapter:2, Verse:27, Page:1,
-    Kor:"d「그는 쇠지팡이로 그들을 다스릴 것이고, 민족들은 마치 질그릇이 부수어지듯 할 것이다.」 (d 시 2:9(칠십인역))",
+    Kor:"「그는 쇠막대기로 그들을 다스릴 것이고, 민족들은 마치 질그릇이 부수어지듯 할 것이다.」",
     Chn:"他必用铁杖辖管他们，将他们如同窑户的瓦器打得粉碎，像我从我父领受的权柄一样。",
     Eng:"'He will rule them with an iron scepter; he will dash them to pieces like pottery'--just as I have received authority from my Father.",
     Ind:"dan ia akan memerintah mereka dengan tongkat besi; mereka akan diremukkan seperti tembikar tukang periuk--sama seperti yang Kuterima dari Bapa-Ku--"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"dan kepadanya akan Kukaruniakan bintang timur."
   },
   {Bible:"Revelation", Chapter:2, Verse:29, Page:1,
-    Kor:"귀가 있는 사람은, 성령이 교회들에 하시는 말씀을 들어라.'\"",
+    Kor:"귀가 있는 사람은, 성령이 교회들에게 하시는 말씀을 들어라.'\"",
     Chn:"圣灵向众教会所说的话，凡有耳的，就应当听！』」",
     Eng:"He who has an ear, let him hear what the Spirit says to the churches.",
     Ind:"Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.\""

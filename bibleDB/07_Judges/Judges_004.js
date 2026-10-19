@@ -3,19 +3,19 @@
 BibleDB.ref("Judges",4,24);
 BibleDB.add([
   {Bible:"Judges", Chapter:4, Verse:1, Page:1,
-    Kor:"<사사 드보라> 에훗이 죽은 뒤에, 이스라엘 자손은 다시 주님께서 보시는 앞에서 악한 일을 저질렀다.",
+    Kor:"에훗이 죽은 뒤에, 이스라엘 자손은 다시 주께서 보시는 앞에서 악한 일을 저질렀다.",
     Chn:"以笏死后，以色列人又行耶和华眼中看为恶的事，",
     Eng:"After Ehud died, the Israelites once again did evil in the eyes of the LORD.",
     Ind:"Setelah Ehud mati, orang Israel melakukan pula apa yang jahat di mata TUHAN."
   },
   {Bible:"Judges", Chapter:4, Verse:2, Page:1,
-    Kor:"그래서 주님께서는 하솔을 다스리는 가나안 왕 야빈의 손에 그들을 내주셨다. 그의 군지휘관은 이방인의 땅 하로셋에 사는 시스라였다.",
+    Kor:"그래서 주께서는 하솔을 다스리는 가나안 왕 야빈의 손에 그들을 내주셨다. 그의 군지휘관은 이방인의 땅 하로셋에 사는 시스라였다.",
     Chn:"耶和华就把他们付与在夏琐作王的迦南王耶宾手中；他的将军是西西拉，住在外邦人的夏罗设。",
     Eng:"So the LORD sold them into the hands of Jabin, a king of Canaan, who reigned in Hazor. The commander of his army was Sisera, who lived in Harosheth Haggoyim.",
     Ind:"Lalu TUHAN menyerahkan mereka ke dalam tangan Yabin, raja Kanaan, yang memerintah di Hazor. Panglima tentaranya ialah Sisera yang diam di Haroset-Hagoyim."
   },
   {Bible:"Judges", Chapter:4, Verse:3, Page:1,
-    Kor:"야빈은 철 병거 구백 대를 가지고 있었으며, 이십 년 동안 이스라엘 자손을 심하게 억압하였다. 그래서 이스라엘 자손은 주님께 울부짖었다.",
+    Kor:"야빈은 철 병거 구백 대를 가지고 있었으며, 이십 년 동안 이스라엘 자손을 심하게 억압하였다. 그래서 이스라엘 자손은 주께 울부짖었다.",
     Chn:"耶宾王有铁车九百辆。他大大欺压以色列人二十年，以色列人就呼求耶和华。",
     Eng:"Because he had nine hundred iron chariots and had cruelly oppressed the Israelites for twenty years, they cried to the LORD for help.",
     Ind:"Lalu orang Israel berseru kepada TUHAN, sebab Sisera mempunyai sembilan ratus kereta besi dan dua puluh tahun lamanya ia menindas orang Israel dengan keras."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Jawab Barak kepada Debora: \"Jika engkau turut maju akupun maju, tetapi jika engkau tidak turut maju akupun tidak maju.\""
   },
   {Bible:"Judges", Chapter:4, Verse:9, Page:1,
-    Kor:"그러자 드보라는 \"내가 반드시 장군님과 함께 가겠습니다. 그러나 주님께서 시스라를 한 여자의 손에 내주실 것이니, 장군께서는 이번에 가는 길에서는 영광을 얻지 못할 것입니다\" 하고 일어나, 바락과 함께 게데스로 갔다.",
+    Kor:"그러자 드보라는 \"내가 반드시 장군님과 함께 가겠습니다. 그러나 주께서 시스라를 한 여자의 손에 내주실 것이니, 장군께서는 이번에 가는 길에서는 영광을 얻지 못할 것입니다\" 하고 일어나, 바락과 함께 게데스로 갔다.",
     Chn:"底波拉说：「我必与你同去，只是你在所行的路上得不着荣耀，因为耶和华要将西西拉交在一个妇人手里。」于是底波拉起来，与巴拉一同往基低斯去了。",
     Eng:"\"Very well,\" Deborah said, \"I will go with you. But because of the way you are going about this, the honor will not be yours, for the LORD will hand Sisera over to a woman.\" So Deborah went with Barak to Kedesh,",
     Ind:"Kata Debora: \"Baik, aku turut! Hanya, engkau tidak akan mendapat kehormatan dalam perjalanan yang engkau lakukan ini, sebab TUHAN akan menyerahkan Sisera ke dalam tangan seorang perempuan.\" Lalu Debora bangun berdiri dan pergi bersama-sama dengan Barak ke Kedesh."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Barak mengerahkan suku Zebulon dan suku Naftali ke Kedesh, maka sepuluh ribu orang maju mengikuti dia; juga Debora maju bersama-sama dengan dia."
   },
   {Bible:"Judges", Chapter:4, Verse:11, Page:1,
-    Kor:"○그런데 a모세의 장인 호밥의 자손 가운데 헤벨이라고 하는 겐 사람이 동족을 떠나, 게데스 부근에 있는 사아난님 상수리나무 곁에 장막을 치고 살았다.(a 칠십인역에는 '장인 호밥은'. 모세의 장인은 민 10:29 및 삿 4:11에서는 호밥이고, 출 2:21에서는 르우엘이고, 출 18장에서는 이드로이다)",
+    Kor:"○그런데 모세의 장인 호밥의 자손 가운데 헤벨이라고 하는 겐 사람이 동족을 떠나, 게데스 부근에 있는 사아난님 상수리나무 곁에 장막을 치고 살았다.",
     Chn:"摩西岳父何巴的后裔，基尼人希百曾离开基尼族，到靠近基低斯、撒拿音的橡树旁支搭帐棚。",
     Eng:"Now Heber the Kenite had left the other Kenites, the descendants of Hobab, Moses' brother-in-law, and pitched his tent by the great tree in Zaanannim near Kedesh.",
     Ind:"Adapun Heber, orang Keni itu, telah memisahkan diri dari suku Keni, dari anak-anak Hobab ipar Musa, dan telah berpindah-pindah memasang kemahnya sampai ke pohon tarbantin di Zaanaim yang dekat Kedesh."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Setelah dikabarkan kepada Sisera, bahwa Barak bin Abinoam telah maju ke gunung Tabor,"
   },
   {Bible:"Judges", Chapter:4, Verse:13, Page:1,
-    Kor:"그의 전 병력 곧 구백 대의 철 병거와 그가 거느린 온 군대를 이방인의 땅 하로셋에서 기손 강 가로 불러모았다.",
+    Kor:"그의 전 병력, 곧 구백 대의 철 병거와 그가 거느린 온 군대를 이방인의 땅 하로셋에서 기손 강 가로 불러모았다.",
     Chn:"西西拉就聚集所有的铁车九百辆和跟随他的全军，从外邦人的夏罗设出来，到了基顺河。",
     Eng:"Sisera gathered together his nine hundred iron chariots and all the men with him, from Harosheth Haggoyim to the Kishon River.",
     Ind:"dikerahkannyalah segala keretanya, sembilan ratus kereta besi, dan seluruh rakyat yang bersama-sama dengan dia, dari Haroset-Hagoyim ke sungai Kison."
   },
   {Bible:"Judges", Chapter:4, Verse:14, Page:1,
-    Kor:"드보라가 바락에게 말하였다. \"자, 가십시오. 오늘이 바로 주님께서 시스라를 장군님의 손에 넘겨 주신 날입니다. 주님께서 친히 그대 앞에 서서 싸우러 나가실 것입니다.\" 그래서 바락은 만 명의 병력을 이끌고, 다볼 산에서 쳐내려갔다.",
+    Kor:"드보라가 바락에게 말하였다. \"자, 가십시오. 오늘이 바로 주께서 시스라를 장군님의 손에 넘겨 주신 날입니다. 주께서 친히 그대 앞에 서서 싸우러 나가실 것입니다.\" 그래서 바락은 만 명의 병력을 이끌고, 다볼 산에서 쳐내려갔다.",
     Chn:"底波拉对巴拉说：「你起来，今日就是耶和华将西西拉交在你手的日子。耶和华岂不在你前头行吗？」于是巴拉下了他泊山，跟随他有一万人。",
     Eng:"Then Deborah said to Barak, \"Go! This is the day the LORD has given Sisera into your hands. Has not the LORD gone ahead of you?\" So Barak went down Mount Tabor, followed by ten thousand men.",
     Ind:"Lalu berkatalah Debora kepada Barak: \"Bersiaplah, sebab inilah harinya TUHAN menyerahkan Sisera ke dalam tanganmu. Bukankah TUHAN telah maju di depan engkau?\" Lalu turunlah Barak dari gunung Tabor dan sepuluh ribu orang mengikuti dia,"
   },
   {Bible:"Judges", Chapter:4, Verse:15, Page:1,
-    Kor:"주님께서 시스라와 그가 거느린 모든 철 병거와 온 군대를 바락 앞에서 칼날에 패하게 하시니, 시스라가 병거에서 내려서 뛰어 도망쳤다.",
+    Kor:"주께서 시스라와 그가 거느린 모든 철 병거와 온 군대를, 바락 앞에서 칼날에 패하게 하시니, 시스라가 병거에서 내려서 뛰어 도망쳤다.",
     Chn:"耶和华使西西拉和他一切车辆全军溃乱，在巴拉面前被刀杀败；西西拉下车步行逃跑。",
     Eng:"At Barak's advance, the LORD routed Sisera and all his chariots and army by the sword, and Sisera abandoned his chariot and fled on foot.",
     Ind:"dan TUHAN mengacaukan Sisera serta segala keretanya dan seluruh tentaranya oleh mata pedang di depan Barak, sehingga Sisera turun dari keretanya dan melarikan diri dengan berjalan kaki."

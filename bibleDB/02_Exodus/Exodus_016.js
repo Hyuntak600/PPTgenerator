@@ -3,7 +3,7 @@
 BibleDB.ref("Exodus",16,36);
 BibleDB.add([
   {Bible:"Exodus", Chapter:16, Verse:1, Page:1,
-    Kor:"<만나와 메추라기> 이스라엘 자손의 온 회중이 엘림에서 떠나, 엘림과 시내 산 사이에 있는 신 광야에 이르렀다. 이집트 땅에서 나온 뒤, a둘째 달 보름이 되던 날이다.(a '시브월', 양력 사월 중순 이후)",
+    Kor:"이스라엘 자손의 온 회중이 엘림에서 떠나, 엘림과 시내 산 사이에 있는 신 광야에 이르렀다. 이집트 땅에서 나온 뒤, 둘째 달 보름이 되던 날이다.",
     Chn:"以色列全会众从以琳起行，在出埃及后第二个月十五日到了以琳和西奈中间、汛的旷野。",
     Eng:"The whole Israelite community set out from Elim and came to the Desert of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had come out of Egypt.",
     Ind:"Setelah mereka berangkat dari Elim, tibalah segenap jemaah Israel di padang gurun Sin, yang terletak di antara Elim dan gunung Sinai, pada hari yang kelima belas bulan yang kedua, sejak mereka keluar dari tanah Mesir."
@@ -15,61 +15,61 @@ BibleDB.add([
     Ind:"Di padang gurun itu bersungut-sungutlah segenap jemaah Israel kepada Musa dan Harun;"
   },
   {Bible:"Exodus", Chapter:16, Verse:3, Page:1,
-    Kor:"이스라엘 자손이 그들에게 항의하였다. \"차라리 우리가 이집트 땅 거기 고기 가마 곁에 앉아 배불리 음식을 먹던 그 때에, 누가 우리를 주님의 손에 넘겨 주어서 죽게 했더라면 더 좋을 뻔 하였습니다. 그런데 당신들은 지금 우리를 이 광야로 끌고 나와서, 이 모든 회중을 다 굶어 죽게 하고 있습니다.\"",
+    Kor:"이스라엘 자손이 그들에게 항의하였다. \"차라리, 우리가 이집트 땅, 거기 고기 가마 곁에 앉아 배불리 음식을 먹던 그 때에, 누가 우리를 주의 손에 넘겨 주어서 죽게 했더라면 더 좋을 뻔 하였다. 그런데 너희들은 지금, 우리를 이 광야로 끌고 나와서, 이 모든 회중을 다 굶어 죽게 하고 있다.\"",
     Chn:"说：「巴不得我们早死在埃及地、耶和华的手下；那时我们坐在肉锅旁边，吃得饱足。你们将我们领出来，到这旷野，是要叫这全会众都饿死啊！」",
     Eng:"The Israelites said to them, \"If only we had died by the LORD'S hand in Egypt! There we sat around pots of meat and ate all the food we wanted, but you have brought us out into this desert to starve this entire assembly to death.\"",
     Ind:"dan berkata kepada mereka: \"Ah, kalau kami mati tadinya di tanah Mesir oleh tangan TUHAN ketika kami duduk menghadapi kuali berisi daging dan makan roti sampai kenyang! Sebab kamu membawa kami keluar ke padang gurun ini untuk membunuh seluruh jemaah ini dengan kelaparan.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:4, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다. \"너희가 먹을 것을 하늘에서 비처럼 내려 줄 터이니, 백성이 날마다 나가서, 그날 그날 먹을 만큼 거두어들이게 하여라. 이렇게 하여, 그들이 나의 지시를 따르는지, 따르지 않는지 시험하여 보겠다.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"내가 하늘에서, 너희가 먹을 것을 비처럼 내려 줄 터이니, 백성이 날마다 나가서, 그날 그날 먹을 만큼 거두어들이게 하여라. 이렇게 하여, 그들이 나의 지시를 따르는지, 따르지 않는지 시험하여 보겠다.",
     Chn:"耶和华对摩西说：「我要将粮食从天降给你们。百姓可以出去，每天收每天的分，我好试验他们遵不遵我的法度。",
     Eng:"Then the LORD said to Moses, \"I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them and see whether they will follow my instructions.",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa: \"Sesungguhnya Aku akan menurunkan dari langit hujan roti bagimu; maka bangsa itu akan keluar dan memungut tiap-tiap hari sebanyak yang perlu untuk sehari, supaya mereka Kucoba, apakah mereka hidup menurut hukum-Ku atau tidak."
   },
   {Bible:"Exodus", Chapter:16, Verse:5, Page:1,
-    Kor:"매주 엿샛날에는, 거두어들인 것으로 먹거리를 준비하다 보면, 날마다 거두던 것의 두 배가 될 것이다.\"",
+    Kor:"매주 엿샛날에는, 거두어들인 것으로 먹을거리를 준비하다 보면, 날마다 거두던 것의 두 배가 될 것이다.\"",
     Chn:"到第六天，他们要把所收进来的预备好了，比每天所收的多一倍。」",
     Eng:"On the sixth day they are to prepare what they bring in, and that is to be twice as much as they gather on the other days.\"",
     Ind:"Dan pada hari yang keenam, apabila mereka memasak yang dibawa mereka pulang, maka yang dibawa itu akan terdapat dua kali lipat banyaknya dari apa yang dipungut mereka sehari-hari.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:6, Page:1,
-    Kor:"○모세와 아론이 모든 이스라엘 자손에게 말하였다. \"저녁이 되면, 당신들은 이집트 땅에서 당신들을 이끌어 내신 분이 주님이시라는 것을 알게 될 것입니다.",
+    Kor:"○모세와 아론이 모든 이스라엘 자손에게 말하였다. \"저녁이 되면, 너희는 이집트 땅에서 너희를 이끌어 내신 분이 주님이시라는 것을 알게 될 것이다.",
     Chn:"摩西、亚伦对以色列众人说：「到了晚上，你们要知道是耶和华将你们从埃及地领出来的。",
     Eng:"So Moses and Aaron said to all the Israelites, \"In the evening you will know that it was the LORD who brought you out of Egypt,",
     Ind:"Sesudah itu berkatalah Musa dan Harun kepada seluruh orang Israel: \"Petang ini kamu akan mengetahui bahwa Tuhanlah yang telah membawa kamu keluar dari tanah Mesir."
   },
   {Bible:"Exodus", Chapter:16, Verse:7, Page:1,
-    Kor:"당신들이 우리를 보고 원망한 것이 아니라, 주님을 원망하였습니다. 주님께서 당신들이 주님을 원망하는 소리를 들으셨습니다. 이제 아침이 되면, 당신들이 주님의 영광을 보게 될 것입니다. 우리가 무엇이라고, 당신들이 우리를 보고 원망하십니까?\"",
+    Kor:"너희가 우리를 보고 원망한 것이 아니라, 주님을 원망하였다. 주께서 너희가 당신을 원망하는 소리를 들으셨다. 이제 아침이 되면, 너희가 주의 영광을 보게 될 것이다. 우리가 무엇이라고, 너희가 우리를 보고 원망하느냐?\"",
     Chn:"早晨，你们要看见耶和华的荣耀，因为耶和华听见你们向他所发的怨言了。我们算什么，你们竟向我们发怨言呢？」",
     Eng:"and in the morning you will see the glory of the LORD, because he has heard your grumbling against him. Who are we, that you should grumble against us?\"",
     Ind:"Dan besok pagi kamu melihat kemuliaan TUHAN, karena Ia telah mendengar sungut-sungutmu kepada-Nya. Sebab, apalah kami ini maka kamu bersungut-sungut kepada kami?\""
   },
   {Bible:"Exodus", Chapter:16, Verse:8, Page:1,
-    Kor:"또 모세가 말하였다. \"주님께서 저녁에는 당신들에게 먹을 고기를 주시고, 아침에는 배불리 먹을 빵을 주실 것입니다. 주님께서는, 당신들이 주님을 원망하는 소리를 들으셨습니다. 당신들이 하는 원망은 우리에게 하는 것이 아니라, 주님께 하는 것입니다.\"",
+    Kor:"또 모세가 말하였다. \"주께서 저녁에는 너희에게 먹을 고기를 주시고, 아침에는 배불리 먹을 빵을 주실 것이다. 주께서는, 너희가 당신을 원망하는 소리를 들으셨다. 너희가 하는 원망은 우리에게 하는 것이 아니라, 주께 하는 것이다.\"",
     Chn:"摩西又说：「耶和华晚上必给你们肉吃，早晨必给你们食物得饱；因为你们向耶和华发的怨言，他都听见了。我们算什么，你们的怨言不是向我们发的，乃是向耶和华发的。」",
     Eng:"Moses also said, \"You will know that it was the LORD when he gives you meat to eat in the evening and all the bread you want in the morning, because he has heard your grumbling against him. Who are we? You are not grumbling against us, but against the LORD.\"",
     Ind:"Lagi kata Musa: \"Jika memang TUHAN yang memberi kamu makan daging pada waktu petang dan makan roti sampai kenyang pada waktu pagi, karena TUHAN telah mendengar sungut-sungutmu yang kamu sungut-sungutkan kepada-Nya--apalah kami ini? Bukan kepada kami sungut-sungutmu itu, tetapi kepada TUHAN.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:9, Page:1,
-    Kor:"○모세가 아론에게 말하였다. \"주님께서 이스라엘 자손이 원망하는 소리를 들으셨으니, 이스라엘 자손의 온 회중에게 주님 앞으로 가까이 나아오라고 일러주십시오.\"",
+    Kor:"○모세가 아론에게 말하였다. \"주께서 이스라엘 자손이 원망하는 소리를 들으셨으니, 이스라엘 자손의 온 회중에게, 주님 앞으로 가까이 나아오라고 일러주십시오.\"",
     Chn:"摩西对亚伦说：「你告诉以色列全会众说：『你们就近耶和华面前，因为他已经听见你们的怨言了。』」",
     Eng:"Then Moses told Aaron, \"Say to the entire Israelite community, 'Come before the LORD, for he has heard your grumbling.'\"",
     Ind:"Kata Musa kepada Harun: \"Katakanlah kepada segenap jemaah Israel: Marilah dekat ke hadapan TUHAN, sebab Ia telah mendengar sungut-sungutmu.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:10, Page:1,
-    Kor:"아론이 이스라엘 자손의 온 회중에게 말할 때에, 그들이 광야를 바라보니, 주님의 영광이 구름 속에 나타났다.",
+    Kor:"아론이 이스라엘 자손의 온 회중에게 말할 때에, 그들이 광야를 바라보니, 주의 영광이 구름 속에 나타났다.",
     Chn:"亚伦正对以色列全会众说话的时候，他们向旷野观看，不料，耶和华的荣光在云中显现。",
     Eng:"While Aaron was speaking to the whole Israelite community, they looked toward the desert, and there was the glory of the LORD appearing in the cloud.",
     Ind:"Dan sedang Harun berbicara kepada segenap jemaah Israel, mereka memalingkan mukanya ke arah padang gurun--maka tampaklah kemuliaan TUHAN dalam awan."
   },
   {Bible:"Exodus", Chapter:16, Verse:11, Page:1,
-    Kor:"주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa:"
   },
   {Bible:"Exodus", Chapter:16, Verse:12, Page:1,
-    Kor:"\"나는 이스라엘 자손이 원망하는 소리를 들었다. 너는 그들에게 '너희가 저녁이 되면 고기를 먹고, 아침에는 빵을 배불리 먹을 것이다. 그렇게 될 때에 너희는 나 주가 너희의 하나님임을 알게 될 것이다' 하고 말하여라.\"",
+    Kor:"\"나는 이스라엘 자손이 원망하는 소리를 들었다. 너는 그들에게 '너희가 저녁이 되면 고기를 먹고, 아침에는 빵을 배불리 먹을 것이다. 그렇게 될 때에 너희는, 나 주가 너희의 하나님임을 알게 될 것이다' 하고 말하여라.\"",
     Chn:"「我已经听见以色列人的怨言。你告诉他们说：『到黄昏的时候，你们要吃肉，早晨必有食物得饱，你们就知道我是耶和华—你们的　神。』」",
     Eng:"\"I have heard the grumbling of the Israelites. Tell them, 'At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.'\"",
     Ind:"\"Aku telah mendengar sungut-sungut orang Israel; katakanlah kepada mereka: Pada waktu senja kamu akan makan daging dan pada waktu pagi kamu akan kenyang makan roti; maka kamu akan mengetahui, bahwa Akulah TUHAN, Allahmu.\""
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Pada waktu petang datanglah berduyun-duyun burung puyuh yang menutupi perkemahan itu; dan pada waktu pagi terletaklah embun sekeliling perkemahan itu."
   },
   {Bible:"Exodus", Chapter:16, Verse:14, Page:1,
-    Kor:"안개가 걷히고 나니, 이럴 수가, 광야 지면에, 마치 땅 위의 서리처럼 보이는, 가는 싸라기 같은 것이 덮여 있는 것이 아닌가!",
+    Kor:"안개가 걷히고 나니, 이럴 수가! 광야 지면에, 마치 땅 위의 서리처럼 보이는, 가는 싸라기 같은 것이 덮여 있는 것이 아닌가!",
     Chn:"露水上升之后，不料，野地面上有如白霜的小圆物。",
     Eng:"When the dew was gone, thin flakes like frost on the ground appeared on the desert floor.",
     Ind:"Ketika embun itu telah menguap, tampaklah pada permukaan padang gurun sesuatu yang halus, sesuatu yang seperti sisik, halus seperti embun beku di bumi."
   },
   {Bible:"Exodus", Chapter:16, Verse:15, Page:1,
-    Kor:"이스라엘 자손이 그것을 보고, 그것이 무엇인지 몰라서, 서로 b\"이게 무엇이냐?\" 하고 물었다. 모세가 그들에게 말하였다. \"이것은 주님께서 당신들에게 먹으라고 주신 양식입니다.(b 히, '만 후(이것이 무엇이냐?)'. 여기에서 '만나'라는 말이 나옴)",
+    Kor:"이스라엘 자손이 그것을 보고, 그것이 무엇인지 몰라서, 서로 \"이게 무엇이냐?\" 하고 물었다. 모세가 그들에게 말하였다. \"이것은 주께서 너희에게 먹으라고 주신 양식이다.",
     Chn:"以色列人看见，不知道是什么，就彼此对问说：「这是什么呢？」摩西对他们说：「这就是耶和华给你们吃的食物。",
     Eng:"When the Israelites saw it, they said to each other, \"What is it?\" For they did not know what it was. Moses said to them, \"It is the bread the LORD has given you to eat.",
     Ind:"Ketika orang Israel melihatnya, berkatalah mereka seorang kepada yang lain: \"Apakah ini?\" Sebab mereka tidak tahu apa itu. Tetapi Musa berkata kepada mereka: \"Inilah roti yang diberikan TUHAN kepadamu menjadi makananmu."
   },
   {Bible:"Exodus", Chapter:16, Verse:16, Page:1,
-    Kor:"주님께서 당신들에게 명하시기를, 당신들은 각자 먹을 만큼씩만 거두라고 하셨습니다. 당신들 각 사람은, 자기 장막 안에 있는 식구 수대로, 식구 한 명에 한 오멜씩 거두라고 하셨습니다.\"",
+    Kor:"주께서 너희에게 명하시기를, 너희는 각자 먹을 만큼씩만 거두라고 하셨다. 너희 각 사람은, 자기 장막 안에 있는 식구 수대로, 식구 한 명에 한 오멜씩 거두라고 하셨다.\"",
     Chn:"耶和华所吩咐的是这样：你们要按着各人的饭量，为帐棚里的人，按着人数收起来，各拿一俄梅珥。」",
     Eng:"This is what the LORD has commanded: 'Each one is to gather as much as he needs. Take an omer for each person you have in your tent.'\"",
     Ind:"Beginilah perintah TUHAN: Pungutlah itu, tiap-tiap orang menurut keperluannya; masing-masing kamu boleh mengambil untuk seisi kemahnya, segomer seorang, menurut jumlah jiwa.\""
@@ -117,43 +117,43 @@ BibleDB.add([
     Ind:"Musa berkata kepada mereka: \"Seorangpun tidak boleh meninggalkan dari padanya sampai pagi.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:20, Page:1,
-    Kor:"그런데 어떤 사람들은 모세의 말을 듣지 않고, 아침까지 그것을 남겨 두었다. 그랬더니, 남겨 둔 것에서는 벌레가 생기고 악취가 풍겼다. 모세가 그들에게 몹시 화를 내었다.",
+    Kor:"그런데 어떤 사람들은 모세의 말을 듣지 않고, 그것을 아침까지 남겨 두었다. 그랬더니, 남겨 둔 것에서는 벌레가 생기고 악취가 풍겼다. 모세가 그들에게 몹시 화를 내었다.",
     Chn:"然而他们不听摩西的话，内中有留到早晨的，就生虫变臭了；摩西便向他们发怒。",
     Eng:"However, some of them paid no attention to Moses; they kept part of it until morning, but it was full of maggots and began to smell. So Moses was angry with them.",
     Ind:"Tetapi ada yang tidak mendengarkan Musa dan meninggalkan dari padanya sampai pagi, lalu berulat dan berbau busuk. Maka Musa menjadi marah kepada mereka."
   },
   {Bible:"Exodus", Chapter:16, Verse:21, Page:1,
-    Kor:"그래서 그들은 아침마다 자기들이 먹을 만큼씩만 거두었다. 해가 뜨겁게 쪼이면, 그것은 다 녹아 버렸다.",
+    Kor:"그래서 그들은 아침마다, 자기들이 먹을 만큼씩만 거두었다. 해가 뜨겁게 쪼이면, 그것은 다 녹아 버렸다.",
     Chn:"他们每日早晨，按着各人的饭量收取，日头一发热，就消化了。",
     Eng:"Each morning everyone gathered as much as he needed, and when the sun grew hot, it melted away.",
     Ind:"Setiap pagi mereka memungutnya, tiap-tiap orang menurut keperluannya; tetapi ketika matahari panas, cairlah itu."
   },
   {Bible:"Exodus", Chapter:16, Verse:22, Page:1,
-    Kor:"○매주 엿샛날에는, 각자가 먹거리를 두 배 곧 한 사람에 두 오멜씩 거두었다. 회중의 모든 지도자가 모세에게 와서 그 일을 알리니,",
+    Kor:"○매주 엿샛날에는, 각자가 먹을거리를 두 배, 곧 한 사람에 두 오멜씩 거두었다. 회중의 모든 지도자가 모세에게 와서 그 일을 알리니,",
     Chn:"到第六天，他们收了双倍的食物，每人两俄梅珥。会众的官长来告诉摩西；",
     Eng:"On the sixth day, they gathered twice as much--two omers for each person--and the leaders of the community came and reported this to Moses.",
     Ind:"Dan pada hari yang keenam mereka memungut roti itu dua kali lipat banyaknya, dua gomer untuk tiap-tiap orang; dan datanglah semua pemimpin jemaah memberitahukannya kepada Musa."
   },
   {Bible:"Exodus", Chapter:16, Verse:23, Page:1,
-    Kor:"모세가 그들에게 말하였다. \"주님께서 하신 말씀입니다. 내일은 쉬는 날로서, 주님의 거룩한 안식일이니, 당신들이 구울 것은 굽고, 삶을 것은 삶으십시오. 그리고 그 나머지는 모두 당신들이 다음날 먹을 수 있도록 아침까지 간수하십시오.\"",
+    Kor:"모세가 그들에게 말하였다. \"주께서 하신 말씀이다. 내일은 쉬는 날로서, 주의 거룩한 안식일이니, 너희가 구울 것은 굽고, 삶을 것은 삶아라. 그리고 그 나머지는 모두, 너희가 다음날 먹을 수 있도록 아침까지 간수하여라.\"",
     Chn:"摩西对他们说：「耶和华这样说：『明天是圣安息日，是向耶和华守的圣安息日。你们要烤的就烤了，要煮的就煮了，所剩下的都留到早晨。』」",
     Eng:"He said to them, \"This is what the LORD commanded: 'Tomorrow is to be a day of rest, a holy Sabbath to the LORD. So bake what you want to bake and boil what you want to boil. Save whatever is left and keep it until morning.'\"",
     Ind:"Lalu berkatalah Musa kepada mereka: \"Inilah yang dimaksudkan TUHAN: Besok adalah hari perhentian penuh, sabat yang kudus bagi TUHAN; maka roti yang perlu kamu bakar, bakarlah, dan apa yang perlu kamu masak, masaklah; dan segala kelebihannya biarkanlah di tempatnya untuk disimpan sampai pagi.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:24, Page:1,
-    Kor:"그들은 모세가 명령한 대로 그것을 다음날 아침까지 간수하였지만, 그것에서는 악취가 나지 않고, 구더기도 생기지 않았다.",
+    Kor:"그들은 모세가 명령한 대로, 그것을 다음날 아침까지 간수하였지만 그것에서는 악취가 나지 않고, 구더기도 생기지 않았다.",
     Chn:"他们就照摩西的吩咐留到早晨，也不臭，里头也没有虫子。",
     Eng:"So they saved it until morning, as Moses commanded, and it did not stink or get maggots in it.",
     Ind:"Mereka membiarkannya di tempatnya sampai keesokan harinya, seperti yang diperintahkan Musa; lalu tidaklah berbau busuk dan tidak ada ulat di dalamnya."
   },
   {Bible:"Exodus", Chapter:16, Verse:25, Page:1,
-    Kor:"모세가 말하였다. \"오늘은 이것을 먹도록 하십시오. 오늘은 주님의 안식일이니, 오늘만은 들에서 그것을 얻지 못할 것입니다.",
+    Kor:"모세가 말하였다. \"오늘은 이것을 먹도록 하여라. 오늘은 주의 안식일이니, 오늘만은 들에서 그것을 얻지 못할 것이다.",
     Chn:"摩西说：「你们今天吃这个吧！因为今天是向耶和华守的安息日；你们在田野必找不着了。",
     Eng:"\"Eat it today,\" Moses said, \"because today is a Sabbath to the LORD. You will not find any of it on the ground today.",
     Ind:"Selanjutnya kata Musa: \"Makanlah itu pada hari ini, sebab hari ini adalah sabat untuk TUHAN, pada hari ini tidaklah kamu mendapatnya di padang."
   },
   {Bible:"Exodus", Chapter:16, Verse:26, Page:1,
-    Kor:"당신들이 엿새 동안은 그것을 거둘 것이나, 이렛날은 안식일이니, 그 날에는 거두어들일 것이 없을 것입니다.\"",
+    Kor:"너희가 엿새 동안은 그것을 거둘 것이나, 이렛날은 안식일이니, 그 날에는 거두어들일 것이 없을 것이다.\"",
     Chn:"六天可以收取，第七天乃是安息日，那一天必没有了。」",
     Eng:"Six days you are to gather it, but on the seventh day, the Sabbath, there will not be any.\"",
     Ind:"Enam hari lamanya kamu memungutnya, tetapi pada hari yang ketujuh ada sabat; maka roti itu tidak ada pada hari itu.\""
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Tetapi ketika pada hari ketujuh ada dari bangsa itu yang keluar memungutnya, tidaklah mereka mendapatnya."
   },
   {Bible:"Exodus", Chapter:16, Verse:28, Page:1,
-    Kor:"그 때에 주님께서 모세에게 말씀하셨다. \"너희가 언제까지 나의 명령과 나의 지시를 지키지 않으려느냐?",
+    Kor:"그 때에 주께서 모세에게 말씀하셨다. \"너희가 언제까지 나의 명령과 나의 지시를 지키지 않으려느냐?",
     Chn:"耶和华对摩西说：「你们不肯守我的诫命和律法，要到几时呢？",
     Eng:"Then the LORD said to Moses, \"How long will you refuse to keep my commands and my instructions?",
     Ind:"Sebab itu TUHAN berfirman kepada Musa: \"Berapa lama lagi kamu menolak mengikuti segala perintah-Ku dan hukum-Ku?"
@@ -183,25 +183,25 @@ BibleDB.add([
     Ind:"Lalu beristirahatlah bangsa itu pada hari ketujuh."
   },
   {Bible:"Exodus", Chapter:16, Verse:31, Page:1,
-    Kor:"○이스라엘 사람은 그것을 c만나라고 하였다. 그것은 고수 씨처럼 하얗고, 그 맛은 꿀 섞은 과자와 같다.(c 이 이름의 유래에 관해서는 15절의 주를 볼 것)",
+    Kor:"○이스라엘 사람은 그것을 만나라고 하였다. 그것은 고수 씨처럼 하얗고, 그 맛은 꿀 섞은 과자와 같다.",
     Chn:"这食物，以色列家叫吗哪；样子像芫荽子，颜色是白的，滋味如同搀蜜的薄饼。",
     Eng:"The people of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.",
     Ind:"Umat Israel menyebutkan namanya: manna; warnanya putih seperti ketumbar dan rasanya seperti rasa kue madu."
   },
   {Bible:"Exodus", Chapter:16, Verse:32, Page:1,
-    Kor:"모세가 말하였다. \"주님께서 명하신 말씀입니다. '너희는 이것을 한 오멜씩 가득 담아 간수하여, 내가 너희를 이집트 땅에서 인도하여 낼 때에, 광야에서 너희에게 주어 먹게 한 이 먹거리를 너희의 자손 대대로 볼 수 있게 하여라.'\"",
+    Kor:"모세가 말하였다. \"주께서 명하신 말씀이다. 너희는 이것을 한 오멜씩 가득 담아 간수하여, 내가 너희를 이집트 땅에서 인도하여 낼 때에, 광야에서 너희에게 주어 먹게 한 이 먹을거리를 너희의 자손 대대로 볼 수 있게 하여라.\"",
     Chn:"摩西说：「耶和华所吩咐的是这样：『要将一满俄梅珥吗哪留到世世代代，使后人可以看见我当日将你们领出埃及地，在旷野所给你们吃的食物。』」",
     Eng:"Moses said, \"This is what the LORD has commanded: 'Take an omer of manna and keep it for the generations to come, so they can see the bread I gave you to eat in the desert when I brought you out of Egypt.'\"",
     Ind:"Musa berkata: \"Beginilah perintah TUHAN: Ambillah segomer penuh untuk disimpan turun-temurun, supaya keturunan mereka melihat roti yang Kuberi kamu makan di padang gurun, ketika Aku membawa kamu keluar dari tanah Mesir.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:33, Page:1,
-    Kor:"모세가 아론에게 말하였다. \"항아리 하나를 가져 와서, 거기에 만나 한 오멜을 담아 가지고 주님 앞에 두어서, 대대로 간수하게 하여 주십시오.\"",
+    Kor:"모세가 아론에게 말하였다. \"항아리 하나를 가져 와서, 거기에 만나 한 오멜을 담아 가지고 주 앞에 두어서, 대대로 간수하게 하십시오.\"",
     Chn:"摩西对亚伦说：「你拿一个罐子，盛一满俄梅珥吗哪，存在耶和华面前，要留到世世代代。」",
     Eng:"So Moses said to Aaron, \"Take a jar and put an omer of manna in it. Then place it before the LORD to be kept for the generations to come.\"",
     Ind:"Sebab itu Musa berkata kepada Harun: \"Ambillah sebuah buli-buli, taruhlah manna di dalamnya segomer penuh, dan tempatkanlah itu di hadapan TUHAN untuk disimpan turun-temurun.\""
   },
   {Bible:"Exodus", Chapter:16, Verse:34, Page:1,
-    Kor:"그래서 아론은, 주님께서 모세에게 명하신 대로, 그것을 증거판 앞에 두고서, 늘 거기에 있게 하였다.",
+    Kor:"그래서 아론은, 주께서 모세에게 명하신 대로, 그것을 증거판 앞에 두고서, 늘 거기에 있게 하였다.",
     Chn:"耶和华怎么吩咐摩西，亚伦就怎么行，把吗哪放在法柜前存留。",
     Eng:"As the LORD commanded Moses, Aaron put the manna in front of the Testimony, that it might be kept.",
     Ind:"Seperti yang diperintahkan TUHAN kepada Musa, demikianlah buli-buli itu ditempatkan Harun di hadapan tabut hukum Allah untuk disimpan."

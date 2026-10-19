@@ -3,7 +3,7 @@
 BibleDB.ref("Ezekiel",3,27);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:3, Verse:1, Page:1,
-    Kor:"그가 또 나에게 말씀하셨다. ○\"사람아, 너에게 보여 주는 것을 받아 먹어라. 너는 이 두루마리를 먹고 가서, 이스라엘 족속에게 알려 주어라.\"",
+    Kor:"그가 또 나에게 말씀하셨다. \"사람아, 너에게 보여 주는 것을 받아 먹어라. 너는 이 두루마리를 먹고 가서, 이스라엘 족속에게 알려 주어라.\"",
     Chn:"他对我说：「人子啊，要吃你所得的，要吃这书卷，好去对以色列家讲说。」",
     Eng:"And he said to me, \"Son of man, eat what is before you, eat this scroll; then go and speak to the house of Israel.\"",
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, makanlah apa yang engkau lihat di sini; makanlah gulungan kitab ini dan pergilah, berbicaralah kepada kaum Israel.\""
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"Maka kubukalah mulutku dan diberikan-Nya gulungan kitab itu kumakan."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:3, Page:1,
-    Kor:"나에게 말씀하셨다. ○\"사람아, 내가 너에게 주는 이 두루마리를 먹고, 너의 배를 불리며, 너의 속을 그것으로 가득히 채워라.\" 그래서 내가 그것을 먹었더니, 그것이 나의 입에 꿀같이 달았다.",
+    Kor:"나에게 말씀하셨다. \"사람아, 내가 너에게 주는 이 두루마리를 먹고, 너의 배를 불리며, 너의 속을 그것으로 가득히 채워라.\" 그래서 내가 그것을 먹었더니, 그것이 나의 입에 꿀같이 달았다.",
     Chn:"又对我说：「人子啊，要吃我所赐给你的这书卷，充满你的肚腹。」我就吃了，口中觉得其甜如蜜。",
     Eng:"Then he said to me, \"Son of man, eat this scroll I am giving you and fill your stomach with it.\" So I ate it, and it tasted as sweet as honey in my mouth.",
     Ind:"Lalu firman-Nya kepadaku: \"Hai anak manusia, makanlah gulungan kitab yang Kuberikan ini kepadamu dan isilah perutmu dengan itu.\" Lalu aku memakannya dan rasanya manis seperti madu dalam mulutku."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:4, Page:1,
-    Kor:"○그가 또 나에게 말씀하셨다. ○\"사람아, 어서 이스라엘 족속에게 가서, 내가 하는 바로 이 말을 그들에게 전하여라.",
+    Kor:"○그가 또 나에게 말씀하셨다. \"사람아, 어서 이스라엘 족속에게 가서, 내가 하는 바로 이 말을 그들에게 전하여라.",
     Chn:"他对我说：「人子啊，你往以色列家那里去，将我的话对他们讲说。",
     Eng:"He then said to me: \"Son of man, go now to the house of Israel and speak my words to them.",
     Ind:"Firman-Nya kepadaku: \"Hai anak manusia, mari, pergilah dan temuilah kaum Israel dan sampaikanlah perkataan-perkataan-Ku kepada mereka."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Lihat, Aku meneguhkan hatimu melawan mereka yang berkepala batu dan membajakan semangatmu melawan ketegaran hati mereka."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:9, Page:1,
-    Kor:"내가 네 이마를 바윗돌보다 더 굳게 하여, 금강석처럼 만들어 놓았다. 그들은 반역하는 족속이니, 너는 그들을 두려워하지 말고, 그들의 얼굴 앞에서 떨지도 말아라.\"",
+    Kor:"내가 네 이마를 바윗돌보다 더 굳게 하여, 금강석처럼 만들어 놓았다. 그들은 반항하는 족속이니, 너는 그들을 두려워하지 말고, 그들의 얼굴 앞에서 떨지도 말아라.\"",
     Chn:"我使你的额像金钢钻，比火石更硬。他们虽是悖逆之家，你不要怕他们，也不要因他们的脸色惊惶。」",
     Eng:"I will make your forehead like the hardest stone, harder than flint. Do not be afraid of them or terrified by them, though they are a rebellious house.\"",
     Ind:"Seperti batu intan, yang lebih keras dari pada batu Kuteguhkan hatimu; janganlah takut kepada mereka dan janganlah gentar melihat mukanya, sebab mereka adalah kaum pemberontak.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Mari, pergilah dan temuilah orang-orang buangan, teman sebangsamu, berbicaralah kepada mereka dan katakanlah: Beginilah firman Tuhan ALLAH; baik mereka mau mendengarkan atau tidak.\""
   },
   {Bible:"Ezekiel", Chapter:3, Verse:12, Page:1,
-    Kor:"○그 때에 주님의 영이 나를 들어 올리시는데, 주님의 영광이 그 처소에서 나타날 때에, 내 뒤에서 지진이 터지는 것같이 크고 요란한 소리가 들렸다.",
+    Kor:"○그 때에 주의 영이 나를 들어 올리시는데, 주의 영광이 그 처소에서 나타날 때에, 내 뒤에서 지진이 터지는 것같이 크고 요란한 소리가 들렸다.",
     Chn:"那时，灵将我举起，我就听见在我身后有震动轰轰的声音，说：「从耶和华的所在显出来的荣耀是该称颂的！」",
     Eng:"Then the Spirit lifted me up, and I heard behind me a loud rumbling sound--May the glory of the LORD be praised in his dwelling place!--",
     Ind:"Maka Roh itu mengangkat aku, dan aku mendengar di belakangku suatu suara gemuruh yang besar, tatkala kemuliaan Allah naik ke atas dari tempatnya,"
@@ -81,31 +81,31 @@ BibleDB.add([
     Ind:"yakni suara dari sayap-sayap makhluk-makhluk hidup yang menggesek satu sama lain, dan di samping itu suara gemertak dari roda-roda, suatu suara gemuruh yang besar."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:14, Page:1,
-    Kor:"주님의 영이 나를 들어 올려서 데리고 가실 때에, 나는 괴롭고 분통이 터지는 심정에 잠겨 있었는데, 주님의 손이 나를 무겁게 짓눌렀다.",
+    Kor:"주의 영이 나를 들어 올려서 데리고 가실 때에, 나는 괴롭고 분통이 터지는 심정에 잠겨 있었는데, 주의 손이 나를 무겁게 짓눌렀다.",
     Chn:"于是灵将我举起，带我而去。我心中甚苦，灵性忿激，并且耶和华的灵在我身上大有能力。",
     Eng:"The Spirit then lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of the LORD upon me.",
     Ind:"Dan Roh itu mengangkat dan membawa aku, dan aku pergi dengan hati panas dan dengan perasaan pahit, karena kekuasaan TUHAN memaksa aku dengan sangat."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:15, Page:1,
-    Kor:"나는 델아빕으로 갔다. 그 곳 그발 강 가에는 포로로 끌려온 백성이 살고 있었다. 나는 그들과 함께 이레 동안 머물러 있었는데, a얼이 빠진 사람처럼 앉아 있었다.(a 또는 '그가 본 것과 들은 것 때문에')",
+    Kor:"나는 델아빕으로 갔다. 그 곳 그발 강 가에는 포로로 끌려온 백성이 살고 있었다. 나는 그들과 함께 이레 동안 머물러 있었는데, 얼이 빠진 사람처럼 앉아 있었다.",
     Chn:"我就来到提勒·亚毕，住在迦巴鲁河边被掳的人那里，到他们所住的地方，在他们中间忧忧闷闷地坐了七日。",
     Eng:"I came to the exiles who lived at Tel Abib near the Kebar River. And there, where they were living, I sat among them for seven days--overwhelmed.",
     Ind:"Demikianlah aku datang kepada orang-orang buangan yang tinggal di tepi sungai Kebar di Tel-Abib dan di sana aku duduk tertegun di tengah-tengah mereka selama tujuh hari."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:16, Page:1,
-    Kor:"<파수꾼 에스겔(겔 33:1-9)> ○이레가 지난 다음에 주님께서 나에게 말씀하셨다.",
+    Kor:"○이레가 지난 다음에 주께서 나에게 말씀하셨다.",
     Chn:"过了七日，耶和华的话临到我说：",
     Eng:"At the end of seven days the word of the LORD came to me:",
     Ind:"Sesudah tujuh hari datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:3, Verse:17, Page:1,
-    Kor:"○\"사람아, 내가 너를 이스라엘 족속의 파수꾼으로 세웠다. 그러므로 너는 내가 하는 말을 듣고, 나를 대신하여 그들에게 경고하여라.",
+    Kor:"\"사람아, 내가 너를 이스라엘 족속의 파수꾼으로 세웠다. 그러므로 너는 내가 하는 말을 듣고, 나를 대신하여 그들에게 경고하여라.",
     Chn:"「人子啊，我立你作以色列家守望的人，所以你要听我口中的话，替我警戒他们。",
     Eng:"\"Son of man, I have made you a watchman for the house of Israel; so hear the word I speak and give them warning from me.",
     Ind:"\"Hai anak manusia, Aku telah menetapkan engkau menjadi penjaga kaum Israel. Bilamana engkau mendengarkan sesuatu firman dari pada-Ku, peringatkanlah mereka atas nama-Ku."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:18, Page:1,
-    Kor:"가령 내가 악인에게 말하기를 '너는 반드시 죽을 것이다' 할 때에, 네가 그 악인을 깨우쳐 주지 않거나, 그 악인에게 말로 타일러서 그가 악한 길을 버리고 떠나 생명이 구원 받도록 경고해 주지 않으면, 그 악인은 자신의 악한 행실 때문에 죽을 것이지만 그 사람이 죽은 책임은 내가 너에게 묻겠다.",
+    Kor:"가령 내가 악인에게 말하기를 '너는 반드시 죽을 것이다' 할 때에, 네가 그 악인을 깨우쳐 주지 않거나, 그 악인에게 말로 타일러서 그가 악한 길을 버리고 떠나 생명을 구원 받도록 경고해 주지 않으면, 그 악인은 자신의 악한 행실 때문에 죽을 것이다. 나는 그 사람이 죽은 책임을 너에게 묻겠다.",
     Chn:"我何时指着恶人说：他必要死；你若不警戒他，也不劝戒他，使他离开恶行，拯救他的性命，这恶人必死在罪孽之中；我却要向你讨他丧命的罪。",
     Eng:"When I say to a wicked man, 'You will surely die,' and you do not warn him or speak out to dissuade him from his evil ways in order to save his life, that wicked man will die for his sin, and I will hold you accountable for his blood.",
     Ind:"Kalau Aku berfirman kepada orang jahat: Engkau pasti dihukum mati! --dan engkau tidak memperingatkan dia atau tidak berkata apa-apa untuk memperingatkan orang jahat itu dari hidupnya yang jahat, supaya ia tetap hidup, orang jahat itu akan mati dalam kesalahannya, tetapi Aku akan menuntut pertanggungan jawab atas nyawanya dari padamu."
@@ -129,37 +129,37 @@ BibleDB.add([
     Ind:"Tetapi jikalau engkau memperingatkan orang yang benar itu supaya ia jangan berbuat dosa dan memang tidak berbuat dosa, ia akan tetap hidup, sebab ia mau menerima peringatan, dan engkau telah menyelamatkan nyawamu.\""
   },
   {Bible:"Ezekiel", Chapter:3, Verse:22, Page:1,
-    Kor:"<에스겔이 벙어리가 되다> ○거기서 주님의 능력이 내 위에 내렸다. 주님께서 나에게 말씀하셨다. ○\"일어나서 들로 나가거라. 거기에서 너에게 할 말이 있다.\"",
+    Kor:"○거기서 주의 능력이 내 위에 내렸다. 주께서 나에게 말씀하셨다. \"일어나서 들로 나가거라. 거기에서 너에게 할 말이 있다.\"",
     Chn:"耶和华的灵在那里降在我身上。他对我说：「你起来往平原去，我要在那里和你说话。」",
     Eng:"The hand of the LORD was upon me there, and he said to me, \"Get up and go out to the plain, and there I will speak to you.\"",
     Ind:"Maka di sana kekuasaan TUHAN meliputi aku dan Ia berfirman kepadaku: \"Bangunlah dan pergilah ke lembah, di sana Aku akan berbicara dengan engkau.\""
   },
   {Bible:"Ezekiel", Chapter:3, Verse:23, Page:1,
-    Kor:"○그래서 내가 일어나 들로 나가서 보니, 그 곳에는 주님의 영광이 머물러 있었는데, 전에 그발 강 가에서 보던 영광과 똑같았다. 나는 땅에 엎드렸다.",
+    Kor:"○그래서 내가 일어나 들로 나가서 보니, 그 곳에는 주의 영광이 머물러 있었는데, 전에 그발 강 가에서 보던 영광과 똑같았다. 나는 땅에 엎드렸다.",
     Chn:"于是我起来往平原去，不料，耶和华的荣耀正如我在迦巴鲁河边所见的一样，停在那里，我就俯伏于地。",
     Eng:"So I got up and went out to the plain. And the glory of the LORD was standing there, like the glory I had seen by the Kebar River, and I fell facedown.",
     Ind:"Aku bangun dan pergi ke lembah; sesungguhnya di sana kelihatan kemuliaan TUHAN seperti kemuliaan yang telah kulihat di tepi sungai Kebar, dan aku sujud."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:24, Page:1,
-    Kor:"그 때에 주님의 영이 나의 마음 속으로 들어오셔서 나를 일으켜 세우시고, 나에게 이렇게 일러주셨다. ○\"너는 집으로 가서 문을 잠그고 집 안에 있거라.",
+    Kor:"그 때에 주의 영이 나의 마음 속으로 들어오셔서 나를 일으켜 세우시고, 나에게 이렇게 일러주셨다. \"너는 집으로 가서 문을 잠그고 집 안에 있거라.",
     Chn:"灵就进入我里面，使我站起来。耶和华对我说：「你进房屋去，将门关上。",
     Eng:"Then the Spirit came into me and raised me to my feet. He spoke to me and said: \"Go, shut yourself inside your house.",
     Ind:"Tetapi masuklah Roh ke dalam aku dan ditegakkannya aku, lalu Ia berbicara dengan aku, kata-Nya: \"Pergilah pulang, kurunglah dirimu di dalam rumahmu."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:25, Page:1,
-    Kor:"너 사람아, 사람들이 너를 밧줄로 묶어 놓아서, 네가 사람들에게로 나가지 못할 것이다.",
+    Kor:"너 사람아, 사람들이 너를 포승으로 묶어 놓아서, 네가 사람들에게로 나가지 못할 것이다.",
     Chn:"人子啊，人必用绳索捆绑你，你就不能出去在他们中间来往。",
     Eng:"And you, son of man, they will tie with ropes; you will be bound so that you cannot go out among the people.",
     Ind:"Dan engkau, anak manusia, sesungguhnya, engkau akan diikat dengan tali dan akan dibelenggu, sehingga engkau tidak bisa keluar masuk di tengah-tengah mereka."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:26, Page:1,
-    Kor:"더욱이 내가 네 혀를 입천장에 붙여 너를 말 못하는 사람으로 만들어서, 그들을 꾸짖지도 못하게 하겠다. 그들은 반역하는 족속이기 때문이다.",
+    Kor:"더욱이 내가 네 혀를 입천장에 붙여 너를 벙어리로 만들어서, 그들을 꾸짖지도 못하게 하겠다. 그들은 반항하는 족속이기 때문이다.",
     Chn:"我必使你的舌头贴住上膛，以致你哑口，不能作责备他们的人；他们原是悖逆之家。",
     Eng:"I will make your tongue stick to the roof of your mouth so that you will be silent and unable to rebuke them, though they are a rebellious house.",
     Ind:"Dan Aku akan membuat lidahmu melekat pada langit-langitmu, sehingga engkau menjadi bisu dan tidak akan menempelak mereka, sebab mereka adalah kaum pemberontak."
   },
   {Bible:"Ezekiel", Chapter:3, Verse:27, Page:1,
-    Kor:"그러나 내가 너에게 다시 말할 때에, 네 입을 열어 줄 것이니, 너는 '주 하나님이 이렇게 말씀하신다' 하고 그들에게 말하여라. 들을 사람은 들을 것이고, 듣기를 거절하는 사람은 거절할 것이다. 그들은 반역하는 족속이기 때문이다.\"",
+    Kor:"그러나 내가 너에게 다시 말할 때에, 네 입을 열어 줄 것이니, 너는 '주 하나님이 이렇게 말씀하신다' 하고 그들에게 말하여라. 들을 사람은 들을 것이고, 듣기를 거절하는 사람은 거절할 것이다. 그들은 반항하는 족속이기 때문이다.\"",
     Chn:"但我对你说话的时候，必使你开口，你就要对他们说：『主耶和华如此说。』听的可以听，不听的任他不听，因为他们是悖逆之家。」",
     Eng:"But when I speak to you, I will open your mouth and you shall say to them, 'This is what the Sovereign LORD says.' Whoever will listen let him listen, and whoever will refuse let him refuse; for they are a rebellious house.",
     Ind:"Tetapi kalau Aku berbicara dengan engkau, Aku akan membuka mulutmu dan engkau akan mengatakan kepada mereka: Beginilah firman Tuhan ALLAH. Orang yang mau mendengar, biarlah ia mendengar; dan orang yang mau membiarkan, baiklah membiarkan, sebab mereka adalah kaum pemberontak.\""

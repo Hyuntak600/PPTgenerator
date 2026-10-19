@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",3,51);
 BibleDB.add([
   {Bible:"Numbers", Chapter:3, Verse:1, Page:1,
-    Kor:"<아론의 아들들> 주님께서 시내 산에서 모세에게 말씀하시던 때에, 아론과 모세에게 아들들이 있었다.",
+    Kor:"주께서 시내 산에서 모세에게 말씀하시던 때에, 아론과 모세에게 아들들이 있었다.",
     Chn:"耶和华在西奈山晓谕摩西的日子，亚伦和摩西的后代如下：",
     Eng:"This is the account of the family of Aaron and Moses at the time the LORD talked with Moses on Mount Sinai.",
     Ind:"Inilah keturunan Harun dan Musa pada waktu TUHAN berfirman kepada Musa di gunung Sinai."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Itulah nama anak-anak Harun, imam-imam yang diurapi, yang telah ditahbiskan untuk memegang jabatan imam."
   },
   {Bible:"Numbers", Chapter:3, Verse:4, Page:1,
-    Kor:"나답과 아비후는, 시내 광야에서 주님께 금지된 불을 드리다가 주님 앞에서 죽었는데, 아들이 없이 죽었기 때문에, 엘르아살과 이다말만이 그들의 아버지 아론 앞에서 제사장 일을 맡아 하였다.",
+    Kor:"나답과 아비후는, 시내 광야에서 주께 금지된 불을 드리다가 주님 앞에서 죽었는데, 아들이 없이 죽었기 때문에, 엘르아살과 이다말만이 그들의 아버지 아론 앞에서 제사장 일을 맡아 하였다.",
     Chn:"拿答、亚比户在西奈的旷野向耶和华献凡火的时候就死在耶和华面前了。他们也没有儿子。以利亚撒、以他玛在他们的父亲亚伦面前供祭司的职分。",
     Eng:"Nadab and Abihu, however, fell dead before the LORD when they made an offering with unauthorized fire before him in the Desert of Sinai. They had no sons; so only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.",
     Ind:"Tetapi Nadab dan Abihu sudah mati di hadapan TUHAN di padang gurun Sinai, ketika mereka mempersembahkan api yang asing ke hadapan TUHAN. Mereka tidak mempunyai anak. Jadi ketika Harun, ayah mereka, masih hidup, yang memegang jabatan imam ialah Eleazar dan Itamar."
   },
   {Bible:"Numbers", Chapter:3, Verse:5, Page:1,
-    Kor:"<제사장을 돕는 레위 사람> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Tetapi Harun dan anak-anaknya haruslah kautugaskan untuk memegang jabatannya sebagai imam, sedang orang awam yang mendekat harus dihukum mati.\""
   },
   {Bible:"Numbers", Chapter:3, Verse:11, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD also said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"sebab Akulah yang punya semua anak sulung. Pada waktu Aku membunuh semua anak sulung di tanah Mesir, maka Aku menguduskan bagi-Ku semua anak sulung yang ada pada orang Israel, baik dari manusia maupun dari hewan; semuanya itu kepunyaan-Ku; Akulah TUHAN.\""
   },
   {Bible:"Numbers", Chapter:3, Verse:14, Page:1,
-    Kor:"<레위 사람 인구조사> ○주님께서 시내 광야에서 모세에게 말씀하셨다.",
+    Kor:"○주께서 시내 광야에서 모세에게 말씀하셨다.",
     Chn:"耶和华在西奈的旷野晓谕摩西说：",
     Eng:"The LORD said to Moses in the Desert of Sinai,",
     Ind:"TUHAN berfirman kepada Musa di padang gurun Sinai:"
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Kaum-kaum Gerson ini berkemah di belakang Kemah Suci di sebelah barat."
   },
   {Bible:"Numbers", Chapter:3, Verse:24, Page:1,
-    Kor:"게르손 자손 가문의 원로는 라엘의 아들 엘리아삽이다.",
+    Kor:"게르손 자손 가문의 어른은 라엘의 아들 엘리아삽이다.",
     Chn:"拉伊勒的儿子以利雅萨作革顺人宗族的首领。",
     Eng:"The leader of the families of the Gershonites was Eliasaph son of Lael.",
     Ind:"Pemimpin puak Gerson ialah Elyasaf bin Lael."
@@ -177,19 +177,19 @@ BibleDB.add([
     Ind:"Kaum-kaum bani Kehat ini berkemah pada sisi Kemah Suci sebelah selatan."
   },
   {Bible:"Numbers", Chapter:3, Verse:30, Page:1,
-    Kor:"고핫 가문 가족의 원로는 웃시엘의 아들 엘리사반이다.",
+    Kor:"고핫 가문 가족의 어른은 웃시엘의 아들 엘리사반이다.",
     Chn:"乌薛的儿子以利撒反作哥辖宗族家室的首领。",
     Eng:"The leader of the families of the Kohathite clans was Elizaphan son of Uzziel.",
     Ind:"Pemimpin puak Kehat dan kaum-kaumnya ialah Elisafan bin Uziel."
   },
   {Bible:"Numbers", Chapter:3, Verse:31, Page:1,
-    Kor:"그들의 임무는 a법궤와 상과 등잔대와 제단들과 제사드릴 때에 쓰는 거룩한 도구들과 휘장과, 이것들에 관련된 모든 예식을 보살피는 것이다.(a 또는 '증거궤')",
+    Kor:"그들의 임무는 법궤와 상과 등잔대와 제단들과 제사드릴 때에 쓰는 거룩한 도구들과 휘장과, 이것들에 관련된 모든 예식을 보살피는 것이다.",
     Chn:"他们所要看守的是约柜、桌子、灯台、两座坛与圣所内使用的器皿，并帘子和一切使用之物。",
     Eng:"They were responsible for the care of the ark, the table, the lampstand, the altars, the articles of the sanctuary used in ministering, the curtain, and everything related to their use.",
     Ind:"Yang harus dipelihara mereka ialah tabut, meja, kandil, mezbah-mezbah, perkakas tempat kudus yang dipakai untuk menyelenggarakan ibadah, juga tirai, termasuk segala pekerjaan yang berhubungan dengan semuanya itu."
   },
   {Bible:"Numbers", Chapter:3, Verse:32, Page:1,
-    Kor:"레위 사람의 최고 원로는 제사장 아론의 아들 엘르아살이고, 그는 성소의 일을 맡은 이들을 감독하는 책임을 맡았다.",
+    Kor:"레위 사람의 최고 어른은 제사장 아론의 아들 엘르아살이고, 그는 성소의 일을 맡은 이들을 감독하는 책임을 맡았다.",
     Chn:"祭司亚伦的儿子以利亚撒作利未人众首领的领袖，要监察那些看守圣所的人。",
     Eng:"The chief leader of the Levites was Eleazar son of Aaron, the priest. He was appointed over those who were responsible for the care of the sanctuary.",
     Ind:"Adapun pemimpin tertinggi orang Lewi ialah Eleazar, anak imam Harun, yang mengawasi mereka yang memelihara barang-barang kudus."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Jumlah pencatatan mereka ketika semua laki-laki yang berumur satu bulan ke atas dicatat ada enam ribu dua ratus orang."
   },
   {Bible:"Numbers", Chapter:3, Verse:35, Page:1,
-    Kor:"므라리 자손 가문의 원로는 아비하일의 아들 수리엘이다. 그들은 성막 북쪽에 진을 치게 되어 있었다.",
+    Kor:"므라리 자손 가문의 어른은 아비하일의 아들 수리엘이다. 그들은 성막 북쪽에 진을 치게 되어 있었다.",
     Chn:"亚比亥的儿子苏列作米拉利二宗族的首领。他们要在帐幕的北边安营。",
     Eng:"The leader of the families of the Merarite clans was Zuriel son of Abihail; they were to camp on the north side of the tabernacle.",
     Ind:"Pemimpin puak Merari dan kaum-kaumnya ialah Zuriel bin Abihail. Mereka berkemah pada sisi Kemah Suci sebelah utara."
@@ -231,13 +231,13 @@ BibleDB.add([
     Ind:"Yang berkemah di depan Kemah Suci di sebelah timur, di depan Kemah Pertemuan, ialah Musa, dan Harun serta anak-anaknya, yang mengerjakan tugas pemeliharaan tempat kudus bagi orang Israel; tetapi orang awam yang mendekat, haruslah dihukum mati."
   },
   {Bible:"Numbers", Chapter:3, Verse:39, Page:1,
-    Kor:"등록된 모든 레위 사람, 곧 주님께서 분부하신 대로, 모세와 아론이 가족별로 등록시킨 사람들은, 태어난 지 한 달이 넘은 남자들인데, 모두 b이만 이천 명이었다.(b 22, 28, 34절의 전체 숫자는 '이만 이천삼백 명')",
+    Kor:"등록된 모든 레위 사람, 곧 주께서 분부하신 대로, 모세와 아론이 가족별로 등록시킨 사람들은, 태어난 지 한 달이 넘은 남자들인데, 모두 이만 이천 명이었다.",
     Chn:"凡被数的利未人，就是摩西、亚伦照耶和华吩咐所数的，按着家室，从一个月以外的男子，共有二万二千名。",
     Eng:"The total number of Levites counted at the LORD'S command by Moses and Aaron according to their clans, including every male a month old or more, was 22,000.",
     Ind:"Jumlah orang Lewi yang sesuai dengan titah TUHAN dicatat oleh Musa dan Harun, menurut kaum-kaum mereka, yakni semua laki-laki yang berumur satu bulan ke atas, ada dua puluh dua ribu orang."
   },
   {Bible:"Numbers", Chapter:3, Verse:40, Page:1,
-    Kor:"<레위 사람이 맏아들 구실을 하다> ○주님께서 모세에게 말씀하셨다. \"이스라엘 자손 가운데서, 태어난 지 한 달이 넘은 맏아들은 모두 등록시키고, 명단을 작성하여라.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"이스라엘 자손 가운데서, 태어난 지 한 달이 넘은 맏아들은 모두 등록시키고, 명단을 작성하여라.",
     Chn:"耶和华对摩西说：「你要从以色列人中数点一个月以外、凡头生的男子，把他们的名字记下。",
     Eng:"The LORD said to Moses, \"Count all the firstborn Israelite males who are a month old or more and make a list of their names.",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa: \"Catatlah semua anak sulung laki-laki Israel yang berumur satu bulan ke atas, lalu hitunglah jumlah mereka,"
@@ -249,7 +249,7 @@ BibleDB.add([
     Ind:"dan ambillah orang-orang Lewi bagi-Ku--Akulah TUHAN--sebagai ganti semua anak sulung yang ada pada orang Israel, juga hewan orang Lewi ganti semua anak sulung di antara hewan orang Israel.\""
   },
   {Bible:"Numbers", Chapter:3, Verse:42, Page:1,
-    Kor:"모세는, 주님께서 자기에게 명하신 대로, 이스라엘 자손 가운데 있는 모든 맏아들을 다 등록시켰다.",
+    Kor:"모세는, 주께서 자기에게 명하신 대로, 이스라엘 자손 가운데 있는 모든 맏아들을 다 등록시켰다.",
     Chn:"摩西就照耶和华所吩咐的把以色列人头生的都数点了。",
     Eng:"So Moses counted all the firstborn of the Israelites, as the LORD commanded him.",
     Ind:"Maka Musa mencatat semua anak sulung yang ada pada orang Israel, seperti yang diperintahkan TUHAN kepadanya."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Semua anak sulung laki-laki yang dicatat namanya dalam pencatatan itu, yakni yang berumur satu bulan ke atas, ada dua puluh dua ribu dua ratus tujuh puluh tiga orang."
   },
   {Bible:"Numbers", Chapter:3, Verse:44, Page:1,
-    Kor:"○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD also said to Moses,",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa:"
@@ -303,7 +303,7 @@ BibleDB.add([
     Ind:"dari pada anak-anak sulung Israel diambilnya perak itu, seribu tiga ratus enam puluh lima syikal, ditimbang menurut syikal kudus,"
   },
   {Bible:"Numbers", Chapter:3, Verse:51, Page:1,
-    Kor:"주님께서 말씀하신 대로, 모세는 그 속전을 아론과 그의 아들들에게 주었다. 모세는 이처럼 주님께서 명하신 대로 하였다.",
+    Kor:"주께서 말씀하신 대로, 모세는 그 속전을 아론과 그의 아들들에게 주었다. 모세는 이처럼 주께서 명하신 대로 하였다.",
     Chn:"摩西照耶和华的话把这赎银给亚伦和他的儿子，正如耶和华所吩咐的。",
     Eng:"Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of the LORD.",
     Ind:"maka Musa memberikan uang tebusan itu kepada Harun dan anak-anaknya sesuai dengan titah TUHAN, seperti yang diperintahkan TUHAN kepada Musa."

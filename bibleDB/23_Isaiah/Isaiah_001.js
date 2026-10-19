@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Penglihatan yang telah dilihat Yesaya bin Amos tentang Yehuda dan Yerusalem dalam zaman Uzia, Yotam, Ahas dan Hizkia, raja-raja Yehuda."
   },
   {Bible:"Isaiah", Chapter:1, Verse:2, Page:1,
-    Kor:"<하나님께서 백성을 꾸짖으시다> 하늘아, 들어라! 땅아, 귀를 기울여라! 주님께서 말씀하신다. \"내가 자식이라고 기르고 키웠는데, 그들이 나를 거역하였다.",
+    Kor:"하늘아, 들어라! 땅아, 귀를 기울여라! 주께서 말씀하신다. \"내가 자식이라고 기르고 키웠는데, 그들이 나를 거역하였다.",
     Chn:"天哪，要听！地啊，侧耳而听！ 因为耶和华说： 我养育儿女，将他们养大， 他们竟悖逆我。",
     Eng:"Hear, O heavens! Listen, O earth! For the LORD has spoken: \"I reared children and brought them up, but they have rebelled against me.",
     Ind:"Dengarlah, hai langit, dan perhatikanlah, hai bumi, sebab TUHAN berfirman: \"Aku membesarkan anak-anak dan mengasuhnya, tetapi mereka memberontak terhadap Aku."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Lembu mengenal pemiliknya, tetapi Israel tidak; keledai mengenal palungan yang disediakan tuannya, tetapi umat-Ku tidak memahaminya.\""
   },
   {Bible:"Isaiah", Chapter:1, Verse:4, Page:1,
-    Kor:"슬프다! 죄 지은 민족, 허물이 많은 백성, 흉악한 종자, 타락한 자식들! 너희가 주님을 버렸구나. 이스라엘의 거룩하신 분을 업신여겨서, 등을 돌리고 말았구나.",
+    Kor:"슬프다! 죄 지은 민족, 허물이 많은 백성, 흉악한 종자, 타락한 자식들! 너희가 주를 버렸구나. 이스라엘의 거룩하신 분을 업신여겨서, 등을 돌리고 말았구나.",
     Chn:"嗐！犯罪的国民， 担着罪孽的百姓； 行恶的种类， 败坏的儿女！ 他们离弃耶和华， 藐视以色列的圣者， 与他生疏，往后退步。",
     Eng:"Ah, sinful nation, a people loaded with guilt, a brood of evildoers, children given to corruption! They have forsaken the LORD; they have spurned the Holy One of Israel and turned their backs on him.",
     Ind:"Celakalah bangsa yang berdosa, kaum yang sarat dengan kesalahan, keturunan yang jahat-jahat, anak-anak yang berlaku buruk! Mereka meninggalkan TUHAN, menista Yang Mahakudus, Allah Israel, dan berpaling membelakangi Dia."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Dari telapak kaki sampai kepala tidak ada yang sehat: bengkak dan bilur dan luka baru, tidak dipijit dan tidak dibalut dan tidak ditaruh minyak."
   },
   {Bible:"Isaiah", Chapter:1, Verse:7, Page:1,
-    Kor:"너희의 땅이 황폐해지고, 너희의 성읍들이 송두리째 불에 탔으며, 너희의 농토에서 난 것을, 너희가 보는 앞에서 이방 사람들이 약탈해 갔다. 이방 사람들이 너희의 땅을 박살냈을 때처럼 황폐해지고 말았구나.",
+    Kor:"너희의 땅이 황폐해지고, 너희의 성읍들이 송두리째 불에 탔으며, 너희의 농토에서 난 것을, 너희가 보는 앞에서 이방 사람들이 약탈해 갔다. 이방 사람들이 너희의 땅을 박살냈을 때처럼 황폐해 지고 말았구나.",
     Chn:"你们的地土已经荒凉； 你们的城邑被火焚毁。 你们的田地在你们眼前为外邦人所侵吞， 既被外邦人倾覆就成为荒凉。",
     Eng:"Your country is desolate, your cities burned with fire; your fields are being stripped by foreigners right before you, laid waste as when overthrown by strangers.",
     Ind:"Negerimu menjadi sunyi sepi, kota-kotamu habis terbakar; di depan matamu orang-orang asing memakan hasil dari tanahmu. Sunyi sepi negeri itu seolah-olah ditunggangbalikkan orang asing."
@@ -51,19 +51,19 @@ BibleDB.add([
     Ind:"Puteri Sion tertinggal sendirian seperti pondok di kebun anggur, seperti gubuk di kebun mentimun dan seperti kota yang terkepung."
   },
   {Bible:"Isaiah", Chapter:1, Verse:9, Page:1,
-    Kor:"만군의 주님께서 우리 가운데 얼마라도 살아 남게 하시지 않으셨다면, 우리는 마치 소돔처럼 되고 고모라처럼 될 뻔하였다.",
+    Kor:"만군의 주께서 우리 가운데 얼마라도 살아 남게 하시지 않으셨다면, 우리는 마치 소돔처럼 되고 고모라처럼 될 뻔하였다.",
     Chn:"若不是万军之耶和华给我们稍留余种， 我们早已像所多玛、蛾摩拉的样子了。",
     Eng:"Unless the LORD Almighty had left us some survivors, we would have become like Sodom, we would have been like Gomorrah.",
     Ind:"Seandainya TUHAN semesta alam tidak meninggalkan pada kita sedikit orang yang terlepas, kita sudah menjadi seperti Sodom, dan sama seperti Gomora."
   },
   {Bible:"Isaiah", Chapter:1, Verse:10, Page:1,
-    Kor:"너희 소돔의 a통치자들아! 주님의 말씀을 들어라. 너희 고모라의 백성아! 우리 하나님의 b법에 귀를 기울여라. (a 또는 '사사들아' b 또는 '가르침' 또는 '교훈')",
+    Kor:"너희 소돔의 통치자들아! 주의 말씀을 들어라. 너희 고모라의 백성아! 우리 하나님의 법에 귀를 기울여라.",
     Chn:"你们这所多玛的官长啊， 要听耶和华的话！ 你们这蛾摩拉的百姓啊， 要侧耳听我们　神的训诲！",
     Eng:"Hear the word of the LORD, you rulers of Sodom; listen to the law of our God, you people of Gomorrah!",
     Ind:"Dengarlah firman TUHAN, hai pemimpin-pemimpin, manusia Sodom! Perhatikanlah pengajaran Allah kita, hai rakyat, manusia Gomora!"
   },
   {Bible:"Isaiah", Chapter:1, Verse:11, Page:1,
-    Kor:"주님께서 말씀하신다. \"무엇하러 나에게 이 많은 제물을 바치느냐? 나는 이제 숫양의 번제물과 살진 짐승의 기름기가 지겹고, 나는 이제 수송아지와 어린 양과 숫염소의 피도 싫다.",
+    Kor:"주께서 말씀하신다. \"무엇하러 나에게 이 많은 제물을 바치느냐? 나는 이제 숫양의 번제물과 살진 짐승의 기름기가 지겹고, 나는 이제 수송아지와 어린 양과 숫염소의 피도 싫다.",
     Chn:"耶和华说： 你们所献的许多祭物与我何益呢？ 公绵羊的燔祭和肥畜的脂油， 我已经够了； 公牛的血，羊羔的血，公山羊的血， 我都不喜悦。",
     Eng:"\"The multitude of your sacrifices--what are they to me?\" says the LORD. \"I have more than enough of burnt offerings, of rams and the fat of fattened animals; I have no pleasure in the blood of bulls and lambs and goats.",
     Ind:"\"Untuk apa itu korbanmu yang banyak-banyak?\" firman TUHAN; \"Aku sudah jemu akan korban-korban bakaran berupa domba jantan dan akan lemak dari anak lembu gemukan; darah lembu jantan dan domba-domba dan kambing jantan tidak Kusukai."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Basuhlah, bersihkanlah dirimu, jauhkanlah perbuatan-perbuatanmu yang jahat dari depan mata-Ku. Berhentilah berbuat jahat,"
   },
   {Bible:"Isaiah", Chapter:1, Verse:17, Page:1,
-    Kor:"옳은 일을 하는 것을 배워라. 정의를 찾아라. c억압받는 사람을 도와주어라. 고아의 송사를 변호하여 주고 과부의 송사를 변론하여 주어라.\" (c 또는 '억압하는 자들을 꾸짖어라')",
+    Kor:"옳은일을 하는 것을 배워라. 정의를 찾아라. 억압받는 사람을 도와주어라. 고아의 송사를 변호하여 주고 과부의 송사를 변론하여 주어라.\"",
     Chn:"学习行善， 寻求公平， 解救受欺压的； 给孤儿伸冤， 为寡妇辨屈。",
     Eng:"learn to do right! Seek justice, encourage the oppressed. Defend the cause of the fatherless, plead the case of the widow.",
     Ind:"belajarlah berbuat baik; usahakanlah keadilan, kendalikanlah orang kejam; belalah hak anak-anak yatim, perjuangkanlah perkara janda-janda!"
   },
   {Bible:"Isaiah", Chapter:1, Verse:18, Page:1,
-    Kor:"주님께서 말씀하신다. \"오너라! 우리가 서로 변론하자. 너희의 죄가 주홍빛과 같다 하여도 눈과 같이 희어질 것이며, 진홍빛과 같이 붉어도 양털과 같이 희어질 것이다.",
+    Kor:"주께서 말씀하신다. \"오너라! 우리가 서로 변론하자. 너희의 죄가 주홍빛과 같다 하여도 눈과 같이 희어질 것이며, 진홍빛과 같이 붉어도 양털과 같이 희어질 것이다.",
     Chn:"耶和华说： 你们来，我们彼此辩论。 你们的罪虽像朱红，必变成雪白； 虽红如丹颜，必白如羊毛。",
     Eng:"\"Come now, let us reason together,\" says the LORD. \"Though your sins are like scarlet, they shall be as white as snow; though they are red as crimson, they shall be like wool.",
     Ind:"Marilah, baiklah kita berperkara! --firman TUHAN--Sekalipun dosamu merah seperti kirmizi, akan menjadi putih seperti salju; sekalipun berwarna merah seperti kain kesumba, akan menjadi putih seperti bulu domba."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Jika kamu menurut dan mau mendengar, maka kamu akan memakan hasil baik dari negeri itu."
   },
   {Bible:"Isaiah", Chapter:1, Verse:20, Page:1,
-    Kor:"그러나 너희가 거절하고 배반하면, 칼날이 너희를 삼킬 것이다.\" 이것은 주님께서 친히 하신 말씀이다.",
+    Kor:"그러나 너희가 거절하고 배반하면, 칼날이 너희를 삼킬 것이다.\" 이것은 주께서 친히 하신 말씀이다.",
     Chn:"若不听从，反倒悖逆， 必被刀剑吞灭。 这是耶和华亲口说的。",
     Eng:"but if you resist and rebel, you will be devoured by the sword.\" For the mouth of the LORD has spoken.",
     Ind:"Tetapi jika kamu melawan dan memberontak, maka kamu akan dimakan oleh pedang.\" Sungguh, TUHAN yang mengucapkannya."
   },
   {Bible:"Isaiah", Chapter:1, Verse:21, Page:1,
-    Kor:"<죄로 가득 찬 성읍> 그 신실하던 성읍이 어찌하여 창녀가 되었습니까? 그 안에 정의가 충만하고, 공의가 가득하더니, 이제는 살인자들이 판을 칩니다.",
+    Kor:"그 신실하던 성읍이 어찌하여 창녀가 되었습니까? 그 안에 정의가 충만하고, 공의가 가득하더니, 이제는 살인자들이 판을 칩니다.",
     Chn:"可叹，忠信的城变为妓女！ 从前充满了公平， 公义居在其中， 现今却有凶手居住。",
     Eng:"See how the faithful city has become a harlot! She once was full of justice; righteousness used to dwell in her--but now murderers!",
     Ind:"Bagaimana ini, kota yang dahulu setia sekarang sudah menjadi sundal! Tadinya penuh keadilan dan di situ selalu diam kebenaran, tetapi sekarang penuh pembunuh."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Perakmu tidak murni lagi dan arakmu bercampur air."
   },
   {Bible:"Isaiah", Chapter:1, Verse:23, Page:1,
-    Kor:"너의 지도자들은 주님께 반역하는 자들이요, 도둑의 짝이다. 모두들 뇌물이나 좋아하고, 보수나 계산하면서 쫓아다니고, 고아의 송사를 변호하여 주지 않고, 과부의 하소연쯤은 귓전으로 흘리는구나.",
+    Kor:"너의 지도자들은 주께 반역하는 자들이요, 도둑의 짝이다. 모두들 뇌물이나 좋아하고, 보수나 계산하면서 쫓아다니고, 고아의 송사를 변호하여 주지 않고, 과부의 하소연쯤은 귓전으로 흘리는구나.",
     Chn:"你的官长居心悖逆， 与盗贼作伴， 各都喜爱贿赂， 追求赃私。 他们不为孤儿伸冤； 寡妇的案件也不得呈到他们面前。",
     Eng:"Your rulers are rebels, companions of thieves; they all love bribes and chase after gifts. They do not defend the cause of the fatherless; the widow's case does not come before them.",
     Ind:"Para pemimpinmu adalah pemberontak dan bersekongkol dengan pencuri. Semuanya suka menerima suap dan mengejar sogok. Mereka tidak membela hak anak-anak yatim, dan perkara janda-janda tidak sampai kepada mereka."
   },
   {Bible:"Isaiah", Chapter:1, Verse:24, Page:1,
-    Kor:"그러므로 주 곧 만군의 주, 이스라엘의 전능하신 분께서 말씀하신다. \"내가 나의 대적들에게 나의 분노를 쏟겠다. 내가 나의 원수들에게 보복하여 한을 풀겠다.",
+    Kor:"그러므로 주, 곧 만군의 주, 이스라엘의 전능하신 분께서 말씀하신다. \"내가 나의 대적들에게 나의 분노를 쏟겠다. 내가 나의 원수들에게 보복하여 한을 풀겠다.",
     Chn:"因此，主—万军之耶和华、 以色列的大能者说： 哎！我要向我的对头雪恨， 向我的敌人报仇。",
     Eng:"Therefore the Lord, the LORD Almighty, the Mighty One of Israel, declares: \"Ah, I will get relief from my foes and avenge myself on my enemies.",
     Ind:"Sebab itu demikianlah firman Tuhan, TUHAN semesta alam, Yang Mahakuat pelindung Israel; \"Ha, Aku akan melampiaskan dendam-Ku kepada para lawan-Ku, dan melakukan pembalasan kepada para musuh-Ku."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Sion akan Kubebaskan dengan penghakiman yang adil dan orang-orangnya yang bertobat akan Kubebaskan dengan tindakan yang benar."
   },
   {Bible:"Isaiah", Chapter:1, Verse:28, Page:1,
-    Kor:"그러나 거역하는 자들과 죄인들은 모두 함께 패망하고, 주님을 버리는 자들은 모두 멸망을 당할 것이다.",
+    Kor:"그러나 거역하는 자들과 죄인들은 모두 함께 패망하고, 주를 버리는 자들은 모두 멸망을 당할 것이다.",
     Chn:"但悖逆的和犯罪的必一同败亡； 离弃耶和华的必致消灭。",
     Eng:"But rebels and sinners will both be broken, and those who forsake the LORD will perish.",
     Ind:"Tetapi orang-orang yang memberontak dan orang-orang berdosa akan dihancurkan bersama, dan orang-orang yang meninggalkan TUHAN akan habis lenyap."

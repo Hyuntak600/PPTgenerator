@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",4,49);
 BibleDB.add([
   {Bible:"Numbers", Chapter:4, Verse:1, Page:1,
-    Kor:"<고핫 자손의 임무> 주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron:",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Pekerjaan jabatan orang Kehat di Kemah Pertemuan ialah mengurus barang-barang yang maha kudus."
   },
   {Bible:"Numbers", Chapter:4, Verse:5, Page:1,
-    Kor:"○진을 이동할 때에는, 아론과 그의 아들들이 안으로 들어가서, 칸막이 휘장을 걷어내려, 그것으로 a증거궤를 덮고,(a 또는 '법궤')",
+    Kor:"○진을 이동할 때에는, 아론과 그의 아들들이 안으로 들어가서, 칸막이 휘장을 걷어내려, 그것으로 증거궤를 덮고,",
     Chn:"起营的时候，亚伦和他儿子要进去摘下遮掩柜的幔子，用以蒙盖法柜，",
     Eng:"When the camp is to move, Aaron and his sons are to go in and take down the shielding curtain and cover the ark of the Testimony with it.",
     Ind:"Kalau perkemahan akan berangkat, haruslah Harun dan anak-anaknya masuk ke dalam untuk menurunkan tabir penudung, dan menudungkannya kepada tabut hukum."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"sesudah itu meletakkan di atasnya segala perkakasnya yang dipakai untuk mengurusnya, yakni perbaraan, garpu, penyodok, bokor penyiraman, segala perkakas mezbah itu, dan di atasnya mereka harus membentangkan tutup dari kulit lumba-lumba, kemudian mereka harus memasang kayu-kayu pengusung mezbah itu."
   },
   {Bible:"Numbers", Chapter:4, Verse:15, Page:1,
-    Kor:"○진 이동을 앞두고, 이렇게 아론과 그의 아들들이 b거룩한 물건들과 그 물건에 딸린 모든 기구를 다 싸 놓으면, 비로소 고핫 자손이 와서 그것들을 둘러메고 간다. 이 때에 거룩한 물건들이 그들의 몸에 닿았다가는 죽는다. 이처럼 회막의 거룩한 물건들을 옮기는 일은 바로 고핫 자손이 맡는다.(b 04 4:또는 '성소와 성소에 딸린')",
+    Kor:"○진 이동을 앞두고, 이렇게 아론과 그의 아들들이 거룩한 물건들과 그 물건에 딸린 모든 기구를 다 싸 놓으면, 비로소 고핫 자손이 와서 그것들을 둘러메고 간다. 이 때에 거룩한 물건들이 그들의 몸에 닿았다가는 죽는다. 이처럼 회막의 거룩한 물건들을 옮기는 일은 바로 고핫 자손이 맡는다.",
     Chn:"将要起营的时候，亚伦和他儿子把圣所和圣所的一切器具遮盖完了，哥辖的子孙就要来抬，只是不可摸圣物，免得他们死亡。会幕里这些物件是哥辖子孙所当抬的。",
     Eng:"\"After Aaron and his sons have finished covering the holy furnishings and all the holy articles, and when the camp is ready to move, the Kohathites are to come to do the carrying. But they must not touch the holy things or they will die. The Kohathites are to carry those things that are in the Tent of Meeting.",
     Ind:"Setelah Harun dan anak-anaknya selesai menudungi barang-barang kudus dan segala perkakas tempat kudus, pada waktu perkemahan akan berangkat, barulah orang Kehat boleh masuk ke dalam untuk mengangkat barang-barang itu; tetapi janganlah mereka kena kepada barang-barang kudus itu, nanti mereka mati. Jadi itulah barang-barang di Kemah Pertemuan yang harus diangkat bani Kehat."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Tetapi Eleazar, anak imam Harun, bertanggung jawab atas minyak untuk penerangan, ukupan dari wangi-wangian, korban sajian yang tetap dan minyak urapan; ia bertanggung jawab atas segenap Kemah Suci dan segala isinya, yakni barang-barang kudus dan perabotannya.\""
   },
   {Bible:"Numbers", Chapter:4, Verse:17, Page:1,
-    Kor:"○주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron,",
     Ind:"TUHAN berfirman kepada Musa dan Harun:"
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Inilah yang harus kamu lakukan bagi mereka, supaya mereka tinggal hidup dan jangan mati, apabila mereka mendekat ke barang-barang maha kudus: Harun dan anak-anaknya haruslah masuk ke dalam dan menempatkan mereka masing-masing di tempat tugasnya dekat barang yang harus diangkat."
   },
   {Bible:"Numbers", Chapter:4, Verse:20, Page:1,
-    Kor:"그래서 그들이 함부로 성소 안으로 들어갔다가, 순간적으로나마 c거룩한 물건들을 보게 되어 죽는 일이 없게 하여야 한다.\"(c 또는 '성소를')",
+    Kor:"그래서 그들이 함부로 성소 안으로 들어갔다가, 순간적으로나마 거룩한 물건들을 보게 되어 죽는 일이 없게 하여야 한다.\"",
     Chn:"只是他们连片时不可进去观看圣所，免得他们死亡。」",
     Eng:"But the Kohathites must not go in to look at the holy things, even for a moment, or they will die.\"",
     Ind:"Tetapi janganlah orang Kehat masuk ke dalam untuk melihat barang-barang kudus itu walau sesaatpun, nanti mereka mati.\""
   },
   {Bible:"Numbers", Chapter:4, Verse:21, Page:1,
-    Kor:"<게르손 자손의 임무> ○주님께서 모세에게 말씀하셨다.",
+    Kor:"○주께서 모세에게 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Itulah tugas kaum-kaum bani Gerson di Kemah Pertemuan. Mereka harus mengerjakan di bawah pimpinan Itamar, anak imam Harun itu."
   },
   {Bible:"Numbers", Chapter:4, Verse:29, Page:1,
-    Kor:"<므라리 자손의 임무> ○\"너는 므라리 자손도 가문별, 가족별로 등록시켜야 한다.",
+    Kor:"○\"너는 므라리 자손도 가문별, 가족별로 등록시켜야 한다.",
     Chn:"「至于米拉利的子孙，你要照着家室、宗族把他们数点。",
     Eng:"\"Count the Merarites by their clans and families.",
     Ind:"Orang Merari haruslah kaucatat menurut kaum-kaum yang ada dalam puak mereka."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"tiang-tiang pelataran sekelilingnya, alas-alasnya, patok-patok dan tali-talinya, serta segala perkakasnya; semuanya termasuk tugas mereka. Dengan terperinci haruslah kamu tunjuk perkakas yang wajib diangkat mereka itu."
   },
   {Bible:"Numbers", Chapter:4, Verse:33, Page:1,
-    Kor:"이 일들은 므라리 자손 가족들이 해야 할 일이다. 그들이 회막에서 맡은 여러 가지 일은 모두 제사장 아론의 아들 이다말의 감독을 받으며 해야 한다.\"",
+    Kor:"이상이 므라리 자손 가족들이 해야 할 일이다. 그들이 회막에서 맡은 여러 가지 일은 모두 제사장 아론의 아들 이다말의 감독을 받으며 해야 한다.\"",
     Chn:"这是米拉利子孙各族在会幕里所办的事，都在祭司亚伦儿子以他玛的手下。」",
     Eng:"This is the service of the Merarite clans as they work at the Tent of Meeting under the direction of Ithamar son of Aaron, the priest.\"",
     Ind:"Itulah tugas kaum-kaum bani Merari, yakni seluruh pekerjaan jabatan mereka di Kemah Pertemuan, yang harus dilakukan di bawah pimpinan Itamar, anak imam Harun.\""
   },
   {Bible:"Numbers", Chapter:4, Verse:34, Page:1,
-    Kor:"<레위 사람 인구조사> ○모세와 아론과 회중의 원로들은 가문별, 가족별로 고핫 자손을 등록시켰다.",
+    Kor:"○모세와 아론과 회중의 어른들은 가문별, 가족별로 고핫 자손을 등록시켰다.",
     Chn:"摩西、亚伦与会众的诸首领将哥辖的子孙，照着家室、宗族，",
     Eng:"Moses, Aaron and the leaders of the community counted the Kohathites by their clans and families.",
     Ind:"Demikianlah Musa dan Harun dengan para pemimpin umat Israel mencatat bani Kehat menurut kaum-kaum yang ada dalam puak mereka,"
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Maka jumlah pencatatan mereka menurut kaum-kaum mereka ada dua ribu tujuh ratus lima puluh orang."
   },
   {Bible:"Numbers", Chapter:4, Verse:37, Page:1,
-    Kor:"이들이 바로 고핫 가족에서 등록된 모든 이들로서, 회막에서 일할 사람이었다. 모세와 아론은, 주님께서 모세를 시켜 명하신 대로, 그들을 등록시켰다.",
+    Kor:"이들이 바로 고핫 가족에서 등록된 모든 이들로서, 회막에서 일할 사람이었다. 모세와 아론은, 주께서 모세를 시켜 명하신 대로, 그들을 등록시켰다.",
     Chn:"这是哥辖各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
     Eng:"This was the total of all those in the Kohathite clans who served in the Tent of Meeting. Moses and Aaron counted them according to the LORD'S command through Moses.",
     Ind:"Itulah orang-orang yang dicatat dari kaum-kaum Kehat, semua orang yang melakukan pekerjaan jabatan di Kemah Pertemuan, yakni mereka yang dicatat oleh Musa dan Harun, sesuai dengan titah TUHAN dengan perantaraan Musa."
@@ -244,7 +244,7 @@ BibleDB.add([
     Ind:"jadi mereka yang dicatat menurut kaum-kaum yang ada dalam puak mereka, berjumlah dua ribu enam ratus tiga puluh orang."
   },
   {Bible:"Numbers", Chapter:4, Verse:41, Page:1,
-    Kor:"이들이 바로 게르손 자손 가족에서 등록된 모든 이들로서, 회막에서 일할 사람이었다. 모세와 아론은, 주님께서 명하신 대로 그들을 등록시켰다.",
+    Kor:"이들이 바로 게르손 자손 가족에서 등록된 모든 이들로서, 회막에서 일할 사람이었다. 모세와 아론은, 주께서 명하신 대로 그들을 등록시켰다.",
     Chn:"这是革顺子孙各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
     Eng:"This was the total of those in the Gershonite clans who served at the Tent of Meeting. Moses and Aaron counted them according to the LORD'S command.",
     Ind:"Itulah jumlah pencatatan kaum-kaum bani Gerson, semua orang yang melakukan pekerjaan jabatan di Kemah Pertemuan, yakni mereka yang dicatat oleh Musa dan Harun sesuai dengan titah TUHAN."
@@ -269,13 +269,13 @@ BibleDB.add([
     Ind:"jadi mereka yang dicatat menurut kaum-kaum mereka, berjumlah tiga ribu dua ratus orang."
   },
   {Bible:"Numbers", Chapter:4, Verse:45, Page:1,
-    Kor:"이들이 바로 므라리 자손 가족에서 등록된 사람들로서, 주님께서 모세를 시켜 명하신 대로, 모세와 아론이 등록시킨 이들이었다.",
+    Kor:"이들이 바로 므라리 자손 가족에서 등록된 사람들로서, 주께서 모세를 시켜 명하신 대로, 모세와 아론이 등록시킨 이들이었다.",
     Chn:"这是米拉利子孙各族中被数的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
     Eng:"This was the total of those in the Merarite clans. Moses and Aaron counted them according to the LORD'S command through Moses.",
     Ind:"Itulah jumlah pencatatan kaum-kaum bani Merari, yakni mereka yang dicatat oleh Musa dan Harun, sesuai dengan titah TUHAN dengan perantaraan Musa."
   },
   {Bible:"Numbers", Chapter:4, Verse:46, Page:1,
-    Kor:"○모세와 아론과 이스라엘 원로들은 모든 레위 사람을 가문과 가족별로 등록시켰다.",
+    Kor:"○모세와 아론과 이스라엘 어른들은 모든 레위 사람을 가문과 가족별로 등록시켰다.",
     Chn:"凡被数的利未人，就是摩西、亚伦并以色列众首领，照着家室、宗族所数点的，",
     Eng:"So Moses, Aaron and the leaders of Israel counted all the Levites by their clans and families.",
     Ind:"Semua orang Lewi yang dicatat oleh Musa dan Harun dengan para pemimpin Israel menurut kaum-kaum yang ada dalam puak-puak mereka,"
@@ -294,7 +294,7 @@ BibleDB.add([
     Ind:"jadi mereka yang dicatat, berjumlah delapan ribu lima ratus delapan puluh orang."
   },
   {Bible:"Numbers", Chapter:4, Verse:49, Page:1,
-    Kor:"주님께서 모세를 시켜 말씀하신 대로, 한 사람 한 사람에게 할 일과 운반할 짐을 맡겼다. 주님께서 모세에게 명하신 대로, 그들을 등록시킨 것이다.",
+    Kor:"주께서 모세를 시켜 말씀하신 대로, 한 사람 한 사람에게 할 일과 운반할 짐을 맡겼다. 주께서 모세에게 명하신 대로, 그들을 등록시킨 것이다.",
     Chn:"摩西按他们所办的事、所抬的物，凭耶和华的吩咐数点他们；他们这样被摩西数点，正如耶和华所吩咐他的。",
     Eng:"At the LORD'S command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the LORD commanded Moses.",
     Ind:"Sesuai dengan titah TUHAN dengan perantaraan Musa, maka mereka masing-masing dibuat penanggung jawab atas apa yang harus dikerjakan dan diangkatnya. Demikianlah mereka dicatat, seperti yang diperintahkan TUHAN kepada Musa."

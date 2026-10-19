@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",12,33);
 BibleDB.add([
   {Bible:"1Kings", Chapter:12, Verse:1, Page:1,
-    Kor:"<북쪽 지파들의 반항(대하 10:1-19)> 온 이스라엘이 르호보암을 왕으로 세우려고 세겜에 모였으므로, 르호보암도 세겜으로 갔다.",
+    Kor:"온 이스라엘이 르호보암을 왕으로 세우려고 세겜에 모였으므로, 르호보암도 세겜으로 갔다.",
     Chn:"罗波安往示剑去；因为以色列人都到了示剑要立他作王。",
     Eng:"Rehoboam went to Shechem, for all the Israelites had gone there to make him king.",
     Ind:"Kemudian Rehabeam pergi ke Sikhem, sebab seluruh Israel telah datang ke Sikhem untuk menobatkan dia menjadi raja."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"\"Ayahmu telah memberatkan tanggungan kami, maka sekarang ringankanlah pekerjaan yang sukar yang dibebankan ayahmu dan tanggungan yang berat yang dipikulkannya kepada kami, supaya kami menjadi hambamu.\""
   },
   {Bible:"1Kings", Chapter:12, Verse:5, Page:1,
-    Kor:"르호보암이 그들에게 말하였다. \"돌아갔다가, 사흘 뒤에 나에게로 다시 오도록 하시오.\" 이 말을 듣고서, 백성들은 돌아갔다.",
+    Kor:"르호보암이 그들에게 말하였다. \"돌아갔다가, 사흘 뒤에 나에게로 다시 오도록 하여라.\" 이 말을 듣고서, 백성들은 돌아갔다.",
     Chn:"罗波安对他们说：「你们暂且去，第三日再来见我。」民就去了。",
     Eng:"Rehoboam answered, \"Go away for three days and then come back to me.\" So the people went away.",
     Ind:"Tetapi ia menjawab mereka: \"Pergilah sampai lusa, kemudian kembalilah kepadaku.\" Lalu pergilah rakyat itu."
@@ -75,25 +75,25 @@ BibleDB.add([
     Ind:"Pada hari lusanya datanglah Yerobeam dengan segenap rakyat kepada Rehabeam, seperti yang dikatakan raja: \"Kembalilah kepadaku pada hari lusa.\""
   },
   {Bible:"1Kings", Chapter:12, Verse:13, Page:1,
-    Kor:"왕은 원로들의 충고는 무시하고, 백성에게 가혹한 말로 대답하였다.",
+    Kor:"왕은 원로들의 충고는 무시하고, 백성에게 가혹하게 대답하였다.",
     Chn:"王用严厉的话回答百姓，不用老年人给他所出的主意，",
     Eng:"The king answered the people harshly. Rejecting the advice given him by the elders,",
     Ind:"Raja menjawab rakyat itu dengan keras; ia telah mengabaikan nasihat yang diberikan para tua-tua kepadanya;"
   },
   {Bible:"1Kings", Chapter:12, Verse:14, Page:1,
-    Kor:"그는 젊은이들의 충고대로 백성에게 말하였다. \"내 아버지가 당신들에게 무거운 멍에를 메웠소. 그러나 나는 이제 그것보다 더 무거운 멍에를 당신들에게 메우겠소. 내 아버지는 당신들을 가죽 채찍으로 매질하였지만, 나는 당신들을 쇠 채찍으로 치겠소.\"",
+    Kor:"그는 젊은이들의 충고대로 백성에게 말하였다. \"내 아버지가 너희에게 무거운 멍에를 메웠다. 그러나 나는 이제 그것보다 더 무거운 멍에를 너희에게 메우겠다. 내 아버지는 너희를 가죽 채찍으로 매질하였지만, 나는 너희를 쇠 채찍으로 치겠다.\"",
     Chn:"照着少年人所出的主意对民说：「我父亲使你们负重轭，我必使你们负更重的轭！我父亲用鞭子责打你们，我要用蝎子鞭责打你们！」",
     Eng:"he followed the advice of the young men and said, \"My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.\"",
     Ind:"ia mengatakan kepada mereka menurut nasihat orang-orang muda: \"Ayahku telah memberatkan tanggungan kamu, tetapi aku akan menambah tanggunganmu itu; ayahku telah menghajar kamu dengan cambuk, tetapi aku akan menghajar kamu dengan cambuk yang berduri besi.\""
   },
   {Bible:"1Kings", Chapter:12, Verse:15, Page:1,
-    Kor:"왕이 이렇게 백성의 요구를 들어 주지 않은 것은 주님께서 일을 그렇게 뒤틀리게 하셨기 때문이다. 이것은 주님께서 실로 사람 아히야를 시켜서, 느밧의 아들 여로보암에게 하신 말씀을 이루시려는 것이었다.",
+    Kor:"왕이 이렇게 백성의 요구를 들어 주지 않은 것은 주께서 일을 그렇게 뒤틀리게 하셨기 때문이다. 이것은 주께서 실로 사람 아히야를 시켜서, 느밧의 아들 여로보암에게 하신 말씀을 이루시려는 것이었다.",
     Chn:"王不肯依从百姓，这事乃出于耶和华，为要应验他借示罗人亚希雅对尼八的儿子耶罗波安所说的话。",
     Eng:"So the king did not listen to the people, for this turn of events was from the LORD, to fulfill the word the LORD had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.",
     Ind:"Jadi raja tidak mendengarkan permintaan rakyat, sebab hal itu merupakan perubahan yang disebabkan TUHAN, supaya TUHAN menepati firman yang diucapkan-Nya dengan perantaraan Ahia, orang Silo, kepada Yerobeam bin Nebat."
   },
   {Bible:"1Kings", Chapter:12, Verse:16, Page:1,
-    Kor:"○온 이스라엘은, 왕이 자기들의 요구를 전혀 듣지 않는 것을 보고, 왕에게 외쳤다.  \"우리가 다윗에게서 받을 몫이 무엇인가? 이새의 아들에게서는 받을 유산이 없다. 이스라엘아, 저마다 자기의 장막으로 돌아가라. 다윗아, 이제 너는 네 집안이나 돌보아라.\"  ○그런 다음에 이스라엘 백성은 저마다 자기의 장막으로 돌아갔다.",
+    Kor:"○온 이스라엘은, 왕이 자기들의 요구를 전혀 듣지 않는 것을 보고, 왕에게 외쳤다. \"우리가 다윗에게서 받을 몫이 무엇인가? 이새의 아들에게서는 받을 유산이 없다. 이스라엘아, 저마다 자기의 장막으로 돌아가라. 다윗아, 이제 너는 네 집안이나 돌보아라.\" ○그런 다음에, 이스라엘 백성은 저마다 자기의 장막으로 돌아갔다.",
     Chn:"以色列众民见王不依从他们，就对王说： 我们与大卫有什么分儿呢？ 与耶西的儿子并没有关涉。 以色列人哪，各回各家去吧！ 大卫家啊，自己顾自己吧！ 于是，以色列人都回自己家里去了，",
     Eng:"When all Israel saw that the king refused to listen to them, they answered the king: \"What share do we have in David, what part in Jesse's son? To your tents, O Israel! Look after your own house, O David!\" So the Israelites went home.",
     Ind:"Setelah seluruh Israel melihat, bahwa raja tidak mendengarkan permintaan mereka, maka rakyat menjawab raja: \"Bagian apakah kita dapat dari pada Daud? Kita tidak memperoleh warisan dari anak Isai itu! Ke kemahmu, hai orang Israel! Uruslah sekarang rumahmu sendiri, hai Daud!\" Maka pergilah orang Israel ke kemahnya,"
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"sehingga Rehabeam menjadi raja hanya atas orang Israel yang diam di kota-kota Yehuda."
   },
   {Bible:"1Kings", Chapter:12, Verse:18, Page:1,
-    Kor:"르호보암 왕이 강제노동 감독관 a아도니람을 이스라엘 자손에게 보내니, 온 이스라엘이 모여서, 그를 돌로 쳐죽였다. 그러자 르호보암 왕은 급히 수레에 올라서서, 예루살렘으로 도망하였다.(a 히, '아도람')",
+    Kor:"르호보암 왕이 강제노동 감독관 아도람을 이스라엘 자손에게 보내니, 온 이스라엘이 모여서, 그를 돌로 쳐죽였다. 그러자 르호보암 왕은 급히 수레에 올라서서, 예루살렘으로 도망하였다.",
     Chn:"罗波安王差遣掌管服苦之人的亚多兰往以色列人那里去，以色列人就用石头打死他。罗波安王急忙上车，逃回耶路撒冷去了。",
     Eng:"King Rehoboam sent out Adoniram, who was in charge of forced labor, but all Israel stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem.",
     Ind:"Kemudian raja Rehabeam mengutus Adoram yang menjadi kepala rodi, tetapi seluruh Israel melontari dia dengan batu, sehingga mati, bahkan raja Rehabeam hampir-hampir tidak dapat menaiki keretanya untuk melarikan diri ke Yerusalem."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Segera sesudah seluruh Israel mendengar, bahwa Yerobeam sudah pulang, maka mereka menyuruh memanggil dia ke pertemuan jemaah, lalu mereka menobatkan dia menjadi raja atas seluruh Israel. Tidak ada lagi yang mengikuti keluarga Daud selain dari suku Yehuda saja."
   },
   {Bible:"1Kings", Chapter:12, Verse:21, Page:1,
-    Kor:"<스마야의 예언(대하 11:1-4)> ○르호보암이 예루살렘에 이르러서, 온 유다의 가문과 베냐민 지파에 동원령을 내려, 정병 십팔만 명을 선발하였다. 그래서 이스라엘 가문과 싸워서, 왕국을 다시 솔로몬의 아들 르호보암에게 돌리려고 하였다.",
+    Kor:"○르호보암이 예루살렘에 이르러서, 온 유다의 가문과 베냐민 지파에 동원령을 내려, 정병 십팔만 명을 선발하였다. 그래서 이스라엘 가문과 싸워서, 왕국을 다시 솔로몬의 아들 르호보암에게 돌리려고 하였다.",
     Chn:"罗波安来到耶路撒冷，招聚犹大全家和便雅悯支派的人共十八万，都是挑选的战士，要与以色列家争战，好将国夺回，再归所罗门的儿子罗波安。",
     Eng:"When Rehoboam arrived in Jerusalem, he mustered the whole house of Judah and the tribe of Benjamin--a hundred and eighty thousand fighting men--to make war against the house of Israel and to regain the kingdom for Rehoboam son of Solomon.",
     Ind:"Ketika Rehabeam datang ke Yerusalem, ia mengumpulkan segenap kaum Yehuda dan suku Benyamin, seratus delapan puluh ribu teruna yang sanggup berperang untuk memerangi kaum Israel dengan maksud mengembalikan kerajaan itu kepada Rehabeam, anak Salomo."
@@ -141,13 +141,13 @@ BibleDB.add([
     Ind:"\"Katakanlah kepada Rehabeam, anak Salomo, raja Yehuda, dan kepada segenap kaum Yehuda dan Benyamin dan kepada selebihnya dari bangsa itu:"
   },
   {Bible:"1Kings", Chapter:12, Verse:24, Page:1,
-    Kor:"'나 주가 말한다. 일이 이렇게 된 것은, 내가 시킨 것이다. 너희는 올라가지 말아라. 너희의 동족인 이스라엘 자손과 싸우지 말고, 저마다 자기 집으로 돌아가거라.'\" 그들은 이러한 주님의 말씀을 듣고, 주님의 말씀에 순종하여 모두 귀향하였다.",
+    Kor:"'나 주가 말한다. 일이 이렇게 된 것은, 내가 시킨 것이다. 너희는 올라가지 말아라. 너희의 동족인 이스라엘 자손과 싸우지 말고, 저마다 자기 집으로 돌아가거라.'\" 그들은 이러한 주의 말씀을 듣고, 주의 말씀에 순종하여 모두 귀향하였다.",
     Chn:"『耶和华如此说：你们不可上去与你们的弟兄以色列人争战。各归各家去吧！因为这事出于我。』」众人就听从耶和华的话，遵着耶和华的命回去了。",
     Eng:"'This is what the LORD says: Do not go up to fight against your brothers, the Israelites. Go home, every one of you, for this is my doing.'\" So they obeyed the word of the LORD and went home again, as the LORD had ordered.",
     Ind:"Beginilah firman TUHAN: Janganlah kamu maju dan janganlah kamu berperang melawan saudara-saudaramu, orang Israel. Pulanglah masing-masing ke rumahnya, sebab Akulah yang menyebabkan hal ini terjadi.\" Maka mereka mendengarkan firman TUHAN dan pergilah mereka pulang sesuai dengan firman TUHAN itu."
   },
   {Bible:"1Kings", Chapter:12, Verse:25, Page:1,
-    Kor:"<여로보암이 하나님에게서 돌아서다> ○여로보암이 에브라임의 산지에 있는 세겜 성을 도성으로 삼고, 얼마 동안 거기에서 살다가, 브누엘 성을 세우고, 그리로 도성을 옮겼다.",
+    Kor:"○여로보암이 에브라임의 산지에 있는 세겜 성을 도성으로 삼고, 얼마 동안 거기에서 살다가, 부느엘 성을 세우고, 그리로 도성을 옮겼다.",
     Chn:"耶罗波安在以法莲山地建筑示剑，就住在其中；又从示剑出去，建筑毗努伊勒。",
     Eng:"Then Jeroboam fortified Shechem in the hill country of Ephraim and lived there. From there he went out and built up Peniel.",
     Ind:"Kemudian Yerobeam memperkuat Sikhem di pegunungan Efraim, lalu diam di sana. Ia keluar dari sana, lalu memperkuat Pnuel."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Maka berkatalah Yerobeam dalam hatinya: \"Kini mungkin kerajaan itu kembali kepada keluarga Daud."
   },
   {Bible:"1Kings", Chapter:12, Verse:27, Page:1,
-    Kor:"이 백성이 예루살렘에 있는 주님의 성전으로 제사를 드리려고 올라갔다가, 그들의 마음이 그들의 옛 주인인 유다 왕 르호보암에게로 돌아가게 되는 날이면, 그들이 자기를 죽이고, 유다 왕 르호보암에게 돌아갈지도 모른다는 생각이 들었다.",
+    Kor:"이 백성이 예루살렘에 있는 주의 성전으로 제사를 드리려고 올라갔다가, 그들의 마음이 그들의 옛 주인인 유다 왕 르호보암에게로 돌아가게 되는 날이면, 그들이 자기를 죽이고, 유다 왕 르호보암에게 돌아갈지도 모른다는 생각이 들었다.",
     Chn:"这民若上耶路撒冷去，在耶和华的殿里献祭，他们的心必归向他们的主—犹大王罗波安，就把我杀了，仍归犹大王罗波安。」",
     Eng:"If these people go up to offer sacrifices at the temple of the LORD in Jerusalem, they will again give their allegiance to their lord, Rehoboam king of Judah. They will kill me and return to King Rehoboam.\"",
     Ind:"Jika bangsa itu pergi mempersembahkan korban sembelihan di rumah TUHAN di Yerusalem, maka tentulah hati bangsa ini akan berbalik kepada tuan mereka, yaitu Rehabeam, raja Yehuda, kemudian mereka akan membunuh aku dan akan kembali kepada Rehabeam, raja Yehuda.\""
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Ia membuat juga kuil-kuil di atas bukit-bukit pengorbanan, dan mengangkat imam-imam dari kalangan rakyat yang bukan dari bani Lewi."
   },
   {Bible:"1Kings", Chapter:12, Verse:32, Page:1,
-    Kor:"<베델 제단 규탄> ○여로보암은 유다에서 행하는 절기와 비슷하게 하여, 여덟째 달 보름날을 절기로 정하고, 베델에다 세운 제단에서, 그가 만든 송아지들에게 제사를 드렸으며, 그가 만든 베델의 산당에서 제사를 집행할 제사장들도 임명하였다.",
+    Kor:"○여로보암은 유다에서 행하는 절기와 비슷하게 하여, 여덟째 달 보름날을 절기로 정하고, 베델에다 세운 제단에서, 그가 만든 송아지들에게 제사를 드렸으며, 그가 만든 베델의 산당에서 제사를 집행할 제사장들도 임명하였다.",
     Chn:"耶罗波安定八月十五日为节期，像在犹大的节期一样，自己上坛献祭。他在伯特利也这样向他所铸的牛犊献祭，又将立为邱坛的祭司安置在伯特利。",
     Eng:"He instituted a festival on the fifteenth day of the eighth month, like the festival held in Judah, and offered sacrifices on the altar. This he did in Bethel, sacrificing to the calves he had made. And at Bethel he also installed priests at the high places he had made.",
     Ind:"Kemudian Yerobeam menentukan suatu hari raya pada hari yang kelima belas bulan kedelapan, sama seperti hari raya yang di Yehuda, dan ia sendiri naik tangga mezbah itu. Begitulah dibuatnya di Betel, yakni ia mempersembahkan korban kepada anak-anak lembu yang telah dibuatnya itu, dan ia menugaskan di Betel imam-imam bukit pengorbanan yang telah diangkatnya."

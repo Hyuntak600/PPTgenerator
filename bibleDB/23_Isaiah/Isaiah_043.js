@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",43,28);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:43, Verse:1, Page:1,
-    Kor:"<구원의 약속> 그러나 이제 야곱아, 너를 창조하신 주님께서 말씀하신다. 이스라엘아, 너를 지으신 주님께서 말씀하신다. \"내가 너를 속량하였으니, 두려워하지 말아라. 내가 너를 지명하여 불렀으니, 너는 나의 것이다.",
+    Kor:"그러나 이제 야곱아, 너를 창조하신 주께서 말씀하신다. 이스라엘아, 너를 지으신 주께서 말씀하신다. \"내가 너를 속량하였으니, 두려워하지 말아라. 내가 너를 지명하여 불렀으니, 너는 나의 것이다.",
     Chn:"雅各啊，创造你的耶和华， 以色列啊，造成你的那位， 现在如此说： 你不要害怕！因为我救赎了你。 我曾提你的名召你，你是属我的。",
     Eng:"But now, this is what the LORD says--he who created you, O Jacob, he who formed you, O Israel: \"Fear not, for I have redeemed you; I have summoned you by name; you are mine.",
     Ind:"Tetapi sekarang, beginilah firman TUHAN yang menciptakan engkau, hai Yakub, yang membentuk engkau, hai Israel: \"Janganlah takut, sebab Aku telah menebus engkau, Aku telah memanggil engkau dengan namamu, engkau ini kepunyaan-Ku."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Apabila engkau menyeberang melalui air, Aku akan menyertai engkau, atau melalui sungai-sungai, engkau tidak akan dihanyutkan; apabila engkau berjalan melalui api, engkau tidak akan dihanguskan, dan nyala api tidak akan membakar engkau."
   },
   {Bible:"Isaiah", Chapter:43, Verse:3, Page:1,
-    Kor:"나는 주, 너의 하나님이다. 이스라엘의 거룩한 하나님이다. 너의 구원자다. 내가 이집트를 속량물로 내주어 너를 구속하겠고, 너를 구속하려고, 너 대신에 에티오피아와 쓰바를 내주겠다.",
+    Kor:"나는 주, 너의 하나님이다. 이스라엘의 거룩한 하나님이다. 너의 구원자다. 내가 이집트를 속량물로 내주어 너를 구속하겠고, 너를 구속하려고, 너 대신에 에티오피아와 스바를 내주겠다.",
     Chn:"因为我是耶和华—你的　神， 是以色列的圣者—你的救主； 我已经使埃及作你的赎价， 使古实和西巴代替你。",
     Eng:"For I am the LORD, your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your stead.",
     Ind:"Sebab Akulah TUHAN, Allahmu, Yang Mahakudus, Allah Israel, Juruselamatmu. Aku menebus engkau dengan Mesir, dan memberikan Etiopia dan Syeba sebagai gantimu."
@@ -45,31 +45,31 @@ BibleDB.add([
     Ind:"semua orang yang disebutkan dengan nama-Ku yang Kuciptakan untuk kemuliaan-Ku, yang Kubentuk dan yang juga Kujadikan!\""
   },
   {Bible:"Isaiah", Chapter:43, Verse:8, Page:1,
-    Kor:"<이스라엘은 주님의 증인> 백성을 법정으로 데리고 나오너라. 눈이 있어도 눈이 먼 자요, 귀가 있어도 귀가 먹은 자다!",
+    Kor:"백성을 법정으로 데리고 나오너라. 눈이 있어도 눈이 먼 자요, 귀가 있어도 귀가 먹은 자다!",
     Chn:"你要将有眼而瞎、 有耳而聋的民都带出来！",
     Eng:"Lead out those who have eyes but are blind, who have ears but are deaf.",
     Ind:"Biarlah orang membawa tampil bangsa yang buta sekalipun ada matanya, yang tuli sekalipun ada telinganya!"
   },
   {Bible:"Isaiah", Chapter:43, Verse:9, Page:1,
-    Kor:"모든 열방과, 뭇 민족도 함께 재판정으로 나오너라. 그들의 신들 가운데서 어느 신이 미래를 예고할 수 있느냐? 그들 가운데서 누가 이제 곧 일어날 일을 예고할 수 있느냐? 그 신들이 증인들을 내세워서, 자신들의 옳음을 증언하게 하고, 사람들 앞에서 증언하게 하여서, 듣는 사람들마다 '그것이 사실'이라고 말하게 하여 보아라.",
+    Kor:"모든 열방들과, 뭇 민족도 함께 재판정으로 나오너라. 그들의 신들 가운데서 어느 신이 미래를 예고할 수 있느냐? 그들 가운데서 누가 이제 곧 일어날 일을 예고할 수 있느냐? 그 신들이 증인들을 내세워서, 자신들의 옳음을 증언하게 하고, 사람들 앞에서 증언하게 하여서, 듣는 사람들마다 '그것이 사실'이라고 말하게 하여 보아라.",
     Chn:"任凭万国聚集； 任凭众民会合。 其中谁能将此声明， 并将先前的事说给我们听呢？ 他们可以带出见证来，自显为是； 或者他们听见便说：这是真的。",
     Eng:"All the nations gather together and the peoples assemble. Which of them foretold this and proclaimed to us the former things? Let them bring in their witnesses to prove they were right, so that others may hear and say, \"It is true.\"",
     Ind:"Biarlah berhimpun bersama-sama segala bangsa-bangsa, dan biarlah berkumpul suku-suku bangsa! Siapakah di antara mereka yang dapat memberitahukan hal-hal ini, yang dapat mengabarkan kepada kita hal-hal yang dahulu? Biarlah mereka membawa saksi-saksinya, supaya mereka nyata benar; biarlah orang mendengarnya dan berkata: \"Benar demikian!\""
   },
   {Bible:"Isaiah", Chapter:43, Verse:10, Page:1,
-    Kor:"주님께서 말씀하신다. \"너희는 나의 증인이며, 내가 택한 나의 종이다. 이렇게 한 것은, 너희가 나를 알고 믿게 하려는 것이고, 오직 나만이 하나님임을 깨달아 알게 하려는 것이다. 나보다 먼저 지음을 받은 신이 있을 수 없고, 나 이후에도 있을 수 없다.",
+    Kor:"주께서 말씀하신다. \"너희는 나의 증인이며, 내가 택한 나의 종이다. 이렇게 한 것은, 너희가 나를 알고 믿게 하려는 것이고, 오직 나만이 하나님임을 깨달아 알게 하려는 것이다. 나보다 먼저 지음을 받은 신이 있을 수 없고, 나 이후에도 있을 수 없다.",
     Chn:"耶和华说：你们是我的见证， 我所拣选的仆人。 既是这样，便可以知道，且信服我， 又明白我就是耶和华。 在我以前没有真神； 在我以后也必没有。",
     Eng:"\"You are my witnesses,\" declares the LORD, \"and my servant whom I have chosen, so that you may know and believe me and qnderstand that I am he. Before me no god was formed, nor will there be one after me.",
     Ind:"\"Kamu inilah saksi-saksi-Ku,\" demikianlah firman TUHAN, \"dan hamba-Ku yang telah Kupilih, supaya kamu tahu dan percaya kepada-Ku dan mengerti, bahwa Aku tetap Dia. Sebelum Aku tidak ada Allah dibentuk, dan sesudah Aku tidak akan ada lagi."
   },
   {Bible:"Isaiah", Chapter:43, Verse:11, Page:1,
-    Kor:"나 곧 내가 주이니, 나 말고는 어떤 구원자도 없다.",
+    Kor:"나, 곧 내가 주이니, 나 말고는 어떤 구원자도 없다.",
     Chn:"惟有我是耶和华； 除我以外没有救主。",
     Eng:"I, even I, am the LORD, and apart from me there is no savior.",
     Ind:"Aku, Akulah TUHAN dan tidak ada juruselamat selain dari pada-Ku."
   },
   {Bible:"Isaiah", Chapter:43, Verse:12, Page:1,
-    Kor:"바로 내가 승리를 예고하였고, 너희를 구원하였고, 구원을 선언하였다. 이방의 어떤 신도 이렇게 하지 못하였다. 이 일에 있어서는 너희가 나의 증인이다. 내가 하나님이다.\" 주님께서 하신 말씀이다.",
+    Kor:"바로 내가 승리를 예고하였고, 너희를 구원하였고, 구원을 선언하였다. 이방의 어떤 신도 이렇게 하지 못하였다. 이 일에 있어서는 너희가 나의 증인이다. 내가 하나님이다.\" 주께서 하신 말씀이다.",
     Chn:"我曾指示，我曾拯救，我曾说明， 并且在你们中间没有别神。 所以耶和华说： 你们是我的见证。 我也是　神；",
     Eng:"I have revealed and saved and proclaimed--I, and not some foreign god among you. You are my witnesses,\" declares the LORD, \"that I am God.",
     Ind:"Akulah yang memberitahukan, menyelamatkan dan mengabarkan, dan bukannya allah asing yang ada di antaramu. Kamulah saksi-saksi-Ku,\" demikianlah firman TUHAN, \"dan Akulah Allah."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Juga seterusnya Aku tetap Dia, dan tidak ada yang dapat melepaskan dari tangan-Ku; Aku melakukannya, siapakah yang dapat mencegahnya?\""
   },
   {Bible:"Isaiah", Chapter:43, Verse:14, Page:1,
-    Kor:"<바빌론으로부터 빠져 나오다> 너희들의 속량자시요, '이스라엘의 거룩하신 분'이신 주님께서 이렇게 말씀하신다. \"내가 바빌론에 군대를 보내어 그 도성을 치고 너희를 구하여 내겠다. 성문 빗장을 다 부수어 버릴 터이니, a바빌로니아 사람의 아우성이 통곡으로 바뀔 것이다. (a 또는 '갈대아')",
+    Kor:"너희들의 속량자요, 이스라엘의 '거룩하신 분'이신 주께서 이렇게 말씀하신다. \"내가 바빌론에 군대를 보내어 그 도성을 치고 너희를 구하여 내겠다. 성문 빗장을 다 부수어 버릴 터이니, 바빌로니아 사람의 아우성이 통곡으로 바뀔 것이다.",
     Chn:"耶和华—你们的救赎主、 以色列的圣者如此说： 因你们的缘故， 我已经打发人到巴比伦去； 并且我要使迦勒底人如逃民， 都坐自己喜乐的船下来。",
     Eng:"This is what the LORD says--your Redeemer, the Holy One of Israel: \"For your sake I will send to Babylon and bring down as fugitives all the Babylonians, in the ships in which they took pride.",
     Ind:"Beginilah firman TUHAN, Penebusmu, Yang Mahakudus, Allah Israel: \"Oleh karena kamu Aku mau menyuruh orang ke Babel dan mau membuka semua palang-palang pintu penjara, dan sorak-sorai orang Kasdim menjadi keluh kesah."
   },
   {Bible:"Isaiah", Chapter:43, Verse:15, Page:1,
-    Kor:"나는 주, 너희의 거룩한 하나님이며, 이스라엘의 창조자요, 너희의 왕이다.",
+    Kor:"나는 주, 너희의 거룩한 하나님이며, 이스라엘의 창조자요, 너희의 왕이다.\"",
     Chn:"我是耶和华—你们的圣者， 是创造以色列的，是你们的君王。",
     Eng:"I am the LORD, your Holy One, Israel's Creator, your King.\"",
     Ind:"Akulah TUHAN, Yang Mahakudus, Allahmu, Rajamu, yang menciptakan Israel.\""
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"yang telah menyuruh kereta dan kuda keluar untuk berperang, juga tentara dan orang gagah--mereka terbaring, tidak dapat bangkit, sudah mati, sudah padam sebagai sumbu--,"
   },
   {Bible:"Isaiah", Chapter:43, Verse:18, Page:1,
-    Kor:"너희는 지나간 일을 기억하려고 하지 말며, 옛일을 생각하지 말아라.",
+    Kor:"\"너희는 지나간 일을 기억하려고 하지 말며, 옛일을 생각하지 말아라.",
     Chn:"耶和华如此说： 你们不要记念从前的事， 也不要思想古时的事。",
     Eng:"\"Forget the former things; do not dwell on the past.",
     Ind:"firman-Nya: \"Janganlah ingat-ingat hal-hal yang dahulu, dan janganlah perhatikan hal-hal yang dari zaman purbakala!"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"umat yang telah Kubentuk bagi-Ku akan memberitakan kemasyhuran-Ku.\""
   },
   {Bible:"Isaiah", Chapter:43, Verse:22, Page:1,
-    Kor:"<이스라엘의 죄> \"야곱아, 너는 나를 부르지 않았다. 이스라엘아, 너는 오히려 나에게 싫증을 느낀다.",
+    Kor:"\"나 주가 말한다. 야곱아, 너는 나를 부르지 않았다. 이스라엘아, 너는 오히려 나에게 싫증을 느낀다.",
     Chn:"雅各啊，你并没有求告我； 以色列啊，你倒厌烦我。",
     Eng:"\"Yet you have not called upon me, O Jacob, you have not wearied yourselves for me, O Israel.",
     Ind:"\"Sungguh, engkau tidak memanggil Aku, hai Yakub, dan engkau tidak bersusah-susah karena Aku, hai Israel."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Engkau tidak membawa domba korban bakaranmu bagi-Ku, dan tidak memuliakan Aku dengan korban sembelihanmu. Aku tidak memberati engkau dengan menuntut korban sajian atau menyusahi engkau dengan menuntut kemenyan."
   },
   {Bible:"Isaiah", Chapter:43, Verse:24, Page:1,
-    Kor:"너는 나에게 바칠 향도 사지 않았으며, 제물의 기름으로 나를 흡족하게 하지도 않았다. 도리어 너는 너의 죄로 나를 수고롭게 하였으며, 너의 악함으로 나를 괴롭혔다.",
+    Kor:"너는 나에게 바칠 향도 사지 않았으며, 제물의 기름으로 나를 흡족하게 하지도 않았다. 도리어 너는, 너의 죄로 나를 수고롭게 하였으며, 너의 악함으로 나를 괴롭혔다.",
     Chn:"你没有用银子为我买菖蒲， 也没有用祭物的脂油使我饱足； 倒使我因你的罪恶服劳， 使我因你的罪孽厌烦。",
     Eng:"You have not bought any fragrant calamus for me, or lavished on me the fat of your sacrifices. But you have burdened me with your sins and wearied me with your offenses.",
     Ind:"Engkau tidak membeli tebu wangi bagi-Ku dengan uang atau mengenyangkan Aku dengan lemak korban sembelihanmu. Tetapi engkau memberati Aku dengan dosamu, engkau menyusahi Aku dengan kesalahanmu."
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"Bapa leluhurmu yang pertama sudah berdosa, dan jurubicaramu telah memberontak terhadap Aku."
   },
   {Bible:"Isaiah", Chapter:43, Verse:28, Page:1,
-    Kor:"그래서 내가 성소의 지도자들을 속되게 하였으며, 야곱이 b진멸을 받게 버려 두었고, 이스라엘이 비방거리가 되게 버려 두었다.\" (b '진멸'로 번역된 히브리어 헤렘은 진멸하여 하나님께 바치는 물건이나 짐승이나 사람을 일컬음. 사람이 가질 수 없음)",
+    Kor:"그래서 내가 성소의 지도자들을 속되게 하였으며, 야곱이 진멸을 받게 버려 두었고, 이스라엘이 비방거리가 되게 버려 두었다.\"",
     Chn:"所以，我要辱没圣所的首领， 使雅各成为咒诅， 使以色列成为辱骂。",
     Eng:"So I will disgrace the dignitaries of your temple, and I will consign Jacob to destruction and Israel to scorn.",
     Ind:"Jadi Aku terpaksa menajiskan pemimpin-pemimpin tempat kudus, dan terpaksa menyerahkan Yakub untuk ditumpas dan Israel untuk dinista.\""

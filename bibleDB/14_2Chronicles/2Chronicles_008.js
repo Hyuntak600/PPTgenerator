@@ -3,13 +3,13 @@
 BibleDB.ref("2Chronicles",8,18);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:8, Verse:1, Page:1,
-    Kor:"<솔로몬의 업적(왕상 9:10-28)> 솔로몬이 주님의 성전과 자기의 궁전을 다 짓는 데에 스무 해가 걸렸다.",
+    Kor:"솔로몬이 주의 성전과 자기의 궁전을 다 짓는 데에 스무 해가 걸렸다.",
     Chn:"所罗门建造耶和华殿和王宫，二十年才完毕了。",
     Eng:"At the end of twenty years, during which Solomon built the temple of the LORD and his own palace,",
     Ind:"Setelah lewat dua puluh tahun selesailah Salomo mendirikan rumah TUHAN dan istananya sendiri."
   },
   {Bible:"2Chronicles", Chapter:8, Verse:2, Page:1,
-    Kor:"곧 이어 솔로몬은 a히람에게서 얻은 성읍들도 다시 건축하여, 거기에 이스라엘 자손을 살게 하였다.(a 히, '후람')",
+    Kor:"곧 이어 솔로몬은 히람에게서 얻은 성읍들도 다시 건축하여, 거기에 이스라엘 자손을 살게 하였다.",
     Chn:"以后所罗门重新修筑希兰送给他的那些城邑，使以色列人住在那里。",
     Eng:"Solomon rebuilt the villages that Hiram had given him, and settled Israelites in them.",
     Ind:"Maka Salomo memperkuat kota-kota yang diberikan Huram kepadanya, dan menyuruh orang Israel menetap di sana."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Dan inilah pemimpin-pemimpin umum raja Salomo: dua ratus lima puluh orang yang memerintah rakyat."
   },
   {Bible:"2Chronicles", Chapter:8, Verse:11, Page:1,
-    Kor:"○솔로몬은 바로의 딸을 '다윗 성'에서 데려다가, 그가 살 궁을 따로 세우고 그 궁에서 살게 하였다. 솔로몬은, 이스라엘 왕 다윗의 궁은 주님의 궤를 모신 거룩한 곳이므로, 그의 이방인 아내가 거기에서 살아서는 안 된다고 생각한 것이다.",
+    Kor:"○솔로몬은 바로의 딸을 '다윗 성'에서 데려다가, 그가 살 궁을 따로 세우고 그 궁에서 살게 하였다. 솔로몬은, 이스라엘 왕 다윗의 궁은 주의 궤를 모신 거룩한 곳이므로, 그의 이방인 아내가 거기에서 살아서는 안 된다고 생각한 것이다.",
     Chn:"所罗门将法老的女儿带出大卫城，上到为她建造的宫里；因所罗门说：「耶和华约柜所到之处都为圣地，所以我的妻不可住在以色列王大卫的宫里。」",
     Eng:"Solomon brought Pharaoh's daughter up from the City of David to the palace he had built for her, for he said, \"My wife must not live in the palace of David king of Israel, because the places the ark of the LORD has entered are holy.\"",
     Ind:"Dan Salomo memindahkan anak Firaun dari kota Daud ke rumah yang didirikannya baginya, karena katanya: \"Tidak boleh seorang isteriku tinggal dalam istana Daud, raja Israel, karena tempat-tempat yang telah dimasuki tabut TUHAN adalah kudus.\""
   },
   {Bible:"2Chronicles", Chapter:8, Verse:12, Page:1,
-    Kor:"○그 때에 솔로몬은, 자기가 현관 앞에 세운 주님의 제단에서, 주님께 번제를 드렸다.",
+    Kor:"○그 때에 솔로몬은, 자기가 현관 앞에 세운 주의 제단에서, 주께 번제를 드렸다.",
     Chn:"所罗门在耶和华的坛上，就是在廊子前他所筑的坛上，与耶和华献燔祭；",
     Eng:"On the altar of the LORD that he had built in front of the portico, Solomon sacrificed burnt offerings to the LORD,",
     Ind:"Lalu Salomo mempersembahkan korban-korban bakaran bagi TUHAN di atas mezbah TUHAN yang didirikannya di depan balai Bait Suci,"
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"sesuai dengan apa yang menurut perintah Musa ditetapkan sebagai korban untuk setiap hari, yakni pada hari-hari Sabat, pada bulan-bulan baru, dan tiga kali setahun pada hari-hari raya: pada hari raya Roti Tidak Beragi, pada hari raya Tujuh Minggu dan pada hari raya Pondok Daun."
   },
   {Bible:"2Chronicles", Chapter:8, Verse:14, Page:1,
-    Kor:"솔로몬은 또 자기의 아버지 다윗이 정한 법을 좇아, 제사장들에게는 갈래를 따라 차례대로 봉사하게 하였고, 레위 사람에게도 직책을 맡겨서, 날마다 찬송하는 일과 제사장들을 보좌하는 일을 하게 하였다. 그는 또 문지기들에게는 갈래를 따라 여러 문을 지키게 하였다. 하나님의 사람 다윗이 명령한 그대로였다.",
+    Kor:"솔로몬은 또 자기의 아버지 다윗이 정한 법을 좇아, 제사장들을 갈래를 따라 차례대로 봉사하게 하였고, 레위 사람에게도 직책을 맡겨서, 날마다 찬송하는 일과 제사장들을 보좌하는 일을 시켰다. 그는 또 문지기들을 갈래를 따라 여러 문을 지키게 하였다. 하나님의 사람 다윗이 명령한 그대로였다.",
     Chn:"所罗门照着他父大卫所定的例，派定祭司的班次，使他们各供己事，又使利未人各尽其职，赞美耶和华，在祭司面前做每日所当做的；又派守门的按着班次看守各门，因为神人大卫是这样吩咐的。",
     Eng:"In keeping with the ordinance of his father David, he appointed the divisions of the priests for their duties, and the Levites to lead the praise and to assist the priests according to each day's requirement. He also appointed the gatekeepers by divisions for the various gates, because this was what David the man of God had ordered.",
     Ind:"Dan menurut peraturan Daud, ayahnya, ia menetapkan rombongan para imam dalam tugas jabatan mereka, dan orang-orang Lewi dalam tugas menyanyikan puji-pujian dan menyelenggarakan ibadah di hadapan para imam, setiap hari menurut yang ditetapkan untuk hari itu, dan juga penunggu-penunggu pintu gerbang dalam rombongan mereka untuk setiap pintu gerbang. Karena demikianlah perintah Daud, abdi Allah."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Mereka tidak menyimpang dari perintah raja mengenai para imam dan orang-orang Lewi dalam perkara apapun, juga mengenai perbendaharaan."
   },
   {Bible:"2Chronicles", Chapter:8, Verse:16, Page:1,
-    Kor:"○이렇게 주님의 성전 기초가 놓인 날부터 시작하여 그 공사가 완성되기까지, 솔로몬의 모든 건축 공사가 잘 진행되었으니, 주님의 성전이 비로소 완공되었다.",
+    Kor:"○이렇게 주의 성전 기초가 놓인 날부터 시작하여 그 공사가 완성되기까지, 솔로몬의 모든 건축 공사가 잘 진행되었으니, 주의 성전이 비로소 완공되었다.",
     Chn:"所罗门建造耶和华的殿，从立根基直到成功的日子，工料俱备。这样，耶和华的殿全然完毕。",
     Eng:"All Solomon's work was carried out, from the day the foundation of the temple of the LORD was laid until its completion. So the temple of the LORD was finished.",
     Ind:"Maka terlaksanalah segala pekerjaan Salomo, dari hari dasar rumah TUHAN diletakkan sampai kepada hari rumah itu selesai. Dengan demikian selesailah sudah rumah TUHAN."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Kemudian Salomo pergi ke Ezion-Geber dan ke Elot, yang letaknya di tepi laut, di tanah Edom."
   },
   {Bible:"2Chronicles", Chapter:8, Verse:18, Page:1,
-    Kor:"a히람이 신하들을 시켜서 솔로몬에게 상선들을 보내고, 바다에 노련한 부하들도 보냈다. 그들은 솔로몬의 부하들과 함께 오빌로 가서, 거기에서 금 사백오십 달란트를 실어다가 솔로몬에게 바쳤다.(a 히, '후람')",
+    Kor:"히람이 신하들을 시켜서 솔로몬에게 상선들을 보내고, 바다에 노련한 부하들도 보냈다. 그들은 솔로몬의 부하들과 함께 오빌로 가서, 거기에서 금 사백오십 달란트를 실어다가 솔로몬에게 바쳤다.",
     Chn:"希兰差遣他的臣仆，将船只和熟悉泛海的仆人送到所罗门那里。他们同着所罗门的仆人到了俄斐，得了四百五十他连得金子，运到所罗门王那里。",
     Eng:"And Hiram sent him ships commanded by his own officers, men who knew the sea. These, with Solomon's men, sailed to Ophir and brought back four hundred and fifty talents of gold, which they delivered to King Solomon.",
     Ind:"Dengan perantaraan anak buahnya Huram mengirim kapal-kapal kepadanya dan anak buah yang tahu tentang laut. Bersama-sama anak buah Salomo mereka sampai ke Ofir dan dari sana mereka mengambil empat ratus lima puluh talenta emas, yang mereka bawa kepada raja Salomo."

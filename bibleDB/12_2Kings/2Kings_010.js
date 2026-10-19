@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",10,36);
 BibleDB.add([
   {Bible:"2Kings", Chapter:10, Verse:1, Page:1,
-    Kor:"<아합의 자손이 살해되다> 아합의 아들 일흔 명이 사마리아에 살고 있었다. 예후가 편지를 써서 사본을 만들어, 사마리아에 있는 a이스르엘의 관리들과 원로들과 아합의 b아들들을 보호하고 있는 사람들에게 보냈다.(a 칠십인역과 불가타에는 '성읍의' b 칠십인역 히브리어 본문에는 '아들들'이 없음)",
+    Kor:"아합의 아들 일흔 명이 사마리아에 살고 있었다. 예후가 편지를 써서 사본을 만들어, 사마리아에 있는 이스르엘의 관리들과 원로들과 아합의 아들들을 보호하고 있는 사람들에게 보냈다.",
     Chn:"亚哈有七十个儿子在撒马利亚。耶户写信送到撒马利亚，通知耶斯列的首领，就是长老和教养亚哈众子的人，说：",
     Eng:"Now there were in Samaria seventy sons of the house of Ahab. So Jehu wrote letters and sent them to Samaria: to the officials of Jezreel, to the elders and to the guardians of Ahab's children. He said,",
     Ind:"Ahab mempunyai tujuh puluh orang anak laki-laki di Samaria. Yehu menulis surat, dan mengirimnya ke Samaria, kepada pembesar kota itu, kepada para tua-tua dan kepada para pengasuh anak-anak Ahab, bunyinya:"
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Ketika suruhan datang memberitahukan kepadanya: \"Telah dibawa orang kepala anak-anak raja itu,\" berkatalah Yehu: \"Susunlah semuanya menjadi dua timbunan di depan pintu gerbang sampai pagi.\""
   },
   {Bible:"2Kings", Chapter:10, Verse:9, Page:1,
-    Kor:"아침이 되었을 때에, 예후는 나가서 모든 백성에게 말하였다. \"나는 내 옛 주인에게 역모를 꾀하여, 그를 죽였습니다. 백성에게는 아무 잘못이 없습니다. 그러나 여기에 있는 이 모든 사람은 누가 죽였습니까?",
+    Kor:"아침이 되었을 때에, 예후는 나가서 모든 백성에게 말하였다. \"나는 내 옛 주인에게 역모를 꾀하여, 그를 죽였습니다. 백성들에게는 아무 잘못이 없습니다. 그러나 여기에 있는 이 모든 사람은 누가 죽였습니까?",
     Chn:"次日早晨，耶户出来，站着对众民说：「你们都是公义的，我背叛我主人，将他杀了；这些人却是谁杀的呢？",
     Eng:"The next morning Jehu went out. He stood before all the people and said, \"You are innocent. It was I who conspired against my master and killed him, but who killed all these?",
     Ind:"Pada paginya keluarlah Yehu, berdirilah ia, lalu berkata kepada segenap orang banyak: \"Kamu ini tidak bersalah. Memang akulah yang telah mengadakan persepakatan melawan tuanku dan telah membunuh dia; tetapi semua orang ini, siapakah yang membunuh mereka?"
   },
   {Bible:"2Kings", Chapter:10, Verse:10, Page:1,
-    Kor:"백성 여러분은 아합의 가문을 두고 말씀하신 주님의 말씀이, 그 어느 것 하나도 땅에 떨어지지 않았다는 사실만은 알아야 합니다. 주님께서는 그의 종 엘리야를 시켜 하신 말씀을 모두 이루셨습니다.\"",
+    Kor:"백성 여러분은 아합의 가문을 두고 말씀하신 주의 말씀이, 그 어느 것 하나도 땅에 떨어지지 않았다는 사실만은 알아야 합니다. 주께서는 그의 종 엘리야를 시켜 하신 말씀을 모두 이루셨습니다.\"",
     Chn:"由此可知，耶和华指着亚哈家所说的话一句没有落空，因为耶和华借他仆人以利亚所说的话都成就了。」",
     Eng:"Know then, that not a word the LORD has spoken against the house of Ahab will fail. The LORD has done what he promised through his servant Elijah.\"",
     Ind:"Ketahuilah sekarang, bahwa firman TUHAN yang telah diucapkan TUHAN tentang keluarga Ahab, tidak ada yang tidak dipenuhi, TUHAN telah melakukan apa yang difirmankan-Nya dengan perantaraan Elia, hamba-Nya.\""
@@ -69,43 +69,43 @@ BibleDB.add([
     Ind:"Lalu Yehu membunuh semua orang yang masih tinggal dari keluarga Ahab yang di Yizreel, juga semua orang besarnya, orang-orang kepercayaannya dan imam-imamnya; tidak ada padanya seorangpun yang ditinggalkan Yehu hidup."
   },
   {Bible:"2Kings", Chapter:10, Verse:12, Page:1,
-    Kor:"<아하시야 왕의 친족이 살해되다> ○그 다음에 예후가 이스르엘을 떠나 사마리아로 가는 길에 벳에켓하로임에 이르렀다.",
+    Kor:"○그 다음에 예후가 이스르엘을 떠나 사마리아로 가는 길에 벳에켓하로임에 이르렀다.",
     Chn:"耶户起身往撒马利亚去。在路上、牧人剪羊毛之处，",
     Eng:"Jehu then set out and went toward Samaria. At Beth Eked of the Shepherds,",
     Ind:"Kemudian bangkitlah Yehu pergi ke Samaria. Di jalan dekat Bet-Eked, perkampungan para gembala,"
   },
   {Bible:"2Kings", Chapter:10, Verse:13, Page:1,
-    Kor:"예후는 거기에서 이미 살해된 유다의 아하시야 왕의 친족들을 만나, 그들이 누구인지를 물었다. 그들이 대답하였다. \"우리는 아하시야의 형제들로서, 이세벨 왕후와 왕자들과 왕의 친족들에게 문안을 드리러 내려왔습니다.\"",
+    Kor:"예후는 거기에서 이미 살해된 유다의 아하시야 왕의 형제들을 만나, 그들이 누구인지를 물었다. 그들이 대답하였다. \"우리는 아하시야의 형제들로서, 이세벨 왕후와 왕자들과 왕의 친족들에게 문안을 드리러 내려왔습니다.\"",
     Chn:"遇见犹大王亚哈谢的弟兄，问他们说：「你们是谁？」回答说：「我们是亚哈谢的弟兄，现在下去要问王和太后的众子安。」",
     Eng:"he met some relatives of Ahaziah king of Judah and asked, \"Who are you?\" They said, \"We are relatives of Ahaziah, and we have come down to greet the families of the king and of the queen mother.\"",
     Ind:"bertemulah ia dengan sanak saudara Ahazia, raja Yehuda, lalu ia bertanya: \"Siapakah kamu ini?\" Jawab mereka: \"Kami adalah sanak saudara Ahazia dan kami datang untuk memberi salam kepada anak-anak raja dan anak-anak ibu suri.\""
   },
   {Bible:"2Kings", Chapter:10, Verse:14, Page:1,
-    Kor:"그러자 예후는 그들을 생포하라고 명령하였다. 부하들은 그들을 생포하여, 벳에켓의 한 구덩이에 넣어 죽였는데, 무려 마흔두 명이나 되는 사람을 한 사람도 살려 두지 않았다.",
+    Kor:"그러자 예후는 \"그들을 생포하라\" 하고 명령하였다. 부하들은 그들을 생포하여, 벳에켓의 한 구덩이에 넣어 죽였는데, 무려 마흔두 명이나 되는 사람을 한 사람도 살려 두지 않았다.",
     Chn:"耶户吩咐说：「活捉他们！」跟从的人就活捉了他们，将他们杀在剪羊毛之处的坑边，共四十二人，没有留下一个。",
     Eng:"\"Take them alive!\" he ordered. So they took them alive and slaughtered them by the well of Beth Eked--forty-two men. He left no survivor.",
     Ind:"Berkatalah Yehu: \"Tangkaplah mereka hidup-hidup!\" Lalu ditangkaplah mereka hidup-hidup dan disembelih dekat perigi Bet-Eked, empat puluh dua orang, dan tidak ada seorangpun ditinggalkannya hidup dari pada mereka."
   },
   {Bible:"2Kings", Chapter:10, Verse:15, Page:1,
-    Kor:"<아합의 나머지 친족이 살해되다> ○예후가 그 곳을 떠나서 가다가, 그를 만나러 오는 레갑의 아들 여호나답을 만났다. 예후가 그에게 안부를 물으며 말하였다. \"내가 그대를 진심으로 믿듯이, 그대도 그러하오?\" 그러자 여호나답이, 그렇다고 대답하였다. 예후는, 그렇다면 손을 내밀라고 하였다. 그가 손을 내미니, 그를 수레에 올라오게 하였다.",
+    Kor:"○예후가 그 곳을 떠나서 가다가, 그를 만나러 오는 레갑의 아들 여호나답을 만났다. 예후가 그에게 안부를 물으며 말하였다. \"내가 그대를 진심으로 믿듯이, 그대도 그러하오?\" 그러자 여호나답이, 그렇다고 대답하였다. 예후는, 그렇다면 손을 내밀라고 하였다. 그가 손을 내미니, 그를 수레에 올라오게 하였다.",
     Chn:"耶户从那里前行，恰遇利甲的儿子约拿达来迎接他，耶户问他安，对他说：「你诚心待我像我诚心待你吗？」约拿达回答说：「是。」耶户说：「若是这样，你向我伸手」，他就伸手；耶户拉他上车。",
     Eng:"After he left there, he came upon Jehonadab son of Recab, who was on his way to meet him. Jehu greeted him and said, \"Are you in accord with me, as I am with you?\" \"I am,\" Jehonadab answered. \"If so,\" said Jehu, \"give me your hand.\" So he did, and Jehu helped him up into the chariot.",
     Ind:"Setelah pergi dari sana, bertemulah ia dengan Yonadab bin Rekhab yang datang menyongsong dia. Ia memberi salam kepadanya serta berkata: \"Apakah hatimu jujur kepadaku seperti hatiku terhadap engkau?\" Jawab Yonadab: \"Ya!\" \"Jika ya, berilah tanganmu!\" Maka diberinyalah tangannya, lalu Yehu mengajak dia naik ke sampingnya ke dalam kereta."
   },
   {Bible:"2Kings", Chapter:10, Verse:16, Page:1,
-    Kor:"그런 다음에 c예후가 말하였다. \"나와 함께 가서, 주님을 향한 나의 열심이 어느 정도인지를 보도록 하시오.\" 예후는 여호나답을 자기의 병거에 태워 나란히 앉았다.(c 칠십인역과 시리아어역과 타르굼을 따름. 히, '그들은')",
+    Kor:"그런 다음에 예후가 말하였다. \"나와 함께 가서, 주님을 향한 나의 열심이 어느 정도인지를 보도록 하시오.\" 예후는 여호나답을 자기의 병거에 태워 나란히 앉았다.",
     Chn:"耶户说：「你和我同去，看我为耶和华怎样热心」；于是请他坐在车上，",
     Eng:"Jehu said, \"Come with me and see my zeal for the LORD.\" Then he had him ride along in his chariot.",
     Ind:"Berkatalah Yehu: \"Marilah bersama-sama aku, supaya engkau melihat bagaimana giatku untuk TUHAN.\" Demikianlah Yehu membawa dia dalam keretanya."
   },
   {Bible:"2Kings", Chapter:10, Verse:17, Page:1,
-    Kor:"그리고 그는 사마리아에 이르러서, 거기에 남아 있는 아합의 지지자를 모두 죽였다. 이 모든 것은 주님께서 엘리야에게 말씀하신 대로 이루어진 것이다.",
+    Kor:"그리고 그는 사마리아에 이르러서, 거기에 남아 있는 아합의 지지자를 모두 죽였다. 이 모든 것은 주께서 엘리야에게 말씀하신 대로 이루어진 것이다.",
     Chn:"到了撒马利亚，就把撒马利亚的亚哈家剩下的人都杀了，直到灭尽，正如耶和华对以利亚所说的。",
     Eng:"When Jehu came to Samaria, he killed all who were left there of Ahab's family; he destroyed them, according to the word of the LORD spoken to Elijah.",
     Ind:"Setelah Yehu sampai di Samaria, maka ia membunuh semua orang yang masih tinggal dari keluarga Ahab di Samaria; ia memunahkannya, sesuai dengan firman yang diucapkan TUHAN kepada Elia."
   },
   {Bible:"2Kings", Chapter:10, Verse:18, Page:1,
-    Kor:"<바알 숭배자들이 살해되다> ○예후는 백성을 다 모아 놓고 말하였다. \"아합은 바알을 조금밖에 섬기지 않았지만, 이 예후는 그보다 더 열심으로 섬기겠습니다.",
+    Kor:"○예후는 백성을 다 모아 놓고 말하였다. \"아합은 바알을 조금밖에 섬기지 않았지만, 이 예후는 그보다 더 열심으로 섬기겠습니다.",
     Chn:"耶户招聚众民，对他们说：「亚哈事奉巴力还冷淡，耶户却更热心。",
     Eng:"Then Jehu brought all the people together and said to them, \"Ahab served Baal a little; Jehu will serve him much.",
     Ind:"Kemudian Yehu mengumpulkan seluruh rakyat, lalu berkata kepada mereka: \"Adapun Ahab masih kurang beribadah kepada Baal, tetapi Yehu mau lebih hebat beribadah kepadanya."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"Yehu mengirim orang ke seluruh Israel, maka datanglah seluruh orang yang beribadah kepada Baal, tidak seorangpun yang ketinggalan. Lalu masuklah semuanya ke dalam rumah Baal, sehingga rumah itu penuh sesak dari ujung ke ujung."
   },
   {Bible:"2Kings", Chapter:10, Verse:22, Page:1,
-    Kor:"예후가 예복을 관리하는 사람에게 거기 모인 바알의 종들이 입을 예복을 모두 가져 오라고 명령하였다. 그들에게 입힐 예복을 가져 오니,",
+    Kor:"예후가 예복을 관리하는 사람에게 \"여기 모인 바알의 종들이 입을 예복을 모두 가져 오너라\" 하고 명령하였다. 그들에게 입힐 예복을 가져 오니,",
     Chn:"耶户吩咐掌管礼服的人说：「拿出礼服来，给一切拜巴力的人穿。」他就拿出礼服来给了他们。",
     Eng:"And Jehu said to the keeper of the wardrobe, \"Bring robes for all the ministers of Baal.\" So he brought out robes for them.",
     Ind:"Kemudian berkatalah Yehu kepada orang yang mengepalai gudang pakaian: \"Keluarkanlah pakaian untuk setiap orang yang beribadah kepada Baal!\" Maka dikeluarkannyalah pakaian bagi mereka."
   },
   {Bible:"2Kings", Chapter:10, Verse:23, Page:1,
-    Kor:"예후와 레갑의 아들 여호나답은 바알의 신전으로 들어가서, 바알의 종들에게 말하였다. \"여기 여러분 가운데 주 하나님을 섬기는 종들이 있지나 않은지 살펴보십시오. 여기에는 다만 바알의 종들만 있어야 합니다.\"",
+    Kor:"예후와 레갑의 아들 여호나답은 바알의 신전으로 들어가서, 바알의 종들에게 말하였다. \"여기 여러분 가운데 주를 섬기는 종들이 있지나 않은지 살펴보십시오. 여기에는 다만 바알의 종들만 있어야 합니다.\"",
     Chn:"耶户和利甲的儿子约拿达进了巴力庙，对拜巴力的人说：「你们察看察看，在你们这里不可有耶和华的仆人，只可容留拜巴力的人。」",
     Eng:"Then Jehu and Jehonadab son of Recab went into the temple of Baal. Jehu said to the ministers of Baal, \"Look around and see that no servants of the LORD are here with you--only ministers of Baal.\"",
     Ind:"Sesudah itu masuklah Yehu dan Yonadab bin Rekhab ke dalam rumah Baal, lalu berkatalah ia kepada orang-orang penyembah Baal di situ: \"Periksalah dan lihatlah, supaya jangan ada di antara kamu di sini seorangpun dari hamba-hamba TUHAN, melainkan hanya orang-orang yang beribadah kepada Baal.\""
@@ -177,7 +177,7 @@ BibleDB.add([
     Ind:"Hanya, Yehu tidak menjauh dari dosa-dosa Yerobeam bin Nebat, yang mengakibatkan orang Israel berdosa pula, yakni dosa penyembahan anak-anak lembu emas yang di Betel dan yang di Dan."
   },
   {Bible:"2Kings", Chapter:10, Verse:30, Page:1,
-    Kor:"주님께서 예후에게 말씀하셨다. \"너는, 내가 보기에 일을 바르게 잘 하여, 내 마음에 들도록 아합의 가문을 잘 처리하였으니, 네 사 대 자손까지는 이스라엘의 왕위를 지키게 될 것이다.\"",
+    Kor:"주께서 예후에게 말씀하셨다. \"너는, 내가 보기에 일을 바르게 잘 하여, 내 마음에 들도록 아합의 가문을 잘 처리하였으니, 네 사 대 자손까지는 이스라엘의 왕위를 지키게 될 것이다.\"",
     Chn:"耶和华对耶户说：「因你办好我眼中看为正的事，照我的心意待亚哈家，你的子孙必接续你坐以色列的国位，直到四代。」",
     Eng:"The LORD said to Jehu, \"Because you have done well in accomplishing what is right in my eyes and have done to the house of Ahab all I had in mind to do, your descendants will sit on the throne of Israel to the fourth generation.\"",
     Ind:"Berfirmanlah TUHAN kepada Yehu: \"Oleh karena engkau telah berbuat baik dengan melakukan apa yang benar di mata-Ku, dan telah berbuat kepada keluarga Ahab tepat seperti yang dikehendaki hati-Ku, maka anak-anakmu akan duduk di atas takhta Israel sampai keturunan yang keempat.\""
@@ -189,13 +189,13 @@ BibleDB.add([
     Ind:"Tetapi Yehu tidak tetap hidup menurut hukum TUHAN, Allah Israel, dengan segenap hatinya; ia tidak menjauh dari dosa-dosa Yerobeam yang mengakibatkan orang Israel berdosa pula."
   },
   {Bible:"2Kings", Chapter:10, Verse:32, Page:1,
-    Kor:"<예후가 죽다> ○이 때부터 주님께서는 이스라엘을 조금씩 찢어 내기 시작하셨다. 그래서 하사엘이 이스라엘의 국경 사방에서 공격해 왔다.",
+    Kor:"○이 때부터 주께서는 이스라엘을 조금씩 찢어 내기 시작하셨다. 그래서 하사엘이 이스라엘의 국경 사방에서 공격해 왔다.",
     Chn:"在那些日子，耶和华才割裂以色列国，使哈薛攻击以色列的境界，",
     Eng:"In those days the LORD began to reduce the size of Israel. Hazael overpowered the Israelites throughout their territory",
     Ind:"Pada zaman itu mulailah TUHAN menggunting daerah Israel, sebab Hazael mengalahkan mereka di seluruh daerah Israel"
   },
   {Bible:"2Kings", Chapter:10, Verse:33, Page:1,
-    Kor:"그는 요단 강 동쪽 지역인, 갓 사람과 르우벤 사람과 므낫세 사람이 있는 길르앗의 모든 땅 곧 아르논 강에 맞붙어 있는 아로엘에서부터 길르앗과 바산까지 공격하였다.",
+    Kor:"그는 요단 강 동쪽 지역인, 갓 사람과 르우벤 사람과 므낫세 사람이 있는 길르앗의 모든 땅, 곧 아르논 강에 맞붙어 있는 아로엘에서부터 길르앗과 바산까지 공격하였다.",
     Chn:"乃是约旦河东、基列全地，从靠近亚嫩谷边的亚罗珥起，就是基列和巴珊的迦得人、吕便人、玛拿西人之地。",
     Eng:"east of the Jordan in all the land of Gilead (the region of Gad, Reuben and Manasseh), from Aroer by the Arnon Gorge through Gilead to Bashan.",
     Ind:"di sebelah timur sungai Yordan dengan merebut seluruh tanah Gilead, tanah orang Gad, orang Ruben dan orang Manasye, mulai dari Aroer yang di tepi sungai Arnon, baik Gilead maupun Basan."

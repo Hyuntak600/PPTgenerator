@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",32,42);
 BibleDB.add([
   {Bible:"Numbers", Chapter:32, Verse:1, Page:1,
-    Kor:"<요단 강 동쪽 지파들(신 3:12-22)> 르우벤 자손과 갓 자손에게는 가축 떼가 셀 수 없을 만큼 많았다. 그들이 야스엘 땅과 길르앗 땅을 둘러보니, 가축 떼를 놓아 먹이기에는 아주 적절한 곳이었다.",
+    Kor:"르우벤 자손과 갓 자손에게는 가축 떼가 셀 수 없을 만큼 많았다. 그들이 야셀 땅과 길르앗 땅을 둘러보니, 가축 떼를 놓아 먹이기에는 아주 적절한 곳이었다.",
     Chn:"吕便子孙和迦得子孙的牲畜极其众多；他们看见雅谢地和基列地是可牧放牲畜之地，",
     Eng:"The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock.",
     Ind:"Adapun bani Ruben dan bani Gad ternaknya banyak, bahkan sangat banyak sekali. Ketika mereka melihat tanah Yaezer dan tanah Gilead, tampaklah tempat itu tempat yang baik untuk peternakan."
@@ -15,49 +15,49 @@ BibleDB.add([
     Ind:"Lalu datanglah bani Gad dan bani Ruben dan berkata kepada Musa, imam Eleazar dan para pemimpin umat itu:"
   },
   {Bible:"Numbers", Chapter:32, Verse:3, Page:1,
-    Kor:"\"아다롯과 디본과 야스엘과 니므라와 헤스본과 엘르알레와 스밤과 느보와 브온은,",
+    Kor:"\"아다롯과 디본과 야셀과 니므라와 헤스본과 엘르알레와 스밤과 느보와 브온은,",
     Chn:"「亚大录、底本、雅谢、宁拉、希实本、以利亚利、示班、尼波、比稳，",
     Eng:"\"Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon--",
     Ind:"\"Atarot, Dibon, Yaezer, Nimra, Hesybon, Eleale, Sebam, Nebo dan Beon,"
   },
   {Bible:"Numbers", Chapter:32, Verse:4, Page:1,
-    Kor:"주님께서 이스라엘 모든 자손 앞에서 정복하신 땅으로서, 가축 떼가 많은 우리에게는 목축하기에 알맞은 곳입니다.",
+    Kor:"주께서 이스라엘 모든 자손 앞에서 정복하신 땅으로서, 가축 떼가 많은 우리에게는 목축하기에 알맞은 곳입니다.",
     Chn:"就是耶和华在以色列会众前面所攻取之地，是可牧放牲畜之地，你仆人也有牲畜」；",
     Eng:"the land the LORD subdued before the people of Israel--are suitable for livestock, and your servants have livestock.",
     Ind:"negeri yang telah dikalahkan oleh TUHAN untuk umat Israel, itulah suatu negeri yang baik untuk peternakan dan hamba-hambamu ini memang ada ternaknya.\""
   },
   {Bible:"Numbers", Chapter:32, Verse:5, Page:1,
-    Kor:"우리를 좋게 여기신다면, 이 땅을 우리에게 주셔서 우리의 차지가 되게 하시고, 우리는 요단 강을 a건너가지 않도록 하여 주시기를 바랍니다.\"(a 서쪽으로 도강하는 것을 뜻함)",
+    Kor:"우리를 좋게 여기신다면, 이 땅을 우리에게 주셔서 우리의 차지가 되게 하시고, 우리는 요단 강을 건너가지 않도록 하여 주시기를 바랍니다.\"",
     Chn:"又说：「我们若在你眼前蒙恩，求你把这地给我们为业，不要领我们过约旦河。」",
     Eng:"If we have found favor in your eyes,\" they said, \"let this land be given to your servants as our possession. Do not make us cross the Jordan.\"",
     Ind:"Lagi kata mereka: \"Jika kami mendapat kasihmu, biarlah negeri ini diberikan kepada hamba-hambamu ini sebagai milik; janganlah kami harus pindah ke seberang sungai Yordan.\""
   },
   {Bible:"Numbers", Chapter:32, Verse:6, Page:1,
-    Kor:"○모세가 갓 자손과 르우벤 자손에게 말하였다. \"당신들의 동족 이스라엘은 전쟁하러 나가는데, 당신들만은 여기에 머물러 살겠다는 말이오?",
+    Kor:"○모세가 갓 자손과 르우벤 자손에게 말하였다. \"너희의 형제들은 전쟁하러 나가는데, 너희만은 여기에 머물러 살겠다는 말이냐?",
     Chn:"摩西对迦得子孙和吕便子孙说：「难道你们的弟兄去打仗，你们竟坐在这里吗？",
     Eng:"Moses said to the Gadites and Reubenites, \"Shall your countrymen go to war while you sit here?",
     Ind:"Jawab Musa kepada bani Gad dan bani Ruben itu: \"Masakan saudara-saudaramu pergi berperang dan kamu tinggal di sini?"
   },
   {Bible:"Numbers", Chapter:32, Verse:7, Page:1,
-    Kor:"이스라엘 자손이 주님께서 주신 땅으로 가려고 하는데, 어찌하여 당신들은 동족의 사기를 꺾으시오?",
+    Kor:"이스라엘 자손이 주께서 주신 땅으로 가려고 하는데, 어찌하여 너희는 형제들의 사기를 꺾느냐?",
     Chn:"你们为何使以色列人灰心丧胆、不过去进入耶和华所赐给他们的那地呢？",
     Eng:"Why do you discourage the Israelites from going over into the land the LORD has given them?",
     Ind:"Mengapa kamu hendak membuat enggan hati orang Israel untuk menyeberang ke negeri yang diberikan TUHAN kepada mereka?"
   },
   {Bible:"Numbers", Chapter:32, Verse:8, Page:1,
-    Kor:"내가 가데스바네아에서 당신들의 아버지들더러 그 땅을 살펴보고 오라고 하였을 때에, 당신들의 아버지들도 그렇게 하였소.",
+    Kor:"내가 가데스바네아에서 너희 아버지들더러 그 땅을 살펴보고 오라고 하였을 때에, 너희 아버지들도 그렇게 하였다.",
     Chn:"我先前从加低斯·巴尼亚打发你们先祖去窥探那地，他们也是这样行。",
     Eng:"This is what your fathers did when I sent them from Kadesh Barnea to look over the land.",
     Ind:"Demikian juga dilakukan bapa-bapamu, ketika aku menyuruh mereka dari Kadesh-Barnea untuk melihat-lihat negeri itu;"
   },
   {Bible:"Numbers", Chapter:32, Verse:9, Page:1,
-    Kor:"그들은 기껏 에스골 골짜기까지 올라가서 그 땅을 둘러보고 와서는, 이스라엘 자손의 사기를 떨어뜨려, 주님께서 주신 그 땅으로 들어갈 수 없게 하였소.",
+    Kor:"그들은 기껏 에스골 골짜기까지 올라가서 그 땅을 둘러보고 와서는, 이스라엘 자손의 사기를 떨어뜨려, 주께서 주신 그 땅으로 들어갈 수 없게 하였다.",
     Chn:"他们上以实各谷，去窥探那地回来的时候，使以色列人灰心丧胆，不进入耶和华所赐给他们的地。",
     Eng:"After they went up to the Valley of Eshcol and viewed the land, they discouraged the Israelites from entering the land the LORD had given them.",
     Ind:"mereka berjalan sampai ke lembah Eskol, melihat-lihat negeri dan membuat enggan hati orang Israel, sehingga mereka tidak mau pergi ke negeri yang diberikan TUHAN kepada mereka."
   },
   {Bible:"Numbers", Chapter:32, Verse:10, Page:1,
-    Kor:"그리하여 그 날 주님께서 진노하셔서 이렇게 맹세하셨소.",
+    Kor:"그리하여 그 날 주께서 진노하셔서 이렇게 맹세하셨다.",
     Chn:"当日，耶和华的怒气发作，就起誓说：",
     Eng:"The LORD'S anger was aroused that day and he swore this oath:",
     Ind:"Maka bangkitlah murka TUHAN pada waktu itu dan Ia bersumpah:"
@@ -69,25 +69,25 @@ BibleDB.add([
     Ind:"Bahwasanya orang-orang yang telah berjalan dari Mesir, yang berumur dua puluh tahun ke atas, tidak akan melihat negeri yang Kujanjikan dengan bersumpah kepada Abraham, Ishak dan Yakub, oleh karena mereka tidak mengikut Aku dengan sepenuh hatinya,"
   },
   {Bible:"Numbers", Chapter:32, Verse:12, Page:1,
-    Kor:"다만 그나스 사람 여분네의 아들 갈렙과 눈의 아들 여호수아는, 나 주를 철저히 따랐으므로 예외이다.’",
+    Kor:"다만 그나스 사람 여분네의 아들 갈렙과 눈의 아들 여호수아는, 나 주를 철저히 따랐으므로 예외이다.'",
     Chn:"惟有基尼洗族耶孚尼的儿子迦勒和嫩的儿子约书亚可以看见，因为他们专心跟从我。』",
     Eng:"not one except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, for they followed the LORD wholeheartedly.'",
     Ind:"kecuali Kaleb bin Yefune, orang Kenas itu, dan Yosua bin Nun, sebab keduanya mengikut TUHAN dengan sepenuh hatinya."
   },
   {Bible:"Numbers", Chapter:32, Verse:13, Page:1,
-    Kor:"주님께서는 이렇게 이스라엘에게 진노하셔서, 주님께서 보시는 앞에서 못된 짓을 한 그 세대 전체가 다 죽을 때까지, 사십 년 동안이나 그들을 광야에서 떠돌게 하셨소.",
+    Kor:"주께서는 이렇게 이스라엘에게 진노하셔서, 주께서 보시는 앞에서 못된 짓을 한 그 세대 전체가 다 죽을 때까지, 사십 년 동안이나 그들을 광야에서 떠돌게 하셨다.",
     Chn:"耶和华的怒气向以色列人发作，使他们在旷野飘流四十年，等到在耶和华眼前行恶的那一代人都消灭了。",
     Eng:"The LORD'S anger burned against Israel and he made them wander in the desert forty years, until the whole generation of those who had done evil in his sight was gone.",
     Ind:"Sebab itu bangkitlah murka TUHAN kepada orang Israel, sehingga Ia membuat mereka mengembara di padang gurun empat puluh tahun lamanya, sampai habis mati segenap angkatan yang telah berbuat jahat di mata TUHAN."
   },
   {Bible:"Numbers", Chapter:32, Verse:14, Page:1,
-    Kor:"그런데 이제 당신들마저 당신들 아버지들을 따라서, 같은 무리의 죄인들이 되어, 주님께서 이스라엘에게 더욱더 진노하시게 하셨소.",
+    Kor:"그런데 이제 너희들마저 너희 아버지들을 따라서, 같은 무리의 죄인들이 되어, 주께서 이스라엘에게 더욱더 진노하시게 하였다.",
     Chn:"谁知，你们起来接续先祖，增添罪人的数目，使耶和华向以色列大发烈怒。",
     Eng:"\"And here you are, a brood of sinners, standing in the place of your fathers and making the LORD even more angry with Israel.",
     Ind:"Dan sekarang kamu bangkit ganti bapa-bapamu, suatu kawanan orang-orang berdosa, untuk menambah lagi murka TUHAN yang menyala-nyala kepada orang Israel itu."
   },
   {Bible:"Numbers", Chapter:32, Verse:15, Page:1,
-    Kor:"당신들이 주님을 따르지 않고 돌아선다면, 주님께서는 다시 이 모든 백성을 광야에 버려 두실 것이오. 우리 백성 모두가 멸망하면, 그것이 바로 당신들 때문인 줄 아시오!\"",
+    Kor:"너희가 주님을 따르지 않고 돌아선다면, 주께서는 다시 이 모든 백성을 광야에 버려 두실 것이다. 우리 백성 모두가 멸망하면, 그것이 바로 너희 때문인 줄 알아라!\"",
     Chn:"你们若退后不跟从他，他还要把以色列人撇在旷野，便是你们使这众民灭亡。」",
     Eng:"If you turn away from following him, he will again leave all this people in the desert, and you will be the cause of their destruction.\"",
     Ind:"Jika kamu berbalik membelakangi Dia, maka kamu akan lebih lama lagi dibiarkan-Nya tinggal di padang gurun dan kamu akan membawa kemusnahan atas seluruh bangsa ini.\""
@@ -117,31 +117,31 @@ BibleDB.add([
     Ind:"sebab kami tidak mau menerima milik pusaka di seberang sungai Yordan sana dan seterusnya, apabila kami mendapat milik pusaka di seberang sungai Yordan sini, di sebelah timur.\""
   },
   {Bible:"Numbers", Chapter:32, Verse:20, Page:1,
-    Kor:"○그러자 모세가 그들에게 대답하였다. \"만일 당신들이 말한 대로 한다면, 당신들이 전쟁에 나가려고 주님 앞에서 무장을 하고,",
+    Kor:"○그러자 모세가 그들에게 대답하였다. \"만일 너희가 말한 대로 한다면, 너희가 전쟁에 나가려고 주 앞에서 무장을 하고,",
     Chn:"摩西对他们说：「你们若这样行，在耶和华面前带着兵器出去打仗，",
     Eng:"Then Moses said to them, \"If you will do this--if you will arm yourselves before the LORD for battle,",
     Ind:"Lalu berkatalah Musa kepada mereka: \"Jika kamu hendak berbuat demikian, jika kamu hendak mempersenjatai diri untuk berperang di hadapan TUHAN,"
   },
   {Bible:"Numbers", Chapter:32, Verse:21, Page:1,
-    Kor:"주님께서 그의 대적을 그 앞에서 몰아 낼 때까지, 당신들 모두가 무장한 채로 주님 앞에서 요단 강을 건넌다면,",
+    Kor:"주께서 그의 대적을 그 앞에서 몰아 낼 때까지, 너희 모두가 무장한 채로 주 앞에서 요단 강을 건넌다면,",
     Chn:"所有带兵器的人都要在耶和华面前过约旦河，等他赶出他的仇敌，",
     Eng:"and if all of you will go armed over the Jordan before the LORD until he has driven his enemies out before him--",
     Ind:"dan setiap orang dari kamu yang telah bersenjata hendak menyeberangi sungai Yordan di hadapan TUHAN, sampai Ia menghalau musuh-musuh-Nya dari hadapan-Nya,"
   },
   {Bible:"Numbers", Chapter:32, Verse:22, Page:1,
-    Kor:"그 땅이 주님 앞에서 정복되는 날, 당신들은 돌아갈 수 있고, 주님과 이스라엘에 대한 당신들의 의무에서 벗어날 수 있소. 그리고 지금 이 땅은 주님 앞에서 당신들의 소유가 될 것이오.",
+    Kor:"그 땅이 주 앞에서 정복되는 날, 너희는 돌아갈 수 있고, 주와 이스라엘에 대한 너희의 의무에서 벗어날 수 있다. 그리고 지금 이 땅은 주 앞에서 너희의 소유가 될 것이다.",
     Chn:"那地被耶和华制伏了，然后你们可以回来，向耶和华和以色列才为无罪，这地也必在耶和华面前归你们为业。",
     Eng:"then when the land is subdued before the LORD, you may return and be free from your obligation to the LORD and to Israel. And this land will be your possession before the LORD.",
     Ind:"sehingga negeri itu takluk ke hadapan TUHAN, dan jika kemudian kamu pulang, maka akan bebaslah kamu dari kewajibanmu kepada TUHAN dan kepada Israel, dan negeri inipun akan menjadi milikmu di hadapan TUHAN."
   },
   {Bible:"Numbers", Chapter:32, Verse:23, Page:1,
-    Kor:"그러나 만일 당신들이 이렇게 하지 않으면, 당신들은 주님께 죄를 짓는 것이오. 이러한 죄를 짓고서는, 당신들이 절대로 그 죄에서 벗어나지 못할 줄 아시오.",
+    Kor:"그러나 만일 너희가 이렇게 하지 않으면, 너희는 주께 죄를 짓는 것이다. 이러한 죄를 짓고서는, 너희가 절대로 그 죄에서 벗어나지 못할 줄 알아라.",
     Chn:"倘若你们不这样行，就得罪耶和华，要知道你们的罪必追上你们。",
     Eng:"\"But if you fail to do this, you will be sinning against the LORD; and you may be sure that your sin will find you out.",
     Ind:"Tetapi jika kamu tidak berbuat demikian, sesungguhnya kamu berdosa kepada TUHAN, dan kamu akan mengalami, bahwa dosamu itu akan menimpa kamu."
   },
   {Bible:"Numbers", Chapter:32, Verse:24, Page:1,
-    Kor:"당신들에게 딸린 어린 것들을 보호할 성을 쌓으시오. 가축을 가둘 우리도 만드시오. 그리고 당신들이 약속한 것을 그대로 실행하도록 하시오!\"",
+    Kor:"너희에게 딸린 어린 것들을 보호할 성을 쌓아라. 가축을 가둘 우리도 만들어라. 그리고 너희가 약속한 것을 그대로 실행하도록 하여라.\"",
     Chn:"如今你们口中所出的，只管去行，为你们的妇人孩子造城，为你们的羊群垒圈。」",
     Eng:"Build cities for your women and children, and pens for your flocks, but do what you have promised.\"",
     Ind:"Dirikanlah kota-kota bagi anak-anakmu dan kandang-kandang bagi kambing dombamu, dan perbuatlah apa yang telah kamu ucapkan.\""
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Anak-anak dan isteri-isteri kami, ternak dan hewan kami akan tinggal di sini di kota-kota Gilead,"
   },
   {Bible:"Numbers", Chapter:32, Verse:27, Page:1,
-    Kor:"그러나 어른의 종인 우리는, 말씀하신 대로, 모두 각자 무장을 하고, 요단 강을 건너가 주님 앞에서 싸우겠습니다.\"",
+    Kor:"그러나 어른의 종인 우리는, 말씀하신 대로, 모두 각자 무장을 하고, 요단 강을 건너가 주 앞에서 싸우겠습니다.\"",
     Chn:"但你的仆人，凡带兵器的，都要照我主所说的话，在耶和华面前过去打仗。」",
     Eng:"But your servants, every man armed for battle, will cross over to fight before the LORD, just as our lord says.\"",
     Ind:"tetapi hamba-hambamu ini akan menyeberang di hadapan TUHAN untuk bertempur, yakni setiap orang yang bersenjata untuk berperang, seperti yang dikatakan tuanku.\""
@@ -171,25 +171,25 @@ BibleDB.add([
     Ind:"Lalu Musa memberi perintah mengenai mereka kepada imam Eleazar dan kepada Yosua bin Nun, dan kepada kepala-kepala puak dari suku-suku Israel,"
   },
   {Bible:"Numbers", Chapter:32, Verse:29, Page:1,
-    Kor:"모세는 그들에게 다음과 같은 명령을 내렸다. \"갓 자손과 르우벤 자손이 모두 각자 무장을 하고, 당신들과 함께 주님 앞에서 싸우려고 요단 강을 건너면, 당신들 앞에서 그 땅이 정복되는 날, 이 길르앗 땅을 그들의 소유로 주십시오.",
+    Kor:"모세는 그들에게 다음과 같은 명령을 내렸다. \"갓 자손과 르우벤 자손이 모두 각자 무장을 하고, 너희와 함께 주 앞에서 싸우려고 요단 강을 건너면, 너희 앞에서 그 땅이 정복되는 날, 이 길르앗 땅을 그들의 소유로 주어라.",
     Chn:"「迦得子孙和吕便子孙，凡带兵器在耶和华面前去打仗的，若与你们一同过约旦河，那地被你们制伏了，你们就要把基列地给他们为业。",
     Eng:"He said to them, \"If the Gadites and Reubenites, every man armed for battle, cross over the Jordan with you before the LORD, then when the land is subdued before you, give them the land of Gilead as their possession.",
     Ind:"kata Musa kepada mereka: \"Jika bani Gad dan bani Ruben itu telah menyeberangi sungai Yordan bersama-sama dengan kamu untuk berperang di hadapan TUHAN, yakni semuanya orang yang bersenjata untuk berperang, dan jika negeri itu telah takluk kepadamu, maka haruslah kamu memberikan tanah Gilead kepada mereka sebagai milik."
   },
   {Bible:"Numbers", Chapter:32, Verse:30, Page:1,
-    Kor:"그러나 그들이, 당신들과 함께 무장을 하고 요단 강을 건너지 않으면, 가나안에서 당신들과 함께 재산을 받게 하십시오.\"",
+    Kor:"그러나 그들이, 너희와 함께 무장을 하고 요단 강을 건너지 않으면, 가나안에서 너희와 함께 재산을 받게 하여라.\"",
     Chn:"倘若他们不带兵器和你们一同过去，就要在迦南地你们中间得产业。」",
     Eng:"But if they do not cross over with you armed, they must accept their possession with you in Canaan.\"",
     Ind:"Tetapi jika mereka tidak menyeberang dengan bersenjata bersama-sama dengan kamu, maka haruslah mereka menerima tanah miliknya di tengah-tengahmu di tanah Kanaan.\""
   },
   {Bible:"Numbers", Chapter:32, Verse:31, Page:1,
-    Kor:"○갓 자손과 르우벤 자손이 대답하였다. \"어른의 종인 우리는 주님께서 말씀하신 대로 하겠습니다.",
+    Kor:"○갓 자손과 르우벤 자손이 대답하였다. \"어른의 종인 우리는 주께서 말씀하신 대로 하겠습니다.",
     Chn:"迦得子孙和吕便子孙回答说：「耶和华怎样吩咐仆人，仆人就怎样行。",
     Eng:"The Gadites and Reubenites answered, \"Your servants will do what the LORD has said.",
     Ind:"Lalu bani Gad dan bani Ruben itu menjawab: \"Apa yang difirmankan TUHAN kepada hamba-hambamu ini akan kami lakukan."
   },
   {Bible:"Numbers", Chapter:32, Verse:32, Page:1,
-    Kor:"우리는 주님 앞에서 무장을 하고, 요단 강을 건너 가나안 땅으로 들어가겠습니다. 그러나 우리는 요단 강 이쪽에서만 우리의 소유가 될 땅을 차지하겠습니다.\"",
+    Kor:"우리는 주 앞에서 무장을 하고, 요단 강을 건너 가나안 땅으로 들어가겠습니다. 그러나 우리는 요단 강 이쪽에서만 우리의 소유가 될 땅을 차지하겠습니다.\"",
     Chn:"我们要带兵器，在耶和华面前过去，进入迦南地，只是约旦河这边、我们所得为业之地仍归我们。」",
     Eng:"We will cross over before the LORD into Canaan armed, but the property we inherit will be on this side of the Jordan.\"",
     Ind:"Kami sendiri akan menyeberang dengan bersenjata di hadapan TUHAN ke tanah Kanaan, tetapi bagi kami tetaplah tanah milik pusaka kami di seberang sungai Yordan sini.\""
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Maka bani Gad membangun kota-kota Dibon, Atarot, Aroer,"
   },
   {Bible:"Numbers", Chapter:32, Verse:35, Page:1,
-    Kor:"아다롯소반과 야스엘과 욕브하와",
+    Kor:"아다롯소반과 야셀과 욕브하와",
     Chn:"亚他录·朔反、雅谢、约比哈、",
     Eng:"Atroth Shophan, Jazer, Jogbehah,",
     Ind:"Atarot-Sofan, Yaezer, Yogbeha,"
@@ -243,7 +243,7 @@ BibleDB.add([
     Ind:"Lalu Musa memberikan Gilead kepada Makhir bin Manasye dan diamlah ia di sana."
   },
   {Bible:"Numbers", Chapter:32, Verse:41, Page:1,
-    Kor:"므낫세의 아들 야일은 정착할 곳을 차지하고서, 그 곳을 b하봇야일이라고 불렀다.(b '야일의 촌락')",
+    Kor:"므낫세의 아들 야일은 정착할 곳을 차지하고서, 그 곳을 하봇야일이라고 불렀다.",
     Chn:"玛拿西的子孙睚珥去占了基列的村庄，就称这些村庄为哈倭特·睚珥。",
     Eng:"Jair, a descendant of Manasseh, captured their settlements and called them Havvoth Jair.",
     Ind:"Yair, anak Manasye, pergi merebut dusun-dusunnya dan menamainya Hawot-Yair."

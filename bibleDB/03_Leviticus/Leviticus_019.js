@@ -3,7 +3,7 @@
 BibleDB.ref("Leviticus",19,37);
 BibleDB.add([
   {Bible:"Leviticus", Chapter:19, Verse:1, Page:1,
-    Kor:"<거룩한 백성이 되어라> 주님께서 모세에게 말씀하셨다.",
+    Kor:"주께서 모세에게 말씀하셨다.",
     Chn:"耶和华对摩西说：",
     Eng:"The LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa:"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"Dan haruslah itu dimakan pada hari mempersembahkannya atau boleh juga pada keesokan harinya, tetapi apa yang tinggal sampai hari yang ketiga haruslah dibakar habis."
   },
   {Bible:"Leviticus", Chapter:19, Verse:7, Page:1,
-    Kor:"사흘째 되는 날에 그 남은 제물을 먹으면, 그 행위 자체가 역겨운 일이다. 제물의 효력이 없어지고 말 것이다.",
+    Kor:"사흘째 되는 날에, 그 남은 제물을 먹으면, 그 행위 자체가 역겨운 일이다. 제물의 효력이 없어지고 말 것이다.",
     Chn:"第三天若再吃，这就为可憎恶的，必不蒙悦纳。",
     Eng:"If any of it is eaten on the third day, it is impure and will not be accepted.",
     Ind:"Jikalau dimakan juga pada hari yang ketiga, maka itu menjadi sesuatu yang jijik dan TUHAN tidak berkenan akan orang itu."
   },
   {Bible:"Leviticus", Chapter:19, Verse:8, Page:1,
-    Kor:"날 지난 제물을 먹는 사람은 누구나 벌을 면하지 못한다. 나 주에게 바친 거룩한 것을 그가 더럽혔기 때문이다. 그런 사람은 자기 백성에게서 끊어질 것이다.",
+    Kor:"날 지난 제물을 먹는 사람은, 누구나 벌을 면하지 못한다. 나 주에게 바친 거룩한 것을 그가 더럽혔기 때문이다. 그런 사람은 자기 백성에게서 끊어질 것이다.",
     Chn:"凡吃的人必担当他的罪孽；因为他亵渎了耶和华的圣物，那人必从民中剪除。",
     Eng:"Whoever eats it will be held responsible because he has desecrated what is holy to the LORD; that person must be cut off from his people.",
     Ind:"Siapa yang memakannya, akan menanggung kesalahannya sendiri, karena ia telah melanggar kekudusan persembahan kudus yang kepada TUHAN. Nyawa orang itu haruslah dilenyapkan dari antara orang-orang sebangsanya."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Juga sisa-sisa buah anggurmu janganlah kaupetik untuk kedua kalinya dan buah yang berjatuhan di kebun anggurmu janganlah kaupungut, tetapi semuanya itu harus kautinggalkan bagi orang miskin dan bagi orang asing; Akulah TUHAN, Allahmu."
   },
   {Bible:"Leviticus", Chapter:19, Verse:11, Page:1,
-    Kor:"○도둑질하지 못한다. 사기하지 못한다. 서로 이웃을 속이지 못한다.",
+    Kor:"○훔치지 못한다. 사기하지 못한다. 서로 이웃을 속이지 못한다.",
     Chn:"「你们不可偷盗，不可欺骗，也不可彼此说谎。",
     Eng:"\"'Do not steal. \"'Do not lie. \"'Do not deceive one another.",
     Ind:"Janganlah kamu mencuri, janganlah kamu berbohong dan janganlah kamu berdusta seorang kepada sesamanya."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Janganlah kamu berbuat curang dalam peradilan; janganlah engkau membela orang kecil dengan tidak sewajarnya dan janganlah engkau terpengaruh oleh orang-orang besar, tetapi engkau harus mengadili orang sesamamu dengan kebenaran."
   },
   {Bible:"Leviticus", Chapter:19, Verse:16, Page:1,
-    Kor:"이 사람 저 사람에게 남을 헐뜯는 말을 퍼뜨리고 다녀서는 안 된다. 너는 또 네 이웃의 a생명을 위태롭게 하면서까지 이익을 보려 해서는 안 된다. 나는 주다.(a 히, '피')",
+    Kor:"이 사람 저 사람에게 남을 헐뜯는 말을 퍼뜨리고 다녀서는 안 된다. 너는 또 네 이웃의 생명을 위태롭게 하면서까지 이익을 보려 해서는 안 된다. 나는 주다.",
     Chn:"不可在民中往来搬弄是非，也不可与邻舍为敌，置之于死。我是耶和华。",
     Eng:"\"'Do not go about spreading slander among your people. \"'Do not do anything that endangers your neighbor's life. I am the LORD.",
     Ind:"Janganlah engkau pergi kian ke mari menyebarkan fitnah di antara orang-orang sebangsamu; janganlah engkau mengancam hidup sesamamu manusia; Akulah TUHAN."
   },
   {Bible:"Leviticus", Chapter:19, Verse:17, Page:1,
-    Kor:"○너는 동족을 미워하는 마음을 품어서는 안 된다. 이웃이 잘못을 하면, 너는 반드시 그를 타일러야 한다. 그래야만 너는 그 잘못 때문에 질 책임을 벗을 수 있다.",
+    Kor:"○너는 친척을 미워하는 마음을 품어서는 안 된다. 이웃이 잘못을 하면, 너는 반드시 그를 타일러야 한다. 그래야만 너는 그 잘못 때문에 질 책임을 벗을 수 있다.",
     Chn:"「不可心里恨你的弟兄；总要指摘你的邻舍，免得因他担罪。",
     Eng:"\"'Do not hate your brother in your heart. Rebuke your neighbor frankly so you will not share in his guilt.",
     Ind:"Janganlah engkau membenci saudaramu di dalam hatimu, tetapi engkau harus berterus terang menegor orang sesamamu dan janganlah engkau mendatangkan dosa kepada dirimu karena dia."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Kamu harus berpegang kepada ketetapan-Ku. Janganlah kawinkan dua jenis ternak dan janganlah taburi ladangmu dengan dua jenis benih, dan janganlah pakai pakaian yang dibuat dari pada dua jenis bahan."
   },
   {Bible:"Leviticus", Chapter:19, Verse:20, Page:1,
-    Kor:"○한 남자가 여자와 동침하였는데, 만일 그 여자가 노예의 신분이고, 다른 남자에게 가기로 되어 있는 여자이고, 그 여자 노예를 데리고 갈 남자가 몸값을 치르지 않아서, 그 여자가 아직 자유의 몸이 되지 못한 상태면, 그 두 사람은 벌을 받기는 하지만, 사형은 당하지 않는다. 그 여자는 아직 03 19:노예의 신분을 벗지 못하였기 때문이다.",
+    Kor:"○한 남자가 여자와 동침하였는데, 만일 그 여자가 노예의 신분이고, 다른 남자에게 가기로 되어 있는 여자이고, 그 여자 노예를 데리고 갈 남자가 몸값을 치르지 않아서, 그 여자가 아직 자유의 몸이 되지 못한 상태면, 그 두 사람은 벌을 받기는 하지만, 사형은 당하지 않는다. 그 여자는 아직 노예의 신분을 벗지 못하였기 때문이다.",
     Chn:"「婢女许配了丈夫，还没有被赎、得释放，人若与她行淫，二人要受刑罚，却不把他们治死，因为婢女还没有得自由。",
     Eng:"\"'If a man sleeps with a woman who is a slave girl promised to another man but who has not been ransomed or given her freedom, there must be due punishment. Yet they are not to be put to death, because she had not been freed.",
     Ind:"Apabila seorang laki-laki bersetubuh dengan seorang perempuan, yakni seorang budak perempuan yang ada di bawah kuasa laki-laki lain, tetapi yang tidak pernah ditebus dan tidak juga diberi surat tanda merdeka, maka perbuatan itu haruslah dihukum; tetapi janganlah keduanya dihukum mati, karena perempuan itu belum dimerdekakan."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Imam harus mengadakan pendamaian bagi orang itu dengan domba jantan korban penebus salah di hadapan TUHAN, karena dosa yang telah diperbuatnya, sehingga ia beroleh pengampunan dari dosanya itu."
   },
   {Bible:"Leviticus", Chapter:19, Verse:23, Page:1,
-    Kor:"○너희가 그 땅으로 들어가 온갖 과일나무를 심었을 때에, 너희는 그 나무의 과일을 b따서는 안 된다. 과일이 달리는 처음 세 해 동안은 그 과일을 b따지 말아라. 너희는 그 과일을 먹어서는 안 된다.(b 히, '할례받지 못한 것으로 여겨라')",
+    Kor:"○너희가 그 땅으로 들어가 온갖 과일나무를 심었을 때에, 너희는 그 나무의 과일을 따서는 안 된다. 과일이 달리는 처음 세 해 동안은 그 과일을 따지 말아라. 너희는 그 과일을 먹어서는 안 된다.",
     Chn:"「你们到了迦南地，栽种各样结果子的树木，就要以所结的果子如未受割礼的一样。三年之久，你们要以这些果子，如未受割礼的，是不可吃的。",
     Eng:"\"'When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten.",
     Ind:"Apabila kamu sudah masuk ke negeri itu dan menanam bermacam-macam pohon buah-buahan, janganlah kamu memetik buahnya selama tiga tahun dan jangan memakannya."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Janganlah kamu makan sesuatu yang darahnya masih ada. Janganlah kamu melakukan telaah atau ramalan."
   },
   {Bible:"Leviticus", Chapter:19, Verse:27, Page:1,
-    Kor:"○c관자놀이의 머리를 둥글게 깎거나, 구레나룻을 밀어서는 안 된다.",
+    Kor:"○관자놀이의 머리를 둥글게 깎거나, 구레나룻을 밀어서는 안 된다.",
     Chn:"头的周围不可剃，胡须的周围也不可损坏。",
     Eng:"\"'Do not cut the hair at the sides of your head or clip off the edges of your beard.",
     Ind:"Janganlah kamu mencukur tepi rambut kepalamu berkeliling dan janganlah engkau merusakkan tepi janggutmu."
   },
   {Bible:"Leviticus", Chapter:19, Verse:28, Page:1,
-    Kor:"○죽은 사람을 애도한다고 하여, c너희 몸에 상처를 내거나 너희 몸에 문신을 새겨서는 안 된다. 나는 주다.(c 가나안 사람들의 습관. 이방 종교의 의식)",
+    Kor:"○죽은 사람을 애도한다고 하여, 너희 몸에 상처를 내거나 너희 몸에 문신을 새겨서는 안 된다. 나는 주다.",
     Chn:"不可为死人用刀划身，也不可在身上刺花纹。我是耶和华。",
     Eng:"\"'Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the LORD.",
     Ind:"Janganlah kamu menggoresi tubuhmu karena orang mati dan janganlah merajah tanda-tanda pada kulitmu; Akulah TUHAN."
   },
   {Bible:"Leviticus", Chapter:19, Verse:29, Page:1,
-    Kor:"○너는 네 딸을 d창녀로 내놓아서, 그 몸을 더럽혀서는 안 된다. 딸을 창녀로 내놓으면, 이 땅은 온통 음란한 풍습에 젖고, 망측한 짓들이 온 땅에 가득하게 될 것이다.(d 이 여자들은 가나안 사람들이 풍요의 농경신을 섬기는 성소에서 일하였음)",
+    Kor:"○너는 네 딸을 창녀로 내놓아서, 그 몸을 더럽혀서는 안 된다. 딸을 창녀로 내놓으면, 이 땅은 온통 음란한 풍습에 젖고, 망측한 짓들이 온 땅에 가득하게 될 것이다.",
     Chn:"「不可辱没你的女儿，使她为娼妓，恐怕地上的人专向淫乱，地就满了大恶。",
     Eng:"\"'Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness.",
     Ind:"Janganlah engkau merusak kesucian anakmu perempuan dengan menjadikan dia perempuan sundal, supaya negeri itu jangan melakukan persundalan, sehingga negeri itu penuh dengan perbuatan mesum."

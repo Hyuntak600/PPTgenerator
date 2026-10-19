@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",28,28);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:28, Verse:1, Page:1,
-    Kor:"<율법이 주는 유익> 악인은 뒤쫓는 사람이 없어도 달아나지만, 의인은 사자처럼 담대하다.",
+    Kor:"악인은 뒤쫓는 사람이 없어도 달아나지만, 의인은 사자처럼 담대하다.",
     Chn:"恶人虽无人追赶也逃跑； 义人却胆壮像狮子。",
     Eng:"The wicked man flees though no one pursues, but the righteous are as bold as a lion.",
     Ind:"Orang fasik lari, walaupun tidak ada yang mengejarnya, tetapi orang benar merasa aman seperti singa muda."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Karena pemberontakan negeri banyaklah penguasa-penguasanya, tetapi karena orang yang berpengertian dan berpengetahuan tetaplah hukum."
   },
   {Bible:"Proverbs", Chapter:28, Verse:3, Page:1,
-    Kor:"가난한 사람을 억압하는 가난한 사람은 먹거리를 남김없이 쓸어 버리는 폭우와 같다.",
+    Kor:"가난한 사람을 억압하는 가난한 사람은 먹을거리를 남김없이 쓸어 버리는 폭우와 같다.",
     Chn:"穷人欺压贫民， 好像暴雨冲没粮食。",
     Eng:"A ruler who oppresses the poor is like a driving rain that leaves no crops.",
     Ind:"Orang miskin yang menindas orang-orang yang lemah adalah seperti hujan deras, tetapi tidak memberi makanan."
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Orang yang mengabaikan hukum memuji orang fasik, tetapi orang yang berpegang pada hukum menentangnya."
   },
   {Bible:"Proverbs", Chapter:28, Verse:5, Page:1,
-    Kor:"악한 사람은 공의를 깨닫지 못하나, 주님을 찾는 사람은 모든 것을 깨닫는다.",
+    Kor:"악한 사람은 공의를 깨닫지 못하나, 주를 찾는 사람은 모든 것을 깨닫는다.",
     Chn:"坏人不明白公义； 惟有寻求耶和华的，无不明白。",
     Eng:"Evil men do not understand justice, but those who seek the LORD understand it fully.",
     Ind:"Orang yang jahat tidak mengerti keadilan, tetapi orang yang mencari TUHAN mengerti segala sesuatu."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Orang kaya menganggap dirinya bijak, tetapi orang miskin yang berpengertian mengenal dia."
   },
   {Bible:"Proverbs", Chapter:28, Verse:12, Page:1,
-    Kor:"정직한 사람이 이기면 많은 사람이 축하하지만, 악인이 일어나면 사람들이 숨는다.",
+    Kor:"의인이 성공하면 많은 사람이 영광을 누리지만, 악인이 일어나면 사람들이 짓밟힌다.",
     Chn:"义人得志，有大荣耀； 恶人兴起，人就躲藏。",
     Eng:"When the righteous triumph, there is great elation; but when the wicked rise to power, men go into hiding.",
     Ind:"Jika orang benar menang, banyaklah pujian orang, tetapi jika orang fasik mendapat kekuasaan, orang menyembunyikan diri."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Siapa merampasi ayah dan ibunya dan menyangka bahwa itu bukan suatu pelanggaran, ia sendiri adalah kawan si perusak."
   },
   {Bible:"Proverbs", Chapter:28, Verse:25, Page:1,
-    Kor:"욕심이 많은 사람은 다툼을 일으키지만, 주님을 의뢰하는 사람은 풍성함을 누린다.",
+    Kor:"욕심이 많은 사람은 다툼을 일으키지만, 주를 의뢰하는 사람은 풍성함을 누린다.",
     Chn:"心中贪婪的，挑起争端； 倚靠耶和华的，必得丰裕。",
     Eng:"A greedy man stirs up dissension, but he who trusts in the LORD will prosper.",
     Ind:"Orang yang loba, menimbulkan pertengkaran, tetapi siapa percaya kepada TUHAN, diberi kelimpahan."

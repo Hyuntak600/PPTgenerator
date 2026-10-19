@@ -3,7 +3,7 @@
 BibleDB.ref("Hosea",4,19);
 BibleDB.add([
   {Bible:"Hosea", Chapter:4, Verse:1, Page:1,
-    Kor:"<주님께서 이스라엘을 규탄하시다> 이스라엘 자손아, 주님의 말씀을 들어라. 주님께서 이 땅의 주민들과 변론하신다. \"이 땅에는 진실도 없고, 사랑도 없고, 하나님을 아는 지식도 없다.",
+    Kor:"이스라엘 자손아, 주의 말씀을 들어라. 주께서 이 땅의 주민들과 변론하신다. \"이 땅에는 진실도 없고, 사랑도 없고, 하나님을 아는 지식도 없다.",
     Chn:"以色列人哪，你们当听耶和华的话。 耶和华与这地的居民争辩， 因这地上无诚实， 无良善，无人认识　神。",
     Eng:"Hear the word of the LORD, you Israelites, because the LORD has a charge to bring against you who live in the land: \"There is no faithfulness, no love, no acknowledgment of God in the land.",
     Ind:"Dengarlah firman TUHAN, hai orang Israel, sebab TUHAN mempunyai perkara dengan penduduk negeri ini, sebab tidak ada kesetiaan dan tidak ada kasih, dan tidak ada pengenalan akan Allah di negeri ini."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Sebab itu negeri ini akan berkabung, dan seluruh penduduknya akan merana; juga binatang-binatang di padang dan burung-burung di udara, bahkan ikan-ikan di laut akan mati lenyap."
   },
   {Bible:"Hosea", Chapter:4, Verse:4, Page:1,
-    Kor:"<주님께서 백성과 제사장을 심판하시다> \"그러나 서로 다투지 말고, 서로 비난하지도 말아라. a제사장아, 이 일로 네 백성은 너에게 불만이 크다. (a 또는 '제사장아, 나는 네게 불만이 있다' 또는 '제사장아, 네 백성이 제사장과 다투는 자들과 같이 되었다')",
+    Kor:"\"그러나 서로 다투지 말고, 서로 비난하지도 말아라. 제사장아, 이 일로 네 백성은 너에게 불만이 크다.",
     Chn:"然而，人都不必争辩，也不必指责， 因为这民与抗拒祭司的人一样。",
     Eng:"\"But let no man bring a charge, let no man accuse another, for your people are like those who bring charges against a priest.",
     Ind:"Hanya janganlah ada orang mengadu, dan janganlah ada orang menegor, sebab terhadap engkaulah pengaduan-Ku itu, hai imam!"
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Mereka akan makan, tetapi tidak menjadi kenyang, mereka akan bersundal, tetapi tidak menjadi banyak, sebab mereka telah meninggalkan TUHAN untuk berpegang kepada sundal."
   },
   {Bible:"Hosea", Chapter:4, Verse:11, Page:1,
-    Kor:"<이교 예배를 책망하시다> \"나의 백성은 음행하는 일에 정신을 빼앗기고, 묵은 포도주와 새 포도주에 마음을 빼앗겼다.",
+    Kor:"\"나의 백성은 음행하는 일에 정신을 빼앗기고, 묵은 포도주와 새 포도주에 마음을 빼앗겼다.",
     Chn:"奸淫和酒，并新酒， 夺去人的心。",
     Eng:"to prostitution, to old wine and new, which take away the understanding",
     Ind:"Anggur dan air anggur menghilangkan daya pikir."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Aku tidak akan menghukum anak-anak perempuanmu sekalipun mereka berzinah, atau menantu-menantumu perempuan, sekalipun mereka bersundal; sebab mereka sendiri mengasingkan diri bersama-sama dengan perempuan-perempuan sundal dan mempersembahkan korban bersama-sama dengan sundal-sundal bakti, dan umat yang tidak berpengertian akan runtuh."
   },
   {Bible:"Hosea", Chapter:4, Verse:15, Page:1,
-    Kor:"이스라엘아, 너는 비록 이방 신을 섬겨 음행을 하여도, 유다는 죄를 짓지 못하게 하여라. 너희는 길갈로 가지 말아라. b벳아웬으로 올라가지 말아라. 주의 살아 계심을 걸고 맹세하지 말아라.\" (b '악한 자의 집'. '하나님의 집'을 뜻하는 베델을 비꼬아 하는 말)",
+    Kor:"이스라엘아, 너는 비록 이방 신을 섬겨 음행을 하여도, 유다는 죄를 짓지 못하게 하여라. 너희는 길갈로 가지 말아라. 벳아웬으로 올라가지 말아라. 주의 살아 계심을 걸고 맹세하지 말아라.",
     Chn:"以色列啊，你虽然行淫， 犹大却不可犯罪。 不要往吉甲去， 不要上到伯·亚文， 也不要指着永生的耶和华起誓。",
     Eng:"\"Though you commit adultery, O Israel, let not Judah become guilty. \"Do not go to Gilgal; do not go up to Beth Aven. And do not swear, 'As surely as the LORD lives!'",
     Ind:"Jika engkau ini berzinah, hai Israel, janganlah Yehuda turut bersalah! Janganlah pergi ke Gilgal, dan janganlah naik ke Bet-Awen, dan janganlah bersumpah: \"Demi TUHAN yang hidup!\""
   },
   {Bible:"Hosea", Chapter:4, Verse:16, Page:1,
-    Kor:"그렇다. 이스라엘이, 고집 센 암송아지처럼 말을 듣지 않으니, 어찌 주님께서 그들을 어린 양을 치듯 넓은 초장에서 먹이시겠느냐?",
+    Kor:"그렇다. 이스라엘이, 고집 센 암송아지처럼 말을 듣지 않으니, 어찌 주께서 그들을 어린 양을 치듯 넓은 초장에서 먹이시겠느냐?",
     Chn:"以色列倔强， 犹如倔强的母牛； 现在耶和华要放他们， 如同放羊羔在宽阔之地。",
     Eng:"The Israelites are stubborn, like a stubborn heifer. How then can the LORD pasture them like lambs in a meadow?",
     Ind:"Sebab Israel degil seperti lembu yang degil, masakan sekarang TUHAN menggembalakan mereka, seperti domba di tanah lapang?"
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Persepakatan para pemabuk! mereka menyerahkan diri habis-habisan kepada persundalan; mereka lebih mencintai kehinaan dari pada kemasyhuran mereka."
   },
   {Bible:"Hosea", Chapter:4, Verse:19, Page:1,
-    Kor:"그러므로 거센 바람이 그 날개로 그들을 에워싸고 휩쓸어 갈 것이다. 그들이 바친 희생제물이 그들을 수치스럽게 할 것이다.",
+    Kor:"그러므로 거센 바람이 그 날개로 그들을 에워싸고 휩쓸어 갈 것이다. 그들이 바친 희생제물이 그들을 수치스럽게 할 것이다.\"",
     Chn:"风把他们裹在翅膀里； 他们因所献的祭必致蒙羞。",
     Eng:"A whirlwind will sweep them away, and their sacrifices will bring them shame.",
     Ind:"Angin melingkupi mereka dalam sayap-sayapnya, dan mereka akan mendapat malu karena korban-korban mereka."

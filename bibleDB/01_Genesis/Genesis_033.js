@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",33,20);
 BibleDB.add([
   {Bible:"Genesis", Chapter:33, Verse:1, Page:1,
-    Kor:"<야곱이 에서를 만나다> 야곱이 고개를 들어 보니, 에서가 장정 사백 명을 거느리고 오고 있었다. 야곱은, 아이들을 레아와 라헬과 두 여종에게 나누어서 맡기고,",
+    Kor:"야곱이 고개를 들어 보니, 에서가 장정 사백 명을 거느리고 오고 있었다. 야곱은, 아이들을 레아와 라헬과 두 여종에게 나누어서 맡기고,",
     Chn:"雅各举目观看，见以扫来了，后头跟着四百人，他就把孩子们分开交给利亚、拉结，和两个使女，",
     Eng:"Jacob looked up and there was Esau, coming with his four hundred men; so he divided the  children among Leah, Rachel and the two maidservants.",
     Ind:"Yakubpun melayangkan pandangnya, lalu dilihatnyalah Esau datang dengan diiringi oleh empat ratus orang. Maka diserahkannyalah sebagian dari anak-anak itu kepada Lea dan sebagian kepada Rahel serta kepada kedua budak perempuan itu."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Kata Esau: \"Baiklah kita berangkat berjalan terus; aku akan menyertai engkau.\""
   },
   {Bible:"Genesis", Chapter:33, Verse:13, Page:1,
-    Kor:"야곱이 그에게 말하였다. \"형님께서도 아시다시피, 아이들이 아직 어립니다. 또 저는 새끼 딸린 양 떼와 소 떼를 돌봐야 합니다. 하루만이라도 지나치게 빨리 몰고 가면 다 죽습니다.",
+    Kor:"야곱이 그에게 말하였다. \"형님께서도 아시다시피, 아이들이 아직 어립니다. 또, 저는 새끼 딸린 양 떼와 소 떼를 돌봐야 합니다. 하루만이라도 지나치게 빨리 몰고 가면, 다 죽습니다.",
     Chn:"雅各对他说：「我主知道孩子们年幼娇嫩，牛羊也正在乳养的时候，若是催赶一天，群畜都必死了。",
     Eng:"But Jacob said to him, \"My lord knows that the children are tender and that I must care for  the ewes and cows that are nursing their young. If they are driven hard just one day, all the  animals will die.",
     Ind:"Tetapi Yakub berkata kepadanya: \"Tuanku maklum, bahwa anak-anak ini masih kurang kuat, dan bahwa beserta aku ada kambing domba dan lembu sapi yang masih menyusui, jika diburu-buru, satu hari saja, maka seluruh kumpulan binatang itu akan mati."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Jadi pulanglah Esau pada hari itu berjalan ke Seir."
   },
   {Bible:"Genesis", Chapter:33, Verse:17, Page:1,
-    Kor:"야곱은 a숙곳으로 갔다. 거기에서 야곱은 자기들이 살 집과 짐승이 바람을 피할 우리를 지었다. 그래서 그 곳 이름이 숙곳이 되었다.(a '초막')",
+    Kor:"야곱은 숙곳으로 갔다. 거기에서 야곱은, 자기들이 살 집과 짐승이 바람을 피할 우리를 지었다. 그래서 그 곳 이름이 숙곳이 되었다.",
     Chn:"雅各就往疏割去，在那里为自己盖造房屋，又为牲畜搭棚；因此那地方名叫疏割。",
     Eng:"Jacob, however, went to Succoth, where he built a place for himself and made shelters for  his livestock. That is why the place is called Succoth.",
     Ind:"Tetapi Yakub berangkat ke Sukot, lalu mendirikan rumah, dan untuk ternaknya dibuatnya gubuk-gubuk. Itulah sebabnya tempat itu dinamai Sukot."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Kemudian dibelinyalah dari anak-anak Hemor, bapa Sikhem, sebidang tanah, tempat ia memasang kemahnya, dengan harga seratus kesita."
   },
   {Bible:"Genesis", Chapter:33, Verse:20, Page:1,
-    Kor:"야곱은 거기에서 제단을 쌓고, 그 이름을 b엘엘로헤이스라엘이라고 하였다.(b '하나님, 이스라엘의 하나님')",
+    Kor:"야곱은 거기에서 제단을 쌓고, 그 이름을 엘엘로헤이스라엘이라고 하였다.",
     Chn:"在那里筑了一座坛，起名叫伊利·伊罗伊·以色列。",
     Eng:"There he set up an altar and called it El Elohe Israel.",
     Ind:"Ia mendirikan mezbah di situ dan dinamainya itu: \"Allah Israel ialah Allah.\""

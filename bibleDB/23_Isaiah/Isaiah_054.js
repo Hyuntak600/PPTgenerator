@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",54,17);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:54, Verse:1, Page:1,
-    Kor:"<이스라엘을 향하신 주님의 사랑> 임신하지 못하고 아기를 낳지 못한 너는 노래하여라. 해산의 고통을 겪어 본 적이 없는 너는 환성을 올리며 소리를 높여라. 아이를 못 낳아 버림받은 여인이 남편과 함께 사는 여인보다 더 많은 자녀를 볼 것이다. 주님께서 하신 말씀이다.",
+    Kor:"임신하지 못하고 아기를 낳지 못한 너는 노래하여라. 해산의 고통을 겪어 본 적이 없는 너는 환성을 올리며 소리를 높여라. 아이를 못 낳아 버림받은 여인이 남편과 함께 사는 여인보다 더 많은 자녀를 볼 것이다. 주께서 하신 말씀이다.",
     Chn:"你这不怀孕、不生养的要歌唱； 你这未曾经过产难的要发声歌唱，扬声欢呼； 因为没有丈夫的比有丈夫的儿女更多。 这是耶和华说的。",
     Eng:"\"Sing, O barren woman, you who never bore a child; burst into song, shout for joy, you who were never in labor; because more are the children of the desolate woman than of her who has a husband,\" says the LORD.",
     Ind:"Bersorak-sorailah, hai si mandul yang tidak pernah melahirkan! Bergembiralah dengan sorak-sorai dan memekiklah, hai engkau yang tidak pernah menderita sakit bersalin! Sebab yang ditinggalkan suaminya akan mempunyai lebih banyak anak dari pada yang bersuami, firman TUHAN."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Sebab yang menjadi suamimu ialah Dia yang menjadikan engkau, TUHAN semesta alam nama-Nya; yang menjadi Penebusmu ialah Yang Mahakudus, Allah Israel, Ia disebut Allah seluruh bumi."
   },
   {Bible:"Isaiah", Chapter:54, Verse:6, Page:1,
-    Kor:"버림을 받아서 마음이 아픈 너를, 주님께서 부르신다. 젊은 나이에 아내가 되었다가 버림받은 너를, 주님께서 부르신다. 너의 하나님께서 말씀하신다.",
+    Kor:"버림을 받아서 마음이 아픈 너를, 주께서 부르신다. 젊은 나이에 아내가 되었다가 버림받은 너를, 주께서 부르신다. 너의 하나님께서 하신 말씀이시다.",
     Chn:"耶和华召你， 如召被离弃心中忧伤的妻， 就是幼年所娶被弃的妻。 这是你　神所说的。",
     Eng:"The LORD will call you back as if you were a wife deserted and distressed in spirit--a wife who married young, only to be rejected,\" says your God.",
     Ind:"Sebab seperti isteri yang ditinggalkan dan yang bersusah hati TUHAN memanggil engkau kembali; masakan isteri dari masa muda akan tetap ditolak? firman Allahmu."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Keadaan ini bagi-Ku seperti pada zaman Nuh: seperti Aku telah bersumpah kepadanya bahwa air bah tidak akan meliputi bumi lagi, demikianlah Aku telah bersumpah bahwa Aku tidak akan murka terhadap engkau dan tidak akan menghardik engkau lagi."
   },
   {Bible:"Isaiah", Chapter:54, Verse:10, Page:1,
-    Kor:"비록 산들이 옮겨지고 언덕이 흔들린다 하여도, 나의 은총이 너에게서 떠나지 않으며, 평화의 언약을 파기하지 않겠다.\" 너를 가엾게 여기는 주님께서 하시는 말씀이다.",
+    Kor:"비록 산들이 옮겨지고 언덕이 흔들린다 하여도, 나의 은총이 너에게서 떠나지 않으며, 평화의 언약을 파기하지 않겠다.\" 너를 가엾게 여기는 주께서 하시는 말씀이다.",
     Chn:"大山可以挪开， 小山可以迁移； 但我的慈爱必不离开你； 我平安的约也不迁移。 这是怜恤你的耶和华说的。",
     Eng:"Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,\" says the LORD, who has compassion on you.",
     Ind:"Sebab biarpun gunung-gunung beranjak dan bukit-bukit bergoyang, tetapi kasih setia-Ku tidak akan beranjak dari padamu dan perjanjian damai-Ku tidak akan bergoyang, firman TUHAN, yang mengasihani engkau."
   },
   {Bible:"Isaiah", Chapter:54, Verse:11, Page:1,
-    Kor:"<미래의 예루살렘> 너, 고난을 당하고 광풍에 시달려도 위로를 받지 못한 예루살렘아, 이제 내가 홍옥으로 벽을 쌓고, 청옥으로 성벽 기초를 놓겠다.",
+    Kor:"너, 고난을 당하고 광풍에 시달려도 위로를 받지 못한 예루살렘아, 이제 내가 홍옥으로 벽을 쌓고, 청옥으로 성벽 기초를 놓겠다.",
     Chn:"你这受困苦、被风飘荡不得安慰的人哪， 我必以彩色安置你的石头， 以蓝宝石立定你的根基；",
     Eng:"\"O afflicted city, lashed by storms and not comforted, I will build you with stones of turquoise, your foundations with sapphires.",
     Ind:"Hai yang tertindas, yang dilanggar angin badai, yang tidak dihiburkan! Sesungguhnya, Aku akan meletakkan alasmu dari batu hitam dan dasar-dasarmu dari batu nilam."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Aku akan membuat kemuncak-kemuncak tembokmu dari batu delima, pintu-pintu gerbangmu dari batu manikam merah dan segenap tembok perbatasanmu dari batu permata."
   },
   {Bible:"Isaiah", Chapter:54, Verse:13, Page:1,
-    Kor:"나 주가 너의 모든 아이를 제자로 삼아 가르치겠고, 너의 아이들은 번영과 평화를 누릴 것이다.",
+    Kor:"주께서 너의 모든 아이를 제자로 삼아 가르치실 것이고, 너의 아이들은 큰 평강을 누릴 것이다.",
     Chn:"你的儿女都要受耶和华的教训； 你的儿女必大享平安。",
     Eng:"All your sons will be taught by the LORD, and great will be your children's peace.",
     Ind:"Semua anakmu akan menjadi murid TUHAN, dan besarlah kesejahteraan mereka;"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"engkau akan ditegakkan di atas kebenaran. Engkau akan jauh dari pemerasan, sebab engkau tidak usah lagi takut, dan engkau akan jauh dari kekejutan, sebab ia tidak akan mendekat kepadamu."
   },
   {Bible:"Isaiah", Chapter:54, Verse:15, Page:1,
-    Kor:"a너를 공격하는 자들이 반드시 있겠지만, 그것은 내가 허락한 것이 아니다. b너를 공격하는 자는 누구든 너에게 패할 것이다. (a 또는 '그들이 분쟁을 일으키겠지만' 또는 '그들이 모이겠지만' b 또는 '분쟁을 일으키는 자는')",
+    Kor:"너를 공격하는 자들이 반드시 있겠지만, 그것은 내가 허락한 것이 아니다. 너를 공격하는 자는 누구든 너에게 패할 것이다.",
     Chn:"即或有人聚集，却不由于我； 凡聚集攻击你的，必因你仆倒。",
     Eng:"If anyone does attack you, it will not be my doing; whoever attacks you will surrender to you.",
     Ind:"Apabila orang menyerbu, itu bukanlah dari pada-Ku; siapapun yang menyerbu engkau, ia akan rebah melawan engkau."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Sesungguhnya, Akulah yang menciptakan tukang besi yang menghembus api dan menghasilkan senjata menurut kecakapannya, tetapi Akulah juga yang menciptakan pemusnah untuk merusakkannya."
   },
   {Bible:"Isaiah", Chapter:54, Verse:17, Page:1,
-    Kor:"그러나 어떤 무기도 너를 상하게 하지 못하고, 너에게 맞서서 송사하려고 일어나 혀를 놀리는 자를 네가 모두 논박할 것이다. \"나의 종들을 내가 이렇게 막아 주고, 그들이 승리를 차지하도록 하겠다.\" 주님께서 하신 말씀이다.",
+    Kor:"그러나 어떤 무기도 너를 상하게 하지 못하고, 너에게 맞서서 송사하려고 일어나 혀를 놀리는 자를 네가 모두 논박할 것이다. \"나의 종들을 내가 이렇게 막아 주고, 그들이 승리를 차지하도록 하겠다.\" 주께서 하신 말씀이다.",
     Chn:"凡为攻击你造成的器械必不利用； 凡在审判时兴起用舌攻击你的， 你必定他为有罪。 这是耶和华仆人的产业， 是他们从我所得的义。 这是耶和华说的。",
     Eng:"no weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and this is their vindication from me,\" declares the LORD.",
     Ind:"Setiap senjata yang ditempa terhadap engkau tidak akan berhasil, dan setiap orang yang melontarkan tuduhan melawan engkau dalam pengadilan, akan engkau buktikan salah. Inilah yang menjadi bagian hamba-hamba TUHAN dan kebenaran yang mereka terima dari pada-Ku, demikianlah firman TUHAN."

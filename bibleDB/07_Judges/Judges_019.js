@@ -3,7 +3,7 @@
 BibleDB.ref("Judges",19,30);
 BibleDB.add([
   {Bible:"Judges", Chapter:19, Verse:1, Page:1,
-    Kor:"<한 레위 사람과 그의 첩> 이스라엘에 왕이 없던 때에, 한 레위 남자가 에브라임의 산골에 들어가서 살고 있었다. 그는 유다 땅의 베들레헴에서 한 여자를 첩으로 데려왔다.",
+    Kor:"이스라엘에 왕이 없던 때에, 한 레위 남자가 에브라임의 산골에 들어가서 살고 있었다. 그는 유다 땅의 베들레헴에서 한 여자를 첩으로 데려왔다.",
     Chn:"当以色列中没有王的时候，有住以法莲山地那边的一个利未人，娶了一个犹大伯利恒的女子为妾。",
     Eng:"In those days Israel had no king. Now a Levite who lived in a remote area in the hill country of Ephraim took a concubine from Bethlehem in Judah.",
     Ind:"Terjadilah pada zaman itu, ketika tidak ada raja di Israel, bahwa di balik pegunungan Efraim ada seorang Lewi tinggal sebagai pendatang. Ia mengambil seorang gundik dari Betlehem-Yehuda."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Ketika orang itu bangun untuk pergi, bersama dengan gundiknya dan bujangnya, berkatalah mertuanya, ayah perempuan muda itu, kepadanya: \"Lihatlah, matahari telah mulai turun menjelang petang; baiklah tinggal bermalam, lihat, matahari hampir terbenam, tinggallah di sini bermalam dan biarlah hatimu gembira; maka besok kamu dapat bangun pagi-pagi untuk berjalan dan pulang ke rumahmu.\""
   },
   {Bible:"Judges", Chapter:19, Verse:10, Page:1,
-    Kor:"그러나 그 사람은 하룻밤을 더 묵을 생각이 없어서, 일어나서 나귀 두 마리에 안장을 지우고, 첩과 함께 길을 떠나, 여부스의 맞은쪽에 이르렀다. (여부스는 곧 예루살렘이다.)",
+    Kor:"그러나 그 사람은 하룻밤을 더 묵을 생각이 없어서, 일어나서, 나귀 두 마리에 안장을 지어서 첩과 함께 길을 떠나, 여부스의 맞은쪽에 이르렀다. (여부스는 곧 예루살렘이다.)",
     Chn:"那人不愿再住一夜，就备上那两匹驴，带着妾起身走了，来到耶布斯的对面（耶布斯就是耶路撒冷。）",
     Eng:"But, unwilling to stay another night, the man left and went toward Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.",
     Ind:"Tetapi orang itu tidak mau tinggal bermalam; ia berkemas, lalu pergi. Demikian sampailah ia di daerah yang berhadapan dengan Yebus--itulah Yerusalem--;bersama-sama dengan dia ada sepasang keledai yang berpelana dan gundiknya juga."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Sebab itu singgahlah mereka di Gibea, lalu masuk untuk bermalam di situ, dan setelah sampai, duduklah mereka di tanah lapang kota. Tetapi tidak ada seorangpun yang mengajak mereka ke rumah untuk bermalam."
   },
   {Bible:"Judges", Chapter:19, Verse:16, Page:1,
-    Kor:"○마침 그 때에 해가 저물어 밭에서 일을 마치고 돌아오는 한 노인이 있었다. 그는 본래 에브라임 산간지방 사람인데, 그 때에 그는 기브아에서 살고 있었다. (기브아의 주민은 베냐민 자손이다.)",
+    Kor:"○마침 그 때에, 해가 저물어 밭에서 일을 마치고 돌아오는 한 노인이 있었다. 그는 본래 에브라임 산간지방 사람인데, 그 때에 그는 기브아에서 살고 있었다. (기브아의 주민은 베냐민 자손이다.)",
     Chn:"晚上，有一个老年人从田间做工回来。他原是以法莲山地的人，住在基比亚；那地方的人却是便雅悯人。",
     Eng:"That evening an old man from the hill country of Ephraim, who was living in Gibeah (the men of the place were Benjamites), came in from his work in the fields.",
     Ind:"Tetapi datanglah pada malam itu seorang tua, yang pulang dari pekerjaannya di ladang. Orang itu berasal dari pegunungan Efraim dan tinggal di Gibea sebagai pendatang, tetapi penduduk tempat itu adalah orang Benyamin."
   },
   {Bible:"Judges", Chapter:19, Verse:17, Page:1,
-    Kor:"그 노인이 성읍 광장에 나그네들이 있는 것을 알아보고, 그들에게, 어디로 가는 길인지, 어디서 왔는지를 물었다.",
+    Kor:"그 노인이 성읍 광장에 나그네들이 있는 것을 알아보고 그들에게, 어디로 가는 길인지, 어디서 왔는지를 물었다.",
     Chn:"老年人举目看见客人坐在城里的街上，就问他说：「你从哪里来？要往哪里去？」",
     Eng:"When he looked and saw the traveler in the city square, the old man asked, \"Where are you going? Where did you come from?\"",
     Ind:"Ketika ia mengangkat mukanya dan melihat orang yang dalam perjalanan itu di tanah lapang kota, berkatalah orang tua itu: \"Ke manakah engkau pergi dan dari manakah engkau datang?\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Sesudah itu dibawanyalah dia masuk ke rumahnya, lalu keledai-keledai diberinya makan; maka merekapun membasuh kaki, makan dan minum."
   },
   {Bible:"Judges", Chapter:19, Verse:22, Page:1,
-    Kor:"○그들이 한참 즐겁게 쉬고 있을 때에, 그 성읍의 불량한 사내들이 몰려와서, 그 집을 둘러싸고, 문을 두드리며, 집 주인인 노인에게 소리질렀다. \"노인의 집에 들어온 그 남자를 끌어내시오. 우리가 그 사람하고 관계를 좀 해야겠소.\"",
+    Kor:"○그들이 한참 즐겁게 쉬고 있을 때에, 그 성읍의 불량한 남자들이 몰려와서, 그 집을 둘러싸고, 문을 두드리며, 집 주인인 노인에게 소리질렀다. \"노인의 집에 들어온 그 남자를 끌어내시오. 우리가 그 사람하고 관계를 좀 해야겠소.\"",
     Chn:"他们心里正欢畅的时候，城中的匪徒围住房子，连连叩门，对房主老人说：「你把那进你家的人带出来，我们要与他交合。」",
     Eng:"While they were enjoying themselves, some of the wicked men of the city surrounded the house. Pounding on the door, they shouted to the old man who owned the house, \"Bring out the man who came to your house so we can have sex with him.\"",
     Ind:"Tetapi sementara mereka menggembirakan hatinya, datanglah orang-orang kota itu, orang-orang dursila, mengepung rumah itu. Mereka menggedor-gedor pintu sambil berkata kepada orang tua, pemilik rumah itu: \"Bawalah ke luar orang yang datang ke rumahmu itu, supaya kami pakai dia.\""

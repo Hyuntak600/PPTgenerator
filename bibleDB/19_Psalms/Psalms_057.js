@@ -3,43 +3,43 @@
 BibleDB.ref("Psalms",57,11);
 BibleDB.add([
   {Bible:"Psalms", Chapter:57, Verse:1, Page:1,
-    Kor:"<지휘자를 따라 a알다스헷에 맞추어 부르는 노래, 다윗의 b믹담, 사울을 피하여서 동굴로 도망하였을 때에 지은 시> 참으로 하나님, 나를 불쌍히 여겨 주십시오. 불쌍히 여겨 주십시오. 내 영혼이 주님께로 피합니다. 이 재난이 지나가기까지, 내가 주님의 날개 그늘 아래로 피합니다. (a '파괴하지 말아라' b 문학 또는 음악 용어)",
+    Kor:"하나님, 나를 불쌍히 여겨 주십시오. 불쌍히 여겨 주십시오. 내가 주께로 피합니다. 이 재난이 지나가기까지, 내가 주의 날개 아래 그늘로 피합니다.",
     Chn:"大卫逃避扫罗，藏在洞里。那时，他作这金诗，交与伶长。调用休要毁坏。 　神啊，求你怜悯我，怜悯我！ 因为我的心投靠你。 我要投靠在你翅膀的荫下， 等到灾害过去。",
     Eng:"Have mercy on me, O God, have mercy on me, for in you my soul takes refuge. I will take refuge in the shadow of your wings until the disaster has passed.",
     Ind:"Untuk pemimpin biduan. Menurut lagu: Jangan memusnahkan. Miktam Dari Daud, ketika ia lari dari pada Saul, ke dalam gua. (57-2) Kasihanilah aku, ya Allah, kasihanilah aku, sebab kepada-Mulah jiwaku berlindung; dalam naungan sayap-Mu aku akan berlindung, sampai berlalu penghancuran itu."
   },
   {Bible:"Psalms", Chapter:57, Verse:2, Page:1,
-    Kor:"가장 높으신 하나님께 내가 부르짖습니다. 나를 위하여 복수해 주시는 하나님께 내가 부르짖습니다.",
+    Kor:"가장 높으신 하나님께, 나에게 모든 것을 이루어 주시는 하나님께, 내가 부르짖으니,",
     Chn:"我要求告至高的　神， 就是为我成全诸事的　神。",
     Eng:"I cry out to God Most High, to God, who fulfills his purpose for me.",
     Ind:"(57-3) Aku berseru kepada Allah, Yang Mahatinggi, kepada Allah yang menyelesaikannya bagiku."
   },
   {Bible:"Psalms", Chapter:57, Verse:3, Page:1,
-    Kor:"하늘에서 주님의 사랑과 진실을 보내시어, 나를 구원하여 주십시오. 나를 괴롭히는 자들을 꾸짖어 주십시오. (셀라) 오, 하나님, 주님의 사랑과 진실을 보내어 주십시오.",
+    Kor:"하늘에서 응답하시고, 나를 핍박하는 자들을 책망해 주십시오. (셀라) 하나님의 한결같은 그 사랑과 진실을 나에게 보내 주십시오.",
     Chn:"那要吞我的人辱骂我的时候， 　神从天上必施恩救我， 也必向我发出慈爱和诚实。",
     Eng:"He sends from heaven and saves me, rebuking those who hotly pursue me; Selah God sends his love and his faithfulness.",
     Ind:"(57-4) Kiranya Ia mengirim utusan dari sorga dan menyelamatkan aku, mencela orang-orang yang menginjak-injak aku. Sela Kiranya Allah mengirim kasih setia dan kebenaran-Nya."
   },
   {Bible:"Psalms", Chapter:57, Verse:4, Page:1,
-    Kor:"내가 사람을 잡아먹는 사자들 한가운데 누워 있어 보니, 그들의 이는 창끝과 같고, 화살촉과도 같고, 그들의 혀는 날카로운 칼과도 같았습니다.",
+    Kor:"내가 사람을 잡아먹는 사자들 한가운데 누워 있어 보니, 그들의 이빨은 창끝과 같고, 화살촉과도 같고, 그들의 혀는 날카로운 칼과도 같았습니다.",
     Chn:"我的性命在狮子中间； 我躺卧在性如烈火的世人当中。 他们的牙齿是枪、箭； 他们的舌头是快刀。",
     Eng:"I am in the midst of lions; I lie among ravenous beasts--men whose teeth are spears and arrows, whose tongues are sharp swords.",
     Ind:"(57-5) Aku terbaring di tengah-tengah singa yang suka menerkam anak-anak manusia, yang giginya laksana tombak dan panah, dan lidahnya laksana pedang tajam."
   },
   {Bible:"Psalms", Chapter:57, Verse:5, Page:1,
-    Kor:"하나님, 하늘 높이 높임을 받으시고, 주님의 영광을 온 땅 위에 떨치십시오.",
+    Kor:"하나님, 하늘 높이 높임을 받으시고, 주님의 영광이 온 땅에서 높임을 받으십시오.",
     Chn:"神啊，愿你崇高过于诸天！ 愿你的荣耀高过全地！",
     Eng:"Be exalted, O God, above the heavens; let your glory be over all the earth.",
     Ind:"(57-6) Tinggikanlah diri-Mu mengatasi langit, ya Allah! Biarlah kemuliaan-Mu mengatasi seluruh bumi!"
   },
   {Bible:"Psalms", Chapter:57, Verse:6, Page:1,
-    Kor:"그들은 내 목숨을 노리고, 내 발 앞에 그물을 쳐 놓아 내 기가 꺾였습니다. 그들이 내 앞에 함정을 파 놓았지만, 오히려 그들이 그 함정에 빠져 들고 말았습니다. (셀라)",
+    Kor:"그들은 내 생명을 겨냥해서, 내 발 앞에 그물을 치고 내 앞에 함정을 파 놓았지만, 오히려 그들이 그 함정에 빠져 들고 말았습니다. (셀라)",
     Chn:"他们为我的脚设下网罗，压制我的心； 他们在我面前挖了坑，自己反掉在其中。 （细拉）",
     Eng:"They spread a net for my feet--I was bowed down in distress. They dug a pit in my path--but they have fallen into it themselves. Selah",
     Ind:"(57-7) Mereka memasang jaring terhadap langkah-langkahku, ditundukkannya jiwaku, mereka menggali lobang di depanku, tetapi mereka sendiri jatuh ke dalamnya. Sela"
   },
   {Bible:"Psalms", Chapter:57, Verse:7, Page:1,
-    Kor:"하나님, 나는 내 마음을 정했습니다. 나는 내 마음을 확실히 정했습니다. 내가 가락에 맞추어 노래를 부르겠습니다.",
+    Kor:"하나님, 내 마음은 흔들림이 없습니다. 진실로, 내 마음은 확고합니다. 내가 가락에 맞추어 노래를 부르겠습니다.",
     Chn:"神啊，我心坚定，我心坚定； 我要唱诗，我要歌颂！",
     Eng:"My heart is steadfast, O God, my heart is steadfast; I will sing and make music.",
     Ind:"(57-8) Hatiku siap, ya Allah, hatiku siap; aku mau menyanyi, aku mau bermazmur."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"(57-10) Aku mau bersyukur kepada-Mu di antara bangsa-bangsa, ya Tuhan, aku mau bermazmur bagi-Mu di antara suku-suku bangsa;"
   },
   {Bible:"Psalms", Chapter:57, Verse:10, Page:1,
-    Kor:"주님의 한결같은 그 사랑, 너무 높아서 하늘에 이르고, 주님의 진실하심, 구름에까지 닿습니다.",
+    Kor:"주의 한결같은 그 사랑, 너무 높아서 하늘에 이르고, 주의 미쁘심, 구름에까지 닿습니다.",
     Chn:"因为，你的慈爱高及诸天； 你的诚实达到穹苍。",
     Eng:"For great is your love, reaching to the heavens; your faithfulness reaches to the skies.",
     Ind:"(57-11) sebab kasih setia-Mu besar sampai ke langit, dan kebenaran-Mu sampai ke awan-awan."
   },
   {Bible:"Psalms", Chapter:57, Verse:11, Page:1,
-    Kor:"하나님, 주님은 하늘 높이 높임을 받으시고, 주님의 영광 온 땅 위에 떨치십시오.",
+    Kor:"하나님, 하늘 높이 높임을 받으시고, 주의 영광이 온 땅 위에서 높임을 받으십시오.",
     Chn:"神啊，愿你崇高过于诸天！ 愿你的荣耀高过全地！",
     Eng:"Be exalted, O God, above the heavens; let your glory be over all the earth.",
     Ind:"(57-12) Tinggikanlah diri-Mu mengatasi langit, ya Allah! Biarlah kemuliaan-Mu mengatasi seluruh bumi!"

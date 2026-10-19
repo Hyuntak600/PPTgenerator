@@ -3,19 +3,19 @@
 BibleDB.ref("Judges",8,35);
 BibleDB.add([
   {Bible:"Judges", Chapter:8, Verse:1, Page:1,
-    Kor:"<기드온이 죽인 미디안 왕들> 그 때에 에브라임 사람들이 기드온에게 말하였다. \"장군께서는 미디안과 싸우러 나가실 때에 우리를 부르지 않으셨는데, 어떻게 우리에게 이렇게 하실 수 있습니까?\" 그들이 기드온에게 거세게 항의하니,",
+    Kor:"그 때에 에브라임 사람들이 기드온에게 말하였다. \"장군께서는 미디안과 싸우러 나가실 때에 우리를 부르지 않으셨는데, 어찌 우리에게 이렇게 하실 수 있습니까?\" 그들이 기드온에게 거세게 항의하니,",
     Chn:"以法莲人对基甸说：「你去与米甸人争战，没有招我们同去，为什么这样待我们呢？」他们就与基甸大大地争吵。",
     Eng:"Now the Ephraimites asked Gideon, \"Why have you treated us like this? Why didn't you call us when you went to fight Midian?\" And they criticized him sharply.",
     Ind:"Lalu berkatalah orang-orang Efraim kepada Gideon: \"Apa macam perbuatanmu ini terhadap kami! Mengapa engkau tidak memanggil kami, ketika engkau pergi berperang melawan orang Midian?\" Lalu mereka menyesali dia dengan sangat."
   },
   {Bible:"Judges", Chapter:8, Verse:2, Page:1,
-    Kor:"그가 그들에게 말하였다. \"이번에 내가 한 일이 당신들이 한 일에 비교나 되겠습니까? 에브라임이 떨어진 포도를 주운 것이 아비에셀이 추수한 것 전부보다 낫지 않습니까?",
+    Kor:"그가 그들에게 말하였다. \"이번에 내가 한 일이 여러분이 한 일에 비교나 되겠습니까? 에브라임이 떨어진 포도를 주운 것이 아비에셀이 추수한 것 전부보다 낫지 않습니까?",
     Chn:"基甸对他们说：「我所行的岂能比你们所行的呢？以法莲拾取剩下的葡萄不强过亚比以谢所摘的葡萄吗？",
     Eng:"But he answered them, \"What have I accomplished compared to you? Aren't the gleanings of Ephraim's grapes better than the full grape harvest of Abiezer?",
     Ind:"Jawabnya kepada mereka: \"Apa perbuatanku dalam hal ini, jika dibandingkan dengan kamu? Bukankah pemetikan susulan oleh suku Efraim lebih baik hasilnya dari panen buah anggur kaum Abiezer?"
   },
   {Bible:"Judges", Chapter:8, Verse:3, Page:1,
-    Kor:"하나님이 미디안의 우두머리 오렙과 스엡을 당신들의 손에 넘겨 주셨습니다. 그러니 내가 한 일이 어찌 당신들이 한 일에 비교나 되겠습니까?\" 기드온이 이 말을 하니, 그들의 노여움이 풀렸다.",
+    Kor:"하나님이 미디안의 우두머리 오렙과 스엡을 여러분의 손에 넘겨 주셨습니다. 그러니 내가 한 일이 어찌 여러분이 한 일에 비교나 되겠습니까?\" 기드온이 이 말을 하니, 그들의 노여움이 풀렸다.",
     Chn:"神已将米甸人的两个首领俄立和西伊伯交在你们手中；我所行的岂能比你们所行的呢？」基甸说了这话，以法莲人的怒气就消了。",
     Eng:"God gave Oreb and Zeeb, the Midianite leaders, into your hands. What was I able to do compared to you?\" At this, their resentment against him subsided.",
     Ind:"Allah telah menyerahkan kedua raja Midian itu, yakni Oreb dan Zeeb, ke dalam tanganmu; apa yang telah dapat kucapai, jika dibandingkan dengan kamu?\" Setelah ia berkata demikian, maka redalah marah mereka terhadap dia."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Tetapi jawab para pemuka di Sukot itu: \"Sudahkah Zebah dan Salmuna itu ada dalam tanganmu, sehingga kami harus memberikan roti kepada tentaramu?\""
   },
   {Bible:"Judges", Chapter:8, Verse:7, Page:1,
-    Kor:"그러자 기드온이 대답하였다. \"좋소! 주님께서 세바와 살문나를 나의 손에 넘겨 주신 뒤에, 내가 들가시와 찔레로 당신들의 살을 찌르고야 말겠소.\"",
+    Kor:"그러자 기드온이 대답하였다. \"좋소! 주께서 세바와 살문나를 나의 손에 넘겨 주신 뒤에, 내가 들가시와 찔레로 당신들의 살을 찌르고야 말겠소.\"",
     Chn:"基甸说：「耶和华将西巴和撒慕拿交在我手之后，我就用野地的荆条和枳棘打伤你们。」",
     Eng:"Then Gideon replied, \"Just for that, when the LORD has given Zebah and Zalmunna into my hand, I will tear your flesh with desert thorns and briers.\"",
     Ind:"Lalu kata Gideon: \"Kalau begitu, apabila TUHAN menyerahkan Zebah dan Salmuna ke dalam tanganku, aku akan menggaruk tubuhmu dengan duri padang gurun dan onak.\""
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Zebah dan Salmuna melarikan diri, tetapi Gideon mengejar mereka dan menawan kedua raja Midian itu, yakni Zebah dan Salmuna, sedang seluruh tentara itu diceraiberaikannya."
   },
   {Bible:"Judges", Chapter:8, Verse:13, Page:1,
-    Kor:"○요아스의 아들 기드온이 헤레스 비탈길에서 전쟁을 마치고 오다가,",
+    Kor:"○요아스의 아들 기드온이, 헤레스 비탈길에서 전쟁을 마치고 오다가,",
     Chn:"约阿施的儿子基甸由希列斯坡从阵上回来，",
     Eng:"Gideon son of Joash then returned from the battle by the Pass of Heres.",
     Ind:"Kemudian kembalilah Gideon bin Yoas dari peperangan dengan melalui pendakian Heres;"
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"ditangkapnyalah seorang muda dari penduduk Sukot. Setelah ditanyai, orang itu menuliskan nama para pemuka dan para tua-tua di Sukot untuk Gideon, tujuh puluh tujuh orang banyaknya."
   },
   {Bible:"Judges", Chapter:8, Verse:15, Page:1,
-    Kor:"기드온은 숙곳에 이르러 그 곳 사람들에게 말하였다. \"여기 세바와 살문나가 있다. 너희는 나에게 '우리를 보고 당신의 지친 군대에게 빵을 주라니, 세바와 살문나가 당신의 손아귀에 들기라도 하였다는 말이오?' 하면서 나를 조롱하였다.\"",
+    Kor:"기드온은, 숙곳에 이르러 그 곳 사람들에게 말하였다. \"여기 세바와 살문나가 있다. 너희는 나에게 '우리를 보고 당신의 지친 군대에게 빵을 주라니, 세바와 살문나가 당신의 손아귀에 들기라도 하였다는 말이오?' 하면서 나를 조롱하였다.\"",
     Chn:"基甸到了疏割，对那里的人说：「你们从前讥诮我说：『西巴和撒慕拿已经在你手里，你使我们将饼给跟随你的疲乏人吗？』现在西巴和撒慕拿在这里。」",
     Eng:"Then Gideon came and said to the men of Succoth, \"Here are Zebah and Zalmunna, about whom you taunted me by saying, 'Do you already have the hands of Zebah and Zalmunna in your possession? Why should we give bread to your exhausted men?'\"",
     Ind:"Lalu pergilah Gideon kepada orang-orang Sukot sambil berkata: \"Inilah Zebah dan Salmuna yang karenanya kamu telah mencela aku dengan berkata: Sudahkah Zebah dan Salmuna itu ada dalam tanganmu, sehingga kami harus memberikan roti kepada orang-orangmu yang lelah itu?\""
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Kemudian bertanyalah ia kepada Zebah dan Salmuna: \"Di manakah orang-orang yang telah kamu bunuh di Tabor itu?\" Jawab mereka: \"Mereka itu serupa dengan engkau, sikap mereka masing-masing seperti anak raja.\""
   },
   {Bible:"Judges", Chapter:8, Verse:19, Page:1,
-    Kor:"기드온이 말하였다. \"그들은 나의 어머니에게서 난 형제들이다. 주님의 살아 계심을 두고 맹세하지만, 너희가 그들을 살려 주기만 하였더라도 내가 너희를 죽이지는 않을 것이다.\"",
+    Kor:"기드온이 말하였다. \"그들은 나의 어머니에게서 난 형제들이다. 주의 살아 계심을 두고 맹세하지만, 너희가 그들을 살려 주기만 하였더라도 내가 너희를 죽이지는 않을 것이다.\"",
     Chn:"基甸说：「他们是我同母的弟兄，我指着永生的耶和华起誓，你们从前若存留他们的性命，我如今就不杀你们了。」",
     Eng:"Gideon replied, \"Those were my brothers, the sons of my own mother. As surely as the LORD lives, if you had spared their lives, I would not kill you.\"",
     Ind:"Lalu kata Gideon: \"Saudara-saudarakulah itu, anak-anak ibuku! Demi TUHAN yang hidup, seandainya kamu membiarkan mereka hidup, aku tidak akan membunuh kamu.\""
   },
   {Bible:"Judges", Chapter:8, Verse:20, Page:1,
-    Kor:"기드온은 맏아들 예델에게, 어서 그들을 죽이라고 명하였다. 그러나 그는 아직 어리고 두려워서 칼을 뽑지 못하였다.",
+    Kor:"기드온은 맏아들 여델에게, 어서 그들을 죽이라고 명하였다. 그러나 그는 아직 어리고 두려워서 칼을 뽑지 못하였다.",
     Chn:"于是对他的长子益帖说：「你起来杀他们。」但益帖因为是童子，害怕，不敢拔刀。",
     Eng:"Turning to Jether, his oldest son, he said, \"Kill them!\" But Jether did not draw his sword, because he was only a boy and was afraid.",
     Ind:"Katanya kepada Yeter, anak sulungnya: \"Bangunlah, bunuhlah mereka.\" Tetapi orang muda itu tidak menghunus pedangnya, karena ia takut, sebab ia masih muda."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Kemudian berkatalah orang Israel kepada Gideon: \"Biarlah engkau memerintah kami, baik engkau baik anakmu maupun cucumu, sebab engkaulah yang telah menyelamatkan kami dari tangan orang Midian.\""
   },
   {Bible:"Judges", Chapter:8, Verse:23, Page:1,
-    Kor:"그러나 기드온은 그들에게 말하였다. \"나는 여러분을 다스리지 않을 것입니다. 나의 아들도 여러분을 다스리지 않을 것입니다. 오직 주님께서 여러분을 다스리실 것입니다.\"",
+    Kor:"그러나 기드온은 그들에게 말하였다. \"나는 여러분을 다스리지 않을 것입니다. 나의 아들도 여러분을 다스리지 않을 것입니다. 오직 주께서 여러분을 다스리실 것입니다.\"",
     Chn:"基甸说：「我不管理你们，我的儿子也不管理你们，惟有耶和华管理你们。」",
     Eng:"But Gideon told them, \"I will not rule over you, nor will my son rule over you. The LORD will rule over you.\"",
     Ind:"Jawab Gideon kepada mereka: \"Aku tidak akan memerintah kamu dan juga anakku tidak akan memerintah kamu tetapi TUHAN yang memerintah kamu.\""
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Adapun berat anting-anting emas yang dimintanya itu ada seribu tujuh ratus syikal emas, belum terhitung bulan-bulanan, perhiasan telinga dan pakaian kain ungu muda yang dipakai oleh raja-raja Midian, dan belum terhitung kalung rantai yang ada pada leher unta mereka."
   },
   {Bible:"Judges", Chapter:8, Verse:27, Page:1,
-    Kor:"기드온은 이것들을 가지고 에봇 하나를 만들어, 자기가 사는 오브라 성읍에 두었다. 그러자 온 이스라엘이 그 곳에서 그것을 음란하게 섬겨서, 그것이 기드온과 그 집안에 올가미가 되었다.",
+    Kor:"기드온은, 이것들을 가지고 에봇 하나를 만들어, 자기가 사는 오브라 성읍에 두었다. 그러자 온 이스라엘이 그 곳에서 그것을 음란하게 섬겨서, 그것이 기드온과 그 집안에 올가미가 되었다.",
     Chn:"基甸以此制造了一个以弗得，设立在本城俄弗拉。后来以色列人拜那以弗得行了邪淫；这就作了基甸和他全家的网罗。",
     Eng:"Gideon made the gold into an ephod, which he placed in Ophrah, his town. All Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his family.",
     Ind:"Kemudian Gideon membuat efod dari semuanya itu dan menempatkannya di kotanya, di Ofra. Di sanalah orang Israel berlaku serong dengan menyembah efod itu; inilah yang menjadi jerat bagi Gideon dan seisi rumahnya."
   },
   {Bible:"Judges", Chapter:8, Verse:28, Page:1,
-    Kor:"○이와 같이 하여 미디안은 이스라엘 사람에게 복종하게 되었고, 다시는 고개를 들지 못하였다. 기드온이 사는 사십 년 동안, 그 땅은 전쟁이 없이 평온하였다.",
+    Kor:"○이와 같이 하여, 미디안은 이스라엘 사람에게 복종하게 되었고, 다시는 고개를 들지 못하였다. 기드온이 사는 사십 년 동안, 그 땅은 전쟁이 없이 평온하였다.",
     Chn:"这样，米甸人被以色列人制伏了，不敢再抬头。基甸还在的日子，国中太平四十年。",
     Eng:"Thus Midian was subdued before the Israelites and did not raise its head again. During Gideon's lifetime, the land enjoyed peace forty years.",
     Ind:"Demikianlah orang Midian tunduk kepada orang Israel dan tidak dapat menegakkan kepalanya lagi; maka amanlah negeri itu empat puluh tahun lamanya pada zaman Gideon."
   },
   {Bible:"Judges", Chapter:8, Verse:29, Page:1,
-    Kor:"<기드온이 죽다> ○요아스의 아들 여룹바알은 자기 집으로 돌아가서 살았다.",
+    Kor:"○요아스의 아들 여룹바알은 자기 집으로 돌아가서 살았다.",
     Chn:"约阿施的儿子耶路·巴力回去，住在自己家里。",
     Eng:"Jerub-Baal son of Joash went back home to live.",
     Ind:"Lalu Yerubaal bin Yoas pergilah dan diam di rumahnya sendiri."

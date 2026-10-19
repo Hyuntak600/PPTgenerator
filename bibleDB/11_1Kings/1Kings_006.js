@@ -3,13 +3,13 @@
 BibleDB.ref("1Kings",6,38);
 BibleDB.add([
   {Bible:"1Kings", Chapter:6, Verse:1, Page:1,
-    Kor:"<솔로몬이 성전을 짓다> 이스라엘 자손이 이집트 땅에서 나온 지 a사백팔십 년, 솔로몬이 이스라엘의 왕이 된 지 사 년째 되는 해 b시브월 곧 둘째 달에, 솔로몬은 주님의 성전을 짓기 시작하였다.(a 칠십인역에는 '사백사십 년' b 양력 사월 중순 이후)",
+    Kor:"이스라엘 자손이 이집트 땅에서 나온 지 사백팔십 년, 솔로몬이 이스라엘의 왕이 된 지 사 년째 되는 해 시브월 곧 둘째 달에, 솔로몬은 주의 성전을 짓기 시작하였다.",
     Chn:"以色列人出埃及地后四百八十年，所罗门作以色列王第四年西弗月，就是二月，开工建造耶和华的殿。",
     Eng:"In the four hundred and eightieth year after the Israelites had come out of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv, the second month, he began to build the temple of the LORD.",
     Ind:"Dan terjadilah pada tahun keempat ratus delapan puluh sesudah orang Israel keluar dari tanah Mesir, pada tahun keempat sesudah Salomo menjadi raja atas Israel, dalam bulan Ziw, yakni bulan yang kedua, maka Salomo mulai mendirikan rumah bagi TUHAN."
   },
   {Bible:"1Kings", Chapter:6, Verse:2, Page:1,
-    Kor:"솔로몬 왕이 주님께 지어 바친 성전은, 길이가 예순 자이고, 너비가 스무 자이고, 높이가 서른 자이다.",
+    Kor:"솔로몬 왕이 주께 지어 바친 성전은, 길이가 예순 자이고, 너비가 스무 자이고, 높이가 서른 자이다.",
     Chn:"所罗门王为耶和华所建的殿，长六十肘，宽二十肘，高三十肘。",
     Eng:"The temple that King Solomon built for the LORD was sixty cubits long, twenty wide and thirty high.",
     Ind:"Rumah yang didirikan raja Salomo bagi TUHAN itu enam puluh hasta panjangnya dan dua puluh hasta lebarnya dan tiga puluh hasta tingginya."
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Dibuatnya juga pada rumah itu jendela-jendela yang rapat bidainya."
   },
   {Bible:"1Kings", Chapter:6, Verse:5, Page:1,
-    Kor:"그리고 그 사방에 골방을 만들었다. 성전의 벽 곧 본당 양 옆과 뒤로는, 쭉 돌아가면서 삼층으로 다락을 만들었다.",
+    Kor:"그리고 그 사방에 골방을 만들었다. 성전의 벽, 곧 본당 양 옆과 뒤로는, 쭉 돌아가면서 삼층으로 다락을 만들었다.",
     Chn:"靠着殿墙，围着外殿内殿，造了三层旁屋；",
     Eng:"Against the walls of the main hall and inner sanctuary he built a structure around the building, in which there were side rooms.",
     Ind:"Pada dinding rumah itu sekelilingnya didirikannya kamar tambahan, sekeliling ruang besar dan ruang belakang, dan seluruhnya dibuatnya bertingkat-tingkat."
   },
   {Bible:"1Kings", Chapter:6, Verse:6, Page:1,
-    Kor:"아래층에 있는 다락은 그 너비가 다섯 자이고, 가운데 층에 있는 다락은 그 너비가 여섯 자이고, 삼 층에 있는 다락은 그 너비가 일곱 자이다. 이것은 성전 바깥으로 돌아가면서 턱을 내어서, 골방의 서까래가 성전의 벽에 박히지 않게 하였다.",
+    Kor:"아래층에 있는 다락은 그 너비가 다섯 자이고, 가운데 층에 있는 다락은 그 너비가 여섯 자이고, 삼층에 있는 다락은 그 너비가 일곱 자이다. 이것은 성전 바깥으로 돌아가면서 턱을 내어서, 골방의 서까래가 성전의 벽에 박히지 않게 하였다.",
     Chn:"下层宽五肘，中层宽六肘，上层宽七肘。殿外旁屋的梁木搁在殿墙坎上，免得插入殿墙。",
     Eng:"The lowest floor was five cubits wide, the middle floor six cubits and the third floor seven. He made offset ledges around the outside of the temple so that nothing would be inserted into the temple walls.",
     Ind:"Tingkat bawah lima hasta lebarnya, yang tengah enam hasta dan yang ketiga tujuh hasta, sebab telah dibuatnya ceruk-ceruk pada rumah itu sekeliling sebelah luar, sehingga dinding rumah itu tidak usah dilobangi."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Dan setelah ia mendirikan kamar tambahan itu pada rumah itu sekeliling, yakni setiap tingkat lima hasta tingginya, maka rumah itu ditutupinya dengan kayu aras."
   },
   {Bible:"1Kings", Chapter:6, Verse:11, Page:1,
-    Kor:"○주님께서 솔로몬에게 말씀하셨다.",
+    Kor:"○주께서 솔로몬에게 말씀하셨다.",
     Chn:"耶和华的话临到所罗门说：",
     Eng:"The word of the LORD came to Solomon:",
     Ind:"Kemudian datanglah firman TUHAN kepada Salomo, demikian:"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Setelah Salomo selesai mendirikan rumah itu,"
   },
   {Bible:"1Kings", Chapter:6, Verse:15, Page:1,
-    Kor:"<성전 내부 장식(대하 3:8-14)> ○성전의 안쪽 벽에는 바닥에서 천장에 닿기까지 벽 전체에 백향목 널빤지를 입히고, 성전의 바닥에는 잣나무 널빤지를 깔았다.",
+    Kor:"○성전의 안쪽 벽에는 바닥에서 천장에 닿기까지 벽 전체에 백향목 널빤지를 입히고, 성전의 바닥에는 잣나무 널빤지를 깔았다.",
     Chn:"殿里面用香柏木板贴墙，从地到棚顶都用木板遮蔽，又用松木板铺地。",
     Eng:"He lined its interior walls with cedar boards, paneling them from the floor of the temple to the ceiling, and covered the floor of the temple with planks of pine.",
     Ind:"ia melapisi dinding rumah itu dari dalam dengan papan kayu aras; dari lantai sampai ke balok langit-langit dilapisinya dengan kayu aras, tetapi lantai rumah itu dilapisinya dengan papan kayu sanobar."
   },
   {Bible:"1Kings", Chapter:6, Verse:16, Page:1,
-    Kor:"성전 뒤쪽에서 앞쪽으로 스무 자를 재어서, 바닥에서부터 천장의 서까래에 이르기까지 백향목 널빤지로 가로막아서, 성전의 내실 곧 지성소를 만들었다.",
+    Kor:"성전 뒤쪽에서 앞쪽으로 스무 자를 재어서, 바닥에서부터 천장의 서까래에 이르기까지 백향목 널빤지로 가로막아서, 성전의 내실, 곧 지성소를 만들었다.",
     Chn:"内殿，就是至圣所，长二十肘，从地到棚顶用香柏木板遮蔽。",
     Eng:"He partitioned off twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place.",
     Ind:"Kemudian disekatnyalah dua puluh hasta bagian belakang rumah itu dengan papan kayu aras, dari lantai sampai ke balok-balok; lalu dibuatnyalah ruang itu menjadi ruang belakang, menjadi tempat maha kudus."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Kayu aras sebelah dalam rumah itu berukirkan buah labu dan bunga mengembang; semuanya ditutupi kayu aras, tidak ada batu kelihatan."
   },
   {Bible:"1Kings", Chapter:6, Verse:19, Page:1,
-    Kor:"○성전 안에는, 주님의 언약궤를 놓아 둘 내실을 마련하였다.",
+    Kor:"○성전 안에는, 주의 언약궤를 놓아 둘 내실을 마련하였다.",
     Chn:"殿里预备了内殿，好安放耶和华的约柜。",
     Eng:"He prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there.",
     Ind:"Demikianlah dilengkapinya ruang belakang di dalam rumah itu, di sebelah dalam sekali, supaya di sana ditaruh tabut perjanjian TUHAN."
@@ -219,13 +219,13 @@ BibleDB.add([
     Ind:"Ia mendirikan tembok pelataran dalam dari tiga jajar batu pahat dan dari satu jajar balok kayu aras."
   },
   {Bible:"1Kings", Chapter:6, Verse:37, Page:1,
-    Kor:"○주님의 성전 기초를 놓은 것은 솔로몬의 통치 제 사년 시브월이고,",
+    Kor:"○주의 성전 기초를 놓은 것은 솔로몬의 통치 제 사년 시브월이고,",
     Chn:"所罗门 在位第四年西弗月，立了耶和华殿的根基。",
     Eng:"The foundation of the temple of the LORD was laid in the fourth year, in the month of Ziv.",
     Ind:"Dalam tahun yang keempat, dalam bulan Ziw, diletakkanlah dasar rumah TUHAN,"
   },
   {Bible:"1Kings", Chapter:6, Verse:38, Page:1,
-    Kor:"성전이 그 세밀한 부분까지 설계한 대로 완공된 것은 제 십일년 c불월 곧 여덟째 달이다. 솔로몬이 성전을 건축하는 데는 일곱 해가 걸렸다.(c 양력 시월 중순 이후)",
+    Kor:"성전이 그 세밀한 부분까지 설계한 대로 완공된 것은 제 십일년 불월, 곧 여덟째 달이다. 솔로몬이 성전을 건축하는 데는 일곱 해가 걸렸다.",
     Chn:"到十一年布勒月，就是八月，殿和一切属殿的都按着样式造成。他建殿的工夫共有七年。",
     Eng:"In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.",
     Ind:"dan dalam tahun yang kesebelas, dalam bulan Bul, yaitu bulan kedelapan, selesailah rumah itu dengan segala bagian-bagiannya dan sesuai dengan segala rancangannya; jadi tujuh tahun lamanya ia mendirikan rumah itu."

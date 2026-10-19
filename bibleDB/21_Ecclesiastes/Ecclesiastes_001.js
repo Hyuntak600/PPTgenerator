@@ -3,19 +3,19 @@
 BibleDB.ref("Ecclesiastes",1,18);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:1, Verse:1, Page:1,
-    Kor:"<세상만사 헛되다> 다윗의 아들 예루살렘 왕 a전도자의 말이다.(a 히, '코헬렛'. '설교자' 또는 '교사' 또는 '총회의 인도자')",
+    Kor:"다윗의 아들 예루살렘 왕 전도자의 말이다.",
     Chn:"在耶路撒冷作王、大卫的儿子、传道者的言语。",
     Eng:"The words of the Teacher, son of David, king in Jerusalem:",
     Ind:"Inilah perkataan Pengkhotbah, anak Daud, raja di Yerusalem."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:2, Page:1,
-    Kor:"a전도자가 말한다. 헛되고 헛되다. 헛되고 헛되다. 모든 것이 헛되다. (a 히, '코헬렛'. '설교자' 또는 '교사' 또는 '총회의 인도자')",
+    Kor:"전도자가 말한다. 헛되고 헛되다. 헛되고 헛되다. 모든 것이 헛되다.",
     Chn:"传道者说：虚空的虚空， 虚空的虚空，凡事都是虚空。",
     Eng:"\"Meaningless! Meaningless!\" says the Teacher. \"Utterly meaningless! Everything is meaningless.\"",
     Ind:"Kesia-siaan belaka, kata Pengkhotbah, kesia-siaan belaka, segala sesuatu adalah sia-sia."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:3, Page:1,
-    Kor:"사람이 b세상에서 아무리 수고한들, 무슨 보람이 있는가? (b 히, '해 아래')",
+    Kor:"사람이 세상에서 아무리 수고한들, 무슨 보람이 있는가?",
     Chn:"人一切的劳碌， 就是他在日光之下的劳碌，有什么益处呢？",
     Eng:"What does man gain from all his labor at which he toils under the sun?",
     Ind:"Apakah gunanya manusia berusaha dengan jerih payah di bawah matahari?"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Matahari terbit, matahari terbenam, lalu terburu-buru menuju tempat ia terbit kembali."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:6, Page:1,
-    Kor:"바람은 남쪽으로 불다가 북쪽으로 돌이키며, 이리 돌고 저리 돌다가 불던 곳으로 돌아간다.",
+    Kor:"바람은 남쪽으로 불다가, 북쪽으로 돌이키며 이리 돌고 저리 돌다가, 불던 곳으로 돌아간다.",
     Chn:"风往南刮，又向北转， 不住地旋转，而且返回转行原道。",
     Eng:"The wind blows to the south and turns to the north; round and round it goes, ever returning on its course.",
     Ind:"Angin bertiup ke selatan, lalu berputar ke utara, terus-menerus ia berputar, dan dalam putarannya angin itu kembali."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Segala sesuatu menjemukan, sehingga tak terkatakan oleh manusia; mata tidak kenyang melihat, telinga tidak puas mendengar."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:9, Page:1,
-    Kor:"이미 있던 것이 훗날에 다시 있을 것이며, 이미 일어났던 일이 훗날에 다시 일어날 것이다. b이 세상에 새 것이란 없다. (b 히, '해 아래')",
+    Kor:"이미 있던 것이 훗날에 다시 있을 것이며, 이미 일어났던 일이 훗날에 다시 일어날 것이다. 이 세상에 새 것이란 없다.",
     Chn:"已有的事后必再有； 已行的事后必再行。 日光之下并无新事。",
     Eng:"What has been will be again, what has been done will be done again; there is nothing new under the sun.",
     Ind:"Apa yang pernah ada akan ada lagi, dan apa yang pernah dibuat akan dibuat lagi; tak ada sesuatu yang baru di bawah matahari."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Kenang-kenangan dari masa lampau tidak ada, dan dari masa depan yang masih akan datangpun tidak akan ada kenang-kenangan pada mereka yang hidup sesudahnya."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:12, Page:1,
-    Kor:"<지혜도 헛되다> ○나 a전도자는 예루살렘에서 왕이 되어 이스라엘을 다스리는 동안에,(a 히, '코헬렛'. '설교자' 또는 '교사' 또는 '총회의 인도자')",
+    Kor:"○나 전도자는 예루살렘에서 왕이 되어 이스라엘을 다스리는 동안에,",
     Chn:"我传道者在耶路撒冷作过以色列的王。",
     Eng:"I, the Teacher, was king over Israel in Jerusalem.",
     Ind:"Aku, Pengkhotbah, adalah raja atas Israel di Yerusalem."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Aku membulatkan hatiku untuk memeriksa dan menyelidiki dengan hikmat segala yang terjadi di bawah langit. Itu pekerjaan yang menyusahkan yang diberikan Allah kepada anak-anak manusia untuk melelahkan diri."
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:14, Page:1,
-    Kor:"b세상에서 벌어지는 온갖 일을 보니 그 모두가 헛되어 c바람을 잡으려는 것과 같다.(b 히, '해 아래' c 또는 '바람을 먹고 사는 것과 같다'(호 12:1을 볼 것))",
+    Kor:"세상에서 벌어지는 온갖 일을 보니 그 모두가 헛되어 바람을 잡으려는 것과 같다.",
     Chn:"我见日光之下所做的一切事，都是虚空，都是捕风。",
     Eng:"I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.",
     Ind:"Aku telah melihat segala perbuatan yang dilakukan orang di bawah matahari, tetapi lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Aku berkata dalam hati: \"Lihatlah, aku telah memperbesar dan menambah hikmat lebih dari pada semua orang yang memerintah atas Yerusalem sebelum aku, dan hatiku telah memperoleh banyak hikmat dan pengetahuan.\""
   },
   {Bible:"Ecclesiastes", Chapter:1, Verse:17, Page:1,
-    Kor:"나는 또 무엇이 슬기롭고 똑똑한 것인지, 무엇이 얼빠지고 어리석은 것인지를 구별하려고 심혈을 기울였다. 그러나 그처럼 알려고 하는 그것 또한 바람을 잡으려는 것과 같은 일임을 알게 되었다.",
+    Kor:"나는 또, 무엇이 슬기롭고 똑똑한 것인지, 무엇이 얼빠지고 어리석은 것인지를 구별하려고 심혈을 기울였다. 그러나 그처럼 알려고 하는 그것 또한, 바람을 잡으려는 것과 같은 일임을 알게 되었다.",
     Chn:"我又专心察明智慧、狂妄，和愚昧，乃知这也是捕风。",
     Eng:"Then I applied myself to the understanding of wisdom, and also of madness and folly, but I learned that this, too, is a chasing after the wind.",
     Ind:"Aku telah membulatkan hatiku untuk memahami hikmat dan pengetahuan, kebodohan dan kebebalan. Tetapi aku menyadari bahwa hal inipun adalah usaha menjaring angin,"

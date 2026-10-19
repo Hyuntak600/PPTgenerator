@@ -3,7 +3,7 @@
 BibleDB.ref("2Kings",6,33);
 BibleDB.add([
   {Bible:"2Kings", Chapter:6, Verse:1, Page:1,
-    Kor:"<도끼를 찾다> a예언자 수련생들이 엘리사에게 말하였다. \"보십시오, 우리들이 예언자님을 모시고 살고 있는 이 곳이, 우리에게는 너무 좁습니다.(a 히, '예언자들의 아들들')",
+    Kor:"예언자 수련생들이 엘리사에게 말하였다. \"보십시오, 우리들이 선생님을 모시고 살고 있는 이 곳이, 우리에게는 너무 좁습니다.",
     Chn:"先知门徒对以利沙说：「看哪，我们同你所住的地方过于窄小，",
     Eng:"The company of the prophets said to Elisha, \"Look, the place where we meet with you is too small for us.",
     Ind:"Pada suatu hari berkatalah rombongan nabi kepada Elisa: \"Cobalah lihat, tempat tinggal kami di dekatmu ini adalah terlalu sesak bagi kami."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Lalu katanya: \"Ambillah.\" Orang itu mengulurkan tangannya dan mengambilnya."
   },
   {Bible:"2Kings", Chapter:6, Verse:8, Page:1,
-    Kor:"<시리아의 군대를 물리치다> ○시리아 왕이 이스라엘과 전쟁을 하고 있던 무렵이다. 그가 신하들과 은밀하게 의논하며 이러이러한 곳에 진을 치자고 말하였다.",
+    Kor:"○시리아 왕이 이스라엘과 전쟁을 하고 있던 무렵이다. 그가 신하들과 은밀하게 의논하며 이러이러한 곳에 진을 치자고 말하였다.",
     Chn:"亚兰王与以色列人争战，和他的臣仆商议说：「我要在某处某处安营。」",
     Eng:"Now the king of Aram was at war with Israel. After conferring with his officers, he said, \"I will set up my camp in such and such a place.\"",
     Ind:"Raja negeri Aram sedang berperang melawan Israel. Ia berunding dengan pegawai-pegawainya, lalu katanya: \"Ke tempat ini dan itu haruslah kamu turun menghadang.\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Maka dikirimnyalah ke sana kuda serta kereta dan tentara yang besar. Sampailah mereka pada waktu malam, lalu mengepung kota itu."
   },
   {Bible:"2Kings", Chapter:6, Verse:15, Page:1,
-    Kor:"○하나님의 사람의 시종이 아침에 일찍 일어나서 밖으로 나가 보니, 강한 군대가 말과 병거로 성읍을 포위하고 있는 것이 아닌가! 그 시종이 엘리사에게 와서 이 사실을 알리면서 걱정하였다. \"큰일이 났습니다. 선생님, 어떻게 하면 좋습니까?\"",
+    Kor:"○하나님의 사람의 시종이 아침에 일찍 일어나서 밖으로 나가 보니, 강한 군대가 말과 병거로 성읍을 포위하고 있는 것이 아닌가! 그 시종이 엘리사에게 와서 이 사실을 알리면서 걱정하였다. \"큰일이 났습니다. 스승님, 어떻게 하면 좋습니까?\"",
     Chn:"神人的仆人清早起来出去，看见车马军兵围困了城。仆人对神人说：「哀哉！我主啊，我们怎样行才好呢？」",
     Eng:"When the servant of the man of God got up and went out early the next morning, an army with horses and chariots had surrounded the city. \"Oh, my lord, what shall we do?\" the servant asked.",
     Ind:"Ketika pelayan abdi Allah bangun pagi-pagi dan pergi ke luar, maka tampaklah suatu tentara dengan kuda dan kereta ada di sekeliling kota itu. Lalu berkatalah bujangnya itu kepadanya: \"Celaka tuanku! Apakah yang akan kita perbuat?\""
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Jawabnya: \"Jangan takut, sebab lebih banyak yang menyertai kita dari pada yang menyertai mereka.\""
   },
   {Bible:"2Kings", Chapter:6, Verse:17, Page:1,
-    Kor:"그렇게 말한 다음에 엘리사는 기도를 드렸다. \"주님, 간구하오니, 저 시종의 눈을 열어 주셔서, 볼 수 있도록 해주십시오.\" 그러자 주님께서 그 시종의 눈을 열어 주셨다. 그가 바라보니, 온 언덕에는 불 말과 불 수레가 가득하여, 엘리사를 두루 에워싸고 있었다.",
+    Kor:"그렇게 말한 다음에 엘리사는 기도를 드렸다. \"주님, 간구하오니, 저 시종의 눈을 열어 주셔서, 볼 수 있도록 해주십시오.\" 그러자 주께서 그 시종의 눈을 열어 주셨다. 그가 바라보니, 온 언덕에는 불 말과 불 수레가 가득하여, 엘리사를 두루 에워싸고 있었다.",
     Chn:"以利沙祷告说：「耶和华啊，求你开这少年人的眼目，使他能看见。」耶和华开他的眼目，他就看见满山有火车火马围绕以利沙。",
     Eng:"And Elisha prayed, \"O LORD, open his eyes so he may see.\" Then the LORD opened the servant's eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.",
     Ind:"Lalu berdoalah Elisa: \"Ya TUHAN: Bukalah kiranya matanya, supaya ia melihat.\" Maka TUHAN membuka mata bujang itu, sehingga ia melihat. Tampaklah gunung itu penuh dengan kuda dan kereta berapi sekeliling Elisa."
   },
   {Bible:"2Kings", Chapter:6, Verse:18, Page:1,
-    Kor:"시리아 군대들이 산에서 엘리사에게로 내려올 때에, 엘리사가 주님께 기도하였다. \"주님, 이 백성을 쳐서, 눈을 멀게 해주시기를 간구합니다.\" 그러자 주님께서는 엘리사의 말대로 그들을 쳐서 눈을 멀게 하셨다.",
+    Kor:"시리아 군대들이 산에서 엘리사에게로 내려올 때에, 엘리사가 주께 기도하였다. \"주님, 이 백성을 쳐서, 눈을 멀게 해주시기를 간구합니다.\" 그러자 주께서는 엘리사의 말대로 그들을 쳐서 눈을 멀게 하셨다.",
     Chn:"敌人下到以利沙那里，以利沙祷告耶和华说：「求你使这些人的眼目昏迷。」耶和华就照以利沙的话，使他们的眼目昏迷。",
     Eng:"As the enemy came down toward him, Elisha prayed to the LORD, \"Strike these people with blindness.\" So he struck them with blindness, as Elisha had asked.",
     Ind:"Ketika orang-orang Aram itu turun mendatangi dia, berdoalah Elisa kepada TUHAN: \"Butakanlah kiranya mata orang-orang ini.\" Maka dibutakan-Nyalah mata mereka, sesuai dengan doa Elisa."
@@ -117,37 +117,37 @@ BibleDB.add([
     Ind:"Kemudian berkatalah Elisa kepada mereka: \"Bukan ini jalannya dan bukan ini kotanya. Ikutlah aku, maka aku akan mengantarkan kamu kepada orang yang kamu cari.\" Lalu diantarkannya mereka ke Samaria."
   },
   {Bible:"2Kings", Chapter:6, Verse:20, Page:1,
-    Kor:"○그들이 사마리아에 들어서자, 엘리사가 \"주님, 이들의 눈을 열어서, 보게 해주십시오!\" 하고 기도하였다. 주님께서는 그들의 눈을 열어 주셨다. 그들은 비로소 자기들이 사마리아 한가운데에 있는 것을 알게 되었다.",
+    Kor:"○그들이 사마리아에 들어서자, 엘리사가 \"주님, 이들의 눈을 열어서, 보게 해주십시오!\" 하고 기도하였다. 주께서는 그들의 눈을 열어 주셨다. 그들은 비로소 자기들이 사마리아 한가운데에 있는 것을 알게 되었다.",
     Chn:"他们进了撒马利亚，以利沙祷告说：「耶和华啊，求你开这些人的眼目，使他们能看见。」耶和华开他们的眼目，他们就看见了，不料，是在撒马利亚的城中。",
     Eng:"After they entered the city, Elisha said, \"LORD, open the eyes of these men so they can see.\" Then the LORD opened their eyes and they looked, and there they were, inside Samaria.",
     Ind:"Segera sesudah mereka sampai ke Samaria berkatalah Elisa: \"Ya TUHAN, bukalah mata orang-orang ini, supaya mereka melihat.\" Lalu TUHAN membuka mata mereka, sehingga mereka melihat, dan heran, mereka ada di tengah-tengah Samaria."
   },
   {Bible:"2Kings", Chapter:6, Verse:21, Page:1,
-    Kor:"이스라엘 왕이 그들을 보고 엘리사에게 말하였다. \"이스라엘의 아버지께서는 말씀해 주십시오. 그들이 눈을 뜨고 보게 되면, 쳐서 없애 버려도 됩니까?\"",
+    Kor:"이스라엘 왕이 엘리사에게 말하였다. \"이스라엘의 아버지께서는 말씀해 주십시오. 그들이 눈을 뜨고 보게 되면, 쳐서 없애 버려도 됩니까?\"",
     Chn:"以色列王见了他们，就问以利沙说：「我父啊，我可以击杀他们吗？」",
     Eng:"When the king of Israel saw them, he asked Elisha, \"Shall I kill them, my father? Shall I kill them?\"",
     Ind:"Lalu bertanyalah raja Israel kepada Elisa, tatkala melihat mereka: \"Kubunuhkah mereka, bapak?\""
   },
   {Bible:"2Kings", Chapter:6, Verse:22, Page:1,
-    Kor:"엘리사가 말하였다. \"쳐서는 안 됩니다. 그들을 칼과 활을 가지고 사로잡았습니까? 어찌 임금님께서 그들을 쳐죽이시겠습니까? 차라리 밥과 물을 대접하셔서, 그들이 먹고 마시게 한 다음에, 그들의 상전에게 돌려보내시는 편이 좋겠습니다.\"",
+    Kor:"엘리사가 말하였다. \"쳐서는 안 됩니다. 그들을 칼과 활을 가지고 사로잡았습니까? 어찌 임금님께서 그들을 쳐죽이시겠습니까? 차라리 밥과 물을 대접하셔서, 그들이 먹고 마시게 한 다음에, 그들의 주인에게 돌려보내시는 편이 좋겠습니다.\"",
     Chn:"回答说：「不可击杀他们！就是你用刀用弓掳来的，岂可击杀他们吗？当在他们面前设摆饮食，使他们吃喝回到他们的主人那里。」",
     Eng:"\"Do not kill them,\" he answered. \"Would you kill men you have captured with your own sword or bow? Set food and water before them so that they may eat and drink and then go back to their master.\"",
     Ind:"Tetapi jawabnya: \"Jangan! Biasakah kaubunuh yang kautawan dengan pedangmu dan dengan panahmu? Tetapi hidangkanlah makanan dan minuman di depan mereka, supaya mereka makan dan minum, lalu pulang kepada tuan mereka.\""
   },
   {Bible:"2Kings", Chapter:6, Verse:23, Page:1,
-    Kor:"그리하여 왕이 큰 잔치를 베풀어서 그들에게 먹고 마시게 한 다음에 그들을 보내니, 그들이 자기들의 상전에게로 돌아갔다. 그로부터 시리아의 무리들이 다시는 이스라엘 땅을 침략하지 못하였다.",
+    Kor:"그리하여 왕이 큰 잔치를 베풀어서, 그들에게 먹고 마시게 한 다음에, 그들을 보내니, 그들이 자기들의 상전에게로 돌아갔다. 그로부터 시리아의 무리들이 다시는 이스라엘 땅을 침략하지 못하였다.",
     Chn:"王就为他们预备了许多食物；他们吃喝完了，打发他们回到他们主人那里。从此，亚兰军不再犯以色列境了。",
     Eng:"So he prepared a great feast for them, and after they had finished eating and drinking, he sent them away, and they returned to their master. So the bands from Aram stopped raiding Israel's territory.",
     Ind:"Disediakannyalah bagi mereka jamuan yang besar, maka makan dan minumlah mereka. Sesudah itu dibiarkannyalah mereka pulang kepada tuan mereka. Sejak itu tidak ada lagi gerombolan-gerombolan Aram memasuki negeri Israel."
   },
   {Bible:"2Kings", Chapter:6, Verse:24, Page:1,
-    Kor:"<포위된 사마리아에 기근이 들다> ○그러나 그런 일이 있은 지 얼마 뒤에, 시리아 왕 벤하닷이 또다시 전군을 소집하여 올라와서, 사마리아를 포위하였다.",
+    Kor:"○그러나 그런 일이 있은 지 얼마 뒤에, 시리아 왕 벤하닷이 또다시 전군을 소집하여 올라와서, 사마리아를 포위하였다.",
     Chn:"此后，亚兰王便·哈达聚集他的全军，上来围困撒马利亚。",
     Eng:"Some time later, Ben-Hadad king of Aram mobilized his entire army and marched up and laid siege to Samaria.",
     Ind:"Sesudah itu Benhadad, raja Aram, menghimpunkan seluruh tentaranya, lalu maju mengepung Samaria."
   },
   {Bible:"2Kings", Chapter:6, Verse:25, Page:1,
-    Kor:"그들이 성을 포위하니, 사마리아 성 안에는 먹거리가 떨어졌다. 그래서 나귀 머리 하나가 은 팔십 세겔에 거래되고, 비둘기 똥 사분의 일 갑이 은 다섯 세겔에 거래되는 형편이었다.",
+    Kor:"그들이 성을 포위하니, 사마리아 성 안에는 먹을거리가 떨어졌다. 그래서 나귀 머리 하나가 은 팔십 세겔에 거래되고, 비둘기 똥 사분의 일 갑이 은 다섯 세겔에 거래되는 형편이었다.",
     Chn:"于是撒马利亚被围困，有饥荒，甚至一个驴头值银八十舍客勒，二升鸽子粪值银五舍客勒。",
     Eng:"There was a great famine in the city; the siege lasted so long that a donkey's head sold for eighty shekels of silver, and a quarter of a cab of seed pods for five shekels.",
     Ind:"Maka terjadilah kelaparan hebat di Samaria selama mereka mengepungnya, sehingga sebuah kepala keledai berharga delapan puluh syikal perak dan seperempat kab tahi merpati berharga lima syikal perak."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"Suatu kali ketika raja Israel berjalan di atas tembok, datanglah seorang perempuan mengadukan halnya kepada raja, sambil berseru: \"Tolonglah, ya tuanku raja!\""
   },
   {Bible:"2Kings", Chapter:6, Verse:27, Page:1,
-    Kor:"왕이 대답하였다. \"주님께서 돕지 않으시는데, 내가 어찌 부인을 도울 수가 있겠소? 내가 어찌 타작 마당에서 곡식을 가져다 줄 수가 있겠소, 포도주 틀에서 술을 가져다 줄 수가 있겠소?",
+    Kor:"왕이 대답하였다. \"주께서 돕지 않으시는데, 내가 어찌 너를 도울 수가 있겠느냐? 타작 마당에서 곡식을 가져다 줄 수가 있겠느냐, 포도주 틀에서 술을 가져다 줄 수가 있겠느냐?",
     Chn:"王说：「耶和华不帮助你，我从何处帮助你？是从禾场，是从酒榨呢？」",
     Eng:"The king replied, \"If the LORD does not help you, where can I get help for you? From the threshing floor? From the winepress?\"",
     Ind:"Jawabnya: \"Jika TUHAN tidak menolong engkau, dengan apakah aku dapat menolong engkau? Dengan hasil pengirikankah atau hasil pemerasan anggur?\""
   },
   {Bible:"2Kings", Chapter:6, Verse:28, Page:1,
-    Kor:"도대체 무슨 일로 그러오?\" 그 여자가 말하였다. \"며칠 전에 이 여자가 저에게 말하기를 '네 아들을 내놓아라. 오늘은 네 아들을 잡아서 같이 먹고, 내일은 내 아들을 잡아서 같이 먹도록 하자' 하였습니다.",
+    Kor:"도대체 무슨 일로 그러느냐?\" 그 여자가 말하였다. \"며칠 전에 이 여자가 저에게 말하기를 '네 아들을 내놓아라. 오늘은 네 아들을 잡아서 같이 먹고, 내일은 내 아들을 잡아서 같이 먹도록 하자' 하였습니다.",
     Chn:"王问妇人说：「你有什么苦处？」她回答说：「这妇人对我说：『将你的儿子取来，我们今日可以吃，明日可以吃我的儿子。』",
     Eng:"Then he asked her, \"What's the matter?\" She answered, \"This woman said to me, 'Give up your son so we may eat him today, and tomorrow we'll eat my son.'",
     Ind:"Kemudian bertanyalah raja kepadanya: \"Ada apa?\" Jawab perempuan itu: \"Perempuan ini berkata kepadaku: Berilah anakmu laki-laki, supaya kita makan dia pada hari ini, dan besok akan kita makan anakku laki-laki."
   },
   {Bible:"2Kings", Chapter:6, Verse:29, Page:1,
-    Kor:"그래서 우리는 우선 제 아들을 삶아서, 같이 먹었습니다. 다음날 제가 이 여자에게 '네 아들을 내놓아라. 우리가 잡아서 같이 먹도록 하자' 하였더니, 이 여자가 자기 아들을 숨기고 내놓지 않습니다.\"",
+    Kor:"그래서 우리는 우선 저의 아들을 삶아서, 같이 먹었습니다. 다음날 제가 이 여자에게 '네 아들을 내놓아라. 우리가 잡아서 같이 먹도록 하자' 하였더니, 이 여자가 자기 아들을 숨기고 내놓지 않습니다.\"",
     Chn:"我们就煮了我的儿子吃了。次日我对她说：『要将你的儿子取来，我们可以吃。』她却将她的儿子藏起来了。」",
     Eng:"So we cooked my son and ate him. The next day I said to her, 'Give up your son so we may eat him,' but she had hidden him.\"",
     Ind:"Jadi kami memasak anakku dan memakan dia. Tetapi ketika aku berkata kepadanya pada hari berikutnya: Berilah anakmu, supaya kita makan dia, maka perempuan ini menyembunyikan anaknya.\""
@@ -195,7 +195,7 @@ BibleDB.add([
     Ind:"Adapun Elisa, duduk-duduk di rumahnya, dan para tua-tua duduk bersama-sama dia. Raja menyuruh seorang berjalan mendahuluinya, tetapi sebelum suruhan itu sampai kepada Elisa, Elisa sudah berkata kepada para tua-tua itu: \"Tahukah kamu, bahwa si pembunuh itu menyuruh orang untuk memenggal kepalaku? Awas-awaslah, apabila suruhan itu datang, segeralah tutup pintu dan tahanlah dia supaya orang itu jangan masuk. Bukankah sudah kedengaran bunyi langkah tuannya di belakangnya?\""
   },
   {Bible:"2Kings", Chapter:6, Verse:33, Page:1,
-    Kor:"엘리사가 원로들과 함께 말하고 있는 동안에, 왕이 엘리사에게 와서 말하였다. \"우리가 받은 이 모든 재앙을 보시오. 이런 재앙이 주님께로부터 왔는데, 내가 어찌 주님께서 우리를 도와주시기를 기다리겠소?\"",
+    Kor:"엘리사가 원로들과 함께 말하고 있는 동안에, 왕이 엘리사에게 와서 말하였다. \"우리가 받은 이 모든 재앙을 보아라. 이런 재앙이 주님께로부터 왔는데, 내가 어찌 주께서 우리를 도와주시기를 기다리겠느냐?\"",
     Chn:"正说话的时候，使者来到，王也到了，说：「这灾祸是从耶和华那里来的，我何必再仰望耶和华呢？」",
     Eng:"While he was still talking to them, the messenger came down to him. And the king said, \"This disaster is from the LORD. Why should I wait for the LORD any longer?\"",
     Ind:"Selagi ia berbicara dengan mereka, datanglah raja mendapatkan dia. Berkatalah raja kepadanya: \"Sesungguhnya, malapetaka ini adalah dari pada TUHAN. Mengapakah aku berharap kepada TUHAN lagi?\""

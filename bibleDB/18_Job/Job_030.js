@@ -3,7 +3,7 @@
 BibleDB.ref("Job",30,31);
 BibleDB.add([
   {Bible:"Job", Chapter:30, Verse:1, Page:1,
-    Kor:"<제 30 장> 그런데 이제는 나보다 어린 것들까지 나를 조롱하는구나. 내 양 떼를 지키는 개들 축에도 끼지 못하는 쓸모가 없는 자들의 자식들까지 나를 조롱한다.",
+    Kor:"그런데 이제는 나보다 어린 것들까지 나를 조롱하는구나. 내 양 떼를 지키는 개들 축에도 끼지 못하는 쓸모가 없는 자들의 자식들까지 나를 조롱한다.",
     Chn:"但如今，比我年少的人戏笑我； 其人之父我曾藐视， 不肯安在看守我羊群的狗中。",
     Eng:"\"But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.",
     Ind:"\"Tetapi sekarang aku ditertawakan mereka, yang umurnya lebih muda dari padaku, yang ayah-ayahnya kupandang terlalu hina untuk ditempatkan bersama-sama dengan anjing penjaga kambing dombaku."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Lagipula, apakah gunanya bagiku kekuatan tangan mereka? Mereka sudah kehabisan tenaga,"
   },
   {Bible:"Job", Chapter:30, Verse:3, Page:1,
-    Kor:"그들은 가난과 굶주림에 허덕여서 몰골이 흉하며, 메마른 땅과 황무지에서 a풀뿌리나 씹으며, (a 또는 '방랑하며')",
+    Kor:"그들은 가난과 굶주림에 허덕여서 몰골이 흉하며, 메마른 땅과 황무지에서 풀뿌리나 씹으며,",
     Chn:"他们因穷乏饥饿，身体枯瘦， 在荒废凄凉的幽暗中啃干燥之地，",
     Eng:"Haggard from want and hunger, they roamed the parched land in desolate wastelands at night.",
     Ind:"mereka merana karena kekurangan dan kelaparan, mengerumit tanah yang kering, belukar di gurun dan padang belantara;"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Di sebelah kananku muncul gerombolan, dikaitnya kakiku, dan dirintisnya jalan kebinasaan terhadap aku;"
   },
   {Bible:"Job", Chapter:30, Verse:13, Page:1,
-    Kor:"그들은 내가 도망 가는 길마저 막아 버렸다. b그들이 나를 파멸시키려고 하는데도, 그들을 막을 사람이 아무도 없다. (b 또는 '아무도 그들을 도와주지 않았는데도 그들은 나를 파멸시키는 데 성공하였다')",
+    Kor:"그들은, 내가 도망 가는 길마저 막아 버렸다. 그들이 나를 파멸시키려고 하는데도, 그들을 막을 사람이 아무도 없다.",
     Chn:"这些无人帮助的， 毁坏我的道，加增我的灾。",
     Eng:"They break up my road; they succeed in destroying me--without anyone's helping them.",
     Ind:"mereka membongkar jalanku dan mengusahakan kejatuhanku; tidak ada yang menghalang-halangi mereka."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Pada waktu malam tulang-tulangku seperti digerogoti, dan rasa nyeri yang menusuk tak kunjung berhenti."
   },
   {Bible:"Job", Chapter:30, Verse:18, Page:1,
-    Kor:"하나님이 그 거센 힘으로 c내 옷을 거세게 잡아당기셔서, 나를 옷깃처럼 휘어감으신다. (c 칠십인역을 따름. 히, '나에게 옷과 같이 되시어서')",
+    Kor:"하나님이 그 거센 힘으로 내 옷을 거세게 잡아당기셔서, 나를 옷깃처럼 휘어감으신다.",
     Chn:"因　神的大力，我的外衣污秽不堪， 又如里衣的领子将我缠住。",
     Eng:"In his great power God becomes like clothing to me; he binds me like the neck of my garment.",
     Ind:"Oleh kekerasan yang tak terlawan koyaklah pakaianku dan menggelambir sekelilingku seperti kemeja."
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Engkau menjadi kejam terhadap aku, Engkau memusuhi aku dengan kekuatan tangan-Mu."
   },
   {Bible:"Job", Chapter:30, Verse:22, Page:1,
-    Kor:"나를 들어올려서 바람에 날리게 하시며, 태풍에 휩쓸려서 흔적도 없이 사라지게 하십니다.",
+    Kor:"나를 들어올려서 바람에 불려가게 하시며, 태풍에 휩쓸려서 흔적도 없이 사라지게 하십니다.",
     Chn:"把我提在风中，使我驾风而行， 又使我消灭在烈风中。",
     Eng:"You snatch me up and drive me before the wind; you toss me about in the storm.",
     Ind:"Engkau mengangkat aku ke atas angin, melayangkan aku dan menghancurkan aku di dalam angin ribut."

@@ -3,19 +3,19 @@
 BibleDB.ref("Deuteronomy",33,29);
 BibleDB.add([
   {Bible:"Deuteronomy", Chapter:33, Verse:1, Page:1,
-    Kor:"<모세의 축복> 하나님의 사람 모세는 죽기 전에, 이스라엘 자손에게 다음과 같이 복을 빌어 주었다.",
+    Kor:"하나님의 사람 모세는 죽기 전에, 이스라엘 자손에게 다음과 같이 복을 빌어 주었다.",
     Chn:"以下是神人摩西在未死之先为以色列人所祝的福：",
     Eng:"This is the blessing that Moses the man of God pronounced on the Israelites before his death.",
     Ind:"Inilah berkat yang diberikan Musa, abdi Allah itu, kepada orang Israel sebelum ia mati."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:2, Page:1,
-    Kor:"주님께서 시내 산에서 오시고, 세일 산에서 해처럼 떠오르시고, 바란 산에서부터 당신의 백성을 비추신다. 수많은 천사들이 그를 옹위하고, 오른손에는 활활 타는 불을 들고 계신다.",
+    Kor:"주께서 시내 산에서 오시고, 세일 산에서 해처럼 떠오르시고, 바란 산에서부터 당신의 백성을 비추신다. 수많은 천사들이 그를 옹위하고, 오른손에는 활활 타는 불을 들고 계신다.",
     Chn:"他说：耶和华从西奈而来， 从西珥向他们显现， 从巴兰山发出光辉， 从万万圣者中来临， 从他右手为百姓传出烈火的律法。",
     Eng:"He said: \"The LORD came from Sinai and dawned over them from Seir; he shone forth from Mount Paran. He came with myriads of holy ones from the south, from his mountain slopes.",
     Ind:"Berkatalah ia: \"TUHAN datang dari Sinai dan terbit kepada mereka dari Seir; Ia tampak bersinar dari pegunungan Paran dan datang dari tengah-tengah puluhan ribu orang yang kudus; di sebelah kanan-Nya tampak kepada mereka api yang menyala."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:3, Page:1,
-    Kor:"주님께서 a뭇 백성을 사랑하시고, 그에게 속한 모든 성도를 보호하신다. 그러므로 우리가 주님의 발 아래에 무릎을 꿇고, 주님의 말씀에 귀를 기울인다. (a 또는 '그의 백성')",
+    Kor:"주께서 뭇 백성을 사랑하시고, 그에게 속한 모든 성도를 보호하신다. 그러므로 우리가 주의 발 아래에 무릎을 꿇고, 주의 말씀에 귀를 기울인다.",
     Chn:"他疼爱百姓； 众圣徒都在他手中。 他们坐在他的脚下， 领受他的言语。",
     Eng:"Surely it is you who love the people; all the holy ones are in your hand. At your feet they all bow down, and from you receive instruction,",
     Ind:"Sungguh Ia mengasihi umat-Nya; semua orang-Nya yang kudus--di dalam tangan-Mulah mereka, pada kaki-Mulah mereka duduk, menangkap sesuatu dari firman-Mu."
@@ -27,37 +27,37 @@ BibleDB.add([
     Ind:"Musa telah memerintahkan hukum Taurat kepada kita, suatu milik bagi jemaah Yakub."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:5, Page:1,
-    Kor:"연합한 지파들이 모이고, 백성의 지도자들이 모인 가운데서, 주님께서 이스라엘의 왕이 되셨다.",
+    Kor:"연합한 지파들이 모이고, 백성의 지도자들이 모인 가운데서, 주께서 이스라엘의 왕이 되셨다.",
     Chn:"百姓的众首领， 以色列的各支派， 一同聚会的时候， 耶和华在耶书 中为王。",
     Eng:"He was king over Jeshurun when the leaders of the people assembled, along with the tribes of Israel.",
     Ind:"Ia menjadi raja di Yesyurun, ketika kepala-kepala bangsa datang berkumpul, yakni segala suku Israel bersama-sama."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:6, Page:1,
-    Kor:"b\"르우벤은 비록 그 수는 적으나, 잘 살게 하여 주십시오, 절대로 망하지 않게 하여 주십시오.\" (b 모세가 르우벤 지파를 두고 하는 말)",
+    Kor:"\"르우벤은 비록 그 수는 적으나, 잘 살게 하여 주십시오, 절대로 망하지 않게 하여 주십시오.\"",
     Chn:"愿吕便存活，不致死亡； 愿他人数不致稀少。",
     Eng:"\"Let Reuben live and not die, nor his men be few.\"",
     Ind:"Biarlah Ruben hidup dan jangan mati, tetapi biarlah orang-orangnya sedikit jumlahnya.\""
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:7, Page:1,
-    Kor:"그가 유다를 두고서 이렇게 말하였다. \"주님, 유다가 살려 달라고 부르짖을 때에 들어 주십시오. 유다 지파가 다른 지파들과 다시 하나가 되게 하여 주십시오. c주님, 유다를 대신하여 싸워 주십시오. 그들의 원수를 치시어 그들을 도와 주십시오.\" (c 히, '유다가 그 손으로 자기를 위하여 싸우게 하시고 주님께서 도우사 그로 그 대적을 치게 하시기를 원합니다')",
+    Kor:"그가 유다를 두고서 이렇게 말하였다. \"주님, 유다가 살려 달라고 부르짖을 때에 들어주십시오. 유다 지파가 다른 지파들과 다시 하나가 되게 하여 주십시오. 주님, 유다를 대신하여 싸워 주십시오. 그들의 원수를 치시어 그들을 도와주십시오.\"",
     Chn:"为犹大祝福说： 求耶和华俯听犹大的声音， 引导他归于本族； 他曾用手为自己争战， 你必帮助他攻击敌人。",
     Eng:"And this he said about Judah: \"Hear, O LORD, the cry of Judah; bring him to his people. With his own hands he defends his cause. Oh, be his help against his foes!\"",
     Ind:"Dan inilah tentang Yehuda. Katanya: \"Dengarlah, ya TUHAN, suara Yehuda dan bawalah dia kepada bangsanya. Berjuanglah baginya dengan tangan-Mu, dan jadilah Engkau penolongnya melawan musuhnya.\""
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:8, Page:1,
-    Kor:"레위 지파를 두고서, 그는 이렇게 말하였다. \"레위에게 주님의 d둠밈을 주십시오. 주님의 경건한 사람에게 d우림을 주십시오. 주님께서 이미 그를 맛사에서 시험하시고, 므리바 물가에서 그와 다투셨습니다. (d 제사장들이 하나님의 뜻을 여쭐 때 사용한 것임. 그 사용 방법은 알려져 있지 않음)",
+    Kor:"레위 지파를 두고서, 그는 이렇게 말하였다. \"레위에게 주의 둠밈을 주십시오. 주의 경건한 사람에게 우림을 주십시오. 주께서 이미 그를 맛사에서 시험하시고, 므리바 물가에서 그와 다투셨습니다.",
     Chn:"论利未说： 耶和华啊，你的土明和乌陵 都在你的虔诚人那里。 你在玛撒曾试验他， 在米利巴水与他争论。",
     Eng:"About Levi he said: \"Your Thummim and Urim belong to the man you favored. You tested him at Massah; you contended with him at the waters of Meribah.",
     Ind:"Tentang Lewi ia berkata: \"Biarlah Tumim dan Urim-Mu menjadi kepunyaan orang yang Kaukasihi, yang telah Kaucoba di Masa, dengan siapa Engkau berbantah dekat mata air Meriba;"
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:9, Page:1,
-    Kor:"그는 자기의 부모를 보고서도 '그들을 모른다'고 하였고 형제자매를 외면하고, 자식마다 모르는 체하면서, 주님의 계명에 순종하였으며, 주님의 언약을 성실하게 지켰습니다.",
+    Kor:"그는 자기의 부모를 보고서도 '그들을 모른다'고 하였고 형제자매를 외면하고, 자식마다 모르는 체하면서, 주의 계명에 순종하였으며, 주의 언약을 성실하게 지켰습니다.",
     Chn:"他论自己的父母说： 我未曾看见； 他也不承认弟兄， 也不认识自己的儿女。 这是因利未人遵行你的话， 谨守你的约。",
     Eng:"He said of his father and mother, 'I have no regard for them.' He did not recognize his brothers or acknowledge his own children, but he watched over your word and guarded your covenant.",
     Ind:"yang berkata tentang ayahnya dan tentang ibunya: aku tidak mengindahkan mereka; ia yang tidak mau kenal saudara-saudaranya dan acuh tak acuh terhadap anak-anaknya. Sebab orang-orang Lewi itu berpegang pada firman-Mu dan menjaga perjanjian-Mu;"
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:10, Page:1,
-    Kor:"그들은 주님의 백성 야곱에게 주님의 바른 길을 가르치며, 이스라엘에게 주님의 율법을 가르치며, 주님 앞에 향을 피워 올리고, 주님의 제단에 번제 드리는 일을 계속 하고 있습니다.",
+    Kor:"그들은 주의 백성 야곱에게 주의 바른길을 가르치며, 이스라엘에게 주의 율법을 가르치며, 주 앞에 향을 피워 올리고, 주의 제단에 번제 드리는 일을 계속 하고 있습니다.",
     Chn:"他们要将你的典章教训雅各， 将你的律法教训以色列。 他们要把香焚在你面前， 把全牲的燔祭献在你的坛上。",
     Eng:"He teaches your precepts to Jacob and your law to Israel. He offers incense before you and whole burnt offerings on your altar.",
     Ind:"mereka mengajarkan peraturan-peraturan-Mu kepada Yakub, hukum-Mu kepada Israel; mereka menaruh ukupan wangi-wangian di depan-Mu dan korban yang terbakar seluruhnya di atas mezbah-Mu."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Berkatilah, ya TUHAN, kekuatannya dan berkenanlah kepada pekerjaannya. Remukkanlah pinggang orang yang melawan dia dan yang membenci dia, sehingga mereka tidak dapat bangkit.\""
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:12, Page:1,
-    Kor:"베냐민 지파를 두고서, 그는 이렇게 말하였다. \"주님께서 사랑하시는 베냐민은 주님의 곁에서 안전하게 산다. 주님께서 베냐민을 온종일 지켜 주신다. 베냐민은 주님의 등에 업혀서 산다.\"",
+    Kor:"베냐민 지파를 두고서, 그는 이렇게 말하였다. \"주께서 사랑하시는 베냐민은 주의 곁에서 안전하게 산다. 주께서 베냐민을 온종일 지켜 주신다. 베냐민은 주의 등에 업혀서 산다.\"",
     Chn:"论便雅悯说： 耶和华所亲爱的必同耶和华安然居住； 耶和华终日遮蔽他，也住在他两肩之中。",
     Eng:"About Benjamin he said: \"Let the beloved of the LORD rest secure in him, for he shields him all day long, and the one the LORD loves rests between his shoulders.\"",
     Ind:"Tentang Benyamin ia berkata: \"Kekasih TUHAN yang diam pada-Nya dengan tenteram! TUHAN melindungi dia setiap waktu dan diam di antara lereng-lereng gunungnya.\""
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:13, Page:1,
-    Kor:"요셉 지파를 두고서, 그는 이렇게 말하였다. \"주님께서 그들의 땅에 복을 내리실 것이다. 위에서는 하늘의 보물 이슬이 내리고, 아래에서는 지하의 샘물이 솟아오른다.",
+    Kor:"요셉 지파를 두고서, 그는 이렇게 말하였다. \"주께서 그들의 땅에 복을 내리실 것이다. 위에서는 하늘의 보물 이슬이 내리고, 아래에서는 지하의 샘물이 솟아오른다.",
     Chn:"论约瑟说： 愿他的地蒙耶和华赐福， 得天上的宝物、甘露， 以及地里所藏的泉水；",
     Eng:"About Joseph he said: \"May the LORD bless his land with the precious dew from heaven above and with the deep waters that lie below;",
     Ind:"Tentang Yusuf ia berkata: \"Kiranya negerinya diberkati oleh TUHAN dengan yang terbaik dari langit, dengan air embun, dan dengan air samudera raya yang ada di bawah;"
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"dengan yang terutama dari gunung-gunung yang sejak dahulu, dan dengan yang terbaik dari bukit-bukit yang berabad-abad,"
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:16, Page:1,
-    Kor:"불타는 떨기나무 가운데서 말씀하시는 주님, 선하신 주님께서 그들의 땅에 복을 베푸시니, 그 땅이 온갖 좋은 산물로 가득할 것이다. 요셉이 그 형제 가운데 지도자였으니 이런 복을 요셉 지파가 받을 것이다.",
+    Kor:"불타는 떨기나무 가운데서 말씀하시는 주, 선하신 주께서 그들의 땅에 복을 베푸시니, 그 땅이 온갖 좋은 산물로 가득할 것이다. 요셉이 그 형제 가운데 지도자였으니 이런 복을 요셉 지파가 받을 것이다.",
     Chn:"得地和其中所充满的宝物， 并住荆棘中上主的喜悦。 愿这些福都归于约瑟的头上， 归于那与弟兄迥别之人的顶上。",
     Eng:"with the best gifts of the earth and its fullness and the favor of him who dwelt in the burning bush. Let all these rest on the head of Joseph, on the brow of the prince among his brothers.",
     Ind:"dan dengan yang terbaik dari bumi serta segala isinya; dengan perkenanan Dia yang diam dalam semak duri. Biarlah itu semuanya turun ke atas kepala Yusuf, ke atas batu kepala orang yang teristimewa di antara saudara-saudaranya."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:17, Page:1,
-    Kor:"그들은 e첫 수송아지와 같은 힘으로, 황소의 뿔과 같은 위력으로, 그 뿔로 만방을 들이받아 땅 끝까지 휩쓸 것이니, 에브라임의 자손은 만만이요, 므낫세의 자손은 천천이다.\" (e 사해 사본과 칠십인역과 시리아어역과 불가타를 따름. 히, '그의 첫 수송아지')",
+    Kor:"그들은 첫 수송아지와 같은 힘으로, 황소의 뿔과 같은 위력으로, 그 뿔로 만방을 들이받아 땅 끝까지 휩쓸 것이니, 에브라임의 자손은 만만이요, 므낫세의 자손은 천천이다.\"",
     Chn:"他为牛群中头生的，有威严； 他的角是野牛的角， 用以抵触万邦，直到地极。 这角是以法莲的万万， 玛拿西的千千。",
     Eng:"In majesty he is like a firstborn bull; his horns are the horns of a wild ox. With them he will gore the nations, even those at the ends of the earth. Such are the ten thousands of Ephraim; such are the thousands of Manasseh.\"",
     Ind:"Anak sulung lembu sapinya adalah kegemilangannya dan tanduk-tanduknya seperti tanduk-tanduk lembu hutan; dengan itu ia akan menanduk bangsa-bangsa, seluruh bumi, dari ujung ke ujung. Itulah orang Efraim yang puluhan ribu, dan itulah orang Manasye yang ribuan.\""
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Tentang Gad ia berkata: \"Terpujilah Dia yang memberi kelapangan kepada Gad. Seperti singa betina ia diam dan menerkam lengan, bahkan batu kepala."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:21, Page:1,
-    Kor:"그들은 가장 좋은 땅을 차지하였다. 한 지도자의 몫이 그들에게 배정되었다. 이스라엘의 지도자들이 함께 모였을 때에, 그들은 주님의 공의를 지키고 율법에 복종하였다.\"",
+    Kor:"그들은 가장 좋은 땅을 차지하였다. 한 지도자의 몫이 그들에게 배정되었다. 이스라엘의 지도자들이 함께 모였을 때에, 그들은 주의 계명을 지키고 율법에 복종하였다.\"",
     Chn:"他为自己选择头一段地， 因在那里有设立律法者的分存留。 他与百姓的首领同来； 他施行耶和华的公义 和耶和华与以色列所立的典章。",
     Eng:"He chose the best land for himself; the leader's portion was kept for him. When the heads of the people assembled, he carried out the LORD'S righteous will, and his judgments concerning Israel.\"",
     Ind:"Ia memilih bagian yang terutama, sebab di sanalah tersimpan bagian panglima; ia datang kepada para kepala bangsa itu; dilakukannya kebenaran TUHAN serta penghukuman-penghukuman-Nya bersama-sama dengan orang Israel.\""
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tentang Dan ia berkata: \"Adapun Dan ialah anak singa yang melompat keluar dari Basan.\""
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:23, Page:1,
-    Kor:"납달리 지파를 두고서, 그는 이렇게 말하였다. \"은혜를 풍성히 받은 납달리야, 주님께서 주시는 복을 가득 받은 납달리야! 너희는 f서쪽과 남쪽을 차지하고 살아라.\" (f 갈릴리 바다의 서쪽과 남쪽)",
+    Kor:"납달리 지파를 두고서, 그는 이렇게 말하였다. \"은혜를 풍성히 받은 납달리야, 주께서 주시는 복을 가득 받은 납달리야! 너희는 서쪽과 남쪽을 차지하고 살아라.\"",
     Chn:"论拿弗他利说： 拿弗他利啊，你足沾恩惠， 满得耶和华的福， 可以得西方和南方为业。",
     Eng:"About Naphtali he said: \"Naphtali is abounding with the favor of the LORD and is full of his blessing; he will inherit southward to the lake.\"",
     Ind:"Tentang Naftali ia berkata: \"Naftali kenyang dengan perkenanan dan penuh dengan berkat TUHAN; milikilah tasik dan wilayah sebelah selatan.\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Biarlah dari besi dan dari tembaga palang pintumu, selama umurmu kiranya kekuatanmu."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:26, Page:1,
-    Kor:"\"이스라엘 백성아, 너희의 하나님과 같은 신은 달리 없다. 하나님이 너희를 도우시려고, 하늘에서 구름을 타시고 위엄 있게 오신다.",
+    Kor:"이스라엘 백성아, 너희의 하나님과 같은 신은 달리 없다. 하나님이 너희를 도우시려고, 하늘에서 구름을 타시고 위엄 있게 오신다.",
     Chn:"耶书 哪，没有能比　神的。 他为帮助你，乘在天空， 显其威荣，驾行穹苍。",
     Eng:"\"There is no one like the God of Jeshurun, who rides on the heavens to help you and on the clouds in his majesty.",
     Ind:"Tidak ada yang seperti Allah, hai Yesyurun. Ia berkendaraan melintasi langit sebagai penolongmu dan dalam kejayaan-Nya melintasi awan-awan."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Maka Israel diam dengan tenteram dan sumber Yakub diam tidak terganggu di dalam suatu negeri yang ada gandum dan anggur; bahkan langitnya menitikkan embun."
   },
   {Bible:"Deuteronomy", Chapter:33, Verse:29, Page:1,
-    Kor:"이스라엘아, 너희는 복을 받았다. 주님께 구원을 받은 백성 가운데서 어느 누가 또 너희와 같겠느냐? 그분은 너희의 방패이시요, 너희를 돕는 분이시며, 너희의 영광스런 칼이시다. 너희의 원수가 너희 앞에 와서 자비를 간구하나, 너희는 그들의 등을 짓밟는다.\"",
+    Kor:"이스라엘아, 너희는 복을 받았다. 주께 구원을 받은 백성 가운데서 어느 누가 또 너희와 같겠느냐? 그분은 너희의 방패이시요, 너희를 돕는 분이시며, 너희의 영광스런 칼이시다. 너희의 원수가 너희 앞에 와서 자비를 간구하나, 너희는 그들의 등을 짓밟는다.",
     Chn:"以色列啊，你是有福的！ 谁像你这蒙耶和华所拯救的百姓呢？ 他是你的盾牌，帮助你， 是你威荣的刀剑。 你的仇敌必投降你； 你必踏在他们的高处。",
     Eng:"Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is your shield and helper and your glorious sword. Your enemies will cower before you, and you will trample down their high places.\"",
     Ind:"Berbahagialah engkau, hai Israel; siapakah yang sama dengan engkau? Suatu bangsa yang diselamatkan oleh TUHAN, perisai pertolongan dan pedang kejayaanmu. Sebab itu musuhmu akan tunduk menjilat kepadamu, dan engkau akan berjejak di bukit-bukit mereka.\""

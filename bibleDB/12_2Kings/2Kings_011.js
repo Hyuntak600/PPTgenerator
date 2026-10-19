@@ -3,25 +3,25 @@
 BibleDB.ref("2Kings",11,21);
 BibleDB.add([
   {Bible:"2Kings", Chapter:11, Verse:1, Page:1,
-    Kor:"<유다의 아달랴 여왕(대하 22:10-23:15)> 아하시야의 어머니 아달랴는 아들이 죽는 것을 보자, 왕족을 다 죽이기 시작하였다.",
+    Kor:"아하시야의 어머니 아달랴는 아들이 죽는 것을 보자, 왕족을 다 죽이기 시작하였다.",
     Chn:"亚哈谢的母亲亚她利雅见她儿子死了，就起来剿灭王室。",
     Eng:"When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to destroy the whole royal family.",
     Ind:"Ketika Atalya, ibu Ahazia, melihat bahwa anaknya sudah mati, maka bangkitlah ia membinasakan semua keturunan raja."
   },
   {Bible:"2Kings", Chapter:11, Verse:2, Page:1,
-    Kor:"그러나 왕자들이 살해되는 가운데서도, a여호람 왕의 딸이요 아하시야의 누이인 여호세바가, 아하시야의 아들 요아스를 몰래 빼내어, 유모와 함께 침실에 숨겼다. 이 때에 사람들이, 아달랴가 모르도록 그를 숨겼으므로, 그는 죽음을 면할 수 있었다.(a 히, '요람'. 히브리 이름 '여호람'과 '요람'은 서로 바꾸어 쓸 수 있음)",
+    Kor:"그러나 왕자들이 살해되는 가운데서도, 여호람 왕의 딸이요 아하시야의 누이인 여호세바가, 아하시야의 아들 요아스를 몰래 빼내어, 유모와 함께 침실에 숨겼다. 이 때에 사람들이, 아달랴가 모르도록 그를 숨겼으므로, 그는 죽음을 면할 수 있었다.",
     Chn:"但约兰王的女儿，亚哈谢的妹子约示巴，将亚哈谢的儿子约阿施从那被杀的王子中偷出来，把他和他的乳母都藏在卧房里，躲避亚她利雅，免得被杀。",
     Eng:"But Jehosheba, the daughter of King Jehoram and sister of Ahaziah, took Joash son of Ahaziah and stole him away from among the royal princes, who were about to be murdered. She put him and his nurse in a bedroom to hide him from Athaliah; so he was not killed.",
     Ind:"Tetapi Yoseba, anak perempuan raja Yoram, saudara perempuan Ahazia, mengambil Yoas bin Ahazia, menculik dia dari tengah-tengah anak-anak raja yang hendak dibunuh itu, memasukkan dia dengan inang penyusunya ke dalam gudang tempat tidur, dan menyembunyikan dia terhadap Atalya, sehingga dia tidak dibunuh."
   },
   {Bible:"2Kings", Chapter:11, Verse:3, Page:1,
-    Kor:"요아스는 그의 고모 여호세바와 함께 여섯 해 동안을 주님의 성전에 숨어 지냈으며, 그 동안 나라는 아달랴가 다스렸다.",
+    Kor:"요아스는 그의 고모 여호세바와 함께 여섯 해 동안을 주의 성전에 숨어 지냈으며, 그 동안 나라는 아달랴가 다스렸다.",
     Chn:"约阿施和他的乳母藏在耶和华的殿里六年；亚她利雅篡了国位。",
     Eng:"He remained hidden with his nurse at the temple of the LORD for six years while Athaliah ruled the land.",
     Ind:"Maka tinggallah dia enam tahun lamanya bersama-sama perempuan itu dengan bersembunyi di rumah TUHAN, sementara Atalya memerintah negeri."
   },
   {Bible:"2Kings", Chapter:11, Verse:4, Page:1,
-    Kor:"○일곱째 해가 되자, 여호야다 제사장이 사람을 보내어 가리 사람의 백부장들과 호위병의 백부장들을 불러왔다. 그리고 그들을 주님의 성전에 있는 왕자에게로 데리고 가서, 그들과 더불어 언약을 맺고, 또 주님의 성전에서 맹세를 하게 한 뒤에, 그들에게 왕자를 보여 주었다.",
+    Kor:"○일곱째 해가 되자, 여호야다 제사장이 사람을 보내어 가리 사람의 백부장들과 호위병의 백부장들을 불러왔다. 그리고 그들을 주의 성전에 있는 왕자에게로 데리고 가서, 그들과 더불어 언약을 맺고, 또 주의 성전에서 맹세를 하게 한 뒤에, 그들에게 왕자를 보여 주었다.",
     Chn:"第七年，耶何耶大打发人叫迦利人和护卫兵的众百夫长来，领他们进了耶和华的殿，与他们立约，使他们在耶和华殿里起誓，又将王的儿子指给他们看，",
     Eng:"In the seventh year Jehoiada sent for the commanders of units of a hundred, the Carites and the guards and had them brought to him at the temple of the LORD. He made a covenant with them and put them under oath at the temple of the LORD. Then he showed them the king's son.",
     Ind:"Dalam tahun yang ketujuh Yoyada mengundang para kepala pasukan seratus dari orang Kari dan dari pasukan bentara penunggu. Disuruhnyalah mereka datang kepadanya di rumah TUHAN, lalu diikatnya perjanjian dengan mereka dengan menyuruh mereka bersumpah di rumah TUHAN. Kemudian diperlihatkannyalah anak raja itu kepada mereka."
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"sepertiga lagi ada di pintu gerbang Sur dan sepertiga pula di pintu gerbang di belakang para bentara penunggu--haruslah mengawal di istana;"
   },
   {Bible:"2Kings", Chapter:11, Verse:7, Page:1,
-    Kor:"그리고 안식일 비번은 모두 두 반으로 나누어서, 임금님께서 계신 주님의 성전을 지키도록 하십시오.",
+    Kor:"그리고 안식일 비번은 모두 두 반으로 나누어서, 임금님께서 계신 주의 성전을 지키도록 하십시오.",
     Chn:"你们安息日所有出班的三分之二要在耶和华的殿里护卫王；",
     Eng:"and you who are in the other two companies that normally go off Sabbath duty are all to guard the temple for the king.",
     Ind:"dan kedua regu dari pada kamu, yakni semua orang yang bertugas di sini pada hari Sabat dan mengawal di rumah TUHAN,"
   },
   {Bible:"2Kings", Chapter:11, Verse:8, Page:1,
-    Kor:"각자 무기를 들고 임금님을 호위할 것이며, 누구든지 b대열 안으로 들어오려는 사람은 반드시 죽이고, 임금님께서 나가고 드실 때에는 반드시 경호하도록 하십시오.\"(b 또는 '구역')",
+    Kor:"각자 무기를 들고 임금님을 호위할 것이며, 누구든지 대열 안으로 들어오려는 사람은 반드시 죽이고, 임금님께서 나가고 드실 때에는 반드시 경호하도록 하십시오.\"",
     Chn:"各人手拿兵器，四围护卫王。凡擅入你们班次的必当治死，王出入的时候，你们当跟随他。」",
     Eng:"Station yourselves around the king, each man with his weapon in his hand. Anyone who approaches your ranks must be put to death. Stay close to the king wherever he goes.\"",
     Ind:"haruslah mengelilingi raja dari segala penjuru, masing-masing dengan senjatanya di tangannya, dan siapa yang mendatangi barisan haruslah mati dibunuh. Dan baiklah kamu menyertai raja setiap kali ia keluar atau masuk.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Para kepala pasukan seratus itu melakukan tepat seperti yang diperintahkan imam Yoyada. Masing-masing mengambil orang-orangnya yang selesai bertugas pada hari Sabat bersama-sama dengan orang-orang yang masuk bertugas pada hari itu, lalu datanglah mereka kepada imam Yoyada."
   },
   {Bible:"2Kings", Chapter:11, Verse:10, Page:1,
-    Kor:"제사장이 백부장들에게 창과 방패를 나누어 주었다. 그것은 다윗 왕의 것으로서, 주님의 성전 안에 간직되어 있던 것들이다.",
+    Kor:"제사장이 백부장들에게 창과 방패를 나누어 주었다. 그것은 다윗 왕의 것으로서, 주의 성전 안에 간직되어 있던 것들이다.",
     Chn:"祭司便将耶和华殿里所藏大卫王的枪和盾牌交给百夫长。",
     Eng:"Then he gave the commanders the spears and shields that had belonged to King David and that were in the temple of the LORD.",
     Ind:"Imam memberikan kepada para kepala pasukan seratus itu tombak-tombak dan perisai-perisai kepunyaan raja Daud yang ada di rumah TUHAN."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Sesudah itu Yoyada membawa anak raja itu ke luar, mengenakan jejamang kepadanya dan memberikan hukum Allah kepadanya. Mereka menobatkan dia menjadi raja serta mengurapinya, dan sambil bertepuk tangan berserulah mereka: \"Hiduplah raja!\""
   },
   {Bible:"2Kings", Chapter:11, Verse:13, Page:1,
-    Kor:"○아달랴가 호위병들과 백성의 소리를 듣고, 주님의 성전에 모여 있는 백성에게 가서",
+    Kor:"○아달랴가 호위병들과 백성의 소리를 듣고, 주의 성전에 모여 있는 백성에게 가서",
     Chn:"亚她利雅听见护卫兵和民的声音，就到民那里，进耶和华的殿，",
     Eng:"When Athaliah heard the noise made by the guards and the people, she went to the people at the temple of the LORD.",
     Ind:"Ketika Atalya mendengar suara bentara-bentara penunggu dan rakyat, pergilah ia mendapatkan rakyat itu ke dalam rumah TUHAN."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Lalu dilihatnyalah raja berdiri dekat tiang menurut kebiasaan, sedang para pemimpin dengan para pemegang nafiri ada dekat raja. Dan seluruh rakyat negeri bersukaria sambil meniup nafiri. Maka Atalya mengoyakkan pakaiannya sambil berseru: \"Khianat, khianat!\""
   },
   {Bible:"2Kings", Chapter:11, Verse:15, Page:1,
-    Kor:"○그 때에 여호야다 제사장이 군대를 거느린 백부장들에게 명령을 내렸다. \"저 여자를 b대열 밖으로 끌어내시오. 그리고 저 여자를 따르는 사람은 누구든지 칼로 쳐죽이시오.\" 여호야다가, 주님의 성전에서는 그 여자를 죽이지 말라고 하였으므로,(b 또는 '구역')",
+    Kor:"○그 때에 여호야다 제사장이 군대를 거느린 백부장들에게 명령을 내렸다. \"저 여자를 대열 밖으로 끌어내시오. 그리고 저 여자를 따르는 사람은 누구든지 칼로 쳐죽이시오.\" 여호야다가, 주의 성전에서는 그 여자를 죽이지 말라고 하였으므로,",
     Chn:"祭司耶何耶大吩咐管辖军兵的百夫长说：「将她赶出班外，凡跟随她的必用刀杀死！」因为祭司说「不可在耶和华殿里杀她」，",
     Eng:"Jehoiada the priest ordered the commanders of units of a hundred, who were in charge of the troops: \"Bring her out between the ranks and put to the sword anyone who follows her.\" For the priest had said, \"She must not be put to death in the temple of the LORD.\"",
     Ind:"Tetapi imam Yoyada memerintahkan para kepala pasukan seratus, yakni orang-orang yang mengepalai tentara, katanya kepada mereka: \"Bawalah dia keluar dari barisan! Siapa yang memihak kepadanya bunuhlah dengan pedang!\" Sebab tadinya imam itu telah berkata: \"Janganlah ia dibunuh di rumah TUHAN!\""
@@ -99,19 +99,19 @@ BibleDB.add([
     Ind:"Lalu mereka menangkap perempuan itu. Pada waktu ia masuk ke istana raja dengan melalui pintu bagi kuda, dibunuhlah dia di situ."
   },
   {Bible:"2Kings", Chapter:11, Verse:17, Page:1,
-    Kor:"<여호야다의 개혁(대하 23:16-21)> ○여호야다는, 이스라엘 백성이 주님의 백성이 되는 언약을, 주님과 왕과 백성 사이에 맺게 하고, 동시에 왕과 백성 사이에도 언약을 맺게 하였다.",
+    Kor:"○여호야다는, 이스라엘 백성이 주의 백성이 되는 언약을, 주와 왕과 백성 사이에 맺게 하고, 동시에 왕과 백성 사이에도 언약을 맺게 하였다.",
     Chn:"耶何耶大使王和民与耶和华立约，作耶和华的民；又使王与民立约。",
     Eng:"Jehoiada then made a covenant between the LORD and the king and people that they would be the LORD'S people. He also made a covenant between the king and the people.",
     Ind:"Kemudian Yoyada mengikat perjanjian antara TUHAN dengan raja dan rakyat, bahwa mereka menjadi umat TUHAN; juga antara raja dengan rakyat."
   },
   {Bible:"2Kings", Chapter:11, Verse:18, Page:1,
-    Kor:"그렇게 하고 난 다음에, 그 땅의 온 백성이 바알의 신전으로 몰려가서, 그 신전을 허물고, 제단을 뒤엎고, 신상들을 완전히 부수어 버렸다. 또 그들은 제단 앞에서 바알의 제사장 맛단을 죽였다. ○그리고 여호야다 제사장은 주님의 성전에 경비병들을 세웠다.",
+    Kor:"그렇게 하고 난 다음에, 그 땅의 온 백성이 바알의 신전으로 몰려가서, 그 신전을 허물고, 제단을 뒤엎고, 신상들을 완전히 부수어 버렸다. 또 그들은 제단 앞에서 바알의 제사장 맛단을 죽였다. ○그리고 여호야다 제사장은 주의 성전에 경비병들을 세웠다.",
     Chn:"于是国民都到巴力庙，拆毁了庙，打碎坛和像，又在坛前将巴力的祭司玛坦杀了。祭司耶何耶大派官看守耶和华的殿，",
     Eng:"All the people of the land went to the temple of Baal and tore it down. They smashed the altars and idols to pieces and killed Mattan the priest of Baal in front of the altars. Then Jehoiada the priest posted guards at the temple of the LORD.",
     Ind:"Sesudah itu masuklah seluruh rakyat negeri ke rumah Baal, lalu merobohkannya; mereka memecahkan sama sekali mezbah-mezbahnya dan patung-patung dan membunuh Matan, imam Baal, di depan mezbah-mezbah itu. Kemudian imam Yoyada mengangkat penjaga-penjaga untuk rumah TUHAN."
   },
   {Bible:"2Kings", Chapter:11, Verse:19, Page:1,
-    Kor:"그리고 그는 백부장들과 가리 사람들과 호위병들과 그 땅의 모든 백성을 거느리고, 왕을 인도하여 주님의 성전에서 데리고 나와서, 호위병들이 지키는 문을 지나, 왕궁으로 행진하여 들어갔다. 왕이 왕좌에 오르자,",
+    Kor:"그리고 그는 백부장들과 가리 사람들과 호위병들과 그 땅의 모든 백성을 거느리고, 왕을 인도하여 주의 성전에서 데리고 나와서, 호위병들이 지키는 문을 지나, 왕궁으로 행진하여 들어갔다. 왕이 왕좌에 오르자,",
     Chn:"又率领百夫长和迦利人与护卫兵，以及国中的众民，请王从耶和华殿下来，由护卫兵的门进入王宫，他就坐了王位。",
     Eng:"He took with him the commanders of hundreds, the Carites, the guards and all the people of the land, and together they brought the king down from the temple of the LORD and went into the palace, entering by way of the gate of the guards. The king then took his place on the royal throne,",
     Ind:"Sesudah itu ia mengajak para kepala pasukan seratus orang-orang Kari dan para bentara penunggu dan seluruh rakyat negeri, lalu mereka membawa raja turun dari rumah TUHAN; mereka masuk ke istana raja melalui pintu gerbang para bentara; kemudian duduklah raja di atas takhta kerajaan."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Bersukarialah seluruh rakyat negeri dan amanlah kota itu, setelah Atalya mati dibunuh dengan pedang di istana raja."
   },
   {Bible:"2Kings", Chapter:11, Verse:21, Page:1,
-    Kor:"○요아스가 왕위에 올랐을 때에 그는 일곱 살이었다.",
+    Kor:"○요아스가 왕위에 올랐을 때에, 그는 일곱 살이었다.",
     Chn:"约阿施登基的时候年方七岁。",
     Eng:"Joash was seven years old when he began to reign.",
     Ind:"Yoas berumur tujuh tahun pada waktu ia menjadi raja."

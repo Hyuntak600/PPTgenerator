@@ -3,7 +3,7 @@
 BibleDB.ref("Mark",12,44);
 BibleDB.add([
   {Bible:"Mark", Chapter:12, Verse:1, Page:1,
-    Kor:"<포도원 소작인의 비유(마 21:33-46; 눅 20:9-19)> 예수께서 그들에게 비유로 말씀하기 시작하셨다. \"어떤 사람이 포도원을 일구어서, 울타리를 치고, 포도즙을 짜는 확을 파고, 망대를 세웠다. 그리고 그것을 농부들에게 세로 주고, 멀리 떠났다.",
+    Kor:"예수께서 그들에게 비유로 말씀하기 시작하셨다. \"어떤 사람이 포도원을 일구어서, 울타리를 치고, 포도즙을 짜는 확을 파고, 망대를 세웠다. 그리고 그것을 농부들에게 세로 주고, 멀리 떠났다.",
     Chn:"耶稣就用比喻对他们说：「有人栽了一个葡萄园，周围圈上篱笆，挖了一个压酒池，盖了一座楼，租给园户，就往外国去了。",
     Eng:"He then began to speak to them in parables: \"A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and went away on a journey.",
     Ind:"Lalu Yesus mulai berbicara kepada mereka dalam perumpamaan: \"Adalah seorang membuka kebun anggur dan menanam pagar sekelilingnya. Ia menggali lobang tempat memeras anggur dan mendirikan menara jaga. Kemudian ia menyewakan kebun itu kepada penggarap-penggarap lalu berangkat ke negeri lain."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Lalu ia menyuruh seorang hamba lain lagi, dan orang ini mereka bunuh. Dan banyak lagi yang lain, ada yang mereka pukul dan ada yang mereka bunuh."
   },
   {Bible:"Mark", Chapter:12, Verse:6, Page:1,
-    Kor:"이제 그 주인에게는 단 한 사람, 곧 사랑하는 아들이 남아 있었다. 마지막으로 그 아들을 그들에게 보내며 말하기를 '그들이 내 아들이야 존중하겠지' 하였다.",
+    Kor:"이제 그에게는 단 한 사람, 곧 사랑하는 아들이 남아 있었다. 마지막으로 그 아들을 그들에게 보내며 말하기를 '그들이 내 아들이야 존중하겠지' 하였다.",
     Chn:"园主还有一位是他的爱子，末后又打发他去，意思说：『他们必尊敬我的儿子。』",
     Eng:"\"He had one left to send, a son, whom he loved. He sent him last of all, saying, 'They will respect my son.'",
     Ind:"Sekarang tinggal hanya satu orang anaknya yang kekasih. Akhirnya ia menyuruh dia kepada mereka, katanya: Anakku akan mereka segani."
@@ -57,61 +57,61 @@ BibleDB.add([
     Ind:"Sekarang apa yang akan dilakukan oleh tuan kebun anggur itu? Ia akan datang dan membinasakan penggarap-penggarap itu, lalu mempercayakan kebun anggur itu kepada orang-orang lain."
   },
   {Bible:"Mark", Chapter:12, Verse:10, Page:1,
-    Kor:"너희는 성경에서 이런 말씀도 읽어 보지 못하였느냐?  a'집을 짓는 사람이 버린 돌이 집 모퉁이의 b머릿돌이 되었다. (a 시 118:22, 23 b 또는 '모퉁이 돌')",
+    Kor:"너희는 성경에서 이런 말씀도 읽어 보지 못하였느냐? '집을 짓는 사람이 버린 돌이 집 모퉁이의 머릿돌이 되었다.",
     Chn:"经上写着说： 匠人所弃的石头 已作了房角的头块石头。",
     Eng:"Haven't you read this scripture: \"'The stone the builders rejected has become the capstone;",
     Ind:"Tidak pernahkah kamu membaca nas ini: Batu yang dibuang oleh tukang-tukang bangunan telah menjadi batu penjuru:"
   },
   {Bible:"Mark", Chapter:12, Verse:11, Page:1,
-    Kor:"이것은 주님께서 하신 일이요, 우리 눈에는 놀랍게 보인다.'\"",
+    Kor:"이것은 주께서 하신 일이요, 우리 눈에는 놀랍게 보인다.'\"",
     Chn:"这是主所做的， 在我们眼中看为希奇。 这经你们没有念过吗？」",
     Eng:"the Lord has done this, and it is marvelous in our eyes'?\"",
     Ind:"hal itu terjadi dari pihak Tuhan, suatu perbuatan ajaib di mata kita.\""
   },
   {Bible:"Mark", Chapter:12, Verse:12, Page:1,
-    Kor:"○그들은 이 비유가 자기들을 겨냥하여 하신 말씀인 줄 알아차리고, 예수를 잡으려고 하였다. 그러나 그들은 무리를 두려워하여, 예수를 그대로 두고 떠나갔다.",
+    Kor:"○그들은 예수께서 자기들을 겨냥하여 이 비유를 말씀하신 것을 알아차렸으므로, 그를 잡으려고 하였으나, 무리를 무서워하였다. 그래서 그들은 예수를 그대로 두고 떠나갔다.",
     Chn:"他们看出这比喻是指着他们说的，就想要捉拿他，只是惧怕百姓，于是离开他走了。",
     Eng:"Then they looked for a way to arrest him because they knew he had spoken the parable against them. But they were afraid of the crowd; so they left him and went away.",
     Ind:"Lalu mereka berusaha untuk menangkap Yesus, karena mereka tahu, bahwa merekalah yang dimaksudkan-Nya dengan perumpamaan itu. Tetapi mereka takut kepada orang banyak, jadi mereka pergi dan membiarkan Dia."
   },
   {Bible:"Mark", Chapter:12, Verse:13, Page:1,
-    Kor:"<황제에게 바치는 세금(마 22:15-22; 눅 20:20-26)> ○그들은 말로 예수를 책잡으려고, 바리새파 사람들과 헤롯 당원 가운데서 몇 사람을 예수께로 보냈다.",
+    Kor:"○그들은 말로 예수를 책잡으려고, 바리새파 사람들과 헤롯 당원 가운데서 몇 사람을 예수께로 보냈다.",
     Chn:"后来，他们打发几个法利赛人和几个希律党的人到耶稣那里，要就着他的话陷害他。",
     Eng:"Later they sent some of the Pharisees and Herodians to Jesus to catch him in his words.",
     Ind:"Kemudian disuruh beberapa orang Farisi dan Herodian kepada Yesus untuk menjerat Dia dengan suatu pertanyaan."
   },
   {Bible:"Mark", Chapter:12, Verse:14, Page:1,
-    Kor:"그들이 와서, 예수께 말하였다. \"선생님, 우리는, 선생님이 진실한 분이시고 아무에게도 매이지 않는 분이심을 압니다. 선생님은 사람의 겉모습으로 판단하지 않으시고, 하나님의 길을 참되게 가르치십니다. 그런데, c황제에게 세금을 바치는 것이 옳습니까, 옳지 않습니까? 바쳐야 합니까, 바치지 말아야 합니까?\"",
+    Kor:"그들이 와서, 예수께 말하였다. \"선생님, 우리는, 선생님이 진실한 분이시고 아무에게도 매이지 않으시는 분이심을 압니다. 선생님은 사람의 겉모습으로 판단하지 않으시고, 하나님의 길을 참되게 가르치십니다. 그런데, 황제에게 세금을 바치는 것이 옳습니까, 옳지 않습니까? 바쳐야 합니까, 바치지 말아야 합니까?\"",
     Chn:"他们来了，就对他说：「夫子，我们知道你是诚实的，什么人你都不徇情面；因为你不看人的外貌，乃是诚诚实实传　神的道。纳税给凯撒可以不可以？",
     Eng:"They came to him and said, \"Teacher, we know you are a man of integrity. You aren't swayed by men, because you pay no attention to who they are; but you teach the way of God in accordance with the truth. Is it right to pay taxes to Caesar or not?",
     Ind:"Orang-orang itu datang dan berkata kepada-Nya: \"Guru, kami tahu, Engkau adalah seorang yang jujur, dan Engkau tidak takut kepada siapapun juga, sebab Engkau tidak mencari muka, melainkan dengan jujur mengajar jalan Allah dengan segala kejujuran. Apakah diperbolehkan membayar pajak kepada Kaisar atau tidak? Haruskah kami bayar atau tidak?\""
   },
   {Bible:"Mark", Chapter:12, Verse:15, Page:1,
-    Kor:"예수께서 그들의 속임수를 아시고, 그들에게 말씀하셨다. \"어찌하여 나를 시험하느냐? 데나리온 한 닢을 가져다가, 나에게 보여보아라.\"",
+    Kor:"예수께서 그들의 속임수를 아시고, 그들에게 말씀하셨다. \"어찌하여 나를 시험하느냐? 데나리온 한 닢을 가져다가, 나에게 보여라.\"",
     Chn:"我们该纳不该纳？」耶稣知道他们的假意，就对他们说：「你们为什么试探我？拿一个银钱来给我看！」",
     Eng:"Should we pay or shouldn't we?\" But Jesus knew their hypocrisy. \"Why are you trying to trap me?\" he asked. \"Bring me a denarius and let me look at it.\"",
     Ind:"Tetapi Yesus mengetahui kemunafikan mereka, lalu berkata kepada mereka: \"Mengapa kamu mencobai Aku? Bawalah ke mari suatu dinar supaya Kulihat!\""
   },
   {Bible:"Mark", Chapter:12, Verse:16, Page:1,
-    Kor:"그들이 그것을 가져오니, 예수께서 그들에게 물으셨다. \"이 초상은 누구의 것이며, 적힌 글자는 누구의 것이냐?\" 그들이 대답하였다. \"c황제의 것입니다.\"",
+    Kor:"그들이 그것을 가져 오니, 예수께서 물으셨다. \"이 초상은 누구의 것이며, 적힌 글자는 누구의 것이냐?\" 그들은 \"황제의 것입니다\" 하고 대답하였다.",
     Chn:"他们就拿了来。耶稣说：「这像和这号是谁的？」他们说：「是凯撒的。」",
     Eng:"They brought the coin, and he asked them, \"Whose portrait is this? And whose inscription?\" \"Caesar's,\" they replied.",
     Ind:"Lalu mereka bawa. Maka Ia bertanya kepada mereka: \"Gambar dan tulisan siapakah ini?\" Jawab mereka: \"Gambar dan tulisan Kaisar.\""
   },
   {Bible:"Mark", Chapter:12, Verse:17, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"c황제의 것은 c황제에게 돌려주고, 하나님의 것은 하나님께 돌려드려라.\" 그들은 예수께 경탄하였다.(c 그, '가이사')",
+    Kor:"예수께서 그들에게 말씀하셨다. \"황제의 것은 황제에게 돌려주고, 하나님의 것은 하나님께 돌려드려라.\" 그들은 예수께 경탄하였다.",
     Chn:"耶稣说：「凯撒的物当归给凯撒，　神的物当归给　神。」他们就很希奇他。",
     Eng:"Then Jesus said to them, \"Give to Caesar what is Caesar's and to God what is God's.\" And they were amazed at him.",
     Ind:"Lalu kata Yesus kepada mereka: \"Berikanlah kepada Kaisar apa yang wajib kamu berikan kepada Kaisar dan kepada Allah apa yang wajib kamu berikan kepada Allah!\" Mereka sangat heran mendengar Dia."
   },
   {Bible:"Mark", Chapter:12, Verse:18, Page:1,
-    Kor:"<부활 논쟁(마 22:23-33; 눅 20:27-40)> ○부활이 없다고 주장하는 사두개파 사람들이 예수께 와서, 물었다.",
+    Kor:"○부활이 없다고 주장하는 사두개파 사람들이 예수께 와서, 물었다.",
     Chn:"撒都该人常说没有复活的事。他们来问耶稣说：",
     Eng:"Then the Sadducees, who say there is no resurrection, came to him with a question.",
     Ind:"Datanglah kepada Yesus beberapa orang Saduki, yang berpendapat, bahwa tidak ada kebangkitan. Mereka bertanya kepada-Nya:"
   },
   {Bible:"Mark", Chapter:12, Verse:19, Page:1,
-    Kor:"\"선생님, 모세가 우리에게 써 주기를 '어떤 사람의 형이 자식이 없이, 아내만 남겨 두고 죽으면, 그 동생이 그 형수를 맞아들여서, 그의 형에게 대를 이을 자식을 낳아 주어야 한다' 하였습니다.",
+    Kor:"\"선생님, 모세 가 우리에게 써 주기를 '어떤 사람의 형이 자식이 없이, 아내만 남겨 두고 죽으면, 그 동생이 그 여자를 맞아들여서, 그의 형에게 뒤를 이을 자식을 낳아 주어야 한다' 하였습니다.",
     Chn:"「夫子，摩西为我们写着说：『人若死了，撇下妻子，没有孩子，他兄弟当娶他的妻，为哥哥生子立后。』",
     Eng:"\"Teacher,\" they said, \"Moses wrote for us that if a man's brother dies and leaves a wife but no children, the man must marry the widow and have children for his brother.",
     Ind:"\"Guru, Musa menuliskan perintah ini untuk kita: Jika seorang, yang mempunyai saudara laki-laki, mati dengan meninggalkan seorang isteri tetapi tidak meninggalkan anak, saudaranya harus kawin dengan isterinya itu dan membangkitkan keturunan bagi saudaranya itu."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Adalah tujuh orang bersaudara. Yang pertama kawin dengan seorang perempuan dan mati dengan tidak meninggalkan keturunan."
   },
   {Bible:"Mark", Chapter:12, Verse:21, Page:1,
-    Kor:"그리하여 둘째가 그 형수를 맞아들였는데, 그도 또한 자식을 남기지 못하고 죽고, 셋째도 그러하였습니다.",
+    Kor:"그리하여 둘째가 그 여자를 맞아들였는데, 그도 또한 자식을 남기지 못하고 죽고, 셋째도 그러하였습니다.",
     Chn:"第二个娶了她，也死了，没有留下孩子。第三个也是这样。",
     Eng:"The second one married the widow, but he also died, leaving no child. It was the same with the third.",
     Ind:"Lalu yang kedua juga mengawini dia dan mati dengan tidak meninggalkan keturunan. Demikian juga dengan yang ketiga."
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Dan begitulah seterusnya, ketujuhnya tidak meninggalkan keturunan. Dan akhirnya, sesudah mereka semua, perempuan itupun mati."
   },
   {Bible:"Mark", Chapter:12, Verse:23, Page:1,
-    Kor:"<그들이 살아날> 부활 때에, 그 여자는 그들 가운데 누구의 아내가 되겠습니까? 일곱이 모두 그 여자를 아내로 맞아들였으니 말입니다.\"",
+    Kor:"그들이 살아나는 부활 때에, 그 여자는 그들 가운데 누구의 아내가 되겠습니까? 일곱이 모두 그 여자를 아내로 맞아들였으니 말입니다.\"",
     Chn:"当复活的时候，她是哪一个的妻子呢？因为他们七个人都娶过她。」",
     Eng:"At the resurrection whose wife will she be, since the seven were married to her?\"",
     Ind:"Pada hari kebangkitan, bilamana mereka bangkit, siapakah yang menjadi suami perempuan itu? Sebab ketujuhnya telah beristerikan dia.\""
   },
   {Bible:"Mark", Chapter:12, Verse:24, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"너희는 성경도 모르고, 하나님의 능력도 모르니까, 잘못 생각하는 것이 아니냐?",
+    Kor:"○예수께서 그들에게 말씀하셨다. \"너희는 성경도 모르고, 하나님의 능력도 모르니까, 잘못 생각하는 것이 아니냐?",
     Chn:"耶稣说：「你们所以错了，岂不是因为不明白圣经，不晓得　神的大能吗？",
     Eng:"Jesus replied, \"Are you not in error because you do not know the Scriptures or the power of God?",
     Ind:"Jawab Yesus kepada mereka: \"Kamu sesat, justru karena kamu tidak mengerti Kitab Suci maupun kuasa Allah."
@@ -153,37 +153,37 @@ BibleDB.add([
     Ind:"Sebab apabila orang bangkit dari antara orang mati, orang tidak kawin dan tidak dikawinkan melainkan hidup seperti malaikat di sorga."
   },
   {Bible:"Mark", Chapter:12, Verse:26, Page:1,
-    Kor:"죽은 사람들이 살아나는 일에 관해서는, 모세의 책에 떨기나무 이야기가 나오는 대목에서, 하나님께서 모세에게 어떻게 말씀하셨는지를, 너희는 읽어보지 못하였느냐? 하나님께서는 모세에게 말씀하시기를 d'나는 아브라함의 하나님이요, 이삭의 하나님이요, 야곱의 하나님이다' 하시지 않으셨느냐?(d 출 3:6)",
+    Kor:"죽은 사람들이 살아나는 일에 관해서는, 모세의 책에 떨기나무 이야기가 나오는 대목에서 하나님께서 모세에게 어떻게 말씀하셨는지를, 너희는 읽지 못하였느냐? 하나님께서는 모세에게 '나는 아브라함의 하나님이요, 이삭의 하나님이요, 야곱의 하나님이다' 하고 말씀하시지 않으셨느냐?",
     Chn:"论到死人复活，你们没有念过摩西的书荆棘篇上所载的吗？　神对摩西说：『我是亚伯拉罕的　神，以撒的　神，雅各的　神。』",
     Eng:"Now about the dead rising--have you not read in the book of Moses, in the account of the bush, how God said to him, 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?",
     Ind:"Dan juga tentang bangkitnya orang-orang mati, tidakkah kamu baca dalam kitab Musa, dalam ceritera tentang semak duri, bagaimana bunyi firman Allah kepadanya: Akulah Allah Abraham, Allah Ishak dan Allah Yakub?"
   },
   {Bible:"Mark", Chapter:12, Verse:27, Page:1,
-    Kor:"하나님은 죽은 사람들의 하나님이 아니라, 살아 있는 사람들의 하나님이시다. 너희는 생각을 크게 잘못 하고 있다.\"",
+    Kor:"하나님은 죽은 사람의 하나님이 아니라, 살아 있는 사람의 하나님이시다. 너희는 생각을 크게 잘못 하고 있다.\"",
     Chn:"神不是死人的　神，乃是活人的　神。你们是大错了。」",
     Eng:"He is not the God of the dead, but of the living. You are badly mistaken!\"",
     Ind:"Ia bukanlah Allah orang mati, melainkan Allah orang hidup. Kamu benar-benar sesat!\""
   },
   {Bible:"Mark", Chapter:12, Verse:28, Page:1,
-    Kor:"<가장 큰 계명(마 22:34-40; 눅 10:25-28)> ○율법학자들 가운데 한 사람이 다가와서, 그들이 변론하는 것을 들었다. 그는 예수가 그들에게 대답을 잘 하시는 것을 보고서, 예수께 물었다. \"모든 계명 가운데서 가장 으뜸되는 것은 어느 것입니까?\"",
+    Kor:"○율법학자들 가운데 한 사람이 다가와서, 그들이 변론하는 것을 들었다. 그는 예수께서 그들에게 대답을 잘 하시는 것을 보고서, 예수께 물었다. \"모든 계명 가운데서 가장 으뜸되는 것은 어느 것입니까?\"",
     Chn:"有一个文士来，听见他们辩论，晓得耶稣回答的好，就问他说：「诫命中哪是第一要紧的呢？」",
     Eng:"One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a good answer, he asked him, \"Of all the commandments, which is the most important?\"",
     Ind:"Lalu seorang ahli Taurat, yang mendengar Yesus dan orang-orang Saduki bersoal jawab dan tahu, bahwa Yesus memberi jawab yang tepat kepada orang-orang itu, datang kepada-Nya dan bertanya: \"Hukum manakah yang paling utama?\""
   },
   {Bible:"Mark", Chapter:12, Verse:29, Page:1,
-    Kor:"예수께서 대답하셨다. \"첫째는 이것이다. e'이스라엘아, 들어라. 우리 하나님이신 주님은 오직 한 분이신 주님이시다.(e 신 6:4, 5)",
+    Kor:"예수께서 대답하셨다. \"첫째는 이것이다. '이스라엘아, 들어라. 주, 곧 우리 하나님은 오직 한 분이신 주님이시다.",
     Chn:"耶稣回答说：「第一要紧的就是说：『以色列啊，你要听，主—我们　神是独一的主。",
     Eng:"\"The most important one,\" answered Jesus, \"is this: 'Hear, O Israel, the Lord our God, the Lord is one.",
     Ind:"Jawab Yesus: \"Hukum yang terutama ialah: Dengarlah, hai orang Israel, Tuhan Allah kita, Tuhan itu esa."
   },
   {Bible:"Mark", Chapter:12, Verse:30, Page:1,
-    Kor:"네 마음을 다하고, 네 목숨을 다하고, 네 뜻을 다하고, 네 힘을 다하여, 너의 하나님이신 주님을 사랑하여라.'",
+    Kor:"네 마음을 다하고, 네 목숨을 다하고, 네 뜻을 다하고, 네 힘을 다하여, 주 너의 하나님을 사랑하여라.'",
     Chn:"你要尽心、尽性、尽意、尽力爱主—你的　神。』",
     Eng:"Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'",
     Ind:"Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap akal budimu dan dengan segenap kekuatanmu."
   },
   {Bible:"Mark", Chapter:12, Verse:31, Page:1,
-    Kor:"둘째는 이것이다. f'네 이웃을 네 몸 같이 사랑하여라.' 이 계명보다 더 큰 계명은 없다.\"(f 레 19:18)",
+    Kor:"둘째는 이것이다. '네 이웃을 네 몸 같이 사랑하여라.' 이 계명보다 더 큰 계명은 없다.\"",
     Chn:"其次就是说：『要爱人如己。』再没有比这两条诫命更大的了。」",
     Eng:"The second is this: 'Love your neighbor as yourself.' There is no commandment greater than these.\"",
     Ind:"Dan hukum yang kedua ialah: Kasihilah sesamamu manusia seperti dirimu sendiri. Tidak ada hukum lain yang lebih utama dari pada kedua hukum ini.\""
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Yesus melihat, bagaimana bijaksananya jawab orang itu, dan Ia berkata kepadanya: \"Engkau tidak jauh dari Kerajaan Allah!\" Dan seorangpun tidak berani lagi menanyakan sesuatu kepada Yesus."
   },
   {Bible:"Mark", Chapter:12, Verse:35, Page:1,
-    Kor:"<다윗의 자손과 그리스도(마 22:41-46; 눅 20:41-44)> ○예수께서 성전에서 가르치실 때에, 이렇게 말씀하셨다. \"어찌하여 율법학자들은, g그리스도가 다윗의 자손이라고 하느냐?(g 또는 '메시아'. 그리스도는 그리스어이고, 메시아는 히브리어임. 둘 다 '기름부음 받은 사람'을 뜻함)",
+    Kor:"○예수께서 성전에서 가르치실 때에, 이렇게 이르셨다. \"어찌하여 율법학자들은, 그리스도가 다윗의 자손이라고 하느냐?",
     Chn:"耶稣在殿里教训人，就问他们说：「文士怎么说基督是大卫的子孙呢？",
     Eng:"While Jesus was teaching in the temple courts, he asked, \"How is it that the teachers of the law say that the Christ is the son of David?",
     Ind:"Pada suatu kali ketika Yesus mengajar di Bait Allah, Ia berkata: \"Bagaimana ahli-ahli Taurat dapat mengatakan, bahwa Mesias adalah anak Daud?"
   },
   {Bible:"Mark", Chapter:12, Verse:36, Page:1,
-    Kor:"다윗이 성령의 감동을 받아서 친히 이렇게 말하였다.  h'주님께서 내 주께 말씀하셨다. 「내가 네 원수를 네 발 아래에 굴복시킬 때까지, 너는 내 오른쪽에 앉아 있어라.」' (h 시 110:1)",
+    Kor:"다윗이 성령의 감동을 받아서 친히 이렇게 말하였다. '주께서 내 주께 말씀하셨다. 「내가 네 원수를 네 발 아래에 굴복시킬 때까지, 너는 내 오른쪽에 앉아 있어라.」'",
     Chn:"大卫被圣灵感动，说： 主对我主说： 你坐在我的右边， 等我使你仇敌作你的脚凳。",
     Eng:"David himself, speaking by the Holy Spirit, declared: \"'The Lord said to my Lord: \"Sit at my right hand until I put your enemies under your feet.\"'",
     Ind:"Daud sendiri oleh pimpinan Roh Kudus berkata: Tuhan telah berfirman kepada Tuanku: duduklah di sebelah kanan-Ku, sampai musuh-musuh-Mu Kutaruh di bawah kaki-Mu."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Daud sendiri menyebut Dia Tuannya, bagaimana mungkin Ia anaknya pula?\" Orang banyak yang besar jumlahnya mendengarkan Dia dengan penuh minat."
   },
   {Bible:"Mark", Chapter:12, Verse:38, Page:1,
-    Kor:"<율법학자들을 책망하시다(마 23:1-36; 눅 20:45-47)> ○예수께서 가르치시면서, 이렇게 말씀하셨다. \"율법학자들을 조심하여라. 그들은 예복을 입고 다니기를 좋아하고, 장터에서 인사받기를 좋아하고,",
+    Kor:"○예수께서 가르치시면서, 이렇게 말씀하셨다. \"율법학자들을 조심하여라. 그들은 예복을 입고 다니기를 좋아하고, 장터에서 인사받기를 좋아하고,",
     Chn:"耶稣在教训之间，说：「你们要防备文士；他们好穿长衣游行，喜爱人在街市上问他们的安，",
     Eng:"As he taught, Jesus said, \"Watch out for the teachers of the law. They like to walk around in flowing robes and be greeted in the marketplaces,",
     Ind:"Dalam pengajaran-Nya Yesus berkata: \"Hati-hatilah terhadap ahli-ahli Taurat yang suka berjalan-jalan memakai jubah panjang dan suka menerima penghormatan di pasar,"
@@ -243,13 +243,13 @@ BibleDB.add([
     Ind:"yang menelan rumah janda-janda, sedang mereka mengelabui mata orang dengan doa yang panjang-panjang. Mereka ini pasti akan menerima hukuman yang lebih berat.\""
   },
   {Bible:"Mark", Chapter:12, Verse:41, Page:1,
-    Kor:"<과부의 헌금(눅 21:1-4)> ○예수께서 헌금함 맞은쪽에 앉아서, 무리가 어떻게 헌금함에 돈을 넣는가를 보고 계셨다. 많이 넣는 부자가 여럿 있었다.",
+    Kor:"○예수께서 헌금함 맞은쪽에 앉으셔서, 무리가 어떻게 헌금함에 돈을 넣는가를 보고 계셨다. 많이 넣는 부자가 여럿 있었다.",
     Chn:"耶稣对银库坐着，看众人怎样投钱入库。有好些财主往里投了若干的钱。",
     Eng:"Jesus sat down opposite the place where the offerings were put and watched the crowd putting their money into the temple treasury. Many rich people threw in large amounts.",
     Ind:"Pada suatu kali Yesus duduk menghadapi peti persembahan dan memperhatikan bagaimana orang banyak memasukkan uang ke dalam peti itu. Banyak orang kaya memberi jumlah yang besar."
   },
   {Bible:"Mark", Chapter:12, Verse:42, Page:1,
-    Kor:"그런데 가난한 과부 한 사람은 와서, 렙돈 두 닢 곧 한 고드란트를 넣었다.",
+    Kor:"그런데 가난한 과부 한 사람은 와서, 렙돈 두 닢, 곧 한 고드란트를 넣었다.",
     Chn:"有一个穷寡妇来，往里投了两个小钱，就是一个大钱。",
     Eng:"But a poor widow came and put in two very small copper coins, worth only a fraction of a penny.",
     Ind:"Lalu datanglah seorang janda yang miskin dan ia memasukkan dua peser, yaitu satu duit."
@@ -261,7 +261,7 @@ BibleDB.add([
     Ind:"Maka dipanggil-Nya murid-murid-Nya dan berkata kepada mereka: \"Aku berkata kepadamu, sesungguhnya janda miskin ini memberi lebih banyak dari pada semua orang yang memasukkan uang ke dalam peti persembahan."
   },
   {Bible:"Mark", Chapter:12, Verse:44, Page:1,
-    Kor:"모두 다 넉넉한 데서 얼마씩을 떼어 넣었지만, 이 과부는 가난한 가운데서 가진 것 모두 곧 자기 생활비 전부를 털어 넣었다.\"",
+    Kor:"모두 다 넉넉한 데서 얼마씩을 떼어 넣었지만, 이 과부는 가난한 가운데서 가진 것 모두, 곧 자기 생활비 전부를 털어 넣었다.\"",
     Chn:"因为，他们都是自己有余，拿出来投在里头；但这寡妇是自己不足，把她一切养生的都投上了。」",
     Eng:"They all gave out of their wealth; but she, out of her poverty, put in everything--all she had to live on.\"",
     Ind:"Sebab mereka semua memberi dari kelimpahannya, tetapi janda ini memberi dari kekurangannya, semua yang ada padanya, yaitu seluruh nafkahnya.\""

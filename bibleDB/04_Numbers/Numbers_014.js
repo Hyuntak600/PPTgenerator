@@ -3,7 +3,7 @@
 BibleDB.ref("Numbers",14,45);
 BibleDB.add([
   {Bible:"Numbers", Chapter:14, Verse:1, Page:1,
-    Kor:"<백성의 불평> 온 회중이 소리 높여 아우성쳤다. 백성이 밤새도록 통곡하였다.",
+    Kor:"온 회중이 소리 높여 아우성쳤다. 백성이 밤새도록 통곡하였다.",
     Chn:"当下，全会众大声喧嚷；那夜百姓都哭号。",
     Eng:"That night all the people of the community raised their voices and wept aloud.",
     Ind:"Lalu segenap umat itu mengeluarkan suara nyaring dan bangsa itu menangis pada malam itu."
@@ -45,25 +45,25 @@ BibleDB.add([
     Ind:"dan berkata kepada segenap umat Israel: \"Negeri yang kami lalui untuk diintai itu adalah luar biasa baiknya."
   },
   {Bible:"Numbers", Chapter:14, Verse:8, Page:1,
-    Kor:"주님께서 우리를 사랑하신다면, 그 땅으로 우리를 인도하실 것입니다. 젖과 꿀이 흐르는 그 땅을 우리에게 주실 것입니다.",
+    Kor:"주께서 우리를 사랑하신다면, 그 땅으로 우리를 인도하실 것입니다. 젖과 꿀이 흐르는 그 땅을 우리에게 주실 것입니다.",
     Chn:"耶和华若喜悦我们，就必将我们领进那地，把地赐给我们；那地原是流奶与蜜之地。",
     Eng:"If the LORD is pleased with us, he will lead us into that land, a land flowing with milk and honey, and will give it to us.",
     Ind:"Jika TUHAN berkenan kepada kita, maka Ia akan membawa kita masuk ke negeri itu dan akan memberikannya kepada kita, suatu negeri yang berlimpah-limpah susu dan madunya."
   },
   {Bible:"Numbers", Chapter:14, Verse:9, Page:1,
-    Kor:"다만 여러분은 주님을 거역하지만 마십시오. 여러분은 그 땅 백성을 두려워하지 마십시오. 그들은 우리의 밥입니다. 그들의 방어력은 사라졌습니다. 주님께서 우리와 함께 계시니, 그들을 두려워하지 마십시오.\"",
+    Kor:"다만 여러분은 주를 거역하지만 마십시오. 여러분은 그 땅 백성을 두려워하지 마십시오. 그들은 우리의 밥입니다. 그들의 방어력은 사라졌습니다. 주께서 우리와 함께 계시니, 그들을 두려워하지 마십시오.\"",
     Chn:"但你们不可背叛耶和华，也不要怕那地的居民；因为他们是我们的食物，并且荫庇他们的已经离开他们。有耶和华与我们同在，不要怕他们！」",
     Eng:"Only do not rebel against the LORD. And do not be afraid of the people of the land, because we will swallow them up. Their protection is gone, but the LORD is with us. Do not be afraid of them.\"",
     Ind:"Hanya, janganlah memberontak kepada TUHAN, dan janganlah takut kepada bangsa negeri itu, sebab mereka akan kita telan habis. Yang melindungi mereka sudah meninggalkan mereka, sedang TUHAN menyertai kita; janganlah takut kepada mereka.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:10, Page:1,
-    Kor:"그러나 온 회중은 그들을 돌로 쳐죽이려고 하였다. 그 때에 주님의 영광이 회막에서 온 이스라엘 자손에게 나타났다.",
+    Kor:"그러나 온 회중은 그들을 돌로 쳐죽이려고 하였다. 그 때에 주의 영광이 회막에서 온 이스라엘 자손에게 나타났다.",
     Chn:"但全会众说：「拿石头打死他们二人。」忽然，耶和华的荣光在会幕中向以色列众人显现。",
     Eng:"But the whole assembly talked about stoning them. Then the glory of the LORD appeared at the Tent of Meeting to all the Israelites.",
     Ind:"Lalu segenap umat itu mengancam hendak melontari kedua orang itu dengan batu. Tetapi tampaklah kemuliaan TUHAN di Kemah Pertemuan kepada semua orang Israel."
   },
   {Bible:"Numbers", Chapter:14, Verse:11, Page:1,
-    Kor:"<모세가 백성을 두고 기도하다> ○주님께서 모세에게 말씀하셨다. \"언제까지 이 백성이 나를 멸시할 것이라더냐? 내가 이 백성 가운데서 보인 온갖 표적들이 있는데, 언제까지 나를 믿지 않겠다더냐?",
+    Kor:"○주께서 모세에게 말씀하셨다. \"언제까지 이 백성이 나를 멸시할 것이라더냐? 내가 이 백성 가운데서 보인 온갖 표적들이 있는데, 언제까지 나를 믿지 않겠다더냐?",
     Chn:"耶和华对摩西说：「这百姓藐视我要到几时呢？我在他们中间行了这一切神迹，他们还不信我要到几时呢？",
     Eng:"The LORD said to Moses, \"How long will these people treat me with contempt? How long will they refuse to believe in me, in spite of all the miraculous signs I have performed among them?",
     Ind:"TUHAN berfirman kepada Musa: \"Berapa lama lagi bangsa ini menista Aku, dan berapa lama lagi mereka tidak mau percaya kepada-Ku, sekalipun sudah ada segala tanda mujizat yang Kulakukan di tengah-tengah mereka!"
@@ -75,49 +75,49 @@ BibleDB.add([
     Ind:"Aku akan memukul mereka dengan penyakit sampar dan melenyapkan mereka, tetapi engkau akan Kubuat menjadi bangsa yang lebih besar dan lebih kuat dari pada mereka.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:13, Page:1,
-    Kor:"○모세가 주님께 말씀드렸다. \"이집트 사람이 들으면 어떻게 합니까? 주님께서는 이미 주님의 능력으로 이 백성을 이집트 사람 가운데서 이끌어 내셨습니다.",
+    Kor:"○모세가 주께 말씀드렸다. \"이집트 사람이 들으면 어떻게 합니까? 주께서는 이미 주의 능력으로 이 백성을 이집트 사람 가운데서 이끌어 내셨습니다.",
     Chn:"摩西对耶和华说：「埃及人必听见这事；因为你曾施展大能，将这百姓从他们中间领上来。",
     Eng:"Moses said to the LORD, \"Then the Egyptians will hear about it! By your power you brought these people up from among them.",
     Ind:"Lalu berkatalah Musa kepada TUHAN: \"Jikalau hal itu kedengaran kepada orang Mesir, padahal Engkau telah menuntun bangsa ini dengan kekuatan-Mu dari tengah-tengah mereka,"
   },
   {Bible:"Numbers", Chapter:14, Verse:14, Page:1,
-    Kor:"이집트 사람이 이 땅에 사는 사람들에게 말하면, 어떻게 합니까? 이 땅에 사는 사람들은, 주 하나님이 이 백성 가운데 계시다는 것과, 주 하나님이 얼굴과 얼굴을 마주하여 보이셨다는 것과, 주님의 구름이 그들 위에 머물고, 주님께서 낮에는 구름기둥 가운데 계시고, 밤에는 불기둥 가운데 계셔서, 04 14:그들 맨 앞에서 걸어가신다는 것을 이미 들었습니다.",
+    Kor:"이집트 사람이 이 땅에 사는 사람들에게 말하면, 어떻게 합니까? 이 땅에 사는 사람들은, 주 하나님이 이 백성 가운데 계시다는 것과, 주 하나님이 얼굴과 얼굴을 마주하여 보이셨다는 것과, 주의 구름이 그들 위에 머물고, 주께서 낮에는 구름기둥 가운데 계시고, 밤에는 불기둥 가운데 계셔서, 그들 맨 앞에서 걸어가신다는 것을 이미 들었습니다.",
     Chn:"埃及人要将这事传给迦南地的居民；那民已经听见你—耶和华是在这百姓中间；因为你面对面被人看见，有你的云彩停在他们以上。你日间在云柱中，夜间在火柱中，在他们前面行。",
     Eng:"And they will tell the inhabitants of this land about it. They have already heard that you, O LORD, are with these people and that you, O LORD, have been seen face to face, that your cloud stays over them, and that you go before them in a pillar of cloud by day and a pillar of fire by night.",
     Ind:"mereka akan berceritera kepada penduduk negeri ini, yang telah mendengar bahwa Engkau, TUHAN, ada di tengah-tengah bangsa ini, dan bahwa Engkau, TUHAN, menampakkan diri-Mu kepada mereka dengan berhadapan muka, waktu awan-Mu berdiri di atas mereka dan waktu Engkau berjalan mendahului mereka di dalam tiang awan pada waktu siang dan di dalam tiang api pada waktu malam."
   },
   {Bible:"Numbers", Chapter:14, Verse:15, Page:1,
-    Kor:"그런데 이제 주님께서 이 백성을 한 사람을 처리하듯 단번에 죽이시면, 주님께서 하신 일을 들은 나라들은",
+    Kor:"그런데 이제 주께서 이 백성을 한 사람을 처리하듯 단번에 죽이시면, 주께서 하신 일을 들은 나라들은",
     Chn:"如今你若把这百姓杀了，如杀一人，那些听见你名声的列邦必议论说：",
     Eng:"If you put these people to death all at one time, the nations who have heard this report about you will say,",
     Ind:"Jadi jikalau Engkau membunuh bangsa ini sampai habis, maka bangsa-bangsa yang mendengar kabar tentang Engkau itu nanti berkata:"
   },
   {Bible:"Numbers", Chapter:14, Verse:16, Page:1,
-    Kor:"'그들의 주가 자기 백성에게 주기로 맹세한 땅으로 그들을 데리고 갈 능력이 없어서, 그들을 광야에서 죽였다’ 하고 말할 것입니다.",
+    Kor:"'그들의 주가 자기 백성에게 주기로 맹세한 땅으로 그들을 데리고 갈 능력이 없어서, 그들을 광야에서 죽였다' 하고 말할 것입니다.",
     Chn:"『耶和华因为不能把这百姓领进他向他们起誓应许之地，所以在旷野把他们杀了。』",
     Eng:"'The LORD was not able to bring these people into the land he promised them on oath; so he slaughtered them in the desert.'",
     Ind:"Oleh karena TUHAN tidak berkuasa membawa bangsa ini masuk ke negeri yang dijanjikan-Nya dengan bersumpah kepada mereka, maka Ia menyembelih mereka di padang gurun."
   },
   {Bible:"Numbers", Chapter:14, Verse:17, Page:1,
-    Kor:"그러니 이제 주님께서는, 이미 말씀하신 대로, 주님의 권능을 나타내 보이시기 바랍니다.",
+    Kor:"그러니 이제 주께서는, 이미 말씀하신 대로, 주의 권능을 나타내 보이시기 바랍니다.",
     Chn:"现在求主大显能力，照你所说过的话说：",
     Eng:"\"Now may the Lord's strength be displayed, just as you have declared:",
     Ind:"Jadi sekarang, biarlah kiranya kekuatan TUHAN itu nyata kebesarannya, seperti yang Kaufirmankan:"
   },
   {Bible:"Numbers", Chapter:14, Verse:18, Page:1,
-    Kor:"'나 주는 노하기를 더디하고, 사랑이 넘치어서 죄와 허물을 용서한다. 그러나 나는 죄를 벌하지 않은 채 그냥 넘기지는 아니한다. 나는, 아버지가 죄를 지으면 본인뿐만 아니라 자손 삼사 대까지 벌을 내린다’ 하고 말씀하셨으니,",
+    Kor:"나 주는 노하기를 더디하고, 사랑이 넘치어서 죄와 허물을 용서한다. 그러나 나는 죄를 벌하지 않은 채 그냥 넘기지는 아니한다. 나는, 아버지가 죄를 지으면 본인뿐만 아니라 자손 삼사 대까지 벌을 내린다' 하고 말씀하셨으니,",
     Chn:"『耶和华不轻易发怒，并有丰盛的慈爱，赦免罪孽和过犯；万不以有罪的为无罪，必追讨他的罪，自父及子，直到三、四代。』",
     Eng:"'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the fathers to the third and fourth generation.'",
     Ind:"TUHAN itu berpanjangan sabar dan kasih setia-Nya berlimpah-limpah, Ia mengampuni kesalahan dan pelanggaran, tetapi sekali-kali tidak membebaskan orang yang bersalah dari hukuman, bahkan Ia membalaskan kesalahan bapa kepada anak-anaknya, kepada keturunan yang ketiga dan keempat."
   },
   {Bible:"Numbers", Chapter:14, Verse:19, Page:1,
-    Kor:"이집트를 떠날 때부터 이제까지 주님께서 이 백성을 용서하신 것처럼, 이제 주님의 그 크신 사랑으로 이 백성의 죄를 용서하여 주시기 바랍니다.\"",
+    Kor:"이집트를 떠날 때부터 이제까지 주께서 이 백성을 용서하신 것처럼, 이제 주님의 그 크신 사랑으로 이 백성의 죄를 용서하여 주시기 바랍니다.\"",
     Chn:"求你照你的大慈爱赦免这百姓的罪孽，好像你从埃及到如今常赦免他们一样。」",
     Eng:"In accordance with your great love, forgive the sin of these people, just as you have pardoned them from the time they left Egypt until now.\"",
     Ind:"Ampunilah kiranya kesalahan bangsa ini sesuai dengan kebesaran kasih setia-Mu, seperti Engkau telah mengampuni bangsa ini mulai dari Mesir sampai ke mari.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:20, Page:1,
-    Kor:"○주님께서 말씀하셨다. \"너의 말대로 용서하겠다.",
+    Kor:"○주께서 말씀하셨다. \"너의 말대로 용서하겠다.",
     Chn:"耶和华说：「我照着你的话赦免了他们。",
     Eng:"The LORD replied, \"I have forgiven them, as you asked.",
     Ind:"Berfirmanlah TUHAN: \"Aku mengampuninya sesuai dengan permintaanmu."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Orang Amalek dan orang Kanaan diam di lembah. Sebab itu berpalinglah besok dan berangkatlah ke padang gurun, ke arah Laut Teberau.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:26, Page:1,
-    Kor:"<주님께서 불평하는 백성을 벌하시다> ○주님께서 모세와 아론에게 말씀하셨다.",
+    Kor:"○주께서 모세와 아론에게 말씀하셨다.",
     Chn:"耶和华对摩西、亚伦说：",
     Eng:"The LORD said to Moses and Aaron:",
     Ind:"Lagi berfirmanlah TUHAN kepada Musa dan Harun:"
@@ -165,7 +165,7 @@ BibleDB.add([
     Ind:"\"Berapa lama lagi umat yang jahat ini akan bersungut-sungut kepada-Ku? Segala sesuatu yang disungut-sungutkan orang Israel kepada-Ku telah Kudengar."
   },
   {Bible:"Numbers", Chapter:14, Verse:28, Page:1,
-    Kor:"너는 그들에게 이렇게 말하여라. ○나 주의 말이다. 내가 나의 삶을 두고 맹세한다. 너희가 나의 귀에 들리도록 말한 그대로, 내가 반드시 너희에게 하겠다.",
+    Kor:"너는 그들에게 이렇게 말하여라. '주의 말이다. 내가 나의 삶을 두고 맹세한다. 너희가 나의 귀에 들리도록 말한 그대로, 내가 반드시 너희에게 하겠다.",
     Chn:"你们告诉他们，耶和华说：『我指着我的永生起誓，我必要照你们达到我耳中的话待你们。",
     Eng:"So tell them, 'As surely as I live, declares the LORD, I will do to you the very things I heard you say:",
     Ind:"Katakanlah kepada mereka: Demi Aku yang hidup, demikianlah firman TUHAN, bahwasanya seperti yang kamu katakan di hadapan-Ku, demikianlah akan Kulakukan kepadamu."
@@ -195,13 +195,13 @@ BibleDB.add([
     Ind:"Tetapi mengenai kamu, bangkai-bangkaimu akan berhantaran di padang gurun ini,"
   },
   {Bible:"Numbers", Chapter:14, Verse:33, Page:1,
-    Kor:"너희 자식들은 사십 년 동안 광야에서 a양을 치면서, 너희의 시체가 썩어 없어질 때까지, 너희가 저지른 죄를 대신 짊어질 것이다.(a 또는 '방황하면서')",
+    Kor:"너희 자식들은 사십 년 동안 광야에서 양을 치면서, 너희의 시체가 썩어 없어질 때까지, 너희가 저지른 죄를 대신 짊어질 것이다.",
     Chn:"你们的儿女必在旷野飘流四十年，担当你们淫行的罪，直到你们的尸首在旷野消灭。",
     Eng:"Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the desert.",
     Ind:"dan anak-anakmu akan mengembara sebagai penggembala di padang gurun empat puluh tahun lamanya dan akan menanggung akibat ketidaksetiaan, sampai bangkai-bangkaimu habis di padang gurun."
   },
   {Bible:"Numbers", Chapter:14, Verse:34, Page:1,
-    Kor:"너희가 그 땅을 사십 일 동안 탐지하였으니, 그 날 수대로 하루를 일 년으로 쳐서, 너희는 사십 년 동안 너희의 죄의 짐을 져야 한다. 그제서야 너희는 내가 너희를 싫어하면 너희가 어떻게 되는지를 알게 될 것이다.",
+    Kor:"너희가 그 땅을 사십 일 동안 탐지하였으니, 그 날 수대로 하루를 일 년으로 쳐서, 너희는 사십 년 동안 너희의 죄의 짐을 져야 한다. 그제서야 너희는 내가 너희를 싫어하면 너희가 어떻게 되는지를 알게 될 것이다.'",
     Chn:"按你们窥探那地的四十日，一年顶一日，你们要担当罪孽四十年，就知道我与你们疏远了，",
     Eng:"For forty years--one year for each of the forty days you explored the land--you will suffer for your sins and know what it is like to have me against you.'",
     Ind:"Sesuai dengan jumlah hari yang kamu mengintai negeri itu, yakni empat puluh hari, satu hari dihitung satu tahun, jadi empat puluh tahun lamanya kamu harus menanggung akibat kesalahanmu, supaya kamu tahu rasanya, jika Aku berbalik dari padamu:"
@@ -219,7 +219,7 @@ BibleDB.add([
     Ind:"Adapun orang-orang yang telah disuruh Musa untuk mengintai negeri itu, yang sudah pulang dan menyebabkan segenap umat itu bersungut-sungut kepada Musa dengan menyampaikan kabar busuk tentang negeri itu,"
   },
   {Bible:"Numbers", Chapter:14, Verse:37, Page:1,
-    Kor:"그 땅에 대하여 나쁜 소문을 퍼뜨린 사람들은, 주님 앞에서 재앙을 받아 죽었다.",
+    Kor:"그 땅에 대하여 나쁜 소문을 퍼뜨린 사람들은, 주 앞에서 재앙을 받아 죽었다.",
     Chn:"这些报恶信的人都遭瘟疫，死在耶和华面前。",
     Eng:"these men responsible for spreading the bad report about the land were struck down and died of a plague before the LORD.",
     Ind:"orang-orang itu mati, kena tulah di hadapan TUHAN."
@@ -231,37 +231,37 @@ BibleDB.add([
     Ind:"Tetapi yang tinggal hidup dari orang-orang yang telah pergi mengintai negeri itu hanyalah Yosua bin Nun dan Kaleb bin Yefune."
   },
   {Bible:"Numbers", Chapter:14, Verse:39, Page:1,
-    Kor:"<첫 번째 점령 시도(신 1:41-46)> ○모세가, 주님께서 하신 말씀을 온 이스라엘 자손에게 일러주니, 백성들은 매우 슬퍼하였다.",
+    Kor:"○모세가, 주께서 하신 말씀을 온 이스라엘 자손에게 일러주니, 백성들은 매우 슬퍼하였다.",
     Chn:"摩西将这些话告诉以色列众人，他们就甚悲哀。",
     Eng:"When Moses reported this to all the Israelites, they mourned bitterly.",
     Ind:"Setelah Musa menyampaikan perkataan ini kepada semua orang Israel, maka berkabunglah bangsa itu dengan sangat."
   },
   {Bible:"Numbers", Chapter:14, Verse:40, Page:1,
-    Kor:"다음날, 그들은 일찍 일어나 산꼭대기로 올라가면서 외쳤다. \"주님께서 말씀하신 그 곳으로 올라가자. 우리가 잘못했다.\"",
+    Kor:"다음날, 그들은 일찍 일어나 산꼭대기로 올라가면서 외쳤다. \"주께서 말씀하신 그 곳으로 올라가자. 우리가 잘못했다.\"",
     Chn:"清早起来，上山顶去，说：「我们在这里，我们有罪了；情愿上耶和华所应许的地方去。」",
     Eng:"Early the next morning they went up toward the high hill country. \"We have sinned,\" they said. \"We will go up to the place the LORD promised.\"",
     Ind:"Dan keesokan harinya bangunlah mereka pagi-pagi hendak naik ke puncak gunung sambil berkata: \"Sekarang kita hendak maju ke negeri yang difirmankan TUHAN itu; memang kita telah berbuat dosa.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:41, Page:1,
-    Kor:"그러나 모세는 말렸다. \"어쩌자고 주님께서 하신 말씀을 거역하려는 것입니까? 이 일은 결코 성공하지 못합니다.",
+    Kor:"그러나 모세는 말렸다. \"어쩌자고 주께서 하신 말씀을 거역하려는 거냐? 이 일은 결코 성공하지 못한다.",
     Chn:"摩西说：「你们为何违背耶和华的命令呢？这事不能顺利了。",
     Eng:"But Moses said, \"Why are you disobeying the LORD'S command? This will not succeed!",
     Ind:"Tetapi kata Musa: \"Mengapakah kamu hendak melanggar titah TUHAN? Hal itu tidak akan berhasil."
   },
   {Bible:"Numbers", Chapter:14, Verse:42, Page:1,
-    Kor:"올라가지 마십시오. 주님께서 당신들 가운데 계시지 않습니다. 당신들은 적에게 패합니다.",
+    Kor:"올라가지 말아라. 주께서 너희 가운데 계시지 않는다. 너희는 적에게 패한다.",
     Chn:"不要上去；因为耶和华不在你们中间，恐怕你们被仇敌杀败了。",
     Eng:"Do not go up, because the LORD is not with you. You will be defeated by your enemies,",
     Ind:"Janganlah maju, sebab TUHAN tidak ada di tengah-tengahmu, supaya jangan kamu dikalahkan oleh musuhmu,"
   },
   {Bible:"Numbers", Chapter:14, Verse:43, Page:1,
-    Kor:"아말렉 사람과 가나안 사람이 거기에서 당신들을 기다리고 있습니다. 당신들은 칼을 맞고 쓰러집니다. 당신들이 주님을 등지고 돌아섰으니, 주님께서 당신들과 함께 계시지 않습니다.\"",
+    Kor:"아말렉 사람과 가나안 사람이 거기에서 너희를 기다리고 있다. 너희는 칼을 맞고 쓰러진다. 너희가 주를 등지고 돌아섰으니, 주께서 너희와 함께 계시지 않는다.\"",
     Chn:"亚玛力人和迦南人都在你们面前，你们必倒在刀下；因你们退回不跟从耶和华，所以他必不与你们同在。」",
     Eng:"for the Amalekites and Canaanites will face you there. Because you have turned away from the LORD, he will not be with you and you will fall by the sword.\"",
     Ind:"sebab orang Amalek dan orang Kanaan ada di sana di depanmu dan kamu akan tewas oleh pedang; dari sebab kamu berbalik membelakangi TUHAN, maka TUHAN tidak akan menyertai kamu.\""
   },
   {Bible:"Numbers", Chapter:14, Verse:44, Page:1,
-    Kor:"○그들은 더 생각하지도 않고 산꼭대기로 올라갔다. 그러나 주님의 언약궤와 모세는 진 안에서 움직이지 않았다.",
+    Kor:"○그들은 더 생각하지도 않고 산꼭대기로 올라갔다. 그러나 주의 언약궤와 모세는 진 안에서 움직이지 않았다.",
     Chn:"他们却擅敢上山顶去，然而耶和华的约柜和摩西没有出营。",
     Eng:"Nevertheless, in their presumption they went up toward the high hill country, though neither Moses nor the ark of the LORD'S covenant moved from the camp.",
     Ind:"Meskipun demikian, mereka nekat naik ke puncak gunung itu, tetapi tabut perjanjian TUHAN dan Musa juga tidaklah meninggalkan tempat perkemahan."

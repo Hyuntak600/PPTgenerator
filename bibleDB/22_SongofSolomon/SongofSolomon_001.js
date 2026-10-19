@@ -3,31 +3,31 @@
 BibleDB.ref("SongofSolomon",1,17);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:1, Verse:1, Page:1,
-    Kor:"<포도주보다 나은 사랑> 솔로몬의 가장 아름다운 노래  a(여자)(a 히브리어 본문의 대명사를 보고 남녀를 구별하였음. 사랑하는 두 남녀 외에 '친구들'이 등장함. 주석가들에 따라서는 구분을 달리하는 곳도 있음)",
+    Kor:"솔로몬의 가장 아름다운 노래",
     Chn:"所罗门的歌，是歌中的雅歌。",
     Eng:"Solomon's Song of Songs.",
     Ind:"Kidung agung dari Salomo."
   },
   {Bible:"SongofSolomon", Chapter:1, Verse:2, Page:1,
-    Kor:"나에게 입맞춰 주세요, 숨막힐 듯한 임의 입술로. 임의 사랑은 포도주보다 더 달콤합니다.",
+    Kor:"(여자) 나에게 입맞춰 주세요, 숨막힐 듯한 임의 입술로. 임의 사랑은 포도주보다 더 달콤합니다.",
     Chn:"愿他用口与我亲嘴； 因你的爱情比酒更美。",
     Eng:"Let him kiss me with the kisses of his mouth--for your love is more delightful than wine.",
     Ind:"--Kiranya ia mencium aku dengan kecupan! Karena cintamu lebih nikmat dari pada anggur,"
   },
   {Bible:"SongofSolomon", Chapter:1, Verse:3, Page:1,
-    Kor:"임에게서 풍기는 향긋한 내음, 사람들은 임을 쏟아지는 향기름이라고 부릅니다. 그러기에 아가씨들이 임을 사랑합니다.",
+    Kor:"임에게서 풍기는 향긋한 내음, 사람들은 임을 쏟아지는 향기름이라고 부릅니다. 그러기에, 아가씨들이 임을 사랑합니다.",
     Chn:"你的膏油馨香； 你的名如同倒出来的香膏， 所以众童女都爱你。",
     Eng:"Pleasing is the fragrance of your perfumes; your name is like perfume poured out. No wonder the maidens love you!",
     Ind:"harum bau minyakmu, bagaikan minyak yang tercurah namamu, oleh sebab itu gadis-gadis cinta kepadamu!"
   },
   {Bible:"SongofSolomon", Chapter:1, Verse:4, Page:1,
-    Kor:"나를 데려가 주세요, 어서요. 임금님, 나를 데려가세요, b임의 침실로. (친구들) 우리는 임과 더불어 기뻐하고 즐거워하며, 포도주보다 더 진한 임의 사랑을 기리렵니다. 아가씨라면 누구나 임을 사랑할 것입니다. (b 히브리어 남성 단수)",
+    Kor:"나를 데려가 주세요, 어서요. 임금님, 나를 데려가세요, 임의 침실로. (친구들) 우리는 임과 더불어 기뻐하고 즐거워하며, 포도주보다 더 진한 임의 사랑을 기리렵니다. 아가씨라면, 누구나 임을 사랑하고 싶을 것입니다.",
     Chn:"愿你吸引我，我们就快跑跟随你。 王带我进了内室， 我们必因你欢喜快乐。 我们要称赞你的爱情， 胜似称赞美酒。 他们爱你是理所当然的。",
     Eng:"Take me away with you--let us hurry! Let the king bring me into his chambers. We rejoice and delight in you; we will praise your love more than wine. How right they are to adore you!",
     Ind:"Tariklah aku di belakangmu, marilah kita cepat-cepat pergi! Sang raja telah membawa aku ke dalam maligai-maligainya. Kami akan bersorak-sorai dan bergembira karena engkau, kami akan memuji cintamu lebih dari pada anggur! Layaklah mereka cinta kepadamu!"
   },
   {Bible:"SongofSolomon", Chapter:1, Verse:5, Page:1,
-    Kor:"(여자) 예루살렘의 아가씨들아, 내가 검어서 예쁘단다. 게달의 장막 같고 c솔로몬의 휘장 같다는구나 (c 또는 '살마의')",
+    Kor:"(여자) 예루살렘의 아가씨들아, 내가 비록 검다마는, 게달의 장막처럼, 솔로몬의 휘장처럼, 귀엽다고도 하더라.",
     Chn:"耶路撒冷的众女子啊， 我虽然黑，却是秀美， 如同基达的帐棚， 好像所罗门的幔子。",
     Eng:"Dark am I, yet lovely, O daughters of Jerusalem, dark like the tents of Kedar, like the tent curtains of Solomon.",
     Ind:"Memang hitam aku, tetapi cantik, hai puteri-puteri Yerusalem, seperti kemah orang Kedar, seperti tirai-tirai orang Salma."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"--Sementara sang raja duduk pada mejanya, semerbak bau narwastuku."
   },
   {Bible:"SongofSolomon", Chapter:1, Verse:13, Page:1,
-    Kor:"사랑하는 그이는 나에게 가슴에 품은 향주머니라오.",
+    Kor:"사랑하는 그이는 나에게 젖가슴 사이에 품은 향주머니라오.",
     Chn:"我以我的良人为一袋没药， 常在我怀中。",
     Eng:"My lover is to me a sachet of myrrh resting between my breasts.",
     Ind:"Bagiku kekasihku bagaikan sebungkus mur, tersisip di antara buah dadaku."

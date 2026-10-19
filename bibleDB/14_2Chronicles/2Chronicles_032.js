@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",32,33);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:32, Verse:1, Page:1,
-    Kor:"<앗시리아 군대가 예루살렘을 위협하다(왕하 18:13-37; 19:14-19, 35-37; 사 36:1-22; 37:8-38)> 히스기야 왕이 이렇게 하나님을 성실하게 섬기고 난 뒤에, 앗시리아의 산헤립 왕이 유다로 쳐들어왔다. 산헤립은 요새화된 성읍들을 공격하여 점령할 수 있을 것이라고 생각하고 진을 쳤다.",
+    Kor:"히스기야 왕이 이렇게 하나님을 성실하게 섬기고 난 뒤에, 앗시리아의 산헤립 왕이 유다로 쳐들어왔다. 산헤립은 요새화된 성읍들을 공격하여 점령할 수 있을 것이라고 생각하고 진을 쳤다.",
     Chn:"这虔诚的事以后，亚述王西拿基立来侵入犹大，围困一切坚固城，想要攻破占据。",
     Eng:"After all that Hezekiah had so faithfully done, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, thinking to conquer them for himself.",
     Ind:"Setelah peristiwa yang menunjukkan kesetiaan Hizkia itu datanglah Sanherib, raja Asyur, menyerbu Yehuda. Ia mengepung kota-kota berkubu, dan berniat merebutnya."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"ia berunding dengan para panglima dan pahlawannya untuk menutup segala mata air yang terdapat di luar kota dan mereka itu bersedia membantunya."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:4, Page:1,
-    Kor:"많은 인원을 동원하여, 모든 샘과 들판으로 흘러 나가는 물줄기를 막았다. 앗시리아의 a왕들이 진군하여 오더라도 물을 얻지 못하게 할 생각이었다.(a 칠십인역과 시리아어역에는 '왕')",
+    Kor:"많은 인원을 동원하여, 모든 샘과 들판으로 흘러 나가는 물줄기를 막았다. 앗시리아의 왕들이 진군하여 오더라도 물을 얻지 못하게 할 생각이었다.",
     Chn:"于是有许多人聚集，塞了一切泉源，并通流国中的小河，说：「亚述王来，为何让他得着许多水呢？」",
     Eng:"A large force of men assembled, and they blocked all the springs and the stream that flowed through the land. \"Why should the kings of Assyria come and find plenty of water?\" they said.",
     Ind:"Maka berkumpullah banyak orang. Mereka menutup semua mata air dan sungai yang mengalir dari tengah-tengah negeri itu. Kata mereka: \"Mengapa raja-raja Asyur harus mendapat banyak air, kalau mereka datang?\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Bukankah Hizkia memperdayakan kamu, supaya kamu mati kelaparan dan kehausan, dengan mengatakan: TUHAN, Allah kita, akan melepaskan kita dari tangan raja Asyur?"
   },
   {Bible:"2Chronicles", Chapter:32, Verse:12, Page:1,
-    Kor:"주님의 산당들과 제단들을 다 없애 버리고, 유다와 예루살렘에 명령을 내려, 오직 하나의 제단 앞에서만 경배하고 그 위에서만 분향하라고 한 것이, 히스기야가 아니냐?",
+    Kor:"주의 산당들과 제단들을 다 없애 버리고, 유다와 예루살렘에 명령을 내려, 오직 하나의 제단 앞에서만 경배하고 그 위에서만 분향하라고 한 것이, 히스기야가 아니냐?",
     Chn:"这希西家岂不是废去耶和华的邱坛和祭坛，吩咐犹大与耶路撒冷的人说「你们当在一个坛前敬拜，在其上烧香」吗？",
     Eng:"Did not Hezekiah himself remove this god's high places and altars, saying to Judah and Jerusalem, 'You must worship before one altar and burn sacrifices on it'?",
     Ind:"Bukankah Hizkia ini yang menjauhkan segala bukit pengorbanan dan mezbah TUHAN itu, dan berkata kepada Yehuda dan Yerusalem: Hanya di depan satu mezbah kamu harus sujud menyembah dan membakar korban di atasnya?"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Sekarang, janganlah Hizkia memperdayakan dan membujuk kamu seperti ini! Janganlah percaya kepadanya, karena tidak ada allah dari bangsa atau kerajaan manapun yang dapat melepaskan bangsanya dari tanganku dan dari tangan nenek moyangku, lebih-lebih lagi Allahmu itu takkan dapat melepaskan kamu dari tanganku!\""
   },
   {Bible:"2Chronicles", Chapter:32, Verse:16, Page:1,
-    Kor:"○산헤립의 부하들은 주 하나님께, 그리고 주님의 종 히스기야에게 더욱 비방하는 말을 퍼부었다.",
+    Kor:"○산헤립의 부하들은 주 하나님께, 그리고 주의 종 히스기야에게 더욱 비방하는 말을 퍼부었다.",
     Chn:"西拿基立的臣仆还有别的话毁谤耶和华　神和他仆人希西家。",
     Eng:"Sennacherib's officers spoke further against the LORD God and against his servant Hezekiah.",
     Ind:"Dan masih banyak lagi yang diucapkan pegawai-pegawai Sanherib itu menentang TUHAN Allah dan menentang Hizkia, hamba-Nya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Dan mereka berseru dengan suara nyaring dalam bahasa Yehuda kepada rakyat Yerusalem yang ada di atas tembok, untuk menakutkan dan mengejutkan mereka, supaya mereka dapat merebut kota itu."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:19, Page:1,
-    Kor:"그들은 예루살렘의 하나님을 두고 말하기를, 마치 사람이 손으로 만든 세상 다른 나라 백성의 신들을 두고 하듯이 거침없이 말하였다.",
+    Kor:"그들은 예루살렘의 하나님을 두고 말하기를, 마치 사람이 손으로 만든 세상의 다른 나라 백성의 신들을 두고 하듯이 거침없이 말하였다.",
     Chn:"他们论耶路撒冷的　神，如同论世上人手所造的神一样。",
     Eng:"They spoke about the God of Jerusalem as they did about the gods of the other peoples of the world--the work of men's hands.",
     Ind:"Mereka berbicara tentang Allah Yerusalem seperti tentang para allah bangsa-bangsa di dunia, adalah buatan tangan manusia."
@@ -123,25 +123,25 @@ BibleDB.add([
     Ind:"Tetapi oleh karena itu raja Hizkia dan nabi Yesaya bin Amos berdoa dan berseru kepada sorga."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:21, Page:1,
-    Kor:"주님께서 한 천사를 보내셔서 앗시리아 왕의 진영에 있는 모든 큰 용사와 지휘관과 장군을 다 죽여 버리셨다. 앗시리아 왕은 망신만 당하고 자기 나라로 되돌아갔다. 그가 그의 신전으로 들어갔을 때에, 제 몸에서 난 친자식들이 거기서 그를 칼로 죽였다.",
+    Kor:"주께서 한 천사를 보내셔서 앗시리아 왕의 진영에 있는 모든 큰 용사와 지휘관과 장군을 다 죽여 버리셨다. 앗시리아 왕은 망신만 당하고 자기 나라로 되돌아갔다. 그가 그의 신전으로 들어갔을 때에, 제 몸에서 난 친자식들이 거기서 그를 칼로 죽였다.",
     Chn:"耶和华就差遣一个使者进入亚述王营中，把所有大能的勇士和官长、将帅尽都灭了。亚述王满面含羞地回到本国，进了他神的庙中，有他亲生的儿子在那里用刀杀了他。",
     Eng:"And the LORD sent an angel, who annihilated all the fighting men and the leaders and officers in the camp of the Assyrian king. So he withdrew to his own land in disgrace. And when he went into the temple of his god, some of his sons cut him down with the sword.",
     Ind:"Lalu TUHAN mengirim malaikat yang melenyapkan semua pahlawan yang gagah perkasa, pemuka dan panglima yang ada di perkemahan raja Asyur, sehingga ia kemalu-maluan kembali ke negerinya. Kemudian ia ditewaskan dengan pedang oleh anak-anak kandungnya sendiri ketika ia memasuki rumah allahnya."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:22, Page:1,
-    Kor:"○이처럼 주님께서 히스기야와 예루살렘 주민을 앗시리아의 왕 산헤립의 손과 모든 적국의 손에서 구하여 내셨다. 주님께서는 사방으로부터 그들을 보호하여 주셨다.",
+    Kor:"○이처럼 주께서 히스기야와 예루살렘 주민을 앗시리아의 왕 산헤립의 손과 모든 적국의 손에서 구하여 내셨다. 주께서는 사방으로부터 그들을 보호하여 주셨다.",
     Chn:"这样，耶和华救希西家和耶路撒冷的居民脱离亚述王西拿基立的手，也脱离一切仇敌的手，又赐他们四境平安。",
     Eng:"So the LORD saved Hezekiah and the people of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others. He took care of them on every side.",
     Ind:"Demikianlah TUHAN menyelamatkan Hizkia dan penduduk Yerusalem dari tangan Sanherib, raja Asyur, dan dari tangan semua musuhnya. Dan Ia mengaruniakan keamanan kepada mereka di segala penjuru."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:23, Page:1,
-    Kor:"여러 나라 사람들이 예루살렘으로 예물을 가지고 와서 주님께 드리고, 유다 왕 히스기야에게 선물을 가져 왔다. 그 때부터 히스기야는 여러 나라에서 존경을 받았다.",
+    Kor:"여러 나라 사람들이 예루살렘으로 예물을 가지고 와서 주께 드리고, 유다 왕 히스기야에게 선물을 가져 왔다. 그 때부터 히스기야는 여러 나라에서 존경을 받았다.",
     Chn:"有许多人到耶路撒冷，将供物献与耶和华，又将宝物送给犹大王希西家。此后，希西家在列邦人的眼中看为尊大。",
     Eng:"Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah king of Judah. From then on he was highly regarded by all the nations.",
     Ind:"Banyak orang membawa persembahan ke Yerusalem untuk TUHAN dan barang-barang berharga untuk Hizkia, raja Yehuda itu. Sejak itu ia diagungkan oleh semua bangsa."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:24, Page:1,
-    Kor:"<히스기야의 병과 교만(왕하 20:1-3, 12-19; 사 38:1-3; 39:1-8)> ○그 무렵에 히스기야가 병이 들어 거의 죽게 되었는데, 히스기야가 주님께 기도하니, 주님께서 그에게 응답하시고, 회복될 것이라고 하는 징조를 보여 주셨다.",
+    Kor:"○그 무렵에 히스기야가 병이 들어 거의 죽게 되었는데, 히스기야가 주께 기도하니, 주께서 그에게 응답하시고, 회복될 것이라고 하는 징조를 보여 주셨다.",
     Chn:"那时希西家病得要死，就祷告耶和华，耶和华应允他，赐他一个兆头。",
     Eng:"In those days Hezekiah became ill and was at the point of death. He prayed to the LORD, who answered him and gave him a miraculous sign.",
     Ind:"Pada hari-hari itu Hizkia jatuh sakit, sehingga hampir mati. Ia berdoa kepada TUHAN, dan TUHAN berfirman kepadanya dan memberikannya suatu tanda ajaib."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Tetapi Hizkia tidak berterima kasih atas kebaikan yang ditunjukkan kepadanya, karena ia menjadi angkuh, sehingga ia dan Yehuda dan Yerusalem ditimpa murka."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:26, Page:1,
-    Kor:"드디어 히스기야가 교만하였던 자신을 뉘우치고 예루살렘 주민도 함께 뉘우쳤으므로, 주님께서는 히스기야가 살아 있는 동안에는 그들을 벌하지 않으셨다.",
+    Kor:"드디어 히스기야가 교만하였던 자신을 뉘우치고 예루살렘 주민도 함께 뉘우쳤으므로, 주께서는 히스기야가 살아 있는 동안에는 그들을 벌하지 않으셨다.",
     Chn:"但希西家和耶路撒冷的居民觉得心里骄傲，就一同自卑，以致耶和华的忿怒在希西家的日子没有临到他们。",
     Eng:"Then Hezekiah repented of the pride of his heart, as did the people of Jerusalem; therefore the LORD'S wrath did not come upon them during the days of Hezekiah.",
     Ind:"Tetapi ia sadar akan keangkuhannya itu dan merendahkan diri bersama-sama dengan penduduk Yerusalem, sehingga murka TUHAN tidak menimpa mereka pada zaman Hizkia."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:27, Page:1,
-    Kor:"<히스기야의 부귀영화> ○히스기야는 대단히 부유하게 되었고, 온 천하의 영화를 한 몸에 누리게 되었다. 그는 귀중품 보관소를 만들어서, 은과 금과 보석과 향품과 방패와 온갖 귀중품을 보관하였으며,",
+    Kor:"○히스기야는 대단히 부유하게 되었고, 온 천하의 영화를 한 몸에 누리게 되었다. 그는 귀중품 보관소를 만들어서, 은과 금과 보석과 향품과 방패와 온갖 귀중품을 보관하였으며,",
     Chn:"希西家大有尊荣资财，建造府库，收藏金银、宝石、香料、盾牌，和各样的宝器，",
     Eng:"Hezekiah had very great riches and honor, and he made treasuries for his silver and gold and for his precious stones, spices, shields and all kinds of valuables.",
     Ind:"Hizkia mendapat kekayaan dan kemuliaan yang sangat besar. Ia membuat perbendaharaan-perbendaharaan untuk emas, perak, batu permata yang mahal-mahal, rempah-rempah, perisai-perisai dan segala macam barang yang indah-indah,"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Demikianlah juga ketika utusan-utusan raja-raja Babel datang kepadanya untuk menanyakan tentang tanda ajaib yang telah terjadi di negeri, ketika itu Allah meninggalkan dia untuk mencobainya, supaya diketahui segala isi hatinya."
   },
   {Bible:"2Chronicles", Chapter:32, Verse:32, Page:1,
-    Kor:"<히스기야의 통치가 끝나다(왕하 20:20-21)> ○히스기야 통치 때에 있었던 그의 나머지 행적과 그가 주님께 헌신한 일은, 아모스의 아들 예언자 '이사야의 묵시록'과, '유다와 이스라엘 열왕기'에 기록되어 있다.",
+    Kor:"○히스기야 통치 때에 있었던 그의 나머지 행적과 그가 주께 헌신한 일은, 아모스의 아들 예언자 '이사야의 묵시록'과, '유다와 이스라엘 열왕기'에 기록되어 있다.",
     Chn:"希西家其余的事和他的善行都写在亚摩斯的儿子先知以赛亚的默示书上和犹大、以色列的诸王记上。",
     Eng:"The other events of Hezekiah's reign and his acts of devotion are written in the vision of the prophet Isaiah son of Amoz in the book of the kings of Judah and Israel.",
     Ind:"Selebihnya dari riwayat Hizkia dan perbuatan-perbuatannya yang setia, sesungguhnya semuanya itu tertulis dalam penglihatan nabi Yesaya bin Amos, dalam kitab raja-raja Yehuda dan Israel."

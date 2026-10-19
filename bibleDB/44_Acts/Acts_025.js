@@ -3,7 +3,7 @@
 BibleDB.ref("Acts",25,27);
 BibleDB.add([
   {Bible:"Acts", Chapter:25, Verse:1, Page:1,
-    Kor:"<바울이 황제에게 상소하다> 베스도가 부임한 지 사흘 뒤에, 가이사랴에서 예루살렘으로 올라가니,",
+    Kor:"베스도가 부임한 지 사흘 뒤에, 가이사랴에서 예루살렘으로 올라가니,",
     Chn:"非斯都到了任，过了三天，就从凯撒利亚上耶路撒冷去。",
     Eng:"Three days after arriving in the province, Festus went up from Caesarea to Jerusalem,",
     Ind:"Tiga hari sesudah tiba di propinsi itu berangkatlah Festus dari Kaisarea ke Yerusalem."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Katanya: \"Karena itu baiklah orang-orang yang berwewenang di antara kamu turut ke sana bersama-sama dengan aku dan mengajukan dakwaan terhadap dia, jika ada kesalahannya.\""
   },
   {Bible:"Acts", Chapter:25, Verse:6, Page:1,
-    Kor:"○베스도는 예루살렘에서 여드레인가 열흘인가를 지낸 뒤에, 가이사랴로 내려가서, 이튿날 재판석에 앉아서, 바울을 데려오라고 명령하였다.",
+    Kor:"○베스도는 예루살렘에서 여드레인가 열흘인가를 지낸 뒤에, 가이사랴로 내려가서, 이튿날, 재판석에 앉아서, 바울을 데려오라고 명령하였다.",
     Chn:"非斯都在他们那里住了不过十天八天，就下凯撒利亚去；第二天坐堂，吩咐将保罗提上来。",
     Eng:"After spending eight or ten days with them, he went down to Caesarea, and the next day he convened the court and ordered that Paul be brought before him.",
     Ind:"Festus tinggal tidak lebih dari pada delapan atau sepuluh hari di Yerusalem. Sesudah itu ia pulang ke Kaisarea. Pada keesokan harinya ia mengadakan sidang pengadilan, dan menyuruh menghadapkan Paulus."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Sesudah Paulus tiba di situ, semua orang Yahudi yang datang dari Yerusalem berdiri mengelilinginya dan mereka mengemukakan banyak tuduhan berat terhadap dia yang tidak dapat mereka buktikan."
   },
   {Bible:"Acts", Chapter:25, Verse:8, Page:1,
-    Kor:"바울은 \"나는 유대 사람의 율법이나 성전이나 a황제에 대하여 아무 죄도 지은 일이 없습니다\" 하고 말하여 자신을 변호하였다.(a 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"바울은 \"나는 유대 사람의 율법이나, 성전이나, 황제에 대하여 아무 죄도 지은 일이 없습니다\" 하고 변명하였다.",
     Chn:"保罗分诉说：「无论犹太人的律法，或是圣殿，或是凯撒，我都没有干犯。」",
     Eng:"Then Paul made his defense: \"I have done nothing wrong against the law of the Jews or against the temple or against Caesar.\"",
     Ind:"Sebaliknya Paulus membela diri, katanya: \"Aku sedikitpun tidak bersalah, baik terhadap hukum Taurat orang Yahudi maupun terhadap Bait Allah atau terhadap Kaisar.\""
@@ -57,31 +57,31 @@ BibleDB.add([
     Ind:"Tetapi Festus yang hendak mengambil hati orang Yahudi, menjawab Paulus, katanya: \"Apakah engkau bersedia pergi ke Yerusalem, supaya engkau dihakimi di sana di hadapanku tentang perkara ini?\""
   },
   {Bible:"Acts", Chapter:25, Verse:10, Page:1,
-    Kor:"바울이 대답하였다. \"나는 지금 a황제의 법정에 서 있습니다. 나는 여기서 재판을 받아야 합니다. 각하께서도 잘 아시는 대로, 나는 유대 사람에게 조금도 잘못한 것이 없습니다.(a 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"바울이 대답하였다. \"나는 지금 황제의 법정에 서 있습니다. 나는 여기에서 재판을 받아야 합니다. 각하께서도 잘 아시는 대로, 나는 유대 사람에게 조금도 잘못한 것이 없습니다.",
     Chn:"保罗说：「我站在凯撒的堂前，这就是我应当受审的地方。我向犹太人并没有行过什么不义的事，这也是你明明知道的。",
     Eng:"Paul answered: \"I am now standing before Caesar's court, where I ought to be tried. I have not done any wrong to the Jews, as you yourself know very well.",
     Ind:"Tetapi kata Paulus: \"Aku sekarang berdiri di sini di hadapan pengadilan Kaisar dan di sinilah aku harus dihakimi. Seperti engkau sendiri tahu benar-benar, sedikitpun aku tidak berbuat salah terhadap orang Yahudi."
   },
   {Bible:"Acts", Chapter:25, Verse:11, Page:1,
-    Kor:"만일 내가 나쁜 짓을 저질러서, 사형을 받을 만한 무슨 일을 하였으면, 죽는 것을 마다하지 않겠습니다. 그러나 나를 고발하는 이 사람들의 고발 내용에 아무런 근거가 없으면, 어느 누구도 나를 그들에게 넘겨줄 수 없습니다. 나는 a황제에게 상소합니다.\"(a 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"만일 내가 나쁜 짓을 저질러서, 사형을 받을 만한 무슨 일을 하였으면, 죽는 것을 마다하지 않겠습니다. 그러나 나를 고발하는 이 사람들의 고발 내용에 아무런 근거가 없으면, 어느 누구도 나를 그들에게 넘겨 줄 수 없습니다. 나는 황제에게 상소합니다.\"",
     Chn:"我若行了不义的事，犯了什么该死的罪，就是死，我也不辞。他们所告我的事若都不实，就没有人可以把我交给他们。我要上告于凯撒。」",
     Eng:"If, however, I am guilty of doing anything deserving death, I do not refuse to die. But if the charges brought against me by these Jews are not true, no one has the right to hand me over to them. I appeal to Caesar!\"",
     Ind:"Jadi, jika aku benar-benar bersalah dan berbuat sesuatu kejahatan yang setimpal dengan hukuman mati, aku rela mati, tetapi, jika apa yang mereka tuduhkan itu terhadap aku ternyata tidak benar, tidak ada seorangpun yang berhak menyerahkan aku sebagai suatu anugerah kepada mereka. Aku naik banding kepada Kaisar!\""
   },
   {Bible:"Acts", Chapter:25, Verse:12, Page:1,
-    Kor:"그 때에 베스도가 배심원들과 협의하고 \"그대가 a황제에게 상소하였으니, a황제에게로 갈 것이오\" 하고 말하였다.(a 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"그 때에 베스도가 배심원들과 협의하고 \"그대가 황제에게 상소하였으니, 황제에게로 갈 것이오\" 하고 말하였다.",
     Chn:"非斯都和议会商量了，就说：「你既上告于凯撒，可以往凯撒那里去。」",
     Eng:"After Festus had conferred with his council, he declared: \"You have appealed to Caesar. To Caesar you will go!\"",
     Ind:"Setelah berunding dengan anggota-anggota pengadilan, Festus menjawab: \"Engkau telah naik banding kepada Kaisar, jadi engkau harus pergi menghadap Kaisar.\""
   },
   {Bible:"Acts", Chapter:25, Verse:13, Page:1,
-    Kor:"<바울이 아그립바 왕과 버니게 앞에 서다> ○며칠이 지난 뒤에, 아그립바 왕과 버니게가 베스도에게 인사하려고 가이사랴에 왔다.",
+    Kor:"○며칠이 지난 뒤에, 아그립바 왕과 버니게가 베스도에게 인사하려고 가이사랴에 왔다.",
     Chn:"过了些日子，亚基帕王和百妮基氏来到凯撒利亚，问非斯都安。",
     Eng:"A few days later King Agrippa and Bernice arrived at Caesarea to pay their respects to Festus.",
     Ind:"Beberapa hari kemudian datanglah raja Agripa dengan Bernike ke Kaisarea untuk mengadakan kunjungan kehormatan kepada Festus."
   },
   {Bible:"Acts", Chapter:25, Verse:14, Page:1,
-    Kor:"그들이 거기서 여러 날 지내는 동안에, 베스도는 바울에 대한 고발 사건을 왕 앞에 내놓고 말하였다. \"벨릭스가 가두어 둔 사람이 하나 있는데,",
+    Kor:"그들이 거기에서 여러 날 지내는 동안에, 베스도가 바울을 두고 소송을 제기한 사건을 왕 앞에 내놓고 말하였다. \"벨릭스가 가두어 둔 사람이 하나 있는데,",
     Chn:"在那里住了多日，非斯都将保罗的事告诉王，说：「这里有一个人，是腓力斯留在监里的。",
     Eng:"Since they were spending many days there, Festus discussed Paul's case with the king. He said: \"There is a man here whom Felix left as a prisoner.",
     Ind:"Karena mereka beberapa hari lamanya tinggal di situ, Festus memaparkan perkara Paulus kepada raja itu, katanya: \"Di sini ada seorang tahanan yang ditinggalkan Feliks pada waktu ia pergi."
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Ketika aku berada di Yerusalem, imam-imam kepala dan tua-tua orang Yahudi mengajukan dakwaan terhadap orang itu dan meminta supaya ia dihukum."
   },
   {Bible:"Acts", Chapter:25, Verse:16, Page:1,
-    Kor:"나는 그들에게 대답하기를, 로마 사람의 관례로서는, 피고가 원고를 직접 대면해서, 그 고발한 내용에 대하여 변호할 기회를 가지기 전에는, 그 사람을 넘겨 주는 일이 없다고 하였습니다.",
+    Kor:"나는 그들에게 대답하기를, 로마 사람의 관례로서는, 피고가 원고를 직접 대면해서, 그 고발한 내용에 대하여 변명할 기회를 가지기 전에는, 그 사람을 넘겨 주는 일이 없다고 하였습니다.",
     Chn:"我对他们说，无论什么人，被告还没有和原告对质，未得机会分诉所告他的事，就先定他的罪，这不是罗马人的条例。",
     Eng:"\"I told them that it is not the Roman custom to hand over any man before he has faced his accusers and has had an opportunity to defend himself against their charges.",
     Ind:"Aku menjawab mereka, bahwa bukanlah kebiasaan pada orang-orang Roma untuk menyerahkan seorang terdakwa sebagai suatu anugerah sebelum ia dihadapkan dengan orang-orang yang menuduhnya dan diberi kesempatan untuk membela diri terhadap tuduhan itu."
   },
   {Bible:"Acts", Chapter:25, Verse:17, Page:1,
-    Kor:"그래서 그들이 여기에 함께 왔으므로, 나는 조금도 지체하지 않고, 그 다음날 재판석에 앉아서, 그 사람을 불러오게 하였습니다.",
+    Kor:"그래서 그들이 여기에 같이 왔으므로, 나는 조금도 지체하지 않고, 그 다음날 재판석에 앉아서, 그 사람을 불러오게 하였습니다.",
     Chn:"及至他们都来到这里，我就不耽延，第二天便坐堂，吩咐把那人提上来。",
     Eng:"When they came here with me, I did not delay the case, but convened the court the next day and ordered the man to be brought in.",
     Ind:"Karena itu mereka turut bersama-sama dengan aku ke mari. Pada keesokan harinya aku segera mengadakan sidang pengadilan dan menyuruh menghadapkan orang itu."
@@ -117,31 +117,31 @@ BibleDB.add([
     Ind:"Tetapi mereka hanya berselisih paham dengan dia tentang soal-soal agama mereka, dan tentang seorang bernama Yesus, yang sudah mati, sedangkan Paulus katakan dengan pasti, bahwa Ia hidup."
   },
   {Bible:"Acts", Chapter:25, Verse:20, Page:1,
-    Kor:"나는 이 문제를 어떻게 심리해야 할지 몰라서, 바울에게, 예루살렘으로 가서 이 사건으로 거기서 재판을 받기를 원하는지를 물어보았습니다.",
+    Kor:"나는 이 문제를 어떻게 심리해야 할지 몰라서, 바울에게, 예루살렘으로 가서 이 사건으로 거기에서 재판을 받기를 원하는지를 물어 보았습니다.",
     Chn:"这些事当怎样究问，我心里作难，所以问他说：『你愿意上耶路撒冷去，在那里为这些事听审吗？』",
     Eng:"I was at a loss how to investigate such matters; so I asked if he would be willing to go to Jerusalem and stand trial there on these charges.",
     Ind:"Karena aku ragu-ragu bagaimana aku harus memeriksa perkara-perkara seperti itu, aku menanyakan apakah ia mau pergi ke Yerusalem, supaya perkaranya dihakimi di situ."
   },
   {Bible:"Acts", Chapter:25, Verse:21, Page:1,
-    Kor:"그러나 바울이 황제의 판결을 받도록, 그대로 갇혀 있게 하여 달라고 호소하므로, 내가 그를 a황제에게 보낼 때까지 그를 가두어 두라고 명령하였습니다.\"(a 그, '가이사', 라틴어의 그리스어 음역. 로마 황제의 칭호)",
+    Kor:"그러나 바울이 황제의 판결을 받도록, 그대로 갇혀 있게 하여 달라고 호소하므로, 내가 그를 황제에게 보낼 때까지, 그를 가두어 두라고 명령하였습니다.\"",
     Chn:"但保罗求我留下他，要听皇上审断，我就吩咐把他留下，等我解他到凯撒那里去。」",
     Eng:"When Paul made his appeal to be held over for the Emperor's decision, I ordered him held until I could send him to Caesar.\"",
     Ind:"Tetapi Paulus naik banding. Ia minta, supaya ia tinggal dalam tahanan dan menunggu, sampai perkaranya diputuskan oleh Kaisar. Karena itu aku menyuruh menahan dia sampai aku dapat mengirim dia kepada Kaisar.\""
   },
   {Bible:"Acts", Chapter:25, Verse:22, Page:1,
-    Kor:"아그립바가 베스도에게 말하기를 \"나도 그 사람의 말을 직접 들어보고 싶습니다\" 하니, 베스도가 \"내일, 그의 말을 들어보십시오\" 하고 대답하였다.",
+    Kor:"아그립바가 베스도에게 \"나도 그 사람의 말을 직접 들어 보고 싶습니다\" 하고 말하니, 베스도가 \"내일, 그의 말을 들어 보십시오\" 하고 대답하였다.",
     Chn:"亚基帕对非斯都说：「我自己也愿听这人辩论。」非斯都说：「明天你可以听。」",
     Eng:"Then Agrippa said to Festus, \"I would like to hear this man myself.\" He replied, \"Tomorrow you will hear him.\"",
     Ind:"Kata Agripa kepada Festus: \"Aku ingin mendengar orang itu sendiri.\" Jawab Festus: \"Besok engkau akan mendengar dia.\""
   },
   {Bible:"Acts", Chapter:25, Verse:23, Page:1,
-    Kor:"○이튿날, 아그립바와 버니게가 위엄을 갖추고 나와서, 고급 장교들과 그 도시의 요인들과 함께 신문 장소로 들어갔다. 그리고 베스도의 명령으로 바울을 끌어냈다.",
+    Kor:"○이튿날, 아그립바와 버니게가 위엄을 갖추고 나와서, 고급 장교들과 그 도시의 요인들과 함께 공청실로 들어갔다. 그리고 베스도의 명령으로 바울을 끌어냈다.",
     Chn:"第二天，亚基帕和百妮基大张威势而来，同着众千夫长和城里的尊贵人进了公厅。非斯都吩咐一声，就有人将保罗带进来。",
     Eng:"The next day Agrippa and Bernice came with great pomp and entered the audience room with the high ranking officers and the leading men of the city. At the command of Festus, Paul was brought in.",
     Ind:"Pada keesokan harinya datanglah Agripa dan Bernike dengan segala kebesaran dan sesudah mereka masuk ruang pengadilan bersama-sama dengan kepala-kepala pasukan dan orang-orang yang terkemuka dari kota itu, Festus memberi perintah, supaya Paulus dihadapkan."
   },
   {Bible:"Acts", Chapter:25, Verse:24, Page:1,
-    Kor:"그 때에 베스도가 말하였다. \"아그립바 임금님, 그리고 우리와 자리를 같이 하신 여러분, 여러분이 보시는 대로, 이 사람은 예루살렘에서나 여기서나, 모든 유대 사람이 그를 이 이상 더 살려 두어서는 안 된다고 소리치면서, 나에게 청원한 사람입니다.",
+    Kor:"그 때에 베스도가 말하였다. \"아그립바 왕 전하, 그리고 여기 우리와 함께 계신 여러분, 여러분이 보시는 대로, 이 사람은 예루살렘에서나 여기에서나, 모든 유대 사람이 그를 이 이상 더 살려 두어서는 안 된다고 소리 치면서, 나에게 청원한 사람입니다.",
     Chn:"非斯都说：「亚基帕王和在这里的诸位啊，你们看这人，就是一切犹太人，在耶路撒冷和这里，曾向我恳求、呼叫说：『不可容他再活着。』",
     Eng:"Festus said: \"King Agrippa, and all who are present with us, you see this man! The whole Jewish community has petitioned me about him in Jerusalem and here in Caesarea, shouting that he ought not to live any longer.",
     Ind:"Festus berkata: \"Ya raja Agripa serta semua yang hadir di sini bersama-sama dengan kami. Lihatlah orang ini, yang dituduh oleh semua orang Yahudi, baik yang di Yerusalem, maupun yang di sini. Mereka telah datang kepadaku dan sambil berteriak-teriak mereka mengatakan, bahwa ia tidak boleh hidup lebih lama."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Tetapi ternyata kepadaku, bahwa ia tidak berbuat sesuatupun yang setimpal dengan hukuman mati dan karena ia naik banding kepada Kaisar, aku memutuskan untuk mengirim dia menghadap Kaisar."
   },
   {Bible:"Acts", Chapter:25, Verse:26, Page:1,
-    Kor:"나는 그와 관계되어 있는 일을 황제께 써 올릴 만한 확실한 자료가 없으므로, 여기서 그를 신문해서, 내가 써 올릴 자료를 얻을까 하는 생각으로, 그를 여러분 앞에, 특히 아그립바 임금님 앞에 끌어다가 세웠습니다.",
+    Kor:"나는 그와 관계되어 있는 일을 황제께 써 올릴 만한 확실한 자료가 없으므로, 여기에서 그를 신문해서, 내가 써 올릴 자료를 얻을까 하는 생각으로, 그를 여러분 앞에, 특히 아그립바 왕 전하 앞에 끌어다가 세웠습니다.",
     Chn:"论到这人，我没有确实的事可以奏明主上。因此，我带他到你们面前，也特意带他到你亚基帕王面前，为要在查问之后有所陈奏。",
     Eng:"But I have nothing definite to write to His Majesty about him. Therefore I have brought him before all of you, and especially before you, King Agrippa, so that as a result of this investigation I may have something to write.",
     Ind:"Tetapi tidak ada apa-apa yang pasti yang harus kutulis kepada Kaisar tentang dia. Itulah sebabnya aku menghadapkan dia di sini kepada kamu semua, terutama kepadamu, raja Agripa, supaya, setelah diadakan pemeriksaan, aku dapat menuliskan sesuatu."
   },
   {Bible:"Acts", Chapter:25, Verse:27, Page:1,
-    Kor:"죄수를 보내면서 그의 죄목도 제시하지 않는다는 것은, 이치에 맞지 않는 일이라고 생각합니다.\"",
+    Kor:"죄수를 보내면서, 그의 죄목도 제시하지 않는다는 것은, 이치에 맞지 않는 일이라고 생각합니다.\"",
     Chn:"据我看来，解送囚犯，不指明他的罪案是不合理的。」",
     Eng:"For I think it is unreasonable to send on a prisoner without specifying the charges against him.\"",
     Ind:"Sebab pada hematku tidaklah wajar untuk mengirim seorang tahanan dengan tidak menyatakan tuduhan-tuduhan yang diajukan terhadap dia.\""

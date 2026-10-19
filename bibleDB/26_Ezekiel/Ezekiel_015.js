@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",15,8);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:15, Verse:1, Page:1,
-    Kor:"<예루살렘은 타 버린 포도나무> 주님께서 나에게 말씀하셨다.",
+    Kor:"주께서 나에게 말씀하셨다.",
     Chn:"耶和华的话临到我说：",
     Eng:"The word of the LORD came to me:",
     Ind:"Lalu datanglah firman TUHAN kepadaku:"
   },
   {Bible:"Ezekiel", Chapter:15, Verse:2, Page:1,
-    Kor:"\"사람아, 포도나무 곧 삼림 가운데 있는 그 덩굴이, 다른 모든 나무에 비해 나은 점이 있느냐?",
+    Kor:"\"사람아, 포도나무, 곧 삼림 가운데 있는 그 덩굴이 다른 모든 나무에 비해 나은 점이 있느냐?",
     Chn:"「人子啊，葡萄树比别样树有什么强处？葡萄枝比众树枝有什么好处？",
     Eng:"\"Son of man, how is the wood of a vine better than that of a branch on any of the trees in the forest?",
     Ind:"\"Hai anak manusia, apakah kelebihan kayu anggur dari semua kayu yang buahnya seperti anggur yang tumbuh di antara kayu-kayu di hutan?"
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Aku sendiri akan menentang mereka. Walaupun mereka luput dari api, tetapi api akan memakan mereka. Dan kamu akan mengetahui bahwa Akulah TUHAN, pada saat Aku menentang mereka"
   },
   {Bible:"Ezekiel", Chapter:15, Verse:8, Page:1,
-    Kor:"",
+    Kor:"(없음)",
     Chn:"我必使地土荒凉，因为他们行事干犯我。这是主耶和华说的。」",
     Eng:"I will make the land desolate because they have been unfaithful, declares the Sovereign LORD.\"",
     Ind:"dan Aku menjadikan negeri itu sunyi sepi, oleh karena mereka berobah setia, demikianlah firman Tuhan ALLAH.\""

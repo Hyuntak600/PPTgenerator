@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Esok harinya sesudah ia membunuh Gedalya--ketika itu belum ada yang tahu--"
   },
   {Bible:"Jeremiah", Chapter:41, Verse:5, Page:1,
-    Kor:"수염을 깎고 몸에 상처를 낸 사람들 여든 명이, 세겜과 실로와 사마리아로부터 곡식제물과 향료를 들고 와서, 주님의 성전에 바치려고 하였다.",
+    Kor:"수염을 깎고 몸에 상처를 낸 사람들 여든 명이, 세겜과 실로와 사마리아로부터 곡식제물과 향료를 들고 와서, 주의 성전에 바치려고 하였다.",
     Chn:"第二天，有八十人从示剑和示罗，并撒马利亚来，胡须剃去，衣服撕裂，身体划破，手拿素祭和乳香，要奉到耶和华的殿。",
     Eng:"eighty men who had shaved off their beards, torn their clothes and cut themselves came from Shechem, Shiloh and Samaria, bringing grain offerings and incense with them to the house of the LORD.",
     Ind:"datanglah orang-orang dari Sikhem, dari Silo dan dari Samaria, delapan puluh orang jumlahnya, yang janggutnya bercukur, pakaiannya koyak-koyak dan badannya bertoreh-toreh; mereka membawa korban sajian dan kemenyan untuk dipersembahkan di rumah TUHAN."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Lalu Yohanan bin Kareah serta semua perwira tentara yang bersama-sama dengan dia mengumpulkan seluruh sisa-sisa rakyat yang diangkut sebagai tawanan oleh Ismael bin Netanya dari Mizpa, setelah ia memukul mati Gedalya bin Ahikam: yaitu laki-laki, prajurit-prajurit, perempuan, anak-anak dan pegawai-pegawai istana yang dibawa kembali dari Gibeon,"
   },
   {Bible:"Jeremiah", Chapter:41, Verse:17, Page:1,
-    Kor:"그들은 다 같이 이집트로 들어갈 작정으로 도망치다가, 베들레헴 근처에 있는 a게롯김함에서 쉬었다.(a '김함의 여관')",
+    Kor:"그들은 다 같이 이집트로 들어갈 작정으로 도망치다가, 베들레헴 근처에 있는 게롯김함에서 쉬었다.",
     Chn:"带到靠近伯利恒的金罕寓住下，要进入埃及去；",
     Eng:"And they went on, stopping at Geruth Kimham near Bethlehem on their way to Egypt",
     Ind:"kemudian mereka berjalan terus dan berhenti di tempat penginapan milik Kimham dekat Betlehem, dengan maksud berjalan terus menuju Mesir,"

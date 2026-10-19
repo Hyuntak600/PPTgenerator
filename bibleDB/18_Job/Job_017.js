@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"Malam hendak dijadikan mereka siang: terang segera muncul dari gelap, kata mereka."
   },
   {Bible:"Job", Chapter:17, Verse:13, Page:1,
-    Kor:"내 유일한 희망은, a죽은 자들의 세계로 가는 것이다. 거기 어둠 속에 잠자리를 펴고 눕는 것뿐이다. (a 히, '스올')",
+    Kor:"내 유일한 희망은, 죽은 자들의 세계로 가는 것이다. 거기 어둠 속에 잠자리를 펴고 눕는 것뿐이다.",
     Chn:"我若盼望阴间为我的房屋， 若下榻在黑暗中，",
     Eng:"If the only home I hope for is the grave, if I spread out my bed in darkness,",
     Ind:"Apabila aku mengharapkan dunia orang mati sebagai rumahku, menyediakan tempat tidurku di dalam kegelapan,"
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"maka di manakah harapanku? Siapakah yang melihat adanya harapan bagiku?"
   },
   {Bible:"Job", Chapter:17, Verse:16, Page:1,
-    Kor:"내가 a죽은 자들이 있는 곳으로 내려갈 때에, 희망이 나와 함께 내려가지 못할 것이다. (a 히, '스올')",
+    Kor:"내가 죽은 자들이 있는 곳으로 내려갈 때에, 희망이 나와 함께 내려가지 못할 것이다.",
     Chn:"等到安息在尘土中， 这指望必下到阴间的门闩那里了。",
     Eng:"Will it go down to the gates of death? Will we descend together into the dust?\"",
     Ind:"Keduanya akan tenggelam ke dasar dunia orang mati, apabila kami bersama-sama turun ke dalam debu.\""

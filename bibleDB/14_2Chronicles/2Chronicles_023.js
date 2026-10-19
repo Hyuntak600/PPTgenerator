@@ -3,7 +3,7 @@
 BibleDB.ref("2Chronicles",23,21);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:23, Verse:1, Page:1,
-    Kor:"<아달랴에 대한 반란(왕하 11:4-16)> 여섯 해를 기다린 여호야다 제사장은, 일곱째 해가 되자, 드디어 용기 있게 결단을 내리고, 군대 지휘관들인 백부장들, 곧 여로함의 아들 아사랴와, 여호하난의 아들 이스마엘과, 오벳의 아들 아사랴와, 아다야의 아들 마아세야와, 시그리의 아들 엘리사밧과 밀약을 맺었다.",
+    Kor:"여섯 해를 기다린 여호야다 제사장은, 일곱째 해가 되자, 드디어 용기 있게 결단을 내리고, 군대 지휘관들인 백부장들, 곧 여로함의 아들 아사랴와, 여호하난의 아들 이스마엘과, 오벳의 아들 아사랴와, 아다야의 아들 마아세야와, 시그리의 아들 엘리사밧과 밀약을 맺었다.",
     Chn:"第七年，耶何耶大奋勇自强，将百夫长耶罗罕的儿子亚撒利雅，约哈难的儿子以实玛利，俄备得的儿子亚撒利雅，亚大雅的儿子玛西雅，细基利的儿子以利沙法召来，与他们立约。",
     Eng:"In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zicri.",
     Ind:"Tetapi dalam tahun ketujuh Yoyada memberanikan diri dan ia mengadakan persepakatan dengan para kepala pasukan seratus, yakni: Azarya bin Yeroham, Ismael bin Yohanan, Azarya bin Obed. Maaseya bin Adaya, dan Elisafat bin Zikhri."
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"Mereka mengelilingi Yehuda dan mengumpulkan orang-orang Lewi dari semua kota di Yehuda serta kepala-kepala puak orang Israel, dan mereka semua datang ke Yerusalem."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:3, Page:1,
-    Kor:"○그들이 모두 하나님의 성전에 모여, 왕의 아들 요아스와 언약을 세웠다. 여호야다가 그들에게 말하였다. \"여기에 왕세자가 계십니다. 이 분이 왕이 되셔야 합니다. 이것은 다윗 자손이 왕이 되어야 한다는 주님의 약속을 따르는 것입니다.",
+    Kor:"○그들이 모두 하나님의 성전에 모여, 왕의 아들 요아스와 언약을 세웠다. 여호야다가 그들에게 말하였다. \"여기에 왕세자가 계십니다. 이 분이 왕이 되셔야 합니다. 이것은 다윗 자손이 왕이 되어야 한다는 주의 약속을 따르는 것입니다.",
     Chn:"会众在　神殿里与王立约。耶何耶大对他们说：「看哪，王的儿子必当作王，正如耶和华指着大卫子孙所应许的话」；",
     Eng:"the whole assembly made a covenant with the king at the temple of God. Jehoiada said to them, \"The king's son shall reign, as the LORD promised concerning the descendants of David.",
     Ind:"Lalu seluruh jemaah itu mengikat perjanjian dengan raja di rumah Allah. Kata Yoyada kepada mereka: \"Lihatlah, anak raja! Biarlah ia memerintah, seperti yang telah difirmankan TUHAN tentang anak-anak Daud!"
@@ -27,13 +27,13 @@ BibleDB.add([
     Ind:"Inilah yang harus kamu lakukan: sepertiga dari kamu, yakni yang selesai bertugas pada hari Sabat, baik imam maupun orang Lewi, haruslah menjadi penunggu pintu,"
   },
   {Bible:"2Chronicles", Chapter:23, Verse:5, Page:1,
-    Kor:"또 삼분의 일은 왕궁을 지키고, 나머지는 '기초문'을 지키십시오. 일반 백성은 주님의 성전 뜰로 모입니다.",
+    Kor:"또 삼분의 일은 왕궁을 지키고, 나머지는 '기초문'을 지키십시오. 일반 백성은 주의 성전 뜰로 모입니다.",
     Chn:"三分之一要在王宫，三分之一要在基址门；众百姓要在耶和华殿的院内。",
     Eng:"a third of you at the royal palace and a third at the Foundation Gate, and all the other men are to be in the courtyards of the temple of the LORD.",
     Ind:"sepertiga lagi haruslah berada di istana raja, dan sepertiga pula di pintu gerbang Dasar, sedang seluruh rakyat haruslah berada di pelataran rumah TUHAN."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:6, Page:1,
-    Kor:"그 날 일을 맡은 제사장들과 그들을 돕는 레위 사람들 말고는, 어느 누구도 성전 안으로 들어오지 못합니다. 거룩하게 구별된 제사장들과 레위 사람들만 주님의 성전 안으로 들어오고, 그밖의 일반 백성은 주님께서 지시하신 대로 성전 밖에 서 있어야 합니다.",
+    Kor:"그 날 일을 맡은 제사장들과 그들을 돕는 레위 사람들 말고는, 어느 누구도 성전 안으로 들어오지 못합니다. 거룩하게 구별된 제사장들과 레위 사람들만 주의 성전 안으로 들어오고, 그밖의 일반 백성은 주께서 지시하신 대로 성전 밖에 서 있어야 합니다.",
     Chn:"除了祭司和供职的利未人之外，不准别人进耶和华的殿；惟独他们可以进去，因为他们圣洁。众百姓要遵守耶和华所吩咐的。",
     Eng:"No one is to enter the temple of the LORD except the priests and Levites on duty; they may enter because they are consecrated, but all the other men are to guard what the LORD has assigned to them.",
     Ind:"Siapapun tidak boleh memasuki rumah TUHAN selain dari pada para imam dan orang-orang Lewi yang bertugas. Mereka boleh masuk, karena mereka kudus, tetapi seluruh rakyat haruslah mentaati peraturan TUHAN."
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Sesudah itu Yoyada dan anak-anaknya membawa anak raja itu ke luar, mengenakan jejamang kepadanya dan memberikan hukum Allah kepadanya. Mereka menobatkan dia menjadi raja serta mengurapinya, lalu berserulah rakyat: \"Hiduplah raja!\""
   },
   {Bible:"2Chronicles", Chapter:23, Verse:12, Page:1,
-    Kor:"아달랴가, 백성들이 뛰어 다니며 왕을 찬양하는 소리를 듣고, 주님의 성전에 모여 있는 백성에게로 가서,",
+    Kor:"아달랴가, 백성들이 뛰어 다니며 왕을 찬양하는 소리를 듣고, 주의 성전에 모여 있는 백성에게로 가서,",
     Chn:"亚她利雅听见民奔走赞美王的声音，就到民那里，进耶和华的殿，",
     Eng:"When Athaliah heard the noise of the people running and cheering the king, she went to them at the temple of the LORD.",
     Ind:"Ketika Atalya mendengar pekik rakyat yang berlari-lari menyambut raja dan memuji-muji dia, pergilah ia mendapatkan rakyat itu ke dalam rumah TUHAN."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Lalu dilihatnyalah raja berdiri dekat tiangnya pada jalan masuk, sedang para pemimpin dengan para pemegang nafiri ada dekat raja. Dan seluruh rakyat negeri bersukaria sambil meniup nafiri, sedang para penyanyi dengan alat-alat musik mereka, memimpin nyanyian puji-pujian. Maka Atalya mengoyakkan pakaiannya sambil berkata: \"Khianat, khianat!\""
   },
   {Bible:"2Chronicles", Chapter:23, Verse:14, Page:1,
-    Kor:"○그 때에 여호야다 제사장이 군대를 거느린 백부장들을 불러 내어, 그들에게 명령을 내렸다. \"저 여자를 대열 밖으로 끌어 내시오. 저 여자를 따르는 사람도 모두 칼로 쳐죽이시오.\" 여호야다는 주님의 성전 안에서는 그 여자를 죽이지 말라고 하였다.",
+    Kor:"○그 때에 여호야다 제사장이 군대를 거느린 백부장들을 불러 내어, 그들에게 명령을 내렸다. \"저 여자를 대열 밖으로 끌어 내시오. 저 여자를 따르는 사람도 모두 칼로 쳐죽이시오.\" 여호야다는 주의 성전 안에서는 그 여자를 죽이지 말라고 하였다.",
     Chn:"祭司耶何耶大带管辖军兵的百夫长出来，吩咐他们说：「将她赶到班外，凡跟随她的必用刀杀死！」因为祭司说：「不可在耶和华殿里杀她。」",
     Eng:"Jehoiada the priest sent out the commanders of units of a hundred, who were in charge of the troops, and said to them: \"Bring her out between the ranks and put to the sword anyone who follows her.\" For the priest had said, \"Do not put her to death at the temple of the LORD.\"",
     Ind:"Tetapi imam Yoyada menyuruh keluar para kepala pasukan seratus, yakni orang-orang yang mengepalai tentara, katanya kepada mereka: \"Bawalah dia keluar dari antara barisan! Siapa yang memihak kepadanya harus dibunuh dengan pedang!\" Sebab imam itu telah berkata tadinya: \"Jangan kamu membunuhnya di rumah TUHAN!\""
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Lalu mereka menangkap perempuan itu. Pada waktu ia sampai ke jalan masuk istana raja pada pintu gerbang Kuda, dibunuhlah ia di situ."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:16, Page:1,
-    Kor:"<여호야다의 개혁(왕하 11:17-20)> ○그런 다음에 여호야다는, 자신과 백성과 왕이 주님의 백성이 되는 언약을 세웠다.",
+    Kor:"○그런 다음에 여호야다는, 자신과 백성과 왕이 주의 백성이 되는 언약을 세웠다.",
     Chn:"耶何耶大与众民和王立约，都要作耶和华的民。",
     Eng:"Jehoiada then made a covenant that he and the people and the king would be the LORD'S people.",
     Ind:"Kemudian Yoyada mengikat perjanjian antara dia dengan segenap rakyat dan raja, bahwa mereka menjadi umat TUHAN."
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Sesudah itu masuklah seluruh rakyat ke rumah Baal, lalu merobohkannya; mereka memecahkan mezbah-mezbahnya dan patung-patungnya dan membunuh Matan, imam Baal, di depan mezbah-mezbah itu."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:18, Page:1,
-    Kor:"여호야다는 주님의 성전을 돌보는 일을 정하여, 그것을 레위 사람 제사장들이 관리하도록 맡겼다. 모세의 율법에 기록된 대로, 주님께 번제를 드리고 즐거운 노래로 주님을 찬양하는 이러한 일들은, 본래 다윗이 성전 안에서 일하는 레위 사람 제사장들에게 맡긴 임무였다.",
+    Kor:"여호야다는 주의 성전을 돌보는 일을 정하여, 그것을 레위 사람 제사장들이 관리하도록 맡겼다. 모세의 율법에 기록된 대로, 주께 번제를 드리고 즐거운 노래로 주를 찬양하는 이러한 일들은, 본래 다윗이 성전 안에서 일하는 레위 사람 제사장들에게 맡긴 임무였다.",
     Chn:"耶何耶大派官看守耶和华的殿，是在祭司利未人手下。这祭司利未人是大卫分派在耶和华殿中、照摩西律法上所写的，给耶和华献燔祭，又按大卫所定的例，欢乐歌唱；",
     Eng:"Then Jehoiada placed the oversight of the temple of the LORD in the hands of the priests, who were Levites, to whom David had made assignments in the temple, to present the burnt offerings of the LORD as written in the Law of Moses, with rejoicing and singing, as David had ordered.",
     Ind:"Kemudian Yoyada menyerahkan pengawasan atas rumah TUHAN kepada imam-imam dan orang-orang Lewi, yang telah dibagi-bagi dalam rombongan oleh Daud untuk bertugas di dalam rumah TUHAN, yakni untuk mempersembahkan korban bakaran kepada TUHAN--seperti tertulis di dalam Taurat Musa--dengan sukaria dan dengan nyanyian menurut petunjuk Daud."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:19, Page:1,
-    Kor:"여호야다는 또한 주님의 성전 문마다 문지기를 두어, 부정한 사람은 아무도 들어오지 못하게 하였다.",
+    Kor:"여호야다는 또한 주의 성전 문마다 문지기를 두어, 부정한 사람은 아무도 들어오지 못하게 하였다.",
     Chn:"且设立守门的把守耶和华殿的各门，无论为何事，不洁净的人都不准进去。",
     Eng:"He also stationed doorkeepers at the gates of the LORD'S temple so that no one who was in any way unclean might enter.",
     Ind:"Juga ditempatkannya penunggu-penunggu pintu pada pintu-pintu gerbang rumah TUHAN, supaya dalam hal apapun juga jangan masuk seseorang yang najis."
   },
   {Bible:"2Chronicles", Chapter:23, Verse:20, Page:1,
-    Kor:"○여호야다는 백부장들과 귀족들과 백성의 지도자들과 그 땅의 모든 백성들과 함께, 왕을 호위하여 주님의 성전에서 데리고 나와서, 윗문을 지나 왕궁으로 가서, 왕을 왕좌에 앉히니,",
+    Kor:"○여호야다는 백부장들과 귀족들과 백성의 지도자들과 그 땅의 모든 백성들과 함께, 왕을 호위하여 주의 성전에서 데리고 나와서, 윗문을 지나 왕궁으로 가서, 왕을 왕좌에 앉히니,",
     Chn:"又率领百夫长和贵胄，与民间的官长，并国中的众民，请王从耶和华殿下来，由上门进入王宫，立王坐在国位上。",
     Eng:"He took with him the commanders of hundreds, the nobles, the rulers of the people and all the people of the land and brought the king down from the temple of the LORD. They went into the palace through the Upper Gate and seated the king on the royal throne,",
     Ind:"Sesudah itu ia mengajak para kepala pasukan seratus, para pemuka, para pemerintah rakyat dan seluruh rakyat negeri, lalu membawa raja turun dari rumah TUHAN; mereka masuk ke istana raja melalui pintu gerbang Atas, lalu mendudukkan raja ke atas takhta kerajaan."

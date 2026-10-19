@@ -3,7 +3,7 @@
 BibleDB.ref("Mark",4,41);
 BibleDB.add([
   {Bible:"Mark", Chapter:4, Verse:1, Page:1,
-    Kor:"<씨 뿌리는 사람 비유(마 13:1-9; 눅 8:4-8)> 예수께서 다시 바닷가에서 가르치기 시작하셨다. 매우 큰 무리가 모여드니, 예수께서는 배에 오르셔서, 바다쪽에 앉으셨다. 무리는 모두 바닷가 뭍에 있었다.",
+    Kor:"예수께서 다시 바닷가에서 가르치기 시작하셨다. 매우 큰 무리가 모여드니, 예수께서는 배에 오르셔서, 바다쪽에 앉으셨다. 무리는 모두 바닷가 뭍에 있었다.",
     Chn:"耶稣又在海边教训人。有许多人到他那里聚集，他只得上船坐下。船在海里，众人都靠近海，站在岸上。",
     Eng:"Again Jesus began to teach by the lake. The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water's edge.",
     Ind:"Pada suatu kali Yesus mulai pula mengajar di tepi danau. Maka datanglah orang banyak yang sangat besar jumlahnya mengerumuni Dia, sehingga Ia naik ke sebuah perahu yang sedang berlabuh lalu duduk di situ, sedangkan semua orang banyak itu di darat, di tepi danau itu."
@@ -57,37 +57,37 @@ BibleDB.add([
     Ind:"Dan kata-Nya: \"Siapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\""
   },
   {Bible:"Mark", Chapter:4, Verse:10, Page:1,
-    Kor:"<비유로 말씀하신 목적(마 13:10-17; 눅 8:9-10)> ○예수께서 혼자 계실 때에, 예수의 주위에 둘러 있는 사람들이, 열두 제자와 함께, 그 비유들이 무슨 뜻인지를 예수께 물었다.",
+    Kor:"○예수께서 혼자 계실 때에, 예수의 주위에 둘러 있는 사람들이, 열두 제자와 함께, 그 비유들이 무슨 뜻인지를 예수께 물었다.",
     Chn:"无人的时候，跟随耶稣的人和十二个门徒问他这比喻的意思。",
     Eng:"When he was alone, the Twelve and the others around him asked him about the parables.",
     Ind:"Ketika Ia sendirian, pengikut-pengikut-Nya dan kedua belas murid itu menanyakan Dia tentang perumpamaan itu."
   },
   {Bible:"Mark", Chapter:4, Verse:11, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"너희에게는 하나님 나라의 비밀을 맡겨 주셨다. 그러나 저 바깥 사람들에게는 모든 것이 a수수께끼로 들린다.(a 그, '비유로')",
+    Kor:"예수께서 그들에게 말씀하셨다. \"너희에게는 하나님 나라의 비밀을 맡겨 주셨다. 그러나 저 바깥 사람들에게는 모든 것이 수수께끼로 들린다.",
     Chn:"耶稣对他们说：「　神国的奥秘只叫你们知道，若是对外人讲，凡事就用比喻，",
     Eng:"He told them, \"The secret of the kingdom of God has been given to you. But to those on the outside everything is said in parables",
     Ind:"Jawab-Nya: \"Kepadamu telah diberikan rahasia Kerajaan Allah, tetapi kepada orang-orang luar segala sesuatu disampaikan dalam perumpamaan,"
   },
   {Bible:"Mark", Chapter:4, Verse:12, Page:1,
-    Kor:"그것은  b'그들이 보기는 보아도 알지 못하고, 듣기는 들어도 깨닫지 못하게 하셔서, 그들이 돌아와서 용서를 받지 못하게 하시려는' 것이다.\"(b 사 6:9, 10(칠십인역))",
+    Kor:"그것은 '그들이 보기는 보아도 알지 못하고, 듣기는 들어도 깨닫지 못하게 하셔서, 그들이 돌이켜 용서를 받지 못하게 하시려는' 것이다.\"",
     Chn:"叫他们 看是看见，却不晓得； 听是听见，却不明白； 恐怕他们回转过来，就得赦免。」",
     Eng:"so that, \"'they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven!'\"",
     Ind:"supaya: Sekalipun melihat, mereka tidak menanggap, sekalipun mendengar, mereka tidak mengerti, supaya mereka jangan berbalik dan mendapat ampun.\""
   },
   {Bible:"Mark", Chapter:4, Verse:13, Page:1,
-    Kor:"<씨 뿌리는 사람 비유의 설명(마 13:18-23; 눅 8:11-15)> ○그리고 예수께서 그들에게 말씀하셨다. \"너희가 이 비유를 알아듣지 못하면서, 어떻게 모든 비유를 이해하겠느냐?",
+    Kor:"○그리고 예수께서 그들에게 말씀하셨다. \"너희가 이 비유를 알아듣지 못하면서, 어떻게 모든 비유를 이해하겠느냐?",
     Chn:"又对他们说：「你们不明白这比喻吗？这样怎能明白一切的比喻呢？",
     Eng:"Then Jesus said to them, \"Don't you understand this parable? How then will you understand any parable?",
     Ind:"Lalu Ia berkata kepada mereka: \"Tidakkah kamu mengerti perumpamaan ini? Kalau demikian bagaimana kamu dapat memahami semua perumpamaan yang lain?"
   },
   {Bible:"Mark", Chapter:4, Verse:14, Page:1,
-    Kor:"씨를 뿌리는 사람은 말씀을 뿌리는 것이다.",
+    Kor:"씨를 뿌리는 사람이 뿌린 씨는 말씀을 가리킨다.",
     Chn:"撒种之人所撒的就是道。",
     Eng:"The farmer sows the word.",
     Ind:"Penabur itu menaburkan firman."
   },
   {Bible:"Mark", Chapter:4, Verse:15, Page:1,
-    Kor:"길가에 뿌려지는 것들이란 이런 사람들이다. 그들에게 말씀이 뿌려질 때에 그들이 말씀을 듣기는 하지만, 곧바로 사탄이 와서, 그들에게 뿌려진 그 말씀을 빼앗아 간다.",
+    Kor:"길가에 뿌려지는 것들이란 이런 사람들이다. 그들에게 말씀이 뿌려질 때에 그들이 말씀을 듣기는 하지만, 바로 사탄이 와서, 그들 속에 뿌려진 그 말씀을 빼앗아 간다.",
     Chn:"那撒在路旁的，就是人听了道，撒但立刻来，把撒在他心里的道夺了去。",
     Eng:"Some people are like seed along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
     Ind:"Orang-orang yang di pinggir jalan, tempat firman itu ditaburkan, ialah mereka yang mendengar firman, lalu datanglah Iblis dan mengambil firman yang baru ditaburkan di dalam mereka."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Dan akhirnya yang ditaburkan di tanah yang baik, ialah orang yang mendengar dan menyambut firman itu lalu berbuah, ada yang tiga puluh kali lipat, ada yang enam puluh kali lipat, dan ada yang seratus kali lipat.\""
   },
   {Bible:"Mark", Chapter:4, Verse:21, Page:1,
-    Kor:"<등불은 등경 위에(눅 8:16-18)> ○예수께서 그들에게 말씀하셨다. \"사람이 등불을 가져다가 말 아래에나, 침상 아래에 두겠느냐? 등경 위에다가 두지 않겠느냐?",
+    Kor:"○예수께서 그들에게 말씀하셨다. \"사람이 등불을 가져다가 됫박 아래에나, 침상 밑에 두겠느냐? 등경 위에다가 두지 않겠느냐?",
     Chn:"耶稣又对他们说：「人拿灯来，岂是要放在斗底下，床底下，不放在灯台上吗？",
     Eng:"He said to them, \"Do you bring in a lamp to put it under a bowl or a bed? Instead, don't you put it on its stand?",
     Ind:"Lalu Yesus berkata kepada mereka: \"Orang membawa pelita bukan supaya ditempatkan di bawah gantang atau di bawah tempat tidur, melainkan supaya ditaruh di atas kaki dian."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Barangsiapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\""
   },
   {Bible:"Mark", Chapter:4, Verse:24, Page:1,
-    Kor:"○예수께서 그들에게 말씀하셨다. \"너희는 새겨들어라. 너희가 되질하여 주는 만큼 너희에게 되질하여 주실 것이요, 덤으로 더 주실 것이다.",
+    Kor:"○예수께서 그들에게 말씀하셨다. \"너희는 새겨들어라. 너희가 되어서 주는 만큼 너희에게 되어서 주실 것이요, 덤으로 더 주실 것이다.",
     Chn:"又说：「你们所听的要留心。你们用什么量器量给人，也必用什么量器量给你们，并且要多给你们。",
     Eng:"\"Consider carefully what you hear,\" he continued. \"With the measure you use, it will be measured to you--and even more.",
     Ind:"Lalu Ia berkata lagi: \"Camkanlah apa yang kamu dengar! Ukuran yang kamu pakai untuk mengukur akan diukurkan kepadamu, dan di samping itu akan ditambah lagi kepadamu."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Karena siapa yang mempunyai, kepadanya akan diberi, tetapi siapa yang tidak mempunyai, apapun juga yang ada padanya akan diambil dari padanya.\""
   },
   {Bible:"Mark", Chapter:4, Verse:26, Page:1,
-    Kor:"<스스로 자라는 씨 비유> ○예수께서 또 말씀하셨다. \"하나님 나라는 이렇게 비유할 수 있다. 어떤 사람이 땅에 씨를 뿌려 놓고,",
+    Kor:"○예수께서 또 말씀하셨다. \"하나님의 나라는 이렇게 비유할 수 있다. 어떤 사람이 땅에 씨를 뿌려 놓고,",
     Chn:"又说：「　神的国如同人把种撒在地上。",
     Eng:"He also said, \"This is what the kingdom of God is like. A man scatters seed on the ground.",
     Ind:"Lalu kata Yesus: \"Beginilah hal Kerajaan Allah itu: seumpama orang yang menaburkan benih di tanah,"
   },
   {Bible:"Mark", Chapter:4, Verse:27, Page:1,
-    Kor:"밤낮 자고 일어나고 하는 사이에 그 씨에서 싹이 나고 자라지만, 그 사람은 어떻게 그렇게 되는지를 알지 못한다.",
+    Kor:"밤에 자고 낮에 깨고 하는 동안에 그 씨에서 싹이 나고 자라지만, 그 사람은 어떻게 그렇게 되는지를 알지 못한다.",
     Chn:"黑夜睡觉，白日起来，这种就发芽渐长，那人却不晓得如何这样。",
     Eng:"Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how.",
     Ind:"lalu pada malam hari ia tidur dan pada siang hari ia bangun, dan benih itu mengeluarkan tunas dan tunas itu makin tinggi, bagaimana terjadinya tidak diketahui orang itu."
   },
   {Bible:"Mark", Chapter:4, Verse:28, Page:1,
-    Kor:"땅이 저절로 열매를 맺게 하는데, 처음에는 싹을 내고, 그 다음에는 이삭을 내고, 또 그 다음에는 이삭에 알찬 낟알을 낸다.",
+    Kor:"땅은 열매를 저절로 맺게 하는데, 처음에는 싹을 내고, 그 다음에는 이삭을 내고, 또 그 다음에는 이삭의 알찬 낟알을 낸다.",
     Chn:"地生五谷是出于自然的：先发苗，后长穗，再后穗上结成饱满的子粒；",
     Eng:"All by itself the soil produces grain--first the stalk, then the head, then the full kernel in the head.",
     Ind:"Bumi dengan sendirinya mengeluarkan buah, mula-mula tangkainya, lalu bulirnya, kemudian butir-butir yang penuh isinya dalam bulir itu."
@@ -177,73 +177,73 @@ BibleDB.add([
     Ind:"Apabila buah itu sudah cukup masak, orang itu segera menyabit, sebab musim menuai sudah tiba.\""
   },
   {Bible:"Mark", Chapter:4, Verse:30, Page:1,
-    Kor:"<겨자씨 비유(마 13:31-32; 눅 13:18-19)> ○예수께서 또 말씀하셨다. \"우리가 하나님의 나라를 어떻게 비길까? 또는 무슨 비유로 그것을 나타낼까?",
+    Kor:"○예수께서 또 말씀하셨다. \"우리가 하나님의 나라를 어떻게 비길까? 또는 무슨 비유로 그것을 나타낼까?",
     Chn:"又说：「　神的国，我们可用什么比较呢？可用什么比喻表明呢？",
     Eng:"Again he said, \"What shall we say the kingdom of God is like, or what parable shall we use to describe it?",
     Ind:"Kata-Nya lagi: \"Dengan apa hendak kita membandingkan Kerajaan Allah itu, atau dengan perumpamaan manakah hendaknya kita menggambarkannya?"
   },
   {Bible:"Mark", Chapter:4, Verse:31, Page:1,
-    Kor:"c겨자씨와 같으니, 그것은 땅에 심을 때에는 세상에 있는 어떤 씨보다도 더 작다.(c 또는 '겨자씨와 관련된 사정과 같으니')",
+    Kor:"겨자씨와 같으니, 그것은 땅에 심을 때에는 세상에 있는 어떤 씨보다도 더 작다.",
     Chn:"好像一粒芥菜种，种在地里的时候，虽比地上的百种都小，",
     Eng:"It is like a mustard seed, which is the smallest seed you plant in the ground.",
     Ind:"Hal Kerajaan itu seumpama biji sesawi yang ditaburkan di tanah. Memang biji itu yang paling kecil dari pada segala jenis benih yang ada di bumi."
   },
   {Bible:"Mark", Chapter:4, Verse:32, Page:1,
-    Kor:"그러나 심고 나면 자라서, 어떤 풀보다 더 큰 가지들을 뻗어, 공중의 새들이 그 그늘에 깃들일 수 있게 된다.\"",
+    Kor:"그러나 심고 나면 자라서, 어떤 풀보다 더 큰 가지들을 뻗어, 공중의 새들이 그 그늘에 깃들 수 있게 된다.\"",
     Chn:"但种上以后，就长起来，比各样的菜都大，又长出大枝来，甚至天上的飞鸟可以宿在它的荫下。」",
     Eng:"Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds of the air can perch in its shade.\"",
     Ind:"Tetapi apabila ia ditaburkan, ia tumbuh dan menjadi lebih besar dari pada segala sayuran yang lain dan mengeluarkan cabang-cabang yang besar, sehingga burung-burung di udara dapat bersarang dalam naungannya.\""
   },
   {Bible:"Mark", Chapter:4, Verse:33, Page:1,
-    Kor:"<비유로 가르치시다(마 13:34-35)> ○예수께서는, 그들이 알아들을 수 있는 정도로, 이와 같이 많은 비유로 말씀을 전하셨다.",
+    Kor:"○예수께서는, 그들이 알아들을 수 있는 정도로, 이와 같이 많은 비유로 말씀을 전하셨다.",
     Chn:"耶稣用许多这样的比喻，照他们所能听的，对他们讲道。",
     Eng:"With many similar parables Jesus spoke the word to them, as much as they could understand.",
     Ind:"Dalam banyak perumpamaan yang semacam itu Ia memberitakan firman kepada mereka sesuai dengan pengertian mereka,"
   },
   {Bible:"Mark", Chapter:4, Verse:34, Page:1,
-    Kor:"비유가 아니면 말씀하지 않으셨으나, 제자들에게는 따로 모든 것을 설명해 주셨다.",
+    Kor:"비유가 아니면 말씀하시지 않으셨으나, 제자들에게는 따로 모든 것을 설명해 주셨다.",
     Chn:"若不用比喻，就不对他们讲；没有人的时候，就把一切的道讲给门徒听。",
     Eng:"He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.",
     Ind:"dan tanpa perumpamaan Ia tidak berkata-kata kepada mereka, tetapi kepada murid-murid-Nya Ia menguraikan segala sesuatu secara tersendiri."
   },
   {Bible:"Mark", Chapter:4, Verse:35, Page:1,
-    Kor:"<풍랑을 잔잔하게 하시다(마 8:23-27; 눅 8:22-25)> ○그 날 저녁이 되었을 때에, 예수께서 제자들에게 말씀하셨다. \"바다 저쪽으로 건너가자.\"",
+    Kor:"○그 날 저녁이 되었을 때에, 예수께서 제자들에게 \"바다 저쪽으로 건너가자\" 하고 말씀하셨다.",
     Chn:"当那天晚上，耶稣对门徒说：「我们渡到那边去吧。」",
     Eng:"That day when evening came, he said to his disciples, \"Let us go over to the other side.\"",
     Ind:"Pada hari itu, waktu hari sudah petang, Yesus berkata kepada mereka: \"Marilah kita bertolak ke seberang.\""
   },
   {Bible:"Mark", Chapter:4, Verse:36, Page:1,
-    Kor:"그래서 그들은 무리를 남겨 두고, 예수를 배에 계신 그대로 모시고 갔는데, 다른 배들도 함께 따라갔다.",
+    Kor:"그래서 그들은 무리를 남겨 두고, 예수께서 배에 계신 그대로 모시고 갔는데, 다른 배들도 함께 따라갔다.",
     Chn:"门徒离开众人，耶稣仍在船上，他们就把他一同带去；也有别的船和他同行。",
     Eng:"Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him.",
     Ind:"Mereka meninggalkan orang banyak itu lalu bertolak dan membawa Yesus beserta dengan mereka dalam perahu di mana Yesus telah duduk dan perahu-perahu lain juga menyertai Dia."
   },
   {Bible:"Mark", Chapter:4, Verse:37, Page:1,
-    Kor:"그런데 거센 바람이 일어나서, 파도가 배 안으로 덮쳐 들어오므로, 물이 배에 벌써 가득 찼다.",
+    Kor:"그런데 큰 광풍이 일어나서, 파도가 배 안으로 덮쳐 들어오므로, 물이 배에 거의 가득 찼다.",
     Chn:"忽然起了暴风，波浪打入船内，甚至船要满了水。",
     Eng:"A furious squall came up, and the waves broke over the boat, so that it was nearly swamped.",
     Ind:"Lalu mengamuklah taufan yang sangat dahsyat dan ombak menyembur masuk ke dalam perahu, sehingga perahu itu mulai penuh dengan air."
   },
   {Bible:"Mark", Chapter:4, Verse:38, Page:1,
-    Kor:"예수께서는 고물에서 베개를 베고 주무시고 계셨다. 제자들이 예수를 깨우며 말하였다. \"선생님, 우리가 죽게 되었는데도, 아무렇지도 않으십니까?\"",
+    Kor:"예수께서는 고물에서 베개를 베고 주무시고 계셨다. 제자들이 예수를깨우며 \"선생님, 우리가 죽게 되었는데, 아무렇지도 않습니까?\" 하고 말하였다.",
     Chn:"耶稣在船尾上，枕着枕头睡觉。门徒叫醒了他，说：「夫子！我们丧命，你不顾吗？」",
     Eng:"Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, \"Teacher, don't you care if we drown?\"",
     Ind:"Pada waktu itu Yesus sedang tidur di buritan di sebuah tilam. Maka murid-murid-Nya membangunkan Dia dan berkata kepada-Nya: \"Guru, Engkau tidak perduli kalau kita binasa?\""
   },
   {Bible:"Mark", Chapter:4, Verse:39, Page:1,
-    Kor:"예수께서 일어나 바람을 꾸짖으시고, 바다더러 \"고요하고, 잠잠하여라\" 하고 말씀하시니, 바람이 그치고, 아주 고요해졌다.",
+    Kor:"예수께서 깨어나셔서 바람을 꾸짖으시고, 바다더러 \"고요하고, 잠잠해져라\" 하고 말씀하시니, 바람이 그치고, 아주 고요해졌다.",
     Chn:"耶稣醒了，斥责风，向海说：「住了吧！静了吧！」风就止住，大大地平静了。",
     Eng:"He got up, rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm.",
     Ind:"Iapun bangun, menghardik angin itu dan berkata kepada danau itu: \"Diam! Tenanglah!\" Lalu angin itu reda dan danau itu menjadi teduh sekali."
   },
   {Bible:"Mark", Chapter:4, Verse:40, Page:1,
-    Kor:"예수께서 그들에게 말씀하셨다. \"왜들 무서워하느냐? 아직도 믿음이 없느냐?\"",
+    Kor:"예수께서 그들에게 \"왜들 무서워하느냐? 아직도 믿음이 없느냐?\" 하고 말씀하셨다.",
     Chn:"耶稣对他们说：「为什么胆怯？你们还没有信心吗？」",
     Eng:"He said to his disciples, \"Why are you so afraid? Do you still have no faith?\"",
     Ind:"Lalu Ia berkata kepada mereka: \"Mengapa kamu begitu takut? Mengapa kamu tidak percaya?\""
   },
   {Bible:"Mark", Chapter:4, Verse:41, Page:1,
-    Kor:"그들은 큰 두려움에 사로잡혀서 서로 말하였다. \"이분이 누구이기에, 바람과 바다까지도 그에게 복종하는가?\"",
+    Kor:"그들은 큰 두려움에 사로잡혀서 서로 말하기를 \"이분이 누구이기에, 바람과 바다까지도 그에게 복종할까?\" 하였다.",
     Chn:"他们就大大地惧怕，彼此说：「这到底是谁，连风和海也听从他了。」",
     Eng:"They were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\"",
     Ind:"Mereka menjadi sangat takut dan berkata seorang kepada yang lain: \"Siapa gerangan orang ini, sehingga angin dan danaupun taat kepada-Nya?\""

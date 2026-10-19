@@ -3,7 +3,7 @@
 BibleDB.ref("Malachi",2,17);
 BibleDB.add([
   {Bible:"Malachi", Chapter:2, Verse:1, Page:1,
-    Kor:"<제사장들에 대한 훈계의 말씀> \"제사장들아, 이제 이것은 너희에게 주는 훈계의 말이다.",
+    Kor:"\"제사장들아, 이제 이것은 너희에게 주는 훈계의 말이다.",
     Chn:"「众祭司啊，这诫命是传给你们的。",
     Eng:"\"And now this admonition is for you, O priests.",
     Ind:"Maka sekarang, kepada kamulah tertuju perintah ini, hai para imam!"
@@ -57,37 +57,37 @@ BibleDB.add([
     Ind:"Maka Akupun akan membuat kamu hina dan rendah bagi seluruh umat ini, oleh karena kamu tidak mengikuti jalan yang Kutunjukkan, tetapi memandang bulu dalam pengajaranmu."
   },
   {Bible:"Malachi", Chapter:2, Verse:10, Page:1,
-    Kor:"<성실하지 못한 유다> 우리는 모두 한 아버지를 모시고 있지 않느냐? 한 하나님이 우리를 창조하시지 않았느냐? 그런데 어찌하여, 우리가 서로 배신하느냐? 어찌하여 우리는, 주님께서 우리 조상과 맺으신 그 언약을 욕되게 하고 있느냐?",
+    Kor:"우리는 모두 한 아버지를 모시고 있지 않느냐? 한 하나님이 우리를 창조하시지 않았느냐? 그런데 어찌하여, 우리가 서로 배신하느냐? 어찌하여 우리는, 주께서 우리 조상과 맺으신 그 언약을 욕되게 하고 있느냐?",
     Chn:"我们岂不都是一位父吗？岂不是一位　神所造的吗？我们各人怎么以诡诈待弟兄，背弃了　神与我们列祖所立的约呢？",
     Eng:"Have we not all one Father? Did not one God create us? Why do we profane the covenant of our fathers by breaking faith with one another?",
     Ind:"Bukankah kita sekalian mempunyai satu bapa? Bukankah satu Allah menciptakan kita? Lalu mengapa kita berkhianat satu sama lain dan dengan demikian menajiskan perjanjian nenek moyang kita?"
   },
   {Bible:"Malachi", Chapter:2, Verse:11, Page:1,
-    Kor:"유다 백성은 주님을 배신하였다. 예루살렘과 이스라엘 온 땅에서, 추악한 일이 일어나고 있다. 유다 백성은 주님께서 아끼시는 a성소를 더럽히고, 남자들은 이방 우상을 섬기는 여자와 결혼까지 하였다. (a 또는 '성결')",
+    Kor:"유다 백성은 주를 배신하였다. 예루살렘과 이스라엘 온 땅에서, 추악한 일이 일어나고 있다. 유다 백성은 주께서 아끼시는 성소를 더럽히고, 남자들은 이방 우상을 섬기는 여자와 결혼까지 하였다.",
     Chn:"犹大人行事诡诈，并且在以色列和耶路撒冷中行一件可憎的事；因为犹大人亵渎耶和华所喜爱的圣洁，娶事奉外邦神的女子为妻。",
     Eng:"Judah has broken faith. A detestable thing has been committed in Israel and in Jerusalem: Judah has desecrated the sanctuary the LORD loves, by marrying the daughter of a foreign god.",
     Ind:"Yehuda berkhianat, dan perbuatan keji dilakukan di Israel dan di Yerusalem, sebab Yehuda telah menajiskan tempat kudus yang dikasihi TUHAN dan telah menjadi suami anak perempuan allah asing."
   },
   {Bible:"Malachi", Chapter:2, Verse:12, Page:1,
-    Kor:"이런 일을 하는 사람은, 그가 어떤 사람이든지, 만군의 주님께 제사를 드리는 사람이라고 하여도, 주님께서 그를 야곱의 가문에서 쫓아내실 것이다.",
+    Kor:"이런 일을 하는 사람은, 그가 어떤 사람이든지, 만군의 주께 제사를 드리는 사람이라고 하여도, 주께서 그를 야곱의 가문에서 쫓아내실 것이다.",
     Chn:"凡行这事的，无论何人，就是献供物给万军之耶和华，耶和华也必从雅各的帐棚中剪除他。",
     Eng:"As for the man who does this, whoever he may be, may the LORD cut him off from the tents of Jacob--even though he brings offerings to the LORD Almighty.",
     Ind:"Biarlah TUHAN melenyapkan dari kemah-kemah Yakub segenap keturunan orang yang berbuat demikian, sekalipun ia membawa persembahan kepada TUHAN semesta alam!"
   },
   {Bible:"Malachi", Chapter:2, Verse:13, Page:1,
-    Kor:"너희가 잘못한 일이 또 하나 있다. 주님께서 너희 제물을 외면하시며 그것을 기꺼이 받지 않으신다고, 너희가 눈물과 울음과 탄식으로 주님의 제단을 적셨다.",
+    Kor:"너희가 잘못한 일이 또 하나 있다. 주께서 너희 제물을 외면하시며 그것을 기꺼이 받지 않으신다고, 너희가 눈물과 울음과 탄식으로 주의 제단을 적셨다.",
     Chn:"你们又行了一件这样的事，使前妻叹息哭泣的眼泪遮盖耶和华的坛，以致耶和华不再看顾那供物，也不乐意从你们手中收纳。",
     Eng:"Another thing you do: You flood the LORD'S altar with tears. You weep and wail because he no longer pays attention to your offerings or accepts them with pleasure from your hands.",
     Ind:"Dan inilah yang kedua yang kamu lakukan: Kamu menutupi mezbah TUHAN dengan air mata, dengan tangisan dan rintihan, oleh karena Ia tidak lagi berpaling kepada persembahan dan tidak berkenan menerimanya dari tanganmu."
   },
   {Bible:"Malachi", Chapter:2, Verse:14, Page:1,
-    Kor:"그러면서 너희는 오히려, '무슨 까닭으로 이러십니까?' 하고 묻는다. 그 까닭은, 네가 젊은 날에 만나서 결혼한 너의 아내를 배신하였기 때문이며, 주님께서 이 일에 증인이시기 때문이다. 그 여자는 너의 동반자이며, 네가 성실하게 살겠다고 언약을 맺고 맞아들인 아내인데도, 네가 아내를 배신하였다.",
+    Kor:"그러면서 너희는 오히려, \"무슨 까닭으로 이러십니까?\" 하고 묻는다. 그 까닭은, 네가 젊은 날에 만나서 결혼한 너의 아내를 배신하였기 때문이며, 주께서 이 일에 증인이시기 때문이다. 그 여자는 너의 동반자이며, 네가 성실하게 살겠다고 언약을 맺고 맞아들인 아내인데도, 네가 아내를 배신하였다.",
     Chn:"你们还说：「这是为什么呢？」因耶和华在你和你幼年所娶的妻中间作见证。她虽是你的配偶，又是你盟约的妻，你却以诡诈待她。",
     Eng:"You ask, \"Why?\" It is because the LORD is acting as the witness between you and the wife of your youth, because you have broken faith with her, though she is your partner, the wife of your marriage covenant.",
     Ind:"Dan kamu bertanya: \"Oleh karena apa?\" Oleh sebab TUHAN telah menjadi saksi antara engkau dan isteri masa mudamu yang kepadanya engkau telah tidak setia, padahal dialah teman sekutumu dan isteri seperjanjianmu."
   },
   {Bible:"Malachi", Chapter:2, Verse:15, Page:1,
-    Kor:"b한 분이신 하나님이 네 아내를 만들지 않으셨느냐? 육체와 영이 둘 다 하나님의 것이다. 한 분이신 하나님이 경건한 자손을 원하시는 것이 아니겠느냐? 너희는 명심하여, 젊어서 결혼한 너희 아내를 배신하지 말아라. (b 또는 '(주님께서) 그들을 하나가 되게 하지 않으셨느냐? 육체와 영에 있어서 그들은 주님의 것이다. 왜 하나냐? 주님께서 경건한 자손을 찾고 계셨기 때문이다.')",
+    Kor:"한 분이신 하나님이 네 아내를 만들지 않으셨느냐? 육체와 영이 둘 다 하나님의 것이다. 한 분이신 하나님이 경건한 자손을 원하시는 것이 아니겠느냐? 너희는 명심하여, 젊어서 결혼한 너희 아내를 배신하지 말아라.",
     Chn:"虽然　神有灵的余力能造多人，他不是单造一人吗？为何只造一人呢？乃是他愿人得虔诚的后裔。所以当谨守你们的心，谁也不可以诡诈待幼年所娶的妻。",
     Eng:"Has not the LORD made them one? In flesh and spirit they are his. And why one? Because he was seeking godly offspring. So guard yourself in your spirit, and do not break faith with the wife of your youth.",
     Ind:"Bukankah Allah yang Esa menjadikan mereka daging dan roh? Dan apakah yang dikehendaki kesatuan itu? Keturunan ilahi! Jadi jagalah dirimu! Dan janganlah orang tidak setia terhadap isteri dari masa mudanya."
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"Sebab Aku membenci perceraian, firman TUHAN, Allah Israel--juga orang yang menutupi pakaiannya dengan kekerasan, firman TUHAN semesta alam. Maka jagalah dirimu dan janganlah berkhianat!"
   },
   {Bible:"Malachi", Chapter:2, Verse:17, Page:1,
-    Kor:"<심판의 날이 다가온다> \"너희는 말로 나 주를 괴롭혔다. 그런데도 너희는 '우리가 어떻게 주님을 괴롭게 해 드렸습니까?' 하고 묻는다. 너희는 '주님께서는 악한 일을 하는 사람도 모두 좋게 보신다. 주님께서 오히려 그런 사람들을 더 사랑하신다' 하고 말하고, 또 '공의롭게 재판하시는 하나님이 어디에 계시는가?' 하고 말한다.\"",
+    Kor:"\"너희는 말로 나 주를 괴롭혔다. 그런데도 너희는 '우리가 어떻게 주님을 괴롭게 해 드렸습니까?' 하고 묻는다. 너희는 '주께서는 악한 일을 하는 사람도 모두 좋게 보신다. 주께서 오히려 그런 사람들을 더 사랑하신다' 하고 말하고, 또 '공의롭게 재판하시는 하나님이 어디에 계시는가?' 하고 말한다.\"",
     Chn:"你们用言语烦琐耶和华，你们还说：「我们在何事上烦琐他呢？」因为你们说：「凡行恶的，耶和华眼看为善，并且他喜悦他们」；或说：「公义的　神在哪里呢？」",
     Eng:"You have wearied the LORD with your words. \"How have we wearied him?\" you ask. By saying, \"All who do evil are good in the eyes of the LORD, and he is pleased with them\" or \"Where is the God of justice?\"",
     Ind:"Kamu menyusahi TUHAN dengan perkataanmu. Tetapi kamu berkata: \"Dengan cara bagaimanakah kami menyusahi Dia?\" Dengan cara kamu menyangka: \"Setiap orang yang berbuat jahat adalah baik di mata TUHAN; kepada orang-orang yang demikianlah Ia berkenan--atau jika tidak, di manakah Allah yang menghukum?\""

@@ -3,13 +3,13 @@
 BibleDB.ref("Exodus",40,38);
 BibleDB.add([
   {Bible:"Exodus", Chapter:40, Verse:1, Page:1,
-    Kor:"<회막 봉헌> 주님께서 말씀하셨다.",
+    Kor:"주께서 말씀하셨다.",
     Chn:"耶和华晓谕摩西说：",
     Eng:"Then the LORD said to Moses:",
     Ind:"Berfirmanlah TUHAN kepada Musa:"
   },
   {Bible:"Exodus", Chapter:40, Verse:2, Page:1,
-    Kor:"\"너는 첫째 달 초하루에 성막 곧 회막을 세워라.",
+    Kor:"\"너는 첫째 달 초하루에, 성막 곧 회막을 세워라.",
     Chn:"「正月初一日，你要立起帐幕，",
     Eng:"\"Set up the tabernacle, the Tent of Meeting, on the first day of the first month.",
     Ind:"\"Pada hari yang pertama dari bulan yang pertama haruslah engkau mendirikan Kemah Suci, yakni Kemah Pertemuan itu."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Kautaruhlah mezbah emas untuk membakar ukupan di depan tabut hukum. Kaugantungkanlah tirai pintu Kemah Suci."
   },
   {Bible:"Exodus", Chapter:40, Verse:6, Page:1,
-    Kor:"○번제단은 성막 곧 회막 어귀 앞에 가져다 놓아라.",
+    Kor:"○번제단은 성막, 곧 회막 어귀 앞에 가져다 놓아라.",
     Chn:"把燔祭坛安在帐幕门前。",
     Eng:"\"Place the altar of burnt offering in front of the entrance to the tabernacle, the Tent of Meeting;",
     Ind:"Kautaruhlah mezbah korban bakaran di depan pintu Kemah Suci, yakni Kemah Pertemuan itu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Urapilah mereka, seperti engkau mengurapi ayah mereka, supaya mereka memegang jabatan imam bagi-Ku; dan ini terjadi, supaya berdasarkan pengurapan itu mereka memegang jabatan imam untuk selama-lamanya turun-temurun.\""
   },
   {Bible:"Exodus", Chapter:40, Verse:16, Page:1,
-    Kor:"○모세는 주님께서 그에게 명하신 것을 모두 그대로 하였다.",
+    Kor:"○모세는, 주께서 그에게 명하신 것을 모두 그대로 하였다.",
     Chn:"摩西这样行，都是照耶和华所吩咐他的。",
     Eng:"Moses did everything just as the LORD commanded him.",
     Ind:"Dan Musa melakukan semuanya itu tepat seperti yang diperintahkan TUHAN kepadanya, demikianlah dilakukannya."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Musa mendirikan Kemah Suci itu, dipasangnyalah alas-alasnya, ditaruhnya papan-papannya, dipasangnya kayu-kayu lintangnya dan didirikannya tiang-tiangnya."
   },
   {Bible:"Exodus", Chapter:40, Verse:19, Page:1,
-    Kor:"또 성막 위에 막을 펴고, 그 위에 덮개를 덮었다. 이는 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"또 성막 위에 막을 펴고, 그 위에 덮개를 덮었다. 이는 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"在帐幕以上搭罩棚，把罩棚的顶盖盖在其上，是照耶和华所吩咐他的。",
     Eng:"Then he spread the tent over the tabernacle and put the covering over the tent, as the LORD commanded him.",
     Ind:"Dikembangkannyalah atap kemah yang menudungi Kemah Suci dan diletakkannyalah tudung kemah di atasnya--seperti yang diperintahkan TUHAN kepada Musa."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Diambilnyalah loh hukum Allah dan ditaruhnya ke dalam tabut, dikenakannyalah kayu pengusung pada tabut itu dan diletakkannya tutup pendamaian di atas tabut itu."
   },
   {Bible:"Exodus", Chapter:40, Verse:21, Page:1,
-    Kor:"궤를 성막 안에 들여놓고, 휘장을 쳐서 증거궤를 막았다. 이는 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"궤를 성막 안에 들여놓고, 휘장을 쳐서 증거궤를 막았다. 이는 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"把柜抬进帐幕，挂上遮掩柜的幔子，把法柜遮掩了，是照耶和华所吩咐他的。",
     Eng:"Then he brought the ark into the tabernacle and hung the shielding curtain and shielded the ark of the Testimony, as the LORD commanded him.",
     Ind:"Dibawanyalah tabut itu ke dalam Kemah Suci, digantungkannyalah tabir penudung dan dipasangnya sebagai penudung di depan tabut hukum Allah--seperti yang diperintahkan TUHAN kepada Musa."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Ditaruhnyalah meja di dalam Kemah Pertemuan pada sisi Kemah Suci sebelah utara, di depan tabir itu."
   },
   {Bible:"Exodus", Chapter:40, Verse:23, Page:1,
-    Kor:"상 위에는 주님께 바치는 빵을 차려 놓았다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"상 위에는 주께 바치는 빵을 차려 놓았다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"在桌子上将饼陈设在耶和华面前，是照耶和华所吩咐他的。",
     Eng:"and set out the bread on it before the LORD, as the LORD commanded him.",
     Ind:"Diletakkannyalah di atasnya roti sajian menurut susunannya, di hadapan TUHAN--seperti yang diperintahkan TUHAN kepada Musa."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Ditempatkannyalah kandil di dalam Kemah Pertemuan berhadapan dengan meja itu, pada sisi Kemah Suci sebelah selatan."
   },
   {Bible:"Exodus", Chapter:40, Verse:25, Page:1,
-    Kor:"주님 앞에 등잔을 올려놓았다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"주 앞에 등잔을 올려놓았다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"在耶和华面前点灯，是照耶和华所吩咐他的。",
     Eng:"and set up the lamps before the LORD, as the LORD commanded him.",
     Ind:"Dipasangnyalah lampu-lampu di atasnya di hadapan TUHAN--seperti yang diperintahkan TUHAN kepada Musa."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Ditempatkannyalah mezbah emas di dalam Kemah Pertemuan di depan tabir itu."
   },
   {Bible:"Exodus", Chapter:40, Verse:27, Page:1,
-    Kor:"그 위에 향기로운 향을 피웠다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"그 위에 향기로운 향을 피웠다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"在坛上烧了馨香料做的香，是照耶和华所吩咐他的。",
     Eng:"and burned fragrant incense on it, as the LORD commanded him.",
     Ind:"Dibakarnyalah di atasnya ukupan dari wangi-wangian seperti yang diperintahkan TUHAN kepada Musa."
@@ -171,7 +171,7 @@ BibleDB.add([
     Ind:"Digantungkannyalah tirai pintu Kemah Suci."
   },
   {Bible:"Exodus", Chapter:40, Verse:29, Page:1,
-    Kor:"성막 곧 회막 어귀에 번제단을 놓고, 그 위에 번제물과 곡식제물을 바쳤다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"성막, 곧 회막 어귀에 번제단을 놓고, 그 위에 번제물과 곡식제물을 바쳤다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"在会幕的帐幕门前，安设燔祭坛，把燔祭和素祭献在其上，是照耶和华所吩咐他的。",
     Eng:"He set the altar of burnt offering near the entrance to the tabernacle, the Tent of Meeting, and offered on it burnt offerings and grain offerings, as the LORD commanded him.",
     Ind:"Mezbah korban bakaran ditempatkannyalah di depan pintu Kemah Suci, yakni Kemah Pertemuan itu, dan dipersembahkannyalah di atasnya korban bakaran dan korban sajian--seperti yang diperintahkan TUHAN kepada Musa."
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Musa dan Harun serta anak-anaknya membasuh tangan dan kaki mereka dengan air dari dalamnya."
   },
   {Bible:"Exodus", Chapter:40, Verse:32, Page:1,
-    Kor:"회막에 들어갈 때와 단에 가까이 갈 때에 그렇게 씻었다. 이것은 주님께서 모세에게 명하신 대로 한 것이다.",
+    Kor:"회막에 들어갈 때와 단에 가까이 갈 때에 그렇게 씻었다. 이것은 주께서 모세에게 명하신 대로 한 것이다.",
     Chn:"他们进会幕或就近坛的时候，便都洗濯，是照耶和华所吩咐他的。",
     Eng:"They washed whenever they entered the Tent of Meeting or approached the altar, as the LORD commanded Moses.",
     Ind:"Apabila mereka masuk ke dalam Kemah Pertemuan dan apabila mereka datang mendekat kepada mezbah itu, maka mereka membasuh kaki dan tangan--seperti yang diperintahkan TUHAN kepada Musa."
@@ -201,19 +201,19 @@ BibleDB.add([
     Ind:"Didirikannyalah tiang-tiang pelataran sekeliling Kemah Suci dan mezbah itu, dan digantungkannyalah tirai pintu gerbang pelataran itu. Demikianlah diselesaikan Musa pekerjaan itu."
   },
   {Bible:"Exodus", Chapter:40, Verse:34, Page:1,
-    Kor:"<주님의 영광이 회막을 덮다(민 9:15-23)> ○그 때에 구름이 회막을 덮고, 주님의 영광이 성막에 가득 찼다.",
+    Kor:"○그 때에 구름이 회막을 덮고, 주의 영광이 성막에 가득 찼다.",
     Chn:"当时，云彩遮盖会幕，耶和华的荣光就充满了帐幕。",
     Eng:"Then the cloud covered the Tent of Meeting, and the glory of the LORD filled the tabernacle.",
     Ind:"Lalu awan itu menutupi Kemah Pertemuan, dan kemuliaan TUHAN memenuhi Kemah Suci,"
   },
   {Bible:"Exodus", Chapter:40, Verse:35, Page:1,
-    Kor:"모세는, 회막에 구름이 머물고, 주님의 영광이 성막에 가득 찼으므로, 거기에 들어갈 수 없었다.",
+    Kor:"모세는, 회막에 구름이 머물고, 주의 영광이 성막에 가득 찼으므로, 거기에 들어갈 수 없었다.",
     Chn:"摩西不能进会幕；因为云彩停在其上，并且耶和华的荣光充满了帐幕。",
     Eng:"Moses could not enter the Tent of Meeting because the cloud had settled upon it, and the glory of the LORD filled the tabernacle.",
     Ind:"sehingga Musa tidak dapat memasuki Kemah Pertemuan, sebab awan itu hinggap di atas kemah itu, dan kemuliaan TUHAN memenuhi Kemah Suci."
   },
   {Bible:"Exodus", Chapter:40, Verse:36, Page:1,
-    Kor:"이스라엘 자손은 구름이 성막에서 걷히면 진을 거두어 가지고 떠났다.",
+    Kor:"이스라엘 자손은 구름이 성막에서 걷히면, 진을 거두어 가지고 떠났다.",
     Chn:"每逢云彩从帐幕收上去，以色列人就起程前往；",
     Eng:"In all the travels of the Israelites, whenever the cloud lifted from above the tabernacle, they would set out;",
     Ind:"Apabila awan itu naik dari atas Kemah Suci, berangkatlah orang Israel dari setiap tempat mereka berkemah."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Tetapi jika awan itu tidak naik, maka merekapun tidak berangkat sampai hari awan itu naik."
   },
   {Bible:"Exodus", Chapter:40, Verse:38, Page:1,
-    Kor:"그들이 길을 가는 동안에, 낮에는 주님의 구름이 성막 위에 있고, 밤에는 구름 가운데 불이 있어서, 이스라엘 온 자손의 눈 앞을 밝혀 주었다.",
+    Kor:"그들이 길을 가는 동안에, 낮에는 주의 구름이 성막 위에 있고, 밤에는 구름 가운데 불이 있어서, 이스라엘 온 자손의 눈 앞을 밝혀 주었다.",
     Chn:"日间，耶和华的云彩是在帐幕以上；夜间，云中有火，在以色列全家的眼前。在他们所行的路上都是这样。",
     Eng:"So the cloud of the Lord was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel during all their travels.",
     Ind:"Sebab awan TUHAN itu ada di atas Kemah Suci pada siang hari, dan pada malam hari ada api di dalamnya, di depan mata seluruh umat Israel pada setiap tempat mereka berkemah."

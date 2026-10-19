@@ -3,7 +3,7 @@
 BibleDB.ref("2Samuel",10,19);
 BibleDB.add([
   {Bible:"2Samuel", Chapter:10, Verse:1, Page:1,
-    Kor:"<암몬과의 전쟁(대상 19:1-19)> 그 뒤에 암몬 사람의 왕이 죽고, 그의 아들 하눈이 그를 이어서 왕이 되었다.",
+    Kor:"그 뒤에 암몬 사람의 왕이 죽고, 그의 아들 하눈이 그를 이어서 왕이 되었다.",
     Chn:"此后，亚扪人的王死了，他儿子哈嫩接续他作王。",
     Eng:"In the course of time, the king of the Ammonites died, and his son Hanun succeeded him as king.",
     Ind:"Sesudah itu matilah raja bani Amon; dan Hanun, anaknya, menjadi raja menggantikan dia."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Lalu berkatalah Yoab: \"Jika orang Aram itu lebih kuat dari padaku, maka haruslah engkau menolong aku, tetapi jika bani Amon itu lebih kuat dari padamu, maka aku akan datang menolong engkau."
   },
   {Bible:"2Samuel", Chapter:10, Verse:12, Page:1,
-    Kor:"용기를 내어라. 용감하게 싸워서 우리가 우리 민족을 지키고, 우리 하나님의 성읍을 지키자. 주님께서 좋게 여기시는 대로 이루어 주실 것이다.\"",
+    Kor:"용기를 내어라. 용감하게 싸워서 우리가 우리 민족을 지키고, 우리 하나님의 성읍을 지키자. 주께서 좋게 여기시는 대로 이루어 주실 것이다.\"",
     Chn:"我们都当刚强，为本国的民和　神的城邑作大丈夫。愿耶和华凭他的意旨而行！」",
     Eng:"Be strong and let us fight bravely for our people and the cities of our God. The LORD will do what is good in his sight.\"",
     Ind:"Kuatkanlah hatimu dan marilah kita menguatkan hati untuk bangsa kita dan untuk kota-kota Allah kita. TUHAN kiranya melakukan yang baik di mata-Nya.\""
   },
   {Bible:"2Samuel", Chapter:10, Verse:13, Page:1,
-    Kor:"○그런 다음에 요압이 그의 부대를 거느리고 시리아 사람들과 싸우러 나아가니, 시리아 군인들이 요압 앞에서 도망하여 버렸다.",
+    Kor:"○그런 다음에, 요압이 그의 부대를 거느리고 시리아 사람들과 싸우러 나아가니, 시리아 군인들이 요압 앞에서 도망하여 버렸다.",
     Chn:"于是，约押和跟随他的人前进攻打亚兰人；亚兰人在约押面前逃跑。",
     Eng:"Then Joab and the troops with him advanced to fight the Arameans, and they fled before him.",
     Ind:"Lalu Yoab dan tentara yang bersama-sama dengan dia maju berperang melawan orang Aram dan orang-orang itu melarikan diri dari hadapannya."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ketika bani Amon melihat, bahwa orang Aram sudah melarikan diri, maka merekapun larilah dari hadapan Abisai dan masuk ke dalam kota. Sesudah itu pulanglah Yoab setelah memerangi bani Amon dan sampailah ia ke Yerusalem."
   },
   {Bible:"2Samuel", Chapter:10, Verse:15, Page:1,
-    Kor:"○시리아 군인들은 자기들이 이스라엘에게 패한 것을 알고서, 온 군대를 다시 집결시켰다.",
+    Kor:"○시리아 군인들은, 자기들이 이스라엘에게 패한 것을 알고서, 온 군대를 다시 집결시켰다.",
     Chn:"亚兰人见自己被以色列人打败，就又聚集。",
     Eng:"After the Arameans saw that they had been routed by Israel, they regrouped.",
     Ind:"Ketika orang Aram melihat, bahwa mereka telah terpukul kalah oleh orang Israel, maka berkumpullah mereka bersama-sama."

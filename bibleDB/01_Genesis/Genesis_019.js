@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",19,38);
 BibleDB.add([
   {Bible:"Genesis", Chapter:19, Verse:1, Page:1,
-    Kor:"<소돔의 죄> 저녁때에 두 천사가 소돔에 이르렀다. 롯이 소돔 성 어귀에 앉아 있다가, 그들을 보고 일어나서 맞으며, 얼굴을 땅에 대고 엎드려 청하였다.",
+    Kor:"저녁때에 두 천사가 소돔에 이르렀다. 롯이 소돔 성 어귀에 앉아 있다가, 그들을 보고 일어나서 맞으며, 얼굴을 땅에 대고 엎드려 청하였다.",
     Chn:"那两个天使晚上到了所多玛；罗得正坐在所多玛城门口，看见他们，就起来迎接，脸伏于地下拜，",
     Eng:"The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the  city. When he saw them, he got up to meet them and bowed down with his face to the ground.",
     Ind:"Kedua malaikat itu tiba di Sodom pada waktu petang. Lot sedang duduk di pintu gerbang Sodom dan ketika melihat mereka, bangunlah ia menyongsong mereka, lalu sujud dengan mukanya sampai ke tanah,"
@@ -15,19 +15,19 @@ BibleDB.add([
     Ind:"serta berkata: \"Tuan-tuan, silakanlah singgah ke rumah hambamu ini, bermalamlah di sini dan basuhlah kakimu, maka besok pagi tuan-tuan boleh melanjutkan perjalanannya.\" Jawab mereka: \"Tidak, kami akan bermalam di tanah lapang.\""
   },
   {Bible:"Genesis", Chapter:19, Verse:3, Page:1,
-    Kor:"그러나 롯이 간절히 권하므로, 마침내 그들이 롯을 따라서 집으로 들어갔다. 롯이 그들에게, 누룩 넣지 않은 빵을 구워서 상을 차려 주니, 그들은 롯이 차려 준 것을 먹었다.",
+    Kor:"그러나 롯이 간절히 권하므로, 마침내 그들이 롯을 따라서 집으로 들어갔다.롯이 그들에게, 누룩 안 든 빵을 구워서, 상을 차려 주니, 그들은 롯이 차려 준 것을 먹었다.",
     Chn:"罗得切切地请他们，他们这才进去，到他屋里。罗得为他们预备筵席，烤无酵饼，他们就吃了。",
     Eng:"But he insisted so strongly that they did go with him and entered his house. He prepared a  meal for them, baking bread without yeast, and they ate.",
     Ind:"Tetapi karena ia sangat mendesak mereka, singgahlah mereka dan masuk ke dalam rumahnya, kemudian ia menyediakan hidangan bagi mereka, ia membakar roti yang tidak beragi, lalu mereka makan."
   },
   {Bible:"Genesis", Chapter:19, Verse:4, Page:1,
-    Kor:"그들이 잠자리에 들기 전에, 소돔 성 각 마을에서, 젊은이 노인 할 것 없이 모든 남자가 몰려와서, 그 집을 둘러쌌다.",
+    Kor:"그들이 잠자리에 들기 전에, 소돔 성 각 마을에서, 젊은이 노인 할 것 없이, 모든 남자가 몰려와서, 그 집을 둘러쌌다.",
     Chn:"他们还没有躺下，所多玛城里各处的人，连老带少，都来围住那房子，",
     Eng:"Before they had gone to bed, all the men from every part of the city of Sodom--both young  and old--surrounded the house.",
     Ind:"Tetapi sebelum mereka tidur, orang-orang lelaki dari kota Sodom itu, dari yang muda sampai yang tua, bahkan seluruh kota, tidak ada yang terkecuali, datang mengepung rumah itu."
   },
   {Bible:"Genesis", Chapter:19, Verse:5, Page:1,
-    Kor:"그들은 롯에게 소리쳤다. \"오늘 밤에 당신의 집에 온 그 남자들이 어디에 있소? 그들을 우리에게로 데리고 나오시오. 우리가 그 남자들과 상관 좀 해야 하겠소.\"",
+    Kor:"그들은 롯에게 소리쳤다. \"오늘 밤에 너의 집에 온 그 남자들이 어디에 있느냐? 그들을 우리에게로 데리고 나오너라. 우리가 그 남자들과 상관 좀 해야 하겠다.\"",
     Chn:"呼叫罗得说：「今日晚上到你这里来的人在哪里呢？把他们带出来，任我们所为。」",
     Eng:"They called to Lot, \"Where are the men who came to you tonight? Bring them out to us so that  we can have sex with them.\"",
     Ind:"Mereka berseru kepada Lot: \"Di manakah orang-orang yang datang kepadamu malam ini? Bawalah mereka keluar kepada kami, supaya kami pakai mereka.\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Lalu keluarlah Lot menemui mereka, ke depan pintu, tetapi pintu ditutupnya di belakangnya,"
   },
   {Bible:"Genesis", Chapter:19, Verse:7, Page:1,
-    Kor:"그들을 타일렀다. \"여보게들, 제발 이러지 말게. 이건 악한 짓일세.",
+    Kor:"그들을 타일렀다. \"여보게, 제발 이러지들 말게. 이건 악한 짓일세.",
     Chn:"说：「众弟兄，请你们不要做这恶事。",
     Eng:"and said, \"No, my friends. Don't do this wicked thing.",
     Ind:"dan ia berkata: \"Saudara-saudaraku, janganlah kiranya berbuat jahat."
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Kamu tahu, aku mempunyai dua orang anak perempuan yang belum pernah dijamah laki-laki, baiklah mereka kubawa ke luar kepadamu; perbuatlah kepada mereka seperti yang kamu pandang baik; hanya jangan kamu apa-apakan orang-orang ini, sebab mereka memang datang untuk berlindung di dalam rumahku.\""
   },
   {Bible:"Genesis", Chapter:19, Verse:9, Page:1,
-    Kor:"그러자 소돔의 남자들이 롯에게 비켜서라고 소리를 지르고 나서 \"이 사람이, 자기도 나그네살이를 하는 주제에, 우리에게 재판관 행세를 하려고 하는구나. 어디, 그들보다 당신이 먼저 혼 좀 나 보시오\" 하면서, 롯에게 달려들어 밀치고, 대문을 부수려고 하였다.",
+    Kor:"그러자 소돔의 남자들이 롯에게 비켜서라고 소리를 지르고 나서 \"이 놈이, 저도 나그네살이를 하는 주제에, 우리에게 재판관 행세를 하려고 하는구나. 어디, 그들보다 네가 먼저 혼 좀 나 보아라\" 하면서, 롯에게 달려들어 밀치고, 대문을 부수려고 하였다.",
     Chn:"众人说：「退去吧！」又说：「这个人来寄居，还想要作官哪！现在我们要害你比害他们更甚。」众人就向前拥挤罗得，要攻破房门。",
     Eng:"\"Get out of our way,\" they replied. And they said, \"This fellow came here as an alien, and  now he wants to play the judge! We'll treat you worse than them.\" They kept bringing pressure on  Lot and moved forward to break down the door.",
     Ind:"Tetapi mereka berkata: \"Enyahlah!\" Lagi kata mereka: \"Orang ini datang ke sini sebagai orang asing dan dia mau menjadi hakim atas kita! Sekarang kami akan menganiaya engkau lebih dari pada kedua orang itu!\" Lalu mereka mendesak orang itu, yaitu Lot, dengan keras, dan mereka mendekat untuk mendobrak pintu."
@@ -63,37 +63,37 @@ BibleDB.add([
     Ind:"Tetapi kedua orang itu mengulurkan tangannya, menarik Lot masuk ke dalam rumah, lalu menutup pintu."
   },
   {Bible:"Genesis", Chapter:19, Verse:11, Page:1,
-    Kor:"그 집 대문 앞에 모여든 남자들을 젊은이 노인 할 것 없이 모두 쳐서, 그들의 눈을 어둡게 하여, 대문을 찾지 못하게 하였다.",
+    Kor:"그 집 대문 앞에 모여든 남자들을, 젊은이 노인 할 것 없이 모두를 쳐서, 그 눈을 어둡게 하여, 대문을 찾지 못하게 하였다.",
     Chn:"并且使门外的人，无论老少，眼都昏迷；他们摸来摸去，总寻不着房门。",
     Eng:"Then they struck the men who were at the door of the house, young and old, with blindness  so that they could not find the door.",
     Ind:"Dan mereka membutakan mata orang-orang yang di depan pintu rumah itu, dari yang kecil sampai yang besar, sehingga percumalah orang-orang itu mencari-cari pintu."
   },
   {Bible:"Genesis", Chapter:19, Verse:12, Page:1,
-    Kor:"<롯이 소돔을 떠나다> ○그 두 사람이 롯에게 말하였다. \"식구들이 여기에 더 있습니까? 사위들이나, 아들들이나, 딸들이나, 딸린 가족들이 이 성 안에 더 있습니까? 그들을 다 성 바깥으로 데리고 나가십시오.",
+    Kor:"○그 두 사람이 롯에게 말하였다. \"그대의 식구가 여기에 더 있습니까? 사위들이나, 아들들이나, 딸들이나, 그대에게 딸린 가족들이 이 성 안에 더 있습니까? 그들을 다 성 바깥으로 데리고 나가십시오.",
     Chn:"二人对罗得说：「你这里还有什么人吗？无论是女婿是儿女，和这城中一切属你的人，你都要将他们从这地方带出去。",
     Eng:"The two men said to Lot, \"Do you have anyone else here--sons-in-law, sons or daughters, or  anyone else in the city who belongs to you? Get them out of here,",
     Ind:"Lalu kedua orang itu berkata kepada Lot: \"Siapakah kaummu yang ada di sini lagi? Menantu atau anakmu laki-laki, anakmu perempuan, atau siapa saja kaummu di kota ini, bawalah mereka keluar dari tempat ini,"
   },
   {Bible:"Genesis", Chapter:19, Verse:13, Page:1,
-    Kor:"우리는 지금 이 곳을 멸하려고 합니다. 이 성 안에 있는 사람들을 규탄하는 크나큰 울부짖음이 주님 앞에 이르렀으므로, 주님께서 소돔을 멸하시려고 우리를 보내셨습니다.\"",
+    Kor:"우리는 지금 이 곳을 멸하려고 합니다. 이 성 안에 있는 사람들을 규탄하는 크나큰 울부짖음이 주 앞에 이르렀으므로, 주께서 소돔을 멸하시려고 우리를 보내셨습니다.\"",
     Chn:"我们要毁灭这地方；因为城内罪恶的声音在耶和华面前甚大，耶和华差我们来，要毁灭这地方。」",
     Eng:"because we are going to destroy this place. The outcry to the LORD against its people is so  great that he has sent us to destroy it.\"",
     Ind:"sebab kami akan memusnahkan tempat ini, karena banyak keluh kesah orang tentang kota ini di hadapan TUHAN; sebab itulah TUHAN mengutus kami untuk memusnahkannya.\""
   },
   {Bible:"Genesis", Chapter:19, Verse:14, Page:1,
-    Kor:"롯이 나가서, 자기 딸들과 약혼한 사윗감들에게 이 사실을 알렸다. 롯이 그들에게 말하였다. \"서두르게. 이 성을 빠져 나가야 하네. 주님께서 이 성을 곧 멸하실 걸세.\" 그러나 그의 사윗감들은 그가 농담을 한다고 생각하였다.",
+    Kor:"롯이 나가서, 자기 딸들과 약혼한 사윗감들에게 이 사실을 알렸다. 롯이 그들에게 말하였다. \"서두르게. 이 성을 빠져 나가야 하네. 주께서 이 성을 곧 멸하실 걸세.\" 그러나 그의 사윗감들은, 그가 농담을 한다고 생각하였다.",
     Chn:"罗得就出去，告诉娶了他女儿的女婿们说：「你们起来离开这地方，因为耶和华要毁灭这城。」他女婿们却以为他说的是戏言。",
     Eng:"So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He  said, \"Hurry and get out of this place, because the LORD is about to destroy the city!\" But his  sons-in-law thought he was joking.",
     Ind:"Keluarlah Lot, lalu berbicara dengan kedua bakal menantunya, yang akan kawin dengan kedua anaknya perempuan, katanya: \"Bangunlah, keluarlah dari tempat ini, sebab TUHAN akan memusnahkan kota ini.\" Tetapi ia dipandang oleh kedua bakal menantunya itu sebagai orang yang berolok-olok saja."
   },
   {Bible:"Genesis", Chapter:19, Verse:15, Page:1,
-    Kor:"○동틀 무렵에 천사들이 롯을 재촉하여 말하였다. \"서두르시오. 여기에 있는 부인과 두 딸을 데리고, 여기를 떠나시오. 꾸물거리고 있다가는, 이 성이 벌을 받을 때에, 함께 죽고 말 것이오.\"",
+    Kor:"○동틀 무렵에, 천사들이 롯을 재촉하여 말하였다. \"서두르시오. 여기에 있는 부인과 두 딸을 데리고, 여기를 떠나시오. 꾸물거리고 있다가는, 이 성이 벌을 받을 때에, 함께 죽고 말 것이오.\"",
     Chn:"天明了，天使催逼罗得说：「起来！带着你的妻子和你在这里的两个女儿出去，免得你因这城里的罪恶同被剿灭。」",
     Eng:"With the coming of dawn, the angels urged Lot, saying, \"Hurry! Take your wife and your two  daughters who are here, or you will be swept away when the city is punished.\"",
     Ind:"Ketika fajar telah menyingsing, kedua malaikat itu mendesak Lot, supaya bersegera, katanya: \"Bangunlah, bawalah isterimu dan kedua anakmu yang ada di sini, supaya engkau jangan mati lenyap karena kedurjanaan kota ini.\""
   },
   {Bible:"Genesis", Chapter:19, Verse:16, Page:1,
-    Kor:"그런데도 롯이 꾸물거리자, 그 두 사람은 롯과 그의 아내와 두 딸의 손을 잡아끌어서, 성 바깥으로 안전하게 대피시켰다. 주님께서 롯의 가족에게 자비를 베푸신 것이다.",
+    Kor:"그런데도 롯이 꾸물거리자, 그 두 사람은 롯과 그의 아내와 두 딸의 손을 잡아끌어서, 성 바깥으로 안전하게 대피시켰다. 주께서 롯의 가족에게 자비를 베푸신 것이다.",
     Chn:"但罗得迟延不走。二人因为耶和华怜恤罗得，就拉着他的手和他妻子的手，并他两个女儿的手，把他们领出来，安置在城外；",
     Eng:"When he hesitated, the men grasped his hand and the hands of his wife and of his two  daughters and led them safely out of the city, for the LORD was merciful to them.",
     Ind:"Ketika ia berlambat-lambat, maka tangannya, tangan isteri dan tangan kedua anaknya dipegang oleh kedua orang itu, sebab TUHAN hendak mengasihani dia; lalu kedua orang itu menuntunnya ke luar kota dan melepaskannya di sana."
@@ -129,25 +129,25 @@ BibleDB.add([
     Ind:"Sahut malaikat itu kepadanya: \"Baiklah, dalam hal inipun permintaanmu akan kuterima dengan baik; yakni kota yang telah kau sebut itu tidak akan kutunggangbalikkan."
   },
   {Bible:"Genesis", Chapter:19, Verse:22, Page:1,
-    Kor:"당신네가 거기에 이르기까지는, 내가 아무 일도 하지 않을 터이니, 빨리 그리로 가시오.\" 롯이 그 성을 '작다'고 하였으므로, 사람들은 그 성의 이름을 a소알이라고 하였다.(a '작다')",
+    Kor:"당신네가 거기에 이르기까지는, 내가 아무 일도 하지 않을 터이니, 빨리 그리로 가시오.\" 롯이 그 성을 '작다'고 하였으므로, 사람들은 그 성의 이름을 소알이라고 하였다.",
     Chn:"你要速速地逃到那城；因为你还没有到那里，我不能做什么。」因此那城名叫琐珥。",
     Eng:"But flee there quickly, because I cannot do anything until you reach it.\" (That is why the  town was called Zoar.)",
     Ind:"Cepatlah, larilah ke sana, sebab aku tidak dapat berbuat apa-apa, sebelum engkau sampai ke sana.\" Itulah sebabnya nama kota itu disebut Zoar."
   },
   {Bible:"Genesis", Chapter:19, Verse:23, Page:1,
-    Kor:"<소돔과 고모라가 멸망하다> ○롯이 소알에 이르렀을 때에, 해가 떠올라서 땅을 비췄다.",
+    Kor:"○롯이 소알에 이르렀을 때에, 해가 떠올라서 땅을 비췄다.",
     Chn:"罗得到了琐珥，日头已经出来了。",
     Eng:"By the time Lot reached Zoar, the sun had risen over the land.",
     Ind:"Matahari telah terbit menyinari bumi, ketika Lot tiba di Zoar."
   },
   {Bible:"Genesis", Chapter:19, Verse:24, Page:1,
-    Kor:"주님께서 하늘 곧 주님께서 계신 곳으로부터, 소돔과 고모라에 유황과 불을 소나기처럼 퍼 부으셨다.",
+    Kor:"주께서 하늘, 곧 주께서 계신 곳으로부터, 소돔과 고모라에 유황과 불을, 소나기처럼 퍼 부으셨다.",
     Chn:"当时，耶和华将硫磺与火从天上耶和华那里降与所多玛和蛾摩拉，",
     Eng:"Then the LORD rained down burning sulfur on Sodom and Gomorrah--from the LORD out of the  heavens.",
     Ind:"Kemudian TUHAN menurunkan hujan belerang dan api atas Sodom dan Gomora, berasal dari TUHAN, dari langit;"
   },
   {Bible:"Genesis", Chapter:19, Verse:25, Page:1,
-    Kor:"주님께서는 그 두 성과, 성 안에 사는 모든 사람과, 넓은 들과, 땅에 심은 채소를 다 엎어 멸하셨다.",
+    Kor:"주께서는 그 두 성과, 성 안에 사는 모든 사람과, 넓은 들과, 땅에 심은 채소를 다 엎어 멸하셨다.",
     Chn:"把那些城和全平原，并城里所有的居民，连地上生长的，都毁灭了。",
     Eng:"Thus he overthrew those cities and the entire plain, including all those living in the  cities--and also the vegetation in the land.",
     Ind:"dan ditunggangbalikkan-Nyalah kota-kota itu dan Lembah Yordan dan semua penduduk kota-kota serta tumbuh-tumbuhan di tanah."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tetapi isteri Lot, yang berjalan mengikutnya, menoleh ke belakang, lalu menjadi tiang garam."
   },
   {Bible:"Genesis", Chapter:19, Verse:27, Page:1,
-    Kor:"○다음날 아침에 아브라함이 일찍 일어나서, 주님을 모시고 서 있던 그 곳에 이르러서,",
+    Kor:"○다음날 아침에, 아브라함이 일찍 일어나서, 주를 모시고 서 있던 그 곳에 이르러서,",
     Chn:"亚伯拉罕清早起来，到了他从前站在耶和华面前的地方，",
     Eng:"Early the next morning Abraham got up and returned to the place where he had stood before  the LORD.",
     Ind:"Ketika Abraham pagi-pagi pergi ke tempat ia berdiri di hadapan TUHAN itu,"
@@ -177,13 +177,13 @@ BibleDB.add([
     Ind:"Demikianlah pada waktu Allah memusnahkan kota-kota di Lembah Yordan dan menunggangbalikkan kota-kota kediaman Lot, maka Allah ingat kepada Abraham, lalu dikeluarkan-Nyalah Lot dari tengah-tengah tempat yang ditunggangbalikkan itu."
   },
   {Bible:"Genesis", Chapter:19, Verse:30, Page:1,
-    Kor:"<모압과 암몬의 기원> ○롯은 소알에 사는 것이 두려워서, 두 딸을 데리고 소알을 떠나, 산으로 들어가서, 숨어서 살았다. 롯은 두 딸들과 함께 같은 굴에서 살았다.",
+    Kor:"○롯은 소알에 사는 것이 두려워서, 두 딸을 데리고 소알을 떠나, 산으로 들어가서, 숨어서 살았다. 롯은 두 딸들과 함께 같은 굴에서 살았다.",
     Chn:"罗得因为怕住在琐珥，就同他两个女儿从琐珥上去，住在山里；他和两个女儿住在一个洞里。",
     Eng:"Lot and his two daughters left Zoar and settled in the mountains, for he was afraid to stay  in Zoar. He and his two daughters lived in a cave.",
     Ind:"Pergilah Lot dari Zoar dan ia menetap bersama-sama dengan kedua anaknya perempuan di pegunungan, sebab ia tidak berani tinggal di Zoar, maka diamlah ia dalam suatu gua beserta kedua anaknya."
   },
   {Bible:"Genesis", Chapter:19, Verse:31, Page:1,
-    Kor:"하루는 큰 딸이 작은 딸에게 말하였다. \"우리 아버지는 늙으셨고, 아무리 보아도 이 땅에는 세상 풍속대로 우리가 결혼할 남자가 없다.",
+    Kor:"하루는 큰 딸이 작은 딸에게 말하였다. \"우리 아버지는 늙으셨고, 아무리 보아도, 이 땅에는 세상 풍속대로, 우리가 결혼할 남자가 없다.",
     Chn:"大女儿对小女儿说：「我们的父亲老了，地上又无人按着世上的常规进到我们这里。",
     Eng:"One day the older daughter said to the younger, \"Our father is old, and there is no man  around here to lie with us, as is the custom all over the earth.",
     Ind:"Kata kakaknya kepada adiknya: \"Ayah kita telah tua, dan tidak ada laki-laki di negeri ini yang dapat menghampiri kita, seperti kebiasaan seluruh bumi."
@@ -219,13 +219,13 @@ BibleDB.add([
     Ind:"Lalu mengandunglah kedua anak Lot itu dari ayah mereka."
   },
   {Bible:"Genesis", Chapter:19, Verse:37, Page:1,
-    Kor:"큰 딸은 아들을 낳고, 아기 이름을 b모압이라고 하였으니, 그가 바로 오늘날 모압 사람의 조상이다.(b '아버지로부터')",
+    Kor:"큰 딸은 아들을 낳고, 아기 이름을 모압이라고 하였으니, 그가 바로 오늘날 모압 사람의 조상이다.",
     Chn:"大女儿生了儿子，给他起名叫摩押，就是现今摩押人的始祖。",
     Eng:"The older daughter had a son, and she named him Moab; he is the father of the Moabites of  today.",
     Ind:"Yang lebih tua melahirkan seorang anak laki-laki, dan menamainya Moab; dialah bapa orang Moab yang sekarang."
   },
   {Bible:"Genesis", Chapter:19, Verse:38, Page:1,
-    Kor:"작은 딸도 아들을 낳고, 아기 이름을 c벤암미라고 하였으니, 그가 바로 오늘날 암몬 사람의 조상이다.(c '내 백성의 아들')",
+    Kor:"작은 딸도 아들을 낳고, 아기 이름을 벤암미라고 하였으니, 그가 바로 오늘날 암몬 사람의 조상이다.",
     Chn:"小女儿也生了儿子，给他起名叫便·亚米，就是现今亚扪人的始祖。",
     Eng:"The younger daughter also had a son, and she named him Ben-Ammi; he is the father of the  Ammonites of today.",
     Ind:"Yang lebih mudapun melahirkan seorang anak laki-laki, dan menamainya Ben-Ami; dialah bapa bani Amon yang sekarang."

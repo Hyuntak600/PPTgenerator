@@ -3,13 +3,13 @@
 BibleDB.ref("Joshua",6,27);
 BibleDB.add([
   {Bible:"Joshua", Chapter:6, Verse:1, Page:1,
-    Kor:"<여리고 성의 함락> 여리고 성은 이스라엘 자손을 막으려고 굳게 닫혀 있었고, 출입하는 사람이 없었다.",
+    Kor:"여리고 성은 이스라엘 자손을 막으려고 굳게 닫혀 있었고, 출입하는 사람이 없었다.",
     Chn:"耶利哥的城门因以色列人就关得严紧，无人出入。",
     Eng:"Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.",
     Ind:"Dalam pada itu Yerikho telah menutup pintu gerbangnya; telah tertutup kota itu karena orang Israel; tidak ada orang keluar atau masuk."
   },
   {Bible:"Joshua", Chapter:6, Verse:2, Page:1,
-    Kor:"주님께서 여호수아에게 말씀하셨다. \"내가 여리고와 그 왕과 용사들을 너의 손에 붙인다.",
+    Kor:"주께서 여호수아에게 말씀하셨다. \"내가 여리고와 그 왕과 용사들을 너의 손에 붙인다.",
     Chn:"耶和华晓谕约书亚说：「看哪，我已经把耶利哥和耶利哥的王，并大能的勇士，都交在你手中。",
     Eng:"Then the LORD said to Joshua, \"See, I have delivered Jericho into your hands, along with its king and its fighting men.",
     Ind:"Berfirmanlah TUHAN kepada Yosua: \"Ketahuilah, Aku serahkan ke tanganmu Yerikho ini beserta rajanya dan pahlawan-pahlawannya yang gagah perkasa."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Haruslah kamu mengelilingi kota itu, yakni semua prajurit harus mengedari kota itu sekali saja; demikianlah harus engkau perbuat enam hari lamanya,"
   },
   {Bible:"Joshua", Chapter:6, Verse:4, Page:1,
-    Kor:"제사장 일곱 명을, 숫양 뿔 나팔 일곱 개를 들고 궤 앞에서 걷게 하여라. 이레째 되는 날에, 너희는 제사장들이 나팔을 부는 동안 성을 일곱 번 돌아라.",
+    Kor:"제사장 일곱 명을, 숫양 뿔 나팔 일곱 개를 들고 궤 앞에서 걷게 하여라. 이레째 되는 날에, 너희는, 제사장들이 나팔을 부는 동안, 성을 일곱 번 돌아라.",
     Chn:"七个祭司要拿七个羊角走在约柜前。到第七日，你们要绕城七次，祭司也要吹角。",
     Eng:"Have seven priests carry trumpets of rams' horns in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the trumpets.",
     Ind:"dan tujuh orang imam harus membawa tujuh sangkakala tanduk domba di depan tabut. Tetapi pada hari yang ketujuh, tujuh kali kamu harus mengelilingi kota itu sedang para imam meniup sangkakala."
@@ -33,19 +33,19 @@ BibleDB.add([
     Ind:"Apabila sangkakala tanduk domba itu panjang bunyinya dan kamu mendengar bunyi sangkakala itu, maka haruslah seluruh bangsa bersorak dengan sorak yang nyaring, maka tembok kota itu akan runtuh, lalu bangsa itu harus memanjatnya, masing-masing langsung ke depan.\""
   },
   {Bible:"Joshua", Chapter:6, Verse:6, Page:1,
-    Kor:"○눈의 아들 여호수아가 제사장들을 불러서 말하였다. \"언약궤를 메고 서시오. 그리고 일곱 제사장은 제각기 일곱 숫양 뿔 나팔을 들고 주님의 궤 앞에 서시오.\"",
+    Kor:"○눈의 아들 여호수아가 제사장들을 불러서 말하였다. \"언약궤를 메고 서시오. 그리고 일곱 제사장은 제각기 일곱 숫양 뿔 나팔을 들고 주의 궤 앞에 서시오.\"",
     Chn:"嫩的儿子约书亚召了祭司来，吩咐他们说：「你们抬起约柜来，要有七个祭司拿七个羊角走在耶和华的约柜前」；",
     Eng:"So Joshua son of Nun called the priests and said to them, \"Take up the ark of the covenant of the LORD and have seven priests carry trumpets in front of it.\"",
     Ind:"Kemudian Yosua bin Nun memanggil para imam dan berkata kepada mereka: \"Angkatlah tabut perjanjian itu dan tujuh orang imam harus membawa tujuh sangkakala tanduk domba di depan tabut TUHAN.\""
   },
   {Bible:"Joshua", Chapter:6, Verse:7, Page:1,
-    Kor:"또 그는 백성에게 말하였다. \"앞으로 나아가거라! 성을 돌아라! 무장한 선발대는 주님의 궤 앞에 서서 행군하여라!\"",
+    Kor:"또 그는 백성에게 말하였다. \"앞으로 나아가거라! 성을 돌아라! 무장한 선발대는 주의 궤 앞에 서서 행군하여라!\"",
     Chn:"又对百姓说：「你们前去绕城，带兵器的要走在耶和华的约柜前。」",
     Eng:"And he ordered the people, \"Advance! March around the city, with the armed guard going ahead of the ark of the LORD.\"",
     Ind:"Dan kepada bangsa itu dikatakannya: \"Majulah, kelilingilah kota itu, dan orang-orang bersenjata harus berjalan di depan tabut TUHAN.\""
   },
   {Bible:"Joshua", Chapter:6, Verse:8, Page:1,
-    Kor:"○여호수아가 백성에게 명령한 대로, 제각기 숫양 뿔 나팔을 든 일곱 제사장은 주님 앞에서 행군하며 나팔을 불었고, 주님의 언약궤는 그 뒤를 따랐다.",
+    Kor:"○여호수아가 백성에게 명령한 대로, 제각기 숫양 뿔 나팔을 든 일곱 제사장은 주 앞에서 행군하며 나팔을 불었고, 주의 언약궤는 그 뒤를 따랐다.",
     Chn:"约书亚对百姓说完了话，七个祭司拿七个羊角走在耶和华面前吹角；耶和华的约柜在他们后面跟随。",
     Eng:"When Joshua had spoken to the people, the seven priests carrying the seven trumpets before the LORD went forward, blowing their trumpets, and the ark of the LORD'S covenant followed them.",
     Ind:"Segera sesudah Yosua berkata kepada bangsa itu, maka berjalanlah maju ketujuh orang imam, yang membawa ketujuh sangkakala tanduk domba itu di hadapan TUHAN, lalu mereka meniup sangkakala, sedang tabut perjanjian TUHAN mengikut mereka."
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Tetapi Yosua telah memerintahkan kepada bangsa itu, demikian: \"Janganlah bersorak dan janganlah perdengarkan suaramu, sepatah katapun janganlah keluar dari mulutmu sampai pada hari aku mengatakan kepadamu: Bersoraklah! --maka kamu harus bersorak.\""
   },
   {Bible:"Joshua", Chapter:6, Verse:11, Page:1,
-    Kor:"이처럼 여호수아는 주님의 궤를 메고 성을 한 바퀴 돌게 한 다음에 진에 돌아와서, 그 밤을 진에서 지내게 하였다.",
+    Kor:"이처럼 여호수아는 주의 궤를 메고 성을 한 바퀴 돌게 한 다음에 진에 돌아와서, 그 밤을 진에서 지내게 하였다.",
     Chn:"这样，他使耶和华的约柜绕城，把城绕了一次；众人回到营里，就在营里住宿。",
     Eng:"So he had the ark of the LORD carried around the city, circling it once. Then the people returned to camp and spent the night there.",
     Ind:"Demikianlah tabut TUHAN mengelilingi kota itu, mengedarinya sekali saja. Kemudian kembalilah mereka ke tempat perkemahan dan bermalam di tempat perkemahan itu."
   },
   {Bible:"Joshua", Chapter:6, Verse:12, Page:1,
-    Kor:"○다음날 아침에 여호수아가 일찍 일어났다. 제사장들도 다시 주님의 궤를 메었다.",
+    Kor:"○다음날 아침에 여호수아가 일찍 일어났다. 제사장들도 다시 주의 궤를 메었다.",
     Chn:"约书亚清早起来，祭司又抬起耶和华的约柜。",
     Eng:"Joshua got up early the next morning and the priests took up the ark of the LORD.",
     Ind:"Keesokan harinya Yosua bangun pagi-pagi, lalu para imam mengangkat tabut TUHAN."
   },
   {Bible:"Joshua", Chapter:6, Verse:13, Page:1,
-    Kor:"제각기 숫양 뿔 나팔을 든 일곱 제사장은 주님의 궤 앞에 서서, 계속 행군하며 나팔을 불었고, 무장한 선발대는 그들보다 앞서서 나아갔으며, 후발대는 주님의 궤를 뒤따랐다. 그 동안 제사장들은 계속하여 나팔을 불었다.",
+    Kor:"제각기 숫양 뿔 나팔을 든 일곱 제사장은 주의 궤 앞에 서서, 계속 행군하며 나팔을 불었고, 무장한 선발대는 그들보다 앞서서 나아갔으며, 후발대는 주의 궤를 뒤따랐다. 그 동안 제사장들은 계속하여 나팔을 불었다.",
     Chn:"七个祭司拿七个羊角在耶和华的约柜前，时常行走吹角；带兵器的在他们前面走，后队随着耶和华的约柜行。祭司一面走一面吹。",
     Eng:"The seven priests carrying the seven trumpets went forward, marching before the ark of the LORD and blowing the trumpets. The armed men went ahead of them and the rear guard followed the ark of the LORD, while the trumpets kept sounding.",
     Ind:"Maka berjalanlah juga ketujuh orang imam, yang membawa ketujuh sangkakala tanduk domba itu di depan tabut TUHAN, sambil berjalan mereka meniup sangkakala, sedang orang-orang bersenjata berjalan di depan mereka dan barisan penutup mengikut tabut TUHAN, sementara sangkakala terus-menerus ditiup."
@@ -87,19 +87,19 @@ BibleDB.add([
     Ind:"Demikianlah pada hari kedua mereka mengelilingi kota itu sekali saja, lalu pulang ke tempat perkemahan. Dan begitulah dilakukan mereka enam hari lamanya."
   },
   {Bible:"Joshua", Chapter:6, Verse:15, Page:1,
-    Kor:"○드디어 이렛날이 되었다. 그들은 새벽 동이 트자 일찍 일어나서 전과 같이 성을 돌았는데, 이 날만은 일곱 번을 돌았다.",
+    Kor:"○드디어 이렛날이 되었다. 그들은 새벽 동이 트자, 일찍 일어나서 전과 같이 성을 돌았는데, 이 날만은 일곱 번을 돌았다.",
     Chn:"第七日清早，黎明的时候，他们起来，照样绕城七次；惟独这日把城绕了七次。",
     Eng:"On the seventh day, they got up at daybreak and marched around the city seven times in the same manner, except that on that day they circled the city seven times.",
     Ind:"Tetapi pada hari yang ketujuh mereka bangun pagi-pagi, ketika fajar menyingsing, dan mengelilingi kota tujuh kali dengan cara yang sama; hanya pada hari itu mereka mengelilingi kota itu tujuh kali."
   },
   {Bible:"Joshua", Chapter:6, Verse:16, Page:1,
-    Kor:"일곱 번째가 되어서, 제사장들이 나팔을 불 때에, 여호수아가 백성에게 이렇게 명령하였다. \"큰소리로 외쳐라! 주님께서 너희에게 이 성을 주셨다.",
+    Kor:"일곱 번째가 되어서, 제사장들이 나팔을 불 때에, 여호수아가 백성에게 이렇게 명령하였다. \"큰소리로 외쳐라! 주께서 너희에게 이 성을 주셨다.",
     Chn:"到了第七次，祭司吹角的时候，约书亚吩咐百姓说：「呼喊吧，因为耶和华已经把城交给你们了！",
     Eng:"The seventh time around, when the priests sounded the trumpet blast, Joshua commanded the people, \"Shout! For the LORD has given you the city!",
     Ind:"Lalu pada ketujuh kalinya, ketika para imam meniup sangkakala, berkatalah Yosua kepada bangsa itu: \"Bersoraklah, sebab TUHAN telah menyerahkan kota ini kepadamu!"
   },
   {Bible:"Joshua", Chapter:6, Verse:17, Page:1,
-    Kor:"이 성과 이 안에 있는 모든 것을 a전멸시켜서, 그것을 주님께 제물로 바쳐라. 그러나 창녀 라합과 그 여인의 집에 있는 사람은 모두 살려 주어라. 그 여인은 우리가 보낸 정탐꾼들을 숨겨 주었다.(a 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"이 성과 이 안에 있는 모든 것을 전멸시켜서, 그것을 주께 제물로 바쳐라. 그러나 창녀 라합과 그 여인의 집에 있는 사람은 모두 살려 주어라. 그 여인은 우리가 보낸 정탐꾼들을 숨겨 주었다.",
     Chn:"这城和其中所有的都要在耶和华面前毁灭；只有妓女喇合与她家中所有的可以存活，因为她隐藏了我们所打发的使者。",
     Eng:"The city and all that is in it are to be devoted to the LORD. Only Rahab the prostitute and all who are with her in her house shall be spared, because she hid the spies we sent.",
     Ind:"Dan kota itu dengan segala isinya akan dikhususkan bagi TUHAN untuk dimusnahkan; hanya Rahab, perempuan sundal itu, akan tetap hidup, ia dengan semua orang yang bersama-sama dengan dia dalam rumah itu, karena ia telah menyembunyikan orang suruhan yang kita suruh."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Tetapi kamu ini, jagalah dirimu terhadap barang-barang yang dikhususkan untuk dimusnahkan, supaya jangan kamu mengambil sesuatu dari barang-barang yang dikhususkan itu setelah mengkhususkannya dan dengan demikian membawa kemusnahan atas perkemahan orang Israel dan mencelakakannya."
   },
   {Bible:"Joshua", Chapter:6, Verse:19, Page:1,
-    Kor:"모든 은이나 금, 놋이나 철로 만든 그릇은, 다 주님께 바칠 것이므로 거룩하게 구별하여, 주님의 금고에 넣도록 하여라.\"",
+    Kor:"모든 은이나 금, 놋이나 철로 만든 그릇은, 다 주께 바칠 것이므로 거룩하게 구별하여, 주의 금고에 넣도록 하여라.\"",
     Chn:"惟有金子、银子，和铜铁的器皿都要归耶和华为圣，必入耶和华的库中。」",
     Eng:"All the silver and gold and the articles of bronze and iron are sacred to the LORD and must go into his treasury.\"",
     Ind:"Segala emas dan perak serta barang-barang tembaga dan besi adalah kudus bagi TUHAN; semuanya itu akan dimasukkan ke dalam perbendaharaan TUHAN.\""
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Lalu masuklah kedua pengintai muda itu dan membawa ke luar Rahab dan ayahnya, ibunya, saudara-saudaranya dan semua orang yang bersama-sama dengan dia, bahkan seluruh kaumnya dibawa mereka ke luar, lalu mereka menunjukkan kepadanya tempat tinggal di luar perkemahan orang Israel."
   },
   {Bible:"Joshua", Chapter:6, Verse:24, Page:1,
-    Kor:"그리고 그들은 그 성읍과 그 안에 있는 모든 것을 불로 태웠다. 그러나 은이나 금이나 놋이나 철로 만든 그릇만은 주님의 집 금고에 들여 놓았다.",
+    Kor:"그리고 그들은 그 성읍과 그 안에 있는 모든 것을 불로 태웠다. 그러나 은이나 금이나 놋이나 철로 만든 그릇만은 주의 집 금고에 들여 놓았다.",
     Chn:"众人就用火将城和其中所有的焚烧了；惟有金子、银子，和铜铁的器皿都放在耶和华殿的库中。",
     Eng:"Then they burned the whole city and everything in it, but they put the silver and gold and the articles of bronze and iron into the treasury of the LORD'S house.",
     Ind:"Tetapi kota itu dan segala sesuatu yang ada di dalamnya dibakar mereka dengan api; hanya emas dan perak, barang-barang tembaga dan besi ditaruh mereka di dalam perbendaharaan rumah TUHAN."
@@ -153,13 +153,13 @@ BibleDB.add([
     Ind:"Demikianlah Rahab, perempuan sundal itu dan keluarganya serta semua orang yang bersama-sama dengan dia dibiarkan hidup oleh Yosua. Maka diamlah perempuan itu di tengah-tengah orang Israel sampai sekarang, karena ia telah menyembunyikan orang suruhan yang disuruh Yosua mengintai Yerikho."
   },
   {Bible:"Joshua", Chapter:6, Verse:26, Page:1,
-    Kor:"○그 때에 여호수아가 이렇게 맹세하였다. \"이 여리고 성을 일으켜 다시 세우겠다고 하는 자는, 주님 앞에서 저주를 받을 것이다.  성벽 기초를 놓는 자는 맏아들을 잃을 것이요, 성문을 다는 자는 막내 아들을 잃을 것이다.\"",
+    Kor:"○그 때에 여호수아가 이렇게 맹세하였다. \"이 여리고 성을 일으켜 다시 세우겠다고 하는 자는, 주 앞에서 저주를 받을 것이다. 성벽 기초를 놓는 자는 맏아들을 잃을 것이요, 성문을 다는 자는 막내 아들을 잃을 것이다.\"",
     Chn:"当时，约书亚叫众人起誓说：「有兴起重修这耶利哥城的人，当在耶和华面前受咒诅。 他立根基的时候，必丧长子， 安门的时候，必丧幼子。」",
     Eng:"At that time Joshua pronounced this solemn oath: \"Cursed before the LORD is the man who undertakes to rebuild this city, Jericho: \"At the cost of his firstborn son will he lay its foundations; at the cost of his youngest will he set up its gates.\"",
     Ind:"Pada waktu itu bersumpahlah Yosua, katanya: \"Terkutuklah di hadapan TUHAN orang yang bangkit untuk membangun kembali kota Yerikho ini; dengan membayarkan nyawa anaknya yang sulung ia akan meletakkan dasar kota itu dan dengan membayarkan nyawa anaknya yang bungsu ia akan memasang pintu gerbangnya!\""
   },
   {Bible:"Joshua", Chapter:6, Verse:27, Page:1,
-    Kor:"○주님께서 여호수아와 함께 계셨으므로 그의 명성이 온 땅에 두루 퍼졌다.",
+    Kor:"○주께서 여호수아와 함께 계셨으므로 그의 명성이 온 땅에 두루 퍼졌다.",
     Chn:"耶和华与约书亚同在，约书亚的声名传扬遍地。",
     Eng:"So the LORD was with Joshua, and his fame spread throughout the land.",
     Ind:"Dan TUHAN menyertai Yosua dan terdengarlah kabar tentang dia di seluruh negeri itu."

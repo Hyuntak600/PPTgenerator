@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",5,26);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:5, Verse:1, Page:1,
-    Kor:"<르우벤의 자손> 이스라엘의 맏아들 르우벤의 아들은 다음과 같다. (르우벤은 맏아들이지만, 그의 아버지의 잠자리를 더럽혔으므로, 그의 맏아들의 권리가 이스라엘의 아들인 요셉의 아들들에게 넘어갔고, 족보에 맏아들로 오르지 못하였다.",
+    Kor:"이스라엘의 맏아들 르우벤의 아들은 다음과 같다. (르우벤은 맏아들이지만, 그의 아버지의 잠자리를 더럽혔으므로, 그의 맏아들의 권리가 이스라엘의 아들인 요셉의 아들들에게 넘어갔고, 족보에 맏아들로 오르지 못하였다.",
     Chn:"以色列的长子原是吕便；因他污秽了父亲的床，他长子的名分就归了约瑟。只是按家谱他不算长子。",
     Eng:"The sons of Reuben the firstborn of Israel (he was the firstborn, but when he defiled his father's marriage bed, his rights as firstborn were given to the sons of Joseph son of Israel; so he could not be listed in the genealogical record in accordance with his birthright,",
     Ind:"Anak-anak Ruben, anak sulung Israel. Dialah anak sulung, tetapi karena ia telah melanggar kesucian petiduran ayahnya, maka hak kesulungannya diberikan kepada keturunan dari Yusuf, anak Israel juga, sekalipun tidak tercatat dalam silsilah sebagai anak sulung."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Di zaman Saul mereka melakukan perang melawan orang Hagri; setelah orang-orang ini jatuh ke dalam tangan mereka, maka mereka diam di kemah-kemah orang-orang itu di seluruh sisi timur Gilead."
   },
   {Bible:"1Chronicles", Chapter:5, Verse:11, Page:1,
-    Kor:"<갓의 자손> ○르우벤 자손 건너편에 있는 갓 자손은 살르가에까지 이르는 바산 땅에서 살았다.",
+    Kor:"○르우벤 자손 건너편에 있는 갓 자손은 살르가에까지 이르는 바산 땅에서 살았다.",
     Chn:"迦得的子孙在吕便对面，住在巴珊地，延到撒迦。",
     Eng:"The Gadites lived next to them in Bashan, as far as Salecah:",
     Ind:"Bani Gad diam berbatasan dengan mereka di tanah Basan sampai Salkha."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Mereka sekalian dicatat dalam silsilah pada zaman Yotam, raja Yehuda, dan pada zaman Yerobeam, raja Israel."
   },
   {Bible:"1Chronicles", Chapter:5, Verse:18, Page:1,
-    Kor:"<동쪽 지파의 군대> ○르우벤 자손과 갓 사람과 므낫세 반쪽 지파 가운데서, 방패와 칼을 들고 활을 당기며 싸움에 익숙하여 군대에 나갈 만한 용사들은, 사만 사천칠백육십 명이다.",
+    Kor:"○르우벤 자손과 갓 사람과 므낫세 반쪽 지파 가운데서, 방패와 칼을 들고 활을 당기며 싸움에 익숙하여 군대에 나갈 만한 용사들은, 사만 사천칠백육십 명이다.",
     Chn:"吕便人、迦得人，和玛拿西半支派的人，能拿盾牌和刀剑、拉弓射箭、出征善战的勇士共有四万四千七百六十名。",
     Eng:"The Reubenites, the Gadites and the half-tribe of Manasseh had 44,760 men ready for military service--able-bodied men who could handle shield and sword, who could use a bow, and who were trained for battle.",
     Ind:"Dari bani Ruben, orang Gad dan setengah suku Manasye ada empat puluh empat ribu tujuh ratus enam puluh orang yang sanggup berperang, orang-orang yang tangkas, yang dapat memanggul perisai dan pedang dan melentur busur panah, yang terlatih dalam bertempur."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Banyak orang yang tewas karena mati terbunuh, sebab pertempuran itu adalah dari pada Allah. Lalu mereka menduduki tempat orang-orang itu sampai waktu pembuangan."
   },
   {Bible:"1Chronicles", Chapter:5, Verse:23, Page:1,
-    Kor:"<동쪽 므낫세 지파 백성> ○므낫세 반쪽 지파의 자손은 바산에서부터 바알헤르몬과 스닐과 헤르몬 산에 이르는 지역에 살면서, 그들의 숫자가 불어났다.",
+    Kor:"○므낫세 반쪽 지파의 자손은 바산에서부터 바알헤르몬과 스닐과 헤르몬 산에 이르는 지역에 살면서, 그들의 숫자가 불어났다.",
     Chn:"玛拿西半支派的人住在那地。从巴珊延到巴力·黑们、示尼珥与黑门山。",
     Eng:"The people of the half-tribe of Manasseh were numerous; they settled in the land from Bashan to Baal Hermon, that is, to Senir (Mount Hermon).",
     Ind:"Setengah suku Manasye diam di negeri itu mulai dari Basan sampai Baal-Hermon, Senir dan gunung Hermon. Mereka sudah banyak jumlahnya."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Inilah para kepala puak-puak mereka: Hefer, Yisei, Eliel, Azriel, Yeremia, Hodawya dan Yahdiel, orang-orang pahlawan yang gagah perkasa, orang-orang yang kenamaan, para kepala puak-puak mereka."
   },
   {Bible:"1Chronicles", Chapter:5, Verse:25, Page:1,
-    Kor:"<동쪽 지파의 추방> ○그러나 그들은 그 조상의 하나님을 배신하고, 하나님께서 그들 앞에서 없애 버린 그 땅 백성의 신들을 섬겼으므로,",
+    Kor:"○그러나 그들은 그 조상의 하나님을 배신하고, 하나님께서 그들 앞에서 없애 버린 그 땅 백성의 신들을 섬겼으므로,",
     Chn:"他们得罪了他们列祖的　神，随从那地之民的神行邪淫；这民就是　神在他们面前所除灭的。",
     Eng:"But they were unfaithful to the God of their fathers and prostituted themselves to the gods of the peoples of the land, whom God had destroyed before them.",
     Ind:"Tetapi ketika mereka berubah setia terhadap Allah nenek moyang mereka dan berzinah dengan mengikuti segala allah bangsa-bangsa negeri yang telah dimusnahkan Allah dari depan mereka,"

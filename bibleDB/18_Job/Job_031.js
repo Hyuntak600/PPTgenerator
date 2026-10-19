@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"\"Aku telah menetapkan syarat bagi mataku, masakan aku memperhatikan anak dara?"
   },
   {Bible:"Job", Chapter:31, Verse:2, Page:1,
-    Kor:"여자나 유혹하고 다니면, 위에 계신 하나님이 내게 주실 몫이 무엇이겠으며, 높은 곳에 계신 a전능하신 분께서 내게 주실 유산은 무엇이겠는가? (a 히, '샤다이')",
+    Kor:"여자나 유혹하고 다니면, 위에 계신 하나님이 내게 주실 몫이 무엇이겠으며, 높은 곳에 계신 전능하신 분께서 내게 주실 유산은 무엇이겠는가?",
     Chn:"从至上的　神所得之分， 从至高全能者所得之业是什么呢？",
     Eng:"For what is man's lot from God above, his heritage from the Almighty on high?",
     Ind:"Karena bagian apakah yang ditentukan Allah dari atas, milik pusaka apakah yang ditetapkan Yang Mahakuasa dari tempat yang tinggi?"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Bukankah kebinasaan bagi orang yang curang dan kemalangan bagi yang melakukan kejahatan?"
   },
   {Bible:"Job", Chapter:31, Verse:4, Page:1,
-    Kor:"하나님은 내가 하는 일을 낱낱이 알고 계신다. 내 모든 발걸음을 하나하나 세고 계신다.",
+    Kor:"하나님은, 내가 하는 일을 낱낱이 알고 계신다. 내 모든 발걸음을 하나하나 세고 계신다.",
     Chn:"神岂不是察看我的道路， 数点我的脚步呢？",
     Eng:"Does he not see my ways and count my every step?",
     Ind:"Bukankah Allah yang mengamat-amati jalanku dan menghitung segala langkahku?"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Karena hal itu adalah perbuatan mesum, bahkan kejahatan, yang patut dihukum oleh hakim."
   },
   {Bible:"Job", Chapter:31, Verse:12, Page:1,
-    Kor:"그것은 사람을 b파멸시키는 불, 사람이 애써서 모은 재산을 다 태우는 불이다. (b 히, '아바돈')",
+    Kor:"그것은 사람을 파멸시키는 불, 사람이 애써서 모은 재산을 다 태우는 불이다.",
     Chn:"这本是火焚烧，直到毁灭， 必拔除我所有的家产。",
     Eng:"It is a fire that burns to Destruction; it would have uprooted my harvest.",
     Ind:"Sesungguhnya, itulah api yang memakan habis, dan menghanguskan seluruh hasilku."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Jikalau aku menutupi pelanggaranku seperti manusia dengan menyembunyikan kesalahanku dalam hatiku,"
   },
   {Bible:"Job", Chapter:31, Verse:34, Page:1,
-    Kor:"c사람들이 무슨 말로 나를 헐뜯든지, 나는 그것을 전혀 두려워하지 않았다. 남에게서 비웃음을 받을까 하여, 입을 다물거나 집 안에서만 머무르거나 하지도 않았다. (c 히, '아담이 하였듯이')",
+    Kor:"사람들이 무슨 말로 나를 헐뜯든지, 나는 그것을 전혀 두려워하지 않았다. 남에게서 비웃음을 받을까 하여, 입을 다물거나 집 안에서만 머무르거나 하지도 않았다.",
     Chn:"因惧怕大众， 又因宗族藐视我使我惊恐， 以致闭口无言，杜门不出；",
     Eng:"because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside",
     Ind:"karena aku takuti khalayak ramai dan penghinaan kaum keluarga mengagetkan aku, sehingga aku berdiam diri dan tidak keluar dari pintu!"
   },
   {Bible:"Job", Chapter:31, Verse:35, Page:1,
-    Kor:"내가 한 이 변명을 들어줄 사람이 없을까? 맹세코 나는 사실대로만 말하였다. 이제는, a전능하신 분께서 말씀하시는 대답을 듣고 싶다. (a 히, '샤다이')",
+    Kor:"내가 한 이 변명을 들어줄 사람이 없을까? 맹세코 나는 사실대로만 말하였다. 이제는, 전능하신 분께서 말씀하시는 대답을 듣고 싶다.",
     Chn:"惟愿有一位肯听我！ （看哪，在这里有我所划的押， 愿全能者回答我！）",
     Eng:"(\"Oh, that I had someone to hear me! I sign now my defense--let the Almighty answer me; let my accuser put his indictment in writing.",
     Ind:"Ah, sekiranya ada yang mendengarkan aku! --Inilah tanda tanganku! Hendaklah Yang Mahakuasa menjawab aku! --Sekiranya ada surat tuduhan yang ditulis lawanku!"
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"jikalau aku memakan habis hasilnya dengan tidak membayar, dan menyusahkan pemilik-pemiliknya,"
   },
   {Bible:"Job", Chapter:31, Verse:40, Page:1,
-    Kor:"내 밭에서 밀 대신 찔레가 나거나 보리 대신 잡초가 돋아나더라도, 나는 기꺼이 받겠다. ○이것으로 욥의 말이 모두 끝났다.",
+    Kor:"내 밭에서, 밀 대신 찔레가 나거나 보리 대신 잡초가 돋아나더라도, 나는 기꺼이 받겠다. ○이것으로 욥의 말이 모두 끝났다.",
     Chn:"愿这地长蒺藜代替麦子， 长恶草代替大麦。 约伯的话说完了。",
     Eng:"then let briers come up instead of wheat and weeds instead of barley.\" The words of Job are ended.",
     Ind:"maka biarlah bukan gandum yang tumbuh, tetapi onak, dan bukan jelai, tetapi lalang.\" Sekianlah kata-kata Ayub."

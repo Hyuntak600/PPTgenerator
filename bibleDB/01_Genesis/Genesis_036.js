@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",36,43);
 BibleDB.add([
   {Bible:"Genesis", Chapter:36, Verse:1, Page:1,
-    Kor:"<에서의 자손(대상 1:34-37)> 에서 곧 에돔의 족보는 다음과 같다.",
+    Kor:"에서 곧 에돔의 족보는 다음과 같다.",
     Chn:"以扫就是以东，他的后代记在下面。",
     Eng:"This is the account of Esau (that is, Edom).",
     Ind:"Inilah keturunan Esau, yaitu Edom."
   },
   {Bible:"Genesis", Chapter:36, Verse:2, Page:1,
-    Kor:"에서는 가나안 여인 세 사람을 아내로 맞아들였다. 아다는 헷 사람 엘론의 딸이다. 오홀리바마는 히위 사람 시브온의 a딸 아나에게서 태어났다.",
+    Kor:"에서는 가나안 여인 세 사람을 아내로 맞아들였다. 아다는 헷 사람 엘론의 딸이다. 오홀리바마는 히위 사람 시브온의 딸 아나에게서 태어났다.",
     Chn:"以扫娶迦南的女子为妻，就是赫人以伦的女儿亚大和希未人祭便的孙女、亚拿的女儿阿何利巴玛，",
     Eng:"Esau took his wives from the women of Canaan: Adah daughter of Elon the Hittite, and  Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite--",
     Ind:"Esau mengambil perempuan-perempuan Kanaan menjadi isterinya, yakni Ada, anak Elon orang Het, dan Oholibama, anak Ana anak Zibeon orang Hewi,"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"dan Oholibama melahirkan Yeush, Yaelam dan Korah. Itulah anak-anak Esau, yang lahir baginya di tanah Kanaan."
   },
   {Bible:"Genesis", Chapter:36, Verse:6, Page:1,
-    Kor:"○에서는 아내들과 아들들과 딸들과 자기 집의 모든 사람과 집짐승과 또 다른 모든 짐승과 가나안 땅에서 얻은 모든 재산을 이끌고, 아우 야곱과는 좀 떨어진 다른 곳으로 갔다.",
+    Kor:"○에서는 아내들과 아들들과 딸들과 자기 집의 모든 사람과 집짐승과, 또 다른 모든 짐승과 가나안 땅에서 얻은 모든 재산을 이끌고, 아우 야곱과는 좀 떨어진 다른 곳으로 갔다.",
     Chn:"以扫带着他的妻子、儿女，与家中一切的人口，并他的牛羊、牲畜，和一切货财，就是他在迦南地所得的，往别处去，离了他兄弟雅各。",
     Eng:"Esau took his wives and sons and daughters and all the members of his household, as well as  his livestock and all his other animals and all the goods he had acquired in Canaan, and moved to  a land some distance from his brother Jacob.",
     Ind:"Esau membawa isteri-isterinya, anak-anaknya lelaki dan perempuan dan semua orang yang ada di rumahnya, ternaknya, segala hewannya dan segala harta bendanya yang telah diperolehnya di tanah Kanaan, lalu pergilah ia ke negeri lain dan ia meninggalkan Yakub, adiknya itu."
@@ -63,7 +63,7 @@ BibleDB.add([
     Ind:"Nama anak-anaknya ialah: Elifas, anak Ada isteri Esau; Rehuel, anak Basmat isteri Esau."
   },
   {Bible:"Genesis", Chapter:36, Verse:11, Page:1,
-    Kor:"엘리바스가 낳은 아들은 데만과 오말과 스보와 가담과 그나스이다.",
+    Kor:"엘리바스가 낳은 아들은, 데만과 오말과 스보와 가담과 그나스이다.",
     Chn:"以利法的儿子是提幔、阿抹、洗玻、迦坦、基纳斯。",
     Eng:"The sons of Eliphaz: Teman, Omar, Zepho, Gatam and Kenaz.",
     Ind:"Anak-anak Elifas ialah Teman, Omar, Zefo, Gaetam dan Kenas."
@@ -75,19 +75,19 @@ BibleDB.add([
     Ind:"Timna adalah gundik Elifas anak Esau; ia melahirkan Amalek bagi Elifas. Itulah cucu-cucu Ada isteri Esau."
   },
   {Bible:"Genesis", Chapter:36, Verse:13, Page:1,
-    Kor:"르우엘이 낳은 아들은, 나핫과 세라와 삼마와 밋사이다. 이들은 에서의 아내 바스맛이 낳은 자손이다.",
+    Kor:"르우엘이 낳은 아들은, 나핫과 세라와 삼마와 미사이다. 이들은 에서의 아내 바스맛이 낳은 자손이다.",
     Chn:"流珥的儿子是拿哈、谢拉、沙玛、米撒。这是以扫妻子巴实抹的子孙。",
     Eng:"The sons of Reuel: Nahath, Zerah, Shammah and Mizzah. These were grandsons of Esau's wife  Basemath.",
     Ind:"Inilah anak-anak Rehuel: Nahat, Zerah, Syama dan Miza. Itulah cucu-cucu Basmat isteri Esau."
   },
   {Bible:"Genesis", Chapter:36, Verse:14, Page:1,
-    Kor:"에서의 아내 오홀리바마(시브온의 a딸 아나의 소생)가 낳은 아들은 여우스와 얄람과 고라이다.(a 사마리아 오경과 칠십인역과 시리아어역에는 '아들')",
+    Kor:"에서의 아내 오홀리바마(시브온의 딸 아나의 소생)가 낳은 아들은, 여우스와 얄람과 고라이다.",
     Chn:"以扫的妻子阿何利巴玛是祭便的孙女，亚拿的女儿；她给以扫生了耶乌施、雅兰、可拉。",
     Eng:"The sons of Esau's wife Oholibamah daughter of Anah and granddaughter of Zibeon, whom she  bore to Esau: Jeush, Jalam and Korah.",
     Ind:"Inilah anak-anak Oholibama, isteri Esau itu, anak Ana anak Zibeon; ia melahirkan bagi Esau: Yeush, Yaelam dan Korah."
   },
   {Bible:"Genesis", Chapter:36, Verse:15, Page:1,
-    Kor:"○에서에게서 나온 b종족들은 다음과 같다. 에서의 맏아들 엘리바스를 조상으로 하는 종족들은 데만과 오말과 스보와 그나스와(b 또는 '족장들' (15-43절에서도))",
+    Kor:"○에서에게서 나온 종족들은 다음과 같다. 에서의 맏아들 엘리바스를 조상으로 하는 종족들은, 데만과 오말과 스보와 그나스와",
     Chn:"以扫子孙中作族长的记在下面。以扫的长子以利法的子孙中，有提幔族长、阿抹族长、洗玻族长、基纳斯族长、",
     Eng:"These were the chiefs among Esau's descendants: The sons of Eliphaz the firstborn of Esau:  Chiefs Teman, Omar, Zepho, Kenaz,",
     Ind:"Inilah kepala-kepala kaum bani Esau: keturunan Elifas anak sulung Esau, ialah kepala kaum Teman, kepala kaum Omar, kepala kaum Zefo, kepala kaum Kenas,"
@@ -99,7 +99,7 @@ BibleDB.add([
     Ind:"kepala kaum Korah, kepala kaum Gaetam dan kepala kaum Amalek; itulah kepala-kepala kaum Elifas di tanah Edom; itulah keturunan Ada."
   },
   {Bible:"Genesis", Chapter:36, Verse:17, Page:1,
-    Kor:"에서의 아들 르우엘을 조상으로 하는 종족들은 나핫과 세라와 삼마와 밋사이다. 이들은 에돔 땅에 있는 르우엘 종족들이다. 이들은 에서의 아내 바스맛이 낳은 자손이다.",
+    Kor:"에서의 아들 르우엘을 조상으로 하는 종족들은, 나핫과 세라와 삼마와 미사이다. 이들은 에돔 땅에 있는 르우엘 종족들이다. 이들은 에서의 아내 바스맛이 낳은 자손이다.",
     Chn:"以扫的儿子流珥的子孙中，有拿哈族长、谢拉族长、沙玛族长、米撒族长。这是在以东地从流珥所出的族长，都是以扫妻子巴实抹的子孙。",
     Eng:"The sons of Esau's son Reuel: Chiefs Nahath, Zerah, Shammah and Mizzah. These were the  chiefs descended from Reuel in Edom; they were grandsons of Esau's wife Basemath.",
     Ind:"Inilah keturunan Rehuel anak Esau: kepala kaum Nahat, kepala kaum Zerah, kepala kaum Syama dan kepala kaum Miza; itulah kepala-kepala kaum Rehuel di tanah Edom; itulah keturunan Basmat isteri Esau."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Itulah bani Esau, yakni Edom, dan itulah kepala-kepala kaum mereka."
   },
   {Bible:"Genesis", Chapter:36, Verse:20, Page:1,
-    Kor:"<세일의 자손(대상 1:38-41)> ○에돔 땅의 원주민들도 종족별로 갈리는데, 각 종족의 조상들을 거슬러 올라가면, 호리 사람인 세일의 아들들에게로 가서 닿는다. 세일의 자손에게서 나온 종족들은 로단과 소발과 시브온과 아나와",
+    Kor:"○에돔 땅의 원주민들도 종족별로 갈리는데, 각 종족의 조상들을 거슬러 올라가면, 호리 사람인 세일의 아들들에게로 가서 닿는다. 세일의 자손에게서 나온 종족들은 로단과 소발과 시브온과 아나와",
     Chn:"那地原有的居民—何利人西珥的子孙记在下面：就是罗坍、朔巴、祭便、亚拿、",
     Eng:"These were the sons of Seir the Horite, who were living in the region: Lotan, Shobal,  Zibeon, Anah,",
     Ind:"Inilah anak-anak Seir, orang Hori, penduduk negeri itu: Lotan, Syobal, Zibeon, Ana,"
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Disyon, Ezer, Disyan; itulah kepala-kepala kaum orang Hori, anak-anak Seir, di tanah Edom."
   },
   {Bible:"Genesis", Chapter:36, Verse:22, Page:1,
-    Kor:"로단에게서 나온 종족은 호리와 헤맘과 딤나(로단의 누이)이다.",
+    Kor:"로단에게서 나온 종족은, 호리와 헤맘과 딤나(로단의 누이)이다.",
     Chn:"罗坍的儿子是何利、希幔；罗坍的妹子是亭纳。",
     Eng:"The sons of Lotan: Hori and Homam. Timna was Lotan's sister.",
     Ind:"Anak-anak Lotan ialah Hori dan Heman, dan saudara perempuan Lotan ialah Timna."
@@ -147,31 +147,31 @@ BibleDB.add([
     Ind:"Inilah anak-anak Zibeon: Aya dan Ana; Ana inilah yang menemui mata-mata air panas di padang gurun, ketika ia sedang menggembalakan keledai Zibeon ayahnya itu."
   },
   {Bible:"Genesis", Chapter:36, Verse:25, Page:1,
-    Kor:"아나의 자손은 디손과 오홀리바마(아나의 딸)이다.",
+    Kor:"아나의 자손은, 디손과 오홀리바마(아나의 딸)이다.",
     Chn:"亚拿的儿子是底顺；亚拿的女儿是阿何利巴玛。",
     Eng:"The children of Anah: Dishon and Oholibamah daughter of Anah.",
     Ind:"Inilah anak-anak Ana: Disyon dan Oholibama anak perempuan Ana."
   },
   {Bible:"Genesis", Chapter:36, Verse:26, Page:1,
-    Kor:"디손에게서 나온 종족은 헴단과 에스반과 이드란과 그란이다.",
+    Kor:"디손에게서 나온 종족은, 헴단과 에스반과 이드란과 그란이다.",
     Chn:"底顺的儿子是欣但、伊是班、益兰、基兰。",
     Eng:"The sons of Dishon: Hemdan, Eshban, Ithran and Keran.",
     Ind:"Inilah anak-anak Disyon: Hemdan, Esyban, Yitran dan Keran."
   },
   {Bible:"Genesis", Chapter:36, Verse:27, Page:1,
-    Kor:"에셀에게서 나온 종족은 빌한과 사아완과 아간이다.",
+    Kor:"에셀에게서 나온 종족은, 빌한과 사아완과 아간이다.",
     Chn:"以察的儿子是辟罕、撒番、亚干。",
     Eng:"The sons of Ezer: Bilhan, Zaavan and Akan.",
     Ind:"Inilah anak-anak Ezer: Bilhan, Zaawan dan Akan."
   },
   {Bible:"Genesis", Chapter:36, Verse:28, Page:1,
-    Kor:"디산에게서 나온 종족은 우스와 아란이다.",
+    Kor:"디산에게서 나온 종족은, 우스와 아란이다.",
     Chn:"底珊的儿子是乌斯、亚兰。",
     Eng:"The sons of Dishan: Uz and Aran.",
     Ind:"Inilah anak-anak Disyan: Us dan Aran."
   },
   {Bible:"Genesis", Chapter:36, Verse:29, Page:1,
-    Kor:"호리 종족의 조상들은 로단과 소발과 시브온과 아나와",
+    Kor:"호리 종족의 조상들은, 로단과 소발과 시브온과 아나와",
     Chn:"从何利人所出的族长记在下面：就是罗坍族长、朔巴族长、祭便族长、亚拿族长、",
     Eng:"These were the Horite chiefs: Lotan, Shobal, Zibeon, Anah,",
     Ind:"Itulah kepala-kepala kaum orang Hori: kepala kaum Lotan, kepala kaum Syobal, kepala kaum Zibeon, kepala kaum Ana,"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"kepala kaum Disyon, kepala kaum Ezer dan kepala kaum Disyan; itulah kepala-kepala kaum orang Hori, kaum demi kaum, di tanah Seir."
   },
   {Bible:"Genesis", Chapter:36, Verse:31, Page:1,
-    Kor:"<에돔의 왕들(대상 1:43-54)> ○이스라엘에 왕이 아직 없을 때에, 다음과 같은 왕들이 차례로 에돔 땅을 다스렸다.",
+    Kor:"○이스라엘에 왕이 아직 없을 때에, 다음과 같은 왕들이 차례로 에돔 땅을 다스렸다.",
     Chn:"以色列人未有君王治理以先，在以东地作王的记在下面。",
     Eng:"These were the kings who reigned in Edom before any Israelite king reigned:",
     Ind:"Inilah raja-raja yang memerintah di tanah Edom, sebelum ada seorang raja memerintah atas orang Israel."
@@ -207,7 +207,7 @@ BibleDB.add([
     Ind:"Setelah Yobab mati, Husyam, dari negeri orang Teman, menjadi raja menggantikan dia."
   },
   {Bible:"Genesis", Chapter:36, Verse:35, Page:1,
-    Kor:"후삼이 죽으니, 브닷의 아들 곧 모압 벌판에서 미디안 사람을 친 하닷이 그의 뒤를 이어서 왕이 되었다. 그의 도성의 이름은 아윗이다.",
+    Kor:"후삼이 죽으니, 브닷의 아들, 곧 모압 벌판에서 미디안 사람을 친 하닷이 그의 뒤를 이어서 왕이 되었다. 그의 도성의 이름은 아윗이다.",
     Chn:"户珊死了，比达的儿子哈达接续他作王；这哈达就是在摩押地杀败米甸人的，他的京城名叫亚未得。",
     Eng:"When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded  him as king. His city was named Avith.",
     Ind:"Setelah Husyam mati, Hadad bin Bedad menjadi raja menggantikan dia; dialah yang memukul kalah orang Midian di daerah Moab, dan kotanya bernama Awit."
@@ -231,7 +231,7 @@ BibleDB.add([
     Ind:"Setelah Saul mati, Baal-Hanan bin Akhbor menjadi raja menggantikan dia."
   },
   {Bible:"Genesis", Chapter:36, Verse:39, Page:1,
-    Kor:"악볼의 아들 바알하난이 죽으니, 그의 뒤를 이어서 c하닷이 왕이 되었다. 그의 도성의 이름은 바우이다. 그의 아내의 이름은 므헤다벨인데, 마드렛의 딸이며, 메사합의 손녀이다.(c 마소라 사본 가운데 일부와 사마리아 오경과 시리아어역(대상 1:50)을 따름. 대다수의 마소라 사본에는 '하달')",
+    Kor:"악볼의 아들 바알하난이 죽으니, 그의 뒤를 이어서 하닷이 왕이 되었다. 그의 도성의 이름은 바우이다. 그의 아내의 이름은 므헤다벨인데, 마드렛의 딸이며, 메사합의 손녀이다.",
     Chn:"亚革波的儿子巴勒·哈南死了，哈达接续他作王，他的京城名叫巴乌；他的妻子名叫米希她别，是米·萨合的孙女，玛特列的女儿。",
     Eng:"When Baal-Hanan son of Acbor died, Hadad succeeded him as king. His city was named Pau, and  his wife's name was Mehetabel daughter of Matred, the daughter of Me-Zahab.",
     Ind:"Setelah Baal-Hanan bin Akhbor mati, Hadar menjadi raja menggantikan dia; kotanya bernama Pahu dan isterinya bernama Mehetabeel binti Matred binti Mezahab."

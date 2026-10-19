@@ -3,7 +3,7 @@
 BibleDB.ref("Genesis",42,38);
 BibleDB.add([
   {Bible:"Genesis", Chapter:42, Verse:1, Page:1,
-    Kor:"<요셉의 형들이 이집트로 가다> 야곱은 이집트에 곡식이 있다는 말을 듣고서, 아들들에게 말하였다. \"얘들아, 왜 서로 얼굴들만 쳐다보고 있느냐?\"",
+    Kor:"야곱은 이집트에 곡식이 있다는 말을 듣고서, 아들들에게 말하였다. \"얘들아, 왜 서로 얼굴들만 쳐다보고 있느냐?\"",
     Chn:"雅各见埃及有粮，就对儿子们说：「你们为什么彼此观望呢？",
     Eng:"When Jacob learned that there was grain in Egypt, he said to his sons, \"Why do you just keep  looking at each other?\"",
     Ind:"Setelah Yakub mendapat kabar, bahwa ada gandum di Mesir, berkatalah ia kepada anak-anaknya: \"Mengapa kamu berpandang-pandangan saja?\""
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Sementara itu Yusuf telah menjadi mangkubumi di negeri itu; dialah yang menjual gandum kepada seluruh rakyat negeri itu. Jadi ketika saudara-saudara Yusuf datang, kepadanyalah mereka menghadap dan sujud dengan mukanya sampai ke tanah."
   },
   {Bible:"Genesis", Chapter:42, Verse:7, Page:1,
-    Kor:"요셉은 그들을 보자마자, 곧바로 그들이 형들임을 알았다. 그러나 짐짓 모르는 체하고, 그들에게 엄하게 물었다. \"당신들은 어디에서 왔소?\" 그들이 대답하였다. \"먹거리를 사려고, 가나안 땅에서 왔습니다.\"",
+    Kor:"요셉은 그들을 보자마자, 곧바로 그들이 형들임을 알았다. 그러나 짐짓 모르는 체하고, 그들에게 엄하게 물었다. \"너희는 어디에서 왔느냐?\" 그들이 대답하였다. \"먹을거리를 사려고, 가나안 땅에서 왔습니다.\"",
     Chn:"约瑟看见他哥哥们，就认得他们，却装作生人，向他们说些严厉话，问他们说：「你们从哪里来？」他们说：「我们从迦南地来籴粮。」",
     Eng:"As soon as Joseph saw his brothers, he recognized them, but he pretended to be a stranger  and spoke harshly to them. \"Where do you come from?\" he asked. \"From the land of Canaan,\" they  replied, \"to buy food.\"",
     Ind:"Ketika Yusuf melihat saudara-saudaranya, segeralah mereka dikenalnya, tetapi ia berlaku seolah-olah ia seorang asing kepada mereka; ia menegor mereka dengan membentak, katanya: \"Dari mana kamu?\" Jawab mereka: \"Dari tanah Kanaan untuk membeli bahan makanan.\""
@@ -51,25 +51,25 @@ BibleDB.add([
     Ind:"Memang Yusuf mengenal saudara-saudaranya itu, tetapi dia tidak dikenal mereka."
   },
   {Bible:"Genesis", Chapter:42, Verse:9, Page:1,
-    Kor:"그 때에 요셉은 형들을 두고 꾼 꿈을 기억하고, 그들에게 말하였다. \"당신들은 첩자들이오. 이 나라의 허술한 곳이 어디인지를 엿보러 온 것이 틀림없소!\"",
+    Kor:"그 때에 요셉은 형들을 두고 꾼 꿈을 기억하고, 그들에게 말하였다. \"너희는 간첩이다. 이 나라의 허술한 곳이 어디인지를 엿보러 온 것이 틀림없다!\"",
     Chn:"约瑟想起从前所做的那两个梦，就对他们说：「你们是奸细，来窥探这地的虚实。」",
     Eng:"Then he remembered his dreams about them and said to them, \"You are spies! You have come to  see where our land is unprotected.\"",
     Ind:"Lalu teringatlah Yusuf akan mimpi-mimpinya tentang mereka. Berkatalah ia kepada mereka: \"Kamu ini pengintai, kamu datang untuk melihat-lihat di mana negeri ini tidak dijaga.\""
   },
   {Bible:"Genesis", Chapter:42, Verse:10, Page:1,
-    Kor:"그들이 대답하였다. \"아닙니다. 총리 어른, 소인들은 그저 먹거리를 사러 왔을 뿐입니다.",
+    Kor:"그들이 대답하였다. \"아닙니다. 총리 어른, 소인들은 그저 먹을거리를 사러 왔을 뿐입니다.",
     Chn:"他们对他说：「我主啊，不是的。仆人们是籴粮来的。",
     Eng:"\"No, my lord,\" they answered. \"Your servants have come to buy food.",
     Ind:"Tetapi jawab mereka: \"Tidak tuanku! Hanyalah untuk membeli bahan makanan hamba-hambamu ini datang."
   },
   {Bible:"Genesis", Chapter:42, Verse:11, Page:1,
-    Kor:"우리는 한 아버지의 자식들입니다. 소인들은 순진한 백성이며, 첩자가 아닙니다.\"",
+    Kor:"우리는 한 아버지의 자식들입니다. 소인들은 순진한 백성이며, 간첩이 아닙니다.\"",
     Chn:"我们都是一个人的儿子，是诚实人；仆人们并不是奸细。」",
     Eng:"We are all the sons of one man. Your servants are honest men, not spies.\"",
     Ind:"Kami ini sekalian anak dari satu ayah; kami ini orang jujur; hamba-hambamu ini bukanlah pengintai.\""
   },
   {Bible:"Genesis", Chapter:42, Verse:12, Page:1,
-    Kor:"그가 말하였다. \"아니오! 당신들은 이 나라의 허술한 곳이 어디인지를 엿보러 왔소.\"",
+    Kor:"그가 말하였다. \"아니다! 너희는 이 나라의 허술한 곳이 어디인지를 엿보러 왔다.\"",
     Chn:"约瑟说：「不然，你们必是窥探这地的虚实来的。」",
     Eng:"\"No!\" he said to them. \"You have come to see where our land is unprotected.\"",
     Ind:"Tetapi ia berkata kepada mereka: \"Tidak! Kamu datang untuk melihat-lihat di mana negeri ini tidak dijaga.\""
@@ -81,19 +81,19 @@ BibleDB.add([
     Ind:"Lalu jawab mereka: \"Hamba-hambamu ini dua belas orang, kami bersaudara, anak dari satu ayah di tanah Kanaan, tetapi yang bungsu sekarang ada pada ayah kami, dan seorang sudah tidak ada lagi.\""
   },
   {Bible:"Genesis", Chapter:42, Verse:14, Page:1,
-    Kor:"요셉이 그들에게 말하였다. \"내 말이 틀림없소. 당신들은 첩자들이오.",
+    Kor:"요셉이 그들에게 말하였다. \"내 말이 틀림없다. 너희는 간첩이다.",
     Chn:"约瑟说：「我才说你们是奸细，这话实在不错。",
     Eng:"Joseph said to them, \"It is just as I told you: You are spies!",
     Ind:"Lalu kata Yusuf kepada mereka: \"Sudahlah! Seperti telah kukatakan kepadamu tadi: kamu ini pengintai."
   },
   {Bible:"Genesis", Chapter:42, Verse:15, Page:1,
-    Kor:"그러나 당신들이 진실을 증명할 길은 있소. 바로께서 살아 계심을 두고 맹세하오. 당신들이 막내 아우를 이리로 데려오지 않으면, 당신들은 여기에서 한 발자국도 벗어나지 못하오.",
+    Kor:"그러나 너희가 진실을 증명할 길은 있다. 바로께서 살아 계심을 두고 맹세한다. 너희가 막내 아우를 이리로 데려오지 않으면, 너희는 여기에서 한 발자국도 벗어나지 못한다.",
     Chn:"我指着法老的性命起誓，若是你们的小兄弟不到这里来，你们就不得出这地方，从此就可以把你们证验出来了。",
     Eng:"And this is how you will be tested: As surely as Pharaoh lives, you will not leave this  place unless your youngest brother comes here.",
     Ind:"Dalam hal ini juga kamu harus diuji: demi hidup Firaun, kamu tidak akan pergi dari sini, jika saudaramu yang bungsu itu tidak datang ke mari."
   },
   {Bible:"Genesis", Chapter:42, Verse:16, Page:1,
-    Kor:"당신들 가운데서 한 사람을 보내어, 당신들 집에 남아 있는 아우를 이리로 데려오게 하고, 나머지는 감옥에 가두어 두겠소. 나는 이렇게 하여, 당신들이 한 말이 사실인지를 시험해 보겠소. 바로께서 살아 계심을 두고 맹세하오. 당신들이 그렇게 하지 못하면, 당신들은 첩자라는 누명을 벗지 못할 01 42:것이오.\"",
+    Kor:"너희 가운데서 한 사람을 보내어, 너희 집에 남아 있는 아우를 이리로 데려오게 하고, 나머지는 감옥에 가두어 두겠다. 나는 이렇게 하여, 너희가 한 말이 사실인지를 시험해 보겠다. 바로께서 살아 계심을 두고 맹세한다. 너희가 그렇게 하지 못하면, 너희는 간첩이라는 누명을 벗지 못할 것이다.\"",
     Chn:"须要打发你们中间一个人去，把你们的兄弟带来。至于你们，都要囚在这里，好证验你们的话真不真，若不真，我指着法老的性命起誓，你们一定是奸细。」",
     Eng:"Send one of your number to get your brother; the rest of you will be kept in prison, so  that your words may be tested to see if you are telling the truth. If you are not, then as surely  as Pharaoh lives, you are spies!\"",
     Ind:"Suruhlah seorang dari padamu untuk menjemput adikmu itu, tetapi kamu ini harus tinggal terkurung di sini. Dengan demikian perkataanmu dapat diuji, apakah benar, dan jika tidak, demi hidup Firaun, sungguh-sungguhlah kamu ini pengintai.\""
@@ -105,19 +105,19 @@ BibleDB.add([
     Ind:"Dan dimasukkannyalah mereka bersama-sama ke dalam tahanan tiga hari lamanya."
   },
   {Bible:"Genesis", Chapter:42, Verse:18, Page:1,
-    Kor:"○사흘 만에 요셉이 그들에게 말하였다. \"나는 하나님을 두려워하오. 당신들은 이렇게 하시오. 그래야 살 수 있소.",
+    Kor:"○사흘 만에 요셉이 그들에게 말하였다. \"나는 하나님을 두려워한다. 너희는 이렇게 하여라. 그래야 살 수 있다.",
     Chn:"到第三天，约瑟对他们说：「我是敬畏　神的；你们照我的话行就可以存活。",
     Eng:"On the third day, Joseph said to them, \"Do this and you will live, for I fear God:",
     Ind:"Pada hari yang ketiga berkatalah Yusuf kepada mereka: \"Buatlah begini, maka kamu akan tetap hidup, aku takut akan Allah."
   },
   {Bible:"Genesis", Chapter:42, Verse:19, Page:1,
-    Kor:"당신들이 정직한 사람이면, 당신들 형제 가운데서 한 사람만 여기에 갇혀 있고, 나머지는 나가서, 곡식을 가지고 돌아가서, 집안 식구들이 허기를 면하도록 하시오.",
+    Kor:"너희가 정직한 사람이면, 너희 형제 가운데서 한 사람만 여기에 갇혀 있고, 나머지는 나가서, 곡식을 가지고 돌아가서, 집안 식구들이 허기를 면하도록 하여라.",
     Chn:"你们如果是诚实人，可以留你们中间的一个人囚在监里，但你们可以带着粮食回去，救你们家里的饥荒。",
     Eng:"If you are honest men, let one of your brothers stay here in prison, while the rest of you  go and take grain back for your starving households.",
     Ind:"Jika kamu orang jujur, biarkanlah dari kamu bersaudara tinggal seorang terkurung dalam rumah tahanan, tetapi pergilah kamu, bawalah gandum untuk meredakan lapar seisi rumahmu."
   },
   {Bible:"Genesis", Chapter:42, Verse:20, Page:1,
-    Kor:"그러나 당신들은 반드시 막내 아우를 나에게로 데리고 와야 하오. 그래야만 당신들의 말이 사실이라는 것을 증명할 수 있을 것이며, 당신들이 죽음을 면할 것이오.\" 그들은 그렇게 하기로 하였다.",
+    Kor:"그러나 너희는 반드시 막내 아우를 나에게로 데리고 와야 한다. 그래야만 너희의 말이 사실이라는 것을 증명할 수 있을 것이며, 너희가 죽음을 면할 것이다.\" 그들은 그렇게 하기로 하였다.",
     Chn:"把你们的小兄弟带到我这里来，如此，你们的话便有证据，你们也不至于死。」他们就照样而行。",
     Eng:"But you must bring your youngest brother to me, so that your words may be verified and that  you may not die.\" This they proceeded to do.",
     Ind:"Tetapi saudaramu yang bungsu itu haruslah kamu bawa kepadaku, supaya perkataanmu itu ternyata benar dan kamu jangan mati.\" Demikianlah diperbuat mereka."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Sesudah itu Yusuf memerintahkan, bahwa tempat gandum mereka akan diisi dengan gandum dan bahwa uang mereka masing-masing akan dikembalikan ke dalam karungnya, serta bekal mereka di jalan akan diberikan kepada mereka. Demikianlah dilakukan orang kepada mereka itu."
   },
   {Bible:"Genesis", Chapter:42, Verse:26, Page:1,
-    Kor:"<요셉의 형들이 가나안으로 돌아가다> ○그들은 곡식을 나귀에 싣고, 거기를 떠났다.",
+    Kor:"○그들은 곡식을 나귀에 싣고, 거기를 떠났다.",
     Chn:"他们就把粮食驮在驴上，离开那里去了。",
     Eng:"they loaded their grain on their donkeys and left.",
     Ind:"Sesudah itu merekapun memuat gandum itu ke atas keledai mereka, lalu berangkat dari situ."
@@ -171,19 +171,19 @@ BibleDB.add([
     Ind:"Katanya kepada saudara-saudaranya: \"Uangku dikembalikan; lihat, ada dalam karungku!\" Lalu hati mereka menjadi tawar dan mereka berpandang-pandangan dengan gemetar serta berkata: \"Apakah juga yang diperbuat Allah terhadap kita!\""
   },
   {Bible:"Genesis", Chapter:42, Verse:29, Page:1,
-    Kor:"○그들은 가나안 땅으로 아버지 야곱에게 돌아가서, 그 동안 겪은 일을 자세히 말씀드렸다.",
+    Kor:"○그들은 가나안 땅으로, 아버지 야곱에게 돌아가서, 그 동안 겪은 일을 자세히 말씀드렸다.",
     Chn:"他们来到迦南地、他们的父亲雅各那里，将所遭遇的事都告诉他，说：",
     Eng:"When they came to their father Jacob in the land of Canaan, they told him all that had  happened to them. They said,",
     Ind:"Ketika mereka sampai kepada Yakub, ayah mereka, di tanah Kanaan, mereka menceritakan segala sesuatu yang dialaminya, katanya:"
   },
   {Bible:"Genesis", Chapter:42, Verse:30, Page:1,
-    Kor:"\"그 나라의 높으신 분이 우리를 보더니, 엄하게 꾸짖고, 우리를 그 나라를 엿보러 간 첩자로 여기는 것입니다.",
+    Kor:"\"그 나라의 높으신 분이 우리를 보더니, 엄하게 꾸짖고, 우리를 그 나라를 엿보러 간 간첩으로 여기는 것입니다.",
     Chn:"「那地的主对我们说严厉的话，把我们当作窥探那地的奸细。",
     Eng:"\"The man who is lord over the land spoke harshly to us and treated us as though we were  spying on the land.",
     Ind:"\"Orang itu, yakni yang menjadi tuan atas negeri itu, telah menegor kami dengan membentak dan memperlakukan kami sebagai pengintai negeri itu."
   },
   {Bible:"Genesis", Chapter:42, Verse:31, Page:1,
-    Kor:"그래서 우리는 그에게 '우리는 정직한 사람입니다. 우리는 첩자가 아닙니다.",
+    Kor:"그래서 우리는 그에게 '우리는 정직한 사람입니다. 우리는 간첩이 아닙니다.",
     Chn:"我们对他说：『我们是诚实人，并不是奸细。",
     Eng:"But we said to him, 'We are honest men; we are not spies.",
     Ind:"Tetapi kata kami kepadanya: Kami orang jujur, kami bukan pengintai."
@@ -201,13 +201,13 @@ BibleDB.add([
     Ind:"Lalu kata orang itu, yakni yang menjadi tuan atas negeri itu, kepada kami: Dari hal ini aku akan tahu, apakah kamu orang jujur: dari kamu bersaudara haruslah kamu tinggalkan seorang padaku; kemudian bawalah gandum untuk meredakan lapar seisi rumahmu dan pergilah;"
   },
   {Bible:"Genesis", Chapter:42, Verse:34, Page:1,
-    Kor:"그리고 너희의 막내 아우를 나에게로 데리고 오너라. 그래야만 너희가 첩자가 아니고 정직한 사람이라는 것을 내가 알 수 있겠다. 그런 다음에야, 내가 여기 잡아둔 너희 형제를 풀어 주고, 너희가 이 나라에 드나들면서 장사를 할 수 있게 하겠다' 하였습니다.\"",
+    Kor:"그리고 너희의 막내 아우를 나에게로 데리고 오너라. 그래야만 너희가 간첩이 아니고 정직한 사람이라는 것을 내가 알 수 있겠다. 그런 다음에야, 내가 여기 잡아둔 너희 형제를 풀어 주고, 너희가 이 나라에 드나들면서 장사를 할 수 있게 하겠다' 하였습니다.\"",
     Chn:"把你们的小兄弟带到我这里来，我便知道你们不是奸细，乃是诚实人。这样，我就把你们的弟兄交给你们，你们也可以在这地做买卖。』」",
     Eng:"But bring your youngest brother to me so I will know that you are not spies but honest men.  Then I will give your brother back to you, and you can trade in the land.'\"",
     Ind:"lalu bawalah kepadaku saudaramu yang bungsu itu, maka aku akan tahu, bahwa kamu bukan pengintai, tetapi orang jujur; dan aku akan mengembalikan saudaramu itu kepadamu, dan bolehlah kamu menjalani negeri ini dengan bebas.\""
   },
   {Bible:"Genesis", Chapter:42, Verse:35, Page:1,
-    Kor:"○그들은 자루를 비우다가, 각 사람의 자루에 각자가 치른 그 돈꾸러미가 그대로 들어 있는 것을 보았다. 그들과 그들의 아버지는 그 돈꾸러미를 보고서, 모두들 겁이 났다.",
+    Kor:"○그들은 자루를 비우다가, 각 사람의 자루에 각자가 치른 그 돈뭉치가 그대로 들어 있는 것을 보았다. 그들과 그들의 아버지는 그 돈뭉치를 보고서, 모두들 겁이 났다.",
     Chn:"后来他们倒口袋，不料，各人的银包都在口袋里；他们和父亲看见银包就都害怕。",
     Eng:"As they were emptying their sacks, there in each man's sack was his pouch of silver! When  they and their father saw the money pouches, they were frightened.",
     Ind:"Ketika mereka mengosongkan karungnya, tampaklah ada pundi-pundi uang masing-masing dalam karungnya; dan ketika mereka beserta ayah mereka melihat pundi-pundi uang itu, ketakutanlah mereka."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Lalu berkatalah Ruben kepada ayahnya: \"Kedua anakku laki-laki boleh engkau bunuh, jika ia tidak kubawa kepadamu; serahkanlah dia ke dalam tanganku, maka dia akan kubawa kembali kepadamu.\""
   },
   {Bible:"Genesis", Chapter:42, Verse:38, Page:1,
-    Kor:"야곱이 말하였다. \"막내를 너희와 함께 그리로 보낼 수는 없다. 그 아이의 형은 죽고, 그 아이만 홀로 남았는데, 그 아이가 너희와 같이 갔다가, 또 무슨 변을 당하기라도 하면 어찌 하겠느냐? 너희는, 백발이 성성한 이 늙은 아버지가 슬퍼하며 죽어서 스올로 내려가는 꼴을 보겠다는 거냐?\"",
+    Kor:"야곱이 말하였다. \"막내를 너희와 함께 그리로 보낼 수는 없다. 그의 형은 죽고, 그 아이만 홀로 남았는데, 그 아이가 너희와 같이 갔다가, 또 무슨 변을 당하기라도 하면 어찌 하겠느냐? 너희는, 백발이 성성한 이 늙은 아버지가, 슬퍼하며 죽어서, 스올로 내려가는 꼴을 보겠다는 거냐?\"",
     Chn:"雅各说：「我的儿子不可与你们一同下去；他哥哥死了，只剩下他，他若在你们所行的路上遭害，那便是你们使我白发苍苍、悲悲惨惨地下阴间去了。」",
     Eng:"But Jacob said, \"My son will not go down there with you; his brother is dead and he is the  only one left. If harm comes to him on the journey you are taking, you will bring my gray head  down to the grave in sorrow.\"",
     Ind:"Tetapi jawabnya: \"Anakku itu tidak akan pergi ke sana bersama-sama dengan kamu, sebab kakaknya telah mati dan hanya dialah yang tinggal; jika dia ditimpa kecelakaan di jalan yang akan kamu tempuh, maka tentulah kamu akan menyebabkan aku yang ubanan ini turun ke dunia orang mati karena dukacita.\""

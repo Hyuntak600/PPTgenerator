@@ -3,13 +3,13 @@
 BibleDB.ref("Ezekiel",42,20);
 BibleDB.add([
   {Bible:"Ezekiel", Chapter:42, Verse:1, Page:1,
-    Kor:"<제사장 방> 그 사람이 나를 데리고 북쪽으로 길이 난 바깥 뜰로 나가서, 두 방으로 나를 데리고 들어갔는데, 방 하나는 성전 뜰을 마주하고 있고, 또 하나는 북쪽 건물을 마주하고 있었다.",
+    Kor:"그 사람이 나를 데리고 북쪽으로 길이 난 바깥 뜰로 나가서, 두 방으로 나를 데리고 들어갔는데, 방 하나는 성전 뜰을 보고 있고, 또 하나는 북쪽 건물을 보고 있었다.",
     Chn:"他带我出来向北，到外院，又带我进入圣屋；这圣屋一排顺着空地，一排与北边铺石地之屋相对。",
     Eng:"Then the man led me northward into the outer court and brought me to the rooms opposite the temple courtyard and opposite the outer wall on the north side.",
     Ind:"Lalu diiringnya aku ke pelataran luar bagian utara dan dibawanya aku ke bilik-bilik sebelah utara yang berhadapan dengan lapangan tertutup dan berhadapan dengan bangunan yang di ujung barat."
   },
   {Bible:"Ezekiel", Chapter:42, Verse:2, Page:1,
-    Kor:"북쪽을 마주한 그 방을 재니, 길이가 백 자이고, 너비가 쉰 자였다.",
+    Kor:"북쪽을 향한 그 방을 재니, 길이가 백 자이고, 너비가 쉰 자였다.",
     Chn:"这圣屋长一百肘，宽五十肘，有向北的门。",
     Eng:"The building whose door faced north was a hundred cubits long and fifty cubits wide.",
     Ind:"Panjang bangunan bilik-bilik itu di sebelah utara ialah seratus hasta dan lebarnya lima puluh hasta."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Berhadapan dengan yang dua puluh hasta dari pelataran dalam dan berhadapan dengan lantai batu yang terdapat di pelataran luar ada serambi yang berhadap-hadapan dan yang bertingkat tiga."
   },
   {Bible:"Ezekiel", Chapter:42, Verse:4, Page:1,
-    Kor:"또 그 방들 앞에는, 내부와 연결된 통로가 있었는데, 그 너비가 열 자요, 그 길이가 a백 자였다. 그 문들은 북쪽으로 나 있었다.(a 칠십인역과 시리아어역을 따름. 히, '한 자였다')",
+    Kor:"또 그 방들 앞에는, 내부와 연결된 통로가 있었는데, 그 너비가 열 자요, 그 길이가 백 자였다. 그 문들은 북쪽으로 나 있었다.",
     Chn:"在圣屋前有一条夹道，宽十肘，长一百肘。房门都向北。",
     Eng:"In front of the rooms was an inner passageway ten cubits wide and a hundred cubits long. Their doors were on the north.",
     Ind:"Di depan bilik-bilik itu ada gang menuju ke dalam yang lebarnya sepuluh hasta dan panjangnya seratus hasta dan pintu-pintu masuknya adalah di sebelah utara."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Di luar ada tembok yang sejajar dengan barisan bilik-bilik, berdekatan dengan pelataran luar dan terdapat di hadapan bilik-bilik; panjangnya lima puluh hasta."
   },
   {Bible:"Ezekiel", Chapter:42, Verse:8, Page:1,
-    Kor:"바깥 뜰을 마주하고 있는 방들의 길이는 쉰 자였고, 성전을 마주하고 있는 방들의 길이는 백 자였다.",
+    Kor:"바깥 뜰을 보고 있는 방들의 길이는 쉰 자였고, 성전을 보고 있는 방들의 길이는 백 자였다.",
     Chn:"靠着外院的圣屋长五十肘。殿北面的圣屋长一百肘。",
     Eng:"While the row of rooms on the side next to the outer court was fifty cubits long, the row on the side nearest the sanctuary was a hundred cubits long.",
     Ind:"Sebab barisan bilik yang berbatasan dengan pelataran luar panjangnya adalah lima puluh hasta, tetapi barisan bilik yang berbatasan dengan Bait Suci panjangnya seratus hasta."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Di bagian bawah bilik-bilik ini terdapat pintu masuk dari jurusan timur, kalau orang dari pelataran luar ingin masuk ke dalamnya,"
   },
   {Bible:"Ezekiel", Chapter:42, Verse:10, Page:1,
-    Kor:"뜰을 둘러 싼 벽이 바깥 뜰에서 시작되었다. 건물 앞 빈 터 b남쪽으로도 방들이 있었다.(b 칠십인역을 따름. 히, '동쪽으로도')",
+    Kor:"뜰을 둘러 싼 벽이 바깥 뜰에서 시작되었다. 건물 앞 공터 남쪽으로도 방들이 있었다.",
     Chn:"向南在内院墙里有圣屋，一排与铺石地之屋相对，一排顺着空地。",
     Eng:"On the south side along the length of the wall of the outer court, adjoining the temple courtyard and opposite the outer wall, were rooms",
     Ind:"dan pintu itu terdapat pada pangkal tembok luar. Di sebelah selatan di hadapan lapangan tertutup itu dan di hadapan bangunan yang di ujung barat ada juga bilik-bilik"
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"begitulah pintu-pintu masuk bilik-bilik yang di sebelah selatan. Ada juga pintu pada pangkal jalan yang melintang di sisi tembok, yaitu pintu dari jurusan timur, kalau orang ingin masuk ke dalam bilik-bilik."
   },
   {Bible:"Ezekiel", Chapter:42, Verse:13, Page:1,
-    Kor:"○그 사람이 나에게 일러주었다. ○\"빈 터 맞은쪽에 있는 북쪽 방들과 남쪽 방들은 거룩한 방들로서, 주께 가까이 나아가는 제사장이 가장 거룩한 제물을 먹는 방이다. 그 방들은 거룩하기 때문에, 제사장은 가장 거룩한 제물과, 제물로 바친 모든 음식과, 속죄제물과, 속건제의 제물을, 모두 그 방에 두어야 한다.",
+    Kor:"○그 사람이 나에게 일러주었다. \"빈 터 맞은쪽에 있는 북쪽 방들과 남쪽 방들은 거룩한 방들로서, 주께 가까이 나아가는 제사장이 가장 거룩한 제물을 먹는 곳이다. 그 방들은 거룩하기 때문에, 제사장은 가장 거룩한 제물과, 제물로 바친 모든 음식과, 속죄제물과, 속건제의 제물을, 모두 그 곳에 두어야 한다.",
     Chn:"他对我说：「顺着空地的南屋北屋，都是圣屋；亲近耶和华的祭司当在那里吃至圣的物，也当在那里放至圣的物，就是素祭、赎罪祭，和赎愆祭，因此处为圣。",
     Eng:"Then he said to me, \"The north and south rooms facing the temple courtyard are the priests' rooms, where the priests who approach the LORD will eat the most holy offerings. There they will put the most holy offerings--the grain offerings, the sin offerings and the guilt offerings--for the place is holy.",
     Ind:"Lalu ia berkata kepadaku: \"Bilik-bilik yang di utara dan bilik-bilik yang di selatan yang menghadap ke lapangan tertutup, itulah bilik-bilik kudus, di mana imam-imam, yang mendekat kepada TUHAN, memakan persembahan-persembahan maha kudus. Di sana mereka akan menaruh persembahan-persembahan maha kudus, korban sajian, korban penghapus dosa dan korban penebus salah, sebab tempat itu kudus."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Kalau para imam masuk ke tempat kudus, mereka tidak akan keluar ke pelataran luar, sebelum mereka menanggalkan pakaian mereka di sana, yang dipakainya waktu menyelenggarakan kebaktian, sebab pakaian-pakaian itu adalah kudus. Mereka harus memakai pakaian yang lain, barulah mereka boleh datang ke tempat umat TUHAN.\""
   },
   {Bible:"Ezekiel", Chapter:42, Verse:15, Page:1,
-    Kor:"<성전의 사면 담을 측량하다> ○그 사람이 성전의 내부 측량을 마친 다음에, 나를 데리고 바깥 동쪽 문으로 나와서, 사면의 담을 측량하였다.",
+    Kor:"○그 사람이 성전의 내부 측량을 마친 다음에, 나를 데리고 바깥 동쪽 문으로 나와서, 사면의 담을 측량하였다.",
     Chn:"他量完了内殿，就带我出朝东的门，量院的四围。",
     Eng:"When he had finished measuring what was inside the temple area, he led me out by the east gate and measured the area all around:",
     Ind:"Sesudah ia selesai dengan mengukur seluruh bangunan dalam itu, ia mengiring aku menuju pintu gerbang yang menghadap ke sebelah timur, lalu mengukur sekeliling lingkungan Bait Suci itu."
   },
   {Bible:"Ezekiel", Chapter:42, Verse:16, Page:1,
-    Kor:"그가 장대로 동쪽 담을 재니, 그 장대로 재어서 오백 c자였다.(c 칠십인역을 따름. 히, '장대')",
+    Kor:"그가 장대로 동쪽 담을 재니, 그 장대로 재어서 오백 자였다.",
     Chn:"他用量度的竿量四围，量东面五百肘，",
     Eng:"He measured the east side with the measuring rod; it was five hundred cubits.",
     Ind:"Ia mengukur sisi timur dengan tongkat pengukur: lima ratus hasta menurut tongkat pengukur. Lalu ia berputar"

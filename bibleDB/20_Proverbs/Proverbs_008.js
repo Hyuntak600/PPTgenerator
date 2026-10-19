@@ -3,7 +3,7 @@
 BibleDB.ref("Proverbs",8,36);
 BibleDB.add([
   {Bible:"Proverbs", Chapter:8, Verse:1, Page:1,
-    Kor:"<지혜 찬양> 지혜가 부르고 있지 않느냐? 명철이 소리를 높이고 있지 않느냐?",
+    Kor:"지혜가 부르고 있지 않느냐? 명철이 소리를 높이고 있지 않느냐?",
     Chn:"智慧岂不呼叫？ 聪明岂不发声？",
     Eng:"Does not wisdom call out? Does not understanding raise her voice?",
     Ind:"Bukankah hikmat berseru-seru, dan kepandaian memperdengarkan suaranya?"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"\"Hai para pria, kepadamulah aku berseru, kepada anak-anak manusia kutujukan suaraku."
   },
   {Bible:"Proverbs", Chapter:8, Verse:5, Page:1,
-    Kor:"a어수룩한 사람들아, 너희는 명철을 배워라. 미련한 사람들아, 너희는 지혜를 배워라. (a '어수룩한 사람'으로 번역된 히브리어 '프타임'은 도덕적 방향감각이 없어서 악으로 기울어질 수 있는 단순한 사람을 일컬음(22, 32절 참조))",
+    Kor:"어수룩한 사람들아, 너희는 명철을 배워라. 미련한 사람들아, 너희는 지혜를 배워라.",
     Chn:"说：愚蒙人哪，你们要会悟灵明； 愚昧人哪，你们当心里明白。",
     Eng:"You who are simple, gain prudence; you who are foolish, gain understanding.",
     Ind:"Hai orang yang tak berpengalaman, tuntutlah kecerdasan, hai orang bebal, mengertilah dalam hatimu."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Terimalah didikanku, lebih dari pada perak, dan pengetahuan lebih dari pada emas pilihan."
   },
   {Bible:"Proverbs", Chapter:8, Verse:11, Page:1,
-    Kor:"참으로 지혜는 진주보다 좋으며, 네가 갖고 싶어하는 그 어떤 것도 이것과 비교할 수 없다.\"",
+    Kor:"참으로 지혜는 진주보다 좋으며, 네가 갖고 싶어하는 그 어떤 것도 이것과 비교할 수 없다.",
     Chn:"因为智慧比珍珠更美； 一切可喜爱的都不足与比较。",
     Eng:"for wisdom is more precious than rubies, and nothing you desire can compare with her.",
     Ind:"Karena hikmat lebih berharga dari pada permata, apapun yang diinginkan orang, tidak dapat menyamainya."
   },
   {Bible:"Proverbs", Chapter:8, Verse:12, Page:1,
-    Kor:"<지혜가 하는 말> \"나 지혜는 명철로 주소를 삼으며, 지식과 분별력을 가지고 있다.",
+    Kor:"나 지혜는 명철로 주소를 삼으며, 지식과 분별력을 가지고 있다.",
     Chn:"我—智慧以灵明为居所， 又寻得知识和谋略。",
     Eng:"\"I, wisdom, dwell together with prudence; I possess knowledge and discretion.",
     Ind:"Aku, hikmat, tinggal bersama-sama dengan kecerdasan, dan aku mendapat pengetahuan dan kebijaksanaan."
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Karena aku para pembesar berkuasa juga para bangsawan dan semua hakim di bumi."
   },
   {Bible:"Proverbs", Chapter:8, Verse:17, Page:1,
-    Kor:"나는, 나를 사랑하는 사람을 사랑하며, 나를 간절히 찾는 사람을 만나 준다.",
+    Kor:"나는, 나를 사랑하는 사람을 사랑하여 주며, 나를 간절히 찾는 사람을 만나 준다.",
     Chn:"爱我的，我也爱他； 恳切寻求我的，必寻得见。",
     Eng:"I love those who love me, and those who seek me find me.",
     Ind:"Aku mengasihi orang yang mengasihi aku, dan orang yang tekun mencari aku akan mendapatkan daku."
   },
   {Bible:"Proverbs", Chapter:8, Verse:18, Page:1,
-    Kor:"부귀와 영화도 내게 있으며, 든든한 재물과 의도 내게 있다.",
+    Kor:"부귀와 영화도 내게 있으며, 든든한 재물과 정의도 내게 있다.",
     Chn:"丰富尊荣在我； 恒久的财并公义也在我。",
     Eng:"With me are riches and honor, enduring wealth and prosperity.",
     Ind:"Kekayaan dan kehormatan ada padaku, juga harta yang tetap dan keadilan."
@@ -129,13 +129,13 @@ BibleDB.add([
     Ind:"supaya kuwariskan harta kepada yang mengasihi aku, dan kuisi penuh perbendaharaan mereka."
   },
   {Bible:"Proverbs", Chapter:8, Verse:22, Page:1,
-    Kor:"주님께서 일을 시작하시던 그 태초에, 주님께서 모든 것을 지으시기 전에, 이미 주님께서는 b나를 데리고 계셨다. (b 히, '카나니'. 아퀼라역과 심마쿠스역에는 '나를 소유하고 계셨다'. 칠십인역과 시리아어역과 타르굼에는 '나를 낳으셨다'. '나를 창조하셨다')",
+    Kor:"주께서 일을 시작하시던 그 태초에, 주께서 모든 것을 지으시기 전에, 이미 주께서는 나를 데리고 계셨다.",
     Chn:"在耶和华造化的起头， 在太初创造万物之先，就有了我。",
     Eng:"\"The LORD brought me forth as the first of his works, before his deeds of old;",
     Ind:"TUHAN telah menciptakan aku sebagai permulaan pekerjaan-Nya, sebagai perbuatan-Nya yang pertama-tama dahulu kala."
   },
   {Bible:"Proverbs", Chapter:8, Verse:23, Page:1,
-    Kor:"영원 전, 아득한 그 옛날, 땅도 생기기 전에, 나는 이미 c세움을 받았다. (c 또는 '형성되다' 또는 '만들어지다')",
+    Kor:"영원 전, 아득한 그 옛날, 땅도 생기기 전에, 나는 이미 세움을 받았다.",
     Chn:"从亘古，从太初， 未有世界以前，我已被立。",
     Eng:"I was appointed from eternity, from the beginning, before the world began.",
     Ind:"Sudah pada zaman purbakala aku dibentuk, pada mula pertama, sebelum bumi ada."
@@ -153,19 +153,19 @@ BibleDB.add([
     Ind:"Sebelum gunung-gunung tertanam dan lebih dahulu dari pada bukit-bukit aku telah lahir;"
   },
   {Bible:"Proverbs", Chapter:8, Verse:26, Page:1,
-    Kor:"주님께서 아직 땅도 들도 만들지 않으시고, 세상의 첫 흙덩이도 만들지 않으신 때이다.",
+    Kor:"주께서 아직 땅도 들도 만들지 않으시고, 세상의 첫 흙덩이도 만들지 않으신 때이다.",
     Chn:"耶和华还没有创造大地和田野， 并世上的土质，我已生出。",
     Eng:"before he made the earth or its fields or any of the dust of the world.",
     Ind:"sebelum Ia membuat bumi dengan padang-padangnya atau debu dataran yang pertama."
   },
   {Bible:"Proverbs", Chapter:8, Verse:27, Page:1,
-    Kor:"주님께서 하늘을 제자리에 두시며, 깊은 바다 둘레에 경계선을 그으실 때에도, 내가 거기에 있었다.",
+    Kor:"주께서 하늘을 제자리에 두시며, 깊은 바다 둘레에 경계선을 그으실 때에도, 내가 거기에 있었다.",
     Chn:"他立高天，我在那里； 他在渊面的周围，划出圆圈。",
     Eng:"I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,",
     Ind:"Ketika Ia mempersiapkan langit, aku di sana, ketika Ia menggaris kaki langit pada permukaan air samudera raya,"
   },
   {Bible:"Proverbs", Chapter:8, Verse:28, Page:1,
-    Kor:"주님께서 구름 떠도는 창공을 저 위 높이 달아매시고, 깊은 샘물을 솟구치게 하셨을 때에,",
+    Kor:"주께서 구름 떠도는 궁창을 저 위 높이 달아매시고, 깊은 샘물을 솟구치게 하셨을 때에,",
     Chn:"上使穹苍坚硬， 下使渊源稳固，",
     Eng:"when he established the clouds above and fixed securely the fountains of the deep,",
     Ind:"ketika Ia menetapkan awan-awan di atas, dan mata air samudera raya meluap dengan deras,"
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"aku ada serta-Nya sebagai anak kesayangan, setiap hari aku menjadi kesenangan-Nya, dan senantiasa bermain-main di hadapan-Nya;"
   },
   {Bible:"Proverbs", Chapter:8, Verse:31, Page:1,
-    Kor:"그분이 지으신 땅을 즐거워하며, 그분이 지으신 사람들을 내 기쁨으로 삼았다.",
+    Kor:"그분이 지으신 땅을 즐거워하며, 그분이 지으신 사람들을 내 기쁨으로 삼았다.\"",
     Chn:"踊跃在他为人预备可住之地， 也喜悦住在世人之间。",
     Eng:"rejoicing in his whole world and delighting in mankind.",
     Ind:"aku bermain-main di atas muka bumi-Nya dan anak-anak manusia menjadi kesenanganku."
@@ -207,13 +207,13 @@ BibleDB.add([
     Ind:"Berbahagialah orang yang mendengarkan daku, yang setiap hari menunggu pada pintuku, yang menjaga tiang pintu gerbangku."
   },
   {Bible:"Proverbs", Chapter:8, Verse:35, Page:1,
-    Kor:"나를 얻는 사람은 생명을 얻고, 주님께로부터 은총을 받을 것이다.",
+    Kor:"나를 얻는 사람은 생명을 얻고, 주께로부터 은총을 받을 것이다.",
     Chn:"因为寻得我的，就寻得生命， 也必蒙耶和华的恩惠。",
     Eng:"For whoever finds me finds life and receives favor from the LORD.",
     Ind:"Karena siapa mendapatkan aku, mendapatkan hidup, dan TUHAN berkenan akan dia."
   },
   {Bible:"Proverbs", Chapter:8, Verse:36, Page:1,
-    Kor:"그러나 나를 놓치는 사람은 자기 생명을 해치는 사람이며, 나를 미워하는 사람은 죽음을 사랑하는 사람이다.\"",
+    Kor:"그러나 나를 놓치는 사람은 자기 생명을 해치는 사람이며, 나를 미워하는 사람은 죽음을 사랑하는 사람이다.",
     Chn:"得罪我的，却害了自己的性命； 恨恶我的，都喜爱死亡。",
     Eng:"But whoever fails to find me harms himself; all who hate me love death.\"",
     Ind:"Tetapi siapa tidak mendapatkan aku, merugikan dirinya; semua orang yang membenci aku, mencintai maut.\""

@@ -3,7 +3,7 @@
 BibleDB.ref("Ecclesiastes",5,20);
 BibleDB.add([
   {Bible:"Ecclesiastes", Chapter:5, Verse:1, Page:1,
-    Kor:"<하나님을 두려워하여라> 하나님의 집으로 갈 때에, 발걸음을 조심하여라. 어리석은 사람은 악한 일을 하면서도 깨닫지 못하고, 제물이나 바치면 되는 줄 알지만, 그보다는 말씀을 들으러 갈 일이다.",
+    Kor:"하나님의 집으로 갈 때에, 발걸음을 조심하여라. 어리석은 사람은 악한 일을 하면서도 깨닫지 못하고, 제물이나 바치면 되는 줄 알지만, 그보다는 말씀을 들으러 갈 일이다.",
     Chn:"你到　神的殿要谨慎脚步；因为近前听，胜过愚昧人献祭，他们本不知道所做的是恶。",
     Eng:"Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.",
     Ind:"(4-17) Jagalah langkahmu, kalau engkau berjalan ke rumah Allah! Menghampiri untuk mendengar adalah lebih baik dari pada mempersembahkan korban yang dilakukan oleh orang-orang bodoh, karena mereka tidak tahu, bahwa mereka berbuat jahat."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"(5-5) Janganlah mulutmu membawa engkau ke dalam dosa, dan janganlah berkata di hadapan utusan Allah bahwa engkau khilaf. Apakah perlu Allah menjadi murka atas ucapan-ucapanmu dan merusakkan pekerjaan tanganmu?"
   },
   {Bible:"Ecclesiastes", Chapter:5, Verse:7, Page:1,
-    Kor:"꿈이 많으면 헛된 것이 많고, 말이 많아도 그러하다. 오직 너는, 하나님 두려운 줄만 알고 살아라.",
+    Kor:"꿈이 많으면 헛된 것이 많고, 말이 많아도 그러하다. 오직 너는, 하나님 두려운 줄만을 알고 살아라.",
     Chn:"多梦和多言，其中多有虚幻，你只要敬畏　神。",
     Eng:"Much dreaming and many words are meaningless. Therefore stand in awe of God.",
     Ind:"(5-6) Karena sebagaimana mimpi banyak, demikian juga perkataan sia-sia banyak. Tetapi takutlah akan Allah."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"(5-8) Suatu keuntungan bagi negara dalam keadaan demikian ialah, kalau rajanya dihormati di daerah itu."
   },
   {Bible:"Ecclesiastes", Chapter:5, Verse:10, Page:1,
-    Kor:"<부자가 된들 무엇하랴> 돈 좋아하는 사람은, 돈이 아무리 많아도 만족하지 못하고, 부를 좋아하는 사람은, 아무리 많이 벌어도 만족하지 못하니, 돈을 많이 버는 것도 헛되다.",
+    Kor:"돈 좋아하는 사람은, 돈이 아무리 많아도 만족하지 못하고, 부를 좋아하는 사람은, 아무리 많이 벌어도 만족하지 못하니, 돈을 많이 버는 것도 헛되다.",
     Chn:"贪爱银子的，不因得银子知足；贪爱丰富的，也不因得利益知足。这也是虚空。",
     Eng:"Whoever loves money never has money enough; whoever loves wealth is never satisfied with his income. This too is meaningless.",
     Ind:"(5-9) Siapa mencintai uang tidak akan puas dengan uang, dan siapa mencintai kekayaan tidak akan puas dengan penghasilannya. Inipun sia-sia."
@@ -75,7 +75,7 @@ BibleDB.add([
     Ind:"(5-11) Enak tidurnya orang yang bekerja, baik ia makan sedikit maupun banyak; tetapi kekenyangan orang kaya sekali-kali tidak membiarkan dia tidur."
   },
   {Bible:"Ecclesiastes", Chapter:5, Verse:13, Page:1,
-    Kor:"나는 a세상에서 한 가지 비참한 일을 보았다. 아끼던 재산이, 그 임자에게 오히려 해를 끼치는 경우가 있다. (a 히, '해 아래')",
+    Kor:"나는 세상에서 한 가지 비참한 일을 보았다. 아끼던 재산이, 그 임자에게 오히려 해를 끼치는 경우가 있다.",
     Chn:"我见日光之下有一宗大祸患，就是财主积存资财，反害自己。",
     Eng:"I have seen a grievous evil under the sun: wealth hoarded to the harm of its owner,",
     Ind:"(5-12) Ada kemalangan yang menyedihkan kulihat di bawah matahari: kekayaan yang disimpan oleh pemiliknya menjadi kecelakaannya sendiri."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"(5-16) Malah sepanjang umurnya ia berada dalam kegelapan dan kesedihan, mengalami banyak kesusahan, penderitaan dan kekesalan."
   },
   {Bible:"Ecclesiastes", Chapter:5, Verse:18, Page:1,
-    Kor:"○그렇다. 우리의 한평생이 짧고 덧없는 것이지만, 하나님이 우리에게 허락하신 것이니, a세상에서 애쓰고 수고하여 얻은 것으로 먹고 마시고 즐거워하는 것이 마땅한 일이요, 좋은 일임을 내가 깨달았다! 이것은 곧 사람이 받은 몫이다.(a 히, '해 아래')",
+    Kor:"○그렇다. 우리의 한평생이 짧고 덧없는 것이지만, 하나님이 우리에게 허락하신 것이니, 세상에서 애쓰고 수고하여 얻은 것으로 먹고 마시고 즐거워하는 것이 마땅한 일이요, 좋은 일임을 내가 깨달았다! 이것은 곧 사람이 받은 몫이다.",
     Chn:"我所见为善为美的，就是人在　神赐他一生的日子吃喝，享受日光之下劳碌得来的好处，因为这是他的分。",
     Eng:"Then I realized that it is good and proper for a man to eat and drink, and to find satisfaction in his toilsome labor under the sun during the few days of life God has given him--for this is his lot.",
     Ind:"(5-17) Lihatlah, yang kuanggap baik dan tepat ialah, kalau orang makan minum dan bersenang-senang dalam segala usaha yang dilakukan dengan jerih payah di bawah matahari selama hidup yang pendek, yang dikaruniakan Allah kepadanya, sebab itulah bahagiannya."

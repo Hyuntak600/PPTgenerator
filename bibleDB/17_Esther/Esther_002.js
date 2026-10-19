@@ -3,7 +3,7 @@
 BibleDB.ref("Esther",2,23);
 BibleDB.add([
   {Bible:"Esther", Chapter:2, Verse:1, Page:1,
-    Kor:"<에스더가 왕후가 되다> 이러한 일이 있은 지 얼마 뒤에, 아하수에로 왕은, 분노가 가라앉자 와스디 왕후가 생각나고 왕후가 저지른 일과 그리고 그것 때문에 자기가 조서까지 내린 일이 마음에 걸렸다.",
+    Kor:"이러한 일이 있은 지 얼마 뒤에, 아하수에로 왕은, 분노가 가라앉자 와스디 왕후가 생각나고 왕후가 저지른 일과 그리고 그것 때문에 자기가 조서까지 내린 일이 마음에 걸렸다.",
     Chn:"这事以后，亚哈随鲁王的忿怒止息，就想念瓦实提和她所行的，并怎样降旨办她。",
     Eng:"Later when the anger of King Xerxes had subsided, he remembered Vashti and what she had done and what he had decreed about her.",
     Ind:"Sesudah peristiwa-peristiwa ini, setelah kepanasan murka raja Ahasyweros surut, terkenanglah baginda kepada Wasti dan yang dilakukannya, dan kepada apa yang diputuskan atasnya."
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Pada waktu itu ada di dalam benteng Susan seorang Yahudi, yang bernama Mordekhai bin Yair bin Simei bin Kish, seorang Benyamin"
   },
   {Bible:"Esther", Chapter:2, Verse:6, Page:1,
-    Kor:"그는 바빌론 왕 느부갓네살이 예루살렘에서 유다 왕 a여고냐와 그의 백성을 포로로 끌고 왔을 때에, 함께 잡혀 온 사람이다.(a 일명, '여호야긴')",
+    Kor:"그는 바빌론 왕 느부갓네살이 예루살렘에서 유다 왕 여고냐와 그의 백성을 포로로 끌고 왔을 때에, 함께 잡혀 온 사람이다.",
     Chn:"从前巴比伦王尼布甲尼撒将犹大王耶哥尼雅和百姓从耶路撒冷掳去，末底改也在其内。",
     Eng:"who had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon, among those taken captive with Jehoiachin king of Judah.",
     Ind:"yang diangkut dari Yerusalem sebagai salah seorang buangan yang turut dengan Yekhonya, raja Yehuda, ketika ia diangkut ke dalam pembuangan oleh raja Nebukadnezar, raja Babel."
@@ -111,7 +111,7 @@ BibleDB.add([
     Ind:"Kemudian diadakanlah oleh baginda suatu perjamuan bagi semua pembesar dan pegawainya, yakni perjamuan karena Ester, dan baginda menitahkan kebebasan pajak bagi daerah-daerah serta mengaruniakan anugerah, sebagaimana layak bagi raja."
   },
   {Bible:"Esther", Chapter:2, Verse:19, Page:1,
-    Kor:"<모르드개가 왕의 목숨을 구하다> ○처녀들이 두 번째로 소집된 일이 있는데, 그 때에, 모르드개는 대궐에서 일을 맡아 보고 있었다.",
+    Kor:"○처녀들이 두 번째로 소집된 일이 있는데, 그 때에, 모르드개는 대궐에서 일을 맡아 보고 있었다.",
     Chn:"第二次招聚处女的时候，末底改坐在朝门。",
     Eng:"When the virgins were assembled a second time, Mordecai was sitting at the king's gate.",
     Ind:"Selama anak-anak dara dikumpulkan untuk kedua kalinya, Mordekhai duduk di pintu gerbang istana raja."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Adapun Ester tidak memberitahukan asal usul dan kebangsaannya seperti diperintahkan kepadanya oleh Mordekhai, sebab Ester tetap berbuat menurut perkataan Mordekhai seperti pada waktu ia masih dalam asuhannya."
   },
   {Bible:"Esther", Chapter:2, Verse:21, Page:1,
-    Kor:"○모르드개가 대궐 문에서 근무하고 있을 때에, 문을 지키는 왕의 두 내시 b빅단과 데레스가 원한을 품고, 아하수에로 왕을 죽이려는 음모를 꾸몄다.(b 일명, '빅다나')",
+    Kor:"○모르드개가 대궐 문에서 근무하고 있을 때에, 문을 지키는 왕의 두 내시 빅단과 데레스가 원한을 품고, 아하수에로 왕을 죽이려는 음모를 꾸몄다.",
     Chn:"当那时候，末底改坐在朝门，王的太监中有两个守门的，辟探和提列，恼恨亚哈随鲁王，想要下手害他。",
     Eng:"During the time Mordecai was sitting at the king's gate, Bigthana and Teresh, two of the king's officers who guarded the doorway, became angry and conspired to assassinate King Xerxes.",
     Ind:"Pada waktu itu, ketika Mordekhai duduk di pintu gerbang istana raja, sakit hatilah Bigtan dan Teresh, dua orang sida-sida raja yang termasuk golongan penjaga pintu, lalu berikhtiarlah mereka untuk membunuh raja Ahasyweros."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tetapi perkara itu dapat diketahui oleh Mordekhai, lalu diberitahukannyala kepada Ester, sang ratu, dan Ester mempersembahkannya kepada raja atas nama Mordekhai."
   },
   {Bible:"Esther", Chapter:2, Verse:23, Page:1,
-    Kor:"사실을 조사하여 보고, 음모가 밝혀지니, 두 사람을 c나무에 매달아 죽였다. 이런 사실은, 왕이 보는 앞에서 궁중실록에 기록되었다.(c 또는 '기둥에')",
+    Kor:"사실을 조사하여 보고, 음모가 밝혀지니, 두 사람을 나무에 매달아 죽였다. 이런 사실은, 왕이 보는 앞에서 궁중실록에 기록되었다.",
     Chn:"究察这事，果然是实，就把二人挂在木头上，将这事在王面前写于历史上。",
     Eng:"And when the report was investigated and found to be true, the two officials were hanged on a gallows. All this was recorded in the book of the annals in the presence of the king.",
     Ind:"Perkara itu diperiksa dan ternyata benar, maka kedua orang itu disulakan pada tiang. Dan peristiwa itu dituliskan di dalam kitab sejarah, di hadapan raja."

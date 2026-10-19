@@ -3,7 +3,7 @@
 BibleDB.ref("Nehemiah",2,20);
 BibleDB.add([
   {Bible:"Nehemiah", Chapter:2, Verse:1, Page:1,
-    Kor:"<느헤미야가 예루살렘으로 가다> 아닥사스다 왕 이십년 a니산월에 나는 왕에게 술을 따르는 일을 맡았다. 왕에게 술을 따라 드리는 어느 날, 왕께서는 나의 안색이 평소와는 달리 좋지 않은 것을 보시고는(a 양력 삼월 중순 이후)",
+    Kor:"아닥사스다 왕 이십년 니산월에, 나는 왕에게 술을 따르는 일을 맡았다. 왕에게 술을 따라 드리는 어느 날, 왕께서는 나의 안색이 평소와는 달리 좋지 않은 것을 보시고는",
     Chn:"亚达薛西王二十年尼散月，在王面前摆酒，我拿起酒来奉给王。我素来在王面前没有愁容。",
     Eng:"In the month of Nisan in the twentieth year of King Artaxerxes, when wine was brought for him, I took the wine and gave it to the king. I had not been sad in his presence before;",
     Ind:"Pada bulan Nisan tahun kedua puluh pemerintahan raja Artahsasta, ketika menjadi tugasku untuk menyediakan anggur, aku mengangkat anggur dan menyampaikannya kepada raja. Karena aku kelihatan sedih, yang memang belum pernah terjadi di hadapan raja,"
@@ -15,7 +15,7 @@ BibleDB.add([
     Ind:"bertanyalah ia kepadaku: \"Mengapa mukamu muram, walaupun engkau tidak sakit? Engkau tentu sedih hati.\" Lalu aku menjadi sangat takut."
   },
   {Bible:"Nehemiah", Chapter:2, Verse:3, Page:1,
-    Kor:"\"임금님, 만수무강 하시기를 빕니다. 소신의 조상이 묻힌 성읍이 폐허가 되고 성문들이 모두 불에 탔다는 소식을 듣고서, 울적한 마음을 가누지 못한 탓입니다\" 하고 아뢰었더니,",
+    Kor:"\"임금님, 만수무강 하시기를 빕니다. 소신의 조상이 묻힌 성읍이 폐허가 되고, 성문들이 모두 불에 탔다는 소식을 듣고서, 울적한 마음을 가누지 못한 탓입니다\" 하고 아뢰었더니",
     Chn:"我对王说：「愿王万岁！我列祖坟墓所在的那城荒凉，城门被火焚烧，我岂能面无愁容吗？」",
     Eng:"but I said to the king, \"May the king live forever! Why should my face not look sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?\"",
     Ind:"Jawabku kepada raja: \"Hiduplah raja untuk selamanya! Bagaimana mukaku tidak akan muram, kalau kota, tempat pekuburan nenek moyangku, telah menjadi reruntuhan dan pintu-pintu gerbangnya habis dimakan api?\""
@@ -63,19 +63,19 @@ BibleDB.add([
     Ind:"Ketika Sanbalat, orang Horon, dan Tobia, orang Amon, pelayan itu, mendengar hal itu, mereka sangat kesal karena ada orang yang datang mengusahakan kesejahteraan orang Israel."
   },
   {Bible:"Nehemiah", Chapter:2, Verse:11, Page:1,
-    Kor:"<느헤미야가 성벽 재건을 격려하다> ○나는 예루살렘에 이르러, 거기에서 사흘 동안 쉬고 나서,",
+    Kor:"○나는 예루살렘에 이르러, 거기에서 사흘 동안 쉬고 나서,",
     Chn:"我到了耶路撒冷，在那里住了三日。",
     Eng:"I went to Jerusalem, and after staying there three days",
     Ind:"Maka tibalah aku di Yerusalem. Sesudah tiga hari aku di sana,"
   },
   {Bible:"Nehemiah", Chapter:2, Verse:12, Page:1,
-    Kor:"밤에 수행원을 몇 명 데리고 순찰을 나섰다. 하나님이 나의 마음을 움직이셔서 예루살렘에서 일하도록 하신 것을, 나는 그 때까지 어느 누구에게도 말하지 아니하였다. 나에게 짐승이라고는, 내가 탄 것밖에 없었다.",
+    Kor:"밤에 수행원을 몇 명 데리고 순찰을 나섰다. 하나님이 나의 마음을 움직이셔서 예루살렘에서 일하도록 하신 것을, 나는 그 때까지 어느 누구에게도 말하지 아니 하였다. 나에게 짐승이라고는, 내가 탄 것밖에 없었다.",
     Chn:"我夜间起来，有几个人也一同起来；但　神使我心里要为耶路撒冷做什么事，我并没有告诉人。除了我骑的牲口以外，也没有别的牲口在我那里。",
     Eng:"I set out during the night with a few men. I had not told anyone what my God had put in my heart to do for Jerusalem. There were no mounts with me except the one I was riding on.",
     Ind:"bangunlah aku pada malam hari bersama-sama beberapa orang saja yang menyertai aku. Aku tidak beritahukan kepada siapapun rencana yang akan kulakukan untuk Yerusalem, yang diberikan Allahku dalam hatiku. Juga tak ada lain binatang kepadaku kecuali yang kutunggangi."
   },
   {Bible:"Nehemiah", Chapter:2, Verse:13, Page:1,
-    Kor:"밤에 나는 '골짜기 문'을 나섰다. 'b용 샘'을 지나 '거름 문'에 이르기까지 예루살렘 성벽을 살펴보니, 성벽은 다 허물어지고, 문들도 모두 불에 탄 채로 버려져 있었다.(b 또는 '뱀')",
+    Kor:"밤에 나는 '골짜기 문'을 나섰다. '용 샘'을 지나 '거름 문'에 이르기까지 예루살렘 성벽을 살펴보니, 성벽은 다 허물어지고, 문들도 모두 불에 탄 채로 버려져 있었다.",
     Chn:"当夜我出了谷门，往野狗井去，到了粪厂门，察看耶路撒冷的城墙，见城墙拆毁，城门被火焚烧。",
     Eng:"By night I went out through the Valley Gate toward the Jackal Well and the Dung Gate, examining the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire.",
     Ind:"Demikian pada malam hari aku keluar melalui pintu gerbang Lebak, ke jurusan mata air Ular Naga dan pintu gerbang Sampah. Aku menyelidiki dengan seksama tembok-tembok Yerusalem yang telah terbongkar dan pintu-pintu gerbangnya yang habis dimakan api."

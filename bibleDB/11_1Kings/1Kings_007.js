@@ -3,7 +3,7 @@
 BibleDB.ref("1Kings",7,51);
 BibleDB.add([
   {Bible:"1Kings", Chapter:7, Verse:1, Page:1,
-    Kor:"<솔로몬의 궁전> 솔로몬은, 자기의 궁을 건축하기 시작하여 그것을 완공하는 데, 열세 해가 걸렸다.",
+    Kor:"솔로몬은, 자기의 궁을 건축하기 시작하여 그것을 완공하는 데, 열세 해가 걸렸다.",
     Chn:"所罗门为自己建造宫室，十三年方才造成；",
     Eng:"It took Solomon thirteen years, however, to complete the construction of his palace.",
     Ind:"Salomo mendirikan istananya sampai tiga belas tahun lamanya, barulah selesai seluruh istananya itu."
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Di bagian atas ada batu yang mahal-mahal, berukuran batu pahat, dan kayu aras juga."
   },
   {Bible:"1Kings", Chapter:7, Verse:12, Page:1,
-    Kor:"왕궁 뜰의 담이나, 주님의 성전 안뜰의 담이나, 성전의 어귀 현관의 담은, 모두 잘 다듬은 돌 세 켜와 두꺼운 백향목 판자 한 켜를 놓아서 쌓았다.",
+    Kor:"왕궁 뜰의 담이나, 주의 성전 안뜰의 담이나, 성전의 어귀 현관의 담은, 모두 잘 다듬은 돌 세 켜와 두꺼운 백향목 판자 한 켜를 놓아서 쌓았다.",
     Chn:"大院周围有凿成的石头三层、香柏木一层，都照耶和华殿的内院和殿廊的样式。",
     Eng:"The great courtyard was surrounded by a wall of three courses of dressed stone and one course of trimmed cedar beams, as was the inner courtyard of the temple of the LORD with its portico.",
     Ind:"Sekeliling pelataran besar ada tembok dari tiga jajar batu pahat dan satu jajar balok kayu aras; demikian juga sekeliling pelataran dalam rumah TUHAN dan balainya."
   },
   {Bible:"1Kings", Chapter:7, Verse:13, Page:1,
-    Kor:"<후람의 임무> ○솔로몬 왕은 사람을 보내어서, 두로에서 a후람을 불러 왔는데,(a 히, '히람')",
+    Kor:"○솔로몬 왕은 사람을 보내어서, 두로에서 후람을 불러 왔는데,",
     Chn:"所罗门王差遣人往泰尔去，将户兰召了来。",
     Eng:"King Solomon sent to Tyre and brought Huram,",
     Ind:"Kemudian raja Salomo menyuruh orang menjemput Hiram dari Tirus."
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Dia adalah anak seorang janda dari suku Naftali, sedang ayahnya orang Tirus, tukang tembaga; ia penuh dengan keahlian, pengertian dan pengetahuan untuk melakukan segala pekerjaan tembaga; ia datang kepada raja Salomo, lalu melakukan segala pekerjaan itu bagi raja."
   },
   {Bible:"1Kings", Chapter:7, Verse:15, Page:1,
-    Kor:"<두 놋쇠 기둥(대하 3:15-17)> ○그는 두 개의 놋쇠 기둥을 만들었다. b둘 다 열여덟 자 높이에, 열두 자 둘레였다.(b 히, '한 기둥은 높이가 열여덟 자, 또 다른 기둥은 둘레가 열두 자였다')",
+    Kor:"○그는 두 개의 놋쇠 기둥을 만들었다. 둘 다 열여덟 자 높이에, 열두 자 둘레였다.",
     Chn:"他制造两根铜柱，每根高十八肘，围十二肘；",
     Eng:"He cast two bronze pillars, each eighteen cubits high and twelve cubits around, by line.",
     Ind:"Ia membentuk dua tiang tembaga, tinggi tiang yang satu delapan belas hasta dan dapat dililit oleh tali yang dua belas hasta panjangnya; tiang yang kedua demikian juga."
@@ -123,19 +123,19 @@ BibleDB.add([
     Ind:"yakni ganja-ganja yang di atas kedua tiang itu, di sebelah atas sekali, lewat jala-jala yang meliliti perut ganja itu; dan buah-buah delima ada dua ratus berjajar berkeliling pada ganja yang satu, demikian juga pada yang kedua."
   },
   {Bible:"1Kings", Chapter:7, Verse:21, Page:1,
-    Kor:"○a후람은 이렇게 해서 만든 두 기둥을 성전의 현관에다가 세웠다. 오른쪽 기둥을 세우고, 그 이름을 c야긴이라고 하였고, 왼쪽 기둥을 세우고, 그 이름을 d보아스라고 하였다.(a 히, '히람' c '그가 세우다' d '그에게 힘이 있다')",
+    Kor:"○후람은 이렇게 해서 만든 두 기둥을 성전의 현관에다가 세웠다. 오른쪽 기둥을 세우고, 그 이름을 야긴이라고 하였고, 왼쪽 기둥을 세우고, 그 이름을 보아스라고 하였다.",
     Chn:"他将两根柱子立在殿廊前头：右边立一根，起名叫雅斤；左边立一根，起名叫波阿斯。",
     Eng:"He erected the pillars at the portico of the temple. The pillar to the south he named Jakin and the one to the north Boaz.",
     Ind:"Kemudian tiang-tiang itu didirikannya dekat balai ruang besar. Ketika ia mendirikan tiang kanan, ia menamainya Yakhin; ketika ia mendirikan tiang kiri, ia menamainya Boas."
   },
   {Bible:"1Kings", Chapter:7, Verse:22, Page:1,
-    Kor:"그 다음에 기둥들의 꼭대기에는 나리꽃 모양으로 만든 기둥 머리를 얹었는데, 이렇게 해서, a후람은 기둥 세우는 일을 마쳤다.(a 히, '히람')",
+    Kor:"그 다음에, 기둥들의 꼭대기에는 나리꽃 모양으로 만든 기둥 머리를 얹었는데, 이렇게 해서, 후람은 기둥 세우는 일을 마쳤다.",
     Chn:"在柱顶上刻着百合花。这样，造柱子的工就完毕了。",
     Eng:"The capitals on top were in the shape of lilies. And so the work on the pillars was completed.",
     Ind:"Dan setelah bentukan bunga bakung itu ditaruh di kepala tiang-tiang itu, maka siaplah pekerjaan membuat tiang-tiang itu."
   },
   {Bible:"1Kings", Chapter:7, Verse:23, Page:1,
-    Kor:"<놋쇠 물통(대하 4:2-5)> ○그 다음에 a후람은 놋쇠를 부어서 바다 모양 물통을 만들었는데, 그 바다 모양 물통은, 지름이 열 자, 높이가 다섯 자, 둘레가 서른 자이고, 둥근 모양을 한 물통이었다.(a 히, '히람')",
+    Kor:"○그 다음에 후람은 놋쇠를 부어서 바다 모양 물통을 만들었는데, 그 바다 모양 물통은, 지름이 열 자, 높이가 다섯 자, 둘레가 서른 자이고, 둥근 모양을 한 물통이었다.",
     Chn:"他又铸一个铜海，样式是圆的，高五肘，径十肘，围三十肘。",
     Eng:"He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it.",
     Ind:"Kemudian dibuatnyalah \"laut\" tuangan yang sepuluh hasta dari tepi ke tepi, bundar keliling, lima hasta tingginya, dan yang dapat dililit berkeliling oleh tali yang tiga puluh hasta panjangnya."
@@ -159,7 +159,7 @@ BibleDB.add([
     Ind:"Tebal \"laut\" itu setapak tangan dan tepinya serupa tepi piala, seperti bunga bakung yang berkembang. \"Laut\" itu dapat memuat dua ribu bat air."
   },
   {Bible:"1Kings", Chapter:7, Verse:27, Page:1,
-    Kor:"<놋쇠 받침대와 대야> ○그는 또 놋으로 받침대를 열 개 만들었는데, 받침대마다 길이가 넉 자, 너비가 넉 자, 높이가 석 자이다.",
+    Kor:"○그는 또 놋으로 받침대를 열 개 만들었는데, 받침대마다 길이가 넉 자, 너비가 넉 자, 높이가 석 자이다.",
     Chn:"他用铜制造十个盆座，每座长四肘，宽四肘，高三肘。",
     Eng:"He also made ten movable stands of bronze; each was four cubits long, four wide and three high.",
     Ind:"Selanjutnya dibuatnya sepuluh kereta penopang dari tembaga, satu kereta empat hasta panjangnya, empat hasta lebarnya dan tiga hasta tingginya."
@@ -237,7 +237,7 @@ BibleDB.add([
     Ind:"Lima kereta penopang ditaruhnya pada sisi kanan rumah itu dan lima pada sisi kirinya; tetapi \"laut\" itu ditaruhnya pada sisi kanan rumah itu, arah tenggara."
   },
   {Bible:"1Kings", Chapter:7, Verse:40, Page:1,
-    Kor:"<성전 기구(대하 4:11-5:1)> ○a후람은 또 솥과 부삽과 피 뿌리는 대접을 만들었다. 이렇게 a후람은, 솔로몬 왕이 주님의 성전에다가 해 놓으라고 시킨 모든 일을 마쳤다.(a 히, '히람')",
+    Kor:"○후람은 또 솥과 부삽과 피 뿌리는 대접을 만들었다. 이렇게 후람은, 솔로몬 왕이 주님의 성전에다가 해 놓으라고 시킨 모든 일을 마쳤다.",
     Chn:"户兰又造了盆、铲子，和盘子。这样，他为所罗门王做完了耶和华殿的一切工。",
     Eng:"He also made the basins and shovels and sprinkling bowls. So Huram finished all the work he had undertaken for King Solomon in the temple of the LORD:",
     Ind:"Dan Hiram membuat juga kuali-kuali, penyodok-penyodok dan bokor-bokor penyiraman. Demikianlah Hiram menyelesaikan segala pekerjaan yang harus dilakukannya bagi raja Salomo di rumah TUHAN,"
@@ -267,7 +267,7 @@ BibleDB.add([
     Ind:"\"laut\" yang satu itu dan kedua belas lembu yang di bawah \"laut\" itu;"
   },
   {Bible:"1Kings", Chapter:7, Verse:45, Page:1,
-    Kor:"솥과 부삽과 피 뿌리는 대접 들이다. ○a후람이 솔로몬 왕을 도와서 만든 주님의 성전의 이 모든 기구는 모두 광택나는 놋쇠로 만든 것이다.(a 히, '히람')",
+    Kor:"솥과 부삽과 피 뿌리는 대접 들이다. ○후람이 솔로몬 왕을 도와서 만든 주의 성전의 이 모든 기구는 모두 광택나는 놋쇠로 만든 것이다.",
     Chn:"盆、铲子、盘子。这一切都是户兰给所罗门王用光亮的铜为耶和华的殿造成的，",
     Eng:"the pots, shovels and sprinkling bowls. All these objects that Huram made for King Solomon for the temple of the LORD were of burnished bronze.",
     Ind:"kuali-kuali, penyodok-penyodok dan bokor-bokor penyiraman; segala perlengkapan yang dibuat Hiram bagi raja Salomo di rumah TUHAN itu adalah dari tembaga yang diupam."
@@ -285,13 +285,13 @@ BibleDB.add([
     Ind:"Dan Salomo membiarkan segala perlengkapan itu tidak ditimbang karena jumlahnya yang amat besar; berat tembaga itu tidaklah terhitung."
   },
   {Bible:"1Kings", Chapter:7, Verse:48, Page:1,
-    Kor:"○솔로몬은 또 주님의 성전 안에다가 둘 기구를 만들었는데, 곧 금 제단과, 빵을 늘 차려 놓는 금으로 만든 상과,",
+    Kor:"○솔로몬은 또 주의 성전 안에다가 둘 기구를 만들었는데, 곧 금 제단과, 빵을 늘 차려 놓는 금으로 만든 상과,",
     Chn:"所罗门又造耶和华殿里的金坛和陈设饼的金桌子；",
     Eng:"Solomon also made all the furnishings that were in the LORD'S temple: the golden altar; the golden table on which was the bread of the Presence;",
     Ind:"Salomo membuat juga segala perlengkapan yang ada di rumah TUHAN, yakni mezbah emas dan meja emas tempat menaruh roti sajian;"
   },
   {Bible:"1Kings", Chapter:7, Verse:49, Page:1,
-    Kor:"또 등잔대들, 곧 지성소 앞의 오른쪽에 다섯 왼쪽에 다섯 개씩 놓을 순금 등잔대들과, 금으로 만든 꽃 장식과, 등잔과, 부집게와,",
+    Kor:"또 등잔대들, 곧 지성소 앞의 오른쪽에 다섯, 왼쪽에 다섯 개씩 놓을 순금 등잔대들과, 금으로 만든 꽃 장식과, 등잔과, 부집게와,",
     Chn:"内殿前的精金灯台：右边五个，左边五个，并其上的金花、灯盏、蜡剪，",
     Eng:"the lampstands of pure gold (five on the right and five on the left, in front of the inner sanctuary); the gold floral work and lamps and tongs;",
     Ind:"kandil-kandil dari emas murni, lima di sebelah kanan dan lima di sebelah kiri, di depan ruang belakang; kembang-kembangnya, lampu-lampunya dan sepit-sepitnya, dari emas;"
@@ -303,7 +303,7 @@ BibleDB.add([
     Ind:"pasu-pasunya, pisau-pisaunya, bokor-bokor penyiramannya, cawan-cawannya dan perbaraan-perbaraannya, dari emas murni; engsel-engsel untuk pintu ruang dalam, yakni tempat maha kudus, dan engsel-engsel untuk pintu ruang besar Bait Suci, dari emas."
   },
   {Bible:"1Kings", Chapter:7, Verse:51, Page:1,
-    Kor:"○이렇게 해서, 솔로몬 왕은 주님의 성전을 짓는 모든 일을 완성하였다. 솔로몬은 그의 아버지 다윗이 거룩하게 구별해서 바친 성물 곧 은과 금과 기구들을 가져다가, 주님의 성전 창고에 넣었다.",
+    Kor:"○이렇게 해서, 솔로몬 왕은 주의 성전을 짓는 모든 일을 완성하였다. 솔로몬은 그의 아버지 다윗이 거룩하게 구별해서 바친 성물, 곧 은과 금과 기구들을 가져다가, 주의 성전 창고에 넣었다.",
     Chn:"所罗门王做完了耶和华殿的一切工，就把他父大卫分别为圣的金银和器皿都带来放在耶和华殿的府库里。",
     Eng:"When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated--the silver and gold and the furnishings--and he placed them in the treasuries of the LORD'S temple.",
     Ind:"Maka genaplah segala pekerjaan yang dilakukan Salomo di rumah TUHAN itu. Kemudian Salomo memasukkan barang-barang kudus Daud, ayahnya, dan menaruh perak, emas dan barang-barang itu dalam perbendaharaan rumah TUHAN."

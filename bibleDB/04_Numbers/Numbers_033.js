@@ -3,13 +3,13 @@
 BibleDB.ref("Numbers",33,56);
 BibleDB.add([
   {Bible:"Numbers", Chapter:33, Verse:1, Page:1,
-    Kor:"<이집트에서 모압까지> 이스라엘 자손이 모세와 아론의 지휘를 받아 부대를 편성하여, 이집트에서 나와서 행군한 경로는 다음과 같다.",
+    Kor:"이스라엘 자손이 모세와 아론의 지휘를 받아 부대를 편성하여, 이집트에서 나와서 행군한 경로는 다음과 같다.",
     Chn:"以色列人按着军队，在摩西、亚伦的手下出埃及地所行的路程记在下面。",
     Eng:"Here are the stages in the journey of the Israelites when they came out of Egypt by divisions under the leadership of Moses and Aaron.",
     Ind:"Inilah tempat-tempat persinggahan orang Israel, setelah mereka keluar dari tanah Mesir, pasukan demi pasukan, di bawah pimpinan Musa dan Harun;"
   },
   {Bible:"Numbers", Chapter:33, Verse:2, Page:1,
-    Kor:"모세는 주님의 명에 따라, 머물렀다가 떠난 출발지를 기록하였다. 머물렀다가 떠난 출발지는 다음과 같다.",
+    Kor:"모세는 주의 명에 따라, 머물렀다가 떠난 출발지를 기록하였다. 머물렀다가 떠난 출발지는 다음과 같다.",
     Chn:"摩西遵着耶和华的吩咐记载他们所行的路程，其路程乃是这样：",
     Eng:"At the LORD'S command Moses recorded the stages in their journey. This is their journey by stages:",
     Ind:"Musa menuliskan perjalanan mereka dari tempat persinggahan ke tempat persinggahan sesuai dengan titah TUHAN; dan inilah tempat-tempat persinggahan mereka dalam perjalanan mereka:"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Mereka berangkat dari Rameses pada bulan yang pertama, pada hari yang kelima belas bulan yang pertama itu; pada hari sesudah Paskah berjalanlah orang Israel keluar, oleh tangan yang dinaikkan, di depan mata semua orang Mesir,"
   },
   {Bible:"Numbers", Chapter:33, Verse:4, Page:1,
-    Kor:"그 때에 이집트 사람은 주님께서 쳐죽이신 자기들의 맏아들들의 장례를 치르고 있었다. 주님께서는 이집트 사람이 섬기는 신들에게도 큰 벌을 내리셨다.",
+    Kor:"그 때에 이집트 사람은 주께서 쳐죽이신 자기들의 맏아들들의 장례를 치르고 있었다. 주께서는 이집트 사람이 섬기는 신들에게도 큰 벌을 내리셨다.",
     Chn:"那时，埃及人正葬埋他们的长子，就是耶和华在他们中间所击杀的；耶和华也败坏他们的神。",
     Eng:"who were burying all their firstborn, whom the LORD had struck down among them; for the LORD had brought judgment on their gods.",
     Ind:"sementara orang Mesir sedang menguburkan orang-orang yang telah dibunuh TUHAN di antara mereka, yakni semua anak sulung; sebab TUHAN telah menjatuhkan hukuman-hukuman kepada para allah mereka."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Mereka berangkat dari Etam, lalu balik kembali ke Pi-Hahirot yang di depan Baal-Zefon, kemudian berkemah di tentangan Migdol."
   },
   {Bible:"Numbers", Chapter:33, Verse:8, Page:1,
-    Kor:"비하히롯을 떠나서는 a바다 한가운데를 지나 광야로 빠졌다. 에담 광야에서는 사흘 길을 들어가서 마라에 이르러 진을 쳤다.(a '홍해'. 히, '얌 쑤프')",
+    Kor:"비하히롯을 떠나서는 바다 한가운데를 지나 광야로 빠졌다. 에담 광야에서는 사흘 길을 들어가서 마라에 이르러 진을 쳤다.",
     Chn:"从比哈·希录对面起行，经过海中到了书珥旷野，又在伊坦的旷野走了三天的路程，就安营在玛拉。",
     Eng:"They left Pi Hahiroth and passed through the sea into the desert, and when they had traveled for three days in the Desert of Etham, they camped at Marah.",
     Ind:"Mereka berangkat dari Pi-Hahirot dan lewat dari tengah-tengah laut ke padang gurun, lalu mereka berjalan tiga hari perjalanan jauhnya di padang gurun Etam, kemudian mereka berkemah di Mara."
@@ -225,7 +225,7 @@ BibleDB.add([
     Ind:"Mereka berangkat dari Kadesh, lalu berkemah di gunung Hor, di perbatasan tanah Edom."
   },
   {Bible:"Numbers", Chapter:33, Verse:38, Page:1,
-    Kor:"○제사장 아론이 주님의 명을 따라 호르 산으로 올라가 죽으니, 그 때는 이스라엘 자손이 이집트 땅에서 나온 지 사십 년 되던 해 다섯째 달, 그 달 초하루였다.",
+    Kor:"○제사장 아론이 주의 명을 따라 호르 산으로 올라가 죽으니, 그 때는 이스라엘 자손이 이집트 땅에서 나온 지 사십 년 되던 해 다섯째 달, 그 달 초하루였다.",
     Chn:"以色列人出了埃及地后四十年，五月初一日，祭司亚伦遵着耶和华的吩咐上何珥山，就死在那里。",
     Eng:"At the LORD'S command Aaron the priest went up Mount Hor, where he died on the first day of the fifth month of the fortieth year after the Israelites came out of Egypt.",
     Ind:"Ketika itu imam Harun naik ke gunung Hor sesuai dengan titah TUHAN, dan di situ ia mati pada tahun keempat puluh sesudah orang Israel keluar dari tanah Mesir, pada bulan yang kelima, pada tanggal satu bulan itu;"
@@ -297,13 +297,13 @@ BibleDB.add([
     Ind:"Mereka berkemah di tepi sungai Yordan, dari Bet-Yesimot sampai ke Abel-Sitim di dataran Moab."
   },
   {Bible:"Numbers", Chapter:33, Verse:50, Page:1,
-    Kor:"<가나안 땅 분할 지시> ○여리고 건너편 요단 강 가 모압 평야에서 주님께서 모세에게 말씀하셨다.",
+    Kor:"○여리고 건너편 요단 강 가 모압 평야에서 주께서 모세에게 말씀하셨다.",
     Chn:"耶和华在摩押平原—约旦河边、耶利哥对面晓谕摩西说：",
     Eng:"On the plains of Moab by the Jordan across from Jericho the LORD said to Moses,",
     Ind:"TUHAN berfirman kepada Musa di dataran Moab di tepi sungai Yordan dekat Yerikho:"
   },
   {Bible:"Numbers", Chapter:33, Verse:51, Page:1,
-    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. ○너희가 요단 강을 건너 가나안 땅에 들어가거든,",
+    Kor:"\"너는 이스라엘 자손에게 말하여라. 그들에게 다음과 같이 일러라. '너희가 요단 강을 건너 가나안 땅에 들어가거든,",
     Chn:"「你吩咐以色列人说：你们过约旦河进迦南地的时候，",
     Eng:"\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,",
     Ind:"\"Berbicaralah kepada orang Israel dan katakanlah kepada mereka: Apabila kamu menyeberangi sungai Yordan ke tanah Kanaan,"
@@ -333,7 +333,7 @@ BibleDB.add([
     Ind:"Tetapi jika kamu tidak menghalau penduduk negeri itu dari depanmu, maka orang-orang yang kamu tinggalkan hidup dari mereka akan menjadi seperti selumbar di matamu dan seperti duri yang menusuk lambungmu, dan mereka akan menyesatkan kamu di negeri yang kamu diami itu."
   },
   {Bible:"Numbers", Chapter:33, Verse:56, Page:1,
-    Kor:"그뿐만 아니라, 나는 그들에게 하기로 계획한 것을 그대로 너희에게 하겠다.\"",
+    Kor:"그뿐만 아니라, 나는 그들에게 하기로 계획한 것을 그대로 너희에게 하겠다.'\"",
     Chn:"而且我素常有意怎样待他们，也必照样待你们。」",
     Eng:"And then I will do to you what I plan to do to them.'\"",
     Ind:"Maka akan Kulakukan kepadamu seperti yang Kurancang melakukan kepada mereka.\""

@@ -3,37 +3,37 @@
 BibleDB.ref("2Chronicles",35,27);
 BibleDB.add([
   {Bible:"2Chronicles", Chapter:35, Verse:1, Page:1,
-    Kor:"<요시야가 유월절을 지키다(왕하 23:21-23)> 요시야는 예루살렘에서, 주님께 유월절을 지켰다. 사람들은 첫째 달 십사일에 유월절 어린 양을 잡았다.",
+    Kor:"요시야는 예루살렘에서, 주님께 유월절을 지켰다. 사람들은 첫째 달 십사일에 유월절 어린 양을 잡았다.",
     Chn:"约西亚在耶路撒冷向耶和华守逾越节。正月十四日，就宰了逾越节的羊羔。",
     Eng:"Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.",
     Ind:"Kemudian Yosia merayakan Paskah bagi TUHAN di Yerusalem. Domba Paskah disembelih pada tanggal empat belas bulan yang pertama."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:2, Page:1,
-    Kor:"왕은 제사장들에게 각자가 해야 할 임무를 맡기고, 주님의 성전에서 할 일들을 잘 하도록 격려하였다.",
+    Kor:"왕은 제사장들에게 각자가 해야 할 임무를 맡기고, 주의 성전에서 할 일들을 잘 하도록 격려하였다.",
     Chn:"王分派祭司各尽其职，又勉励他们办耶和华殿中的事；",
     Eng:"He appointed the priests to their duties and encouraged them in the service of the LORD'S temple.",
     Ind:"Ia menetapkan tugas para imam, dan mendorong mereka menunaikan tugas jabatannya dalam rumah TUHAN."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:3, Page:1,
-    Kor:"왕은 또, 주님께 거룩하게 구별되어서, 온 이스라엘을 가르치는 레위 사람들에게도 다음과 같이 지시하였다. \"거룩한 궤는 다윗의 아들, 이스라엘의 솔로몬 왕이 지은 성전 안에 두도록 하십시오. 이제부터 당신들은 그 궤를 어깨에 메어 옮기지 않아도 됩니다. 당신들은 다만 주 당신들 하나님과 그의 백성 이스라엘을 섬기는 일만을 맡게 됩니다.",
+    Kor:"왕은 또, 주님께 거룩하게 구별되어서, 온 이스라엘을 가르치는 레위 사람들에게도 다음과 같이 지시하였다. \"거룩한 궤는 다윗의 아들, 이스라엘의 솔로몬 왕이 지은 성전 안에 두도록 하여라. 이제부터 너희는 그 궤를 어깨에 메어 옮기지 않아도 된다. 너희는 다만 주 너희 하나님과 그의 백성 이스라엘을 섬기는 일만을 맡는다.",
     Chn:"又对那归耶和华为圣、教训以色列人的利未人说：「你们将圣约柜安放在以色列王大卫儿子所罗门建造的殿里，不必再用肩扛抬。现在要事奉耶和华—你们的　神，服事他的民以色列。",
     Eng:"He said to the Levites, who instructed all Israel and who had been consecrated to the LORD: \"Put the sacred ark in the temple that Solomon son of David king of Israel built. It is not to be carried about on your shoulders. Now serve the LORD your God and his people Israel.",
     Ind:"Berkatalah ia kepada orang-orang Lewi yang adalah pengajar seluruh Israel dan orang-orang kudus TUHAN: \"Tempatkanlah tabut kudus itu di dalam rumah yang telah didirikan Salomo bin Daud, raja Israel. Tidak usah lagi kamu mengusungnya. Sekarang layanilah TUHAN, Allahmu, dan Israel, umat-Nya!"
   },
   {Bible:"2Chronicles", Chapter:35, Verse:4, Page:1,
-    Kor:"당신들은, 이스라엘의 다윗 왕이 글로 써서 지시한 것과 다윗의 아들 솔로몬이 글로 써서 지시한 것을 따라, 가문별, 갈래별로 준비를 하고 있다가,",
+    Kor:"너희는, 이스라엘의 다윗 왕이 글로 써서 지시한 것과 다윗의 아들 솔로몬이 글로 써서 지시한 것을 따라, 가문별, 갈래별로 준비를 하고 있다가,",
     Chn:"你们应当按着宗族，照着班次，遵以色列王大卫和他儿子所罗门所写的，自己预备。",
     Eng:"Prepare yourselves by families in your divisions, according to the directions written by David king of Israel and by his son Solomon.",
     Ind:"Bersiaplah menurut puak-puakmu dan menurut rombonganmu sebagaimana yang dituliskan Daud, raja Israel, dan Salomo, anaknya."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:5, Page:1,
-    Kor:"성소에 나가서 당신들의 친족 되는 모든 사람의 가문의 서열을 따라서, 또는 레위 가문의 서열을 따라서, 일을 맡도록 하십시오.",
+    Kor:"성소에 나가서 너희의 친척되는 모든 사람의 가문의 서열을 따라서, 또는 레위 가문의 서열을 따라서, 일을 맡도록 하여라.",
     Chn:"要按着你们的弟兄，这民宗族的班次，站在圣所，每班中要利未宗族的几个人。",
     Eng:"\"Stand in the holy place with a group of Levites for each subdivision of the families of your fellow countrymen, the lay people.",
     Ind:"Berdirilah di halaman tempat kudus menurut golongan puak saudara-saudaramu yang lain, yakni kaum awam, dengan satu rombongan puak orang Lewi untuk tiap golongan saudara-saudaramu itu."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:6, Page:1,
-    Kor:"당신들은 유월절 어린 양과 염소를 잡아야 합니다. 그리고 당신들은 스스로를 정결하게 하십시오. 그리고 동족을 위하여서도 준비하십시오. 이 모든 일은 주님께서 모세를 시켜서 말씀하신 그대로 해야 합니다.\"",
+    Kor:"너희는 유월절 어린 양과 염소를 잡아야 한다. 그리고 너희는 스스로를 정결하게 하여라. 그리고 동족을 위하여서도 준비하여라. 이 모든 일은 주께서 모세를 시켜서 말씀하신 그대로 해야 한다.\"",
     Chn:"要宰逾越节的羊羔，洁净自己，为你们的弟兄预备了，好遵守耶和华借摩西所吩咐的话。」",
     Eng:"Slaughter the Passover lambs, consecrate yourselves and prepare the lambs for your fellow countrymen, doing what the LORD commanded through Moses.\"",
     Ind:"Sembelihlah domba Paskah, kuduskanlah dirimu, dan adakanlah persiapan bagi saudara-saudaramu, supaya dilakukan apa yang difirmankan TUHAN dengan perantaraan Musa.\""
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"Maka disembelihlah domba Paskah, dan para imam menyiramkan darah yang mereka terima dari orang-orang Lewi, sedang orang-orang Lewi menguliti domba itu."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:12, Page:1,
-    Kor:"그런 다음에, 레위 사람들은, 번제물로 바칠 짐승을 백성에게 가문별로 나누어 주어서, 백성이 모세의 율법에 기록되어 있는 대로 주님께 드리게 하고, 소도 같은 방법으로 하였다.",
+    Kor:"그런 다음에, 레위 사람들은, 번제물로 바칠 짐승을 백성에게 가문별로 나누어 주어서, 백성이 모세의 율법에 기록되어 있는 대로 주께 드리게 하고, 소도 같은 방법으로 하였다.",
     Chn:"将燔祭搬来，按着宗族的班次分给众民，好照摩西书上所写的，献给耶和华；献牛也是这样。",
     Eng:"They set aside the burnt offerings to give them to the subdivisions of the families of the people to offer to the LORD, as is written in the Book of Moses. They did the same with the cattle.",
     Ind:"Tetapi mereka memisahkan korban bakaran untuk diserahkan kepada kaum awam menurut golongan puak mereka, supaya dipersembahkan kepada TUHAN sebagaimana tertulis dalam kitab Musa. Demikian pula dilakukan mereka dengan lembu-lembu."
@@ -93,7 +93,7 @@ BibleDB.add([
     Ind:"Para penyanyi, yakni bani Asaf, ada pada tempat mereka sesuai dengan perintah Daud, Asaf, Heman dan Yedutun, pelihat raja itu; juga para penunggu pintu gerbang ada pada tiap-tiap pintu gerbang. Mereka tidak usah meninggalkan tugas mereka, karena saudara-saudara mereka, orang-orang Lewi, menyediakannya untuk mereka."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:16, Page:1,
-    Kor:"이와 같이, 그 날에 요시야 왕이 명령한 대로, 모든 일이 다 잘 준비되어 주님께 예배를 드릴 수 있었다. 사람들은 유월절을 지키며, 주님의 단에 번제를 드렸다.",
+    Kor:"이와 같이, 그 날에 요시야 왕이 명령한 대로, 모든 일이 다 잘 준비되어 주께 예배를 드릴 수 있었다. 사람들은 유월절을 지키며, 주의 단에 번제를 드렸다.",
     Chn:"当日，供奉耶和华的事齐备了，就照约西亚王的吩咐守逾越节，献燔祭在耶和华的坛上。",
     Eng:"So at that time the entire service of the LORD was carried out for the celebration of the Passover and the offering of burnt offerings on the altar of the LORD, as King Josiah had ordered.",
     Ind:"Demikianlah seluruh upacara ibadah bagi TUHAN disiapkan pada hari itu untuk merayakan Paskah dan untuk mempersembahkan korban bakaran di atas mezbah TUHAN sesuai dengan perintah raja Yosia."
@@ -117,13 +117,13 @@ BibleDB.add([
     Ind:"Paskah itu dirayakan pada tahun kedelapan belas pemerintahan Yosia."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:20, Page:1,
-    Kor:"<요시야의 통치가 끝나다(왕하 23:28-30)> ○이런 모든 일이 일어난 뒤, 곧 요시야가 성전 정돈을 마치고 난 뒤에, 이집트의 느고 왕이 유프라테스 강 가에 있는 갈그미스를 치려고 올라왔으므로, 요시야가 그것을 막으러 나갔다.",
+    Kor:"○이런 모든 일이 일어난 뒤, 곧 요시야가 성전 정돈을 마치고 난 뒤에, 이집트의 느고 왕이 유프라테스 강 가에 있는 갈그미스를 치려고 올라왔으므로, 요시야가 그것을 막으러 나갔다.",
     Chn:"这事以后，约西亚修完了殿，有埃及王尼哥上来，要攻击靠近幼发拉底河的迦基米施；约西亚出去抵挡他。",
     Eng:"After all this, when Josiah had set the temple in order, Neco king of Egypt went up to fight at Carchemish on the Euphrates, and Josiah marched out to meet him in battle.",
     Ind:"Kemudian dari pada semua ini, setelah Yosia memperbaiki rumah TUHAN, majulah Nekho, raja Mesir, hendak berperang di Karkemis di tepi sungai Efrat. Yosia keluar menghadapinya."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:21, Page:1,
-    Kor:"느고가 요시야에게 전령을 보내어 말하였다. \"유다의 왕은 들으시오. 왕은 왜 나의 일에 관여하려고 하오? 나는 오늘 왕을 치려고 온 것이 아니라, 나와 싸움이 벌어진 족속을 치려고 나선 것이오. 하나님께서 나에게, 속히 가라고 명하셨소. 그러니 하나님이 나와 함께 계시오. 하나님께 멸망을 당하지 아니하려거든, 하나님을 거역하는 이 일을 어서 멈추시오.\"",
+    Kor:"느고가 요시야에게 전령을 보내어 말하였다. \"유다의 왕은 들으시오. 그대는 왜 나의 일에 관여하려고 하오? 나는 오늘 그대를 치려고 온 것이 아니라, 나와 싸움이 벌어진 족속을 치려고 나선 것이오. 하나님께서 나에게, 속히 가라고 명하셨소. 그러니 하나님이 나와 함께 계시오. 하나님께 멸망을 당하지 아니하려거든, 하나님을 거역하는 이 일을 어서 멈추시오.\"",
     Chn:"他差遣使者来见约西亚，说：「犹大王啊，我与你何干？我今日来不是要攻击你，乃是要攻击与我争战之家，并且　神吩咐我速行，你不要干预　神的事，免得他毁灭你，因为　神是与我同在。」",
     Eng:"But Neco sent messengers to him, saying, \"What quarrel is there between you and me, O king of Judah? It is not you I am attacking at this time, but the house with which I am at war. God has told me to hurry; so stop opposing God, who is with me, or he will destroy you.\"",
     Ind:"Ia mengirim utusan kepada Yosia, dengan pesan: \"Apakah urusanmu dengan aku, raja Yehuda? Saat ini aku tidak datang melawan engkau, tetapi melawan keluarga raja yang sedang kuperangi. Allah memerintahkan aku supaya segera bertindak. Hentikanlah niatmu menentang Allah yang menyertai aku, supaya engkau jangan dimusnahkan-Nya!\""
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Yeremia membuat suatu syair ratapan mengenai Yosia. Dan sampai sekarang ini semua penyanyi laki-laki dan penyanyi perempuan menyanyikan syair-syair ratapan mengenai Yosia, dan mereka jadikan itu suatu kebiasaan di Israel. Semuanya itu tertulis dalam Syair-syair Ratapan."
   },
   {Bible:"2Chronicles", Chapter:35, Verse:26, Page:1,
-    Kor:"○요시야의 남은 사적, 곧 그가 주님의 율법에 기록된 대로 한 모든 선한 일과,",
+    Kor:"○요시야의 남은 사적, 곧 그가 주의 율법에 기록된 대로 한 모든 선한 일과,",
     Chn:"约西亚其余的事和他遵着耶和华律法上所记而行的善事，",
     Eng:"The other events of Josiah's reign and his acts of devotion, according to what is written in the Law of the LORD--",
     Ind:"Selebihnya dari riwayat Yosia dan perbuatan-perbuatannya yang saleh yang sesuai dengan yang ada tertulis dalam Taurat TUHAN,"

@@ -3,7 +3,7 @@
 BibleDB.ref("Isaiah",56,12);
 BibleDB.add([
   {Bible:"Isaiah", Chapter:56, Verse:1, Page:1,
-    Kor:"<모든 민족이 하나님의 백성이 될 것이다> 주님께서 말씀하신다. \"너희는 공평을 지키며 공의를 행하여라. 나의 구원이 가까이 왔고, 나의 의가 곧 나타날 것이다.\"",
+    Kor:"주께서 말씀하신다. \"너희는 공평을 지키며 공의를 행하여라. 나의 구원이 가까이 왔고, 나의 의가 곧 나타날 것이다.\"",
     Chn:"耶和华如此说： 你们当守公平，行公义； 因我的救恩临近， 我的公义将要显现。",
     Eng:"This is what the LORD says: \"Maintain justice and do what is right, for my salvation is close at hand and my righteousness will soon be revealed.",
     Ind:"Beginilah firman TUHAN: Taatilah hukum dan tegakkanlah keadilan, sebab sebentar lagi akan datang keselamatan yang dari pada-Ku, dan keadilan-Ku akan dinyatakan."
@@ -15,25 +15,25 @@ BibleDB.add([
     Ind:"Berbahagialah orang yang melakukannya, dan anak manusia yang berpegang kepadanya: yang memelihara hari Sabat dan tidak menajiskannya, dan yang menahan diri dari setiap perbuatan jahat."
   },
   {Bible:"Isaiah", Chapter:56, Verse:3, Page:1,
-    Kor:"이방 사람이라도 주님께로 온 사람은 '주님께서 나를 당신의 백성과는 차별하신다' 하고 말하지 못하게 하여라. 고자라도 '나는 마른 장작에 지나지 않는다' 하고 말하지 못하게 하여라.",
+    Kor:"이방 사람이라도 주께로 온 사람은 '주께서 나를 당신의 백성과는 차별하신다' 하고 말하지 못하게 하여라. 고자라도 '나는 마른 장작에 지나지 않는다' 하고 말하지 못하게 하여라.",
     Chn:"与耶和华联合的外邦人不要说： 耶和华必定将我从他民中分别出来。 太监也不要说：我是枯树。",
     Eng:"Let no foreigner who has bound himself to the LORD say, \"The LORD will surely exclude me from his people.\" And let not any eunuch complain, \"I am only a dry tree.\"",
     Ind:"Janganlah orang asing yang menggabungkan diri kepada TUHAN berkata: \"Sudah tentu TUHAN hendak memisahkan aku dari pada umat-Nya\"; dan janganlah orang kebiri berkata: \"Sesungguhnya, aku ini pohon yang kering.\""
   },
   {Bible:"Isaiah", Chapter:56, Verse:4, Page:1,
-    Kor:"이러한 사람들에게 주님께서 이렇게 말씀하신다. \"비록 고자라 하더라도, 나의 안식일을 지키고, 나를 기쁘게 하는 일을 하고, 나의 언약을 철저히 지키면,",
+    Kor:"이러한 사람들에게 주께서 말씀하신다. \"비록 고자라 하더라도, 나의 안식일을 지키고, 나를 기쁘게 하는 일을 하고, 나의 언약을 철저히 지키면,",
     Chn:"因为耶和华如此说： 那些谨守我的安息日， 拣选我所喜悦的事， 持守我约的太监，",
     Eng:"For this is what the LORD says: \"To the eunuchs who keep my Sabbaths, who choose what pleases me and hold fast to my covenant--",
     Ind:"Sebab beginilah firman TUHAN: \"Kepada orang-orang kebiri yang memelihara hari-hari Sabat-Ku dan yang memilih apa yang Kukehendaki dan yang berpegang kepada perjanjian-Ku,"
   },
   {Bible:"Isaiah", Chapter:56, Verse:5, Page:1,
-    Kor:"그들의 이름이 나의 성전과 나의 성벽 안에서 영원히 기억되도록 하겠다. 아들딸을 두어서 이름을 남기는 것보다 더 낫게 하여 주겠다. 그들의 이름이 잊혀지지 않도록, 영원한 명성을 그들에게 주겠다.\"",
+    Kor:"그들의 이름이 나의 성전과 나의 백성 사이에서 영원히 기억되도록 하겠다. 아들딸을 두어서 이름을 남기는 것보다 더 낫게 하여 주겠다. 그들의 이름이 잊혀지지 않도록, 영원한 명성을 그들에게 주겠다.\"",
     Chn:"我必使他们在我殿中， 在我墙内，有记念，有名号， 比有儿女的更美。 我必赐他们永远的名，不能剪除。",
     Eng:"to them I will give within my temple and its walls a memorial and a name better than sons and daughters; I will give them an everlasting name that will not be cut off.",
     Ind:"kepada mereka akan Kuberikan dalam rumah-Ku dan di lingkungan tembok-tembok kediaman-Ku suatu tanda peringatan dan nama--itu lebih baik dari pada anak-anak lelaki dan perempuan--,suatu nama abadi yang tidak akan lenyap akan Kuberikan kepada mereka."
   },
   {Bible:"Isaiah", Chapter:56, Verse:6, Page:1,
-    Kor:"주님을 섬기려고 하는 이방 사람들은, 주님의 이름을 사랑하여 주님의 종이 되어라. \"안식일을 지켜 더럽히지 않고, 나의 언약을 철저히 지키는 이방 사람들은,",
+    Kor:"주를 섬기려고 하는 이방 사람들은, 주의 이름을 사랑하여 주의 종이 되어라. \"안식일을 지켜 더럽히지 않고, 나의 언약을 철저히 지키는 이방 사람들은,",
     Chn:"还有那些与耶和华联合的外邦人， 要事奉他，要爱耶和华的名， 要作他的仆人— 就是凡守安息日不干犯， 又持守他约的人。",
     Eng:"And foreigners who bind themselves to the LORD to serve him, to love the name of the LORD, and to worship him, all who keep the Sabbath without desecrating it and who hold fast to my covenant--",
     Ind:"Dan orang-orang asing yang menggabungkan diri kepada TUHAN untuk melayani Dia, untuk mengasihi nama TUHAN dan untuk menjadi hamba-hamba-Nya, semuanya yang memelihara hari Sabat dan tidak menajiskannya, dan yang berpegang kepada perjanjian-Ku,"
@@ -51,7 +51,7 @@ BibleDB.add([
     Ind:"Demikianlah firman Tuhan ALLAH yang menghimpun orang-orang Israel yang terbuang: Aku akan menghimpunkan orang kepadanya lagi sebagai tambahan kepada orang-orangnya yang telah terhimpun.\""
   },
   {Bible:"Isaiah", Chapter:56, Verse:9, Page:1,
-    Kor:"<지도자들을 규탄하시다> 들짐승들아, 와서 나의 백성을 잡아먹어라. 숲 속의 짐승들아, 와서 나의 백성을 삼켜라.",
+    Kor:"들짐승들아, 와서 나의 백성을 잡아먹어라. 숲 속의 짐승들아, 와서 나의 백성을 삼켜라.",
     Chn:"田野的诸兽都来吞吃吧！ 林中的诸兽也要如此。",
     Eng:"Come, all you beasts of the field, come and devour, all you beasts of the forest!",
     Ind:"Hai segala binatang di padang, hai segala binatang di hutan, datanglah untuk makan!"
@@ -69,7 +69,7 @@ BibleDB.add([
     Ind:"anjing-anjing pelahap, yang tidak tahu kenyang. Dan orang-orang itulah gembala-gembala, yang tidak dapat mengerti! Mereka semua mengambil jalannya sendiri, masing-masing mengejar laba, tiada yang terkecuali."
   },
   {Bible:"Isaiah", Chapter:56, Verse:12, Page:1,
-    Kor:"그 도적들이 입은 살아서 \"오너라, a우리가 술을 가져 올 터이니, 독한 것으로 취하도록 마시자. 내일도 오늘처럼 마시자. 아니, 더 실컷 마시자\" 하는구나. (a 사해 사본과 시리아어역과 불가타와 타르굼을 따름. 마소라 본문에는 '내가')",
+    Kor:"그 도적들이 입은 살아서 \"오너라, 우리가 술을 가져 올 터이니, 독한 것으로 취하도록 마시자. 내일도 오늘처럼 마시자. 아니, 더 실컷 마시자\" 하는구나.",
     Chn:"他们说：来吧！我去拿酒， 我们饱饮浓酒； 明日必和今日一样， 就是宴乐无量极大之日。",
     Eng:"\"Come,\" each one cries, \"let me get wine! Let us drink our fill of beer! And tomorrow will be like today, or even far better.\"",
     Ind:"\"Datanglah,\" kata mereka, \"aku akan mengambil anggur, baiklah kita minum arak banyak-banyak; besok akan sama seperti hari ini, dan lebih hebat lagi!\""

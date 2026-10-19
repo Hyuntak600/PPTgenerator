@@ -3,7 +3,7 @@
 BibleDB.ref("Jonah",1,17);
 BibleDB.add([
   {Bible:"Jonah", Chapter:1, Verse:1, Page:1,
-    Kor:"<요나가 주님을 피하여 달아나다> 주님께서 아밋대의 아들 요나에게 말씀하셨다.",
+    Kor:"주께서 아밋대의 아들 요나에게 말씀하셨다.",
     Chn:"耶和华的话临到亚米太的儿子约拿，说：",
     Eng:"The word of the LORD came to Jonah son of Amittai:",
     Ind:"Datanglah firman TUHAN kepada Yunus bin Amitai, demikian:"
@@ -15,13 +15,13 @@ BibleDB.add([
     Ind:"\"Bangunlah, pergilah ke Niniwe, kota yang besar itu, berserulah terhadap mereka, karena kejahatannya telah sampai kepada-Ku.\""
   },
   {Bible:"Jonah", Chapter:1, Verse:3, Page:1,
-    Kor:"그러나 요나는 주님의 낯을 피하여 a스페인으로 도망가려고, 길을 떠나 욥바로 내려갔다. 마침 스페인으로 떠나는 배를 만나 뱃삯을 내고, 사람들과 함께 그 배를 탔다. 주님의 낯을 피하여 스페인으로 갈 셈이었다.(a 히, '다시스')",
+    Kor:"그러나 요나는 주의 낯을 피하여 다시스로 도망가려고, 길을 떠나 욥바로 내려갔다. 마침 다시스로 떠나는 배를 만나 뱃삯을 내고, 사람들과 함께 그 배를 탔다. 주의 낯을 피하여 다시스로 갈 셈이었다.",
     Chn:"约拿却起来，逃往他施去躲避耶和华；下到约帕，遇见一只船，要往他施去。他就给了船价，上了船，要与船上的人同往他施去躲避耶和华。",
     Eng:"But Jonah ran away from the LORD and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the LORD.",
     Ind:"Tetapi Yunus bersiap untuk melarikan diri ke Tarsis, jauh dari hadapan TUHAN; ia pergi ke Yafo dan mendapat di sana sebuah kapal, yang akan berangkat ke Tarsis. Ia membayar biaya perjalanannya, lalu naik kapal itu untuk berlayar bersama-sama dengan mereka ke Tarsis, jauh dari hadapan TUHAN."
   },
   {Bible:"Jonah", Chapter:1, Verse:4, Page:1,
-    Kor:"○주님께서 바다 위로 큰 바람을 보내시니, 바다에 태풍이 일어나서, 배가 거의 부서지게 되었다.",
+    Kor:"○주께서 바다 위로 큰 바람을 보내시니, 바다에 태풍이 일어나서, 배가 거의 부서지게 되었다.",
     Chn:"然而耶和华使海中起大风，海就狂风大作，甚至船几乎破坏。",
     Eng:"Then the LORD sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.",
     Ind:"Tetapi TUHAN menurunkan angin ribut ke laut, lalu terjadilah badai besar, sehingga kapal itu hampir-hampir terpukul hancur."
@@ -39,7 +39,7 @@ BibleDB.add([
     Ind:"Datanglah nakhoda mendapatkannya sambil berkata: \"Bagaimana mungkin engkau tidur begitu nyenyak? Bangunlah, berserulah kepada Allahmu, barangkali Allah itu akan mengindahkan kita, sehingga kita tidak binasa.\""
   },
   {Bible:"Jonah", Chapter:1, Verse:7, Page:1,
-    Kor:"○b뱃사람들이 서로 말하였다. \"우리가 어서 제비를 뽑아서, 누구 때문에 이런 재앙이 우리에게 내리는지 알아봅시다.\" 그들이 제비를 뽑으니, 그 제비가 요나에게 떨어졌다.(b 히, '그들이')",
+    Kor:"○뱃사람들이 서로 말하였다. \"우리가 어서 제비를 뽑아서, 누구 때문에 이런 재앙이 우리에게 내리는지 알아봅시다.\" 그들이 제비를 뽑으니, 그 제비가 요나에게 떨어졌다.",
     Chn:"船上的人彼此说：「来吧，我们掣签，看看这灾临到我们是因谁的缘故。」于是他们掣签，掣出约拿来。",
     Eng:"Then the sailors said to each other, \"Come, let us cast lots to find out who is responsible for this calamity.\" They cast lots and the lot fell on Jonah.",
     Ind:"Lalu berkatalah mereka satu sama lain: \"Marilah kita buang undi, supaya kita mengetahui, karena siapa kita ditimpa oleh malapetaka ini.\" Mereka membuang undi dan Yunuslah yang kena undi."
@@ -51,13 +51,13 @@ BibleDB.add([
     Ind:"Berkatalah mereka kepadanya: \"Beritahukan kepada kami, karena siapa kita ditimpa oleh malapetaka ini. Apa pekerjaanmu dan dari mana engkau datang, apa negerimu dan dari bangsa manakah engkau?\""
   },
   {Bible:"Jonah", Chapter:1, Verse:9, Page:1,
-    Kor:"그가 그들에게 대답하였다. \"나는 히브리 사람이오. 하늘에 계신 주 하나님, 바다와 육지를 지으신 그분을 c섬기는 사람이오.\"(c 히, '경외하는')",
+    Kor:"그가 그들에게 대답하였다. \"나는 히브리 사람이오. 하늘에 계신 주 하나님, 바다와 육지를 지으신 그분을 섬기는 사람이오.\"",
     Chn:"他说：「我是希伯来人。我敬畏耶和华—那创造沧海旱地之天上的　神。」",
     Eng:"He answered, \"I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the land.\"",
     Ind:"Sahutnya kepada mereka: \"Aku seorang Ibrani; aku takut akan TUHAN, Allah yang empunya langit, yang telah menjadikan lautan dan daratan.\""
   },
   {Bible:"Jonah", Chapter:1, Verse:10, Page:1,
-    Kor:"요나가 그들에게, 자기가 주님의 낯을 피하여 달아나고 있다고 말하니, 사람들이 그 사실을 알고, 겁에 질려서 그에게 소리쳤다. \"어쩌자고 당신은 이런 일을 하였소?\"",
+    Kor:"요나가 그들에게, 자기가 주의 낯을 피하여 달아나고 있다고 말하니, 사람들이 그 사실을 알고, 겁에 질려서 그에게 소리쳤다. \"어쩌자고 당신은 이런 일을 하였소?\"",
     Chn:"他们就大大惧怕，对他说：「你做的是什么事呢？」他们已经知道他躲避耶和华，因为他告诉了他们。",
     Eng:"This terrified them and they asked, \"What have you done?\" (They knew he was running away from the LORD, because he had already told them so.)",
     Ind:"Orang-orang itu menjadi sangat takut, lalu berkata kepadanya: \"Apa yang telah kauperbuat?\" --sebab orang-orang itu mengetahui, bahwa ia melarikan diri, jauh dari hadapan TUHAN. Hal itu telah diberitahukannya kepada mereka."
@@ -81,7 +81,7 @@ BibleDB.add([
     Ind:"Lalu berdayunglah orang-orang itu dengan sekuat tenaga untuk membawa kapal itu kembali ke darat, tetapi mereka tidak sanggup, sebab laut semakin bergelora menyerang mereka."
   },
   {Bible:"Jonah", Chapter:1, Verse:14, Page:1,
-    Kor:"그들은 주님을 부르며 아뢰었다. \"주님, 빕니다. 우리가 이 사람을 죽인다고 해서 우리를 죽이지 말아 주십시오. 주님께서는 뜻하시는 대로 하시는 분이시니, 우리에게 살인죄를 지우지 말아 주십시오.\"",
+    Kor:"그들은 주를 부르며 아뢰었다. \"주님, 빕니다. 우리가 이 사람을 죽인다고 해서 우리를 죽이지 말아 주십시오. 주께서는 뜻하시는 대로 하시는 분이시니, 우리에게 살인죄를 지우지 말아 주십시오.\"",
     Chn:"他们便求告耶和华说：「耶和华啊，我们恳求你，不要因这人的性命使我们死亡，不要使流无辜血的罪归与我们；因为你—耶和华是随自己的意旨行事。」",
     Eng:"Then they cried to the LORD, \"O LORD, please do not let us die for taking this man's life. Do not hold us accountable for killing an innocent man, for you, O LORD, have done as you pleased.\"",
     Ind:"Lalu berserulah mereka kepada TUHAN, katanya: \"Ya TUHAN, janganlah kiranya Engkau biarkan kami binasa karena nyawa orang ini dan janganlah Engkau tanggungkan kepada kami darah orang yang tidak bersalah, sebab Engkau, TUHAN, telah berbuat seperti yang Kaukehendaki.\""
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Kemudian mereka mengangkat Yunus, lalu mencampakkannya ke dalam laut, dan laut berhenti mengamuk."
   },
   {Bible:"Jonah", Chapter:1, Verse:16, Page:1,
-    Kor:"사람들은 주님을 매우 두려워하게 되었으며, 주님께 희생제물을 바치고서, 주님을 섬기기로 약속하였다.",
+    Kor:"사람들은 주를 매우 두려워하게 되었으며, 주께 희생제물을 바치고서, 주를 섬기기로 약속하였다.",
     Chn:"那些人便大大敬畏耶和华，向耶和华献祭，并且许愿。",
     Eng:"At this the men greatly feared the LORD, and they offered a sacrifice to the LORD and made vows to him.",
     Ind:"Orang-orang itu menjadi sangat takut kepada TUHAN, lalu mempersembahkan korban sembelihan bagi TUHAN serta mengikrarkan nazar."
   },
   {Bible:"Jonah", Chapter:1, Verse:17, Page:1,
-    Kor:"<요나의 기도> ○주님께서는 큰 물고기 한 마리를 마련하여 두셨다가, 요나를 삼키게 하셨다. 요나는 사흘 밤낮을 그 물고기 뱃속에서 지냈다.",
+    Kor:"○주께서는 큰 물고기 한 마리를 마련하여 두셨다가, 요나를 삼키게 하셨다. 요나는 사흘 밤낮을 그 물고기 뱃속에서 지냈다.",
     Chn:"耶和华安排一条大鱼吞了约拿，他在鱼腹中三日三夜。",
     Eng:"But the LORD provided a great fish to swallow Jonah, and Jonah was inside the fish three days and three nights.",
     Ind:"Maka atas penentuan TUHAN datanglah seekor ikan besar yang menelan Yunus; dan Yunus tinggal di dalam perut ikan itu tiga hari tiga malam lamanya."

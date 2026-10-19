@@ -3,25 +3,25 @@
 BibleDB.ref("Jeremiah",7,34);
 BibleDB.add([
   {Bible:"Jeremiah", Chapter:7, Verse:1, Page:1,
-    Kor:"<예레미야의 성전 설교> 주님께서 예레미야에게,",
+    Kor:"주께서 예레미야에게,",
     Chn:"耶和华的话临到耶利米说：",
     Eng:"This is the word that came to Jeremiah from the LORD:",
     Ind:"Firman yang datang kepada Yeremia dari pada TUHAN, bunyinya:"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:2, Page:1,
-    Kor:"주님의 성전 문에 서서, 주님께 예배하려고 문으로 들어오는 모든 유다 사람에게 주님의 말씀을 큰소리로 일러주라고 하셨다.",
+    Kor:"주의 성전 문에 서서, 주를 경배하려고 문으로 들어오는 모든 유다 사람에게 주의 말씀을 큰소리로 일러주라고 하셨다.",
     Chn:"「你当站在耶和华殿的门口，在那里宣传这话说：你们进这些门敬拜耶和华的一切犹大人，当听耶和华的话。",
     Eng:"\"Stand at the gate of the LORD'S house and there proclaim this message: \"'Hear the word of the LORD, all you people of Judah who come through these gates to worship the LORD.",
     Ind:"\"Berdirilah di pintu gerbang rumah TUHAN, serukanlah di sana firman ini dan katakanlah: Dengarlah firman TUHAN, hai sekalian orang Yehuda yang masuk melalui semua pintu gerbang ini untuk sujud menyembah kepada TUHAN!"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:3, Page:1,
-    Kor:"○\"나 만군의 주 이스라엘의 하나님이 말한다. 너희의 모든 생활과 행실을 고쳐라. 그러면 내가 이 곳에서 너희와 함께 머물러 살겠다.",
+    Kor:"\"나 만군의 주 이스라엘의 하나님이 말한다. 너희의 모든 생활과 행실을 고쳐라. 그러면 내가 이 곳에서 너희와 함께 머물러 살겠다.",
     Chn:"万军之耶和华—以色列的　神如此说：你们改正行动作为，我就使你们在这地方仍然居住。",
     Eng:"This is what the LORD Almighty, the God of Israel, says: Reform your ways and your actions, and I will let you live in this place.",
     Ind:"Beginilah firman TUHAN semesta alam, Allah Israel: Perbaikilah tingkah langkahmu dan perbuatanmu, maka Aku mau diam bersama-sama kamu di tempat ini."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:4, Page:1,
-    Kor:"'이것이 주님의 성전이다, 주님의 성전이다, 주님의 성전이다' 하고 속이는 말을, 너희는 의지하지 말아라.",
+    Kor:"'이것이 주의 성전이다, 주의 성전이다, 주의 성전이다' 하고 속이는 말을, 너희는 의지하지 말아라.",
     Chn:"你们不要倚靠虚谎的话，说：『这些是耶和华的殿，是耶和华的殿，是耶和华的殿！』",
     Eng:"Do not trust in deceptive words and say, \"This is the temple of the LORD, the temple of the LORD, the temple of the LORD!\"",
     Ind:"Janganlah percaya kepada perkataan dusta yang berbunyi: Ini bait TUHAN, bait TUHAN, bait TUHAN,"
@@ -45,13 +45,13 @@ BibleDB.add([
     Ind:"maka Aku mau diam bersama-sama kamu di tempat ini, di tanah yang telah Kuberikan kepada nenek moyangmu, dari dahulu kala sampai selama-lamanya."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:8, Page:1,
-    Kor:"○그런데도 너희는 지금 전혀 무익한 거짓말을 의지하고 있다.",
+    Kor:"그런데도 너희는 지금 전혀 무익한 거짓말을 의지하고 있다.",
     Chn:"「看哪，你们倚靠虚谎无益的话。",
     Eng:"But look, you are trusting in deceptive words that are worthless.",
     Ind:"Tetapi sesungguhnya, kamu percaya kepada perkataan dusta yang tidak memberi faedah."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:9, Page:1,
-    Kor:"너희는 모두 도둑질을 하고, 사람을 죽이고, 음행을 하고, a거짓으로 맹세를 하고, 바알에게 분향을 하고, 너희가 알지 못하는 다른 신들을 섬긴다.(a 또는 '거짓 신들로')",
+    Kor:"너희는 모두 도둑질을 하고, 사람을 죽이고, 음행을 하고, 거짓으로 맹세를 하고, 바알에게 분향을 하고, 너희가 알지 못하는 다른 신들을 섬긴다.",
     Chn:"你们偷盗，杀害，奸淫，起假誓，向巴力烧香，并随从素不认识的别神，",
     Eng:"\"'Will you steal and murder, commit adultery and perjury, burn incense to Baal and follow other gods you have not known,",
     Ind:"Masakan kamu mencuri, membunuh, berzinah dan bersumpah palsu, membakar korban kepada Baal dan mengikuti allah lain yang tidak kamu kenal,"
@@ -69,13 +69,13 @@ BibleDB.add([
     Ind:"Sudahkah menjadi sarang penyamun di matamu rumah yang atasnya nama-Ku diserukan ini? Kalau Aku, Aku sendiri melihat semuanya, demikianlah firman TUHAN."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:12, Page:1,
-    Kor:"○너희는 내가 처음으로 내 이름을 두었던 실로에 있는 내 처소로 가서, 내 백성 이스라엘의 죄악 때문에 내가 그 곳을 어떻게 하였는지 보아라.",
+    Kor:"○너희는 내가 처음으로 내 이름을 두었던 실로에 있는 내 처소로 가서, 내 백성 이스라엘의 죄악 때문에, 내가 그 곳을 어떻게 하였는지 보아라.",
     Chn:"你们且往示罗去，就是我先前立为我名的居所，察看我因这百姓以色列的罪恶向那地所行的如何。」",
     Eng:"\"'Go now to the place in Shiloh where I first made a dwelling for my Name, and see what I did to it because of the wickedness of my people Israel.",
     Ind:"Tetapi baiklah pergi dahulu ke tempat-Ku yang di Silo itu, di mana Aku membuat nama-Ku diam dahulu, dan lihatlah apa yang telah Kulakukan kepadanya karena kejahatan umat-Ku Israel!"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:13, Page:1,
-    Kor:"○너희가 온갖 죄를 지었으므로, 내가 너희에게 서둘러서 경고하였으나, 너희는 듣지 않았다. 내가 불렀으나, 너희는 대답도 하지 않았다. 나 주의 말이다.",
+    Kor:"너희가 온갖 죄를 지었으므로, 내가 너희에게 서둘러서 경고하였으나, 너희는 듣지 않았다. 내가 불렀으나, 너희는 대답도 하지 않았다. 나 주의 말이다.",
     Chn:"耶和华说：「现在因你们行了这一切的事，我也从早起来警戒你们，你们却不听从；呼唤你们，你们却不答应。",
     Eng:"While you were doing all these things, declares the LORD, I spoke to you again and again, but you did not listen; I called you, but you did not answer.",
     Ind:"Maka sekarang, oleh karena kamu telah melakukan segala perbuatan itu juga, demikianlah firman TUHAN, dan oleh karena kamu tidak mau mendengarkan, sekalipun Aku berbicara kepadamu terus-menerus, dan kamu tidak mau menjawab, sekalipun Aku berseru kepadamu,"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"karena itulah kepada rumah, yang atasnya nama-Ku diserukan dan yang kamu andalkan itu, dan kepada tempat, yang telah Kuberikan kepadamu dan kepada nenek moyangmu itu, akan Kulakukan seperti yang telah Kulakukan kepada Silo;"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:15, Page:1,
-    Kor:"내가 너희의 모든 친척 곧 에브라임 자손 모두를 내 앞에서 쫓아 버렸던 것과 똑같이, 너희도 내 앞에서 멀리 쫓아 버리겠다.\"",
+    Kor:"내가 너희의 모든 형제, 곧 에브라임 자손 모두를 내 앞에서 쫓아 버렸던 것과 똑같이, 너희도 내 앞에서 멀리 쫓아 버리겠다.\"",
     Chn:"我必将你们从我眼前赶出，正如赶出你们的众弟兄，就是以法莲的一切后裔。」",
     Eng:"I will thrust you from my presence, just as I did all your brothers, the people of Ephraim.'",
     Ind:"Aku akan melemparkan kamu dari hadapan-Ku, seperti semua saudaramu, yakni seluruh keturunan Efraim, telah Kulemparkan.\""
   },
   {Bible:"Jeremiah", Chapter:7, Verse:16, Page:1,
-    Kor:"<백성의 불순종> ○\"그러므로 너 예레미야는 이 백성을 보살펴 달라고 기도하지 말아라. 너는 그들을 도와달라고 나에게 호소하거나 간구하지도 말고, 나에게 조르지도 말아라. 나는 이제 너의 말을 들어주지 않을 것이다.",
+    Kor:"○\"그러므로 너 예레미야는 이 백성을 보살펴 달라고 기도하지 말아라. 너는 그들을 도와달라고 나에게 호소하거나 간구하지도 말고, 나에게 조르지도 말아라. 나는 이제 너의 말을 들어주지 않을 것이다.",
     Chn:"「所以，你不要为这百姓祈祷；不要为他们呼求祷告；也不要向我为他们祈求，因我不听允你。",
     Eng:"\"So do not pray for this people nor offer any plea or petition for them; do not plead with me, for I will not listen to you.",
     Ind:"\"Tetapi engkau, janganlah berdoa untuk bangsa ini, janganlah sampaikan seruan permohonan dan doa untuk mereka, dan janganlah desak Aku, sebab Aku tidak akan mendengarkan engkau."
@@ -117,31 +117,31 @@ BibleDB.add([
     Ind:"Hati-Kukah sebenarnya yang mereka sakiti, demikianlah firman TUHAN, bukankah hati mereka sendiri, sehingga mereka menjadi malu?"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:20, Page:1,
-    Kor:"○그러므로 나 주 하나님이 말한다. 나의 무서운 분노가 바로 이 땅으로 쏟아져서, 사람과 짐승과 들의 나무와 땅의 열매 위로 쏟아져서, 꺼지지 않고 탈 것이다.\"",
+    Kor:"그러므로 나 주 하나님이 이렇게 말한다. 나의 무서운 분노가 바로 이 땅으로 쏟아져서, 사람과 짐승과 들의 나무와 땅의 열매 위로 쏟아져서, 꺼지지 않고 탈 것이다.\"",
     Chn:"所以主耶和华如此说：「看哪，我必将我的怒气和忿怒倾在这地方的人和牲畜身上，并田野的树木和地里的出产上，必如火着起，不能熄灭。」",
     Eng:"\"'Therefore this is what the Sovereign LORD says: My anger and my wrath will be poured out on this place, on man and beast, on the trees of the field and on the fruit of the ground, and it will burn and not be quenched.",
     Ind:"Sebab itu beginilah firman Tuhan ALLAH: Sesungguhnya, murka-Ku dan kehangatan amarah-Ku akan tercurah ke tempat ini, ke atas manusia, ke atas hewan, ke atas pohon-pohonan di padang dan ke atas hasil tanah; amarah itu akan menyala-nyala dengan tidak padam-padam.\""
   },
   {Bible:"Jeremiah", Chapter:7, Verse:21, Page:1,
-    Kor:"<소용 없는 제사> ○\"나 만군의 주 이스라엘의 하나님이 말한다. 내가 너희에게 받고 싶은 것은 제사가 아니다. 너희가 번제는 다 태워 내게 바치고 다른 제물은 너희가 먹는다고 하지만, 내가 허락할 터이니, 번제든 무슨 제사든 고기는 다 너희들이나 먹어라.",
+    Kor:"○\"나 만군의 주 이스라엘의 하나님이 말한다. 너희는 번제물은 다 태워서 나에게 바치지만, 다른 희생제물은 너희가 먹는다. 그러나 내가 하고 싶은 말은, 번제든 무슨 제사든, 고기는 너희가 다 먹으라는 것이다.",
     Chn:"万军之耶和华—以色列的　神如此说：「你们将燔祭加在平安祭上，吃肉吧！",
     Eng:"\"'This is what the LORD Almighty, the God of Israel, says: Go ahead, add your burnt offerings to your other sacrifices and eat the meat yourselves!",
     Ind:"Beginilah firman TUHAN semesta alam, Allah Israel: \"Tambah sajalah korban bakaranmu kepada korban sembelihanmu dan nikmatilah dagingnya!"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:22, Page:1,
-    Kor:"○내가 너희 조상을 이집트 땅에서 데리고 나왔을 때에, 내가 그들에게 번제물이나 다른 어떤 희생제물을 바치라고 했더냐? 바치라고 명령이라도 했더냐?",
+    Kor:"사실은 내가 너희 조상을 이집트 땅에서 데리고 나왔을 때에, 나는 그들에게 번제물이나 다른 어떤 희생제물에 대하여, 전혀 말하지도 않고, 명하지도 않았다.",
     Chn:"因为我将你们列祖从埃及地领出来的那日，燔祭平安祭的事我并没有提说，也没有吩咐他们。",
     Eng:"For when I brought your forefathers out of Egypt and spoke to them, I did not just give them commands about burnt offerings and sacrifices,",
     Ind:"Sungguh, pada waktu Aku membawa nenek moyangmu keluar dari tanah Mesir Aku tidak mengatakan atau memerintahkan kepada mereka sesuatu tentang korban bakaran dan korban sembelihan;"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:23, Page:1,
-    Kor:"오직 내가 명한 것은 나에게 순종하라는 것, 그러면 내가 그들의 하나님이 되고, 그들은 나의 백성이 될 것이라는 것, 내가 그들에게 명하는 그 길로만 걸어가면, 그들이 잘 될 것이라고 한 것뿐이지 않았더냐?",
+    Kor:"오직 내가 명한 것은 '너희는 나에게 순종하여라. 그러면 내가 너희 하나님이 되고, 너희는 나의 백성이 될 것이다. 내가 너희에게 명하는 그 길로만 걸어가면, 너희는 잘 될 것이다' 하는 것뿐이었다.",
     Chn:"我只吩咐他们这一件说：『你们当听从我的话，我就作你们的　神，你们也作我的子民。你们行我所吩咐的一切道，就可以得福。』",
     Eng:"but I gave them this command: Obey me, and I will be your God and you will be my people. Walk in all the ways I command you, that it may go well with you.",
     Ind:"hanya yang berikut inilah yang telah Kuperintahkan kepada mereka: Dengarkanlah suara-Ku, maka Aku akan menjadi Allahmu dan kamu akan menjadi umat-Ku, dan ikutilah seluruh jalan yang Kuperintahkan kepadamu, supaya kamu berbahagia!"
   },
   {Bible:"Jeremiah", Chapter:7, Verse:24, Page:1,
-    Kor:"그러나 그들은 내게 순종하지도 않고, 내 말에 귀를 기울이지도 않았다. 오히려 자기들의 악한 마음에서 나오는 온갖 계획과 어리석은 고집대로 살고, 얼굴을 나에게로 돌리지 않고, 오히려 등을 나에게서 돌렸다.",
+    Kor:"그러나 그들은 순종하지도 않고, 귀를 기울이지도 않았다. 오히려 자기들의 악한 마음에서 나오는 온갖 계획과 어리석은 고집대로 살고, 얼굴을 나에게로 돌리지 않고, 오히려 등을 나에게서 돌렸다.",
     Chn:"他们却不听从，不侧耳而听，竟随从自己的计谋和顽梗的恶心，向后不向前。",
     Eng:"But they did not listen or pay attention; instead, they followed the stubborn inclinations of their evil hearts. They went backward and not forward.",
     Ind:"Tetapi mereka tidak mau mendengarkan dan tidak mau memberi perhatian, melainkan mereka mengikuti rancangan-rancangan dan kedegilan hatinya yang jahat, dan mereka memperlihatkan belakangnya dan bukan mukanya."
@@ -159,19 +159,19 @@ BibleDB.add([
     Ind:"tetapi mereka tidak mau mendengarkan kepada-Ku dan tidak mau memberi perhatian, bahkan mereka menegarkan tengkuknya, berbuat lebih jahat dari pada nenek moyang mereka."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:27, Page:1,
-    Kor:"<살육 골짜기에서 저지른 죄> ○\"그래서 네가 그들에게 이 모든 말을 전하더라도, 그들은 여전히 듣지 않을 것이다. 또 네가 그들에게 외치더라도, 그들이 너에게 아무런 반응도 보이지 않을 것이다.",
+    Kor:"○\"그래서 네가 그들에게 이 모든 말을 전하더라도, 그들은 여전히 듣지 않을 것이다. 또 네가 그들에게 외치더라도, 그들이 너에게 아무런 반응도 보이지 않을 것이다.",
     Chn:"「你要将这一切的话告诉他们，他们却不听从；呼唤他们，他们却不答应。",
     Eng:"\"When you tell them all this, they will not listen to you; when you call to them, they will not answer.",
     Ind:"Sekalipun engkau mengatakan kepada mereka segala perkara ini, mereka tidak akan mendengarkan perkataanmu, dan sekalipun engkau berseru kepada mereka, mereka tidak akan menjawab engkau."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:28, Page:1,
-    Kor:"그들은 자기들의 하나님인 나 주의 말에 순종하지도 않고, 어떤 교훈도 받아들이지 않는 백성이다. 진실이 아주 없어졌다. 그들의 입에서 진실이 사라진지 이미 오래다. 그러므로 너는 그들에게 이렇게 전하여라.",
+    Kor:"그들은 자기들의 하나님인 나 주의 말에 순종하지도 않고, 어떤 교훈도 받아들이지 않는 백성이다. 진실이 아주 없어졌다. 그들의 입에서 진실이 사라진지 이미 오래다. 그러므로 너는 그들에게 다음과 같이 전하여라.",
     Chn:"你要对他们说：这就是不听从耶和华—他们　神的话、不受教训的国民；从他们的口中，诚实灭绝了。」",
     Eng:"Therefore say to them, 'This is the nation that has not obeyed the LORD its God or responded to correction. Truth has perished; it has vanished from their lips.",
     Ind:"Sebab itu, katakanlah kepada mereka: Inilah bangsa yang tidak mau mendengarkan suara TUHAN, Allah mereka, dan yang tidak mau menerima penghajaran! Ketulusan mereka sudah lenyap, sudah hapus dari mulut mereka.\""
   },
   {Bible:"Jeremiah", Chapter:7, Verse:29, Page:1,
-    Kor:"'예루살렘아, 너는 긴 머리채를 잘라서 던지고, 메마른 언덕 위에 올라가서 슬피 울어라. 주님께서는 이 세대를 보시고 진노하셔서, 이 세대를 물리쳐 버리셨다.'\"",
+    Kor:"'예루살렘아, 너는 긴 머리채를 잘라서 던지고, 메마른 언덕 위에 올라가서 슬피 울어라. 주께서는 이 세대를 보시고 진노하셔서, 이 세대를 물리쳐 버리셨다.'\"",
     Chn:"耶路撒冷啊，要剪发抛弃， 在净光的高处举哀； 因为耶和华丢掉离弃了惹他忿怒的世代。",
     Eng:"Cut off your hair and throw it away; take up a lament on the barren heights, for the LORD has rejected and abandoned this generation that is under his wrath.",
     Ind:"Cukurlah rambut kepalamu dan buanglah! Angkatlah ratapan di atas bukit-bukit gundul, sebab TUHAN telah menolak dan membuang bangsa yang kena murka-Nya!"
@@ -189,7 +189,7 @@ BibleDB.add([
     Ind:"Mereka telah mendirikan bukit pengorbanan yang bernama Tofet di Lembah Ben-Hinom untuk membakar anak-anaknya lelaki dan perempuan, suatu hal yang tidak pernah Kuperintahkan dan yang tidak pernah timbul dalam hati-Ku."
   },
   {Bible:"Jeremiah", Chapter:7, Verse:32, Page:1,
-    Kor:"○그러므로 보아라, 그 날이 오면, 다시는 이 곳을 도벳이나 '힌놈의 아들 골짜기'라고 부르지 않고, 오히려 '살육의 골짜기'라고 부를 것이다. 나 주의 말이다. 그 때에는 매장할 자리가 더 이상 없어서, 사람들이 도벳에 와서 시체를 묻을 것이다.",
+    Kor:"○그러므로 보아라, 그 날이 오면, 다시는 이 곳을 도벳이나 '힌놈의 아들 골짜기' 라고 부르지 않고, 오히려 '살육의 골짜기'라고 부를 것이다. 나 주의 말이다. 그 때에는 매장할 자리가 더 이상 없어서, 사람들이 도벳에 와서 시체를 묻을 것이다.",
     Chn:"耶和华说：「因此，日子将到，这地方不再称为陀斐特和欣嫩子谷，反倒称为杀戮谷。因为要在陀斐特葬埋尸首，甚至无处可葬；",
     Eng:"So beware, the days are coming, declares the LORD, when people will no longer call it Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter, for they will bury the dead in Topheth until there is no more room.",
     Ind:"Sebab itu, sesungguhnya, waktunya akan datang, demikianlah firman TUHAN, bahwa orang tidak akan mengatakan lagi \"Tofet\" dan \"Lembah Ben-Hinom\", melainkan \"Lembah Pembunuhan\"; orang akan menguburkan mayat di Tofet karena kekurangan tempat,"

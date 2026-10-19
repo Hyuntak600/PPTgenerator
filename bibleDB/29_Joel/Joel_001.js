@@ -3,13 +3,13 @@
 BibleDB.ref("Joel",1,20);
 BibleDB.add([
   {Bible:"Joel", Chapter:1, Verse:1, Page:1,
-    Kor:"이것은 주님께서 브두엘의 아들 요엘에게 하신 말씀이다.",
+    Kor:"이것은 주께서 브두엘의 아들 요엘에게 하신 말씀이다.",
     Chn:"耶和华的话临到毗土珥的儿子约珥。",
     Eng:"The word of the LORD that came to Joel son of Pethuel.",
     Ind:"Firman TUHAN yang datang kepada Yoel bin Petuel."
   },
   {Bible:"Joel", Chapter:1, Verse:2, Page:1,
-    Kor:"<농사를 망친 백성의 통곡> 나이 많은 사람들아, 들어라! 유다 땅에 사는 사람들아, 모두 귀를 기울여라! 너희가 살고 있는 지금이나 너희 조상이 살던 지난 날에, 이런 일이 일어난 적이 있느냐?",
+    Kor:"나이 많은 사람들아, 들어라! 유다 땅에 사는 사람들아, 모두 귀를 기울여라! 너희가 살고 있는 지금이나 너희 조상이 살던 지난 날에, 이런 일이 일어난 적이 있느냐?",
     Chn:"老年人哪，当听我的话； 国中的居民哪，都要侧耳而听。 在你们的日子， 或你们列祖的日子， 曾有这样的事吗？",
     Eng:"Hear this, you elders; listen, all who live in the land. Has anything like this ever happened in your days or in the days of your forefathers?",
     Ind:"Dengarlah ini, hai para tua-tua, pasanglah telinga, hai seluruh penduduk negeri! Pernahkah terjadi seperti ini dalam zamanmu, atau dalam zaman nenek moyangmu?"
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Ceritakanlah tentang itu kepada anak-anakmu, dan biarlah anak-anakmu menceritakannya kepada anak-anak mereka, dan anak-anak mereka kepada angkatan yang kemudian."
   },
   {Bible:"Joel", Chapter:1, Verse:4, Page:1,
-    Kor:"a풀무치가 남긴 것은 메뚜기가 갉아 먹고, 메뚜기가 남긴 것은 누리가 썰어 먹고, 누리가 남긴 것은 황충이 말끔히 먹어 버렸다. (a 여기에서 진술된 것이 메뚜기의 종류를 말하는 것인지, 메뚜기의 성장 과정 네 단계를 말하는 것인지는 알 수 없음)",
+    Kor:"풀무치가 남긴 것은 메뚜기가 갉아 먹고, 메뚜기가 남긴 것은 누리가 썰어 먹고, 누리가 남긴 것은 황충이 말끔히 먹어 버렸다.",
     Chn:"剪虫剩下的，蝗虫来吃； 蝗虫剩下的，蝻子来吃； 蝻子剩下的，蚂蚱来吃。",
     Eng:"What the locust swarm has left the great locusts have eaten; what the great locusts have left the young locusts have eaten; what the young locusts have left other locusts have eaten.",
     Ind:"Apa yang ditinggalkan belalang pengerip telah dimakan belalang pindahan, apa yang ditinggalkan belalang pindahan telah dimakan belalang pelompat, dan apa yang ditinggalkan belalang pelompat telah dimakan belalang pelahap."
@@ -45,7 +45,7 @@ BibleDB.add([
     Ind:"Telah dibuatnya pohon anggurku menjadi musnah, dan pohon araku menjadi buntung; dikelupasnya kulitnya sama sekali dan dilemparkannya, sehingga carang-carangnya menjadi putih."
   },
   {Bible:"Joel", Chapter:1, Verse:8, Page:1,
-    Kor:"백성아, 울어라! b약혼자를 잃고 슬퍼하는 c처녀처럼, 굵은 베 옷을 걸치고 울어라. (b 또는 '남편' c 또는 '젊은 여인')",
+    Kor:"백성아, 울어라! 약혼자를 잃고 슬퍼하는 처녀처럼, 굵은 베 옷을 걸치고 울어라.",
     Chn:"我的民哪，你当哀号，像处女腰束麻布， 为幼年的丈夫哀号。",
     Eng:"Mourn like a virgin in sackcloth grieving for the husband of her youth.",
     Ind:"Merataplah seperti anak dara yang berlilitkan kain kabung karena mempelai, kekasih masa mudanya."
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Korban sajian dan korban curahan sudah lenyap dari rumah TUHAN; dan berkabunglah para imam, yakni pelayan-pelayan TUHAN."
   },
   {Bible:"Joel", Chapter:1, Verse:10, Page:1,
-    Kor:"밭이 황폐하구나. 곡식이 다 죽고, 포도송이가 말라 쪼그라들고, 올리브 열매가 말라 비틀어지니, d땅이 통곡하는구나. (d 또는 '땅이 말라 버렸다')",
+    Kor:"밭이 황폐하구나. 곡식이 다 죽고, 포도송이가 말라 쪼그라들고, 올리브 열매가 말라 비틀어지니, 땅이 통곡하는구나.",
     Chn:"田荒凉，地悲哀； 因为五谷毁坏， 新酒干竭，油也缺乏。",
     Eng:"The fields are ruined, the ground is dried up; the grain is destroyed, the new wine is dried up, the oil fails.",
     Ind:"Ladang sudah musnah, tanah berkabung, sebab gandum sudah musnah, buah anggur sudah kering, minyak sudah menipis."
@@ -81,13 +81,13 @@ BibleDB.add([
     Ind:"Lilitkanlah kain kabung dan mengeluhlah, hai para imam; merataplah, hai para pelayan mezbah; masuklah, bermalamlah dengan memakai kain kabung, hai para pelayan Allahku, sebab sudah ditahan dari rumah Allahmu, korban sajian dan korban curahan."
   },
   {Bible:"Joel", Chapter:1, Verse:14, Page:1,
-    Kor:"거룩한 금식을 선포하고, 성회를 열어라. 장로들과 유다 땅에 사는 모든 백성을 불러 주 너희 하나님의 성전에 모으고, 주님께 부르짖어라.",
+    Kor:"거룩한 금식을 선포하고, 성회를 열어라. 장로들과 유다 땅에 사는 모든 백성을 불러 주 너희 하나님의 성전에 모으고, 주께 부르짖어라.",
     Chn:"你们要分定禁食的日子， 宣告严肃会， 招聚长老和国中的一切居民 到耶和华—你们　神的殿， 向耶和华哀求。",
     Eng:"Declare a holy fast; call a sacred assembly. Summon the elders and all who live in the land to the house of the LORD your God, and cry out to the LORD.",
     Ind:"Adakanlah puasa yang kudus, maklumkanlah perkumpulan raya; kumpulkanlah para tua-tua dan seluruh penduduk negeri ke rumah TUHAN, Allahmu, dan berteriaklah kepada TUHAN."
   },
   {Bible:"Joel", Chapter:1, Verse:15, Page:1,
-    Kor:"슬프다, 그 날이여! 주님께서 심판하실 날이 다가왔다. e전능하신 분께서 보내신 바로 그 파멸의 날이 다가왔다. (e 히, '샤다이')",
+    Kor:"슬프다, 그 날이여! 주께서 심판하실 날이 다가왔다. 전능하신 분께서 보내신 바로 그 파멸의 날이 다가왔다.",
     Chn:"哀哉！耶和华的日子临近了。 这日来到，好像毁灭从全能者来到。",
     Eng:"Alas for that day! For the day of the LORD is near; it will come like destruction from the Almighty.",
     Ind:"Wahai, hari itu! Sungguh, hari TUHAN sudah dekat, datangnya sebagai pemusnahan dari Yang Mahakuasa."
@@ -111,13 +111,13 @@ BibleDB.add([
     Ind:"Betapa mengeluhnya hewan dan gempar kawanan-kawanan lembu, sebab tidak ada lagi padang rumput baginya; juga kawanan kambing domba terkejut."
   },
   {Bible:"Joel", Chapter:1, Verse:19, Page:1,
-    Kor:"\"주님, 제가 주님께 부르짖습니다. 불볕에 광야의 풀이 모두 타 죽고, 들의 나무가 이글거리는 불꽃에 모두 타 버렸습니다.",
+    Kor:"주님, 제가 주께 부르짖습니다. 불볕에 광야의 풀이 모두 타 죽고, 들의 나무가 이글거리는 불꽃에 모두 타 버렸습니다.",
     Chn:"耶和华啊，我向你求告， 因为火烧灭旷野的草场； 火焰烧尽田野的树木。",
     Eng:"To you, O LORD, I call, for fire has devoured the open pastures and flames have burned up all the trees of the field.",
     Ind:"Kepada-Mu, ya TUHAN, aku berseru, sebab api telah memakan habis tanah gembalaan di padang gurun, dan nyala api telah menghanguskan segala pohon di padang."
   },
   {Bible:"Joel", Chapter:1, Verse:20, Page:1,
-    Kor:"시내에도 물이 마르고 광야의 초원이 다 말라서, 들짐승도 주님께 부르짖습니다.\"",
+    Kor:"시내에도 물이 마르고 광야의 초원이 다 말라서, 들짐승도 주께 부르짖습니다.",
     Chn:"田野的走兽向你发喘； 因为溪水干涸， 火也烧灭旷野的草场。",
     Eng:"Even the wild animals pant for you; the streams of water have dried up and fire has devoured the open pastures.",
     Ind:"Juga binatang-binatang di padang menjerit karena rindu kepada-Mu, sebab wadi telah kering, dan apipun telah memakan habis tanah gembalaan di padang gurun."

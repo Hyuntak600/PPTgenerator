@@ -3,7 +3,7 @@
 BibleDB.ref("Psalms",81,16);
 BibleDB.add([
   {Bible:"Psalms", Chapter:81, Verse:1, Page:1,
-    Kor:"<아삽의 시, 지휘자를 따라 a깃딧에 맞추어 부르는 노래> 우리의 피난처이신 하나님께 즐거이 노래를 불러라. 야곱의 하나님께 큰 환성을 올려라. (a 음악 용어)",
+    Kor:"우리의 힘이신 하나님께 즐거이 노래를 불러라. 야곱의 하나님께 큰 환성을 올려라.",
     Chn:"亚萨的诗，交与伶长。用迦特乐器。 你们当向　神—我们的力量大声欢呼， 向雅各的　神发声欢乐！",
     Eng:"Sing for joy to God our strength; shout aloud to the God of Jacob!",
     Ind:"Untuk pemimpin biduan. Menurut lagu: Gitit. Dari Asaf. (81-2) Bersorak-sorailah bagi Allah, kekuatan kita, bersorak-soraklah bagi Allah Yakub."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"(81-4) Tiuplah sangkakala pada bulan baru, pada bulan purnama, pada hari raya kita."
   },
   {Bible:"Psalms", Chapter:81, Verse:4, Page:1,
-    Kor:"이것은 이스라엘이 지킬 율례요, 야곱의 하나님이 주신 규례이며,",
+    Kor:"이것은 이스라엘이 지킬 율례요, 야곱의 하나님이 주신 규례다.",
     Chn:"因这是为以色列定的律例， 是雅各　神的典章。",
     Eng:"this is a decree for Israel, an ordinance of the God of Jacob.",
     Ind:"(81-5) Sebab hal itu adalah suatu ketetapan bagi Israel, suatu hukum dari Allah Yakub."
   },
   {Bible:"Psalms", Chapter:81, Verse:5, Page:1,
-    Kor:"하나님이 이집트 땅을 치려고 나가실 때에, 요셉에게 내리신 훈령이기 때문이다. 나는, 내가 알지 못하던 한 소리를 들었다. 주님께서 말씀하셨다.",
+    Kor:"하나님이 이집트 땅을 치려고 나가실 때에, 요셉에게 내리신 훈령이기 때문이다. 나는, 내가 알지 못하던 한 소리를 들었다. 주께서 말씀하셨다.",
     Chn:"他去攻击埃及地的时候， 在约瑟中间立此为证。 我在那里听见我所不明白的言语：",
     Eng:"He established it as a statute for Joseph when he went out against Egypt, where we heard a language we did not understand.",
     Ind:"(81-6) Sebagai suatu peringatan bagi Yusuf ditetapkan-Nya hal itu, pada waktu Ia maju melawan tanah Mesir. Aku mendengar bahasa yang tidak kukenal:"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"(81-7) \"Aku telah mengangkat beban dari bahunya, tangannya telah bebas dari keranjang pikulan;"
   },
   {Bible:"Psalms", Chapter:81, Verse:7, Page:1,
-    Kor:"너희가 고난 가운데 부르짖을 때에, 내가 건져 주고, 천둥치는 먹구름 속에서 내가 대답하고, 므리바 물 가에서는 내가 너를 시험하기도 하였다. (셀라)",
+    Kor:"너희가 고난 가운데 부르짖을 때에, 내가 건져 주고, 천둥소리 속 은밀한 곳에서 내가 대답하고, 므리바 물 가에서는 내가 너를 시험하기도 하였다. (셀라)",
     Chn:"你在急难中呼求，我就搭救你； 我在雷的隐密处应允你， 在米利巴水那里试验你。 （细拉）",
     Eng:"In your distress you called and I rescued you, I answered you out of a thundercloud; I tested you at the waters of Meribah. Selah",
     Ind:"(81-8) dalam kesesakan engkau berseru, maka Aku meluputkan engkau; Aku menjawab engkau dalam persembunyian guntur, Aku telah menguji engkau dekat air Meriba. Sela"
   },
   {Bible:"Psalms", Chapter:81, Verse:8, Page:1,
-    Kor:"내 백성아, 들어라. 내가 너에게 경고하겠다. 이스라엘아, 나는 네가 내 말을 듣기를 바란다.",
+    Kor:"내 백성아, 들어라. 내가 너를 훈계하겠다. 이스라엘아, 나는 네가 내 말을 듣기를 바란다.",
     Chn:"我的民哪，你当听，我要劝戒你； 以色列啊，甚愿你肯听从我。",
     Eng:"\"Hear, O my people, and I will warn you--if you would but listen to me, O Israel!",
     Ind:"(81-9) Dengarlah hai umat-Ku, Aku hendak memberi peringatan kepadamu; hai Israel, jika engkau mau mendengarkan Aku!"
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"(81-15) Seketika itu juga musuh mereka Aku tundukkan, dan terhadap para lawan mereka Aku balikkan tangan-Ku."
   },
   {Bible:"Psalms", Chapter:81, Verse:15, Page:1,
-    Kor:"나를 미워하는 자들은 그들 앞에 무릎을 꿇었을 것이며, 이것이 그들의 영원한 운명이 되었을 것이다.",
+    Kor:"나를 미워하는 자들은 내 앞에 무릎을 꿇렸을 것이며, 그들의 형벌은 영원히 계속되었을 것이다.",
     Chn:"恨耶和华的人必来投降， 但他的百姓必永久长存。",
     Eng:"Those who hate the LORD would cringe before him, and their punishment would last forever.",
     Ind:"(81-16) Orang-orang yang membenci TUHAN akan tunduk menjilat kepada-Nya, dan itulah nasib mereka untuk selama-lamanya."
   },
   {Bible:"Psalms", Chapter:81, Verse:16, Page:1,
-    Kor:"그리고 나는 기름진 밀 곡식으로 너희를 먹였을 것이고, 바위에서 따 낸 꿀로 너희를 배부르게 하였을 것이다.",
+    Kor:"그리고 나는 기름진 밀 곡식으로 너희를 먹였을 것이고, 바위에서 따 낸 꿀로 너희를 배부르게 하였을 것이다. 그러나 너희는 내 말을 듣지 않았다!\"",
     Chn:"他也必拿上好的麦子给他们吃， 又拿从磐石出的蜂蜜叫他们饱足。",
     Eng:"But you would be fed with the finest of wheat; with honey from the rock I would satisfy you.\"",
     Ind:"(81-17) Tetapi umat-Ku akan Kuberi makan gandum yang terbaik dan dengan madu dari gunung batu Aku akan mengenyangkannya.\""

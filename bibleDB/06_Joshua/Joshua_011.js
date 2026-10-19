@@ -3,7 +3,7 @@
 BibleDB.ref("Joshua",11,23);
 BibleDB.add([
   {Bible:"Joshua", Chapter:11, Verse:1, Page:1,
-    Kor:"<가나안 북방을 정복하다> 하솔 왕 야빈이 이 소식을 듣고, 마돈 왕 요밥과 시므론의 왕과 악삽의 왕과,",
+    Kor:"하솔 왕 야빈이 이 소식을 듣고, 마돈 왕 요밥과 시므론의 왕과 악삽의 왕과,",
     Chn:"夏琐王耶宾听见这事，就打发人去见玛顿王约巴、伸 王、押煞王，",
     Eng:"When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the kings of Shimron and Acshaph,",
     Ind:"Setelah hal itu terdengar kepada Yabin, raja Hazor, diutusnyalah orang kepada Yobab, raja Madon, dan kepada raja negeri Simron, kepada raja negeri Akhsaf,"
@@ -33,25 +33,25 @@ BibleDB.add([
     Ind:"Raja-raja ini bersekutu dan datang berkemah bersama-sama dekat mata air Merom untuk memerangi orang Israel."
   },
   {Bible:"Joshua", Chapter:11, Verse:6, Page:1,
-    Kor:"○그 때에 주님께서 여호수아에게 말씀하셨다. \"그들 앞에서 두려워하지 말아라. 내일 이맘 때에 내가 그들을 이스라엘 앞에서 다 죽이겠다. 너는 그들의 말 뒷발의 힘줄을 끊고, 그들의 병거를 불태워라.\"",
+    Kor:"○그 때에 주께서 여호수아에게 말씀하셨다. \"그들 앞에서 두려워하지 말아라. 내일 이맘 때에 내가 그들을 이스라엘 앞에서 다 죽이겠다. 너는 그들의 말 뒷발의 힘줄을 끊고, 그들의 병거를 불태워라.\"",
     Chn:"耶和华对约书亚说：「你不要因他们惧怕。明日这时，我必将他们交付以色列人全然杀了。你要砍断他们马的蹄筋，用火焚烧他们的车辆。」",
     Eng:"The LORD said to Joshua, \"Do not be afraid of them, because by this time tomorrow I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots.\"",
     Ind:"Lalu TUHAN berkata kepada Yosua: \"Janganlah takut menghadapi mereka, sebab besok kira-kira waktu ini Aku menyerahkan mereka mati terbunuh semuanya kepada orang Israel. Kuda mereka haruslah kamu lumpuhkan dan kereta mereka haruslah kamu bakar dengan api.\""
   },
   {Bible:"Joshua", Chapter:11, Verse:7, Page:1,
-    Kor:"여호수아는 자기를 따르는 모든 군인과 더불어 갑작스럽게 메롬 물 가로 들이닥쳐서, 그들을 덮쳤다.",
+    Kor:"여호수아는 자기와 함께 하는 모든 군인과 더불어, 갑작스럽게 메롬 물 가로 들이닥쳐서, 그들을 덮쳤다.",
     Chn:"于是约书亚率领一切兵丁，在米伦水边突然向前攻打他们。",
     Eng:"So Joshua and his whole army came against them suddenly at the Waters of Merom and attacked them,",
     Ind:"Lalu Yosua dengan seluruh tentaranya mendatangi mereka dengan tiba-tiba dekat mata air Merom, dan menyerbu mereka."
   },
   {Bible:"Joshua", Chapter:11, Verse:8, Page:1,
-    Kor:"주님께서 그들을 이스라엘의 손에 넘겨 주셨기 때문에, 이스라엘은 그들을 무찌르고, 큰 시돈과 a미스르봇마임과, 동쪽으로 미스바 골짜기까지 추격하고, 살아 남은 사람이 한 사람도 없을 때까지 그들을 쳐서 죽였다.(a '불타는 물'. 온천지대를 말함)",
+    Kor:"주께서 그들을 이스라엘의 손에 넘겨 주셨기 때문에, 이스라엘은 그들을 무찌르고, 큰 시돈과 미스르봇마임과, 동쪽으로 미스바 골짜기까지 추격하고, 살아 남은 사람이 한 사람도 없을 때까지 그들을 쳐서 죽였다.",
     Chn:"耶和华将他们交在以色列人手里，以色列人就击杀他们，追赶他们到西顿大城，到米斯利弗·玛音，直到东边米斯巴的平原，将他们击杀，没有留下一个。",
     Eng:"and the LORD gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left.",
     Ind:"Dan TUHAN menyerahkan mereka kepada orang Israel. Mereka dikalahkan dan dikejar sampai Sidon-Besar dan sampai Misrefot-Maim, dan sampai lembah Mizpa yang di sebelah timur. Demikianlah mereka dihancurkan, sehingga tidak seorangpun dari mereka yang dibiarkan lolos."
   },
   {Bible:"Joshua", Chapter:11, Verse:9, Page:1,
-    Kor:"여호수아는 주님께서 자기에게 명하신 대로 하여, 그들의 말 뒷발의 힘줄을 끊고 그들의 병거를 불살랐다.",
+    Kor:"여호수아는, 주께서 자기에게 명하신 대로 하여, 그들의 말 뒷발의 힘줄을 끊고 그들의 병거를 불살랐다.",
     Chn:"约书亚就照耶和华所吩咐他的去行，砍断他们马的蹄筋，用火焚烧他们的车辆。",
     Eng:"Joshua did to them as the LORD had directed: He hamstrung their horses and burned their chariots.",
     Ind:"Yosua melakukan terhadap mereka seperti yang difirmankan TUHAN kepadanya: kuda mereka dilumpuhkan dan kereta mereka dibakar dengan api."
@@ -63,13 +63,13 @@ BibleDB.add([
     Ind:"Pada waktu itu Yosua kembali, direbutnya Hazor, dan rajanya dibunuhnya dengan mata pedang. Sebab Hazor pada waktu dahulu adalah yang terutama di antara segala kerajaan itu."
   },
   {Bible:"Joshua", Chapter:11, Verse:11, Page:1,
-    Kor:"그 하솔 성 안에 있는 모든 사람을, b전멸시켜서 바치는 희생제물로 삼아 칼로 쳤고, 호흡이 있는 사람은 하나도 남겨 두지 않았으며, 그 성은 불질렀다.(b 히브리어 '헤렘'은 사람이나 물건을 완전히 파멸시켜 주님께 바치는 것을 뜻함(6:17, 18, 21; 7:1, 11, 12, 13, 15; 8:26; 10:1, 28, 35, 37, 39, 40; 11:11, 12, 20, 21; 22:20). 가지면 안 되는 것, 손을 대었다가는 멸망받게끔 저주받은 것. '전멸시켜 주님께 제물로 바치다', '전멸시켜서 희생제물로 바치다', '전멸시켜서 바치는 희생제물', '전멸시켜서 주님께 바쳐야 할 물건' '전멸시켜야 할 물건' 등으로 번역함)",
+    Kor:"그 하솔 성 안에 있는 모든 사람을, 전멸시켜서 바치는 희생제물로 삼아 칼로 쳤고, 호흡이 있는 사람은 하나도 남겨 두지 않았으며, 그 성은 불질렀다.",
     Chn:"以色列人用刀击杀城中的人口，将他们尽行杀灭；凡有气息的没有留下一个。约书亚又用火焚烧夏琐。",
     Eng:"Everyone in it they put to the sword. They totally destroyed them, not sparing anything that breathed, and he burned up Hazor itself.",
     Ind:"Semua makhluk yang ada di dalamnya dibunuhnya dengan mata pedang, sambil menumpas orang-orang itu. Tidak ada yang tinggal hidup dari semua yang bernafas dan Hazor dibakarnya."
   },
   {Bible:"Joshua", Chapter:11, Verse:12, Page:1,
-    Kor:"○여호수아는 이 모든 왕의 도성을 점령하고, 그 왕들을 모두 잡아 칼로 쳐서, 주님의 종 모세의 명령을 따라 그들을 전멸시켜서 희생제물로 바쳤다.",
+    Kor:"○여호수아는 이 모든 왕의 도성을 점령하고, 그 왕들을 모두 잡아 칼로 쳐서, 주의 종 모세의 명령을 따라 그들을 전멸시켜서 희생제물로 바쳤다.",
     Chn:"约书亚夺了这些王的一切城邑，擒获其中的诸王，用刀击杀他们，将他们尽行杀灭，正如耶和华仆人摩西所吩咐的。",
     Eng:"Joshua took all these royal cities and their kings and put them to the sword. He totally destroyed them, as Moses the servant of the LORD had commanded.",
     Ind:"Selanjutnya segala kota kepunyaan raja-raja itu dan semua rajanya dikalahkan Yosua dan dibunuhnya dengan mata pedang. Mereka ditumpasnya seperti yang diperintahkan Musa, hamba TUHAN itu."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Segala barang dari kota-kota itu serta ternaknya telah dijarah orang Israel. Tetapi manusia semuanya dibunuh mereka dengan mata pedang, sehingga orang-orang itu dipunahkan mereka. Tidak ada yang ditinggalkan hidup dari semua yang bernafas."
   },
   {Bible:"Joshua", Chapter:11, Verse:15, Page:1,
-    Kor:"모세는 주님께서 자기에게 명하신 대로 여호수아에게 명하였고, 여호수아는 그대로 실행하여, 주님께서 모세에게 명하신 것 가운데서 실행하지 않고 남겨 둔 것은 하나도 없었다.",
+    Kor:"모세는, 주께서 자기에게 명하신 대로 여호수아에게 명하였고, 여호수아는 그대로 실행하여, 주께서 모세에게 명하신 것 가운데서, 실행하지 않고 남겨 둔 것은 하나도 없었다.",
     Chn:"耶和华怎样吩咐他仆人摩西，摩西就照样吩咐约书亚，约书亚也照样行。凡耶和华所吩咐摩西的，约书亚没有一件懈怠不行的。",
     Eng:"As the LORD commanded his servant Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone of all that the LORD commanded Moses.",
     Ind:"Seperti yang diperintahkan TUHAN kepada Musa, hamba-Nya itu, demikianlah diperintahkan Musa kepada Yosua dan seperti itulah dilakukan Yosua: tidak ada sesuatu yang diabaikannya dari segala yang diperintahkan TUHAN kepada Musa."
   },
   {Bible:"Joshua", Chapter:11, Verse:16, Page:1,
-    Kor:"<여호수아가 정복한 지역> ○이렇게 여호수아는 이 모든 땅 곧 산간지방과 네겝 지방과 모든 고센 땅과 평지와 아라바와 이스라엘의 산간지방과 평지를 다 점령하였다.",
+    Kor:"○이렇게 여호수아는 이 모든 땅, 곧 산간지방과 네겝 지방과 모든 고센 땅과 평지와 아라바와 이스라엘의 산간지방과 평지를 다 점령하였다.",
     Chn:"约书亚夺了那全地，就是山地、一带南地、歌珊全地、高原、亚拉巴、以色列的山地，和山下的高原。",
     Eng:"So Joshua took this entire land: the hill country, all the Negev, the whole region of Goshen, the western foothills, the Arabah and the mountains of Israel with their foothills,",
     Ind:"Demikianlah Yosua merebut seluruh negeri itu, pegunungan, seluruh Tanah Negeb, seluruh tanah Gosyen, Daerah Bukit, serta Araba-Yordan, dan Pegunungan Israel dengan tanah rendahnya;"
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Tidak ada satu kotapun yang mengadakan ikatan persahabatan dengan orang Israel, selain dari pada orang Hewi yang diam di Gibeon itu, semuanya telah direbut mereka dengan berperang."
   },
   {Bible:"Joshua", Chapter:11, Verse:20, Page:1,
-    Kor:"여호수아가 이들 원주민을 조금도 불쌍하게 여기지 않고 전멸시켜서 희생제물로 바친 까닭은, 주님께서 그 원주민들이 고집을 부리게 하시고, 이스라엘에 대항하여 싸우다가 망하도록 하셨기 때문이다. 그래서 여호수아는, 주님께서 모세에게 명령하신 대로, 그들을 전멸시킨 것이다.",
+    Kor:"여호수아가 이들 원주민을 조금도 불쌍하게 여기지 않고 전멸시켜서 희생제물로 바친 까닭은, 주께서 그 원주민들이 고집을 부리게 하시고, 이스라엘에 대항하여 싸우다가 망하도록 하셨기 때문이다. 그래서 여호수아는, 주께서 모세에게 명령하신 대로, 그들을 전멸시킨 것이다.",
     Chn:"因为耶和华的意思是要使他们心里刚硬，来与以色列人争战，好叫他们尽被杀灭，不蒙怜悯，正如耶和华所吩咐摩西的。",
     Eng:"For it was the LORD himself who hardened their hearts to wage war against Israel, so that he might destroy them totally, exterminating them without mercy, as the LORD had commanded Moses.",
     Ind:"Karena TUHAN yang menyebabkan hati orang-orang itu menjadi keras, sehingga mereka berperang melawan orang Israel, supaya mereka ditumpas, dan jangan dikasihani, tetapi dipunahkan, seperti yang diperintahkan TUHAN kepada Musa."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tidak ada lagi orang Enak ditinggalkan hidup di negeri orang Israel; hanya di Gaza, di Gat dan di Asdod masih ada yang tertinggal."
   },
   {Bible:"Joshua", Chapter:11, Verse:23, Page:1,
-    Kor:"○여호수아는, 주님께서 모세에게 말씀하신 대로, 모든 땅을 점령하고, 그것을 이스라엘 지파의 구분을 따라 유산으로 주었다. ○그래서 그 땅에서는 전쟁이 그치고, 사람들은 평화를 누리게 되었다.",
+    Kor:"○여호수아는, 주께서 모세에게 말씀하신 대로, 모든 땅을 점령하고, 그것을 이스라엘 지파의 구분을 따라 유산으로 주었다. ○그래서 그 땅에서는 전쟁이 그치고, 사람들은 평화를 누리게 되었다.",
     Chn:"这样，约书亚照着耶和华所吩咐摩西的一切话夺了那全地，就按着以色列支派的宗族将地分给他们为业。于是国中太平，没有争战了。",
     Eng:"So Joshua took the entire land, just as the LORD had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.",
     Ind:"Demikianlah Yosua merebut seluruh negeri itu sesuai dengan segala yang difirmankan TUHAN kepada Musa. Dan Yosuapun memberikan negeri itu kepada orang Israel menjadi milik pusaka mereka, menurut pembagian suku mereka. Lalu amanlah negeri itu, berhenti dari berperang."

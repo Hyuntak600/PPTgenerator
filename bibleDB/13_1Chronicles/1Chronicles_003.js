@@ -3,7 +3,7 @@
 BibleDB.ref("1Chronicles",3,24);
 BibleDB.add([
   {Bible:"1Chronicles", Chapter:3, Verse:1, Page:1,
-    Kor:"<다윗 왕의 자녀> 다윗이 헤브론에서 낳은 아들은 다음과 같다. 이스르엘 여인 아히노암에게서 낳은 맏아들 암논과, 갈멜 여인 아비가일에게서 낳은 둘째 아들 다니엘과,",
+    Kor:"다윗이 헤브론에서 낳은 아들은 다음과 같다. 이스르엘 여인 아히노암에게서 낳은 맏아들 암논과, 갈멜 여인 아비가일에게서 낳은 둘째 아들 다니엘과,",
     Chn:"大卫在希伯 所生的儿子记在下面：长子暗嫩是耶斯列人亚希暖生的。次子但以利是迦密人亚比该生的。",
     Eng:"These were the sons of David born to him in Hebron: The firstborn was Amnon the son of Ahinoam of Jezreel; the second, Daniel the son of Abigail of Carmel;",
     Ind:"Inilah anak-anak Daud yang lahir bagi dia di Hebron; anak sulung ialah Amnon, dari Ahinoam, perempuan Yizreel; anak yang kedua ialah Daniel, dari Abigail, perempuan Karmel;"
@@ -27,7 +27,7 @@ BibleDB.add([
     Ind:"Enam orang lahir bagi dia di Hebron, di mana ia memerintah tujuh tahun enam bulan lamanya; dan tiga puluh tiga tahun lamanya ia memerintah di Yerusalem."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:5, Page:1,
-    Kor:"다윗이 예루살렘에서 낳은 아들들은 다음과 같다. ○시므아와 소밥과 나단과 솔로몬, 이 넷은 암미엘의 딸 a밧세바와의 사이에서 태어난 아들이다.(a 하나의 히브리어 사본과 불가타를 따름. 대다수의 히브리어 사본에는 '밧수아')",
+    Kor:"다윗이 예루살렘에서 낳은 아들들은 다음과 같다. ○시므아와 소밥과 나단과 솔로몬, 이 넷은 암미엘의 딸 밧세바와의 사이에서 태어난 아들이다.",
     Chn:"大卫在耶路撒冷所生的儿子是示米亚、朔罢、拿单、所罗门。这四人是亚米利的女儿拔·书亚生的。",
     Eng:"and these were the children born to him there: Shammua, Shobab, Nathan and Solomon. These four were by Bathsheba daughter of Ammiel.",
     Ind:"Inilah yang lahir bagi dia di Yerusalem: Simea, Sobab, Natan dan Salomo, empat orang dari Batsyua binti Amiel,"
@@ -39,13 +39,13 @@ BibleDB.add([
     Ind:"lalu Yibhar, Elisama, Elifelet,"
   },
   {Bible:"1Chronicles", Chapter:3, Verse:7, Page:1,
-    Kor:"노가와 네벡과 야비아와",
+    Kor:"노가와 네벡과 야비야와",
     Chn:"挪迦、尼斐、雅非亚、",
     Eng:"Nogah, Nepheg, Japhia,",
     Ind:"Nogah, Nefeg, Yafia,"
   },
   {Bible:"1Chronicles", Chapter:3, Verse:8, Page:1,
-    Kor:"엘리사마와 엘리아다와 엘리벨렛, 이렇게 아홉도",
+    Kor:"엘리사마와 엘랴다와 엘리벨렛, 이렇게 아홉도",
     Chn:"以利沙玛、以利雅大、以利法列，共九人。",
     Eng:"Elishama, Eliada and Eliphelet--nine in all.",
     Ind:"Elisama, Elyada dan Elifelet, sembilan orang."
@@ -57,13 +57,13 @@ BibleDB.add([
     Ind:"Semuanya itu anak-anak Daud, belum terhitung anak-anak dari gundik-gundik. Tamar ialah saudara perempuan mereka."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:10, Page:1,
-    Kor:"<솔로몬 왕의 자손> ○솔로몬의 아들은 르호보암이요, 그 아들은 아비야요, 그 아들은 아사요, 그 아들은 여호사밧이요,",
+    Kor:"○솔로몬의 아들은 르호보암이요, 그 아들은 아비야요, 그 아들은 아사요, 그 아들은 여호사밧이요,",
     Chn:"所罗门的儿子是罗波安；罗波安的儿子是亚比雅；亚比雅的儿子是亚撒；亚撒的儿子是约沙法；",
     Eng:"Solomon's son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,",
     Ind:"Keturunan Salomo ialah Rehabeam; anak orang ini ialah Abia; anak orang ini ialah Asa; anak orang ini ialah Yosafat;"
   },
   {Bible:"1Chronicles", Chapter:3, Verse:11, Page:1,
-    Kor:"그 아들은 b여호람이요, 그 아들은 아하시야요, 그 아들은 요아스요,(b 히, '요람'. 히브리 이름 '여호람'과 '요람'은 서로 바꾸어 쓸 수 있음)",
+    Kor:"그 아들은 여호람이요, 그 아들은 아하시야요, 그 아들은 요아스요,",
     Chn:"约沙法的儿子是约兰；约兰的儿子是亚哈谢；亚哈谢的儿子是约阿施；",
     Eng:"Jehoram his son, Ahaziah his son, Joash his son,",
     Ind:"anak orang ini ialah Yoram; anak orang ini ialah Ahazia; anak orang ini ialah Yoas;"
@@ -93,13 +93,13 @@ BibleDB.add([
     Ind:"Anak-anak Yosia: anak sulung ialah Yohanan, anak yang kedua ialah Yoyakim, anak yang ketiga ialah Zedekia dan anak yang keempat ialah Salum."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:16, Page:1,
-    Kor:"여호야김의 아들은 c여호야긴과 시드기야이다.(c 히, '여고냐'. 히브리 이름 '여호야긴'과 '여고냐'는 서로 바꾸어 쓸 수 있음)",
+    Kor:"여호야김의 아들은 여호야긴과 시드기야이다.",
     Chn:"约雅敬的儿子是耶哥尼雅和西底家。",
     Eng:"The successors of Jehoiakim: Jehoiachin his son, and Zedekiah.",
     Ind:"Keturunan Yoyakim ialah Yekhonya, anaknya itu, dan anak orang ini ialah Zedekia."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:17, Page:1,
-    Kor:"<여호야긴 왕의 자손> ○포로로 잡혀 간 여호야긴의 아들은 스알디엘과",
+    Kor:"○포로로 잡혀 간 여호야긴의 아들은 스알디엘과",
     Chn:"耶哥尼雅被掳。他的儿子是撒拉铁、",
     Eng:"The descendants of Jehoiachin the captive: Shealtiel his son,",
     Ind:"Anak-anak Yekhonya, orang kurungan itu, ialah Sealtiel, anaknya,"
@@ -135,13 +135,13 @@ BibleDB.add([
     Ind:"Anak-anak Sekhanya ialah Semaya, dan anak-anak Semaya ialah Hatus, Yigal, Bariah, Nearya dan Safat, enam orang."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:23, Page:1,
-    Kor:"느아랴의 아들은 엘료에내와 히스기야와 아스리감, 이렇게 셋이다.",
+    Kor:"느아랴의 아들은 에료에내와 히스기야와 아스리감, 이렇게 셋이다.",
     Chn:"尼利雅的儿子是以利约乃、希西家、亚斯利干，共三人。",
     Eng:"The sons of Neariah: Elioenai, Hizkiah and Azrikam--three in all.",
     Ind:"Anak-anak Nearya ialah Elyoenai, Hizkia, dan Azrikam, tiga orang."
   },
   {Bible:"1Chronicles", Chapter:3, Verse:24, Page:1,
-    Kor:"엘료에내의 아들은 호다위야와 엘리아십과 블라야와 악굽과 요하난과 들라야와 아나니, 이렇게 일곱이다.",
+    Kor:"에료에내의 아들은 호다위야와 엘리아십과 블라야와 악굽과 요하난과 들라야와 아나니, 이렇게 일곱이다.",
     Chn:"以利约乃的儿子是何大雅、以利亚实、毗莱雅、阿谷、约哈难、第莱雅、阿拿尼，共七人。",
     Eng:"The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani--seven in all.",
     Ind:"Anak-anak Elyoenai ialah Hodawya, Elyasib, Pelaya, Akub, Yohanan, Delaya dan Anani, tujuh orang."

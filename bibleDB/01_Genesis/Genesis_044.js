@@ -3,13 +3,13 @@
 BibleDB.ref("Genesis",44,34);
 BibleDB.add([
   {Bible:"Genesis", Chapter:44, Verse:1, Page:1,
-    Kor:"<잔이 없어지다> 요셉이 집 관리인에게 명령하였다. \"저 사람들이 가지고 갈 수 있을 만큼 많이, 자루에 곡식을 담으시오. 그들이 가지고 온 돈도 각 사람의 자루 아귀에 넣으시오.",
+    Kor:"요셉이 집 관리인에게 명령하였다. \"저 사람들이 가지고 갈 수 있을 만큼 많이, 자루에 곡식을 담아라. 그들이 가지고 온 돈도 각 사람의 자루 아귀에 넣어라.",
     Chn:"约瑟吩咐家宰说：「把粮食装满这些人的口袋，尽着他们的驴所能驮的，又把各人的银子放在各人的口袋里，",
     Eng:"Now Joseph gave these instructions to the steward of his house: \"Fill the men's sacks with  as much food as they can carry, and put each man's silver in the mouth of his sack.",
     Ind:"Sesudah itu diperintahkannyalah kepada kepala rumahnya: \"Isilah karung orang-orang itu dengan gandum, seberapa yang dapat dibawa mereka, dan letakkanlah uang masing-masing di dalam mulut karungnya."
   },
   {Bible:"Genesis", Chapter:44, Verse:2, Page:1,
-    Kor:"그리고 어린 아이의 자루에다가는, 곡식 값으로 가지고 온 돈과 내가 쓰는 은잔을 함께 넣으시오.\" 관리인은 요셉이 명령한 대로 하였다.",
+    Kor:"그리고 어린 아이의 자루에다가는, 곡식 값으로 가지고 온 돈과 내가 쓰는 은잔을 함께 넣어라.\" 관리인은 요셉이 명령한 대로 하였다.",
     Chn:"并将我的银杯和那少年人籴粮的银子一同装在他的口袋里。」家宰就照约瑟所说的话行了；",
     Eng:"Then put my cup, the silver one, in the mouth of the youngest one's sack, along with the  silver for his grain.\" And he did as Joseph said.",
     Ind:"Dan pialaku, piala perak itu, taruhlah di dalam mulut karung anak yang bungsu serta uang pembayar gandumnya juga.\" Maka diperbuatnyalah seperti yang dikatakan Yusuf."
@@ -21,13 +21,13 @@ BibleDB.add([
     Ind:"Ketika paginya hari terang tanah, orang melepas mereka beserta keledai mereka."
   },
   {Bible:"Genesis", Chapter:44, Verse:4, Page:1,
-    Kor:"그들이 아직 그 성읍에서 얼마 가지 않았을 때에, 요셉이 자기 집 관리인에게 말하였다. \"빨리 저 사람들의 뒤를 쫓아가시오. 그들을 따라잡거든, 그들에게 '너희는 왜 선을 악으로 갚느냐?",
+    Kor:"그들이 아직 그 성읍에서 얼마 가지 않았을 때에, 요셉이 자기 집 관리인에게 말하였다. \"빨리 저 사람들의 뒤를 쫓아가거라. 그들을 따라잡거든, 그들에게 '너희는 왜 선을 악으로 갚느냐?",
     Chn:"他们出城走了不远，约瑟对家宰说：「起来，追那些人去，追上了就对他们说：『你们为什么以恶报善呢？",
     Eng:"They had not gone far from the city when Joseph said to his steward, \"Go after those men at  once, and when you catch up with them, say to them, 'Why have you repaid good with evil?",
     Ind:"Tetapi baru saja mereka keluar dari kota itu, belum lagi jauh jaraknya, berkatalah Yusuf kepada kepala rumahnya: \"Bersiaplah, kejarlah orang-orang itu, dan apabila engkau sampai kepada mereka, katakanlah kepada mereka: Mengapa kamu membalas yang baik dengan yang jahat?"
   },
   {Bible:"Genesis", Chapter:44, Verse:5, Page:1,
-    Kor:"a어찌하려고 은잔을 훔쳐 가느냐? 그것은 우리 주인께서 마실 때에 쓰는 잔이요, 점을 치실 때에 쓰는 잔인 줄 몰랐느냐? 너희가 이런 일을 저지르다니, 매우 고약하구나!' 하고 호통을 치시오.\"(a 칠십인역과 불가타를 따름)",
+    Kor:"어찌하려고 은잔을 훔쳐 가느냐? 그것은 우리 주인께서 마실 때에 쓰는 잔이요, 점을 치실 때에 쓰는 잔인 줄 몰랐느냐? 너희가 이런 일을 저지르다니, 매우 고약하구나!' 하고 호통을 쳐라.\"",
     Chn:"这不是我主人饮酒的杯吗？岂不是他占卜用的吗？你们这样行是作恶了。』」",
     Eng:"Isn't this the cup my master drinks from and also uses for divination? This is a wicked  thing you have done.'\"",
     Ind:"Bukankah ini piala yang dipakai tuanku untuk minum dan yang biasa dipakainya untuk menelaah? Kamu berbuat jahat dengan melakukan yang demikian.\""
@@ -57,7 +57,7 @@ BibleDB.add([
     Ind:"Pada siapa dari hamba-hambamu ini kedapatan piala itu, biarlah ia mati, juga kami ini akan menjadi budak tuanku.\""
   },
   {Bible:"Genesis", Chapter:44, Verse:10, Page:1,
-    Kor:"그가 말하였다. \"그렇다면 좋소. 당신들이 말한 대로 합시다. 그러나 누구에게서든지 그것이 나오면, 그 사람만이 우리 주인의 종이 되고, 당신들 나머지 사람들에게는 죄가 없소.\"",
+    Kor:"그가 말하였다. \"그렇다면 좋다. 너희가 말한 대로 하자. 그러나 누구에게서든지 그것이 나오면, 그 사람만이 우리 주인의 종이 되고, 너희 나머지 사람들에게는 죄가 없다.\"",
     Chn:"家宰说：「现在就照你们的话行吧！在谁那里搜出来，谁就作我的奴仆；其余的都没有罪。」",
     Eng:"\"Very well, then,\" he said, \"let it be as you say. Whoever is found to have it will become  my slave; the rest of you will be free from blame.\"",
     Ind:"Sesudah itu berkatalah ia: \"Ya, usulmu itu baik; tetapi pada siapa kedapatan piala itu, hanya dialah yang akan menjadi budakku dan kamu yang lain itu akan bebas dari salah.\""
@@ -87,7 +87,7 @@ BibleDB.add([
     Ind:"Ketika Yehuda dan saudara-saudaranya sampai ke dalam rumah Yusuf, Yusuf masih ada di situ, sujudlah mereka sampai ke tanah di depannya."
   },
   {Bible:"Genesis", Chapter:44, Verse:15, Page:1,
-    Kor:"요셉이 호통을 쳤다. \"당신들이 어찌하여 이런 일을 저질렀소? 나 같은 사람이 점을 쳐서 물건을 찾는 줄을, 당신들은 몰랐소?\"",
+    Kor:"요셉이 호통을 쳤다. \"너희가 어찌하여 이런 일을 저질렀느냐? 나 같은 사람이 점을 쳐서 물건을 찾는 줄을, 너희는 몰랐느냐?\"",
     Chn:"约瑟对他们说：「你们做的是什么事呢？你们岂不知像我这样的人必能占卜吗？」",
     Eng:"Joseph said to them, \"What is this you have done? Don't you know that a man like me can  find things out by divination?\"",
     Ind:"Berkatalah Yusuf kepada mereka: \"Perbuatan apakah yang kamu lakukan ini? Tidakkah kamu tahu, bahwa seorang yang seperti aku ini pasti dapat menelaah?\""
@@ -99,13 +99,13 @@ BibleDB.add([
     Ind:"Sesudah itu berkatalah Yehuda: \"Apakah yang akan kami katakan kepada tuanku, apakah yang akan kami jawab, dan dengan apakah kami akan membenarkan diri kami? Allah telah memperlihatkan kesalahan hamba-hambamu ini. Maka kami ini, budak tuankulah kami, baik kami maupun orang pada siapa kedapatan piala itu.\""
   },
   {Bible:"Genesis", Chapter:44, Verse:17, Page:1,
-    Kor:"요셉이 말하였다. \"그렇게까지 할 것은 없소. 이 잔을 가지고 있다가 들킨 그 사람만 나의 종이 되고, 나머지는 평안히 당신들의 아버지께로 돌아가시오.\"",
+    Kor:"요셉이 말하였다. \"그렇게까지 할 것은 없다. 이 잔을 가지고 있다가 들킨 그 사람만 나의 종이 되고, 나머지는 평안히 너희 아버지께로 돌아가거라.\"",
     Chn:"约瑟说：「我断不能这样行！在谁的手中搜出杯来，谁就作我的奴仆；至于你们，可以平平安安地上你们父亲那里去。」",
     Eng:"But Joseph said, \"Far be it from me to do such a thing! Only the man who was found to have  the cup will become my slave. The rest of you, go back to your father in peace.\"",
     Ind:"Tetapi jawabnya: \"Jauhlah dari padaku untuk berbuat demikian! Pada siapa kedapatan piala itu, dialah yang akan menjadi budakku, tetapi kamu ini, pergilah kembali dengan selamat kepada ayahmu.\""
   },
   {Bible:"Genesis", Chapter:44, Verse:18, Page:1,
-    Kor:"<유다가 베냐민을 위하여 탄원하다> ○유다가 그에게 가까이 가서 간청하였다. \"이 종이 주인 어른께 감히 한 말씀 드리는 것을 용서하여 주시기 바랍니다. 어른께서는 바로와 꼭 같은 분이시니, 이 종에게 너무 노여워하지 마시기 바랍니다.",
+    Kor:"○유다가 그에게 가까이 가서 간청하였다. \"이 종이 주인 어른께 감히 한 말씀 드리는 것을 용서하여 주시기 바랍니다. 어른께서는 바로와 꼭 같은 분이시니, 이 종에게 너무 노여워하지 마시기 바랍니다.",
     Chn:"犹大挨近他，说：「我主啊，求你容仆人说一句话给我主听，不要向仆人发烈怒，因为你如同法老一样。",
     Eng:"Then Judah went up to him and said: \"Please, my lord, let your servant speak a word to my  lord. Do not be angry with your servant, though you are equal to Pharaoh himself.",
     Ind:"Lalu tampillah Yehuda mendekatinya dan berkata: \"Mohon bicara tuanku, izinkanlah kiranya hambamu ini mengucapkan sepatah kata kepada tuanku dan janganlah kiranya bangkit amarahmu terhadap hambamu ini, sebab tuanku adalah seperti Firaun sendiri."
@@ -135,7 +135,7 @@ BibleDB.add([
     Ind:"Tetapi jawab kami kepada tuanku: Anak itu tidak dapat meninggalkan ayahnya, sebab jika ia meninggalkan ayahnya, tentulah ayah ini mati."
   },
   {Bible:"Genesis", Chapter:44, Verse:23, Page:1,
-    Kor:"그러나 어른께서는 이 종들에게, 그 막내 아우를 데리고 오지 않으면 어른의 얼굴을 다시는 못 볼 것이라고 말씀하셨습니다.",
+    Kor:"그러나 어른께서는 이 종들에게, 그 막내 아우를 데리고 오지 않으면, 어른의 얼굴을 다시는 못 볼 것이라고 말씀하셨습니다.",
     Chn:"你对仆人说：『你们的小兄弟若不与你们一同下来，你们就不得再见我的面。』",
     Eng:"But you told your servants, 'Unless your youngest brother comes down with you, you will not  see my face again.'",
     Ind:"Kemudian tuanku berkata kepada hamba-hambamu ini: Jika adikmu yang bungsu itu tidak datang ke mari bersama-sama dengan kamu, kamu tidak boleh melihat mukaku lagi."
@@ -147,7 +147,7 @@ BibleDB.add([
     Ind:"Setelah kami kembali kepada hambamu, ayahku, maka kami memberitahukan kepadanya perkataan tuanku itu."
   },
   {Bible:"Genesis", Chapter:44, Verse:25, Page:1,
-    Kor:"얼마 뒤에 종들의 아버지가 종들에게, 다시 가서 먹거리를 조금 사오라고 하였습니다만,",
+    Kor:"얼마 뒤에 종들의 아버지가 종들에게, 다시 가서 먹을거리를 조금 사오라고 하였습니다만,",
     Chn:"我们的父亲说：『你们再去给我籴些粮来。』",
     Eng:"\"Then our father said, 'Go back and buy a little more food.'",
     Ind:"Kemudian ayah kami berkata: Kembalilah kamu membeli sedikit bahan makanan bagi kita."

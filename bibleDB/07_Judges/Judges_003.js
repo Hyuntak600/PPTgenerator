@@ -3,7 +3,7 @@
 BibleDB.ref("Judges",3,31);
 BibleDB.add([
   {Bible:"Judges", Chapter:3, Verse:1, Page:1,
-    Kor:"<그 땅에 남아 있는 민족들> 가나안 전쟁을 전혀 겪어 본 일이 없는 모든 이스라엘 백성을 시험하시려고, 주님께서 그 땅에 남겨 두신 민족들이 있다.",
+    Kor:"가나안 전쟁을 전혀 겪어 본 일이 없는 모든 이스라엘 백성을 시험하시려고, 주께서 그 땅에 남겨 두신 민족들이 있다.",
     Chn:"耶和华留下这几族，为要试验那不曾知道与迦南争战之事的以色列人，",
     Eng:"These are the nations the LORD left to test all those Israelites who had not experienced any of the wars in Canaan",
     Ind:"Inilah bangsa-bangsa yang dibiarkan TUHAN tinggal untuk mencobai orang Israel itu dengan perantaraan mereka, yakni semua orang Israel yang tidak mengenal perang Kanaan."
@@ -21,7 +21,7 @@ BibleDB.add([
     Ind:"Yang tinggal ialah kelima raja kota orang Filistin dan semua orang Kanaan, orang Sidon dan orang Hewi, yang mendiami pegunungan Libanon, dari gunung Baal-Hermon sampai ke jalan yang menuju ke Hamat."
   },
   {Bible:"Judges", Chapter:3, Verse:4, Page:1,
-    Kor:"주님께서 이스라엘 자손을 시험하셔서, 그들이 과연 주님께서 모세를 시켜 조상들에게 내리신 명령에 순종하는지 순종하지 않는지를 알아보시려고 이런 민족들을 남겨놓으신 것이다.",
+    Kor:"주께서 이스라엘 자손을 시험하셔서, 그들이 과연 주께서 모세를 시켜 조상들에게 내리신 명령에 그들이 순종하는지 순종하지 않는지를 알아보시려고 이런 민족들을 남겨놓으신 것이다.",
     Chn:"留下这几族，为要试验以色列人，知道他们肯听从耶和华借摩西吩咐他们列祖的诫命不肯。",
     Eng:"They were left to test the Israelites to see whether they would obey the LORD'S commands, which he had given their forefathers through Moses.",
     Ind:"Mereka itu ada di sana, supaya Ia mencobai orang Israel dengan perantaraan mereka untuk mengetahui, apakah mereka mendengarkan perintah yang diberikan TUHAN kepada nenek moyang mereka dengan perantaraan Musa."
@@ -39,37 +39,37 @@ BibleDB.add([
     Ind:"Mereka mengambil anak-anak perempuan, orang-orang itu menjadi isteri mereka dan memberikan anak-anak perempuan mereka kepada anak-anak lelaki orang-orang itu, serta beribadah kepada allah orang-orang itu."
   },
   {Bible:"Judges", Chapter:3, Verse:7, Page:1,
-    Kor:"<사사 옷니엘> ○이스라엘 자손이 주 하나님을 저버리고 바알과 아세라를 섬겨, 주님께서 보시기에 악한 일을 저질렀다.",
+    Kor:"○이스라엘 자손이 주 하나님을 저버리고 바알과 아세라를 섬겨, 주께서 보시기에 악한 일을 저질렀다.",
     Chn:"以色列人行耶和华眼中看为恶的事，忘记耶和华—他们的　神，去事奉诸巴力和亚舍拉，",
     Eng:"The Israelites did evil in the eyes of the LORD; they forgot the LORD their God and served the Baals and the Asherahs.",
     Ind:"Orang Israel melakukan apa yang jahat di mata TUHAN, mereka melupakan TUHAN, Allah mereka, dan beribadah kepada para Baal dan para Asyera."
   },
   {Bible:"Judges", Chapter:3, Verse:8, Page:1,
-    Kor:"주님께서 이스라엘 백성에게 크게 분노하시고, 그들을 메소포타미아 왕 구산리사다임의 손에 넘겨 주셨다. 이스라엘 자손이 구산리사다임을 여덟 해 동안 섬겼다.",
+    Kor:"주께서 이스라엘 백성에게 크게 분노하시고, 그들을 메소포타미아 왕 구산리사다임의 손에 넘겨 주셨다. 이스라엘 자손이 구산리사다임을 여덟 해 동안 섬겼다.",
     Chn:"所以耶和华的怒气向以色列人发作，就把他们交在美索不达米亚王古珊·利萨田的手中。以色列人服事古珊·利萨田八年。",
     Eng:"The anger of the LORD burned against Israel so that he sold them into the hands of Cushan-Rishathaim king of Aram Naharaim, to whom the Israelites were subject for eight years.",
     Ind:"Lalu bangkitlah murka TUHAN terhadap orang Israel, sehingga Ia menjual mereka kepada Kusyan-Risyataim, raja Aram-Mesopotamia dan orang Israel menjadi takluk kepada Kusyan-Risyataim delapan tahun lamanya."
   },
   {Bible:"Judges", Chapter:3, Verse:9, Page:1,
-    Kor:"이스라엘 자손이 주님께 울부짖으니, 주님께서 그들을 구하여 주시려고 이스라엘 자손 가운데서 한 구원자를 세우셨는데, 그가 곧 갈렙의 아우 그나스의 아들인 옷니엘이다.",
+    Kor:"이스라엘 자손이 주께 울부짖으니, 주께서 그들을 구하여 주시려고 이스라엘 자손 가운데서 한 구원자를 세우셨는데, 그가 곧 갈렙의 아우 그나스의 아들인 옷니엘이다.",
     Chn:"以色列人呼求耶和华的时候，耶和华就为他们兴起一位拯救者救他们，就是迦勒兄弟基纳斯的儿子俄陀聂。",
     Eng:"But when they cried out to the LORD, he raised up for them a deliverer, Othniel son of Kenaz, Caleb's younger brother, who saved them.",
     Ind:"Lalu berserulah orang Israel kepada TUHAN, maka TUHAN membangkitkan seorang penyelamat bagi orang Israel, yakni Otniel, anak Kenas adik Kaleb."
   },
   {Bible:"Judges", Chapter:3, Verse:10, Page:1,
-    Kor:"주님의 영이 그에게 내리니, 옷니엘은 이스라엘의 사사가 되어 전쟁터에 싸우러 나갔다. 주님께서 메소포타미아 왕 구산리사다임을 옷니엘의 손에 넘겨 주셨으므로, 옷니엘은 구산리사다임을 쳐서 이길 수 있었다.",
+    Kor:"주의 영이 그에게 내리니, 옷니엘은 이스라엘의 사사가 되어 전쟁터에 싸우러 나갔다. 주께서 메소포타미아 왕 구산리사다임을 옷니엘의 손에 넘겨 주셨으므로, 옷니엘은 구산리사다임을 쳐서 이길 수 있었다.",
     Chn:"耶和华的灵降在他身上，他就作了以色列的士师，出去争战。耶和华将美索不达米亚王古珊·利萨田交在他手中，他便胜了古珊·利萨田。",
     Eng:"The Spirit of the LORD came upon him, so that he became Israel's judge and went to war. The LORD gave Cushan-Rishathaim king of Aram into the hands of Othniel, who overpowered him.",
     Ind:"Roh TUHAN menghinggapi dia dan ia menghakimi orang Israel. Ia maju berperang, lalu TUHAN menyerahkan Kusyan-Risyataim, raja Aram, ke dalam tangannya, sehingga ia mengalahkan Kusyan-Risyataim."
   },
   {Bible:"Judges", Chapter:3, Verse:11, Page:1,
-    Kor:"그 땅은 그나스의 아들 옷니엘이 죽을 때까지 사십 년 동안 전쟁이 없이 평온하였다.",
+    Kor:"그 땅은, 그나스의 아들 옷니엘이 죽을 때까지 사십 년 동안, 전쟁이 없이 평온하였다.",
     Chn:"于是国中太平四十年。基纳斯的儿子俄陀聂死了。",
     Eng:"So the land had peace for forty years, until Othniel son of Kenaz died.",
     Ind:"Lalu amanlah negeri itu empat puluh tahun lamanya. Kemudian matilah Otniel anak Kenas."
   },
   {Bible:"Judges", Chapter:3, Verse:12, Page:1,
-    Kor:"<사사 에훗> ○이스라엘 자손이 다시 주님께서 보시기에 악한 일을 저질렀다. 그들이 이렇게 주님께서 보시기에 악한 일을 저질렀기 때문에, 주님께서는 모압 왕 에글론을 강적이 되게 하여서 이스라엘을 대적하게 하셨다.",
+    Kor:"○이스라엘 자손이 다시 주께서 보시기에 악한 일을 저질렀다. 그들이 이렇게 주께서 보시기에 악한 일을 저질렀기 때문에, 주께서는 모압 왕 에글론을 강적이 되게 하여서 이스라엘을 대적하게 하셨다.",
     Chn:"以色列人又行耶和华眼中看为恶的事，耶和华就使摩押王伊矶伦强盛，攻击以色列人。",
     Eng:"Once again the Israelites did evil in the eyes of the LORD, and because they did this evil the LORD gave Eglon king of Moab power over Israel.",
     Ind:"Tetapi orang Israel melakukan pula apa yang jahat di mata TUHAN; lalu Eglon, raja Moab, diberi TUHAN kuasa atas orang Israel, oleh sebab mereka telah melakukan apa yang jahat di mata TUHAN."
@@ -87,13 +87,13 @@ BibleDB.add([
     Ind:"Delapan belas tahun lamanya orang Israel menjadi takluk kepada Eglon, raja Moab."
   },
   {Bible:"Judges", Chapter:3, Verse:15, Page:1,
-    Kor:"○이스라엘 자손이 주님께 울부짖으니, 주님께서 그들에게 한 구원자를 세우셨는데, 그가 곧 베냐민 지파 게라의 아들인 왼손잡이 에훗이다. 이스라엘 자손은 에훗을 시켜, 모압 왕 에글론에게 조공을 보냈다.",
+    Kor:"○이스라엘 자손이 주께 울부짖으니, 주께서 그들에게 한 구원자를 세우셨는데, 그가 곧 베냐민 지파 게라의 아들인 왼손잡이 에훗이다. 이스라엘 자손은 에훗을 시켜, 모압 왕 에글론에게 조공을 보냈다.",
     Chn:"以色列人呼求耶和华的时候，耶和华就为他们兴起一位拯救者，就是便雅悯人基拉的儿子以笏；他是左手便利的。以色列人托他送礼物给摩押王伊矶伦。",
     Eng:"Again the Israelites cried out to the LORD, and he gave them a deliverer--Ehud, a left-handed man, the son of Gera the Benjamite. The Israelites sent him with tribute to Eglon king of Moab.",
     Ind:"Lalu orang Israel berseru kepada TUHAN, maka TUHAN membangkitkan bagi mereka seorang penyelamat yakni Ehud, anak Gera, orang Benyamin, seorang yang kidal. Dengan perantaraannya orang Israel biasa mengirimkan upeti kepada Eglon, raja Moab."
   },
   {Bible:"Judges", Chapter:3, Verse:16, Page:1,
-    Kor:"그러자 에훗은 길이가 한 자쯤 되는 양쪽에 날이 선 칼을 만들어서 오른쪽 허벅지 옷 속에 차고,",
+    Kor:"그러자 에훗은, 길이가 한 자쯤 되는, 양쪽에 날이 선 칼을 만들어, 오른쪽 허벅지 옷 속에 차고,",
     Chn:"以笏打了一把两刃的剑，长一肘，带在右腿上衣服里面。",
     Eng:"Now Ehud had made a double-edged sword about a foot and a half long, which he strapped to his right thigh under his clothing.",
     Ind:"Dan Ehud membuat pedang yang bermata dua, yang panjangnya hampir sehasta, disandangnyalah itu di bawah pakaiannya, pada pangkal paha kanannya."
@@ -123,7 +123,7 @@ BibleDB.add([
     Ind:"Lalu Ehud masuk mendapatkan dia, sedang ia duduk sendirian di kamar atas di rumah peranginannya. Berkatalah Ehud: \"Ada firman Allah yang kubawa untuk tuanku.\" Lalu bangunlah ia berdiri dari tempat duduknya."
   },
   {Bible:"Judges", Chapter:3, Verse:21, Page:1,
-    Kor:"그 때에 에훗은 왼손으로 오른쪽 허벅지에서 칼을 뽑아 왕의 배를 찔렀다.",
+    Kor:"그 때에, 에훗은 왼손으로 오른쪽 허벅지에서 칼을 뽑아 왕의 배를 찔렀다.",
     Chn:"以笏便伸左手，从右腿上拔出剑来，刺入王的肚腹，",
     Eng:"Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king's belly.",
     Ind:"Kemudian Ehud mengulurkan tangan kirinya, dihunusnya pedang itu dari pangkal paha kanannya dan ditikamkannya ke perut raja,"
@@ -141,19 +141,19 @@ BibleDB.add([
     Ind:"Demikianlah Ehud sampai ke serambi; pintu kamar atas itu ditutup dan dikuncinya setelah ia keluar."
   },
   {Bible:"Judges", Chapter:3, Verse:24, Page:1,
-    Kor:"에훗이 나간 뒤에, 그의 부하들이 와서 다락방 문이 잠겨 있는 것을 보고, 왕이 그 시원한 다락방에서 a용변을 보고 있다고 생각하였다.(a 히, '발을 가리다')",
+    Kor:"에훗이 나간 뒤에, 그의 부하들이 와서 다락방 문이 잠겨 있는 것을 보고, 왕이 그 시원한 다락방에서 용변을 보고 있다고 생각하였다.",
     Chn:"以笏出来之后，王的仆人到了，看见楼门关锁，就说：「他必是在楼上大解。」",
     Eng:"After he had gone, the servants came and found the doors of the upper room locked. They said, \"He must be relieving himself in the inner room of the house.\"",
     Ind:"Baru saja ia keluar, datanglah hamba-hamba raja melihat, tetapi pintu kamar atas itu terkunci. Lalu berkatalah mereka: \"Tentulah ia membuang air di kamar rumah peranginan itu.\""
   },
   {Bible:"Judges", Chapter:3, Verse:25, Page:1,
-    Kor:"그러나 b오랫동안 기다려도 왕이 끝내 다락방 문을 열지 않으므로, 열쇠를 가져다가 문을 열고 보니, 왕이 죽은 채로 바닥에 쓰러져 있었다.(b 히, '그들이 어찌할 바를 모르며 기다려도')",
+    Kor:"그러나 오랫동안 기다려도, 왕이 끝내 다락방 문을 열지 않으므로, 열쇠를 가져다가 문을 열고 보니, 왕이 죽은 채로 바닥에 쓰러져 있었다.",
     Chn:"他们等烦了，见仍不开楼门，就拿钥匙开了，不料，他们的主人已死，倒在地上。",
     Eng:"They waited to the point of embarrassment, but when he did not open the doors of the room, they took a key and unlocked them. There they saw their lord fallen to the floor, dead.",
     Ind:"Lalu mereka menunggu-nunggu sampai menjadi bingung, tetapi raja tidak membuka pintu kamar atas itu. Kemudian mereka mengambil kunci, membuka pintu, maka tampaklah tuan mereka mati tergeletak di lantai."
   },
   {Bible:"Judges", Chapter:3, Verse:26, Page:1,
-    Kor:"○그들이 기다리는 동안에 에훗은 몸을 피하여, 돌 우상들이 있는 곳을 지나서 스이라로 도망쳤다.",
+    Kor:"○그들이 기다리는 동안에, 에훗은 몸을 피하여 돌 우상들이 있는 곳을 지나, 스이라로 도망쳤다.",
     Chn:"他们耽延的时候，以笏就逃跑了，经过凿石之地，逃到西伊拉；",
     Eng:"While they waited, Ehud got away. He passed by the idols and escaped to Seirah.",
     Ind:"Sedang mereka berlambat-lambat, Ehud meloloskan diri; ia lewat dari batu-batu berpahat dan meloloskan diri ke arah Seira."
@@ -165,13 +165,13 @@ BibleDB.add([
     Ind:"Setelah ia sampai ke sana, ditiupnyalah sangkakala di pegunungan Efraim, lalu turunlah orang Israel bersama-sama dengan dia dari pegunungan itu, dan ia sendiri di depan."
   },
   {Bible:"Judges", Chapter:3, Verse:28, Page:1,
-    Kor:"\"나를 따라라! 주님께서 너희 원수 모압을 너희 손에 넘겨 주셨다.\" 그가 이렇게 외치자, 그들이 에훗을 따라 내려가 모압으로 가는 요단 강 나루를 점령하고 한 사람도 건너가지 못하게 하였다.",
+    Kor:"\"나를 따라라! 주께서 너희 원수 모압을 너희 손에 넘겨 주셨다.\" 그가 이렇게 외치자, 그들이 에훗을 따라 내려가 모압으로 가는 요단 강 나루를 점령하고 한 사람도 건너가지 못하게 하였다.",
     Chn:"对他们说：「你们随我来，因为耶和华已经把你们的仇敌摩押人交在你们手中。」于是他们跟着他下去，把守约旦河的渡口，不容摩押一人过去。",
     Eng:"\"Follow me,\" he ordered, \"for the LORD has given Moab, your enemy, into your hands.\" So they followed him down and, taking possession of the fords of the Jordan that led to Moab, they allowed no one to cross over.",
     Ind:"Berkatalah ia kepada mereka: \"Ikutlah aku, sebab TUHAN telah menyerahkan musuhmu, orang-orang Moab itu, ke dalam tanganmu.\" Maka turunlah mereka mengikuti dia, lalu mereka merebut tempat penyeberangan sungai Yordan ke Moab dan tidak seorangpun dibiarkan mereka menyeberang."
   },
   {Bible:"Judges", Chapter:3, Verse:29, Page:1,
-    Kor:"그 때에 그들이 쳐죽인 건장하고 용맹스러운 모압 군인의 수는 모두 만 명이나 되었는데, 한 사람도 도망치지 못하였다.",
+    Kor:"그 때에, 그들이 쳐죽인 건장하고 용맹스러운 모압 군인의 수는 모두 만 명이나 되었는데, 한 사람도 도망치지 못하였다.",
     Chn:"那时击杀了摩押人约有一万，都是强壮的勇士，没有一人逃脱。",
     Eng:"At that time they struck down about ten thousand Moabites, all vigorous and strong; not a man escaped.",
     Ind:"Pada waktu itu mereka menewaskan kira-kira sepuluh ribu orang dari Moab, semuanya orang yang tegap dan tangkas, seorangpun tidak ada yang lolos."
@@ -183,7 +183,7 @@ BibleDB.add([
     Ind:"Demikianlah pada hari itu Moab ditundukkan oleh Israel, maka amanlah tanah itu, delapan puluh tahun lamanya."
   },
   {Bible:"Judges", Chapter:3, Verse:31, Page:1,
-    Kor:"<사사 삼갈> ○에훗 다음에는 아낫의 아들 삼갈이 사사가 되었다. 그는 소를 모는 막대기만으로 블레셋 사람 육백 명을 쳐죽여 이스라엘을 구하였다.",
+    Kor:"○에훗 다음에는 아낫의 아들 삼갈이 사사가 되었다. 그는 소를 모는 막대기만으로 블레셋 사람 육백 명을 쳐죽여, 이스라엘을 구하였다.",
     Chn:"以笏之后，有亚拿的儿子珊迦，他用赶牛的棍子打死六百非利士人。他也救了以色列人。",
     Eng:"After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.",
     Ind:"Sesudah dia, bangkitlah Samgar bin Anat; ia menewaskan orang Filistin dengan tongkat penghalau lembu, enam ratus orang banyaknya. Demikianlah ia juga menyelamatkan orang Israel."

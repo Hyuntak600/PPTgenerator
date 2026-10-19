@@ -3,19 +3,19 @@
 BibleDB.ref("Exodus",20,26);
 BibleDB.add([
   {Bible:"Exodus", Chapter:20, Verse:1, Page:1,
-    Kor:"<십계명(신 5:1-21> 이 모든 말씀은 하나님이 하신 말씀이다.",
+    Kor:"이 모든 말씀은 하나님이 하신 말씀이다.",
     Chn:"神吩咐这一切的话说：",
     Eng:"And God spoke all these words:",
     Ind:"Lalu Allah mengucapkan segala firman ini:"
   },
   {Bible:"Exodus", Chapter:20, Verse:2, Page:1,
-    Kor:"\"나는 너희를 이집트 땅 종살이하던 집에서 이끌어 낸 주 너희의 하나님이다.",
+    Kor:"\"나는 너희를 이집트 땅, 종살이하던 집에서 이끌어 낸 주 너희의 하나님이다.",
     Chn:"「我是耶和华—你的　神，曾将你从埃及地为奴之家领出来。",
     Eng:"\"I am the LORD your God, who brought you out of Egypt, out of the land of slavery.",
     Ind:"\"Akulah TUHAN, Allahmu, yang membawa engkau keluar dari tanah Mesir, dari tempat perbudakan."
   },
   {Bible:"Exodus", Chapter:20, Verse:3, Page:1,
-    Kor:"○너희는 a내 앞에서 다른 신들을 섬기지 못한다.(a 또는 '나 밖에는')",
+    Kor:"○너희는 내 앞에서 다른 신들을 섬기지 못한다.",
     Chn:"「除了我以外，你不可有别的神。",
     Eng:"\"You shall have no other gods before me.",
     Ind:"Jangan ada padamu allah lain di hadapan-Ku."
@@ -57,19 +57,19 @@ BibleDB.add([
     Ind:"enam hari lamanya engkau akan bekerja dan melakukan segala pekerjaanmu,"
   },
   {Bible:"Exodus", Chapter:20, Verse:10, Page:1,
-    Kor:"그러나 이렛날은 주 너희 하나님의 안식일이니, 너희는 어떤 일도 해서는 안 된다. 너희나, 너희의 아들이나 딸이나, 너희의 남종이나 여종만이 아니라, 너희 집짐승이나, 너희의 집에 머무르는 나그네라도, 일을 해서는 안 된다.",
+    Kor:"그러나 이렛날은 주 너희 하나님의 안식일이니, 너희는 어떤 일도 해서는 안 된다. 너희와, 너희의 아들이나 딸이나, 너희의 남종이나 여종만이 아니라, 너희 집짐승이나, 너희의 집에 머무르는 나그네라도, 일을 해서는 안 된다.",
     Chn:"但第七日是向耶和华—你　神当守的安息日。这一日你和你的儿女、仆婢、牲畜，并你城里寄居的客旅，无论何工都不可做；",
     Eng:"but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your animals, nor the alien within your gates.",
     Ind:"tetapi hari ketujuh adalah hari Sabat TUHAN, Allahmu; maka jangan melakukan sesuatu pekerjaan, engkau atau anakmu laki-laki, atau anakmu perempuan, atau hambamu laki-laki, atau hambamu perempuan, atau hewanmu atau orang asing yang di tempat kediamanmu."
   },
   {Bible:"Exodus", Chapter:20, Verse:11, Page:1,
-    Kor:"내가 엿새 동안 하늘과 땅과 바다와 그 안에 있는 모든 것을 만들고 이렛날에는 쉬었기 때문이다. 그러므로 나 주가 안식일을 복 주고, 그 날을 거룩하게 하였다.",
+    Kor:"이는, 내가 엿새 동안 하늘과 땅과 바다와 그 안에 있는 모든 것을 만들고, 이렛날에는 쉬었기 때문이다. 그러므로 나 주가 안식일을 복 주고, 그 날을 거룩하게 하였다.",
     Chn:"因为六日之内，耶和华造天、地、海，和其中的万物，第七日便安息，所以耶和华赐福与安息日，定为圣日。",
     Eng:"For in six days the LORD made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.",
     Ind:"Sebab enam hari lamanya TUHAN menjadikan langit dan bumi, laut dan segala isinya, dan Ia berhenti pada hari ketujuh; itulah sebabnya TUHAN memberkati hari Sabat dan menguduskannya."
   },
   {Bible:"Exodus", Chapter:20, Verse:12, Page:1,
-    Kor:"○너희 부모를 공경하여라. 그래야 너희는 주 너희 하나님이 너희에게 준 땅에서 오래도록 살 것이다.",
+    Kor:"○너희 부모를 공경하여라. 그래야 너희는, 주 너희 하나님이 너희에게 준 땅에서 오래도록 살 것이다.",
     Chn:"「当孝敬父母，使你的日子在耶和华—你　神所赐你的地上得以长久。",
     Eng:"\"Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.",
     Ind:"Hormatilah ayahmu dan ibumu, supaya lanjut umurmu di tanah yang diberikan TUHAN, Allahmu, kepadamu."
@@ -105,7 +105,7 @@ BibleDB.add([
     Ind:"Jangan mengingini rumah sesamamu; jangan mengingini isterinya, atau hambanya laki-laki, atau hambanya perempuan, atau lembunya atau keledainya, atau apapun yang dipunyai sesamamu.\""
   },
   {Bible:"Exodus", Chapter:20, Verse:18, Page:1,
-    Kor:"<백성이 두려움에 사로잡히다(신 5:22-33> ○온 백성이 천둥소리와 번개와 나팔 소리를 듣고 산의 연기를 보았다. 백성은 그것을 보고 두려워 떨며, 멀찍이 물러섰다.",
+    Kor:"○온 백성이 천둥소리와 번개와 나팔 소리를 듣고 산의 연기를 보았다. 백성은 그것을 보고 두려워 떨며, 멀찍이 물러섰다.",
     Chn:"众百姓见雷轰、闪电、角声、山上冒烟，就都发颤，远远地站立，",
     Eng:"When the people saw the thunder and lightning and heard the trumpet and saw the mountain in smoke, they trembled with fear. They stayed at a distance",
     Ind:"Seluruh bangsa itu menyaksikan guruh mengguntur, kilat sabung-menyabung, sangkakala berbunyi dan gunung berasap. Maka bangsa itu takut dan gemetar dan mereka berdiri jauh-jauh."
@@ -117,7 +117,7 @@ BibleDB.add([
     Ind:"Mereka berkata kepada Musa: \"Engkaulah berbicara dengan kami, maka kami akan mendengarkan; tetapi janganlah Allah berbicara dengan kami, nanti kami mati.\""
   },
   {Bible:"Exodus", Chapter:20, Verse:20, Page:1,
-    Kor:"모세가 백성에게 말하였다. \"두려워하지 마십시오. 하나님이 당신들을 시험하시려고 나타나신 것이며, 당신들이 주님을 두려워하여 죄를 짓지 못하게 하시려고 나타나신 것입니다.\"",
+    Kor:"모세가 백성에게 말하였다. \"두려워하지 말아라. 하나님이 너희를 시험하시려고 나타나신 것이며, 너희가 주를 두려워하여 죄를 짓지 않게 하시려고 나타나신 것이다.\"",
     Chn:"摩西对百姓说：「不要惧怕；因为　神降临是要试验你们，叫你们时常敬畏他，不致犯罪。」",
     Eng:"Moses said to the people, \"Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.\"",
     Ind:"Tetapi Musa berkata kepada bangsa itu: \"Janganlah takut, sebab Allah telah datang dengan maksud untuk mencoba kamu dan dengan maksud supaya takut akan Dia ada padamu, agar kamu jangan berbuat dosa.\""
@@ -129,7 +129,7 @@ BibleDB.add([
     Ind:"Adapun bangsa itu berdiri jauh-jauh, tetapi Musa pergi mendekati embun yang kelam di mana Allah ada."
   },
   {Bible:"Exodus", Chapter:20, Verse:22, Page:1,
-    Kor:"<제단에 관한 법> ○주님께서 모세에게 말씀하셨다. \"너는 이스라엘 자손에게 이렇게 말하여라. '내가 하늘에서부터 너희에게 말하는 것을 너희는 다 보았다.",
+    Kor:"○주께서 모세에게 말씀하셨다. \"너는 이스라엘 자손에게 이렇게 말하여라. '내가 하늘에서부터 너희에게 말하는 것을 너희는 다 보았다.",
     Chn:"耶和华对摩西说：「你要向以色列人这样说：『你们自己看见我从天上和你们说话了。",
     Eng:"Then the LORD said to Moses, \"Tell the Israelites this: 'You have seen for yourselves that I have spoken to you from heaven:",
     Ind:"Lalu berfirmanlah TUHAN kepada Musa: \"Beginilah kaukatakan kepada orang Israel: Kamu sendiri telah menyaksikan, bahwa Aku berbicara dengan kamu dari langit."
@@ -141,7 +141,7 @@ BibleDB.add([
     Ind:"Janganlah kamu membuat di samping-Ku allah perak, juga allah emas janganlah kamu buat bagimu."
   },
   {Bible:"Exodus", Chapter:20, Verse:24, Page:1,
-    Kor:"나에게 제물을 바치려거든, 너희는 흙으로 제단을 쌓고, 그 위에다 번제물과 화목제물로 너희의 양과 소를 바쳐라. 너희가 나의 이름을 기억하고 예배하도록 내가 정하여 준 곳이면 어디든지, 내가 가서 너희에게 복을 주겠다.",
+    Kor:"나에게 제물을 바치려거든, 너희는 흙으로 제단을 쌓고, 그 위에다 번제물과 화목제물로 너희의 양과 소를 바쳐라. 너희가 나의 이름을 기억하고 예배하도록, 내가 정하여 준 곳이면 어디든지, 내가 가서 너희에게 복을 주겠다.",
     Chn:"你要为我筑土坛，在上面以牛羊献为燔祭和平安祭。凡记下我名的地方，我必到那里赐福给你。",
     Eng:"\"'Make an altar of earth for me and sacrifice on it your burnt offerings and fellowship offerings, your sheep and goats and your cattle. Wherever I cause my name to be honored, I will come to you and bless you.",
     Ind:"Kaubuatlah bagi-Ku mezbah dari tanah dan persembahkanlah di atasnya korban bakaranmu dan korban keselamatanmu, kambing dombamu dan lembu sapimu. Pada setiap tempat yang Kutentukan menjadi tempat peringatan bagi nama-Ku, Aku akan datang kepadamu dan memberkati engkau."
@@ -153,7 +153,7 @@ BibleDB.add([
     Ind:"Tetapi jika engkau membuat bagi-Ku mezbah dari batu, maka jangan engkau mendirikannya dari batu pahat, sebab apabila engkau mengerjakannya dengan beliung, maka engkau melanggar kekudusannya."
   },
   {Bible:"Exodus", Chapter:20, Verse:26, Page:1,
-    Kor:"너희는 제단에 층계를 놓아서는 안 된다. 그것을 밟고 올라설 때에, 너희의 알몸이 드러나서는 안 되기 때문이다.'\"",
+    Kor:"너희는 제단에 층계를 놓아서는 안 된다. 그것을 밟고 올라설 때에, 너희의 알몸이 드러나서는 안 되기 때문이다' 하여라.\"",
     Chn:"你上我的坛，不可用台阶，免得露出你的下体来。』」",
     Eng:"And do not go up to my altar on steps, lest your nakedness be exposed on it.'",
     Ind:"Juga jangan engkau naik tangga ke atas ke mezbah-Ku, supaya auratmu jangan kelihatan di atasnya.\""

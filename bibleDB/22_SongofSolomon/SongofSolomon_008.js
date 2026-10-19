@@ -3,7 +3,7 @@
 BibleDB.ref("SongofSolomon",8,14);
 BibleDB.add([
   {Bible:"SongofSolomon", Chapter:8, Verse:1, Page:1,
-    Kor:"<그대와 나 (여자)> 아, 임께서 어머니 젖을 함께 빨던 나의 오라버니라면, 내가 밖에서 임을 만나 입맞추어도 아무도 나를 천하게 보지 않으련만,",
+    Kor:"(여자) 아, 임께서 어머니 젖을 함께 빨던 나의 오라버니라면, 내가 밖에서 임을 만나 입맞추어도 아무도 나를 천하게 보지 않으련만,",
     Chn:"巴不得你像我的兄弟， 像吃我母亲奶的兄弟； 我在外头遇见你就与你亲嘴， 谁也不轻看我。",
     Eng:"If only you were to me like a brother, who was nursed at my mother's breasts! Then, if I found you outside, I would kiss you, and no one would despise me.",
     Ind:"O, seandainya engkau saudaraku laki-laki, yang menyusu pada buah dada ibuku, akan kucium engkau bila kujumpai di luar, karena tak ada orang yang akan menghina aku!"
@@ -33,7 +33,7 @@ BibleDB.add([
     Ind:"Siapakah dia yang muncul dari padang gurun, yang bersandar pada kekasihnya? --Di bawah pohon apel kubangunkan engkau, di sanalah ibumu telah mengandung engkau, di sanalah ia mengandung dan melahirkan engkau."
   },
   {Bible:"SongofSolomon", Chapter:8, Verse:6, Page:1,
-    Kor:"도장 새기듯, 임의 마음에 나를 새기세요. 도장 새기듯, 임의 팔에 나를 새기세요. 사랑은 죽음처럼 강한 것, 사랑의 시샘은 저승처럼 잔혹한 것, 사랑은 타오르는 불길, 아무도 못 끄는 a거센 불길입니다. (a 또는 '주님의 불길 같습니다')",
+    Kor:"도장 새기듯, 임의 마음에 나를 새기세요. 도장 새기듯, 임의 팔에 나를 새기세요. 사랑은 죽음처럼 강한 것, 사랑의 시샘은 저승처럼 잔혹한 것, 사랑은 타오르는 불길, 아무도 못 끄는 거센 불길입니다.",
     Chn:"求你将我放在你心上如印记， 带在你臂上如戳记。 因为爱情如死之坚强， 嫉恨如阴间之残忍； 所发的电光是火焰的电光， 是耶和华的烈焰。",
     Eng:"Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave. It burns like blazing fire, like a mighty flame.",
     Ind:"--Taruhlah aku seperti meterai pada hatimu, seperti meterai pada lenganmu, karena cinta kuat seperti maut, kegairahan gigih seperti dunia orang mati, nyalanya adalah nyala api, seperti nyala api TUHAN!"
@@ -45,19 +45,19 @@ BibleDB.add([
     Ind:"Air yang banyak tak dapat memadamkan cinta, sungai-sungai tak dapat menghanyutkannya. Sekalipun orang memberi segala harta benda rumahnya untuk cinta, namun ia pasti akan dihina."
   },
   {Bible:"SongofSolomon", Chapter:8, Verse:8, Page:1,
-    Kor:"(친구들) 우리 누이가 아직 어려서 가슴이 없는데, 청혼이라도 받는 날이 되면, 누이에게 우리가 무엇을 해야 하나?",
+    Kor:"(친구들) 우리 누이가 아직 어려서 젖가슴이 없는데, 청혼이라도 받는 날이 되면, 누이에게 우리가 무엇을 해야 하나?",
     Chn:"我们有一小妹； 她的两乳尚未长成， 人来提亲的日子， 我们当为她怎样办理？",
     Eng:"We have a young sister, and her breasts are not yet grown. What shall we do for our sister for the day she is spoken for?",
     Ind:"--Kami mempunyai seorang adik perempuan, yang belum mempunyai buah dada. Apakah yang akan kami perbuat dengan adik perempuan kami pada hari ia dipinang?"
   },
   {Bible:"SongofSolomon", Chapter:8, Verse:9, Page:1,
-    Kor:"(여자) 누이가 우아한 성벽이라면 우리가 은으로 망대를 세워 주고, 누이가 아름다운 성문이라면 우리가 송백 널빤지로 입혀 주마.",
+    Kor:"누이가 우아한 성벽이라면 우리가 은으로 망대를 세워 주고, 누이가 아름다운 성문이라면 우리가 송백 널빤지로 입혀 주마.",
     Chn:"她若是墙， 我们要在其上建造银塔； 她若是门， 我们要用香柏木板围护她。",
     Eng:"If she is a wall, we will build towers of silver on her. If she is a door, we will enclose her with panels of cedar.",
     Ind:"Bila ia tembok, akan kami dirikan atap perak di atasnya; bila ia pintu, akan kami palangi dia dengan palang kayu aras."
   },
   {Bible:"SongofSolomon", Chapter:8, Verse:10, Page:1,
-    Kor:"나는 성벽이요, 나의 가슴은 망대 같습니다. 그래서 그가 날 그토록 좋아합니다.",
+    Kor:"(여자) 나는 성벽이요, 나의 젖가슴은 망대 같습니다. 그래서 그가 날 그토록 좋아합니다.",
     Chn:"我是墙； 我两乳像其上的楼。 那时，我在他眼中像得平安的人。",
     Eng:"I am a wall, and my breasts are like towers. Thus I have become in his eyes like one bringing contentment.",
     Ind:"--Aku adalah suatu tembok dan buah dadaku bagaikan menara. Dalam matanya ketika itu aku bagaikan orang yang telah mendapat kebahagiaan."

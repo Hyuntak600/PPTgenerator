@@ -9,7 +9,7 @@ BibleDB.add([
     Ind:"Dewa Bel sudah ditundukkan, dewa Nebo sudah direbahkan, patung-patungnya sudah diangkut di atas binatang, di atas hewan; yang pernah kamu arak, sekarang telah dimuatkan sebagai beban pada binatang yang lelah,"
   },
   {Bible:"Isaiah", Chapter:46, Verse:2, Page:1,
-    Kor:"우상들은 한꺼번에 넘어지고 고꾸라졌다. 우상들은 자기들을 싣고 가는 자들에게서 도망쳐 나오지도 못한다. 오히려 우상들은 포로가 되어 잡혀 간다.",
+    Kor:"우상들은 한꺼번에 넘어지고 고꾸라졌다. 우상들은 자기들을 싣고 가는 자들에게서 도망 쳐 나오지도 못한다. 오히려 우상들은 포로가 되어 잡혀 간다.",
     Chn:"都一同弯腰屈身， 不能保全重驮， 自己倒被掳去。",
     Eng:"They stoop and bow down together; unable to rescue the burden, they themselves go off into captivity.",
     Ind:"yang tidak dapat menyelamatkan bebannya itu. Dewa-dewa itu bersama-sama direbahkan dan ditundukkan dan mereka sendiri harus pergi sebagai tawanan."
