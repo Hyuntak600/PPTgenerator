@@ -1,9 +1,10 @@
 "use strict";
 
 // 패치노트 창: 시작 안내(#patchOverlay)가 닫힌 다음에 이어서 뜨는 별도 창.
-//  - 새 버전(NOTES.version)이 나오면 모든 사람에게 한 번 뜬다. 시작 안내의 "안 뜨게 하기"와는 따로 기억한다.
-//  - 시작 안내가 안 뜨는 사람(이미 "안 뜨게 하기"를 한 경우)에게는 페이지를 열자마자 뜬다.
-//  - 어떻게 닫아도(확인·Esc·바깥 클릭) 이 버전은 읽은 것으로 기억한다. 다시 보려면 시작 안내 옆 [패치노트] 버튼.
+//  - 시작 안내가 열려 있는 동안은 기다렸다가, 닫히면 이어서 뜬다. 시작 안내를 "다시 보지 않기" 해 둔 사람에게는 페이지를 열자마자 뜬다.
+//  - 그냥 닫기(닫기·Esc·바깥 클릭)는 아무것도 기억하지 않아서 다음에 열 때 또 뜬다.
+//  - 맨 아래 [다음 패치노트까지 안 보기]를 누르면 이 버전(NOTES.version)을 읽은 것으로 기억해서, 새 버전이 나올 때까지 뜨지 않는다(새 버전은 값이 달라서 다시 뜸).
+//  - 언제든 다시 보려면 시작 안내 옆 [패치노트] 버튼.
 //  - 새 버전을 낼 때는 아래 NOTES의 version과 items만 고치면 된다.
 //  - PPTgenerator.html에서 01-core.js 뒤, 11-modal-guard.js "앞"에 <script> 한 줄을 넣어 주세요
 //    (11이 창 안 포커스 가두기를 걸 때 이 창도 함께 잡아 주기 때문).
@@ -14,11 +15,10 @@
     sub: "이번에 새로 생기거나 바뀐 기능이에요.",
     // tag: 새 기능 / 개선 / 수정 중 아무 글자나. desc 안에서 줄바꿈은 \n
     items: [
-      { tag: "새 기능", title: "슬라이드 크기 조절", desc: "오른쪽 아래 [− 100% +]로 50~200%까지 키우고 줄여요. 트랙패드 핀치나 Ctrl/⌘+휠도 돼요." },
-      { tag: "새 기능", title: "원고 찾기", desc: "Ctrl/⌘+Shift+F로 4개 언어 칸을 한꺼번에 검색해요. Enter는 다음, Shift+Enter는 이전 결과예요." },
-      { tag: "새 기능", title: "슬라이드 번호로 이동", desc: "Ctrl/⌘+G로 번호를 입력하면 그 슬라이드와 원문 조각으로 한 번에 이동해요." },
-      { tag: "개선", title: "슬라이드만 보기", desc: "방향키로 슬라이드를 넘기고, 더블클릭이나 Enter로 그 슬라이드의 원문 조각으로 돌아가요." },
-      { tag: "개선", title: "섞인 언어 자동 삭제", desc: "지우기 전에 미리 보기 창이 먼저 뜨고, 지운 글자는 데이터 ▾ → 섞인 언어 삭제 기록에서 다시 볼 수 있어요." },
+      { tag: "새 기능", title: "브라우저 내장 번역기", desc: "데스크톱 크롬 138 이상·엣지 148 이상에서는 Docker나 번역 서버 없이 번역해요. 위쪽 번역 칩을 눌러 모델을 한 번만 받으면 돼요." },
+      { tag: "새 기능", title: "모델 받은 정도를 보여 줘요", desc: "번역 칩과 번역 안내 창에 받는 진행률과 아직 못 받은 모델이 표시돼요." },
+      { tag: "안내", title: "모델이 남았다고 뜨면 칩을 다시 눌러요", desc: "브라우저가 한 번에 하나씩만 받게 해서, 남은 모델이 있으면 번역 칩을 한 번 더 눌러야 해요." },
+      { tag: "안내", title: "받은 뒤에는 인터넷 없이도 돼요", desc: "모델은 처음 한 번만 받아요. 내장 번역이 안 되는 언어 쌍이나 사파리 같은 다른 브라우저는 예전처럼 번역 서버로 넘어가요." },
     ],
   };
 
@@ -58,12 +58,18 @@
   });
   const act = el("div", "copy-actions");
   act.appendChild(el("span", "pn-ver", "버전 " + NOTES.version));
-  const ok = el("button", "btn primary", "확인했어요"); ok.type = "button";
-  act.appendChild(ok);
+  const hideBtn = el("button", "btn", "다음 패치노트까지 안 보기"); hideBtn.type = "button";
+  hideBtn.title = "새 패치노트가 나올 때까지 이 창을 자동으로 띄우지 않아요";
+  const ok = el("button", "btn primary", "닫기"); ok.type = "button";
+  act.append(hideBtn, ok);
   md.append(h, sub, ul, act); ov.appendChild(md); document.body.appendChild(ov);
 
   function open() { ov.classList.add("open"); requestAnimationFrame(() => ok.focus({ preventScroll: true })); }
-  function close() { ov.classList.remove("open"); markSeen(); }
+  function close() { ov.classList.remove("open"); }
+  hideBtn.addEventListener("click", () => {
+    markSeen(); close();
+    if (typeof showToast === "function") showToast("다음 패치노트가 나올 때까지 이 창이 뜨지 않아요. 위쪽 [패치노트]로 언제든 다시 볼 수 있어요.");
+  });
   ok.addEventListener("click", close);
   ov.addEventListener("click", e => { if (e.target === ov) close(); }); // 11-modal-guard가 "바깥에서 눌러 안에서 뗀" 경우를 걸러 줌
   ov.addEventListener("keydown", e => {

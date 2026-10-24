@@ -54,15 +54,14 @@ macConfirm._n = 0;
   const closeBtn = document.getElementById("patchCloseBtn");
   const reopenBtn = document.getElementById("patchReopenBtn");
 
-  // 시작 안내 창은 "패치노트 버전"이 바뀔 때마다 모든 사람에게 다시 뜬다. 버전은 PPTgenerator.html의 #patchOverlay data-patch-version(날짜) 한 곳에서만 바꾼다.
-  //  - 그냥 닫기(시작하기·Esc·바깥 클릭)는 아무것도 기억하지 않아서, 다음에 열 때 또 뜸
-  //  - [다음 패치노트까지 안 뜨게 하기]를 누르면 이 브라우저에 "그 버전을 확인했다"고 남기고, 같은 버전에서는 자동으로 뜨지 않음 (새 버전이 나오면 값이 달라서 다시 뜸)
-  //  - 예전 방식이 남긴 값("1")은 버전과 달라서 모두에게 한 번 다시 뜸. 키는 "로컬 데이터 지우기"(subtitleTool_ 계열)가 지우지 않음
-  //  - 저장소를 못 쓰는 환경(시크릿 창 등)에서는 열 때마다 뜸. 위쪽 [시작 안내] 버튼으로는 언제든 다시 볼 수 있음
-  const SEEN_KEY = "subtitleStartGuideSeen";
-  const VERSION = overlay.dataset.patchVersion || "";
-  function isHidden() { try { return !!VERSION && localStorage.getItem(SEEN_KEY) === VERSION; } catch (e) { return false; } }
-  function hideUntilNext() { try { if (VERSION) localStorage.setItem(SEEN_KEY, VERSION); } catch (e) { /* 못 남기면 다음에도 뜰 뿐 */ } }
+  // 시작 안내 창: 열 때마다 뜨고, [다시 보지 않기]를 누르면 이 브라우저에서는 더 이상 저절로 뜨지 않는다(위쪽 [시작 안내] 버튼으로는 언제든 다시 볼 수 있음).
+  //  - 그냥 닫기(닫기·Esc·바깥 클릭)는 아무것도 기억하지 않아서, 다음에 열 때 또 뜸
+  //  - 새 패치노트가 나왔는지는 이 창이 아니라 21-patch-notes.js(시작 안내가 닫힌 뒤 이어서 뜨는 패치노트 창)가 따로 기억함
+  //  - 예전 버전이 남긴 값(날짜·"1")은 "never"가 아니라서 한 번 다시 뜸. 키는 "로컬 데이터 지우기"(subtitleTool_ 계열)가 지우지 않음
+  //  - 저장소를 못 쓰는 환경(시크릿 창 등)에서는 열 때마다 뜸
+  const SEEN_KEY = "subtitleStartGuideSeen", NEVER = "never";
+  function isHidden() { try { return localStorage.getItem(SEEN_KEY) === NEVER; } catch (e) { return false; } }
+  function hideForever() { try { localStorage.setItem(SEEN_KEY, NEVER); } catch (e) { /* 못 남기면 다음에도 뜰 뿐 */ } }
   function openModal() {
     overlay.classList.add("open");
   }
@@ -76,10 +75,10 @@ macConfirm._n = 0;
   overlay.addEventListener("click", e => { if (e.target === overlay) closeModal(); });
   const hideBtn = document.getElementById("patchHideBtn");
   if (hideBtn) hideBtn.addEventListener("click", () => {
-    hideUntilNext(); closeModal();
-    if (typeof showToast === "function") showToast("다음 패치노트가 나올 때까지 이 창이 뜨지 않아요. 위쪽 [시작 안내]로 언제든 다시 볼 수 있어요.");
+    hideForever(); closeModal();
+    if (typeof showToast === "function") showToast("이 안내 창은 이제 저절로 뜨지 않아요. 위쪽 [시작 안내]로 언제든 다시 볼 수 있어요.");
   });
-  if (!isHidden()) openModal(); // 이 버전을 "안 뜨게 하기" 하지 않은 사람에게는 열 때마다 뜸
+  if (!isHidden()) openModal(); // [다시 보지 않기]를 누르지 않은 사람에게는 열 때마다 뜸
 })();
 
 // ---------------------------------------------------------------------

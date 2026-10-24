@@ -7,6 +7,15 @@
      큰따옴표가 있으면 속성이 거기서 끊겨 영어 문장이 중간까지만 보인다. */
 (function(){
   const EN = {
+    "다시 보지 않기":"Don't show again","다음 패치노트까지 안 보기":"Hide until the next patch note","새 패치노트가 나올 때까지 이 창을 자동으로 띄우지 않아요":"This window won't open by itself until the next patch note",
+    "이 안내 창을 이제 자동으로 띄우지 않아요. 위쪽 시작 안내 버튼으로 언제든 다시 볼 수 있어요":"This guide won't open by itself any more. Reopen it any time with the Getting started button at the top",
+    "이 안내 창은 이제 저절로 뜨지 않아요. 위쪽 [시작 안내]로 언제든 다시 볼 수 있어요.":"This guide won't open by itself any more. Reopen it any time with [Getting started] at the top.",
+    "다음 패치노트가 나올 때까지 이 창이 뜨지 않아요. 위쪽 [패치노트]로 언제든 다시 볼 수 있어요.":"This window won't open until the next patch note. Reopen it any time with [Patch notes] at the top.",
+    "패치노트":"Patch notes","이번에 새로 생기거나 바뀐 기능이에요.":"What's new or changed in this version.","새 기능":"New","안내":"Note","닫기":"Close",
+    "브라우저 내장 번역기":"Built-in browser translation","데스크톱 크롬 138 이상·엣지 148 이상에서는 Docker나 번역 서버 없이 번역해요. 위쪽 번역 칩을 눌러 모델을 한 번만 받으면 돼요.":"On desktop Chrome 138+ and Edge 148+, translate with no Docker or translation server. Click the translation chip at the top once to download the models.",
+    "모델 받은 정도를 보여 줘요":"See how much has downloaded","번역 칩과 번역 안내 창에 받는 진행률과 아직 못 받은 모델이 표시돼요.":"The translation chip and the translation guide show the progress and which models are still missing.",
+    "모델이 남았다고 뜨면 칩을 다시 눌러요":"If models are still left, click the chip again","브라우저가 한 번에 하나씩만 받게 해서, 남은 모델이 있으면 번역 칩을 한 번 더 눌러야 해요.":"The browser only downloads one at a time, so if any models are left, click the translation chip once more.",
+    "받은 뒤에는 인터넷 없이도 돼요":"Works offline once downloaded","모델은 처음 한 번만 받아요. 내장 번역이 안 되는 언어 쌍이나 사파리 같은 다른 브라우저는 예전처럼 번역 서버로 넘어가요.":"Models are downloaded only the first time. Language pairs the built-in translator can't do, and other browsers like Safari, still use the translation server.",
     "성경 DB 모드에서 내가 고친 구절(초안)을 모두 지우고 원래 내용으로 되돌려요. 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요":"Delete all verses you edited in Bible DB mode and restore the original text. Your script, backups and settings in Make slides mode stay as they are",
     "지울 수정 내용이 없어요.":"There are no edits to delete.","지우지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.":"Couldn't delete. Browser storage isn't available.",
     "＋ 목록에 담기":"＋ Add to list","추가할 구절":"Passages to add","이미 추가된 절이에요":"Already added","파란색 = 이미 추가된 절":"Blue = already added","목록에서 빼요":"Remove from list","더 담거나 [추가하기]를 눌러 한꺼번에 불러오세요.":"Add more, or press [Add] to load them all at once.",
