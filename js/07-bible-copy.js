@@ -46,16 +46,21 @@ let dbScope = "cur"; // dbScope: "cur"(지금 보고 있는 절) | "unsent"(아�
 const dcFilled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind);
 function dcEntries(en, ch) { return dbChapterEntries(en, ch).map(([v, pages]) => [v, pages.map((p, i) => ({ p, i })).filter(x => dcFilled(x.p))]).filter(e => e[1].length); }
 function dcKey(en, ch, v, i) { return en + "|" + ch + "|" + v + "|" + i; }
-// 지금 보고 있는 절(여러 절을 보고 있으면 시작 절~끝 절 전부, 내용이 있는 모든 페이지)의 선택 키 집합
+// 지금 화면에 올라와 있는 절 전부(여러 절·여러 장·여러 성경을 함께 올렸으면 그 모두, 내용이 있는 모든 페이지)의 선택 키 집합
 function dbCurSel() {
   const s = dbCur, sel = new Set(); if (!s) return sel;
-  dcEntries(s.en, s.ch).forEach(([v, pgs]) => { if (v >= s.v && v <= s.vEnd) pgs.forEach(({ i }) => sel.add(dcKey(s.en, s.ch, v, i))); });
+  const cache = new Map();
+  (s.units || []).forEach(u => {
+    const ck = u.en + "|" + u.ch; if (!cache.has(ck)) cache.set(ck, new Map(dcEntries(u.en, u.ch)));
+    const pgs = cache.get(ck).get(u.v); if (pgs) pgs.forEach(({ i }) => sel.add(dcKey(u.en, u.ch, u.v, i)));
+  });
   return sel;
 }
-function dbCurLabel() { // "요한복음 3:16" 또는 여러 절이면 "요한복음 3:16~18"
+function dbCurLabel() { // "요한복음 3:16" 또는 여러 절이면 "요한복음 3:16~18", 여러 구절을 함께 올렸으면 "요한복음 3:16~18 · 로마서 5:8"
   const s = dbCur; if (!s || !window.BibleDB) return "";
-  return BibleDB.book(s.en).ko + " " + s.ch + ":" + s.v + (s.vEnd > s.v ? "~" + s.vEnd : "");
+  return (s.segs || [s]).map(g => BibleDB.book(g.en).ko + " " + g.ch + ":" + g.v + (g.vEnd > g.v ? "~" + g.vEnd : "")).join(" · ");
 }
+const dbCurMulti = () => !!(dbCur && (dbCur.units ? dbCur.units.length > 1 : dbCur.vEnd > dbCur.v)); // 절이 둘 이상 올라와 있는지
 function dcBuildPickCode(sel) {
   const order = new Map(); BibleDB.books.forEach((b, i) => order.set(b.en, +b.no > 0 ? +b.no : i + 1));
   const items = [...sel].map(k => { const q = k.split("|"); return { en: q[0], ch: +q[1], v: +q[2], i: +q[3] }; })
@@ -88,8 +93,8 @@ function refreshDbCode() {
     dbSentBtn.disabled = !r.unsent;
   } else {
     const cs = dbCurLabel();
-    dbCodeSub.textContent = "지금 보고 있는 " + (dbCur && dbCur.vEnd > dbCur.v ? "절들 " : "절 ") + cs + "의 코드예요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보내 주세요."
-      + (code ? "" : (dbCur && dbCur.vEnd > dbCur.v ? " (이 절들에는 내용이 없어요)" : " (이 절에는 내용이 없어요)"));
+    dbCodeSub.textContent = "지금 보고 있는 " + (dbCurMulti() ? "절들 " : "절 ") + cs + "의 코드예요. 복사해서 관리자 이메일(" + APP_CONFIG.adminEmail + ") 혹은 카카오톡으로 보내 주세요."
+      + (code ? "" : (dbCurMulti() ? " (이 절들에는 내용이 없어요)" : " (이 절에는 내용이 없어요)"));
   }
 }
 function dbSetScope(sc) {

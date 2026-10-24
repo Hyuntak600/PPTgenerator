@@ -134,7 +134,7 @@ const NON_BLANK = /\S/; // 공백뿐인 칸 판별: trim()처럼 새 문자열�
 let refSelBox = null;   // 슬라이드 만들기 모드: 선택된 성경 줄(그 줄의 조각 하나)
 let appMode = "slide";   // "slide"(슬라이드 만들기) | "db"(성경 DB)
 let localWiped = false;   // 로컬 데이터 삭제를 시작하면 true: 이후 어떤 자동 저장도 다시 쓰지 않음
-let dbCur = null;         // DB 모드에서 지금 화면에 올라와 있는 절 {en,ch,v} (불러오는 동안은 null → 저장 안 함)
+let dbCur = null;         // DB 모드에서 지금 화면에 올라와 있는 구절 {en,ch,v,vEnd(=지금 고른 범위), segs(범위 목록), active, units(절 이름표 번호→{en,ch,v}), starts} (불러오는 동안은 null → 저장 안 함)
 let dbRefStr = "";        // DB 모드 슬라이드 왼쪽 위에 넣는 글자: "John (요한복음) 约翰福音 Yohanes 3:16" 
 
 function labelOf(code) { return LANG_META[code].label; }

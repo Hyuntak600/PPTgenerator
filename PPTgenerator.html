@@ -150,8 +150,9 @@ kbd{font-family:inherit; font-size:.7rem; border:1px solid var(--line); border-b
 .box-link:hover{color:var(--ink); background:rgba(127,127,127,.32);}
 /* 성경 DB 모드에서 여러 절을 한 화면에 볼 때: 조각 번호 옆에 절 표시, 절이 바뀌는 자리에 굵은 윗선, 절마다 번갈아 옅은 바탕. 높이·여백을 바꾸지 않는 표시만 써서 언어 칸 줄 맞춤이 어긋나지 않음 */
 /* 성경 DB 모드(여러 절 보기): 조각 번호는 숨기고 "절 번호"만 보여 줌(슬라이드 번호는 오른쪽 위 [슬라이드 N] 버튼에 있음) */
-html[data-mode="db"] .box-num[data-vl]{font-size:0;}
-html[data-mode="db"] .box-num[data-vl]::after{content:attr(data-vl) "절"; font-size:.72rem; font-weight:700; color:var(--ink);}
+html[data-mode="db"] .box-num[data-vl]{font-size:0; white-space:nowrap; max-width:calc(100% - 110px); overflow:hidden;}
+html[data-mode="db"] .box-num[data-vl]::after{content:attr(data-vl); font-size:.72rem; font-weight:700; color:var(--ink);}
+html[data-mode="db"] .box-num[data-vl][data-short]::after{content:attr(data-vs);} /* 이름표가 잘릴 만큼 좁으면 약어(레10:6) */
 html[data-mode="db"] .box.vfirst::before{content:""; position:absolute; left:0; right:0; top:0; height:3px; background:var(--lang-color); opacity:.7; z-index:3; pointer-events:none;}
 
 /* 슬라이드 쪽 너비: 100% 배율에서는 예전과 같은 46.5%(= 1 : 1.15). 브라우저를 축소하면 --zoomfix(축소 비율)만큼 곱해
@@ -799,6 +800,18 @@ html[data-mode="db"] .slide-only{display:none !important;}
 /* 선택한 성경 줄: 바깥으로 번지는 빛 대신 상자 안쪽 가는 테두리 + 옅은 배경(칸 밖으로 새지 않음) */
 .box.ref-sel{box-shadow:inset 0 0 0 1.5px var(--accent) !important; background:color-mix(in srgb,var(--accent) 9%,var(--panel)) !important;}
 .dbstat{font-size:.76rem; color:var(--sub);}
+/* 성경 DB 모드: 함께 불러온 구절 알약(둘 이상일 때만 보임) */
+.dbsegs{display:flex; flex-wrap:wrap; align-items:center; gap:6px 8px; margin-top:8px; font-size:.78rem;}
+.dbsegs[hidden]{display:none !important;}
+.dbbar .dbsegs{margin-top:0; flex:0 1 auto; min-width:0; max-width:100%;}
+.dbsegs-l{color:var(--sub); font-weight:600; margin-right:2px;}
+.seg-chip{display:inline-flex; align-items:center; border:1px solid var(--line); border-radius:999px; background:color-mix(in srgb,var(--ink) 4%,transparent); overflow:hidden;}
+.seg-chip.active{border-color:var(--accent); background:color-mix(in srgb,var(--accent) 14%,transparent);}
+.seg-chip button{border:0; background:transparent; color:var(--ink); font:inherit; line-height:1.3; padding:3px 4px 3px 11px;}
+.seg-chip .seg-chip-x{padding:3px 10px 3px 5px; color:var(--sub); font-size:.72rem;}
+.seg-chip button:hover{background:color-mix(in srgb,var(--ink) 8%,transparent);}
+.seg-chip .seg-chip-x:hover{color:var(--ink);}
+.seg-chip button:focus-visible{outline:none; box-shadow:var(--mac-ring);}
 /* 성경 DB 모드: 슬라이드 왼쪽 위에 "영어 (한국어) 중국어 인도네시아어 장:절" 표시 */
 :root{--ref-h:7.4;}
 .ref-tag{display:none; position:absolute; top:.6cqh; left:.8cqh; right:.8cqh; z-index:1; text-align:left;
@@ -924,6 +937,25 @@ html[lang="en"] .patch-modal h3{margin-top:1.15em;}
 <style>
 /* 번역 서버 안내 창: 내 컴퓨터(OS)에 맞는 안내만 보이게, 문제 해결은 접어서 */
 #howtoOverlay[data-hos="win"] .os-mac,#howtoOverlay[data-hos="mac"] .os-win{display:none !important;}
+.howto-eng{margin:10px 0 6px; padding:12px 14px; border-radius:12px; background:color-mix(in srgb,var(--ink) 5%,var(--panel)); box-shadow:inset 0 0 0 .5px color-mix(in srgb,var(--ink) 16%,transparent);}
+.howto-eng h3{margin:0 0 8px;}
+.howto-eng ul,.howto-eng ol{margin:6px 0 0; padding-left:1.2em;}
+.howto-eng .eng-status{list-style:none; padding:0; margin:0 0 8px;}
+.howto-eng .eng-status li{display:flex; flex-wrap:wrap; gap:4px 10px; align-items:baseline; padding:3px 0;}
+.howto-eng .eng-val::before{content:""; display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; background:#8e8e93;}
+.howto-eng .eng-val[data-s="ok"]::before{background:#30d158;}
+.howto-eng .eng-val[data-s="warn"]::before{background:#ff9f0a;}
+.howto-eng .eng-val[data-s="down"]::before{background:#ff453a;}
+.howto-eng .eng-val .pk{white-space:nowrap;}
+.howto-eng .pk-ok{color:#1e8e3e; font-weight:600;}
+.howto-eng .pk-warn{color:#b86e00; font-weight:600;}
+.howto-eng .pk-down{color:#d92d20; font-weight:600;}
+html[data-theme="dark"] .howto-eng .pk-ok{color:#30d158;}
+html[data-theme="dark"] .howto-eng .pk-warn{color:#ff9f0a;}
+html[data-theme="dark"] .howto-eng .pk-down{color:#ff6b61;}
+.howto-eng .pk-hint{display:block; margin-top:2px; font-size:.82em; color:var(--sub);}
+/* 안내 창 맨 위 설명(크롬·엣지 / 서버 / 사파리)의 굵은 글씨를 조금 더 진하게 */
+#howtoOverlay .patch-sub b{font-weight:800; color:var(--ink);}
 .howto-os{display:flex; align-items:center; gap:10px; margin:12px 0 4px; font-size:.8rem; color:var(--sub);}
 .howto-cmdrow{display:flex; gap:8px; align-items:stretch; margin:8px 0;}
 .howto-cmdrow .howto-cmd{flex:1; min-width:0; margin:0; overflow-x:auto; white-space:nowrap; user-select:all;}
@@ -1046,6 +1078,10 @@ html[data-view="slides"] .slide-block.vo-cur{outline:2px solid var(--accent); ou
 .tips-list span{flex:none; white-space:nowrap;}
 .tips-more{flex:none; display:inline-flex; align-items:center; gap:4px; border:0; border-radius:999px; padding:1px 9px; font:inherit; font-size:.72rem; line-height:1.5; color:var(--sub); background:color-mix(in srgb,var(--ink) 7%,transparent); cursor:pointer; white-space:nowrap; transition:background .12s,color .12s;}
 .tips-more .ic{width:.95em; height:.95em;}
+.tips-x{flex:none; display:inline-flex; align-items:center; justify-content:center; width:22px; height:22px; padding:0; border:0; border-radius:999px; font:inherit; font-size:.72rem; line-height:1; color:var(--sub); background:color-mix(in srgb,var(--ink) 7%,transparent); cursor:pointer;}
+.tips-x:hover{color:var(--ink); background:color-mix(in srgb,var(--ink) 13%,transparent);}
+.tips-x:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
+html[data-tips="off"] #tipsBar{display:none !important;}
 .tips-more:hover,.tips-more[aria-expanded="true"]{color:var(--ink); background:color-mix(in srgb,var(--ink) 13%,transparent);}
 .tips-more:focus-visible{outline:2px solid var(--accent); outline-offset:1px;}
 @container tips (max-width:2200px){ .tips-list span:nth-child(10){display:none;} }
@@ -1220,11 +1256,12 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs><symbol id="i-slides" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></symbol><symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.5C10.5 5 8 4.5 4 4.5v13c4 0 6.5.5 8 2 1.5-1.5 4-2 8-2v-13c-4 0-6.5.5-8 2zM12 6.5v13"/></symbol><symbol id="i-code" viewBox="0 0 24 24"><path d="M9 4C7 4 6.5 5 6.5 7v2c0 1.5-.8 2.5-2.5 3 1.7.5 2.5 1.5 2.5 3v2c0 2 .5 3 2.5 3M15 4c2 0 2.5 1 2.5 3v2c0 1.5.8 2.5 2.5 3-1.7.5-2.5 1.5-2.5 3v2c0 2-.5 3-2.5 3"/></symbol><symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M10 4h4M6.5 7l.8 12a2 2 0 0 0 2 1.9h5.4a2 2 0 0 0 2-1.9l.8-12M10 11v6M14 11v6"/></symbol><symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.7h.01"/></symbol><symbol id="i-server" viewBox="0 0 24 24"><rect x="3.5" y="4" width="17" height="6.5" rx="2"/><rect x="3.5" y="13.5" width="17" height="6.5" rx="2"/><path d="M7.5 7.2h.01M7.5 16.8h.01"/></symbol><symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.5l7 2.5v5.5c0 4.3-3 7.6-7 9-4-1.4-7-4.7-7-9V6z"/><path d="M9 12l2 2 4-4"/></symbol><symbol id="i-clipboard" viewBox="0 0 24 24"><rect x="5" y="4.5" width="14" height="16.5" rx="2.5"/><path d="M9 4.5V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v.5M9 10h6M9 14h6"/></symbol><symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.6 3.8 5.6 3.8 9s-1.1 6.4-3.8 9c-2.7-2.6-3.8-5.6-3.8-9S9.3 5.6 12 3z"/></symbol><symbol id="i-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></symbol><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol><symbol id="i-save" viewBox="0 0 24 24"><path d="M12 4v10M8 10.5l4 4 4-4M4.5 15v2.5a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V15"/></symbol><symbol id="i-folder" viewBox="0 0 24 24"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2v7.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></symbol><symbol id="i-import" viewBox="0 0 24 24"><path d="M12 3.5v11M8 11l4 4 4-4"/><rect x="4" y="16.5" width="16" height="4" rx="1.5"/></symbol><symbol id="i-record" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="3" fill="currentColor"/></symbol><symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></symbol><symbol id="i-checkc" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.3l2.8 2.8L16 9.5"/></symbol><symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 4l9 15.5H3z"/><path d="M12 10v4M12 17h.01"/></symbol><symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 3L5 13.5h6L10 21l9-11h-6z"/></symbol><symbol id="i-flask" viewBox="0 0 24 24"><path d="M9.5 3.5h5M10.5 3.5v6L5 18.5a1.8 1.8 0 0 0 1.6 2.5h10.8a1.8 1.8 0 0 0 1.6-2.5L13.5 9.5v-6"/></symbol><symbol id="i-sparkles" viewBox="0 0 24 24"><path d="M12 3.5l1.8 5.2 5.2 1.8-5.2 1.8L12 17.5l-1.8-5.2L5 10.5l5.2-1.8z"/><path d="M19 3v3M17.5 4.5h3"/></symbol><symbol id="i-terminal" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M7 9.5l3 2.5-3 2.5M12.5 15H17"/></symbol><symbol id="i-books" viewBox="0 0 24 24"><path d="M4 4h3.5v16H4zM9.5 4H13v16H9.5zM15 5.5l3.3-.9 3 14.5-3.3.9z"/></symbol><symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 8l8 5.5L20 8"/></symbol><symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 3.5h6l-1 5 3 3V13H7v-1.5l3-3z"/><path d="M12 13v7.5"/></symbol><symbol id="i-split" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M10 4.5v15"/></symbol><symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></symbol><symbol id="i-hash" viewBox="0 0 24 24"><path d="M5 9h14M5 15h14M10 4L8 20M16 4l-2 16"/></symbol><symbol id="i-expand" viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></symbol></defs></svg>
 
-<div class="patch-overlay" id="patchOverlay" data-patch-version="2026-10-11"><!-- 패치노트를 바꿀 때마다 이 값(날짜)도 새로 바꾸면, 아직 이 버전을 "안 뜨게 하기" 하지 않은 사람에게는 이 창이 다시 떠요 -->
+<div class="patch-overlay" id="patchOverlay" data-patch-version="2026-10-24"><!-- 패치노트를 바꿀 때마다 이 값(날짜)도 새로 바꾸면, 아직 이 버전을 "안 뜨게 하기" 하지 않은 사람에게는 이 창이 다시 떠요 -->
   <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="patchTitle" tabindex="-1">
     <button type="button" class="btn lang-toggle" id="langBtnWel" style="float:right; margin-left:10px;" title="화면 언어 · Interface language"><svg class="ic ic-globe" aria-hidden="true"><use href="#i-globe"/></svg>한국어</button>
     <h2 id="patchTitle">다국어 자막 정렬 도구</h2>
     <p class="patch-sub">언어별 원고를 문장 단위로 나눠 한 슬라이드에 짝지어 보고, 확인한 뒤 텍스트로 복사해 가는 도구예요.</p>
+    <div class="howto-note" data-en="&lt;b&gt;New: built-in translation!&lt;/b&gt; On desktop &lt;b&gt;Chrome and Edge&lt;/b&gt; you can now translate with no Docker and no translation server. Click the translation chip at the top once to download the models (first time only). &lt;b&gt;Safari&lt;/b&gt; doesn’t support this — open the page in Chrome or Edge instead."><b>새로 바뀌었어요! 브라우저 내장 번역기</b> 이제 데스크톱 <b>크롬·엣지</b>에서는 Docker나 번역 서버 없이 편하게 번역할 수 있어요. 위쪽 번역 칩을 눌러 모델을 한 번만 받으면 돼요(처음 한 번). <b>사파리</b>는 내장 번역이 안 되니 크롬이나 엣지로 열어 주세요.</div>
 
 
     <h3><svg class="ic ic-flask" aria-hidden="true"><use href="#i-flask"/></svg>튜토리얼 — 번역을 보고 직접 나눠 보기</h3>
@@ -1245,7 +1282,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
         <button type="button" class="btn" id="tutReset">처음부터 다시</button>
       </div>
       <ol class="wel-hint wel-notes">
-        <li data-en="In your actual script, &lt;b&gt;you need to set up the translation server&lt;/b&gt; for translation to work. (See &lt;svg class='ic ic-server' aria-hidden='true'&gt;&lt;use href='#i-server'/&gt;&lt;/svg&gt;Translation server guide.)">실제 본문에서는 <b>번역 소스를 다운받아야</b> 작동해요. (<svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버 안내 참고)</li>
+        <li data-en="In your actual script, translation works with the &lt;b&gt;built-in translator in Chrome or Edge&lt;/b&gt; (download the models once), or with a translation server in other browsers. Safari can’t use the built-in one. (See &lt;svg class='ic ic-server' aria-hidden='true'&gt;&lt;use href='#i-server'/&gt;&lt;/svg&gt;Translation guide.)">실제 본문에서는 <b>크롬·엣지의 내장 번역기</b>(모델을 한 번 받기) 또는 다른 브라우저의 <b>번역 서버</b>로 작동해요. 사파리는 내장 번역을 쓸 수 없어요. (<svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 안내 참고)</li>
         <li data-en="The translation server works better &lt;b&gt;the more it warms up&lt;/b&gt;. It may be slow or awkward at first, but it gets better after a few uses.">번역 소스는 <b>예열이 될수록</b> 더 잘 작동해요. 처음엔 느리거나 어색해도 몇 번 쓰다 보면 나아져요.</li>
       </ol>
       <div class="wel-row" style="display:none" data-devonly="번역기 출력 기록: UI에서만 숨김(기능 코드는 그대로)">
@@ -1257,9 +1294,12 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <textarea style="display:none" class="wel-verse" id="welRecOut" rows="5" readonly spellcheck="false" hidden aria-label="번역기 출력 기록"></textarea>
     </div>
 
-    <details class="wel-fold" id="welPatchFold">
-    <summary><svg class="ic ic-sparkles" aria-hidden="true"><use href="#i-sparkles"/></svg>최신 패치노트<span class="wel-date">2026-10-11</span></summary>
+    <details class="wel-fold" id="welPatchFold" open>
+    <summary><svg class="ic ic-sparkles" aria-hidden="true"><use href="#i-sparkles"/></svg>최신 패치노트<span class="wel-date">2026-10-24</span></summary>
     <ul>
+      <li data-en="&lt;b&gt;Built-in translation in Chrome and Edge.&lt;/b&gt; No Docker or translation server needed any more: click the translation chip once to download the models. Chrome 138+ and Edge 148+ on desktop only; Safari isn’t supported, and other browsers still use the translation server."><b>크롬·엣지에서 내장 번역기를 쓸 수 있어요.</b> 이제 Docker나 번역 서버 없이, 번역 칩을 눌러 모델만 받으면 돼요(데스크톱 크롬 138 이상 · 엣지 148 이상). 사파리는 안 되고, 다른 브라우저는 예전처럼 번역 서버를 써요.</li>
+      <li data-en="&lt;b&gt;You can see how much of the translation models has downloaded.&lt;/b&gt; The translation chip and the translation guide show the progress and which models are still missing."><b>번역 모델을 얼마나 받았는지 보여요.</b> 번역 칩과 번역 안내 창에 진행률과 아직 못 받은 모델이 표시돼요.</li>
+      <li data-en="&lt;b&gt;In Bible DB mode, long verse labels shorten themselves.&lt;/b&gt; When a column is too narrow, a label like “Leviticus 10:6” becomes “Lev 10:6”."><b>성경 DB 모드에서 좁은 칸의 구절 이름표가 약어로 바뀌어요.</b> 칸이 좁아 잘릴 때 “레위기 10:6”이 “레10:6”으로 보여요.</li>
       <li data-en="&lt;b&gt;Guides are shorter and the text is larger.&lt;/b&gt; Button positions and names are now the same in Make slides and Bible DB modes."><b>안내 글을 짧게, 글자를 크게 바꿨어요.</b> 버튼 위치와 이름도 슬라이드 만들기와 성경 DB 모드에서 같게 맞췄어요.</li>
       <li data-en="&lt;b&gt;The drag-translation box now follows long translations to the last line.&lt;/b&gt; The bottom stays in view as the translation changes."><b>드래그 번역 칸이 긴 번역도 마지막 줄까지 따라 내려가요.</b> 번역이 바뀔 때마다 맨 아래가 보여요.</li>
       <li data-en="&lt;b&gt;This guide appears again with each new patch note.&lt;/b&gt; Press &lt;b&gt;Hide until the next patch note&lt;/b&gt; to keep it quiet until then; reopen it any time with &lt;b&gt;&lt;svg class='ic ic-info' aria-hidden='true'&gt;&lt;use href='#i-info'/&gt;&lt;/svg&gt;Getting started&lt;/b&gt; at the top."><b>새 패치노트가 나오면 이 안내 창이 다시 떠요.</b> 맨 아래 <b>다음 패치노트까지 안 뜨게 하기</b>를 누르면 그때까지 조용하고, 위쪽 <b><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</b>로 언제든 다시 볼 수 있어요.</li>
@@ -1319,7 +1359,21 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <div class="patch-overlay" id="howtoOverlay">
   <div class="patch-modal" role="dialog" aria-modal="true" aria-labelledby="howtoTitle" tabindex="-1">
     <h2 id="howtoTitle"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>번역 서버(LibreTranslate) 설치 안내</h2>
-    <p class="patch-sub" data-en="The translation feature needs a &lt;b&gt;translation server (LibreTranslate) running on your own computer&lt;/b&gt;. Everything else works without it.">번역 기능에는 <b>내 컴퓨터에서 도는 번역 서버</b>(LibreTranslate)가 필요해요. 번역 말고 다른 기능은 서버 없이도 쓸 수 있어요.</p>
+    <p class="patch-sub" data-en="Translation works with the &lt;b&gt;built-in translator in Chrome or Edge&lt;/b&gt; (no server), or with a &lt;b&gt;translation server (LibreTranslate)&lt;/b&gt; on your own computer. &lt;b&gt;Safari can’t use the built-in translator.&lt;/b&gt; Everything else works without either.">번역은 <b>크롬·엣지의 내장 번역기</b>(서버 없음) 또는 <b>내 컴퓨터에서 도는 번역 서버</b>(LibreTranslate)로 해요. <b>사파리는 내장 번역기를 쓸 수 없어요.</b> 번역 말고 다른 기능은 둘 다 없이도 쓸 수 있어요.</p>
+    <div class="howto-eng" id="ltEngineInfo">
+      <h3 data-en="Translation status &amp; methods">번역 상태와 방법 정리</h3>
+      <ul class="eng-status">
+        <li><b data-en="In use now">지금 쓰는 방식</b><span class="eng-val" id="ltEngNow" data-s="check">확인 중...</span></li>
+        <li><b data-en="① Browser built-in (Chrome 138+ / Edge 148+)">① 브라우저 내장 번역 (Chrome 138+ · Edge 148+)</b><span class="eng-val" id="ltEngChrome" data-s="check">확인 중...</span><progress id="ltEngProg" max="100" value="0" hidden style="width:100%"></progress></li>
+        <li><b data-en="② Translation server (LibreTranslate)">② 번역 서버 (LibreTranslate)</b><span class="eng-val" id="ltEngServer" data-s="check">확인 중...</span></li>
+      </ul>
+      <ol class="eng-how">
+        <li data-en="&lt;b&gt;① Browser built-in:&lt;/b&gt; no server or Docker. Desktop Chrome 138+ or Edge 148+ only. Click the translation chip at the top once to download the language models (first time only), then it works offline."><b>① 브라우저 내장:</b> 서버·Docker 필요 없음. 데스크톱 크롬 138 이상, 엣지 148 이상에서만 돼요. 위쪽 번역 칩을 한 번 눌러 언어 모델을 받으면(처음 한 번만) 그 뒤로는 인터넷 없이도 돼요.</li>
+        <li data-en="&lt;b&gt;② Translation server:&lt;/b&gt; for Firefox, Edge 147 or older and other browsers. Install Docker and run one command (steps below)."><b>② 번역 서버:</b> 파이어폭스·엣지 147 이하 등 다른 브라우저용이에요. Docker를 설치하고 명령 한 줄을 실행해요(아래 안내).</li>
+        <li data-en="&lt;b&gt;Chrome and Edge:&lt;/b&gt; both work with ① (Chrome 138+, Edge 148+, desktop). &lt;b&gt;Safari (Mac, iPhone, iPad):&lt;/b&gt; ① does not work. Open this page in Chrome or Edge. (The server ② may also be blocked in Safari when the page is opened over https.)"><b>크롬·엣지:</b> 둘 다 ①이 돼요(데스크톱 크롬 138 이상, 엣지 148 이상). <b>사파리(맥·아이폰·아이패드):</b> ①이 안 돼요. 크롬이나 엣지로 열어 주세요. (사파리는 https로 연 페이지에서 번역 서버 ②도 막힐 수 있어요.)</li>
+        <li data-en="&lt;b&gt;Order:&lt;/b&gt; ① is tried first; any language pair it can’t do goes to ② automatically. If neither works, only translation is unavailable. Saved translations (cache) stay in this browser either way."><b>순서:</b> ①을 먼저 쓰고, ①이 못 하는 언어 쌍은 자동으로 ②로 넘어가요. 둘 다 안 되면 번역만 빠지고 나머지는 그대로 써요. 번역 캐시는 어느 쪽이든 이 브라우저에 저장돼요.</li>
+      </ol>
+    </div>
     <div class="howto-note" data-en="&lt;b&gt;Just once:&lt;/b&gt; ① Install Docker Desktop → ② run one command. After that, just &lt;b&gt;keep Docker Desktop running&lt;/b&gt;."><b>처음 한 번만:</b> ① Docker Desktop 설치 → ② 명령 한 줄 실행. 다음부터는 <b>Docker Desktop만 켜 두면</b> 돼요.</div>
     <div class="howto-os"><span data-en="My computer">내 컴퓨터</span><span class="seg" id="howtoOsSeg"><button type="button" data-os="win">Windows</button><button type="button" data-os="mac">Mac</button></span></div>
     <h3 data-en="1. Install Docker Desktop">1. Docker Desktop 설치</h3>
@@ -1443,6 +1497,22 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     </div>
   </div>
 </div>
+<div class="patch-overlay" id="daOverlay">
+  <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="daTitle" tabindex="-1">
+    <h2 id="daTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>구절 추가</h2>
+    <p class="patch-sub" data-en="Pick the Bible, then chapter, then verse, and they're loaded on the same screen right after the verses you're on. Other books, other chapters of the same book, or verses far apart all work. Each verse is still saved on its own, and verses already on screen can't be added twice.">성경 → 장 → 절 순서로 고르면 지금 고른 구절 <b>바로 뒤</b>에 같은 화면으로 불러와요. 다른 성경, 같은 권의 다른 장, 떨어진 절도 모두 돼요. 저장은 <b>절마다 따로</b> 되고, 이미 올라온 절은 다시 추가할 수 없어요.</p>
+    <div class="wel-row imp-pick">
+      <label class="field"><span>성경</span><select id="daBook"></select></label>
+      <label class="field"><span>장</span><select id="daChap"></select></label>
+      <div class="field"><span>절</span><select id="daFrom" title="시작 절"></select><select id="daTo" title="끝 절"></select></div>
+    </div>
+    <div class="imp-box"><p class="patch-sub imp-sum" id="daSum"></p></div>
+    <div class="copy-actions">
+      <button type="button" class="btn primary" id="daGo" disabled>추가하기</button>
+      <button class="patch-close-btn" id="daClose">닫기</button>
+    </div>
+  </div>
+</div>
 <div class="patch-overlay" id="dbGuideOverlay">
   <div class="patch-modal wel-modal" role="dialog" aria-modal="true" aria-labelledby="dbGuideTitle" tabindex="-1">
     <h2 id="dbGuideTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>성경 DB 사용 안내</h2>
@@ -1453,6 +1523,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <li data-en="All the Bible verses here are already recorded in the program.">여기 있는 성경 구절은 <b>전부 프로그램에 기록</b>되어 있는 것이에요.</li>
       <li data-en="You can edit them, but your edits are <b>not</b> sent to the program automatically (they only stay on this PC).">구절은 <b>수정할 수 있어요.</b> 다만 수정한 내용이 프로그램에 <b>자동으로 업데이트되지는 않아요.</b> (이 PC에만 남아요)</li>
       <li data-en="Press the <b>Verse</b> box and pick a start verse, then an end verse (or <b>Whole chapter</b>) to see and edit several verses at once. Each piece carries its own verse label, so verses never get mixed, and pieces of different verses can't be merged.">절 칸을 누르고 <b>시작 절 → 끝 절</b>(또는 <b>장 전체</b>)을 고르면 여러 절을 한 화면에서 보고 고칠 수 있어요. 조각마다 절 표시가 붙어 있어서 <b>절끼리 섞이지 않고</b>, 다른 절의 조각과는 합칠 수 없어요.</li>
+      <li data-en="Press <b>＋ Add verses</b> to load another book, another chapter of the same book, or verses far apart on the same screen. The loaded passages appear as pills at the top: press one to switch the Bible / Chapter / Verse boxes to it, or ✕ to take it off the screen (your edits stay saved). Every verse is still saved on its own, so nothing gets mixed.">위쪽 <b>＋ 구절 추가</b>를 누르면 다른 성경, 같은 권의 다른 장, 떨어진 절도 같은 화면에 함께 불러올 수 있어요. 불러온 구절은 위쪽 <b>알약</b>으로 보여요. 알약을 누르면 성경·장·절 칸이 그 구절로 바뀌고, ✕를 누르면 화면에서만 빠져요(고친 내용은 저장돼 있어요). 저장은 언제나 <b>절마다 따로</b> 되니 섞이지 않아요.</li>
     </ul>
 
     <h3><svg class="ic ic-mail" aria-hidden="true"><use href="#i-mail"/></svg>수정한 내용을 프로그램에 반영하려면</h3>
@@ -1520,6 +1591,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     <details class="hmenu" id="helpMenu"><summary class="btn quiet" title="사용법 · 서버 설치 안내">도움말</summary><div class="hmenu-panel">
       <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
       <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
+      <button type="button" class="btn quiet" id="tipsToggleBtn" title="숨겨 둔 툴팁 줄(단축키 안내)을 다시 보여 줘요"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>툴팁</button>
     </div></details>
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
@@ -1603,6 +1675,8 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     <label class="field"><span>성경</span><select id="dbBook"></select></label>
     <span class="stepgrp"><label class="field"><span>장</span><select id="dbChap"></select></label><button type="button" class="btn step" id="dbChapPrev" title="이전 장" aria-label="이전 장">‹</button><button type="button" class="btn step" id="dbChapNext" title="다음 장" aria-label="다음 장">›</button></span>
     <span class="stepgrp"><label class="field"><span>절</span><select id="dbVerse"></select></label><button type="button" class="btn step" id="dbPrev" title="이전 절 (키보드 ←)" aria-label="이전 절">‹</button><button type="button" class="btn step" id="dbNext" title="다음 절 (키보드 →)" aria-label="다음 절">›</button></span>
+    <div class="dbsegs db-only" id="dbSegs" hidden></div>
+    <button type="button" class="btn quiet" id="dbAddSeg" title="다른 성경·같은 권의 다른 장·떨어진 절을 이 화면에 함께 불러와요 (지금 고른 구절 바로 뒤에 들어가요)">＋ 구절 추가</button>
     <span class="dbstat" id="dbStat"></span>
   </div>
 </header>
@@ -1614,6 +1688,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     <button type="button" id="ltStatusClose">닫기</button>
   </span>
 </div>
+<script>try{if(localStorage.getItem("subtitleTipsHidden")==="1")document.documentElement.setAttribute("data-tips","off");}catch(e){}</script>
 <div class="tips" id="tipsBar">
 <div class="tips-list">  <span><kbd>Enter</kbd> 문장 나누기</span>
   <span>조각 맨 앞에서 <kbd>Backspace</kbd> 앞 조각과 합치기</span>
@@ -1627,6 +1702,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
   <span data-en="&lt;kbd&gt;Ctrl&lt;/kbd&gt;/&lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;G&lt;/kbd&gt; Go to slide number"><kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>G</kbd> 슬라이드 번호로 이동</span>
 </div>
   <button type="button" class="tips-more" id="tipsMoreBtn" aria-expanded="false" title="모든 사용 팁 보기"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>툴팁</button>
+  <button type="button" class="tips-x" id="tipsCloseBtn" aria-label="툴팁 줄 숨기기" title="툴팁 줄 숨기기 (위쪽 도움말 → 툴팁에서 다시 켜요)">✕</button>
 </div>
 <div class="wrap">
   <div class="left" id="left"></div>
@@ -1656,16 +1732,16 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script defer src="js/00-config.js?v=20261002i"></script>
-<script defer src="js/01-core.js?v=20261004a"></script>
+<script defer src="js/01-core.js?v=20261024a"></script>
 <script defer src="js/02-translate.js?v=20261011b"></script>
 <script defer src="js/03-slides.js?v=20261018c"></script>
 <script defer src="js/04-layout-copy.js?v=20261018b"></script>
 <script defer src="js/05-storage.js?v=20261004b"></script>
-<script defer src="js/06-bible-db.js?v=20261018b"></script>
-<script defer src="js/07-bible-copy.js?v=20261018a"></script>
+<script defer src="js/06-bible-db.js?v=20261024a"></script>
+<script defer src="js/07-bible-copy.js?v=20261024a"></script>
 <script defer src="js/08-welcome-demo.js?v=20261011a"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
-<script id="i18nModule" defer src="js/10-i18n.js?v=20261018a"></script>
+<script id="i18nModule" defer src="js/10-i18n.js?v=20261024a"></script>
 <script defer src="js/11-modal-guard.js?v=20261011b"></script>
 <script defer src="js/12-view-only.js?v=20261003hbc"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>

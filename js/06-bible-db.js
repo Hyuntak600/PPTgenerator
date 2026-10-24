@@ -4,7 +4,10 @@
 // 성경 DB 모드: 성경 책 + 장 + 절을 고르면 그 절의 내용이 왼쪽 4개 언어 칸에 올라온다.
 //  - 조각(상자) 하나 = 슬라이드 하나(DB의 Page 값은 상자 순서대로 자동으로 매겨짐). 한 절이 길면 Enter로 나눠서 슬라이드를 늘린다.
 //  - 절 칸에서 "시작 절 → 끝 절" 또는 [장 전체]를 고르면 여러 절을 한 화면에서 보고 고칠 수 있다(복사 창의 절 고르기와 같은 방식).
+//  - [＋ 구절 추가]로 다른 성경·같은 권의 다른 장·떨어진 절을 같은 화면에 더 불러올 수 있다. 불러온 구절 묶음(구절 범위 목록 dbSegs)은 위쪽 알약으로 보이고,
+//    위의 성경·장·절 칸은 "지금 고른 알약(dbActive)" 하나만 바꾼다. 서로 겹치는 절은 함께 올릴 수 없다(같은 절이 두 군데서 저장되는 일을 막음).
 //    왼쪽 조각마다 "절 이름표"(data-v)가 붙어 있어서, 저장할 때는 그 이름표로만 절을 나눈다 → 절끼리 글이 섞이지 않는다.
+//    이름표는 "화면에 올라온 순서의 번호(1, 2, 3 …)"이고, 번호 → 실제 {성경, 장, 절}은 dbCur.units 가 알려 준다(저장 키는 항상 성경|장|절).
 //    (Enter로 나눈 조각은 같은 절에 남고, Backspace로 다른 절과 합치는 것은 막고, 이름표가 어긋나면 저장을 멈춘다)
 //  - 글은 "절 하나씩" 브라우저에 초안으로 저장된다(다른 절·슬라이드 만들기 내용은 건드리지 않음).
 //  - 화면에 올라오는 순서: ① 저장된 초안 → ② bibleDB/ 폴더의 장 파일(하드 코딩된 내용) → ③ 빈 화면
@@ -15,7 +18,9 @@ const dbRoot = document.documentElement;
 const dbBook = document.getElementById("dbBook"), dbChap = document.getElementById("dbChap"),
       dbVerse = document.getElementById("dbVerse"),
       dbStat = document.getElementById("dbStat");
-let dbBroken = false, dbSlideSnap = null, dbSeq = 0, dbMiss = false, dbToV = 1, dbMixWarned = false; // dbToV = 지금 보는 범위의 끝 절(시작 절은 dbVerse 값)
+let dbBroken = false, dbSlideSnap = null, dbSeq = 0, dbMiss = false, dbToV = 1, dbMixWarned = false; // dbToV = 지금 고른 구절 범위의 끝 절(시작 절은 dbVerse 값)
+let dbSegs = [], dbActive = 0;  // 화면에 올린 구절 범위들 [{en,ch,v,vEnd}…] · 위쪽 성경·장·절 칸이 바꾸는 범위의 번호
+const DB_MAX_UNITS = 400;       // 한 화면에 올릴 수 있는 절 수 상한(너무 많으면 화면이 느려져서)
 const dbChapSeen = new Map(); // "책|장" → 내용이 있는 절 수(열어 본 장만 앎)
 let dbVerseHas = new Set();   // 지금 장에서 초안 또는 장 파일에 내용이 있는 절 번호
 dbVerse.title = "절 고르기: 시작 절 → 끝 절을 차례로 누르거나 [장 전체] · ✎ 표시: 고쳤고 아직 안 보낸 절 · ✓ 표시: 고친 뒤 보냈다고 표시한 절 — 🧩 DB 코드 복사 ② 아직 안 보낸 것에서 모아 관리자에게 보내 주세요";
@@ -52,15 +57,22 @@ function dbFileByVerse(en, ch) {
   if (window.BibleDB) BibleDB.rows(en, ch).forEach(r => { if (!m.has(r.Verse)) m.set(r.Verse, []); m.get(r.Verse).push(r); });
   return m;
 }
-// 화면의 글을 "절 이름표(data-v)"로만 나눠, 절 번호 → 그 절의 페이지 목록으로 만든다. 다른 절의 조각은 절대 섞이지 않는다.
+// 장 파일의 절별 내용을 (성경|장)마다 한 번만 훑어 두는 도우미: fb(en, ch) → Map(절 → 행들)
+function dbFileCache() {
+  const c = new Map();
+  return (en, ch) => { const k = en + "|" + ch; if (!c.has(k)) c.set(k, dbFileByVerse(en, ch)); return c.get(k); };
+}
+const dbUnitOf = ord => (dbCur && dbCur.units && dbCur.units[ord - 1]) || null; // 조각의 절 이름표(올라온 순서 번호) → 실제 {en, ch, v}
+// 화면의 글을 "절 이름표(data-v)"로만 나눠, 이름표(번호) → 그 절의 페이지 목록으로 만든다. 다른 절의 조각은 절대 섞이지 않는다.
 // (한 절 안에서는 뒤쪽의 빈 페이지는 버리고, 앞·사이의 빈 페이지는 빈 글로 둔다 — 예전 한 절 보기와 같은 규칙)
-function dbPagesByVerse(o, fileBy) {
+function dbPagesByVerse(o, fb) {
   const cols = readColumns(), rows = rowsOf(cols), meta = buildRowMap(), by = new Map(), res = new Map();
   rows.forEach((r, i) => { const v = meta[i] && meta[i].v; if (!v) return; if (!by.has(v)) by.set(v, []); by.get(v).push(r); });
   by.forEach((list, v) => {
+    const u = dbUnitOf(v); if (!u) return;
     let need = 0;
     list.forEach((r, i) => { if (Object.values(r).some(it => it && it.filled)) need = i + 1; });
-    const src = dbSourceWith(o, dbCur.en, dbCur.ch, v, fileBy).pages, pages = [];
+    const src = dbSourceWith(o, u.en, u.ch, u.v, fb(u.en, u.ch)).pages, pages = [];
     for (let i = 0; i < need; i++) {
       const p = {};
       LANGS.forEach(({ code }) => { const it = list[i][code]; p[DB_FIELD[code]] = it && it.filled ? it.value.trim() : ""; });
@@ -71,12 +83,13 @@ function dbPagesByVerse(o, fileBy) {
   });
   return res;
 }
-// 화면의 모든 조각이 지금 고른 절 범위의 이름표를 달고 있는지: 아니면 어느 절의 글인지 알 수 없으니 저장하지 않는다
+// 화면의 모든 조각이 지금 올라온 절들 중 하나의 이름표를 달고 있는지: 아니면 어느 절의 글인지 알 수 없으니 저장하지 않는다
 function dbIntegrity() {
-  const s = dbCur; if (!s) return false;
-  return [...left.querySelectorAll(":scope > .col > .box")].every(b => { const v = +b.dataset.v; return v >= s.v && v <= s.vEnd; });
+  const s = dbCur; if (!s || !s.units) return false;
+  const n = s.units.length;
+  return [...left.querySelectorAll(":scope > .col > .box")].every(b => { const v = +b.dataset.v; return Number.isInteger(v) && v >= 1 && v <= n; });
 }
-function saveDbNow() { // 지금 올라와 있는 절(들)만 저장(다른 절은 그대로). 한 번에 한 번만 기록
+function saveDbNow() { // 지금 올라와 있는 절(들)만 저장(다른 절·다른 장·다른 성경은 그대로). 한 번에 한 번만 기록
   if (appMode !== "db" || !dbCur || dbBroken || localWiped) return;
   if (!dbIntegrity()) {
     saveWarnEl.hidden = false;
@@ -86,9 +99,10 @@ function saveDbNow() { // 지금 올라와 있는 절(들)만 저장(다른 절�
   try {
     const o = dbRead();
     if (dbBroken) return;
-    const fileBy = dbFileByVerse(dbCur.en, dbCur.ch), byV = dbPagesByVerse(o, fileBy);
-    byV.forEach((pages, v) => { // 화면에 조각이 있는 절만 다룸(없는 절은 건드리지 않음)
-      const k = dbKey({ en: dbCur.en, ch: dbCur.ch, v }), fr = fileBy.get(v) || [];
+    const fb = dbFileCache(), byV = dbPagesByVerse(o, fb);
+    byV.forEach((pages, ord) => { // 화면에 조각이 있는 절만 다룸(없는 절은 건드리지 않음). 저장 키는 이름표가 가리키는 실제 성경|장|절
+      const u = dbUnitOf(ord); if (!u) return;
+      const k = dbKey({ en: u.en, ch: u.ch, v: u.v }), fr = fb(u.en, u.ch).get(u.v) || [];
       const before = o.d[k] === undefined ? null : dbNormPages(o.d[k]);
       if (dbNormPages(pages) === dbNormPages(fr)) { delete o.d[k]; delete o.t[k]; delete o.s[k]; } // 장 파일과 같으면 초안이 필요 없음
       else if (pages.length || fr.length) { o.d[k] = pages; if (before !== dbNormPages(pages)) o.t[k] = Date.now(); } // 파일에 있는 절을 일부러 비운 경우는 빈 초안([])으로 기억 · 내용이 실제로 바뀐 때만 수정 시각 갱신
@@ -100,6 +114,12 @@ function saveDbNow() { // 지금 올라와 있는 절(들)만 저장(다른 절�
   } catch (e) { saveWarnEl.hidden = false; }
 }
 // 초안이 장 파일(하드 코딩된 내용)과 다른 절에 ✎ 표시 + 이 장에서 아직 코드에 반영 안 된 절 수를 상태줄에 표시
+function dbHasSet(en, ch) { // 그 장에서 초안 또는 장 파일에 내용이 있는 절 번호들(빈 초안 = 일부러 비운 절은 뺌)
+  const has = new Set(), filled = p => p && (p.Kor || p.Chn || p.Eng || p.Ind), pre = en + "|" + ch + "|", d = dbRead().d;
+  if (window.BibleDB) BibleDB.rows(en, ch).forEach(r => { if (filled(r)) has.add(r.Verse); });
+  Object.keys(d).forEach(k => { if (!k.startsWith(pre)) return; const v = parseInt(k.slice(pre.length), 10); if ((d[k] || []).some(filled)) has.add(v); else has.delete(v); });
+  return has;
+}
 function dbNormPages(list) { return JSON.stringify((list || []).map(p => [p.Kor, p.Chn, p.Eng, p.Ind].map(x => (x || "").trim()).concat(p.ChnVerseEnd || 0))); }
 function dbMarkVerses() {
   const s = dbCur; if (!s || !window.BibleDB) return;
@@ -115,7 +135,7 @@ function dbMarkVerses() {
   Object.keys(d).forEach(k => { if (!k.startsWith(pre)) return; const v = parseInt(k.slice(pre.length), 10); if ((d[k] || []).some(filled)) has.add(v); else has.delete(v); }); // 빈 초안 = 일부러 비운 절
   dbVerseHas = has; dbChapSeen.set(s.en + "|" + s.ch, has.size);
   [...dbVerse.options].forEach(o => { const t = o.value + (pend.has(+o.value) ? (sentOk.has(+o.value) ? " ✓" : " ✎") : ""); if (o.textContent !== t) o.textContent = t; });
-  dbStat.textContent = dbMiss ? "⚠ 이 장의 성경 데이터를 찾지 못했어요" : ""; // 문제가 있을 때만 표시
+  dbStat.textContent = dbMiss ? (dbSegs.length > 1 ? "⚠ 일부 장의 성경 데이터를 찾지 못했어요" : "⚠ 이 장의 성경 데이터를 찾지 못했어요") : ""; // 문제가 있을 때만 표시
 }
 function dbSourceWith(o, en, ch, v, fileBy) { // 초안이 있으면 초안, 없으면 장 파일, 그것도 없으면 빈 절
   const k = en + "|" + ch + "|" + v;
@@ -164,25 +184,49 @@ function dbRefFor(en, ch, v) {
   const r = window.BibleDB ? BibleDB.rows(en, ch).find(x => x.Page === 1 && x.ChnVerseEnd >= v && x.Verse <= v && x.Chn) : null;
   return r ? { en, ch, v: r.Verse, vEnd: r.ChnVerseEnd } : { en, ch, v };
 }
-// 슬라이드마다 "자기 절"의 구절 표시를 넣는다(여러 절을 한 화면에 볼 때 슬라이드마다 다름). 03-slides.js의 refreshInfo가 부름
+// 슬라이드마다 "자기 절"의 구절 표시를 넣는다(여러 절·여러 장·여러 성경을 한 화면에 볼 때 슬라이드마다 다름). 03-slides.js의 refreshInfo가 부름
 function dbRefreshTags() {
-  const s = dbCur; if (!s || !window.BibleDB) return;
+  const s = dbCur; if (!s || !window.BibleDB || !s.units) return;
   const rows = buildRowMap(), blocks = right.children, cache = new Map();
-  const text = v => { let t = cache.get(v); if (t === undefined) { t = dbRefText(dbRefFor(s.en, s.ch, v)); cache.set(v, t); } return t; };
+  const text = ord => { let t = cache.get(ord); if (t === undefined) { const u = s.units[ord - 1]; t = u ? dbRefText(dbRefFor(u.en, u.ch, u.v)) : ""; cache.set(ord, t); } return t; };
   rows.forEach((r, i) => {
     const b = blocks[i]; if (!b || !b._row || !r.v) return;
     const tag = b._row.querySelector(".ref-tag"), t = text(r.v);
     if (tag && tag.textContent !== t) tag.textContent = t;
   });
   fitRefTags();
-  dbRefStr = text(s.v); // 글자 맞춤 계산이 "위쪽 구절 자리가 있다"고 알게 하는 값
+  dbRefStr = text(1); // 글자 맞춤 계산이 "위쪽 구절 자리가 있다"고 알게 하는 값
 }
 function dbRowRef(i) { const b = right.children[i], t = b && b._row && b._row.querySelector(".ref-tag"); return (t && t.textContent) || dbRefStr; } // 슬라이드 i번(0부터)의 구절 표시
-// 왼쪽 조각 번호표 옆에 "절 표시"(여러 절을 볼 때만) + 절이 바뀌는 자리의 구분선·번갈아 색. 높이를 바꾸지 않는 표시만 써서 줄 맞춤이 어긋나지 않음
+// 왼쪽 조각 번호표의 구절 이름표(예: "레위기 10:6")가 칸이 좁아 잘리면 약어("레10:6" · 영어 화면은 "Lev 10:6")로 바꿔 보여 줌. 책 번호 1~66 순서.
+// 전체 이름은 data-vl, 약어는 data-vs에 두고, 잘릴 때만 data-short를 켜서 CSS가 약어를 보여 줌(마우스를 올리면 전체 이름이 말풍선으로 뜸).
+const VL_ABBR_KO = "창,출,레,민,신,수,삿,룻,삼상,삼하,왕상,왕하,대상,대하,스,느,에,욥,시,잠,전,아,사,렘,애,겔,단,호,욜,암,옵,욘,미,나,합,습,학,슥,말,마,막,눅,요,행,롬,고전,고후,갈,엡,빌,골,살전,살후,딤전,딤후,딛,몬,히,약,벧전,벧후,요일,요이,요삼,유,계".split(",");
+const VL_ABBR_EN = "Gen,Exod,Lev,Num,Deut,Josh,Judg,Ruth,1 Sam,2 Sam,1 Kgs,2 Kgs,1 Chr,2 Chr,Ezra,Neh,Esth,Job,Ps,Prov,Eccl,Song,Isa,Jer,Lam,Ezek,Dan,Hos,Joel,Amos,Obad,Jonah,Mic,Nah,Hab,Zeph,Hag,Zech,Mal,Matt,Mark,Luke,John,Acts,Rom,1 Cor,2 Cor,Gal,Eph,Phil,Col,1 Thess,2 Thess,1 Tim,2 Tim,Titus,Phlm,Heb,Jas,1 Pet,2 Pet,1 John,2 John,3 John,Jude,Rev".split(",");
+let vlFitQueued = false;
+function fitVerseLabels() { // 잘리는 이름표만 약어로(읽기 → 쓰기를 한꺼번에 해서 화면 계산을 반복하지 않음)
+  if (vlFitQueued) return;
+  vlFitQueued = true;
+  requestAnimationFrame(() => {
+    vlFitQueued = false;
+    const ns = [...left.querySelectorAll(".box-num[data-vl]")];
+    ns.forEach(n => { if (n.dataset.short !== undefined) delete n.dataset.short; if (n.title === n.dataset.vl) n.removeAttribute("title"); });
+    const clip = ns.map(n => !!n.dataset.vs && n.clientWidth > 0 && n.scrollWidth > n.clientWidth + 1);
+    ns.forEach((n, i) => { if (clip[i]) { n.dataset.short = "1"; n.title = n.dataset.vl; } });
+  });
+}
+const vlRO = typeof ResizeObserver === "function" ? new ResizeObserver(() => fitVerseLabels()) : null;
+if (vlRO) vlRO.observe(left);
+window.addEventListener("resize", fitVerseLabels);
+// 왼쪽 조각 번호표 옆에 "절 표시"(여러 절을 볼 때만) + 절이 바뀌는 자리의 구분선. 높이를 바꾸지 않는 표시만 써서 줄 맞춤이 어긋나지 않음
+// 한 장이면 "16절", 여러 장이면 "3:16", 여러 성경이면 "요한복음 3:16"처럼 어느 장·성경의 절인지도 함께 보여 줌
 function dbUpdateVerseChips() {
-  const s = dbCur; if (!s) return;
-  const multi = s.vEnd > s.v;
+  const s = dbCur; if (!s || !s.units) return;
+  const U = s.units, multi = U.length > 1, en = document.documentElement.lang === "en";
+  const oneBk = U.every(u => u.en === U[0].en), oneCh = oneBk && U.every(u => u.ch === U[0].ch);
+  const lab0 = (u, suf) => oneCh ? (en ? "v" + u.v + suf : u.v + suf + "절") : oneBk ? u.ch + ":" + u.v + suf : bkName(BibleDB.book(u.en)) + " " + u.ch + ":" + u.v + suf;
+  const lab0s = (u, suf) => { const bi = BibleDB.book(u.en), n = bi ? (+bi.no > 0 ? +bi.no : BibleDB.books.indexOf(bi) + 1) - 1 : -1, a = (en ? VL_ABBR_EN : VL_ABBR_KO)[n]; return a ? a + (en ? " " : "") + u.ch + ":" + u.v + suf : ""; }; // 약어 이름표 (성경이 여러 개일 때만 이름이 들어가므로 그때만 만듦)
   left.querySelectorAll(":scope > .col").forEach(col => {
+    if (vlRO) vlRO.observe(col); // 칸 너비가 바뀔 때마다 다시 판단
     const boxes = [...col.querySelectorAll(":scope > .box")], cnt = new Map(), seen = new Map();
     boxes.forEach(b => cnt.set(b.dataset.v, (cnt.get(b.dataset.v) || 0) + 1));
     let prevV = null, alt = false;
@@ -190,51 +234,160 @@ function dbUpdateVerseChips() {
       const v = b.dataset.v, first = v !== prevV;
       if (first) { if (prevV !== null) alt = !alt; prevV = v; }
       const k = seen.get(v) || 0; seen.set(v, k + 1);
-      const lab = multi ? v + (cnt.get(v) > 1 ? (k < 26 ? String.fromCharCode(97 + k) : "-" + (k + 1)) : "") : "";
-      if (lab) { if (b._num.dataset.vl !== lab) b._num.dataset.vl = lab; } else if (b._num.dataset.vl !== undefined) delete b._num.dataset.vl;
+      const u = U[(+v) - 1], suf = cnt.get(v) > 1 ? (k < 26 ? String.fromCharCode(97 + k) : "-" + (k + 1)) : "";
+      const lab = multi && u ? lab0(u, suf) : "";
+      const sh = lab && !oneBk ? lab0s(u, suf) : "";
+      if (sh) { if (b._num.dataset.vs !== sh) b._num.dataset.vs = sh; } else if (b._num.dataset.vs !== undefined) delete b._num.dataset.vs;
+      if (lab) { if (b._num.dataset.vl !== lab) b._num.dataset.vl = lab; } else if (b._num.dataset.vl !== undefined) { delete b._num.dataset.vl; delete b._num.dataset.short; }
       b.classList.toggle("vfirst", multi && first);
       b.classList.toggle("valt", multi && alt);
     });
   });
+  fitVerseLabels();
 }
+// ---- 불러온 구절 범위들(dbSegs) 다루기 ----
+const dbSegNorm = s => { // 범위 하나를 바르게 고침(없는 성경이면 null)
+  const b = window.BibleDB && s ? BibleDB.book(s.en) : null; if (!b) return null;
+  const ch = Math.min(Math.max(1, s.ch | 0), b.chapters || 1), v = Math.max(1, s.v | 0);
+  return { en: s.en, ch, v, vEnd: Math.max(v, s.vEnd | 0) };
+};
+const dbSegHit = (a, b) => a.en === b.en && a.ch === b.ch && a.v <= b.vEnd && b.v <= a.vEnd; // 같은 절이 겹치는지
+const dbSegName = s => bkName(BibleDB.book(s.en)) + " " + s.ch + ":" + (s.vEnd > s.v ? s.v + "-" + s.vEnd : s.v);
+const dbSegCount = segs => segs.reduce((n, s) => n + (s.vEnd - s.v + 1), 0);
+function dbSegsCheck(segs) { // 문제가 없으면 "", 있으면 알려 줄 글
+  for (let i = 0; i < segs.length; i++) for (let j = i + 1; j < segs.length; j++) if (dbSegHit(segs[i], segs[j])) return "이미 불러온 절과 겹쳐요. 겹치지 않는 절을 골라 주세요.";
+  if (dbSegCount(segs) > DB_MAX_UNITS) return "한 화면에는 절을 최대 " + DB_MAX_UNITS + "절까지 불러올 수 있어요.";
+  return "";
+}
+function dbSegsClean(list) { // 저장돼 있던 목록을 다시 불러올 때: 겹치거나 너무 많은 것은 조용히 뒤쪽부터 뺌
+  const out = [];
+  list.forEach(s => { const n = dbSegNorm(s); if (!n || out.some(o => dbSegHit(o, n)) || dbSegCount(out.concat([n])) > DB_MAX_UNITS) return; out.push(n); });
+  return out;
+}
+function dbSelStore() { const a = dbSegs[dbActive] || { en: "Genesis", ch: 1, v: 1, vEnd: 1 }; return { en: a.en, ch: a.ch, v: a.v, vEnd: a.vEnd, segs: dbSegs, active: dbActive }; }
+function dbSaveSel() { try { localStorage.setItem(DB_SEL_KEY, JSON.stringify(dbSelStore())); } catch (e) { /* 무시 */ } }
+// 위쪽 성경·장·절 칸을 지금 고른 범위(dbActive)에 맞춤(화면의 글은 그대로 둠)
+function dbSyncBar() {
+  const s = dbSegs[dbActive]; if (!s || !window.BibleDB) return;
+  dbBook.value = s.en; fillNum(dbChap, BibleDB.book(s.en).chapters, s.ch);
+  fillNum(dbVerse, Math.max(dbVerseMax(s), s.vEnd), s.v);
+  dbToV = s.vEnd;
+  macSyncs.forEach(f => f());
+}
+// 범위 i의 첫 절 자리로 왼쪽·오른쪽 화면을 옮김(첫 범위면 맨 위)
+function dbFocusSeg(i, smooth) {
+  const s = dbCur; if (!s) return;
+  const ord = s.starts[i] || 1;
+  if (ord === 1) { left.scrollTop = 0; right.scrollTop = 0; return; }
+  const place = sm => {
+    if (dbCur !== s) return;
+    const col = left.querySelector(":scope > .col"), box = col && col.querySelector(':scope > .box[data-v="' + ord + '"]');
+    const ri = buildRowMap().findIndex(r => r.v === ord), blk = right.children[ri];
+    if (box && box.isConnected) placeBoxAtTop(box, sm);
+    if (blk) placeSlideAtTop(blk, sm);
+  };
+  requestAnimationFrame(() => requestAnimationFrame(() => { place(!!smooth); setTimeout(() => place(false), 300); })); // 상자 높이가 늦게 잡혀도 한 번 더 맞춤
+}
+function dbActivate(i) { // 알약을 눌러 그 범위를 "지금 고른 범위"로(성경·장·절 칸이 그 범위로 바뀜)
+  const s = dbCur; if (!s || !dbSegs[i]) return;
+  if (i !== dbActive) {
+    dbActive = i; const a = dbSegs[i];
+    s.active = i; s.en = a.en; s.ch = a.ch; s.v = a.v; s.vEnd = a.vEnd;
+    dbSyncBar(); dbMarkVerses(); dbRenderSegs(); dbSaveSel();
+  }
+  dbFocusSeg(i, true);
+}
+function dbRemoveSeg(i) { // 화면에서만 뺌(고친 내용은 이미 저장돼 있음)
+  if (!dbCur || dbSegs.length < 2 || !dbSegs[i]) return;
+  const segs = dbSegs.filter((_, k) => k !== i);
+  let a = dbActive; if (i < a) a--; else if (i === a) a = Math.min(i, segs.length - 1);
+  dbGo({ segs, active: a });
+  showToast("화면에서 뺐어요. 고친 내용은 저장돼 있어요.");
+}
+const dbSegsEl = document.getElementById("dbSegs");
+let dbSegsSig = "";
+function dbRenderSegs() {
+  if (!dbSegsEl || !window.BibleDB) return;
+  const many = dbSegs.length > 1;
+  dbSegsEl.hidden = !many;
+  const sig = many ? document.documentElement.lang + "|" + dbActive + "|" + dbSegs.map(dbSegName).join("§") : "";
+  if (sig === dbSegsSig) return; dbSegsSig = sig;
+  dbSegsEl.textContent = "";
+  if (!many) return;
+  dbSegs.forEach((s, i) => {
+    const chip = document.createElement("span"); chip.className = "seg-chip" + (i === dbActive ? " active" : "");
+    const b = document.createElement("button"); b.type = "button"; b.className = "seg-chip-b"; b.textContent = dbSegName(s);
+    b.title = "눌러서 이 구절로 이동해요 (위의 성경·장·절이 이 구절 기준으로 바뀌어요)";
+    b.addEventListener("click", () => dbActivate(i));
+    const x = document.createElement("button"); x.type = "button"; x.className = "seg-chip-x"; x.textContent = "✕";
+    x.title = "이 구절을 화면에서 빼요 (고친 내용은 저장돼 있어요)"; x.setAttribute("aria-label", "이 구절을 화면에서 빼요");
+    x.addEventListener("click", () => dbRemoveSeg(i));
+    chip.append(b, x); dbSegsEl.appendChild(chip);
+  });
+}
+// sel = {en,ch,v,vEnd}: 지금 고른 범위(dbActive) 하나만 이 값으로 바꿔서 다시 올림 · {segs, active}: 구절 범위 목록 전체를 이 값으로 올림(복원·추가·빼기)
 async function dbGo(sel) {
+  if (!window.BibleDB) { saveDbNow(); dbCur = null; dbStat.textContent = "⚠ bibleDB/bibledb.js를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요."; return; }
+  let segs, active;
+  if (sel.segs) { // 목록 전체: 저장돼 있던 것을 되살리거나 추가·빼기한 결과
+    segs = dbSegsClean(sel.segs); active = Math.min(Math.max(0, sel.active | 0), Math.max(0, segs.length - 1));
+  } else { // 활성 범위 하나만 교체
+    const one = dbSegNorm(sel);
+    segs = dbSegs.length ? dbSegs.slice() : []; active = dbSegs.length ? Math.min(dbActive, segs.length - 1) : 0;
+    if (one) { if (segs.length) segs[active] = one; else segs = [one]; }
+    const bad = dbSegsCheck(segs);
+    if (bad) { showToast(bad, true); if (dbCur) dbSyncBar(); return; } // 지금 화면은 그대로 두고 위쪽 칸만 원래대로
+  }
+  if (!segs.length) { segs = [{ en: "Genesis", ch: 1, v: 1, vEnd: 1 }]; active = 0; }
   saveDbNow(); dbCur = null; // 지금 절(들)을 먼저 저장하고, 불러오는 동안은 저장하지 않음
   const my = ++dbSeq;
-  const v0 = Math.max(1, (sel.v | 0) || 1);
-  sel = { en: sel.en, ch: sel.ch, v: v0, vEnd: Math.max(v0, (sel.vEnd | 0) || v0) };
-  try { localStorage.setItem(DB_SEL_KEY, JSON.stringify(sel)); } catch (e) { /* 무시 */ }
-  if (!window.BibleDB) { dbStat.textContent = "⚠ bibleDB/bibledb.js를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요."; return; }
-  dbBook.value = sel.en;
-  fillNum(dbChap, BibleDB.book(sel.en).chapters, sel.ch);
+  dbSegs = segs; dbActive = active;
+  const act = segs[active];
+  dbSaveSel();
+  dbBook.value = act.en;
+  fillNum(dbChap, BibleDB.book(act.en).chapters, act.ch);
   let miss = false;
   dbStat.textContent = "불러오는 중...";
-  try { await BibleDB.load(sel.en, sel.ch); } catch (e) { miss = true; }
-  if (my !== dbSeq) return; // 그 사이 다른 절을 골랐으면 이 결과는 버림
-  const top = Math.max(dbVerseMax(sel), v0);
-  sel.vEnd = Math.min(sel.vEnd, top);
-  fillNum(dbVerse, top, sel.v);
-  dbToV = sel.vEnd;
-  setRefTags(dbRefText(dbRefFor(sel.en, sel.ch, sel.v)));
-  dbRefSrc = { en: sel.en, ch: sel.ch, v: sel.v };
-  const o = dbRead(), fileBy = dbFileByVerse(sel.en, sel.ch), items = [];
-  for (let v = sel.v; v <= sel.vEnd; v++) items.push({ v, pages: dbSourceWith(o, sel.en, sel.ch, v, fileBy).pages });
+  const seen = new Set();
+  for (const s of segs) { // 필요한 장 파일을 차례로 불러옴(같은 장은 한 번만)
+    const k = s.en + "|" + s.ch; if (seen.has(k)) continue; seen.add(k);
+    try { await BibleDB.load(s.en, s.ch); } catch (e) { miss = true; }
+    if (my !== dbSeq) return; // 그 사이 다른 절을 골랐으면 이 결과는 버림
+  }
+  segs.forEach(s => { s.vEnd = Math.min(s.vEnd, Math.max(dbVerseMax(s), s.v)); }); // 장의 마지막 절을 넘지 않게
+  fillNum(dbVerse, Math.max(dbVerseMax(act), act.v), act.v);
+  dbToV = act.vEnd;
+  const o = dbRead(), fb = dbFileCache(), units = [], starts = [], items = [];
+  segs.forEach(s => { // 범위마다 절을 차례로: 올라온 순서의 번호(1, 2, 3 …)가 곧 조각의 절 이름표
+    starts.push(units.length + 1);
+    for (let v = s.v; v <= s.vEnd; v++) { units.push({ en: s.en, ch: s.ch, v }); items.push({ ord: units.length, pages: dbSourceWith(o, s.en, s.ch, v, fb(s.en, s.ch)).pages }); }
+  });
+  setRefTags(dbRefText(dbRefFor(units[0].en, units[0].ch, units[0].v)));
+  dbRefSrc = { en: act.en, ch: act.ch, v: act.v };
   const map = {};
   LANGS.forEach(({ code }) => {
     map[code] = [];
-    items.forEach(({ v, pages }) => { (pages.length ? pages : [{}]).forEach(p => map[code].push({ t: p[DB_FIELD[code]] || "", v })); }); // 절마다 조각이 1개 이상, 모든 조각에 절 이름표
+    items.forEach(({ ord, pages }) => { (pages.length ? pages : [{}]).forEach(p => map[code].push({ t: p[DB_FIELD[code]] || "", v: ord })); }); // 절마다 조각이 1개 이상, 모든 조각에 절 이름표
   });
   fillColumns(map);
-  dbCur = sel;
+  dbCur = { en: act.en, ch: act.ch, v: act.v, vEnd: act.vEnd, segs, active, units, starts }; // en·ch·v·vEnd = 지금 고른 범위(위쪽 칸 기준)
   dbMiss = miss; dbMixWarned = false;
   dbMarkVerses();
-  dbRefreshTags(); dbUpdateVerseChips();
+  dbRefreshTags(); dbUpdateVerseChips(); dbRenderSegs();
   macSyncs.forEach(f => f()); // 절 칸 글자(시작 ~ 끝)를 새 범위에 맞춤
-  left.scrollTop = 0; right.scrollTop = 0;
-  try { localStorage.setItem(DB_SEL_KEY, JSON.stringify(sel)); } catch (e) { /* 무시 */ } // 끝 절이 줄었을 수 있어 다시 저장
+  dbFocusSeg(active, false);
+  dbSaveSel(); // 끝 절이 줄었을 수 있어 다시 저장
 }
 function dbSelNow() { const v = +dbVerse.value || 1; return { en: dbBook.value, ch: +dbChap.value || 1, v, vEnd: Math.max(v, dbToV | 0) }; }
 function dbLoadSel() {
-  try { const s = JSON.parse(localStorage.getItem(DB_SEL_KEY)); if (s && BibleDB.book(s.en)) { const v = Math.max(1, s.v | 0); return { en: s.en, ch: Math.max(1, s.ch | 0), v, vEnd: Math.max(v, s.vEnd | 0) }; } } catch (e) { /* 기본값 */ }
+  try {
+    const s = JSON.parse(localStorage.getItem(DB_SEL_KEY));
+    if (s && BibleDB.book(s.en)) {
+      const segs = Array.isArray(s.segs) ? dbSegsClean(s.segs) : [];
+      if (segs.length) { const a = Math.min(Math.max(0, s.active | 0), segs.length - 1); return Object.assign({}, segs[a], { segs, active: a }); }
+      const v = Math.max(1, s.v | 0); return { en: s.en, ch: Math.max(1, s.ch | 0), v, vEnd: Math.max(v, s.vEnd | 0) };
+    }
+  } catch (e) { /* 기본값 */ }
   return { en: "Genesis", ch: 1, v: 1, vEnd: 1 };
 }
 if (window.BibleDB) BibleDB.books.forEach(b => {
@@ -594,6 +747,91 @@ pkMake([dbVerse], () => {
   if (dbToV > +o.value) return { text: o.value + " ~ " + dbToV };
   return { text: o.textContent };
 }, 60, close => pkVerseMenu(close, dbVCtx)).title = dbVerse.title;
+// ---- 성경 DB 모드: [＋ 구절 추가] — 다른 성경 · 같은 권의 다른 장 · 떨어진 절을 같은 화면에 더 불러오기 ----
+// 성경 → 장 → 절(시작 → 끝, 또는 장 전체)을 고르면 "지금 고른 구절 바로 뒤"에 새 범위로 들어간다. 이미 올라온 절과 겹치면 막는다.
+// 올라온 범위들은 위쪽 알약으로 보이고, 알약을 누르면 위쪽 성경·장·절 칸이 그 범위 기준으로 바뀐다. 저장은 절마다 성경|장|절 키로 따로 된다.
+const daOverlay = document.getElementById("daOverlay"), daBook = document.getElementById("daBook"), daChap = document.getElementById("daChap"),
+      daFrom = document.getElementById("daFrom"), daTo = document.getElementById("daTo"), daSum = document.getElementById("daSum"), daGo = document.getElementById("daGo");
+let daSeq = 0, daInited = false, daLoaded = false, daLoading = null, daCells = [];
+function daFill(sel, placeholder) {
+  sel.textContent = "";
+  const ph = document.createElement("option"); ph.value = ""; ph.textContent = placeholder; sel.appendChild(ph);
+  daCells.forEach((c, i) => { const o = document.createElement("option"); o.value = String(i); o.textContent = c.label; if (c.title) o.title = c.title; sel.appendChild(o); });
+  sel.value = "";
+}
+function daRange() { // 고른 범위 [처음 번호, 끝 번호] (시작 절을 안 골랐으면 null)
+  if (daFrom.value === "" || !daCells[+daFrom.value]) return null;
+  const a = +daFrom.value, b = daTo.value === "" || !daCells[+daTo.value] ? a : +daTo.value;
+  return [Math.min(a, b), Math.max(a, b)];
+}
+function daSeg() { const r = daRange(); return r ? { en: daBook.value, ch: +daChap.value || 1, v: r[0] + 1, vEnd: r[1] + 1 } : null; }
+function daList(seg) { const l = dbSegs.slice(); l.splice(dbActive + 1, 0, seg); return l; } // 새 범위는 지금 고른 범위 바로 뒤에
+function daUpdateSum() {
+  macSyncs.forEach(f => f());
+  const seg = daSeg();
+  if (!daLoaded) { daSum.textContent = "불러오는 중..."; daGo.disabled = true; return; }
+  if (!seg) { daSum.textContent = "절을 골라 주세요."; daGo.disabled = true; return; }
+  const bad = dbSegsCheck(daList(seg));
+  if (bad) { daSum.textContent = bad; daGo.disabled = true; return; }
+  daSum.textContent = dbSegName(seg) + " · " + (seg.vEnd - seg.v + 1) + "절";
+  daGo.disabled = false;
+}
+async function daLoad() {
+  const my = ++daSeq, en = daBook.value, ch = +daChap.value || 1;
+  daCells = []; daLoaded = false; daFill(daFrom, "시작 절 선택"); daFill(daTo, "끝 절 선택"); daUpdateSum();
+  try { await BibleDB.load(en, ch); } catch (e) { /* 장 파일이 없으면 초안만 보임 */ }
+  if (my !== daSeq) return; // 그 사이 다른 장을 골랐으면 이 결과는 버림
+  const top = Math.max(dbVerseMax({ en, ch }), 1), has = dbHasSet(en, ch);
+  for (let v = 1; v <= top; v++) daCells.push({ label: String(v), item: v - 1, title: has.has(v) ? "" : "아직 데이터가 없어요", dim: !has.has(v) }); // 내용 없는 절도 고를 수 있음(새로 입력하려고)
+  daFill(daFrom, "시작 절 선택"); daFill(daTo, "끝 절 선택");
+  dbChapSeen.set(en + "|" + ch, has.size);
+  daLoaded = true; daUpdateSum();
+}
+function daInit() {
+  if (daInited) return; daInited = true;
+  BibleDB.books.forEach(b => { const o = document.createElement("option"); o.value = b.en; o.textContent = b.no + ". " + b.ko + " (" + b.en + ")"; daBook.appendChild(o); });
+  const ctx = { book: daBook, chap: daChap, lockEmpty: false, cols: 7 };
+  let chapBtn = null, verseBtn = null;
+  const afterChap = () => { const seq = daSeq; Promise.resolve(daLoading).then(() => { if (seq === daSeq && daOverlay.classList.contains("open") && !pkClose) verseBtn.pkOpen(); }); };
+  pkMake([daBook], () => { const b = daBook.value ? BibleDB.book(daBook.value) : null; return { text: b ? bkName(b) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
+  chapBtn = pkMake([daChap], () => ({ text: daChap.value ? daChap.value + "장" : "장", ph: !daChap.value }), 64, close => pkChapMenu(close, afterChap, ctx)); chapBtn.title = "장 고르기";
+  const vctx = { book: null, chap: null, from: daFrom, to: daTo, cells: () => daCells, loaded: () => daLoaded, range: daRange, update: daUpdateSum,
+    all: () => { if (!daCells.length) return; daFrom.value = "0"; daTo.value = String(daCells.length - 1); daUpdateSum(); }, unit: "절", allText: "장 전체", emptyMsg: "이 장의 절 목록을 아직 불러오지 못했어요." };
+  verseBtn = pkMake([daFrom, daTo], () => {
+    const r = daRange();
+    if (!r) return { text: daLoaded || !daSeq ? "절 선택" : "불러오는 중…", ph: true };
+    const a = daCells[r[0]].label, b = daCells[r[1]].label;
+    return { text: a === b ? a + "절" : a + " ~ " + b + "절" };
+  }, 108, close => pkVerseMenu(close, vctx)); verseBtn.title = "절 고르기 (시작 절 → 끝 절)";
+  daBook.addEventListener("change", () => { fillNum(daChap, BibleDB.book(daBook.value).chapters, 1); daLoading = daLoad(); });
+  daChap.addEventListener("change", () => { daLoading = daLoad(); });
+  daFrom.addEventListener("change", () => { // 시작 절을 고르면 끝 절이 비었거나 시작보다 앞일 때 같은 절로 맞춤(= 한 절만)
+    if (daFrom.value === "") daTo.value = "";
+    else if (daTo.value === "" || +daTo.value < +daFrom.value) daTo.value = daFrom.value;
+    daUpdateSum();
+  });
+  daTo.addEventListener("change", () => { if (daTo.value !== "" && (daFrom.value === "" || +daTo.value < +daFrom.value)) daFrom.value = daTo.value; daUpdateSum(); });
+  daGo.addEventListener("click", () => {
+    const seg = daSeg(); if (!seg || !dbCur) return;
+    const segs = daList(seg), bad = dbSegsCheck(segs);
+    if (bad) { showToast(bad, true); return; }
+    daOverlay.classList.remove("open");
+    dbGo({ segs, active: dbActive + 1 });
+  });
+  const close = () => daOverlay.classList.remove("open");
+  document.getElementById("daClose").addEventListener("click", close);
+  daOverlay.addEventListener("click", e => { if (e.target === daOverlay) close(); });
+}
+document.getElementById("dbAddSeg").addEventListener("click", e => {
+  if (e.detail > 0) e.currentTarget.blur();
+  if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요.", true); return; }
+  if (!dbCur) { showToast("절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.", true); return; }
+  daInit();
+  const a = dbSegs[dbActive] || dbSelNow();
+  daBook.value = a.en; fillNum(daChap, BibleDB.book(a.en).chapters, a.ch);
+  daOverlay.classList.add("open"); daLoading = daLoad();
+});
+macSyncs.push(() => { if (appMode === "db" && dbCur) { dbRenderSegs(); dbUpdateVerseChips(); } }); // 화면 언어를 바꾸면 알약·절 표시 글자도 새 언어로
 // ---- 슬라이드 만들기 모드에서 성경 DB 구절 불러오기 ----
 // 성경·장·시작 절·끝 절을 드롭다운으로 고른다(처음엔 아무것도 선택돼 있지 않음). 시작 절만 고르면 그 절 하나, 끝 절까지 고르면 그 사이 전부.
 // 한 절이 여러 페이지면 드롭다운에는 "16 (a)", "16 (b)"로 나뉘어 보이지만, 조각에 붙는 표시는 "16a"로 저장하고 슬라이드에는 숫자(16)만 보인다(refDisplay).
@@ -851,3 +1089,16 @@ function setMode(m) {
   }
 }
 document.querySelectorAll("#modeSeg button").forEach(b => b.addEventListener("click", () => setMode(b.dataset.mode)));
+
+// 성경 DB 모드에 처음 들어갈 때 기다리지 않도록: 페이지가 한가해지면 "마지막으로 보던 구절"의 장 파일만 미리 읽어 둔다(성경 전체가 아니라 그 장 하나씩).
+// BibleDB.load는 같은 장을 한 번만 읽고 결과를 기억하므로, 나중에 dbGo가 같은 장을 부르면 이미 받아 둔 것을 곧바로 씀. 파일이 없어도 조용히 무시.
+(function prefetchLastChapter() {
+  if (!window.BibleDB) return;
+  const run = () => {
+    try {
+      const s = dbLoadSel(), segs = s.segs && s.segs.length ? s.segs : [s], seen = new Set();
+      segs.forEach(g => { const k = g.en + "|" + g.ch; if (seen.has(k) || seen.size >= 5) return; seen.add(k); BibleDB.load(g.en, g.ch).catch(() => {}); });
+    } catch (e) { /* 미리 읽기는 못 해도 괜찮음: 들어갈 때 읽음 */ }
+  };
+  if (window.requestIdleCallback) requestIdleCallback(run, { timeout: 2500 }); else setTimeout(run, 800);
+})();

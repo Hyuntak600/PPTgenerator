@@ -7,6 +7,7 @@
      큰따옴표가 있으면 속성이 거기서 끊겨 영어 문장이 중간까지만 보인다. */
 (function(){
   const EN = {
+    "＋ 구절 추가":"＋ Add verses","구절 추가":"Add verses","추가하기":"Add","불러온 구절":"Loaded passages","다른 성경·같은 권의 다른 장·떨어진 절을 이 화면에 함께 불러와요 (지금 고른 구절 바로 뒤에 들어가요)":"Load another book, another chapter of the same book, or verses far apart on this same screen (they go right after the verses you're on)","눌러서 이 구절로 이동해요 (위의 성경·장·절이 이 구절 기준으로 바뀌어요)":"Click to jump to this passage (the Bible / Chapter / Verse boxes above switch to it)","이 구절을 화면에서 빼요 (고친 내용은 저장돼 있어요)":"Take this passage off the screen (your edits stay saved)","이 구절을 화면에서 빼요":"Take this passage off the screen","화면에서 뺐어요. 고친 내용은 저장돼 있어요.":"Taken off the screen. Your edits are still saved.","이미 불러온 절과 겹쳐요. 겹치지 않는 절을 골라 주세요.":"That overlaps verses already on screen. Pick verses that don't overlap.","⚠ 일부 장의 성경 데이터를 찾지 못했어요":"⚠ Couldn't find Bible data for some chapters","아직 데이터가 없어요":"No data yet",
     "슬라이드만 보기":"Slides only","슬라이드만":"Slides","툴팁":"Tips","사용 팁":"Tips","모든 사용 팁 보기":"Show all tips","편집":"Edit","편집 화면":"Editor view","편집 화면으로":"Back to editor","왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)":"Hide the script columns and view slides only (turn off: Esc)","왼쪽 원고 칸을 다시 보여 줘요 (Esc)":"Show the script columns again (Esc)",
     "취소":"Cancel","모두 삭제":"Delete all","삭제":"Delete","지우기":"Clear","복구":"Restore","바꾸기":"Replace",
     "수정한 성경 구절 삭제":"Delete your Bible verse edits","성경 구절은 Ctrl/⌘+클릭으로 고르거나 지울 수 없어요. 구절을 눌러 고른 뒤 Delete를 누르거나 슬라이드의 ✕를 써 주세요.":"Bible verses can't be picked or deleted with Ctrl/⌘+click. Click the verse to select it, then press Delete, or use the ✕ on the slide.","백업으로 복구":"Restore backup","파일로 바꾸기":"Replace with file",
@@ -88,6 +89,20 @@
     "예요.":".",
     "화면 언어 · Interface language":"Interface language · 화면 언어",
     /* 스크립트가 만드는 문구 */
+    "안 받음":"Not downloaded","받기 실패":"Download failed","받음 · 최근 번역 오류":"Downloaded · recent translation error",
+    "지원 안 함 (서버가 맡아요)":"Not supported (the server handles it)",
+    "안 받은 팩은 위쪽 번역 칩을 눌러 받아요 (한 번에 하나씩 받아져서 여러 번 눌러야 할 수 있어요)":"Click the translation chip at the top to download missing packs (only one at a time, so you may need to click several times).",
+    "툴팁 줄 숨기기 (위쪽 도움말 → 툴팁에서 다시 켜요)":"Hide the tips bar (turn it back on from Help → Tips)","툴팁 줄 숨기기":"Hide tips bar",
+    "숨겨 둔 툴팁 줄(단축키 안내)을 다시 보여 줘요":"Show the hidden tips bar (shortcut hints) again",
+    "툴팁 줄을 숨겼어요. 위쪽 도움말 → 툴팁에서 다시 볼 수 있어요.":"Tips bar hidden. You can bring it back from Help → Tips at the top.",
+    "툴팁 줄을 다시 보여 줘요.":"Tips bar is back.","툴팁 줄이 이미 보이고 있어요.":"The tips bar is already showing.",
+    "브라우저 내장 번역 팩":"Browser built-in packs","번역 서버 언어 모델":"Translation server language models",
+    "받음":"Downloaded","받음 · 최근 번역 오류 (마우스를 올려 보세요)":"Downloaded · recent translation error (hover to see)","받는 중":"Downloading","안 받음 (번역 칩을 눌러 받기)":"Not downloaded (click the translation chip)",
+    "받기 실패 (번역 칩을 다시 눌러 주세요)":"Download failed (click the translation chip again)",
+    "이 브라우저는 지원 안 함 (서버가 맡아요)":"Not supported by this browser (the server handles it)",
+    "이 브라우저에는 내장 번역기가 없어요":"This browser has no built-in translator",
+    "설치됨":"Installed","서버에 없음 (설치 필요)":"Not on the server (install needed)",
+    "서버에 연결되지 않아 확인할 수 없어요":"Can't check: the server isn't connected",
     "LibreTranslate 서버 연결 확인 중...":"Checking LibreTranslate server connection...",
     "맥의 5000번 포트를 AirPlay 수신 모드가 쓰고 있는 것 같아요(HTTP 403). 시스템 설정 → 일반 → AirDrop 및 Handoff에서 AirPlay 수신 모드를 끄고 다시 확인해 주세요.":"Port 5000 on your Mac seems to be used by AirPlay Receiver (HTTP 403). Turn off AirPlay Receiver in System Settings → General → AirDrop & Handoff, then check again.",
     "사파리는 일주일 넘게 안 열면 저장 데이터가 지워질 수 있어요. 수정한 구절은 그때그때 DB 코드로 보내 주세요.":"Safari may erase saved data if you don\u2019t open this page for over a week. Send edited verses as a DB code as you go.",
@@ -130,6 +145,9 @@
   const L = x => EN[x] || x;
   const undoName = a => EN[a] || a.replace(/^(\d+)개 조각 삭제$/, (m, n) => "Delete " + n + " pieces");
   const RX = [
+    [/^받는 중 (\d+)%$/, n => "Downloading " + n + "%"],
+    [/^한 화면에는 절을 최대 (\d+)절까지 불러올 수 있어요\.$/, n => "You can load up to " + n + " verses on one screen."],
+    [/^(.+) · (\d+)절$/, (a, n) => a + " · " + n + (n === "1" ? " verse" : " verses")],
     [/^다른 언어로 보이는 (\d+)줄을 뺐어요\.(?: (.+) 칸은 거의 다른 언어라 그대로 뒀어요\.)? \(되돌리기: Ctrl\/⌘\+Z\)$/, (n, k) => n + " other-language lines removed." + (k ? " Left as is (almost entirely another language): " + k.split("·").map(L).join(", ") + "." : "") + " (Undo: Ctrl/⌘+Z)"],
     [/^(.+) 칸은 거의 다른 언어라 그대로 뒀어요\.$/, k => "Left as is (almost entirely another language): " + k.split("·").map(L).join(", ") + "."],
     [/^선택 (\d+)개(?: \((.*)\))?$/, (n, r) => n + " selected" + (r ? " (" + r + ")" : "")],
