@@ -1178,6 +1178,9 @@ html .head-top .lt-chip{gap:6px;}
 html .hmenu-panel .btn{width:100%; justify-content:flex-start; background:transparent; box-shadow:none; text-align:left;}
 html .hmenu-panel .btn:hover{background:color-mix(in srgb,var(--ink) 9%,transparent);}
 .hmenu-panel hr{border:0; border-top:1px solid var(--line); margin:4px 2px;}
+/* 메뉴 항목: 아이콘 칸 폭과 줄 높이를 모두 같게 맞춤(글자 시작 위치가 한 줄로 정렬되게) */
+.hmenu-panel .btn{display:flex; align-items:center; gap:0; padding:5px 10px; line-height:1.3; white-space:nowrap;}
+.hmenu-panel .btn .ic{width:1.1em; height:1.1em; margin:0 .6em 0 0; flex:none;}
 .settings-panel .setting .btn{min-width:96px;}
 
 /* ── 시작 안내 새 디자인: 큰 제목+로고, 4단계 카드, 부드러운 튜토리얼·패치노트 ── */
@@ -1601,7 +1604,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
     <details class="hmenu" id="helpMenu"><summary class="btn quiet" title="사용법 · 서버 설치 안내">도움말</summary><div class="hmenu-panel">
       <button type="button" class="btn quiet" id="patchReopenBtn" title="사용법 · 번역 체험 · 최신 패치노트 · 개발자 노트"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>시작 안내</button>
       <button type="button" class="btn quiet" id="howtoReopenBtn" title="번역 미리보기에 쓰는 번역 서버 설치 방법"><svg class="ic ic-server" aria-hidden="true"><use href="#i-server"/></svg>서버 안내</button>
-      <button type="button" class="btn quiet" id="tipsToggleBtn" title="숨겨 둔 툴팁 줄(단축키 안내)을 다시 보여 줘요"><svg class="ic ic-info" aria-hidden="true"><use href="#i-info"/></svg>툴팁</button>
+      <button type="button" class="btn quiet" id="tipsToggleBtn" title="숨겨 둔 툴팁 줄(단축키 안내)을 다시 보여 줘요"><svg class="ic ic-bolt" aria-hidden="true"><use href="#i-bolt"/></svg>툴팁</button>
     </div></details>
     <button type="button" class="btn quiet lt-chip" id="ltChip" data-state="check" title="눌러서 번역 서버 연결을 다시 확인"><i></i><span>번역 서버 확인 중</span></button>
     <div class="head-actions">
@@ -1609,14 +1612,14 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <button type="button" class="btn quiet danger" id="storageWarn" hidden title="브라우저 저장 공간이 거의 찼거나 자동 백업을 줄였어요. 눌러서 백업·복구를 열고 파일로 저장해 두세요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>저장 공간 부족</button>
       <button type="button" class="btn primary db-only" id="dbCodeBtn" title="수정한 구절을 관리자에게 보낼 코드로 복사해요"><svg class="ic ic-code" aria-hidden="true"><use href="#i-code"/></svg>DB 코드 복사</button>
       <button type="button" class="btn" id="copyAllBtn" title="슬라이드 전체 글자를 메모장처럼 보여 주는 창을 열어요 (복사는 창 안의 복사 버튼)"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>복사</button>
-      <details class="hmenu end" id="dataMenu"><summary class="btn" title="백업·복구 · 지우기">데이터</summary><div class="hmenu-panel">
+      <details class="hmenu end" id="dataMenu"><summary class="btn" title="삭제 · 백업·복구">삭제</summary><div class="hmenu-panel">
       <button type="button" class="btn slide-only" id="bkOpenBtn" title="자동 백업 목록에서 되돌리거나, 원고를 파일로 저장·불러와요"><svg class="ic ic-shield" aria-hidden="true"><use href="#i-shield"/></svg>백업·복구</button>
-      <button type="button" class="btn slide-only" id="filterLogBtn" title="[섞인 언어 자동 삭제]로 지운 글자를 그대로 남겨 둔 기록이에요. 지운 뒤에도 맞게 지웠는지 확인할 수 있어요">섞인 언어 삭제 기록</button>
+      <button type="button" class="btn slide-only" id="filterLogBtn" title="[섞인 언어 자동 삭제]로 지운 글자를 그대로 남겨 둔 기록이에요. 지운 뒤에도 맞게 지웠는지 확인할 수 있어요"><svg class="ic ic-clipboard" aria-hidden="true"><use href="#i-clipboard"/></svg>섞인 언어 삭제 기록</button>
       <hr class="slide-only">
-      <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
+      <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>작업 내용 지우기</button>
       <hr class="db-only">
-      <button type="button" class="btn quiet danger wipe db-only" id="dbResetBtn" title="성경 DB 모드에서 내가 고친 구절(초안)을 모두 지우고 원래 내용으로 되돌려요. 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요">작업 내용 지우기</button>
-      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
+      <button type="button" class="btn quiet danger wipe db-only" id="dbResetBtn" title="성경 DB 모드에서 내가 고친 구절(초안)을 모두 지우고 원래 내용으로 되돌려요. 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>작업 내용 지우기</button>
+      <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-warn" aria-hidden="true"><use href="#i-warn"/></svg>모든 데이터 삭제</button>
     </div></details>
     </div>
   </div>

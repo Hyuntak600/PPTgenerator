@@ -90,7 +90,8 @@
 
   // 언제든 다시 볼 수 있는 [패치노트] 버튼: 시작 안내 버튼 바로 옆에 붙임
   if (reopenBtn) {
-    const b = el("button", reopenBtn.className, "패치노트"); b.type = "button"; b.id = "patchNotesBtn";
+    const b = el("button", reopenBtn.className); b.type = "button"; b.id = "patchNotesBtn";
+    b.innerHTML = (typeof icon === "function" ? icon("sparkles") : "") + "패치노트";
     b.title = "이번 버전에서 새로 생긴 기능 보기";
     b.addEventListener("click", e => { if (e.detail > 0) b.blur(); open(); });
     reopenBtn.insertAdjacentElement("afterend", b);
