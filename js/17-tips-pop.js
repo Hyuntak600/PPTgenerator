@@ -38,3 +38,23 @@
   }
   btn.addEventListener("click", () => (pop ? close() : open()));
 })();
+
+// 툴팁 줄 숨기기/다시 보기: 줄 맨 오른쪽 ✕ = 숨김, 위쪽 도움말 ▾ → [툴팁] = 다시 보임(원래 모양 그대로).
+//  - 03-slides.js가 줄의 hidden 속성을 계속 풀어 놓으므로, 숨김은 <html data-tips="off">(CSS)로 처리함
+//  - 고른 상태는 이 브라우저에 기억(localStorage "subtitleTipsHidden"). 첫 화면 깜빡임을 막으려고 같은 값을 HTML에서도 먼저 읽음
+(function initTipsToggle() {
+  const x = document.getElementById("tipsCloseBtn"), back = document.getElementById("tipsToggleBtn");
+  if (!x || !back) return;
+  const root = document.documentElement, KEY = "subtitleTipsHidden";
+  const hidden = () => root.getAttribute("data-tips") === "off";
+  function set(off, msg) {
+    if (off) root.setAttribute("data-tips", "off"); else root.removeAttribute("data-tips");
+    try { localStorage.setItem(KEY, off ? "1" : "0"); } catch (e) { /* 못 남겨도 이번 화면에서는 적용됨 */ }
+    if (msg && typeof showToast === "function") showToast(msg);
+  }
+  x.addEventListener("click", e => { if (e.detail > 0) x.blur(); set(true, "툴팁 줄을 숨겼어요. 위쪽 도움말 → 툴팁에서 다시 볼 수 있어요."); });
+  back.addEventListener("click", e => {
+    if (e.detail > 0) back.blur();
+    if (hidden()) set(false, "툴팁 줄을 다시 보여 줘요."); else if (typeof showToast === "function") showToast("툴팁 줄이 이미 보이고 있어요.");
+  });
+})();
