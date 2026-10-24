@@ -692,8 +692,13 @@ function pkVerseMenu(close, C = pkImpCtx()) {
     const m = document.createElement("div"); m.className = "pk-none"; m.textContent = C.loaded() ? C.emptyMsg : "불러오는 중이에요…"; sc.appendChild(m);
     return { el, key: () => false };
   }
-  const locked = i => cs[i].item < 0, { g, cells } = pkGrid(n, i => cs[i].label, locked, i => cs[i].title, 6);
-  cells.forEach((c, i) => { if (cs[i].dim) c.classList.add("dim"); }); // 내용 없는 절은 흐리게만(고를 수는 있음) — 성경 DB 편집용
+  const locked0 = i => cs[i].item < 0, taken = i => !!cs[i].taken, locked = i => locked0(i) || taken(i); // taken = 이미 화면에 있거나 추가 목록에 담긴 절(파란색, 누를 수 없음)
+  const { g, cells } = pkGrid(n, i => cs[i].label, locked0, i => cs[i].title, 6);
+  cells.forEach((c, i) => {
+    if (cs[i].dim) c.classList.add("dim"); // 내용 없는 절은 흐리게만(고를 수는 있음) — 성경 DB 편집용
+    if (taken(i)) { c.classList.add("taken"); c.setAttribute("aria-disabled", "true"); c.title = "이미 추가된 절이에요"; }
+  });
+  if (cells.some((c, i) => taken(i))) { const lg = document.createElement("div"); lg.className = "pk-legend pk-legend-taken"; lg.textContent = "파란색 = 이미 추가된 절"; el.insertBefore(lg, sc); }
   sc.appendChild(g);
   let anchor = -1, hov = -1, cur = -1;
   const range = () => { if (anchor >= 0) { const h = hov >= 0 ? hov : anchor; return [Math.min(anchor, h), Math.max(anchor, h)]; } return C.range() || [-1, -1]; };
@@ -751,8 +756,10 @@ pkMake([dbVerse], () => {
 // 성경 → 장 → 절(시작 → 끝, 또는 장 전체)을 고르면 "지금 고른 구절 바로 뒤"에 새 범위로 들어간다. 이미 올라온 절과 겹치면 막는다.
 // 올라온 범위들은 위쪽 알약으로 보이고, 알약을 누르면 위쪽 성경·장·절 칸이 그 범위 기준으로 바뀐다. 저장은 절마다 성경|장|절 키로 따로 된다.
 const daOverlay = document.getElementById("daOverlay"), daBook = document.getElementById("daBook"), daChap = document.getElementById("daChap"),
-      daFrom = document.getElementById("daFrom"), daTo = document.getElementById("daTo"), daSum = document.getElementById("daSum"), daGo = document.getElementById("daGo");
+      daFrom = document.getElementById("daFrom"), daTo = document.getElementById("daTo"), daSum = document.getElementById("daSum"), daGo = document.getElementById("daGo"),
+      daAdd = document.getElementById("daAdd"), daTray = document.getElementById("daTray");
 let daSeq = 0, daInited = false, daLoaded = false, daLoading = null, daCells = [];
+let daQueue = []; // 이 창에서 "목록에 담아" 둔 새 구절 범위들(아직 화면에는 안 올라감). [추가하기]를 누르면 한꺼번에 올라간다
 function daFill(sel, placeholder) {
   sel.textContent = "";
   const ph = document.createElement("option"); ph.value = ""; ph.textContent = placeholder; sel.appendChild(ph);
@@ -765,16 +772,39 @@ function daRange() { // 고른 범위 [처음 번호, 끝 번호] (시작 절을
   return [Math.min(a, b), Math.max(a, b)];
 }
 function daSeg() { const r = daRange(); return r ? { en: daBook.value, ch: +daChap.value || 1, v: r[0] + 1, vEnd: r[1] + 1 } : null; }
-function daList(seg) { const l = dbSegs.slice(); l.splice(dbActive + 1, 0, seg); return l; } // 새 범위는 지금 고른 범위 바로 뒤에
+// 화면에 올라갈 전체 목록: 담아 둔 구절들(+ 지금 고른 구절)이 지금 고른 범위 바로 뒤에 순서대로 들어간다
+function daList(seg) { const l = dbSegs.slice(); l.splice(dbActive + 1, 0, ...daQueue, ...(seg ? [seg] : [])); return l; }
+// 지금 장의 v절이 이미 화면에 있거나 담아 둔 목록에 있는지(파란색으로 표시)
+function daTaken(v) { const en = daBook.value, ch = +daChap.value || 1; return dbSegs.concat(daQueue).some(s => s.en === en && s.ch === ch && v >= s.v && v <= s.vEnd); }
+function daChip(text, cls, onX) {
+  const c = document.createElement("span"); c.className = "seg-chip " + cls;
+  const b = document.createElement("button"); b.type = "button"; b.className = "seg-chip-b"; b.textContent = text; b.tabIndex = -1; b.style.pointerEvents = "none"; c.appendChild(b);
+  if (onX) { const x = document.createElement("button"); x.type = "button"; x.className = "seg-chip-x"; x.textContent = "✕"; x.title = "목록에서 빼요"; x.setAttribute("aria-label", "목록에서 빼요"); x.addEventListener("click", onX); c.appendChild(x); b.style.pointerEvents = ""; b.tabIndex = 0; b.style.cursor = "default"; }
+  return c;
+}
+function daRenderTray() { // 이미 올라온 구절(파란색) + 이 창에서 담아 둔 구절(✕로 뺄 수 있음)
+  daTray.textContent = "";
+  const row = (label, chips) => {
+    const r = document.createElement("div"); r.className = "dbsegs da-row";
+    const l = document.createElement("span"); l.className = "dbsegs-l"; l.textContent = label; r.appendChild(l);
+    chips.forEach(c => r.appendChild(c)); daTray.appendChild(r);
+  };
+  row("이미 불러온 구절", dbSegs.map(s => daChip(dbSegName(s), "loaded")));
+  if (daQueue.length) row("추가할 구절 " + daQueue.length + "개", daQueue.map((s, i) => daChip(dbSegName(s), "queued", () => { daQueue.splice(i, 1); daUpdateSum(); })));
+}
 function daUpdateSum() {
   macSyncs.forEach(f => f());
-  const seg = daSeg();
-  if (!daLoaded) { daSum.textContent = "불러오는 중..."; daGo.disabled = true; return; }
-  if (!seg) { daSum.textContent = "절을 골라 주세요."; daGo.disabled = true; return; }
-  const bad = dbSegsCheck(daList(seg));
-  if (bad) { daSum.textContent = bad; daGo.disabled = true; return; }
-  daSum.textContent = dbSegName(seg) + " · " + (seg.vEnd - seg.v + 1) + "절";
-  daGo.disabled = false;
+  daRenderTray();
+  const seg = daSeg(), n = daQueue.length;
+  let msg = "", segOk = false;
+  if (!daLoaded) msg = "불러오는 중...";
+  else if (!seg) msg = n ? "더 담거나 [추가하기]를 눌러 한꺼번에 불러오세요." : "절을 골라 주세요.";
+  else { const bad = dbSegsCheck(daList(seg)); if (bad) msg = bad; else { msg = dbSegName(seg) + " · " + (seg.vEnd - seg.v + 1) + "절"; segOk = true; } }
+  daSum.textContent = msg;
+  daAdd.disabled = !segOk;
+  const total = n + (segOk ? 1 : 0);
+  daGo.disabled = total === 0 || !!dbSegsCheck(daList(segOk ? seg : null));
+  daGo.textContent = total > 1 ? total + "개 한꺼번에 추가" : "추가하기";
 }
 async function daLoad() {
   const my = ++daSeq, en = daBook.value, ch = +daChap.value || 1;
@@ -795,7 +825,7 @@ function daInit() {
   const afterChap = () => { const seq = daSeq; Promise.resolve(daLoading).then(() => { if (seq === daSeq && daOverlay.classList.contains("open") && !pkClose) verseBtn.pkOpen(); }); };
   pkMake([daBook], () => { const b = daBook.value ? BibleDB.book(daBook.value) : null; return { text: b ? bkName(b) : "성경 선택", ph: !b }; }, 118, close => pkBookMenu(close, () => chapBtn.pkOpen(), ctx)).title = "성경 고르기 (이름·영어·번호로 검색)";
   chapBtn = pkMake([daChap], () => ({ text: daChap.value ? daChap.value + "장" : "장", ph: !daChap.value }), 64, close => pkChapMenu(close, afterChap, ctx)); chapBtn.title = "장 고르기";
-  const vctx = { book: null, chap: null, from: daFrom, to: daTo, cells: () => daCells, loaded: () => daLoaded, range: daRange, update: daUpdateSum,
+  const vctx = { book: null, chap: null, from: daFrom, to: daTo, cells: () => daCells.map(c => ({ ...c, taken: daTaken(c.item + 1) })), loaded: () => daLoaded, range: daRange, update: daUpdateSum,
     all: () => { if (!daCells.length) return; daFrom.value = "0"; daTo.value = String(daCells.length - 1); daUpdateSum(); }, unit: "절", allText: "장 전체", emptyMsg: "이 장의 절 목록을 아직 불러오지 못했어요." };
   verseBtn = pkMake([daFrom, daTo], () => {
     const r = daRange();
@@ -811,10 +841,20 @@ function daInit() {
     daUpdateSum();
   });
   daTo.addEventListener("change", () => { if (daTo.value !== "" && (daFrom.value === "" || +daTo.value < +daFrom.value)) daFrom.value = daTo.value; daUpdateSum(); });
-  daGo.addEventListener("click", () => {
-    const seg = daSeg(); if (!seg || !dbCur) return;
-    const segs = daList(seg), bad = dbSegsCheck(segs);
+  daAdd.addEventListener("click", () => { // 지금 고른 구절을 목록에 담고, 절 선택만 비워서 이어서 다음 구절을 고르게 함(창은 닫지 않음)
+    const seg = daSeg(); if (!seg || dbSegsCheck(daList(seg))) return;
+    daQueue.push(seg);
+    daFrom.value = ""; daTo.value = "";
+    daUpdateSum();
+    if (verseBtn) verseBtn.focus();
+  });
+  daGo.addEventListener("click", () => { // 담아 둔 구절 전부(+ 지금 고른 구절이 있으면 그것도)를 한꺼번에 화면에 올림
+    if (!dbCur) return;
+    const seg = daSeg(), segOk = !!seg && !dbSegsCheck(daList(seg));
+    const segs = daList(segOk ? seg : null), bad = dbSegsCheck(segs);
+    if (segs.length === dbSegs.length) return;
     if (bad) { showToast(bad, true); return; }
+    daQueue = [];
     daOverlay.classList.remove("open");
     dbGo({ segs, active: dbActive + 1 });
   });
@@ -827,11 +867,32 @@ document.getElementById("dbAddSeg").addEventListener("click", e => {
   if (!window.BibleDB) { showToast("bibleDB 폴더를 찾지 못했어요. PPTgenerator.html과 같은 위치에 bibleDB 폴더가 있어야 해요.", true); return; }
   if (!dbCur) { showToast("절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.", true); return; }
   daInit();
+  daQueue = daQueue.filter((s, i, arr) => !dbSegs.some(o => dbSegHit(o, s)) && !arr.slice(0, i).some(o => dbSegHit(o, s))); // 닫았다 다시 열었을 때: 그 사이 화면에 올라온 절과 겹치는 것은 뺌
   const a = dbSegs[dbActive] || dbSelNow();
   daBook.value = a.en; fillNum(daChap, BibleDB.book(a.en).chapters, a.ch);
   daOverlay.classList.add("open"); daLoading = daLoad();
 });
 macSyncs.push(() => { if (appMode === "db" && dbCur) { dbRenderSegs(); dbUpdateVerseChips(); } }); // 화면 언어를 바꾸면 알약·절 표시 글자도 새 언어로
+// ---- 데이터 ▾ → [작업 내용 지우기] (성경 DB 모드) ----
+// 이 브라우저에 저장된 "내가 고친 구절"(DB 초안 = DB_KEY)만 지우고, 화면은 원래(장 파일) 내용으로 다시 불러온다.
+// 슬라이드 만들기 모드의 원고·백업·설정·번역 캐시는 건드리지 않고, 반대로 슬라이드 모드의 [작업 내용 지우기]·[모든 데이터 삭제]도 DB 초안은 지우지 않는다(서로 영향 없음).
+// 마지막에 보던 구절(DB_SEL_KEY)은 그대로 둬서 같은 자리에서 이어서 볼 수 있다. 홈페이지에 배포된 원본(bibleDB 폴더)은 읽기만 한다.
+async function dbResetWork() {
+  if (appMode !== "db") return;
+  if (!window.BibleDB || !dbCur) { showToast("절을 불러오는 중이에요. 잠시 뒤 다시 눌러 주세요.", true); return; }
+  saveDbNow(); // 화면에서 막 고치던 글도 세어 보도록 먼저 저장
+  const o = dbRead(), keys = Object.keys(o.d), unsent = keys.filter(k => dbIsUnsent(o, k)).length;
+  if (!keys.length && !dbBroken) { showToast("지울 수정 내용이 없어요."); return; }
+  const msg = "성경 DB에서 내가 고친 구절 " + keys.length + "개(아직 안 보낸 것 " + unsent + "개)를 모두 지우고 원래 내용으로 되돌려요.\n\n· 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요.\n· 지운 내용은 되돌릴 수 없어요. 아직 안 보낸 수정이 있으면 먼저 DB 코드 복사로 보내 두세요.\n\n계속할까요?";
+  if (!(await macConfirm(msg, { title: "작업 내용 지우기", ok: "지우기", danger: true }))) return;
+  const segs = dbSegs.map(s => ({ en: s.en, ch: s.ch, v: s.v, vEnd: s.vEnd })), active = dbActive;
+  try { localStorage.removeItem(DB_KEY); } catch (e) { showToast("지우지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.", true); return; }
+  dbBroken = false;
+  dbCur = null; // 화면에 남은 고친 글이 다시 초안으로 저장되지 않게(다시 불러오는 동안 저장 멈춤)
+  await dbGo({ segs, active });
+  showToast("고친 구절 " + keys.length + "개를 지우고 원래 내용으로 되돌렸어요.");
+}
+document.getElementById("dbResetBtn").addEventListener("click", dbResetWork);
 // ---- 슬라이드 만들기 모드에서 성경 DB 구절 불러오기 ----
 // 성경·장·시작 절·끝 절을 드롭다운으로 고른다(처음엔 아무것도 선택돼 있지 않음). 시작 절만 고르면 그 절 하나, 끝 절까지 고르면 그 사이 전부.
 // 한 절이 여러 페이지면 드롭다운에는 "16 (a)", "16 (b)"로 나뉘어 보이지만, 조각에 붙는 표시는 "16a"로 저장하고 슬라이드에는 숫자(16)만 보인다(refDisplay).

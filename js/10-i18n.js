@@ -7,6 +7,9 @@
      큰따옴표가 있으면 속성이 거기서 끊겨 영어 문장이 중간까지만 보인다. */
 (function(){
   const EN = {
+    "성경 DB 모드에서 내가 고친 구절(초안)을 모두 지우고 원래 내용으로 되돌려요. 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요":"Delete all verses you edited in Bible DB mode and restore the original text. Your script, backups and settings in Make slides mode stay as they are",
+    "지울 수정 내용이 없어요.":"There are no edits to delete.","지우지 못했어요. 브라우저 저장소를 쓸 수 없는 상태예요.":"Couldn't delete. Browser storage isn't available.",
+    "＋ 목록에 담기":"＋ Add to list","추가할 구절":"Passages to add","이미 추가된 절이에요":"Already added","파란색 = 이미 추가된 절":"Blue = already added","목록에서 빼요":"Remove from list","더 담거나 [추가하기]를 눌러 한꺼번에 불러오세요.":"Add more, or press [Add] to load them all at once.",
     "＋ 구절 추가":"＋ Add verses","구절 추가":"Add verses","추가하기":"Add","불러온 구절":"Loaded passages","다른 성경·같은 권의 다른 장·떨어진 절을 이 화면에 함께 불러와요 (지금 고른 구절 바로 뒤에 들어가요)":"Load another book, another chapter of the same book, or verses far apart on this same screen (they go right after the verses you're on)","눌러서 이 구절로 이동해요 (위의 성경·장·절이 이 구절 기준으로 바뀌어요)":"Click to jump to this passage (the Bible / Chapter / Verse boxes above switch to it)","이 구절을 화면에서 빼요 (고친 내용은 저장돼 있어요)":"Take this passage off the screen (your edits stay saved)","이 구절을 화면에서 빼요":"Take this passage off the screen","화면에서 뺐어요. 고친 내용은 저장돼 있어요.":"Taken off the screen. Your edits are still saved.","이미 불러온 절과 겹쳐요. 겹치지 않는 절을 골라 주세요.":"That overlaps verses already on screen. Pick verses that don't overlap.","⚠ 일부 장의 성경 데이터를 찾지 못했어요":"⚠ Couldn't find Bible data for some chapters","아직 데이터가 없어요":"No data yet",
     "슬라이드만 보기":"Slides only","슬라이드만":"Slides","툴팁":"Tips","사용 팁":"Tips","모든 사용 팁 보기":"Show all tips","편집":"Edit","편집 화면":"Editor view","편집 화면으로":"Back to editor","왼쪽 원고 칸을 숨기고 슬라이드만 크게 봐요 (끄기: Esc)":"Hide the script columns and view slides only (turn off: Esc)","왼쪽 원고 칸을 다시 보여 줘요 (Esc)":"Show the script columns again (Esc)",
     "취소":"Cancel","모두 삭제":"Delete all","삭제":"Delete","지우기":"Clear","복구":"Restore","바꾸기":"Replace",
@@ -145,6 +148,8 @@
   const L = x => EN[x] || x;
   const undoName = a => EN[a] || a.replace(/^(\d+)개 조각 삭제$/, (m, n) => "Delete " + n + " pieces");
   const RX = [
+    [/^(\d+)개 한꺼번에 추가$/, n => "Add " + n + " at once"],
+    [/^추가할 구절 (\d+)개$/, n => "Passages to add: " + n],
     [/^받는 중 (\d+)%$/, n => "Downloading " + n + "%"],
     [/^한 화면에는 절을 최대 (\d+)절까지 불러올 수 있어요\.$/, n => "You can load up to " + n + " verses on one screen."],
     [/^(.+) · (\d+)절$/, (a, n) => a + " · " + n + (n === "1" ? " verse" : " verses")],

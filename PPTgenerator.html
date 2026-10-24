@@ -791,6 +791,14 @@ html[data-mode="db"] .slide-only{display:none !important;}
 .pk-cell.dim:not(.sel){opacity:.45;}
 .pk-cell.dim.sel{opacity:.85;}
 .pk-legend{font-size:.72rem; color:var(--sub); padding:0 4px 2px;}
+.pk-legend-taken{color:#2f7df6; font-weight:600;}
+/* 구절 추가 창: 이미 추가된 절 = 파란색(누를 수 없음) */
+.pk-cell.taken:not(.locked){background:color-mix(in srgb,#2f7df6 24%,transparent); color:#2f7df6; font-weight:600; opacity:1; cursor:not-allowed;}
+.da-tray{margin:2px 0 8px; display:flex; flex-direction:column; gap:6px;}
+.da-tray .da-row{margin-top:0;}
+.seg-chip.loaded{border-color:#2f7df6; background:color-mix(in srgb,#2f7df6 14%,transparent); color:#2f7df6;}
+.seg-chip.loaded button{color:#2f7df6; padding-right:11px;}
+.seg-chip.queued{border-color:var(--accent); background:color-mix(in srgb,var(--accent) 14%,transparent);}
 .pk-cell.locked{opacity:.3; cursor:not-allowed; background:transparent;}
 /* 슬라이드 만들기 모드의 성경 조각: 클릭·수정 없이 "줄 선택"만 됨 */
 .box.bible{cursor:pointer;}
@@ -803,7 +811,8 @@ html[data-mode="db"] .slide-only{display:none !important;}
 /* 성경 DB 모드: 함께 불러온 구절 알약(둘 이상일 때만 보임) */
 .dbsegs{display:flex; flex-wrap:wrap; align-items:center; gap:6px 8px; margin-top:8px; font-size:.78rem;}
 .dbsegs[hidden]{display:none !important;}
-.dbbar .dbsegs{margin-top:0; flex:0 1 auto; min-width:0; max-width:100%;}
+.dbbar .dbsegs{display:contents;} /* 알약을 툴바의 낱개 항목으로 풀어 줌: 줄이 모자라면 넘치는 알약만 다음 줄로 내려가고, 앞의 알약은 첫 줄에 그대로 남음 */
+.dbbar .dbsegs > .seg-chip{margin-right:-14px;} /* 툴바의 넓은 칸 간격(22px) 대신 알약끼리는 8px로 붙임 */
 .dbsegs-l{color:var(--sub); font-weight:600; margin-right:2px;}
 .seg-chip{display:inline-flex; align-items:center; border:1px solid var(--line); border-radius:999px; background:color-mix(in srgb,var(--ink) 4%,transparent); overflow:hidden;}
 .seg-chip.active{border-color:var(--accent); background:color-mix(in srgb,var(--accent) 14%,transparent);}
@@ -1500,14 +1509,16 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <div class="patch-overlay" id="daOverlay">
   <div class="patch-modal imp-modal" role="dialog" aria-modal="true" aria-labelledby="daTitle" tabindex="-1">
     <h2 id="daTitle"><svg class="ic ic-book" aria-hidden="true"><use href="#i-book"/></svg>구절 추가</h2>
-    <p class="patch-sub" data-en="Pick the Bible, then chapter, then verse, and they're loaded on the same screen right after the verses you're on. Other books, other chapters of the same book, or verses far apart all work. Each verse is still saved on its own, and verses already on screen can't be added twice.">성경 → 장 → 절 순서로 고르면 지금 고른 구절 <b>바로 뒤</b>에 같은 화면으로 불러와요. 다른 성경, 같은 권의 다른 장, 떨어진 절도 모두 돼요. 저장은 <b>절마다 따로</b> 되고, 이미 올라온 절은 다시 추가할 수 없어요.</p>
+    <p class="patch-sub" data-en="Pick the Bible, chapter and verses, then press <b>＋ Add to list</b>. Keep this window open and add as many passages as you like, then load them all at once with [Add]. <b>Blue</b> means already added.">성경 → 장 → 절을 고르고 <b>＋ 목록에 담기</b>를 누르세요. 이 창을 닫지 않고 <b>여러 구절을 계속 담은 뒤</b> [추가하기]로 한 번에 불러와요. <b>파란색</b>은 이미 추가된 구절이에요.</p>
     <div class="wel-row imp-pick">
       <label class="field"><span>성경</span><select id="daBook"></select></label>
       <label class="field"><span>장</span><select id="daChap"></select></label>
       <div class="field"><span>절</span><select id="daFrom" title="시작 절"></select><select id="daTo" title="끝 절"></select></div>
     </div>
+    <div class="da-tray" id="daTray"></div>
     <div class="imp-box"><p class="patch-sub imp-sum" id="daSum"></p></div>
     <div class="copy-actions">
+      <button type="button" class="btn" id="daAdd" disabled>＋ 목록에 담기</button>
       <button type="button" class="btn primary" id="daGo" disabled>추가하기</button>
       <button class="patch-close-btn" id="daClose">닫기</button>
     </div>
@@ -1604,6 +1615,8 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
       <button type="button" class="btn slide-only" id="filterLogBtn" title="[섞인 언어 자동 삭제]로 지운 글자를 그대로 남겨 둔 기록이에요. 지운 뒤에도 맞게 지웠는지 확인할 수 있어요">섞인 언어 삭제 기록</button>
       <hr class="slide-only">
       <button type="button" class="btn quiet danger wipe slide-only" id="resetBtn" title="지금 만들던 왼쪽 원고와 오른쪽 슬라이드만 비우고 새로 시작해요. 백업·설정·번역 캐시는 그대로 남고, 지우기 직전 내용은 🛡️ 백업·복구에서 되돌릴 수 있어요">작업 내용 지우기</button>
+      <hr class="db-only">
+      <button type="button" class="btn quiet danger wipe db-only" id="dbResetBtn" title="성경 DB 모드에서 내가 고친 구절(초안)을 모두 지우고 원래 내용으로 되돌려요. 슬라이드 만들기 모드의 원고·백업·설정은 그대로예요">작업 내용 지우기</button>
       <button type="button" class="btn quiet danger wipe" id="wipeBtn" title="⚠ 이 PC에 저장된 데이터(원고·자동 백업·번역 캐시·설정)를 지우고 처음 상태로 되돌려요. 성경 DB(내가 수정한 구절 포함)는 지워지지 않아요"><svg class="ic ic-trash" aria-hidden="true"><use href="#i-trash"/></svg>모든 데이터 삭제</button>
     </div></details>
     </div>
@@ -1742,6 +1755,7 @@ html .wel-fold>summary{padding:8px 12px; font-size:.84rem;}
 <script defer src="js/08-welcome-demo.js?v=20261011a"></script>
 <script defer src="js/09-theme.js?v=20261002e"></script>
 <script id="i18nModule" defer src="js/10-i18n.js?v=20261024a"></script>
+<script defer src="js/21-patch-notes.js?v=20261024a"></script>
 <script defer src="js/11-modal-guard.js?v=20261011b"></script>
 <script defer src="js/12-view-only.js?v=20261003hbc"></script>
 <script defer src="js/17-tips-pop.js?v=20261003a"></script>
